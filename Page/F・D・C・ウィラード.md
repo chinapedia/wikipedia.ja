@@ -1,4 +1,4 @@
-> この記事は[FDC](https://ja.wikipedia.org/wiki/FDC)から翻訳されています。
+> この記事は[F・D・C・ウィラード](https://ja.wikipedia.org/wiki/F・D・C・ウィラード)から翻訳されています。
 
 
 **F・D・C・ウィラード**(–1982)はチェスターと名付けられた[シャム猫](https://ja.wikipedia.org/wiki/シャム猫 "wikilink")のペンネーム。 チェスターはこのペンネームを用い、一度は共著者として、もう一度は単独著者として、科学論文誌において物理学に関する論文を発表した。

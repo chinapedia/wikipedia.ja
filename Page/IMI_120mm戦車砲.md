@@ -1,4 +1,4 @@
-> この記事は[IMI 120mm](https://ja.wikipedia.org/wiki/IMI_120mm)から翻訳されています。
+> この記事は[IMI 120mm戦車砲](https://ja.wikipedia.org/wiki/IMI_120mm戦車砲)から翻訳されています。
 
 
 **IMI 120mm戦車砲** () は、[イスラエル・ミリタリー・インダストリーズ](../Page/イスラエル・ミリタリー・インダストリーズ.md "wikilink") (IMI) が設計・製造を行っている44[口径](../Page/口径.md "wikilink")[滑腔](../Page/滑腔砲.md "wikilink")[戦車砲](../Page/戦車砲.md "wikilink")である。この戦車砲は[ラインメタル](../Page/ラインメタル.md "wikilink")の[L44 120mm戦車砲の](../Page/ラインメタル_120_mm_L44.md "wikilink")[ライセンス生産](../Page/ライセンス生産.md "wikilink")品であると誤解されているが、実際には[イスラエル国防軍](../Page/イスラエル国防軍.md "wikilink")の[メルカバ Mk 3](https://ja.wikipedia.org/wiki/メルカバ_\(戦車\)#メルカバ_Mk_3 "wikilink")[主力戦車](../Page/主力戦車.md "wikilink")のために1983年から1988年にかけてIMIによって独自開発された戦車砲である。[105mm戦車砲の搭載を前提として設計されたメルカバや](../Page/ロイヤル・オードナンス_L7.md "wikilink")[M60パットン](../Page/M60パットン.md "wikilink")の砲塔でも搭載可能なように設計されている。

@@ -1,4 +1,4 @@
-> この記事は[Re for you](https://ja.wikipedia.org/wiki/Re_for_you)から翻訳されています。
+> この記事は[Reバース for you](https://ja.wikipedia.org/wiki/Reバース_for_you)から翻訳されています。
 
 
 『**Reバース for you**』（リバース フォー ユー）は、[ブシロード](../Page/ブシロード.md "wikilink")より発売されている[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")。

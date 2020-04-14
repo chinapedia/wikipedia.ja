@@ -1,4 +1,4 @@
-> この記事は[MOI \(\)](https://ja.wikipedia.org/wiki/MOI_\(\))から翻訳されています。
+> この記事は[MOI \(イタリア\)](https://ja.wikipedia.org/wiki/MOI_\(イタリア\))から翻訳されています。
 
 
 "MOI"（Marchio di Ospitalità Italiana、イタリアホスピタリティー国際認証マーク）は、ISNART（イタリア国立観光リサーチ研究所）とUNIONCAMERE（イタリア商工会議所連合会）が展開するイタリアン・レストランを対象にとした国際認定。

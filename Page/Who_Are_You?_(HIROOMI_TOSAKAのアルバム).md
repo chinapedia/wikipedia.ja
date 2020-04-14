@@ -1,4 +1,4 @@
-> この記事は[Who Are You\? \(HIROOMI TOSAKA\)](https://ja.wikipedia.org/wiki/Who_Are_You\?_\(HIROOMI_TOSAKA\))から翻訳されています。
+> この記事は[Who Are You\? \(HIROOMI TOSAKAのアルバム\)](https://ja.wikipedia.org/wiki/Who_Are_You\?_\(HIROOMI_TOSAKAのアルバム\))から翻訳されています。
 
 
 『**Who Are You?**』（フー・アー・ユー?）は、[三代目 J SOUL BROTHERS from EXILE TRIBEのボーカル](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")、[HIROOMI TOSAKA](https://ja.wikipedia.org/wiki/登坂広臣 "wikilink")（登坂広臣）の通算2枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")である。[2020年](../Page/2020年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。

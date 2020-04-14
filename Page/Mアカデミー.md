@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[Mアカデミー](https://ja.wikipedia.org/wiki/Mアカデミー)から翻訳されています。
 
 
 **Mアカデミー**(）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に所在する、芸能[養成施設](../Page/養成施設.md "wikilink")である。

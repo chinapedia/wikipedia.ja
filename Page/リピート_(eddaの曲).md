@@ -1,7 +1,7 @@
-> この記事は[ \(edda\)](https://ja.wikipedia.org/wiki/_\(edda\))から翻訳されています。
+> この記事は[リピート \(eddaの曲\)](https://ja.wikipedia.org/wiki/リピート_\(eddaの曲\))から翻訳されています。
 
 
-「**リピート**」とは、[edda](https://ja.wikipedia.org/wiki/edda "wikilink")の[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より発売された。
+「**リピート**」とは、[edda](https://ja.wikipedia.org/wiki/edda "wikilink")の楽曲である。[2018年](../Page/2018年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 

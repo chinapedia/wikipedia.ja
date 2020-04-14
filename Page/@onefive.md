@@ -5,11 +5,11 @@
 
 ## 概要
 
-2019年、芸能事務所「アミューズ」に所属するメンバーで結成された4人組ガールズユニット。メンバーの全員が[さくら学院](https://ja.wikipedia.org/wiki/さくら学院 "wikilink")に所属している。
+2019年、芸能事務所「アミューズ」に所属するメンバーで結成された15歳の4人組ガールズユニット。[さくら学院](https://ja.wikipedia.org/wiki/さくら学院 "wikilink")の中等部3年メンバー4人からなる。
 
-2019年10月15日、突如[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")、[Twitter](../Page/Twitter.md "wikilink")のアカウントが開設される。顔を露出せず、メンバー全員が15歳の4人組ガールズユニットであるという情報のみが明らかにされ、オリジナル楽曲「Pinky Promise」のティザー映像が公開された\[1\]。
+2019年10月15日、突如SNSのアカウントが開設される。顔出しをせず、オリジナル楽曲「Pinky Promise」のティザー映像が公開されたため、その正体について話題になる\[1\]。
 
-10月19日、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[KAAT神奈川芸術劇場](https://ja.wikipedia.org/wiki/KAAT神奈川芸術劇場 "wikilink")で行われた、さくら学院のイベント「さくら学院祭☆2019」のアンコールで、その正体がさくら学院の中等部3年メンバー4人であることが発表された。同日、配信シングル「Pinky Promise」のミュージックビデオがYouTubeで公開され、ビジュアル写真が解禁された \[2\]\[3\]。
+同年10月19日、その正体がさくら学院の中等部3年メンバー4人であることが発表された。同日、配信シングル「Pinky Promise」のミュージックビデオがYouTubeで公開され、ビジュアル写真が解禁された \[2\]\[3\]。
 
 ## メンバー
 
@@ -67,8 +67,8 @@
 
 ### 2019年
 
-  - 10月15日、 YouTube、Instagram、Twitterのアカウントを開設し、活動を開始。SNSで配信シングル「Pinky Promise」のティザー映像を公開。
-  - 10月19日、 神奈川県・KAAT神奈川芸術劇場で行われたさくら学院のイベント「さくら学院祭☆2019」のアンコールで、その正体がさくら学院の中等部3年メンバーの藤平華乃、有友緒心、森萌々穂、吉田爽葉香であることを発表し、「Pinky Promise」を初披露\[4\]。同日、 ビジュアル、「Pinky Promise」の配信ジャケットが解禁され、YouTubeで「Pinky Promise」のミュージック・ビデオが公開された\[5\]。
+  - 10月15日、 [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")、[Twitter](../Page/Twitter.md "wikilink")のアカウントを開設し、活動を開始。SNSで配信シングル「Pinky Promise」のティザー映像を公開。
+  - 10月19日、 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[KAAT神奈川芸術劇場](https://ja.wikipedia.org/wiki/KAAT神奈川芸術劇場 "wikilink")で行われたさくら学院のイベント「さくら学院祭☆2019」のアンコールで、その正体がさくら学院の中等部3年メンバーの[藤平華乃](https://ja.wikipedia.org/wiki/藤平華乃 "wikilink")、[有友緒心](https://ja.wikipedia.org/wiki/有友緒心 "wikilink")、[森萌々穂](https://ja.wikipedia.org/wiki/森萌々穂 "wikilink")、[吉田爽葉香](https://ja.wikipedia.org/wiki/吉田爽葉香 "wikilink")であることを発表し、「Pinky Promise」を初披露\[4\]。同日、 ビジュアル、「Pinky Promise」の配信ジャケットが解禁され、YouTubeで「Pinky Promise」のミュージック・ビデオが公開された\[5\]。
   - 10月20日、配信シングル「Pinky Promise」が配信開始。
   -
 ## 作品

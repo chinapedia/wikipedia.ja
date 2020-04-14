@@ -1,7 +1,7 @@
-> この記事は[ PARTII](https://ja.wikipedia.org/wiki/_PARTII)から翻訳されています。
+> この記事は[クワイエット・プレイス PARTII](https://ja.wikipedia.org/wiki/クワイエット・プレイス_PARTII)から翻訳されています。
 
 
-『**クワイエット・プレイス PARTII**』（原題:*A Quiet Place: Part II*）は[2020年](../Page/2020年.md "wikilink")に公開される予定の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ホラー映画](../Page/ホラー映画.md "wikilink")である。監督は[ジョン・クラシンスキー](https://ja.wikipedia.org/wiki/ジョン・クラシンスキー "wikilink")、主演は[エミリー・ブラント](../Page/エミリー・ブラント.md "wikilink")が務めた。本作は[2018年](../Page/2018年.md "wikilink")に公開されたホラー映画『[クワイエット・プレイス](https://ja.wikipedia.org/wiki/クワイエット・プレイス "wikilink")』の続編である。
+『**クワイエット・プレイス PARTII**』（原題:*A Quiet Place: Part II*）は[2020年](../Page/2020年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ホラー映画](../Page/ホラー映画.md "wikilink")である。監督は[ジョン・クラシンスキー](https://ja.wikipedia.org/wiki/ジョン・クラシンスキー "wikilink")、主演は[エミリー・ブラント](../Page/エミリー・ブラント.md "wikilink")が務めた。本作は[2018年](../Page/2018年.md "wikilink")に公開されたホラー映画『[クワイエット・プレイス](https://ja.wikipedia.org/wiki/クワイエット・プレイス "wikilink")』の続編である。
 
 ## 概略
 
@@ -22,6 +22,7 @@
 <!-- end list -->
 
   - [ジャイモン・フンスー](../Page/ジャイモン・フンスー.md "wikilink")
+  - リー・アボット - [ジョン・クラシンスキー](https://ja.wikipedia.org/wiki/ジョン・クラシンスキー "wikilink")
   - ロジャー - [ウェイン・デュヴァル](https://ja.wikipedia.org/wiki/ウェイン・デュヴァル "wikilink")
 
 ## 製作
@@ -40,9 +41,9 @@
 
 ## 公開・マーケティング
 
-2019年12月18日、本作のティーザー・トレイラーが公開された\[14\]。
+2019年12月18日、本作のティーザー・トレイラーが公開された\[14\]。2020年1月1日、本作のオフィシャル・トレイラーが公開された\[15\]。3月8日、本作は[ニューヨーク](../Page/ニューヨーク.md "wikilink")でプレミア上映された\[16\]。
 
-当初、本作は2020年3月15日に全米公開される予定だったが\[15\]、後に公開日は同月20日に延期された\[16\]。
+当初、本作は2020年3月15日に全米公開される予定だったが\[17\]、後に公開日は同月20日に延期された\[18\]。2020年3月12日、[アメリカ合衆国で新型コロナウイルスが流行していることを受けて](https://ja.wikipedia.org/wiki/アメリカ合衆国における2019年コロナウイルス感染症の流行状況 "wikilink")、パラマウント映画は本作の公開を延期すると発表した\[19\]。
 
 ## 出典
 
@@ -70,3 +71,6 @@
 14.
 15.
 16.
+17.
+18.
+19.

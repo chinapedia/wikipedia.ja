@@ -1,4 +1,4 @@
-> この記事は[ \(Brian the Sun\)](https://ja.wikipedia.org/wiki/_\(Brian_the_Sun\))から翻訳されています。
+> この記事は[パラダイムシフト \(Brian the Sunの曲\)](https://ja.wikipedia.org/wiki/パラダイムシフト_\(Brian_the_Sunの曲\))から翻訳されています。
 
 
 「**パラダイムシフト**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Brian the Sunのメジャー](https://ja.wikipedia.org/wiki/Brian_the_Sun "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に[Epic Records Japanから発売された](../Page/エピックレコードジャパン.md "wikilink")。

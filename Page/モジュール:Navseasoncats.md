@@ -1,4 +1,4 @@
-> この記事は[:Navseasoncats](https://ja.wikipedia.org/wiki/:Navseasoncats)から翻訳されています。
+> この記事は[モジュール:Navseasoncats](https://ja.wikipedia.org/wiki/モジュール:Navseasoncats)から翻訳されています。
 
 
 local p = {}

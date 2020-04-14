@@ -40,7 +40,7 @@
 
   - [ランティスによる紹介ページ](https://lantis.jp/release-item/LACM-14931.html)
 
-[Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink") [Category:Aqoursの楽曲](https://ja.wikipedia.org/wiki/Category:Aqoursの楽曲 "wikilink") [Category:畑亜貴が制作した楽曲](https://ja.wikipedia.org/wiki/Category:畑亜貴が制作した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink") [Category:Aqoursの楽曲](https://ja.wikipedia.org/wiki/Category:Aqoursの楽曲 "wikilink") [Category:畑亜貴が制作した楽曲](https://ja.wikipedia.org/wiki/Category:畑亜貴が制作した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink")
 
 1.  [1](https://twitter.com/lovelive_staff/status/1134010042032635904) ラブライブ公式Twitterアカウント 2019年5月30日ツイート 2019年5月30日閲覧
 2.

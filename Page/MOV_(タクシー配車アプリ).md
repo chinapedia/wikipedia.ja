@@ -1,7 +1,7 @@
-> この記事は[MOV \(\)](https://ja.wikipedia.org/wiki/MOV_\(\))から翻訳されています。
+> この記事は[MOV \(タクシー配車アプリ\)](https://ja.wikipedia.org/wiki/MOV_\(タクシー配車アプリ\))から翻訳されています。
 
 
-**MOV**（モブ）は[ディー・エヌ・エー](../Page/ディー・エヌ・エー.md "wikilink")株式会社（DeNA）が開発した[タクシー](../Page/タクシー.md "wikilink")配車用アプリケーションである。対応するOSは[Android](../Page/Android.md "wikilink")、[iOSとなっている](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
+**MOV**（モブ）は[Mobility Technologies株式会社が開発した](https://ja.wikipedia.org/wiki/Mobility_Technologies "wikilink")[タクシー](../Page/タクシー.md "wikilink")配車用アプリケーションである。対応するOSは[Android](../Page/Android.md "wikilink")、[iOSとなっている](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
 
 ## 概要
 
@@ -23,19 +23,16 @@
       - [1月14日](../Page/1月14日.md "wikilink") - 東京都多摩地区にエリアを拡大\[8\]。
       - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - [第一交通産業](../Page/第一交通産業.md "wikilink")との協業を発表。今後、全国の第一交通タクシーで導入される\[9\]。
       - [2月4日](../Page/2月4日.md "wikilink") - [日本交通ホールディングス系の](../Page/日本交通_\(東京都\).md "wikilink")[JapanTaxi](https://ja.wikipedia.org/wiki/JapanTaxi "wikilink")と2020年[4月1日](../Page/4月1日.md "wikilink")に統合することを発表\[10\]。
+      - [4月1日](../Page/4月1日.md "wikilink") - [ディー・エヌ・エー](../Page/ディー・エヌ・エー.md "wikilink")（DeNA)のタクシー配車アプリ部門とJapanTaxiが統合され、Mobility Technologiesに社名変更された。
 
 ## 提供エリア
 
-  - [東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[京都府](../Page/京都府.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")
+  - [埼玉県](../Page/埼玉県.md "wikilink")、[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")、[京都府](../Page/京都府.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")
       - いずれも一部の地域では利用は不可。
 
 ## CM出演者
 
   - [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")
-      - TVCMは関西地区限定だが、ホームページに於いてCM動画とメイキング映像が公開されている。
-          - \[<https://www.youtube.com/watch?v=ufPHYvenZNo>　到着時間編\]
-          - \[<https://www.youtube.com/watch?v=8pmuvXm0NZ0>　つかまる編\]
-          - \[<https://www.youtube.com/watch?v=vWoq4unI65U>　メイキング映像\]
 
 ## 関連項目
 
@@ -48,9 +45,12 @@
   - [MOV](https://m-o-v.jp/)
       -
       -
-  - [MOV 《モブ》 - タクシー配車](https://twitter.com/mov_dena) (@mov_dena) - [Twitter](../Page/Twitter.md "wikilink")
-  - [MOV《モブ》 - タクシー配車アプリ by DeNA](https://www.instagram.com/mov_dena/) (mov_dena) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
-  - [MOV《モブ》 - 次世代タクシー配車アプリ紹介ムービー](https://www.youtube.com/watch?v=3MrzFKpPPtQ) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
+  - [Mobility Technologies](https://mo-t.com/)
+  - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")動画（前身のDeNAが制作）
+      - [MOV《モブ》 - 次世代タクシー配車アプリ紹介ムービー](https://www.youtube.com/watch?v=3MrzFKpPPtQ)
+      - \[<https://www.youtube.com/watch?v=ufPHYvenZNo>　TVCM 到着時間編\]
+      - \[<https://www.youtube.com/watch?v=8pmuvXm0NZ0>　TVCM つかまる編\]
+      - \[<https://www.youtube.com/watch?v=vWoq4unI65U>　TVCM メイキング映像\]
 
 [Category:タクシー配車アプリ](https://ja.wikipedia.org/wiki/Category:タクシー配車アプリ "wikilink") [Category:ディー・エヌ・エー](https://ja.wikipedia.org/wiki/Category:ディー・エヌ・エー "wikilink")
 

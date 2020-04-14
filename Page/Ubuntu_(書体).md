@@ -1,4 +1,4 @@
-> この記事は[Ubuntu \(\)](https://ja.wikipedia.org/wiki/Ubuntu_\(\))から翻訳されています。
+> この記事は[Ubuntu \(書体\)](https://ja.wikipedia.org/wiki/Ubuntu_\(書体\))から翻訳されています。
 
 
 **Ubuntu**は[OpenType](../Page/OpenType.md "wikilink")ベースのフォントファミリで、[ロンドン](../Page/ロンドン.md "wikilink")を拠点とするtype foundryのDalton Maagによってデザインされた。[Canonical](https://ja.wikipedia.org/wiki/Canonical "wikilink")によって出資され、現代的で人間的なタイプフェイスとして\[1\]デザインされている。フォントは9ヵ月ほどの期間をかけて開発され、最初のリリースは、限定された形で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月までベータプログラムを通じて提供された。[Ubuntu](../Page/Ubuntu.md "wikilink") [OS](../Page/OS.md "wikilink")では、Ubuntu 10.10のリリースから新たなデフォルトのフォントとなっている\[2\]。フォントのデザイナーには、[Comic Sansや](https://ja.wikipedia.org/wiki/Comic_Sans "wikilink")[Trebuchet MSフォントの作者であるVincent](https://ja.wikipedia.org/wiki/Trebuchet_MS "wikilink") Connareが含まれている\[3\]。

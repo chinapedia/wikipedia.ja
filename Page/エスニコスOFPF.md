@@ -1,4 +1,4 @@
-> この記事は[OFPF](https://ja.wikipedia.org/wiki/OFPF)から翻訳されています。
+> この記事は[エスニコスOFPF](https://ja.wikipedia.org/wiki/エスニコスOFPF)から翻訳されています。
 
 
 **エスニコスOFPF**（, ）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[ピレウス県](https://ja.wikipedia.org/wiki/ピレウス県 "wikilink")[ピレウス](../Page/ピレウス.md "wikilink")をホームタウンとするサッカークラブである。

@@ -5,28 +5,26 @@
 
 ## 概要
 
-ストリートダンスチーム「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[NTV](https://ja.wikipedia.org/wiki/NTV "wikilink")の[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内の『[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")』で、2年連続優勝などダンスシーンで数々の受賞を残す。 イタリア世界大会ソロバトルで優勝し、ダンサーとしてワールドクラスの実績をもち人気を得ている。その一方、個人の活動として、作詞家として自身のグループの作詞の他、[福山潤](../Page/福山潤.md "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink") [古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")など数多くのアーティストにも詞を提供を行っている。また、2018年から2019年にかけては短編映画に出演し活動の幅も広げている。音楽活動は、大ヒットしたRADIO FISH「PERFECT HUMAN」などの楽曲を手掛けたサウンドプロデューサー[JUVENILE](../Page/JUVENILE.md "wikilink")(ジュブナイル)と共にELECTROユニット[OOPARTZ](../Page/OOPARTZ.md "wikilink")(オーパーツ)のボーカルとして活動中。
+ストリートダンスチーム「[Mad Skills Styler](https://ja.wikipedia.org/wiki/Mad_Skills_Styler "wikilink")」として、[NTV](https://ja.wikipedia.org/wiki/NTV "wikilink")の[24時間TV](https://ja.wikipedia.org/wiki/24時間TV "wikilink")内の『[ダンス甲子園](https://ja.wikipedia.org/wiki/ダンス甲子園 "wikilink")』で、2年連続優勝などの受賞を残す。 イタリアで開催された世界大会ソロバトルでも優勝した経験がある。その一方で、個人の活動として、作詞家として自身のグループの作詞の他、[福山潤](../Page/福山潤.md "wikilink")、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink") [古畑奈和](https://ja.wikipedia.org/wiki/古畑奈和 "wikilink")など数多くのアーティストにも詞を提供を行っている。また、2018年から2019年にかけては短編映画に出演し役者としても活動している。音楽活動は、RADIO FISH「PERFECT HUMAN」などの楽曲を手掛けたサウンドプロデューサー[JUVENILE](../Page/JUVENILE.md "wikilink")(ジュブナイル)と共にELECTROユニット[OOPARTZ](../Page/OOPARTZ.md "wikilink")(オーパーツ)のボーカルとして活動している。
 
 ## ダンス経歴
 
-|                                                        |
-| ------------------------------------------------------ |
-| 24時間テレビ高校生制服対抗ダンス甲子園2007年　優勝                           |
-| 24時間テレビ高校生制服対抗ダンス甲子園2008年　優勝                           |
-| 第5回オールジャパン学生ダンス選挙権全国大会高校生の部　準優勝・技術賞                    |
-| 中京テレビスーパーチャンプル ダンサーアワード2007　新人賞                        |
-| GATSBY STYLING DANCE CONTEST JAPAN FINAL　優勝            |
-| GATSBY STYLING DANCE CONTEST ASIA FINAL　優勝             |
-| CX 『笑っていいとも』オープニングダンサー出演（オープニングダンサー決定戦優勝。オープニングダンサー１回） |
-| Hang Meas HDTV『Carabao』出演                              |
+  - 24時間テレビ高校生制服対抗ダンス甲子園2007年　優勝
+  - 24時間テレビ高校生制服対抗ダンス甲子園2008年　優勝
+  - 第5回オールジャパン学生ダンス選挙権全国大会高校生の部　準優勝・技術賞
+  - 中京テレビスーパーチャンプル ダンサーアワード2007　新人賞
+  - GATSBY STYLING DANCE CONTEST JAPAN FINAL　優勝
+  - GATSBY STYLING DANCE CONTEST ASIA FINAL　優勝
+  - CX 『笑っていいとも』オープニングダンサー出演（オープニングダンサー決定戦優勝。オープニングダンサー１回）
+  - Hang Meas HDTV『Carabao』出演
 
 ## ディスコグラフィ
 
 ### ソロ作品
 
-| ＃ | タイトル                                                                       | 発売日        |
-| - | -------------------------------------------------------------------------- | ---------- |
-| 1 | Stella Junction feat.[SAKU](https://ja.wikipedia.org/wiki/SAKU "wikilink") | 2018年8月31日 |
+| ＃ | タイトル                      | 発売日        |
+| - | ------------------------- | ---------- |
+| 1 | Stella Junction feat.SAKU | 2018年8月31日 |
 
 ### 他アーティストへの作詞提供
 

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダバオ・アギラスFC](https://ja.wikipedia.org/wiki/ダバオ・アギラスFC)から翻訳されています。
 
 
 **ダバオ・アギラスFC**（）は、かつて存在した[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[ダバオ州](https://ja.wikipedia.org/wiki/ダバオ州 "wikilink")を[ホームタウン](../Page/ホームタウン.md "wikilink")とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

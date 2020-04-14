@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ブライスガウSバーン](https://ja.wikipedia.org/wiki/ブライスガウSバーン)から翻訳されています。
 
 
 **ブライスガウSバーン** ([ドイツ語](../Page/ドイツ語.md "wikilink"): Breisgau-S-Bahn) は[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")[フライブルク都市圏で運営される都市近郊鉄道システムで](../Page/フライブルク・イム・ブライスガウ.md "wikilink")、「Sバーンプロジェクト2020」で実現された。プロジェクトはフライブルク地域交通連合 (Zweckverband Regio-Nahverkerhr Freiburg, ZRF) によって生成され、2019年12月に一段階の部分開通と運営が実現された。

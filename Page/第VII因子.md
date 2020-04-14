@@ -1,4 +1,4 @@
-> この記事は[VII](https://ja.wikipedia.org/wiki/VII)から翻訳されています。
+> この記事は[第VII因子](https://ja.wikipedia.org/wiki/第VII因子)から翻訳されています。
 
 
 **第VII因子**（だい7いんし、）は、[血液凝固カスケードに関与する](../Page/凝固・線溶系.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")の1つである。以前はプロコンバーチンまたはプロコンベルチン（proconvertin）という名称でも知られていた。第VII因子は[酵素前駆体](../Page/酵素前駆体.md "wikilink")として産生され、[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")によって活性化されて活性型第VII因子（**第VIIa因子**）となる。[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")に分類される[酵素](../Page/酵素.md "wikilink")である。（エプタコグアルファ（活性型）（eptacog alfa \[activated\]）、商標名ノボセブン（NovoSeven））は、[血友病](../Page/血友病.md "wikilink")患者の[出血](../Page/出血.md "wikilink")性病態に対する治療として承認されている。

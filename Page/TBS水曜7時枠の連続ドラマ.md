@@ -1,4 +1,4 @@
-> この記事は[TBS7](https://ja.wikipedia.org/wiki/TBS7)から翻訳されています。
+> この記事は[TBS水曜7時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS水曜7時枠の連続ドラマ)から翻訳されています。
 
 
 『**TBS水曜7時枠の連続ドラマ**』は、かつて5期にわたって[KRT→TBSテレビ](../Page/TBSテレビ.md "wikilink")[系列の](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[水曜](../Page/水曜日.md "wikilink")19:00 - 19:30（[JST](../Page/日本標準時.md "wikilink")）に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。

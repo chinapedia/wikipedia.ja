@@ -12,7 +12,7 @@
 
 ## チャート功績
 
-  - 初動3日間で27,914枚、その後さらに枚数を伸ばし当週36,992枚を売り上げて、2020年2月24日付の週間アルバム・セールス・チャート“Billboard JAPAN Top Albums Sales”で首位を獲得した。オリコンでは、2/24日付で初週42,587万枚を売り上げ、前作「FLAVA」から通算2作目の首位を獲得した。
+  - 初動3日間で27,914枚、その後さらに枚数を伸ばし当週36,992枚を売り上げて、2020年2月24日付の週間アルバム・セールス・チャート“Billboard JAPAN Top Albums Sales”で首位を獲得した。オリコンでは、2/24日付で初週42,587枚を売り上げ、前作「FLAVA」から通算2作目の首位を獲得した。
 
 ## 収録曲
 
@@ -34,15 +34,16 @@ MONSTER GROOVE PARTY -Live on 2019.08.04-
 
 ## タイアップ
 
-| 楽曲            | タイアップ                                                                                                                                                                                      | 起用年   |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| ECHO          | 「[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink")」テーマソング                                                                                | 2019年 |
-| Love Yourself | 「[WOWOW](../Page/WOWOW.md "wikilink")LPGA女子ゴルフツアー2020シーズン」テーマソング                                                                                                                           | 2020年 |
-| 君に届くまで        | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系TVアニメ「[MIX](https://ja.wikipedia.org/wiki/MIX_\(漫画\) "wikilink")」エンディングテーマ | 2019年 |
-| STARTING OVER | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系金曜ナイトドラマ「[女子高生の無駄づかい](https://ja.wikipedia.org/wiki/女子高生の無駄づかい "wikilink")」主題歌                                                                        | 2020年 |
-| Classic       | [東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")「Find my Tokyo.」CMタイアップソング                                                                                                          | 2019年 |
-| 夢がはじまる        | [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")開局50周年イメージソング                                                                                                                       | 2019年 |
-| 愛しさにリボンをかけて   | 「[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")リボンボトルキャンペーン2019」キャンペーンソング                                                                                                                          | 2019年 |
+| 楽曲              | タイアップ                                                                                                                                                                                      | 起用年   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| ECHO            | 「[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink")」テーマソング                                                                                | 2019年 |
+| Love Yourself   | 「[WOWOW](../Page/WOWOW.md "wikilink")LPGA女子ゴルフツアー2020シーズン」テーマソング                                                                                                                           | 2020年 |
+| 君に届くまで          | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系TVアニメ「[MIX](https://ja.wikipedia.org/wiki/MIX_\(漫画\) "wikilink")」エンディングテーマ | 2019年 |
+| STARTING OVER   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系金曜ナイトドラマ「[女子高生の無駄づかい](https://ja.wikipedia.org/wiki/女子高生の無駄づかい "wikilink")」主題歌                                                                        | 2020年 |
+| Classic         | [東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")「Find my Tokyo.」CMタイアップソング                                                                                                          | 2019年 |
+| 夢がはじまる          | [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")開局50周年イメージソング                                                                                                                       | 2019年 |
+| In Your Calling | [スターツ](../Page/スターツコーポレーション.md "wikilink")「伊藤美誠選手・道はじぶんでつくる」篇CMソング                                                                                                                         | 2020年 |
+| 愛しさにリボンをかけて     | 「[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")リボンボトルキャンペーン2019」キャンペーンソング                                                                                                                          | 2019年 |
 
 ## 脚注
 

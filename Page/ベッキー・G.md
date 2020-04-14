@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ベッキー・G](https://ja.wikipedia.org/wiki/ベッキー・G)から翻訳されています。
 
 
 **ベッキー・G**（Becky G, [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月2日](../Page/3月2日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[英語](../Page/英語.md "wikilink")と[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の2言語で曲を歌い、[ポップ歌手と](../Page/ポップ・ミュージック.md "wikilink")[ラテン歌手の両方の顔を併せ持つ](../Page/ラテン音楽.md "wikilink")。

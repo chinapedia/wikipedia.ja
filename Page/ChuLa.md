@@ -105,7 +105,7 @@
 <tr class="even">
 <td><p>七瀬うた</p></td>
 <td><p>果汁100%オレンジ</p></td>
-<td></td>
+<td><p>11月26日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -362,70 +362,124 @@
 <td><p>2月23日</p></td>
 </tr>
 <tr class="even">
+<td><p>2月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>単独公演</p></td>
+</tr>
+<tr class="even">
+<td><p>2月25日</p></td>
+</tr>
+<tr class="odd">
 <td><p>2月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月1日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>対バンライブ</p></td>
 </tr>
+<tr class="odd">
+<td><p>3月3日</p></td>
+</tr>
 <tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>3月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月8日</p></td>
 </tr>
-<tr class="odd">
-<td><p>3月11日</p></td>
-</tr>
 <tr class="even">
-<td><p>3月12日</p></td>
+<td><p>3月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月14日</p></td>
 </tr>
 <tr class="even">
-<td><p>3月16日</p></td>
+<td><p>対バンライブ</p></td>
 </tr>
 <tr class="odd">
-<td><p>3月17日</p></td>
+<td><p>3月15日</p></td>
 </tr>
 <tr class="even">
-<td><p>3月20日</p></td>
+<td><p>3月17日</p></td>
 </tr>
 <tr class="odd">
-<td><p>リリースイベント</p></td>
+<td><p>3月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>撮影会</p></td>
+</tr>
+<tr class="odd">
+<td><p>リリースイベント,対バンライブ</p></td>
 </tr>
 <tr class="even">
 <td><p>3月21日</p></td>
 </tr>
 <tr class="odd">
-<td><p>3月22日</p></td>
+<td><p>対バンライブ</p></td>
 </tr>
 <tr class="even">
-<td><p>対バンライブ</p></td>
+<td><p>3月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月25日</p></td>
 </tr>
 <tr class="even">
-<td><p>3月29日</p></td>
+<td><p>3月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p>3月30日</p></td>
+<td><p>3月28日</p></td>
 </tr>
 <tr class="even">
-<td><p>4月4日</p></td>
+<td><p>4月3日</p></td>
 </tr>
 <tr class="odd">
+<td><p>4月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>リリースイベント</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月21日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月28日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月5日</p></td>
+</tr>
+<tr class="even">
+<td><p>5月11日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月12日</p></td>
+</tr>
+<tr class="even">
 <td><p>5月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月24日</p></td>
 </tr>
 </tbody>
 </table>

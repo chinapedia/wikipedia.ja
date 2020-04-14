@@ -1,4 +1,4 @@
-> この記事は[XII](https://ja.wikipedia.org/wiki/XII)から翻訳されています。
+> この記事は[第XII因子](https://ja.wikipedia.org/wiki/第XII因子)から翻訳されています。
 
 
 **第XII因子**（だい12因子、）または**ハーゲマン因子**（Hageman factor）は、[血漿](../Page/血漿.md "wikilink")の[タンパク質](../Page/タンパク質.md "wikilink")である。[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")（またはセリンエンドペプチダーゼ）に分類される[酵素](../Page/酵素.md "wikilink")**第XIIa因子**の[酵素前駆体](../Page/酵素前駆体.md "wikilink")である。ヒトでは、第XII因子は*F12*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")にコードされる\[1\]。

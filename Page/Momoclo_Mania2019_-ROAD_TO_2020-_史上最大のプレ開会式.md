@@ -1,4 +1,4 @@
-> この記事は[Momoclo Mania2019 -ROAD TO 2020- ](https://ja.wikipedia.org/wiki/Momoclo_Mania2019_-ROAD_TO_2020-_)から翻訳されています。
+> この記事は[Momoclo Mania2019 -ROAD TO 2020- 史上最大のプレ開会式](https://ja.wikipedia.org/wiki/Momoclo_Mania2019_-ROAD_TO_2020-_史上最大のプレ開会式)から翻訳されています。
 
 
 『**MomocloMania2019 -ROAD TO 2020- 史上最大のプレ開会式**』（ももクロマニア2019 ロード トゥ 2020 しじょうさいだいのプレかいかいしき）は、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")が[西武ドーム](../Page/西武ドーム.md "wikilink")で[2019年](../Page/2019年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")・[4日に開催したライブ](../Page/8月4日.md "wikilink")。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")のアイドルユニットのメンバーから[渡辺淳之介](https://ja.wikipedia.org/wiki/渡辺淳之介 "wikilink")が独断と偏見で選んで結成されたシャッフルユニット\[1\]\[2\]\[3\]\[4\]。メンバーの入れ替えはあるものの、7人体制で活動している。
+[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")のアイドルユニットのメンバーから[渡辺淳之介](https://ja.wikipedia.org/wiki/渡辺淳之介 "wikilink")が独断と偏見で選んで結成されたシャッフルユニット\[1\]\[2\]\[3\]\[4\]。脱退によるメンバーの入れ替えもありつつも基本的に7人体制で活動している。WACKの合同イベントやTOKYO IDOL FESTIVAL等に出演。
 
 ## メンバー
 
@@ -18,61 +18,61 @@
 <!-- end list -->
 
   -
-    [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")に所属。初期メンバーである\[5\]。
+    [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")所属。初期メンバーである\[5\]。
 
 <!-- end list -->
 
-  - **アユニ・D**
-
-<!-- end list -->
-
-  -
-    BiSHに所属。追加オーディションで合格した\[6\]。
-
-<!-- end list -->
-
-  - **カミヤサキ**
+  - **[アユニ・D](https://ja.wikipedia.org/wiki/アユニ・D "wikilink")**
 
 <!-- end list -->
 
   -
-    結成当時はトレードのため一時的に[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")メンバー、2018年3月4日以降は[GANG PARADEメンバー](https://ja.wikipedia.org/wiki/GANG_PARADE "wikilink")。初期メンバーである\[7\]\[8\]。
+    BiSH所属。追加オーディションで合格した\[6\]。
 
 <!-- end list -->
 
-  - **ユメノユア**
-
-<!-- end list -->
-
-  -
-    GANG PARADEのメンバー。初期メンバー\[9\]。
-
-<!-- end list -->
-
-  - **ヤママチミキ**
+  - **[カミヤサキ](https://ja.wikipedia.org/wiki/カミヤサキ "wikilink")**
 
 <!-- end list -->
 
   -
-    GANG PARADEのメンバー。初期メンバー\[10\]。
+    結成当時はトレードのため一時的に[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属だったが、2018年3月4日以降は[GANG PARADE所属](https://ja.wikipedia.org/wiki/GANG_PARADE "wikilink")。初期メンバーである\[7\]\[8\]。
 
 <!-- end list -->
 
-  - **NOW EMPiRE**
-
-<!-- end list -->
-
-  -
-    [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink")のメンバー。ゴ・ジーラとアヤエイトプリンセスのBiS卒業に伴い\[11\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」において参加\[12\]。
-
-<!-- end list -->
-
-  - **パン・ルナリーフィ**
+  - **[ユメノユア](https://ja.wikipedia.org/wiki/ユメノユア "wikilink")**
 
 <!-- end list -->
 
   -
-    [CARRY LOOSEのメンバー](https://ja.wikipedia.org/wiki/CARRY_LOOSE "wikilink")。ゴ・ジーラとアヤエイトプリンセスのBiS卒業に伴い\[13\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」において参加\[14\]。
+    GANG PARADE所属。初期メンバー\[9\]。
+
+<!-- end list -->
+
+  - **[ヤママチミキ](https://ja.wikipedia.org/wiki/ヤママチミキ "wikilink")**
+
+<!-- end list -->
+
+  -
+    GANG PARADE所属。初期メンバー\[10\]。
+
+<!-- end list -->
+
+  - **[NOW EMPiRE](https://ja.wikipedia.org/wiki/NOW_EMPiRE "wikilink")**
+
+<!-- end list -->
+
+  -
+    [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink")所属。BiS(第二期)解散に伴う[ゴ・ジーラ](https://ja.wikipedia.org/wiki/ゴ・ジーラ "wikilink")と[アヤ・エイトプリンス](https://ja.wikipedia.org/wiki/アヤ・エイトプリンス "wikilink")の卒業により\[11\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019にて加入](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")\[12\]。
+
+<!-- end list -->
+
+  - **[パン・ルナリーフィ](https://ja.wikipedia.org/wiki/パン・ルナリーフィ "wikilink")**
+
+<!-- end list -->
+
+  -
+    [CARRY LOOSE所属](https://ja.wikipedia.org/wiki/CARRY_LOOSE "wikilink")。BiS(第二期)解散に伴うゴ・ジーラとアヤ・エイトプリンスの卒業により\[13\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」にて加入\[14\]。
 
 ### 元メンバー
 
@@ -81,25 +81,25 @@
 <!-- end list -->
 
   -
-    当時BiSに所属。初期メンバー\[15\]。2018年3月4日をもってBiSを卒業したため以降は本ユニットにも参加せず\[16\]\[17\]。
+    当時はBiS所属。初期メンバー\[15\]。2018年3月4日をもってBiSを卒業したため以降は本ユニットにも参加せず\[16\]\[17\]。
 
 <!-- end list -->
 
-  - **ゴ・ジーラ**
-
-<!-- end list -->
-
-  -
-    前述のプー・ルイの卒業に伴って、2018年8月4日の「[TOKYO IDOL FESTIVAL 2018](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2018 "wikilink")」より参加\[18\]\[19\]。2019年5月11日BiS解散に伴い卒業\[20\]。
-
-<!-- end list -->
-
-  - **アヤ・エイトプリンス**
+  - **[ゴ・ジーラ](https://ja.wikipedia.org/wiki/ゴ・ジーラ "wikilink")**
 
 <!-- end list -->
 
   -
-    加入当時はトレードのためGANG PARADEメンバー。2018年3月4日以降はBiSメンバー。初期メンバーである\[21\]\[22\]。2019年5月11日BiS解散に伴い卒業\[23\]。
+    当時はBiS所属。前述のプー・ルイの卒業に伴って、2018年8月4日の「[TOKYO IDOL FESTIVAL 2018](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2018 "wikilink")」より加入\[18\]\[19\]。2019年5月11日BiS解散に伴い卒業\[20\]。
+
+<!-- end list -->
+
+  - **[アヤ・エイトプリンス](https://ja.wikipedia.org/wiki/アヤ・エイトプリンス "wikilink")**
+
+<!-- end list -->
+
+  -
+    加入当時はトレードのためGANG PARADE所属だったが、2018年3月4日以降はBiS所属。初期メンバー\[21\]\[22\]。2019年5月11日BiS解散に伴い卒業\[23\]。
 
 ## 沿革
 
@@ -115,8 +115,8 @@
 
 ### 2019年
 
-  - 2月6日 新アーティスト写真も公開される。「**WACK is FXXK**」が2000枚限定でリリースされた。タワーレコード14店限定販売\[32\]。タオル付き、シリアルナンバー入り。現メンバー7人による音源が収録されている\[33\]\[34\]\[35\]\[36\]。
-  - 8月4日 「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」に出演。3月に第2期BiSを卒業したゴ・ジーラとアヤエイトプリンセスに変わり\[37\]、EMPiREのNOW EMPiREとCARRY LOOSEのパン・ルナリーフィが加入\[38\]\[39\]</ref>\[40\]。
+  - 2月6日 新アーティスト写真も公開される。「**WACK is FXXK**」が2000枚限定でリリースされた。タワーレコード14店限定販売\[32\]。タオル付き、シリアルナンバー入り。当時のメンバー7人による音源が収録されている\[33\]\[34\]\[35\]\[36\]。
+  - 8月4日 「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」に出演。3月に第2期BiSを卒業したゴ・ジーラとアヤ・エイトプリンスに変わり\[37\]、EMPiREのNOW EMPiREとCARRY LOOSEのパン・ルナリーフィが加入\[38\]\[39\]</ref>\[40\]。
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[Book:](https://ja.wikipedia.org/wiki/Book:)から翻訳されています。
+> この記事は[Book:サーサーン朝](https://ja.wikipedia.org/wiki/Book:サーサーン朝)から翻訳されています。
 
 
 ## サーサーン朝

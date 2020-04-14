@@ -1,4 +1,4 @@
-> この記事は[GoGo](https://ja.wikipedia.org/wiki/GoGo)から翻訳されています。
+> この記事は[サンスポGoGoクイーン](https://ja.wikipedia.org/wiki/サンスポGoGoクイーン)から翻訳されています。
 
 
 **サンスポGoGoクイーン**（サンスポゴーゴークイーン）は、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")が主催する[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[オーディション](../Page/オーディション.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[NPS](https://ja.wikipedia.org/wiki/NPS)から翻訳されています。
+> この記事は[ヴォロスNPS](https://ja.wikipedia.org/wiki/ヴォロスNPS)から翻訳されています。
 
 
 **ヴォロスNPS**（, ）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[マグニシア県](../Page/マグニシア県.md "wikilink")[ヴォロス](https://ja.wikipedia.org/wiki/ヴォロス "wikilink")をホームタウンとするサッカークラブである。

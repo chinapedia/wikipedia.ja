@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxへの批判](https://ja.wikipedia.org/wiki/Linuxへの批判)から翻訳されています。
 
 
 **Linuxへの批判**では、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")を使う[OS](../Page/OS.md "wikilink")に関する問題に焦点を合わせる。

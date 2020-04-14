@@ -1,4 +1,4 @@
-> この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
+> この記事は[スパイ in デンジャー](https://ja.wikipedia.org/wiki/スパイ_in_デンジャー)から翻訳されています。
 
 
 『**スパイ in デンジャー**』（原題: *Spies in Disguise*）は[2019年](../Page/2019年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。監督は[トロイ・クアン](https://ja.wikipedia.org/wiki/トロイ・クアン "wikilink")と[ニック・ブルーノ](https://ja.wikipedia.org/wiki/ニック・ブルーノ "wikilink")が務めた（両者は本作が映画監督デビュー作となる）。本作は[2009年](../Page/2009年.md "wikilink")に発表された短編アニメーション映画『*Pigeon: Impossible*』を長編映画化した作品である。
@@ -15,18 +15,18 @@
 
 ## キャスト
 
-※全て声の出演。
-
-  - [ウィル・スミス](../Page/ウィル・スミス.md "wikilink") - ランス・スターリング
-  - [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink") - ウォルター・ベケット
-  - [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink") - マーシー・カペル
-  - [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink") - キリアン
-  - [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink") - ジョイ・ジェンキンス、ランスの上司。
-  - [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") - ウェンディ・ベケット、ウォルターの母親。
-  - [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink") - アイズ、スペクトル分析の専門家。
-  - [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink") - イアーズ、コミュニケーション理論の専門家。
-  - [マシ・オカ](../Page/マシ・オカ.md "wikilink") - カツ・キムラ、日本人の武器商人。
-  - [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink") - ジェラルディン
+| 役名                    | **原語版声優**                                                             | **日本語吹替**                                             |
+| --------------------- | --------------------------------------------------------------------- | ----------------------------------------------------- |
+| ランス・スターリング            | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              | [江原正士](../Page/江原正士.md "wikilink")                    |
+| ウォルター・ベケット            | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    | [野村周平](https://ja.wikipedia.org/wiki/野村周平 "wikilink") |
+| マーシー・カペル              | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       | [中村千絵](../Page/中村千絵.md "wikilink")                    |
+| キリアン                  | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     | [高嶋政伸](../Page/高嶋政伸.md "wikilink")                    |
+| ジョイ・ジェンキンス、ランスの上司。    | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   | [大地真央](../Page/大地真央.md "wikilink")                    |
+| ウェンディ・ベケット、ウォルターの母親。  | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") |
+| アイズ、スペクトル分析の専門家。      | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           | [森夏姫](../Page/森夏姫.md "wikilink")                      |
+| イアーズ、コミュニケーション理論の専門家。 | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             | [藤森慎吾](../Page/藤森慎吾.md "wikilink")                    |
+| カツ・キムラ、日本人の武器商人。      | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  | [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink") |
+| ジェラルディン               | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |                                                       |
 
 ## 製作
 
@@ -46,7 +46,7 @@
 
 ## 評価
 
-本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")114件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.44点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[15\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[16\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[17\]。
+本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")116件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.48点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[15\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[16\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[17\]。
 
 ## 出典
 

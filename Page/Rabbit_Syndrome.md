@@ -149,7 +149,7 @@
 
   - 戸口田隆広：[Guitar](../Page/ギター.md "wikilink") (\#1,3,6)
   - maya：Guitar (\#8,9)
-  - 寺前甲(demetori)：Guitar (\#2)
+  - 寺前甲([demetori](https://ja.wikipedia.org/wiki/Demetori "wikilink"))：Guitar (\#2)
   - RIKO：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#3,9)
   - Rei(vin-PRAD)：Chorus (\#3,9)
 

@@ -1,4 +1,4 @@
-> この記事は[GW](https://ja.wikipedia.org/wiki/GW)から翻訳されています。
+> この記事は[ジェームス・G・W・リード](https://ja.wikipedia.org/wiki/ジェームス・G・W・リード)から翻訳されています。
 
 
 **ジェームス・G・W・リード**（、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[実業家](../Page/実業家.md "wikilink")。[ABNアムロ証券日本支社元社長兼CEO](../Page/ABNアムロ銀行.md "wikilink")。[ベアリング証券会社元社長兼最高経営責任者](../Page/ベアリングス銀行.md "wikilink") (CEO)。[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[みずほ証券](../Page/みずほ証券.md "wikilink")元会長・社長兼CEO。米国[野村証券](https://ja.wikipedia.org/wiki/野村証券 "wikilink")インターナショナル元代表取締役。

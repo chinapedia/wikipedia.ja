@@ -1,4 +1,4 @@
-> この記事は[Saudade \(\)](https://ja.wikipedia.org/wiki/Saudade_\(\))から翻訳されています。
+> この記事は[Saudade \(高中正義の曲\)](https://ja.wikipedia.org/wiki/Saudade_\(高中正義の曲\))から翻訳されています。
 
 
 「**Saudade**」（サダージ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1982年](../Page/1982年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")にリリースした9枚目の[シングル](../Page/シングル.md "wikilink")である。

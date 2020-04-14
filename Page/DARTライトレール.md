@@ -1,4 +1,4 @@
-> この記事は[DART](https://ja.wikipedia.org/wiki/DART)から翻訳されています。
+> この記事は[DARTライトレール](https://ja.wikipedia.org/wiki/DARTライトレール)から翻訳されています。
 
 
 この項目では、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")と周辺都市で公共交通網を運営する**[ダラス高速運輸公社](https://ja.wikipedia.org/wiki/ダラス高速運輸公社 "wikilink")**（Dallas Area Rapid Transit、DART）が運営する**[ライトレール](../Page/ライトレール.md "wikilink")**について解説する。[1996年](../Page/1996年.md "wikilink")に開通し、[2019年](../Page/2019年.md "wikilink")の時点でダラス中心部と郊外を結ぶ4系統・総延長150 km近くという[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の最大の路線網を有するこのライトレールでは、日本製の[部分超低床](../Page/超低床電車.md "wikilink")[電車](../Page/電車.md "wikilink")が使用されている。

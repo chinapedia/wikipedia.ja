@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKバーチャル紅白歌合戦](https://ja.wikipedia.org/wiki/NHKバーチャル紅白歌合戦)から翻訳されています。
 
 
 『**NHKバーチャル紅白歌合戦**』（エヌエイチケイバーチャルこうはくうたがっせん）は、[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）[1月1日](../Page/1月1日.md "wikilink")に[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送された[音楽](../Page/音楽番組.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")\[1\]。[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")で構成された紅組と、実在の[歌手](../Page/歌手.md "wikilink")で構成された白組に分かれ行われた\[2\]。

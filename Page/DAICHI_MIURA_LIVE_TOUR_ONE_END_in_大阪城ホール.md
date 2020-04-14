@@ -1,4 +1,4 @@
-> この記事は[DAICHI MIURA LIVE TOUR ONE END in ](https://ja.wikipedia.org/wiki/DAICHI_MIURA_LIVE_TOUR_ONE_END_in_)から翻訳されています。
+> この記事は[DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール](https://ja.wikipedia.org/wiki/DAICHI_MIURA_LIVE_TOUR_ONE_END_in_大阪城ホール)から翻訳されています。
 
 
 『**DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール**』（ダイチ・ミウラ ライブツアー ワンエンド イン おおさかじょうホール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手[三浦大知](../Page/三浦大知.md "wikilink")の全国ツアー「DAICHI MIURA LIVE 2018 ONE END TOUR」の最終日である[大阪城ホール](../Page/大阪城ホール.md "wikilink")公演の模様が収録された映像作品。2019年6月12日リリース\[1\]。
@@ -143,7 +143,7 @@ ENCORE
 
   - (avex)
 
-[Category:三浦大知の映像作品](https://ja.wikipedia.org/wiki/Category:三浦大知の映像作品 "wikilink") [Category:2019年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2019年の音楽関連の映像作品 "wikilink") [Category:2018年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2018年のコンサート・ツアー "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:エイベックス・グループの映像作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:三浦大知の映像作品](https://ja.wikipedia.org/wiki/Category:三浦大知の映像作品 "wikilink") [Category:2018年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2018年のコンサート・ツアー "wikilink") [Category:2019年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2019年のコンサート・ツアー "wikilink") [Category:2019年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2019年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.  <https://avex.jp/daichi/news/detail.php?id=1071727> 25thシングル「片隅 / Corner」、LIVE DVD & Blu-ray「DAICHI MIURA LIVE TOUR ONE END in 大阪城ホール」6/12(水) 2タイトル同時リリース決定！\]　DAICHI MIURA OFFICIAL WEBSITE
 2.  <https://avex.jp/daichi/news/detail.php?id=1062623> 2018年9月～12月・全国ツアー「DAICHI MIURA LIVE TOUR 2018」開催決定\!\! DAICHI MIURA OFFICIAL WEBSITE

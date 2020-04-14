@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[Rの異常な愛情](https://ja.wikipedia.org/wiki/Rの異常な愛情)から翻訳されています。
 
 
 **Rの異常な愛情**（アールのいじょうなあいじょう）は、[2019年](../Page/2019年.md "wikilink")に上梓された[R-指定の](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")である。

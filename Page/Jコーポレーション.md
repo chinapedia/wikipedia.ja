@@ -1,20 +1,18 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jコーポレーション](https://ja.wikipedia.org/wiki/Jコーポレーション)から翻訳されています。
 
 
 **株式会社Jコーポレーション**は、三重県津市に本社を置く、[緊急地震速報](../Page/緊急地震速報.md "wikilink")の受信装置（受信端末）についての取扱販売会社\[1\]。緊急地震速報受信装置の販売の他、周辺機器の開発や販売、メンテナンス等も行う。2006年から始まった[気象庁](../Page/気象庁.md "wikilink")の実証実験の段階から[緊急地震速報](../Page/緊急地震速報.md "wikilink")に関わっており、2007年より緊急地震速報利用者協議会の協議会会員である\[2\]。
 
 ## 沿革
 
-[1994年](../Page/1994年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")　有限会社ジェイコーポレーション　設立
-
-[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")　株式会社Jコーポレーション　に組織変更
-
-[2014年](../Page/2014年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")　[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")に業務管理センター　を開設
+  - [1994年](../Page/1994年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")　有限会社ジェイコーポレーション　設立
+  - [2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")　株式会社Jコーポレーション　に組織変更
+  - [2014年](../Page/2014年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")　[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")に業務管理センター　を開設
 
 ## 所在地
 
-  - 本社 : 三重県津市住吉町11-13
-  -  業務管理センター : 奈良県奈良市押熊町557-7 4F
+  - 本社:三重県津市住吉町11-13
+    業務管理センター:奈良県奈良市押熊町557-7 4F
 
 ## 主な製品
 
@@ -49,7 +47,7 @@
 
   - [株式会社Jコーポレーション](http://www.jcorp.co.jp/)
 
-<!-- end list -->
+[Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:津市の企業](https://ja.wikipedia.org/wiki/Category:津市の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink")
 
 1.  [中日新聞](../Page/中日新聞.md "wikilink")2007年2月18日　地震到達前に予想震度　津の会社が装置販売
 2.  [緊急地震速報利用者協議会　緊急地震速報 関連事業者ご紹介](http://eewrk.org/eewrk_members-hp/eewrk-hp_katsudo-top.html)

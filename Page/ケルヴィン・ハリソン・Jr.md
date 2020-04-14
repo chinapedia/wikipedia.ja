@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[ケルヴィン・ハリソン・Jr](https://ja.wikipedia.org/wiki/ケルヴィン・ハリソン・Jr)から翻訳されています。
 
 
 **ケルヴィン・ハリソン・Jr**（**Kelvin Harrison Jr.**、[1994年](../Page/1994年.md "wikilink")7月23日-）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。

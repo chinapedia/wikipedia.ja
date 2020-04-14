@@ -1,4 +1,4 @@
-> この記事は[TOBI](https://ja.wikipedia.org/wiki/TOBI)から翻訳されています。
+> この記事は[レ・ロマネスクTOBI](https://ja.wikipedia.org/wiki/レ・ロマネスクTOBI)から翻訳されています。
 
 
 **レ・ロマネスクTOBI**は、（れ・ろまねすくとびー、[3月1日](../Page/3月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")、[クリエーター](https://ja.wikipedia.org/wiki/クリエイター "wikilink")。
@@ -27,22 +27,11 @@
 
 2018年9月30日、[ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")での連載をまとめた書籍『レ・ロマネスク TOBIのひどい目。』が初版発行され、発売2カ月で重版となる。
 
+2019年より[立川志ら乃](https://ja.wikipedia.org/wiki/立川志ら乃 "wikilink")に[落語](../Page/落語.md "wikilink")の稽古をつけてもらうようになり、同年9月[立川志ら乃](https://ja.wikipedia.org/wiki/立川志ら乃 "wikilink")が主催する落語会に[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")と出演する。「ティアラこうとうでやる会」として定期的に開催されるようになる。
+
 2019年11月6日〜2020年1月13日、[IHIステージアラウンド東京](https://ja.wikipedia.org/wiki/IHIステージアラウンド東京 "wikilink")にて上演の[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")[ミュージカル](../Page/ミュージカル.md "wikilink")『[ウエスト・サイド・ストーリー](../Page/ウエスト・サイド物語.md "wikilink")』［日本キャスト版］Season1にグラッドハンド役として出演。アフタートークショー「レ・ロマネスクTOBI の部屋」のMCも務める。
 
 音楽活動のほかに、俳優やラジオパーソナリティとして活動。
-
-## エピソード
-
-  - 類人猿[ヒバゴン](../Page/ヒバゴン.md "wikilink")を見た人が自宅の斜め前に住んでいたため、小学校の自由研究はその人のインタビューばかりだった。
-  - 家が貧しくて、あられにお茶をかけてふやかして食べていたことがある。
-  - 大学一年生のとき、[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")研究会に入部しようと思って、50音順で隣に並んでいた[落語研究会に間違えて入部してしまった](https://ja.wikipedia.org/wiki/慶應義塾大学落語研究会 "wikilink")。高座名は、朝寝坊夜楽（やらく）。当時、[早稲田大学](../Page/早稲田大学.md "wikilink")の「早稲田寄席演芸研究会」に所属していた[オアシズ](../Page/オアシズ.md "wikilink")とも交流があった。
-  - 「弟子入りしたい若者」という雑誌の企画で、1日だけ[内山田洋](../Page/内山田洋.md "wikilink")に弟子入りする。\[2\]その後2018年、「はじめての[前川清](../Page/前川清.md "wikilink")」のパンフレットに、前川清の楽しみ方を執筆する。
-  - 大学の卒業試験当日に最寄り駅に原付を停めたとき[ぎっくり腰](https://ja.wikipedia.org/wiki/ぎっくり腰 "wikilink")になり、四つん這いで山手線に乗ったことがある。
-  - 北海道別海町の牧場に半年間住み込んで乳しぼりをしていたことがある。
-  - 池袋のハローワークに置いてあったチラシを見て「オンシアター自由劇場」の試験を受け入団するも、稽古前に劇団が解散する。[小日向文世](../Page/小日向文世.md "wikilink")からは「絶対あなたは役者を続けたほうがいい。劇団は解散しますが、今後も、あきらめずにがんばって」とメッセージが届く。\[3\]
-  - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")と[落語](../Page/落語.md "wikilink")に詳しいという理由から[桂歌丸](../Page/桂歌丸.md "wikilink")のパリ公演の字幕を担当した。
-  - 一番初めに行った寄席は改装直前の畳敷きの[池袋演芸場](../Page/池袋演芸場.md "wikilink")で、座布団をもらえる期間中だったため座布団を持って帰る。好きな噺家は[古今亭圓菊](../Page/古今亭圓菊.md "wikilink")。
-  - 「[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")」の歌で好きな歌は、『いえ イェイ\!\!』\[4\]
 
 ## 出演
 
@@ -128,7 +117,7 @@
 
 ### ドラマ / 映画
 
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")-[ドラマパラビ](https://ja.wikipedia.org/wiki/ドラマパラビ "wikilink")『[びしょ濡れ探偵 水野羽衣](https://ja.wikipedia.org/wiki/びしょ濡れ探偵_水野羽衣 "wikilink")』第11話 - 鷺沼雄一 役\[5\]
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")-[ドラマパラビ](https://ja.wikipedia.org/wiki/ドラマパラビ "wikilink")『[びしょ濡れ探偵 水野羽衣](https://ja.wikipedia.org/wiki/びしょ濡れ探偵_水野羽衣 "wikilink")』第11話 - 鷺沼雄一 役\[2\]
   - フランス映画『[銃士戦隊フランスファイブ](../Page/銃士戦隊フランスファイブ.md "wikilink")』アレックスピロー監督 - カマキリ妖怪アゴニー 役
   - 映画『その後のふたり-Paris Tokyo Paysage』[辻仁成](../Page/辻仁成.md "wikilink")監督 - 主人公の上司・三井 役
   - [モーリーファンタジー](https://ja.wikipedia.org/wiki/モーリーファンタジー "wikilink")-You Tube ララちゃんTV -『ララちゃんとレレさん』シリーズ - レレさん 役☆
@@ -156,7 +145,7 @@
 
 　**レギュラー番組**
 
-  - [RBCiラジオ](https://ja.wikipedia.org/wiki/RBCiラジオ "wikilink")『[レ・ロマネスクTOBIのめんそ～レレレ！](https://ja.wikipedia.org/wiki/レ・ロマネスクTOBIの_めんそ〜レレレ! "wikilink")』（毎週火曜23：00～）
+  - [RBCiラジオ](https://ja.wikipedia.org/wiki/RBCiラジオ "wikilink")『[レ・ロマネスクTOBIのめんそ～レレレ！](https://ja.wikipedia.org/wiki/レ・ロマネスクTOBIの_めんそ〜レレレ! "wikilink")』（2020年4月より毎週火曜日21：30〜。旧放送時間は毎週火曜23：00～）
 
 　**単発**
 
@@ -219,7 +208,7 @@
 
 2019年
 
-  - [金井成大](https://ja.wikipedia.org/wiki/金井成大 "wikilink")『君がちょっと好き』\[6\]
+  - [金井成大](https://ja.wikipedia.org/wiki/金井成大 "wikilink")『君がちょっと好き』\[3\]
 
 2018年
 
@@ -229,6 +218,10 @@
 
   - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")テレビ『[CatChat](https://ja.wikipedia.org/wiki/CatChat "wikilink")』アニメーション振付
   - 演歌歌手[飛鳥とも美](https://ja.wikipedia.org/wiki/飛鳥とも美 "wikilink")(ビクター)に『津の女』提供
+
+2016年
+
+  - [ほぼ日](../Page/ほぼ日刊イトイ新聞.md "wikilink")「ホワイトボードカレンダー」テーマ曲「君に寄り添う7DAYS」楽曲提供
 
 2015年
 
@@ -244,21 +237,22 @@
   - トークショー&サイン会 「TOO MUCH トークショー！」＠[梅田ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")(2016年10月18日）
   - トークショー&サイン会 「TOO MUCH トークショー！」＠[渋谷ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")(2016年10月21日）
   - レ・ロマネスクTOBI×[宮城麻里子](../Page/宮城麻里子.md "wikilink") 『TOBIのひどい目』刊行記念トークショー＠[ジュンク堂書店](../Page/ジュンク堂書店.md "wikilink")那覇店（2018年9月21日）
-  - トークショー「レ・ロマネスク TOBIのひどい目。展」＠[ほぼ日 TOBICHI②](https://ja.wikipedia.org/wiki/ほぼ日 "wikilink")（展示2018年9月28日〜9月30日)(トークショー9月28日、29日）\[7\]
-  - イベント&トークショー「レ・ロマネスクTOBIのひどい目。展」＠[渋谷ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")(展示2018年10月4日～10月14日）\[8\]
+  - トークショー「レ・ロマネスク TOBIのひどい目。展」＠[ほぼ日 TOBICHI②](https://ja.wikipedia.org/wiki/ほぼ日 "wikilink")（展示2018年9月28日〜9月30日)(トークショー9月28日、29日）\[4\]
+  - イベント&トークショー「レ・ロマネスクTOBIのひどい目。展」＠[渋谷ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")(展示2018年10月4日～10月14日）\[5\]
 
 　　(トークショー第一部10月8日レ・ロマネスクTOBI×[吉田尚記](../Page/吉田尚記.md "wikilink")([ニッポン放送](../Page/ニッポン放送.md "wikilink")) 思い出トークショー）
 
 　　(トークショー第二部10月13日レ・ロマネスクTOBI×奥野武範[ほぼ日](https://ja.wikipedia.org/wiki/ほぼ日 "wikilink")×新庄清二 [青幻舎](https://ja.wikipedia.org/wiki/青幻舎 "wikilink") 制作秘話トークショー）
 
   - イベント&トークショー「レ・ロマネスクTOBIのひどい目。展」＠[梅田ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")(展示2018年11月17日～11月30日）（トークショー11月25日 ゲストMC [U.K.](../Page/U.K._\(タレント\).md "wikilink")(楠雄二朗))
-  - レ・ロマネスクTOBI×[田中泰延](https://ja.wikipedia.org/wiki/田中泰延 "wikilink")「セラヴィー・トークショー」＠スタンダードブックストア心斎橋(2018年11月26日)\[9\]
-  - レ・ロマネスク TOBI×[石井裕也](../Page/石井裕也_\(映画監督\).md "wikilink")「あんな目こんな目どんな目」＠下北沢　本屋B＆B(2018年12月29日)\[10\]
-  - レ・ロマネスクTOBI×[星野概念](https://ja.wikipedia.org/wiki/星野概念 "wikilink")「レ・ロマネスクの桃の節句」＠下北沢　本屋B＆B((2019年3月2日)\[11\]
+  - レ・ロマネスクTOBI×[田中泰延](https://ja.wikipedia.org/wiki/田中泰延 "wikilink")「セラヴィー・トークショー」＠スタンダードブックストア心斎橋(2018年11月26日)\[6\]
+  - レ・ロマネスク TOBI×[石井裕也](../Page/石井裕也_\(映画監督\).md "wikilink")「あんな目こんな目どんな目」＠下北沢　本屋B＆B(2018年12月29日)\[7\]
+  - レ・ロマネスクTOBI×[星野概念](https://ja.wikipedia.org/wiki/星野概念 "wikilink")「レ・ロマネスクの桃の節句」＠下北沢　本屋B＆B((2019年3月2日)\[8\]
   - トークショー『3月生まれとコンプレックス〜スキマに居場所を見つける』(2019年3月26日 [新宿ロフトプラスワン](../Page/新宿ロフトプラスワン.md "wikilink")、[能町みね子](../Page/能町みね子.md "wikilink")、[つぶやきシロー](../Page/つぶやきシロー.md "wikilink"))
   - レ・ロマネスクTOBI×[草野翔吾](https://ja.wikipedia.org/wiki/草野翔吾 "wikilink") レ・ロマネスクPOP UP SHOP スペシャルトークショー＠[渋谷ロフト](https://ja.wikipedia.org/wiki/ロフト "wikilink")（2019年7月30日）
-  - 落語会「ティアラこうとうでヤル会」(2019年9月10日 [立川志ら乃](https://ja.wikipedia.org/wiki/立川志ら乃 "wikilink")、[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink"))-古典落語『たらちね』を披露
+  - 落語会「ティアラこうとうでヤル会」(2019年9月10日 [立川志ら乃](https://ja.wikipedia.org/wiki/立川志ら乃 "wikilink")、[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink"))-古典落語『[たらちね](../Page/たらちね.md "wikilink")』を披露
   - [日本スタンダップコメディ協会](https://ja.wikipedia.org/wiki/日本スタンダップコメディ協会 "wikilink")×下北沢[本多劇場グループ](https://ja.wikipedia.org/wiki/本多劇場グループ "wikilink")共同プロジェクト『年忘れ！スタンダップコメディ・ネクスト Fes.』
+  - 落語会「ティアラこうとうでヤル会2」(2020年3月4日 [立川志ら乃](https://ja.wikipedia.org/wiki/立川志ら乃 "wikilink")、[山口勝平](../Page/山口勝平.md "wikilink"))-古典落語『[子ほめ](../Page/子ほめ.md "wikilink")』を披露
 
 ## 脚注
 
@@ -272,13 +266,10 @@
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:クリエイター](https://ja.wikipedia.org/wiki/Category:クリエイター "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:修道中学校・修道高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:修道中学校・修道高等学校出身の人物 "wikilink")
 
 1.
-2.  <https://www.1101.com/hidoime_tobi/2017-10-20.html>
-3.  <https://www.1101.com/hidoime_tobi/2017-10-20.html>
-4.
-5.  レ・ロマネスクのTOBIが詐欺師役に『びしょ濡れ探偵 水野羽衣』https://dogatch.jp/news/tx/67187/detail/
-6.  <https://thetv.jp/news/detail/218227/>
-7.  レ・ロマネスク TOBIのひどい目。展　https://www.1101.com/tobichi/tokyo/exhibition/detail/?p=2688
-8.  渋谷ロフトで「ひどい目。」展　ポップデュオ「レ・ロマネスク」TOBIさん書籍発売で　https://www.shibukei.com/headline/13515/
-9.  いろいろあった2人によるc’est la vie（セラヴィ＝それが人生だ）対談　https://www.1101.com/tobi_hironobu/2018-12-27.html
-10. レ・ロマネスク TOBI×石井裕也「あんな目こんな目どんな目」『レ・ロマネスクTOBIのひどい目。』（青幻舎）重版決定記念　http://bookandbeer.com/event/20181229/
-11. レ・ロマネスクTOBI×星野概念「レ・ロマネスクの桃の節句」第2部トークショー　http://bookandbeer.com/event/20190302a/
+2.  レ・ロマネスクのTOBIが詐欺師役に『びしょ濡れ探偵 水野羽衣』https://dogatch.jp/news/tx/67187/detail/
+3.  ザ・テレビジョン 白洲迅、加藤諒、永田崇人らC.I.A.の「SUPER LIVE」が開幕！ ファンとの一体感を見せる <https://thetv.jp/news/detail/218227/>
+4.  レ・ロマネスク TOBIのひどい目。展　https://www.1101.com/tobichi/tokyo/exhibition/detail/?p=2688
+5.  渋谷ロフトで「ひどい目。」展　ポップデュオ「レ・ロマネスク」TOBIさん書籍発売で　https://www.shibukei.com/headline/13515/
+6.  いろいろあった2人によるc’est la vie（セラヴィ＝それが人生だ）対談　https://www.1101.com/tobi_hironobu/2018-12-27.html
+7.  レ・ロマネスク TOBI×石井裕也「あんな目こんな目どんな目」『レ・ロマネスクTOBIのひどい目。』（青幻舎）重版決定記念　http://bookandbeer.com/event/20181229/
+8.  レ・ロマネスクTOBI×星野概念「レ・ロマネスクの桃の節句」第2部トークショー　http://bookandbeer.com/event/20190302a/

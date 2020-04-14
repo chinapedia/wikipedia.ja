@@ -1,4 +1,4 @@
-> この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
+> この記事は[GKデザイン総研広島](https://ja.wikipedia.org/wiki/GKデザイン総研広島)から翻訳されています。
 
 
 **GKデザイン総研広島**は、[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のグループ会社のひとつであり、広島に拠点を置く総合[デザイン会社](../Page/デザイン会社.md "wikilink")。

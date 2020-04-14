@@ -1,4 +1,4 @@
-> この記事は[ASTA](https://ja.wikipedia.org/wiki/ASTA)から翻訳されています。
+> この記事は[ショッピングモールASTA](https://ja.wikipedia.org/wiki/ショッピングモールASTA)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:ASTA_tamari_3.jpg "wikilink")\]\]**ショッピングモールASTA**（しょっぴんぐもーるあすた）は、[茨城県](../Page/茨城県.md "wikilink")[小美玉市](../Page/小美玉市.md "wikilink")川中子にある[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。

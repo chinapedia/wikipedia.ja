@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[モルQ](https://ja.wikipedia.org/wiki/モルQ)から翻訳されています。
 
 
 [Mole_Q.jpg](https://ja.wikipedia.org/wiki/File:Mole_Q.jpg "fig:Mole_Q.jpg") **モルQ**（もるきゅう:MOLE-Q）とは、1991年に松平亨が考案した[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")カードを組み合わせて[分子](../Page/分子.md "wikilink")を作るゲームである。トランプのようにカードを配り、手持ちの原子カードから分子を作るとカードを捨てることができ、早くカードがなくなったものが勝ちとなる。分子や気体に関する[仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の授業後に子供たちがよく遊んでおり、子供が新たな遊び方を考えだしたり、ゲームを通じて自分で分子を学ぶ効果も確認されている。また、科学講座では「[ぶんしっし](https://ja.wikipedia.org/wiki/#派生ゲーム「ぶんしっし」 "wikilink")」という遊び方も開発されている。

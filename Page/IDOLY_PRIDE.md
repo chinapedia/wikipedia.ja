@@ -10,49 +10,51 @@
 ### 星見プロダクション
 
   -
-    声 - [橘美來](https://ja.wikipedia.org/wiki/橘美來 "wikilink")\[2\]
+    声 - [神田沙也加](../Page/神田沙也加.md "wikilink")\[2\]
   -
-    声 - [菅野真衣](https://ja.wikipedia.org/wiki/菅野真衣 "wikilink")\[3\]
+    声 - 橘美來\[3\]
   -
-    声 - [結城萌子](https://ja.wikipedia.org/wiki/結城萌子 "wikilink")\[4\]
+    声 - [菅野真衣](https://ja.wikipedia.org/wiki/菅野真衣 "wikilink")\[4\]
   -
-    声 - [夏目ここな](https://ja.wikipedia.org/wiki/夏目ここな "wikilink")\[5\]
+    声 - [結城萌子](https://ja.wikipedia.org/wiki/結城萌子 "wikilink")\[5\]
   -
-    声 - [佐々木奈緒](https://ja.wikipedia.org/wiki/佐々木奈緒 "wikilink")\[6\]
+    声 - 夏目ここな\[6\]
   -
-    声 - [宮沢小春](https://ja.wikipedia.org/wiki/宮沢小春 "wikilink")\[7\]
+    声 - 佐々木奈緒\[7\]
   -
-    声 - [高尾奏音](https://ja.wikipedia.org/wiki/高尾奏音 "wikilink")\[8\]
+    声 - 宮沢小春\[8\]
   -
-    声 - [相川奏多](https://ja.wikipedia.org/wiki/相川奏多 "wikilink")\[9\]
+    声 - [高尾奏音](https://ja.wikipedia.org/wiki/高尾奏音 "wikilink")\[9\]
   -
-    声 - [日向すず](https://ja.wikipedia.org/wiki/日向すず "wikilink")\[10\]
+    声 - 相川奏多\[10\]
   -
-    声 - [首藤志奈](https://ja.wikipedia.org/wiki/首藤志奈 "wikilink")\[11\]
+    声 - 日向もか\[11\]
+  -
+    声 - [首藤志奈](https://ja.wikipedia.org/wiki/首藤志奈 "wikilink")\[12\]
 
 ### TRINITYAiLE
 
   -
-    声 - [雨宮天](https://ja.wikipedia.org/wiki/雨宮天 "wikilink")\[12\]
+    声 - [雨宮天](https://ja.wikipedia.org/wiki/雨宮天 "wikilink")\[13\]
   -
-    声 - [麻倉もも](https://ja.wikipedia.org/wiki/麻倉もも "wikilink")\[13\]
+    声 - [麻倉もも](https://ja.wikipedia.org/wiki/麻倉もも "wikilink")\[14\]
   -
-    声 - [夏川椎菜](https://ja.wikipedia.org/wiki/夏川椎菜 "wikilink")\[14\]
+    声 - [夏川椎菜](https://ja.wikipedia.org/wiki/夏川椎菜 "wikilink")\[15\]
 
 ### LizNoir
 
   -
-    声 - [戸松遥](../Page/戸松遥.md "wikilink")\[15\]
+    声 - [戸松遥](../Page/戸松遥.md "wikilink")\[16\]
   -
-    声 - [高垣彩陽](../Page/高垣彩陽.md "wikilink")\[16\]
+    声 - [高垣彩陽](../Page/高垣彩陽.md "wikilink")\[17\]
   -
-    声 - [寿美菜子](https://ja.wikipedia.org/wiki/寿美菜子 "wikilink")\[17\]
+    声 - [寿美菜子](https://ja.wikipedia.org/wiki/寿美菜子 "wikilink")\[18\]
   -
-    声 - [豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")\[18\]
+    声 - [豊崎愛生](https://ja.wikipedia.org/wiki/豊崎愛生 "wikilink")\[19\]
 
 ## テレビアニメ
 
-2019年12月9日の第1回公式生放送にて、本作品のテレビアニメ化が発表された\[19\]。
+2019年12月9日の第1回公式生放送にて、本作品のテレビアニメ化が発表された\[20\]。2021年冬より放送予定。
 
 ### スタッフ
 
@@ -60,25 +62,33 @@
   - 原作 - Project IDOLY PRIDE
   - 監督 - 木野目優
   - シリーズ構成 - [髙橋龍也](../Page/高橋龍也.md "wikilink")
+  - キャラクターデザイン原案 - [QP:flapper](../Page/QP:flapper.md "wikilink")
   - キャラクターデザイン - 木野下澄江
-  - アニメーションプロデュース - [CAAnimation](https://ja.wikipedia.org/wiki/CAAnimation "wikilink")
+  - アニメーションプロデュース - CAAnimation
   - アニメーション制作 - [Lerche](https://ja.wikipedia.org/wiki/ラルケ "wikilink")
+
+## 漫画
+
+コミカライズ版が『コミックNewtype』にて連載予定。
 
 ## イベント
 
 | 開催日            | タイトル                                          | 会場                                                                                                  |
 | -------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 2020年5月10日（予定） | IDOLY PRIDE - VENUS STAGE / BEGINNING -\[20\] | [舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")（[千葉県](../Page/千葉県.md "wikilink")） |
+| 2020年5月10日（予定） | IDOLY PRIDE - VENUS STAGE / BEGINNING -\[21\] | [舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")（[千葉県](../Page/千葉県.md "wikilink")） |
 
 ## 出典
 
 ## 外部リンク
 
   - [「IDOLY PRIDE」公式サイト](https://idolypride.jp)
-  - [IDOLY PRIDE](https://twitter.com/idolypride)(@idolypride) -Twitter
+
+  - [TVアニメ「IDOLY PRIDE」公式サイト](http://anime.idolypride.jp/)
+
+  -
   - [「IDOLY PRIDE」公式チャンネル](https://m.youtube.com/channel/UCOuzrlRFF7aSkooORw0XWRA) - YouTube
 
-[Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:スタジオ雲雀](https://ja.wikipedia.org/wiki/Category:スタジオ雲雀 "wikilink") [Category:サイバーエージェントのアニメ作品](https://ja.wikipedia.org/wiki/Category:サイバーエージェントのアニメ作品 "wikilink") [Category:ミュージックレインの映像作品](https://ja.wikipedia.org/wiki/Category:ミュージックレインの映像作品 "wikilink") [Category:アイドルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたアニメ作品 "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")
+[Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2021年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2021年のテレビアニメ "wikilink") [Category:スタジオ雲雀](https://ja.wikipedia.org/wiki/Category:スタジオ雲雀 "wikilink") [Category:サイバーエージェントのアニメ作品](https://ja.wikipedia.org/wiki/Category:サイバーエージェントのアニメ作品 "wikilink") [Category:ミュージックレインの映像作品](https://ja.wikipedia.org/wiki/Category:ミュージックレインの映像作品 "wikilink") [Category:アイドルを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたアニメ作品 "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink") [Category:ウェブコミック配信サイト掲載漫画作品](https://ja.wikipedia.org/wiki/Category:ウェブコミック配信サイト掲載漫画作品 "wikilink") [Category:角川書店の漫画](https://ja.wikipedia.org/wiki/Category:角川書店の漫画 "wikilink") [Category:アイドルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした漫画作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.
@@ -98,5 +108,6 @@
 16.
 17.
 18.
-19. [TVアニメ制作決定！](https://idolypride.jp/news/2019/12/09/88/) - IDOLY PRIDE公式サイト、2019年12月9日
-20.
+19.
+20. [TVアニメ制作決定！](https://idolypride.jp/news/2019/12/09/88/) - IDOLY PRIDE公式サイト、2019年12月9日
+21.

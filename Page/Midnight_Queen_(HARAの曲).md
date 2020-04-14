@@ -1,4 +1,4 @@
-> この記事は[Midnight Queen \(HARA\)](https://ja.wikipedia.org/wiki/Midnight_Queen_\(HARA\))から翻訳されています。
+> この記事は[Midnight Queen \(HARAの曲\)](https://ja.wikipedia.org/wiki/Midnight_Queen_\(HARAの曲\))から翻訳されています。
 
 
 **Midnight Queen**（ミッドナイトクイーン）は[2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")に発売された、HARA([ク・ハラ](https://ja.wikipedia.org/wiki/ク・ハラ "wikilink"))のシングル。

@@ -1,4 +1,4 @@
-> この記事は[Resplendent \(\)](https://ja.wikipedia.org/wiki/Resplendent_\(\))から翻訳されています。
+> この記事は[Resplendent \(小説\)](https://ja.wikipedia.org/wiki/Resplendent_\(小説\))から翻訳されています。
 
 
 **Resplendent**は2006年に出版された[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によるSF小説[短編集](https://ja.wikipedia.org/wiki/短編集 "wikilink")。[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")シリーズの最終作。
@@ -59,6 +59,6 @@
 
 ## 脚注
 
-[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:2006年の小説](https://ja.wikipedia.org/wiki/Category:2006年の小説 "wikilink") [Category:ジーリー・クロニクル](https://ja.wikipedia.org/wiki/Category:ジーリー・クロニクル "wikilink") [Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink")
+[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:2006年の小説](https://ja.wikipedia.org/wiki/Category:2006年の小説 "wikilink") [Category:ジーリー・クロニクル](https://ja.wikipedia.org/wiki/Category:ジーリー・クロニクル "wikilink") [Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未来を題材にした小説](https://ja.wikipedia.org/wiki/Category:未来を題材にした小説 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink")
 
 1.

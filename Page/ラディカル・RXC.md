@@ -1,4 +1,4 @@
-> この記事は[RXC](https://ja.wikipedia.org/wiki/RXC)から翻訳されています。
+> この記事は[ラディカル・RXC](https://ja.wikipedia.org/wiki/ラディカル・RXC)から翻訳されています。
 
 
 **Radical RXC**は、イギリスのメーカーRadical Sportscarsによって製造された、トラックのみのレースカーとストリートリーガルロードカー。 最初のストリートリーガルであるRXCは、2013年1月にAutosport Internationalのオートショーで発表され、その後、多くの異なるエンジンおよびレーシング構成で提供されている。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[松江シティFCの選手一覧](https://ja.wikipedia.org/wiki/松江シティFCの選手一覧)から翻訳されています。
 
 
 **松江シティFCの選手一覧**では、**[松江シティFC](https://ja.wikipedia.org/wiki/松江シティFC "wikilink")**に在籍する選手・スタッフおよび過去に在籍した選手・スタッフの一覧を記す。

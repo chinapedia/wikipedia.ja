@@ -1,4 +1,4 @@
-> この記事は[GNOME ](https://ja.wikipedia.org/wiki/GNOME_)から翻訳されています。
+> この記事は[GNOME システムモニタ](https://ja.wikipedia.org/wiki/GNOME_システムモニタ)から翻訳されています。
 
 
 **GNOME システムモニタ**（グノーム・システムモニタ）は、[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")で、システムリソースをモニタリングするためのユーティリティアプリケーションである\[1\]。

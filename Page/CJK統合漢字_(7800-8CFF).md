@@ -1,4 +1,4 @@
-> この記事は[CJK \(7800-8CFF\)](https://ja.wikipedia.org/wiki/CJK_\(7800-8CFF\))から翻訳されています。
+> この記事は[CJK統合漢字 \(7800-8CFF\)](https://ja.wikipedia.org/wiki/CJK統合漢字_\(7800-8CFF\))から翻訳されています。
 
 
 <table>

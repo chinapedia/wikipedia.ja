@@ -1,4 +1,4 @@
-> この記事は[EVE \(\)](https://ja.wikipedia.org/wiki/EVE_\(\))から翻訳されています。
+> この記事は[EVE \(アルバム\)](https://ja.wikipedia.org/wiki/EVE_\(アルバム\))から翻訳されています。
 
 
 『**EVE**』（イヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コーラス・グループ](../Page/コーラス・グループ.md "wikilink")である[EVEが](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースした5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

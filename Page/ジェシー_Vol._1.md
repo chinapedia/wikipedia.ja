@@ -1,4 +1,4 @@
-> この記事は[ Vol. 1](https://ja.wikipedia.org/wiki/_Vol._1)から翻訳されています。
+> この記事は[ジェシー Vol. 1](https://ja.wikipedia.org/wiki/ジェシー_Vol._1)から翻訳されています。
 
 
 『**ジェシー Vol. 1**』（Djesse Vol. 1）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の歌手である[ジェイコブ・コリアー](../Page/ジェイコブ・コリアー.md "wikilink")の2枚目のアルバム\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。4部作『ジェシー（Djesse）』シリーズの第1作目である。[2018年](../Page/2018年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")リリース。

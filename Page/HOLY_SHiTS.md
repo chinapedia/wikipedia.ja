@@ -13,7 +13,7 @@
 
 ### 現メンバー
 
-  - **セントチヒロ・チッチ**
+  - **[セントチヒロ・チッチ](https://ja.wikipedia.org/wiki/セントチヒロ・チッチ "wikilink")**
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - **キャン・GP・マイカ**
+  - **[キャン・GP・マイカ](https://ja.wikipedia.org/wiki/キャン・GP・マイカ "wikilink")**
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - **MAHO EMPiRE**
+  - **[MAHO EMPiRE](https://ja.wikipedia.org/wiki/MAHO_EMPiRE "wikilink")**
 
 <!-- end list -->
 
@@ -40,48 +40,48 @@
 
 <!-- end list -->
 
-  - **ア・アンズピア**
+  - **[ア・アンズピア](https://ja.wikipedia.org/wiki/ア・アンズピア "wikilink")**
 
 <!-- end list -->
 
   -
-    [WAgg](https://ja.wikipedia.org/wiki/WAgg "wikilink")所属。2019年8月4日の「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」から当ユニットに加入\[15\]\[16\]。
+    [WAgg](https://ja.wikipedia.org/wiki/WAgg "wikilink")所属。BiS解散に伴うペリ・ウブ、トリアエズ・ハナ、ムロパナコ卒業により2019年8月4日の「[TOKYO IDOL FESTIVAL 2019](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")」にて加入\[15\]\[16\]。
 
 <!-- end list -->
 
-  - **ウルウ・ル**
+  - **[ウルウ・ル](https://ja.wikipedia.org/wiki/ウルウ・ル "wikilink")**
 
 <!-- end list -->
 
   -
-    WAgg所属。2019年8月4日の「TOKYO IDOL FESTIVAL 2019」から当ユニットに加入\[17\]\[18\]。
+    加入当時はWAgg所属。昇格により現在は[CARRY LOOSE所属](https://ja.wikipedia.org/wiki/CARRY_LOOSE "wikilink")。BiS解散に伴うペリ・ウブ、トリアエズ・ハナ、ムロパナコ卒業により2019年8月4日の「TOKYO IDOL FESTIVAL 2019」にて加入\[17\]\[18\]。
 
 ### 元メンバー
 
-  - **ペリ・ウブ**
+  - **[ペリ・ウブ](https://ja.wikipedia.org/wiki/ペリ・ウブ "wikilink")**
 
 <!-- end list -->
 
   -
-    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属だが、第2期BiS解散にともない卒業している。初期メンバー\[19\]\[20\]\[21\]\[22\]。
+    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属。第2期BiS解散にともない卒業。初期メンバー\[19\]\[20\]\[21\]\[22\]。
 
 <!-- end list -->
 
-  - **ムロパナコ**
-
-<!-- end list -->
-
-  -
-    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属だが、第2期BiS解散にともない卒業している。初期メンバー\[23\]\[24\]\[25\]\[26\]。
-
-<!-- end list -->
-
-  - **トリアエズ・ハナ**
+  - **[ムロパナコ](https://ja.wikipedia.org/wiki/ムロパナコ "wikilink")**
 
 <!-- end list -->
 
   -
-    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属だが、第2期BiS解散にともない卒業している。初期メンバー\[27\]\[28\]\[29\]\[30\]。
+    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属。第2期BiS解散にともない卒業。初期メンバー\[23\]\[24\]\[25\]\[26\]。
+
+<!-- end list -->
+
+  - **[トリアエズ・ハナ](https://ja.wikipedia.org/wiki/トリアエズ・ハナ "wikilink")**
+
+<!-- end list -->
+
+  -
+    加入当時は[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")所属。第2期BiS解散にともない卒業。初期メンバー\[27\]\[28\]\[29\]\[30\]。
 
 ## 沿革
 

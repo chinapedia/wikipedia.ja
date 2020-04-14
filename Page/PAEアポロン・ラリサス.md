@@ -1,4 +1,4 @@
-> この記事は[PAE](https://ja.wikipedia.org/wiki/PAE)から翻訳されています。
+> この記事は[PAEアポロン・ラリサス](https://ja.wikipedia.org/wiki/PAEアポロン・ラリサス)から翻訳されています。
 
 
 **PAEアポロン・ラリサス**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[ラリサ県](https://ja.wikipedia.org/wiki/ラリサ県 "wikilink")[ラリサ](../Page/ラリサ.md "wikilink")をホームタウンとするサッカークラブである。

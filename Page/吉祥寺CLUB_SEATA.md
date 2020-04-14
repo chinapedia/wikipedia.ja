@@ -1,4 +1,4 @@
-> この記事は[CLUB SEATA](https://ja.wikipedia.org/wiki/CLUB_SEATA)から翻訳されています。
+> この記事は[吉祥寺CLUB SEATA](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA)から翻訳されています。
 
 
 **吉祥寺CLUB SEATA**（きちじょうじ クラブ シータ）は、[東京都](../Page/東京都.md "wikilink")[武蔵野市](../Page/武蔵野市.md "wikilink")[吉祥寺本町](../Page/吉祥寺本町.md "wikilink")にある[ライブハウス](../Page/ライブハウス.md "wikilink")・[クラブ](../Page/クラブ.md "wikilink")である。大阪を中心に事業展開を行う株式会社ベースオントップが運営を行っている。**吉祥寺SEATA**あるいは**CLUB SEATA**とも呼称される。

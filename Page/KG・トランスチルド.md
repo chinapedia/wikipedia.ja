@@ -1,4 +1,4 @@
-> この記事は[KG](https://ja.wikipedia.org/wiki/KG)から翻訳されています。
+> この記事は[KG・トランスチルド](https://ja.wikipedia.org/wiki/KG・トランスチルド)から翻訳されています。
 
 
 **株式会社KG・トランスチルド**は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[黒石市](../Page/黒石市.md "wikilink")を地盤に、[チルド共配センター](https://ja.wikipedia.org/wiki/チルド共配センター "wikilink")を営む物流業である。本社は同市[浅瀬石に置く](https://ja.wikipedia.org/wiki/浅瀬石_\(黒石市\) "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Phenomenon \(MONSTA X\)](https://ja.wikipedia.org/wiki/Phenomenon_\(MONSTA_X\))から翻訳されています。
+> この記事は[Phenomenon \(MONSTA Xのアルバム\)](https://ja.wikipedia.org/wiki/Phenomenon_\(MONSTA_Xのアルバム\))から翻訳されています。
 
 
 『**Phenomenon**』（フェノメノン）は、[韓国の男性](../Page/大韓民国.md "wikilink")7人組の歌手グループ、[MONSTA Xの日本の](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")2作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[Mercury Tokyoより発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

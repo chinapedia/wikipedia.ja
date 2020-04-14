@@ -16,4 +16,4 @@
 
 ## 脚注
 
-[Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:織田裕二の楽曲](https://ja.wikipedia.org/wiki/Category:織田裕二の楽曲 "wikilink") [Category:イーストワールドのシングル](https://ja.wikipedia.org/wiki/Category:イーストワールドのシングル "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:水曜劇場_(フジテレビ)の主題歌](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(フジテレビ\)の主題歌 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:織田裕二の楽曲](https://ja.wikipedia.org/wiki/Category:織田裕二の楽曲 "wikilink") [Category:イーストワールドのシングル](https://ja.wikipedia.org/wiki/Category:イーストワールドのシングル "wikilink") [Category:水曜劇場_(フジテレビ)の主題歌](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(フジテレビ\)の主題歌 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

@@ -3,7 +3,7 @@
 
 **EarPods**（イヤーポッズ、イヤーポッド）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・製造・販売している[有線](https://ja.wikipedia.org/wiki/有線 "wikilink")方式の[マイク付き](../Page/マイクロフォン.md "wikilink")[イヤフォン](../Page/ヘッドフォン.md "wikilink")。
 
-## 概要
+## 概説
 
 [2012年](../Page/2012年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")（現地時間）の新製品発表会で[iPhone 5](https://ja.wikipedia.org/wiki/iPhone_5 "wikilink")、[第5世代iPod touch](https://ja.wikipedia.org/wiki/iPod_touch_\(第5世代\) "wikilink")、[第7世代iPod nanoと共に発表された](https://ja.wikipedia.org/wiki/iPod_nano#第7世代 "wikilink")。
 

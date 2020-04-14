@@ -1,4 +1,4 @@
-> この記事は[PAE](https://ja.wikipedia.org/wiki/PAE)から翻訳されています。
+> この記事は[PAEハニア](https://ja.wikipedia.org/wiki/PAEハニア)から翻訳されています。
 
 
 **PAEハニア**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[ハニア県](https://ja.wikipedia.org/wiki/ハニア県 "wikilink")[ハニア](../Page/ハニア.md "wikilink")をホームタウンとするサッカークラブである。

@@ -1,4 +1,4 @@
-> この記事は[Debian](https://ja.wikipedia.org/wiki/Debian)から翻訳されています。
+> この記事は[Debianのバージョン履歴](https://ja.wikipedia.org/wiki/Debianのバージョン履歴)から翻訳されています。
 
 
 [Debian_9_(Stretch)_with_GNOME_Shell_3.22.png](https://ja.wikipedia.org/wiki/File:Debian_9_\(Stretch\)_with_GNOME_Shell_3.22.png "fig:Debian_9_(Stretch)_with_GNOME_Shell_3.22.png")

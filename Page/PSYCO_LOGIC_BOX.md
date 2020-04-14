@@ -1,9 +1,11 @@
 > この記事は[PSYCO LOGIC BOX](https://ja.wikipedia.org/wiki/PSYCO_LOGIC_BOX)から翻訳されています。
 
 
-**PSYCO LOGIC BOX**（サイコロジックボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[レーベルは](../Page/レコードレーベル.md "wikilink")[Dice Key Music](https://ja.wikipedia.org/wiki/Dice_Key_Music "wikilink")。2015年4月に[福岡県](../Page/福岡県.md "wikilink")で結成された。
+**PSYCO LOGIC BOX**（サイコロジックボックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属[レーベルは](../Page/レコードレーベル.md "wikilink")[Dice Key Music](https://ja.wikipedia.org/wiki/Dice_Key_Music "wikilink")。2015年4月に[福岡県](../Page/福岡県.md "wikilink")で結成された。
 
-## 概要
+## グループ名
+
+サイコロジー(psychology:心理)とロジック(logic:論理)を合わせた造語。サイコロジックは“心”を表し、ボックスは“体”を意味している。心と体で“人間”を意味 し、人としての成長、可能性をどこまでも追いかけ、伝えたい想いを紡ぎ、人と人をつないでゆくバンドを目指している。\[1\]
 
 ## メンバー
 
@@ -61,4 +63,8 @@
 
   -
   -
+  - [PSYCO LOGIC BOX official LINELIVE](https://linliv.ee/jpnkue0/co/ot/sh/ce)
+
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink")
+
+1.

@@ -1,4 +1,4 @@
-> この記事は[HIRO \(\)](https://ja.wikipedia.org/wiki/HIRO_\(\))から翻訳されています。
+> この記事は[HIRO \(ギターリスト\)](https://ja.wikipedia.org/wiki/HIRO_\(ギターリスト\))から翻訳されています。
 
 
 **HIRO**（ヒロ、[8月5日](../Page/8月5日.md "wikilink") - ）は、日本の[ギターリスト](https://ja.wikipedia.org/wiki/ギターリスト "wikilink")である。[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")、[Libraian](../Page/Libraian.md "wikilink")の[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、作曲を担当。血液型O型。[島根県](../Page/島根県.md "wikilink")出身。

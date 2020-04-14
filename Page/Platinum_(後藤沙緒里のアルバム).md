@@ -1,4 +1,4 @@
-> この記事は[Platinum \(\)](https://ja.wikipedia.org/wiki/Platinum_\(\))から翻訳されています。
+> この記事は[Platinum \(後藤沙緒里のアルバム\)](https://ja.wikipedia.org/wiki/Platinum_\(後藤沙緒里のアルバム\))から翻訳されています。
 
 
 『**platinum**』（プラチナ）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の2作目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。2005年11月23日、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。

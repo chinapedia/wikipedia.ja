@@ -1,4 +1,4 @@
-> この記事は[RFL](https://ja.wikipedia.org/wiki/RFL)から翻訳されています。
+> この記事は[RFLチャンピオンシップ](https://ja.wikipedia.org/wiki/RFLチャンピオンシップ)から翻訳されています。
 
 
 **チャンピオンシップ**（）は、[ラグビーフットボールリーグ](https://ja.wikipedia.org/wiki/ラグビーフットボールリーグ "wikilink")（RFL）が組織するプロ[ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")競技会である\[1\]。スポンサー名を冠して**Betfred Championship**とも呼ばれる。RFLによる競技会としては[スーパーリーグの](https://ja.wikipedia.org/wiki/スーパーリーグ_\(ラグビーリーグ\) "wikilink")1つ下の階層の2部リーグに相当する。14チームからなり、[スーパーリーグへの昇格および](https://ja.wikipedia.org/wiki/スーパーリーグ_\(ラグビーリーグ\) "wikilink")[リーグ1](https://ja.wikipedia.org/wiki/リーグ1_\(ラグビーリーグ\) "wikilink")（3部）への降格制度がある。

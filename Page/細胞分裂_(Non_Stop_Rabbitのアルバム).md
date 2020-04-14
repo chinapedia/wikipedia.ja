@@ -1,4 +1,4 @@
-> この記事は[ \(Non Stop Rabbit\)](https://ja.wikipedia.org/wiki/_\(Non_Stop_Rabbit\))から翻訳されています。
+> この記事は[細胞分裂 \(Non Stop Rabbitのアルバム\)](https://ja.wikipedia.org/wiki/細胞分裂_\(Non_Stop_Rabbitのアルバム\))から翻訳されています。
 
 
 『**細胞分裂**』(さいぼうぶんれつ) は、[2019年](../Page/2019年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3ピースロックバンド[Non Stop Rabbitがリリースした](https://ja.wikipedia.org/wiki/Non_Stop_Rabbit "wikilink")2枚目のフルアルバム。発売元は、[Studio Cubic Records](https://ja.wikipedia.org/wiki/Studio_Cubic_Records "wikilink")。
@@ -18,7 +18,7 @@
 
 オリコン[2019年](../Page/2019年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")付のデイリーランキングで最高1位を獲得。\[3\]
 
-  - [2019年](../Page/2019年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")付の[タワーレコード](../Page/タワーレコード.md "wikilink")デイリーランキングで1位を記録。(同ランキングで前作の[全A面と](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\) "wikilink")[自力本願もそれぞれ](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\) "wikilink")9位と10位を記録。)
+  - [2019年](../Page/2019年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")付の[タワーレコード](../Page/タワーレコード.md "wikilink")デイリーランキングで1位を記録。(同ランキングで前作の『全A面』と『自力本願』もそれぞれ9位と10位を記録。)
 
 <!-- end list -->
 
@@ -72,17 +72,16 @@
 
 ## 外部リンク
 
-  - [2ndフルアルバム「細胞分裂」全曲トレーラー](https://www.youtube.com/watch?v=mr2ONxaAGHM)\[8\]
+  - [2ndフルアルバム「細胞分裂」全曲トレーラー](https://www.youtube.com/watch?v=mr2ONxaAGHM)
 
 ## 脚注
 
 [Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:Non_Stop_Rabbitのアルバム](https://ja.wikipedia.org/wiki/Category:Non_Stop_Rabbitのアルバム "wikilink")
 
-1.  ([全A面](https://ja.wikipedia.org/wiki/全A面_\(Non_Stop_Rabbitのアルバム\) "wikilink")、[自力本願はYouTube](https://ja.wikipedia.org/wiki/自力本願_\(Non_Stop_Rabbitのアルバム\) "wikilink") Musicでは配信されていなかった。)
+1.  『全A面』『自力本願』は元々YouTube Musicでは配信されていなかったが、2020年の3月に2つのアルバムも遅れて配信された。
 2.
 3.
 4.  [Non Stop Rabbit、メンバー全員が「一番の自信作」と語る新曲のMV公開([音楽ナタリー](https://ja.wikipedia.org/wiki/音楽ナタリー "wikilink"))](https://natalie.mu/music/news/358597)
 5.
-6.  [お願い！ランキング公式サイト([2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")のアーカイブ)](https://web.archive.org/web/20191218033808/https://www.tv-asahi.co.jp/onegai_chosenkyo/)
+6.  [お願い！ランキング公式サイト(2019年12月18日のアーカイブ)](https://web.archive.org/web/20191218033808/https://www.tv-asahi.co.jp/onegai_chosenkyo/)
 7.
-8.  [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")より

@@ -1,4 +1,4 @@
-> この記事は[PAE](https://ja.wikipedia.org/wiki/PAE)から翻訳されています。
+> この記事は[PAEドクサ・ドラマス](https://ja.wikipedia.org/wiki/PAEドクサ・ドラマス)から翻訳されています。
 
 
 **PAEドクサ・ドラマス**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[ドラマ県](https://ja.wikipedia.org/wiki/ドラマ県 "wikilink")[ドラマをホームタウンとするサッカークラブである](https://ja.wikipedia.org/wiki/ドラマ_\(ギリシャ\) "wikilink")。

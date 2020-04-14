@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[さそり座N星](https://ja.wikipedia.org/wiki/さそり座N星)から翻訳されています。
 
 
 **さそり座N星**は、[さそり座](../Page/さそり座.md "wikilink")の4等星。かつては、[じょうぎ座](../Page/じょうぎ座.md "wikilink")のα星とされていたが、現在はさそり座にある。

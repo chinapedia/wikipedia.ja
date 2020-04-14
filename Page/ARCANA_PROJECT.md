@@ -41,7 +41,7 @@
 <td></td>
 <td></td>
 <td><p><a href="../Page/審判_(タロット).md" title="wikilink">審判</a></p></td>
-<td></td>
+<td><p>愛称：アイーダ</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>花宮ハナ</strong></p></td>
@@ -52,7 +52,7 @@
 <td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>佐々木麻衣</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木麻衣_(歌手)" title="wikilink">佐々木麻衣</a></strong></p></td>
 <td><p>ささき まい</p></td>
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
@@ -70,10 +70,18 @@
 </tbody>
 </table>
 
+## シングル
+
+| \#         | タイトル         | 品番         | 発売日        | 販売元            |
+| ---------- | ------------ | ---------- | ---------- | -------------- |
+| プレデビューシングル | ACE of WANDS | LACM-24006 | 2020年3月25日 | 株式会社バンダイナムコアーツ |
+|            |              |            |            |                |
+|            |              |            |            |                |
+
 ## 作品
 
-  - ACE of WANDS: ロック調の楽曲
-  - 1・2・3\!: マーチングソング的な楽曲で、タロット占いの要素が歌詞に読み込まれている
+  - [ACE of WANDS](https://www.youtube.com/watch?v=ebX_bFDC2MU): ロック調の楽曲 (作詞：安藤紗々 作曲：内藤英雅 編曲：[中野雄太](../Page/中野雄太.md "wikilink") )
+  - 1・2・3\!: マーチングソング的な楽曲で、タロット占いの要素が歌詞に読み込まれている (作詞：[金子麻友美](https://ja.wikipedia.org/wiki/金子麻友美 "wikilink") 作曲・編曲：[久下真音](https://ja.wikipedia.org/wiki/久下真音 "wikilink"))
 
 ## ライブ
 
@@ -88,6 +96,8 @@
 
   -
   -
+  - [ARCANA PROJECT](https://www.youtube.com/channel/UCVUADERJRI1bG9ez7CyfDnA) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
+
 [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 
 1.

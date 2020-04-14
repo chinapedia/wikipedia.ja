@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[サイクリンE](https://ja.wikipedia.org/wiki/サイクリンE)から翻訳されています。
 
 
 **サイクリンE**（）は、[サイクリン](../Page/サイクリン.md "wikilink")ファミリーの[タンパク質](../Page/タンパク質.md "wikilink")である。

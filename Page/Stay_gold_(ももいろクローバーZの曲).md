@@ -1,4 +1,4 @@
-> この記事は[Stay gold \(Z\)](https://ja.wikipedia.org/wiki/Stay_gold_\(Z\))から翻訳されています。
+> この記事は[Stay gold \(ももいろクローバーZの曲\)](https://ja.wikipedia.org/wiki/Stay_gold_\(ももいろクローバーZの曲\))から翻訳されています。
 
 
 「**stay gold**」（ステイゴールド）は、[2019年](../Page/2019年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に発売された[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")の20枚目のシングル\[1\]。

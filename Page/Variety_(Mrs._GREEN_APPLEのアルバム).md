@@ -1,4 +1,4 @@
-> この記事は[Variety \(Mrs. GREEN APPLE\)](https://ja.wikipedia.org/wiki/Variety_\(Mrs._GREEN_APPLE\))から翻訳されています。
+> この記事は[Variety \(Mrs. GREEN APPLEのアルバム\)](https://ja.wikipedia.org/wiki/Variety_\(Mrs._GREEN_APPLEのアルバム\))から翻訳されています。
 
 
 {{ external media | align = right | video1 = [Mrs. GREEN APPLE - 『Variery』ダイジェスト](https://www.youtube.com/watch?v=sOUW60qoMpQ) }}
@@ -92,6 +92,14 @@
   - [中西亮輔](../Page/中西亮輔.md "wikilink")：Additional [Synthesizer](../Page/シンセサイザー.md "wikilink") Programming (\#1)
   - CHICA：[Violin](../Page/ヴァイオリン.md "wikilink") & [Viola](../Page/ヴィオラ.md "wikilink") (\#1)
 
+## カバー
+
+  - StaRt
+
+<!-- end list -->
+
+  - [ハロー、ハッピーワールド\!](https://ja.wikipedia.org/wiki/BanG_Dream!#ハロー、ハッピーワールド! "wikilink")［弦巻こころ（[伊藤美来](https://ja.wikipedia.org/wiki/伊藤美来 "wikilink")）］ - ゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に収録（2019年3月31日追加）\[9\]。
+
 ## 脚注
 
 ## 外部リンク
@@ -108,3 +116,4 @@
 6.
 7.
 8.
+9.

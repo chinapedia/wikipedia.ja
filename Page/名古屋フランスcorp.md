@@ -1,4 +1,4 @@
-> この記事は[corp](https://ja.wikipedia.org/wiki/corp)から翻訳されています。
+> この記事は[名古屋フランスcorp](https://ja.wikipedia.org/wiki/名古屋フランスcorp)から翻訳されています。
 
 
 **名古屋フランスcorp**（なごやふらんすこーぷ）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[日進市](../Page/日進市.md "wikilink")に本社のある企業。

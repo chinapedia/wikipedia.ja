@@ -1,4 +1,4 @@
-> この記事は[Win \(\)](https://ja.wikipedia.org/wiki/Win_\(\))から翻訳されています。
+> この記事は[Win \(タレント\)](https://ja.wikipedia.org/wiki/Win_\(タレント\))から翻訳されています。
 
 
 Win（中国名：風田、[1992年](https://ja.wikipedia.org/wiki/1992年の日本 "wikilink")[2月2日](../Page/2月2日.md "wikilink")-）は、日本の[タレント](../Page/タレント.md "wikilink")・[俳優](../Page/俳優.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[モデル](../Page/モデル_\(職業\).md "wikilink")。[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を拠点とする男性アイドルグループ「[SpeXial](https://ja.wikipedia.org/wiki/SpeXial "wikilink")（スペシャル）」のメンバー\[1\]。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[階上町](../Page/階上町.md "wikilink")出身\[2\]。

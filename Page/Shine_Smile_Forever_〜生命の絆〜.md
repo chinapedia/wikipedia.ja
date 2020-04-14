@@ -1,7 +1,7 @@
-> この記事は[Shine Smile Forever ](https://ja.wikipedia.org/wiki/Shine_Smile_Forever_)から翻訳されています。
+> この記事は[Shine Smile Forever 〜生命の絆〜](https://ja.wikipedia.org/wiki/Shine_Smile_Forever_〜生命の絆〜)から翻訳されています。
 
 
-「**Shine Smile Forever 〜生命の絆〜**」（しゃいん すまいる ふぉーえばー 〜いのちのきずな〜）は、恋夏。による楽曲。作詞・作曲は栗原将輝。[2019年](../Page/2019年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")にリリースされた\[1\]。
+「**Shine Smile Forever 〜生命の絆〜**」（シャイン スマイル フォーエバー いのちのきずな）は、恋夏。による楽曲。作詞・作曲は栗原将輝。[2019年](../Page/2019年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")にリリースされた\[1\]。
 
 ## 背景とリリース
 
@@ -10,7 +10,7 @@
   - ミュージックビデオは平岩諒一が映像監督を務め、[2019年](../Page/2019年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて公開された\[5\]。
   - 北海道発着の航空便[AIRDO](../Page/AIRDO.md "wikilink")の機内にて、[音尾琢真](../Page/音尾琢真.md "wikilink")がパーソナリティを務める「5CH Scene from Hokkaido〜北の空より〜」にて本楽曲が使用された\[6\]\[7\]。
 
-## 出典
+## 脚注
 
 ## 関連項目
 
@@ -29,7 +29,6 @@
   - [MKsoul Promotion](http://mksoul-pro.com/)
 
   -
-
 [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  [MKsoul Promotion プロデュース実績 恋夏。](http://mksoul-pro.com/artists_konatsu)2019年12月2日閲覧

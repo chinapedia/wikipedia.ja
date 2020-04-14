@@ -1,4 +1,4 @@
-> この記事は[ Sunday Kiss](https://ja.wikipedia.org/wiki/_Sunday_Kiss)から翻訳されています。
+> この記事は[辛坊治郎 Sunday Kiss](https://ja.wikipedia.org/wiki/辛坊治郎_Sunday_Kiss)から翻訳されています。
 
 
 **辛坊治郎 Sunday Kiss**（しんぼうじろう サンデー キス）とは、[2019年](../Page/2019年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")から[Kiss FM KOBEにて放送されているラジオ番組](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")。
@@ -30,7 +30,7 @@
   - 18:40頃　Julia's EYE／Emiko's EYE（週替り）
       - 薄田or加納が週替りで最新トレンドを紹介する。
   - 18:55　天気予報
-  - 18:57　今週のJiro's Select（12/1～）
+  - 18:57　K-BREAK（2019年12月1日放送分以降は「今週のJiro's Select」のサブタイトル付き）
       - 辛坊が選曲した１曲を流す。
   - 19:00　ゲストコーナー
       - ゲストを迎えたトークコーナー。

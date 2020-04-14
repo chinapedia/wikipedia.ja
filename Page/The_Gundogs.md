@@ -10,6 +10,7 @@
   - 『[I WRITE THE SONGS](../Page/I_WRITE_THE_SONGS.md "wikilink")』以来5年振りの作品。
   - 2曲目から7曲目までは、ライブ音源となっている。
   - ジャケットデザインは[上條淳士](../Page/上條淳士.md "wikilink")が担当した。
+  - 本作は[CD EXTRA仕様となっている](../Page/CD_EXTRA.md "wikilink")\[1\]。
 
 ## 収録曲
 
@@ -28,3 +29,5 @@
 ## 脚注
 
 [Category:2002年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のミニ・アルバム "wikilink") [Category:吉川晃司のアルバム](https://ja.wikipedia.org/wiki/Category:吉川晃司のアルバム "wikilink") [Category:徳間ジャパンコミュニケーションズのアルバム](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアルバム "wikilink")
+
+1.

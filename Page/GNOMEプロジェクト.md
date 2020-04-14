@@ -1,4 +1,4 @@
-> この記事は[GNOME](https://ja.wikipedia.org/wiki/GNOME)から翻訳されています。
+> この記事は[GNOMEプロジェクト](https://ja.wikipedia.org/wiki/GNOMEプロジェクト)から翻訳されています。
 
 
 **GNOMEプロジェクト**（グノーム・プロジェクト）は、[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")とそのベースとなるソフトウェアプラットフォームの背後にあるコミュニティである。ソフトウェア開発者、アーティスト、記者、翻訳家、他の貢献者、そしてGNOMEのアクティブユーザから構成されている。[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")の一部である\[1\]。

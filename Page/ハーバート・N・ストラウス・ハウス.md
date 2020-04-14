@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[ハーバート・N・ストラウス・ハウス](https://ja.wikipedia.org/wiki/ハーバート・N・ストラウス・ハウス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:9E71_from_Frick_01_jeh.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:11_E71_Street_level_jeh.jpg "wikilink")

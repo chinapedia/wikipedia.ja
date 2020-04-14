@@ -1,4 +1,4 @@
-> この記事は[Eden with roses and phantasm](https://ja.wikipedia.org/wiki/Eden_with_roses_and_phantasm)から翻訳されています。
+> この記事は[絶対階級学園〜Eden with roses and phantasm〜](https://ja.wikipedia.org/wiki/絶対階級学園〜Eden_with_roses_and_phantasm〜)から翻訳されています。
 
 
 『**絶対階級学園\~Eden with roses and phantasm\~**』(ぜったいかいきゅうがくえん エデン ウィズ ローゼス アンド ファンタズム)は[Daisy2](https://ja.wikipedia.org/wiki/Daisy2 "wikilink")より2015年5月28日に発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")PC用ゲームソフト。ゲームジャンルは[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")（[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")）。

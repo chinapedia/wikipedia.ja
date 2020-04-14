@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[岐阜タンメンBBC](https://ja.wikipedia.org/wiki/岐阜タンメンBBC)から翻訳されています。
 
 
 **株式会社岐阜タンメンBBC**（ぎふたんめんびーびーしー）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")に本社を置く企業。

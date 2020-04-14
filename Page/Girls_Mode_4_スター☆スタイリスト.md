@@ -1,4 +1,4 @@
-> この記事は[Girls Mode 4 ](https://ja.wikipedia.org/wiki/Girls_Mode_4_)から翻訳されています。
+> この記事は[Girls Mode 4 スター☆スタイリスト](https://ja.wikipedia.org/wiki/Girls_Mode_4_スター☆スタイリスト)から翻訳されています。
 
 
 『**Girls Mode 4 スター☆スタイリスト**』（ガールズモード フォー スタースタイリスト）は、[シンソフィア](https://ja.wikipedia.org/wiki/シンソフィア "wikilink")が開発し、[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフト。
@@ -9,7 +9,7 @@
 
 プレイヤーはセレクトショップの店長となって経営し、来店する客のファッションをコーディネートする。アイテム数は公式サイトによると約20000点と膨大であり、多彩なコーディネイトが楽しめる。本作では「ヘッドホン」「ブレスレット・時計」も着けられるようになり、「ネイル」も加わり、コーデに合わせて指先までオシャレができるようになった。
 
-ゲーム内にはスターを目指す桜野やよい、青紫月子、黄梨蛍が登場、それぞれに楽曲が用意され、楽曲プロデュースは[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")・グループ、振付は[MIKIKO](https://ja.wikipedia.org/wiki/MIKIKO "wikilink")が担当している。
+テーマ曲「Girls be ambitious」の歌をanna（[FAKY](https://ja.wikipedia.org/wiki/FAKY "wikilink")旧メンバー）にゲーム内にはスターを目指す桜野やよい（CV:[廣川奈々聖](https://ja.wikipedia.org/wiki/廣川奈々聖 "wikilink") from [わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")）、青紫月子（CV:R\!N）、黄梨蛍（CV:柊優花）が登場、それぞれに楽曲が用意され、楽曲プロデュースは[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")・グループ [油井誠志](../Page/油井誠志.md "wikilink")、振付は[MIKIKO](https://ja.wikipedia.org/wiki/MIKIKO "wikilink")が担当している。
 
 通信はすれちがい通信、いつの間に通信、インターネット通信、最大4人のローカル通信プレイに対応する。
 

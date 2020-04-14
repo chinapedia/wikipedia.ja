@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[サイクリンB](https://ja.wikipedia.org/wiki/サイクリンB)から翻訳されています。
 
 
 **サイクリンB**（）は[サイクリン](../Page/サイクリン.md "wikilink")ファミリーのメンバーの[タンパク質](../Page/タンパク質.md "wikilink")で、[有糸分裂](../Page/有糸分裂.md "wikilink")に関与するサイクリンである。サイクリンBの量とサイクリンB/[CDK複合体の活性は](../Page/サイクリン依存性キナーゼ.md "wikilink")[細胞周期](../Page/細胞周期.md "wikilink")が有糸分裂に入るまで上昇し\[1\]、その後サイクリンBの分解によって急激に低下する\[2\]。サイクリンB/Cdk複合体は（maturation promoting factor）または有糸分裂/M期促進因子（mitosis/M-phase promoting factor）などと呼ばれ、MPFと略される。

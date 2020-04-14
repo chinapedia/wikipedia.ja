@@ -1,11 +1,11 @@
-> この記事は[BEST](https://ja.wikipedia.org/wiki/BEST)から翻訳されています。
+> この記事は[わーすたBEST](https://ja.wikipedia.org/wiki/わーすたBEST)から翻訳されています。
 
 
-『**わーすたBEST**』（わーすたベスト）は、[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[iDOL Streetから発売予定](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")。結成5周年を記念しての初のベストアルバムである。
+『**わーすたBEST**』（わーすたベスト）は、[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[iDOL Streetから発売](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")。結成5周年を記念しての初のベストアルバムである。
 
 ## 概要
 
-「[CD](../Page/コンパクトディスク.md "wikilink")+[Blu-ray盤](../Page/Blu-ray_Disc.md "wikilink")」、「CD盤」、「CD+Blu-ray盤(豪華特殊パッケージ仕様)」の計3形態で発売予定。CDは2枚組である。
+「[CD](../Page/コンパクトディスク.md "wikilink")+[Blu-ray盤](../Page/Blu-ray_Disc.md "wikilink")」、「CD盤」、「CD+Blu-ray盤(豪華特殊パッケージ仕様)」の計3形態で発売。CDは2枚組である。
 
 各ディスクに収録されているものは以下のとおりである。
 
@@ -56,6 +56,7 @@ Disc 1.
       -
         作詞：鈴木まなか、作曲：鈴木まなか・Hiroki Sagawa、編曲：Hiroki Sagawa
           - 2ndシングル。
+          - シングルバージョンが収録され、イントロのドラマ部分は残された。
 5.  **[Just be yourself](https://ja.wikipedia.org/wiki/Just_be_yourself "wikilink")**
       -
         作詞：鈴木まなか、作曲・編曲：[Kon-K](https://ja.wikipedia.org/wiki/Kon-K "wikilink")
@@ -80,6 +81,7 @@ Disc 1.
       -
         作詞：鈴木まなか、作曲・編曲：岸田勇気
           - 3rdアルバム「**[CAT'CH THE WORLD](https://ja.wikipedia.org/wiki/CAT'CH_THE_WORLD "wikilink")**」のリードトラック。
+          - 「CAT'CH THE WORLD」ではイントロの坂元の朗読部分が「プロローグ」として別の曲としてクレジットされていたが、本作では「くらえ\!必殺\!\!ねこパンチ★ 〜私達、戦うにゃこたん【レベル5】〜」の一部として扱われ収録されている。
 11. **メラにゃイザー\!\!\!\!\! 〜君に、あ・げ・う♪〜**
       -
         作詞：鈴木まなか・白井美穂 (Relic Lyric inc)、作曲・編曲：岸田勇気
@@ -140,6 +142,7 @@ Disc 2.
       -
         作詞：鈴木まなか、作曲：鈴木まなか・Hiroki Sagawa・サイトウリョースケ、編曲：鈴木まなか・Hiroki Sagawa
           - 人気投票5位。
+          - 本作が初披露された当時のわーすたは、ボーカルメンバー（廣川・三品）とダンスメンバー（坂元・松田・小玉）に明確に分かれていたため、オリジナルではほとんどのパートを廣川と三品が歌っている。本作では坂元、松田、小玉も含めた全員でパートを振り分け直して歌っている。このバージョンは2020年3月28日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で行われた『The World Standard 〜わーすた 5さいになりました\!〜』のアンコールで無観客で初披露された。
 
 ### Blu-ray
 
@@ -181,22 +184,286 @@ Disc 2.
 1.  わーすた MEMBERS INTERVIEW
 2.  5th Anniversary LETTERS
 
+## 音楽配信
+
+2020年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にCDのDisc.1とDisc.2に収録されている24曲が配信された。同時に「グレープフルーツムーン」の[MVも配信された](../Page/ミュージック・ビデオ.md "wikilink")。
+
+本作には[ハイレゾ音源が配信されなかった](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")1stアルバム「[The World Standard](https://ja.wikipedia.org/wiki/The_World_Standard "wikilink")」に収録されている曲が複数あり、それらに対してリマスタリング等はなされなかったため、本作はハイレゾ音源でのリリースが見送られた。この結果、「[e-onkyo music](../Page/オンキヨー.md "wikilink")」は本作の販売ができなくなった。また、「[mora qualitas](../Page/Mora.md "wikilink")」は[CD-DA](../Page/CD-DA.md "wikilink")スペックの音質で配信している。「[Amazon Music HD](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")」は過去にハイレゾ音源がリリースされた曲についてはハイレゾ音源が再生されるようにカタログを調整している。
+
+本作は世界初のスマホ向けアニソン定額配信サービス「[ANiUTa](https://ja.wikipedia.org/wiki/ANiUTa "wikilink")」でも配信された。5thシングル「[遮二無二 生きる\!/バスタブ・アロマティック](https://ja.wikipedia.org/wiki/遮二無二_生きる!/バスタブ・アロマティック "wikilink")」の配信が見送られていたため、アニメソングである「SHINING FLOWER」がようやく「ANiUTa」でも聴けるようになった。
+
+「[オリコン](../Page/オリコン.md "wikilink")ミュージックストア」は「グレープフルーツムーン」のMVの販売を見送っている。
+
+**MV**は「グレープフルーツムーン」の[MVも配信していることを示す](../Page/ミュージック・ビデオ.md "wikilink")。
+
+<div class="NavFrame" style="text-align:center; font-size:small;">
+
+<div class="NavHead">
+
+音楽配信
+
+</div>
+
+<div class="NavContent">
+
+<table>
+<thead>
+<tr class="header">
+<th><p>配信日</p></th>
+<th><p>タイトル</p></th>
+<th><p>配信サービス</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年3月25日</p></td>
+<td><p><strong>わーすたBEST</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Amazon_Music" title="wikilink">Amazon Music</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/mp3" title="wikilink">mp3</a>音源を配信</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ドワンゴ.md" title="wikilink">dwango.jp</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/dマーケット" title="wikilink">dミュージック</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フェイス・ワンダワークス" title="wikilink">GIGA MUSIC</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Google_Play_Music" title="wikilink">Google Play Music (ダウンロード)</a></p></td>
+<td><p>mp3音源を配信</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/iTunes_Store" title="wikilink">iTunes Store</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/LINE_(アプリケーション)" title="wikilink">LINE MUSIC (ダウンロード)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/mora" title="wikilink">mora</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ミュゥモ.md" title="wikilink">mu-mo</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Au_Market" title="wikilink">Music Store</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ヤマハミュージックメディア.md" title="wikilink">MySound</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/OTOTOY" title="wikilink">OTOTOY</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a>ミュージックストア</p></td>
+<td><p>[4]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ひかりTV" title="wikilink">ひかりTV (ダウンロード)</a>ミュージック</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/エムティーアイ.md" title="wikilink">ミュージコ♪</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/レコチョク" title="wikilink">レコチョク</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Amazon_Music" title="wikilink">Amazon Music HD</a><br />
+<a href="https://ja.wikipedia.org/wiki/Amazon_Music" title="wikilink">Amazon Music Unlimited</a></p></td>
+<td><p>[5]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Apple_Music" title="wikilink">Apple Music</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AWA" title="wikilink">AWA</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/dマーケット" title="wikilink">dミュージック 月額コース</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Google_Play_Music" title="wikilink">Google Play Music (ストリーミング)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/HMV.md" title="wikilink">HMV</a>music</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/KKBOX" title="wikilink">KKBOX</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/LINE_(アプリケーション)" title="wikilink">LINE MUSIC (ストリーミング)</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Mora.md" title="wikilink">mora qualitas</a></p></td>
+<td><p>[6]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/楽天" title="wikilink">Rakuten Music</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/レコチョク" title="wikilink">RecMusic</a></p></td>
+<td><p><strong>MV</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Spotify" title="wikilink">Spotify</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
+<a href="https://ja.wikipedia.org/wiki/YouTube_Music" title="wikilink">YouTube Music</a></p></td>
+<td><p><strong>MV</strong>[7]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ひかりTV" title="wikilink">ひかりTV (ストリーミング)</a>ミュージック</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ANiUTa" title="wikilink">ANiUTa</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Dマーケット" title="wikilink">dヒッツ</a></p></td>
+<td><p>[8]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Au_Market" title="wikilink">うたパス</a></p></td>
+<td><p>[9]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>※</p></td>
+<td><p><a href="../Page/ジュピターテレコム.md" title="wikilink">J:COMミュージック</a></p></td>
+<td><p>[10]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/dTV" title="wikilink">dTV</a></p></td>
+<td><p><strong>MV</strong>のみ配信</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
 ## イベント
 
-| 日程         | 公演名                                                             | 会場                                                                      | 備考                                         |
-| ---------- | --------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
-| 2020年1月19日 | リリースイベント                                                        | 横浜 YTJホール                                                               | イベント内容は公式HP参照\[4\]。                        |
-| 2020年1月25日 | [なんばOCAT](https://ja.wikipedia.org/wiki/なんばOCAT "wikilink")     |                                                                         |                                            |
-| 2020年2月8日  | [ららぽーと立川立飛](https://ja.wikipedia.org/wiki/ららぽーと立川立飛 "wikilink") |                                                                         |                                            |
-| 2020年2月22日 | [東京イースト21](../Page/東京イースト21.md "wikilink")プラザ                   |                                                                         |                                            |
-| 2020年2月23日 | [ららぽーと柏の葉](../Page/ららぽーと柏の葉.md "wikilink")                      |                                                                         |                                            |
-| 2020年3月7日  | [流山おおたかの森 S・C](../Page/流山おおたかの森_S・C.md "wikilink")              |                                                                         |                                            |
-| 2020年3月8日  | [としまえん](../Page/としまえん.md "wikilink")                            |                                                                         |                                            |
-| 2020年3月14日 | 神奈川某所                                                           |                                                                         |                                            |
-| 2020年3月25日 | 都内某所                                                            |                                                                         |                                            |
-| 2020年2月11日 | mu-moショップスペシャルイベント                                              | [エイベックスビル](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")        | 個別握手会、個別撮影会、グループ撮影会他。イベント内容詳細は公式HP参照\[5\]。 |
-| 2020年4月4日  |                                                                 |                                                                         |                                            |
-| 2020年1月29日 | ネットサイン会                                                         | [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") | イベント内容は公式HP参照\[6\]。                        |
+[新型コロナウイルス感染症の流行の影響で](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")3月以降に予定されていたリリースイベント、mu-moショップスペシャルイベントは中止となった\[11\]\[12\]\[13\]。その代わりにネットサイン会の回数を増やす措置をとったが、応募者が殺到し申し込みサイトが落ちたため、通常は先着順の受付が抽選に変更された。
+
+| 日程                 | 公演名                                                             | 会場                                                                      | 備考                                          |
+| ------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------- |
+| 2020年1月19日         | リリースイベント                                                        | 横浜 YTJホール                                                               | イベント内容は公式HP参照\[14\]。                        |
+| 2020年1月25日         | [なんばOCAT](https://ja.wikipedia.org/wiki/なんばOCAT "wikilink")     |                                                                         |                                             |
+| 2020年2月8日          | [ららぽーと立川立飛](https://ja.wikipedia.org/wiki/ららぽーと立川立飛 "wikilink") |                                                                         |                                             |
+| 2020年2月22日         | [東京イースト21](../Page/東京イースト21.md "wikilink")プラザ                   |                                                                         |                                             |
+| 2020年2月23日         | [ららぽーと柏の葉](../Page/ららぽーと柏の葉.md "wikilink")                      |                                                                         |                                             |
+| 2020年3月7日**(中止)**  | [流山おおたかの森 S・C](../Page/流山おおたかの森_S・C.md "wikilink")              |                                                                         |                                             |
+| 2020年3月8日**(中止)**  | [としまえん](../Page/としまえん.md "wikilink")                            |                                                                         |                                             |
+| 2020年3月14日**(中止)** | 神奈川某所                                                           |                                                                         |                                             |
+| 2020年3月15日**(中止)** | (未定)                                                            |                                                                         |                                             |
+| 2020年3月25日**(中止)** | 都内某所                                                            |                                                                         |                                             |
+| 2020年2月11日         | mu-moショップスペシャルイベント                                              | [エイベックスビル](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")        | 個別握手会、個別撮影会、グループ撮影会他。イベント内容詳細は公式HP参照\[15\]。 |
+| 2020年4月4日**(中止)**  |                                                                 |                                                                         |                                             |
+| 2020年1月29日         | ネットサイン会                                                         | [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") | イベント内容は公式HP参照\[16\]\[17\]\[18\]\[19\]。      |
+| 2020年3月5日          |                                                                 |                                                                         |                                             |
+| 2020年3月8日          |                                                                 |                                                                         |                                             |
+| 2020年3月15日         |                                                                 |                                                                         |                                             |
+| 2020年3月25日         | 「わーすたBEST」発売記念\! わーすたデジタルビンゴ大会 & ネットサイン会                        | イベント内容は公式HP参照\[20\]。                                                    |                                             |
 
 ## タイアップ
 
@@ -223,11 +490,31 @@ Disc 2.
   -
   -
   -
+  -
+  -
+  -
+  -
+  -
+  -
 [Category:エイベックス・グループのアルバム](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアルバム "wikilink") [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink")
 
 1.  配信限定リリースの「[プリティー☆チャンネル](https://ja.wikipedia.org/wiki/プリティー☆チャンネル "wikilink")」、「[ヨ・キエロ・ビビール](https://ja.wikipedia.org/wiki/ヨ・キエロ・ビビール_\(アデクセ・アンド・ナウの曲\)#わーすたのカバー "wikilink")」、「[KIRA KIRA ホログラム](https://ja.wikipedia.org/wiki/KIRA_KIRA_ホログラム "wikilink")」は除く
 2.  振り付けに特化したもの。
 3.
-4.
-5.
-6.
+4.  本作では**MV**の販売を見送っている。
+5.  Amazon Music HDは一部の楽曲を[ハイレゾ音源で配信している](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")。
+6.  [CD-DA](../Page/CD-DA.md "wikilink")スペックの音質で配信。
+7.  MVのフルバージョンを無料会員が見ることも可能。MVのフルバージョンは2020年2月14日から先行配信されていた。
+8.  500円コースのみ本作収録曲全てをmyヒッツに保存可能。
+9.  わーすたのプレイリストでランダムに再生。聴き放題プラン Myうたプラスのみ本作収録曲全てをMyうたに保存可能。
+10. わーすたのプレイリストでランダムに再生。本作収録曲全てをMyうたに保存可能。
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.

@@ -1,4 +1,4 @@
-> この記事は[YOUR EYES \(\)](https://ja.wikipedia.org/wiki/YOUR_EYES_\(\))から翻訳されています。
+> この記事は[YOUR EYES \(山下達郎の曲\)](https://ja.wikipedia.org/wiki/YOUR_EYES_\(山下達郎の曲\))から翻訳されています。
 
 
 「**YOUR EYES**」（ユア・アイズ）は、[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算36作目の[シングル](../Page/シングル.md "wikilink")「[LOVELAND, ISLAND](https://ja.wikipedia.org/wiki/LOVELAND,_ISLAND "wikilink")」のカップリング曲。
@@ -263,7 +263,7 @@ WPCL-11205/7【通常盤】</p></td>
 
   -  Discography SINGLE
 
-[Category:山下達郎の楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎の楽曲 "wikilink") [Category:アラン・オデイが制作した楽曲](https://ja.wikipedia.org/wiki/Category:アラン・オデイが制作した楽曲 "wikilink") [Category:山下達郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎が制作した楽曲 "wikilink") [Category:1982年の楽曲](https://ja.wikipedia.org/wiki/Category:1982年の楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
+[Category:山下達郎の楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎の楽曲 "wikilink") [Category:アラン・オデイが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:アラン・オデイが作詞作曲した楽曲 "wikilink") [Category:山下達郎が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎が作詞作曲した楽曲 "wikilink") [Category:1982年の楽曲](https://ja.wikipedia.org/wiki/Category:1982年の楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")
 
 1.  リマスター盤『[FOR YOU](../Page/FOR_YOU_\(山下達郎のアルバム\).md "wikilink")』（発売 AIR ⁄ [BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") CD:BVCR-17018）には、自分用にレコーディングされたヴァージョンを[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録。
 2.

@@ -1,4 +1,4 @@
-> この記事は[Oeschs die Dritten](https://ja.wikipedia.org/wiki/Oeschs_die_Dritten)から翻訳されています。
+> この記事は[Oesch’s die Dritten](https://ja.wikipedia.org/wiki/Oesch’s_die_Dritten)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Oeschs_die_Dritten_FFM13.jpg "wikilink") **オシュス・ディー・ドリッテン**（）は、[スイス](../Page/スイス.md "wikilink")連邦・[ベルナー・オーバーラント](https://ja.wikipedia.org/wiki/ベルナー・オーバーラント "wikilink")・出身の民俗音楽 ([Volkstümliche Musik](https://ja.wikipedia.org/wiki/:de:Volkstümliche_Musik "wikilink")) グループ。ハンスエリ・オシュとその妻アンヌマリー、彼らの子のメラニー、ケヴィン、マイク、そして[アコーディオン](../Page/アコーディオン.md "wikilink")奏者のウルス・マイヤーの6人からなる。
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    [エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")奏者。
+    [ベース奏者](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 <!-- end list -->
 

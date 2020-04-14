@@ -1,4 +1,4 @@
-> この記事は[ \(King Gnu\)](https://ja.wikipedia.org/wiki/_\(King_Gnu\))から翻訳されています。
+> この記事は[飛行艇 \(King Gnuの曲\)](https://ja.wikipedia.org/wiki/飛行艇_\(King_Gnuの曲\))から翻訳されています。
 
 
 「**飛行艇**」（ひこうてい）は、日本の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[King Gnuの](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")3作目の配信限定シングル。[2019年](../Page/2019年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[Ariola Japanよりデジタルリリースされた](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。
@@ -17,6 +17,13 @@
   - 2019年8月19日付の[Billboard Japan Hot Buzz Songで](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Buzz_Song "wikilink")6位を獲得\[5\]。
   - 2019年8月26日付のBillboard JAPANストリーミング・ソング・チャート“Streaming Songs”では1,882,317回再生を記録し、8位にランクイン\[6\]。
   - 2019年8月23日～29日集計の[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャート「週間楽曲ランキング」では2,419,634再生を記録し、5位にランクイン\[7\]。
+
+## ゴールドディスク認定
+
+\!scope="row" rowspan="2"| 日本 ([RIAJ](../Page/日本レコード協会.md "wikilink")) |ゴールド
+
+  -
+|100,000\* |-
 
 ## 収録曲
 

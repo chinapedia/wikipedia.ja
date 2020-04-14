@@ -1,4 +1,4 @@
-> この記事は[Progressive \(Mrs. GREEN APPLE\)](https://ja.wikipedia.org/wiki/Progressive_\(Mrs._GREEN_APPLE\))から翻訳されています。
+> この記事は[Progressive \(Mrs. GREEN APPLEのアルバム\)](https://ja.wikipedia.org/wiki/Progressive_\(Mrs._GREEN_APPLEのアルバム\))から翻訳されています。
 
 
 {{ external media | align = right | video1 = [Mrs. GREEN APPLE / 2nd Mini AL 「 Progressive」【トレーラー】](https://www.youtube.com/watch?v=u_PzQddghYA) }}

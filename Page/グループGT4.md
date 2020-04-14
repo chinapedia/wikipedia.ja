@@ -1,4 +1,4 @@
-> この記事は[GT4](https://ja.wikipedia.org/wiki/GT4)から翻訳されています。
+> この記事は[グループGT4](https://ja.wikipedia.org/wiki/グループGT4)から翻訳されています。
 
 
 [Toyota_Supra_GR_GT4_Concept_Genf_2019_1Y7A5585.jpg](https://ja.wikipedia.org/wiki/File:Toyota_Supra_GR_GT4_Concept_Genf_2019_1Y7A5585.jpg "fig:Toyota_Supra_GR_GT4_Concept_Genf_2019_1Y7A5585.jpg")\]\]

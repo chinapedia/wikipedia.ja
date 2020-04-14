@@ -1,4 +1,4 @@
-> この記事は[Borg \(\)](https://ja.wikipedia.org/wiki/Borg_\(\))から翻訳されています。
+> この記事は[Borg \(クラスタマネージャ\)](https://ja.wikipedia.org/wiki/Borg_\(クラスタマネージャ\))から翻訳されています。
 
 
 **Borg**は[Google](../Page/Google.md "wikilink")が使用するである\[1\]。Borgの存在が、同様のアプローチを行う[Docker](https://ja.wikipedia.org/wiki/Docker "wikilink")や[Kubernetes](https://ja.wikipedia.org/wiki/Kubernetes "wikilink")が広く普及するきっかけとなった\[2\]。

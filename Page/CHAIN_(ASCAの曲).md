@@ -1,4 +1,4 @@
-> この記事は[CHAIN \(ASCA\)](https://ja.wikipedia.org/wiki/CHAIN_\(ASCA\))から翻訳されています。
+> この記事は[CHAIN \(ASCAの曲\)](https://ja.wikipedia.org/wiki/CHAIN_\(ASCAの曲\))から翻訳されています。
 
 
 「**CHAIN**」（チェイン）は、[ASCAの楽曲](https://ja.wikipedia.org/wiki/ASCA_\(歌手\) "wikilink")。6枚目のシングルとして2020年2月26日に[SACRA MUSICから発売](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。CDの発売に先駆けて[1月18日](../Page/1月18日.md "wikilink")に表題曲『CHAIN』が先行フル配信されている\[1\]。

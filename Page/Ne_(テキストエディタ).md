@@ -1,4 +1,4 @@
-> この記事は[Ne \(\)](https://ja.wikipedia.org/wiki/Ne_\(\))から翻訳されています。
+> この記事は[Ne \(テキストエディタ\)](https://ja.wikipedia.org/wiki/Ne_\(テキストエディタ\))から翻訳されています。
 
 
 **ne**（"nice editor"の意）は[ミラノ大学](https://ja.wikipedia.org/wiki/ミラノ大学 "wikilink")のSebastiano Vignaによって開発されている[Linux](../Page/Linux.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")のような[POSIX](../Page/POSIX.md "wikilink")準拠のOSのためのコンソール[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。neは、[terminfo](https://ja.wikipedia.org/wiki/terminfo "wikilink")ライブラリを使っているが、[GNU](../Page/GNU.md "wikilink") [Termcap](https://ja.wikipedia.org/wiki/Termcap "wikilink")実装のデータベースを使ってもコンパイルでき、[Cygwin](../Page/Cygwin.md "wikilink")のバージョンもある。

@@ -1,9 +1,9 @@
-> この記事は[ -PRINCE OF LEGEND-](https://ja.wikipedia.org/wiki/_-PRINCE_OF_LEGEND-)から翻訳されています。
+> この記事は[貴族誕生 -PRINCE OF LEGEND-](https://ja.wikipedia.org/wiki/貴族誕生_-PRINCE_OF_LEGEND-)から翻訳されています。
 
 
 『**貴族誕生 -PRINCE OF LEGEND-**』（きぞくたんじょう プリンス オブ レジェンド）は、[2019年](../Page/2019年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")まで[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列で放送されたテレビドラマ。主演は[白濱亜嵐](https://ja.wikipedia.org/wiki/白濱亜嵐 "wikilink")。全5話。TEAM HI-AXが手掛ける『[PRINCE OF LEGEND](https://ja.wikipedia.org/wiki/PRINCE_OF_LEGEND "wikilink")』プロジェクトの第2弾。ホストが支配する町「ナイトリング」を舞台に、ホストたちと土木建設会社「全日土木」の戦いを描く\[1\]。
 
-[2020年](../Page/2020年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に続編となる映画『**貴族降臨 -PRINCE OF LEGEND-**』が公開予定\[2\]。
+[2020年](../Page/2020年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に続編となる映画『**貴族降臨 -PRINCE OF LEGEND-**』が公開された\[2\]。
 
 ## あらすじ（テレビドラマ）
 
@@ -36,7 +36,7 @@
 
   - シニア / 安藤タロウ
     演 - [DAIGO](../Page/DAIGO.md "wikilink")（幼少期：谷垣有唯）
-    ナンバー1ホスト。シンタロウの実の兄。
+    ナンバー1ホスト。シンタロウの実兄。
   - 寿希也
     演 - [荒牧慶彦](https://ja.wikipedia.org/wiki/荒牧慶彦 "wikilink")
     ナンバー2ホスト。
@@ -98,6 +98,7 @@
   - 監督 - [河合勇人](https://ja.wikipedia.org/wiki/河合勇人 "wikilink")
   - 脚本 - 神田優
   - 脚本協力 - 三田卓人
+  - 振付：[あさづきかなみ](https://ja.wikipedia.org/wiki/あさづきかなみ "wikilink")
   - 音楽 - [中野雄太](../Page/中野雄太.md "wikilink")
   - 主題歌 - [片寄涼太](https://ja.wikipedia.org/wiki/片寄涼太 "wikilink")（[GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")）『Possible』\[4\]
   - ナレーター - [銀河万丈](../Page/銀河万丈.md "wikilink")
@@ -126,7 +127,7 @@
 
 ## 映画
 
-『**貴族降臨 -PRINCE OF LEGEND-**』（きぞくこうりん プリンス オブ レジェンド）は[2020年](../Page/2020年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")公開予定の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映画](../Page/映画.md "wikilink")。主演はテレビドラマ版に引き続き白濱亜嵐が務める\[6\] 。クラブ・テキサスを引き継ぎ貴族のドリーとなった安藤シンタロウと、前作『[PRINCE OF LEGEND](https://ja.wikipedia.org/wiki/PRINCE_OF_LEGEND "wikilink")』の王子たちとの、ナンバーワンである「伝説」の座をかけて繰り広げられるバトルの様子を描く\[7\]。
+『**貴族降臨 -PRINCE OF LEGEND-**』（きぞくこうりん プリンス オブ レジェンド）は[2020年](../Page/2020年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")公開の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映画](../Page/映画.md "wikilink")。主演はテレビドラマ版に引き続き白濱亜嵐が務める\[6\] 。クラブ・テキサスを引き継ぎ貴族のドリーとなった安藤シンタロウと、前作『[PRINCE OF LEGEND](https://ja.wikipedia.org/wiki/PRINCE_OF_LEGEND "wikilink")』の王子たちとの、ナンバーワンである「伝説」の座をかけて繰り広げられるバトルの様子を描く\[7\]。
 
 ### あらすじ（映画）
 
@@ -175,6 +176,7 @@
   - 装飾：長田征司
   - 衣装：遠藤良樹
   - メイク：礒野亜加梨
+  - 振付：[あさづきかなみ](https://ja.wikipedia.org/wiki/あさづきかなみ "wikilink")
   - 編集：[瀧田隆一](https://ja.wikipedia.org/wiki/瀧田隆一 "wikilink")
   - 音楽プロデューサー：佐藤達郎、門田吉穂
   - 選曲：原田慎也

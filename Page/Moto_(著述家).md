@@ -1,7 +1,7 @@
-> この記事は[Moto \(\)](https://ja.wikipedia.org/wiki/Moto_\(\))から翻訳されています。
+> この記事は[Moto \(著述家\)](https://ja.wikipedia.org/wiki/Moto_\(著述家\))から翻訳されています。
 
 
-**moto**（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、1987年生まれ、[長野県](../Page/長野県.md "wikilink")出身のビジネスマン。著書に『転職と副業のかけ算 生涯年収を最大化する生き方』（扶桑社）がある。匿名で活動しており登壇[イベント](../Page/イベント.md "wikilink")以外では顔を公表していない。[インタビュー](../Page/インタビュー.md "wikilink")記事では[Twitter](../Page/Twitter.md "wikilink")のアイコンで登場している。
+**moto**（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、1987年生まれ、[長野県](../Page/長野県.md "wikilink")出身のビジネスマン。本名は戸塚俊介。著書に『転職と副業のかけ算 生涯年収を最大化する生き方』（扶桑社）がある。匿名で活動しており登壇[イベント](../Page/イベント.md "wikilink")以外では顔を公表していない。[インタビュー](../Page/インタビュー.md "wikilink")記事では[Twitter](../Page/Twitter.md "wikilink")のアイコンで登場している。
 
 ## 経歴
 

@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THEラブ人間](https://ja.wikipedia.org/wiki/THEラブ人間)から翻訳されています。
 
 
 **THEラブ人間**（ザラブにんげん）は日本のロックバンド。

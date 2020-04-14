@@ -1,4 +1,4 @@
-> この記事は[SELECTION20 ](https://ja.wikipedia.org/wiki/SELECTION20_)から翻訳されています。
+> この記事は[SELECTION20 高中正義](https://ja.wikipedia.org/wiki/SELECTION20_高中正義)から翻訳されています。
 
 
 『**SELECTION20 高中正義**』（セレクション20 たかなかまさよし）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1988年](../Page/1988年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")にリリースした[ミニ・ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。

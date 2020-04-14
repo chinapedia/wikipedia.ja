@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ベルリン市交通局F型電車](https://ja.wikipedia.org/wiki/ベルリン市交通局F型電車)から翻訳されています。
 
 
 [F92_U-Bahn_Berlin.JPG](https://ja.wikipedia.org/wiki/File:F92_U-Bahn_Berlin.JPG "fig:F92_U-Bahn_Berlin.JPG")

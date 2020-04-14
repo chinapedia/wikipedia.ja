@@ -1,4 +1,4 @@
-> この記事は[BATTLLOON - ](https://ja.wikipedia.org/wiki/BATTLLOON_-_)から翻訳されています。
+> この記事は[BATTLLOON - バトルーン](https://ja.wikipedia.org/wiki/BATTLLOON_-_バトルーン)から翻訳されています。
 
 
 『**BATTLLOON - バトルーン**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")開発チーム[noname studioが開発し](https://ja.wikipedia.org/wiki/noname_studio "wikilink")[UNTIES](https://ja.wikipedia.org/wiki/UNTIES "wikilink")より[2019年](../Page/2019年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売された[PC](../Page/パーソナルコンピュータ.md "wikilink")、[Nintendo Switch用](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")。

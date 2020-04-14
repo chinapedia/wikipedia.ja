@@ -1,22 +1,22 @@
 > この記事は[TDRinMinecraft](https://ja.wikipedia.org/wiki/TDRinMinecraft)から翻訳されています。
 
 
-**TDRinMinecraft**（てぃーでぃーあーるいんまいんくらふと、略称:**TDRinMC**）は[Minecraft](https://ja.wikipedia.org/wiki/Minecraft "wikilink")というゲームのJava版で[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")を再現しているマインクラフトサーバーである。
+**TDR in Minecraft**（てぃーでぃーあーるいんまいんくらふと）は[Minecraft](https://ja.wikipedia.org/wiki/Minecraft "wikilink"): Java Editionで[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")を再現しているマインクラフトマルチサーバーである。
 
-主に2つのディズニー再現パーク（TDLinMinecraft および TDSinMinecraft）により構成され、2016年に母体となる「PC版マインクラフトで東京ディズニーシー再現サーバー」を設立し、同年10月にTDR in Minecraft に改名&リゾート化し、現在のTDRinMinecraftとなった。
+主に2つの東京ディズニーリゾート再現パーク（TDL in Minecraft および TDS in Minecraft）により構成され、2016年に母体となる「PC版マインクラフトで東京ディズニーシー再現サーバー」を設立し、同年10月にTDR in Minecraft に改名、及びリゾート化し、現在のTDR in Minecraftとなった。
 
 ## 概要
 
-TDRinMinecraftは、2つのディズニー再現パーク（TDLinMinecraft および TDSinMinecraft ）と舞浜駅(再現)などから構成される。 サーバーの管理・運営は、プロデューサーの[Kro](https://twitter.com/KRO37324984)が行っている。再現キャストは、運営も合わせ約15名程度\[1\]。 従業員のことを「キャスト」(再現キャストとも呼ぶ)、利用客のことを「ゲスト」と呼称するなど、本場ディズニーのテーマリゾートの手法に倣った展開をしている。
+TDR in Minecraftは、2つのディズニー再現パーク（TDL in Minecraft および TDS in Minecraft ）と舞浜駅(再現)などから構成される。 サーバーの管理・運営は、プロデューサーの[KRO](https://twitter.com/KRO37324984)と各モデレーターが行っている。再現キャストは、運営も合わせ約15名程度\[1\]。 従業員のことを「キャスト」(再現キャストとも呼ぶ)、利用客のことを「ゲスト」と呼称するなど、ディズニーのテーマリゾートの手法に倣った展開をしている。
 
 ## 構成
 
-TDRinMinecraftは以下の施設を再現している。
+TDR in Minecraftは以下の施設を再現している。
 
 ### パーク
 
-  - TDLinMinecraft
-  - TDSinMinecraft
+  - TDL in Minecraft
+  - TDS in Minecraft
 
 ### 交通機関
 
@@ -48,7 +48,9 @@ TDRinMinecraftは以下の施設を再現している。
       - [12月31日](../Page/12月31日.md "wikilink") - サーバーイベント「TDR in Minecraft ニューイヤーズ・イヴ 2019 – 2020」を開催。
   - [2020年](../Page/2020年.md "wikilink")
       - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - 開園。
-      - [3月20日](../Page/3月20日.md "wikilink") - 第29回 マインクラフトサーバー合同マラソン大会(予定)
+      - [3月18日](../Page/3月18日.md "wikilink") - ロゴ変更。
+      - [3月20日](../Page/3月20日.md "wikilink") - [第29回 マインクラフトサーバー合同マラソン大会](https://tdrinminecraft.jp/?page_id=4092)(予定)
+      - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 開園。
 
 (沿革は <https://tdrinminecraft.jp/?page_id=62> から引用)
 
@@ -63,4 +65,4 @@ TDRinMinecraftは以下の施設を再現している。
 
 <!-- end list -->
 
-1.  TDRinMC公式サイト サーバー概要 (https://tdrinminecraft.jp/?page_id=62) より
+1.  TDR in Minecraft公式サイト サーバー概要 (https://tdrinminecraft.jp/?page_id=62) より

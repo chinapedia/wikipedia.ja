@@ -1,4 +1,4 @@
-> この記事は[: P.S.](https://ja.wikipedia.org/wiki/:_P.S.)から翻訳されています。
+> この記事は[好きだった君へ: P.S.まだ大好きです](https://ja.wikipedia.org/wiki/好きだった君へ:_P.S.まだ大好きです)から翻訳されています。
 
 
 『**好きだった君へ: P.S.まだ大好きです**』（原題:*To All the Boys: P.S. I Still Love You*）は[2020年](../Page/2020年.md "wikilink")に配信された[ロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/ロマンティック・コメディ映画 "wikilink")である。監督は[マイケル・フィモナリ](../Page/マイケル・フィモナリ.md "wikilink")、主演は[ラナ・コンドル](../Page/ラナ・コンドル.md "wikilink")と[ノア・センティネオ](https://ja.wikipedia.org/wiki/ノア・センティネオ "wikilink")が務めた。本作は[ジェニー・ハン](../Page/ジェニー・ハン.md "wikilink")が[2015年](../Page/2015年.md "wikilink")に上梓した小説『*P.S. I Still Love You*』を原作としており、[2018年](../Page/2018年.md "wikilink")に配信された映画『[好きだった君へのラブレター](https://ja.wikipedia.org/wiki/好きだった君へのラブレター "wikilink")』の続編である。また、本作はフィモナリの映画監督デビュー作でもある。

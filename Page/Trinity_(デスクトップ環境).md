@@ -1,4 +1,4 @@
-> この記事は[Trinity \(\)](https://ja.wikipedia.org/wiki/Trinity_\(\))から翻訳されています。
+> この記事は[Trinity \(デスクトップ環境\)](https://ja.wikipedia.org/wiki/Trinity_\(デスクトップ環境\))から翻訳されています。
 
 
 **Trinityデスクトップ環境**（**TDE**）は、[KDE](../Page/KDE.md "wikilink") 3.5のフォークで、[Kubuntu](../Page/Kubuntu.md "wikilink")がKDE Plasma 4に移行したのちにKubuntuのリミックス版を調整していたTimothy Pearsonによって組織され、主導された\[1\]。プロジェクトは、バグの修正、機能の追加、最近のハードウェアとの互換性のあるリリースを続けることを目標としている。Trinityは[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")などの様々な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")のためのパッケージが用意されている\[2\]。また、少なくとも2つのLinuxディストリビューション（Q4OSとExe GNU/LINUX）で、デフォルトの[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")として使われていた\[3\]。3.5.12からは、自らフォークしたTQtとして知られる[Qt](../Page/Qt.md "wikilink") 3のフォークを用いている。

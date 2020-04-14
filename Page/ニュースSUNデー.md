@@ -1,4 +1,4 @@
-> この記事は[SUN](https://ja.wikipedia.org/wiki/SUN)から翻訳されています。
+> この記事は[ニュースSUNデー](https://ja.wikipedia.org/wiki/ニュースSUNデー)から翻訳されています。
 
 
 『**ニュースSUNデー**』（ニュースサンデー）は、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")（SUN）で毎週[日曜日](../Page/日曜日.md "wikilink")の[夕](../Page/夕.md "wikilink")方に放送されている[報道番組](../Page/報道番組.md "wikilink")。[JAグループの](../Page/農業協同組合.md "wikilink")[兵庫県](../Page/兵庫県.md "wikilink")内各団体（兵庫県内JA、[JAバンク](../Page/JAバンク.md "wikilink")[兵庫信連](https://ja.wikipedia.org/wiki/兵庫県信用農業協同組合連合会 "wikilink")、[JA共済連兵庫](../Page/全国共済農業協同組合連合会.md "wikilink")）の単独提供。

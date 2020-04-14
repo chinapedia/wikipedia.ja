@@ -1,4 +1,4 @@
-> この記事は[CJK \(4E00-62FF\)](https://ja.wikipedia.org/wiki/CJK_\(4E00-62FF\))から翻訳されています。
+> この記事は[CJK統合漢字 \(4E00-62FF\)](https://ja.wikipedia.org/wiki/CJK統合漢字_\(4E00-62FF\))から翻訳されています。
 
 
 <table>

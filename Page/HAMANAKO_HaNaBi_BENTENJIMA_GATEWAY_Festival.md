@@ -1,7 +1,7 @@
 > この記事は[HAMANAKO HaNaBi BENTENJIMA GATEWAY Festival](https://ja.wikipedia.org/wiki/HAMANAKO_HaNaBi_BENTENJIMA_GATEWAY_Festival)から翻訳されています。
 
 
-**HAMANAKO HaNaBi BENTENJIMA GATEWAY Festival**（**浜名湖花火・弁天島ゲートウェイフェスティバル**、はまなこはなび・べんてんじまげーとうぇいふぇすてぃばる）は、[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[西区](../Page/西区_\(浜松市\).md "wikilink")[舞阪町](../Page/舞阪町.md "wikilink")[弁天島の弁天島海浜公園にておこなわれるGATEWAY](../Page/弁天島_\(浜松市\).md "wikilink") Festival実行委員会主催の夏季イベントである。略称は**BENTENJIMA GATEWAY Festival**、**GATEWAY Festival**、**弁天島花火フェス**など\[1\]\[2\]\[3\]。
+**HAMANAKO HaNaBi BENTENJIMA GATEWAY Festival**（**浜名湖花火・弁天島ゲートウェイフェスティバル**、はまなこはなび・べんてんじまげーとうぇいふぇすてぃばる）は、[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[西区](../Page/西区_\(浜松市\).md "wikilink")[舞阪町](../Page/舞阪町.md "wikilink")[弁天島の弁天島海浜公園にておこなわれる](../Page/弁天島_\(浜松市\).md "wikilink")、まいさかフェス実行委員会の花火大会と共催のイベントであり、２０１９年に開催された花火大会に使用された名称である。略称は**BENTENJIMA GATEWAY Festival**、**GATEWAY Festival**、**弁天島花火フェス**など\[1\]\[2\]\[3\]。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 助成金の支給期間が終了することに伴い\[21\]、[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")を含めて資金調達を行っている\[22\]\[23\]。
 
-現在は名称を**HAMANAKO HaNaBi BENTENJIMA GATEWAY Festival**と変え開催されている\[24\]。
+2019年度はまいさかフェス実行委員と共催のイベントとし名称を**HAMANAKO HaNaBi BENTENJIMA GATEWAY Festival**と変え開催されている\[24\]。
 
 ## 交通アクセス
 

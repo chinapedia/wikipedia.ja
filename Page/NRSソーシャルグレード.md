@@ -1,4 +1,4 @@
-> この記事は[NRS](https://ja.wikipedia.org/wiki/NRS)から翻訳されています。
+> この記事は[NRSソーシャルグレード](https://ja.wikipedia.org/wiki/NRSソーシャルグレード)から翻訳されています。
 
 
 **NRSソーシャルグレード**とは、 [英国で使用されている](https://ja.wikipedia.org/wiki/イギリス "wikilink")[人口統計学](../Page/人口統計学.md "wikilink")的分類システムである。 もともとは読者を分類するためにNational Readership Survey(NRS)によって作成されたが、現在では他の多くの組織でより広い用途に使用され、市場調査の標準となっている\[1\]。また、50年以上前に開発され、20世紀のイギリスで普及した。これらの定義は現在、市場調査協会によって維持されている\[2\]。

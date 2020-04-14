@@ -1,4 +1,4 @@
-> この記事は[Pizzicato Five R.I.P.Big Hits and Jet Lags 1998-2001](https://ja.wikipedia.org/wiki/Pizzicato_Five_R.I.P.Big_Hits_and_Jet_Lags_1998-2001)から翻訳されています。
+> この記事は[Pizzicato Five R.I.P.〜Big Hits and Jet Lags 1998-2001](https://ja.wikipedia.org/wiki/Pizzicato_Five_R.I.P.〜Big_Hits_and_Jet_Lags_1998-2001)から翻訳されています。
 
 
 『**Pizzicato Five R.I.P.〜Big Hits and Jet Lags 1998-2001**』（ピチカート・ファイヴ リップ ビッグ・ヒッツ・アンド・ジェット・ラグス 1998-2001）は、2001年3月31日に発売されたピチカート・ファイヴ通算6作目の\*\*\*\*\*\*\*\*\*\*\* records, tokyo 時代の通算3枚目のベスト・アルバム。

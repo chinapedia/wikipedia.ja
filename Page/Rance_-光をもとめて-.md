@@ -1,4 +1,4 @@
-> この記事は[Rance --](https://ja.wikipedia.org/wiki/Rance_--)から翻訳されています。
+> この記事は[Rance -光をもとめて-](https://ja.wikipedia.org/wiki/Rance_-光をもとめて-)から翻訳されています。
 
 
 『**Rance -光をもとめて-**』（ランス ひかりをもとめて）は、日本のゲームブランド・[アリスソフト](../Page/アリスソフト.md "wikilink")より[1989年](../Page/1989年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[Rance](../Page/Rance.md "wikilink")シリーズの第1作目であり、ゲーム『Intruder』と同じくして発売されたアリスソフトのデビュー作でもある。
@@ -169,7 +169,7 @@ OVA版『ランス01』は、ピンクパイナップルのプロデュースの
   - [ランス01 光をもとめて公式ページ](http://www.alicesoft.com/rance01/)
   - [ランス01 光をもとめて THE ANIMATION特設サイト](http://www.pinkpineapple.co.jp/rance01/)
 
-[Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:1989年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1989年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:無料公開された商用ゲーム](https://ja.wikipedia.org/wiki/Category:無料公開された商用ゲーム "wikilink")
+[Category:1989年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1989年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:無料公開された商用ゲーム](https://ja.wikipedia.org/wiki/Category:無料公開された商用ゲーム "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[DTC](https://ja.wikipedia.org/wiki/DTC)から翻訳されています。
+> この記事は[DTC広告](https://ja.wikipedia.org/wiki/DTC広告)から翻訳されています。
 
 
 **DTC広告**（DTCこうこく、, **DTCA**)は、直接消費者向け広告で、特に[医療専門家をターゲットにするのではなく](../Page/医療従事者.md "wikilink")、患者としての消費者を対象とし手直接、[医薬品](../Page/医薬品.md "wikilink")の販売戦略や広告を行うことを指す。この用語は、主に[マスメディア](../Page/マスメディア.md "wikilink")を介した[処方薬の広告と同義語であり](../Page/処方箋医薬品.md "wikilink")、最も一般的には[テレビや](../Page/コマーシャルメッセージ.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")の広告や広告記事であるが、オンラインにも掲載されている \[1\]。

@@ -1,4 +1,4 @@
-> この記事は[Sketch \(\)](https://ja.wikipedia.org/wiki/Sketch_\(\))から翻訳されています。
+> この記事は[Sketch \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Sketch_\(ソフトウェア\))から翻訳されています。
 
 
 **Sketch**は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の Bohemian Codingによって開発された[ベクターグラフィックエディターである](../Page/ドローソフト.md "wikilink")。 Sketchは2010年9月7日に[macOS用に初めてリリースされ](../Page/MacOS.md "wikilink")、 \[1\] 2012年にApple Design Awardを受賞している。 \[2\] Sketchと従来のベクターグラフィックエディター（例えば、[Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")）の主な違いは、Sketchには印刷デザイン機能が含まれていないことであった。 \[3\] Sketchは2020年1月現在、macOSでのみ利用可能である。

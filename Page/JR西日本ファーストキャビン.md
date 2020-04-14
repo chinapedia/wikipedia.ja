@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本ファーストキャビン](https://ja.wikipedia.org/wiki/JR西日本ファーストキャビン)から翻訳されています。
 
 
 **株式会社JR西日本ファーストキャビン**（かぶしきがいしゃジェイアールにしにほんファーストキャビン）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）関連の[ホテル](../Page/ホテル.md "wikilink")会社。

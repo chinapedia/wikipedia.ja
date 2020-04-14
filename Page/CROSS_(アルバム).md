@@ -1,4 +1,4 @@
-> この記事は[CROSS \(\)](https://ja.wikipedia.org/wiki/CROSS_\(\))から翻訳されています。
+> この記事は[CROSS \(アルバム\)](https://ja.wikipedia.org/wiki/CROSS_\(アルバム\))から翻訳されています。
 
 
 『**CROSS**』（クロス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")10枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。

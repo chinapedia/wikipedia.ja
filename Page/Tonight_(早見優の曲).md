@@ -1,4 +1,4 @@
-> この記事は[Tonight \(\)](https://ja.wikipedia.org/wiki/Tonight_\(\))から翻訳されています。
+> この記事は[Tonight \(早見優の曲\)](https://ja.wikipedia.org/wiki/Tonight_\(早見優の曲\))から翻訳されています。
 
 
 「**Tonight**」（トゥナイト）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")2月に[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[早見優](../Page/早見優.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。

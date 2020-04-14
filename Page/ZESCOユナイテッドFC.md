@@ -1,4 +1,4 @@
-> この記事は[ZESCOFC](https://ja.wikipedia.org/wiki/ZESCOFC)から翻訳されています。
+> この記事は[ZESCOユナイテッドFC](https://ja.wikipedia.org/wiki/ZESCOユナイテッドFC)から翻訳されています。
 
 
 **Zesco United Football Club**は、 [ザンビアのプレミアリーグに所属する](https://ja.wikipedia.org/wiki/ザンビアン・プレミアリーグ "wikilink")[Ndolaに拠点を置く](https://ja.wikipedia.org/wiki/ンドラ "wikilink")[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ 。

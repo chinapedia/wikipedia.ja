@@ -1,4 +1,4 @@
-> この記事は[JPNBig Hits and Jet Lags 1994-1997](https://ja.wikipedia.org/wiki/JPNBig_Hits_and_Jet_Lags_1994-1997)から翻訳されています。
+> この記事は[ピチカート・ファイヴJPN〜Big Hits and Jet Lags 1994-1997](https://ja.wikipedia.org/wiki/ピチカート・ファイヴJPN〜Big_Hits_and_Jet_Lags_1994-1997)から翻訳されています。
 
 
 『**PIZZICATO FIVE～JPN Big Hits and Jet Lags 1994-1997**』（ピチカート・ファイヴ ジェーピーエヌ ビッグ ヒッツ アンド ジェット ラグス 1994-1997）は、1997年12月10日に発売されたピチカート・ファイヴ通算5作目の\*\*\*\*\*\*\*\*\*\*\* records, tokyo 時代の通算2枚目のベスト・アルバム。

@@ -1,4 +1,4 @@
-> この記事は[Ballads in Love The greatest love songs of DEEN](https://ja.wikipedia.org/wiki/Ballads_in_Love_The_greatest_love_songs_of_DEEN)から翻訳されています。
+> この記事は[Ballads in Love 〜The greatest love songs of DEEN〜](https://ja.wikipedia.org/wiki/Ballads_in_Love_〜The_greatest_love_songs_of_DEEN〜)から翻訳されています。
 
 
 『**Ballads in Love 〜The greatest love songs of DEEN〜**』(バラッズ・イン・ラヴ 〜ザ・グレイテスト・ラヴ・ソングス・オブ・ディーン〜)は日本のロックバンド[DEEN](../Page/DEEN.md "wikilink")のセルフカバー・アルバム。[Epic Records Japanより発売](../Page/エピックレコードジャパン.md "wikilink")。

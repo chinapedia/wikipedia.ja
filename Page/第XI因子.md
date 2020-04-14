@@ -1,4 +1,4 @@
-> この記事は[XI](https://ja.wikipedia.org/wiki/XI)から翻訳されています。
+> この記事は[第XI因子](https://ja.wikipedia.org/wiki/第XI因子)から翻訳されています。
 
 
 **第XI因子**（だい11いんし、）または**血漿トロンボプラスチン前駆物質**（plasma thromboplastin antecedent）は、[血液凝固カスケードの](../Page/凝固・線溶系.md "wikilink")[酵素](../Page/酵素.md "wikilink")の1つ**第XIa因子**の[酵素前駆体](../Page/酵素前駆体.md "wikilink")である。他の凝固因子と同様、[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")である。ヒトでは、第XI因子は*F11*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")にコードされる\[1\]\[2\]\[3\]\[4\]。

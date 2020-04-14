@@ -1,4 +1,4 @@
-> この記事は[LOVE!!](https://ja.wikipedia.org/wiki/LOVE!!)から翻訳されています。
+> この記事は[熱烈LOVE!!](https://ja.wikipedia.org/wiki/熱烈LOVE!!)から翻訳されています。
 
 
 「**熱烈LOVE\!\!**」（ねつれつラブ\!\!）は、[2020年](../Page/2020年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")に発売した[EUPHORIAの](https://ja.wikipedia.org/wiki/EUPHORIA-ユーフォリア- "wikilink")2ndシングル。

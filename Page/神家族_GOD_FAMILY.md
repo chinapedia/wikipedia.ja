@@ -1,4 +1,4 @@
-> この記事は[ GOD FAMILY](https://ja.wikipedia.org/wiki/_GOD_FAMILY)から翻訳されています。
+> この記事は[神家族 GOD FAMILY](https://ja.wikipedia.org/wiki/神家族_GOD_FAMILY)から翻訳されています。
 
 
 『**神家族 GOD FAMILY**』（かみかぞく ゴッドファミリー）は、[2019年](../Page/2019年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に公開された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のビデオ[映画](../Page/映画.md "wikilink")作品。

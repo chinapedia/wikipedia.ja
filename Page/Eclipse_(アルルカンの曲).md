@@ -1,4 +1,4 @@
-> この記事は[Eclipse \(\)](https://ja.wikipedia.org/wiki/Eclipse_\(\))から翻訳されています。
+> この記事は[Eclipse \(アルルカンの曲\)](https://ja.wikipedia.org/wiki/Eclipse_\(アルルカンの曲\))から翻訳されています。
 
 
 「**Eclipse**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")[アルルカンの](https://ja.wikipedia.org/wiki/アルルカン_\(バンド\) "wikilink")1枚目のシングル。

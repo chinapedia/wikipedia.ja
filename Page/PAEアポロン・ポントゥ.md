@@ -1,4 +1,4 @@
-> この記事は[PAE](https://ja.wikipedia.org/wiki/PAE)から翻訳されています。
+> この記事は[PAEアポロン・ポントゥ](https://ja.wikipedia.org/wiki/PAEアポロン・ポントゥ)から翻訳されています。
 
 
 **PAEアポロン・ポントゥ**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[テッサロニキ県](https://ja.wikipedia.org/wiki/テッサロニキ県 "wikilink")[テッサロニキ](../Page/テッサロニキ.md "wikilink")のをホームタウンとするサッカークラブである。

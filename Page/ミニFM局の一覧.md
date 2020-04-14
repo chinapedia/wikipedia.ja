@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[ミニFM局の一覧](https://ja.wikipedia.org/wiki/ミニFM局の一覧)から翻訳されています。
 
 
 **ミニFMの局一覧**（ミニエフエムのきょくいちらん）は、日本国内で開局されている、[ミニFM](../Page/ミニFM.md "wikilink")局の一覧である。

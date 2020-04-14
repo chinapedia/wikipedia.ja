@@ -25,7 +25,7 @@ MX-19は、そのベースをDebian 10（Buster）にアップグレードし、
 
 MX Linuxは、[UEFI](https://ja.wikipedia.org/wiki/UEFI "wikilink")コンピュータで使える[インストーラー](https://ja.wikipedia.org/wiki/インストーラー "wikilink")や、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")を変更する手段、AntiXのコアプログラム群などのような基本的なツールを備えている。しかしMXは、MX Toolsと呼ばれるユーザー志向のツール群を配布していることによって他のディストリビューションから区別される。これらのツールは、antiXの既に存在するアプリケーションや、antiXのアプリケーションからフォークしたものを含むが、MXのために開発されているものである。
 
-例としては、**MX-snapshot**を挙げることができる。これは、Liveインストレーションを、単独の.ISOファイルにリマスターする[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")のツールである。これは、簡単かつ便利に、全ての設定を保ったまま、起動可能なディスクや[USBドライブから](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")"クローンされた"イメージを起動可能にするものである。この方法では、システム管理的な努力なしに、便利にシステムの移行や配布を行うことができる。snapshotはまた、インストールされたシステムの完全で便利な[バックアップ](../Page/バックアップ.md "wikilink")としても使うことができる。
+例としては、**MX-snapshot**を挙げることができる。これは、Liveインストールを、単独の.ISOファイルにリマスターする[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")のツールである。これは、簡単かつ便利に、全ての設定を保ったまま、起動可能なディスクや[USBドライブから](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")"クローンされた"イメージを起動可能にするものである。この方法では、システム管理的な努力なしに、便利にシステムの移行や配布を行うことができる。snapshotはまた、インストールされたシステムの完全で便利な[バックアップ](../Page/バックアップ.md "wikilink")としても使うことができる。
 
 ## 関連項目
 

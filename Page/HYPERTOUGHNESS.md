@@ -24,6 +24,7 @@ CD版は蓄光ジャケット仕様\[2\]\[3\]。配信版は[2020年](../Page/20
 2.  **The Gong of Knockout**
       -
         [2020年](../Page/2020年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")にミュージック・ビデオが公開された。
+        Kei在籍時の5人体制の最初で最後の曲であり、Keiの生涯最後の曲でもある。
 3.  **CURE**
 4.  **Great Strange**
 5.  **Interlude**

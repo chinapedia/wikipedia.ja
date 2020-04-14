@@ -1,4 +1,4 @@
-> この記事は[THE GREATEST HITS OF HIROMI GO VOL.II Ballads](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_OF_HIROMI_GO_VOL.II_Ballads)から翻訳されています。
+> この記事は[THE GREATEST HITS OF HIROMI GO VOL.II 〜Ballads〜](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_OF_HIROMI_GO_VOL.II_〜Ballads〜)から翻訳されています。
 
 
 『**THE GREATEST HITS OF HIROMI GO VOL.II 〜Ballads〜**』（ザ・グレイテスト・ヒッツ・オブ・ヒロミ・ゴー・ボリューム・ツー・バラーズ）は、日本の歌手である[郷ひろみ](../Page/郷ひろみ.md "wikilink")が1995年11月22日に発表したバラード・ベスト・アルバム。

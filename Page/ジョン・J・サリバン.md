@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ジョン・J・サリバン](https://ja.wikipedia.org/wiki/ジョン・J・サリバン)から翻訳されています。
 
 
 **ジョン・J・サリバン**（John Joseph Sullivan, 1959年-）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")。

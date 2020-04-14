@@ -1,4 +1,4 @@
-> この記事は[LAL \(\)](https://ja.wikipedia.org/wiki/LAL_\(\))から翻訳されています。
+> この記事は[LAL \(芸能事務所\)](https://ja.wikipedia.org/wiki/LAL_\(芸能事務所\))から翻訳されています。
 
 
 **LAL**は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[弁天町にある](../Page/弁天町_\(新宿区\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。
@@ -31,7 +31,7 @@
 
 ## 過去の所属者
 
-  - [櫻井馨織](https://ja.wikipedia.org/wiki/櫻井馨織 "wikilink")（現所属：[スペースクラフト](../Page/スペースクラフト.md "wikilink")）
+  - [櫻井馨織](https://ja.wikipedia.org/wiki/櫻井馨織 "wikilink")（旧芸名：桜あず、現所属：[スペースクラフト](../Page/スペースクラフト.md "wikilink")）
   - [山下祐貴子](https://ja.wikipedia.org/wiki/山下祐貴子 "wikilink")
 
 ## 出典

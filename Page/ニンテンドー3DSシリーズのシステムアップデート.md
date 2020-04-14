@@ -1,4 +1,4 @@
-> この記事は[3DS](https://ja.wikipedia.org/wiki/3DS)から翻訳されています。
+> この記事は[ニンテンドー3DSシリーズのシステムアップデート](https://ja.wikipedia.org/wiki/ニンテンドー3DSシリーズのシステムアップデート)から翻訳されています。
 
 
 <div class="pathnavbox">

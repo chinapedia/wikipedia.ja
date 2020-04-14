@@ -1,4 +1,4 @@
-> この記事は[Lumo \(\)](https://ja.wikipedia.org/wiki/Lumo_\(\))から翻訳されています。
+> この記事は[Lumo \(ゲーム\)](https://ja.wikipedia.org/wiki/Lumo_\(ゲーム\))から翻訳されています。
 
 
 『**Lumo**』（ルーモ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インディーゲーム](https://ja.wikipedia.org/wiki/インディーゲーム "wikilink")スタジオ[Triple Eh?が開発し](https://ja.wikipedia.org/wiki/Triple_Eh? "wikilink")[Rising Star Gamesより発売された](https://ja.wikipedia.org/wiki/Rising_Star_Games "wikilink")3D[アクションパズル](../Page/アクションパズル.md "wikilink")ゲーム。

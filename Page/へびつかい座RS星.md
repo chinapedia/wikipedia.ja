@@ -1,4 +1,4 @@
-> この記事は[RS](https://ja.wikipedia.org/wiki/RS)から翻訳されています。
+> この記事は[へびつかい座RS星](https://ja.wikipedia.org/wiki/へびつかい座RS星)から翻訳されています。
 
 
 [光年](../Page/光年.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チェンナイ・シティFC](https://ja.wikipedia.org/wiki/チェンナイ・シティFC)から翻訳されています。
 
 
 **チェンナイ・シティFC** () は[インド](../Page/インド.md "wikilink")の[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")[コーヤンブットゥール](../Page/コーヤンブットゥール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[全インドサッカー連盟](https://ja.wikipedia.org/wiki/全インドサッカー連盟 "wikilink") (AIFF) からライセンスを受けて[Iリーグ](../Page/Iリーグ.md "wikilink")の一員としてリーグ戦に参加している。このクラブは、[1946年](../Page/1946年.md "wikilink")に、5人のメンバーによって設立された**ネタジ・スポーツ・クラブ** (Netaji Sports Club) が起源である。このクラブは、その歴史の大部分の間、地元の州内や市内の様々なトーナメントに参加してきたが、全国規模のリーグに参入したのは[2016年](../Page/2016年.md "wikilink")になってからであった。2016年[12月11日](../Page/12月11日.md "wikilink")、チームはいきなり[Iリーグ](../Page/Iリーグ.md "wikilink")の[2016–17シーズンからの参入が認められ](https://ja.wikipedia.org/wiki/:en:2016–17_I-League "wikilink")、[2018–19シーズンには](https://ja.wikipedia.org/wiki/:en:2018–19_I-League "wikilink")、Iリーグの制覇を果たした。

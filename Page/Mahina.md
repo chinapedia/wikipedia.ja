@@ -119,6 +119,36 @@
 </tbody>
 </table>
 
+### 配信限定シングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
+<td><p><strong>Light Of The World</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Light Of The World</li>
+</ol>
+</div>
+</div></td>
+<td><p>配信限定</p></td>
+</tr>
+</tbody>
+</table>
+
 ## ミュージックビデオ
 
 |                                                                      |
@@ -130,6 +160,7 @@
 | 「[彗星の尾っぽにつかまって](https://m.youtube.com/watch?v=s4t7uXGMMXA)」          |
 | 「[YOU](https://m.youtube.com/watch?v=mLz679Kjk_A)」                   |
 | 「[week](https://m.youtube.com/watch?v=KvQJ5N99aZE)」                  |
+| 「[Light Of The World](https://m.youtube.com/watch?v=suXe_dMn7Eg)」    |
 
 ## 脚注
 
@@ -137,6 +168,7 @@
 
   - [mahina Official Website](https://mahina.site)
   - [mahina official](https://twitter.com/mahina_sound/) (@mahina_sound) - [Twitter](../Page/Twitter.md "wikilink")
+  - [mahina](https://www.instagram.com/mahina_info/) (mahina_info) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
   - [mahina](https://www.instagram.com/mahina___official/) (mahina___official) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
 
 <!-- end list -->

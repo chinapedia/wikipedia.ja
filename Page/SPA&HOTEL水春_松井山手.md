@@ -1,4 +1,4 @@
-> この記事は[SPA\&HOTEL ](https://ja.wikipedia.org/wiki/SPA\&HOTEL_)から翻訳されています。
+> この記事は[SPA\&HOTEL水春 松井山手](https://ja.wikipedia.org/wiki/SPA\&HOTEL水春_松井山手)から翻訳されています。
 
 
 **SPA\&HOTEL水春 松井山手**（*SPA & HOTEL SUISYUN Matsuiyamate*）は、[京都府](../Page/京都府.md "wikilink")[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")にある天然温泉SPAホテルである。
@@ -105,8 +105,6 @@
   - [SPA\&HOTEL水春 松井山手](https://suisyun.jp/matsuiyamate/)
   - [松井山手スパ&ホテル水春](https://twitter.com/SpaHotelSuisyun)（@SpaHotelSuisyun） - [Twitter](../Page/Twitter.md "wikilink")
   - [松井山手スパ&ホテル水春](https://www.instagram.com/suisyun_matsuiyamate/?hl=ja)（suisyun_matsuiyamate） - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
-
-__インデックス__
 
 [Category:京都府のホテル](https://ja.wikipedia.org/wiki/Category:京都府のホテル "wikilink") [Category:京田辺市の建築物](https://ja.wikipedia.org/wiki/Category:京田辺市の建築物 "wikilink")
 

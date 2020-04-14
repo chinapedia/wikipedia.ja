@@ -3,7 +3,7 @@
 
 **NNLinux**は、[Debian](../Page/Debian.md "wikilink")および[Ubuntu](../Page/Ubuntu.md "wikilink")をベースに日本で開発されている[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")。
 
-「**NN**」の名前の由来は 某号泣会見議員から。\[1\]
+「**NN**」の名前の由来は[野々村竜太郎](https://ja.wikipedia.org/wiki/野々村竜太郎 "wikilink")元兵庫県議から\[1\]。
 
 ## 概要
 
@@ -15,23 +15,35 @@
 
 ## リリース
 
+主なリリースを以下に列挙する\[3\]。
+
 | 主なバージョン         | リリース日       | 主な変更点                                                                                                                                                                                                                                                                          |
 | --------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Beta1           | 2019年4月29日  | Debian sidをベースにした初回リリース版                                                                                                                                                                                                                                                       |
-| Beta2           | 2019年5月3日   | 日本語化や内蔵ソフトウェアが追加された                                                                                                                                                                                                                                                            |
+| Beta2           | 2019年5月3日   | 日本語化・内蔵ソフトウェアの追加                                                                                                                                                                                                                                                               |
 | Pi Edition      | 2019年5月22日  | Beta2をRaspberry Pi向けに移植したもの                                                                                                                                                                                                                                                    |
 | Web Edition     | 2019年7月3日   | Web閲覧用に特化したエディション                                                                                                                                                                                                                                                              |
-| Beta3           | 2019年6月23日  | Chromiumが起動できないバグが修正された                                                                                                                                                                                                                                                        |
+| Beta3           | 2019年6月23日  | Chromiumが起動できないバグの修正が加えられた                                                                                                                                                                                                                                                     |
 | Basix Edition   | 2019年7月9日   | Ubuntuをベースとした新しいエディション。様々なドライバーが利用可能に                                                                                                                                                                                                                                          |
 | Basix for 64bit | 2019年7月16日  | 64bit対応。(Ubuntuベース)                                                                                                                                                                                                                                                            |
 | Beta5           | 2019年7月30日  | Debian派生ディストリビューションではじめてインストーラが採用された                                                                                                                                                                                                                                           |
 | Beta6           | 2019年8月11日  | [ディスプレイマネージャ](../Page/Xディスプレイマネージャ.md "wikilink")（ロック画面）が[LightDM](https://ja.wikipedia.org/wiki/LightDM "wikilink")から[GDM3へ変更された](https://ja.wikipedia.org/wiki/GNOME_ディスプレイマネージャー "wikilink")。インストーラに[rootパスワードが設定可能に](../Page/スーパーユーザー.md "wikilink")。複数ユーザーが使用可能になるよう改善された |
 | Lite Edition    | 2019年8月16日  | 軽量版エディション。デスクトップ環境に[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")が採用された                                                                                                                                                                                                 |
-| Beta7           | 2019年10月20日 | OS全体の速度が改善。安定性と機能面が調整された。ディスプレイマネージャ（ロック画面）がLightDMへ変更された                                                                                                                                                                                                                      |
+| Beta7           | 2019年10月20日 | OS全体の速度の改善。安定性と機能面の調整。ディスプレイマネージャ（ロック画面）のLightDMへの変更                                                                                                                                                                                                                           |
 | Beta8 64bit     | 2019年12月29日 | Debian10をベースにした64bit対応版。インストーラにユーザーを削除する機能が追加された                                                                                                                                                                                                                               |
 | Beta9           | 2020年2月24日  | DVDからの起動に対応。Windowsアプリケーションの利便性向上。自動ログインの対応。デスクトップのデバイスの表示の削除 。その他細かいバグ修正                                                                                                                                                                                                      |
+| GNOME Edition   | 2020年3月22日  | [Twitter](../Page/Twitter.md "wikilink")のみで配布。[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")には[GNOME](../Page/GNOME.md "wikilink")が使われている。                                                                                                                      |
 
-## プリインストールソフトウェア
+
+
+## 派生Linuxディストリビューション
+
+NNLinuxをベースとして作られたLinuxディストリビューションが存在している。
+
+  - [yellowleaflinux NN base edition](https://ja.osdn.net/projects/yellowleaflinux/)　NNLinuxBeta7をベースとしている。
+
+
+\== プリインストールソフトウェア ==
 
   - [Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")（ウェブブラウザ）
 
@@ -47,14 +59,17 @@
 
   - [Wine](../Page/Wine.md "wikilink")（Windowsアプリケーションを実行）
 
-  - GNOME サウンドレコーダー（録音ソフト）
+  - GNOME サウンドレコーダー（録音ソフト
 
 ## 脚注
 
 ## 外部リンク
 
   -
+  - [作者のTwitter](https://twitter.com/k2PgRcz5TIMw0Mv)
+
 [Category:Debian派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Debian派生ディストリビューション "wikilink") [Category:Ubuntu派生ディストリビューション](https://ja.wikipedia.org/wiki/Category:Ubuntu派生ディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
 
 1.  [作者の投稿](https://twitter.com/k2PgRcz5TIMw0Mv/status/1153999647012093952)
 2.
+3.

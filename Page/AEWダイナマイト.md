@@ -1,4 +1,4 @@
-> この記事は[AEW](https://ja.wikipedia.org/wiki/AEW)から翻訳されています。
+> この記事は[AEWダイナマイト](https://ja.wikipedia.org/wiki/AEWダイナマイト)から翻訳されています。
 
 
 『**AEWダイナマイト**』は、アメリカのプロレス団体[オール・エリート・レスリング](https://ja.wikipedia.org/wiki/オール・エリート・レスリング "wikilink")（AEW）が制作し、TNTで放送されているプロレス中継。
@@ -11,7 +11,7 @@
 
 同時間帯には[WWE・NXT](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")（USA）が放送されている。
 
-またAEWダイナマイトではAEWダークも同時収録される。
+またAEWダイナマイトではAEWダークも同時収録される。こちらは日本時間翌週水曜日朝にAEW公式YouTubeチャンネルで配信されている。
 
 ## 脚注
 

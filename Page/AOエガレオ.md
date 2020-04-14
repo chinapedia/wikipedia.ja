@@ -1,4 +1,4 @@
-> この記事は[AO](https://ja.wikipedia.org/wiki/AO)から翻訳されています。
+> この記事は[AOエガレオ](https://ja.wikipedia.org/wiki/AOエガレオ)から翻訳されています。
 
 
 **AOエガレオ**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[アテネ](../Page/アテネ.md "wikilink")のをホームタウンとするサッカークラブである。

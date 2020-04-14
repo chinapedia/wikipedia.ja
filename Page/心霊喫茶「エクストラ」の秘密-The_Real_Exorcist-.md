@@ -1,4 +1,4 @@
-> この記事は[-The Real Exorcist-](https://ja.wikipedia.org/wiki/-The_Real_Exorcist-)から翻訳されています。
+> この記事は[心霊喫茶「エクストラ」の秘密-The Real Exorcist-](https://ja.wikipedia.org/wiki/心霊喫茶「エクストラ」の秘密-The_Real_Exorcist-)から翻訳されています。
 
 
 『**心霊喫茶「エクストラ」の秘密-The Real Exorcist-**』（しんれいきっさ「エクストラ」のひみつ-ザ リアル エクソシスト-）は、[幸福の科学出版](https://ja.wikipedia.org/wiki/幸福の科学出版 "wikilink")製作による[2020年](../Page/2020年.md "wikilink")5月に公開予定の実写[日本映画](../Page/日本映画.md "wikilink")\[1\]。

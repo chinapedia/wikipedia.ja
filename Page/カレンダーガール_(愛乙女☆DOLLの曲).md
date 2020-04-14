@@ -1,4 +1,4 @@
-> この記事は[ \(DOLL\)](https://ja.wikipedia.org/wiki/_\(DOLL\))から翻訳されています。
+> この記事は[カレンダーガール \(愛乙女☆DOLLの曲\)](https://ja.wikipedia.org/wiki/カレンダーガール_\(愛乙女☆DOLLの曲\))から翻訳されています。
 
 
 『**カレンダーガール**』は、[2015年](../Page/2015年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[愛乙女☆DOLL](https://ja.wikipedia.org/wiki/愛乙女☆DOLL "wikilink")（当時の表記は「愛乙女★DOLL」）通算8枚目のシングル。

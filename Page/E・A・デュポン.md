@@ -1,4 +1,4 @@
-> この記事は[EA](https://ja.wikipedia.org/wiki/EA)から翻訳されています。
+> この記事は[E・A・デュポン](https://ja.wikipedia.org/wiki/E・A・デュポン)から翻訳されています。
 
 
 **エワルド・アンドリュー・デュポン**（**Ewald André Dupont**、[1891年](../Page/1891年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[映画監督](../Page/映画監督.md "wikilink")。[ドイツ映画のパイオニアの一人](../Page/ドイツの映画.md "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で数本の[サイレント映画](../Page/サイレント映画.md "wikilink")を成功させた後、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")でも仕事をする。

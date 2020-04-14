@@ -1,4 +1,4 @@
-> この記事は[NEO \(\)](https://ja.wikipedia.org/wiki/NEO_\(\))から翻訳されています。
+> この記事は[NEO \(デーモン閣下の曲\)](https://ja.wikipedia.org/wiki/NEO_\(デーモン閣下の曲\))から翻訳されています。
 
 
 **NEO**(ネオ)は[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の楽曲であり、[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")移籍後初のシングル盤。

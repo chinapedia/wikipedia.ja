@@ -1,4 +1,4 @@
-> この記事は[Remez](https://ja.wikipedia.org/wiki/Remez)から翻訳されています。
+> この記事は[Remezのアルゴリズム](https://ja.wikipedia.org/wiki/Remezのアルゴリズム)から翻訳されています。
 
 
 **Remezのアルゴリズム**または**Remezの交換アルゴリズム**とはによって1934年に発表された、関数に簡単な近似関数を見つけるために使用される反復アルゴリズムであり、具体的には、関数を[チェビシェフ空間で](https://ja.wikipedia.org/wiki/:en:haar_space "wikilink")[一様ノルム](https://ja.wikipedia.org/wiki/一様ノルム "wikilink") *L*<sub>∞</sub>を最適化することで求める 。\[1\]

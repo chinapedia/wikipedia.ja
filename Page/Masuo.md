@@ -1,7 +1,7 @@
 > この記事は[Masuo](https://ja.wikipedia.org/wiki/Masuo)から翻訳されています。
 
 
-**Masuo**（マスオ、[1989年](../Page/1989年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。[UUUM](https://ja.wikipedia.org/wiki/UUUM "wikilink")所属。
+**Masuo**（マスオ、[1989年](../Page/1989年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。[よしもと興業](https://ja.wikipedia.org/wiki/よしもと興業 "wikilink")所属。
 
 ## 概要
 
@@ -21,7 +21,7 @@
 
 ### YouTuberとして
 
-YouTube活動を開始する以前にHikakinTVに度々登場し、視聴者からの要望とHIKAKINから勧められたこ事をきっかけにYouTuberデビューを果たす\[16\]\[17\]\[18\]。
+YouTube活動を開始する以前にHikakinTVに度々登場し、視聴者からの要望とHIKAKINから勧められたことをきっかけにYouTuberデビューを果たす\[16\]\[17\]\[18\]。
 
 ### マッサージ師として
 

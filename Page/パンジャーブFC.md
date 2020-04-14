@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[パンジャーブFC](https://ja.wikipedia.org/wiki/パンジャーブFC)から翻訳されています。
 
 
 **パンジャーブFC** (Punjab Football Club)、旧名 **ミネルヴァ・パンジャーブFC** (Minerva Punjab F.C.) は、[インド](../Page/インド.md "wikilink")の[パンジャーブ州](https://ja.wikipedia.org/wiki/パンジャーブ州 "wikilink")を本拠地とするプロの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[全インドサッカー連盟](https://ja.wikipedia.org/wiki/全インドサッカー連盟 "wikilink") (AIFF) からライセンスを受け、トップ・リーグである[Iリーグ](../Page/Iリーグ.md "wikilink")の一員としてリーグ戦に参加している。ミネルヴァ・パンジャーブFCとしてサッカークラブが結成された[2013年](../Page/2013年.md "wikilink")以降、[Iリーグ](../Page/Iリーグ.md "wikilink")のタイトルを1回、のタイトルを2回とり、の準優勝も経験した。ミネルヴァ・パンジャーブFCは、[2017–18シーズンに](https://ja.wikipedia.org/wiki/:en:2017–18_I-League "wikilink")[Iリーグ](../Page/Iリーグ.md "wikilink")の優勝を果たした。

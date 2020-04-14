@@ -1,4 +1,4 @@
-> この記事は[ CORO Junior](https://ja.wikipedia.org/wiki/_CORO_Junior)から翻訳されています。
+> この記事は[サラマンカ少年少女合唱団 CORO Junior](https://ja.wikipedia.org/wiki/サラマンカ少年少女合唱団_CORO_Junior)から翻訳されています。
 
 
 **サラマンカ少年少女合唱団　CORO Junior**（サラマンカしょうねんしょうじょがっしょうだん　コロ・ジュニオール）は、岐阜県岐阜市の[サラマンカホール](https://ja.wikipedia.org/wiki/サラマンカホール "wikilink")がレジデント事業として運営する[児童合唱](../Page/児童合唱.md "wikilink")団である\[1\]。[岐阜県少年少女合唱連盟](https://ja.wikipedia.org/wiki/岐阜県少年少女合唱連盟 "wikilink")に加入している\[2\]。音楽アドヴァイザーは[永田昌彦](https://ja.wikipedia.org/wiki/永田昌彦 "wikilink")\[3\]。

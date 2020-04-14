@@ -1,4 +1,4 @@
-> この記事は[KiU \(\)](https://ja.wikipedia.org/wiki/KiU_\(\))から翻訳されています。
+> この記事は[KiU \(ブランド\)](https://ja.wikipedia.org/wiki/KiU_\(ブランド\))から翻訳されています。
 
 
 **KiU**（キウ）は、株式会社[ワールドパーティー](../Page/ワールドパーティー.md "wikilink")が展開する、『大人の外遊び』をコンセプトとした[レイングッズ](https://ja.wikipedia.org/wiki/レイングッズ "wikilink")、[アウトドア](../Page/アウトドア.md "wikilink")グッズなどオールウェザー対応のアイテムをそろえる[ブランド](../Page/ブランド.md "wikilink")\[1\]\[2\]。数多くの[野外フェスティバル](https://ja.wikipedia.org/wiki/野外フェスティバル "wikilink")や[ロック](../Page/ロック.md "wikilink")ミュージシャンとの[コラボレーション](../Page/コラボレーション.md "wikilink")企画を行っていることでも知られる\[3\]。
@@ -20,7 +20,7 @@ KiUの語源となっている「喜雨」は、[夏](../Page/夏.md "wikilink")
   - [2016年](../Page/2016年.md "wikilink") - 自然災害復興支援基金「キウプロジェクト」開始。大きな自然災害が起こった時のための復興支援基金と、復興に役立てる資金を10年以内に1億円捻出することを使命としたプロジェクト\[15\]\[16\]。
   - [2019年](../Page/2019年.md "wikilink")
       - 3月16日 - 東京都渋谷区に「KiU旗艦店」をオープン\[17\]\[18\]。
-      - 10月16日 - 公益財団法人[日本財団](../Page/日本財団.md "wikilink")を通じ、[令和元年台風第19号](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")災害に対し復興支援金を寄付\[19\]。
+      - 10月16日 - 公益財団法人[日本財団](../Page/日本財団.md "wikilink")を通じ、[令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")（台風19号）災害に対し復興支援金を寄付\[19\]。
   - [2020年](../Page/2020年.md "wikilink")
       - [04 Limited SazabysのGEN](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")、[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")のかなすほか、イメージビジュアルに活躍する7人のアーティスト、モデルの起用が決まる\[20\]。
       - 「KiU旗艦店」出店による知名度アップや、数多くの野外フェスティバルへの協賛などにより、2020年度1月期のKiUの売上げを30%以上伸ばす\[21\]。

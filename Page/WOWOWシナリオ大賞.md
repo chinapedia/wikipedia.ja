@@ -1,4 +1,4 @@
-> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+> この記事は[WOWOWシナリオ大賞](https://ja.wikipedia.org/wiki/WOWOWシナリオ大賞)から翻訳されています。
 
 
 『**WOWOWシナリオ大賞**』（ワウワウシナリオたいしょう）は[WOWOW](../Page/WOWOW.md "wikilink")が主として自社の[テレビドラマ](../Page/テレビドラマ.md "wikilink")で活躍するシナリオ作家を募集・育成するために設立した公募である。なお、本項においては2018年から2年間だけ設けられた「WOWOW新人シナリオ大賞」の受賞および受賞作品も掲載する。

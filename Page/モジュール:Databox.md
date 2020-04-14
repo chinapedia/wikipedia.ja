@@ -1,4 +1,4 @@
-> この記事は[:Databox](https://ja.wikipedia.org/wiki/:Databox)から翻訳されています。
+> この記事は[モジュール:Databox](https://ja.wikipedia.org/wiki/モジュール:Databox)から翻訳されています。
 
 
 local property_blacklist = {

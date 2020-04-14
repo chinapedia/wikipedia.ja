@@ -1,4 +1,4 @@
-> この記事は[ \(Mauley\)](https://ja.wikipedia.org/wiki/_\(Mauley\))から翻訳されています。
+> この記事は[モーリー男爵 \(Mauley\)](https://ja.wikipedia.org/wiki/モーリー男爵_\(Mauley\))から翻訳されています。
 
 
 **モーリー男爵**(英:**Baron** **Mauley**)は、かつて存在したイギリスの[男爵](../Page/男爵.md "wikilink")位。[イングランド貴族](https://ja.wikipedia.org/wiki/イングランド貴族 "wikilink")爵位。
@@ -15,7 +15,7 @@
 
 彼の死後は、甥にあたるラルフ・ビゴッド<small>(1410-1461)</small>が一族の邸宅であったを相続して、モーリー卿を仮冒したという。しかし、ラルフも[1461年](../Page/1461年.md "wikilink")に[薔薇戦争](../Page/薔薇戦争.md "wikilink")下の[タウトンの戦い](https://ja.wikipedia.org/wiki/タウトンの戦い "wikilink")で戦死している。
 
-なお、[1838年](../Page/1838年.md "wikilink")にが[連合王国貴族](https://ja.wikipedia.org/wiki/連合王国貴族 "wikilink")爵位の**[ド・モーリー男爵](../Page/ド・モーリー男爵.md "wikilink")**<small>(Baron de Mauley)</small>に叙されたが、これは彼の妻であるバーバラ・アシュリー=クーパーがモーリー男爵家の子孫であり、かつ休止した爵位の共同相続人であったことに因む。\[3\]\[4\]\[5\]
+なお、[1838年](../Page/1838年.md "wikilink")にが[連合王国貴族](https://ja.wikipedia.org/wiki/連合王国貴族 "wikilink")爵位の**[ド・モーリー男爵](../Page/ド・モーリー男爵.md "wikilink")**<small>(Baron de Mauley)</small>に叙されたが、これは彼の妻であるバーバラ・アシュリー=クーパーがモーリー男爵家の子孫であり、かつ[停止した爵位の共同相続人であったことに因む](https://ja.wikipedia.org/wiki/停止_\(爵位\) "wikilink")。\[3\]\[4\]\[5\]
 
 ## モーリー男爵(1295年)
 

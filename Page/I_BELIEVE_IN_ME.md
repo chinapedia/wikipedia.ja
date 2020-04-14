@@ -1,15 +1,15 @@
 > この記事は[I BELIEVE IN ME](https://ja.wikipedia.org/wiki/I_BELIEVE_IN_ME)から翻訳されています。
 
 
-『**I BELIEVE IN ME**』（アイ・ビリーブ・イン・ミー）は、[Lynch.](https://ja.wikipedia.org/wiki/Lynch. "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")にキングレコードから発売された。
+『**I BELIEVE IN ME**』（アイ・ビリーブ・イン・ミー）は、[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")の通算5枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")にキングレコードから発売された。
 
 ## 解説
 
-メジャーデビューアルバム。
+初回盤と通常盤の2形態でリリース。 初回盤には「I BELIEVE IN ME」のPVが付属。
 
-インディーズ時代のシングル「A GLEAM IN EYE」と「JUDGEMENT」も収録されている。
+インディーズ期の総決算のメジャーデビューアルバム。 新メンバーである"明徳"は今作から参加。
 
-初回限定盤と通常盤の2形態で発売された。初回限定盤ではDVDが付属しており、収録曲である「I BELIEVE IN ME」のPVが収録されている。
+インディーズ時代最後のシングル「JUDGEMENT」と、1作前の「A GLEAM IN EYE」2作品も収録。
 
 ## 収録曲
 

@@ -1,4 +1,4 @@
-> この記事は[TBC 8 ](https://ja.wikipedia.org/wiki/TBC_8_)から翻訳されています。
+> この記事は[TBC 8 ニュース](https://ja.wikipedia.org/wiki/TBC_8_ニュース)から翻訳されています。
 
 
 『**TBC 8 ニュース**』は、韓国・[SBS系列の](../Page/SBS_\(韓国\).md "wikilink")[大邱放送](https://ja.wikipedia.org/wiki/大邱放送 "wikilink")（TBC）のローカルニュース番組。

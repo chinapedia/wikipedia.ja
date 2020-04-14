@@ -1,4 +1,4 @@
-> この記事は[SAP](https://ja.wikipedia.org/wiki/SAP)から翻訳されています。
+> この記事は[SAPユニバーシティ・アライアンス](https://ja.wikipedia.org/wiki/SAPユニバーシティ・アライアンス)から翻訳されています。
 
 
 **SAPユニバーシティ・アライアンス （SAP University Alliances）**は、欧州のソフトウェア企業[SAPが提供する](../Page/SAP_\(企業\).md "wikilink")、SAPの製品やサービスを大学教育で利用できるよう教育機関を支援するプログラムである。

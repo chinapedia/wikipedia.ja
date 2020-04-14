@@ -33,6 +33,7 @@
 <th><p>製作局<br />
 or<br />
 放送形態</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/文字多重放送" title="wikilink">字幕</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -42,12 +43,15 @@ or<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/イエスタデイをうたって.md" title="wikilink">イエスタデイをうたって</a></p></td>
 <td><p>2020年4月5日 - 6月（予定）</p></td>
 <td></td>
-<td></td>
+<td><p>○</p></td>
+<td><p>中京圏・関西圏は未放送。<br />
+<a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>でも放送。</p></td>
 </tr>
 </tbody>
 </table>
@@ -61,8 +65,16 @@ or<br />
 ## 関連項目
 
   - [テレビ朝日の深夜アニメ枠](../Page/テレビ朝日の深夜アニメ枠.md "wikilink")
-  - [アニサタ](https://ja.wikipedia.org/wiki/アニサタ "wikilink") - 本枠の10分後に在阪局の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")が放送している深夜アニメ枠。
+  - [ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink") - 在阪局の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")のアニメ事業が行っている会社。テレビ朝日では2020年4月現在、全日帯枠の[プリキュアシリーズ](../Page/プリキュアシリーズ.md "wikilink")（全国ネット）しか放送されていない（ただし、同局のネット配信のAbemaTVは対称的にプリキュアは配信していない）。以下は朝日放送テレビの深夜アニメ枠である。
+      - [アニサタ](https://ja.wikipedia.org/wiki/アニサタ "wikilink") - 本枠の10分後に放送している深夜アニメ枠。
+      - [水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink") - 木曜未明に放送している深夜アニメ枠。
+  - [あに。](https://ja.wikipedia.org/wiki/あに。 "wikilink") - [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")が帯番組として1日1作品放送している深夜アニメ枠。
 
+## 外部リンク
+
+  - [NUMAnimation|テレビ朝日](https://www.tv-asahi.co.jp/numanimation/)
+
+  -
 [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日系アニメの放送枠](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメの放送枠 "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:日本のテレビアニメの放送枠レーベル](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの放送枠レーベル "wikilink")
 
 1.  系列局では[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")の『[水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink")』と『[アニサタ](https://ja.wikipedia.org/wiki/アニサタ "wikilink")』、[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")の『[あに。](https://ja.wikipedia.org/wiki/あに。 "wikilink")』が既に存在する。

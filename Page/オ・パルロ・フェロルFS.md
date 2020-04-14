@@ -1,4 +1,4 @@
-> この記事は[FS](https://ja.wikipedia.org/wiki/FS)から翻訳されています。
+> この記事は[オ・パルロ・フェロルFS](https://ja.wikipedia.org/wiki/オ・パルロ・フェロルFS)から翻訳されています。
 
 
 **オ・パルロ・フェロルFS**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[ガリシア州](../Page/ガリシア州.md "wikilink")[ア・コルーニャ県](../Page/ア・コルーニャ県.md "wikilink")[フェロル](https://ja.wikipedia.org/wiki/フェロル "wikilink")に拠点を置く[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。[プリメーラ・ディビシオン所属](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン・デ・フットサル "wikilink")。ホームアリーナは4,200人収容のパベジョン・ア・マラータ。

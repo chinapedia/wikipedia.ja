@@ -1,4 +1,4 @@
-> この記事は[POPSTEP!\?](https://ja.wikipedia.org/wiki/POPSTEP!\?)から翻訳されています。
+> この記事は[POP×STEP!\?](https://ja.wikipedia.org/wiki/POP×STEP!\?)から翻訳されています。
 
 
 『**POP × STEP\!?**』（ポップステップ）は、[2020年](../Page/2020年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")7作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[G.I.: ](https://ja.wikipedia.org/wiki/G.I.:_)から翻訳されています。
+> この記事は[G.I.ジョー: 漆黒のスネークアイズ](https://ja.wikipedia.org/wiki/G.I.ジョー:_漆黒のスネークアイズ)から翻訳されています。
 
 
 『**G.I.ジョー: 漆黒のスネークアイズ**』（原題: *Snake Eyes*）は[2020年](../Page/2020年.md "wikilink")に公開される予定の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アクション映画](../Page/アクション映画.md "wikilink")である。監督は[ロベルト・シュヴェンケ](https://ja.wikipedia.org/wiki/ロベルト・シュヴェンケ "wikilink")、主演は[ヘンリー・ゴールディング](../Page/ヘンリー・ゴールディング.md "wikilink")が務めた。本作は[『G.I.ジョー』シリーズの第](../Page/G.I.ジョー.md "wikilink")3作である。

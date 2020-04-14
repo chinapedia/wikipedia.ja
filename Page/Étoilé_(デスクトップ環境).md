@@ -1,4 +1,4 @@
-> この記事は[toil \(\)](https://ja.wikipedia.org/wiki/toil_\(\))から翻訳されています。
+> この記事は[Étoilé \(デスクトップ環境\)](https://ja.wikipedia.org/wiki/Étoilé_\(デスクトップ環境\))から翻訳されています。
 
 
 **Étoilé**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で*星空*の意）は[GNUstep](../Page/GNUstep.md "wikilink")ベースの[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")で、モジュールと軽量なコンポーネントから構築されており、提供されているサービス（アプリケーション）と他のコンポーネントの変形と再度の結びつけという手法が用いられている。また、ユーザーに自分自身のワークフローを作ることを許すため、ドキュメント指向が念頭に置かれている\[1\]。

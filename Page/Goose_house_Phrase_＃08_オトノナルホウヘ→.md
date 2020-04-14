@@ -1,4 +1,4 @@
-> この記事は[Goose house Phrase 08 ](https://ja.wikipedia.org/wiki/Goose_house_Phrase_08_)から翻訳されています。
+> この記事は[Goose house Phrase ＃08 オトノナルホウヘ→](https://ja.wikipedia.org/wiki/Goose_house_Phrase_＃08_オトノナルホウヘ→)から翻訳されています。
 
 
 「**Goose house Phrase \#08 オトノナルホウヘ→**」は、（グースハウス フレーズ エイト オトノナルホウヘ）は、[Goose houseのメジャーデビューシングル](https://ja.wikipedia.org/wiki/Goose_house "wikilink")。[2014年](../Page/2014年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")発売。

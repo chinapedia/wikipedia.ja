@@ -11,7 +11,6 @@
   - [秋山篤司](https://ja.wikipedia.org/wiki/秋山篤司 "wikilink")
   - [SUK](https://ja.wikipedia.org/wiki/SUK "wikilink")
   - [石岡遼士](https://ja.wikipedia.org/wiki/石岡遼士 "wikilink")
-  - [石田ジョン](https://ja.wikipedia.org/wiki/石田ジョン "wikilink")
   - [橘海斗](https://ja.wikipedia.org/wiki/橘海斗 "wikilink")
   - [里中雄大](https://ja.wikipedia.org/wiki/里中雄大 "wikilink")
   - [津田宗司](https://ja.wikipedia.org/wiki/津田宗司 "wikilink")
@@ -43,8 +42,26 @@
   - [ハムちゃん](https://ja.wikipedia.org/wiki/ハムちゃん "wikilink")
   - [金子広美](https://ja.wikipedia.org/wiki/金子広美 "wikilink")
   - [YURIKA](https://ja.wikipedia.org/wiki/YURIKA "wikilink")
-  - [夜露葉色](https://ja.wikipedia.org/wiki/夜露葉色 "wikilink")
   - [鳴海麗央](https://ja.wikipedia.org/wiki/鳴海麗央 "wikilink")
+
+<!-- end list -->
+
+  - [齊藤涼](https://ja.wikipedia.org/wiki/齊藤涼 "wikilink")
+  - [TRIANGLE](https://ja.wikipedia.org/wiki/TRIANGLE "wikilink")
+  - [MIK△KU](https://ja.wikipedia.org/wiki/MIK△KU "wikilink")
+  - [坂口アミ](https://ja.wikipedia.org/wiki/坂口アミ "wikilink")
+  - [山方まゆ](https://ja.wikipedia.org/wiki/山方まゆ "wikilink")
+  - [伊藤誠矢](https://ja.wikipedia.org/wiki/伊藤誠矢 "wikilink")
+  - [加藤彩音](https://ja.wikipedia.org/wiki/加藤彩音 "wikilink")
+  - [明日花美鈴](https://ja.wikipedia.org/wiki/明日花美鈴 "wikilink")
+  - [太田敬佑](https://ja.wikipedia.org/wiki/太田敬佑 "wikilink")
+  - [瀧永黄葉](https://ja.wikipedia.org/wiki/瀧永黄葉 "wikilink")
+  - [大塚栞](https://ja.wikipedia.org/wiki/大塚栞 "wikilink")
+  - [蜜翅](https://ja.wikipedia.org/wiki/蜜翅 "wikilink")
+  - [本田明紀奈](https://ja.wikipedia.org/wiki/本田明紀奈 "wikilink")
+  - [虎羽美早紀](https://ja.wikipedia.org/wiki/虎羽美早紀 "wikilink")
+  - [古原万稚](https://ja.wikipedia.org/wiki/古原万稚 "wikilink")
+  - [伊東秀悟](https://ja.wikipedia.org/wiki/伊東秀悟 "wikilink")
 
 ## 脚注
 

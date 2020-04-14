@@ -1,4 +1,4 @@
-> この記事は[PARADE III RESPECTIVE TRACKS OF BUCK-TICK](https://ja.wikipedia.org/wiki/PARADE_III_RESPECTIVE_TRACKS_OF_BUCK-TICK)から翻訳されています。
+> この記事は[PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜](https://ja.wikipedia.org/wiki/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜)から翻訳されています。
 
 
 『**PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜**』（パレード・スリー リスペクティヴ・トラックス・オブ・バクチク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の3枚目の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。

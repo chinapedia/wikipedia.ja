@@ -1,4 +1,4 @@
-> この記事は[SUP](https://ja.wikipedia.org/wiki/SUP)から翻訳されています。
+> この記事は[田中律子の旅するSUP](https://ja.wikipedia.org/wiki/田中律子の旅するSUP)から翻訳されています。
 
 
 『**田中律子の旅するSUP**』（たなかりつこのたびするサップ）は、[静岡県](../Page/静岡県.md "wikilink")のケーブルテレビ「トコチャン」（[株式会社TOKAIケーブルネットワーク](https://ja.wikipedia.org/wiki/TOKAIケーブルネットワーク "wikilink")）で2017年7月1日から放送されているSUP（ウォータースポーツ）で巡る旅番組である。

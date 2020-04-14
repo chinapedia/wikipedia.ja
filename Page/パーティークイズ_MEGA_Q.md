@@ -1,4 +1,4 @@
-> この記事は[ MEGA Q](https://ja.wikipedia.org/wiki/_MEGA_Q)から翻訳されています。
+> この記事は[パーティークイズ MEGA Q](https://ja.wikipedia.org/wiki/パーティークイズ_MEGA_Q)から翻訳されています。
 
 
 『**パーティークイズ MEGA Q**』（パーティークイズ メガ キュー）は、1993年11月5日にセガ・エンタープライゼス（現・[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）より発売された、[メガドライブ](../Page/メガドライブ.md "wikilink")用の[クイズゲーム](../Page/クイズゲーム.md "wikilink")ソフトである。

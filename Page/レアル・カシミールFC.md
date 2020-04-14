@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レアル・カシミールFC](https://ja.wikipedia.org/wiki/レアル・カシミールFC)から翻訳されています。
 
 
 **レアル・カシミールFC** (Real Kashmir Football Club) は、[インド](../Page/インド.md "wikilink")の[シュリーナガル](../Page/シュリーナガル.md "wikilink")を本拠地とするプロの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[全インドサッカー連盟](https://ja.wikipedia.org/wiki/全インドサッカー連盟 "wikilink") (AIFF) からライセンスを受け、[Iリーグ](../Page/Iリーグ.md "wikilink")の一員としてリーグ戦に参加している。[ジャンムー・カシミール連邦直轄領](https://ja.wikipedia.org/wiki/ジャンムー・カシミール連邦直轄領 "wikilink")に本拠を置くレアル・カシミールFCは、[カシミール](../Page/カシミール.md "wikilink")のチームとしては初めて\[1\]、Iリーグのトップ・リーグに参戦したチームである.\[2\]\[3\]。最初に全国レベルの大会に参加したのは、[2016年](../Page/2016年.md "wikilink")9月の([2016 Durand Cup](https://ja.wikipedia.org/wiki/:en:2016_Durand_Cup "wikilink")) であった\[4\]。[2017年](../Page/2017年.md "wikilink")7月、レアル・カシミールFCは、[ジャンムー・カシミール州](../Page/ジャンムー・カシミール州.md "wikilink")のクラブとしては初めて、海外遠征をおこない、[スコットランド](../Page/スコットランド.md "wikilink")で4試合を戦った。レアル・カシミールFCは、AIFFが定める4つのカテゴリー全てに参加している

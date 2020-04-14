@@ -1,4 +1,4 @@
-> この記事は[0 \(Superfly\)](https://ja.wikipedia.org/wiki/0_\(Superfly\))から翻訳されています。
+> この記事は[0 \(Superflyのアルバム\)](https://ja.wikipedia.org/wiki/0_\(Superflyのアルバム\))から翻訳されています。
 
 
 『**0**』（ゼロ）は、[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に発売される[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")の6枚目の[アルバム](../Page/アルバム.md "wikilink")。
@@ -10,6 +10,10 @@
   - 収録曲の殆どがシングル曲及びそのカップリング曲で占めており、アルバムとしてのオリジナル曲は3曲となっている（シングル『[Bloom](https://ja.wikipedia.org/wiki/Bloom_\(Superflyの曲\) "wikilink")』のカップリング曲「ユニゾン」のみ未収録）。
   - 本作は、通常盤・初回盤A・初回盤Bの3形態でリリース。初回盤AのDVD・Blu-rayには、2019年秋から開催されている「Superfly Arena Tour 2019"0"」さいたまスーパーアリーナ公演から一部楽曲のライブ映像が収録。初回盤BのDVD・Blu-rayには、2019年夏に開催された「MEET THE WORLD BEAT 2019」のライブ映像と「[Superfly BEST](https://ja.wikipedia.org/wiki/Superfly_BEST "wikilink")」以来となるMV集、全17曲が収録。
   - 発売を記念してリリース日には、都内某所にてミニライブが開催、1月6日よりタワーレコード 表参道・梅田NU茶町・札幌ビヴォ店にて「Superfly CAFE」が開催される。
+
+## チャート成績
+
+  - 初動3日間で23,851枚、1月27日付オリコンランキングで35,548枚を売り上げ3位を記録した。また、2020年1月度・月間オリコンランキングでは57,110枚を売り上げ4位を記録した。前作、「Superfly 10th Anniversary Greatest Hits "LOVE,PEACE＆FIRE"」からの首位連続記録とはならなかった。
 
 ## 収録曲
 
@@ -43,12 +47,12 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Ambitious_(Superflyの曲)" title="wikilink">Ambitious</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBS" title="wikilink">TBS</a>系火曜ドラマ「<a href="https://ja.wikipedia.org/wiki/わたし、定時で帰ります。" title="wikilink">わたし、定時で帰ります。</a>」主題歌</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBS" title="wikilink">TBS</a>系<a href="https://ja.wikipedia.org/wiki/火曜ドラマ_(TBS)" title="wikilink">火曜ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/わたし、定時で帰ります。" title="wikilink">わたし、定時で帰ります。</a>」主題歌</p></td>
 <td><p>2019年</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フレア_(Superflyの曲)" title="wikilink">フレア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK連続テレビ小説" title="wikilink">NHK連続テレビ小説</a>「<a href="../Page/連続テレビ小説.md" title="wikilink">スカーレット</a>」主題歌</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK連続テレビ小説" title="wikilink">NHK連続テレビ小説</a>「<a href="https://ja.wikipedia.org/wiki/スカーレット_(テレビドラマ)" title="wikilink">スカーレット</a>」主題歌</p></td>
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +67,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Bloom_(Superflyの曲)" title="wikilink">Fall</a></p></td>
-<td><p>TBS系金曜ドラマ「<a href="https://ja.wikipedia.org/wiki/あなたには帰る家がある" title="wikilink">あなたには帰る家がある</a>」主題歌</p></td>
+<td><p>TBS系<a href="../Page/金曜ドラマ_(TBS).md" title="wikilink">金曜ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/あなたには帰る家がある" title="wikilink">あなたには帰る家がある</a>」主題歌</p></td>
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">

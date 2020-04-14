@@ -1,4 +1,4 @@
-> この記事は[PCC \(\)](https://ja.wikipedia.org/wiki/PCC_\(\))から翻訳されています。
+> この記事は[PCCカー \(ヴィシナル\)](https://ja.wikipedia.org/wiki/PCCカー_\(ヴィシナル\))から翻訳されています。
 
 
 この項目では、アメリカで開発された[路面電車](../Page/路面電車.md "wikilink")[車両である](../Page/電車.md "wikilink")**[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")**のうち、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の狭軌鉄道網であった****向けにアメリカから輸出された車両およびそれを基にベルギー国内で生産された車両について解説する。これらの車両はベルギーに初めて導入されたPCCカーであった。

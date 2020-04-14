@@ -1,4 +1,4 @@
-> この記事は[CHEMISTRY](https://ja.wikipedia.org/wiki/CHEMISTRY)から翻訳されています。
+> この記事は[はじめてのCHEMISTRY](https://ja.wikipedia.org/wiki/はじめてのCHEMISTRY)から翻訳されています。
 
 
 『**はじめてのCHEMISTRY**』(はじめてのケミストリー)は、ツインボーカルユニット[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")のベスト・アルバム
@@ -71,7 +71,7 @@
 
   - [作品紹介ページ](http://www.chemistry-official.net/s/n47/page/discography?ima=5115)
 
-[Category:CHEMISTRYのアルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのアルバム "wikilink") [Category:2019年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のベスト・アルバム "wikilink")
+[Category:CHEMISTRYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのベスト・アルバム "wikilink") [Category:2019年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のベスト・アルバム "wikilink")
 
 1.
 2.

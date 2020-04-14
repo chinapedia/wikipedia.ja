@@ -1,4 +1,4 @@
-> この記事は[ \(UVERworld\)](https://ja.wikipedia.org/wiki/_\(UVERworld\))から翻訳されています。
+> この記事は[男祭り \(UVERworldのコンサート\)](https://ja.wikipedia.org/wiki/男祭り_\(UVERworldのコンサート\))から翻訳されています。
 
 
 **男祭り**（おとこまつり）は、[UVERworld](../Page/UVERworld.md "wikilink")が[2011年](../Page/2011年.md "wikilink")より開催していた[男性](../Page/男性.md "wikilink")限定[ライブである](../Page/演奏会.md "wikilink")。

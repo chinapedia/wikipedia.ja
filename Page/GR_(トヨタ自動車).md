@@ -1,4 +1,4 @@
-> この記事は[GR \(\)](https://ja.wikipedia.org/wiki/GR_\(\))から翻訳されています。
+> この記事は[GR \(トヨタ自動車\)](https://ja.wikipedia.org/wiki/GR_\(トヨタ自動車\))から翻訳されています。
 
 
 [Osaka_Auto_Messe_2018_(310)_-_Toyota_GR_SUPER_SPORTS_Concept.jpg](https://ja.wikipedia.org/wiki/File:Osaka_Auto_Messe_2018_\(310\)_-_Toyota_GR_SUPER_SPORTS_Concept.jpg "fig:Osaka_Auto_Messe_2018_(310)_-_Toyota_GR_SUPER_SPORTS_Concept.jpg")
@@ -35,7 +35,9 @@ GRブランドのベースカラーは白。[ロゴマークは黒地に](../Pag
 
 ## GAZOO Racing
 
-GRブランドの根幹を為すモータースポーツ活動である。成瀬弘の信条であった、レースを通して技術や人を鍛えることを目的としており、勝つことを第一の目的とした世界選手権のようなビッグカテゴリから、人材育成や市販車開発を目的とする草レースまで幅広く参戦を行っている。レースからフィードバックしているのはパワーユニットや[トランスミッション](../Page/トランスミッション.md "wikilink")技術のような自動車に直接生かせるものだけでなく、レーシングカーの開発の手法（開発プロセス、組織論、シミュレーション技術など）もそうである。またトヨタ自動車社長兼マスターテストドライバーの[豊田章男](https://ja.wikipedia.org/wiki/豊田章男 "wikilink")を含む市販車の開発テストドライバーが市販車開発のためにレースに参戦したり、逆にプロのレーシングドライバーが市販車開発の現場に携わる機会が増えている。GRスープラは前者、GRヤリスは後者のパターンである。また[C-HR](https://ja.wikipedia.org/wiki/C-HR "wikilink")がプロトタイプの段階でニュルブルクリンク24時間に参戦したように、GRシリーズ以外のトヨタ/レクサスの車作りにも大きな影響を与えている活動である。
+GRブランドの根幹を為すモータースポーツ活動である。成瀬弘の信条であった、レースを通して技術や人を鍛えることを目的としており、勝つことを第一の目的とした世界選手権のようなビッグカテゴリから、人材育成や市販車開発を目的とする草レースまで幅広く参戦を行っている。
+
+レースからフィードバックしているのはパワーユニットや[トランスミッション](../Page/トランスミッション.md "wikilink")技術のような自動車に直接生かせるものだけでなく、レーシングカーの開発の手法（開発プロセス、組織論、シミュレーション技術など）もそうである。また市販車のテストドライバーが市販車開発のためにレースに参戦したり、逆にプロのレーシングドライバーが市販車開発の現場に直接携わる機会が増えている。[GRスープラ](https://ja.wikipedia.org/wiki/GRスープラ "wikilink")は前者、[GRヤリス](https://ja.wikipedia.org/wiki/GRヤリス "wikilink")は後者のパターンで開発されている。また[C-HR](https://ja.wikipedia.org/wiki/C-HR "wikilink")がプロトタイプの段階でニュルブルクリンク24時間に参戦したように、GRシリーズ以外のトヨタ/レクサスの車作りにも大きな影響を与えている活動である。
 
 本社以外にも世界のトヨタ法人の多くが「GAZOO Racing ○○（国の名前）」を名乗り参戦しているが、一部マーケティングや参戦体制の都合でGAZOO Racingを名乗っていない場合もある\[15\]。また北米のレクサスは2019年を最後にGAZOO Racingを名乗っておらず、日本のレクサスも2019年を最後にTOYOTA GAZOO Racingに引き継いだため、2020年現在『LEXUS GAZOO Racing』としては活動は行われていない。
 
@@ -73,13 +75,15 @@ GRブランドの根幹を為すモータースポーツ活動である。成瀬
 
 :\*全日本[F3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")/[F4](../Page/フォーミュラ4.md "wikilink")
 
+:\*[イギリスツーリングカー選手権](https://ja.wikipedia.org/wiki/イギリスツーリングカー選手権 "wikilink")（BTCC）
+
 :\*[ストックカー・ブラジル](../Page/ストックカー・ブラジル.md "wikilink")
 
   - LEXUS GAZOO Racing
 
-:\*[スーパーGT](https://ja.wikipedia.org/wiki/スーパーGT "wikilink")（-2019年、TOYOTA GAZOO Racingに引き継いで継続中）
+:\*[スーパーGT](https://ja.wikipedia.org/wiki/スーパーGT "wikilink")（〜2019年、TOYOTA GAZOO Racing名義で継続中）
 
-:\*[IMSA](https://ja.wikipedia.org/wiki/IMSA "wikilink")[ウェザーテック・スポーツカー選手権](https://ja.wikipedia.org/wiki/ユナイテッド・スポーツカー選手権 "wikilink")（-2017年、レクサス・レーシングとして継続中）
+:\*[IMSA](https://ja.wikipedia.org/wiki/IMSA "wikilink")[ウェザーテック・スポーツカー選手権](https://ja.wikipedia.org/wiki/ユナイテッド・スポーツカー選手権 "wikilink")（〜2017年、レクサス・レーシング名義で継続中）
 
 <File:Lexus> LFAs 24h-Rennen Nürburgring 2010.jpg|[LF-A](https://ja.wikipedia.org/wiki/レクサス・LFA "wikilink")（2010年ニュルブルクリンク24時間） <File:Gazoo> Racing Toyota 86 2012 Super Taikyu Suzuka 300km.jpg|[86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")（2012年[スーパー耐久](../Page/スーパー耐久.md "wikilink")） <File:Toyota> TS 050 IMG 3698 02.jpg|[TS050 HYBRID](https://ja.wikipedia.org/wiki/トヨタ・TS050_HYBRID "wikilink")（2016年WEC） <File:Sábado> 19, Rally de Portugal 2018 - 3.jpg|[ヤリスWRC](https://ja.wikipedia.org/wiki/トヨタ・ヤリスWRC "wikilink")（2018年WRC） <File:GIMS> 2019, Le Grand-Saconnex (GIMS0517).jpg|[ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")（2019年）
 
@@ -186,16 +190,18 @@ GRが発売するアフターパーツ。車種によってパーツの種類に
 
 ## GRグローバルモデル
 
-「GR＋車名」はGRグローバルモデルとして開発されたブランド専用車で、初のグローバルモデルとしてGRスープラが、第2段として世界ラリー選手権（WRC）の開発からのGRヤリスが登場した。
+「GR+車名」はグローバルモデルとして開発されたブランド専用車である。[2019年](../Page/2019年.md "wikilink")のGRスープラで初登場した。
 
-  - **GR[スープラ](../Page/トヨタ・スープラ.md "wikilink")**（2019年）\[30\]
-  - **[GRヤリス](https://ja.wikipedia.org/wiki/トヨタ・GRヤリス "wikilink")**（2020年）
+GRブランド専売である事を明確にするため、他のGRブランドの車種の「車名+GR」と異なる「GR+車名」のネーミングを用いる事で、差別化を図っている。
 
-<File:Toyota> Supra GR Genf 2019 1Y7A5163.jpg|GRスープラ
+  - **GR[スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ#5代目_DB型（2019年-） "wikilink")**（2019年）
+  - **[GRヤリス（ヤリスGR-4）](https://ja.wikipedia.org/wiki/トヨタ・GRヤリス "wikilink")**（2020年）
+
+<File:Toyota> Supra GR Genf 2019 1Y7A5163.jpg|GRスープラ <File:Toyota> GR YARiS RZ"High-performance・First Edition" (1).jpg|GRヤリス
 
 ## GR Garage
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:GR_Garage_Shin-Osaka.jpg "wikilink") 「GR Garage（ジーアールガレージ）」は、「GR」ブランドの発足に合わせて全国のトヨタディーラーに設置された専門のカスタマイズとチューニングを行う専門店\[31\]。GRコンサルタントが常駐している他、GRブランド車の試乗車や、カスタマイズパーツなどを取りそろえている。試乗車に関しては、運営ディーラーが取り扱うベース車に準ずる。また独自にモータースポーツ活動を行っているGR Garageもある。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:GR_Garage_Shin-Osaka.jpg "wikilink") 「GR Garage（ジーアールガレージ）」は、「GR」ブランドの発足に合わせて全国のトヨタディーラーに設置された専門のカスタマイズとチューニングを行う専門店\[30\]。GRコンサルタントが常駐している他、GRブランド車の試乗車や、カスタマイズパーツなどを取りそろえている。試乗車に関しては、運営ディーラーが取り扱うベース車に準ずる。また独自にモータースポーツ活動を行っているGR Garageもある。
 
 2019年10月現在、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")・[岩手県](../Page/岩手県.md "wikilink")・[秋田県](../Page/秋田県.md "wikilink")・[福島県](../Page/福島県.md "wikilink")・[新潟県](../Page/新潟県.md "wikilink")・[山梨県](../Page/山梨県.md "wikilink")・[静岡県](../Page/静岡県.md "wikilink")・[岐阜県](../Page/岐阜県.md "wikilink")・[福井県](../Page/福井県.md "wikilink")・[和歌山県](../Page/和歌山県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")・[香川県](../Page/香川県.md "wikilink")・[高知県](../Page/高知県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[長崎県](../Page/長崎県.md "wikilink")・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[鹿児島県](../Page/鹿児島県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")の21県には、まだ「GR Garage」は所在しない。現行店舗に関しては、[GR Garage一覧](https://toyota.jp/gr/garage/)を参照。
 
@@ -279,5 +285,4 @@ GRが発売するアフターパーツ。車種によってパーツの種類に
 27. 型式指定車両。
 28. 型式指定車両(但し“17インチパッケージ”は持ち込み登録となる）。
 29. 子会社である[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")の[コペンとのコラボレーションモデル](../Page/ダイハツ・コペン.md "wikilink")。ダイハツ側でも追加モデルとして同時発売された。型式指定車両。なお、ダイハツ・コペンは他に3モデル（それぞれ2グレードづつ）を設定するが、トヨタでは「GR SPORT」のみ発売
-30. 「GR」初の専売車種であり、車名にも「GR」が冠される。他のGRブランドの車種は「車名+GR」となっているが、GRスープラはGRの専売であるため、「GR+車名」のネーミングが用いられ差別化されている。またGRスープラは、GRシリーズ初のグローバルモデルでもある。
-31. これに伴い、2012年より展開されてきたTOYOTA 86のカスタマイズとチューニングを行う専門店「AREA 86」は、「GR Garege」に移行した店舗を除き全店舗が閉店した。
+30. これに伴い、2012年より展開されてきたTOYOTA 86のカスタマイズとチューニングを行う専門店「AREA 86」は、「GR Garege」に移行した店舗を除き全店舗が閉店した。

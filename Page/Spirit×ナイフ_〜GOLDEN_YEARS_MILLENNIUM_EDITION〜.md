@@ -1,4 +1,4 @@
-> この記事は[Spirit GOLDEN YEARS MILLENNIUM EDITION](https://ja.wikipedia.org/wiki/Spirit_GOLDEN_YEARS_MILLENNIUM_EDITION)から翻訳されています。
+> この記事は[Spirit×ナイフ 〜GOLDEN YEARS MILLENNIUM EDITION〜](https://ja.wikipedia.org/wiki/Spirit×ナイフ_〜GOLDEN_YEARS_MILLENNIUM_EDITION〜)から翻訳されています。
 
 
 『**Spirit×ナイフ 〜GOLDEN YEARS MILLENNIUM EDITION〜**』（スピリット×ナイフ〜ゴールデンイヤーズ・ミレニアム・エディション〜）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")の6枚目の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

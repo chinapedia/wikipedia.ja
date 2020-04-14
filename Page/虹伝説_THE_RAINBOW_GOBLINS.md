@@ -1,4 +1,4 @@
-> この記事は[ THE RAINBOW GOBLINS](https://ja.wikipedia.org/wiki/_THE_RAINBOW_GOBLINS)から翻訳されています。
+> この記事は[虹伝説 THE RAINBOW GOBLINS](https://ja.wikipedia.org/wiki/虹伝説_THE_RAINBOW_GOBLINS)から翻訳されています。
 
 
 『**虹伝説 THE RAINBOW GOBLINS**』（にじでんせつ ザ・レインボウ・ゴブリンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1981年](../Page/1981年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")にリリースした7枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

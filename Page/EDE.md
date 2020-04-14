@@ -5,7 +5,7 @@
 
 ## 歴史
 
-Equinox（後に"Equinox Desktop Environment"と改称）は、[オープンソース](../Page/オープンソース.md "wikilink")のX Windows Systemのデスクトッププロジェクトで、[2000年](../Page/2000年.md "wikilink")にMartin Pekarによって始められた。[2002年](../Page/2002年.md "wikilink")9月にプロジェクトはSourceForgeに移っている\[2\]が、これは主にSourceForgeが[Subversion](https://ja.wikipedia.org/wiki/Subversion "wikilink")を[VCS](https://ja.wikipedia.org/wiki/VCS "wikilink")として提供しており、コンパイル環境を持つため、FLTKを他のプラットフォームでテストとすることができたからである。
+Equinox（後に"Equinox Desktop Environment"と改称）は、[オープンソース](../Page/オープンソース.md "wikilink")の[X Window Systemのデスクトッププロジェクトで](../Page/X_Window_System.md "wikilink")、[2000年](../Page/2000年.md "wikilink")にMartin Pekarによって始められた。[2002年](../Page/2002年.md "wikilink")9月にプロジェクトはSourceForgeに移っている\[2\]が、これは主にSourceForgeが[Subversion](https://ja.wikipedia.org/wiki/Subversion "wikilink")を[VCS](https://ja.wikipedia.org/wiki/VCS "wikilink")として提供しており、コンパイル環境を持つため、FLTKを他のプラットフォームでテストとすることができたからである。
 
 ## EDE 2
 

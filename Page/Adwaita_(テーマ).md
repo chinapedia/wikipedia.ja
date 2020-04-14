@@ -1,4 +1,4 @@
-> この記事は[Adwaita \(\)](https://ja.wikipedia.org/wiki/Adwaita_\(\))から翻訳されています。
+> この記事は[Adwaita \(テーマ\)](https://ja.wikipedia.org/wiki/Adwaita_\(テーマ\))から翻訳されています。
 
 
 [GNOME_Files_v3.34_(2019-09).png](https://ja.wikipedia.org/wiki/File:GNOME_Files_v3.34_\(2019-09\).png "fig:GNOME_Files_v3.34_(2019-09).png") **Adwaita**（アドワイタ）は、[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink")向けのテーマ。また、同名の[アイコン](../Page/アイコン.md "wikilink")のセットも存在する\[1\]。[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")において、バージョン3以降のデフォルトのテーマとなっている。

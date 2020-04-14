@@ -1,4 +1,4 @@
-> この記事は[Calico \(\)](https://ja.wikipedia.org/wiki/Calico_\(\))から翻訳されています。
+> この記事は[Calico \(企業\)](https://ja.wikipedia.org/wiki/Calico_\(企業\))から翻訳されています。
 
 
 **Calico LLC**は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[生物工学](../Page/生物工学.md "wikilink")の[研究開発](../Page/研究開発.md "wikilink")企業である。2013年9月18日にと[Google](../Page/Google.md "wikilink")の資金援助によって設立された。[老化](../Page/老化.md "wikilink")とそれに伴う[病気](../Page/病気.md "wikilink")を縮小、予防することが目的である\[1\]。Googleの2013年のFounders' Letterの中で、[Larry PageはCalicoを](../Page/ラリー・ペイジ.md "wikilink")「health, well-being, and longevity」にフォーカスした企業であると述べている。企業の名前は、「California Life Company」の[アクロニムとなっている](../Page/頭字語.md "wikilink")\[2\]\[3\]。

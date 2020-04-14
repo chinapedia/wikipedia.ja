@@ -26,6 +26,7 @@
   -
   - トイズファクトリー内レーベル（所属レーベル）
 
+  -
 [Category:プロジェクト](https://ja.wikipedia.org/wiki/Category:プロジェクト "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
 
 1.

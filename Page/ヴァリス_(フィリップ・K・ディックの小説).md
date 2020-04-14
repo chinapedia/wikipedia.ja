@@ -1,4 +1,4 @@
-> この記事は[ \(K\)](https://ja.wikipedia.org/wiki/_\(K\))から翻訳されています。
+> この記事は[ヴァリス \(フィリップ・K・ディックの小説\)](https://ja.wikipedia.org/wiki/ヴァリス_\(フィリップ・K・ディックの小説\))から翻訳されています。
 
 
 『**ヴァリス**』（**VALIS**）は、[1981年](../Page/1981年.md "wikilink")に発表された[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[小説](../Page/小説.md "wikilink")。

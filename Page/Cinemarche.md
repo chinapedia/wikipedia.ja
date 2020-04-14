@@ -21,6 +21,8 @@
 
 同年4月、[日本映画大学](https://ja.wikipedia.org/wiki/日本映画大学 "wikilink")の田辺秋守教授と[細野辰興](../Page/細野辰興.md "wikilink")教授（映画監督）、2名による記事連載を開始。
 
+2020年4月、「[FMたちかわ](https://ja.wikipedia.org/wiki/FMたちかわ "wikilink")」のパーソナリティ[藤田みさ](https://ja.wikipedia.org/wiki/藤田みさ "wikilink")のラジオ番組で映画紹介コーナー開始予定。
+
 ## シネマダイバー（執筆者）
 
 [大窪晶](https://ja.wikipedia.org/wiki/大窪晶 "wikilink")：インタビュー取材担当・主なインタビューイは、[三上博史](../Page/三上博史.md "wikilink")、[柄本明](../Page/柄本明.md "wikilink")、[榎木孝明](https://ja.wikipedia.org/wiki/榎木孝明 "wikilink")、[イッセー尾形](../Page/イッセー尾形.md "wikilink")。
@@ -65,11 +67,11 @@
 
 ## 主な雑誌・パンフレット・ネット・映像関連
 
-・「映画芸術」Cinemarche広告：副編集長[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の詩を掲載
+・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」Cinemarche広告：副編集長[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の詩を掲載
 
 ・ピーター・ジャクソン作品『彼らは生きていた』劇場公開応援コメント掲載：松平光冬
 
-・「映画芸術」ベスト&ワースト選出：編集長[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
+・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」ベスト&ワースト選出：編集長[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
 
 ・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』編集長 出町光識の映画レビュー（2020年2月7日劇場公開）
 

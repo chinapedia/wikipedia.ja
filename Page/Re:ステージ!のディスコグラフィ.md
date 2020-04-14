@@ -1,4 +1,4 @@
-> この記事は[Re:!](https://ja.wikipedia.org/wiki/Re:!)から翻訳されています。
+> この記事は[Re:ステージ!のディスコグラフィ](https://ja.wikipedia.org/wiki/Re:ステージ!のディスコグラフィ)から翻訳されています。
 
 
 **Re:ステージ\!のディスコグラフィ**では、『[Re:ステージ\!](https://ja.wikipedia.org/wiki/Re:ステージ! "wikilink")』シリーズの関連[CD](https://ja.wikipedia.org/wiki/CD "wikilink")、[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")、楽曲について記述する。レーベルはおもに[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
@@ -519,6 +519,138 @@
 :\#憧れFuture Sign / KiRaRe（アンコール）
 
 :\#Startin’ My Re:STAGE\!\! / 全員歌唱（アンコール）
+
+### Re:ステージ\! PRISM☆LIVE\!\! 3rd STAGE～Reflection～
+
+2020年4月1日に販売されたライブの映像作品。2019年11月17日に[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")で開催した「Re:ステージ\! PRISM☆LIVE\!\! 3rd STAGE～Reflection～」を映像化した[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")である。特典映像として舞台裏を収録したメイキング映像が含まれた。
+
+きゃにめではLIVE CDが限定特典として付属するほか、各法人別の購入特典が存在する。
+
+#### 昼の部
+
+お昼の部ではアニメで使用された楽曲を中心に29曲が収録された。
+
+  - 収録曲
+
+:\#Don’t think, スマイル\!\! ／KiRaRe
+
+:\#Yes, We Are\!\!\! ／オルタンシア
+
+:\#Lumiere ／トロワアンジュ
+
+:\#境界線 ／テトラルキア
+
+:\#Like the Sun, Like the Moon ／ステラマリス
+
+:\#ミライKeyノート ／式宮舞菜＆月坂紗由（KiRaRe）
+
+:\#ク・ルリラビー ／柊 かえ＆本城香澄（KiRaRe）
+
+:\#キライキライCЯY ／市杵島瑞葉＆長谷川みい（KiRaRe）
+
+:\#惑わしラプソディ ／一条瑠夏（ステラマリス）
+
+:\#あのね ／伊津村 紫（オルタンシア）
+
+:\#Glory Star ／岬 珊瑚（ステラマリス）
+
+:\#優しい風 ／白鳥天葉（トロワアンジュ）
+
+:\#Invisible Diamond ／城北玄刃（テトラルキア）
+
+:\#One Step Ahead ／西館ハク（テトラルキア）
+
+:\#ひと夜ひと夜にひとりごと ／市杵島瑞葉（KiRaRe）
+
+:\#ガジェットはプリンセス ／柊 かえ（KiRaRe）
+
+:\#ステレオライフ ／KiRaRe
+
+:\#せーので跳べって言ってんの！ ／本城香澄（KiRaRe）
+
+:\#InFiction ／ステラマリス
+
+:\#Silent Dystopia ／トロワアンジュ
+
+:\#Ambitious Pieces ／テトラルキア
+
+:\#ハッピータイフーン ／KiRaRe
+
+:\#Dears... ／トロワアンジュ
+
+:\#カナリア ／テトラルキア
+
+:\#Purple Rays ／オルタンシア
+
+:\#Brilliant Wings ／ステラマリス
+
+:\#OvertuRe: ／KiRaRe
+
+:\#67Days ／KiRaRe
+
+:\#憧れFuture Sign ／KiRaRe, オルタンシア, ステラマリス, トロワアンジュ, テトラルキア
+
+{{-}}
+
+#### 夜の部
+
+夜の部では昼の部で使用されなかった楽曲を中心に27曲が収録された。
+
+  - 収録曲
+
+:\#Stage of Star ／ステラマリス
+
+:\#リメンバーズ！ ／KiRaRe
+
+:\#君とインフィニティ ／オルタンシア
+
+:\#Heroic Spark ／テトラルキア
+
+:\#STORIA ／トロワアンジュ
+
+:\#WINTER JEWELS ‐SPECIAL UNIT‐／式宮舞菜 (KiRaRe), 月坂紗由 (KiRaRe),柊 かえ (KiRaRe), 伊津村 紫 (オルタンシア), 岬 珊瑚 (ステラマリス), 西館ハク (テトラルキア)
+
+:\#Desert Black Flower ／式宮碧音（ステラマリス）
+
+:\#Skip ／緋村那岐咲（トロワアンジュ）
+
+:\#Twin Moon ／帆風 奏（トロワアンジュ）
+
+:\#Flavor Youth ／坂東美久龍（テトラルキア）
+
+:\#T.A.I.YOU ／南風野朱莉（テトラルキア）
+
+:\#アイノウ・アイノウ ／伊津村陽花（オルタンシア）
+
+:\#Blooming, Blooming\! ／式宮舞菜（KiRaRe）
+
+:\#ロケット ／月坂紗由（KiRaRe）
+
+:\#ミライKeyノート ／本城香澄（KiRaRe）
+
+:\#For you\! For みい\! ／長谷川みい（KiRaRe）
+
+:\#月影のトロイメライ ／トロワアンジュ
+
+:\#Seventeen Feels ／テトラルキア
+
+:\#Time and Space ／ステラマリス
+
+:\#宣誓センセーション ／KiRaRe
+
+:\#Sinfonia ／トロワアンジュ
+
+:\#Fearless Girl ／テトラルキア
+
+:\#恋はフュージョン ／ステラマリス
+
+:\#キラメキFuture ／KiRaRe
+
+:\#Dear マイフレンド ／オルタンシア
+
+:\#Don’t think, スマイル\!\! ／KiRaRe
+
+:\#ハッピータイフーン ／KiRaRe, オルタンシア, ステラマリス, トロワアンジュ, テトラルキア
 
 ## ミュージックビデオ
 

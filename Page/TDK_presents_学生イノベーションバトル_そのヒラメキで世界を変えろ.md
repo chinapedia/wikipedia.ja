@@ -1,4 +1,4 @@
-> この記事は[TDK presents  ](https://ja.wikipedia.org/wiki/TDK_presents__)から翻訳されています。
+> この記事は[TDK presents 学生イノベーションバトル そのヒラメキで世界を変えろ](https://ja.wikipedia.org/wiki/TDK_presents_学生イノベーションバトル_そのヒラメキで世界を変えろ)から翻訳されています。
 
 
 『**TDK presents 学生イノベーションバトル そのヒラメキで世界を変えろ**』（ティーディーケープレゼンツ がくせいイノベーションバトル そのヒラメキでせかいをかえろ）は、[2019年](../Page/2019年.md "wikilink")12月7日より[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")で配信されているバラエティー番組、ドキュメンタリー番組\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[ \(KANA-BOON\)](https://ja.wikipedia.org/wiki/_\(KANA-BOON\))から翻訳されています。
+> この記事は[ハグルマ \(KANA-BOONの曲\)](https://ja.wikipedia.org/wiki/ハグルマ_\(KANA-BOONの曲\))から翻訳されています。
 
 
 「**ハグルマ**」は、[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")の楽曲で、メジャー12枚目\[1\]の[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[Ki/oon Musicより発売された](../Page/キューンミュージック.md "wikilink")。

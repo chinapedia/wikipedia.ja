@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[ミェンダーレンIF](https://ja.wikipedia.org/wiki/ミェンダーレンIF)から翻訳されています。
 
 
 **ミェンダーレンIF**（）は、[ノルウェー](../Page/ノルウェー.md "wikilink")の[ブスケルー県](../Page/ブスケルー県.md "wikilink") Nedre Eiker のをホームタウンとするスポーツクラブである。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部門、[バンディ](../Page/バンディ.md "wikilink")部門などが存在する\[1\]。

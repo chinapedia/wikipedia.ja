@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[サイクリンD](https://ja.wikipedia.org/wiki/サイクリンD)から翻訳されています。
 
 
 **サイクリンD**（）は、[細胞周期](../Page/細胞周期.md "wikilink")の進行を調節する[サイクリン](../Page/サイクリン.md "wikilink")ファミリーのメンバーである。サイクリンDの合成は[G<sub>1</sub>期に開始され](../Page/G1期.md "wikilink")、を駆動する。サイクリンD[タンパク質](../Page/タンパク質.md "wikilink")は生物種によって、155アミノ酸（）から477アミノ酸（[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")）とさまざまである\[1\]。

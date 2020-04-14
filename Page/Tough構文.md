@@ -1,4 +1,4 @@
-> この記事は[Tough](https://ja.wikipedia.org/wiki/Tough)から翻訳されています。
+> この記事は[Tough構文](https://ja.wikipedia.org/wiki/Tough構文)から翻訳されています。
 
 
 英語の形式的[統語論](../Page/統語論.md "wikilink")において、**tough構文** () 、あるいは**複合形容詞句構造**() とは、[遡及不定詞](https://ja.wikipedia.org/wiki/遡及不定詞 "wikilink")()とよばれる不定詞用法の内の一つであり、次に示す例文のように[主節](https://ja.wikipedia.org/wiki/主節 "wikilink")の動詞の構造上の主語が、論理的には従属節の不定詞の目的語となっている構文を指す。

@@ -1,4 +1,4 @@
-> この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
+> この記事は[ヤングアニマルZERO](https://ja.wikipedia.org/wiki/ヤングアニマルZERO)から翻訳されています。
 
 
 『**ヤングアニマルZERO**』（ヤングアニマルゼロ）は、[白泉社](../Page/白泉社.md "wikilink")の発行する隔月刊の青年漫画雑誌。2019年9月9日に創刊。

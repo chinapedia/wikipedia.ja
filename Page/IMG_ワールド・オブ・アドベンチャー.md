@@ -1,4 +1,4 @@
-> この記事は[IMG ](https://ja.wikipedia.org/wiki/IMG_)から翻訳されています。
+> この記事は[IMG ワールド・オブ・アドベンチャー](https://ja.wikipedia.org/wiki/IMG_ワールド・オブ・アドベンチャー)から翻訳されています。
 
 
 **IMG ワールド・オブ・アドベンチャー** (*IMG Worlds of Adventure*) とは、[2016年](../Page/2016年.md "wikilink")に[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")[ドバイ](../Page/ドバイ.md "wikilink")にある[テーマパーク](../Page/テーマパーク.md "wikilink")である。

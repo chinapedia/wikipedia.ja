@@ -1,4 +1,4 @@
-> この記事は[VIII](https://ja.wikipedia.org/wiki/VIII)から翻訳されています。
+> この記事は[ロールス・ロイス・ファントムVIII](https://ja.wikipedia.org/wiki/ロールス・ロイス・ファントムVIII)から翻訳されています。
 
 
 **ファントムVIII**（*Phantom VIII* ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカーである[ロールス・ロイス・モーター・カーズ](https://ja.wikipedia.org/wiki/ロールス・ロイス・モーター・カーズ "wikilink")が製造・販売する[高級車](../Page/高級車.md "wikilink")である。

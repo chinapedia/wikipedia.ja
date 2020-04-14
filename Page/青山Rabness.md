@@ -1,4 +1,4 @@
-> この記事は[Rabness](https://ja.wikipedia.org/wiki/Rabness)から翻訳されています。
+> この記事は[青山Rabness](https://ja.wikipedia.org/wiki/青山Rabness)から翻訳されています。
 
 
 **青山Rabness**（あおやま ラビネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。[2020年](../Page/2020年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")にデビュー\[1\]する。「あなたのままでアイドルになろう」をコンセプトとして活動している。\[2\]

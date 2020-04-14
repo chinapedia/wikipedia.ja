@@ -1,4 +1,4 @@
-> この記事は[SiamDream](https://ja.wikipedia.org/wiki/SiamDream)から翻訳されています。
+> この記事は[Siam☆Dream](https://ja.wikipedia.org/wiki/Siam☆Dream)から翻訳されています。
 
 
 **Siam☆Dream**（サイアム☆ドリーム）は[タイ](../Page/タイ王国.md "wikilink")・[バンコク](../Page/バンコク.md "wikilink")を拠点に活動する日本人とタイ人が混合するアイドルグループ。所属はSiamdol。

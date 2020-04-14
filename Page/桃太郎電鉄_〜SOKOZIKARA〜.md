@@ -1,4 +1,4 @@
-> この記事は[ SOKOZIKARA](https://ja.wikipedia.org/wiki/_SOKOZIKARA)から翻訳されています。
+> この記事は[桃太郎電鉄 〜SOKOZIKARA〜](https://ja.wikipedia.org/wiki/桃太郎電鉄_〜SOKOZIKARA〜)から翻訳されています。
 
 
 『**桃太郎電鉄 〜SOKOZIKARA〜**』は、1999年12月8日に発売された[サウンドトラック](../Page/サウンドトラック.md "wikilink")[CD](../Page/コンパクトディスク.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")のサウンドトラックCDの一つである。

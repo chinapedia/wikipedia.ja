@@ -1,4 +1,4 @@
-> この記事は[NHKSHIBUYA](https://ja.wikipedia.org/wiki/NHKSHIBUYA)から翻訳されています。
+> この記事は[NHKプラスクロスSHIBUYA](https://ja.wikipedia.org/wiki/NHKプラスクロスSHIBUYA)から翻訳されています。
 
 
 **NHKプラスクロスSHIBUYA**（エヌエイチケイプラスクロスしぶや）は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の公開施設である。[2019年](../Page/2019年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に開業した[渋谷スクランブルスクエア](https://ja.wikipedia.org/wiki/渋谷スクランブルスクエア "wikilink")東棟の14階に所在する。ロゴにおける表記は「NHK＋×SHIBUYA」。

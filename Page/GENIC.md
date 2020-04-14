@@ -37,9 +37,27 @@
 
 1月12日　**SWISH New Year SP**に出演。\[20\]
 
+2月～4月　開催予定だった一部公演が[新型コロナウイルスによる影響で](../Page/2019新型コロナウイルス.md "wikilink")**中止**、**自粛**、**出演辞退**となった。
+
+【自粛】「**Da-iCE BEST TOUR 2020 -SPECIAL EDITION-** 」オープニングアクト\[21\]
+
+【中止】「**GENIC Live Circuit 2020**」（大阪\[22\]、岡山\[23\]、福島\[24\]、神奈川\[25\]公演）、「**SWISH TOUR 2020～Spring Edition～**\[26\]」
+
+【出演辞退】「**VUENOS SWISH**\[27\]」
+
+3月4日　GENIC初のライブツアー、『**GENIC LIVE TOUR 2020(仮)**』が開催決定\[28\]
+
+3月27日　新曲「**BURNIN' BURNIN**'」がドラマ＆舞台連動プロジェクト「KING OF DANCE」主題歌に決定\[29\]
+
+3月29日　「**GENIC Live Circuit 2020 -Final- on YouTube**」を放送。本来であればラゾーナ川崎にてファイナルを迎えるはずだったが、中止となったためライブ配信という形に変えて"ファイナル"とした。\[30\]
+
+放送中には重大発表として、以前から告知されていたGENICのデビューアルバムの名称が『**GENEX**』に決定したことが発表された。アルバムの詳細内容も発表となり、5月27日にリリースとなる。\[31\]
+
+そしてGENIC初のライブツアーの名称が『**GENIC LIVE TOUR 2020 -GENEX-**』に決定したこと、チケット売り切れ続出による追加公演の決定も発表された。\[32\]
+
 ## メンバー
 
-公式サイトにおけるプロフィール\[21\]、過去の実績をもとに記述。
+公式サイトにおけるプロフィール\[33\]、過去の実績をもとに記述。
 
 <table>
 <thead>
@@ -108,18 +126,48 @@
 
 ## ディスコグラフィー
 
+### オリジナルアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>形態</p></th>
+<th><p>品番</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><small>1st</small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">2020年</a><a href="../Page/4月8日.md" title="wikilink">5月27日</a></small></p></td>
+<td><p><strong>GENEX</strong></p></td>
+<td><p><small>CD+DVD+PHOTOBOOK</small> <small>CD+Blu-ray+PHOTOBOOK</small></p>
+<p><small>CD+DVD</small></p>
+<p><small>CD+Blu-ray</small></p>
+<p><small>CD</small></p></td>
+<td><p><small>AVCD-96513/B</small></p>
+<p><small>AVCD-96514/B</small></p>
+<p><small>AVCD-96515/B</small></p>
+<p><small>AVCD-96516/B</small></p>
+<p><small>AVCD-96517</small></p></td>
+</tr>
+</tbody>
+</table>
+
 ### デジタル・ミニアルバム
 
-| 発売日                                                                        | タイトル                   | 販売形態                   |
+| 発売日                                                                        | タイトル                   | 形態                     |
 | -------------------------------------------------------------------------- | ---------------------- | ---------------------- |
-| [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[22\]  | サブスクリプション音楽ストリーミングサービス |
-| [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[23\] | サブスクリプション音楽ストリーミングサービス |
+| [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[34\]  | サブスクリプション音楽ストリーミングサービス |
+| [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[35\] | サブスクリプション音楽ストリーミングサービス |
 
 ## 脚注
 
 ## 外部リンク
 
-  - **[GENIC](https://avex.jp/genic/profile/)**-公式サイト
+  - **[GENIC](https://avex.jp/genic/)**-公式サイト
   - **[a-genic PROJECT](https://www.youtube.com/channel/UCvCtSa1pWNTC0GnnkhbJw-w)**-オフィシャルYouTubeチャンネル
   - **[GENIC avex managemant](https://avex-management.jp/artists/artist/genic)** -紹介ページ
   - Twitter
@@ -164,6 +212,18 @@
 18.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1079466|website=「Da-iCE](http://avex.jp/genic/news/detail.php?id=1079466%7Cwebsite=「Da-iCE) BEST TOUR 2020 -SPECIAL EDITION- 」オープニングアクト出演決定！ - NEWS {{\!}}|accessdate=2020-01-18|language=ja}}
 19.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1080221|website=金谷鞠杏「CECIL](http://avex.jp/genic/news/detail.php?id=1080221%7Cwebsite=金谷鞠杏「CECIL) McBEE」2020春のビジュアルモデルに決定！ - NEWS {{\!}}|accessdate=2020-01-18|language=ja}}
 20.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1078521|website=2020年1月12日(日)「SWISH](http://avex.jp/genic/news/detail.php?id=1078521%7Cwebsite=2020年1月12日\(日\)「SWISH) New Year SP」出演決定！ - NEWS {{\!}}|accessdate=2020-01-18|language=ja}}
-21.
-22.
-23.
+21.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1080283\&c=media|website=【開催自粛](http://avex.jp/genic/live/live.php?id=1080283&c=media%7Cwebsite=【開催自粛)】「Da-iCE BEST TOUR 2020 -SPECIAL EDITION- 」オープニングアクト - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+22.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1081496\&c=media|website=【中止](http://avex.jp/genic/live/live.php?id=1081496&c=media%7Cwebsite=【中止)】「GENIC Live Circuit 2020」あべのキューズモール 3Fスカイコート（大阪） - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+23.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1081497\&c=media|website=【中止](http://avex.jp/genic/live/live.php?id=1081497&c=media%7Cwebsite=【中止)】「GENIC Live Circuit 2020」アリオ倉敷 1F屋外イベントステージ（岡山） - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+24.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1081498\&c=media|website=【中止](http://avex.jp/genic/live/live.php?id=1081498&c=media%7Cwebsite=【中止)】「GENIC Live Circuit 2020」イオンタウン郡山 イベント広場（福島） - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+25.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1081499\&c=media|website=【中止](http://avex.jp/genic/live/live.php?id=1081499&c=media%7Cwebsite=【中止)】「GENIC Live Circuit 2020」ラゾーナ川崎プラザ 2F ルーファ広場 グランドステージ（神奈川） - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+26.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1080796\&c=media|website=【中止](http://avex.jp/genic/live/live.php?id=1080796&c=media%7Cwebsite=【中止)】『SWISH TOUR 2020～Spring Edition～』 - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+27.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/live/live.php?id=1080655\&c=media|website=【出演辞退](http://avex.jp/genic/live/live.php?id=1080655&c=media%7Cwebsite=【出演辞退)】「VUENOS SWISH」 - LIVE {{\!}}|accessdate=2020-03-29|language=ja}}
+28.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1081431|website=GENIC初のライブツアー](http://avex.jp/genic/news/detail.php?id=1081431%7Cwebsite=GENIC初のライブツアー)、『GENIC LIVE TOUR 2020(仮)』開催決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
+29.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082539|website=新曲「BURNIN](http://avex.jp/genic/news/detail.php?id=1082539%7Cwebsite=新曲「BURNIN)' BURNIN'」がドラマ＆舞台連動プロジェクト「KING OF DANCE」主題歌に決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
+30.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082401|website=GENICライブ生配信放送決定](http://avex.jp/genic/news/detail.php?id=1082401%7Cwebsite=GENICライブ生配信放送決定)！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
+31.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082558|website=GENIC](http://avex.jp/genic/news/detail.php?id=1082558%7Cwebsite=GENIC) Debut Album『GENEX』5月27日(水)リリース決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
+32.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082582|website=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC](http://avex.jp/genic/news/detail.php?id=1082582%7Cwebsite=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC) LIVE TOUR 2020 -GENEX-』に決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
+33.
+34.
+35.

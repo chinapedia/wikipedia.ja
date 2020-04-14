@@ -1,4 +1,4 @@
-> この記事は[Alone \(\)](https://ja.wikipedia.org/wiki/Alone_\(\))から翻訳されています。
+> この記事は[Alone \(高中正義のアルバム\)](https://ja.wikipedia.org/wiki/Alone_\(高中正義のアルバム\))から翻訳されています。
 
 
 『**alone**』（アローン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1981年](../Page/1981年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")にリリースした8枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

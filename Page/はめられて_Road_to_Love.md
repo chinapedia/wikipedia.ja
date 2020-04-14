@@ -1,4 +1,4 @@
-> この記事は[ Road to Love](https://ja.wikipedia.org/wiki/_Road_to_Love)から翻訳されています。
+> この記事は[はめられて Road to Love](https://ja.wikipedia.org/wiki/はめられて_Road_to_Love)から翻訳されています。
 
 
 『**はめられて Road to Love**』（はめられて ロード トゥ ラブ）は、[横山翔一](https://ja.wikipedia.org/wiki/横山翔一 "wikilink")監督の[日本映画](../Page/日本映画.md "wikilink")。略称は「はめロー」。
@@ -65,7 +65,7 @@
 ## 音楽
 
   - オープニング曲
-    「RTH」Rtype Qualia
+    「RTH」Btype Qualia
   - 挿入歌
     「Monday -Start Over-」TETSUNO
   - エンディング曲

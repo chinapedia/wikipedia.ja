@@ -1,4 +1,4 @@
-> この記事は[MOMO \(\)](https://ja.wikipedia.org/wiki/MOMO_\(\))から翻訳されています。
+> この記事は[MOMO \(ロケット\)](https://ja.wikipedia.org/wiki/MOMO_\(ロケット\))から翻訳されています。
 
 
 **MOMO**は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の民間企業[インターステラテクノロジズ](https://ja.wikipedia.org/wiki/インターステラテクノロジズ "wikilink")により開発された、同社初の商業ロケットである。名称は目標の高度100kmを[漢数字](https://ja.wikipedia.org/wiki/漢数字 "wikilink")にした「百」の読み方に由来する\[1\]。[2017年](../Page/2017年.md "wikilink")7月30日に初打ち上げが行われ、[2019年](../Page/2019年.md "wikilink")5月4日、MOMO3号機が日本初の民間単独による宇宙空間到達に成功した\[2\]。

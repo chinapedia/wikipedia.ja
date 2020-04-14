@@ -1,4 +1,4 @@
-> この記事は[ATEN](https://ja.wikipedia.org/wiki/ATEN)から翻訳されています。
+> この記事は[ATENジャパン](https://ja.wikipedia.org/wiki/ATENジャパン)から翻訳されています。
 
 
 **ATENジャパン株式会社** (エイテンジャパン)は、KVMスイッチやビデオ製品、電源関連製品などを製造している [ATEN International Co., Ltdの日本法人として](https://ja.wikipedia.org/wiki/:en:ATEN_International "wikilink")2004年に設立され、東京、大阪、福岡に拠点を持つ電気機器メーカーである。KVMスイッチ分野のシェアは世界首位、本社 [ATEN International Co., Ltdは台湾証券取引所にて](https://ja.wikipedia.org/wiki/:en:ATEN_International "wikilink")2003年に上場している（TWSE: 6277）。

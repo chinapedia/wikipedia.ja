@@ -7,9 +7,11 @@
 
 [EXILE THE SECOND初の配信シングル](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")。「[Ain't Afraid To Die](../Page/Ain't_Afraid_To_Die_\(EXILE_THE_SECONDの曲\).md "wikilink")」と2曲同時配信で、映画『[HiGH\&LOW THE WORST](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜#HiGH&LOW_THE_WORST "wikilink")』公開日に配信開始となった\[2\]。
 
+2020年2月22日発売のアルバム『[EXILE THE SECOND THE BEST](../Page/EXILE_THE_SECOND_THE_BEST.md "wikilink")』がCD初収録となった\[3\]。
+
 ## メディアでの使用
 
-  - 映画『HiGH\&LOW THE WORST』劇中歌\[3\]
+  - 映画『HiGH\&LOW THE WORST』劇中歌\[4\]
 
 ## 収録曲
 
@@ -27,3 +29,4 @@
 1.
 2.
 3.
+4.

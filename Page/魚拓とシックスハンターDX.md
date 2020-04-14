@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[魚拓とシックスハンターDX](https://ja.wikipedia.org/wiki/魚拓とシックスハンターDX)から翻訳されています。
 
 
 **魚拓とシックスハンターDX 〜メガセクシーバトル〜**（ぎょたくとしっくすはんたーでらっくす めがせくしーばとる）は、[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送されている[パチスロ番組](../Page/パチンコ・パチスロ番組.md "wikilink")。放送時間は[金曜日](../Page/金曜日.md "wikilink")の25:00 - 25:30。

@@ -1,4 +1,4 @@
-> この記事は[LAB](https://ja.wikipedia.org/wiki/LAB)から翻訳されています。
+> この記事は[パチンコLAB](https://ja.wikipedia.org/wiki/パチンコLAB)から翻訳されています。
 
 
 **パチンコLAB**（ぱちんこらぼ）は、[2012年](../Page/2012年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")で放送されている[パチンコ番組](../Page/パチンコ・パチスロ番組.md "wikilink")。初回放送は、土曜日（不定期）の8:00 - 9:00。

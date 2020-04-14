@@ -1,4 +1,4 @@
-> この記事は[TREBOL](https://ja.wikipedia.org/wiki/TREBOL)から翻訳されています。
+> この記事は[同志社大学フットサルクラブTREBOL](https://ja.wikipedia.org/wiki/同志社大学フットサルクラブTREBOL)から翻訳されています。
 
 
 **同志社大学フットサルクラブTREBOL**（どうししゃだいがくフットサルクラブとれぼる）は、[同志社大学](../Page/同志社大学.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。2002年創部は。同志社大学公認団体。

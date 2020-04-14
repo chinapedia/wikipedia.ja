@@ -1,4 +1,4 @@
-> この記事は[NOW \(girugamesh\)](https://ja.wikipedia.org/wiki/NOW_\(girugamesh\))から翻訳されています。
+> この記事は[NOW \(girugameshのアルバム\)](https://ja.wikipedia.org/wiki/NOW_\(girugameshのアルバム\))から翻訳されています。
 
 
 『**NOW**』（ナウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")・[girugamesh](https://ja.wikipedia.org/wiki/girugamesh "wikilink")の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である。[2009年](../Page/2009年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[デンジャークルー・レコード](../Page/デンジャークルー・レコード.md "wikilink")から発売された。

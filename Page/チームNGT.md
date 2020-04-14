@@ -1,4 +1,4 @@
-> この記事は[NGT](https://ja.wikipedia.org/wiki/NGT)から翻訳されています。
+> この記事は[チームNGT](https://ja.wikipedia.org/wiki/チームNGT)から翻訳されています。
 
 
 **チームNGT**（チームエヌジーティー）は、山口県[長門市](../Page/長門市.md "wikilink")役所職員の有志が2012年（平成24年）4月に結成した、地元産食材を活用した食の地域づくり団体。
@@ -39,7 +39,7 @@ NGTはNaGaToの意味。
 
 2017年からは「JAL向津具ダブルマラソン」において、出場選手に「長州どりのカレー」を提供している。
 
-2018年3月21日に行われたイベント「仙崎のまち　イタリア化計画」のために、「ミートソースやきそば」を開発。 [Meatasouce.jpg](https://ja.wikipedia.org/wiki/File:Meatasouce.jpg "fig:Meatasouce.jpg")
+2018年3月21日に行われたイベント「仙崎のまち　イタリア化計画」のために、「ミートソースやきそば」を開発。
 
 2018年5月　道の駅[センザキッチン](https://ja.wikipedia.org/wiki/センザキッチン "wikilink")のダイニング棟にて、「ながチキ」の販売開始。
 

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ヨーゼフ・H・ノイマン](https://ja.wikipedia.org/wiki/ヨーゼフ・H・ノイマン)から翻訳されています。
 
 
 **ヨーゼフ・H・ノイマン** （\* [27。](../Page/5月27日.md "wikilink") [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") [5](../Page/5月27日.md "wikilink") [月](https://ja.wikipedia.org/wiki/1953年 "wikilink") 、 [ライン川で](https://ja.wikipedia.org/wiki/ライネ_\(ミュンスターラント\) "wikilink") ）ドイツの[写真家](../Page/写真家.md "wikilink") 、 写真である。 メディアデザイナー 、フォトアーティスト、フォトジャーナリスト、 美術史家 。

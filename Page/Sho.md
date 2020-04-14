@@ -1,6 +1,14 @@
 > この記事は[Sho](https://ja.wikipedia.org/wiki/Sho)から翻訳されています。
 
 
+**Sho**（ショウ、本名: **土屋 翔**、[1984年](../Page/1984年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[サウンドプロデューサー](https://ja.wikipedia.org/wiki/サウンドプロデューサー "wikilink")である。[MY FIRST STORYのギター担当である](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")。2015年末から、同バンドで無期限活動休止をしている。
+
+## 経歴
+
+  - 2011年8月、MY FIRST STORYを結成\[1\]。
+  - 2015年10月9日、MY FIRST STORYとしてライブ活動休止を発表。
+  - 2019年2月、MY FIRST STORYファンクラブ限定ツアー「STORYTELLER TOUR 2019」で限定復活した。
+
 ## プロフィール
 
 MY FIRST STORYのGuitar、サウンドプロデュースを担当。
@@ -230,3 +238,7 @@ PlayStation 4・Xbox One・PC用ソフト「DEVIL MAY CRY 5」イメージソン
 発売日：未発売
 
 [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")
+
+## 脚注
+
+1.

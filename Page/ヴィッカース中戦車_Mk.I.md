@@ -1,4 +1,4 @@
-> この記事は[ Mk.I](https://ja.wikipedia.org/wiki/_Mk.I)から翻訳されています。
+> この記事は[ヴィッカース中戦車 Mk.I](https://ja.wikipedia.org/wiki/ヴィッカース中戦車_Mk.I)から翻訳されています。
 
 
 **ヴィッカース中戦車 Mk.I**とは[戦間期](../Page/戦間期.md "wikilink")に[ヴィッカース](../Page/ヴィッカース.md "wikilink")によって作られた[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")である。

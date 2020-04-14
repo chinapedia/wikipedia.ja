@@ -1,4 +1,4 @@
-> この記事は[AURORA \(\)](https://ja.wikipedia.org/wiki/AURORA_\(\))から翻訳されています。
+> この記事は[AURORA \(歌手\)](https://ja.wikipedia.org/wiki/AURORA_\(歌手\))から翻訳されています。
 
 
 **アウロラ・アクスネス**（Aurora Aksnes、[1996年](../Page/1996年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")- ）は、[ノルウェー](../Page/ノルウェー.md "wikilink")の歌手、作詞作曲家、音楽プロデューサーである。**AURORA**（で表記される）としてで呼ばれている\[1\]。[スタヴァンゲル](../Page/スタヴァンゲル.md "wikilink")生まれ。2015年に[デッカ・レコード](../Page/デッカ・レコード.md "wikilink")からデビュー作EP『』を発表した\[2\]。その年のうちにのためのバックトラックを提供し、[オアシスの楽曲](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")「」をカバーした。19歳の時、2015年[ノーベル平和賞コンサート](https://ja.wikipedia.org/wiki/ノーベル平和賞コンサート "wikilink")でパフォーマンスを行った。

@@ -1,4 +1,4 @@
-> この記事は[CT4](https://ja.wikipedia.org/wiki/CT4)から翻訳されています。
+> この記事は[キャデラック・CT4](https://ja.wikipedia.org/wiki/キャデラック・CT4)から翻訳されています。
 
 
 **CT4**は、[GMが製造し](../Page/ゼネラルモーターズ.md "wikilink")、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売している自動車である。

@@ -1,4 +1,4 @@
-> この記事は[GNU](https://ja.wikipedia.org/wiki/GNU)から翻訳されています。
+> この記事は[GNUの派生](https://ja.wikipedia.org/wiki/GNUの派生)から翻訳されています。
 
 
 **GNUの派生**（**GNU ディストリビューション**または**GNU ディストロ**とも呼ばれる）は、[GNU](../Page/GNU.md "wikilink") [OS](../Page/OS.md "wikilink")（[Hurd](https://ja.wikipedia.org/wiki/Hurd "wikilink")カーネル、GNU Cライブラリ、システムライブラリ、GNU Coreutils、[bash](https://ja.wikipedia.org/wiki/bash "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[GNU Guixなど](../Page/GNU_Guix.md "wikilink")）をベースとした[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である\[1\]\[2\]\[3\]\[4\]\[5\]。GMUプロジェクトによると、これには[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")を使うオペレーティングシステムの大部分と、多少の[BSD](../Page/BSD.md "wikilink")ベースのカーネルを使うオペレーティングシステムが含まれる\[6\]\[7\]。

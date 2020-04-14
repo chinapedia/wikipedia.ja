@@ -1,4 +1,4 @@
-> この記事は[Maya \(\)](https://ja.wikipedia.org/wiki/Maya_\(\))から翻訳されています。
+> この記事は[Maya \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Maya_\(ミュージシャン\))から翻訳されています。
 
 
 **maya**（マァヤ、[1979年](../Page/1979年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[LM.C](../Page/LM.C.md "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[長野県](../Page/長野県.md "wikilink")出身。

@@ -1,4 +1,4 @@
-> この記事は[+ o+h](https://ja.wikipedia.org/wiki/+_o+h)から翻訳されています。
+> この記事は[大西麻貴+百田有希 o+h](https://ja.wikipedia.org/wiki/大西麻貴+百田有希_o+h)から翻訳されています。
 
 
 **大西麻貴+百田有希 o+h**（おおにしまき＋ひゃくだゆうき o+h、英称：）は、日本の建築設計ユニット。一級建築士事務所 大西麻貴＋百田有希 / o+hは[東京都](../Page/東京都.md "wikilink")[中央区にある](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")。建築設計を中心に、[インスタレーション](../Page/インスタレーション.md "wikilink")や[まちづくり](../Page/まちづくり.md "wikilink")まで様々な活動に取り組む。

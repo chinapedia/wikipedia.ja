@@ -10,7 +10,6 @@
 グループ名最後のピリオドは「このグループでやり切ってアイドル活動最後にしよう」という思いがある。\[1\]
 メンバーの雀ネオン、節子、椛ゆいが作詞、浅川ももが振り付けを手掛ける\[2\]
 楽曲のタイトルには[カクテル](../Page/カクテル.md "wikilink")の名前が付けられている。
-2020年2月10日に浅川ももの除籍を公式Twitterアカウントから発表。
 
 ## 来歴
 
@@ -20,6 +19,9 @@
   - 1月3日 - 名古屋最大規模のサーキットイベント[「でらロックフェスティバル2020」](https://ja.wikipedia.org/wiki/「でらロックフェスティバル2020」 "wikilink")に出演決定。\[4\]
   - 1月18日 - デビュー時にお披露目した楽曲RED EYE、Emerald Mist、X.Y.Zの配信開始。
   - 2月10日 - 浅川ももの除籍を発表。理由は不明。\[5\]
+  - 2月25日 - 椛ゆいの脱退を発表。\[6\]
+  - 2月25日 - 新メンバー桃白みずきの加入を発表。\[7\]
+  - 3月1日 - きらの除籍を発表。\[8\]
 
 ## メンバー
 
@@ -45,7 +47,7 @@
 <small>ねね</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
-<td><p>グループ最年少。趣味<a href="../Page/パチスロ.md" title="wikilink">パチスロ</a>。</p></td>
+<td><p>趣味<a href="../Page/パチスロ.md" title="wikilink">パチスロ</a>、特技大食い。メンバー1の美脚。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>節子</strong><br />
@@ -62,18 +64,11 @@
 <td><p>メガネ担当。グッズのデザインなどにも携わる。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>椛ゆい</strong><br />
-<small>もみじ ゆい</small></p></td>
-<td><p><a href="../Page/6月9日.md" title="wikilink">6月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
-<td><p>特技は占い。<a href="https://ja.wikipedia.org/wiki/大森靖子" title="wikilink">大森靖子</a>信者。楽曲「Emerald Mist」を作詞。</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>きら</strong><br />
-<small>きら</small></p></td>
-<td><p><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
-<td><p>メンバー最高身長。天然キャラ。</p></td>
+<td><p><strong>桃白みずき</strong><br />
+<small>ももしろ みずき</small></p></td>
+<td><p><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p>メンバー最年少。特技ダンス。趣味お菓子作り。</p></td>
 </tr>
 </tbody>
 </table>
@@ -86,16 +81,26 @@
 <th><p>名前</p></th>
 <th><p>誕生日</p></th>
 <th><p>出身地</p></th>
-<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong>浅川もも</strong><br />
 <small>あさかわ もも</small></p></td>
-<td><p><a href="../Page/12月30日.md" title="wikilink">12月30日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p>2020年2月10日 運営公式Twitterより除籍を発表。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>椛ゆい</strong><br />
+<small>もみじ ゆい</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
+<td><p>2020年2月25日 運営公式Twitterより脱退を発表。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>きら</strong><br />
+<small>きら</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
+<td><p>2020年3月1日 運営公式Twitterより除籍を発表。</p></td>
 </tr>
 </tbody>
 </table>
@@ -112,15 +117,15 @@
 
 ### 2020年
 
-  - 1月1日 - The beginning of everything（[名古屋](../Page/名古屋.md "wikilink")・TOYS）\[6\]
-  - 2月1日 - でらロックフェスティバル2020（[名古屋](../Page/名古屋.md "wikilink")・CLUB Zion）\[7\]
+  - 1月1日 - The beginning of everything（[名古屋](../Page/名古屋.md "wikilink")・TOYS）\[9\]
+  - 2月1日 - でらロックフェスティバル2020（[名古屋](../Page/名古屋.md "wikilink")・CLUB Zion）\[10\]
   - 2月11日 - MUSIC TERRACE（[名古屋](../Page/名古屋.md "wikilink")・伏見ライオンシアター）
 
 ## 出演作品
 
 ### 2020年
 
-  - 2月3日 - ふらくらMAX\!（[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")）\[8\]
+  - 2月3日 - ふらくらMAX\!（[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")）\[11\]
 
 ## 脚注
 
@@ -131,6 +136,9 @@
 3.  <https://twitter.com/20191117mnt/status/1212141006444883968?s=20>
 4.  <https://twitter.com/20191117mnt/status/1213022879173894145?s=20>
 5.  <https://twitter.com/20191117mnt/status/1226701774955794434?s=20>
-6.  <https://www.eventernote.com/events/236268>
-7.  <http://derarockfes.radcreation.jp/>
-8.  <https://live2.nicovideo.jp/watch/lv324133715>
+6.  <https://twitter.com/20191117mnt/status/1232259420769280000>
+7.  <https://twitter.com/momoshiromizuki/status/1232770520833150976>
+8.  <https://twitter.com/20191117mnt/status/1233948633357176832>
+9.  <https://www.eventernote.com/events/236268>
+10. <http://derarockfes.radcreation.jp/>
+11. <https://live2.nicovideo.jp/watch/lv324133715>

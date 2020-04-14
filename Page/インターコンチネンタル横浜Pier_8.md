@@ -1,4 +1,4 @@
-> この記事は[Pier 8](https://ja.wikipedia.org/wiki/Pier_8)から翻訳されています。
+> この記事は[インターコンチネンタル横浜Pier 8](https://ja.wikipedia.org/wiki/インターコンチネンタル横浜Pier_8)から翻訳されています。
 
 
 **インターコンチネンタル横浜Pier 8**（インターコンチネンタルよこはまピアエイト）は[横浜市](../Page/横浜市.md "wikilink")[中区の](../Page/中区_\(横浜市\).md "wikilink")[みなとみらい21](../Page/横浜みなとみらい21.md "wikilink")[新港地区](https://ja.wikipedia.org/wiki/新港_\(横浜市\) "wikilink")6-1街区（[8号・9号岸壁](https://ja.wikipedia.org/wiki/新港_\(横浜市\)#新港埠頭の岸壁 "wikilink")）にある客船ターミナル複合施設「[横浜ハンマーヘッド](https://ja.wikipedia.org/wiki/横浜ハンマーヘッド "wikilink")」内の[ホテル](../Page/ホテル.md "wikilink")。

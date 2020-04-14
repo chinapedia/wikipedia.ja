@@ -1,4 +1,4 @@
-> この記事は[MOROHA!!](https://ja.wikipedia.org/wiki/MOROHA!!)から翻訳されています。
+> この記事は[MOROHAの!オニヤンマ獲りにいこうぜ!](https://ja.wikipedia.org/wiki/MOROHAの!オニヤンマ獲りにいこうぜ!)から翻訳されています。
 
 
 『**MOROHAの\!オニヤンマ獲りにいこうぜ\!**』（もろはの\!おにやんまとりにいこうぜ\!）は、[文化放送](../Page/文化放送.md "wikilink")で[2017年](../Page/2017年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から放送されている[トーク番組](../Page/トーク番組.md "wikilink")である。

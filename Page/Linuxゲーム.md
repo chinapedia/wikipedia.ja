@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxゲーム](https://ja.wikipedia.org/wiki/Linuxゲーム)から翻訳されています。
 
 
 [Supertuxkart-0.9-screenshot-2.jpg](https://ja.wikipedia.org/wiki/File:Supertuxkart-0.9-screenshot-2.jpg "fig:Supertuxkart-0.9-screenshot-2.jpg")\]\]

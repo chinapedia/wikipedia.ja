@@ -1,7 +1,7 @@
-> この記事は[TW](https://ja.wikipedia.org/wiki/TW)から翻訳されています。
+> この記事は[アライアンスTW](https://ja.wikipedia.org/wiki/アライアンスTW)から翻訳されています。
 
 
-[Vario_LF_3204_in_Tashkent.jpg](https://ja.wikipedia.org/wiki/File:Vario_LF_3204_in_Tashkent.jpg "fig:Vario_LF_3204_in_Tashkent.jpg")）\]\] [Brněnské_Vario_LF2.jpg](https://ja.wikipedia.org/wiki/File:Brněnské_Vario_LF2.jpg "fig:Brněnské_Vario_LF2.jpg")）\]\] **アライアンスTW**（Aliance TW Team）は、[チェコ](../Page/チェコ.md "wikilink")に本社を置く企業3社によって構成される[企業グループ](../Page/合弁事業.md "wikilink")。チェコや[スロバキア](../Page/スロバキア.md "wikilink")を中心に、[路面電車](../Page/路面電車.md "wikilink")[車両の新造や旧型車両の近代化を行っている](../Page/電車.md "wikilink")。
+[Vario_LF_3204_in_Tashkent.jpg](https://ja.wikipedia.org/wiki/File:Vario_LF_3204_in_Tashkent.jpg "fig:Vario_LF_3204_in_Tashkent.jpg")'''（[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")）\]\] [Brněnské_Vario_LF2.jpg](https://ja.wikipedia.org/wiki/File:Brněnské_Vario_LF2.jpg "fig:Brněnské_Vario_LF2.jpg")）\]\] **アライアンスTW**（Aliance TW Team）は、[チェコ](../Page/チェコ.md "wikilink")に本社を置く企業3社によって構成される[企業グループ](../Page/合弁事業.md "wikilink")。チェコや[スロバキア](../Page/スロバキア.md "wikilink")を中心に、[路面電車](../Page/路面電車.md "wikilink")[車両の新造や旧型車両の近代化を行っている](../Page/電車.md "wikilink")。
 
 ## 概要
 
@@ -15,37 +15,37 @@
 
 ## 主要製品
 
-| **アライアンスTW 主要製品**                               |
-| ----------------------------------------------- |
-| 形式                                              |
-| ****                                            |
-| **[T3R.PV](../Page/タトラT3R.PV.md "wikilink")**   |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| **[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| **ヴァリオLF3 プラス**                                 |
-| **ヴァリオLF4**                                     |
-| **ヴァリオLF4 プラス**                                 |
-| **[VV60LF](../Page/VV60LF.md "wikilink")**      |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-|                                                 |
+| **アライアンスTW 主要製品**                                                |
+| ---------------------------------------------------------------- |
+| 形式                                                               |
+| ****                                                             |
+| **[T3R.PV](../Page/タトラT3R.PV.md "wikilink")**                    |
+| **[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")**    |
+| **[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R.E** |
+| **[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R.R** |
+| **[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")**                  |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+| **[ヴァリオLF3](https://ja.wikipedia.org/wiki/ヴァリオLF3 "wikilink")**  |
+| ****                                                             |
+| **ヴァリオLF3 プラス**                                                  |
+| **ヴァリオLF4**                                                      |
+| **ヴァリオLF4 プラス**                                                  |
+| **[VV60LF](../Page/VV60LF.md "wikilink")**                       |
+| ****                                                             |
+| ****                                                             |
+| ****                                                             |
+|                                                                  |
 
 ## ギャラリー
 
-<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](../Page/タトラT3R.PV.md "wikilink")** <File:Vario> LF v Brně.jpeg|**** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](../Page/VV60LF.md "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
+<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](../Page/タトラT3R.PV.md "wikilink")** <File:Vario> LF v Brně.jpeg|**[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**[ヴァリオLF3](https://ja.wikipedia.org/wiki/ヴァリオLF3 "wikilink")** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](../Page/VV60LF.md "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
 
 ## 関連項目
 
@@ -61,7 +61,7 @@
 ## 参考資料
 
   -
-[Category:鉄道車両メーカー](https://ja.wikipedia.org/wiki/Category:鉄道車両メーカー "wikilink") [Category:チェコの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:チェコの工業製品メーカー "wikilink") [Category:路面電車車両メーカー](https://ja.wikipedia.org/wiki/Category:路面電車車両メーカー "wikilink")
+[Category:鉄道車両メーカー](https://ja.wikipedia.org/wiki/Category:鉄道車両メーカー "wikilink") [Category:チェコの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:チェコの工業製品メーカー "wikilink") [Category:路面電車車両メーカー](https://ja.wikipedia.org/wiki/Category:路面電車車両メーカー "wikilink") [Category:アライアンスTW製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アライアンスTW製の鉄道車両 "wikilink")
 
 1.
 2.

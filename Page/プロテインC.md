@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[プロテインC](https://ja.wikipedia.org/wiki/プロテインC)から翻訳されています。
 
 
 **プロテインC**（、別名: 第XIV因子（blood coagulation factor XIV）、autoprothrombin IIA\[1\]\[2\]）は[酵素前駆体](../Page/酵素前駆体.md "wikilink")で、[タンパク質分解](https://ja.wikipedia.org/wiki/タンパク質分解 "wikilink")を経て活性化されたプロテインC（**活性化プロテインC**、**APC**）はヒトや他の動物において抗[血液凝固作用](../Page/凝固・線溶系.md "wikilink")、[炎症](../Page/炎症.md "wikilink")、細胞死、[血管](../Page/血管.md "wikilink")の透過性の維持に重要な役割を果たす。APCは、主に活性化された[第V因子](https://ja.wikipedia.org/wiki/第V因子 "wikilink")と[第VIII因子](https://ja.wikipedia.org/wiki/第VIII因子 "wikilink")（それぞれ第Va因子と第VIIIa因子と呼ばれる）をタンパク質分解によって不活性化することで、これらの機能を果たす。APCはその[活性部位](https://ja.wikipedia.org/wiki/活性部位 "wikilink")に[セリン](../Page/セリン.md "wikilink")残基を含むため、[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")に分類される\[3\]。プロテインCは、ヒトでは2番[染色体](../Page/染色体.md "wikilink")の*PROC*[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")にコードされる\[4\]。

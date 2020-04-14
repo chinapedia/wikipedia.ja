@@ -1,4 +1,4 @@
-> この記事は[INMOS G364](https://ja.wikipedia.org/wiki/INMOS_G364)から翻訳されています。
+> この記事は[INMOS G364フレームバッファー](https://ja.wikipedia.org/wiki/INMOS_G364フレームバッファー)から翻訳されています。
 
 
 **G364フレームバッファー**は、SGS Thomson INMOS G364チップセットを利用した[グラフィックスアダプターの製品群であった](../Page/ビデオカード.md "wikilink")。 INMOS G364は、[INMOS](https://ja.wikipedia.org/wiki/INMOS "wikilink")によって1990年代初めに製造された。 INMOSは、[トランスピュータ](../Page/トランスピュータ.md "wikilink")で知られ、SGS Thomsonに買収され、[STMicroelectronics](https://ja.wikipedia.org/wiki/STMicroelectronics "wikilink")の一部となった。 G364は、[RAMDAC](https://ja.wikipedia.org/wiki/RAMDAC "wikilink")と64ビットの[VRAM](../Page/VRAM.md "wikilink")グラフィックスメモリーインターフェイスを備え、[フレームバッファー](https://ja.wikipedia.org/wiki/フレームバッファー "wikilink")を実装するのに利用された。 しかしハードウェアカーソル機能以外のハードウェアによるアクセラレーション機能は備えていなかった。

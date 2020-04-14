@@ -1,4 +1,4 @@
-> この記事は[SOUL BOX](https://ja.wikipedia.org/wiki/SOUL_BOX)から翻訳されています。
+> この記事は[SOUL BOX畑中ボクシングジム](https://ja.wikipedia.org/wiki/SOUL_BOX畑中ボクシングジム)から翻訳されています。
 
 
 **SOUL BOX畑中ボクシングジム**（ソウル ボックスはたなかボクシングジム）は、[名古屋市](../Page/名古屋市.md "wikilink")[北区](../Page/北区_\(名古屋市\).md "wikilink")[上飯田](https://ja.wikipedia.org/wiki/上飯田_\(名古屋市\) "wikilink")\[1\]にある[ボクシングジム](../Page/ボクシングジム.md "wikilink")。会長は元[WBC世界](../Page/世界ボクシング評議会.md "wikilink")[スーパーバンタム級](../Page/スーパーバンタム級.md "wikilink")王者[畑中清詞](../Page/畑中清詞.md "wikilink")\[2\]。

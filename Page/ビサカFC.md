@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ビサカFC](https://ja.wikipedia.org/wiki/ビサカFC)から翻訳されています。
 
 
 **ビサカFC**（）は、[カンボジア](../Page/カンボジア.md "wikilink")・[プノンペン](../Page/プノンペン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[メトフォン・Cリーグに所属する](https://ja.wikipedia.org/wiki/カンボジア・リーグ "wikilink")。

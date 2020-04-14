@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCIプロシリーズ](https://ja.wikipedia.org/wiki/UCIプロシリーズ)から翻訳されています。
 
 
 **UCIプロシリーズ** (UCI ProSeries) は、[2020年](../Page/2020年.md "wikilink")より開始された[自転車ロードレースのシリーズ戦](../Page/ロードレース_\(自転車競技\).md "wikilink")。男子自転車ロードレースの最高カテゴリーである[UCIワールドツアー](https://ja.wikipedia.org/wiki/UCIワールドツアー "wikilink")に次ぐカテゴリーとして[UCIによって創設された](../Page/国際自転車競技連合.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[presents ](https://ja.wikipedia.org/wiki/presents_)から翻訳されています。
+> この記事は[アットホームpresents 藤田ニコルのあしたはにちようび](https://ja.wikipedia.org/wiki/アットホームpresents_藤田ニコルのあしたはにちようび)から翻訳されています。
 
 
 『**アットホームpresents 藤田ニコルのあしたはにちようび**』（アットホームプレゼンツ ふじたニコルのあしたはにちようび）は、[2020年](../Page/2020年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週土曜 19:00 - 20:30。
@@ -34,17 +34,27 @@
 
 ## ネット局
 
-各局特別編成等で短縮、もしくは休止の場合がある。
+各局特別編成等で休止の場合がある。
 
-| 放送対象地域                                              | 放送局                                                        | 放送時間             | 放送期間                                                                     | 備考      |
-| --------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------ | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [TBSラジオ](../Page/TBSラジオ.md "wikilink")                     | 土曜 19:00 - 20:30 | [2020年](../Page/2020年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - | **制作局** |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO） | 土曜 19:00 - 20:00 |                                                                          |         |
-|                                                     |                                                            |                  |                                                                          |         |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [RSK山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink") |                  |                                                                          |         |
-| [高知県](../Page/高知県.md "wikilink")                    | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKC） |                  |                                                                          |         |
+| 放送対象地域                                                            | 放送局                                                          | 放送時間                                                                     | 放送期間                                                                     | 備考      |
+| ----------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                               | [TBSラジオ](../Page/TBSラジオ.md "wikilink")                       | 土曜 19:00 - 20:00                                                         | [2020年](../Page/2020年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - | **制作局** |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）   | \[3\]                                                                    |                                                                          |         |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [RSK山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")   |                                                                          |                                                                          |         |
+| [高知県](../Page/高知県.md "wikilink")                                  | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKC）   |                                                                          |                                                                          |         |
+| [山形県](../Page/山形県.md "wikilink")                                  | [山形放送](../Page/山形放送.md "wikilink")（YBC）                      | [2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - |                                                                          |         |
+| [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）   |                                                                          |                                                                          |         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）   |                                                                          |                                                                          |         |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB） |                                                                          |                                                                          |         |
+| [福井県](../Page/福井県.md "wikilink")                                  | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBC）   |                                                                          |                                                                          |         |
+| [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）   |                                                                          |                                                                          |         |
+| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）   |                                                                          |                                                                          |         |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")               | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT）   |                                                                          |                                                                          |         |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                                | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC） |                                                                          |                                                                          |         |
 
 ## 脚注
+
+### 注釈
 
 ### 出典
 
@@ -59,3 +69,4 @@
 
 1.
 2.
+3.  TBSラジオで90分放送時は20:00で飛び降りだった。

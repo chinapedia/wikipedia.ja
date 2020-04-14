@@ -1,4 +1,4 @@
-> この記事は[NASA3](https://ja.wikipedia.org/wiki/NASA3)から翻訳されています。
+> この記事は[NASA3部作](https://ja.wikipedia.org/wiki/NASA3部作)から翻訳されています。
 
 
 **NASA3部作**（NASA3ぶさく）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のSF作家である[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によって書かれた3作の[ハードSF](../Page/ハードSF.md "wikilink")小説。1996年から1998年に発行された。 これらの本は、異なる状況におけるアメリカの宇宙開発計画の可能性を探っている。3部作として扱われているがそれぞれの作品は全く独立した物語である。別の世界の彼の他の作品よりも暗いトーンで書かれており、[NASAに対して批判的である](../Page/アメリカ航空宇宙局.md "wikilink")。

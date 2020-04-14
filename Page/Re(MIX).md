@@ -1,7 +1,7 @@
 > この記事は[Re\(MIX\)](https://ja.wikipedia.org/wiki/Re\(MIX\))から翻訳されています。
 
 
-『**re(MIX)**』（リミックス）は、[2020年](../Page/2020年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発売予定の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の11枚目のとなる[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
+『**re(MIX)**』（リミックス）は、[2020年](../Page/2020年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の11枚目のとなる[リミックス](../Page/リミックス.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 解説
 

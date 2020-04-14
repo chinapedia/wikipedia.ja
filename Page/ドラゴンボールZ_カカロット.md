@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ カカロット](https://ja.wikipedia.org/wiki/ドラゴンボールZ_カカロット)から翻訳されています。
 
 
 『**ドラゴンボールZ カカロット**』*(DRAGONBALL Z KAKAROT)*は[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")より[2020年](../Page/2020年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")に発売されたゲームソフト\[1\]。
@@ -304,7 +304,9 @@
   - [ドラゴンボールZ カカロット](https://dbar.bn-ent.net/)
 
   -
-[Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink")
+  -
+  -
+[Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")
 
 1.
 2.

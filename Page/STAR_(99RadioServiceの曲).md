@@ -1,4 +1,4 @@
-> この記事は[STAR \(99RadioService\)](https://ja.wikipedia.org/wiki/STAR_\(99RadioService\))から翻訳されています。
+> この記事は[STAR \(99RadioServiceの曲\)](https://ja.wikipedia.org/wiki/STAR_\(99RadioServiceの曲\))から翻訳されています。
 
 
 「**STAR**」（スター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[99RadioService](https://ja.wikipedia.org/wiki/99RadioService "wikilink")の楽曲。同バンド3枚目の[シングル](../Page/シングル.md "wikilink")として[2013年](../Page/2013年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に発売された。発売元は[バップ](../Page/バップ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[アボカチンB](https://ja.wikipedia.org/wiki/アボカチンB)から翻訳されています。
 
 
 **アボカチンB**（avocatin B）は、[アボカド](../Page/アボカド.md "wikilink")に含まれる長鎖[脂肪族アルコール](https://ja.wikipedia.org/wiki/脂肪族アルコール "wikilink")（トリオール）、アボカデン（avocadene）とアボカジン（avocadyne）の混合物である。ポリヒドロキシル化された脂肪族アルコール（polyhydroxylated fatty alcohols; 略称: PFA）に分類される。**アボカチンA**はそれぞれの末端ヒドロキシ基がアセチル化されたものの混合物である。

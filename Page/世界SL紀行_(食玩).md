@@ -1,4 +1,4 @@
-> この記事は[SL \(\)](https://ja.wikipedia.org/wiki/SL_\(\))から翻訳されています。
+> この記事は[世界SL紀行 \(食玩\)](https://ja.wikipedia.org/wiki/世界SL紀行_\(食玩\))から翻訳されています。
 
 
 **世界SL紀行**（）は、[フルタ製菓](../Page/フルタ製菓.md "wikilink")が発売した[玩具](../Page/玩具.md "wikilink")付き[キャンデーの](../Page/キャンディ.md "wikilink")[菓子](../Page/菓子.md "wikilink")（[玩具菓子](../Page/食玩.md "wikilink")）である。

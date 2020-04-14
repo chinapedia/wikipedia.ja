@@ -1,4 +1,4 @@
-> この記事は[RIDE ON TIME \(\)](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(\))から翻訳されています。
+> この記事は[RIDE ON TIME \(テレビ番組\)](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(テレビ番組\))から翻訳されています。
 
 
 『**RIDE ON TIME**』（ライド・オン・タイム）は、[フジテレビで放送されている](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")。
@@ -60,7 +60,7 @@
 | 9  | 2019年12月13日(金) 25:05～25:35 | SixTONES～デビューまでの8カ月の軌跡\[14\]    | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                            |
 | 10 | 2019年12月20日(金) 24:55～25:25 |                                 |                                                                                                          |
 | 11 | 2020年01月10日(金) 24:55～25:25 |                                 |                                                                                                          |
-| 12 | 2019年01月17日(金) 24:55～25:25 |                                 |                                                                                                          |
+| 12 | 2020年01月17日(金) 24:55～25:25 |                                 |                                                                                                          |
 | 13 | 2020年01月24日(金) 24:55～25:25 | 特別編: King & Prince～2年目の覚悟\[15\] | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                  |
 | 14 | 2020年01月31日(金) 24:55～25:25 | HiHi Jets\[16\]                 | [HiHi Jets](https://ja.wikipedia.org/wiki/HiHi_Jets "wikilink")                                          |
 
@@ -91,7 +91,7 @@
   - [連続ドキュメンタリー『RIDE ON TIME』](https://www.fujitv.co.jp/RIDEONTIME/)
 
   -
-[Category:フジテレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:フジテレビのドキュメンタリー番組 "wikilink") [Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink")
+[Category:フジテレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:フジテレビのドキュメンタリー番組 "wikilink") [Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
 
 1.
 2.

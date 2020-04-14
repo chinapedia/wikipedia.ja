@@ -1,4 +1,4 @@
-> この記事は[KT8D5](https://ja.wikipedia.org/wiki/KT8D5)から翻訳されています。
+> この記事は[タトラKT8D5](https://ja.wikipedia.org/wiki/タトラKT8D5)から翻訳されています。
 
 
 **タトラKT8D5**は、かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した**[タトラ国営会社スミーホフ工場（ČKDタトラ）](../Page/タトラ_\(自動車\).md "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の1つ。大量輸送が可能な[3車体連接車で](../Page/連接台車.md "wikilink")、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")や[北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")など[社会主義](../Page/社会主義.md "wikilink")諸国に導入された。

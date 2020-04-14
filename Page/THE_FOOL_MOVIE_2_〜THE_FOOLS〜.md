@@ -1,4 +1,4 @@
-> この記事は[THE FOOL MOVIE 2 THE FOOLS](https://ja.wikipedia.org/wiki/THE_FOOL_MOVIE_2_THE_FOOLS)から翻訳されています。
+> この記事は[THE FOOL MOVIE 2 〜THE FOOLS〜](https://ja.wikipedia.org/wiki/THE_FOOL_MOVIE_2_〜THE_FOOLS〜)から翻訳されています。
 
 
 『**THE FOOL MOVIE 2 〜THE FOOLS〜**』（ザ・フール・ムービー・トゥー ザ・フールス）は、[EXILE AKIRAの映像作品である](https://ja.wikipedia.org/wiki/AKIRA_\(ダンサー\) "wikilink")。2019年12月18日にrhythm zoneから発売された\[1\]。

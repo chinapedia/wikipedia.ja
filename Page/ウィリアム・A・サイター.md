@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・サイター](https://ja.wikipedia.org/wiki/ウィリアム・A・サイター)から翻訳されています。
 
 
 **ウィリアム・A・サイター**（**William A. Seiter**、[1890年](../Page/1890年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")。

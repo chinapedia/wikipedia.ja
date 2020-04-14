@@ -36,8 +36,6 @@
   - [Tapista❁公式](https://twitter.com/tapista_jp/)（@Tapista_JP） - [Twitter](../Page/Twitter.md "wikilink")
   - Tapista（tapista_jp） - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
 
-__インデックス__
-
 [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink") [Category:日本の飲料](https://ja.wikipedia.org/wiki/Category:日本の飲料 "wikilink") [Category:日本の外食事業者](https://ja.wikipedia.org/wiki/Category:日本の外食事業者 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:フランチャイズ](https://ja.wikipedia.org/wiki/Category:フランチャイズ "wikilink") [Category:恵比寿_(渋谷区)](https://ja.wikipedia.org/wiki/Category:恵比寿_\(渋谷区\) "wikilink") [Category:紅茶](https://ja.wikipedia.org/wiki/Category:紅茶 "wikilink")
 
 1.   株式会社ダーウィンホールディングス|url=[http://darwin-hd.jp/archives/work/314|website=darwin-hd.jp|accessdate=2020-01-25|language=ja](http://darwin-hd.jp/archives/work/314%7Cwebsite=darwin-hd.jp%7Caccessdate=2020-01-25%7Clanguage=ja)}}

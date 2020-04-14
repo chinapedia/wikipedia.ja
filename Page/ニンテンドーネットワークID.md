@@ -1,4 +1,4 @@
-> この記事は[ID](https://ja.wikipedia.org/wiki/ID)から翻訳されています。
+> この記事は[ニンテンドーネットワークID](https://ja.wikipedia.org/wiki/ニンテンドーネットワークID)から翻訳されています。
 
 
 <div class="pathnavbox">

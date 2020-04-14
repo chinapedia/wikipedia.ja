@@ -1,4 +1,4 @@
-> この記事は[ KBZ](https://ja.wikipedia.org/wiki/_KBZ)から翻訳されています。
+> この記事は[エア KBZ](https://ja.wikipedia.org/wiki/エア_KBZ)から翻訳されています。
 
 
 [ATR_72-600_Air_KBZ_(KBZ)_F-WWEV_-_MSN_1085_-_Will_be_XY-AJJ_(9739868889).jpg](https://ja.wikipedia.org/wiki/File:ATR_72-600_Air_KBZ_\(KBZ\)_F-WWEV_-_MSN_1085_-_Will_be_XY-AJJ_\(9739868889\).jpg "fig:ATR_72-600_Air_KBZ_(KBZ)_F-WWEV_-_MSN_1085_-_Will_be_XY-AJJ_(9739868889).jpg") **エア KBZ** (エア・カンボーザ、, )は、[ミャンマー](../Page/ミャンマー.md "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。

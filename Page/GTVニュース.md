@@ -1,4 +1,4 @@
-> この記事は[GTV](https://ja.wikipedia.org/wiki/GTV)から翻訳されています。
+> この記事は[GTVニュース](https://ja.wikipedia.org/wiki/GTVニュース)から翻訳されています。
 
 
 『**GTVニュース**』（ジー・ティー・ブイニュース）は、[群馬テレビ](../Page/群馬テレビ.md "wikilink")で放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。

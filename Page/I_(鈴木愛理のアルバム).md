@@ -1,4 +1,4 @@
-> この記事は[I \(\)](https://ja.wikipedia.org/wiki/I_\(\))から翻訳されています。
+> この記事は[I \(鈴木愛理のアルバム\)](https://ja.wikipedia.org/wiki/I_\(鈴木愛理のアルバム\))から翻訳されています。
 
 
 『**i**』（アイ）は、[鈴木愛理の](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")2ndアルバム\[1\]\[2\]。

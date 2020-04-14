@@ -1,4 +1,4 @@
-> この記事は[CHEMISTRY \(\)](https://ja.wikipedia.org/wiki/CHEMISTRY_\(\))から翻訳されています。
+> この記事は[CHEMISTRY \(アルバム\)](https://ja.wikipedia.org/wiki/CHEMISTRY_\(アルバム\))から翻訳されています。
 
 
 『**CHEMISTRY**』(ケミストリー)は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の8枚目のオリジナル・アルバム。
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - サイレント・ナイト
-    クリスマス・ソングとなっており\[8\]、メンバー曰く「[ポップ・ロック](../Page/ポップ・ロック.md "wikilink")なナンバー」で、歌ラップのような仕上がりになっているとの事でCHEMISTRYらしくない要素があるのが、逆に良いんじゃないか、と思い収録されたのだと言う。歌詞の内容に関して堂珍は「好きな人に想いをなかなか伝えられなくて、失敗を恐れている心境と葛藤を描いていて、若い世代向けの曲」と語っている\[9\]。
+    クリスマス・ソングとなっており\[8\]、メンバー曰く「[ポップ・ロック](../Page/ポップ・ロック.md "wikilink")なナンバー」で、歌ラップのような仕上がりになっているとの事でCHEMISTRYらしくない要素があるのが、逆に良いんじゃないか、と思い収録されたのだと言う。歌詞の内容に関して堂珍は「好きな人に想いをなかなか伝えられなくて、失敗を恐れている心境と葛藤を描いていて、若い世代向けの曲」と語っている\[9\]。[イトヲカシ](https://ja.wikipedia.org/wiki/イトヲカシ "wikilink")の宮田“レフティ”リョウと磯貝サイモンが作詞・作曲に参加。
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
         35thシングルのカップリング
 6.  **サイレント・ナイト** (4:46)
       -
-        作詞：松尾潔, Shusui, [磯貝サイモン](../Page/磯貝サイモン.md "wikilink"), Ryo ‘LEFTY’ Miyata / 作曲：Shusui, 磯貝サイモン, Ryo ‘LEFTY’ Miyata / 編曲：ケンカイヨシ
+        作詞：松尾潔, Shusui, [磯貝サイモン](../Page/磯貝サイモン.md "wikilink"), [Ryo ‘LEFTY’ Miyata](https://ja.wikipedia.org/wiki/宮田“レフティ”リョウ "wikilink") / 作曲：Shusui, 磯貝サイモン, Ryo ‘LEFTY’ Miyata / 編曲：ケンカイヨシ
         LP盤では、この曲までがB面。
 7.  **[Heaven Only Knows](https://ja.wikipedia.org/wiki/Heaven_Only_Knows/13ヶ月 "wikilink")**(4:01)
       -

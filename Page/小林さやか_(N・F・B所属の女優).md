@@ -1,4 +1,4 @@
-> この記事は[ \(NFB\)](https://ja.wikipedia.org/wiki/_\(NFB\))から翻訳されています。
+> この記事は[小林さやか \(N・F・B所属の女優\)](https://ja.wikipedia.org/wiki/小林さやか_\(N・F・B所属の女優\))から翻訳されています。
 
 
 **小林 さやか**（こばやし さやか、[1988年](../Page/1988年.md "wikilink")\[1\] - ）は、日本の[タレント](../Page/タレント.md "wikilink")。[坪田信貴](https://ja.wikipedia.org/wiki/坪田信貴 "wikilink")著『[学年ビリのギャルが1年で偏差値を40上げて慶應大学に現役合格した話](https://ja.wikipedia.org/wiki/学年ビリのギャルが1年で偏差値を40上げて慶應大学に現役合格した話 "wikilink")』の主人公。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。[N・F・B](../Page/N・F・B.md "wikilink")所属。

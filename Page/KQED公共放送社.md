@@ -1,4 +1,4 @@
-> この記事は[KQED](https://ja.wikipedia.org/wiki/KQED)から翻訳されています。
+> この記事は[KQED公共放送社](https://ja.wikipedia.org/wiki/KQED公共放送社)から翻訳されています。
 
 
 [KQED_building.jpg](https://ja.wikipedia.org/wiki/File:KQED_building.jpg "fig:KQED_building.jpg")・マリポザ街）\]\] [How_Tech_has_changed_Philanthropy_by_Pete_Forsyth_12.jpg](https://ja.wikipedia.org/wiki/File:How_Tech_has_changed_Philanthropy_by_Pete_Forsyth_12.jpg "fig:How_Tech_has_changed_Philanthropy_by_Pete_Forsyth_12.jpg") **KQED公共放送社**（）は[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に本部がある[公共ラジオ放送会社で](https://ja.wikipedia.org/wiki/ナショナル・パブリック・ラジオ "wikilink")、以前は北カリフォルニア公共放送社とも呼ばれて、現在ラジオ局[KQED-FMとテレビ局](https://ja.wikipedia.org/wiki/:en:KQED-FM "wikilink")[KQED/KQETおよび](https://ja.wikipedia.org/wiki/:en:KQED_\(TV\) "wikilink")[KQEHを運営している](https://ja.wikipedia.org/wiki/:en:KQEH "wikilink")。

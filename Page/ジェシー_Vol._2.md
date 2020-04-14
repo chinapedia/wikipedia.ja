@@ -1,4 +1,4 @@
-> この記事は[ Vol. 2](https://ja.wikipedia.org/wiki/_Vol._2)から翻訳されています。
+> この記事は[ジェシー Vol. 2](https://ja.wikipedia.org/wiki/ジェシー_Vol._2)から翻訳されています。
 
 
 『**ジェシー Vol. 2**』（Djesse Vol. 2）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の歌手である[ジェイコブ・コリアー](../Page/ジェイコブ・コリアー.md "wikilink")の3枚目のアルバム\[1\]\[2\]\[3\]\[4\]。4部作『ジェシー（Djesse）』シリーズの第2作目である。[2019年](../Page/2019年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")リリース。

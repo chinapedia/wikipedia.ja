@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ヒューバート・イーヴスIII世](https://ja.wikipedia.org/wiki/ヒューバート・イーヴスIII世)から翻訳されています。
 
 
 **ヒューバート・イーヴスIII世**\[1\]（**Hubert Eaves III**）は、キーボード奏者、[ソングライター](../Page/ソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。1980年代初頭、彼はダンス・ミュージックのデュオ、[D・トレイン](https://ja.wikipedia.org/wiki/D・トレイン "wikilink")\[2\]のヒット作に取り組んだ。また、[エムトゥーメイ](../Page/エムトゥーメイ.md "wikilink")にてセッションを行った。

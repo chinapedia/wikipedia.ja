@@ -7,7 +7,7 @@
 
 [2019年](../Page/2019年.md "wikilink")の前半に行われていた**[King Gnu One-Man Live Tour 2019「Sympa」](../Page/King_Gnu_One-Man_Live_Tour_2019「Sympa」.md "wikilink")**に次いで行われた秋冬のライブハウスツアーである。
 
-前半ツアーのセットリストに新曲を数曲組み込み曲順を変えた内容のため歌唱曲はほぼ前回と同様となっている。(「破裂」のみ披露されず)
+前半ツアーのセットリストに新曲を数曲組み込み曲順を変えた内容のため演奏曲はほぼ前回と同様となっている。(「破裂」のみ披露されず)
 
 ツアー最終日である[2019年](../Page/2019年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") [Zepp Tokyoの公演ではアンコールの際](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、翌[2020年](../Page/2020年.md "wikilink")にメジャー2ndアルバム「CEREMONY」の発売とツアー開催並びに初のアリーナ公演となる国立代々木第一体育館にて2daysのライブが行われることを発表した。
 

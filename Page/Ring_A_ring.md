@@ -47,15 +47,16 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
 <td><p>未定</p></td>
 <td><p>全2回開催<br />
-当初は2020年<a href="../Page/3月15日.md" title="wikilink">3月15日</a>に開催される予定だったが、<a href="../Page/コロナウイルス.md" title="wikilink">コロナウイルス</a>の感染拡大を防ぐため開催を延期した[11]。</p></td>
+当初は2020年<a href="../Page/3月15日.md" title="wikilink">3月15日</a>に開催される予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">コロナウイルスの感染拡大を防ぐため開催を延期した</a>[11]。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020年<a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
+<td><p>未定</p></td>
 <td><p>関東近郊</p></td>
 <td><p>未定</p></td>
-<td><p>全2回開催</p></td>
 <td><p>ライブ &amp; トーク</p></td>
+<td><p>全2回開催<br />
+当初は2020年<a href="../Page/3月28日.md" title="wikilink">3月28日</a>に開催される予定だったが、コロナウイルスの感染拡大を防ぐため開催を延期した[12]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -86,7 +87,7 @@
 
 | \# | 曲名            | [タイアップ](../Page/タイアップ.md "wikilink")                                                                                                    | 出典     |
 | -- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 2  | 「**ヒカリイロの歌**」 | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[はてな☆イリュージョン](https://ja.wikipedia.org/wiki/はてな☆イリュージョン "wikilink")』エンディングテーマ | \[12\] |
+| 2  | 「**ヒカリイロの歌**」 | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[はてな☆イリュージョン](https://ja.wikipedia.org/wiki/はてな☆イリュージョン "wikilink")』エンディングテーマ | \[13\] |
 
 ## リリース日一覧
 
@@ -143,7 +144,7 @@
 <tr class="odd">
 <td><p>日本・<a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a> 週間CDアルバムランキング</p></td>
 <td><p>5</p></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 </tr>
 </tbody>
 </table>
@@ -172,3 +173,4 @@
 11.
 12.
 13.
+14.

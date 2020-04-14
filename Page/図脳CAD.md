@@ -1,4 +1,4 @@
-> この記事は[CAD](https://ja.wikipedia.org/wiki/CAD)から翻訳されています。
+> この記事は[図脳CAD](https://ja.wikipedia.org/wiki/図脳CAD)から翻訳されています。
 
 
 三次元CAD - 図脳CAD3D Ver2.00 / 2020年{{-}}図面管理システム - 図脳TeCA Ver1.7.0 / 2018年

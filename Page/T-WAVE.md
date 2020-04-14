@@ -47,18 +47,12 @@
 <!-- end list -->
 
   - Horn
-
-:\* [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
-
-:\* 武田和三
-
-:\* 荒木敏男
-
-:\* [向井滋春](https://ja.wikipedia.org/wiki/向井滋春 "wikilink")
-
-:\* 沢井原兒
-
-:\* 砂原俊三
+      - [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
+      - 武田和三
+      - 荒木敏男
+      - [向井滋春](https://ja.wikipedia.org/wiki/向井滋春 "wikilink")
+      - 沢井原兒
+      - 砂原俊三
 
 **WILD MOW-MOW**
 
@@ -77,18 +71,12 @@
 <!-- end list -->
 
   - Horn
-
-:\* 中村哲
-
-:\* 武田和三
-
-:\* 荒木敏男
-
-:\* 向井滋春
-
-:\* 沢井原兒
-
-:\* 砂原俊三
+      - 中村哲
+      - 武田和三
+      - 荒木敏男
+      - 向井滋春
+      - 沢井原兒
+      - 砂原俊三
 
 **CRYSTAL MEMORIES**
 

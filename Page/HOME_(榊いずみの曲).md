@@ -1,4 +1,4 @@
-> この記事は[HOME \(\)](https://ja.wikipedia.org/wiki/HOME_\(\))から翻訳されています。
+> この記事は[HOME \(榊いずみの曲\)](https://ja.wikipedia.org/wiki/HOME_\(榊いずみの曲\))から翻訳されています。
 
 
 『**HOME**』は、榊いずみの楽曲。2017年12月1日に発売された配信限定シングル。発売元はFamily Tree Records。\[1\]

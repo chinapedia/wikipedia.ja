@@ -1,13 +1,15 @@
 > この記事は[GALLOWS](https://ja.wikipedia.org/wiki/GALLOWS)から翻訳されています。
 
 
-『**GALLOWS**』（ガロウズ）は、[Lynch.](https://ja.wikipedia.org/wiki/Lynch. "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2014年](../Page/2014年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+『**GALLOWS**』（ギャロウス）は、[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")の通算8枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2014年](../Page/2014年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 解説
 
-初回生産分のみ外箱付、TOUR’14「TO THE GALLOWS」バックステージ招待応募ハガキ特典付となっている。
+初回アウターケース付 TOUR’14「TO THE GALLOWS」バックステージ招待応募ハガキ特典封入。
 
-付属のDVDには収録曲の「DEVIL」のMVMVのMakingが収録されている。
+付属DVDは、収録曲「DEVIL」のMV+Makingを収録。
+
+また『ギャロウズ』とよく間違われるが、本アルバムの読み方は『ギャロウス』である。
 
 ## 収録曲
 

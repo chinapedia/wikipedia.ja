@@ -1,4 +1,4 @@
-> この記事は[THE LEGEND ](https://ja.wikipedia.org/wiki/THE_LEGEND_)から翻訳されています。
+> この記事は[THE LEGEND ザ・レジェンド](https://ja.wikipedia.org/wiki/THE_LEGEND_ザ・レジェンド)から翻訳されています。
 
 
 '''ザ・レジェンド(THE LEGEND) '''は、男性オペラ歌手5人による日本初のオペラユニット。
@@ -11,12 +11,12 @@
 
 ### メンバー
 
-  - **吉田 知明** (よしだ ともあき)
-      - [テノール](../Page/テノール.md "wikilink")。[1月11日](../Page/1月11日.md "wikilink")生まれ、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。リーダー。
-  - **志村 糧一** (しむら りょういち)
-      - テノール。[6月1日](../Page/6月1日.md "wikilink")生まれ、[山梨県](../Page/山梨県.md "wikilink")[南アルプス市](../Page/南アルプス市.md "wikilink")出身。
   - **柿迫 秀** (かきざこ あきら)
       - テノール。[5月18日](../Page/5月18日.md "wikilink")生まれ、[島根県](../Page/島根県.md "wikilink")[大田市](https://ja.wikipedia.org/wiki/大田市 "wikilink")出身。
+  - **志村 糧一** (しむら りょういち)
+      - テノール。[6月1日](../Page/6月1日.md "wikilink")生まれ、[山梨県](../Page/山梨県.md "wikilink")[南アルプス市](../Page/南アルプス市.md "wikilink")出身。
+  - **吉田 知明** (よしだ ともあき)
+      - [テノール](../Page/テノール.md "wikilink")。[1月11日](../Page/1月11日.md "wikilink")生まれ、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。リーダー。
   - **内田 智一** (うちだ ともかず)
       - [バリトン](../Page/バリトン.md "wikilink")。[5月13日](../Page/5月13日.md "wikilink")生まれ、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。
   - **菅原 浩史** (すがわら ひろし)

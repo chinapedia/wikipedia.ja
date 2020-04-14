@@ -1,4 +1,4 @@
-> この記事は[Prelude \(\)](https://ja.wikipedia.org/wiki/Prelude_\(\))から翻訳されています。
+> この記事は[Prelude \(小柳ゆきの曲\)](https://ja.wikipedia.org/wiki/Prelude_\(小柳ゆきの曲\))から翻訳されています。
 
 
 「**Prelude**」(プレリュード)は、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")の配信限定[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")発売。発売元は[Universal Music](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

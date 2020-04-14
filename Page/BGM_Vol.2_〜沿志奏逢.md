@@ -1,4 +1,4 @@
-> この記事は[BGM Vol.2 ](https://ja.wikipedia.org/wiki/BGM_Vol.2_)から翻訳されています。
+> この記事は[BGM Vol.2 〜沿志奏逢](https://ja.wikipedia.org/wiki/BGM_Vol.2_〜沿志奏逢)から翻訳されています。
 
 
 『**BGM Vol.2 ～沿志奏逢**』（ビージーエム ボリュームツー そうしそうあい）は[Bank Band出演の映像作品である](../Page/Bank_Band.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より[DVD](../Page/DVD.md "wikilink")で発売された。

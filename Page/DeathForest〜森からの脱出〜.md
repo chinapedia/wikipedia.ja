@@ -1,4 +1,4 @@
-> この記事は[DeathForest](https://ja.wikipedia.org/wiki/DeathForest)から翻訳されています。
+> この記事は[DeathForest〜森からの脱出〜](https://ja.wikipedia.org/wiki/DeathForest〜森からの脱出〜)から翻訳されています。
 
 
 『**DeathForest～森からの脱出～**』とは、**Kazz氏**によって[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")された[ホラーゲーム](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")である。タイトル画面では『**恐怖の森**』と表示されるので『**恐怖の森**』と呼ばれる事も多い。[2014年](../Page/2014年.md "wikilink")にはこれを元として[デスフォレスト　恐怖の森が公開され](https://ja.wikipedia.org/wiki/デスフォレスト_恐怖の森 "wikilink")、翌[2015年](../Page/2015年.md "wikilink")には第二作が公開された。\[1\]
@@ -17,7 +17,7 @@
 ### 木村芳恵（きむらよしえ）
 
   -
-    通称『**ヨシエ**』。ゲーム開始後20秒もすると現れる[怨霊](../Page/怨霊.md "wikilink")。[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な顔からプレイヤー達に[強烈](https://ja.wikipedia.org/wiki/強烈 "wikilink")な[インパクト](../Page/インパクト.md "wikilink")を与えてきた。触れると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。近付くと[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な[音楽](../Page/音楽.md "wikilink")が流れるので急に現れることはない。（[電池](../Page/電池.md "wikilink")が無くなってしばらくすると下から急に現れる。）足も遅いので簡単に逃げられる。生前は[福井大学](../Page/福井大学.md "wikilink")2年生で[アウトドアクラブ](https://ja.wikipedia.org/wiki/アウトドアクラブ "wikilink")に所属していた。[美人](../Page/美人.md "wikilink")だった。[2007年](../Page/2007年.md "wikilink")、この森の[洞窟](../Page/洞窟.md "wikilink")に探索に息野という男子と出掛け、惨殺事件に巻き込まれた後に消息を絶つ。20歳没。\[5\]歯の付近についている血は自分自身のとこれまでに襲った者の血である。また、ヨシエの顔は制作者であるKazz氏自信の顔を編集している。
+    通称『**ヨシエ**』。ゲーム開始後20秒もすると現れる[怨霊](../Page/怨霊.md "wikilink")。[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な顔からプレイヤー達に[強烈](https://ja.wikipedia.org/wiki/強烈 "wikilink")な[インパクト](../Page/インパクト.md "wikilink")を与えてきた。触れると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。近付くと[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な[音楽](../Page/音楽.md "wikilink")が流れるので急に現れることはない。（[電池](../Page/電池.md "wikilink")が無くなってしばらくすると下から急に現れる。）足も遅いので簡単に逃げられる。また、怨霊でも壁からすり抜けたりはしない。生前は[福井大学](../Page/福井大学.md "wikilink")2年生で[アウトドアクラブ](https://ja.wikipedia.org/wiki/アウトドアクラブ "wikilink")に所属していた。[美人](../Page/美人.md "wikilink")だった。[2007年](../Page/2007年.md "wikilink")、この森の[洞窟](../Page/洞窟.md "wikilink")に探索に息野という男子と出掛け、惨殺事件に巻き込まれた後に消息を絶つ。20歳没。\[5\]歯の付近についている血は自分自身のとこれまでに襲った者の血である。また、ヨシエの顔は制作者であるKazz氏自信の顔を編集している。
 
 ### 大宮健二（おおみやけんじ）
 

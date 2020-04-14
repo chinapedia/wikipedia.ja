@@ -1,4 +1,4 @@
-> この記事は[KEIRIN2019](https://ja.wikipedia.org/wiki/KEIRIN2019)から翻訳されています。
+> この記事は[KEIRINグランプリ2019](https://ja.wikipedia.org/wiki/KEIRINグランプリ2019)から翻訳されています。
 
 
 **KEIRINグランプリ2019**（ケイリングランプリにせんじゅうきゅう）は、[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[12月30日](../Page/12月30日.md "wikilink")（[月](../Page/月曜日.md "wikilink")）に[立川競輪場](../Page/立川競輪場.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")）で行われた、[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")の35回目の開催。

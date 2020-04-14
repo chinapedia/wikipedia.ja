@@ -1,4 +1,4 @@
-> この記事は[SAKI \(\)](https://ja.wikipedia.org/wiki/SAKI_\(\))から翻訳されています。
+> この記事は[SAKI \(歌手\)](https://ja.wikipedia.org/wiki/SAKI_\(歌手\))から翻訳されています。
 
 
 **SAKI**（サキ、[1988年](../Page/1988年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。[ガールズ](../Page/ガールズバンド.md "wikilink")・[メタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「[Cyntia](https://ja.wikipedia.org/wiki/Cyntia "wikilink")」の[ヴォーカル担当](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。[高知県](../Page/高知県.md "wikilink")出身、血液型A型、身長164cm。

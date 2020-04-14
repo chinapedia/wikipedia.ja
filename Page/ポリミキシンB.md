@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ポリミキシンB](https://ja.wikipedia.org/wiki/ポリミキシンB)から翻訳されています。
 
 
 **ポリミキシンB**(polymyxin B)は[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")のひとつ。日本ではポリミキシンBで、海外では**Poly-Rx**というブランド名で販売されており、皮膚感染症、[髄膜炎](https://ja.wikipedia.org/wiki/髄膜炎 "wikilink")、[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")、[敗血症](../Page/敗血症.md "wikilink")、および[尿路感染症](../Page/尿路感染症.md "wikilink")の治療に使用される\[1\]。多くの[グラム陰性菌](../Page/グラム陰性菌.md "wikilink")感染に有用だが、[グラム陽性菌](https://ja.wikipedia.org/wiki/グラム陽性菌 "wikilink")感染には有用ではない。[静脈](../Page/点滴静脈注射.md "wikilink")、[筋肉](https://ja.wikipedia.org/wiki/筋肉内注射 "wikilink")、または脳脊髄液に[注射するか吸入することで投与できる](../Page/点滴静脈注射.md "wikilink")。通常、注入可能な形態は、他の投与法が利用できない場合にのみ使用される\[2\]。また、皮膚で使用するための組み合わせには[オキシテトラサイクリン](https://ja.wikipedia.org/wiki/オキシテトラサイクリン "wikilink")/ポリミキシンB(製品名:テラマイシン軟膏;[陽進堂](https://ja.wikipedia.org/wiki/陽進堂 "wikilink")製造販売)、バシトラシン/ポリミキシンBおよびネオマイシン/ポリミキシンB /バシトラシンとして利用可能である\[3\]\[4\]。

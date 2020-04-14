@@ -1,4 +1,4 @@
-> この記事は[JTBC](https://ja.wikipedia.org/wiki/JTBC)から翻訳されています。
+> この記事は[JTBCニュースルーム](https://ja.wikipedia.org/wiki/JTBCニュースルーム)から翻訳されています。
 
 
 『**JTBCニュースルーム**』（ジェイ・ティー・ビー・シー・ニュースルーム、英語:**JTBC NEWSROOM**）は、[韓国の総合編成テレビ局](../Page/大韓民国.md "wikilink")[JTBC](https://ja.wikipedia.org/wiki/JTBC "wikilink")で毎日夜に放送されている[報道番組](../Page/報道番組.md "wikilink")。

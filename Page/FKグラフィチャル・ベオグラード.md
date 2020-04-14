@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKグラフィチャル・ベオグラード](https://ja.wikipedia.org/wiki/FKグラフィチャル・ベオグラード)から翻訳されています。
 
 
 **FKグラフィチャル**（) は、[セルビア](../Page/セルビア.md "wikilink")のサッカークラブ。

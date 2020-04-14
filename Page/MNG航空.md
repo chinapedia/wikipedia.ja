@@ -1,4 +1,4 @@
-> この記事は[MNG](https://ja.wikipedia.org/wiki/MNG)から翻訳されています。
+> この記事は[MNG航空](https://ja.wikipedia.org/wiki/MNG航空)から翻訳されています。
 
 
 **MNG航空**（エムエヌジーこうくう、MNG Airlines）は、[イスタンブール](../Page/イスタンブール.md "wikilink")に本社を置くトルコの[貨物航空会社](../Page/貨物航空会社.md "wikilink")で、[アタテュルク国際空港](../Page/アタテュルク国際空港.md "wikilink")と[ケルン・ボン空港](../Page/ケルン・ボン空港.md "wikilink")を拠点としている\[1\]。

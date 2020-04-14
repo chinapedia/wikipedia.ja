@@ -16,13 +16,13 @@
       - 作曲：Young Jay,BUGGY,VEN
     <!-- end list -->
       -
-        参加メンバー - 上原潤,青木聖波,宮里龍斗志,岡野海斗,井上港人,[佐藤景瑚](../Page/佐藤景瑚.md "wikilink"),[木全翔也](../Page/木全翔也.md "wikilink")
+        参加メンバー - [上原潤](https://ja.wikipedia.org/wiki/上原潤 "wikilink"),青木聖波,宮里龍斗志,岡野海斗,井上港人,[佐藤景瑚](../Page/佐藤景瑚.md "wikilink"),[木全翔也](../Page/木全翔也.md "wikilink")
 2.  **DOMINO** (3:17)
       - 作詞:中村彼方
       - 作曲：チェ・ヒョンジュン,Kim Seung-soo
     <!-- end list -->
       -
-        参加メンバー - [川尻蓮](../Page/川尻蓮.md "wikilink"), キム・ユンドン,チョン・ヨンフン,[川西拓実](../Page/川西拓実.md "wikilink"),[河野純喜](../Page/河野純喜.md "wikilink"),[鶴房汐恩](../Page/鶴房汐恩.md "wikilink"),[豆原一成](../Page/豆原一成.md "wikilink")
+        参加メンバー - [川尻蓮](../Page/川尻蓮.md "wikilink"), [キム・ユンドン](https://ja.wikipedia.org/wiki/キム・ユンドン "wikilink"),[チョン・ヨンフン](../Page/チョン・ヨンフン.md "wikilink"),[川西拓実](../Page/川西拓実.md "wikilink"),[河野純喜](../Page/河野純喜.md "wikilink"),[鶴房汐恩](../Page/鶴房汐恩.md "wikilink"),[豆原一成](../Page/豆原一成.md "wikilink")
 3.  **Happy Merry Christmas** (3:28)
       - 作詞:小久保祐希
       - 作曲：Bae Jae Seok,小久保祐希
@@ -34,13 +34,13 @@
       - 作曲：Gloryface(Full8loom),Jinli(Full8loom),Jake K
     <!-- end list -->
       -
-        参加メンバー - キム・ヒチョン,大澤駿弥,安藤誠明,本田康祐,[與那城奨](../Page/與那城奨.md "wikilink"),[金城碧海](../Page/金城碧海.md "wikilink"),佐野文哉
+        参加メンバー - [キム・ヒチョン](../Page/キム・ヒチョン.md "wikilink"),[大澤駿弥](https://ja.wikipedia.org/wiki/大澤駿弥 "wikilink"),[安藤誠明](../Page/安藤誠明.md "wikilink"),本田康祐,[與那城奨](../Page/與那城奨.md "wikilink"),[金城碧海](../Page/金城碧海.md "wikilink"),佐野文哉
 5.  **やんちゃBOYやんちゃGIRL** (3:21)
       - 作詞:KZ,中村彼方
       - 作曲：KZ,Nthonius,PUYO
     <!-- end list -->
       -
-        参加メンバー - 宮島優心,今西正彦,北川玲叶,小松倖真,福地正,佐藤隆士,[大平祥生](../Page/大平祥生.md "wikilink")
+        参加メンバー - [宮島優心](../Page/宮島優心.md "wikilink"),今西正彦,北川玲叶,小松倖真,福地正,佐藤隆士,[大平祥生](../Page/大平祥生.md "wikilink")
 
 ## 関連項目
 

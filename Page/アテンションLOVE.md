@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[アテンションLOVE](https://ja.wikipedia.org/wiki/アテンションLOVE)から翻訳されています。
 
 
 『*'アテンションLOVE **』（アテンションラブ、原題：**稍息立正我愛你*'）は[台湾のテレビドラマ](../Page/台湾ドラマ.md "wikilink")。

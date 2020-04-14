@@ -1,4 +1,4 @@
-> この記事は[IN \(\)](https://ja.wikipedia.org/wiki/IN_\(\))から翻訳されています。
+> この記事は[IN \(田中一郎のアルバム\)](https://ja.wikipedia.org/wiki/IN_\(田中一郎のアルバム\))から翻訳されています。
 
 
 『**IN**』（イン）は、[1988年](../Page/1988年.md "wikilink")にリリースされた[田中一郎の初のオリジナル](../Page/田中一郎_\(ミュージシャン\).md "wikilink")・アルバム。

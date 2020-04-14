@@ -1,4 +1,4 @@
-> この記事は[POLARIS](https://ja.wikipedia.org/wiki/POLARIS)から翻訳されています。
+> この記事は[POLARIS★ポラリス](https://ja.wikipedia.org/wiki/POLARIS★ポラリス)から翻訳されています。
 
 
 **POLARIS★ポラリス**\[1\]とは、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")・[ハノイ](../Page/ハノイ.md "wikilink")を拠点に活動している6人組のアイドルユニットである。
@@ -92,6 +92,8 @@
   - 2020.2  日本来日予定
 
 ## 脚注
+
+リーダー四季とひかりは親子
 
 ## 外部リンク
 

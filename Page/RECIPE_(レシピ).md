@@ -1,4 +1,4 @@
-> この記事は[RECIPE \(\)](https://ja.wikipedia.org/wiki/RECIPE_\(\))から翻訳されています。
+> この記事は[RECIPE \(レシピ\)](https://ja.wikipedia.org/wiki/RECIPE_\(レシピ\))から翻訳されています。
 
 
 「**RECIPE (レシピ)**」は、[2019年](../Page/2019年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算52作目のシングル。
@@ -105,7 +105,7 @@
 
   -  Discography SINGLE
 
-[Category:山下達郎の楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎の楽曲 "wikilink") [Category:山下達郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎が制作した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:ムーン・レーベルのシングル](https://ja.wikipedia.org/wiki/Category:ムーン・レーベルのシングル "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:料理に関するメディア](https://ja.wikipedia.org/wiki/Category:料理に関するメディア "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+[Category:山下達郎の楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎の楽曲 "wikilink") [Category:山下達郎が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:山下達郎が作詞作曲した楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:ムーン・レーベルのシングル](https://ja.wikipedia.org/wiki/Category:ムーン・レーベルのシングル "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:料理に関するメディア](https://ja.wikipedia.org/wiki/Category:料理に関するメディア "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
 
 1.  「[ミライのテーマ / うたのきしゃ](https://ja.wikipedia.org/wiki/ミライのテーマ/うたのきしゃ "wikilink")」発売 [MOON](../Page/MOON_RECORDS.md "wikilink") ⁄ [WARNER MUSIC JAPAN](../Page/ワーナーミュージック・ジャパン.md "wikilink") CD:WPCL-12892【初回限定盤】, WPCL-12893【通常盤】
 2.

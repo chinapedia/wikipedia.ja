@@ -1,4 +1,4 @@
-> この記事は[ \(niconico\)](https://ja.wikipedia.org/wiki/_\(niconico\))から翻訳されています。
+> この記事は[スタンプ \(niconico\)](https://ja.wikipedia.org/wiki/スタンプ_\(niconico\))から翻訳されています。
 
 
 **スタンプ**とは、ニコニコのサービスの使用で条件を満たすと取得できる、かつて[ドワンゴ](../Page/ドワンゴ.md "wikilink")が提供していたサービスである\[1\]。

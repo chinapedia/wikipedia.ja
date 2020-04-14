@@ -1,4 +1,4 @@
-> この記事は[C.J.](https://ja.wikipedia.org/wiki/C.J.)から翻訳されています。
+> この記事は[C.J.チャタム](https://ja.wikipedia.org/wiki/C.J.チャタム)から翻訳されています。
 
 
 **コナー・ジェームズ・チャタム**（**Connor James Chatham**, [1994年](../Page/1994年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") - ）は、 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ブロワード郡](https://ja.wikipedia.org/wiki/ブロワード郡_\(フロリダ州\) "wikilink")[フォートローダーデール](../Page/フォートローダーデール.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[遊撃手](../Page/遊撃手.md "wikilink")）。右投右打。[MLBの](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")所属。

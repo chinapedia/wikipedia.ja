@@ -1,4 +1,4 @@
-> この記事は[II LIVE AT BUDOKAN ](https://ja.wikipedia.org/wiki/II_LIVE_AT_BUDOKAN_)から翻訳されています。
+> この記事は[虹伝説II LIVE AT BUDOKAN 過去へのタイムマシン](https://ja.wikipedia.org/wiki/虹伝説II_LIVE_AT_BUDOKAN_過去へのタイムマシン)から翻訳されています。
 
 
 『**虹伝説II LIVE AT BUDOKAN 過去へのタイムマシン**』（にじでんせつツー ライヴ・アット・ブドウカン かこへのタイムマシン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")にリリースした5枚目の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

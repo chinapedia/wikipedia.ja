@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F・ケオー・グリーソン](https://ja.wikipedia.org/wiki/F・ケオー・グリーソン)から翻訳されています。
 
 
 **フランシス・ケオー・グリーソン**（**Francis Keogh Gleason**, [1906年](../Page/1906年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [1982年](../Page/1982年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")）は、アメリカ合衆国のである。[メトロ・ゴールドウィン・メイヤー](../Page/メトロ・ゴールドウィン・メイヤー.md "wikilink")（MGM）で40年以上にわたって働き、『[巴里のアメリカ人](../Page/巴里のアメリカ人.md "wikilink")』（1951年）、『[悪人と美女](https://ja.wikipedia.org/wiki/悪人と美女 "wikilink")』（1952年）、『[傷だらけの栄光](https://ja.wikipedia.org/wiki/傷だらけの栄光 "wikilink")』（1956年）、『[恋の手ほどき](https://ja.wikipedia.org/wiki/恋の手ほどき "wikilink")』（1958年）で[アカデミー賞](../Page/アカデミー賞.md "wikilink")[美術賞で](../Page/アカデミー美術賞.md "wikilink")4度獲得した。1927年にミネソタ・スクール・オブ・ファイン・アーツ（現在の）を卒業した。

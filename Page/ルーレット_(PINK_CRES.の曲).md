@@ -1,9 +1,11 @@
-> この記事は[ \(PINK CRES.\)](https://ja.wikipedia.org/wiki/_\(PINK_CRES.\))から翻訳されています。
+> この記事は[ルーレット \(PINK CRES.の曲\)](https://ja.wikipedia.org/wiki/ルーレット_\(PINK_CRES.の曲\))から翻訳されています。
 
 
 「**ルーレット**」は、は、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")（[zetimaレーベル](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")）から発売、および配信された[PINK CRES.の](https://ja.wikipedia.org/wiki/PINK_CRES. "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
+
+[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[ふるさとの未来](https://ja.wikipedia.org/wiki/ふるさとの未来 "wikilink")』2020年4月期（\#1 - \#5）エンディングテーマ。
 
 初回生産限定盤、通常盤A・B・Cの4形態で発売。初回生産限定盤にはDVDが付属する。初回仕様の全ての通常盤にはトランプ柄・トレーディングカード（ソロ3種＋集合1種よりランダムにて1枚）が封入されている。
 

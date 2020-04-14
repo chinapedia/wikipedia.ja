@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[ゴジラVSコング](https://ja.wikipedia.org/wiki/ゴジラVSコング)から翻訳されています。
 
 
 『**ゴジラVSコング**（原題）』（原題：*Godzilla vs. Kong*）は、[2020年公開予定の](../Page/2020年の映画.md "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[怪獣映画](../Page/怪獣映画.md "wikilink")。
@@ -27,6 +27,8 @@
   - [カイル・チャンドラー](https://ja.wikipedia.org/wiki/カイル・チャンドラー "wikilink")：マーク・ラッセル
 
   - [デミアン・ビチル](https://ja.wikipedia.org/wiki/デミアン・ビチル "wikilink")：兵士
+
+  - [チャン・ツィイー](../Page/章子怡.md "wikilink")：アリーン・チェン
 
 ## 登場怪獣
 

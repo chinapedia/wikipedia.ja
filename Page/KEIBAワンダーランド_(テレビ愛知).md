@@ -1,4 +1,4 @@
-> この記事は[KEIBA \(\)](https://ja.wikipedia.org/wiki/KEIBA_\(\))から翻訳されています。
+> この記事は[KEIBAワンダーランド \(テレビ愛知\)](https://ja.wikipedia.org/wiki/KEIBAワンダーランド_\(テレビ愛知\))から翻訳されています。
 
 
 『**KEIBAワンダーランド（テレビ愛知制作分）**』は[中京競馬第](../Page/中京競馬場.md "wikilink")3場開催時（[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")・[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）の毎週[土曜日](../Page/土曜日.md "wikilink")15:00〜16:00に[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送されていた[競馬](../Page/競馬.md "wikilink")番組である。[2009年](../Page/2009年.md "wikilink")12月開催まで「土曜スペシャル　競馬中継」もしくは「土曜競馬中継」として送り、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[KBS京都とタイトルを共有するようになった](../Page/京都放送.md "wikilink")。
@@ -59,4 +59,4 @@
   - 2012年3月31日をもって、テレビ愛知が開局以来放送してきた土曜日の競馬中継の放送が終了した。4月7日より三重テレビがテレビ愛知から引き継ぐ形で「うまDOKI」の放送を開始する。
   - 2011年まで夏開催の時にテレビ愛知からの寄贈賞「テレビ愛知オープン」が行われていたが、この時期は中京競馬場が関西のメインとなるため、テレビ愛知は放送とスタジオ提供などの協力部分はあるが、主管制作はKBS京都となるため、実況はKBS側から担当する。
 
-[Category:テレビの競馬番組](https://ja.wikipedia.org/wiki/Category:テレビの競馬番組 "wikilink") [Category:テレビ愛知のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のスポーツ番組 "wikilink") [Category:テレビ愛知の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ愛知の番組の歴史 "wikilink") [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink")
+[Category:ローカルテレビ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の競馬番組 "wikilink") [Category:テレビ愛知のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のスポーツ番組 "wikilink") [Category:テレビ愛知の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ愛知の番組の歴史 "wikilink") [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink")

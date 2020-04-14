@@ -1,4 +1,4 @@
-> この記事は[ \(WOWOW\)](https://ja.wikipedia.org/wiki/_\(WOWOW\))から翻訳されています。
+> この記事は[下町ロケット \(WOWOWのテレビドラマ\)](https://ja.wikipedia.org/wiki/下町ロケット_\(WOWOWのテレビドラマ\))から翻訳されています。
 
 
 『**下町ロケット**』（したまちロケット）は、[2011年](../Page/2011年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで毎週日曜日22時 - 23時に、[WOWOW](../Page/WOWOW.md "wikilink")「[連続ドラマW](../Page/ドラマW.md "wikilink")」で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[三上博史](../Page/三上博史.md "wikilink")\[1\]\[2\]。初回は無料放送された\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[Philosophy \(\)](https://ja.wikipedia.org/wiki/Philosophy_\(\))から翻訳されています。
+> この記事は[Philosophy \(曲\)](https://ja.wikipedia.org/wiki/Philosophy_\(曲\))から翻訳されています。
 
 
 『**Philosophy**』（フィロソフィー）は、[\[Alexandros](https://ja.wikipedia.org/wiki/［ALEXANDROS］ "wikilink")\]の4作目の配信限定[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")に[ユニバーサルミュージックからデジタルリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[1\]。

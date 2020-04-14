@@ -1,4 +1,4 @@
-> この記事は[MT](https://ja.wikipedia.org/wiki/MT)から翻訳されています。
+> この記事は[MTコスメティクス](https://ja.wikipedia.org/wiki/MTコスメティクス)から翻訳されています。
 
 
 **MTコスメティクス**（英語: MT Cosmetics, Inc.）は、化粧品の製造・販売を事業とする日本の企業である。

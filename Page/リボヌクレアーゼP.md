@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[リボヌクレアーゼP](https://ja.wikipedia.org/wiki/リボヌクレアーゼP)から翻訳されています。
 
 
 [RNasePimage_wiki.png](https://ja.wikipedia.org/wiki/File:RNasePimage_wiki.png "fig:RNasePimage_wiki.png")

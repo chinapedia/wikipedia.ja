@@ -1,4 +1,4 @@
-> この記事は[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)から翻訳されています。
+> この記事は[Ubuntuのバージョン履歴](https://ja.wikipedia.org/wiki/Ubuntuのバージョン履歴)から翻訳されています。
 
 
 [Ubuntu_19.10_Eoan_Ermine.png](https://ja.wikipedia.org/wiki/File:Ubuntu_19.10_Eoan_Ermine.png "fig:Ubuntu_19.10_Eoan_Ermine.png")

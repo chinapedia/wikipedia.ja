@@ -1,4 +1,4 @@
-> この記事は[Run Girls, Run!34](https://ja.wikipedia.org/wiki/Run_Girls,_Run!34)から翻訳されています。
+> この記事は[Run Girls, Run!の3人4脚自由形](https://ja.wikipedia.org/wiki/Run_Girls,_Run!の3人4脚自由形)から翻訳されています。
 
 
 『**Run Girls, Run\!の3人4脚自由形**』（ランガールズランのさんにんよんきゃくじゆうがた）は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")と[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で2019年12月10日から配信されている、声優ユニット [Run Girls, Run\!](https://ja.wikipedia.org/wiki/Run_Girls,_Run! "wikilink") によるバラエティ番組。

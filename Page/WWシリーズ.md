@@ -1,4 +1,4 @@
-> この記事は[WW](https://ja.wikipedia.org/wiki/WW)から翻訳されています。
+> この記事は[WWシリーズ](https://ja.wikipedia.org/wiki/WWシリーズ)から翻訳されています。
 
 
 『**WWシリーズ**』（WW series）は、[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")より発行されている[森博嗣](../Page/森博嗣.md "wikilink")の小説シリーズである。

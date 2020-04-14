@@ -1,4 +1,4 @@
-> この記事は[Cheese \(\)](https://ja.wikipedia.org/wiki/Cheese_\(\))から翻訳されています。
+> この記事は[Cheese \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Cheese_\(ソフトウェア\))から翻訳されています。
 
 
 **Cheese**（チーズ）は、[GNOME](../Page/GNOME.md "wikilink")の[Webカメラ](../Page/Webカメラ.md "wikilink")アプリケーション\[1\]で、[UVC](https://ja.wikipedia.org/wiki/UVC "wikilink")ストリームを扱うことができる。[Google Summer of Code](https://ja.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")2007 でDaniel G. Siegelによって開発された。[GStreamer](../Page/GStreamer.md "wikilink")を用いており、画像とビデオにエフェクトを適用することあできる。また、[Flickr](../Page/Flickr.md "wikilink")へのエクスポートに対応するほか、GNOMEに統合されている\[2\]。

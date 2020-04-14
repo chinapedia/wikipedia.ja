@@ -1,11 +1,11 @@
-> この記事は[FAITH \(\)](https://ja.wikipedia.org/wiki/FAITH_\(\))から翻訳されています。
+> この記事は[FAITH \(バンド\)](https://ja.wikipedia.org/wiki/FAITH_\(バンド\))から翻訳されています。
 
 
 **FAITH**（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男女](https://ja.wikipedia.org/wiki/男女 "wikilink")混成5人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[2015年](../Page/2015年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")兼[レーベルは](../Page/レコードレーベル.md "wikilink")[バップ](../Page/バップ.md "wikilink")。　
 
 ## 概要
 
-矢島と荒井からなる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と、ドリチュラーとキャスナー、メランソンからなる[アメリカとの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハーフ](https://ja.wikipedia.org/wiki/ハーフ_\(混血\) "wikilink")、女性2人、男性3人で構成されている。また、ハーフ組は幼馴染でもある。
+矢島と荒井からなる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と、ドリチュラーとキャスナー、メランソンからなる[アメリカとの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハーフ](https://ja.wikipedia.org/wiki/ハーフ_\(混血\) "wikilink")、女性2人、男性3人で構成されている。また、ハーフの3人は幼馴染でもある。
 
 中学2年生の時に兄がバンド活動をしており、それを機に地元の[ライブハウス](../Page/ライブハウス.md "wikilink")である伊那GRAMHOUSEに通い出したのがきっかけで意気投合した矢島、キャスナー、メランソンの3人で前身の[バンドを結成する](../Page/バンド_\(音楽\).md "wikilink")。当初はキャスナーが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めていたが[変声](../Page/変声.md "wikilink")を境に歌えなくなってしまう。その後、中学から高校に進学する[2015年](../Page/2015年.md "wikilink")の春に、幼馴染であり同じように中学時代から伊那GRAMHOUSEに通っていたドリチュラーと荒井が加入して結成された\[1\]\[2\]。
 
@@ -111,10 +111,7 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>4月21日</p></td>
 <td><p>単発公演</p></td>
 <td><p>Up and Coming</p></td>
-<td><p><strong>会場</strong> - 伊那GRAMHOUSE (長野県)</p>
-</div>
-</div>
-<p>初のワンマンライブ。</p></td>
+<td><p><strong>会場</strong> - 伊那GRAMHOUSE (長野県) 初のワンマンライブ。</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月12日 - 7月17日</p></td>
@@ -148,7 +145,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>02/22 アメリカ村BEYOND (大阪府)w/<a href="https://ja.wikipedia.org/wiki/竹内アンナ" title="wikilink">竹内アンナ</a>、<a href="https://ja.wikipedia.org/wiki/The_Winking_Owl" title="wikilink">The Winking Owl</a><br />
-<del>02/28 池下CLUB UPSET (愛知県)w/Mega Shinnosuke</del><br />
+<del>02/28 池下CLUB UPSET (愛知県)w/<a href="https://ja.wikipedia.org/wiki/Mega_Shinnosuke" title="wikilink">Mega Shinnosuke</a></del><br />
 <del>02/29 松本ALECX (長野県)w/FINLANDS、竹内アンナ</del><br />
 <del>03/06 TSUTAYA O-Crest (東京都)</del></p>
 </div>

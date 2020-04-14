@@ -1,4 +1,4 @@
-> この記事は[Chrome](https://ja.wikipedia.org/wiki/Chrome)から翻訳されています。
+> この記事は[Chromeウェブストア](https://ja.wikipedia.org/wiki/Chromeウェブストア)から翻訳されています。
 
 
 **Chrome Web Store**（**CWS**と省略される）は、[Google](../Page/Google.md "wikilink")の、[Google Chromeウェブブラウザのための](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")[オンラインストア](https://ja.wikipedia.org/wiki/オンラインストア "wikilink")である。CWSは[2019年](../Page/2019年.md "wikilink")現在で、190,000の[ウェブアプリ](https://ja.wikipedia.org/wiki/ウェブアプリ "wikilink")と[拡張機能](https://ja.wikipedia.org/wiki/拡張機能 "wikilink")をホストしている\[1\]。

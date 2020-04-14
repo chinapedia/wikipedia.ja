@@ -1,11 +1,11 @@
-> この記事は[The Toys \(\)](https://ja.wikipedia.org/wiki/The_Toys_\(\))から翻訳されています。
+> この記事は[The Toys \(タイのミュージシャン\)](https://ja.wikipedia.org/wiki/The_Toys_\(タイのミュージシャン\))から翻訳されています。
 
 
 **The Toys**（タイ語：เดอะทอยส์、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月1日 - )は[タイ王国](../Page/タイ王国.md "wikilink")の男性[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。本名 タンワー・ブンスンヌーン(タイ語：ธันวา บุญสูงเนิน、ラテン文字表記：Thanwa Boonsoongnern)。英語表記では、冠詞Theを伴う複数形Toysとなっているがソロミュージシャンである。
 
 ## 概要
 
-[タイ](../Page/タイ.md "wikilink")にてデビュー以前より[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")的な活動を、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手などと共に開始する。プロとして本格的に音楽に関わる職業に就く道を模索する過程で、デビュー前に自身で創作した楽曲「หน้าหนาวที่แล้ว(Last Winter) 」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を通じてネット上で拡散することに成功し、話題を得る。同時期に第9回Overdrive Guitar Contestにギタリストとして出場し、優勝する。2017年に [What The Duckレーベルと契約](https://ja.wikipedia.org/wiki/:en:What_The_Duck\(record_label\) "wikilink")。デビュー曲「ก่อนฤดูฝน（Before rain)」は作詞、作曲、編曲、歌唱、楽器演奏、プロデュースを全てひとりでこなし、デビューと同時に異例のヒット。その年の主要な音楽賞を多数受賞。
+[タイにてデビュー以前より](../Page/タイ王国.md "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")的な活動を、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手などと共に開始する。プロとして本格的に音楽に関わる職業に就く道を模索する過程で、デビュー前に自身で創作した楽曲「หน้าหนาวที่แล้ว(Last Winter) 」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を通じてネット上で拡散することに成功し、話題を得る。同時期に第9回Overdrive Guitar Contestにギタリストとして出場し、優勝する。2017年に [What The Duckレーベルと契約](https://ja.wikipedia.org/wiki/:en:What_The_Duck\(record_label\) "wikilink")。デビュー曲「ก่อนฤดูฝน（Before rain)」は作詞、作曲、編曲、歌唱、楽器演奏、プロデュースを全てひとりでこなし、デビューと同時に異例のヒット。その年の主要な音楽賞を多数受賞。
 
 ## 来歴
 

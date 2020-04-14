@@ -1,4 +1,4 @@
-> この記事は[DC-3](https://ja.wikipedia.org/wiki/DC-3)から翻訳されています。
+> この記事は[オランダ王立インド航空DC-3撃墜事件](https://ja.wikipedia.org/wiki/オランダ王立インド航空DC-3撃墜事件)から翻訳されています。
 
 
 [1942年](../Page/1942年.md "wikilink")3月3日、[オランダ王立インド航空](https://ja.wikipedia.org/wiki/オランダ王立インド航空 "wikilink")(KNILM)の[ダグラスDC-3](https://ja.wikipedia.org/wiki/ダグラスDC-3 "wikilink")-194旅客機のPK-AFVペリカンは、[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[第三航空隊](../Page/第三航空隊.md "wikilink")の[零式艦上戦闘機](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink")によって西オーストラリア上空で撃墜され、4人の乗客が死亡し、推定A£150,000-300,000(A£150,000-300,000)相当のダイヤモンドが失われ(2010年の9.5\~19万[オーストラリアドル](https://ja.wikipedia.org/wiki/オーストラリアドル "wikilink")相当)墜落事故の後にダイヤモンドが盗まれたと広く信じられているが、失踪に関連して犯罪で有罪判決を受けた人物はいない。ペリカンは、オランダ領東インド諸島(後のインドネシア)の[バンドン](https://ja.wikipedia.org/wiki/バンドン "wikilink")から、西オーストラリア州の[ブルーム](../Page/ブルーム.md "wikilink")へと飛行していたが、ブルームを空襲し、帰投中の日本海軍機に襲われ、ブルームの北80km(50マイル)のカルノー湾のビーチに墜落した。

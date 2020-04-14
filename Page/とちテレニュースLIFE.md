@@ -1,4 +1,4 @@
-> この記事は[LIFE](https://ja.wikipedia.org/wiki/LIFE)から翻訳されています。
+> この記事は[とちテレニュースLIFE](https://ja.wikipedia.org/wiki/とちテレニュースLIFE)から翻訳されています。
 
 
 『**とちテレニュースLIFE**』（とちテレニュースライフ）は、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")で[2016年](../Page/2016年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[平日](../Page/平日.md "wikilink")の[夜](../Page/夜.md "wikilink")に放送されていた[地域](../Page/ローカル番組.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。

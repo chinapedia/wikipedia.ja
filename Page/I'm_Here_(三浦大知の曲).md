@@ -1,7 +1,7 @@
-> この記事は[I\'m Here \(\)](https://ja.wikipedia.org/wiki/I\'m_Here_\(\))から翻訳されています。
+> この記事は[I\'m Here \(三浦大知の曲\)](https://ja.wikipedia.org/wiki/I\'m_Here_\(三浦大知の曲\))から翻訳されています。
 
 
-「**I'm Here**」（あいむひあ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[三浦大知](../Page/三浦大知.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[SONIC GROOVEから発売された](../Page/SONIC_GROOVE.md "wikilink")。
+「**I'm Here**」（アイム・ヒア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[三浦大知](../Page/三浦大知.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[SONIC GROOVEから発売された](../Page/SONIC_GROOVE.md "wikilink")。
 
 ## 概要
 
@@ -18,19 +18,24 @@
 <!-- end list -->
 
   - CD+[BD盤](../Page/Blu-ray_Disc.md "wikilink")、[CD](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")+[DVD](../Page/DVD.md "wikilink")盤、CD盤の3形態でリリース。
-  - 同曲のMVは、公開から1日目で10万回再生、10日目で100万回再生を突破した。
+  - 同曲のMVは、1月31日に公開され公開から1日目で10万回再生、10日目で100万回再生を突破した。
+  - 同シングルに収録されている「COLORLESS -Choreo Video-」は、3月17日にYouTubeにて公開された。
 
 ## 収録曲
 
 ### CD
 
 1.  **I'm Here**
-    (作詞：三浦大知 / 作曲・編曲：[UTA](https://ja.wikipedia.org/wiki/UTA_\(音楽プロデューサー\) "wikilink"))
+      -
+        (作詞：三浦大知 / 作曲・編曲：[UTA](https://ja.wikipedia.org/wiki/UTA_\(音楽プロデューサー\) "wikilink"))
+    <!-- end list -->
       - TBS系金曜ドラマ「病室で念仏を唱えないでください」主題歌
 2.  **Nothing is All**
-    (作詞：三浦大知 / 作曲：Sunny Boy, 三浦大知 / 編曲：Sunny Boy)
+      -
+        (作詞：三浦大知 / 作曲：Sunny Boy, 三浦大知 / 編曲：Sunny Boy)
 3.  **COLORLESS**
-    (作詞：三浦大知 / 作曲：UTA, 三浦大知 / 編曲：UTA)
+      -
+        (作詞：三浦大知 / 作曲：UTA, 三浦大知 / 編曲：UTA)
 
 ### DVD・Blu-ray
 
@@ -53,6 +58,8 @@
   - (DaichiMiuraCh)
 
   - (DaichiMiuraCh)
+
+  - (avex)
 
 [Category:三浦大知の楽曲](https://ja.wikipedia.org/wiki/Category:三浦大知の楽曲 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 

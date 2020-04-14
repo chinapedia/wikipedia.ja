@@ -1,7 +1,7 @@
 > この記事は[CEREMONY](https://ja.wikipedia.org/wiki/CEREMONY)から翻訳されています。
 
 
-{{ external media | align = right | video1 = [「King Gnu 3rd ALBUM『CEREMONY』Teaser Movie」](https://m.youtube.com/watch?v=JNggadXtKFI) }}
+{{ external media | align = right | video1 = [「King Gnu 3rd ALBUM『CEREMONY』Teaser Movie」](https://www.youtube.com/watch?v=JNggadXtKFI) }}
 
 『**CEREMONY**』（セレモニー）は、日本の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[King Gnuの](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")3枚目の[フル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[Ariola Japanから発売された](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")\[1\]。
 
@@ -58,7 +58,7 @@
       - [ブルボン](../Page/ブルボン.md "wikilink")「[アルフォート](https://ja.wikipedia.org/wiki/アルフォート_\(菓子\) "wikilink")」CMソング
 11. **壇上**
       - 全編に渡り、常田がメインボーカルを務めるバラード曲。元々は収録される予定では無かったが、アルバム全体の流れを考え、急遽、締め切り一週間前に製作された\[7\]。
-      - 常田曰く、King Gnuが解散した際を思い浮かべて歌詞を書いたそう。
+      - 常田曰く、King Gnuが解散した際を思い浮かべて歌詞を書いたという。
 12. **閉会式**
       - 「開会式」「幕間」同様、『Mrs.Vinci In Tokyo』の一部分。
 

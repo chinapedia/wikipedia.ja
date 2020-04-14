@@ -1,4 +1,4 @@
-> この記事は[CPA ](https://ja.wikipedia.org/wiki/CPA_)から翻訳されています。
+> この記事は[CPA コンシェルジュ](https://ja.wikipedia.org/wiki/CPA_コンシェルジュ)から翻訳されています。
 
 
 **CPA CONCIERGE PTE LTD**（シーピーエー コンシェルジュ）は、シンガポールの[クラークキーにオフィスを構える日本人が運営する会計事務所である](https://ja.wikipedia.org/wiki/クラーク・キー駅 "wikilink")。設立日は2014年2月11日、資本金は140,000SGD、代表者は[萱場玄](../Page/萱場玄.md "wikilink")\[1\]。

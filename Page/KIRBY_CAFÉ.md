@@ -1,4 +1,4 @@
-> この記事は[KIRBY CAF](https://ja.wikipedia.org/wiki/KIRBY_CAF)から翻訳されています。
+> この記事は[KIRBY CAFÉ](https://ja.wikipedia.org/wiki/KIRBY_CAFÉ)から翻訳されています。
 
 
 **KIRBY CAFÉ**（カービィカフェ）は、[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が開発している[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[星のカービィ](../Page/星のカービィシリーズ.md "wikilink")』シリーズの世界観をモチーフにしたテーマカフェである\[1\]。[ベネリック](https://ja.wikipedia.org/wiki/ベネリック "wikilink")株式会社がライセンスを取得して店舗運営を行っている\[2\]。
@@ -50,7 +50,7 @@
   - [KIRBY CAFÉ / カービィカフェ 公式サイト](https://kirbycafe.jp)
 
   -
-[Category:星のカービィ](https://ja.wikipedia.org/wiki/Category:星のカービィ "wikilink") [Category:日本の喫茶店](https://ja.wikipedia.org/wiki/Category:日本の喫茶店 "wikilink")
+[Category:星のカービィ](https://ja.wikipedia.org/wiki/Category:星のカービィ "wikilink") [Category:日本の喫茶店](https://ja.wikipedia.org/wiki/Category:日本の喫茶店 "wikilink") [Category:任天堂の関連施設](https://ja.wikipedia.org/wiki/Category:任天堂の関連施設 "wikilink")
 
 1.
 2.

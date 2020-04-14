@@ -1,4 +1,4 @@
-> この記事は[ \(Leigh\)](https://ja.wikipedia.org/wiki/_\(Leigh\))から翻訳されています。
+> この記事は[リー男爵 \(Leigh\)](https://ja.wikipedia.org/wiki/リー男爵_\(Leigh\))から翻訳されています。
 
 
 **リー男爵**(英:**Baron Leigh**)は、イギリスの[男爵](../Page/男爵.md "wikilink")、[貴族](../Page/貴族.md "wikilink")。これまでに2度創設されており、1期目は[イングランド貴族](https://ja.wikipedia.org/wiki/イングランド貴族 "wikilink")として、2期目は[連合王国貴族](https://ja.wikipedia.org/wiki/連合王国貴族 "wikilink")としての叙爵である。いずれもリー家に対するもので、後者が現存する。

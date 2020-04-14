@@ -156,7 +156,7 @@
 
   - 戸口田隆広：[Guitar](../Page/ギター.md "wikilink") (\#1,2,3,4,5,7,8,9,11)
   - maya：Guitar (\#10)
-  - 寺前甲(demetori)：Guitar (\#6)、[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#8)
+  - 寺前甲([demetori](https://ja.wikipedia.org/wiki/Demetori "wikilink"))：Guitar (\#6)、[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#8)
   - RIKO：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#8,10)
   - Rei(vin-PRAD)：Chorus (\#10)
   - 伽音([Soda fountains](https://ja.wikipedia.org/wiki/Soda_fountains "wikilink"))：Chorus (\#6)

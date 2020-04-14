@@ -1,4 +1,4 @@
-> この記事は[SAUDADE \(\)](https://ja.wikipedia.org/wiki/SAUDADE_\(\))から翻訳されています。
+> この記事は[SAUDADE \(高中正義のアルバム\)](https://ja.wikipedia.org/wiki/SAUDADE_\(高中正義のアルバム\))から翻訳されています。
 
 
 『**SAUDADE**』（サダージ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1982年](../Page/1982年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")にリリースした9枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

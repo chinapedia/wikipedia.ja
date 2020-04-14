@@ -1,4 +1,4 @@
-> この記事は[DEEP BLUE \(\)](https://ja.wikipedia.org/wiki/DEEP_BLUE_\(\))から翻訳されています。
+> この記事は[DEEP BLUE \(アルバム\)](https://ja.wikipedia.org/wiki/DEEP_BLUE_\(アルバム\))から翻訳されています。
 
 
 『**DEEP BLUE**』（ディープ・ブルー）は、日本のバンド・[9mm Parabellum Bulletが](../Page/9mm_Parabellum_Bullet.md "wikilink")2019年9月9日に発売した8枚目のオリジナルアルバムである。

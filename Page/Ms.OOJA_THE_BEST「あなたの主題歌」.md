@@ -1,4 +1,4 @@
-> この記事は[Ms.OOJA THE BEST](https://ja.wikipedia.org/wiki/Ms.OOJA_THE_BEST)から翻訳されています。
+> この記事は[Ms.OOJA THE BEST「あなたの主題歌」](https://ja.wikipedia.org/wiki/Ms.OOJA_THE_BEST「あなたの主題歌」)から翻訳されています。
 
 
 『**Ms.OOJA THE BEST「あなたの主題歌」**』（ミス・オオジャ・ザ・ベスト・あなたのしゅだいか）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")\[1\]\[2\]。[2016年](../Page/2016年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")に[ユニバーサルシグマより発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[3\]。

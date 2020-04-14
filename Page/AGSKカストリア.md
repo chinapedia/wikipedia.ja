@@ -1,4 +1,4 @@
-> この記事は[AGSK](https://ja.wikipedia.org/wiki/AGSK)から翻訳されています。
+> この記事は[AGSKカストリア](https://ja.wikipedia.org/wiki/AGSKカストリア)から翻訳されています。
 
 
 **AGSKカストリア**（, ）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[カストリア県](https://ja.wikipedia.org/wiki/カストリア県 "wikilink")[カストリア](https://ja.wikipedia.org/wiki/カストリア "wikilink")をホームタウンとするサッカークラブである。

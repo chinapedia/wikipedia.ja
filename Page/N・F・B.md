@@ -1,4 +1,4 @@
-> この記事は[NFB](https://ja.wikipedia.org/wiki/NFB)から翻訳されています。
+> この記事は[N・F・B](https://ja.wikipedia.org/wiki/N・F・B)から翻訳されています。
 
 
 **株式会社N・F・B**（エヌ・エフ・ビー）は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")にオフィスを構える[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[CJK \(8D00-9FFF\)](https://ja.wikipedia.org/wiki/CJK_\(8D00-9FFF\))から翻訳されています。
+> この記事は[CJK統合漢字 \(8D00-9FFF\)](https://ja.wikipedia.org/wiki/CJK統合漢字_\(8D00-9FFF\))から翻訳されています。
 
 
 <table>

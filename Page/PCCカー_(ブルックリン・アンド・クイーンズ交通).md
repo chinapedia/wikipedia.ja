@@ -1,4 +1,4 @@
-> この記事は[PCC \(\)](https://ja.wikipedia.org/wiki/PCC_\(\))から翻訳されています。
+> この記事は[PCCカー \(ブルックリン・アンド・クイーンズ交通\)](https://ja.wikipedia.org/wiki/PCCカー_\(ブルックリン・アンド・クイーンズ交通\))から翻訳されています。
 
 
 この項目では、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")各都市に導入された[路面電車](../Page/路面電車.md "wikilink")[車両である](../Page/電車.md "wikilink")**[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")**のうち、かつて[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ブルックリン区](../Page/ブルックリン区.md "wikilink")や[クイーンズ区](../Page/クイーンズ区.md "wikilink")に路線網を有していた****（Brooklyn and Queens Transit Corporation、B\&QT）に導入された車両について解説する。同鉄道はPCCカーの開発において実験用車両の提供、試作車の導入を始め多大な貢献を行い、最初の量産型PCCカーが導入されたのもブルックリン・アンド・クイーンズ交通であった。

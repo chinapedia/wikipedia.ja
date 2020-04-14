@@ -1,4 +1,4 @@
-> この記事は[SR ](https://ja.wikipedia.org/wiki/SR_)から翻訳されています。
+> この記事は[SR マーチャント・ネイヴィー形蒸気機関車](https://ja.wikipedia.org/wiki/SR_マーチャント・ネイヴィー形蒸気機関車)から翻訳されています。
 
 
 **サザン鉄道マーチャント・ネイヴィー形蒸気機関車**（サザンてつどうマーチャント・ネイヴィーがたじょうききかんしゃ、英語：SR Merchant Navy class)は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[サザン鉄道](https://ja.wikipedia.org/wiki/サザン鉄道 "wikilink")で使用されていた蒸気機関車。

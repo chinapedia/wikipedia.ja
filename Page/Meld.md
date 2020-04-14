@@ -5,7 +5,7 @@
 
 Meldはまた、ファイル、ディレクトリ、バージョン管理されたレポジトリを比較する。Meldは、ファイルとディレクトリの両方について、2ウェイまたは3ウェイの比較を提供し、[Git](../Page/Git.md "wikilink")、Mercurial、Baazar、[CVS](https://ja.wikipedia.org/wiki/CVS "wikilink")、[Subversion](https://ja.wikipedia.org/wiki/Subversion "wikilink")を含む多くの[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")をサポートする。
 
-Meldは、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")であろ、[GNU GPLに従ってリリースされている](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink")。
+Meldは、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")であり、[GNU GPLに従ってリリースされている](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink")。
 
 ## 必要なライブラリ
 

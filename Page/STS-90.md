@@ -47,6 +47,6 @@ STS-90は、上昇中に[スペースシャトル軌道制御システム](https
   - [NASA mission summary](http://science.ksc.nasa.gov/shuttle/missions/sts-90/mission-sts-90.html)
   - [STS-90 Video Highlights](http://www.nss.org/resources/library/shuttlevideos/shuttle90.htm)
 
-[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1998年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1998年の宇宙飛行 "wikilink") [Category:1998年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1998年のアメリカ合衆国 "wikilink") [Category:1998年4月](https://ja.wikipedia.org/wiki/Category:1998年4月 "wikilink") [Category:1998年5月](https://ja.wikipedia.org/wiki/Category:1998年5月 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1998年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1998年の宇宙飛行 "wikilink") [Category:1998年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1998年のアメリカ合衆国 "wikilink") [Category:1998年4月](https://ja.wikipedia.org/wiki/Category:1998年4月 "wikilink") [Category:1998年5月](https://ja.wikipedia.org/wiki/Category:1998年5月 "wikilink")
 
 1.

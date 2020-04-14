@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2019年](../Page/2019年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売。6th Single。前作『[青空の約束](https://ja.wikipedia.org/wiki/青空の約束 "wikilink")』から約1年振りの発売となった。
+[2020年](../Page/2020年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に発売。6th Single。前作『[青空の約束](https://ja.wikipedia.org/wiki/青空の約束 "wikilink")』から約1年振りの発売となった。
 
 このCDは、2020年の企画「12カ月連続CDリリース」の第1弾。
 

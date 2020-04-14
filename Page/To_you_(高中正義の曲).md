@@ -1,4 +1,4 @@
-> この記事は[To you \(\)](https://ja.wikipedia.org/wiki/To_you_\(\))から翻訳されています。
+> この記事は[To you \(高中正義の曲\)](https://ja.wikipedia.org/wiki/To_you_\(高中正義の曲\))から翻訳されています。
 
 
 「**To you**」（トゥー・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[高中正義](../Page/高中正義.md "wikilink")が[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")にリリースした10枚目の[シングル](../Page/シングル.md "wikilink")である。

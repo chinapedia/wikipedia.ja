@@ -1,4 +1,4 @@
-> この記事は[ \(Hump Back\)](https://ja.wikipedia.org/wiki/_\(Hump_Back\))から翻訳されています。
+> この記事は[人間なのさ \(Hump Backのアルバム\)](https://ja.wikipedia.org/wiki/人間なのさ_\(Hump_Backのアルバム\))から翻訳されています。
 
 
 **『人間なのさ』**（にんげんなのさ）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Hump Backのメジャー](https://ja.wikipedia.org/wiki/Hump_Back "wikilink")1枚目のフルアルバム。[2019年](../Page/2019年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")、[Vap内のレーベル](../Page/バップ.md "wikilink")「林音楽教室」より発売\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ガレス・L・パウエル](https://ja.wikipedia.org/wiki/ガレス・L・パウエル)から翻訳されています。
 
 
 **ガレス・L・パウエル**（Gareth Lyn Powell、[1970年](../Page/1970年.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のSF[作家](../Page/作家.md "wikilink")。

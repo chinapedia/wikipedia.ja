@@ -1,4 +1,4 @@
-> この記事は[NH](https://ja.wikipedia.org/wiki/NH)から翻訳されています。
+> この記事は[NH投資証券](https://ja.wikipedia.org/wiki/NH投資証券)から翻訳されています。
 
 
 **NH投資証券**（エヌエイチとうししょうけん、、、英語略称: NH I\&S）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")最大の[証券会社](../Page/証券会社.md "wikilink")のひとつで、[ソウル](https://ja.wikipedia.org/wiki/ソウル "wikilink")に本拠を置いている。国内支店121店舗と海外子会社を通じて、[財産管理](https://ja.wikipedia.org/wiki/富 "wikilink")、[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")、[証券会社](../Page/証券会社.md "wikilink")、個人および企業向けの幅広い金融サービスを提供している。

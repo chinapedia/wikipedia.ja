@@ -1,4 +1,4 @@
-> この記事は[ STEP ON THE WARRIOR](https://ja.wikipedia.org/wiki/_STEP_ON_THE_WARRIOR)から翻訳されています。
+> この記事は[戦国ダンス STEP ON THE WARRIOR](https://ja.wikipedia.org/wiki/戦国ダンス_STEP_ON_THE_WARRIOR)から翻訳されています。
 
 
 『**戦国ダンス STEP ON THE WARRIOR**』（せんごくダンス ステップ・オン・ザ・ウォーリアー）は、古瀬舞による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[戦国時代](../Page/戦国時代_\(日本\).md "wikilink")[ノベル](https://ja.wikipedia.org/wiki/ノベル "wikilink")作品。[2014年](../Page/2014年.md "wikilink")にはPV化、[2019年](../Page/2019年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には[小坂まりこ](../Page/小坂まりこ.md "wikilink")による漫画化もされている。\[1\]
@@ -12,9 +12,18 @@
   - [豊臣サリナ](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")
     声 - [入江麻衣子](https://ja.wikipedia.org/wiki/入江麻衣子 "wikilink")
     本作の主人公。戦国時代にタイムスリップしてしまった恋に積極的な女子高生。
+
+<!-- end list -->
+
+  - [細川幽斎](../Page/細川幽斎.md "wikilink")
+    声 - [木下鈴奈](../Page/木下鈴奈.md "wikilink")
+    室町最後の後継者である[足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink") に仕える武将。光秀に心を奪われている。
+  - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")
+    声 - [羽根光祐](https://ja.wikipedia.org/wiki/羽根光祐 "wikilink")
+    京の都で足利家の再興を図る[室町時代](../Page/室町時代.md "wikilink") 最後の後継者。
   - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")
     声 - [仲川いずみ](https://ja.wikipedia.org/wiki/仲川いずみ "wikilink")
-    もう１人の主人公。サリナを振ったミチルに瓜２つの少女。
+    サリナを振ったミチルに瓜２つの少女。
   - [今川義元](../Page/今川義元.md "wikilink")
     声 - [武田直人](https://ja.wikipedia.org/wiki/武田直人 "wikilink")
     駿河、遠江、山河を治める大名。天下統一への足掛かりとして尾張に攻め込んでゆく。
@@ -24,12 +33,6 @@
   - [森蘭丸](../Page/森成利.md "wikilink")
     声 - [尚](https://ja.wikipedia.org/wiki/尚 "wikilink")
     織田家に仕えるくのいち(女忍者)。仕事熱心で真面目だが、サリナにいつも振り回されている。
-  - [細川幽斎](../Page/細川幽斎.md "wikilink")
-    声 - [木下鈴奈](../Page/木下鈴奈.md "wikilink")
-    [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink") に仕える武将。光秀に心を奪われている。
-  - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")
-    声 - [羽根光祐](https://ja.wikipedia.org/wiki/羽根光祐 "wikilink")
-    京の都で足利家の再興を図る[室町時代](../Page/室町時代.md "wikilink") 最後の後継者。
   - [濃姫](../Page/濃姫.md "wikilink")
     声 - [水川秋穂](https://ja.wikipedia.org/wiki/水川秋穂 "wikilink")
     礼節を重んじる信長の妹。マイペースであり天然である。

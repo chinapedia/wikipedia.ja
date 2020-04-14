@@ -1,4 +1,4 @@
-> この記事は[Lip](https://ja.wikipedia.org/wiki/Lip)から翻訳されています。
+> この記事は[真っ赤なLip](https://ja.wikipedia.org/wiki/真っ赤なLip)から翻訳されています。
 
 
 </ref>\[1\]
@@ -13,7 +13,8 @@
 
 | Last single = [「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")
 （[1999年](../Page/1999年.md "wikilink")） | This single = **真っ赤なLip**
-（2020年） | Next single = - | Misc =  | EAN = | Tracklist = }} 「**真っ赤なLip**」は、[WANDS](../Page/WANDS.md "wikilink")の16thシングル。[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")に[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")より発売された。表題曲について公式サイトでは「スリリングで挑発的なロック・チューン」と紹介されている\[9\]。
+（2020年） | Next single = [抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")
+（2020年） | Misc =  | EAN = | Tracklist = }} 「**真っ赤なLip**」は、[WANDS](../Page/WANDS.md "wikilink")の16thシングル。[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")に[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")より発売された。表題曲について公式サイトでは「スリリングで挑発的なロック・チューン」と紹介されている\[9\]。
 
 ## 概要
 
@@ -41,11 +42,37 @@
 
 「真っ赤なLip」は[オリコンチャート](../Page/オリコンチャート.md "wikilink")の週間シングルランキングで14位、合算シングルランキングで週間35位、ROCKシングルランキングで週間2位、アニメシングルランキングで週間8位を獲得し、[Billboard JAPANの](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")「[Hot 100](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100 "wikilink")」で週間45位、「[Hot Animation](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Animation "wikilink")」で週間7位、「[Download Songs](https://ja.wikipedia.org/wiki/Billboard_Japan_Download_Songs "wikilink")」で週間27位、「[Top Singles Sales](https://ja.wikipedia.org/wiki/Billboard_Japan_Top_Singles_Sales "wikilink")」で週間16位を獲得した。
 
-オリコンチャートでは「[Brand New Love](../Page/Brand_New_Love.md "wikilink")」以来22年振りのトップ20入りを達成。
+オリコンチャート週間シングルランキングでは「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」の8位以来、22年振りのトップ20入りを達成｡
 
 ## 収録曲
 
-## 出典
+## 収録アルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>楽曲</p></th>
+<th><p>発売日</p></th>
+<th><p>収録アルバム</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>真っ赤なLip</strong></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a></p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』の<a href="https://ja.wikipedia.org/wiki/コンピレーションアルバム" title="wikilink">コンピレーションアルバム</a>。<br />
+「真っ赤なLip -TV size-」のみ収録。</p></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
+
+### 注釈
+
+### 出典
 
 [Category:WANDSの楽曲](https://ja.wikipedia.org/wiki/Category:WANDSの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:大島こうすけが制作した楽曲](https://ja.wikipedia.org/wiki/Category:大島こうすけが制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 

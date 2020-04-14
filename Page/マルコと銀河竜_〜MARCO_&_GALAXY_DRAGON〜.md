@@ -1,4 +1,4 @@
-> この記事は[ MARCO \& GALAXY DRAGON](https://ja.wikipedia.org/wiki/_MARCO_\&_GALAXY_DRAGON)から翻訳されています。
+> この記事は[マルコと銀河竜 〜MARCO \& GALAXY DRAGON〜](https://ja.wikipedia.org/wiki/マルコと銀河竜_〜MARCO_\&_GALAXY_DRAGON〜)から翻訳されています。
 
 
 『**マルコと銀河竜 ～MARCO & GALAXY DRAGON～**』（マルコとぎんがりゅう）は、[TOKYOTOON](https://ja.wikipedia.org/wiki/TOKYOTOON "wikilink")より[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された[美少女アドベンチャーゲームである](../Page/美少女ゲーム.md "wikilink")。

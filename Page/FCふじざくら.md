@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCふじざくら](https://ja.wikipedia.org/wiki/FCふじざくら)から翻訳されています。
 
 
 **FCふじざくら**（FC FUJIZAKURA）は [山梨県](../Page/山梨県.md "wikilink")[南都留郡](../Page/南都留郡.md "wikilink")[鳴沢村](../Page/鳴沢村.md "wikilink")に本拠地を置く[女子サッカー](../Page/女子サッカー.md "wikilink")チームである。

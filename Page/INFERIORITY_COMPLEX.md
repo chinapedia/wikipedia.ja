@@ -1,11 +1,13 @@
 > この記事は[INFERIORITY COMPLEX](https://ja.wikipedia.org/wiki/INFERIORITY_COMPLEX)から翻訳されています。
 
 
-『**INFERIORITY COMPLEX**』は、[Lynch.](https://ja.wikipedia.org/wiki/Lynch. "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+『**INFERIORITY COMPLEX**』は、[lynch.](https://ja.wikipedia.org/wiki/lynch. "wikilink")の通算6枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 解説
 
-初回限定盤と通常盤の2形態で発売された。初回限定盤の付属DVDには収録曲の「INFERIORITY COMPLEX」と「FROZEN」のミュージック・ビデオが収録されている。
+初回盤と通常盤の2形態でリリース。 初回盤には「INFERIORITY COMPLEX」と「FROZEN」のMVが付属。
+
+またレコーディング時期に、LUNA SEAのINORANも同じ建物内のスタジオにて収録しており、ワンフレーズではあるが"EXPERIENCE"でアルペジオを弾いている。
 
 ## 収録曲
 

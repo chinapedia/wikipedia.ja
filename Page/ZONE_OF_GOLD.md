@@ -13,19 +13,30 @@
 ### CD
 
 1.  **ZONE OF GOLD** (3:15)
-      - 作詞・作曲：[RYUJI IMAICHI](https://ja.wikipedia.org/wiki/今市隆二 "wikilink"), YVES\&ADAMS, T-SK, BIG-F
+      -
+        作詞・作曲：[RYUJI IMAICHI](https://ja.wikipedia.org/wiki/今市隆二 "wikilink"), YVES\&ADAMS, T-SK, BIG-F
 2.  **TUXEDO** (2:55)
-      - 作詞：RYUJI IMAICHI, YVES\&ADAMS、作曲：[Erik Lidbom](https://ja.wikipedia.org/wiki/Erik_Lidbom "wikilink"), MLC
+      -
+        作詞：RYUJI IMAICHI, YVES\&ADAMS、作曲：[Erik Lidbom](https://ja.wikipedia.org/wiki/Erik_Lidbom "wikilink"), MLC
+    <!-- end list -->
+      - [じゃらん](../Page/じゃらん.md "wikilink") 2020春CM「今市隆二と旅しよう。」篇
 3.  **Kiss & Tell** (3:27)
-      - 作詞：TOMA, YVES\&ADAMS 作曲：FAST LANE, MARIA MARCUS & ANDREW CHOI
+      -
+        作詞：TOMA, YVES\&ADAMS 作曲：FAST LANE, MARIA MARCUS & ANDREW CHOI
 4.  **Sweet Therapy** (4:14)
-      - 作詞・作曲：RYUJI IMAICHI, T-SK, HIROMI, BIG-F
+      -
+        作詞・作曲：RYUJI IMAICHI, T-SK, HIROMI, BIG-F
 5.  **RILY** (3:00)
-      - 作詞・作曲：RYUJI IMAICHI, [JAY'ED](../Page/JAY'ED.md "wikilink"), Chaki Zulu
+      -
+        作詞・作曲：RYUJI IMAICHI, [JAY'ED](../Page/JAY'ED.md "wikilink"), Chaki Zulu
 6.  **Church by the sea** (4:47)
-      - 作詞：[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲：MATS LIE SKARE, FAST LANE
+      -
+        作詞：[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲：MATS LIE SKARE, FAST LANE
+    <!-- end list -->
+      - 映画『その瞬間、僕は泣きたくなった-CINEMA FIGHTERS project-「On The Way」』主題歌
 7.  **Over The Night** (3:59)
-      - 作詞：TAKANORI ([LL BROTHERS](../Page/LL_BROTHERS.md "wikilink"))、ALLY 作曲：FAST LANE RICO GREENE
+      -
+        作詞：TAKANORI ([LL BROTHERS](../Page/LL_BROTHERS.md "wikilink"))、ALLY 作曲：FAST LANE RICO GREENE
 
 ### DVD/Blu-ray
 

@@ -1,4 +1,4 @@
-> この記事は[Heath \(\)](https://ja.wikipedia.org/wiki/Heath_\(\))から翻訳されています。
+> この記事は[Heath \(映像作品\)](https://ja.wikipedia.org/wiki/Heath_\(映像作品\))から翻訳されています。
 
 
 『**heath**』（ヒース）は、[X JAPANのベーシスト](../Page/X_JAPAN.md "wikilink")、[heathが](../Page/HEATH.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")にリリースした[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")。[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")が付属している。

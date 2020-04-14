@@ -1,4 +1,4 @@
-> この記事は[-BURSTGIRL-](https://ja.wikipedia.org/wiki/-BURSTGIRL-)から翻訳されています。
+> この記事は[爆裂女子-BURSTGIRL-](https://ja.wikipedia.org/wiki/爆裂女子-BURSTGIRL-)から翻訳されています。
 
 
 **爆裂女子-BURSTGIRL-**（ばくれつじょし）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。

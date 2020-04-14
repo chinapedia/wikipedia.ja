@@ -1,4 +1,4 @@
-> この記事は[K-POP FESTIVAL](https://ja.wikipedia.org/wiki/K-POP_FESTIVAL)から翻訳されています。
+> この記事は[さっぽろ雪まつりK-POP FESTIVAL](https://ja.wikipedia.org/wiki/さっぽろ雪まつりK-POP_FESTIVAL)から翻訳されています。
 
 
 **さっぽろ雪まつりK-POP FESTIVAL**（さっぽろゆきまつりケーポップフェスティバル、）は毎年2月[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")実行委員会とNPO法人日韓文化交流会の共催で行われるチャリティイベントである。

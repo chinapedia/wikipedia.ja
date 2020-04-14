@@ -1,4 +1,4 @@
-> この記事は[NIRA \(\)](https://ja.wikipedia.org/wiki/NIRA_\(\))から翻訳されています。
+> この記事は[NIRA \(音楽ユニット\)](https://ja.wikipedia.org/wiki/NIRA_\(音楽ユニット\))から翻訳されています。
 
 
 **NIRA**（ニラ）は、藤崎ふみと藤崎しおりの姉妹による日本のジャズユニット。姉妹はアイドルグループ[BANZAI JAPANのメンバーでもある](https://ja.wikipedia.org/wiki/BANZAI_JAPAN "wikilink")。

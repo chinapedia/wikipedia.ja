@@ -154,4 +154,4 @@
 
 ## 外部リンク
 
-[Category:2019年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2019年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2019年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2019年のライブ・ビデオ "wikilink")

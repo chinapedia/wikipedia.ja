@@ -1,4 +1,4 @@
-> この記事は[ Mk.II](https://ja.wikipedia.org/wiki/_Mk.II)から翻訳されています。
+> この記事は[ヴィッカース中戦車 Mk.II](https://ja.wikipedia.org/wiki/ヴィッカース中戦車_Mk.II)から翻訳されています。
 
 
 **ヴィッカース中戦車 Mk.II**とは[ヴィッカース](../Page/ヴィッカース.md "wikilink")によって[戦間期](../Page/戦間期.md "wikilink")に製造された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[中戦車](../Page/中戦車.md "wikilink")である。

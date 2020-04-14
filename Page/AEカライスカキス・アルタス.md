@@ -1,4 +1,4 @@
-> この記事は[AE](https://ja.wikipedia.org/wiki/AE)から翻訳されています。
+> この記事は[AEカライスカキス・アルタス](https://ja.wikipedia.org/wiki/AEカライスカキス・アルタス)から翻訳されています。
 
 
 **AEカライスカキス・アルタス**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[アルタ県](https://ja.wikipedia.org/wiki/アルタ県 "wikilink")[アルタをホームタウンとするサッカークラブである](https://ja.wikipedia.org/wiki/アルタ_\(ギリシャ\) "wikilink")。

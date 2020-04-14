@@ -1,4 +1,4 @@
-> この記事は[ B ](https://ja.wikipedia.org/wiki/_B_)から翻訳されています。
+> この記事は[マーク B 中戦車](https://ja.wikipedia.org/wiki/マーク_B_中戦車)から翻訳されています。
 
 
 **マークB中戦車**とは、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")時にホイペット中戦車の後継として開発された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")である。しかし、最終的に性能不足であることから戦争終結の時点で量産がキャンセルされた。

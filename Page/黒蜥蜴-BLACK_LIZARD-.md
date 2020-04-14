@@ -1,4 +1,4 @@
-> この記事は[-BLACK LIZARD-](https://ja.wikipedia.org/wiki/-BLACK_LIZARD-)から翻訳されています。
+> この記事は[黒蜥蜴-BLACK LIZARD-](https://ja.wikipedia.org/wiki/黒蜥蜴-BLACK_LIZARD-)から翻訳されています。
 
 
 『**黒蜥蜴-BLACK LIZARD-**』（くろとかげ ブラックリザード）は、[NHK BSプレミアムで](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「特集ドラマ」として[2019年](../Page/2019年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")の21時から22時59分に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")\[1\]。[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")の生誕125周年に、乱歩の傑作[推理小説](../Page/推理小説.md "wikilink")『[黒蜥蜴](../Page/黒蜥蜴.md "wikilink")』を近未来を舞台に大胆に翻案して映像化する\[2\]。主演の黒蜥蜴役を[りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")、[明智小五郎](../Page/明智小五郎.md "wikilink")役を[永山絢斗](https://ja.wikipedia.org/wiki/永山絢斗 "wikilink")が演じた。
@@ -77,7 +77,7 @@
 
   - \- [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
 
-[Category:2019年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2019年のテレビドラマ "wikilink") [Category:江戸川乱歩原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作のテレビドラマ "wikilink") [Category:NHK_BSプレミアムのテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムのテレビドラマ "wikilink") [Category:東映のテレビドラマ](https://ja.wikipedia.org/wiki/Category:東映のテレビドラマ "wikilink") [Category:NHK_BS4Kの番組](https://ja.wikipedia.org/wiki/Category:NHK_BS4Kの番組 "wikilink") [Category:怪盗を主人公としたフィクション作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公としたフィクション作品 "wikilink")
+[Category:2019年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2019年のテレビドラマ "wikilink") [Category:江戸川乱歩原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作のテレビドラマ "wikilink") [Category:NHK_BSプレミアムのテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムのテレビドラマ "wikilink") [Category:東映のテレビドラマ](https://ja.wikipedia.org/wiki/Category:東映のテレビドラマ "wikilink") [Category:NHK_BS4Kの番組](https://ja.wikipedia.org/wiki/Category:NHK_BS4Kの番組 "wikilink") [Category:怪盗を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:怪盗を主人公としたテレビドラマ "wikilink")
 
 1.
 2.

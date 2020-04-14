@@ -1,4 +1,4 @@
-> この記事は[AO](https://ja.wikipedia.org/wiki/AO)から翻訳されています。
+> この記事は[AOトリカラ](https://ja.wikipedia.org/wiki/AOトリカラ)から翻訳されています。
 
 
 **AOトリカラ**（）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[トリカラ県](https://ja.wikipedia.org/wiki/トリカラ県 "wikilink")[トリカラ](https://ja.wikipedia.org/wiki/トリカラ "wikilink")をホームタウンとするサッカークラブである。

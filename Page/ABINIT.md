@@ -7,7 +7,7 @@
 
 ## 概要
 
-ABINITは、材料中の電子を記述する[コーン–シャム方程式](https://ja.wikipedia.org/wiki/コーン–シャム方程式 "wikilink")を解くことによって[密度汎関数理論](../Page/密度汎関数理論.md "wikilink")を実装する。平面波基底関数系によって拡張され、[自己無撞着共役勾配法を使ってエネルギー最小構造を決定する](https://ja.wikipedia.org/wiki/セルフコンシステント "wikilink")。計算効率性は[高速フーリエ変換](../Page/高速フーリエ変換.md "wikilink")\[5\]および内殻電子を記述するための[擬ポテンシャル](../Page/擬ポテンシャル.md "wikilink")を使用することで達成される。標準的な[ノルム保存型擬ポテンシャル](../Page/ノルム保存型擬ポテンシャル.md "wikilink")の代替として、[PAW法](../Page/PAW法.md "wikilink")\[6\]（projector augmented-wave method）を使うことができる。全エネルギーに加えて、幾何最適化および*[ab initio](https://ja.wikipedia.org/wiki/ab_initio "wikilink")*[分子動力学](https://ja.wikipedia.org/wiki/分子動力学 "wikilink")を実行できるように力および応力を計算することもでりう。ABINITによって扱うことのできる材料としては、絶縁体、金属、ならびに[モット-ハバード絶縁体を含む磁気的に秩序化した系がある](https://ja.wikipedia.org/wiki/モット絶縁体 "wikilink")。
+ABINITは、材料中の電子を記述する[コーン–シャム方程式](https://ja.wikipedia.org/wiki/コーン–シャム方程式 "wikilink")を解くことによって[密度汎関数理論](../Page/密度汎関数理論.md "wikilink")を実装する。平面波基底関数系によって拡張され、[自己無撞着共役勾配法を使ってエネルギー最小構造を決定する](https://ja.wikipedia.org/wiki/セルフコンシステント "wikilink")。計算効率性は[高速フーリエ変換](../Page/高速フーリエ変換.md "wikilink")\[5\]および内殻電子を記述するための[擬ポテンシャル](../Page/擬ポテンシャル.md "wikilink")を使用することで達成される。標準的な[ノルム保存型擬ポテンシャル](../Page/ノルム保存型擬ポテンシャル.md "wikilink")の代替として、[PAW法](../Page/PAW法.md "wikilink")\[6\]（projector augmented-wave method）を使うことができる。全エネルギーに加えて、幾何最適化および*[ab initio](https://ja.wikipedia.org/wiki/ab_initio "wikilink")*[分子動力学](https://ja.wikipedia.org/wiki/分子動力学 "wikilink")を実行できるように力および応力を計算することもできる。ABINITによって扱うことのできる材料としては、絶縁体、金属、ならびに[モット-ハバード絶縁体を含む磁気的に秩序化した系がある](https://ja.wikipedia.org/wiki/モット絶縁体 "wikilink")。
 
 ## 導出特性
 

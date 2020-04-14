@@ -1,7 +1,13 @@
-> この記事は[DressingNice Fantasy!!](https://ja.wikipedia.org/wiki/DressingNice_Fantasy!!)から翻訳されています。
+> この記事は[DressingのNice Fantasy!!](https://ja.wikipedia.org/wiki/DressingのNice_Fantasy!!)から翻訳されています。
 
 
-『**DressingのNICE FANTASY\!\!**』（ドレッシングのナイス・ファンタジー）は [RCCラジオ（中国放送）](../Page/中国放送.md "wikilink") 制作の音楽番組・トーク番組。ファンタジー系シンガーソングライターの[Dressingにとって初めての冠番組でもある](https://ja.wikipedia.org/wiki/Dressing_\(シンガーソングライター\) "wikilink")。
+『**DressingのNICE FANTASY\!\!**』（ドレッシングのナイス・ファンタジー）は [RCCラジオ（中国放送）](../Page/中国放送.md "wikilink") 制作の音楽番組・トーク番組。ファンタジー系[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[Dressingにとって初めての](https://ja.wikipedia.org/wiki/Dressing_\(シンガーソングライター\) "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもある。
+
+## 放送時間
+
+2017年4月3日 - 2020年3月23日　毎週月曜21:45 - 22:00 (15分)
+
+2020年4月5日 - （予定）　毎週日曜21:00 - 21:30 （30分）
 
 ## コーナー紹介
 
@@ -52,6 +58,7 @@
 | 2019年12月 | 兄弟、姉妹のお話〜フローズンファンタジー      |
 | 2020年1月  | なし                        |
 | 2020年2月  |                           |
+| 2020年3月  | 今だから言いたい ありがとう♥ありがとう      |
 
 なお、メール募集のあとで感想などを[Twitter](../Page/Twitter.md "wikilink")でツイートするよう呼びかけており、「**ほめられると伸びるタイプなの！**\[2\]」と言ってコーナーを締めるのがお約束である。
 
@@ -224,14 +231,17 @@ Dressingが他のアーティストの楽曲をカラオケに乗せて歌うコ
 | 第147回        | [スピーチレス〜心の声](https://www.youtube.com/watch?v=IO1CtCHKyrQ&list=PL8BeJorCAgIRA8wmcZEUT_jBWJ6GbC-H6)                                                               | ディズニー映画『アラジン』より                                                                                                            |
 | Revival Love | 超特急                                                                                                                                                             |                                                                                                                            |
 | 第148回        | さよならの前に                                                                                                                                                         | AAA                                                                                                                        |
-| 第149回        |                                                                                                                                                                 |                                                                                                                            |
-| 第150回        |                                                                                                                                                                 |                                                                                                                            |
+| 第149回        | Naked                                                                                                                                                           | SPYAIR                                                                                                                     |
+| 第150回        | 3月9日                                                                                                                                                            | [レミオロメン](../Page/レミオロメン.md "wikilink")                                                                                     |
 
 第101回〜第150回
 
+
+{| class="wikitable mw-collapsible" |+第151回～第155回 \!<small>放送回</small> \!<small>曲名</small> \!<small>オリジナルアーティスト</small> |- |<small>第151回</small> |<small>WINDING ROAD</small> |<small>コブクロ＆絢香</small> |- |<small>第152回</small> | | |- |<small>第153回</small> | | |- |<small>第154回</small> | | |- |<small>第155回</small> | | |}
+
 ### エンディング
 
-「最新のDressing情報」として直近のスケジュールを紹介するが、時間が限られていることもあり「詳細はDressingのホームページやSNSをご覧ください」と言って締めたのち、「**この後もRCCランドでお楽しみください。案内人はDressingでした。それでは手を前に出して…ナイスファンタジー！**」と言って放送を終える。
+「最新のDressing情報」として直近のスケジュールを紹介するが、時間が限られていることもあり「詳細はDressingのホームページやSNSをご覧ください」と言って締めたのち、「**この後もRCCランドでお楽しみください。御相手はDressingでした。それでは手を前に出して…ナイスファンタジー！**」と言って放送を終える。
 
 #### 過去のコーナー
 
@@ -261,12 +271,13 @@ Mirror Mirror Mirrors（2018年5月 - 8月)
   - 2017年10月には[小出祐介](../Page/小出祐介.md "wikilink")（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）が、2019年10月には[SPYAIR](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")のMOMIKEN・KENTA\[23\]など、広島でライブを行った著名なアーティストからのコメントが放送で紹介されることがある。
   - 2020年1月には初のゲストとしてHánnaが登場した。
   - 本番組は事前収録の形式をとっているが、2017年および2018年のナイターシーズンは [RCCカープナイター](../Page/RCCカープナイター.md "wikilink") の放送時間が延長となり、放送されなかったことがある。そのため、2019年のプロ野球シーズンには日曜日の 22:40 から再放送が行われ、9月のシーズン終了まで続いた。
+  - 2020年3月16日放送分において、2020年 4月から放送枠の移動が行われることが発表された。毎週日曜日 21:00から放送されるうえに、放送時間も15分間から30分間に拡大される。
 
 ## 脚注
 
 ## 関連項目
 
-  - [平成ラヂオバラエティ ごぜん様さま](../Page/平成ラヂオバラエティごぜん様さま.md "wikilink")（「ファインディング ありがとう♥ありがとう」に出演）
+  - [平成ラヂオバラエティ ごぜん様さま](../Page/平成ラヂオバラエティごぜん様さま.md "wikilink")（「ファインディング ありがとう♥ありがとう」に出演）※2020年3月末で終了。
   - [❤︎Dressingのポジティブファンタジー❤︎](https://radiotalk.jp/program/25370) - [Radiotalk](https://ja.wikipedia.org/wiki/Radiotalk "wikilink")（この番組で過去に取り上げた内容を再度紹介するコーナーがある）
 
 ## 公式サイト

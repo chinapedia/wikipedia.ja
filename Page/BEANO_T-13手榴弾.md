@@ -1,4 +1,4 @@
-> この記事は[BEANO T-13](https://ja.wikipedia.org/wiki/BEANO_T-13)から翻訳されています。
+> この記事は[BEANO T-13手榴弾](https://ja.wikipedia.org/wiki/BEANO_T-13手榴弾)から翻訳されています。
 
 
 **BEANO T-13**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")末期に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で試作された[手榴弾](../Page/手榴弾.md "wikilink")である。[戦略情報局](https://ja.wikipedia.org/wiki/Office_of_Strategic_Services "wikilink")（OSS）が[イーストマン・コダック社と共に開発した](../Page/コダック.md "wikilink")。

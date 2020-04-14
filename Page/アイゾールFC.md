@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アイゾールFC](https://ja.wikipedia.org/wiki/アイゾールFC)から翻訳されています。
 
 
 **アイゾールFC** () は[インド](../Page/インド.md "wikilink")の[ミゾラム州](../Page/ミゾラム州.md "wikilink")[アイゾール](../Page/アイゾール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[1984年](../Page/1984年.md "wikilink")に創設されたアイゾールFCは、で優勝してのチームとしては初めてIリーグのタイトルを獲得し\[1\]、[2015–16シーズンからは](https://ja.wikipedia.org/wiki/:en:2015–16_I-League "wikilink")、国内最上位リーグである[Iリーグ](../Page/Iリーグ.md "wikilink")に所属しており\[2\]、[2016–17シーズンには優勝を果たした](https://ja.wikipedia.org/wiki/:en:2016–17_I-League "wikilink")\[3\]。

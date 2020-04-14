@@ -1,4 +1,4 @@
-> この記事は[CE](https://ja.wikipedia.org/wiki/CE)から翻訳されています。
+> この記事は[CEルスピタレート](https://ja.wikipedia.org/wiki/CEルスピタレート)から翻訳されています。
 
 
 **セントラ・ダスポルツ・ルスピタレート**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")[バルセロナ県](../Page/バルセロナ県.md "wikilink")[ルスピタレート・ダ・リュブラガート](https://ja.wikipedia.org/wiki/ルスピタレート・ダ・リュブラガート "wikilink")に本拠地を置く[サッカークラブ](https://ja.wikipedia.org/wiki/サッカークラブ "wikilink")。1957年に設立された。現在は[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）に所属している。

@@ -1,4 +1,4 @@
-> この記事は[IPad \(7\)](https://ja.wikipedia.org/wiki/IPad_\(7\))から翻訳されています。
+> この記事は[IPad \(第7世代\)](https://ja.wikipedia.org/wiki/IPad_\(第7世代\))から翻訳されています。
 
 
 **iPad**（アイパッド）は、アップルが開発、販売するタブレット型コンピューターであ る。[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")シリーズの第7世代にあたる機種。　　　　　　　　　　　　　　　　　　　　　

@@ -1,4 +1,4 @@
-> この記事は[Porte \(\)](https://ja.wikipedia.org/wiki/Porte_\(\))から翻訳されています。
+> この記事は[Porte \(アルバム\)](https://ja.wikipedia.org/wiki/Porte_\(アルバム\))から翻訳されています。
 
 
 『**porte**』（ポルテ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のシンガーソングライター[須田景凪](https://ja.wikipedia.org/wiki/須田景凪 "wikilink")の2枚目の[EP](../Page/コンパクト盤.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")系列の[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")。
@@ -14,13 +14,18 @@
 
 ## 収録曲
 
-全5曲 作詞・作曲・編曲：須田景凪
+作詞・作曲・編曲：須田景凪
 
-  - veil
-  - MOIL
-  - 語るに落ちる
-  - 青嵐
-  - couch
+1.  **veil**
+      - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系列アニメ『[炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊 "wikilink")』エンディングテーマ
+    <!-- end list -->
+      -
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[アボガド6](../Page/アボガド6.md "wikilink")が監督を務めた。
+2.  **MOIL**
+      - [ワーナー・ブラザース映画配給アニメーション映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")『[二ノ国](https://ja.wikipedia.org/wiki/二ノ国 "wikilink")』主題歌
+3.  **語るに落ちる**
+4.  **青嵐**
+5.  **couch**
 
 ## 脚注
 

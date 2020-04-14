@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[さそり座H星](https://ja.wikipedia.org/wiki/さそり座H星)から翻訳されています。
 
 
 **さそり座H星**は、[さそり座](../Page/さそり座.md "wikilink")の4等星。かつては、[じょうぎ座](../Page/じょうぎ座.md "wikilink")のβ星とされていたが、現在はさそり座にある。

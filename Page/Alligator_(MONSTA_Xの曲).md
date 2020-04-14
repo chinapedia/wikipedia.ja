@@ -1,4 +1,4 @@
-> この記事は[Alligator \(MONSTA X\)](https://ja.wikipedia.org/wiki/Alligator_\(MONSTA_X\))から翻訳されています。
+> この記事は[Alligator \(MONSTA Xの曲\)](https://ja.wikipedia.org/wiki/Alligator_\(MONSTA_Xの曲\))から翻訳されています。
 
 
 「**Alligator**」（アリゲーター）は、韓国の男性7人組の歌手グループ、[MONSTA Xの日本](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")6枚目のシングル。

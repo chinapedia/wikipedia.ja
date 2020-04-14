@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ソルティーロ・アンコールFC](https://ja.wikipedia.org/wiki/ソルティーロ・アンコールFC)から翻訳されています。
 
 
 **ソルティーロ・アンコールFC**（）は[カンボジア](../Page/カンボジア.md "wikilink")・[シェムリアップ](../Page/シェムリアップ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2018年4月に[HONDA ESTILO株式会社から分社した](https://ja.wikipedia.org/wiki/HONDA_ESTILO "wikilink")[SOLTILO](https://ja.wikipedia.org/wiki/SOLTILO "wikilink")株式会社がクラブを保有しており、[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")が実質的なオーナーである。

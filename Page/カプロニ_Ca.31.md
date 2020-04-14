@@ -1,4 +1,4 @@
-> この記事は[ Ca.31](https://ja.wikipedia.org/wiki/_Ca.31)から翻訳されています。
+> この記事は[カプロニ Ca.31](https://ja.wikipedia.org/wiki/カプロニ_Ca.31)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Caproni_31_San_Diego_Air_&_Space_Museum_2.jpg "wikilink") **カプロニca.31**（）とは、[カプロニ](https://ja.wikipedia.org/wiki/カプロニ "wikilink")社が製造した[多発複葉機](../Page/複葉機.md "wikilink") (基本2人乗り) である。同社Ca.1型機の派生型で、主に[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")頃に使用された ([戦時中](https://ja.wikipedia.org/wiki/戦時中 "wikilink")の利用方法に関しては後述)。

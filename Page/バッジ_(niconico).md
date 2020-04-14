@@ -1,4 +1,4 @@
-> この記事は[ \(niconico\)](https://ja.wikipedia.org/wiki/_\(niconico\))から翻訳されています。
+> この記事は[バッジ \(niconico\)](https://ja.wikipedia.org/wiki/バッジ_\(niconico\))から翻訳されています。
 
 
 **バッジ**とは、ニコニコ内で特定の条件を達成すると獲得できる達成の証である\[1\]。

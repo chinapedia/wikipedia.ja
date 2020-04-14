@@ -1,4 +1,4 @@
-> この記事は[ THE BEST](https://ja.wikipedia.org/wiki/_THE_BEST)から翻訳されています。
+> この記事は[鋼の錬金術師 THE BEST](https://ja.wikipedia.org/wiki/鋼の錬金術師_THE_BEST)から翻訳されています。
 
 
 『**鋼の錬金術師 THE BEST**』（はがねのれんきんじゅつし ザ・ベスト）は、日本の[オムニバスアルバム](https://ja.wikipedia.org/wiki/オムニバスアルバム "wikilink")である。[2012年](../Page/2012年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")発売\[1\]。

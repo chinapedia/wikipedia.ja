@@ -1,4 +1,4 @@
-> この記事は[Here \& there \(\)](https://ja.wikipedia.org/wiki/Here_\&_there_\(\))から翻訳されています。
+> この記事は[Here \& there \(杉山清貴のアルバム\)](https://ja.wikipedia.org/wiki/Here_\&_there_\(杉山清貴のアルバム\))から翻訳されています。
 
 
 『**here & there**』（ヒアー・アンド・ゼアー）は、[杉山清貴](../Page/杉山清貴.md "wikilink")の4枚目のアルバム。

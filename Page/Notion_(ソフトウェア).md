@@ -1,4 +1,4 @@
-> この記事は[Notion \(\)](https://ja.wikipedia.org/wiki/Notion_\(\))から翻訳されています。
+> この記事は[Notion \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Notion_\(ソフトウェア\))から翻訳されています。
 
 
 [Markdown](https://ja.wikipedia.org/wiki/Markdown "wikilink") | 公式サイト =  }} **Notion**は、タスク、Wiki、およびデータベースを統合する[マークダウンサポートを備えた](https://ja.wikipedia.org/wiki/Markdown "wikilink")[メモアプリケーション及びサービス](../Page/要約筆記.md "wikilink")。 同社はこのアプリを、メモ作成、プロジェクト管理、タスク管理のためのオールインワンワークスペースと説明している。 \[1\] 同社によって提供されるクロスプラットフォームアプリに加えて、ほとんどの[Webブラウザーからアクセス可能である](../Page/ウェブブラウザ.md "wikilink")。 \[2\] 本社はカリフォルニア州サンフランシスコに所在。

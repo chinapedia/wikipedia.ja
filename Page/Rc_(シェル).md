@@ -1,4 +1,4 @@
-> この記事は[Rc \(\)](https://ja.wikipedia.org/wiki/Rc_\(\))から翻訳されています。
+> この記事は[Rc \(シェル\)](https://ja.wikipedia.org/wiki/Rc_\(シェル\))から翻訳されています。
 
 
 **rc**（"run commands"）は、[Version 10 Unixと](../Page/Research_Unix.md "wikilink")[Plan 9のための](../Page/Plan_9_from_Bell_Labs.md "wikilink")[コマンドラインインターフェースである](../Page/キャラクタユーザインタフェース.md "wikilink")。rcは[Bourne shellに似ているが](https://ja.wikipedia.org/wiki/Bourne_shell "wikilink")、その構文はより簡潔なものになっている。また、rcはトム・ダフによって作られた。彼は[Duff's deviceと呼ばれる](../Page/Duff's_device.md "wikilink")[C言語](../Page/C言語.md "wikilink")の構築で有名である。

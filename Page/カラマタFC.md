@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[カラマタFC](https://ja.wikipedia.org/wiki/カラマタFC)から翻訳されています。
 
 
 **カラマタFC**（Kalamata FC）は、[ギリシャ](../Page/ギリシャ.md "wikilink")の[メッシニア県](https://ja.wikipedia.org/wiki/メッシニア県 "wikilink")[カラマタ](https://ja.wikipedia.org/wiki/カラマタ "wikilink")をホームタウンとするサッカークラブである。

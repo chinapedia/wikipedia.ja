@@ -1,4 +1,4 @@
-> この記事は[:Twitch](https://ja.wikipedia.org/wiki/:Twitch)から翻訳されています。
+> この記事は[モジュール:Twitch](https://ja.wikipedia.org/wiki/モジュール:Twitch)から翻訳されています。
 
 
 local p = {};

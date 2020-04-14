@@ -1,4 +1,4 @@
-> この記事は[ICON \(\)](https://ja.wikipedia.org/wiki/ICON_\(\))から翻訳されています。
+> この記事は[ICON \(人工衛星\)](https://ja.wikipedia.org/wiki/ICON_\(人工衛星\))から翻訳されています。
 
 
 **ICON** (Ionospheric Connection Explorer、Explorer-96) は[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")(NASA)によって2019年に打ち上げられた科学衛星。宇宙と地球の境界に広がる[電離層](../Page/電離層.md "wikilink")及び[熱圏](../Page/熱圏.md "wikilink")を観測し、地球大気の気象と大気上層を電離させる太陽由来のエネルギーがこの領域にどのような相互作用を及ぼしているかを研究する。[エクスプローラー計画](https://ja.wikipedia.org/wiki/エクスプローラー計画 "wikilink")に含まれる中型探査機シリーズMIDEX(medium-class Explorer)の1機である（MIDEX-8）。

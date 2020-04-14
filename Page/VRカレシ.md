@@ -1,4 +1,4 @@
-> この記事は[VR](https://ja.wikipedia.org/wiki/VR)から翻訳されています。
+> この記事は[VRカレシ](https://ja.wikipedia.org/wiki/VRカレシ)から翻訳されています。
 
 
 『**VRカレシ**』とは、2020年初頭にIVRから配信される予定のコンピュータゲームである。

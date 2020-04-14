@@ -1,4 +1,4 @@
-> この記事は[! VIVA](https://ja.wikipedia.org/wiki/!_VIVA)から翻訳されています。
+> この記事は[いしかわまるごと応援団! VIVAすぽると](https://ja.wikipedia.org/wiki/いしかわまるごと応援団!_VIVAすぽると)から翻訳されています。
 
 
 **『石川まるごと応援団 VIVA\!すぽると』**は[2020年](../Page/2020年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")より[MROラジオで放送されている](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -41,6 +41,11 @@
 | 第6回          |
 | 第7回          |
 | 第8回          |
+| 第9回          |
+| 第10回         |
+| 第11回         |
+| 第12回         |
+| 第13回         |
 |              |
 
 ## 脚注

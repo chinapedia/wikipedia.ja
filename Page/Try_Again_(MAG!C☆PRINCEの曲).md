@@ -1,4 +1,4 @@
-> この記事は[Try Again \(MAG!CPRINCE\)](https://ja.wikipedia.org/wiki/Try_Again_\(MAG!CPRINCE\))から翻訳されています。
+> この記事は[Try Again \(MAG!C☆PRINCEの曲\)](https://ja.wikipedia.org/wiki/Try_Again_\(MAG!C☆PRINCEの曲\))から翻訳されています。
 
 
 「**Try Again**」（トライ・アゲイン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性アイドルグループ・[MAG\!C☆PRINCE](https://ja.wikipedia.org/wiki/MAG!C☆PRINCE "wikilink")の楽曲で、9作目の[シングル](../Page/シングル.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[ユニバーサルミュージックのレーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・ZEN MUSICからリリースされた。

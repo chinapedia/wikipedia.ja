@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFC女子クラブ選手権](https://ja.wikipedia.org/wiki/AFC女子クラブ選手権)から翻訳されています。
 
 
 **AFC女子クラブ選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[アジア](../Page/アジア.md "wikilink")各国の[クラブチーム](../Page/クラブチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。
@@ -105,12 +105,12 @@
 </tbody>
 </table>
 
+## 出典
+
 ## 関連項目
 
   - [日韓女子リーグチャンピオンシップ](https://ja.wikipedia.org/wiki/日韓女子リーグチャンピオンシップ "wikilink")
   - [AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")
-
-## 出典
 
 ## 外部リンク
 

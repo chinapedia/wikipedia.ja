@@ -1,9 +1,9 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[たっくーTVれいでぃお](https://ja.wikipedia.org/wiki/たっくーTVれいでぃお)から翻訳されています。
 
 
 **たっくーTVれいでぃお**（たっくーティーヴィーれいでぃお）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")の**たっくー**が開設した[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル。
 
-*'たっくー **（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")系[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。本名**澤村 拓**\[2\]。お笑いコンビ「オーキードーキー」のツッコミ担当\[3\]。血液型は[A型](https://ja.wikipedia.org/wiki/A型 "wikilink")。愛称は、たっくー、チンフェ\[4\]。調理師免許保有\[5\]。 また、この項目では同者が運営する農業ブランド、**KENブランド*'についても解説する。
+*'たっくー **（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")系[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。本名は**澤村拓**（さわむら たく）\[2\]。お笑いコンビ「オーキードーキー」のツッコミ担当\[3\]。血液型は[A型](https://ja.wikipedia.org/wiki/A型 "wikilink")。愛称は、たっくー、チンフェ\[4\]。調理師免許保有\[5\]。 また、この項目では同者が運営する農業ブランド、**KENブランド*'についても解説する。
 
 ## 来歴
 
@@ -33,7 +33,7 @@
 
 社会貢献にも積極的で、自殺相談に真摯に返信したり\[15\]、農業に取り組んだり、動画内で「学校を建てたい」という夢も語った、いわゆる「**社会派YouTuber**」の顔も持つ\[16\]。
 
-お笑い芸人だったこともあるためか、モノマネのレパートリーが豊富。動画内ではたびたびモノマネや声真似を披露しており、稀に本人も登場する。主なレパートリーは、[関暁夫](../Page/関暁夫.md "wikilink")、[SEIKIN](https://ja.wikipedia.org/wiki/SEIKIN "wikilink")、[稲川淳二](../Page/稲川淳二.md "wikilink")、[久保田康介](https://ja.wikipedia.org/wiki/久保田康介 "wikilink")、[えなりかずき](../Page/えなりかずき.md "wikilink")、[山里亮太](../Page/山里亮太.md "wikilink")など。本人曰く、モノマネのレパートリーは200種類以上あるとのこと。
+お笑い芸人だったこともあるためか、モノマネのレパートリーが豊富。動画内ではたびたびモノマネや声真似を披露しており、稀に本人も登場する。主なレパートリーは、[関暁夫](../Page/関暁夫.md "wikilink")、[SEIKIN](https://ja.wikipedia.org/wiki/SEIKIN "wikilink")、[稲川淳二](../Page/稲川淳二.md "wikilink")、[久保田康介](https://ja.wikipedia.org/wiki/久保田康介 "wikilink")、[えなりかずき](../Page/えなりかずき.md "wikilink")、[山里亮太](../Page/山里亮太.md "wikilink")、[島田紳助](../Page/島田紳助.md "wikilink")など。本人曰く、モノマネのレパートリーは200種類以上あるとのこと。
 
 主要に登場するモノマネについては、動画内では別名で呼称されている。例えば、[関暁夫](../Page/関暁夫.md "wikilink")は「関タクスゼイアン」、[稲川淳二](../Page/稲川淳二.md "wikilink")は「稲荷の外側卍」、[えなりかずき](../Page/えなりかずき.md "wikilink")は「かなりえずき」、[SEIKIN](https://ja.wikipedia.org/wiki/SEIKIN "wikilink")は「SEIKIHIN」など、多少変わっている。
 

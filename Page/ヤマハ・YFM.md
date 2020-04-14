@@ -1,4 +1,4 @@
-> この記事は[YFM](https://ja.wikipedia.org/wiki/YFM)から翻訳されています。
+> この記事は[ヤマハ・YFM](https://ja.wikipedia.org/wiki/ヤマハ・YFM)から翻訳されています。
 
 
 **ヤマハ・YFM**（ワイエフエム）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売している[全地形対応車](https://ja.wikipedia.org/wiki/全地形対応車 "wikilink")である。

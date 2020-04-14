@@ -1,4 +1,4 @@
-> この記事は[ Closed Ward](https://ja.wikipedia.org/wiki/_Closed_Ward)から翻訳されています。
+> この記事は[閉鎖病棟 Closed Ward](https://ja.wikipedia.org/wiki/閉鎖病棟_Closed_Ward)から翻訳されています。
 
 
 『**閉鎖病棟**』（へいさびょうとう）は、[帚木蓬生](../Page/帚木蓬生.md "wikilink")の小説\[1\]。世間から蔑まされながらも懸命に明るく毎日を生きる患者たちがいる精神科病棟で起きた殺人事件を巡って、患者たちそれぞれが描く様々な思いを巡らすさまを描く\[2\]。
@@ -106,7 +106,7 @@
   - 音楽：[安川午朗](../Page/安川午朗.md "wikilink")
   - 主題歌：[K](../Page/K_\(歌手\).md "wikilink")「光るソラ蒼く」（[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）\[9\]
   - 製作：村松秀信、間宮登良松、[木下直哉](https://ja.wikipedia.org/wiki/木下直哉 "wikilink")、宮崎伸夫、[中野伸二](../Page/中野伸二.md "wikilink")、[吉村和文](https://ja.wikipedia.org/wiki/吉村和文 "wikilink")、丸橋哲彦、植田勝教、[中林千賀子](../Page/中林千賀子.md "wikilink")
-  - プロデューサー：菅谷英智、三宅はるえ
+  - プロデューサー：菅谷英智、[三宅はるえ](../Page/三宅はるえ.md "wikilink")
   - 音楽プロデューサー：津島玄一
   - ラインプロデューサー：宮内眞吾
   - 撮影：[柴崎幸三](https://ja.wikipedia.org/wiki/柴崎幸三 "wikilink")

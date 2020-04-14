@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[AA世界野球選手権大会](https://ja.wikipedia.org/wiki/AA世界野球選手権大会)から翻訳されています。
 
 
 **AA世界野球選手権大会** （ダブルエーせかいやきゅうせんしゅけんたいかい、[英語](../Page/英語.md "wikilink")：*16U(AA) Baseball World Championship*）とは、[国際野球連盟](../Page/国際野球連盟.md "wikilink")（IBAF）が主催し、開催されていた、16歳以下の各国代表選手で競われる[野球](../Page/野球.md "wikilink")の国際大会である。[2011年](../Page/2011年.md "wikilink")の第15回大会をもって終了した。

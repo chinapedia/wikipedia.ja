@@ -1,4 +1,4 @@
-> この記事は[JLG](https://ja.wikipedia.org/wiki/JLG)から翻訳されています。
+> この記事は[JLGフィルム](https://ja.wikipedia.org/wiki/JLGフィルム)から翻訳されています。
 
 
 **JLGフィルム**（ジーエルジェーフィルム、**JLG Films**）は、[映画監督](../Page/映画監督.md "wikilink")の[ジャン＝リュック・ゴダール](../Page/ジャン＝リュック・ゴダール.md "wikilink")が設立した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の映画製作会社である。

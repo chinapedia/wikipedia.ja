@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線連星](https://ja.wikipedia.org/wiki/X線連星)から翻訳されています。
 
 
 **X線連星**\[1\] (X-ray binary\[2\]) はX線星ともいわれ、[中性子星](../Page/中性子星.md "wikilink")や[ブラックホール](../Page/ブラックホール.md "wikilink")を[伴星](https://ja.wikipedia.org/wiki/伴星 "wikilink")にもつ[近接連星](https://ja.wikipedia.org/wiki/近接連星 "wikilink")のことで、特に[X線](../Page/X線.md "wikilink")を強く放射することが知られている。X線は100万度以上の高温状態あるいは[シンクロトロン放射](https://ja.wikipedia.org/wiki/シンクロトロン放射 "wikilink")などで生成される。

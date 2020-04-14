@@ -1,4 +1,4 @@
-> この記事は[Q THE WAVE](https://ja.wikipedia.org/wiki/Q_THE_WAVE)から翻訳されています。
+> この記事は[Q職 THE WAVE](https://ja.wikipedia.org/wiki/Q職_THE_WAVE)から翻訳されています。
 
 
 **Q職 THE WAVE**（キューショク ザ ウェーブ）は、日曜日21:00〜21:30に[FM PORTでされていた](../Page/新潟県民エフエム放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")からサードシーズンが始まったが、[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に放送終了。[パーソナリティは新潟の](../Page/ラジオパーソナリティ.md "wikilink")[お笑い集団NAMARA](https://ja.wikipedia.org/wiki/お笑い集団NAMARA "wikilink")の森下英矢と高橋なんぐ。

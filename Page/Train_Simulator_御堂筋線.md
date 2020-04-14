@@ -1,9 +1,9 @@
-> この記事は[Train Simulator ](https://ja.wikipedia.org/wiki/Train_Simulator_)から翻訳されています。
+> この記事は[Train Simulator 御堂筋線](https://ja.wikipedia.org/wiki/Train_Simulator_御堂筋線)から翻訳されています。
 
 
 **Train Simulator 御堂筋線**（トレインシミュレーターみどうすじせん）は、[2003年](../Page/2003年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から[Train Simulatorシリーズとして発売された](../Page/Train_Simulator_\(音楽館\).md "wikilink")、[大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")[御堂筋線と](https://ja.wikipedia.org/wiki/大阪市営地下鉄御堂筋線 "wikilink")[北大阪急行線を舞台とする](https://ja.wikipedia.org/wiki/北大阪急行電鉄南北線 "wikilink")[PlayStation 2用の鉄道運転](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。
 
-発売は御堂筋線内のグッズショップ及び通信販売と、北大阪急行線内各駅の駅長室、助役室のみ。また、この作品は、路線全体の80％が地下区間（[なかもず駅](../Page/中百舌鳥駅.md "wikilink")～[中津駅間](../Page/中津駅_\(大阪市高速電気軌道\).md "wikilink")）であり、画面をテレビの明るさ設定などで、明るくしないと見えにくい場合もある。 御堂筋線の地上区間の駅停車中、横を走っている新御堂筋の車も止まってしまう欠点がある。
+発売は御堂筋線内のグッズショップ及び通信販売と、北大阪急行線内各駅の駅長室、助役室のみ。また、この作品は、路線全体の80％が地下区間（[なかもず駅](../Page/中百舌鳥駅.md "wikilink")～[中津駅間](../Page/中津駅_\(Osaka_Metro\).md "wikilink")）であり、画面をテレビの明るさ設定などで、明るくしないと見えにくい場合もある。 御堂筋線の地上区間の駅停車中、横を走っている新御堂筋の車も止まってしまう欠点がある。
 
 ## 運転可能な路線
 

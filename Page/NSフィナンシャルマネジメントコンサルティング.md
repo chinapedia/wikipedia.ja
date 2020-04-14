@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[NSフィナンシャルマネジメントコンサルティング](https://ja.wikipedia.org/wiki/NSフィナンシャルマネジメントコンサルティング)から翻訳されています。
 
 
 **NSフィナンシャルマネジメントコンサルティング株式会社**（エヌエス フィナンシャルマネジメントコンサルティング、[英語社名](https://ja.wikipedia.org/wiki/英文 "wikilink") *NSFMC Corporation*）は、日鉄ソリューションズグループの[コンサルティング](../Page/コンサルティング.md "wikilink")会社。
@@ -22,4 +22,4 @@
 
   - [NSフィナンシャルマネジメントコンサルティング](https://www.nsfmc.com/)
 
-[Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink") [Category:コンサルティングファーム](https://ja.wikipedia.org/wiki/Category:コンサルティングファーム "wikilink") [Category:日本製鉄グループ](https://ja.wikipedia.org/wiki/Category:日本製鉄グループ "wikilink") [Category:新日本製鐵グループ](https://ja.wikipedia.org/wiki/Category:新日本製鐵グループ "wikilink")
+[Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink") [Category:日本のコンサルティングファーム](https://ja.wikipedia.org/wiki/Category:日本のコンサルティングファーム "wikilink") [Category:日本製鉄グループ](https://ja.wikipedia.org/wiki/Category:日本製鉄グループ "wikilink") [Category:新日本製鐵グループ](https://ja.wikipedia.org/wiki/Category:新日本製鐵グループ "wikilink")

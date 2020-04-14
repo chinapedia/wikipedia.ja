@@ -1,4 +1,4 @@
-> この記事は[HJG](https://ja.wikipedia.org/wiki/HJG)から翻訳されています。
+> この記事は[HJ文庫G](https://ja.wikipedia.org/wiki/HJ文庫G)から翻訳されています。
 
 
 **HJ文庫G**（エイチジェイぶんこジー）は、[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発行する[文庫](../Page/文庫.md "wikilink")レーベル。

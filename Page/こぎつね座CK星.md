@@ -1,4 +1,4 @@
-> この記事は[CK](https://ja.wikipedia.org/wiki/CK)から翻訳されています。
+> この記事は[こぎつね座CK星](https://ja.wikipedia.org/wiki/こぎつね座CK星)から翻訳されています。
 
 
 **こぎつね座CK星**（CK Vul, Nova Vul 1670）は、1670年に現在の[こぎつね座](../Page/こぎつね座.md "wikilink")の領域\[1\]に出現した突発天体。文献に残る[新星](https://ja.wikipedia.org/wiki/新星 "wikilink")としては最も古いものとされる。長く[古典新星](https://ja.wikipedia.org/wiki/古典新星 "wikilink")と考えられてきたが、2015年に2つの天体が衝突することで起こる[高輝度赤色新星](https://ja.wikipedia.org/wiki/高輝度赤色新星 "wikilink")であったとする説が提唱されている。

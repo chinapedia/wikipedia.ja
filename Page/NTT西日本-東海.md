@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-東海](https://ja.wikipedia.org/wiki/NTT西日本-東海)から翻訳されています。
 
 
 **株式会社NTT西日本－東海**（エヌティティにしにほん－とうかい）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")に本社を置いていた、[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。

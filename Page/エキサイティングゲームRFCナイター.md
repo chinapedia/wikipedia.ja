@@ -1,4 +1,4 @@
-> この記事は[RFC](https://ja.wikipedia.org/wiki/RFC)から翻訳されています。
+> この記事は[エキサイティングゲームRFCナイター](https://ja.wikipedia.org/wiki/エキサイティングゲームRFCナイター)から翻訳されています。
 
 
 **エキサイティングゲームRFCナイター**（エキサイティングゲーム アールエフシー ナイター）は、[ラジオ福島](../Page/ラジオ福島.md "wikilink")で放送している[プロ野球中継](../Page/プロ野球中継.md "wikilink")である。
@@ -59,7 +59,7 @@
 
   - [エキサイティングゲームrfcナイター](http://www.rfc.jp/bangumi/probaseball2017/)
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:ラジオ福島の番組](https://ja.wikipedia.org/wiki/Category:ラジオ福島の番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:ラジオ福島の番組](https://ja.wikipedia.org/wiki/Category:ラジオ福島の番組 "wikilink")
 
 1.
 2.  ただし、制作局のTBSラジオでは放送せず、JRN系列局向けの裏送りによる放送となった。

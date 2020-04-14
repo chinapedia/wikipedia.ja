@@ -1,4 +1,4 @@
-> この記事は[TOMORROW ](https://ja.wikipedia.org/wiki/TOMORROW_)から翻訳されています。
+> この記事は[TOMORROW 明日](https://ja.wikipedia.org/wiki/TOMORROW_明日)から翻訳されています。
 
 
 『**TOMORROW 明日**』（トゥモロー あした）は、[1988年](../Page/1988年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。製作会社はライトヴィジョン、沢井プロダクション、創映新社。

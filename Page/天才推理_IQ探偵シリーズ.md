@@ -1,4 +1,4 @@
-> この記事は[ IQ](https://ja.wikipedia.org/wiki/_IQ)から翻訳されています。
+> この記事は[天才推理 IQ探偵シリーズ](https://ja.wikipedia.org/wiki/天才推理_IQ探偵シリーズ)から翻訳されています。
 
 
 『**天才推理 IQ探偵シリーズ**』(てんさいすいり アイキューたんていシリーズ) は[深沢美潮](../Page/深沢美潮.md "wikilink")による[ポプラカラフル文庫](https://ja.wikipedia.org/wiki/ポプラカラフル文庫 "wikilink")から刊行されている[児童文学](../Page/児童文学.md "wikilink")のシリーズ。『**[IQ探偵ムー](https://ja.wikipedia.org/wiki/#IQ探偵ムー "wikilink")**』と『**[IQ探偵タクト](https://ja.wikipedia.org/wiki/#IQ探偵タクト "wikilink")**』がある。両方あわせて「**IQ探偵シリーズ**」と言われる。本項目では、両方の作品について触れる。

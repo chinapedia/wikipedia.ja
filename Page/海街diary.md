@@ -1,4 +1,4 @@
-> この記事は[diary](https://ja.wikipedia.org/wiki/diary)から翻訳されています。
+> この記事は[海街diary](https://ja.wikipedia.org/wiki/海街diary)から翻訳されています。
 
 
 『**海街diary**』（うみまちダイアリー）は、[吉田秋生](../Page/吉田秋生.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊フラワーズ](../Page/月刊フラワーズ.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[2006年](../Page/2006年.md "wikilink")8月号から[2018年](../Page/2018年.md "wikilink")8月号まで不定期連載された\[1\]。『[ラヴァーズ・キス](../Page/ラヴァーズ・キス.md "wikilink")』との[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")である。また作者曰くこの二作品と今後描く作品で鎌倉三部作を考えている。

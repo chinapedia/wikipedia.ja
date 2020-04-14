@@ -1,4 +1,4 @@
-> この記事は[SPIN](https://ja.wikipedia.org/wiki/SPIN)から翻訳されています。
+> この記事は[SPINモデルチェッカ](https://ja.wikipedia.org/wiki/SPINモデルチェッカ)から翻訳されています。
 
 
 **SPINモデルチェッカ**（[英](../Page/英語.md "wikilink"): **SPIN model checker**）は、ソフトウェアの[モデル検査](../Page/モデル検査.md "wikilink")のためのツールである。Gerard J. Holzmann らが開発し、15年以上に渡って改良を続けてきた。[2001年](../Page/2001年.md "wikilink")に[Association for Computing Machinery](../Page/Association_for_Computing_Machinery.md "wikilink") (ACM) の[ソフトウェアシステム賞を受賞している](https://ja.wikipedia.org/wiki/ACMソフトウェアシステム賞 "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")以来、ほぼ毎年[モデル検査](../Page/モデル検査.md "wikilink")に興味のある SPIN ユーザーや研究者による SPIN ワークショップが開催されている。

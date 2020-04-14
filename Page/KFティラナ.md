@@ -1,4 +1,4 @@
-> この記事は[KF](https://ja.wikipedia.org/wiki/KF)から翻訳されています。
+> この記事は[KFティラナ](https://ja.wikipedia.org/wiki/KFティラナ)から翻訳されています。
 
 
 **クルビ・フトボルスティク・ティラナ**（**Klubi Futbollistik Tirana**）は、[アルバニア](../Page/アルバニア.md "wikilink")の首都[ティラナ](../Page/ティラナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[カテゴリア・スペリオレ](https://ja.wikipedia.org/wiki/カテゴリア・スペリオレ "wikilink")に所属。
@@ -499,7 +499,11 @@
 
   - [パナヨト・パノ](https://ja.wikipedia.org/wiki/パナヨト・パノ "wikilink") 1957–1960
 
+  - [ゲリ・チピ](https://ja.wikipedia.org/wiki/ゲリ・チピ "wikilink") 2004-2007
+
   - [福井理人](https://ja.wikipedia.org/wiki/福井理人 "wikilink") 2015-2016
+
+  - [ウーゴ](https://ja.wikipedia.org/wiki/ウーゴ・ガマラス・シルヴァ・サントス・アルメイダ "wikilink") 2016
 
   - [ナムディ・オドゥアマディ](https://ja.wikipedia.org/wiki/ナムディ・オドゥアマディ "wikilink") 2018-
 

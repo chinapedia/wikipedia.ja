@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[モジミリンEC](https://ja.wikipedia.org/wiki/モジミリンEC)から翻訳されています。
 
 
 **モジミリンEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[モジミリン](https://ja.wikipedia.org/wiki/モジミリン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

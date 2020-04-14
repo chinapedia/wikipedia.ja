@@ -1,7 +1,7 @@
 > この記事は[Legacy of Jazz](https://ja.wikipedia.org/wiki/Legacy_of_Jazz)から翻訳されています。
 
 
-**Legacy of Jazz**（レガシー・オブ・ジャズ）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**Legacy of Jazz**（レガシー・オブ・ジャズ）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -42,6 +42,6 @@
 
 ## 関連項目
 
-  - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")
+  - [ジャパンエフエムネットワーク (企業)](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")
 
 [Category:JFNCの番組](https://ja.wikipedia.org/wiki/Category:JFNCの番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[R10 TDI](https://ja.wikipedia.org/wiki/R10_TDI)から翻訳されています。
+> この記事は[アウディ・R10 TDI](https://ja.wikipedia.org/wiki/アウディ・R10_TDI)から翻訳されています。
 
 
 **アウディ・R10 TDI**とは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")への参戦を目的に、[R8の後継として開発した](../Page/アウディ・R8_\(レーシングカー\).md "wikilink")、[耐久レース](../Page/耐久レース.md "wikilink")専用の[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。

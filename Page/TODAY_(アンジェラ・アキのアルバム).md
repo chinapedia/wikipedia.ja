@@ -1,4 +1,4 @@
-> この記事は[TODAY \(\)](https://ja.wikipedia.org/wiki/TODAY_\(\))から翻訳されています。
+> この記事は[TODAY \(アンジェラ・アキのアルバム\)](https://ja.wikipedia.org/wiki/TODAY_\(アンジェラ・アキのアルバム\))から翻訳されています。
 
 
 『**TODAY**』（トゥデイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に発売された。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。

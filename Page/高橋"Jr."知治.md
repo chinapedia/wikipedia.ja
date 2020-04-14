@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[高橋Jr.知治](https://ja.wikipedia.org/wiki/高橋Jr.知治)から翻訳されています。
 
 
 **高橋 "Jr." 知治** （たかはし じゅにあ ともはる、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ベーシスト](../Page/ベーシスト.md "wikilink")。　
@@ -84,4 +84,4 @@ Jungapop、三宅伸治Band、FBM、などに在籍中
 
   - [高橋 "Jr." 知治のブログ](http://plaza.rakuten.co.jp/jrtakahashi/)
 
-[Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のロック・ミュージシャン "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:ミラノ出身の人物](https://ja.wikipedia.org/wiki/Category:ミラノ出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ジョージ・A・ファーネス](https://ja.wikipedia.org/wiki/ジョージ・A・ファーネス)から翻訳されています。
 
 
 **ジョージ・A・ファーネス**（George A. Furness, [1896年](../Page/1896年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[陸軍](../Page/アメリカ陸軍.md "wikilink")[軍人](../Page/軍人.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。軍人としての最終階級は[少佐](../Page/少佐.md "wikilink")。[東京裁判においては](../Page/極東国際軍事裁判.md "wikilink")、[重光葵](../Page/重光葵.md "wikilink")の弁護人を務めた。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[レーザーTV](https://ja.wikipedia.org/wiki/レーザーTV)から翻訳されています。
 
 
 **レーザーTV**（レーザーテレビ、Laser Television）とは[走査](../Page/走査.md "wikilink")に[レーザー](../Page/レーザー.md "wikilink")光を使用した投影式表示デバイスである。レーザープロジェクタ、レーザーディスプレイとも言う。

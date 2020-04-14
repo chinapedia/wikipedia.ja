@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[松本亨の株式必勝学II](https://ja.wikipedia.org/wiki/松本亨の株式必勝学II)から翻訳されています。
 
 
 『**松本亨の株式必勝学PART II**』（まつもととおるのかぶしきひっしょうがくパートツー）は、、[イマジニア](../Page/イマジニア.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")向けに発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、[株式](../Page/株式.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。前作『[松本亨の株式必勝学](../Page/松本亨の株式必勝学.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）の続編にあたる。

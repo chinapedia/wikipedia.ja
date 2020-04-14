@@ -1,4 +1,4 @@
-> この記事は[SIAM SHADE XI COMPLETE BEST HEART OF ROCK](https://ja.wikipedia.org/wiki/SIAM_SHADE_XI_COMPLETE_BEST_HEART_OF_ROCK)から翻訳されています。
+> この記事は[SIAM SHADE XI COMPLETE BEST 〜HEART OF ROCK〜](https://ja.wikipedia.org/wiki/SIAM_SHADE_XI_COMPLETE_BEST_〜HEART_OF_ROCK〜)から翻訳されています。
 
 
 『**SIAM SHADE XI COMPLETE BEST 〜HEART OF ROCK〜**』（シャムシェイド・イレブン コンプリート・ベスト ハート・オブ・ロック）は、[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")発売。

@@ -1,4 +1,4 @@
-> この記事は[Tvk](https://ja.wikipedia.org/wiki/Tvk)から翻訳されています。
+> この記事は[Tvkコミュニケーションズ](https://ja.wikipedia.org/wiki/Tvkコミュニケーションズ)から翻訳されています。
 
 
 **株式会社tvkコミュニケーションズ**（tvk communications co.,Ltd.\[1\]）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[中区に本社を置く](../Page/中区_\(横浜市\).md "wikilink")[tvkの子会社](../Page/テレビ神奈川.md "wikilink")。元代表取締役社長は[髙橋隆男](https://ja.wikipedia.org/wiki/高橋隆男 "wikilink")、相談役は[山﨑行雄](https://ja.wikipedia.org/wiki/山﨑行雄 "wikilink")（元tvk代表取締役社長）。TVKエンタープライズ、[ミューコム](../Page/ミューコム.md "wikilink")、TVKサービス、tvkエコライフシステムのtvk子会社4社が2007年8月1日に合併、設立された。その後、2015年3月末の組織改正（組織改編）に於いて、社内カンパニー制が廃止され、旧体制の社内カンパニー4社はそれぞれが「tvkコミュニケーションズ」の1事業部に格下げされた上で再出発をする事となった。

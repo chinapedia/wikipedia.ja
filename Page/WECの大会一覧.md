@@ -1,4 +1,4 @@
-> この記事は[WEC](https://ja.wikipedia.org/wiki/WEC)から翻訳されています。
+> この記事は[WECの大会一覧](https://ja.wikipedia.org/wiki/WECの大会一覧)から翻訳されています。
 
 
 **WECの大会一覧**（ダブリューイーシーのたいかいいちらん）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[WEC](../Page/World_Extreme_Cagefighting.md "wikilink")」の大会名および開催履歴を表した一覧である。

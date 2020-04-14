@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(\)](https://ja.wikipedia.org/wiki/ALIVE_\(\))から翻訳されています。
+> この記事は[ALIVE \(映画\)](https://ja.wikipedia.org/wiki/ALIVE_\(映画\))から翻訳されています。
 
 
 『**ALIVE**』（アライブ）は[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。漫画家の[高橋ツトム](../Page/高橋ツトム.md "wikilink")が[1999年](../Page/1999年.md "wikilink")に『週刊ヤングジャンプ』に発表したコミックを『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』監督の[北村龍平](../Page/北村龍平.md "wikilink")が映画化したSFソリッド・サバイバル・アクション。主演は『[VERSUS -ヴァーサス-](../Page/VERSUS_\(映画\).md "wikilink")』、『[あずみ](../Page/あずみ_\(映画\).md "wikilink")』など北村常連組のひとりでもある俳優、[榊英雄](../Page/榊英雄.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Go my way \(\)](https://ja.wikipedia.org/wiki/Go_my_way_\(\))から翻訳されています。
+> この記事は[Go my way \(矢井田瞳の曲\)](https://ja.wikipedia.org/wiki/Go_my_way_\(矢井田瞳の曲\))から翻訳されています。
 
 
 **Go my way**（ゴー マイ ウェイ）は、[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")の14枚目のシングル。発売元は[青空レコード](../Page/青空レコード.md "wikilink")。

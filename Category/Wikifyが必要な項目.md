@@ -1,4 +1,4 @@
-> この記事は[Category:Wikify](https://ja.wikipedia.org/wiki/Category:Wikify)から翻訳されています。
+> この記事は[Category:Wikifyが必要な項目](https://ja.wikipedia.org/wiki/Category:Wikifyが必要な項目)から翻訳されています。
 
 
 Wikifyが必要な項目のカテゴリ。{{[Wikify](https://ja.wikipedia.org/wiki/Template:Wikify "wikilink")}}を貼付したページはここにカテゴライズされます。

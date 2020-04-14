@@ -1,4 +1,4 @@
-> この記事は[WEC](https://ja.wikipedia.org/wiki/WEC)から翻訳されています。
+> この記事は[WEC王者一覧](https://ja.wikipedia.org/wiki/WEC王者一覧)から翻訳されています。
 
 
 **WEC王者一覧**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[WEC](../Page/World_Extreme_Cagefighting.md "wikilink")」の王座変遷表である。世界王座と北米王座を認定していた。

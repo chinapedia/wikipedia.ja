@@ -1,4 +1,4 @@
-> この記事は[BA](https://ja.wikipedia.org/wiki/BA)から翻訳されています。
+> この記事は[BAシティフライヤー](https://ja.wikipedia.org/wiki/BAシティフライヤー)から翻訳されています。
 
 
 **BAシティフライヤー** (*BA CityFlyer*) は[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")傘下の地方航空会社。[エディンバラ](../Page/エディンバラ.md "wikilink")を本拠としているが、[ロンドンシティ空港](https://ja.wikipedia.org/wiki/ロンドンシティ空港 "wikilink")を[ハブ空港](../Page/ハブ空港.md "wikilink")とする。

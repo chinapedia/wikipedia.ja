@@ -1,4 +1,4 @@
-> この記事は[The](https://ja.wikipedia.org/wiki/The)から翻訳されています。
+> この記事は[Theゲームパワー](https://ja.wikipedia.org/wiki/Theゲームパワー)から翻訳されています。
 
 
 『**Theゲームパワー**』（ザ ゲームパワー）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・アルファ放送制作共同製作の[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）。テレビ東京系列局では[1991年](../Page/1991年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送。

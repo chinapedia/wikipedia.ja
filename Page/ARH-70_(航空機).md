@@ -1,4 +1,4 @@
-> この記事は[ARH-70 \(\)](https://ja.wikipedia.org/wiki/ARH-70_\(\))から翻訳されています。
+> この記事は[ARH-70 \(航空機\)](https://ja.wikipedia.org/wiki/ARH-70_\(航空機\))から翻訳されています。
 
 
 **ARH-70 アラパホ**（ARH=Armed Reconnaissance Helicopter）は、[ベル・ヘリコプター](https://ja.wikipedia.org/wiki/ベル・ヘリコプター "wikilink")が[研究開発](../Page/研究開発.md "wikilink")を進めていた[アメリカ軍](../Page/アメリカ軍.md "wikilink")の次期[偵察](../Page/偵察.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")。民間機である[ベル 407をベースとしており](https://ja.wikipedia.org/wiki/ベル_407 "wikilink")、老朽化した[OH-58 カイオワの後任機体となる予定であった](../Page/OH-58_カイオワ.md "wikilink")。愛称のアラパホ（Arapaho）は[アメリカ先住民の](../Page/アメリカ州の先住民族.md "wikilink")[アラパホ](../Page/アラパホ.md "wikilink")族にちなむ。

@@ -1,4 +1,4 @@
-> この記事は[R.J.](https://ja.wikipedia.org/wiki/R.J.)から翻訳されています。
+> この記事は[R.J.レイノルズ・タバコ・カンパニー](https://ja.wikipedia.org/wiki/R.J.レイノルズ・タバコ・カンパニー)から翻訳されています。
 
 
 **R.J.レイノルズ・タバコ・カンパニー**（R. J. Reynolds Tobacco Company、略称：RJR）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[ウィンストン・セーラム](../Page/ウィンストン・セーラム.md "wikilink")に本社を置く[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")の製造・販売を行なう企業である。
@@ -60,6 +60,7 @@
 ## 関連項目
 
   - [ブラウン・アンド・ウィリアムソン](../Page/ブラウン・アンド・ウィリアムソン.md "wikilink")
+  - [マルコム・マクレーン](../Page/マルコム・マクレーン.md "wikilink")
 
 ## 外部リンク
 

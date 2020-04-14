@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[仏陀L](https://ja.wikipedia.org/wiki/仏陀L)から翻訳されています。
 
 
 『**仏陀L**』（ぶっだエル）は、[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")のメジャーデビューアルバム。バンドの第18期メンバーにより製作された。

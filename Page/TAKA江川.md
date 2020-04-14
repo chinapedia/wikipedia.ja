@@ -1,4 +1,4 @@
-> この記事は[TAKA](https://ja.wikipedia.org/wiki/TAKA)から翻訳されています。
+> この記事は[TAKA江川](https://ja.wikipedia.org/wiki/TAKA江川)から翻訳されています。
 
 
 **TAKA江川**（たか えがわ）は、[FM](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")の[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。[長崎県](../Page/長崎県.md "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")出身。23歳の時に上京し、29歳で[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")においてDJデビュー。登場時の**「みんな～、元気かいか～い\!\!」**というハイテンションな決めゼリフが人気である。[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")を中心に活躍し、過去にはインターFM、[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")でも番組を担当していた。

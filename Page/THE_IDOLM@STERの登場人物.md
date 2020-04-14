@@ -1,4 +1,4 @@
-> この記事は[THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER)から翻訳されています。
+> この記事は[THE IDOLM@STERの登場人物](https://ja.wikipedia.org/wiki/THE_IDOLM@STERの登場人物)から翻訳されています。
 
 
 **THE IDOLM@STERの登場人物**（アイドルマスターのとうじょうじんぶつ）では、[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")のゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』、及びゲームに準拠した関連作品に登場する人物について記述する。

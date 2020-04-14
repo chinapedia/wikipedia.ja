@@ -1,4 +1,4 @@
-> この記事は[SB](https://ja.wikipedia.org/wiki/SB)から翻訳されています。
+> この記事は[SBカプマックス](https://ja.wikipedia.org/wiki/SBカプマックス)から翻訳されています。
 
 
 **SBカプマックス**（エスビーカプマックス）は、[トウガラシ属](../Page/トウガラシ属.md "wikilink")の[植物](../Page/植物.md "wikilink")・[野菜](../Page/野菜.md "wikilink")で、[シネンセ種](../Page/シネンセ種.md "wikilink") (*Capsicum chinense*) の一品種である。[1989年](../Page/1989年.md "wikilink")に[金子良次](https://ja.wikipedia.org/wiki/金子良次 "wikilink")によって開発された品種で、[2004年](../Page/2004年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")には[エスビー食品](../Page/エスビー食品.md "wikilink")から[農林水産省](../Page/農林水産省.md "wikilink")に20年の有効期限で品種登録されている。登録品種第12,286号。

@@ -1,4 +1,4 @@
-> この記事は[E \(\)](https://ja.wikipedia.org/wiki/E_\(\))から翻訳されています。
+> この記事は[E \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/E_\(計算複雑性理論\))から翻訳されています。
 
 
 [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")において、[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink") **E** とは、[決定性チューリング機械で](../Page/チューリングマシン.md "wikilink") 2<sup>[O](../Page/ランダウの記号.md "wikilink")(n)</sup> の時間で解ける[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の集合である。これはすなわち、複雑性クラス [DTIME](../Page/DTIME.md "wikilink")(2<sup>O(n)</sup>) に等しい。

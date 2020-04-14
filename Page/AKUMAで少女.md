@@ -1,4 +1,4 @@
-> この記事は[AKUMA](https://ja.wikipedia.org/wiki/AKUMA)から翻訳されています。
+> この記事は[AKUMAで少女](https://ja.wikipedia.org/wiki/AKUMAで少女)から翻訳されています。
 
 
 『**AKUMAで少女**』（あくまでしょうじょ）は、[わかつきひかる](../Page/わかつきひかる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[高階@聖人](../Page/高階@聖人.md "wikilink")が担当。[ホビージャパン](../Page/ホビージャパン.md "wikilink")・[HJ文庫](../Page/HJ文庫.md "wikilink")刊。これまで[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")専門で執筆活動を行っていた著者の一般向けライトノベル第1作である。
@@ -75,4 +75,4 @@
 
   - \-蒼月しのぶ
 
-[Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:高等学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした小説 "wikilink") [Category:TSF](https://ja.wikipedia.org/wiki/Category:TSF "wikilink") [Category:人格の入れ替わりを題材とした小説](https://ja.wikipedia.org/wiki/Category:人格の入れ替わりを題材とした小説 "wikilink") [Category:鏡を題材とした作品](https://ja.wikipedia.org/wiki/Category:鏡を題材とした作品 "wikilink") [Category:悪魔を題材とした作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした作品 "wikilink") [Category:ぬいぐるみを題材とした作品](https://ja.wikipedia.org/wiki/Category:ぬいぐるみを題材とした作品 "wikilink")
+[Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:高等学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした小説 "wikilink") [Category:TSF](https://ja.wikipedia.org/wiki/Category:TSF "wikilink") [Category:人格の入れ替わりを題材とした小説](https://ja.wikipedia.org/wiki/Category:人格の入れ替わりを題材とした小説 "wikilink") [Category:鏡を題材とした作品](https://ja.wikipedia.org/wiki/Category:鏡を題材とした作品 "wikilink") [Category:悪魔を題材とした小説](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした小説 "wikilink") [Category:悪魔を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした漫画作品 "wikilink") [Category:ぬいぐるみを題材とした作品](https://ja.wikipedia.org/wiki/Category:ぬいぐるみを題材とした作品 "wikilink")

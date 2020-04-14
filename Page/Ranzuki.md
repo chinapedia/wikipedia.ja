@@ -54,6 +54,9 @@
   - [小池真友](https://ja.wikipedia.org/wiki/小池真友 "wikilink")
   - [伊郷レナ](https://ja.wikipedia.org/wiki/伊郷レナ "wikilink")
   - [浜崎芹子](https://ja.wikipedia.org/wiki/浜崎芹子 "wikilink")
+
+※[石川晶子](https://ja.wikipedia.org/wiki/石川晶子 "wikilink")
+
   - [岸本真帆](https://ja.wikipedia.org/wiki/岸本真帆 "wikilink")
   - [鎌田安里紗](https://ja.wikipedia.org/wiki/鎌田安里紗 "wikilink")
   - [田中芽衣](../Page/田中芽衣.md "wikilink")

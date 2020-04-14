@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[サミュエル・H・ハンティントン](https://ja.wikipedia.org/wiki/サミュエル・H・ハンティントン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Samuel_Huntington.jpg "wikilink") **サミュエル・ハンティントン**（Samuel H. Huntington, [1765年](../Page/1765年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [1817年](../Page/1817年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[裁判官](../Page/裁判官.md "wikilink")。[1808年](../Page/1808年.md "wikilink")から[1810年](../Page/1810年.md "wikilink")まで[オハイオ州知事](../Page/オハイオ州知事.md "wikilink")を務めた。

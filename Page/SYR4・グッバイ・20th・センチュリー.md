@@ -1,4 +1,4 @@
-> この記事は[SYR420th](https://ja.wikipedia.org/wiki/SYR420th)から翻訳されています。
+> この記事は[SYR4・グッバイ・20th・センチュリー](https://ja.wikipedia.org/wiki/SYR4・グッバイ・20th・センチュリー)から翻訳されています。
 
 
 『**SYR4 グッバイ・20th・センチュリー**』（SYR4: Goodbye 20th Century）は、1999年に発売された[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")の2枚組アルバムである。

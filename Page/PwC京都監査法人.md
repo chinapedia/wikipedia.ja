@@ -1,9 +1,9 @@
-> この記事は[PwC](https://ja.wikipedia.org/wiki/PwC)から翻訳されています。
+> この記事は[PwC京都監査法人](https://ja.wikipedia.org/wiki/PwC京都監査法人)から翻訳されています。
 
 
-**PwC京都監査法人**（PwCきょうとかんさほうじん、*PricewaterhouseCoopers Kyoto*）は、日本における準大手[監査法人](../Page/監査法人.md "wikilink")。旧[みすず監査法人](../Page/みすず監査法人.md "wikilink")の京都事務所が独立して設立された。
+**PwC京都監査法人**（PwCきょうとかんさほうじん、）は、日本における準大手[監査法人](../Page/監査法人.md "wikilink")。旧[みすず監査法人](../Page/みすず監査法人.md "wikilink")の京都事務所が独立して設立された。
 
-[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")（4大会計事務所）の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（[PricewaterhouseCoopers](https://ja.wikipedia.org/wiki/:en:PricewaterhouseCoopers "wikilink")） のメンバーファームであり、[PwCあらた有限責任監査法人](../Page/PwCあらた有限責任監査法人.md "wikilink")・プライスウォーターハウスクーパース株式会社・PwC税理士法人などとともにPwC Japanグループを形成している。
+[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")（4大会計事務所）の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")（[{{lang](https://ja.wikipedia.org/wiki/:en:PricewaterhouseCoopers "wikilink")） のメンバーファームであり、[PwCあらた有限責任監査法人](../Page/PwCあらた有限責任監査法人.md "wikilink")・プライスウォーターハウスクーパース株式会社・PwC税理士法人などとともにPwC Japanグループを形成している。
 
 ## 概要
 

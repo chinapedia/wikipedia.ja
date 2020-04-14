@@ -1,4 +1,4 @@
-> この記事は[ MD-94X](https://ja.wikipedia.org/wiki/_MD-94X)から翻訳されています。
+> この記事は[マクドネル・ダグラス MD-94X](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_MD-94X)から翻訳されています。
 
 
 **マクドネル・ダグラス MD-94X** (McDonnell Douglas MD-94X)は、[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink")（現[ボーイング](../Page/ボーイング.md "wikilink")）が開発し、[1994年](../Page/1994年.md "wikilink")からの生産が予定されていた[ボーイング7J7](../Page/ボーイング7J7.md "wikilink")に対抗する[プロップファン](../Page/プロップファン.md "wikilink")エンジンの[旅客機](../Page/旅客機.md "wikilink")である。

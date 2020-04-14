@@ -1,4 +1,4 @@
-> この記事は[Cage Rage](https://ja.wikipedia.org/wiki/Cage_Rage)から翻訳されています。
+> この記事は[Cage Rageの大会一覧](https://ja.wikipedia.org/wiki/Cage_Rageの大会一覧)から翻訳されています。
 
 
 **Cage Rageの大会一覧**（ケイジレイジのたいかいいちらん）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[Cage Rage](../Page/Cage_Rage.md "wikilink")」の大会名及び開催履歴を表した一覧である。

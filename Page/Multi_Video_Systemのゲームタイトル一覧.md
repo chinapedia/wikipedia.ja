@@ -1,4 +1,4 @@
-> この記事は[Multi Video System](https://ja.wikipedia.org/wiki/Multi_Video_System)から翻訳されています。
+> この記事は[Multi Video Systemのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Multi_Video_Systemのゲームタイトル一覧)から翻訳されています。
 
 
 **Multi Video Systemのゲームタイトル一覧**（マルチビデオシステムのゲームタイトルいちらん）では、業務用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")である[Multi Video Systemのタイトルを列挙する](../Page/Multi_Video_System.md "wikilink")。

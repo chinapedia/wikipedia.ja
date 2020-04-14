@@ -1,4 +1,4 @@
-> この記事は[LOVE \(\)](https://ja.wikipedia.org/wiki/LOVE_\(\))から翻訳されています。
+> この記事は[LOVE \(抱きしめたい\)](https://ja.wikipedia.org/wiki/LOVE_\(抱きしめたい\))から翻訳されています。
 
 
 **LOVE（抱きしめたい）**（ラブ だきしめたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")である。
@@ -27,4 +27,4 @@
   - [1978年の音楽](../Page/1978年の音楽.md "wikilink")
   - [1979年の音楽](../Page/1979年の音楽.md "wikilink")
 
-[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:阿久悠が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿久悠が制作した楽曲 "wikilink") [Category:大野克夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野克夫が制作した楽曲 "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:阿久悠が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿久悠が制作した楽曲 "wikilink") [Category:大野克夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野克夫が制作した楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

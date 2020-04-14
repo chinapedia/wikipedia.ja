@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ジャイルズ・A・ルッツ](https://ja.wikipedia.org/wiki/ジャイルズ・A・ルッツ)から翻訳されています。
 
 
 **ジャイルズ・アルフレッド・ルッツ** （**Giles Alfred Lutz**、[1910年](../Page/1910年.md "wikilink")3月 - [1982年](../Page/1982年.md "wikilink")6月）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミズーリ州](../Page/ミズーリ州.md "wikilink")生まれの[作家](../Page/作家.md "wikilink")。[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")に多くの[西部劇](../Page/西部劇.md "wikilink")小説を書いたことで知られる。

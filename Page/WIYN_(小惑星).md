@@ -1,4 +1,4 @@
-> この記事は[WIYN \(\)](https://ja.wikipedia.org/wiki/WIYN_\(\))から翻訳されています。
+> この記事は[WIYN \(小惑星\)](https://ja.wikipedia.org/wiki/WIYN_\(小惑星\))から翻訳されています。
 
 
 **WIYN** (4299 WIYN) は小惑星帯に位置する小惑星。インディアナ小惑星計画 (Indiana Asteroid Program) により[ゲーテ・リンク天文台](../Page/ゲーテ・リンク天文台.md "wikilink")で発見された。

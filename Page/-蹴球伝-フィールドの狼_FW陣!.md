@@ -1,4 +1,4 @@
-> この記事は[-- FW!](https://ja.wikipedia.org/wiki/--_FW!)から翻訳されています。
+> この記事は[-蹴球伝-フィールドの狼 FW陣!](https://ja.wikipedia.org/wiki/-蹴球伝-フィールドの狼_FW陣!)から翻訳されています。
 
 
 『**-蹴球伝-フィールドの狼 FW陣！**』（しゅうきゅうでん フィールドのおおかみ ストライカーじん）は、[1999年](../Page/1999年.md "wikilink")に『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で連載されていた[サッカー漫画](../Page/サッカー漫画.md "wikilink")。作者は[高橋陽一](../Page/高橋陽一.md "wikilink")。

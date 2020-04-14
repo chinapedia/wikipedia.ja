@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NEC杯囲棋賽](https://ja.wikipedia.org/wiki/NEC杯囲棋賽)から翻訳されています。
 
 
 **NEC杯囲棋賽**（NECはいいきさい、NEC杯围棋赛）は、[中国](../Page/中国.md "wikilink")の[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に創設、2009年まで14期行われた。

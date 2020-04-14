@@ -1,4 +1,4 @@
-> この記事は[ UGATTA](https://ja.wikipedia.org/wiki/_UGATTA)から翻訳されています。
+> この記事は[エイデンシアター UGATTA](https://ja.wikipedia.org/wiki/エイデンシアター_UGATTA)から翻訳されています。
 
 
 『**エイデンシアター UGATTA**』（エイデンシアター ウガッタ）は、[1994年](../Page/1994年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")まで[東海テレビで放送された](../Page/東海テレビ放送.md "wikilink")[コメディ番組](../Page/喜劇.md "wikilink")。[エイデン](../Page/エイデン.md "wikilink")の一社提供。放送時間は毎週月曜 21:54 - 22:00 ([JST](../Page/日本標準時.md "wikilink")) 。

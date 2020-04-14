@@ -39,7 +39,7 @@
 10. **Twinkle Million Rendezvous**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ダーウィン
-11. **[HIGH PRESSURE](../Page/HIGH_PRESSURE.md "wikilink") -MORE HEAT MIX-**
+11. **[HIGH PRESSURE](https://ja.wikipedia.org/wiki/HIGH_PRESSURE_\(曲\) "wikilink") -MORE HEAT MIX-**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ダーウィン
 12. **JUST A JOKE**

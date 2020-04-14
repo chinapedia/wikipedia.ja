@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKインテル・ザプレシッチ](https://ja.wikipedia.org/wiki/NKインテル・ザプレシッチ)から翻訳されています。
 
 
 **ノゴメトニ・クルブ・インテル・ザプレシッチ**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の中央部、[ザグレブ郡](../Page/ザグレブ郡.md "wikilink")の都市[ザプレシチ](https://ja.wikipedia.org/wiki/ザプレシチ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

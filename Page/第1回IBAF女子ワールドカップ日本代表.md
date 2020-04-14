@@ -1,4 +1,4 @@
-> この記事は[1IBAF](https://ja.wikipedia.org/wiki/1IBAF)から翻訳されています。
+> この記事は[第1回IBAF女子ワールドカップ日本代表](https://ja.wikipedia.org/wiki/第1回IBAF女子ワールドカップ日本代表)から翻訳されています。
 
 
 **第1回IBAF女子ワールドカップ日本代表**（だい1かい－じょしわーるどかっぷにほんだいひょう）は、[2004年](../Page/2004年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")から[8月8日](../Page/8月8日.md "wikilink")にかけて[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[エドモントン](../Page/エドモントン.md "wikilink")で開かれた第1回[IBAF女子ワールドカップ](https://ja.wikipedia.org/wiki/IBAF女子ワールドカップ "wikilink")に出場するために編成された日本チームである。

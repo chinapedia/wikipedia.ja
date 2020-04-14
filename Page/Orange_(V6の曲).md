@@ -1,4 +1,4 @@
-> この記事は[Orange \(V6\)](https://ja.wikipedia.org/wiki/Orange_\(V6\))から翻訳されています。
+> この記事は[Orange \(V6の曲\)](https://ja.wikipedia.org/wiki/Orange_\(V6の曲\))から翻訳されています。
 
 
 「**Orange**」（オレンジ）は、[V6の](../Page/V6_\(グループ\).md "wikilink")28作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[avex traxから発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

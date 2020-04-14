@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[パブリックドメインDVD](https://ja.wikipedia.org/wiki/パブリックドメインDVD)から翻訳されています。
 
 
 **パブリックドメインDVD**（*Public Domain DVD*、PDDVD）は、原版保有者（元・[著作権者](https://ja.wikipedia.org/wiki/著作権者 "wikilink")）の許諾の必要がない、[著作権の保護期間](../Page/著作権の保護期間.md "wikilink")が満了したものや、何らかの理由で[著作権](../Page/著作権.md "wikilink")が消失した[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")（PD）の映像作品を[DVD](../Page/DVD.md "wikilink")に記録したものをいう。

@@ -1,4 +1,4 @@
-> この記事は[SINPO](https://ja.wikipedia.org/wiki/SINPO)から翻訳されています。
+> この記事は[SINPOコード](https://ja.wikipedia.org/wiki/SINPOコード)から翻訳されています。
 
 
 **SINPOコード**（シンポ-）とは、[BCL](../Page/BCL.md "wikilink")の受信報告において用いられる、[電波](../Page/電波.md "wikilink")の受信状態を表現する[コード](https://ja.wikipedia.org/wiki/コード_\(暗号\) "wikilink")。

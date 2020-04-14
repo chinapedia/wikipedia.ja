@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVピープル](https://ja.wikipedia.org/wiki/TVピープル)から翻訳されています。
 
 
 『**TVピープル**』（ティービーピープル）は、[村上春樹](../Page/村上春樹.md "wikilink")の短編小説集。

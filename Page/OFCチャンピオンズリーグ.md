@@ -1,4 +1,4 @@
-> この記事は[OFC](https://ja.wikipedia.org/wiki/OFC)から翻訳されています。
+> この記事は[OFCチャンピオンズリーグ](https://ja.wikipedia.org/wiki/OFCチャンピオンズリーグ)から翻訳されています。
 
 
 **OFCチャンピオンズリーグ**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝チームには[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")への出場権が与えられる。

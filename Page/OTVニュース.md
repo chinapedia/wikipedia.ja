@@ -1,4 +1,4 @@
-> この記事は[OTV](https://ja.wikipedia.org/wiki/OTV)から翻訳されています。
+> この記事は[OTVニュース](https://ja.wikipedia.org/wiki/OTVニュース)から翻訳されています。
 
 
 『**OTVニュース**』（オーティーブイニュース）は、[沖縄テレビで放送されていた](../Page/沖縄テレビ放送.md "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")である。2017年3月で終了し、4月より当枠で天気予報またはミニ番組を放送。

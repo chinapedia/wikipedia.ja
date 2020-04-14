@@ -16,7 +16,7 @@
 
 ### 記録
 
-[日本球界においては](../Page/日本プロ野球.md "wikilink")、WHIPは公式記録となっていない。任意に集計したシーズン記録では、[景浦將](../Page/景浦將.md "wikilink")（[大阪](../Page/阪神タイガース.md "wikilink")）が1リーグ時代の[1936年](../Page/1936年.md "wikilink")秋季に記録した0.72が最高である2リーグ制後では、[村山実](../Page/村山実.md "wikilink")（[阪神](../Page/阪神タイガース.md "wikilink")）が[1959年](../Page/1959年.md "wikilink")に記録した0.748が最高である。なお、村山は通算WHIPの[NPB記録](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（0.95）も持っている（通算2000投球回以上）。
+[日本球界においては](../Page/日本プロ野球.md "wikilink")、WHIPは公式記録となっていない。任意に集計したシーズン記録では、[景浦將](../Page/景浦將.md "wikilink")（[大阪](../Page/阪神タイガース.md "wikilink")）が1リーグ時代の[1936年](../Page/1936年.md "wikilink")秋季に記録した0.72が最高である。2リーグ制後では、[村山実](../Page/村山実.md "wikilink")（[阪神](../Page/阪神タイガース.md "wikilink")）が[1959年](../Page/1959年.md "wikilink")に記録した0.748が最高である。なお、村山は通算WHIPの[NPB記録](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（0.95）も持っている（通算2000投球回以上）。
 
 アメリカの[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")や台湾の[中華職業棒球大聯盟](../Page/中華職業棒球大聯盟.md "wikilink")などでは公式記録となっている。メジャーリーグのシーズン記録は[ペドロ・マルティネス](../Page/ペドロ・マルティネス.md "wikilink")（[レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")）が[2000年](../Page/2000年.md "wikilink")に記録した0.74である（規定投球回数以上）。
 

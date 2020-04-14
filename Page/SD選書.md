@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SD選書](https://ja.wikipedia.org/wiki/SD選書)から翻訳されています。
 
 
 **SD選書** は[鹿島出版会](../Page/鹿島出版会.md "wikilink")から出版されている[建築](../Page/建築.md "wikilink")・[建築史](../Page/建築史.md "wikilink")を中心とした[選書](../Page/選書.md "wikilink")シリーズで1965年に発足。

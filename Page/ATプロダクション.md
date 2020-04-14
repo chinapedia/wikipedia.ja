@@ -1,4 +1,4 @@
-> この記事は[AT](https://ja.wikipedia.org/wiki/AT)から翻訳されています。
+> この記事は[ATプロダクション](https://ja.wikipedia.org/wiki/ATプロダクション)から翻訳されています。
 
 
 **株式会社ATプロダクション**（アットプロダクション）とは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")である。[総合芸能学院テアトルアカデミーを中心にした](https://ja.wikipedia.org/wiki/テアトルアカデミー "wikilink")、テアトルアカデミーグループの直系プロダクションであり、当プロダクションに所属しているタレントは全員が総合芸能学院テアトルアカデミーの卒業者である。

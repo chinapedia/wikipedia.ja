@@ -1,4 +1,4 @@
-> この記事は[R-24hr](https://ja.wikipedia.org/wiki/R-24hr)から翻訳されています。
+> この記事は[白石涼子★R-24hr](https://ja.wikipedia.org/wiki/白石涼子★R-24hr)から翻訳されています。
 
 
 『**白石涼子★R-24hr**』（しらいしりょうこあーるにじゅうよん）は、[スターチャイルド](../Page/スターチャイルド.md "wikilink")HPすたちゃまにあ内[スタチャインターネットラジオ](https://ja.wikipedia.org/wiki/スタチャインターネットラジオ "wikilink")で[2005年](../Page/2005年.md "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")まで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2008年[3月3日](../Page/3月3日.md "wikilink")の第123回で更新終了。

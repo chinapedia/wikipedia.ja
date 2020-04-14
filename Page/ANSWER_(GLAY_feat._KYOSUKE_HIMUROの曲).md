@@ -1,4 +1,4 @@
-> この記事は[ANSWER \(GLAY feat. KYOSUKE HIMURO\)](https://ja.wikipedia.org/wiki/ANSWER_\(GLAY_feat._KYOSUKE_HIMURO\))から翻訳されています。
+> この記事は[ANSWER \(GLAY feat. KYOSUKE HIMUROの曲\)](https://ja.wikipedia.org/wiki/ANSWER_\(GLAY_feat._KYOSUKE_HIMUROの曲\))から翻訳されています。
 
 
 『**ANSWER**』（アンサー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[GLAY](../Page/GLAY.md "wikilink")と日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[氷室京介](../Page/氷室京介.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")にリリースした**GLAY feat. KYOSUKE HIMURO**名義のシングル。また、GLAY、氷室京介による[コラボレーション](../Page/コラボレーション.md "wikilink")シングル。

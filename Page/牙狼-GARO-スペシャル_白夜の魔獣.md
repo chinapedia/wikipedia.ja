@@ -1,4 +1,4 @@
-> この記事は[-GARO- ](https://ja.wikipedia.org/wiki/-GARO-_)から翻訳されています。
+> この記事は[牙狼-GARO-スペシャル 白夜の魔獣](https://ja.wikipedia.org/wiki/牙狼-GARO-スペシャル_白夜の魔獣)から翻訳されています。
 
 
 『**牙狼〈GARO〉スペシャル 白夜の魔獣**』（ガロスペシャル びゃくやのまじゅう）は、[CSファミリー劇場にて](../Page/ファミリー劇場.md "wikilink")[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に放送された特撮テレビドラマ。前編は12月15日、後編は12月22日放送。2005年のテレビドラマ『[牙狼〈GARO〉](../Page/牙狼-GARO-.md "wikilink")』の後日談として製作された\[1\]。ファミリー劇場10周年記念作品\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
+> この記事は[SEED \(音楽ユニット\)](https://ja.wikipedia.org/wiki/SEED_\(音楽ユニット\))から翻訳されています。
 
 
 **SEED**（シード）は[九州](../Page/九州.md "wikilink")出身の4人組からなる[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2004年6月、福岡県久留米市のダンススクール「MMA（[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")）」のレッスン生で結成。[avex trax所属](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2007年4月以降、活動を休止した模様。

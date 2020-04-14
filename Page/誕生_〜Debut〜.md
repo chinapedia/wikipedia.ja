@@ -1,4 +1,4 @@
-> この記事は[ Debut](https://ja.wikipedia.org/wiki/_Debut)から翻訳されています。
+> この記事は[誕生 〜Debut〜](https://ja.wikipedia.org/wiki/誕生_〜Debut〜)から翻訳されています。
 
 
 『**誕生 〜Debut〜**』（たんじょう デビュー）は、[1993年](../Page/1993年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[NECアベニュー](../Page/NECアベニュー.md "wikilink")が発売した[PC-9801](https://ja.wikipedia.org/wiki/PC-9801 "wikilink")用[育成シミュレーションゲーム](../Page/育成シミュレーションゲーム.md "wikilink")。前年に発売された『[卒業 〜Graduation〜](../Page/卒業_〜Graduation〜.md "wikilink")』（[ジャパンホームビデオ](../Page/ジャパンホームビデオ.md "wikilink")）の姉妹作に当たり、弱小プロダクション所属の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")3人をトップスターに育て上げるのが目的。

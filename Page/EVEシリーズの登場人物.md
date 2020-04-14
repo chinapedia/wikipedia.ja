@@ -1,4 +1,4 @@
-> この記事は[EVE](https://ja.wikipedia.org/wiki/EVE)から翻訳されています。
+> この記事は[EVEシリーズの登場人物](https://ja.wikipedia.org/wiki/EVEシリーズの登場人物)から翻訳されています。
 
 
 <div class="pathnavbox">

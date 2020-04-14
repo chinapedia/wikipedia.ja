@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線小角散乱](https://ja.wikipedia.org/wiki/X線小角散乱)から翻訳されています。
 
 
 **X線小角散乱**（Xせんしょうかくさんらん、）とは、[X線](../Page/X線.md "wikilink")を物質に照射し、散乱角が小さく[散乱](https://ja.wikipedia.org/wiki/散乱 "wikilink")されたX線を測定することにより物質の構造情報を得る手法である。略して**SAXS**ということも多い。あるいは、X線の小角度の散乱（小角散乱）の現象のことを指す。

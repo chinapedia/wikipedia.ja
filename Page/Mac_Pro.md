@@ -1,7 +1,7 @@
 > この記事は[Mac Pro](https://ja.wikipedia.org/wiki/Mac_Pro)から翻訳されています。
 
 
-**Mac Pro**（マックプロ）は[アップルが開発](../Page/アップル_\(企業\).md "wikilink")、販売している[パーソナルコンピューター](https://ja.wikipedia.org/wiki/パーソナルコンピューター "wikilink")。[Power Mac G5の後継機種として](../Page/Power_Mac.md "wikilink")2006年8月より販売が開始された。デュアルプロセッサ (2-way) 対応型の[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[Xeon](../Page/Xeon.md "wikilink")を1個もしくは2個、またはユニプロセッサ専用型の[Xeon](../Page/Xeon.md "wikilink")を[CPU](../Page/CPU.md "wikilink")に採用している。
+**Mac Pro**（マックプロ）は[アップルが開発](../Page/アップル_\(企業\).md "wikilink")、販売している[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。[Power Mac G5の後継機種として](../Page/Power_Mac.md "wikilink")2006年8月より販売が開始された。デュアルプロセッサ (2-way) 対応型の[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[Xeon](../Page/Xeon.md "wikilink")を1個もしくは2個、またはユニプロセッサ専用型の[Xeon](../Page/Xeon.md "wikilink")を[CPU](../Page/CPU.md "wikilink")に採用している。
 
 ## 概要
 
@@ -82,13 +82,20 @@ Nehalemマイクロアーキテクチャ版</small></p></th>
 <td><p><small>Mid 2010</small></p></td>
 </tr>
 <tr class="even">
+<td><p><strong><small>機種ID</small></strong></p></td>
+<td><p><small>MacPro1,1</small></p></td>
+<td><p><small>MacPro3,1</small></p></td>
+<td><p><small>MacPro4,1</small></p></td>
+<td><p><small>MacPro5,1</small></p></td>
+</tr>
+<tr class="odd">
 <td><p><strong><small>発売日</small></strong></p></td>
 <td><p><small>2006年8月8日</small></p></td>
 <td><p><small>2008年1月8日</small></p></td>
 <td><p><small>2009年3月3日</small></p></td>
 <td><p><small>2010年7月27日</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><small><a href="../Page/CPU.md" title="wikilink">CPU</a></small></strong></p></td>
 <td><p><small>2.66 GHz デュアルコア Intel Xeon ×2<br />
 <span style="color:#969696"><em>BTOで選択可<br />
@@ -103,7 +110,7 @@ Nehalemマイクロアーキテクチャ版</small></p></th>
 <span style="color:#969696"><em>BTOで選択可<br />
 3.2 GHz クアッドコア Intel Xeon, 3.33 GHz 6コア Intel Xeon 、 2.66 GHz, 2.93 GHz クアッドコア Intel Xeon ×2 もしくは 2.93 GHz 6コア Intel Xeon ×2</em></span></small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><small><a href="https://ja.wikipedia.org/wiki/GPU" title="wikilink">GPU</a></small></strong></p></td>
 <td><p><small><a href="../Page/NVIDIA.md" title="wikilink">NVIDIA</a> <a href="https://ja.wikipedia.org/wiki/GeForce" title="wikilink">GeForce</a> 7300GT（256MB）<br />
 <span style="color:#969696"><em>BTOで選択可<br />
@@ -124,14 +131,14 @@ AMD Radeon HD 4870（512MB）<br />
 AMD Radeon HD 5870（1GB）<br />
 </em></span>（Radeon HD 5770をシングルモデルは3基まで、デュアルモデルは2基まで可）</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><small>セキュリティチップ</small></p></td>
 <td></td>
 <td><p><small>Apple T2</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><small><a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">HDD</a>, <a href="../Page/ソリッドステートドライブ.md" title="wikilink">SSD</a></small></strong></p></td>
 <td><p><small>250GB Serial ATA 7,200rpm 8 MB キャッシュ<br />
 <span style="color:#969696"><em>BTOで選択可<br />
@@ -151,14 +158,14 @@ AMD Radeon HD 5870（1GB）<br />
 1TB,2TB Serial ATA 7,200rpm 32 MB キャッシュ(最大4台)、512GB <a href="../Page/ソリッドステートドライブ.md" title="wikilink">SSD</a><br />
 </em></span></small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><small><a href="../Page/ファームウェア.md" title="wikilink">ファームウェア</a></small></strong></p></td>
 <td><p><small><a href="../Page/Unified_Extensible_Firmware_Interface.md" title="wikilink">EFI</a>32</small></p></td>
 <td><p><small>EFI64</small></p></td>
 <td><p><small>Bridge OS</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/Random_Access_Memory.md" title="wikilink"><small>メモリ</small></a></strong></p></td>
 <td><p><small>512MBx2 667MHz <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> ECC fully buffered DIMM<br />
 （スロット数8、最大16GB）</small></p></td>
@@ -171,7 +178,7 @@ AMD Radeon HD 5870（1GB）<br />
 （スロット数4、最大16GB）<br />
 もしくは 1GBx6 1,333MHz DDR3 ECC DIMM（スロット数8、最大32GB）</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><small><a href="../Page/フロントサイドバス.md" title="wikilink">FSB</a>・<a href="https://ja.wikipedia.org/wiki/インテル_QuickPath_インターコネクト" title="wikilink">QPI</a></small></strong></p></td>
 <td><p><small>1,333MHz</small></p></td>
 <td><p><small>1,600MHz</small></p></td>
@@ -179,7 +186,7 @@ AMD Radeon HD 5870（1GB）<br />
 6.4 GT/s</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AirPort#AirPort_Extreme_802.11g_cards" title="wikilink"><small>AirPort Extreme</small></a></strong></p></td>
 <td><p><small>IEEE<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/draft-n</a><br />
 （デフォルトでは802.11nは使用不可）</small></p></td>
@@ -187,28 +194,28 @@ AMD Radeon HD 5870（1GB）<br />
 <td><p><small>IEEE802.11ac</small></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><small><a href="https://ja.wikipedia.org/wiki/Thunderbolt" title="wikilink">Thunderbolt</a></small></strong></p></td>
 <td></td>
 <td><p><small>Thunderbolt 2 x6</small></p></td>
 <td><p><small>Thunderbolt 3 x4〜12</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/イーサネット.md" title="wikilink"><small>Ethernet</small></a></strong></p></td>
 <td><p><small>Gigabit Ethernet x 2</small></p></td>
 <td><p><small><a href="../Page/10ギガビット・イーサネット.md" title="wikilink">10G Ethernet</a> x 2</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/PCI_Express.md" title="wikilink"><small>PCI Express</small></a></strong></p></td>
 <td><p><small>PCI Express 2.0スロット x 4</small></p></td>
 <td><p><small>-</small></p></td>
 <td><p><small>PCI Express 3.0スロット x 8</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><small><a href="../Page/光学ドライブ.md" title="wikilink">光学ドライブ</a></small></strong></p></td>
 <td><p><small>16倍速<a href="../Page/SuperDrive.md" title="wikilink">SuperDrive</a>（DVD±R DL/DVD±RW/CD-RW）<br />
 （2台まで可）</small></p></td>
@@ -217,28 +224,28 @@ AMD Radeon HD 5870（1GB）<br />
 <td><p><small>-</small></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><small><strong>OS</strong>[8]</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Mac_OS_X_10.5" title="wikilink"><small>Mac OS X 10.5</small></a></p></td>
 <td><p><small>Mac OS X 10.5.6/<a href="https://ja.wikipedia.org/wiki/Mac_OS_X_10.6" title="wikilink">Mac OS X 10.6</a></small></p></td>
 <td><p><small>Mac OS X 10.6.4〜<a href="https://ja.wikipedia.org/wiki/Mac_OS_X_Lion" title="wikilink">OS X 10.7.3</a></small></p></td>
 <td><p><small>OS X Lion</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><small>重さ</small></strong></p></td>
 <td><p><small>19.2<a href="https://ja.wikipedia.org/wiki/キログラム" title="wikilink">kg</a>（標準構成時）</small></p></td>
 <td><p><small>18.4<a href="https://ja.wikipedia.org/wiki/キログラム" title="wikilink">kg</a>（標準構成時）</small></p></td>
 <td><p><small>18.1<a href="https://ja.wikipedia.org/wiki/キログラム" title="wikilink">kg</a>（標準構成時）</small></p></td>
 <td><p><small>5kg</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><small>サイズ</small></strong></p></td>
 <td><p><small>51.1 x 20.6 x 47.5 <a href="../Page/センチメートル.md" title="wikilink">cm</a></small></p></td>
 <td><p><small>25.1 x 16.7cm</small></p></td>
 <td><p><small>55.9 x 21.8 x 45.0 cm</small></p></td>
 <td><p><small>22.02 x 53.95 x 48.2 cm</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><small>消費電力</small></strong></p></td>
 <td><p><small>最大1200W</small></p></td>
 <td><p><small>最大450W</small></p></td>

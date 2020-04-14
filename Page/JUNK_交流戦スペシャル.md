@@ -1,4 +1,4 @@
-> この記事は[JUNK ](https://ja.wikipedia.org/wiki/JUNK_)から翻訳されています。
+> この記事は[JUNK 交流戦スペシャル](https://ja.wikipedia.org/wiki/JUNK_交流戦スペシャル)から翻訳されています。
 
 
 **JUNK 交流戦スペシャル**（じゃんく こうりゅうせんすぺしゃる）は、[TBSラジオで放送されていた](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[深夜](../Page/深夜放送.md "wikilink")[ラジオ](../Page/ラジオ番組.md "wikilink")[番組](../Page/番組.md "wikilink")。

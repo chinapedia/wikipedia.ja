@@ -1,4 +1,4 @@
-> この記事は[Let\'s! ](https://ja.wikipedia.org/wiki/Let\'s!_)から翻訳されています。
+> この記事は[Let\'s! 浜茶屋](https://ja.wikipedia.org/wiki/Let\'s!_浜茶屋)から翻訳されています。
 
 
 **Let's\! 浜茶屋 恋のBattle Beach**（レッツはまぢゃや こいのバトルビーチ）は、[2004年](../Page/2004年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に[NEC](../Page/日本電気.md "wikilink")・[BIGLOBE](../Page/BIGLOBE.md "wikilink")が発売した[Windows98](https://ja.wikipedia.org/wiki/Windows98 "wikilink")～[XP用](https://ja.wikipedia.org/wiki/WindowsXP "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[経営シミュレーションゲーム](../Page/経営シミュレーションゲーム.md "wikilink")だが、[ギャルゲー](../Page/ギャルゲー.md "wikilink")的要素を前面に押し出した作りとなっている。また、販売方式が[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")販売のみである点も大きな特徴。

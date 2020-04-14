@@ -1,4 +1,4 @@
-> この記事は[SM](https://ja.wikipedia.org/wiki/SM)から翻訳されています。
+> この記事は[シトロエン・SM](https://ja.wikipedia.org/wiki/シトロエン・SM)から翻訳されています。
 
 
 **シトロエン・SM**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[自動車](../Page/自動車.md "wikilink")会社[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が製造した[クーペ](../Page/クーペ.md "wikilink")型乗用車である。

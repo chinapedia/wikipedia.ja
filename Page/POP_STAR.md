@@ -32,6 +32,7 @@
 <!-- end list -->
 
   - [蘭寿とむ](../Page/蘭寿とむ.md "wikilink") - アルバム「Le Ange（ル アンジュ）」（2015年10月21日）収録\[1\]
+  - [Zero-shaft](https://ja.wikipedia.org/wiki/Zero-shaft "wikilink") - アルバム「dramatic. (ドラマチック)」(2018年6月21日)収録。歌っているのは「ほのか」である。
 
 ## 関連作品
 

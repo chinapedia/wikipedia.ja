@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:経済](https://ja.wikipedia.org/wiki/Portal:フランス/Section:経済)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Rue_de_la_Boétie,_54-56.jpg "wikilink") **[サノフィ](../Page/サノフィ.md "wikilink")**（Sanofi、 ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")を本拠とする[製薬](../Page/製薬.md "wikilink")・[バイオテクノロジー](https://ja.wikipedia.org/wiki/バイオテクノロジー "wikilink")企業である。

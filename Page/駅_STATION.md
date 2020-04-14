@@ -1,4 +1,4 @@
-> この記事は[ STATION](https://ja.wikipedia.org/wiki/_STATION)から翻訳されています。
+> この記事は[駅 STATION](https://ja.wikipedia.org/wiki/駅_STATION)から翻訳されています。
 
 
 『**駅 STATION**』（えき ステーション）は、[1981年](../Page/1981年.md "wikilink")に製作された[高倉健](../Page/高倉健.md "wikilink")主演の[映画](../Page/映画.md "wikilink")である。

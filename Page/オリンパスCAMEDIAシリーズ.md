@@ -1,4 +1,4 @@
-> この記事は[CAMEDIA](https://ja.wikipedia.org/wiki/CAMEDIA)から翻訳されています。
+> この記事は[オリンパスCAMEDIAシリーズ](https://ja.wikipedia.org/wiki/オリンパスCAMEDIAシリーズ)から翻訳されています。
 
 
 **CAMEDIA**（キャメディア）は、[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")（オリンパスイメージングを含む）が販売していた[デジタルスチルカメラのシリーズのひとつ](../Page/デジタルカメラ.md "wikilink")。細分するとEシリーズ、Cシリーズ、SPシリーズ、FEシリーズに分けられる。

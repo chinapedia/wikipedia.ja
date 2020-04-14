@@ -1,4 +1,4 @@
-> この記事は[UFJ-VISA](https://ja.wikipedia.org/wiki/UFJ-VISA)から翻訳されています。
+> この記事は[三菱UFJ-VISA](https://ja.wikipedia.org/wiki/三菱UFJ-VISA)から翻訳されています。
 
 
 **三菱UFJ-VISA**（みつびしユーエフジェイ-ビザ）は、株式会社[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")（以下「三菱UFJ」）が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。クレジットカードの発行・管理業務等は[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")に委託している。
@@ -91,25 +91,32 @@
 
 東日本旅客鉄道株式会社（JR東日本）及び株式会社ビューカードと提携し発行する。特徴は次の通り。
 
-  - [スーパーICカードのEdyの代わりにJR東日本のSuicaを搭載している](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはSuicaでなくEdyが搭載される）。
+  - [スーパーICカードにJR東日本のSuicaを搭載している](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはSuicaでなくEdyが搭載された）。
+
+:\*Edy機能停止に伴い、代理人カードはクレジットカード機能、Suica機能はない。
+
   - VISA加盟店に加えてビューカードのVIEW加盟店でも利用する事が出来る。但し、ビューカードが発行するビューカードで利用する場合と取扱が一部異なる場合がある（→[Type IIカード](https://ja.wikipedia.org/wiki/VIEW_Suicaカード#Type_IIカード "wikilink")）。
   - [モバイルSuica](../Page/モバイルSuica.md "wikilink")に会員登録した場合、ビューカードが発行するビューカードで会員登録した場合と同様に、当分の間、年会費無料で利用する事が出来る（他の三菱UFJ-VISAの場合は年会費がかかる）。
 
-### スーパーICカードTOP\&PASMO
+### スーパーICカード TOKYU POINT PASMO
 
-東急カード株式会社及び株式会社パスモと提携し発行する。クレジットカード・キャッシュカード・PASMOが一体となったカードは日本初である。特徴は次の通り。
+旧称は「スーパーICカードTOP\&PASMO」で、東急カード株式会社及び株式会社パスモと提携し発行する。日本初の、クレジットカード・キャッシュカード・PASMOが一体となったカード。特徴は次の通り。
 
-  - [スーパーICカードのEdyの代わりにパスモのPASMOを搭載している](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはPASMOでなくEdyが搭載される）。
+  - [スーパーICカードにPASMOを搭載している](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはPASMOでなくEdyが搭載された）。
+
+:\*Edy機能停止に伴い、代理人カードはクレジットカード機能、PASMO機能はない。
+
   - 東急カードが運営する「[TOKYUポイント](https://ja.wikipedia.org/wiki/TOKYUポイント "wikilink")」に関する機能を搭載していて、三菱UFJポイントに加えてTOKYUポイントも貯める事が出来る。
   - [東急カード](../Page/東急カード.md "wikilink")発行のTOP&カードを対象とした優遇サービス（提携[信託銀行](../Page/信託銀行.md "wikilink")での取引や東急グループ以外の店におけるTOKYUポイント進呈など）は対象外となる場合がある。また、[東急ハーベストクラブ](https://ja.wikipedia.org/wiki/東急ハーベストクラブ "wikilink")などの申込に必要なTOPカードの要件に、スーパーICカードでは該当しない。
   - 他社発行のTOKYUポイント・PASMO一体型クレジットカードとは異なり、定期券としての利用はできない。
 
 ### スーパーICカードKIPS+PiTaPa
 
-近鉄及び株式会社スルッとKANSAIと提携し発行する。特徴は次の通り。
+近鉄及び株式会社スルッとKANSAIと提携し発行していた。特徴は次の通り。
 
-  - [スーパーICカードのEdyの代わりにスルッとKANSAIのPiTaPaを搭載している](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはPiTaPaでなくEdyが搭載される）。
-  - KIPSカードの機能を搭載している。
+  - [スーパーICカードのEdyの代わりにスルッとKANSAIのPiTaPaを搭載していた](https://ja.wikipedia.org/wiki/#スーパーICカード "wikilink")（代理人カードはPiTaPaでなくEdyが搭載された）。
+  - KIPSカードの機能を搭載していた。
+  - ｢スーパーICカード KIPS+PiTaPa｣の新規申込受付は、2013年4月12日に停止された\[5\]。
 
 ## 追加カード・サービス
 
@@ -157,3 +164,4 @@
 2.
 3.
 4.  [JR東日本ATM「VIEW ALTTE」でご利用可能なサービス変更およびご利用一時停止のお知らせ](http://www.bk.mufg.jp/info/100122_viewaltte.html)（2010年1月22日）
+5.  [「スーパーICカード KIPS+PiTaPa」および「三菱東京UFJ-VISA」VisaTouch新規申込受付停止と「ETCカード」の有効期限変更のお知らせ](https://www.bk.mufg.jp/tsukau/credit/news/info_13012101.html) 三菱東京UFJ

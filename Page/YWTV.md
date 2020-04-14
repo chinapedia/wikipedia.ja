@@ -31,4 +31,4 @@
   - [オンガクのDNA](../Page/オンガクのDNA.md "wikilink")
   - [Style/Style](https://ja.wikipedia.org/wiki/Style/Style "wikilink")
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink")
+[Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink") [Category:テレビ神奈川の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の情報・ワイドショー番組 "wikilink")

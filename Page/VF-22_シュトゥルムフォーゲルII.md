@@ -1,4 +1,4 @@
-> この記事は[VF-22 II](https://ja.wikipedia.org/wiki/VF-22_II)から翻訳されています。
+> この記事は[VF-22 シュトゥルムフォーゲルII](https://ja.wikipedia.org/wiki/VF-22_シュトゥルムフォーゲルII)から翻訳されています。
 
 
 **VF-22 シュトゥルムフォーゲルII**（ブイエフ・にじゅうに シュトゥルムフォーゲル ツー、*Sturmvögel II*）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[マクロス7](../Page/マクロス7.md "wikilink")』や、その他の「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」作品に登場する架空の兵器。

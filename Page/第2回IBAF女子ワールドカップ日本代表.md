@@ -1,4 +1,4 @@
-> この記事は[2IBAF](https://ja.wikipedia.org/wiki/2IBAF)から翻訳されています。
+> この記事は[第2回IBAF女子ワールドカップ日本代表](https://ja.wikipedia.org/wiki/第2回IBAF女子ワールドカップ日本代表)から翻訳されています。
 
 
 **第2回IBAF女子ワールドカップ日本代表**は、[2006年](../Page/2006年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")から[8月6日](../Page/8月6日.md "wikilink")まで開かれた第2回[IBAF女子ワールドカップ](https://ja.wikipedia.org/wiki/IBAF女子ワールドカップ "wikilink")に出場するために編成された日本代表チームである。

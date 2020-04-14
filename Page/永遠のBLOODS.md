@@ -1,4 +1,4 @@
-> この記事は[BLOODS](https://ja.wikipedia.org/wiki/BLOODS)から翻訳されています。
+> この記事は[永遠のBLOODS](https://ja.wikipedia.org/wiki/永遠のBLOODS)から翻訳されています。
 
 
 「**永遠のBLOODS**」（えいえんのブラッズ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

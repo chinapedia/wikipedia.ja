@@ -1,11 +1,11 @@
-> この記事は[PW](https://ja.wikipedia.org/wiki/PW)から翻訳されています。
+> この記事は[P・W・シンガー](https://ja.wikipedia.org/wiki/P・W・シンガー)から翻訳されています。
 
 
 [Peter_Warren_Singer_2010.jpg](https://ja.wikipedia.org/wiki/File:Peter_Warren_Singer_2010.jpg "fig:Peter_Warren_Singer_2010.jpg") **ピーター・ウォレン・シンガー**（**Peter Warren Singer**、[1974年](../Page/1974年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アシュケナジム](../Page/アシュケナジム.md "wikilink")系ユダヤ人の[国際政治学者](../Page/国際政治学者.md "wikilink")。専門は、安全保障論。
 
 [民間軍事会社](../Page/民間軍事会社.md "wikilink")、[少年兵](../Page/少年兵.md "wikilink")、[軍事用ロボット](../Page/軍事用ロボット.md "wikilink")などの研究で知られる。
 
-[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")卒業後、[ハーヴァード大学](https://ja.wikipedia.org/wiki/ハーヴァード大学 "wikilink")で博士号取得。現在、[ブルッキングス研究所](../Page/ブルッキングス研究所.md "wikilink")上級研究員。
+[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")卒業後、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で博士号取得。現在、[ブルッキングス研究所](../Page/ブルッキングス研究所.md "wikilink")上級研究員。
 
 ## 著書
 
@@ -65,4 +65,4 @@
 
   - [P. W. Singer](http://www.pwsinger.com/) - 本人のホームページ
 
-[Category:アメリカ合衆国の政治学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の政治学者 "wikilink") [Category:ブルッキングス研究所の人物](https://ja.wikipedia.org/wiki/Category:ブルッキングス研究所の人物 "wikilink") [Category:東欧ユダヤ系アメリカ人](https://ja.wikipedia.org/wiki/Category:東欧ユダヤ系アメリカ人 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink")
+[Category:アメリカ合衆国の政治学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の政治学者 "wikilink") [Category:ブルッキングス研究所の人物](https://ja.wikipedia.org/wiki/Category:ブルッキングス研究所の人物 "wikilink") [Category:東欧ユダヤ系アメリカ人](https://ja.wikipedia.org/wiki/Category:東欧ユダヤ系アメリカ人 "wikilink") [Category:プリンストン大学出身の人物](https://ja.wikipedia.org/wiki/Category:プリンストン大学出身の人物 "wikilink") [Category:ハーバード大学出身の人物](https://ja.wikipedia.org/wiki/Category:ハーバード大学出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

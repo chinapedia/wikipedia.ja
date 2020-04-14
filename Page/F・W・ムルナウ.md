@@ -1,4 +1,4 @@
-> この記事は[FW](https://ja.wikipedia.org/wiki/FW)から翻訳されています。
+> この記事は[F・W・ムルナウ](https://ja.wikipedia.org/wiki/F・W・ムルナウ)から翻訳されています。
 
 
 **フリードリヒ・ヴィルヘルム・ムルナウ**（Friedrich Wilhelm Murnau, [1888年](../Page/1888年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - [1931年](../Page/1931年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[映画監督](../Page/映画監督.md "wikilink")。[サイレント時代の巨匠で](../Page/サイレント映画.md "wikilink")、[フリッツ・ラング](../Page/フリッツ・ラング.md "wikilink")らとともに[ドイツ表現主義映画を代表する監督である](../Page/表現主義.md "wikilink")。

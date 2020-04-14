@@ -1,4 +1,4 @@
-> この記事は[Hey! \?](https://ja.wikipedia.org/wiki/Hey!_\?)から翻訳されています。
+> この記事は[Hey! みんな元気かい\?](https://ja.wikipedia.org/wiki/Hey!_みんな元気かい\?)から翻訳されています。
 
 
 「**Hey\! みんな元気かい?**」（ヘイ\!みんなげんきかい?）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

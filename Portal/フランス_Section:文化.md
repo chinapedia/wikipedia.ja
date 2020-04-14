@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:文化](https://ja.wikipedia.org/wiki/Portal:フランス/Section:文化)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/file:Léon_Bakst_001.jpg "wikilink") **[バレエ・リュス](https://ja.wikipedia.org/wiki/バレエ・リュス "wikilink")**（**Ballets Russes**）は、[ロシア](../Page/ロシア.md "wikilink")出身の芸術プロデューサー、[セルゲイ・ディアギレフ](../Page/セルゲイ・ディアギレフ.md "wikilink")（[1872年](../Page/1872年.md "wikilink") - [1929年](../Page/1929年.md "wikilink")）が主宰した[バレエ](../Page/バレエ.md "wikilink")団である。

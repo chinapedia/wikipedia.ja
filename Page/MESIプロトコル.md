@@ -1,4 +1,4 @@
-> この記事は[MESI](https://ja.wikipedia.org/wiki/MESI)から翻訳されています。
+> この記事は[MESIプロトコル](https://ja.wikipedia.org/wiki/MESIプロトコル)から翻訳されています。
 
 
 [Diagrama_MESI.GIF](https://ja.wikipedia.org/wiki/File:Diagrama_MESI.GIF "fig:Diagrama_MESI.GIF")\]\] [MESI_protocol_activity_diagram.png](https://ja.wikipedia.org/wiki/File:MESI_protocol_activity_diagram.png "fig:MESI_protocol_activity_diagram.png")\]\] **MESIプロトコル**（別名、**イリノイ・プロトコル**）とは、[マルチプロセッサ](https://ja.wikipedia.org/wiki/マルチプロセッサ "wikilink")システムで[メモリや](../Page/主記憶装置.md "wikilink")[キャッシュメモリ](../Page/キャッシュメモリ.md "wikilink")の[同期をとる](https://ja.wikipedia.org/wiki/同期_\(情報工学\) "wikilink")[キャッシュコヒーレンシ](https://ja.wikipedia.org/wiki/キャッシュコヒーレンシ "wikilink")と[メモリ一貫性](https://ja.wikipedia.org/wiki/メモリ一貫性 "wikilink")のプロトコルであり、ライトバック方式のキャッシュで広く使われている。イリノイ・プロトコルという別名は[イリノイ大学アーバナ・シャンペーン校](../Page/イリノイ大学アーバナ・シャンペーン校.md "wikilink")で開発されたことに由来する。

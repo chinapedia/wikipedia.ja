@@ -1,4 +1,4 @@
-> この記事は[WISH \(\)](https://ja.wikipedia.org/wiki/WISH_\(\))から翻訳されています。
+> この記事は[WISH \(嵐の曲\)](https://ja.wikipedia.org/wiki/WISH_\(嵐の曲\))から翻訳されています。
 
 
 「**WISH**」（ウィッシュ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")15作目のシングル。[2005年](../Page/2005年.md "wikilink")（平成17年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[J Storm](../Page/ジェイ・ストーム.md "wikilink")。

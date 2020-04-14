@@ -1,4 +1,4 @@
-> この記事は[Hard core kid ](https://ja.wikipedia.org/wiki/Hard_core_kid_)から翻訳されています。
+> この記事は[Hard core kid 狐次郎](https://ja.wikipedia.org/wiki/Hard_core_kid_狐次郎)から翻訳されています。
 
 
 **Hard core kid 狐次郎**（ハード・コア・キッド・こじろう、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月8日](../Page/2月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。

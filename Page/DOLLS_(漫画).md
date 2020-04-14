@@ -1,4 +1,4 @@
-> この記事は[DOLLS \(\)](https://ja.wikipedia.org/wiki/DOLLS_\(\))から翻訳されています。
+> この記事は[DOLLS \(漫画\)](https://ja.wikipedia.org/wiki/DOLLS_\(漫画\))から翻訳されています。
 
 
 『**DOLLS**』（ドールズ）は、[naked apeによる](https://ja.wikipedia.org/wiki/naked_ape "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『月刊[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")刊）に連載されていた。

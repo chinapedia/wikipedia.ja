@@ -1,4 +1,4 @@
-> この記事は[WWW](https://ja.wikipedia.org/wiki/WWW)から翻訳されています。
+> この記事は[とほほのWWW入門](https://ja.wikipedia.org/wiki/とほほのWWW入門)から翻訳されています。
 
 
 **とほほのWWW入門**（とほほのダブリューダブリューダブリューにゅうもん）は、[ホームページ作成に関する情報を解説した](../Page/ウェブページ.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に「とほほの[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")入門」の名称で公開され、**杜甫々**（とほほ）と「とほほママ」の夫婦によって運営されている。

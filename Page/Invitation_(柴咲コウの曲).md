@@ -1,4 +1,4 @@
-> この記事は[Invitation \(\)](https://ja.wikipedia.org/wiki/Invitation_\(\))から翻訳されています。
+> この記事は[Invitation \(柴咲コウの曲\)](https://ja.wikipedia.org/wiki/Invitation_\(柴咲コウの曲\))から翻訳されています。
 
 
 「**invitation**」（インビテイション）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。

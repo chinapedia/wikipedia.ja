@@ -1,4 +1,4 @@
-> この記事は[goo](https://ja.wikipedia.org/wiki/goo)から翻訳されています。
+> この記事は[キッズgoo](https://ja.wikipedia.org/wiki/キッズgoo)から翻訳されています。
 
 
 **キッズgoo**（キッズグー）は、かつて[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")（[goo](https://ja.wikipedia.org/wiki/goo "wikilink")運営元）が運営していた[子供](../Page/子供.md "wikilink")向けの[日本語](../Page/日本語.md "wikilink")[ポータルサイト](../Page/ポータルサイト.md "wikilink")。[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもってサービスを終了した\[1\]。

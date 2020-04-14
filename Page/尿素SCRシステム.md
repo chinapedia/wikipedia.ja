@@ -1,4 +1,4 @@
-> この記事は[SCR](https://ja.wikipedia.org/wiki/SCR)から翻訳されています。
+> この記事は[尿素SCRシステム](https://ja.wikipedia.org/wiki/尿素SCRシステム)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ADG-RA273RBN_1.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:ADG-RA273RBN_2.jpg "wikilink") **尿素SCRシステム**（にょうそSCRシステム）は[排気ガス](../Page/排気ガス.md "wikilink")[浄化技術の一つで](https://ja.wikipedia.org/wiki/環境技術 "wikilink")、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の排気中の[窒素酸化物](../Page/窒素酸化物.md "wikilink")（NO<sub>x</sub>）を浄化する技術である。**SCR**は *Selective Catalytic Reduction* の略であり、日本語では「選択（的）[触媒](../Page/触媒.md "wikilink")[還元](../Page/還元.md "wikilink")」を意味する（[選択触媒還元脱硝装置](https://ja.wikipedia.org/wiki/選択触媒還元脱硝装置 "wikilink")も参照）。[尿素](../Page/尿素.md "wikilink")以外の[還元剤](../Page/還元剤.md "wikilink")を使用する方法もあるが、尿素水を使用する方式が主流である。

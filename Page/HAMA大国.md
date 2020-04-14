@@ -1,4 +1,4 @@
-> この記事は[HAMA](https://ja.wikipedia.org/wiki/HAMA)から翻訳されています。
+> この記事は[HAMA大国](https://ja.wikipedia.org/wiki/HAMA大国)から翻訳されています。
 
 
 **「HAMA大国」（はまたいこく）**は、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVK、現tvk）で1997年4月から2004年4月まで放送された生放送のワイド番組である。土日および祝日、年末年始、夏の[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")神奈川大会放送時は放送休止。
@@ -130,6 +130,6 @@
   - [猫のひたいほどワイド](https://ja.wikipedia.org/wiki/猫のひたいほどワイド "wikilink")（月曜から木曜のみの放送）
   - [首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")（旧首都圏ネット4）
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink")
+[Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink") [Category:テレビ神奈川の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の情報・ワイドショー番組 "wikilink") [Category:テレビ神奈川の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の帯番組 "wikilink")
 
 1.  山下剛の就職活動中は、高井晃が代打登板。

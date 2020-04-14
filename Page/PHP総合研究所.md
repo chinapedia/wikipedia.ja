@@ -1,4 +1,4 @@
-> この記事は[PHP](https://ja.wikipedia.org/wiki/PHP)から翻訳されています。
+> この記事は[PHP総合研究所](https://ja.wikipedia.org/wiki/PHP総合研究所)から翻訳されています。
 
 
 **PHP総合研究所**（ピー・エッチ・ピー・そうごうけんきゅうしょ　）は、。創設者は[松下電器産業](https://ja.wikipedia.org/wiki/松下電器産業 "wikilink")株式会社（現[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）の創業者でもある[松下幸之助](../Page/松下幸之助.md "wikilink")。会社名のPHPは松下幸之助の願いを示しており、「Peace and Happiness through Prosperity（繁栄によって平和と幸福を）」の略。設立以来、様々な研究プロジェクトを組織し、数多くの政策提言を行っている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")、[出版](../Page/出版.md "wikilink")事業等を営む[PHP研究所](../Page/PHP研究所.md "wikilink")に吸収合併された。合併後の活動は「政策シンクタンク PHP総研」の呼称を用いている\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[TBD \(\)](https://ja.wikipedia.org/wiki/TBD_\(\))から翻訳されています。
+> この記事は[TBD \(航空機\)](https://ja.wikipedia.org/wiki/TBD_\(航空機\))から翻訳されています。
 
 
 **TBD デヴァステイター**（*Douglas TBD Devastator* ）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")前期に使用した主力[雷撃機](../Page/雷撃機.md "wikilink")（[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")）である。本機は[アメリカ初の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[艦載](https://ja.wikipedia.org/wiki/艦載機 "wikilink")[単葉](https://ja.wikipedia.org/wiki/単葉 "wikilink")[金属](../Page/金属.md "wikilink")機でもある。

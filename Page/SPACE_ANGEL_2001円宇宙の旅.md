@@ -1,4 +1,4 @@
-> この記事は[SPACE ANGEL 2001](https://ja.wikipedia.org/wiki/SPACE_ANGEL_2001)から翻訳されています。
+> この記事は[SPACE ANGEL 2001円宇宙の旅](https://ja.wikipedia.org/wiki/SPACE_ANGEL_2001円宇宙の旅)から翻訳されています。
 
 
 『**SPACE ANGEL 2001円 宇宙の旅(スペースエンジェル　2001えんうちゅうのたび)**』は、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[6月25日](../Page/6月25日.md "wikilink")まで、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（地上波のほか[CS★日テレ](../Page/CS★日テレ.md "wikilink")でも放送されていたため未放送の地域でもCS受信機を用いれば視聴可能だった）で放映された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。（全13回）

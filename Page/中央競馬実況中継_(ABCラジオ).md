@@ -1,4 +1,4 @@
-> この記事は[ \(ABC\)](https://ja.wikipedia.org/wiki/_\(ABC\))から翻訳されています。
+> この記事は[中央競馬実況中継 \(ABCラジオ\)](https://ja.wikipedia.org/wiki/中央競馬実況中継_\(ABCラジオ\))から翻訳されています。
 
 
 **中央競馬実況中継**（ちゅうおうけいばじっきょうちゅうけい）は2013年3月まで[ABCラジオ（朝日放送）で日曜日午後に放送されていた](../Page/朝日放送ラジオ.md "wikilink")[中央競馬](../Page/中央競馬.md "wikilink")中継。[ABC自社制作の生ワイド番組や](https://ja.wikipedia.org/wiki/#当中継を内包するABCラジオの生ワイド番組 "wikilink")『[ABCフレッシュアップベースボール](../Page/ABCフレッシュアップベースボール.md "wikilink")』（[阪神タイガース](../Page/阪神タイガース.md "wikilink")のデーゲーム中継）の内包コーナー「**THE KEIBA**」として、関東・関西開催のGI競走（または関西開催のGII競走）のメインレースを中継していた。

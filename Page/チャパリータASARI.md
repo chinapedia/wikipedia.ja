@@ -1,4 +1,4 @@
-> この記事は[ASARI](https://ja.wikipedia.org/wiki/ASARI)から翻訳されています。
+> この記事は[チャパリータASARI](https://ja.wikipedia.org/wiki/チャパリータASARI)から翻訳されています。
 
 
 **チャパリータASARI**（チャパリータ・アサリ、本名：**中尾 真美**（なかお まさみ、旧姓：**渡邊**）、[1973年](../Page/1973年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")出身。

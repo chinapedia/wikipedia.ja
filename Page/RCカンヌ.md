@@ -1,4 +1,4 @@
-> この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
+> この記事は[RCカンヌ](https://ja.wikipedia.org/wiki/RCカンヌ)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Rccannes_2009_champion.jpg "wikilink")

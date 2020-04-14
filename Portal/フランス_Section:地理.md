@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:地理](https://ja.wikipedia.org/wiki/Portal:フランス/Section:地理)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/file:Xvolks_canal_du_midi_01.jpg "wikilink") **[ミディ運河](../Page/ミディ運河.md "wikilink")**（ミディうんが、）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[トゥールーズ](../Page/トゥールーズ.md "wikilink")で[ガロンヌ川](../Page/ガロンヌ川.md "wikilink")から分岐し、[地中海](../Page/地中海.md "wikilink")に面した[トー湖](https://ja.wikipedia.org/wiki/トー湖 "wikilink")にいたる全長 240 [km](../Page/キロメートル.md "wikilink") 、支流部分も含めた総延長では 360 km に及ぶ[運河](../Page/運河.md "wikilink")である。19世紀に[鉄道](../Page/鉄道.md "wikilink")に取って代わられるまで、[大西洋](../Page/大西洋.md "wikilink")と地中海との間を[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")で結ぶ、大量輸送ルートであった。

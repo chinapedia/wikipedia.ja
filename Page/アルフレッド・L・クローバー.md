@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[アルフレッド・L・クローバー](https://ja.wikipedia.org/wiki/アルフレッド・L・クローバー)から翻訳されています。
 
 
 **アルフレッド・ルイス・クローバー**（Alfred Louis Kroeber、[1876年](../Page/1876年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink") - [1960年](../Page/1960年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[文化人類学者](https://ja.wikipedia.org/wiki/文化人類学者 "wikilink")。20世紀前半の学界人中、最もその影響力の大きかった人物のひとり。

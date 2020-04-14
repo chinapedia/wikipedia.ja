@@ -1,4 +1,4 @@
-> この記事は[ \(EW\&F\)](https://ja.wikipedia.org/wiki/_\(EW\&F\))から翻訳されています。
+> この記事は[地球最後の日 \(EW\&Fのアルバム\)](https://ja.wikipedia.org/wiki/地球最後の日_\(EW\&Fのアルバム\))から翻訳されています。
 
 
 『**地球最後の日**』（Last Days and Time）は、[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")のスタジオ・アルバム。[ワーナーから](../Page/ワーナー・ブラザース・レコード.md "wikilink")[コロムビアに移籍してからの第](../Page/コロムビア・レコード.md "wikilink")1弾。

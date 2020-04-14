@@ -1,4 +1,4 @@
-> この記事は[ episode2](https://ja.wikipedia.org/wiki/_episode2)から翻訳されています。
+> この記事は[ギブリーズ episode2](https://ja.wikipedia.org/wiki/ギブリーズ_episode2)から翻訳されています。
 
 
 『**ギブリーズ episode2**』（ギブリーズ エピソード ツー、英題：**GHIBLIES episode2**）は、スタジオギブリ（[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")）の短編[アニメーション映画](../Page/アニメーション映画.md "wikilink")。[百瀬義行](https://ja.wikipedia.org/wiki/百瀬義行 "wikilink")監督作品。[2002年](../Page/2002年.md "wikilink")に『[猫の恩返し](../Page/猫の恩返し.md "wikilink")』と同時上映で公開。

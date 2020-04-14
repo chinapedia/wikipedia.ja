@@ -1,4 +1,4 @@
-> この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
+> この記事は[R・D・ウィングフィールド](https://ja.wikipedia.org/wiki/R・D・ウィングフィールド)から翻訳されています。
 
 
 **R.D.ウィングフィールド**（*R.D. Wingfield* または *Rodney D. Wingfield*, [1928年](../Page/1928年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")）は[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ロンドン](../Page/ロンドン.md "wikilink")生まれの[小説家](../Page/小説家.md "wikilink")、[放送作家](../Page/放送作家.md "wikilink")。

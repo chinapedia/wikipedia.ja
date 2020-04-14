@@ -1,4 +1,4 @@
-> この記事は[The ](https://ja.wikipedia.org/wiki/The_)から翻訳されています。
+> この記事は[The 原爆オナニーズ](https://ja.wikipedia.org/wiki/The_原爆オナニーズ)から翻訳されています。
 
 
 **the原爆オナニーズ**（ザ げんばくオナニーズ）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

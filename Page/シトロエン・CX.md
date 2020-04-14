@@ -1,4 +1,4 @@
-> この記事は[CX](https://ja.wikipedia.org/wiki/CX)から翻訳されています。
+> この記事は[シトロエン・CX](https://ja.wikipedia.org/wiki/シトロエン・CX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Citrcx1silver.jpg "wikilink") **シトロエン・CX**（*Citroën CX* ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の自動車会社[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が製造した[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")。

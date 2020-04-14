@@ -1,4 +1,4 @@
-> この記事は[HCN](https://ja.wikipedia.org/wiki/HCN)から翻訳されています。
+> この記事は[HCN地域チャンネル](https://ja.wikipedia.org/wiki/HCN地域チャンネル)から翻訳されています。
 
 
 **HCN地域チャンネル**（えいち・しー・えぬちいくちゃんねる）は[萩ケーブルネットワーク](../Page/萩ケーブルネットワーク.md "wikilink")の8chと11chで編成されるチャンネルの俗称である。

@@ -1,4 +1,4 @@
-> この記事は[AAA!!](https://ja.wikipedia.org/wiki/AAA!!)から翻訳されています。
+> この記事は[稲村優奈と川瀬晶子のAAAで行こう!!](https://ja.wikipedia.org/wiki/稲村優奈と川瀬晶子のAAAで行こう!!)から翻訳されています。
 
 
 **稲村優奈と川瀬晶子のAAAで行こう\!\!**（いなむらゆうなとかわせあきこのトリプルエーでいこう）は、[2006年](../Page/2006年.md "wikilink")（平成18年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から[2007年](../Page/2007年.md "wikilink")（平成19年）[4月1日](../Page/4月1日.md "wikilink")まで[ラジオ大阪で放送された](../Page/大阪放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")と[アニ★ロコ](https://ja.wikipedia.org/wiki/アニ★ロコ "wikilink")（[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")）でもインターネット配信された。全39回。

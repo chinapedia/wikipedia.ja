@@ -1,4 +1,4 @@
-> この記事は[BEST first things](https://ja.wikipedia.org/wiki/BEST_first_things)から翻訳されています。
+> この記事は[BEST 〜first things〜](https://ja.wikipedia.org/wiki/BEST_〜first_things〜)から翻訳されています。
 
 
 『**BEST 〜first things〜**』（ベスト ファーストシングス）は、[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

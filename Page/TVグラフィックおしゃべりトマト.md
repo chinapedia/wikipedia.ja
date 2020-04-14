@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVグラフィックおしゃべりトマト](https://ja.wikipedia.org/wiki/TVグラフィックおしゃべりトマト)から翻訳されています。
 
 
 **TVグラフィックおしゃべりトマト**（テレビグラフィックおしゃべりトマト）は、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVK、現tvk）で1983年4月4日（月）から1995年9月29日（金）まで放送された生放送のワイド番組である。土日、年末年始、夏の[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")神奈川大会放送時は放送休止。通称・愛称・略称は**「おしゃトマ」**。
@@ -168,6 +168,6 @@
   - [首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")（旧首都圏ネット4）
   - [鎌倉ものがたり](../Page/鎌倉ものがたり.md "wikilink") - 第4話「暗闇の中でドッキリ」で、一色正和につまらん番組と評されている。
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink")
+[Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink") [Category:テレビ神奈川の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の情報・ワイドショー番組 "wikilink") [Category:テレビ神奈川の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の帯番組 "wikilink") [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink")
 
 1.  2017年7月21日配信ポッドキャスト「内海文化・QRの現金5万円入りのハンドバッグ」で本人が発言

@@ -1,4 +1,4 @@
-> この記事は[Anniversary \(KinKi Kids\)](https://ja.wikipedia.org/wiki/Anniversary_\(KinKi_Kids\))から翻訳されています。
+> この記事は[Anniversary \(KinKi Kidsの曲\)](https://ja.wikipedia.org/wiki/Anniversary_\(KinKi_Kidsの曲\))から翻訳されています。
 
 
 「**Anniversary**」（アニヴァーサリー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

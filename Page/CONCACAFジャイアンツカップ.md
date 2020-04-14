@@ -1,4 +1,4 @@
-> この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
+> この記事は[CONCACAFジャイアンツカップ](https://ja.wikipedia.org/wiki/CONCACAFジャイアンツカップ)から翻訳されています。
 
 
 **CONCACAFジャイアンツカップ**（）は、[2001年](../Page/2001年.md "wikilink")に開催された[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。[CONCACAFカップウィナーズカップ](https://ja.wikipedia.org/wiki/CONCACAFカップウィナーズカップ "wikilink")の廃止に伴い、また[CONCACAFチャンピオンズカップの代わりとして行われた](../Page/CONCACAFチャンピオンズリーグ.md "wikilink")。[メキシコ](../Page/メキシコ.md "wikilink")の[クラブ・アメリカ](../Page/クラブ・アメリカ.md "wikilink")が優勝した。

@@ -1,4 +1,4 @@
-> この記事は[BO-SO ](https://ja.wikipedia.org/wiki/BO-SO_)から翻訳されています。
+> この記事は[BO-SO ゴールデンタッグトーナメント](https://ja.wikipedia.org/wiki/BO-SO_ゴールデンタッグトーナメント)から翻訳されています。
 
 
 **BO-SO ゴールデンタッグトーナメント**（ボー-ソー・ゴールデンタッグトーナメント）は、[KAIENTAI DOJOが開催しているタッグリーグ戦](../Page/KAIENTAI_DOJO.md "wikilink")。

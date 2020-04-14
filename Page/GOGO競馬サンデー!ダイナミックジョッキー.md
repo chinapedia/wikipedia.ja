@@ -1,4 +1,4 @@
-> この記事は[GOGO!](https://ja.wikipedia.org/wiki/GOGO!)から翻訳されています。
+> この記事は[GOGO競馬サンデー!ダイナミックジョッキー](https://ja.wikipedia.org/wiki/GOGO競馬サンデー!ダイナミックジョッキー)から翻訳されています。
 
 
 **GOGO競馬サンデー\!ダイナミックジョッキー**（ゴー・ゴー・けいば・サンデー・ダイナミック・ジョッキー）は、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）の番組の一つ。

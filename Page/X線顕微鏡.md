@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線顕微鏡](https://ja.wikipedia.org/wiki/X線顕微鏡)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Myelin-Organization-in-the-Nodal-Paranodal-and-Juxtaparanodal-Regions-Revealed-by-Scanning-X-Ray-pone.0100592.s001.ogv "wikilink") [thumbのX線顕微鏡画像](https://ja.wikipedia.org/wiki/画像:X-ray_microscopy_of_canola_plant.jpg "wikilink")\]\] **X線顕微鏡**（Xせんけんびきょう）とは、[X線](../Page/X線.md "wikilink")をプローブとして観察する顕微法の総称である。

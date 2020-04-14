@@ -1,4 +1,4 @@
-> この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
+> この記事は[TTゲージ](https://ja.wikipedia.org/wiki/TTゲージ)から翻訳されています。
 
 
 **TTゲージ** (ティーティーゲージ) とは、[鉄道模型](../Page/鉄道模型.md "wikilink")の[縮尺](../Page/縮尺.md "wikilink")と[軌間](../Page/軌間.md "wikilink")を示す呼称のひとつ。 [Tt-modell_e_94.jpg](https://ja.wikipedia.org/wiki/File:Tt-modell_e_94.jpg "fig:Tt-modell_e_94.jpg")

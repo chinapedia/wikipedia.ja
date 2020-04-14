@@ -1,4 +1,4 @@
-> この記事は[JRDD18](https://ja.wikipedia.org/wiki/JRDD18)から翻訳されています。
+> この記事は[JR東日本DD18形ディーゼル機関車](https://ja.wikipedia.org/wiki/JR東日本DD18形ディーゼル機関車)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jre_dd18_1_head.jpg "wikilink") **DD18形ディーゼル機関車**（DD18がたディーゼルきかんしゃ）は、かつて[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）に在籍した[除雪用](../Page/雪かき車.md "wikilink")[液体式](https://ja.wikipedia.org/wiki/気動車・ディーゼル機関車の動力伝達方式#液体式（流体式） "wikilink")[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である。

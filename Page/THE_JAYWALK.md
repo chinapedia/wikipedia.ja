@@ -72,7 +72,7 @@
     2015年（平成27年）馬渕英将が声帯閉鎖不全となり長期休養に入る。
     2016年（平成28年）3月31日、馬渕英将、浅川昌輝、青木桃子が脱退する。
 
-　これによりメンバーは、田切純一、知久光康、杉田裕、中内助六の４人となる。
+　これによりメンバーは、田切純一、知久光康、杉田裕、中内助六の4人となる。
 
 ## ディスコグラフィー
 
@@ -194,15 +194,15 @@
   - JAY CLIPS PLUS（2004年11月25日）
   - JAYWALK MTV PREMIUM LIVE in duo（2006年）
 
+## 脚注
+
 ## 関連項目
 
   - [ロードブラスター](../Page/ロードブラスター.md "wikilink") - [メガCD](../Page/メガCD.md "wikilink")版のテーマソングを歌っていた。
 
-## 脚注
-
 ## 外部リンク
 
-  - [JAYWALK OFFICIAL WEBSITE](http://www.jaywalk.co.jp/) - 公式ウェブサイト
+  - \- 公式ウェブサイト
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1980年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1980年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[R ](https://ja.wikipedia.org/wiki/R_)から翻訳されています。
+> この記事は[みつめてナイトR 大冒険編](https://ja.wikipedia.org/wiki/みつめてナイトR_大冒険編)から翻訳されています。
 
 
 **みつめてナイトR 大冒険編**（-だいぼうけんへん）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")発売の[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』のレッドカンパニー（現：[レッド・エンタテインメント](../Page/レッド・エンタテインメント.md "wikilink")）と『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』のコナミによる共同開発ということで話題となった『[みつめてナイト](../Page/みつめてナイト.md "wikilink")』の[スピンオフ](../Page/スピンオフ.md "wikilink")作品。キャラクターデザインは[セガサターン](../Page/セガサターン.md "wikilink")版『サクラ大戦』にて原画を担当した竹浪秀行、本編原画は『[下級生](https://ja.wikipedia.org/wiki/下級生 "wikilink")』（[OVA](../Page/OVA.md "wikilink")版）の作画監督、『[ときめきメモリアル2](../Page/ときめきメモリアル2.md "wikilink")』のキャラクターデザインの大塚あきら。

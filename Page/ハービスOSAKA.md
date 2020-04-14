@@ -1,4 +1,4 @@
-> この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
+> この記事は[ハービスOSAKA](https://ja.wikipedia.org/wiki/ハービスOSAKA)から翻訳されています。
 
 
 **ハービスOSAKA** （ハービスオオサカ、英字表記:HERBIS OSAKA） は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[梅田](../Page/梅田.md "wikilink")二丁目にある[複合商業施設](../Page/複合商業施設.md "wikilink")。[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")が運営している。正式名称は**梅田阪神第1ビルディング**（うめだはんしんだいいちビルディング）。オフィスタワーは梅田で最も高い[超高層ビルである](../Page/超高層建築物.md "wikilink")。

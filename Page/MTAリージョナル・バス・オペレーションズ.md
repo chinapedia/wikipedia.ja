@@ -1,4 +1,4 @@
-> この記事は[MTA](https://ja.wikipedia.org/wiki/MTA)から翻訳されています。
+> この記事は[MTAリージョナル・バス・オペレーションズ](https://ja.wikipedia.org/wiki/MTAリージョナル・バス・オペレーションズ)から翻訳されています。
 
 
 **MTAリージョナル・バス**（*MTA Regional Bus Operations*, *MTA RBO*）は、2008年に発足した[MTAの下部機関](../Page/メトロポリタン・トランスポーテーション・オーソリティ.md "wikilink")。MTAの運行する全てのバスの運行を管轄する\[1\]。

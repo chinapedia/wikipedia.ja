@@ -1,4 +1,4 @@
-> この記事は[Solitude ](https://ja.wikipedia.org/wiki/Solitude_)から翻訳されています。
+> この記事は[Solitude 〜真実のサヨナラ〜](https://ja.wikipedia.org/wiki/Solitude_〜真実のサヨナラ〜)から翻訳されています。
 
 
 「**solitude 〜真実のサヨナラ〜**」（ソリチュード ほんとうのサヨナラ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

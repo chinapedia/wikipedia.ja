@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[小学館の図鑑NEO](https://ja.wikipedia.org/wiki/小学館の図鑑NEO)から翻訳されています。
 
 
 **『小学館の図鑑NEO**』（しょうがくかんのずかんねお）は、[小学館](../Page/小学館.md "wikilink")から発売されている[図鑑](../Page/図鑑.md "wikilink")シリーズ。[2002年](../Page/2002年.md "wikilink")、小学館創立80周年記念として刊行された。『小学館の図鑑NEO』の「NEO」の由来は、Nature（[自然](../Page/自然.md "wikilink")と[生物](../Page/生物.md "wikilink")）、Earth（[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")と[宇宙](../Page/宇宙.md "wikilink")の）、Origin（[起源](https://ja.wikipedia.org/wiki/起源 "wikilink")をたずねて）の[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")である。2018年より、女優の[芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink")をCMに起用している。

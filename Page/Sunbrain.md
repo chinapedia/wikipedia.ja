@@ -73,7 +73,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.sonymusic.co.jp/Music/Arch/DF/Sunbrain/index.html)
+  - [公式サイト](https://www.sonymusic.co.jp/artist/Sunbrain/)
   - [MySpaceサイト](http://www.myspace.com/sunbrainbow)
   - [丸谷マナブ 公式サイト](http://marumana.com/)
 

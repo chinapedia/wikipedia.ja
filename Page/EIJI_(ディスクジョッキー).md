@@ -1,4 +1,4 @@
-> この記事は[EIJI \(\)](https://ja.wikipedia.org/wiki/EIJI_\(\))から翻訳されています。
+> この記事は[EIJI \(ディスクジョッキー\)](https://ja.wikipedia.org/wiki/EIJI_\(ディスクジョッキー\))から翻訳されています。
 
 
 **EIJI**（エイジ、[5月9日](../Page/5月9日.md "wikilink") - ）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動する[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")である。本名は**兒玉 英治**（こだま えいじ）。[大分県](../Page/大分県.md "wikilink")[津久見市](../Page/津久見市.md "wikilink")出身。「**DJ EIJI**」を主に使っている。

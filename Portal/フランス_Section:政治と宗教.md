@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:政治と宗教](https://ja.wikipedia.org/wiki/Portal:フランス/Section:政治と宗教)から翻訳されています。
 
 
 [Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg](https://ja.wikipedia.org/wiki/File:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_\(36669381364\)_\(cropped_2\).jpg "fig:Emmanuel_Macron_in_Tallinn_Digital_Summit._Welcome_dinner_hosted_by_HE_Donald_Tusk._Handshake_(36669381364)_(cropped_2).jpg") **[エマニュエル・ジャン＝ミシェル・フレデリック・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")**（, [1977年](../Page/1977年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[政治家](../Page/政治家.md "wikilink")。現在、同国[大統領](../Page/共和国大統領_\(フランス\).md "wikilink")（第25代）。　

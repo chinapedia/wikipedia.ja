@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Mクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Mクラス)から翻訳されています。
 
 
 [Mercedes_Benz_ML_250_Bluetec_2013_(19220679251).jpg](https://ja.wikipedia.org/wiki/File:Mercedes_Benz_ML_250_Bluetec_2013_\(19220679251\).jpg "fig:Mercedes_Benz_ML_250_Bluetec_2013_(19220679251).jpg")

@@ -1,4 +1,4 @@
-> この記事は[SGP \(\)](https://ja.wikipedia.org/wiki/SGP_\(\))から翻訳されています。
+> この記事は[SGP \(プロレス\)](https://ja.wikipedia.org/wiki/SGP_\(プロレス\))から翻訳されています。
 
 
 **SGP**（エス・ジー・ピー）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")を中心に活動している[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。

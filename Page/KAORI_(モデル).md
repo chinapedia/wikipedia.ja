@@ -1,4 +1,4 @@
-> この記事は[KAORI \(\)](https://ja.wikipedia.org/wiki/KAORI_\(\))から翻訳されています。
+> この記事は[KAORI \(モデル\)](https://ja.wikipedia.org/wiki/KAORI_\(モデル\))から翻訳されています。
 
 
 **KAORI**（かおり、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月8日](../Page/5月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[レースクイーン](../Page/レースクイーン.md "wikilink")、元[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")。

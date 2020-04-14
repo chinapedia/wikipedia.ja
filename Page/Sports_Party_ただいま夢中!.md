@@ -1,4 +1,4 @@
-> この記事は[Sports Party !](https://ja.wikipedia.org/wiki/Sports_Party_!)から翻訳されています。
+> この記事は[Sports Party ただいま夢中!](https://ja.wikipedia.org/wiki/Sports_Party_ただいま夢中!)から翻訳されています。
 
 
 『**Sports Party ただいま夢中\!**』（スポーツパーティー ただいまむちゅう）は、[1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[関西テレビと](../Page/関西テレビ放送.md "wikilink")[イーストの共同製作](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")。全25回。[MIZUNOの一社提供](../Page/ミズノ.md "wikilink")。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 23:00 - 23:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[Bunkamura](https://ja.wikipedia.org/wiki/Bunkamura)から翻訳されています。
+> この記事は[Bunkamuraドゥマゴ文学賞](https://ja.wikipedia.org/wiki/Bunkamuraドゥマゴ文学賞)から翻訳されています。
 
 
 **Bunkamuraドゥマゴ文学賞**（ぶんかむらドゥマゴぶんがくしょう）は、[Bunkamura](../Page/Bunkamura.md "wikilink")が主催する[文学賞](../Page/文学賞.md "wikilink")である。

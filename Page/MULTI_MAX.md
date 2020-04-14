@@ -588,7 +588,7 @@ MULTI MAX '89</strong></p></th>
 
 <!-- end list -->
 
-  - [MULTI MAX - yamaha music communications](http://www.yamahamusic.co.jp/artist/index.php?artist_id=104) MULTI MAXの作品を取り扱っている
+  - [MULTI MAX - yamaha music communications](https://www.yamahamusic.co.jp/s/ymc/artist/104) MULTI MAXの作品を取り扱っている
 
 <!-- end list -->
 
@@ -597,7 +597,7 @@ MULTI MAX '89</strong></p></th>
 <!-- end list -->
 
   -
-  - [Chage オフィシャルブログ Many Many Happy Returns](http://ameblo.jp/chage-blog)
+  - [Chage オフィシャルブログ Many Many Happy Returns](https://ameblo.jp/chage-blog)
 
   -
 <!-- end list -->
@@ -606,16 +606,15 @@ MULTI MAX '89</strong></p></th>
 
 <!-- end list -->
 
-  - [KEISUKE MURAKAMI OFFICIAL★HOMEPAGE](http://homepage1.nifty.com/keisuke-world/)
-
+  -
 <!-- end list -->
 
   - 淺井ひろみ
 
 <!-- end list -->
 
-  - [淺井ひろみ Official Web Site -Dear Friends'-](http://hiromi.himegimi.jp/)
-  - [HIROMI オフィシャルブログ『この指と～まれ』](http://ameblo.jp/hiromi-asai/)
+  - [淺井ひろみ Official Web Site -Dear Friends'-](https://hiromi.himegimi.jp/)
+  - [HIROMI オフィシャルブログ『この指と～まれ』](https://ameblo.jp/hiromi-asai/)
 
 [Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
 

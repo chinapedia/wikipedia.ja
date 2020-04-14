@@ -1,4 +1,4 @@
-> この記事は[Honda](https://ja.wikipedia.org/wiki/Honda)から翻訳されています。
+> この記事は[Honda鈴鹿硬式野球部](https://ja.wikipedia.org/wiki/Honda鈴鹿硬式野球部)から翻訳されています。
 
 
 **Honda鈴鹿硬式野球部**（ホンダすずかこうしきやきゅうぶ）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。
@@ -83,6 +83,7 @@
 ## 元プロ野球選手の競技者登録
 
   - [吉本亮](../Page/吉本亮_\(捕手\).md "wikilink")（元：[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ兼任捕手（2004年）→コーチ（2005年）→コーチ兼任捕手（2006年）→コーチ（2007年～2009年）→監督（2009年～2011年）→退団
+  - [古本武尊](https://ja.wikipedia.org/wiki/古本武尊 "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 外野手（2018年～2019年）→退団
 
 ## 脚注
 

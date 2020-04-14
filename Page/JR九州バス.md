@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR九州バス](https://ja.wikipedia.org/wiki/JR九州バス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Kyushubus_-_744-2952.JPG "wikilink")） 744-2952\]\] **JR九州バス株式会社**（ジェイアールきゅうしゅうバス）は、九州のバス事業者の一つで、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）の100%子会社である。本社を[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")堅粕二丁目22番2号に置く。高速バス・一般路線バスのほか、[貸切バス事業や](../Page/観光バス.md "wikilink")[定期観光バス](../Page/定期観光バス.md "wikilink")の運行も行なっている。

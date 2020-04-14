@@ -1,4 +1,4 @@
-> この記事は[UEFA EURO 2000](https://ja.wikipedia.org/wiki/UEFA_EURO_2000)から翻訳されています。
+> この記事は[UEFA EURO 2000予選](https://ja.wikipedia.org/wiki/UEFA_EURO_2000予選)から翻訳されています。
 
 
 **[UEFA EURO 2000](../Page/UEFA_EURO_2000.md "wikilink")**の予選は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて行われた。予選ラウンドでは、参加した49カ国は抽選によって9組に分けられ、それぞれホームアンドアウェー方式の総当たり戦を行う。そして各組の1位9カ国と、各組2位の9カ国の中で最も成績のよい1カ国（ベスト・ランナーアップ）の、計10カ国が自動的に本大会への出場権を獲得する。さらに、各組2位の残り8カ国がホームアンドアウェー方式のプレーオフを行い、本大会に出場する4カ国を決める。これに開催国である[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")を加えた、計16カ国が本大会で対戦する。

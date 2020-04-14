@@ -1,4 +1,4 @@
-> この記事は[A\&G RADIO SHOW!](https://ja.wikipedia.org/wiki/A\&G_RADIO_SHOW!)から翻訳されています。
+> この記事は[A\&G 超RADIO SHOW〜アニスパ!〜](https://ja.wikipedia.org/wiki/A\&G_超RADIO_SHOW〜アニスパ!〜)から翻訳されています。
 
 
 『**A\&G 超RADIO SHOW〜アニスパ\!〜**』（エーアンドジー スーパーレディオショー アニスパ）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、文化放送ほかで[土曜日](../Page/土曜日.md "wikilink")の21時台より生放送していたラジオ番組。

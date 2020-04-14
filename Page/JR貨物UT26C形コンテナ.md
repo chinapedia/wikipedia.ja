@@ -1,4 +1,4 @@
-> この記事は[JRUT26C](https://ja.wikipedia.org/wiki/JRUT26C)から翻訳されています。
+> この記事は[JR貨物UT26C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT26C形コンテナ)から翻訳されています。
 
 
 **UT26C形コンテナ**（UT26Cがたコンテナ）とは、[2003年](../Page/2003年.md "wikilink")度に登場した、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している30[ft級](../Page/フィート.md "wikilink")・内容積26[m<sup>3</sup>の危険品輸送向け](../Page/立方メートル.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。

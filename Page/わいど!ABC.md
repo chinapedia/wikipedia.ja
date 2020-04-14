@@ -1,4 +1,4 @@
-> この記事は[!ABC](https://ja.wikipedia.org/wiki/!ABC)から翻訳されています。
+> この記事は[わいど!ABC](https://ja.wikipedia.org/wiki/わいど!ABC)から翻訳されています。
 
 
 『**わいど\!ABC**』（わいど\!えーびーしー）は、[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")（朝日放送）で2004年4月から9月まで放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。放送時間は平日15時55分〜17時54分（夏季高校野球中継期間中と一部祝日は休み）。

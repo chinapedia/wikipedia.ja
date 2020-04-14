@@ -1,4 +1,4 @@
-> この記事は[EXAM](https://ja.wikipedia.org/wiki/EXAM)から翻訳されています。
+> この記事は[EXAMシステム](https://ja.wikipedia.org/wiki/EXAMシステム)から翻訳されています。
 
 
 **EXAMシステム**（エグザムシステム\[1\]、**EXAM SYSTEM**）は、『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の[システム](../Page/システム.md "wikilink")。

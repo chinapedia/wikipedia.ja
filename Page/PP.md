@@ -1,7 +1,7 @@
 > この記事は[PP](https://ja.wikipedia.org/wiki/PP)から翻訳されています。
 
 
-**PP**, ｢パワープレイ｣の略 人数や武力を用いて相手を押しつぶす戦略のこと。
+**PP**
 
 ## 化学
 
@@ -29,23 +29,24 @@
   - パフォーマンスポイント - レースゲーム[グランツーリスモ5プロローグ](https://ja.wikipedia.org/wiki/グランツーリスモ5プロローグ "wikilink")及び[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")で用いられるパラメータ。
   - [パンヤシリーズ](https://ja.wikipedia.org/wiki/パンヤシリーズ "wikilink")に登場するゲーム内通貨の1つ。
   - PP - [ポイントパーティー](https://ja.wikipedia.org/wiki/ポイントパーティー "wikilink")。[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")製カーナビゲーション「[サイバーナビ](https://ja.wikipedia.org/wiki/サイバーナビ "wikilink")」2007年モデルまで搭載されていた機能(「LIVE・COM」メニュー内)で、ドライブ中のクルマ同士でパーティー(10名まで)を組み、お互いの位置情報をサーバーを介してカーナビ地図画面上に表示するもの。転じて、このポイントパーティー機能を使った鬼ごっこ的[オフラインミーティング](../Page/オフラインミーティング.md "wikilink")のことを指す。
-  - [ポイズンピンク](https://ja.wikipedia.org/wiki/ポイズンピンク "wikilink") (**P**oison**P**ink) - 2008年2月14日に[バンダイナムコゲームスより発売されたPS](../Page/バンダイナムコエンターテインメント.md "wikilink")2用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
+  - [ポイズンピンク](https://ja.wikipedia.org/wiki/ポイズンピンク "wikilink") (**P**oison**P**ink) - PS2用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
   - [PPカード](https://ja.wikipedia.org/wiki/PPカード "wikilink") - [エンスカイ](../Page/エンスカイ.md "wikilink")が製造している[トレーディングカード](../Page/トレーディングカード.md "wikilink")。
 
 ## その他
 
-  - [プロスペクト (**P**ros**P**ect)](https://ja.wikipedia.org/wiki/プロスペクト "wikilink") - 「見込み客」を意味する営業用語
+  - [パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")
+  - [ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション_\(曖昧さ回避\) "wikilink")(**p**ole **p**osition)
+  - [プロスペクト](https://ja.wikipedia.org/wiki/プロスペクト "wikilink")（**P**ros**P**ect） - 「見込み客」を意味する営業用語
   - [プロダクトプレイスメント](https://ja.wikipedia.org/wiki/プロダクトプレイスメント "wikilink") (**P**roduct **P**lacement) - 劇中において、小道具とや背景として商標を表示させる手法のこと。
   - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")：JO**PP**-DTV/JO**PP**-FM）
   - [ワルサーPP](../Page/ワルサーPP.md "wikilink") (*Polizei Pistole*)
   - PP（ぺーぺー）- [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[政党](../Page/政党.md "wikilink")である[国民党](../Page/国民党_\(スペイン\).md "wikilink")（Partido Popular）の略称
-  - [Pp (奥井亜紀のアルバム)](https://ja.wikipedia.org/wiki/Pp_\(奥井亜紀のアルバム\) "wikilink") - [奥井亜紀](../Page/奥井亜紀.md "wikilink")が2006年2月8日にリリースしたミニアルバムのタイトル
+  - [Pp (奥井亜紀のアルバム)](https://ja.wikipedia.org/wiki/Pp_\(奥井亜紀のアルバム\) "wikilink") - [奥井亜紀](../Page/奥井亜紀.md "wikilink")のミニアルバム
   - [プライベート・プラクティス 迷えるオトナたちの原題である](https://ja.wikipedia.org/wiki/プライベート・プラクティス_迷えるオトナたち "wikilink")「Private Practice」の頭文字
   - [フローンの気候区分](https://ja.wikipedia.org/wiki/フローンの気候区分 "wikilink")における気候帯である亜熱帯乾燥帯
   - [ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")（[羅](../Page/ラテン語.md "wikilink")：*Papa*）の略称
-  - [docomo NEXT Series MEDIAS **PP** N-01D](https://ja.wikipedia.org/wiki/N-01D "wikilink") - [2011年](../Page/2011年.md "wikilink")12月発売の[NECカシオ モバイルコミュニケーションズ製の](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向け[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
+  - [docomo NEXT Series MEDIAS **PP** N-01D](https://ja.wikipedia.org/wiki/N-01D "wikilink") - [NECカシオ モバイルコミュニケーションズ製の](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向け[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
 
 ## 関連項目
 
   - [ピピ](https://ja.wikipedia.org/wiki/ピピ "wikilink")
-  - [ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション_\(曖昧さ回避\) "wikilink")(**p**ole **p**osition)

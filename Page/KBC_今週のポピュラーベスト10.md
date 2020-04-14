@@ -1,7 +1,7 @@
-> この記事は[KBC 10](https://ja.wikipedia.org/wiki/KBC_10)から翻訳されています。
+> この記事は[KBC 今週のポピュラーベスト10](https://ja.wikipedia.org/wiki/KBC_今週のポピュラーベスト10)から翻訳されています。
 
 
-**KBC 今週のポピュラーベスト10**（ケービーシー こんしゅうのポピュラーベストテン）は、[1967年](../Page/1967年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で44年間放送されていた夜の[音楽番組](../Page/音楽番組.md "wikilink")である。
+**KBC 今週のポピュラーベスト10**（ケービーシー こんしゅうのポピュラーベストテン）は、[1967年](../Page/1967年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")3月まで[KBCラジオ](../Page/KBCラジオ.md "wikilink")で44年間放送されていた夜の[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 番組コンセプトは『[富田薫の洋楽天国](https://ja.wikipedia.org/wiki/富田薫の洋楽天国 "wikilink")』に受け継がれた。
 

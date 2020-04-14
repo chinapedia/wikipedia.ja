@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東海エクスプレス・カード](https://ja.wikipedia.org/wiki/JR東海エクスプレス・カード)から翻訳されています。
 
 
 **JR東海エクスプレス・カード**（ジェイアールとうかいエクスプレス・カード）は、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）の[提携カード](../Page/提携カード.md "wikilink")（[クレジットカード](../Page/クレジットカード.md "wikilink")）である。

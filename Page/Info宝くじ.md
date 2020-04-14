@@ -1,4 +1,4 @@
-> この記事は[Info](https://ja.wikipedia.org/wiki/Info)から翻訳されています。
+> この記事は[Info宝くじ](https://ja.wikipedia.org/wiki/Info宝くじ)から翻訳されています。
 
 
 『**info宝くじ**』(インフォたからくじ)は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[木曜ドラマ終了後の](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")[ヒッチハイク枠](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")（21:52頃）で放送されている[みずほ銀行](../Page/みずほ銀行.md "wikilink")提供の[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")の[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Sts](https://ja.wikipedia.org/wiki/Sts)から翻訳されています。
+> この記事は[Stsスーパータイム](https://ja.wikipedia.org/wiki/Stsスーパータイム)から翻訳されています。
 
 
 『**stsスーパータイム**』（エスティーエススーパータイム）は、[1991年](../Page/1991年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")で夕方に放送されていた[佐賀県](../Page/佐賀県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の佐賀県ローカルパート）。

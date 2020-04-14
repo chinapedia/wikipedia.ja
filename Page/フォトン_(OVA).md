@@ -1,4 +1,4 @@
-> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+> この記事は[フォトン \(OVA\)](https://ja.wikipedia.org/wiki/フォトン_\(OVA\))から翻訳されています。
 
 
 『**フォトン**』は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて発表された[OVA](../Page/OVA.md "wikilink")、または[菅野博之](../Page/菅野博之.md "wikilink")による漫画作品（[月刊ドラゴンジュニア](../Page/月刊ドラゴンジュニア.md "wikilink")連載）。

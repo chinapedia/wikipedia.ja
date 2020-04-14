@@ -1,4 +1,4 @@
-> この記事は[TODAY \(\)](https://ja.wikipedia.org/wiki/TODAY_\(\))から翻訳されています。
+> この記事は[ニュースTODAY \(ラジオたんぱ\)](https://ja.wikipedia.org/wiki/ニュースTODAY_\(ラジオたんぱ\))から翻訳されています。
 
 
 **ニュースTODAY**（ニュース・トゥデイ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の間、[日本短波放送](../Page/日経ラジオ社.md "wikilink")（ラジオたんぱ、現：ラジオNIKKEI）の「第2放送」で放送されていた[ニュースワイド](../Page/ニュースワイド.md "wikilink")番組である。

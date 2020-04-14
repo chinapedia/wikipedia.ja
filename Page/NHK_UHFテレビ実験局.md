@@ -1,4 +1,4 @@
-> この記事は[NHK UHF](https://ja.wikipedia.org/wiki/NHK_UHF)から翻訳されています。
+> この記事は[NHK UHFテレビ実験局](https://ja.wikipedia.org/wiki/NHK_UHFテレビ実験局)から翻訳されています。
 
 
 **NHK UHFテレビ実験局**（エヌエイチケイ ユーエイチエフテレビじっけんきょく）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が[極超短波](../Page/極超短波.md "wikilink")（UHF帯）によるアナログ・デジタルの[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")の実用化に向けて開設した[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")（[実験局](https://ja.wikipedia.org/wiki/実験試験局 "wikilink")・[放送試験局](https://ja.wikipedia.org/wiki/地上基幹放送試験局 "wikilink")）である。

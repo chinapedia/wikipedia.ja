@@ -1,4 +1,4 @@
-> この記事は[ ON\&ON AIR](https://ja.wikipedia.org/wiki/_ON\&ON_AIR)から翻訳されています。
+> この記事は[中居正広 ON\&ON AIR](https://ja.wikipedia.org/wiki/中居正広_ON\&ON_AIR)から翻訳されています。
 
 
 『**中居正広 ON\&ON AIR**』 （なかいまさひろ オン・アンド・オンエアー）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[中居正広](../Page/中居正広.md "wikilink")の冠番組である。

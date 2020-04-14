@@ -1,4 +1,4 @@
-> この記事は[The Nutty Radio Show ](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_)から翻訳されています。
+> この記事は[The Nutty Radio Show おに魂](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_おに魂)から翻訳されています。
 
 
 **The Nutty Radio Show おに魂**（ザ ナッティ レディオ ショー おにたま）は、[FM NACK5で放送していた](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。愛称は「**おに魂**」。

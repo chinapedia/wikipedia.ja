@@ -1,4 +1,4 @@
-> この記事は[JAP](https://ja.wikipedia.org/wiki/JAP)から翻訳されています。
+> この記事は[東京JAP](https://ja.wikipedia.org/wiki/東京JAP)から翻訳されています。
 
 
 **東京JAP**（とうきょうジャップ）とは、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Sts](https://ja.wikipedia.org/wiki/Sts)から翻訳されています。
+> この記事は[Stsニュースレポート](https://ja.wikipedia.org/wiki/Stsニュースレポート)から翻訳されています。
 
 
 『**stsニュースレポート**』（エスティーエスニュースレポート）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")で夕方に放送されていた[佐賀県](../Page/佐賀県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

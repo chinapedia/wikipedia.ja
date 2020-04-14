@@ -1,4 +1,4 @@
-> この記事は[DY\&](https://ja.wikipedia.org/wiki/DY\&)から翻訳されています。
+> この記事は[博報堂DYミュージック\&ピクチャーズ](https://ja.wikipedia.org/wiki/博報堂DYミュージック\&ピクチャーズ)から翻訳されています。
 
 
 **株式会社博報堂DYミュージック&ピクチャーズ**（はくほうどうディーワイミュージック アンド ピクチャーズ）は、[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")の[完全子会社](../Page/連結子会社.md "wikilink")（[博報堂DYホールディングス](../Page/博報堂DYホールディングス.md "wikilink")の完全孫会社）で、アニメーション作品の製作・出資、イベント・プロモーション事業の制作、映画の製作・配給、海外映画・海外ドラマの買い付け及び映像ソフトの制作・発売を主な事業内容とする日本の企業。「**ショウゲート**」のブランドで映像事業を展開する。
@@ -158,8 +158,8 @@
 
 ## 海外ドラマ作品
 
-  - [ツイン・ピークス](https://ja.wikipedia.org/wiki/ツイン・ピークス "wikilink") (現在、[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")が販売を担当)
-  - [バンド・オブ・ブラザース](../Page/バンド・オブ・ブラザース.md "wikilink")(現在、[ワーナー・ブラザース・ジャパン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・ジャパン "wikilink")が販売を担当)
+  - [ツイン・ピークス](https://ja.wikipedia.org/wiki/ツイン・ピークス "wikilink")（現在、[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")が販売を担当）
+  - [バンド・オブ・ブラザース](../Page/バンド・オブ・ブラザース.md "wikilink")（現在、[ワーナー ブラザース ジャパンが販売を担](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")）
   - [The Office](../Page/The_Office.md "wikilink")
   - The Office クリスマス・スペシャル
   - [宮廷の諍い女](https://ja.wikipedia.org/wiki/宮廷の諍い女 "wikilink")
@@ -498,8 +498,8 @@
   - デジタルえほん にじいろの さかな
       - ゆうじょう編
       - ぼうけん編
-  - 逆襲のドラゴンライダー(ソーシャルゲーム)
-  - [機巧少女は傷つかない Facing “Burnt Red”](https://ja.wikipedia.org/wiki/機巧少女は傷つかない#ゲーム "wikilink")(ソーシャルゲーム)
+  - 逆襲のドラゴンライダー（ソーシャルゲーム）
+  - [機巧少女は傷つかない Facing “Burnt Red”](https://ja.wikipedia.org/wiki/機巧少女は傷つかない#ゲーム "wikilink")（ソーシャルゲーム）
   - [夜々フリック](https://ja.wikipedia.org/wiki/機巧少女は傷つかない#ゲーム "wikilink")
 
 など
@@ -531,10 +531,10 @@
 1.  [半導体](../Page/半導体.md "wikilink")事業や[原子力](../Page/原子力.md "wikilink")事業と言った同社の主力事業への経営資源投入強化等。
 2.
 3.
-4.  「[当社株式の譲渡に関するお知らせ](http://www.showgate.jp/release.html)」 ショウゲート、2007年4月16日。
+4.  「[当社株式の譲渡に関するお知らせ](http://www.hakuhodody-map.jp/release.html)」 ショウゲート、2007年4月16日。
 5.  「[東芝エンタテインメント株式会社の株式売却について](http://www.toshiba.co.jp/about/press/2007_04/pr_j1602.htm)」 東芝、2007年4月16日。
-6.  「[博報堂DYメディアパートナーズによる東芝エンタテインメントの株式取得に関するお知らせ](http://www.hakuhodody-holdings.co.jp/news/20070416/HDYnews070416.pdf)」 博報堂DYメディアパートナーズ、2007年4月16日。
-7.  「[当社商号変更について](http://www.showgate.jp/release.html)」 ショウゲート、2007年5月21日
+6.  「[博報堂DYメディアパートナーズによる東芝エンタテインメントの株式取得に関するお知らせ](https://www.hakuhodody-holdings.co.jp/news/20070416/HDYnews070416.pdf)」 博報堂DYメディアパートナーズ、2007年4月16日。
+7.  「[当社商号変更について](http://www.hakuhodody-map.jp/release.html)」 ショウゲート、2007年5月21日
 8.
 9.
 10.

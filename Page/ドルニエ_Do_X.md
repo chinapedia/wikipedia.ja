@@ -1,4 +1,4 @@
-> この記事は[ Do X](https://ja.wikipedia.org/wiki/_Do_X)から翻訳されています。
+> この記事は[ドルニエ Do X](https://ja.wikipedia.org/wiki/ドルニエ_Do_X)から翻訳されています。
 
 
 | Dornier Do X                                                                                                                                                 |

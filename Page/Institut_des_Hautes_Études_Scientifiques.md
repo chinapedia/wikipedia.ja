@@ -1,4 +1,4 @@
-> この記事は[Institut des Hautes tudes Scientifiques](https://ja.wikipedia.org/wiki/Institut_des_Hautes_tudes_Scientifiques)から翻訳されています。
+> この記事は[Institut des Hautes Études Scientifiques](https://ja.wikipedia.org/wiki/Institut_des_Hautes_Études_Scientifiques)から翻訳されています。
 
 
 **Institut des hautes études scientifiques** (**IHÉS**) は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")郊外の町にある[数学](../Page/数学.md "wikilink")及び[理論物理学](https://ja.wikipedia.org/wiki/理論物理学 "wikilink")の[研究所](../Page/研究所.md "wikilink")。[訳語](https://ja.wikipedia.org/wiki/訳語 "wikilink")として、**フランス高等科学研究所**、**フランス高等科学研究院**等が当てられている。

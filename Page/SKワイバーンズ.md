@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKワイバーンズ](https://ja.wikipedia.org/wiki/SKワイバーンズ)から翻訳されています。
 
 
 **SKワイバーンズ**（エスケー・ワイバーンズ, 에스케이 와이번스）は、[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チームである。縁故地（[ホームタウン](../Page/ホームタウン.md "wikilink")）は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内にある[仁川SK幸福ドリーム球場（文鶴野球場）を本拠地とする](../Page/文鶴野球場.md "wikilink")。
@@ -63,7 +63,6 @@
   - 13 [河載勲](https://ja.wikipedia.org/wiki/河載勲 "wikilink")（ハ・ジェフン）
   - 15 [ニック・キンガム](https://ja.wikipedia.org/wiki/ニック・キンガム "wikilink")
   - 35 [リカルド・ピント](https://ja.wikipedia.org/wiki/リカルド・ピント "wikilink")
-  - 42 [文昇元](https://ja.wikipedia.org/wiki/文昇元 "wikilink")（ムン・スンウォン）
   - 47 [朴熙洙](https://ja.wikipedia.org/wiki/朴熙洙 "wikilink")（パク・ヒス）
   - 50 [朴鐘勲](https://ja.wikipedia.org/wiki/朴鐘勲 "wikilink")（パク・チョンフン）
 
@@ -77,7 +76,6 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 00 [蔡太仁](https://ja.wikipedia.org/wiki/蔡太仁 "wikilink")（チェ・テイン）
   - 4 [崔恒](https://ja.wikipedia.org/wiki/崔恒 "wikilink")（チェ・ハン）
   - 14 [崔廷](https://ja.wikipedia.org/wiki/崔廷 "wikilink")（チェ・ジョン）
   - 27 [ジェイミー・ロマック](https://ja.wikipedia.org/wiki/ジェイミー・ロマック "wikilink")
@@ -89,10 +87,8 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - 0 [金江珉](https://ja.wikipedia.org/wiki/金江ミン "wikilink")（キム・ガンミン）
-  - 17 [慮壽匡](https://ja.wikipedia.org/wiki/慮壽匡 "wikilink")（ノ・スグァン）
   - 37 [鄭義潤](../Page/鄭義潤.md "wikilink")（チョン・ウィユン）
   - 53 [高宗郁](https://ja.wikipedia.org/wiki/高宗郁 "wikilink")（コ・ジョンウク）
-  - 62 [韓東旻](https://ja.wikipedia.org/wiki/韓東旻 "wikilink")（ハン・ドンミン）
 
 </div>
 

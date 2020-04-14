@@ -23,6 +23,7 @@
   - 経常利益()の略称
   - リソースレコード（resource records） - [Domain Name Systemでゾーンファイル内で保持する単位情報](../Page/Domain_Name_System.md "wikilink")。
   - [RPレコード](https://ja.wikipedia.org/wiki/RPレコード "wikilink") - [Domain Name System](../Page/Domain_Name_System.md "wikilink")（DNS）のリソースレコードの一つ。[DNSレコードタイプの一覧](https://ja.wikipedia.org/wiki/DNSレコードタイプの一覧 "wikilink")も参照。
+  - [EOS RP](https://ja.wikipedia.org/wiki/キヤノン_EOS_RP "wikilink") - キヤノンが発売したミラーレス一眼カメラ。
 
 ## Rp
 

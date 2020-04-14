@@ -1,4 +1,4 @@
-> この記事は[G-on](https://ja.wikipedia.org/wiki/G-on)から翻訳されています。
+> この記事は[G-onらいだーす](https://ja.wikipedia.org/wiki/G-onらいだーす)から翻訳されています。
 
 
 『**G-onらいだーす♥**』（ジオンらいだーす）は[TNK](../Page/ティー・エヌ・ケー.md "wikilink")・[SHAFT共同制作による](../Page/シャフト_\(アニメ制作会社\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。

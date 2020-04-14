@@ -1,4 +1,4 @@
-> この記事は[JRUM14C](https://ja.wikipedia.org/wiki/JRUM14C)から翻訳されています。
+> この記事は[JR貨物UM14C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UM14C形コンテナ)から翻訳されています。
 
 
 **UM14C形コンテナ**（UM14Cがたコンテナ）は、[2002年](../Page/2002年.md "wikilink")度に登場した、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft級](../Page/フィート.md "wikilink")・床面積14[m<sup>3</sup>の危険品輸送向け](../Page/立方メートル.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[無蓋コンテナ](https://ja.wikipedia.org/wiki/無蓋コンテナ "wikilink")）である。

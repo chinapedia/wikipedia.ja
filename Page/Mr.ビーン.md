@@ -1,7 +1,7 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.ビーン](https://ja.wikipedia.org/wiki/Mr.ビーン)から翻訳されています。
 
 
-**Mr. ビーン**（**Mr. Bean**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ITVにて](../Page/ITV_\(イギリス\).md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで放送された[コメディ](../Page/喜劇.md "wikilink")・TVシリーズである。後に劇場用映画やアニメーションも製作されるが、本項ではそれらも含めることとする。
+**Mr. ビーン**（**Mr. Bean**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテムズテレビ ([ITV系](../Page/ITV_\(イギリス\).md "wikilink"))にて[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで放送された[コメディ](../Page/喜劇.md "wikilink")・TVシリーズである。後に劇場用映画やアニメーションも製作されるが、本項ではそれらも含めることとする。
 
 ## 概要
 
@@ -68,7 +68,7 @@
       - アトキンソンによると、ビーンは「9歳の少年と同じ」で、個人の自由を第一にする[アナキズム](https://ja.wikipedia.org/wiki/アナキズム "wikilink")的な思考がビーンの性格の根本となっている。
   - 女性は苦手なようである。生のヌードは恥ずかしくて見ることができず、美術でヌードモデルの模写もできなかった\[9\]。但し、イルマ・ゴッブ（後述）と交際していた事がある。
   - 室内機器を改良したり、ラジコンの出力を上げたりと意外と機械系に強い。但し、電気系統への知識はあまり無く、よく騒動を引き起こす。
-  - 味覚音痴であるらしく、[タルタルステーキ](../Page/タルタルステーキ.md "wikilink")の味が理解できなかったり、腐った生[牡蠣](https://ja.wikipedia.org/wiki/牡蠣 "wikilink")を平気で平らげた事がある。ただし後者に関しては腐ったものを食べたという事実にショックを受け腹痛を起こし(直接の描写はないが大量のトイレットペーパーが出てくる)就寝時に悪夢を見ている。
+  - 味覚音痴であるらしく、[タルタルステーキ](../Page/タルタルステーキ.md "wikilink")の味が理解できなかったり、腐った生[牡蠣](https://ja.wikipedia.org/wiki/牡蠣 "wikilink")を平気で平らげた事がある。ただし後者に関しては腐ったものを食べたという事実にショックを受け腹痛を起こし(直接の描写はないが大量のトイレットペーパーが出てくる)就寝時に悪夢を見ている。この一件以降牡蠣にトラウマを持っているらしく、フランス旅行の際に誤って注文した生ガキを見てひどく狼藉している。
   - 会話をすることが滅多にない。また、会話をするとしても名乗りや挨拶、注文程度の一言二言をぼそぼそと呟くだけである。ただし劇場版『ビーン』以降は設定がやや変更され、積極的に話す場面も見られるようになった。
   - 最終学歴は[大学](../Page/大学.md "wikilink")卒業。[数学](../Page/数学.md "wikilink")の[三角法](../Page/三角法.md "wikilink")に関しては、なぜか人一倍こだわりを持つ。アトキンソンは「ビーンは高学歴で悠々自適な生活を送っている」とも語っている。
   - 職業に関しても詳細は不明。TVシリーズ第2話「帰ってきたミスター・ビーン」では[ロンドン](../Page/ロンドン.md "wikilink")に実在するOdeon Leicester Square Cinema（[オデオン・シネマズ](https://ja.wikipedia.org/wiki/オデオン・シネマズ "wikilink")・[レスター・スクウェア](https://ja.wikipedia.org/wiki/レスター・スクウェア "wikilink")）の給仕として、劇場版『ビーン』では同じく[ロンドン](../Page/ロンドン.md "wikilink")に実在する[ナショナル・ギャラリー美術館の監視員として登場した](../Page/ナショナル・ギャラリー_\(ロンドン\).md "wikilink")。
@@ -325,14 +325,14 @@ of London</p></td>
 
   - ミスター・ビーン ***Mr. Bean: The Animated Series***
     [2002年](../Page/2002年.md "wikilink")より[ITV](../Page/ITV_\(イギリス\).md "wikilink")1にて放送開始。アトキンソンによるプロデュース作品で、本人の声や[モーションキャプチャ](../Page/モーションキャプチャ.md "wikilink")により二次元上でも完璧に動きや世界観を再現している。ブラックジョークなどは抑えられ、ファミリー向けのストーリー展開となっている。
-    日本では[カートゥーン ネットワークで放送され](../Page/カートゥーン_ネットワーク.md "wikilink")、DVDも発売されている。アニメ版ではTVシリーズ中盤でビーンに愛想を尽かしたはずのイルマや、TVシリーズには出てこないオリジナルのキャラクターが登場するなどTVシリーズとは設定が一新されている。
+    日本では[カートゥーン ネットワークで放送され](../Page/カートゥーン_ネットワーク.md "wikilink")、DVDも発売された。アニメ版ではTVシリーズ中盤でビーンに愛想を尽かしたはずのイルマや、TVシリーズには出てこないオリジナルのキャラクターが登場するなどTVシリーズとは設定が一新されている。
     アニメ版はTVゲーム化もされており、[2009年](../Page/2009年.md "wikilink")2月20日に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PC](../Page/パーソナルコンピュータ.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")にて欧州でのみ発売された。プレイヤーはコミカルなビーンを操り、テディを捜してアクションや愛車のミニを操作してのカーレースからパズルなど様々なミニゲームなどしながら世界を旅する[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")となっている。
 
 ## パロディ化
 
   - [お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")の[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")がパーソナリティーを担当した[ニッポン放送](../Page/ニッポン放送.md "wikilink")『[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")』では「ビーン」というコーナーが設けられ、[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")がビーンのモノマネをしていた。
   - [フジテレビの番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")」では第5話「ミスター・ビーンの災難」の歯医者のエピソードを床屋に置き換えてパロディ化し、[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")が「Mr.ウーン」として演じた。
-  - [志村けん](../Page/志村けん.md "wikilink")が『[志村けんのだいじょうぶだぁ](../Page/志村けんのだいじょうぶだぁ.md "wikilink")』にて、第4話「ミスター・ビーン、町へ行く」の第1エピソードをTVでそっくりそのまま演じたことがある。教会で睡魔に襲われる「教会ではお静かに」もそっくりなコントが[加藤茶](../Page/加藤茶.md "wikilink")と共演で演じられたことがある。更に「カンニングはダメよ」にもそっくりなコントがある。
+  - [志村けん](../Page/志村けん.md "wikilink")が『[志村けんのだいじょうぶだぁ](../Page/志村けんのだいじょうぶだぁ.md "wikilink")』にて、第4話「ミスター・ビーン、町へ行く」の第1エピソードをTVでそっくりそのまま演じたことがある。教会で睡魔に襲われる「教会ではお静かに」もそっくりなコントが[加藤茶](../Page/加藤茶.md "wikilink")と共演で演じられたことがある。更に設定を入社試験に変更して「カンニングはダメよ」にもそっくりなコントがある。
   - [山口智充](../Page/山口智充.md "wikilink")のモノマネのレパートリーにビーンが存在し、多数のテレビ番組で披露している。また、アトキンソン本人と共演したこともある\[15\]。
   - [パキスタン](../Page/パキスタン.md "wikilink")には、「PAKビーン」というビーンのそっくりさんがメディア出演している。本名はモハメッド・アスフといい、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で投稿したのがきっかけでパキスタン中で存在が知られるようになり、人気コメディアンになっている。なお、アトキンソン本人もアスフの存在を認めている\[16\]。
 
@@ -342,19 +342,17 @@ of London</p></td>
 
 ## 外部リンク
 
-  - [Mr Bean](http://www.mrbean.co.uk/)
+  - [Mr Bean](https://www.mrbean.com/)
 
   -
   -
   -
-  - [カートゥーン・ネットワークの番組紹介ページ](http://www.cartoonnetwork.jp/cn_programs/view/00809)
-
-[Category:コメディドラマ](https://ja.wikipedia.org/wiki/Category:コメディドラマ "wikilink") [Category:イギリスのテレビドラマ](https://ja.wikipedia.org/wiki/Category:イギリスのテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:アニメ作品_み](https://ja.wikipedia.org/wiki/Category:アニメ作品_み "wikilink") [Category:イギリスのアニメ作品](https://ja.wikipedia.org/wiki/Category:イギリスのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:カートゥーン_ネットワーク](https://ja.wikipedia.org/wiki/Category:カートゥーン_ネットワーク "wikilink") [Category:ITV](https://ja.wikipedia.org/wiki/Category:ITV "wikilink")
+[Category:コメディドラマ](https://ja.wikipedia.org/wiki/Category:コメディドラマ "wikilink") [Category:シチュエーション・コメディ](https://ja.wikipedia.org/wiki/Category:シチュエーション・コメディ "wikilink") [Category:イギリスのテレビドラマ](https://ja.wikipedia.org/wiki/Category:イギリスのテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:アニメ作品_み](https://ja.wikipedia.org/wiki/Category:アニメ作品_み "wikilink") [Category:イギリスのアニメ作品](https://ja.wikipedia.org/wiki/Category:イギリスのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:カートゥーン_ネットワーク](https://ja.wikipedia.org/wiki/Category:カートゥーン_ネットワーク "wikilink") [Category:ITV](https://ja.wikipedia.org/wiki/Category:ITV "wikilink") [Category:ロンドンを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした作品 "wikilink")
 
 1.   - Olympics公式チャンネル
-2.  [「ミスター・ビーン」は引退へ…演じたローワン・アトキンソンが卒業を宣言](http://www.cinematoday.jp/page/N0047952)（[シネマトゥデイ](https://ja.wikipedia.org/wiki/シネマトゥデイ "wikilink") 2012年11月21日)
+2.  [「ミスター・ビーン」は引退へ…演じたローワン・アトキンソンが卒業を宣言](https://www.cinematoday.jp/news/N0047952)（[シネマトゥデイ](https://ja.wikipedia.org/wiki/シネマトゥデイ "wikilink") 2012年11月21日)
 3.
-4.  [「ミスター・ビーン」エピソードを本人が再現！25周年をバッキンガム宮殿でお祝い](http://m.cinematoday.jp/page/N0076263?__ct_ref=https%3A%2F%2Fwww.google.co.jp%2F)(シネマトゥデイ 2015年9月5日)
+4.  [「ミスター・ビーン」エピソードを本人が再現！25周年をバッキンガム宮殿でお祝い](https://www.cinematoday.jp/news/N0076263?__ct_ref=https%3A%2F%2Fwww.google.co.jp%2F)(シネマトゥデイ 2015年9月5日)
 5.
 6.
 7.  ビーンの住む家から歯科医院へ向かうシーン、後半パートのみ
@@ -365,5 +363,5 @@ of London</p></td>
 12.
 13.
 14.
-15. [本物ソックリ\! ぐっさん“Mr.ビーン”が本人と共演（2007年12月5日、ORICON STYLE）](http://www.oricon.co.jp/news/movie/50199/full/)
+15. [本物ソックリ\! ぐっさん“Mr.ビーン”が本人と共演（2007年12月5日、ORICON STYLE）](https://www.oricon.co.jp/news/50199/full/)
 16. 2013年2月26日放送 NHK-BS1『[ワールドWaveトゥナイト](https://ja.wikipedia.org/wiki/ワールドWaveトゥナイト "wikilink")』にて。

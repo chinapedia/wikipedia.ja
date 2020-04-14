@@ -1,4 +1,4 @@
-> この記事は[RAB](https://ja.wikipedia.org/wiki/RAB)から翻訳されています。
+> この記事は[RAB杯カラオケ選手権大会](https://ja.wikipedia.org/wiki/RAB杯カラオケ選手権大会)から翻訳されています。
 
 
 **RAB杯カラオケ選手権大会**（アールエービーはいカラオケせんしゅけんたいかい）は、不定期で放送される[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

@@ -11,7 +11,7 @@
 
 [フィギュア](../Page/フィギュア.md "wikilink")などキャラクターグッズ販売や[携帯電話](../Page/携帯電話.md "wikilink")での動画配信、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")などの[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")、ムック本や[PlayStation 2でのゲーム化など幅広いメディアに展開している](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。また[講談社](../Page/講談社.md "wikilink")での漫画化、[GYAO\!](../Page/GYAO!.md "wikilink")での動画配信などがある。
 
-[2015年](../Page/2015年.md "wikilink")に、[ポリゴン・ピクチュアズ](../Page/ポリゴン・ピクチュアズ.md "wikilink")より子供向けの[リブート版](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")『**グレゴリーホラーショー・ミステリーホリデー**』が発表されている。
+[2015年](../Page/2015年.md "wikilink")に[ポリゴン・ピクチュアズ](../Page/ポリゴン・ピクチュアズ.md "wikilink")企業サイト→[2019年](../Page/2019年.md "wikilink")にイワタナオミ個人サイト上にて[リブート版](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")『**グレゴリーホラーショー・ミステリーホリデー**』が[ポートフォリオとしてキャラクターのみが公開されている](https://ja.wikipedia.org/wiki/ポートフォリオ_\(曖昧さ回避\) "wikilink")。
 
 ## あらすじ
 
@@ -310,7 +310,7 @@
 
 ## 外部リンク
 
-  - [ミルキーカートゥーン｜作品紹介](http://www.milkycartoon.co.jp/animation_series/index.html#anc14)
+  - [イワタナオミ naomiiwarta.com](http://www.iwatanaomi.com/)
   - [グレゴリーホラーショー ミステリーホリデー](http://www.iwatanaomi.com/original/html/ghs-m_holiday.html)
 
 [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:ホラーアニメ](https://ja.wikipedia.org/wiki/Category:ホラーアニメ "wikilink") [Category:宿泊施設を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:宿泊施設を舞台としたアニメ作品 "wikilink") [Category:ネズミを主人公にした物語](https://ja.wikipedia.org/wiki/Category:ネズミを主人公にした物語 "wikilink") [Category:コンピュータアニメーション](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション "wikilink") [Category:ポリゴン・ピクチュアズ](https://ja.wikipedia.org/wiki/Category:ポリゴン・ピクチュアズ "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:ヤングマガジンアッパーズ](https://ja.wikipedia.org/wiki/Category:ヤングマガジンアッパーズ "wikilink") [Category:モーニングの漫画作品](https://ja.wikipedia.org/wiki/Category:モーニングの漫画作品 "wikilink")

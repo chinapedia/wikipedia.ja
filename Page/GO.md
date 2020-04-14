@@ -37,6 +37,7 @@
   - [{{lang](https://ja.wikipedia.org/wiki/GO_\(KREVAのアルバム\) "wikilink") - 2011年
   - [{{lang](https://ja.wikipedia.org/wiki/GO_\(DEEPの曲\) "wikilink") - 2012年
   - GO - [BUMP OF CHICKENの楽曲](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、アルバム『[Butterflies](https://ja.wikipedia.org/wiki/Butterflies_\(BUMP_OF_CHICKENのアルバム\) "wikilink")』収録、2016年
+  - [GO (NONA REEVESのアルバム)](../Page/GO_\(NONA_REEVESのアルバム\).md "wikilink")
 
 ## 地理
 

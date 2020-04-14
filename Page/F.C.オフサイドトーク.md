@@ -1,4 +1,4 @@
-> この記事は[F.C.](https://ja.wikipedia.org/wiki/F.C.)から翻訳されています。
+> この記事は[F.C.オフサイドトーク](https://ja.wikipedia.org/wiki/F.C.オフサイドトーク)から翻訳されています。
 
 
 **F.C.オフサイドトーク**（エフ・シー・オフサイドトーク）は、[ABCラジオ（朝日放送）の](../Page/朝日放送ラジオ.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")情報番組である。原則として毎週[月曜日](../Page/月曜日.md "wikilink")の生放送であるが、放送時間は時期によって異なる。

@@ -1,4 +1,4 @@
-> この記事は[BJ](https://ja.wikipedia.org/wiki/BJ)から翻訳されています。
+> この記事は[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HughesPenn-faceoff.jpg "wikilink")

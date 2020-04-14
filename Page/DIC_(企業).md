@@ -1,7 +1,7 @@
-> この記事は[DIC \(\)](https://ja.wikipedia.org/wiki/DIC_\(\))から翻訳されています。
+> この記事は[DIC \(企業\)](https://ja.wikipedia.org/wiki/DIC_\(企業\))から翻訳されています。
 
 
-**DIC株式会社**（ディーアイシー、英語表記*DIC Corporation*）は、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋に本社を置く](../Page/日本橋_\(東京都中央区\).md "wikilink")[化学メーカー](https://ja.wikipedia.org/wiki/化学メーカー "wikilink")。主力製品は**印刷インキ**、**有機顔料**、**合成樹脂**。ブランドスローガンは「**Color & Comfort**」。2008年に大日本インキ化学工業株式会社より社名変更。
+**DIC株式会社**（ディーアイシー、DIC Corporation）は、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋に本社を置く](../Page/日本橋_\(東京都中央区\).md "wikilink")[化学メーカー](https://ja.wikipedia.org/wiki/化学メーカー "wikilink")。主力製品は**印刷インキ**、**有機顔料**、**合成樹脂**。ブランドスローガンは「**Color & Comfort**」。2008年に大日本インキ化学工業株式会社より社名変更。
 
 ## 概要
 
@@ -95,6 +95,8 @@
 
   - [DIC株式会社](https://www.dic-global.com/ja/index.html)
 
+  -
+  -
 [Category:日本の化学工業メーカー](https://ja.wikipedia.org/wiki/Category:日本の化学工業メーカー "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:1950年上場の企業](https://ja.wikipedia.org/wiki/Category:1950年上場の企業 "wikilink") [Category:1937年設立の企業](https://ja.wikipedia.org/wiki/Category:1937年設立の企業 "wikilink") [Category:インク](https://ja.wikipedia.org/wiki/Category:インク "wikilink")
 
 1.

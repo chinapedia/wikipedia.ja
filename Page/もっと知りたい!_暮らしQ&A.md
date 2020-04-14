@@ -1,4 +1,4 @@
-> この記事は[! Q\&A](https://ja.wikipedia.org/wiki/!_Q\&A)から翻訳されています。
+> この記事は[もっと知りたい! 暮らしQ\&A](https://ja.wikipedia.org/wiki/もっと知りたい!_暮らしQ\&A)から翻訳されています。
 
 
 『**もっと知りたい\! 暮らしQ\&A**』は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")[2000年](../Page/2000年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink") 21:00 - 21:55 ([JST](../Page/日本標準時.md "wikilink")) に[生放送](../Page/生放送.md "wikilink")された[視聴者参加型の暮らし](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

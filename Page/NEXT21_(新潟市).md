@@ -1,4 +1,4 @@
-> この記事は[NEXT21 \(\)](https://ja.wikipedia.org/wiki/NEXT21_\(\))から翻訳されています。
+> この記事は[NEXT21 \(新潟市\)](https://ja.wikipedia.org/wiki/NEXT21_\(新潟市\))から翻訳されています。
 
 
 **NEXT21**（ネクストにじゅういち）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区にある](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。[萬代橋](../Page/萬代橋.md "wikilink")や[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")、[新潟日報メディアシップ](https://ja.wikipedia.org/wiki/新潟日報メディアシップ "wikilink")などと並び、新潟市の[ランドマーク](../Page/ランドマーク.md "wikilink")的存在となっている。

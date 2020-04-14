@@ -1,4 +1,4 @@
-> この記事は[ if](https://ja.wikipedia.org/wiki/_if)から翻訳されています。
+> この記事は[もしも体感バラエティ if](https://ja.wikipedia.org/wiki/もしも体感バラエティ_if)から翻訳されています。
 
 
 『**もしも体感バラエティ if**』（もしもたいかんバラエティ イフ）は、[2002年](../Page/2002年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[テイジンの一社提供](../Page/帝人.md "wikilink")。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 23:00 - 23:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

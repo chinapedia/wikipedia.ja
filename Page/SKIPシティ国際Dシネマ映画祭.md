@@ -1,4 +1,4 @@
-> この記事は[SKIPD](https://ja.wikipedia.org/wiki/SKIPD)から翻訳されています。
+> この記事は[SKIPシティ国際Dシネマ映画祭](https://ja.wikipedia.org/wiki/SKIPシティ国際Dシネマ映画祭)から翻訳されています。
 
 
 **SKIPシティ国際Dシネマ映画祭**（スキップシティこくさいディーシネマえいがさい、英称 SKIP CITY INTERNATIONAL D-Cinema FESTIVAL、略称 SKIP CITY IDCF）は、[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")の[SKIPシティ](../Page/SKIPシティ.md "wikilink")で行われる[映画祭](../Page/映画祭.md "wikilink")である。

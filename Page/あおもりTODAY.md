@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[あおもりTODAY](https://ja.wikipedia.org/wiki/あおもりTODAY)から翻訳されています。
 
 
 **あおもりTODAY**（あおもりトゥディ）は、[1972年](../Page/1972年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）で放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

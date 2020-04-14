@@ -1,4 +1,4 @@
-> この記事は[VOICE \(\)](https://ja.wikipedia.org/wiki/VOICE_\(\))から翻訳されています。
+> この記事は[VOICE \(ニュース番組\)](https://ja.wikipedia.org/wiki/VOICE_\(ニュース番組\))から翻訳されています。
 
 
 『**VOICE**』（ヴォイス）は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で [2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の夕方に放送されていた[関西ローカル](../Page/関西ローカル.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。一時は、番組タイトルを「**VOiCE**」と表記したうえで、ロゴに使用していた。

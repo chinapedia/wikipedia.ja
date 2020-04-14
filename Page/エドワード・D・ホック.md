@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[エドワード・D・ホック](https://ja.wikipedia.org/wiki/エドワード・D・ホック)から翻訳されています。
 
 
 **エドワード・デンティンジャー・ホック**（**Edward Dentinger Hoch**、[1930年](../Page/1930年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミステリー作家](../Page/推理作家.md "wikilink")。多作家で、数多くの短編[推理小説](../Page/推理小説.md "wikilink")を書いたことで知られる。長編は数冊のみ。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ロチェスターの生まれ](../Page/ロチェスター_\(ニューヨーク州\).md "wikilink")。

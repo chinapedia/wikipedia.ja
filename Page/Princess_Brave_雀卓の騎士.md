@@ -1,4 +1,4 @@
-> この記事は[Princess Brave ](https://ja.wikipedia.org/wiki/Princess_Brave_)から翻訳されています。
+> この記事は[Princess Brave 雀卓の騎士](https://ja.wikipedia.org/wiki/Princess_Brave_雀卓の騎士)から翻訳されています。
 
 
 『**プリンセスブレイブ\! 雀卓の騎士**』（プリンセスブレイブ じゃんたくのきし）は、[2004年](../Page/2004年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[130cmより発売された](../Page/13cm.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[麻雀ゲーム](../Page/麻雀ゲームソフト一覧.md "wikilink")。

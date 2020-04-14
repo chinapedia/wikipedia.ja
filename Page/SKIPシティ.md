@@ -1,7 +1,7 @@
-> この記事は[SKIP](https://ja.wikipedia.org/wiki/SKIP)から翻訳されています。
+> この記事は[SKIPシティ](https://ja.wikipedia.org/wiki/SKIPシティ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SKIP_city1.jpg "wikilink") **SKIPシティ**（スキップ・シティ）は、[埼玉県](../Page/埼玉県.md "wikilink")[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")にある[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")制作を目的とした施設。[NHK川口ラジオ放送所跡地の](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[産官学連携](https://ja.wikipedia.org/wiki/産官学連携 "wikilink")による再開発事業として、[2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")にオープンした。は  の頭文字から。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SKIP_city1.jpg "wikilink") **SKIPシティ**（スキップ・シティ）は[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")にある[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")制作を目的とした施設。[NHK川口ラジオ放送所跡地の](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[産官学連携](https://ja.wikipedia.org/wiki/産官学連携 "wikilink")による再開発事業として、[2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")にオープンした。は  の頭文字から。
 
 ## 概要
 
@@ -98,7 +98,7 @@ A1街区に関しては、埼玉県・川口市を主体にした施設建設が
 <!-- end list -->
 
   -
-    川18：[川口駅](https://ja.wikipedia.org/wiki/川口駅 "wikilink")東口 - [川口市立高校](https://ja.wikipedia.org/wiki/川口市立高等学校 "wikilink") - [鳩ヶ谷駅](https://ja.wikipedia.org/wiki/鳩ヶ谷駅 "wikilink") - 鳩ヶ谷公団住宅
+    川18：[川口駅](https://ja.wikipedia.org/wiki/川口駅 "wikilink")東口 - [川口市立高校](https://ja.wikipedia.org/wiki/川口市立高等学校・附属中学校 "wikilink") - [鳩ヶ谷駅](https://ja.wikipedia.org/wiki/鳩ヶ谷駅 "wikilink") - 鳩ヶ谷公団住宅
     川19：川口駅東口 - 川口市立高校 - [戸塚安行駅](https://ja.wikipedia.org/wiki/戸塚安行駅 "wikilink")
     川20：川口駅東口 - 川口市立高校 - [東川口駅](https://ja.wikipedia.org/wiki/東川口駅 "wikilink")南口
     川23：川口駅東口 - 川口市立高校 - [新井宿駅](https://ja.wikipedia.org/wiki/新井宿駅 "wikilink")

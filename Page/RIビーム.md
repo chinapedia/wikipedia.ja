@@ -1,4 +1,4 @@
-> この記事は[RI](https://ja.wikipedia.org/wiki/RI)から翻訳されています。
+> この記事は[RIビーム](https://ja.wikipedia.org/wiki/RIビーム)から翻訳されています。
 
 
 **RIビーム**（あーるあいびーむ）とは、不安定な[放射性同位体](../Page/放射性同位体.md "wikilink")である[不安定核](https://ja.wikipedia.org/wiki/不安定核 "wikilink")のビーム。不安定核は、[粒子加速器で加速した重イオン粒子を標的原子核にぶつけて壊す](../Page/加速器.md "wikilink")[核破砕反応](https://ja.wikipedia.org/wiki/核破砕反応 "wikilink")によって作り、これを選別して使う。

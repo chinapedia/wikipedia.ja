@@ -1,4 +1,4 @@
-> この記事は[DW](https://ja.wikipedia.org/wiki/DW)から翻訳されています。
+> この記事は[D・W・グリフィス](https://ja.wikipedia.org/wiki/D・W・グリフィス)から翻訳されています。
 
 
 **デヴィッド・ウォーク・グリフィス**（David Wark Griffith、[1875年](../Page/1875年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [1948年](../Page/1948年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[映画製作者](https://ja.wikipedia.org/wiki/映画製作者 "wikilink")。
@@ -109,7 +109,7 @@
 
 [thumbに](https://ja.wikipedia.org/wiki/ファイル:Stamp_US_1975_10c_Griffith.jpg "wikilink")[米国郵便公社からグリフィスの記念切手が発行された](../Page/アメリカ合衆国郵便公社.md "wikilink")。\]\]
 
-  - [ドリーの冒険](https://ja.wikipedia.org/wiki/ドリーの冒険 "wikilink") *[The Adventures of Dollie](https://ja.wikipedia.org/wiki/:en:The_Adventures_of_Dollie "wikilink")*（1908年）
+  - [ドリーの冒険](../Page/ドリーの冒険.md "wikilink") *[The Adventures of Dollie](https://ja.wikipedia.org/wiki/:en:The_Adventures_of_Dollie "wikilink")*（1908年）
   - [じゃじゃ馬馴らし](https://ja.wikipedia.org/wiki/じゃじゃ馬馴らし_\(1908年の映画\) "wikilink") *[The Taming of the Shrew](https://ja.wikipedia.org/wiki/:en:The_Taming_of_the_Shrew_\(1908_film\) "wikilink")*（1908年）
   - [質屋の娘の恋](https://ja.wikipedia.org/wiki/質屋の娘の恋 "wikilink") *[Romance of a Jewess](https://ja.wikipedia.org/wiki/:en:Romance_of_a_Jewess "wikilink")*（1908年）
   - [迷惑帽子](https://ja.wikipedia.org/wiki/迷惑帽子 "wikilink") *[Those Awful Hats](https://ja.wikipedia.org/wiki/:en:Those_Awful_Hats "wikilink")*（1909年）

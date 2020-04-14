@@ -1,4 +1,4 @@
-> この記事は[WSC95](https://ja.wikipedia.org/wiki/WSC95)から翻訳されています。
+> この記事は[ポルシェ・WSC95](https://ja.wikipedia.org/wiki/ポルシェ・WSC95)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Porsche_LMP1_'98_-_WSC-002_No._8.jpg "wikilink") **WSC95**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[国際モータースポーツ協会](../Page/国際モータースポーツ協会.md "wikilink")（IMSA）のレースの一つであり、世界3大耐久レースの一つ、[デイトナ24時間レース](../Page/デイトナ24時間レース.md "wikilink")を制覇する目的で[ポルシェ](../Page/ポルシェ.md "wikilink")が製作したオープン2シーターのWSCクラスの[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[! GO-!](https://ja.wikipedia.org/wiki/!_GO-!)から翻訳されています。
+> この記事は[とくダネ!発 GO-ガイ!](https://ja.wikipedia.org/wiki/とくダネ!発_GO-ガイ!)から翻訳されています。
 
 
 『**とくダネ\!発 GO-ガイ\!**』（とくダネはつ ゴーガイ）は、[2003年](../Page/2003年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")まで[フジテレビ系列](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[ワイドショー](../Page/ワイドショー.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

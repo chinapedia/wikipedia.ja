@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXニュース](https://ja.wikipedia.org/wiki/FOXニュース)から翻訳されています。
 
 
 **FOXニュース**（フォックスニュース、[英称](../Page/英語.md "wikilink")：FOX News Channel、[略称](https://ja.wikipedia.org/wiki/略称 "wikilink")：**FNC**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニュース専門放送局](../Page/ニュース専門放送局.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")に[ルパート・マードック](../Page/ルパート・マードック.md "wikilink")所有の[ニューズ・コーポレーション](https://ja.wikipedia.org/wiki/ニューズ・コーポレーション "wikilink")（現：[FOXコーポレーション](https://ja.wikipedia.org/wiki/FOXコーポレーション "wikilink")）が、当時[NBC](../Page/NBC.md "wikilink")の経営者ロジャー・エイルズを社長にして設立した\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[JRUT13C](https://ja.wikipedia.org/wiki/JRUT13C)から翻訳されています。
+> この記事は[JR貨物UT13C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT13C形コンテナ)から翻訳されています。
 
 
 **UT13C形コンテナ**（UT13Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20・24[ft](../Page/フィート.md "wikilink")・内容積13[m³の危険品輸送向け](../Page/立方メートル.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。

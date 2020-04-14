@@ -1,4 +1,4 @@
-> この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
+> この記事は[LGツインズ](https://ja.wikipedia.org/wiki/LGツインズ)から翻訳されています。
 
 
 **LGツインズ**（エルジー・ツインズ、、LG Twins）は、[韓国のプロ](../Page/大韓民国.md "wikilink")[野球](../Page/野球.md "wikilink")チームである。[LGグループ](../Page/LGグループ.md "wikilink")がオーナーであり、韓国プロ野球発足時の1982年から存在するチームのひとつ。チーム名は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")の[汝矣島](../Page/汝矣島.md "wikilink")にある親会社のオフィスビルであるLGツインタワーに因む。縁故地（[ホームタウン](../Page/ホームタウン.md "wikilink")）はソウル特別市。本拠地は同市内の[蚕室球場](https://ja.wikipedia.org/wiki/蚕室総合運動場野球場 "wikilink")。
@@ -114,7 +114,6 @@
 
 ### 内野手
 
-  - 5 [金容儀](https://ja.wikipedia.org/wiki/金容儀 "wikilink")（キム・ヨンウィ）
   - 8 [鄭根宇](https://ja.wikipedia.org/wiki/鄭根宇 "wikilink")（チョン・グヌ）
   - 10 [呉智煥](https://ja.wikipedia.org/wiki/呉智煥 "wikilink")（オ・ジファン）
   - 25 [金旼成](https://ja.wikipedia.org/wiki/金ミン成 "wikilink")（キム・ミンソン）

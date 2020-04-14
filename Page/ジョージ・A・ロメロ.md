@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ジョージ・A・ロメロ](https://ja.wikipedia.org/wiki/ジョージ・A・ロメロ)から翻訳されています。
 
 
 **ジョージ・アンドリュー・ロメロ**（**George Andrew Romero**, [1940年](../Page/1940年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")。[脚本家](../Page/脚本家.md "wikilink")、[編集](../Page/編集.md "wikilink")者、[俳優](../Page/俳優.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")でもある。[ニューヨーク](../Page/ニューヨーク.md "wikilink")市出身。父親は[キューバ](../Page/キューバ.md "wikilink")系、母親は[リトアニア](../Page/リトアニア.md "wikilink")系。[ゾンビ](../Page/ゾンビ.md "wikilink")映画の第一人者\[1\]。[ホラー映画](../Page/ホラー映画.md "wikilink")の巨匠、[カルト映画](../Page/カルト映画.md "wikilink")の鬼才として知られる。

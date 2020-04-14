@@ -1,4 +1,4 @@
-> この記事は[Honda](https://ja.wikipedia.org/wiki/Honda)から翻訳されています。
+> この記事は[Honda硬式野球部](https://ja.wikipedia.org/wiki/Honda硬式野球部)から翻訳されています。
 
 
 **Honda硬式野球部**（ホンダこうしきやきゅうぶ）は、[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。練習グラウンドである本田技研笠幡球場は、埼玉県[川越市](../Page/川越市.md "wikilink")にある。

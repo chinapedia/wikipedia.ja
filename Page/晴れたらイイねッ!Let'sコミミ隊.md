@@ -1,4 +1,4 @@
-> この記事は[!Let\'s](https://ja.wikipedia.org/wiki/!Let\'s)から翻訳されています。
+> この記事は[晴れたらイイねッ!Let\'sコミミ隊](https://ja.wikipedia.org/wiki/晴れたらイイねッ!Let\'sコミミ隊)から翻訳されています。
 
 
 『**晴れたらイイねッ\!Let'sコミミ隊**』（はれたらイイねッ レッツ・コミミたい）は、[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[旅番組](../Page/旅番組.md "wikilink")である。製作局のフジテレビでは[2003年](../Page/2003年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。それ以前にも[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで『**晴れたらイイねッ\!**』と題して放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[BAN!BOO!!!](https://ja.wikipedia.org/wiki/BAN!BOO!!!)から翻訳されています。
+> この記事は[BAN!BOO!ぱいん!!](https://ja.wikipedia.org/wiki/BAN!BOO!ぱいん!!)から翻訳されています。
 
 
 『**BAN！BOO！ぱいん**』（**バンブーぱいん**）とは、[2002年](../Page/2002年.md "wikilink")4月1日から2003年3月26日まで、一部の[日本テレビ系列局で放映されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ（ytv）制作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。 タイトルは、出演者が所属する[松竹芸能](../Page/松竹芸能.md "wikilink")をもじったもの（竹=bamboo、松=pine）。

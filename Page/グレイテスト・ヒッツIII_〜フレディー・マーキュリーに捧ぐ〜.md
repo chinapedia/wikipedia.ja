@@ -1,4 +1,4 @@
-> この記事は[III ](https://ja.wikipedia.org/wiki/III_)から翻訳されています。
+> この記事は[グレイテスト・ヒッツIII 〜フレディー・マーキュリーに捧ぐ〜](https://ja.wikipedia.org/wiki/グレイテスト・ヒッツIII_〜フレディー・マーキュリーに捧ぐ〜)から翻訳されています。
 
 
 『**グレイテスト・ヒッツIII 〜フレディー・マーキュリーに捧ぐ〜**』（*GREATEST HITS III*）は、[1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売された[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")[クイーンのベスト](../Page/クイーン_\(バンド\).md "wikilink")・アルバム。グレイテスト・ヒッツ3部作の完結盤である。

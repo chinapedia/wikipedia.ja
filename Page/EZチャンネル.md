@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル)から翻訳されています。
 
 
 **EZチャンネル**（イージーチャンネル）は、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")が提供していた、[携帯電話](../Page/携帯電話.md "wikilink")向け動画コンテンツ配信サービス。

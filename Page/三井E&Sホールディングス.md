@@ -1,23 +1,73 @@
-> この記事は[E\&S](https://ja.wikipedia.org/wiki/E\&S)から翻訳されています。
+> この記事は[三井E\&Sホールディングス](https://ja.wikipedia.org/wiki/三井E\&Sホールディングス)から翻訳されています。
 
 
-**株式会社三井E\&Sホールディングス**（みついイーアンドエスホールディングス）は、[造船](../Page/造船.md "wikilink")、機械、プラントなどを手掛ける[三井系の](https://ja.wikipedia.org/wiki/三井財閥 "wikilink")[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")。
+**株式会社三井E\&Sホールディングス**（みついイーアンドエスホールディングス）は、[造船](../Page/造船.md "wikilink")、機械、プラントなどを手掛ける[三井グループ](../Page/三井グループ.md "wikilink")の[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")メーカー。
 
-2018年（平成30年）4月1日付で商号を**三井造船株式会社**（みついぞうせん）から変更し、[持株会社](../Page/持株会社.md "wikilink")制へ移行した\[1\]。船舶・艦艇事業は**三井E\&S造船株式会社**、機械・システム事業は**株式会社三井E\&Sマシナリー**、エンジニアリング事業は**株式会社三井E\&Sエンジニアリング**へそれぞれ分割した\[2\]。
+旧社名は**三井造船株式会社**（みついぞうせん、*Mitsui Engineering & Shipbuilding Co.、Ltd.*）。2018年（平成30年）4月1日付をもって[持株会社](../Page/持株会社.md "wikilink")制へ移行した\[1\]。[三井広報委員会に属している](../Page/三井グループ.md "wikilink")。
 
 ## 概要
 
-[三井グループ](../Page/三井グループ.md "wikilink")の重工業メーカー。他の重工業メーカーと比較しLNG（[液化天然ガス](https://ja.wikipedia.org/wiki/液化天然ガス "wikilink")）、浮体式石油生産・貯蔵・積出設備（FPSO）など造船部門の比率が高いが、物流システム、動力エネルギー、先進機械、プラント、環境、鉄構建設、IT関連など事業項目は多い。[エチレン](../Page/エチレン.md "wikilink")や[ポリオレフィン](../Page/ポリオレフィン.md "wikilink")等の化学プラントも手掛け他社に無い事業領域も持つ。
+[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")が玉（現[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")）に設立した造船部を発祥とし、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")時には各種軍用艦の建造に携わった。現在では商船、[自衛隊](../Page/自衛隊.md "wikilink")の艦艇、船舶用ディーゼルエンジンといった船舶分野だけでなく、発電・化学プラントといったエンジニアリング事業や、港湾クレーン、橋梁の建設など社会インフラ事業まで多岐にわたる。
 
-また、大型研究施設・技術開発に強く、深海探査機器を有し、原発代替エネルギーとして注目されている、[メタンハイドレート](https://ja.wikipedia.org/wiki/メタンハイドレート "wikilink")実用化や、[素粒子](../Page/素粒子.md "wikilink")関連の大型施設などを手掛けている。
+主に船舶、機械、エンジニアリングの3つの事業を柱とする。傘下には浮体式海洋[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")・[ガス生産設備](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")(FPSO)で大きなシェアを誇る[三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")を持つ。また[メタンハイドレート](https://ja.wikipedia.org/wiki/メタンハイドレート "wikilink")の実用化に向けた研究も進めており、他の重工業メーカーと比べ海洋分野に力を入れていることが特徴である。
 
-[NGHジャパン](https://ja.wikipedia.org/wiki/NGHジャパン "wikilink")や[三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")等、筆頭株主の[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")が強いプラント・エネルギー分野での協業事業も多い。
+[日経平均株価](../Page/日経平均株価.md "wikilink")構成銘柄の1つである。
 
-次の事業本部を設けている。
+## 主要グループ企業
 
-  - 船舶・艦艇事業本部
-  - 機械・システム事業本部 - 舶用エンジンや産業機械など。
-  - エンジニアリング事業本部
+### 三井E\&S造船
+
+　船舶・艦艇事業を引き継いだ事業会社。
+
+#### 関連会社
+
+  - MES-KHI由良ドック
+  - 三井造船昭島研究所
+  - 三井造船特機エンジニアリング
+  - MESシッピング
+  - 四国ドック
+  - [新潟造船](https://ja.wikipedia.org/wiki/新潟造船 "wikilink")
+  - TGE Marine Gas Engineering GmbH
+
+### 三井E\&Sマシナリー
+
+　機械・システム事業を引き継いだ事業会社。主力製品の港湾クレーンや船舶用エンジンは国内外で大きなシェアを占める。
+
+#### 関連会社
+
+  - 加地テック
+  - 三井E\&Sパワーシステムズ
+  - 三井E\&S鉄構エンジニアリング
+  - 三井ミーハナイト・メタル
+  - 三井E\&Sテクニカルリサーチ
+  - 三造加工
+  - ドーピー建設工業
+  - アヅママシナリー
+  - PACECO Corp.
+
+### 三井E\&Sエンジニアリング
+
+　エンジニアリング事業を引き継いだ事業会社。プラント建設や[スーパーカミオカンデ](../Page/スーパーカミオカンデ.md "wikilink")など素粒子関連の施設の建設も手掛けている。
+
+#### 関連会社
+
+  - 三井E\&Sプラントエンジニアリング
+  - 三井E\&S環境エンジニアリング
+  - 浜松グリーンウェーブ
+  - 市原グリーン電力
+  - 別海バイオガス発電
+  - Engineers and Constructors International, Inc.
+  - DASH Engineering Philippines, Inc.
+
+### 三井海洋開発
+
+　詳細は「[三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")」を参照
+
+**三井E\&Sシステム技研**
+
+**Burmeister & Wain Scandinavian Contractor A/S**
+
+他
 
 ## 沿革
 
@@ -62,16 +112,15 @@
   - [2015年](../Page/2015年.md "wikilink")（平成27年）4月 - 株式会社エム・イー・エス由良が川崎重工業との合弁会社となり、MES-KHI由良ドック株式会社に商号変更。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）3月 - 株式会社[加地テック](https://ja.wikipedia.org/wiki/加地テック "wikilink")を連結子会社化。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）4月 - [純粋持株会社化](../Page/持株会社.md "wikilink")、「株式会社三井E\&Sホールディングス」へ社名変更。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）3月 - BCPEプラネットケイマンが実施した[株式公開買付け](../Page/株式公開買付け.md "wikilink")により、昭和飛行機工業がグループから離脱。
 
-## 事業拠点
 
-  - 三井E\&S造船
-      - 玉野艦船工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")玉3丁目1-1
-      - 千葉工場 - [千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")八幡海岸通1
-      - 由良修繕部 - [和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](../Page/由良町.md "wikilink")大字網代193-13
-  - 三井E\&Sマシナリー
-      - 玉野機械工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")玉3丁目1-1
-      - 大分工場 - [大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")日吉原3
+\== 事業拠点 ==
+
+  - 玉野工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")玉
+  - 千葉工場 - [千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")八幡海岸通
+  - 大分工場 - [大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")日吉原
+  - 由良修繕部 - [和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](../Page/由良町.md "wikilink")
 
 ## 主製品
 
@@ -149,25 +198,25 @@
 
 <!-- end list -->
 
-  - 「[赤城山丸](https://ja.wikipedia.org/wiki/赤城山丸 "wikilink")」 - [1924年](../Page/1924年.md "wikilink")（大正13年）竣工\[3\]。日本最初のディーゼル主機の商船
-  - 「太平丸」 - [1928年](../Page/1928年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")3年）竣工\[4\]
-  - 「空知丸」 - [1930年](../Page/1930年.md "wikilink")（昭和5年）竣工\[5\]。[多号作戦](../Page/多号作戦.md "wikilink")参加輸送船中、唯一の残存船
-  - 「吾妻山丸」 - [1933年](../Page/1933年.md "wikilink")（昭和8年）竣工\[6\]。[船舶改善助成施設](https://ja.wikipedia.org/wiki/船舶改善助成施設 "wikilink")適用船\[7\]
-  - 「天城山丸」 - 1933年（昭和8年）竣工\[8\]。船舶改善助成施設適用船\[9\]
-  - 「海平丸」 - [1934年](../Page/1934年.md "wikilink")（昭和9年）竣工\[10\]。船舶改善助成施設適用船\[11\]
-  - 「阿蘇山丸」 - 1934年（昭和9年）竣工\[12\]。船舶改善助成施設適用船\[13\]
-  - 「青葉山丸」 - [1935年](../Page/1935年.md "wikilink")（昭和10年）竣工\[14\]。船舶改善助成施設適用船\[15\]
-  - 「朝日山丸」 - 1935年（昭和10年）竣工\[16\]。船舶改善助成施設適用船\[17\]
-  - 「明石山丸」 - 1935年（昭和10年）竣工\[18\]。船舶改善助成施設適用船\[19\]
-  - 「かんべら丸」 - [1936年](../Page/1936年.md "wikilink")（昭和11年）竣工\[20\]。船舶改善助成施設適用船\[21\]
-  - 「神祥丸」 - 1936年（昭和11年）竣工\[22\]。船舶改善助成施設適用船\[23\]
-  - 「東京丸」 - 1936年（昭和11年）竣工\[24\]。船舶改善助成施設適用船\[25\]
-  - 「[金城山丸](https://ja.wikipedia.org/wiki/金城山丸 "wikilink")」 - 1936年（昭和11年）竣工\[26\]
-  - 「[有馬山丸](https://ja.wikipedia.org/wiki/有馬山丸 "wikilink")」 - [1937年](../Page/1937年.md "wikilink")（昭和12年）竣工\[27\]。船舶改善助成施設適用船\[28\]
-  - 「浅香山丸」 - 1937年（昭和12年）竣工\[29\]
-  - 「熱田山丸」 - 1937年（昭和12年）竣工\[30\]
-  - 「[淡路山丸](https://ja.wikipedia.org/wiki/淡路山丸 "wikilink")」 - [1939年](../Page/1939年.md "wikilink")（昭和14年）竣工\[31\]。[優秀船舶建造助成施設](https://ja.wikipedia.org/wiki/優秀船舶建造助成施設 "wikilink")適用船\[32\]
-  - 「綾戸山丸」 - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）竣工\[33\]
+  - 「[赤城山丸](https://ja.wikipedia.org/wiki/赤城山丸 "wikilink")」 - [1924年](../Page/1924年.md "wikilink")（大正13年）竣工\[2\]。日本最初のディーゼル主機の商船
+  - 「太平丸」 - [1928年](../Page/1928年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")3年）竣工\[3\]
+  - 「空知丸」 - [1930年](../Page/1930年.md "wikilink")（昭和5年）竣工\[4\]。[多号作戦](../Page/多号作戦.md "wikilink")参加輸送船中、唯一の残存船
+  - 「吾妻山丸」 - [1933年](../Page/1933年.md "wikilink")（昭和8年）竣工\[5\]。[船舶改善助成施設](https://ja.wikipedia.org/wiki/船舶改善助成施設 "wikilink")適用船\[6\]
+  - 「天城山丸」 - 1933年（昭和8年）竣工\[7\]。船舶改善助成施設適用船\[8\]
+  - 「海平丸」 - [1934年](../Page/1934年.md "wikilink")（昭和9年）竣工\[9\]。船舶改善助成施設適用船\[10\]
+  - 「阿蘇山丸」 - 1934年（昭和9年）竣工\[11\]。船舶改善助成施設適用船\[12\]
+  - 「青葉山丸」 - [1935年](../Page/1935年.md "wikilink")（昭和10年）竣工\[13\]。船舶改善助成施設適用船\[14\]
+  - 「朝日山丸」 - 1935年（昭和10年）竣工\[15\]。船舶改善助成施設適用船\[16\]
+  - 「明石山丸」 - 1935年（昭和10年）竣工\[17\]。船舶改善助成施設適用船\[18\]
+  - 「かんべら丸」 - [1936年](../Page/1936年.md "wikilink")（昭和11年）竣工\[19\]。船舶改善助成施設適用船\[20\]
+  - 「神祥丸」 - 1936年（昭和11年）竣工\[21\]。船舶改善助成施設適用船\[22\]
+  - 「東京丸」 - 1936年（昭和11年）竣工\[23\]。船舶改善助成施設適用船\[24\]
+  - 「[金城山丸](https://ja.wikipedia.org/wiki/金城山丸 "wikilink")」 - 1936年（昭和11年）竣工\[25\]
+  - 「[有馬山丸](https://ja.wikipedia.org/wiki/有馬山丸 "wikilink")」 - [1937年](../Page/1937年.md "wikilink")（昭和12年）竣工\[26\]。船舶改善助成施設適用船\[27\]
+  - 「浅香山丸」 - 1937年（昭和12年）竣工\[28\]
+  - 「熱田山丸」 - 1937年（昭和12年）竣工\[29\]
+  - 「[淡路山丸](https://ja.wikipedia.org/wiki/淡路山丸 "wikilink")」 - [1939年](../Page/1939年.md "wikilink")（昭和14年）竣工\[30\]。[優秀船舶建造助成施設](https://ja.wikipedia.org/wiki/優秀船舶建造助成施設 "wikilink")適用船\[31\]
+  - 「綾戸山丸」 - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）竣工\[32\]
 
 <!-- end list -->
 
@@ -175,13 +224,13 @@
 
 <!-- end list -->
 
-  - 「山西丸」 - [1931年](../Page/1931年.md "wikilink")（昭和6年）竣工\[34\]
-  - 「山東丸」 - 1931年（昭和6年）竣工\[35\]。太平洋戦争残存船の一隻
-  - 「波上丸」 - 1936年（昭和11年）竣工\[36\]
-  - 「[浮島丸](https://ja.wikipedia.org/wiki/浮島丸_\(特設巡洋艦\) "wikilink")」 - 1937年（昭和12年）竣工\[37\]
-  - 「[報國丸](../Page/報国丸_\(特設巡洋艦\).md "wikilink")」 - [1940年](../Page/1940年.md "wikilink")（昭和15年）竣工\[38\]。優秀船舶建造助成施設適用船\[39\]
-  - 「[愛國丸](../Page/愛国丸_\(特設巡洋艦\).md "wikilink")」 - 1941年（昭和16年）竣工\[40\]。優秀船舶建造助成施設適用船\[41\]
-  - 「[護國丸](https://ja.wikipedia.org/wiki/護国丸_\(特設巡洋艦\) "wikilink")」 - [1942年](../Page/1942年.md "wikilink")（昭和17年）竣工\[42\]。優秀船舶建造助成施設適用船\[43\]
+  - 「山西丸」 - [1931年](../Page/1931年.md "wikilink")（昭和6年）竣工\[33\]
+  - 「山東丸」 - 1931年（昭和6年）竣工\[34\]。太平洋戦争残存船の一隻
+  - 「波上丸」 - 1936年（昭和11年）竣工\[35\]
+  - 「[浮島丸](https://ja.wikipedia.org/wiki/浮島丸_\(特設巡洋艦\) "wikilink")」 - 1937年（昭和12年）竣工\[36\]
+  - 「[報國丸](../Page/報国丸_\(特設巡洋艦\).md "wikilink")」 - [1940年](../Page/1940年.md "wikilink")（昭和15年）竣工\[37\]。優秀船舶建造助成施設適用船\[38\]
+  - 「[愛國丸](../Page/愛国丸_\(特設巡洋艦\).md "wikilink")」 - 1941年（昭和16年）竣工\[39\]。優秀船舶建造助成施設適用船\[40\]
+  - 「[護國丸](https://ja.wikipedia.org/wiki/護国丸_\(特設巡洋艦\) "wikilink")」 - [1942年](../Page/1942年.md "wikilink")（昭和17年）竣工\[41\]。優秀船舶建造助成施設適用船\[42\]
 
 <!-- end list -->
 
@@ -189,8 +238,8 @@
 
 <!-- end list -->
 
-  - 「音羽山丸」 - 1936年（昭和11年）竣工\[44\]
-  - 「御室山丸」 - 1936年（昭和11年）竣工\[45\]。船舶改善助成施設適用船\[46\]
+  - 「音羽山丸」 - 1936年（昭和11年）竣工\[43\]
+  - 「御室山丸」 - 1936年（昭和11年）竣工\[44\]。船舶改善助成施設適用船\[45\]
   - [ULCC](https://ja.wikipedia.org/wiki/ULCC "wikilink")（大型タンカー)「[ベルゲ・エンペラー](https://ja.wikipedia.org/wiki/ベルゲ・エンペラー "wikilink")」 - [1975年](../Page/1975年.md "wikilink")（昭和50年）竣工
   - [ULCC](https://ja.wikipedia.org/wiki/ULCC "wikilink") (大型タンカー)「ベルゲ・エンプレス」‐[1976年](../Page/1976年.md "wikilink")（昭和51年）竣工　ベルゲ・エンペラーの姉妹艦　
   - [VLCC](https://ja.wikipedia.org/wiki/VLCC "wikilink") (大型タンカー)「ベルゲ・ヘレネー」‐[1976年](../Page/1976年.md "wikilink")（昭和51年）現在はFSOに改造された
@@ -204,10 +253,10 @@
 
 <!-- end list -->
 
-  - 1B型：「白根山丸」、「花川丸」、「白金山丸」、「大敬丸」、「夏川丸」、「明隆丸」 - [1943年](../Page/1943年.md "wikilink")（昭和18年）および [1944年](../Page/1944年.md "wikilink")（昭和19年）竣工\[47\]
-  - 2A型：「安土山丸」、「天津山丸」、「加古川丸」、「勝川丸」、「大彰丸」、「大寿丸」、「飛鳥山丸」、「相模川丸」、「大博丸」、「荒尾山丸」、「辰城丸」、「那珂川丸」、「大郁丸」、「[阿里山丸](https://ja.wikipedia.org/wiki/阿里山丸 "wikilink")」、「大敏丸」、「第二宏山丸」、「明精丸」、「阿武隈川丸」、「弥彦丸」、「広長丸」、「英彦丸」、「第一大拓丸」、「向日丸」 - 1944年（昭和19年）および [1945年](../Page/1945年.md "wikilink")（昭和20年）竣工\[48\]
-  - 2A型（タンカー改装）：「大修丸」、「第十五多聞丸」、「延暦丸」、「阿蘇川丸」、「逢坂山丸」、「阿波川丸」、「牡鹿山丸」、「延慶丸」、「大暁丸」、「大江山丸」、「辰洋丸」 - 1944年（昭和19年）竣工\[49\]
-  - 2D型：「琴平山丸」 - 1945年（昭和20年）竣工\[50\]
+  - 1B型：「白根山丸」、「花川丸」、「白金山丸」、「大敬丸」、「夏川丸」、「明隆丸」 - [1943年](../Page/1943年.md "wikilink")（昭和18年）および [1944年](../Page/1944年.md "wikilink")（昭和19年）竣工\[46\]
+  - 2A型：「安土山丸」、「天津山丸」、「加古川丸」、「勝川丸」、「大彰丸」、「大寿丸」、「飛鳥山丸」、「相模川丸」、「大博丸」、「荒尾山丸」、「辰城丸」、「那珂川丸」、「大郁丸」、「[阿里山丸](https://ja.wikipedia.org/wiki/阿里山丸 "wikilink")」、「大敏丸」、「第二宏山丸」、「明精丸」、「阿武隈川丸」、「弥彦丸」、「広長丸」、「英彦丸」、「第一大拓丸」、「向日丸」 - 1944年（昭和19年）および [1945年](../Page/1945年.md "wikilink")（昭和20年）竣工\[47\]
+  - 2A型（タンカー改装）：「大修丸」、「第十五多聞丸」、「延暦丸」、「阿蘇川丸」、「逢坂山丸」、「阿波川丸」、「牡鹿山丸」、「延慶丸」、「大暁丸」、「大江山丸」、「辰洋丸」 - 1944年（昭和19年）竣工\[48\]
+  - 2D型：「琴平山丸」 - 1945年（昭和20年）竣工\[49\]
 
 <!-- end list -->
 
@@ -215,8 +264,8 @@
 
 <!-- end list -->
 
-  - 「[摩耶山丸](https://ja.wikipedia.org/wiki/摩耶山丸 "wikilink")」 - 1942年（昭和17年）竣工\[51\]
-  - 「[玉津丸](https://ja.wikipedia.org/wiki/玉津丸 "wikilink")」 - 1944年（昭和19年）竣工\[52\]
+  - 「[摩耶山丸](https://ja.wikipedia.org/wiki/摩耶山丸 "wikilink")」 - 1942年（昭和17年）竣工\[50\]
+  - 「[玉津丸](https://ja.wikipedia.org/wiki/玉津丸 "wikilink")」 - 1944年（昭和19年）竣工\[51\]
 
 <!-- end list -->
 
@@ -246,9 +295,9 @@
 
 ### 鉄道車両
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")[終戦](../Page/終戦.md "wikilink")後、1946年（昭和21年）5月から政府の[傾斜生産方式](../Page/傾斜生産方式.md "wikilink")に応えるため、三井造船玉野造船所では一時的に[鉄道車両](../Page/鉄道車両.md "wikilink")製造に関わった\[53\]\[54\]。
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")[終戦](../Page/終戦.md "wikilink")後、1946年（昭和21年）5月から政府の[傾斜生産方式](../Page/傾斜生産方式.md "wikilink")に応えるため、三井造船玉野造船所では一時的に[鉄道車両](../Page/鉄道車両.md "wikilink")製造に関わった\[52\]\[53\]。
 
-三井鉱山（現・[日本コークス工業](../Page/日本コークス工業.md "wikilink")）、三菱鉱業（現・[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")）等から[石炭車](../Page/石炭車.md "wikilink")1,000両以上を受注・製造した\[55\]\[56\]。鉄道車両工事も行われ、[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")広島鉄道局・大阪鉄道局、[東京急行電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")（当時は[大東急](../Page/大東急.md "wikilink")時代）から相当量の発注があった\[57\]\[58\]。
+三井鉱山（現・[日本コークス工業](../Page/日本コークス工業.md "wikilink")）、三菱鉱業（現・[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")）等から[石炭車](../Page/石炭車.md "wikilink")1,000両以上を受注・製造した\[54\]\[55\]。鉄道車両工事も行われ、[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")広島鉄道局・大阪鉄道局、[東京急行電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")（当時は[大東急](../Page/大東急.md "wikilink")時代）から相当量の発注があった\[56\]\[57\]。
 
   - 製造例
 
@@ -256,44 +305,11 @@
 
   - 東急デハ5400形→大東急分離後、[京浜急行](../Page/京浜急行電鉄.md "wikilink")[デハ400形（初代）](https://ja.wikipedia.org/wiki/京急300形電車 "wikilink")
 
-車体は造船部門で、機関は造機部門で製造を行った\[59\]\[60\]。専門の車両工場が復旧が進められたため、1948年（昭和23年）をもって鉄道車両事業からは撤退した\[61\]\[62\]。
+車体は造船部門で、機関は造機部門で製造を行った\[58\]\[59\]。専門の車両工場が復旧が進められたため、1948年（昭和23年）をもって鉄道車両事業からは撤退した\[60\]\[61\]。
 
-## 船舶用エンジン
+### 船舶用エンジン
 
-三井造船のエンジン生産拠点は玉野事業所に集約されている\[63\]。大型船舶用エンジンでは国内シェア5割を担い2015年度には貨物船向けを中心に181基のエンジンを製造した\[64\]。過去には1基10万馬力級の船舶用[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")も製造していた時期もあるが\[65\]、2016年時点で主力となっているエンジンは、シリンダー直径50cm、5-6気筒の1万5000-2万馬力のディーゼルエンジンである\[66\]。2017-2019年に[今治造船](../Page/今治造船.md "wikilink")向けの11気筒10万馬力のエンジンを生産するために、35億円をかけて玉野事業所の5面加工機や自動溶接ラインやエンジンの試験運転設備を増強する\[67\]。
-
-## 関連企業
-
-### 連結子会社
-
-  - [三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")- 東証1部上場の子会社
-  - [三井造船特機エンジニアリング](https://ja.wikipedia.org/wiki/三井造船特機エンジニアリング "wikilink")
-  - [MESシッピング](https://ja.wikipedia.org/wiki/MESシッピング "wikilink")
-  - [四国ドック](https://ja.wikipedia.org/wiki/四国ドック "wikilink")
-  - [新潟造船](https://ja.wikipedia.org/wiki/新潟造船 "wikilink")
-  - [三井造船鉄構エンジニアリング](https://ja.wikipedia.org/wiki/三井造船鉄構エンジニアリング "wikilink")
-  - [三井造船マシナリー・サービス](https://ja.wikipedia.org/wiki/三井造船マシナリー・サービス "wikilink")
-  - [三井ミーハナイト・メタル](https://ja.wikipedia.org/wiki/三井ミーハナイト・メタル "wikilink")
-  - [三井E\&Sテクニカルリサーチ](https://ja.wikipedia.org/wiki/三造試験センター "wikilink")
-  - [三井造船](https://ja.wikipedia.org/wiki/三井造船環境エンジニアリング "wikilink")
-  -
-  - 三井E\&S[環境エンジニアリング](https://ja.wikipedia.org/wiki/三井造船環境エンジニアリング "wikilink")
-  - [三井E\&Sプラントエンジニアリング](https://ja.wikipedia.org/wiki/三井造船プラントエンジニアリング "wikilink")
-  - [三井造船昭島研究所](https://ja.wikipedia.org/wiki/三井造船昭島研究所 "wikilink")
-  - [市原グリーン電力](https://ja.wikipedia.org/wiki/市原グリーン電力 "wikilink")
-  - [三井E\&Sシステム技研](https://ja.wikipedia.org/wiki/三井E&Sシステム技研 "wikilink")
-  - [三友不動産](https://ja.wikipedia.org/wiki/三友不動産 "wikilink")
-  - [三幸物流](https://ja.wikipedia.org/wiki/三幸物流 "wikilink")
-  - [昭和飛行機工業](../Page/昭和飛行機工業.md "wikilink") - 東証2部上場の子会社
-  - [MES-KHI由良ドック](https://ja.wikipedia.org/wiki/MES-KHI由良ドック "wikilink") - 川崎重工業との合弁会社
-  - [加地テック](https://ja.wikipedia.org/wiki/加地テック "wikilink") - 東証2部上場の子会社
-  - [ドーピー建設工業](https://ja.wikipedia.org/wiki/ドーピー建設工業 "wikilink")
-
-ほか
-
-### 持分法適用関連会社
-
-  - [三井三池製作所](https://ja.wikipedia.org/wiki/三井三池製作所 "wikilink")
+三井造船のエンジン生産拠点は玉野事業所に集約されている\[62\]。大型船舶用エンジンでは国内シェア5割を担い2015年度には貨物船向けを中心に181基のエンジンを製造した\[63\]。過去には1基10万馬力級の船舶用[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")も製造していた時期もあるが\[64\]、2016年時点で主力となっているエンジンは、シリンダー直径50cm、5-6気筒の1万5000-2万馬力のディーゼルエンジンである\[65\]。2017-2019年に[今治造船](../Page/今治造船.md "wikilink")向けの11気筒10万馬力のエンジンを生産するために、35億円をかけて玉野事業所の5面加工機や自動溶接ラインやエンジンの試験運転設備を増強する\[66\]。
 
 ## 脚注
 
@@ -302,6 +318,8 @@
   -
   -
   -
+  - 三井造船（編）『三井造船株式会社100年史』、三井造船株式会社、2017年。
+
 ## 外部リンク
 
   - [公式サイト](https://www.mes.co.jp/)
@@ -309,12 +327,12 @@
 [Category:1937年設立の企業](https://ja.wikipedia.org/wiki/Category:1937年設立の企業 "wikilink") [Category:1949年上場の企業](https://ja.wikipedia.org/wiki/Category:1949年上場の企業 "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:日本の造船会社](https://ja.wikipedia.org/wiki/Category:日本の造船会社 "wikilink") [Category:日本の海軍工廠と造船所](https://ja.wikipedia.org/wiki/Category:日本の海軍工廠と造船所 "wikilink") [Category:日本の軍需産業](https://ja.wikipedia.org/wiki/Category:日本の軍需産業 "wikilink") [Category:日本の橋梁メーカー](https://ja.wikipedia.org/wiki/Category:日本の橋梁メーカー "wikilink") [Category:三井グループ](https://ja.wikipedia.org/wiki/Category:三井グループ "wikilink")
 
 1.
-2.
-3.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.56
-4.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.57
-5.
-6.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.58
-7.  [\#正岡](https://ja.wikipedia.org/wiki/#正岡 "wikilink") p.22
+2.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.56
+3.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.57
+4.
+5.  [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.58
+6.  [\#正岡](https://ja.wikipedia.org/wiki/#正岡 "wikilink") p.22
+7.
 8.
 9.
 10.
@@ -326,8 +344,8 @@
 16.
 17.
 18.
-19.
-20. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.59
+19. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.59
+20.
 21.
 22.
 23.
@@ -336,11 +354,11 @@
 26.
 27.
 28.
-29.
-30. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.60
+29. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.60
+30.
 31.
-32.
-33. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.61
+32. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.61
+33.
 34.
 35.
 36.
@@ -348,20 +366,20 @@
 38.
 39.
 40.
-41.
-42. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.100
+41. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.100
+42.
 43.
 44.
 45.
-46.
-47. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.101
-48. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") pp.102-103
-49. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.102
-50. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.103
+46. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.101
+47. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") pp.102-103
+48. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.102
+49. [\#三十五年史](https://ja.wikipedia.org/wiki/#三十五年史 "wikilink") p.103
+50.
 51.
-52.
-53. 三井造船株式会社「35年史」。
-54. 三井造船株式会社「三井造船株式会社50年史」103P。
+52. 三井造船株式会社「35年史」。
+53. 三井造船株式会社「三井造船株式会社50年史」103P。
+54.
 55.
 56.
 57.
@@ -373,5 +391,4 @@
 63.
 64.
 65.
-66.
-67. [超大型10万馬力エンジン製造へ　岡山・三井造船玉野が13基受注](http://headlines.yahoo.co.jp/hl?a=20161009-00010002-sanyo-bus_all)　山陽新聞デジタル 2016年10月9日(日)9時41分配信 2016年10月11日閲覧
+66. [超大型10万馬力エンジン製造へ　岡山・三井造船玉野が13基受注](http://headlines.yahoo.co.jp/hl?a=20161009-00010002-sanyo-bus_all)　山陽新聞デジタル 2016年10月9日(日)9時41分配信 2016年10月11日閲覧

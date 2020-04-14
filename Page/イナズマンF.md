@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[イナズマンF](https://ja.wikipedia.org/wiki/イナズマンF)から翻訳されています。
 
 
 『**イナズマンF**』（イナズマン フラッシュ）は、[1974年](../Page/1974年.md "wikilink")（昭和49年）[4月9日](../Page/4月9日.md "wikilink")から同年[9月24日](../Page/9月24日.md "wikilink")まで[NET系列で](../Page/テレビ朝日.md "wikilink")、毎週火曜日19時30分から20時00分に全23話が放送された、NET・[東映](../Page/東映.md "wikilink")制作の[特撮テレビドラマ](../Page/特撮テレビ番組一覧.md "wikilink")。

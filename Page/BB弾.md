@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BB弾](https://ja.wikipedia.org/wiki/BB弾)から翻訳されています。
 
 
 **BB弾**（ビービーだん）は、球形の[遊戯銃](../Page/遊戯銃.md "wikilink")用弾丸。

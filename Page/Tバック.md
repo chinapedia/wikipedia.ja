@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[Tバック](https://ja.wikipedia.org/wiki/Tバック)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Group_of_young_women_in_thong_bikinis_2.jpg "wikilink") **Tバック**（ティーバック、）は、[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")（[尻](../Page/尻.md "wikilink")）を露出した[水着](../Page/水着.md "wikilink")及び[下着](../Page/下着.md "wikilink")（下穿き）の一種で、[和製英語](../Page/和製英語.md "wikilink")である。海外では[ソング](https://ja.wikipedia.org/wiki/ソング_\(下着\) "wikilink")()、[Gストリング](../Page/Gストリング.md "wikilink")()、[タンガ](../Page/タンガ.md "wikilink")()、等に分類されているが、日本では和製英語としてこれらの下着の総称として用いられる。

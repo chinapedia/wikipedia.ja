@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[スタートレックII カーンの逆襲](https://ja.wikipedia.org/wiki/スタートレックII_カーンの逆襲)から翻訳されています。
 
 
 『**スタートレックII カーンの逆襲**』（スタートレックツー カーンのぎゃくしゅう、*Star Trek II: The Wrath of Khan*）は、[1982年](../Page/1982年.md "wikilink")の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")。スタートレック（オリジナルシリーズ）全6作中の2作目である。

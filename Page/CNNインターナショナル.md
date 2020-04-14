@@ -1,4 +1,4 @@
-> この記事は[CNN](https://ja.wikipedia.org/wiki/CNN)から翻訳されています。
+> この記事は[CNNインターナショナル](https://ja.wikipedia.org/wiki/CNNインターナショナル)から翻訳されています。
 
 
 **CNNインターナショナル**（**シー・エヌ・エヌインターナショナル**、英語：**CNN International**）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開局した[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")（Cable News Network）の国際向け[チャンネルである](../Page/チャンネル_\(テレビ放送\).md "wikilink")。

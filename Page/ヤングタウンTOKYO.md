@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[ヤングタウンTOKYO](https://ja.wikipedia.org/wiki/ヤングタウンTOKYO)から翻訳されています。
 
 
 **ヤングタウンTOKYO**（ヤングタウントーキョー、*YOUNG TOWN TOKYO*）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月までの間にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")が毎週土曜日の夜（一部日曜日未明）に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。愛称は「**ヤンタンTOKYO**」。

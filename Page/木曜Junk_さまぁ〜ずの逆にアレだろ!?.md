@@ -1,4 +1,4 @@
-> この記事は[Junk !\?](https://ja.wikipedia.org/wiki/Junk_!\?)から翻訳されています。
+> この記事は[木曜Junk さまぁ〜ずの逆にアレだろ!\?](https://ja.wikipedia.org/wiki/木曜Junk_さまぁ〜ずの逆にアレだろ!\?)から翻訳されています。
 
 
 **木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。

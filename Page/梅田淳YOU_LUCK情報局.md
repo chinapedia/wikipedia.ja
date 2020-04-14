@@ -1,4 +1,4 @@
-> この記事は[YOU LUCK](https://ja.wikipedia.org/wiki/YOU_LUCK)から翻訳されています。
+> この記事は[梅田淳YOU LUCK情報局](https://ja.wikipedia.org/wiki/梅田淳YOU_LUCK情報局)から翻訳されています。
 
 
 **梅田淳 YOU LUCK情報局**（うめだじゅん ユー・ラックじょうほうきょく）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて、2004年10月3日から2005年3月27日に放送していた情報番組。

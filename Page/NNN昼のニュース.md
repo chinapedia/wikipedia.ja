@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース)から翻訳されています。
 
 
 『**NNN昼のニュース**』（エヌエヌエヌ ひるのニュース）は、[日本テレビをはじめとする](../Page/日本テレビ放送網.md "wikilink")[NNN系列で](../Page/日本ニュースネットワーク.md "wikilink")[1974年](../Page/1974年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までにかけて放送されていたお昼の[ニュース](../Page/ニュース.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。

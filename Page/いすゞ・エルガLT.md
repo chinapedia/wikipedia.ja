@@ -1,15 +1,15 @@
-> この記事は[LT](https://ja.wikipedia.org/wiki/LT)から翻訳されています。
+> この記事は[いすゞ・エルガLT](https://ja.wikipedia.org/wiki/いすゞ・エルガLT)から翻訳されています。
 
 
 **エルガLT**は、[ジェイ・バス](../Page/ジェイ・バス.md "wikilink")が製造し、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が販売していた9m大型バス。[2005年](../Page/2005年.md "wikilink")、新短期排出ガス規制に未対応のまま、同社が得意としてきたこのサイズのシティーバスの歴史に幕を下ろした。ここではエルガLT以前のいすゞの9m大型バス、BA系・ECM/EDM・キュービックLT系も同時に紹介する。
 
 ## 9m大型バス
 
-[ba341p.kawasaki.jpg](https://ja.wikipedia.org/wiki/File:ba341p.kawasaki.jpg "fig:ba341p.kawasaki.jpg") [ba351c.r9.jpg](https://ja.wikipedia.org/wiki/File:ba351c.r9.jpg "fig:ba351c.r9.jpg") [thumb](https://ja.wikipedia.org/wiki/画像:BA20-Nara-Kotsu.jpg "wikilink") [BA10-2407291.jpg](https://ja.wikipedia.org/wiki/File:BA10-2407291.jpg "fig:BA10-2407291.jpg") [ba30.kitamura.jpg](https://ja.wikipedia.org/wiki/File:ba30.kitamura.jpg "fig:ba30.kitamura.jpg") [Tokushimabus_ISUZU_BA05N.jpg](https://ja.wikipedia.org/wiki/File:Tokushimabus_ISUZU_BA05N.jpg "fig:Tokushimabus_ISUZU_BA05N.jpg") **9m大型バス**は、路線バスボディの車体幅は大型車と同じ2.5mで全長が中型車並の9mのバスで、大型短尺車や大型ショート車とも言う。エンジンは多くの場合、中型車と共通の物をコンベンショナルな縦置きで搭載し、エルガLTの場合は[エルガミオと同じ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")[6HH1-S型を搭載する](../Page/いすゞ・H系エンジン.md "wikilink")。
+[ba341p.kawasaki.jpg](https://ja.wikipedia.org/wiki/File:ba341p.kawasaki.jpg "fig:ba341p.kawasaki.jpg") [ba351c.r9.jpg](https://ja.wikipedia.org/wiki/File:ba351c.r9.jpg "fig:ba351c.r9.jpg") [thumb](https://ja.wikipedia.org/wiki/画像:BA20-Nara-Kotsu.jpg "wikilink") [BA10-2407291.jpg](https://ja.wikipedia.org/wiki/File:BA10-2407291.jpg "fig:BA10-2407291.jpg") [ba30.kitamura.jpg](https://ja.wikipedia.org/wiki/File:ba30.kitamura.jpg "fig:ba30.kitamura.jpg") [Tokushimabus_ISUZU_BA05N.jpg](https://ja.wikipedia.org/wiki/File:Tokushimabus_ISUZU_BA05N.jpg "fig:Tokushimabus_ISUZU_BA05N.jpg") **9m大型バス**は、路線バスボディの車体幅は大型車と同じ2.5mで全長が中型車並の9mのバスで、大型短尺車や大型ショート車とも言う。エンジンは多くの場合、中型車と共通の物を[RR方式のバスでは一般的な縦置きで搭載し](../Page/後輪駆動.md "wikilink")、エルガLTの場合は[エルガミオと同じ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")[6HH1-S型を搭載する](../Page/いすゞ・H系エンジン.md "wikilink")。
 
 そもそも路線バスは、舗装路がほとんど無い[戦後](../Page/戦後.md "wikilink")しばらくはこのサイズであった（[いすゞ・BX](https://ja.wikipedia.org/wiki/いすゞ・BX "wikilink")参照）。
 
-いすゞ自動車はこのタイプの車両に昔から強く、BA系、ECM/EDMが過去存在した。山間部や狭隘区間では、車幅よりも車体長の制約が強い路線が多く、9m大型バスはそういった路線環境を持つユーザーに好まれた。さらに、厳しい路線環境を持つユーザーには、ナローボディ車が存在した。車体の幅は中型車と同じであるが、大型車用の車体をそのまま狭くした形で、車体断面は中型車とは異なる。またサスペンションや車輪などは大型車と同じものを使う。このナローボディ車は、[1980年代](../Page/1980年代.md "wikilink")中期まで製造された。中型車の性能向上などによりこのナローボディ車は役目を終えた。
+いすゞ自動車はこのタイプの車両に昔から強く、BA系、ECM/EDMが過去存在した。急カーブの多い山間部や狭隘区間では、車幅よりも車体長の制約が強い路線が多く、9m大型バスはそういった路線環境を持つユーザーに好まれた。さらに、厳しい路線環境を持つユーザーには、ナローボディ車が存在した。車体の幅は中型車と同じであるが、大型車用の車体をそのまま狭くした形で、車体断面は中型車とは異なる。またサスペンションや車輪などは大型車と同じものを使う。このナローボディ車は、[1980年代](../Page/1980年代.md "wikilink")中期まで製造された。中型車の性能向上などによりこのナローボディ車は役目を終えた。
 
 また9m大型バスは[教習車](../Page/教習車.md "wikilink")として使われることも多い。エルガLTモデル廃止の大きな理由の一つが、大型2種免許試験の試験車輌が[中型免許制度の新設に伴い](../Page/運転免許.md "wikilink")、11m車に変更されたことである。このため、中型免許制度の新設以前には強い需要のあった教習車は、11mバスが求められるようになり、エルガLTモデル廃止に繋がった。
 

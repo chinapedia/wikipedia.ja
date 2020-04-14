@@ -1,4 +1,4 @@
-> この記事は[ ADV](https://ja.wikipedia.org/wiki/_ADV)から翻訳されています。
+> この記事は[トーネード ADV](https://ja.wikipedia.org/wiki/トーネード_ADV)から翻訳されています。
 
 
 **トーネード ADV**（）は、[トーネード IDSをベースに](../Page/トーネード_IDS.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が開発した[防空戦闘機である](../Page/要撃機.md "wikilink")。

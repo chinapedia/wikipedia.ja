@@ -1,4 +1,4 @@
-> この記事は[Ryu\'s Bar ](https://ja.wikipedia.org/wiki/Ryu\'s_Bar_)から翻訳されています。
+> この記事は[Ryu\'s Bar 気ままにいい夜](https://ja.wikipedia.org/wiki/Ryu\'s_Bar_気ままにいい夜)から翻訳されています。
 
 
 『**Ryu's Bar 気ままにいい夜**』（リュウズバー きままにいいよる）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[毎日放送を制作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")\[1\]\[2\]で放送されていた[トーク番組](../Page/トーク番組.md "wikilink")である。[村上龍](../Page/村上龍.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。[JTの](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")[一社提供](../Page/一社提供.md "wikilink")番組。

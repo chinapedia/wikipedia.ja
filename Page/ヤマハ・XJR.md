@@ -1,4 +1,4 @@
-> この記事は[XJR](https://ja.wikipedia.org/wiki/XJR)から翻訳されています。
+> この記事は[ヤマハ・XJR](https://ja.wikipedia.org/wiki/ヤマハ・XJR)から翻訳されています。
 
 
 **XJR**（エックスジェイアール）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売している[空冷エンジン](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")搭載の[ネイキッドタイプの](../Page/ネイキッド_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されている。

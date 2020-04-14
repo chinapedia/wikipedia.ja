@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK海外ネットワーク](https://ja.wikipedia.org/wiki/NHK海外ネットワーク)から翻訳されています。
 
 
 『**NHK海外ネットワーク**』（エヌエイチケイかいがいネットワーク、英称：**または**\[1\]）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[2003年](../Page/2003年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで放送された日本の国外[ニュース専門番組](../Page/報道番組.md "wikilink")。週に1回、NHKのチャンネルにて放送される。

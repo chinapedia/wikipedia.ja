@@ -1,4 +1,4 @@
-> この記事は[Dolls \(\)](https://ja.wikipedia.org/wiki/Dolls_\(\))から翻訳されています。
+> この記事は[Dolls \(映画\)](https://ja.wikipedia.org/wiki/Dolls_\(映画\))から翻訳されています。
 
 
 『**Dolls**』（ドールズ）は、[北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")監督作品、[2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。配給は[松竹](../Page/松竹.md "wikilink")、製作は[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")他。[第59回ヴェネツィア国際映画祭](https://ja.wikipedia.org/wiki/第59回ヴェネツィア国際映画祭 "wikilink")コンペティション部門正式出品作。

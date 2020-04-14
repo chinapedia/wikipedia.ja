@@ -1,4 +1,4 @@
-> この記事は[NEWS CUBE](https://ja.wikipedia.org/wiki/NEWS_CUBE)から翻訳されています。
+> この記事は[福岡NEWSファイル CUBE](https://ja.wikipedia.org/wiki/福岡NEWSファイル_CUBE)から翻訳されています。
 
 
 『**福岡NEWSファイル CUBE**』（ふくおかニュースファイル キューブ）は、[2005年](../Page/2005年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")から[テレビ西日本](../Page/テレビ西日本.md "wikilink") (TNC) で土曜午前に放送されている、福岡民放局で唯一の[報道系](../Page/報道番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
@@ -13,7 +13,7 @@
 
 エリア内では数少ない大型報道番組であり、放送週に起こった出来事や、今注目されているニュースを調査・取材・分析し、記者や専門家、さらに週替わりのコメンテーターからのコメントで切り込んでいく。硬派な特集を組むケースが多く、内容も幅広い。
 
-  - コーナーは、世の中の動きをじっくりと見つめる特集「CUBEファイル」と、日常生活の中のちょっとした疑問などを取り上げる「気になるチュアブル」が中心。CUBEファイルからTNCの[特別番組](../Page/特別番組.md "wikilink")へと拡大された企画も多い。2019年[7月13日](../Page/7月13日.md "wikilink")の放送から、放送開始700回を記念して[西日本新聞](../Page/西日本新聞.md "wikilink")の取材企画「あなたの特命取材班」との[コラボレーション](../Page/コラボレーション.md "wikilink")企画も展開している\[1\]。
+  - コーナーは、世の中の動きをじっくりと見つめる特集「CUBEファイル」と、日常生活の中のちょっとした疑問などを取り上げる「気になるチュアブル」が中心。CUBEファイルからTNCの[特別番組](../Page/特別番組.md "wikilink")へと拡大された企画も多い。2019年[7月13日](../Page/7月13日.md "wikilink")の放送から、放送開始700回を記念して[西日本新聞](../Page/西日本新聞.md "wikilink")の取材企画「[あなたの特命取材班](../Page/あなたの特命取材班.md "wikilink")」との[コラボレーション](../Page/コラボレーション.md "wikilink")企画も展開している\[1\]。
   - スポーツ情報は[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")関連のものが中心。
   - 天気予報は気象予報士の[手嶋準一](../Page/手嶋準一.md "wikilink")が担当。
   - 以前は、番組ラストに昔の[写真フィルム](../Page/写真フィルム.md "wikilink")から懐かしい[福岡県](../Page/福岡県.md "wikilink")内の風景を見るコーナーや、ヘリコプターで県内の市町村を空撮する企画もあった。
@@ -39,7 +39,7 @@
 ### コメンテーター
 
   - [浜田耕治](https://ja.wikipedia.org/wiki/浜田耕治 "wikilink")（[西日本新聞社](../Page/西日本新聞社.md "wikilink")国際部デスク）
-  - [坂本信博](https://ja.wikipedia.org/wiki/坂本信博 "wikilink")（西日本新聞社クロスメディア報道部デスク）
+  - [坂本信博](../Page/坂本信博.md "wikilink")（[西日本新聞社](../Page/西日本新聞社.md "wikilink")クロスメディア報道部デスク）
   - [鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")（ジャーナリスト）
   - [和栗百恵](https://ja.wikipedia.org/wiki/和栗百恵 "wikilink")（[福岡女子大学](../Page/福岡女子大学.md "wikilink")准教授）
   - [アン・クレシーニ](https://ja.wikipedia.org/wiki/アン・クレシーニ "wikilink")（[北九州市立大学](../Page/北九州市立大学.md "wikilink")准教授）

@@ -1,4 +1,4 @@
-> この記事は[MEGA!!!](https://ja.wikipedia.org/wiki/MEGA!!!)から翻訳されています。
+> この記事は[キャイ〜ン天野ひろゆきのMEGAうま!ラジオバーガー!!](https://ja.wikipedia.org/wiki/キャイ〜ン天野ひろゆきのMEGAうま!ラジオバーガー!!)から翻訳されています。
 
 
 **キャイ〜ン天野ひろゆきのMEGAうま\!ラジオバーガー\!\!**（キャイ〜ンあまのひろゆきのめがうま\!ラジオバーガー\!\!）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - [11月2日](../Page/11月2日.md "wikilink")に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間帯は月曜 - 木曜の22:00 - 24:00。

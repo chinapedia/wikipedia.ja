@@ -1,4 +1,4 @@
-> この記事は[JBC](https://ja.wikipedia.org/wiki/JBC)から翻訳されています。
+> この記事は[JBCスプリント](https://ja.wikipedia.org/wiki/JBCスプリント)から翻訳されています。
 
 
 **JBCスプリント**（ジェイビーシースプリント）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のJBC実行委員会と施行[競馬場](../Page/競馬場.md "wikilink")を管轄する[地方競馬](../Page/地方競馬.md "wikilink")主催者が、各地の競馬場で持ち回り開催する[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[JpnI](https://ja.wikipedia.org/wiki/G1_\(競馬\) "wikilink")）である。[農林水産大臣](../Page/農林水産大臣.md "wikilink")が賞を提供しており、正式名称は「**[農林水産大臣賞典](../Page/農林水産大臣賞典.md "wikilink") JBCスプリント**」と表記される（2018年のみ[JRA](../Page/日本中央競馬会.md "wikilink")[京都競馬場](../Page/京都競馬場.md "wikilink")開催のため、「**農林水産省賞典** JBCスプリント」として施行）。

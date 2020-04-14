@@ -1,7 +1,7 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグの選手契約条件](https://ja.wikipedia.org/wiki/Jリーグの選手契約条件)から翻訳されています。
 
 
-**Jリーグの選手契約条件**（Jリーグのせんしゅけいやくじょうけん）とは、[Jリーグにおけるプロ選手の契約条件のこと](../Page/日本プロサッカーリーグ.md "wikilink")。
+**Jリーグの選手契約条件**（Jリーグのせんしゅけいやくじょうけん）とは、[Jリーグにおける](../Page/日本プロサッカーリーグ.md "wikilink")[プロサッカー選手](https://ja.wikipedia.org/wiki/プロサッカー選手 "wikilink")の契約条件のこと。
 
 ## 概説
 
@@ -9,7 +9,7 @@ Jリーグには、[選手契約に際して大きく](../Page/契約更改.md "
 
 選手の移籍期間はJリーグが定めた期日（基本的に8月の最終金曜日を刻限とする）まで受け付けて、それ以後はシーズン終了まで[レンタルも含め一切の移籍を認めない](https://ja.wikipedia.org/wiki/レンタル移籍 "wikilink")。但しこの間も移籍を伴わない契約の解除決定はできる（解除された選手は次の解禁まで新規の契約はできない）。
 
-以下は基本的に[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")・[J2](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")・[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（4部相当）について記しており、[J3については若干異なるため](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")、[別項にて詳述する](https://ja.wikipedia.org/wiki/#J3での扱い "wikilink")。
+以下は基本的に[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")・[J2](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")・[JFL](../Page/日本フットボールリーグ.md "wikilink")（4部相当）について記しており、[J3については若干異なるため](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")、[別項にて詳述する](https://ja.wikipedia.org/wiki/#J3での扱い "wikilink")。
 
 ## 契約の種別
 
@@ -46,7 +46,7 @@ Jリーグには、[選手契約に際して大きく](../Page/契約更改.md "
 
   - J1…450分（5試合フル出場相当）
   - J2…900分（10試合フル出場相当）
-  - J3・[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")…1350分（15試合フル出場相当）\[2\]
+  - J3・[JFL](../Page/日本フットボールリーグ.md "wikilink")…1350分（15試合フル出場相当）\[2\]
 
 C契約選手がこの条件をクリアした場合はA契約締結の権利を得ることができるが、一旦切り替えるとC契約には戻せない。また4年目以降の選手についてもA契約・B契約のみとなる。
 

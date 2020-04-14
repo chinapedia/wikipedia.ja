@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[グランパスR](https://ja.wikipedia.org/wiki/グランパスR)から翻訳されています。
 
 
 **グランパスR**（グランパスアール）は[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた[名古屋グランパスの応援番組](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")で終了。

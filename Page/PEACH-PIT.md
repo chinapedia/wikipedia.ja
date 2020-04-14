@@ -16,7 +16,8 @@
 
 ## 来歴
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")\[1\] - 「PEACH-PIT」として作品を発表する。
+  - [1996年](../Page/1996年.md "wikilink")\[1\] - 漫画家としての作品を発表する。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")\[2\] - 「PEACH-PIT」として作品を発表する。
   - [2000年](../Page/2000年.md "wikilink") - [ブロッコリー原作のゲーム](../Page/ブロッコリー_\(企業\).md "wikilink")『[プリズムパレット](https://ja.wikipedia.org/wiki/プリズムパレット "wikilink")』のコミカライズ作品の連載を開始し、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")として本格的にプロ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
   - [2001年](../Page/2001年.md "wikilink") - 初のオリジナル長編作となる『[DearS](../Page/DearS.md "wikilink")』の連載を開始（[2005年](../Page/2005年.md "wikilink")完結）。その他、短編作品『みずたま』を執筆。この頃に、ブランドン博士・ディラン教授等の名義を、それぞれ**千道万里**・**えばら渋子**に統一している。
   - [2002年](../Page/2002年.md "wikilink") - 『[Rozen Maiden](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")』『ZOMBIE-LOAN』を立て続けに連載開始、3誌で執筆を掛け持つ。
@@ -38,8 +39,8 @@
 
 | 作品名       | メイン作画 | 掲載誌                                                                                                | 単行本  |
 | --------- | ----- | -------------------------------------------------------------------------------------------------- | ---- |
-| 暁のヴァンピレス  |       | （[一迅社](../Page/一迅社.md "wikilink")）\[2\]                                                            | 既刊2巻 |
-| 清少納言と申します |       | [BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE "wikilink")（[講談社](../Page/講談社.md "wikilink")）\[3\] |      |
+| 暁のヴァンピレス  |       | （[一迅社](../Page/一迅社.md "wikilink")）\[3\]                                                            | 既刊2巻 |
+| 清少納言と申します |       | [BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE "wikilink")（[講談社](../Page/講談社.md "wikilink")）\[4\] | 既刊1巻 |
 
 ### 過去の漫画作品
 
@@ -54,7 +55,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プリズムパレット" title="wikilink">Prism Palette</a>[4]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プリズムパレット" title="wikilink">Prism Palette</a>[5]</p></td>
 <td><p>千道万里</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/電撃コミックガオ!" title="wikilink">電撃コミックガオ!</a>（<a href="../Page/メディアワークス.md" title="wikilink">メディアワークス</a>）</p></td>
 <td><p>全1巻<br />
@@ -87,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ローゼンメイデン" title="wikilink">Rozen Maiden</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローゼンメイデン" title="wikilink">ローゼンメイデン</a>[5]<br />
+<a href="https://ja.wikipedia.org/wiki/ローゼンメイデン" title="wikilink">ローゼンメイデン</a>[6]<br />
 <a href="https://ja.wikipedia.org/wiki/ローゼンメイデン" title="wikilink">ローゼンメイデン</a>0-ゼロ-</p></td>
 <td><p>えばら渋子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コミックバーズ" title="wikilink">コミックバーズ</a>（<a href="../Page/幻冬舎コミックス.md" title="wikilink">幻冬舎コミックス</a>）<br />
@@ -103,7 +104,7 @@
 クギ子ちゃんがいる!</p></td>
 <td><p>千道万里・えばら渋子</p></td>
 <td><p>なかよし（講談社）</p></td>
-<td><p>全3巻[6]、全2巻[7]</p></td>
+<td><p>全3巻[7]、全2巻[8]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/金魚坂上ル" title="wikilink">金魚坂上ル</a></p></td>
@@ -165,7 +166,7 @@
   - 『しゅごキャラ！』のキャラクターの体は主に千道が描いている。『ZOMBIE-LOAN』、『ローゼンメイデン』は千道、えばらがそれぞれまるごと描いている。
   - 2人とも共通して[造形](https://ja.wikipedia.org/wiki/造形 "wikilink")の趣味を持ち、特に[スーパードルフィー](../Page/スーパードルフィー.md "wikilink")が気に入っており、『ローゼンメイデン』のヒロイン、「真紅」・「翠星石」・「蒼星石」・「雛苺」・「水銀燈」は限定発売されている。
   - コンビ名及び旧名は『[ビバリーヒルズ高校白書](../Page/ビバリーヒルズ高校白書.md "wikilink")』に由来している。
-  - 多くの作品が[エブリデイ・マジック](../Page/エブリデイ・マジック.md "wikilink")の要素を持ち、『ローゼンメイデン』や『ZOMBIE-LOAN』での[ラプラスの魔](../Page/ラプラスの悪魔.md "wikilink")・[シュレーディンガーの猫](../Page/シュレーディンガーの猫.md "wikilink")・[アカシックレコード](../Page/アカシックレコード.md "wikilink")などといった哲学的な世界観を持つ専門用語を交えての[精神世界](../Page/精神世界.md "wikilink")の描写や、『DearS』などからも、かなりの[SF的センスをもっていることが窺え](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[人間の尊厳や](../Page/個人の尊厳.md "wikilink")[ジェンダー](../Page/ジェンダー.md "wikilink")を問うような作風がみられる。また、妙に[昭和](../Page/昭和.md "wikilink")的でベタなネーミング（[桜田ジュンや](../Page/桜田淳子.md "wikilink")[ラン・ミキ・スゥ](../Page/キャンディーズ.md "wikilink")）を好む傾向がある。
+  - 多くの作品が[エブリデイ・マジック](../Page/エブリデイ・マジック.md "wikilink")の要素を持ち、『ローゼンメイデン』や『ZOMBIE-LOAN』での[ラプラスの魔](../Page/ラプラスの悪魔.md "wikilink")・[シュレーディンガーの猫](../Page/シュレーディンガーの猫.md "wikilink")・[アカシックレコード](../Page/アカシックレコード.md "wikilink")などといった哲学的な世界観を持つ専門用語を交えての[精神世界](../Page/精神世界.md "wikilink")の描写や、『DearS』などからも、かなりの[SF的センスをもっていることが窺え](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[人間の尊厳や](../Page/個人の尊厳.md "wikilink")[ジェンダー](../Page/ジェンダー.md "wikilink")を問うような作風や過去のしがらみに囚われ対立している2人の異性の間で主人公が苦悩する物語の傾向がみられる。また、妙に[昭和](../Page/昭和.md "wikilink")的でベタなネーミング（[桜田ジュンや](../Page/桜田淳子.md "wikilink")[ラン・ミキ・スゥ](../Page/キャンディーズ.md "wikilink")）を好む傾向がある。
   - [ペンネーム](../Page/ペンネーム.md "wikilink")を和訳すると「もものたね」になる。これは公式サイトや初期作品集の名前などに使われ、本人たちも「ももたね」と称する事があり、ファンからも「ももたね先生」・「桃種先生」と愛称されている。また、最近は『しゅごキャラ\!』の読者（主に小中学生）から「ぴっとっち」や「ピーチャン」とも呼ばれている。
   - 『しゅごキャラ\!』などの単行本の表紙の裏に載っているPEACH-PITの似顔絵の名前はピーチマン（しゅごキャラ\!12巻より）。
   - 2人には[幽霊](../Page/幽霊.md "wikilink")が見えないらしいが、怪談話は大好きである。
@@ -173,7 +174,7 @@
   - [2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には[講談社](../Page/講談社.md "wikilink")の『[なかよし](../Page/なかよし.md "wikilink")』、[集英社](../Page/集英社.md "wikilink")の『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』の連載を急病により休載した。
   - 「第二の[CLAMP](../Page/CLAMP.md "wikilink")」と言われることもあるが、CLAMPが4人の「集団」なのに対し、こちらは2人の「ユニット」である。
   - 2010年9月で漫画家10周年を迎え、本人らのサイトで記念の企画をいくつか行っている。
-  - チャリティ活動にも取り組んでおり、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の被災者を支援する為に他の漫画家と共同で[東日本大震災チャリティ同人誌「pray for Japan」で執筆する](https://ja.wikipedia.org/wiki/東日本大震災チャリティ同人誌「pray_for_Japan」 "wikilink")\[8\]。
+  - チャリティ活動にも取り組んでおり、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の被災者を支援する為に他の漫画家と共同で[東日本大震災チャリティ同人誌「pray for Japan」で執筆する](https://ja.wikipedia.org/wiki/東日本大震災チャリティ同人誌「pray_for_Japan」 "wikilink")\[9\]。
   - [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に行われたあしや人形感謝祭の公式キャラクターを提供している。
 
 ## 関連項目
@@ -198,11 +199,12 @@
 
 [Category:PEACH-PIT](https://ja.wikipedia.org/wiki/Category:PEACH-PIT "wikilink") [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本の女性イラストレーター](https://ja.wikipedia.org/wiki/Category:日本の女性イラストレーター "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:共有筆名](https://ja.wikipedia.org/wiki/Category:共有筆名 "wikilink")
 
-1.  <https://namu.wiki/w/PEACH-PIT>
-2.  同人誌として発表されていた作品を加筆修正し一迅社より商業作品として出版された。
-3.
-4.  原作：[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
-5.  厳密には、『コミックバーズ』掲載分の内容は「Rozen Maiden」と英文字のタイトルであり、読み仮名として片仮名のタイトルが振られている（ただし、単行本の背表紙は片仮名のタイトルが目立つ）。『ヤングジャンプ』掲載分の内容は「ローゼンメイデン」と片仮名のタイトルが正式名である。
-6.  クギ子ちゃん
-7.  クギ子ちゃんがいる\!
-8.  [東日本大震災チャリティ同人誌「pray for Japan」](http://koge.kokage.cc/earthquake/)
+1.
+2.
+3.  同人誌として発表されていた作品を加筆修正し一迅社より商業作品として出版された。
+4.
+5.  原作：[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
+6.  厳密には、『コミックバーズ』掲載分の内容は「Rozen Maiden」と英文字のタイトルであり、読み仮名として片仮名のタイトルが振られている（ただし、単行本の背表紙は片仮名のタイトルが目立つ）。『ヤングジャンプ』掲載分の内容は「ローゼンメイデン」と片仮名のタイトルが正式名である。
+7.  クギ子ちゃん
+8.  クギ子ちゃんがいる\!
+9.  [東日本大震災チャリティ同人誌「pray for Japan」](http://koge.kokage.cc/earthquake/)

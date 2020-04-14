@@ -1,4 +1,4 @@
-> この記事は[ \(PART1\)](https://ja.wikipedia.org/wiki/_\(PART1\))から翻訳されています。
+> この記事は[西部警察 \(PART1\)](https://ja.wikipedia.org/wiki/西部警察_\(PART1\))から翻訳されています。
 
 
 『**西部警察**』（せいぶけいさつ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")。[1979年](../Page/1979年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")～[1982年](../Page/1982年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で[日曜日](../Page/日曜日.md "wikilink")の20:00～20:54に放送された。

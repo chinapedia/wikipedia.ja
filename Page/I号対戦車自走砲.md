@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[I号対戦車自走砲](https://ja.wikipedia.org/wiki/I号対戦車自走砲)から翻訳されています。
 
 
 **I号対戦車自走砲**（1ごうたいせんしゃじそうほう、独：Panzerjäger I）とは、[I号戦車](../Page/I号戦車.md "wikilink")B型を改造したI号4.7cm対戦車自走砲であり、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")軍は数多くの対戦車[自走砲](../Page/自走砲.md "wikilink")を開発したが、その嚆矢となった。

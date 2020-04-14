@@ -1,4 +1,4 @@
-> この記事は[RABCube](https://ja.wikipedia.org/wiki/RABCube)から翻訳されています。
+> この記事は[RABミュージックCube](https://ja.wikipedia.org/wiki/RABミュージックCube)から翻訳されています。
 
 
 **RABミュージックCube**（アールエービー・ミュージック・キューブ）は、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")ラジオで放送されているラジオ番組。2001年ナイターシーズンにスタート。

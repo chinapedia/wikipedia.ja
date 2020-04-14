@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[劇場版美少女戦士セーラームーンR](https://ja.wikipedia.org/wiki/劇場版美少女戦士セーラームーンR)から翻訳されています。
 
 
 『**劇場版美少女戦士セーラームーンR**』（げきじょうばん びしょうじょせんしセーラームーンR）は、[1993年](../Page/1993年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に公開された、『[美少女戦士セーラームーンR](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』の[劇場版アニメ](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。製作は[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。

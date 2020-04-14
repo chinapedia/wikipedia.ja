@@ -1,4 +1,4 @@
-> この記事は[BPS ](https://ja.wikipedia.org/wiki/BPS_)から翻訳されています。
+> この記事は[BPS バトルプログラマーシラセ](https://ja.wikipedia.org/wiki/BPS_バトルプログラマーシラセ)から翻訳されています。
 
 
 『**BPS バトルプログラマーシラセ**』（ビーピーエス バトルプログラマーシラセ）は、[独立UHF局を中心に](../Page/全国独立放送協議会.md "wikilink")[2003年](../Page/2003年.md "wikilink")10月から放送された[AIC制作の](../Page/アニメインターナショナルカンパニー.md "wikilink")[UHFアニメ](../Page/UHFアニメ.md "wikilink")である。なお、「BPS」の表記は、タイトル[ロゴでは](../Page/ロゴタイプ.md "wikilink")「bpS」となっている。

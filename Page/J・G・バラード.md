@@ -1,4 +1,4 @@
-> この記事は[JG](https://ja.wikipedia.org/wiki/JG)から翻訳されています。
+> この記事は[J・G・バラード](https://ja.wikipedia.org/wiki/J・G・バラード)から翻訳されています。
 
 
 **ジェームズ・グレアム・バラード**（James Graham Ballard, [1930年](../Page/1930年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")）は、[上海](../Page/上海市.md "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）生まれの[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。

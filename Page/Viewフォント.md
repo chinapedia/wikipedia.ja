@@ -1,4 +1,4 @@
-> この記事は[View](https://ja.wikipedia.org/wiki/View)から翻訳されています。
+> この記事は[Viewフォント](https://ja.wikipedia.org/wiki/Viewフォント)から翻訳されています。
 
 
 **Viewフォント**（**ビューフォント**）は、株式会社[モリサワ](../Page/モリサワ.md "wikilink")が販売していた[フォント](../Page/フォント.md "wikilink")。[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ATMフォント](https://ja.wikipedia.org/wiki/ATMフォント "wikilink")であり、Windows環境から同社の[Macintosh](../Page/Macintosh.md "wikilink")用[PostScriptフォント](../Page/PostScriptフォント.md "wikilink")を仮想的に使用できる機能をもっていた。

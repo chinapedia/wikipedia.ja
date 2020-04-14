@@ -1,4 +1,4 @@
-> この記事は[IGR](https://ja.wikipedia.org/wiki/IGR)から翻訳されています。
+> この記事は[IGRいわて銀河鉄道](https://ja.wikipedia.org/wiki/IGRいわて銀河鉄道)から翻訳されています。
 
 
 **アイジーアールいわて銀河鉄道株式会社**（アイジーアールいわてぎんがてつどう）は、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")に本社を置く、[第三セクター](../Page/第三セクター.md "wikilink")方式の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")である。[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）から引き継いだ[いわて銀河鉄道線](https://ja.wikipedia.org/wiki/いわて銀河鉄道線 "wikilink")を運営するほか、旅行業や不動産事業も営んでいる。なお、[社名のアイジーアール](https://ja.wikipedia.org/wiki/#社名の由来 "wikilink") (IGR) は「**Iwate Galaxy Railway**」の略であり、Gは「**Ginga**」ではない。

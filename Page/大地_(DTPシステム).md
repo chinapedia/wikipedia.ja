@@ -1,4 +1,4 @@
-> この記事は[ \(DTP\)](https://ja.wikipedia.org/wiki/_\(DTP\))から翻訳されています。
+> この記事は[大地 \(DTPシステム\)](https://ja.wikipedia.org/wiki/大地_\(DTPシステム\))から翻訳されています。
 
 
 **大地**は[ジャストシステム](../Page/ジャストシステム.md "wikilink")が開発・販売していた、大型の[DTP](../Page/DTP.md "wikilink")システム。すでに販売終了している。印刷業界向けに 大地Pro、オフィス向けに 大地Office の2系統が発売されたが、出力環境の違いでみると3システムがある。

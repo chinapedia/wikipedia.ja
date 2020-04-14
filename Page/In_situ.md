@@ -55,6 +55,8 @@
 
 :\* - 「生体内で」
 
+  -
+
   - In situを命名に使用した物
 
 :\*[レーシック](../Page/レーシック.md "wikilink")(正式名称:LASER(-assisted) in situ κερατόμῑλευσις(keratomileusis)) - laserを用いた眼科手術。

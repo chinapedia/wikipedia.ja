@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[トマス・M・ディッシュ](https://ja.wikipedia.org/wiki/トマス・M・ディッシュ)から翻訳されています。
 
 
 **トマス・マイケル・ディッシュ**（**Thomas Michael Disch**、日本語ではトーマスとも、[1940年](../Page/1940年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[詩人](../Page/詩人.md "wikilink")、評論家\[1\]\[2\]\[3\]。1980年に[ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink")、1999年に[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")関連書籍部門を受賞。[星雲賞](../Page/星雲賞.md "wikilink")海外短編部門を2度受賞している。

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウルトラマンA](https://ja.wikipedia.org/wiki/ウルトラマンA)から翻訳されています。
 
 
 『**ウルトラマンA**』（ウルトラマンエース）とは、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")・[TBSが製作した](../Page/TBSテレビ.md "wikilink")[特撮テレビ番組の名称と](../Page/特撮テレビ番組一覧.md "wikilink")、その劇中に登場する巨大[変身ヒーローの呼称である](../Page/変身_\(ヒーロー\).md "wikilink")。[1972年](../Page/1972年.md "wikilink")（昭和47年）[4月7日](../Page/4月7日.md "wikilink")から[1973年](../Page/1973年.md "wikilink")（昭和48年）[3月30日](../Page/3月30日.md "wikilink")まで[TBS系で毎週金曜日](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")19:00 - 19:30に全52話が放送された。

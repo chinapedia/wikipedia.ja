@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[PCオープン・アーキテクチャー推進協議会](https://ja.wikipedia.org/wiki/PCオープン・アーキテクチャー推進協議会)から翻訳されています。
 
 
 **PCオープン・アーキテクチャー推進協議会**(**OADG**)は日本で[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")の普及活動を行った団体である。OADGは、英文表記「The PC Open Architecture Developers' Group」の頭文字である。

@@ -1,4 +1,4 @@
-> この記事は[GTO \(\)](https://ja.wikipedia.org/wiki/GTO_\(\))から翻訳されています。
+> この記事は[GTO \(漫画\)](https://ja.wikipedia.org/wiki/GTO_\(漫画\))から翻訳されています。
 
 
 『**GTO**』（ジーティーオー）は、[藤沢とおる](../Page/藤沢とおる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[講談社](../Page/講談社.md "wikilink")『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』において、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2号から[2002年](../Page/2002年.md "wikilink")9号まで掲載されたのち、[2009年](../Page/2009年.md "wikilink")28号より『**GTO SHONAN 14DAYS**』（ジーティーオー・ショウナン・フォーティーンデイズ）として復活し、2011年42号まで連載された。また、[2012年](../Page/2012年.md "wikilink")30号から44号まで番外編『**[GT-R](https://ja.wikipedia.org/wiki/GT-R_\(漫画\) "wikilink")**』（ジーティー・アール）が連載された。『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』[2014年](../Page/2014年.md "wikilink")20号から『**GTO パラダイス・ロスト**』が連載開始。累計発行部数5000万部。

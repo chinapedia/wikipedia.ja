@@ -1,4 +1,4 @@
-> この記事は[EC \(\)](https://ja.wikipedia.org/wiki/EC_\(\))から翻訳されています。
+> この記事は[EC番号 \(酵素番号\)](https://ja.wikipedia.org/wiki/EC番号_\(酵素番号\))から翻訳されています。
 
 
 EC番号（**酵素番号**、Enzyme Commission numbers）は[酵素](../Page/酵素.md "wikilink")を整理すべく反応形式に従ってECに続く4組の数で表したもの。

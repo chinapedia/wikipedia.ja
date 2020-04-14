@@ -1,4 +1,4 @@
-> この記事は[TO](https://ja.wikipedia.org/wiki/TO)から翻訳されています。
+> この記事は[TO熊カード](https://ja.wikipedia.org/wiki/TO熊カード)から翻訳されています。
 
 
 **TO熊カード** （**ツーユーカード**）は、かつて[熊本市交通局](../Page/熊本市交通局.md "wikilink")の[路面電車](../Page/路面電車.md "wikilink")（熊本市電）、[九州産交バス](../Page/九州産交バス.md "wikilink")・産交バス、[熊本電鉄バス](../Page/熊本電気鉄道.md "wikilink")、[熊本バス](../Page/熊本バス.md "wikilink")、[熊本都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")の各バス路線で相互に利用できた[プリペイドカードである](../Page/乗車カード.md "wikilink")。熊本電鉄の鉄道路線および、高速バス（県外の会社が運行するバス）など一部のバスでは使用できない。

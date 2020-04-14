@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Web日記](https://ja.wikipedia.org/wiki/Web日記)から翻訳されています。
 
 
 **Web日記**（ウェブにっき）は、主に個人が[WWW上で不特定多数に公開する日記の総称](../Page/World_Wide_Web.md "wikilink")。[HTMLや](../Page/HyperText_Markup_Language.md "wikilink")[CGIなどによって動作する日記ツールなどを用いて書かれる](../Page/Common_Gateway_Interface.md "wikilink")。

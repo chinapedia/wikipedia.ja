@@ -1,4 +1,4 @@
-> この記事は[ARMY](https://ja.wikipedia.org/wiki/ARMY)から翻訳されています。
+> この記事は[パイナップルARMY](https://ja.wikipedia.org/wiki/パイナップルARMY)から翻訳されています。
 
 
 『**パイナップルARMY**』（パイナップルアーミー）は、原作[工藤かずや](../Page/工藤かずや.md "wikilink")、作画[浦沢直樹](../Page/浦沢直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[1988年](../Page/1988年.md "wikilink")まで連載\[1\]。単行本は[小学館](../Page/小学館.md "wikilink")[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")版全8巻、文庫版全6巻。

@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[ジェイムズ・ティプトリー・Jr.](https://ja.wikipedia.org/wiki/ジェイムズ・ティプトリー・Jr.)から翻訳されています。
 
 
 **ジェイムズ・ティプトリー・Jr.**（**James Tiptree, Jr.**、女性、[1915年](../Page/1915年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の女流[作家](../Page/作家.md "wikilink")。[SF作家](../Page/SF作家.md "wikilink")。本名はアリス・ブラッドリー・シェルドンで、別ペンネームとして**ラクーナ・シェルドン**（Raccoona Sheldon）。女性であることが世間に知られるようになったのは1977年のことである。

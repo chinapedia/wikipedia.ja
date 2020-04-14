@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[プロジェクトA](https://ja.wikipedia.org/wiki/プロジェクトA)から翻訳されています。
 
 
 『**プロジェクトA**』（原題：A計劃、英語題：Project A）は、[1983年に](../Page/1983年の映画.md "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で公開された[映画](../Page/映画.md "wikilink")。主演、監督、武術指導、脚本を[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")が務めている。

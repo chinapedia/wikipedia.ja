@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[フィリップ・K・ディック](https://ja.wikipedia.org/wiki/フィリップ・K・ディック)から翻訳されています。
 
 
 **フィリップ・キンドレド・ディック**（**Philip Kindred Dick**, [1928年](../Page/1928年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") - [1982年](../Page/1982年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")。
@@ -64,7 +64,7 @@
 
 ### 伝記
 
-ローレンス・スーチンの1989年の伝記『聖なる侵入 フィリップ・K・ディックの生涯』(*Divine Invasions: A Life of Philip K. Dick*　邦訳未) がディックの伝記の決定版とされている\[32\]。
+1989年刊のローレンス・スーチンの伝記『聖なる侵入 フィリップ・K・ディックの生涯』(*Divine Invasions: A Life of Philip K. Dick*　未邦訳) がディックの伝記の決定版とされている\[32\]。
 
 1993年にはフランス人作家[エマニュエル・カレール](https://ja.wikipedia.org/wiki/エマニュエル・カレール "wikilink")が *Je suis vivant et vous êtes morts* を出版。これが2004年 *I Am Alive and You Are Dead: A Journey Into the Mind of Philip K. Dick* として英語に翻訳され出版された。ディックの内面を描いた伝記的小説である\[33\]。そのため、普通の伝記に見られる出典・脚注・索引などがない点が批判された\[34\]\[35\]\[36\]。
 
@@ -372,7 +372,7 @@ Philip K. Dick Society はディックの作品を管理する団体で、友人
 29.
 30.
 31.
-32.  従来、この本の邦訳題とされていた『フィリップ・K・ディック 我が生涯の弁明』はスーチン編の『釈義』を紹介した本である。
+32.  従来、この本の邦訳題とされていた『フィリップ・K・ディック 我が生涯の弁明』アスペクト 2001年は スーチン編の『釈義』を紹介した本である。
 33.
 34.
 35.

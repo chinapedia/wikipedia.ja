@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[タブレットPC](https://ja.wikipedia.org/wiki/タブレットPC)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "wikilink") TC1100シリーズ\]\] **タブレットPC**（英語：tablet PC）とは、2001年に発表された、タッチインターフェースに対応したマイクロソフト社の[Microsoft Windows XP Tablet PC Edition及びその後継OSがインストールされた](../Page/Microsoft_Windows_XP.md "wikilink")[タブレットの一種](../Page/タブレット_\(コンピュータ\).md "wikilink")。

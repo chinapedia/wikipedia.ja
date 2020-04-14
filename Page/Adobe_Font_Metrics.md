@@ -25,7 +25,7 @@ AFMを利用したアプリケーションとしては、DTPソフトの[EDICOLO
 
 ## AFMファイル
 
-AFMファイルの中味自体はシンプル極まりない。内容としては、文字幅、[カーニング](https://ja.wikipedia.org/wiki/カーニング "wikilink")、バウンディング・ボックスなどの情報が[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字列で表記されている。TexにおけるTFMと同様のものである。ここに仮に、「Wikiゴシックｰミディアム」という、Macintosh用、縦組み対応のPostScriptフォントが存在するとして、そのAFMファイルがどのようになるかを示す。
+AFMファイルの中味自体はシンプル極まりない。内容としては、文字幅、[カーニング](https://ja.wikipedia.org/wiki/カーニング "wikilink")、バウンディング・ボックスなどの情報が[ASCII](../Page/ASCII.md "wikilink")文字列で表記されている。TexにおけるTFMと同様のものである。ここに仮に、「Wikiゴシックｰミディアム」という、Macintosh用、縦組み対応のPostScriptフォントが存在するとして、そのAFMファイルがどのようになるかを示す。
 
 `StartFontMetrics 3.0`
 `MetricsSets 0`

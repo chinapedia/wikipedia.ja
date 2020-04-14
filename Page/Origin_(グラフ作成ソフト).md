@@ -1,4 +1,4 @@
-> この記事は[Origin \(\)](https://ja.wikipedia.org/wiki/Origin_\(\))から翻訳されています。
+> この記事は[Origin \(グラフ作成ソフト\)](https://ja.wikipedia.org/wiki/Origin_\(グラフ作成ソフト\))から翻訳されています。
 
 
 **Origin**（オリジン）は、米国 OriginLab Corporation社の[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[グラフ作成](../Page/グラフ作成ソフト.md "wikilink")・データ解析用ソフト。ただし、Macintoshプラットフォームについては、[Parallels Desktop for Mac](../Page/Parallels_Desktop_for_Mac.md "wikilink")、 [VMWar Fusionなどの仮想化ソフトウェアや](../Page/VMware.md "wikilink")[Boot Campなどによる](../Page/Boot_Camp.md "wikilink")[デュアルブートを](../Page/マルチブート.md "wikilink")、公式サポートに取り入れている。日本国内の販売元は株式会社ライトストーン。
@@ -9,7 +9,7 @@
 
 近年のバージョンでは[バッチ処理](../Page/バッチ処理.md "wikilink")のための各種機能が導入され、プログラミングすることなくルーチン的なタスクを一括処理することができるようになった。 それらの機能には、通常の「バッチ処理」の他、カスタム化可能なグラフテンプレート、分析オプションの「テーマ」、データや処理パラメータ変更に伴う自動再計算機能、ワークブック内に一連の操作手順を保存した「分析テンプレート™」などの機能を利用することができる。
 
-データインポート機能としてOriginは、[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink"), [Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink"), [NI TDM](https://ja.wikipedia.org/wiki/National_Instruments "wikilink"), DIADem, [NetCDF](https://ja.wikipedia.org/wiki/NetCDF "wikilink"), [SPCなどのデータフォーマットをサポートしており](https://ja.wikipedia.org/wiki/:en:SPC_file_format "wikilink")、また、[ADO(ActiveX Data Objects)を通じたデータベースアクセスのための組み込みクエリー処理機能も含まれている](https://ja.wikipedia.org/wiki/ActiveX_Data_Objects "wikilink")。グラフエクスポート機能としては、[JPEG](../Page/JPEG.md "wikilink"), [GIF](../Page/Graphics_Interchange_Format.md "wikilink"), [EPS](../Page/Encapsulated_PostScript.md "wikilink"), [TIFFなどのイメージフォーマットをサポートしている](../Page/Tagged_Image_File_Format.md "wikilink")。
+データインポート機能としてOriginは、[ASCII](../Page/ASCII.md "wikilink"), [Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink"), [NI TDM](https://ja.wikipedia.org/wiki/National_Instruments "wikilink"), DIADem, [NetCDF](https://ja.wikipedia.org/wiki/NetCDF "wikilink"), [SPCなどのデータフォーマットをサポートしており](https://ja.wikipedia.org/wiki/:en:SPC_file_format "wikilink")、また、[ADO(ActiveX Data Objects)を通じたデータベースアクセスのための組み込みクエリー処理機能も含まれている](https://ja.wikipedia.org/wiki/ActiveX_Data_Objects "wikilink")。グラフエクスポート機能としては、[JPEG](../Page/JPEG.md "wikilink"), [GIF](../Page/Graphics_Interchange_Format.md "wikilink"), [EPS](../Page/Encapsulated_PostScript.md "wikilink"), [TIFFなどのイメージフォーマットをサポートしている](../Page/Tagged_Image_File_Format.md "wikilink")。
 
 OriginにはLabTalkと呼ばれるスクリプト言語や、OriginCとよばれる[C言語](../Page/C言語.md "wikilink")準拠のプログラミング環境が備わっている。より高機能なバージョンOriginPro \[1\] はさらに高度な解析・統計機能を備える。 また、Origin Viewer\[2\]という無償配布のビューアーソフトウェアがあり、Originのプロジェクトファイル内のデータやグラフなどを閲覧することが可能である。 インターフェイスがやや独特であるが、高機能かつ安定している。日本語の取り扱いにも問題がなく、バージョン9.1より文字ラベル等で[Unicode](../Page/Unicode.md "wikilink")にも対応するようになり、バージョン 2018 (=9.5)より、内部コードレベルで完全にUnicodeベースのソフトとなった。
 

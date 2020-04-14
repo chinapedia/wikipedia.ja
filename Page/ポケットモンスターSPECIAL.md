@@ -1,4 +1,4 @@
-> この記事は[SPECIAL](https://ja.wikipedia.org/wiki/SPECIAL)から翻訳されています。
+> この記事は[ポケットモンスターSPECIAL](https://ja.wikipedia.org/wiki/ポケットモンスターSPECIAL)から翻訳されています。
 
 
 『**ポケットモンスターSPECIAL**』（ポケットモンスタースペシャル）は、[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ポケットモンスター](../Page/ポケットモンスター_\(ゲーム\).md "wikilink")』シリーズを題材とする[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。通称は**ポケSP**、**ポケスペ**など。シナリオ担当者は[日下秀憲](https://ja.wikipedia.org/wiki/日下秀憲 "wikilink")。作画担当者は[真斗](../Page/真斗.md "wikilink")（1 - 9巻）、[山本サトシ](../Page/山本サトシ.md "wikilink")（10巻 - ）。

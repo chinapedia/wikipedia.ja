@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[仮面ライダーX](https://ja.wikipedia.org/wiki/仮面ライダーX)から翻訳されています。
 
 
 |                                                                       |

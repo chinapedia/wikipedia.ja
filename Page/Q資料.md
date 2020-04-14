@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q資料](https://ja.wikipedia.org/wiki/Q資料)から翻訳されています。
 
 
 **Q資料**（Qしりょう）は、[新約聖書](../Page/新約聖書.md "wikilink")の『[マタイによる福音書](../Page/マタイによる福音書.md "wikilink")』および『[ルカによる福音書](../Page/ルカによる福音書.md "wikilink")』の執筆の際に両[福音書](../Page/福音書.md "wikilink")に共通の源泉となったと考えられる**[イエス](https://ja.wikipedia.org/wiki/イエス・キリスト "wikilink")**の言葉資料であり、**仮説上の資料**である。

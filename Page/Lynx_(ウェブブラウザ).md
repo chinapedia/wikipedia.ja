@@ -1,4 +1,4 @@
-> この記事は[Lynx \(\)](https://ja.wikipedia.org/wiki/Lynx_\(\))から翻訳されています。
+> この記事は[Lynx \(ウェブブラウザ\)](https://ja.wikipedia.org/wiki/Lynx_\(ウェブブラウザ\))から翻訳されています。
 
 
 **Lynx**（リンクス）は、[テキストベースの](../Page/キャラクタユーザインタフェース.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である。多くの[Unix系](../Page/Unix系.md "wikilink")OSや [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") (Lynxlet) で動作する。

@@ -1,4 +1,4 @@
-> この記事は[NORI \(\)](https://ja.wikipedia.org/wiki/NORI_\(\))から翻訳されています。
+> この記事は[NORI \(タレント\)](https://ja.wikipedia.org/wiki/NORI_\(タレント\))から翻訳されています。
 
 
 **NORI**（のり、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデル](../Page/モデル_\(職業\).md "wikilink")・[タレント](../Page/タレント.md "wikilink")である。血液型O型、身長178cm。イメージカラーはレッド。

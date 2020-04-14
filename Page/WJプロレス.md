@@ -1,4 +1,4 @@
-> この記事は[WJ](https://ja.wikipedia.org/wiki/WJ)から翻訳されています。
+> この記事は[WJプロレス](https://ja.wikipedia.org/wiki/WJプロレス)から翻訳されています。
 
 
 **WJプロレス**（ダブリュー・ジェー・プロレス、ワールド・ジャパン・プロレス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。運営はファイティング・オブ・ワールド・ジャパン。キャッチフレーズは「目ん玉飛び出るような[ストロングスタイル](../Page/ストロングスタイル.md "wikilink")」。

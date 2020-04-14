@@ -10,7 +10,7 @@
   - [Long Slow Distance](https://ja.wikipedia.org/wiki/Long_Slow_Distance "wikilink") - ごくゆっくりと長い時間をかけて一定距離を走ることにより体質の改善を目指す、[陸上競技](../Page/陸上競技.md "wikilink")[長距離走](../Page/長距離走.md "wikilink")のトレーニング法。
   - Least Significant Digit - 最も小さい桁の数字。最下位桁。
   - Landing Ship, Docks - [ドック型揚陸艦](../Page/ドック型揚陸艦.md "wikilink")、[揚陸艦](../Page/揚陸艦.md "wikilink")。
-  - Librae, Solidi, Denarii - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の旧[通貨](../Page/通貨.md "wikilink")である[ポンド](../Page/ポンド.md "wikilink")、[シリング](../Page/シリング.md "wikilink")、[ペンス](https://ja.wikipedia.org/wiki/ペンス "wikilink")。
+  - Librae, Solidi, Denarii - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の旧[通貨](../Page/通貨.md "wikilink")である[ポンド](../Page/ポンド_\(通貨\).md "wikilink")、[シリング](../Page/シリング.md "wikilink")、[ペンス](https://ja.wikipedia.org/wiki/ペンス "wikilink")。
   - [Local Spin Density](https://ja.wikipedia.org/wiki/LSDA "wikilink") - [量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")における分子の交換相互作用によるエネルギーを求めるときに用いられる近似。
   - [Line Segment Detector](https://ja.wikipedia.org/wiki/Line_Segment_Detector "wikilink") - 画像から線分を検出するアルゴリズム。
 

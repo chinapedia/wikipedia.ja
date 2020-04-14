@@ -1,4 +1,4 @@
-> この記事は[HUNTERHUNTER](https://ja.wikipedia.org/wiki/HUNTERHUNTER)から翻訳されています。
+> この記事は[HUNTER×HUNTER](https://ja.wikipedia.org/wiki/HUNTER×HUNTER)から翻訳されています。
 
 
 『**HUNTER×HUNTER**』（ハンター×ハンター）は、[冨樫義博](https://ja.wikipedia.org/wiki/冨樫義博 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")作品。『**H×H**』と略されることもある\[1\]。

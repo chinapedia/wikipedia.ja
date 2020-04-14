@@ -165,6 +165,7 @@ Amiga OS 4.0の開発は2001年より開始し、当初2002年リリース予定
   - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink") - Amigaを用いて、過去にCG作品・音楽などを製作していた。また、Amiga OS 4.0の起動音「Eastern-boot」を提供。
   - [クーロン黒沢](../Page/クーロン黒沢.md "wikilink")
   - [UAE](https://ja.wikipedia.org/wiki/UAE "wikilink")(Ubiquitous Amiga Emulator)
+  - [Guru Meditation](../Page/Guru_Meditation.md "wikilink")
 
 ## 参照
 

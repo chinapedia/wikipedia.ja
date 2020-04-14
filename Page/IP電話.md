@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IP電話](https://ja.wikipedia.org/wiki/IP電話)から翻訳されています。
 
 
 [Avaya_9640_IP_Deskphone.jpg](https://ja.wikipedia.org/wiki/File:Avaya_9640_IP_Deskphone.jpg "fig:Avaya_9640_IP_Deskphone.jpg") IP電話 9640\]\] **IP電話**（アイピーでんわ）は、広い意味では[電話網](../Page/電話網.md "wikilink")の一部もしくは全てに[VoIP](../Page/VoIP.md "wikilink")技術を利用する[電話](../Page/電話.md "wikilink")サービスである。[音](../Page/音.md "wikilink")声のみのものが多いが、[動画](../Page/動画.md "wikilink")も利用できる[テレビ電話](../Page/テレビ電話.md "wikilink")サービスなども可能である。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[マイケル・J・フォックス](https://ja.wikipedia.org/wiki/マイケル・J・フォックス)から翻訳されています。
 
 
 **マイケル・J・フォックス**, [OC](../Page/カナダ勲章.md "wikilink")（**Michael J. Fox**, [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[アルバータ州](../Page/アルバータ州.md "wikilink")[エドモントン](../Page/エドモントン.md "wikilink")生まれの[俳優](../Page/俳優.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")、[作家](../Page/作家.md "wikilink")。本名はマイケル・アンドリュー・フォックス。俳優になる際に同名俳優が既にいたことから、尊敬する[マイケル・J・ポラード](https://ja.wikipedia.org/wiki/マイケル・J・ポラード "wikilink")にちなみ「J」の字をつけた。

@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ロバート・F・ヤング](https://ja.wikipedia.org/wiki/ロバート・F・ヤング)から翻訳されています。
 
 
 **ロバート・F・ヤング**（Robert Franklin Young、[1915年](../Page/1915年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。叙情的で優しい、気恥ずかしいほどストレートに愛を語るロマンティックな作風が特徴。作風は[ジャック・フィニイ](../Page/ジャック・フィニイ.md "wikilink")\[1\]、[レイ・ブラッドベリ](../Page/レイ・ブラッドベリ.md "wikilink")や[シオドア・スタージョン](../Page/シオドア・スタージョン.md "wikilink")と類比されることもある。

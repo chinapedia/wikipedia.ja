@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[IV号駆逐戦車](https://ja.wikipedia.org/wiki/IV号駆逐戦車)から翻訳されています。
 
 
 **IV号駆逐戦車**（よんごうくちくせんしゃ、**Jagdpanzer IV**）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が[IV号戦車](../Page/IV号戦車.md "wikilink")をベースに開発した[駆逐戦車](../Page/駆逐戦車.md "wikilink")である。[制式番号は](../Page/特殊車輌番号.md "wikilink")**Sd.Kfz.162*および*Sd.Kfz.162/1**である。

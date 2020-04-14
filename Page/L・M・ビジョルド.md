@@ -1,4 +1,4 @@
-> この記事は[LM](https://ja.wikipedia.org/wiki/LM)から翻訳されています。
+> この記事は[L・M・ビジョルド](https://ja.wikipedia.org/wiki/L・M・ビジョルド)から翻訳されています。
 
 
 **ロイス・マクマスター・ビジョルド**（Lois McMaster Bujold, [1949年](../Page/1949年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")、[ファンタジー](../Page/ファンタジー.md "wikilink")作家。[オハイオ州](../Page/オハイオ州.md "wikilink")[コロンバス生まれ](../Page/コロンバス_\(オハイオ州\).md "wikilink")。[ヒューゴー賞 長編小説部門を](../Page/ヒューゴー賞_長編小説部門.md "wikilink")4回受賞しており、[ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")の記録に並んでいる。『[ヴォルコシガン・サガ](https://ja.wikipedia.org/wiki/ヴォルコシガン・サガ "wikilink")』シリーズの『自由軌道』と短編「喪の山」では[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")を受賞。ファンタジーでは[五神教シリーズ](https://ja.wikipedia.org/wiki/五神教シリーズ "wikilink")の評価が高く、『チャリオンの影』では[世界幻想文学大賞](../Page/世界幻想文学大賞.md "wikilink")にノミネートされ、『影の棲む城』では4回目のヒューゴー賞長編小説部門と2回目のネビュラ賞長編小説部門を受賞している。

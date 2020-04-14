@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[機動武闘伝Gガンダム](https://ja.wikipedia.org/wiki/機動武闘伝Gガンダム)から翻訳されています。
 
 
 『**機動武闘伝Gガンダム**』（きどうぶとうでんジーガンダム、*MOBILE FIGHTER G GUNDAM*）は、[サンライズ製作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」の一作。[1994年](../Page/1994年.md "wikilink")（平成6年）[4月22日](../Page/4月22日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[3月31日](../Page/3月31日.md "wikilink")まで全49話が[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で毎週金曜日17時00分 - 17時30分にて放送された。略称は「**Gガン**」。平均視聴率4.1%。最高視聴率7.3%（ガンダムシリーズ歴代6位）。
@@ -830,7 +830,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><a href="../Page/東日本放送.md" title="wikilink">東日本放送</a></p></td>
 <td><p>遅れネット</p></td>
-<td><p>[19]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -843,7 +843,7 @@
 <tr class="odd">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島放送.md" title="wikilink">福島放送</a></p></td>
-<td><p>[20]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -851,14 +851,14 @@
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a></p></td>
 <td><p>本放送終了後の1998年4月頃に<br />
-日曜 6:30 - 7:00にて放送[21]</p></td>
+日曜 6:30 - 7:00にて放送[19]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野朝日放送.md" title="wikilink">長野朝日放送</a></p></td>
-<td><p>[22]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -894,7 +894,7 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a></p></td>
 <td><p>先行放送</p></td>
-<td><p>[23]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -908,7 +908,7 @@
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="../Page/山口朝日放送.md" title="wikilink">山口朝日放送</a></p></td>
 <td><p>遅れネット</p></td>
-<td><p>本放送終了後に放送[24]</p></td>
+<td><p>本放送終了後に放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -923,7 +923,7 @@
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p><a href="../Page/愛媛朝日テレビ.md" title="wikilink">愛媛朝日テレビ</a></p></td>
 <td><p>同時ネット</p></td>
-<td><p>[25]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1033,7 +1033,11 @@
   - 機動武闘伝外伝II
     講談社『コミックボンボン』に連載された、模型を使ったフォトストーリーの第二部。ギアナでのデビルガンダム回収時の戦いによって消息不明になった機動忍軍所属の「不死身のクロウザ」が地下ファイトのファイターとして活躍するところから始まる。
 
-## 出典と脚注
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -1064,10 +1068,4 @@
 16. 『月刊[ガンダムエース](../Page/ガンダムエース.md "wikilink")』2010年8月号ならびに『[機動戦士ガンダム THE ORIGIN](../Page/機動戦士ガンダム_THE_ORIGIN.md "wikilink")』第22巻 p198
 17.
 18. [田口淳之介：「ガンダム大好き」　思い入れあるのは「Gガンダムのドモン」](http://mainichi.jp/articles/20180222/dyo/00m/200/010000c) - 毎日新聞
-19. 水曜17:00 - 17:30に放送していた。
-20. 金曜16:25 - 17:00に放送していた。
-21. 『UX新潟テレビ21 30年史』（2014年3月、新潟テレビ21発行）p103
-22. 木曜17:00 - 17:30に放送していた。
-23. テレビ朝日系列で土曜17時から放送されていた[勇者シリーズ](../Page/勇者シリーズ.md "wikilink")を金曜17時から先行放送していた関係で、当枠は金曜16:25からの先行放送だった。
-24. このうち瀬戸内海放送では、[前作終了時に本作の予告がされたにもかかわらず放送されなかった](../Page/機動戦士Vガンダム.md "wikilink")（代替として[特撮](../Page/特撮.md "wikilink")ドラマ『[特捜ロボ ジャンパーソン](../Page/特捜ロボ_ジャンパーソン.md "wikilink")』を再放送）。
-25. 放送当時サービス放送期間中だった愛媛朝日テレビでは、最終回のみが同時ネットで放送された。
+19. 『UX新潟テレビ21 30年史』（2014年3月、新潟テレビ21発行）p103

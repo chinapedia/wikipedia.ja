@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ジェイムズ・P・ホーガン](https://ja.wikipedia.org/wiki/ジェイムズ・P・ホーガン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:James_P._Hogan_2005.JPG "wikilink") **ジェイムズ・パトリック・ホーガン**（James Patrick Hogan、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")\[1\] - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月12日](../Page/7月12日.md "wikilink")\[2\]\[3\]）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")生まれの[SF作家](../Page/SF作家.md "wikilink")\[4\]。

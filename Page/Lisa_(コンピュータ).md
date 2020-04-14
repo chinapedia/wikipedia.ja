@@ -1,4 +1,4 @@
-> この記事は[Lisa \(\)](https://ja.wikipedia.org/wiki/Lisa_\(\))から翻訳されています。
+> この記事は[Lisa \(コンピュータ\)](https://ja.wikipedia.org/wiki/Lisa_\(コンピュータ\))から翻訳されています。
 
 
 **Lisa**（リサ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[アップルコンピュータが製造](../Page/アップル_\(企業\).md "wikilink")・販売した[オフィス](../Page/オフィス.md "wikilink")向け[16ビット](../Page/16ビット.md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")である。当時としては先進的な[GUI機能と操作性を持っていたが](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、動作の遅さや価格の高さなどの理由で商業的には失敗した。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_Lisa.jpg "wikilink")

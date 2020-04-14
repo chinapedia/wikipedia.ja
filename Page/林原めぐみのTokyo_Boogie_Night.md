@@ -1,4 +1,4 @@
-> この記事は[Tokyo Boogie Night](https://ja.wikipedia.org/wiki/Tokyo_Boogie_Night)から翻訳されています。
+> この記事は[林原めぐみのTokyo Boogie Night](https://ja.wikipedia.org/wiki/林原めぐみのTokyo_Boogie_Night)から翻訳されています。
 
 
 『**林原めぐみのTokyo Boogie Night**』（はやしばらめぐみのとうきょうブギー・ナイト）は、[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[キングレコード](../Page/キングレコード.md "wikilink")製作・[一社提供](../Page/一社提供.md "wikilink")\[1\]の[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。[1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）[4月11日](../Page/4月11日.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送を開始し、[2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に放送1400回を達成した。略称は「TBN」または「ブギーナイト」。「東京ブギーナイト」と表記される場合もある。
@@ -199,7 +199,7 @@
 <!-- end list -->
 
   - [2月7日](../Page/2月7日.md "wikilink")の放送より、[第三クリエイティブ本部と](../Page/キングレコード第三クリエイティブ本部.md "wikilink")[スターチャイルド](../Page/スターチャイルド.md "wikilink")との統合により、提供クレジットが[キングレコード](../Page/キングレコード.md "wikilink")になる。郵便物の宛て先も「[キング アミューズメント クリエイティブ本部](https://ja.wikipedia.org/wiki/キング_アミューズメント_クリエイティブ本部 "wikilink")」宛に変更された。これによって、オープニングとエンディングにおける堀内賢雄による提供読みナレーションから「**スターチャイルド**」の用語がアナウンスされなくなった。なお、2016年3月6日放送分において、ハガキの宛先の記述が「**KAC本部 めぐみのTBN**」でもハガキが届くことが証明されている。
-  - [7月2日](../Page/7月2日.md "wikilink")、公式ブログにて2016年の「第24回 参議院議員通常選挙」における番組休止措置として、キー局であるTBSラジオでは7月10日放送分（ゲストは[水樹奈々](../Page/水樹奈々.md "wikilink")）を1週間遅れの7月17日の24:00からに、本来の7月17日放送分を4日後の7月21日の20:00からに、それぞれ日時変更することで対応することを発表\[14\]\[15\]。当番組は通常、TBSラジオでは単に「放送休止・[代替放送](https://ja.wikipedia.org/wiki/代替放送 "wikilink")なし（事実上の裏送り）」となるため（[\#放送回数について](https://ja.wikipedia.org/wiki/#放送回数について "wikilink")を参照）、日時を変更して代替放送をすることは極めて稀である（他の放送局では日時変更で対応することはよくあった）。また、TBSラジオにおける放送が深夜以外の時間帯で放送されるのも極めて稀である。
+  - [7月2日](../Page/7月2日.md "wikilink")、公式ブログにて2016年の「第24回参議院議員通常選挙」における番組休止措置として、キー局であるTBSラジオでは7月10日放送分（ゲストは[水樹奈々](../Page/水樹奈々.md "wikilink")）を1週間遅れの7月17日の24:00からに、本来の7月17日放送分を4日後の7月21日の20:00からに、それぞれ日時変更することで対応することを発表\[14\]\[15\]。当番組は通常、TBSラジオでは単に「放送休止・[代替放送](https://ja.wikipedia.org/wiki/代替放送 "wikilink")なし（事実上の裏送り）」となるため（[\#放送回数について](https://ja.wikipedia.org/wiki/#放送回数について "wikilink")を参照）、日時を変更して代替放送をすることは極めて稀である（他の放送局では日時変更で対応することはよくあった）。また、TBSラジオにおける放送が深夜以外の時間帯で放送されるのも極めて稀である。
   - [9月11日](../Page/9月11日.md "wikilink")放送分（第1272回）にて、10月より地上波は[TBSラジオ](../Page/TBSラジオ.md "wikilink")と[ラジオ関西](../Page/ラジオ関西.md "wikilink")の2局のみの放送となり、この2局以外はTBSラジオに次ぐ最古参の放送局である[東海ラジオをはじめとする全ての放送局で放送を終了することが発表された](../Page/東海ラジオ放送.md "wikilink")。その補完対応として新たにWEB配信がスタートする旨が合わせて発表された。地上波放送の翌週火曜に林原のアーティストサイト『[MEGUMI HOUSE](http://king-cr.jp/artist/hayashi/index.html)』と『[ラジオ関西 アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")』のインターネットラジオ『別冊ラジ関』にてWEB配信され、パソコンの他、スマートフォンなどでも聴取可能となった。
   - [9月24日](../Page/9月24日.md "wikilink")の放送を以って[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")・[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")で放送を終了。
   - [9月25日](../Page/9月25日.md "wikilink")の放送を以って[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[東北放送](../Page/東北放送.md "wikilink")・[中国放送](../Page/中国放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[ラジオ福島](../Page/ラジオ福島.md "wikilink")で放送を終了。
@@ -210,7 +210,7 @@
 **[2017年](../Page/2017年.md "wikilink")（平成29年）**
 
   - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")・[26日の放送で](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、放送回数1300回を達成。
-  - [10月22日](../Page/10月22日.md "wikilink")放送予定分が特別番組編成（選挙速報）により、TBSラジオは放送中止\[18\]。[ラジオ関西](../Page/ラジオ関西.md "wikilink")のWEB配信『別冊ラジ関』が終了し、『[ニコニコ動画](../Page/ニコニコ動画.md "wikilink") アニたまどっとコムチャンネル』に移行された。
+  - [10月22日](../Page/10月22日.md "wikilink")放送予定分が「第48回衆議院議員総選挙」の開票特番により、TBSラジオは放送中止\[18\]。[ラジオ関西](../Page/ラジオ関西.md "wikilink")のWEB配信『別冊ラジ関』が終了し、『[ニコニコ動画](../Page/ニコニコ動画.md "wikilink") アニたまどっとコムチャンネル』に移行された。
   - [12月31日](../Page/12月31日.md "wikilink")のTBSラジオ放送分が大晦日特番により通常より30分遅い24:30 - 25:00枠での放送となった。計画遅延放送は2014年10月26日放送分以来、約3年2ヶ月ぶり。
 
 **[2018年](../Page/2018年.md "wikilink")（平成30年）**

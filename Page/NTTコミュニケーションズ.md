@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTコミュニケーションズ)から翻訳されています。
 
 
 [`thumb`](https://ja.wikipedia.org/wiki/ファイル:Shiodome_Building2.JPG "wikilink")`]]`
@@ -136,7 +136,7 @@ HPドメインは、発足当初は**ntt-c.co.jp**を利用していたが、NTT
       - 課金・決済
       - クラウドマイグレーション
   - [データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")
-      - [Nexcenter](http://www.ntt.com/nexcenter_j/)（ハウジング\[コロケーション\]）
+      - [Nexcenter](https://www.ntt.com/business/services/data-center/colocation/nexcenter.html)（ハウジング\[コロケーション\]）
   - ネットワーク
       - VPN・専用線等
           - Arcstar Universal One（アークスターユニバーサルワン）
@@ -180,9 +180,9 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
   - 国内
       - [エヌ・ティ・ティ国際通信](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ国際通信 "wikilink")株式会社
       - [NTTコム エンジニアリング](https://ja.wikipedia.org/wiki/NTTコム_エンジニアリング "wikilink")（株）
-      - [エヌ・ティ・ティ・コム チェオ（株）](http://www.nttcheo.com/)
+      - [エヌ・ティ・ティ・コム チェオ（株）](https://www.nttcheo.com/)
       - [NTTコム ソリューションズ](https://ja.wikipedia.org/wiki/NTTコム_ソリューションズ "wikilink")（株）
-      - [NTTコム マーケティング（株）](http://www.nttcmk.com/)
+      - [NTTコム マーケティング（株）](https://www.nttcmk.com/)
       - NTTスマートトレード（株）
       - [NTTコム オンライン・マーケティング・ソリューション](https://ja.wikipedia.org/wiki/NTTコム_オンライン・マーケティング・ソリューション "wikilink")（株）
       - [（株）エヌ・ティ・ティピー・シーコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")
@@ -190,7 +190,7 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
       - [（株）NTTぷらら](../Page/ぷらら.md "wikilink")
       - [エヌ・ティ・ティ・レゾナント（株）](../Page/NTTレゾナント.md "wikilink")
       - [エヌ・ティ・ティ・ワールドエンジニアリングマリン](https://ja.wikipedia.org/wiki/NTTワールドエンジニアリングマリン "wikilink")（株）
-      - [(株) クロスリスティング](http://www.xlisting.co.jp/)
+      - [(株) クロスリスティング](https://www.xlisting.co.jp/index.html)
       - （株）エヌ・ティ・ティ・イフ
 
 <!-- end list -->

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[Cフォント](https://ja.wikipedia.org/wiki/Cフォント)から翻訳されています。
 
 
 **Cフォント**は、[写研](../Page/写研.md "wikilink")の専用[組版](../Page/組版.md "wikilink")機で使用される[フォント](../Page/フォント.md "wikilink")形式。**C**は**C**ontour（輪郭）を意味する。文字の輪郭を[スプライン関数](https://ja.wikipedia.org/wiki/スプライン関数 "wikilink")の情報として持ち、拡大しても綺麗な文字が表示できる。文字のランの差分を情報として持つ[Dフォント](https://ja.wikipedia.org/wiki/Dフォント "wikilink")の後継として開発され、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に発表された日本初のアウトラインフォント。

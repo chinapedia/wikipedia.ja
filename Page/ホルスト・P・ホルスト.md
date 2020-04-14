@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ホルスト・P・ホルスト](https://ja.wikipedia.org/wiki/ホルスト・P・ホルスト)から翻訳されています。
 
 
 **ホルスト・P・ホルスト**（**Horst P. Horst**, **Horst Paul Albert Bohrmann**, [1906年](../Page/1906年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")）は、戦間期[ファッション写真](../Page/ファッション写真.md "wikilink")の完成者。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身で、のち[アメリカで活躍した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。雑誌『[ヴォーグ](../Page/ヴォーグ_\(雑誌\).md "wikilink")』などでの活躍で知られる。第一流のモデルを完璧に構成されたスタジオで撮影するというスタイルを完成させた。

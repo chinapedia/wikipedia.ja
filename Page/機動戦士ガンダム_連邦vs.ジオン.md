@@ -1,4 +1,4 @@
-> この記事は[ vs.](https://ja.wikipedia.org/wiki/_vs.)から翻訳されています。
+> この記事は[機動戦士ガンダム 連邦vs.ジオン](https://ja.wikipedia.org/wiki/機動戦士ガンダム_連邦vs.ジオン)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[ \(SF\)](https://ja.wikipedia.org/wiki/_\(SF\))から翻訳されています。
+> この記事は[ニュー・ウェーブ \(SF\)](https://ja.wikipedia.org/wiki/ニュー・ウェーブ_\(SF\))から翻訳されています。
 
 
 [SFにおける](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")**ニューウェーブ（新しい波）**運動は、[1960年代](../Page/1960年代.md "wikilink")に発生し、[1970年代](../Page/1970年代.md "wikilink")にかけて文学的、芸術的な形式と内容において実験的な作品を生み出した。その主張は運動を主導した一人である[J・G・バラード](../Page/J・G・バラード.md "wikilink")による「SFは外宇宙より内宇宙をめざすべきだ」に特徴づけられる。

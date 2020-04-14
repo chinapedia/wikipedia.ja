@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[アリスSOS](https://ja.wikipedia.org/wiki/アリスSOS)から翻訳されています。
 
 
 『**アリスSOS**』（アリス エスオーエス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に『[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")』 ([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")) の枠内で放送された日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

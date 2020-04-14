@@ -239,6 +239,7 @@ BIM
   - [インダストリアルデザイン](../Page/インダストリアルデザイン.md "wikilink")
   - [プロダクトデザイン](https://ja.wikipedia.org/wiki/プロダクトデザイン "wikilink")
   - [ラピッドプロトタイピング](../Page/ラピッドプロトタイピング.md "wikilink")
+  - [ベクター画像](https://ja.wikipedia.org/wiki/ベクター画像 "wikilink") - [コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")はベクタ形式と[ラスタ形式に大別されるが](../Page/ビットマップ画像.md "wikilink")、CADはベクタ形式である。
 
 [Category:CAD](https://ja.wikipedia.org/wiki/Category:CAD "wikilink") [Category:製造](https://ja.wikipedia.org/wiki/Category:製造 "wikilink") [Category:コンピュータの利用](https://ja.wikipedia.org/wiki/Category:コンピュータの利用 "wikilink") [Category:コンピュータグラフィックス](https://ja.wikipedia.org/wiki/Category:コンピュータグラフィックス "wikilink") [Category:プロダクトデザイン](https://ja.wikipedia.org/wiki/Category:プロダクトデザイン "wikilink") [Category:アクロニム](https://ja.wikipedia.org/wiki/Category:アクロニム "wikilink")
 

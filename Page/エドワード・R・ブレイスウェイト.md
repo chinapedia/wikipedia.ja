@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[エドワード・R・ブレイスウェイト](https://ja.wikipedia.org/wiki/エドワード・R・ブレイスウェイト)から翻訳されています。
 
 
 '''エドワード・リカルド・ブレイスウェイト '''（Edward Ricardo Braithwaite、[1912年](../Page/1912年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")\[1\]）は、[ガイアナ](https://ja.wikipedia.org/wiki/ガイアナ "wikilink")・[ジョージタウン出身の](../Page/ジョージタウン_\(ガイアナ\).md "wikilink")[小説家](../Page/小説家.md "wikilink")、作家、教師で外交官。彼は、黒人に対する社会的な状況や人種差別をテーマにした一連の作品でよく知られている。

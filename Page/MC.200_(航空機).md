@@ -1,4 +1,4 @@
-> この記事は[MC.200 \(\)](https://ja.wikipedia.org/wiki/MC.200_\(\))から翻訳されています。
+> この記事は[MC.200 \(航空機\)](https://ja.wikipedia.org/wiki/MC.200_\(航空機\))から翻訳されています。
 
 
 **MC.200**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の直前から大戦中にかけて[イタリア](../Page/イタリア.md "wikilink")で生産された単座の[戦闘機](../Page/戦闘機.md "wikilink")である。愛称は"サエッタ"（Saetta：[稲妻](https://ja.wikipedia.org/wiki/稲妻 "wikilink")、[矢](../Page/矢.md "wikilink")の意）

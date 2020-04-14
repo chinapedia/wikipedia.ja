@@ -1,4 +1,4 @@
-> この記事は[View \(\)](https://ja.wikipedia.org/wiki/View_\(\))から翻訳されています。
+> この記事は[View \(曲\)](https://ja.wikipedia.org/wiki/View_\(曲\))から翻訳されています。
 
 
 「**view**」（ビュー）は、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に発売した一枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

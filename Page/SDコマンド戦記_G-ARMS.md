@@ -1,4 +1,4 @@
-> この記事は[SD G-ARMS](https://ja.wikipedia.org/wiki/SD_G-ARMS)から翻訳されています。
+> この記事は[SDコマンド戦記 G-ARMS](https://ja.wikipedia.org/wiki/SDコマンド戦記_G-ARMS)から翻訳されています。
 
 
 |                                                    |

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[RPG福袋](https://ja.wikipedia.org/wiki/RPG福袋)から翻訳されています。
 
 
 **RPG福袋**（アールピージーふくぶくろ）とは、[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発売していた[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の[オムニバス](../Page/オムニバス.md "wikilink")作品集。ここではその後継である[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")の『**TRPGスーパーセッション大饗宴**』についても併せて解説する。

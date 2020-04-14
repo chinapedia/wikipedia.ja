@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBCラジオ岐阜中継局](https://ja.wikipedia.org/wiki/CBCラジオ岐阜中継局)から翻訳されています。
 
 
 [CBCradio-gifu-transmission-station.jpg](https://ja.wikipedia.org/wiki/File:CBCradio-gifu-transmission-station.jpg "fig:CBCradio-gifu-transmission-station.jpg")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")）より望む（2018年3月）\]\] **CBCラジオ岐阜中継局**（シービーシーラジオぎふちゅうけいきょく）は、かつて存在した[CBCラジオ](../Page/CBCラジオ.md "wikilink")の[中継局](../Page/中継局.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[テスタメント \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/テスタメント_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **テスタメント**（*TESTAMENT*）は、2D格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。

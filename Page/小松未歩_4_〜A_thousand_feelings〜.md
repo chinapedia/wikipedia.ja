@@ -1,4 +1,4 @@
-> この記事は[ 4 A thousand feelings](https://ja.wikipedia.org/wiki/_4_A_thousand_feelings)から翻訳されています。
+> この記事は[小松未歩 4 〜A thousand feelings〜](https://ja.wikipedia.org/wiki/小松未歩_4_〜A_thousand_feelings〜)から翻訳されています。
 
 
 『**小松未歩 4 〜A thousand feelings〜**』（こまつみほ フォー ア サウザンド フィーリングズ）は、[小松未歩](../Page/小松未歩.md "wikilink")の4枚目のアルバム。2001年3月7日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-1064。

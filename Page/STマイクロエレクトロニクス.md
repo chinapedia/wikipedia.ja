@@ -1,4 +1,4 @@
-> この記事は[ST](https://ja.wikipedia.org/wiki/ST)から翻訳されています。
+> この記事は[STマイクロエレクトロニクス](https://ja.wikipedia.org/wiki/STマイクロエレクトロニクス)から翻訳されています。
 
 
 **STマイクロエレクトロニクス**（エス・ティー・マイクロエレクトロニクス、）は、[半導体](../Page/半導体.md "wikilink")の製造・販売を行う多国籍[企業](../Page/企業.md "wikilink")。[スイス](../Page/スイス.md "wikilink")・[ジュネーヴ](../Page/ジュネーヴ.md "wikilink")に本社を置き（法人登記は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")）、世界35カ国に拠点を持つ。日本法人は、エス・ティー・マイクロエレクトロニクス株式会社。

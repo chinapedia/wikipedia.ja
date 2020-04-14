@@ -1,4 +1,4 @@
-> この記事は[PPG](https://ja.wikipedia.org/wiki/PPG)から翻訳されています。
+> この記事は[PPGインダストリーズ](https://ja.wikipedia.org/wiki/PPGインダストリーズ)から翻訳されています。
 
 
 **PPGインダストリーズ**（PPG Industries）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[化学](../Page/化学.md "wikilink")メーカーの一つで、本社は[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")にある。[1883年](../Page/1883年.md "wikilink")に創業した**ピッツバーグ板ガラス**（Pittsburgh Plate Glass Co.）が前身。

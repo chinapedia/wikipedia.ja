@@ -1,4 +1,4 @@
-> この記事は[Perfect Crime \(\)](https://ja.wikipedia.org/wiki/Perfect_Crime_\(\))から翻訳されています。
+> この記事は[Perfect Crime \(アルバム\)](https://ja.wikipedia.org/wiki/Perfect_Crime_\(アルバム\))から翻訳されています。
 
 
 『**Perfect Crime**』（パーフェクト・クライム）は、[2001年](../Page/2001年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")に発売された[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の2ndアルバム。

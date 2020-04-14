@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[ヴィデヲ・DE・リサイタル](https://ja.wikipedia.org/wiki/ヴィデヲ・DE・リサイタル)から翻訳されています。
 
 
 『**ヴィデヲ・DE・リサイタル**』（ヴィデヲ・デ・リサイタル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")2枚目の[DVD](../Page/DVD.md "wikilink")。

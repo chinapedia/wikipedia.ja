@@ -1,4 +1,4 @@
-> この記事は[CCTV](https://ja.wikipedia.org/wiki/CCTV)から翻訳されています。
+> この記事は[CCTV杯中国囲棋電視快棋戦](https://ja.wikipedia.org/wiki/CCTV杯中国囲棋電視快棋戦)から翻訳されています。
 
 
 **CCTV杯中国囲棋電視快棋戦**（CCTVはいちゅうごくいきでんしかいきせん、CCTV杯中国围棋電視快棋戦）は、[中国の](../Page/中華人民共和国.md "wikilink")[囲碁](../Page/囲碁.md "wikilink")の[早碁](../Page/早指し.md "wikilink")[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1988年に開始。

@@ -1,4 +1,4 @@
-> この記事は[G.50 \(\)](https://ja.wikipedia.org/wiki/G.50_\(\))から翻訳されています。
+> この記事は[G.50 \(航空機\)](https://ja.wikipedia.org/wiki/G.50_\(航空機\))から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:FIAT_G.50.jpg "wikilink") **Fiat G.50**は第二次世界大戦直前から第二次世界大戦中にかけて[イタリア](../Page/イタリア.md "wikilink")で生産された全金属製・単発単葉の単座[戦闘機](../Page/戦闘機.md "wikilink")である。

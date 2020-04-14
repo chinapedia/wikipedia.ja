@@ -1,4 +1,4 @@
-> この記事は[NATURAL \(T-SQUARE\)](https://ja.wikipedia.org/wiki/NATURAL_\(T-SQUARE\))から翻訳されています。
+> この記事は[NATURAL \(T-SQUAREのアルバム\)](https://ja.wikipedia.org/wiki/NATURAL_\(T-SQUAREのアルバム\))から翻訳されています。
 
 
 『**NATURAL**』（ナチュラル）は、[T-SQUARE](../Page/T-SQUARE.md "wikilink")の15枚目の[アルバム](../Page/アルバム.md "wikilink")である。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた。

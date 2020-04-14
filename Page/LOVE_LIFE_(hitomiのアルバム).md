@@ -1,4 +1,4 @@
-> この記事は[LOVE LIFE \(hitomi\)](https://ja.wikipedia.org/wiki/LOVE_LIFE_\(hitomi\))から翻訳されています。
+> この記事は[LOVE LIFE \(hitomiのアルバム\)](https://ja.wikipedia.org/wiki/LOVE_LIFE_\(hitomiのアルバム\))から翻訳されています。
 
 
 『**LOVE LIFE**』（ラブ ライフ）は、[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に発売された[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の5thオリジナルアルバム。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

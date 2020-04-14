@@ -7,11 +7,11 @@
 
 後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行。
 
-タイトルに含まれる**TV Style**とは、テレビ出演の際などに使われる、オリジナル音源からメイン・ボーカルのみを抜き出したいわゆる「カラオケ」バージョンのことである。38thシングル「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」初回盤収録の4th beat「愛のバクダン（TV STYLE）」も同じである。
+タイトルに含まれる**TV Style**とは、テレビ出演の際などに使われる、オリジナル音源からメイン・ボーカルのみを抜き出したいわゆる「カラオケ」バージョンのことである。38thシングル『[愛のバクダン](../Page/愛のバクダン.md "wikilink")』初回盤収録の4th beat「愛のバクダン（TV STYLE）」も同じである。
 
 付属しているブックレット（歌詞カード）には、公式CDであるにもかかわらず、B'z本人たちの写真は記載されず、本人達のシルエットのみが映っている。裏ジャケットに使われている写真は、アルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』の裏ジャケットからの流用で、表情が判らないように陰影を濃く加工されている。
 
-また、歌詞カードの最後のページには、B'zの9thシングル「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」までのDISCOGRAPHYが記載されている。
+また、歌詞カードの最後のページには、B'zの9thシングル『[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")』までのDISCOGRAPHYが記載されている。
 
 同時発売として、[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")&[Mi-Ke](../Page/Mi-Ke.md "wikilink")による同名のカラオケアルバムも発売されており、規格品番がBV(M)CK-5001で採番されている。本作品は、BV(M)CK-5002が採番されている。
 
@@ -33,6 +33,10 @@
 12. **[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")** (4:21)
 13. **[孤独のRunaway](../Page/MARS_\(B'zのアルバム\).md "wikilink")** (5:03)
 14. **[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")** (5:58)
+
+## 脚注
+
+### 出典
 
 ## 関連項目
 

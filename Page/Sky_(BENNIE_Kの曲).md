@@ -1,4 +1,4 @@
-> この記事は[Sky \(BENNIE K\)](https://ja.wikipedia.org/wiki/Sky_\(BENNIE_K\))から翻訳されています。
+> この記事は[Sky \(BENNIE Kの曲\)](https://ja.wikipedia.org/wiki/Sky_\(BENNIE_Kの曲\))から翻訳されています。
 
 
 「**Sky**」（スカイ）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売。

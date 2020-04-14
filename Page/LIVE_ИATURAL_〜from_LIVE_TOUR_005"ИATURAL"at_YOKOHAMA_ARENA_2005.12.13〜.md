@@ -1,4 +1,4 @@
-> この記事は[LIVE ATURAL from LIVE TOUR 005ATURALat YOKOHAMA ARENA 2005.12.13](https://ja.wikipedia.org/wiki/LIVE_ATURAL_from_LIVE_TOUR_005ATURALat_YOKOHAMA_ARENA_2005.12.13)から翻訳されています。
+> この記事は[LIVE ИATURAL 〜from LIVE TOUR 005ИATURALat YOKOHAMA ARENA 2005.12.13〜](https://ja.wikipedia.org/wiki/LIVE_ИATURAL_〜from_LIVE_TOUR_005ИATURALat_YOKOHAMA_ARENA_2005.12.13〜)から翻訳されています。
 
 
 『**LIVE ИATURAL 〜from LIVE TOUR 005"ИATURAL"at YOKOHAMA ARENA 2005.12.13〜**』（ライブ ナチュラル フロム ライブ ツアー 005 "ナチュラル" アット ヨコハマ アリーナ 2005.12.13）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")4枚目の[DVD](../Page/DVD.md "wikilink")。
@@ -114,4 +114,4 @@
 
   - [ИATURAL](../Page/ИATURAL.md "wikilink")
 
-[Category:ORANGE_RANGEの映像作品](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの映像作品 "wikilink") [Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:ORANGE_RANGEの映像作品](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの映像作品 "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

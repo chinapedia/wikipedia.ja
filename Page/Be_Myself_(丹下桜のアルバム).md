@@ -1,4 +1,4 @@
-> この記事は[Be Myself \(\)](https://ja.wikipedia.org/wiki/Be_Myself_\(\))から翻訳されています。
+> この記事は[Be Myself \(丹下桜のアルバム\)](https://ja.wikipedia.org/wiki/Be_Myself_\(丹下桜のアルバム\))から翻訳されています。
 
 
 『**Be Myself**』（ビー マイセルフ）は、[丹下桜](../Page/丹下桜.md "wikilink")の1作目の[フルアルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。

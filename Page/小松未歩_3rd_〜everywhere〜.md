@@ -1,4 +1,4 @@
-> この記事は[ 3rd everywhere](https://ja.wikipedia.org/wiki/_3rd_everywhere)から翻訳されています。
+> この記事は[小松未歩 3rd 〜everywhere〜](https://ja.wikipedia.org/wiki/小松未歩_3rd_〜everywhere〜)から翻訳されています。
 
 
 『**小松未歩 3rd 〜everywhere〜**』（こまつみほ サード エブリウェア）は、[小松未歩](../Page/小松未歩.md "wikilink")の3枚目のアルバム。2000年2月16日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-1022。

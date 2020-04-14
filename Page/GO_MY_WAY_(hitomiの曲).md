@@ -1,4 +1,4 @@
-> この記事は[GO MY WAY \(hitomi\)](https://ja.wikipedia.org/wiki/GO_MY_WAY_\(hitomi\))から翻訳されています。
+> この記事は[GO MY WAY \(hitomiの曲\)](https://ja.wikipedia.org/wiki/GO_MY_WAY_\(hitomiの曲\))から翻訳されています。
 
 
 「**GO MY WAY**」（ゴー マイ ウェイ）は、[2006年](../Page/2006年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に発売された[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の31stシングル。発売元は[LOVE LIFE RECORDS](https://ja.wikipedia.org/wiki/LOVE_LIFE_RECORDS "wikilink")。

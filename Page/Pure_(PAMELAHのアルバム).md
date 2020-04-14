@@ -1,4 +1,4 @@
-> この記事は[Pure \(PAMELAH\)](https://ja.wikipedia.org/wiki/Pure_\(PAMELAH\))から翻訳されています。
+> この記事は[Pure \(PAMELAHのアルバム\)](https://ja.wikipedia.org/wiki/Pure_\(PAMELAHのアルバム\))から翻訳されています。
 
 
 『**Pure**』（ピュア）は、[PAMELAH](../Page/PAMELAH.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。

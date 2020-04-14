@@ -1,4 +1,4 @@
-> この記事は[Pure \(\)](https://ja.wikipedia.org/wiki/Pure_\(\))から翻訳されています。
+> この記事は[Pure \(國府田マリ子のアルバム\)](https://ja.wikipedia.org/wiki/Pure_\(國府田マリ子のアルバム\))から翻訳されています。
 
 
 『**Pure**』（ピュア）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。

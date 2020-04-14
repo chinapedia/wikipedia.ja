@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[シングルBOX](https://ja.wikipedia.org/wiki/シングルBOX)から翻訳されています。
 
 
 『**シングルBOX**』（シングルボックス）は、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")のシングルCDをまとめた、[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")パッケージセット作品。

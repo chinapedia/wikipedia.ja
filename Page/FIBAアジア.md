@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAアジア](https://ja.wikipedia.org/wiki/FIBAアジア)から翻訳されています。
 
 
 **FIBAアジア**（**FIBA Asia**）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）傘下の[アジア](../Page/アジア.md "wikilink")地域連盟である。本部は[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")にある。[1960年](../Page/1960年.md "wikilink")に「**アジアバスケットボール連盟**（**ABC**）」として発足。[2004年](../Page/2004年.md "wikilink")より現組織名。

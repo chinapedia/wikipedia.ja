@@ -1,4 +1,4 @@
-> この記事は[EZ-9](https://ja.wikipedia.org/wiki/EZ-9)から翻訳されています。
+> この記事は[ホンダ・EZ-9](https://ja.wikipedia.org/wiki/ホンダ・EZ-9)から翻訳されています。
 
 
 **EZ-9**（イージーナイン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。本項では[派生車種の](../Page/姉妹車.md "wikilink")**EZ SNOW**（イージースノー）についても解説を行う。

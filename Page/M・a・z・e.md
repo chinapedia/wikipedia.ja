@@ -1,4 +1,4 @@
-> この記事は[Maze](https://ja.wikipedia.org/wiki/Maze)から翻訳されています。
+> この記事は[M・a・z・e](https://ja.wikipedia.org/wiki/M・a・z・e)から翻訳されています。
 
 
 『**m・a・z・e**』（メイズ）は、[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に発売された[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")である。
@@ -34,5 +34,9 @@
   - one
 
 『[grow into one](https://ja.wikipedia.org/wiki/grow_into_one "wikilink")』
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ m・a・z・e](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004147)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:テレビドラマ挿入歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ挿入歌 "wikilink") [Category:Kenn_Katoが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Kenn_Katoが制作した楽曲 "wikilink") [Category:山口寛雄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山口寛雄が制作した楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

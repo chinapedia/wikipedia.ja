@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本コンサルタンツ](https://ja.wikipedia.org/wiki/JR東日本コンサルタンツ)から翻訳されています。
 
 
 **JR東日本コンサルタンツ株式会社**（ジェイアールひがしにほんコンサルタンツ）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西品川](../Page/西品川.md "wikilink")に本社を置く[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、鉄道技術に関するコンサルタントを主体としている。

@@ -1,4 +1,4 @@
-> この記事は[SNOW WORLD](https://ja.wikipedia.org/wiki/SNOW_WORLD)から翻訳されています。
+> この記事は[ヘブンスそのはらSNOW WORLD](https://ja.wikipedia.org/wiki/ヘブンスそのはらSNOW_WORLD)から翻訳されています。
 
 
 **ヘブンスそのはらSNOW WORLD**（ヘブンスそのはらスノーワールド）は、[長野県](../Page/長野県.md "wikilink")[下伊那郡](../Page/下伊那郡.md "wikilink")[阿智村](../Page/阿智村.md "wikilink")にある[スキー場](../Page/スキー場.md "wikilink")。 スキー専用ゲレンデとなっており、[スノーボード](../Page/スノーボード.md "wikilink")での滑走はできない。 [サンリオ](../Page/サンリオ.md "wikilink")の[ハローキティ](../Page/ハローキティ.md "wikilink")がゲレンデにやってくることで有名なため、子ども連れのファミリーに人気が高い。 またスキーシーズン以外も営業しており、遊歩道としてコースの一部が開放されている。ゲレンデ最上部には展望台があり、コース上部からは[南アルプスが一望できる](https://ja.wikipedia.org/wiki/赤石山脈 "wikilink")。

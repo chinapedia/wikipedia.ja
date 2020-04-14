@@ -1,4 +1,4 @@
-> この記事は[12Love song](https://ja.wikipedia.org/wiki/12Love_song)から翻訳されています。
+> この記事は[12月のLove song](https://ja.wikipedia.org/wiki/12月のLove_song)から翻訳されています。
 
 
 「**12月のLove song**」（じゅうにがつのラヴソング）は、日本の歌手・[Gacktが](https://ja.wikipedia.org/wiki/GACKT "wikilink")[2001年](../Page/2001年.md "wikilink")に発表した楽曲である。

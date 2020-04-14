@@ -1,4 +1,4 @@
-> この記事は[Inside Outside UMI](https://ja.wikipedia.org/wiki/Inside_Outside_UMI)から翻訳されています。
+> この記事は[Inside Outside U・M・I](https://ja.wikipedia.org/wiki/Inside_Outside_U・M・I)から翻訳されています。
 
 
 『**Inside Outside U・M・I**』（インサイド・アウトサイド・ユー・エム・アイ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[イメージビデオ](../Page/イメージビデオ.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")で発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

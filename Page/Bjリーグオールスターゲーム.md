@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグオールスターゲーム](https://ja.wikipedia.org/wiki/Bjリーグオールスターゲーム)から翻訳されています。
 
 
 **bjリーグオールスターゲーム**は、[日本プロバスケットボールリーグ](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")（bjリーグ）の[オールスターゲーム](../Page/オールスターゲーム.md "wikilink")である。

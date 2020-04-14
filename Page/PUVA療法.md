@@ -1,4 +1,4 @@
-> この記事は[PUVA](https://ja.wikipedia.org/wiki/PUVA)から翻訳されています。
+> この記事は[PUVA療法](https://ja.wikipedia.org/wiki/PUVA療法)から翻訳されています。
 
 
 **PUVA療法**（ぷばりょうほう）は、薬剤の(Psoralen)と長波長の紫外線（[UVA](https://ja.wikipedia.org/wiki/UVA "wikilink")、紫外線A波）を併用する光線療法である。皮膚疾患の治療に使う。ソラレンを外用するか内服するかの2種類の方法がある。[最小光毒量](https://ja.wikipedia.org/wiki/最小光毒量 "wikilink")の半分程度の紫外線から開始し、徐々に増量していく。

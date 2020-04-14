@@ -1,4 +1,4 @@
-> この記事は[ATM](https://ja.wikipedia.org/wiki/ATM)から翻訳されています。
+> この記事は[しんきん北陸トライアングルネットワークATMサービス](https://ja.wikipedia.org/wiki/しんきん北陸トライアングルネットワークATMサービス)から翻訳されています。
 
 
 **しんきん北陸トライアングルネットワークATMサービス**（しんきんほくりくトライアングルネットワークエイティエムサービス）は、[北陸3県](../Page/北陸地方.md "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")・[福井県](../Page/福井県.md "wikilink")）内にそれぞれ本店を置く各[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")相互間の[ATM利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。略称は『**しんきん北陸トライネットATMサービス**』。

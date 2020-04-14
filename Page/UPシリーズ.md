@@ -1,4 +1,4 @@
-> この記事は[UP](https://ja.wikipedia.org/wiki/UP)から翻訳されています。
+> この記事は[UPシリーズ](https://ja.wikipedia.org/wiki/UPシリーズ)から翻訳されています。
 
 
 『**UPシリーズ**』（*Up Series*）は、[1964年](../Page/1964年.md "wikilink")に[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")[グラナダ・テレビが制作した](../Page/ITV_\(イギリス\).md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組『*seven up\!*』及びその派生シリーズである。

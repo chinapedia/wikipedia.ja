@@ -761,7 +761,7 @@ SLP-1006/1007(web限定盤)</p></td>
 <li>Before The StardustFades / <a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fi</a></li>
 <li>You Come Around / <a href="https://ja.wikipedia.org/wiki/HOT_HOT_SEX" title="wikilink">HOT HOT SEX</a></li>
 <li>Two Shadows United / <a href="https://ja.wikipedia.org/wiki/The_Brixton_Academy" title="wikilink">The Brixton Academy</a></li>
-<li>大人のビート / <a href="https://ja.wikipedia.org/wiki/WEEKEND" title="wikilink">WEEKEND</a></li>
+<li>大人のビート / WEEKEND</li>
 <li>like a wave / <a href="https://ja.wikipedia.org/wiki/Dorian" title="wikilink">Dorian</a></li>
 </ol>
 <p>DISC2</p>

@@ -1,4 +1,4 @@
-> この記事は[Wonderful Life \(\&G\)](https://ja.wikipedia.org/wiki/Wonderful_Life_\(\&G\))から翻訳されています。
+> この記事は[Wonderful Life \(\&Gの曲\)](https://ja.wikipedia.org/wiki/Wonderful_Life_\(\&Gの曲\))から翻訳されています。
 
 
 「**Wonderful Life**」（ワンダフル ライフ）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が**\&G**名義で発売した[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。

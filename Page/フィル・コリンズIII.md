@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[フィル・コリンズIII](https://ja.wikipedia.org/wiki/フィル・コリンズIII)から翻訳されています。
 
 
 **フィル・コリンズ**（）は、1985年にリリースされた[フィル・コリンズ](../Page/フィル・コリンズ.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[AIBA](https://ja.wikipedia.org/wiki/AIBA)から翻訳されています。
+> この記事は[AIBA世界ボクシング選手権](https://ja.wikipedia.org/wiki/AIBA世界ボクシング選手権)から翻訳されています。
 
 
 **AIBA世界ボクシング選手権**（）は、[国際ボクシング協会 (AIBA)が主催する](../Page/国際ボクシング協会_\(AIBA\).md "wikilink")[ボクシング](../Page/ボクシング.md "wikilink")の世界大会である。17-34歳の間の選手が出場できる。

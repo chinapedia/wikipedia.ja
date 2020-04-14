@@ -1,4 +1,4 @@
-> この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
+> この記事は[KDDI山口衛星通信センター](https://ja.wikipedia.org/wiki/KDDI山口衛星通信センター)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KDDI_Yamaguchi.jpg "wikilink")   **KDDI山口衛星通信センター**（ケイディディアイ やまぐちえいせいつうしんセンター）は[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")[仁保中郷にある](../Page/仁保村_\(山口県\).md "wikilink")、大手通信会社[KDDI](../Page/KDDI.md "wikilink")唯一の衛星通信施設であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")最大の衛星通信施設である。

@@ -1,4 +1,4 @@
-> この記事は[IOC](https://ja.wikipedia.org/wiki/IOC)から翻訳されています。
+> この記事は[IOCコード一覧](https://ja.wikipedia.org/wiki/IOCコード一覧)から翻訳されています。
 
 
 **IOCコード一覧**（IOCコードいちらん）は、[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink") (IOC) における国名コードの一覧。このコードは[オリンピックに参加している全ての](../Page/近代オリンピック.md "wikilink")[国内オリンピック委員会](../Page/国内オリンピック委員会.md "wikilink")と他のグループに割り当てられるが、歴史上、これらの多くは、[ISO 3166-1のラテン文字](../Page/ISO_3166-1.md "wikilink")3文字と異なる。

@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UDレイリア](https://ja.wikipedia.org/wiki/UDレイリア)から翻訳されています。
 
 
 **UDレイリア** () 、通称**ウニオン・レイリア** (União de Leiria) は、[ポルトガル](../Page/ポルトガル.md "wikilink")・[レイリア](../Page/レイリア.md "wikilink")に本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

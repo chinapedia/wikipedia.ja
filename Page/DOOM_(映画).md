@@ -1,4 +1,4 @@
-> この記事は[DOOM \(\)](https://ja.wikipedia.org/wiki/DOOM_\(\))から翻訳されています。
+> この記事は[DOOM \(映画\)](https://ja.wikipedia.org/wiki/DOOM_\(映画\))から翻訳されています。
 
 
 『**DOOM**』（ドゥーム、*Doom*）は[2005年](../Page/2005年.md "wikilink")の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")の『[Doom 3](https://ja.wikipedia.org/wiki/Doom_3 "wikilink")』を原作としている。主演は[ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")、[カール・アーバン](../Page/カール・アーバン.md "wikilink")。

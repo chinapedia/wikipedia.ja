@@ -1,4 +1,4 @@
-> この記事は[ \(TV\)](https://ja.wikipedia.org/wiki/_\(TV\))から翻訳されています。
+> この記事は[ニコロデオン \(TVチャンネル\)](https://ja.wikipedia.org/wiki/ニコロデオン_\(TVチャンネル\))から翻訳されています。
 
 
 **ニコロデオン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル。幼児・児童向け番組を専門とするチャンネルで、『[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")』や『[ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")』などのアメリカで人気のアニメ番組を多くの国で放送している。[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")傘下の[バイアコムCBS・ドメスティック・メディア・ネットワークスが運営する](https://ja.wikipedia.org/wiki/:en:Viacom_Media_Networks "wikilink")。
@@ -11,7 +11,7 @@
 
 2005年1月、現在の日本での運営会社であるViacom International Japan (VIJ) 株式会社設立。2006年1月には[電気通信役務利用放送](https://ja.wikipedia.org/wiki/電気通信役務利用放送 "wikilink")に移行（電気通信役務利用放送事業者は[MTVジャパン](../Page/MTVジャパン.md "wikilink")株式会社、現在のバイアコム・ネットワークス・ジャパン株式会社、Ch.751に変更）。2006年10月にはチャンネルのリニューアルが行われた。2008年1月、VIJがMTV Networks Japan株式会社（MTVNJ）に社名変更（のち合同会社に組織変更）。
 
-しかし、[日本アニメの根強い人気に加え](../Page/アニメ.md "wikilink")、同業会社である[ディズニーチャンネルや](../Page/ディズニー・チャンネル.md "wikilink")[カートゥーン ネットワークなどとの競争で苦戦を強いられた結果](../Page/カートゥーン_ネットワーク.md "wikilink")、2009年9月30日にチャンネル放送を一旦終了。2018年になるまでMTVジャパンや他のCS局、[TwellVや](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")[NHK Eテレなどに配給を行っていた](../Page/NHK教育テレビジョン.md "wikilink")\[2\]。
+しかし、[日本アニメの根強い人気に加え](../Page/アニメ.md "wikilink")、同業会社である[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")や[カートゥーン ネットワークなどとの競争で苦戦を強いられた結果](../Page/カートゥーン_ネットワーク.md "wikilink")、2009年9月30日にチャンネル放送を一旦終了。その後2018年になるまでMTVジャパンや他のCS局、[TwellVや](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")[NHK Eテレなどに配給を行っていた](../Page/NHK教育テレビジョン.md "wikilink")\[2\]。
 
 日本での再開局を望むニコロデオンファンからの強い要望などもあり、2017年10月18日に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")系の[動画配信サービスであるdTVチャンネルにてチャンネルの放送を再開する事が発表された](../Page/ビデオ・オン・デマンド.md "wikilink")。更に2018年1月29日には[日本テレビ系の動画配信サービスのHuluでも放送される事が発表](../Page/日本テレビ放送網.md "wikilink")。同年1月30日に放送を開始した\[3\]。
 
@@ -142,6 +142,7 @@
   - レゴシティ アドベンチャーズ ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
   - レゴ ジュラシック・ワールド：イスラ・ヌブラル島の伝説 ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
   - ジミー・ニュートロン 僕は天才発明家\!
+  - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink")
 
 ### ニコロデオン（1998年 - 2009年）撤退後に日本で放送・配信された番組
 

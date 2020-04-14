@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[いわさきICカード](https://ja.wikipedia.org/wiki/いわさきICカード)から翻訳されています。
 
 
 [Iwasaki_IC_card.JPG](https://ja.wikipedia.org/wiki/File:Iwasaki_IC_card.JPG "fig:Iwasaki_IC_card.JPG") **いわさきICカード**とは、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に利用が開始された[ICカード](../Page/ICカード.md "wikilink")方式の共通[乗車カード](../Page/乗車カード.md "wikilink")で、制度上は[回数乗車券](../Page/回数乗車券.md "wikilink")の位置づけである。[いわさきコーポレーション](../Page/いわさきコーポレーション.md "wikilink")グループ（[鹿児島交通](../Page/鹿児島交通.md "wikilink")）が発行している。[RapiCa](../Page/RapiCa.md "wikilink")（[鹿児島市交通局](https://ja.wikipedia.org/wiki/鹿児島市交通局 "wikilink")などが導入）とも相互利用が出来るが、多少サービス内容が異なる。

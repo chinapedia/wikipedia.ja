@@ -1,4 +1,4 @@
-> この記事は[FMC](https://ja.wikipedia.org/wiki/FMC)から翻訳されています。
+> この記事は[ウェブラジオFMC](https://ja.wikipedia.org/wiki/ウェブラジオFMC)から翻訳されています。
 
 
 **ウェブラジオFMC**（ウェブラジオエフエムシー）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")(本局)、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")(支局)、[千葉県](../Page/千葉県.md "wikilink")[八千代市](https://ja.wikipedia.org/wiki/八千代市 "wikilink")(支局)から発信している[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送局。2007年8月20日から[ウェブテレビ](https://ja.wikipedia.org/wiki/ウェブテレビ "wikilink")放送局**月曜倶楽部テレビジョン**（月テレ、FMC-TV）の運営も行う。

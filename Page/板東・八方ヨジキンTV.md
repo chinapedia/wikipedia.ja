@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[板東・八方ヨジキンTV](https://ja.wikipedia.org/wiki/板東・八方ヨジキンTV)から翻訳されています。
 
 
 『**板東・八方ヨジキンTV**』（ばんどう・はっぽうヨジキンテレビ）は、[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月](../Page/9月.md "wikilink")まで[関西テレビで放送されていた](../Page/関西テレビ放送.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

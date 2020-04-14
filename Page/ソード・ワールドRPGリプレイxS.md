@@ -1,4 +1,4 @@
-> この記事は[RPGxS](https://ja.wikipedia.org/wiki/RPGxS)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイxS](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイxS)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイxS**（ソード・ワールドアールピージーリプレイクロスエス）は雑誌『[Role\&Roll](../Page/Role&Roll.md "wikilink")』Vol.16（2005年11月発行）よりVol.40（2008年1月発行）まで約2年にわたって連載されていた、[グループSNE](../Page/グループSNE.md "wikilink")による[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の[リプレイ](../Page/リプレイ_\(TRPG\).md "wikilink")。単行本は[富士見書房](../Page/富士見書房.md "wikilink")より全4巻として刊行されている。

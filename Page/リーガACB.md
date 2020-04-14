@@ -1,4 +1,4 @@
-> この記事は[ACB](https://ja.wikipedia.org/wiki/ACB)から翻訳されています。
+> この記事は[リーガACB](https://ja.wikipedia.org/wiki/リーガACB)から翻訳されています。
 
 
 **リーガACB**（、, **）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のプロ[バスケットボール](../Page/バスケットボール.md "wikilink")の1部リーグ（トップディビジョン）。[FIBAルールが採用されている](../Page/国際バスケットボール連盟.md "wikilink")。スペインと[アンドラ公国](https://ja.wikipedia.org/wiki/アンドラ公国 "wikilink")の18チームが参加している。下部リーグは[LEBオロ](https://ja.wikipedia.org/wiki/LEBオロ "wikilink")。

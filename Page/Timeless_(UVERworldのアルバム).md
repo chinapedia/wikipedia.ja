@@ -1,4 +1,4 @@
-> この記事は[Timeless \(UVERworld\)](https://ja.wikipedia.org/wiki/Timeless_\(UVERworld\))から翻訳されています。
+> この記事は[Timeless \(UVERworldのアルバム\)](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\))から翻訳されています。
 
 
 『**Timeless**』（タイムレス）は、[UVERworld](../Page/UVERworld.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[gr8\!recordsから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、2006年[12月29日](../Page/12月29日.md "wikilink")までの期間限定で『Timeless(Special Edition)』も発売。

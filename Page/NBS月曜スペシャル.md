@@ -1,4 +1,4 @@
-> この記事は[NBS](https://ja.wikipedia.org/wiki/NBS)から翻訳されています。
+> この記事は[NBS月曜スペシャル](https://ja.wikipedia.org/wiki/NBS月曜スペシャル)から翻訳されています。
 
 
 『**NBS月曜スペシャル**』（エヌビーエスげつよう - ）は、[長野県](../Page/長野県.md "wikilink")の[FNS系列である](../Page/フジネットワーク.md "wikilink")[長野放送](../Page/長野放送.md "wikilink")（NBS）で[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")\[1\]まで毎週月曜夜に放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

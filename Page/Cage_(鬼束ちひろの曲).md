@@ -1,4 +1,4 @@
-> この記事は[Cage \(\)](https://ja.wikipedia.org/wiki/Cage_\(\))から翻訳されています。
+> この記事は[Cage \(鬼束ちひろの曲\)](https://ja.wikipedia.org/wiki/Cage_\(鬼束ちひろの曲\))から翻訳されています。
 
 
 「**Cage**」（ケージ）は、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。

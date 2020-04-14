@@ -1,4 +1,4 @@
-> この記事は[ARM \(\)](https://ja.wikipedia.org/wiki/ARM_\(\))から翻訳されています。
+> この記事は[ARM \(架空の武器\)](https://ja.wikipedia.org/wiki/ARM_\(架空の武器\))から翻訳されています。
 
 
 **ÄRM**（アーム）は、漫画『[MÄR](../Page/MAR_\(漫画\).md "wikilink")』、『[MÄRΩ](../Page/MARΩ.md "wikilink")』およびその派生作品に登場する架空の武器。

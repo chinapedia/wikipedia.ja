@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[芹沢直美 \(AV女優\)](https://ja.wikipedia.org/wiki/芹沢直美_\(AV女優\))から翻訳されています。
 
 
 **芹沢 直美**（せりざわ なおみ、[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") -）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")、[ストリッパー](../Page/ストリッパー一覧.md "wikilink")。旧芸名、**東 千聖**（あずま ちさと）。

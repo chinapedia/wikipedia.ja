@@ -1,4 +1,4 @@
-> この記事は[Tears ](https://ja.wikipedia.org/wiki/Tears_)から翻訳されています。
+> この記事は[Tears 〜涙は見せたくない〜](https://ja.wikipedia.org/wiki/Tears_〜涙は見せたくない〜)から翻訳されています。
 
 
 「**Tears 〜涙は見せたくない〜**」（ティアーズ なみだはみせたくない）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[宇浦冴香](https://ja.wikipedia.org/wiki/宇浦冴香 "wikilink")のメジャーデビュー[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S言語](https://ja.wikipedia.org/wiki/S言語)から翻訳されています。
 
 
 **S言語**（えすげんご）とは、[1984年](../Page/1984年.md "wikilink")、[AT\&Tベル研究所の](../Page/ベル研究所.md "wikilink") John Chambers, Rick Becker, Allan Wilks らによって研究・開発された[統計](../Page/統計.md "wikilink")処理[言語である](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")。当初は「Sシステム」と呼ばれ、[UNIX](../Page/UNIX.md "wikilink")上における統計処理を行うソフトのコマンドの役割を果たす言語として開発された。 その後、機能の拡張を続け[1988年](../Page/1988年.md "wikilink")に[プログラミング言語](../Page/プログラミング言語.md "wikilink")としてのS言語が策定された。さらに[1991年](../Page/1991年.md "wikilink")に[オブジェクト指向プログラミング](../Page/オブジェクト指向プログラミング.md "wikilink")の機能が追加され現在に至る。

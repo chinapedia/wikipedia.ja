@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[可憐 \(AV女優\)](https://ja.wikipedia.org/wiki/可憐_\(AV女優\))から翻訳されています。
 
 
 **可憐**（かれん、[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。趣味、特技は作詞・作曲\[1\]。

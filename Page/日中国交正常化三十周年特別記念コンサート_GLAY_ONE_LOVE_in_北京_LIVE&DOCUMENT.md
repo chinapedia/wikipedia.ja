@@ -1,4 +1,4 @@
-> この記事は[ GLAY ONE LOVE in  LIVE\&DOCUMENT](https://ja.wikipedia.org/wiki/_GLAY_ONE_LOVE_in__LIVE\&DOCUMENT)から翻訳されています。
+> この記事は[日中国交正常化三十周年特別記念コンサート GLAY ONE LOVE in 北京 LIVE\&DOCUMENT](https://ja.wikipedia.org/wiki/日中国交正常化三十周年特別記念コンサート_GLAY_ONE_LOVE_in_北京_LIVE\&DOCUMENT)から翻訳されています。
 
 
 『**日中国交正常化三十周年特別記念コンサート GLAY ONE LOVE in 北京 LIVE\&DOCUMENT**』は[GLAY](../Page/GLAY.md "wikilink")が[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")にリリースしたLIVEビデオ。

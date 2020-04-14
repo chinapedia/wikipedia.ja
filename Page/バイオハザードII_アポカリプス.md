@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[バイオハザードII アポカリプス](https://ja.wikipedia.org/wiki/バイオハザードII_アポカリプス)から翻訳されています。
 
 
 『**バイオハザードII アポカリプス**』（バイオハザードツー アポカリプス、*Resident Evil: Apocalypse*）は、[2004年](../Page/2004年.md "wikilink")に制作された[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")合作の[ホラー](../Page/ホラー映画.md "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")。2002年に制作された映画『[バイオハザード](../Page/バイオハザード_\(映画\).md "wikilink")』（以降、『I』）の正式な続編である。サブタイトルの『**アポカリプス**』とは、『**黙示録**』を意味する。『黙示録』とは[新約聖書](../Page/新約聖書.md "wikilink")における最後の一書のことであり、そこには世界の破滅や[イエス・キリスト](https://ja.wikipedia.org/wiki/イエス・キリスト "wikilink")の再来などの預言的内容が象徴的表現で描かれている。

@@ -1,4 +1,4 @@
-> この記事は[SEX PISTOLS \(\)](https://ja.wikipedia.org/wiki/SEX_PISTOLS_\(\))から翻訳されています。
+> この記事は[SEX PISTOLS \(漫画\)](https://ja.wikipedia.org/wiki/SEX_PISTOLS_\(漫画\))から翻訳されています。
 
 
 『**SEX PISTOLS**』（セックス・ピストルズ）は、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[寿たらこ](../Page/寿たらこ.md "wikilink")による[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")漫画作品。

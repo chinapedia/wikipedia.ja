@@ -1,4 +1,4 @@
-> この記事は[Sweet](https://ja.wikipedia.org/wiki/Sweet)から翻訳されています。
+> この記事は[Sweet病](https://ja.wikipedia.org/wiki/Sweet病)から翻訳されています。
 
 
 **Sweet病**（スウィートびょう）は、[発熱](../Page/発熱.md "wikilink")、末梢[好中球](../Page/好中球.md "wikilink")増加、好中球浸潤性紅斑を三徴とする疾患である\[1\]。**好中球性皮膚症**ともいう。[上気道](https://ja.wikipedia.org/wiki/上気道 "wikilink")感染を起こした後に四肢、顔面に暗赤色の隆起局面が単発、多発する。[関節リウマチ](../Page/関節リウマチ.md "wikilink")をはじめ自己免疫性疾患や、[骨髄異形成症候群](../Page/骨髄異形成症候群.md "wikilink")（MDS）や[白血病](../Page/白血病.md "wikilink")といった血液腫瘍を合併することが多く、[デルマドローム](../Page/デルマドローム.md "wikilink")の一つと考えられている。

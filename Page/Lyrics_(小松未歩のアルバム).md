@@ -1,4 +1,4 @@
-> この記事は[Lyrics \(\)](https://ja.wikipedia.org/wiki/Lyrics_\(\))から翻訳されています。
+> この記事は[Lyrics \(小松未歩のアルバム\)](https://ja.wikipedia.org/wiki/Lyrics_\(小松未歩のアルバム\))から翻訳されています。
 
 
 『**lyrics**』（リリックス）は、[小松未歩](../Page/小松未歩.md "wikilink")のラブバラードセレクションアルバム。2003年11月26日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5043\[1\]。

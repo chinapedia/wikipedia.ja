@@ -1,4 +1,4 @@
-> この記事は[wdrftgylp](https://ja.wikipedia.org/wiki/wdrftgylp)から翻訳されています。
+> この記事は[くぁwせdrftgyふじこlp](https://ja.wikipedia.org/wiki/くぁwせdrftgyふじこlp)から翻訳されています。
 
 
 **くぁwせdrftgyふじこlp**とは、[インターネットスラング](../Page/インターネットスラング.md "wikilink")の一つであり、文字に起こすことが困難な、言葉にならない[悲鳴](https://ja.wikipedia.org/wiki/悲鳴 "wikilink")などの表現に使われる言葉である\[1\]。そのため本来音読不能であるが、語中の[平仮名](../Page/平仮名.md "wikilink")より「**ふじこ**」とも呼称される。[Microsoft IMEなどの](../Page/Microsoft_IME.md "wikilink")[インプットメソッド](../Page/インプットメソッド.md "wikilink")においては、[英字の部分は](../Page/ラテン文字.md "wikilink")[全角で入力される](../Page/全角と半角.md "wikilink")。

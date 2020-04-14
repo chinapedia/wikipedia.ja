@@ -1,4 +1,4 @@
-> この記事は[ 2nd ](https://ja.wikipedia.org/wiki/_2nd_)から翻訳されています。
+> この記事は[小松未歩 2nd 〜未来〜](https://ja.wikipedia.org/wiki/小松未歩_2nd_〜未来〜)から翻訳されています。
 
 
 『**小松未歩 2nd 〜未来〜**』（こまつみほ セカンド みらい）は、[小松未歩](../Page/小松未歩.md "wikilink")の2枚目のアルバム。1998年12月19日に[Amemura O-town Record/Spoonful](../Page/Amemura_O-town_Record.md "wikilink")\[1\]より発売された。[規格品番](../Page/規格品番.md "wikilink")はAOCS-1003。

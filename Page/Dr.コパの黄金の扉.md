@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.コパの黄金の扉](https://ja.wikipedia.org/wiki/Dr.コパの黄金の扉)から翻訳されています。
 
 
 **Dr.コパの黄金の扉**（ドクターコパおうごんのとびら）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で放送されていた夜の番組である。

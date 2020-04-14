@@ -53,4 +53,4 @@
 
   - VIDEO MAGAZINE VOL.1 CHANNEL GOO\! （1992年 ビクター）
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ロカビリー](https://ja.wikipedia.org/wiki/Category:ロカビリー "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ロカビリー](https://ja.wikipedia.org/wiki/Category:ロカビリー "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink")

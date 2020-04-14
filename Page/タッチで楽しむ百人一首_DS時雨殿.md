@@ -1,4 +1,4 @@
-> この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
+> この記事は[タッチで楽しむ百人一首 DS時雨殿](https://ja.wikipedia.org/wiki/タッチで楽しむ百人一首_DS時雨殿)から翻訳されています。
 
 
 **タッチで楽しむ百人一首 DS時雨殿**（タッチでたのしむひゃくにんいっしゅ ディーエスしぐれでん）は、[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。

@@ -1,4 +1,4 @@
-> この記事は[LIVE musiQ from LIVE TOUR 005musiQat MAKUHARI MESSE 2005.04.01](https://ja.wikipedia.org/wiki/LIVE_musiQ_from_LIVE_TOUR_005musiQat_MAKUHARI_MESSE_2005.04.01)から翻訳されています。
+> この記事は[LIVE musiQ 〜from LIVE TOUR 005musiQat MAKUHARI MESSE 2005.04.01〜](https://ja.wikipedia.org/wiki/LIVE_musiQ_〜from_LIVE_TOUR_005musiQat_MAKUHARI_MESSE_2005.04.01〜)から翻訳されています。
 
 
 『**LIVE musiQ 〜from LIVE TOUR 005"musiQ"at MAKUHARI MESSE 2005.04.01〜**』（ライブ ミュージック 〜フロム ライブ ツアー 005"ムジーク"アット マクハリ メッセ 2005.04.01〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目の[DVD](../Page/DVD.md "wikilink")。
@@ -91,4 +91,4 @@
   - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
   - [musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")
 
-[Category:ORANGE_RANGEの映像作品](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの映像作品 "wikilink") [Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:ORANGE_RANGEの映像作品](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの映像作品 "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

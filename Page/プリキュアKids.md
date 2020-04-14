@@ -1,4 +1,4 @@
-> この記事は[Kids](https://ja.wikipedia.org/wiki/Kids)から翻訳されています。
+> この記事は[プリキュアKids](https://ja.wikipedia.org/wiki/プリキュアKids)から翻訳されています。
 
 
 '''プリキュアKids '''（プリキュアキッズ）は、[アニメ](../Page/アニメ.md "wikilink")『[ふたりはプリキュア](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")』、およびそのシリーズ作品の主人公たちに扮してステージショーなどのイベントに出演するユニットであった。

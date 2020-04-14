@@ -1,4 +1,4 @@
-> この記事は[AFC-HD](https://ja.wikipedia.org/wiki/AFC-HD)から翻訳されています。
+> この記事は[AFC-HDアムスライフサイエンス](https://ja.wikipedia.org/wiki/AFC-HDアムスライフサイエンス)から翻訳されています。
 
 
 **株式会社AFC-HDアムスライフサイエンス**（エーエフシーエイチディーアムスライフサイエンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の健康食品・化粧品の受託総合（[OEM](../Page/OEM.md "wikilink")）メーカー。本社は[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[駿河区](../Page/駿河区.md "wikilink")にある。

@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALスカイエアポート沖縄](https://ja.wikipedia.org/wiki/JALスカイエアポート沖縄)から翻訳されています。
 
 
 **JALスカイエアポート沖縄株式会社**は、[JAL](../Page/日本航空.md "wikilink")・[JTAグループの空港運営会社である](../Page/日本トランスオーシャン航空.md "wikilink")。沖縄県内の各空港において[JALグループ各航空会社並びに日本航空が受託している外航会社の旅客サービス](../Page/日本航空.md "wikilink")、運航支援業務、[グランドハンドリング](https://ja.wikipedia.org/wiki/グランドハンドリング "wikilink")業務などを請け負っている。

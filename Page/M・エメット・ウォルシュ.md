@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[M・エメット・ウォルシュ](https://ja.wikipedia.org/wiki/M・エメット・ウォルシュ)から翻訳されています。
 
 
 **M・エメット・ウォルシュ**（**Michael Emmet Walsh**, [1935年](../Page/1935年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")出身の俳優。アイルランド系\[1\]。

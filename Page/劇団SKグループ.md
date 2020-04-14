@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[劇団SKグループ](https://ja.wikipedia.org/wiki/劇団SKグループ)から翻訳されています。
 
 
 **劇団SKグループ**（ゲキダンエスケーグループ）は、1998年旗揚げの[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")を拠点に活動する劇団。 作品はすべて団長[すがの公](https://ja.wikipedia.org/wiki/すがの公 "wikilink")による作演出のオリジナル。年に3\~4回（ユニット公演を合わせるとそれ以上）の公演をほぼ全て書き下ろし台本で行っている。

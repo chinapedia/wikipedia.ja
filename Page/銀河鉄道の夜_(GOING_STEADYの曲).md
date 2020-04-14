@@ -1,4 +1,4 @@
-> この記事は[ \(GOING STEADY\)](https://ja.wikipedia.org/wiki/_\(GOING_STEADY\))から翻訳されています。
+> この記事は[銀河鉄道の夜 \(GOING STEADYの曲\)](https://ja.wikipedia.org/wiki/銀河鉄道の夜_\(GOING_STEADYの曲\))から翻訳されています。
 
 
 **銀河鉄道の夜**（ぎんがてつどうのよる）は、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[GOING STEADYが](../Page/GOING_STEADY.md "wikilink")[2001年](../Page/2001年.md "wikilink")に発表した楽曲。作詞・作曲は[峯田和伸](../Page/峯田和伸.md "wikilink")。アルバム『さくらの唄』収録。後に同バンドの実質的後継バンドにあたる[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")のアルバム『DOOR』にもリテイクして収録されている。

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[お笑い芸人のCD一覧](https://ja.wikipedia.org/wiki/お笑い芸人のCD一覧)から翻訳されています。
 
 
 **お笑い芸人のCD一覧**（-のCDいちらん）は、[お笑い芸人が歌唱し](../Page/お笑いタレント.md "wikilink")、CD[シングル](../Page/シングル.md "wikilink")・アルバムとして発売された曲の一覧である。

@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS杯バドゥク王戦](https://ja.wikipedia.org/wiki/KBS杯バドゥク王戦)から翻訳されています。
 
 
 **KBS杯バドゥク王戦**（KBSはい バドゥクおうせん。）は、[韓国の](../Page/大韓民国.md "wikilink")[囲碁](../Page/囲碁.md "wikilink")の[早碁](../Page/早指し.md "wikilink")[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1980年に開始。対局は毎週[KBSテレビで放送される](../Page/韓国放送公社.md "wikilink")。「バドゥク」は韓国語で囲碁の意味。
@@ -16,7 +16,7 @@
 
 ## 歴代優勝者と決勝戦
 
-`(左が優勝者,右が準優勝者）`
+（左が優勝者）
 
 1.  1980年 [曺薫鉉](../Page/チョ薫鉉.md "wikilink") 2-0 [盧永夏](https://ja.wikipedia.org/wiki/盧永夏 "wikilink")
 2.  1982年 曺薫鉉 2-0 [金熙中](https://ja.wikipedia.org/wiki/金熙中 "wikilink")
@@ -46,14 +46,16 @@
 26. 2007年 李昌鎬 2-1 趙漢乗
 27. 2009年 李昌鎬 2-1 李世乭
 28. 2009年 李昌鎬 2-0 [姜東潤](https://ja.wikipedia.org/wiki/姜東潤 "wikilink")
-29. 2010年 [朴廷桓](https://ja.wikipedia.org/wiki/朴廷桓 "wikilink") 2-0 [白洪淅](https://ja.wikipedia.org/wiki/白洪淅 "wikilink")
-30. 2011年 朴廷桓 2-0 白洪淅
-31. 2012年 朴廷桓 2-1 李昌鎬
-32. 2013年 李世乭 2-1 朴廷桓
-33. 2014年 [李東勲](https://ja.wikipedia.org/wiki/李東勲 "wikilink") 2-0 朴廷桓
-34. 2015年 朴廷桓 2-1 李世乭
+29. 2011年 [朴廷桓](https://ja.wikipedia.org/wiki/朴廷桓 "wikilink") 2-0 [白洪淅](https://ja.wikipedia.org/wiki/白洪淅 "wikilink")
+30. 2012年 朴廷桓 2-0 白洪淅
+31. 2013年 朴廷桓 2-1 李昌鎬
+32. 2014年 李世乭 2-1 朴廷桓
+33. 2015年 [李東勲](https://ja.wikipedia.org/wiki/李東勲 "wikilink") 2-0 朴廷桓
+34. 2016年 朴廷桓 2-1 李世乭
 35. 2016年 李世乭 2-0 [羅玄](https://ja.wikipedia.org/wiki/羅玄 "wikilink")
-36. 2017年 朴廷桓 2-0 [金志錫](https://ja.wikipedia.org/wiki/金志錫 "wikilink")
+36. 2018年 朴廷桓 2-0 [金志錫](https://ja.wikipedia.org/wiki/金志錫 "wikilink")
+37. 2019年 [申旻埈](https://ja.wikipedia.org/wiki/申旻埈 "wikilink") 2-0 朴廷桓
+38. 2019年 [申眞諝](https://ja.wikipedia.org/wiki/申眞諝 "wikilink") 2-1 申旻埈
 
 ## 記録
 
@@ -62,7 +64,7 @@
 
 ## 外部リンク
 
-  - [韓国棋院「KBS바둑왕전」](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=1106)
+  - [韓国棋院「KBS바둑왕전」](http://www.baduk.or.kr/game/domestic/playing/1106)
   - [KBS「KBS 바둑왕전」](http://www.kbs.co.kr/1tv/sisa/baduk/index.html)
 
 [Category:韓国の囲碁の棋戦](https://ja.wikipedia.org/wiki/Category:韓国の囲碁の棋戦 "wikilink") [Category:韓国放送公社](https://ja.wikipedia.org/wiki/Category:韓国放送公社 "wikilink")

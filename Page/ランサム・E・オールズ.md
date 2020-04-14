@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ランサム・E・オールズ](https://ja.wikipedia.org/wiki/ランサム・E・オールズ)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/画像:Olds2.jpg "wikilink") **ランサム・E・オールズ**（*Ransom E. Olds* 、[1864年](../Page/1864年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink") - [1950年](../Page/1950年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")）は[オールズモビルを創立し](../Page/オールズモビル_\(自動車\).md "wikilink")、のちレオ自動車を設立し経営した米国人の実業家、技術者。『アメリカの自動車の天才』といわれる。オールズと離れたところでオールズモビルという名前は宣伝され続けていたが、アメリカ人はランサム・E・オールズを『アメリカの自動車の天才』と呼び、尊敬した。

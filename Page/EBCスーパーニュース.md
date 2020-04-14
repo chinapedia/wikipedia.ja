@@ -1,4 +1,4 @@
-> この記事は[EBC](https://ja.wikipedia.org/wiki/EBC)から翻訳されています。
+> この記事は[EBCスーパーニュース](https://ja.wikipedia.org/wiki/EBCスーパーニュース)から翻訳されています。
 
 
 『**EBCスーパーニュース**』（イービーシースーパーニュース）は、[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")で[夕](../Page/夕.md "wikilink")方に放送されていた[愛媛県](../Page/愛媛県.md "wikilink")向けの[ローカルワイドニュース番組](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

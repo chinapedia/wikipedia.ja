@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[新地理B](https://ja.wikipedia.org/wiki/新地理B)から翻訳されています。
 
 
 '''新地理B '''（しんちりビー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")開催時には[スカイパーフェクTV\!にて出場](../Page/スカパー!プレミアムサービス.md "wikilink")32カ国の紹介を紹介した番組。[2002年](../Page/2002年.md "wikilink")、[2006年](../Page/2006年.md "wikilink")にも同様の形式で復活している。

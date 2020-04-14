@@ -1,7 +1,7 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNニュースレーダー](https://ja.wikipedia.org/wiki/ANNニュースレーダー)から翻訳されています。
 
 
-『**ANNニュースレーダー**』（エイエヌエヌ ニュースレーダー）は、[1972年](../Page/1972年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：NETテレビ）系列（[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）で放送されていた夕方の[ニュース番組である](../Page/報道番組.md "wikilink")。この番組は[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に腸捻転が解消するまでは関東地区のローカルニュース、それ以後は全国ネットに「昇格」となっており番組の性質が若干異なるため、一部の箇所で、ローカルニュースの時代は「旧ニュースレーダー」、全国ネット化後は「新ニュースレーダー」とそれぞれ表現する。
+『**ANNニュースレーダー**』（エイエヌエヌ ニュースレーダー）は、[1972年](../Page/1972年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：NETテレビ）系列（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）で放送されていた夕方の[ニュース番組である](../Page/報道番組.md "wikilink")。この番組は[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に腸捻転が解消するまでは関東地区のローカルニュース、それ以後は全国ネットに「昇格」となっており番組の性質が若干異なるため、一部の箇所で、ローカルニュースの時代は「旧ニュースレーダー」、全国ネット化後は「新ニュースレーダー」とそれぞれ表現する。
 
 ## 概要
 

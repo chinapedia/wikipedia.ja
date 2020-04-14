@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[ICタグ](https://ja.wikipedia.org/wiki/ICタグ)から翻訳されています。
 
 
 **ICタグ**（アイシータグ）とは、[電波](../Page/電波.md "wikilink")を受けて働く小型の電子装置の1つで、[RFID](../Page/RFID.md "wikilink")（Radio frequency identification）の一種である。

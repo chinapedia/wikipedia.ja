@@ -1,4 +1,4 @@
-> この記事は[COM \(\)](https://ja.wikipedia.org/wiki/COM_\(\))から翻訳されています。
+> この記事は[COM \(雑誌\)](https://ja.wikipedia.org/wiki/COM_\(雑誌\))から翻訳されています。
 
 
 『**COM**』（コム）は、[1967年](../Page/1967年.md "wikilink")から[1973年](../Page/1973年.md "wikilink")まで虫プロ商事から発刊された[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[W \(!\)](https://ja.wikipedia.org/wiki/W_\(!\))から翻訳されています。
+> この記事は[W \(ハロー!プロジェクト\)](https://ja.wikipedia.org/wiki/W_\(ハロー!プロジェクト\))から翻訳されています。
 
 
 **W**（ダブルユー）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")で活動していた、[辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")の2人による[女性](../Page/女性.md "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[デュオである](../Page/二人組.md "wikilink")。

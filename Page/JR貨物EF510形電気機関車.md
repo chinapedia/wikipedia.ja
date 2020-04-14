@@ -1,4 +1,4 @@
-> この記事は[JREF510](https://ja.wikipedia.org/wiki/JREF510)から翻訳されています。
+> この記事は[JR貨物EF510形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EF510形電気機関車)から翻訳されています。
 
 
 **EF510形電気機関車**（EF510がたでんききかんしゃ）とは、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）から製作している[交直流](../Page/交直流電車.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNニュースライナー](https://ja.wikipedia.org/wiki/ANNニュースライナー)から翻訳されています。
 
 
 『**ANNニュースライナー**』（エイエヌエヌ ニュースライナー）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：日本教育テレビ）[系列で](https://ja.wikipedia.org/wiki/All-Nippon_News_Network "wikilink")[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")までにかけて放送された、お昼の[ニュース番組である](../Page/報道番組.md "wikilink")。当時のANNのニュース番組のうち最もネット局が多かった番組だった。

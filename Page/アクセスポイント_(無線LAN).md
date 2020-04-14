@@ -1,4 +1,4 @@
-> この記事は[ \(LAN\)](https://ja.wikipedia.org/wiki/_\(LAN\))から翻訳されています。
+> この記事は[アクセスポイント \(無線LAN\)](https://ja.wikipedia.org/wiki/アクセスポイント_\(無線LAN\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:AirStation_WHR-G54S.jpg "wikilink")  **アクセスポイント**（Wireless LAN access point）とは、[ノートパソコン](../Page/ノートパソコン.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")などの無線LAN[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink")（無線[端末](../Page/端末.md "wikilink")）を、相互に接続したり、他の[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")（有線[LAN等](../Page/Local_Area_Network.md "wikilink")）に接続する[無線機](https://ja.wikipedia.org/wiki/無線機 "wikilink")の一種。

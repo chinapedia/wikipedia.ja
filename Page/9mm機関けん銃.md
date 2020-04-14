@@ -1,4 +1,4 @@
-> この記事は[9mm](https://ja.wikipedia.org/wiki/9mm)から翻訳されています。
+> この記事は[9mm機関けん銃](https://ja.wikipedia.org/wiki/9mm機関けん銃)から翻訳されています。
 
 
 **9mm機関けん銃**（9ミリきかんけんじゅう）\[1\]は、[長野県](../Page/長野県.md "wikilink")の企業であるミネベア（現[ミネベアミツミ](../Page/ミネベアミツミ.md "wikilink")）社が製造し、[1999年](../Page/1999年.md "wikilink")に[自衛隊](../Page/自衛隊.md "wikilink")が採用した[9mm口径の](../Page/9x19mmパラベラム弾.md "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")\[2\]である。[防衛省](../Page/防衛省.md "wikilink")は略称を**M9**、広報向けの愛称を一般公募から選ばれた「**エムナイン**」としている。

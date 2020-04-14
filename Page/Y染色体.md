@@ -1,4 +1,4 @@
-> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+> この記事は[Y染色体](https://ja.wikipedia.org/wiki/Y染色体)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Human_male_karyotpe_high_resolution_-_Chromosome_Y.png "wikilink")（男性）の染色体構造におけるY染色体\]\] **Y染色体**（ワイせんしょくたい、）は[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")の一つ。正常な[雄](../Page/雄.md "wikilink")[個体](../Page/個体.md "wikilink")では[X染色体](../Page/X染色体.md "wikilink")と同時に存在し、正常な[雌](https://ja.wikipedia.org/wiki/雌 "wikilink")個体には存在しない性染色体を**Y染色体**という。

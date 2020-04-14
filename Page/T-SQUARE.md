@@ -419,35 +419,35 @@ GROOVE GLOBE</p></td>
 
 ### コラボレーションアルバム
 
-| タイトル                   | **発売年月日**  | **品番**    | **備考**                                                                                                                |  |
-| :--------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |  |
-| *COLOR PALETTE*        | 1987.06.21 | 32DH-690  | THE SQUARE AND FRIENDS名義                                                                                              |  |
-| *F-1 GRAND PRIX WORLD* | 1992.02.21 | VRCL-2033 | F1イメージアルバム リマスター盤が2001年に発売。未表記だがT-SQUARE and FRIENDS名義的アルバム。「TRUTH \[with '91 Suzuka Grand Prix F-1 Sound ver.\]」を収録。 |  |
-| *SOLITUDE*             | 1994.10.01 | VRCL-2040 | [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")追悼アルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                              |  |
+| タイトル                   | **発売年月日**  | **品番**    | **備考**                                                                                                                |
+| :--------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
+| *COLOR PALETTE*        | 1987.06.21 | 32DH-690  | THE SQUARE AND FRIENDS名義                                                                                              |
+| *F-1 GRAND PRIX WORLD* | 1992.02.21 | VRCL-2033 | F1イメージアルバム リマスター盤が2001年に発売。未表記だがT-SQUARE and FRIENDS名義的アルバム。「TRUTH \[with '91 Suzuka Grand Prix F-1 Sound ver.\]」を収録。 |
+| *SOLITUDE*             | 1994.10.01 | VRCL-2040 | [アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")追悼アルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                              |
 
 ### シングル
 
-| タイトル                                                                                      | **発売年月日**  | **品番**    | **備考**          |  |
-| :---------------------------------------------------------------------------------------- | ---------- | --------- | --------------- |  |
-| *MAKE ME A STAR*                                                                          | 1979.06.21 | 06SP-334  |                 |  |
-| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21 | 06SP-452  |                 |  |
-| *I'M WALKMAN*                                                                             | 1980.04.01 | 07SP-496  |                 |  |
-| *IT'S MAGIC*                                                                              | 1981.10.21 | 07SH-1087 |                 |  |
-| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01 | 07SH-1479 |                 |  |
-| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21 | 12AH-1814 |                 |  |
-| *PRIME*                                                                                   | 1985.04.01 | 12AH-1840 |                 |  |
-| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21 | 12AH-1835 |                 |  |
-| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05 | 12AH-1998 |                 |  |
-| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10 | SRDL-3397 |                 |  |
-| *CHASER*                                                                                  | 1992.06.21 | SRDL-3479 |                 |  |
-| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21 | SRDL-3504 |                 |  |
-| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22 | SRDL-3510 |                 |  |
-| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21 | SRDL-3667 |                 |  |
-| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21 | SRDL-3786 | オーケストラアレンジ版     |  |
-| *VICTORY*                                                                                 | 1996.06.01 | SRDL-4211 |                 |  |
-| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09 | VRCL-3336 | T-SQUARE plus名義 |  |
-| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23 | VRCL-3344 |                 |  |
-|                                                                                           |            |           |                 |  |
+| タイトル                                                                                      | **発売年月日**  | **品番**    | **備考**          |
+| :---------------------------------------------------------------------------------------- | ---------- | --------- | --------------- |
+| *MAKE ME A STAR*                                                                          | 1979.06.21 | 06SP-334  |                 |
+| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21 | 06SP-452  |                 |
+| *I'M WALKMAN*                                                                             | 1980.04.01 | 07SP-496  |                 |
+| *IT'S MAGIC*                                                                              | 1981.10.21 | 07SH-1087 |                 |
+| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01 | 07SH-1479 |                 |
+| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21 | 12AH-1814 |                 |
+| *PRIME*                                                                                   | 1985.04.01 | 12AH-1840 |                 |
+| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21 | 12AH-1835 |                 |
+| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05 | 12AH-1998 |                 |
+| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10 | SRDL-3397 |                 |
+| *CHASER*                                                                                  | 1992.06.21 | SRDL-3479 |                 |
+| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21 | SRDL-3504 |                 |
+| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22 | SRDL-3510 |                 |
+| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21 | SRDL-3667 |                 |
+| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21 | SRDL-3786 | オーケストラアレンジ版     |
+| *VICTORY*                                                                                 | 1996.06.01 | SRDL-4211 |                 |
+| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09 | VRCL-3336 | T-SQUARE plus名義 |
+| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23 | VRCL-3344 |                 |
+|                                                                                           |            |           |                 |
 
 ### 企画アルバム
 

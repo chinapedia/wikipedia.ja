@@ -1,4 +1,4 @@
-> この記事は[ \(KBS\)](https://ja.wikipedia.org/wiki/_\(KBS\))から翻訳されています。
+> この記事は[村上祐子 \(KBS京都\)](https://ja.wikipedia.org/wiki/村上祐子_\(KBS京都\))から翻訳されています。
 
 
 **村上 祐子**（むらかみ ゆうこ）は、[KBS京都元](../Page/京都放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、常勤監査役（[京都放送人事](https://www.kbs-kyoto.co.jp/profile/profile02.htm)）**本名・今井祐子（旧姓・村上）**。

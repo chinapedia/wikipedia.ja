@@ -1,4 +1,4 @@
-> この記事は[RNA](https://ja.wikipedia.org/wiki/RNA)から翻訳されています。
+> この記事は[転移RNA](https://ja.wikipedia.org/wiki/転移RNA)から翻訳されています。
 
 
 [Peptide_syn.png](https://ja.wikipedia.org/wiki/File:Peptide_syn.png "fig:Peptide_syn.png")は、一連の[伝令RNA](../Page/伝令RNA.md "wikilink")（[:en: Messenger RNA](https://ja.wikipedia.org/wiki/:en:_Messenger_RNA "wikilink")）を読み取り、**転移RNA**（[:en: Transfer RNA](https://ja.wikipedia.org/wiki/:en:_Transfer_RNA "wikilink") (TRNA)）に結びついた[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")から所定の[タンパク質](../Page/タンパク質.md "wikilink")を組み立てる。\]\] [Protein_translation.gif](https://ja.wikipedia.org/wiki/File:Protein_translation.gif "fig:Protein_translation.gif")に分泌されるタンパク質を組み立てている[リボソーム](../Page/リボソーム.md "wikilink")\]\] [TRNA-Phe_yeast_1ehz.png](https://ja.wikipedia.org/wiki/File:TRNA-Phe_yeast_1ehz.png "fig:TRNA-Phe_yeast_1ehz.png") [転移ＲＮＡの構造（クローバーリーフ）.png](https://ja.wikipedia.org/wiki/File:転移ＲＮＡの構造（クローバーリーフ）.png "fig:転移ＲＮＡの構造（クローバーリーフ）.png") **転移RNA**（てんいRNA、）は73〜93塩基の長さの小さな[RNAである](../Page/リボ核酸.md "wikilink")。[リボソーム](../Page/リボソーム.md "wikilink")のタンパク質合成部位で[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")上の塩基配列（[コドン](../Page/コドン.md "wikilink")）を認識し、対応する[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")を合成中のポリペプチド鎖に転移させるためのアダプター分子である。**運搬RNA**、**トランスファーRNA**などとも呼ぶが、通常**tRNA**と略記される。
@@ -34,7 +34,7 @@ tRNAの3'末端にあるCCAの[アデノシン](../Page/アデノシン.md "wiki
 
 [ゲノム](../Page/ゲノム.md "wikilink")中のtRNA遺伝子の数は生物により様々である。[線虫](https://ja.wikipedia.org/wiki/線虫 "wikilink")[C. elegansの核ゲノムには全部で](https://ja.wikipedia.org/wiki/C._elegans "wikilink")19000遺伝子があるが、そのうち659がtRNAをコードしている\[1\]。[出芽酵母](../Page/出芽酵母.md "wikilink")では275である。[ヒト](../Page/ヒト.md "wikilink")では497個が知られており、アンチコドンごとに整理すると49種となる。またヒトのゲノム中にはtRNA由来の[偽遺伝子](../Page/偽遺伝子.md "wikilink")が324個見つかっている\[2\]。
 
-真核生物では、[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")が[RNAポリメラーゼ](https://ja.wikipedia.org/wiki/RNAポリメラーゼ "wikilink")IIにより転写されるのに対し、tRNAはRNAポリメラーゼIIIによって転写される。その後[Pre-tRNA スプライシングや塩基修飾を経て成熟型のtRNA分子へと加工される](../Page/Pre-tRNA_スプライシング.md "wikilink")。
+真核生物では、[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")が[RNAポリメラーゼII](../Page/RNAポリメラーゼII.md "wikilink")により転写されるのに対し、tRNAはRNAポリメラーゼIIIによって転写される。その後[Pre-tRNA スプライシングや塩基修飾を経て成熟型のtRNA分子へと加工される](../Page/Pre-tRNA_スプライシング.md "wikilink")。
 
 ## 訳語について
 

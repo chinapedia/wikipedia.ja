@@ -1,4 +1,4 @@
-> この記事は[EYE](https://ja.wikipedia.org/wiki/EYE)から翻訳されています。
+> この記事は[ステーションEYE](https://ja.wikipedia.org/wiki/ステーションEYE)から翻訳されています。
 
 
 『**ステーションEYE**』（ステーションアイ）は、月-金曜版は[1991年](../Page/1991年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、土・日曜版は[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から1997年[9月28日](../Page/9月28日.md "wikilink")まで、[テレビ朝日](../Page/テレビ朝日.md "wikilink")（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）系列で放送されていた[夕](../Page/夕.md "wikilink")方の[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(ANN\)](https://ja.wikipedia.org/wiki/_\(ANN\))から翻訳されています。
+> この記事は[ナイトライン \(ANN\)](https://ja.wikipedia.org/wiki/ナイトライン_\(ANN\))から翻訳されています。
 
 
 『**ナイトライン**』（英語表記：*Night line*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [1991年](../Page/1991年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")にかけて放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink") ([ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")) の週末深夜 (23:00 - 23:30) の[ニュース番組](../Page/報道番組.md "wikilink")。司会に元[フジテレビアナウンサーの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[田丸美寿々](../Page/田丸美寿々.md "wikilink")（当時は美里美寿々）を起用し、[ニュース](../Page/ニュース.md "wikilink")と[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")を放送していた。ロゴタイプ上は『**ナイトライン**＜改行＞**ANN**』。

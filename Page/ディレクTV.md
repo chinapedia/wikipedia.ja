@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ディレクTV](https://ja.wikipedia.org/wiki/ディレクTV)から翻訳されています。
 
 
 **ディレクTV**（、ディレクティービー）は、主に北中南米地域においてサービスを行っている[衛星放送](../Page/衛星放送.md "wikilink")サービス。[AT\&T](../Page/AT&T.md "wikilink")の一部門であるが運営している。

@@ -1,4 +1,4 @@
-> この記事は[!! VARIETYSHOW\&SPORTS](https://ja.wikipedia.org/wiki/!!_VARIETYSHOW\&SPORTS)から翻訳されています。
+> この記事は[どんまい!! VARIETYSHOW\&SPORTS](https://ja.wikipedia.org/wiki/どんまい!!_VARIETYSHOW\&SPORTS)から翻訳されています。
 
 
 『**どんまい\!\! VARIETYSHOW & SPORTS**』（どんまい バラエティショー アンド スポーツ）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系全国ネットで編成された](../Page/日本テレビネットワーク協議会.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠。

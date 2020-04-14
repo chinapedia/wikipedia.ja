@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR北海道の車両形式](https://ja.wikipedia.org/wiki/JR北海道の車両形式)から翻訳されています。
 
 
 **JR北海道の車両形式**（ジェイアールほっかいどうのしゃりょうけいしき）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")に在籍する、あるいは在籍した[鉄道車両](../Page/鉄道車両.md "wikilink")の一覧である。
@@ -65,9 +65,9 @@ JR北海道の公式文書では、気動車の形式は「キハ」を付けず
           - [クリスタルエクスプレス トマム & サホロ](https://ja.wikipedia.org/wiki/クリスタルエクスプレス_トマム_&_サホロ "wikilink")（5100番台）
           - [ノースレインボーエクスプレス](../Page/ノースレインボーエクスプレス.md "wikilink")（5200番台）
           - お座敷車両（6000番台）
-      - [キハ261系](../Page/JR北海道キハ261系気動車.md "wikilink")（[宗谷](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[サロベツ](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[スーパーとかち](https://ja.wikipedia.org/wiki/とかち_\(列車\) "wikilink")・[スーパー北斗](../Page/北斗_\(列車\).md "wikilink")）
-      - [キハ281系](../Page/JR北海道キハ281系気動車.md "wikilink")（スーパー北斗）
-      - [キハ283系](../Page/JR北海道キハ283系気動車.md "wikilink")（[スーパーおおぞら](../Page/おおぞら_\(列車\).md "wikilink")）
+      - [キハ261系](../Page/JR北海道キハ261系気動車.md "wikilink")（[宗谷](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[サロベツ](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[とかち](https://ja.wikipedia.org/wiki/とかち_\(列車\) "wikilink")・[北斗](../Page/北斗_\(列車\).md "wikilink")）
+      - [キハ281系](../Page/JR北海道キハ281系気動車.md "wikilink")（北斗）
+      - [キハ283系](../Page/JR北海道キハ283系気動車.md "wikilink")（[おおぞら](../Page/おおぞら_\(列車\).md "wikilink")）
   - **一般形**
       - [キハ40系](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")（キハ40形のみ在籍）
       - [キハ54形](../Page/国鉄キハ54形気動車.md "wikilink")

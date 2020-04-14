@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ブルーノ・J・グローバル](https://ja.wikipedia.org/wiki/ブルーノ・J・グローバル)から翻訳されています。
 
 
 **ブルーノ・J・グローバル**(Bruno J. Global)は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[超時空要塞マクロス](../Page/超時空要塞マクロス.md "wikilink")』および関連作品に登場する、架空の人物。主要登場人物のひとり。男性。[声の出演は](../Page/声優.md "wikilink")[羽佐間道夫](../Page/羽佐間道夫.md "wikilink")。

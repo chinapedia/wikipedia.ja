@@ -1,4 +1,4 @@
-> この記事は[TXN](https://ja.wikipedia.org/wiki/TXN)から翻訳されています。
+> この記事は[TXNニュースアイ](https://ja.wikipedia.org/wiki/TXNニュースアイ)から翻訳されています。
 
 
 『**TXNニュースアイ**』（ティーエックスエヌ ニュースアイ、英称:*TXN NEWS EYE*）は、[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで（土日は1999年[10月9日](../Page/10月9日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")まで）放送されていた[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")）製作の[報道番組](../Page/報道番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")10月からタイトルロゴ表記のみ英語に変更。番組名の『アイ』は、初代キャスターの[久和ひとみ](../Page/久和ひとみ.md "wikilink")の「ひとみ」（[瞳](../Page/瞳.md "wikilink")）と「EYE」（瞳の英訳）とをかけたもの。
@@ -91,7 +91,7 @@
 
 ## 中国人窃盗団のスクープ報道
 
-2002年5月27日、昼の『[ニュースウォッチ](../Page/ニュースウォッチ.md "wikilink")』と当番組の番組冒頭で、中国人窃盗団の犯行から逮捕までの一部始終をスクープ映像として放送した。だがそれは後に、窃盗団の案内役である日本人男性から事前に犯行計画の情報を得ての撮影だったこと、さらにはその男性に2度現金を渡していたことが明らかになった。 詳細およびテレビ東京の対応については\[[http://www.tv-tokyo.co.jp/kouhou/st020808.html\]を参照](http://www.tv-tokyo.co.jp/kouhou/st020808.html%5Dを参照)。
+2002年5月27日、昼の『[ニュースウォッチ](../Page/ニュースウォッチ.md "wikilink")』と当番組の番組冒頭で、中国人窃盗団の犯行から逮捕までの一部始終をスクープ映像として放送した。だがそれは後に、窃盗団の案内役である日本人男性から事前に犯行計画の情報を得ての撮影だったこと、さらにはその男性に2度現金を渡していたことが明らかになった。 詳細およびテレビ東京の対応については\[[https://www.tv-tokyo.co.jp/kouhou/st020808.html\]を参照](https://www.tv-tokyo.co.jp/kouhou/st020808.html%5Dを参照)。
 
 ## 放送時間の変遷
 

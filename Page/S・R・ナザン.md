@@ -1,4 +1,4 @@
-> この記事は[SR](https://ja.wikipedia.org/wiki/SR)から翻訳されています。
+> この記事は[S・R・ナザン](https://ja.wikipedia.org/wiki/S・R・ナザン)から翻訳されています。
 
 
 **セッラパン・ラーマナータン**（、、[1924年](../Page/1924年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")\[1\]）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の政治家、外交官、公務員、企業家。第6代[同国大統領](../Page/シンガポールの大統領.md "wikilink")\[2\]。駐米大使を経て[1999年](../Page/1999年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで12年間大統領を務めた。**S・R・ナザン**（）とも表記される。

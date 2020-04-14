@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCメッシュテック](https://ja.wikipedia.org/wiki/NBCメッシュテック)から翻訳されています。
 
 
 **株式会社NBCメッシュテック**（**エヌビーシーメッシュテック**）は、[東京都](../Page/東京都.md "wikilink")[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")に本社を置く[スクリーン](../Page/スクリーン.md "wikilink")[印刷](../Page/印刷.md "wikilink")用資材等の製造・販売会社である。[日清製粉グループ本社](../Page/日清製粉グループ本社.md "wikilink")の子会社。

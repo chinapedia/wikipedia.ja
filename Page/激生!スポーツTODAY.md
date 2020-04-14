@@ -1,4 +1,4 @@
-> この記事は[!TODAY](https://ja.wikipedia.org/wiki/!TODAY)から翻訳されています。
+> この記事は[激生!スポーツTODAY](https://ja.wikipedia.org/wiki/激生!スポーツTODAY)から翻訳されています。
 
 
 『**激生\!スポーツTODAY**』（げきなま\!スポーツトゥデイ、略称：**激スポ\!**）は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列と中京](../Page/TXNネットワーク.md "wikilink")、近畿の一部の[独立UHF放送局](../Page/全国独立放送協議会.md "wikilink")、並びに[BSジャパン（現・BSテレ東）で放送していた](../Page/BSテレビ東京.md "wikilink")[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。

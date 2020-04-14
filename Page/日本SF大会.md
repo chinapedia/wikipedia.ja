@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[日本SF大会](https://ja.wikipedia.org/wiki/日本SF大会)から翻訳されています。
 
 
 **日本SF大会**（にほんエスエフたいかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で開かれる[SF大会](../Page/SF大会.md "wikilink")であり、日本全国の[SFファンやSF同人サークルが一堂に集う](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[祭り](https://ja.wikipedia.org/wiki/祭り "wikilink")である。

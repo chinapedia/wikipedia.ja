@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[佐川急便東京SC](https://ja.wikipedia.org/wiki/佐川急便東京SC)から翻訳されています。
 
 
 **佐川急便株式会社東京サッカークラブ**\[1\]（さがわきゅうびんかぶしきがいしゃとうきょうサッカークラブ）、通称**佐川急便東京SC**\[2\]（さがわきゅうびんとうきょうSC）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")を本拠地として活動していた[佐川急便](../Page/佐川急便.md "wikilink")東京支社による企業[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
@@ -53,6 +53,20 @@
 | [2005](../Page/第7回日本フットボールリーグ.md "wikilink") | **6位** | 52     | 30 | 16 | 4  | 10 | 55 | 33 | \+22 | 16   | 天皇杯4回戦敗退 |             |
 |                                              |        |        |    |    |    |    |    |    |      |      |          |             |
 | [2006](../Page/第8回日本フットボールリーグ.md "wikilink") | **2位** | 75     | 34 | 23 | 6  | 5  | 84 | 23 | \+61 | 18   |          |             |
+
+## タイトル
+
+### リーグ戦
+
+  - **[関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")1部：1回**
+      - 2000年
+
+### カップ戦
+
+  - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：1回**
+      - 2000年
+  - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")：1回**
+      - 2000年
 
 ## 歴代監督
 
@@ -149,7 +163,7 @@
 
 ## 関連項目
 
-  - [日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")
+  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
   - [SAGAWA SHIGA FC](../Page/SAGAWA_SHIGA_FC.md "wikilink")
   - [佐川急便大阪SC](../Page/佐川急便大阪SC.md "wikilink")
   - [佐川印刷SC](https://ja.wikipedia.org/wiki/佐川印刷サッカー部 "wikilink")

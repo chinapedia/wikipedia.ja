@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[モーニングLIVE](https://ja.wikipedia.org/wiki/モーニングLIVE)から翻訳されています。
 
 
 **モーニングLIVE（もーにんぐらいぶ）**は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された平日早朝の[情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。それまであった『[おはようスポーツ545](https://ja.wikipedia.org/wiki/おはようスポーツ545 "wikilink")』と『[おめざめ天気予報](https://ja.wikipedia.org/wiki/おめざめ天気予報 "wikilink")』の2番組を統合し、報道局発のニュースも挿入する形でリニューアルを図った。

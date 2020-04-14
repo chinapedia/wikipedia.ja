@@ -1,4 +1,4 @@
-> この記事は[XFY-1 \(\)](https://ja.wikipedia.org/wiki/XFY-1_\(\))から翻訳されています。
+> この記事は[XFY-1 \(航空機\)](https://ja.wikipedia.org/wiki/XFY-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=コンベア XFY-1 | 画像= Image:Convair XYF-1 Pogo.jpg | キャプション=（パイロットははしごを使って操縦席に入る） | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")、[VTOL機](../Page/垂直離着陸機.md "wikilink") | 設計者= | 製造者=[コンベア](../Page/コンベア.md "wikilink") | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 初飛行年月日=1954年8月 | 生産数=1機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況= | ユニットコスト= }}

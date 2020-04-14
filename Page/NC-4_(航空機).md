@@ -1,4 +1,4 @@
-> この記事は[NC-4 \(\)](https://ja.wikipedia.org/wiki/NC-4_\(\))から翻訳されています。
+> この記事は[NC-4 \(航空機\)](https://ja.wikipedia.org/wiki/NC-4_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NC4nasagov.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NC_flight_path.jpg "wikilink")

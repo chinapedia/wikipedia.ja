@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[D軌道](https://ja.wikipedia.org/wiki/D軌道)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Spritofdorbit2.png "wikilink") **d軌道**（ディーきどう、）とは、[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")を構成している[電子軌道](../Page/電子軌道.md "wikilink")の1種である。

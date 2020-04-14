@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本の車両形式](https://ja.wikipedia.org/wiki/JR西日本の車両形式)から翻訳されています。
 
 
 **JR西日本の車両形式**は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）に在籍する、あるいは在籍した[鉄道車両](../Page/鉄道車両.md "wikilink")の一覧である。
@@ -68,6 +68,7 @@
       - **直流用**
           - [381系](../Page/国鉄381系電車.md "wikilink")（[やくも](../Page/やくも_\(列車\).md "wikilink")）
           - [281系](../Page/JR西日本281系電車.md "wikilink")（[はるか](../Page/はるか_\(列車\).md "wikilink")）
+          - [271系](https://ja.wikipedia.org/wiki/JR西日本271系電車 "wikilink")（同上）
           - [283系](../Page/JR西日本283系電車.md "wikilink")（[くろしお](../Page/くろしお_\(列車\).md "wikilink")）
           - [285系](../Page/JR西日本285系電車.md "wikilink")（[サンライズ瀬戸](../Page/瀬戸_\(列車\).md "wikilink")・[サンライズ出雲](../Page/出雲_\(列車\).md "wikilink")）
           - [287系](https://ja.wikipedia.org/wiki/JR西日本287系電車 "wikilink")（くろしお・[こうのとり](../Page/こうのとり_\(列車\).md "wikilink")・[きのさき](https://ja.wikipedia.org/wiki/きのさき_\(列車\) "wikilink")・[はしだて](../Page/はしだて_\(列車\).md "wikilink")・[まいづる](../Page/まいづる_\(列車\).md "wikilink")）
@@ -162,12 +163,6 @@
 
   - [285系電車3000番台](../Page/JR西日本285系電車.md "wikilink")（JR東海からの管理受託車両）
   - [智頭急行HOT7000系気動車](../Page/智頭急行HOT7000系気動車.md "wikilink")（[智頭急行](../Page/智頭急行.md "wikilink")からの管理受託車両）
-
-## 導入予定車両
-
-  - [271系](https://ja.wikipedia.org/wiki/JR西日本271系電車 "wikilink")
-      -
-        2019年6月21日に、2020年春に[関空特急「はるか」へ導入することを発表した特急型直流電車](../Page/はるか_\(列車\).md "wikilink")\[8\]。
 
 ## 過去の所属車両
 
@@ -363,4 +358,3 @@
 5.
 6.  [データで見るJR西日本](http://www.westjr.co.jp/company/info/issue/data/)（p.123）の分類による。JR西日本では普通列車用の電車については列車や線区の実情に合わせて通勤形、近郊形と明確に区分している。当形式登場時のJR西日本では国鉄時代の車両形式区分を基本的に踏襲していたため、車両形式区分の第2位の数字「2」の車両は通常であれば近郊形に区分されるが、当形式は小浜線や加古川線で使用している一般形気動車の置き換えと電化目的で製作された車両であるため、ローカル線用の標準タイプとして例外的に一般形へ区分されている。
 7.  当初は鉄道ファンからの非公式愛称であり、JR西日本では愛称は特にないとしていた\[[http://www.sankei.com/west/news/140916/wst1409160042-n1.html\]が、2016年8月の](http://www.sankei.com/west/news/140916/wst1409160042-n1.html%5Dが、2016年8月の)[京都鉄道博物館](https://ja.wikipedia.org/wiki/京都鉄道博物館 "wikilink")での期間限定展示の際にJR西日本側が「ドクターWEST」の呼称を使うようになった[1](https://www.westjr.co.jp/press/article/2016/08/page_9049.html)。
-8.

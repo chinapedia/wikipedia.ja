@@ -1,4 +1,4 @@
-> この記事は[MTV \(\)](https://ja.wikipedia.org/wiki/MTV_\(\))から翻訳されています。
+> この記事は[MTV \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/MTV_\(曖昧さ回避\))から翻訳されています。
 
 
 **MTV**

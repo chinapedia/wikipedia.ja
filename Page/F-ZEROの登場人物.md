@@ -1,4 +1,4 @@
-> この記事は[F-ZERO](https://ja.wikipedia.org/wiki/F-ZERO)から翻訳されています。
+> この記事は[F-ZEROの登場人物](https://ja.wikipedia.org/wiki/F-ZEROの登場人物)から翻訳されています。
 
 
 <div class="pathnavbox">

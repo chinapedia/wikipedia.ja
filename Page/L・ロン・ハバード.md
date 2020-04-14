@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[L・ロン・ハバード](https://ja.wikipedia.org/wiki/L・ロン・ハバード)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:L._Ron_Hubbard_in_1950.jpg "wikilink")**ラファイエット・ロナルド・ハバード**(**Lafayette Ronald Hubbard**、[1911年](../Page/1911年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月24日](../Page/1月24日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の冒険家、作家、哲学者\[1\]。人間の無意識の構造をはじめて解き明かし、1950年には、[ダイアネティックス](../Page/ダイアネティックス.md "wikilink"):心の健康の為の現代科学を著した。更なる探究の末1954年には、独自の[宗教哲学](../Page/宗教哲学.md "wikilink")を展開。応用[宗教哲学](../Page/宗教哲学.md "wikilink")(Application philosophy of religion)[サイエントロジー](../Page/サイエントロジー.md "wikilink")を創設した。ハバードの著作は[サイエントロジー教会](https://ja.wikipedia.org/wiki/サイエントロジー教会 "wikilink")及び、ビジネス管理運営をはじめ識字能力の向上や薬物リハビリテーション、犯罪者更生プログラム等、多岐に渡る社会的人道活動に取り組む組織への指導書となっている\[2\] 。

@@ -1,4 +1,4 @@
-> この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
+> この記事は[スポーツWAVE](https://ja.wikipedia.org/wiki/スポーツWAVE)から翻訳されています。
 
 
 『**スポーツWAVE**』（スポーツ・ウェーブ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1994年](../Page/1994年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")（2日深夜）から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までにかけて放送されたニュースとスポーツの[コンプレックス番組](../Page/コンプレックス_\(番組形式\).md "wikilink")。正確には、放送年によって『**LIVE'94 スポーツWAVE**』『**LIVE'95 スポーツWAVE**』という。

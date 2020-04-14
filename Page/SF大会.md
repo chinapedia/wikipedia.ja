@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF大会](https://ja.wikipedia.org/wiki/SF大会)から翻訳されています。
 
 
 **SF大会**（えすえふたいかい、[英語](../Page/英語.md "wikilink")：）は、[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")と[ファンタジー](../Page/ファンタジー.md "wikilink")ファンが集まる祭典である。

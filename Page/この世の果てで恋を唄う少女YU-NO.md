@@ -1,4 +1,4 @@
-> この記事は[YU-NO](https://ja.wikipedia.org/wiki/YU-NO)から翻訳されています。
+> この記事は[この世の果てで恋を唄う少女YU-NO](https://ja.wikipedia.org/wiki/この世の果てで恋を唄う少女YU-NO)から翻訳されています。
 
 
 『**この世の果てで恋を唄う少女YU-NO**』（このよのはてでこいをうたうしょうじょ ユーノ、英題：*YU-NO：A girl who chants love at the bound of this world.*）は、[菅野ひろゆき](../Page/菅野ひろゆき.md "wikilink")\[1\]が企画・脚本・ゲームデザイン・総合プロデュースを担当し、[エルフより発売された](../Page/エルフ_\(ブランド\).md "wikilink")[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")\[2\]。

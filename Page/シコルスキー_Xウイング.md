@@ -1,4 +1,4 @@
-> この記事は[ X](https://ja.wikipedia.org/wiki/_X)から翻訳されています。
+> この記事は[シコルスキー Xウイング](https://ja.wikipedia.org/wiki/シコルスキー_Xウイング)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Sikorsky_X-wing_diagonal_view.jpg "wikilink") **シコルスキー S-72　Xウイング** (Sikorsky S-72 X-Wing) は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1988年](../Page/1988年.md "wikilink")にかけて、[NASA](../Page/アメリカ航空宇宙局.md "wikilink") と [国防高等研究計画局](../Page/国防高等研究計画局.md "wikilink") (DARPA) の資金協力を得て、[シコルスキー・エアクラフト](../Page/シコルスキー・エアクラフト.md "wikilink")社が開発した[ヘリコプター](../Page/ヘリコプター.md "wikilink")と[固定翼機](../Page/固定翼機.md "wikilink")を混合させた ローター・システム検証（研究）航空機 ( Rotor Systems Research Aircraft, **RSRA**) である。
@@ -89,7 +89,7 @@ X字型翼・循環制御・概念は1970年代中頃であった1976年10月に
 
 <!-- end list -->
 
-1.  [アメリカ航空宇宙局・技術報告書保管庫 - 回転翼システム検証／研究航空機の概念実証 ( 英語, PDF, 6.5 MB )](http://hdl.handle.net/2060/19720025371)\[23\]
+1.  [アメリカ航空宇宙局・技術報告書保管庫 - 回転翼システム検証／研究航空機の概念実証 ( 英語, PDF, 6.5 MB )](https://hdl.handle.net/2060/19720025371)\[23\]
 2.  カバヤ 1/130 縮尺 シコルスキー S-72「回転翼機構・検証／研究航空機」,（RSRA）仕様機〔おもて面〕組み立て方、完成図【 I.複合ヘリコプター ｜ II.固定翼機 】、実機解説。／〔裏面〕： 組み立て図 1-8\[24\]\[25\]
 
 乗員： 2名、または 3名（機長 兼 正操縦士、副操縦士、電子機器操作員 兼 観測員)

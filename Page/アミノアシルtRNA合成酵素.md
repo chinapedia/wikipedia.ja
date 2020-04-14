@@ -1,4 +1,4 @@
-> この記事は[tRNA](https://ja.wikipedia.org/wiki/tRNA)から翻訳されています。
+> この記事は[アミノアシルtRNA合成酵素](https://ja.wikipedia.org/wiki/アミノアシルtRNA合成酵素)から翻訳されています。
 
 
 **アミノアシルtRNA合成酵素** (アミノアシルtRNAごうせいこうそ、aminoacyl-tRNA synthetase) とは、特定の[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink") (またはその前駆体)を、その対応する[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")に[エステル](../Page/エステル.md "wikilink")結合させて[アミノアシルtRNA](https://ja.wikipedia.org/wiki/アミノアシルtRNA "wikilink")を合成する[酵素](../Page/酵素.md "wikilink")である。英語の略号として**aaRS**や**ARS**が用いられる。

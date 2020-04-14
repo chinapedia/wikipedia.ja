@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FC刈谷](https://ja.wikipedia.org/wiki/FC刈谷)から翻訳されています。
 
 
 **FC刈谷**（エフシーかりや）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の一つである。
@@ -13,7 +13,7 @@
 
 [1949年](../Page/1949年.md "wikilink")に**日本電装サッカー部**として創設。東海社会人リーグを中心に上位に君臨したが、[1995年度の](https://ja.wikipedia.org/wiki/第19回全国地域リーグ決勝大会 "wikilink")[全国地域リーグ決勝大会](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")（1996年1月開催）で優勝し、[ジャパンフットボールリーグ](../Page/ジャパンフットボールリーグ.md "wikilink")へ昇格した。また、同年に[デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")への社名変更に伴い**デンソーサッカー部**にチーム名も変更した。
 
-[2000年](../Page/2000年.md "wikilink")は3位に入り、2001年には[徳重隆明](../Page/徳重隆明.md "wikilink")が[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")の年間得点王を獲得した。
+[2000年](../Page/2000年.md "wikilink")は3位に入り、2001年には[徳重隆明](../Page/徳重隆明.md "wikilink")が[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")の年間得点王を獲得した。
 
 ### FC刈谷（2006年 - ）
 
@@ -324,6 +324,9 @@
 ### リーグ戦
 
   - **[東海社会人サッカーリーグ](../Page/東海社会人サッカーリーグ.md "wikilink")1部：5回**
+
+### カップ戦
+
   - **[全国地域リーグ決勝大会](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")：2回**
 
 ## 所属選手・スタッフ

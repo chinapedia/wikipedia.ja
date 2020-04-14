@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNN日曜夕刊](https://ja.wikipedia.org/wiki/NNN日曜夕刊)から翻訳されています。
 
 
 『**NNN日曜夕刊**』（エヌエヌエヌ にちようゆうかん）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までにかけて[日曜日](../Page/日曜日.md "wikilink")に放送された夕方の[ニュース](../Page/報道番組.md "wikilink")[番組](../Page/テレビ番組.md "wikilink")。

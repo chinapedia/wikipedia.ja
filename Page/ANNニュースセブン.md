@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNニュースセブン](https://ja.wikipedia.org/wiki/ANNニュースセブン)から翻訳されています。
 
 
 『**ANNニュースセブン**』（エイエヌエヌニュースセブン）は、[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：NETテレビ）系列 ([ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")) で放送された朝の[報道番組](../Page/報道番組.md "wikilink")である。

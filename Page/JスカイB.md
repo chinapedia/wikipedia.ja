@@ -1,4 +1,4 @@
-> この記事は[JB](https://ja.wikipedia.org/wiki/JB)から翻訳されています。
+> この記事は[JスカイB](https://ja.wikipedia.org/wiki/JスカイB)から翻訳されています。
 
 
 **JスカイB**（JSkyB）は、**ジェイ・スカイ・ビー**株式会社（Japan Sky Broadcasting Co., Ltd.）が運営する予定であった[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[プラットフォーム](../Page/有料放送管理事業者.md "wikilink")。

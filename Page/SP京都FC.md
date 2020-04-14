@@ -1,11 +1,11 @@
-> この記事は[SPFC](https://ja.wikipedia.org/wiki/SPFC)から翻訳されています。
+> この記事は[SP京都FC](https://ja.wikipedia.org/wiki/SP京都FC)から翻訳されています。
 
 
 **SP京都FC**（エスピーきょうとエフシー、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[京都府](../Page/京都府.md "wikilink")[向日市](../Page/向日市.md "wikilink")にあった[社会人](https://ja.wikipedia.org/wiki/社会人 "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。登録チーム名は「**SP京都フットボールクラブ**」。
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「佐川印刷京都サッカークラブ」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「SP京都フットボールクラブ」（呼称：SP京都FC）に名称変更した\[3\]。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[佐川印刷](https://ja.wikipedia.org/wiki/佐川印刷 "wikilink")のサッカー部として創部。[2000年](../Page/2000年.md "wikilink")に[関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")、[2003年](../Page/2003年.md "wikilink")に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へそれぞれ昇格した\[1\]。また、[2014年](../Page/2014年.md "wikilink")より登録チーム名を「佐川印刷京都サッカークラブ」、呼称を「佐川印刷京都」へ変更\[2\]。さらに[2015年](../Page/2015年.md "wikilink")より「SP京都フットボールクラブ」（呼称：SP京都FC）に名称変更した\[3\]。
 
 ## 歴史
 
@@ -16,7 +16,7 @@
   - [2002年](../Page/2002年.md "wikilink")
     [関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")で優勝。[全国地域リーグ決勝大会で準優勝](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")。JFL15位の[静岡産業大学との](../Page/静岡産業大学サッカー部.md "wikilink")[入れ替え戦にPK戦で勝利](https://ja.wikipedia.org/wiki/第4回日本フットボールリーグ#入れ替え戦 "wikilink")。[天皇杯全日本サッカー選手権大会に初出場し](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")、1回戦で[TDK](https://ja.wikipedia.org/wiki/TDKサッカー部 "wikilink")（現：[ブラウブリッツ秋田](../Page/ブラウブリッツ秋田.md "wikilink")）を破り大会初勝利も挙げた。
   - [2003年](../Page/2003年.md "wikilink")
-    [日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）へ昇格\[8\]。リーグ戦は入れ替え戦圏内の15位で終えたが、レギュレーション変更によりJFLに残留した（詳細は[当項目を参照](https://ja.wikipedia.org/wiki/第5回日本フットボールリーグ#チーム減によるレギュレーション変更 "wikilink")）。
+    [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へ昇格\[8\]。リーグ戦は入れ替え戦圏内の15位で終えたが、レギュレーション変更によりJFLに残留した（詳細は[当項目を参照](https://ja.wikipedia.org/wiki/第5回日本フットボールリーグ#チーム減によるレギュレーション変更 "wikilink")）。
   - [2006年](../Page/2006年.md "wikilink")
     [ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")などの元監督の[松永英機](../Page/松永英機.md "wikilink")が監督に就任したが、成績が振るわず[8月31日](../Page/8月31日.md "wikilink")付で退任、強化部長の田中克季が監督に就任（正式な監督としての活動は[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")の[京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")決勝からであり、前日である[9月2日](../Page/9月2日.md "wikilink")の同カップ準決勝は当初の「強化部長」の肩書で指揮）。
   - [2009年](../Page/2009年.md "wikilink")
@@ -102,7 +102,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/第5回日本フットボールリーグ.md" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本フットボールリーグ" title="wikilink">JFL</a></p></td>
+<td><p><a href="../Page/日本フットボールリーグ.md" title="wikilink">JFL</a></p></td>
 <td><p>15位</p></td>
 <td><p>30</p></td>
 <td><p>21</p></td>
@@ -299,11 +299,11 @@
 </tbody>
 </table>
 
-## 成績・表彰
+## タイトル・表彰
 
 ### クラブ
 
-  - [日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")
+  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
       - 準優勝 1回（2014）
   - [関西サッカーリーグ](../Page/関西サッカーリーグ.md "wikilink")
       - 優勝 1回（2002）
@@ -314,7 +314,7 @@
 
 ### 個人
 
-  - [日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")
+  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
       - 得点王
           - [2009年](https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ "wikilink")：[塩沢勝吾](../Page/塩沢勝吾.md "wikilink")
       - ベストイレブン

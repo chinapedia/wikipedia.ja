@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS日本](https://ja.wikipedia.org/wiki/BS日本)から翻訳されています。
 
 
 **株式会社BS日本**（ビーエスにっぽん、*BS Nippon Corporation*）は、[BSデジタル放送を行っている](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[衛星基幹放送事業者](https://ja.wikipedia.org/wiki/衛星基幹放送事業者 "wikilink")で、[日本テレビホールディングス](https://ja.wikipedia.org/wiki/日本テレビホールディングス "wikilink")の[完全子会社である](../Page/連結子会社.md "wikilink")。
@@ -187,7 +187,7 @@
 
   -
     BS141 - 143chは開局以来長らく[マルチ編成を行っていなかったが](../Page/マルチチャンネル.md "wikilink")、2014年3月に新マスター設備が稼働し、マルチ編成が可能になり、メインチャンネルで通常番組もしくは特別番組放送時にサブチャンネルで野球中継を放送する際には141（・143）chで通常放送もしくは特別番組（HD）、142chで野球中継（SD）が実施される。また、144ch「BS日テレ臨時」は臨時放送用として割り当てられているが、使用されたことはない。
-    なおマルチチャンネル編成がスタートする時間帯には141（・143）でそのチャンネルの切り替えについての説明（ここでは赤ボタンを押して切り替えることだけを説明）が原則として行われる。サブチャンネルで野球中継が放送されていない時間帯には、電波運用上の関係から142が休止となるため、2015年は灰色バックで「**リモコンの青ボタンを押して、141チャンネルをご覧下さい。**」と、2016年以降は｢（141chで放送中の番組の静止画に）**ただいま141chで（放送中の番組名）を放送しています 。**｣の字幕が表示される。なお、18時台に141chの番組が2時間で放送される場合には前述と同じく灰色バックで「リモコンの青ボタンを押して、141チャンネルをご覧下さい。」と表示される。
+    なおマルチチャンネル編成がスタートする時間帯には141（・143）でそのチャンネルの切り替えについての説明（ここでは赤ボタンを押して切り替えることだけを説明）が原則として行われる。サブチャンネルで野球中継が放送されていない時間帯には、電波運用上の関係から142が休止となるため、2015年は灰色バックで「**リモコンの青ボタンを押して、141チャンネルをご覧下さい。**」と、2016年以降は21時台にプロ野球中継延長時に限り、野球中継終了後に｢（141chで放送中の番組の静止画に）**ただいま141chで（放送中の番組名）を放送しています 。**｣の字幕が表示される。なお、21時台のプロ野球中継延長時以外（18時台から141chの番組が2時間で放送される場合など）では前述と同じく灰色バックで「リモコンの青ボタンを押して、141チャンネルをご覧下さい。」と表示される。
 
 <!-- end list -->
 
@@ -465,71 +465,64 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>木曜のシネマ★イブ</p></td>
-<td><p>木曜 23:00 - 23:30</p></td>
-<td><p>映画の最新情報</p></td>
-<td><p>2018年4月5日スタート</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>国内ドラマ</p></td>
 <td><p>桃太郎侍</p></td>
 <td><p>月曜 - 金曜 10:00 - 11:00</p></td>
 <td><p>時代劇の帯放送枠</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>長七郎江戸日記</p></td>
+<tr class="even">
+<td><p>長七郎江戸日記２</p></td>
 <td><p>月曜 - 金曜 18:00 - 18:55</p></td>
 <td><p>メインチャンネル（141ch・HD）で放送</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>瑠璃の島</p></td>
-<td><p>水曜 20:00 - 20:54</p></td>
-<td><p>日テレ地上波ドラマの帯放送枠</p></td>
-<td></td>
+<tr class="odd">
+<td><p>黄金の豚～会計検査庁　特別調査課～</p></td>
+<td><p>木曜 20:00 - 20:54</p></td>
+<td><p>国内ドラマの帯放送枠</p></td>
+<td><p>2020年4月16日スタート予定</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>サスペンス名作選</p></td>
 <td><p>土曜 - 日曜 12:00 - 13:52</p></td>
 <td><p>火曜サスペンス劇場の再放送枠</p></td>
 <td><p>ドラマ以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や通販番組が編成される週もある</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海外ドラマ</p></td>
-<td><p>リーガル・サービス-最大の利益-</p></td>
+<td><p>スイッチ〜君と世界を変える〜</p></td>
 <td><p>月曜 - 金曜 11:30 - 12:30</p></td>
-<td><p>台湾ドラマ</p></td>
+<td><p>韓国ドラマ</p></td>
 <td><p>一部はSD画質放送<br />
 日本語字幕版（全作品）<br />
 データ（一部のみ）</p></td>
 </tr>
-<tr class="odd">
-<td><p>ホジュン〜宮廷医官への道〜</p></td>
+<tr class="even">
+<td><p>大王世宗</p></td>
 <td><p>月曜 - 金曜 13:00 - 14:00</p></td>
-<td><p>韓国ドラマ</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>韓国ドラマ　愛してる、泣かないで</p></td>
+<tr class="odd">
+<td><p>愛してる、泣かないで</p></td>
 <td><p>月曜 - 金曜 16:00 - 17:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>オスマン帝国外伝〜愛と欲望のハレム〜 シーズン2</p></td>
 <td><p>月曜 - 金曜 14:30 - 15:30</p></td>
 <td><p>海外ドラマの帯放送枠</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ドラマ特番</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BS笑点ドラマスペシャル" title="wikilink">BS笑点ドラマスペシャル</a></p></td>
 <td><p>不定期</p></td>
@@ -572,9 +565,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/断ちごはん_〜和牛もいただきます〜" title="wikilink">断ちごはん 〜和牛もいただきます〜</a></p></td>
+<td><p>友近・礼二の妄想トレイン</p></td>
 <td><p>月曜 21:00 - 22:00</p></td>
-<td><p>2019年4月1日スタート</p></td>
+<td><p>2020年4月13日スタート予定</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑点_なつかし版" title="wikilink">笑点 なつかし版</a></p></td>
@@ -583,8 +576,20 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ぶらぶら美術・博物館" title="wikilink">ぶらぶら美術・博物館</a></p></td>
+<td><p>火曜 20:00 - 20:54</p></td>
+<td><p>制作協力 - <a href="../Page/東阪企画.md" title="wikilink">東阪企画</a> 2020年3月31日までは火曜 21:00 - 22:00で放送していた。</p></td>
+</tr>
+<tr class="even">
+<td><p>和牛の町×ごはん</p></td>
 <td><p>火曜 21:00 - 22:00</p></td>
-<td><p>制作協力 - <a href="../Page/東阪企画.md" title="wikilink">東阪企画</a></p></td>
+<td><p>2019年4月1日スタート 2020年4月14日より「<a href="https://ja.wikipedia.org/wiki/断ちごはん_〜和牛もいただきます〜" title="wikilink">断ちごはん 〜和牛もいただきます〜</a>」より改題し番組リニューアル。</p>
+<p>2020年3月30日までは月曜 21:00 - 22:00で放送していた。</p></td>
+</tr>
+<tr class="odd">
+<td><p>あの子は漫画を読まない</p></td>
+<td><p>火曜 24:00 - 24:30</p></td>
+<td><p>2020年1月18日スタート<br />
+以前は不定期で放送していた。 2020年3月28日までは土曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/音のソノリティ.md" title="wikilink">音のソノリティ</a></p></td>
@@ -602,15 +607,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>照英・児島玲子の最強!釣りバカ対決</p></td>
+<td><p>照英・秋丸美帆の最強!釣りバカ対決</p></td>
 <td></td>
 <td><p>木曜 21:00 - 22:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ももクロと行く!" title="wikilink">ももクロと行く!</a></p></td>
-<td><p>金曜 23:00 - 23:30<br />
-【再】土曜 16:00 - 16:30</p></td>
-<td><p>2019年10月4日スタート</p></td>
+<td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
+<td><p>第3金曜 23:00 - 24:00</p></td>
+<td><p>2020年4月17日スタート予定</p></td>
 </tr>
 <tr class="odd">
 <td><p>てぇてぇTV</p></td>
@@ -619,14 +623,14 @@
 2019年4月26日から9月27日までは、「月いちのてぇてぇTV」として最終金曜23:00 - 23:55に放送。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/めざせ!プログラミングスター_〜プロスタ★キッズ大集合〜" title="wikilink">めざせ!プログラミングスター 〜プロスタ★キッズ大集合〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/めざせ!プログラミングスター_〜プロスタ★キッズ大集合〜" title="wikilink">今こそ知りたい！めざせ！プログラミングスター</a></p></td>
 <td><p>土曜 10:30 - 11:00</p></td>
 <td><p>2019年4月6日スタート</p></td>
 </tr>
 <tr class="odd">
 <td><p>とびだせ!ぐーちょきぱーてぃー</p></td>
-<td><p>土曜 11:00 - 11:15</p></td>
-<td></td>
+<td><p>土曜 10:15 - 10:30</p></td>
+<td><p>2020年3月28日までは土曜 11:00 - 11:15で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/チルテレ" title="wikilink">チルテレ</a></p></td>
@@ -649,10 +653,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>あの子は漫画を読まない</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ももクロと行く!" title="wikilink">ももクロと行く!</a></p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
-<td><p>2020年1月18日スタート<br />
-以前は不定期で放送していた。</p></td>
+<td><p>2019年10月4日スタート 2020年3月27日までは金曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/旬感レシピ_〜最高の贈りもの〜" title="wikilink">旬感レシピ 〜最高の贈りもの〜</a></p></td>
@@ -660,21 +663,16 @@
 <td><p>2019年1月20日スタート</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/古畑前田のえにし酒" title="wikilink">古畑前田のえにし酒</a></p></td>
-<td><p>日曜 18:30 - 19:00</p></td>
-<td><p>2019年10月6日スタート</p></td>
-</tr>
-<tr class="odd">
 <td><p>汐留TV!-こちら、汐テレ★さきどり女子部-</p></td>
 <td><p>日曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>笑イザップ</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>中国語で満喫!日本HOLIDAY</p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -695,9 +693,8 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/NNNドキュメント.md" title="wikilink">NNNドキュメント</a></p></td>
-<td><p>日曜 11:00 - 11:30（または 11:55）</p></td>
-<td><p>日本テレビ系列制作<br />
-地上波より7日遅れ</p></td>
+<td><p>日曜 8:00 - 8:30（または 8:55）</p></td>
+<td><p>日本テレビ系列制作　地上波より7日遅れ 2020年3月29日までは日曜 11:00 - 11:30（または 11:55）で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/夢釣行〜一魚一会の旅〜" title="wikilink">夢釣行〜一魚一会の旅〜</a></p></td>
@@ -705,24 +702,24 @@
 <td><p>制作協力 - REC FISH</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅裕司のふるさと探訪〜こだわり田舎自慢〜" title="wikilink">三宅裕司のふるさと探訪〜こだわり田舎自慢〜</a></p></td>
-<td><p>火曜 20:00 - 20:54</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大人のヨーロッパ街歩き" title="wikilink">大人のヨーロッパ街歩き</a></p></td>
+<td><p>日曜 20:00 - 20:54</p></td>
+<td><p>2020年3月19日までは木曜 20:00 - 20:54で放送していた。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三宅裕司のふるさと探訪〜こだわり田舎自慢〜" title="wikilink">三宅裕司のふるさと探訪〜こだわり田舎自慢〜</a></p></td>
+<td><p>水曜 20:00 - 20:54</p></td>
+<td><p>2020年3月31日までは火曜 20:00 - 20:54で放送していた。</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東野・岡村の旅猿_プライベートでごめんなさい…" title="wikilink">東野・岡村の旅猿 プライベートでごめんなさい…</a></p></td>
 <td><p>火曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>大人のヨーロッパ街歩き</p></td>
-<td><p>木曜 20:00 - 20:54</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道すたいる" title="wikilink">北海道すたいる</a></p></td>
-<td><p>土曜 11:30 - 11:55</p></td>
-<td></td>
+<td><p>日曜 9:00 - 9:25</p></td>
+<td><p>2020年3月28日までは土曜 11:30 - 11:55で放送していた。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小さな村の物語_イタリア" title="wikilink">小さな村の物語 イタリア</a></p></td>
@@ -761,7 +758,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イマウタ_-Right_On!_Music-" title="wikilink">イマウタ -Right On! Music-</a></p></td>
-<td><p>月曜 23:00 - 23:30</p></td>
+<td><p>月曜 23:00 - 23:29</p></td>
 <td><p>2019年10月7日より毎週放送に変更。<br />
 2019年4月19日 - 9月6日[8]は、第3金曜 23:00 - 23:55に放送された。</p></td>
 </tr>
@@ -782,12 +779,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/読響シンフォニックライブ" title="wikilink">読響シンフォニックライブ</a></p></td>
-<td><p>月1回・土曜 7:00 - 8:00</p></td>
+<td><p>月1回 土曜 7:00 - 8:00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>THE LIVE</p></td>
-<td><p>不定期 日曜 19:00 - 20:54</p></td>
+<td><p>不定期</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -838,8 +835,8 @@
 </tr>
 <tr class="odd">
 <td><p>NERV購買部第4BS出張所</p></td>
-<td><p>不定期</p></td>
-<td></td>
+<td><p>日曜 24:31 - 25:00</p></td>
+<td><p>その他不定期放送有り</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ジャパネットたかた.md" title="wikilink">ジャパネットテレビショッピング</a></p></td>
@@ -1087,6 +1084,10 @@
   - [夢眠ねむのまどろみのれん酒](https://ja.wikipedia.org/wiki/夢眠ねむのまどろみのれん酒 "wikilink")
   - [のばん組](https://ja.wikipedia.org/wiki/のばん組 "wikilink")
   - [古川未鈴と古畑奈和のいにしえ乙女酒](https://ja.wikipedia.org/wiki/古川未鈴と古畑奈和のいにしえ乙女酒 "wikilink")
+  - 木曜のシネマ★イブ
+  - 照英・児島玲子の最強\!釣りバカ対決\!\!
+  - [古畑前田のえにし酒](https://ja.wikipedia.org/wiki/古畑前田のえにし酒 "wikilink")
+  - [Artist](https://ja.wikipedia.org/wiki/Artist "wikilink")
 
 <!-- end list -->
 

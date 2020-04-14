@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NST新潟総合テレビ](https://ja.wikipedia.org/wiki/NST新潟総合テレビ)から翻訳されています。
 
 
 **株式会社NST新潟総合テレビ**（エヌエスティーにいがたそうごうテレビ、'' NST Niigata Sogo Television, Co., Ltd.''）は、[新潟県](../Page/新潟県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とした[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")事業を行う[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
@@ -515,7 +515,8 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 </p></td>
 <td><p>テレ朝<br />
 </p></td>
-<td><p>不明</p></td>
+<td><p>フジ<br />
+</p></td>
 <td><p>テレ朝<br />
 </p></td>
 <td><p>テレ朝★<br />
@@ -537,19 +538,19 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 </p></td>
 <td><p>テレ朝<br />
 </p></td>
-<td><p>フジ<br />
+<td><p>テレ朝<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
-<td><p>フジ<br />
+<td><p>フジ★<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
-<td><p>テレ朝<br />
+<td><p>テレ朝★<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
@@ -612,7 +613,8 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 </p></td>
 <td><p>テレ朝<br />
 </p></td>
-<td><p>不明</p></td>
+<td><p>フジ<br />
+</p></td>
 <td><p>テレ朝<br />
 </p></td>
 <td><p>テレ朝★<br />
@@ -624,7 +626,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 </tr>
 <tr class="even">
 <td><p>19:30</p></td>
-<td><p>フジ<br />
+<td><p>テレ朝<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
@@ -634,21 +636,22 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 </p></td>
 <td><p>テレ朝<br />
 </p></td>
-<td><p>フジ<br />
+<td><p>テレ朝<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
-<td><p>フジ<br />
+<td><p>フジ★<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
-<td><p>テレ朝<br />
+<td><p>フジ<br />
+</p></td>
+<td><p>テレ朝★<br />
 </p></td>
 <td><p>フジ<br />
 </p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -861,11 +864,10 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 
 ### 女性
 
-  - [水谷悠莉](https://ja.wikipedia.org/wiki/水谷悠莉 "wikilink")（2013年入社。上越市生まれ）
   - [真保恵理](https://ja.wikipedia.org/wiki/真保恵理 "wikilink")（2015年入社。新潟市生まれ）
   - [杉山萌奈](https://ja.wikipedia.org/wiki/杉山萌奈 "wikilink")（2015年入社。柏崎市生まれ）
   - 松尾和泉（2016年入社。柏崎市生まれ）
-  - 井上綾夏（2017年入社。新潟市生まれ）
+  - 桶屋美佳（2019年入社。富山市生まれ）
 
 ### 過去
 
@@ -907,13 +909,15 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [村山恵美](https://ja.wikipedia.org/wiki/村山恵美 "wikilink")（2001年 - 2008年3月。[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")から移籍）
   - [中田エミリー](../Page/中田エミリー.md "wikilink")（2003年 - 2010年3月。その後フリーとなり、[セント・フォース](../Page/セント・フォース.md "wikilink")に所属）
   - [近藤麻智子](../Page/近藤麻智子.md "wikilink")（[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から移籍。2009年4月 - 2011年3月。その後はフリーとなり、[ニチエンプロダクション](https://ja.wikipedia.org/wiki/ニチエンプロダクション "wikilink")に所属）
-  - [市野瀬瞳](../Page/市野瀬瞳.md "wikilink")（2007年 - 2012年。[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")へ移籍）
+  - [市野瀬瞳](../Page/市野瀬瞳.md "wikilink")（2007年 - 2012年。[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")へ移籍→2020年から[ゼスト所属のフリー](../Page/KeyHolder.md "wikilink")）
   - [村山千代](../Page/村山千代.md "wikilink")（2004年 - 2013年。その後フリーとなり、ライムライトに所属）
   - [堀恭子](../Page/堀恭子.md "wikilink")（2007年 - 2013年）
   - [廣川明美](../Page/廣川明美.md "wikilink")（2006年 - 2015年、以前は[青森テレビ](../Page/青森テレビ.md "wikilink")に所属。[地上デジタル放送推進大使](../Page/地上デジタル放送推進大使.md "wikilink")）
   - [新井翔子](https://ja.wikipedia.org/wiki/新井翔子 "wikilink")（2013年 - 2016年6月。[山形テレビ](../Page/山形テレビ.md "wikilink")から移籍。結婚による寿退社）
   - [横内美紗](https://ja.wikipedia.org/wiki/横内美紗 "wikilink")（2011年 - 2016年12月。退社後、古巣の[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")に所属しフリーに転身。5歳まで新潟市に在住\[44\]）
   - [堀井七絵](https://ja.wikipedia.org/wiki/堀井七絵 "wikilink")（2013年 - 2018年。[川崎市](../Page/川崎市.md "wikilink")出身）
+  - [水谷悠莉](https://ja.wikipedia.org/wiki/水谷悠莉 "wikilink")（2013年 - 2020年3月）
+  - 井上綾夏（2017年 - 2020年3月）
 
 ## 脚注
 

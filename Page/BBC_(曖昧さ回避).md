@@ -1,4 +1,4 @@
-> この記事は[BBC \(\)](https://ja.wikipedia.org/wiki/BBC_\(\))から翻訳されています。
+> この記事は[BBC \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/BBC_\(曖昧さ回避\))から翻訳されています。
 
 
 **BBC**

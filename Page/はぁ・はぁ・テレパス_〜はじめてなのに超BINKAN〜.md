@@ -1,4 +1,4 @@
-> この記事は[ BINKAN](https://ja.wikipedia.org/wiki/_BINKAN)から翻訳されています。
+> この記事は[はぁ・はぁ・テレパス 〜はじめてなのに超BINKAN〜](https://ja.wikipedia.org/wiki/はぁ・はぁ・テレパス_〜はじめてなのに超BINKAN〜)から翻訳されています。
 
 
 『**はぁ・はぁ・テレパス 〜はじめてなのに超BINKAN〜**』（はぁはぁテレパス はじめてなのにちょうびんかん）は[2004年](../Page/2004年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[SAGA PLANETSより発売された](../Page/SAGA_PLANETS.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。 また、**はぁ・はぁ・テレパス**は、上記タイトルの主題歌でもある。

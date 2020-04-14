@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[CS日本](https://ja.wikipedia.org/wiki/CS日本)から翻訳されています。
 
 
 **株式会社CS日本**（シーエスにっぽん）は、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[衛星基幹放送事業者](../Page/放送事業者.md "wikilink")。通称**CS日テレ**。衛星基幹放送の[スカパー\!（東経110度CS放送）を](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[プラットフォームとしている](../Page/有料放送管理事業者.md "wikilink")。

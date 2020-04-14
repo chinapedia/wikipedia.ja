@@ -1,4 +1,4 @@
-> この記事は[DES](https://ja.wikipedia.org/wiki/DES)から翻訳されています。
+> この記事は[トリプルDES](https://ja.wikipedia.org/wiki/トリプルDES)から翻訳されています。
 
 
 [3des-overall-view.png](https://ja.wikipedia.org/wiki/File:3des-overall-view.png "fig:3des-overall-view.png") **トリプルDES**（**トリプルデス、**[英語](../Page/英語.md "wikilink"): **Triple DES**、**3DES**）とは、[共通鍵](https://ja.wikipedia.org/wiki/共通鍵 "wikilink")[ブロック暗号](../Page/ブロック暗号.md "wikilink")である[DESを](../Page/Data_Encryption_Standard.md "wikilink")3回施す[暗号](../Page/暗号.md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")。正式名称は**Triple Data Encryption Algorithm**(**TDEA**、**Triple DEA**)。時代の流れに伴い、鍵長56ビットのDESでは[総当たり攻撃](../Page/総当たり攻撃.md "wikilink")への耐性が低くなったことから、これを補う目的で考案された。

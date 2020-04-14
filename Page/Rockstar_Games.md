@@ -82,7 +82,7 @@
       - [ミッドナイトクラブ](../Page/湾岸_Midnight_Club.md "wikilink")
       - [ミッドナイトクラブII](https://ja.wikipedia.org/wiki/Midnight_Club_II "wikilink")
       - [ミッドナイトクラブ3](https://ja.wikipedia.org/wiki/Midnight_Club_3:DUB_Edition "wikilink")
-      - [ミッドナイトクラブ:ロサンゼルス](https://ja.wikipedia.org/wiki/Midnight_Club:_Los_Angeles "wikilink")}}
+      - [ミッドナイトクラブ:ロサンゼルス](https://ja.wikipedia.org/wiki/Midnight_Club:_Los_Angeles "wikilink")
 
 ## 制作された短編映画
 

@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNニュースフレッシュ](https://ja.wikipedia.org/wiki/ANNニュースフレッシュ)から翻訳されています。
 
 
 『**ANNニュースフレッシュ**』（エイエヌエヌ - ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[9月28日](../Page/9月28日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）9月28日まで放送されていた、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）の朝の定時[ニュース番組である](../Page/報道番組.md "wikilink")。

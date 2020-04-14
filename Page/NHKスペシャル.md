@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKスペシャル](https://ja.wikipedia.org/wiki/NHKスペシャル)から翻訳されています。
 
 
 『**NHKスペシャル**』（エヌエイチケイスペシャル）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。略称は「**Nスペ**」。単発のドキュメンタリーを制作・放送していたNHK特集に代わり、[1989年](../Page/1989年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")放送開始。原則、毎週日曜日の21:00 - 21:50に放送するが時間枠を拡大したり他の曜日・時間に放送することもある。再放送は、火曜・水曜深夜。多くはハイビジョン放送である。

@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNスピーク](https://ja.wikipedia.org/wiki/FNNスピーク)から翻訳されています。
 
 
 『**FNNスピーク**』（エフエヌエヌ スピーク、英称：*FNN SPEAK*）は、[フジテレビをはじめ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN（フジニュースネットワーク）系列各テレビ局にて](../Page/フジニュースネットワーク.md "wikilink")、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[10月1日](../Page/10月1日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[3月30日](../Page/3月30日.md "wikilink")まで（[土曜日](../Page/土曜日.md "wikilink")は[1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで）[生放送](../Page/生放送.md "wikilink")されていた昼の[ニュース番組である](../Page/報道番組.md "wikilink")。

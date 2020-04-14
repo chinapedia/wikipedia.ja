@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNニュース最終版](https://ja.wikipedia.org/wiki/FNNニュース最終版)から翻訳されています。
 
 
 『**FNNニュース最終版**』（エフエヌエヌ ニュースさいしゅうばん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）でかつて放送していた深夜最終便の[報道番組](../Page/報道番組.md "wikilink")である。詳細は各項参照のこと。なお、時刻はすべて[日本標準時](../Page/日本標準時.md "wikilink")（JST）。
@@ -421,7 +421,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/index.html)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
   - [FNN](http://www.fnn-news.com/)
 
 [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:1968年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のテレビ番組_\(日本\) "wikilink") [Category:リコー](https://ja.wikipedia.org/wiki/Category:リコー "wikilink")

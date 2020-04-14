@@ -1,4 +1,4 @@
-> この記事は[16S rRNA](https://ja.wikipedia.org/wiki/16S_rRNA)から翻訳されています。
+> この記事は[16S rRNA系統解析](https://ja.wikipedia.org/wiki/16S_rRNA系統解析)から翻訳されています。
 
 
 **16S rRNA系統解析**（16S rRNAけいとうかいせき）は、[リボソーム](../Page/リボソーム.md "wikilink")の小サブユニットの[RNA](../Page/リボ核酸.md "wikilink")[塩基配列](../Page/塩基配列.md "wikilink")を基にした[微生物](../Page/微生物.md "wikilink")の進化系統を明らかにする方法の一つである。[真核生物](../Page/真核生物.md "wikilink")の場合は18S [rRNAなので](../Page/リボソームRNA.md "wikilink")**リボソーム小サブユニットRNA系統解析** ('S'mall 'S'ub 'U'nit-rRNA、**SSU-rRNA**) と呼ばれることもある。

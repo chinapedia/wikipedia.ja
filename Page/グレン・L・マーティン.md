@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[グレン・L・マーティン](https://ja.wikipedia.org/wiki/グレン・L・マーティン)から翻訳されています。
 
 
 **グレン・ルーサー・マーティン**（*Glenn Luther Martin*、[1886年](../Page/1886年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - [1955年](../Page/1955年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink"))はアメリカ合衆国の航空技術者。

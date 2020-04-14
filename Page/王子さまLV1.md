@@ -1,4 +1,4 @@
-> この記事は[LV1](https://ja.wikipedia.org/wiki/LV1)から翻訳されています。
+> この記事は[王子さまLV1](https://ja.wikipedia.org/wiki/王子さまLV1)から翻訳されています。
 
 
 『**王子さまLV1**』（おうじさまレベルワン）は、[2001年](../Page/2001年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")に、[アリスソフト](../Page/アリスソフト.md "wikilink")の姉妹ブランド・Alice Blueより発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[RPG](../Page/コンピュータRPG.md "wikilink")。本作は全年齢対象であるが、[BLの性描写を追加するためのディスクも同時に発売された](../Page/ボーイズラブ.md "wikilink")。また、[2002年](../Page/2002年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[プレイステーション版が発売されている](../Page/PlayStation_\(ゲーム機\).md "wikilink")。

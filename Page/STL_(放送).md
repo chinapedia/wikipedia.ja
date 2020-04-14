@@ -1,4 +1,4 @@
-> この記事は[STL \(\)](https://ja.wikipedia.org/wiki/STL_\(\))から翻訳されています。
+> この記事は[STL \(放送\)](https://ja.wikipedia.org/wiki/STL_\(放送\))から翻訳されています。
 
 
 **STL** (Studio to Transmitter Link) とは、[放送](../Page/放送.md "wikilink")内容を[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")から[送信所](../Page/送信所.md "wikilink")へ送るための[回線のことである](https://ja.wikipedia.org/wiki/通信回線 "wikilink")。

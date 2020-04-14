@@ -1,4 +1,4 @@
-> この記事は[JREF500](https://ja.wikipedia.org/wiki/JREF500)から翻訳されています。
+> この記事は[JR貨物EF500形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EF500形電気機関車)から翻訳されています。
 
 
 **EF500形電気機関車**（イーエフ500がたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）に製作した[交流](../Page/交流電化.md "wikilink")・[直流両用](../Page/直流電化.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。

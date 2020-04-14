@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S軌道](https://ja.wikipedia.org/wiki/S軌道)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:S_orbit.png "wikilink") **s軌道**（エスきどう、）とは、[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")を構成している[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[軌道の](../Page/電子軌道.md "wikilink")1つ。

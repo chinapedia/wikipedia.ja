@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR四国の車両形式](https://ja.wikipedia.org/wiki/JR四国の車両形式)から翻訳されています。
 
 
 **JR四国の車両形式**は、[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）に在籍する、あるいは在籍した[鉄道車両](../Page/鉄道車両.md "wikilink")の一覧である。

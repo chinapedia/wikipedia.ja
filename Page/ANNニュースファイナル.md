@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNニュースファイナル](https://ja.wikipedia.org/wiki/ANNニュースファイナル)から翻訳されています。
 
 
 『**ANNニュースファイナル**』は、[1975年](../Page/1975年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")（旧：NETテレビ）を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")として[ANNで放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[深夜](../Page/深夜.md "wikilink")最終便の[ニュース番組である](../Page/報道番組.md "wikilink")。

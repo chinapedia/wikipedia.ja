@@ -1,4 +1,4 @@
-> この記事は[LA](https://ja.wikipedia.org/wiki/LA)から翻訳されています。
+> この記事は[LAメタル](https://ja.wikipedia.org/wiki/LAメタル)から翻訳されています。
 
 
 **LAメタル**は、[1980年代](../Page/1980年代.md "wikilink")前半から後半にかけ、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")内で活躍していた多くのロックバンドやミュージシャン達によって作られた当時の音楽趣向を、日本独自の解釈で言葉にしたものである。

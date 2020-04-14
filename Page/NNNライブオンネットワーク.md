@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNライブオンネットワーク](https://ja.wikipedia.org/wiki/NNNライブオンネットワーク)から翻訳されています。
 
 
 『**NNNライブオンネットワーク**』（エヌエヌエヌライブオンネットワーク、英語表記：*NNN LIVE ON NETWORK*）とは、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までにかけて放送された夕方の[ニュース](../Page/ニュース.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。
@@ -28,8 +28,8 @@
 
 ### 土曜
 
-  - 日本テレビのみ…18:30 - 18:53
-  - 日本テレビ以外…18:30 - 18:48（一部は18:55まで。18:50 - 18:53はローカル枠）
+  - 18:30 - 18:50
+  - 18:50 - 19:00はローカルニュース、天気予報で別番組
 
 ## 出演者
 

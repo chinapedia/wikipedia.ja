@@ -1,4 +1,4 @@
-> この記事は[Pia!!](https://ja.wikipedia.org/wiki/Pia!!)から翻訳されています。
+> この記事は[Piaキャロットへようこそ!!の登場人物](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!の登場人物)から翻訳されています。
 
 
 **Piaキャロットへようこそ\!\!の登場人物一覧**（ピアキャロットへようこそ\!\!のとうじょうじんぶついちらん）は、[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")[『Piaキャロットへようこそ\!\!』シリーズに登場する](../Page/Piaキャロットへようこそ!!シリーズ.md "wikilink")、[架空](../Page/架空.md "wikilink")の人物の一覧である。

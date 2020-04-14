@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[ITビジョン](https://ja.wikipedia.org/wiki/ITビジョン)から翻訳されています。
 
 
 **ITビジョン**（アイティービジョン, IT Vision）は、[1996年](../Page/1996年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")\[1\]にかけて日本国内で実施された[アナログテレビ向け](../Page/NTSC.md "wikilink")[データ放送](../Page/データ放送.md "wikilink")の規格および愛称である。この名はInter Text（インターテキスト）の頭文字から取られた。[東芝](../Page/東芝.md "wikilink")を中心とした団体により規格化され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の一部と[WOWOW](../Page/WOWOW.md "wikilink")で放送が行われた。

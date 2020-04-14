@@ -1,4 +1,4 @@
-> この記事は[JRE26](https://ja.wikipedia.org/wiki/JRE26)から翻訳されています。
+> この記事は[JR東日本E26系客車](https://ja.wikipedia.org/wiki/JR東日本E26系客車)から翻訳されています。
 
 
 **E26系客車**（E26けいきゃくしゃ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）に製作した[寝台](../Page/寝台車_\(鉄道\).md "wikilink")[客車](../Page/客車.md "wikilink")である。

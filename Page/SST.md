@@ -17,6 +17,7 @@
   - [スピッツァー宇宙望遠鏡](../Page/スピッツァー宇宙望遠鏡.md "wikilink") (Spitzer Space Telescope) - 米国の赤外線[宇宙望遠鏡](../Page/宇宙望遠鏡.md "wikilink")。
   - [肺尖部胸壁浸潤肺癌](https://ja.wikipedia.org/wiki/肺尖部胸壁浸潤肺癌 "wikilink")（superior sulcus tumor）の略称。
   - [間接税](https://ja.wikipedia.org/wiki/間接税 "wikilink") (Sales and Service Tax)の略称。
+  - SSTルール (Stones and spaces are territory) - [囲碁](../Page/囲碁.md "wikilink")における[計点制ルール](../Page/計点制ルール.md "wikilink")の別名
 
 **S.S.T.**
 

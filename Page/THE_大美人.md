@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 大美人](https://ja.wikipedia.org/wiki/THE_大美人)から翻訳されています。
 
 
 『**THE 大美人**』（ザ・だいびじん）は、[2004年](../Page/2004年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から発売された[PlayStation 2用アクションゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。同社の[SIMPLE2000シリーズ第](../Page/SIMPLEシリーズ.md "wikilink")50作目で、同シリーズで初の[CEROレーティングによる対象年齢が設定されたソフトである](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（12歳以上対象）。

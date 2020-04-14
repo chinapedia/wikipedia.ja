@@ -1,4 +1,4 @@
-> この記事は[Tai!](https://ja.wikipedia.org/wiki/Tai!)から翻訳されています。
+> この記事は[魔法使いTai!](https://ja.wikipedia.org/wiki/魔法使いTai!)から翻訳されています。
 
 
 『**魔法使いTai\!**』（まほうつかいタイ\!）は、[1996年](../Page/1996年.md "wikilink")の[OVA](../Page/OVA.md "wikilink")発売を皮切りに、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、コミックなどで展開した、アニメ監督・[佐藤順一](../Page/佐藤順一.md "wikilink")原案による作品群。略称は「まほTai\!」。魔法によって起こる、少し不思議な学園生活を描いたドタバタコメディ。

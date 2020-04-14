@@ -80,7 +80,7 @@
   -
 
       -
-        『[F1サーカス '92](https://ja.wikipedia.org/wiki/F1サーカス "wikilink")』、『[スーパー桃太郎電鉄 II](../Page/スーパー桃太郎電鉄II.md "wikilink")』、『[ダライアス](../Page/ダライアス.md "wikilink")プラス』、『[ニュートピア II](../Page/ニュートピアII.md "wikilink")』、『[パワーリーグ '93](https://ja.wikipedia.org/wiki/パワーリーグ#PC.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3 "wikilink")』、『[桃太郎伝説 II](https://ja.wikipedia.org/wiki/桃太郎伝説II "wikilink")』、『[雷電](../Page/雷電.md "wikilink")』等
+        『[F1サーカス '92](https://ja.wikipedia.org/wiki/F1サーカス "wikilink")』、『[スーパー桃太郎電鉄II](../Page/スーパー桃太郎電鉄II.md "wikilink")』、『[ダライアス](../Page/ダライアス.md "wikilink")プラス』、『[ニュートピア II](../Page/ニュートピアII.md "wikilink")』、『[パワーリーグ '93](https://ja.wikipedia.org/wiki/パワーリーグ#PC.E3.82.A8.E3.83.B3.E3.82.B8.E3.83.B3 "wikilink")』、『[桃太郎伝説II](https://ja.wikipedia.org/wiki/桃太郎伝説II "wikilink")』、『[雷電](../Page/雷電.md "wikilink")』等
 
 <!-- end list -->
 

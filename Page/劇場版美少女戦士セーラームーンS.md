@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[劇場版美少女戦士セーラームーンS](https://ja.wikipedia.org/wiki/劇場版美少女戦士セーラームーンS)から翻訳されています。
 
 
 『'''劇場版美少女戦士セーラームーンS '''』（げきじょうばんびしょうじょせんしセーラームーンスーパー）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[美少女戦士セーラームーンS](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』をもとにした[アニメ映画作品](../Page/アニメーション映画.md "wikilink")。

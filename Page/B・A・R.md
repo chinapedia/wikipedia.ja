@@ -1,4 +1,4 @@
-> この記事は[BAR](https://ja.wikipedia.org/wiki/BAR)から翻訳されています。
+> この記事は[B・A・R](https://ja.wikipedia.org/wiki/B・A・R)から翻訳されています。
 
 
 **B・A・R**（ビーエーアール）は、かつて存在した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[F1コンストラクター](../Page/フォーミュラ1.md "wikilink")。 1999年から2005年まで[F1世界選手権に参戦した](../Page/フォーミュラ1.md "wikilink")。当初はチーム名を**ブリティッシュ・アメリカン・レーシング** (British American Racing) とし、2003年からB・A・Rに改称した。「BAR」もしくは「B.A.R」と表記される場合もある\[1\]。
@@ -17,7 +17,7 @@
 
 ### 1999年
 
-参戦初年度はレイナードの[マルコム・オースラー](https://ja.wikipedia.org/wiki/マルコム・オースラー "wikilink")を中心に設計された[001に](https://ja.wikipedia.org/wiki/B・A・R_001 "wikilink")、[ルノーのカスタマー仕様である](../Page/ルノーF1.md "wikilink")[スーパーテック](https://ja.wikipedia.org/wiki/スーパーテック "wikilink")V10エンジンを搭載。元F1チャンピオンのヴィルヌーヴと元[国際F3000選手権チャンピオンの](../Page/フォーミュラ3000.md "wikilink")[リカルド・ゾンタ](../Page/リカルド・ゾンタ.md "wikilink")がレギュラードライバー、[パトリック・ルマリエ](https://ja.wikipedia.org/wiki/パトリック・ルマリエ "wikilink")がテストドライバーという体制で出発した。
+参戦初年度はレイナードの[マルコム・オースラー](https://ja.wikipedia.org/wiki/マルコム・オースラー "wikilink")を中心に設計された[001に](https://ja.wikipedia.org/wiki/:en:BAR_01 "wikilink")、[ルノーのカスタマー仕様である](../Page/ルノーF1.md "wikilink")[スーパーテック](https://ja.wikipedia.org/wiki/スーパーテック "wikilink")V10エンジンを搭載。元F1チャンピオンのヴィルヌーヴと元[国際F3000選手権チャンピオンの](../Page/フォーミュラ3000.md "wikilink")[リカルド・ゾンタ](../Page/リカルド・ゾンタ.md "wikilink")がレギュラードライバー、[パトリック・ルマリエ](https://ja.wikipedia.org/wiki/パトリック・ルマリエ "wikilink")がテストドライバーという体制で出発した。
 
 はチーム力・マシン性能など、あらゆる面でF1の厳しさを学ぶシーズンとなった。レイナードは[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")・コンストラクターとして参戦したすべてのカテゴリで緒戦に優勝するという「デビューウィン伝説」を誇っていたが、量販シャシーとF1マシンでは勝手が違った。また、ルノーワークスエンジン最終型をモディファイしたスーパーテックエンジンは、技術革新のスピードが速いF1の世界ではすでに競争力を失っていた。ドライバーはエンジンのパワー不足や振動などの問題を指摘し、運転しにくい上に車体に負担がかかり、さまざまな悪い影響が出ていると語った。
 
@@ -210,7 +210,7 @@ B・A・Rは2004年シーズン開幕前と同様に、前年型シャーシに2
     ブリティッシュ・アメリカン・レーシングという名称は親会社[ブリティッシュ・アメリカン・タバコ](../Page/ブリティッシュ・アメリカン・タバコ.md "wikilink")と同一性を持たせることで将来のたばこ広告規制をかわす目論見があったと言われている。インターネット上の公式サイトも当初は*www.britishamericanracing.com*というアドレスだった。
     当初はフルネームにこだわる傾向があったようで、2000年には「Lucky Strike Reynard British American Racing BAR Honda」という名称でエントリーした。あまりにも長すぎたためか、2001年はBARを省いて「Lucky Strike Reynard British American Racing Honda」、2002年のレイナード倒産後は「Lucky Strike British American Racing Honda」とした。2003年からチーム名をコンストラクター名の「B・A・R」に合わせ、「**Lucky Strike B・A・R Honda**」の名前でエントリーした。
   - 2つのカラーリング
-    [thumbのカラーリング](https://ja.wikipedia.org/wiki/ファイル:Jacques_Villeneuve_1999_Canada.jpg "wikilink")（1999年）\]\]
+    [thumbのカラーリング](https://ja.wikipedia.org/wiki/ファイル:Jacques_Villeneuve_1999_Canada.jpg "wikilink")（1999年）|代替文=\]\]
     [thumbの中国GP限定](https://ja.wikipedia.org/wiki/ファイル:Jenson_Button_2005_China_\(crop\).jpg "wikilink")555カラー（2005年）\]\]
     参戦初年度の1999年1月に行われた新車発表会で、B・A・Rの2台のマシンは[ラッキーストライク](../Page/ラッキーストライク.md "wikilink")（ヴィルヌーヴ）と[State Express 555](https://ja.wikipedia.org/wiki/:en:State_Express_555 "wikilink")（ゾンタ）というBATの2つの異なるタバコブランドのカラーリングに塗り分けられて登場した。CARTシリーズなどではよくある広告方法だが、F1では同一チームのマシンは単一のカラーリングにしなければないというルールがあった\[12\]。チームはスポンサーの権利を主張して[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (FIA) を相手に訴訟を起こしたが、最終的に使用を断念し、代案としてマシンの左右を異なるカラーリングに塗り分けるという奇抜な方法をとった。車体左半分がラッキーストライクの赤、右半分が555の青、ノーズは銀色という配色で、中央部には[ファスナーが描かれた](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")。
     2年目以降はラッキーストライクカラーに一本化されたが、BATが中国国内では555ブランドを展開していたため、[中国グランプリ](../Page/中国グランプリ.md "wikilink")限定で555カラーのマシンが登場した。[2004年はサードカーのみ青色にペイントして出走](https://ja.wikipedia.org/wiki/2004年中国グランプリ "wikilink")。B・A・Rとして最後のレースとなった[2005年は](https://ja.wikipedia.org/wiki/2005年中国グランプリ "wikilink")、2台のレースカーのカラースキームを555カラーにした。

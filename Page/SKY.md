@@ -10,7 +10,7 @@
 
 ## 放送番組
 
-  - [SKY (ラジオ番組)](../Page/SKY_\(ラジオ番組\).md "wikilink") - [TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFNCのラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")。
+  - [SKY (ラジオ番組)](../Page/SKY_\(ラジオ番組\).md "wikilink") - [TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFNCのラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
   - [SKY (fm osaka)](../Page/SKY_\(fm_osaka\).md "wikilink") - 上記ラジオ番組「SKY」の[fm osaka版](../Page/エフエム大阪.md "wikilink")。
 
 ## 音楽

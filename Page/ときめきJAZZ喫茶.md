@@ -1,4 +1,4 @@
-> この記事は[JAZZ](https://ja.wikipedia.org/wiki/JAZZ)から翻訳されています。
+> この記事は[ときめきJAZZ喫茶](https://ja.wikipedia.org/wiki/ときめきJAZZ喫茶)から翻訳されています。
 
 
 『**ときめきJAZZ喫茶**』（ときめきジャズきっさ）は、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")で放送された[音楽番組](../Page/音楽番組.md "wikilink")である。

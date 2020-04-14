@@ -1,9 +1,9 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSテレビ番組一覧](https://ja.wikipedia.org/wiki/MBSテレビ番組一覧)から翻訳されています。
 
 
 **MBSテレビ番組一覧**（エムビーエステレビばんぐみいちらん）では、[毎日放送](../Page/毎日放送.md "wikilink")が運営する[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")で放送されている、もしくはこれまでに放送された主なテレビ番組を紹介する。一部、[TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）\[1\]を始めとするその他の[ジャパン・ニュース・ネットワーク](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（JNN）系列局にネットされている番組もある。。
 
-、「※HD」は[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作の番組、「※字幕放送」は [字幕](../Page/字幕.md "wikilink")切替機能による[字幕放送の番組であることを示す](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（終了の分も含む）。また、「**G**」表記のある番組は[CSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")でも放送されている。
+、「※HD」は[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送の番組（現在の番組は省略） 、「※字幕放送」は [字幕](../Page/字幕.md "wikilink")切替機能による[字幕放送の番組であることを示す](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（終了の分も含む）。また、「**G**」表記のある番組は[CSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")でも放送されている。
 
 ## ニュース
 
@@ -14,8 +14,8 @@
       - [Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")（日 17:30 - 18:00）
           - Nスタ・第2部 （月 - 金 17:50 - 18:15）
   - ローカルニュース
-      - [ミント\!](https://ja.wikipedia.org/wiki/ミント! "wikilink")（月 - 金 15:49 - 19:00）（『Newsミント\!』として内包）※HD
-      - [MBSニュース](https://ja.wikipedia.org/wiki/MBSニュース#テレビ "wikilink")（土 0:15 - 0:20） ※HD
+      - [ミント\!](https://ja.wikipedia.org/wiki/ミント! "wikilink")（月 - 金 15:49 - 19:00）（『Newsミント\!』として内包）
+      - [MBSニュース](https://ja.wikipedia.org/wiki/MBSニュース#テレビ "wikilink")（土 0:15 - 0:20）
 
 ### 放送終了した番組
 
@@ -43,13 +43,12 @@
 ### 現在放送中の番組
 
   - 全国ネット
-      - [サタデープラス](https://ja.wikipedia.org/wiki/サタデープラス "wikilink")（土 8:00 - 9:25） ※HD
+      - [サタデープラス](https://ja.wikipedia.org/wiki/サタデープラス "wikilink")（土 8:00 - 9:25）
   - 関西ローカル
-      - [ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")（月 - 金 13:55 - 15:49） ※HD
+      - [ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")（月 - 金 13:55 - 15:49）
       - [ENT](https://ja.wikipedia.org/wiki/ENT_\(毎日放送の番組\) "wikilink")（火 2:30 - 2:50〈月深夜〉）
-      - [Kawaii JAPAN-da\!\!](https://ja.wikipedia.org/wiki/Kawaii_JAPAN-da!! "wikilink")（金 1:29 - 2:59〈木深夜〉）
       - [医のココロ](https://ja.wikipedia.org/wiki/医のココロ "wikilink")（土 5:20 - 5:30）
-      - [せやねん\!](../Page/せやねん!.md "wikilink")（土 9:25 - 12:54） ※HD
+      - [せやねん\!](../Page/せやねん!.md "wikilink")（土 9:25 - 12:54）
       - [MBSマンスリーリポート](../Page/MBSマンスリーリポート.md "wikilink")（毎月第1日 5:15 - 5:30） - 番組審議会報告。
 
 ### 放送終了した番組
@@ -107,6 +106,7 @@
       - [くみっきー 女子活](https://ja.wikipedia.org/wiki/くみっきー_女子活 "wikilink")
       - [MADE IN KYOTO](https://ja.wikipedia.org/wiki/MADE_IN_KYOTO "wikilink")
       - [BRAVA\!](https://ja.wikipedia.org/wiki/BRAVA! "wikilink")
+      - [Kawaii JAPAN-da\!\!](https://ja.wikipedia.org/wiki/Kawaii_JAPAN-da!! "wikilink")
   - 特別番組
       - [ゲームのツボ](https://ja.wikipedia.org/wiki/テレビのツボ#関連メディア "wikilink")
 
@@ -123,14 +123,14 @@
       - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（水 23:58 - 翌0:53）
       - [YUBIWAZA](https://ja.wikipedia.org/wiki/YUBIWAZA "wikilink")（金 1:59 - 2:30〈木深夜〉）
   - スポーツ中継
-      - [全国高校ラグビー大会](https://ja.wikipedia.org/wiki/全国高等学校ラグビーフットボール大会#テレビ中継 "wikilink")※HD
+      - [全国高校ラグビー大会](https://ja.wikipedia.org/wiki/全国高等学校ラグビーフットボール大会#テレビ中継 "wikilink")
       - [センバツ高校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会#地上波テレビ "wikilink")\[2\] **G**
           - [みんなの甲子園](../Page/みんなの甲子園.md "wikilink")
       - [ダンロップフェニックストーナメント](https://ja.wikipedia.org/wiki/ダンロップフェニックストーナメント#テレビ中継 "wikilink") **G** ※[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (MRT) との共同制作
           - [京セラ フェニックスチャレンジ](https://ja.wikipedia.org/wiki/ダンロップフェニックストーナメント#関連番組 "wikilink") **G**
       - [TOTOジャパンクラシック](https://ja.wikipedia.org/wiki/TOTOジャパンクラシック#テレビ放送について "wikilink") **G**
       - [マスターズGCレディース](https://ja.wikipedia.org/wiki/マスターズGCレディース#テレビ中継 "wikilink") **G**
-      - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦） ※HD（主に全国放送の時のみ）・**G**（阪神戦のみ）
+      - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦）**G**（阪神戦のみ）
       - [Jリーグ中継](https://ja.wikipedia.org/wiki/Jリーグ中継#テレビ中継 "wikilink")（[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")戦及び[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")戦、録画） - [BS-TBS](../Page/BS-TBS.md "wikilink") 『[J-LEAGUE WIDE](../Page/J-LEAGUE_WIDE.md "wikilink")』の関西地区中継も制作協力として参加している他、[2014年](../Page/2014年.md "wikilink")よりガンバ主催の一部試合を[スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink")用に委託制作している。また関連会社の[放送映画製作所](https://ja.wikipedia.org/wiki/放送映画製作所 "wikilink")も[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")主催試合をスカパー向けに委託制作しているが、地上波での放送はほとんど行われない。
   - スポーツ特集番組
       - [猛虎ファイル](https://ja.wikipedia.org/wiki/猛虎ファイル "wikilink") **G**
@@ -173,31 +173,38 @@
 
   - 全国ネット
       - ▲[教えてもらう前と後](https://ja.wikipedia.org/wiki/教えてもらう前と後 "wikilink")（火 20:00 - 20:54）
-      - ▲[プレバト\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")（木 19:00 - 20:00） - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink") (AKT) [福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink") (FTB) でも放送されている。
+      - ▲[プレバト\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")（木 19:00 - 20:00） - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")・[福井テレビでも放送されている](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")。
           - ▲使える芸能人は誰だ\!?プレッシャーバトル\!\!
       - ▲[所さんお届けモノです\!](https://ja.wikipedia.org/wiki/所さんお届けモノです! "wikilink")（日 17:00 - 17:30）
       - ▲林先生の初耳学（日 22:00 - 22:54）
           - ▲[林先生が驚く初耳学\!](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")(前身)
       - ▲[情熱大陸](../Page/情熱大陸.md "wikilink")（日 23:00 - 23:30）
   - 一部地域ネット
-      - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（月 23:56 - 翌0:53） ※HD **G** - MBS以外は遅れネットで放送されている。
-      - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")（火 23:56 - 翌0:53） ※HD
-      - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")（木 23:58 - 翌0:53）
-      - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（土 12:54 - 13:54） **G**
-      - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")（土 17:00 - 17:30） ※HD
+      - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（月 23:56 - 翌0:53） **G** - MBS以外は遅れネットで放送されている。
+      - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")（火 23:56 - 翌0:53）
+
+<!-- end list -->
+
+  -   - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（土 12:54 - 13:54） **G**
+      - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")（土 17:00 - 17:30）
+
   - 関西ローカル
+
       - [ロボロボ](https://ja.wikipedia.org/wiki/ロボロボ "wikilink")（火 - 金 0:53 - 0:59〈月 - 木深夜〉）
       - [関西発\!才能発掘TV マンモスター](https://ja.wikipedia.org/wiki/関西発!才能発掘TV_マンモスター "wikilink")（火 0:59 - 1:30〈月深夜〉）
-      - [＃ミスコレ](https://ja.wikipedia.org/wiki/＃ミスコレ "wikilink")（木 1:09 - 2:09〈金深夜〉）
-      - [よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜](https://ja.wikipedia.org/wiki/よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜 "wikilink")（最終以外の木 2:30 - 3:00〈金深夜〉）
-      - [ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣\!〜](https://ja.wikipedia.org/wiki/ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣!〜 "wikilink")（最終木 2:30 - 3:00〈金深夜〉）
+      - [＃ミスコレ](https://ja.wikipedia.org/wiki/＃ミスコレ "wikilink")（木 1:09 - 2:09〈水深夜〉）
+      - [よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜](https://ja.wikipedia.org/wiki/よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜 "wikilink")（最終以外の木 2:30 - 3:00〈水深夜〉）
+      - [ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣\!〜](https://ja.wikipedia.org/wiki/ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣!〜 "wikilink")（最終木 2:30 - 3:00〈水深夜〉）
+      - [ミキBASE〜いいね\!で応援〜](https://ja.wikipedia.org/wiki/ミキBASE〜いいね!で応援〜 "wikilink")（金 1:29 - 2:30〈木深夜〉）
       - [らくごのお時間](https://ja.wikipedia.org/wiki/らくごのお時間 "wikilink")（毎月第4日 5:00 - 5:30）
       - [コトノハ図鑑](https://ja.wikipedia.org/wiki/あどりぶランド#派生番組『コトノハ図鑑』 "wikilink")（日 5:45 - 6:15）
           - [あどりぶランド](../Page/あどりぶランド.md "wikilink")(上記の[スピンオフ](../Page/スピンオフ.md "wikilink")元)
       - [ジャニーズWESTの激ハネ\!BoooooooRN\!](https://ja.wikipedia.org/wiki/ジャニーズWESTの激ハネ!BoooooooRN! "wikilink")（不定期）
+
   - 特別番組
-      - [歌ネタ王決定戦](https://ja.wikipedia.org/wiki/歌ネタ王決定戦 "wikilink") ※HD
-      - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink") ※HD
+
+      - [歌ネタ王決定戦](https://ja.wikipedia.org/wiki/歌ネタ王決定戦 "wikilink")
+      - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")
       - [上方漫才まつり](../Page/上方漫才まつり.md "wikilink")
       - [吉本陸上競技会](../Page/吉本陸上競技会.md "wikilink") **G**
       - [笑道](../Page/笑道.md "wikilink")
@@ -312,6 +319,7 @@
           - ロケみつ〜ロケ×ロケ×ロケ〜
           - ロケみつ ザ・ワールド
       - [メッセンジャー&なるみの大阪ワイドショー](https://ja.wikipedia.org/wiki/メッセンジャー&なるみの大阪ワイドショー "wikilink")
+      - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")
   - 関西ローカル
       - [かんさい珍版・瓦版](https://ja.wikipedia.org/wiki/かんさい珍版・瓦版 "wikilink") → 新かんさい珍版・瓦版
       - [カルーセル麻紀の今夜こうして](https://ja.wikipedia.org/wiki/カルーセル麻紀の今夜こうして "wikilink")
@@ -471,8 +479,6 @@
 
 ### 現在放送中の番組
 
-  - 一部地域ネット(MBS, RSKテレビ)
-      - [産直ダイスケ](https://ja.wikipedia.org/wiki/産直ダイスケ "wikilink")（土 18:56 - 19:00）
   - 関西ローカル
       - [水野真紀の魔法のレストラン](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストラン "wikilink")（水 19:00 - 20:00）
       - [dai-docoro](https://ja.wikipedia.org/wiki/dai-docoro "wikilink")（日 11:40 - 11:45）
@@ -484,6 +490,8 @@
       - ▲[石坂・森口のくっきん夫婦](../Page/石坂・森口のくっきん夫婦.md "wikilink")
       - [近藤正臣の味覚人情報](../Page/近藤正臣の味覚人情報.md "wikilink")
       - ▲[THE\!おいしい番組](../Page/THE!おいしい番組.md "wikilink")
+  - 一部地域ネット
+      - [産直ダイスケ](https://ja.wikipedia.org/wiki/産直ダイスケ "wikilink")
   - 関西ローカル
       - [アベック料理コンテスト](https://ja.wikipedia.org/wiki/アベック料理コンテスト "wikilink")
       - [ミセスコンテスト 奥さまNo.1](https://ja.wikipedia.org/wiki/ミセスコンテスト_奥さまNo.1 "wikilink")
@@ -560,7 +568,7 @@
 
   - 全国ネット
       - ▲[皇室アルバム](../Page/皇室アルバム.md "wikilink")（日 6:30 - 6:45）
-      - ▲[情熱大陸](../Page/情熱大陸.md "wikilink")（日 23:00 - 23:30） ※HD - 秋田テレビ (AKT) でも放送されている。
+      - ▲[情熱大陸](../Page/情熱大陸.md "wikilink")（日 23:00 - 23:30） - 秋田テレビでも放送されている。
       - ▲[超絶景\!人生一度は体感したい行った気トラベラー](https://ja.wikipedia.org/wiki/超絶景!人生一度は体感したい行った気トラベラー "wikilink")（特別番組）
   - 関西ローカル
       - [OFLIFE](https://ja.wikipedia.org/wiki/OFLIFE "wikilink")（水 1:59 - 2:30〈火深夜〉）
@@ -623,8 +631,8 @@
 
 ### 現在放送中の番組
 
-  - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、月 0:50 - 1:20〈日深夜〉）
-  - [ホームルーム](https://ja.wikipedia.org/wiki/ホームルーム_\(漫画\)#テレビドラマ "wikilink")（[ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、金 0:59 - 1:29〈木深夜〉）
+  - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな!#実写ドラマ・映画 "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、月 0:50 - 1:20〈日深夜〉）
+  - [ピーナッツバターサンドウィッチ](https://ja.wikipedia.org/wiki/ピーナッツバターサンドウィッチ#テレビドラマ "wikilink")（[ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、金 0:59 - 1:29〈木深夜〉）
   - [家にはじめて行ってみた](https://ja.wikipedia.org/wiki/家にはじめて行ってみた "wikilink")（金 22:54 - 23:00）
 
 ### 放送終了した番組
@@ -633,6 +641,7 @@
       - [戦国大統領](https://ja.wikipedia.org/wiki/戦国大統領 "wikilink")
       - [それからの武蔵](../Page/それからの武蔵_\(1964年のテレビドラマ\).md "wikilink")
       - [竜馬がゆく](https://ja.wikipedia.org/wiki/竜馬がゆく_\(1965年のテレビドラマ\) "wikilink")
+      - [勝海舟](https://ja.wikipedia.org/wiki/勝海舟_\(1965年のテレビドラマ\) "wikilink")
       - [源氏物語](https://ja.wikipedia.org/wiki/源氏物語#テレビドラマ "wikilink")
       - [丹下左膳](https://ja.wikipedia.org/wiki/丹下左膳#テレビドラマ "wikilink")
       - [城下町110番](https://ja.wikipedia.org/wiki/城下町110番 "wikilink")
@@ -853,12 +862,14 @@
       - [REAL⇔FAKE](https://ja.wikipedia.org/wiki/REAL⇔FAKE "wikilink")
       - [左ききのエレン](https://ja.wikipedia.org/wiki/左ききのエレン#テレビドラマ "wikilink")
       - [SEDAI WARS](../Page/SEDAI_WARS.md "wikilink")
+      - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって#テレビドラマ "wikilink")
   - [ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")
       - [カカフカカ-こじらせ大人のシェアハウス-](https://ja.wikipedia.org/wiki/カカフカカ#テレビドラマ "wikilink")
       - [コーヒー&バニラ](https://ja.wikipedia.org/wiki/コーヒー&バニラ#テレビドラマ "wikilink")
       - [カフカの東京絶望日記](https://ja.wikipedia.org/wiki/カフカの東京絶望日記 "wikilink")
       - [あおざくら 防衛大学校物語](https://ja.wikipedia.org/wiki/あおざくら_防衛大学校物語#テレビドラマ "wikilink")
       - [ねぇ先生、知らないの?](https://ja.wikipedia.org/wiki/ねぇ先生、知らないの?#テレビドラマ "wikilink")
+      - [ホームルーム](https://ja.wikipedia.org/wiki/ホームルーム_\(漫画\)#テレビドラマ "wikilink")
   - [エリアコードドラマ06](https://ja.wikipedia.org/wiki/エリアコードドラマ#エリアコードドラマ06 "wikilink")
       - [CRANE 突然の訪問者](https://ja.wikipedia.org/wiki/CRANE_突然の訪問者 "wikilink")
       - [FM999 真夏のレディオガール](https://ja.wikipedia.org/wiki/FM999_真夏のレディオガール "wikilink")
@@ -1002,9 +1013,10 @@
 ### 現在放送中の番組
 
   - ▲[ハイキュー\!\! TO THE TOP](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
-  - ▲[歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
-  - ▲[ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って#テレビアニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
-  - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ#Webアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 3:38 - 4:08〈土深夜〉） ※HD・字幕放送 - [UHFアニメ](../Page/UHFアニメ.md "wikilink")扱い
+  - ▲[LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
+  - ▲[波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ#テレビアニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
+  - [かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜#テレビアニメ "wikilink")（アニメシャワー、日 2:38 - 3:08〈土深夜〉） - UHFアニメ
+  - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ#Webアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 3:38 - 4:08〈土深夜〉） 字幕放送 - [UHFアニメ](../Page/UHFアニメ.md "wikilink")扱い
 
 ### 放送終了した番組
 
@@ -1202,6 +1214,8 @@
       - [グランベルム](https://ja.wikipedia.org/wiki/グランベルム "wikilink")
       - [炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")
       - [真・中華一番\!](https://ja.wikipedia.org/wiki/中華一番!#真・中華一番! "wikilink")
+      - [歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink")
+      - [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って#テレビアニメ "wikilink")
 
 ### 毎日放送アニメ枠一覧
 
@@ -1270,7 +1284,8 @@
 
 ## TBS系列局制作・時差ネット番組
 
-  - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜
+  - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
+  - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
   - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](https://ja.wikipedia.org/wiki/大分放送 "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
@@ -1278,14 +1293,13 @@
 
 ## 系列外の番組
 
-  - [異世界かるてっと](https://ja.wikipedia.org/wiki/異世界かるてっと "wikilink")2（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 2:45〈火深夜〉）
-  - [ドロヘドロ](https://ja.wikipedia.org/wiki/ドロヘドロ#テレビアニメ "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
-  - [理系が恋に落ちたので証明してみた。](https://ja.wikipedia.org/wiki/理系が恋に落ちたので証明してみた。#テレビアニメ "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
-  - [はてな☆イリュージョン](https://ja.wikipedia.org/wiki/はてな☆イリュージョン#テレビアニメ "wikilink")（金 2:30 - 3:00）
-  - [とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")（土 2:55 - 3:25（金深夜））
-  - [マギアレコード 魔法少女まどか☆マギカ外伝](https://ja.wikipedia.org/wiki/マギアレコード_魔法少女まどか☆マギカ外伝#テレビアニメ "wikilink")（アニメシャワー、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
-  - [虚構推理](https://ja.wikipedia.org/wiki/虚構推理#テレビアニメ "wikilink")（アニメシャワー、日 2:38 - 3:08〈土深夜〉） - UHFアニメ
-  - [Fate/Grand Order -絶対魔獣戦線バビロニア-](https://ja.wikipedia.org/wiki/Fate/Grand_Order#テレビアニメ "wikilink")（アニメシャワー、日 3:08 - 3:38〈土深夜〉） - UHFアニメ
+  - [白猫プロジェクト ZERO CHRONICLE](https://ja.wikipedia.org/wiki/白猫プロジェクト#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
+  - [放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌#テレビアニメ "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
+  - [無限の住人-IMMORTAL-](https://ja.wikipedia.org/wiki/無限の住人#Webアニメ "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
+  - [はてな☆イリュージョン](https://ja.wikipedia.org/wiki/はてな☆イリュージョン#テレビアニメ "wikilink")（金 2:30 - 3:00〈深夜〉）
+  - [とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
+  - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（アニメシャワー、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
+  - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…#テレビアニメ "wikilink")（アニメシャワー、日 3:08 - 3:38〈土深夜〉） - UHFアニメ
 
 ## 本社機能が千里丘放送センターにあった頃放送されていたネット番組
 
@@ -1516,7 +1530,7 @@
 
   - [番組表](https://www.mbs.jp/timetable/) - [MBS](../Page/毎日放送.md "wikilink")
 
-[Category:毎日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
+[Category:のテレビ番組](https://ja.wikipedia.org/wiki/Category:のテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 
 1.  2009年3月まで「TBS」の略称は『東京放送』が使用していたが、2009年4月に同社が[放送持株会社](../Page/放送持株会社.md "wikilink")「[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")」（略称TBSHD）となり、「[TBSテレビ](../Page/TBSテレビ.md "wikilink")」が「東京放送」からテレビ放送免許、テレビ放送事業および映像・文化事業に関する権利・義務とともに「TBS」の略称を承継している。
 2.  開局時に旧・[大阪テレビ放送](../Page/大阪テレビ放送.md "wikilink")から移行。

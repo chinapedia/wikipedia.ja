@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK福井放送局](https://ja.wikipedia.org/wiki/NHK福井放送局)から翻訳されています。
 
 
 **NHK福井放送局**（エヌエイチケイふくいほうそうきょく）は、[福井県](../Page/福井県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -332,52 +332,47 @@
 情報たら福</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/豊島実季" title="wikilink">豊島実季</a></p></td>
+<td><p>山口瑛己</p></td>
 <td><p><strong>初任地</strong></p></td>
-<td></td>
+<td><p>福井県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p>山口瑛己</p></td>
-<td><p>福井県のニュース</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>河島康一</p></td>
 <td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>羽生ちひろ</p></td>
 <td></td>
 <td><p>ニュースザウルスふくい<br />
 ザウルス!今夜も掘らナイト</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>太田実穂</p></td>
 <td></td>
 <td><p>ニュースザウルスふくい</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>今村有希</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北川玲子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/二村千津子" title="wikilink">二村千津子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羽鳥慎一" title="wikilink">羽鳥慎一</a><a href="../Page/モーニングショー.md" title="wikilink">モーニングショー</a><br />
 （<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>）</p></td>

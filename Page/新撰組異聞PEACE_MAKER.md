@@ -1,11 +1,11 @@
-> この記事は[PEACE MAKER](https://ja.wikipedia.org/wiki/PEACE_MAKER)から翻訳されています。
+> この記事は[新撰組異聞PEACE MAKER](https://ja.wikipedia.org/wiki/新撰組異聞PEACE_MAKER)から翻訳されています。
 
 
 『**新撰組異聞PEACE MAKER**』（しんせんぐみいもんピースメーカー）は、[黒乃奈々絵](../Page/黒乃奈々絵.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、及びそれを[原作](../Page/原作.md "wikilink")としたメディアミックス作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）で連載された。続編である『**PEACE MAKER鐵**』（ピースメーカーくろがね）についても本項で記述する。
 
 ## 概要
 
-『新撰組異聞PEACE MAKER』では、主人公[鉄之助の](../Page/市村鉄之助.md "wikilink")[新撰組](https://ja.wikipedia.org/wiki/新撰組 "wikilink")入隊から[池田屋事件](../Page/池田屋事件.md "wikilink")までが描かれている。これらの時期など細部は史実と異なるものの、時代の大きな流れに沿ってストーリーが展開する。[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")により掲載誌を『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](../Page/マッグガーデン.md "wikilink")）へと移し、池田屋事件から3ヶ月後となる第二部『PEACE MAKER鐵』が連載されたが、2005年春以降休載。その後2009年秋から2010年9月まで、ケータイサイト「コミックi」および「コミックシーモア」にて5巻の続きとなる『PEACE MAKER鐵 油小路編』が配信された。2013年12月にマッグガーデンから刊行された[ムック](../Page/ムック_\(出版\).md "wikilink")『時代活劇画伝―斬―ZAN』において新章となる『PEACE MAKER鐵 北上篇』の初回を掲載後、翌2014年1月よりマッグガーデンの[ウェブコミック](../Page/ウェブコミック.md "wikilink")配信サイト『WEBコミックBeat's（現：MAGCOMI（マグコミ））』にて連載を再開している。同年9月からは『[月刊コミックガーデン](https://ja.wikipedia.org/wiki/月刊コミックガーデン "wikilink")』（マッグガーデン）でも連載されるようになった。（『月刊コミックガーデン』と『MAGCOMI』の掲載内容の違いはないが、毎月の最新話の更新は『月刊コミックガーデン』の方が早い。）
+『新撰組異聞PEACE MAKER』では、主人公[鉄之助の](../Page/市村鉄之助.md "wikilink")[新撰組](https://ja.wikipedia.org/wiki/新撰組 "wikilink")入隊から[池田屋事件](../Page/池田屋事件.md "wikilink")までが描かれている。これらの時期など細部は史実と異なるものの、時代の大きな流れに沿ってストーリーが展開する。[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")により掲載誌を『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](../Page/マッグガーデン.md "wikilink")）へと移し、池田屋事件から3ヶ月後となる第二部『PEACE MAKER鐵』が連載されたが、2005年春以降休載。その後2009年秋から2010年9月まで、ケータイサイト「コミックi」および「コミックシーモア」にて5巻の続きとなる『PEACE MAKER鐵 油小路編』が配信された。2013年12月にマッグガーデンから刊行された[ムック](../Page/ムック_\(出版\).md "wikilink")『時代活劇画伝―斬―ZAN』において新章となる『PEACE MAKER鐵 北上篇』を掲載後、翌2014年1月よりマッグガーデンの[ウェブコミック](../Page/ウェブコミック.md "wikilink")配信サイト『WEBコミックBeat's（現：[MAGCOMI](../Page/MAGCOMI.md "wikilink")（マグコミ））』にて連載を再開している。同年9月からは『[月刊コミックガーデン](https://ja.wikipedia.org/wiki/月刊コミックガーデン "wikilink")』（マッグガーデン）でも連載されるようになった。（『月刊コミックガーデン』と『MAGCOMI』の掲載内容の違いはないが、毎月の最新話の更新は『月刊コミックガーデン』の方が早い。）
 
 ## あらすじ
 

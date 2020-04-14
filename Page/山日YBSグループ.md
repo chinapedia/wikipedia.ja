@@ -1,4 +1,4 @@
-> この記事は[YBS](https://ja.wikipedia.org/wiki/YBS)から翻訳されています。
+> この記事は[山日YBSグループ](https://ja.wikipedia.org/wiki/山日YBSグループ)から翻訳されています。
 
 
 **山日YBSグループ**（さんにちワイビーエスグループ）は、[山梨県](../Page/山梨県.md "wikilink")の[マスメディア](../Page/マスメディア.md "wikilink")関連企業による総合情報産業グループである。

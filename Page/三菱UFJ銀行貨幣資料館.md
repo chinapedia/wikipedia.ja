@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJ銀行貨幣資料館](https://ja.wikipedia.org/wiki/三菱UFJ銀行貨幣資料館)から翻訳されています。
 
 
 **三菱UFJ銀行貨幣資料館**（みつびしユーエフジェイぎんこう かへいしりょうかん）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[東区赤塚にある](../Page/東区_\(名古屋市\).md "wikilink")\[1\]、[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")（旧・[東海銀行](../Page/東海銀行.md "wikilink")）の[企業博物館](../Page/企業博物館.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[M・ナイト・シャマラン](https://ja.wikipedia.org/wiki/M・ナイト・シャマラン)から翻訳されています。
 
 
 **M・ナイト・シャマラン**（**M. Night Shyamalan**, 本名: Manoj Nelliattu Shyamalan, [1970年](../Page/1970年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）は、インド系アメリカ人の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")である。

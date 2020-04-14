@@ -1,4 +1,4 @@
-> この記事は[SBS ](https://ja.wikipedia.org/wiki/SBS_)から翻訳されています。
+> この記事は[SBSカップ 国際ユースサッカー](https://ja.wikipedia.org/wiki/SBSカップ_国際ユースサッカー)から翻訳されています。
 
 
 **SBSカップ 国際ユースサッカー**（エス・ビー・エスカップ こくさいユースサッカー）は、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") (SBS) 主催により毎年8月に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[静岡県](../Page/静岡県.md "wikilink")で行われるユース年代の国際親善[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")大会である。

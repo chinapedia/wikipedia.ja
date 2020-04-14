@@ -1,4 +1,4 @@
-> この記事は[CBR1000RR](https://ja.wikipedia.org/wiki/CBR1000RR)から翻訳されています。
+> この記事は[ホンダ・CBR1000RR](https://ja.wikipedia.org/wiki/ホンダ・CBR1000RR)から翻訳されています。
 
 
 **CBR1000RR**（シービーアールセンアールアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売を行っている[オートバイ](../Page/オートバイ.md "wikilink")（[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")）である。日本国外モデルには**Fireblade**（ファイヤーブレード）の[ペットネームが与えられている](../Page/愛称.md "wikilink")。

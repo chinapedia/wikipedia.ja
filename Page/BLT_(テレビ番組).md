@@ -1,4 +1,4 @@
-> この記事は[BLT \(\)](https://ja.wikipedia.org/wiki/BLT_\(\))から翻訳されています。
+> この記事は[BLT \(テレビ番組\)](https://ja.wikipedia.org/wiki/BLT_\(テレビ番組\))から翻訳されています。
 
 
 『**BLT**』（ビーエルティー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")まで[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。日本テレビ系全国ネットの[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[TVじゃん\!\!](../Page/どんまい!!_VARIETYSHOW&SPORTS.md "wikilink")』水曜の番組として放送。

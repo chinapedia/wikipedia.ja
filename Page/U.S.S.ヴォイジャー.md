@@ -1,4 +1,4 @@
-> この記事は[U.S.S.](https://ja.wikipedia.org/wiki/U.S.S.)から翻訳されています。
+> この記事は[U.S.S.ヴォイジャー](https://ja.wikipedia.org/wiki/U.S.S.ヴォイジャー)から翻訳されています。
 
 
 **U.S.S.ヴォイジャー**（**U.S.S.Voyager**）は、テレビ番組『[スタートレック:ヴォイジャー](../Page/スタートレック:ヴォイジャー.md "wikilink")』（Star Trek: Voyager, VGRまたはVOY）に登場する架空の宇宙船である。スタートレックシリーズ初の女性艦長の主人公、キャスリン・ジェインウェイ大佐の艦である。

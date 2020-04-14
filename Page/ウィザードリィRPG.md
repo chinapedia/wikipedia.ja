@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ウィザードリィRPG](https://ja.wikipedia.org/wiki/ウィザードリィRPG)から翻訳されています。
 
 
 『**ウィザードリィRPG**』は、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")中盤にかけて日本で製作され[アスキーより発売された](../Page/アスキー_\(企業\).md "wikilink")[TRPGである](../Page/テーブルトークRPG.md "wikilink")。 そのタイトルが示す通り[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")』を原作としている。

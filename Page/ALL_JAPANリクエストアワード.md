@@ -1,4 +1,4 @@
-> この記事は[ALL JAPAN](https://ja.wikipedia.org/wiki/ALL_JAPAN)から翻訳されています。
+> この記事は[ALL JAPANリクエストアワード](https://ja.wikipedia.org/wiki/ALL_JAPANリクエストアワード)から翻訳されています。
 
 
 『**ALL JAPANリクエストアワード**』（オール・ジャパン リクエストアワード、英称:*All Japan Request Awards*）は、『**[全日本有線放送大賞](../Page/全日本有線放送大賞.md "wikilink")**』から受け継ぎ、[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[2001年](../Page/2001年.md "wikilink")・[2002年](../Page/2002年.md "wikilink")の[11月](../Page/11月.md "wikilink")に『[スーパースペシャル](../Page/スーパースペシャル.md "wikilink")』枠で放送された音楽賞レースである。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK室蘭放送局](https://ja.wikipedia.org/wiki/NHK室蘭放送局)から翻訳されています。
 
 
 **NHK室蘭放送局**（エヌエイチケイむろらんほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[日胆](https://ja.wikipedia.org/wiki/日胆 "wikilink")（[胆振総合振興局](https://ja.wikipedia.org/wiki/胆振総合振興局 "wikilink")と[日高振興局](https://ja.wikipedia.org/wiki/日高振興局 "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FM放送で地域放送を行っている](../Page/NHK-FM放送.md "wikilink")。

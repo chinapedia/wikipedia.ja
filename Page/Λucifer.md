@@ -1,4 +1,4 @@
-> この記事は[ucifer](https://ja.wikipedia.org/wiki/ucifer)から翻訳されています。
+> この記事は[Λucifer](https://ja.wikipedia.org/wiki/Λucifer)から翻訳されています。
 
 
 **Λucifer**（リュシフェル）は、[1999年](../Page/1999年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")に活動していた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2010年4月、結成10周年を機に再結成を果たした。以後もΛuciferの活動は度々行われている\[1\]\[2\]。

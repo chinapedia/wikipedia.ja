@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[フォード・GT](https://ja.wikipedia.org/wiki/フォード・GT)から翻訳されています。
 
 
 [300pxカラーのフォードGT](https://ja.wikipedia.org/wiki/ファイル:MHV_Ford_GT_01.jpg "wikilink")\]\] **フォード・GT** (Ford GT) とは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フォード・モーター](../Page/フォード・モーター.md "wikilink")が開発した[スポーツカー](../Page/スポーツカー.md "wikilink")である。
@@ -64,15 +64,19 @@
 青い部分がヘッドカバーで、上部には組み立てた職人（二人）のサインが入っている。 ファイル:Ford GT red hr 2006 EMS.jpg|法規によりバンパーを[車台に固定する必要があり](../Page/シャシ_\(自動車\).md "wikilink")、リアエンドとカウルは分かれている。 ファイル:Ford GT interior.jpg|GT40とは雰囲気の異なるインテリア。
 左ハンドルで、[シフトレバー](../Page/シフトレバー.md "wikilink")も中央\[3\]にある。
 
-## 二代目（2016年 - ）
+## 2代目（2017年 - ）
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Ford_GT_\(2nd_Gen.\)_LM_GTE_Pro_001.jpg "wikilink") 2015年の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")において発表された。設計はフォードの高性能車開発部門「[フォード・パフォーマンス](https://ja.wikipedia.org/wiki/フォード・パフォーマンス "wikilink")・ビークルズ」と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")社が行った。生産もマルチマティックに委託される。デザインはGT40，先代GTの流れを汲むが，[LM-GTE](https://ja.wikipedia.org/wiki/LM-GTE "wikilink")規定で改造することを前提に、より空力的に洗練されている\[4\]。
+2015年の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")において発表された。設計はフォードの高性能車開発部門「[フォード・パフォーマンス](https://ja.wikipedia.org/wiki/フォード・パフォーマンス "wikilink")・ビークルズ」と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")社が行った。生産もマルチマティックに委託される。デザインはGT40，先代GTの流れを汲むが，[LM-GTE](https://ja.wikipedia.org/wiki/LM-GTE "wikilink")規定で改造することを前提に、より空力的に洗練されている\[4\]。
 
 環境性能に配慮した、新開発の3.5L [V型6気筒](../Page/V型6気筒.md "wikilink") [ツインターボ](../Page/ツインターボ.md "wikilink")「エコブースト」エンジンは600馬力以上を発生。トランスミッションは7速[デュアルクラッチATで](../Page/デュアルクラッチトランスミッション.md "wikilink")、[トランスアクスル](../Page/トランスアクスル.md "wikilink")レイアウトを採用する。ドアは[ダイヘドラルドアとなっている](../Page/ガルウィングドア.md "wikilink")\[5\]。
 
-LM-GTE仕様車は[チップ・ガナッシレーシング](https://ja.wikipedia.org/wiki/チップ・ガナッシレーシング "wikilink")と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")のオペレーションで2016年から[WECのGTEクラスに参戦](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")。[同年のルマン24時間レースでは参戦初年度ながらクラス優勝を果たす快挙を達成した](https://ja.wikipedia.org/wiki/2016年のル・マン24時間レース "wikilink")。なおこの優勝はル・マンで初めて[フェラーリ](../Page/フェラーリ.md "wikilink")を破って50周年目となる勝利であり、今回もフェラーリを破っての優勝であった。
+2017年より販売を開始した。
 
-1966年のルマン24時間レース優勝から50周年となる2016年後半に発売が予定されている\[6\]。
+### レーシングカー
+
+[200px](https://ja.wikipedia.org/wiki/ファイル:Ford_GT_\(2nd_Gen.\)_LM_GTE_Pro_001.jpg "wikilink")
+
+LM-GTE仕様車は[チップ・ガナッシレーシング](https://ja.wikipedia.org/wiki/チップ・ガナッシレーシング "wikilink")と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")のオペレーションで2016年から[WECのGTEクラスに参戦](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink")。[同年のル・マン24時間レースでは参戦初年度ながらクラス優勝を果たす快挙を達成した](https://ja.wikipedia.org/wiki/2016年のル・マン24時間レース "wikilink")。なお、この優勝はル・マンで初めて[フェラーリ](../Page/フェラーリ.md "wikilink")を破ってから50周年となる勝利であり、今回もフェラーリを破っての優勝であった。
 
 ## 脚注
 
@@ -94,4 +98,3 @@ LM-GTE仕様車は[チップ・ガナッシレーシング](https://ja.wikipedia
 3.  GT40は右ハンドルだがレバーも右（ドア側）にある
 4.  [GTEベース車\!? フォード、新型『GT』を公開](http://as-web.jp/news/info.php?c_id=10&no=62562) - [AUTOSPORT WEB](../Page/オートスポーツ.md "wikilink") 2015年1月14日閲覧
 5.  [フォードGT (2015.1.13)](http://www.webcg.net/articles/-/31959?ph=5) - webCG
-6.  [【デトロイトモーターショー15】フォードのスーパーカー「GT」 復活…600hpツインターボ搭載](http://response.jp/article/2015/01/13/241461.html) - [Response.](../Page/Response..md "wikilink") 2015年1月14日閲覧

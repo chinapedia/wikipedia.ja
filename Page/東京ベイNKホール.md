@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[東京ベイNKホール](https://ja.wikipedia.org/wiki/東京ベイNKホール)から翻訳されています。
 
 
 **東京ベイNKホール**（とうきょうベイエヌケイホール、*Tokyo Bay NK Hall*）は、[1988年](../Page/1988年.md "wikilink")開業の[コンサートホール](../Page/コンサートホール.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に所在した。[2005年](../Page/2005年.md "wikilink")に閉館。

@@ -1,4 +1,4 @@
-> この記事は[ IN db](https://ja.wikipedia.org/wiki/_IN_db)から翻訳されています。
+> この記事は[三枝夕夏 IN db](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db)から翻訳されています。
 
 
 **三枝夕夏 IN db**（さえぐさゆうか・イン・デシベル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元・[男女](https://ja.wikipedia.org/wiki/男女 "wikilink")4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属していた[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属していた[レコード会社](../Page/レコード会社.md "wikilink")は[ビーイング](../Page/ビーイング.md "wikilink")傘下の[GIZA studio](../Page/GIZA_studio.md "wikilink")。かつての公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**qp**」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")解散\[1\]。

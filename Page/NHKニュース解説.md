@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュース解説](https://ja.wikipedia.org/wiki/NHKニュース解説)から翻訳されています。
 
 
 **NHKニュース解説**（エヌエイチケイにゅーすかいせつ）は[1972年](../Page/1972年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [1984年](../Page/1984年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")と、[1991年](../Page/1991年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [9月](../Page/9月.md "wikilink")に放送された[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビのニュース解説番組](../Page/NHK総合テレビジョン.md "wikilink")\[1\]。

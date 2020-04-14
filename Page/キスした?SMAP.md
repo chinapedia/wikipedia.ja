@@ -1,4 +1,4 @@
-> この記事は[\?SMAP](https://ja.wikipedia.org/wiki/\?SMAP)から翻訳されています。
+> この記事は[キスした\?SMAP](https://ja.wikipedia.org/wiki/キスした\?SMAP)から翻訳されています。
 
 
 『**キスした?SMAP**』（きすした?スマップ、英語表記：**KISS shita? SMAP**）は、[テレビ朝日系列ほかで放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局の[朝日放送では](../Page/朝日放送テレビ.md "wikilink")[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送。SMAPの人気が急上昇してきた時期と重なったこともあり、番組は約3年半にわたって放送された。
@@ -89,7 +89,7 @@
 
 ## 中居正広が今さら…キスした?SMAP
 
-『**中居正広が今さら…キスした?SMAP**』（なかいまさひろがいまさら - ）は、[2004年](../Page/2004年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")深夜（[テレビ朝日](../Page/テレビ朝日.md "wikilink")放送分）に『キスした?SMAP』の復活版としてテレビ朝日の制作で放送された。同番組ではレギュラー放送時代のコーナーのVTRなどが放送された。ただし、当日の新聞の番組欄には『**中居正広がキススマ なんで今さら…**』と表記された。収録は同年[5月30日](../Page/5月30日.md "wikilink")に[ABCホールで行われた](../Page/ABCセンター.md "wikilink")。
+『**中居正広が今さら…キスした?SMAP**』（なかいまさひろがいまさら - ）は、[2004年](../Page/2004年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")深夜（[テレビ朝日](../Page/テレビ朝日.md "wikilink")放送分）に『キスした?SMAP』の復活版としてテレビ朝日とABCの共同制作で放送された。同番組ではレギュラー放送時代のコーナーのVTRなどが放送された。ただし、当日の新聞の番組欄には『**中居正広がキススマ なんで今さら…**』と表記された。収録は同年[5月30日](../Page/5月30日.md "wikilink")に[ABCホールで行われた](../Page/ABCセンター.md "wikilink")。
 
 ### 出演者
 

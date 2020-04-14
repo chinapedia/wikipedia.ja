@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFA女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA女子ワールドカップ)から翻訳されています。
 
 
 **FIFA女子ワールドカップ**（フィファじょしワールドカップ、）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。「[ワールドカップ](../Page/ワールドカップ.md "wikilink")」の部分は「W杯」と表記される場合もある。大抵は年度を付加して“FIFA女子ワールドカップ \[開催国\] \[年度\]”（英: FIFA WOMEN'S WORLD CUP \[country\] \[year\]）などのように呼称される。

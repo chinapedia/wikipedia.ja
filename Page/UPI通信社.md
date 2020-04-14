@@ -1,4 +1,4 @@
-> この記事は[UPI](https://ja.wikipedia.org/wiki/UPI)から翻訳されています。
+> この記事は[UPI通信社](https://ja.wikipedia.org/wiki/UPI通信社)から翻訳されています。
 
 
 **UPI通信社**（ユーピーアイつうしんしゃ、United Press International、ユナイテッド・プレス・インターナショナル）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[通信社](../Page/通信社.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[THEDE](https://ja.wikipedia.org/wiki/THEDE)から翻訳されています。
+> この記事は[THEわれめDEポン](https://ja.wikipedia.org/wiki/THEわれめDEポン)から翻訳されています。
 
 
 『**THEわれめDEポン**』（ザ・われめ・デ・ポン）は、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[麻雀](../Page/麻雀.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。現在の正式名称は『**芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル**』（げいのうかいマージャンさいきょういけっていせん ザ・われめ・デ・ポン なまスペシャル）である。通称「**われポン**」。

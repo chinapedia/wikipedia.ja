@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本ホテルメッツ](https://ja.wikipedia.org/wiki/JR東日本ホテルメッツ)から翻訳されています。
 
 
 [Hotel_Mets_Komagome_2017-04-06.jpg](https://ja.wikipedia.org/wiki/File:Hotel_Mets_Komagome_2017-04-06.jpg "fig:Hotel_Mets_Komagome_2017-04-06.jpg") **JR東日本ホテルメッツ**（ジェイアールひがしにほんホテルメッツ、**JR-EAST HOTEL METS**）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）による[ホテル](../Page/ホテル.md "wikilink")チェーン「[JR東日本ホテルズ](https://ja.wikipedia.org/wiki/JR東日本ホテルズ "wikilink")」の[宿泊特化型ホテルブランド](https://ja.wikipedia.org/wiki/ホテル#ビジネスホテル "wikilink")。[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）10月に**ホテルメッツ**より改称された\[1\]。

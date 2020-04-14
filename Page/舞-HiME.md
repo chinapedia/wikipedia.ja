@@ -1,4 +1,4 @@
-> この記事は[-HiME](https://ja.wikipedia.org/wiki/-HiME)から翻訳されています。
+> この記事は[舞-HiME](https://ja.wikipedia.org/wiki/舞-HiME)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

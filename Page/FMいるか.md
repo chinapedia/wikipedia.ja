@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMいるか](https://ja.wikipedia.org/wiki/FMいるか)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hokkaido_Oshima_Br_16cl.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:FM-Iruka-01.jpg "wikilink") **FMいるか**（エフエムいるか）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である[函館山ロープウェイ](../Page/函館山ロープウェイ.md "wikilink")株式会社が行う[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")の愛称である。

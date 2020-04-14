@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[RPG伝説ヘポイ](https://ja.wikipedia.org/wiki/RPG伝説ヘポイ)から翻訳されています。
 
 
 **RPG伝説ヘポイ**（ロープレでんせつヘポイ）は、[スタジオぎゃろっぷ製作のファンタジー](../Page/ぎゃろっぷ.md "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。

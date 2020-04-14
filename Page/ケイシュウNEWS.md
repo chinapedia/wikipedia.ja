@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[ケイシュウNEWS](https://ja.wikipedia.org/wiki/ケイシュウNEWS)から翻訳されています。
 
 
 **ケイシュウNEWS**は[南関競馬の予想を行っている](../Page/南関東公営競馬.md "wikilink")[競馬新聞](../Page/競馬新聞.md "wikilink")である\[1\]。発行元は株式会社ケイシュウ\[2\]。かつては[中央競馬](../Page/中央競馬.md "wikilink")の予想も行っていた\[3\]。

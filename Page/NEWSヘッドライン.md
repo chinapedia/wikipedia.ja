@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSヘッドライン](https://ja.wikipedia.org/wiki/NEWSヘッドライン)から翻訳されています。
 
 
 『**NEWSヘッドライン**』は、[1996年](../Page/1996年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された早朝から朝にかけてのニュース番組。テレビ東京で唯一早朝の生放送に本格進出したニュース番組。

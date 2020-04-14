@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ミクロイドS](https://ja.wikipedia.org/wiki/ミクロイドS)から翻訳されています。
 
 
 『**ミクロイドS**』（ミクロイドエス）は[手塚治虫](../Page/手塚治虫.md "wikilink")原作の漫画及びテレビアニメ。

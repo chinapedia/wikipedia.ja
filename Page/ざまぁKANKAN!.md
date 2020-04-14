@@ -1,4 +1,4 @@
-> この記事は[KANKAN!](https://ja.wikipedia.org/wiki/KANKAN!)から翻訳されています。
+> この記事は[ざまぁKANKAN!](https://ja.wikipedia.org/wiki/ざまぁKANKAN!)から翻訳されています。
 
 
 『**ざまぁKANKAN\!**』（ざまぁカンカン）は、[1988年](../Page/1988年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、[読売テレビが放送した](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間帯は毎週[月曜から金曜の](https://ja.wikipedia.org/wiki/帯番組 "wikilink")17:00 - 18:00の1時間。

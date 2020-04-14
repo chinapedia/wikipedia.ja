@@ -1,4 +1,4 @@
-> この記事は[GEAR](https://ja.wikipedia.org/wiki/GEAR)から翻訳されています。
+> この記事は[GEAR戦士電童](https://ja.wikipedia.org/wiki/GEAR戦士電童)から翻訳されています。
 
 
 『**GEAR戦士電童**』（ギアファイターでんどー）は、[2000年](../Page/2000年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2001年](../Page/2001年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された[サンライズ製作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。全38話。

@@ -13,7 +13,7 @@
 <!-- end list -->
 
   - '''戸高賢史 '''（とだか まさふみ） - ギター担当。
-      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](../Page/佐伯市.md "wikilink")出身。[大分県立佐伯鶴城高等学校](../Page/大分県立佐伯鶴城高等学校.md "wikilink")卒業。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「toddy」。
+      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](../Page/佐伯市.md "wikilink")出身。[大分県立佐伯鶴城高等学校](../Page/大分県立佐伯鶴城高等学校.md "wikilink")卒業。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「Toddy」。
       - [Ropes](https://ja.wikipedia.org/wiki/Ropes "wikilink")でアチコと共に活動。海外バンドのサポートアクトやKaikoo Fesなどにも参加している。
       - [エフェクター](../Page/エフェクター.md "wikilink")製作も手がけ、自身のブランド「Phantom FX」よりペダルをリリースしている。[ギターマガジン](https://ja.wikipedia.org/wiki/ギターマガジン "wikilink")誌で[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を連載している。
       - [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")や[TK from 凛として時雨など](https://ja.wikipedia.org/wiki/北嶋徹 "wikilink")、サポートワークも多数こなしている。

@@ -1,7 +1,7 @@
-> この記事は[PAON](https://ja.wikipedia.org/wiki/PAON)から翻訳されています。
+> この記事は[PAO〜N](https://ja.wikipedia.org/wiki/PAO〜N)から翻訳されています。
 
 
-**PAO〜N**（パオーン）は、[福岡](../Page/福岡県.md "wikilink")・[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**PAO〜N**（パオーン）は、[福岡](../Page/福岡県.md "wikilink")・[KBCラジオ](../Page/KBCラジオ.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 平日帯の夜ワイド「**PAO〜N ぼくらラジオ異星人**」（パオーン ぼくらラジオいせいじん）として[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月30日](../Page/5月30日.md "wikilink")（月） - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")（金）に放送されたあと、[2003年](../Page/2003年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の新春特別番組「**元旦だよ、PAO〜N復活祭**」（がんたんだよ、パオーンふっかつさい）を経て、平日帯の昼ワイド「**PAO〜N**」を [2003年](../Page/2003年.md "wikilink")3月31日（月）に放送を再開。
 

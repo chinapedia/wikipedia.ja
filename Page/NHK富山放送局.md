@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK富山放送局](https://ja.wikipedia.org/wiki/NHK富山放送局)から翻訳されています。
 
 
 **NHK富山放送局**（エヌエイチケイとやまほうそうきょく）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
@@ -180,7 +180,7 @@
 
 ## アナウンサー・キャスター
 
-氏名の後の\*は、過去に富山局勤務経験があるアナウンサー。
+  - 氏名の後の\*は、過去に富山局勤務経験があるアナウンサー。
 
 <table>
 <thead>
@@ -209,14 +209,14 @@
 （キャスター）</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/石井智也_(アナウンサー)" title="wikilink">石井智也</a></p></td>
+<td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/鹿沼健介.md" title="wikilink">鹿沼健介</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td><p>富山県のニュース</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/石井智也.md" title="wikilink">石井智也</a></p></td>
-<td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/齋藤湧希" title="wikilink">齋藤湧希</a></p></td>
@@ -234,7 +234,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/金岡紀子" title="wikilink">金岡紀子</a></p></td>
+<td><p>石黒綾佳</p></td>
 <td></td>
 <td><p>ニュース富山人<br />
 （キャスター）</p></td>
@@ -245,13 +245,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋まどか" title="wikilink">高橋まどか</a></p></td>
-<td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a></p></td>
-<td><p>ラジオ富山人</p></td>
+<td><p>鈴木佑実</p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
+<td><p>おはよう富山</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岸本南奈" title="wikilink">岸本南奈</a></p></td>
-<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></p></td>
+<td><p>松村優花</p></td>
+<td></td>
 <td><p>|</p></td>
 </tr>
 <tr class="odd">
@@ -265,7 +265,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/篠原正" title="wikilink">篠原正</a></p></td>
+<td><p>芦沢涼</p></td>
 <td></td>
 <td><p>ニュース富山人</p></td>
 </tr>

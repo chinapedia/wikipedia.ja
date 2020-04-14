@@ -1,4 +1,4 @@
-> この記事は[ STAND ALONE COMPLEX](https://ja.wikipedia.org/wiki/_STAND_ALONE_COMPLEX)から翻訳されています。
+> この記事は[攻殻機動隊 STAND ALONE COMPLEX](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX)から翻訳されています。
 
 
 『**攻殻機動隊 STAND ALONE COMPLEX**』（こうかくきどうたい スタンドアローンコンプレックス）は、[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")原作の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")・[テレビ](../Page/テレビ.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")。「**攻殻機動隊 S.A.C.**」「**攻殻S.A.C.**」「**攻殻S**」\[1\]などと略称されることもある（S.A.C.の部分は一般的にエスエーシー、またはサックと読まれる）。

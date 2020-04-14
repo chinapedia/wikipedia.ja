@@ -16,10 +16,10 @@
   -
     スケジュールの関係で寛平は大阪から生中継で出演、療養中の[花紀京](../Page/花紀京.md "wikilink")は、VTRによる歌唱シーンになっていた。
 
-2019年10月22日放送の『[1番だけが知っている](https://ja.wikipedia.org/wiki/1番だけが知っている "wikilink")』内にてレコード大賞の時の映像が放送された
+2019年10月22日放送の『[1番だけが知っている](https://ja.wikipedia.org/wiki/1番だけが知っている "wikilink")』内にてレコード大賞の時の映像が放送された。
 
   -
-    それぞれの歌唱パートが放映されたが、ロンドンブーツ1号2号の歌唱パートのみとある事情でカットされた。
+    それぞれの歌唱パートが放映されたが、ロンドンブーツ1号2号の歌唱パートのみ[とある事情でカットされた](https://ja.wikipedia.org/wiki/お笑い芸人による闇営業問題 "wikilink")。
 
 ## メンバー
 
@@ -30,7 +30,7 @@
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")（[田村淳](../Page/田村淳.md "wikilink")、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")）
   - [山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")
   - [東野幸治](../Page/東野幸治.md "wikilink")
-  - [花紀京](../Page/花紀京.md "wikilink")（故人）
+  - [花紀京](../Page/花紀京.md "wikilink")
 
 ## ディスコグラフィ
 
@@ -71,6 +71,20 @@
 <!-- end list -->
 
   - 出演順は「出演順/出場者数」で表す。
+
+## パロディ
+
+東野と藤井が出演しているバラエティ番組「[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")」にて、以下のパロディユニットが登場した。
+
+「**To:Japan**」
+
+  - メンバー：[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")（[博多華丸](../Page/博多華丸.md "wikilink")、[博多大吉](../Page/博多大吉.md "wikilink")）、[バッドボーイズ](../Page/バッドボーイズ_\(お笑いコンビ\).md "wikilink")（[佐田正樹](../Page/佐田正樹.md "wikilink")、[大溝清人](../Page/大溝清人.md "wikilink")）、[松下笑一](../Page/松下笑一.md "wikilink")、[パンクブーブー](../Page/パンクブーブー.md "wikilink")（[佐藤哲夫](https://ja.wikipedia.org/wiki/佐藤哲夫_\(お笑い芸人\) "wikilink")、[黒瀬純](https://ja.wikipedia.org/wiki/黒瀬純 "wikilink")）
+
+「**Sa:Japan**」
+
+  - メンバー：[ガレッジセール](../Page/ガレッジセール.md "wikilink")（[川田広樹](../Page/川田広樹.md "wikilink")、[ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")）、[スリムクラブ](../Page/スリムクラブ.md "wikilink")（真栄田賢、内間政成）、[セブンbyセブン](../Page/セブンbyセブン.md "wikilink")（玉城泰拙、宮平享奈緒）
+
+内容は、共に「明日があるさ」の替え歌で地元ネタ（To:Japanは[福岡県](../Page/福岡県.md "wikilink")、Sa:Japanは[沖縄県](../Page/沖縄県.md "wikilink")）を歌うというもの。
 
 ## 関連項目
 

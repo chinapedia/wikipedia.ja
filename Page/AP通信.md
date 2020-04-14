@@ -1,4 +1,4 @@
-> この記事は[AP](https://ja.wikipedia.org/wiki/AP)から翻訳されています。
+> この記事は[AP通信](https://ja.wikipedia.org/wiki/AP通信)から翻訳されています。
 
 
 **AP通信**（エーピーつうしん、**Associated Press**）は、世界的な通信網を持つ[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の大手[通信社](../Page/通信社.md "wikilink")。

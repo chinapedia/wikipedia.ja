@@ -5,7 +5,7 @@
 
 ## 概要
 
-エイベックス・エンタテインメントのメインレーベル故に[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")のレーベル中では最も規模が大きく、アーティストの数も多い。規格番号は[CDがAVCD](../Page/コンパクトディスク.md "wikilink")、[DVD](../Page/DVD.md "wikilink")がAVBD、[BDがAVXD](../Page/Blu-ray_Disc.md "wikilink")、[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などの特殊商品がAVZD。近年では同業他社からの移籍も頻繁に行われており、重複在籍状態にあるアーティストも目立つ。また、同じエイベックス・グループのレーベル間での移籍も多く、後発レーベルの[rhythm zoneや](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")[tearbridge records](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")、[HPQ](https://ja.wikipedia.org/wiki/HPQ_\(エイベックスのレコードレーベル\) "wikilink")（ヴィジュアル系アーティスト向けレーベル）への移籍も行われている。なお[オリコン](../Page/オリコン.md "wikilink")ランキングでは**AVT**と略されている。
+エイベックス・エンタテインメントのメインレーベル故に[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")のレーベル中では最も規模が大きく、アーティストの数も多い。規格番号は[CDがAVCD](../Page/コンパクトディスク.md "wikilink")、[DVD](../Page/DVD.md "wikilink")がAVBD、[VHS](../Page/VHS.md "wikilink")がAVVD、[BDがAVXD](../Page/Blu-ray_Disc.md "wikilink")、[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などの特殊商品がAVZD。近年では同業他社からの移籍も頻繁に行われており、重複在籍状態にあるアーティストも目立つ。また、同じエイベックス・グループのレーベル間での移籍も多く、後発レーベルの[rhythm zoneや](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")[tearbridge records](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")、[HPQ](https://ja.wikipedia.org/wiki/HPQ_\(エイベックスのレコードレーベル\) "wikilink")（ヴィジュアル系アーティスト向けレーベル）への移籍も行われている。なお[オリコン](../Page/オリコン.md "wikilink")ランキングでは**AVT**と略されている。
 
 [2014年](../Page/2014年.md "wikilink")7月にレーベル再編で「[avex entertainment](https://ja.wikipedia.org/wiki/avex_entertainment "wikilink")」を吸収統合した。
 

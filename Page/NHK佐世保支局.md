@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK佐世保支局](https://ja.wikipedia.org/wiki/NHK佐世保支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Sasebo_Branch.jpg "wikilink") **NHK佐世保支局**（エヌエイチケイさせぼしきょく）は、[長崎県](../Page/長崎県.md "wikilink")の北部を受け持つ[NHK長崎放送局](../Page/NHK長崎放送局.md "wikilink")の支局である。受信料の収納業務などを行っている。かつては「NHK佐世保放送局」だった。

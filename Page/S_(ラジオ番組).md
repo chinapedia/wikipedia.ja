@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[S \(ラジオ番組\)](https://ja.wikipedia.org/wiki/S_\(ラジオ番組\))から翻訳されています。
 
 
 **S**（エス）は、2002年4月から2004年3月まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送された[深夜番組](../Page/深夜番組.md "wikilink")である。

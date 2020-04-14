@@ -36,7 +36,7 @@
 **人物・グループ**
 
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")  - 日本の音楽プロデューサー、ミュージシャン、デジタルバンド・[TM NETWORK及び音楽ユニット](../Page/TM_NETWORK.md "wikilink")・[globe](https://ja.wikipedia.org/wiki/globe "wikilink")のメンバー。
-  - [小林武史](../Page/小林武史.md "wikilink") - 日本の音楽プロデューサー、ミュージシャン。
+  - [小林武史](../Page/小林武史.md "wikilink")  - 日本の音楽プロデューサー、ミュージシャン。
   - [ザ・キラーズ](../Page/ザ・キラーズ.md "wikilink")  - アメリカのオルタナティブ・ロックバンド。
   - [北嶋徹](https://ja.wikipedia.org/wiki/北嶋徹 "wikilink")  - 日本のロックバンド、[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")のメンバー。
   - [トム・ケニー](../Page/トム・ケニー.md "wikilink")  - 「[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")」での役で知られるアメリカのコメディアン。
@@ -44,7 +44,7 @@
 
 **作品名**
 
-  - [電車走行キット](https://ja.wikipedia.org/wiki/電車走行キット "wikilink")  - ウェブページ上に鉄道車両を走行させるプログラム
+  - [電車走行キット](https://ja.wikipedia.org/wiki/電車走行キット "wikilink")  - ウェブページ上に鉄道車両を走行させるプログラム。
 
 ### フィクションの略語・略称
 

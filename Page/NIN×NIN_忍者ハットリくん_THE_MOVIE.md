@@ -1,4 +1,4 @@
-> この記事は[NINNIN  THE MOVIE](https://ja.wikipedia.org/wiki/NINNIN__THE_MOVIE)から翻訳されています。
+> この記事は[NIN×NIN 忍者ハットリくん THE MOVIE](https://ja.wikipedia.org/wiki/NIN×NIN_忍者ハットリくん_THE_MOVIE)から翻訳されています。
 
 
 『**NIN×NIN 忍者ハットリくん THE MOVIE**』（ニン×ニン にんじゃハットリくん ザ ムービー）は、[2004年](../Page/2004年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。
@@ -101,7 +101,7 @@
 
   - [NIN×NIN 忍者ハットリくん THE MOVIE](http://www.nin-nin.com/)
 
-[Category:フジテレビ製作の映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作の映画 "wikilink") [Category:東宝製作の映画作品](https://ja.wikipedia.org/wiki/Category:東宝製作の映画作品 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:日本の特撮映画](https://ja.wikipedia.org/wiki/Category:日本の特撮映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:藤子不二雄原作の実写作品](https://ja.wikipedia.org/wiki/Category:藤子不二雄原作の実写作品 "wikilink") [Category:NBCユニバーサル・ジャパンの映画作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの映画作品 "wikilink") [Category:忍者映画](https://ja.wikipedia.org/wiki/Category:忍者映画 "wikilink") [Category:忍者ハットリくん](https://ja.wikipedia.org/wiki/Category:忍者ハットリくん "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:知念侑李](https://ja.wikipedia.org/wiki/Category:知念侑李 "wikilink") [Category:服部隆之の作曲映画](https://ja.wikipedia.org/wiki/Category:服部隆之の作曲映画 "wikilink")
+[Category:フジテレビ製作の映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作の映画 "wikilink") [Category:東宝特撮映画](https://ja.wikipedia.org/wiki/Category:東宝特撮映画 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:藤子不二雄原作の実写作品](https://ja.wikipedia.org/wiki/Category:藤子不二雄原作の実写作品 "wikilink") [Category:NBCユニバーサル・ジャパンの映画作品](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの映画作品 "wikilink") [Category:忍者映画](https://ja.wikipedia.org/wiki/Category:忍者映画 "wikilink") [Category:忍者ハットリくん](https://ja.wikipedia.org/wiki/Category:忍者ハットリくん "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:服部隆之の作曲映画](https://ja.wikipedia.org/wiki/Category:服部隆之の作曲映画 "wikilink")
 
 1.
 2.

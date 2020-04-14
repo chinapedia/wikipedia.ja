@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧)から翻訳されています。
 
 
 **JNN夕方ローカルニュース一覧**（ジェイエヌエヌゆうがたローカルニュースいちらん）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[ニュース系列](../Page/ニュース系列.md "wikilink")である[JNN系列局で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、現在放送されている夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
@@ -20,7 +20,7 @@
 
   - [北海道放送](../Page/北海道放送.md "wikilink")（HBC）
       - 『[今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")』■（月 - 金 15:44 - 19:00。ローカルニュース部は15:44 - 17:50と18:15 - 19:00。特別編成により通常版「今日ドキッ\!」が休止となる場合は「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ "wikilink")」を13:55 - 15:49まで・「Nスタ」を15:49 - 18:15までそれぞれフル放送し、18:15 - 18:30枠で「HBCニュース」を放送）
-      - キャスター：[堀啓知](../Page/堀啓知.md "wikilink")、[金城茉里奈](https://ja.wikipedia.org/wiki/金城茉里奈 "wikilink")、[森田絹子](https://ja.wikipedia.org/wiki/森田絹子 "wikilink")、[森結有花](https://ja.wikipedia.org/wiki/森結有花 "wikilink")、[佐々木佑花](../Page/佐々木佑花.md "wikilink")、ほか
+      - キャスター：[堀啓知](../Page/堀啓知.md "wikilink")、[金城茉里奈](https://ja.wikipedia.org/wiki/金城茉里奈 "wikilink")、[森田絹子](https://ja.wikipedia.org/wiki/森田絹子 "wikilink")、[森結有花](https://ja.wikipedia.org/wiki/森結有花 "wikilink")、ほか
       - フィールドキャスター：[堀内大輝](https://ja.wikipedia.org/wiki/堀内大輝 "wikilink")・[日下怜奈](https://ja.wikipedia.org/wiki/日下怜奈 "wikilink")
       - スポーツキャスター：[川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")・[卓田和広](../Page/卓田和広.md "wikilink")・[渕上紘行](../Page/渕上紘行.md "wikilink")・[山内要一](../Page/山内要一.md "wikilink")・[世永聖奈](https://ja.wikipedia.org/wiki/世永聖奈 "wikilink")
       - 天気コーナー担当：[近藤肇](https://ja.wikipedia.org/wiki/近藤肇 "wikilink")（HBC[気象予報士](../Page/気象予報士.md "wikilink")）
@@ -35,9 +35,9 @@
       - キャスター：[江幡平三郎](https://ja.wikipedia.org/wiki/江幡平三郎 "wikilink")（月 - 水）、[奥村奈穂美](../Page/奥村奈穂美.md "wikilink")（月 - 水）、[浅見智](../Page/浅見智.md "wikilink")（木・金）、[甲斐谷望](https://ja.wikipedia.org/wiki/甲斐谷望 "wikilink")（木・金）
       - フィールドキャスター：[神山浩樹](../Page/神山浩樹.md "wikilink")・[川島有貴](https://ja.wikipedia.org/wiki/川島有貴 "wikilink")
       - スポーツキャスター：浅見智・[清水康志](https://ja.wikipedia.org/wiki/清水康志 "wikilink")・[長谷川拳杜](https://ja.wikipedia.org/wiki/長谷川拳杜 "wikilink")
-  - [東北放送](../Page/東北放送.md "wikilink")（TBC）
+  - [東北放送](../Page/東北放送.md "wikilink")（tbc）
       - 『[Nスタみやぎ](https://ja.wikipedia.org/wiki/Nスタみやぎ "wikilink")』■（月 - 金 15:40 - 18:55。ローカルニュース部は15:40 - 15:49と18:15 - 18:55。[楽天デーゲーム中継時は](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")「ゴゴスマ」と15:40枠の「Nスタみやぎ早版」が休止され、全国ニュース「Nスタ」は16:50または17:50飛び乗りに変更）
-      - キャスター：[石川太郎](../Page/石川太郎.md "wikilink")（月 - 木）、[増子華子](https://ja.wikipedia.org/wiki/増子華子 "wikilink")（月 - 水）、[大久保悠](https://ja.wikipedia.org/wiki/大久保悠 "wikilink")（木、金）、[菅生翔平](https://ja.wikipedia.org/wiki/菅生翔平 "wikilink")（金）
+      - キャスター：[石川太郎](../Page/石川太郎.md "wikilink")（月 - 水）、[増子華子](https://ja.wikipedia.org/wiki/増子華子 "wikilink")（月 - 水）、[大久保悠](https://ja.wikipedia.org/wiki/大久保悠 "wikilink")（木、金）、[菅生翔平](https://ja.wikipedia.org/wiki/菅生翔平 "wikilink")（木・金）
       - フィールドキャスター：[後藤舜](https://ja.wikipedia.org/wiki/後藤舜 "wikilink")
       - スポーツキャスター：[守屋周](../Page/守屋周.md "wikilink")・[松尾武](../Page/松尾武_\(アナウンサー\).md "wikilink")・[伊藤晋平](https://ja.wikipedia.org/wiki/伊藤晋平 "wikilink")・[林田悟志](https://ja.wikipedia.org/wiki/林田悟志 "wikilink")・[黒田直樹](../Page/黒田直樹.md "wikilink")・[飯野雅人](../Page/飯野雅人.md "wikilink")・[古野真也](https://ja.wikipedia.org/wiki/古野真也 "wikilink")
       - 天気キャスター：[尾崎尚之](https://ja.wikipedia.org/wiki/尾崎尚之 "wikilink")、[佐藤正則](https://ja.wikipedia.org/wiki/佐藤正則 "wikilink")、[星野誠](https://ja.wikipedia.org/wiki/星野誠 "wikilink")（気象予報士・[TBC気象台](../Page/私立TBC気象台.md "wikilink")）
@@ -48,8 +48,8 @@
       - スポーツキャスター：矢野秀樹
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）
       - 『[Nスタふくしま](https://ja.wikipedia.org/wiki/Nスタふくしま "wikilink")』（月 - 金 18:15 - 19:00）
-      - キャスター：[奥秋直人](https://ja.wikipedia.org/wiki/奥秋直人 "wikilink")（月 - 木）、[小野美希](../Page/小野美希.md "wikilink")（月 - 水）、[出口朋香](https://ja.wikipedia.org/wiki/出口朋香 "wikilink")（金）、[柗井綾乃](../Page/柗井綾乃.md "wikilink")（金）
-      - フィールドキャスター：[水津邦治](../Page/水津邦治.md "wikilink")（いわき支社所属）・[杉浦敦](https://ja.wikipedia.org/wiki/杉浦敦 "wikilink")・[高橋広季](https://ja.wikipedia.org/wiki/高橋広季 "wikilink")・[小湊愛巳](https://ja.wikipedia.org/wiki/小湊愛巳 "wikilink")・柗井綾乃・[安部遼](https://ja.wikipedia.org/wiki/安部遼 "wikilink")
+      - キャスター：[奥秋直人](https://ja.wikipedia.org/wiki/奥秋直人 "wikilink")（月 - 木）、[小野美希](../Page/小野美希.md "wikilink")（月 - 水）、[出口朋香](https://ja.wikipedia.org/wiki/出口朋香 "wikilink")（木・金）、[柗井綾乃](../Page/柗井綾乃.md "wikilink")（金）
+      - フィールドキャスター：[水津邦治](../Page/水津邦治.md "wikilink")（郡山支社所属）・[高橋広季](https://ja.wikipedia.org/wiki/高橋広季 "wikilink")・[小湊愛巳](https://ja.wikipedia.org/wiki/小湊愛巳 "wikilink")・柗井綾乃・[安部遼](https://ja.wikipedia.org/wiki/安部遼 "wikilink")・[渡辺文嘉](https://ja.wikipedia.org/wiki/渡辺文嘉 "wikilink")・[木田修作](https://ja.wikipedia.org/wiki/木田修作 "wikilink")（報道部記者）
       - スポーツキャスター:高橋広季
       - 天気キャスター：[大野治夫](../Page/大野治夫.md "wikilink")（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")所属気象予報士）
 
@@ -75,7 +75,7 @@
       - フィールドキャスター：[内山絵里加](https://ja.wikipedia.org/wiki/内山絵里加 "wikilink")（月・火）、[重長智子](../Page/重長智子.md "wikilink")（水・木）、[水野涼子](../Page/水野涼子.md "wikilink")（金）
   - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）
       - 『[N6](https://ja.wikipedia.org/wiki/N6 "wikilink")』■（月 - 金 18:15 - 18:53）
-      - キャスター：[五百旗頭幸男](https://ja.wikipedia.org/wiki/五百旗頭幸男 "wikilink")、[菅久瑛麻](https://ja.wikipedia.org/wiki/菅久瑛麻 "wikilink")
+      - キャスター：[五百旗頭幸男](https://ja.wikipedia.org/wiki/五百旗頭幸男 "wikilink")、[菅久瑛麻](../Page/菅久瑛麻.md "wikilink")
       - フィールドキャスター：[毛田千代丸](https://ja.wikipedia.org/wiki/毛田千代丸 "wikilink")
       - 天気・情報キャスター：[天野なな実](https://ja.wikipedia.org/wiki/天野なな実 "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）
@@ -85,7 +85,7 @@
       - 『[チャント\!](https://ja.wikipedia.org/wiki/チャント! "wikilink")』■（月 - 金 15:49 - 19:00。ローカルニュース部は15:49 - 17:50と18:15 - 19:00）
       - メインキャスター：[大石邦彦](../Page/大石邦彦.md "wikilink")
       - キャスター：[夏目みな美](../Page/夏目みな美.md "wikilink")・[南部志穂](../Page/南部志穂.md "wikilink")・[柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")・[三浦優奈](https://ja.wikipedia.org/wiki/三浦優奈 "wikilink")
-      - フィールドキャスター：[小川健太](https://ja.wikipedia.org/wiki/小川健太 "wikilink")（報道部記者）、[青木まな](../Page/青木まな.md "wikilink")（報道部記者）、[山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")
+      - フィールドキャスター：[小川健太](https://ja.wikipedia.org/wiki/小川健太 "wikilink")（報道部記者）・[青木まな](../Page/青木まな.md "wikilink")（報道部記者）・[山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")・[渡辺美香](../Page/渡辺美香.md "wikilink")
       - スポーツキャスター：[江田亮](https://ja.wikipedia.org/wiki/江田亮 "wikilink")・[高田寛之](../Page/高田寛之.md "wikilink")・[水分貴雅](../Page/水分貴雅.md "wikilink")・[宮部和裕](../Page/宮部和裕.md "wikilink")・[西村俊仁](../Page/西村俊仁.md "wikilink")・[若狭敬一](../Page/若狭敬一.md "wikilink")
       - 天気キャスター：[桜沢信司](../Page/桜沢信司.md "wikilink") （CBC気象予報士）・[太田絢子](https://ja.wikipedia.org/wiki/太田絢子_\(気象予報士\) "wikilink")
 
@@ -107,13 +107,14 @@
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）
       - 『[テレポート山陰](../Page/テレポート山陰.md "wikilink")』■（月 - 金 18:15 - 18:55）
       - キャスター：[宇田川修一](../Page/宇田川修一.md "wikilink")、ほか
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）
+  - [RSK山陽放送](../Page/RSK山陽放送.md "wikilink")（RSK）
       - 『[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")』（月 - 金 18:15 - 18:50）
       - キャスター：[竹内大樹](https://ja.wikipedia.org/wiki/竹内大樹 "wikilink")、[守口香織](../Page/守口香織.md "wikilink")
       - フィールドキャスター:[武田博志](../Page/武田博志.md "wikilink")・[米澤秀敏](https://ja.wikipedia.org/wiki/米澤秀敏 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
       - 『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』■（月 - 金 15:00 - 18:56）
-      - キャスター：[青山高治](../Page/青山高治.md "wikilink")、[河村綾奈](https://ja.wikipedia.org/wiki/河村綾奈 "wikilink")、[小林康秀](../Page/小林康秀.md "wikilink")、[中根夕希](https://ja.wikipedia.org/wiki/中根夕希 "wikilink")
+      - キャスター：[青山高治](../Page/青山高治.md "wikilink")、[河村綾奈](https://ja.wikipedia.org/wiki/河村綾奈 "wikilink")
+      - ニュースキャスター：[小林康秀](../Page/小林康秀.md "wikilink")、[中根夕希](https://ja.wikipedia.org/wiki/中根夕希 "wikilink")
       - 天気キャスター：[岸真弓](https://ja.wikipedia.org/wiki/岸真弓 "wikilink")（気象予報士）・[岩永哲](https://ja.wikipedia.org/wiki/岩永哲 "wikilink")（報道部記者）
       - スポーツキャスター：[石橋真](../Page/石橋真.md "wikilink")・[一柳信行](../Page/一柳信行.md "wikilink")・[長谷川努](../Page/長谷川努.md "wikilink")・[石田充](../Page/石田充.md "wikilink")・[伊東平](https://ja.wikipedia.org/wiki/伊東平 "wikilink")・[坂上俊次](../Page/坂上俊次.md "wikilink")
 
@@ -134,7 +135,7 @@
       - フィールドキャスター：[高橋浩由](../Page/高橋浩由.md "wikilink")、[飯田万結](https://ja.wikipedia.org/wiki/飯田万結 "wikilink")
   - [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）
       - 『[情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink")』 ■（月 - 金 17:15 - 18:55。ローカルニュース部は17:15 - 17:50と18:15 - 18:55）
-      - キャスター：[杉本泰郷](https://ja.wikipedia.org/wiki/杉本泰郷 "wikilink")、[木岡真理奈](https://ja.wikipedia.org/wiki/木岡真理奈 "wikilink")（月 - 水）、[福光可奈子](https://ja.wikipedia.org/wiki/福光可奈子 "wikilink")（木 - 金）
+      - キャスター：[藤﨑美希](https://ja.wikipedia.org/wiki/藤崎美希 "wikilink")・[中元翔一](https://ja.wikipedia.org/wiki/中元翔一 "wikilink")（月 - 水）、[中川実咲](https://ja.wikipedia.org/wiki/中川実咲_\(アナウンサー\) "wikilink")・[尾﨑大晟](https://ja.wikipedia.org/wiki/尾﨑大晟 "wikilink")（木 - 金）
 
 ## 九州・沖縄
 
@@ -181,9 +182,9 @@
     [HBCニュース](../Page/HBCニュース.md "wikilink") - [HBCテレポート6](../Page/テレポート6_\(北海道放送\).md "wikilink") - [テレポート2000](../Page/テレポート2000.md "wikilink") - [Hana\*テレビ](../Page/Hana*テレビ.md "wikilink") - [総力報道\!THE NEWS HBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_HBC "wikilink") - [北海道NEWS1](https://ja.wikipedia.org/wiki/北海道NEWS1 "wikilink")
   - ATV 青森テレビ
     [ATVニュース](../Page/ATVニュース.md "wikilink") - [ATVニュースワイド](../Page/ATVニュースワイド.md "wikilink")
-  - IBC 岩手放送
+  - IBC岩手放送
     [岩手日報IBCニュース](../Page/岩手日報IBCニュース.md "wikilink")
-  - TBC 東北放送
+  - tbc 東北放送
     [TBCニュース](../Page/TBCニュース.md "wikilink") - [TBCニュースワイド](https://ja.wikipedia.org/wiki/TBCニュースワイド "wikilink") - [TBCニュースの森](../Page/TBCニュースの森.md "wikilink") - [ただいまワイド](../Page/ただいまワイド.md "wikilink") - [TBCニュースウェーブ](../Page/TBCニュースウェーブ.md "wikilink") - [ニュースの森 TBC](../Page/ニュースの森_TBC.md "wikilink") - [イブニング・ニュース TBC](../Page/イブニング・ニュース_TBC.md "wikilink") - [総力報道\!THE NEWS TBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_TBC "wikilink")
   - TUY テレビユー山形
     [TUYニュース](https://ja.wikipedia.org/wiki/TUYニュース "wikilink") - [ニュースの森やまがた](https://ja.wikipedia.org/wiki/ニュースの森やまがた "wikilink") - [TUYイブニング・ニュース](../Page/TUYイブニング・ニュース.md "wikilink")
@@ -201,7 +202,7 @@
   - UTY テレビ山梨
     [UTYニュース](https://ja.wikipedia.org/wiki/UTYニュース "wikilink") - [テレポートやまなし](https://ja.wikipedia.org/wiki/テレポートやまなし "wikilink") - [UTYニュースワイド](https://ja.wikipedia.org/wiki/UTYニュースワイド "wikilink")
   - TUT チューリップテレビ
-    [ちゅうりっぷワイド ホップ・ステップ・チューリップ](https://ja.wikipedia.org/wiki/ちゅうりっぷワイド_ホップ・ステップ・チューリップ "wikilink") - [ニュースの森とやま](https://ja.wikipedia.org/wiki/ニュースの森とやま "wikilink") - [チョイス\!](https://ja.wikipedia.org/wiki/チョイス! "wikilink") - [イブニング・ニュースとやま](https://ja.wikipedia.org/wiki/イブニング・ニュースとやま "wikilink") - [チューリップワイド THE NEWS](https://ja.wikipedia.org/wiki/チューリップワイド_THE_NEWS "wikilink") - チューリップテレビ ニュース6
+    [ちゅうりっぷワイド ホップ・ステップ・チューリップ](https://ja.wikipedia.org/wiki/ちゅうりっぷワイド_ホップ・ステップ・チューリップ "wikilink") - [ニュースの森とやま](https://ja.wikipedia.org/wiki/ニュースの森とやま "wikilink") - [チョイス\!](https://ja.wikipedia.org/wiki/チョイス!_\(テレビ番組\) "wikilink") - [イブニング・ニュースとやま](https://ja.wikipedia.org/wiki/イブニング・ニュースとやま "wikilink") - [チューリップワイド THE NEWS](https://ja.wikipedia.org/wiki/チューリップワイド_THE_NEWS "wikilink") - チューリップテレビ ニュース6
   - MRO 北陸放送
     [MROニュース](../Page/MROニュース.md "wikilink") - [MROテレポート6](../Page/MROテレポート6.md "wikilink") - [MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink") - [MROイブニング・ニュース](https://ja.wikipedia.org/wiki/MROイブニング・ニュース "wikilink") -[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink") - [総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")
   - SBS 静岡放送
@@ -220,7 +221,7 @@
     [キャッチあい](../Page/キャッチあい.md "wikilink") - [THE NEWSキャッチあい](../Page/キャッチあい.md "wikilink") - [NEWSキャッチあい](../Page/キャッチあい.md "wikilink")
   - KUTV テレビ高知
     [KUTVニュース](../Page/KUTVニュース.md "wikilink") - [イブニングKOCHI](../Page/イブニングKOCHI.md "wikilink")
-  - RKB RKB毎日放送
+  - rkb RKB毎日放送
     [RKBヘッドライン](../Page/RKBヘッドライン.md "wikilink")ニュース - [RKBニュースワイド](../Page/RKBニュースワイド.md "wikilink")
   - NBC 長崎放送
     [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink") - [NBCニュース6](https://ja.wikipedia.org/wiki/NBCニュース6 "wikilink") - [報道センターNBC](../Page/報道センターNBC.md "wikilink")

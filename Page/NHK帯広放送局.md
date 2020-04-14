@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK帯広放送局](https://ja.wikipedia.org/wiki/NHK帯広放送局)から翻訳されています。
 
 
 **NHK帯広放送局**（エヌエイチケイおびひろほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[十勝管内を](https://ja.wikipedia.org/wiki/十勝総合振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで地域放送を行っている。
@@ -35,12 +35,14 @@
 
 近年では「NHK全十勝アイスホッケー大会」や「高校野球十勝地区大会決勝戦」などの恒例イベントにおける実況中継以外に、NHK杯全十勝ミニバレー大会を2時間にわたって実況生放送（[2002年](../Page/2002年.md "wikilink")）、「のど自慢予選会in芽室町」、さらに、帯広市で開かれたのど自慢の放送にあわせて、当時の司会で帯広局が初任地だった宮本隆治、前司会者で同じく帯広局勤務経験がある宮川泰夫によるトークショー公開録画放送など少しずつではあるがローカル放送の拡充を行っている。
 
+2018年12月から「ナットク\!とかちCH」を開始。視聴者から寄せられる意見や情報を元にNHKの記者が取材し、帯広局の制作番組やホームページにて結果を報告するなど、帯広地域に密着した取材を強化している\[2\]。
+
 ## 支局等
 
 2015年度のNHK組織見直しにより、報道室等は全て「支局」に統一された。
 
   - 広尾支局（旧広尾報道室。[広尾町](../Page/広尾町.md "wikilink")）
-  - 札幌放送局営業推進部北海道東営業センター\[2\]（局内営業部跡に設置。十勝・釧根・日高中南部を担当）
+  - 札幌放送局営業推進部北海道東営業センター\[3\]（局内営業部跡に設置。十勝・釧根・日高中南部を担当）
 
 ## チャンネル・周波数
 
@@ -173,7 +175,7 @@
 
 ## 主な帯広局制作番組
 
-  - [ほっとニュース北海道](https://ja.wikipedia.org/wiki/ほっとニュース北海道 "wikilink")とかち（総合 月 - 金18:50 - 18:55）\[3\]
+  - [ほっとニュース北海道](https://ja.wikipedia.org/wiki/ほっとニュース北海道 "wikilink")とかち（総合 月 - 金18:50 - 18:55）\[4\]
   - ニュース・気象情報（[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FM](../Page/NHK-FM放送.md "wikilink") 月 - 金12:18 - 12:20、18:56 - 19:00）
 
 ## 過去の制作番組
@@ -201,7 +203,7 @@
 
 ## アナウンサー・キャスター
 
-2019年8月現在\[4\]
+2019年8月現在\[5\]
 
 | 氏名                                   | 前任地                                         | 担当番組                                                                 |
 | ------------------------------------ | ------------------------------------------- | -------------------------------------------------------------------- |
@@ -231,6 +233,7 @@
 [Category:NHK帯広](https://ja.wikipedia.org/wiki/Category:NHK帯広 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:帯広市](https://ja.wikipedia.org/wiki/Category:帯広市 "wikilink") [Category:帯広市の建築物](https://ja.wikipedia.org/wiki/Category:帯広市の建築物 "wikilink") [Category:北海道のマスメディア](https://ja.wikipedia.org/wiki/Category:北海道のマスメディア "wikilink") [Category:北海道のテレビ局](https://ja.wikipedia.org/wiki/Category:北海道のテレビ局 "wikilink") [Category:北海道のラジオ局](https://ja.wikipedia.org/wiki/Category:北海道のラジオ局 "wikilink")
 
 1.  北海道新聞帯広支社が編纂した「十勝百科事典」にて一連の流れがまとめられている。
-2.  [ＮＨＫ放送受信料窓口のご案内 | 北海道東営業センター](http://www.nhk.or.jp/sapporo/hkd_centers/hkd_higashi.html)
-3.  2014年3月31日 - 2019年3月は月 - 金18:52 - 18:56
-4.
+2.
+3.  [ＮＨＫ放送受信料窓口のご案内 | 北海道東営業センター](http://www.nhk.or.jp/sapporo/hkd_centers/hkd_higashi.html)
+4.  2014年3月31日 - 2019年3月は月 - 金18:52 - 18:56
+5.

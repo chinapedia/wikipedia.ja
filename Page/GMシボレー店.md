@@ -1,4 +1,4 @@
-> この記事は[GM](https://ja.wikipedia.org/wiki/GM)から翻訳されています。
+> この記事は[GMシボレー店](https://ja.wikipedia.org/wiki/GMシボレー店)から翻訳されています。
 
 
 **GMシボレー店**は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")の日本における[シボレー](../Page/シボレー.md "wikilink")ブランド車の正規ディーラーのかつての名称であった。現在は「[キャデラック](../Page/キャデラック.md "wikilink")○○」「シボレー○○」と、ブランド毎に拠点名を分けている。

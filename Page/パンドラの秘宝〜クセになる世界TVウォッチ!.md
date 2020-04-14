@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[パンドラの秘宝〜クセになる世界TVウォッチ!](https://ja.wikipedia.org/wiki/パンドラの秘宝〜クセになる世界TVウォッチ!)から翻訳されています。
 
 
 『**パンドラの秘宝〜クセになる世界TVウォッチ\!**』（パンドラのひほう クセになるせかいティービーウォッチ）は、[2004年](../Page/2004年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")から同年[3月16日](../Page/3月16日.md "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全10回。放送時間は毎週火曜 20:00 - 20:54 （日本標準時）。

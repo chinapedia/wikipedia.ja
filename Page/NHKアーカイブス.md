@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKアーカイブス](https://ja.wikipedia.org/wiki/NHKアーカイブス)から翻訳されています。
 
 
 『**NHKアーカイブス**』（エヌエイチケイアーカイブス）は、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")に放送を開始した[テレビ番組](../Page/テレビ番組.md "wikilink")である。2017年度より、『**あの日 あのとき あの番組 〜NHKアーカイブス〜**』（あのひ あのとき あのばんぐみ エヌエイチケイアーカイブス）に改題・リニューアル。[NHKで過去に放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")や[テレビドラマ](../Page/テレビドラマ.md "wikilink")の中から優れた作品を選出し、経年劣化した映像をデジタル処理で修復して、解説を加え放送する。

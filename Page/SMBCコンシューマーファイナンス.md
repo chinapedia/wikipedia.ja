@@ -1,4 +1,4 @@
-> この記事は[SMBC](https://ja.wikipedia.org/wiki/SMBC)から翻訳されています。
+> この記事は[SMBCコンシューマーファイナンス](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス)から翻訳されています。
 
 
 [大阪・道頓堀.jpg](https://ja.wikipedia.org/wiki/File:大阪・道頓堀.jpg "fig:大阪・道頓堀.jpg")の看板\]\] [長沼原自動契約コーナー.JPG](https://ja.wikipedia.org/wiki/File:長沼原自動契約コーナー.JPG "fig:長沼原自動契約コーナー.JPG") **SMBCコンシューマーファイナンス株式会社**（エスエムビーシーコンシューマーファイナンス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者。

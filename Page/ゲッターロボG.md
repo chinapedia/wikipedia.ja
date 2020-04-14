@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG)から翻訳されています。
 
 
 『**ゲッターロボG**』（ゲッターロボ ジー）は、[永井豪](../Page/永井豪.md "wikilink")と[石川賢原作の](../Page/石川賢_\(漫画家\).md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および同作品を原作とした[1975年](../Page/1975年.md "wikilink")（昭和50年）[5月15日](../Page/5月15日.md "wikilink")から[1976年](../Page/1976年.md "wikilink")（昭和51年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[フジテレビ系で毎週木曜日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")19時00分 - 19時30分に全39話が放送された[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。

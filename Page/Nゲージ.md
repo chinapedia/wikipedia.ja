@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[Nゲージ](https://ja.wikipedia.org/wiki/Nゲージ)から翻訳されています。
 
 
 **Nゲージ**（エヌゲージ）とは、[レールの間隔](https://ja.wikipedia.org/wiki/軌条 "wikilink")（[軌間](../Page/軌間.md "wikilink")）が9[mmで](../Page/ミリメートル.md "wikilink")[縮尺](../Page/縮尺.md "wikilink")1/148 - 1/160の[鉄道模型](../Page/鉄道模型.md "wikilink")規格の総称である。小形模型のうち、諸外国では[HOゲージ](../Page/HOゲージ.md "wikilink") が主流だが、日本ではNゲージがもっとも普及している鉄道模型である。9mmゲージとも呼ばれ、[アメリカなどではNスケールとも呼ばれる](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

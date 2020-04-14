@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグチャンピオンシップ](https://ja.wikipedia.org/wiki/Jリーグチャンピオンシップ)から翻訳されています。
 
 
 **Jリーグチャンピオンシップ**（ジェイリーグチャンピオンシップ）は、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）のトップカテゴリである[Jリーグ ディビジョン1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink") (J1) で行われていた年間王者決定戦（[ポストシーズン](../Page/ポストシーズン.md "wikilink")）である。

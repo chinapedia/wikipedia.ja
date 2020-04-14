@@ -1,4 +1,4 @@
-> この記事は[Close to ](https://ja.wikipedia.org/wiki/Close_to_)から翻訳されています。
+> この記事は[Close to 〜祈りの丘〜](https://ja.wikipedia.org/wiki/Close_to_〜祈りの丘〜)から翻訳されています。
 
 
 『**Close to 〜祈りの丘〜**』（クローストゥ いのりのおか）は、[2001年](../Page/2001年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")で発売された[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

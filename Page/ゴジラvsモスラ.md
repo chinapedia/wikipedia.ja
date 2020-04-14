@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[ゴジラvsモスラ](https://ja.wikipedia.org/wiki/ゴジラvsモスラ)から翻訳されています。
 
 
 『**ゴジラvsモスラ**』（ゴジラたいモスラ）は1992年に公開された[日本映画](../Page/日本映画.md "wikilink")で、「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」の第19作である。[1992年](../Page/1992年.md "wikilink")（平成4年）[12月12日](../Page/12月12日.md "wikilink")公開。キャッチコピーは「**極彩色の大決戦**」。
@@ -193,37 +193,362 @@
 
 ## スタッフ
 
-  - 製作：[田中友幸](../Page/田中友幸.md "wikilink")
-  - 脚本：[大森一樹](../Page/大森一樹.md "wikilink")
-  - 音楽監督：[伊福部昭](../Page/伊福部昭.md "wikilink")
-  - プロデューサー：[富山省吾](../Page/富山省吾.md "wikilink")
-  - 撮影：[岸本正広](https://ja.wikipedia.org/wiki/岸本正広 "wikilink")
-  - 美術：酒井賢
-  - 録音：斉藤禎一
-  - 音響効果：佐々木英世（[東洋音響](../Page/東洋音響.md "wikilink")）
-  - 照明：[望月英樹](https://ja.wikipedia.org/wiki/望月英樹 "wikilink")
-  - 編集：米田美保
-  - 助監督：[三好邦夫](https://ja.wikipedia.org/wiki/三好邦夫 "wikilink")
-  - 製作担当者：森知貴秀、前田光治
-  - 擬斗：[森岡隆見](https://ja.wikipedia.org/wiki/森岡隆見 "wikilink")
-  - 特殊技術
-      - 撮影：[江口憲一](https://ja.wikipedia.org/wiki/江口憲一 "wikilink")、[大根田俊光](https://ja.wikipedia.org/wiki/大根田俊光 "wikilink")
-      - 美術：[大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")
-      - 照明：斉藤薫
-      - 特殊効果：[渡辺忠昭](https://ja.wikipedia.org/wiki/渡辺忠昭 "wikilink")
-      - 造型：[小林知己](https://ja.wikipedia.org/wiki/小林知己 "wikilink")、[村瀬継蔵](https://ja.wikipedia.org/wiki/村瀬継蔵 "wikilink")
-      - 繰演：松本光司
-      - 助監督：[鈴木健二](../Page/鈴木健二_\(特撮監督\).md "wikilink")
-      - 製作担当者：小島太郎
-      - ゴジラ：[薩摩剣八郎](../Page/薩摩剣八郎.md "wikilink")
-      - バトラ：[破李拳竜](../Page/破李拳竜.md "wikilink")
-  - 協力：[防衛庁](../Page/防衛省.md "wikilink")、[東海大学](../Page/東海大学.md "wikilink")情報技術センター
-  - 協賛：[日本衛星放送](https://ja.wikipedia.org/wiki/日本衛星放送 "wikilink")、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")、[西友](../Page/西友.md "wikilink")、[コニカ](../Page/コニカ.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[大島運輸](https://ja.wikipedia.org/wiki/大島運輸 "wikilink")
-  - 制作協力：[東宝映像美術](https://ja.wikipedia.org/wiki/東宝映像美術 "wikilink")、東宝サウンドスタジオ、東宝ミュージック、東宝コスチューム、東京現像所、[東宝スタジオ](../Page/東宝スタジオ.md "wikilink")
-  - 特技監督：[川北紘一](../Page/川北紘一.md "wikilink")
-  - 監督：[大河原孝夫](../Page/大河原孝夫.md "wikilink")
-  - [東宝映画作品](https://ja.wikipedia.org/wiki/東宝映画_\(企業\) "wikilink")
-  - 配給：[東宝](../Page/東宝.md "wikilink")
+### 本編
+
+|                                                        |                                                                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 製作総指揮                                                  | **[田中友幸](../Page/田中友幸.md "wikilink")**                                                                      |
+| 製作統括                                                   | [林芳信](https://ja.wikipedia.org/wiki/林芳信 "wikilink")                                                         |
+| [プロデューサー](../Page/映画プロデューサー.md "wikilink")             | [富山省吾](../Page/富山省吾.md "wikilink")                                                                          |
+| 原案、[脚本](../Page/脚本家.md "wikilink")                     | **[大森一樹](../Page/大森一樹.md "wikilink")**                                                                      |
+| [撮影](https://ja.wikipedia.org/wiki/撮影技師 "wikilink")    | [岸本正広](https://ja.wikipedia.org/wiki/岸本正広 "wikilink")                                                       |
+| [美術](https://ja.wikipedia.org/wiki/美術デザイナー "wikilink") | [酒井賢](https://ja.wikipedia.org/wiki/酒井賢 "wikilink")                                                         |
+| [録音](../Page/ミキサー.md "wikilink")                       | [斉藤禎一](https://ja.wikipedia.org/wiki/斉藤禎一 "wikilink")                                                       |
+| [照明](../Page/照明技師.md "wikilink")                       | [望月英樹](https://ja.wikipedia.org/wiki/望月英樹 "wikilink")                                                       |
+| [編集](https://ja.wikipedia.org/wiki/編集技師 "wikilink")    | [米田美保](https://ja.wikipedia.org/wiki/米田美保 "wikilink")                                                       |
+| チーフ助監督                                                 | [三好邦夫](https://ja.wikipedia.org/wiki/三好邦夫 "wikilink")                                                       |
+| 製作担当者                                                  | [森知貴秀](https://ja.wikipedia.org/wiki/森知貴秀 "wikilink")、[前田光治](https://ja.wikipedia.org/wiki/前田光治 "wikilink") |
+| [監督](../Page/映画監督.md "wikilink")                       | **[大河原孝夫](../Page/大河原孝夫.md "wikilink")**                                                                    |
+|                                                        |                                                                                                             |
+
+<div class="NavFrame" style="clear:both; border:0;">
+
+<div class="NavHead" style="text-align:left;">
+
+サブスタッフ
+
+</div>
+
+<div class="NavContent" style="text-align:left;">
+
+|            |                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 監督助手       | [手塚昌明](../Page/手塚昌明.md "wikilink")、[本間和彦](https://ja.wikipedia.org/wiki/本間和彦 "wikilink")、[黒川礼人](https://ja.wikipedia.org/wiki/黒川礼人 "wikilink")                                                                                                                                                                                                                                          |
+| 撮影助手       | [脇屋隆司](https://ja.wikipedia.org/wiki/脇屋隆司 "wikilink")、[青木洋史](https://ja.wikipedia.org/wiki/青木洋史 "wikilink")、[宝田武久](https://ja.wikipedia.org/wiki/宝田武久 "wikilink")                                                                                                                                                                                                                       |
+| 録音助手       | [池田昇](https://ja.wikipedia.org/wiki/池田昇 "wikilink")、[影山修](https://ja.wikipedia.org/wiki/影山修 "wikilink")、[渡辺宸彬](https://ja.wikipedia.org/wiki/渡辺宸彬 "wikilink")                                                                                                                                                                                                                           |
+| 照明助手       | [蝶谷幸士](https://ja.wikipedia.org/wiki/蝶谷幸士 "wikilink")、[川井稔](https://ja.wikipedia.org/wiki/川井稔 "wikilink")、[川越和見](https://ja.wikipedia.org/wiki/川越和見 "wikilink")、[横道将昭](https://ja.wikipedia.org/wiki/横道将昭 "wikilink")、[田部谷正俊](https://ja.wikipedia.org/wiki/田部谷正俊 "wikilink")、[大沢暉男](https://ja.wikipedia.org/wiki/大沢暉男 "wikilink")、[鹿毛剛](https://ja.wikipedia.org/wiki/鹿毛剛 "wikilink") |
+| 照明機材       | [山崎惣一郎](https://ja.wikipedia.org/wiki/山崎惣一郎 "wikilink")                                                                                                                                                                                                                                                                                                                                 |
+| 特殊機械       | [宮川光男](https://ja.wikipedia.org/wiki/宮川光男 "wikilink")、[鹿山和男](https://ja.wikipedia.org/wiki/鹿山和男 "wikilink")                                                                                                                                                                                                                                                                             |
+| 特殊繰演       | [鳴海聡](https://ja.wikipedia.org/wiki/鳴海聡 "wikilink")                                                                                                                                                                                                                                                                                                                                     |
+| 美術助手（チーフ）  | [清水剛](https://ja.wikipedia.org/wiki/清水剛 "wikilink")                                                                                                                                                                                                                                                                                                                                     |
+| 美術助手       | [新垣博人](https://ja.wikipedia.org/wiki/新垣博人 "wikilink")、[田中俊広](https://ja.wikipedia.org/wiki/田中俊広 "wikilink")、[小岩理絵](https://ja.wikipedia.org/wiki/小岩理絵 "wikilink")                                                                                                                                                                                                                       |
+| 装置         | [丸山勝治](https://ja.wikipedia.org/wiki/丸山勝治 "wikilink")、[川口茂](https://ja.wikipedia.org/wiki/川口茂 "wikilink")                                                                                                                                                                                                                                                                               |
+| 組付         | [西田忠光](https://ja.wikipedia.org/wiki/西田忠光 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| 装飾         | [田代昭男](https://ja.wikipedia.org/wiki/田代昭男 "wikilink")、[遠藤雄一郎](https://ja.wikipedia.org/wiki/遠藤雄一郎 "wikilink")、[山内康裕](https://ja.wikipedia.org/wiki/山内康裕 "wikilink")                                                                                                                                                                                                                     |
+| 電飾         | [稲畑秀男](https://ja.wikipedia.org/wiki/稲畑秀男 "wikilink")、[河原正高](https://ja.wikipedia.org/wiki/河原正高 "wikilink")                                                                                                                                                                                                                                                                             |
+| 衣装         | [多勢美智子](https://ja.wikipedia.org/wiki/多勢美智子 "wikilink")                                                                                                                                                                                                                                                                                                                                 |
+| コスモスコスチューム | [出川淳子](https://ja.wikipedia.org/wiki/出川淳子 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| コスモス振付     | [浦井典子](https://ja.wikipedia.org/wiki/浦井典子 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| ヘアーメイク     | [下鍋良江](https://ja.wikipedia.org/wiki/下鍋良江 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| スチール       | [石月美徳](https://ja.wikipedia.org/wiki/石月美徳 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| 調音         | [多良政司](https://ja.wikipedia.org/wiki/多良政司 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| 音響効果       | [佐々木英世](https://ja.wikipedia.org/wiki/佐々木英世 "wikilink")                                                                                                                                                                                                                                                                                                                                 |
+| 音響効果助手     | [丹雄二](https://ja.wikipedia.org/wiki/丹雄二 "wikilink")、[小川広美](https://ja.wikipedia.org/wiki/小川広美 "wikilink")、[岡瀬晶彦](https://ja.wikipedia.org/wiki/岡瀬晶彦 "wikilink")                                                                                                                                                                                                                         |
+| スプリクター     | [石山久美子](https://ja.wikipedia.org/wiki/石山久美子 "wikilink")                                                                                                                                                                                                                                                                                                                                 |
+| 編集助手       | [佐藤康雄](https://ja.wikipedia.org/wiki/佐藤康雄 "wikilink")、[斉藤美津子](https://ja.wikipedia.org/wiki/斉藤美津子 "wikilink")                                                                                                                                                                                                                                                                           |
+| ネガ編集       | [青木千恵](https://ja.wikipedia.org/wiki/青木千恵 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| 擬斗         | [森岡隆見](https://ja.wikipedia.org/wiki/森岡隆見 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| キャスティング    | [田中忠雄](https://ja.wikipedia.org/wiki/田中忠雄 "wikilink")                                                                                                                                                                                                                                                                                                                                   |
+| 製作係        | [北川裕章](https://ja.wikipedia.org/wiki/北川裕章 "wikilink")、[後藤弘樹](https://ja.wikipedia.org/wiki/後藤弘樹 "wikilink")                                                                                                                                                                                                                                                                             |
+|            |                                                                                                                                                                                                                                                                                                                                                                                         |
+
+</div>
+
+</div>
+
+### 特殊技術
+
+|                                                        |                                                                                                               |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| [特技監督](https://ja.wikipedia.org/wiki/特撮監督 "wikilink")  | '''[川北紘一](../Page/川北紘一.md "wikilink")                                                                         |
+| [撮影](https://ja.wikipedia.org/wiki/撮影技師 "wikilink")    | [江口憲一](https://ja.wikipedia.org/wiki/江口憲一 "wikilink")、[大根田俊光](https://ja.wikipedia.org/wiki/大根田俊光 "wikilink") |
+| [美術](https://ja.wikipedia.org/wiki/美術デザイナー "wikilink") | [大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")                                                         |
+| [照明](../Page/照明技師.md "wikilink")                       | [斉藤薫](https://ja.wikipedia.org/wiki/斉藤薫_\(照明技師\) "wikilink")                                                  |
+| [特殊効果](https://ja.wikipedia.org/wiki/特殊効果 "wikilink")  | [渡辺忠昭](https://ja.wikipedia.org/wiki/渡辺忠昭 "wikilink")                                                         |
+| ゴジラ担当[造型チーフ](../Page/彫刻家.md "wikilink")                | [小林知巳](https://ja.wikipedia.org/wiki/小林知巳 "wikilink")                                                         |
+| モスラ担当[造型チーフ](../Page/彫刻家.md "wikilink")                | [村瀬継蔵](https://ja.wikipedia.org/wiki/村瀬継蔵 "wikilink")                                                         |
+| バトラ担当[造型チーフ](../Page/彫刻家.md "wikilink")                | [大神考](https://ja.wikipedia.org/wiki/大神考 "wikilink")                                                           |
+| [繰演](https://ja.wikipedia.org/wiki/操演技師 "wikilink")    | [松本光司](https://ja.wikipedia.org/wiki/松本光司_\(操演技師\) "wikilink")                                                |
+| チーフ助監督                                                 | [鈴木健二](../Page/鈴木健二_\(特撮監督\).md "wikilink")                                                                   |
+| 製作担当者                                                  | [小島太郎](https://ja.wikipedia.org/wiki/小島太郎 "wikilink")                                                         |
+|                                                        |                                                                                                               |
+
+<div class="NavFrame" style="clear:both; border:0;">
+
+<div class="NavHead" style="text-align:left;">
+
+サブスタッフ
+
+</div>
+
+<div class="NavContent" style="text-align:left;">
+
+|                  |                                                                                                                                                                                                                                                                                                                                         |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 監督助手             | [千葉英樹](https://ja.wikipedia.org/wiki/千葉英樹 "wikilink")、[神谷誠](../Page/神谷誠.md "wikilink")、[近藤孔明](https://ja.wikipedia.org/wiki/近藤孔明 "wikilink")、[秀平良忠](https://ja.wikipedia.org/wiki/秀平良忠 "wikilink")                                                                                                                                      |
+| 協力撮影             | [桜井景一](https://ja.wikipedia.org/wiki/桜井景一 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 撮影助手             | [佐々木雅史](https://ja.wikipedia.org/wiki/佐々木雅史 "wikilink")、[有田勝美](https://ja.wikipedia.org/wiki/有田勝美 "wikilink")、[真塩隆英](https://ja.wikipedia.org/wiki/真塩隆英 "wikilink")、[大川藤雄](https://ja.wikipedia.org/wiki/大川藤雄 "wikilink")、[仲田眞二](https://ja.wikipedia.org/wiki/仲田眞二 "wikilink")、[香取泰浩](https://ja.wikipedia.org/wiki/香取泰浩 "wikilink")   |
+| 照明助手             | [入口正平](https://ja.wikipedia.org/wiki/入口正平 "wikilink")、[瀬尾伸幸](https://ja.wikipedia.org/wiki/瀬尾伸幸 "wikilink")、[山本眞生](https://ja.wikipedia.org/wiki/山本眞生 "wikilink")、[佐熊槇一](https://ja.wikipedia.org/wiki/佐熊槇一 "wikilink")、[壱岐尾りつ子](https://ja.wikipedia.org/wiki/壱岐尾りつ子 "wikilink")、[川辺隆之](https://ja.wikipedia.org/wiki/川辺隆之 "wikilink") |
+| 照明機材             | [棚網恒夫](https://ja.wikipedia.org/wiki/棚網恒夫 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 繰演助手             | [鈴木豊](https://ja.wikipedia.org/wiki/鈴木豊_\(繰演技師\) "wikilink")、[白石雅彦](../Page/白石雅彦.md "wikilink")、[三池敏夫](https://ja.wikipedia.org/wiki/三池敏夫 "wikilink")、[三橋和夫](https://ja.wikipedia.org/wiki/三橋和夫 "wikilink")、[金子ゆう](https://ja.wikipedia.org/wiki/金子ゆう "wikilink")、[大神亮](https://ja.wikipedia.org/wiki/大神亮 "wikilink")                   |
+| 特殊効果助手           | [久米攻](https://ja.wikipedia.org/wiki/久米攻 "wikilink")、[岩田安司](https://ja.wikipedia.org/wiki/岩田安司 "wikilink")、[榎本浩士](https://ja.wikipedia.org/wiki/榎本浩士 "wikilink")、[宇田川幸夫](https://ja.wikipedia.org/wiki/宇田川幸夫 "wikilink")、[鉄谷大地](https://ja.wikipedia.org/wiki/鉄谷大地 "wikilink")                                                           |
+| 美術助手（チーフ）        | [高橋勲](https://ja.wikipedia.org/wiki/高橋勲_\(美術監督\) "wikilink")                                                                                                                                                                                                                                                                            |
+| 美術助手             | [寺井雄二](https://ja.wikipedia.org/wiki/寺井雄二 "wikilink")、[林谷和志](https://ja.wikipedia.org/wiki/林谷和志 "wikilink")、[春日佳行](https://ja.wikipedia.org/wiki/春日佳行 "wikilink")、[三池敏夫](https://ja.wikipedia.org/wiki/三池敏夫 "wikilink")                                                                                                                 |
+| 造形助手（ゴジラスーツ修理担当） | [村上修一](https://ja.wikipedia.org/wiki/村上修一 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 造形助手(ギニョールゴジラ製作） | [丸山真也](https://ja.wikipedia.org/wiki/丸山真也 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 造形助手（3分の1ゴジラ制作）  | [小川正](https://ja.wikipedia.org/wiki/小川正_\(彫刻家\) "wikilink")                                                                                                                                                                                                                                                                             |
+| 造形助手（モスラ担当）      | [村瀬直人](https://ja.wikipedia.org/wiki/村瀬直人 "wikilink")、[棟方利幸](https://ja.wikipedia.org/wiki/棟方利幸 "wikilink")、[小松秀則](https://ja.wikipedia.org/wiki/小松秀則 "wikilink")                                                                                                                                                                       |
+| 造形助手（バトラ担当）      | [江久保暢宏](https://ja.wikipedia.org/wiki/江久保暢宏 "wikilink")、[長峰圭介](https://ja.wikipedia.org/wiki/長峰圭介 "wikilink")、[高柳祐介](https://ja.wikipedia.org/wiki/高柳祐介 "wikilink")                                                                                                                                                                     |
+| 装置               | [野村安雄](https://ja.wikipedia.org/wiki/野村安雄 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 組付               | [小笠原禎](https://ja.wikipedia.org/wiki/小笠原禎 "wikilink")                                                                                                                                                                                                                                                                                   |
+| 背景               | [小島耕司](https://ja.wikipedia.org/wiki/小島耕司 "wikilink")、[長島章志](https://ja.wikipedia.org/wiki/長島章志 "wikilink")、[三輪智章](https://ja.wikipedia.org/wiki/三輪智章 "wikilink")                                                                                                                                                                       |
+| 大道具              | [鉄谷大地](https://ja.wikipedia.org/wiki/鉄谷大地 "wikilink")、[尾崎和人](https://ja.wikipedia.org/wiki/尾崎和人 "wikilink")                                                                                                                                                                                                                             |
+| スプリクター           | [黒河由美](https://ja.wikipedia.org/wiki/黒河由美 "wikilink")                                                                                                                                                                                                                                                                                   |
+| スチール             | [中尾孝](https://ja.wikipedia.org/wiki/中尾孝 "wikilink")                                                                                                                                                                                                                                                                                     |
+| 編集               | [児玉美納子](https://ja.wikipedia.org/wiki/児玉美納子 "wikilink")                                                                                                                                                                                                                                                                                 |
+| 製作係              | [柴田誠](https://ja.wikipedia.org/wiki/柴田誠 "wikilink")                                                                                                                                                                                                                                                                                     |
+| デザインワークス         | [吉田穣](https://ja.wikipedia.org/wiki/吉田穣 "wikilink")、[宮田秀実](https://ja.wikipedia.org/wiki/宮田秀実 "wikilink")、[杉田篤彦](https://ja.wikipedia.org/wiki/杉田篤彦 "wikilink")、[青井邦夫](https://ja.wikipedia.org/wiki/青井邦夫 "wikilink")、[西川伸司](../Page/西川伸司.md "wikilink")、[隅谷和夫](https://ja.wikipedia.org/wiki/隅谷和夫 "wikilink")                          |
+|                  |                                                                                                                                                                                                                                                                                                                                         |
+
+</div>
+
+</div>
+
+### 音楽
+
+|           |                                                       |
+| --------- | ----------------------------------------------------- |
+| 音楽監督      | **[伊福部昭](../Page/伊福部昭.md "wikilink")**                |
+| 音楽プロデューサー | [岩瀬政雄](https://ja.wikipedia.org/wiki/岩瀬政雄 "wikilink") |
+| 音楽ミキサー    | [大野映彦](https://ja.wikipedia.org/wiki/大野映彦 "wikilink") |
+|           |                                                       |
+
+### 殊視覚効果
+
+|               |                                                                                                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| プロデューサー       | [山辺崇](https://ja.wikipedia.org/wiki/山辺崇 "wikilink")                                                                                                                                                                   |
+| オプチカルスーパーバイザー | [小川利弘](https://ja.wikipedia.org/wiki/小川利弘 "wikilink")、[小野寺浩](https://ja.wikipedia.org/wiki/小野寺浩 "wikilink")、[松本肇](https://ja.wikipedia.org/wiki/松本肇 "wikilink")、[大屋哲男](https://ja.wikipedia.org/wiki/大屋哲男 "wikilink") |
+|               |                                                                                                                                                                                                                       |
+
+<div class="NavFrame" style="clear:both; border:0;">
+
+<div class="NavHead" style="text-align:left;">
+
+サブスタッフ
+
+</div>
+
+<div class="NavContent" style="text-align:left;">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>オプチカルエフェクト</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岸本義幸" title="wikilink">岸本義幸</a>、<a href="https://ja.wikipedia.org/wiki/佐藤高典" title="wikilink">佐藤高典</a>、<a href="../Page/佐藤元.md" title="wikilink">佐藤元</a></p></td>
+</tr>
+<tr class="even">
+<td><p>フォトエフェクト</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤下忠男" title="wikilink">藤下忠男</a>、<a href="https://ja.wikipedia.org/wiki/泉谷修" title="wikilink">泉谷修</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>エフェクトアニメーション</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橋本満明" title="wikilink">橋本満明</a>、<a href="https://ja.wikipedia.org/wiki/吉沢一久" title="wikilink">吉沢一久</a>、<a href="https://ja.wikipedia.org/wiki/西山明宏" title="wikilink">西山明宏</a>、<a href="https://ja.wikipedia.org/wiki/桜井文子" title="wikilink">桜井文子</a>、<a href="https://ja.wikipedia.org/wiki/渡辺義治" title="wikilink">渡辺義治</a>、<a href="../Page/田中貴志.md" title="wikilink">田中貴志</a>、<a href="https://ja.wikipedia.org/wiki/佐藤明" title="wikilink">佐藤明</a></p></td>
+</tr>
+<tr class="even">
+<td><p>マットペイントカメラ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三瓶一信" title="wikilink">三瓶一信</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>マットペインター</p></td>
+<td><p><a href="../Page/木村俊幸.md" title="wikilink">木村俊幸</a></p></td>
+</tr>
+<tr class="even">
+<td><p>モーションコントロール</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木下良仁" title="wikilink">木下良仁</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>CG</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大口孝之" title="wikilink">大口孝之</a>、<a href="https://ja.wikipedia.org/wiki/清野一道" title="wikilink">清野一道</a>、<a href="https://ja.wikipedia.org/wiki/鈴木敬" title="wikilink">鈴木敬</a>、<a href="https://ja.wikipedia.org/wiki/井内要" title="wikilink">井内要</a>、<a href="https://ja.wikipedia.org/wiki/内海邦男" title="wikilink">内海邦男</a>、<a href="https://ja.wikipedia.org/wiki/荒木史生" title="wikilink">荒木史生</a>、<a href="https://ja.wikipedia.org/wiki/檜皮勝久" title="wikilink">檜皮勝久</a>、<a href="https://ja.wikipedia.org/wiki/平岡一邦" title="wikilink">平岡一邦</a><br />
+<a href="https://ja.wikipedia.org/wiki/細田伸明" title="wikilink">細田伸明</a>、<a href="https://ja.wikipedia.org/wiki/大舘隆司" title="wikilink">大舘隆司</a>、<a href="https://ja.wikipedia.org/wiki/井上明美" title="wikilink">井上明美</a>、<a href="https://ja.wikipedia.org/wiki/庄司久美子" title="wikilink">庄司久美子</a>、<a href="https://ja.wikipedia.org/wiki/斉藤直宏" title="wikilink">斉藤直宏</a>、<a href="https://ja.wikipedia.org/wiki/船江世志保" title="wikilink">船江世志保</a>、<a href="../Page/伊藤佳子.md" title="wikilink">伊藤佳子</a>、<a href="https://ja.wikipedia.org/wiki/永井雄一" title="wikilink">永井雄一</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ハイビジョン技術</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木昭男" title="wikilink">鈴木昭男</a>、<a href="https://ja.wikipedia.org/wiki/原田睦弘" title="wikilink">原田睦弘</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ハイビジョン変換</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/尾又富雄" title="wikilink">尾又富雄</a>、<a href="https://ja.wikipedia.org/wiki/細井孝能" title="wikilink">細井孝能</a>、<a href="https://ja.wikipedia.org/wiki/滝沢隆也" title="wikilink">滝沢隆也</a>、<a href="https://ja.wikipedia.org/wiki/諏佐佳紀" title="wikilink">諏佐佳紀</a>、<a href="https://ja.wikipedia.org/wiki/石川智太郎" title="wikilink">石川智太郎</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ビデオエフェクト</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/萩原賢治" title="wikilink">萩原賢治</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>タイミング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森吉隆" title="wikilink">森吉隆</a></p></td>
+</tr>
+<tr class="even">
+<td><p>コーディネーター</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西山勝" title="wikilink">西山勝</a>、<a href="https://ja.wikipedia.org/wiki/麻生芳郎" title="wikilink">麻生芳郎</a>、<a href="https://ja.wikipedia.org/wiki/斉藤吉光" title="wikilink">斉藤吉光</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
+
+### 宣伝
+
+|           |                                                            |
+| --------- | ---------------------------------------------------------- |
+| 宣伝プロデューサー | [伊勢伸平](https://ja.wikipedia.org/wiki/伊勢伸平 "wikilink")      |
+| 宣伝係       | [大野浩](https://ja.wikipedia.org/wiki/大野浩_\(東宝\) "wikilink") |
+| 宣伝顧問      | [堀内實三](https://ja.wikipedia.org/wiki/堀内實三 "wikilink")      |
+| ポスターイラスト  | [生頼範義](../Page/生頼範義.md "wikilink")                         |
+|           |                                                            |
+
+### 制作会社
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>自衛隊指揮</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/防衛庁" title="wikilink">防衛庁</a>長官官房広報課<br />
+<a href="../Page/陸上自衛隊.md" title="wikilink">陸上自衛隊</a><a href="../Page/陸上幕僚監部.md" title="wikilink">陸上幕僚監部</a>、<a href="../Page/東部方面航空隊.md" title="wikilink">東部方面航空隊</a>、<a href="https://ja.wikipedia.org/wiki/富士学校" title="wikilink">富士学校</a>、<a href="../Page/富士教導団.md" title="wikilink">富士教導団</a>、<a href="https://ja.wikipedia.org/wiki/滝ヶ原駐屯地業務隊" title="wikilink">滝ヶ原駐屯地業務隊</a><br />
+<a href="../Page/海上自衛隊.md" title="wikilink">海上自衛隊</a><a href="../Page/海上幕僚監部.md" title="wikilink">海上幕僚監部</a><br />
+<a href="../Page/航空自衛隊.md" title="wikilink">航空自衛隊</a><a href="../Page/航空幕僚監部.md" title="wikilink">航空幕僚監部</a></p></td>
+</tr>
+<tr class="even">
+<td><p>協賛</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本衛星放送" title="wikilink">日本衛星放送</a>、<a href="https://ja.wikipedia.org/wiki/ナムコ" title="wikilink">ナムコ</a>、<a href="../Page/西友.md" title="wikilink">西友</a>、<a href="../Page/コニカ.md" title="wikilink">コニカ</a>、<a href="../Page/東芝.md" title="wikilink">東芝</a>、<a href="https://ja.wikipedia.org/wiki/大島運輸" title="wikilink">大島運輸</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>音楽制作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東宝ミュージック" title="wikilink">東宝ミュージック</a></p></td>
+</tr>
+<tr class="even">
+<td><p>サントラ盤</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>衣装制作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東宝コスチューム" title="wikilink">東宝コスチューム</a></p></td>
+</tr>
+<tr class="even">
+<td><p>現像</p></td>
+<td><p><a href="../Page/東京現像所.md" title="wikilink">東京現像所</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>技術協力</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森幹生" title="wikilink">森幹生</a><br />
+<a href="https://ja.wikipedia.org/wiki/コンチネンタルファーイースト" title="wikilink">コンチネンタルファーイースト</a></p></td>
+</tr>
+<tr class="even">
+<td><p>スタジオ</p></td>
+<td><p><a href="../Page/東宝スタジオ.md" title="wikilink">東宝スタジオ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>制作協力</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東宝映像美術" title="wikilink">東宝映像美術</a></p></td>
+</tr>
+<tr class="even">
+<td><p>製作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東宝映画_(企業)" title="wikilink">東宝映画</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>配給</p></td>
+<td><p><a href="../Page/東宝.md" title="wikilink">東宝</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<div class="NavFrame" style="clear:both; border:0;">
+
+<div class="NavHead" style="text-align:left;">
+
+その他
+
+</div>
+
+<div class="NavContent" style="text-align:left;">
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>資料協力</p></td>
+<td><p><a href="../Page/東海大学.md" title="wikilink">東海大学</a>情報技術センター</p></td>
+</tr>
+<tr class="even">
+<td><p>協力</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NTTドコモ" title="wikilink">NTTドコモ</a>、<a href="https://ja.wikipedia.org/wiki/奄美シーサイドホテル" title="wikilink">奄美シーサイドホテル</a>、<a href="../Page/飯坂温泉.md" title="wikilink">飯坂温泉</a> <a href="https://ja.wikipedia.org/wiki/吉川屋" title="wikilink">吉川屋</a>、<a href="../Page/シード.md" title="wikilink">シード</a> <a href="https://ja.wikipedia.org/wiki/五光" title="wikilink">五光</a><br />
+<a href="https://ja.wikipedia.org/wiki/スタジオR" title="wikilink">スタジオR</a> <a href="../Page/チェルシー.md" title="wikilink">チェルシー</a>、<a href="https://ja.wikipedia.org/wiki/東京ファントム" title="wikilink">東京ファントム</a> <a href="https://ja.wikipedia.org/wiki/テリィレーン" title="wikilink">テリィレーン</a><br />
+<a href="https://ja.wikipedia.org/wiki/ホテルアクシオン館山" title="wikilink">ホテルアクシオン館山</a> <a href="https://ja.wikipedia.org/wiki/東京プランネット" title="wikilink">東京プランネット</a>、<a href="https://ja.wikipedia.org/wiki/ポラックスヘレン" title="wikilink">ポラックスヘレン</a> <a href="https://ja.wikipedia.org/wiki/ナイキジャパン" title="wikilink">ナイキジャパン</a> <a href="https://ja.wikipedia.org/wiki/ニチメングラフィックス" title="wikilink">ニチメングラフィックス</a><br />
+<a href="https://ja.wikipedia.org/wiki/ホテルグリーンタワー幕張" title="wikilink">ホテルグリーンタワー幕張</a>、<a href="../Page/阪急交通社.md" title="wikilink">阪急交通社</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>収録協力</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナムコワンダーエッグ" title="wikilink">ナムコワンダーエッグ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>美術制作会社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マーブリングファインアーツ" title="wikilink">マーブリングファインアーツ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>特殊効果制作</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大平特殊効果" title="wikilink">大平特殊効果</a></p></td>
+</tr>
+<tr class="even">
+<td><p>デザイン制作会社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スタジオOX" title="wikilink">スタジオOX</a>、<a href="../Page/ユーメックス.md" title="wikilink">ユーメックス</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>モスラ造形製作所</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ツエニー" title="wikilink">ツエニー</a></p></td>
+</tr>
+<tr class="even">
+<td><p>バトラ造形製作所</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レプリカ_(製作会社)" title="wikilink">レプリカ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>メカ制作会社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オガワモデリング" title="wikilink">オガワモデリング</a></p></td>
+</tr>
+<tr class="even">
+<td><p>オープニングCG</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナムコ" title="wikilink">ナムコ</a>CG事業部</p></td>
+</tr>
+<tr class="odd">
+<td><p>CG制作会社</p></td>
+<td><p><a href="../Page/ソニーPCL.md" title="wikilink">ソニーPCL</a>、<a href="https://ja.wikipedia.org/wiki/島田プロダクション" title="wikilink">島田プロダクション</a>、<a href="../Page/日本エフェクトセンター.md" title="wikilink">日本エフェクトセンター</a>、<a href="../Page/マリンポスト.md" title="wikilink">マリンポスト</a>、<a href="https://ja.wikipedia.org/wiki/ライトハウス" title="wikilink">ライトハウス</a></p></td>
+</tr>
+<tr class="even">
+<td><p>録音スタジオ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東宝サウンドクリエイティブスタジオ" title="wikilink">東宝サウンドクリエイティブスタジオ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>音響効果</p></td>
+<td><p><a href="../Page/東洋音響.md" title="wikilink">東洋音響</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+</div>
 
 ## 劇中歌
 

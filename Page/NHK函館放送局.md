@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局)から翻訳されています。
 
 
 **NHK函館放送局**（エヌエイチケイはこだてほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[渡島管内と](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")[檜山管内を](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1放送で地域放送を行っている](../Page/NHKラジオ第1放送.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SkipSkipSkip](https://ja.wikipedia.org/wiki/SkipSkipSkip)から翻訳されています。
+> この記事は[ランチタイムブレイクSkip×Skip×Skip](https://ja.wikipedia.org/wiki/ランチタイムブレイクSkip×Skip×Skip)から翻訳されています。
 
 
 **ランチタイムブレイクSkip×Skip×Skip**（ランチタイムブレイク スキップ×スキップ×スキップ）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")が平日昼に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称：**スキップ**。音楽情報を中心とした番組構成となっているが、音楽情報以外のコーナーもある。
@@ -7,7 +7,7 @@
 
 また、もともと第1スタジオからの生放送だったが、現在では第2スタジオで生放送を行っている。
 
-編成上の都合（年末年始、その他）により番組が放送休止となることがあり、この場合は通常放送していない[JFN製作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")『[Switch\!](../Page/Switch!.md "wikilink")』（2005年9月までは『[CO-CO MIX](../Page/CO-CO_MIX.md "wikilink")』）がネットされる。
+編成上の都合（年末年始、その他）により番組が放送休止となることがあり、この場合は通常放送していない[JFN製作の](../Page/全国FM放送協議会.md "wikilink")『[Switch\!](../Page/Switch!.md "wikilink")』（2005年9月までは『[CO-CO MIX](../Page/CO-CO_MIX.md "wikilink")』）がネットされる。
 
 後番組はJFNCの「[ONCE](https://ja.wikipedia.org/wiki/ONCE "wikilink")」。4年ぶりに昼枠がJFNCの枠となる。金曜日に関しては、2011年12月から[ニコニコフライデー](https://ja.wikipedia.org/wiki/ニコニコフライデー "wikilink")が放送開始し、再び自社制作枠に戻った。
 

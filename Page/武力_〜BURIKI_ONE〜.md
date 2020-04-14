@@ -1,4 +1,4 @@
-> この記事は[ BURIKI ONE](https://ja.wikipedia.org/wiki/_BURIKI_ONE)から翻訳されています。
+> この記事は[武力 〜BURIKI ONE〜](https://ja.wikipedia.org/wiki/武力_〜BURIKI_ONE〜)から翻訳されています。
 
 
 『**武力 〜BURIKI ONE〜**』（ブリキ ワン）は、[1999年](../Page/1999年.md "wikilink")に[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した3D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。システム基板として[ハイパーネオジオ64](../Page/ハイパーネオジオ64.md "wikilink")を使用。正式名称は『**武力 〜BURIKI ONE〜 WORLD GRAPPLE TOURNAMENT '99 in TOKYO**』。

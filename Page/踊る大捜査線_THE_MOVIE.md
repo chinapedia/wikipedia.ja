@@ -1,4 +1,4 @@
-> この記事は[ THE MOVIE](https://ja.wikipedia.org/wiki/_THE_MOVIE)から翻訳されています。
+> この記事は[踊る大捜査線 THE MOVIE](https://ja.wikipedia.org/wiki/踊る大捜査線_THE_MOVIE)から翻訳されています。
 
 
 『**踊る大捜査線 THE MOVIE**』（おどるだいそうさせん ザ・ムービー）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[日本映画](../Page/日本映画.md "wikilink")(実写)。[フジテレビの連続テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』の劇場版。副題は、『**湾岸署史上最悪の3日間\!**』。

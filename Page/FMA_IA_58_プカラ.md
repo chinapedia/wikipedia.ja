@@ -1,4 +1,4 @@
-> この記事は[FMA IA 58 ](https://ja.wikipedia.org/wiki/FMA_IA_58_)から翻訳されています。
+> この記事は[FMA IA 58 プカラ](https://ja.wikipedia.org/wiki/FMA_IA_58_プカラ)から翻訳されています。
 
 
 **FMA IA-58 プカラ**（）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")のアルゼンチン軍用機製造工廠（[FMA](https://ja.wikipedia.org/wiki/:en:Fábrica_Militar_de_Aviones "wikilink")）が開発した[COIN機](../Page/COIN機.md "wikilink")である。対[ゲリラ](../Page/ゲリラ.md "wikilink")戦や[フォークランド紛争](../Page/フォークランド紛争.md "wikilink")で実戦を経験している。

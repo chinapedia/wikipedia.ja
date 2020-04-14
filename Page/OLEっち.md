@@ -1,4 +1,4 @@
-> この記事は[OLE](https://ja.wikipedia.org/wiki/OLE)から翻訳されています。
+> この記事は[OLEっち](https://ja.wikipedia.org/wiki/OLEっち)から翻訳されています。
 
 
 **OLEっち**（おれっち）は、[2003年](../Page/2003年.md "wikilink")4月から[2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")まで放送された首都圏の独立系FM局[bayfm](../Page/ベイエフエム.md "wikilink")（製作幹事局）と[NACK5で](../Page/エフエムナックファイブ.md "wikilink")、毎週金曜18:00～19:00に同時放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。DJは[ポカスカジャン](../Page/ポカスカジャン.md "wikilink")と[きゃんひとみ](../Page/きゃんひとみ.md "wikilink")。

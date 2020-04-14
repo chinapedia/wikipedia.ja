@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[グレイテスト・ヒッツII](https://ja.wikipedia.org/wiki/グレイテスト・ヒッツII)から翻訳されています。
 
 
 『**グレイテスト・ヒッツII**』()は、[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。アルバム『[ホット・スペース](../Page/ホット・スペース.md "wikilink")』から『[イニュエンドウ](../Page/イニュエンドウ.md "wikilink")』より選ばれた17曲を収録。

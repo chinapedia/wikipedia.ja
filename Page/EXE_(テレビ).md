@@ -1,4 +1,4 @@
-> この記事は[EXE \(\)](https://ja.wikipedia.org/wiki/EXE_\(\))から翻訳されています。
+> この記事は[EXE \(テレビ\)](https://ja.wikipedia.org/wiki/EXE_\(テレビ\))から翻訳されています。
 
 
 **EXE**（エグゼ）は、[日本ビクター](../Page/日本ビクター.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")（現・株式会社[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）製[テレビ受像機](../Page/テレビ受像機.md "wikilink")のブランド。日本ビクターの販売していた[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")、[プラズマテレビ](https://ja.wikipedia.org/wiki/プラズマテレビ "wikilink")、[リアプロジェクションテレビ](../Page/リアプロジェクションテレビ.md "wikilink")にEXEのブランド名を採用していた。

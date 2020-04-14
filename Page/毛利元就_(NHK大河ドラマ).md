@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[毛利元就 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/毛利元就_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**毛利元就**』（もうりもとなり）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [12月14日](../Page/12月14日.md "wikilink")に放送された第36作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
@@ -262,7 +262,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
     義隆とおさいの子。両親と別れ家臣に背負われて逃亡するが追手に捕捉され戦死。これを聞いた隆房は亀童丸を擁立予定だったため大いに動揺した。
   - [大内義長](../Page/大内義長.md "wikilink")（おおうち よしなが）
     （大友晴英→大内義長）
-    演：[三井智英](https://ja.wikipedia.org/wiki/遠山智宏 "wikilink")
+    演：[三井智宏](https://ja.wikipedia.org/wiki/河野智宏 "wikilink")
     [大友宗麟の弟](../Page/大友義鎮.md "wikilink")。当初の名は**晴英**（はるひで）
     陶晴賢に迎えられ大内家を継ぐ。厳島の戦いで晴賢を失い毛利に謀反人と看做され攻め込まれ、兄・宗麟にも見捨てられて自害。900年とも云われる永きに続いた大内家は滅んだ。
 
@@ -297,7 +297,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
   - [宮川房長](https://ja.wikipedia.org/wiki/宮川房長 "wikilink")（みやがわ ふさなが）
     演：[大島宇三郎](https://ja.wikipedia.org/wiki/大島宇三郎 "wikilink")
     大内家家臣、武断派。元就の奇襲で戦死。
-  - [伊香具房明](https://ja.wikipedia.org/wiki/伊香賀隆正 "wikilink")
+  - [伊香賀房明](https://ja.wikipedia.org/wiki/伊香賀隆正 "wikilink")
     演：[塾一久](https://ja.wikipedia.org/wiki/塾一久 "wikilink")
     陶家家臣
 

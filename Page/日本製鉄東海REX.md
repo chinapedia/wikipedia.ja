@@ -1,4 +1,4 @@
-> この記事は[REX](https://ja.wikipedia.org/wiki/REX)から翻訳されています。
+> この記事は[日本製鉄東海REX](https://ja.wikipedia.org/wiki/日本製鉄東海REX)から翻訳されています。
 
 
 **日本製鉄東海REX**（にっぽんせいてつとうかいレックス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[東海市](https://ja.wikipedia.org/wiki/東海市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の[広域複合企業チーム](../Page/広域複合企業チーム.md "wikilink")である。

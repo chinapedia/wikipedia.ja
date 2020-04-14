@@ -1,4 +1,4 @@
-> この記事は[JTC](https://ja.wikipedia.org/wiki/JTC)から翻訳されています。
+> この記事は[JTCウイン](https://ja.wikipedia.org/wiki/JTCウイン)から翻訳されています。
 
 
 **JTCウイン**（ジェイティシーウイン）は、[ニィス](https://ja.wikipedia.org/wiki/ニィス "wikilink")（NIS）が開発・販売する書体および[フォント](../Page/フォント.md "wikilink")製品。[三宅康文](https://ja.wikipedia.org/wiki/三宅康文 "wikilink")によるデザイン。

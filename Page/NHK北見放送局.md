@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK北見放送局](https://ja.wikipedia.org/wiki/NHK北見放送局)から翻訳されています。
 
 
 **NHK北見放送局**（エヌエイチケイきたみほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[オホーツク総合振興局](https://ja.wikipedia.org/wiki/オホーツク総合振興局 "wikilink")管内を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで地域放送を行っている。

@@ -1,4 +1,4 @@
-> この記事は[AJP](https://ja.wikipedia.org/wiki/AJP)から翻訳されています。
+> この記事は[A・J・P・テイラー](https://ja.wikipedia.org/wiki/A・J・P・テイラー)から翻訳されています。
 
 
 **アラン・ジョン・パーシヴァル・テイラー**（Alan John Percivale Taylor, [1906年](../Page/1906年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史家](../Page/歴史家.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")近現代史を専門とし、一般向けを含め数多くの著書を著した。

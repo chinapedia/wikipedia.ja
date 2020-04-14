@@ -321,6 +321,6 @@
 
   - [Channel a](http://avex.jp/channela/)
 
-[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:エイベックス・グループの歴史](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの歴史 "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink")
+[Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink") [Category:エイベックス・グループの歴史](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの歴史 "wikilink")
 
 1.  『UX新潟テレビ21 30年史』（2014年3月、新潟テレビ21発行）p104、105

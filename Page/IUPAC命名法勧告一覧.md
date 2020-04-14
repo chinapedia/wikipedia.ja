@@ -1,4 +1,4 @@
-> この記事は[IUPAC](https://ja.wikipedia.org/wiki/IUPAC)から翻訳されています。
+> この記事は[IUPAC命名法勧告一覧](https://ja.wikipedia.org/wiki/IUPAC命名法勧告一覧)から翻訳されています。
 
 
 **IUPAC命名法勧告一覧**（IUPACめいめいほうかんこくいちらん）は[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")を構成する[IUPAC](https://ja.wikipedia.org/wiki/IUPAC "wikilink")の公定書 *"IUPAC Nomenclature of Organic Chemistry Recommendations 1979"* と *"IUPAC Nomenclature of Organic Chemistry Recommendations 1993"* の構成を示す。

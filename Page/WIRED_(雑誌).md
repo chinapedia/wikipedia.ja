@@ -1,4 +1,4 @@
-> この記事は[WIRED \(\)](https://ja.wikipedia.org/wiki/WIRED_\(\))から翻訳されています。
+> この記事は[WIRED \(雑誌\)](https://ja.wikipedia.org/wiki/WIRED_\(雑誌\))から翻訳されています。
 
 
 **WIRED**（ワイアード）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で1993年に創刊された雑誌である。

@@ -1,4 +1,4 @@
-> この記事は[DOTCH!](https://ja.wikipedia.org/wiki/DOTCH!)から翻訳されています。
+> この記事は[どっちDOTCH!](https://ja.wikipedia.org/wiki/どっちDOTCH!)から翻訳されています。
 
 
 『**どっちDOTCH\!**』（どっちどっち）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。日本テレビ系列局では1986年2月2日から同年6月29日まで、毎週日曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。司会は[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が、アシスタントは[さつきりせ](../Page/さつきりせ.md "wikilink")が務めていた。

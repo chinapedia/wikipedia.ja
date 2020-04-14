@@ -1,4 +1,4 @@
-> この記事は[ABCDE](https://ja.wikipedia.org/wiki/ABCDE)から翻訳されています。
+> この記事は[ワイドABCDE〜す](https://ja.wikipedia.org/wiki/ワイドABCDE〜す)から翻訳されています。
 
 
 『**ワイドABCDE〜す**』（わいどエービーシーでーす）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")（[夏季高校野球期間中は休止](https://ja.wikipedia.org/wiki/夏の甲子園 "wikilink")、但し1999年10月1日までは18時台のニュースのみ放送）に放送された[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）\[1\]の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。

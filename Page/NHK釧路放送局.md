@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK釧路放送局](https://ja.wikipedia.org/wiki/NHK釧路放送局)から翻訳されています。
 
 
 **NHK釧路放送局**（エヌエイチケイくしろほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の釧根地域（[釧路総合振興局](https://ja.wikipedia.org/wiki/釧路総合振興局 "wikilink")管内と[根室振興局](https://ja.wikipedia.org/wiki/根室振興局 "wikilink")管内）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで地域放送を行っている。営業部は帯広放送局に統合されて廃止された。

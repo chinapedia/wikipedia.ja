@@ -1,4 +1,4 @@
-> この記事は[ -The prince of darkness-](https://ja.wikipedia.org/wiki/_-The_prince_of_darkness-)から翻訳されています。
+> この記事は[機動戦艦ナデシコ -The prince of darkness-](https://ja.wikipedia.org/wiki/機動戦艦ナデシコ_-The_prince_of_darkness-)から翻訳されています。
 
 
 『**機動戦艦ナデシコ -The prince of darkness-**』（きどうせんかんナデシコ ザ・プリンス・オブ・ダークネス）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月8日](../Page/8月8日.md "wikilink")に公開された[アニメーション](../Page/アニメーション.md "wikilink")[映画](../Page/映画.md "wikilink")である。略称は「**劇ナデ**」。

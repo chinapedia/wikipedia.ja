@@ -1,4 +1,4 @@
-> この記事は[M.C.](https://ja.wikipedia.org/wiki/M.C.)から翻訳されています。
+> この記事は[M.C.ハマー](https://ja.wikipedia.org/wiki/M.C.ハマー)から翻訳されています。
 
 
 [Vanilla_Ice_and_MC_Hammer.jpg](https://ja.wikipedia.org/wiki/File:Vanilla_Ice_and_MC_Hammer.jpg "fig:Vanilla_Ice_and_MC_Hammer.jpg")と。\]\] **MCハマー**（エムシー・ハマー、、後に、[1962年](../Page/1962年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")前後に一世を風靡した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[歌手](../Page/歌手.md "wikilink")、[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")である。

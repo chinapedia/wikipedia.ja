@@ -1,4 +1,4 @@
-> この記事は[HSAB](https://ja.wikipedia.org/wiki/HSAB)から翻訳されています。
+> この記事は[HSAB則](https://ja.wikipedia.org/wiki/HSAB則)から翻訳されています。
 
 
 **HSAB則**（エイチエスエービーそく）は、酸および塩基の相性を、硬いおよび軟らかいという表現を使って分類したものである。HSABは **H**ard and **S**oft **A**cids and **B**ases の略である。

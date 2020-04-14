@@ -1,4 +1,4 @@
-> この記事は[SAMBATV](https://ja.wikipedia.org/wiki/SAMBATV)から翻訳されています。
+> この記事は[SAMBA・TV](https://ja.wikipedia.org/wiki/SAMBA・TV)から翻訳されています。
 
 
 **SAMBA・TV**（サンバ・ティービー）は、[2000年](../Page/2000年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")〜[2001年](../Page/2001年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[20世紀](../Page/20世紀.md "wikilink")から[21世紀](../Page/21世紀.md "wikilink")をまたぐ大型特別番組として[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で全国放送された。1992～1993年の年越しに始まった「TBS 21世紀プロジェクト」の[フィナーレ](https://ja.wikipedia.org/wiki/フィナーレ "wikilink")を飾る。

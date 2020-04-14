@@ -1,7 +1,7 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSアニメ夜話](https://ja.wikipedia.org/wiki/BSアニメ夜話)から翻訳されています。
 
 
-『**BSアニメ夜話**』（**BSアニメやわ**）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[BS2にて放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。『**[BSマンガ夜話](../Page/BSマンガ夜話.md "wikilink")**』の[アニメ](../Page/アニメ.md "wikilink")版派生番組である。
+『**BSアニメ夜話**』（**BSアニメやわ**）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BS2にて放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。『**[BSマンガ夜話](../Page/BSマンガ夜話.md "wikilink")**』の[アニメ](../Page/アニメ.md "wikilink")版派生番組である。
 
 第8弾以降[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")\[1\]。
 

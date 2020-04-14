@@ -1,4 +1,4 @@
-> この記事は[s](https://ja.wikipedia.org/wiki/s)から翻訳されています。
+> この記事は[長いs](https://ja.wikipedia.org/wiki/長いs)から翻訳されています。
 
 
 <div class="unicode" style="float:right; clear:right; margin:0 0 0.2em 0.2em; padding:0.2em; font-size:350%; line-height:1.1em; background:#ddf; border:1px solid #aaf;">

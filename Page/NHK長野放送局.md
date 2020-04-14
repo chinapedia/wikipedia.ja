@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK長野放送局](https://ja.wikipedia.org/wiki/NHK長野放送局)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:NHK_Nagano.jpg "wikilink") **NHK長野放送局**（エヌエイチケイながのほうそうきょく）は、[長野県](../Page/長野県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -189,6 +189,8 @@
 
 ## アナウンサー・キャスター
 
+  - **\***は過去にも長野局勤務の経験があることを表す。
+
 <table>
 <thead>
 <tr class="header">
@@ -219,81 +221,91 @@
 <td><p>長野県出身</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/渡辺裕之_(アナウンサー).md" title="wikilink">渡辺裕之</a></p></td>
-<td><p><a href="../Page/NHKさいたま放送局.md" title="wikilink">さいたま</a></p></td>
+<td><p><a href="../Page/松村正代.md" title="wikilink">松村正代</a></p></td>
 <td><p>長野県のニュース<br />
 ゆる信ワイド!</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/宮崎大地.md" title="wikilink">宮崎大地</a></p></td>
-<td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
+<td><p><a href="../Page/渡辺裕之_(アナウンサー).md" title="wikilink">渡辺裕之</a></p></td>
+<td><p><a href="../Page/NHKさいたま放送局.md" title="wikilink">さいたま</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/西川典孝" title="wikilink">西川典孝</a></p></td>
-<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
-<td><p>イブニング信州（リポーター）<br />
-長野県のニュース</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山田康弘" title="wikilink">山田康弘</a>*</p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p>長野県出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/西川典孝" title="wikilink">西川典孝</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p>イブニング信州<br />
+（リポーター）<br />
+長野県のニュース</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/川口由梨香" title="wikilink">川口由梨香</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>長野県のニュース</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田村有葵子" title="wikilink">田村有葵子</a></p></td>
 <td></td>
-<td><p>イブニング信州（キャスター）</p></td>
+<td><p>イブニング信州<br />
+（キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/福島佑理" title="wikilink">福島佑理</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤永莉香" title="wikilink">加藤永莉香</a></p></td>
 <td></td>
-<td><p>イブニング信州（リポーター）</p></td>
+<td><p>イブニング信州<br />
+（リポーター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/星庵美咲" title="wikilink">星庵美咲</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松本結花" title="wikilink">松本結花</a></p></td>
 <td></td>
-<td><p>イブニング信州（リポーター）<br />
+<td><p>イブニング信州<br />
+（リポーター）<br />
 ゆる信ワイド!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/若竹明日香" title="wikilink">若竹明日香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/谷口聡一" title="wikilink">谷口聡一</a></p></td>
 <td></td>
 <td><p>イブニング信州</p></td>

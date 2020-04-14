@@ -1,4 +1,4 @@
-> この記事は[RPGXP](https://ja.wikipedia.org/wiki/RPGXP)から翻訳されています。
+> この記事は[RPGツクールXP](https://ja.wikipedia.org/wiki/RPGツクールXP)から翻訳されています。
 
 
 『**RPGツクールXP**』（アールピージーツクールエックスピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発売されているRPG制作ソフト。また2012年9月27日に『**RPGツクールXP VALUE\!＋**』が発売された。

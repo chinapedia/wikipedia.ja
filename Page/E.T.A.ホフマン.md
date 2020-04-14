@@ -1,4 +1,4 @@
-> この記事は[E.T.A.](https://ja.wikipedia.org/wiki/E.T.A.)から翻訳されています。
+> この記事は[E.T.A.ホフマン](https://ja.wikipedia.org/wiki/E.T.A.ホフマン)から翻訳されています。
 
 
 **エルンスト・テオドール・アマデウス・ホフマン**（Ernst Theodor Amadeus Hoffmann, [1776年](../Page/1776年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") － [1822年](../Page/1822年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[作家](../Page/作家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[音楽評論家](../Page/音楽評論家.md "wikilink")、[画家](../Page/画家.md "wikilink")、[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")。文学、音楽、絵画と多彩な分野で才能を発揮したが、現在では主に後期[ロマン派](https://ja.wikipedia.org/wiki/ロマン派 "wikilink")を代表する[幻想文学](../Page/幻想文学.md "wikilink")の奇才として知られている。本名は**エルンスト・テオドール・ヴィルヘルム・ホフマン**（Ernst Theodor Wilhelm Hoffmann）であったが、敬愛する[ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")にあやかってこの筆名を用いた（伯父と同じ名前を嫌ったとも言われる）。

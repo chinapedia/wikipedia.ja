@@ -1,4 +1,4 @@
-> この記事は[FN](https://ja.wikipedia.org/wiki/FN)から翻訳されています。
+> この記事は[FNハースタル](https://ja.wikipedia.org/wiki/FNハースタル)から翻訳されています。
 
 
 **FNハースタル** (FNエルスタル、) は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[銃器](https://ja.wikipedia.org/wiki/銃器 "wikilink")メーカー。かつては[国営](https://ja.wikipedia.org/wiki/国営 "wikilink")で、現在は国営のハースタルグループの子会社である。正式社名は**ファブリケ・ナショナル・デルスタル・ド・ゲール** () だった。

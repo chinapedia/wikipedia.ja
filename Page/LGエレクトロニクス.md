@@ -1,11 +1,11 @@
-> この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
+> この記事は[LGエレクトロニクス](https://ja.wikipedia.org/wiki/LGエレクトロニクス)から翻訳されています。
 
 
 **LGエレクトロニクス**（LG Electronics Incorporated）は、[韓国のソウル市に本社を置き](../Page/大韓民国.md "wikilink")、[LGグループ](../Page/LGグループ.md "wikilink")の中核をなす[総合家電](../Page/電機メーカー.md "wikilink")、[情報通信メーカー](https://ja.wikipedia.org/wiki/情報通信業 "wikilink")。韓国電機業界では[サムスン電子](../Page/サムスン電子.md "wikilink")に次ぐ大企業である。一部地域では**LG電子**（）と呼称される。
 
 ## 概要
 
-LGエレクトロニクスは[1958年](../Page/1958年.md "wikilink")、**金星社**として創業。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に**LG電子**に社名変更した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月には韓国や[中国](../Page/中華人民共和国.md "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")\[1\]以外の社名を、**LGエレクトロニクス**に変更した。世界各国に110拠点を展開している多国籍企業であり、国内32250人、国外93000人の従業員を抱えている。日本国内では[家電](https://ja.wikipedia.org/wiki/家電 "wikilink")製品や[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、[パソコンのパーツの供給で知られる](../Page/パーソナルコンピュータ.md "wikilink")。[2000年](../Page/2000年.md "wikilink")には[光ディスク](../Page/光ディスク.md "wikilink")ドライブ事業を[日立製作所](../Page/日立製作所.md "wikilink")と合併し、[日立LGデータストレージ](https://ja.wikipedia.org/wiki/日立LGデータストレージ "wikilink")を設立した。
+LGエレクトロニクスは[1958年](../Page/1958年.md "wikilink")、**株式会社金星社**（グムソンサ、주식회사 금성사、）として創業。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に**LG電子**に社名変更した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月には韓国や[中国](../Page/中華人民共和国.md "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")\[1\]以外の社名を、**LGエレクトロニクス**に変更した。世界各国に110拠点を展開している多国籍企業であり、国内32250人、国外93000人の従業員を抱えている。日本国内では[家電](https://ja.wikipedia.org/wiki/家電 "wikilink")製品や[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")、[パソコンのパーツの供給で知られる](../Page/パーソナルコンピュータ.md "wikilink")。[2000年](../Page/2000年.md "wikilink")には[光ディスク](../Page/光ディスク.md "wikilink")ドライブ事業を[日立製作所](../Page/日立製作所.md "wikilink")と合併し、[日立LGデータストレージ](https://ja.wikipedia.org/wiki/日立LGデータストレージ "wikilink")を設立した。
 
 ## 代表的な製品
 

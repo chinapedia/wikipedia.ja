@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.インクレディブル](https://ja.wikipedia.org/wiki/Mr.インクレディブル)から翻訳されています。
 
 
 『**Mr.インクレディブル**』（ミスター・インクレディブル、原題：*The Incredibles*）は、[ディズニー配給](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")、[ピクサー](https://ja.wikipedia.org/wiki/ピクサー "wikilink")製作のフル[CGによる](../Page/コンピュータグラフィックス.md "wikilink")[アニメーション映画](../Page/アニメーション映画.md "wikilink")。2004年度、[アカデミー長編アニメ映画賞](../Page/アカデミー長編アニメ映画賞.md "wikilink")、[アカデミー音響編集賞](../Page/アカデミー音響編集賞.md "wikilink")、[アニー賞](https://ja.wikipedia.org/wiki/アニー賞 "wikilink")全10部門、[第31回サターン賞](https://ja.wikipedia.org/wiki/第31回サターン賞 "wikilink")[アニメ映画賞など](https://ja.wikipedia.org/wiki/サターンアニメ映画賞 "wikilink")、多くのアニメ映画賞を受賞した。

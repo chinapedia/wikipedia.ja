@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[セリエA \(野球\)](https://ja.wikipedia.org/wiki/セリエA_\(野球\))から翻訳されています。
 
 
 **セリエA**（セリエ・アー, **Serie A**）は、[イタリア](../Page/イタリア.md "wikilink")の[野球](../Page/野球.md "wikilink")トップリーグの名称。*serie*は英語の*series*に当たる。

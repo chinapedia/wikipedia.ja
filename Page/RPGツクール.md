@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[RPGツクール](https://ja.wikipedia.org/wiki/RPGツクール)から翻訳されています。
 
 
 『**RPGツクール**』（アールピージー ツクール）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）から発売されている[RPG制作](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ソフトウェア.md "wikilink")。

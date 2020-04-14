@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK高知放送局](https://ja.wikipedia.org/wiki/NHK高知放送局)から翻訳されています。
 
 
 **NHK高知放送局**（エヌエイチケイこうちほうそうきょく）は、[高知県](../Page/高知県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -449,7 +449,7 @@
 
 ## 主な高知局制作番組
 
-  - [四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")（平日 11:30 - 12:00、ローカルパートは金曜日 11:40 - 12:00）
+  - [ひるどき四国](../Page/ひるどき四国.md "wikilink")（平日 11:45 - 12:00、ローカルパートは金曜日 11:45 - 12:00）
   - こうちいちばん（平日 18:10 - 19:00）
   - ニュース845こうち（平日 20:45 - 21:00）
 
@@ -474,7 +474,7 @@
 ### 総合テレビ
 
   - ニュースワイドこうち→モーニングワイドこうち
-  - ホット情報こうち→こちらこうちインフォメーション→くじらんど Now→こうち情報プラザ→こうち情報BOX
+  - ホット情報こうち→こちらこうちインフォメーション→くじらんど Now→1140こうち情報プラザ→こうち情報BOX→[四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")
   - [てれごじ。](../Page/てれごじ。.md "wikilink")→[てれごじ。KOCHI](../Page/てれごじ。KOCHI.md "wikilink")→[いきいきワイド とさ情報市](https://ja.wikipedia.org/wiki/いきいきワイド_とさ情報市 "wikilink")
   - 640こうち→630こうち→イブニングネットワークこうち→ニュースタイムこうち→よさこい1番星→6時ですとさ情報市
 
@@ -503,19 +503,20 @@
 高知県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中道洋司" title="wikilink">中道洋司</a></p></td>
-<td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
-<td><p>こうちいちばん</p></td>
+<td><p><a href="../Page/高橋篤史_(アナウンサー).md" title="wikilink">高橋篤史</a></p></td>
+<td><p>こうちいちばん<br />
+（キャスター）</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小野文明" title="wikilink">小野文明</a></p></td>
-<td><p><strong>初任地</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中道洋司" title="wikilink">中道洋司</a></p></td>
+<td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/瀬戸光" title="wikilink">瀬戸光</a></p></td>
+<td><p><strong>初任地</strong></p></td>
 <td><p>高知県のニュース</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/吉岡真央" title="wikilink">吉岡真央</a></p></td>
@@ -539,25 +540,33 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松村朋美" title="wikilink">松村朋美</a></p></td>
-<td><p>|</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/揚田葵衣" title="wikilink">揚田葵衣</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国_おひるのクローバー" title="wikilink">四国 おひるのクローバー</a></p></td>
+<td><p>こうちいちばん<br />
+ひるどき高知</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/露口奈々" title="wikilink">露口奈々</a></p></td>
+<td></td>
+<td><p>こうちいちばん<br />
+ひるどき高知<br />
+とさらじお</p></td>
+</tr>
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/澤井明子" title="wikilink">澤井明子</a></p></td>
 <td></td>
 <td><p>こうちいちばん</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

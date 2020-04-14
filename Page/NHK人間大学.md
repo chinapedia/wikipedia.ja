@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK人間大学](https://ja.wikipedia.org/wiki/NHK人間大学)から翻訳されています。
 
 
 **NHK人間大学**（えぬえいちけいにんげんだいがく）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[NHK教育で放送された](../Page/NHK教育テレビジョン.md "wikilink")[教養番組](../Page/教養番組.md "wikilink")である。各界の著名人が自ら最も得意とするテーマを取り上げ、3か月にわたって講義する生涯学習番組である。

@@ -61,6 +61,7 @@
   - [SUMMER TIME SPLASH](https://ja.wikipedia.org/wiki/SUMMER_TIME_SPLASH "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")、2013年9月度マンスリーナビゲーター）
   - [ミュージック☆ロード](https://ja.wikipedia.org/wiki/ミュージック☆ロード "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、2015年1月10日 - 2017年9月30日） - 司会
   - [Cygames THE MANZAI 2015 プレミアマスターズ](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列、2015年12月20日）‐ナレーション
+  - トムさんの正直ショッピング（[地上波デジタル放送](https://ja.wikipedia.org/wiki/地上波デジタル放送 "wikilink")（民放））
 
 ### テレビドラマ
 
@@ -84,9 +85,9 @@
 
 ### ラジオ
 
-  - [土曜ワイドラジオTOKYO 永六輔その新世界](../Page/土曜ワイドラジオTOKYO_永六輔その新世界.md "wikilink")・乙女探検隊が行く（TBSラジオ、2008年9月27日）
+  - [土曜ワイドラジオTOKYO 永六輔その新世界](../Page/土曜ワイドラジオTOKYO_永六輔その新世界.md "wikilink")・乙女探検隊が行く（[TBSラジオ](../Page/TBSラジオ.md "wikilink")、2008年9月27日）
   - 『KIRIN 一番搾り [ONE MORE PINT\!](https://ja.wikipedia.org/wiki/ONE_MORE_PINT! "wikilink")』（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")、2011年5月6日 -、毎週金曜日18:00 - 19:00） - メインパーソナリティ
-  - [OLERA](https://ja.wikipedia.org/wiki/OLERA "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、2014年9月 - 2015年3月）- 火曜日パーソナリティ
+  - [OLERA](https://ja.wikipedia.org/wiki/OLERA "wikilink")（TBSラジオ、2014年9月 - 2015年3月）- 火曜日パーソナリティ
   - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")（TBSラジオ、2019年6月20日・8月29日）-　週替わり・代理パートナー
 
 ### CM

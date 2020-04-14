@@ -1,4 +1,4 @@
-> この記事は[BSD](https://ja.wikipedia.org/wiki/BSD)から翻訳されています。
+> この記事は[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス)から翻訳されています。
 
 
 **BSD License**（ビーエスディー ライセンス）は、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")で使われている[ライセンス](../Page/ライセンス.md "wikilink")体系のひとつ。[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")によって策定され、[同大学のバークレー校内の研究グループ](../Page/カリフォルニア大学バークレー校.md "wikilink")、[Computer Systems Research Groupが開発したソフトウェア群である](../Page/Computer_Systems_Research_Group.md "wikilink")[BSD](../Page/BSD.md "wikilink")などで採用されている。

@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[萩原舞 \(AV女優\)](https://ja.wikipedia.org/wiki/萩原舞_\(AV女優\))から翻訳されています。
 
 
 **萩原 舞**（はぎわら まい、[1982年](../Page/1982年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヌードモデル](../Page/ヌードモデル.md "wikilink")・[AV女優](../Page/AV女優.md "wikilink")。 人気[お菓子系アイドル](../Page/お菓子系アイドル.md "wikilink")出身者として知られる。

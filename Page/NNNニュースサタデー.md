@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニュースサタデー](https://ja.wikipedia.org/wiki/NNNニュースサタデー)から翻訳されています。
 
 
 『**NNNニュースサタデー**』（エヌエヌエヌ ニュースサタデー）は、[1996年](../Page/1996年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）で放送されている土曜日朝の[ニュース番組である](../Page/報道番組.md "wikilink")。

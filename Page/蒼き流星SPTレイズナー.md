@@ -1,4 +1,4 @@
-> この記事は[SPT](https://ja.wikipedia.org/wiki/SPT)から翻訳されています。
+> この記事は[蒼き流星SPTレイズナー](https://ja.wikipedia.org/wiki/蒼き流星SPTレイズナー)から翻訳されています。
 
 
 『**蒼き流星SPTレイズナー**』（あおきりゅうせい エスピーティー レイズナー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[10月3日](../Page/10月3日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビほかで木曜](../Page/日本テレビ放送網.md "wikilink") 17:30 - 18:00に全38話が放送された、[日本サンライズ](https://ja.wikipedia.org/wiki/日本サンライズ "wikilink")製作の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")（[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")）である。

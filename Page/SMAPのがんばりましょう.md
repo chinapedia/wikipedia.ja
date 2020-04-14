@@ -1,4 +1,4 @@
-> この記事は[SMAP](https://ja.wikipedia.org/wiki/SMAP)から翻訳されています。
+> この記事は[SMAPのがんばりましょう](https://ja.wikipedia.org/wiki/SMAPのがんばりましょう)から翻訳されています。
 
 
 『**SMAPのがんばりましょう**』（スマップのがんばりましょう）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[フジテレビの深夜帯において](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月曜から](../Page/月曜日.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")まで放送された[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")司会の[10分枠番組](../Page/ミニ番組.md "wikilink")。

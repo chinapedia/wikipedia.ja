@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[マドレイン・M・レイニンガー](https://ja.wikipedia.org/wiki/マドレイン・M・レイニンガー)から翻訳されています。
 
 
 **マドレイン・M・レイニンガー**（**Madeleine M Leininger**, [1925年](../Page/1925年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[看護学](../Page/看護学.md "wikilink")者。

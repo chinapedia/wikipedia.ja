@@ -1,4 +1,4 @@
-> この記事は[A\&M](https://ja.wikipedia.org/wiki/A\&M)から翻訳されています。
+> この記事は[A\&Mレコード](https://ja.wikipedia.org/wiki/A\&Mレコード)から翻訳されています。
 
 
 **A\&Mレコード**（エー アンド エム レコード）は、米[ユニバーサル ミュージック グループ傘下の](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")。

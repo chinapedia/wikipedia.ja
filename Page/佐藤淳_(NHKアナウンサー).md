@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[佐藤淳 \(NHKアナウンサー\)](https://ja.wikipedia.org/wiki/佐藤淳_\(NHKアナウンサー\))から翻訳されています。
 
 
 **佐藤 淳**（さとう じゅん、[1959年](../Page/1959年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[NHKの元](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")で、現在は放送総局アナウンス室長。

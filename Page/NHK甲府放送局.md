@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK甲府放送局](https://ja.wikipedia.org/wiki/NHK甲府放送局)から翻訳されています。
 
 
 **NHK甲府放送局**（エヌエイチケイこうふほうそうきょく）は、[山梨県](../Page/山梨県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
@@ -62,7 +62,7 @@
   - 身延（[身延町](../Page/身延町.md "wikilink")）
   - [笛吹川フルーツ公園](../Page/山梨県笛吹川フルーツ公園.md "wikilink")（[山梨市](../Page/山梨市.md "wikilink")）
   - [上野原IC上野原市上野原](../Page/上野原インターチェンジ.md "wikilink")964番地　横河マニュファクチャリング㈱上野原事業所屋上（[上野原市](../Page/上野原市.md "wikilink")）
-  - 大月　大月市御太刀二丁目2番14号　東京電力パワーグリッド㈱大月支社ビル屋上（[大月市](../Page/大月市.md "wikilink")）
+  - 大月　大月市御太刀二丁目2番14号　[東京電力パワーグリッド](https://ja.wikipedia.org/wiki/東京電力パワーグリッド "wikilink")㈱大月支社ビル屋上（[大月市](../Page/大月市.md "wikilink")）
   - [富士山駅](../Page/富士山駅.md "wikilink")前　富士吉田市松山二丁目7番14号　オサダビル屋上（[富士吉田市](../Page/富士吉田市.md "wikilink")）
   - [新倉山浅間公園](https://ja.wikipedia.org/wiki/新倉山浅間公園 "wikilink")忠霊塔　富士吉田市新倉字宮林3360番1　（五重塔と富士山を一望できる場所）（[富士吉田市](../Page/富士吉田市.md "wikilink")）
   - [三つ峠](../Page/三つ峠.md "wikilink")　南都留郡富士河口湖町河口字御巣鷹山2733番1　FM送信所建物屋上（南都留郡[富士河口湖町](../Page/富士河口湖町.md "wikilink")）
@@ -196,66 +196,61 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/江藤泰彦" title="wikilink">江藤泰彦</a></p></td>
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
-<td><p>山梨県のニュース</p></td>
+<td><p>|山梨県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p>鳥山圭輔</p></td>
-<td><p><strong>初任地</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西岡遼" title="wikilink">西岡遼</a></p></td>
+<td><p>|<strong>初任地</strong></p></td>
 <td><p>かいラジ<br />
 山梨県のニュース</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>田中友栄</p></td>
 <td></td>
 <td><p>Newsかいドキ（キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>清水唯菜</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>林聖海</p></td>
 <td></td>
 <td><p>Newsかいドキ（リポーター）<br />
 おはよう山梨</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>平山裕子</p></td>
 <td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>八幡優</p></td>
 <td></td>
 <td><p>Newsかいドキ（スポーツ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>吉田遥</p></td>
 <td></td>
 <td><p>Newsかいドキ（リポーター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳田留美" title="wikilink">徳田留美</a></p></td>
 <td></td>
 <td><p>Newsかいドキ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>佐藤涼太</p></td>
 <td></td>
 <td></td>

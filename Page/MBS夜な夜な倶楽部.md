@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBS夜な夜な倶楽部](https://ja.wikipedia.org/wiki/MBS夜な夜な倶楽部)から翻訳されています。
 
 
 **MBS夜な夜な倶楽部**（エムビーエスよなよなくらぶ）は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で2004年4月から2005年4月1日まで放送された[深夜番組](../Page/深夜番組.md "wikilink")。放送時間は、火曜 - 金曜日1時00分から4時00分（月曜 - 木曜深夜）。生放送である。

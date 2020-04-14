@@ -1,4 +1,4 @@
-> この記事は[MARI \(\)](https://ja.wikipedia.org/wiki/MARI_\(\))から翻訳されています。
+> この記事は[MARI \(タレント\)](https://ja.wikipedia.org/wiki/MARI_\(タレント\))から翻訳されています。
 
 
 **MARI**（まり、[1982年](../Page/1982年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - ）は、[松竹芸能](../Page/松竹芸能.md "wikilink")所属の[タレント](../Page/タレント.md "wikilink")である。本名：**内田 真理**（うちだ まり、旧姓：伊澤）、旧芸名・**いざわまり**。[滋賀県](../Page/滋賀県.md "wikilink")[甲賀市](../Page/甲賀市.md "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長161cm。

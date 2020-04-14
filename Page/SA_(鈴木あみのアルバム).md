@@ -1,4 +1,4 @@
-> この記事は[SA \(\)](https://ja.wikipedia.org/wiki/SA_\(\))から翻訳されています。
+> この記事は[SA \(鈴木あみのアルバム\)](https://ja.wikipedia.org/wiki/SA_\(鈴木あみのアルバム\))から翻訳されています。
 
 
 『**SA**』（エス・エー）は、[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[TRUE KiSS DiSCよりリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")。同年[4月29日](../Page/4月29日.md "wikilink")には[MD版が発売されている](../Page/ミニディスク.md "wikilink")。
@@ -74,8 +74,8 @@ Performed by　**AMI SUZUKI**　Produced by　**TETSUYA KOMURO**　
 
 ## 外部リンク
 
-  - [ディスコグラフィー（名盤復刻）](http://www.sonymusic.co.jp/artist/AmiSuzuki/discography/MHCL-30156) - ソニー・ミュージック
-  - [ディスコグラフィー（オリジナル）](http://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1050) - ソニー・ミュージック
+  - [ディスコグラフィー（名盤復刻）](https://www.sonymusic.co.jp/artist/AmiSuzuki/discography/MHCL-30156) - ソニー・ミュージック
+  - [ディスコグラフィー（オリジナル）](https://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1050) - ソニー・ミュージック
 
 [Category:鈴木亜美のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木亜美のアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

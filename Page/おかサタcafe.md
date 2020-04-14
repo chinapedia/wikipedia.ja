@@ -1,4 +1,4 @@
-> この記事は[cafe](https://ja.wikipedia.org/wiki/cafe)から翻訳されています。
+> この記事は[おかサタcafe](https://ja.wikipedia.org/wiki/おかサタcafe)から翻訳されています。
 
 
 『**おかサタcafe**』（おかサタカフェ）は、[福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")で[土曜日](../Page/土曜日.md "wikilink")の夕方に放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。本項では、番組シリーズの始祖である『**おかえりサタデー**』および以降の番組群についても言及する。

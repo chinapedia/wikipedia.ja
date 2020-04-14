@@ -1,4 +1,4 @@
-> この記事は[TBS ](https://ja.wikipedia.org/wiki/TBS_)から翻訳されています。
+> この記事は[TBSラジオ エア・ナビゲーション](https://ja.wikipedia.org/wiki/TBSラジオ_エア・ナビゲーション)から翻訳されています。
 
 
 『**TBSラジオ エア･ナビゲーション**』は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")でスペシャルウィーク（[聴取率](../Page/聴取率.md "wikilink")調査週間）前の[日曜日](../Page/日曜日.md "wikilink")に放送されている[音楽番組](../Page/音楽番組.md "wikilink")。

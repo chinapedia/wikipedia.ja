@@ -1,4 +1,4 @@
-> この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
+> この記事は[SEED \(暗号\)](https://ja.wikipedia.org/wiki/SEED_\(暗号\))から翻訳されています。
 
 
 **SEED**（シード）とは、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に韓国情報保護振興院 (KISA) で開発されたブロック暗号である。

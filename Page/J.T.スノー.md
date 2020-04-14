@@ -1,4 +1,4 @@
-> この記事は[J.T.](https://ja.wikipedia.org/wiki/J.T.)から翻訳されています。
+> この記事は[J.T.スノー](https://ja.wikipedia.org/wiki/J.T.スノー)から翻訳されています。
 
 
 **ジャック・トーマス・スノー**（**Jack Thomas Snow**, [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月26日](../Page/2月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロングビーチ出身の元](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")選手（[一塁手](../Page/一塁手.md "wikilink")）。左投左打（までは両打\[1\]）。
@@ -520,6 +520,6 @@
 ## 外部リンク
 
   -
-[Category:アメリカ合衆国の野球選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の野球選手 "wikilink") [Category:ニューヨーク・ヤンキースの選手](https://ja.wikipedia.org/wiki/Category:ニューヨーク・ヤンキースの選手 "wikilink") [Category:カリフォルニア・エンゼルスの選手](https://ja.wikipedia.org/wiki/Category:カリフォルニア・エンゼルスの選手 "wikilink") [Category:サンフランシスコ・ジャイアンツの選手](https://ja.wikipedia.org/wiki/Category:サンフランシスコ・ジャイアンツの選手 "wikilink") [Category:ボストン・レッドソックスの選手](https://ja.wikipedia.org/wiki/Category:ボストン・レッドソックスの選手 "wikilink") [Category:ロングビーチ出身の人物](https://ja.wikipedia.org/wiki/Category:ロングビーチ出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国の野球選手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の野球選手 "wikilink") [Category:ニューヨーク・ヤンキースの選手](https://ja.wikipedia.org/wiki/Category:ニューヨーク・ヤンキースの選手 "wikilink") [Category:カリフォルニア・エンゼルスの選手](https://ja.wikipedia.org/wiki/Category:カリフォルニア・エンゼルスの選手 "wikilink") [Category:サンフランシスコ・ジャイアンツの選手](https://ja.wikipedia.org/wiki/Category:サンフランシスコ・ジャイアンツの選手 "wikilink") [Category:ボストン・レッドソックスの選手](https://ja.wikipedia.org/wiki/Category:ボストン・レッドソックスの選手 "wikilink") [Category:アリゾナ大学出身の野球選手](https://ja.wikipedia.org/wiki/Category:アリゾナ大学出身の野球選手 "wikilink") [Category:ロングビーチ出身の人物](https://ja.wikipedia.org/wiki/Category:ロングビーチ出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  「30球団マンスリー・リポート サンフランシスコ・ジャイアンツ 左打ち一本にして苦手左腕を克服 交流戦通算成績で打点王のスノー」『[月刊メジャー・リーグ](https://ja.wikipedia.org/wiki/月刊メジャー・リーグ "wikilink")』 2000年9月号 [ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink") 57頁

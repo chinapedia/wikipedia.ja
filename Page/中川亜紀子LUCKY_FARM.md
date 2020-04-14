@@ -1,4 +1,4 @@
-> この記事は[LUCKY FARM](https://ja.wikipedia.org/wiki/LUCKY_FARM)から翻訳されています。
+> この記事は[中川亜紀子LUCKY FARM](https://ja.wikipedia.org/wiki/中川亜紀子LUCKY_FARM)から翻訳されています。
 
 
 **中川亜紀子LUCKY FARM**（なかがわあきこラッキーファーム）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた[アニラジ](../Page/アニラジ.md "wikilink")である。通称は**ラッキーファーム**。

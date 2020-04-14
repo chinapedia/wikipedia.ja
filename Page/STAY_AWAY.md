@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作「[NEO UNIVERSE／finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」から半年振りとなるシングル。初回50万枚限定でメンバーの[フィギュア](../Page/フィギュア.md "wikilink")が付けられた。
+前作「[NEO UNIVERSE／finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」から半年振りとなるシングル。初回50万枚限定でメンバーの[フィギュア](../Page/フィギュア.md "wikilink")が付けられた。メンバーが全面的に企画に参加した、[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用[レーシングゲーム](../Page/レースゲーム.md "wikilink")『[激突トマラルク](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』と同時発売された。
 
 発売前の2000年4月17日には、表題曲「STAY AWAY」の各種携帯電話へ着信メロディサービスを開始した。[携帯電話](../Page/携帯電話.md "wikilink")の[着信メロディ](../Page/着信メロディ.md "wikilink")を自分で入力して作るのが一般的であった当時において、曲調のみを先行配信する形で、「STAY AWAY」の着信メロディの入力番号を記載したフライヤーを200,000枚限定で全国のCDショップなどで配った\[1\]。
 
@@ -30,17 +30,19 @@
     <!-- end list -->
       -
         [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ピエヌ](../Page/ピエヌ.md "wikilink")」[CMソングであり](../Page/コマーシャルソング.md "wikilink")、前作「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」の後を継いで起用された。
-        歌詞についてhydeは「英語の語呂合わせみたいな、茶化した感じが全体の軽快さにあってる\[3\]」と述べている。また、作曲したtetsuyaは「シングル向きというよりは、ボツになるだろうなと思ってた曲\[4\]」と述べている。曲間には[エフェクター](../Page/エフェクター.md "wikilink")「PSK Core Drive CDV-5」を用いた歪みの効いたベースソロが存在する\[5\]。
-        [ライブでは](../Page/演奏会.md "wikilink")、[演奏](../Page/演奏.md "wikilink")前の[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロや](../Page/ソロ_\(音楽\).md "wikilink")[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")でベースを弾き、客席に投げるといった演出が定番になっており、ライブで盛り上がる曲のひとつ。この曲で『[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")』に3年連続、通算3度目の出場を果たした。
+        歌詞についてhydeは「[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")って自由な国っていうけど、何だかんだ法律いっぱい作って裁判とかしまくってるでしょ？ 細かいことまで。だからなんにも出来ない状態。アメリカ大陸を人と考えて歌ってるようなものですね\[3\]」「英語の語呂合わせみたいな、茶化した感じが全体の軽快さにあってる\[4\]」と述べている。また、hyde曰く、tetsuyaから「結局自由自由と言いながら、それって型にハマってるだけじゃん。全然自由じゃない\[5\]」という話があったといい、このtetsuyaの曲のイメージを基に詞を手掛けている。
+        作曲したtetsuyaは「シングル向きというよりは、ボツになるだろうなと思ってた曲\[6\]」と述べている。曲間には[エフェクター](../Page/エフェクター.md "wikilink")「PSK Core Drive CDV-5」を用いた歪みの効いたベースソロが存在する\[7\]。
+        本作と同日に発売された[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用[レーシングゲーム](../Page/レースゲーム.md "wikilink")『[激突トマラルク](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』のBGMに本楽曲のゲームアレンジ版が使用されている。
+        [ライブでは](../Page/演奏会.md "wikilink")、[演奏](../Page/演奏.md "wikilink")前の[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロや](../Page/ソロ_\(音楽\).md "wikilink")、[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")でベースを弾き客席に投げるといった演出が定番になっており、ライブで盛り上がる曲のひとつ。この曲で『[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")』に3年連続、通算3度目の出場を果たした。
         また、ライブツアー「AWAKE TOUR 2005」では各パートを変更して演奏された。演奏形態としては"formation A"と"formation B"の2パターンで行われた。
-        "A"ではtetsuyaが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を、hydeが[コーラスの](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パート](https://ja.wikipedia.org/wiki/パート "wikilink")を担当した。更には2番目以降、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")がtetsuyaとボーカルパートを交代し、kenとtetsuyaがボーカルをとったこともある（その際hydeは一貫してコーラスにまわった）。さらに、途中で曲が[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の「[花葬 平成十七年](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に変わり、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がボーカル、hydeがドラムを担当することもあった。本バージョンの演奏の模様はライブビデオ『[AWAKE TOUR 2005](../Page/AWAKE_TOUR_2005.md "wikilink")』に収録され、音源はBD-BOX『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』に付属するライブ音源CDに収録されている。
-        "B"ではボーカルをyukihiro、ギターをhyde、ベースをken、ドラムをtetsuyaが担当する形態となっている。本バージョンの音源は現在まで未発表となっている。
+        "formation A"ではtetsuyaが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を、hydeが[コーラスの](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パート](https://ja.wikipedia.org/wiki/パート "wikilink")を担当した。更には2番目以降、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")がtetsuyaとボーカルパートを交代し、kenとtetsuyaがボーカルをとったこともある（その際hydeは一貫してコーラスにまわった）。さらに、途中で曲が[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の「[花葬 平成十七年](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に変わり、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がボーカル、hydeがドラムを担当することもあった。本バージョンの演奏の模様はライブビデオ『[AWAKE TOUR 2005](../Page/AWAKE_TOUR_2005.md "wikilink")』に収録され、音源はBD-BOX『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』に付属するライブ音源CDに収録されている。
+        "formation B"ではボーカルをyukihiro、ギターをhyde、ベースをken、ドラムをtetsuyaが担当する形態となっている。本バージョンの音源は現在まで未発表となっている。
 2.  **get out from the shell**
       - 作詞:hyde / 作曲:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        yukihiroがリスペクトしているバンド・[SOFT BALLETに関わってる](../Page/SOFT_BALLET.md "wikilink")[エンジニアが](../Page/レコーディング・エンジニア.md "wikilink")[ミックスに参加していることから](../Page/ミキシング.md "wikilink")「SOFT BALLETのパクリ」と語っている\[6\]。
-        8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には歌詞が全て英語の「asian version」が収録されているが、当初はこちらがシングルのカップリングとして収録される予定であった\[7\]。
+        yukihiroがリスペクトしているバンド・[SOFT BALLETに関わってる](../Page/SOFT_BALLET.md "wikilink")[エンジニアが](../Page/レコーディング・エンジニア.md "wikilink")[ミックスに参加していることから](../Page/ミキシング.md "wikilink")「SOFT BALLETのパクリ」と語っている\[8\]。
+        8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には歌詞が全て英語の「asian version」が収録されているが、当初はこちらがシングルのカップリングとして収録される予定であった\[9\]。
         また、[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[The Best of L'Arc〜en〜Ciel 1998-2000](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』には「asian version」が、『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[TWENITY 2000-2010](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』にはオリジナルバージョンが収録されている。
 3.  **STAY AWAY -Jaze Poo Mix-**
       - 作詞:hyde / 作曲:tetsu / [リミックス](../Page/リミックス.md "wikilink"):TT man
@@ -99,8 +101,10 @@
 
 1.  [L'Arc〜en〜Ciel Biography 2000](https://www.larc-en-ciel.com/biography/2000.php) - L'Arc〜en〜Ciel
 2.  TBS系音楽番組『[うたばん](../Page/うたばん.md "wikilink")』[2000年](../Page/2000年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")放送回より。
-3.  『WHAT's IN?』、p.36、2000年9月号
-4.
-5.  「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.46、リットーミュージック、2010年。
-6.  ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』[2001年](../Page/2001年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")放送回より。
-7.  『WHAT's IN?』、p.32、2000年9月号
+3.  『B-PASS』、シンコー・ミュージック、2000年8月号
+4.  『WHAT's IN?』、p.36、2000年9月号
+5.
+6.
+7.  「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.46、リットーミュージック、2010年。
+8.  ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』[2001年](../Page/2001年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")放送回より。
+9.  『WHAT's IN?』、p.32、2000年9月号

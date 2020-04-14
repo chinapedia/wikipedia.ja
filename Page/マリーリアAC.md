@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[マリーリアAC](https://ja.wikipedia.org/wiki/マリーリアAC)から翻訳されています。
 
 
 **マリーリアAC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[マリーリア](https://ja.wikipedia.org/wiki/マリーリア "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1942年](../Page/1942年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")設立。

@@ -1,4 +1,4 @@
-> この記事は[A-Z](https://ja.wikipedia.org/wiki/A-Z)から翻訳されています。
+> この記事は[A-Zスーパーセンター](https://ja.wikipedia.org/wiki/A-Zスーパーセンター)から翻訳されています。
 
 
 **A-Zスーパーセンター**（エーゼットスーパーセンター、[英称](../Page/英語.md "wikilink")：*A-Z SUPERCENTER*）は、株式会社マキオが[鹿児島県](../Page/鹿児島県.md "wikilink")で店舗展開する[スーパーセンター](../Page/スーパーセンター.md "wikilink")業態店舗。1号店は、1997年3月に[阿久根市](../Page/阿久根市.md "wikilink")にオープンした。1997年に日本で2番目の大型24時間営業店となった\[1\] 。

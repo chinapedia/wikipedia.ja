@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ポール・W・キャラウェイ](https://ja.wikipedia.org/wiki/ポール・W・キャラウェイ)から翻訳されています。
 
 
 **ポール・ワイアット・キャラウェイ**（Paul Wyatt Caraway、[1905年](../Page/1905年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")で、最終階級は陸軍[中将](../Page/中将.md "wikilink")であった。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")から[1964年](../Page/1964年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")まで第3代[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。

@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[USコロミエ](https://ja.wikipedia.org/wiki/USコロミエ)から翻訳されています。
 
 
 **USコロミエ**（Union Sportive Colomiers Rugby）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")南西部の[コロミエ](https://ja.wikipedia.org/wiki/コロミエ "wikilink")を拠点とする、[1963年](../Page/1963年.md "wikilink")創立の[ラグビー](../Page/ラグビー.md "wikilink")のプロクラブである。
@@ -14,7 +14,8 @@
   - [オタル・トゥラシビリ](https://ja.wikipedia.org/wiki/オタル・トゥラシビリ "wikilink") - フッカー、[ルーマニア代表](../Page/ラグビールーマニア代表.md "wikilink")
   - [ジョニー・ファアマトゥアイヌ](https://ja.wikipedia.org/wiki/ジョニー・ファアマトゥアイヌ "wikilink") - フランカー、[サモア代表](../Page/ラグビーサモア代表.md "wikilink")
   - [シオネ・ティマニ](https://ja.wikipedia.org/wiki/シオネ・ティマニ "wikilink") - フランカー、[トンガ代表](../Page/ラグビートンガ代表.md "wikilink")
-  - [ミハイ・マコベイ](https://ja.wikipedia.org/wiki/ミハイ・マコベイ "wikilink") - ナンバーエイト、ルーマニア代表
+  - [ミハイ・マコベイ](../Page/ミハイ・マコベイ.md "wikilink") - ナンバーエイト、ルーマニア代表
+  - [ヨハン・ディーゼル](../Page/ヨハン・ディーゼル.md "wikilink") - センター、[ナミビア代表](../Page/ラグビーナミビア代表.md "wikilink")
 
 ## 外部リンク
 

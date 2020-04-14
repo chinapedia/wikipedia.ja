@@ -1,4 +1,4 @@
-> この記事は[ JUDGMENT](https://ja.wikipedia.org/wiki/_JUDGMENT)から翻訳されています。
+> この記事は[真・女神転生ピンボール JUDGMENT](https://ja.wikipedia.org/wiki/真・女神転生ピンボール_JUDGMENT)から翻訳されています。
 
 
 『**真・女神転生ピンボール JUDGMENT**』(しん・めがみてんせいピンボール ジャッジメント）は携帯電話用のゲーム。

@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ドナルド・P・ブース](https://ja.wikipedia.org/wiki/ドナルド・P・ブース)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HICOM_Booth_receiving_the_Order_of_the_Rising_Sun,_Gold_and_Silver_Star.JPG "wikilink") **ドナルド・プレンティス・ブース**（Donald Prentice Booth、[1902年](../Page/1902年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")で、最終階級は陸軍[中将](../Page/中将.md "wikilink")であった。[1958年](../Page/1958年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。
@@ -50,8 +50,10 @@
 ## 外部リンク
 
   - [沖縄県公文書館](http://www.archives.pref.okinawa.jp/)
+
   - [琉球文化アーカイブ USCAR収録写真集 ドナルド・P・ブース中将](http://rca.open.ed.jp/ok/uscar/p-2.html)
-  - [守礼の光 - 米国琉球列島高等弁務官府機関誌](http://www.geocities.co.jp/SilkRoad-Forest/1429/colo/ryukyu.html)
+
+  -
   - [Arlington National Cemetery Website](http://www.arlingtoncemetery.net/dpbooth.htm)
 
 ` `

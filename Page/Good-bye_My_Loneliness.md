@@ -25,10 +25,7 @@
         </div>
 
         「Message for ZARD 25th Anniversary」にて[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が[コーラスで参加したことを明かしている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、制作時に[コンセプトとなった楽曲が](../Page/概念.md "wikilink")[坂本九](../Page/坂本九.md "wikilink")の「[涙くんさよなら](https://ja.wikipedia.org/wiki/涙くんさよなら "wikilink")」だと後に明かされている。この楽曲の[オリジナル・カラオケは](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")[カセット規格でしか音源化されていなかったが](../Page/カセットテープ.md "wikilink")、坂井逝去後の[2017年](../Page/2017年.md "wikilink")7月12日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第11号 Good-bye My Loneliness』にて初めて[CD規格で音源化された](../Page/コンパクトディスク.md "wikilink")。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は当時映画監督デビュー前だった[岩井俊二](../Page/岩井俊二.md "wikilink")が担当した。1997年発売の「[ZARD BLEND〜SUN & STONE〜](../Page/ZARD_BLEND〜SUN_&_STONE〜.md "wikilink")」では再レコーディングされている。
-
-<!-- end list -->
-
-1.  **愛は暗闇の中で** \[4:43\]
+2.  **愛は暗闇の中で** \[4:43\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">

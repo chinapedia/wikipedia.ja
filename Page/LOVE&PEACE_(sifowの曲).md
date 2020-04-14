@@ -1,4 +1,4 @@
-> この記事は[LOVE\&PEACE \(sifow\)](https://ja.wikipedia.org/wiki/LOVE\&PEACE_\(sifow\))から翻訳されています。
+> この記事は[LOVE\&PEACE \(sifowの曲\)](https://ja.wikipedia.org/wiki/LOVE\&PEACE_\(sifowの曲\))から翻訳されています。
 
 
 **LOVE\&PEACE**(ラブ・アンド・ピース)は、[sifowの](https://ja.wikipedia.org/wiki/藤田志穂 "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")[CD](../Page/コンパクトディスク.md "wikilink")。

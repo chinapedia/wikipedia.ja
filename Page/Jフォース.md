@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jフォース](https://ja.wikipedia.org/wiki/Jフォース)から翻訳されています。
 
 
 **Jフォース**（じぇいふぉーす）は、かつて存在した日本のゲームソフトメーカー。社長は[秋篠雅弘](../Page/秋篠雅弘.md "wikilink")。

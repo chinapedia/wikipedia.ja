@@ -1,4 +1,4 @@
-> この記事は[Globe \(\)](https://ja.wikipedia.org/wiki/Globe_\(\))から翻訳されています。
+> この記事は[Globe \(アルバム\)](https://ja.wikipedia.org/wiki/Globe_\(アルバム\))から翻訳されています。
 
 
 {{Infobox Album | Name = globe | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [globe](https://ja.wikipedia.org/wiki/globe "wikilink") | Released = [1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[LOCK UP \(\)](https://ja.wikipedia.org/wiki/LOCK_UP_\(\))から翻訳されています。
+> この記事は[LOCK UP \(新日本プロレス\)](https://ja.wikipedia.org/wiki/LOCK_UP_\(新日本プロレス\))から翻訳されています。
 
 
 **LOCK UP**（ロック・アップ）は、[リキプロ](../Page/リキプロ.md "wikilink")主催の[プロレス](../Page/プロレス.md "wikilink")[興行](../Page/興行.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名。コンセプトは「組合い（LOCK UP）から始まって」、「鍛え上げた体と体をぶつけ合い」、「体力の限界まで戦い続ける魂のリング」。

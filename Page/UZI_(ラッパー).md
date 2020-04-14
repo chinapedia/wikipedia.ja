@@ -1,4 +1,4 @@
-> この記事は[UZI \(\)](https://ja.wikipedia.org/wiki/UZI_\(\))から翻訳されています。
+> この記事は[UZI \(ラッパー\)](https://ja.wikipedia.org/wiki/UZI_\(ラッパー\))から翻訳されています。
 
 
 **UZI**（ウヂ、本名：**許斐 氏大**（このみ うじひろ）、[1974年](../Page/1974年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")\[1\]\[2\] - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。語尾を力を込めて発音するフロウで男らしさをアピールする特徴を持ち、歌詞のテーマは、歴史やセルフ・ボースティング、漫画やパチンコなどが多い。

@@ -1,4 +1,4 @@
-> この記事は[S.C.A.](https://ja.wikipedia.org/wiki/S.C.A.)から翻訳されています。
+> この記事は[ユーロ・ディズニーS.C.A.](https://ja.wikipedia.org/wiki/ユーロ・ディズニーS.C.A.)から翻訳されています。
 
 
 **ユーロ・ディズニーS.C.A.**（Euro Disney S.C.A.）とは、[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")（[ディズニー・パークス・エクスペリエンス・プロダクツ](https://ja.wikipedia.org/wiki/ディズニー・パークス・エクスペリエンス・プロダクツ "wikilink")）の子会社で、[ディズニーパーク](../Page/ディズニーパーク.md "wikilink")の[ディズニーランド・パリ](../Page/ディズニーランド・パリ.md "wikilink")を運営している。

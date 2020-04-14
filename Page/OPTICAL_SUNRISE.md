@@ -1,7 +1,7 @@
 > この記事は[OPTICAL SUNRISE](https://ja.wikipedia.org/wiki/OPTICAL_SUNRISE)から翻訳されています。
 
 
-『**スペクトラム2 OPTICAL SUNRISE**』（スペクトラムツー オプティカル・サンライズ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**スペクトラム2 OPTICAL SUNRISE**』（スペクトラムツー オプティカル・サンライズ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

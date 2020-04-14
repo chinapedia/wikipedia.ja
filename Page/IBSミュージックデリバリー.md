@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBSミュージックデリバリー](https://ja.wikipedia.org/wiki/IBSミュージックデリバリー)から翻訳されています。
 
 
 **IBSミュージックデリバリー**は、[1996年](../Page/1996年.md "wikilink")10月～[1999年](../Page/1999年.md "wikilink")3月まで、[茨城放送](../Page/茨城放送.md "wikilink")の[ナイターオフ](https://ja.wikipedia.org/wiki/ナイターオフ "wikilink")時に放送された[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")の[ワイド番組](../Page/ワイド番組.md "wikilink")である。

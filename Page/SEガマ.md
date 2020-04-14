@@ -1,4 +1,4 @@
-> この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
+> この記事は[SEガマ](https://ja.wikipedia.org/wiki/SEガマ)から翻訳されています。
 
 
 **SEガマ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")[ガマを本拠地とする](https://ja.wikipedia.org/wiki/ガマ_\(ブラジリア連邦直轄区\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1975年](../Page/1975年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")設立。

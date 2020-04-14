@@ -1,7 +1,7 @@
 > この記事は[TIME BREAK](https://ja.wikipedia.org/wiki/TIME_BREAK)から翻訳されています。
 
 
-『**スペクトラム3 TIME BREAK**』（スペクトラムスリー タイム・ブレイク）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**スペクトラム3 TIME BREAK**』（スペクトラムスリー タイム・ブレイク）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

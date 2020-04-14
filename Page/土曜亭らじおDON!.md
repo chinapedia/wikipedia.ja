@@ -1,4 +1,4 @@
-> この記事は[DON!](https://ja.wikipedia.org/wiki/DON!)から翻訳されています。
+> この記事は[土曜亭らじおDON!](https://ja.wikipedia.org/wiki/土曜亭らじおDON!)から翻訳されています。
 
 
 **土曜亭らじおDON\!**(どようてい - どん)は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）で、[日本標準時](../Page/日本標準時.md "wikilink")毎週土曜日に[生放送](../Page/生放送.md "wikilink")されていたラジオ番組。2006年4月8日放送開始。2012年9月22日で放送終了。

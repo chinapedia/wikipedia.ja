@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ 悟空激闘伝](https://ja.wikipedia.org/wiki/ドラゴンボールZ_悟空激闘伝)から翻訳されています。
 
 
 **ドラゴンボールZ 悟空激闘伝**（ドラゴンボールゼット ごくうげきとうでん）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用アクティブビジュアル[RPGである](../Page/コンピュータRPG.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のゲームボーイ作品第2弾。

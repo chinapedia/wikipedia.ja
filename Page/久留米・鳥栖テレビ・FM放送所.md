@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[久留米・鳥栖テレビ・FM放送所](https://ja.wikipedia.org/wiki/久留米・鳥栖テレビ・FM放送所)から翻訳されています。
 
 
 **久留米・鳥栖テレビ・FM放送所**（くるめ・とすテレビ・エフエムほうそうじょ）は、[福岡県](../Page/福岡県.md "wikilink")[那珂川市](../Page/那珂川市.md "wikilink")と[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")にまたがる[九千部山](../Page/九千部山.md "wikilink")に存在するテレビ、ラジオ放送などの送信所である。

@@ -1,4 +1,4 @@
-> この記事は[Tvk NEWS](https://ja.wikipedia.org/wiki/Tvk_NEWS)から翻訳されています。
+> この記事は[Tvk NEWSハーバー](https://ja.wikipedia.org/wiki/Tvk_NEWSハーバー)から翻訳されています。
 
 
 『**tvk NEWSハーバー**』（ティーヴィーケイ ニュースハーバー）は、2006年7月10日より[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で放送されている[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
@@ -63,7 +63,7 @@
 | 2011.04.01 | 2013.03.29                                |
 | 2013.04.05 | 現在                                        |
 
-  - 2015年度までの祝日は18:00 - 18:10に通常の『tvkニュース』を放送していたが、2019年現在は祝日でも放送されている。
+  - 2015年度までの祝日の放送は18:00 - 18:10に通常の『tvkニュース』が編成されたが、2016年度以降は祝日についても本番組が編成されている。
 
 ## タイムテーブル
 
@@ -132,7 +132,7 @@
 
   - [tvk NEWSハーバー](http://www3.tvk-yokohama.com/news-harbor/)
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink")
+[Category:テレビ神奈川の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink")
 
 1.
 2.

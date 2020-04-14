@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ジョインヴィレEC](https://ja.wikipedia.org/wiki/ジョインヴィレEC)から翻訳されています。
 
 
 **ジョインヴィレEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")[ジョインヴィレ](https://ja.wikipedia.org/wiki/ジョインヴィレ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1976年](../Page/1976年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")設立。

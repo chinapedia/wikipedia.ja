@@ -1,4 +1,4 @@
-> この記事は[SEIKO !!](https://ja.wikipedia.org/wiki/SEIKO_!!)から翻訳されています。
+> この記事は[SEIKOグルメワールド 世界食べちゃうぞ!!](https://ja.wikipedia.org/wiki/SEIKOグルメワールド_世界食べちゃうぞ!!)から翻訳されています。
 
 
 『**SEIKOグルメワールド 世界食べちゃうぞ\!\!**』（セイコーグルメワールド せかいたべちゃうぞ）は、[1984年](../Page/1984年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月13日](../Page/6月13日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[グルメ番組](https://ja.wikipedia.org/wiki/グルメ番組 "wikilink")である。服部セイコー（現・[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供。放送時間は毎週土曜 22:00 - 22:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

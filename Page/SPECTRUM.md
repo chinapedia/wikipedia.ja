@@ -1,7 +1,7 @@
 > この記事は[SPECTRUM](https://ja.wikipedia.org/wiki/SPECTRUM)から翻訳されています。
 
 
-『**SPECTRUM**』（スペクトラム）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**SPECTRUM**』（スペクトラム）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

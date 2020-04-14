@@ -1,7 +1,7 @@
-> この記事は[ BEST \'81](https://ja.wikipedia.org/wiki/_BEST_\'81)から翻訳されています。
+> この記事は[スペクトラム BEST \'81](https://ja.wikipedia.org/wiki/スペクトラム_BEST_\'81)から翻訳されています。
 
 
-『**スペクトラム BEST '81**』（スペクトラム ベスト エイティワン）は、[1981年](../Page/1981年.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**スペクトラム BEST '81**』（スペクトラム ベスト エイティワン）は、[1981年](../Page/1981年.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、『[スペクトラム伝説](../Page/スペクトラム伝説.md "wikilink")』に改題され、再発された。
 

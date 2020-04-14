@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[フェルディナンド・T・アンガー](https://ja.wikipedia.org/wiki/フェルディナンド・T・アンガー)から翻訳されています。
 
 
 **フェルディナンド・トーマス・アンガー**（**Ferdinand Thomas Unger**、[1913年](../Page/1913年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。[1966年](../Page/1966年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")市出身。
@@ -28,8 +28,10 @@
 ## 外部リンク
 
   - [沖縄県公文書館](http://www.archives.pref.okinawa.jp/)
-  - [守礼の光－米国琉球列島高等弁務官府機関誌](http://www.geocities.co.jp/SilkRoad-Forest/1429/colo/ryukyu.html)
+
+  -
   - [Pittsburgh Post-Gazette obituaries- Jul 8, 1999](http://news.google.com/newspapers?nid=1129&dat=19990708&id=XewNAAAAIBAJ&sjid=FnADAAAAIBAJ&pg=5144,3961268)
+
       - 右の写真（フェルディナンド本人）の下部より、彼に関する記事が掲載されてある。（英語）
 
 ` `

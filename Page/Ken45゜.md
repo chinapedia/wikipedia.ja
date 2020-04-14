@@ -1,4 +1,4 @@
-> この記事は[Ken45](https://ja.wikipedia.org/wiki/Ken45)から翻訳されています。
+> この記事は[Ken45゜](https://ja.wikipedia.org/wiki/Ken45゜)から翻訳されています。
 
 
 **KEN45゜**（ケン・フォーティーファイブ、[1982年](../Page/1982年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**坂井 謙一**（さかい けんいち）。

@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[フランク・F・フレッチャー](https://ja.wikipedia.org/wiki/フランク・F・フレッチャー)から翻訳されています。
 
 
 **フランク・フライデー・フレッチャー**（**Frank Friday Fletcher**, [1855年](../Page/1855年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink") - [1928年](../Page/1928年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")）は、19世紀後半から20世紀前半にかけての[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[提督](https://ja.wikipedia.org/wiki/提督 "wikilink")、[フランク・J・フレッチャー](../Page/フランク・J・フレッチャー.md "wikilink")のおじにあたる。

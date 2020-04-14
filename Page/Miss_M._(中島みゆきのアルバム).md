@@ -1,4 +1,4 @@
-> この記事は[Miss M. \(\)](https://ja.wikipedia.org/wiki/Miss_M._\(\))から翻訳されています。
+> この記事は[Miss M. \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Miss_M._\(中島みゆきのアルバム\))から翻訳されています。
 
 
 『**miss M.**』（ミス・エム）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の13作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

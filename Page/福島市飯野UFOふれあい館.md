@@ -1,4 +1,4 @@
-> この記事は[UFO](https://ja.wikipedia.org/wiki/UFO)から翻訳されています。
+> この記事は[福島市飯野UFOふれあい館](https://ja.wikipedia.org/wiki/福島市飯野UFOふれあい館)から翻訳されています。
 
 
 **福島市飯野UFOふれあい館**（ふくしましいいのユーフォーふれあいかん）は、[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")[飯野町青木](https://ja.wikipedia.org/wiki/飯野町青木 "wikilink")にある[UFOの里](https://ja.wikipedia.org/wiki/UFOの里 "wikilink")内にある施設のひとつで[UFO関係の](../Page/未確認飛行物体.md "wikilink")[書籍](../Page/本.md "wikilink")、[資料](../Page/資料.md "wikilink")などを集めた、全国的にも珍しい展示館兼多目的公共施設である。

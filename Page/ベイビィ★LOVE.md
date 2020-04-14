@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[ベイビィ★LOVE](https://ja.wikipedia.org/wiki/ベイビィ★LOVE)から翻訳されています。
 
 
 『**ベイビィ★LOVE**』（ベイビィ・ラブ）は、[少女漫画](../Page/少女漫画.md "wikilink")作品。作者は[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")。

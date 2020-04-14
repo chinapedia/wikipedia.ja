@@ -1,4 +1,4 @@
-> この記事は[OH SHINY DAYS \(\)](https://ja.wikipedia.org/wiki/OH_SHINY_DAYS_\(\))から翻訳されています。
+> この記事は[OH SHINY DAYS \(アルバム\)](https://ja.wikipedia.org/wiki/OH_SHINY_DAYS_\(アルバム\))から翻訳されています。
 
 
 『**OH SHINY DAYS**』（オー・シャイニー・デイズ）は、[TWINZER](../Page/TWINZER.md "wikilink")の1作目のアルバム。

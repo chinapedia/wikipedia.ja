@@ -1,4 +1,4 @@
-> この記事は[Breakthrough \(\)](https://ja.wikipedia.org/wiki/Breakthrough_\(\))から翻訳されています。
+> この記事は[Breakthrough \(平野綾の曲\)](https://ja.wikipedia.org/wiki/Breakthrough_\(平野綾の曲\))から翻訳されています。
 
 
 「**Breakthrough**」（ブレイクスルー）は、[平野綾](../Page/平野綾.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に [Lantisから発売された](../Page/ランティス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）またアルバム[RIOT GIRLにアルバムバージョンとして収録されている](../Page/RIOT_GIRL.md "wikilink")。

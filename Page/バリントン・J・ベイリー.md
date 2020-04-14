@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[バリントン・J・ベイリー](https://ja.wikipedia.org/wiki/バリントン・J・ベイリー)から翻訳されています。
 
 
 **バリントン・J・ベイリー**(**Barrington J. Bayley**, [1937年](../Page/1937年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[ワイドスクリーン・バロック](../Page/ワイドスクリーン・バロック.md "wikilink")の代表的作家の一人。代表作に『カエアンの聖衣』『禅銃』『ロボットの魂』など。

@@ -432,7 +432,7 @@ DOBERMAN INFINITY LIVE TOUR 2018 DOGG YEAR 〜PARTY ON THE OFF ROAD〜
   - 8月04日：新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 8月11日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
   - 8月18日：北海道・[ニトリ文化ホール](https://ja.wikipedia.org/wiki/ニトリ文化ホール "wikilink")
-  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール（[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[27\]）
+  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール（2日目は[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[27\]）
   - 8月25日：京都・[ロームシアター京都](../Page/ロームシアター京都.md "wikilink")
   - 9月02日：静岡・[アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink") 大ホール
   - 9月06日：熊本・[市民会館シアーズホーム夢ホール](../Page/熊本市民会館.md "wikilink")
@@ -481,18 +481,20 @@ DOBERMAN INFINITY LIVE TOUR 2019 5IVE 〜必ず会おうこの約束の場所で
 
 <div class="NavHead" style="text-align: left;">
 
-DOBERMAN INFINITY LIVE TOUR 2020 We are the one
+DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
 
 </div>
 
 <div class="NavContent" style="text-align: left;">
 
-  - <s>3月07日</s>：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")（新型ウイルスに関する政府の要請に従い中止\[29\]）
-  - 3月17日：愛知・愛知県芸術劇場 大ホール
+  - <s>3月07日：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")</s>（新型ウイルスによる政府の自粛要請に従い4月末まで中止）
+  - <s>3月17日：愛知・愛知県芸術劇場 大ホール
+  - 4月17日：新潟・新潟テルサ（振替公演）</s>
   - 5月08日：東京・[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールA
   - 5月17日：奈良・なら100年会館 大ホール
   - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール
   - 6月27日：岐阜・[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
+  - 7月02日：愛知・愛知県芸術劇場 大ホール（振替公演）
   - 7月07日：千葉・市川市文化会館 大ホール
   - 7月17日：神奈川・[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink") 大ホール
   - 9月11日：福岡・福岡サンパレス
@@ -510,17 +512,17 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one
 
 <div class="NavHead" style="text-align: left;">
 
-DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜
+DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
 
 </div>
 
 <div class="NavContent" style="text-align: left;">
 
-  - 3月28日：宮崎・宮崎WEATHER KING
-  - 3月29日：鹿児島・鹿児島CAPARVO HALL
+  - <s>3月28日：宮崎・宮崎WEATHER KING</s>（新型ウイルスによる政府の自粛要請に従い4月末まで中止）
+  - <s>3月29日：鹿児島・鹿児島CAPARVO HALL
   - 3月31日：熊本・熊本B.9 V1
   - 4月04日：茨城・水戸LIGHT HOUSE
-  - 4月05日：山梨・甲府KAZOO HALL
+  - 4月05日：山梨・甲府KAZOO HALL</s>
   - 5月16日：京都・京都FANJ
   - 5月19日：滋賀・[滋賀U★STONE](https://ja.wikipedia.org/wiki/U★STONE "wikilink")
   - 5月20日：和歌山・和歌山 CLUB GATE
@@ -566,7 +568,7 @@ EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜
 
 <div class="NavHead" style="text-align: left;">
 
-HiGH\&LOW THE LIVE\[30\]
+HiGH\&LOW THE LIVE\[31\]
 
 </div>
 
@@ -614,25 +616,25 @@ DOBERMAN INFINITY presents D.Island
 
 ### ラジオ
 
-  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[31\]
+  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[32\]
 
 ### ネット配信
 
-  - 漢部 ～真ノ男道～\[32\]（其ノ二：2014年11月20日\[33\]、其ノ四：2015年1月20日\[34\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
+  - 漢部 ～真ノ男道～\[33\]（其ノ二：2014年11月20日\[34\]、其ノ四：2015年1月20日\[35\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
 
 ### ミュージックビデオ
 
-  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）
+  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[36\]
 
 ### その他
 
-  - マリアナ観光大使（2019年）\[35\]
+  - マリアナ観光大使（2019年）\[37\]
 
 ## プロデュース
 
 ### アーティスト
 
-  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[36\]
+  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[38\]
 
 ## DOBERMAN INCの作品
 
@@ -781,9 +783,11 @@ DOBERMAN INFINITY presents D.Island
 28.
 29.
 30.
-31. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
-32.
+31.
+32. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
 33.
 34.
 35.
 36.
+37.
+38.

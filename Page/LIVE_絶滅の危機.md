@@ -1,4 +1,4 @@
-> この記事は[LIVE ](https://ja.wikipedia.org/wiki/LIVE_)から翻訳されています。
+> この記事は[LIVE 絶滅の危機](https://ja.wikipedia.org/wiki/LIVE_絶滅の危機)から翻訳されています。
 
 
 『**LIVE 絶滅の危機**』（ライブ ぜつめつのきき）は、[2000年](../Page/2000年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に発売された[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")、および同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に期間限定の[通販商品として発売された](../Page/通信販売.md "wikilink")[VHS](../Page/VHS.md "wikilink")ソフト。

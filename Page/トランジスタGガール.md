@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[トランジスタGガール](https://ja.wikipedia.org/wiki/トランジスタGガール)から翻訳されています。
 
 
 「**トランジスタG（グラマー）ガール**」は、[TOKIO](../Page/TOKIO.md "wikilink")の30作目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から発売、[2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[J Stormから再発売された](https://ja.wikipedia.org/wiki/J_Storm "wikilink")。

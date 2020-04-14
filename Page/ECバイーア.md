@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ECバイーア](https://ja.wikipedia.org/wiki/ECバイーア)から翻訳されています。
 
 
 **ECバイーア** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[バイーア州](../Page/バイーア州.md "wikilink")[サルヴァドール](../Page/サルヴァドール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1931年](../Page/1931年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")設立。

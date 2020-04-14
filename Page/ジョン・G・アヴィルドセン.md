@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ジョン・G・アヴィルドセン](https://ja.wikipedia.org/wiki/ジョン・G・アヴィルドセン)から翻訳されています。
 
 
 **ジョン・G・アヴィルドセン**（John G. Avildsen, [1935年](../Page/1935年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")。[イリノイ州](../Page/イリノイ州.md "wikilink")オークパーク出身。代表作に『ロッキー』『ベスト・キッド』など。

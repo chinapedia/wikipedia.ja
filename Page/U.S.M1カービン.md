@@ -1,4 +1,4 @@
-> この記事は[U.S.M1](https://ja.wikipedia.org/wiki/U.S.M1)から翻訳されています。
+> この記事は[U.S.M1カービン](https://ja.wikipedia.org/wiki/U.S.M1カービン)から翻訳されています。
 
 
 **M1カービン**（）は、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で開発された[自動小銃](../Page/自動小銃.md "wikilink")である。代表的な自動式[カービン](../Page/カービン.md "wikilink")の1つ。

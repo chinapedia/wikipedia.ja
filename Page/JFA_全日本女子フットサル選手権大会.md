@@ -1,4 +1,4 @@
-> この記事は[JFA ](https://ja.wikipedia.org/wiki/JFA_)から翻訳されています。
+> この記事は[JFA 全日本女子フットサル選手権大会](https://ja.wikipedia.org/wiki/JFA_全日本女子フットサル選手権大会)から翻訳されています。
 
 
 **JFA 全日本女子フットサル選手権大会**（ジェイエフエイぜんにほんじょしフットサルせんしゅけんたいかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の全国大会である。[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")が主催し、[日本フットサル連盟](../Page/日本フットサル連盟.md "wikilink")と開催地となった都道府県のサッカー協会が主管する\[1\]\[2\]。

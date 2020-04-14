@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSハウジング](https://ja.wikipedia.org/wiki/TBSハウジング)から翻訳されています。
 
 
 **TBSハウジング**（ティービーエスハウジング）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")が展開する[住宅展示場](../Page/住宅展示場.md "wikilink")である。

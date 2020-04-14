@@ -1,4 +1,4 @@
-> この記事は[FINA](https://ja.wikipedia.org/wiki/FINA)から翻訳されています。
+> この記事は[FINA水球ワールドリーグ](https://ja.wikipedia.org/wiki/FINA水球ワールドリーグ)から翻訳されています。
 
 
 **FINA水球ワールドリーグ**は、[水球](../Page/水球.md "wikilink")の国別対抗戦。水球をさらに人気を高めようと[国際水泳連盟](../Page/国際水泳連盟.md "wikilink")が2002年から開催されている。なお、女子は2004年から開催されている。水球界では[オリンピック](https://ja.wikipedia.org/wiki/オリンピック水球競技 "wikilink")・[世界水泳とともに](https://ja.wikipedia.org/wiki/世界水泳選手権水球競技 "wikilink")3大大会\[1\]（[ワールドカップと合わせて](https://ja.wikipedia.org/wiki/FINA水球ワールドカップ "wikilink")4大大会と呼ぶこともある）に数えられるが、ワールドリーグは毎年開催されている。

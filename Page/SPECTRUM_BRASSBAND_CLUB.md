@@ -1,7 +1,7 @@
 > この記事は[SPECTRUM BRASSBAND CLUB](https://ja.wikipedia.org/wiki/SPECTRUM_BRASSBAND_CLUB)から翻訳されています。
 
 
-『**スペクトラム5 SPECTRUM BRASSBAND CLUB**』（スペクトラムファイブ スペクトラム・ブラスバンド・クラブ）は、[1981年](../Page/1981年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**スペクトラム5 SPECTRUM BRASSBAND CLUB**』（スペクトラムファイブ スペクトラム・ブラスバンド・クラブ）は、[1981年](../Page/1981年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

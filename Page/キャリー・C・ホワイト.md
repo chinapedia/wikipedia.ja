@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[キャリー・C・ホワイト](https://ja.wikipedia.org/wiki/キャリー・C・ホワイト)から翻訳されています。
 
 
 **キャリー・C・ホワイト**（Carrie C. White、[1874年](../Page/1874年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")？ - [1991年](../Page/1991年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")）は、[長寿](../Page/長寿.md "wikilink")世界一として[ギネスブックに認定されていた](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")の[女性](../Page/女性.md "wikilink")。しかし年齢には異論があり、2012年9月、ギネスブックはホワイトの世界最高齢の認定を取り消している\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[HUFF](https://ja.wikipedia.org/wiki/HUFF)から翻訳されています。
+> この記事は[HUFF〜ドクターは中年症候群](https://ja.wikipedia.org/wiki/HUFF〜ドクターは中年症候群)から翻訳されています。
 
 
 『**HUFF〜ドクターは中年症候群**』(*Huff*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ショータイム](https://ja.wikipedia.org/wiki/ショータイム "wikilink")で放送されたテレビシリーズ。[精神科医](../Page/精神科医.md "wikilink")のクレイグ・“ハフ”・ハフスタッドは、不安定な患者や普通ではない家族たちに対して何の問題もなく今までを過ごしていたであったが、ある日16歳の患者が治療中に自殺したことをきっかけに、人生の考え方が変わってしまう。そのことから巻き起こる彼の不安定な日常を中心に描いた[ドラマ](../Page/ドラマ.md "wikilink")シリーズである。

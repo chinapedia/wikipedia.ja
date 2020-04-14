@@ -1,4 +1,4 @@
-> この記事は[HNK](https://ja.wikipedia.org/wiki/HNK)から翻訳されています。
+> この記事は[HNKシベニク](https://ja.wikipedia.org/wiki/HNKシベニク)から翻訳されています。
 
 
 **HNKシベニク**（）は、[クロアチア](../Page/クロアチア.md "wikilink")の中央部、[シベニク＝クニン郡](../Page/シベニク＝クニン郡.md "wikilink")の郡都[シベニク](../Page/シベニク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[オビラジR](https://ja.wikipedia.org/wiki/オビラジR)から翻訳されています。
 
 
 『**オビラジⓇ**』（オビラジアール）は、[TBSで](../Page/TBSテレビ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2006年](../Page/2006年のテレビ_\(日本\).md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2009年](https://ja.wikipedia.org/wiki/2009年のテレビ_\(日本\) "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[ \(I WiSH\)](https://ja.wikipedia.org/wiki/_\(I_WiSH\))から翻訳されています。
+> この記事は[明日への扉 \(I WiSHの曲\)](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\))から翻訳されています。
 
 
 『**明日への扉**』（あすへのとびら）は、[I WiSHのデビュー](https://ja.wikipedia.org/wiki/I_WiSH "wikilink")[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売した。

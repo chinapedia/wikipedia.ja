@@ -189,10 +189,10 @@
 ## 外部リンク
 
   -   -
-  -   - [G.K.Maryanオフィシャルブログ『KEEP ON MOVIN DELUX RELUX BLOG』](http://ameblo.jp/gkmaryan) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  -   - [G.K.Maryanオフィシャルブログ『KEEP ON MOVIN DELUX RELUX BLOG』](https://ameblo.jp/gkmaryan) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -   -
-  - [RINOオフィシャルブログ](http://ameblo.jp/mango-bongo/)（2008年11月〜2011年7月） - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [RINOオフィシャルブログ](https://ameblo.jp/mango-bongo/)（2008年11月〜2011年7月） - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -   - [DJ YAS OFFICIAL WEB](http://www.dj-yas.com/news/news.html)

@@ -1,4 +1,4 @@
-> この記事は[Good](https://ja.wikipedia.org/wiki/Good)から翻訳されています。
+> この記事は[コングルGood](https://ja.wikipedia.org/wiki/コングルGood)から翻訳されています。
 
 
 『**コングルGood**』（コングルグー）は、[きむらひろき](../Page/きむらひろき.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品および作中に登場する架空の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")。『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）誌上において、1995年に読切作品として掲載された後、1996年より連載された。単行本は全3巻（現在絶版）。2010年10月と12月に最終話の後日談を描いた描き下ろしの新作「13年後のコングルGood」を加えた復刊本が発売される。

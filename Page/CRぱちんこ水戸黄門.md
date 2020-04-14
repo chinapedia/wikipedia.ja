@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRぱちんこ水戸黄門](https://ja.wikipedia.org/wiki/CRぱちんこ水戸黄門)から翻訳されています。
 
 
 『**CRぱちんこ水戸黄門**』（CRぱちんこみとこうもん）は、『[水戸黄門](../Page/水戸黄門.md "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](../Page/2005年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。

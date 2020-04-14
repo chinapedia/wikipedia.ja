@@ -1,4 +1,4 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[日本IBM科学賞](https://ja.wikipedia.org/wiki/日本IBM科学賞)から翻訳されています。
 
 
 **日本IBM科学賞**（にほんあいびーえむかがくしょう）は、[日本アイ・ビー・エム](../Page/日本アイ・ビー・エム.md "wikilink")株式会社が社会貢献活動の一環として設けていた[賞](../Page/賞.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に創設され、[2011年](../Page/2011年.md "wikilink")を最後に活動を終了した。受賞者総数は147名にのぼった。

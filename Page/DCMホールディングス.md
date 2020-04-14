@@ -1,4 +1,4 @@
-> この記事は[DCM](https://ja.wikipedia.org/wiki/DCM)から翻訳されています。
+> この記事は[DCMホールディングス](https://ja.wikipedia.org/wiki/DCMホールディングス)から翻訳されています。
 
 
 **DCMホールディングス株式会社**（ディーシーエムホールディングス）は、傘下に[DCMカーマ](../Page/DCMカーマ.md "wikilink")、[DCMダイキ](https://ja.wikipedia.org/wiki/DCMダイキ "wikilink")、[DCMホーマック](https://ja.wikipedia.org/wiki/DCMホーマック "wikilink")などを持つ持株会社。3社の前身であるカーマ、ダイキ、ホーマックの経営統合により設立された、DCMグループ（旧:DJグループ）の統括会社である。

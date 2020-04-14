@@ -1,4 +1,4 @@
-> この記事は[ALL SINGLES BEST \(\)](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_\(\))から翻訳されています。
+> この記事は[ALL SINGLES BEST \(コブクロのアルバム\)](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_\(コブクロのアルバム\))から翻訳されています。
 
 
 『**ALL SINGLES BEST**』（オール・シングルス・ベスト）は、[フォークデュオ](../Page/フォークデュオ.md "wikilink")の[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

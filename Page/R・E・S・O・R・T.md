@@ -1,4 +1,4 @@
-> この記事は[RESORT](https://ja.wikipedia.org/wiki/RESORT)から翻訳されています。
+> この記事は[R・E・S・O・R・T](https://ja.wikipedia.org/wiki/R・E・S・O・R・T)から翻訳されています。
 
 
 『**R・E・S・O・R・T**』（リゾート）は、[THE SQUAREの](../Page/T-SQUARE.md "wikilink")10枚目の[アルバム](../Page/アルバム.md "wikilink")である。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")にリリースされた。

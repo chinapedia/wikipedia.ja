@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bバージン](https://ja.wikipedia.org/wiki/Bバージン)から翻訳されています。
 
 
 『**Bバージン**』（ビーバージン）は[山田玲司](../Page/山田玲司.md "wikilink")の[青年漫画](../Page/青年漫画.md "wikilink")作品。『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に1991年から1997年まで連載された。単行本は全15巻。

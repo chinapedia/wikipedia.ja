@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ビタミンS](https://ja.wikipedia.org/wiki/ビタミンS)から翻訳されています。
 
 
 **ビタミンS**（ビタミンエス）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する、実の[兄妹](https://ja.wikipedia.org/wiki/兄妹 "wikilink")からなる[お笑いコンビである](../Page/お笑いタレント.md "wikilink")。[5upよしもと](https://ja.wikipedia.org/wiki/5upよしもと "wikilink")所属メンバー。「ビタS」と略して呼ばれる事もある。

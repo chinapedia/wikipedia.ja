@@ -1,4 +1,4 @@
-> この記事は[NISSAN BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_BEYOND_THE_AVERAGE)から翻訳されています。
+> この記事は[NISSAN あ、安部礼司〜BEYOND THE AVERAGE](https://ja.wikipedia.org/wiki/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE)から翻訳されています。
 
 
 『**NISSAN あ、安部礼司〜BEYOND THE AVERAGE**』（にっさん あ、あべれいじ ビヨンド・ザ・アベレージ）は、[TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")番組である。
@@ -513,7 +513,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 ### あべ☆EXPO 2019
 
   - 2019年1月27日、日産グローバル本社ギャラリーにて開催。
-      - ゲストは[東雲めぐ](https://ja.wikipedia.org/wiki/東雲めぐ "wikilink")（[Vtuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）、[NOKKO](../Page/NOKKO.md "wikilink")（[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")）、司会進行は[浜崎美保](https://ja.wikipedia.org/wiki/浜崎美保 "wikilink")。
+      - ゲストは[東雲めぐ](../Page/東雲めぐ.md "wikilink")（[Vtuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）、[NOKKO](../Page/NOKKO.md "wikilink")（[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")）、司会進行は[浜崎美保](https://ja.wikipedia.org/wiki/浜崎美保 "wikilink")。
       - 『ラジオドラマと未来のテクノロジーの融合』をコンセプトにVRゴーグルでの世界体験、立体音響のラジオドラマ、AIスピーカー「i-Garaxy(イギャラクシー)」との会話体験イベントが行われ、17時から公開生放送、18時からはNOKKOのライブが披露された。
       - [あべ☆EXPO 2019](https://www.tfm.co.jp/abe/expo2019/)
 
@@ -819,7 +819,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - 他番組とのコラボレーション
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")（[聴取率](../Page/聴取率.md "wikilink")調査週間内）の放送は『あ、安部礼司 featuring AVANTI』と題し、TOKYO FM開局40周年企画の一つとして、土曜に放送している『[サントリー・サタデー・ウェイティング・バー](../Page/サントリー・サタデー・ウェイティング・バー.md "wikilink")』とのコラボレーション企画が放送された\[44\]。
     前日の[8月28日](../Page/8月28日.md "wikilink")放送分の『AVANTI』に安部礼司と同僚の飯野・大場、そして刈谷らが訪問し、翌日の『あ、安部礼司』では、紳士（教授）・スタン・取手の3名を巻き込んだどたばた劇が放送された。予告編として8月22日の『あ、安部礼司』の最後に紳士（教授）が登場したほか、8月23日から26日の[4ROOMS](https://ja.wikipedia.org/wiki/4ROOMS "wikilink")内で、『AVANTI』の常連・取手豪州と『あ、安部礼司』の刈谷勇の2人による“小競り合い”の様子が放送された。
-    [2012年](../Page/2012年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")放送分では日曜の午後2時から放送している『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』とのコラボレーション企画を放送\[45\]。『サンソン』に『あ、安部礼司』の登場人物が葉書を送った設定で、[山下達郎](../Page/山下達郎.md "wikilink")が本人役でゲスト出演した\[46\]。また『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』の宣伝も兼ねており、この日の放送では「[踊ろよ、フィッシュ](https://ja.wikipedia.org/wiki/踊ろよ、フィッシュ "wikilink")」、「悲しみのJODY」、「[あまく危険な香り](https://ja.wikipedia.org/wiki/あまく危険な香り "wikilink")」、「ドーナツ・ソング」、「[愛を描いて -LET'S KISS THE SUN-](https://ja.wikipedia.org/wiki/愛を描いて_-LET'S_KISS_THE_SUN- "wikilink")」、「[ゲット・バック・イン・ラブ](https://ja.wikipedia.org/wiki/GET_BACK_IN_LOVE "wikilink")」「[希望という名の光](https://ja.wikipedia.org/wiki/希望という名の光 "wikilink")」、「[DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")」など全編に渡って山下の曲が選曲された。
+    [2012年](../Page/2012年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")放送分では日曜の午後2時から放送している『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』とのコラボレーション企画を放送\[45\]。『サンソン』に『あ、安部礼司』の登場人物が葉書を送った設定で、[山下達郎](../Page/山下達郎.md "wikilink")が本人役でゲスト出演した\[46\]。また『[OPUS 〜ALL TIME BEST 1975-2012〜](https://ja.wikipedia.org/wiki/OPUS_〜ALL_TIME_BEST_1975-2012〜 "wikilink")』の宣伝も兼ねており、この日の放送では全編に渡って山下の曲が選曲された。
 
 <!-- end list -->
 
@@ -935,7 +935,7 @@ JFN系列全国38局ネット。
 43.
 44. 番組冒頭ジングルも『SUNTORY SATURDAY WAITING BAR AVANTI』のジングルをもじって『**NISSAN SUNDAY WALKING CLOSET ABENCHI**』（安部の部屋が舞台。スタン役は刈谷がやった）となった
 45.
-46. 冒頭のナレーションも「今さらツボな選曲」の部分が『サンソン』の「最高の選曲と最高の音質」に替えられていた。
+46. 冒頭のナレーションも「**今さらツボな選曲**」の部分が『サンソン』の「**最高の選曲と最高の音質**」に替えられていた。
 47.
 48.
 49. [『あ、安部礼司』がTS ONEにて初の再放送決定！記念すべき第1回放送や、あの名場面が\!?](https://prtimes.jp/main/html/rd/p/000001141.000004829.html),TOKYO FM,2017年6月27日

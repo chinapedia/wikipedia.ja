@@ -1,7 +1,7 @@
 > この記事は[SECOND NAVIGATION](https://ja.wikipedia.org/wiki/SECOND_NAVIGATION)から翻訳されています。
 
 
-『**スペクトラム4 SECOND NAVIGATION**』（スペクトラムフォー セカンド・ナビゲーション）は、[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
+『**スペクトラム4 SECOND NAVIGATION**』（スペクトラムフォー セカンド・ナビゲーション）は、[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

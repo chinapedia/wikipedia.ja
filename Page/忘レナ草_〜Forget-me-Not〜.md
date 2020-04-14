@@ -1,4 +1,4 @@
-> この記事は[ Forget-me-Not](https://ja.wikipedia.org/wiki/_Forget-me-Not)から翻訳されています。
+> この記事は[忘レナ草 〜Forget-me-Not〜](https://ja.wikipedia.org/wiki/忘レナ草_〜Forget-me-Not〜)から翻訳されています。
 
 
 『**忘レナ草 〜Forget-me-Not〜**』（わすれなぐさ フォーゲット ミー ノット）は、[2002年](../Page/2002年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に[ユニゾンシフト](https://ja.wikipedia.org/wiki/ユニゾンシフト "wikilink")が発売した[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")には廉価版『忘レナ草 Forget-me-Not Memorial Edition』が発売されている。

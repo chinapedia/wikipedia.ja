@@ -1,4 +1,4 @@
-> この記事は[ HOPPY HAPPY BAR](https://ja.wikipedia.org/wiki/_HOPPY_HAPPY_BAR)から翻訳されています。
+> この記事は[看板娘ホッピー・ミーナの HOPPY HAPPY BAR](https://ja.wikipedia.org/wiki/看板娘ホッピー・ミーナの_HOPPY_HAPPY_BAR)から翻訳されています。
 
 
 **看板娘ホッピー・ミーナの [HOPPY](../Page/ホッピー.md "wikilink") HAPPY BAR**（かんばんむすめほっぴー・みーなのほっぴーはっぴーばー）は、[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")より[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作で放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

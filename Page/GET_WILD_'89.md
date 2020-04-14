@@ -11,11 +11,11 @@
 
 ライブ等でこれらリプロダクションバージョンで演奏された楽曲は、アルバム『DRESS』リリース直後のライヴツアー『CAMP FANKS\!\! '89』のみであるが、唯一この曲だけはそれ以降のライブや1999年の再始動以降のライブでも頻繁にこのバージョンで演奏されることが多い（1994年終了ライブ、2003・2005・2007年のtribute LIVEなど）。
 
-2013年3月6日発売の小室哲哉ソロアルバム「[DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")」2枚目においては、この曲にシンセサイザーの音をオーバーダビングさせたバージョンが収録されている。
+1993年8月21日発売のリミックスアルバム[TMN CLASSIX 1においては](../Page/TMN_CLASSIX.md "wikilink")、ピート・ハモンドのミックスの上に小室自身がシンセサイザーの音をオーバーダビングさせたtechno overdub mixが収録されている。
 
-2012年にリリースされた『[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")』では[オリジナルカラオケバージョンが収録されているが](../Page/カラオケ.md "wikilink")、このバージョンは[原曲版のようなイントロ](../Page/Get_Wild.md "wikilink")、間奏、アウトロといった構成になっており、収録時間も原曲版とほぼ同じ4分となっている他、リフレインにおいては原曲版にあったディストーションギターなどの音も入っており別テイクとなっている。
+また、2013年3月6日発売の小室哲哉ソロアルバム「[DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")」2枚目においては、この曲にtechno overdub mixとは異なるシンセサイザーの音をオーバーダビングさせたバージョンが収録されている。
 
-またこのバージョンと全く同じ構成でコーラスも全く入っていない純然たるインストバージョンがEpic/Sony Recordsより1991年に発売されたコンピレーションアルバム「BEAT EXPRESS ORIGINAL KARAOKE VOX for men」に収録されている。Aメロ・Bメロ・サビでインスト版には先述のリフレイン以外にもディストーションギターの音が全般に入っており、オリカラ版には入っていない。
+プロトバージョンとして[原曲版のようなイントロ](../Page/Get_Wild.md "wikilink")、間奏、アウトロ、リフレインにおいては原曲版にあったディストーションギターなどの音も入り、代わりにサビの歌い出しサンプリングが一切無く4分近い構成になった『7inch Version』があり、音源は当時から存在していたが、2020年にリリースされた「[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")」まで収録されず、これを元にしたインスト版（「[BEAT EXPRESS ORIGINAL KARAOKE VOX for men](https://ja.wikipedia.org/wiki/BEAT_EXPRESS#収録曲 "wikilink")」・1991年）及びオリカラ版（「[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")」・2012年）が本作よりも先にリリースされていた。
 
 ## 収録曲
 
@@ -29,7 +29,7 @@
 **GET WILD '89**
 
   - [DRESS](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")
-  - BEAT EXPRESS ORIGINAL KARAOKE VOX for men (インストゥルメンタルバージョン)
+  - [BEAT EXPRESS ORIGINAL KARAOKE VOX for men](https://ja.wikipedia.org/wiki/BEAT_EXPRESS#収録曲 "wikilink") (「7inch Version」基調のインストゥルメンタルバージョン)
   - [TMN COLOSSEUM II](../Page/TMN_COLOSSEUM.md "wikilink") (ライブバージョン。但し表記は『[Get Wild](../Page/Get_Wild.md "wikilink")』となっている。)
   - [TMN CLASSIX 1](../Page/TMN_CLASSIX.md "wikilink") (techno overdub mix)
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (DISC 2にオリジナル、DISC 3にtechno overdub mixが収録)
@@ -38,12 +38,13 @@
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink")
   - [ALL the “Get Wild” ALBUM](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")
+  - [DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")
   - [GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink") (オリジナル・techno overdub mix・ライブバージョン全て収録)
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")
   - [TK BOX 〜TETSUYA KOMURO HIT HISTORY〜](https://ja.wikipedia.org/wiki/TK_BOX_〜TETSUYA_KOMURO_HIT_HISTORY〜 "wikilink")
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
-  - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ。但し別テイク)
-  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink") (DISC 2にオリジナル、DISC 3に7inch Versionが収録)
+  - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (「7inch Version」基調のオリジナル・カラオケ)
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink") (DISC 2にオリジナル、DISC 3に「7inch Version」が収録)
 
 **FOOL ON THE PLANET (WHERE ARE YOU NOW)**
 

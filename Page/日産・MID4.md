@@ -1,4 +1,4 @@
-> この記事は[MID4](https://ja.wikipedia.org/wiki/MID4)から翻訳されています。
+> この記事は[日産・MID4](https://ja.wikipedia.org/wiki/日産・MID4)から翻訳されています。
 
 
 **MID4**（ミッドフォー）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月](../Page/9月.md "wikilink")に開催されたフランクフルトモーターショーで発表した[スポーツカー](../Page/スポーツカー.md "wikilink")・プロトタイプである。

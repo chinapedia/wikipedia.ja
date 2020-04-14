@@ -1,4 +1,4 @@
-> この記事は[SOS \(\)](https://ja.wikipedia.org/wiki/SOS_\(\))から翻訳されています。
+> この記事は[SOS \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/SOS_\(曖昧さ回避\))から翻訳されています。
 
 
 **SOS**（エスオーエス）

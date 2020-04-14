@@ -1,4 +1,4 @@
-> この記事は[MICKEY](https://ja.wikipedia.org/wiki/MICKEY)から翻訳されています。
+> この記事は[MICKEY☆ゆか](https://ja.wikipedia.org/wiki/MICKEY☆ゆか)から翻訳されています。
 
 
 **MICKEY☆ゆか**（みっきー・ゆか、1978年10月9日 - 、本名：**遠田 由佳**〈えんた ゆか〉）は、日本の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。現在は不動産会社を経営している。身長156cm、体重50kg、血液型AB型。神奈川県相模原市出身。[東海大学付属相模高等学校](https://ja.wikipedia.org/wiki/東海大学付属相模高等学校 "wikilink")、[白百合女子大学](../Page/白百合女子大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")[英語](../Page/英語.md "wikilink")[英文学](https://ja.wikipedia.org/wiki/英文学 "wikilink")科卒業。

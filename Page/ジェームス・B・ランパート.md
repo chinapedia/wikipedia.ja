@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ジェームス・B・ランパート](https://ja.wikipedia.org/wiki/ジェームス・B・ランパート)から翻訳されています。
 
 
 [thumbを視察するランパート](https://ja.wikipedia.org/wiki/ファイル:HICOM_Lampert_visit_Airakuen_Sanatorium.JPG "wikilink")（1969年）\]\] **ジェームス・ベンジャミン・ランパート**（James Benjamin Lampert、[1914年](../Page/1914年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")で、最終階級は陸軍[中将](../Page/中将.md "wikilink")であった。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")から[1972年](../Page/1972年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")まで[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")を務めた。
@@ -32,9 +32,10 @@
 ## 外部リンク
 
   - [沖縄県公文書館](http://www.archives.pref.okinawa.jp/)
-  - [琉球文化アーカイブ USCAR収録写真集 ジェームス・B・ランパート中将](http://rca.open.ed.jp/ok/uscar/p-6.html)
-  - [守礼の光 - 米国琉球列島高等弁務官府機関誌](http://www.geocities.co.jp/SilkRoad-Forest/1429/colo/ryukyu.html)
 
+  - [琉球文化アーカイブ USCAR収録写真集 ジェームス・B・ランパート中将](http://rca.open.ed.jp/ok/uscar/p-6.html)
+
+  -
 [Category:アメリカの沖縄統治機関の高官](https://ja.wikipedia.org/wiki/Category:アメリカの沖縄統治機関の高官 "wikilink") [Category:アメリカ合衆国陸軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国陸軍の軍人 "wikilink") [Category:第二次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第二次世界大戦期のアメリカ合衆国の軍人 "wikilink") [Category:勲一等旭日大綬章受章者](https://ja.wikipedia.org/wiki/Category:勲一等旭日大綬章受章者 "wikilink") [Category:ワシントンD.C.出身の人物](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.出身の人物 "wikilink") [Category:1914年生](https://ja.wikipedia.org/wiki/Category:1914年生 "wikilink") [Category:1978年没](https://ja.wikipedia.org/wiki/Category:1978年没 "wikilink") [Category:アメリカ陸軍士官学校出身の人物](https://ja.wikipedia.org/wiki/Category:アメリカ陸軍士官学校出身の人物 "wikilink")
 
 1.

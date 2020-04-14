@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRぱちんこウルトラセブン](https://ja.wikipedia.org/wiki/CRぱちんこウルトラセブン)から翻訳されています。
 
 
 **CRぱちんこウルトラセブン**は、特撮テレビドラマ『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』をモチーフとした[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台。[2005年](../Page/2005年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")からリリースされた。

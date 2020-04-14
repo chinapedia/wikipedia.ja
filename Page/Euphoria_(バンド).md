@@ -1,4 +1,4 @@
-> この記事は[Euphoria \(\)](https://ja.wikipedia.org/wiki/Euphoria_\(\))から翻訳されています。
+> この記事は[Euphoria \(バンド\)](https://ja.wikipedia.org/wiki/Euphoria_\(バンド\))から翻訳されています。
 
 
 **euphoria**（ユーフォリア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組バンド。[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")所属。[2001年](../Page/2001年.md "wikilink")に結成。[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、ミニアルバム『floral dew』で[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")よりインディーズデビュー。2010年5月現在でアルバム4枚、ミニアルバム2枚、マキシシングル1枚をリリースしている。直近の作品は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースされた4thアルバム『fluidify』。

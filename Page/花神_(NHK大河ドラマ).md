@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[花神 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/花神_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**花神**』（かしん）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1977年](../Page/1977年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")から[12月25日](../Page/12月25日.md "wikilink")に放送された15作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。周防の村医者から倒幕司令官に、明治新政府では兵部大輔にまで登りつめた日本近代軍制の創始者・[大村益次郎](https://ja.wikipedia.org/wiki/大村益次郎 "wikilink")を中心に、[松下村塾](../Page/松下村塾.md "wikilink")の[吉田松陰](../Page/吉田松陰.md "wikilink")や[奇兵隊](../Page/奇兵隊.md "wikilink")の[高杉晋作](../Page/高杉晋作.md "wikilink")といった、維新回天の原動力となった若者たちを豪快に描いた青春群像劇。
@@ -392,7 +392,7 @@
     演：[入川保則](../Page/入川保則.md "wikilink")
   - [小林虎三郎](../Page/小林虎三郎.md "wikilink")
     演：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-  - [金子重之助](https://ja.wikipedia.org/wiki/金子重輔 "wikilink")
+  - [金子重之助](https://ja.wikipedia.org/wiki/金子重之輔 "wikilink")
     演：[岡本信人](../Page/岡本信人.md "wikilink")
     寅次郎の門弟で、下田からアメリカ渡航を志すが、失敗する。江戸の牢にいる時から病となり、萩の獄で獄死する。
   - 金子の母

@@ -1,4 +1,4 @@
-> この記事は[AD](https://ja.wikipedia.org/wiki/AD)から翻訳されています。
+> この記事は[ADブギ](https://ja.wikipedia.org/wiki/ADブギ)から翻訳されています。
 
 
 『**ADブギ**』は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1991年](../Page/1991年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")から[12月20日](../Page/12月20日.md "wikilink")まで毎週金曜日21:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[加勢大周](../Page/加勢大周.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Pieces \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/Pieces_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[Pieces \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/Pieces_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**Pieces**」（ピーシーズ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の16作目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

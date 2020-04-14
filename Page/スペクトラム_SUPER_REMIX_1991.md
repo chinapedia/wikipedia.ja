@@ -1,7 +1,7 @@
-> この記事は[ SUPER REMIX 1991](https://ja.wikipedia.org/wiki/_SUPER_REMIX_1991)から翻訳されています。
+> この記事は[スペクトラム SUPER REMIX 1991](https://ja.wikipedia.org/wiki/スペクトラム_SUPER_REMIX_1991)から翻訳されています。
 
 
-『**スペクトラム SUPER REMIX 1991**』（スペクトラム スーパー・リミックス ナインティーン・ナインティワン）は、[1991年](../Page/1991年.md "wikilink")に[スペクトラムのオリジナル](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")全6タイトルがCD化されたことに合わせて同年[2月21日](../Page/2月21日.md "wikilink")に発売された[リミックス](../Page/リミックス.md "wikilink")・アルバム。
+『**スペクトラム SUPER REMIX 1991**』（スペクトラム スーパー・リミックス ナインティーン・ナインティワン）は、[1991年](../Page/1991年.md "wikilink")に[スペクトラムのオリジナル](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")全6タイトルがCD化されたことに合わせて同年[2月21日](../Page/2月21日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された[リミックス](../Page/リミックス.md "wikilink")・アルバム。
 
 ## 概要
 

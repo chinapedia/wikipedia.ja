@@ -1,4 +1,4 @@
-> この記事は[JWAY](https://ja.wikipedia.org/wiki/JWAY)から翻訳されています。
+> この記事は[JWAYコミュニティチャンネル](https://ja.wikipedia.org/wiki/JWAYコミュニティチャンネル)から翻訳されています。
 
 
 **JWAYコミュニティチャンネル**（ジェイウェイコミュニティチャンネル）は、[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局、[JWAY](../Page/JWAY.md "wikilink")が運営する、地域情報番組中心のケーブルテレビ放送である。愛称は、**コミコミ9chひたち**（コミコミ9チャンネルひたち）。通称は、**JWAY9ch**（ジェイウェイ9チャンネル）。[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月1日](../Page/3月1日.md "wikilink")、開局。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK全国大学放送コンテスト](https://ja.wikipedia.org/wiki/NHK全国大学放送コンテスト)から翻訳されています。
 
 
 **NHK全国大学放送コンテスト**（エヌエイチケイぜんこくだいがくほうそうコンテスト）は、NHK全国大学放送コンテスト実行委員会と[NHK京都放送局](../Page/NHK京都放送局.md "wikilink")が主催する大学・短期大学などの学生を対象とした放送のコンテスト。[朗読](../Page/朗読.md "wikilink")や[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")のほか、[CMを発表する部門などもある](../Page/コマーシャルメッセージ.md "wikilink")。通称**大学Nコン**、または**Nコン**。

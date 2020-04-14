@@ -1,4 +1,4 @@
-> この記事は[COSAFA](https://ja.wikipedia.org/wiki/COSAFA)から翻訳されています。
+> この記事は[COSAFAキャッスルカップ](https://ja.wikipedia.org/wiki/COSAFAキャッスルカップ)から翻訳されています。
 
 
 **COSAFAカップ**（）は、[南部アフリカサッカー協会評議会](https://ja.wikipedia.org/wiki/南部アフリカサッカー協会評議会 "wikilink")（COSAFA）が主催する、[南部アフリカ](../Page/南部アフリカ.md "wikilink")の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。

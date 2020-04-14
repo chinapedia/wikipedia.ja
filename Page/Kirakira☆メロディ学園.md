@@ -1,4 +1,4 @@
-> この記事は[Kirakira](https://ja.wikipedia.org/wiki/Kirakira)から翻訳されています。
+> この記事は[Kirakira☆メロディ学園](https://ja.wikipedia.org/wiki/Kirakira☆メロディ学園)から翻訳されています。
 
 
 **KiraKira☆メロディ学園**（キラキラメロディがくえん）は、[バンプレスト](../Page/バンプレスト.md "wikilink")（[ミューラス](../Page/ミューラス.md "wikilink")）、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[AICによる](../Page/アニメインターナショナルカンパニー.md "wikilink")[声優ユニット](../Page/声優ユニット.md "wikilink")企画。略称は**キラメロ**。

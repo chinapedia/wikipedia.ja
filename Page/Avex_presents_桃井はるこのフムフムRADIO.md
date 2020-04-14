@@ -1,4 +1,4 @@
-> この記事は[Avex presents RADIO](https://ja.wikipedia.org/wiki/Avex_presents_RADIO)から翻訳されています。
+> この記事は[Avex presents 桃井はるこのフムフムRADIO](https://ja.wikipedia.org/wiki/Avex_presents_桃井はるこのフムフムRADIO)から翻訳されています。
 
 
 『**avex presents 桃井はるこのフムフムRADIO**』（エイベックスプレゼンツ ももいはるこのフムフムラジオ）は、[文化放送](../Page/文化放送.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")にかけて『[A\&G 超RADIO SHOW〜アニスパ\!〜](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")』の[内包番組として放送されていた](../Page/フロート番組.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

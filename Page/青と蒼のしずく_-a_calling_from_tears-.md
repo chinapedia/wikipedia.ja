@@ -1,4 +1,4 @@
-> この記事は[ -a calling from tears-](https://ja.wikipedia.org/wiki/_-a_calling_from_tears-)から翻訳されています。
+> この記事は[青と蒼のしずく -a calling from tears-](https://ja.wikipedia.org/wiki/青と蒼のしずく_-a_calling_from_tears-)から翻訳されています。
 
 
 『**青と蒼のしずく -a calling from tears-**』（あおとあおのしずく ア コーリング フロム ティアーズ）は、[2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[Lass](../Page/Lass.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。株式会社ジャックインザボックスのウェブサイト「[禁断のギャルゲー](https://ja.wikipedia.org/wiki/禁断のギャルゲー "wikilink")」より携帯電話アプリゲーム版も配信されている。

@@ -1,4 +1,4 @@
-> この記事は[ABCJAM](https://ja.wikipedia.org/wiki/ABCJAM)から翻訳されています。
+> この記事は[ABCフレッシュアップJAM](https://ja.wikipedia.org/wiki/ABCフレッシュアップJAM)から翻訳されています。
 
 
 **ABCフレッシュアップJAM**は、大阪・[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")の昼に放送していた番組である。[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月](../Page/6月.md "wikilink")放送終了。
@@ -61,4 +61,4 @@
   - [ABCフレッシュアップベースボール](../Page/ABCフレッシュアップベースボール.md "wikilink")
   - [中央競馬実況中継 (ABCラジオ)](../Page/中央競馬実況中継_\(ABCラジオ\).md "wikilink")
 
-[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
+[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ \(THE BOOM\)](https://ja.wikipedia.org/wiki/_\(THE_BOOM\))から翻訳されています。
+> この記事は[手紙 \(THE BOOMの曲\)](https://ja.wikipedia.org/wiki/手紙_\(THE_BOOMの曲\))から翻訳されています。
 
 
 「**手紙**」（てがみ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に発表した17thシングル。

@@ -1,4 +1,4 @@
-> この記事は[Second tune  ](https://ja.wikipedia.org/wiki/Second_tune__)から翻訳されています。
+> この記事は[Second tune 〜世界 止めて〜](https://ja.wikipedia.org/wiki/Second_tune_〜世界_止めて〜)から翻訳されています。
 
 
 『**second tune 〜世界 止めて〜**』（セカンドチューン せかい とめて）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")の2枚目のアルバム。CDコードはGZCA-5071。

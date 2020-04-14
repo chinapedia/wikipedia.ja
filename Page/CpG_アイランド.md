@@ -1,4 +1,4 @@
-> この記事は[CpG ](https://ja.wikipedia.org/wiki/CpG_)から翻訳されています。
+> この記事は[CpG アイランド](https://ja.wikipedia.org/wiki/CpG_アイランド)から翻訳されています。
 
 
 [Cytosine_chemical_structure.png](https://ja.wikipedia.org/wiki/File:Cytosine_chemical_structure.png "fig:Cytosine_chemical_structure.png")\]\] [Guanine_chemical_structure.png](https://ja.wikipedia.org/wiki/File:Guanine_chemical_structure.png "fig:Guanine_chemical_structure.png")\]\] **CpGアイランド**とは、[シトシン](https://ja.wikipedia.org/wiki/シトシン "wikilink")の次に[グアニン](../Page/グアニン.md "wikilink")が現れるタイプの２塩基配列([ジヌクレオチド](https://ja.wikipedia.org/wiki/ジヌクレオチド "wikilink"))であるCpGサイトの出現頻度が、ゲノム中で他と比べ高い領域のことである。CpGの「p」の文字は、シトシンとグアニンの間の[ホスホジエステル結合](../Page/ホスホジエステル結合.md "wikilink")を表している。[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")の[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")のうち40%近く\[1\]が、[プロモーター](../Page/プロモーター.md "wikilink")内部もしくはその近傍にCpGアイランドを含んでいるとされる。（[ヒト](../Page/ヒト.md "wikilink")の遺伝子のプロモーターでは約70％）。

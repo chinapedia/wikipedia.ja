@@ -1,4 +1,4 @@
-> この記事は[GERMS ](https://ja.wikipedia.org/wiki/GERMS_)から翻訳されています。
+> この記事は[GERMS 狙われた街](https://ja.wikipedia.org/wiki/GERMS_狙われた街)から翻訳されています。
 
 
 **GERMS 狙われた街**（ジャーム ねらわれたまち）は、[1999年](../Page/1999年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")にケー・エー・ジェーから発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

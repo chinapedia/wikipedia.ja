@@ -1,4 +1,4 @@
-> この記事は[8 \(THE YELLOW MONKEY\)](https://ja.wikipedia.org/wiki/8_\(THE_YELLOW_MONKEY\))から翻訳されています。
+> この記事は[8 \(THE YELLOW MONKEYのアルバム\)](https://ja.wikipedia.org/wiki/8_\(THE_YELLOW_MONKEYのアルバム\))から翻訳されています。
 
 
 『**8**』（ハチ）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")8枚目のオリジナルアルバム。[2000年](../Page/2000年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

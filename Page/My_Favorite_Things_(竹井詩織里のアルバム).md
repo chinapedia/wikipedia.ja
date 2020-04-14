@@ -1,4 +1,4 @@
-> この記事は[My Favorite Things \(\)](https://ja.wikipedia.org/wiki/My_Favorite_Things_\(\))から翻訳されています。
+> この記事は[My Favorite Things \(竹井詩織里のアルバム\)](https://ja.wikipedia.org/wiki/My_Favorite_Things_\(竹井詩織里のアルバム\))から翻訳されています。
 
 
 『**My Favorite Things**』（マイ フェイバリット シングス）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")の1枚目のアルバム。CDコードはGZCA-5049。

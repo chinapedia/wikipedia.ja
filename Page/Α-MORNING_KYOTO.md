@@ -1,4 +1,4 @@
-> この記事は[-MORNING KYOTO](https://ja.wikipedia.org/wiki/-MORNING_KYOTO)から翻訳されています。
+> この記事は[Α-MORNING KYOTO](https://ja.wikipedia.org/wiki/Α-MORNING_KYOTO)から翻訳されています。
 
 
 **α-MORNING KYOTO**（アルファ モーニング キョウト）は、[1991年](../Page/1991年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から2019年7月まで[α-STATIONで放送されていた番組で](../Page/エフエム京都.md "wikilink")、α-STATION開局当時から放送されていた番組である。なお、2016年4月より金曜日は**α-MORNING GOLD**（アルファ モーニング ゴールド）と番組名を改題して放送していた。

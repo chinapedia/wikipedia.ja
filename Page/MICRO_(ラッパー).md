@@ -1,4 +1,4 @@
-> この記事は[MICRO \(\)](https://ja.wikipedia.org/wiki/MICRO_\(\))から翻訳されています。
+> この記事は[MICRO \(ラッパー\)](https://ja.wikipedia.org/wiki/MICRO_\(ラッパー\))から翻訳されています。
 
 
 **MICRO**（ミクロ、本名：**新美 太祐**、[1977年](../Page/1977年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、リードボーカルである。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")出身。身長153cm。[ミニ塾。](https://ja.wikipedia.org/wiki/ミニ塾。 "wikilink")のメンバーでもある。

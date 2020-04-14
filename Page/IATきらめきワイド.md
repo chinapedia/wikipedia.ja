@@ -1,4 +1,4 @@
-> この記事は[IAT](https://ja.wikipedia.org/wiki/IAT)から翻訳されています。
+> この記事は[IATきらめきワイド](https://ja.wikipedia.org/wiki/IATきらめきワイド)から翻訳されています。
 
 
 『**IATきらめきワイド**』（アイエイティーきらめきワイド）は、[1996年](../Page/1996年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")\[1\]から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")で[平日](../Page/平日.md "wikilink")夕方に放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。

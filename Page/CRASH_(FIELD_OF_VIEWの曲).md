@@ -1,4 +1,4 @@
-> この記事は[CRASH \(FIELD OF VIEW\)](https://ja.wikipedia.org/wiki/CRASH_\(FIELD_OF_VIEW\))から翻訳されています。
+> この記事は[CRASH \(FIELD OF VIEWの曲\)](https://ja.wikipedia.org/wiki/CRASH_\(FIELD_OF_VIEWの曲\))から翻訳されています。
 
 
 『**CRASH**』（クラッシュ）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")11thシングル。

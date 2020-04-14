@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[クレイグ・T・ネルソン](https://ja.wikipedia.org/wiki/クレイグ・T・ネルソン)から翻訳されています。
 
 
 **クレイグ・T・ネルソン**（Craig T. Nelson, [1946年](../Page/1946年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[スポケーン](../Page/スポケーン.md "wikilink")出身の俳優。

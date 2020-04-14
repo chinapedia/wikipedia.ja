@@ -1,4 +1,4 @@
-> この記事は[ \(BUCK-TICK\)](https://ja.wikipedia.org/wiki/_\(BUCK-TICK\))から翻訳されています。
+> この記事は[悪の華 \(BUCK-TICKの曲\)](https://ja.wikipedia.org/wiki/悪の華_\(BUCK-TICKの曲\))から翻訳されています。
 
 
 「**悪の華**」（あくのはな）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")発売。発売元は[ビクターインビテーション](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -11,7 +11,7 @@
 
 本作はシングルではバンド初であり、唯一のオリコンチャート1位獲得作品である。初回には「BUCK-TICK」と「悪の華」と書かれたシールが同封されている。
 
-1990年代前半に行われた[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")のライブイベントにて、[大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")）、[寺岡呼人](../Page/寺岡呼人.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")）、森本"社長"明人（[ギター](../Page/ギター.md "wikilink")・[Bonnie Duck\!?](https://ja.wikipedia.org/wiki/Bonnie_Duck!? "wikilink")）、川井健（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・Bonnie Duck\!?）、[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[田原健一](../Page/田原健一.md "wikilink")（ギター・Mr.Children）が「トレビの泉」なるバンド名で本作をカバーした（寺岡・鈴木・田原の3人は、黒い画用紙を使ってBUCK-TICKの逆立てた長髪を再現していた）。
+1990年代前半に行われた[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")のライブイベントにて、[大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")）、[寺岡呼人](../Page/寺岡呼人.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")）、森本"社長"明人（[ギター](../Page/ギター.md "wikilink")・[Bonnie Duck\!?](https://ja.wikipedia.org/wiki/Bonnie_Duck!? "wikilink")）、川井健（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・Bonnie Duck\!?）、[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[田原健一](../Page/田原健一.md "wikilink")（ギター・Mr.Children）が「トレビの泉」なるバンド名で本作をカバーした（寺岡・鈴木・田原の3人は、黒い画用紙を使ってBUCK-TICKの逆立てた長髪を再現していた）。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
@@ -41,4 +41,4 @@
   - 『[CATALOGUE VICTOR→MERCURY 87-99](https://ja.wikipedia.org/wiki/CATALOGUE_VICTOR→MERCURY_87-99 "wikilink")』(\#1)
   - 『[CATALOGUE 1987-2016](https://ja.wikipedia.org/wiki/CATALOGUE_1987-2016 "wikilink")』(\#2)
 
-[Category:BUCK-TICKの楽曲](https://ja.wikipedia.org/wiki/Category:BUCK-TICKの楽曲 "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:櫻井敦司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:櫻井敦司が制作した楽曲 "wikilink") [Category:今井寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:今井寿が制作した楽曲 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:BUCK-TICKの楽曲](https://ja.wikipedia.org/wiki/Category:BUCK-TICKの楽曲 "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:櫻井敦司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:櫻井敦司が制作した楽曲 "wikilink") [Category:今井寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:今井寿が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

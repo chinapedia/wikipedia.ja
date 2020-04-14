@@ -1,4 +1,4 @@
-> この記事は[Vibe ON!MUSIC](https://ja.wikipedia.org/wiki/Vibe_ON!MUSIC)から翻訳されています。
+> この記事は[冨永晃道のVibe ON!MUSIC](https://ja.wikipedia.org/wiki/冨永晃道のVibe_ON!MUSIC)から翻訳されています。
 
 
 **冨永晃道のVibe ON\! MUSIC**は、2007年4月2日～2010年3月31日まで放送された[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")の音楽ワイド番組。 放送時間は毎週月〜木曜日17：00〜18：55。通称：バイオン

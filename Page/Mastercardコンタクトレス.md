@@ -1,4 +1,4 @@
-> この記事は[Mastercard](https://ja.wikipedia.org/wiki/Mastercard)から翻訳されています。
+> この記事は[Mastercardコンタクトレス](https://ja.wikipedia.org/wiki/Mastercardコンタクトレス)から翻訳されています。
 
 
 **Mastercardコンタクトレス**（）は、[Mastercardの](../Page/マスターカード.md "wikilink")[決済](https://ja.wikipedia.org/wiki/決済 "wikilink")（[電子決済](https://ja.wikipedia.org/wiki/電子決済 "wikilink")）サービスである。
@@ -83,27 +83,27 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/楽天カード" title="wikilink">楽天カード</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/オリエントコーポレーション.md" title="wikilink">オリエントコーポレーション</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ジャックス_(信販).md" title="wikilink">ジャックス</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/三菱UFJニコス.md" title="wikilink">三菱UFJニコス</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/三井住友カード.md" title="wikilink">三井住友カード</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三井住友トラスト・カード" title="wikilink">三井住友トラスト・カード</a></p></td>
+<td><p><a href="../Page/三井住友カード.md" title="wikilink">三井住友カード</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -174,6 +174,16 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 </tr>
 <tr class="odd">
 <td><p>高知カード</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三井住友トラスト・カード" title="wikilink">三井住友トラスト・カード</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/三井住友トラストクラブ.md" title="wikilink">三井住友トラストクラブ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -315,22 +325,22 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>クレディセゾン</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>JALペイメント・ポート</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>三井住友カード</p></td>
 <td><p>[27]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ウェブマネー.md" title="wikilink">ウェブマネー</a></p></td>
+<td><p>クレディセゾン</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>JALペイメント・ポート</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>auペイメント</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -339,8 +349,9 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 
 ### 日本に於ける主な加盟店
 
-一部を除く。
+括弧内は主な[屋号](../Page/屋号.md "wikilink")を示す（一部の店舗を除く）。
 
+  - [日本郵便](../Page/日本郵便.md "wikilink") （[郵便局](../Page/郵便局.md "wikilink")）
   - [京王百貨店](../Page/京王百貨店.md "wikilink")
   - [森ビル](../Page/森ビル.md "wikilink") （[六本木ヒルズ](../Page/六本木ヒルズ.md "wikilink")・[表参道ヒルズ](../Page/表参道ヒルズ.md "wikilink")・[ヴィーナスフォート](../Page/ヴィーナスフォート.md "wikilink")）
   - [イケア・ジャパン](https://ja.wikipedia.org/wiki/イケア・ジャパン "wikilink")
@@ -348,7 +359,8 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
   - [ローソンストア100](../Page/ローソンストア100.md "wikilink")
   - [TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")
   - [日本マクドナルド](../Page/日本マクドナルド.md "wikilink")
-  - [すき家本部](https://ja.wikipedia.org/wiki/すき家本部 "wikilink")
+  - [ドトールコーヒー](../Page/ドトールコーヒー.md "wikilink") （ドトールコーヒーショップ・エクセルシオール カフェ・カフェ レクセル・ル カフェ ドトール）
+  - [すき家](https://ja.wikipedia.org/wiki/すき家 "wikilink")
   - [ココスジャパン](../Page/ココスジャパン.md "wikilink") （ココス・エルトリート）
   - ビッグボーイジャパン （[ビッグボーイ](../Page/ビッグボーイ_\(レストラン\).md "wikilink")・ヴィクトリアステーション）
   - [ジョリーパスタ](../Page/ジョリーパスタ.md "wikilink")

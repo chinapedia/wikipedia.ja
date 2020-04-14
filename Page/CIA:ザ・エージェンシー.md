@@ -1,4 +1,4 @@
-> この記事は[CIA:](https://ja.wikipedia.org/wiki/CIA:)から翻訳されています。
+> この記事は[CIA:ザ・エージェンシー](https://ja.wikipedia.org/wiki/CIA:ザ・エージェンシー)から翻訳されています。
 
 
 **CIA:ザ・エージェンシー**（**シーアイエー:ザ・エージェンシー**、原題「The Agency 」）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[CBS](../Page/CBS.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")から[2003年](../Page/2003年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に掛けて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）シリーズ。実際に[CIAが制作協力をし](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")、エージェント達の活躍が描かれている。日本では[AXN](../Page/AXN.md "wikilink")で放送された。

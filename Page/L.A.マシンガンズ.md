@@ -1,4 +1,4 @@
-> この記事は[L.A.](https://ja.wikipedia.org/wiki/L.A.)から翻訳されています。
+> この記事は[L.A.マシンガンズ](https://ja.wikipedia.org/wiki/L.A.マシンガンズ)から翻訳されています。
 
 
 **L.A.マシンガンズ**（*L.A.MACHINEGUNS -RAGE OF THE MACHINES-*）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月に発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。

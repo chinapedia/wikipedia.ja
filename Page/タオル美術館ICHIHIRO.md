@@ -1,4 +1,4 @@
-> この記事は[ICHIHIRO](https://ja.wikipedia.org/wiki/ICHIHIRO)から翻訳されています。
+> この記事は[タオル美術館ICHIHIRO](https://ja.wikipedia.org/wiki/タオル美術館ICHIHIRO)から翻訳されています。
 
 
 **タオル美術館ICHIHIRO**（タオルびじゅつかん いちひろ）は、[タオル](../Page/タオル.md "wikilink")を取り扱う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[美術館](../Page/美術館.md "wikilink")である。

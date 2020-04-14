@@ -1,4 +1,4 @@
-> この記事は[Avex presents RADIO](https://ja.wikipedia.org/wiki/Avex_presents_RADIO)から翻訳されています。
+> この記事は[Avex presents 桃井はるこのニコニコRADIO](https://ja.wikipedia.org/wiki/Avex_presents_桃井はるこのニコニコRADIO)から翻訳されています。
 
 
 **[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink") presents 桃井はるこのニコニコRADIO**（エイベックスプレゼンツ ももいはるこのニコニコラジオ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")終了。

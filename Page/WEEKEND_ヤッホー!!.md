@@ -1,4 +1,4 @@
-> この記事は[WEEKEND !!](https://ja.wikipedia.org/wiki/WEEKEND_!!)から翻訳されています。
+> この記事は[WEEKEND ヤッホー!!](https://ja.wikipedia.org/wiki/WEEKEND_ヤッホー!!)から翻訳されています。
 
 
 **K-MIX WEEKEND ヤッホー\!\!**（ケイミックス・ウィークエンド- ）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-MIX）が土曜日11時00分 - 12時55分に放送していた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

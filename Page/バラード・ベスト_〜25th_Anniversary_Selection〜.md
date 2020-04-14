@@ -1,4 +1,4 @@
-> この記事は[ 25th Anniversary Selection](https://ja.wikipedia.org/wiki/_25th_Anniversary_Selection)から翻訳されています。
+> この記事は[バラード・ベスト 〜25th Anniversary Selection〜](https://ja.wikipedia.org/wiki/バラード・ベスト_〜25th_Anniversary_Selection〜)から翻訳されています。
 
 
 『**バラード・ベスト 〜25th Anniversary Selection〜**』（バラード・ベスト トゥエンティフィフス・アニバーサリー・セレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のバラード・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。このアルバムは2007年3月28日に[ユニバーサルシグマよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1223, CD+[DVD](../Page/DVD.md "wikilink"): UMCK-9177)。

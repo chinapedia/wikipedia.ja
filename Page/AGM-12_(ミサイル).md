@@ -1,4 +1,4 @@
-> この記事は[AGM-12 \(\)](https://ja.wikipedia.org/wiki/AGM-12_\(\))から翻訳されています。
+> この記事は[AGM-12 \(ミサイル\)](https://ja.wikipedia.org/wiki/AGM-12_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AGM-12 ブルパップ | 画像=Image:AGM-12D Bullpup missile on display at Air Force Armament Museum.jpg | キャプション=アメリカ空軍兵器博物館に展示されているAGM-12D | 用途=対地攻撃（橋梁、発電所等固定目標） | 分類=[空対地ミサイル](../Page/空対地ミサイル.md "wikilink") | 設計者= | 製造者=[マーティン・マリエッタ](../Page/マーティン・マリエッタ.md "wikilink") | 運用者 more=

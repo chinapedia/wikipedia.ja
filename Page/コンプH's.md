@@ -1,4 +1,4 @@
-> この記事は[H\'s](https://ja.wikipedia.org/wiki/H\'s)から翻訳されています。
+> この記事は[コンプH\'s](https://ja.wikipedia.org/wiki/コンプH\'s)から翻訳されています。
 
 
 『**コンプH's**』（コンプヒロインズ）は、[角川書店](../Page/角川書店.md "wikilink")より[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで刊行されていた、[アニメ](../Page/アニメ.md "wikilink")を中心とした[美少女](../Page/美少女.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")雑誌。

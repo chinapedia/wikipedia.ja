@@ -1,7 +1,7 @@
-> この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
+> この記事は[SBCドリームナイター](https://ja.wikipedia.org/wiki/SBCドリームナイター)から翻訳されています。
 
 
-**SBCドリームナイター**（エスビーシードリームナイター）は、[日本プロ野球（NPB）レギュラーシーズン中](https://ja.wikipedia.org/wiki/NPB "wikilink")（基本として4- 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")ラジオ（SBC）で放送されているNPBの[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継である。
+**SBCドリームナイター**（エスビーシードリームナイター）は、[日本プロ野球（NPB）レギュラーシーズン中](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（基本として4- 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")ラジオ（SBC）で放送されているNPBの[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継である。
 
 正式には、タイトルの最後に、放送年の西暦を表す4桁の数字が付く（2016年度を除く）。2002年度までのタイトルは、**SBCダイナミックナイター**（エスビーシーダイナミックナイター）だった。
 
@@ -106,12 +106,12 @@
   - [オールスターゲームは開催曜日に合わせたネットワークで放送する](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")（2010年は土曜はNRN）。[日本シリーズは中断](../Page/日本選手権シリーズ.md "wikilink")、再開を繰り返した結果、2011年の中継は行わないことになった。なお、その日本シリーズ中継は、原則として開催曜日に合わせたネットワークで放送していたが（2010年は土曜はNRN、日曜はJRN）、関東発（NRNライン受け持ち日のみ）・近畿発の中継担当局がレギュラーシーズンのパターンとは異なっていた。
   - [長野オリンピックスタジアム](../Page/長野オリンピックスタジアム.md "wikilink")や[松本市野球場](../Page/松本市野球場.md "wikilink")での開催ゲームは、基本的には全国中継の対象になった場合のみ中継しているが、2010年代からは全国中継の予定がない場合でも、関与するチームの地元局等からのネット受け等で賄える場合には中継する場合がある。
       - 2012年は8月12日の「DeNA×中日」と8月14日の「DeNA×阪神」を中継。8月12日の「DeNA×中日」は日曜開催であるが特例で19:00から中継した。ここで、日曜ナイターのレギュラー放送終了時点ではJRN受けであり、現在もJRNのワイド番組を一部ネットしていることからJRNラインを採用するが、本来の制作担当局であるTBSラジオはCBCに中継制作を委託（解説者はCBC・TBS R\&C兼任の[牛島和彦](../Page/牛島和彦.md "wikilink")が担当）していたため、CBCの中継をネットした（ちなみに前日の甲府での同カードは通常通り土曜NRNナイターとしてQRから受けていた）。一方、8月14日の「DeNA×阪神」も、JRN本番カードがナゴヤドームの「中日×巨人」であったことから、TBSラジオは自社で直接放送体制を取らずにABCの乗り込み制作分に技術協力の上JRN予備中継扱いとしたため、SBCは[ABCの中継をネットした](../Page/ABCフレッシュアップベースボール.md "wikilink")。このときの解説は[福本豊](../Page/福本豊.md "wikilink")、実況はABCの[楠淳生](../Page/楠淳生.md "wikilink")アナで放送された。
-      - 一方、2014年は9月2日（火曜日）の「巨人×広島」は巨人戦ではあるものの、当該カードは放送権料や出張費の節減の観点から、JRNとしては全国放送の対象から外れ、予備順位も最後尾となっていた（同日のJRN本番カードはABC制作の「阪神×DeNA」。ビジターの地元のRCCのみTBSラジオからの裏送りで放送）。当初はSBCの番組表でも放送予定と記載されていたが、費用の問題や、RCCが聴取率調査週間を組んでいたなどの諸事情からか断念され、結局は「阪神×DeNA」のネット受けとなった。一方のNRNではニッポン放送（LF）の制作による全国ネット本番カードとされているが、こちらへの切り替えもされなかった（火曜日の場合、1局地域のクロスネット局はJRNナイターを優先している上、NRN単独加盟局は[MBS](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[SF](../Page/東海ラジオ放送.md "wikilink")・[KBC](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")・[STVが地元球団優先で](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[IBS](../Page/茨城放送.md "wikilink")・[CRT](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS](../Page/京都放送.md "wikilink")・[ROKが野球中継を編成しないため](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")、結果的はLFの単独放送となった）。ちなみに当該カードはSBCではなく、日本テレビ系列テレビ局のテレビ信州が共催となっている（巨人主催ゲームは読売新聞社・報知新聞社・日本テレビの主催で開催されるため、現地の日本テレビ系列局が共催または後援することが多い〔地元新聞社や、読売新聞と資本関係のある系列外局が後援で参加することがある〕）。
+      - 一方、2014年は9月2日（火曜日）の「巨人×広島」は巨人戦ではあるものの、当該カードは放送権料や出張費の節減の観点から、JRNとしては全国放送の対象から外れ、予備順位も最後尾となっていた（同日のJRN本番カードはABC制作の「阪神×DeNA」。ビジターの地元のRCCのみTBSラジオからの裏送りで放送）。当初はSBCの番組表でも放送予定と記載されていたが、費用の問題や、RCCが聴取率調査週間を組んでいたなどの諸事情からか断念され、結局は「阪神×DeNA」のネット受けとなった。一方のNRNではニッポン放送（LF）の制作による全国ネット本番カードとされているが、こちらへの切り替えもされなかった（火曜日の場合、1局地域のクロスネット局はJRNナイターを優先している上、NRN単独加盟局は[MBS](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[SF](../Page/東海ラジオ放送.md "wikilink")・[KBC](../Page/KBCラジオ.md "wikilink")・[STVが地元球団優先で](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[IBS](../Page/茨城放送.md "wikilink")・[CRT](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS](../Page/京都放送.md "wikilink")・[ROKが野球中継を編成しないため](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")、結果的はLFの単独放送となった）。ちなみに当該カードはSBCではなく、日本テレビ系列テレビ局のテレビ信州が共催となっている（巨人主催ゲームは読売新聞社・報知新聞社・日本テレビの主催で開催されるため、現地の日本テレビ系列局が共催または後援することが多い〔地元新聞社や、読売新聞と資本関係のある系列外局が後援で参加することがある〕）。
       - 2015年6月23日（火曜日）の「広島×阪神」は、当初からJRN本番カード（RCC制作）となっていたが、SBCはRCC制作の音源をベースに、「坂ちゃんきっしーのドリームスタジアム」と題した自社独自のスタンドリポート（広島サイドは[岸田奈緒美](https://ja.wikipedia.org/wiki/岸田奈緒美 "wikilink")、阪神サイドは[坂橋克明](../Page/坂橋克明.md "wikilink")が担当）を交えて放送した。しかし、途中で降雨による中断を挟み、さらに延長戦に縺れるなど試合が長時間に渡ったうえ、SBCは延長枠の拡大を行わなかったため、ゲームセットまで伝えることはできなかった。
 
 ## 脚注
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:信越放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:信越放送のラジオ番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:信越放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:信越放送のラジオ番組 "wikilink")
 
 1.  『[スポーツ伝説](https://ja.wikipedia.org/wiki/スポーツ伝説 "wikilink")』（ニッポン放送制作）を後枠で編成していた2015年度までは、最大で21:50まで延長。
 2.  JRN（TBSラジオ）ネットの時はヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

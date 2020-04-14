@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[K中間子](https://ja.wikipedia.org/wiki/K中間子)から翻訳されています。
 
 
 **K中間子**（ケーちゅうかんし、、**ケーオン**）は、[1947年](../Page/1947年.md "wikilink")に[ジョージ・ロチェスター](https://ja.wikipedia.org/wiki/ジョージ・ロチェスター "wikilink")と[クリフォード・バトラー](https://ja.wikipedia.org/wiki/クリフォード・バトラー "wikilink")により[宇宙線](../Page/宇宙線.md "wikilink")の中から発見された[中間子](../Page/中間子.md "wikilink")の一つ。[霧箱](../Page/霧箱.md "wikilink")の中でV字の飛跡を残す「奇妙な粒子」として発見された。[1964年](../Page/1964年.md "wikilink")には中性K中間子の崩壊過程で[CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")が初めて観測され、この業績で[ジェイムズ・クローニン](../Page/ジェイムズ・クローニン.md "wikilink")と[ヴァル・フィッチ](../Page/ヴァル・フィッチ.md "wikilink")は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を受賞した。

@@ -1,4 +1,4 @@
-> この記事は[CAM](https://ja.wikipedia.org/wiki/CAM)から翻訳されています。
+> この記事は[CAMシップ](https://ja.wikipedia.org/wiki/CAMシップ)から翻訳されています。
 
 
 *'CAMシップ **（Catapult Aircraft Merchant Ship）または**[カタパルト](../Page/カタパルト.md "wikilink")装備商船*'とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用したカタパルトを装備し[航空機](../Page/航空機.md "wikilink")1機を搭載可能にした商船の事である。

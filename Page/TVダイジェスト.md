@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVダイジェスト](https://ja.wikipedia.org/wiki/TVダイジェスト)から翻訳されています。
 
 
 『**TVダイジェスト**』（テレビダイジェスト）は、[テレビ朝日系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。テレビ朝日系列局では[1994年](../Page/1994年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

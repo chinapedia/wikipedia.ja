@@ -1,4 +1,4 @@
-> この記事は[NEVER END \(SIAM SHADE\)](https://ja.wikipedia.org/wiki/NEVER_END_\(SIAM_SHADE\))から翻訳されています。
+> この記事は[NEVER END \(SIAM SHADEの曲\)](https://ja.wikipedia.org/wiki/NEVER_END_\(SIAM_SHADEの曲\))から翻訳されています。
 
 
 「**NEVER END**」（ネヴァーエンド）は、[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")にリリース。

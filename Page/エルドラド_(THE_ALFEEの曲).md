@@ -1,4 +1,4 @@
-> この記事は[ \(THE ALFEE\)](https://ja.wikipedia.org/wiki/_\(THE_ALFEE\))から翻訳されています。
+> この記事は[エルドラド \(THE ALFEEの曲\)](https://ja.wikipedia.org/wiki/エルドラド_\(THE_ALFEEの曲\))から翻訳されています。
 
 
 『**エルドラド**』は、[1994年](../Page/1994年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に発売された、日本のバンド、[THE ALFEEの通算](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")42枚目のシングル（41枚目の『冒険者たち』と同時発売だが、便宜上こちらが後とされる）。品番：PCDA-00653。

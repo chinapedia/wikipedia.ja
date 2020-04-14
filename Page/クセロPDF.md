@@ -1,4 +1,4 @@
-> この記事は[PDF](https://ja.wikipedia.org/wiki/PDF)から翻訳されています。
+> この記事は[クセロPDF](https://ja.wikipedia.org/wiki/クセロPDF)から翻訳されています。
 
 
 **クセロPDF**とは[クセロ](https://ja.wikipedia.org/wiki/クセロ "wikilink")社が開発した日本語対応の[PDF生成プリンタドライバで](../Page/Portable_Document_Format.md "wikilink")、仮想プリンタとして機能する。関連製品として、有償の「[瞬簡PDF作成](https://ja.wikipedia.org/wiki/PDFスイート "wikilink")」などがある。なお、株式会社クセロの事業は、2009年4月に[アンテナハウス](../Page/アンテナハウス.md "wikilink")社に譲渡\[1\]され、「瞬簡PDF作成」はアンテナハウスから販売されている\[2\]。

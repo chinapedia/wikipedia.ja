@@ -1,4 +1,4 @@
-> この記事は[NHK ](https://ja.wikipedia.org/wiki/NHK_)から翻訳されています。
+> この記事は[NHK特集 大黄河](https://ja.wikipedia.org/wiki/NHK特集_大黄河)から翻訳されています。
 
 
 『**NHK特集 大黄河**』（エヌエイチケイとくしゅう だいこうが）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に『[NHK特集](../Page/NHKスペシャル.md "wikilink")』枠内で放送した[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。

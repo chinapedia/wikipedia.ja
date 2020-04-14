@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[君はTVっ子](https://ja.wikipedia.org/wiki/君はTVっ子)から翻訳されています。
 
 
 「**君はTVっ子**」（きみはテレビっこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1989年](../Page/1989年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発表した1stシングル。1stオリジナルアルバム『[A PEACETIME BOOM](../Page/A_PEACETIME_BOOM.md "wikilink")』と同時発売された。

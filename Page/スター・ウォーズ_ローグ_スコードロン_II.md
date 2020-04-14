@@ -1,4 +1,4 @@
-> この記事は[   II](https://ja.wikipedia.org/wiki/___II)から翻訳されています。
+> この記事は[スター・ウォーズ ローグ スコードロン II](https://ja.wikipedia.org/wiki/スター・ウォーズ_ローグ_スコードロン_II)から翻訳されています。
 
 
 『**スター・ウォーズ ローグ スコードロン II**』（スター・ウォーズ ローグ スコードロン ツー）はエレクトロニック・アーツ・スクウェア（現[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")）より発売された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。原題は『Star Wars Rogue Squadron II: Rogue Leader』。
@@ -218,8 +218,9 @@
 
 ## 外部リンク
 
-  - [エレクトロニック・アーツ - スター・ウォーズ ローグ スコードロン II](http://www.japan.ea.com/rogueleader/)
+  -
   - [任天堂 - スター・ウォーズ ローグ スコードロン II](http://www.nintendo.co.jp/ngc/software/gswj/)
+
   - [ドルビーラボラトリーズ - スター・ウォーズ ローグ スコードロン II ファクター5インタビュー](http://www.dolby.co.jp/consumer/games/gamecreation02.html)
 
 [sv:Datorspel baserade på Star Wars\#Star Wars: Rogue Squadron](https://ja.wikipedia.org/wiki/sv:Datorspel_baserade_på_Star_Wars#Star_Wars:_Rogue_Squadron "wikilink")

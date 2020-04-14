@@ -14,7 +14,7 @@ JNDI APIには以下のものが含まれる。
   - 要素がいつ更新されたかをクライアントに通知するイベントインターフェース
   - [LDAPの追加要件に対応するLDAP拡張](../Page/Lightweight_Directory_Access_Protocol.md "wikilink")
 
-SPIにより、以下のようなあらゆるネーミグ・サービスやディレクトリ・サービスに対応している。
+SPIにより、以下のようなあらゆるネーミング・サービスやディレクトリ・サービスに対応している。
 
   - [LDAP](../Page/Lightweight_Directory_Access_Protocol.md "wikilink")
   - [DNS](../Page/Domain_Name_System.md "wikilink")

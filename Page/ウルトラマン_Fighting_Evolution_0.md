@@ -1,4 +1,4 @@
-> この記事は[ Fighting Evolution 0](https://ja.wikipedia.org/wiki/_Fighting_Evolution_0)から翻訳されています。
+> この記事は[ウルトラマン Fighting Evolution 0](https://ja.wikipedia.org/wiki/ウルトラマン_Fighting_Evolution_0)から翻訳されています。
 
 
 『**ウルトラマン Fighting Evolution 0**』（-ファイティングエボリューション ゼロ）は[ウルトラマンシリーズ](https://ja.wikipedia.org/wiki/ウルトラマンシリーズ "wikilink")を題材としたバトルアクションゲームである。『[ウルトラマン Fighting Evolution](../Page/ウルトラマン_Fighting_Evolution.md "wikilink")』シリーズを流れを汲み、同年に公開された映画と連動したストーリーとなっている。[バンプレスト](../Page/バンプレスト.md "wikilink")最後の[PlayStation Portable用のゲームタイトルであった](../Page/PlayStation_Portable.md "wikilink")\[1\]。

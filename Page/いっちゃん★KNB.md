@@ -1,4 +1,4 @@
-> この記事は[KNB](https://ja.wikipedia.org/wiki/KNB)から翻訳されています。
+> この記事は[いっちゃん★KNB](https://ja.wikipedia.org/wiki/いっちゃん★KNB)から翻訳されています。
 
 
 『**いっちゃん★KNB**』（いっちゃん★ケイエヌビー、[通称](../Page/通称.md "wikilink")：**いっちゃん**）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")\[1\]から放送されている[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。
@@ -19,10 +19,11 @@
 
 ## 放送時間
 
-| 期間       | 放送時間（[JST](../Page/日本標準時.md "wikilink")） | ローカル枠                    |
-| -------- | ---------------------------------------- | ------------------------ |
-| 2007.4.2 | 2017.3.31                                | 16:25 - 18:55（150分）\[2\] |
-| 2017.4.3 | 現在                                       | 16:23 - 18:55（152分）\[3\] |
+| 期間             | 放送時間（[JST](../Page/日本標準時.md "wikilink")） | ローカル枠                    |
+| -------------- | ---------------------------------------- | ------------------------ |
+| 2007.4.2       | 2017.3.31                                | 16:25 - 18:55（150分）\[2\] |
+| 2017.4.3       | 2020.3.27                                | 16:23 - 18:55（152分）\[3\] |
+| 2020.3.30\[4\] | 現在                                       | 16:20 - 18:55（155分）\[5\] |
 
 ## 出演者
 
@@ -32,8 +33,8 @@
 
 <!-- end list -->
 
-  - [上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）\[4\]
-  - [柴田泰佳](https://ja.wikipedia.org/wiki/柴田泰佳 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [月曜日](../Page/月曜日.md "wikilink") - [水曜日](../Page/水曜日.md "wikilink")）\[5\]
+  - [上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）\[6\]
+  - [柴田泰佳](https://ja.wikipedia.org/wiki/柴田泰佳 "wikilink")（[2014年](../Page/2014年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [月曜日](../Page/月曜日.md "wikilink") - [水曜日](../Page/水曜日.md "wikilink")）\[7\]
   - [柳川明子](https://ja.wikipedia.org/wiki/柳川明子 "wikilink")（[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [木曜日](../Page/木曜日.md "wikilink")・[金曜日](../Page/金曜日.md "wikilink")）
 
 <!-- end list -->
@@ -88,7 +89,7 @@
 <!-- end list -->
 
   - [数家直樹](../Page/数家直樹.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - 、[KNBニュースプラス1](../Page/KNBニュースプラス1.md "wikilink") → [KNB Newsリアルタイムから続投](../Page/KNB_Newsリアルタイム.md "wikilink")。）
-  - [武道優美子](../Page/武道優美子.md "wikilink")（2014年[1月6日](../Page/1月6日.md "wikilink") - ）\[6\]
+  - [武道優美子](../Page/武道優美子.md "wikilink")（2014年[1月6日](../Page/1月6日.md "wikilink") - ）\[8\]
 
 <!-- end list -->
 
@@ -117,10 +118,10 @@
   - [小林淳子](../Page/小林淳子.md "wikilink")（2007年4月2日 - 2008年[10月3日](../Page/10月3日.md "wikilink")）
   - [武部知春](../Page/武部知春.md "wikilink")（2008年10月6日 - 2009年[3月27日](../Page/3月27日.md "wikilink")）
   - [荒瀬洋太](../Page/荒瀬洋太.md "wikilink")（2009年3月30日 - 2011年4月1日）
-  - 武道優美子（2009年[3月30日](../Page/3月30日.md "wikilink") - 2013年12月27日）\[7\]
-  - [松平寛未](https://ja.wikipedia.org/wiki/松平寛未 "wikilink")（[2012年](../Page/2012年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - 2014年3月28日、木曜日・金曜日）\[8\]
+  - 武道優美子（2009年[3月30日](../Page/3月30日.md "wikilink") - 2013年12月27日）\[9\]
+  - [松平寛未](https://ja.wikipedia.org/wiki/松平寛未 "wikilink")（[2012年](../Page/2012年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - 2014年3月28日、木曜日・金曜日）\[10\]
   - [舟本真理](https://ja.wikipedia.org/wiki/舟本真理 "wikilink")（2014年[3月31日](../Page/3月31日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）
-  - [粟島佳奈子](https://ja.wikipedia.org/wiki/粟島佳奈子 "wikilink")（[2015年](../Page/2015年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")、月曜日・火曜日）\[9\]
+  - [粟島佳奈子](https://ja.wikipedia.org/wiki/粟島佳奈子 "wikilink")（[2015年](../Page/2015年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")、月曜日・火曜日）\[11\]
 
 <!-- end list -->
 
@@ -130,7 +131,7 @@
 
   - [相本芳彦](../Page/相本芳彦.md "wikilink")
   - [山村美樹](https://ja.wikipedia.org/wiki/山村美樹 "wikilink")
-  - [栂安亜紀](../Page/栂安亜紀.md "wikilink")\[10\]
+  - [栂安亜紀](../Page/栂安亜紀.md "wikilink")\[12\]
   - 百瀬由璃絵
   - 庄司幸寛
       - 上野アナが高校サッカー取材・中継等で不在の場合は、ピンチヒッターを務めていた。
@@ -142,8 +143,8 @@
 <!-- end list -->
 
   - [梅田恵子](../Page/梅田恵子.md "wikilink")（2007年[4月2日](../Page/4月2日.md "wikilink") - 2008年10月3日）
-  - 小林淳子（2008年[10月6日](../Page/10月6日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月27日）\[11\]
-  - 柳川明子（2010年[3月29日](../Page/3月29日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")12月27日）\[12\]
+  - 小林淳子（2008年[10月6日](../Page/10月6日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月27日）\[13\]
+  - 柳川明子（2010年[3月29日](../Page/3月29日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")12月27日）\[14\]
 
 <!-- end list -->
 
@@ -300,12 +301,14 @@
 1.  『富山新聞』2007年4月2日付、テレビ欄。
 2.  17:53 - 18:15に「news every.」第2部のNNN枠を内包。
 3.  17:53 - 18:15に「news every.」第2部のNNN枠を内包。
-4.  1期目は、2007年4月2日 - [2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで担当した。
-5.  2012年4月からは産休のため一時降板。産休前にも木曜日・金曜日のMCを担当。
-6.  2013年12月までは前半部のMCを担当。
-7.  柴田泰佳が木曜日・金曜日MCになる前は、月曜日 - 金曜日MCだった。
-8.  2012年3月まで、中継レポーターを担当した。
-9.  2015年3月26日までは木曜日のリポーターを担当。
-10. 2008年[9月](../Page/9月.md "wikilink")を以って北日本放送を寿退社している。
-11. 2012年4月より産休のため降板。
-12. 2010年3月29日 - 2012年3月30日まではフィールドキャスターとして担当していた。2014年1月より産休のため降板。
+4.  『北日本新聞 週間テレビガイド』（2020年3月27日発行）8 - 12ページ。
+5.  17:53 - 18:15に「news every.」第2部のNNN枠を内包。
+6.  1期目は、2007年4月2日 - [2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで担当した。
+7.  2012年4月からは産休のため一時降板。産休前にも木曜日・金曜日のMCを担当。
+8.  2013年12月までは前半部のMCを担当。
+9.  柴田泰佳が木曜日・金曜日MCになる前は、月曜日 - 金曜日MCだった。
+10. 2012年3月まで、中継レポーターを担当した。
+11. 2015年3月26日までは木曜日のリポーターを担当。
+12. 2008年[9月](../Page/9月.md "wikilink")を以って北日本放送を寿退社している。
+13. 2012年4月より産休のため降板。
+14. 2010年3月29日 - 2012年3月30日まではフィールドキャスターとして担当していた。2014年1月より産休のため降板。

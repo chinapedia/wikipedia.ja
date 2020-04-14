@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[スタンダードRPGシステム](https://ja.wikipedia.org/wiki/スタンダードRPGシステム)から翻訳されています。
 
 
 **スタンダードRPGシステム**とは、[ファーイースト・アミューズメント・リサーチ](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")（F.E.A.R.）が[2006年](../Page/2006年.md "wikilink")に発表した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のルール体系のことである。略称は**SRS**。『[アルシャード](../Page/アルシャード.md "wikilink")』シリーズ、『[天羅WAR](../Page/天羅WAR.md "wikilink")』、『[世界樹の迷宮SRS](https://ja.wikipedia.org/wiki/世界樹の迷宮SRS "wikilink")』他、多数のゲームの基幹システムとして使用されている。

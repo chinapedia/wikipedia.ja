@@ -1,4 +1,4 @@
-> この記事は[A.J.](https://ja.wikipedia.org/wiki/A.J.)から翻訳されています。
+> この記事は[A.J.ピアジンスキー](https://ja.wikipedia.org/wiki/A.J.ピアジンスキー)から翻訳されています。
 
 
 **アンソニー・ジョン・ピアジンスキー**（**Anthony John Pierzynski** , [1976年](../Page/1976年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ブリッジハンプトン](https://ja.wikipedia.org/wiki/ブリッジハンプトン "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[捕手](../Page/捕手.md "wikilink")）。右投左打。[ポーランド系アメリカ人](../Page/ポーランド系アメリカ人.md "wikilink")である。また、[TNAに所属し](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")としての活動も行なっていた。

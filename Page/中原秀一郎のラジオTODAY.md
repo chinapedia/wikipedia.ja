@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[中原秀一郎のラジオTODAY](https://ja.wikipedia.org/wiki/中原秀一郎のラジオTODAY)から翻訳されています。
 
 
 **中原秀一郎のラジオTODAY**（なかはらひでいちろうのらじおとぅでぃ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")にかけて[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で平日夕方に放送されていた情報番組。

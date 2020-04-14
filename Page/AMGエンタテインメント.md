@@ -1,4 +1,4 @@
-> この記事は[AMG](https://ja.wikipedia.org/wiki/AMG)から翻訳されています。
+> この記事は[AMGエンタテインメント](https://ja.wikipedia.org/wiki/AMGエンタテインメント)から翻訳されています。
 
 
 **AMGエンタテインメント**は、[アミューズメントメディア総合学院](../Page/アミューズメントメディア総合学院.md "wikilink")の映像事業部門。主に[アニメ](../Page/アニメ.md "wikilink")や[ドラマ](../Page/ドラマ.md "wikilink")、音楽の[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")・[供給](https://ja.wikipedia.org/wiki/供給 "wikilink")を行っている。

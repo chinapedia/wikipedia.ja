@@ -45,4 +45,4 @@
   - [ベイブスターレーベル](http://www.babestar.net/)
   - [9 nine](http://www.lespros.co.jp/jclass/nine/index.html)
 
-[Category:9nine](https://ja.wikipedia.org/wiki/Category:9nine "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink")
+[Category:9nineのアルバム](https://ja.wikipedia.org/wiki/Category:9nineのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink")

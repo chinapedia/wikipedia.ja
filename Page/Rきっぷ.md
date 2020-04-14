@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[Rきっぷ](https://ja.wikipedia.org/wiki/Rきっぷ)から翻訳されています。
 
 
 [R_kippu_(train_ticket).jpg](https://ja.wikipedia.org/wiki/File:R_kippu_\(train_ticket\).jpg "fig:R_kippu_(train_ticket).jpg") Rきっぷ（[マルス発行](../Page/マルス_\(システム\).md "wikilink")）\]\] **指定席往復割引きっぷ(Rきっぷ)**（アールきっぷ）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が発売する[特別企画乗車券](../Page/特別企画乗車券.md "wikilink")。[特急列車往復タイプの商品で](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")、[普通車](../Page/普通車_\(鉄道車両\).md "wikilink")[指定席が利用できる](../Page/座席指定席.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内の比較的遠隔な主要[都市](../Page/都市.md "wikilink")間に区間が設定されている。

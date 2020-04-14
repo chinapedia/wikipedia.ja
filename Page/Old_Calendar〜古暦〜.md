@@ -1,4 +1,4 @@
-> この記事は[Old Calendar](https://ja.wikipedia.org/wiki/Old_Calendar)から翻訳されています。
+> この記事は[Old Calendar〜古暦〜](https://ja.wikipedia.org/wiki/Old_Calendar〜古暦〜)から翻訳されています。
 
 
 『**Old Calendar〜古暦〜**』（オールド カレンダー）は、[風の最初で最後の](https://ja.wikipedia.org/wiki/風_\(歌手\) "wikilink")[ベスト盤である](../Page/ベスト・アルバム.md "wikilink")。Disc 1は全曲新アレンジによる新録音（ただし、1は初めての録音）。Disc2も2,3,5,8は新アレンジで、他にヴォーカルの新録音も含まれている。Disc 1のボーカルは[伊勢正三](../Page/伊勢正三.md "wikilink")、Disc 2のボーカルは[大久保一久](../Page/大久保一久.md "wikilink")である。

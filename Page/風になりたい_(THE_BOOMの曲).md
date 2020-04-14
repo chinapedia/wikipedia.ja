@@ -1,4 +1,4 @@
-> この記事は[ \(THE BOOM\)](https://ja.wikipedia.org/wiki/_\(THE_BOOM\))から翻訳されています。
+> この記事は[風になりたい \(THE BOOMの曲\)](https://ja.wikipedia.org/wiki/風になりたい_\(THE_BOOMの曲\))から翻訳されています。
 
 
 「**風になりたい**」（かぜになりたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発表した16枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[OKINAWA](https://ja.wikipedia.org/wiki/OKINAWA)から翻訳されています。
+> この記事は[OKINAWA〜ワタシノシマ〜](https://ja.wikipedia.org/wiki/OKINAWA〜ワタシノシマ〜)から翻訳されています。
 
 
 『**OKINAWA〜ワタシノシマ〜**』（オキナワ-ワタシノシマ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが発表した](../Page/THE_BOOM.md "wikilink")10thオリジナル・アルバム。[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")発売。

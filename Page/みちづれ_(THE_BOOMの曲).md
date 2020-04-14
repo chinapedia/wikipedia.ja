@@ -1,4 +1,4 @@
-> この記事は[ \(THE BOOM\)](https://ja.wikipedia.org/wiki/_\(THE_BOOM\))から翻訳されています。
+> この記事は[みちづれ \(THE BOOMの曲\)](https://ja.wikipedia.org/wiki/みちづれ_\(THE_BOOMの曲\))から翻訳されています。
 
 
 **みちづれ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1991年](../Page/1991年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発表した7thシングル。

@@ -25,7 +25,7 @@
 
 ## 音楽性
 
-好きな音楽ジャンルは[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[R\&Bで](../Page/リズム・アンド・ブルース.md "wikilink")、好きなアーティストは[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")、[Chic](../Page/シック_\(バンド\).md "wikilink")、KC&ザ・サンシャイン・バンド、[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[タワー・オブ・パワー](../Page/タワー・オブ・パワー.md "wikilink")、[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[マルーン5](../Page/マルーン5.md "wikilink")、ニベア、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[CRAZE](../Page/CRAZE.md "wikilink")、[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")、[アニタ・ベイカー](../Page/アニタ・ベイカー.md "wikilink")、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")\[2\]。
+好きな音楽ジャンルは[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[R\&Bで](../Page/リズム・アンド・ブルース.md "wikilink")、好きなアーティストは[ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")、[Chic](../Page/シック_\(バンド\).md "wikilink")、KC&ザ・サンシャイン・バンド、[ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[タワー・オブ・パワー](../Page/タワー・オブ・パワー.md "wikilink")、[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[マルーン5](../Page/マルーン5.md "wikilink")、ニベア、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[CRAZE](../Page/CRAZE.md "wikilink")、[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")、[アニタ・ベイカー](../Page/アニタ・ベイカー.md "wikilink")、[カニエ・ウェスト](../Page/カニエ・ウェスト.md "wikilink")、[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")\[2\]。
 
 ## 人物像
 

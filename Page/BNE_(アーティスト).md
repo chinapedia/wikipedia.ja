@@ -1,4 +1,4 @@
-> この記事は[BNE \(\)](https://ja.wikipedia.org/wiki/BNE_\(\))から翻訳されています。
+> この記事は[BNE \(アーティスト\)](https://ja.wikipedia.org/wiki/BNE_\(アーティスト\))から翻訳されています。
 
 
 **BNE**（ビーエヌイー）は、[アメリカ在住の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[グラフィティ](../Page/グラフィティ.md "wikilink")アーティストである。

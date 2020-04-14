@@ -1,4 +1,4 @@
-> この記事は[ BOYFRIEND](https://ja.wikipedia.org/wiki/_BOYFRIEND)から翻訳されています。
+> この記事は[笑っちゃおうよ BOYFRIEND](https://ja.wikipedia.org/wiki/笑っちゃおうよ_BOYFRIEND)から翻訳されています。
 
 
 「**笑っちゃおうよ BOYFRIEND**」（わらっちゃおうよ ボーイフレンド）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。

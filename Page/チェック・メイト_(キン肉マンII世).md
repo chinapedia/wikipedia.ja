@@ -1,4 +1,4 @@
-> この記事は[ \(II\)](https://ja.wikipedia.org/wiki/_\(II\))から翻訳されています。
+> この記事は[チェック・メイト \(キン肉マンII世\)](https://ja.wikipedia.org/wiki/チェック・メイト_\(キン肉マンII世\))から翻訳されています。
 
 
 **チェック・メイト**は、[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』および『[キン肉マンII世〜オール超人大進撃〜](../Page/キン肉マンII世〜オール超人大進撃〜.md "wikilink")』に登場する架空の人物。

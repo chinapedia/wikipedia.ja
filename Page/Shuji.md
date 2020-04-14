@@ -43,7 +43,7 @@
 ## 外部リンク
 
   - [shuji公式サイト](http://www.shuji-drums.com/)
-  - [Pearl Drums公式サイト](http://www.pearlgakki.com/drum/index.html/)
+  - [Pearl Drums公式サイト](https://www.pearlgakki.com/drum/index.php)
 
 [Category:日本のドラマー](https://ja.wikipedia.org/wiki/Category:日本のドラマー "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:Janne_Da_Arcのメンバー](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのメンバー "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

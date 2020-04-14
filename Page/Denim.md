@@ -509,6 +509,6 @@
 
 <references />
 
-[Category:竹内まりやのアルバム](https://ja.wikipedia.org/wiki/Category:竹内まりやのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ムーン・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ムーン・レーベルのアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink")
+[Category:竹内まりやのアルバム](https://ja.wikipedia.org/wiki/Category:竹内まりやのアルバム "wikilink") [Category:山下達郎がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎がプロデュースしたアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ムーン・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ムーン・レーベルのアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  [竹内まりや、26年ぶりテレビ“復帰”果たす！](http://www.oricon.co.jp/news/music/43811/)

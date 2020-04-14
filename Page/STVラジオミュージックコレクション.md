@@ -1,4 +1,4 @@
-> この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
+> この記事は[STVラジオミュージックコレクション](https://ja.wikipedia.org/wiki/STVラジオミュージックコレクション)から翻訳されています。
 
 
 『**STVラジオミュージックコレクション**』（エスティーブイラジオミュージックコレクション）とは、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")放送開始。

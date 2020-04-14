@@ -1,4 +1,4 @@
-> この記事は[BEAST BIND NEW TESTAMENT ](https://ja.wikipedia.org/wiki/BEAST_BIND_NEW_TESTAMENT_)から翻訳されています。
+> この記事は[BEAST BIND NEW TESTAMENT 新約・魔獣の絆](https://ja.wikipedia.org/wiki/BEAST_BIND_NEW_TESTAMENT_新約・魔獣の絆)から翻訳されています。
 
 
 『**BEAST BIND NEW TESTAMENT 新約・魔獣の絆**』（ビーストバインド ニューテスタメント しんやくまじゅうのきずな）は、現代を舞台とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) である。『[BEAST BIND 魔獣の絆 R.P.G](../Page/BEAST_BIND_魔獣の絆_R.P.G.md "wikilink")』の続編に当たる（本記事では、以後『BEAST BIND 魔獣の絆 R.P.G』を「前作」と記載する）。

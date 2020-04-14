@@ -1,4 +1,4 @@
-> この記事は[ FRACTIONS OF THE EARTH](https://ja.wikipedia.org/wiki/_FRACTIONS_OF_THE_EARTH)から翻訳されています。
+> この記事は[ガイスターズ FRACTIONS OF THE EARTH](https://ja.wikipedia.org/wiki/ガイスターズ_FRACTIONS_OF_THE_EARTH)から翻訳されています。
 
 
 『**ガイスターズ FRACTIONS OF THE EARTH**』は、[2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系において毎週土曜日の朝7時30分から8時00分に放送された、[韓国の](../Page/大韓民国.md "wikilink")[張棕根](https://ja.wikipedia.org/wiki/張棕根 "wikilink")原作による日韓合作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全26話。
@@ -109,8 +109,8 @@
 <td><p>第1話</p></td>
 <td><p>戦いの代償</p></td>
 <td><p>安達成彦</p></td>
-<td><p>渡辺純央</p></td>
-<td><p>渡辺正彦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺純央" title="wikilink">渡辺純央</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺正彦" title="wikilink">渡辺正彦</a></p></td>
 <td><p>今泉照美</p></td>
 <td><p><strong>2001年</strong><br />
 10月6日</p></td>
@@ -119,7 +119,7 @@
 <td><p>第2話</p></td>
 <td><p>過去からの因縁</p></td>
 <td><blockquote>
-<p>大庭秀昭</p>
+<p><a href="https://ja.wikipedia.org/wiki/大庭秀昭" title="wikilink">大庭秀昭</a></p>
 </blockquote></td>
 <td><p>小山和弘</p></td>
 <td><p>10月13日</p></td>
@@ -131,7 +131,7 @@
 <td><p>シオルレジスタンス</p></td>
 <td><p>渡辺純央</p></td>
 <td><p>大庭秀昭</p></td>
-<td><p>大貫健一</p></td>
+<td><p><a href="../Page/大貫健一.md" title="wikilink">大貫健一</a></p></td>
 <td><p>10月20日</p></td>
 <td></td>
 </tr>
@@ -139,7 +139,7 @@
 <td><p>第4話</p></td>
 <td><p>姉妹の隔壁</p></td>
 <td><p>井上登紀子</p></td>
-<td><p>井砂清高</p></td>
+<td><p>井硲清高</p></td>
 <td><p>栗井重紀</p></td>
 <td><p>岩井優器</p></td>
 <td><p>10月27日</p></td>
@@ -148,7 +148,7 @@
 <td><p>第5話</p></td>
 <td><p>アルキオンの苦悩</p></td>
 <td><p>安達成彦</p></td>
-<td><p>橘正紀</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
 <td><p>上條修</p></td>
 <td><p>キム・イラベ</p></td>
 <td><p>11月3日</p></td>
@@ -183,7 +183,7 @@
 <tr class="odd">
 <td><p>第9話</p></td>
 <td><p>思念の流れ</p></td>
-<td><p>井砂清高</p></td>
+<td><p>井硲清高</p></td>
 <td><p>綾崎若菜</p></td>
 <td><p>村上勉</p></td>
 <td><p>12月1日</p></td>
@@ -195,7 +195,7 @@
 <td><p>井上登紀子</p></td>
 <td><p>橘正紀</p></td>
 <td><p>花井信也</p></td>
-<td><p>今泉賢一</p></td>
+<td><p><a href="../Page/今泉賢一.md" title="wikilink">今泉賢一</a></p></td>
 <td><p>12月8日</p></td>
 </tr>
 <tr class="odd">
@@ -221,14 +221,14 @@
 <td><p>シャンバラの樹</p></td>
 <td><p>守岡博</p></td>
 <td><p>園田雅裕</p></td>
-<td><p>谷口守泰</p></td>
+<td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a></p></td>
 <td><p>12月29日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第14話</p></td>
 <td><p>ナムソスの裏切り</p></td>
-<td><p>井砂清高</p></td>
+<td><p>井硲清高</p></td>
 <td><p>北川正人</p></td>
 <td><p>清水博幸</p></td>
 <td><p><strong>2002年</strong><br />
@@ -261,7 +261,8 @@
 <td><blockquote>
 <p>佐藤修</p>
 </blockquote></td>
-<td><p>青木真理子 飯飼一幸</p></td>
+<td><p>青木真理子<br />
+飯飼一幸</p></td>
 <td><p>1月26日</p></td>
 <td></td>
 <td></td>
@@ -272,14 +273,16 @@
 <td><p>井上登紀子</p></td>
 <td><p>前島健一</p></td>
 <td><p>上條修</p></td>
-<td><p>チェ・プキョン チェ・キョウソギ</p></td>
+<td><p>チェ・プキョン<br />
+チェ・キョウソギ</p></td>
 <td><p>2月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>第19話</p></td>
 <td><p>ドビアス奪回</p></td>
 <td><p>安達成彦</p></td>
-<td><p>佐藤修 伊藤浩二</p></td>
+<td><p>佐藤修<br />
+伊藤浩二</p></td>
 <td><p>山内富夫</p></td>
 <td><p>飯飼一幸</p></td>
 <td><p>2月9日</p></td>
@@ -288,7 +291,7 @@
 <td><p>第20話</p></td>
 <td><p>ダークジェネシス</p></td>
 <td><p>井上登紀子</p></td>
-<td><p>矢吹勉</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/矢吹勉" title="wikilink">矢吹勉</a></p></td>
 <td><p>上條修</p></td>
 <td><p>大貫健一</p></td>
 <td><p>2月16日</p></td>
@@ -299,7 +302,7 @@
 <td><p>安達成彦</p></td>
 <td><p>原博</p></td>
 <td><p>岡崎幸男</p></td>
-<td><p>宇佐美皓一</p></td>
+<td><p><a href="../Page/宇佐美皓一.md" title="wikilink">宇佐美皓一</a></p></td>
 <td><p>2月23日</p></td>
 </tr>
 <tr class="even">
@@ -309,8 +312,8 @@
 <td><blockquote>
 <p>上條修</p>
 </blockquote></td>
-<td><p>チェ・プキョン</p>
-<p>チェ・キョンソク</p></td>
+<td><p>チェ・プキョン<br />
+チェ・キョンソク</p></td>
 <td><p>3月2日</p></td>
 <td></td>
 </tr>
@@ -345,8 +348,8 @@
 <td><p>第26話</p></td>
 <td><p>託された未来</p></td>
 <td><p>宮田亮</p></td>
-<td><p>今泉賢一</p>
-<p>伊藤浩二</p></td>
+<td><p>今泉賢一<br />
+伊藤浩二</p></td>
 <td><p>3月30日</p></td>
 <td></td>
 <td></td>

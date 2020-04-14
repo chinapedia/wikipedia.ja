@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[グレイシャルLOVE](https://ja.wikipedia.org/wiki/グレイシャルLOVE)から翻訳されています。
 
 
 「**グレイシャルLOVE**」（グレイシャルラヴ）は、[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")にリリース。

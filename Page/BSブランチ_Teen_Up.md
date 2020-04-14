@@ -1,4 +1,4 @@
-> この記事は[BS Teen Up](https://ja.wikipedia.org/wiki/BS_Teen_Up)から翻訳されています。
+> この記事は[BSブランチ Teen Up](https://ja.wikipedia.org/wiki/BSブランチ_Teen_Up)から翻訳されています。
 
 
 **BSブランチ Teen Up**（ビーエスブランチ ティーンアップ **''BS BRUNCH Teen Up**''）は、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[6月23日](../Page/6月23日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")**11:53～11:59**（以降、時刻表記はすべて[JST](../Page/日本標準時.md "wikilink")）に[BS-iで放送されていた](../Page/BS-TBS.md "wikilink")、[MEILIN](https://ja.wikipedia.org/wiki/MEILIN "wikilink")がMCの[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。。

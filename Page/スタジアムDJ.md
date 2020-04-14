@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[スタジアムDJ](https://ja.wikipedia.org/wiki/スタジアムDJ)から翻訳されています。
 
 
 **スタジアムDJ**とは、スポーツの試合の際、スタジアム（競技場）等において選手紹介や場内アナウンスを行う人のこと。
@@ -815,6 +815,6 @@
 1.  大前一樹の徒然歳時記～つれづれダイアリー～ 20080227
 2.  [ダニー石尾さんのご逝去と神戸戦での追悼セレモニーについて](http://www.so-net.ne.jp/antlers/news/release/42801)　-鹿島アントラーズオフィシャルサイト (2014年4月17日）参考
 3.  [1](https://twitter.com/fujiwararyo/status/572012991484309505)
-4.  以前は[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ソニー仙台FC](../Page/ソニー仙台FC.md "wikilink")やJリーグ[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")のスタジアムDJをしていた。
+4.  以前は[JFLの](../Page/日本フットボールリーグ.md "wikilink")[ソニー仙台FC](../Page/ソニー仙台FC.md "wikilink")やJリーグ[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")のスタジアムDJをしていた。
 5.  [スタジアムDJの世界で果たした「NPB入り」 vol.2](http://bb-nippon.com/ib/column/831-gene/9143-20150424no09gene) - 独立リーグドットコム（コラム第9回、2015年4月24日）
 6.  [スタジアムDJの世界で果たした「NPB入り」Vol.1](http://bb-nippon.com/ib/column/831-gene/9140-20150417no08gene) - 独立リーグドットコム（コラム第8回、2015年4月17日）

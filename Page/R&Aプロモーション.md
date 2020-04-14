@@ -1,4 +1,4 @@
-> この記事は[R\&A](https://ja.wikipedia.org/wiki/R\&A)から翻訳されています。
+> この記事は[R\&Aプロモーション](https://ja.wikipedia.org/wiki/R\&Aプロモーション)から翻訳されています。
 
 
 **R\&Aプロモーション**（アール・アンド・エー - ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[芸能事務所](../Page/芸能事務所.md "wikilink")。[1994年](../Page/1994年.md "wikilink")設立。

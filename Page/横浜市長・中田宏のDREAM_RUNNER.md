@@ -1,4 +1,4 @@
-> この記事は[DREAM RUNNER](https://ja.wikipedia.org/wiki/DREAM_RUNNER)から翻訳されています。
+> この記事は[横浜市長・中田宏のDREAM RUNNER](https://ja.wikipedia.org/wiki/横浜市長・中田宏のDREAM_RUNNER)から翻訳されています。
 
 
 **中田宏のDREAM RUNNER**（なかだひろしのドリームランナー）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは前[横浜市](../Page/横浜市.md "wikilink")[長の](https://ja.wikipedia.org/wiki/市長 "wikilink")[中田宏](../Page/中田宏.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")をもって市長を退任）。

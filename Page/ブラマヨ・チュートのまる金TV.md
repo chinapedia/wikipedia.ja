@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ブラマヨ・チュートのまる金TV](https://ja.wikipedia.org/wiki/ブラマヨ・チュートのまる金TV)から翻訳されています。
 
 
 **ブラマヨ・チュートのまる金TV**（ブラマヨ・チュートのまるきんてれび）は、[2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、毎週[金曜日](../Page/金曜日.md "wikilink")の24:50〜26:25に[読売テレビで放送されていた公開](../Page/讀賣テレビ放送.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[特別番組](../Page/特別番組.md "wikilink")の編成や『[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")』の拡大等で、遅延される場合もある）。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。

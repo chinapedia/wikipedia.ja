@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ピカゴロウV](https://ja.wikipedia.org/wiki/ピカゴロウV)から翻訳されています。
 
 
 『**ピカゴロウV**』は、[2007年](../Page/2007年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。[保通協における形式名は](../Page/保安通信協会.md "wikilink")「ピカゴロウV-B」。

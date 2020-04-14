@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[天地を喰らうII 諸葛孔明伝](https://ja.wikipedia.org/wiki/天地を喰らうII_諸葛孔明伝)から翻訳されています。
 
 
 『**天地を喰らうII 諸葛孔明伝**』（てんちをくらうツー しょかつこうめいでん）は、[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。

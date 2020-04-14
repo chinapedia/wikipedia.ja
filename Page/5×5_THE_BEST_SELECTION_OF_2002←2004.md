@@ -1,4 +1,4 @@
-> この記事は[55 THE BEST SELECTION OF 20022004](https://ja.wikipedia.org/wiki/55_THE_BEST_SELECTION_OF_20022004)から翻訳されています。
+> この記事は[5×5 THE BEST SELECTION OF 2002←2004](https://ja.wikipedia.org/wiki/5×5_THE_BEST_SELECTION_OF_2002←2004)から翻訳されています。
 
 
 『**5×5 THE BEST SELECTION OF 2002←2004**』（ファイヴ バイ ファイヴ ザ ベスト セレクション オブ ニゼロゼロヨン ニゼロゼロニ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")2作目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。

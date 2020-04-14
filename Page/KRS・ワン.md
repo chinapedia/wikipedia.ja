@@ -1,4 +1,4 @@
-> この記事は[KRS](https://ja.wikipedia.org/wiki/KRS)から翻訳されています。
+> この記事は[KRS・ワン](https://ja.wikipedia.org/wiki/KRS・ワン)から翻訳されています。
 
 
 **KRS・ワン**（KRS-One、本名：**ローレンス・パーカー**（Lawrence Parker）、[1965年](../Page/1965年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") - ）は[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。他に「クリス・パーカー」「ブラストマスター」「ティーチャ」「フィロソファーズ」などの別名を持つ。

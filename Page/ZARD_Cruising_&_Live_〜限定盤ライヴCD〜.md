@@ -1,4 +1,4 @@
-> この記事は[ZARD Cruising \& Live CD](https://ja.wikipedia.org/wiki/ZARD_Cruising_\&_Live_CD)から翻訳されています。
+> この記事は[ZARD Cruising \& Live 〜限定盤ライヴCD〜](https://ja.wikipedia.org/wiki/ZARD_Cruising_\&_Live_〜限定盤ライヴCD〜)から翻訳されています。
 
 
 『**ZARD Cruising & Live 〜限定盤ライヴCD〜**』（ザード・クルージング・アンド・ライブ・げんていばんライブシーディー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[ライブアルバムである](../Page/ライブ・アルバム.md "wikilink")。

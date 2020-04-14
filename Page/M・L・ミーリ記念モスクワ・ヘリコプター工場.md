@@ -1,4 +1,4 @@
-> この記事は[ML](https://ja.wikipedia.org/wiki/ML)から翻訳されています。
+> この記事は[M・L・ミーリ記念モスクワ・ヘリコプター工場](https://ja.wikipedia.org/wiki/M・L・ミーリ記念モスクワ・ヘリコプター工場)から翻訳されています。
 
 
 **M・L・ミーリ記念モスクワ・ヘリコプター工場**（ ）は、[ソ連および](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ロシア](../Page/ロシア.md "wikilink")に存在した[航空機](../Page/航空機.md "wikilink")メーカー。[カモフ](../Page/カモフ.md "wikilink")と並ぶロシアの代表的な[ヘリコプター](../Page/ヘリコプター.md "wikilink")製造メーカーであった。

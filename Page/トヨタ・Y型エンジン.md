@@ -1,4 +1,4 @@
-> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+> この記事は[トヨタ・Y型エンジン](https://ja.wikipedia.org/wiki/トヨタ・Y型エンジン)から翻訳されています。
 
 
 **トヨタ・Y型エンジン**（トヨタ・Yがたエンジン）は、[1982年](../Page/1982年.md "wikilink")（昭和57年）から製造されている[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。[トラック](../Page/貨物自動車.md "wikilink")・[バン](../Page/ライトバン.md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")向けなど、[商用車](../Page/商用車.md "wikilink")・[営業車](https://ja.wikipedia.org/wiki/営業車 "wikilink")に多く搭載されている。

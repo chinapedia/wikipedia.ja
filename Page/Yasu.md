@@ -46,7 +46,7 @@
         そのため、ラジオ「[REDNIQS](https://ja.wikipedia.org/wiki/REDNIQS "wikilink")」や、TV「[ミュージャック](../Page/ミュージャック.md "wikilink")」では、hydeに関する質問や話題を持ちかけられるのが定番になってきている。
         好きになったきっかけは、初めて観たライブが大阪城ホールで行われた[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブで、この時hydeを見て「こんなボーカリストになりたい」と思ったという（席はやや下手側スタンド席の前の方で「めっちゃ遠く感じた」と語っている）。hydeがJanne Da Arcのライブを観に来た際に、yasuは嬉しさのあまり舞い上がり、MCで「今日は僕の尊敬するhydeさんが観に来てくれました」などと発言し客席が騒然。後日hydeは自身のブログで当時のことを「もの凄い恥ずかしかった」と記している。
         雑誌のインタビューで、「『[ダイヤモンドヴァージン](../Page/ダイヤモンドヴァージン.md "wikilink")』以降のラブソングは、hydeさんを想って歌っている」と発言。過去のhydeのハロウィンライヴでhydeにほっぺにキスをされた際には、ファンの目も気にしない程の喜びようだった。yasuが音楽番組にゲスト出演した際に、hydeから番組に「始めは全然興味なかったけど、話してみたらすごくおもしろくて、yasu君がいないと飲みに行ってもつまらない」というメッセージが届き、満面の笑みではしゃいでいた。[2012年](../Page/2012年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")のhydeの誕生日には、Acid Black Cherry公式アカウントにて「Merry Japanese Christmas\!\!\!」と、（誕生日になぞらえて）1時29分に呟き、新曲『イエス』の歌詞「愛してる 愛してるよ」と続けて呟いた。普段からhydeを神と呼んでいるため、本人が公式ブログにてクリスマスに例えたという。また、Janne Da Arcのライブで以前、「[flower](https://ja.wikipedia.org/wiki/flower_\(L'Arc〜en〜Cielの曲\) "wikilink")」をコピー演奏した事がある。
-        2008年の自身の誕生日に行ったサプライズパーティーにhydeも参加した。2008年より、[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")主催のHALLOWEEN PARTYに毎回参加している（2009年はツアー・病気のため不参加）。
+        2008年の自身の誕生日に行ったサプライズパーティーにhydeも参加した。2008年より、[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")主催のHALLOWEEN PARTYに度々参加している（2009年はツアー・病気のため不参加）。
         [HYDEが結成したハロウィンバンド](https://ja.wikipedia.org/wiki/hyde "wikilink")[HALLOWEEN JUNKY ORCHESTRAに参加している](https://ja.wikipedia.org/wiki/HALLOWEEN_JUNKY_ORCHESTRA "wikilink")。
 
 <!-- end list -->

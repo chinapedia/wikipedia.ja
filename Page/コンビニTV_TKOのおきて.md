@@ -1,4 +1,4 @@
-> この記事は[TV TKO](https://ja.wikipedia.org/wiki/TV_TKO)から翻訳されています。
+> この記事は[コンビニTV TKOのおきて](https://ja.wikipedia.org/wiki/コンビニTV_TKOのおきて)から翻訳されています。
 
 
 『**コンビニTV TKOのおきて**』は、[1999年](../Page/1999年.md "wikilink")4月から[2000年](../Page/2000年.md "wikilink")9月まで[京都放送](../Page/京都放送.md "wikilink")（KBS京都テレビ）で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

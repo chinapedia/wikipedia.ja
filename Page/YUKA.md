@@ -165,6 +165,4 @@
 
 ## 外部リンク
 
-  - [YUKA（村石有香 旧姓佐藤）公式サイト](https://www.music-scene.jp/yuka-cafe/)
-
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:宮城県出身の人物](https://ja.wikipedia.org/wiki/Category:宮城県出身の人物 "wikilink")

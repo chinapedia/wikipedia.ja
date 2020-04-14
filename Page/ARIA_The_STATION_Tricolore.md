@@ -625,12 +625,18 @@
 ## 外部リンク
 
   - [インターネットラジオステーション＜音泉＞](http://onsen.ag/)
-  - [アニメイトTV WEB -Webラジオ-（animate.tv）](http://www.animate.tv/digital/web_radio/detail_070.html)
+
+  -
   - [Supporters community site BEWE](http://www.bewe.sc/index.php)
-  - [「ARIA The NATURAL」公式サイト](http://www.ariacompany.net/index.htm)
+
+  - [「ARIA The NATURAL」公式サイト](https://www.ariacompany.net/index.htm)
+
   - [株式会社マッグガーデン](http://www.mag-garden.co.jp/index.html)
-  - [松竹芸能会社](http://www.shochiku.co.jp/index.html)
-  - [COSPA](http://www.cospa.com/index.html)
+
+  - [松竹芸能会社](https://www.shochiku.co.jp/)
+
+  - [COSPA](https://www.cospa.com/index.html)
+
   - [少年アルケミスト 公式サイト](http://rkmg.jp/)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:アニメイトTV](https://ja.wikipedia.org/wiki/Category:アニメイトTV "wikilink") [Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink")

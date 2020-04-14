@@ -5,7 +5,11 @@
 
 番組タイトルは「**F**ighters」「**F**ield」「**F**act」「**F**ocus」「**F**an」の五つの「F」から来ている。
 
-2009年3月までは毎週[月曜](../Page/月曜日.md "wikilink")（[日曜](../Page/日曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）の0:40 - 0:55（[JST](../Page/日本標準時.md "wikilink")）だったが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より毎週[土曜](../Page/土曜日.md "wikilink") 9:30 - 9:50、[再放送](../Page/再放送.md "wikilink")は毎週月曜（日曜深夜） 0:40 - 1:00となった（再放送は当日HTBローカルの野球中継が16:00を過ぎた場合、16:00 - 17:25に予定されていたネット番組をこの時間帯に時差放送を行なうため、実質放送時間繰り下げでネット番組時差放送終了直後の放送に変更されるほか、HTBローカルの野球中継が早く終了して時間枠が20分以上余った場合の穴埋め番組として放送されることもある）。
+## 放送時間の変遷
+
+2009年3月までは毎週[月曜](../Page/月曜日.md "wikilink")（[日曜](../Page/日曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）の0:40 - 0:55（[JST](../Page/日本標準時.md "wikilink")）だったが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より毎週[土曜](../Page/土曜日.md "wikilink") 9:30 - 9:50、[再放送](../Page/再放送.md "wikilink")は毎週月曜（日曜深夜） 0:40 - 1:00（その後、毎週[金曜](../Page/金曜日.md "wikilink")([木曜深夜](../Page/木曜日.md "wikilink")) 1:28 - 1:58へ変更）となり、[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週日曜 11:30 - 11:50へ変更される（再放送は時間変更なし。）。
+
+また、HTBローカルの野球中継が16:00を過ぎた場合、16:00 - 17:25に予定されていたネット番組をこの時間帯に時差放送を行なうため、実質放送時間繰り下げでネット番組時差放送終了直後の放送に変更されるほか、HTBローカルの野球中継が早く終了して時間枠が20分以上余った場合の穴埋め番組として放送されることもある。
 
 ## 番組概要
 
@@ -160,7 +164,7 @@ Disk2「祝 2012パ・リーグ優勝スペシャルディスク」<br />
 
 ## 外部リンク
 
-  - [FFFFF（エフファイブ）](http://www.htb.co.jp/fffff/index.html) - 北海道テレビ放送
+  - [FFFFF（エフファイブ）](https://www.htb.co.jp/fffff/) - 公式サイト
 
   -
 [Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")

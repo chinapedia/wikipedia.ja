@@ -1,4 +1,4 @@
-> この記事は[Voice of A\&G !AM](https://ja.wikipedia.org/wiki/Voice_of_A\&G_!AM)から翻訳されています。
+> この記事は[Voice of A\&G 超ラジ!AM](https://ja.wikipedia.org/wiki/Voice_of_A\&G_超ラジ!AM)から翻訳されています。
 
 
 **Voice of A\&G 超ラジ\!AM**（ボイス・オブ・エーアンドジー ちょうラジ エーエム）は、[2007年](../Page/2007年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")で放送されていた[アニラジ](../Page/アニラジ.md "wikilink")番組である。[地上デジタルラジオ実用化試験の](../Page/地上デジタル音声放送.md "wikilink")、文化放送における宣伝広報番組としての役割を担った。

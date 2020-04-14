@@ -1,4 +1,4 @@
-> この記事は[! I AM ](https://ja.wikipedia.org/wiki/!_I_AM_)から翻訳されています。
+> この記事は[ブロードバンド!ニッポン I AM 上原奈美](https://ja.wikipedia.org/wiki/ブロードバンド!ニッポン_I_AM_上原奈美)から翻訳されています。
 
 
 **ブロードバンド\!ニッポン I AM 上原奈美**は[LFX mudigiの](../Page/LFX_mudigi.md "wikilink")[ブロードバンド\!ニッポン](../Page/ブロードバンド!ニッポン.md "wikilink")の[水曜日](../Page/水曜日.md "wikilink")で、[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[上原奈美](../Page/上原奈美.md "wikilink")が担当の番組。[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")放送終了。

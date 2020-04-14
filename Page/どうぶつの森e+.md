@@ -1,4 +1,4 @@
-> この記事は[e+](https://ja.wikipedia.org/wiki/e+)から翻訳されています。
+> この記事は[どうぶつの森e+](https://ja.wikipedia.org/wiki/どうぶつの森e+)から翻訳されています。
 
 
 『**どうぶつの森e+**』（どうぶつのもりイープラス）は、[任天堂](../Page/任天堂.md "wikilink")より発売されたコミュニケーションゲーム。[どうぶつの森シリーズ](https://ja.wikipedia.org/wiki/どうぶつの森シリーズ "wikilink")の第3作目。
@@ -65,8 +65,8 @@
 
 ## 外部リンク
 
-  - [どうぶつの森e+](http://www.nintendo.co.jp/ngc/gaej/) - 公式ホームページ
-  - [あたらしい楽しさがいっぱい！ 「どうぶつの森e+」がついにその姿をあらわす\!\!](https://www.nintendo.co.jp/nom/0306/index.html) - Nintendo Online Magazine 2003年6月号
-  - [大貫さんと日笠さんの、ふたりで「どうぶつの森e+」！！](http://www.1101.com/nintendo/doubutsu_no_mori_eplus/01.html) - ほぼ日刊イトイ新聞（音楽家の[大貫妙子](../Page/大貫妙子.md "wikilink")と手相観の[日笠雅水](https://ja.wikipedia.org/wiki/日笠雅水 "wikilink")へのインタビュー）
+  - [どうぶつの森e+](https://www.nintendo.co.jp/ngc/gaej/) - 公式ホームページ
+  - [あたらしい楽しさがいっぱい！ 「どうぶつの森e+」がついにその姿をあらわす\!\!](https://www.nintendo.co.jp/nom/0306/) - Nintendo Online Magazine 2003年6月号
+  - [大貫さんと日笠さんの、ふたりで「どうぶつの森e+」！！](https://www.1101.com/nintendo/doubutsu_no_mori_eplus/01.html) - ほぼ日刊イトイ新聞（音楽家の[大貫妙子](../Page/大貫妙子.md "wikilink")と手相観の[日笠雅水](https://ja.wikipedia.org/wiki/日笠雅水 "wikilink")へのインタビュー）
 
 [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:どうぶつの森](https://ja.wikipedia.org/wiki/Category:どうぶつの森 "wikilink")

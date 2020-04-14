@@ -1,4 +1,4 @@
-> この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
+> この記事は[GEヘルスケア・ジャパン](https://ja.wikipedia.org/wiki/GEヘルスケア・ジャパン)から翻訳されています。
 
 
 **GEヘルスケア・ジャパン**株式会社（ジーイーヘルスケアジャパン、GEHC-J）は、[東京都](../Page/東京都.md "wikilink")[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")にある[医療機器](../Page/医療機器.md "wikilink")メーカーである。

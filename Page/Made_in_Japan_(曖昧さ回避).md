@@ -1,4 +1,4 @@
-> この記事は[Made in Japan \(\)](https://ja.wikipedia.org/wiki/Made_in_Japan_\(\))から翻訳されています。
+> この記事は[Made in Japan \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/Made_in_Japan_\(曖昧さ回避\))から翻訳されています。
 
 
 **Made in Japan**（メイド・イン・ジャパン）

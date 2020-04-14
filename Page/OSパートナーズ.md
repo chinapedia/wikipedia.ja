@@ -1,4 +1,4 @@
-> この記事は[OS](https://ja.wikipedia.org/wiki/OS)から翻訳されています。
+> この記事は[OSパートナーズ](https://ja.wikipedia.org/wiki/OSパートナーズ)から翻訳されています。
 
 
 **株式会社OSパートナーズ**（**OS PARTNERS CO.,LTD.**　2009年4月に株式会社リクルート三洋ヒューマンネットワークより社名変更）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アウトソーシング](../Page/アウトソーシング.md "wikilink")グループの製造＆設計開発を主業務とする人材会社である。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")グループを主なクライアントとして、[電池](../Page/電池.md "wikilink")製品・[家電製品](https://ja.wikipedia.org/wiki/家電製品 "wikilink")・デジタル機器・電子部品の[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")事業、[設計](../Page/設計.md "wikilink")開発事業を、開発・製造工程の請負、あるいは[人材派遣](https://ja.wikipedia.org/wiki/人材派遣 "wikilink")という形態でおこなっている。また事業の補助的位置づけとして、エンジニアおよび製造スタッフの教育・育成をおこなっている。
@@ -73,4 +73,4 @@
 
   - [OSパートナーズHP](http://www.os-partners.co.jp/)
 
-[Category:都島区の企業](https://ja.wikipedia.org/wiki/Category:都島区の企業 "wikilink") [Category:アウトソーシング](https://ja.wikipedia.org/wiki/Category:アウトソーシング "wikilink")
+[Category:都島区の企業](https://ja.wikipedia.org/wiki/Category:都島区の企業 "wikilink") [Category:アウトソーシング業](https://ja.wikipedia.org/wiki/Category:アウトソーシング業 "wikilink")

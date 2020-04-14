@@ -1,4 +1,4 @@
-> この記事は[MELODY \(\)](https://ja.wikipedia.org/wiki/MELODY_\(\))から翻訳されています。
+> この記事は[MELODY \(福山雅治の曲\)](https://ja.wikipedia.org/wiki/MELODY_\(福山雅治の曲\))から翻訳されています。
 
 
 『**MELODY**』（メロディ）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発売された。発売元は[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）

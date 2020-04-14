@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR支社境](https://ja.wikipedia.org/wiki/JR支社境)から翻訳されています。
 
 
 **JR支社境**（ジェイアールししゃきょう）は、[JR](../Page/JR.md "wikilink")各社の支社と支社の管轄の境界となる区間のこと。

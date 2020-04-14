@@ -1,4 +1,4 @@
-> この記事は[EXCEL \(\)](https://ja.wikipedia.org/wiki/EXCEL_\(\))から翻訳されています。
+> この記事は[EXCEL \(水戸市\)](https://ja.wikipedia.org/wiki/EXCEL_\(水戸市\))から翻訳されています。
 
 
 **EXCEL**（エクセル）は、[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")宮町にある[水戸駅](../Page/水戸駅.md "wikilink")の[駅ビル](../Page/駅ビル.md "wikilink")。[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）グループの[株式会社アトレが経営し](../Page/アトレ.md "wikilink")、[水戸ステーション開発](../Page/水戸ステーション開発.md "wikilink")が運営している。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）[3月24日](../Page/3月24日.md "wikilink")に開店した\[1\]。

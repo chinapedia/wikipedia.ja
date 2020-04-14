@@ -1,4 +1,4 @@
-> この記事は[TR-6](https://ja.wikipedia.org/wiki/TR-6)から翻訳されています。
+> この記事は[ガンダムTR-6](https://ja.wikipedia.org/wiki/ガンダムTR-6)から翻訳されています。
 
 
 **ガンダムTR-6**(GUNDAM TR-6)は、[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の雑誌企画『[ADVANCE OF Ζ ティターンズの旗のもとに](../Page/ADVANCE_OF_Ζ_ティターンズの旗のもとに.md "wikilink")』及び、漫画『[A.O.Z Re-Boot ガンダム・インレ-くろうさぎのみた夢-](https://ja.wikipedia.org/wiki/A.O.Z_Re-Boot_ガンダム・インレ-くろうさぎのみた夢- "wikilink")』に登場する架空の兵器「[モビルスーツ](../Page/モビルスーツ.md "wikilink")」(MS)。

@@ -1,4 +1,4 @@
-> この記事は[TIMES](https://ja.wikipedia.org/wiki/TIMES)から翻訳されています。
+> この記事は[東京ディズニーリゾートTIMES](https://ja.wikipedia.org/wiki/東京ディズニーリゾートTIMES)から翻訳されています。
 
 
 **東京ディズニーリゾートTIMES**（とうきょうディズニーリゾート・タイムス、*Tokyo Disney Resort TIMES*）は、[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")が発行する[フリーペーパー](../Page/フリーペーパー.md "wikilink")である。不定期発行だが、主に2〜3箇月に1回発行される。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")創刊。

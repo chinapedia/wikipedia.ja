@@ -1,4 +1,4 @@
-> この記事は[GN\'R](https://ja.wikipedia.org/wiki/GN\'R)から翻訳されています。
+> この記事は[GN\'Rライズ](https://ja.wikipedia.org/wiki/GN\'Rライズ)から翻訳されています。
 
 
 **GN'Rライズ**（GN'R Lies）は、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")のミニ・アルバム。本国発売時の正式名は「exclusive the shocking truth GN'R　LIES」であった。ビルボード最高位は2位。

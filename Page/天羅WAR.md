@@ -1,4 +1,4 @@
-> この記事は[WAR](https://ja.wikipedia.org/wiki/WAR)から翻訳されています。
+> この記事は[天羅WAR](https://ja.wikipedia.org/wiki/天羅WAR)から翻訳されています。
 
 
 **天羅WAR**（てんらウォー）は、2007年4月に[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から出版された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")。著者は[井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink")\[1\]、[F.E.A.R.](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")\[2\]。同じ作者のサイバーパンク時代劇RPG『[天羅万象](../Page/天羅万象.md "wikilink")』シリーズおよびスチームパンク西部劇RPG『[テラ:ザ・ガンスリンガー](../Page/テラ:ザ・ガンスリンガー.md "wikilink")』の[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")となっている。

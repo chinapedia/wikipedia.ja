@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本東北総合サービス](https://ja.wikipedia.org/wiki/JR東日本東北総合サービス)から翻訳されています。
 
 
 **JR東日本東北総合サービス株式会社**（ジェイアールひがしにほんとうほくそうごうサービス）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")に本社を置く、[JR東日本の完全](../Page/東日本旅客鉄道.md "wikilink")[子会社](../Page/子会社.md "wikilink")（[連結子会社](../Page/連結子会社.md "wikilink")）。愛称は『**LiViT（リビット）**』\[1\]。
@@ -111,7 +111,7 @@ JR東日本の東北エリアで、エキナカを中心とした店舗運営の
   - ※旧:ジャスター委託駅、JR-TSS盛岡支店が統括。盛岡支店に地区担当を、各駅に駅長を配置
       - 一ノ関地区 - [花泉駅](../Page/花泉駅.md "wikilink")、[一ノ関駅](../Page/一ノ関駅.md "wikilink")（東口、新幹線乗換口）、[平泉駅](../Page/平泉駅.md "wikilink")、[前沢駅](../Page/前沢駅.md "wikilink")、[水沢駅](https://ja.wikipedia.org/wiki/水沢駅 "wikilink")（2015年12月1日-）、[摺沢駅](../Page/摺沢駅.md "wikilink")、[千厩駅](../Page/千厩駅.md "wikilink")、[盛駅](../Page/盛駅.md "wikilink")（2017年4月1日-）
       - 北上地区 - [金ケ崎駅](../Page/金ケ崎駅.md "wikilink")、[北上駅](../Page/北上駅.md "wikilink")（東口出改札／2018年10月1日-）、[村崎野駅](../Page/村崎野駅.md "wikilink")、[花巻駅](../Page/花巻駅.md "wikilink")（2017年4月1日-）、[花巻空港駅](https://ja.wikipedia.org/wiki/花巻空港駅 "wikilink")、[石鳥谷駅](../Page/石鳥谷駅.md "wikilink")、[ほっとゆだ駅](../Page/ほっとゆだ駅.md "wikilink")（2017年4月1日-）、[遠野駅](../Page/遠野駅.md "wikilink")（2018年6月1日-）、[小佐野駅](../Page/小佐野駅.md "wikilink")
-      - 盛岡地区 - [日詰駅](../Page/日詰駅.md "wikilink")、[紫波中央駅](../Page/紫波中央駅.md "wikilink")、[古館駅](../Page/古館駅.md "wikilink")、[矢幅駅](../Page/矢幅駅.md "wikilink")、[岩手飯岡駅](../Page/岩手飯岡駅.md "wikilink")、[仙北町駅](../Page/仙北町駅.md "wikilink")、[大更駅](../Page/大更駅.md "wikilink")（2018年6月1日-）、[荒屋新町駅](../Page/荒屋新町駅.md "wikilink")、[十和田南駅](../Page/十和田南駅.md "wikilink")、[東大館駅](../Page/東大館駅.md "wikilink")、[雫石駅](../Page/雫石駅.md "wikilink")（2018年4月1日-）、[小岩井駅](../Page/小岩井駅.md "wikilink")（2016年10月1日-）
+      - 盛岡地区 - [日詰駅](../Page/日詰駅.md "wikilink")、[紫波中央駅](../Page/紫波中央駅.md "wikilink")、[古館駅](../Page/古館駅.md "wikilink")、[矢幅駅](../Page/矢幅駅.md "wikilink")、[岩手飯岡駅](../Page/岩手飯岡駅.md "wikilink")、[仙北町駅](../Page/仙北町駅.md "wikilink")、[大更駅](../Page/大更駅.md "wikilink")（2018年6月1日-）、[荒屋新町駅](../Page/荒屋新町駅.md "wikilink")、[十和田南駅](../Page/十和田南駅.md "wikilink")、[雫石駅](../Page/雫石駅.md "wikilink")（2018年4月1日-）、[小岩井駅](../Page/小岩井駅.md "wikilink")（2016年10月1日-）
       - 青森・八戸地区 - [新青森駅](../Page/新青森駅.md "wikilink")（在来線改札口）、[青森駅](../Page/青森駅.md "wikilink")（西口）、[本八戸駅](../Page/本八戸駅.md "wikilink")（2015年12月1日-）、[陸奥湊駅](../Page/陸奥湊駅.md "wikilink")、[鮫駅](../Page/鮫駅.md "wikilink")、[種市駅](../Page/種市駅.md "wikilink")、[陸奥横浜駅](../Page/陸奥横浜駅.md "wikilink")、[下北駅](../Page/下北駅.md "wikilink")、[油川駅](../Page/油川駅.md "wikilink")、[蟹田駅](../Page/蟹田駅.md "wikilink")（2019年6月1日-）
       - 青森お問い合せセンター
       - 盛岡お問い合せセンター・盛岡駅インフォメーションセンター
@@ -120,7 +120,7 @@ JR東日本の東北エリアで、エキナカを中心とした店舗運営の
 
   - ※旧:ジェイアールアトリス委託駅、JR-TSS秋田支店が統括
       - 駅務指導センター秋田（旧:ジェイアールアトリス委託駅） - [十文字駅](../Page/十文字駅.md "wikilink")、[大曲駅](../Page/大曲駅_\(秋田県\).md "wikilink")（新幹線乗換口）、[秋田駅](../Page/秋田駅.md "wikilink")（新幹線乗換口）、[追分駅](../Page/追分駅_\(秋田県\).md "wikilink")（2015年10月1日-）、[八郎潟駅](../Page/八郎潟駅.md "wikilink")（2015年10月1日-）、[二ツ井駅](../Page/二ツ井駅.md "wikilink")、[鷹ノ巣駅](../Page/鷹ノ巣駅.md "wikilink")（2015年10月1日-）、[大館駅](../Page/大館駅.md "wikilink")（2018年12月1日-）、[船越駅](../Page/船越駅.md "wikilink")、[男鹿駅](../Page/男鹿駅.md "wikilink")（2018年5月12日-）、[新屋駅](../Page/新屋駅_\(秋田県\).md "wikilink")、[羽後牛島駅](../Page/羽後牛島駅.md "wikilink")
-      - 駅務指導センター弘前（旧:弘前ステーションビル委託駅） - [川部駅](../Page/川部駅.md "wikilink")、[津軽新城駅](../Page/津軽新城駅.md "wikilink")、[浪岡駅](../Page/浪岡駅.md "wikilink")（2017年4月1日-）、[鰺ケ沢駅](../Page/鰺ケ沢駅.md "wikilink")、[深浦駅](../Page/深浦駅.md "wikilink")（2019年4月1日-）、JR弘前テレフォンセンター
+      - 駅務指導センター弘前（旧:弘前ステーションビル委託駅） - [川部駅](../Page/川部駅.md "wikilink")、[浪岡駅](../Page/浪岡駅.md "wikilink")（2017年4月1日-）、[鰺ケ沢駅](../Page/鰺ケ沢駅.md "wikilink")、[深浦駅](../Page/深浦駅.md "wikilink")（2019年4月1日-）、JR弘前テレフォンセンター
       - 秋田お問い合せセンター
       - 弘前お問い合せセンター
 

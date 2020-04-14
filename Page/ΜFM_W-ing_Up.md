@@ -1,4 +1,4 @@
-> この記事は[FM W-ing Up](https://ja.wikipedia.org/wiki/FM_W-ing_Up)から翻訳されています。
+> この記事は[ΜFM W-ing Up](https://ja.wikipedia.org/wiki/ΜFM_W-ing_Up)から翻訳されています。
 
 
 **μFM W-ing Up**（ミューエフエム ウイングアップ）は、[エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")(μFM) で2007年4月から2年間放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は月曜から金曜の7時30分から10時55分（[日本標準時](../Page/日本標準時.md "wikilink")、以下同様）。[パーソナリティは奥ゆかり](../Page/ラジオパーソナリティ.md "wikilink")（月曜 - 水曜）と有賀真姫（木曜・金曜）。

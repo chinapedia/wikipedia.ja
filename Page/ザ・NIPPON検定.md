@@ -1,4 +1,4 @@
-> この記事は[NIPPON](https://ja.wikipedia.org/wiki/NIPPON)から翻訳されています。
+> この記事は[ザ・NIPPON検定](https://ja.wikipedia.org/wiki/ザ・NIPPON検定)から翻訳されています。
 
 
 『**ザ・NIPPON検定**』（ざ・にっぽんけんてい）は、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から2007年[9月23日](../Page/9月23日.md "wikilink")まで[フジテレビ系列で毎週日曜](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")13:35 - 14:00（[JST](../Page/日本標準時.md "wikilink")）に放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

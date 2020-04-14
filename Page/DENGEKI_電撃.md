@@ -1,4 +1,4 @@
-> この記事は[DENGEKI ](https://ja.wikipedia.org/wiki/DENGEKI_)から翻訳されています。
+> この記事は[DENGEKI 電撃](https://ja.wikipedia.org/wiki/DENGEKI_電撃)から翻訳されています。
 
 
 『**DENGEKI 電撃**』（***Exit Wounds***）は[2001年の](../Page/2001年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。

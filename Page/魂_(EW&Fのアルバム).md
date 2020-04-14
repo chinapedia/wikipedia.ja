@@ -1,4 +1,4 @@
-> この記事は[ \(EW\&F\)](https://ja.wikipedia.org/wiki/_\(EW\&F\))から翻訳されています。
+> この記事は[魂 \(EW\&Fのアルバム\)](https://ja.wikipedia.org/wiki/魂_\(EW\&Fのアルバム\))から翻訳されています。
 
 
 『**魂**』（Spirit）は、[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")のスタジオ・アルバム。

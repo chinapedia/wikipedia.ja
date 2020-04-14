@@ -1,4 +1,4 @@
-> この記事は[THE BOOM \(\)](https://ja.wikipedia.org/wiki/THE_BOOM_\(\))から翻訳されています。
+> この記事は[THE BOOM \(アルバム\)](https://ja.wikipedia.org/wiki/THE_BOOM_\(アルバム\))から翻訳されています。
 
 
 『**THE BOOM**』（ザ・ブーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[1992年](../Page/1992年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

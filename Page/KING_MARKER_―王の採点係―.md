@@ -1,4 +1,4 @@
-> この記事は[KING MARKER ](https://ja.wikipedia.org/wiki/KING_MARKER_)から翻訳されています。
+> この記事は[KING MARKER ―王の採点係―](https://ja.wikipedia.org/wiki/KING_MARKER_―王の採点係―)から翻訳されています。
 
 
 『**KING MARKER -王の採点係-**』は、[喜多尚江](../Page/喜多尚江.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[別冊花とゆめ](../Page/別冊花とゆめ.md "wikilink")』において[2003年](../Page/2003年.md "wikilink")9月号から[2004年](../Page/2004年.md "wikilink")11月号まで連載された。全8話。呪いで子供になってしまった異世界の王と、その呪いを解く任務を与えられた女子高生の恋愛を描く。

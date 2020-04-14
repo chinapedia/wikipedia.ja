@@ -1,4 +1,4 @@
-> この記事は[RPG ](https://ja.wikipedia.org/wiki/RPG_)から翻訳されています。
+> この記事は[コミック版ファンタジーRPG入門 ドラゴンリング](https://ja.wikipedia.org/wiki/コミック版ファンタジーRPG入門_ドラゴンリング)から翻訳されています。
 
 
 **コミック版ファンタジーRPG入門 ドラゴンリング**とは、[新紀元社](../Page/新紀元社.md "wikilink")から発売された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）の遊び方を解説した漫画。巻末には、作中で使用されたオリジナルTRPGのルールが掲載されている。原作は[朱鷺田祐介](../Page/朱鷺田祐介.md "wikilink")、作画は[島村春奈](https://ja.wikipedia.org/wiki/島村春奈 "wikilink")。

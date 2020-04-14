@@ -19,22 +19,138 @@
 
 ## 参加ミュージシャン
 
-  - [伊勢正三](../Page/伊勢正三.md "wikilink") – ヴォーカル、エレクトリックギター、コーラス
-  - [大久保一久](../Page/大久保一久.md "wikilink") – ヴォーカル、コーラス
-  - [瀬尾一三](../Page/瀬尾一三.md "wikilink") – コーラス、キーボード、パーカッション
-  - [水谷公生](../Page/水谷公生.md "wikilink") – エレクトリックギター
-  - [吉川忠英](../Page/吉川忠英.md "wikilink") – アコースティックギター
-  - [駒沢宏季](../Page/駒沢裕城.md "wikilink") – ペダルスティールギター
-  - 武部秀明 – エレクトリックベース
-  - [佐藤準](../Page/佐藤準.md "wikilink")、渋井博 – キーボード
-  - [羽田健太郎](../Page/羽田健太郎.md "wikilink") – ピアノ
-  - [斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノブ "wikilink") – パーカッション
-  - 市原康、森谷順 – ドラムス
-  - 村岡健 – サキソフォン
-  - 金山功 – ヴィブラフォン
-  - 新井英治 – トロンボーン
-  - 羽島幸次 – トランペット
-  - 内山修、[相馬淳子](../Page/RAJIE.md "wikilink") – コーラス
+**[ほおづえをつく女](https://ja.wikipedia.org/wiki/ほおづえをつく女 "wikilink")** (Album version)
+
+  - [伊勢正三](../Page/伊勢正三.md "wikilink") : Lead Guitar & Background Vocal
+  - [水谷公生](../Page/水谷公生.md "wikilink") : Electric Guitar
+  - 渋井博 : Electric Piano & [Mini Moog](https://ja.wikipedia.org/wiki/:en:Minimoog "wikilink")
+  - 森谷順 : Drums
+  - [斉藤ノブ](../Page/斎藤ノヴ.md "wikilink") : Percussion
+  - [大久保一久](../Page/大久保一久.md "wikilink") : Background Vocal
+  - 内山修 : Background Vocal
+  - [相馬淳子](../Page/RAJIE.md "wikilink") : Background Vocal
+
+**夜の国道**
+
+  - 水谷公生 : Electric Guitar
+  - 渋井博 : Electric Piano
+  - [吉川忠英](../Page/吉川忠英.md "wikilink") : Acoustic Guitar
+  - 武部秀明 : Electric Bass
+  - 市原ヤスシ : Drums
+  - [瀬尾一三](../Page/瀬尾一三.md "wikilink") : [Bell Tree](https://ja.wikipedia.org/wiki/:en:Bell_tree "wikilink")
+
+:\* 村岡健 : Saxophone
+
+:\* 新井英治 : Trombone
+
+:\* 伊勢正三 : Background Vocal
+
+:\* 大久保一久 : Background Vocal
+
+**3号線を左に折れ**
+
+  - 水谷公生 : Electric Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - [羽田健太郎](../Page/羽田健太郎.md "wikilink") : Acoustic Piano
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 瀬尾一三 : Solina & Percussion
+  - 渋井博 : Mini Moog
+
+:\* 新井英治 : Trombone Section
+
+:\* 伊勢正三 : Background Vocal
+
+:\* 大久保一久 : Background Vocal
+
+:\* 内山修 : Background Vocal
+
+**旅の午後**
+
+  - 水谷公生 : Electric Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - 渋井博 : Acoustic & Electric Piano & Mini Moog
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 斉藤ノブ : Tambourine
+  - 瀬尾一三 : Solina
+  - 羽島幸次 : Trumpet Section
+  - 伊勢正三, 大久保一久, 内山修, 相馬淳子 : Background Vocal
+
+**通り雨**
+
+  - 伊勢正三 : Lead Guitar
+  - 水谷公生 : Electric Guitar
+  - 渋井博 : Electric Piano & Organ
+  - 吉川忠英 : Acoustic Guitar
+  - 武部秀明 : Electric Bass
+  - 市原ヤスシ : Drums
+  - 斉藤ノブ : Percussion
+
+**アフタヌーン通り25**
+
+  - 伊勢正三 : Electric Guitar
+  - 水谷公生 : Electric Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - [佐藤準](../Page/佐藤準.md "wikilink") : Piano
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 斉藤ノブ : Percussion
+  - 渋井博 : [Korg Polyphonic Ensemble](https://ja.wikipedia.org/wiki/:en:Korg_Polyphonic_Ensemble_P "wikilink")
+  - 村岡健 : Saxophone
+  - 伊勢正三 : Background Vocal
+
+**小さな手**
+
+  - 吉川忠英 : Acoustic Guitar
+  - 渋井博 : Electric Piano & Mini Moog
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 伊勢正三 : Background Vocal
+  - 大久保一久 : Background Vocal
+  - 内山修 : Background Vocal
+
+**地平線の見える街**
+
+  - 伊勢正三 : Acoustic Guitar
+  - 水谷公生 : Acoustic Guitar
+  - 吉川忠英 : Acoustic Guitar Mandolin & Conga
+  - [駒沢裕城](../Page/駒沢裕城.md "wikilink") : Steel Guitar
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+
+**[君と歩いた青春](https://ja.wikipedia.org/wiki/君と歩いた青春 "wikilink")**
+
+  - 伊勢正三 : Lead Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - 渋井博 : Acoustic Piano & Korg Polyphonic Ensemble
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+
+**ふっと気がつきゃ**
+
+  - 水谷公生 : Electric Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - 佐藤準 : Electric Piano
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 渋井博 : Marimba
+  - 斉藤ノブ : Percussion
+  - 伊勢正三 : Background Vocal
+  - 大久保一久 : Background Vocal
+  - 内山修 : Background Vocal
+
+**少しだけの荷物**
+
+  - 水谷公生 : Electric Guitar
+  - 吉川忠英 : Acoustic Guitar
+  - 羽田健太郎 : Acoustic Piano
+  - 武部秀明 : Electric Bass
+  - 森谷順 : Drums
+  - 金山功 : Vibraphone
+  - 伊勢正三 : Background Vocal
+  - 大久保一久 : Background Vocal
+  - 内山修 : Background Vocal
 
 ## 脚注
 

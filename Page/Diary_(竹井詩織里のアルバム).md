@@ -1,4 +1,4 @@
-> この記事は[Diary \(\)](https://ja.wikipedia.org/wiki/Diary_\(\))から翻訳されています。
+> この記事は[Diary \(竹井詩織里のアルバム\)](https://ja.wikipedia.org/wiki/Diary_\(竹井詩織里のアルバム\))から翻訳されています。
 
 
 『**Diary**』（ダイアリー）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")の3枚目のアルバム。CDコードはGZCA-5100。

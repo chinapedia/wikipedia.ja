@@ -1,4 +1,4 @@
-> この記事は[Dreams \(SIAM SHADE\)](https://ja.wikipedia.org/wiki/Dreams_\(SIAM_SHADE\))から翻訳されています。
+> この記事は[Dreams \(SIAM SHADEの曲\)](https://ja.wikipedia.org/wiki/Dreams_\(SIAM_SHADEの曲\))から翻訳されています。
 
 
 「**Dreams**」（ドリームス）は、[SIAM SHADEの](../Page/SIAM_SHADE.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")にリリース。

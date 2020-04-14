@@ -1,4 +1,4 @@
-> この記事は[HR-V](https://ja.wikipedia.org/wiki/HR-V)から翻訳されています。
+> この記事は[ホンダ・HR-V](https://ja.wikipedia.org/wiki/ホンダ・HR-V)から翻訳されています。
 
 
 **HR-V**（エイチアールブイ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた小型[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。

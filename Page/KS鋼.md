@@ -1,4 +1,4 @@
-> この記事は[KS](https://ja.wikipedia.org/wiki/KS)から翻訳されています。
+> この記事は[KS鋼](https://ja.wikipedia.org/wiki/KS鋼)から翻訳されています。
 
 
 **KS鋼**（KSこう、）は、[コバルト](../Page/コバルト.md "wikilink")・[タングステン](../Page/タングステン.md "wikilink")・[クロム](../Page/クロム.md "wikilink")・[炭素](../Page/炭素.md "wikilink")を含む[鉄](../Page/鉄.md "wikilink")の[合金](../Page/合金.md "wikilink")[磁石鋼](https://ja.wikipedia.org/wiki/磁石鋼 "wikilink")\[1\]、世界初の[永久磁石](../Page/永久磁石.md "wikilink")\[2\]。**KS磁石鋼**とも呼ぶ\[3\]。

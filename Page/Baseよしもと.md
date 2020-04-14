@@ -1,4 +1,4 @@
-> この記事は[Base](https://ja.wikipedia.org/wiki/Base)から翻訳されています。
+> この記事は[Baseよしもと](https://ja.wikipedia.org/wiki/Baseよしもと)から翻訳されています。
 
 
 **baseよしもと**（ベースよしもと）は、かつて[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[難波](../Page/難波.md "wikilink")にあり、[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")（[2007年](../Page/2007年.md "wikilink")9月までは[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")）が運営していた[お笑いの](../Page/演芸.md "wikilink")[劇場](../Page/劇場.md "wikilink")。[なんばグランド花月](../Page/なんばグランド花月.md "wikilink")の向かい、YES-NAMBAビル地下1階にあった。通称:「**base**」。 [thumb](https://ja.wikipedia.org/wiki/画像:Base-yoshimoto.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:YES-NAMBAbldg.JPG "wikilink")

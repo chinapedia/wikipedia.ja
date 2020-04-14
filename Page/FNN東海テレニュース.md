@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN東海テレニュース](https://ja.wikipedia.org/wiki/FNN東海テレニュース)から翻訳されています。
 
 
 『**FNN東海テレニュース**』（エフエヌエヌとうかいテレニュース）は、[東海テレビで放送されている](../Page/東海テレビ放送.md "wikilink")[中日新聞](../Page/中日新聞.md "wikilink")制作協力のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

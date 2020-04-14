@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[アレン・M・サムナー級駆逐艦](https://ja.wikipedia.org/wiki/アレン・M・サムナー級駆逐艦)から翻訳されています。
 
 
 **アレン・M・サムナー級駆逐艦** () は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に建造された[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")の艦級。

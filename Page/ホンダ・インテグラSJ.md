@@ -1,4 +1,4 @@
-> この記事は[SJ](https://ja.wikipedia.org/wiki/SJ)から翻訳されています。
+> この記事は[ホンダ・インテグラSJ](https://ja.wikipedia.org/wiki/ホンダ・インテグラSJ)から翻訳されています。
 
 
 **インテグラ SJ**（Integra SJ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[セダン](../Page/セダン.md "wikilink")型の[小型乗用車](https://ja.wikipedia.org/wiki/小型乗用車 "wikilink")である。通称は「インテSJ」「オルテグラ」

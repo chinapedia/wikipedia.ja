@@ -175,6 +175,8 @@
 35. **[it's too late](https://ja.wikipedia.org/wiki/it's_too_late "wikilink")** （2002年8月7日、LCFC-6）
     [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』エンディング曲
 36. **[LIVE your LIFE](https://ja.wikipedia.org/wiki/LIVE_your_LIFE "wikilink")** （2009年12月9日、AVCD31554/B\[CD+DVD\]）
+37. **Fresh**（2017年7月19日）
+38. **～種～**（2020年3月9日）
 
 ### オリジナルアルバム
 

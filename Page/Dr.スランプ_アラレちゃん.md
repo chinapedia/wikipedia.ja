@@ -1,7 +1,7 @@
-> この記事は[Dr. ](https://ja.wikipedia.org/wiki/Dr._)から翻訳されています。
+> この記事は[Dr.スランプ アラレちゃん](https://ja.wikipedia.org/wiki/Dr.スランプ_アラレちゃん)から翻訳されています。
 
 
-{{ external media | image1 = [番組ロゴ（フジテレビ公式サイト）](http://www.fujitv.co.jp/bangumi/basic/logo/img/606100005.gif) }} 『**Dr.スランプ アラレちゃん**』（ドクタースランプ アラレちゃん、Dr.SLUMPアラレちゃん\[1\]）は、漫画『[Dr.スランプ](https://ja.wikipedia.org/wiki/Dr.スランプ "wikilink")』を原作とした[1981年](../Page/1981年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から1986年2月16日まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[水曜日19:00 - 19:30に放送された](https://ja.wikipedia.org/wiki/フジテレビ系列水曜夜7時台枠のアニメ "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、一連の[メディアミックス](../Page/メディアミックス.md "wikilink")作品。  
+{{ external media | image1 = [番組ロゴ（フジテレビ公式サイト）](https://www.fujitv.co.jp/bangumi/basic/logo/img/606100005.gif) }} 『**Dr.スランプ アラレちゃん**』（ドクタースランプ アラレちゃん、Dr.SLUMPアラレちゃん\[1\]）は、漫画『[Dr.スランプ](https://ja.wikipedia.org/wiki/Dr.スランプ "wikilink")』を原作とした[1981年](../Page/1981年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から1986年2月16日まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[水曜日19:00 - 19:30に放送された](https://ja.wikipedia.org/wiki/フジテレビ系列水曜夜7時台枠のアニメ "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、一連の[メディアミックス](../Page/メディアミックス.md "wikilink")作品。  
 
 ## 概要
 
@@ -4575,9 +4575,9 @@ SLUMP THE COLLECTION（全20巻、現在は生産終了）
 
 <!-- end list -->
 
-  - [Dr.スランプ　アラレちゃん - フジテレビ](http://www.fujitv.co.jp/b_hp/arale/)
-  - [Dr.スランプ　アラレちゃんSP～うほほ～い！帰ってきちったの巻～ - フジテレビ](http://www.fujitv.co.jp/b_hp/0629arare/)
-  - [西へ、東へ ペンギン村キャラバン - フジテレビ](http://www.fujitv.co.jp/events/stage/pengin2015/index.html)
+  - [Dr.スランプ　アラレちゃん - フジテレビ](https://www.fujitv.co.jp/b_hp/arale/)
+  - [Dr.スランプ　アラレちゃんSP～うほほ～い！帰ってきちったの巻～ - フジテレビ](https://www.fujitv.co.jp/b_hp/0629arare/)
+  - [西へ、東へ ペンギン村キャラバン - フジテレビ](https://www.fujitv.co.jp/events/stage/pengin2015/index.html)
   - [Dr.スランプ アラレちゃん フジテレビ eショプ](http://eshop.fujitv.co.jp/product/category/B007066-1.html)
 
 <!-- end list -->

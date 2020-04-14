@@ -1,4 +1,4 @@
-> この記事は[MAN](https://ja.wikipedia.org/wiki/MAN)から翻訳されています。
+> この記事は[大事MANブラザーズバンド](https://ja.wikipedia.org/wiki/大事MANブラザーズバンド)から翻訳されています。
 
 
 **大事MANブラザーズバンド**（だいじマンブラザーズバンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")。[1982年](../Page/1982年.md "wikilink")結成、[1996年](../Page/1996年.md "wikilink")に解散。

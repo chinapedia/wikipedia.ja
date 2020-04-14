@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[カラフルBOX](https://ja.wikipedia.org/wiki/カラフルBOX)から翻訳されています。
 
 
 『**カラフルBOX**』（カラフルボックス）は[2003年](../Page/2003年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に[SoundTail](https://ja.wikipedia.org/wiki/SoundTail "wikilink")が発売した[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。 [2004年](../Page/2004年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**カラフルBOX to Love**』（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）が、[RusK](https://ja.wikipedia.org/wiki/RusK "wikilink")より[2004年](../Page/2004年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")にDVD版が発売された。また、2005年8月25日には[電脳CLUB](https://ja.wikipedia.org/wiki/電脳CLUB "wikilink")より[DVD PlayersGame版も発売されている](https://ja.wikipedia.org/wiki/DVD_PlayersGame "wikilink")。略称は**空箱**と書いて"からばこ"と呼ぶのが一般的。

@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!アプリ](https://ja.wikipedia.org/wiki/S!アプリ)から翻訳されています。
 
 
 **S\!アプリ**（エス\!アプリ）は[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が提供する、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")の一部で実行できる[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")およびサービスである。 主に[ゲームなどに利用されている](../Page/携帯型ゲーム.md "wikilink")。ボーダフォン時代の旧称は**Vアプリ**、その前のJ-フォン時代は**Java™アプリ**という呼称が使われていた。

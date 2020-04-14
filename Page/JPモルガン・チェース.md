@@ -1,4 +1,4 @@
-> この記事は[JP](https://ja.wikipedia.org/wiki/JP)から翻訳されています。
+> この記事は[JPモルガン・チェース](https://ja.wikipedia.org/wiki/JPモルガン・チェース)から翻訳されています。
 
 
 **JPモルガン・チェース**（英:JPMorgan Chase & Co.）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")に本社を置く[銀行持株会社](https://ja.wikipedia.org/wiki/銀行持株会社 "wikilink")である。商業銀行であるJPモルガン・チェース銀行（JPMorgan Chase Bank, N.A.）や、[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")であるJPモルガン（J.P. Morgan）を子会社として有する。JPモルガン・チェース銀行は米国外を含む商業銀行業務\[1\]を、JPモルガンは米国外を含む投資銀行業務\[2\]を分担している。[ヘッジファンド](../Page/ヘッジファンド.md "wikilink")部門は米国最大で、340億ドルを管理している\[3\]。

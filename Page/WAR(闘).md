@@ -1,4 +1,4 @@
-> この記事は[WAR\(\)](https://ja.wikipedia.org/wiki/WAR\(\))から翻訳されています。
+> この記事は[WAR\(闘\)](https://ja.wikipedia.org/wiki/WAR\(闘\))から翻訳されています。
 
 
 『**WAR(闘)**』（ウォー、*WAR*）は、[アイルランド](../Page/アイルランド.md "wikilink")の[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[U2](../Page/U2.md "wikilink")のサードアルバムである。

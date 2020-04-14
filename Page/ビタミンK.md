@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ビタミンK](https://ja.wikipedia.org/wiki/ビタミンK)から翻訳されています。
 
 
 **ビタミンK** (Vitamin K) は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の一種である。ビタミンK依存性タンパク質の活性化に必須であり、動物体内で[血液の凝固や](https://ja.wikipedia.org/wiki/血液凝固 "wikilink")[組織の](../Page/組織_\(生物学\).md "wikilink")[石灰化](https://ja.wikipedia.org/wiki/石灰化 "wikilink")に関わっている。したがって欠乏すると出血傾向となり、また[骨粗鬆症](../Page/骨粗鬆症.md "wikilink")や[動脈硬化](https://ja.wikipedia.org/wiki/動脈硬化 "wikilink")に関連していると考えられている。化学構造上は[2-メチル-1,4-ナフトキノン](https://ja.wikipedia.org/wiki/2-メチル-1,4-ナフトキノン "wikilink")の3位誘導体で、天然にはK<sub>1</sub>とK<sub>2</sub>の2種類があり、このうちK<sub>2</sub>には[イソプレノイド](https://ja.wikipedia.org/wiki/イソプレノイド "wikilink")側鎖の長さや修飾が異なる多数の化合物が含まれる。
@@ -127,20 +127,20 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
   - 目安量
 
-[目安量](https://ja.wikipedia.org/wiki/目安量 "wikilink")(AI)は「潜在的な欠乏状態を回避できる摂取量として82 μg/日（体重72 kg）が必要であるとのアメリカの報告」に基づいて体重比で求められており、通常の食生活で充分に摂取されていれば欠乏症に陥ることはほとんどないと考えられている。
+[目安量](https://ja.wikipedia.org/wiki/目安量 "wikilink")(AI)は「潜在的な欠乏状態を回避できる摂取量として82 µg/日（体重72 kg）が必要であるとのアメリカの報告」に基づいて体重比で求められており、通常の食生活で充分に摂取されていれば欠乏症に陥ることはほとんどないと考えられている。
 
 | 年齢     | 男性   | 女性   |
 | ------ | ---- | ---- |
-| 18-29歳 | 75μg | 60μg |
-| 30歳以上  | 75μg | 65μg |
+| 18-29歳 | 75µg | 60µg |
+| 30歳以上  | 75µg | 65µg |
 |        |      |      |
 
 目安量(AI、2010年版)\[48\]
 
 | 年齢     | 男性    | 女性    |
 | ------ | ----- | ----- |
-| 18-29歳 | 150μg | 150μg |
-| 30歳以上  | 150μg | 150μg |
+| 18-29歳 | 150µg | 150µg |
+| 30歳以上  | 150µg | 150µg |
 |        |       |       |
 
 目安量(AI、2015年版)\[49\]
@@ -156,7 +156,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
   - 病気の場合
 
-「骨粗鬆症の予防と治療ガイドライン」\[50\]では、250-300μgの摂取を推奨している。
+「骨粗鬆症の予防と治療ガイドライン」\[50\]では、250-300µgの摂取を推奨している。
 
 ### 摂取源
 
@@ -181,55 +181,55 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 <tr class="odd">
 <td><p><a href="../Page/ブロッコリー.md" title="wikilink">ブロッコリー</a></p></td>
 <td><p>1/4株（60g）</p></td>
-<td><p>96 μg</p></td>
+<td><p>96 µg</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/小松菜" title="wikilink">小松菜</a></p></td>
 <td><p>1/4束（95g）</p></td>
-<td><p>200 μg</p></td>
+<td><p>200 µg</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/キャベツ" title="wikilink">キャベツ</a></p></td>
 <td><p>1 枚 （50g）</p></td>
-<td><p>39 μg</p></td>
+<td><p>39 µg</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/にら" title="wikilink">にら</a></p></td>
 <td><p>1/4束（30g）</p></td>
-<td><p>54 μg</p></td>
+<td><p>54 µg</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モロヘイヤ" title="wikilink">モロヘイヤ</a></p></td>
 <td><p>1/4束（60g）</p></td>
-<td><p>384 μg</p></td>
+<td><p>384 µg</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ほうれん草" title="wikilink">ほうれん草</a></p></td>
 <td><p>1/4束（60g）</p></td>
-<td><p>162 μg</p></td>
+<td><p>162 µg</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/納豆.md" title="wikilink">納豆</a></p></td>
 <td><p>1パック（50g）</p></td>
-<td><p>300 μg</p></td>
+<td><p>300 µg</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>干し<a href="../Page/ワカメ.md" title="wikilink">ワカメ</a></p></td>
 <td><p>5g</p></td>
-<td><p>33 μg</p></td>
+<td><p>33 µg</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/鶏肉#もも肉" title="wikilink">鶏もも肉</a>（皮付き）</p></td>
 <td><p>1/2枚（120g）</p></td>
-<td><p>35 μg</p></td>
+<td><p>35 µg</p></td>
 <td><p>[55]</p></td>
 </tr>
 <tr class="even">
@@ -245,15 +245,15 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
   - ビタミンK1が多い食品
 
-[シソ](../Page/シソ.md "wikilink")(1007μg)、春菊(茹で、627μg)、ほうれん草(茹で、525μg)、小松菜(茹で、425μg)、ブロッコリー(生、307μg)、大豆油(234μg)\[56\]
+[シソ](../Page/シソ.md "wikilink")(1007µg)、春菊(茹で、627µg)、ほうれん草(茹で、525µg)、小松菜(茹で、425µg)、ブロッコリー(生、307µg)、大豆油(234µg)\[56\]
 
   - ビタミンK2(MK-4)が多い食品
 
-鶏卵(黄身、64μg)、鶏(もも、27μg)、バター(21μg)、マヨネーズ(197μg)\[57\]
+鶏卵(黄身、64µg)、鶏(もも、27µg)、バター(21µg)、マヨネーズ(197µg)\[57\]
 
   - ビタミンK2(MK-7)が多い食品
 
-納豆(939μg)\[58\]
+納豆(939µg)\[58\]
 
 [納豆菌](../Page/納豆菌.md "wikilink")はビタミンKを生成しており\[59\]ビタミンKの含有量が高い。
 

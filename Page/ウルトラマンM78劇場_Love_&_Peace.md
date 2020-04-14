@@ -1,4 +1,4 @@
-> この記事は[M78 Love \& Peace](https://ja.wikipedia.org/wiki/M78_Love_\&_Peace)から翻訳されています。
+> この記事は[ウルトラマンM78劇場 Love \& Peace](https://ja.wikipedia.org/wiki/ウルトラマンM78劇場_Love_\&_Peace)から翻訳されています。
 
 
 『**ウルトラマンM78劇場 Love & Peace**』（ウルトラマンえむななはちげきじょう ラブアンドピース）は、1999年3月6日から[松竹](../Page/松竹.md "wikilink")系で公開された[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の劇場アニメ映画。同時上映『[ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア 超時空の大決戦](../Page/ウルトラマンティガ・ウルトラマンダイナ&ウルトラマンガイア_超時空の大決戦.md "wikilink")』。

@@ -1,4 +1,4 @@
-> この記事は[SIMPLE](https://ja.wikipedia.org/wiki/SIMPLE)から翻訳されています。
+> この記事は[SIMPLEシリーズ](https://ja.wikipedia.org/wiki/SIMPLEシリーズ)から翻訳されています。
 
 
 **SIMPLEシリーズ**（シンプルシリーズ）とは、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から発売されている廉価ソフトシリーズ。既存のフルプライスソフトの廉価版ではなく、最初から廉価版として新規開発されたソフトが主である。

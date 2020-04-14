@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALエクスプレス](https://ja.wikipedia.org/wiki/JALエクスプレス)から翻訳されています。
 
 
 **株式会社ジャルエクスプレス**（JAL Express Co., Ltd.）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[航空会社](../Page/航空会社.md "wikilink")で、[日本航空](../Page/日本航空.md "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")であった。

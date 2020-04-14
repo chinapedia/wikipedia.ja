@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[NSシステム](https://ja.wikipedia.org/wiki/NSシステム)から翻訳されています。
 
 
 **NSシステム（Numerical Simulatorシステム）**は[航空宇宙技術研究所](../Page/航空宇宙技術研究所.md "wikilink")が研究用に構築した数値シミュレーション向けの[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")システムである。また特にその第2世代の愛称**NWT**（**Numerical Wind Tunnel**、**数値風洞**）でも知られる。

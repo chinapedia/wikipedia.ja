@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ミラクルC](https://ja.wikipedia.org/wiki/ミラクルC)から翻訳されています。
 
 
 『**ミラクルC**』は、[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビ東京系列局で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週土曜 10:30 - 11:00 ([JST](../Page/日本標準時.md "wikilink")) 。[競輪](../Page/競輪.md "wikilink")の話題を中心に、[スポーツ](../Page/スポーツ.md "wikilink")と[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")に関する話題を提供していた。[KEIRIN](https://ja.wikipedia.org/wiki/JKA "wikilink")（日本自転車振興会、日本自転車普及協会）の[一社提供](../Page/一社提供.md "wikilink")。

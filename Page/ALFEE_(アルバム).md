@@ -1,4 +1,4 @@
-> この記事は[ALFEE \(\)](https://ja.wikipedia.org/wiki/ALFEE_\(\))から翻訳されています。
+> この記事は[ALFEE \(アルバム\)](https://ja.wikipedia.org/wiki/ALFEE_\(アルバム\))から翻訳されています。
 
 
 『**ALFEE**』（アルフィー）は1983年1月5日にリリースされた[ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")6th[アルバム](../Page/アルバム.md "wikilink")。

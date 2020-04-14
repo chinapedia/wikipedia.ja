@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNN朝のニュース](https://ja.wikipedia.org/wiki/NNN朝のニュース)から翻訳されています。
 
 
 『**NNN朝のニュース**』（エヌエヌエヌ あさのニュース）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）で[1974年](../Page/1974年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1977年](../Page/1977年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までと[1979年](../Page/1979年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで（週末版は1974年[4月6日](../Page/4月6日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで）にかけて放送された朝の[ニュース番組である](../Page/報道番組.md "wikilink")。

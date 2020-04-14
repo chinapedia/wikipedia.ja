@@ -1,4 +1,4 @@
-> この記事は[GT-R](https://ja.wikipedia.org/wiki/GT-R)から翻訳されています。
+> この記事は[日産・GT-R](https://ja.wikipedia.org/wiki/日産・GT-R)から翻訳されています。
 
 
 **GT-R**（ジーティーアール）は、[2007年](../Page/2007年.md "wikilink")（平成19年）から[日産自動車](../Page/日産自動車.md "wikilink")が製造・販売している[ノッチバック](../Page/ノッチバック.md "wikilink")[クーペ](../Page/クーペ.md "wikilink")型の高級[スポーツカー](../Page/スポーツカー.md "wikilink")（[乗用車](../Page/乗用車.md "wikilink")）。生産は仕向地に関係なく、全て[栃木工場が担当している](https://ja.wikipedia.org/wiki/日産自動車栃木工場 "wikilink")。

@@ -1,13 +1,17 @@
-> この記事は[TAP \(\)](https://ja.wikipedia.org/wiki/TAP_\(\))から翻訳されています。
+> この記事は[TAP \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/TAP_\(芸能プロダクション\))から翻訳されています。
 
 
-**株式会社TAP**（タップ、*TAP INC.*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂五丁目に本社がある](../Page/赤坂_\(東京都港区\).md "wikilink")、[芸能事務所](../Page/芸能事務所.md "wikilink")・[映画会社](https://ja.wikipedia.org/wiki/映画会社 "wikilink")。
+**株式会社TAP**（タップ、*TAP INC.*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂五丁目に本社がある](../Page/赤坂_\(東京都港区\).md "wikilink")[芸能プロダクション](../Page/芸能事務所.md "wikilink")。
+
+前名は「**株式会社オフィス北野**（オフィスきたの、*OFFICE KITANO INC.*）」で、[映画会社](https://ja.wikipedia.org/wiki/映画会社 "wikilink")としても事業を展開する。
 
 ## 概要
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")を起こしたビートたけしが、[太田プロダクション](../Page/太田プロダクション.md "wikilink")を退社し、**株式会社オフィス北野**（オフィスきたの、*OFFICE KITANO INC.*）として設立した芸能事務所である。[1988年](../Page/1988年.md "wikilink")、社長の[森昌行](../Page/森昌行.md "wikilink")が[ビートたけし](../Page/ビートたけし.md "wikilink")（北野武）と[たけし軍団](../Page/たけし軍団.md "wikilink")、[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")らの俳優のマネジメントを目的に設立。森は[ソナチネや](../Page/ソナチネ_\(映画\).md "wikilink")[キッズ・リターン](../Page/キッズ・リターン.md "wikilink")など[映画監督](../Page/映画監督.md "wikilink")・北野武作品の[プロデューサー](../Page/プロデューサー.md "wikilink")も務める。独立に至った経緯としては、フライデー襲撃事件から復帰後、行く先々で[右翼団体](../Page/右翼団体.md "wikilink")に復帰が時期尚早であると街宣を掛けられたことに太田プロダクションには全く対処してもらえず、街宣を指示していた暴力団幹部らの元に自ら出向き事態を収束させたが、その際に太田プロダクションの退社を条件として提示されたという。この経緯からオフィス北野と太田プロダクションとの関係は良好であり、設立当初から太田プロダクション所属のタレントとの共演が多くある。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")を起こした[ビートたけし](../Page/ビートたけし.md "wikilink")は、[太田プロダクション](../Page/太田プロダクション.md "wikilink")を退社し、[1988年](../Page/1988年.md "wikilink")にたけしと親交が深い[制作会社](../Page/番組制作会社.md "wikilink")・[スーパープロデュースのスタッフだった](../Page/クリエイティブ30.md "wikilink")[森昌行](../Page/森昌行.md "wikilink")が、たけしと[たけし軍団](../Page/たけし軍団.md "wikilink")、[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")らの俳優のマネジメントを目的に設立。森は設立当初は[取締役](../Page/取締役.md "wikilink")制作部長の肩書きだったが、[1992年](../Page/1992年.md "wikilink")から[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")に就任し、[ソナチネや](../Page/ソナチネ_\(映画\).md "wikilink")[キッズ・リターン](../Page/キッズ・リターン.md "wikilink")など[映画監督](../Page/映画監督.md "wikilink")・北野武作品の[プロデューサー](../Page/プロデューサー.md "wikilink")も務めた。
 
-設立当初、[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")の代表取締役である[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")が役員に連ねており、その関係でたけしが出演していた番組やイベントに[荻野目洋子](../Page/荻野目洋子.md "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")・[MAX](https://ja.wikipedia.org/wiki/MAX "wikilink")・[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")らがゲスト出演していた。また、たけしの長女である[北野井子](../Page/北野井子.md "wikilink")がライジングから歌手デビューを果たしたのも、その縁があるからであった。
+独立に至った経緯としては、フライデー襲撃事件から復帰後、行く先々で[右翼団体](../Page/右翼団体.md "wikilink")に復帰が時期尚早であると街宣を掛けられたことに太田プロには全く対処してもらえず、街宣を指示していた暴力団幹部らの元に自ら出向き事態を収束させたが、その際に太田プロの退社を条件として提示されたもので、この経緯からオフィス北野と太田プロとの関係は良好であり、設立当初から太田プロ所属のタレントとの共演が多くある。
+
+設立当初、[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")の代表取締役である[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")が役員に連ねており、その関係でたけしが出演していた番組やイベントに同社所属の[荻野目洋子](../Page/荻野目洋子.md "wikilink")や[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[MAX](https://ja.wikipedia.org/wiki/MAX "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")らがゲスト出演していた。また、たけしの長女である[北野井子](../Page/北野井子.md "wikilink")がライジングから歌手デビューを果たしたのも、その縁からである。
 
 イベントとして「オフィス北野ライブ」を定期的に開催しており、ビートたけしやツービートがサプライズで出演することもある。
 
@@ -19,7 +23,7 @@
 
 [2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、ビートたけしが同年3月末で事務所を退社する事が発表された\[2\]。
 
-同年5月18日、[つまみ枝豆](../Page/つまみ枝豆.md "wikilink")（青木隆彦）と[ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")（飯塚実）が取締役に就任、但し、たけしも森前社長とともに取締役に名前を残している\[3\]。同年11月、つまみが新社長に、ダンカンが専務取締役に就任した\[4\]。
+同年5月18日、[つまみ枝豆](../Page/つまみ枝豆.md "wikilink")（青木隆彦）と[ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")（飯塚実）が取締役に就任、但し、退任した森前社長や、たけしは取締役として名前を残している\[3\]。同年11月、枝豆が新社長に、ダンカンが専務取締役に就任した\[4\]。
 
 2020年1月1日、創業33年目を迎えるのを機に、たけしの特技の[タップダンス](../Page/タップダンス.md "wikilink")が由来\[5\]\[6\]の**株式会社TAP**（タップ）に商号変更した\[7\]\[8\]。
 

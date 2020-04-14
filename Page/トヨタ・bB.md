@@ -1,4 +1,4 @@
-> この記事は[bB](https://ja.wikipedia.org/wiki/bB)から翻訳されています。
+> この記事は[トヨタ・bB](https://ja.wikipedia.org/wiki/トヨタ・bB)から翻訳されています。
 
 
 **bB**（ビービー）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")で生産（初代モデルのみ）・販売されていた小型[トールワゴン](../Page/トールワゴン.md "wikilink")で[ネッツ店](../Page/ネッツ店.md "wikilink")専売車。

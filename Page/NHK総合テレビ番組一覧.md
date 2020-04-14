@@ -1,11 +1,11 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK総合テレビ番組一覧](https://ja.wikipedia.org/wiki/NHK総合テレビ番組一覧)から翻訳されています。
 
 
 **NHK総合テレビ番組一覧**（エヌエイチケイそうごうテレビばんぐみいちらん）では、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")（NHK G）で放送中、もしくは放送が終了した番組を紹介する。
 
 ## 概説
 
-  - 2011年6月現在、総合テレビで放送されている番組はハイビジョン方式で制作されている。
+  - 2020年時点、総合テレビで放送されている番組はすべてハイビジョン方式で制作されている。
       - アナログ放送では番組によって14：9、13：9のサイズで放送されることがあった\[1\] が、2010年度から順次16：9サイズの[レターボックス形式に切り替えている](../Page/レターボックス_\(映像技術\).md "wikilink")。
   - 19時のニュース（2008年1月現在は『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』）は看板枠になっているため、その直前の18時台は平日のみであるが、各地の放送局が自局で制作するローカルニュースワイド番組になっている（最初の10分間は全国ニュース）。
   - ドラマ、バラエティ、ドキュメンタリー番組などではNHK関連団体の[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")、あるいは外部プロダクションと共同で制作する番組が近年増えつつある。
@@ -23,6 +23,8 @@
       - E：副音声は英語放送
       - 二：その他の二重音声放送
   - データ：番組連動データ放送
+  - BS：[BS1または](../Page/NHK_BS1.md "wikilink")[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、あるいはその両方で放送されている番組
+  - 4K：[NHK BS4Kで放送されている番組](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")（[NHK BS4K・BS8K 番組表](https://www.nhk.or.jp/bs4k8k/program/)も参照）
 
 ## ニュース・報道
 
@@ -36,7 +38,7 @@
   - [時論・公論](../Page/時論・公論.md "wikilink")
   - [国会中継](../Page/国会中継.md "wikilink")
   - [クローズアップ現代+](../Page/クローズアップ現代+.md "wikilink") E（不定期で、英語によるインタビュー部分のみ）
-  - [週刊まるわかりニュース](https://ja.wikipedia.org/wiki/週刊まるわかりニュース "wikilink")
+  - [週刊まるわかりニュース](https://ja.wikipedia.org/wiki/週刊まるわかりニュース "wikilink") 4K
   - [日曜討論](../Page/日曜討論.md "wikilink")
   - [これでわかった\! 世界のいま](https://ja.wikipedia.org/wiki/これでわかった!_世界のいま "wikilink")
   - [気象情報](../Page/気象情報_\(NHK\).md "wikilink")
@@ -98,7 +100,7 @@
   - [あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink") データ
   - [ニュース シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時 "wikilink")
   - [ガッテン\!](https://ja.wikipedia.org/wiki/ガッテン! "wikilink")
-  - [グッと\!スポーツ](https://ja.wikipedia.org/wiki/グッと!スポーツ "wikilink")
+  - [明日へ つなげよう](https://ja.wikipedia.org/wiki/明日へ_\(テレビ番組\) "wikilink")
 
 ### 放送終了
 
@@ -117,15 +119,16 @@
   - [情報LIVE ただイマ\!](https://ja.wikipedia.org/wiki/情報LIVE_ただイマ! "wikilink")（2012年4月13日 - 2013年2月8日）
   - [情報まるごと](https://ja.wikipedia.org/wiki/情報まるごと "wikilink")
   - [ゆうどき](../Page/ゆうどき.md "wikilink")（金は[大阪局制作](https://ja.wikipedia.org/wiki/ゆうどきネットワーク_関西発 "wikilink")）
-  - [ためしてガッテン](../Page/ためしてガッテン.md "wikilink")
+  - [ためしてガッテン](https://ja.wikipedia.org/wiki/ガッテン! "wikilink")
   - [サキどり↑](https://ja.wikipedia.org/wiki/サキどり↑ "wikilink")
+  - [グッと\!スポーツ](https://ja.wikipedia.org/wiki/グッと!スポーツ "wikilink")
 
 ## スポーツ
 
 ### 放送中
 
   - [大相撲中継](../Page/大相撲中継.md "wikilink")（奇数月） データ・E（英語副音声放送は幕内の中継のみ）
-  - [大相撲・幕内の全取組](../Page/大相撲・幕内の全取組.md "wikilink")
+  - [大相撲・幕内の全取組](../Page/大相撲・幕内の全取組.md "wikilink") BS
   - [サタデースポーツ](../Page/サタデースポーツ.md "wikilink")
   - [サンデースポーツ](../Page/サンデースポーツ.md "wikilink")2020
 
@@ -171,9 +174,8 @@
   - [うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")
   - [NHKのど自慢](../Page/NHKのど自慢.md "wikilink")
   - [みんなのうた](../Page/みんなのうた.md "wikilink")
-  - [名曲アルバム](../Page/名曲アルバム.md "wikilink") 5.1SS（一部）
+  - [名曲アルバム](../Page/名曲アルバム.md "wikilink") 5.1SS（一部）・BS・4K
   - [シブヤノオト](https://ja.wikipedia.org/wiki/シブヤノオト "wikilink")
-  - [NAOMIの部屋](https://ja.wikipedia.org/wiki/NAOMIの部屋 "wikilink")
 
 ### 放送終了
 
@@ -224,6 +226,7 @@
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")
   - [みんなの童謡](../Page/みんなの童謡.md "wikilink")
   - [バナナ♪ゼロミュージック](https://ja.wikipedia.org/wiki/バナナ♪ゼロミュージック "wikilink")
+  - [NAOMIの部屋](https://ja.wikipedia.org/wiki/NAOMIの部屋 "wikilink")
 
 ## バラエティ
 
@@ -235,13 +238,14 @@
   - [鶴瓶の家族に乾杯](../Page/鶴瓶の家族に乾杯.md "wikilink")
   - [演芸図鑑](https://ja.wikipedia.org/wiki/演芸図鑑 "wikilink")（番組名には番組ナビゲーターの名前が付けられる）
   - [今夜も生でさだまさし](../Page/今夜も生でさだまさし.md "wikilink")（月1回）
-  - [歌う\!SHOW学校](https://ja.wikipedia.org/wiki/歌う!SHOW学校 "wikilink")（月1回）
   - [所さん\!大変ですよ](https://ja.wikipedia.org/wiki/所さん!大変ですよ "wikilink")
   - [ネーミングバラエティー 日本人のおなまえっ\!](https://ja.wikipedia.org/wiki/ネーミングバラエティー_日本人のおなまえっ! "wikilink")
   - [チコちゃんに叱られる\!](https://ja.wikipedia.org/wiki/チコちゃんに叱られる! "wikilink")
   - [有田P おもてなす](https://ja.wikipedia.org/wiki/有田P_おもてなす "wikilink")
   - [おやすみ日本 眠いいね\!](https://ja.wikipedia.org/wiki/おやすみ日本_眠いいね! "wikilink")
-  - [テンゴちゃん](https://ja.wikipedia.org/wiki/テンゴちゃん "wikilink")
+  - [よなよなラボ](https://ja.wikipedia.org/wiki/よなよなラボ "wikilink")
+  - [有吉のお金発見 突撃\!カネオくん](https://ja.wikipedia.org/wiki/突撃!カネオくん "wikilink")
+  - [サンドのお風呂いただきます](https://ja.wikipedia.org/wiki/サンドのお風呂いただきます "wikilink")
 
 ### 放送終了
 
@@ -302,6 +306,8 @@
   - [総合診療医ドクターG](https://ja.wikipedia.org/wiki/総合診療医ドクターG "wikilink")
   - [探検バクモン](https://ja.wikipedia.org/wiki/探検バクモン "wikilink")
   - [旬感☆ゴトーチ\!](https://ja.wikipedia.org/wiki/旬感☆ゴトーチ! "wikilink")
+  - [テンゴちゃん](https://ja.wikipedia.org/wiki/テンゴちゃん "wikilink")
+  - [歌う\!SHOW学校](https://ja.wikipedia.org/wiki/歌う!SHOW学校 "wikilink")（月1回）
 
 ## クイズ
 
@@ -351,9 +357,9 @@
 
 ### 放送中
 
-  - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink") 二\[2\]・データ
-  - [大河ドラマ](../Page/大河ドラマ.md "wikilink") 二\[3\]・データ
-  - [ドラマ10](../Page/ドラマ10.md "wikilink")
+  - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink") 二\[2\]・データ・BS・4K
+  - [大河ドラマ](../Page/大河ドラマ.md "wikilink") 二\[3\]・データ・BS・4K
+  - [ドラマ10](../Page/ドラマ10.md "wikilink") 4K
   - [土曜ドラマ](../Page/土曜ドラマ_\(NHK\).md "wikilink")
   - [土曜時代ドラマ](https://ja.wikipedia.org/wiki/木曜時代劇_\(NHK\) "wikilink")
   - [よるドラ](../Page/よるドラ.md "wikilink")
@@ -543,11 +549,11 @@
 
   - [NHKスペシャル](../Page/NHKスペシャル.md "wikilink")
   - [目撃\!にっぽん](https://ja.wikipedia.org/wiki/目撃!にっぽん "wikilink")
-  - [アスリートの魂](https://ja.wikipedia.org/wiki/アスリートの魂 "wikilink")
   - [NHK映像ファイル あの人に会いたい](../Page/あの人に会いたい.md "wikilink")
   - [あの日 わたしは〜証言記録 東日本大震災〜](https://ja.wikipedia.org/wiki/証言記録_東日本大震災 "wikilink")
   - [プロフェッショナル 仕事の流儀](../Page/プロフェッショナル_仕事の流儀.md "wikilink")
   - [ドキュメント72時間](../Page/ドキュメント72時間.md "wikilink")
+  - [逆転人生](https://ja.wikipedia.org/wiki/逆転人生 "wikilink")
 
 ### 放送終了
 
@@ -585,7 +591,8 @@
   - [応援ドキュメント 明日はどっちだ](https://ja.wikipedia.org/wiki/応援ドキュメント_明日はどっちだ "wikilink")
   - [めざせ\!2020年のオリンピアン〜東京五輪の原石たち〜](https://ja.wikipedia.org/wiki/めざせ!2020年のオリンピアン〜東京五輪の原石たち〜 "wikilink")
   - [ファミリーヒストリー](https://ja.wikipedia.org/wiki/ファミリーヒストリー "wikilink")
-  - [目撃\!日本列島](https://ja.wikipedia.org/wiki/目撃!日本列島 "wikilink")
+  - [目撃\!日本列島](https://ja.wikipedia.org/wiki/目撃!にっぽん "wikilink")
+  - [アスリートの魂](https://ja.wikipedia.org/wiki/アスリートの魂 "wikilink")
 
 ## 教養・趣味
 
@@ -643,8 +650,10 @@
 
 ### 放送中
 
-  - [さわやか自然百景](../Page/さわやか自然百景.md "wikilink")
+  - [さわやか自然百景](../Page/さわやか自然百景.md "wikilink") BS・4K
+  - [小さな旅](../Page/小さな旅.md "wikilink") BS・4K
   - [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")
+  - [世界はほしいモノにあふれてる](https://ja.wikipedia.org/wiki/世界はほしいモノにあふれてる "wikilink")
 
 ### 放送終了
 
@@ -665,8 +674,7 @@
 ### 放送中
 
   - [ガッテン\!](https://ja.wikipedia.org/wiki/ガッテン! "wikilink")
-  - [ダーウィンが来た\! 〜生きもの新伝説〜](https://ja.wikipedia.org/wiki/ダーウィンが来た!_〜生きもの新伝説〜 "wikilink")
-  - [さわやか自然百景](../Page/さわやか自然百景.md "wikilink")
+  - [ダーウィンが来た\! 〜生きもの新伝説〜](https://ja.wikipedia.org/wiki/ダーウィンが来た!_〜生きもの新伝説〜 "wikilink") BS
 
 ### 放送終了
 
@@ -769,8 +777,6 @@
   - 月〜金 18:10 - 18:58:55
       - 夕方ニュースワイド。『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』『[ニュースほっと関西](https://ja.wikipedia.org/wiki/ニュースほっと関西 "wikilink")』『[ロクいち\!福岡](https://ja.wikipedia.org/wiki/ロクいち福岡 "wikilink")』など
   - [ニュース845](../Page/ニュース845.md "wikilink")
-  - [西日本の旅](../Page/西日本の旅.md "wikilink")（関西以西の『NHKニュースおはよう日本』土曜 ブロック枠で放送）
-  - [小さな旅](../Page/小さな旅.md "wikilink")（日 8:00 - 8:25）
 
 ## ミニ番組
 
@@ -826,9 +832,9 @@
 
   - [土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")〜あなたの声に答えます
   - [どーも、NHK](https://ja.wikipedia.org/wiki/どーも、NHK "wikilink")
-  - [BSコンシェルジュ](https://ja.wikipedia.org/wiki/BSコンシェルジュ "wikilink")
+  - [BSコンシェルジュ](https://ja.wikipedia.org/wiki/BSコンシェルジュ "wikilink") BS
   - [NHKプレマップ](../Page/NHKプレマップ.md "wikilink")（随時放送。時間は2分・3分・5分とまちまち）
-      - もうすぐ9時プレマップ
+      - オシばん
       - 週末プレマップ
 
 <!-- end list -->
@@ -844,6 +850,7 @@
   - [緊急地震速報](../Page/緊急地震速報.md "wikilink")～どう生かす～（1分間のミニ番組だが、珍しく[字幕放送が付いている](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）
   - [歌うコンシェルジュ](https://ja.wikipedia.org/wiki/歌うコンシェルジュ "wikilink")
   - [NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")
+  - もうすぐ9時プレマップ
 
 ## その他
 
@@ -886,7 +893,8 @@
 
 ## 外部リンク
 
-  - [NHK番組表](http://www.nhk.or.jp/hensei/)
+  - [NHKオンライン 番組名一覧](https://www.nhk.or.jp/toppage/program_list/)
+  - [NHK番組表](http://www2.nhk.or.jp/hensei/program/index.cgi?area=001&f=top)
 
 [Category:NHK総合テレビジョンの番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[RL](https://ja.wikipedia.org/wiki/RL)から翻訳されています。
+> この記事は[アキュラ・RL](https://ja.wikipedia.org/wiki/アキュラ・RL)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2009_Acura_RL--DC.jpg "wikilink") **RL**（アールエル）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。2014年モデルより[アキュラ・RLX](https://ja.wikipedia.org/wiki/アキュラ・RLX "wikilink")がRLの後継となっている。

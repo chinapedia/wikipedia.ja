@@ -1,4 +1,4 @@
-> この記事は[HEART \(\)](https://ja.wikipedia.org/wiki/HEART_\(\))から翻訳されています。
+> この記事は[HEART \(漫画\)](https://ja.wikipedia.org/wiki/HEART_\(漫画\))から翻訳されています。
 
 
 『**HEART**』（ハート）は、[高田りえ](../Page/高田りえ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[少女コミック](../Page/少女コミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）において、[2001年](../Page/2001年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")まで連載された。

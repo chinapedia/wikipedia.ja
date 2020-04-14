@@ -1,4 +1,4 @@
-> この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
+> この記事は[おすぎとピーコの金持ちA様×貧乏B様](https://ja.wikipedia.org/wiki/おすぎとピーコの金持ちA様×貧乏B様)から翻訳されています。
 
 
 『**おすぎとピーコの金持ちA様×貧乏B様**』（おすぎとピーコのかねもちエーさまびんぼうビーさま）は、[2002年](../Page/2002年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

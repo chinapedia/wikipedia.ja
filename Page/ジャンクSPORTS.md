@@ -1,4 +1,4 @@
-> この記事は[SPORTS](https://ja.wikipedia.org/wiki/SPORTS)から翻訳されています。
+> この記事は[ジャンクSPORTS](https://ja.wikipedia.org/wiki/ジャンクSPORTS)から翻訳されています。
 
 
 『**ジャンクSPORTS**』（ジャンク・スポーツ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されている](../Page/フジネットワーク.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")を題材とした[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[4月11日](../Page/4月11日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月21日](../Page/3月21日.md "wikilink")までレギュラー放送され、レギュラー終了後は、[特別番組](../Page/特別番組.md "wikilink")として不定期に放送されていたが、[2018年](../Page/2018年.md "wikilink")（平成30年）[1月28日](../Page/1月28日.md "wikilink")から毎週[日曜日](../Page/日曜日.md "wikilink")19:00 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) にて再度、レギュラー放送されている。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作を実施している。通称は『**ジャンク**』『**ジャンスポ**』。こちらでいう「ジャンク」とは英語で「中毒」のこと。
@@ -888,13 +888,13 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - 構成：高須光聖／一文無隼人、藤本昌平、岸本浩二、森泉たつひで
   - TP・SW：斉藤伸介
   - カメラ：中島佑馬
-  - 音声：唐渡健夫（フジテレビ）／戸田裕生
-  - VE：関口貴久（フジテレビ）／齋藤雄一
-  - 照明：谷口明美／松田和樹（フジテレビ）
-  - 編集：粟嶋隆昌、渡邉寛樹、東川健太／渡邊実、斎（斉）藤紗矢香、山下大樹、古屋卓、藤本麻衣子、東川健太、小口夏樹
+  - 音声：唐渡健夫（フジテレビ）【週替り】／戸田裕生
+  - VE：関口貴久（フジテレビ）【週替り】／齋藤雄一
+  - 照明：谷口明美【週替り】／松田和樹（フジテレビ）
+  - 編集：粟嶋隆昌、渡邉寛樹、東川健太【週替り】／渡邊実、斎（斉）藤紗矢香、山下大樹、古屋卓、藤本麻衣子、東川健太、小口夏樹
   - MA：土屋信
   - TK：星美香
-  - 音響効果：星裕介、温水義成／大平拓也
+  - 音響効果：星裕介、温水義成【週替り】／大平拓也
   - CG：千代祥子・小倉敦之（フジテレビ）
   - リサーチ：亀田貴誠、志土地俊【毎週】、近藤雄亮【不定期】
   - 美術制作：三竹寛典・双川正文（フジテレビ）
@@ -921,7 +921,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - ディレクター：前田匡寛、寺下洋平（daInaRI）、阪口悠樹、小野澤拓、宮原和音・金城和彦（ビーダッシュ）、池田靖、吉田悠太・山嵜哲矢・前場智也（ビー・ブレーン）、双津大地郎（[シオプロ](https://ja.wikipedia.org/wiki/シオプロ "wikilink")）、大塚隆史、鴛海剛、上松直也、舟津大雄・牛久英雄（ネクステップ）、新垣博章、高橋行広（ネクステップ）【週替り】、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")・米田唯一・間島陸（フジテレビ、間島→以前はFD）【毎週】／関屋公紀、伊豫直哉・清水悠貴・乙坂友一・海野友梨（ディ・コンプレックス）、栗城史人（ネクステップ）、青木恒介、市川良太（以前はAD）、藪原涼介（[東通企画](../Page/東通企画.md "wikilink")）、山本紗智子、西尾友里（ビーダッシュ）、中西正太（シオプロ）
   - 演出：高橋正尚（フジテレビ、以前はディレクター）【毎週】、堀正義（ABCリブラ）、但木洋光、川本良樹（共テレ）、松田裕士（のれそれ丸）、石武士（ビー・ブレーン）、石川陽（ネクステップ）【週替り】／唐雅則（[スマイルオン](https://ja.wikipedia.org/wiki/スマイルオン "wikilink")）、夫馬教行（ディ・コンプレックス）、中田三浩（ビーダッシュ）
   - キャスティングプロデューサー：金井由紀子（フジテレビ）、村田聡子（[passion](https://ja.wikipedia.org/wiki/パッション_\(テレビ制作会社\) "wikilink")）
-  - プロデューサー：滝澤美衣奈・橋本英司（フジテレビ、橋本→以前は編成）、星久幸（[よしもとスポーツエンタテインメント](https://ja.wikipedia.org/wiki/よしもとスポーツエンタテインメント "wikilink")）、長江康裕（吉本興業）、[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（ビーダッシュ）【毎週】、[井口毅](../Page/井口毅.md "wikilink")（ABCリブラ）、脇中滋代、[岸岡孝治](https://ja.wikipedia.org/wiki/岸岡孝治 "wikilink")（ABCリブラ）、池端強、永田浩子（ビーダッシュ）、菅野貴志（ビー・ブレーン）、白石綾子（ネクステップ）【週替り】／古賀太隆（ディ・コンプレックス）、秋葉英行（ネクステップ）、春名雄児（ABCリブラ）、鈴木美帆（ビーダッシュ）
+  - プロデューサー：滝澤美衣奈・橋本英司（フジテレビ、橋本→以前は編成）、星久幸（[よしもとスポーツエンタテインメント](https://ja.wikipedia.org/wiki/よしもとスポーツエンタテインメント "wikilink")）、長江康裕（吉本興業）、[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（ビーダッシュ）【毎週】、[井口毅](../Page/井口毅.md "wikilink")（ABCリブラ）、脇中滋代、[岸岡孝治](https://ja.wikipedia.org/wiki/岸岡孝治 "wikilink")（ABCリブラ）、池端強、永田浩子（ビーダッシュ）、菅野貴志（ビー・ブレーン）、白石綾子（ネクステップ）【週替り】／古賀太隆（ディ・コンプレックス）、秋葉英行（ネクステップ）、春名雄児（ABCリブラ）、鈴木美帆（ビーダッシュ）、脇中滋代
   - スポーツプロデューサー：吉村忠史・[小須田和彦](../Page/小須田和彦.md "wikilink")・吉田昇（フジテレビ）
   - 総合演出：当麻晋三（フジテレビ、以前は演出）
   - チーフプロデューサー：[蜜谷浩弥](../Page/蜜谷浩弥.md "wikilink")（フジテレビ）
@@ -1009,7 +1009,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
 
 <references />
 
-[Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組 "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:金曜プレミアム](https://ja.wikipedia.org/wiki/Category:金曜プレミアム "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2018年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2018年のテレビ番組_\(日本\) "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組 "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:金曜プレミアム](https://ja.wikipedia.org/wiki/Category:金曜プレミアム "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2018年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2018年のテレビ番組_\(日本\) "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  フジのトリノ五輪中継の担当アナには[三宅正治](../Page/三宅正治.md "wikilink")と、同局の『[新春かくし芸大会](../Page/新春かくし芸大会.md "wikilink")』『[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")』で[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")と共に進行役と務めた[高島彩](../Page/高島彩.md "wikilink")が担当。
 2.  [フジ「ジャンク-」が石垣佑磨場面カット](http://www.sanspo.com/geino/news/081119/gnj0811190505011-n1.htm)（サンケイスポーツ）

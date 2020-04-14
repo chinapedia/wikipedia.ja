@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVおじゃマンボウ](https://ja.wikipedia.org/wiki/TVおじゃマンボウ)から翻訳されています。
 
 
 『**TVおじゃマンボウ**』（テレビおじゃマンボウ）は、[日テレ系](https://ja.wikipedia.org/wiki/日テレ系 "wikilink")の一部局で[1993年](../Page/1993年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの12年8ヶ月間、毎週[土曜日](../Page/土曜日.md "wikilink")の17:00から（[1996年](../Page/1996年.md "wikilink")3月までは17:10から）放送されていたテレビ番組やテレビの舞台裏を取り上げる[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
@@ -143,7 +143,7 @@
 ### 途中で放送が打ち切られた放送局
 
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（放送開始以前から自社制作番組（終了時点では『[輝いて…土曜日](https://ja.wikipedia.org/wiki/輝いて…土曜日 "wikilink")』）放送のため当枠は非ネットだったが、番組終了に伴い1994年1月からネット開始。その後、自社制作番組『[ゴジてれ土曜版](../Page/ゴジてれ土曜版.md "wikilink")』開始に伴い、1999年3月末をもってネットを打ち切った。\[3\]\[4\]）。
-  - [テレビ金沢](../Page/テレビ金沢.md "wikilink")
+  - [テレビ金沢](../Page/テレビ金沢.md "wikilink")\[5\]
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
   - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
   - [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")（1999年～2000年まで自社製作番組放送のためネットを打ち切ったが、その後自社製作番組の終了に伴いネットを再開。その後再度打ち切り。）
@@ -187,3 +187,4 @@
 2.  ただし、[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")と[NHKの計](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")7チャンネルのみ
 3.  『福島民報』1994年01月15日付朝刊、24面、テレビ欄に新マークあり。
 4.  『福島民報』1999年03月27日付朝刊、26面、テレビ欄に終マークあり。
+5.  『テレビ金沢開局10年誌』（2000年3月、テレビ金沢発行）61ページ。

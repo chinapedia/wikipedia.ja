@@ -1,4 +1,4 @@
-> この記事は[JR19D](https://ja.wikipedia.org/wiki/JR19D)から翻訳されています。
+> この記事は[JR貨物19D形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19D形コンテナ)から翻訳されています。
 
 
 [19D-7030_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:19D-7030_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:19D-7030_【JR貨物】Containers_of_Japan_Rail_Freight.jpg") [JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--③.jpg](https://ja.wikipedia.org/wiki/File:JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--③.jpg "fig:JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--③.jpg") **JR貨物19D形コンテナ**（JRかもつ19Dがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が配備している、鉄道輸送用長さ12[ftの](../Page/フィート.md "wikilink")5[トン](../Page/トン.md "wikilink")積み[有蓋コンテナである](https://ja.wikipedia.org/wiki/コンテナ#ドライ・コンテナ "wikilink")。
@@ -7,13 +7,13 @@
 
 本形式は[19B形の改良型であり](../Page/JR貨物19B形コンテナ.md "wikilink")、相違点は[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")を機に、災害等により長期間の鉄道輸送障害が起こった時の[内航船](https://ja.wikipedia.org/wiki/内航船 "wikilink")による、鉄道代行輸送体制に即応出来るようにコンテナ下部四隅に内航船積固定用の[ツイストロック式のホール形隅金具と](https://ja.wikipedia.org/wiki/緊締装置#ツイストロック "wikilink")、上部四隅にクレーン吊り作業に対応した簡易式隅金具が新たに付属したことである。
 
-[2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）1月5日現在、34,066個使用されている。2017年には、50000番台を突破した。
+[2020年](../Page/2020年.md "wikilink")（[令和](../Page/平成.md "wikilink")2年）1月5日現在、31,002個使用されている。2017年には、50000番台を突破した。
 
 登場時は旧型の国鉄コンテナの老朽取換用として製造されていたが、後に[18D形などのJR初期に製造されたコンテナも置き換えている](../Page/JR貨物18D形コンテナ.md "wikilink")。2017年度までは仕様変更を重ねながら、JR貨物の主力コンテナ形式として[19G形と共に増備が続いていたが](../Page/JR貨物19G形コンテナ.md "wikilink")、[2018年](../Page/2018年.md "wikilink")3月17日のダイヤ改正でコキ50000形の営業運転が終了することにより、背高コンテナの運用上の制限がなくなったため、2018年度より[20D形へ製造が移行した](https://ja.wikipedia.org/wiki/JR貨物20D形コンテナ "wikilink")。
 
-初期に製造された本形式は老朽化が進んでおり、内張りを張り替えて塗装変更する更新工事を施して使用されている。しかし近年、新たに製造された本形式により、初期製造の個体も置き換えが進み、廃棄されたり[静脈物流](../Page/静脈物流.md "wikilink")専用のW19D形や[死重](https://ja.wikipedia.org/wiki/死重 "wikilink")用途の[ZD19D形に改造されたりしている](https://ja.wikipedia.org/wiki/JR貨物ZD19D形コンテナ "wikilink")。
+初期に製造された本形式は老朽化が進んでおり、内張りを張り替えて塗装変更する更新工事を施して使用されている。しかし近年、新たに製造された本形式や20D形により、初期製造の個体も置き換えが進み、廃棄されたり[静脈物流](../Page/静脈物流.md "wikilink")専用のW19D形や[死重](https://ja.wikipedia.org/wiki/死重 "wikilink")用途の[ZD19D形に改造されたりしている](https://ja.wikipedia.org/wiki/JR貨物ZD19D形コンテナ "wikilink")。
 
-2019年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）7月現在では42001-44100迄の廃棄処分が進んでいる。
+2019年（令和元年）7月現在では42001-44100迄の廃棄処分が進んでいる。
 
 なお、廃棄された19D-5001が、整備の上、[鉄道博物館において](../Page/鉄道博物館_\(さいたま市\).md "wikilink")[コキ50000に積載状態で展示されている](../Page/国鉄コキ50000形貨車.md "wikilink")。
 

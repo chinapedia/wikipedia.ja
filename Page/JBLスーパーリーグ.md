@@ -1,4 +1,4 @@
-> この記事は[JBL](https://ja.wikipedia.org/wiki/JBL)から翻訳されています。
+> この記事は[JBLスーパーリーグ](https://ja.wikipedia.org/wiki/JBLスーパーリーグ)から翻訳されています。
 
 
 **スーパーリーグ**は、[バスケットボール](../Page/バスケットボール.md "wikilink")[日本リーグ機構（JBL）が主催していた社会人リーグのトップリーグ](../Page/バスケットボール日本リーグ機構.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[スレッドキングABC](https://ja.wikipedia.org/wiki/スレッドキングABC)から翻訳されています。
 
 
 『**スレッドキングABC**』は、[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")まで、大阪・[ABCラジオ（朝日放送）で放送された](../Page/朝日放送ラジオ.md "wikilink")、[松竹芸能](../Page/松竹芸能.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")、[アメリカザリガニが](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")[パーソナリティを務める番組である](../Page/ラジオパーソナリティ.md "wikilink")。

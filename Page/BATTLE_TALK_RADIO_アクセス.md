@@ -1,4 +1,4 @@
-> この記事は[BATTLE TALK RADIO ](https://ja.wikipedia.org/wiki/BATTLE_TALK_RADIO_)から翻訳されています。
+> この記事は[BATTLE TALK RADIO アクセス](https://ja.wikipedia.org/wiki/BATTLE_TALK_RADIO_アクセス)から翻訳されています。
 
 
 **BATTLE TALK RADIO アクセス**（バトルトークラジオ アクセス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月〜[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションとして放送していた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

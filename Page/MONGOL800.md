@@ -876,10 +876,11 @@ VIZL-1013</p></td>
 
 ## 外部リンク
 
-  - [MONGOL800 HOME PAGE](http://www.mongol800.jp/) - 公式ウェブサイト
+  - [MONGOL800](http://www.mongol800.jp/) - 公式ウェブサイト
 
   - [ハイ・ウェーブ](http://www.highwave.co.jp/) - 所属事務所
 
+  -
   -
   -
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:メロディック・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:メロディック・ハードコア・バンド "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

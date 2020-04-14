@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR貨物のコンテナ形式](https://ja.wikipedia.org/wiki/JR貨物のコンテナ形式)から翻訳されています。
 
 
 **JR貨物のコンテナ形式**（ジェイアールかもつのコンテナけいしき）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）に在籍する、あるいは在籍した[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")の一覧（[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")を含む）である。

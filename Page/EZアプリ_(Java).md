@@ -1,4 +1,4 @@
-> この記事は[EZ \(Java\)](https://ja.wikipedia.org/wiki/EZ_\(Java\))から翻訳されています。
+> この記事は[EZアプリ \(Java\)](https://ja.wikipedia.org/wiki/EZアプリ_\(Java\))から翻訳されています。
 
 
 **EZアプリ (Java)**は[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[auブランドが](../Page/Au_\(携帯電話\).md "wikilink")[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")〜[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")の間に発売されていた端末に提供していた、[EZweb](../Page/EZweb.md "wikilink")対応[携帯電話](../Page/携帯電話.md "wikilink")の一部で実行できる[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")およびサービスである。当初は**ezplus**と呼ばれていたが、2003年7月にEZアプリ (Java)に改称した。本項ではさらに[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")向けに提供している**EZアプリ （J）**もまとめて記載する。2007年から提供している[オープンアプリプレーヤー](https://ja.wikipedia.org/wiki/オープンアプリプレーヤー "wikilink")はそちらの項目を参照。

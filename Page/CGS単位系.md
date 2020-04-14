@@ -1,4 +1,4 @@
-> この記事は[CGS](https://ja.wikipedia.org/wiki/CGS)から翻訳されています。
+> この記事は[CGS単位系](https://ja.wikipedia.org/wiki/CGS単位系)から翻訳されています。
 
 
 **CGS単位系**（シージーエスたんいけい）は、[長さ](../Page/長さ.md "wikilink")の単位としての[センチメートル](../Page/センチメートル.md "wikilink") (centimetre)、[質量](../Page/質量.md "wikilink")の単位としての[グラム](../Page/グラム.md "wikilink") (gram)、[時間](../Page/時間.md "wikilink")の単位としての[秒](../Page/秒.md "wikilink")を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[メートル法](../Page/メートル法.md "wikilink")系の[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。"CGS" は基本単位の頭文字をつなげたものである。[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")の単位は3つの基本単位からの組み立てにより定義されるが、[電磁気の単位](https://ja.wikipedia.org/wiki/電磁気の単位 "wikilink")については複数の組み立て方がある\[1\]\[2\]\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[AMG](https://ja.wikipedia.org/wiki/AMG)から翻訳されています。
+> この記事は[メルセデスAMG](https://ja.wikipedia.org/wiki/メルセデスAMG)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AMG_logo.svg "wikilink") [代替文=](https://ja.wikipedia.org/wiki/ファイル:Mercedes-AMG_GT_R_\(C190\)_front.jpg "wikilink") **メルセデスAMG**（*Mercedes-AMG* 、メルセデス・エーエムジー\[1\]）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが展開するスポーツ](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")・レース系の[ブランド](../Page/ブランド.md "wikilink")である。「究極のハイパフォーマンスを追求するモデル」と位置付けられている。

@@ -1,4 +1,4 @@
-> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+> この記事は[ファイナルファンタジー \(OVA\)](https://ja.wikipedia.org/wiki/ファイナルファンタジー_\(OVA\))から翻訳されています。
 
 
 『**ファイナルファンタジー**』（*Final Fantasy*、北米版タイトル：*Final Fantasy: Legend of the Crystals*）は、[1994年](../Page/1994年.md "wikilink")に発売された[OVA](../Page/OVA.md "wikilink")。『[ファイナルファンタジーV](../Page/ファイナルファンタジーV.md "wikilink")』の200年後という舞台設定で、建物などの描写に大きな違いがあるものの、クリスタルを守るために悪と戦う勇者という構図は継承されている。「風の章」、「炎の章」、「竜の章」、「星の章」の全4巻からなる。

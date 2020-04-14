@@ -1,4 +1,4 @@
-> この記事は[EV Plus](https://ja.wikipedia.org/wiki/EV_Plus)から翻訳されています。
+> この記事は[ホンダ・EV Plus](https://ja.wikipedia.org/wiki/ホンダ・EV_Plus)から翻訳されています。
 
 
 **EV Plus**（イーブイ プラス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[ハッチバック](../Page/ハッチバック.md "wikilink")型の[電気自動車](../Page/電気自動車.md "wikilink")である。

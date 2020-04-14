@@ -1,4 +1,4 @@
-> この記事は[Wink](https://ja.wikipedia.org/wiki/Wink)から翻訳されています。
+> この記事は[やまだかつてないWink](https://ja.wikipedia.org/wiki/やまだかつてないWink)から翻訳されています。
 
 
 **やまだかつてないWink**（やまだかつてないウィンク）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[邦ちゃんのやまだかつてないテレビ](../Page/邦ちゃんのやまだかつてないテレビ.md "wikilink")』で[山田邦子](../Page/山田邦子.md "wikilink")が[横山知枝](../Page/横山知枝.md "wikilink")と組んでいたユニット。[Wink](../Page/Wink.md "wikilink")のパロディであり、通称「**やまかつWink**」。

@@ -1,4 +1,4 @@
-> この記事は[Fiat-Shamir](https://ja.wikipedia.org/wiki/Fiat-Shamir)から翻訳されています。
+> この記事は[Fiat-Shamirヒューリスティック](https://ja.wikipedia.org/wiki/Fiat-Shamirヒューリスティック)から翻訳されています。
 
 
 **Fiat-Shamirヒューリスティック**は、honest verifierかつパブリックコインな[対話証明](https://ja.wikipedia.org/wiki/対話証明 "wikilink")プロトコルを[ハッシュ関数](../Page/ハッシュ関数.md "wikilink")を用いる事で[証明文](https://ja.wikipedia.org/wiki/証明文 "wikilink")作成プロトコルや[電子署名](../Page/電子署名.md "wikilink")方式に変換する方法。

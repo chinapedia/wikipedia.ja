@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK長崎放送局](https://ja.wikipedia.org/wiki/NHK長崎放送局)から翻訳されています。
 
 
 **NHK長崎放送局**（エヌエイチケイながさきほうそうきょく）は、[長崎県](../Page/長崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -194,7 +194,7 @@
   - [NHKニュースおはよう長崎](https://ja.wikipedia.org/wiki/NHKニュースおはよう長崎 "wikilink")
   - くらしのガイド長崎→ながさきひるまえ情報便
   - 西坂青春一番地→もってこい長崎5
-  - ニューススタジオ長崎640→ながさき630→イブニングネットワークながさき→情報らしんばん長崎→もってこい長崎6→ニュース長崎EYE610→見んと\!長崎
+  - ニューススタジオ長崎640→ながさき630→イブニングネットワークながさき→イブニングワイドながさき→情報らしんばん長崎→もってこい長崎6→ニュース長崎EYE610→見んと\!長崎
   - ながさき645→[NHKニュースながさき](https://ja.wikipedia.org/wiki/NHKニュースながさき "wikilink")
   - ぼくらのピースの種
 
@@ -221,8 +221,8 @@
 長崎県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺健太" title="wikilink">渡辺健太</a></p></td>
-<td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木花牧雄" title="wikilink">木花牧雄</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イブニング長崎" title="wikilink">イブニング長崎</a><br />
 （キャスター）</p></td>
 </tr>
@@ -232,8 +232,8 @@
 <td><p>長崎県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/三橋大樹.md" title="wikilink">三橋大樹</a></p></td>
-<td><p><a href="../Page/NHK宇都宮放送局.md" title="wikilink">宇都宮</a></p></td>
+<td><p><a href="../Page/関根太朗.md" title="wikilink">関根太朗</a></p></td>
+<td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -262,37 +262,34 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村史織" title="wikilink">吉村史織</a></p></td>
-<td></td>
+<td><p>寺田美穂</p></td>
+<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/竹本有貴" title="wikilink">竹本有貴</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/福光瞳" title="wikilink">福光瞳</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ながさきナビゲーター_ヒルミテ" title="wikilink">ながさきナビゲーター ヒルミテ</a></p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山本美穂" title="wikilink">山本美穂</a></p></td>
+<tr class="odd">
+<td><p>西牟田知佳</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a></p></td>
 <td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td><p>イブニング長崎</p></td>
 </tr>
 </tbody>
 </table>
+
+　　　　
 
 ## 脚注
 

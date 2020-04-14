@@ -225,9 +225,9 @@
 ## 外部リンク
 
   - [MUSIC HAMMER](http://www.fujitv.co.jp/HAMMER/)
-  - [音組ホームページ](http://www.fujitv.co.jp/otogumi/)
-  - [きくちPの音組収録日記](http://www.fujitv.co.jp/otogumi/lovekp/)
-  - [音組スタッフルーム](http://www.fujitv.co.jp/FNS/staffroom/)
+  - [音組ホームページ](https://www.fujitv.co.jp/otogumi/)
+  - [きくちPの音組収録日記](https://www.fujitv.co.jp/otogumi/lovekp/)
+  - [音組スタッフルーム](https://www.fujitv.co.jp/FNS/staffroom/)
 
 ## 関連番組
 

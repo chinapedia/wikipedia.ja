@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[DCカード](https://ja.wikipedia.org/wiki/DCカード)から翻訳されています。
 
 
 **DCカード**（ディーシーカード）は、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社及び[DCカードグループが発行する](https://ja.wikipedia.org/wiki/#DCカードグループ "wikilink")[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。

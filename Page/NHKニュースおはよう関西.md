@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースおはよう関西](https://ja.wikipedia.org/wiki/NHKニュースおはよう関西)から翻訳されています。
 
 
 『**NHKニュースおはよう関西**』（エヌエイチケイニュースおはようかんさい）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")が朝7時台に放送している[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")である。「[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」の枠内で、[近畿広域圏に向けて](../Page/広域放送.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")・リポート・中継・[気象情報](../Page/気象情報_\(NHK\).md "wikilink")・[交通情報](../Page/交通情報.md "wikilink")を放送している。
@@ -107,6 +107,6 @@
 
   - [NHK大阪放送局 おはよう関西](http://www4.nhk.or.jp/P2849/)
 
-[Category:NHKニュースおはよう日本の地域情報番組](https://ja.wikipedia.org/wiki/Category:NHKニュースおはよう日本の地域情報番組 "wikilink") [Category:NHK関西](https://ja.wikipedia.org/wiki/Category:NHK関西 "wikilink")
+[Category:NHKニュースおはよう日本の地域情報番組](https://ja.wikipedia.org/wiki/Category:NHKニュースおはよう日本の地域情報番組 "wikilink") [Category:NHK大阪](https://ja.wikipedia.org/wiki/Category:NHK大阪 "wikilink") [Category:NHK関西](https://ja.wikipedia.org/wiki/Category:NHK関西 "wikilink")
 
 1.  [『まんぷく』の“朝ドラ送り”　高瀬アナだけではなく関西でも！](https://www.news-postseven.com/archives/20181110_799663.html),NEWSポストセブン,2018年11月10日

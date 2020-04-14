@@ -1,4 +1,4 @@
-> この記事は[FCX](https://ja.wikipedia.org/wiki/FCX)から翻訳されています。
+> この記事は[ホンダ・FCX](https://ja.wikipedia.org/wiki/ホンダ・FCX)から翻訳されています。
 
 
 **FCX**（エフシーエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、[リース](../Page/リース.md "wikilink")販売していた[燃料電池自動車](../Page/燃料電池自動車.md "wikilink")である。

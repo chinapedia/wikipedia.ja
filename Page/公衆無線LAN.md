@@ -1,4 +1,4 @@
-> この記事は[LAN](https://ja.wikipedia.org/wiki/LAN)から翻訳されています。
+> この記事は[公衆無線LAN](https://ja.wikipedia.org/wiki/公衆無線LAN)から翻訳されています。
 
 
 [WI-FI_Range_Diagram.svg](https://ja.wikipedia.org/wiki/File:WI-FI_Range_Diagram.svg "fig:WI-FI_Range_Diagram.svg") **公衆無線LAN**（こうしゅうむせんラン）とは、[無線LAN](../Page/無線LAN.md "wikilink")を利用した[インターネット](../Page/インターネット.md "wikilink")への接続を提供するサービスを指す。その[アクセスポイントから受信できる場所を](../Page/アクセスポイント_\(無線LAN\).md "wikilink")、**無線LANスポット**、**[Wi-Fi](../Page/Wi-Fi.md "wikilink")スポット**、**フリースポット**、**ホットスポット**などと呼ぶ。一つのアクセスポイントから受信できる範囲は半径20m程度。

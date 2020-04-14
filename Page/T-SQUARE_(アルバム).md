@@ -1,4 +1,4 @@
-> この記事は[T-SQUARE \(\)](https://ja.wikipedia.org/wiki/T-SQUARE_\(\))から翻訳されています。
+> この記事は[T-SQUARE \(アルバム\)](https://ja.wikipedia.org/wiki/T-SQUARE_\(アルバム\))から翻訳されています。
 
 
 『**T-SQUARE**』（ティースクェア）は、[T-SQUARE](../Page/T-SQUARE.md "wikilink")のアルバムである。[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にリリースされた。

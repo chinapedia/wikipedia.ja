@@ -1,7 +1,7 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK福山支局](https://ja.wikipedia.org/wiki/NHK福山支局)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Fukuyama.JPG "wikilink") **NHK福山支局**（エヌエイチケイふくやましきょく）は、[広島県](../Page/広島県.md "wikilink")の東部地区（5市17町村）の報道業務拠点としての役目を受け持つ[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")の支局である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Fukuyama.JPG "wikilink") **NHK福山支局**（エヌエイチケイふくやましきょく）は、[広島県](../Page/広島県.md "wikilink")の東部地区の報道業務拠点としての役目を受け持つ[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")の支局である。
 
 もとは、[広島県](../Page/広島県.md "wikilink")[備後南部を放送エリアとした](../Page/備後国.md "wikilink")**NHK福山放送局**だった。
 

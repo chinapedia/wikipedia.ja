@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.リアンが診てあげる](https://ja.wikipedia.org/wiki/Dr.リアンが診てあげる)から翻訳されています。
 
 
 『**Dr.リアンが診てあげる**』（ドクターリアンがみてあげる）は[竹内元紀](../Page/竹内元紀.md "wikilink")著の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

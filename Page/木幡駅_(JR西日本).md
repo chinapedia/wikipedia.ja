@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[木幡駅 \(JR西日本\)](https://ja.wikipedia.org/wiki/木幡駅_\(JR西日本\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_0112.jpg "wikilink")
@@ -162,6 +162,10 @@ JRの駅名は「こ**は**た」であるが、近隣にある[京阪](../Page/
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>2,762</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>2,712</p></td>
 </tr>
 </tbody>
 </table>

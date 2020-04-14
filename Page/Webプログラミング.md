@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webプログラミング](https://ja.wikipedia.org/wiki/Webプログラミング)から翻訳されています。
 
 
 **Webプログラミング**（ウェブプログラミング）とは、[World Wide Webで使われる](../Page/World_Wide_Web.md "wikilink")[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")の[プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、Web[ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")を行うことである。また、この作業を行う人間をWeb[プログラマ](../Page/プログラマ.md "wikilink")、Web[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")、Web開発者、Web[ディベロッパー](https://ja.wikipedia.org/wiki/ディベロッパー "wikilink")と呼ぶ。

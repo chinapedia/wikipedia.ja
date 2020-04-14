@@ -1,4 +1,4 @@
-> この記事は[PIC \(\)](https://ja.wikipedia.org/wiki/PIC_\(\))から翻訳されています。
+> この記事は[PIC \(コントローラ\)](https://ja.wikipedia.org/wiki/PIC_\(コントローラ\))から翻訳されています。
 
 
 **PIC**（ピック、Peripheral Interface Controller）とは、[マイクロチップ・テクノロジー](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")社 (Microchip Technology Inc.) が製造している[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")（制御用IC）製品群の総称である。

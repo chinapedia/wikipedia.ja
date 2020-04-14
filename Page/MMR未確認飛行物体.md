@@ -1,4 +1,4 @@
-> この記事は[MMR](https://ja.wikipedia.org/wiki/MMR)から翻訳されています。
+> この記事は[MMR未確認飛行物体](https://ja.wikipedia.org/wiki/MMR未確認飛行物体)から翻訳されています。
 
 
 <div class="pathnavbox">

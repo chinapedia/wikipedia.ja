@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJグループ](https://ja.wikipedia.org/wiki/UFJグループ)から翻訳されています。
 
 
 **UFJグループ**（ユーエフジェイグループ）は、旧[三和銀行](../Page/三和銀行.md "wikilink")（融資系列である[みどり会](../Page/みどり会.md "wikilink")構成企業）と旧[東海銀行](../Page/東海銀行.md "wikilink")を[メインバンクとした企業からなる企業グループである](https://ja.wikipedia.org/wiki/メインバンク制 "wikilink")。但し、融資系列としての活動は活発ではなく、[みずほグループ](https://ja.wikipedia.org/wiki/みずほグループ "wikilink")同様に金融持株会社の旧[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")を核とする金融事業関連会社を指す場合が多かった。

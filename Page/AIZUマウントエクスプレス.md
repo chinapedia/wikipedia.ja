@@ -1,4 +1,4 @@
-> この記事は[AIZU](https://ja.wikipedia.org/wiki/AIZU)から翻訳されています。
+> この記事は[AIZUマウントエクスプレス](https://ja.wikipedia.org/wiki/AIZUマウントエクスプレス)から翻訳されています。
 
 
 **AIZUマウントエクスプレス**（あいづマウントエクスプレス）は、[会津鉄道](../Page/会津鉄道.md "wikilink")が保有する[優等列車](../Page/優等列車.md "wikilink")用の車内設備を備えた[気動車](../Page/気動車.md "wikilink")の愛称、およびこの気動車を使用した[快速列車](../Page/快速列車.md "wikilink")の愛称である。

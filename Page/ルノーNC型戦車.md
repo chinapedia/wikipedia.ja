@@ -1,4 +1,4 @@
-> この記事は[NC](https://ja.wikipedia.org/wiki/NC)から翻訳されています。
+> この記事は[ルノーNC型戦車](https://ja.wikipedia.org/wiki/ルノーNC型戦車)から翻訳されています。
 
 
 [Bundesarchiv_Bild_146-1973-035-12,_Jugoslawien,_zerstörter_jugosl._Panzer.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_146-1973-035-12,_Jugoslawien,_zerstörter_jugosl._Panzer.jpg "fig:Bundesarchiv_Bild_146-1973-035-12,_Jugoslawien,_zerstörter_jugosl._Panzer.jpg")の際に撃破されたもの。\]\] [Bundesarchiv_Bild_146-1973-035-10,_Jugoslawien,_zerstörte_jugosl._Panzer.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_146-1973-035-10,_Jugoslawien,_zerstörte_jugosl._Panzer.jpg "fig:Bundesarchiv_Bild_146-1973-035-10,_Jugoslawien,_zerstörte_jugosl._Panzer.jpg")

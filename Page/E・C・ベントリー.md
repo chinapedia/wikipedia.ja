@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[E・C・ベントリー](https://ja.wikipedia.org/wiki/E・C・ベントリー)から翻訳されています。
 
 
 **エドマンド・クレリヒュー・ベントリー**（Edmund Clerihew Bentley, [1875年](../Page/1875年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[詩人](../Page/詩人.md "wikilink")、[推理作家](../Page/推理作家.md "wikilink")。長編[推理小説](../Page/推理小説.md "wikilink")『[トレント最後の事件](https://ja.wikipedia.org/wiki/トレント最後の事件 "wikilink")』の作者として著名である。二男はイラストレーターとして知られるニコラス・ベントリー ([Nicolas Bentley](https://ja.wikipedia.org/wiki/:en:Nicolas_Bentley "wikilink"))。

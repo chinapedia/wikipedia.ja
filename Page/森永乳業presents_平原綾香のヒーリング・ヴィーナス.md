@@ -1,4 +1,4 @@
-> この記事は[presents ](https://ja.wikipedia.org/wiki/presents_)から翻訳されています。
+> この記事は[森永乳業presents 平原綾香のヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/森永乳業presents_平原綾香のヒーリング・ヴィーナス)から翻訳されています。
 
 
 **森永乳業presents 平原綾香のヒーリング・ヴィーナス**（もりながにゅうぎょうプレゼンツ ひらはらあやかのヒーリング・ヴィーナス）は、2006年4月から2019年3月まで[歌手](../Page/歌手.md "wikilink")の[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")が[TOKYO FMで担当していた](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

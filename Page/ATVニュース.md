@@ -1,4 +1,4 @@
-> この記事は[ATV](https://ja.wikipedia.org/wiki/ATV)から翻訳されています。
+> この記事は[ATVニュース](https://ja.wikipedia.org/wiki/ATVニュース)から翻訳されています。
 
 
 **ATVニュース**（エーティーブイニュース）は、[青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）で[2013年](../Page/2013年.md "wikilink")9月26日まで放送されたローカルスポットニュース番組。

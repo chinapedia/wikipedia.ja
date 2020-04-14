@@ -1,4 +1,4 @@
-> この記事は[AQ](https://ja.wikipedia.org/wiki/AQ)から翻訳されています。
+> この記事は[AQインタラクティブ](https://ja.wikipedia.org/wiki/AQインタラクティブ)から翻訳されています。
 
 
 **株式会社AQインタラクティブ**（エーキューインタラクティブ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")開発・販売会社。「AQ」は「Artistic Quality」の略であるとともに、「[永久](https://ja.wikipedia.org/wiki/永久 "wikilink")」という意味もかけていた。

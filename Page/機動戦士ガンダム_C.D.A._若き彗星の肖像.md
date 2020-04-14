@@ -1,4 +1,4 @@
-> この記事は[ C.D.A. ](https://ja.wikipedia.org/wiki/_C.D.A._)から翻訳されています。
+> この記事は[機動戦士ガンダム C.D.A. 若き彗星の肖像](https://ja.wikipedia.org/wiki/機動戦士ガンダム_C.D.A._若き彗星の肖像)から翻訳されています。
 
 
 『**機動戦士ガンダム C.D.A. 若き彗星の肖像**』（きどうせんしガンダム Char's Deleted Affair わかきすいせいのしょうぞう）は、[北爪宏幸](../Page/北爪宏幸.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[角川書店](../Page/角川書店.md "wikilink")の雑誌『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』創刊号から2009年10月号にかけて連載された。

@@ -1,4 +1,4 @@
-> この記事は[NCAA](https://ja.wikipedia.org/wiki/NCAA)から翻訳されています。
+> この記事は[NCAA男子バスケットボールトーナメント](https://ja.wikipedia.org/wiki/NCAA男子バスケットボールトーナメント)から翻訳されています。
 
 
 **全米大学体育協会男子バスケットボールトーナメント**（NCAA Men's Basketball Tournament）は、[全米大学体育協会](../Page/全米大学体育協会.md "wikilink")（NCAA）が主催する男子[バスケットボール](../Page/バスケットボール.md "wikilink")大会である。
@@ -1346,6 +1346,18 @@
 （<a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a><a href="../Page/ミネアポリス.md" title="wikilink">ミネアポリス</a>）</p></td>
 <td><p>72,062人</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020年NCAA男子バスケットボールトーナメント" title="wikilink">82</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019-2020シーズンのNCAAディビジョンI男子バスケットボール・シーズン" title="wikilink">2019-20</a></p></td>
+<td><p><del>2020年4月6日</del></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_(2019年-)" title="wikilink">新型コロナウイルス感染症流行のため開催中止</a>[1]</p></td>
+<td><p><del><a href="https://ja.wikipedia.org/wiki/メルセデス・ベンツ・スタジアム" title="wikilink">メルセデス・ベンツ・スタジアム</a><br />
+（<a href="../Page/ジョージア州.md" title="wikilink">ジョージア州</a><a href="../Page/アトランタ.md" title="wikilink">アトランタ</a>）</del></p></td>
+<td><p>－</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1356,7 +1368,7 @@
 
 | チーム                                                                    | 回数 | 年                                                                |
 | ---------------------------------------------------------------------- | -- | ---------------------------------------------------------------- |
-| [UCLA](https://ja.wikipedia.org/wiki/UCLA "wikilink")ブルーインズ            | 11 | 1964, 1965, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1975, 1995 |
+| [UCLA・ブルーインズ](../Page/UCLA・ブルーインズ.md "wikilink")                       | 11 | 1964, 1965, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1975, 1995 |
 | [ケンタッキー・ワイルドキャッツ](https://ja.wikipedia.org/wiki/ケンタッキー大学 "wikilink")   | 8  | 1948, 1949, 1951, 1958, 1978, 1996, 1998, 2012                   |
 | [ノースカロライナ・ターヒールズ](https://ja.wikipedia.org/wiki/ノースカロライナ大学 "wikilink") | 6  | 1957, 1982, 1993, 2005, 2009, 2017                               |
 | [インディアナ・フージャーズ](https://ja.wikipedia.org/wiki/インディアナ大学 "wikilink")     | 5  | 1940, 1953, 1976, 1981, 1987                                     |
@@ -1378,7 +1390,7 @@
 
 1969年から1981年大会まで[NBC](../Page/NBC.md "wikilink")で中継されていたが、1982年から[CBS](../Page/CBS.md "wikilink")で全試合放送されている。最近になって、全試合をインターネットで生中継されるようになった。2011年から2024年までは[CBS](../Page/CBS.md "wikilink")とともに、[ワーナーメディア](../Page/ワーナーメディア.md "wikilink")の[TBS](https://ja.wikipedia.org/wiki/TBS_\(アメリカのテレビジョン放送\) "wikilink")・[TNT](../Page/ターナー・ネットワーク・テレビジョン.md "wikilink")・[truTV](https://ja.wikipedia.org/wiki/truTV "wikilink")で中継する。2015年までは、[CBS](../Page/CBS.md "wikilink")がリージョナルファイナルとファイナルフォーを放送するが、2016年以降は、[CBS](../Page/CBS.md "wikilink")とTBSが交互に隔年で放送する。各リージョナルは、CBSとターナーが平等に分担して放送する。
 
-1987年大会から決勝終了後に『One Shining Moment』を流しながら、大会を振り返る。\[1\]長年にわたって[ルーサー・ヴァンドロス](../Page/ルーサー・ヴァンドロス.md "wikilink")が歌唱していたが、2010年は[ジェニファー・ハドソン](../Page/ジェニファー・ハドソン.md "wikilink")がカバーしたが、2011年はルーサーバージョンに戻った。
+1987年大会から決勝終了後に『One Shining Moment』を流しながら、大会を振り返る\[2\]。長年にわたって[ルーサー・ヴァンドロス](../Page/ルーサー・ヴァンドロス.md "wikilink")が歌唱していたが、2010年は[ジェニファー・ハドソン](../Page/ジェニファー・ハドソン.md "wikilink")がカバーしたが、2011年はルーサーバージョンに戻った。
 
 カナダ国内では[TSNで全試合放送されている](../Page/The_Sports_Network.md "wikilink")。
 
@@ -1398,4 +1410,5 @@
 
 [Category:NCAA男子バスケットボールトーナメント](https://ja.wikipedia.org/wiki/Category:NCAA男子バスケットボールトーナメント "wikilink") [Category:1939年開始のイベント](https://ja.wikipedia.org/wiki/Category:1939年開始のイベント "wikilink")
 
-1.  もともとは[第21回スーパーボウル](https://ja.wikipedia.org/wiki/第21回スーパーボウル "wikilink")のために使用予定だったが、時間の関係で放送せず、1987年の決勝終了後に初放映された。
+1.  "[NCAA cancels remaining winter and spring championships](https://www.ncaa.org/about/resources/media-center/news/ncaa-cancels-remaining-winter-and-spring-championships)," *[NCAA.org](../Page/全米大学体育協会.md "wikilink")*, March 12, 2020. 2020年3月15日閲覧。
+2.  もともとは[第21回スーパーボウル](https://ja.wikipedia.org/wiki/第21回スーパーボウル "wikilink")のために使用予定だったが、時間の関係で放送せず、1987年の決勝終了後に初放映された。

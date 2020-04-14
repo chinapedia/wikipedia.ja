@@ -1,4 +1,4 @@
-> この記事は[Aqua \(\)](https://ja.wikipedia.org/wiki/Aqua_\(\))から翻訳されています。
+> この記事は[Aqua \(人工衛星\)](https://ja.wikipedia.org/wiki/Aqua_\(人工衛星\))から翻訳されています。
 
 
 **Aqua (EOS PM-1)**とは、アメリカ ([NASA](../Page/アメリカ航空宇宙局.md "wikilink"))、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") ([宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") NASDA)、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink") ([ブラジル国立宇宙研究所](https://ja.wikipedia.org/wiki/ブラジル国立宇宙研究所 "wikilink") INPE) の3か国共同による[地球観測衛星](../Page/地球観測衛星.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")5月4日に[デルタIIロケットにより打ち上げられ](../Page/デルタロケット.md "wikilink")、高度705km、傾斜角98度、軌道周期98分の[太陽同期軌道](https://ja.wikipedia.org/wiki/太陽同期軌道 "wikilink")に投入された。名は[ラテン語](../Page/ラテン語.md "wikilink")の「水」の意。設計寿命は6年である。
@@ -53,6 +53,6 @@ CERESは0.3から50μmの3つの広域帯観測バンドで観測する水平分
   - [改良型高性能マイクロ波放射計AMSR-E（アムサー・イー）の観測停止について](http://www.jaxa.jp/press/2011/10/20111004_amsr-e_j.html)
   - [改良型高性能マイクロ波放射計（AMSR-E）の現状とこれまでの成果について](http://www.jaxa.jp/press/2011/10/20111012_sac_amsr-e_j.html)
 
-[Category:地球観測衛星](https://ja.wikipedia.org/wiki/Category:地球観測衛星 "wikilink") [Category:アメリカ合衆国の人工衛星](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の人工衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:ブラジルの宇宙開発](https://ja.wikipedia.org/wiki/Category:ブラジルの宇宙開発 "wikilink") [Category:衛星気象学](https://ja.wikipedia.org/wiki/Category:衛星気象学 "wikilink") [Category:海洋学](https://ja.wikipedia.org/wiki/Category:海洋学 "wikilink") [Category:2002年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2002年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:地球観測衛星](https://ja.wikipedia.org/wiki/Category:地球観測衛星 "wikilink") [Category:アメリカ合衆国の人工衛星](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の人工衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:ブラジルの宇宙開発](https://ja.wikipedia.org/wiki/Category:ブラジルの宇宙開発 "wikilink") [Category:衛星気象学](https://ja.wikipedia.org/wiki/Category:衛星気象学 "wikilink") [Category:海洋学](https://ja.wikipedia.org/wiki/Category:海洋学 "wikilink") [Category:2002年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2002年の宇宙飛行 "wikilink")
 
 1.

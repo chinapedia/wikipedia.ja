@@ -1,4 +1,4 @@
-> この記事は[P\&G](https://ja.wikipedia.org/wiki/P\&G)から翻訳されています。
+> この記事は[P\&Gプレステージ](https://ja.wikipedia.org/wiki/P\&Gプレステージ)から翻訳されています。
 
 
 **P\&Gプレステージ合同会社**は、[P\&Gジャパンの関連子会社で](../Page/プロクター・アンド・ギャンブル・ジャパン.md "wikilink")、日本において[SK-II](../Page/SK-II.md "wikilink")の[化粧品](../Page/化粧品.md "wikilink")の販売などを行っている企業。

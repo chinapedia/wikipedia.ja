@@ -1,4 +1,4 @@
-> この記事は[ENERGY](https://ja.wikipedia.org/wiki/ENERGY)から翻訳されています。
+> この記事は[青春★ENERGY](https://ja.wikipedia.org/wiki/青春★ENERGY)から翻訳されています。
 
 
 **青春★ENERGY**（せいしゅん エナジー）は、[フジテレビ系で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで水曜深夜（木曜日未明）24:45-25:08で放送された[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")の[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")・総称。

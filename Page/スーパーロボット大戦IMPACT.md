@@ -1,4 +1,4 @@
-> この記事は[IMPACT](https://ja.wikipedia.org/wiki/IMPACT)から翻訳されています。
+> この記事は[スーパーロボット大戦IMPACT](https://ja.wikipedia.org/wiki/スーパーロボット大戦IMPACT)から翻訳されています。
 
 
 『**スーパーロボット大戦IMPACT**』（スーパーロボットたいせんインパクト）は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

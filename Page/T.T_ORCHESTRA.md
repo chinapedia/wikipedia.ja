@@ -6,14 +6,23 @@
 ## メンバー
 
   - [立川 俊之](http://toshiyukitachikawa.com/) (T.T) Vocal,Guitar 元[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")
+
   - [田口耕郎](http://coro-freak.hp.infoseek.co.jp/coro.top.html)(Coro) Drums 元[CORVETTES](https://ja.wikipedia.org/wiki/CORVETTES "wikilink")、現在リーダーバンドであるザ・ヒットパレーズで四度目のメジャーデビュー。他アーティストのサポートとしても活躍
-  - [中川 進](http://www.geocities.jp/faith_music21/index.html) (Susumu) Guitar 元[TAX FREE](https://ja.wikipedia.org/wiki/TAX_FREE "wikilink")、現在[FAITH](https://ja.wikipedia.org/wiki/FAITH "wikilink")としても活躍
+
+  - (Susumu) Guitar 元[TAX FREE](https://ja.wikipedia.org/wiki/TAX_FREE "wikilink")、現在[FAITH](https://ja.wikipedia.org/wiki/FAITH "wikilink")としても活躍
+
   - 平石 友実 (Tommy) Bass 元[ジャッキー吉川とブルーコメッツ](https://ja.wikipedia.org/wiki/ジャッキー吉川とブルーコメッツ "wikilink")、[白虎隊](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\)#白虎隊 "wikilink")、[Bad Bloods](https://ja.wikipedia.org/wiki/Bad_Bloods "wikilink")
+
   - [仲 兼一郎](http://sound.jp/naka/) (Naka) Trumpet 他アーティストのサポートとしても活躍
+
   - [フクダ ヨシヤ](http://tokyo.cool.ne.jp/yfkd/) (Taishow) Trumpet 他アーティストのサポート、作曲、プロデュースなど幅広く活躍
+
   - 阿久澤 一哉 (Akkun) Trumpet 元[Radio Swing](../Page/Radio_Swing.md "wikilink")
+
   - 尾崎 泰輔 (Ozaky) Trombone 他アーティストのサポートとしても活躍
+
   - [田口 悟史](http://saxoful-tag.com/) (Tag) Alto Sax 他アーティストのサポートや、ソロとしても活躍
+
   - 出村 道秋 (Demura) Tenor Sax
 
 ## ディスコグラフィー

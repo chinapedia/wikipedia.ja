@@ -26,7 +26,9 @@
   - "15 May 2014 FFT Düsseldorf" (KURON"R"ECORDS,2014; CDR) ※Live-Album
   - "HELLO NEW YORK" (OSR,2016; CD / LP) ※Live-Album
   - "Musique Après La Fin De La Férmentation" (2017; CDR)
+  - "The Waste Land" (2018; CDR)
   - "Bleus De La Brousse" (Hôtel Rustique,2018; cassette)
+  - "Je est un autre" (Okraina Records,2019; 10-inch×2)
 
 ### シングル
 
@@ -68,6 +70,10 @@ NOISE
   - "Enka Blues" (OSR Tapes; 2016; cassette)
   - "Live At Harness" (Moone Records; 2018; cassette)
   - "Gala-Kei (ガラ刑)" (Bruit direct disques; 2018; 2LP+CD)
+  - "yokohama shicho shitsu" (2019; CDR)
+  - "kochi" (2019; CDR)
+  - "Ein Traum Für Dich" (Black Truffle; 2019; LP) ※Kayo Makino, Tori Kudo
+  - "The Last Song Of My Life" (An'archives; 2020; LP)
 
 工藤礼子
 

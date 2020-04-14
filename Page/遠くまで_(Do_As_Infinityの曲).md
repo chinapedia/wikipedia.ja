@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[遠くまで \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/遠くまで_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**遠くまで**」（とおくまで）は、[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")及び、同時発売されたDVDシングル、同年公開の[川尻善昭](../Page/川尻善昭.md "wikilink")監督のアニメ映画『[バンパイアハンターD](https://ja.wikipedia.org/wiki/バンパイアハンターD "wikilink")』の日本公開版主題歌。

@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ニンテンドーDSブラウザー](https://ja.wikipedia.org/wiki/ニンテンドーDSブラウザー)から翻訳されています。
 
 
 **ニンテンドーDSブラウザー**は、[任天堂](../Page/任天堂.md "wikilink")と[Opera Softwareが開発したモバイル](https://ja.wikipedia.org/wiki/Opera_Software "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。Opera Softwareのウェブブラウザ[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")を[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")向けにカスタマイズした製品である。Operaのバージョンは8.5。後継は[ニンテンドーDSiブラウザー](https://ja.wikipedia.org/wiki/ニンテンドーDSiブラウザー "wikilink")。
@@ -75,11 +75,8 @@
 
 ## 外部リンク
 
-  - [任天堂:ニンテンドーDSブラウザー](http://www.nintendo.co.jp/ds/browser/index.html)
-  - [ニンテンドーDSiブラウザー](http://www.nintendo.co.jp/ds/dsiware/hngj/index.html)
-  - [Mark your calendars: Opera announces DS browser release date in Japan](http://www.opera.com/announcements/en/2006/06/21/)
-  - [カレンダーにマークせよ: 日本でのニンテンドーDSブラウザー発売日決定のお知らせ](http://jp.opera.com/announcements/ja/2006/06/21/)
-  - [Opera for Nintendo](http://www.opera.com/products/devices/nintendo/)（英語）
+  - [ニンテンドーDSブラウザー](https://www.nintendo.co.jp/ds/browser/)
+  - [ニンテンドーDSiブラウザー](https://www.nintendo.co.jp/ds/dsiware/hngj/)
 
 [Category:ウェブブラウザ](https://ja.wikipedia.org/wiki/Category:ウェブブラウザ "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/Category:オペラ・ソフトウェア "wikilink")
 

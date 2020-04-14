@@ -1,4 +1,4 @@
-> この記事は[HJ](https://ja.wikipedia.org/wiki/HJ)から翻訳されています。
+> この記事は[HJ文庫](https://ja.wikipedia.org/wiki/HJ文庫)から翻訳されています。
 
 
 **HJ文庫**（エイチジェイぶんこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が発行する[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫レーベルである](../Page/文庫本.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")創刊。
@@ -513,91 +513,97 @@
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/クロの戦記_異世界転移した僕が最強なのはベッドの上だけのようです" title="wikilink">クロの戦記 異世界転移した僕が最強なのはベッドの上だけのようです</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サイトウアユム" title="wikilink">サイトウアユム</a></p></td>
+<td><p>むつみまさと</p></td>
+<td><p>既刊3巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/グロリアスドーン" title="wikilink">グロリアスドーン</a></p></td>
 <td><p><a href="../Page/庄司卓.md" title="wikilink">庄司卓</a></p></td>
 <td><p><a href="../Page/四季童子.md" title="wikilink">四季童子</a></p></td>
 <td><p>全12巻<br />
 アイキャッチ2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイーンズブレイド_(小説)#激闘!_クイーンズブレイド" title="wikilink">激闘! クイーンズブレイド</a></p></td>
 <td><p>沖田栄次</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/赤賀博隆" title="wikilink">赤賀博隆</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/月花の歌姫と魔技の王" title="wikilink">月花の歌姫と魔技の王</a></p></td>
 <td><p>翅田大介</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大場陽炎" title="wikilink">大場陽炎</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/外道王子の魔神隷従" title="wikilink">外道王子の{{読み仮名</a></p></td>
 <td><p>藤谷ある</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/井上巧" title="wikilink">井上巧</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲノム・シード" title="wikilink">ゲノム・シード</a> / ゲノム・スパイラル</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高平鳴海" title="wikilink">高平鳴海</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤城陽" title="wikilink">藤城陽</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。" title="wikilink">剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。</a></p></td>
 <td><p>ツガワトモタカ</p></td>
 <td><p>村上ゆいち</p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/恋する妖狐と神炎の剣士" title="wikilink">恋する妖狐と神炎の剣士</a></p></td>
 <td><p>久遠くおん</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/nyanya" title="wikilink">nyanya</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/高1ですが異世界で城主はじめました" title="wikilink">高1ですが異世界で城主はじめました</a></p></td>
 <td><p>鏡裕之</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ごばん" title="wikilink">ごばん</a></p></td>
 <td><p>既刊17巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/紅炎のクロスマギア〜狂える竜と災厄の魔女〜" title="wikilink">紅炎のクロスマギア〜狂える竜と災厄の魔女〜</a></p></td>
 <td><p>花房牧生</p></td>
 <td><p>植田亮</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/紅鋼の精霊操者" title="wikilink">紅鋼の{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハヤケン" title="wikilink">ハヤケン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/凱" title="wikilink">凱</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/光刃の魔王と月影の少女軍師" title="wikilink">光刃の魔王と月影の少女軍師</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桜崎あきと" title="wikilink">桜崎あきと</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/卵の黄身" title="wikilink">卵の黄身</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/強欲な僕とグリモワール" title="wikilink">強欲な僕とグリモワール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北國ばらっど" title="wikilink">北國ばらっど</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハル犬" title="wikilink">ハル犬</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールドベルク変奏曲（小説）" title="wikilink">ゴールドベルク変奏曲</a></p></td>
 <td><p>五代ゆう</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木理華" title="wikilink">鈴木理華</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴッデス!" title="wikilink">ゴッデス!</a></p></td>
 <td><p><a href="../Page/ひかわ玲子.md" title="wikilink">ひかわ玲子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近衛乙嗣" title="wikilink">近衛乙嗣</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こもれびノート" title="wikilink">こもれびノート</a></p></td>
 <td><p>しやけ遊魚</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/葛西心" title="wikilink">葛西心</a></p></td>
@@ -830,13 +836,13 @@
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北山結莉" title="wikilink">北山結莉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Riv_(イラストレーター)" title="wikilink">Riv</a></p></td>
-<td><p>既刊15巻</p></td>
+<td><p>既刊16巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖なる騎士の暗黒道" title="wikilink">聖なる騎士の暗黒道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂石遊作" title="wikilink">坂石遊作</a></p></td>
 <td><p>へいろー</p></td>
-<td><p>既刊2巻</p></td>
+<td><p>既刊3巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/世界最強は家族と仲良く出稼ぎ中!" title="wikilink">世界最強は家族と仲良く出稼ぎ中!</a></p></td>
@@ -1815,6 +1821,7 @@
 
   - [きゃらズバッ\! 出張版/ミノリカワ書房](http://hobby-channel.net/minorikawabooks/)（とれたて\! ほびーちゃんねる）
 
+  -
   -
 [Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
 

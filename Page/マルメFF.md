@@ -1,4 +1,4 @@
-> この記事は[FF](https://ja.wikipedia.org/wiki/FF)から翻訳されています。
+> この記事は[マルメFF](https://ja.wikipedia.org/wiki/マルメFF)から翻訳されています。
 
 
 [Guldlaget1944.jpg](https://ja.wikipedia.org/wiki/File:Guldlaget1944.jpg "fig:Guldlaget1944.jpg") **マルメ・フォトボルフェレニン**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の南部、[スコーネ県](../Page/スコーネ県.md "wikilink")の県都[マルメ](../Page/マルメ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。 [IFKヨーテボリ](../Page/IFKヨーテボリ.md "wikilink")、[AIK](../Page/AIKソルナ.md "wikilink")、[ユールゴーデンIF](../Page/ユールゴーデンIF.md "wikilink")と共にスウェーデンのサッカーにおいて「ビッグ4」と目される。
@@ -596,6 +596,10 @@
 ### ローン移籍
 
   - in
+
+<!-- end list -->
+
+  - out
 
 ## 歴代監督
 

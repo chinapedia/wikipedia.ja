@@ -1,4 +1,4 @@
-> この記事は[Power of Love \(DEEN\)](https://ja.wikipedia.org/wiki/Power_of_Love_\(DEEN\))から翻訳されています。
+> この記事は[Power of Love \(DEENの曲\)](https://ja.wikipedia.org/wiki/Power_of_Love_\(DEENの曲\))から翻訳されています。
 
 
 「**Power of Love**」（パワー オブ ラブ）は、[DEEN](../Page/DEEN.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。

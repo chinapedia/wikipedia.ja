@@ -1,4 +1,4 @@
-> この記事は[JCR](https://ja.wikipedia.org/wiki/JCR)から翻訳されています。
+> この記事は[J・C・R・リックライダー](https://ja.wikipedia.org/wiki/J・C・R・リックライダー)から翻訳されています。
 
 
 **ジョゼフ・カール・ロブネット・リックライダー**（Joseph Carl Robnett Licklider、[1915年](../Page/1915年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")）は[コンピュータ](../Page/コンピュータ.md "wikilink")の歴史上重要な役割を果たした人物\[1\]。**J・C・R・リックライダー**または「リック」と呼ばれる。

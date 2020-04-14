@@ -1,4 +1,4 @@
-> この記事は[HUSHABY BABY ](https://ja.wikipedia.org/wiki/HUSHABY_BABY_)から翻訳されています。
+> この記事は[HUSHABY BABY ハッシャバイベイビー](https://ja.wikipedia.org/wiki/HUSHABY_BABY_ハッシャバイベイビー)から翻訳されています。
 
 
 『**HUSHABY BABY ハッシャバイベイビー**』は、[アリスソフト](../Page/アリスソフト.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売したユーザークラブ専用の[紙芝居](../Page/紙芝居.md "wikilink")ゲーム。定価2800円（税別、生産終了）。

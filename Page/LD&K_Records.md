@@ -58,7 +58,7 @@
   - [Fee](https://ja.wikipedia.org/wiki/Fee "wikilink") (2008年〜2010年)
   - [flex life](https://ja.wikipedia.org/wiki/flex_life "wikilink") (2000年〜2001年)2002年[zetimaよりメジャーデビュー](../Page/アップフロントワークス.md "wikilink")(-2004年)。
   - [GIANT CHOP](https://ja.wikipedia.org/wiki/GIANT_CHOP "wikilink") (1999年〜2000年)
-  - [GOLLBETTY](../Page/GOLLBETTY.md "wikilink") (2006年〜2007年)2008年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャーデビュー。2010年会三
+  - [GOLLBETTY](../Page/GOLLBETTY.md "wikilink") (2006年〜2007年)2008年[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャーデビュー。2010年解散
   - [GHOST COMPANY](https://ja.wikipedia.org/wiki/GHOST_COMPANY "wikilink") (2011年〜2014年)
   - [G-YUN](https://ja.wikipedia.org/wiki/G-YUN "wikilink") (2011年)
   - [hot hip trampoline school](https://ja.wikipedia.org/wiki/hot_hip_trampoline_school "wikilink") (2005年〜2006年)

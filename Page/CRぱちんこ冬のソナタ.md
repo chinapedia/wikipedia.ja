@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRぱちんこ冬のソナタ](https://ja.wikipedia.org/wiki/CRぱちんこ冬のソナタ)から翻訳されています。
 
 
 [thumbにて撮影したもの](https://ja.wikipedia.org/wiki/ファイル:CR_Pachinko_Winter_Sonata_Digital.jpg "wikilink")）\]\] **CRぱちんこ冬のソナタ**（シーアールぱちんこふゆのソナタ）は、[2006年](../Page/2006年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")（[CR機](../Page/CR機.md "wikilink")）。CR機では定番となっている[確率変動](../Page/確率変動.md "wikilink")（確変）のほかに、突然確変（突確）と[時間短縮](../Page/時短_\(パチンコ\).md "wikilink")（時短）を搭載している。[保安通信協会](../Page/保安通信協会.md "wikilink")に登録された型式名は**CRぱちんこ冬のソナタM62TF2**。キャンペーン[サイトの](../Page/ウェブサイト.md "wikilink")[URLが](../Page/Uniform_Resource_Locator.md "wikilink")[pfs.jp](http://pfs.jp/)より、略称として*PFS*と呼ばれることもある。

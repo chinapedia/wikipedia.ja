@@ -1,4 +1,4 @@
-> この記事は[COMPACT2](https://ja.wikipedia.org/wiki/COMPACT2)から翻訳されています。
+> この記事は[スーパーロボット大戦COMPACT2](https://ja.wikipedia.org/wiki/スーパーロボット大戦COMPACT2)から翻訳されています。
 
 
 『**スーパーロボット大戦COMPACT2**』(スーパーロボットたいせんコンパクトツー)は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

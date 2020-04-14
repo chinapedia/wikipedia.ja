@@ -1,4 +1,4 @@
-> この記事は[MLB](https://ja.wikipedia.org/wiki/MLB)から翻訳されています。
+> この記事は[MLB主義](https://ja.wikipedia.org/wiki/MLB主義)から翻訳されています。
 
 
 『**MLB主義**』（エムエルビーイズム）は、[2004年](../Page/2004年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[TBSで放送された](../Page/TBSテレビ.md "wikilink")[野球](../Page/野球.md "wikilink")をテーマにした[トーク番組](../Page/トーク番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[WAVE \(T-SQUARE\)](https://ja.wikipedia.org/wiki/WAVE_\(T-SQUARE\))から翻訳されています。
+> この記事は[WAVE \(T-SQUAREのアルバム\)](https://ja.wikipedia.org/wiki/WAVE_\(T-SQUAREのアルバム\))から翻訳されています。
 
 
 『**WAVE**』（ウェーブ）は、[T-SQUARE](../Page/T-SQUARE.md "wikilink")の14枚目の[アルバム](../Page/アルバム.md "wikilink")である。[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた。

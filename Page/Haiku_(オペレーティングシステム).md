@@ -1,4 +1,4 @@
-> この記事は[Haiku \(\)](https://ja.wikipedia.org/wiki/Haiku_\(\))から翻訳されています。
+> この記事は[Haiku \(オペレーティングシステム\)](https://ja.wikipedia.org/wiki/Haiku_\(オペレーティングシステム\))から翻訳されています。
 
 
 **Haiku**（ハイク）は、[オープンソース](../Page/オープンソース.md "wikilink")で開発されているデスクトップ向け[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")。Haiku R1のリリースに向けて[BeOS](../Page/BeOS.md "wikilink")を再現することを目指しており、以前は**OpenBeOS**と呼ばれていた。Haiku R1/Alpha 1では[x86と](../Page/IA-32.md "wikilink")[PowerPC](../Page/PowerPC.md "wikilink")をサポートしていたが、Haiku R1/Alpha 2以降のバージョンでは[x86のみをサポートしている](../Page/IA-32.md "wikilink")。

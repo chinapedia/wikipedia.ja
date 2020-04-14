@@ -1,4 +1,4 @@
-> この記事は[RECORDS](https://ja.wikipedia.org/wiki/RECORDS)から翻訳されています。
+> この記事は[カシアスRECORDS](https://ja.wikipedia.org/wiki/カシアスRECORDS)から翻訳されています。
 
 
 **カシアスRECORDS**（カシアスレコーズ）は、[2006年](../Page/2006年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")1:08 - 1:59（JST）に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[登龍門](../Page/登龍門_\(フジテレビ\).md "wikilink")[ニューカマーズ](../Page/ニューカマーズ.md "wikilink")で放送した[バラエティー系](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。

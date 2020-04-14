@@ -1,4 +1,4 @@
-> この記事は[ff-1](https://ja.wikipedia.org/wiki/ff-1)から翻訳されています。
+> この記事は[スバル・ff-1](https://ja.wikipedia.org/wiki/スバル・ff-1)から翻訳されています。
 
 
 **スバルff-1**（スバル エフエフワン）は富士重工業（現・[SUBARU](../Page/SUBARU.md "wikilink")）が生産していた乗用車。

@@ -1,4 +1,4 @@
-> この記事は[JRU22A](https://ja.wikipedia.org/wiki/JRU22A)から翻訳されています。
+> この記事は[JR貨物U22A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物U22A形コンテナ)から翻訳されています。
 
 
 **U22A形コンテナ**（U22Aがたコンテナ）は、[2005年](../Page/2005年.md "wikilink")度に登場した、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している、12[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（有蓋[コンテナ\#ドライ・コンテナ](https://ja.wikipedia.org/wiki/コンテナ#ドライ・コンテナ "wikilink")）である。

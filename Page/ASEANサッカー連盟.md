@@ -1,4 +1,4 @@
-> この記事は[ASEAN](https://ja.wikipedia.org/wiki/ASEAN)から翻訳されています。
+> この記事は[ASEANサッカー連盟](https://ja.wikipedia.org/wiki/ASEANサッカー連盟)から翻訳されています。
 
 
 **ASEANサッカー連盟**（）は、東南アジア地域の11の国・地域が在籍するサッカー連盟である。略称は**AFF**。[東南アジアサッカー選手権](../Page/東南アジアサッカー選手権.md "wikilink")（AFF選手権）などを主催している。

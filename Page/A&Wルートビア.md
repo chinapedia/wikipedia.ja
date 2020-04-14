@@ -1,4 +1,4 @@
-> この記事は[A\&W](https://ja.wikipedia.org/wiki/A\&W)から翻訳されています。
+> この記事は[A\&Wルートビア](https://ja.wikipedia.org/wiki/A\&Wルートビア)から翻訳されています。
 
 
 **A\&Wルートビア**（）は、[1919年](../Page/1919年.md "wikilink")に[ロイ・アレンによって始められた](https://ja.wikipedia.org/wiki/:en:_Roy_W._Allen "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[清涼飲料水](../Page/清涼飲料水.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である。

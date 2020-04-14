@@ -1,9 +1,9 @@
-> この記事は[85 JTPS-P11](https://ja.wikipedia.org/wiki/85_JTPS-P11)から翻訳されています。
+> この記事は[85式地上レーダ装置 JTPS-P11](https://ja.wikipedia.org/wiki/85式地上レーダ装置_JTPS-P11)から翻訳されています。
 
 
 **85式地上レーダ装置**（はちごしきちじょうレーダそうち）は、[日本電気](../Page/日本電気.md "wikilink")が製作する[レーダー](../Page/レーダー.md "wikilink")。後に**地上レーダ装置1号**と改称した。
 
-敵人員、海上目標などに対する地上監視用[レーダー](../Page/レーダー.md "wikilink")として[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で装備化されており、[73式中型トラック](../Page/73式中型トラック.md "wikilink")に搭載可能な**JTPS-P11**と、[82式指揮通信車](../Page/82式指揮通信車.md "wikilink")ベースの[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")に搭載された**JTPS-P12**がある。また[2007年](../Page/2007年.md "wikilink")からは、プラットフォームを[高機動車](../Page/高機動車.md "wikilink")に変更するなどした**地上レーダ装置1号（改）JTPS-P23**の配備が開始されている。
+敵人員、海上目標などに対する地上監視用[レーダー](../Page/レーダー.md "wikilink")として[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で装備化されており、[73式中型トラック](../Page/73式中型トラック.md "wikilink")に搭載可能な**JTPS-P11**と、[82式指揮通信車](../Page/82式指揮通信車.md "wikilink")ベースの[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")に搭載された**JTPS-P12**がある。また[2007年](../Page/2007年.md "wikilink")からは、プラットフォームを[高機動車](../Page/高機動車.md "wikilink")に変更するなどした**[地上レーダ装置1号（改）JTPS-P23](../Page/地上レーダ装置1号\(改\)_JTPS-P23.md "wikilink")**の配備が開始されている。
 
 ## 特徴
 

@@ -1,4 +1,4 @@
-> この記事は[Ir](https://ja.wikipedia.org/wiki/Ir)から翻訳されています。
+> この記事は[Irシステム](https://ja.wikipedia.org/wiki/Irシステム)から翻訳されています。
 
 
 **Irシステム**は、[赤外線](../Page/赤外線.md "wikilink")を利用して[テレビ](../Page/テレビ.md "wikilink")が録画機器を制御するための送信機、又はそのシステム。 Irシステムの"Ir"とは、赤外線を意味する英語「Infrared」の略語。

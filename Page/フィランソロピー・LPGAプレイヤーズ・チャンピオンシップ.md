@@ -1,4 +1,4 @@
-> この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
+> この記事は[フィランソロピー・LPGAプレイヤーズ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フィランソロピー・LPGAプレイヤーズ・チャンピオンシップ)から翻訳されています。
 
 
 **フィランソロピー・LPGAプレイヤーズ・チャンピオンシップ**（Philanthropy LPGA Players Championship）は、[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで開催されていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントである](../Page/トーナメント方式.md "wikilink")。
@@ -11,7 +11,7 @@
 
 大会の特別協賛社は[2007年](../Page/2007年.md "wikilink")の第2回大会は[クラシエホールディングス](../Page/クラシエホールディングス.md "wikilink")を始めとしたクラシエグループ（旧・カネボウ）が、2008年の第3回大会は[カゴメ](../Page/カゴメ.md "wikilink")が務めていたが、[2009年](../Page/2009年.md "wikilink")大会の[スポンサー](../Page/スポンサー.md "wikilink")探しが難航。結局、2008年[12月16日](../Page/12月16日.md "wikilink")に発表されたツアー日程から漏れ、わずか3回で幕を下ろすことになった。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")実績、賞金総額1億3000万円、優勝賞金2340万円。賞金の1割は前述のチャリティー活動に寄付されていた。
+賞金総額は1億3000万円、優勝賞金は2340万円で、賞金の1割が前述のチャリティー活動に寄付されていた。
 
 ## 歴代優勝者
 

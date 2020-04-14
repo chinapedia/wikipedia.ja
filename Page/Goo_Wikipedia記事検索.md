@@ -1,4 +1,4 @@
-> この記事は[Goo Wikipedia](https://ja.wikipedia.org/wiki/Goo_Wikipedia)から翻訳されています。
+> この記事は[Goo Wikipedia記事検索](https://ja.wikipedia.org/wiki/Goo_Wikipedia記事検索)から翻訳されています。
 
 
 **goo Wikipedia記事検索**（グー ウィキペディア きじけんさく）は、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が運営しているポータルサイト「[goo](https://ja.wikipedia.org/wiki/goo "wikilink")」が開設している、[ウィキペディア日本語版](../Page/ウィキペディア日本語版.md "wikilink")の[全文検索](../Page/全文検索.md "wikilink")サービスである。

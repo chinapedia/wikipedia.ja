@@ -1,4 +1,4 @@
-> この記事は[Overture \(\)](https://ja.wikipedia.org/wiki/Overture_\(\))から翻訳されています。
+> この記事は[Overture \(アルバム\)](https://ja.wikipedia.org/wiki/Overture_\(アルバム\))から翻訳されています。
 
 
 『**Overture**』（オーバーチュア）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

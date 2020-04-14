@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[マーク・E・プラット](https://ja.wikipedia.org/wiki/マーク・E・プラット)から翻訳されています。
 
 
 **マーク・E・プラット**（**Marc E. Platt**、[1957年](../Page/1957年.md "wikilink") - ）は、アメリカ合衆国出身の映画製作者。しばしばマーク・プラット（Marc Platt）ともクレジットされる。

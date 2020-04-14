@@ -1,4 +1,4 @@
-> この記事は[KISS IN THE DARK](https://ja.wikipedia.org/wiki/KISS_IN_THE_DARK)から翻訳されています。
+> この記事は[パパとKISS IN THE DARK](https://ja.wikipedia.org/wiki/パパとKISS_IN_THE_DARK)から翻訳されています。
 
 
 「**パパとKISS IN THE DARK**」（パパとキス・イン・ザ・ダーク）は、[南原兼](https://ja.wikipedia.org/wiki/南原兼 "wikilink")による日本の[BL小説作品の一つとされている](../Page/ボーイズラブ.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に[白泉社](../Page/白泉社.md "wikilink")から発売された[OVA](../Page/OVA.md "wikilink")。

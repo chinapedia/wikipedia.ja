@@ -1,4 +1,4 @@
-> この記事は[BLALA](https://ja.wikipedia.org/wiki/BLALA)から翻訳されています。
+> この記事は[本庄BLALA](https://ja.wikipedia.org/wiki/本庄BLALA)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:HONJO_BLALA_001.JPG "wikilink")**本庄BLALA**（ほんじょうブララ）はかつて[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")[本庄駅](https://ja.wikipedia.org/wiki/本庄駅 "wikilink")南口にて営業していた[複合商業施設](../Page/複合商業施設.md "wikilink")である。閉店した本庄[サティ跡地に位置していた](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")。売場面積は10124 [m<sup>2</sup>](../Page/平方メートル.md "wikilink")。

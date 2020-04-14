@@ -1,4 +1,4 @@
-> この記事は[Fire \(\)](https://ja.wikipedia.org/wiki/Fire_\(\))から翻訳されています。
+> この記事は[Fire \(インスタントメッセンジャー\)](https://ja.wikipedia.org/wiki/Fire_\(インスタントメッセンジャー\))から翻訳されています。
 
 
 **Fire**（ファイヤー）は、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")（かつては[OPENSTEP](../Page/OPENSTEP.md "wikilink")）向けに開発された初めての[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。[IRCや](https://ja.wikipedia.org/wiki/Internet_relay_chat "wikilink")、[XMPP](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")、[AIM](../Page/AOL_Instant_Messenger.md "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[MSN](https://ja.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")、[Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[Bonjour](../Page/Bonjour.md "wikilink")ネットワークに接続できる。

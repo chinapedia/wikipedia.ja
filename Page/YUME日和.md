@@ -1,4 +1,4 @@
-> この記事は[YUME](https://ja.wikipedia.org/wiki/YUME)から翻訳されています。
+> この記事は[YUME日和](https://ja.wikipedia.org/wiki/YUME日和)から翻訳されています。
 
 
 「**YUME日和**」（ユメびより）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の13枚目のシングル。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[X-MEN:  ](https://ja.wikipedia.org/wiki/X-MEN:__)から翻訳されています。
+> この記事は[X-MEN: ファイナル ディシジョン](https://ja.wikipedia.org/wiki/X-MEN:_ファイナル_ディシジョン)から翻訳されています。
 
 
 『**X-MEN: ファイナル ディシジョン**』（エックスメン ファイナルディシジョン、原題: *X-Men: The Last Stand*）は、[2006年に公開された](../Page/2006年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。

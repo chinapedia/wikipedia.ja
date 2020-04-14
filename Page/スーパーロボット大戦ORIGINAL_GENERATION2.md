@@ -1,4 +1,4 @@
-> この記事は[ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION2)から翻訳されています。
+> この記事は[スーパーロボット大戦ORIGINAL GENERATION2](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION2)から翻訳されています。
 
 
 『**スーパーロボット大戦ORIGINAL GENERATION2**』（スーパーロボットたいせんオリジナルジェネレーションツー）は、[バンプレスト](../Page/バンプレスト.md "wikilink")の[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

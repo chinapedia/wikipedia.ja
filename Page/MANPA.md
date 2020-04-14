@@ -79,9 +79,21 @@
 
 ### 放送予定
 
+  - 第1部
+
+:\* [俺を好きなのはお前だけかよ](https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ "wikilink")（再放送）（2020年4月7日 - ）
+
+  - 第2部
+
+:\* [ケイオスドラゴン 赤竜戦役](https://ja.wikipedia.org/wiki/レッドドラゴン_\(TRPG\) "wikilink")（2020年4月7日 - ）
+
   - 第3部
 
-:\* [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")（2020年4月6日 - ）
+:\* [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")（2020年4月7日 - ）
+
+  - 未定
+
+:\* [ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")（第三期）（2020年10月 - ）
 
 ### アニ探\!
 
@@ -773,7 +785,7 @@
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a>（第一期）</p></td>
 <td><p>2018年4月10日 - 6月26日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
@@ -787,7 +799,7 @@
 <td><p>最終話は「<a href="https://ja.wikipedia.org/wiki/火曜ナイトパーク" title="wikilink">火曜ナイトパーク</a>」枠で放送。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a>（第2期）</p></td>
+<td><p>ゴールデンカムイ（第二期）</p></td>
 <td><p>2018年10月9日 - 12月25日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
@@ -1649,7 +1661,8 @@ Judge End</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年4月</p></td>
-<td><p><strong>ゴールデンカムイ</strong></p></td>
+<td><p><strong>ゴールデンカムイ<br />
+(第一期)</strong></p></td>
 <td><p><strong>Caligula -カリギュラ-</strong></p></td>
 <td><p><strong>ルパン三世(PART V)</strong></p></td>
 <td><p> </p></td>
@@ -1668,7 +1681,7 @@ Judge End</strong></p></td>
 <tr class="even">
 <td><p>2018年10月</p></td>
 <td><p><strong>ゴールデンカムイ<br />
-(第2期)</strong></p></td>
+(第二期)</strong></p></td>
 <td><p><strong>あかねさす少女</strong></p></td>
 <td><p><strong>風が強く吹いている</strong></p></td>
 <td></td>

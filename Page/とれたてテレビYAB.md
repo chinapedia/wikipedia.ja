@@ -1,4 +1,4 @@
-> この記事は[YAB](https://ja.wikipedia.org/wiki/YAB)から翻訳されています。
+> この記事は[とれたてテレビYAB](https://ja.wikipedia.org/wiki/とれたてテレビYAB)から翻訳されています。
 
 
 『**とれたてテレビYAB**』は、[山口朝日放送](../Page/山口朝日放送.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。

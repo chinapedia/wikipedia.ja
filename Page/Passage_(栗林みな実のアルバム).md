@@ -1,4 +1,4 @@
-> この記事は[Passage \(\)](https://ja.wikipedia.org/wiki/Passage_\(\))から翻訳されています。
+> この記事は[Passage \(栗林みな実のアルバム\)](https://ja.wikipedia.org/wiki/Passage_\(栗林みな実のアルバム\))から翻訳されています。
 
 
 『**passage**』（パッセージ）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

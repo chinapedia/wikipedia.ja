@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ウィリアム・R・トルバート](https://ja.wikipedia.org/wiki/ウィリアム・R・トルバート)から翻訳されています。
 
 
 **ウィリアム・リチャード・トルバート・ジュニア**（William Richard Tolbert,Jr.　[1913年](../Page/1913年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")）は[リベリア](../Page/リベリア.md "wikilink")の政治家。同国[大統領](../Page/リベリアの大統領.md "wikilink")（第20代）を務めた。

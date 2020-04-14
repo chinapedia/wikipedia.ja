@@ -1,4 +1,4 @@
-> この記事は[Deep-Blue](https://ja.wikipedia.org/wiki/Deep-Blue)から翻訳されています。
+> この記事は[Deep-Blueシリーズ](https://ja.wikipedia.org/wiki/Deep-Blueシリーズ)から翻訳されています。
 
 
 **Deep-Blueシリーズ**（ディープ・ブルーシリーズ）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")・[くまさんちーむ](https://ja.wikipedia.org/wiki/くまさんちーむ "wikilink")開発のアドベンチャーゲーム（第1弾・第2弾は実質的には都市経営型シミュレーション）のシリーズタイトル。**蒼いシリーズ**（あおいシリーズ）と呼ばれることもある。

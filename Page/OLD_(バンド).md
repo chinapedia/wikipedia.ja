@@ -1,4 +1,4 @@
-> この記事は[OLD \(\)](https://ja.wikipedia.org/wiki/OLD_\(\))から翻訳されています。
+> この記事は[OLD \(バンド\)](https://ja.wikipedia.org/wiki/OLD_\(バンド\))から翻訳されています。
 
 
 **OLD**（オールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。2000年結成。

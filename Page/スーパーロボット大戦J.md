@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーロボット大戦J](https://ja.wikipedia.org/wiki/スーパーロボット大戦J)から翻訳されています。
 
 
 『**スーパーロボット大戦J**』（スーパーロボットたいせんジェイ）は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。

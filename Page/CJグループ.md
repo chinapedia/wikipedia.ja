@@ -1,4 +1,4 @@
-> この記事は[CJ](https://ja.wikipedia.org/wiki/CJ)から翻訳されています。
+> この記事は[CJグループ](https://ja.wikipedia.org/wiki/CJグループ)から翻訳されています。
 
 
 **CJグループ**（シージェイグループ）とは、[大韓民国](../Page/大韓民国.md "wikilink")の企業グループである。創業者は[サムスングループ](../Page/サムスングループ.md "wikilink")の創業者である[李秉喆](../Page/李秉チョル.md "wikilink")（イ・ビョンチョル）、現会長は李在賢（イ・ジェヒョン）。
@@ -37,7 +37,7 @@
   - CJフレッシュウェイ（[給食](../Page/給食.md "wikilink")・食材流通事業、旧CJフードシステム）
   - [CJ CGV](https://ja.wikipedia.org/wiki/CJ_CGV "wikilink")（[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")事業）
   - CJ 4DPLEX（体験型のシアターシート「[4DX](https://ja.wikipedia.org/wiki/4DX "wikilink")」を開発）
-  - [CJ ENM](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")（エンタテインメント事業。放送部門のCJメディア、[オンメディア](https://ja.wikipedia.org/wiki/オンメディア "wikilink")、映画部門のCJエンタテインメント、オンラインゲーム部門のCJインターネット、 CJオーホームショッピング（通販事業）などが合併）
+  - [CJ ENM](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")（エンタテインメント事業。放送部門のCJメディア、[オンメディア](https://ja.wikipedia.org/wiki/オンメディア "wikilink")、映画部門のCJエンタテインメント、オンラインゲーム部門のCJインターネット、 CJオーホームショッピング（通販事業）などが合併。音楽専門チャンネル[Mnet](../Page/Mnet.md "wikilink")を運営）
 
 <!-- end list -->
 
@@ -46,6 +46,7 @@
 <!-- end list -->
 
   - [エバラCJフレッシュフーズ](https://ja.wikipedia.org/wiki/エバラCJフレッシュフーズ "wikilink")（[エバラ食品工業](../Page/エバラ食品工業.md "wikilink")との合弁企業）日本国内における家庭用チルド商品の販売\[1\]
+  - CJ ENM Japan 日本におけるMnetの運営
 
 ### 業務終了
 

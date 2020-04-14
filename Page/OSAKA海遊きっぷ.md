@@ -1,4 +1,4 @@
-> この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
+> この記事は[OSAKA海遊きっぷ](https://ja.wikipedia.org/wiki/OSAKA海遊きっぷ)から翻訳されています。
 
 
 **OSAKA海遊きっぷ**（おおさかかいゆう～）は[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（Osaka Metro）を中心に、[阪急電鉄](../Page/阪急電鉄.md "wikilink")（阪急）、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")（京阪）、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）、[北大阪急行電鉄](../Page/北大阪急行電鉄.md "wikilink")（北急）、[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）、[泉北高速鉄道](../Page/泉北高速鉄道.md "wikilink")、[神戸電鉄](../Page/神戸電鉄.md "wikilink")（神鉄）、[能勢電鉄](../Page/能勢電鉄.md "wikilink")（能勢電）で発売している通年タイプの乗り放題の電子カードと[海遊館](../Page/海遊館.md "wikilink")の入場券、ベイエリアを中心とした料金割引がセットになった切符である。

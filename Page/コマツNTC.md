@@ -1,4 +1,4 @@
-> この記事は[NTC](https://ja.wikipedia.org/wiki/NTC)から翻訳されています。
+> この記事は[コマツNTC](https://ja.wikipedia.org/wiki/コマツNTC)から翻訳されています。
 
 
 **コマツNTC株式会社**は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[南砺市](../Page/南砺市.md "wikilink")に本社を置く[工作機械](../Page/工作機械.md "wikilink")メーカーである。

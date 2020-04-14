@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シェフィールド・ウェンズデイFC](https://ja.wikipedia.org/wiki/シェフィールド・ウェンズデイFC)から翻訳されています。
 
 
 **シェフィールド・ウェンズデイFC**（）は、[イングランド](../Page/イングランド.md "wikilink")の[シェフィールド](../Page/シェフィールド.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ヘディング](../Page/ヘディング.md "wikilink")は、このクラブの選手が発明したサッカーの技術である\[1\]（[シェフィールド・ルール](https://ja.wikipedia.org/wiki/シェフィールド・ルール "wikilink")を参照されたい）。

@@ -1,4 +1,4 @@
-> この記事は[ONE \(\)](https://ja.wikipedia.org/wiki/ONE_\(\))から翻訳されています。
+> この記事は[ONE \(アンジェラ・アキのアルバム\)](https://ja.wikipedia.org/wiki/ONE_\(アンジェラ・アキのアルバム\))から翻訳されています。
 
 
 『**ONE**』（ワン）は、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のインディーズミニアルバム。

@@ -1,4 +1,4 @@
-> この記事は[TBS8](https://ja.wikipedia.org/wiki/TBS8)から翻訳されています。
+> この記事は[TBS火曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS火曜8時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS火曜8時枠の連続ドラマ**（ティービーエス かようはちじわくのれんぞくドラマ）は、[1975年](../Page/1975年.md "wikilink")10月から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")9月（中断時期あり）までと、[1989年](../Page/1989年.md "wikilink")10月から[1992年](../Page/1992年.md "wikilink")9月までの2期に亘り、[TBS系列で毎週](../Page/TBSテレビ.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")20:00～20:54（1982年9月までは20:55）に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。

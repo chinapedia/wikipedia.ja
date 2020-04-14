@@ -1,4 +1,4 @@
-> この記事は[DIRTY OLD MAN ](https://ja.wikipedia.org/wiki/DIRTY_OLD_MAN_)から翻訳されています。
+> この記事は[DIRTY OLD MAN 〜さらば夏よ〜](https://ja.wikipedia.org/wiki/DIRTY_OLD_MAN_〜さらば夏よ〜)から翻訳されています。
 
 
 「**DIRTY OLD MAN 〜さらば夏よ〜**」（ダーティ・オールド・マン さらばなつよ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の52枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

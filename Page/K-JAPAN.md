@@ -42,6 +42,6 @@ FMへの移行に伴い中継廃止。
 
   - [101FM](http://www.hawaii101fm.com/index.html)（AMからFMに移転した時代）
   - [KORL Radio Honolulu](http://korlam.com/)（1180kHz、101FM頃の本局、[英語](../Page/英語.md "wikilink")）
-  - [ハワイ100FM(100％Hawaii)](http://ameblo.jp/hawaii101fm/)（現在のブログ）
+  - [ハワイ100FM(100％Hawaii)](https://ameblo.jp/hawaii101fm/)（現在のブログ）
 
 [Category:ハワイ州のメディア](https://ja.wikipedia.org/wiki/Category:ハワイ州のメディア "wikilink") [Category:日本語放送](https://ja.wikipedia.org/wiki/Category:日本語放送 "wikilink") [Category:アメリカ合衆国のラジオ局](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラジオ局 "wikilink")

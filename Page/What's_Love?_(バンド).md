@@ -1,4 +1,4 @@
-> この記事は[What\'s Love\? \(\)](https://ja.wikipedia.org/wiki/What\'s_Love\?_\(\))から翻訳されています。
+> この記事は[What\'s Love\? \(バンド\)](https://ja.wikipedia.org/wiki/What\'s_Love\?_\(バンド\))から翻訳されています。
 
 
 **What's Love?**（**ワッツラブ**）は、日本の歌謡[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2001年メジャーデビュー。
@@ -314,11 +314,21 @@
 
 ラジオ「肚決めて行くぜ」（[仙台ラジオ3](../Page/仙台シティエフエム.md "wikilink")） 毎月　第1、第3金曜日　AM 11:00～AM 11:30　O.A
 
+## 不祥事
+
+2020年1月9日、メンバーである松本"マッツ"雅光が、関東運輸局に対して所有するワゴン車の登録地を偽って申請したとして警視庁に逮捕された\[1\]。松本は[対レイシスト行動集団](https://ja.wikipedia.org/wiki/対レイシスト行動集団 "wikilink")（旧・レイシストをしばき隊）のメンバーとして活動しており、ワゴン車はしばき隊の活動資材の運搬として用いていたことも判明した。\[2\]
+
+## 脚注
+
 ## 外部リンク
 
   - [公式サイト](http://www.high-ace.com/whats_love/)
 
   -
+  -
   - 楽器レンタル　[ハイエースサウンドシステムズ](http://www.high-ace.com/index.html)（メンバーで経営）
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
+
+1.  [「対レイシスト行動集団」メンバー、“車庫飛ばし”で逮捕](https://web.archive.org/web/20200109135041/https://www.mbs.jp/news/zenkokunews/20200109/3876168.shtml)
+2.  [虚偽住所で車検更新疑い、活動団体の男逮捕　警視庁 - 産経ニュース](https://www.sankei.com/affairs/news/200109/afr2001090030-n1.html)

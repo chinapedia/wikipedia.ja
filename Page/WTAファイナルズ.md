@@ -1,4 +1,4 @@
-> この記事は[WTA](https://ja.wikipedia.org/wiki/WTA)から翻訳されています。
+> この記事は[WTAファイナルズ](https://ja.wikipedia.org/wiki/WTAファイナルズ)から翻訳されています。
 
 
 **WTAファイナルズ**（WTA Finals）は、毎年10月末から11月上旬に行われる[WTAツアーの年間最終戦である](../Page/女子テニス協会.md "wikilink")。

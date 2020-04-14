@@ -1,4 +1,4 @@
-> この記事は[Duel Dolls ](https://ja.wikipedia.org/wiki/Duel_Dolls_)から翻訳されています。
+> この記事は[Duel Dolls 〜白銀色の指輪と撫子色の乙女達〜](https://ja.wikipedia.org/wiki/Duel_Dolls_〜白銀色の指輪と撫子色の乙女達〜)から翻訳されています。
 
 
 **Duel Dolls 〜白銀色の指輪と撫子色の乙女達〜**（デュエルドールズ しろがねいろのゆびわとなでしこいろのおとめたち）は、雑誌『[マジキュー](../Page/マジキュー.md "wikilink")』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）Vol.22（[2005年](../Page/2005年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")刊）からVol.36（[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")刊）まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")（実質的にはイラストストーリーを中心に展開）。画：[てぃんくる](https://ja.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、文芸：[博恵夏樹](https://ja.wikipedia.org/wiki/博恵夏樹 "wikilink")。

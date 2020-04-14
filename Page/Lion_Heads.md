@@ -56,6 +56,7 @@
 ## 外部リンク
 
   - [Lion Headsオフィシャルウェブサイト](http://www.lion-heads.com/)
-  - [ドラマー小林香織のホームページ](http://homepage3.nifty.com/k-s-band/)（Drum Pink Lionの個人ホームページ）
+
+  - （Drum Pink Lionの個人ホームページ）
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")

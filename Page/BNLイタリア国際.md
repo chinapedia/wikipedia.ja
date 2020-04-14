@@ -1,11 +1,11 @@
-> この記事は[BNL](https://ja.wikipedia.org/wiki/BNL)から翻訳されています。
+> この記事は[BNLイタリア国際](https://ja.wikipedia.org/wiki/BNLイタリア国際)から翻訳されています。
 
 
-**BNLイタリア国際**(*Internazionali BNL d'Italia*）は、[イタリア](../Page/イタリア.md "wikilink")の[ローマ](../Page/ローマ.md "wikilink")で行われる男女共催の国際[テニス](../Page/テニス.md "wikilink")競技大会。タイトルスポンサーは[BNPパリバ](../Page/BNPパリバ.md "wikilink")傘下の[国立労働銀行](../Page/国立労働銀行.md "wikilink")。**イタリアン・オープン**、**ローマ・マスターズ**とも呼ばれている。
+**BNLイタリア国際**（*Internazionali BNL d'Italia*）は、[イタリア](../Page/イタリア.md "wikilink")の[ローマ](../Page/ローマ.md "wikilink")で行われる男女共催の国際[テニス](../Page/テニス.md "wikilink")競技大会。タイトルスポンサーは[BNPパリバ](../Page/BNPパリバ.md "wikilink")傘下の[国立労働銀行](../Page/国立労働銀行.md "wikilink")\[1\]。**イタリアン・オープン**、**ローマ・マスターズ**とも呼ばれている。
 
 ## 概要
 
-開催時期は5月中旬。サーフェスは[アンツーカー](../Page/アンツーカー.md "wikilink")を採用したクレーコートであり、[全仏オープン](../Page/全仏オープン.md "wikilink")の前哨戦に位置づけられている。男子部門は[ATPツアー・マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子部門はWTAプレミア・トーナメントに指定されており、世界ランキング上位選手の出場が義務付けられている。また、男子の場合は開催地に因んだローマ・マスターズの名称で知られている。
+開催時期は5月中旬。サーフェスは[アンツーカー](../Page/アンツーカー.md "wikilink")を採用したクレーコートであり、[全仏オープン](../Page/全仏オープン.md "wikilink")の前哨戦に位置づけられている。男子部門は[ATPマスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子部門はWTAプレミア・トーナメントに指定されており、世界ランキング上位選手の出場が義務付けられている。また、男子の場合は開催地に因んだローマ・マスターズの名称で知られている。
 
 ## 記録
 
@@ -13,15 +13,15 @@
 
   - 最多優勝:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (9)（2005-07, 2009-10, 2012-13, 2018-19）
   - 最多決勝進出記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (11)（2005-07, 2009-14, 2018-19）
-  - 連覇記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (3) (2005–07)
+  - 連覇記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (3) (2005-07)
   - 連続決勝進出記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (6) (2009-2014)
 
 ### 女子シングルス
 
   - 最多優勝:  [クリス・エバート](../Page/クリス・エバート.md "wikilink") (5)
   - 最多決勝進出:  [クリス・エバート](../Page/クリス・エバート.md "wikilink") (7)
-  - 連覇記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (4) (1993–96)
-  - 連続決勝進出記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (5 ) (1993–97)
+  - 連覇記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (4) (1993-96)
+  - 連続決勝進出記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (5) (1993-97)
 
 ## 歴代優勝者
 
@@ -463,19 +463,19 @@
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a></p></td>
-<td><p>6–1, 6–3</p></td>
+<td><p>6-1, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><strong><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></strong></p></td>
 <td><p><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></p></td>
-<td><p>4–6, 6–3, 6–3</p></td>
+<td><p>4-6, 6-3, 6-3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p><strong><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a></p></td>
-<td><p>6–4, 6–3</p></td>
+<td><p>6-4, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
@@ -926,19 +926,19 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/マリア・ホセ・マルティネス・サンチェス" title="wikilink">マリア・ホセ・マルティネス・サンチェス</a></strong></p></td>
 <td><p><a href="../Page/エレナ・ヤンコビッチ.md" title="wikilink">エレナ・ヤンコビッチ</a></p></td>
-<td><p>7–6, 7–5</p></td>
+<td><p>7-6, 7-5</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p><strong><a href="../Page/マリア・シャラポワ.md" title="wikilink">マリア・シャラポワ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サマンサ・ストーサー" title="wikilink">サマンサ・ストーサー</a></p></td>
-<td><p>6–2, 6–4</p></td>
+<td><p>6-2, 6-4</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td><p><strong><a href="../Page/マリア・シャラポワ.md" title="wikilink">マリア・シャラポワ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/李娜" title="wikilink">李娜</a></p></td>
-<td><p>4–6, 6–4, 7–6</p></td>
+<td><p>4-6, 6-4, 7-6</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -950,7 +950,7 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><strong><a href="../Page/セリーナ・ウィリアムズ.md" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サラ・エラニ" title="wikilink">サラ・エラニ</a></p></td>
-<td><p>6–3, 6–0</p></td>
+<td><p>6-3, 6-0</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
@@ -962,7 +962,7 @@
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><strong><a href="../Page/セリーナ・ウィリアムズ.md" title="wikilink">セリーナ・ウィリアムズ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マディソン・キーズ" title="wikilink">マディソン・キーズ</a></p></td>
-<td><p>7–6(5), 6–3</p></td>
+<td><p>7-6(5), 6-3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
@@ -975,6 +975,12 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/エリナ・スビトリナ" title="wikilink">エリナ・スビトリナ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シモナ・ハレプ" title="wikilink">シモナ・ハレプ</a></p></td>
 <td><p>6-0, 6-4</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/カロリナ・プリスコバ" title="wikilink">カロリナ・プリスコバ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョアンナ・コンタ" title="wikilink">ジョアンナ・コンタ</a></p></td>
+<td><p>6-3, 6-4</p></td>
 </tr>
 </tbody>
 </table>
@@ -1501,7 +1507,7 @@
  <strong><a href="../Page/マーク・ノールズ.md" title="wikilink">マーク・ノールズ</a></strong></p></td>
 <td><p><a href="../Page/ジョナサン・エルリック.md" title="wikilink">ジョナサン・エルリック</a><br />
  <a href="../Page/アンディ・ラム.md" title="wikilink">アンディ・ラム</a></p></td>
-<td><p>6-4, 5-7 [13-11]</p></td>
+<td><p>6-4, 5-7, [13-11]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
@@ -1509,7 +1515,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/ネナド・ジモニッチ" title="wikilink">ネナド・ジモニッチ</a></strong></p></td>
 <td><p><a href="../Page/ボブ・ブライアン.md" title="wikilink">ボブ・ブライアン</a><br />
  <a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></p></td>
-<td><p>6-4, 6-7 [10-7]</p></td>
+<td><p>6-4, 6-7, [10-7]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
@@ -1517,7 +1523,7 @@
  <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a><br />
  <a href="https://ja.wikipedia.org/wiki/ネナド・ジモニッチ" title="wikilink">ネナド・ジモニッチ</a></p></td>
-<td><p>3-6 6-4 [10-8]</p></td>
+<td><p>3-6, 6-4, [10-8]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
@@ -1533,7 +1539,7 @@
  <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・イスナー" title="wikilink">ジョン・イスナー</a><br />
  <a href="https://ja.wikipedia.org/wiki/サム・クエリー" title="wikilink">サム・クエリー</a></p></td>
-<td><p>6–2, 6–3</p></td>
+<td><p>6-2, 6-3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
@@ -1549,7 +1555,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/マルク・ロペス" title="wikilink">マルク・ロペス</a></strong></p></td>
 <td><p><a href="../Page/ルカシュ・クボット.md" title="wikilink">ルカシュ・クボット</a><br />
  <a href="../Page/ヤンコ・ティプサレビッチ.md" title="wikilink">ヤンコ・ティプサレビッチ</a></p></td>
-<td><p>6–3, 6–2</p></td>
+<td><p>6-3, 6-2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -1557,7 +1563,7 @@
  <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・ペヤ" title="wikilink">アレクサンダー・ペヤ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ブルーノ・ソアレス" title="wikilink">ブルーノ・ソアレス</a></p></td>
-<td><p>6–2, 6–3</p></td>
+<td><p>6-2, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
@@ -1565,7 +1571,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/ネナド・ジモニッチ" title="wikilink">ネナド・ジモニッチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロビン・ハーセ" title="wikilink">ロビン・ハーセ</a><br />
  <a href="https://ja.wikipedia.org/wiki/フェリシアーノ・ロペス" title="wikilink">フェリシアーノ・ロペス</a></p></td>
-<td><p>6–4, 7–6(2)</p></td>
+<td><p>6-4, 7-6(2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
@@ -1573,7 +1579,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/ダビド・マレーロ" title="wikilink">ダビド・マレーロ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マルセル・グラノリェルス" title="wikilink">マルセル・グラノリェルス</a><br />
  <a href="https://ja.wikipedia.org/wiki/マルク・ロペス" title="wikilink">マルク・ロペス</a></p></td>
-<td><p>6–4, 7–5</p></td>
+<td><p>6-4, 7-5</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
@@ -1581,7 +1587,7 @@
  <strong><a href="../Page/マイク・ブライアン.md" title="wikilink">マイク・ブライアン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バセク・ポシュピシル" title="wikilink">バセク・ポシュピシル</a><br />
  <a href="https://ja.wikipedia.org/wiki/ジャック・ソック" title="wikilink">ジャック・ソック</a></p></td>
-<td><p>2–6, 6–3, [10–7]</p></td>
+<td><p>2-6, 6-3, [10-7]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
@@ -1598,6 +1604,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/パブロ・カレーニョ・ブスタ" title="wikilink">パブロ・カレーニョ・ブスタ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ジョアン・ソウザ" title="wikilink">ジョアン・ソウザ</a></p></td>
 <td><p>3-6, 6-4, [10-4]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><strong> <a href="https://ja.wikipedia.org/wiki/フアン・セバスティアン・カバル" title="wikilink">フアン・セバスティアン・カバル</a></strong><br />
+ <strong><a href="https://ja.wikipedia.org/wiki/ロベルト・ファラ" title="wikilink">ロベルト・ファラ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レイベン・クラーセン" title="wikilink">レイベン・クラーセン</a><br />
+ <a href="https://ja.wikipedia.org/wiki/マイケル・ヴィーナス" title="wikilink">マイケル・ヴィーナス</a></p></td>
+<td><p>6-1, 6-3</p></td>
 </tr>
 </tbody>
 </table>
@@ -2157,7 +2171,7 @@
  <strong><a href="../Page/フラビア・ペンネッタ.md" title="wikilink">フラビア・ペンネッタ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヌリア・リャゴステラ・ビベス" title="wikilink">ヌリア・リャゴステラ・ビベス</a><br />
  <a href="https://ja.wikipedia.org/wiki/マリア・ホセ・マルティネス・サンチェス" title="wikilink">マリア・ホセ・マルティネス・サンチェス</a></p></td>
-<td><p>6–4, 6–2</p></td>
+<td><p>6-4, 6-2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
@@ -2165,7 +2179,7 @@
  <strong><a href="../Page/鄭潔.md" title="wikilink">鄭潔</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バニア・キング" title="wikilink">バニア・キング</a><br />
  <a href="https://ja.wikipedia.org/wiki/ヤロスラワ・シュウェドワ" title="wikilink">ヤロスラワ・シュウェドワ</a></p></td>
-<td><p>6–2, 6–3</p></td>
+<td><p>6-2, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
@@ -2173,7 +2187,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/ロベルタ・ビンチ" title="wikilink">ロベルタ・ビンチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エカテリーナ・マカロワ" title="wikilink">エカテリーナ・マカロワ</a><br />
  <a href="https://ja.wikipedia.org/wiki/エレーナ・ベスニナ" title="wikilink">エレーナ・ベスニナ</a></p></td>
-<td><p>6–2, 7–5</p></td>
+<td><p>6-2, 7-5</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
@@ -2181,7 +2195,7 @@
  <strong><a href="../Page/彭帥.md" title="wikilink">彭帥</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サラ・エラニ" title="wikilink">サラ・エラニ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ロベルタ・ビンチ" title="wikilink">ロベルタ・ビンチ</a></p></td>
-<td><p>4–6, 6–3, [10–8]</p></td>
+<td><p>4-6, 6-3, [10-8]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
@@ -2189,7 +2203,7 @@
  <strong><a href="../Page/カタリナ・スレボトニク.md" title="wikilink">カタリナ・スレボトニク</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サラ・エラニ" title="wikilink">サラ・エラニ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ロベルタ・ビンチ" title="wikilink">ロベルタ・ビンチ</a></p></td>
-<td><p>4–0, 途中棄権</p></td>
+<td><p>4-0, 途中棄権</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
@@ -2197,7 +2211,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/クリスティナ・ムラデノビッチ" title="wikilink">クリスティナ・ムラデノビッチ</a></strong></p></td>
 <td><p><a href="../Page/マルチナ・ヒンギス.md" title="wikilink">マルチナ・ヒンギス</a><br />
  <a href="../Page/サニア・ミルザ.md" title="wikilink">サニア・ミルザ</a></p></td>
-<td><p>6–4, 6–3</p></td>
+<td><p>6-4, 6-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
@@ -2205,7 +2219,7 @@
  <strong><a href="../Page/サニア・ミルザ.md" title="wikilink">サニア・ミルザ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エカテリーナ・マカロワ" title="wikilink">エカテリーナ・マカロワ</a><br />
  <a href="https://ja.wikipedia.org/wiki/エレーナ・ベスニナ" title="wikilink">エレーナ・ベスニナ</a></p></td>
-<td><p>6–1, 6–7(5), [10–3]</p></td>
+<td><p>6-1, 6-7(5), [10-3]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
@@ -2223,12 +2237,20 @@
  <a href="https://ja.wikipedia.org/wiki/バルボラ・ストリコバ" title="wikilink">バルボラ・ストリコバ</a></p></td>
 <td><p>6-3, 6-4</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><strong><a href="../Page/ビクトリア・アザレンカ.md" title="wikilink">ビクトリア・アザレンカ</a></strong><br />
+ <strong><a href="https://ja.wikipedia.org/wiki/アシュリー・バーティ" title="wikilink">アシュリー・バーティ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アンナ＝レナ・グローネフェルト" title="wikilink">アンナ＝レナ・グローネフェルト</a><br />
+ <a href="https://ja.wikipedia.org/wiki/デミ・スゥース" title="wikilink">デミ・スゥース</a></p></td>
+<td><p>4-6, 6-0, [10-3]</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 混合ダブルス
 
-混合ダブルスは第1回大会の[1930年](../Page/1930年.md "wikilink")から実施されてきたが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")を最後に中止され、現在は行われていない。
+混合ダブルスは第1回大会の[1930年](../Page/1930年.md "wikilink")から実施されてきたが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")を最後に廃止され、現在は行われていない。
 
 <table>
 <thead>
@@ -2461,6 +2483,8 @@
 
   - 大会公式メディア・ガイド、2002年版（イタリア語、イタリア・テニス連盟発行）
 
+## 脚注
+
 ## 外部リンク
 
   - [トーナメント公式サイト](http://www.internazionalibnlditalia.com/)
@@ -2468,3 +2492,5 @@
   -
   -
 [Category:ATPツアー](https://ja.wikipedia.org/wiki/Category:ATPツアー "wikilink") [Category:WTAツアー](https://ja.wikipedia.org/wiki/Category:WTAツアー "wikilink") [Category:ATPワールドツアー・マスターズ1000](https://ja.wikipedia.org/wiki/Category:ATPワールドツアー・マスターズ1000 "wikilink") [Category:イタリアのテニス](https://ja.wikipedia.org/wiki/Category:イタリアのテニス "wikilink") [Category:クレーコートのテニス大会](https://ja.wikipedia.org/wiki/Category:クレーコートのテニス大会 "wikilink") [Category:ローマのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ローマのスポーツ競技大会 "wikilink") [Category:BNPパリバ](https://ja.wikipedia.org/wiki/Category:BNPパリバ "wikilink") [Category:1930年開始のイベント](https://ja.wikipedia.org/wiki/Category:1930年開始のイベント "wikilink")
+
+1.

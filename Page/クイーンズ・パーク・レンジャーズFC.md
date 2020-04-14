@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[クイーンズ・パーク・レンジャーズFC](https://ja.wikipedia.org/wiki/クイーンズ・パーク・レンジャーズFC)から翻訳されています。
 
 
 **クイーンズ・パーク・レンジャーズ・フットボール・クラブ** (**Queens Park Rangers Football Club**) は、[イングランド](../Page/イングランド.md "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。通称**QPR**、愛称フープス (The Hoops)\[1\]。

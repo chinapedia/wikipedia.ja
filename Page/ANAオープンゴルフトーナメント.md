@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/ANAオープンゴルフトーナメント)から翻訳されています。
 
 
 **ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は毎年[9月](../Page/9月.md "wikilink")第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。

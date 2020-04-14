@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアンテロープ塩尻](https://ja.wikipedia.org/wiki/FCアンテロープ塩尻)から翻訳されています。
 
 
-**アンテロープ塩尻**（アンテロープしおじり、*Antelope Shiojiri*）は、[長野県](../Page/長野県.md "wikilink")[塩尻市](../Page/塩尻市.md "wikilink")を拠点に活動している社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。チーム名の「アンテロープ」は、長野県の県獣である[カモシカ](../Page/カモシカ.md "wikilink")に由来。[2018年](../Page/2018年.md "wikilink")現在、[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")2部に所属。[2019年](../Page/2019年.md "wikilink")〜[2020年](../Page/2020年.md "wikilink")頃の[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")加盟を目指す\[1\]。
+**アンテロープ塩尻**（アンテロープしおじり、*Antelope Shiojiri*）は、[長野県](../Page/長野県.md "wikilink")[塩尻市](../Page/塩尻市.md "wikilink")を拠点に活動している社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。チーム名の「アンテロープ」は、長野県の県獣である[カモシカ](../Page/カモシカ.md "wikilink")に由来。[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")2部に所属。[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")加盟を目指す\[1\]。
 
 スポーツ文化の普及のため児童を対象としたサッカースクールを行ったり、地域へのイベントに積極的に参加をするなど地域密着の方針を掲げている。
 
@@ -41,6 +41,13 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 8位                                          | 5  | 14 | 1       | 2  | 11 | 8  | 49 | \-41 |      |      |           |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 北信越2部                                       | 4位 | 19 | 14      | 5  | 4  | 5  | 22 | 23   | \-1  | 三栗寛士 |           |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 5位                                          | 17 | 14 | 5       | 2  | 7  | 27 | 34 | \-7  |      |      |           |
+
+## 主な成績・タイトル
+
+### リーグ戦
+
+  - **[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")2部**
+      - 準優勝：3回 (2004年、2009年、2011年)
 
 ## 所属選手・スタッフ
 
@@ -238,6 +245,13 @@
 </tr>
 </tbody>
 </table>
+
+## 歴代所属選手
+
+  - 赤羽千尋
+  - 中田将志
+  - 濱賢一
+  - [三栗寛士](https://ja.wikipedia.org/wiki/三栗寛士 "wikilink")
 
 ## ユニフォーム
 

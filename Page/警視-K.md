@@ -1,4 +1,4 @@
-> この記事は[-K](https://ja.wikipedia.org/wiki/-K)から翻訳されています。
+> この記事は[警視-K](https://ja.wikipedia.org/wiki/警視-K)から翻訳されています。
 
 
 『**警視-K**』（けいし ケー）は、[勝新太郎](https://ja.wikipedia.org/wiki/勝新太郎 "wikilink")監督・主演の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[12月30日](../Page/12月30日.md "wikilink")にかけて、[日本テレビ系で毎週](../Page/日本テレビ放送網.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")21:00 - 21:54に全13話が放映された。[主題歌](../Page/主題歌.md "wikilink")および[音楽](../Page/音楽.md "wikilink")は[山下達郎](../Page/山下達郎.md "wikilink")が担当している。

@@ -1,4 +1,4 @@
-> この記事は[MSplash!!](https://ja.wikipedia.org/wiki/MSplash!!)から翻訳されています。
+> この記事は[M☆Splash!!](https://ja.wikipedia.org/wiki/M☆Splash!!)から翻訳されています。
 
 
 **M☆Splash\!\!**（エム・スプラッシュ）は、[プロ野球](../Page/プロ野球.md "wikilink")・[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の公式チア・パフォーマー（[チアリーディング](../Page/チアリーディング.md "wikilink")）チーム。

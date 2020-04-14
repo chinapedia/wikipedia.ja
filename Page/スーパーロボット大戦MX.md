@@ -1,4 +1,4 @@
-> この記事は[MX](https://ja.wikipedia.org/wiki/MX)から翻訳されています。
+> この記事は[スーパーロボット大戦MX](https://ja.wikipedia.org/wiki/スーパーロボット大戦MX)から翻訳されています。
 
 
 『**スーパーロボット大戦MX**』（スーパーロボットたいせんエムエックス）は、[2004年](../Page/2004年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

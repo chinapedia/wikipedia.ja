@@ -1,4 +1,4 @@
-> この記事は[\(IV\)](https://ja.wikipedia.org/wiki/\(IV\))から翻訳されています。
+> この記事は[硫化モリブデン\(IV\)](https://ja.wikipedia.org/wiki/硫化モリブデン\(IV\))から翻訳されています。
 
 
 | Section3 =  | Section7 =  | Section8 =  }} **硫化モリブデン(IV)**（りゅうかモリブデン よん、）は[モリブデン](../Page/モリブデン.md "wikilink")の[硫化物](../Page/硫化物.md "wikilink")で、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")が MoS<sub>2</sub> と表される黒色の固体である。一般的には**二硫化モリブデン**と呼ばれる。[輝水鉛鉱](../Page/輝水鉛鉱.md "wikilink")（輝モリブデン鉱）として天然に産出する。固体潤滑剤として[エンジンオイル](../Page/エンジンオイル.md "wikilink")の添加物等に用いられることがある

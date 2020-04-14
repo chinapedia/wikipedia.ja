@@ -1,4 +1,4 @@
-> この記事は[ \(Rihwa\)](https://ja.wikipedia.org/wiki/_\(Rihwa\))から翻訳されています。
+> この記事は[ミチシルベ \(Rihwaの曲\)](https://ja.wikipedia.org/wiki/ミチシルベ_\(Rihwaの曲\))から翻訳されています。
 
 
 「**ミチシルベ**」は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")\[1\]・[Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")の楽曲\[2\]。彼女のメジャー9枚目（通算12枚目）の[シングル](../Page/シングル.md "wikilink")として[2017年](../Page/2017年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")からリリースされた。

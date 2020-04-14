@@ -1,4 +1,4 @@
-> この記事は[POP](https://ja.wikipedia.org/wiki/POP)から翻訳されています。
+> この記事は[POP広告](https://ja.wikipedia.org/wiki/POP広告)から翻訳されています。
 
 
 **POP広告**（ポップこうこく）とは、**P**oint **o**f **p**urchase advertising（購買時点広告）の頭文字から取った略語で、主に[小売業](https://ja.wikipedia.org/wiki/小売業 "wikilink")の[店頭プロモーション](https://ja.wikipedia.org/wiki/店頭プロモーション "wikilink")施策として展開される[広告媒体](https://ja.wikipedia.org/wiki/広告媒体 "wikilink")である。

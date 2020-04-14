@@ -1,10 +1,7 @@
 > この記事は[AIS](https://ja.wikipedia.org/wiki/AIS)から翻訳されています。
 
 
-  - AIS
-
-<!-- end list -->
-
+  - AIS - Administrative Information Systems - 行政の情報化やデジタル・ガバメントを推進する日本の一般社団法人 ⇒[行政情報システム研究所](../Page/行政情報システム研究所.md "wikilink")
   - Australian Institute of Sport - オーストラリアのスポーツ競技者養成機関・研究所。⇒[オーストラリア国立スポーツ研究所](../Page/オーストラリア国立スポーツ研究所.md "wikilink")
   - Advanced Info Service - [タイ王国](../Page/タイ王国.md "wikilink")の携帯電話事業の企業。⇒[アドバンスト・インフォ・サービス](https://ja.wikipedia.org/wiki/アドバンスト・インフォ・サービス "wikilink")
   - Automatic Identification System - 船舶を自動識別する装置。⇒[自動船舶識別装置](../Page/自動船舶識別装置.md "wikilink")

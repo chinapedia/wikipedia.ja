@@ -1,4 +1,4 @@
-> この記事は[ \(MAN\)](https://ja.wikipedia.org/wiki/_\(MAN\))から翻訳されています。
+> この記事は[それが大事 \(大事MANブラザーズバンドの曲\)](https://ja.wikipedia.org/wiki/それが大事_\(大事MANブラザーズバンドの曲\))から翻訳されています。
 
 
 「**それが大事**」（それがだいじ）は、[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")の楽曲で、3枚目のシングルである。[1991年](../Page/1991年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された。

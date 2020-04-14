@@ -1,4 +1,4 @@
-> この記事は[ \(XJ\)](https://ja.wikipedia.org/wiki/_\(XJ\))から翻訳されています。
+> この記事は[ジープ・チェロキー \(XJ\)](https://ja.wikipedia.org/wiki/ジープ・チェロキー_\(XJ\))から翻訳されています。
 
 
 **ジープ・チェロキー (XJ)** (*Jeep Cherokee*) は[アメリカン・モーターズ](../Page/アメリカン・モーターズ.md "wikilink") (AMC) が1983年に発表した新世代[四輪駆動](../Page/四輪駆動.md "wikilink")車で、既存のエンジン以外はすべてゼロから開発した本格4×4スポーツ[ワゴンである](../Page/ステーションワゴン.md "wikilink")。

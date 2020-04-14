@@ -1,13 +1,13 @@
-> この記事は[BNP](https://ja.wikipedia.org/wiki/BNP)から翻訳されています。
+> この記事は[BNPパリバ・オープン](https://ja.wikipedia.org/wiki/BNPパリバ・オープン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Indian_Wells-Tennis_Garden.jpg "wikilink") **BNPパリバ・オープン**（英語：*BNP Paribas Open*）は、毎年3月前半に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[インディアンウェルズ](https://ja.wikipedia.org/wiki/インディアンウェルズ "wikilink")で開催される男女共催の国際テニス競技大会。**インディアンウェルズ・マスターズ（）**とも呼ばれる。
 
 ## 概要
 
-この大会の翌週に開催される[マイアミ・オープン](../Page/マイアミ・オープン.md "wikilink")と共に「春の祭典」と称され、参加ドローの多さから第5のグランドスラムとも呼ばれ、テニス界における重要な大会として定着している。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている。カテゴリーは男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーに属する](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、2012年から男女シングルスの優勝賞金が100万ドルを超えている。また、マイアミ・オープンと同時に連続で優勝することを「サンシャイン・ダブル」と呼ばれる。
+。2009年からフランスの証券会社[BNPパリバ](../Page/BNPパリバ.md "wikilink")が冠スポンサーを務めている。カテゴリーは男子は[マスターズ1000](https://ja.wikipedia.org/wiki/ATPツアー・マスターズ1000 "wikilink")、女子は[プレミア・マンダトリーに属する](https://ja.wikipedia.org/wiki/WTAプレミアトーナメント "wikilink")。賞金総額はマスターズ1000、プレミア・マンダトリーの中で最も多く、2012年から男女シングルスの優勝賞金が100万ドルを超えている。また、。
 
-2015年には観客数歴代最多の45万6672人を動員した。
+2020年大会は新型コロナウイルスの世界的な流行を懸念し中止された\[1\]\[2\]。
 
 ## 大会名の変遷
 
@@ -244,6 +244,12 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ドミニク・ティーム" title="wikilink">ドミニク・ティーム</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・フェデラー" title="wikilink">ロジャー・フェデラー</a></p></td>
 <td><p>3-6, 6-3, 7-5</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong>開催中止</strong>[3]</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -535,6 +541,12 @@
  <a href="https://ja.wikipedia.org/wiki/マルセロ・メロ" title="wikilink">マルセロ・メロ</a></p></td>
 <td><p>4-6, 6-4, [10-3]</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong>開催中止</strong>[4]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -735,6 +747,12 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ビアンカ・アンドレースク" title="wikilink">ビアンカ・アンドレースク</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンゲリク・ケルバー" title="wikilink">アンゲリク・ケルバー</a></p></td>
 <td><p>6-4, 3-6, 6-4</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong>開催中止</strong>[5]</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -999,8 +1017,16 @@
  <a href="https://ja.wikipedia.org/wiki/カテリナ・シニアコバ" title="wikilink">カテリナ・シニアコバ</a></p></td>
 <td><p>6-3, 6-2</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong>開催中止</strong>[6]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
+
+## 脚注
 
 ## 外部リンク
 
@@ -1009,3 +1035,10 @@
   -
   -
 [Category:ATPツアー](https://ja.wikipedia.org/wiki/Category:ATPツアー "wikilink") [Category:WTAツアー](https://ja.wikipedia.org/wiki/Category:WTAツアー "wikilink") [Category:ATPワールドツアー・マスターズ1000](https://ja.wikipedia.org/wiki/Category:ATPワールドツアー・マスターズ1000 "wikilink") [Category:ハードコートのテニス大会](https://ja.wikipedia.org/wiki/Category:ハードコートのテニス大会 "wikilink") [Category:アメリカ合衆国のテニス大会](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテニス大会 "wikilink") [Category:BNPパリバ](https://ja.wikipedia.org/wiki/Category:BNPパリバ "wikilink") [Category:カリフォルニア州のスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:カリフォルニア州のスポーツ競技大会 "wikilink") [Category:1974年開始のイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のイベント "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

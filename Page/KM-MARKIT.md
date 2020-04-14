@@ -192,6 +192,14 @@
 
 ・”Candy -Japanese Ver.-” (2018) /日本語詞作詞
 
+<Girls2>
+
+・”GIVE ME ♡” (2019) /作詞・作曲
+
+<STRAY KIDS>
+
+・”Double Knot -Japanese Ver.-” (2020) /日本語詞作詞
+
 
 
 ## 関連項目

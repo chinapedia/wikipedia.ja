@@ -1,4 +1,4 @@
-> この記事は[KATHMANDU \(\)](https://ja.wikipedia.org/wiki/KATHMANDU_\(\))から翻訳されています。
+> この記事は[KATHMANDU \(アルバム\)](https://ja.wikipedia.org/wiki/KATHMANDU_\(アルバム\))から翻訳されています。
 
 
 『**KATHMANDU**』（カトマンドゥ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の27枚目のオリジナルアルバム。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（CD：TOCT-9300、CT：TOTT-9300）。1995年[12月18日](../Page/12月18日.md "wikilink")～[1996年](../Page/1996年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")、『KATHMANDU PILGRIM』コンサートツアーが行われた。

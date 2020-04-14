@@ -111,4 +111,8 @@
   - 『[BEST 〜third universe〜](https://ja.wikipedia.org/wiki/BEST_〜third_universe〜_&_8th_AL_"UNIVERSE" "wikilink")』
   - 『[SUMMER of LOVE](https://ja.wikipedia.org/wiki/SUMMER_of_LOVE_\(倖田來未のアルバム\) "wikilink")』
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ 4 hot wave](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004195)
+
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink")

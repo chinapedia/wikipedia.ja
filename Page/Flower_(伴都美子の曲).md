@@ -1,4 +1,4 @@
-> この記事は[Flower \(\)](https://ja.wikipedia.org/wiki/Flower_\(\))から翻訳されています。
+> この記事は[Flower \(伴都美子の曲\)](https://ja.wikipedia.org/wiki/Flower_\(伴都美子の曲\))から翻訳されています。
 
 
 **Flower**（フラワー）は元[Do As Infinityのボーカリスト](../Page/Do_As_Infinity.md "wikilink")[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")発売。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

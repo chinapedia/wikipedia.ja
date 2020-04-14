@@ -1,4 +1,4 @@
-> この記事は[Sarp](https://ja.wikipedia.org/wiki/Sarp)から翻訳されています。
+> この記事は[S♯arp](https://ja.wikipedia.org/wiki/S♯arp)から翻訳されています。
 
 
 **S\#arp**（シャープ、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink"): ）は[大韓民国](../Page/大韓民国.md "wikilink")の男女混成アイドルグループである。**The S\#arp** とも。名前の中の記号は縦棒が垂直な[♯（シャープ記号）ではなく横棒が水平な](https://ja.wikipedia.org/wiki/嬰記号 "wikilink")[\#（ナンバ記号）である](https://ja.wikipedia.org/wiki/ナンバ記号 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ダブルH](https://ja.wikipedia.org/wiki/ダブルH)から翻訳されています。
 
 
 **ダブルH**（**ダブルヒロイン**）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で2006年4月4日～2006年6月27日（6月13日は[2006 FIFAワールドカップ中継のため休止](../Page/2006_FIFAワールドカップ.md "wikilink")）まで放送されていた深夜バラエティ番組で、「ヒロインシリーズ」の第3弾（関東ローカル）。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。放映時間は毎週[火曜日](../Page/火曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")3時15分～深夜3時45分。

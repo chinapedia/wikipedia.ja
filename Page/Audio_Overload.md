@@ -36,6 +36,6 @@
 ## 外部リンク
 
   - [Audio Overload homepage（英語）](http://www.bannister.org/software/)
-  - [Nekocan@macより、Sound Toolsページ](http://www5f.biglobe.ne.jp/%7enekocan/group_utility/utility_sound/ht_sound.html)
 
+  -
 [Category:ゲーム音楽](https://ja.wikipedia.org/wiki/Category:ゲーム音楽 "wikilink") [Category:メディアプレーヤーソフト](https://ja.wikipedia.org/wiki/Category:メディアプレーヤーソフト "wikilink")

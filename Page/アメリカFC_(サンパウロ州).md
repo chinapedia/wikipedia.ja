@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[アメリカFC \(サンパウロ州\)](https://ja.wikipedia.org/wiki/アメリカFC_\(サンパウロ州\))から翻訳されています。
 
 
 **アメリカFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サン・ジョゼー・ド・リオ・プレト](https://ja.wikipedia.org/wiki/サン・ジョゼー・ド・リオ・プレト "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。他の[同名クラブと区別するために](https://ja.wikipedia.org/wiki/アメリカFC "wikilink")、**アメリカ-SP** (América-SP) と表記されることがある。

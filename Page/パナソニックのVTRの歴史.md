@@ -1,4 +1,4 @@
-> この記事は[VTR](https://ja.wikipedia.org/wiki/VTR)から翻訳されています。
+> この記事は[パナソニックのVTRの歴史](https://ja.wikipedia.org/wiki/パナソニックのVTRの歴史)から翻訳されています。
 
 
 **パナソニック（旧・松下電器産業）のVTRの歴史**（パナソニックのVTRのれきし）では、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")やグループ会社における[VHS](../Page/VHS.md "wikilink")・[S-VHS](../Page/S-VHS.md "wikilink")（スーパーVHS）方式・他方式の家庭用[ビデオテープレコーダ](../Page/ビデオテープレコーダ.md "wikilink")（VTR）について、その歴史や当時ヒットした代表機種を紹介する。

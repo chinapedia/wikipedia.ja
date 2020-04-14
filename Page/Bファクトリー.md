@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bファクトリー](https://ja.wikipedia.org/wiki/Bファクトリー)から翻訳されています。
 
 
 **Bファクトリー** (B-factory) とは、B[中間子](../Page/中間子.md "wikilink")と呼ばれる[ハドロン](../Page/ハドロン.md "wikilink")を大量に作り出す高エネルギー加速器施設および実験のことを指す。

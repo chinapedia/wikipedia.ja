@@ -1,4 +1,4 @@
-> この記事は[76 JMPQ-P7](https://ja.wikipedia.org/wiki/76_JMPQ-P7)から翻訳されています。
+> この記事は[76式対砲レーダ装置 JMPQ-P7](https://ja.wikipedia.org/wiki/76式対砲レーダ装置_JMPQ-P7)から翻訳されています。
 
 
 **76式対砲レーダ装置 JMPQ-P7**（ななろくしきたいほうレーダそうち ジェイエムピーキューピーなな）は、[東芝](../Page/東芝.md "wikilink")製の[3次元レーダー](../Page/3次元レーダー.md "wikilink")。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")において、[対砲兵レーダー](https://ja.wikipedia.org/wiki/対砲兵レーダー "wikilink")として装備化された。

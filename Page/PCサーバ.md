@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[PCサーバ](https://ja.wikipedia.org/wiki/PCサーバ)から翻訳されています。
 
 
 **PCサーバ**（ぴーしーサーバ）とは、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")(PC)をベースとした[サーバ](../Page/サーバ.md "wikilink")ーのこと。一般にはサーバーの中では簡易的・低価格なものが多いが、サーバー用途向けに一部機能を拡張したものもある。多くは[CPU](../Page/CPU.md "wikilink")に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")系の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系のプロセッサを使用し、**IAサーバ**や**x86サーバ**などとも呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ジョーン・D・ヴィンジ](https://ja.wikipedia.org/wiki/ジョーン・D・ヴィンジ)から翻訳されています。
 
 
 **ジョーン・D・ヴィンジ**（**Joan D. Vinge**、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、アメリカの[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")の生まれ。[ヒューゴー賞を受賞した小説](../Page/ヒューゴー賞_長編小説部門.md "wikilink")『雪の女王』とその続編、またキャットという名前の[テレパスを主人公としたシリーズで知られている](../Page/テレパシー.md "wikilink")。

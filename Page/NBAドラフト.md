@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAドラフト](https://ja.wikipedia.org/wiki/NBAドラフト)から翻訳されています。
 
 
 **NBAドラフト** (**National Basketball Association Draft**) は、北米プロバスケットボールリーグ[NBA](../Page/NBA.md "wikilink")の球団が、アマチュア選手との契約交渉権を獲得するために行う毎年恒例の行事である。レギュラーシーズン終了後の6月の第4木曜日に開催される。

@@ -1,4 +1,4 @@
-> この記事は[HOME \(\)](https://ja.wikipedia.org/wiki/HOME_\(\))から翻訳されています。
+> この記事は[HOME \(アンジェラ・アキの曲\)](https://ja.wikipedia.org/wiki/HOME_\(アンジェラ・アキの曲\))から翻訳されています。
 
 
 「**HOME**」（ホーム）は、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")のメジャーデビューシングル。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。

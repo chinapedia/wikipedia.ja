@@ -1,4 +1,4 @@
-> この記事は[ \(RPG\)](https://ja.wikipedia.org/wiki/_\(RPG\))から翻訳されています。
+> この記事は[ドラゴンクエスト \(テーブルトークRPG\)](https://ja.wikipedia.org/wiki/ドラゴンクエスト_\(テーブルトークRPG\))から翻訳されています。
 
 
 **ドラゴンクエスト** (*DragonQuest*) は、米国[SPI社が](../Page/シミュレーションズ・パブリケイションズ.md "wikilink")1980年に発行した[ファンタジー](../Page/ファンタジー.md "wikilink")・[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")（[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")）である。その後著作権は[TSR](https://ja.wikipedia.org/wiki/TSR "wikilink")社（現[ウィザーズ・オブ・ザ・コースト](../Page/ウィザーズ・オブ・ザ・コースト.md "wikilink")）に移っている。デザイナーは、エリック・ゴールドバーグであるが、第2版以降はジェラルド・C・クラッグが中心となって編集・ディベロップしている。

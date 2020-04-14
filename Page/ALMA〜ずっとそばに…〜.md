@@ -1,4 +1,4 @@
-> この記事は[ALMA](https://ja.wikipedia.org/wiki/ALMA)から翻訳されています。
+> この記事は[ALMA〜ずっとそばに…〜](https://ja.wikipedia.org/wiki/ALMA〜ずっとそばに…〜)から翻訳されています。
 
 
 『**ALMA〜ずっとそばに…〜**』（アルマ〜ずっとそばに…〜）は、[Bonbee\!](../Page/Bonbee!.md "wikilink")から発売された[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。作品タイトルである「ALMA」とは、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")と[ラテン語](../Page/ラテン語.md "wikilink")の意味を合わせて「愛する女の幽霊」といった意味合いを持たせているとのこと。

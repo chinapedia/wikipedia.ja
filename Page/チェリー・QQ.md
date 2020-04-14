@@ -1,4 +1,4 @@
-> この記事は[QQ](https://ja.wikipedia.org/wiki/QQ)から翻訳されています。
+> この記事は[チェリー・QQ](https://ja.wikipedia.org/wiki/チェリー・QQ)から翻訳されています。
 
 
 **QQ** (キューキュー)は、[奇瑞汽車](../Page/奇瑞汽車.md "wikilink")が製造・販売する[自動車](../Page/自動車.md "wikilink")である。

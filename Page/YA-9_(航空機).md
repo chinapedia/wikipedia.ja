@@ -1,4 +1,4 @@
-> この記事は[YA-9 \(\)](https://ja.wikipedia.org/wiki/YA-9_\(\))から翻訳されています。
+> この記事は[YA-9 \(航空機\)](https://ja.wikipedia.org/wiki/YA-9_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機

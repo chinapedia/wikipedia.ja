@@ -1,4 +1,4 @@
-> この記事は[Invitational ](https://ja.wikipedia.org/wiki/Invitational_)から翻訳されています。
+> この記事は[長嶋茂雄Invitational セガサミーカップゴルフトーナメント](https://ja.wikipedia.org/wiki/長嶋茂雄Invitational_セガサミーカップゴルフトーナメント)から翻訳されています。
 
 
 **長嶋茂雄Invitational セガサミーカップゴルフトーナメント**（ながしましげおインヴィテーショナル セガサミーカップゴルフトーナメント）は、[2005年](../Page/2005年.md "wikilink")から始まった[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）の公認、[セガサミーグループの主催により](../Page/セガサミーホールディングス.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[千歳市](../Page/千歳市.md "wikilink")にある[ザ・ノースカントリーゴルフクラブ](https://ja.wikipedia.org/wiki/ザ・ノースカントリーゴルフクラブ "wikilink")で開催されている男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントである](../Page/トーナメント方式.md "wikilink")。

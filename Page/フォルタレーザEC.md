@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[フォルタレーザEC](https://ja.wikipedia.org/wiki/フォルタレーザEC)から翻訳されています。
 
 
 **フォルタレーザEC**（）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セアラー州](../Page/セアラー州.md "wikilink")[フォルタレーザをホームタウンとする](https://ja.wikipedia.org/wiki/フォルタレザ "wikilink")、ブラジルプロサッカーリーグ（[ブラジルリーグ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。

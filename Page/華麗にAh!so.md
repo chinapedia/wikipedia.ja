@@ -1,4 +1,4 @@
-> この記事は[Ah!so](https://ja.wikipedia.org/wiki/Ah!so)から翻訳されています。
+> この記事は[華麗にAh!so](https://ja.wikipedia.org/wiki/華麗にAh!so)から翻訳されています。
 
 
 **華麗にAh\!so**（かれいに あー そう）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系（関西地区は[KBS京都や](../Page/京都放送.md "wikilink")[サンテレビなどで放送](../Page/サンテレビジョン.md "wikilink")）で[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送されていた金曜日夜11時台の音楽バラエティー番組。本稿では後番組についても記す。

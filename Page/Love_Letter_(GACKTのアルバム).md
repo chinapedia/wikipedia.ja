@@ -1,4 +1,4 @@
-> この記事は[Love Letter \(GACKT\)](https://ja.wikipedia.org/wiki/Love_Letter_\(GACKT\))から翻訳されています。
+> この記事は[Love Letter \(GACKTのアルバム\)](https://ja.wikipedia.org/wiki/Love_Letter_\(GACKTのアルバム\))から翻訳されています。
 
 
 **Love Letter**（ラブレター）は、[2005年](../Page/2005年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の5枚目のフル[アルバム](../Page/アルバム.md "wikilink")。

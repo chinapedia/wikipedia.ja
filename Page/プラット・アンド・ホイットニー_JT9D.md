@@ -1,4 +1,4 @@
-> この記事は[ JT9D](https://ja.wikipedia.org/wiki/_JT9D)から翻訳されています。
+> この記事は[プラット・アンド・ホイットニー JT9D](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー_JT9D)から翻訳されています。
 
 
 **JT9D** は、アメリカにある3大[航空機](../Page/航空機.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")メーカーのひとつ、[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")が製造した民生用[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")（[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")）のシリーズである。

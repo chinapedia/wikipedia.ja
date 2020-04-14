@@ -1,4 +1,4 @@
-> この記事は[ORIGINAL GENERATION](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION)から翻訳されています。
+> この記事は[スーパーロボット大戦ORIGINAL GENERATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION)から翻訳されています。
 
 
 『**スーパーロボット大戦ORIGINAL GENERATION**』（スーパーロボットたいせんオリジナルジェネレーション）は、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

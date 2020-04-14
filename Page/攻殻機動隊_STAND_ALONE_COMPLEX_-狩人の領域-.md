@@ -1,4 +1,4 @@
-> この記事は[ STAND ALONE COMPLEX --](https://ja.wikipedia.org/wiki/_STAND_ALONE_COMPLEX_--)から翻訳されています。
+> この記事は[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域-)から翻訳されています。
 
 
 『**攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-**』（こうかくきどうたい スタンド アローン コンプレックス かりうどのりょういき）は、[2005年](../Page/2005年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[PlayStation Portable用のゲームソフト](../Page/PlayStation_Portable.md "wikilink")。アニメ『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』シリーズのゲーム化第二弾。

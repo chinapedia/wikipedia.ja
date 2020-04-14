@@ -1,4 +1,4 @@
-> この記事は[-KAMIWAZA-](https://ja.wikipedia.org/wiki/-KAMIWAZA-)から翻訳されています。
+> この記事は[神業-KAMIWAZA-](https://ja.wikipedia.org/wiki/神業-KAMIWAZA-)から翻訳されています。
 
 
 『**神業－KAMIWAZA－**』（かみわざ）は[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[アクワイアより発売の](../Page/アクワイア_\(ゲーム会社\).md "wikilink")[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

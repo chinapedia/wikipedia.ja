@@ -1,4 +1,4 @@
-> この記事は[\&WINDY](https://ja.wikipedia.org/wiki/\&WINDY)から翻訳されています。
+> この記事は[岩崎元是\&WINDY](https://ja.wikipedia.org/wiki/岩崎元是\&WINDY)から翻訳されています。
 
 
 **岩崎元是\&WINDY**（いわさき もとよし アンド ウィンディー）は、1980年代の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。

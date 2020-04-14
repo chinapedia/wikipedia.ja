@@ -1,4 +1,4 @@
-> この記事は[Bmi \(\)](https://ja.wikipedia.org/wiki/Bmi_\(\))から翻訳されています。
+> この記事は[Bmi \(航空会社\)](https://ja.wikipedia.org/wiki/Bmi_\(航空会社\))から翻訳されています。
 
 
 （ビーエムアイ・\[1\]）は、[1938年](../Page/1938年.md "wikilink")に設立された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。旧称は正式な社名の**ブリティッシュ・ミッドランド航空** (\[2\]\[3\]) であり[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")ではこの名称が用いられる事が多かった。

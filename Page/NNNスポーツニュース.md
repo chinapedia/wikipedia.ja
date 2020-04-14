@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNスポーツニュース](https://ja.wikipedia.org/wiki/NNNスポーツニュース)から翻訳されています。
 
 
 『**NNNスポーツニュース**』（エヌエヌエヌ、番組タイトルクレジットは「**スポーツ ニュース**」または「**Sports News**」）とは、[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で[1966年](../Page/1966年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月1日までにかけて放送された、[深夜](../Page/深夜.md "wikilink")最終便の[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。

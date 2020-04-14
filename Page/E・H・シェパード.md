@@ -1,4 +1,4 @@
-> この記事は[EH](https://ja.wikipedia.org/wiki/EH)から翻訳されています。
+> この記事は[E・H・シェパード](https://ja.wikipedia.org/wiki/E・H・シェパード)から翻訳されています。
 
 
 **アーネスト・ハワード・シェパード**（**Ernest Howard Shepard**, [1879年](../Page/1879年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink") - [1976年](../Page/1976年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[挿絵画家](https://ja.wikipedia.org/wiki/挿絵画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。「[クマのプーさん](https://ja.wikipedia.org/wiki/クマのプーさん "wikilink")」の挿絵で知られる。娘の[メアリー・シェパード](https://ja.wikipedia.org/wiki/メアリー・シェパード "wikilink")も挿絵画家。

@@ -1,4 +1,4 @@
-> この記事は[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV)から翻訳されています。
+> この記事は[AbemaTVツアー](https://ja.wikipedia.org/wiki/AbemaTVツアー)から翻訳されています。
 
 
 **AbemaTVツアー**とは、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")が主催する2部[トーナメント](https://ja.wikipedia.org/wiki/トーナメント "wikilink")である。

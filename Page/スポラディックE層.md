@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[スポラディックE層](https://ja.wikipedia.org/wiki/スポラディックE層)から翻訳されています。
 
 
 **スポラディックE層**（スポラディックイーそう、**Es層**、略称は**Eスポ**、または、**Es**、[英語](../Page/英語.md "wikilink")：Sporadic E layer）とは[春](../Page/春.md "wikilink")から[夏](../Page/夏.md "wikilink")ごろにかけて、主に昼間に上空約100km付近に局地的に突発的（スポラディック）に発生する特殊な[電離層](../Page/電離層.md "wikilink")である\[1\]。

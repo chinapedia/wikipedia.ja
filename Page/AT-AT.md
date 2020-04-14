@@ -42,7 +42,7 @@
 
   - AT-DP (All Terrain Defense Pod):銀河帝国軍がヤヴィンの戦い以前に惑星ロザルなどに配備していた二足歩行のウォーカー。警邏や短距離偵察任務、限られた人数での広範囲のパトロールに向いていた。顎部の｢マード38重レーザー砲｣で武装していたが、AT-STよりも火力は貧弱とされ、まともな戦闘には向いていなかった。正史のアニメシリーズ『スターウォーズ：反乱者たち』に登場。
 
-[Star_Wars_Celebration_Orlando_EFX_AT-ST.jpg](https://ja.wikipedia.org/wiki/File:Star_Wars_Celebration_Orlando_EFX_AT-ST.jpg "fig:Star_Wars_Celebration_Orlando_EFX_AT-ST.jpg")
+<!-- end list -->
 
   - AT-ST (All Terrain Scout Transport):AT-ATよりはるかに小型で小回りが利く。AT-XTの簡易量産型でもある。[ホスの戦い](https://ja.wikipedia.org/wiki/ホスの戦い "wikilink")では戦場の雪原を走行する様子のみが描写されていただけであった。対して[エンドアの戦い](https://ja.wikipedia.org/wiki/エンドアの戦い "wikilink")では、森林での戦闘ゆえか小回りの利くAT-STが多数（劇中で確認できるのは4機）投入され[イウォーク](../Page/イウォーク.md "wikilink")達を苦しめた。装甲と言えるほどの大した装甲は持たず、耐久力ではAT-ATに及ぶべくもない。さすがに投石程度ではほとんどダメージを受けなかったが、イウォークの巨木の丸太を用いた原始的な罠によって2機が破壊されている。さらにこの戦いでは[チューバッカ](../Page/チューバッカ.md "wikilink")とイウォークが一機を奪取して乗り回しており、操縦はそれほど難しくないようである。奪取された本機は残る一機をレーザーキャノンで破壊し、さらに帝国軍のストームトルーパー部隊を掃討。そして[ハン・ソロ](../Page/ハン・ソロ.md "wikilink")は、本機からの偽通信でバンカー内に篭城する帝国兵たちをおびき出してゲートを開けさせ、勝敗を決した。被弾した機体は木っ端微塵に爆散し、薄い装甲に比して非常に高い攻撃力を持つ。
 

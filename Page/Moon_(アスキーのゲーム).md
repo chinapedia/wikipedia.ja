@@ -1,4 +1,4 @@
-> この記事は[Moon \(\)](https://ja.wikipedia.org/wiki/Moon_\(\))から翻訳されています。
+> この記事は[Moon \(アスキーのゲーム\)](https://ja.wikipedia.org/wiki/Moon_\(アスキーのゲーム\))から翻訳されています。
 
 
 『**moon**』（ムーン）は、[ラブデリック](../Page/ラブデリック.md "wikilink")が開発し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[アスキーから発売された](../Page/アスキー_\(企業\).md "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは「リミックス[RPGアドベンチャーゲーム](../Page/コンピュータRPG.md "wikilink")」。
@@ -86,7 +86,7 @@
   - ヨシダ
     [関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")で喋る自称[インテリ](../Page/インテリ.md "wikilink")という鳥。王様がバリバリ島から呼び寄せた栄誉市民でもある。少年の正体を知っている。バーの裏で旅行代理店を経営。
   - キュリオ
-    [よろず屋を営みアイテムの売買をしている男](https://ja.wikipedia.org/wiki/よろずや "wikilink")。商売熱心で勇者グッズを作り一攫千金を狙うなど野心家。夜は煙草を吸う。
+    [よろず屋を営みアイテムの売買をしている男](../Page/よろずや.md "wikilink")。商売熱心で勇者グッズを作り一攫千金を狙うなど野心家。夜は煙草を吸う。
   - ベイカー
     パン屋の主人。気弱な性格だが、パンの味は天下一品。営業時間終了後に店を開けることはない。山びこの日には[酒](../Page/酒.md "wikilink")を飲みに行き、翌日のパンはアルコールの味がするという。
   - フローラ

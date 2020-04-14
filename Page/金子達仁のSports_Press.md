@@ -1,4 +1,4 @@
-> この記事は[Sports Press](https://ja.wikipedia.org/wiki/Sports_Press)から翻訳されています。
+> この記事は[金子達仁のSports Press](https://ja.wikipedia.org/wiki/金子達仁のSports_Press)から翻訳されています。
 
 
 **金子達仁のSports Press**（フレッツひかり かねこたつひとのスポーツプレス）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の毎週日曜23時 - 23時20分に放送したスポーツ評論番組である。

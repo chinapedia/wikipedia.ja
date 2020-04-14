@@ -1,4 +1,4 @@
-> この記事は[MAR \(\)](https://ja.wikipedia.org/wiki/MAR_\(\))から翻訳されています。
+> この記事は[MAR \(漫画\)](https://ja.wikipedia.org/wiki/MAR_\(漫画\))から翻訳されています。
 
 
 『**MÄR - Märchen Awakens Romance**』（メル）は、[安西信行](../Page/安西信行.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")。
@@ -1340,7 +1340,7 @@ EDのスタッフロール終了後から次回予告の間にあたるパタパ
 ## 外部リンク
 
   - [メルヘヴン公式サイト](http://www.shopro.co.jp/tv/marheaven/)
-  - [MÄR-メルヘヴン- テレビ東京公式](http://www.tv-tokyo.co.jp/anime/MAR/)
+  - [MÄR-メルヘヴン- テレビ東京公式](https://www.tv-tokyo.co.jp/anime/MAR/)
   - [コナミ・ゲームメルヘヴンシリーズ公式サイト](http://www.konami.jp/gs/game/mar/)
 
 [Category:MÄR](https://ja.wikipedia.org/wiki/Category:MÄR "wikilink") [Category:漫画作品_め](https://ja.wikipedia.org/wiki/Category:漫画作品_め "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:異世界への転生・転移を題材とした作品](https://ja.wikipedia.org/wiki/Category:異世界への転生・転移を題材とした作品 "wikilink") [Category:民話・童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:民話・童話を題材とした作品 "wikilink") [Category:チェスを題材とした作品](https://ja.wikipedia.org/wiki/Category:チェスを題材とした作品 "wikilink") [Category:トレーディングカードゲーム](https://ja.wikipedia.org/wiki/Category:トレーディングカードゲーム "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

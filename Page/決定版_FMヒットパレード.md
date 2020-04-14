@@ -1,4 +1,4 @@
-> この記事は[ FM](https://ja.wikipedia.org/wiki/_FM)から翻訳されています。
+> この記事は[決定版 FMヒットパレード](https://ja.wikipedia.org/wiki/決定版_FMヒットパレード)から翻訳されています。
 
 
 **決定版 FMヒットパレード**は、[FM長崎で放送されている長寿](../Page/エフエム長崎.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

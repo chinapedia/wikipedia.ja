@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIホールディングス](https://ja.wikipedia.org/wiki/SBIホールディングス)から翻訳されています。
 
 
 **SBIホールディングス株式会社**（エスビーアイホールディングス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[金融持株会社](../Page/金融持株会社.md "wikilink")である。[商号](../Page/商号.md "wikilink")の**SBI**は、元々[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")の金融関連企業として設立されたため「**S**oft**B**ank **I**nvestment」の略であったが、その後同グループを離脱し「**S**trategic **B**usiness **I**nnovator（戦略的な事業の革新者）」の略（[バクロニム](../Page/バクロニム.md "wikilink")）に変更した。
@@ -85,7 +85,7 @@
 ### 金融サービス事業
 
   - SBIファイナンシャルサービシーズ株式会社 - 金融サービス事業の統括・運営
-      - 株式会社SBI証券（旧：SBI[イー・トレード証券](https://ja.wikipedia.org/wiki/イー・トレード証券 "wikilink")）
+      - 株式会社[SBI証券](../Page/SBI証券.md "wikilink")（旧：大沢証券）
           - SBIリクイディティ・マーケット株式会社
               - SBI FXトレード株式会社
           - SBIマネープラザ株式会社 - 2012年6月14日、SBIフィナンシャルショップとSBIファイナンシャル・エージェンシーの2社を合併し、現商号に変更。

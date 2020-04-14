@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アステール青森FC](https://ja.wikipedia.org/wiki/アステール青森FC)から翻訳されています。
 
 
 **アステール青森FC**（アステールあおもりFC、Aster Aomori FC）は、かつて存在した[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三戸郡](../Page/三戸郡.md "wikilink")[五戸町](../Page/五戸町.md "wikilink")を本拠地としていた。

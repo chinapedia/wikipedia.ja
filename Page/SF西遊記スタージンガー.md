@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF西遊記スタージンガー](https://ja.wikipedia.org/wiki/SF西遊記スタージンガー)から翻訳されています。
 
 
 『**SF西遊記スタージンガー**』（エスエフさいゆうきスタージンガー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1979年](../Page/1979年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[松本零士](../Page/松本零士.md "wikilink")原作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。その後も1979年[7月1日](../Page/7月1日.md "wikilink")から同年[8月26日](../Page/8月26日.md "wikilink")まで『**SF西遊記スタージンガーII**』と題して放送されていた。いずれも[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")と[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink")の共同製作。全73話。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
@@ -930,9 +930,9 @@
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 18:00 - 18:30\[4\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：木曜 17:00 - 17:30（1978年）\[5\] → 木曜 17:30 - 18:00（1979年）\[6\]
   - [長野放送](../Page/長野放送.md "wikilink")：日曜 19:00 - 19:30\[7\]
-  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：木曜 19:00 - 19:30\[8\]
-  - [石川テレビ](../Page/石川テレビ放送.md "wikilink")：木曜 19:00 - 19:30\[9\]
-  - [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")：木曜 19:00 - 19:30\[10\]
+  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：日曜 19:00 - 19:30\[8\]
+  - [石川テレビ](../Page/石川テレビ放送.md "wikilink")：日曜 19:00 - 19:30\[9\]
+  - [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")：日曜 19:00 - 19:30\[10\]
   - [鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")：木曜 17:45 - 18:15
 
 ## 劇場版
@@ -955,6 +955,7 @@
 ## 外部リンク
 
   - [SF西遊記・スタージンガー - TOEI ANIMATION](http://www.toei-anim.co.jp/lineup/tv/starginger/)
+  - [SF西遊記スタージンガー](http://lineup.toei-anim.co.jp/ja/tv/starginger/) - 東映アニメーション
   - [SF西遊記スタージンガーFC](https://lighthill.org/nohohon/sutazin-top0.html) - 勝田稔男公認ファンクラブによるデータベースサイト。
 
 [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:1978年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1978年のテレビアニメ "wikilink") [Category:フジテレビ系アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメ "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:ADKグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:ADKグループのアニメ作品 "wikilink") [Category:松本零士原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:松本零士原作のアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink") [Category:西遊記を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:西遊記を題材としたアニメ作品 "wikilink") [Category:サイボーグを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:サイボーグを題材としたアニメ作品 "wikilink") [Category:サイボーグを主人公にした作品](https://ja.wikipedia.org/wiki/Category:サイボーグを主人公にした作品 "wikilink")

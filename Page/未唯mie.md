@@ -1,4 +1,4 @@
-> この記事は[mie](https://ja.wikipedia.org/wiki/mie)から翻訳されています。
+> この記事は[未唯mie](https://ja.wikipedia.org/wiki/未唯mie)から翻訳されています。
 
 
 |著名使用楽器= |血液型=A型 }} **未唯mie**（みい、[1958年](../Page/1958年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")。'70年代アイドル。本名、**根本 美鶴代**（ねもと みつよ）\[1\]。[静岡県](../Page/静岡県.md "wikilink")\[2\][静岡市](../Page/静岡市.md "wikilink")\[3\]出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[Ａ型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Izumo \(\)](https://ja.wikipedia.org/wiki/Izumo_\(\))から翻訳されています。
+> この記事は[Izumo \(タンパク質\)](https://ja.wikipedia.org/wiki/Izumo_\(タンパク質\))から翻訳されています。
 
 
 **Izumo**(**いずも**)は、[受精](../Page/受精.md "wikilink")の際の[卵子](https://ja.wikipedia.org/wiki/卵子 "wikilink")と[精子](../Page/精子.md "wikilink")の[形質膜の融合のために必要とされる分子のうち](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")、精子側で発現するべきものの一つとして報告された[タンパク質](../Page/タンパク質.md "wikilink")であり、その発現は[精子](../Page/精子.md "wikilink")に特異的である。[アミノ酸配列](https://ja.wikipedia.org/wiki/アミノ酸配列 "wikilink")的には[免疫グロブリン](../Page/抗体.md "wikilink")[スーパーファミリー](https://ja.wikipedia.org/wiki/スーパーファミリー "wikilink")に属する、ということが示されている。

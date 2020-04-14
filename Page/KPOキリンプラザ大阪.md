@@ -1,4 +1,4 @@
-> この記事は[KPO](https://ja.wikipedia.org/wiki/KPO)から翻訳されています。
+> この記事は[KPOキリンプラザ大阪](https://ja.wikipedia.org/wiki/KPOキリンプラザ大阪)から翻訳されています。
 
 
 **KPOキリンプラザ大阪**（KPOキリンプラザおおさか、**KPO**）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[宗右衛門町](../Page/宗右衛門町.md "wikilink")にあった複合文化ビルである。
@@ -56,7 +56,7 @@
 
 ## アクセス
 
-  - [大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(大阪市高速電気軌道\) "wikilink")・[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
+  - [大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")・[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
   - [近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪神](../Page/阪神電気鉄道.md "wikilink")　[大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")
 
 ## KPOビール

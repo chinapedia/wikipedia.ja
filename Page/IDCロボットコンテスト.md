@@ -1,4 +1,4 @@
-> この記事は[IDC](https://ja.wikipedia.org/wiki/IDC)から翻訳されています。
+> この記事は[IDCロボットコンテスト](https://ja.wikipedia.org/wiki/IDCロボットコンテスト)から翻訳されています。
 
 
 **IDCロボットコンテスト**（あいでぃーしーろぼっとこんてすと、International Design Contest）は、世界各国の大学生が[ロボット](../Page/ロボット.md "wikilink")を製作し競技を行うイベントである。

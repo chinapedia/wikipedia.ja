@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[ルーサー“No.1”市村](https://ja.wikipedia.org/wiki/ルーサー“No.1”市村)から翻訳されています。
 
 
 **ルーサー“No.1”市村**（ルーサー ナンバーワン いちむら、Luther "No.1" ICHIMURA、本名・**市村 宏**、[1960年](../Page/1960年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") - ）は、[ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink")率いるソウルユニットREAL BLOODの[ベースボーカルを担当する](../Page/バス_\(声域\).md "wikilink")[歌手](../Page/歌手.md "wikilink")。

@@ -1,7 +1,7 @@
-> この記事は[OJ](https://ja.wikipedia.org/wiki/OJ)から翻訳されています。
+> この記事は[O・J・シンプソン](https://ja.wikipedia.org/wiki/O・J・シンプソン)から翻訳されています。
 
 
-**オレンタール・ジェームス・シンプソン**（**Orenthal James Simpson** , [1947年](../Page/1947年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ出身の元](../Page/オークランド.md "wikilink")[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")選手、[俳優](../Page/俳優.md "wikilink")。
+**オレンタール・ジェームス・シンプソン**（**Orenthal James Simpson** , [1947年](../Page/1947年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身の元[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")選手、[俳優](../Page/俳優.md "wikilink")。
 
 **O.J.**（アメリカ合衆国でオレンジジュースの略語）のイニシャルで知られ、「[ジュース](../Page/ジュース.md "wikilink")」の愛称で呼ばれた。引退後、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")選手として[プロフットボール殿堂](../Page/プロフットボール殿堂.md "wikilink")入りした。[1994年](../Page/1994年.md "wikilink")に発生した元妻の殺害事件（[O・J・シンプソン事件](../Page/O・J・シンプソン事件.md "wikilink")）の被疑者となったことでも知られる。
 
@@ -90,7 +90,7 @@
   - [Famous American Trials: The O. J. Simpson Trial](http://www.law.umkc.edu/faculty/projects/ftrials/Simpson/simpson.htm)
 
   -
-[Category:NFL選手](https://ja.wikipedia.org/wiki/Category:NFL選手 "wikilink") [Category:ハイズマン賞受賞者](https://ja.wikipedia.org/wiki/Category:ハイズマン賞受賞者 "wikilink") [Category:バッファロー・ビルズの選手](https://ja.wikipedia.org/wiki/Category:バッファロー・ビルズの選手 "wikilink") [Category:サンフランシスコ・フォーティナイナーズの選手](https://ja.wikipedia.org/wiki/Category:サンフランシスコ・フォーティナイナーズの選手 "wikilink") [Category:プロボウル選出選手](https://ja.wikipedia.org/wiki/Category:プロボウル選出選手 "wikilink") [Category:アメリカンフットボールのランニングバック](https://ja.wikipedia.org/wiki/Category:アメリカンフットボールのランニングバック "wikilink") [Category:アフリカ系アメリカ人のアメリカンフットボール選手](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のアメリカンフットボール選手 "wikilink") [Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:サンフランシスコ出身の人物](https://ja.wikipedia.org/wiki/Category:サンフランシスコ出身の人物 "wikilink") [Category:1947年生](https://ja.wikipedia.org/wiki/Category:1947年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:NFL選手](https://ja.wikipedia.org/wiki/Category:NFL選手 "wikilink") [Category:ハイズマン賞受賞者](https://ja.wikipedia.org/wiki/Category:ハイズマン賞受賞者 "wikilink") [Category:バッファロー・ビルズの選手](https://ja.wikipedia.org/wiki/Category:バッファロー・ビルズの選手 "wikilink") [Category:サンフランシスコ・フォーティナイナーズの選手](https://ja.wikipedia.org/wiki/Category:サンフランシスコ・フォーティナイナーズの選手 "wikilink") [Category:プロボウル選出選手](https://ja.wikipedia.org/wiki/Category:プロボウル選出選手 "wikilink") [Category:アメリカンフットボールのランニングバック](https://ja.wikipedia.org/wiki/Category:アメリカンフットボールのランニングバック "wikilink") [Category:アフリカ系アメリカ人のアメリカンフットボール選手](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のアメリカンフットボール選手 "wikilink") [Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:サンフランシスコ出身の人物](https://ja.wikipedia.org/wiki/Category:サンフランシスコ出身の人物 "wikilink") [Category:USC出身のアメリカンフットボール選手](https://ja.wikipedia.org/wiki/Category:USC出身のアメリカンフットボール選手 "wikilink") [Category:1947年生](https://ja.wikipedia.org/wiki/Category:1947年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [O.J.シンプソン](http://www4.plala.or.jp/k-mash/old-players/o.j/oj.htm)
 2.

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[土曜時代劇 \(NHK\)](https://ja.wikipedia.org/wiki/土曜時代劇_\(NHK\))から翻訳されています。
 
 
 **土曜時代劇**（どようじだいげき）は、[NHK総合テレビで](../Page/NHK総合テレビジョン.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[時代劇](../Page/時代劇.md "wikilink")を放送する[番組枠に冠せられたシリーズタイトルのひとつである](../Page/テレビ番組.md "wikilink")。
@@ -224,7 +224,8 @@
   - [雲霧仁左衛門2](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2019年5月25日 - 7月20日、主演：中井貴一、原作：池波正太郎） - 2015年にBSで放送。
   - [小吉の女房](https://ja.wikipedia.org/wiki/小吉の女房 "wikilink")（2019年7月27日 - 9月21日、主演：[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
   - [大富豪同心](https://ja.wikipedia.org/wiki/大富豪同心#テレビドラマ "wikilink")（2019年10月5日 - 2020年1月11日、主演：[中村隼人](https://ja.wikipedia.org/wiki/中村隼人_\(歌舞伎役者\) "wikilink")、原作：[幡大介](https://ja.wikipedia.org/wiki/幡大介 "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
-  - [螢草 菜々の剣](https://ja.wikipedia.org/wiki/螢草_\(葉室麟\)#テレビドラマ "wikilink")（2020年1月25日 - 、主演：[清原果耶](https://ja.wikipedia.org/wiki/清原果耶 "wikilink")、原作：[葉室麟](../Page/葉室麟.md "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
+  - [螢草 菜々の剣](https://ja.wikipedia.org/wiki/螢草_\(葉室麟\)#テレビドラマ "wikilink")（2020年1月25日 - 3月21日、主演：[清原果耶](https://ja.wikipedia.org/wiki/清原果耶 "wikilink")、原作：[葉室麟](../Page/葉室麟.md "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
+  - [雲霧仁左衛門3](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2020年4月11日 - 、主演：中井貴一、原案：池波正太郎） - 「BS時代劇」で放送されたものを再編集して放送。
 
 ## 参考文献
 

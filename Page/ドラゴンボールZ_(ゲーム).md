@@ -1,4 +1,4 @@
-> この記事は[Z \(\)](https://ja.wikipedia.org/wiki/Z_\(\))から翻訳されています。
+> この記事は[ドラゴンボールZ \(ゲーム\)](https://ja.wikipedia.org/wiki/ドラゴンボールZ_\(ゲーム\))から翻訳されています。
 
 
 『**ドラゴンボールZ**』（ドラゴンボールゼット、**DRAGON BALL Z**）は、[ディンプス](../Page/ディンプス.md "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦](../Page/対戦型格闘ゲーム.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

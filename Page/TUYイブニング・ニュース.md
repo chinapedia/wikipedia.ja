@@ -1,4 +1,4 @@
-> この記事は[TUY](https://ja.wikipedia.org/wiki/TUY)から翻訳されています。
+> この記事は[TUYイブニング・ニュース](https://ja.wikipedia.org/wiki/TUYイブニング・ニュース)から翻訳されています。
 
 
 『**TUYイブニング・ニュース**』（ティーユーワイ・イブニング・ニュース、ロゴ表示は**TUY eVENING NEWS**）は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にスタートし、[2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（週末（土・日）版を含めると2011年[3月27日](../Page/3月27日.md "wikilink")）まで放送された[山形県](../Page/山形県.md "wikilink")内向けローカル報道番組である。

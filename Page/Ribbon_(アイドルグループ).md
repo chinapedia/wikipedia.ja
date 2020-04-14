@@ -1,4 +1,4 @@
-> この記事は[Ribbon \(\)](https://ja.wikipedia.org/wiki/Ribbon_\(\))から翻訳されています。
+> この記事は[Ribbon \(アイドルグループ\)](https://ja.wikipedia.org/wiki/Ribbon_\(アイドルグループ\))から翻訳されています。
 
 
 **ribbon**（リボン）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』内の「[乙女塾](../Page/乙女塾.md "wikilink")」から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。

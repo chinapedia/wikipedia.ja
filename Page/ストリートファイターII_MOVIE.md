@@ -1,4 +1,4 @@
-> この記事は[II MOVIE](https://ja.wikipedia.org/wiki/II_MOVIE)から翻訳されています。
+> この記事は[ストリートファイターII MOVIE](https://ja.wikipedia.org/wiki/ストリートファイターII_MOVIE)から翻訳されています。
 
 
 『**ストリートファイターII MOVIE**』（ストリートファイターツー ムービー、**STREET FIGHTER II MOVIE**）は、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スーパーストリートファイターIIX](../Page/ストリートファイターII.md "wikilink")』を原作とした[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。[1994年](../Page/1994年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")公開。配給は[東映](../Page/東映.md "wikilink")。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")7億円\[1\]。英語版タイトルは『*Street Fighter II: The Animated Movie*』。

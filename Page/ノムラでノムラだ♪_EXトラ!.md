@@ -1,4 +1,4 @@
-> この記事は[ EX!](https://ja.wikipedia.org/wiki/_EX!)から翻訳されています。
+> この記事は[ノムラでノムラだ♪ EXトラ!](https://ja.wikipedia.org/wiki/ノムラでノムラだ♪_EXトラ!)から翻訳されています。
 
 
 **ノムラでノムラだ♪ EXトラ\!**（ノムラでノムラだ エキストラ）は、[2009年](../Page/2009年.md "wikilink")4月6日から[2015年](../Page/2015年.md "wikilink")3月26日まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されていた生ワイド番組。[2011年](../Page/2011年.md "wikilink")4月以降は、毎週月 - 木曜日の16:00から放送していた。ただし、番組開始から[2011年](../Page/2011年.md "wikilink")4月1日までは、金曜日にも放送。また、放送終了時間は時期によって異なる（後述）。

@@ -1,4 +1,4 @@
-> この記事は[BHP](https://ja.wikipedia.org/wiki/BHP)から翻訳されています。
+> この記事は[BHPグループ](https://ja.wikipedia.org/wiki/BHPグループ)から翻訳されています。
 
 
 **BHPグループ**（, ）は、世界最大の[鉱業](../Page/鉱業.md "wikilink")会社である。[2001年](../Page/2001年.md "wikilink")に[オーストラリア](../Page/オーストラリア.md "wikilink")の会社である (BHP) と[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の会社で[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")で大規模に操業する会社である (Billiton) が[二元上場会社](../Page/二元上場会社.md "wikilink")となることにより形成された。[2018年](../Page/2018年.md "wikilink")11月、社名をBHPビリトン（）から改称した\[1\]。

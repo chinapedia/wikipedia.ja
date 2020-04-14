@@ -1,4 +1,4 @@
-> この記事は[SUN](https://ja.wikipedia.org/wiki/SUN)から翻訳されています。
+> この記事は[スーパーSUNサンまる](https://ja.wikipedia.org/wiki/スーパーSUNサンまる)から翻訳されています。
 
 
 『**スーパーSunサンまる**』（スーパーサンサンまる）は、[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されていたローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

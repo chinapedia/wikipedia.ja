@@ -1,4 +1,4 @@
-> この記事は[KUJI](https://ja.wikipedia.org/wiki/KUJI)から翻訳されています。
+> この記事は[のるねっとKUJI](https://ja.wikipedia.org/wiki/のるねっとKUJI)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:IwateKenpokuBus_NorunetKuji_No.187.jpg "wikilink") **久慈市民バス**（くじしみんバス、愛称: **のるねっとKUJI**（のるねっとくじ））とは、[岩手県](../Page/岩手県.md "wikilink")[久慈市](../Page/久慈市.md "wikilink")が運営し、[岩手県北自動車](../Page/岩手県北自動車.md "wikilink")（岩手県北バス）・[ヒカリ総合交通](../Page/ヒカリ総合交通.md "wikilink")・三河交通観光・三陸観光の4社に委託して運行される[廃止代替バス](../Page/廃止代替バス.md "wikilink")（[自治体バス](../Page/自治体バス.md "wikilink")）である。

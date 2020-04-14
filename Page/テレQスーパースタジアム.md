@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[テレQスーパースタジアム](https://ja.wikipedia.org/wiki/テレQスーパースタジアム)から翻訳されています。
 
 
 『**テレQスーパースタジアム**』（テレキュー スーパースタジアム(Super\!Stadium)）は、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")（愛称:テレQ）（旧：TXN九州）で放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
@@ -50,7 +50,7 @@
   - [柴原洋](../Page/柴原洋.md "wikilink")（2012年 - ）
   - [斉藤和巳](../Page/斉藤和巳.md "wikilink")（2014年 - 、2015年からテレビ東京解説者兼。2017年からはスポナビライブのDeNA戦やDAZNの広島戦（いずれも対ソフトバンク戦以外も含む）の解説も担当）
 
-2人とも[FOX SPORTSで放送の球団制作中継の中継を兼任](https://ja.wikipedia.org/wiki/FOX_SPORTS_ジャパン "wikilink")。
+2人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
 
 ### ゲスト解説
 

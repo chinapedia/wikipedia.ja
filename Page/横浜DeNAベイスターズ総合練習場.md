@@ -1,4 +1,4 @@
-> この記事は[DeNA](https://ja.wikipedia.org/wiki/DeNA)から翻訳されています。
+> この記事は[横浜DeNAベイスターズ総合練習場](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ総合練習場)から翻訳されています。
 
 
 **横浜DeNAベイスターズ総合練習場**（よこはまディー・エヌ・エーベイスターズそうごうれんしゅうじょう）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")にあった[野球場](../Page/野球場.md "wikilink")。[プロ野球](../Page/プロ野球.md "wikilink")・[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の練習場で、同球団が運営管理していた。通称「**ベイスターズ球場**」。

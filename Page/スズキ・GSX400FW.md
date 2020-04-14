@@ -1,4 +1,4 @@
-> この記事は[GSX400FW](https://ja.wikipedia.org/wiki/GSX400FW)から翻訳されています。
+> この記事は[スズキ・GSX400FW](https://ja.wikipedia.org/wiki/スズキ・GSX400FW)から翻訳されています。
 
 
 **GSX400FW**（ジーエスエックスよんひゃくエフダブル）は、[1980年代](../Page/1980年代.md "wikilink")に発売された、[スズキの中型](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")。

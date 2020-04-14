@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ロバート・E・リー](https://ja.wikipedia.org/wiki/ロバート・E・リー)から翻訳されています。
 
 
 **ロバート・エドワード・リー**（Robert Edward Lee、[1807年](../Page/1807年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - [1870年](../Page/1870年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")）は、[南北戦争](../Page/南北戦争.md "wikilink")の時代の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[軍人](../Page/軍人.md "wikilink")、[教育者](https://ja.wikipedia.org/wiki/教育者 "wikilink")。[南部連合の軍司令官を務め](../Page/アメリカ連合国.md "wikilink")、物量や国力において圧倒的に強大だった合衆国側の北軍を大いに苦しめた。最終的には敗北したが、アメリカ史上屈指の名将として評価が高い。

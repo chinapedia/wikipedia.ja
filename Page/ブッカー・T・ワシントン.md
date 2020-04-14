@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[ブッカー・T・ワシントン](https://ja.wikipedia.org/wiki/ブッカー・T・ワシントン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:BookerTWashington-Cheynes.LOC.jpg "wikilink") **ブッカー・タリフェーロ・ワシントン** (**Booker Taliaferro Washington**, [1856年](../Page/1856年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [1915年](../Page/1915年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の教育者、作家。

@@ -1,17 +1,17 @@
-> この記事は[GOGO!](https://ja.wikipedia.org/wiki/GOGO!)から翻訳されています。
+> この記事は[GOGO競馬サタデー!](https://ja.wikipedia.org/wiki/GOGO競馬サタデー!)から翻訳されています。
 
 
 『**GOGO競馬サタデー\!**』（ゴーゴーけいばサタデー\!）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")で毎週土曜 10:00 - 16:30に放送している[中央競馬](../Page/中央競馬.md "wikilink")中継である。
 
 ## 概要・歴史
 
-西日本（[東海以西](../Page/東海3県.md "wikilink")）のラジオによる中央競馬中継は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）が旧[八大競走](../Page/八大競走.md "wikilink")を中心に単発の特別番組として立ち上げたのが源流である。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）、[競馬ブックがスポンサーに付き](../Page/ケイバブック.md "wikilink")、**『MBS土曜競馬』『日曜競馬』**のタイトルで現在まで続く毎週のレギュラー放送が始まった。
+西日本（[東海以西](../Page/東海3県.md "wikilink")）のラジオによる中央競馬中継は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）が旧[八大競走](../Page/八大競走.md "wikilink")を中心に単発の特別番組として立ち上げたのが最初である。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）、[競馬ブックがスポンサーに付き](../Page/ケイバブック.md "wikilink")、**『MBS土曜競馬』『日曜競馬』**のタイトルで現在まで続く毎週のレギュラー放送が始まった。
 
 [1991年](../Page/1991年.md "wikilink")（平成3年）、MBSはラジオ関西（AM KOBE→CRK）と業務提携して、両局リレーの形で土曜午後の一部のレースを中継した。なお一時期は日曜も13:00 - 14:00（後に12:15 - 13:00繰上げ）の間のみリレー中継を行っていた。
 
 [1994年](../Page/1994年.md "wikilink")（平成6年）、[ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC、『[ドラマティック競馬](../Page/OBCドラマティック競馬.md "wikilink")』）が12年ぶりに競馬中継を再開することになったがこの時にMBSと競馬ブックが猛反発した。OBCはMBSとJRAの間の役務調達契約を取り持っていた[電通](../Page/電通.md "wikilink")関西支社に話を持ち込み、MBSとJRAをも交えて調整した結果、MBS・AMK陣営はそれまでMBSからの送出となっていた土曜のメインレースをAM KOBEに移管する代わりに、AMKで放送する競馬中継番組の制作をMBSが全面受託することで折り合った。こうして同年10月改編から「**AM KOBE サタデー競馬**」（エイエムコウベ サタデーけいば、放送時間：13:00 - 16:30）と改題した。
 
-[2000年](../Page/2000年.md "wikilink")（平成12年）10月改編から10:05スタートの完全放送となり、「**ラジオ関西 パーフェクト競馬\!**」（ラジオかんさい パーフェクトけいば\!）になった。この際に、午前中は[神戸ハーバーランド](../Page/神戸ハーバーランド.md "wikilink")（[神戸情報文化ビル](../Page/神戸情報文化ビル.md "wikilink")）のラジオ関西本社スタジオと開催競馬場の2元、午後はレース会場1本という進行スタイルが確立した。
+[2000年](../Page/2000年.md "wikilink")（平成12年）10月改編から10:05スタートの完全放送となり、「**ラジオ関西 パーフェクト競馬\!**」（ラジオかんさい パーフェクトけいば\!）になった。この際に、午前中はラジオ関西本社スタジオと開催競馬場の2元、午後はレース会場1本という進行スタイルが確立した。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")放送で、スポンサー・[競馬ブックの都合により](../Page/ケイバブック.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")放送をもって競馬ブックからの解説者出演を中止することを発表した。[4月3日](../Page/4月3日.md "wikilink")放送分からは番組の開始時間を10:00に変更の上、スポンサーが[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")（[神戸新聞社](../Page/神戸新聞社.md "wikilink")発行の[スポーツ紙](../Page/スポーツ新聞.md "wikilink")。クレジット上では「[デイリースポーツ・クオリティ](https://ja.wikipedia.org/wiki/デイリースポーツ・クオリティ "wikilink")株式会社」）に交代し、解説もデイリースポーツ・[馬サブロー](../Page/馬三郎.md "wikilink")（関西での新聞発行なし）[トラックマン](../Page/トラックマン.md "wikilink")が数名出演することになった（MBSからの実況派遣は従来通り）。なお『ホリデー競馬』は2010年以降も競馬ブックがスポンサーを務め解説も日曜の『みんなの競馬』に出演しているブックのトラックマンが担当する。
 
@@ -86,7 +86,7 @@
 ### 解説
 
   - [青木行雄](https://ja.wikipedia.org/wiki/青木行雄 "wikilink") - [競馬ブック](https://ja.wikipedia.org/wiki/競馬ブック "wikilink")本社。『ホリデー\!』がCRKで放送される場合に出演。
-  - [坂口元一](https://ja.wikipedia.org/wiki/坂口元一 "wikilink") - [デイリー馬三郎編集長](../Page/馬三郎.md "wikilink")。2019年2月23日までレギュラー出演、以後は森田が欠ける場合に1部後半を担当。彼が出演する場合、コーナー名に「ぐっさん」の冠が付く。
+  - [大西修平](https://ja.wikipedia.org/wiki/大西修平 "wikilink") - デイリースポーツ記者。主に第2部を担当。
   - [妹尾和也](https://ja.wikipedia.org/wiki/妹尾和也 "wikilink") - デイリー馬三郎編集部兼栗東調教班。森田が欠ける場合に1部前半を担当。
   - [西村敬](https://ja.wikipedia.org/wiki/西村敬 "wikilink") - 競馬ブック本社。2008年の1回小倉・中京開催時に井上の代役。その後『サンデー\!』にレギュラー出演。現在は『ホリデー\!』がCRKで放送される場合に出演。
   - [森田真司](https://ja.wikipedia.org/wiki/森田真司 "wikilink") - デイリー馬三郎。2019年3月2日放送より着任し第1部を担当。
@@ -103,6 +103,7 @@
   - [井上政行](https://ja.wikipedia.org/wiki/井上政行 "wikilink") - 競馬ブック本社。第2部を主に担当\[5\]。
   - [川田英太](https://ja.wikipedia.org/wiki/川田英太 "wikilink") - 競馬ブック本社。第1部を主に担当。
   - [高井大輔](https://ja.wikipedia.org/wiki/高井大輔 "wikilink") - レーシングアナリスト。
+  - [坂口元一](https://ja.wikipedia.org/wiki/坂口元一 "wikilink") - [デイリー馬三郎編集長](../Page/馬三郎.md "wikilink")。2019年2月23日までレギュラー出演、以後は2020年3月まで森田が欠ける場合に1部後半を担当。彼が出演する場合、コーナー名に「ぐっさん」の冠が付いた、東京へ異動のため退任。
   - [永山弘樹](https://ja.wikipedia.org/wiki/永山弘樹 "wikilink") - [競馬ダービー](../Page/ダービー社.md "wikilink")（現・[研究ニュース](../Page/研究ニュース.md "wikilink")関西版）。2007年3回中京競馬開催時に井上の代役\[6\]を務めた。
   - [山田一雄](https://ja.wikipedia.org/wiki/山田一雄_\(競馬評論家\) "wikilink") - 競馬ブック本社。『御大』の愛称で親しまれ、2007年3月勇退、2016年1月死去。
 
@@ -153,15 +154,6 @@
 
   -
     妹尾の予想コーナー。
-
-<!-- end list -->
-
-  - ぐっさんの数字が走る
-
-<!-- end list -->
-
-  -
-    坂口の予想コーナー。
 
 <!-- end list -->
 
@@ -285,11 +277,11 @@
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）</p></td>
-<td><p>準メイン・メインレースのみ[13]<br />
+<td><p>15:00-16:00</p></td>
+<td><p>2019年12月までは準メイン・メインレースのみ[13]<br />
 2019年1月よりKBCラジオから移行<br />
 『<a href="https://ja.wikipedia.org/wiki/土曜deアミーゴ!" title="wikilink">土曜deアミーゴ!</a>』内<br />
 1月 - 3月・10月 - 12月に放送[14][15]</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ラブエフエム国際放送.md" title="wikilink">ラブエフエム国際放送</a></p></td>
@@ -305,7 +297,7 @@
 ### 過去
 
   - [CBCラジオ](../Page/CBCラジオ.md "wikilink")（メインレースのみ、他にCBCは2007年まで中京競馬の主場開催時も自社制作していた。また2012年以降は土曜の自社制作を行わない）。
-  - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")（準メイン・メインレースのみ\[18\]）
+  - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（準メイン・メインレースのみ\[18\]）
 
 ## 関東主場・第三場の放送との連携
 

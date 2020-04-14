@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ソウルキャリバーIII](https://ja.wikipedia.org/wiki/ソウルキャリバーIII)から翻訳されています。
 
 
 『**ソウルキャリバーIII**』（ソウルキャリバースリー、**SOULCALIBUR III**）は、[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（現、[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[剣劇対戦アクションゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。“[ソウルシリーズ](../Page/ソウルシリーズ.md "wikilink")”の第4作目であり、“ソウルシリーズ10周年記念作品”とも銘打たれている。

@@ -1,7 +1,7 @@
 > この記事は[Wonderful Go!Go!](https://ja.wikipedia.org/wiki/Wonderful_Go!Go!)から翻訳されています。
 
 
-『**Wonderful Go\!Go\!**』（ワンダフル・ゴー\!ゴー\!）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")・[JFN系列](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")19局ネットで[生放送](../Page/生放送.md "wikilink")されていた平日午後のワイド番組。通称、**ワンゴー**。日替わりでひとつのテーマを取り上げて放送。また2007年9月までは15時台には日替わりでゲストが出演していた。前番組は『[ヒルサイド・アヴェニュー](../Page/ヒルサイド・アヴェニュー.md "wikilink")』で、後番組は『[flowers](https://ja.wikipedia.org/wiki/flowers_\(ラジオ番組\) "wikilink")』。
+『**Wonderful Go\!Go\!**』（ワンダフル・ゴー\!ゴー\!）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")・[JFN系列](../Page/全国FM放送協議会.md "wikilink")19局ネットで[生放送](../Page/生放送.md "wikilink")されていた平日午後のワイド番組。通称、**ワンゴー**。日替わりでひとつのテーマを取り上げて放送。また2007年9月までは15時台には日替わりでゲストが出演していた。前番組は『[ヒルサイド・アヴェニュー](../Page/ヒルサイド・アヴェニュー.md "wikilink")』で、後番組は『[flowers](https://ja.wikipedia.org/wiki/flowers_\(ラジオ番組\) "wikilink")』。
 
 ## 放送時間・ネット局
 
@@ -50,7 +50,7 @@
 
   - [FM長野では番組開始時からネットしていたが](../Page/長野エフエム放送.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から同局制作『Studio Siesta』スタートに伴い、ネット離脱。
   - [Kiss-FM KOBEは](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")2005年[11月](../Page/11月.md "wikilink")から放送開始されたが、木曜日は同局制作『floatin'』を放送していた為、2006年1月まで木曜の放送は非ネットだった時期があった。しかし、2006年9月で終了。2007年4月から再開。
-  - [北陸地方](../Page/北陸地方.md "wikilink")の[JFN系列全局](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")（FM NIIGATA・FMとやま・HELLO FIVE・FM FUKUI）で非ネットとなっている。
+  - [北陸地方](../Page/北陸地方.md "wikilink")の[JFN系列全局](../Page/全国FM放送協議会.md "wikilink")（FM NIIGATA・FMとやま・HELLO FIVE・FM FUKUI）で非ネットとなっている。
   - [Radio Cube FM三重は](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")2006年4月から自社製作新番組をスタートさせるため、2006年3月でネット離脱。（東海地方での**Wonderful Go\!Go\!**のネット局は06年4月現在[Radio80のみとなっている](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")。Radio cube FM三重では以前ネットの無かった夕方4時台の番組（[SUNSET JAM](../Page/SUNSET_JAM.md "wikilink")）を開始した〈のちにRadio80も**SUNSET JAM**のネットを開始した〉）また、[RADIO BERRYも](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")2006年4月からネットを取りやめた（関東地方で放送する局がなくなった）。
   - [FM岩手では](../Page/エフエム岩手.md "wikilink")2007年9月3日から15時台のネットを打ち切り、『[DAY BREAK](../Page/DAY_BREAK_\(ラジオ番組\).md "wikilink")』の再放送を開始したため、14:55で飛び降りとなった。また、[V-airも](../Page/エフエム山陰.md "wikilink")2007年10月1日から、自社枠拡大に伴うため、15時台ネット打ち切り。
   - [Hi-Sixは](../Page/エフエム高知.md "wikilink")2008年4月より放送開始。
@@ -63,7 +63,7 @@
 
 ### 過去に担当
 
-  - [中田美香](../Page/中田美香.md "wikilink")（[JFNCパーソナリティー](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）※2007年9月までは月曜 - 木曜、2007年10月 - 2008年3月は水曜・木曜。全国ネット番組[クロノスへ異動](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")。
+  - [中田美香](../Page/中田美香.md "wikilink")（[JFNCパーソナリティー](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）※2007年9月までは月曜 - 木曜、2007年10月 - 2008年3月は水曜・木曜。全国ネット番組[クロノスへ異動](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")。
   - [水谷ユミ](https://ja.wikipedia.org/wiki/水谷ユミ "wikilink")※2007年10月 - 2008年9月に月曜・火曜を担当。
 
 ## タイムテーブル
@@ -120,7 +120,7 @@
 
 [2005年](../Page/2005年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に同番組は、[岐阜FM](https://ja.wikipedia.org/wiki/岐阜FM "wikilink")のみでの放送という珍しい現象が起きた（番組は14:00 - 14:55の短縮バージョン）。
 
-[JFN各局でスペシャルプログラム](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")『[Honda LIFE](../Page/ホンダ・ライフ.md "wikilink") presents GLOBAL MISSION〜Safety Drive\!Enjoy LIFE\!〜』を、『[Switch\!](../Page/Switch!.md "wikilink")』（[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）をネットしている局では、13:00 - 14:55で放送したのに対し、岐阜FMのみ『Switch\!』を11:50までの短縮放送とし、スペシャルプログラムを12:00 - 13:55で放送した。そして14:00 - 14:55で『Wonderful Go\!Go\! 岐阜FMスペシャル』として放送を行った。
+[JFN各局でスペシャルプログラム](../Page/全国FM放送協議会.md "wikilink")『[Honda LIFE](../Page/ホンダ・ライフ.md "wikilink") presents GLOBAL MISSION〜Safety Drive\!Enjoy LIFE\!〜』を、『[Switch\!](../Page/Switch!.md "wikilink")』（[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）をネットしている局では、13:00 - 14:55で放送したのに対し、岐阜FMのみ『Switch\!』を11:50までの短縮放送とし、スペシャルプログラムを12:00 - 13:55で放送した。そして14:00 - 14:55で『Wonderful Go\!Go\! 岐阜FMスペシャル』として放送を行った。
 
 ## 外部リンク
 

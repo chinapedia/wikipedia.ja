@@ -1,4 +1,4 @@
-> この記事は[TBC](https://ja.wikipedia.org/wiki/TBC)から翻訳されています。
+> この記事は[私立TBC気象台](https://ja.wikipedia.org/wiki/私立TBC気象台)から翻訳されています。
 
 
 **私立TBC気象台**（わたくしりつティービーシーきしょうだい）とは、TBC[東北放送](../Page/東北放送.md "wikilink")が[気象庁](../Page/気象庁.md "wikilink")より東北の放送局で初めて[予報業務許可事業者](../Page/予報業務許可事業者.md "wikilink")に認可（[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）4月1日）されたことに伴い[2001年](../Page/2001年.md "wikilink")（平成13年）に開設された[気象台](../Page/気象台.md "wikilink")である。

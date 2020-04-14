@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・ウィリアムズ](https://ja.wikipedia.org/wiki/ウィリアム・A・ウィリアムズ)から翻訳されています。
 
 
 **ウィリアム・A・ウィリアムズ**（William Appleman Williams, [1921年](../Page/1921年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[歴史学者](https://ja.wikipedia.org/wiki/歴史学者 "wikilink")。専門はアメリカ外交史。冷戦史研究におけるニュー・レフト史学、修正主義学派の創始者として知られる。

@@ -1,4 +1,4 @@
-> この記事は[YUI \(\)](https://ja.wikipedia.org/wiki/YUI_\(\))から翻訳されています。
+> この記事は[YUI \(女優\)](https://ja.wikipedia.org/wiki/YUI_\(女優\))から翻訳されています。
 
 
 **YUI**（ゆい、[1982年](../Page/1982年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")、[ファッションモデル](../Page/ファッションモデル.md "wikilink")。**品田 ゆい**（しなだ ゆい）としても活動。

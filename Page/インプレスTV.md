@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[インプレスTV](https://ja.wikipedia.org/wiki/インプレスTV)から翻訳されています。
 
 
 **インプレスTV**（インプレスティーヴィー）は、[インプレス](../Page/インプレス.md "wikilink")グループのair impressがかつて提供していた[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")番組の[ポータルサイト](../Page/ポータルサイト.md "wikilink")。24時間365日、好きな時間に見たい番組が見られる。[2000年](../Page/2000年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")開局。

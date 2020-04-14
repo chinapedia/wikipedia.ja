@@ -17,7 +17,7 @@
 
 [映画俳優](https://ja.wikipedia.org/wiki/映画俳優 "wikilink")へのインタビューをはじめ、トークイベント、[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")、[雑誌](../Page/雑誌.md "wikilink")[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")執筆など、マルチタレントとして幅広く活躍。[アニメ](../Page/アニメ.md "wikilink")『[サウスパーク](../Page/サウスパーク.md "wikilink")』などで[声優](../Page/声優.md "wikilink")としても活動。
 
-2018年4月2日、レギュラー出演している「[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")」の生放送中に、当日ゲスト出演中の歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")と2017年に婚姻届を提出していたことを発表した\[4\]。
+2018年4月2日、レギュラー出演している「[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")」の生放送中に、当日ゲスト出演中の歌謡グループ[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")のメンバーで俳優の[小田井涼平](../Page/小田井涼平.md "wikilink")と2017年に婚姻届を提出していたことを発表した\[4\]。LiLiCoはこれが再婚である。また、30歳のときに結婚歴があり、6年で離婚している。前夫との間にも子供はいない。
 
 ## プロレス活動
 
@@ -75,6 +75,7 @@
   - 弟は6か国語を話せる経営学博士で、スウェーデンの大学で准教授をしている\[18\]。
   - 売れない当時はメイク道具も無く、マジックペンなどでメイク用品を代用していた。その為、女性とは思われずに[ニューハーフ](../Page/ニューハーフ.md "wikilink")と間違われた事もあった。
   - ハイテンションでポジティブで豪快ながらもちゃんとポイントを押さえた発言をしている。時々、急に乙女ぶったりすると周囲から「らしくない」「可愛くない」と言われて「なんでだよ！」と突っ込む事が多い。
+  - [2020年](../Page/2020年.md "wikilink")現在、夫との間に子供はいないが、発展途上国で暮らす3人の子供の面倒を見ているという\[19\]｡
 
 ## 主な出演作品
 
@@ -91,7 +92,7 @@
   - 東京PRウーマン(2015年8月22日) - 本人 役
   - [猫侍 南の島へ行く](https://ja.wikipedia.org/wiki/猫侍#劇場版_『猫侍_南の島へ行く』 "wikilink")（2015年9月6日） - お蓮 役
   - [さらば あぶない刑事](https://ja.wikipedia.org/wiki/さらば_あぶない刑事 "wikilink")（2016年） - 水上警察職員 役
-  - [手をつないでかえろうよ〜シャングリラの向こうで〜](https://ja.wikipedia.org/wiki/手をつないでかえろうよ〜シャングリラの向こうで〜 "wikilink")（2016年5月28日） - 真人の母 役\[19\]
+  - [手をつないでかえろうよ〜シャングリラの向こうで〜](https://ja.wikipedia.org/wiki/手をつないでかえろうよ〜シャングリラの向こうで〜 "wikilink")（2016年5月28日） - 真人の母 役\[20\]
   - [ニワトリ★スター](https://ja.wikipedia.org/wiki/ニワトリ★スター "wikilink")（2018年） - 管理人 役
   - [108〜海馬五郎の復讐と冒険〜](https://ja.wikipedia.org/wiki/108〜海馬五郎の復讐と冒険〜 "wikilink")（2019年10月25日公開予定） - エイドリアン 役
 
@@ -107,16 +108,16 @@
 
 #### 海外アニメ
 
-  - [幸福路のチー](../Page/幸福路のチー.md "wikilink")（チーの祖母\[20\]）
+  - [幸福路のチー](../Page/幸福路のチー.md "wikilink")（チーの祖母\[21\]）
   - [サウスパーク](../Page/サウスパーク.md "wikilink")（エリック・カートマン）※[WOWOW](../Page/WOWOW.md "wikilink")版及び[Netflix](../Page/Netflix.md "wikilink")版
-  - [サミーとシェリー 七つの海の大冒険](https://ja.wikipedia.org/wiki/サミーとシェリー_七つの海の大冒険 "wikilink")（ベラ\[21\]）
+  - [サミーとシェリー 七つの海の大冒険](https://ja.wikipedia.org/wiki/サミーとシェリー_七つの海の大冒険 "wikilink")（ベラ\[22\]）
   - [ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")（大口魚の母）
   - [メアリー & マックス](https://ja.wikipedia.org/wiki/メアリー_&_マックス "wikilink")（ヴェラ）
   - [ロラックスおじさんの秘密の種](https://ja.wikipedia.org/wiki/ロラックスおじさんの秘密の種 "wikilink")（テッドのママ）
 
 #### 劇場版アニメ
 
-  - [レイトン教授と永遠の歌姫](https://ja.wikipedia.org/wiki/レイトン教授と永遠の歌姫 "wikilink")（アニー・ドレッチー\[22\]）
+  - [レイトン教授と永遠の歌姫](https://ja.wikipedia.org/wiki/レイトン教授と永遠の歌姫 "wikilink")（アニー・ドレッチー\[23\]）
   - [映画 紙兎ロペつか、夏休みラスイチってマジっすか\!?](https://ja.wikipedia.org/wiki/紙兎ロペ#映画 "wikilink")（占い師、カメラ屋のおばさん、ラビッツフルーツのお客）
 
 ### テレビ番組
@@ -150,7 +151,7 @@
   - [ファースト・クラス](https://ja.wikipedia.org/wiki/ファーストクラス_\(テレビドラマ\) "wikilink")（2014年4月19日 - 6月21日、フジテレビ） - ナレーション / リエコ・マッカートニー 役
       - ファーストクラス（2014年10月15日 - 12月24日）
   - [問題のあるレストラン](https://ja.wikipedia.org/wiki/問題のあるレストラン "wikilink") 第9話（2015年3月12日、フジテレビ）
-  - [せいせいするほど、愛してる](https://ja.wikipedia.org/wiki/せいせいするほど、愛してる#テレビドラマ "wikilink") 第4話（2016年8月2日、TBS） - hiro 役\[23\]
+  - [せいせいするほど、愛してる](https://ja.wikipedia.org/wiki/せいせいするほど、愛してる#テレビドラマ "wikilink") 第4話（2016年8月2日、TBS） - hiro 役\[24\]
   - [潜入捜査アイドル・刑事ダンス](https://ja.wikipedia.org/wiki/潜入捜査アイドル・刑事ダンス "wikilink") 第4話（2016年10月29日、テレビ東京） - リサコ 役
   - 年の瀬恋愛ドラマ「恋するJKゾンビ」（2016年12月30日、テレビ朝日）- 杉田摩亜沙 役
   - [連続ドラマW](https://ja.wikipedia.org/wiki/連続ドラマW "wikilink") [それを愛とまちがえるから](https://ja.wikipedia.org/wiki/それを愛とまちがえるから "wikilink")（2019年2月9日 - 3月9日、WOWOW） - 馬場さくら 役
@@ -177,8 +178,8 @@
   - [ネッツトヨタ](../Page/ネッツ店.md "wikilink")（ナレーション）
   - [ペプシ](https://ja.wikipedia.org/wiki/ペプシ "wikilink")NEX（ナレーション）
   - [ドラゴンポーカー](https://ja.wikipedia.org/wiki/ドラゴンポーカー "wikilink")
-  - [サントリー](../Page/サントリー.md "wikilink") サントリープレシャス（2015年4月、北海道限定）\[24\]\[25\]
-  - [雪印メグミルク](https://ja.wikipedia.org/wiki/雪印メグミルク "wikilink")「こんがり焼ける とろけるスライス」（2015年）\[26\]
+  - [サントリー](../Page/サントリー.md "wikilink") サントリープレシャス（2015年4月、北海道限定）\[25\]\[26\]
+  - [雪印メグミルク](https://ja.wikipedia.org/wiki/雪印メグミルク "wikilink")「こんがり焼ける とろけるスライス」（2015年）\[27\]
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（2017年）クイズ、体操、ボウリング
 
 ### ゲーム
@@ -198,7 +199,7 @@
 
 ### 舞台
 
-  - 舞台「私のホストちゃん REBORN ～絶唱\!大阪ミナミ編～」（2018年1月19日 - 2月11日、東京・愛知・広島・大阪）夢・ジャネット 役　※Wキャスト\[27\]
+  - 舞台「私のホストちゃん REBORN ～絶唱\!大阪ミナミ編～」（2018年1月19日 - 2月11日、東京・愛知・広島・大阪）夢・ジャネット 役　※Wキャスト\[28\]
 
 ## ディスコグラフィー
 
@@ -273,7 +274,7 @@
 16.
 17.
 18.
-19.
+19. <https://headlines.yahoo.co.jp/article?a=20200306-00000002-pseven-ent&p=3>
 20.
 21.
 22.
@@ -282,3 +283,4 @@
 25.
 26.
 27.
+28.

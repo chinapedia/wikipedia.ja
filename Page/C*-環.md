@@ -1,4 +1,4 @@
-> この記事は[C\*-](https://ja.wikipedia.org/wiki/C\*-)から翻訳されています。
+> この記事は[C\*-環](https://ja.wikipedia.org/wiki/C\*-環)から翻訳されています。
 
 
 [数学](../Page/数学.md "wikilink")における **-環**（シースターかん、）とは[複素数](../Page/複素数.md "wikilink")体上の[完備](https://ja.wikipedia.org/wiki/完備 "wikilink")な[ノルム環](https://ja.wikipedia.org/wiki/ノルム環 "wikilink")で[複素共役](../Page/複素共役.md "wikilink")に類似の作用をもつものであり、[フォン・ノイマン環](../Page/フォン・ノイマン環.md "wikilink")と並ぶ[作用素環論](../Page/作用素環論.md "wikilink")の主要な研究対象である。**-代数**（シースターだいすう）とも呼ばれる。1943年のGel'fand-Naimark\[1\]と1946年のRickart\[2\]の研究によって公理系が与えられた。'-algebra' という用語は1947年にSegal\[3\]によって導入された。

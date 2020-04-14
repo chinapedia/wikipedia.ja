@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース)から翻訳されています。
 
 
 『**JNNイブニング・ニュース**』（ジェイエヌエヌ - 、英字表記：*JNN EVENING NEWS*）は、[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")（[週末](../Page/週末.md "wikilink")は[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）まで、[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）系列で放送された[夕](../Page/夕.md "wikilink")方の[ニュース番組である](../Page/報道番組.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度は、[土曜日](../Page/土曜日.md "wikilink")以外（[後述](https://ja.wikipedia.org/wiki/#週末版 "wikilink")）で放送した。
@@ -19,7 +19,7 @@
 
 [2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけての[年末年始](../Page/年末年始.md "wikilink")の放送は、18:00 - 18:30（[12月31日](../Page/12月31日.md "wikilink")は17:30 - 18:00）までの放送で、ニュース・スポーツニュースを放送した後ローカル枠のニュースに入り、ローカル枠のニュースが終了後再びイブニング・ニュースに再接続され天気予報が放送された（地域によっては、天気もローカル枠で放送されることもある）。
 
-『**JNNイブニング・ニュース**』の名称は、TBSと業務提携の関係にある米[CBS](../Page/CBS.md "wikilink")の『[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")』から由来しているともいう。なおTBSや系列の[HBC](../Page/北海道放送.md "wikilink")、[SBSはかつて同番組を放送していたこともあるが](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、現在はTBS系の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")と[BS-iで放送されている](../Page/BS-TBS.md "wikilink")。系列局のローカルニュース枠もJNN枠に合わせ、ロゴも流用した『（放送局名・略称）イブニング・ニュース』とした局が多いが、[山陽放送については](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から夕方のローカルニュースを『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")（現在は[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")）』という番組名で放送していた（『ニュースの森』時代は「N森・イブニングN」という両併記だった）関係から、ロゴや[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")・テロップ等についてはRSK独自の物を採用している。
+『**JNNイブニング・ニュース**』の名称は、TBSと業務提携の関係にある米[CBS](../Page/CBS.md "wikilink")の『[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")』から由来しているともいう。なおTBSや系列の[HBC](../Page/北海道放送.md "wikilink")、[SBSはかつて同番組を放送していたこともあるが](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、現在はTBS系の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")と[BS-iで放送されている](../Page/BS-TBS.md "wikilink")。系列局のローカルニュース枠もJNN枠に合わせ、ロゴも流用した『（放送局名・略称）イブニング・ニュース』とした局が多いが、[山陽放送については](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から夕方のローカルニュースを『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")（現在は[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")）』という番組名で放送していた（『ニュースの森』時代は「N森・イブニングN」という両併記だった）関係から、ロゴや[アイキャッチ](../Page/アイキャッチ.md "wikilink")・テロップ等についてはRSK独自の物を採用している。
 
 番組がスタートした2005年3月28日から31日までは、前番組『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』同様に全編ローカルスポンサーだったが、4月1日から番組の後半はナショナルスポンサーとなった。『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』がナショナルスポンサー枠を廃止した2000年4月以降、5年ぶりの復活となった。
 

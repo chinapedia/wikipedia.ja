@@ -1,4 +1,4 @@
-> この記事は[DY](https://ja.wikipedia.org/wiki/DY)から翻訳されています。
+> この記事は[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ)から翻訳されています。
 
 
 **株式会社博報堂DYメディアパートナーズ**（はくほうどうディワイメディアパートナーズ）は、日本初の総合メディア事業会社（メディア・エージェンシー）。
@@ -37,7 +37,7 @@
   - [クローズド・ノート](../Page/クローズド・ノート.md "wikilink")
   - [県庁の星](../Page/県庁の星.md "wikilink")
   - [高校デビュー](../Page/高校デビュー.md "wikilink")
-  - [コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")
+  - [コーラス](../Page/コーラス_\(映画\).md "wikilink")
   - [告白](https://ja.wikipedia.org/wiki/告白_\(2010年の映画\) "wikilink")
   - [最終兵器彼女](../Page/最終兵器彼女.md "wikilink")
   - [シッコ](../Page/シッコ.md "wikilink")
@@ -47,7 +47,7 @@
   - [博士の愛した数式](../Page/博士の愛した数式.md "wikilink")
   - [春の雪](../Page/春の雪_\(映画\).md "wikilink")
   - [ピーナッツ](../Page/ピーナッツ_\(映画\).md "wikilink")
-  - [ビューティフル・デイズ](https://ja.wikipedia.org/wiki/ビューティフル・デイズ "wikilink")
+  - [ビューティフル・デイズ](https://ja.wikipedia.org/wiki/ビューティフル・デイズ_\(映画\) "wikilink")
   - [ヴェラ・ドレイク](../Page/ヴェラ・ドレイク.md "wikilink")
   - [武士の一分](../Page/武士の一分.md "wikilink")
   - [不都合な真実](../Page/不都合な真実.md "wikilink")

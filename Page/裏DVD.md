@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[裏DVD](https://ja.wikipedia.org/wiki/裏DVD)から翻訳されています。
 
 
 **裏DVD**（うらディーブイディー）とは、[裏ビデオ](../Page/裏ビデオ.md "wikilink")同様、主として[性器](../Page/性器.md "wikilink")部分に修正（[モザイク処理](../Page/モザイク処理.md "wikilink")など）を加えず[性交を収録している](https://ja.wikipedia.org/wiki/性行為 "wikilink")[ポルノ](https://ja.wikipedia.org/wiki/ポルノ "wikilink")映像作品（[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")）である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては、[わいせつ物頒布罪](https://ja.wikipedia.org/wiki/わいせつ物頒布罪 "wikilink")に該当するため、流通・販売が「表」では出来ず「裏」で行われるためこう呼ばれる。過去の裏ビデオ作品のDVD化や、海賊版とされる裏DVDとは別に、海外向けに製作された日本人女優の出演する無修正アダルト作品（[ジャポルノ](../Page/ジャポルノ.md "wikilink")）もある。

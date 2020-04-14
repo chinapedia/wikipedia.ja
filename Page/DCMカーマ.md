@@ -1,4 +1,4 @@
-> この記事は[DCM](https://ja.wikipedia.org/wiki/DCM)から翻訳されています。
+> この記事は[DCMカーマ](https://ja.wikipedia.org/wiki/DCMカーマ)から翻訳されています。
 
 
 **DCMカーマ株式会社**（ディーシーエムカーマ）は、[中部地方](../Page/中部地方.md "wikilink")（[東海](../Page/東海地方.md "wikilink")・[北陸](../Page/北陸地方.md "wikilink")）を地盤とする、[DCMグループ](https://ja.wikipedia.org/wiki/DCMグループ "wikilink")の[ホームセンター](../Page/ホームセンター.md "wikilink")[チェーンである](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")。

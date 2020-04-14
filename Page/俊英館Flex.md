@@ -1,4 +1,4 @@
-> この記事は[Flex](https://ja.wikipedia.org/wiki/Flex)から翻訳されています。
+> この記事は[俊英館Flex](https://ja.wikipedia.org/wiki/俊英館Flex)から翻訳されています。
 
 
 **進学塾・学習塾俊英館Flex**（しゅんえいかんフレックス）は、株式会社俊英館が[埼玉](../Page/埼玉県.md "wikilink")、[東京](../Page/東京都.md "wikilink")、[千葉](../Page/千葉県.md "wikilink")、[群馬で](https://ja.wikipedia.org/wiki/群馬県 "wikilink")52校舎（2007年8月現在）展開している[学習塾](../Page/学習塾.md "wikilink")（[小学部](https://ja.wikipedia.org/wiki/小学部 "wikilink")・[中学部](https://ja.wikipedia.org/wiki/中学部 "wikilink")中心）。本社は[東京都](../Page/東京都.md "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")にある「セガミビル」。元々、[埼玉県](../Page/埼玉県.md "wikilink")[入間市](../Page/入間市.md "wikilink")で始まった会社なので、同市のローカルFM局でラジオ番組も放送されていたが、現在は終了している。

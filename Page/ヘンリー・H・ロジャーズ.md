@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ヘンリー・H・ロジャーズ](https://ja.wikipedia.org/wiki/ヘンリー・H・ロジャーズ)から翻訳されています。
 
 
 **ヘンリー・ハットルストン・ロジャーズ**（[英語](../Page/英語.md "wikilink")：Henry Huttleston Rogers、[1840年](../Page/1840年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") - [1909年](../Page/1909年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の資本家、企業家、財界人および慈善家。彼は、[ジョン・ロックフェラー](../Page/ジョン・ロックフェラー.md "wikilink")の[スタンダード・オイル](../Page/スタンダード・オイル.md "wikilink")・トラストでの重要人物の一人であった。彼はその後[バージニアン鉄道](https://ja.wikipedia.org/wiki/バージニアン鉄道 "wikilink")を設立した。その一方スタンダード・オイルでの関係者、はを設立した。両方の鉄道は、今日のアメリカ合衆国の鉄道ネットワークの一部を形成した。

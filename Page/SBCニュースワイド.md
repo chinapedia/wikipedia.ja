@@ -1,4 +1,4 @@
-> この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
+> この記事は[SBCニュースワイド](https://ja.wikipedia.org/wiki/SBCニュースワイド)から翻訳されています。
 
 
 『**SBCニュースワイド**』（エスビーシー ニュースワイド）は、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で月曜 - 金曜に放送されている夕方の[報道番組](../Page/報道番組.md "wikilink")である。

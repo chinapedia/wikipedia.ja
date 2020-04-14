@@ -1,4 +1,4 @@
-> この記事は[WAR \(\)](https://ja.wikipedia.org/wiki/WAR_\(\))から翻訳されています。
+> この記事は[WAR \(プロレス\)](https://ja.wikipedia.org/wiki/WAR_\(プロレス\))から翻訳されています。
 
 
 **WAR**（ダブリュー・エー・アール）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。設立当初は「*Wrestle and Romance*（レッスル・アンド・ロマンス）」の略とされていたが後に「*Wrestle Association R*（レッスル・アソシエーション・アール）」に変更された。

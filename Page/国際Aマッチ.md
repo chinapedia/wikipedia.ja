@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[国際Aマッチ](https://ja.wikipedia.org/wiki/国際Aマッチ)から翻訳されています。
 
 
 **国際Aマッチ**（こくさいAマッチ、International "A" Match）とは、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の**A[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")（年齢制限のない代表チーム）同士**の国際公式試合のこと。対戦国のどちらかがAナショナルチームではない場合は国際Aマッチとならない。また、対戦国のどちらかが[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")(FIFA)に未加盟だった場合も、国際Aマッチとして認可されない（FIFAには記録も残らない）。サッカー以外では[ハンドボール](../Page/ハンドボール.md "wikilink")や[フィールドホッケー](../Page/フィールドホッケー.md "wikilink")でもこう表現する場合もある。なお、[FIFAランキング](../Page/FIFAランキング.md "wikilink")は男女とも国際Aマッチの結果のみで計算される。

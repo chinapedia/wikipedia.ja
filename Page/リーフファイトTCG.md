@@ -1,4 +1,4 @@
-> この記事は[TCG](https://ja.wikipedia.org/wiki/TCG)から翻訳されています。
+> この記事は[リーフファイトTCG](https://ja.wikipedia.org/wiki/リーフファイトTCG)から翻訳されています。
 
 
 **リーフファイトTCG**（**LFTCG**と略すことも）は[Leaf](../Page/Leaf.md "wikilink")ブランド発売のファンディスク「[初音のないしょ\!\!](https://ja.wikipedia.org/wiki/初音のないしょ!! "wikilink")」内のゲーム「リーフファイト97」を元に[ティーアイ東京](https://ja.wikipedia.org/wiki/ティーアイ東京 "wikilink")が1999年に発売した[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")(TCG)である。バージョン4.00以降は[イマ・エンターテイメント](https://ja.wikipedia.org/wiki/イマ・エンターテイメント "wikilink")から発売されている。

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMシアター](https://ja.wikipedia.org/wiki/FMシアター)から翻訳されています。
 
 
 『**FMシアター**』（エフエムシアター）は、[NHK-FMで毎週土曜日](../Page/NHK-FM放送.md "wikilink")22時00分-22時50分に放送される[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。

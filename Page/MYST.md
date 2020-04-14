@@ -1,7 +1,7 @@
 > この記事は[MYST](https://ja.wikipedia.org/wiki/MYST)から翻訳されています。
 
 
-『**MYST**』（ミスト）は、アメリカのパソコン用ソフトメーカー「Cyan」が作った[パズル](../Page/パズルゲーム.md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。さまざまなプラットフォーム向けに移植されている。CGプリレンダリングで製作された静止画や動画による美麗な画面、独特の世界観と難解な謎解きが特徴。
+『**MYST**』（ミスト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発会社 [Cyan](../Page/Cyan_Worlds.md "wikilink")（サイアン）が開発した[パズル](../Page/パズルゲーム.md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。Cyanの創業者であると兄弟を中心とする7人のスタッフによって製作された\[1\]。さまざまなプラットフォーム向けに移植されている。CGプリレンダリングで製作された静止画や動画による美麗な画面、独特の世界観と難解な謎解きが特徴。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 シリーズ第1作で、後に多くの続編が製作された。最初は1993年に[Macintosh](../Page/Macintosh.md "wikilink")向けゲームとして[HyperCard](../Page/HyperCard.md "wikilink")で製作され、その後[Windowsなどに移植された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。プリレンダリングされた3D画像を[スライドショー](../Page/スライドショー.md "wikilink")式に表示することで、当時のPCの性能で美しい三次元空間を演出することに成功していた。また止め絵を表示するだけでなく、ギミックのある箇所は[QuickTime](../Page/QuickTime.md "wikilink")によって動画を表示することで、リアルさを増していた。加えて、ゲームのコンセプトも斬新であり、日本も含め世界中で大ヒットを記録した。
 
-日本ではMac版、Windows版の他、1994年家庭用ゲーム機[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして[サン電子](../Page/サン電子.md "wikilink")から発売される。また、1995年には[3DO](../Page/3DO.md "wikilink")版、[PlayStation版も発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2006年には[PlayStation Portable版が](../Page/PlayStation_Portable.md "wikilink")、2009年5月には[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") / [iPod touch版](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（英語版）が、同年9月にその日本語版が発売された。また、PlayStation版は[2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
+日本では1994年にインタープログからMacintosh用とWindows用の各日本語版が発売され\[2\]、[サン電子](../Page/サン電子.md "wikilink")からは家庭用ゲーム機[セガサターン](../Page/セガサターン.md "wikilink")用ソフトとして発売された。また、1995年には[3DO](../Page/3DO.md "wikilink")版、[PlayStation版も発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2006年には[PlayStation Portable版が](../Page/PlayStation_Portable.md "wikilink")、2009年5月には[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") / [iPod touch版](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")（英語版）が、同年9月にその日本語版が発売された。また、PlayStation版は[2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
 
 セガサターン版では、最初の「ミスト島・発電室」に入ると動作が停止し、画面いっぱいにプログラム文が表示されるという不具合があった。これは初期に出荷された機種のみに発生する。
 
@@ -79,9 +79,16 @@
 
 「[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")」の制作者の[堀井雄二](../Page/堀井雄二.md "wikilink")、[山名学](../Page/山名学.md "wikilink")が本作に熱中したため、[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")ソフト『[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")』の冒頭は戦闘が無く、謎解きがメインとなった。
 
+## 出典
+
+<references />
+
 ## 外部リンク
 
   - [Cyan Worlds](http://www.cyanworlds.com/)
   - [ゲームアーカイブス版 紹介サイト](http://www.jp.playstation.com/software/title/jp0202npjj00628_000000000000000001.html)
 
 [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:3Dアドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:3Dアドベンチャーゲーム "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink") [Category:ブローダーバンドのゲームソフト](https://ja.wikipedia.org/wiki/Category:ブローダーバンドのゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink")
+
+1.
+2.

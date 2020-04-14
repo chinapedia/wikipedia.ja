@@ -1,4 +1,4 @@
-> この記事は[W-inds.](https://ja.wikipedia.org/wiki/W-inds.)から翻訳されています。
+> この記事は[W-inds.のウィンディストリート](https://ja.wikipedia.org/wiki/W-inds.のウィンディストリート)から翻訳されています。
 
 
 **w-inds.のウィンディストリート**は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の3人。普段聞くことのない素顔のトークを繰り広げる。[2001年](../Page/2001年.md "wikilink")（平成13年）[10月1日](../Page/10月1日.md "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[10月5日](../Page/10月5日.md "wikilink")放送終了。なお本来は[9月25日](../Page/9月25日.md "wikilink")終了予定だったが、ナイター中継延長による[放送休止](../Page/放送休止.md "wikilink")のため、この日に変更となった。

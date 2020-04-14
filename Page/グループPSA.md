@@ -1,4 +1,4 @@
-> この記事は[PSA](https://ja.wikipedia.org/wiki/PSA)から翻訳されています。
+> この記事は[グループPSA](https://ja.wikipedia.org/wiki/グループPSA)から翻訳されています。
 
 
 **グループPSA**（*Groupe PSA*、旧社名**PSA・プジョーシトロエン**、*PSA Peugeot Citroën*）は、[プジョー](../Page/プジョー.md "wikilink")、[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")、[DS](https://ja.wikipedia.org/wiki/DSオートモビルズ "wikilink")、[オペル](../Page/オペル.md "wikilink")、[ボクスホール](../Page/ボクスホール.md "wikilink")ブランドで自動車の製造・販売を行っている[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[多国籍企業](../Page/多国籍企業.md "wikilink")。社名の**PSA**は「プジョー株式会社（Peugeot Société Anonyme）」の頭文字である。

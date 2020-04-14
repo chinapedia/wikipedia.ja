@@ -1,4 +1,4 @@
-> この記事は[VFR](https://ja.wikipedia.org/wiki/VFR)から翻訳されています。
+> この記事は[ホンダ・VFR](https://ja.wikipedia.org/wiki/ホンダ・VFR)から翻訳されています。
 
 
 **VFR**（ブイエフアール）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売する[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ商標である。

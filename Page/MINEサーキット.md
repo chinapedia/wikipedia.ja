@@ -1,4 +1,4 @@
-> この記事は[MINE](https://ja.wikipedia.org/wiki/MINE)から翻訳されています。
+> この記事は[MINEサーキット](https://ja.wikipedia.org/wiki/MINEサーキット)から翻訳されています。
 
 
 **MINEサーキット**（みねサーキット）は、[山口県](../Page/山口県.md "wikilink")[美祢市](../Page/美祢市.md "wikilink")にかつて存在していた自動車レース場（[サーキット](../Page/サーキット.md "wikilink")）。[1972年](../Page/1972年.md "wikilink")（昭和47年）11月に開業し、数回の拡張を経て全日本クラスのレースが開催されるまでになったが、[2006年](../Page/2006年.md "wikilink")（平成18年）[2月28日](../Page/2月28日.md "wikilink")に閉鎖。その後はマツダの美祢自動車試験場となった。

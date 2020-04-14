@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ドラゴンクエストI・II](https://ja.wikipedia.org/wiki/ドラゴンクエストI・II)から翻訳されています。
 
 
 『**ドラゴンクエストI・II**』（ドラゴンクエストワンツー）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）より発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[RPG](../Page/コンピュータRPG.md "wikilink")。

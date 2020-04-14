@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[R・リー・アーメイ](https://ja.wikipedia.org/wiki/R・リー・アーメイ)から翻訳されています。
 
 
 **ロナルド・リー・アーメイ**（**Ronald Lee Ermey**, [1944年](../Page/1944年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")\[1\]）は、[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")の[軍人](../Page/軍人.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。ニックネームは「ガニー（Gunny）」（[Gunnery Sergeant](https://ja.wikipedia.org/wiki/w:Gunnery_Sergeant "wikilink")：一等軍曹の略称\[2\]）海兵隊時代には教練指導官も務めた。身長は180cm\[3\]

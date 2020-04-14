@@ -1,4 +1,4 @@
-> この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
+> この記事は[GSフォーマット](https://ja.wikipedia.org/wiki/GSフォーマット)から翻訳されています。
 
 
 **GSフォーマット**（ジーエスフォーマット）は、[ローランド](../Page/ローランド.md "wikilink")社の[MIDI](../Page/MIDI.md "wikilink")の独自規格である。

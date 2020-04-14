@@ -1,4 +1,4 @@
-> この記事は[TAKERU](https://ja.wikipedia.org/wiki/TAKERU)から翻訳されています。
+> この記事は[ソフトベンダーTAKERU](https://ja.wikipedia.org/wiki/ソフトベンダーTAKERU)から翻訳されています。
 
 
 [200pxに展示されている](https://ja.wikipedia.org/wiki/ファイル:Brother-TAKERU.jpg "wikilink")3代目TAKERU\]\] **ソフトベンダーTAKERU**（ソフトベンダー・タケル）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に日本の[ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")の安友雄一が中心となって開発した、世界初の[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[ソフトの](../Page/ソフトウェア.md "wikilink")[自動販売機](../Page/自動販売機.md "wikilink")。媒体はフロッピーディスク。1997年まで稼働していた。

@@ -1,4 +1,4 @@
-> この記事は[THE WORLD \(\)](https://ja.wikipedia.org/wiki/THE_WORLD_\(\))から翻訳されています。
+> この記事は[THE WORLD \(漫画\)](https://ja.wikipedia.org/wiki/THE_WORLD_\(漫画\))から翻訳されています。
 
 
 『**THE WORLD**』（ザ ワールド）は[獸木野生](../Page/獸木野生.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。「[Chara](../Page/Chara_\(雑誌\).md "wikilink")」（[徳間書店](../Page/徳間書店.md "wikilink")）にて1999年より掲載開始。

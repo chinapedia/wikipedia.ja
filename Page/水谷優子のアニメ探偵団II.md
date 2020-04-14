@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[水谷優子のアニメ探偵団II](https://ja.wikipedia.org/wiki/水谷優子のアニメ探偵団II)から翻訳されています。
 
 
 **水谷優子のアニメ探偵団II**\[1\]（みずたにゆうこのアニメたんていだんツー）は[声優](../Page/声優.md "wikilink")の[水谷優子](../Page/水谷優子.md "wikilink")が[DJを務めたラジオ番組](../Page/ディスクジョッキー.md "wikilink")。通称・略称は「アニ探」、「アニ探2」。

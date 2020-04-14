@@ -1,4 +1,4 @@
-> この記事は[ THE MOVIE ](https://ja.wikipedia.org/wiki/_THE_MOVIE_)から翻訳されています。
+> この記事は[特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー_THE_MOVIE_フルブラスト・アクション)から翻訳されています。
 
 
 『**特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション**』（とくそうせんたいデカレンジャー ザ ムービー フルブラスト・アクション）は、[2004年](../Page/2004年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダー剣 MISSING ACE](../Page/劇場版_仮面ライダー剣_MISSING_ACE.md "wikilink")』。
@@ -144,12 +144,12 @@
 ### スーツアクター
 
   - デカレッド\[15\]、デカベースロボ\[16\] - [福沢博文](../Page/福沢博文.md "wikilink")
-  - [今井靖彦](../Page/今井靖彦.md "wikilink")
-  - [三村幸司](../Page/三村幸司.md "wikilink")
-  - [橋本恵子](../Page/橋本恵子.md "wikilink")
-  - [小島美穂](../Page/小島美穂.md "wikilink")
-  - [日下秀昭](../Page/日下秀昭.md "wikilink")
-  - デカブレイク\[17\] - [大岩永徳](../Page/永徳_\(俳優\).md "wikilink")
+  - デカブルー\[17\] - [今井靖彦](../Page/今井靖彦.md "wikilink")
+  - デカグリーン\[18\] - [三村幸司](../Page/三村幸司.md "wikilink")
+  - デカイエロー\[19\] - [橋本恵子](../Page/橋本恵子.md "wikilink")
+  - デカピンク\[20\] - [小島美穂](../Page/小島美穂.md "wikilink")
+  - ドギー・クルーガー、デカマスター、デカレンジャーロボ\[21\] - [日下秀昭](../Page/日下秀昭.md "wikilink")
+  - デカブレイク\[22\] - [大岩永徳](../Page/永徳_\(俳優\).md "wikilink")
   - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
   - [大林勝](../Page/大林勝.md "wikilink")
   - [竹内康博](../Page/竹内康博.md "wikilink")
@@ -159,9 +159,8 @@
   - [中村博亮](https://ja.wikipedia.org/wiki/中村博亮 "wikilink")
   - [矢部敬三](https://ja.wikipedia.org/wiki/矢部敬三 "wikilink")
 
-以下ノンクレジット
+以下ノンクレジット\[23\]
 
-  - [岡本美登](../Page/岡本美登.md "wikilink")
   - [大藤直樹](../Page/大藤直樹.md "wikilink")
   - [佐藤賢一](../Page/佐藤賢一_\(俳優\).md "wikilink")
   - [坂手透浩](https://ja.wikipedia.org/wiki/坂手透浩 "wikilink")
@@ -322,3 +321,9 @@
 15.
 16.
 17.
+18.
+19.
+20.
+21.
+22.
+23.

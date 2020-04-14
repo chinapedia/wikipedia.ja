@@ -1,4 +1,4 @@
-> この記事は[PSYS](https://ja.wikipedia.org/wiki/PSYS)から翻訳されています。
+> この記事は[PSY・S](https://ja.wikipedia.org/wiki/PSY・S)から翻訳されています。
 
 
 **PSY･S**（サイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ニュー・ウェイヴ系の](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")[音楽](../Page/音楽.md "wikilink")ユニットである。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にデビュー。[1996年](../Page/1996年.md "wikilink")8月1日に解散した。[1980年代](../Page/1980年代.md "wikilink")後半の活動当初から、当時最先端の[電子楽器](../Page/電子楽器.md "wikilink")である[フェアライトCMI](../Page/フェアライトCMI.md "wikilink")を駆使し、[1990年代](../Page/1990年代.md "wikilink")の[J-POP](../Page/J-POP.md "wikilink")を先取りしたような、先進的な[ポピュラー音楽](../Page/ポピュラー音楽.md "wikilink")を展開していた。

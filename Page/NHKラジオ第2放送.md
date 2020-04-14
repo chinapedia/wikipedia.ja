@@ -1,4 +1,4 @@
-> この記事は[NHK2](https://ja.wikipedia.org/wiki/NHK2)から翻訳されています。
+> この記事は[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送)から翻訳されています。
 
 
 **NHKラジオ第2放送**（エヌエイチケイラジオだいにほうそう）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）による[地上基幹放送の一種別の](https://ja.wikipedia.org/wiki/基幹放送 "wikilink")[中波放送](../Page/中波放送.md "wikilink")（AM放送）で[国内放送](https://ja.wikipedia.org/wiki/国内放送 "wikilink")でもある。
@@ -571,9 +571,9 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 <!-- end list -->
 
   - [社会福祉セミナー](https://ja.wikipedia.org/wiki/社会福祉セミナー "wikilink")（土曜 18:30 - 18:55、日曜 12:30 - 12:55）
-  - [視覚障害者のみなさんへ](../Page/視覚障害者のみなさんへ.md "wikilink")（日曜 19:30 - 20:00、再放送：翌週日曜 7:30 - 8:00）
+  - \[\[視覚障害者のみなさんへ
 
-<!-- end list -->
+\]\]（日曜 19:30 - 20:00、再放送：翌週日曜 7:30 - 8:00）
 
   -
 
@@ -727,7 +727,6 @@ NHKのラジオ放送は[1925年](../Page/1925年.md "wikilink")3月に開始さ
 
 ## 関連項目
 
-  - [NHKラジオ番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ番組一覧 "wikilink")
   - [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")
   - [NHK-FM放送](../Page/NHK-FM放送.md "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[FNNDATE LINE](https://ja.wikipedia.org/wiki/FNNDATE_LINE)から翻訳されています。
+> この記事は[FNN東海テレビDATE LINE](https://ja.wikipedia.org/wiki/FNN東海テレビDATE_LINE)から翻訳されています。
 
 
 『**FNN東海テレビDATE LINE**』（エフエヌエヌとうかいテレビデイトライン）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[東海テレビで放送された深夜の](../Page/東海テレビ放送.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")（『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』の東海テレビタイトル差し替え、協力：[中日新聞](../Page/中日新聞.md "wikilink")）。

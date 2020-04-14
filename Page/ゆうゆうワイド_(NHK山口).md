@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[ゆうゆうワイド \(NHK山口\)](https://ja.wikipedia.org/wiki/ゆうゆうワイド_\(NHK山口\))から翻訳されています。
 
 
 『**ゆうゆうワイド**』は、[NHK山口放送局](../Page/NHK山口放送局.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた夕方の[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。

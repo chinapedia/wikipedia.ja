@@ -152,7 +152,7 @@
 </tr>
 <tr class="even">
 <td><p>日本全国</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送" title="wikilink">BSデジタル放送</a></p></td>
 <td><p>土曜 24:00 - 24:30<br />
 日曜 16:30 - 17:00（再放送）</p></td>

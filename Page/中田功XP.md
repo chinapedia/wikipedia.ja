@@ -1,4 +1,4 @@
-> この記事は[XP](https://ja.wikipedia.org/wiki/XP)から翻訳されています。
+> この記事は[中田功XP](https://ja.wikipedia.org/wiki/中田功XP)から翻訳されています。
 
 
 **中田功XP**（なかたいさおエックスピー）は、[将棋](../Page/将棋.md "wikilink")の[三間飛車](../Page/三間飛車.md "wikilink")戦法。[居飛車穴熊](../Page/居飛車穴熊.md "wikilink")対策の戦法。**コーヤン流**と称されることもある（後述）。

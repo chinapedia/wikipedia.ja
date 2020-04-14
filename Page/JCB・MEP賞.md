@@ -1,4 +1,4 @@
-> この記事は[JCBMEP](https://ja.wikipedia.org/wiki/JCBMEP)から翻訳されています。
+> この記事は[JCB・MEP賞](https://ja.wikipedia.org/wiki/JCB・MEP賞)から翻訳されています。
 
 
 **JCB・MEP賞**（ジェーシービー・メップしょう）は、かつて[日本プロ野球](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")・[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")公式試合を対象に行われていた表彰制度。**MEP**とは**Most Exciting Player**の略。いわば「マン・オブ・ザ・マッチ」的な仕組みである。

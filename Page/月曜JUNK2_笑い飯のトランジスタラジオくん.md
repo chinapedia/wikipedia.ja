@@ -1,4 +1,4 @@
-> この記事は[JUNK2 ](https://ja.wikipedia.org/wiki/JUNK2_)から翻訳されています。
+> この記事は[月曜JUNK2 笑い飯のトランジスタラジオくん](https://ja.wikipedia.org/wiki/月曜JUNK2_笑い飯のトランジスタラジオくん)から翻訳されています。
 
 
 『**月曜JUNK2 笑い飯のトランジスタラジオくん**』（げつようジャンクツーわらいめしのトランジスタラジオくん）は、[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、毎週[月曜日](../Page/月曜日.md "wikilink")深夜（[火曜日](../Page/火曜日.md "wikilink")午前）3:00 - 4:00に[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")（一部除く）全国ネットで放送した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。文字通り、月曜[JUNK2](../Page/JUNK2.md "wikilink")枠で放送された。

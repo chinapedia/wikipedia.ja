@@ -1,4 +1,4 @@
-> この記事は[ZAQ \(\)](https://ja.wikipedia.org/wiki/ZAQ_\(\))から翻訳されています。
+> この記事は[ZAQ \(インターネット接続サービス\)](https://ja.wikipedia.org/wiki/ZAQ_\(インターネット接続サービス\))から翻訳されています。
 
 
 **ZAQ**（ザック）は、[ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")が展開する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")インターネット接続サービスのブランド名。「ZAQ」は「**Z**one **A**ccess & **Q**uality」の略だが、[2013年](../Page/2013年.md "wikilink")現在は「ずっと、安心のクオリティ」（**Z**utto、**A**nshin、**Q**uality）のキャッチコピーを使用している。

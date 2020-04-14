@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS京都エキサイティングナイター](https://ja.wikipedia.org/wiki/KBS京都エキサイティングナイター)から翻訳されています。
 
 
 『**KBS京都エキサイティングナイター**』（ケービーエスきょうと エキサイティングナイター）は、[京都放送](../Page/京都放送.md "wikilink")（KBSラジオ）で放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")である。

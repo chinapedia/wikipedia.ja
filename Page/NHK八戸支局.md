@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK八戸支局](https://ja.wikipedia.org/wiki/NHK八戸支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nhk-hachinohe.jpg "wikilink") **NHK八戸支局**（エヌエイチケイはちのへしきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")にある[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")の支局のひとつ。

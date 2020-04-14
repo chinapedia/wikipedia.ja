@@ -1,4 +1,4 @@
-> この記事は[ SAY TO ME!](https://ja.wikipedia.org/wiki/_SAY_TO_ME!)から翻訳されています。
+> この記事は[石原さとみ SAY TO ME!](https://ja.wikipedia.org/wiki/石原さとみ_SAY_TO_ME!)から翻訳されています。
 
 
 **石原さとみ SAY TO ME\!**（いしはらさとみ セイ トゥー ミー）は[2005年](../Page/2005年.md "wikilink")（平成17年）[4月9日](../Page/4月9日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[4月4日](../Page/4月4日.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")（LF）をキーステーションに放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは番組名にもあるように](../Page/ラジオパーソナリティ.md "wikilink")[女優の](../Page/俳優.md "wikilink")[石原さとみ](../Page/石原さとみ.md "wikilink")である。

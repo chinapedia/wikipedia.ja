@@ -44,7 +44,7 @@
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") 9:30 - 9:35
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 9:35 - 9:45（『[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")』(月 - 木)・『真さんのいよ\!AM-igo』(金)内）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") 10:40 - 10:45
-  - [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink") 10:48 - 10:53（『[ブギウギラジオ](../Page/ブギウギラジオ.md "wikilink")』内）
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink") 10:48 - 10:53（『[ブギウギラジオ](../Page/ブギウギラジオ.md "wikilink")』内）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 9:45 - 9:50
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") 9:01 - 9:06（『おはようラジオ』内）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 8:55 - 8:59

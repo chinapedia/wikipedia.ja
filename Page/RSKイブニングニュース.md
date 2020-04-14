@@ -1,4 +1,4 @@
-> この記事は[RSK](https://ja.wikipedia.org/wiki/RSK)から翻訳されています。
+> この記事は[RSKイブニングニュース](https://ja.wikipedia.org/wiki/RSKイブニングニュース)から翻訳されています。
 
 
 『**RSKイブニングニュース**』（アールエスケー・イブニングニュース）は、[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")（[RSKテレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）で放送されている夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
@@ -291,7 +291,8 @@
   - [イブニングDonDon](../Page/イブニングDonDon.md "wikilink")
   - [Japan News Network](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")
   - [Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")
-  - [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink") - JNN地方局が取材したニュース映像で当番組が取材したものを最も多く扱っている。
+  - [TBS NEWS](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink") - JNN地方局が取材したニュース映像で当番組が取材したものを最も多く扱っている。
+  - [JNN発 列島ニュース](https://ja.wikipedia.org/wiki/JNN発_列島ニュース "wikilink") - CS放送のTBS NEWSで放送される番組で、本番組の一部が放送される。
 
 ## 脚注
 

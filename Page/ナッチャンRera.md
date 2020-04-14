@@ -1,4 +1,4 @@
-> この記事は[Rera](https://ja.wikipedia.org/wiki/Rera)から翻訳されています。
+> この記事は[ナッチャンRera](https://ja.wikipedia.org/wiki/ナッチャンRera)から翻訳されています。
 
 
 **麗娜輪**（リーナールゥン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")籍の高速[フェリー](../Page/フェリー.md "wikilink")である。

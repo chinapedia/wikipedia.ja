@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ヒューイ・P・ニュートン](https://ja.wikipedia.org/wiki/ヒューイ・P・ニュートン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Huey_Newton_HS_Yearbook.jpeg "wikilink") **ヒューイ・パーシー・ニュートン**（Huey Percy Newton [1942年](../Page/1942年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")の指導者で、[1966年](../Page/1966年.md "wikilink")、[ボビー・シール](../Page/ボビー・シール.md "wikilink")とともに、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドにおいて](../Page/オークランド_\(カリフォルニア州\).md "wikilink")[ブラックパンサー党](../Page/ブラックパンサー党.md "wikilink")（発足当初「自己防衛のためのブラックパンサー党」）を結成した。

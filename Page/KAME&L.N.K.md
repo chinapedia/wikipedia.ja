@@ -233,7 +233,7 @@ TOCT-26808:通常盤</p></td>
 ## 外部リンク
 
   - [公式サイト](http://www.kame-lnk.com/index2.php)
-  - [公式ブログ どーも\!おつカメリン](http://ameblo.jp/kame-lnk/)
+  - [公式ブログ どーも\!おつカメリン](https://ameblo.jp/kame-lnk/)
   - [所属レコード会社　EMIミュージックジャパン](http://www.emimusic.jp/domestic/artists/kamelnk/index_j.htm)
   - [レーベルサイト](http://www.emimusic.jp/vmc/artist/domestic/kamelnk/)
 

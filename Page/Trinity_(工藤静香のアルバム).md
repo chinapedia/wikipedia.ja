@@ -1,4 +1,4 @@
-> この記事は[Trinity \(\)](https://ja.wikipedia.org/wiki/Trinity_\(\))から翻訳されています。
+> この記事は[Trinity \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Trinity_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**Trinity**』（トリニティ）は、[工藤静香](../Page/工藤静香.md "wikilink")の7枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Tattoo -](https://ja.wikipedia.org/wiki/Tattoo_-)から翻訳されています。
+> この記事は[Tattoo -刺青](https://ja.wikipedia.org/wiki/Tattoo_-刺青)から翻訳されています。
 
 
 『**Tattoo -刺青**』（タトゥー いれずみ、原題：**刺青**、英題：**Spider Lilies**）は、[周美玲](https://ja.wikipedia.org/wiki/周美玲 "wikilink")（ゼロ・チョウ）監督による[台湾映画](../Page/台湾映画.md "wikilink")。[刺青を通じて恋愛感情や友情とは何かを探る](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")[レズビアンの女性たちを描いた作品](https://ja.wikipedia.org/wiki/同性愛 "wikilink")。

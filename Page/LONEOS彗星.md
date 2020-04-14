@@ -1,7 +1,7 @@
-> この記事は[LONEOS](https://ja.wikipedia.org/wiki/LONEOS)から翻訳されています。
+> この記事は[LONEOS彗星](https://ja.wikipedia.org/wiki/LONEOS彗星)から翻訳されています。
 
 
-**LONEOS彗星**（ロニオス彗星、ロニオスすいせい）は、[ローウェル天文台](https://ja.wikipedia.org/wiki/ローウェル天文台 "wikilink")にて行われている[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、Lowell ObservatoryNear-Earth Object Search ([LONEOS](https://ja.wikipedia.org/wiki/LONEOS "wikilink")）にて発見された[彗星](../Page/彗星.md "wikilink")である。 59cm LONEOSシュミット+CCDによる自動サーベイである。　
+**LONEOS彗星**（ロニオス彗星、ロニオスすいせい）は、[ローウェル天文台](../Page/ローウェル天文台.md "wikilink")にて行われている[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、Lowell ObservatoryNear-Earth Object Search ([LONEOS](https://ja.wikipedia.org/wiki/LONEOS "wikilink")）にて発見された[彗星](../Page/彗星.md "wikilink")である。 59cm LONEOSシュミット+CCDによる自動サーベイである。　
 
 捜索の副産物として複数の彗星が発見されている。なお、CCD画像から人間が発見した彗星には個人名がクレジットされており、[スキッフ彗星](https://ja.wikipedia.org/wiki/スキッフ彗星 "wikilink")(Brian A. Skiff)の多くはこのCCD画像から発見されたものである。
 

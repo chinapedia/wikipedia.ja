@@ -1,4 +1,4 @@
-> この記事は[ \(misono\)](https://ja.wikipedia.org/wiki/_\(misono\))から翻訳されています。
+> この記事は[ポチ \(misonoの曲\)](https://ja.wikipedia.org/wiki/ポチ_\(misonoの曲\))から翻訳されています。
 
 
 「**ポチ**」は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")の6枚目のシングル。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")リリース。

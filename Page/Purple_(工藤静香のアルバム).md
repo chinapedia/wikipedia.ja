@@ -1,4 +1,4 @@
-> この記事は[Purple \(\)](https://ja.wikipedia.org/wiki/Purple_\(\))から翻訳されています。
+> この記事は[Purple \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Purple_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**Purple**』（パープル）は、[工藤静香](../Page/工藤静香.md "wikilink")の10枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月2日](../Page/8月2日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

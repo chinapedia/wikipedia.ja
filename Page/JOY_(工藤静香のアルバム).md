@@ -1,4 +1,4 @@
-> この記事は[JOY \(\)](https://ja.wikipedia.org/wiki/JOY_\(\))から翻訳されています。
+> この記事は[JOY \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/JOY_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**JOY**』（ジョイ）は、[工藤静香](../Page/工藤静香.md "wikilink")の3枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

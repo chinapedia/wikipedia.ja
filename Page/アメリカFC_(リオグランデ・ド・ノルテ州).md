@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[アメリカFC \(リオグランデ・ド・ノルテ州\)](https://ja.wikipedia.org/wiki/アメリカFC_\(リオグランデ・ド・ノルテ州\))から翻訳されています。
 
 
 **アメリカFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・ノルテ州](../Page/リオグランデ・ド・ノルテ州.md "wikilink")[ナタール](../Page/ナタール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2017年シーズンは[カンピオナート・ブラジレイロ・セリエD](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエD "wikilink")に所属。[同名クラブと区別するために](https://ja.wikipedia.org/wiki/アメリカFC "wikilink")**アメリカ・ジ・ナタール** (América de Natal) 、**アメリカ-RN** (América-RN) と表記されることも多い。

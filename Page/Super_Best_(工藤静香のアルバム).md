@@ -1,4 +1,4 @@
-> この記事は[Super Best \(\)](https://ja.wikipedia.org/wiki/Super_Best_\(\))から翻訳されています。
+> この記事は[Super Best \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Super_Best_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**Super Best**』（スーパー・ベスト）は、[工藤静香](../Page/工藤静香.md "wikilink")の6枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

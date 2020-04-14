@@ -1,4 +1,4 @@
-> この記事は[FLY ](https://ja.wikipedia.org/wiki/FLY_)から翻訳されています。
+> この記事は[FLY 航空学園グラフィティ](https://ja.wikipedia.org/wiki/FLY_航空学園グラフィティ)から翻訳されています。
 
 
 '''FLY 航空学園グラフィティ '''（フライ・こうくうがくえんグラフィティ）は、[NHK総合で](../Page/NHK総合テレビジョン.md "wikilink")[2000年](../Page/2000年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで毎週火曜日23時「[ドラマDモード](../Page/ドラマDモード.md "wikilink")」枠で放送された連続テレビドラマである。全10回。

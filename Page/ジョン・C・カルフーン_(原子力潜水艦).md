@@ -1,4 +1,4 @@
-> この記事は[C \(\)](https://ja.wikipedia.org/wiki/C_\(\))から翻訳されています。
+> この記事は[ジョン・C・カルフーン \(原子力潜水艦\)](https://ja.wikipedia.org/wiki/ジョン・C・カルフーン_\(原子力潜水艦\))から翻訳されています。
 
 
 <div class="thumb tright">

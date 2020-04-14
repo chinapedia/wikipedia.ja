@@ -1,4 +1,4 @@
-> この記事は[Best of Ballade ](https://ja.wikipedia.org/wiki/Best_of_Ballade_)から翻訳されています。
+> この記事は[Best of Ballade カレント](https://ja.wikipedia.org/wiki/Best_of_Ballade_カレント)から翻訳されています。
 
 
 『**Best of Ballade カレント**』（ベスト・オブ・バラード カレント）は、[工藤静香](../Page/工藤静香.md "wikilink")の通算8枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月18日](../Page/11月18日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

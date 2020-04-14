@@ -1,4 +1,4 @@
-> この記事は[Lightning \(\)](https://ja.wikipedia.org/wiki/Lightning_\(\))から翻訳されています。
+> この記事は[Lightning \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Lightning_\(ソフトウェア\))から翻訳されています。
 
 
 **Lightning**（ライトニング）は[Mozilla Foundationが](../Page/Mozilla_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")で開発を進めている[スケジュール管理ソフトである](../Page/Personal_Information_Manager.md "wikilink")。[Mozilla Thunderbirdおよび](../Page/Mozilla_Thunderbird.md "wikilink")[SeaMonkey](../Page/SeaMonkey.md "wikilink")用の[拡張機能でThunderbirdとの連携に重点が置かれている](../Page/拡張機能_\(Mozilla\).md "wikilink")。Mozilla Calendarプロジェクトにおいて開発が進められている。[2006年](../Page/2006年.md "wikilink")3月にバージョン 0.1 がリリースされ、[2007年](../Page/2007年.md "wikilink")2月に0.3.1がリリースされた。以後は[Mozilla Sunbirdと並行して開発が進められたが](../Page/Mozilla_Sunbird.md "wikilink")、Sunbirdが打ち切りとなり、開発リソースはLightningへの一本化が行われた。

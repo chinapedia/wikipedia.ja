@@ -1,4 +1,4 @@
-> この記事は[ Pray ](https://ja.wikipedia.org/wiki/_Pray_)から翻訳されています。
+> この記事は[絶対恐怖 Pray プレイ](https://ja.wikipedia.org/wiki/絶対恐怖_Pray_プレイ)から翻訳されています。
 
 
 『**絶対恐怖 Pray プレイ**』（ぜったいきょうふ プレイ）は、[2005年に公開された](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。若手クリエイターと若手俳優のコラボレーションによる[ホラー映画](../Page/ホラー映画.md "wikilink")シリーズ第1弾。『[絶対恐怖 Booth ブース](../Page/絶対恐怖_Booth_ブース.md "wikilink")』との連作となっている。単独での映画名は『**Pray プレイ**』（プレイ）。

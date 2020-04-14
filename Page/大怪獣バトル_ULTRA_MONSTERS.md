@@ -1,4 +1,4 @@
-> この記事は[ ULTRA MONSTERS](https://ja.wikipedia.org/wiki/_ULTRA_MONSTERS)から翻訳されています。
+> この記事は[大怪獣バトル ULTRA MONSTERS](https://ja.wikipedia.org/wiki/大怪獣バトル_ULTRA_MONSTERS)から翻訳されています。
 
 
 『**大怪獣バトル ULTRA MONSTERS**』（だいかいじゅうバトル ウルトラモンスターズ）は、カードを読み込ませて戦う[データカードダス](../Page/データカードダス.md "wikilink")の一つで、[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")に登場する怪獣を主な題材としている。2007年4月27日より稼動が開始し、2011年2月17日稼動の『大怪獣バトルRR』第6弾を以って稼動終了となった。

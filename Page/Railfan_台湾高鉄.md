@@ -1,4 +1,4 @@
-> この記事は[Railfan ](https://ja.wikipedia.org/wiki/Railfan_)から翻訳されています。
+> この記事は[Railfan 台湾高鉄](https://ja.wikipedia.org/wiki/Railfan_台湾高鉄)から翻訳されています。
 
 
 **Railfan 台湾高鉄**（レールファン・たいわんこうてつ。中文表記：Railfan 台灣高鐵）は、[Railfan](../Page/Railfan.md "wikilink")の続編で[台湾高速鉄道](https://ja.wikipedia.org/wiki/台湾高速鉄道 "wikilink")の[700T型を運転できるゲームソフト](../Page/台湾高速鉄道700T型電車.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で先行発売された。日本では[2007年](../Page/2007年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")発売。 300km/hの高速運転を[ハイビジョン](../Page/ハイビジョン.md "wikilink")で体験できる。

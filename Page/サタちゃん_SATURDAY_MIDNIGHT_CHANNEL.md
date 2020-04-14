@@ -1,4 +1,4 @@
-> この記事は[ SATURDAY MIDNIGHT CHANNEL](https://ja.wikipedia.org/wiki/_SATURDAY_MIDNIGHT_CHANNEL)から翻訳されています。
+> この記事は[サタちゃん SATURDAY MIDNIGHT CHANNEL](https://ja.wikipedia.org/wiki/サタちゃん_SATURDAY_MIDNIGHT_CHANNEL)から翻訳されています。
 
 
 『**サタちゃん SATURDAY MIDNIGHT CHANNEL**』（サタちゃん サタデー ミッドナイト チャンネル）は、[2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")から同年[9月22日](../Page/9月22日.md "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[DO\!深夜](../Page/DO!深夜.md "wikilink")』内で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。通称「**サタちゃん**」「**Sat Mid Ch**」など。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 26:15 - 26:45。

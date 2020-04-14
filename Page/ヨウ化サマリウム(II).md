@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[ヨウ化サマリウム\(II\)](https://ja.wikipedia.org/wiki/ヨウ化サマリウム\(II\))から翻訳されています。
 
 
 **ヨウ化サマリウム(II)** (samarium(II) iodide) とは、[サマリウム](../Page/サマリウム.md "wikilink")と[ヨウ素](https://ja.wikipedia.org/wiki/ヨウ素 "wikilink")から成る[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")で、融点 520 ℃ の緑色の固体。組成式は SmI<sub>2</sub>。有機合成において一電子還元剤として、カルボニル化合物からケチル錯体を経る炭素-炭素結合生成反応などに用いられる\[1\]\[2\]\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[ door to phantomile](https://ja.wikipedia.org/wiki/_door_to_phantomile)から翻訳されています。
+> この記事は[風のクロノア door to phantomile](https://ja.wikipedia.org/wiki/風のクロノア_door_to_phantomile)から翻訳されています。
 
 
 『**風のクロノア door to phantomile**』（かぜのクロノア ドア トゥ ファントマイル、欧米版タイトル：*Klonoa: Door to Phantomile*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")にナムコ（のち[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）より発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売の[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ナムコレクション](../Page/ナムコレクション.md "wikilink")』に収録されたほか、[2011年](../Page/2011年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKのアナウンサー一覧](https://ja.wikipedia.org/wiki/NHKのアナウンサー一覧)から翻訳されています。
 
 
 **NHKのアナウンサー一覧**（NHKのアナウンサーいちらん）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）に所属する[アナウンサーの一覧を示すとともに](../Page/日本のアナウンサー.md "wikilink")、単独記事にならないアナウンサーについても詳細に説明する。
@@ -7,7 +7,7 @@
 
 NHKには全国の放送局に約500名のアナウンサーが所属しており、アナウンス業務のほか、番組の取材や企画・番組制作なども行う。
 
-入局したアナウンサーは東京（[NHK放送センター](../Page/NHK放送センター.md "wikilink")）での研修を経て、各地の放送局へ配属される\[1\]。その後、2年から5年経過すると最初の転勤を経験することになる。\[2\]
+入局したアナウンサーは東京（[NHK放送センター](../Page/NHK放送センター.md "wikilink")）での研修を経て、各地の放送局へ配属される。その後、2年から5年経過すると最初の転勤を経験することになる。
 
 各放送局に配属されるアナウンサーのほか、[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink")所属、外郭団体である[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")および[NHKグローバルメディアサービス](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink")（G-Media）に出向しているアナウンサーもいる。ラジオセンター所属者は原則ラジオのみの担当であり、テレビでは一部の者がナレーションに関わっているのみ。日本語センター出向者は本来の業務であるアナウンス教室・話し方教室の講師のほか、NHK放送センター（東京アナウンス室）配属に準じて全国放送の番組を担当する。またG-Media出向者は同社が制作（または制作協力）するスポーツ中継の実況を中心に担当する。また、日本語センターには第一線を退いた専属アナウンサーがおり、アナウンス講座の講師や東京アナウンス室の業務補完（ラジオニュースその他）などに従事している。
 
@@ -33,14 +33,13 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [市川泰](https://ja.wikipedia.org/wiki/市川泰 "wikilink")（いちかわ・やすし）嘱託
   - [福井慎二](../Page/福井慎二.md "wikilink")（ふくい・しんじ） 嘱託
-  - [久保田茂](../Page/久保田茂.md "wikilink")（くぼた・つとむ）CA
   - [白崎義彦](../Page/白崎義彦.md "wikilink")（しらさき・よしひこ）CA
   - [古谷敏郎](../Page/古谷敏郎.md "wikilink")（ふるや・としろう）CA
   - [野村優夫](../Page/野村優夫.md "wikilink")（のむら・まさお）
   - [八尋隆蔵](https://ja.wikipedia.org/wiki/八尋隆蔵 "wikilink")（やひろ・りゅうぞう）CA
   - [堀伸浩](../Page/堀伸浩.md "wikilink")（ほり・のぶひろ）CA
   - [星野圭介](https://ja.wikipedia.org/wiki/星野圭介 "wikilink")（ほしの・けいすけ）
-  - [関根太朗](../Page/関根太朗.md "wikilink")（せきね・たろう）
+  - [赤松俊理](../Page/赤松俊理.md "wikilink")（あかまつ・しゅんり）
   - [横山哲也](https://ja.wikipedia.org/wiki/横山哲也 "wikilink")（よこやま・てつや）
   - [芳川隆一](../Page/芳川隆一.md "wikilink")（よしかわ・りゅういち）
   - [瀬田宙大](https://ja.wikipedia.org/wiki/瀬田宙大 "wikilink")（せた・ちゅうだい）
@@ -50,7 +49,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 #### 女性
 
-  - [浅野里香](https://ja.wikipedia.org/wiki/浅野里香 "wikilink")（あさの・りか）
   - [堀菜保子](https://ja.wikipedia.org/wiki/堀菜保子 "wikilink")（ほり・なほこ）
 
 ### 函館放送局放送部
@@ -67,8 +65,8 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 ### 釧路放送局放送部
 
-  - [鈴木貴彦](https://ja.wikipedia.org/wiki/鈴木貴彦_\(アナウンサー\) "wikilink")（すずき・たかひこ）
-  - [小山凌](https://ja.wikipedia.org/wiki/小山凌_\(アナウンサー\) "wikilink")（こやま・りょう）
+  - [鈴木貴彦](../Page/鈴木貴彦_\(アナウンサー\).md "wikilink")（すずき・たかひこ）
+  - [小山凌](../Page/小山凌_\(アナウンサー\).md "wikilink")（こやま・りょう）
 
 ### 北見放送局放送部
 
@@ -97,13 +95,13 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [金城均](https://ja.wikipedia.org/wiki/金城均 "wikilink")（かねしろ・ひとし）
   - [池野健](https://ja.wikipedia.org/wiki/池野健 "wikilink")（いけの・たけし）
   - [勝呂恭佑](https://ja.wikipedia.org/wiki/勝呂恭佑 "wikilink")（かつろ・きょうすけ）
+  - [手嶌真吾](https://ja.wikipedia.org/wiki/手嶌真吾_\(アナウンサー\) "wikilink")（てしま・しんご）
   - [高木優吾](https://ja.wikipedia.org/wiki/高木優吾 "wikilink")（たかぎ・ゆうご）
 
 #### 女性
 
   - [大沼ひろみ](../Page/大沼ひろみ.md "wikilink")（おおぬま・ひろみ） CA
-  - [石井かおる](../Page/石井かおる.md "wikilink")（いしい・かおる）CA
-  - [森下絵理香](https://ja.wikipedia.org/wiki/森下絵理香 "wikilink")（もりした・えりか）
+  - [森田茉里恵](https://ja.wikipedia.org/wiki/森田茉里恵 "wikilink")（もりた・まりえ）
 
 ### 秋田放送局放送部
 
@@ -120,15 +118,15 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [柴田徹](../Page/柴田徹_\(アナウンサー\).md "wikilink")（しばた・とおる）CA
   - [羽隅将一](https://ja.wikipedia.org/wiki/羽隅将一 "wikilink")（はすみ・しょういち）CA
   - [大沢幸広](https://ja.wikipedia.org/wiki/大沢幸広 "wikilink")（おおさわ・ゆきひろ）
-  - [中原真吾](https://ja.wikipedia.org/wiki/中原真吾 "wikilink")（なかはら・しんご）
+  - [金子峻](https://ja.wikipedia.org/wiki/金子峻 "wikilink")（かねこ・しゅん）
   - [野口葵衣](https://ja.wikipedia.org/wiki/野口葵衣 "wikilink")（のぐち・あおい）
 
 ### 盛岡放送局放送部
 
   - [佐藤龍文](../Page/佐藤龍文.md "wikilink")（さとう・りゅうぶん）副部長
   - [三好正人](../Page/三好正人.md "wikilink")（みよし・まさと）
+  - [大嶋貴志](https://ja.wikipedia.org/wiki/大嶋貴志 "wikilink")（おおしま・たかし）
   - [児林大介](https://ja.wikipedia.org/wiki/児林大介 "wikilink")（こばやし・だいすけ）
-  - [手嶌真吾](https://ja.wikipedia.org/wiki/手嶌真吾_\(アナウンサー\) "wikilink")（てしま・しんご）
   - [佐々木芳史](https://ja.wikipedia.org/wiki/佐々木芳史 "wikilink")（ささき・よしふみ）
   - [中村慎吾](https://ja.wikipedia.org/wiki/中村慎吾_\(アナウンサー\) "wikilink")（なかむら・しんご）
 
@@ -158,8 +156,9 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [阪本篤志](../Page/阪本篤志.md "wikilink")（さかもと・あつし）副部長
   - [渡辺裕之](../Page/渡辺裕之_\(アナウンサー\).md "wikilink")（わたなべ・ひろゆき） CA
+  - [山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")（やまだ・やすひろ）
   - [田中寛人](../Page/田中寛人.md "wikilink")（たなか・ひろと）
-  - [宮崎大地](../Page/宮崎大地.md "wikilink")（みやざき・だいち）
+  - [松村正代](../Page/松村正代.md "wikilink")（まつむら・まさよ）
   - [西川典孝](https://ja.wikipedia.org/wiki/西川典孝 "wikilink")（にしかわ・のりたか）
   - [川口由梨香](https://ja.wikipedia.org/wiki/川口由梨香 "wikilink")（かわぐち・ゆりか）
 
@@ -169,7 +168,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [山崎智彦](https://ja.wikipedia.org/wiki/山崎智彦 "wikilink")（やまざき・ともひこ）
   - [佐藤俊吉](../Page/佐藤俊吉.md "wikilink")（さとう・しゅんきち）
   - [北嶋右京](https://ja.wikipedia.org/wiki/北嶋右京 "wikilink")（きたじま・うきょう）
-  - [森田茉里恵](https://ja.wikipedia.org/wiki/森田茉里恵 "wikilink")（もりた・まりえ）
   - [伊原弘将](https://ja.wikipedia.org/wiki/伊原弘将 "wikilink")（いはら・ひろまさ）
 
 ### 甲府放送局放送部
@@ -178,7 +176,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [江藤泰彦](https://ja.wikipedia.org/wiki/江藤泰彦 "wikilink")（えとう・やすひこ）CA
   - [大谷昌弘](https://ja.wikipedia.org/wiki/大谷昌弘_\(アナウンサー\) "wikilink")（おおたに・まさひろ）
   - [志賀隼哉](https://ja.wikipedia.org/wiki/志賀隼哉_\(アナウンサー\) "wikilink")（しが・しゅんや）
-  - [鳥山圭輔](https://ja.wikipedia.org/wiki/鳥山圭輔 "wikilink")（とりやま・けいすけ）
   - [西岡遼](https://ja.wikipedia.org/wiki/西岡遼 "wikilink")（にしおか・りょう）
 
 ### 横浜放送局放送部
@@ -189,10 +186,11 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 千葉放送局放送部
 
   - [小川浩司](../Page/小川浩司.md "wikilink")（おがわ・こうじ）CA
-  - [田中洋行](https://ja.wikipedia.org/wiki/田中洋行 "wikilink")（たなか・ひろゆき）休職中
+  - [喜多賢治](https://ja.wikipedia.org/wiki/喜多賢治 "wikilink")（きた・けんじ）
 
 ### さいたま放送局放送部
 
+  - [泉浩司](../Page/泉浩司.md "wikilink")（いずみ・こうじ）CA
   - [與芝由三栄](../Page/與芝由三栄.md "wikilink")（よしば・ゆみえ）
 
 ### 水戸放送局放送部
@@ -207,12 +205,12 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 前橋放送局放送部
 
   - [吉田一之](../Page/吉田一之.md "wikilink")（よしだ・かずゆき）CA
-  - [泉浩司](../Page/泉浩司.md "wikilink")（いずみ・こうじ）CA
+  - [原口雅臣](../Page/原口雅臣.md "wikilink")（はらぐち・まさおみ） CA
 
 ### 宇都宮放送局放送部
 
   - [加藤成史](https://ja.wikipedia.org/wiki/加藤成史 "wikilink")（かとう・まさひと）CA
-  - [礒野佑子](../Page/礒野佑子.md "wikilink")（いその・ゆうこ）
+  - [橋本奈穂子](../Page/橋本奈穂子.md "wikilink")（はしもと・なおこ）
 
 ## 東海・北陸
 
@@ -228,9 +226,9 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [若林則康](../Page/若林則康.md "wikilink")（わかばやし・のりやす） CA
   - [熊倉悟](../Page/熊倉悟.md "wikilink")（くまくら・さとる）CA
   - [村竹勝司](../Page/村竹勝司.md "wikilink")（むらたけ・しょうじ）CA
+  - [高山哲哉](../Page/高山哲哉.md "wikilink")（たかやま・てつや）
   - [大坂敏久](../Page/大坂敏久.md "wikilink")（おおさか・としひさ）
   - [別井敬之](../Page/別井敬之.md "wikilink")（べつい・たかゆき）
-  - [小山径](https://ja.wikipedia.org/wiki/小山径 "wikilink")（こやま・けい）
   - [越塚優](https://ja.wikipedia.org/wiki/越塚優 "wikilink")（こしづか・ゆう）
   - [田中逸人](https://ja.wikipedia.org/wiki/田中逸人 "wikilink")（たなか・はやと）
   - [山田大樹](../Page/山田大樹_\(アナウンサー\).md "wikilink")（やまだ・ひろき）
@@ -242,7 +240,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [村上由利子](../Page/村上由利子.md "wikilink")（むらかみ・ゆりこ）
   - [森山春香](../Page/森山春香.md "wikilink")（もりやま・はるか)
   - [西堀裕美](../Page/西堀裕美.md "wikilink")（にしぼり・ひろみ）
-  - [三輪秀香](https://ja.wikipedia.org/wiki/三輪秀香 "wikilink")（みわ・ひでか）育児休職中
+  - [三輪秀香](https://ja.wikipedia.org/wiki/三輪秀香 "wikilink")（みわ・ひでか）
   - [佐々木彩](https://ja.wikipedia.org/wiki/佐々木彩 "wikilink")（ささき・あや）育前休職中
   - [橋詰彩季](https://ja.wikipedia.org/wiki/橋詰彩季 "wikilink")（はしづめ・さき）
 
@@ -254,7 +252,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [水谷彰宏](../Page/水谷彰宏.md "wikilink")（みずたに・あきひろ）CA
   - [宮崎浩輔](../Page/宮崎浩輔.md "wikilink")（みやざき・こうすけ）CA
   - [船岡久嗣](../Page/船岡久嗣.md "wikilink")（ふなおか・ひさつぐ）
-  - [法性亮太](https://ja.wikipedia.org/wiki/法性亮太 "wikilink")（ほっしょう・りょうた）
   - [山内泉](https://ja.wikipedia.org/wiki/山内泉 "wikilink")（やまうち・いずみ）
 
 </div>
@@ -280,7 +277,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [河島康一](https://ja.wikipedia.org/wiki/河島康一 "wikilink")（かわしま・こういち）CA
   - [角谷直也](https://ja.wikipedia.org/wiki/角谷直也 "wikilink")（かくたに・なおや）
   - [五十嵐椋](https://ja.wikipedia.org/wiki/五十嵐椋 "wikilink")（いがらし・りょう）
-  - [豊島実季](https://ja.wikipedia.org/wiki/豊島実季 "wikilink")（とよしま・みき）
   - [山口瑛己](https://ja.wikipedia.org/wiki/山口瑛己 "wikilink")（やまぐち・えいき）
 
 </div>
@@ -299,8 +295,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
-
-  -
 
 </div>
 
@@ -330,10 +324,10 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [伊藤雄彦](../Page/伊藤雄彦.md "wikilink")（いとう・たけひこ）CA
   - [冨坂和男](../Page/冨坂和男.md "wikilink")（とみさか・かずお） CA
   - [大橋信之](https://ja.wikipedia.org/wiki/大橋信之 "wikilink")（おおはし・のぶゆき）CA
-  - [出山知樹](../Page/出山知樹.md "wikilink")（でやま・ともき）CA
   - [鳥海貴樹](../Page/鳥海貴樹.md "wikilink")（とりうみ・たかき）CA
   - [山路忠生](https://ja.wikipedia.org/wiki/山路忠生 "wikilink")（やまじ・ただお） CA
   - [斎藤政直](../Page/斎藤政直.md "wikilink")（さいとう・まさなお）CA
+  - [上岡亮](../Page/上岡亮.md "wikilink")（かみおか・あきら）CA
   - [宮田貴行](../Page/宮田貴行.md "wikilink")（みやた・たかゆき）
   - [近田雄一](../Page/近田雄一.md "wikilink")（ちかだ・ゆういち）
   - [大石真弘](../Page/大石真弘.md "wikilink")（おおいし・まさひろ）
@@ -342,7 +336,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [清水敬亮](https://ja.wikipedia.org/wiki/清水敬亮 "wikilink")（しみず・たかあき）
   - [狩野史長](https://ja.wikipedia.org/wiki/狩野史長 "wikilink")（かのう・ふみひさ）
   - [二宮直輝](https://ja.wikipedia.org/wiki/二宮直輝 "wikilink")（にのみや・なおき）
-  - [松苗竜太郎](https://ja.wikipedia.org/wiki/松苗竜太郎 "wikilink")（まつなえ・りゅうたろう）
+  - [大川悠介](https://ja.wikipedia.org/wiki/大川悠介 "wikilink") (おおかわ・ゆうすけ)
 
 #### 女性
 
@@ -351,6 +345,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [渡邉佐和子](https://ja.wikipedia.org/wiki/渡邉佐和子 "wikilink")（わたなべ・さわこ）
   - [牛田茉友](https://ja.wikipedia.org/wiki/牛田茉友 "wikilink")（うしだ・まゆ）
   - [井田香菜子](https://ja.wikipedia.org/wiki/井田香菜子 "wikilink")（いだ・かなこ）
+  - [畠山衣美](https://ja.wikipedia.org/wiki/畠山衣美 "wikilink")（はたけやま・えみ）
   - [川崎理加](https://ja.wikipedia.org/wiki/川崎理加 "wikilink")（かわさき・りか）
 
 ### 京都放送局放送部
@@ -378,7 +373,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 奈良放送局放送部
 
   - [秋鹿真人](https://ja.wikipedia.org/wiki/秋鹿真人 "wikilink")（あきしか・まさひと）CA
-  - [大川悠介](https://ja.wikipedia.org/wiki/大川悠介 "wikilink")（おおかわ・ゆうすけ）
+  - [吉田真人](https://ja.wikipedia.org/wiki/吉田真人 "wikilink")（よしだ・まこと）
   - [見浪哲史](https://ja.wikipedia.org/wiki/見浪哲史 "wikilink")（みなみ・さとし）
 
 ### 大津放送局放送部
@@ -397,14 +392,14 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 #### 男性
 
+  - [出山知樹](../Page/出山知樹.md "wikilink")（でやま・ともき） CA
   - [土方康](https://ja.wikipedia.org/wiki/土方康 "wikilink")（ひじかた・ひろし）CA
+  - [松尾剛](../Page/松尾剛.md "wikilink")（まつお・つよし） CA
   - [村上真吾](../Page/村上真吾.md "wikilink")（むらかみ・しんご）CA
   - [遠藤亮](../Page/遠藤亮.md "wikilink")（えんどう・あきら） CA
   - [佐藤洋之](../Page/佐藤洋之.md "wikilink")（さとう・ひろゆき） CA
   - [曽根優](../Page/曽根優.md "wikilink")（そね・まさる）CA
   - [浅井僚馬](../Page/浅井僚馬.md "wikilink")（あさい・りょうま）
-  - [黒田信哉](../Page/黒田信哉.md "wikilink")（くろだ・しんや）
-  - [八田知大](https://ja.wikipedia.org/wiki/八田知大 "wikilink")（はった・ともひろ）
   - [三平泰丈](https://ja.wikipedia.org/wiki/三平泰丈 "wikilink")（みひら・やすたけ）
   - [漆原輝](https://ja.wikipedia.org/wiki/漆原輝 "wikilink")（うるしばら・ひかる）
   - [南波雅俊](https://ja.wikipedia.org/wiki/南波雅俊 "wikilink")（なんば・まさとし）
@@ -412,7 +407,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 #### 女性
 
   - [杉浦圭子](../Page/杉浦圭子.md "wikilink")（すぎうら・けいこ）EA
-  - [中川安奈](https://ja.wikipedia.org/wiki/中川安奈_\(アナウンサー\) "wikilink")（なかがわ・あんな）
+  - [豊島実季](https://ja.wikipedia.org/wiki/豊島実季 "wikilink")（とよしま・みき）
 
 ### 岡山放送局放送部
 
@@ -427,7 +422,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [福田光男](../Page/福田光男.md "wikilink")（ふくだ・みつお）副部長
   - [斎康敬](../Page/斎康敬.md "wikilink")（さい・やすたか）CA
-  - [喜多賢治](https://ja.wikipedia.org/wiki/喜多賢治 "wikilink") (きた・けんじ)
+  - [中原真吾](https://ja.wikipedia.org/wiki/中原真吾 "wikilink") (なかはら・しんご)
   - [澤田拓海](https://ja.wikipedia.org/wiki/澤田拓海 "wikilink")（さわだ・たくみ）
   - [長谷川史佳](https://ja.wikipedia.org/wiki/長谷川史佳 "wikilink")（はせがわ・ふみよし）
   - [藤原陸遊](https://ja.wikipedia.org/wiki/藤原陸遊 "wikilink")（ふじわら・りくゆう）
@@ -436,9 +431,8 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [近藤泰郎](../Page/近藤泰郎.md "wikilink")（こんどう・たいろう）副部長
   - [原田裕和](https://ja.wikipedia.org/wiki/原田裕和 "wikilink")（はらだ・ひろかず）CA
-  - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink")（ひだ・よしひと）
-  - [五味哲太](https://ja.wikipedia.org/wiki/五味哲太 "wikilink")（ごみ・てつた）
   - [是永千恵](https://ja.wikipedia.org/wiki/是永千恵 "wikilink")（これなが・ちさと）
+  - [鳥山圭輔](https://ja.wikipedia.org/wiki/鳥山圭輔 "wikilink")（とりやま・けいすけ）
   - [齋藤舜介](https://ja.wikipedia.org/wiki/齋藤舜介 "wikilink")（さいとう・しゅんすけ）
 
 ### 山口放送局放送部
@@ -460,15 +454,15 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 #### 男性
 
-  - [武田涼介](../Page/武田涼介.md "wikilink")（たけだ・りょうすけ）CA
+  - [瀬戸秀夫](../Page/瀬戸秀夫.md "wikilink")（せと・ひでお）CA
+  - [小見誠広](../Page/小見誠広.md "wikilink")（おみ・なりひろ） CA
   - [谷地健吾](../Page/谷地健吾.md "wikilink")（やち・けんご） CA
   - [武藤友樹](../Page/武藤友樹.md "wikilink")（むとう・ともき）CA
   - [酒井博司](../Page/酒井博司.md "wikilink")（さかい・ひろし）
   - [中澤輝](https://ja.wikipedia.org/wiki/中澤輝 "wikilink")（なかざわ・あきら）
-  - [小西政親](https://ja.wikipedia.org/wiki/小西政親 "wikilink")（こにし・まさちか）
   - [深澤健太](https://ja.wikipedia.org/wiki/深澤健太 "wikilink")（ふかさわ・けんた）
-  - [金子峻](https://ja.wikipedia.org/wiki/金子峻 "wikilink")（かねこ・しゅん）
   - [山口寛明](https://ja.wikipedia.org/wiki/山口寛明 "wikilink")（やまぐち・ひろあき）
+  - [小野文明](https://ja.wikipedia.org/wiki/小野文明 "wikilink")（おの・ふみあき）
 
 #### 女性
 
@@ -478,8 +472,8 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [永井克典](../Page/永井克典.md "wikilink")（ながい・かつのり）副部長
   - [長野亮](https://ja.wikipedia.org/wiki/長野亮 "wikilink")（ながの・りょう）CA
+  - [高橋篤史](https://ja.wikipedia.org/wiki/高橋篤史 "wikilink")（たかはし・あつし）
   - [中道洋司](https://ja.wikipedia.org/wiki/中道洋司 "wikilink")（なかみち・ようじ）
-  - [小野文明](https://ja.wikipedia.org/wiki/小野文明 "wikilink")（おの・ふみあき）
   - [瀬戸光](https://ja.wikipedia.org/wiki/瀬戸光 "wikilink")（せと・ひかる）
   - [吉岡真央](https://ja.wikipedia.org/wiki/吉岡真央 "wikilink")（よしおか・まお）
 
@@ -495,10 +489,10 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 高松放送局放送部
 
   - [関口泰雅](https://ja.wikipedia.org/wiki/関口泰雅 "wikilink")（せきぐち・たいが）副部長
-  - [瀬戸秀夫](../Page/瀬戸秀夫.md "wikilink")（せと・ひでお）CA
   - [伊丹新](https://ja.wikipedia.org/wiki/伊丹新 "wikilink")（いたみ・しん）CA
   - [谷口慎一郎](https://ja.wikipedia.org/wiki/谷口慎一郎 "wikilink")（たにぐち・しんいちろう）
   - [大河内惇](https://ja.wikipedia.org/wiki/大河内惇 "wikilink")（おおこうち・じゅん）
+  - [五味哲太](../Page/五味哲太.md "wikilink")（ごみ・てつた）
   - [森下桂人](https://ja.wikipedia.org/wiki/森下桂人 "wikilink")（もりした・けいと）
 
 ## 九州・沖縄
@@ -535,19 +529,18 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 ### 熊本放送局放送部
 
-  - [西東大](../Page/西東大.md "wikilink")（さいとう・だい）副部長
-  - [池田達郎](../Page/池田達郎.md "wikilink")（いけだ・たつろう）CA
+  - [池田達郎](../Page/池田達郎.md "wikilink") (いけだ・たつろう) 副部長
   - [上野速人](../Page/上野速人.md "wikilink") (うえの・はやと）
-  - [石井隆広](https://ja.wikipedia.org/wiki/石井隆広_\(アナウンサー\) "wikilink")（いしい・たかひろ）
-  - [畠山衣美](https://ja.wikipedia.org/wiki/畠山衣美 "wikilink")（はたけやま・えみ）
+  - [稲塚貴一](https://ja.wikipedia.org/wiki/稲塚貴一 "wikilink")（いなつか・きいち）
+  - [法性亮太](https://ja.wikipedia.org/wiki/法性亮太 "wikilink") (ほっしょう・りょうた)
   - [米澤太郎](https://ja.wikipedia.org/wiki/米澤太郎 "wikilink")（よねざわ・たろう）
 
 ### 長崎放送局放送部
 
   - [高山真樹](https://ja.wikipedia.org/wiki/高山真樹 "wikilink")（たかやま・まさき）副部長
   - [黒氏康博](../Page/黒氏康博.md "wikilink")（くろうじ・やすひろ）CA
-  - [三橋大樹](../Page/三橋大樹.md "wikilink") (みつはし・おおき) CA
-  - [渡辺健太](https://ja.wikipedia.org/wiki/渡辺健太 "wikilink")（わたなべ・けんた）
+  - [関根太朗](../Page/関根太朗.md "wikilink")（せきね・たろう）
+  - [木花牧雄](https://ja.wikipedia.org/wiki/木花牧雄 "wikilink")（きはな・まきお）
   - [片平和宏](https://ja.wikipedia.org/wiki/片平和宏 "wikilink")（かたひら・かずひろ）
   - [武田健太](https://ja.wikipedia.org/wiki/武田健太 "wikilink")（たけだ・けんた）
 
@@ -564,7 +557,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [古賀一](../Page/古賀一.md "wikilink")（こが・はじめ）副部長
   - [岡野暁](../Page/岡野暁.md "wikilink")（おかの・あかつき）CA
-  - [白鳥哲也](https://ja.wikipedia.org/wiki/白鳥哲也_\(アナウンサー\) "wikilink")（しらとり・てつや）
+  - [滑川和男](../Page/滑川和男.md "wikilink")（なめかわ・かずお）CA
   - [中沢圭吾](https://ja.wikipedia.org/wiki/中沢圭吾 "wikilink")（なかざわ・けいご）
   - [松井大](https://ja.wikipedia.org/wiki/松井大_\(アナウンサー\) "wikilink") (まつい・だい)
   - [神谷一鷹](https://ja.wikipedia.org/wiki/神谷一鷹 "wikilink")（かみや・かずたか）
@@ -581,7 +574,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 佐賀放送局放送部
 
   - [中村泰人](../Page/中村泰人.md "wikilink")（なかむら・やすひと）副部長
-  - [上岡亮](../Page/上岡亮.md "wikilink")（かみおか・あきら）CA
   - [井原陽介](../Page/井原陽介.md "wikilink")（いはら・ようすけ）
   - [小林将純](https://ja.wikipedia.org/wiki/小林将純 "wikilink")（こばやし・まさずみ）
   - [竹野大輝](https://ja.wikipedia.org/wiki/竹野大輝 "wikilink")（たけの・だいき）
@@ -592,7 +584,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [細田史雄](../Page/細田史雄.md "wikilink")（ほそだ・ふみお）副部長
   - [土橋大記](../Page/土橋大記.md "wikilink")（つちはし・もとき）CA
   - [堀越将伸](https://ja.wikipedia.org/wiki/堀越将伸 "wikilink")（ほりこし・まさのぶ）
-  - [黒住駿](https://ja.wikipedia.org/wiki/黒住駿 "wikilink") (くろずみ・しゅん)
+  - [黒住駿](https://ja.wikipedia.org/wiki/黒住駿 "wikilink")（くろずみ・しゅん）
   - [池間昌人](https://ja.wikipedia.org/wiki/池間昌人 "wikilink")（いけま・まさと）
   - [竜田理史](https://ja.wikipedia.org/wiki/竜田理史 "wikilink")（たつた・まさし）
   - [荒木さくら](https://ja.wikipedia.org/wiki/荒木さくら "wikilink")（あらき・さくら）
@@ -623,6 +615,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [柴田拓](https://ja.wikipedia.org/wiki/柴田拓 "wikilink")（しばた・ひらく） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』リポーター兼ディレクター
   - [曽田孝](https://ja.wikipedia.org/wiki/曽田孝 "wikilink")（そだ・たかし） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
   - [伊達正隆](../Page/伊達正隆.md "wikilink")（だて・まさたか）
+  - [田中洋行](https://ja.wikipedia.org/wiki/田中洋行 "wikilink")（たなか・ひろゆき）-『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』リポーター
   - [千野秀和](../Page/千野秀和.md "wikilink")（ちの・ひでかず） -『[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』リポーター、『[すっぴん\!](https://ja.wikipedia.org/wiki/すっぴん! "wikilink")』ディレクター
   - [辻智太郎](https://ja.wikipedia.org/wiki/辻智太郎 "wikilink")（つじ・ともたろう）
   - [福井茂](../Page/福井茂.md "wikilink") 嘱託（ふくい・しげる）
@@ -652,6 +645,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [金子拓](https://ja.wikipedia.org/wiki/金子拓_\(アナウンサー\) "wikilink")（かねこ・たく）（[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")放送部編成専任部長）
   - [岸慎治](https://ja.wikipedia.org/wiki/岸慎治 "wikilink")（きし・しんじ）（[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")放送部長）
   - [岸本多万重](../Page/岸本多万重.md "wikilink")（きしもと・たまえ）（リスク管理室）
+  - [久保田茂](../Page/久保田茂.md "wikilink")（くぼた・つとむ）（NHKサービスセンター 札幌支局）
   - [児玉隆](../Page/児玉隆.md "wikilink")（こだま・たかし）（広報局）
   - [佐伯真規](https://ja.wikipedia.org/wiki/佐伯真規 "wikilink")（さえき・まさのり）（[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")大阪支局長）
   - [坂本朋彦](../Page/坂本朋彦.md "wikilink")（さかもと・ともひこ）（編成局展開戦略推進部チーフ・プロデューサー）
@@ -793,9 +787,9 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 ### 男性
 
   - [大塚範一](../Page/大塚範一.md "wikilink")（おおつか・のりかず。1973年入局→退職直後[フジテレビ局契約](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [小野塚康之](../Page/小野塚康之.md "wikilink")（おのづか・やすゆき、1980年入局 - 2019年3月）\[3\]
+  - [小野塚康之](../Page/小野塚康之.md "wikilink")（おのづか・やすゆき、1980年入局 - 2019年3月）\[1\]
   - [葛西聖司](../Page/葛西聖司.md "wikilink")（かさい・せいじ）
-  - [河村太朗](../Page/河村太朗.md "wikilink")（かわむら・たろう、2002年入局 - 2018年7月） - [フットメディア](../Page/フットメディア.md "wikilink")所属\[4\]。
+  - [河村太朗](../Page/河村太朗.md "wikilink")（かわむら・たろう、2002年入局 - 2018年7月） - [フットメディア](../Page/フットメディア.md "wikilink")所属\[2\]。
   - [草野仁](https://ja.wikipedia.org/wiki/草野仁 "wikilink")（くさの・ひとし：1967年入局→[TBS局契約](../Page/TBSテレビ.md "wikilink")）
   - [佐藤誠](../Page/佐藤誠_\(アナウンサー\).md "wikilink")（さとう・まこと。1971年入局。大阪） - 2007年度で嘱託契約は終わったが、担当番組はそのまま。放送はNHK専属。
   - [佐藤隆輔](../Page/佐藤隆輔.md "wikilink")（さとう・りゅうすけ、1958年入局）
@@ -819,7 +813,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [宮本隆治](../Page/宮本隆治.md "wikilink")（みやもと・りゅうじ、1973年入局）
   - [村上信夫](../Page/村上信夫_\(アナウンサー\).md "wikilink")（むらかみ・のぶお、1977年入局）
   - [森本毅郎](../Page/森本毅郎.md "wikilink")（もりもと・たけろう、1963年入局→退職直後TBS局契約）
-  - [若月弘一郎](https://ja.wikipedia.org/wiki/若月弘一郎 "wikilink")（わかつき・こういちろう、2002年4月入局 - 2017年9月） - フットメディア所属。サッカー実況を中心に活動\[5\]。
+  - [若月弘一郎](https://ja.wikipedia.org/wiki/若月弘一郎 "wikilink")（わかつき・こういちろう、2002年4月入局 - 2017年9月） - フットメディア所属。サッカー実況を中心に活動\[3\]。
 
 ### 女性
 
@@ -833,7 +827,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [住吉美紀](../Page/住吉美紀.md "wikilink")（すみよし・みき、1996年入局） - フリーアナウンサー、ラジオ番組パーソナリティ。
   - [膳場貴子](../Page/膳場貴子.md "wikilink")（ぜんば・たかこ、1997年入局→退職後TBSテレビ[局契約](../Page/局契約.md "wikilink")）
   - [中村愛](../Page/中村愛_\(アナウンサー\).md "wikilink")（なかむら・あい、2005年入局） - 井澤愛名義でフリーアナウンサーとして活動。
-  - [山根基世](../Page/山根基世.md "wikilink")（やまね・もとよ、1971年入局） - 元アナウンス室長（2005年6月 - 2007年6月）。元NHKエグゼクティブアナウンサー（理事待遇）、元東京大学客員准教授。現在は「ことばの杜」共同発起人。
+  - [山根基世](../Page/山根基世.md "wikilink")（やまね・もとよ、1971年入局） - 元アナウンス室長（2005年6月 - 2007年6月）。元NHKエグゼクティブアナウンサー（理事待遇）、元東京大学客員准教授。は「ことばの杜」共同発起人。
   - [神田愛花](../Page/神田愛花.md "wikilink")（かんだ・あいか、2003年入局） - フリーアナウンサー。
   - [小正裕佳子](https://ja.wikipedia.org/wiki/小正裕佳子 "wikilink")（こまさ・ゆかこ：2009年入局） - 疫学研究者、ニュースキャスター。
   - [内藤裕子](../Page/内藤裕子.md "wikilink")（ないとう・ゆうこ : 1999年入局）
@@ -861,7 +855,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 <!-- end list -->
 
-  - [相川浩](../Page/相川浩.md "wikilink")（1957年 - 1991年）\[6\]
+  - [相川浩](../Page/相川浩.md "wikilink")（1957年 - 1991年）
   - [愛敬一幸](https://ja.wikipedia.org/wiki/愛敬一幸 "wikilink")（1980年入局）
   - [青木裕次](https://ja.wikipedia.org/wiki/青木裕次 "wikilink")（1934年入局）
   - [青木一雄](https://ja.wikipedia.org/wiki/青木一雄_\(アナウンサー\) "wikilink")（1939年入局）
@@ -870,7 +864,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [秋本竹次郎](https://ja.wikipedia.org/wiki/秋本竹次郎 "wikilink")（1937年入局）
   - [秋田建三](https://ja.wikipedia.org/wiki/秋田建三 "wikilink")（1971年入局）
   - [朝倉保](https://ja.wikipedia.org/wiki/朝倉保_\(アナウンサー\) "wikilink")（入局年不詳）
-  - [浅沼博](https://ja.wikipedia.org/wiki/浅沼博 "wikilink")（1934年入局）\[7\]
+  - [浅沼博](https://ja.wikipedia.org/wiki/浅沼博 "wikilink")（1934年入局）
   - [阿世地幸男](https://ja.wikipedia.org/wiki/阿世地幸男 "wikilink")（1972年入局）
   - [我孫子亨](https://ja.wikipedia.org/wiki/我孫子亨 "wikilink")（1945年入局）
   - [阿部二郎](https://ja.wikipedia.org/wiki/阿部二郎 "wikilink")（1939年入局）
@@ -894,15 +888,15 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [石塚彰一](https://ja.wikipedia.org/wiki/石塚彰一 "wikilink")（1971年入局）
   - [井筒屋勝己](https://ja.wikipedia.org/wiki/井筒屋勝己 "wikilink")（1981年入局）
   - [石橋純一](https://ja.wikipedia.org/wiki/石橋純一 "wikilink")（1961年入局）
-  - [石橋省三](../Page/石橋省三.md "wikilink")（1961年4月 - 1997年）\[8\]
+  - [石橋省三](../Page/石橋省三.md "wikilink")（1961年4月 - 1997年）
   - [石嶺誠一郎](../Page/石嶺誠一郎.md "wikilink")（1980年入局）
   - [磯浦康二](https://ja.wikipedia.org/wiki/磯浦康二 "wikilink")（1957年入局）
-  - [板倉卓人](https://ja.wikipedia.org/wiki/板倉卓人 "wikilink")（いたくら・たくと：1971年入局）退職した現在も嘱託アナウンサーとして松山放送局に勤務している
+  - [板倉卓人](https://ja.wikipedia.org/wiki/板倉卓人 "wikilink")（いたくら・たくと：1971年入局）退職したも嘱託アナウンサーとして松山放送局に勤務している
   - [市川路吟](https://ja.wikipedia.org/wiki/市川路吟 "wikilink")（1925年入局）
   - [伊藤征一](https://ja.wikipedia.org/wiki/伊藤征一 "wikilink")（いとう・せいいち：1968年入局）
   - [伊藤治窮](https://ja.wikipedia.org/wiki/伊藤治窮 "wikilink")（1936年入局）
   - [伊藤博英](../Page/伊藤博英.md "wikilink")
-  - [伊藤航](https://ja.wikipedia.org/wiki/伊藤航 "wikilink")（2005年入局）\[9\]
+  - [伊藤航](https://ja.wikipedia.org/wiki/伊藤航 "wikilink")（2005年入局）
   - [生熊雅夫](https://ja.wikipedia.org/wiki/生熊雅夫 "wikilink")（1970年入局）
   - [稲田稔](https://ja.wikipedia.org/wiki/稲田稔 "wikilink")（1929年入局）
   - [井上一郎](https://ja.wikipedia.org/wiki/井上一郎 "wikilink")（1931年入局）
@@ -919,12 +913,12 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [上原康樹](../Page/上原康樹.md "wikilink")（1978年入局）\[10\]
-  - [内多勝康](../Page/内多勝康.md "wikilink")（1986年 - 2016年）\[11\]
+  - [上原康樹](../Page/上原康樹.md "wikilink")（1978年入局）
+  - [内多勝康](../Page/内多勝康.md "wikilink")（1986年 - 2016年）
   - [魚谷忠](https://ja.wikipedia.org/wiki/魚谷忠 "wikilink")（1926年入局）
   - [宇田道夫](https://ja.wikipedia.org/wiki/宇田道夫 "wikilink")（1931年入局）
   - [宇津木啓太郎](https://ja.wikipedia.org/wiki/宇津木啓太郎 "wikilink")（1938年入局）
-  - [生方恵一](../Page/生方恵一.md "wikilink")（うぶかた・けいいち：1956年入局）\[12\]
+  - [生方恵一](../Page/生方恵一.md "wikilink")（うぶかた・けいいち：1956年入局）
   - [生方孝一](https://ja.wikipedia.org/wiki/生方孝一 "wikilink")（1932年入局）
   - [海野春樹](https://ja.wikipedia.org/wiki/海野春樹 "wikilink")（1939年入局）
   - [江木理一](https://ja.wikipedia.org/wiki/江木理一 "wikilink")（1928年入局）
@@ -973,7 +967,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [貝山晋](https://ja.wikipedia.org/wiki/貝山晋 "wikilink")（1932年入局）
   - [賀川安邦](https://ja.wikipedia.org/wiki/賀川安邦 "wikilink")（入局年不詳）
   - [柿沼郭](../Page/柿沼郭.md "wikilink")（1978年入局）
-  - [掛川雅夫](https://ja.wikipedia.org/wiki/掛川雅夫 "wikilink")（1973年入局）退職した現在も松山放送局に勤務している
+  - [掛川雅夫](../Page/掛川雅夫.md "wikilink")（1973年入局）退職したも松山放送局に勤務している
   - [蔭山武人](https://ja.wikipedia.org/wiki/蔭山武人 "wikilink")（1967年入局）
   - [河西三省](../Page/河西三省.md "wikilink")（1929年入局）
   - [笠間守彦](https://ja.wikipedia.org/wiki/笠間守彦 "wikilink")（1936年入局）
@@ -1010,7 +1004,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [木津川辰雄](https://ja.wikipedia.org/wiki/木津川辰雄 "wikilink")（1940年入局）
   - [橘内英次](https://ja.wikipedia.org/wiki/橘内英次 "wikilink")（旧姓、石母田。1928年入局）
   - [木村知義](https://ja.wikipedia.org/wiki/木村知義 "wikilink")（1970年入局）
-  - [清川徹](../Page/清川徹.md "wikilink")（1971年入局）退職した現在も広島放送局に勤務している
+  - [清川徹](../Page/清川徹.md "wikilink")（1971年入局）退職したも広島放送局に勤務している
   - [京田武男](https://ja.wikipedia.org/wiki/京田武男 "wikilink")（1925年入局）
   - [桐野音次郎](https://ja.wikipedia.org/wiki/桐野音次郎 "wikilink")（1925年入局）
   - [櫛引清](https://ja.wikipedia.org/wiki/櫛引清 "wikilink")（1945年入局）
@@ -1052,18 +1046,19 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 <!-- end list -->
 
-  - [斉木武志](../Page/斉木武志.md "wikilink")（1997年入局）\[13\]
+  - [斉木武志](../Page/斉木武志.md "wikilink")（1997年入局）
   - [斎藤哲](https://ja.wikipedia.org/wiki/斎藤哲 "wikilink")（1979年入局）
   - [斎藤洋一郎](../Page/斎藤洋一郎.md "wikilink")（1974年入局）
   - [斎藤芳郎](https://ja.wikipedia.org/wiki/斎藤芳郎 "wikilink")（1932年入局）
-  - [酒井広](../Page/酒井広.md "wikilink")（1950年 - 1982年）\[14\]
+  - [酒井広](../Page/酒井広.md "wikilink")（1950年 - 1982年）
   - [榊原弘](https://ja.wikipedia.org/wiki/榊原弘 "wikilink")（1937年入局）
   - [坂口英一郎](https://ja.wikipedia.org/wiki/坂口英一郎 "wikilink")（1937年入局）
   - [坂田正巳](https://ja.wikipedia.org/wiki/坂田正巳 "wikilink")（1977年入局）
   - [坂本武雄](https://ja.wikipedia.org/wiki/坂本武雄 "wikilink")（1925年入局）
   - [向坂松彦](../Page/向坂松彦.md "wikilink")（1956年入局）
-  - [崎山優](https://ja.wikipedia.org/wiki/崎山優 "wikilink")（1969年入局）\[15\]
+  - [崎山優](https://ja.wikipedia.org/wiki/崎山優 "wikilink")（1969年入局）
   - [佐久間節夫](https://ja.wikipedia.org/wiki/佐久間節夫 "wikilink")（1929年入局）
+  - [佐々木端](https://ja.wikipedia.org/wiki/佐々木端_\(アナウンサー\) "wikilink")
   - [笹本晴茂](https://ja.wikipedia.org/wiki/笹本晴茂 "wikilink")（1972年入局）
   - [佐竹修身](https://ja.wikipedia.org/wiki/佐竹修身 "wikilink")（1966年入局）
   - [佐塚元章](../Page/佐塚元章.md "wikilink")（1973年入局）
@@ -1091,23 +1086,23 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [庄司寿完](https://ja.wikipedia.org/wiki/庄司寿完 "wikilink")（1931年入局）
   - [白井滋之](https://ja.wikipedia.org/wiki/白井滋之 "wikilink")（1936年入局）
   - [白井英之](https://ja.wikipedia.org/wiki/白井英之 "wikilink")（1936年入局）
-  - [鈴木慶太](https://ja.wikipedia.org/wiki/鈴木慶太_\(起業家\) "wikilink")（2001年入局）\[16\]
-  - [鈴木崇広](https://ja.wikipedia.org/wiki/鈴木崇広 "wikilink")（2012年入局）（現在[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属）
+  - [鈴木慶太](https://ja.wikipedia.org/wiki/鈴木慶太_\(起業家\) "wikilink")（2001年入局）
+  - [鈴木崇広](https://ja.wikipedia.org/wiki/鈴木崇広 "wikilink")（2012年入局）（[圭三プロダクション](../Page/圭三プロダクション.md "wikilink")所属）
   - [鈴木英吉](https://ja.wikipedia.org/wiki/鈴木英吉 "wikilink")（1932年入局）
   - [鈴木千佳夫](https://ja.wikipedia.org/wiki/鈴木千佳夫 "wikilink")（1957年入局）
   - [薄田太郎](https://ja.wikipedia.org/wiki/薄田太郎 "wikilink")（1928年入局）
   - [杉崎健次郎](https://ja.wikipedia.org/wiki/杉崎健次郎 "wikilink")（1937年入局）
   - [杉本亀一](https://ja.wikipedia.org/wiki/杉本亀一 "wikilink")（1931年入局）
   - [杉林昇](https://ja.wikipedia.org/wiki/杉林昇 "wikilink")（1974年入局）
-  - [杉山邦博](../Page/杉山邦博.md "wikilink")（1953年入局）\[17\]
+  - [杉山邦博](../Page/杉山邦博.md "wikilink")（1953年入局）
   - [隅田格](https://ja.wikipedia.org/wiki/隅田格 "wikilink")（旧姓、榊原。1936年入局）
-  - [住田功一](../Page/住田功一.md "wikilink") 退職した現在も大阪放送局に勤務している
-  - [周山制洋](https://ja.wikipedia.org/wiki/周山制洋 "wikilink")（1975年入局）退職した現在も広島放送局に勤務している
+  - [住田功一](../Page/住田功一.md "wikilink") 退職したも大阪放送局に勤務している
+  - [周山制洋](https://ja.wikipedia.org/wiki/周山制洋 "wikilink")（1975年入局）退職したも広島放送局に勤務している
   - [関口巌](https://ja.wikipedia.org/wiki/関口巌 "wikilink")（1964年入局）
   - [関野武](https://ja.wikipedia.org/wiki/関野武 "wikilink")（1962年入局）
   - [瀬戸義久](https://ja.wikipedia.org/wiki/瀬戸義久 "wikilink")（1931年入局）
   - [善田英夫](https://ja.wikipedia.org/wiki/善田英夫 "wikilink")（1937年入局）
-  - [相馬宏男](https://ja.wikipedia.org/wiki/相馬宏男 "wikilink")（1969年入局）退職した現在も仙台放送局に勤務している
+  - [相馬宏男](https://ja.wikipedia.org/wiki/相馬宏男 "wikilink")（1969年入局）退職したも仙台放送局に勤務している
 
 <!-- end list -->
 
@@ -1178,15 +1173,15 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [中村彦二](https://ja.wikipedia.org/wiki/中村彦二 "wikilink")（1932年入局）
   - [中村淳平](https://ja.wikipedia.org/wiki/中村淳平 "wikilink")（1998年入局）
   - [中村昇](https://ja.wikipedia.org/wiki/中村昇 "wikilink")（1963年入局）
-  - [中村宏](../Page/中村宏_\(アナウンサー\).md "wikilink") 退職した現在も大阪放送局に勤務中
+  - [中村宏](../Page/中村宏_\(アナウンサー\).md "wikilink") 退職したも大阪放送局に勤務中
   - [中村充](https://ja.wikipedia.org/wiki/中村充_\(アナウンサー\) "wikilink")（1957年入局）
-  - [仲山豊秋](https://ja.wikipedia.org/wiki/仲山豊秋 "wikilink")（1974年入局）
+  - [仲山豊秋](../Page/仲山豊秋.md "wikilink")（1974年入局）
   - [名取将](../Page/名取将.md "wikilink")（1963年入局）
   - [成毛勉](https://ja.wikipedia.org/wiki/成毛勉 "wikilink")（1938年入局）
   - [荷方賢治](https://ja.wikipedia.org/wiki/荷方賢治 "wikilink") (1992年入局)
   - [西内正丸](https://ja.wikipedia.org/wiki/西内正丸 "wikilink")（1937年入局）
   - [西沢祥平](https://ja.wikipedia.org/wiki/西沢祥平 "wikilink")（1954年入局）
-  - [西澤洋和](https://ja.wikipedia.org/wiki/西澤洋和 "wikilink")（1979年入局）
+  - [西澤洋和](../Page/西澤洋和.md "wikilink")（1979年入局）
   - [西村晃](../Page/西村晃_\(経済評論家\).md "wikilink")（1981年入局→のちに[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")経済部記者・解説委員。現・経済評論家）
   - [二宮正博](../Page/二宮正博.md "wikilink")（1970年入局）
   - [丹羽益根](https://ja.wikipedia.org/wiki/丹羽益根 "wikilink")（1933年入局）
@@ -1215,7 +1210,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [羽原順司](https://ja.wikipedia.org/wiki/羽原順司 "wikilink")（1978年入局）
   - [原二郎](https://ja.wikipedia.org/wiki/原二郎 "wikilink")（1932年入局）
   - [原岡一郎](https://ja.wikipedia.org/wiki/原岡一郎 "wikilink")（1934年入局）
-  - [原田徹](../Page/原田徹.md "wikilink") 退職した現在も福岡放送局に勤務している
+  - [原田徹](../Page/原田徹.md "wikilink") 退職したも福岡放送局に勤務している
   - [平光淳之助](../Page/平光淳之助.md "wikilink")（1951年入局　のちに[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")局契約）
   - [福岡幸成](https://ja.wikipedia.org/wiki/福岡幸成 "wikilink")（1936年入局）
   - [福島幸雄](https://ja.wikipedia.org/wiki/福島幸雄 "wikilink")（1949年後期入局）
@@ -1227,7 +1222,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [藤原弘雄](https://ja.wikipedia.org/wiki/藤原弘雄 "wikilink")（1957年入局）
   - [船越章](https://ja.wikipedia.org/wiki/船越章 "wikilink")（1934年入局）
   - [福原健一](https://ja.wikipedia.org/wiki/福原健一 "wikilink")（1982年入局）
-  - [二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（1970年入局）退職した現在も金沢放送局に勤務している
+  - [二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（1970年入局）退職したも金沢放送局に勤務している
   - [古瀬堅徳](https://ja.wikipedia.org/wiki/古瀬堅徳 "wikilink")
   - [古田正信](https://ja.wikipedia.org/wiki/古田正信 "wikilink")（1939年入局）
   - [星静夫](https://ja.wikipedia.org/wiki/星静夫 "wikilink")（1963年入局）
@@ -1244,13 +1239,13 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [前田晃](https://ja.wikipedia.org/wiki/前田晃 "wikilink")（1934年入局）
   - [牧真](https://ja.wikipedia.org/wiki/牧真 "wikilink")（1932年入局）
-  - [牧港襄一](../Page/牧港襄一.md "wikilink")（1968年入局）\[18\]
+  - [牧港襄一](../Page/牧港襄一.md "wikilink")（1968年入局）
   - [益井三弘](https://ja.wikipedia.org/wiki/益井三弘 "wikilink")（旧姓、尾崎。1932年入局）
   - [町田五郎](https://ja.wikipedia.org/wiki/町田五郎 "wikilink")（1932年入局）
   - [町永俊雄](../Page/町永俊雄.md "wikilink")（1971年入局）
   - [松内則三](https://ja.wikipedia.org/wiki/松内則三 "wikilink")（1925年入局）
   - [松隈敬三](https://ja.wikipedia.org/wiki/松隈敬三 "wikilink")（1930年入局）
-  - [松田雄偉](https://ja.wikipedia.org/wiki/松田雄偉 "wikilink")（2010年入局）(現在学校法人産業能率大学企画広報部)
+  - [松田雄偉](https://ja.wikipedia.org/wiki/松田雄偉 "wikilink")（2010年入局）(学校法人産業能率大学企画広報部)
   - [松田義郎](https://ja.wikipedia.org/wiki/松田義郎 "wikilink")（1926年入局）
   - [松野善弘](https://ja.wikipedia.org/wiki/松野善弘 "wikilink")（1938年入局）
   - [松原通夫](https://ja.wikipedia.org/wiki/松原通夫 "wikilink")（旧姓、横沢。1937年入局）
@@ -1277,7 +1272,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [茂澤虎彦](https://ja.wikipedia.org/wiki/茂澤虎彦 "wikilink")（2015年入局）
   - [元橋俊彦](https://ja.wikipedia.org/wiki/元橋俊彦 "wikilink")（1937年入局）
   - [森芳郎](https://ja.wikipedia.org/wiki/森芳郎 "wikilink")（1936年入局）
-  - [森繁久彌](../Page/森繁久彌.md "wikilink")（1939年入局）\[19\]
+  - [森繁久彌](../Page/森繁久彌.md "wikilink")（1939年入局）
   - [森本信一](https://ja.wikipedia.org/wiki/森本信一 "wikilink")（1929年入局）
   - [守屋素衛](https://ja.wikipedia.org/wiki/守屋素衛 "wikilink")（1938年入局）
 
@@ -1305,7 +1300,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [山本和之](../Page/山本和之.md "wikilink")（1977年入局）
   - [山本恒雄](https://ja.wikipedia.org/wiki/山本恒雄 "wikilink")（1937年入局）
   - [山本照](https://ja.wikipedia.org/wiki/山本照 "wikilink")（1932年入局）
-  - [山本浩](../Page/山本浩.md "wikilink")（1976年入局）\[20\]
+  - [山本浩](../Page/山本浩.md "wikilink")（1976年入局）
   - [湯本修治](https://ja.wikipedia.org/wiki/湯本修治 "wikilink")（1931年入局）
   - [吉田晴一郎](https://ja.wikipedia.org/wiki/吉田晴一郎 "wikilink")（旧名、吉田春一郎。1936年入局）
   - [吉田隆嘉](../Page/吉田たかよし.md "wikilink")（1989年入局）
@@ -1330,7 +1325,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [和田源二](../Page/和田源二.md "wikilink")
   - [和田光太郎](../Page/和田光太郎.md "wikilink")（2006年入局）
   - [和田信賢](../Page/和田信賢.md "wikilink")（1934年入局）
-  - [和田政宗](../Page/和田政宗.md "wikilink")（1997年入局）\[21\]
+  - [和田政宗](../Page/和田政宗.md "wikilink")（1997年入局）
 
 </div>
 
@@ -1392,7 +1387,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [古藤田京子](https://ja.wikipedia.org/wiki/古藤田京子 "wikilink")（1976年入局）
   - [後藤美代子](https://ja.wikipedia.org/wiki/後藤美代子 "wikilink")（1953年入局）
   - [小西重子](https://ja.wikipedia.org/wiki/小西重子 "wikilink")（1944年入局）
-  - [小宮山洋子](../Page/小宮山洋子.md "wikilink")（こみやま・ようこ：1972年入局）\[22\]
+  - [小宮山洋子](../Page/小宮山洋子.md "wikilink")（こみやま・ようこ：1972年入局）
   - [小柳敏子](https://ja.wikipedia.org/wiki/小柳敏子 "wikilink")（1944年入局）
   - [小山滋子](https://ja.wikipedia.org/wiki/小山滋子 "wikilink")（旧姓、神崎。1962年入局）
   - [近藤富枝](https://ja.wikipedia.org/wiki/近藤富枝 "wikilink")（1944年入局）
@@ -1405,9 +1400,9 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
   - [佐治与史子](https://ja.wikipedia.org/wiki/佐治与史子 "wikilink")（1944年入局）
   - [迫田朋子](https://ja.wikipedia.org/wiki/迫田朋子 "wikilink")（1980年入局）
-  - [佐藤一枝](https://ja.wikipedia.org/wiki/佐藤一枝 "wikilink")（1936年入局）
+  - [佐藤一枝](https://ja.wikipedia.org/wiki/佐藤一枝 "wikilink")（1
   - [島津有理子](../Page/島津有理子.md "wikilink")（1997年入局）
-  - [下重暁子](https://ja.wikipedia.org/wiki/下重暁子 "wikilink")（1959年二次入局 - 1968年）\[23\]
+  - [下重暁子](https://ja.wikipedia.org/wiki/下重暁子 "wikilink")（1959年二次入局 - 1968年）
   - [杉原宏子](https://ja.wikipedia.org/wiki/杉原宏子 "wikilink")（1944年入局）
   - [鈴木きよ](https://ja.wikipedia.org/wiki/鈴木きよ "wikilink")（1929年入局）
 
@@ -1430,12 +1425,12 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 <!-- end list -->
 
-  - [永井多恵子](../Page/永井多恵子.md "wikilink")（ながい・たえこ：1960年入局）\[24\]
+  - [永井多恵子](../Page/永井多恵子.md "wikilink")（ながい・たえこ：1960年入局）
   - [永尾都美](https://ja.wikipedia.org/wiki/永尾都美 "wikilink")（入局年不詳）
   - [錦島法子](https://ja.wikipedia.org/wiki/錦島法子 "wikilink")（1944年\* [西村道子](https://ja.wikipedia.org/wiki/西村道子 "wikilink")（1944年入局）
   - [西本美代子](https://ja.wikipedia.org/wiki/西本美代子 "wikilink")（1944年入局）
   - [二宮久子](https://ja.wikipedia.org/wiki/二宮久子 "wikilink")（1944年入局）
-  - [野際陽子](../Page/野際陽子.md "wikilink")（のぎわ・ようこ：1958年入局）\[25\]
+  - [野際陽子](../Page/野際陽子.md "wikilink")（のぎわ・ようこ：1958年入局）
 
 <!-- end list -->
 
@@ -1444,7 +1439,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 <!-- end list -->
 
   - [長谷川美智子](https://ja.wikipedia.org/wiki/長谷川美智子 "wikilink")（1944年入局）
-  - [畑恵](../Page/畑恵.md "wikilink")（1984年入局　のちにテレビ朝日局契約）\[26\]
+  - [畑恵](../Page/畑恵.md "wikilink")（1984年入局　のちにテレビ朝日局契約）
   - [福士夏江](https://ja.wikipedia.org/wiki/福士夏江 "wikilink")（1944年入局）
   - [星野雅江](https://ja.wikipedia.org/wiki/星野雅江 "wikilink")（1990年入局）
   - [本田寿賀](https://ja.wikipedia.org/wiki/本田寿賀 "wikilink")（1946年入局）
@@ -1491,35 +1486,16 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [NHKの契約アナウンサー一覧](https://ja.wikipedia.org/wiki/NHKの契約アナウンサー一覧 "wikilink")
 
 [Category:日本のアナウンサー](https://ja.wikipedia.org/wiki/Category:日本のアナウンサー "wikilink") [Category:NHKのアナウンサー](https://ja.wikipedia.org/wiki/Category:NHKのアナウンサー "wikilink") [Category:放送従事者一覧](https://ja.wikipedia.org/wiki/Category:放送従事者一覧 "wikilink")
 
-1.  配属直前には『[NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")』（2015年まで）か『[どーも、NHK](https://ja.wikipedia.org/wiki/どーも、NHK "wikilink")』（2016年より）若しくは『[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")』にてその年に入局した新人アナウンサーが紹介されることが慣例となっている。また入局1年目時に必ず1度はラジオ・テレビで定時ニュースを担当する。
-2.  男性の場合はキャリアアップを目指すためか、多くの地方・拠点放送局での勤務を経験する反面、女性は2局目で多くのアナウンサーが拠点局へ、3局目で東京へと転勤するケースが多い。これについては異論も多いが、その反面、女性管理職は全職員の中でも5％ほどと非常に少ない。
+1.
+2.
 3.
-4.
-5.
-6.  退職後、[日本テレビと](../Page/日本テレビ放送網.md "wikilink")[局契約](../Page/局契約.md "wikilink")。
-7.  後にアナウンス課長、[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")放送部長、取材部長、専務理事放送総局長、[NHK出版](../Page/NHK出版.md "wikilink")社長。
-8.  大相撲中継で活躍。現在も大相撲中継の字幕放送キャスターを務める。
-9.  現在、株式会社Anew副社長を務める。
-10. 定年後も盛岡放送局で勤務していたが、2019年7月31日で退職し現在は岩手県議会議員。
-11. 現在、国立生育医療研究センター「もみじの家」のハウスマネージャー。
-12.
-13. 国政選挙立候補表明のため退職。
-14.
-15. 入局当時は旧[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")の職員。
-16. 現在は「Kaien」代表取締役。
-17. 大相撲中継で活躍。退職後も大相撲中継に関わり、現在も相撲記者クラブ会友として活動。
-18. 入局当時は旧[沖縄放送協会](../Page/沖縄放送協会.md "wikilink")職員。
-19. 退職後、2009年に没するまで[俳優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")として活動。
-20. 現在、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")[教授](../Page/教授.md "wikilink")。
-21.
-22. 元[民主党](../Page/民主党_\(日本_1998-2016\).md "wikilink")[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")。
-23. 退職後、[NETテレビの契約キャスターを経て](../Page/テレビ朝日.md "wikilink")、作家として活動。
-24. 一旦退局後副会長として復帰するも会長の[橋本元一](../Page/橋本元一.md "wikilink")とともに退任。
-25. 退職後、2017年に没するまで[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")として活動。
-26. 元参議院議員、現：作新学院副理事長。

@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vサイン](https://ja.wikipedia.org/wiki/Vサイン)から翻訳されています。
 
 
 [NASA_Success.jpg](https://ja.wikipedia.org/wiki/File:NASA_Success.jpg "fig:NASA_Success.jpg")で、[宇宙探査機](../Page/宇宙探査機.md "wikilink")[スターダストが持ち帰った試料が到着した際に](https://ja.wikipedia.org/wiki/スターダスト_\(探査機\) "wikilink")、勝利を意味するVサインを掲げた研究員。\]\] **Vサイン**（ブイサイン、、[Unicode](../Page/Unicode.md "wikilink")：）は、[人差し指](../Page/人差し指.md "wikilink")と[中指](https://ja.wikipedia.org/wiki/中指 "wikilink")を、指先を離すようにして伸ばし、他の指は折ったままにする[手](../Page/手.md "wikilink")の[ジェスチャー](../Page/ジェスチャー.md "wikilink")。文化的文脈やその形をとる手の提示の仕方などによって、様々な意味をもっている。特に、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[連合軍側の陣営においては](../Page/連合国_\(第二次世界大戦\).md "wikilink")、「勝利 (victory)」を意味する「V」の字を象った仕草として広く用いられた。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や、それと文化的なつながりの深い地域の人々の間では、手のひらを自分の方に向ける形でこのサインを示し、相手への敵対、挑発のジェスチャーとする。また、多くの人々は、単に数字の「[2](../Page/2.md "wikilink")」を意味してこのサインを用いる。[1960年代](../Page/1960年代.md "wikilink")以降、Vサインは[カウンターカルチャー](../Page/カウンターカルチャー.md "wikilink")運動の中に広まり、通常は手のひらを相手側に向ける形で、[ピースサイン](../Page/ピースサイン.md "wikilink")としても用いられるようになった。

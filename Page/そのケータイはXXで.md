@@ -1,4 +1,4 @@
-> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+> この記事は[そのケータイはXXで](https://ja.wikipedia.org/wiki/そのケータイはXXで)から翻訳されています。
 
 
 『**そのケータイはXXで**』（そのケータイはエクスクロスで）は、[上甲宣之](../Page/上甲宣之.md "wikilink")の[小説](../Page/小説.md "wikilink")。[しより&愛子シリーズ](https://ja.wikipedia.org/wiki/しより&愛子シリーズ "wikilink")の第1作。

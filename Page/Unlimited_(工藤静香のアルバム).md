@@ -1,4 +1,4 @@
-> この記事は[Unlimited \(\)](https://ja.wikipedia.org/wiki/Unlimited_\(\))から翻訳されています。
+> この記事は[Unlimited \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Unlimited_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**unlimited**』（アンリミテッド）は、[工藤静香](../Page/工藤静香.md "wikilink")の3枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月14日](../Page/11月14日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

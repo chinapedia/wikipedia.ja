@@ -1,4 +1,4 @@
-> この記事は[DRESS \(\)](https://ja.wikipedia.org/wiki/DRESS_\(\))から翻訳されています。
+> この記事は[DRESS \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/DRESS_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**DRESS**』（ドレス）は、[工藤静香](../Page/工藤静香.md "wikilink")の通算12枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

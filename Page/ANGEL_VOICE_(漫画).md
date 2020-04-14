@@ -1,4 +1,4 @@
-> この記事は[ANGEL VOICE \(\)](https://ja.wikipedia.org/wiki/ANGEL_VOICE_\(\))から翻訳されています。
+> この記事は[ANGEL VOICE \(漫画\)](https://ja.wikipedia.org/wiki/ANGEL_VOICE_\(漫画\))から翻訳されています。
 
 
 『**ANGEL VOICE**』（エンジェル・ボイス）は[古谷野孝雄](https://ja.wikipedia.org/wiki/古谷野孝雄 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サッカー漫画](../Page/サッカー漫画.md "wikilink")。『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、2007年21号から2014年42号まで連載された。

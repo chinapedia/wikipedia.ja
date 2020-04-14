@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jプロツアー](https://ja.wikipedia.org/wiki/Jプロツアー)から翻訳されています。
 
 
 **Jプロツアー**\[1\]は、[2006年](../Page/2006年.md "wikilink")より開始した[全日本実業団自転車競技連盟](https://ja.wikipedia.org/wiki/全日本実業団自転車競技連盟 "wikilink")が主催する[自転車](../Page/自転車競技.md "wikilink")[ロードレースのランキング制度である](../Page/ロードレース_\(自転車競技\).md "wikilink")。

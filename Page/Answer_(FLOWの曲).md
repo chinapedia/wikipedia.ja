@@ -1,4 +1,4 @@
-> この記事は[Answer \(FLOW\)](https://ja.wikipedia.org/wiki/Answer_\(FLOW\))から翻訳されています。
+> この記事は[Answer \(FLOWの曲\)](https://ja.wikipedia.org/wiki/Answer_\(FLOWの曲\))から翻訳されています。
 
 
 「**Answer**」（アンサー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")の楽曲で、メジャー12枚目（通算16枚目）の[シングル](../Page/シングル.md "wikilink")(KSCL-1157)。[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[Ki/oon Recordsから発売](../Page/キューンミュージック.md "wikilink")。

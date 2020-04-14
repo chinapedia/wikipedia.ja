@@ -331,7 +331,7 @@ Synthesyzer &amp; Arp Odyssey</p></td>
 
   -  Discography ALBUM
 
-[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1978年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のライブ・アルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink")
+[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1978年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のライブ・アルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink") [Category:山下達郎がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎がプロデュースしたアルバム "wikilink")
 
 1.  『[SPACY](../Page/SPACY.md "wikilink")』 [1977年](../Page/1977年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")発売 LP:RCA ⁄ [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink") LP:RVL-8004
 2.  [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")『[LET'S DO IT -愛は思うまま-](https://ja.wikipedia.org/wiki/LET'S_DO_IT_-愛は思うまま- "wikilink")』 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売 [ALFA](../Page/アルファレコード.md "wikilink") LP:ALR-6011

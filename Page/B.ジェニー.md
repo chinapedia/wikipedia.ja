@@ -1,4 +1,4 @@
-> この記事は[B.](https://ja.wikipedia.org/wiki/B.)から翻訳されています。
+> この記事は[B.ジェニー](https://ja.wikipedia.org/wiki/B.ジェニー)から翻訳されています。
 
 
 **B.ジェニー**（B. Jenet、本名ジェニー・バーン）は[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")』などに登場する架空の人物。担当声優は[斉藤レイ](../Page/斉藤レイ.md "wikilink")。

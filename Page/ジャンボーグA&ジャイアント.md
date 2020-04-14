@@ -1,4 +1,4 @@
-> この記事は[A\&](https://ja.wikipedia.org/wiki/A\&)から翻訳されています。
+> この記事は[ジャンボーグA\&ジャイアント](https://ja.wikipedia.org/wiki/ジャンボーグA\&ジャイアント)から翻訳されています。
 
 
 『**ジャンボーグA&ジャイアント**』（ジャンボーグエース&ジャイアント、タイ語原題：ยักษ์วัดแจ้งพบจัมโบ้เอ）は、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")と、[チャイヨー・プロダクション](../Page/チャイヨー・プロダクション.md "wikilink")の合作の劇場[映画](../Page/映画.md "wikilink")。
@@ -122,6 +122,6 @@
 
 ## 脚注
 
-[Category:日本とタイの合作映画](https://ja.wikipedia.org/wiki/Category:日本とタイの合作映画 "wikilink") [Category:円谷プロダクションの映画作品](https://ja.wikipedia.org/wiki/Category:円谷プロダクションの映画作品 "wikilink") [Category:巨大ロボットを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材とした映画作品 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink") [Category:バンコクを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バンコクを舞台とした映画作品 "wikilink") [Category:月を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:月を舞台とした映画作品 "wikilink")
+[Category:日本とタイの合作映画](https://ja.wikipedia.org/wiki/Category:日本とタイの合作映画 "wikilink") [Category:日本の特撮映画](https://ja.wikipedia.org/wiki/Category:日本の特撮映画 "wikilink") [Category:1970年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1970年代の特撮作品 "wikilink") [Category:円谷プロダクションの映画作品](https://ja.wikipedia.org/wiki/Category:円谷プロダクションの映画作品 "wikilink") [Category:巨大ロボットを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材とした映画作品 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink") [Category:バンコクを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バンコクを舞台とした映画作品 "wikilink") [Category:月を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:月を舞台とした映画作品 "wikilink")
 
 1.  [安藤健二](../Page/安藤健二.md "wikilink")『封印作品の憂鬱』[洋泉社](../Page/洋泉社.md "wikilink")より。

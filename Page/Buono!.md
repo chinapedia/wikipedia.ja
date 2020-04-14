@@ -55,7 +55,7 @@
   - ドラムス ： cheeta（元[中ノ森BAND](../Page/中ノ森BAND.md "wikilink")）
   - ベース ： きくちゃん（[菊池聖美](https://ja.wikipedia.org/wiki/菊池聖美 "wikilink")）
   - ベース ： なおみち（[岩崎なおみ](https://ja.wikipedia.org/wiki/岩崎なおみ "wikilink")）
-  - ドラムス ： まいまい（[今村舞](https://ja.wikipedia.org/wiki/今村舞 "wikilink")）（元SUPER EGG MACHINE）
+  - ドラムス ： まいまい（[今村舞](../Page/今村舞.md "wikilink")）（元SUPER EGG MACHINE）
   - ギター ： マーティ（[磯貝真由](https://ja.wikipedia.org/wiki/磯貝真由 "wikilink")）
   - ギター ： まり-P（[藤井万利子](https://ja.wikipedia.org/wiki/藤井万利子 "wikilink")）（元SUPER EGG MACHINE）
   - DJ ： DJ Konnie（コニー青木［[Konnie-PLASMO'-Aoki](https://ja.wikipedia.org/wiki/Konnie-PLASMO'-Aoki "wikilink")］）

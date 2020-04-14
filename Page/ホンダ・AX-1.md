@@ -1,4 +1,4 @@
-> この記事は[AX-1](https://ja.wikipedia.org/wiki/AX-1)から翻訳されています。
+> この記事は[ホンダ・AX-1](https://ja.wikipedia.org/wiki/ホンダ・AX-1)から翻訳されています。
 
 
 **AX-1**（エーエックス ワン） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。本項ではエンジンを共用する[姉妹車](../Page/姉妹車.md "wikilink")の**XL Degree**（エックスエル ディグリー）についても解説を行う。

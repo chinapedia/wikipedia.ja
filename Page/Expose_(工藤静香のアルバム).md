@@ -1,4 +1,4 @@
-> この記事は[Expose \(\)](https://ja.wikipedia.org/wiki/Expose_\(\))から翻訳されています。
+> この記事は[Expose \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Expose_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**Expose**』（エクスポーズ）は、[工藤静香](../Page/工藤静香.md "wikilink")の9枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CCD](https://ja.wikipedia.org/wiki/CCD)から翻訳されています。
+> この記事は[北京天文台CCD小惑星観測プログラム](https://ja.wikipedia.org/wiki/北京天文台CCD小惑星観測プログラム)から翻訳されています。
 
 
 **北京天文台CCD小惑星観測プログラム**（BAO Schmidt CCD Asteroid Program または Beijing Schmidt CCD Asteroid Program）は1995年5月に[中国科学院](../Page/中国科学院.md "wikilink")の資金援助で北京天文台が組織した[地球近傍天体](../Page/地球近傍天体.md "wikilink")（[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")、[彗星](../Page/彗星.md "wikilink")）の探査プログラムである。北京天文台の興隆(Xinglong)観測所の60/90 cmのシュミット望遠鏡に2048x2048の解像度の[CCDカメラを設置して行われた](../Page/CCDイメージセンサ.md "wikilink")。

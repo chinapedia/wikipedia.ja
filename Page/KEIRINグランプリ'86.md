@@ -1,4 +1,4 @@
-> この記事は[KEIRIN\'86](https://ja.wikipedia.org/wiki/KEIRIN\'86)から翻訳されています。
+> この記事は[KEIRINグランプリ\'86](https://ja.wikipedia.org/wiki/KEIRINグランプリ\'86)から翻訳されています。
 
 
 **KEIRINグランプリ'86**（けいりんぐらんぷりはちじゅうろく）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](../Page/立川競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1500万円\[1\]。

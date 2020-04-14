@@ -1,11 +1,11 @@
 > この記事は[COMA-CHI](https://ja.wikipedia.org/wiki/COMA-CHI)から翻訳されています。
 
 
-**COMA-CHI**（コマチ、[1984年](../Page/1984年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[歌手](../Page/歌手.md "wikilink")\[1\]。
+**COMA-CHI**（コマチ、[1984年](../Page/1984年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[歌手](../Page/歌手.md "wikilink")\[1\]、占星術師。
 
 ## 略歴
 
-[東京都](../Page/東京都.md "wikilink")出身。中学時代よりバンドのボーカリストとして活動を開始、その後[ヒップホップ](../Page/ヒップホップ.md "wikilink")へと傾倒していった。2003年からはラッパーとして[渋谷](../Page/渋谷.md "wikilink")・[六本木](../Page/六本木.md "wikilink")界隈の[クラブ](../Page/クラブ.md "wikilink")でライブを行うようになり頭角を現す。同年10月に行われた「SHINJUKU SPOKEN WORDS SLAM」で優勝。2004年「COMA-CHI」に改名。2005年に[両国国技館](../Page/両国国技館.md "wikilink")で行われた[B BOY PARK](../Page/B_BOY_PARK.md "wikilink") [MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")では女性初となる準優勝に輝く。
+[東京都](../Page/東京都.md "wikilink")出身。中学時代よりバンドのボーカリストとして活動を開始、その後[ヒップホップ](../Page/ヒップホップ.md "wikilink")へと傾倒していった。2003年からはラッパーとして[渋谷](../Page/渋谷.md "wikilink")・[六本木](../Page/六本木.md "wikilink")界隈の[クラブ](../Page/クラブ.md "wikilink")でのライブや路上サイファー、MCバトルで頭角を現しはじめ、ついに2003年10月に行われた「SHINJUKU SPOKEN WORDS SLAM」で優勝。2004年「COMA-CHI」に改名。2005年に[両国国技館](../Page/両国国技館.md "wikilink")で行われた[B BOY PARK](../Page/B_BOY_PARK.md "wikilink") [MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")では女性初となる準優勝に輝く。
 
 2006年には[インディーズ](../Page/インディーズ.md "wikilink")1stアルバム『DAY BEFORE BLUE』を[Da.Me.Records](../Page/Da.Me.Records.md "wikilink")より発表。また[インディーズ](../Page/インディーズ.md "wikilink")レーベル「24区」を設立しヒップホップユニット「JUNK BEAT TOKYO」を結成。フルアルバム『J.B.T.WALKER VOL.1』を発表した。その後、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[RIP SLYME](../Page/RIP_SLYME.md "wikilink")、[DABO](../Page/DABO.md "wikilink")といったメジャー、インディーズを問わず幅広いアーティストへの客演を行う。
 
@@ -285,6 +285,7 @@ PCCA-02934:通常盤</p></td>
 | [VISIBLEX](https://ja.wikipedia.org/wiki/VISIBLEX "wikilink")                                                           | 「[perfect angel](https://www.youtube.com/watch?v=KKBnEPcfjWg)」 |
 | [村松亮太郎](../Page/村松亮太郎.md "wikilink")                                                                                    | 「Heaven」                                                       |
 | [Hideaki Yoshikawa](https://ja.wikipedia.org/wiki/Hideaki_Yoshikawa "wikilink")                                         | 「[STEP UP\!](https://www.youtube.com/watch?v=psuyJGvQmdM)」     |
+| [松永光明](https://ja.wikipedia.org/wiki/松永光明 "wikilink")                                                                   | 「Cycle」「Woman feat. [Keyco](../Page/Keyco.md "wikilink")」      |
 |                                                                                                                         |                                                                |
 
 ## 主なライブ
@@ -302,12 +303,10 @@ PCCA-02934:通常盤</p></td>
 
 ## 外部リンク
 
-  - [COMA-CHI オフィシャルウェブサイト](http://www.queens-room.com/)
-
-  -
-  -
+  - [COMA-CHI official](https://www.youtube.com/user/QueensRoom) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル
+  - [COMA-CHI](https://www.instagram.com/coma_chi/) ( @coma_chi ) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+  - [COMA-CHI](https://twitter.com/coma_chi) ( @coma_chi ) - [twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")
   - [podcast『COMA-CHI MAIL BOX\!』](http://www.floor-net.jp/coma-chi/) - [ポッドキャスト](../Page/ポッドキャスト.md "wikilink")番組
-
   - [COMA-CHI襲来](http://www.spaceshowertv.com/blackfile/dai3/coma-chi_1.html) - [Black File](https://ja.wikipedia.org/wiki/Black_File "wikilink")
 
 [Category:日本のラッパー](https://ja.wikipedia.org/wiki/Category:日本のラッパー "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

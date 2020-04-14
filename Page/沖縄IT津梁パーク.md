@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[沖縄IT津梁パーク](https://ja.wikipedia.org/wiki/沖縄IT津梁パーク)から翻訳されています。
 
 
 [津梁パーク中核施設_-_panoramio.jpg](https://ja.wikipedia.org/wiki/File:津梁パーク中核施設_-_panoramio.jpg "fig:津梁パーク中核施設_-_panoramio.jpg") **沖縄IT津梁パーク**（おきなわあいてぃーしんりょうぱーく、[英称](https://ja.wikipedia.org/wiki/英称 "wikilink")：OKINAWA IT SHINRYO PARK）は、[沖縄県](../Page/沖縄県.md "wikilink")における情報通信産業の高度化のための拠点の整備を図る構想。また構想に基づき同県[うるま市](../Page/うるま市.md "wikilink")に建設された拠点の名称。

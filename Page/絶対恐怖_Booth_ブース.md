@@ -1,4 +1,4 @@
-> この記事は[ Booth ](https://ja.wikipedia.org/wiki/_Booth_)から翻訳されています。
+> この記事は[絶対恐怖 Booth ブース](https://ja.wikipedia.org/wiki/絶対恐怖_Booth_ブース)から翻訳されています。
 
 
 『**絶対恐怖 Booth ブース**』（ぜったいきょうふ ブース）は、[2005年に公開された](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。若手クリエイターと若手俳優の[コラボレーション](../Page/コラボレーション.md "wikilink")による[ホラー映画](../Page/ホラー映画.md "wikilink")シリーズ第2弾。『[絶対恐怖 Pray プレイ](../Page/絶対恐怖_Pray_プレイ.md "wikilink")』との連作となっている。単独での映画名は『**Booth ブース**』（ブース）。

@@ -1,4 +1,4 @@
-> この記事は[ANSWER \(\)](https://ja.wikipedia.org/wiki/ANSWER_\(\))から翻訳されています。
+> この記事は[ANSWER \(コブクロのアルバム\)](https://ja.wikipedia.org/wiki/ANSWER_\(コブクロのアルバム\))から翻訳されています。
 
 
 **ANSWER**（アンサー）は、[2000年](../Page/2000年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に発売された、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の3枚目のインディーズアルバムである。

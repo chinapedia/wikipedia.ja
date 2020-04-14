@@ -1,4 +1,4 @@
-> この記事は[NLT](https://ja.wikipedia.org/wiki/NLT)から翻訳されています。
+> この記事は[劇団NLT](https://ja.wikipedia.org/wiki/劇団NLT)から翻訳されています。
 
 
 **劇団NLT**（げきだんエヌエルティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")。[喜劇](../Page/喜劇.md "wikilink")を専門に公演を行っている。[1964年](../Page/1964年.md "wikilink")（昭和39年）1月10日に結成された。代表は[川端槇二](https://ja.wikipedia.org/wiki/川端槇二 "wikilink")。
@@ -19,19 +19,24 @@
 
 ## 受賞歴
 
-1965年、「[サド侯爵夫人](https://ja.wikipedia.org/wiki/サド侯爵夫人 "wikilink")」で[昭和40年](https://ja.wikipedia.org/wiki/昭和40年 "wikilink")度[芸術祭演劇部門賞受賞](../Page/芸術祭_\(文化庁\).md "wikilink")。
+1965年 「[サド侯爵夫人](https://ja.wikipedia.org/wiki/サド侯爵夫人 "wikilink")」で[昭和40年](https://ja.wikipedia.org/wiki/昭和40年 "wikilink")度[芸術祭演劇部門賞受賞](../Page/芸術祭_\(文化庁\).md "wikilink")。
 
-1966年、「[リュイ・ブラス](https://ja.wikipedia.org/wiki/リュイ・ブラース "wikilink")」における演技で村松英子が第1回[紀伊国屋演劇賞受賞](../Page/紀伊國屋演劇賞.md "wikilink")。
+1966年 「[リュイ・ブラス](https://ja.wikipedia.org/wiki/リュイ・ブラース "wikilink")」における演技で[村松英子](../Page/村松英子.md "wikilink")が第1回[紀伊国屋演劇賞受賞](../Page/紀伊國屋演劇賞.md "wikilink")。
 
-1967年、「[朱雀家の滅亡](https://ja.wikipedia.org/wiki/朱雀家の滅亡 "wikilink")」における演技で中村伸郎が第2回紀伊国屋演劇賞受賞。
+1967年 「[朱雀家の滅亡](https://ja.wikipedia.org/wiki/朱雀家の滅亡 "wikilink")」における演技で中村伸郎が第2回紀伊国屋演劇賞受賞。
 
-1970年、「マカロニ金融」で芸術祭[昭和45年](https://ja.wikipedia.org/wiki/昭和45年 "wikilink")度芸術祭優秀賞受賞。
+1970年 「マカロニ金融」で[昭和45年](https://ja.wikipedia.org/wiki/昭和45年 "wikilink")度芸術祭優秀賞受賞。
 
-1976年、「ササフラスの枝にそよぐ風」における演出で利光哲夫と賀原夏子が[昭和51年度芸術祭優秀賞演出部門賞受賞](../Page/1976年.md "wikilink")。
+1976年 「ササフラスの枝にそよぐ風」における演出で利光哲夫と賀原夏子が[昭和51年度芸術祭優秀賞演出部門賞受賞](../Page/1976年.md "wikilink")。
 
-1989年、「[毒薬と老嬢](https://ja.wikipedia.org/wiki/毒薬と老嬢 "wikilink")」で芸術祭[平成元年](https://ja.wikipedia.org/wiki/平成元年 "wikilink")度芸術祭演劇部門賞受賞。
+1989年 「[毒薬と老嬢](https://ja.wikipedia.org/wiki/毒薬と老嬢 "wikilink")」で[平成元年](https://ja.wikipedia.org/wiki/平成元年 "wikilink")度芸術祭演劇部門賞受賞。
 
-2018年、「やっとことっちゃうんとこな」（[俳優座劇場](https://ja.wikipedia.org/wiki/俳優座劇場 "wikilink")）では、[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")の歴史上初めて、劇中劇に歌舞伎を演じるという試みが注目され、脚本・演出の池田政之が同年の[テアトロ演劇賞](https://ja.wikipedia.org/wiki/テアトロ演劇賞 "wikilink")を受賞。
+2018年 「やっとことっちゃうんとこな」における作・演出で[池田政之が第](https://ja.wikipedia.org/wiki/池田政之_\(脚本家\) "wikilink")20回[テアトロ演劇賞](https://ja.wikipedia.org/wiki/テアトロ演劇賞 "wikilink")受賞。
+
+  -
+
+      -
+        ※同作は、若手俳優たちが劇中で歌舞伎を演じるという[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")史上初の試みが高く評価された。
 
 ## 所属俳優
 
@@ -1018,687 +1023,692 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>故・賀原夏子 勲四等<a href="https://ja.wikipedia.org/wiki/宝冠章" title="wikilink">宝冠章</a> 受章|-</p></td>
-<td><p>4</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>4</p></td>
+<td><p>「二匹の猫と一匹の鼠」大江夏生演出 「ルルシーヌ街殺人事件」原田俊雄演出</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「毒薬と老嬢」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「恋の冷凍保存 賀原夏子追悼公演」川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1992</p></td>
 <td><p>1</p></td>
 <td><p>「佐倉家の青春」牛窪正弘作・演出 「ニノチカ」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>「海抜三千二百メートル」山本廉、柳沢紀男演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
 <td><p>「サーカス殺人事件」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「ニノチカ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「御意にまかす」R. ピランデルロ作／岩田豊雄訳／小林裕演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「女房という他人」ジェームス三木作・演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「ル・坊や」J. レトラス作／幸田礼雅訳／原田俊雄演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「恋の冷凍保存」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1993</p></td>
 <td><p>1</p></td>
 <td><p>「ニノチカ」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「旅する灯 ブールヴァール小品集」N. カワード作／仁科余志夫訳／原田俊雄演出 「いやます苦痛」N. カワード作／仁科余志夫訳／原田俊雄演出</p>
 <p>「大変な心配」クリトリーヌ作／川端槙二演出</p>
 <p>「ドーヴァーの税関」原田俊雄演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「パパと呼ばないで」ブリケール＆ラゼイグ作／幸田礼雅訳／原田俊雄演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「女房という他人」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>「火事ハドコダ！」P. コフート作／小澤僥謳訳・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「ホテルZOO」R. トマ作／米村晰訳／川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1994</p></td>
 <td><p>2</p></td>
 <td><p>「羨ましい女たち」藤野正人作／小澤僥謳演出</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「女房という他人」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「ニノチカ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>「ぷれいぼーい」シング作／松村みね子訳／原田俊雄演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「女房という他人」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「女占い師」A. ルッサン作／梅田晴夫訳／川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「女房という他人」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1995</p></td>
 <td><p>2</p></td>
 <td><p>「ジャングル★ジム」右来左往作／原田一樹演出</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「女房という他人」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>「ニノチカ」 「ペンキ塗りたて」R. フォショワ作／幸田礼雅訳／原田俊雄、木村有里演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「耳に蚤」G. フェドー作／米村晰訳／出口典雄演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「来週初日　サッシャ・ギドリー小品集」S. ギドリー作／岡田正子訳・演出 「仕上がりのよい手紙」S. ギドリー作／岡田正子訳・演出</p>
 <p>「二人の食事」S. ギドリー作／岡田正子訳・演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1996</p></td>
 <td><p>5</p></td>
 <td><p>「貧すれば鈍す」P. フィリッポ作／高田和文訳／井上思演出 「一緒に夕食を！」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>「ニノチカ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「たそがれてキッチン」A. エイクボーン作／黒田絵美子訳／宮田慶子演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1997</p></td>
 <td><p>3</p></td>
 <td><p>「ばらばら」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「月の小鳥たち」M. エーメ作／宗左近訳／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「くたばれハムレット」P. ラドニック作／松岡和子訳／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「裸足で散歩」N. サイモン作／小田島雄志、若子訳／小林裕演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「ひまわり荘」V. カタイエフ作／和田誠一訳／川端槙二演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1998</p></td>
 <td><p>1</p></td>
 <td><p>「ばらばら」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2 4</p></td>
 <td><p>「毒薬と老嬢」井上思演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「ニノチカ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「燕のいる駅」土田英生作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8 9</p></td>
 <td><p>「マカロニ金融」黒柳徹子演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「ばらばら」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1999</p></td>
 <td><p>1</p></td>
 <td><p>「ばらばら」 「幸せの背くらべ」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「バタフライはフリー」L. ガーシュ作／黒田絵美子訳／グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「創立記念祭」A. チェーホフ作／出戸一幸訳／ピーター・オイストン演出 「結婚披露宴」A. チェーホフ作／出戸一幸訳／ピーター・オイストン演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「二重の不実」マリヴォー作／鈴木康司訳／井上思演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「毒薬と老嬢」黒田絵美子演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2000</p></td>
 <td><p>3</p></td>
 <td><p>「幸せの背くらべ」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「緋い記憶」高橋克彦作／原田一樹、北澤秀人脚色／原田一樹演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「マカロニ金融」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>「バタフライはフリー」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「たそがれてキッチン」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p>「裸足で散歩」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001</p></td>
 <td><p>2</p></td>
 <td><p>「アウト・オブ・オーダー」R. クーニー作／黒田絵美子訳／グレッグ・デール演出</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3 6</p></td>
 <td><p>「幸せの背くらべ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「四季の庭」井上思、北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「くたばれハムレット」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「明日は天気」岸田國士作／原田一樹演出 「可児君の面会日」岸田國士作／原田一樹演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2002</p></td>
 <td><p>3</p></td>
 <td><p>「毒薬と老嬢」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「毒薬と老嬢」グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>「法王庁の避妊法」飯島早苗、鈴木裕美作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「嫁も姑も皆幽霊」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>「バタフライはフリー」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「アウト・オブ・オーダー」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「オスカー」<a href="../Page/鵜山仁.md" title="wikilink">鵜山仁</a>演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2003</p></td>
 <td><p>3</p></td>
 <td><p>「幸せの背くらべ」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「記憶の窓」高橋克彦作／道又力脚色／原田一樹演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「さあ、どうする！？」R. クーニー作／黒田絵美子訳／グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「幸せの背くらべ」E. オールビー作／丹野郁弓訳／高橋昌也演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「裸足で散歩」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p>「美しい日々」松田正隆作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004</p></td>
 <td><p>2</p></td>
 <td><p>「おためし遊ばせ」池田政之作・演出 「バタフライはフリー」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3 5</p></td>
 <td><p>「毒薬と老嬢」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「―初恋」土田英生作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「オスカー」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「宴会泥棒」G. ｽｶﾙﾆｯﾁ＆R. ﾀﾗｳﾞｰｼ作／釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「日暮町風土記」永井愛作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005</p></td>
 <td><p>1</p></td>
 <td><p>「おかしな二人　女性版」N. サイモン作／酒井洋子訳／北澤秀人演出 「嫁も姑も皆幽霊」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「幸せの背くらべ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>「喜劇 桜の園」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「オスカー」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「犯人は私だ！」G. ベール＆L. ベルヌイユ作／幸田礼雅訳／グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「ニールとサイモン そしてガーファンクル」東野ひろあき作／北澤秀人演出 「おためし遊ばせ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「ボビー」N. ヘイスティ作／黒田絵美子訳／黒田一樹演出 「さあ、どうする！？」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006</p></td>
 <td><p>1</p></td>
 <td><p>「宴会泥棒」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>「一人二役 DOUBLE JEU」R. トマ作／仁科余志夫訳／釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3 4</p></td>
 <td><p>「宴会泥棒」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>「ハーヴィーからの贈り物」M. チェイス作／黒田絵美子訳／グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「ドーターズ Daughters」J. モーガン・エヴァンス作／鴇沢麻由子訳／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「アルバニアンドリーム」小池竹見作／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007</p></td>
 <td><p>1</p></td>
 <td><p>「宴会泥棒」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>「おためし遊ばせ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「喜劇 桜の園」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>「極楽ホームへいらっしゃい」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「<a href="../Page/佐賀のがばいばあちゃん.md" title="wikilink">佐賀のがばいばあちゃん</a>」<a href="../Page/島田洋七.md" title="wikilink">島田洋七</a>原作／青木豪脚本／釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「マグリアの花たち」R. ハーリング作／黒田絵美子訳／北澤秀人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「オスカー」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p>1</p></td>
 <td><p>「ジゼルと粋な子供たち」F. カンポ作／和田誠一訳／グレッグ・デール演出</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「ホテルZOO」小山ゆうな演出／川端槇二監修 「嫁も姑も皆幽霊」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「殺人同盟」竹邑類演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「宴会泥棒」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「佐賀のがばいばあちゃん」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>「オーカッサンとニコレット」川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009</p></td>
 <td><p>1</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「OH！ マイパパ」R. クーニー作／黒田絵美子訳／大江祥彦演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4 5</p></td>
 <td><p>「佐賀のがばいばあちゃん」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「ハーヴィーからの贈り物」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「花の元禄後始末」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「OH！ マイママ」ブリケール＆ラセイグ作／佐藤康訳／釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p>「三億ぼっちでどうなるもんかよ」D. カマンカ作／梅田晴夫訳／小山ゆうな演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010</p></td>
 <td><p>1</p></td>
 <td><p>「佐賀のがばいばあちゃん」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>「シャルルとアンヌと社長の死体」M. ガブリエル作／池田政之脚色・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「佐賀のがばいばあちゃん」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>「ダルマーさんに会いたい」V. カターエフ作／和田誠一訳／竹邑類演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>「ペン」バリエ＆グレディ作／住田未歩訳／釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「テーブルに十三人」G. ソヴァション作／佐藤康訳／竹邑類演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011</p></td>
 <td><p>1</p></td>
 <td><p>「嫁も姑も皆幽霊」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>「ササフラスの枝にそよぐ風」竹邑類演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>「宴会泥棒」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「オスカー」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>「水族館」グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8</p></td>
 <td><p>「姑は推理作家」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「検察官」ゴーゴリー作／浦雅春訳／セミョン・ブーリバ演出 「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012</p></td>
 <td><p>2</p></td>
 <td><p>「いやます苦痛 ブールヴァール小品集」川端槙二演出／木村有里ﾄﾞﾗﾏｱﾄﾞﾊﾞｲｻﾞｰ 「親父の説教」川端槙二演出／木村有里ﾄﾞﾗﾏｱﾄﾞﾊﾞｲｻﾞｰ</p>
@@ -1706,184 +1716,184 @@
 <p>「警鐘」川端槙二演出／木村有里ﾄﾞﾗﾏｱﾄﾞﾊﾞｲｻﾞｰ</p>
 <p>「ドーヴァーの税関」川端槙二演出／木村有里ﾄﾞﾗﾏｱﾄﾞﾊﾞｲｻﾞｰ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>「幸せの値段 RU Happy？」J. パトリック作／安達紫帆訳／デボラ・ディスノー演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「佐賀のがばいばあちゃん」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 <td><p>「ポプラの館」ラビッシュ作／佐藤康訳／木村有里演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10 11</p></td>
 <td><p>「宴会泥棒」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013</p></td>
 <td><p>1</p></td>
 <td><p>「宴会泥棒」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「恋の冷凍保存」釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「宴会泥棒」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「花はらんまん」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9 11</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「十字花」池田政之脚色・大江祥彦演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014</p></td>
 <td><p>1</p></td>
 <td><p>「OH！ マイママ」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>「舞台は夢」池田政之脚色／竹邑類、川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「人質に乾杯」山﨑哲史作／川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「法廷外裁判」H. セシル作／池田政之脚本・演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015</p></td>
 <td><p>3</p></td>
 <td><p>「ミントティー、それともレモン…？」D. ｵﾄﾞｩｸｰﾙ＆P. ｵﾄﾞｩｸｰﾙ作／佐藤康訳／山上優演出</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「月の小鳥たち」山﨑哲史脚色／池田政之演出 「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7 9</p></td>
 <td><p>「殺人同盟」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p>「旦那様は狩りにお出かけ」G. フェドー作／池田政之脚色／大江祥彦演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016</p></td>
 <td><p>3</p></td>
 <td><p>第1回NLTコメディ新人戯曲賞公演、 　「アパイピシピテペルプ」ふじもり夏香作／川端槙二演出／木村有里ｽﾃｰｼﾞｱﾄﾞﾊﾞｲｰｻﾞｰ、</p>
 <p>　「お皿の前でごゆるりと 〜Who's Bad?〜」大塚祥平作／池田政之演出</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「ペンキ塗りたて -残された肖像画‐」グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7 9</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「劇場 -汝の名は女優‐」S. モーム作／池田政之訳・脚本・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11 12</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
 <td><p>4</p></td>
 <td><p>第2回NLTコメディ新人戯曲賞公演、 　「その牙に気をつけろ」新堂陣作／池田政之演出</p>
 <p>　「脱退会議」佐藤雅俊作／加納健次演出</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>「OH！ マイママ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>「坊やに下剤を」木村有里演出 「劇場の異邦人」川端槇二演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「何をしてたの五十年」釜紹人演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018</p></td>
 <td><p>1</p></td>
 <td><p>劇団NLT、コメディ路線50周年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1 2</p></td>
 <td><p>「毒薬と老嬢」賀原夏子、グレッグ・デール演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
 <td><p>「マカロニ金融」池田政之脚色／大江祥彦演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p>「あなたの足元お借りします」山﨑哲史作／加納健次、池田政之演出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>「やっとことっちゃうんとこな」池田政之作・演出</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>「毒薬と老嬢」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019</p></td>
 <td><p>４</p></td>
 <td><p>第４回NLTコメディ新人戯曲賞公演 「半永久的なWIFE」渡辺朋絵作／川端槙二演出</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/マグノリアの花たち" title="wikilink">マグノリアの花たち</a>」ロバート・ハーリング作／釜紹人演出</p></td>
 <td></td>
@@ -1895,22 +1905,29 @@
 
 ## NLTコメディ新人戯曲賞
 
-NLTの主に扱う喜劇作品は、良質な物を見つけることが容易ではないと、広く作品を募集すると共に、良質な作品を生み出す作家の育成の為、賞の設立と同時に**第二文芸部**が設立された。これには過去受賞者が所属している。
+フランスを中心とした欧米コメディを上演してきたNLTが、新たな作品とコメディの書ける作家の発掘とその育成を目的に2015年に設立した一般公募型の戯曲賞。
 
-なお、この賞には**再応募枠**という独自の規定枠が作られ、選考された作品には審査員や劇作家の池田政之による選評が送られ、翌年に同作品の推敲での応募が認められる。
+受賞作は主に翌年の春、毎年上演されている。
 
-| 年     | 回                                    | 賞                    | 受賞作／作者 |
-| ----- | ------------------------------------ | -------------------- | ------ |
-| 2015  | 1                                    | 正賞                   | なし     |
-| 佳作    | 「アパイピシピテペルプ」ふじもり夏香 「お皿の前で、ごゆるりと」大塚祥平 |                      |        |
-| 審査員特別 | 「あなたの足元お借りします」山崎哲史                   |                      |        |
-| 2016  | 2                                    | 正賞                   | なし     |
-| 佳作    | 「その牙に気をつけろ！」新堂陣                      |                      |        |
-| 審査員特別 | 「脱退会議」佐藤雅俊                           |                      |        |
-| 2017  | 3                                    |                      | 該当作なし  |
-| 2018  | 4                                    | 正賞                   | なし     |
-| 佳作    | なし                                   |                      |        |
-| 審査員特別 | 「ワケアリ                                | 」松岡翔 「半永久的なWIFE」渡辺朋絵 |        |
+なお、この賞には**再応募枠**という独自の規定枠が作られ、審査員や劇作家の池田政之の選評をもとに推敲の上、翌年に同作品での再応募が認められている。
+
+また受賞者は、戯曲賞設立と同時に新設された**第二文芸部**に所属することもできる。その中から、2019年に[BSテレ東ドラマ](../Page/BSテレビ東京.md "wikilink")「[痛快時代劇『やじ×きた 元祖東海道中膝栗毛』](https://ja.wikipedia.org/wiki/やじ×きた_元祖・東海道中膝栗毛 "wikilink")」（池田政之が第1話と全話監修）で、[山﨑哲史](https://ja.wikipedia.org/wiki/山﨑哲史 "wikilink")、ふじもり夏香、大塚祥平、佐藤雅俊、演技部の[松岡翔](https://ja.wikipedia.org/wiki/松岡翔 "wikilink")がテレビ脚本ドラマデビューを果たした。
+
+| 年     | 回                                                     | 賞                               | 受賞作／作者 |
+| ----- | ----------------------------------------------------- | ------------------------------- | ------ |
+| 2015  | 1                                                     | 正賞                              | なし     |
+| 佳作    | 「アパイピシピテペルプ」ふじもり夏香（2016年3月上演） 「お皿の前で、ごゆるりと」大塚祥平（同時上演） |                                 |        |
+| 審査員特別 | 「あなたの足元お借りします」山崎哲史（2018年8月上演）                         |                                 |        |
+| 2016  | 2                                                     | 正賞                              | なし     |
+| 佳作    | 「その牙に気をつけろ！」新堂陣（2017年4月上演）                            |                                 |        |
+| 審査員特別 | 「脱退会議」佐藤雅俊（同時上演）                                      |                                 |        |
+| 2017  | 3                                                     |                                 | 該当作なし  |
+| 2018  | 4                                                     | 正賞                              | なし     |
+| 佳作    | なし                                                    |                                 |        |
+| 審査員特別 | 「ワケアリ                                                 | 」松岡翔 「半永久的なWIFE」渡辺朋絵（2019年4月上演） |        |
+| 2019  | 5                                                     | 正賞                              | なし     |
+| 佳作    | 「病める時も、健やかなる時も」武 浩幸                                   |                                 |        |
+| 審査員特別 | 「この度は、誠にご愁傷様で……」小島恒夫                                  |                                 |        |
 
 ## ディスコグラフィ
 

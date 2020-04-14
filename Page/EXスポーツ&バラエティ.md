@@ -1,4 +1,4 @@
-> この記事は[EX\&](https://ja.wikipedia.org/wiki/EX\&)から翻訳されています。
+> この記事は[EXスポーツ\&バラエティ](https://ja.wikipedia.org/wiki/EXスポーツ\&バラエティ)から翻訳されています。
 
 
 **EXスポーツ&バラエティ**（**EX SPORTS & VARIETY**）は、[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")の連結子会社\[1\]の株式会社[トップ・マーシャル](../Page/トップ・マーシャル.md "wikilink")が運営する[スポーツ](../Page/スポーツ.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。

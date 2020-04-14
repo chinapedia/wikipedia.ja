@@ -1,4 +1,4 @@
-> この記事は[Laka Laka La](https://ja.wikipedia.org/wiki/Laka_Laka_La)から翻訳されています。
+> この記事は[シャカビーチ〜Laka Laka La〜](https://ja.wikipedia.org/wiki/シャカビーチ〜Laka_Laka_La〜)から翻訳されています。
 
 
 「**シャカビーチ〜Laka Laka La〜**」（シャカビーチ ラカ ラカ ラ）は、[UVERworld](../Page/UVERworld.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。

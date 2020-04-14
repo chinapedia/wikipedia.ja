@@ -1,4 +1,4 @@
-> この記事は[Myself \(Changin\' My Life\)](https://ja.wikipedia.org/wiki/Myself_\(Changin\'_My_Life\))から翻訳されています。
+> この記事は[Myself \(Changin\' My Lifeの曲\)](https://ja.wikipedia.org/wiki/Myself_\(Changin\'_My_Lifeの曲\))から翻訳されています。
 
 
 「**Myself**」（マイセルフ）[Changin' My Lifeの](https://ja.wikipedia.org/wiki/Changin'_My_Life "wikilink")3rdシングル。

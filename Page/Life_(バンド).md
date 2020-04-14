@@ -1,4 +1,4 @@
-> この記事は[Life \(\)](https://ja.wikipedia.org/wiki/Life_\(\))から翻訳されています。
+> この記事は[Life \(バンド\)](https://ja.wikipedia.org/wiki/Life_\(バンド\))から翻訳されています。
 
 
 **Life**（ライフ）は[名古屋](../Page/名古屋.md "wikilink")出身の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年結成。2002年[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりデビュー。

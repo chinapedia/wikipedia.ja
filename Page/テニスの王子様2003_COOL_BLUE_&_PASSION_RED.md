@@ -1,4 +1,4 @@
-> この記事は[2003 COOL BLUE \& PASSION RED](https://ja.wikipedia.org/wiki/2003_COOL_BLUE_\&_PASSION_RED)から翻訳されています。
+> この記事は[テニスの王子様2003 COOL BLUE \& PASSION RED](https://ja.wikipedia.org/wiki/テニスの王子様2003_COOL_BLUE_\&_PASSION_RED)から翻訳されています。
 
 
 **テニスの王子様2003 COOL BLUE**（テニスのおうじさま2003 クールブルー）および**テニスの王子様2003 PASSION RED**（テニスのおうじさま2003 パッションレッド）は、[2003年](../Page/2003年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より同時発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ソフト。

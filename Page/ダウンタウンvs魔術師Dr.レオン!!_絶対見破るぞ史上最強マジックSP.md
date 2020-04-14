@@ -1,4 +1,4 @@
-> この記事は[vsDr.!! SP](https://ja.wikipedia.org/wiki/vsDr.!!_SP)から翻訳されています。
+> この記事は[ダウンタウンvs魔術師Dr.レオン!! 絶対見破るぞ史上最強マジックSP](https://ja.wikipedia.org/wiki/ダウンタウンvs魔術師Dr.レオン!!_絶対見破るぞ史上最強マジックSP)から翻訳されています。
 
 
 『**ダウンタウンvs魔術師Dr.レオン\!\! 絶対見破るぞ史上最強マジックSP**』（ダウンタウンバーサスまじゅつしドクターレオンぜったいみやぶるぞしじょうさいきょうマジックスペシャル）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特番である](../Page/特別番組.md "wikilink")。

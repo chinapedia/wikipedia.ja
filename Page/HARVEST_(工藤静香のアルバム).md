@@ -1,4 +1,4 @@
-> この記事は[HARVEST \(\)](https://ja.wikipedia.org/wiki/HARVEST_\(\))から翻訳されています。
+> この記事は[HARVEST \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/HARVEST_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**HARVEST**』（ハーヴェスト）は、[工藤静香](../Page/工藤静香.md "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TVRT350](https://ja.wikipedia.org/wiki/TVRT350)から翻訳されています。
+> この記事は[TVR・T350](https://ja.wikipedia.org/wiki/TVR・T350)から翻訳されています。
 
 
 **TVR・T350**とは、英国[TVR](../Page/TVR.md "wikilink")がかつて販売していた[自動車](../Page/自動車.md "wikilink")である。[TVR](../Page/TVR.md "wikilink")が2002年から2006年に製造した[スポーツカー](../Page/スポーツカー.md "wikilink")で [TVR Tamoraをベースにしており](../Page/TVR・タモーラ.md "wikilink")、 [TVRの](../Page/TVR・タモーラ.md "wikilink") 3.6リットルの[Speed Sixエンジン](https://ja.wikipedia.org/wiki/TVR・Speed_Six "wikilink")　を搭載し生産。T350にはクーペとタルガのバージョンがあり、クーペのバージョンはT350C、ターガのバージョンはT350Tとして知られていた。 T350は後に[TVRサガリスの基地を形成した](../Page/TVR・サガリス.md "wikilink")\[1\]。 [左](https://ja.wikipedia.org/wiki/ファイル:TVR_3605cc_registered_March_2004.jpg "wikilink")

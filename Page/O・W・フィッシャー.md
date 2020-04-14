@@ -1,4 +1,4 @@
-> この記事は[OW](https://ja.wikipedia.org/wiki/OW)から翻訳されています。
+> この記事は[O・W・フィッシャー](https://ja.wikipedia.org/wiki/O・W・フィッシャー)から翻訳されています。
 
 
 **O・W・フィッシャー**（**O. W. Fischer**, [1915年](../Page/1915年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")）は、[オーストリア](../Page/オーストリア.md "wikilink")の俳優。略さずに**オットー・ウィルヘルム・フィッシャー**（Otto Wilhelm Fischer）とも。

@@ -1,4 +1,4 @@
-> この記事は[Triple A \(\)](https://ja.wikipedia.org/wiki/Triple_A_\(\))から翻訳されています。
+> この記事は[Triple A \(アニメ制作会社\)](https://ja.wikipedia.org/wiki/Triple_A_\(アニメ制作会社\))から翻訳されています。
 
 
 **株式会社Triple A**（トリプルエイ）は、[アニメーション](../Page/アニメーション.md "wikilink")の企画・制作を主な事業内容とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[BLEACH The DiamondDust Rebellion ](https://ja.wikipedia.org/wiki/BLEACH_The_DiamondDust_Rebellion_)から翻訳されています。
+> この記事は[劇場版BLEACH The DiamondDust Rebellion もう一つの氷輪丸](https://ja.wikipedia.org/wiki/劇場版BLEACH_The_DiamondDust_Rebellion_もう一つの氷輪丸)から翻訳されています。
 
 
 『**劇場版BLEACH The DiamondDust Rebellion もう一つの氷輪丸**』（げきじょうばん ブリーチ ザ ダイアモンドダスト リベリオン もうひとつのひょうりんまる）は、[2007年](../Page/2007年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[東宝](../Page/東宝.md "wikilink")系で公開された漫画『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")2作。

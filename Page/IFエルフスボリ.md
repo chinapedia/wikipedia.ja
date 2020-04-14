@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[IFエルフスボリ](https://ja.wikipedia.org/wiki/IFエルフスボリ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Boras_arena_17april_2005.jpg "wikilink")

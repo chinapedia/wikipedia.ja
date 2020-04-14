@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ログインテーブルトークRPGシリーズ](https://ja.wikipedia.org/wiki/ログインテーブルトークRPGシリーズ)から翻訳されています。
 
 
 **ログインテーブルトークRPGシリーズ**は、日本の出版社・[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")が発行しているテーブルトークRPG（TRPG）関係の書籍レーベル。元々は**ログアウトテーブルトークRPGシリーズ**というレーベル名だったが、2000年に[アスキーのグループ再編で](../Page/アスキー_\(企業\).md "wikilink")[アスペクトから新設された](../Page/アスペクト_\(企業\).md "wikilink")[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")へ事業譲渡されたことに伴い、レーベル名が変更された。

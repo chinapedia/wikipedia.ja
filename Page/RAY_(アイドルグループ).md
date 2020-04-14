@@ -1,4 +1,4 @@
-> この記事は[RAY \(\)](https://ja.wikipedia.org/wiki/RAY_\(\))から翻訳されています。
+> この記事は[RAY \(アイドルグループ\)](https://ja.wikipedia.org/wiki/RAY_\(アイドルグループ\))から翻訳されています。
 
 
 **RAY**（レイ）は日本の[女性アイドルグループである](https://ja.wikipedia.org/wiki/アイドル "wikilink")。
@@ -40,7 +40,7 @@
   - 6月17日(月)、主催イベント「PREDAWN vol.2」開催。(渋谷 Milkyway)
   - 6月19日(水)、『[中野ロープウェイ](../Page/中野ロープウェイ.md "wikilink")開店10周年記念ライブ！千秋楽』に出演。(新宿 LOFT) この日のライヴから白川さやかの膝の調子が悪く、大事をとって椅子に座って歌のみでのパフォーマンスとなる。
   - 6月23日(日)、『「ゼロからでも始められるアイドル運営」刊行5周年記念ライブ＆トーク「17歳」東京編・昼の部』(渋谷 LOFT9)、同日夜「ステキなタイミング vol.5」(LOFT HEAVEN)にそれぞれ出演。
-  - 6月27日(木)、グループ初となる「バタフライエフェクト」MV公開\[7\]。
+  - 6月27日(木)、グループ初となる「バタフライエフェクト」Official Music Video を公開\[7\]。
   - 6月29日(土)、初遠征。京都にてオフ会「RAYと観光しよう」を開催。メンバーによる解説付き京都・東寺観光と、梅小路公園でチェキ会を行った。また、同日夜に滋賀県大津市にて「フラクタル！！(ナイト)」に出演。(滋賀 U★STONE) この日のライヴから月日が舞台出演の為ライヴ、物販、遠征共に不参加となる。
   - 6月30日(日)、xoxo(Kiss\&Hug) EXTREME & RAY合同オフ会「50分完全サイレントオフ会」を開催。(大阪市)また、同日「HUG！BUG！FAT！」に出演。(北堀江 club vijon)
   - 7月1日(月)、「COSMICBOX vol.89 - SUMMER SPECIAL -」に出演。(渋谷 eggman) この日のライヴから甲斐莉乃の喉の調子が悪く、ライブではダンスのみでのパフォーマンス、物販では筆談となる。また、白川さやかは膝の故障により着席での歌唱のみ、月日は舞台出演の為不参加となり、内山結愛のみ五体満足での参加となった。この日、RAYの[公式Facebook](https://m.facebook.com/RAY.world.official/)が開設された。
@@ -83,43 +83,101 @@
   - 9月21日(土)、昼「すみれ せぷてんばー生誕祭 〜女は十歳で天使 十五歳で聖者 四十歳で悪魔 八十歳で魔女〜」(渋谷 DESEO mini)、夜「吉田豪×南波一海の“このアイドルが見たい” 2019秋鰹」(渋谷 LOFT 9)に出演。
   - 9月22日(日)、主催イベント「PREDAWN vol.5」を開催。Ringo Deathstarr 楽曲提供となるオリジナル楽曲「Meteor」初披露。(渋谷 Milkyway)
   - 9月23日(月)、「大塚Hearts+ 7th anniversary「Bravo\!\! Bravo\!\! vol.1」に出演。(大塚Hearts+、大塚Hearts Next)
-  - 9月28日(土)、主催イベント「白川さやか生誕祭+RAY長めライブ」を開催。(原宿 STROBE CAFE) 白川さやか生誕パートではcollectionsのクラウドファンディングにて支援達成した「キラキラなアイドルソングを歌いたい（タイトル未定）」を初披露。ライヴ後のMCにて白川さやかが高校受験に専念する為、2019年11月6日〜2020年2月末頃までの期間、活動休止することが発表された。
+  - 9月28日(土)、主催イベント「白川さやか生誕祭+RAY長めライブ」を開催。(原宿 STROBE CAFE) 白川さやか生誕パートではcollectionsのクラウドファンディングにて支援達成した「キラキラなアイドルソングを歌いたい（タイトル未定）」を初披露。ライヴ後のMCにて白川さやかが高校受験に専念する為、2019年11月6日〜2020年3月頃までの期間、活動休止することが発表された。
   - 9月28日(土)、甲斐莉乃の個展『403 Forbidden』が開催。詳細はcollections該当欄を参照。 (Ohshima Fine Art)
   - 9月29日(日)、内山結愛が「Total Feedback」にてDJ出演。(KOENJI HIGH メインフロア)
   - 10月3日(木)、雨宮未來(NaNoMoRaL)主催「にこにこどーなつ vol.01」に出演。(下北沢 ERA)
   - 10月5日(土)、「ギュウ農フェス秋のSP 爆音大収穫祭 road to 2020」に出演。(新木場 STUDIO COAST 野外ステージ)
-  - 10月6日(日)、「きみとぼくの革命 presents 革命の続きVol.2」に出演。(新宿 SAMURAI)　 また、10/30(水)1stシングル『Blue』リリース決定のプレスリリースを発表\[9\]\[10\]。米シューゲイザーバンドRingo Deathstarr楽曲提供の「Meteor」をはじめ、管梓(ForTracyHyde)、ハタユウスケ(cruyff in the bedroom)と実力派シューゲイザークリエイーターによる「バタフライエフェクト」「世界の終わりは君とふたりで」を含むアイドルソングの新境地を開く３曲を収録。 1st シングルリリースにあたって、自主レーベル「DISTORTED RECORDS」設立と新ビジュアル解禁も合わせて発表された。(レーベルロゴデザイン：甲斐莉乃)
+  - 10月6日(日)、「きみとぼくの革命 presents 革命の続きVol.2」に出演。(新宿 SAMURAI)　 また、10/30(水)に1stシングル『Blue』リリース決定のプレスリリースを発表\[9\]\[10\]。米シューゲイザーバンド[Ringo Deathstarr楽曲提供の](https://ja.wikipedia.org/wiki/リンゴ・デススター "wikilink")「Meteor」をはじめ、管梓(ForTracyHyde)、ハタユウスケ(cruyff in the bedroom)と実力派シューゲイザー・クリエイーターによる「バタフライエフェクト」「世界の終わりは君とふたりで」を含むアイドルソングの新境地を開く３曲を収録。 1st シングルリリースにあたって、自主レーベル「DISTORTED RECORDS」設立と新ビジュアル解禁も合わせて発表された。(レーベルロゴデザイン：甲斐莉乃)
   - 10月11日(金)、甲斐莉乃の初となる個展 『403 Forbidden』が閉幕。 (水道橋 Ohshima Fine Art)
   - 10月12日(土)、台風19号の影響で初の北海道遠征「NoMaps MUSIC PARTY IDOL DIVERSITY」出演キャンセルに伴い北海道オフ会「黒い変人オフ会」(札幌市 創成川公園)も中止された。
   - 10月13日(日)、主催イベント「PREDAWN vol.6」 (新宿 HOLIDAY)の開催を延期。代替日は11月16(土)昼帯(目黒鹿鳴館)を予定。
   - 10月15日(火)、初となるCDリリースイベントを行う。ライブ25分と特典会を実施。(タワーレコード渋谷店5階)
-  - 10月17日(木)、EMOE主催「カガクハンノウ vol.3」に出演。(新宿 motion)
-  - 10月18(金)、19(土)、月日が出演した自主映画「ヴァージニティーブルーズ」(監:瀧 来夢)の上映会開催。①武蔵野美術大学進級制作展2019\[11\] 10/18 12時〜、10/19 10時〜、15時〜 (武蔵野美術大学鷹の台キャンパス 12号館ビデオアトリエ)
-  - 10月19日(土)、初の海外遠征で台湾の台北にてTotal Feedbackに出演。(台北 The WALL)
-  - 10月20日(日)、オフ会「RAYと雙連朝市をめぐろう！」開催。RAYと一緒にローカル感満天の朝市を観光しよう 参加者の皆さん一人ひとりに思いを込めて、メンバーがその場で買ったものをプレゼント！
-  - 10月22日(火)、「new encounters SPvol.25」、「new encounters SPvol.26」にそれぞれ出演。(渋谷 VUENOS)
+  - 10月17日(木)、EMOE主催「カガクハンノウ vol.3」に出演、予約特典「RAYトレカ」第三弾開始 (新宿 motion)
+  - 10月18(金)、19(土)、月日が出演した自主映画「ヴァージニティーブルーズ」(監:瀧 来夢)の上映会開催。①武蔵野美術大学進級制作展2019\[11\] <s>10/18 12時〜</s>、10/19 10時〜、15時〜 (武蔵野美術大学鷹の台キャンパス 12号館ビデオアトリエ)、<s>11/18</s>
+  - 10月19日(土)、初の海外遠征で台湾の台北にてTotal Feedbackに出演。『Blue』の世界最速先行販売。この日のみライブ動画撮影可。(台北 The WALL)
+  - 10月20日(日)、オフ会「RAYと雙連朝市をめぐろう！」開催。(RAYと一緒にローカル感満天の朝市を観光しよう。参加者の皆さん一人ひとりに思いを込めて、メンバーがその場で買ったものをプレゼント！)
+  - 10月22日(火)、「new encounters SP vol.25」、「new encounters SP vol.26」にそれぞれ出演。(渋谷 VUENOS)
   - 10月25日(金)、ニコニコ生放送「IDOL & READ チャンネル vol.23」に生出演。
-  - 10月26日(土)、[「Meteor」MV](https://www.youtube.com/watch?v=Z_l26v8R9v8&feature=youtu.be)公開\[12\]\[13\]。
+  - 10月26日(土)、「Meteor」MV公開\[12\]\[13\]。
   - 10月27日(日)、Total Feedbackに出演。(KOENJI HIGH)
   - 10月30日(水)、 リリースとしては初となる1stシングル『Blue』発売日。
   - 10月31日(木)、1stシングル『Blue』リリースイベント。(タワーレコード新宿店)
-  - 11月1日(金)、1stシングル『Blue』リリースイベント「エクストロメ　DISTORTED night！」に出演。(渋谷 Glad)
+  - 11月1日(金)、1stシングル『Blue』リリースイベント「エクストロメ　DISTORTED night！」に出演。(渋谷 Glad)、1stシングル『Blue』が AppleMusic、Spotify、OTOTOYなど各種サブスク、配信サービスから配信開始。
   - 11月2日(土)、collections「甲斐莉乃〜竹馬会〜」開催。(代々木公園)
-  - 11月3日(日)、Hearts＋ presents『秋のYOIMACHI』に出演。(大塚 Hearts+)
-  - 11月5日(火)、「エクストロメ Final Frontier」に出演。(渋谷 WWW)
+  - 11月3日(日)、Hearts＋ presents「秋のYOIMACHI」に出演。(大塚 Hearts+)
+  - 11月5日(火)、「エクストロメ Final Frontier」に出演。(渋谷 WWW)　受験のため白川さやか活動休止前ラストライブ。
   - 11月9日(土)、「内山結愛生誕祭＋RAY長めライブ」を開催。(原宿 STROBE CAFE)
   - 11月10日(日)、1stシングル『Blue』リリースイベント「エクストロメ FREE EVENT\!\!」(TOWER RECORDS 渋谷店 B1 CUTUP STUDIO)、「エクストロメ〜大塚クリームシチュー物語～」(大塚Hearts Next)に出演。
   - 11月12日(火)、1stシングル『Blue』リリースイベントに出演。(タワーレコード 渋谷店5Ｆ)
   - 11月14日(木)、エクストロメ presents RAY 1st single「Blue」リリースイベントに出演。(新宿 Loft BAR SPACE)
-  - 11月16日(土)、「PREDAWN vol.6」「アナザー甲斐莉乃 第一弾」を開催。(目黒 鹿鳴館)
-  - 11月17日(日)、「MIC RAW RUGA(laboratory) 定期公演 HIGH-HO vol.12」に出演。(下北沢BASEMENTBAR)
+  - 11月16日(土)、昼「PREDAWN vol.6」「アナザー甲斐莉乃 第一弾」を開催。1stシングル『Blue』のジャケットステッカー+ RAYの自主レーベル「DISTORTED RECORDS」のロゴステッカー(甲斐莉乃デザイン)販売開始(目黒 鹿鳴館)。夜、「小鳥遊すわの座覧会\!\!」に甲斐莉乃がゲスト出演。(よろずや駒沢)
+  - 11月17日(日)、「MIC RAW RUGA(laboratory) 定期公演 HIGH-HO vol.12」に出演。(下北沢 BASEMENT BAR)、RAY公式You Tubeアカウントにて新曲「no title」Official Audioを公開。
   - 11月18日(月)、月日が「月日と優美〜邂逅〜」主催。(ゲスト:是枝優美)(カラオケONE 銀座店)
   - 11月23日(土・祝)、「NIGHT ON THE PLANET！presents『MAGICAL GAMES vol.5』」「アナザー甲斐莉乃 第二弾」( 西永福 JAM)、「1stシングル『Blue』リリースイベント」(タワーレコード 渋谷店 5F)に出演。
   - 11月24日(日)、「武井麻里子presents『エレ日。vol.16』に出演。「アナザー甲斐莉乃 第一弾」開催。(下北沢 MOSAiC)、夜は内山結愛のみ「Total Feedback」(高円寺HIGH)にDJで出演。
   - 11月27日(水)、「『ギュウ農フェスクロニクル』お渡し会」に出演。(ジュンク堂書店 池袋店 1F)
   - 11月29日(金)、「LiLii Kaona presents Surrounded by Organica vol.11」に出演。(青山月見ル君想フ)
   - 11月30日(土)、Instagramにて生配信「RAYのツキイチ」開催(14:00〜15:00)。
-  - 12月1日(日)、昼「new encounters SPvol.27」に出演／「アナザー甲斐莉乃 第四弾」開催、「new encounters SPvol.28」に出演／「アナザー甲斐莉乃 第五弾」開催。(渋谷 VUENOS)
+  - 12月1日(日)、昼「new encounters SP vol.27」に出演／「アナザー甲斐莉乃 第四弾」開催、「new encounters SP vol.28」に出演／「アナザー甲斐莉乃 第五弾」開催。(渋谷 VUENOS)
+  - 12月3日(火)、「エクストロメ　FINAL FRONTIER 【episode ⅱ】(1stシングル『Blue』リリースイベント)」(タワーレコード渋谷店B1 CUTUP STUDIO )に出演。
+  - 12月5日(木)、「ハミパ –ハミシス史上最強照明ライブ-」 (マウントレーニアホール渋谷)に出演。
+  - 12月6日(金)、「ユレルランドスケープ主催カルチャー・イベント『メランコリックシティ Vol.0』」(渋谷Club Asia)に出演。
+  - 12月7日(土)、「エクストロメ Just Like Honey…」 (渋谷Glad)に出演。
+  - 12月9日(月)、「choir loft -アナスィ〜★スペシャル-」に(新宿LOFT)出演。この日から月日が扁桃摘出手術のため活動を一時休止。内山結愛と甲斐莉乃の二人体制にて・・・・・・・・・「1998-」を披露。
+  - 12月12日(木)、「令和アイドル見聞録〜今年も大変お世話になりました！チケット代金全額推しグループに入ります3DaysSP！！！〜」(新宿SAMURAI)に出演。MC等で初の試みが多くみられた。
+  - 12月14日(土)、「1stシングル『Blue』リリースイベント」(タワーレコード錦糸町店)。
+  - 12月18日(水)、「春のYOIMACHIプレイベント『PRE-MACHI〜春よ来い〜』」(大塚 Hearts＋)に出演。
+  - 12月19日(木)、ヨネ子主催「Adult Baby Fes✌️DAY1.DAY2」(高円寺LOFT X)に出演。
+  - 12月20日(金)、「MAD FRIDAY\!」 (渋谷O-Nest)に出演。
+  - 12月22日(日)、「Total Feedback」(高円寺HIGH)に出演。
+
+<!-- end list -->
+
+  - 12月28日(土)、昼「PREDAWN vol.7」を開催。(渋谷Milkyway)内山結愛と甲斐莉乃の二人体制にてピノキオピー「東京マヌカン」を披露。夜「甲斐莉乃、甲斐莉乃を語る～酒を飲みながら振り返る個人史と未来～」を開催。(渋谷SANKAKU)
+  - 12月29日(日)、「MAD SUNDAY\!」 (WOMB-LIVE)に出演。
+  - 12月31日(火)、「KOENJI HIGH 12th Anniversary 前夜祭」(高円寺 HIGH)に出演。
+
+### 2020年
+
+  - 1月4日(土)、昼「はちゅトークVol.3〜拡大版歌舞伎町をジャック〜」(新宿clubSCIENCE)、夜「ドキッ！RAYだらけの新春大バラエティ祭り」(新宿club SCIENCE)に出演。
+  - 1月5日(日)、「武井麻里子presents『エレ日。vol.17』」に出演。(下北沢 MOSAiC)
+  - 1月12日(日)、昼「Pop'n Party」(新宿LOFT)に出演、このイベントから扁桃摘出手術で活動休止中だった月日が復帰、内山結愛、甲斐莉乃、月日の三人体制に。夜「PREDAWN vol.8」(渋谷Milkyway)を開催。
+  - 1月13日(月・祝)、「甲斐莉乃と岡本太郎美術館見学 \~打ち上げ飲み会&アナザー甲斐莉乃チェキ会も！\~」を開催。(川崎市岡本太郎美術館と最寄りのお店)
+  - 1月15日(水)、「SOL主催公演 MONTAGE scene.8」に出演。(TSUTAYA O-crest)
+  - 1月16日(木)、「エクストロメ ROUND TRIP‼」に出演。(新宿LOFT-HALL\&BAR)
+  - 1月18日(土)、振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」に月日が出演。(神楽坂 セッションハウス)
+  - 1月19日(日)、振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」(神楽坂 セッションハウス)に月日が出演。「Total Feedback」(高円寺 HIGH)にDJにて内山結愛が出演。
+  - 1月20日(月)、「shibuya luisant Vol.5」に出演。(TSUTAYA O-Crest)
+  - 1月25日(土)、「cuatro vol.2」に出演。(新宿MARZ)
+  - 1月29日(水)、「RINGO DEATHSTARR 来日ツアー 東京公演」に出演。(吉祥寺CLUB SEATA)
+  - 2月6日(木)、「IDOL AND READ LIVE NEO vol.3」に出演。(目黒鹿鳴館)
+  - 2月8日(土)、「エクストロメ‼︎ GOLDEN NUGGETS」に出演。(大塚Hearts+)
+  - 2月9日(日)、「バナフェスSP」に出演。(渋谷Circus Tokyo)
+  - 2月15日(土)、「エクストロメ‼ Lose daydream」に出演。(渋谷Glad)
+  - 2月16日(日)、「PREDAWN vol.9」に出演。(渋谷Milkyway)、新曲「GENERATION」初披露。この日、1st ワンマン・ライブ「アイドル」を2020年5月11日・渋谷ＷＷＷＸにて開催決定のプレスリリース\[14\]\[15\]を発表。
+  - 2月18日(火)、「MIC RAW RUGA(laboratory) 定期公演HIGH-HO vol.17」に出演。(渋谷NoStyle)
+  - 2月22日(土)、「RAY持ち曲全曲披露無料イベント」を開催。(大塚Hearts+)
+  - 2月23日(日)、昼「エクストロメ Path to the Black Lodge」(渋谷GLAD)に出演。夜「Total Feedback」(高円寺 HIGH)にDJとして内山結愛ソロ出演。また、「甲斐莉乃個展 『Fire of Argus〜アルギュスの送り火〜』」開催(2月23日、25日、27日、28日、3月1日、3日、5日、7日 各日16〜21時 開廊 (淵野辺CRISPY EGG Gallery)。
+  - 2月24日(月・祝)、「出雲にっき生誕祭-わんきゅう\!\!-」に出演。(高円寺 HIGH)
+  - 2月28日、RAY公式You Tubeアカウントにて新曲「GENERATION」Official Audioを公開。
+  - 3月1日(日)、「『IDOL is magic vol.1』」に出演、コロナ・ウイルスの影響による他出演者全組がイベント出演を辞退したため急遽ワンマンとなる。(新宿 SAMURAI)　夜、1st ワンマンライブ「アイドル」連動企画第一弾として、月日が「波長」をテーマにした演出をファンと練り上げるインスタライブを配信。
+  - 3月8日(日)、「月日生誕『ふれる春』‬」を開催。(横須賀 Younger Than Yesterday‬)
+  - 3月14日(土)、「アイドルと人狼7」に内山結愛と月日が出演。(阿佐ヶ谷 LoftA)
+  - 3月15日(日)、「鳥語花香〜白川さやか復帰公演〜」を開催。(目黒 鹿鳴館)　この日から受験のため活動休止中だった白川さやかが活動再開。4人揃ってのライブは2019年11月5日ぶりとなった。
+  - 3月20日(金・祝)、くぴぽ pre. 「呪泉郷」に出演 (西永福 JAM)。
+  - 3月21日(土)、月日がcollectionsにて『SKIP×SKIP 〜イルカの波長を感じたい〜』を開催。(静岡県伊東 ドルフィンファンタジー)
+  - 3月22日(日)、「ギュウ農フェス春のSPプレイベント最終号」に出演。 (大塚Hearts＋、大塚Hearts Next)
+  - 3月23日(月)、「さっきの女の子、はみんなで祝いたい〜古川すい/乃々宮いぶ生誕〜」に出演。(池袋CYBER)
+  - 3月26日(木)、ekoms presents 「cry for the moon vol.3」に出演。(青山 月見ル君想フ)
+  - 3月27日(金)、instagram生配信にて「RAYのツキイチ」開催。久しぶりに4人揃っての配信。
+  - 3月27日(金)、「尊しあなたのすべてを」Official Music Video\[16\] を公開\[17\]\[18\]。
+  - <s>3月28日(土)、【イベント中止】「エクストロメ‼️GOLDEN NUGGETS 2」</s>
+  - <s>3月29日(日)、【延期】主催イベント「PREDAWN vol.10」開催。(渋谷Milkyway)</s>
+  - <s>3月29日(日)、【中止】「Total Feedback」に内山結愛がDJ出演。(KOENJI HIGH)</s>
+  -
+<!-- end list -->
+
   -
 ## メンバー
 
@@ -198,7 +256,7 @@
 <td><p>teoremaa</p></td>
 <td><p>teoremaa</p></td>
 <td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
-<td><p><a href="https://drive.google.com/open?id=1gJ5FNgRrUlhViKyM0kDjA8nRy90I9KmA">・・・・・・・・・「ネモフィラ」のカバー (public domain楽曲)</a></p></td>
+<td><p><a href="https://drive.google.com/open?id=1gJ5FNgRrUlhViKyM0kDjA8nRy90I9KmA">・・・・・・・・・「ネモフィラ」のカバー (public domain楽曲)</a> ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月1日</p></td>
@@ -207,7 +265,7 @@
 <td><p>みきれちゃん</p></td>
 <td><p>みきれちゃん, ジム</p></td>
 <td><p><a href="https://dance-yk.tumblr.com/post/183157016834/%E6%B4%BB%E5%8B%95%E5%AE%9F%E7%B8%BE">YUKO</a></p></td>
-<td><p><a href="https://drive.google.com/open?id=11vQcprGhE7P3luvwp8D4qJ4hG7NP-wiu">・・・・・・・・・「サテライト」のカバー (public domain楽曲)</a></p></td>
+<td><p><a href="https://drive.google.com/open?id=11vQcprGhE7P3luvwp8D4qJ4hG7NP-wiu">・・・・・・・・・「サテライト」のカバー (public domain楽曲)</a> ライブにて初披露。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月1日</p></td>
@@ -216,17 +274,17 @@
 <td><p>Kei Toriki</p></td>
 <td><p>Kei Toriki</p></td>
 <td><p><a href="https://twitter.com/kotoha74">琴羽</a></p></td>
-<td><p>RAYオリジナル楽曲。</p></td>
+<td><p>RAYオリジナル楽曲。 ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月1日</p></td>
-<td><p>バタフライエフェクト</p></td>
+<td><p>バタフライエフェクト (Butterfly Effect)</p></td>
 <td><p>管梓</p></td>
 <td><p>管梓・みきれちゃん</p></td>
 <td><p>みきれちゃん</p></td>
 <td><p><a href="https://twitter.com/chiita1211">CHIHIRO</a></p></td>
-<td><p>RAYオリジナル楽曲。</p>
-<p><a href="https://www.youtube.com/watch?v=H5RkZzknkB0">Official Music Video</a></p></td>
+<td><p>RAYオリジナル楽曲。 ライブにて初披露。</p>
+<p>2019年6月27日 <a href="https://www.youtube.com/watch?v=H5RkZzknkB0">Official Music Video</a> 公開。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月9日</p></td>
@@ -235,7 +293,7 @@
 <td><p>管梓</p></td>
 <td><p>管梓</p></td>
 <td><p>YUKO</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=rjCugrrNY24">・・・・・・・・・「スライド」</a>のカバー</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=rjCugrrNY24">・・・・・・・・・「スライド」</a>のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月26日(昼)</p></td>
@@ -244,7 +302,7 @@
 <td><p>死んだ僕の彼女</p></td>
 <td></td>
 <td><p>riko</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=RpNGIABt2-4">死んだ僕の彼女「彼女が冷たく笑ったら」</a>のカバー</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=RpNGIABt2-4">死んだ僕の彼女「彼女が冷たく笑ったら」</a>のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月14日</p></td>
@@ -257,12 +315,13 @@
 </tr>
 <tr class="even">
 <td><p>2019年7月20日</p></td>
-<td><p>世界の終わりは君とふたりで</p></td>
+<td><p>世界の終わりは君とふたりで (The End of The World with You)</p></td>
 <td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
 <td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
 <td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
 <td><p><a href="https://twitter.com/chiita1211">CHIHIRO</a></p></td>
-<td><p>RAYオリジナル楽曲。</p></td>
+<td><p>RAYオリジナル楽曲。 2019年7月20日 ライブにて初披露。</p>
+<p>2020年2月21日 <a href="https://www.youtube.com/watch?v=5IEz5dtQeV4&amp;feature=youtu.be">Official Music Video</a> 公開。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年8月11日(昼)</p></td>
@@ -271,7 +330,7 @@
 <td><p>管梓</p></td>
 <td><p>管梓</p></td>
 <td></td>
-<td><p>・・・・・・・・・「しづかの海」のカバー</p></td>
+<td><p>・・・・・・・・・「しづかの海」のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年8月15日 (ライヴ初披露は2019年9月7日)</p></td>
@@ -280,7 +339,7 @@
 <td><p>Kei Toriki</p></td>
 <td><p>Kei Toriki</p></td>
 <td><p>riko</p></td>
-<td><p>RAYオリジナル楽曲。 <a href="https://www.youtube.com/watch?v=rQ9im3MmgcU">Official Audio</a>にて初公開。<br />
+<td><p>RAYオリジナル楽曲。 2019年8月15日 <a href="https://www.youtube.com/watch?v=rQ9im3MmgcU">Official Audio</a>にて初公開。<br />
 2019年9月7日ライヴ初披露。</p></td>
 </tr>
 <tr class="odd">
@@ -290,8 +349,44 @@
 <td><p>Elliott Frazier (Ringo Deathstarr )</p></td>
 <td><p>Elliott Frazier (Ringo Deathstarr )</p></td>
 <td><p>riko</p></td>
-<td><p>Ringo Deathstarr 楽曲提供となるオリジナル楽曲。 <a href="https://www.youtube.com/watch?v=Z_l26v8R9v8&amp;feature=youtu.be">Official Music Video</a><br />
+<td><p>Ringo Deathstarr 楽曲提供となるRAYオリジナル楽曲。 2019年9月22日ライブにて初披露。 2019年10月26日 <a href="https://www.youtube.com/watch?v=Z_l26v8R9v8&amp;feature=youtu.be">Official Music Video</a> 公開。<br />
 </p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月14日(木)</p></td>
+<td><p>no title</p></td>
+<td><p>甲斐莉乃</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。</p>
+<p>イラスト：甲斐莉乃</p>
+<p>2019年11月14日 <a href="https://www.youtube.com/watch?v=g8KHwhwAhLY&amp;feature=youtu.be">Official Audio</a>にて初公開。</p>
+<p>2019年12月3日ライブ初披露。<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月4日(土)</p></td>
+<td><p>GENERATION</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。</p>
+<p>2020年1月4日 振り付けなしの歌唱のみライブにてプレ初披露。</p>
+<p>2020年2月16日 振り付けありでライブ初披露。</p>
+<p>2020年2月28日 <a href="https://www.youtube.com/watch?v=6TebPt33nTM&amp;feature=youtu.be">Official Audio</a>公開。</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月29日(水)</p></td>
+<td><p>尊しあなたのすべてを (Everything About My Precious You)</p></td>
+<td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
+<td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
+<td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。</p>
+<p>ライブにて初披露。</p>
+<p>3月27日 <a href="https://www.youtube.com/watch?v=bmBR6iNnXVY&amp;feature=youtu.be">Official Music Video</a> 公開。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1752,6 +1847,33 @@
 </tbody>
 </table>
 
+
+
+## アナザー甲斐莉乃
+
+笹田晋平『Jericho's raft and fifteen guardians〜ジェリコーの筏と15人の守護者〜』のモデルとして、甲斐莉乃が「あり得たかもしれない15パターンのアイドル」を演じた企画。「甲斐莉乃の酔いどれ”現代アート”」開催期間：2019年11月～2020年3月。期間中に衣装、性格、表現の異なる15の甲斐莉乃が登場（チェキ会あり）
+
+また、笹田晋平×甲斐莉乃シリーズの締めくくりとして、アナザー甲斐莉乃関連作品とその舞台裏、甲斐莉乃が自身をテーマにし描いた作品を展示し「アイドル」を真正面から現代美術する甲斐莉乃個展「Fire of Argus\~アルギュスの送り火\~」も開催された(淵野辺CRISPY EGG Gallery/開催期間:2020年2月23日〜2020年3月7日)。
+
+| No. | 開催日            | 開催場所                                        | 衣装 | 性格                                                         | 備考 |
+| --- | -------------- | ------------------------------------------- | -- | ---------------------------------------------------------- | -- |
+| 0   |                |                                             |    |                                                            |    |
+| 1   | 2019年11月16日    | 目黒鹿鳴館「PREDWN vol.6」                         | 灰羽 | 基本無口がちで表情もあまり変わることがない。羽が生えているが天使でも悪魔でもなく、人間味が少なく死生を彷徨う。    |    |
+| 2   | 2019月11月23日(土) | 西永福JAM 「MAGICAL GAMES vol.5」                |    | 時にずる賢くいたずら好き、小悪魔系。可愛さと色気を持ち合わせる、思わせぶりな発言も。                 |    |
+| 3   | 2019年11月24日(日) | 下北沢MOSAiC 「武井麻里子presents『エレ日。vol.16』」       |    | 清純派かわいいみんなの妹的存在。甘え上手で愛嬌がある。                                |    |
+| 4   | 2019年12月1日(日)  | 渋谷VUENOS 「new encounters SP vol.27」         |    | 明るく元気、どんなときも溌剌としている。細かいことは気にしない。                           |    |
+| 5   | 2019年12月1日(日)  | 渋谷VUENOS 「new encounters SP vol.28」         |    | 笑顔が多い割に発言は少なめ、ミステリアスな雰囲気を持っている。謎が多く自分のことはあまり話さないが話しやすい。    |    |
+| 6   | 2019年12月5日(木)  | マウントレーニアホール渋谷「ハミパ –ハミシス史上最強照明ライブ-」          |    | たくさんの人に同じくらいの愛を持って接することができる。天真爛漫で愛想が良い、可愛いものが好き。           |    |
+| 7   | 2019年12月6日(金)  | 渋谷Club Asia「メランコリックシティ Vol.0」               |    | クールで活発、見た目によらず繊細な部分もある。パンクだったり、かっこいいものを好む。                 |    |
+| 8   | 2019年12月28日(土) | 渋谷Milkyway「PREDAWN vol.7」                   |    | 落ち着きがあり知的。近寄りがたい空気感があるが話すと意外と打ち解けられる。                      |    |
+| 9   | 2019年12月28日(土) | 渋谷SANKAKU「甲斐莉乃、甲斐莉乃を語る～酒を飲みながら振り返る個人史と未来～」  |    | この日のアナザー甲斐莉乃：些細なことでは動じない、全てを包み込む温かさがある。落ち着いている、女神。         |    |
+| 10  | 2019年12月31日(火) | 高円寺HIGH「KOENJI HIGH 12th Anniversary 前夜祭」   |    | この日のアナザー甲斐莉乃：友好関係が広く基本誰とでも仲良くなれる。変わったものが好きな反面、ミーハーでもある。    |    |
+| 11  | 2020年1月5日(日)   | 下北沢MOSAiC 「武井麻里子presents『エレ日。vol.17』」       |    | 清楚系ナチュラルなお姉さん系。話し方もおしとやかでおっとりめ、聞き上手で意見を言う時はしっかり伝える。        |    |
+| 12  | 2020年1月12日(日)  | 新宿LOFT 「Pop'n Party」                        |    | 気になるものはとことん追い求める、オタク気質。場の空気を作るのが上手い、ノリがいいタイプ。              |    |
+| 13  | 2020年1月12日(日)  | 渋谷Milkyway 「PREDAWN vol.8」                  |    | あまり積極的に発言することはなく、大人しくおどおどしがち。興味のある話・気の合う人なら会話も弾みやすい、文学が好き。 |    |
+| 14  | 2020年1月13日     | 『甲斐莉乃と岡本太郎美術館見学 \~打ち上げ飲み会&アナザー甲斐莉乃チェキ会も！\~』 |    | 我が強く思ったことは素直に口にする。冷たいと思われがちな雰囲気があるが基本的には優しい。               |    |
+| 15  |                |                                             |    | みんなのまとめ役でしっかり者。 大人っぽいイメージを持たれがちだが天然な一面もある。                 |    |
+
 ## 脚注
 
 ## 外部リンク
@@ -1778,3 +1900,8 @@
 11.
 12.
 13.
+14.
+15.
+16.
+17.
+18.

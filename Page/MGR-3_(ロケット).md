@@ -1,4 +1,4 @@
-> この記事は[MGR-3 \(\)](https://ja.wikipedia.org/wiki/MGR-3_\(\))から翻訳されています。
+> この記事は[MGR-3 \(ロケット\)](https://ja.wikipedia.org/wiki/MGR-3_\(ロケット\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGR-3 リトル・ジョン | 画像=Image:MGR-3 Little John 03.jpg | キャプション=M34牽引式発射機上にあるMGR-3A リトル・ジョン。 | 用途=地対地戦域攻撃 | 分類=[地対地ロケット弾](../Page/ロケット弾.md "wikilink")、[核ロケット](../Page/核ミサイル.md "wikilink") | 設計者= | 製造者=エマーソン・エレクトリック | 運用者=[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")） | 初飛行年月日=[1956年](../Page/1956年.md "wikilink")（XM47） | 生産数= | 生産開始年月日=[1956年](../Page/1956年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")（XM47） | 運用開始年月日=[1957年](../Page/1957年.md "wikilink")[8月](../Page/8月.md "wikilink") | 退役年月日=[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月](../Page/8月.md "wikilink") | 運用状況=退役 | ユニットコスト= }}

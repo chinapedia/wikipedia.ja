@@ -19,9 +19,11 @@
 
 2019年、西川の公式[Twitter](../Page/Twitter.md "wikilink")で2020年から正式にオリジナルメンバーで再結成することを発表。
 
-2020年2月15日、東京・[高田馬場](../Page/高田馬場.md "wikilink")のライブハウスclubphaseにて、再結成初ライブを行うと同時に、東京・大阪でのショートツアー“ROCK DRIVE 2020”をスタートさせる。
+2020年2月15日、東京・[高田馬場](../Page/高田馬場.md "wikilink")のライブハウスCLUB PHASEにて、再結成初ライブを行った。東京・大阪でのショートツアー“ROCK DRIVE 2020”をスタートさせる予定だったが、新型コロナウイルス感染症が拡大している状況を受け、2月16日高田馬場CLUB PHASEと3月7日、8日心斎橋THE LIVE HOUSE somaの公演は中止となった\[2\]。
 
-## デビュー時のバンドメンバー
+## バンドメンバー
+
+デビュー時と同じメンバーで2020年再結成した。
 
   - 西川茂 (Vo)
 
@@ -55,7 +57,7 @@
 <!-- end list -->
 
   -
-    [1965年](../Page/1965年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")生まれ。ステージネームは「HIBARI」。バンド解散後[Eins:Vier](../Page/Eins:Vier.md "wikilink")、[MEGA STOPPERに参加した](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。
+    [1965年](../Page/1965年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")生まれ。ステージネームは「HIBARI」。バンド解散後[Eins:Vier](../Page/Eins:Vier.md "wikilink")、[MEGA STOPPERに参加した](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。「ワンタム・ツーバス・サウスポー」。
 
 ### 元メンバー
 
@@ -148,6 +150,15 @@
   - [JACKS'N'JOKER](https://ja.wikipedia.org/wiki/JACKS'N'JOKER "wikilink")
   - [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
 
+## 外部リンク 
+
+  -
+  -
+  -
+  -
+  -
+  -
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:1989年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  [「イタKiss」テーマ曲集であのバンドが再結成](http://natalie.mu/music/news/141301)音楽ナタリー(2015年3月18日).2017年3月18日閲覧。
+2.  [2020年2月23日18:05のTweet](https://twitter.com/presence_new/status/1231505303214018561) プレゼンス PRESENCE2020（@presence_new）

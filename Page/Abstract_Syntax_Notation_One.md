@@ -156,13 +156,20 @@ ASN.1符号化規則を説明した標準 ([free download from the ITU-T website
 ## 外部リンク
 
   - [The ASN.1 Consortium](http://www.asn1.org/)
+
   - [A comprehensive ASN.1 information site](http://asn1.elibel.tm.fr/)
+
   - [asn1c](http://lionet.info/asn1c/), ASN.1 のソースコードを[C言語](../Page/C言語.md "wikilink")のソースコードに変換するオープンソースのコンパイラ
+
   - [](https://www.marben-products.com/CCArea/asn1tools/free-online-asn1-decoder.html) Free online tool .
+
   - [pyasn1](http://pyasn1.sf.net): ASN.1 のデータ型とコーデックの[Python](../Page/Python.md "wikilink")による実装
+
   - [A Layman's Guide to a Subset of ASN.1, BER, and DER](http://luca.ntop.org/Teaching/Appunti/asn1.html): ASN.1, BER および DER の入門的文書
+
   - [BinaryNotes](http://bnotes.sf.net): オープンソースの ASN.1 フレームワーク。[Java](https://ja.wikipedia.org/wiki/Java "wikilink") および [.NET](https://ja.wikipedia.org/wiki/.NET "wikilink") 向け。
-  - [ASN.1 バイナリ変換規則(BER)](http://www.geocities.co.jp/SiliconValley-SanJose/3377/)
+
+  -
   - [ASN.1概要](http://www5d.biglobe.ne.jp/~stssk/asn1/index.html)
 
 [Category:ITU-T勧告](https://ja.wikipedia.org/wiki/Category:ITU-T勧告 "wikilink") [Category:コンピュータ言語](https://ja.wikipedia.org/wiki/Category:コンピュータ言語 "wikilink") [Category:データシリアライゼーションフォーマット](https://ja.wikipedia.org/wiki/Category:データシリアライゼーションフォーマット "wikilink")

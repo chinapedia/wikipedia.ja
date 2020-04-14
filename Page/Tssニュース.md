@@ -1,4 +1,4 @@
-> この記事は[Tss](https://ja.wikipedia.org/wiki/Tss)から翻訳されています。
+> この記事は[Tssニュース](https://ja.wikipedia.org/wiki/Tssニュース)から翻訳されています。
 
 
 『**tssニュース**』（ティーエスエスニュース）は、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送されている[ニュース番組である](../Page/報道番組.md "wikilink")。『**TSSこんやのニュース**』→『**TSSユアタイム クイック**』→『**TSS THE NEWSα Pick**』への改題後についても述べる。

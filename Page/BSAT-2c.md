@@ -19,6 +19,6 @@
 
   - [B-SAT - 放送衛星システム](http://www.b-sat.co.jp/index.php)
 
-[Category:放送衛星](https://ja.wikipedia.org/wiki/Category:放送衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:静止衛星](https://ja.wikipedia.org/wiki/Category:静止衛星 "wikilink") [Category:2003年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2003年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:放送衛星](https://ja.wikipedia.org/wiki/Category:放送衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:静止衛星](https://ja.wikipedia.org/wiki/Category:静止衛星 "wikilink") [Category:2003年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2003年の宇宙飛行 "wikilink")
 
 1.

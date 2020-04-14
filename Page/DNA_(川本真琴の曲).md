@@ -1,4 +1,4 @@
-> この記事は[DNA \(\)](https://ja.wikipedia.org/wiki/DNA_\(\))から翻訳されています。
+> この記事は[DNA \(川本真琴の曲\)](https://ja.wikipedia.org/wiki/DNA_\(川本真琴の曲\))から翻訳されています。
 
 
 「**DNA**」（ディー・エヌ・エー）は[川本真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")の2枚目のシングル。

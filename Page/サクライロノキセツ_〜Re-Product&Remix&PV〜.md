@@ -1,4 +1,4 @@
-> この記事は[ Re-Product\&Remix\&PV](https://ja.wikipedia.org/wiki/_Re-Product\&Remix\&PV)から翻訳されています。
+> この記事は[サクライロノキセツ 〜Re-Product\&Remix\&PV〜](https://ja.wikipedia.org/wiki/サクライロノキセツ_〜Re-Product\&Remix\&PV〜)から翻訳されています。
 
 
 「**サクライロノキセツ 〜Re-Product\&Remix\&PV〜**」（サクライロノキセツ リプロダクトアンドリミックスアンドピーブイ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の8作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

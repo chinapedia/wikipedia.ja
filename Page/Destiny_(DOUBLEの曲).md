@@ -1,4 +1,4 @@
-> この記事は[Destiny \(DOUBLE\)](https://ja.wikipedia.org/wiki/Destiny_\(DOUBLE\))から翻訳されています。
+> この記事は[Destiny \(DOUBLEの曲\)](https://ja.wikipedia.org/wiki/Destiny_\(DOUBLEの曲\))から翻訳されています。
 
 
 「**destiny**」（ディスティニー）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")11枚目のシングル。

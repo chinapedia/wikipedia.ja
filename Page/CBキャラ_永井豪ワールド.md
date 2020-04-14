@@ -1,4 +1,4 @@
-> この記事は[CB ](https://ja.wikipedia.org/wiki/CB_)から翻訳されています。
+> この記事は[CBキャラ 永井豪ワールド](https://ja.wikipedia.org/wiki/CBキャラ_永井豪ワールド)から翻訳されています。
 
 
 『**CBキャラ 永井豪ワールド**』（ちびキャラ ながいごうワールド）は**[永井豪](../Page/永井豪.md "wikilink")**作品を原作とした[OVA](../Page/OVA.md "wikilink")シリーズである。

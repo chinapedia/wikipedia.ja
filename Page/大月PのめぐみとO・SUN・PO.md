@@ -1,4 +1,4 @@
-> この記事は[POSUNPO](https://ja.wikipedia.org/wiki/POSUNPO)から翻訳されています。
+> この記事は[大月PのめぐみとO・SUN・PO](https://ja.wikipedia.org/wiki/大月PのめぐみとO・SUN・PO)から翻訳されています。
 
 
 **大月PのめぐみとO・SUN・PO**（おおつきぴーのめぐみとおさんぽ）は、かつて[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていたラジオ番組（[アニラジ](../Page/アニラジ.md "wikilink")）。通常放送は全18回放送の生放送番組で、通常放送の1か月前に前夜祭放送（収録放送）があり、特別番組として『オールナイトニッポンR』枠でも2度生放送した。

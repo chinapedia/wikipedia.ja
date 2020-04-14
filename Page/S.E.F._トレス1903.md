@@ -1,4 +1,4 @@
-> この記事は[S.E.F. 1903](https://ja.wikipedia.org/wiki/S.E.F._1903)から翻訳されています。
+> この記事は[S.E.F. トレス1903](https://ja.wikipedia.org/wiki/S.E.F._トレス1903)から翻訳されています。
 
 
 **S.E.F. トレス1903**（**Società di Educazione Fisica Torres 1903**）は、[イタリア](../Page/イタリア.md "wikilink")・[サルデーニャ](../Page/サルデーニャ.md "wikilink")自治州[サッサリ](../Page/サッサリ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略称はトレス。2015-16シーズンは、[セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネGに所属している。
@@ -21,9 +21,9 @@
   - 2006-07 セリエC2・ジローネA 12位
   - 2007-08 セリエC2・ジローネA 13位 **破産でプロモツィオーネ降格**
   - 2008-09 [プロモツィオーネ](https://ja.wikipedia.org/wiki/プロモツィオーネ "wikilink")・サルデーニャ・ジローネB 1位 **昇格**
-  - 2009-10 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 10位
-  - 2010-11 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 2位
-  - 2011-12 [エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")・サルデーニャ 1位 **昇格**
+  - 2009-10 [エッチェッレンツァ](../Page/エッチェッレンツァ.md "wikilink")・サルデーニャ 10位
+  - 2010-11 [エッチェッレンツァ](../Page/エッチェッレンツァ.md "wikilink")・サルデーニャ 2位
+  - 2011-12 [エッチェッレンツァ](../Page/エッチェッレンツァ.md "wikilink")・サルデーニャ 1位 **昇格**
   - 2012-13 [セリエD](../Page/セリエD_\(サッカー\).md "wikilink")・ジローネG 1位 **昇格**
   - 2013-14 [レガ・プロ・セコンダ・ディヴィジオーネ](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")・ジローネA 12位 **<s>降格</s>** **特別残留**
   - 2014-15 [レガ・プロ](https://ja.wikipedia.org/wiki/レガ・プロ "wikilink")・ジローネA 11位 **八百長により降格**

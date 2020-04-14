@@ -57,7 +57,7 @@
 
 ### 出典
 
-[Category:オペラ作品](https://ja.wikipedia.org/wiki/Category:オペラ作品 "wikilink") [Category:20世紀のオペラ](https://ja.wikipedia.org/wiki/Category:20世紀のオペラ "wikilink") [Category:1999年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1999年の日本の音楽 "wikilink") [Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink")
+[Category:オペラ作品](https://ja.wikipedia.org/wiki/Category:オペラ作品 "wikilink") [Category:20世紀のオペラ](https://ja.wikipedia.org/wiki/Category:20世紀のオペラ "wikilink") [Category:1999年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1999年の日本の音楽 "wikilink") [Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink")
 
 1.  アルバム『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』より。
 2.

@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[ラジオ時報CM](https://ja.wikipedia.org/wiki/ラジオ時報CM)から翻訳されています。
 
 
 **ラジオ時報CM**（ラジオじほうシーエム）とは、民放ラジオ局で正時の[時報](../Page/時報.md "wikilink")と絡めて流される[CM](../Page/コマーシャルメッセージ.md "wikilink")。
@@ -16,7 +16,7 @@
 また、特定の時刻のみに限定したものもあり、
 
   - 「小さな[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")で大きな夢を、宝くじが9時の時報をお知らせします」（平日9時、提供：[全国自治宝くじ事務協議会](https://ja.wikipedia.org/wiki/全国自治宝くじ事務協議会 "wikilink")、制作：[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")、ナレーション：[大橋照子](../Page/大橋照子.md "wikilink")）\[1\]
-  - [百貨店](../Page/百貨店.md "wikilink")の開店時刻のアナウンス「間もなく10時、○○デパート開店のお時間です」等(主に、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")の東武百貨店平日10時、[mrtラジオの](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")[ボンベルタ橘平日](../Page/橘百貨店.md "wikilink")10時や、かつて流れたケースでは[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[黒崎そごう](https://ja.wikipedia.org/wiki/黒崎そごう "wikilink")（後に閉店、現在は黒崎[井筒屋](../Page/井筒屋.md "wikilink")）など多数）
+  - [百貨店](../Page/百貨店.md "wikilink")の開店時刻のアナウンス「間もなく10時、○○デパート開店のお時間です」等(主に、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")の東武百貨店平日10時、[mrtラジオの](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")[ボンベルタ橘平日](../Page/橘百貨店.md "wikilink")10時や、かつて流れたケースでは[KBCラジオ](../Page/KBCラジオ.md "wikilink")の[黒崎そごう](https://ja.wikipedia.org/wiki/黒崎そごう "wikilink")（後に閉店、現在は黒崎[井筒屋](../Page/井筒屋.md "wikilink")）など多数）
   - [小田急電鉄](../Page/小田急電鉄.md "wikilink")（平日10時、[TOKYO FM](../Page/エフエム東京.md "wikilink")。時報CMのひとつ前に放送。季節ごとに「あなたのx（春・夏・秋・冬）は、yですか」と内容が変わるが、「もうすぐ10時。[小田急ロマンスカー](https://ja.wikipedia.org/wiki/小田急ロマンスカー "wikilink")、発車の時刻\[2\]です。新宿から箱根まで、どうぞごゆっくり」、「今日、ロマンスカーで」のナレーションは固定　曲は『[ロマンスをもう一度](https://ja.wikipedia.org/wiki/ロマンスをもう一度 "wikilink")』）
   - [餃子の王将](../Page/餃子の王将.md "wikilink")（正午、[KBS京都ラジオで土](../Page/京都放送.md "wikilink")・日曜を除いて放送。[王将フードサービス](https://ja.wikipedia.org/wiki/王将フードサービス "wikilink") 通常の「ポーン」に代わり、[餃子](../Page/餃子.md "wikilink")を焼く際の「ジュー」の音になる）
   - [山崎製パン](../Page/山崎製パン.md "wikilink")（平日14時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")。社員や首都圏にある製造工場の従業員がお勧め商品の紹介と「ヤマザキパンが2時をお知らせします」と告げる\[3\]。90年代頃には、JFN系で同社の時報が流れていた。）

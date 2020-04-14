@@ -1,4 +1,4 @@
-> この記事は[TOC](https://ja.wikipedia.org/wiki/TOC)から翻訳されています。
+> この記事は[TOCビル](https://ja.wikipedia.org/wiki/TOCビル)から翻訳されています。
 
 
 **TOCビル**（テーオーシービル）は、株式会社[テーオーシー](../Page/テーオーシー.md "wikilink")が経営し、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](https://ja.wikipedia.org/wiki/西五反田 "wikilink")7丁目に位置する、[商業施設](../Page/店.md "wikilink")・[コンベンションセンター](https://ja.wikipedia.org/wiki/コンベンションセンター "wikilink")等の複合施設である。

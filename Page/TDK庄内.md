@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDK庄内](https://ja.wikipedia.org/wiki/TDK庄内)から翻訳されています。
 
 
 **TDK庄内株式会社**（ティーディーケイしょうない）は、電子部品の製造・販売を行っている会社。[TDK](../Page/TDK.md "wikilink")の100%出資の子会社で、[山形県](../Page/山形県.md "wikilink")[鶴岡市](../Page/鶴岡市.md "wikilink")に本社を置く。

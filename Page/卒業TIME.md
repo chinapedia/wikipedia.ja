@@ -1,4 +1,4 @@
-> この記事は[TIME](https://ja.wikipedia.org/wiki/TIME)から翻訳されています。
+> この記事は[卒業TIME](https://ja.wikipedia.org/wiki/卒業TIME)から翻訳されています。
 
 
 「**卒業TIME**」（そつぎょうタイム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")1作目の[シングル](../Page/シングル.md "wikilink")。

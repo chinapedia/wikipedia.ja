@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[ジョージ・ポーターJr.](https://ja.wikipedia.org/wiki/ジョージ・ポーターJr.)から翻訳されています。
 
 
 **ジョージ・ポーターJr.** (**George Porter, Jr.**, [1947年](../Page/1947年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink") [米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")生まれ) は、[ミーターズ](../Page/ミーターズ.md "wikilink")の活動で知られるニューオーリンズの[ベーシスト](../Page/ベーシスト.md "wikilink")、[シンガー](../Page/歌手.md "wikilink")。[アート・ネヴィル](https://ja.wikipedia.org/wiki/アート・ネヴィル "wikilink")とともに60年代半ばにグループを結成した。ミーターズは、[ファンク](../Page/ファンク.md "wikilink")ミュージックを生み出したグループのひとつとして知られるようになった。[1977年](../Page/1977年.md "wikilink")に一度解散をするものの、[1989年](../Page/1989年.md "wikilink")に再結成。今日では、ファンキー・ミーターズの名前で活動を続けており、ポーターもまだメンバーである。

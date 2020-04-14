@@ -1,4 +1,4 @@
-> この記事は[Floralia ](https://ja.wikipedia.org/wiki/Floralia_)から翻訳されています。
+> この記事は[Floralia 〜フローラリア〜](https://ja.wikipedia.org/wiki/Floralia_〜フローラリア〜)から翻訳されています。
 
 
 『**Floralia 〜フローラリア〜**』および、『**Floralia+ 〜フローラリア プラス〜**』は2002年5月31日（**Floralia+ 〜フローラリア プラス〜**は2004年2月20日）にXuse（純米）から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")である。

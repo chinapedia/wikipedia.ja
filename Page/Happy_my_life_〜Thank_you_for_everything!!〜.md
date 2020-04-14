@@ -1,4 +1,4 @@
-> この記事は[Happy my life Thank you for everything!!](https://ja.wikipedia.org/wiki/Happy_my_life_Thank_you_for_everything!!)から翻訳されています。
+> この記事は[Happy my life 〜Thank you for everything!!〜](https://ja.wikipedia.org/wiki/Happy_my_life_〜Thank_you_for_everything!!〜)から翻訳されています。
 
 
 「**Happy my life 〜Thank you for everything\!\!〜**」（ハッピー・マイ・ライフ・サンキュー・フォア・エブリシング）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の楽曲。[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")が作詞・作曲を手掛けた。yozuca\*の13枚目\[1\]の[シングル](../Page/シングル.md "wikilink")として[2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

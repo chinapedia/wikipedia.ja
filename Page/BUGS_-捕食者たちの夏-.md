@@ -1,4 +1,4 @@
-> この記事は[BUGS --](https://ja.wikipedia.org/wiki/BUGS_--)から翻訳されています。
+> この記事は[BUGS -捕食者たちの夏-](https://ja.wikipedia.org/wiki/BUGS_-捕食者たちの夏-)から翻訳されています。
 
 
 『**BUGS -捕食者たちの夏-**』（バグズ ほしょくしゃたちのなつ）は、[七月鏡一](../Page/七月鏡一.md "wikilink")原作・[藤原芳秀](../Page/藤原芳秀.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[2006年](../Page/2006年.md "wikilink")第47号から[2007年](../Page/2007年.md "wikilink")第18号まで連載された。

@@ -1,4 +1,4 @@
-> この記事は[Observer ](https://ja.wikipedia.org/wiki/Observer_)から翻訳されています。
+> この記事は[Observer パターン](https://ja.wikipedia.org/wiki/Observer_パターン)から翻訳されています。
 
 
 ** パターン**（オブザーバ・パターン）とは、[プログラム内の](../Page/プログラム_\(コンピュータ\).md "wikilink")[オブジェクトのイベント](../Page/オブジェクト_\(プログラミング\).md "wikilink")( 事象 )を他のオブジェクトへ通知する処理で使われる[デザインパターンの一種](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Nico. \(\)](https://ja.wikipedia.org/wiki/Nico._\(\))から翻訳されています。
+> この記事は[Nico. \(アルバム\)](https://ja.wikipedia.org/wiki/Nico._\(アルバム\))から翻訳されています。
 
 
 『**nico.**』（ニコ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

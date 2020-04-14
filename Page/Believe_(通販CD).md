@@ -1,4 +1,4 @@
-> この記事は[Believe \(CD\)](https://ja.wikipedia.org/wiki/Believe_\(CD\))から翻訳されています。
+> この記事は[Believe \(通販CD\)](https://ja.wikipedia.org/wiki/Believe_\(通販CD\))から翻訳されています。
 
 
 『**Believe**』（ビリーヴ）は、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")が企画・制作・発売しデジタルダイレクト（現:[イオンダイレクト](https://ja.wikipedia.org/wiki/イオンダイレクト "wikilink")）から販売された[通販CD](../Page/通販CD.md "wikilink")ボックスの[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。

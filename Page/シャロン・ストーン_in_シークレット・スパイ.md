@@ -1,4 +1,4 @@
-> この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
+> この記事は[シャロン・ストーン in シークレット・スパイ](https://ja.wikipedia.org/wiki/シャロン・ストーン_in_シークレット・スパイ)から翻訳されています。
 
 
 『**シャロン・ストーン in シークレット・スパイ**』（原題：*A Different Loyalty*）は、[2004年](../Page/2004年.md "wikilink")に制作された[シャロン・ストーン](../Page/シャロン・ストーン.md "wikilink")主演の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。

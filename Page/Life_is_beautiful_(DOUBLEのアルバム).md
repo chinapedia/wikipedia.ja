@@ -1,4 +1,4 @@
-> この記事は[Life is beautiful \(DOUBLE\)](https://ja.wikipedia.org/wiki/Life_is_beautiful_\(DOUBLE\))から翻訳されています。
+> この記事は[Life is beautiful \(DOUBLEのアルバム\)](https://ja.wikipedia.org/wiki/Life_is_beautiful_\(DOUBLEのアルバム\))から翻訳されています。
 
 
 『**Life is beautiful**』（ライフ・イズ・ビューティフル）は、[DOUBLEのジャズ](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")・アルバム。
@@ -10,16 +10,19 @@
 
 ## 収録曲
 
-1.  **Bye Bye Baby**
-2.  **Diamonds Are A Girl's Best Friend**
-3.  **[Moon River](../Page/ムーン・リバー.md "wikilink")**
-4.  **You Took My Heart Away**
-5.  **[ワインレッドの心](../Page/ワインレッドの心.md "wikilink")**
-6.  **Lullaby Of Birdland**
-7.  **Bed 〜Part2**
-8.  **Sweet Time Again**
-9.  **Life Is Beautiful 〜DOUBLE ver.〜**
-10. **You Took My Heart Away \[Original Mix\]**
+|        |
+| ------ |
+| **CD** |
+| 01     |
+| 02     |
+| 03     |
+| 04     |
+| 05     |
+| 06     |
+| 07     |
+| 08     |
+| 09     |
+| 10     |
 
 ## 発売形態
 

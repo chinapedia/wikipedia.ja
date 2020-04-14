@@ -1,4 +1,4 @@
-> この記事は[AUCTION \(\)](https://ja.wikipedia.org/wiki/AUCTION_\(\))から翻訳されています。
+> この記事は[AUCTION \(アルバム\)](https://ja.wikipedia.org/wiki/AUCTION_\(アルバム\))から翻訳されています。
 
 
 『**AUCTION**』（オークション）は[久松史奈](https://ja.wikipedia.org/wiki/久松史奈 "wikilink")の3枚目のアルバム。

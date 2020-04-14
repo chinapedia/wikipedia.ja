@@ -1,4 +1,4 @@
-> この記事は[Es](https://ja.wikipedia.org/wiki/Es)から翻訳されています。
+> この記事は[カオシックルーンEs](https://ja.wikipedia.org/wiki/カオシックルーンEs)から翻訳されています。
 
 
 『**カオシックルーンEs**』（カオシックルーンエス）は、[山本賢治](../Page/山本賢治.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")発行）にて連載中。構成協力：[千葉智宏](https://ja.wikipedia.org/wiki/千葉智宏 "wikilink")（[スタジオオルフェ](https://ja.wikipedia.org/wiki/スタジオオルフェ "wikilink")）、デザイン協力：[神宮司訓之](../Page/神宮司訓之.md "wikilink")。作者の視力低下による体調不良から、2007年以降は休載中となっており、単行本は第5巻まで刊行されている（2018年7月5日時点） 。

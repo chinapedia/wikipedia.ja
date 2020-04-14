@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアンジ・マハチカラ](https://ja.wikipedia.org/wiki/FCアンジ・マハチカラ)から翻訳されています。
 
 
 **FCアンジ・マハチカラ**（, ）は、[ロシア](../Page/ロシア.md "wikilink")連邦・[ダゲスタン共和国](../Page/ダゲスタン共和国.md "wikilink")・[マハチカラ](../Page/マハチカラ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。アンジ・マハチカラのアンジとは[クムク語](https://ja.wikipedia.org/wiki/クムク語 "wikilink")で "真珠" の意味を持ち、古代のクミク族（クムイク人）は、現在ロシア名で "マハチカラ" と呼ばれる場所を "アンジ" と呼んでいた\[1\]。

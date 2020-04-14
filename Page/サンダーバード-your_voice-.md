@@ -1,4 +1,4 @@
-> この記事は[-your voice-](https://ja.wikipedia.org/wiki/-your_voice-)から翻訳されています。
+> この記事は[サンダーバード-your voice-](https://ja.wikipedia.org/wiki/サンダーバード-your_voice-)から翻訳されています。
 
 
 「**サンダーバード-your voice-**」（サンダーバード-ユア ボイス-）は、[V6の](../Page/V6_\(グループ\).md "wikilink")26枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[avex traxから発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

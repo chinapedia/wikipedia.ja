@@ -6,7 +6,7 @@
 ## 概要
 
   - [2002年](../Page/2002年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")にCD2枚組でリリース。2枚目のオリジナル・アルバム『[VISION](../Page/VISION_\(DOUBLEのアルバム\).md "wikilink")』の楽曲などのリミックスを含む全20曲を収録。
-  - リミキサーにShare The Fantasy、[MATALLY](https://ja.wikipedia.org/wiki/MATALLY "wikilink")、Ryuichiro Yamaki、[Masaki Tokunaga](https://ja.wikipedia.org/wiki/M.S.K. "wikilink")、[今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")、SATOSHI HIDAKA、[TURBO](../Page/GTS_\(DJグループ\).md "wikilink")、markee、Asuka Sakai、Hisashi Nawata（Lag gimmick）、ORIENTA-RHYTHM、Heigo Tani（Co-Fusion）を起用。
+  - リミキサーにShare The Fantasy、[MATALLY](https://ja.wikipedia.org/wiki/MATALLY "wikilink")、Ryuichiro Yamaki、[Masaki Tokunaga](https://ja.wikipedia.org/wiki/M.S.K. "wikilink")、[今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")、SATOSHI HIDAKA、[TURBO](../Page/GTS_\(DJグループ\).md "wikilink")、markee、Asuka Sakai、Hisashi Nawata（Lag gimmick）、ORIENTA-RHYTHM、Heigo Tani（[Co-Fusion](../Page/Co-Fusion.md "wikilink")）を起用。
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は、“大ヒット最新アルバム「VISION」\&Latest hitsをHOUSE中心に大胆RWMIX\!\! 2枚組13曲20バージョン130分収録\!”。
 
 ## 収録曲

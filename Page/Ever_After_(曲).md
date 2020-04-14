@@ -1,4 +1,4 @@
-> この記事は[Ever After \(\)](https://ja.wikipedia.org/wiki/Ever_After_\(\))から翻訳されています。
+> この記事は[Ever After \(曲\)](https://ja.wikipedia.org/wiki/Ever_After_\(曲\))から翻訳されています。
 
 
 「**Ever After**」（エヴァー・アフター）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

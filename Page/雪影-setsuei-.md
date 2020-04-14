@@ -1,4 +1,4 @@
-> この記事は[-setsuei-](https://ja.wikipedia.org/wiki/-setsuei-)から翻訳されています。
+> この記事は[雪影-setsuei-](https://ja.wikipedia.org/wiki/雪影-setsuei-)から翻訳されています。
 
 
 『**雪影-setsuei-**』（せつえい）は、[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[Silver Bulletより発売された](https://ja.wikipedia.org/wiki/Silver_Bullet "wikilink")18歳未満購入禁止（18禁）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）。初回特典は作品[主題歌](../Page/主題歌.md "wikilink")「雪催い」が収録されたマキシシングル。Siver Bulletブランドの処女作品。

@@ -1,4 +1,4 @@
-> この記事は[CHAINING SOUL 3](https://ja.wikipedia.org/wiki/CHAINING_SOUL_3)から翻訳されています。
+> この記事は[女神転生CHAINING SOUL ペルソナ3](https://ja.wikipedia.org/wiki/女神転生CHAINING_SOUL_ペルソナ3)から翻訳されています。
 
 
 『**女神転生 CHAINING SOUL ペルソナ3**』（めがみてんせい チェイニングソウル ペルソナ3）は、[女神転生](../Page/女神転生.md "wikilink")シリーズの『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』を題材にした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA)から翻訳されています。
+> この記事は[KADOKAWA電波マガジン](https://ja.wikipedia.org/wiki/KADOKAWA電波マガジン)から翻訳されています。
 
 
 **KADOKAWA電波マガジン**（カドカワでんぱマガジン）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から[1999年](../Page/1999年.md "wikilink")3月まで毎週月曜 - 木曜 25:10 - 26:00に[TOKYO FM製作](../Page/エフエム東京.md "wikilink")・[JFN系で放送されたラジオ番組](../Page/全国FM放送協議会.md "wikilink")。

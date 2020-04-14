@@ -1,4 +1,4 @@
-> この記事は[SIG MKMS](https://ja.wikipedia.org/wiki/SIG_MKMS)から翻訳されています。
+> この記事は[SIG MKMS短機関銃](https://ja.wikipedia.org/wiki/SIG_MKMS短機関銃)から翻訳されています。
 
 
 **SIG MKMS**（***Maschinen-karabiner Militärmodell Seitlich m/34***）とは、[1934年](../Page/1934年.md "wikilink")に[スイス](../Page/スイス.md "wikilink")で開発された[短機関銃](../Page/短機関銃.md "wikilink")である。

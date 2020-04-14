@@ -1,4 +1,4 @@
-> この記事は[-HiME \(\)](https://ja.wikipedia.org/wiki/-HiME_\(\))から翻訳されています。
+> この記事は[舞-乙HiME \(漫画\)の登場人物](https://ja.wikipedia.org/wiki/舞-乙HiME_\(漫画\)の登場人物)から翻訳されています。
 
 
 **舞-乙HiMEの登場人物**（マイオトメのとうじょうじんぶつ）は、[サンライズが中心となって展開する漫画版](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")『[舞-乙HiME](../Page/舞-乙HiME_\(漫画\).md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の人物の一覧。なお、アニメの登場人物については**[舞-乙HiMEの登場人物](https://ja.wikipedia.org/wiki/舞-乙HiMEの登場人物 "wikilink")**を参照。

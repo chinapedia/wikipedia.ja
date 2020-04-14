@@ -1,11 +1,11 @@
 > この記事は[GEE\(GTS\) PRESENTS double GREATEST REMIX](https://ja.wikipedia.org/wiki/GEE\(GTS\)_PRESENTS_double_GREATEST_REMIX)から翻訳されています。
 
 
-『**double GREATEST REMIX**』（ダブル・グレイテスト・リミックス）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")1枚目のリミックス・アルバム。
+『**GEE(GTS) PRESENTS double GREATEST REMIX**』（ジー・ジーティーエス・プレゼンツ・ダブル・グレイテスト・リミックス）は、[DOUBLEのファーストアルバム](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")（1st Album）『double (DOUBLEのアルバム)|double』のリミックス・アルバム。
 
 ## 概要
 
-  - [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にリリース。[GTSとの共演作](../Page/GTS_\(DJグループ\).md "wikilink")「I Miss You」のリミックス・バージョン、『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』と『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』の楽曲のリミックスを含む全11曲を収録。
+  - [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にリリース。[GTSとの共演作](../Page/GTS_\(DJグループ\).md "wikilink")「I Miss You」のリミックス・バージョン、『[Crystal](../Page/Crystal_\(DOUBLEのアルバム\).md "wikilink")』と『[double](https://ja.wikipedia.org/wiki/double_\(DOUBLEのアルバム\) "wikilink")』の楽曲のリミックスを含む全11曲を収録。
   - リミキサーに[Satoshi Hidaka](../Page/GTS_\(DJグループ\).md "wikilink")、[Dub Master X](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")、[今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")、ORIENTA-RHYTHM、[TURBO](../Page/GTS_\(DJグループ\).md "wikilink")、Koichi Matsumoto、ユキムラナオキ、Ryuichiro Yamaki、Hisashi Nawata（Lag gimmick）、Naoki Utsugi、Share The Fantasyを起用。選曲、プロデューサー起用などは全てGTSが担当した。
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は、“ハウスシーンの重鎮、GTSの"GEE"監修による"DOUBLE"初の完全フロア仕様フルリミックスアルバム。スマッシュヒットGTS feat. DOUBLE「I Miss You」のリミックスバージョンも収録\!\!”。
 

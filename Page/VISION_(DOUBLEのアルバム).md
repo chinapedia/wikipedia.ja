@@ -1,4 +1,4 @@
-> この記事は[VISION \(DOUBLE\)](https://ja.wikipedia.org/wiki/VISION_\(DOUBLE\))から翻訳されています。
+> この記事は[VISION \(DOUBLEのアルバム\)](https://ja.wikipedia.org/wiki/VISION_\(DOUBLEのアルバム\))から翻訳されています。
 
 
 『**VISION**』（ビジョン）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")2枚目のアルバム。

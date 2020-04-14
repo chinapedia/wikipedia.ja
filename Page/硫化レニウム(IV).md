@@ -1,4 +1,4 @@
-> この記事は[\(IV\)](https://ja.wikipedia.org/wiki/\(IV\))から翻訳されています。
+> この記事は[硫化レニウム\(IV\)](https://ja.wikipedia.org/wiki/硫化レニウム\(IV\))から翻訳されています。
 
 
 **硫化レニウム(IV)** (りゅうかレニウム よん、) または**二硫化レニウム**（にりゅうかレニウム、）とは、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")が ReS<sub>2</sub> と表される[レニウム](../Page/レニウム.md "wikilink")の[硫化物](../Page/硫化物.md "wikilink")である。式量は250.33、密度は7.506 g/cm<sup>3</sup> 、[CAS登録番号](../Page/CAS登録番号.md "wikilink")は \[12038-63-0\]。[択捉島](../Page/択捉島.md "wikilink")で硫化レニウム(IV)を主成分とする[鉱物](../Page/鉱物.md "wikilink")である[レニウム鉱](https://ja.wikipedia.org/wiki/レニウム鉱 "wikilink")を産することが知られる 。

@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[星獣戦隊ギンガマンVSメガレンジャー](https://ja.wikipedia.org/wiki/星獣戦隊ギンガマンVSメガレンジャー)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[ \(B.I.G.\)](https://ja.wikipedia.org/wiki/_\(B.I.G.\))から翻訳されています。
+> この記事は[ボーン・アゲイン \(ノトーリアス・B.I.G.のアルバム\)](https://ja.wikipedia.org/wiki/ボーン・アゲイン_\(ノトーリアス・B.I.G.のアルバム\))から翻訳されています。
 
 
 『**ボーン・アゲイン**』（***Born Again***）は、[1999年](../Page/1999年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[アメリカで発売された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCトルペド・モスクワ](https://ja.wikipedia.org/wiki/FCトルペド・モスクワ)から翻訳されています。
 
 
 **FCトルペド・モスクワ**（****）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とするサッカークラブである。
@@ -96,7 +96,7 @@
 
   - [セルゲイ・パブロフ](https://ja.wikipedia.org/wiki/セルゲイ・パブロフ "wikilink") 2010
 
-  - [イーゴリ・チュガイノフ](https://ja.wikipedia.org/wiki/イーゴリ・チュガイノフ "wikilink") 2010-
+  - [イーゴリ・チュガイノフ](https://ja.wikipedia.org/wiki/イーゴリ・チュガイノフ "wikilink") 2010-2012
 
 ## 歴代在籍選手
 

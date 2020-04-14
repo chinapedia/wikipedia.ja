@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[スーパー桃太郎電鉄DX](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄DX)から翻訳されています。
 
 
 **スーパー桃太郎電鉄DX**（スーパーももたろうでんてつデラックス）は、[ハドソン](../Page/ハドソン.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月8日](../Page/12月8日.md "wikilink")に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第5作である。

@@ -1,4 +1,4 @@
-> この記事は[Circus \(FictionJunction YUUKA\)](https://ja.wikipedia.org/wiki/Circus_\(FictionJunction_YUUKA\))から翻訳されています。
+> この記事は[Circus \(FictionJunction YUUKAのアルバム\)](https://ja.wikipedia.org/wiki/Circus_\(FictionJunction_YUUKAのアルバム\))から翻訳されています。
 
 
 『**circus**』（サーカス）は、[FictionJunction YUUKAの](../Page/FictionJunction_YUUKA.md "wikilink")2枚目のオリジナルアルバム。初回限定盤に付属のDVDには、「Silly-Go-Round」「荒野流転」「romanesque」のプロモーションビデオが収録されている。

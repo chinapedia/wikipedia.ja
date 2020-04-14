@@ -1,4 +1,4 @@
-> この記事は[FolksSoul --](https://ja.wikipedia.org/wiki/FolksSoul_--)から翻訳されています。
+> この記事は[FolksSoul -失われた伝承-](https://ja.wikipedia.org/wiki/FolksSoul_-失われた伝承-)から翻訳されています。
 
 
 『**FolksSoul -失われた伝承-**』（フォークスソウル うしなわれたでんしょう、北米版タイトル "***Folklore***" ）は、[ファンタジー](../Page/ファンタジー.md "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。当初はダークファンタジーと銘打っていたが、分かりづらかったため変更となった。

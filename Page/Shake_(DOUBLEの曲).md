@@ -1,4 +1,4 @@
-> この記事は[Shake \(DOUBLE\)](https://ja.wikipedia.org/wiki/Shake_\(DOUBLE\))から翻訳されています。
+> この記事は[Shake \(DOUBLEの曲\)](https://ja.wikipedia.org/wiki/Shake_\(DOUBLEの曲\))から翻訳されています。
 
 
 「**Shake**」（シェイク）は、日本の女性歌手[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")4枚目のシングル。

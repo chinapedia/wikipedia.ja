@@ -1,4 +1,4 @@
-> この記事は[Destination \(FictionJunction YUUKA\)](https://ja.wikipedia.org/wiki/Destination_\(FictionJunction_YUUKA\))から翻訳されています。
+> この記事は[Destination \(FictionJunction YUUKAのアルバム\)](https://ja.wikipedia.org/wiki/Destination_\(FictionJunction_YUUKAのアルバム\))から翻訳されています。
 
 
 『**Destination**』（ディスティネーション）は、[FictionJunction YUUKAの](../Page/FictionJunction_YUUKA.md "wikilink")1枚目のアルバムである。初回限定盤は、[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")・メイキング・[コマーシャル映像が入った](../Page/コマーシャルメッセージ.md "wikilink")[DVD](../Page/DVD.md "wikilink")付き。

@@ -1,4 +1,4 @@
-> この記事は[U \(DOUBLE\)](https://ja.wikipedia.org/wiki/U_\(DOUBLE\))から翻訳されています。
+> この記事は[U \(DOUBLEの曲\)](https://ja.wikipedia.org/wiki/U_\(DOUBLEの曲\))から翻訳されています。
 
 
 「**U**」（ユー）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")6枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[Singles \(\)](https://ja.wikipedia.org/wiki/Singles_\(\))から翻訳されています。
+> この記事は[Singles \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Singles_\(中島みゆきのアルバム\))から翻訳されています。
 
 
 『**Singles**』（シングルス）は、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の3枚組コレクション・アルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。

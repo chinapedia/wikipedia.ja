@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.クラナガン](https://ja.wikipedia.org/wiki/Dr.クラナガン)から翻訳されています。
 
 
 『**Dr.クラナガン**』（ドクタークラナガン）は、[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[九州](../Page/九州.md "wikilink")地方の[日本テレビ系列局](../Page/日本テレビネットワーク協議会.md "wikilink")6局が共同製作していた[小学生向けの](../Page/在籍者_\(学習者\).md "wikilink")[教育番組](../Page/教育番組.md "wikilink")である。[九州電力](../Page/九州電力.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。製作幹事局の[福岡放送](../Page/福岡放送.md "wikilink")では毎週日曜 17:00 - 17:15 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

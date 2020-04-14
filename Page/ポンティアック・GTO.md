@@ -1,4 +1,4 @@
-> この記事は[GTO](https://ja.wikipedia.org/wiki/GTO)から翻訳されています。
+> この記事は[ポンティアック・GTO](https://ja.wikipedia.org/wiki/ポンティアック・GTO)から翻訳されています。
 
 
 **ポンティアック・GTO**（英:*Pontiac GTO* ）は、[1964年](../Page/1964年.md "wikilink")から[1974年](../Page/1974年.md "wikilink")まで[ポンティアック](../Page/ポンティアック.md "wikilink")、[2004年](../Page/2004年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")まで[オーストラリア](../Page/オーストラリア.md "wikilink")の[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")・[ホールデン](https://ja.wikipedia.org/wiki/ホールデン "wikilink")によって製造された[自動車](../Page/自動車.md "wikilink")である。

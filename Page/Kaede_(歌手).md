@@ -1,4 +1,4 @@
-> この記事は[Kaede \(\)](https://ja.wikipedia.org/wiki/Kaede_\(\))から翻訳されています。
+> この記事は[Kaede \(歌手\)](https://ja.wikipedia.org/wiki/Kaede_\(歌手\))から翻訳されています。
 
 
 **kaede**（かえで、[1979年](../Page/1979年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - ）は、[京都府](../Page/京都府.md "wikilink")出身の日本の女性[歌手](../Page/歌手.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティー](https://ja.wikipedia.org/wiki/ラジオパーソナリティー "wikilink")。本名：非公開。血液型B型。表記は全て小文字でkaede。

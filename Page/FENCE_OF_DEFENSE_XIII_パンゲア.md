@@ -1,4 +1,4 @@
-> この記事は[FENCE OF DEFENSE XIII ](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_XIII_)から翻訳されています。
+> この記事は[FENCE OF DEFENSE XIII パンゲア](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_XIII_パンゲア)から翻訳されています。
 
 
 **FENCE OF DEFENSE XIII パンゲア**（フェンス・オブ・ディフェンス サーティーン パンゲア）は[2005年](../Page/2005年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")13thアルバム。

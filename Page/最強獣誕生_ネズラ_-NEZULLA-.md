@@ -1,4 +1,4 @@
-> この記事は[  -NEZULLA-](https://ja.wikipedia.org/wiki/__-NEZULLA-)から翻訳されています。
+> この記事は[最強獣誕生 ネズラ -NEZULLA-](https://ja.wikipedia.org/wiki/最強獣誕生_ネズラ_-NEZULLA-)から翻訳されています。
 
 
 『**最強獣誕生 ネズラ -NEZULLA-**』（さいきょうじゅうたんじょう ネズラ）は、[2002年](../Page/2002年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[東京国際ファンタスティック映画祭](../Page/東京国際ファンタスティック映画祭.md "wikilink")で公開された[特撮](../Page/特撮.md "wikilink")映画、また劇中に登場した[怪獣](../Page/怪獣.md "wikilink")の名前。

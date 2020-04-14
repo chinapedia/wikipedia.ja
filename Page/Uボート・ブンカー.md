@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[Uボート・ブンカー](https://ja.wikipedia.org/wiki/Uボート・ブンカー)から翻訳されています。
 
 
 [Concrete_U-boat_pens_at_Brest.jpg](https://ja.wikipedia.org/wiki/File:Concrete_U-boat_pens_at_Brest.jpg "fig:Concrete_U-boat_pens_at_Brest.jpg") **Uボート・ブンカー**（）とは[空襲](../Page/空襲.md "wikilink")から[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")を保護する堅牢な[防空施設である](../Page/防空壕.md "wikilink")。

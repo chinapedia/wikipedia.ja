@@ -1,4 +1,4 @@
-> この記事は[SPV \(\)](https://ja.wikipedia.org/wiki/SPV_\(\))から翻訳されています。
+> この記事は[SPV \(企業\)](https://ja.wikipedia.org/wiki/SPV_\(企業\))から翻訳されています。
 
 
 **SPV GmbH**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ニーダーザクセン州](../Page/ニーダーザクセン州.md "wikilink")・[ハノーファー](../Page/ハノーファー.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")・[レコード・レーベル](https://ja.wikipedia.org/wiki/レコード・レーベル "wikilink")。[1984年](../Page/1984年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にマンフレッド・シュッツが設立。[ロックや](../Page/ロック_\(音楽\).md "wikilink")[ヘヴィ・メタル](https://ja.wikipedia.org/wiki/ヘヴィ・メタル "wikilink")を中心にしたラインナップで1980年代のメタル・ブームに乗って躍進。ロック系以外のジャンルのアーティストも擁して2002年時点で6,500点を超える作品を扱い、ヨーロッパ内で有力なレーベルに成長したが、2009年に[倒産](../Page/倒産.md "wikilink")、その後[再建](https://ja.wikipedia.org/wiki/再建 "wikilink")を目指して活動中。

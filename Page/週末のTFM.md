@@ -1,4 +1,4 @@
-> この記事は[TFM](https://ja.wikipedia.org/wiki/TFM)から翻訳されています。
+> この記事は[週末のTFM](https://ja.wikipedia.org/wiki/週末のTFM)から翻訳されています。
 
 
 **週末のTFM**（しゅうまつのティーエフエム）は、[新聞ラテ欄に掲載されている](https://ja.wikipedia.org/wiki/番組表 "wikilink")[TOKYO FMの](../Page/エフエム東京.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")の番組総合編成枠である。

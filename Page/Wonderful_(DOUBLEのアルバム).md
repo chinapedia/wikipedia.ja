@@ -1,4 +1,4 @@
-> この記事は[Wonderful \(DOUBLE\)](https://ja.wikipedia.org/wiki/Wonderful_\(DOUBLE\))から翻訳されています。
+> この記事は[Wonderful \(DOUBLEのアルバム\)](https://ja.wikipedia.org/wiki/Wonderful_\(DOUBLEのアルバム\))から翻訳されています。
 
 
 『**Wonderful**』（ワンダフル）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")3枚目のオリジナル・アルバム。

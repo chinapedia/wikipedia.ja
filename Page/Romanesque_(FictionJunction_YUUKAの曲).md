@@ -1,4 +1,4 @@
-> この記事は[Romanesque \(FictionJunction YUUKA\)](https://ja.wikipedia.org/wiki/Romanesque_\(FictionJunction_YUUKA\))から翻訳されています。
+> この記事は[Romanesque \(FictionJunction YUUKAの曲\)](https://ja.wikipedia.org/wiki/Romanesque_\(FictionJunction_YUUKAの曲\))から翻訳されています。
 
 
 「**romanesque**」（ロマネスク）は、[FictionJunction YUUKAの](../Page/FictionJunction_YUUKA.md "wikilink")7枚目のシングル。2007年4月18日発売。

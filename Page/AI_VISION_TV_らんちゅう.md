@@ -1,4 +1,4 @@
-> この記事は[AI VISION TV ](https://ja.wikipedia.org/wiki/AI_VISION_TV_)から翻訳されています。
+> この記事は[AI VISION TV らんちゅう](https://ja.wikipedia.org/wiki/AI_VISION_TV_らんちゅう)から翻訳されています。
 
 
 『**AI VISION TV らんちゅう**』（アイ・ヴィジョン・ティーヴィー らんちゅう）は、[2007年](../Page/2007年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

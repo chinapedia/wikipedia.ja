@@ -1,4 +1,4 @@
-> この記事は[Handle \(\)](https://ja.wikipedia.org/wiki/Handle_\(\))から翻訳されています。
+> この記事は[Handle \(曲\)](https://ja.wikipedia.org/wiki/Handle_\(曲\))から翻訳されています。
 
 
 「**handle**」（ハンドル）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")5枚目のシングル。

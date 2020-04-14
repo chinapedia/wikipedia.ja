@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR必殺仕事人激闘編](https://ja.wikipedia.org/wiki/CR必殺仕事人激闘編)から翻訳されています。
 
 
 **CR必殺仕事人激闘編**（しーあーるひっさつしごとにんげきとうへん）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")が発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[CR機](../Page/CR機.md "wikilink")）。

@@ -1054,15 +1054,15 @@ TKCA-73512</p></td>
 
 ## ミュージックビデオ
 
-|                                                                                 |                                                                                                 |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **監督**                                                                          | **曲名**                                                                                          |
-| [UGICHIN](../Page/UGICHIN.md "wikilink")                                        | 「[SKANK BOOPS feat.MARTIN KINOO](http://www.indiesmusic.com/musicvideo/video.asp?id=10701)」     |
-| [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink")                           | 「Chukit」                                                                                        |
-| [MOTOTOSHI KIKUCHI](https://ja.wikipedia.org/wiki/MOTOTOSHI_KIKUCHI "wikilink") | 「PERCY PERCY ME」「SOUND GIRLS WiNiE」                                                             |
-| [TAKAYUKI YAMADA](https://ja.wikipedia.org/wiki/TAKAYUKI_YAMADA "wikilink")     | 「BARISTA」                                                                                       |
-| 不明                                                                              | 「FAIRLYTALE OF ESCAPE」「[UPSETTERS\!](http://www.indiesmusic.com/musicvideo/video.asp?id=10700)」 |
-|                                                                                 |                                                                                                 |
+|                                                                                 |                                                                                                  |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **監督**                                                                          | **曲名**                                                                                           |
+| [UGICHIN](../Page/UGICHIN.md "wikilink")                                        | 「[SKANK BOOPS feat.MARTIN KINOO](https://www.indiesmusic.com/musicvideo/video.asp?id=10701)」     |
+| [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink")                           | 「Chukit」                                                                                         |
+| [MOTOTOSHI KIKUCHI](https://ja.wikipedia.org/wiki/MOTOTOSHI_KIKUCHI "wikilink") | 「PERCY PERCY ME」「SOUND GIRLS WiNiE」                                                              |
+| [TAKAYUKI YAMADA](https://ja.wikipedia.org/wiki/TAKAYUKI_YAMADA "wikilink")     | 「BARISTA」                                                                                        |
+| 不明                                                                              | 「FAIRLYTALE OF ESCAPE」「[UPSETTERS\!](https://www.indiesmusic.com/musicvideo/video.asp?id=10700)」 |
+|                                                                                 |                                                                                                  |
 
 ## 主な出演イベント
 

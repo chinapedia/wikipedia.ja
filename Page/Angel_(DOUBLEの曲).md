@@ -1,4 +1,4 @@
-> この記事は[Angel \(DOUBLE\)](https://ja.wikipedia.org/wiki/Angel_\(DOUBLE\))から翻訳されています。
+> この記事は[Angel \(DOUBLEの曲\)](https://ja.wikipedia.org/wiki/Angel_\(DOUBLEの曲\))から翻訳されています。
 
 
 「**Angel**」（エンジェル）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")7枚目のシングル。

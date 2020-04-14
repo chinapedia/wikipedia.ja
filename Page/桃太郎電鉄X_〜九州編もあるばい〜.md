@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[桃太郎電鉄X 〜九州編もあるばい〜](https://ja.wikipedia.org/wiki/桃太郎電鉄X_〜九州編もあるばい〜)から翻訳されています。
 
 
 **桃太郎電鉄X 〜九州編もあるばい〜**（ももたろうでんてつばってん きゅうしゅうへんもあるばい）は、[ハドソン](../Page/ハドソン.md "wikilink")が[2001年](../Page/2001年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ボードゲーム](../Page/ボードゲーム.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")第10作。タイトルは「**[X](../Page/X.md "wikilink")**」とかいて「**ばってん**」と読む。

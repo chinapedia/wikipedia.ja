@@ -13,6 +13,8 @@
 
 2016年10月9日 テレビ番組「[情熱大陸](../Page/情熱大陸.md "wikilink")」で、2014年頃から「[特発性大腿骨頭壊死症](../Page/特発性大腿骨頭壊死症.md "wikilink")」を患っていることを公表\[2\]。
 
+2020年4月1日、[新型コロナウイルスに感染していることが公表される](../Page/2019新型コロナウイルス.md "wikilink")\[3\]\[4\]。
+
 ## ディスコグラフィ
 
 ケツメイシの作品を除く
@@ -67,7 +69,9 @@
 
 ## 脚注
 
-[Category:ケツメイシのメンバー](https://ja.wikipedia.org/wiki/Category:ケツメイシのメンバー "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ケツメイシのメンバー](https://ja.wikipedia.org/wiki/Category:ケツメイシのメンバー "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:特定疾患に罹患した人物](https://ja.wikipedia.org/wiki/Category:特定疾患に罹患した人物 "wikilink")
 
 1.
 2.
+3.
+4.

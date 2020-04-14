@@ -1,4 +1,4 @@
-> この記事は[TOKIO \(TOKIO\)](https://ja.wikipedia.org/wiki/TOKIO_\(TOKIO\))から翻訳されています。
+> この記事は[TOKIO \(TOKIOのアルバム\)](https://ja.wikipedia.org/wiki/TOKIO_\(TOKIOのアルバム\))から翻訳されています。
 
 
 『**TOKIO**』（トキオ）は、[1994年](../Page/1994年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ソニーレコードよりリリースされた](../Page/ソニー・ミュージックレコーズ.md "wikilink")、[TOKIO](../Page/TOKIO.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。

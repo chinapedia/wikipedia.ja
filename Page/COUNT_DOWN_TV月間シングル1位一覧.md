@@ -1,4 +1,4 @@
-> この記事は[COUNT DOWN TV1](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV1)から翻訳されています。
+> この記事は[COUNT DOWN TV月間シングル1位一覧](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV月間シングル1位一覧)から翻訳されています。
 
 
 **COUNT DOWN TV月間シングル1位一覧**（カウントダウン・ティーヴィー げっかんシングル1い いちらん）は、[1993年](../Page/1993年.md "wikilink")4月から[TBSで放送されている](../Page/TBSテレビ.md "wikilink")「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」の1か月間の週間ランキングの合計で一番売れたシングルの一覧である。
@@ -401,7 +401,7 @@
 | 1997年 | [Hate tell a lie](../Page/Hate_tell_a_lie.md "wikilink")                                                            | [華原朋美](../Page/華原朋美.md "wikilink")                         |      |
 | 1998年 | [誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")                                                                           | GLAY                                                       |      |
 | 1999年 | [HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")                                                              | L'Arc〜en〜Ciel                                              |      |
-| 2000年 | [桜坂](../Page/桜坂_\(曲\).md "wikilink")                                                                                | 福山雅治                                                       |      |
+| 2000年 | [桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")                                                        | 福山雅治                                                       |      |
 | 2001年 | [GLOBAL COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")                                                  | GLAY                                                       |      |
 | 2002年 | [SAKURAドロップス/Letters](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")                                 | 宇多田ヒカル                                                     |      |
 | 2003年 | [さくら（独唱）](../Page/さくら_\(森山直太朗の曲\).md "wikilink")                                                                    | [森山直太朗](../Page/森山直太朗.md "wikilink")                       |      |
@@ -597,7 +597,7 @@
 | 2005年 | [青春アミーゴ](../Page/青春アミーゴ.md "wikilink")                                               | [修二と彰](../Page/修二と彰.md "wikilink")                      |       |
 | 2006年 | [しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")                                   | Mr.Children                                             |       |
 | 2007年 | [旅立ちの唄](../Page/旅立ちの唄_\(Mr.Childrenの曲\).md "wikilink")                               | Mr.Children                                             |       |
-| 2008年 | [Beautiful days](https://ja.wikipedia.org/wiki/Beautiful_days "wikilink")            | 嵐                                                       |       |
+| 2008年 | [Beautiful days](https://ja.wikipedia.org/wiki/Beautiful_days_\(嵐の曲\) "wikilink")    | 嵐                                                       |       |
 | 2009年 | \-                                                                                   | \-                                                      | 発表なし  |
 | 2010年 | \-                                                                                   | \-                                                      | 発表なし  |
 | 2011年 | \-                                                                                   | \-                                                      | 発表なし  |

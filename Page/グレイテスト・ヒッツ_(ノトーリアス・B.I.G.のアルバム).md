@@ -1,4 +1,4 @@
-> この記事は[ \(B.I.G.\)](https://ja.wikipedia.org/wiki/_\(B.I.G.\))から翻訳されています。
+> この記事は[グレイテスト・ヒッツ \(ノトーリアス・B.I.G.のアルバム\)](https://ja.wikipedia.org/wiki/グレイテスト・ヒッツ_\(ノトーリアス・B.I.G.のアルバム\))から翻訳されています。
 
 
 **グレイテスト･ヒッツ**（***Greatest Hits***）は[2007年](../Page/2007年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[アメリカで発売された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。

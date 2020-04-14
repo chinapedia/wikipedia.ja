@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[マツダSC](https://ja.wikipedia.org/wiki/マツダSC)から翻訳されています。
 
 
 **マツダSC**（マツダえすしー）は、[広島県](../Page/広島県.md "wikilink")を拠点とする、自動車メーカー[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部である。

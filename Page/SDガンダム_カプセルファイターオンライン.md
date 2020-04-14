@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム カプセルファイターオンライン](https://ja.wikipedia.org/wiki/SDガンダム_カプセルファイターオンライン)から翻訳されています。
 
 
 **SDガンダム カプセルファイターオンライン**とは、[デフォルメ](../Page/デフォルメ.md "wikilink")された[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")の[モビルスーツ](../Page/モビルスーツ.md "wikilink")たちが戦う、[Microsoft](../Page/マイクロソフト.md "wikilink") [WindowsPC用のオンラインアクション](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。ガンダムゲーム初の無料でプレイできる課金スタイルをとっている。従来の[SDガンダム](../Page/SDガンダム.md "wikilink")の頭身は2頭身のものが多かったが、本作は3頭身になっている。

@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[轟轟戦隊ボウケンジャーVSスーパー戦隊](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャーVSスーパー戦隊)から翻訳されています。
 
 
 <table>

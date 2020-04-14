@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[グレン・S・フクシマ](https://ja.wikipedia.org/wiki/グレン・S・フクシマ)から翻訳されています。
 
 
 **グレン・S・フクシマ**（**Glen S. Fukushima**、[1949年](../Page/1949年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")3世の[実業家](../Page/実業家.md "wikilink")、[米国政府官僚](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身。妻は[橘・フクシマ・咲江](../Page/橘・フクシマ・咲江.md "wikilink")。

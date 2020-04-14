@@ -1,4 +1,4 @@
-> この記事は[DEAD OR ALIVE ](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_)から翻訳されています。
+> この記事は[DEAD OR ALIVE 犯罪者](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_犯罪者)から翻訳されています。
 
 
 『**DEAD OR ALIVE 犯罪者**』（デッドオアアライブはんざいしゃ）は[1999年](../Page/1999年.md "wikilink")に[三池崇史](../Page/三池崇史.md "wikilink")監督、[哀川翔](../Page/哀川翔.md "wikilink")、[竹内力](../Page/竹内力.md "wikilink")、主演で制作された[日本映画](../Page/日本映画.md "wikilink")。[刑事](../Page/刑事.md "wikilink")と[中国残留孤児](../Page/中国残留日本人.md "wikilink")3世との戦いを描いた[バイオレンス](../Page/暴力.md "wikilink")・[アクション](../Page/アクション映画.md "wikilink")。衝撃的なラストシーンで話題になった。[R-15指定](../Page/映画のレイティングシステム.md "wikilink")。

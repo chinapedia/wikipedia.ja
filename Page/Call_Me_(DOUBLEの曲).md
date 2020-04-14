@@ -1,4 +1,4 @@
-> この記事は[Call Me \(DOUBLE\)](https://ja.wikipedia.org/wiki/Call_Me_\(DOUBLE\))から翻訳されています。
+> この記事は[Call Me \(DOUBLEの曲\)](https://ja.wikipedia.org/wiki/Call_Me_\(DOUBLEの曲\))から翻訳されています。
 
 
 「**Call Me**」（コール・ミー）は、[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")13枚目のシングル。

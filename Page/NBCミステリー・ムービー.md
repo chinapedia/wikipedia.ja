@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCミステリー・ムービー](https://ja.wikipedia.org/wiki/NBCミステリー・ムービー)から翻訳されています。
 
 
 **NBCミステリー・ムービー**（英語タイトル：**NBC (Sunday) Mystery Movie**）は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")9月から[1977年](../Page/1977年.md "wikilink")5月まで[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](../Page/NBC.md "wikilink")で放送された、2時間もしくは90分のテレビドラマ枠。『[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")』、『[警部マクロード](../Page/警部マクロード.md "wikilink")』、『[署長マクミラン](../Page/署長マクミラン.md "wikilink")』他1作品をローテーション\[1\]で放送していた。共通のオープニングテーマは、日本では「刑事コロンボのテーマ」として認知されている[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")作曲の『Mystery Movie Theme』。全作品とも制作は[ユニバーサル映画](https://ja.wikipedia.org/wiki/ユニバーサル映画 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TXN \(\)](https://ja.wikipedia.org/wiki/TXN_\(\))から翻訳されています。
+> この記事は[TXNニュースアイ \(テレビ愛知\)](https://ja.wikipedia.org/wiki/TXNニュースアイ_\(テレビ愛知\))から翻訳されています。
 
 
 この項目で解説する『**TXNニュースアイ**』（ティーエックスエヌ ニュースアイ）は、[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[報道番組](../Page/報道番組.md "wikilink")。放送時間は毎週月曜 - 金曜 17:25 - 17:55\[1\]([JST](../Page/日本標準時.md "wikilink")) 。[テレビ東京系全国ネットニュース](https://ja.wikipedia.org/wiki/TXN "wikilink")『[TXNニュースアイ](../Page/TXNニュースアイ.md "wikilink")』のテレビ愛知ローカルパートに相当する。

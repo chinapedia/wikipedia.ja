@@ -1,4 +1,4 @@
-> この記事は[PSI \(\)](https://ja.wikipedia.org/wiki/PSI_\(\))から翻訳されています。
+> この記事は[PSI \(オウム真理教\)](https://ja.wikipedia.org/wiki/PSI_\(オウム真理教\))から翻訳されています。
 
 
 **PSI**（Perfect Salvation Initiation 完全救済イニシエーション）は、[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")の修行の一つ。または、この修行に使用する装置である[ヘッドギア](https://ja.wikipedia.org/wiki/ヘッドギア "wikilink")そのものを指す。

@@ -1,4 +1,4 @@
-> この記事は[FRESH \(\)](https://ja.wikipedia.org/wiki/FRESH_\(\))から翻訳されています。
+> この記事は[FRESH \(アルバム\)](https://ja.wikipedia.org/wiki/FRESH_\(アルバム\))から翻訳されています。
 
 
 『**FRESH**』（フレッシュ）は、[JUDY AND MARY初の](../Page/JUDY_AND_MARY.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。

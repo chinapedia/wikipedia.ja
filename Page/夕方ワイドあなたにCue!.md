@@ -1,4 +1,4 @@
-> この記事は[Cue!](https://ja.wikipedia.org/wiki/Cue!)から翻訳されています。
+> この記事は[夕方ワイドあなたにCue!](https://ja.wikipedia.org/wiki/夕方ワイドあなたにCue!)から翻訳されています。
 
 
 『**夕方ワイドあなたにCue\!**』（ゆうがたワイドあなたにキュー）は、[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で放送された[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。通称『**あなCue\!**』。[モノラル放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")\[1\]を実施。

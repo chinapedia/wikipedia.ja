@@ -1,4 +1,4 @@
-> この記事は[ Club Disney ](https://ja.wikipedia.org/wiki/_Club_Disney_)から翻訳されています。
+> この記事は[東京ディズニーランド Club Disney スーパーダンシン・マニア〜メガビート](https://ja.wikipedia.org/wiki/東京ディズニーランド_Club_Disney_スーパーダンシン・マニア〜メガビート)から翻訳されています。
 
 
 『**東京ディズニーランド Club Disney スーパーダンシン・マニア〜メガビート**』(Tokyo Disneyland Club Disney Super Dancin' Mania \~ Mega Beat)は、[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")で[2000年](../Page/2000年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")〜[6月30日](../Page/6月30日.md "wikilink")にかけて開催された[スペシャルイベント](https://ja.wikipedia.org/wiki/東京ディズニーランドのスペシャルイベント "wikilink")、『[Club Disney スーパーダンシン・マニア](https://ja.wikipedia.org/wiki/Club_Disney_スーパーダンシン・マニア "wikilink")』のうち、1月21日〜[3月17日](../Page/3月17日.md "wikilink")にかけて開催された1stステージ「メガビート」で使用された楽曲を収録した[アルバム](../Page/アルバム.md "wikilink")である。

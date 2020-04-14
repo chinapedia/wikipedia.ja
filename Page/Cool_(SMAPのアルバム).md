@@ -1,4 +1,4 @@
-> この記事は[Cool \(SMAP\)](https://ja.wikipedia.org/wiki/Cool_\(SMAP\))から翻訳されています。
+> この記事は[Cool \(SMAPのアルバム\)](https://ja.wikipedia.org/wiki/Cool_\(SMAPのアルバム\))から翻訳されています。
 
 
 『**Cool**』（クール）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。

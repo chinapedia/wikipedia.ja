@@ -46,7 +46,7 @@
 
 ## 外部リンク
 
-  - [SUPER BABY'S](http://homepage1.nifty.com/MAMACHU/) （井ノ本リカ子とBENNY'SのHP）
+  - （井ノ本リカ子とBENNY'SのHP）
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:ボーイズラブ漫画家](https://ja.wikipedia.org/wiki/Category:ボーイズラブ漫画家 "wikilink") [Category:やおい漫画家](https://ja.wikipedia.org/wiki/Category:やおい漫画家 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

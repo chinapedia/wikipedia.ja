@@ -1,4 +1,4 @@
-> この記事は[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM)から翻訳されています。
+> この記事は[TOKYO FM渋谷スペイン坂スタジオ](https://ja.wikipedia.org/wiki/TOKYO_FM渋谷スペイン坂スタジオ)から翻訳されています。
 
 
 [TOKYO_FM_Spainzaka_studio.jpg](https://ja.wikipedia.org/wiki/File:TOKYO_FM_Spainzaka_studio.jpg "fig:TOKYO_FM_Spainzaka_studio.jpg") **TOKYO FM 渋谷スペイン坂スタジオ**（トウキョウエフエム しぶやスペインざかスタジオ）は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[渋谷パルコ](https://ja.wikipedia.org/wiki/渋谷パルコ "wikilink")part1の1Fにあった[エフエム東京 FM）の](../Page/エフエム東京.md "wikilink")（TOKYO[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")。

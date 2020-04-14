@@ -1,4 +1,4 @@
-> この記事は[PAPA](https://ja.wikipedia.org/wiki/PAPA)から翻訳されています。
+> この記事は[ドリームネットPAPA](https://ja.wikipedia.org/wiki/ドリームネットPAPA)から翻訳されています。
 
 
 『**ドリームネットPAPA**』は[柴田亜美](../Page/柴田亜美.md "wikilink")の漫画。 [講談社](../Page/講談社.md "wikilink")「[amie](https://ja.wikipedia.org/wiki/amie "wikilink")」で連載。全4巻。

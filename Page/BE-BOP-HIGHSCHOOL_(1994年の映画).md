@@ -1,4 +1,4 @@
-> この記事は[BE-BOP-HIGHSCHOOL \(1994\)](https://ja.wikipedia.org/wiki/BE-BOP-HIGHSCHOOL_\(1994\))から翻訳されています。
+> この記事は[BE-BOP-HIGHSCHOOL \(1994年の映画\)](https://ja.wikipedia.org/wiki/BE-BOP-HIGHSCHOOL_\(1994年の映画\))から翻訳されています。
 
 
 『**BE-BOP-HIGHSCHOOL**』（ビー・バップ・ハイスクール）は、[1994年](../Page/1994年.md "wikilink")に[同名漫画を](../Page/ビー・バップ・ハイスクール.md "wikilink")、[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")「カルロス」で監督デビューした原作者の[きうちかずひろ](../Page/きうちかずひろ.md "wikilink")自身が監督した映画。

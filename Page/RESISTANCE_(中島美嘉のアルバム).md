@@ -1,4 +1,4 @@
-> この記事は[RESISTANCE \(\)](https://ja.wikipedia.org/wiki/RESISTANCE_\(\))から翻訳されています。
+> この記事は[RESISTANCE \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/RESISTANCE_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**RESISTANCE**』（レジスタンス）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の1枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。20万枚完全限定生産。

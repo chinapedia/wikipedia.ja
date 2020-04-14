@@ -1,4 +1,4 @@
-> この記事は[ATX](https://ja.wikipedia.org/wiki/ATX)から翻訳されています。
+> この記事は[ATX電源](https://ja.wikipedia.org/wiki/ATX電源)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HEC_350W_ATX_power_supply.jpg "wikilink") **ATX電源**（エーティーエックスでんげん、）は、[ATX](../Page/ATX.md "wikilink")コンピュータ用の[電源](../Page/電源.md "wikilink")回路を収めた[ユニット](../Page/ユニット.md "wikilink")の標準[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")、およびその規格に準じた電源ユニット・電源装置を指す。2018年現在、[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")(PC)用の電源としては、最も一般的なものである。[AC](../Page/AC.md "wikilink")100[Vや](../Page/ボルト_\(単位\).md "wikilink")220Vといった商用[電源](../Page/電源.md "wikilink")を入力とし、内部で12Vや5Vといった[直流](../Page/直流.md "wikilink")に変換を行い、PC各部へ給電する為の出力を作り出す。

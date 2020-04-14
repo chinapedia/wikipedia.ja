@@ -1,4 +1,4 @@
-> この記事は[WORKING!! \(WEB\)](https://ja.wikipedia.org/wiki/WORKING!!_\(WEB\))から翻訳されています。
+> この記事は[WORKING!! \(WEB版\)](https://ja.wikipedia.org/wiki/WORKING!!_\(WEB版\))から翻訳されています。
 
 
 『**WORKING\!\!**』（ワーキング）は、[高津カリノ](../Page/高津カリノ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。自営のウェブサイト「うろんなページ」にて[2002年](../Page/2002年.md "wikilink")から[2012年](../Page/2012年.md "wikilink")まで連載され、[2015年](../Page/2015年.md "wikilink")に単行本化、[2016年](../Page/2016年.md "wikilink")にアニメ化された。

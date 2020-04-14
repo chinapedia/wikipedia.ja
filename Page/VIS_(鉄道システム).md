@@ -1,4 +1,4 @@
-> この記事は[VIS \(\)](https://ja.wikipedia.org/wiki/VIS_\(\))から翻訳されています。
+> この記事は[VIS \(鉄道システム\)](https://ja.wikipedia.org/wiki/VIS_\(鉄道システム\))から翻訳されています。
 
 
 **VIS**は、情報提供装置 (Visual Information System) の略称で、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[一般形電車に搭載されている旅客案内装置である](../Page/一般形車両_\(鉄道\).md "wikilink")。 [thumbの旅客案内表示器](https://ja.wikipedia.org/wiki/ファイル:JREaste-SeriesE233-LCD.JPG "wikilink")\]\]

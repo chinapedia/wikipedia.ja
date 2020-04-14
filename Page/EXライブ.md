@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[EXライブ](https://ja.wikipedia.org/wiki/EXライブ)から翻訳されています。
 
 
 **EXライブ**（イーエックスライブ）は、[エキスプレスが運営していたCSチャンネル](../Page/エキスプレス_\(制作プロダクション\).md "wikilink")。[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")と一部の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")にて配信されていた。
@@ -101,4 +101,4 @@
   -
 [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink")
 
-[Category:公営競技チャンネル](https://ja.wikipedia.org/wiki/Category:公営競技チャンネル "wikilink")
+[Category:公営競技チャンネル](https://ja.wikipedia.org/wiki/Category:公営競技チャンネル "wikilink") [Category:競艇のメディア](https://ja.wikipedia.org/wiki/Category:競艇のメディア "wikilink")

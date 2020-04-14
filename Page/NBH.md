@@ -1,7 +1,7 @@
 > この記事は[NBH](https://ja.wikipedia.org/wiki/NBH)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Emblem_of_the_Constitution_Protection_Office_of_Hungary.svg "wikilink") **ハンガリー国家保安庁**（[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")：**Nemzetbiztonsági Hivatal**、略称：**NBH**）は、ハンガリーの諜報機関。主として防衛任務（防諜、対テロリズム、関連する予防措置）について責任を負っている。保安庁はまた、犯罪組織および（政治的過激派のような）社会への（主として国内の）脅威との取引に対して捜査を指揮する。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Emblem_of_the_Constitution_Protection_Office_of_Hungary.svg "wikilink") **ハンガリー国家保安庁**（[ハンガリー語](../Page/ハンガリー語.md "wikilink")：**Nemzetbiztonsági Hivatal**、略称：**NBH**）は、ハンガリーの諜報機関。主として防衛任務（防諜、対テロリズム、関連する予防措置）について責任を負っている。保安庁はまた、犯罪組織および（政治的過激派のような）社会への（主として国内の）脅威との取引に対して捜査を指揮する。
 
 この機関は、社会主義時代終焉の後、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に設立され、現代の法を基盤として、多くの情報収集に従事し、[政府](../Page/政府.md "wikilink")がそれを支援している。その前身は内務省の一部門（第III部）であった。
 

@@ -1,4 +1,4 @@
-> この記事は[HIDECHAN! ](https://ja.wikipedia.org/wiki/HIDECHAN!_)から翻訳されています。
+> この記事は[HIDECHAN! ラジオ](https://ja.wikipedia.org/wiki/HIDECHAN!_ラジオ)から翻訳されています。
 
 
 **HIDECHAN\! RADIO**（ヒデチャン\! ラジオ）とは、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")傘下の[小島プロダクション](../Page/小島プロダクション.md "wikilink")公式ホームページ内のコンテンツ・HIDEOBLOG内にて配信している[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。

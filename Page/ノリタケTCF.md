@@ -1,4 +1,4 @@
-> この記事は[TCF](https://ja.wikipedia.org/wiki/TCF)から翻訳されています。
+> この記事は[ノリタケTCF](https://ja.wikipedia.org/wiki/ノリタケTCF)から翻訳されています。
 
 
 **ノリタケTCF株式会社**は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")に本社を置く工業炉メーカー。

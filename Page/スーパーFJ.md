@@ -1,4 +1,4 @@
-> この記事は[FJ](https://ja.wikipedia.org/wiki/FJ)から翻訳されています。
+> この記事は[スーパーFJ](https://ja.wikipedia.org/wiki/スーパーFJ)から翻訳されています。
 
 
 **スーパーFJ**（スーパーエフジェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")レースのカテゴリー名。[2007年](../Page/2007年.md "wikilink")より、[FJ1600](../Page/FJ1600.md "wikilink")に代わる新シリーズとして開催されている。いわゆる[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")に属する。

@@ -1,4 +1,4 @@
-> この記事は[SSV](https://ja.wikipedia.org/wiki/SSV)から翻訳されています。
+> この記事は[SSVロイトリンゲン](https://ja.wikipedia.org/wiki/SSVロイトリンゲン)から翻訳されています。
 
 
 **SSVロイトリンゲン**（SSV Reutlingen）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ロイトリンゲン](../Page/ロイトリンゲン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

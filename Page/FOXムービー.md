@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXムービー](https://ja.wikipedia.org/wiki/FOXムービー)から翻訳されています。
 
 
 **FOXムービー**（フォックスムービー）は、[FOXインターナショナル・チャンネルズ → FOXネットワークスが運営する映画](../Page/FOXネットワークス・グループ.md "wikilink")・プロ野球中継[専門チャンネル](../Page/専門チャンネル.md "wikilink")。
@@ -50,7 +50,7 @@
 
   - [FOXプラス](https://ja.wikipedia.org/wiki/FOXプラス "wikilink") - 毎週土曜6:00 - 日曜6:00まで本チャンネルの[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた（2012年9月30日で放送終了）。
   - [スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")
-      - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink") - [日本テレビ系列局の衛星基幹放送事業者](../Page/日本テレビ放送網.md "wikilink")
+      - [シーエス日本](../Page/CS日本.md "wikilink") - [日本テレビ系列局の衛星基幹放送事業者](../Page/日本テレビ放送網.md "wikilink")
   - [FOX](../Page/FOXチャンネル.md "wikilink")
   - [ナショナル ジオグラフィック 未知の自然・宇宙・歴史](../Page/ナショナルジオグラフィック_\(テレビチャンネル\).md "wikilink")
   - [スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")

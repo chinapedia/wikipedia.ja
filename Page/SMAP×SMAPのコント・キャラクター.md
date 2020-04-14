@@ -1,4 +1,4 @@
-> この記事は[SMAPSMAP](https://ja.wikipedia.org/wiki/SMAPSMAP)から翻訳されています。
+> この記事は[SMAP×SMAPのコント・キャラクター](https://ja.wikipedia.org/wiki/SMAP×SMAPのコント・キャラクター)から翻訳されています。
 
 
 **SMAP×SMAPのコント・キャラクター**は、[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』内で行われたコント・キャラクターの解説の一覧である。
@@ -412,7 +412,7 @@
 
   - ゴロゴ13（稲垣・中居・香取）
       -
-        1998年[4月27日](../Page/4月27日.md "wikilink")初放送。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』のパロディ。ゴロゴ13が任務を命じられるが、失敗し滝のように汗を流す。
+        1998年[4月27日](../Page/4月27日.md "wikilink")初放送。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』のパロディ。ゴロゴ13が任務を命じられるが、失敗し滝のように汗を流す。そして、中居に頭を叩かれるのがお約束になっている。
 
 <!-- end list -->
 

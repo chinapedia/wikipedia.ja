@@ -1,4 +1,4 @@
-> この記事は[IQVIA ](https://ja.wikipedia.org/wiki/IQVIA_)から翻訳されています。
+> この記事は[IQVIAソリューションズ ジャパン](https://ja.wikipedia.org/wiki/IQVIAソリューションズ_ジャパン)から翻訳されています。
 
 
 **IQVIAソリューションズ ジャパン株式会社**（アイキューヴィアソリューションズジャパン、IQVIA Solutions Japan K.K.）は、医療業界に医療情報とテクノロジーを提供するグローバル企業 米IQVIAの日本法人。
@@ -19,4 +19,4 @@ IQVIAの本社は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリ
   - [IQVIAジャパン](https://www.iqvia.com/ja-jp/locations/japan)
   - [IQVIA](https://www.iqvia.com/)
 
-[Category:コンサルティングファーム](https://ja.wikipedia.org/wiki/Category:コンサルティングファーム "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:医療関連の企業](https://ja.wikipedia.org/wiki/Category:医療関連の企業 "wikilink")
+[Category:日本のコンサルティングファーム](https://ja.wikipedia.org/wiki/Category:日本のコンサルティングファーム "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:医療関連の企業](https://ja.wikipedia.org/wiki/Category:医療関連の企業 "wikilink")

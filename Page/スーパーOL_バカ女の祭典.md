@@ -1,4 +1,4 @@
-> この記事は[OL ](https://ja.wikipedia.org/wiki/OL_)から翻訳されています。
+> この記事は[スーパーOL バカ女の祭典](https://ja.wikipedia.org/wiki/スーパーOL_バカ女の祭典)から翻訳されています。
 
 
 『**スーパーOL バカ女の祭典**』（スーパーオーエル バカおんなのさいてん）は、[山田まりお](https://ja.wikipedia.org/wiki/山田まりお "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。
@@ -72,4 +72,4 @@
 
 [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink")
 
-[Category:まんがタイム](https://ja.wikipedia.org/wiki/Category:まんがタイム "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:複数誌並行連載の漫画作品](https://ja.wikipedia.org/wiki/Category:複数誌並行連載の漫画作品 "wikilink")
+[Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:まんがタイムの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムの4コマ漫画作品 "wikilink") [Category:複数誌並行連載の漫画作品](https://ja.wikipedia.org/wiki/Category:複数誌並行連載の漫画作品 "wikilink")

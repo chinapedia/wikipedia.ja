@@ -1,4 +1,4 @@
-> この記事は[XL7](https://ja.wikipedia.org/wiki/XL7)から翻訳されています。
+> この記事は[スズキ・XL7](https://ja.wikipedia.org/wiki/スズキ・XL7)から翻訳されています。
 
 
 [1st_Suzuki_XL-7.jpg](https://ja.wikipedia.org/wiki/File:1st_Suzuki_XL-7.jpg "fig:1st_Suzuki_XL-7.jpg") [2004.suzuki.grand.vitara.2point0td.arp.jpg](https://ja.wikipedia.org/wiki/File:2004.suzuki.grand.vitara.2point0td.arp.jpg "fig:2004.suzuki.grand.vitara.2point0td.arp.jpg") **XL7**（初代はXL-7）は[スズキが日本国外で製造](../Page/スズキ_\(企業\).md "wikilink")・販売している3列シート[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[クリスチーネ・F](https://ja.wikipedia.org/wiki/クリスチーネ・F)から翻訳されています。
 
 
 『**クリスチーネ・F \~麻薬と売春の日々\~**』（*Christiane F. – Wir Kinder vom Bahnhof Zoo*）は、[1981年](../Page/1981年.md "wikilink")製作の[西ドイツ](../Page/西ドイツ.md "wikilink")映画。実録手記に基づいた[伝記](../Page/伝記.md "wikilink")映画である。

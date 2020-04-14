@@ -1,4 +1,4 @@
-> この記事は[GET THE GOAL!! 4V4](https://ja.wikipedia.org/wiki/GET_THE_GOAL!!_4V4)から翻訳されています。
+> この記事は[GET THE GOAL!! 4V4嵐](https://ja.wikipedia.org/wiki/GET_THE_GOAL!!_4V4嵐)から翻訳されています。
 
 
 『**GET THE GOAL\!\! 4V4嵐**』（ゲット・ザ・ゴール フォー・ヴイ・フォーあらし）は[こしたてつひろ](../Page/こしたてつひろ.md "wikilink")による4V4漫画作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』誌上において2000年3月から2001年12月号まで連載された。コミックスは全4巻。

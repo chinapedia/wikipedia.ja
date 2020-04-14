@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK春日ラジオ放送所](https://ja.wikipedia.org/wiki/NHK春日ラジオ放送所)から翻訳されています。
 
 
 **NHK春日ラジオ放送所**（えぬえいちけいかすがらじおほうそうじょ）は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")の[ラジオ第1放送と](../Page/NHKラジオ第1放送.md "wikilink")[ラジオ第2放送の電波を送信するための施設である](../Page/NHKラジオ第2放送.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RURU \(\)](https://ja.wikipedia.org/wiki/RURU_\(\))から翻訳されています。
+> この記事は[RURU \(声優\)](https://ja.wikipedia.org/wiki/RURU_\(声優\))から翻訳されています。
 
 
 **RURU**（**Ruru**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")に出演。

@@ -1,4 +1,4 @@
-> この記事は[STEP BY STEP \(ZIGGY\)](https://ja.wikipedia.org/wiki/STEP_BY_STEP_\(ZIGGY\))から翻訳されています。
+> この記事は[STEP BY STEP \(ZIGGYの曲\)](https://ja.wikipedia.org/wiki/STEP_BY_STEP_\(ZIGGYの曲\))から翻訳されています。
 
 
 「**STEP BY STEP**」（ステップ・バイ・ステップ）は、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。

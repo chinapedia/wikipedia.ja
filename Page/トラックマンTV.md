@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[トラックマンTV](https://ja.wikipedia.org/wiki/トラックマンTV)から翻訳されています。
 
 
 **トラックマンTV**（トラックマンティーヴィー）は、[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")で放送されている[競馬](../Page/競馬.md "wikilink")に関する[テレビ番組](../Page/テレビ番組.md "wikilink")である。2008年からは土曜日に「[KEIBAコンシェルジュ](https://ja.wikipedia.org/wiki/KEIBAコンシェルジュ "wikilink")」が放送されるため、金曜日と土・日曜日以外の開催日の前日のみの放送となり、2009年からは金杯を除く土・日曜日以外の開催日の前日も「KEIBAコンシェルジュ」が放送されるため金杯の前日と金曜日のみとなった。
@@ -25,7 +25,7 @@
 ### 司会
 
   - [三遊亭五九楽](../Page/三遊亭五九楽.md "wikilink")（2010年から）
-  - [秋田奈津子](https://ja.wikipedia.org/wiki/秋田奈津子 "wikilink")（2019年１月 - ）
+  - [荘司典子](../Page/荘司典子.md "wikilink")（2020年3月19日から　秋田奈津子の産休に伴う ）
 
 ### 過去の司会
 
@@ -34,6 +34,7 @@
   - [関野浩之](../Page/関野浩之.md "wikilink")
   - [芦谷有香](../Page/芦谷有香.md "wikilink")
   - [小島友実](https://ja.wikipedia.org/wiki/小島友実 "wikilink")
+  - [秋田奈津子](https://ja.wikipedia.org/wiki/秋田奈津子 "wikilink")（2019年１月 -　2020年3月13日 ）
 
 ## コーナー
 

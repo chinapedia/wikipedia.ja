@@ -1,4 +1,4 @@
-> この記事は[ICE \(\)](https://ja.wikipedia.org/wiki/ICE_\(\))から翻訳されています。
+> この記事は[ICE \(アニメ\)](https://ja.wikipedia.org/wiki/ICE_\(アニメ\))から翻訳されています。
 
 
 『**ICE**』（アイス）は、[2007年](../Page/2007年.md "wikilink")に[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")よりリリースされた[OVA](../Page/OVA.md "wikilink")。全3巻。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")には、[池袋テアトルダイヤで再編集完全版](../Page/東京テアトル.md "wikilink")『**ICE〈劇場版〉**』が限定レイトショー公開された。

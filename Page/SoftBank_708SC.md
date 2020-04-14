@@ -23,7 +23,7 @@
 
 ## 特徴
 
-なんと言っても[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式で**世界最薄**の厚さ約8.4mmである。この薄さ（スーツの胸ポケットにも収まる）からなる傑出した携帯性と、中間色のカラーバリエーションから、メーカーはこの708SCをビジネスマン向けの端末と位置づけていた。ディスプレイのサイズは1.9インチと小さい方ではあるが、メーカーが『[ランドスケープ](../Page/ランドスケープ.md "wikilink")型液晶』と名づけた横型になっており、メールや[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")の閲覧やカメラ撮影の際に便利である。また、なだらかな曲線を巧妙に織り交ぜた筐体デザインのため、同じストレート端末でも、完全な[直方体](https://ja.wikipedia.org/wiki/直方体 "wikilink")デザインの[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[D703i](../Page/D703i.md "wikilink")と違って手に馴染みやすい。しかし、[905SHや](../Page/Vodafone_905SH.md "wikilink")[911SHのようなワイド対応S](../Page/SoftBank_911SH.md "wikilink")\!アプリ対応という仕様にして欲しかったという意見もある。
+なんと言っても[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式で**世界最薄**の厚さ約8.4mmである。この薄さ（スーツの胸ポケットにも収まる）からなる傑出した携帯性と、中間色のカラーバリエーションから、メーカーはこの708SCをビジネスマン向けの端末と位置づけていた。ディスプレイのサイズは1.9インチと小さい方ではあるが、メーカーが『[ランドスケープ](../Page/ランドスケープ.md "wikilink")型液晶』と名づけた横型になっており、メールや[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")の閲覧やカメラ撮影の際に便利である。また、なだらかな曲線を巧妙に織り交ぜた筐体デザインのため、同じストレート端末でも、完全な[直方体](../Page/直方体.md "wikilink")デザインの[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[D703i](../Page/D703i.md "wikilink")と違って手に馴染みやすい。しかし、[905SHや](../Page/Vodafone_905SH.md "wikilink")[911SHのようなワイド対応S](../Page/SoftBank_911SH.md "wikilink")\!アプリ対応という仕様にして欲しかったという意見もある。
 
 ## 付属品
 

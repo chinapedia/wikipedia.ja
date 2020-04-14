@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[首都圏ICカード相互利用サービス](https://ja.wikipedia.org/wiki/首都圏ICカード相互利用サービス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:PASMO_Automatic_Ticket_Gate.jpg "wikilink") **首都圏ICカード相互利用サービス**（しゅとけんアイシーカードそうごりようサービス）\[1\]は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）等が発行するICカード乗車券「[Suica](../Page/Suica.md "wikilink")」と、[パスモ](../Page/パスモ.md "wikilink")が発行するICカード乗車券「[PASMO](../Page/PASMO.md "wikilink")」について、お互いのエリア内の交通機関を相互に利用可能とし、合わせて[電子マネー](../Page/電子マネー.md "wikilink")機能を含めた、双方が提供する主要なサービスを相互に共通利用できるサービス。[2007年](../Page/2007年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にサービスを開始した。

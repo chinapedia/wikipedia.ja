@@ -1,4 +1,4 @@
-> この記事は[5ZIGEN](https://ja.wikipedia.org/wiki/5ZIGEN)から翻訳されています。
+> この記事は[5ZIGENインターナショナル](https://ja.wikipedia.org/wiki/5ZIGENインターナショナル)から翻訳されています。
 
 
 **5ZIGENインターナショナル株式会社**（ごじげんインターナショナル、）は、[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")に本社を置く自動車部品メーカー。主に[マフラーや](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")[アルミホイール](../Page/アルミホイール.md "wikilink")の製造・販売を行っている。

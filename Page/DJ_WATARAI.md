@@ -1,12 +1,12 @@
 > この記事は[DJ WATARAI](https://ja.wikipedia.org/wiki/DJ_WATARAI)から翻訳されています。
 
 
-**DJ WATARAI**（ディージェイ・ワタライ、本名：渡会浩\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")。[桐蔭横浜大学](../Page/桐蔭横浜大学.md "wikilink")卒業。
+**DJ WATARAI**（ディージェイ・ワタライ、本名：**渡会 浩**\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")。[桐蔭横浜大学](../Page/桐蔭横浜大学.md "wikilink")卒業。
 
 ## 人物
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[MTV](../Page/MTV.md "wikilink")で放送された[ピート・ロック](../Page/ピート・ロック.md "wikilink")のインタビューに衝撃を受けて、トラック制作を始める。\[2\]
-  - [MURO](../Page/MURO.md "wikilink")や[NITRO MICROPHONE UNDERGROUNDを中心に](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")など様々なアーティストへの楽曲提供・リミックス・アレンジメントを担当。\[3\]
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[MTV](../Page/MTV.md "wikilink")で放送された[ピート・ロック](../Page/ピート・ロック.md "wikilink")のインタビューに衝撃を受けて、トラック制作を始める\[2\]。
+  - [MURO](../Page/MURO.md "wikilink")や[NITRO MICROPHONE UNDERGROUNDを中心に](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")など様々なアーティストへの楽曲提供・リミックス・アレンジメントを担当\[3\]。
 
 ## ディスコグラフィ
 
@@ -173,7 +173,7 @@
 
   -
   -
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:桐蔭横浜大学出身の人物](https://ja.wikipedia.org/wiki/Category:桐蔭横浜大学出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:桐蔭横浜大学出身の人物](https://ja.wikipedia.org/wiki/Category:桐蔭横浜大学出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.   クラベリア|url=[https://clubberia.com/ja/artists/346-DJ-Watarai/|website=clubberia.com|accessdate=2019-02-16|language=ja](https://clubberia.com/ja/artists/346-DJ-Watarai/%7Cwebsite=clubberia.com%7Caccessdate=2019-02-16%7Clanguage=ja)}}

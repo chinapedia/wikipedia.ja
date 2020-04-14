@@ -1,4 +1,4 @@
-> この記事は[TR-I](https://ja.wikipedia.org/wiki/TR-I)から翻訳されています。
+> この記事は[TR-Iロケット](https://ja.wikipedia.org/wiki/TR-Iロケット)から翻訳されています。
 
 
 **TR-Iロケット**（ティーアールワン）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA、現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")JAXA）が[H-IIロケット](../Page/H-IIロケット.md "wikilink")の開発のために開発・運用した単段式の固体燃料[ロケット](../Page/ロケット.md "wikilink")である。検討時の名称は**TR-1100**。

@@ -1,11 +1,11 @@
-> この記事は[Happy Birthday \(\)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(\))から翻訳されています。
+> この記事は[Happy Birthday \(杏子の曲\)](https://ja.wikipedia.org/wiki/Happy_Birthday_\(杏子の曲\))から翻訳されています。
 
 
 「**Happy Birthday**」（ハッピー・バースデイ）は、[杏子のシングル](../Page/杏子_\(ミュージシャン\).md "wikilink")。CDコードはPODH-1354。
 
 ## 概要
 
-表題曲は、アニメ映画『[名探偵コナン 時計じかけの摩天楼](../Page/名探偵コナン_時計じかけの摩天楼.md "wikilink")』主題歌。ただし、[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")で放送される際は、権利関係の影響によりスタッフロール含めすべてカットされている。
+表題曲は、アニメ映画『[名探偵コナン 時計じかけの摩天楼](../Page/名探偵コナン_時計じかけの摩天楼.md "wikilink")』主題歌。ただし、[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")で放送される際は、権利関係の影響によりスタッフロール含めすべてカットされている。ただし、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")での放送においては地上波との兼ね合いが異なるため、そのまま放送されている（[2020年](../Page/2020年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")放送等）。
 
 ## 収録曲
 

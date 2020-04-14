@@ -1,4 +1,4 @@
-> この記事は[DAY DREAM \(\)](https://ja.wikipedia.org/wiki/DAY_DREAM_\(\))から翻訳されています。
+> この記事は[DAY DREAM \(佐々木功のアルバム\)](https://ja.wikipedia.org/wiki/DAY_DREAM_\(佐々木功のアルバム\))から翻訳されています。
 
 
 『**DAY DREAM**』（デイドリーム）は、[1982年](../Page/1982年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[佐々木功（ささきいさお）の](../Page/ささきいさお.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。

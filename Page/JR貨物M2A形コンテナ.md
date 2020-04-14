@@ -1,4 +1,4 @@
-> この記事は[JRM2A](https://ja.wikipedia.org/wiki/JRM2A)から翻訳されています。
+> この記事は[JR貨物M2A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物M2A形コンテナ)から翻訳されています。
 
 
 **JR貨物M2A形コンテナ**（JRかもつM2Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が保有する[鉄道](../Page/鉄道車両.md "wikilink")[車輪](../Page/車輪.md "wikilink")輸送用12[ft](../Page/フィート.md "wikilink")[無蓋コンテナ](https://ja.wikipedia.org/wiki/無蓋コンテナ "wikilink")。JR貨物[広島車両所](../Page/広島車両所.md "wikilink")で16個製造された。

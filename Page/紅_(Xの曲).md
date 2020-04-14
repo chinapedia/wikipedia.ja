@@ -1,4 +1,4 @@
-> この記事は[ \(X\)](https://ja.wikipedia.org/wiki/_\(X\))から翻訳されています。
+> この記事は[紅 \(Xの曲\)](https://ja.wikipedia.org/wiki/紅_\(Xの曲\))から翻訳されています。
 
 
 「**紅**」（くれない）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[X](../Page/X_JAPAN.md "wikilink") が[1989年](../Page/1989年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")にリリースした3作目の[シングル](../Page/シングル.md "wikilink")。メジャー1作目のシングルでもある。1989年[日本有線大賞](../Page/日本有線大賞.md "wikilink")の最優秀新人賞受賞曲で、1992年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")でも演奏された。ファンによる人気投票で収録曲が決められたベスト・アルバム『[X JAPAN BEST 〜FAN'S SELECTION〜](../Page/X_JAPAN_BEST_〜FAN'S_SELECTION〜.md "wikilink")』では1位を獲得した。

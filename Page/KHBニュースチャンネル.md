@@ -1,4 +1,4 @@
-> この記事は[KHB](https://ja.wikipedia.org/wiki/KHB)から翻訳されています。
+> この記事は[KHBニュースチャンネル](https://ja.wikipedia.org/wiki/KHBニュースチャンネル)から翻訳されています。
 
 
 『**KHBニュースチャンネル**』（ケイエイチビー ニュースチャンネル）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[モノラル放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")を実施。

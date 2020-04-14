@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ジャガー・Sタイプ](https://ja.wikipedia.org/wiki/ジャガー・Sタイプ)から翻訳されています。
 
 
 **ジャガー・Sタイプ**は英国の高級車メーカー、[ジャガーから販売されていた](../Page/ジャガー_\(自動車\).md "wikilink")[Eセグメント](../Page/Eセグメント.md "wikilink")の[高級乗用車](../Page/高級車.md "wikilink")。

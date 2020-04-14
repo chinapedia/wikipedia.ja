@@ -1,4 +1,4 @@
-> この記事は[YS](https://ja.wikipedia.org/wiki/YS)から翻訳されています。
+> この記事は[YSネットサービス](https://ja.wikipedia.org/wiki/YSネットサービス)から翻訳されています。
 
 
 **YSネットサービス**（ワイエスネットサービス）は、[山口銀行](../Page/山口銀行.md "wikilink")・[北九州銀行](https://ja.wikipedia.org/wiki/北九州銀行 "wikilink")・[山口県](../Page/山口県.md "wikilink")内の[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")との間の[ATM･CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。（略称:YS Net Serviceの頭文字を取って「**YSNS**」）

@@ -1,4 +1,4 @@
-> この記事は[ KEWAISHI](https://ja.wikipedia.org/wiki/_KEWAISHI)から翻訳されています。
+> この記事は[化粧師 KEWAISHI](https://ja.wikipedia.org/wiki/化粧師_KEWAISHI)から翻訳されています。
 
 
 『**化粧師 KEWAISHI**』（けわいし）は、[2002年公開の](https://ja.wikipedia.org/wiki/2002年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の漫画『[八百八町表裏 化粧師](../Page/八百八町表裏_化粧師.md "wikilink")』を原作としているが、舞台は[大正](../Page/大正.md "wikilink")時代に変更されている。

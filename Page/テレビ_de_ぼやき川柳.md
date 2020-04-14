@@ -1,4 +1,4 @@
-> この記事は[ de ](https://ja.wikipedia.org/wiki/_de_)から翻訳されています。
+> この記事は[テレビ de ぼやき川柳](https://ja.wikipedia.org/wiki/テレビ_de_ぼやき川柳)から翻訳されています。
 
 
 **テレビ de ぼやき川柳**（てれび で ぼやきせんりゅう）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")が[近畿広域圏向けに放送していた](../Page/広域放送.md "wikilink")[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")、及びテレビ番組内のコーナー名である。

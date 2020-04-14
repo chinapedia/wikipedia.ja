@@ -1,4 +1,4 @@
-> この記事は[Face to Face \(\)](https://ja.wikipedia.org/wiki/Face_to_Face_\(\))から翻訳されています。
+> この記事は[Face to Face \(椎名へきるのアルバム\)](https://ja.wikipedia.org/wiki/Face_to_Face_\(椎名へきるのアルバム\))から翻訳されています。
 
 
 『**Face to Face**』（フェイス・トゥー・フェイス）は、[椎名へきる](../Page/椎名へきる.md "wikilink")の6枚目のオリジナルアルバム。

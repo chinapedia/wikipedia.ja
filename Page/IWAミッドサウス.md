@@ -1,4 +1,4 @@
-> この記事は[IWA](https://ja.wikipedia.org/wiki/IWA)から翻訳されています。
+> この記事は[IWAミッドサウス](https://ja.wikipedia.org/wiki/IWAミッドサウス)から翻訳されています。
 
 
 **IWAミッドサウス**（*IWA Mid-South*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式名称は**インディペンデント・レスリング・アソシエーション・ミッド・サウス**（*Independent Wrestling Association Mid-South*）。

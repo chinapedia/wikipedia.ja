@@ -1,4 +1,4 @@
-> この記事は[NiGHT](https://ja.wikipedia.org/wiki/NiGHT)から翻訳されています。
+> この記事は[とびっきりNiGHT](https://ja.wikipedia.org/wiki/とびっきりNiGHT)から翻訳されています。
 
 
 **とびっきりNiGHT**（とびっきりないと）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送していた[深夜番組](../Page/深夜番組.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月まで放送されていた。

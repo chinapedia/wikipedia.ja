@@ -1,4 +1,4 @@
-> この記事は[On Ryu](https://ja.wikipedia.org/wiki/On_Ryu)から翻訳されています。
+> この記事は[音流〜On Ryu〜](https://ja.wikipedia.org/wiki/音流〜On_Ryu〜)から翻訳されています。
 
 
 **音流〜On Ryu〜**（おんりゅう）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送中の[音楽番組](../Page/音楽番組.md "wikilink")である。

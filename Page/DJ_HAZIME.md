@@ -1,7 +1,7 @@
 > この記事は[DJ HAZIME](https://ja.wikipedia.org/wiki/DJ_HAZIME)から翻訳されています。
 
 
-**DJ HAZIME**（ディージェイ・ハジメ、本名: 平山肇、[1975年](../Page/1975年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") -）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、アパレルブランド「DOUBLE HARD」の取締役である。
+**DJ HAZIME**（ディージェイ・ハジメ、本名：**平山 肇**、[1975年](../Page/1975年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") -）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、アパレルブランド「DOUBLE HARD」の取締役である。
 
 ## 略歴
 
@@ -93,7 +93,7 @@
 
 ## 外部リンク
 
-  - [Official Blog「AIN'T NO STOPPIN' THE DJ」](http://ameblo.jp/djhazime/)
+  - [Official Blog「AIN'T NO STOPPIN' THE DJ」](https://ameblo.jp/djhazime/)
 
   -
   -
@@ -101,4 +101,4 @@
 
   - [RADD LOUNGE](http://www.raddlounge.com/)
 
-[Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

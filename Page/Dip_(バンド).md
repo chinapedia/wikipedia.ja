@@ -1,4 +1,4 @@
-> この記事は[Dip \(\)](https://ja.wikipedia.org/wiki/Dip_\(\))から翻訳されています。
+> この記事は[Dip \(バンド\)](https://ja.wikipedia.org/wiki/Dip_\(バンド\))から翻訳されています。
 
 
 **dip**（ディップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サイケデリック・ロック](../Page/サイケデリック・ロック.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")。

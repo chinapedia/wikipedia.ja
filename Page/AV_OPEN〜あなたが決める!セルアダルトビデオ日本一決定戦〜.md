@@ -1,4 +1,4 @@
-> この記事は[AV OPEN!](https://ja.wikipedia.org/wiki/AV_OPEN!)から翻訳されています。
+> この記事は[AV OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜](https://ja.wikipedia.org/wiki/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜)から翻訳されています。
 
 
 **AV OPEN〜あなたが決める\!セルアダルトビデオ日本一決定戦〜**（エーブイオープン・あなたがきめるセルアダルトビデオにほんいちけっていせん）は、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")に関する[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")。[2006年](../Page/2006年.md "wikilink")創設。現在の正式タイトルは、**AV OPEN あなたが決める、アダルトビデオ日本一決定戦**。公式略称はAVOP\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[\* HOT](https://ja.wikipedia.org/wiki/\*_HOT)から翻訳されています。
+> この記事は[わう\*アニ HOTレビュー](https://ja.wikipedia.org/wiki/わう\*アニ_HOTレビュー)から翻訳されています。
 
 
 **わう＊アニ HOTレビュー**（わうアニ ホットレビュー）は、かつて日本の衛星放送局である[WOWOW](../Page/WOWOW.md "wikilink")が配信していた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

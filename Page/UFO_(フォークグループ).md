@@ -1,4 +1,4 @@
-> この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
+> この記事は[UFO \(フォークグループ\)](https://ja.wikipedia.org/wiki/UFO_\(フォークグループ\))から翻訳されています。
 
 
 **UFO**（ユーフォー）とは、[1977年](../Page/1977年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アマチュア](../Page/アマチュア.md "wikilink")フォークグループである。[因島](../Page/因島.md "wikilink")出身の3人が結成し、1981年に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で「因島想春譜」が放送されてからは、テレビやラジオに活躍の場を広げていた。1988年、第2回因島文化功労賞を受賞。1990年代に活動が自然消滅状態となったが、節目の年には因島でコンサートを開いている。

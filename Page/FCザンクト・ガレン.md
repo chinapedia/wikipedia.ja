@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCザンクト・ガレン](https://ja.wikipedia.org/wiki/FCザンクト・ガレン)から翻訳されています。
 
 
 **フースバルクラブ・ザンクト・ガレン1879**（**Fussballclub St. Gallen 1879**）は、[スイス](../Page/スイス.md "wikilink")北東部、[ザンクト・ガレン州](../Page/ザンクト・ガレン州.md "wikilink")の州都[ザンクト・ガレン](../Page/ザンクト・ガレン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

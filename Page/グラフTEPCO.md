@@ -1,4 +1,4 @@
-> この記事は[TEPCO](https://ja.wikipedia.org/wiki/TEPCO)から翻訳されています。
+> この記事は[グラフTEPCO](https://ja.wikipedia.org/wiki/グラフTEPCO)から翻訳されています。
 
 
 **グラフTEPCO**（ぐらふてぷこ、[英称](../Page/英語.md "wikilink"):*Graph TEPCO*）は、[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")が発行していた無料の広報誌である。

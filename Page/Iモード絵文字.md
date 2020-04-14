@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iモード絵文字](https://ja.wikipedia.org/wiki/Iモード絵文字)から翻訳されています。
 
 
 **iモード絵文字**（アイモードえもじ、i-mode絵文字、[16pxモード絵文字](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9256.gif "wikilink")）は、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")対応の[携帯電話](../Page/携帯電話.md "wikilink")およびこれに互換する携帯電子端末機器類に搭載される[外字](../Page/外字.md "wikilink")[文字セット](https://ja.wikipedia.org/wiki/文字セット "wikilink")、もしくはその[文字](../Page/文字.md "wikilink")の総称。
@@ -7,11 +7,13 @@
 
 [iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")で利用可能な外字の文字セットであり、未定義領域を除き271文字からなる。[絵文字](../Page/絵文字.md "wikilink")と呼ばれるように、[記号](../Page/記号.md "wikilink")類のみで構成されており、[電子メール](../Page/電子メール.md "wikilink")での使用を想定している[顔文字](../Page/顔文字.md "wikilink")（例：[16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9275.gif "wikilink")=わーい）やスケジュールなどで使う多くの[ピクトグラム](../Page/ピクトグラム.md "wikilink")（例：[16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-913E.gif "wikilink")=電車、[16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-916A.gif "wikilink")=電話）を中心としたものとなっている。
 
-もともと[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")による独自仕様の[機種依存文字](../Page/機種依存文字.md "wikilink")であり、[パソコンなど](../Page/パーソナルコンピュータ.md "wikilink")、他の環境で使われている文字セットとは基本的に互換性はなく、そのため一般にはiモード端末同士での利用に限られる。
+iモード立ち上げメンバーである[栗田穣崇](https://ja.wikipedia.org/wiki/栗田穣崇 "wikilink")が担当した。
+
+元はiモード用に開発された[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")による独自仕様の[機種依存文字](../Page/機種依存文字.md "wikilink")であり、[パソコンなど](../Page/パーソナルコンピュータ.md "wikilink")、他の環境で使われている文字セットとは基本的に互換性はなく、そのため一般にはiモード端末同士での利用に限られる。
 
 ただし、2005年から2006年に掛けて[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")）・[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の端末間で相互に[絵文字変換機能が実装されたため](https://ja.wikipedia.org/wiki/携帯電話の絵文字#他社宛て絵文字変換機能 "wikilink")、利用者は通常の方法で絵文字を含むEメール送受信が可能となった。[PHS](../Page/PHS.md "wikilink")や[コンピュータ](../Page/コンピュータ.md "wikilink")端末との間では互換性はないが、[ウィルコム](../Page/ウィルコム.md "wikilink")とは2008年1月22日に絵文字変換を相互に開始し、また[PC環境向けに開発された](../Page/パーソナルコンピュータ.md "wikilink")[フォント](../Page/フォント.md "wikilink")が有償もしくは無償で提供されており、[インストール](../Page/インストール.md "wikilink")することで表示が可能になる。
 
-収録されている文字や記号の中には既存の文字セットにも見られるものがいくつか含まれているが、[16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9267.gif "wikilink"), [16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9268.gif "wikilink"), [16pxといった四角の中に](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9269.gif "wikilink")[数字](../Page/数字.md "wikilink")を書いたものが含まれている文字コードは他には[AdobeJapan1-4のみである](../Page/CID_\(文字コード\).md "wikilink")（CID 10764から、四角中に数字・ひらがな・カタカナ・アルファベットが含まれたグリフが定義されている）
+収録されている文字や記号の中には既存の文字セットにも見られるものがいくつか含まれているが、[16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9267.gif "wikilink"), [16px](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9268.gif "wikilink"), [16pxといった四角の中に](https://ja.wikipedia.org/wiki/ファイル:TRON_9-9269.gif "wikilink")[数字](../Page/数字.md "wikilink")を書いたものが含まれている文字コードは他には[Adobe-Japan1](../Page/Adobe-Japan1.md "wikilink")-4以降のみである（CID 10764から、四角中に数字・ひらがな・カタカナ・アルファベットが含まれたグリフが定義されている）
 
 2016年には[ニューヨーク近代美術館](../Page/ニューヨーク近代美術館.md "wikilink")で1999年にNTTドコモの「iモード」で使われた176種類の絵文字の展示がされた\[1\]\[2\]。
 

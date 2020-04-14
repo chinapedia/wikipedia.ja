@@ -1,4 +1,4 @@
-> この記事は[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN)から翻訳されています。
+> この記事は[カートゥンKAT-TUN](https://ja.wikipedia.org/wiki/カートゥンKAT-TUN)から翻訳されています。
 
 
 『**カートゥンKAT-TUN**』（カートゥンかとぅーん）とは、[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[日本テレビ系列で毎週水曜日](../Page/日本テレビ放送網.md "wikilink")23:58 - 翌0:29\[1\]（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。

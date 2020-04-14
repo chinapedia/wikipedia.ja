@@ -1,4 +1,4 @@
-> この記事は[SWOT](https://ja.wikipedia.org/wiki/SWOT)から翻訳されています。
+> この記事は[SWOT分析](https://ja.wikipedia.org/wiki/SWOT分析)から翻訳されています。
 
 
 [SWOT_en.svg](https://ja.wikipedia.org/wiki/File:SWOT_en.svg "fig:SWOT_en.svg")

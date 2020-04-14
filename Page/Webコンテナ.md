@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webコンテナ](https://ja.wikipedia.org/wiki/Webコンテナ)から翻訳されています。
 
 
 **Webコンテナ**（ウェブコンテナ、）とは、[Java Platform, Enterprise Edition](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") (Java EE) アーキテクチャのWebコンポーネント規約を実装する[ソフトウェア](../Page/ソフトウェア.md "wikilink")\[1\]。[Java Servletの実行環境となることから](../Page/Java_Servlet.md "wikilink")**Servletコンテナ**（サーブレットコンテナ、）とも呼ばれる。

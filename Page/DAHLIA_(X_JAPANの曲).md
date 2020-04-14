@@ -1,4 +1,4 @@
-> この記事は[DAHLIA \(X JAPAN\)](https://ja.wikipedia.org/wiki/DAHLIA_\(X_JAPAN\))から翻訳されています。
+> この記事は[DAHLIA \(X JAPANの曲\)](https://ja.wikipedia.org/wiki/DAHLIA_\(X_JAPANの曲\))から翻訳されています。
 
 
 「**DAHLIA**」（ダリア）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[X JAPANの楽曲で](../Page/X_JAPAN.md "wikilink")、1996年2月26日に13作目の[シングル](../Page/シングル.md "wikilink")としてリリースされた。

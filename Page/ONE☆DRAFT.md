@@ -1,4 +1,4 @@
-> この記事は[ONEDRAFT](https://ja.wikipedia.org/wiki/ONEDRAFT)から翻訳されています。
+> この記事は[ONE☆DRAFT](https://ja.wikipedia.org/wiki/ONE☆DRAFT)から翻訳されています。
 
 
 **ONE☆DRAFT**（ワン・ドラフト）は、[帝京高校](https://ja.wikipedia.org/wiki/帝京高校 "wikilink")野球部出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組音楽グループ。
@@ -684,7 +684,7 @@ Bee Alive vol.13
 ### ラジオ
 
   - ONE☆DRAFTのドラフト会議（2007年～2009年、FM福岡・FM愛知）
-  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「ワン☆ドラフトの☆☆★レスト乱」（2008年～2009年、[JFN系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「ワン☆ドラフトの☆☆★レスト乱」（2008年～2009年、[JFN系](../Page/全国FM放送協議会.md "wikilink")）
 
 ### テレビ
 

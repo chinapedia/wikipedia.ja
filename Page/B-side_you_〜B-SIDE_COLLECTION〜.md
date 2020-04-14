@@ -1,4 +1,4 @@
-> この記事は[B-side you B-SIDE COLLECTION](https://ja.wikipedia.org/wiki/B-side_you_B-SIDE_COLLECTION)から翻訳されています。
+> この記事は[B-side you 〜B-SIDE COLLECTION〜](https://ja.wikipedia.org/wiki/B-side_you_〜B-SIDE_COLLECTION〜)から翻訳されています。
 
 
 『**b-side you 〜B-SIDE COLLECTION〜**』（ビーサイド・ユー ビーサイドコレクション）は、[椎名へきる](../Page/椎名へきる.md "wikilink")初のカップリング[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。

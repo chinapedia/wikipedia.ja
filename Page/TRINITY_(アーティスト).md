@@ -1,4 +1,4 @@
-> この記事は[TRINITY \(\)](https://ja.wikipedia.org/wiki/TRINITY_\(\))から翻訳されています。
+> この記事は[TRINITY \(アーティスト\)](https://ja.wikipedia.org/wiki/TRINITY_\(アーティスト\))から翻訳されています。
 
 
 **TRINITY**（トリニティ）は、YUMI（現：優美）、NAO、MOCA（[眞鍋望華](../Page/麻田華子.md "wikilink")）の女性3人組[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンスユニット](https://ja.wikipedia.org/wiki/ダンスユニット "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")に、[avex traxよりシングル](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『desires』でデビュー。プロデューサーは[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")の[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")。シングル6枚、アルバム1枚をリリースした。

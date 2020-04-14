@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[西蔵王テレビ・FM放送所](https://ja.wikipedia.org/wiki/西蔵王テレビ・FM放送所)から翻訳されています。
 
 
 **西蔵王テレビ・FM放送所**（にしざおうテレビ・エフエムほうそうじょ）は、[山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")にある、山形県のテレビジョン放送とFMラジオ放送の親局となる送信所である。

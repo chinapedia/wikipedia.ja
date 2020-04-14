@@ -1,4 +1,4 @@
-> この記事は[IHI](https://ja.wikipedia.org/wiki/IHI)から翻訳されています。
+> この記事は[IHIエスキューブ](https://ja.wikipedia.org/wiki/IHIエスキューブ)から翻訳されています。
 
 
 **株式会社 IHIエスキューブ**（アイエイチアイ エスキューブ）とは、[東京都](../Page/東京都.md "wikilink")に本社を持つ[情報処理](../Page/情報処理.md "wikilink")サービス事業者。略称は**is3**。日本を代表する総合重工である[IHI](../Page/IHI.md "wikilink")（旧石川島播磨重工業）のグループ企業である。

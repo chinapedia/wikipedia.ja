@@ -1,4 +1,4 @@
-> この記事は[ECW](https://ja.wikipedia.org/wiki/ECW)から翻訳されています。
+> この記事は[ECWオリジナルズ](https://ja.wikipedia.org/wiki/ECWオリジナルズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ECW_originals313.jpg "wikilink")、[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")、[ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")、[サンドマン](https://ja.wikipedia.org/wiki/ジェームズ・フォリントン "wikilink")）\]\]

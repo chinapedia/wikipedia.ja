@@ -1,4 +1,4 @@
-> この記事は[Longing melody](https://ja.wikipedia.org/wiki/Longing_melody)から翻訳されています。
+> この記事は[Longing 〜跡切れたmelody〜](https://ja.wikipedia.org/wiki/Longing_〜跡切れたmelody〜)から翻訳されています。
 
 
 「**Longing 〜跡切れたmelody〜**」（ロンギング とぎれたメロディー）は、ロック・バンドの[X JAPANが](../Page/X_JAPAN.md "wikilink")1995年8月1日にリリースした11作目の[シングル](../Page/シングル.md "wikilink")。

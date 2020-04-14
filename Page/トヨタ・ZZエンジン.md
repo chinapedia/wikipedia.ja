@@ -1,4 +1,4 @@
-> この記事は[ZZ](https://ja.wikipedia.org/wiki/ZZ)から翻訳されています。
+> この記事は[トヨタ・ZZエンジン](https://ja.wikipedia.org/wiki/トヨタ・ZZエンジン)から翻訳されています。
 
 
 **ZZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")・[アルミ](../Page/アルミニウム.md "wikilink")[ダイキャスト製](../Page/ダイカスト.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。[A型（2代目）および](../Page/トヨタ・A型エンジン_\(2代目\).md "wikilink") [S型（2代目）エンジンの後継機種として](../Page/トヨタ・S型エンジン_\(2代目\).md "wikilink")、ミディアムサイズの車種に搭載されている。[1ZZ-FE](../Page/トヨタ・1ZZ-FE.md "wikilink")・[2ZZ-GEなどの総称](../Page/トヨタ・2ZZ-GE.md "wikilink")。1998年7月登場。

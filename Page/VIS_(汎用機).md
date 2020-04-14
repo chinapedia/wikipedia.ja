@@ -1,4 +1,4 @@
-> この記事は[VIS \(\)](https://ja.wikipedia.org/wiki/VIS_\(\))から翻訳されています。
+> この記事は[VIS \(汎用機\)](https://ja.wikipedia.org/wiki/VIS_\(汎用機\))から翻訳されています。
 
 
 **VIS** 及び**VIS II** (VERSATILE INFORMATION SYSTEM) とは、[日本電気](../Page/日本電気.md "wikilink") (NEC) が提供する[メインフレーム](../Page/メインフレーム.md "wikilink")（汎用コンピュータ）である[ACOS-4](../Page/ACOS-4.md "wikilink")や[ACOS-2](../Page/ACOS-2.md "wikilink") 用の[データ管理システム](https://ja.wikipedia.org/wiki/データ管理システム "wikilink")である。

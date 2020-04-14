@@ -1,4 +1,4 @@
-> この記事は[JRV18B](https://ja.wikipedia.org/wiki/JRV18B)から翻訳されています。
+> この記事は[JR貨物V18B形コンテナ](https://ja.wikipedia.org/wiki/JR貨物V18B形コンテナ)から翻訳されています。
 
 
 **JR貨物V18B形コンテナ**（JRかもつV18Bがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が製造した12[ft](../Page/フィート.md "wikilink")[通風コンテナ](https://ja.wikipedia.org/wiki/通風コンテナ "wikilink")である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:V18Bcontainer.jpg "wikilink")

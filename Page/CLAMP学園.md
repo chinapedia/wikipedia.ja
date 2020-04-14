@@ -1,4 +1,4 @@
-> この記事は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP)から翻訳されています。
+> この記事は[CLAMP学園](https://ja.wikipedia.org/wiki/CLAMP学園)から翻訳されています。
 
 
 **CLAMP学園**（クランプがくえん）は、[CLAMP](../Page/CLAMP.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のいくつかに登場する架空の[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")。

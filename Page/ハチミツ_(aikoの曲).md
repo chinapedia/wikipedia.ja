@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[ハチミツ \(aikoの曲\)](https://ja.wikipedia.org/wiki/ハチミツ_\(aikoの曲\))から翻訳されています。
 
 
 **ハチミツ**は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")シングル。

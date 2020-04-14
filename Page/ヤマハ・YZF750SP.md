@@ -1,4 +1,4 @@
-> この記事は[YZF750SP](https://ja.wikipedia.org/wiki/YZF750SP)から翻訳されています。
+> この記事は[ヤマハ・YZF750SP](https://ja.wikipedia.org/wiki/ヤマハ・YZF750SP)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Yamaha_YZF_750_SP.jpg "wikilink")

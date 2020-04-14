@@ -1,4 +1,4 @@
-> この記事は[HARVEST \(Dragon Ash\)](https://ja.wikipedia.org/wiki/HARVEST_\(Dragon_Ash\))から翻訳されています。
+> この記事は[HARVEST \(Dragon Ashのアルバム\)](https://ja.wikipedia.org/wiki/HARVEST_\(Dragon_Ashのアルバム\))から翻訳されています。
 
 
 『**HARVEST**』（ハーヴェスト）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")7枚目のアルバムである（フルアルバムとしては5枚目）。[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") にリリースされた。なお、10thシングル「**Life goes on**」は収録されていない。

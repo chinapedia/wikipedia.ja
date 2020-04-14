@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSラジオ夕刊](https://ja.wikipedia.org/wiki/SBSラジオ夕刊)から翻訳されています。
 
 
 **SBSラジオ夕刊**は、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBSラジオ）で放送されている、[静岡新聞](../Page/静岡新聞.md "wikilink")と協力した[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

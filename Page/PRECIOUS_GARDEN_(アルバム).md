@@ -1,4 +1,4 @@
-> この記事は[PRECIOUS GARDEN \(\)](https://ja.wikipedia.org/wiki/PRECIOUS_GARDEN_\(\))から翻訳されています。
+> この記事は[PRECIOUS GARDEN \(アルバム\)](https://ja.wikipedia.org/wiki/PRECIOUS_GARDEN_\(アルバム\))から翻訳されています。
 
 
 『**PRECIOUS GARDEN**』（プレシャス・ガーデン）は、[椎名へきる](../Page/椎名へきる.md "wikilink")の8枚目のオリジナルアルバム。

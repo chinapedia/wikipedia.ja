@@ -1,4 +1,4 @@
-> この記事は[AA \(\)](https://ja.wikipedia.org/wiki/AA_\(\))から翻訳されています。
+> この記事は[AA \(映画\)](https://ja.wikipedia.org/wiki/AA_\(映画\))から翻訳されています。
 
 
 『**AA**』は、[青山真治](../Page/青山真治.md "wikilink")監督による[2006年](../Page/2006年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。[フリー・ジャズ](../Page/フリー・ジャズ.md "wikilink")、[インプロヴィゼーション](https://ja.wikipedia.org/wiki/インプロヴィゼーション "wikilink")、[プログレッシヴ・ロック](https://ja.wikipedia.org/wiki/プログレッシヴ・ロック "wikilink")を[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介した[音楽](../Page/音楽.md "wikilink")[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")・[間章](../Page/間章.md "wikilink")（Aida Aquirax）について、彼とゆかりがあったミュージシャンや批評家など12人のインタビューで解き明かし、彼が着目していたインプロヴィゼーションの過去と現在と未来を考察するドキュメンタリーである。

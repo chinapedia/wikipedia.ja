@@ -1,4 +1,4 @@
-> この記事は[VIRGINITY \(KIX-S\)](https://ja.wikipedia.org/wiki/VIRGINITY_\(KIX-S\))から翻訳されています。
+> この記事は[VIRGINITY \(KIX-Sのアルバム\)](https://ja.wikipedia.org/wiki/VIRGINITY_\(KIX-Sのアルバム\))から翻訳されています。
 
 
 『**VIRGINITY**』(ヴァージニティ)は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](../Page/二人組.md "wikilink")[KIX-S](../Page/KIX-S.md "wikilink")の4枚目のアルバム。

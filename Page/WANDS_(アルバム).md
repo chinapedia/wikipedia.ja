@@ -1,4 +1,4 @@
-> この記事は[WANDS \(\)](https://ja.wikipedia.org/wiki/WANDS_\(\))から翻訳されています。
+> この記事は[WANDS \(アルバム\)](https://ja.wikipedia.org/wiki/WANDS_\(アルバム\))から翻訳されています。
 
 
 『**WANDS**』（ワンズ）は、日本のロックバンド、[WANDS](../Page/WANDS.md "wikilink")の1枚目のアルバム。当作品は、規格上はミニアルバムだが、公式サイトでは1stアルバムとされているので、ここでは公式通りにする。

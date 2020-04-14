@@ -1,4 +1,4 @@
-> この記事は[Memories Off ](https://ja.wikipedia.org/wiki/Memories_Off_)から翻訳されています。
+> この記事は[Memories Off 〜それから〜](https://ja.wikipedia.org/wiki/Memories_Off_〜それから〜)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|
@@ -65,7 +65,7 @@
     愛称「りかりん」。一蹴のバイトしてるカフェの常連客。お嬢様だが気さくな性格。[7月13日](../Page/7月13日.md "wikilink")生まれ。
   - 野乃原 葉夜（ののはら はや）
     声：[こやまきみこ](../Page/こやまきみこ.md "wikilink")
-    愛称「のん（ちゃん）」。一蹴のバイト仲間。空想癖があり、不思議な雰囲気を持っている。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")生まれ。
+    愛称「のん（ちゃん）」。名前がOVA『Memories Off 3.5 想い出の彼方へ / 祈りの届く刻…』内は**野々原 葉夜**を表記。一蹴のバイト仲間。空想癖があり、不思議な雰囲気を持っている。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")生まれ。
     独自の法則に基づいた話し方をするため、彼女の意図するところを把握するのは困難だが、クリア後のおまけモードで果凛が内容をすべて解説してくれる。
   - さよりん
     声：[小林由美子](../Page/小林由美子.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[GATE SQUARE](https://ja.wikipedia.org/wiki/GATE_SQUARE)から翻訳されています。
+> この記事は[潮見GATE SQUARE](https://ja.wikipedia.org/wiki/潮見GATE_SQUARE)から翻訳されています。
 
 
 **潮見GATE SQUARE**（しおみゲートスクエア）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[潮見](../Page/潮見.md "wikilink")に所在する[オフィスビル](../Page/オフィスビル.md "wikilink")。[三菱地所](../Page/三菱地所.md "wikilink")が転貸している。

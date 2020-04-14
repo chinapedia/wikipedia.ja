@@ -1,4 +1,4 @@
-> この記事は[STATION \(\)](https://ja.wikipedia.org/wiki/STATION_\(\))から翻訳されています。
+> この記事は[STATION \(漫画\)](https://ja.wikipedia.org/wiki/STATION_\(漫画\))から翻訳されています。
 
 
 『**STATION**』（ステイション）は、[大石賢一](https://ja.wikipedia.org/wiki/大石賢一 "wikilink")原作、[はしもとみつお](../Page/はしもとみつお.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

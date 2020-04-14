@@ -1,4 +1,4 @@
-> この記事は[SAP \(\)](https://ja.wikipedia.org/wiki/SAP_\(\))から翻訳されています。
+> この記事は[SAP \(企業\)](https://ja.wikipedia.org/wiki/SAP_\(企業\))から翻訳されています。
 
 
 **SAP SE**（エスエイピー・エスイー：英語、エス・アーペー・エスエー：）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")中西部にある[ヴァルドルフに本社を置く](../Page/ヴァルドルフ_\(バーデン\).md "wikilink")[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")最大級の[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社。

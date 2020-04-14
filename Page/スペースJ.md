@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スペースJ](https://ja.wikipedia.org/wiki/スペースJ)から翻訳されています。
 
 
 『**スペースJ**』（スペース・ジェイ）は、[1993年](../Page/1993年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")まで[東京放送](https://ja.wikipedia.org/wiki/東京放送 "wikilink")（TBS、現:[TBSテレビ](../Page/TBSテレビ.md "wikilink")）を制作局として[JNN系列各局で毎週](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[水曜日](../Page/水曜日.md "wikilink")の夜に[生放送](../Page/生放送.md "wikilink")で放送されていた[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[1994年](../Page/1994年.md "wikilink")9月までは、番組タイトルを『**情報スペースJ**』（じょうほうスペースジェイ）としていた。

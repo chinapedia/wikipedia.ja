@@ -1,4 +1,4 @@
-> この記事は[!Q](https://ja.wikipedia.org/wiki/!Q)から翻訳されています。
+> この記事は[クイズ!バーチャQ](https://ja.wikipedia.org/wiki/クイズ!バーチャQ)から翻訳されています。
 
 
 **クイズ\!バーチャQ**は、[2002年](../Page/2002年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") - [9月14日](../Page/9月14日.md "wikilink")の半年間、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で毎週土曜19:30 - 20:00 (JST) に放送されていた子供向け[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

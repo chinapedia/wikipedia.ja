@@ -1,4 +1,4 @@
-> この記事は[ PART3](https://ja.wikipedia.org/wiki/_PART3)から翻訳されています。
+> この記事は[バック・トゥ・ザ・フューチャー PART3](https://ja.wikipedia.org/wiki/バック・トゥ・ザ・フューチャー_PART3)から翻訳されています。
 
 
 『**バック・トゥ・ザ・フューチャー PART3**』（*Back to the Future Part III*）は、[1990年の](../Page/1990年の映画.md "wikilink")[アメリカ映画で](../Page/アメリカ合衆国の映画.md "wikilink")、映画『[バック・トゥ・ザ・フューチャー PART2](../Page/バック・トゥ・ザ・フューチャー_PART2.md "wikilink")』の続編。[『バック・トゥ・ザ・フューチャー』シリーズ](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")3部作の3番目で完結編にあたる。[SF映画](../Page/SF映画.md "wikilink")。

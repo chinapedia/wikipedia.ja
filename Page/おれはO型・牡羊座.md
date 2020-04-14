@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[おれはO型・牡羊座](https://ja.wikipedia.org/wiki/おれはO型・牡羊座)から翻訳されています。
 
 
 **おれはO型・牡羊座**（おれはおーがた・おひつじざ）は、[1994年](../Page/1994年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")から[12月17日](../Page/12月17日.md "wikilink")まで[日本テレビで放送された](../Page/日本テレビ放送網.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。放送回数は全9回。放送時間は[土曜日](../Page/土曜日.md "wikilink")21:00～21:54。主演は[武田鉄矢](../Page/武田鉄矢.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GA](https://ja.wikipedia.org/wiki/GA)から翻訳されています。
+> この記事は[GA文庫](https://ja.wikipedia.org/wiki/GA文庫)から翻訳されています。
 
 
 **GA文庫**（ジーエーぶんこ）は、[SBクリエイティブ](../Page/SBクリエイティブ.md "wikilink")（旧社名・ソフトバンククリエイティブ）が刊行する[ライトノベル](../Page/ライトノベル.md "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。[2006年](../Page/2006年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")創刊。
@@ -126,6 +126,7 @@ GA文庫のイラストを纏めた[ムック](../Page/ムック_\(出版\).md "
   -
   - [ガンガンGAちゃんねる - ガンガンONLINE | SQUARE ENIX](https://www.ganganonline.com/special/ganganga_ch/)
 
+  -
   -
   -
 [Category:GA文庫](https://ja.wikipedia.org/wiki/Category:GA文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")

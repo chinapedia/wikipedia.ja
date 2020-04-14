@@ -1,4 +1,4 @@
-> この記事は[Pear Kings](https://ja.wikipedia.org/wiki/Pear_Kings)から翻訳されています。
+> この記事は[鳥取Pear Kings](https://ja.wikipedia.org/wiki/鳥取Pear_Kings)から翻訳されています。
 
 
 **鳥取Pear Kings**（とっとりペアキングス）は、[鳥取県](../Page/鳥取県.md "wikilink")[倉吉市](../Page/倉吉市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。ホームグラウンドは[倉吉市営関金野球場](../Page/倉吉市営関金野球場.md "wikilink")。[2016年](../Page/2016年.md "wikilink")5月から休部中。

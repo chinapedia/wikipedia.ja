@@ -1,4 +1,4 @@
-> この記事は[REV \(\)](https://ja.wikipedia.org/wiki/REV_\(\))から翻訳されています。
+> この記事は[REV \(アルバム\)](https://ja.wikipedia.org/wiki/REV_\(アルバム\))から翻訳されています。
 
 
 **REV**（レフ）は[出口雅之](../Page/出口雅之.md "wikilink")のソロユニット「[REV](../Page/出口雅之.md "wikilink")」のアルバム。

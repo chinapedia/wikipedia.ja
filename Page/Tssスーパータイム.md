@@ -1,4 +1,4 @@
-> この記事は[Tss](https://ja.wikipedia.org/wiki/Tss)から翻訳されています。
+> この記事は[Tssスーパータイム](https://ja.wikipedia.org/wiki/Tssスーパータイム)から翻訳されています。
 
 
 『**tssスーパータイム**』（ティーエスエス スーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[広島県](../Page/広島県.md "wikilink")ローカルパート）。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCバーゼル](https://ja.wikipedia.org/wiki/FCバーゼル)から翻訳されています。
 
 
 **フースバル・クラブ・バーゼル1893**（**Fussball Club Basel 1893**）は、[スイス](../Page/スイス.md "wikilink")の北西部、[バーゼル＝シュタット準州](../Page/バーゼル＝シュタット準州.md "wikilink")の州都[バーゼル](../Page/バーゼル.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -7,7 +7,7 @@
 
 [1893年](../Page/1893年.md "wikilink")創設の歴史あるクラブで、リーグ優勝20回など数々の国内タイトルを獲得している。1980年代には2部に降格するなどの低迷期もあったが、現在は2009-10シーズンよりリーグ戦8連覇中である。1999-2000シーズン以降は毎シーズン、[UEFA](https://ja.wikipedia.org/wiki/UEFA "wikilink")主催の大会に出場しており、スイスの球団として唯一[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")ベスト16進出を果たした国内屈指のクラブである。地元のファンが熱狂的であることでも知られている。
 
-バーゼルの名を国外にも轟かせたのが、[2002-03シーズンのUEFAチャンピオンズリーグで](../Page/UEFAチャンピオンズリーグ_2002-03.md "wikilink")、[クリスティアン・ヒメネス](https://ja.wikipedia.org/wiki/クリスティアン・ヒメネス "wikilink")、[フリオ・エルナン・ロッシ](../Page/フリオ・エルナン・ロッシ.md "wikilink")、[ハカン・ヤキン](../Page/ハカン・ヤキン.md "wikilink")らを擁したチームは、1次リーグで[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を蹴落として2次リーグに進出、激戦区となった2次リーグの中で、[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")から勝利するという番狂わせを起こした。その後消化試合となった[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")相手に引き分け、[ユヴェントス](https://ja.wikipedia.org/wiki/ユヴェントス "wikilink")には勝利という結果も残している。
+バーゼルの名を国外にも轟かせたのが、[2002-03シーズンのUEFAチャンピオンズリーグで](../Page/UEFAチャンピオンズリーグ_2002-03.md "wikilink")、、[フリオ・エルナン・ロッシ](../Page/フリオ・エルナン・ロッシ.md "wikilink")、[ハカン・ヤキン](../Page/ハカン・ヤキン.md "wikilink")らを擁したチームは、1次リーグで[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を蹴落として2次リーグに進出、激戦区となった2次リーグの中で、[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")から勝利するという番狂わせを起こした。その後消化試合となった[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")相手に引き分け、[ユヴェントス](https://ja.wikipedia.org/wiki/ユヴェントス "wikilink")には勝利という結果も残している。
 
 また[2011-12シーズンのUEFAチャンピオンズリーグではグループリーグを突破しベスト](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12 "wikilink")16に名を連ねた。[ジェルダン・シャキリ](https://ja.wikipedia.org/wiki/ジェルダン・シャキリ "wikilink")や[グラニト・ジャカ](https://ja.wikipedia.org/wiki/グラニト・ジャカ "wikilink")を擁したバーゼルは、同一グループに入った[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")相手に1勝1分けと健闘し、グループリーグ敗退に追い込んだ。ラウンド16で[バイエルン・ミュンヘンに敗れたものの](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、ホームで行われた第1戦では[ヴァレンティン・シュトッカー](https://ja.wikipedia.org/wiki/ヴァレンティン・シュトッカー "wikilink")の決勝ゴールで勝利を収めた。
 
@@ -178,7 +178,7 @@
 
   - [ラファーエル・ヴィッキー](https://ja.wikipedia.org/wiki/ラファーエル・ヴィッキー "wikilink") 2017-2018
 
-## 歴代所属選手
+## 主な歴代所属選手
 
 ### GK
 
@@ -186,39 +186,59 @@
 
   - [フランコ・コスタンソ](https://ja.wikipedia.org/wiki/フランコ・コスタンソ "wikilink") 2006-2011
 
+<!-- end list -->
+
   - [ヤン・ゾマー](https://ja.wikipedia.org/wiki/ヤン・ゾマー "wikilink") 2006–2014
+
+  - [トマーシュ・ヴァツリーク](https://ja.wikipedia.org/wiki/トマーシュ・ヴァツリーク "wikilink") 2014-2018
 
 ### DF
 
-  - [フィリップ・デゲン](../Page/フィリップ・デゲン.md "wikilink") 2001-2005, 2011.11-
+  -  1987-2002
 
-  - [ムラト・ヤキン](https://ja.wikipedia.org/wiki/ムラト・ヤキン "wikilink") 2001-2006
+  -  1993-1996, 1999-2004
+
+  - [ムラト・ヤキン](https://ja.wikipedia.org/wiki/ムラト・ヤキン "wikilink") 2000, 2001-2006
+
+  - [フィリップ・デゲン](../Page/フィリップ・デゲン.md "wikilink") 2001-2005, 2011-2016
+
+  - [ティモシー・アトゥバ](https://ja.wikipedia.org/wiki/ティモシー・アトゥバ "wikilink") 2002-2004
+
+  -  2003-2007
 
   - [パトリック・ミュラー](../Page/パトリック・ミュラー.md "wikilink") 2005-2006
 
-  - [ボリス・スミリャニッチ](https://ja.wikipedia.org/wiki/ボリス・スミリャニッチ "wikilink") 2003.1-2007
-
-  - [ダニエル・マイストロヴィッチ](https://ja.wikipedia.org/wiki/ダニエル・マイストロヴィッチ "wikilink") 2006.1-2008
+  - [ダニエル・マイストロヴィッチ](https://ja.wikipedia.org/wiki/ダニエル・マイストロヴィッチ "wikilink") 2006-2008
 
   - [中田浩二](../Page/中田浩二_\(サッカー選手\).md "wikilink") 2006-2008
 
-  - [ミチェル・モルガネッラ](https://ja.wikipedia.org/wiki/ミチェル・モルガネッラ "wikilink") 2006-2009
+<!-- end list -->
 
-  - [ダヴィド・アブラハム](https://ja.wikipedia.org/wiki/ダヴィド・アブラハム "wikilink") 2008-2012
+  - [ダビド・アブラーム](https://ja.wikipedia.org/wiki/ダビド・アブラーム "wikilink") 2008-2012
 
-  - [朴柱昊](../Page/朴柱昊.md "wikilink") 2011-2013
+  - [ベーラング・サファリ](https://ja.wikipedia.org/wiki/ベーラング・サファリ "wikilink") 2008-2011, 2013-2016
+
+  - [朴柱昊](../Page/朴柱昊.md "wikilink") (パク・チュホ) 2011-2013
+
+  - [アレクサンダル・ドラゴヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ドラゴヴィッチ "wikilink") 2011-2013
 
   - [マークス・シュタインヘーファー](../Page/マークス・シュタインヘーファー.md "wikilink") 2011-2013
 
   - [ファビアン・シェア](https://ja.wikipedia.org/wiki/ファビアン・シェア "wikilink") 2012-2015
 
-  - [アルリンド・アイエティ](https://ja.wikipedia.org/wiki/アルリンド・アイエティ "wikilink") 2011-2015
+  - [ワルテル・サムエル](../Page/ワルテル・サムエル.md "wikilink") 2014-2016
+
+  - [マレク・スヒー](https://ja.wikipedia.org/wiki/マレク・スヒー "wikilink") 2014-2019
+
+  - [ミヒャエル・ラング](https://ja.wikipedia.org/wiki/ミヒャエル・ラング "wikilink") 2015-2018
 
 ### MF
 
-  - [テオフィロ・クビジャス](../Page/テオフィロ・クビジャス.md "wikilink") 1973
+  - 1962-1975
 
-  - [ファビーニョ](../Page/ファビオ・ジョゼ・ドス・サントス.md "wikilink") 1997-2000
+  -  1975-1982, 1983-1987, 1989-1991
+
+  -  1997-2005
 
   - [ベンヤミン・フッケル](https://ja.wikipedia.org/wiki/ベンヤミン・フッケル "wikilink") 1998-2005, 2007-2012
 
@@ -228,53 +248,85 @@
 
   - [ダビド・デゲン](../Page/ダビド・デゲン.md "wikilink") 2003-2006, 2007-2008, 2012-2014
 
-  - [マティアス・デルガド](https://ja.wikipedia.org/wiki/マティアス・デルガド "wikilink") 2003-2006, 2013-
+  - [マティアス・デルガド](https://ja.wikipedia.org/wiki/マティアス・エミリオ・デルガド "wikilink") 2003-2006, 2013-2017
 
   - [ミル・ステリョフスキー](https://ja.wikipedia.org/wiki/ミル・ステリョフスキー "wikilink") 2004-2007
 
   - [ズドラヴコ・クズマノヴィッチ](../Page/ズドラヴコ・クズマノヴィッチ.md "wikilink") 2005-2007, 2015-
 
-  - [イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink") 2006-2007
+  - [イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink") 2005-2007
 
-  - [ジェルダン・シャキリ](https://ja.wikipedia.org/wiki/ジェルダン・シャキリ "wikilink") 2009-2012
+  - [ファビアン・フライ](https://ja.wikipedia.org/wiki/ファビアン・フライ "wikilink") 2007-2015, 2018
+
+<!-- end list -->
+
+  - [ヴァレンティン・シュトッカー](https://ja.wikipedia.org/wiki/ヴァレンティン・シュトッカー "wikilink") 2008-2014, 2018-
+
+  - [ジェルダン・シャチリ](https://ja.wikipedia.org/wiki/ジェルダン・シャチリ "wikilink") 2009-2012
+
+  - [タウラント・ジャカ](https://ja.wikipedia.org/wiki/タウラント・ジャカ "wikilink") 2010-
 
   - [グラニト・ジャカ](https://ja.wikipedia.org/wiki/グラニト・ジャカ "wikilink") 2010-2012
 
   - [ジル・ヤピ・ヤポ](https://ja.wikipedia.org/wiki/ジル・ヤピ・ヤポ "wikilink") 2010-2013
 
-  - [セレイ・ディエ](https://ja.wikipedia.org/wiki/セレイ・ディエ "wikilink") 2013-2015.2
+  - [マルセロ・ディアス](https://ja.wikipedia.org/wiki/マルセロ・ディアス "wikilink") 2012-2015
 
-  - [マルセロ・ディアス](https://ja.wikipedia.org/wiki/マルセロ・ディアス "wikilink") 2012-2015.2
+  - [セレイ・ディエ](https://ja.wikipedia.org/wiki/セレイ・ディエ "wikilink") 2012-2015, 2016-2019
 
-  - [ファビアン・フライ](https://ja.wikipedia.org/wiki/ファビアン・フライ "wikilink") 2011-2015
+  - [モハメド・エルネニー](https://ja.wikipedia.org/wiki/モハメド・エルネニー "wikilink") 2013-2016
+
+  - [シュケルツェン・ガシ](https://ja.wikipedia.org/wiki/シュケルツェン・ガシ "wikilink")2014-2016
+
+  - [ダビデ・カッラ](https://ja.wikipedia.org/wiki/ダビデ・カッラ "wikilink") 2014-2018
+
+  - [ルカ・ズッフィ](https://ja.wikipedia.org/wiki/ルカ・ズッフィ "wikilink") 2014-
 
 ### FW
+
+  -  1948-1962
+
+  -  1964-1972
 
   - [オットマー・ヒッツフェルト](../Page/オットマー・ヒッツフェルト.md "wikilink") 1971-1975
 
   - [ハカン・ヤキン](../Page/ハカン・ヤキン.md "wikilink") 1995-1997, 2001-2002, 2003
 
+  - [マリオ・フリック](https://ja.wikipedia.org/wiki/マリオ・フリック "wikilink") 1996-1999
+
   - [アレクサンダー・フライ](../Page/アレクサンダー・フライ.md "wikilink") 1997-1998, 2009-2013
 
-  - [マルコ・シュトレラー](../Page/マルコ・シュトレラー.md "wikilink") 2000-2001, 2002, 2003-2004, 2007-2015
+  - [マルコ・シュトレラー](../Page/マルコ・シュトレラー.md "wikilink") 2000-2004, 2007-2015
 
-  - [クリスティアン・ヒメネス](https://ja.wikipedia.org/wiki/クリスティアン・ヒメネス "wikilink") 2001-2005
+  -  2001-2005
 
   - [フリオ・エルナン・ロッシ](../Page/フリオ・エルナン・ロッシ.md "wikilink") 2002-2005
 
   - [ムラデン・ペトリッチ](https://ja.wikipedia.org/wiki/ムラデン・ペトリッチ "wikilink") 2004-2007
 
+  - [フェリペ・カイセド](https://ja.wikipedia.org/wiki/フェリペ・カイセド "wikilink") 2005-2008
+
+<!-- end list -->
+
   - [エレン・デルディヨク](https://ja.wikipedia.org/wiki/エレン・デルディヨク "wikilink") 2006-2009
 
-  - [ヴラティスラフ・ロクヴェンツ](../Page/ヴラティスラフ・ロクヴェンツ.md "wikilink") 2008
+  - [ジャック・ズア](https://ja.wikipedia.org/wiki/ジャック・ズア "wikilink") 2009-2013
 
-  - [モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink") 2012-2014.1
+  - [モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink") 2012-2014
 
-  - [ジョヴァンニ・シオ](https://ja.wikipedia.org/wiki/ジョヴァンニ・シオ "wikilink") 2013-2015
+  - [ブレール・エンボロ](https://ja.wikipedia.org/wiki/ブレール・エンボロ "wikilink") 2014-2016
 
   - [柿谷曜一朗](../Page/柿谷曜一朗.md "wikilink") 2014-2016
 
+  - [アルビアン・アイエティ](https://ja.wikipedia.org/wiki/アルビアン・アイエティ "wikilink") 2014-2016, 2017-2019
+
   - [マルク・ヤンコ](../Page/マルク・ヤンコ.md "wikilink") 2015-2017
+
+  - [セイドゥ・ドゥンビア](../Page/ドゥンビア・セイドゥ.md "wikilink") 2016-2017
+
+  - [モハメド・エルユヌシ](https://ja.wikipedia.org/wiki/モハメド・エルユヌシ "wikilink") 2016-2018
+
+  - [リッキー・ファン・ウォルフスウィンケル](https://ja.wikipedia.org/wiki/リッキー・ファン・ウォルフスウィンケル "wikilink") 2017-
 
 ## 外部リンク
 

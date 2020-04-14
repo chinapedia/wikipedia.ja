@@ -1,4 +1,4 @@
-> この記事は[CSG](https://ja.wikipedia.org/wiki/CSG)から翻訳されています。
+> この記事は[台形CSGダム](https://ja.wikipedia.org/wiki/台形CSGダム)から翻訳されています。
 
 
 [Tobetsu_dam_after_construction.JPG](https://ja.wikipedia.org/wiki/File:Tobetsu_dam_after_construction.JPG "fig:Tobetsu_dam_after_construction.JPG")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・[当別川](../Page/当別川.md "wikilink")）\]\] **台形CSGダム**（だいけいシーエスジーダム、）とは、[ダムの型式の一つで](https://ja.wikipedia.org/wiki/ダム#型式一覧 "wikilink")、砂礫に水と[セメント](../Page/セメント.md "wikilink")を配合して生成された を[台形](../Page/台形.md "wikilink")状に盛り立てた[コンクリートダム](../Page/コンクリートダム.md "wikilink")の一種である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")において開発された最も新しい型式である。2018年現在日本においてのみ施工されている。
@@ -7,7 +7,7 @@
 
 [Nagashimachosa-s-r1.jpg](https://ja.wikipedia.org/wiki/File:Nagashimachosa-s-r1.jpg "fig:Nagashimachosa-s-r1.jpg")（上流より撮影）\]\] CSGとは、直訳で「**セメントで固めた砂礫**」で、現地の原石山で比較的容易に採取できる砂礫に水とセメントを混合した材料である。通常なら骨材を選定する必要があるが、良質・粗悪なものを混合することがCSGの肝である。台形状にしたのは経済的、強度的にダムとしての必要条件を満たすためである。
 
-[財団法人](../Page/財団法人.md "wikilink")[ダム技術センター](https://ja.wikipedia.org/wiki/ダム技術センター "wikilink")が開発したダムであり、河川管理施設等構造令の適用除外規定における大臣特認制度適用ダム（[参照](http://www.houko.com/00/02/S51/199.HTM#s10)）として申請された。CSG工法としては、[1999年](../Page/1999年.md "wikilink")（平成11年）3月に[長島ダム](../Page/長島ダム.md "wikilink")（[大井川](../Page/大井川.md "wikilink")・[国土交通省](../Page/国土交通省.md "wikilink")中部[地方整備局](../Page/地方整備局.md "wikilink")）の上流仮締切で施工されたのが最初であり、長期供用する河川施設としては同じ長島ダムの貯砂ダムに適用された。貯水ダムとしては[2005年](../Page/2005年.md "wikilink")（平成17年）に[沖縄県](../Page/沖縄県.md "wikilink")の億首ダム（当時、のちに金武ダムに改名）が第1号に認定され、着工されている。
+[財団法人](../Page/財団法人.md "wikilink")[ダム技術センター](https://ja.wikipedia.org/wiki/ダム技術センター "wikilink")が開発したダムであり、河川管理施設等構造令の適用除外規定における大臣特認制度適用ダム（[参照](http://www.houko.com/00/02/S51/199.HTM#s10)）として申請された。CSG工法としては、[1999年](../Page/1999年.md "wikilink")（平成11年）3月に[長島ダム](../Page/長島ダム.md "wikilink")（[大井川](../Page/大井川.md "wikilink")・[国土交通省](../Page/国土交通省.md "wikilink")中部[地方整備局](../Page/地方整備局.md "wikilink")）の上流仮締切で施工されたのが最初であり、長期供用する河川施設としては同じ長島ダムの貯砂ダムに適用された。貯水ダムとしては[2005年](../Page/2005年.md "wikilink")（平成17年）に[沖縄県](../Page/沖縄県.md "wikilink")の億首ダム（当時、のちに[金武ダムに改名](https://ja.wikipedia.org/wiki/金城ダム "wikilink")）が第1号に認定され、着工されている。
 
 ダム本体工事において設計・施工・材料の合理化が最も重要となっているが、台形CSGダムについては材料採集の簡便化による「材料の合理化」が最たる特徴である。また、それに伴うコスト縮減やダム現場周辺の良質な材料の採取が難しい状況やコスト縮減等の観点から、ダム型式を[ロックフィルダム](../Page/ロックフィルダム.md "wikilink")や[重力式コンクリートダム](../Page/重力式コンクリートダム.md "wikilink")から国土交通省の了解を得た上で、変更した例も見受けられる。
 

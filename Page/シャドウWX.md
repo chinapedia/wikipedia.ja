@@ -1,4 +1,4 @@
-> この記事は[WX](https://ja.wikipedia.org/wiki/WX)から翻訳されています。
+> この記事は[シャドウWX](https://ja.wikipedia.org/wiki/シャドウWX)から翻訳されています。
 
 
 **シャドウWX**（シャドウ・ダブル・エックス、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月11日](../Page/6月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**志賀 悟**（しが さとる）。[新潟県](../Page/新潟県.md "wikilink")[十日町市](../Page/十日町市.md "wikilink")出身。

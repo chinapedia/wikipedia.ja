@@ -1,4 +1,4 @@
-> この記事は[ with ](https://ja.wikipedia.org/wiki/_with_)から翻訳されています。
+> この記事は[原由子 with サザンオールスターズ](https://ja.wikipedia.org/wiki/原由子_with_サザンオールスターズ)から翻訳されています。
 
 
 『**原由子 with サザンオールスターズ**』（はらゆうこ・ウィズ・サザンオールスターズ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の企画盤[アルバム](../Page/アルバム.md "wikilink")（[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")）。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

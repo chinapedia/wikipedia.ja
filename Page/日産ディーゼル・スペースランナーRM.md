@@ -1,4 +1,4 @@
-> この記事は[RM](https://ja.wikipedia.org/wiki/RM)から翻訳されています。
+> この記事は[日産ディーゼル・スペースランナーRM](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーRM)から翻訳されています。
 
 
 **スペースランナーRM**（スペースランナーアールエム、Space runner RM）は、かつて[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧「日産ディーゼル工業」）が製造・販売を行なっていた、[路線](../Page/路線バス.md "wikilink")・[観光](../Page/観光バス.md "wikilink")・[自家用向け中型](https://ja.wikipedia.org/wiki/自家用車 "wikilink")[バスである](../Page/バス_\(交通機関\).md "wikilink")。

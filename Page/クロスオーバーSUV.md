@@ -1,4 +1,4 @@
-> この記事は[SUV](https://ja.wikipedia.org/wiki/SUV)から翻訳されています。
+> この記事は[クロスオーバーSUV](https://ja.wikipedia.org/wiki/クロスオーバーSUV)から翻訳されています。
 
 
 [Mazda_CX-5_(11718488785).jpg](https://ja.wikipedia.org/wiki/File:Mazda_CX-5_\(11718488785\).jpg "fig:Mazda_CX-5_(11718488785).jpg")\]\] **クロスオーバーSUV**とは、[自動車](../Page/自動車.md "wikilink")の[カテゴリ](../Page/カテゴリ.md "wikilink")のひとつである。略称は**CUV**（Crossover Utility Vehicle）または**XUV**。本記事ではCUVを用いる。

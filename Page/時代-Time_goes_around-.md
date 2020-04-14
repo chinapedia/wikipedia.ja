@@ -1,4 +1,4 @@
-> この記事は[-Time goes around-](https://ja.wikipedia.org/wiki/-Time_goes_around-)から翻訳されています。
+> この記事は[時代-Time goes around-](https://ja.wikipedia.org/wiki/時代-Time_goes_around-)から翻訳されています。
 
 
 『**時代 -Time goes around-**』（じだい タイム・ゴーズ・アラウンド）は、[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")にリリースされた[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の21作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。4作目の[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムでもある。

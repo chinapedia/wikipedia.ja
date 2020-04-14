@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[Aリーグ](https://ja.wikipedia.org/wiki/Aリーグ)から翻訳されています。
 
 
 **Aリーグ**（エーリーグ、*A-League*）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[プロサッカー](https://ja.wikipedia.org/wiki/プロフェッショナル_\(サッカー\) "wikilink")[リーグにおけるトップディビジョン](../Page/リーグ戦.md "wikilink")（1部リーグ）のことを指す名称である。[オーストラリア](../Page/オーストラリア.md "wikilink")のプロサッカーリーグであり、オーストラリア各地から10クラブが参加しているが、[ニュージーランド](../Page/ニュージーランド.md "wikilink")から越境で1クラブ参加している。なお、[大韓民国](../Page/大韓民国.md "wikilink")の企業、[現代自動車](../Page/現代自動車.md "wikilink")がオフィシャルスポンサーを務めており、公式には**ヒュンダイ・A・リーグ**（ヒュンダイAリーグ、*Hyundai A-League*）と称される。

@@ -1,4 +1,4 @@
-> この記事は[Little Bit](https://ja.wikipedia.org/wiki/Little_Bit)から翻訳されています。
+> この記事は[Little Bit…](https://ja.wikipedia.org/wiki/Little_Bit…)から翻訳されています。
 
 
 『**Little Bit…**』（リトル・ビット…）は、[WANDS](../Page/WANDS.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。当作品は、規格上はミニアルバムだが、公式サイトでは3rdアルバムとされているので、ここでは公式通りにする。

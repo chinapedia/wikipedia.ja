@@ -1,4 +1,4 @@
-> この記事は[MOON CHILD \(\)](https://ja.wikipedia.org/wiki/MOON_CHILD_\(\))から翻訳されています。
+> この記事は[MOON CHILD \(映画\)](https://ja.wikipedia.org/wiki/MOON_CHILD_\(映画\))から翻訳されています。
 
 
 『**MOONCHILD**』（ムーンチャイルド）は、2003年に[松竹](../Page/松竹.md "wikilink")配給により公開された[日本の近未来](../Page/日本映画.md "wikilink")[SF映画](../Page/SF映画.md "wikilink")である。

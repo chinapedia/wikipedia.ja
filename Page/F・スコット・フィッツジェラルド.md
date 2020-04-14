@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F・スコット・フィッツジェラルド](https://ja.wikipedia.org/wiki/F・スコット・フィッツジェラルド)から翻訳されています。
 
 
 **フランシス・スコット・キー・フィッツジェラルド**（, [1896年](../Page/1896年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - [1940年](../Page/1940年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[短編小説](../Page/短編小説.md "wikilink")家。一般には筆名の**F・スコット・フィッツジェラルド**として知られる。1920年代の「[失われた世代](../Page/失われた世代.md "wikilink")」の作家の一人とみなされ、狂騒の「[ジャズ・エイジ](https://ja.wikipedia.org/wiki/ジャズ・エイジ "wikilink")」を描いたその作品は後世の多くの作家に影響を与えた。生前に発表した長編小説は4作品にすぎないものの、今日では[20世紀](../Page/20世紀.md "wikilink")の[アメリカ文学](../Page/アメリカ文学.md "wikilink")を代表する小説家の一人としてその名を残している。

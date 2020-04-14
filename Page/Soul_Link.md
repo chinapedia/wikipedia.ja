@@ -6,7 +6,7 @@
 | アニメ {{Infobox animanga/TVAnime | 原作= Navel | 監督= 所俊克 | シリーズ構成= 所俊克 | 脚本= [長谷川勝己](../Page/長谷川勝己.md "wikilink")、[静谷伊佐夫](https://ja.wikipedia.org/wiki/静谷伊佐夫 "wikilink") | キャラクターデザイン= [渡辺義弘](https://ja.wikipedia.org/wiki/渡邊義弘_\(アニメーター\) "wikilink") | 音楽= [澤野弘之](../Page/澤野弘之.md "wikilink") | アニメーション制作= [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink") | 製作= Soul Link メディア Project | 放送局= [放送局を参照](https://ja.wikipedia.org/wiki/#放送局 "wikilink") | 放送開始= 2006年4月 | 放送終了= 9月 | 話数= 全12話 }} |
 | ------------------------------ | --------- | ------- | ----------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------------- | -------- | ----------- |
 
-『**Soul Link**』（ソウル リンク）は、[Navel](../Page/Navel.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作として制作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
+『**Soul Link**』（ソウル リンク）は、[Navel](../Page/Navel.md "wikilink")から2004年12月17日に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびそれを原作として制作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
 
 ## 概要
 
@@ -97,7 +97,7 @@
     声 - [まきいづみ](../Page/まきいづみ.md "wikilink") / [柳瀬なつみ](../Page/やなせなつみ.md "wikilink")
     誕生日：1月1日。
     民間人の少女。いつも笑顔でいるムードメーカー。お菓子が大好きな食いしん坊。性格は外見同様に子供っぽいが、やたら物覚えが良く勘も鋭い。秀平と七央を強く慕っており、また涼太に好意を抱いている。
-    実はスキュラ化した秀平と七央の間に生まれた子供で、人間と**スキュラ**（謎の液体生命体）の細胞を併せ持つ**ハーフ・スキュラ**。その情報吸収能力は目覚しいものがある。彼女の隠された能力（スキュラの弱点である[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")細胞の移植、スキュラ自身は因子がないため、発ガンしない）がセラリアには致命的なものとなる。アニメではシンからその秘密を聞かされてセラリアに触れるだけでそれを打ち倒す。
+    実はスキュラ化した秀平と七央の間に生まれた子供で、人間と**スキュラ**（謎の液体生命体）の細胞を併せ持つ**ハーフ・スキュラ**。その情報吸収能力は目覚しいものがある。彼女の隠された能力（スキュラの弱点である[ガン細胞の移植](../Page/悪性腫瘍.md "wikilink")、スキュラ自身は因子がないため、発ガンしない）がセラリアには致命的なものとなる。アニメではシンからその秘密を聞かされてセラリアに触れるだけでそれを打ち倒す。
     後日談では、結婚した秀平・七央と共に3人で暮らしている。
   - 杉本 亜弥（すぎもと あや）
     声 - [芹園みや](../Page/芹園みや.md "wikilink")（PC版）、[芳田まり](https://ja.wikipedia.org/wiki/芳田まり "wikilink")（リメイク版） / [南條愛乃](../Page/南條愛乃.md "wikilink")
@@ -181,23 +181,41 @@
 
 ## 主題歌
 
-  - PC版オープニングテーマ「**Not Found**」
+  - PC版
+
+<!-- end list -->
+
+  - オープニングテーマ「**Not Found**」
       -
-        作詞 - AlAi / 作曲・編曲：アッチョリケ / 歌 - 内野なお
+        作詞：[AlAi](https://ja.wikipedia.org/wiki/AlAi "wikilink") / 作曲・編曲：[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") / 歌：[内野なお](https://ja.wikipedia.org/wiki/内野なお "wikilink")
   - PC版およびリメイク版エンディングテーマ「**Accepted**」
       -
-        作詞 - AlAi / 作曲・編曲 - NACHTMUSIK / 歌 - 井上繭
-  - PS2版オープニングテーマ「**[Cosmic Rhapsody](https://ja.wikipedia.org/wiki/Cosmic_Rhapsody "wikilink")**」
+        作詞：AlAi / 作曲・編曲：[NACHTMUSIK](https://ja.wikipedia.org/wiki/NACHTMUSIK "wikilink") / 歌：[井上繭](https://ja.wikipedia.org/wiki/井上繭 "wikilink")
+
+<!-- end list -->
+
+  - PS2版
+
+<!-- end list -->
+
+  - オープニングテーマ「**[Cosmic Rhapsody](https://ja.wikipedia.org/wiki/Cosmic_Rhapsody "wikilink")**」
       -
         作詞 - AlAi / 作曲：アッチョリケ / 編曲 - [ms-jacky](https://ja.wikipedia.org/wiki/ms-jacky "wikilink") / 歌 - [橋本みゆき](../Page/橋本みゆき.md "wikilink")
-  - PS2版エンディングテーマ「**あなたを守りたい**」
+  - エンディングテーマ「**[あなたを守りたい](https://ja.wikipedia.org/wiki/Cosmic_Rhapsody "wikilink")**」
       -
-        作詞・作曲 - 橋本みゆき / 編曲 - [鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink") / 歌 - 橋本みゆき
-  - PCリメイク版オープニングテーマ「**[Defy Gravity（Not Found 2010）](https://ja.wikipedia.org/wiki/Cross_Illusion "wikilink")**」\[9\]
-      -
-        作詞 - 藤海琢樹 / 作曲 - アッチョリケ / 編曲 - [Blasterhead](../Page/Blasterhead.md "wikilink") / 歌 - [美郷あき](../Page/美郷あき.md "wikilink")
+        編曲：[鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink") / 歌・作詞・作曲：橋本みゆき
 
-## アニメ
+<!-- end list -->
+
+  - PCリメイク版
+
+<!-- end list -->
+
+  - オープニングテーマ「**[Defy Gravity（Not Found 2010）](https://ja.wikipedia.org/wiki/Cross_Illusion "wikilink")**」\[9\]
+      -
+        作詞：藤海琢樹 / 作曲：アッチョリケ / 編曲：[Blasterhead](../Page/Blasterhead.md "wikilink") / 歌：[美郷あき](../Page/美郷あき.md "wikilink")
+
+## テレビアニメ
 
 2006年4月から6月まで、[AT-X](../Page/アニメシアターX.md "wikilink")・[チバテレビ](../Page/千葉テレビ放送.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[KBS京都で放送された](../Page/京都放送.md "wikilink")（全12話+特別編）。
 
@@ -226,7 +244,7 @@
 ### 主題歌
 
   - オープニングテーマ「[screaming](https://ja.wikipedia.org/wiki/screaming "wikilink")」
-    作詞 - AlAi / 作曲 - [アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") / 編曲 - 鈴木マサキ / 歌 - [橋本みゆき](../Page/橋本みゆき.md "wikilink")
+    作詞 - AlAi / 作曲 - [アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") / 編曲 - [鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink") / 歌 - [橋本みゆき](../Page/橋本みゆき.md "wikilink")
   - エンディングテーマ「[dust trail](https://ja.wikipedia.org/wiki/screaming "wikilink")」
     作詞 - 藤海琢樹 / 作曲 - アッチョリケ / 編曲 - 鈴木マサキ / 歌 - 橋本みゆき
 
@@ -422,59 +440,6 @@
 </tbody>
 </table>
 
-## 関連商品
-
-### CD
-
-[ランティス](../Page/ランティス.md "wikilink")（オンザラン含む）より発売
-
-  - Soul Link オリジナルサウンドトラック
-      -
-        2005年3月23日発売 ASIN B00078RSSM
-        ゲーム中で使用されたボーカル曲、BGMに加え、OPテーマ、EDテーマのFull Sizeを収録した2枚組。
-  - Soul Link ドラマアルバム
-      -
-        2005年3月24日発売 ASIN B0007N35QQ
-        ゲーム終了後の話。キャストはゲームと同じ。
-  - [Soul Link Character Vocal Album](https://ja.wikipedia.org/wiki/Soul_Link_Character_Vocal_Album "wikilink")
-      -
-        2005年5月25日発売 ASIN B0008JH718
-        オリジナルキャラが歌ったボーカル全11曲を収録。
-  - [screaming](https://ja.wikipedia.org/wiki/screaming "wikilink")
-      -
-        歌 - 橋本みゆき 2006年4月26日発売 ASIN B000EPFS5S
-        アニメ「Soul Link」のOP、EDを収録したマキシシングル。
-  - Soul Link The Animation Mission 01
-      -
-        2006年6月7日発売 ASIN B000F7NSKW
-        TVアニメ『Soul Link』に登場する永瀬沙佳、杉本亜弥のキャラクターソングにオリジナルドラマ「亜希とななみのだいぼーけん　その一」を収録。
-  - Soul Link The Animation Mission 02
-      -
-        2006年6月21日発売 ASIN B000FI8U22
-        TVアニメ『Soul Link』に登場するカレン=タチバナ、ユウ=ヤマナミのキャラクターソングにオリジナルドラマ「亜希とななみのだいぼーけん　その二」を収録。
-  - Soul Link The Animation Mission 03
-      -
-        2006年7月26日発売 ASIN B000FUU0UU
-        TVアニメ『Soul Link』に登場する新田亜希、セラリア＝マーカライトのキャラクターソングにオリジナルドラマ「亜希とななみのだいぼーけん　その三」を収録。
-  - Soul Link The Animation Mission 04
-      -
-        2006年8月23日発売 ASIN B000GH2W8K
-        TVアニメ『Soul Link』に登場する森崎七央、稲月ななみのキャラクターソングにオリジナルドラマ「亜希とななみのだいぼーけん　その四」を収録。
-          -
-            「亜希とななみのだいぼーけん」は後にNavelから発売された「Navel Drama CD \~Episodes Mix\~」にまとめて収録されている。
-  - 『Soul Link』Original Soundtrack
-      -
-        2006年8月9日発売 ASIN B000FUU0U0
-        TVアニメ「Soul Link」中で使用されたOP・EDのTV SizeとBGMを収録。
-  - [Cosmic Rhapsody](https://ja.wikipedia.org/wiki/Cosmic_Rhapsody "wikilink")
-      -
-        歌 - 橋本みゆき 2006年7月5日発売　ASIN B000FI8U2W
-        PS2版「Soul Link EXTENSION」のOP、EDを収録したマキシシングル。
-  - [Cross Illusion](https://ja.wikipedia.org/wiki/Cross_Illusion "wikilink")
-      -
-        歌 - 美郷あき 2010年8月11日発売　ASIN B003M13X0I
-        PCリメイク版「Soul Link ULTIMATE」のOP「Defy Gravity（Not Found 2010）」を収録したマキシシングル。
-
 ### DVD
 
 [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より発売
@@ -486,6 +451,157 @@
 5.  第9・10話：2006年10月25日発売 ASIN B000FEI4V8
 6.  第11・12話：2006年11月22日発売 ASIN B000FEI4VI
 
+## 関連商品
+
+### CD
+
+#### サウンドトラック
+
+  - Soul Link ORIGINAL SOUNDTRACK\[11\]
+    2005年2月23日、[ランティス](../Page/ランティス.md "wikilink") / LACA-9051 - LACA-9052
+
+\*: ゲーム中で使用されたボーカル曲、BGMに加え、OPテーマ、EDテーマのFull Sizeを収録した2枚組。
+
+  - Soul Link Original Soundtrack\[12\]
+    2006年8月9日、ランティス / LHCA-5044
+
+\*: テレビアニメ『Soul Link』中で使用されたOP・EDのTV SizeとBGMを収録。
+
+### ドラマCD
+
+  - Soul Link Drama Album\[13\]（2005年3月24日、[ランティス](../Page/ランティス.md "wikilink") / LACA-5367）
+      -
+        ゲーム終了後の話。ゲーム版ドラマCD、キャストは[佐久間紅美](../Page/佐久間紅美.md "wikilink")、[増田ゆき](../Page/増田ゆき.md "wikilink")、[大野まりな](../Page/大野まりな.md "wikilink")、[嶋方淳子](../Page/嶋方淳子.md "wikilink")、[柳瀬なつみ](https://ja.wikipedia.org/wiki/柳瀬なつみ "wikilink") ほか\[14\]。
+
+### キャラクターソングアルバム
+
+『**Soul Link Character Vocal Album**』は、ゲーム『Soul Link』のキャラクターソングアルバム。**ゲーム版のキャラクターソングですが、声優はアニメ版のキャストです**。
+
+  - 収録曲
+
+<!-- end list -->
+
+1.  **Chocolate Party\!**
+      - 歌：稲月ななみ（[柳瀬なつみ](https://ja.wikipedia.org/wiki/柳瀬なつみ "wikilink")）
+      - 作詞：AlAi / 作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")
+2.  **ふたりでいれば**
+      - 歌：相澤涼太（[荻原秀樹](../Page/荻原秀樹.md "wikilink")）
+      - 作詞：[藤海琢樹](https://ja.wikipedia.org/wiki/藤海琢樹 "wikilink") / 作曲・編曲：[鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink")
+3.  **ルロウノタビジ**
+      - 歌：ユウ＝ヤマナミ（[嶋方淳子](../Page/嶋方淳子.md "wikilink")）
+      - 作詞：藤海琢樹 / 作曲・編曲：[景家淳](https://ja.wikipedia.org/wiki/景家淳 "wikilink")
+4.  **Survivor's Drive**
+      - ゲイル＝ランティス（[長嶝高士](../Page/長嶝高士.md "wikilink")）
+      - 作詞：AlAi / 作曲・編曲：鈴木マサキ
+5.  **Link,the world.**
+      - 歌：永瀬沙佳（[増田ゆき](../Page/増田ゆき.md "wikilink")）
+      - 作詞：AlAi / 作曲・編曲：[ms竏男acky](https://ja.wikipedia.org/wiki/ms竏男acky "wikilink")
+6.  **Silhouette**
+      - 歌：新田和彦（[子安武人](../Page/子安武人.md "wikilink")）
+      - 作詞：AlAi / 作曲・編曲：ms竏男acky
+7.  **DESIRE**
+      - セラリア＝マーカライト（[手塚ちはる](../Page/手塚ちはる.md "wikilink")）
+      - 作詞：藤海琢樹 / 作曲・編曲：ms竏男acky
+8.  **Scenes**
+      - 歌：森本茂道（[若本規夫](../Page/若本規夫.md "wikilink")）
+      - 作詞：AlAi / 作曲・編曲：景家淳
+9.  **いたずら天国・さいばぁ編**
+      - 歌：新田亜希（[大野まりな](../Page/大野まりな.md "wikilink")）
+      - 作詞：藤海琢樹 / 作曲・編曲：景家淳
+10. **はてしない宇宙を見つめて**
+      - 歌：相澤秀平（[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")）
+      - 作詞：藤海琢樹 / 作曲・編曲：景家淳
+11. **好きだから……**
+      - 歌：森崎七央（[佐久間紅美](../Page/佐久間紅美.md "wikilink")）
+      - 作詞：藤海琢樹 / 作曲・編曲：鈴木マサキ
+
+#### キャラクターソング+ミニドラマCD
+
+  - Soul Link The Animation Mission 01
+    2006年6月7日、[ランティス](../Page/ランティス.md "wikilink") / LHCA-5039
+
+\*: テレビアニメ『Soul Link』に登場する永瀬沙佳、杉本亜弥のキャラクターソングにオリジナルミニドラマ「亜希とななみのだいぼーけん その一」を収録。
+
+| トラック | 曲名                             | 備考                                         |
+| ---- | ------------------------------ | ------------------------------------------ |
+| 1    | **I'm telling you.**           | 歌：永瀬沙佳（[増田ゆき](../Page/増田ゆき.md "wikilink")） |
+| 2    | **雨のち晴れ**                      | 歌：杉本亜弥（[南條愛乃](../Page/南條愛乃.md "wikilink")） |
+| 3    | 亜希とななみのだいぼーけん その一              |                                            |
+| 4    | I'm telling you.（instrumental） |                                            |
+| 5    | 雨のち晴れ（instrumental）            |                                            |
+|      |                                |                                            |
+
+収録曲
+
+  - Soul Link The Animation Mission 02
+    2006年6月21日、ランティス / LHCA-5042
+
+\*: TVアニメ『Soul Link』に登場するカレン＝タチバナ、ユウ＝ヤマナミのキャラクターソングにオリジナルミニドラマ「亜希とななみのだいぼーけん その二」を収録。
+
+| トラック | 曲名                                    | 備考                                             |
+| ---- | ------------------------------------- | ---------------------------------------------- |
+| 1    | **horizon of the universe**           | 歌：カレン＝タチバナ（[庄子裕衣](../Page/庄子裕衣.md "wikilink")） |
+| 2    | **stardust**                          | 歌：ユウ＝ヤマナミ（[嶋方淳子](../Page/嶋方淳子.md "wikilink")）  |
+| 3    | 亜希とななみのだいぼーけん その二                     |                                                |
+| 4    | horizon of the universe（instrumental） |                                                |
+| 5    | stardust（instrumental）                |                                                |
+|      |                                       |                                                |
+
+収録曲
+
+  - Soul Link The Animation Mission 03
+    2006年7月26日、ランティス / LHCA-5048
+
+\*: TVアニメ『Soul Link』に登場する新田亜希、セラリア＝マーカライトのキャラクターソングにオリジナルミニドラマ「亜希とななみのだいぼーけん その三」を収録。
+
+| トラック | 曲名                      | 備考                                                  |
+| ---- | ----------------------- | --------------------------------------------------- |
+| 1    | **DA・KE・DO**            | 歌：新田亜季（[大野まりな](../Page/大野まりな.md "wikilink")）        |
+| 2    | **rainy day**           | 歌：セラリア＝マーカライト（[手塚ちはる](../Page/手塚ちはる.md "wikilink")） |
+| 3    | 亜希とななみのだいぼーけん その三       |                                                     |
+| 4    | DA・KE・DO（instrumental）  |                                                     |
+| 5    | rainy day（instrumental） |                                                     |
+|      |                         |                                                     |
+
+収録曲
+
+  - Soul Link The Animation Mission 04
+    2006年8月23日、ランティス / LHCA-5052
+
+\*: TVアニメ『Soul Link』に登場する森崎七央、稲月ななみのキャラクターソングにオリジナルミニドラマ「亜希とななみのだいぼーけん その四」を収録。
+
+\*:: 「亜希とななみのだいぼーけん」は後にNavelから発売された「Navel Drama CD 〜Episodes Mix〜」にまとめて収録されている。
+
+| トラック | 曲名                         | 備考                                                               |
+| ---- | -------------------------- | ---------------------------------------------------------------- |
+| 1    | **ring**                   | 歌：森崎七央（[佐久間紅美](../Page/佐久間紅美.md "wikilink")）                     |
+| 2    | **happy mornig**           | 歌：稲月ななみ（[柳瀬なつみ](https://ja.wikipedia.org/wiki/柳瀬なつみ "wikilink")） |
+| 3    | 亜希とななみのだいぼーけん その四          |                                                                  |
+| 4    | ring（instrumental）         |                                                                  |
+| 5    | happy mornig（instrumental） |                                                                  |
+|      |                            |                                                                  |
+
+収録曲
+
+#### 主題歌シングル
+
+[ランティス](../Page/ランティス.md "wikilink")より発売。
+
+  - [screaming](https://ja.wikipedia.org/wiki/screaming "wikilink")
+    歌 - [橋本みゆき](../Page/橋本みゆき.md "wikilink") / 2006年4月26日
+
+\*: テレビアニメ『Soul Link』のOP、EDを収録したマキシシングル。
+
+  - [Cosmic Rhapsody](https://ja.wikipedia.org/wiki/Cosmic_Rhapsody "wikilink")
+    歌 - 橋本みゆき / 2006年7月5日
+
+\*: PS2版『Soul Link EXTENSION』のOP、EDを収録したマキシシングル。
+
+  - [Cross Illusion](https://ja.wikipedia.org/wiki/Cross_Illusion "wikilink")
+    歌 - [美郷あき](../Page/美郷あき.md "wikilink") / 2010年8月11日
+
+\*: PCリメイク版『Soul Link ULTIMATE』のOP「**Defy Gravity（Not Found 2010）**」を収録したマキシシングル。
+
 ### 小説
 
   - Soul Link（ソフガレノベルズ）
@@ -494,7 +610,7 @@
           -
             [ソフトガレージ](https://ja.wikipedia.org/wiki/ソフトガレージ "wikilink")刊 著：神尾丈治
             Navel原作の[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")は本作のみ。
-  - Soul Linkアンソロジーノベル（JIVE CHARACTER NOVELS）
+  - Soul Link アンソロジーノベル（JIVE CHARACTER NOVELS）
       -
         [ジャイブ](../Page/ジャイブ.md "wikilink")刊 2005年7月25日発売 ISBN 4-86176-167-0
 
@@ -528,7 +644,9 @@
 
 ## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -548,3 +666,7 @@
 8.
 9.  「Not Found」のリメイク楽曲である。
 10. 前半はセラリア＝マーカライトによる回想で後半は稲月ななみによる回想
+11. ジャケットからの正式タイトル
+12.
+13.
+14. ランティス公式サイトより

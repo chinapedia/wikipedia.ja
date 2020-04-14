@@ -1,4 +1,4 @@
-> この記事は[7 SMACKDOWN! VS. RAW 2006](https://ja.wikipedia.org/wiki/7_SMACKDOWN!_VS._RAW_2006)から翻訳されています。
+> この記事は[エキサイティングプロレス7 SMACKDOWN! VS. RAW 2006](https://ja.wikipedia.org/wiki/エキサイティングプロレス7_SMACKDOWN!_VS._RAW_2006)から翻訳されています。
 
 
 **エキサイティングプロレス7 SMACKDOWN\! VS. RAW 2006**は[プロレス](../Page/プロレス.md "wikilink")を題材とした[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『**[エキサイティングプロレス](../Page/エキサイティングプロレス.md "wikilink")**』シリーズの7作目である。製作会社は[ユークス](../Page/ユークス.md "wikilink")。日本では[2006年](../Page/2006年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に発売された。

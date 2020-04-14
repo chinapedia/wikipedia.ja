@@ -1,4 +1,4 @@
-> この記事は[A.C.](https://ja.wikipedia.org/wiki/A.C.)から翻訳されています。
+> この記事は[A.C.グリーン](https://ja.wikipedia.org/wiki/A.C.グリーン)から翻訳されています。
 
 
 **A.C.グリーン**（**A.C. Green Jr.**、[1963年](../Page/1963年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[ポートランド出身の元](../Page/ポートランド_\(オレゴン州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手。ファーストネームの "A.C." は略称ではなく、これが本名である。

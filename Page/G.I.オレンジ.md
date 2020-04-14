@@ -1,4 +1,4 @@
-> この記事は[G.I.](https://ja.wikipedia.org/wiki/G.I.)から翻訳されています。
+> この記事は[G.I.オレンジ](https://ja.wikipedia.org/wiki/G.I.オレンジ)から翻訳されています。
 
 
 **G.I.オレンジ**（**G.I. Orange**）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本では、[1980年代](../Page/1980年代.md "wikilink")半ばに[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")アイドルとして売り出されていた\[1\]。

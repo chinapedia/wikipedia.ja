@@ -1,4 +1,4 @@
-> この記事は[MW](https://ja.wikipedia.org/wiki/MW)から翻訳されています。
+> この記事は[シボレー・MW](https://ja.wikipedia.org/wiki/シボレー・MW)から翻訳されています。
 
 
 **MW**（*エムダブリュー*）は、[スズキが製造し](../Page/スズキ_\(企業\).md "wikilink")[シボレー](../Page/シボレー.md "wikilink")ブランドで販売していた[トールワゴン](../Page/トールワゴン.md "wikilink")タイプの[小型乗用車](https://ja.wikipedia.org/wiki/小型乗用車 "wikilink")である。

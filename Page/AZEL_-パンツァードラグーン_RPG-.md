@@ -1,4 +1,4 @@
-> この記事は[AZEL - RPG-](https://ja.wikipedia.org/wiki/AZEL_-_RPG-)から翻訳されています。
+> この記事は[AZEL -パンツァードラグーン RPG-](https://ja.wikipedia.org/wiki/AZEL_-パンツァードラグーン_RPG-)から翻訳されています。
 
 
 『**AZEL -パンツァードラグーンRPG-**』 （アゼル パンツァードラグーン アールピージー、AZEL PANZER DRAGOON RPG、海外版:Panzer Dragoon Saga）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月29日](../Page/1月29日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が発売した[セガサターン](../Page/セガサターン.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である。

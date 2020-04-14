@@ -1,4 +1,4 @@
-> この記事は[IBM  ](https://ja.wikipedia.org/wiki/IBM__)から翻訳されています。
+> この記事は[IBM メインフレーム ユーティリティプログラム](https://ja.wikipedia.org/wiki/IBM_メインフレーム_ユーティリティプログラム)から翻訳されています。
 
 
 **IBM Mainframe Utility Programs**（IBMメインフレーム[ユーティリティプログラム](https://ja.wikipedia.org/wiki/ユーティリティプログラム "wikilink")）とは、[MVSのような](../Page/Multiple_Virtual_Storage.md "wikilink")[IBM](../Page/IBM.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")用の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")向けに供給されている、[データセットの操作](../Page/データセット_\(IBMメインフレーム\).md "wikilink")、データセットとデータセットを結びつけることを実施するプログラム群のことである。

@@ -1,4 +1,4 @@
-> この記事は[SHOGO](https://ja.wikipedia.org/wiki/SHOGO)から翻訳されています。
+> この記事は[SHOGOのオールナイトニッポン](https://ja.wikipedia.org/wiki/SHOGOのオールナイトニッポン)から翻訳されています。
 
 
 **POCARI SWEAT Presents SHOGOのオールナイトニッポン**（'''ポカリスエットプレゼンツショーゴ - '''）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の[土曜日](../Page/土曜日.md "wikilink")で[175R](../Page/175R.md "wikilink")のボーカル・[SHOGO](../Page/SHOGO.md "wikilink")が[パーソナリティを担当した](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。　

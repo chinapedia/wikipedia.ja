@@ -1,4 +1,4 @@
-> この記事は[KAMIKAZE \(\)](https://ja.wikipedia.org/wiki/KAMIKAZE_\(\))から翻訳されています。
+> この記事は[KAMIKAZE \(プロレスラー\)](https://ja.wikipedia.org/wiki/KAMIKAZE_\(プロレスラー\))から翻訳されています。
 
 
 **KAMIKAZE**（カミカゼ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[11月1日](../Page/11月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**丸山 昭一**（まるやま しょういち）、

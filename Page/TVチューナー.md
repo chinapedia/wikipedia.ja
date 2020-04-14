@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVチューナー](https://ja.wikipedia.org/wiki/TVチューナー)から翻訳されています。
 
 
 **TVチューナー**（テレビチューナー）とは、[テレビ](../Page/テレビ.md "wikilink")[放送](../Page/放送.md "wikilink")を受信するための機器、部品、あるいはその部品を含む[集積回路](../Page/集積回路.md "wikilink")や[基板](../Page/基板.md "wikilink")（[拡張カード](../Page/拡張カード.md "wikilink")など）をいう。

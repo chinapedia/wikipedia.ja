@@ -1,4 +1,4 @@
-> この記事は[SATURDAY RADIO HEAVEN ](https://ja.wikipedia.org/wiki/SATURDAY_RADIO_HEAVEN_)から翻訳されています。
+> この記事は[SATURDAY RADIO HEAVEN 土曜はいっしょに…。](https://ja.wikipedia.org/wiki/SATURDAY_RADIO_HEAVEN_土曜はいっしょに…。)から翻訳されています。
 
 
 『**SATURDAY RADIO HEAVEN 土曜はいっしょに…。**』（サタデー・ラジオ・ヘブン・どようはいっしょに）は、[山形放送](../Page/山形放送.md "wikilink")ラジオで土曜の朝9時から10時50分まで放送していた番組。 放送開始は平成12年（2000年）4月8日。平成21年（2009年）3月28日放送終了。パーソナリティーは[松下香織](../Page/松下香織.md "wikilink")アナ。

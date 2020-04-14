@@ -1,4 +1,4 @@
-> この記事は[ PART2](https://ja.wikipedia.org/wiki/_PART2)から翻訳されています。
+> この記事は[バック・トゥ・ザ・フューチャー PART2](https://ja.wikipedia.org/wiki/バック・トゥ・ザ・フューチャー_PART2)から翻訳されています。
 
 
 『**バック・トゥ・ザ・フューチャー PART2**』（*Back to the Future Part II*）は[1989年の](../Page/1989年の映画.md "wikilink")[アメリカ映画で](../Page/アメリカ合衆国の映画.md "wikilink")、映画『[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャー.md "wikilink")』の続編。[『バック・トゥ・ザ・フューチャー』シリーズ](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")3部作の2番目にあたる。[SF映画](../Page/SF映画.md "wikilink")。監督は[ロバート・ゼメキス](../Page/ロバート・ゼメキス.md "wikilink")。

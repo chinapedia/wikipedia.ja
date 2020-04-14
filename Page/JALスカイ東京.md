@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALスカイ東京](https://ja.wikipedia.org/wiki/JALスカイ東京)から翻訳されています。
 
 
 **株式会社JALスカイ東京**(ジャルスカイとうきょう)とは、かつて存在した[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（羽田空港）第1ターミナル及び国際線ターミナルにて[JAL](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")、[JTAの空港旅客サービス業務を行っていた](../Page/日本トランスオーシャン航空.md "wikilink")、[日本航空](../Page/日本航空.md "wikilink")の子会社。

@@ -1,4 +1,4 @@
-> この記事は[15IBAF](https://ja.wikipedia.org/wiki/15IBAF)から翻訳されています。
+> この記事は[第15回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第15回IBAFインターコンチネンタルカップ日本代表)から翻訳されています。
 
 
 **第15回IBAFインターコンチネンタルカップ日本代表**（だい15かいIBAFインターコンチネンタルカップにっぽんだいひょう）は、11月に[キューバ](../Page/キューバ.md "wikilink")・[ハバナ](../Page/ハバナ.md "wikilink")で行われた[第15回IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/第15回IBAFインターコンチネンタルカップ "wikilink")に出場するために編成された[野球日本代表](../Page/野球日本代表.md "wikilink")チームである。

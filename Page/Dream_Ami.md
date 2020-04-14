@@ -17,11 +17,10 @@
 
 2017年6月5日、ソロ活動に専念することを発表\[11\]。同年7月16日、「E-girls LIVE 2017 〜E.G. EVOLUTION〜」が、Dream及びE-girlsとして最後の活動となった\[12\]。
 
-2020年2月22日、建築家の半田悠人と結婚\[13\]。
-
 ## 人物
 
-  - 金髪がトレードマーク。2008年にDreamがLDHに移籍となった際、イメージチェンジをはかったことがきっかけである\[14\]。
+  - 金髪がトレードマーク。2008年にDreamがLDHに移籍となった際、イメージチェンジをはかったことがきっかけである\[13\]。
+  - 2020年2月22日、建築家の半田悠人と結婚\[14\]。
 
 ## 作品
 
@@ -238,7 +237,7 @@ E.G. POWER 2019 〜POWER to the DOME〜
 
 ### ファンクラブイベント
 
-  - Dream Ami FAN CLUB EVENT "Dream Ami × Little Twin Stars" in サンリオピューロランド（2019年<s>10月12日</s> 、12月15日） [台風19号による振替公演](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")
+  - Dream Ami FAN CLUB EVENT "Dream Ami × Little Twin Stars" in サンリオピューロランド（2019年<s>10月12日</s> 、12月15日） [台風19号による振替公演](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")
 
 ## 出演
 
@@ -253,66 +252,67 @@ E.G. POWER 2019 〜POWER to the DOME〜
 ### テレビドラマ
 
   - [ムッシュ\!](https://ja.wikipedia.org/wiki/ムッシュ! "wikilink") 第10話（2013年6月24日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - Ami 役\[40\]
+  - [ひみつ×戦士 ファントミラージュ\!](https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ! "wikilink")（2020年4月26日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - ファントミクイーン アミーゴ 役\[41\]
 
 ### 声優
 
-  - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink") アニメ25周年記念〜旅は道連れ、苦あれば楽あり美味もありスペシャル（2015年1月25日、フジテレビ） - Ami 役\[41\]
-  - [ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink") 日本語版（2016年） - ガゼル 役\[42\]
+  - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink") アニメ25周年記念〜旅は道連れ、苦あれば楽あり美味もありスペシャル（2015年1月25日、フジテレビ） - Ami 役\[42\]
+  - [ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink") 日本語版（2016年） - ガゼル 役\[43\]
 
 ### 短編映画
 
-  - CINEMA FIGHTERS 「[色のない洋服店](https://ja.wikipedia.org/wiki/CINEMA_FIGHTERS#色のない洋服店 "wikilink")」（2018年1月）\[43\] - 中目由衣 役
+  - CINEMA FIGHTERS 「[色のない洋服店](https://ja.wikipedia.org/wiki/CINEMA_FIGHTERS#色のない洋服店 "wikilink")」（2018年1月）\[44\] - 中目由衣 役
 
 ### ラジオ
 
-  - 木下グループ Beautiful Harmony（2013年4月 - 2017年10月、[FM802](../Page/FM802.md "wikilink")）\[44\]
-  - Dream AmiのHappy-Go-Lucky☆（2018年4月 - 、[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）\[45\]\[46\]
+  - 木下グループ Beautiful Harmony（2013年4月 - 2017年10月、[FM802](../Page/FM802.md "wikilink")）\[45\]
+  - Dream AmiのHappy-Go-Lucky☆（2018年4月 - 、[JFN](../Page/全国FM放送協議会.md "wikilink")）\[46\]\[47\]
 
 ### 配信番組
 
-  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink")（2013年10月） - 月替わりMC\[47\]
-      - [DAM CHANNEL TV](https://ja.wikipedia.org/wiki/DAMチャンネル#歴代司会者 "wikilink")（2017年4月 - 2018年3月） - 14代目MC\[48\]
-  - [真夏のオオカミくんには騙されない](https://ja.wikipedia.org/wiki/オオカミくんには騙されない "wikilink")（2017年7月 - 9月、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - MC\[49\]
-      - 真冬のオオカミくんには騙されない（2018年1月 - 3月）\[50\]
-      - 太陽とオオカミくんには騙されない（2018年7月 - 10月）\[51\]
-      - 白雪とオオカミくんには騙されない（2019年1月 - 3月）\[52\]\[53\]
-      - オオカミちゃんには騙されない（2019年7月 - 9月）\[54\]\[55\]
-      - 月とオオカミちゃんには騙されない（2020年1月 - ）
+  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink")（2013年10月） - 月替わりMC\[48\]
+      - [DAM CHANNEL TV](https://ja.wikipedia.org/wiki/DAMチャンネル#歴代司会者 "wikilink")（2017年4月 - 2018年3月） - 14代目MC\[49\]
+  - [真夏のオオカミくんには騙されない](https://ja.wikipedia.org/wiki/オオカミくんには騙されない "wikilink")（2017年7月 - 9月、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - MC\[50\]
+      - 真冬のオオカミくんには騙されない（2018年1月 - 3月）\[51\]
+      - 太陽とオオカミくんには騙されない（2018年7月 - 10月）\[52\]
+      - 白雪とオオカミくんには騙されない（2019年1月 - 3月）\[53\]\[54\]
+      - オオカミちゃんには騙されない（2019年7月 - 9月）\[55\]\[56\]
+      - 月とオオカミちゃんには騙されない（2020年1月 - 3月）
 
 ### ランウェイ
 
   - [GirlsAward](https://ja.wikipedia.org/wiki/GirlsAward "wikilink")
-      - GirlsAward 2012 AUTUMN/WINTER（2012年）\[56\]
-      - GirlsAward 2018 SPRING/SUMMER（2018年）\[57\]
-      - GirlsAward 2019 AUTUMN/WINTER（2019年）\[58\]
+      - GirlsAward 2012 AUTUMN/WINTER（2012年）\[57\]
+      - GirlsAward 2018 SPRING/SUMMER（2018年）\[58\]
+      - GirlsAward 2019 AUTUMN/WINTER（2019年）\[59\]
 
 <!-- end list -->
 
-  - [関西コレクション](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2013 SPRING/SUMMER（2013年）\[59\]
-  - 東京ランウェイ 2014 SPRING/SUMMER（2014年）\[60\]
+  - [関西コレクション](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2013 SPRING/SUMMER（2013年）\[60\]
+  - 東京ランウェイ 2014 SPRING/SUMMER（2014年）\[61\]
 
 ### CM
 
-  - [バンダイ](../Page/バンダイ.md "wikilink")「カラオケランキンパーティ」（2015年）\[61\]
-  - [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」（2016年 - ）\[62\]
+  - [バンダイ](../Page/バンダイ.md "wikilink")「カラオケランキンパーティ」（2015年）\[62\]
+  - [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」（2016年 - ）\[63\]
   - [健栄製薬](../Page/健栄製薬.md "wikilink")「手ピカジェル」（2016年 - 2017年）
 
 ### 広告
 
-  - [BRITA Japan](../Page/ブリタ.md "wikilink")「fill\&go Active」（2018年）\[63\]\[64\]
-  - リジョブ「リジョブ」（2018年）\[65\]\[66\]
-  - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[67\]
-  - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[68\]
-  - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年）\[69\]\[70\]
+  - [BRITA Japan](../Page/ブリタ.md "wikilink")「fill\&go Active」（2018年）\[64\]\[65\]
+  - リジョブ「リジョブ」（2018年）\[66\]\[67\]
+  - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[68\]
+  - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[69\]
+  - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年 -）\[70\]\[71\]\[72\]
 
 ### ミュージックビデオ
 
-  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[71\]\[72\]
+  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[73\]\[74\]
 
 ### その他
 
-  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[73\]
-  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[74\]
+  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[75\]
+  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[76\]
 
 ## 脚注
 
@@ -402,3 +402,5 @@ E.G. POWER 2019 〜POWER to the DOME〜
 72.
 73.
 74.
+75.
+76.

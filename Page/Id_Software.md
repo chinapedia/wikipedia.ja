@@ -28,11 +28,10 @@
 
 ## 外部リンク
 
-  - [id Software](http://www.idsoftware.com/)
-  - [Activision](http://www.activision.com/)
+  - [id Software](https://www.idsoftware.com/)
+  - [Activision](https://www.activision.com/)
   - [Raven Software](http://www.ravensoft.com/)
   - [Nerve Software](http://www.nervesoftware.com/)
-  - [Splash Damage](http://www.splashdamage.com/)
-  - [Steam - id Super Pack](http://www.steampowered.com/v/index.php?area=package&SubId=440&l=japanese&cc=JP)
+  - [Splash Damage](https://www.splashdamage.com/)
 
 [Category:アメリカ合衆国のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコンピュータゲームメーカー・ブランド "wikilink") [Category:ゼニマックス・メディア](https://ja.wikipedia.org/wiki/Category:ゼニマックス・メディア "wikilink")

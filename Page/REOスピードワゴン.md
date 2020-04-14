@@ -1,4 +1,4 @@
-> この記事は[REO](https://ja.wikipedia.org/wiki/REO)から翻訳されています。
+> この記事は[REOスピードワゴン](https://ja.wikipedia.org/wiki/REOスピードワゴン)から翻訳されています。
 
 
 **REOスピードワゴン**（アール・イー・オー -、REO Speedwagon）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。

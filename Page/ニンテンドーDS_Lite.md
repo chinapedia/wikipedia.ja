@@ -1,4 +1,4 @@
-> この記事は[DS Lite](https://ja.wikipedia.org/wiki/DS_Lite)から翻訳されています。
+> この記事は[ニンテンドーDS Lite](https://ja.wikipedia.org/wiki/ニンテンドーDS_Lite)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Ds-lite-closed.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:DSandDSLite_TouchPenCompare.jpg "wikilink")
@@ -191,11 +191,8 @@
 
 ## 外部リンク
 
-  - [ニンテンドーDS](https://www.nintendo.co.jp/ds/)
-      - [ニンテンドーDS Lite](https://www.nintendo.co.jp/ds/series/dslite/index.html)
-      - [修理の参考価格（Wii U、Wii、3DS、DS）](http://www.nintendo.co.jp/support/repair/price.html)
-      - [オンライン修理受付](http://www.nintendo.co.jp/support/repair/online1_1.html)
-  - [Good Design Award - ニンテンドーDS Lite](http://www.g-mark.org/award/describe/32004?token=yp6TWRnUBS)
+  - [ニンテンドーDS Lite](https://www.nintendo.co.jp/ds/series/dslite/)
+  - [Good Design Award - ニンテンドーDS Lite](https://www.g-mark.org/award/describe/32004?token=yp6TWRnUBS)
 
 [de:Nintendo DS\#Nintendo DS Lite](https://ja.wikipedia.org/wiki/de:Nintendo_DS#Nintendo_DS_Lite "wikilink")
 

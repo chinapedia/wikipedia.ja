@@ -1,4 +1,4 @@
-> この記事は[36IBAF](https://ja.wikipedia.org/wiki/36IBAF)から翻訳されています。
+> この記事は[第36回IBAFワールドカップ日本代表](https://ja.wikipedia.org/wiki/第36回IBAFワールドカップ日本代表)から翻訳されています。
 
 
 **第36回IBAFワールドカップ日本代表**（だい36かい-ワールドカップにっぽんだいひょう）は、9月に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")各地において行われた[第36回IBAFワールドカップ](https://ja.wikipedia.org/wiki/第36回IBAFワールドカップ "wikilink")に出場するために編成された[野球](../Page/野球.md "wikilink")の日本代表チームである。

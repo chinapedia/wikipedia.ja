@@ -1,4 +1,4 @@
-> この記事は[Blue \(\)](https://ja.wikipedia.org/wiki/Blue_\(\))から翻訳されています。
+> この記事は[Blue \(魚喃キリコの漫画\)](https://ja.wikipedia.org/wiki/Blue_\(魚喃キリコの漫画\))から翻訳されています。
 
 
 『**blue**』（ブルー）は、[1996年](../Page/1996年.md "wikilink")の[魚喃キリコ](../Page/魚喃キリコ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および漫画を原作として[2003年に公開された映画である](../Page/2003年の映画.md "wikilink")。

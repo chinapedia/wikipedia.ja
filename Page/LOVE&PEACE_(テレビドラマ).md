@@ -1,4 +1,4 @@
-> この記事は[LOVE\&PEACE \(\)](https://ja.wikipedia.org/wiki/LOVE\&PEACE_\(\))から翻訳されています。
+> この記事は[LOVE\&PEACE \(テレビドラマ\)](https://ja.wikipedia.org/wiki/LOVE\&PEACE_\(テレビドラマ\))から翻訳されています。
 
 
 『**LOVE\&PEACE**』（ラブアンドピース）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")～[7月4日](../Page/7月4日.md "wikilink")に[日本テレビ系で毎週土曜夜](../Page/日本テレビ放送網.md "wikilink")9時（[土曜ドラマ枠](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")）に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")。現在、VHS化もDVD化もされていない。主演は[TOKIO](../Page/TOKIO.md "wikilink")の[松岡昌宏](../Page/松岡昌宏.md "wikilink")。

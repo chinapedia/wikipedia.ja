@@ -1,4 +1,4 @@
-> この記事は[XD ](https://ja.wikipedia.org/wiki/XD_)から翻訳されています。
+> この記事は[ポケモンXD 闇の旋風ダーク・ルギア](https://ja.wikipedia.org/wiki/ポケモンXD_闇の旋風ダーク・ルギア)から翻訳されています。
 
 
 『**ポケモンXD 闇の旋風ダーク・ルギア**』（ポケモンエックスディー やみのかぜダーク・ルギア）は、[2005年](../Page/2005年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[株式会社ポケモンより発売された](../Page/ポケモン_\(企業\).md "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。

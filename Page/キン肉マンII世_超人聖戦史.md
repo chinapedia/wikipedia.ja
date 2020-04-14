@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[キン肉マンII世 超人聖戦史](https://ja.wikipedia.org/wiki/キン肉マンII世_超人聖戦史)から翻訳されています。
 
 
 『**キン肉マンII世 超人聖戦史**』は、[2003年](../Page/2003年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフトである](../Page/ゲームソフト.md "wikilink")。『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』のワンダースワン作品第2弾。

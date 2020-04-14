@@ -1,4 +1,4 @@
-> この記事は[GRP](https://ja.wikipedia.org/wiki/GRP)から翻訳されています。
+> この記事は[GRPレコード](https://ja.wikipedia.org/wiki/GRPレコード)から翻訳されています。
 
 
 **GRPレコード**（**GRP Records**）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")/[アダルト・コンテンポラリー](https://ja.wikipedia.org/wiki/アダルト・コンテンポラリー "wikilink")を中心にしたレコード会社。[スムーズ・ジャズ](https://ja.wikipedia.org/wiki/スムーズ・ジャズ "wikilink")の最大級のレコード会社でもある。

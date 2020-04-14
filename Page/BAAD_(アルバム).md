@@ -1,4 +1,4 @@
-> この記事は[BAAD \(\)](https://ja.wikipedia.org/wiki/BAAD_\(\))から翻訳されています。
+> この記事は[BAAD \(アルバム\)](https://ja.wikipedia.org/wiki/BAAD_\(アルバム\))から翻訳されています。
 
 
 『**BAAD**』（バード）はロックバンド[BAAD](../Page/BAAD.md "wikilink")のアルバム。

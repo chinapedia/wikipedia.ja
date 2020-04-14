@@ -1,4 +1,4 @@
-> この記事は[ROOMMANIA203](https://ja.wikipedia.org/wiki/ROOMMANIA203)から翻訳されています。
+> この記事は[ROOMMANIA＃203](https://ja.wikipedia.org/wiki/ROOMMANIA＃203)から翻訳されています。
 
 
 『**ROOMMANIA\#203**』（ルーマニア にいまるさん）は、[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[ゲーム](../Page/コンピュータゲーム.md "wikilink")。[PlayStation 2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2002年](../Page/2002年.md "wikilink")にリメイク版『ROOMMANIA\#203』を、[2003年](../Page/2003年.md "wikilink")に続編『[ニュールーマニア ポロリ青春](../Page/ニュールーマニア_ポロリ青春.md "wikilink")』を発売する。

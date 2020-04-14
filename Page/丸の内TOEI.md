@@ -1,4 +1,4 @@
-> この記事は[TOEI](https://ja.wikipedia.org/wiki/TOEI)から翻訳されています。
+> この記事は[丸の内TOEI](https://ja.wikipedia.org/wiki/丸の内TOEI)から翻訳されています。
 
 
 **丸の内TOEI**（まるのうちとうえい）は、[東京都](../Page/東京都.md "wikilink")[中央区で](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[東映](../Page/東映.md "wikilink")が所有する[映画館](../Page/映画館.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CD不況](https://ja.wikipedia.org/wiki/CD不況)から翻訳されています。
 
 
 **CD不況**（シーディーふきょう）は、[1990年代](../Page/1990年代.md "wikilink")後半から[CDの売上金額が減少している現象をいう](../Page/CD-DA.md "wikilink")。CDの生産額は、国によって多少の差はあるものの、世界的に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")をピークとして減少傾向にある。本項では、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においての状況を記述する。
@@ -102,7 +102,7 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
 
   - [テレビ離れ](../Page/テレビ離れ.md "wikilink")
   - [ラジオ離れ](https://ja.wikipedia.org/wiki/ラジオ離れ "wikilink")
-  - [ゲーム離れ](../Page/ゲーム離れ.md "wikilink")
+  - [コード進行](https://ja.wikipedia.org/wiki/コード進行 "wikilink")
   - [音楽番組](../Page/音楽番組.md "wikilink")
   - [若者の車離れ](https://ja.wikipedia.org/wiki/若者の車離れ "wikilink")
   - [ワンパターン](https://ja.wikipedia.org/wiki/ワンパターン "wikilink")

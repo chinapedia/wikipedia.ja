@@ -1,4 +1,4 @@
-> この記事は[RAM](https://ja.wikipedia.org/wiki/RAM)から翻訳されています。
+> この記事は[RAMディスク](https://ja.wikipedia.org/wiki/RAMディスク)から翻訳されています。
 
 
 **RAMディスク**（ラムディスク）は、[Random Access Memory](../Page/Random_Access_Memory.md "wikilink")（ランダムアクセスメモリ、RAM）による[ストレージ](https://ja.wikipedia.org/wiki/ストレージ "wikilink")である。

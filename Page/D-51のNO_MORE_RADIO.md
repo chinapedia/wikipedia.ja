@@ -1,7 +1,7 @@
-> この記事は[D-51NO MORE RADIO](https://ja.wikipedia.org/wiki/D-51NO_MORE_RADIO)から翻訳されています。
+> この記事は[D-51のNO MORE RADIO](https://ja.wikipedia.org/wiki/D-51のNO_MORE_RADIO)から翻訳されています。
 
 
-**D-51のNO MORE RADIO**（**ディーゴーイチのノー・モア・レディオ**）は、[D-51](../Page/D-51.md "wikilink")のYU（上里優）とYASU（吉田安英）のレギュラー番組である。全国の[JFN系列](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")21局で放送されていた。
+**D-51のNO MORE RADIO**（**ディーゴーイチのノー・モア・レディオ**）は、[D-51](../Page/D-51.md "wikilink")のYU（上里優）とYASU（吉田安英）のレギュラー番組である。全国の[JFN系列](../Page/全国FM放送協議会.md "wikilink")21局で放送されていた。
 
 放送期間は[2005年](../Page/2005年.md "wikilink")10月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月。2005年2月に発売し、大ヒット、ブレイクのきっかけとなった曲「NO MORE CRY」が番組名の由来である。番組内では**三横一村**（みつよこいちむら）と副題が入るが、タイムテーブルなどでは表記されない。
 

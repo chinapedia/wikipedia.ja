@@ -1,4 +1,4 @@
-> この記事は[MOTHER \(KIX-S\)](https://ja.wikipedia.org/wiki/MOTHER_\(KIX-S\))から翻訳されています。
+> この記事は[MOTHER \(KIX-Sのアルバム\)](https://ja.wikipedia.org/wiki/MOTHER_\(KIX-Sのアルバム\))から翻訳されています。
 
 
 『**MOTHER**』（マザー）は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](../Page/二人組.md "wikilink")[KIX-S](../Page/KIX-S.md "wikilink")の5枚目のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[IWGP](https://ja.wikipedia.org/wiki/IWGP)から翻訳されています。
+> この記事は[IWGPジュニアヘビー級王座](https://ja.wikipedia.org/wiki/IWGPジュニアヘビー級王座)から翻訳されています。
 
 
 **IWGPジュニアヘビー級王座**（アイダブリュージーピージュニアヘビーきゅうおうざ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")が管理する王座。新日本プロレス認定の「プロレスリング競技者規約 ・ IWGP各選手権ルール」第二条第二項によって体重100kg未満の選手を対象としている。元来は欧米で使用されているポンドから来ており**220パウンド**（lbs）がウェイトのリミットとされており、近似値99.8kgが根源である。

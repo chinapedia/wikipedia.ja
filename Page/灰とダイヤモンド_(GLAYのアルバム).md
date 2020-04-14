@@ -1,4 +1,4 @@
-> この記事は[ \(GLAY\)](https://ja.wikipedia.org/wiki/_\(GLAY\))から翻訳されています。
+> この記事は[灰とダイヤモンド \(GLAYのアルバム\)](https://ja.wikipedia.org/wiki/灰とダイヤモンド_\(GLAYのアルバム\))から翻訳されています。
 
 
 『**灰とダイヤモンド**』（はいとダイヤモンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[GLAY](../Page/GLAY.md "wikilink")の、インディーズ1枚目のアルバムである。

@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[アニメDEおめざめ](https://ja.wikipedia.org/wiki/アニメDEおめざめ)から翻訳されています。
 
 
 **アニメDEおめざめ**（アニメでおめざめ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた、[関東ローカル](../Page/関東ローカル.md "wikilink")の[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[再放送](../Page/再放送.md "wikilink")枠、時間帯変更を繰り返し最終的には[土曜日](../Page/土曜日.md "wikilink")の4:55 - 5:23で終了となった。

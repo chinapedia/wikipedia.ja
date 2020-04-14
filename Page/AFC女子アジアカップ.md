@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFC女子アジアカップ](https://ja.wikipedia.org/wiki/AFC女子アジアカップ)から翻訳されています。
 
 
 **AFC女子アジアカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[アジア](../Page/アジア.md "wikilink")各国の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。男子の[AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")に相当する大会ではあるが、開催年によっては[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")の予選を兼ねるところが異なる。

@@ -1,4 +1,4 @@
-> この記事は[2ZZ-GE](https://ja.wikipedia.org/wiki/2ZZ-GE)から翻訳されています。
+> この記事は[トヨタ・2ZZ-GE](https://ja.wikipedia.org/wiki/トヨタ・2ZZ-GE)から翻訳されています。
 
 
 **2ZZ-GE**とは、かつて[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造し、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、および[英](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ロータスに供給していたガソリン](../Page/ロータス・カーズ.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")である。

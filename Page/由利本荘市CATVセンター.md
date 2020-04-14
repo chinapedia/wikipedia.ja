@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[由利本荘市CATVセンター](https://ja.wikipedia.org/wiki/由利本荘市CATVセンター)から翻訳されています。
 
 
 **由利本荘市CATVセンター**（ゆりほんじょうしCATVセンター、**ONT**、旧[大内町情報センター](../Page/大内町_\(秋田県\).md "wikilink")）は、[秋田県](../Page/秋田県.md "wikilink")[由利本荘市](../Page/由利本荘市.md "wikilink")直営の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。

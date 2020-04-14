@@ -1,4 +1,4 @@
-> この記事は[PANTHER \(\)](https://ja.wikipedia.org/wiki/PANTHER_\(\))から翻訳されています。
+> この記事は[PANTHER \(ギタリスト\)](https://ja.wikipedia.org/wiki/PANTHER_\(ギタリスト\))から翻訳されています。
 
 
 **PANTHER**（パンサー、本名：**八尋 義和**（やひろ よしかず） [1970年](../Page/1970年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")出身。身長182cm、体重62kg。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。 [ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[CYCLE](https://ja.wikipedia.org/wiki/CYCLE_\(バンド\) "wikilink")、元[SEX MACHINEGUNSの](../Page/SEX_MACHINEGUNS.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")（当時の名前はCIRCUIT.V.PANTHER）。

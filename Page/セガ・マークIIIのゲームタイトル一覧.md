@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[セガ・マークIIIのゲームタイトル一覧](https://ja.wikipedia.org/wiki/セガ・マークIIIのゲームタイトル一覧)から翻訳されています。
 
 
 **セガ・マークIIIのゲームタイトル一覧**（セガ・マークスリーのゲームタイトルいちらん）では、[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")/[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")対応の[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する。（全85タイトル）

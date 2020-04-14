@@ -1,4 +1,4 @@
-> この記事は[DD](https://ja.wikipedia.org/wiki/DD)から翻訳されています。
+> この記事は[D×D](https://ja.wikipedia.org/wiki/D×D)から翻訳されています。
 
 
 『**D×D**』（ディーディー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[9月20日](../Page/9月20日.md "wikilink")に[日本テレビ系で毎週土曜夜](../Page/日本テレビ放送網.md "wikilink")9時（[土曜グランド劇場](https://ja.wikipedia.org/wiki/土曜グランド劇場 "wikilink")枠）に放送された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全11話。[長瀬智也](../Page/長瀬智也.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）と[岡田准一](../Page/岡田准一.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）の初共演作として話題になった。なお、タイトルの『D×D』とは『Dangerous Angel Death Hunter』の略である（[最終回](../Page/最終回.md "wikilink")終盤で明らかにされた）。

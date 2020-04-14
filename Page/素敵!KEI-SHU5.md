@@ -1,4 +1,4 @@
-> この記事は[!KEI-SHU5](https://ja.wikipedia.org/wiki/!KEI-SHU5)から翻訳されています。
+> この記事は[素敵!KEI-SHU5](https://ja.wikipedia.org/wiki/素敵!KEI-SHU5)から翻訳されています。
 
 
 『**素敵\!KEI-SHU5**』（すてき けいしゅうファイブ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")まで[関西テレビで毎週月曜](../Page/関西テレビ放送.md "wikilink") - 金曜 17:00 - 18:00に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

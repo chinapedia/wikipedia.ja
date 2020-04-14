@@ -1,4 +1,4 @@
-> この記事は[4BANKS](https://ja.wikipedia.org/wiki/4BANKS)から翻訳されています。
+> この記事は[4BANKSネットサービス](https://ja.wikipedia.org/wiki/4BANKSネットサービス)から翻訳されています。
 
 
 **4BANKSネットサービス**（フォーバンクスネットサービス）は、中国地方[第二地銀](../Page/第二地方銀行.md "wikilink")4行の間の[ATM･CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。

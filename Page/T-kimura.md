@@ -44,7 +44,7 @@
 ## 来歴
 
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - SUBSONIC FACTORを結成。[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー（現在は解散）
-  - [1992年](../Page/1992年.md "wikilink")（平成4年） - [Groovy Boyfriendsを結成](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")。1994年に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー（現在は解散）
+  - [1993年](../Page/1993年.md "wikilink")（平成5年） - [Groovy Boyfriendsを結成](https://ja.wikipedia.org/wiki/Groovy_Boyfriends "wikilink")。1994年に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりデビュー（現在は解散）
   - [1994年](../Page/1994年.md "wikilink")（平成6年） - [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")（当時はU.S-TOM名義）、GEE RAVEMANと共に[RAVEMAN](../Page/RAVEMAN.md "wikilink")を結成。[エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")と専属プロデューサー契約を締結（KIM RAVEMAN名義で活動・現在は解散）
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - [松崎麻矢](../Page/松崎麻矢.md "wikilink")と[Favorite Blueを結成](../Page/Favorite_Blue.md "wikilink")
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） - motsu、[yuri](https://ja.wikipedia.org/wiki/yuri "wikilink")とmoveを結成、同グループのリーダーに就任（後に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")へ名称変更）

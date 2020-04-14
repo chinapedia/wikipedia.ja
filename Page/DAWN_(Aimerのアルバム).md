@@ -1,4 +1,4 @@
-> この記事は[DAWN \(Aimer\)](https://ja.wikipedia.org/wiki/DAWN_\(Aimer\))から翻訳されています。
+> この記事は[DAWN \(Aimerのアルバム\)](https://ja.wikipedia.org/wiki/DAWN_\(Aimerのアルバム\))から翻訳されています。
 
 
 『**DAWN**』（ドーン）は、[Aimer](https://ja.wikipedia.org/wiki/Aimer "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2015年](../Page/2015年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[DefSTAR RECORDSから発売された](https://ja.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink")。

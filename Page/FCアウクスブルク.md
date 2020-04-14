@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアウクスブルク](https://ja.wikipedia.org/wiki/FCアウクスブルク)から翻訳されています。
 
 
 **FCアウクスブルク**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")の[アウクスブルク](../Page/アウクスブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
@@ -45,7 +45,8 @@
 | [2015-16](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2015-2016 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
 | [2016-17](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2016-2017 "wikilink") | ブンデスリーガ1部                                                                    | '''13位                                   |
 | [2017-18](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2017-2018 "wikilink") | ブンデスリーガ1部                                                                    | '''12位                                   |
-| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | '''15位 '''                               |
+| [2018-19](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2018-2019 "wikilink") | ブンデスリーガ1部                                                                    | '''15位                                   |
+| [2019-20](https://ja.wikipedia.org/wiki/ドイツ・ブンデスリーガ2019-2020 "wikilink") | ブンデスリーガ1部                                                                    | '''位 '''                                 |
 
 ## 欧州の成績
 
@@ -64,8 +65,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">2015-16</a></p></td>
-<td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>2015-16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループL</p></td>
 <td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>2–3</p></td>
@@ -124,7 +125,7 @@
 
 <!-- end list -->
 
-  - [マルティン・シュミット](https://ja.wikipedia.org/wiki/マルティン・シュミット_\(サッカー指導者\) "wikilink")
+  - [ハイコ・ヘルリッヒ](https://ja.wikipedia.org/wiki/ハイコ・ヘルリッヒ "wikilink")
 
 ### ローン移籍選手
 
@@ -152,7 +153,9 @@
 
   - [マヌエル・バウム](https://ja.wikipedia.org/wiki/マヌエル・バウム "wikilink") 2016.12-2019.4
 
-  - [マルティン・シュミット](https://ja.wikipedia.org/wiki/マルティン・シュミット_\(サッカー指導者\) "wikilink") 2019.4-
+  - [マルティン・シュミット](https://ja.wikipedia.org/wiki/マルティン・シュミット_\(サッカー指導者\) "wikilink") 2019.4-2020.3
+
+  - [ハイコ・ヘルリッヒ](https://ja.wikipedia.org/wiki/ハイコ・ヘルリッヒ "wikilink") 2020.3-
 
 ## 歴代所属選手
 

@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[蹴竹G](https://ja.wikipedia.org/wiki/蹴竹G)から翻訳されています。
 
 
 **蹴竹G**（シュウチクジー）は、[松竹芸能](../Page/松竹芸能.md "wikilink")所属のタレントから成る[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チームである。チームユニフォームは白。

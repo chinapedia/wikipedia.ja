@@ -1,4 +1,4 @@
-> この記事は[Hit! ](https://ja.wikipedia.org/wiki/Hit!_)から翻訳されています。
+> この記事は[爆球Hit! クラッシュビーダマン](https://ja.wikipedia.org/wiki/爆球Hit!_クラッシュビーダマン)から翻訳されています。
 
 
 『**爆球Hit\! クラッシュビーダマン**』（ばくきゅうヒット クラッシュビーダマン）は、[倉谷友也](https://ja.wikipedia.org/wiki/倉谷友也 "wikilink")による[小学館](../Page/小学館.md "wikilink")『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』連載の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および、[2006年](../Page/2006年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")まで[テレビ東京系列にて放送の](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")などからなる[メディアミックス](../Page/メディアミックス.md "wikilink")作品。[タカラトミー](../Page/タカラトミー.md "wikilink")から発売されたホビー「[ビーダマン](../Page/ビーダマン.md "wikilink")」を題材としている。

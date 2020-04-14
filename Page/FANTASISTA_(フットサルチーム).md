@@ -1,4 +1,4 @@
-> この記事は[FANTASISTA \(\)](https://ja.wikipedia.org/wiki/FANTASISTA_\(\))から翻訳されています。
+> この記事は[FANTASISTA \(フットサルチーム\)](https://ja.wikipedia.org/wiki/FANTASISTA_\(フットサルチーム\))から翻訳されています。
 
 
 **FANTASISTA**（ファンタジスタ）は、[芸能事務所](../Page/芸能事務所.md "wikilink")の[Y・M・Oに所属する](../Page/尾木プロ_THE_NEXT.md "wikilink")[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チーム。姉妹チームとしてFANTASISTERSが存在する。FANTASISTERSもここで扱う。

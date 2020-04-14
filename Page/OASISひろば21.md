@@ -1,4 +1,4 @@
-> この記事は[OASIS21](https://ja.wikipedia.org/wiki/OASIS21)から翻訳されています。
+> この記事は[OASISひろば21](https://ja.wikipedia.org/wiki/OASISひろば21)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Oita_Oasis_Hiroba_21_2.jpg "wikilink") **OASISひろば21**（オアシスひろばにじゅういち）は、[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")高砂町にある多目的複合施設である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に完成した。

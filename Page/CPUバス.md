@@ -1,4 +1,4 @@
-> この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
+> この記事は[CPUバス](https://ja.wikipedia.org/wiki/CPUバス)から翻訳されています。
 
 
 **CPUバス** (CPU Bus) とは、[CPU](../Page/CPU.md "wikilink")直結の[バスである](../Page/バス_\(コンピュータ\).md "wikilink")。

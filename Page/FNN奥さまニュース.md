@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN奥さまニュース](https://ja.wikipedia.org/wiki/FNN奥さまニュース)から翻訳されています。
 
 
 『**サンケイ奥さまニュースFNN**』（サンケイおくさまニュースエフエヌエヌ）は、[FNN加盟局と一部の非加盟局で放送されていた](../Page/フジニュースネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")である。協力：サンケイ（[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")）。フジテレビでは[1966年](../Page/1966年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送。

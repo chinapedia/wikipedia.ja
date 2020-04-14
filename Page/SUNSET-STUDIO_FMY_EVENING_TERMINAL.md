@@ -8,7 +8,7 @@
   - 17:00 - 19:30 1989年4月 - 1999年3月 ※1998年3月をもって金曜の放送打ち切り（一部コーナーは「フライデー・スーパー・フリーク」へ移行）。
   - 17:00 - 18:55 1999年4月 - 2001年12月（[S@DE Communication さでこみスタートのため終了時間が早まった](../Page/S@DE_Communication.md "wikilink")） ※ここまでの期間中、年末年始は放送をお休みし、「[EVENING JAPAN](https://ja.wikipedia.org/wiki/EVENING_JAPAN "wikilink")」などといったJFNC番組を放送していた。
   - 17:10 - 18:55 2002年1月 - 2002年3月（2001年10月スタートの[ENEOS ON THE WAY COMEDY 道草の枠移動に伴う](../Page/ON_THE_WAY_COMEDY_道草.md "wikilink")。スタート当初は[JUNGLE Hotlineを途中で飛び降りて](https://ja.wikipedia.org/wiki/JUNGLE_Hotline "wikilink")16:45から放送していたが、のちに17:00の時報明けに移動した） ※ここ以降はJFNCの生放送番組が無くなったため、休まず放送した。
-  - 16:00 - 18:55 2002年4月 - 2003年3月（JUNGLE Hotlineなどの[JFNCネット枠を打ち切って繰り上げ](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - 16:00 - 18:55 2002年4月 - 2003年3月（JUNGLE Hotlineなどの[JFNCネット枠を打ち切って繰り上げ](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
 
 ## DJを務めたことのあるパーソナリティ
 

@@ -1,4 +1,4 @@
-> この記事は[NX](https://ja.wikipedia.org/wiki/NX)から翻訳されています。
+> この記事は[日産・NXクーペ](https://ja.wikipedia.org/wiki/日産・NXクーペ)から翻訳されています。
 
 
 **NXクーペ**（エヌエックスクーペ）は、[日産自動車](../Page/日産自動車.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1994年](../Page/1994年.md "wikilink")まで製造販売していた[自動車](../Page/自動車.md "wikilink")である。

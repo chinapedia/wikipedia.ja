@@ -1,4 +1,4 @@
-> この記事は[Brotherhood \(B\'z\)](https://ja.wikipedia.org/wiki/Brotherhood_\(B\'z\))から翻訳されています。
+> この記事は[Brotherhood \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/Brotherhood_\(B\'zのアルバム\))から翻訳されています。
 
 
 『**Brotherhood**』(ブラザーフッド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。
@@ -7,21 +7,21 @@
 
 10周年記念となった2枚のベスト・アルバム、ソロ活動を経て発表されたオリジナル・アルバム。
 
-8thアルバム『[LOOSE](../Page/LOOSE.md "wikilink")』及び、9thアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』同様通常盤のみで、[スリーブ仕様となっている](https://ja.wikipedia.org/wiki/箱#形状・機能別名称 "wikilink")。ジャケット画は主にCG合成で作られているが、稲葉は実際に高い場所に登って撮影されている\[1\]。
+8thアルバム『[LOOSE](../Page/LOOSE.md "wikilink")』及び、9thアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』同様通常盤のみで、[スリーブ仕様となっている](https://ja.wikipedia.org/wiki/箱#形状・機能別名称 "wikilink")。[ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のミリオンダラー・ホテルで撮影されたもので\[1\]、主にCG合成で作られているが、稲葉は実際に高い場所に登って撮影されている\[2\]。
 
 かつてサポートドラマーであったデニー・フォンハイザーがレコーディング・コーディネーターとして、[Mr.Bigの](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")([ベーシスト](../Page/ベーシスト.md "wikilink"))と、[パット・トーピー](../Page/パット・トーピー.md "wikilink")([ドラマー](../Page/ドラマー.md "wikilink"))が製作に参加している。
 
-本作のテーマは「ロック」であり、[ハードロック](../Page/ハードロック.md "wikilink")色が濃い。楽曲は[満園庄太郎](../Page/満園庄太郎.md "wikilink")や[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")といったサポートメンバーとのセッションにより制作され、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音は一切使用せず、前作まで存在した[フェード](../Page/フェード.md "wikilink")アウトの曲も皆無である\[2\]。
+本作のテーマは「ロック」であり、[ハードロック](../Page/ハードロック.md "wikilink")色が濃い。楽曲は[満園庄太郎](../Page/満園庄太郎.md "wikilink")や[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")といったサポートメンバーとのセッションにより制作され、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音は一切使用せず、前作まで存在した[フェード](../Page/フェード.md "wikilink")アウトの曲も皆無である\[3\]。
 
 アルバム構成は当初「ながい愛」から始まって「Brotherhood」で終わる予定だったが、「コンセプトをあまりゴリ押しする必要もないのでは?」との意見から現在の曲順になっている。
 
 尚、前年にリリースされた「[さまよえる蒼い弾丸](../Page/さまよえる蒼い弾丸.md "wikilink")」と「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」は今作には未収録となった。
 
-かなりの力作となっているが、松本は「去年のベスト・アルバム(『[Pleasure](../Page/B'z_The_Best_"Pleasure".md "wikilink")』、『[Treasure](../Page/B'z_The_Best_"Treasure".md "wikilink")』)が大ヒットしたけど、過去のものがこれだけ売れてしまい、この後どうなってしまうのかと危機感を感じた。だから『Brotherhood』はハードな方向に行ったのだと思う。」と語り、\[3\]その一方で「(ベスト・アルバムの大ヒットで)沢山の人達が僕らの音楽を好きでいてくれて、多くのスタッフがB'zのために動いてくれて、改めてみんなへの感謝の気持ちが芽生え、それを稲葉と話しているとき「Brotherhood」というキーワードが生まれた。」と語っている。
+かなりの力作となっているが、松本は「去年のベスト・アルバム(『[Pleasure](../Page/B'z_The_Best_"Pleasure".md "wikilink")』、『[Treasure](../Page/B'z_The_Best_"Treasure".md "wikilink")』)が大ヒットしたけど、過去のものがこれだけ売れてしまい、この後どうなってしまうのかと危機感を感じた。だから『Brotherhood』はハードな方向に行ったのだと思う。」と語り、\[4\]その一方で「(ベスト・アルバムの大ヒットで)沢山の人達が僕らの音楽を好きでいてくれて、多くのスタッフがB'zのために動いてくれて、改めてみんなへの感謝の気持ちが芽生え、それを稲葉と話しているとき「Brotherhood」というキーワードが生まれた。」と語っている。
 
 映像作品『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』には今作のレコーディング風景が収録されており、その中で松本は「レコーディング（アルバム製作）が始まってからとツアー(B'z LIVE-GYM '99 "Brotherhood")が終わるまでが一つの作品、すべてを総括して『Brorherhood』という作品だった。」と述べている。今アルバムとリンクしたツアー『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』では、大掛かりな演出を極力排除・バンド演奏に重点を置く等、本作のコンセプトを貫いた内容となった。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[4\]。
+[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[5\]。
 
 ## チャート成績
 
@@ -35,30 +35,30 @@
       -
         曲名は「フィアー」と読む。1999年、2000年のフジテレビF1中継BGMテーマ。
         稲葉お気に入りの一曲で、激しい[ギターリフ](https://ja.wikipedia.org/wiki/ギターリフ "wikilink")から始まる。
-        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の投票では26位にランクインし\[5\]、リミックスバージョンが収録された。
+        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の投票では26位にランクインし\[6\]、リミックスバージョンが収録された。
 2.  **[ギリギリchop (Version 51)](../Page/ギリギリchop.md "wikilink")** (3:59)
       -
         26thシングルのバージョン違い。
         「**Version 51**」は「テイク51」という事から付けられたが、51個のテイクが存在するわけではなく何度か録った中の5バージョン目の1テイクを採用したため「Version 51」となった。
         このバージョンでは[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")をMR.BIGのビリー・シーンとパット・トーピーが務めている。ボーカル・ギターもリテイクされ、口笛がカットされたり終盤では稲葉の笑い声と高音倍音シャウトが聴こえるなど、フェイクに関しても原曲バージョンとの違いが見られる。
-        このバージョンは『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露され、その際の[サポートメンバーもビリー](https://ja.wikipedia.org/wiki/バックバンド "wikilink")・シーンとパット・トーピーが務めた\[6\]。
+        このバージョンは『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露され、その際の[サポートメンバーもビリー](https://ja.wikipedia.org/wiki/バックバンド "wikilink")・シーンとパット・トーピーが務めた\[7\]。
 3.  **Brotherhood** (5:46)
       -
         本アルバムのタイトル曲で、B'zに関わる人々(Brother)との関係を歌っている。稲葉は「離れていても繋がっている仲間みたいなものをテーマに作りました」と語っている。
-        [大阪](../Page/大阪.md "wikilink")でのセッション中に生まれた曲で\[7\]、当初はラストナンバーになる予定だった。
-        ベスト・アルバム『B'z The Best "ULTRA Treasure"』では中間投票、最終結果ともに1位となり収録された\[8\]。
+        [大阪](../Page/大阪.md "wikilink")でのセッション中に生まれた曲で\[8\]、当初はラストナンバーになる予定だった。
+        ベスト・アルバム『B'z The Best "ULTRA Treasure"』では中間投票、最終結果ともに1位となり収録された\[9\]。
         ライブでは曲の最後の稲葉のロングシャウトが恒例となっている。
-        リリース時に出演した『ミュージックステーション』\[9\]や翌月8月の『[カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")』でも披露された。また、発表から約12年後となる[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送の『ミュージックステーション3時間SP』では、新曲「[さよなら傷だらけの日々よ](https://ja.wikipedia.org/wiki/さよなら傷だらけの日々よ "wikilink")」とともにこの曲を演奏した\[10\]\[11\]。
-        2011年に行われたB'zの北米ライブツアー「B'z LIVE-GYM 2011 -long time no see-」にて、本楽曲の英語バージョンが演奏された。同ツアーで演奏されたシングル楽曲の英語バージョンは後に配信リリースが行われたが、本曲の英語バージョンのみ音源化は現在も未定である\[12\]。ちなみに、同ライブで演奏された唯一の非シングル曲である\[13\]。
+        リリース時に出演した『ミュージックステーション』\[10\]や翌月8月の『[カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")』でも披露された。また、発表から約12年後となる[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送の『ミュージックステーション3時間SP』では、新曲「[さよなら傷だらけの日々よ](https://ja.wikipedia.org/wiki/さよなら傷だらけの日々よ "wikilink")」とともにこの曲を演奏した\[11\]\[12\]。
+        2011年に行われたB'zの北米ライブツアー「B'z LIVE-GYM 2011 -long time no see-」にて、本楽曲の英語バージョンが演奏された。同ツアーで演奏されたシングル楽曲の英語バージョンは後に配信リリースが行われたが、本曲の英語バージョンのみ音源化は現在も未定である\[13\]。ちなみに、同ライブで演奏された唯一の非シングル曲である\[14\]。
 4.  **ながい愛** (5:37)
       -
-        当初はオープニングナンバーの候補\[14\]で、松本は「ギリギリchop」よりもこの曲をシングル曲にしたかったという。
+        当初はオープニングナンバーの候補\[15\]で、松本は「ギリギリchop」よりもこの曲をシングル曲にしたかったという。
         [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")のイントロで始まるロックナンバー。
         飽きっぽい性格の女性への愛を歌っている。
-        ベスト・アルバム『B'z The Best "ULTRA Treasure"』の投票では21位となり収録された\[15\]。
+        ベスト・アルバム『B'z The Best "ULTRA Treasure"』の投票では21位となり収録された\[16\]。
 5.  **夢のような日々** (4:53)
       -
-        オープニングの音はブースにいた松本と[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")、[満園庄太郎](../Page/満園庄太郎.md "wikilink")の会話をコンソール室にいた稲葉が面白がってこっそり録音した時のもの\[16\]。
+        オープニングの音はブースにいた松本と[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")、[満園庄太郎](../Page/満園庄太郎.md "wikilink")の会話をコンソール室にいた稲葉が面白がってこっそり録音した時のもの\[17\]。
         1番後と2番後の間奏部分では松本が[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")部分を[ソロで歌っている](https://ja.wikipedia.org/wiki/独唱 "wikilink")。これまで松本はコーラスを務めることはあったが、B'zの作品でソロで歌うのは初めてである。
         [PVも存在しており](../Page/ミュージック・ビデオ.md "wikilink")、木に腰掛けながら演奏する2人の映像で構成されている。
         同年のアルバムツアーではエンディングSEとして使用された。ライブでは未演奏である。
@@ -68,11 +68,11 @@
         [ブラスを使った曲で](../Page/金管楽器.md "wikilink")、稲葉が[ブルースハープを演奏している](../Page/ハーモニカ.md "wikilink")。
         会報の中で松本が「B'zの曲でギターが難しい曲」としてこの曲をあげ、後にライブで演奏するのに苦労したと語っている。
         PVも存在しており、ジャケット写真の撮影時の映像で構成されている。
-        アルバムツアー以降も定期的にライブで演奏されている\[17\]。
+        アルバムツアー以降も定期的にライブで演奏されている\[18\]。
 7.  **その手で触れてごらん** (3:23)
       -
-        本作の製作過程で最も初期に作られた\[18\]。
-        歌詞に登場する「リンダ」は[山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")のことであり、「イケない イケない 簡単に信じちゃいけない」というフレーズは山本の「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」に登場するフレーズを指している\[19\]。
+        本作の製作過程で最も初期に作られた\[19\]。
+        歌詞に登場する「リンダ」は[山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")のことであり、「イケない イケない 簡単に信じちゃいけない」というフレーズは山本の「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」に登場するフレーズを指している\[20\]。
 8.  **流れゆく日々** (4:54)
       -
         歌詞は2番で終了し、アウトロでは松本が2分程の長い[ギター](../Page/ギター.md "wikilink")[ソロを演奏している](../Page/ソロ_\(音楽\).md "wikilink")。
@@ -84,13 +84,13 @@
         アルバムツアー以降は長らく演奏される機会がなかったが、2013年に行われた『B'z Special LIVE at EX THEATER ROPPONGI』で約14年ぶりに演奏された。
 10. **イカせておくれ\!** (3:23)
       -
-        歌詞は「SHINE」とともに[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")行きの飛行機の中で書かれた\[20\]。
+        歌詞は「SHINE」とともに[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")行きの飛行機の中で書かれた\[21\]。
         アルバムツアーではホール公演のみ演奏された。
 11. **SHINE** (3:49)
       -
         仮タイトルは「KIZUNA」で、歌詞にも「絆」というフレーズも入っている。アルバム制作風景を収めた映像作品『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』で、アルバムの曲順を決める際に「KIZUNA」とメモされていた。
-        [ガットギターの演奏から始まる楽曲で](../Page/クラシック・ギター.md "wikilink")、この部分はロサンゼルスのスタジオで提案されたアイデア\[21\]。
-        間奏では松本とビリーがギターとベースによるスピーディなソロの掛け合いを披露している。この部分に入っているハンドクラップは稲葉とスタジオのスタッフによるもので、仮テイクとして録られたものがそのまま使われている\[22\]。
+        [ガットギターの演奏から始まる楽曲で](../Page/クラシック・ギター.md "wikilink")、この部分はロサンゼルスのスタジオで提案されたアイデア\[22\]。
+        間奏では松本とビリーがギターとベースによるスピーディなソロの掛け合いを披露している。この部分に入っているハンドクラップは稲葉とスタジオのスタッフによるもので、仮テイクとして録られたものがそのまま使われている\[23\]。
 
 ## タイアップ
 
@@ -179,25 +179,26 @@
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  B'z20周年記念として[B'z Partyが製作したDVD](../Page/B'z_Party.md "wikilink")『B'z Official Bootleg Hidden Treasure 〜Typhoon No.20〜』より。
-2.  この時期からフェードアウトの曲がほとんど見られなくなり、以降は数えるほどしか存在しない。
-3.  別冊カドカワ(2003年9月号)より
-4.
+1.
+2.  B'z20周年記念として[B'z Partyが製作したDVD](../Page/B'z_Party.md "wikilink")『B'z Official Bootleg Hidden Treasure 〜Typhoon No.20〜』より。
+3.  この時期からフェードアウトの曲がほとんど見られなくなり、以降は数えるほどしか存在しない。
+4.  別冊カドカワ(2003年9月号)より
 5.
 6.
 7.
 8.
 9.
 10.
-11. 番組放送直前の3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を意識して元々演奏予定だった曲から急遽この楽曲に変更された。
-12. なお、サポートメンバーの[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")がこの時披露した英語バージョンでのカバーを自身のソロアルバムに収録・リリースしている。
-13. 日本では2nd beatの類である「[FRICTION](https://ja.wikipedia.org/wiki/SUPER_LOVE_SONG_#収録曲 "wikilink")」も演奏されたが、海外では配信シングルとして発売されていたため。
-14. 同年に行われたアルバムツアーのホール公演では実際に1曲目となった(スタジアム公演の1曲目は「ギリギリchop」)。また、この際はオープニングSEがオーケストラ演奏の音源で、この曲のイントロに続くようになっていた。
-15.
+11.
+12. 番組放送直前の3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を意識して元々演奏予定だった曲から急遽この楽曲に変更された。
+13. なお、サポートメンバーの[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")がこの時披露した英語バージョンでのカバーを自身のソロアルバムに収録・リリースしている。
+14. 日本では2nd beatの類である「[FRICTION](https://ja.wikipedia.org/wiki/SUPER_LOVE_SONG_#収録曲 "wikilink")」も演奏されたが、海外では配信シングルとして発売されていたため。
+15. 同年に行われたアルバムツアーのホール公演では実際に1曲目となった(スタジアム公演の1曲目は「ギリギリchop」)。また、この際はオープニングSEがオーケストラ演奏の音源で、この曲のイントロに続くようになっていた。
 16.
-17. 『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』(愛媛公演を除く)、『[B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](../Page/A_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜.md "wikilink")』(一部会場のみ)、『[B'z SHOWCASE 2007 -19-](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure"#DVD（2CD+DVD版のみ） "wikilink")』、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』(一部のホール公演)
-18.
+17.
+18. 『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』(愛媛公演を除く)、『[B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](../Page/A_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜.md "wikilink")』(一部会場のみ)、『[B'z SHOWCASE 2007 -19-](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure"#DVD（2CD+DVD版のみ） "wikilink")』、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』(一部のホール公演)
 19.
 20.
 21.
 22.
+23.

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アバディーンFC](https://ja.wikipedia.org/wiki/アバディーンFC)から翻訳されています。
 
 
 **アバディーン・フットボールクラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")北東部の都市[アバディーン](../Page/アバディーン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

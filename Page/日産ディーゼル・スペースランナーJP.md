@@ -1,4 +1,4 @@
-> この記事は[JP](https://ja.wikipedia.org/wiki/JP)から翻訳されています。
+> この記事は[日産ディーゼル・スペースランナーJP](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーJP)から翻訳されています。
 
 
 **スペースランナーJP**（SPACERUNNER JP）は、[日産ディーゼル工業（現「UDトラックス」）が平成](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")22年まで製造・販売していた普通型路線用[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。

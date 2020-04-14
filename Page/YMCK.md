@@ -11,13 +11,13 @@
 
 ライブ以外では素顔は公開せず、音楽誌のライブレポートではそれぞれのドット絵のイラストが顔に被せられている。
 
-公式サイトでは、Yokemuraが開発したMagical 8bit Plugというオリジナルのプラグイン形式の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")を公開している。フリーウェアであるため、ダウンロードをすればYMCKの曲のような8bitゲームミュージックが自作可能。
+公式サイトでは、Yokemuraが開発した「Magical 8bit Plug」というオリジナルのプラグイン形式の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")を公開している。フリーウェアであるため、ダウンロードをすればYMCKの曲のような8bitゲームミュージックが自作可能。バージョンアップを重ねたのち、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に「Magical 8bit Plug 2」が新たにリリースされた。\[1\]
 
 ## メンバー
 
   - **Midori**（栗原みどり）（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当）
   - **Yokemura**（除村武志）（作詞、作曲、編曲担当）
-  - **Nakamura**（中村智之）（映像・作曲担当） 実妹は漫画家の[中村明日美子](../Page/中村明日美子.md "wikilink")\[1\]
+  - **Nakamura**（中村智之）（映像・作曲担当） 実妹は漫画家の[中村明日美子](../Page/中村明日美子.md "wikilink")\[2\]
 
 ## 作品
 
@@ -262,7 +262,7 @@
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
 <td><p><strong>FAMILY SWING</strong></p></td>
 <td><p>通常版:NOT-0013 限定版:NOT-0014</p>
-<p>ダウンロード版(UK):HYPRWV009[2]</p></td>
+<p>ダウンロード版(UK):HYPRWV009[3]</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>全12曲</p>
@@ -285,7 +285,72 @@
 </div></li>
 </ol></td>
 <td><p>限定版は<a href="https://ja.wikipedia.org/wiki/オインクゲームズ" title="wikilink">Oink Games</a>「<a href="https://ja.wikipedia.org/wiki/海底探検" title="wikilink">海底探検</a>」のリメイク作となる特製ボードゲーム「FAMILY TREASURE」を同梱したBOX仕様。<br />
-オリコン最高115位[3]</p></td>
+オリコン最高115位[4]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a>(配信) <a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/11月4日.md" title="wikilink">11月4日</a>(CD)</p></td>
+<td><p>FAMILY CIRCUS</p></td>
+<td><p>NOT-0026</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全10曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>サーカスへようこそ</li>
+<li>We're the circus</li>
+<li>秘密のショータイム</li>
+<li>迷宮ピエロ</li>
+<li>ミリオネアたちの高笑い</li>
+<li>夢</li>
+<li>Wild Wild Caravan</li>
+<li>ファミリーサーカスのテーマ</li>
+<li>Floor99 (<a href="https://ja.wikipedia.org/wiki/寺田創一" title="wikilink">Soichi Terada</a> House Remix)</li>
+<li>You Can Be A Star ( <a href="https://ja.wikipedia.org/wiki/パソコン音楽クラブ" title="wikilink">パソコン音楽クラブ</a> Go Go General MIDI Remix)</li>
+</ol>
+</div>
+</div></td>
+<td><p>Amazon.co.jpおよびライブ会場限定販売</p></td>
+</tr>
+</tbody>
+</table>
+
+### EP
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月14日.md" title="wikilink">4月14日</a></p></td>
+<td><p><strong>MAGICAL GALAXY TOUR EP</strong></p></td>
+<td><p>NOT-0018</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全7曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>宇宙を定める法則の彼方</li>
+<li>Synchronicity (MAGICAL GALAXY TOUR MIX)</li>
+<li>プレアデス (MAGICAL GALAXY TOUR MIX)</li>
+<li>Rain (MAGICAL GALAXY TOUR MIX)</li>
+<li>Les étoiles feat. <a href="../Page/MCU_(ラッパー).md" title="wikilink">MC8bit</a></li>
+<li>Unspeakable feat. Mega Ran</li>
+<li>ミラクルグラヴィティ feat. Robotprins
+</div>
+</div></li>
+</ol></td>
+<td><p>既存曲のリミックスとコラボレーション楽曲を収録した企画盤。<br />
+Amazon.co.jpおよびライブ会場限定販売<br />
+EP盤サイズ特殊仕様ジャケット</p></td>
 </tr>
 </tbody>
 </table>
@@ -776,6 +841,7 @@
 
 [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
-1.  [YMCK中村智之×押切蓮介ゲーム対談、実妹中村明日美子も](http://natalie.mu/music/news/63296)
-2.  <https://ymck.bandcamp.com/>
-3.  <http://www.oricon.co.jp/prof/351798/products/1210955/1/>
+1.  <http://ymck.net/download/magical8bitplug/index.html>
+2.  [YMCK中村智之×押切蓮介ゲーム対談、実妹中村明日美子も](http://natalie.mu/music/news/63296)
+3.  <https://ymck.bandcamp.com/>
+4.  <http://www.oricon.co.jp/prof/351798/products/1210955/1/>

@@ -1,4 +1,4 @@
-> この記事は[TV !](https://ja.wikipedia.org/wiki/TV_!)から翻訳されています。
+> この記事は[現代進行形TV イマジン!](https://ja.wikipedia.org/wiki/現代進行形TV_イマジン!)から翻訳されています。
 
 
 『**現代進行形TV イマジン\!**』（げんだいしんこうけいてれび イマジン）は、[2002年](../Page/2002年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")まで、[朝日放送の制作により](../Page/朝日放送テレビ.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。放送時間は、毎週[火曜](../Page/火曜日.md "wikilink")20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[E・アニー・プルー](https://ja.wikipedia.org/wiki/E・アニー・プルー)から翻訳されています。
 
 
 [Annie_Proulx_Frankfurt_Book_Fair_Conference_2009.jpg](https://ja.wikipedia.org/wiki/File:Annie_Proulx_Frankfurt_Book_Fair_Conference_2009.jpg "fig:Annie_Proulx_Frankfurt_Book_Fair_Conference_2009.jpg") **E・アニー・プルー**(E. Annie Proulx,[1935年](../Page/1935年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink") - )は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コネティカット州](https://ja.wikipedia.org/wiki/コネティカット州 "wikilink")出身の[小説家](../Page/小説家.md "wikilink")である。[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")、[全米図書賞](../Page/全米図書賞.md "wikilink")を受賞した『シッピング・ニュース』で知られている。

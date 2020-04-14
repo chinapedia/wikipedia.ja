@@ -1,4 +1,4 @@
-> この記事は[34IBAF](https://ja.wikipedia.org/wiki/34IBAF)から翻訳されています。
+> この記事は[第34回IBAFワールドカップ日本代表](https://ja.wikipedia.org/wiki/第34回IBAFワールドカップ日本代表)から翻訳されています。
 
 
 **第34回IBAFワールドカップ日本代表**（だい34かいIBAFワールドカップにっぽんだいひょう）は、11月に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開かれた第34回[IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")に出場するために選抜された[野球日本代表](../Page/野球日本代表.md "wikilink")チームである。

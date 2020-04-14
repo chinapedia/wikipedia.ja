@@ -55,6 +55,6 @@
 ## 外部リンク
 
   - [ASAI RED ROSE公式サイト](http://www.asaikikaku.co.jp/red_rose/index.html)
-  - [ASAI RED ROSE オフィシャルブログ Powered by Ameba](http://ameblo.jp/asai-red-rose/)
+  - [ASAI RED ROSE オフィシャルブログ Powered by Ameba](https://ameblo.jp/asai-red-rose/)
 
 [Category:浅井企画](https://ja.wikipedia.org/wiki/Category:浅井企画 "wikilink") [Category:芸能人女子フットサルチーム](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサルチーム "wikilink")

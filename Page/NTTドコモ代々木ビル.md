@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTドコモ代々木ビル](https://ja.wikipedia.org/wiki/NTTドコモ代々木ビル)から翻訳されています。
 
 
 **NTTドコモ代々木ビル**（エヌ・ティ・ティ ドコモ よよぎビル、英称:*NTT Docomo Yoyogi Building*）は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[千駄ヶ谷](../Page/千駄ヶ谷.md "wikilink")五丁目にある[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。通称**ドコモタワー**。

@@ -1,4 +1,4 @@
-> この記事は[Microsoft ](https://ja.wikipedia.org/wiki/Microsoft_)から翻訳されています。
+> この記事は[Microsoft アカウント](https://ja.wikipedia.org/wiki/Microsoft_アカウント)から翻訳されています。
 
 
 **Microsoft アカウント**（マイクロソフトアカウント、以前は **Microsoft Wallet**\[1\]、**Microsoft Passport**\[2\]、**.NET Passport**、**Microsoft Passport Network**、**Windows Live ID**）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発し提供する[シングルサインオン](../Page/シングルサインオン.md "wikilink")Webサービスである。Microsoft アカウントにより、ユーザーは1つのアカウントで複数の[ウェブサイト](../Page/ウェブサイト.md "wikilink")へログインすることが可能となる。

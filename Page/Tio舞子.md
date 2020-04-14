@@ -1,4 +1,4 @@
-> この記事は[Tio](https://ja.wikipedia.org/wiki/Tio)から翻訳されています。
+> この記事は[Tio舞子](https://ja.wikipedia.org/wiki/Tio舞子)から翻訳されています。
 
 
 **Tio舞子**（ティオまいこ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")にある[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。

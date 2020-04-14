@@ -1,4 +1,4 @@
-> この記事は[ ayakashi](https://ja.wikipedia.org/wiki/_ayakashi)から翻訳されています。
+> この記事は[怪 〜ayakashi〜](https://ja.wikipedia.org/wiki/怪_〜ayakashi〜)から翻訳されています。
 
 
 『**怪 〜ayakashi〜**』（あやかし）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホラー](../Page/恐怖.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」枠の第3作目で、[2006年](../Page/2006年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")から同年[3月23日](../Page/3月23日.md "wikilink")まで放送された。全11話。[2007年](../Page/2007年.md "wikilink")には「化猫」の登場人物を主人公にした『[モノノ怪](../Page/モノノ怪.md "wikilink")』が制作された。

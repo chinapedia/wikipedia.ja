@@ -1,4 +1,4 @@
-> この記事は[Windows](https://ja.wikipedia.org/wiki/Windows)から翻訳されています。
+> この記事は[Windowsキー](https://ja.wikipedia.org/wiki/Windowsキー)から翻訳されています。
 
 
 [Ctl_wndws_alt.jpg](https://ja.wikipedia.org/wiki/File:Ctl_wndws_alt.jpg "fig:Ctl_wndws_alt.jpg") **Windowsキー**（ウィンドウズキー）は、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[キーボードに配置されているキーのうち](../Page/キーボード_\(コンピュータ\).md "wikilink")、キートップに[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")[マーク](../Page/マーク.md "wikilink")が描かれたキーのこと。

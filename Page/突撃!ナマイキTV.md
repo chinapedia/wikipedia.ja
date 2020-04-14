@@ -1,4 +1,4 @@
-> この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
+> この記事は[突撃!ナマイキTV](https://ja.wikipedia.org/wiki/突撃!ナマイキTV)から翻訳されています。
 
 
 『**突撃\!ナマイキTV**』（とつげき\!ナマイキテレビ）とは、[東日本放送](../Page/東日本放送.md "wikilink")で毎週月 - 金曜日の9:55 - 11:05に放送されているローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。「ナマイキ」は「生（[生放送](../Page/生放送.md "wikilink")）で行く」という意味で付けられている。

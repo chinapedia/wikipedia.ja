@@ -1,4 +1,4 @@
-> この記事は[6 SMACKDOWN! VS RAW](https://ja.wikipedia.org/wiki/6_SMACKDOWN!_VS_RAW)から翻訳されています。
+> この記事は[エキサイティングプロレス6 SMACKDOWN! VS RAW](https://ja.wikipedia.org/wiki/エキサイティングプロレス6_SMACKDOWN!_VS_RAW)から翻訳されています。
 
 
 **エキサイティングプロレス6 SMACKDOWN\! VS RAW**は、[プロレス](../Page/プロレス.md "wikilink")を題材とした[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")『**[エキサイティングプロレス](../Page/エキサイティングプロレス.md "wikilink")**』シリーズの6作目。製作会社は[ユークス](../Page/ユークス.md "wikilink")。

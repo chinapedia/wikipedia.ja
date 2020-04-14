@@ -1,4 +1,4 @@
-> この記事は[ \(WANDS\)](https://ja.wikipedia.org/wiki/_\(WANDS\))から翻訳されています。
+> この記事は[時の扉 \(WANDSのアルバム\)](https://ja.wikipedia.org/wiki/時の扉_\(WANDSのアルバム\))から翻訳されています。
 
 
 『**時の扉**』（ときのとびら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[WANDS](../Page/WANDS.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。初のフルアルバムである。

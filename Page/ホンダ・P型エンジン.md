@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ホンダ・P型エンジン](https://ja.wikipedia.org/wiki/ホンダ・P型エンジン)から翻訳されています。
 
 
 **P型エンジン**（Pがたエンジン）は、[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[直列3気筒](../Page/直列3気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")、および2013年[11月](../Page/11月.md "wikilink")に発表され、[2015年](../Page/2015年.md "wikilink")[8月](../Page/8月.md "wikilink")から製造されている小型車用ガソリンエンジンである。

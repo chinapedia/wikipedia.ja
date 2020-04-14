@@ -1,4 +1,4 @@
-> この記事は[Wi-Fi USB](https://ja.wikipedia.org/wiki/Wi-Fi_USB)から翻訳されています。
+> この記事は[ニンテンドーWi-Fi USBコネクタ](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fi_USBコネクタ)から翻訳されています。
 
 
 [Nintendo-Wii-DS-Buffalo-Wifi-USB-Connector.jpg](https://ja.wikipedia.org/wiki/File:Nintendo-Wii-DS-Buffalo-Wifi-USB-Connector.jpg "fig:Nintendo-Wii-DS-Buffalo-Wifi-USB-Connector.jpg") **ニンテンドーWi-Fi USBコネクタ**（ニンテンドー・ワイファイ・ユーエスビー・コネクタ、Nintendo Wi-Fi USB Connector）は、[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")および[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")の[周辺機器](../Page/周辺機器.md "wikilink")。価格は3,333円（税別）。型番は「NTR-010」。製造元は[バッファロー社](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")。現在は生産・サポートが終了している。

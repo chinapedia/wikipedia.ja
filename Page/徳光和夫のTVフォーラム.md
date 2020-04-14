@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[徳光和夫のTVフォーラム](https://ja.wikipedia.org/wiki/徳光和夫のTVフォーラム)から翻訳されています。
 
 
 『**徳光和夫のTVフォーラム**』（とくみつかずおのテレビフォーラム）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[松下電器グループの](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[一社提供](../Page/一社提供.md "wikilink")\[1\]。日本テレビ系列局では1984年10月7日から1988年12月25日まで放送。

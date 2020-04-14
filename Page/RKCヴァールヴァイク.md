@@ -1,4 +1,4 @@
-> この記事は[RKC](https://ja.wikipedia.org/wiki/RKC)から翻訳されています。
+> この記事は[RKCヴァールヴァイク](https://ja.wikipedia.org/wiki/RKCヴァールヴァイク)から翻訳されています。
 
 
 **RKCヴァールヴァイク**（**Rooms Katholieke Combinatie Waalwijk**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ヴァールヴァイク](https://ja.wikipedia.org/wiki/ヴァールヴァイク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通常の呼称は「エルカーセー」。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。
@@ -138,7 +138,7 @@ PlotData=
 
 ## 現所属メンバー
 
-([第2主将](../Page/主将.md "wikilink"))                ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+([第2主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍
 

@@ -1,4 +1,4 @@
-> この記事は[NNN!](https://ja.wikipedia.org/wiki/NNN!)から翻訳されています。
+> この記事は[NNNおはよう!ニュースワイド](https://ja.wikipedia.org/wiki/NNNおはよう!ニュースワイド)から翻訳されています。
 
 
 『**NNNおはよう\!ニュースワイド**』（エヌエヌエヌ おはようニュースワイド）は、[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1979年](../Page/1979年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")まで[日本テレビ](../Page/日本テレビ放送網.md "wikilink") ([NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")) で放送された朝の[報道番組](../Page/報道番組.md "wikilink")である。

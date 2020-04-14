@@ -1,4 +1,4 @@
-> この記事は[TVRAJP8](https://ja.wikipedia.org/wiki/TVRAJP8)から翻訳されています。
+> この記事は[TVR・AJP8](https://ja.wikipedia.org/wiki/TVR・AJP8)から翻訳されています。
 
 
 **TVR・AJP8**は、[TVR](../Page/TVR.md "wikilink")が生産していた[自動車](../Page/自動車.md "wikilink")の[エンジン](../Page/エンジン.md "wikilink")である。**スピードエイト**（Speed Eight）とも呼ばれる。

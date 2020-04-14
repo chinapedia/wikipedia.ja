@@ -1,4 +1,4 @@
-> この記事は[FTO](https://ja.wikipedia.org/wiki/FTO)から翻訳されています。
+> この記事は[三菱・ギャランクーペFTO](https://ja.wikipedia.org/wiki/三菱・ギャランクーペFTO)から翻訳されています。
 
 
 **ギャランクーペFTO**（ギャランクーペエフティーオー、*Galant Coupe FTO*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していたパーソナル[クーペ](../Page/クーペ.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")である。

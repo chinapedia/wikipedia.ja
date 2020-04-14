@@ -1,4 +1,4 @@
-> この記事は[IWGP](https://ja.wikipedia.org/wiki/IWGP)から翻訳されています。
+> この記事は[IWGPジュニアタッグ王座](https://ja.wikipedia.org/wiki/IWGPジュニアタッグ王座)から翻訳されています。
 
 
 **IWGPジュニアタッグ王座**（アイダブリュージーピージュニアタッグおうざ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")が管理する王座。ジュニアヘビー級選手のタッグチームを対象としている。

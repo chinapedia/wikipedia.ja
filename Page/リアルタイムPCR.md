@@ -1,4 +1,4 @@
-> この記事は[PCR](https://ja.wikipedia.org/wiki/PCR)から翻訳されています。
+> この記事は[リアルタイムPCR](https://ja.wikipedia.org/wiki/リアルタイムPCR)から翻訳されています。
 
 
 **リアルタイムPCR**（Real-time PCR）は、[定量PCR](../Page/定量PCR.md "wikilink")（Q-PCR）のひとつ。[ポリメラーゼ連鎖反応](../Page/ポリメラーゼ連鎖反応.md "wikilink") (PCR) による増幅を経時的（リアルタイム）に測定することで、増幅率に基づいて鋳型となる[DNAの定量を行なう](../Page/デオキシリボ核酸.md "wikilink")。

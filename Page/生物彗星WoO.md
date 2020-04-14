@@ -1,4 +1,4 @@
-> この記事は[WoO](https://ja.wikipedia.org/wiki/WoO)から翻訳されています。
+> この記事は[生物彗星WoO](https://ja.wikipedia.org/wiki/生物彗星WoO)から翻訳されています。
 
 
 『**生物彗星WoO**』（せいぶつすいせい ウー）は、[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[8月13日](../Page/8月13日.md "wikilink")まで[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")で放送された[特撮](../Page/特撮.md "wikilink")テレビ番組。全13話。

@@ -3,7 +3,7 @@
 
 **BoA Beat It BoA's World**（**ボア・ビート・イット・ボアズ・ワールド**） は、[BoA](../Page/BoA.md "wikilink")が[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")を務めているラジオ番組であり、[2002年](../Page/2002年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで全国の[JFN系列で放送されていた](../Page/全国FM放送協議会.md "wikilink")。
 
-制作は[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")（B2プログラムに含まれる）。しかし、一時期はスポンサーの関係上TOKYO FMのみ別バージョンが制作されていたこともあった。その時期は番組ホームページ（後述の外部リンク参照）も他の地方向けとは別々に存在し、読まれるメールやエンディングトークもTOKYO FMのみ別バージョンが収録されたりしていた。
+制作は[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（B2プログラムに含まれる）。しかし、一時期はスポンサーの関係上TOKYO FMのみ別バージョンが制作されていたこともあった。その時期は番組ホームページ（後述の外部リンク参照）も他の地方向けとは別々に存在し、読まれるメールやエンディングトークもTOKYO FMのみ別バージョンが収録されたりしていた。
 
 ## コーナー
 

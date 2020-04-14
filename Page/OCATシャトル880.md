@@ -1,4 +1,4 @@
-> この記事は[OCAT880](https://ja.wikipedia.org/wiki/OCAT880)から翻訳されています。
+> この記事は[OCATシャトル880](https://ja.wikipedia.org/wiki/OCATシャトル880)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nihon_Kotsu_\(Osaka\)_964_OCAT_Shuttle_880.jpg "wikilink") **OCATシャトル880**（オーキャットシャトル880）は、[大阪市](../Page/大阪市.md "wikilink")[浪速区](../Page/浪速区.md "wikilink")の[大阪シティエアターミナル](../Page/大阪シティエアターミナル.md "wikilink")（OCAT）と[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")を結ぶ空港[リムジンバス](../Page/リムジンバス.md "wikilink")（[高速バス](../Page/高速バス.md "wikilink")）である。現在は運賃が1000円に値上げされたため、OCATシャトル880の名称は使われていない。

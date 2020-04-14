@@ -1,4 +1,4 @@
-> この記事は[Uhb](https://ja.wikipedia.org/wiki/Uhb)から翻訳されています。
+> この記事は[Uhbスーパータイム](https://ja.wikipedia.org/wiki/Uhbスーパータイム)から翻訳されています。
 
 
 『**uhbスーパータイム**』（ユーエイチビースーパータイム）は、[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送されていた[FNN系列夕方の](../Page/フジニュースネットワーク.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組のタイトル](../Page/報道番組.md "wikilink")（『FNNスーパータイム』の北海道ローカル扱い）。

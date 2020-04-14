@@ -1,4 +1,4 @@
-> この記事は[Tierra \(\)](https://ja.wikipedia.org/wiki/Tierra_\(\))から翻訳されています。
+> この記事は[Tierra \(コンピュータプログラム\)](https://ja.wikipedia.org/wiki/Tierra_\(コンピュータプログラム\))から翻訳されています。
 
 
 **Tierra**（ティエラ）とは、[生態学](../Page/生態学.md "wikilink")者の[トマス・S・レイ](https://ja.wikipedia.org/wiki/トマス・S・レイ "wikilink")が[1990年代](../Page/1990年代.md "wikilink")に開発した、[人工生命](../Page/人工生命.md "wikilink")[プログラムである](../Page/プログラム_\(コンピュータ\).md "wikilink")。

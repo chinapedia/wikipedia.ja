@@ -1,11 +1,11 @@
-> この記事は[   VII](https://ja.wikipedia.org/wiki/___VII)から翻訳されています。
+> この記事は[ダージュ オブ ケルベロス ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ファイナルファンタジーVII)から翻訳されています。
 
 
 『**ダージュ オブ ケルベロス -ファイナルファンタジーVII-**』（ダージュオブケルベロス ファイナルファンタジーセブン、DIRGE of CERBERUS -FINAL FANTASY VII-、略称：**DC FFVII**、**DC FF7**）は[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売されたガン[アクションRPGである](../Page/アクションロールプレイングゲーム.md "wikilink")。『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』の[スピンオフ作品](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")の1つ。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2006年](../Page/2006年.md "wikilink")1月26日発売。1枚の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")で、オフラインゲームである**シングルプレイヤーモード**と[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")である**マルチプレイヤーモード**の2つのモードがプレイできる（マルチプレイヤーモードのサービスは2006年9月29日に終了）。
 
 外伝的作品として[携帯電話](../Page/携帯電話.md "wikilink")用[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")ゲーム『[ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII](../Page/ダージュ_オブ_ケルベロス_ロスト_エピソード_ファイナルファンタジーVII.md "wikilink")』が2006年から配信されている。
 
-2008年には、北米版をベースに新要素を追加した『**[アルティメットヒッツ ダージュ オブ ケルベロス -ファイナルファンタジーVII- インターナショナル](https://ja.wikipedia.org/wiki/#ダージュ_オブ_ケルベロス_ファイナルファンタジーVII_インターナショナル "wikilink")**』が発売された（マルチプレイヤーモードはなし）。
+2008年には、北米版をベースに新要素を追加した『**[アルティメットヒッツ ダージュ オブ ケルベロス -ファイナルファンタジーVII- インターナショナル](https://ja.wikipedia.org/wiki/#ダージュ_オブ_ケルベロス_ファイナルファンタジーVII_インターナショナル "wikilink")**』（*DIRGE of CERBERUS -FINAL FANTASY VII- INTERNATIONAL*）が発売された（マルチプレイヤーモードはなし）。
 
 ## 概要
 

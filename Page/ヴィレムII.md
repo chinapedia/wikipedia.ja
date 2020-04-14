@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ヴィレムII](https://ja.wikipedia.org/wiki/ヴィレムII)から翻訳されています。
 
 
 **ヴィレムIIティルブルフ**（**Willem II Tilburg**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南部、[北ブラバント州](../Page/北ブラバント州.md "wikilink")の都市[ティルブルフ](../Page/ティルブルフ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。読み方は「ヴィレム・トヴェー・ティルブルフ」。

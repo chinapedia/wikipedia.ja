@@ -1,4 +1,4 @@
-> この記事は[YOU \(\)](https://ja.wikipedia.org/wiki/YOU_\(\))から翻訳されています。
+> この記事は[YOU \(雑誌\)](https://ja.wikipedia.org/wiki/YOU_\(雑誌\))から翻訳されています。
 
 
 『**YOU**』（ユー）は、[集英社](../Page/集英社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。1980年12月創刊。毎月15日に発売された。

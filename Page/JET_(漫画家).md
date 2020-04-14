@@ -1,4 +1,4 @@
-> この記事は[JET \(\)](https://ja.wikipedia.org/wiki/JET_\(\))から翻訳されています。
+> この記事は[JET \(漫画家\)](https://ja.wikipedia.org/wiki/JET_\(漫画家\))から翻訳されています。
 
 
 **JET**（ジェット、[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。

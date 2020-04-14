@@ -126,8 +126,7 @@ Cタイプ（c/w「I want to tell U」）
   -
   - [RIDER CHIPS official site](http://www.riderchips.jp/)
 
-  - [時計じかけのエイリアン（ブログ）](http://dotto.laff.jp/)
-
+  -
   - [THE MICRO HEAD 4N'S official site](http://www.themicrohead4ns.jp/)
 
   - [Ricky official site](http://www.marsa.ne.jp/ricky/) 旧 公式サイト

@@ -1,4 +1,4 @@
-> この記事は[35IBAF](https://ja.wikipedia.org/wiki/35IBAF)から翻訳されています。
+> この記事は[第35回IBAFワールドカップ日本代表](https://ja.wikipedia.org/wiki/第35回IBAFワールドカップ日本代表)から翻訳されています。
 
 
 **第35回IBAFワールドカップ日本代表**（だい35かいIBAFワールドカップにっぽんだいひょう）は、10月に[キューバ](../Page/キューバ.md "wikilink")の[サンティアーゴ・デ・クーバ](../Page/サンティアーゴ・デ・クーバ.md "wikilink")と[ハバナ](../Page/ハバナ.md "wikilink")で行われた第35回[IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")に出場するために編成された[野球](../Page/野球.md "wikilink")の日本代表チームである。

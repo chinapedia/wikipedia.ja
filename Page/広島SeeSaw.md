@@ -1,4 +1,4 @@
-> この記事は[SeeSaw](https://ja.wikipedia.org/wiki/SeeSaw)から翻訳されています。
+> この記事は[広島SeeSaw](https://ja.wikipedia.org/wiki/広島SeeSaw)から翻訳されています。
 
 
 『**広島SeeSaw**』（ひろしまシーソー）は、[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")\[1\]から同年[10月27日](../Page/10月27日.md "wikilink")\[2\]まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送された[ローカル番組](../Page/ローカル番組.md "wikilink")。

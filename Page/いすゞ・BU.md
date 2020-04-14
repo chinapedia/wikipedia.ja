@@ -1,4 +1,4 @@
-> この記事は[BU](https://ja.wikipedia.org/wiki/BU)から翻訳されています。
+> この記事は[いすゞ・BU](https://ja.wikipedia.org/wiki/いすゞ・BU)から翻訳されています。
 
 
 **いすゞ・BU系**は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が1962〜1980年にかけて製造・販売していた大型バスである。

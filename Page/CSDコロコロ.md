@@ -1,4 +1,4 @@
-> この記事は[CSD](https://ja.wikipedia.org/wiki/CSD)から翻訳されています。
+> この記事は[CSDコロコロ](https://ja.wikipedia.org/wiki/CSDコロコロ)から翻訳されています。
 
 
 **クルブ・ソシアル・イ・デポルティーボ・コロコロ**（, ）は、[チリ](../Page/チリ.md "wikilink")の首都[サンティアゴを本拠地とする](https://ja.wikipedia.org/wiki/サンティアゴ・デ・チレ "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

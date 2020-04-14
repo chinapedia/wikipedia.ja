@@ -1,4 +1,4 @@
-> この記事は[ WILD AMBITION](https://ja.wikipedia.org/wiki/_WILD_AMBITION)から翻訳されています。
+> この記事は[餓狼伝説 WILD AMBITION](https://ja.wikipedia.org/wiki/餓狼伝説_WILD_AMBITION)から翻訳されています。
 
 
 『**餓狼伝説 WILD AMBITION**』（がろうでんせつ ワイルドアンビション）は、[1999年](../Page/1999年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[ハイパーネオジオ64](../Page/ハイパーネオジオ64.md "wikilink")で発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。同年[6月24日](../Page/6月24日.md "wikilink")には[プレイステーション版が発売され](../Page/PlayStation_\(ゲーム機\).md "wikilink")、ハイパーネオジオ64から唯一の移植となった（[2007年](../Page/2007年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている）。

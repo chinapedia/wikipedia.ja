@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[競馬予想TV!](https://ja.wikipedia.org/wiki/競馬予想TV!)から翻訳されています。
 
 
 **競馬予想TV\!**（けいばよそうティーヴィー）は、CS放送「[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")」および [フジテレビの有料動画配信サービス](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[フジテレビ On Demand](https://ja.wikipedia.org/wiki/フジテレビ_On_Demand "wikilink")」で放送されている[競馬番組](https://ja.wikipedia.org/wiki/競馬番組_\(放送\) "wikilink")。

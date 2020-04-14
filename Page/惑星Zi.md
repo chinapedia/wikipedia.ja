@@ -1,4 +1,4 @@
-> この記事は[Zi](https://ja.wikipedia.org/wiki/Zi)から翻訳されています。
+> この記事は[惑星Zi](https://ja.wikipedia.org/wiki/惑星Zi)から翻訳されています。
 
 
 **惑星Zi**（わくせいズィー）は[ゾイド](../Page/ゾイド.md "wikilink")シリーズに登場する架空の[惑星](../Page/惑星.md "wikilink")。設定上は金属生命体[ゾイドや固有の人間が生息し](https://ja.wikipedia.org/wiki/ゾイド#架空の生物 "wikilink")、独自の発展を遂げている。

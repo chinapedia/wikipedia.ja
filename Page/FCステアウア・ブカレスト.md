@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCステアウア・ブカレスト](https://ja.wikipedia.org/wiki/FCステアウア・ブカレスト)から翻訳されています。
 
 
 **FCSB**（**Fotbal Club FCSB** ()）は[ルーマニア](../Page/ルーマニア.md "wikilink")・[ブカレスト](../Page/ブカレスト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。以前は**FCステアウア・ブカレスト**（**Fotbal Club Steaua București** ()）であったが、2017年4月から現在の名称となっている\[1\]。

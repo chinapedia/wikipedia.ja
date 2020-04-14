@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[インヴァネス・カレドニアン・シッスルFC](https://ja.wikipedia.org/wiki/インヴァネス・カレドニアン・シッスルFC)から翻訳されています。
 
 
 **インヴァネス・カレドニアン・シッスルFC**（）は、[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")[スコットランド](../Page/スコットランド.md "wikilink")北西部の都市[インヴァネス](../Page/インヴァネス.md "wikilink")を本拠地とするサッカークラブである。[スコティッシュ・チャンピオンシップ](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")に所属している。

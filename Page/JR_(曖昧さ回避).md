@@ -1,4 +1,4 @@
-> この記事は[JR \(\)](https://ja.wikipedia.org/wiki/JR_\(\))から翻訳されています。
+> この記事は[JR \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/JR_\(曖昧さ回避\))から翻訳されています。
 
 
 **JR**／**J. R.**／**JR.**／**Jr**／**Jr.**（ジェイアール、ゼイアール、ジュニア）
@@ -15,7 +15,8 @@
   - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")を放送対象地域とする放送局「[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")」の略称。同局に付与されたコールサインである「JO**JR**」の一部を採ったものである。
   - [大阪府](../Page/大阪府.md "wikilink")の電子機器メーカー「[日本遠隔制御](https://ja.wikipedia.org/wiki/日本遠隔制御 "wikilink")（）」の略称。
   - [岡山市](../Page/岡山市.md "wikilink")の引越専門運輸業者「[ゼイ・アール](https://ja.wikipedia.org/wiki/ゼイ・アール "wikilink")」の略称。
-  - [中国の](../Page/中華人民共和国.md "wikilink")[航空会社](../Page/航空会社.md "wikilink")、[幸福航空](https://ja.wikipedia.org/wiki/幸福航空 "wikilink")（**J**oy Ai**r**）の[IATAコード](../Page/IATAコード.md "wikilink")
+  - [中国の](../Page/中華人民共和国.md "wikilink")[航空会社](../Page/航空会社.md "wikilink")、[幸福航空](https://ja.wikipedia.org/wiki/幸福航空 "wikilink")（**J**oy Ai**r**）の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
+      - 2008年までは[アエロ・カリフォルニア](https://ja.wikipedia.org/wiki/アエロ・カリフォルニア "wikilink")（）のコードだった。
 
 ### 実在の人物
 
@@ -36,7 +37,6 @@
 
 ### その他
 
-  - [アエロ・カリフォルニア](https://ja.wikipedia.org/wiki/アエロ・カリフォルニア "wikilink")（）の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")。
   - JR（**J**ob **R**elations） - [TWI研修](../Page/TWI研修.md "wikilink")の訓練内容のうちの一つである「人の扱い方」。
   - 「[実力](https://ja.wikipedia.org/wiki/実力 "wikilink")」を意味する[イニシャル](../Page/イニシャル.md "wikilink")。
 

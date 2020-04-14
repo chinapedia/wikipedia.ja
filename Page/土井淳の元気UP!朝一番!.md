@@ -1,4 +1,4 @@
-> この記事は[UP!!](https://ja.wikipedia.org/wiki/UP!!)から翻訳されています。
+> この記事は[土井淳の元気UP!朝一番!](https://ja.wikipedia.org/wiki/土井淳の元気UP!朝一番!)から翻訳されています。
 
 
 **土井淳の元気UP\!朝一番\!**（**どいきよしのげんきアップあさいちばん**）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")の制作で19年放送された[ラジオの](../Page/ラジオ番組.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")である。同局では放送されておらず、各地方局において、タイトル通り[月曜日](../Page/月曜日.md "wikilink")〜[金曜日](../Page/金曜日.md "wikilink")までの早朝に[裏送り](../Page/裏送り.md "wikilink")方式の[テープネット](../Page/テープネット.md "wikilink")で放送された。現在、一部の局においてこの番組が放送されていた時間帯は[森野熊八](../Page/森野熊八.md "wikilink")がパーソナリティーを勤める[森野熊八〜ワンダフルキッチン〜](https://ja.wikipedia.org/wiki/森野熊八〜ワンダフルキッチン〜 "wikilink")が放送されている。

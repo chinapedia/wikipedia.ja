@@ -43,63 +43,108 @@ ex-[Number Girl](https://ja.wikipedia.org/wiki/Number_Girl "wikilink")、[bloodt
 
 ### アルバム
 
-  - I dedicate D chord（2005年9月22日）
-    1.  I dedicate D chord
-    2.  a sight
-    3.  hesitate to see
-    4.  bakadana～
-    5.  world wide waddle
-    6.  wander lust
-    7.  scene of a girl
-    8.  mur mur
-    9.  oyster
-    10. so long
-
-<!-- end list -->
-
-  - Dawn Praise the World（2007年6月8日）
-    1.  Colonnade
-    2.  Sack Dress
-    3.  Recollection
-    4.  In a Balloon
-    5.  Gulp It Down
-    6.  Step With the Gloom
-    7.  Calligram
-    8.  Wind Chimes
-    9.  Dawn Praise the World
-    10. Ode To Joy
-
-<!-- end list -->
-
-  - the shimmer（2011年5月11日）
-    1.  shimmer
-    2.  thorn
-    3.  madrigal
-    4.  melancholic blvd.
-    5.  chase it
-    6.  barley-break
-    7.  arpeggio
-    8.  cast away
-    9.  wagtails
-    10. eraser
-    11. ghost
-    12. minimal
-
-<!-- end list -->
-
-  - Vacantly（2016年7月27日）
-    1.  Disillusion
-    2.  Beat Rotates
-    3.  Branch in the Road
-    4.  Parallel Lanes
-    5.  Bitter Hours
-    6.  Cloud Eater
-    7.  Stirrer
-    8.  Right-Hand Drive
-    9.  Where the Alley Ends
-    10. Round Arrow
-    11. Vacantly
-    12. Illuminate
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日b</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2005年9月22日</p></td>
+<td><p><strong>I dedicate D chord</strong></p></td>
+<td><p>WWW-001</p></td>
+<td><ol>
+<li>I dedicate D chord</li>
+<li>a sight</li>
+<li>hesitate to see</li>
+<li>bakadana～</li>
+<li>world wide waddle</li>
+<li>wander lust</li>
+<li>scene of a girl</li>
+<li>mur mur</li>
+<li>oyster</li>
+<li>so long</li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2007年6月8日</p></td>
+<td><p><strong>Dawn Praise the World</strong></p></td>
+<td><p>WWW-002</p></td>
+<td><ol>
+<li>Colonnade</li>
+<li>Sack Dress</li>
+<li>Recollection</li>
+<li>In a Balloon</li>
+<li>Gulp It Down</li>
+<li>Step With the Gloom</li>
+<li>Calligram</li>
+<li>Wind Chimes</li>
+<li>Dawn Praise the World</li>
+<li>Ode To Joy</li>
+</ol></td>
+<td><p>オリコン最高213位、登場回数2回</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2011年5月11日</p></td>
+<td><p><strong>the shimmer</strong></p></td>
+<td><p>KICS-1664</p></td>
+<td><ol>
+<li>shimmer</li>
+<li>thorn</li>
+<li>madrigal</li>
+<li>melancholic blvd.</li>
+<li>chase it</li>
+<li>barley-break</li>
+<li>arpeggio</li>
+<li>cast away</li>
+<li>wagtails</li>
+<li>eraser</li>
+<li>ghost</li>
+<li>minimal</li>
+</ol></td>
+<td><p>オリコン最高128位、登場回数2回</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2016年7月27日</p></td>
+<td><p><strong>Vacantly</strong></p></td>
+<td><p>KICS-3397</p></td>
+<td><ol>
+<li>Disillusion</li>
+<li>Beat Rotates</li>
+<li>Branch in the Road</li>
+<li>Parallel Lanes</li>
+<li>Bitter Hours</li>
+<li>Cloud Eater</li>
+<li>Stirrer</li>
+<li>Right-Hand Drive</li>
+<li>Where the Alley Ends</li>
+<li>Round Arrow</li>
+<li>Vacantly</li>
+<li>Illuminate</li>
+</ol></td>
+<td><p>オリコン最高143位</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### その他
 
@@ -116,8 +161,52 @@ ex-[Number Girl](https://ja.wikipedia.org/wiki/Number_Girl "wikilink")、[bloodt
   - Resume Volume1（2011年4月11日）
       - Aerial Things
 
+## 出演イベント
+
+  - 2006年07月29日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '06 ～夏の魔物～
+  - 2008年09月14日 - YAMAGATA MUSIC FES. DO IT.2008
+  - 2012年10月20日 - [チリヌルヲワカ](../Page/チリヌルヲワカ.md "wikilink")ツーマンイベント「ヲワカとダレカ」～ toddle 編～
+  - 2013年02月11日 - TOWER RECORDS presents ミラクルラッキーガールズ 2013
+  - 2013年05月25日 - NO PUNK TOUR 2013
+  - 2013年11月03日 - CITY NOISE FROM FUCKOKA 2013
+  - 2014年05月17日 - 畜産ストンプフェスティバル
+  - 2014年07月12日 - Decade of "D"
+  - 2014年09月15日 - ぐるぐる回る2014
+  - 2014年12月28日 - nestの忘年会 2014
+  - 2015年06月06日 - Maximum Music Values Vol.2
+  - 2015年06月20日 - [YATSUI FESTIVAL\!](https://ja.wikipedia.org/wiki/YATSUI_FESTIVAL! "wikilink") 2015
+  - 2015年10月11日 - [みさこ](https://ja.wikipedia.org/wiki/みさこ "wikilink")生誕祭2015 みさこPresents 『幸 福 革 命 ～はぴれぼ～』
+  - 2016年02月12日 - PLUGS 15th Anniversary "PLUGS SHOW special 2days"
+  - 2016年06月19日 - YATSUI FESTIVAL\! 2016
+  - 2016年07月14日 - CLUB Que夏ノ陣 2016 【RETURN TO NATURAL】
+  - 2017年02月20日・23日 - +/-{PLUS/MINUS} Japan Tour 2017
+  - 2017年02月25日 - [Tommy Keene](https://ja.wikipedia.org/wiki/w:en:Tommy_Keene "wikilink") Japan Tour 2017 "Back Again"
+  - 2017年03月17日 - むらたに☆とどるの恩楽会
+  - 2017年06月10日 - [VELTPUNCH](https://ja.wikipedia.org/wiki/VELTPUNCH "wikilink") 20th Anniversary Special LIVE Vol.3
+  - 2017年06月17日 - YATSUI FESTIVAL\! 2017
+  - 2017年07月08日 - NIGHT ON THE PLANET\!presents 「the depth of ...」
+  - 2018年01月20日 - TITLE ERROR
+  - 2018年05月27日 - いつまでも世界は…第七回
+  - 2018年06月16日 - YATSUI FESTIVAL\! 2018
+  - 2019年04月06日 - SYNCHRONICITY'19
+  - 2019年06月15日 - YATSUI FESTIVAL\! 2019
+  - 2019年07月19日 - [NITRODAY](https://ja.wikipedia.org/wiki/NITRODAY "wikilink")「ヤングマシン3号」
+  - 2020年03月07日 - [THIS IS JAPAN](../Page/THIS_IS_JAPAN.md "wikilink") TOUR 2020 『We are WEEKENDERS\!』
+  - 2020年06月20日 - YATSUI FESTIVAL\! 2020
+
 ## 外部リンク
 
-  - [toddle](http://toddle.to/)
+  -
+  -   -
+      -
+  -
+  -   - [toddle - YouTube](https://www.youtube.com/playlist?list=PLVYq4n17mctyzcJvqyOh3sMJ7UFwSplJY)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink")
+  - [toddleの歌詞一覧リスト - 歌ネット](https://www.uta-net.com/artist/11383/)
+
+  - [toddle 歌詞リスト - J-Lyric.net](http://j-lyric.net/artist/a0551c7/)
+
+  - [iTunes](https://music.apple.com/jp/artist/toddle/187931802)
+
+  -
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:YATSUI_FESTIVAL\!出演者](https://ja.wikipedia.org/wiki/Category:YATSUI_FESTIVAL!出演者 "wikilink")

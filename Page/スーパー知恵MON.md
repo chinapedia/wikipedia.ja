@@ -1,4 +1,4 @@
-> この記事は[MON](https://ja.wikipedia.org/wiki/MON)から翻訳されています。
+> この記事は[スーパー知恵MON](https://ja.wikipedia.org/wiki/スーパー知恵MON)から翻訳されています。
 
 
 『**スーパー知恵MON**』（スーパーちえモン）は、[1999年](../Page/1999年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[生活情報番組](../Page/生活情報番組.md "wikilink")である。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 12:00 - 12:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

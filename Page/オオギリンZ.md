@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[オオギリンZ](https://ja.wikipedia.org/wiki/オオギリンZ)から翻訳されています。
 
 
 『**オオギリンZ**』( - ゼット)は、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、審査員に箱を持ってくる覆面の[キャラクター](../Page/キャラクター.md "wikilink")でもある。

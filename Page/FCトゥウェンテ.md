@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCトゥウェンテ](https://ja.wikipedia.org/wiki/FCトゥウェンテ)から翻訳されています。
 
 
 **FCトゥウェンテ**（**FC Twente**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")東部、[オーファーアイセル州](../Page/オーファーアイセル州.md "wikilink")、トゥエンテ地方の都市[エンスヘーデ](https://ja.wikipedia.org/wiki/エンスヘーデ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。トゥエンテ、トヴェンテ、トゥヴェンテなど多くの表記がされる。

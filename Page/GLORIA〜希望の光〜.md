@@ -1,4 +1,4 @@
-> この記事は[GLORIA](https://ja.wikipedia.org/wiki/GLORIA)から翻訳されています。
+> この記事は[GLORIA〜希望の光〜](https://ja.wikipedia.org/wiki/GLORIA〜希望の光〜)から翻訳されています。
 
 
 **GLORIA〜希望の光〜**(ぐろりあ きぼうのひかり)は[千住明](../Page/千住明.md "wikilink")作曲の[ピアノ曲](../Page/ピアノ曲.md "wikilink")。[日本テレビ開局](../Page/日本テレビ放送網.md "wikilink")50周年特別企画「[仔犬のワルツ](../Page/仔犬のワルツ.md "wikilink")」(2004年4月-6月)の挿入曲として使用された。

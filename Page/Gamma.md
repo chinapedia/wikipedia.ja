@@ -1,11 +1,13 @@
 > この記事は[Gamma](https://ja.wikipedia.org/wiki/Gamma)から翻訳されています。
 
 
-**Gamma**（ガンマ、[1973年](../Page/1973年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、日本の男性[プロレスラー](../Page/プロレスラー.md "wikilink")。[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")出身。通称**ガンマちゃん**。
+**Gamma**（ガンマ、[1973年](../Page/1973年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**菅本 嘉人**（すがもと よしと）。
 
 ## 経歴
 
-[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")より1996年4月23日岩手県二戸市体育館でデビュー。1997年3月退団後サラリーマンを経て1999年4月[大阪プロレス](../Page/大阪プロレス.md "wikilink")に入団。2000年末の[ディック東郷](../Page/ディック東郷.md "wikilink")・[星川尚浩](../Page/星川尚浩.md "wikilink")らの大阪プロレス離脱を受け、2001年1月にリングネームをGammaに変更し、ヒールユニットFLUxx（フラックス）を結成し活躍。しかしメンバーの[ビッグボスMA-G-MAが活躍するようになると次第にリーダーとしての立場を失い](../Page/マグニチュード岸和田.md "wikilink")2003年に離脱、正規軍（のちUGM）に加入する。しかし肩の負傷による欠場を繰り返し目立ったアクションを起こすには至らず2005年4月をもって退団、以後は個人事務所Gammaxを立ち上げ、みちのくプロレスと[ZERO1](../Page/ZERO1.md "wikilink")-MAXを主戦場に悪役として暴れ、佐藤兄弟（[佐藤秀](../Page/バラモン・シュウ.md "wikilink")・[恵](../Page/バラモン・ケイ.md "wikilink")）にヒールターンを呼びかけ[STONED](https://ja.wikipedia.org/wiki/STONED "wikilink")を結成。
+[1996年](../Page/1996年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")二戸市体育館大会で菅本嘉人として対ウィリー・ウィルキンスJr.戦でデビュー。
+
+1997年3月に、みちのくプロレスを退団後、サラリーマンを経て1999年4月[大阪プロレス](../Page/大阪プロレス.md "wikilink")に入団。2000年末の[ディック東郷](../Page/ディック東郷.md "wikilink")・[星川尚浩](../Page/星川尚浩.md "wikilink")らの大阪プロレス離脱を受け、2001年1月にリングネームをGammaに変更し、ヒールユニットFLUxx（フラックス）を結成し活躍。しかしメンバーの[ビッグボスMA-G-MAが活躍するようになると次第にリーダーとしての立場を失い](../Page/マグニチュード岸和田.md "wikilink")2003年に離脱、正規軍（のちUGM）に加入する。しかし肩の負傷による欠場を繰り返し目立ったアクションを起こすには至らず2005年4月をもって退団、以後は個人事務所Gammaxを立ち上げ、みちのくプロレスと[ZERO1](../Page/ZERO1.md "wikilink")-MAXを主戦場に悪役として暴れ、佐藤兄弟（[佐藤秀](../Page/バラモン・シュウ.md "wikilink")・[恵](../Page/バラモン・ケイ.md "wikilink")）にヒールターンを呼びかけ[STONED](https://ja.wikipedia.org/wiki/STONED "wikilink")を結成。
 
 2006年、MA-G-MAことマグニチュード岸和田の誘いを受けて[Blood Generationの助っ人として](../Page/Blood_Generation.md "wikilink")[DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")（以下DG）に登場。しかし、前年の[びっくりプロレス](https://ja.wikipedia.org/wiki/びっくりプロレス "wikilink")（元大阪プロレス所属スタッフによる自主興行）での因縁から[CIMAと折り合いがつかず仲違いを繰り返す](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")。同年4月、[吉野正人](../Page/吉野正人.md "wikilink")、[土井成樹](../Page/土井成樹.md "wikilink")らと共にCIMA、[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")を襲撃し新たに[マッスル・アウトローズ](../Page/マッスル・アウトローズ.md "wikilink")（以下MO）を結成。以降、DGを主戦場としている。現在に至ってはDGのトップ・ヒール（自称「エース」）まで上り詰めた（試合前の選手紹介の時にリングアナが『DGのエース』とコールしていた）。
 
@@ -43,7 +45,7 @@
 
 2018年7月5日、自身の所属していたOVER GENERATIONが解散。その後は無所属として活動
 
-## 主な得意技
+## 得意技
 
 ボディビルダー型のビルドアップされた肉体が目を引くが、パワーより身体のバネと柔らかさを生かした闘いを見せる。肩に故障を抱えているため、力技の使用を避けている理由もある。
 

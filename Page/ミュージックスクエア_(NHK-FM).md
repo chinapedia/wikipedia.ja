@@ -1,4 +1,4 @@
-> この記事は[ \(NHK-FM\)](https://ja.wikipedia.org/wiki/_\(NHK-FM\))から翻訳されています。
+> この記事は[ミュージックスクエア \(NHK-FM\)](https://ja.wikipedia.org/wiki/ミュージックスクエア_\(NHK-FM\))から翻訳されています。
 
 
 『**ミュージック・スクエア**』（Music Square）は、かつて[NHK-FMで放送されていた](../Page/NHK-FM放送.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")。

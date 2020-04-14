@@ -1,4 +1,4 @@
-> この記事は[ -Aka-](https://ja.wikipedia.org/wiki/_-Aka-)から翻訳されています。
+> この記事は[朱 -Aka-](https://ja.wikipedia.org/wiki/朱_-Aka-)から翻訳されています。
 
 
 『'''朱 -Aka- '''』（あか）は[ねこねこソフト](../Page/ねこねこソフト.md "wikilink")による[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")発売（当初は[5月24日](../Page/5月24日.md "wikilink")発売予定だったが延期された）。

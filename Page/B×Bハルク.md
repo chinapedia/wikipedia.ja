@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[B×Bハルク](https://ja.wikipedia.org/wiki/B×Bハルク)から翻訳されています。
 
 
 **B×Bハルク**（ビー×ビー・ハルク、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**石原 輝政**（いしはら てるまさ）。
@@ -115,15 +115,15 @@
 
   - [オープン・ザ・ドリームゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・ドリームゲート王座 "wikilink")（第20代）
   - [オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink") 獲得7回
-      - 第18代・第26代（w / [戸澤陽](../Page/戸澤陽.md "wikilink")）
+      - 第18代・26代（w / [戸澤陽](../Page/戸澤陽.md "wikilink")）
       - 第20代（w / [谷崎なおき](https://ja.wikipedia.org/wiki/小野寺卓也 "wikilink")）
       - 第24代（w / [ウーハー・ネイション](https://ja.wikipedia.org/wiki/ウーハー・ネイション "wikilink")）
-      - 第43代・第47代（w / [YAMATO](../Page/YAMATO_\(プロレスラー\).md "wikilink")）
-      - 第48第（w / [KAZMA_SAKAMOTO](../Page/KAZMA_SAKAMOTO.md "wikilink")）
+      - 第43代・47代（w / [YAMATO](../Page/YAMATO_\(プロレスラー\).md "wikilink")）
+      - 第48代（w / [KAZMA SAKAMOTO](../Page/KAZMA_SAKAMOTO.md "wikilink")）
   - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink") 獲得8回
       - 第6代（w / [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")&[ジャック・エバンス](../Page/ジャック・エバンス.md "wikilink")）
       - 第9代（w / [アンソニー・W・森](../Page/アンソニー・W・森.md "wikilink")&[スペル・シーサー](../Page/スペル・シーサー.md "wikilink")）
-      - 第14代・第17代（w / [鷹木信悟](../Page/鷹木信悟.md "wikilink")&[サイバー・コング](../Page/吉田隆司.md "wikilink")）
+      - 第14代・17代（w / [鷹木信悟](../Page/鷹木信悟.md "wikilink")&[サイバー・コング](../Page/吉田隆司.md "wikilink")）
       - 第24代（w / [吉野正人](../Page/吉野正人.md "wikilink")&[PAC](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")）
       - 第36代（w / 戸澤陽&谷崎なおき）
       - 第44代（w / YAMATO&サイバー・コング）
@@ -222,7 +222,8 @@
 
 入場の際には曲に合わせてダンスを踊っていたが、現在は封印。ダンスがあった時のダンサーは会場の規模によって2人または4人と異なる。
 
-  - B×B STORY 2018 (現在使用中)
+  - DARKSIDE B×B STORY (現在使用中)
+  - B×B STORY 2019
   - B×B STORY 2017
   - B×B STORY -DEATH DANCE POISON- (rap by Kzy)
   - B×B STORY \#011 (rap by MAD)

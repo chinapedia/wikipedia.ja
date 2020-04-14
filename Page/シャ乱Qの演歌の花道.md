@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[シャ乱Qの演歌の花道](https://ja.wikipedia.org/wiki/シャ乱Qの演歌の花道)から翻訳されています。
 
 
 『**シャ乱Qの演歌の花道**』（シャランキューのえんかのはなみち）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に公開された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映画](../Page/映画.md "wikilink")。[フジテレビ製作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[東宝](../Page/東宝.md "wikilink")系で全国公開された。当時人気だった[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")・[シャ乱Q](../Page/シャ乱Q.md "wikilink")が総出演するギャグ物語である。かつての[クレージーキャッツ](https://ja.wikipedia.org/wiki/クレージーキャッツ "wikilink")の映画を想像させる作品。[滝田洋二郎](../Page/滝田洋二郎.md "wikilink")[監督](../Page/監督.md "wikilink")作品。同時上映は『[CAT'S EYE キャッツ・アイ](https://ja.wikipedia.org/wiki/キャッツ・アイ#実写映画 "wikilink")』。

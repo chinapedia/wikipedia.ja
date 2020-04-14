@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ビッグX](https://ja.wikipedia.org/wiki/ビッグX)から翻訳されています。
 
 
 『**ビッグX**』（ビッグエックス）は、[1963年](../Page/1963年.md "wikilink")[11月](../Page/11月.md "wikilink")から[1966年](../Page/1966年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まで[集英社](../Page/集英社.md "wikilink")『[少年ブック](https://ja.wikipedia.org/wiki/少年ブック "wikilink")』に連載されていた[手塚治虫](../Page/手塚治虫.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。また「ビッグX」は、薬品またはエネルギーの名称であると共に、それにより変身した主人公を指す場合もある。
@@ -216,12 +216,12 @@
 <td><p>つのだじろう</p></td>
 <td><p>佐々木哲治<br />
 (アートフレッシュ)</p></td>
-<td><p>9月4日</p></td>
+<td><p>9月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>毒ガス列車</p></td>
-<td><p>9月11日</p></td>
+<td><p>9月14日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -230,12 +230,12 @@
 <td><p>ラクダ島</p></td>
 <td><p>山野浩一</p></td>
 <td><p>アナグマ・プロ</p></td>
-<td><p>9月18日</p></td>
+<td><p>9月21日</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>死の湖の対決</p></td>
-<td><p>9月25日</p></td>
+<td><p>9月28日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -244,21 +244,21 @@
 <td><p>黒いオーロラ</p></td>
 <td><p>成橋均</p></td>
 <td><p>渡辺和彦</p></td>
-<td><p>10月2日</p></td>
+<td><p>10月5日</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>海の墓場</p></td>
 <td><p>つのだじろう</p></td>
 <td><p>不明</p></td>
-<td><p>10月2日</p></td>
+<td><p>10月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>悪魔の太陽</p></td>
 <td><p>村野守美<br />
 光山勝治</p></td>
-<td><p>10月16日</p></td>
+<td><p>11月2日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -267,7 +267,7 @@
 <td><p>山本グループ<br />
 (山本恵三・小沢協)</p></td>
 <td><p>佐田誠</p></td>
-<td><p>|10月26日</p></td>
+<td><p>|11月9日</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -275,7 +275,7 @@
 <td><p>保利吉紀</p></td>
 <td><p>村野守美<br />
 光山勝治</p></td>
-<td><p>11月2日</p></td>
+<td><p>11月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -283,35 +283,35 @@
 <td><p>堀川豊平<br />
 (東京動画プロ)</p></td>
 <td><p>東京動画プロ</p></td>
-<td><p>11月9日</p></td>
+<td><p>11月23日</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>毒ガス列車</p></td>
 <td><p>つのだじろう</p></td>
 <td><p>月岡威</p></td>
-<td><p>11月16日</p></td>
+<td><p>11月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>大怪鳥ヒンメル</p></td>
 <td><p>広瀬正</p></td>
 <td><p>佐田誠</p></td>
-<td><p>11月23日</p></td>
+<td><p>12月7日</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
 <td><p>宇宙人スナルリ</p></td>
 <td><p>つのだじろう</p></td>
 <td><p>朝岡隆志</p></td>
-<td><p>11月30日</p></td>
+<td><p>12月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>無重力線</p></td>
 <td><p>山野浩一</p></td>
 <td><p>清水浩二</p></td>
-<td><p>12月7日</p></td>
+<td><p>12月21日</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -319,7 +319,7 @@
 <td><p>山本グループ<br />
 (山本恵三・小沢協)</p></td>
 <td><p>アートフレッシュ</p></td>
-<td><p>12月14日</p></td>
+<td><p>12月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -328,14 +328,14 @@
 (アートフレッシュ)</p></td>
 <td><p>高木清<br />
 (アートフレッシュ)</p></td>
-<td><p>12月21日</p></td>
+<td><p>1月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>決戦20対21</p></td>
 <td><p>山野浩一</p></td>
 <td><p>岡本光輝</p></td>
-<td><p>12月28日</p></td>
+<td><p>1月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -350,21 +350,21 @@
 <td><p>狂った大噴水</p></td>
 <td><p>岡本光輝<br />
 鈴木英二</p></td>
-<td><p>1月11日</p></td>
+<td><p>1月25日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>幻の海賊船</p></td>
 <td><p>岡本光輝</p></td>
-<td><p>1月18日</p></td>
+<td><p>2月1日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
 <td><p>ロボット撃破指令</p></td>
 <td><p>小沢正</p></td>
-<td><p>1月25日</p></td>
+<td><p>2月8日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -373,21 +373,21 @@
 <td><p>小沢協<br />
 山本恵三</p></td>
 <td><p>佐田誠</p></td>
-<td><p>2月1日</p></td>
+<td><p>2月15日</p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
 <td><p>アリ地獄作戦</p></td>
 <td><p>小沢正</p></td>
 <td><p>清水浩二</p></td>
-<td><p>2月8日</p></td>
+<td><p>2月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>空中都市</p></td>
 <td><p>小沢協<br />
 (山本グループ)</p></td>
-<td><p>2月15日</p></td>
+<td><p>3月1日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -395,35 +395,35 @@
 <td><p>大竜神対ビッグX</p></td>
 <td><p>広瀬正</p></td>
 <td><p>岡本光輝</p></td>
-<td><p>2月22日</p></td>
+<td><p>3月8日</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>大昔ミサイル</p></td>
 <td><p>小沢正</p></td>
 <td><p>不明</p></td>
-<td><p>3月1日</p></td>
+<td><p>3月15日</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td><p>あの耳を狙え</p></td>
 <td><p>山本グループ</p></td>
 <td><p>清水浩二</p></td>
-<td><p>3月8日</p></td>
+<td><p>3月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>ロボット城</p></td>
 <td><p>山野浩一</p></td>
 <td><p>上野寿夫</p></td>
-<td><p>3月15日</p></td>
+<td><p>3月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>悲しき昆虫博士</p></td>
 <td><p>佐野美津男</p></td>
 <td><p>鈴木英二</p></td>
-<td><p>3月22日</p></td>
+<td><p>4月5日</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
@@ -431,69 +431,69 @@
 <td><p>小沢協<br />
 山本恵三</p></td>
 <td><p>清水浩二</p></td>
-<td><p>3月29日</p></td>
+<td><p>4月12日</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
 <td><p>真空人間サルベージ</p></td>
 <td><p>小沢正</p></td>
 <td><p>今泉俊明</p></td>
-<td><p>4月5日</p></td>
+<td><p>4月19日</p></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>地獄への扉</p></td>
 <td><p>山野浩一</p></td>
 <td><p>上野寿夫</p></td>
-<td><p>4月12日</p></td>
+<td><p>4月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
 <td><p>海底秘密研究所</p></td>
 <td><p>佐野美津男</p></td>
 <td><p>田中八寿雄</p></td>
-<td><p>4月19日</p></td>
+<td><p>5月3日</p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
 <td><p>宇宙の虎</p></td>
 <td><p>山野浩一</p></td>
 <td><p>梶平太朗</p></td>
-<td><p>4月26日</p></td>
+<td><p>5月10日</p></td>
 </tr>
 <tr class="even">
 <td><p>40</p></td>
 <td><p>大都市全滅作戦</p></td>
 <td><p>岡本欣三</p></td>
 <td><p>今泉俊明</p></td>
-<td><p>5月3日</p></td>
+<td><p>5月17日</p></td>
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
 <td><p>火の馬</p></td>
 <td><p>山野浩一</p></td>
 <td><p>おおいひさし</p></td>
-<td><p>5月10日</p></td>
+<td><p>5月24日</p></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
 <td><p>虹の国から</p></td>
 <td><p>鈴木英二</p></td>
-<td><p>5月17日</p></td>
+<td><p>5月31日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
 <td><p>雪男の泉</p></td>
 <td><p>今泉俊明</p></td>
-<td><p>5月24日</p></td>
+<td><p>6月7日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
 <td><p>銀河に向って</p></td>
 <td><p>梶兵太朗</p></td>
-<td><p>5月31日</p></td>
+<td><p>6月14日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -501,14 +501,14 @@
 <td><p>パール博士の発明</p></td>
 <td><p>岡本欣三</p></td>
 <td><p>泉久次</p></td>
-<td><p>6月7日</p></td>
+<td><p>6月21日</p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>
 <td><p>エンゼルの星<br />
 （エンゼル星よりの使者）</p></td>
 <td><p>花島邦彦</p></td>
-<td><p>6月14日</p></td>
+<td><p>6月28日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -516,13 +516,13 @@
 <td><p>ニーナの危機</p></td>
 <td><p>岡本欣三</p></td>
 <td><p>岡部英二</p></td>
-<td><p>6月21日</p></td>
+<td><p>7月5日</p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
 <td><p>セントローザの秘密</p></td>
 <td><p>泉久次</p></td>
-<td><p>6月28日</p></td>
+<td><p>7月12日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -530,14 +530,14 @@
 <td><p>宇宙ランドの秘密</p></td>
 <td><p>花島邦彦</p></td>
 <td><p>おおいひさし</p></td>
-<td><p>7月5日</p></td>
+<td><p>7月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>50</p></td>
 <td><p>大くらげ出現</p></td>
 <td><p>岡本欣三</p></td>
 <td><p>泉久次</p></td>
-<td><p>7月12日</p></td>
+<td><p>7月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>51</p></td>
@@ -545,13 +545,13 @@
 (グレート"3"スリー)</p></td>
 <td><p>山野浩一</p></td>
 <td><p>岡部英二</p></td>
-<td><p>7月19日</p></td>
+<td><p>8月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>52</p></td>
 <td><p>地球!五氷河期</p></td>
 <td><p>泉久次</p></td>
-<td><p>7月26日</p></td>
+<td><p>8月9日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -559,13 +559,13 @@
 <td><p>サマリンガの魔法使い</p></td>
 <td><p>岡本欣三</p></td>
 <td><p>木下蓮三</p></td>
-<td><p>8月2日</p></td>
+<td><p>8月16日</p></td>
 </tr>
 <tr class="even">
 <td><p>54</p></td>
 <td><p>人面獣ゾンビー</p></td>
 <td><p>泉久次</p></td>
-<td><p>8月9日</p></td>
+<td><p>8月23日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -573,28 +573,28 @@
 <td><p>サンゴ礁の奇跡</p></td>
 <td><p>木村三四郎</p></td>
 <td><p>後藤田信広</p></td>
-<td><p>8月16日</p></td>
+<td><p>8月30日</p></td>
 </tr>
 <tr class="even">
 <td><p>56</p></td>
 <td><p>ハンスの復讐</p></td>
 <td><p>山野浩一</p></td>
 <td><p>不明</p></td>
-<td><p>8月23日</p></td>
+<td><p>9月6日</p></td>
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
 <td><p>アマゾンの黒雲</p></td>
 <td><p>内田弘三</p></td>
 <td><p>本間文幸</p></td>
-<td><p>8月30日</p></td>
+<td><p>9月13日</p></td>
 </tr>
 <tr class="even">
 <td><p>58</p></td>
 <td><p>大氷河の決戦<br />
 （大氷原の決戦）</p></td>
 <td><p>今泉俊昭</p></td>
-<td><p>9月6日</p></td>
+<td><p>9月20日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -604,14 +604,14 @@
 泉久次</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大隅正秋" title="wikilink">大隅正秋</a><br />
 岡部英二</p></td>
-<td><p>9月20日</p></td>
+<td><p>9月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>60</p></td>
 <td><p>最後の決戦</p></td>
 <td><p>泉久次</p></td>
 <td><p>今泉俊昭</p></td>
-<td><p>9月27日</p></td>
+<td><p>10月4日</p></td>
 </tr>
 </tbody>
 </table>

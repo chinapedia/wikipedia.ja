@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[コヴェントリー・シティFC](https://ja.wikipedia.org/wiki/コヴェントリー・シティFC)から翻訳されています。
 
 
 **コヴェントリー・シティFC**（Coventry City Football Club）は、[イングランド](../Page/イングランド.md "wikilink")・[コヴェントリー](../Page/コヴェントリー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

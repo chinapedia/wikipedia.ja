@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCワールドニュース](https://ja.wikipedia.org/wiki/BBCワールドニュース)から翻訳されています。
 
 
 **BBCワールドニュース**（ビービーシーワールドニュース、）は、[英国放送協会](../Page/英国放送協会.md "wikilink") (BBC)の[国外向けテレビ放送局である](../Page/国際放送.md "wikilink")。

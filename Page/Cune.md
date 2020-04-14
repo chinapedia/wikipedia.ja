@@ -150,7 +150,7 @@
   - [cune official site（オフィシャルサイト）](http://cune-official.com/)
   - [cune Official blog（オフィシャルブログ）](http://cune-sol.jugem.jp//)
   - [six strings days.(ギター・生熊耕治のブログ)](http://blog.livedoor.jp/ikuma502/)
-  - [新・あだ名は中村泰造です（ベース・中村泰造のブログ）](http://ameblo.jp/taizo-nakamura/)
+  - [新・あだ名は中村泰造です（ベース・中村泰造のブログ）](https://ameblo.jp/taizo-nakamura/)
   - [Ryozo Kobayashi Ofifcial blog(元ボーカル・小林亮三のブログ)](http://soulgradation.cocolog-nifty.com/blog/)
   - [NAMIOTO WEB SITE(小林亮三改め波音のサイト)](http://namiotomusic.wix.com/home)
 

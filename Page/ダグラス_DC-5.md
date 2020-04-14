@@ -1,4 +1,4 @@
-> この記事は[ DC-5](https://ja.wikipedia.org/wiki/_DC-5)から翻訳されています。
+> この記事は[ダグラス DC-5](https://ja.wikipedia.org/wiki/ダグラス_DC-5)から翻訳されています。
 
 
 |                                       ダグラス DC-5                                       |

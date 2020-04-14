@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR中標津トラベルセンター](https://ja.wikipedia.org/wiki/JR中標津トラベルセンター)から翻訳されています。
 
 
 **JR中標津トラベルセンター**（ジェイアールなかしべつトラベルセンター）は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[標津郡](../Page/標津郡.md "wikilink")[中標津町](../Page/中標津町.md "wikilink")西3条北1丁目におかれていた[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）の営業窓口である。

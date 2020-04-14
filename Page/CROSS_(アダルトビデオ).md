@@ -1,4 +1,4 @@
-> この記事は[CROSS \(\)](https://ja.wikipedia.org/wiki/CROSS_\(\))から翻訳されています。
+> この記事は[CROSS \(アダルトビデオ\)](https://ja.wikipedia.org/wiki/CROSS_\(アダルトビデオ\))から翻訳されています。
 
 
 **CROSS**（クロス）は、日本の[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")。

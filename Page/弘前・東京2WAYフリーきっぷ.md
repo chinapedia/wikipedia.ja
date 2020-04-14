@@ -1,4 +1,4 @@
-> この記事は[2WAY](https://ja.wikipedia.org/wiki/2WAY)から翻訳されています。
+> この記事は[弘前・東京2WAYフリーきっぷ](https://ja.wikipedia.org/wiki/弘前・東京2WAYフリーきっぷ)から翻訳されています。
 
 
 **弘前・東京2WAYフリーきっぷ**とは、[JR東日本](../Page/東日本旅客鉄道.md "wikilink")[秋田支社が発売していた](../Page/東日本旅客鉄道秋田支社.md "wikilink")、[弘前駅](../Page/弘前駅.md "wikilink")周辺の駅と[首都圏を往復し](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、かつ首都圏が有効期間乗り放題となる[特別企画乗車券](../Page/特別企画乗車券.md "wikilink")（「トクトクきっぷ」）である。

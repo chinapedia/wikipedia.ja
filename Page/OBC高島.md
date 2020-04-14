@@ -1,4 +1,4 @@
-> この記事は[OBC](https://ja.wikipedia.org/wiki/OBC)から翻訳されています。
+> この記事は[OBC高島](https://ja.wikipedia.org/wiki/OBC高島)から翻訳されています。
 
 
 **OBC高島**（OBCたかしま）は、[滋賀県](../Page/滋賀県.md "wikilink")[高島市](../Page/高島市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。[大家友和ベースボールクラブ](https://ja.wikipedia.org/wiki/大家友和ベースボールクラブ "wikilink")が結成し、[大家友和](../Page/大家友和.md "wikilink")がゼネラルマネジャーを務める。

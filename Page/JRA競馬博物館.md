@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA競馬博物館](https://ja.wikipedia.org/wiki/JRA競馬博物館)から翻訳されています。
 
 
 **JRA競馬博物館**（ジェイアールエーけいばはくぶつかん）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が運営する[競馬](../Page/競馬.md "wikilink")を専門にした展示施設である。[1991年](../Page/1991年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")にオープンした\[1\]。

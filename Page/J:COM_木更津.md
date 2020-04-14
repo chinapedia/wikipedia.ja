@@ -1,4 +1,4 @@
-> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+> この記事は[J:COM 木更津](https://ja.wikipedia.org/wiki/J:COM_木更津)から翻訳されています。
 
 
 **J:COM 木更津**（ジェイコム きさらづ）は、株式会社[ジェイコム千葉](../Page/ジェイコム千葉.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。

@@ -1,4 +1,4 @@
-> この記事は[NWA](https://ja.wikipedia.org/wiki/NWA)から翻訳されています。
+> この記事は[歴代NWA世界ヘビー級王者](https://ja.wikipedia.org/wiki/歴代NWA世界ヘビー級王者)から翻訳されています。
 
 
 **歴代NWA世界ヘビー級王者**（れきだいNWAせかいヘビーきゅうおうじゃ）は、[NWAが管理する](../Page/NWA_\(プロレス\).md "wikilink")[チャンピオンベルト](../Page/チャンピオンベルト.md "wikilink")である[NWA世界ヘビー級王座](../Page/NWA世界ヘビー級王座.md "wikilink")を獲得したことがある人物の一覧である。

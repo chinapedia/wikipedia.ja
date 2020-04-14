@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[在日米軍のNHK受信料問題](https://ja.wikipedia.org/wiki/在日米軍のNHK受信料問題)から翻訳されています。
 
 
 **在日米軍のNHK受信料問題**（ざいにちべいぐんのNHKじゅしんりょうもんだい）とは、[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")が[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wikilink")契約を拒否している問題。

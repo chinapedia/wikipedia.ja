@@ -1,4 +1,4 @@
-> この記事は[QUICK](https://ja.wikipedia.org/wiki/QUICK)から翻訳されています。
+> この記事は[日経QUICKニュース](https://ja.wikipedia.org/wiki/日経QUICKニュース)から翻訳されています。
 
 
 **日経QUICKニュース**とは、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）グループの[通信社](../Page/通信社.md "wikilink")、株式会社日経QUICKニュース社が配信する記事のブランドネームである。

@@ -1,4 +1,4 @@
-> この記事は[JAT](https://ja.wikipedia.org/wiki/JAT)から翻訳されています。
+> この記事は[JATユーゴスラビア航空機爆破事件](https://ja.wikipedia.org/wiki/JATユーゴスラビア航空機爆破事件)から翻訳されています。
 
 
 **JATユーゴスラビア航空機爆破事件**（JATこうくうきばくはじけん）とは[1972年](../Page/1972年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[JATユーゴスラビア航空の](https://ja.wikipedia.org/wiki/Jat航空 "wikilink")[ダグラスDC-9-30](../Page/マクドネル・ダグラス_DC-9.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")が飛行中に爆破された[テロ事件である](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。

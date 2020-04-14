@@ -1,4 +1,4 @@
-> この記事は[Gift ](https://ja.wikipedia.org/wiki/Gift_)から翻訳されています。
+> この記事は[Gift 〜ギフト〜](https://ja.wikipedia.org/wiki/Gift_〜ギフト〜)から翻訳されています。
 
 
 『**Gift 〜ギフト〜**』（ギフト）は、[MOONSTONE](../Page/MOONSTONE.md "wikilink")が[2005年](../Page/2005年.md "wikilink")5月27日に発売した、[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。MOONSTONEの制作したものとしては4作目にあたる。

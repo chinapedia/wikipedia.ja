@@ -1,4 +1,4 @@
-> この記事は[KIX-S \(\)](https://ja.wikipedia.org/wiki/KIX-S_\(\))から翻訳されています。
+> この記事は[KIX-S \(アルバム\)](https://ja.wikipedia.org/wiki/KIX-S_\(アルバム\))から翻訳されています。
 
 
 『**KIX-S**』（キックス）は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](../Page/二人組.md "wikilink")[KIX-S](../Page/KIX-S.md "wikilink")の1枚目のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[1998 FIFA \(AFC-OFC\)](https://ja.wikipedia.org/wiki/1998_FIFA_\(AFC-OFC\))から翻訳されています。
+> この記事は[1998 FIFAワールドカップ・大陸間プレーオフ \(AFC-OFC\)](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・大陸間プレーオフ_\(AFC-OFC\))から翻訳されています。
 
 
 この項目では[1998 FIFAワールドカップ・アジア予選で](../Page/1998_FIFAワールドカップ・アジア予選.md "wikilink")4位の[イラン代表](../Page/サッカーイラン代表.md "wikilink")（[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）加盟）と[1998 FIFAワールドカップ・オセアニア予選で優勝した](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・オセアニア予選 "wikilink")[オーストラリア代表](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")（[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）加盟）との間で[1998 FIFAワールドカップへの出場権をかけて行われた大陸間](../Page/1998_FIFAワールドカップ.md "wikilink")[プレーオフ](../Page/プレーオフ.md "wikilink")について記す。

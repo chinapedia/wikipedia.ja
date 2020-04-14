@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJモノフェスタ](https://ja.wikipedia.org/wiki/DJモノフェスタ)から翻訳されています。
 
 
 **ディノスショッピングジャーナル DJモノフェスタ**（でぃーじぇいものふぇすた）とは、[フジテレビをはじめとする](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS系列及びFNS系列の置局のない地域におけるフジテレビと関係の深い他系列局](../Page/フジネットワーク.md "wikilink")、一部のCS放送局で放送されている[テレビショッピング](../Page/テレビショッピング.md "wikilink")番組。

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[広島瓦斯電軌H形電車](https://ja.wikipedia.org/wiki/広島瓦斯電軌H形電車)から翻訳されています。
 
 
 **広島瓦斯電軌H形電車**（ひろしまがすでんきHがたでんしゃ）は、広島瓦斯電軌（後の[広島電鉄](../Page/広島電鉄.md "wikilink")）が[1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）に新製した、[宮島線](https://ja.wikipedia.org/wiki/広島電鉄宮島線 "wikilink")（鉄道線）専用の[電車](../Page/電車.md "wikilink")である。

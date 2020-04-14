@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[広島瓦斯電軌C形電車](https://ja.wikipedia.org/wiki/広島瓦斯電軌C形電車)から翻訳されています。
 
 
 **広島瓦斯電軌C形電車**（ひろしまがすでんきCがたでんしゃ）は、広島瓦斯電軌（後の[広島電鉄](../Page/広島電鉄.md "wikilink")）が[1922年](../Page/1922年.md "wikilink")（[大正](../Page/大正.md "wikilink")11年）に導入した[電車](../Page/電車.md "wikilink")である。同社[宮島線用に導入された鉄道線規格の車両で](https://ja.wikipedia.org/wiki/広島電鉄宮島線 "wikilink")、市内線（[路面電車](../Page/路面電車.md "wikilink")）の車両に対して床の地表からの高さが高かったため、「高床車」とも呼ばれた。

@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSワイド京都](https://ja.wikipedia.org/wiki/NEWSワイド京都)から翻訳されています。
 
 
 『**NEWSワイド京都**』（ニュースワイドきょうと）は、[1996年](../Page/1996年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。

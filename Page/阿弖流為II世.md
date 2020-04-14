@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[阿弖流為II世](https://ja.wikipedia.org/wiki/阿弖流為II世)から翻訳されています。
 
 
 『**阿弖流為II世**』（アテルイにせい）は、原作・[高橋克彦](../Page/高橋克彦.md "wikilink")、作画・[原哲夫](../Page/原哲夫.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミックGOTTA](../Page/コミックGOTTA.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）で[2000年](../Page/2000年.md "wikilink")8月号から12月号まで連載された。単行本は全1巻。

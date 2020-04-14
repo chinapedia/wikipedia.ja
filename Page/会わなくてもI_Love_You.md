@@ -1,4 +1,4 @@
-> この記事は[I Love You](https://ja.wikipedia.org/wiki/I_Love_You)から翻訳されています。
+> この記事は[会わなくてもI Love You](https://ja.wikipedia.org/wiki/会わなくてもI_Love_You)から翻訳されています。
 
 
 **会わなくてもI Love You**（あわなくても アイ・ラブ・ユー）は、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")の5枚目のアルバム。

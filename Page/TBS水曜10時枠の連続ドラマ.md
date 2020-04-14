@@ -1,4 +1,4 @@
-> この記事は[TBS10](https://ja.wikipedia.org/wiki/TBS10)から翻訳されています。
+> この記事は[TBS水曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS水曜10時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS水曜10時枠の連続ドラマ**は、1974年10月～1984年9月・2001年4月～2004年3月にかけて、[TBS](../Page/TBSテレビ.md "wikilink")[系列で毎週](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[水曜日](../Page/水曜日.md "wikilink")の22:00～22:54（1982年9月までは22:00-22:55）に[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[枠](https://ja.wikipedia.org/wiki/枠 "wikilink")である。[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")は1975年4月～1984年9月が[準キー局](../Page/準キー局.md "wikilink")の[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")(MBS)で、1974年10月～1975年3月と2001年4月～2004年3月がTBSテレビ(TBS)。

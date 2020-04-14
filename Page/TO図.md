@@ -1,4 +1,4 @@
-> この記事は[TO](https://ja.wikipedia.org/wiki/TO)から翻訳されています。
+> この記事は[TO図](https://ja.wikipedia.org/wiki/TO図)から翻訳されています。
 
 
 [T_and_O_map_Guntherus_Ziner_1472.jpg](https://ja.wikipedia.org/wiki/File:T_and_O_map_Guntherus_Ziner_1472.jpg "fig:T_and_O_map_Guntherus_Ziner_1472.jpg")、1472年)。セビリャのイシドルス『語源』の第14章の最初のページより。3大陸がそれぞれノアの3人の息子―Sem([セム](../Page/セム.md "wikilink"))、Iafeth([ヤペテ](../Page/ヤペテ.md "wikilink"))、Cham([ハム](../Page/ハム_\(聖書\).md "wikilink"))―の領域とされている。\]\] [Hereford_Mappa_Mundi_1300.jpg](https://ja.wikipedia.org/wiki/File:Hereford_Mappa_Mundi_1300.jpg "fig:Hereford_Mappa_Mundi_1300.jpg")」、1300年頃、[ヘレフォード大聖堂](https://ja.wikipedia.org/wiki/ヘレフォード大聖堂 "wikilink")、イングランド。エルサレムを中央に配置し、東を上にして、ヨーロッパを左下にアフリカを右下に配置した古典的なTO図である。\]\]

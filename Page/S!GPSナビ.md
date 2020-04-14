@@ -1,4 +1,4 @@
-> この記事は[S!GPS](https://ja.wikipedia.org/wiki/S!GPS)から翻訳されています。
+> この記事は[S!GPSナビ](https://ja.wikipedia.org/wiki/S!GPSナビ)から翻訳されています。
 
 
 **S\!GPSナビ**（エス！ジーピーエスナビ）とは[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[GPSナビゲーションサービスである](../Page/グローバル・ポジショニング・システム.md "wikilink")。ボーダフォン国際データローミングに対応しているため、国内はもちろん海外の一部地域でもナビゲーションが可能となっている。ボーダフォン時代の旧称は**Vodafone live\! NAVI**。

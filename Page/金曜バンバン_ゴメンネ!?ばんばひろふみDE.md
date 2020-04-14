@@ -1,4 +1,4 @@
-> この記事は[ !\?DE](https://ja.wikipedia.org/wiki/_!\?DE)から翻訳されています。
+> この記事は[金曜バンバン ゴメンネ!\?ばんばひろふみDE](https://ja.wikipedia.org/wiki/金曜バンバン_ゴメンネ!\?ばんばひろふみDE)から翻訳されています。
 
 
 **金曜バンバン ゴメンネ\!?ばんばひろふみDE**は、[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[ラジオ関西](../Page/ラジオ関西.md "wikilink")（当時のAM KOBE）の番組である。

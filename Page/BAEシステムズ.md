@@ -1,4 +1,4 @@
-> この記事は[BAE](https://ja.wikipedia.org/wiki/BAE)から翻訳されています。
+> この記事は[BAEシステムズ](https://ja.wikipedia.org/wiki/BAEシステムズ)から翻訳されています。
 
 
 **BAEシステムズ**（）は、[1999年](../Page/1999年.md "wikilink")に設立された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[国防](../Page/国防.md "wikilink")・[情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")・[航空宇宙関連企業である](https://ja.wikipedia.org/wiki/航空宇宙産業 "wikilink")。本社は[ハンプシャー州](https://ja.wikipedia.org/wiki/ハンプシャー州 "wikilink")[ファーンボロー](https://ja.wikipedia.org/wiki/ファーンボロー "wikilink")にある旧[ブリティッシュ・エアロスペース](../Page/ブリティッシュ・エアロスペース.md "wikilink")本社だが、登記上の本社所在地は[ロンドン](../Page/ロンドン.md "wikilink")[シティ・オブ・ウェストミンスター](../Page/シティ・オブ・ウェストミンスター.md "wikilink")である。2017年5月に英財務省から、テロ組織と[麻薬カルテル](https://ja.wikipedia.org/wiki/麻薬カルテル "wikilink")の金融犯罪を捜査する際の支援者に選ばれた\[1\]。過去には[HSBCホールディングス](../Page/HSBCホールディングス.md "wikilink")が麻薬カルテルと関係している。

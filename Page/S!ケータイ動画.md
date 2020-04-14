@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!ケータイ動画](https://ja.wikipedia.org/wiki/S!ケータイ動画)から翻訳されています。
 
 
 **S\!ケータイ動画**（えす！けーたいどうが）は、過去にソフトバンクモバイル(現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink"))が提供していた[3G](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")向けの大容量[コンテンツ](../Page/コンテンツ.md "wikilink")配信サービスである。[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")時代の旧称は**Vodafone live\! BB**（ボーダフォンライブ！ビービー）。

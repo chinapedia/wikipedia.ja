@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[A列車で行こう \(ジャズ\)](https://ja.wikipedia.org/wiki/A列車で行こう_\(ジャズ\))から翻訳されています。
 
 
 **「A列車で行こう」** (*Take the 'A' Train*) は、ジャズの[スタンダード・ナンバー](../Page/スタンダード・ナンバー.md "wikilink")の一つ。

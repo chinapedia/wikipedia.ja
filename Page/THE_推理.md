@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 推理](https://ja.wikipedia.org/wiki/THE_推理)から翻訳されています。
 
 
 『**THE 推理**』（ザ・すいり）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に発売された「[SIMPLE1500シリーズ](../Page/SIMPLEシリーズ.md "wikilink")」第59作目の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。開発は[トムキャットシステム](https://ja.wikipedia.org/wiki/トムキャットシステム "wikilink")が担当。以後シリーズ化され、2011年3月現在までに6作がソフトとして発売、1作が携帯電話のアプリで配信されている。

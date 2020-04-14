@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBC交響楽団](https://ja.wikipedia.org/wiki/NBC交響楽団)から翻訳されています。
 
 
 **NBC交響楽団**（）は、[アメリカに](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[1937年](../Page/1937年.md "wikilink")から[1954年](../Page/1954年.md "wikilink")までの間存在した[オーケストラ](../Page/オーケストラ.md "wikilink")である。その後継団体**シンフォニー・オブ・ジ・エア**（The Symphony of the Air）は[1963年](../Page/1963年.md "wikilink")まで活動を継続した。20世紀の名[指揮者](../Page/指揮者.md "wikilink")[アルトゥーロ・トスカニーニ](../Page/アルトゥーロ・トスカニーニ.md "wikilink")の演奏をラジオ放送することを主目的に編成され、彼のタクトのもと、多くの録音を残したことで著名である。本項でもトスカニーニとの関係を中心に記述する。

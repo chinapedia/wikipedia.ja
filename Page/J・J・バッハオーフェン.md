@@ -1,4 +1,4 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・バッハオーフェン](https://ja.wikipedia.org/wiki/J・J・バッハオーフェン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Johann_Jacob_Bachofen.jpg "wikilink") **ヨハン・ヤーコプ・バッハオーフェン**（Johann Jakob Bachofen、[1815年](../Page/1815年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") - [1887年](../Page/1887年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")）は、[スイス](../Page/スイス.md "wikilink")の[文化人類学者](https://ja.wikipedia.org/wiki/文化人類学者 "wikilink")、[社会学者](https://ja.wikipedia.org/wiki/社会学者 "wikilink")、[法学者](https://ja.wikipedia.org/wiki/法学者 "wikilink")。[サヴィニーに強く影響を受けた](../Page/フリードリヒ・カール・フォン・サヴィニー.md "wikilink")[歴史法学](../Page/歴史法学.md "wikilink")派の一員。
@@ -7,21 +7,21 @@
 
 ## 人物
 
-バッハオーフェンの研究は[ルイス・モルガンによる発展を介して](../Page/ルイス・ヘンリー・モーガン.md "wikilink")、[ヴァルター・ベンヤミン](../Page/ヴァルター・ベンヤミン.md "wikilink")、[エーリヒ・フロム](../Page/エーリヒ・フロム.md "wikilink")、[トーマス・マン](../Page/トーマス・マン.md "wikilink")、[ロバート・グレーヴス](../Page/ロバート・グレーヴス.md "wikilink")、[ライナー・マリア・リルケ](../Page/ライナー・マリア・リルケ.md "wikilink")等に多大な影響を与えた。[エンゲルスは](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")『[家族・私有財産・国家の起源](../Page/家族・私有財産・国家の起源.md "wikilink")』の序文でバッハオーフェンについて大きく言及している。
+バッハオーフェンの研究は[ルイス・モルガンによる発展を介して](../Page/ルイス・ヘンリー・モーガン.md "wikilink")、[ヴァルター・ベンヤミン](../Page/ヴァルター・ベンヤミン.md "wikilink")、[エーリヒ・フロム](../Page/エーリヒ・フロム.md "wikilink")、[トーマス・マン](../Page/トーマス・マン.md "wikilink")、[ロバート・グレーヴス](../Page/ロバート・グレーヴス.md "wikilink")、[ライナー・マリア・リルケ](../Page/ライナー・マリア・リルケ.md "wikilink")などに多大な影響を与えた。[エンゲルスは](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")『[家族・私有財産・国家の起源](../Page/家族・私有財産・国家の起源.md "wikilink")』の序文でバッハオーフェンについて大きく言及している。
 
-バッハオーフェンは、文化進化の4つの段階を提案した。
+バッハオーフェンは、文化進化の4つの段階を提案して考察を行った。
 
-1\) Hetairism。母権制前の乱婚の段階。バッハオーフェンは、プロト[アプロディーテー](../Page/アプロディーテー.md "wikilink")を土着の支配的神と考えた。
+1\) Hetairism。母権制前の乱婚の段階。プロト[アプロディーテー](../Page/アプロディーテー.md "wikilink")を土着の支配的神と考えた。
 
-2）Das Mutterecht。母権制。農業に基づいて、常習的神秘的[カルト](../Page/カルト.md "wikilink")と[法律](../Page/法律.md "wikilink")の出現とバッハオーフェンに特徴付けられた一夫一婦制で且つ女性支配の「月の」段階。バッハオーフェンは初期の[デメテル](https://ja.wikipedia.org/wiki/デメテル "wikilink")を支配的神と考えた。
+2）Das Mutterecht。母権制。農業に基づく、常習的な神秘的[カルト](../Page/カルト.md "wikilink")と[法律](../Page/法律.md "wikilink")の出現と一夫一婦制かつ女性支配の「月の」段階。初期の[デメテル](https://ja.wikipedia.org/wiki/デメテル "wikilink")を支配的神と考えた。
 
-3）Dionysian。家長制度が誕生し始めたので父権化する。オリジナルの[ディオニュソス](https://ja.wikipedia.org/wiki/ディオニュソス "wikilink")を支配的神と考えた。
+3）Dionysian。家長制度が誕生し始めたため父権化する。オリジナルの[ディオニュソス](https://ja.wikipedia.org/wiki/ディオニュソス "wikilink")を支配的神と考えた。
 
-4）Apollonian。過去の Matriarchal と Dionysian のすべての痕跡が消える、そして、現代の文明が出てきた父権的な「太陽の」段階。
+4）Apollonian。過去の Matriarchal と Dionysian のすべての痕跡が消える。そして、現代の文明があらわれてくる父権的な「太陽の」段階。
 
-このモデルは実証主義から反論が出されるまで影響力を持った（→[地母神\#母権制と女神の歴史](https://ja.wikipedia.org/wiki/地母神#母権制と女神の歴史 "wikilink")、[天空神\#概念の歴史](https://ja.wikipedia.org/wiki/天空神#概念の歴史 "wikilink")）。
+このモデルは20世紀に実証主義から批判が出されるまで影響力を保った（→[地母神\#母権制と女神の歴史](https://ja.wikipedia.org/wiki/地母神#母権制と女神の歴史 "wikilink")、[天空神\#概念の歴史](https://ja.wikipedia.org/wiki/天空神#概念の歴史 "wikilink")）。
 
-キリスト教徒間俗説に倣って[アーリア](https://ja.wikipedia.org/wiki/アーリア "wikilink")概念を西洋に限定してしまう[ジョゼフ・キャンベル](https://ja.wikipedia.org/wiki/ジョゼフ・キャンベル "wikilink")の「西洋の神話学」その他によって注意されたように――しかしその書でバッハオーフェンにもその著『母権制』にも触れていないし、『母権制』においてアーリアへの言及もないが――バッハオーフェンの理論は宗教、文化、社会についてのアーリア民族起源論への急進的な反対において立っている。
+『西洋の神話学』を著した[ジョゼフ・キャンベル](https://ja.wikipedia.org/wiki/ジョゼフ・キャンベル "wikilink")などの注意を引いたように、バッハオーフェンの理論は結果として宗教・文化・社会の[アーリア](https://ja.wikipedia.org/wiki/アーリア "wikilink")民族起源論に鋭い反対を突きつけている。
 
 ## 経歴
 

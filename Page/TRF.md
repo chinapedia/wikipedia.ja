@@ -1,7 +1,7 @@
 > この記事は[TRF](https://ja.wikipedia.org/wiki/TRF)から翻訳されています。
 
 
-**TRF**（ティーアールエフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混成5人組[ダンス&ボーカルグループ](../Page/音楽ユニット.md "wikilink")。
+**TRF**（ティーアールエフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混成5人組[ダンス&ボーカルグループ](../Page/音楽ユニット.md "wikilink")。1993年、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")のプロデュースによりtrfとしてデビュー。1996年のシングル『Hey\! Ladies & Gentlemen』より大文字のTRFに改称した。
 
 ## 概要
 
@@ -409,7 +409,7 @@
   - EZ DO DANCE retracked by Yasutaka Nakata (capsule)（2010年8月2日）★→『TRF TRIBUTE ALBUM BEST』に収録
   - 寒い夜だから… feat. INFINITY16 & GOKIGEN SOUND（2011年1月19日）★→『TRF TRIBUTE ALBUM BEST』に収録
   - PUSH YOUR BACK（[テレビ朝日](../Page/テレビ朝日.md "wikilink")プロモーシャルソング）（2013年1月30日）★→『[WATCH THE MUSIC](https://ja.wikipedia.org/wiki/WATCH_THE_MUSIC "wikilink")』に収録
-  - [Get Wild](../Page/Get_Wild.md "wikilink") -live ver.- / TRF x [access](https://ja.wikipedia.org/wiki/access "wikilink")名義 (2018年12月16日) accessとのジョイントライブの際に披露された曲を音源化
+  - [Get Wild](../Page/Get_Wild.md "wikilink") -live ver.- / TRF x [access名義](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink") (2018年12月16日) accessとのジョイントライブの際に披露された曲を音源化
   - LET ME GO MY WAY feat. [Daisuke Asakura](../Page/浅倉大介.md "wikilink") (2018年12月16日)
 
 ### アルバム

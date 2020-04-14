@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ヴィラヤヌル・S・ラマチャンドラン](https://ja.wikipedia.org/wiki/ヴィラヤヌル・S・ラマチャンドラン)から翻訳されています。
 
 
 [Vilayanur_S_Ramachandran_2011_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:Vilayanur_S_Ramachandran_2011_Shankbone.JPG "fig:Vilayanur_S_Ramachandran_2011_Shankbone.JPG") **ヴィラヤヌル・スブラマニアン・ラマチャンドラン** （<span lang="en">**Vilayanur Subramanian Ramachandran**</span>, [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") – ）は[インド](../Page/インド.md "wikilink")出身の[アメリカの神経科医](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、心理学・神経科学者。 [カリフォルニア大学サンディエゴ校](../Page/カリフォルニア大学サンディエゴ校.md "wikilink")の神経科学研究所 <span lang="en">(Center for Brain and Cognition)</span> の所長を務める。 種々の神経疾患を取り扱った一般書『脳のなかの幽霊』の著者として知られる。

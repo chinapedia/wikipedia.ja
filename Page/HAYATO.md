@@ -57,7 +57,7 @@
 
 ## 外部リンク
 
-  - [HAYATO OFFICIAL BLOG 〜Off The Ring〜](http://ameblo.jp/hayato88-10/)
+  - [HAYATO OFFICIAL BLOG 〜Off The Ring〜](https://ameblo.jp/hayato88-10/)
   - [HAYATO GYM](http://www.hayatogym.com/)
   - [K-1 選手データ](http://www.k-1.co.jp/jp/fighter/player.php?index=hayato)
   - [株式会社ヴェスパエンターテインメント](http://www.vespaenter.co.jp/)

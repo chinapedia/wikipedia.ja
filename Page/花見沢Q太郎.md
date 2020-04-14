@@ -1,17 +1,17 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[花見沢Q太郎](https://ja.wikipedia.org/wiki/花見沢Q太郎)から翻訳されています。
 
 
 **花見沢 Q太郎**（はなみざわ キューたろう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[新潟県](../Page/新潟県.md "wikilink")[阿賀野市](https://ja.wikipedia.org/wiki/阿賀野市 "wikilink")（旧・[北蒲原郡](../Page/北蒲原郡.md "wikilink")[水原町](../Page/水原町.md "wikilink")）出身。[道都大学](https://ja.wikipedia.org/wiki/道都大学 "wikilink")美術学部中退\[1\]。愛称は「花Q」。
 
 ## 経歴
 
-[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")を中心とした[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動を行っており、大学一学年の夏休み頃に投稿を始め、二学年時には[1993年](../Page/1993年.md "wikilink")、『夏の日』（[司書房](https://ja.wikipedia.org/wiki/司書房 "wikilink")）でデビュー。北海道の大学は中退し、埼玉県に移住。
+[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")を中心とした[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動を行っており、大学二学年の夏休み頃に投稿を始め、同年中（[1993年](../Page/1993年.md "wikilink")）に『夏の日』（[司書房](https://ja.wikipedia.org/wiki/司書房 "wikilink")）でデビュー。漫画家に専念するために北海道の大学は二年で中退し埼玉県に移住。
 
 その後、[少年画報社](../Page/少年画報社.md "wikilink")の『[ヤングキング](../Page/ヤングキング.md "wikilink")』誌上で、『[ちまちまはいすくーる](../Page/ちまちまはいすくーる.md "wikilink")』『[痛快すずらん通り](../Page/痛快すずらん通り.md "wikilink")』『[HoneyBlue](../Page/HoneyBlue.md "wikilink")』など、[思春期](../Page/思春期.md "wikilink")から[青春](../Page/青春.md "wikilink")期の[少女](../Page/少女.md "wikilink")の可愛らしさや[エロティシズム](../Page/エロティシズム.md "wikilink")とともに男女の青春・[恋模様を繊細に描き出すいくつかの短編を連載](../Page/恋愛.md "wikilink")。同時に[冒険活劇](https://ja.wikipedia.org/wiki/冒険活劇 "wikilink")（『[冒険どきの私達伝説](../Page/冒険どきの私達伝説.md "wikilink")』等）、[時代劇](../Page/時代劇.md "wikilink")（『[NAGI](../Page/NAGI.md "wikilink")』等）など毛色の変わった作品も発表している。
 
 [2000年](../Page/2000年.md "wikilink")から、同誌上でやはりエロティシズム・青春を前面に打ち出した『[ももいろさんご](../Page/ももいろさんご.md "wikilink")』（途中から2色カラー）を連載。[2002年](../Page/2002年.md "wikilink")からは[小学館](../Page/小学館.md "wikilink")の『[月刊サンデージェネックス](../Page/月刊サンデージェネックス.md "wikilink")』誌上で初めて社会人を主人公とし、エロよりもラブコメに重点を置いた『[REC](../Page/REC_\(漫画\).md "wikilink")』を連載。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは『ヤングキング』誌上で『[PLAY\!](https://ja.wikipedia.org/wiki/PLAY! "wikilink")』を連載。
 
-弟はお子様ランチの作画担当\[2\]。
+弟は同人サークル＆商業ネーム「お子様ランチ」の作画担当・西野沢かおり介\[2\]。
 
 ## 作風
 

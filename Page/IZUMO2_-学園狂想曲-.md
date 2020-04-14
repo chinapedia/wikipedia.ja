@@ -1,4 +1,4 @@
-> この記事は[IZUMO2 --](https://ja.wikipedia.org/wiki/IZUMO2_--)から翻訳されています。
+> この記事は[IZUMO2 -学園狂想曲-](https://ja.wikipedia.org/wiki/IZUMO2_-学園狂想曲-)から翻訳されています。
 
 
 『**IZUMO2 -学園狂想曲-**』（イズモ2 がくえんきょうそうきょく）は[Studio e.go\!のアダルトゲーム](../Page/Studio_e.go!.md "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の正統な続編であるが、前作のどのエンディングからもつながっていない。前作から間もない時間帯でのストーリー。Studio e.go\!ではお馴染みの原画家[山本和枝](../Page/山本和枝.md "wikilink")によってキャラのデザインは一新され、新キャラクターなども登場する。

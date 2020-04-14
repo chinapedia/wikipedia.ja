@@ -3,6 +3,8 @@
 
 **Linux**（リナックス、他の読みは[後述](https://ja.wikipedia.org/wiki/#「Linux」の読み方 "wikilink")）とは、[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")である[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")、およびそれをカーネルとして周辺を整備したシステムである（[GNU/Linuxシステム](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink")も参照）。
 
+（ただし、UNIXからは独立しており、そのカーネルは一行もUNIXから派生していない。）
+
 ## 概要
 
 Linuxは、狭義には[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")、広義にはそれを[カーネル](../Page/カーネル.md "wikilink")として用いたオペレーティングシステムを指す。Linuxは[Unix系](../Page/Unix系.md "wikilink")（、Unixライク）[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の1つとされる。カタカナでは「リナックス」と表記されることが多い（[「Linux」の読み方を参照](https://ja.wikipedia.org/wiki/#「Linux」の読み方 "wikilink")）。Linuxは、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")・[メインフレーム](../Page/メインフレーム.md "wikilink")・[サーバ](../Page/サーバ.md "wikilink")・[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")・[組み込みシステム](../Page/組み込みシステム.md "wikilink")（携帯電話やテレビなど）など、幅広い種類の[ハードウェア](../Page/ハードウェア.md "wikilink")で使用されている。

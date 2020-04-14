@@ -1,4 +1,4 @@
-> この記事は[\& \(NHK\)](https://ja.wikipedia.org/wiki/\&_\(NHK\))から翻訳されています。
+> この記事は[スポーツ\&ニュース \(NHK\)](https://ja.wikipedia.org/wiki/スポーツ\&ニュース_\(NHK\))から翻訳されています。
 
 
 『**スポーツ&ニュース**』（ - アンド - ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送されていた[平日](../Page/平日.md "wikilink")[深夜](../Page/深夜.md "wikilink")の[報道番組](../Page/報道番組.md "wikilink")。放送時間は23:30 - 23:55（[JST](../Page/日本標準時.md "wikilink")）の25分間。

@@ -1,4 +1,4 @@
-> この記事は[MEMORIES \(\)](https://ja.wikipedia.org/wiki/MEMORIES_\(\))から翻訳されています。
+> この記事は[MEMORIES \(映画\)](https://ja.wikipedia.org/wiki/MEMORIES_\(映画\))から翻訳されています。
 
 
 『**MEMORIES**』（メモリーズ）は、[大友克洋](../Page/大友克洋.md "wikilink")監修のアニメ映画。[森本晃司監督](../Page/森本晃司_\(アニメーター\).md "wikilink")「**彼女の想いで**」、[岡村天斎](../Page/岡村天斎.md "wikilink")監督「**最臭兵器**」、大友克洋監督「**大砲の街**」の3話からなる[オムニバス](../Page/オムニバス.md "wikilink")形式である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")に公開された。
@@ -175,7 +175,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamanashi_Culture_Chamber.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamanashikotsu.jpg "wikilink") この作品は[山梨県](../Page/山梨県.md "wikilink")が舞台で随所にローカルネタがちりばめられている。研究所の位置は甲府市山宮町から[金櫻神社](../Page/金櫻神社.md "wikilink")方面に向う途中と推測される。
 
-  - [甲府市](../Page/甲府市.md "wikilink")全景：オープニングで[甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")（[エクラン](https://ja.wikipedia.org/wiki/エクラン "wikilink")）や周辺が映し出されている。カメラの位置から[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")の番組であることが推測される（ただし番組名は架空の物）。
+  - [甲府市](../Page/甲府市.md "wikilink")全景：オープニングで[甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")（[エクラン](https://ja.wikipedia.org/wiki/セレオ甲府 "wikilink")）や周辺が映し出されている。カメラの位置から[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")の番組であることが推測される（ただし番組名は架空の物）。
   - [山梨交通](../Page/山梨交通.md "wikilink")の[路線バス](../Page/路線バス.md "wikilink")：主人公が診療所から研究所へ向かう時に乗っていたバス。公開された当時のカラーリングであり、現在のカラーリングとは異なる。
   - 舞鶴陸橋：甲府駅の東側にある[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")を跨ぐ橋。オープニングでも登場するほか、ヘリからのレポートの際自動車が衝突などで横たわっており、その周辺に臭気で横たわる人々と道路から草花が生い茂っている。その奥にはエクランと[サンパークホテル内藤も映っている](../Page/内藤ハウス.md "wikilink")。
   - [山梨文化会館](../Page/山梨文化会館.md "wikilink")：主人公が救助を求め屋上で甲府市旗を振っている。なお、[ヘリコプター](../Page/ヘリコプター.md "wikilink")が着陸しているが、建物に[ヘリポート](../Page/ヘリポート.md "wikilink")はない。

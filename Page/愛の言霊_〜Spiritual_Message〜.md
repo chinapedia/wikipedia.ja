@@ -1,4 +1,4 @@
-> この記事は[ Spiritual Message](https://ja.wikipedia.org/wiki/_Spiritual_Message)から翻訳されています。
+> この記事は[愛の言霊 〜Spiritual Message〜](https://ja.wikipedia.org/wiki/愛の言霊_〜Spiritual_Message〜)から翻訳されています。
 
 
 「**愛の言霊 〜Spiritual Message〜**」（あいのことだま スピリチュアル・メッセージ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の37枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
@@ -78,7 +78,7 @@
 
   - [愛の言霊 〜Spiritual Message〜](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5550&cd=VICL-36037&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink") [Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink") [Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [【オリコン】サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧。
 2.  「新曲『TSUNAMI』発売1週間で65万枚 サザン22年目の自己新\!\!」『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』2000年2月4日付、25面。

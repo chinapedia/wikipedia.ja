@@ -1,4 +1,4 @@
-> この記事は[rhythm](https://ja.wikipedia.org/wiki/rhythm)から翻訳されています。
+> この記事は[満月〜rhythm〜](https://ja.wikipedia.org/wiki/満月〜rhythm〜)から翻訳されています。
 
 
 **満月〜rhythm〜**（まんげつ・リズム）は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")の3rdアルバム。

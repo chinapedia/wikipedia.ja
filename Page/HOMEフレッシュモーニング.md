@@ -1,4 +1,4 @@
-> この記事は[HOME](https://ja.wikipedia.org/wiki/HOME)から翻訳されています。
+> この記事は[HOMEフレッシュモーニング](https://ja.wikipedia.org/wiki/HOMEフレッシュモーニング)から翻訳されています。
 
 
 『**HOMEフレッシュモーニング**』（ホーム フレッシュモーニング）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")である。

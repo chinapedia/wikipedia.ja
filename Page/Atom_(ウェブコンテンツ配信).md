@@ -1,4 +1,4 @@
-> この記事は[Atom \(\)](https://ja.wikipedia.org/wiki/Atom_\(\))から翻訳されています。
+> この記事は[Atom \(ウェブコンテンツ配信\)](https://ja.wikipedia.org/wiki/Atom_\(ウェブコンテンツ配信\))から翻訳されています。
 
 
 **Atom**（アトム）とは、[ウェブ上の各種コンテンツを配信するための](../Page/World_Wide_Web.md "wikilink")[XML](../Page/Extensible_Markup_Language.md "wikilink")[文書フォーマット及びコンテンツの編集を行なうための](../Page/ファイルフォーマット.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")など幾つかの仕様群の総称である。

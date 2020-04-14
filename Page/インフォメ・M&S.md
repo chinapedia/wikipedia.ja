@@ -1,4 +1,4 @@
-> この記事は[M\&S](https://ja.wikipedia.org/wiki/M\&S)から翻訳されています。
+> この記事は[インフォメ・M\&S](https://ja.wikipedia.org/wiki/インフォメ・M\&S)から翻訳されています。
 
 
 『**インフォメ・M\&S**』（インフォメ・エムアンドエス）は、[1991年](../Page/1991年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[福島テレビ](../Page/福島テレビ.md "wikilink")で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は金曜日 25:15 - 25:25。司会は福島テレビの女性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が週替わりで務めていた。

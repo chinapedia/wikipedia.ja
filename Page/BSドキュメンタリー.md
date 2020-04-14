@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSドキュメンタリー](https://ja.wikipedia.org/wiki/BSドキュメンタリー)から翻訳されています。
 
 
 『**BSドキュメンタリー**』（ビーエス- ）は、[NHK衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")で放映された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。[NHKの制作](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、およびNHKと日本国内の[制作会社の共同制作により](../Page/制作プロダクション.md "wikilink")、世界を舞台にしたさまざまな問題を取り上げた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月に『[BS世界のドキュメンタリー](../Page/BS世界のドキュメンタリー.md "wikilink")』に統合された\[1\]\[2\]。

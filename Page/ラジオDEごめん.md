@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[ラジオDEごめん](https://ja.wikipedia.org/wiki/ラジオDEごめん)から翻訳されています。
 
 
 『**ラジオDEごめん**』（ラジオでごめん）は、1988年10月11日（10日深夜）から1991年3月30日（29日深夜）まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。通称「**ラジごめ**」。

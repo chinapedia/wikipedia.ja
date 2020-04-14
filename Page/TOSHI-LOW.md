@@ -29,6 +29,10 @@
 
   - 朗読劇『[ラヴ・レターズ](https://ja.wikipedia.org/wiki/LOVE_LETTERS "wikilink")』（2016年8月1日、[パルコ劇場](https://ja.wikipedia.org/wiki/パルコ劇場 "wikilink")） - アンディ 役\[5\]
 
+## 書籍
+
+  - 鬼弁\~強面パンクロッカーの弁当奮闘記\~（2019年5月22日、[ぴあ](../Page/ぴあ.md "wikilink")）
+
 ## 脚注
 
 ## 関連項目

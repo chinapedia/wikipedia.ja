@@ -1,4 +1,4 @@
-> この記事は[HABJ](https://ja.wikipedia.org/wiki/HABJ)から翻訳されています。
+> この記事は[HABスーパーJチャンネル](https://ja.wikipedia.org/wiki/HABスーパーJチャンネル)から翻訳されています。
 
 
 『**HABスーパーJチャンネル**』（エイチエービースーパージェイチャンネル）は、[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")で放送されている、夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")ローカル版）。2007年9月までローカル部分は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")は実施されていなかったが、2007年10月からハイビジョン制作になった。

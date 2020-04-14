@@ -34,7 +34,7 @@ IBM DOS (PC DOS) では、DOSシェルはバージョン4.0以降の全バージ
 
 [1993年](../Page/1993年.md "wikilink")のMS-DOSバージョン6では、DOSシェルは標準ディスクセットから除外された。（IBMとマイクロソフトのOS共同開発契約はバージョン5までである。）ただし日本では、[日本電気](../Page/日本電気.md "wikilink")が販売した[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用と[セイコーエプソン](../Page/セイコーエプソン.md "wikilink")が発売した[EPSON PC用MS](https://ja.wikipedia.org/wiki/EPSON_PC "wikilink")-DOSバージョン6.2では標準ディスクセットに付属していた。
 
-なお、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")用の英語版のMS-DOSのDOSシェルに関しては、2006年2月現在マイクロソフトのダウンロードページから**[MS-DOS Ver.6.22 Supplemental Disk](http://support.microsoft.com/kb/117600)**に含まれる形で入手可能ではある。
+なお、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")用の英語版のMS-DOSのDOSシェルに関しては、過去に、マイクロソフトのダウンロードページから**MS-DOS Ver.6.22 Supplemental Disk**に含まれる形で入手可能であった。
 
 ## 関連項目
 
@@ -44,6 +44,6 @@ IBM DOS (PC DOS) では、DOSシェルはバージョン4.0以降の全バージ
 
 ## 外部リンク
 
-  - [PC DOS 2000のインストール画面](http://www.geocities.co.jp/SiliconValley/2994/virtualpc/pcdos2kj/pcdos2kj.html) (下から２画面目に、インストール直後のDOSシェルの画面がある）
+  - (下から２画面目に、インストール直後のDOSシェルの画面がある）
 
 [Category:MS-DOS・Windows3.x・9x系](https://ja.wikipedia.org/wiki/Category:MS-DOS・Windows3.x・9x系 "wikilink") [Category:コンピュータのユーザインタフェース](https://ja.wikipedia.org/wiki/Category:コンピュータのユーザインタフェース "wikilink") [Category:ファイルマネージャ](https://ja.wikipedia.org/wiki/Category:ファイルマネージャ "wikilink")

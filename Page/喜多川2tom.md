@@ -1,4 +1,4 @@
-> この記事は[2tom](https://ja.wikipedia.org/wiki/2tom)から翻訳されています。
+> この記事は[喜多川2tom](https://ja.wikipedia.org/wiki/喜多川2tom)から翻訳されています。
 
 
 **喜多川 2tom**（きたがわ つとむ、[1957年](../Page/1957年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - ）は、日本の俳優、[スタントマン](../Page/スタントマン.md "wikilink")である。本名は**喜多川 務**（読み同じ）。[ジャパンアクションエンタープライズ](../Page/ジャパンアクションエンタープライズ.md "wikilink")所属。[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")出身。特技は[中国武術](../Page/中国武術.md "wikilink")。夫人は『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』で中盤以降ミスアメリカのスーツアクトレスを演じた[小野寺えい子](https://ja.wikipedia.org/wiki/小野寺えい子 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CMI](https://ja.wikipedia.org/wiki/CMI)から翻訳されています。
+> この記事は[フェアライトCMI](https://ja.wikipedia.org/wiki/フェアライトCMI)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/画像:Fairlight.JPG "wikilink") [200px](https://ja.wikipedia.org/wiki/画像:Fairlight_CMI.jpg "wikilink")\]\] **フェアライトCMI**（Fairlight CMI）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[フェアライト](https://ja.wikipedia.org/wiki/フェアライト "wikilink")社が[1979年](../Page/1979年.md "wikilink")に発表、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に発売した[電子楽器](../Page/電子楽器.md "wikilink")（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）。CMIは「Computer Musical Instrument」の略。

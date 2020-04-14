@@ -1,4 +1,4 @@
-> この記事は[STM](https://ja.wikipedia.org/wiki/STM)から翻訳されています。
+> この記事は[スピン偏極STM](https://ja.wikipedia.org/wiki/スピン偏極STM)から翻訳されています。
 
 
 **スピン偏極STM**（スピンへんきょくSTM、Spin Polarized Scanning Tunneling Microscope）は、[磁場](../Page/磁場.md "wikilink")を計測することが可能な[走査型プローブ顕微鏡](../Page/走査型プローブ顕微鏡.md "wikilink")の一種である。磁区によるスピンを計測することができる顕微鏡として磁気力顕微鏡とスピン偏極顕微鏡がある。

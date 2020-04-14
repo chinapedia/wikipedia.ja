@@ -1,4 +1,4 @@
-> この記事は[MIDI](https://ja.wikipedia.org/wiki/MIDI)から翻訳されています。
+> この記事は[スタンダードMIDIファイル](https://ja.wikipedia.org/wiki/スタンダードMIDIファイル)から翻訳されています。
 
 
 **スタンダードMIDIファイル**（Standard MIDI File、SMF）は、[MIDI](../Page/MIDI.md "wikilink")用[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一つである\[1\]\[2\]\[3\]\[4\]。Format0/Format1/Format2の3タイプが存在する。一般的に用いられている[拡張子](../Page/拡張子.md "wikilink")は *.mid*。標準MIDIファイルとも呼ばれる。

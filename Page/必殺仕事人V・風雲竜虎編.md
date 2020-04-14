@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[必殺仕事人V・風雲竜虎編](https://ja.wikipedia.org/wiki/必殺仕事人V・風雲竜虎編)から翻訳されています。
 
 
 『**必殺仕事人V・風雲竜虎編**』\[1\]（ひっさつしごとにんファイブ ふううんりゅうこへん）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")から[7月31日](../Page/7月31日.md "wikilink")まで、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で毎週金曜日22:00 - 22:54に放送された、[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）共同製作のテレビ[時代劇](../Page/時代劇.md "wikilink")。全19話。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。

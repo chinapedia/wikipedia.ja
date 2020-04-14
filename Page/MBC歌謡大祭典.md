@@ -1,4 +1,4 @@
-> この記事は[MBC](https://ja.wikipedia.org/wiki/MBC)から翻訳されています。
+> この記事は[MBC歌謡大祭典](https://ja.wikipedia.org/wiki/MBC歌謡大祭典)から翻訳されています。
 
 
 **MBC歌謡大祭典**（エムビーシーかようだいさいてん ）は、毎年[大晦日](../Page/大晦日.md "wikilink")に[文化放送で放送されている](../Page/文化放送_\(韓国\).md "wikilink")[韓国の](../Page/大韓民国.md "wikilink")[音楽祭](../Page/音楽祭.md "wikilink")。
@@ -69,6 +69,23 @@
 ## 歴代10大歌手
 
 ### 1966年
+
+**最高人気歌手賞**
+
+  - [チェ・ヒジュン](https://ja.wikipedia.org/wiki/チェ・ヒジュン "wikilink")「下宿生（）」
+
+**10大歌手**
+
+  - [チェ・ヒジュン](https://ja.wikipedia.org/wiki/チェ・ヒジュン "wikilink")
+  - [ナム・イルヘ](https://ja.wikipedia.org/wiki/ナム・イルヘ "wikilink")
+  - [ユ・ジュヨン](https://ja.wikipedia.org/wiki/ユ・ジュヨン "wikilink")
+  - [ウィキリ](https://ja.wikipedia.org/wiki/ウィキリ "wikilink")
+  - [チョン・ウォン](https://ja.wikipedia.org/wiki/チョン・ウォン "wikilink")
+  - [イ・ミジャ](https://ja.wikipedia.org/wiki/イ・ミジャ "wikilink")
+  - [ムン・ジュラン](https://ja.wikipedia.org/wiki/ムン・ジュラン "wikilink")
+  - [イ・グムヒ](https://ja.wikipedia.org/wiki/イ・グムヒ "wikilink")
+  - [チェ・ヤンスク](https://ja.wikipedia.org/wiki/チェ・ヤンスク "wikilink")
+  - [ヒョンミ](https://ja.wikipedia.org/wiki/ヒョンミ "wikilink")
 
 ### 1967年
 

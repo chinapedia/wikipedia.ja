@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVパニック](https://ja.wikipedia.org/wiki/TVパニック)から翻訳されています。
 
 
 **TVパニック**（**テレビパニック**、*TV Panic*）は、[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")に本社を置く株式会社[NESTAGE](../Page/NESTAGE.md "wikilink")が経営する[ゲームソフト](../Page/ゲームソフト.md "wikilink")販売店の[フランチャイズ](../Page/フランチャイズ.md "wikilink")チェーン（FC）のうち、NESTAGEの前身である株式会社明響社が経営していたチェーン。2005年12月現在、約300店舗。

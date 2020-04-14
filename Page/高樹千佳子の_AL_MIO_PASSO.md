@@ -1,4 +1,4 @@
-> この記事は[ AL MIO PASSO](https://ja.wikipedia.org/wiki/_AL_MIO_PASSO)から翻訳されています。
+> この記事は[高樹千佳子の AL MIO PASSO](https://ja.wikipedia.org/wiki/高樹千佳子の_AL_MIO_PASSO)から翻訳されています。
 
 
 **高樹千佳子の AL MIO PASSO**（たかぎちかこのアルミオパッソ）は、[2005年](../Page/2005年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")から2007年6月30日まで[TOKYO FMにて](../Page/エフエム東京.md "wikilink")、土曜日21:30～21:55（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。メインスポンサーは[山田建設](../Page/山田建設.md "wikilink")で、冠名を付した正式タイトルは「**山田建設 Presents 高樹千佳子の AL MIO PASSO**」。パーソナリティは、タレントの[高樹千佳子](../Page/高樹千佳子.md "wikilink")。

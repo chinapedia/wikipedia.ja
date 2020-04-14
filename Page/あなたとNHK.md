@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[あなたとNHK](https://ja.wikipedia.org/wiki/あなたとNHK)から翻訳されています。
 
 
 **あなたとNHK**（あなたとエヌエイチケー）は、[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送された[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の[広報番組](https://ja.wikipedia.org/wiki/広報番組 "wikilink")である。後継番組は『[三つのたまご](../Page/三つのたまご.md "wikilink")』。

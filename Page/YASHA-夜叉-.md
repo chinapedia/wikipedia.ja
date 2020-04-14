@@ -1,4 +1,4 @@
-> この記事は[YASHA--](https://ja.wikipedia.org/wiki/YASHA--)から翻訳されています。
+> この記事は[YASHA-夜叉-](https://ja.wikipedia.org/wiki/YASHA-夜叉-)から翻訳されています。
 
 
 『**YASHA-夜叉-**』は[吉田秋生](../Page/吉田秋生.md "wikilink")の漫画作品、及びそれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

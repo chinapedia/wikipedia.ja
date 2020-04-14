@@ -1,4 +1,4 @@
-> この記事は[Mini](https://ja.wikipedia.org/wiki/Mini)から翻訳されています。
+> この記事は[Miniピアゴ](https://ja.wikipedia.org/wiki/Miniピアゴ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Minipiago.shiratori3tyoume.JPG "wikilink") **miniピアゴ**（ミニピアゴ）は、株式会社[99イチバが運営するミニ](https://ja.wikipedia.org/wiki/#株式会社99イチバ "wikilink")[スーパー](../Page/スーパーマーケット.md "wikilink")（[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")）である。旧店名は**99イチバ**、のちに**みんなのイチバ**であった。
@@ -31,9 +31,9 @@
 
 ## 株式会社99イチバ
 
-**株式会社99イチバ**（キューキューイチバ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")に本社が所在する法人である。登記上の本店は、[ユニー](../Page/ユニー.md "wikilink")の本店と同じ[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[稲沢市](../Page/稲沢市.md "wikilink")。miniピアゴを運営している。
+**株式会社99イチバ**（キューキューイチバ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")に本社が所在する法人である。miniピアゴを運営している。
 
-かつてはサークルKサンクス（のちにファミリーマートとなりユニーグループ離脱）も当社に出資していたが、所有する株式80.1%を99イチバへ無償譲渡することで資本撤退。資本関係は無くなったが、同じユニーグループとして、弁当などの日配品等で引き続き協力していくとしていた。
+現在はG-7ホールディングス系列だが、2020年3月31日までは[ユニー](../Page/ユニー.md "wikilink")グループだった。かつてはサークルKサンクス（のちにファミリーマートとなりユニーグループ離脱）も当社に出資していたが、所有する株式80.1%を99イチバへ無償譲渡することで資本撤退。資本関係は無くなったが、同じユニーグループとして、弁当などの日配品等で引き続き協力していくとしていた。登記上の本店は、[ユニー](../Page/ユニー.md "wikilink")の本店と同じ[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[稲沢市](../Page/稲沢市.md "wikilink")。
 
 ### 沿革
 
@@ -44,7 +44,7 @@
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[2月21日](../Page/2月21日.md "wikilink") - サークルKサンクスが保有する株式をユニーに無償譲渡し、ユニーの完全子会社となる
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[5月6日](../Page/5月6日.md "wikilink") - 本社を横浜市[港北区](https://ja.wikipedia.org/wiki/港北区 "wikilink")[新横浜](../Page/新横浜.md "wikilink")に仮移転
   - [2015年](../Page/2015年.md "wikilink")（平成27年）[3月23日](../Page/3月23日.md "wikilink") - 本社が横浜市神奈川区入江に回帰
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[4月1日](../Page/4月1日.md "wikilink") - 同日までに[G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")に対し、ユニーが所有する99イチバ全株式を12億5000万円で売却、PPIHグループ及びユニー傘下から離脱\[6\]
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）[4月1日](../Page/4月1日.md "wikilink") - 同日までに[G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")に対し、ユニーが所有する99イチバ全株式を12億5000万円で売却、PPIHグループ及びユニー傘下から離脱\[6\]\[7\]
 
 {{-}}
 
@@ -53,9 +53,13 @@
 ## 関連項目
 
   - [生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")
+  - [G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")
+  - [パン・パシフィック・インターナショナルホールディングス](https://ja.wikipedia.org/wiki/パン・パシフィック・インターナショナルホールディングス "wikilink")
   - [ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")
   - [ユニー](../Page/ユニー.md "wikilink")
   - [サークルK](../Page/サークルK.md "wikilink")
+  - [パワーコンビニ情熱空間](../Page/パワーコンビニ情熱空間.md "wikilink")
+  - [アンデス食品](https://ja.wikipedia.org/wiki/アンデス食品 "wikilink")
   - [スタイルワン](https://ja.wikipedia.org/wiki/スタイルワン "wikilink")
   - [プライベートブランド](../Page/プライベートブランド.md "wikilink")
   - [スーパーマーケット](../Page/スーパーマーケット.md "wikilink")
@@ -73,3 +77,4 @@
 4.  　-　ユニー・ファミリーマートホールディングス（株）プレスリリース平成28年10月3日
 5.  [ファミリーマート+miniピアゴ　菊名駅西店](http://www.99-ichiba.jp/map/map084.html)　-　99イチバ店舗案内ページ・平成28年10月6日閲覧
 6.  \[<https://ssl4.eir-parts.net/doc/7508/tdnet/1799393/00.pdf>　株式会社99 イチバの株式の取得（子会社化）に関するお知らせ（株式会社G-7ホールディングス：ニュースリリース）\]
+7.  [連結子会社（孫会社）の異動(株式譲渡)に関するお知らせ](https://ppi-hd.co.jp/news/200217.pdf)

@@ -1,4 +1,4 @@
-> この記事は[J.D.](https://ja.wikipedia.org/wiki/J.D.)から翻訳されています。
+> この記事は[J.D.サウザー](https://ja.wikipedia.org/wiki/J.D.サウザー)から翻訳されています。
 
 
 **ジョン・デヴィッド・サウザー**（*John David Souther*、[1945年](../Page/1945年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、俳優。。[ソロアーティストとして活躍する傍ら](../Page/ソロ_\(音楽\).md "wikilink")、[リンダ・ロンシュタット](../Page/リンダ・ロンシュタット.md "wikilink")、[イーグルス](../Page/イーグルス.md "wikilink")などに後にヒット曲となる作品を共作するなど多くのアーティストに楽曲提供を行ってきた。

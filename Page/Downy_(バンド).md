@@ -1,4 +1,4 @@
-> この記事は[Downy \(\)](https://ja.wikipedia.org/wiki/Downy_\(\))から翻訳されています。
+> この記事は[Downy \(バンド\)](https://ja.wikipedia.org/wiki/Downy_\(バンド\))から翻訳されています。
 
 
 **downy**（ダウニー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インディー・ロック](https://ja.wikipedia.org/wiki/インディー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ボーカル、ギター担当の青木ロビンを中心に2000年4月に結成され、シングル「月宿る善良」で[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
@@ -325,7 +325,7 @@ PECF-1098:再発</p></td>
 <td><p>7th</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月18日.md" title="wikilink">3月18日</a></p></td>
 <td><p><strong>無題</strong></p></td>
-<td></td>
+<td><p>RHEN-1</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>全11曲</p>

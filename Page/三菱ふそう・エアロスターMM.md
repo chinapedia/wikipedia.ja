@@ -1,4 +1,4 @@
-> この記事は[MM](https://ja.wikipedia.org/wiki/MM)から翻訳されています。
+> この記事は[三菱ふそう・エアロスターMM](https://ja.wikipedia.org/wiki/三菱ふそう・エアロスターMM)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:豊鉄バス_KC-MM719J改.JPG "wikilink")\]\] **エアロスターMM**（*Aero Star MM* ）は、[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")が1993年から2004年8月まで製造・販売していた9m大型[路線バス](../Page/路線バス.md "wikilink")。

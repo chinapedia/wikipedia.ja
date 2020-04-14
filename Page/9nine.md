@@ -58,16 +58,15 @@
 <td><p>ちゃあぽん</p></td>
 <td></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
-<td><p>2005年9月<br />
-（結成メンバー）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>の<a href="https://ja.wikipedia.org/wiki/西脇綾香" title="wikilink">西脇綾香</a>の実妹<br />
 <a href="https://ja.wikipedia.org/wiki/石井秀仁" title="wikilink">石井秀仁</a>と共に「Ordinary Venus」としても活動</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>イエロー</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/村田寛奈" title="wikilink">村田寛奈</a></strong><br />
 <small>むらた ひろな</small></p></td>
-<td></td>
+<td><p>ひろろ</p></td>
 <td></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
 <td><p>2010年加入</p></td>
@@ -169,7 +168,7 @@
 <td></td>
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p>2005年9月<br />
-(結成メンバー)</p></td>
+（結成メンバー）</p></td>
 <td></td>
 <td></td>
 </tr>

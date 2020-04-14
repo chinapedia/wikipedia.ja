@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[デジモンワールドX](https://ja.wikipedia.org/wiki/デジモンワールドX)から翻訳されています。
 
 
 **デジモンワールドX**は[バンダイ](../Page/バンダイ.md "wikilink")の携帯ゲーム[デジタルモンスター](../Page/デジタルモンスター.md "wikilink")シリーズの[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")。 [2005年](../Page/2005年.md "wikilink")に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Xboxの](../Page/Xbox_\(ゲーム機\).md "wikilink")3機種で同時発売され、Xbox版はバンダイ最後のXbox用ソフトであった。

@@ -1,4 +1,4 @@
-> この記事は[  III](https://ja.wikipedia.org/wiki/__III)から翻訳されています。
+> この記事は[エイジ オブ エンパイアIII](https://ja.wikipedia.org/wiki/エイジ_オブ_エンパイアIII)から翻訳されています。
 
 
 『**エイジ オブ エンパイアIII**』（原題：Age of Empires III）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")による[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")ゲーム、[『エイジ オブ エンパイア』シリーズの第](../Page/エイジ_オブ_エンパイア_シリーズ.md "wikilink")3作目。開発は[アンサンブルスタジオ](../Page/アンサンブルスタジオ.md "wikilink")社。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では2005年10月18日に発売され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では2006年1月27日に発売された。拡張パックは2つリリースされており、『ザ ウォーチーフ』（原題：The War Chief）は2006年10月6日に発売され、日本では2006年12月15日に発売された。『ザ ウォーチーフ』では[アメリカ先住民族](https://ja.wikipedia.org/wiki/アメリカ先住民族 "wikilink")の3つの文明が追加される。また、拡張パック第2弾『アジアの覇王』（原題：The Asian Dynasties）は2007年10月23日に発売され、日本では2007年11月16日に発売された。『アジアの覇王』ではアジアの3つの文明が追加される。

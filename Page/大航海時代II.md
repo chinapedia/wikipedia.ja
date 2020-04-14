@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[大航海時代II](https://ja.wikipedia.org/wiki/大航海時代II)から翻訳されています。
 
 
 『**大航海時代II**』（だいこうかいじだい・ツー、*Uncharted Waters: NEW HORIZONS*）は、[1993年](../Page/1993年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に光栄（現[コーエー](../Page/コーエー.md "wikilink")）から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")（同社は[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")と呼称）。「[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")」の第2作目である。

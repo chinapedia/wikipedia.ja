@@ -1,4 +1,4 @@
-> この記事は[FLYINGL\'ArcATTACK](https://ja.wikipedia.org/wiki/FLYINGL\'ArcATTACK)から翻訳されています。
+> この記事は[FLYING〜L\'Arc〜ATTACK](https://ja.wikipedia.org/wiki/FLYING〜L\'Arc〜ATTACK)から翻訳されています。
 
 
 **FLYING〜L'Arc〜ATTACK**(**フライング ラルク アタック**)は、[TOKYO FM系列](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")「[やまだひさしのラジアンリミテッド](../Page/やまだひさしのラジアンリミテッド.md "wikilink")」内で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")放送開始。進行役は[やまだひさし](../Page/やまだひさし.md "wikilink")で[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のメンバーが交互に登場した。[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")いっぱいで終了。メンバーはラジアン本編にも頻繁に登場し、鉄拳クイズなどに参加した。[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は「アチョー」を言うのをほとんどの回で忘れていた。

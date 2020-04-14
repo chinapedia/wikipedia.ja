@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[アドナ・R・チャーフィー・ジュニア](https://ja.wikipedia.org/wiki/アドナ・R・チャーフィー・ジュニア)から翻訳されています。
 
 
 **アドナ・ロマンザ・チャーフィー・ジュニア**(**Adna Romanza Chaffee, Jr.**, [1884年](../Page/1884年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[8月22日](../Page/8月22日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の軍人。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")における機甲戦力の発展に尽力し、「機甲部隊の父」と呼ばれた。

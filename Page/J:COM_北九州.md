@@ -1,4 +1,4 @@
-> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+> この記事は[J:COM 北九州](https://ja.wikipedia.org/wiki/J:COM_北九州)から翻訳されています。
 
 
 [JCOM_Kitakyushu.JPG](https://ja.wikipedia.org/wiki/File:JCOM_Kitakyushu.JPG "fig:JCOM_Kitakyushu.JPG")

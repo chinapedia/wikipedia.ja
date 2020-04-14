@@ -1,4 +1,4 @@
-> この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
+> この記事は[アウディ・TT](https://ja.wikipedia.org/wiki/アウディ・TT)から翻訳されています。
 
 
 **TT**（ティーティー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")が製造販売する、[フォルクスワーゲン・ゴルフ](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")をベースにする[前輪駆動](../Page/前輪駆動.md "wikilink")FFと[4WDのスポーツカーである](../Page/四輪駆動.md "wikilink")。ちなみに車名のTTは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")で開催されていたレースイベント「[ツーリスト・トロフィー](https://ja.wikipedia.org/wiki/ツーリスト・トロフィー "wikilink")」に由来する。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作はは[MOTHERシリーズ](../Page/MOTHERシリーズ.md "wikilink")の第3作目かつシリーズ最終作として発売された。過去2作に続き、[糸井重里](../Page/糸井重里.md "wikilink")が[ゲームデザイン](../Page/ゲームデザイン.md "wikilink")と[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を担当している。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**奇妙で、おもしろい。そして、せつない。**」\[1\]。
+本作は[MOTHERシリーズ](../Page/MOTHERシリーズ.md "wikilink")の第3作目かつシリーズ最終作として発売された。過去2作に続き、[糸井重里](../Page/糸井重里.md "wikilink")が[ゲームデザイン](../Page/ゲームデザイン.md "wikilink")と[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を担当している。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**奇妙で、おもしろい。そして、せつない。**」\[1\]。
 
 これまでのシリーズは主人公たちが町から町へと冒険する物語だったが、今作では一つの村を拠点とし、村の住人など多くの登場人物による[群像劇が展開される](../Page/グランドホテル方式.md "wikilink")。
 

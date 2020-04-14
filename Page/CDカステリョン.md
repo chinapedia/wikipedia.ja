@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDカステリョン](https://ja.wikipedia.org/wiki/CDカステリョン)から翻訳されています。
 
 
 **CDカステリョン**（**Club Deportivo Castellón**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カステリョンを本拠地とする](../Page/カステリョン・デ・ラ・プラナ.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2017-18シーズンは[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当）に所属している。16,000人収容の[ノウ・エスタディ・カステリア](https://ja.wikipedia.org/wiki/ノウ・エスタディ・カステリア "wikilink")をホームスタジアムとしている。

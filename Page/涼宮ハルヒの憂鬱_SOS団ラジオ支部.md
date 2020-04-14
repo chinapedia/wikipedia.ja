@@ -1,4 +1,4 @@
-> この記事は[ SOS](https://ja.wikipedia.org/wiki/_SOS)から翻訳されています。
+> この記事は[涼宮ハルヒの憂鬱 SOS団ラジオ支部](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱_SOS団ラジオ支部)から翻訳されています。
 
 
 『**涼宮ハルヒの憂鬱 SOS団ラジオ支部**』（すずみやハルヒのゆううつ エスオーエスだんラジオしぶ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[涼宮ハルヒの憂鬱](../Page/涼宮ハルヒの憂鬱_\(アニメ\).md "wikilink")』の関連番組として[ラジオ関西](../Page/ラジオ関西.md "wikilink")にて放送されていたラジオ番組である。また、『[ランティスネットラジオ](../Page/ランティスウェブラジオ.md "wikilink")』にて1週間遅れて[ストリーミング](../Page/ストリーミング.md "wikilink")配信されていた。全48回。

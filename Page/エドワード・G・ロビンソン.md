@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[エドワード・G・ロビンソン](https://ja.wikipedia.org/wiki/エドワード・G・ロビンソン)から翻訳されています。
 
 
 **エドワード・G・ロビンソン**（**Edward G. Robinson**, [1893年](../Page/1893年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[ハリウッド](../Page/ハリウッド.md "wikilink")で[性格俳優](https://ja.wikipedia.org/wiki/性格俳優 "wikilink")として活躍、50年の俳優生活で101本の映画に出演した。

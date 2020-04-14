@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS青春のポップス](https://ja.wikipedia.org/wiki/BS青春のポップス)から翻訳されています。
 
 
 『**BS青春のポップス**』（ビーエスせいしゅんのポップス）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS2および](../Page/NHK衛星第2テレビジョン.md "wikilink")[BShiでかつて放送されていた](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。

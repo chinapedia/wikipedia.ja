@@ -1,4 +1,4 @@
-> この記事は[IV ](https://ja.wikipedia.org/wiki/IV_)から翻訳されています。
+> この記事は[ドラゴンスレイヤーIV ドラスレファミリー](https://ja.wikipedia.org/wiki/ドラゴンスレイヤーIV_ドラスレファミリー)から翻訳されています。
 
 
 『**ドラゴンスレイヤーIV ドラスレファミリー**』（*Dragon Slayer IV Drasle Family*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")に日本の[日本ファルコム](../Page/日本ファルコム.md "wikilink")から発売された[MSX2](../Page/MSX2.md "wikilink")用[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFCチャレンジカップ](https://ja.wikipedia.org/wiki/AFCチャレンジカップ)から翻訳されています。
 
 
 **AFCチャレンジカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が2006年から2014年まで開催していた、AFC加盟国の中で[FIFAランキング](../Page/FIFAランキング.md "wikilink")下位の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。

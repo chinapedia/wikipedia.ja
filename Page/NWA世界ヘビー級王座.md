@@ -1,4 +1,4 @@
-> この記事は[NWA](https://ja.wikipedia.org/wiki/NWA)から翻訳されています。
+> この記事は[NWA世界ヘビー級王座](https://ja.wikipedia.org/wiki/NWA世界ヘビー級王座)から翻訳されています。
 
 
 **NWA世界ヘビー級王座**（NWAせかいヘビーきゅうおうざ）は[プロレス](../Page/プロレス.md "wikilink")のチャンピオンシップである。**[NWA](../Page/NWA_\(プロレス\).md "wikilink")**（National Wrestling Alliance）本部の直轄するベルトで、[1980年代](../Page/1980年代.md "wikilink")末にNWAが衰退するまでは、世界最高峰といわれたタイトルである。

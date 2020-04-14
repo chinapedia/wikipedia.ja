@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C調言葉に御用心](https://ja.wikipedia.org/wiki/C調言葉に御用心)から翻訳されています。
 
 
 「**C調言葉に御用心**」（シーちょうことばにごようじん）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。

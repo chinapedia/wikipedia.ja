@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[フレディVSジェイソン](https://ja.wikipedia.org/wiki/フレディVSジェイソン)から翻訳されています。
 
 
 『**フレディVSジェイソン**』（フレディバーサスジェイソン、）は、[2003年に公開された](../Page/2003年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[エルム街の悪夢](../Page/エルム街の悪夢.md "wikilink")シリーズの[フレディ・クルーガー](../Page/フレディ・クルーガー.md "wikilink")と[13日の金曜日シリーズの](../Page/13日の金曜日_\(映画\).md "wikilink")[ジェイソン・ボーヒーズ](../Page/ジェイソン・ボーヒーズ.md "wikilink")が共演する[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GOLF \(\)](https://ja.wikipedia.org/wiki/GOLF_\(\))から翻訳されています。
+> この記事は[GOLF \(歌手\)](https://ja.wikipedia.org/wiki/GOLF_\(歌手\))から翻訳されています。
 
 
 **GOLF**（ゴルフ）は [タイ最大手の芸能プロダクション](../Page/タイ王国.md "wikilink")　GMMグラミー（グランミー）に所属する[GOLF\&MIKE](../Page/GOLF&MIKE.md "wikilink")のメンバー。[G-Junior](../Page/G-Junior.md "wikilink")出身（第1期生）。

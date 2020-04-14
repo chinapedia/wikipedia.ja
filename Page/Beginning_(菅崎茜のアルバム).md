@@ -1,4 +1,4 @@
-> この記事は[Beginning \(\)](https://ja.wikipedia.org/wiki/Beginning_\(\))から翻訳されています。
+> この記事は[Beginning \(菅崎茜のアルバム\)](https://ja.wikipedia.org/wiki/Beginning_\(菅崎茜のアルバム\))から翻訳されています。
 
 
 『**beginning**』（ビギニング）は[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")[菅崎茜](../Page/菅崎茜.md "wikilink")の1stアルバム。

@@ -1,4 +1,4 @@
-> この記事は[OCS \(\)](https://ja.wikipedia.org/wiki/OCS_\(\))から翻訳されています。
+> この記事は[OCS \(信販\)](https://ja.wikipedia.org/wiki/OCS_\(信販\))から翻訳されています。
 
 
 **株式会社OCS**（呼称:オークス）とは、[沖縄県](../Page/沖縄県.md "wikilink")を営業区域とする[金融](../Page/金融.md "wikilink")・[信販](https://ja.wikipedia.org/wiki/信販 "wikilink")会社である。

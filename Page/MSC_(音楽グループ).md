@@ -1,4 +1,4 @@
-> この記事は[MSC \(\)](https://ja.wikipedia.org/wiki/MSC_\(\))から翻訳されています。
+> この記事は[MSC \(音楽グループ\)](https://ja.wikipedia.org/wiki/MSC_\(音楽グループ\))から翻訳されています。
 
 
 **MSC**（エム・エス・シー）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[クルー](https://ja.wikipedia.org/wiki/クルー "wikilink")。[2000年](../Page/2000年.md "wikilink")に結成し、[新宿](../Page/新宿.md "wikilink")を拠点に活動\[1\]。2003年からレーベル[Libra Recordsに所属し](https://ja.wikipedia.org/wiki/Libra_Records "wikilink")、2014年からは中心メンバーの[漢 a.k.a. GAMIが設立した株式会社鎖グループ内のレーベル](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink")「BLACK SWAN」に所属\[2\]。旧名は**MS CRU**\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[DOS](https://ja.wikipedia.org/wiki/DOS)から翻訳されています。
+> この記事は[DOSプロンプト](https://ja.wikipedia.org/wiki/DOSプロンプト)から翻訳されています。
 
 
 **DOSプロンプト** とは、[NT系以前の](../Page/Windows_NT系.md "wikilink")[Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")互換環境（いわゆる「DOS窓」）を起動するアプリケーションである。

@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[おはようKジロー](https://ja.wikipedia.org/wiki/おはようKジロー)から翻訳されています。
 
 
 『**おはようKジロー**』（おはようケイジロー）は、[水島新司](../Page/水島新司.md "wikilink")の[野球漫画](../Page/野球漫画.md "wikilink")。『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて[1989年](../Page/1989年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで連載された。

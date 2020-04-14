@@ -1,4 +1,4 @@
-> この記事は[PNC](https://ja.wikipedia.org/wiki/PNC)から翻訳されています。
+> この記事は[PNCパーク](https://ja.wikipedia.org/wiki/PNCパーク)から翻訳されています。
 
 
 **PNCパーク**（*PNC Park* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")にある[野球場](../Page/野球場.md "wikilink")。[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ピッツバーグ・パイレーツ](../Page/ピッツバーグ・パイレーツ.md "wikilink")のホーム球場でもある。

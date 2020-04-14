@@ -1,4 +1,4 @@
-> この記事は[JR.](https://ja.wikipedia.org/wiki/JR.)から翻訳されています。
+> この記事は[ドンキーコングJR.](https://ja.wikipedia.org/wiki/ドンキーコングJR.)から翻訳されています。
 
 
 『**ドンキーコングJR.**』（ドンキーコングジュニア、*DONKEY KONG JR.*）は、[1982年](../Page/1982年.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から稼動された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")である。なお、アーケード版と一部の海外版では『*DONKEY KONG JUNIOR*』と表記されている。

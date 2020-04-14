@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[アベニューQ](https://ja.wikipedia.org/wiki/アベニューQ)から翻訳されています。
 
 
 **アベニュー Q**（ - きゅー、Avenue Q）は、[2003年](../Page/2003年.md "wikilink")3月に[オフ・ブロードウェイ](../Page/オフ・ブロードウェイ.md "wikilink")で初演され、2003年7月[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")に進出した[パペット](../Page/パペット.md "wikilink")・[ミュージカル](../Page/ミュージカル.md "wikilink")である。

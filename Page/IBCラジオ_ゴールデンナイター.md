@@ -1,4 +1,4 @@
-> この記事は[IBC ](https://ja.wikipedia.org/wiki/IBC_)から翻訳されています。
+> この記事は[IBCラジオ ゴールデンナイター](https://ja.wikipedia.org/wiki/IBCラジオ_ゴールデンナイター)から翻訳されています。
 
 
 **IBCラジオ ゴールデンナイター**（アイビーシーラジオ ゴールデンナイター）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")における[プロ野球中継](../Page/プロ野球中継.md "wikilink")の題名である。
@@ -43,7 +43,7 @@
 
 ## 関連項目
 
-  - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（IBCテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（IBCテレビ）
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
   - [夏の高校野球岩手大会実況中継](../Page/夏の高校野球岩手大会実況中継.md "wikilink")
 

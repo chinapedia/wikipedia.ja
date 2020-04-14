@@ -1,4 +1,4 @@
-> この記事は[SRS \(\)](https://ja.wikipedia.org/wiki/SRS_\(\))から翻訳されています。
+> この記事は[SRS \(テレビ番組\)](https://ja.wikipedia.org/wiki/SRS_\(テレビ番組\))から翻訳されています。
 
 
 『**SRS**』（エスアールエス、スペシャルリングサイド）は、[フジテレビほかで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[格闘技](../Page/格闘技.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。製作局のフジテレビでは[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")放送終了。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 26:20 - 26:50 ([JST](../Page/日本標準時.md "wikilink")) 。

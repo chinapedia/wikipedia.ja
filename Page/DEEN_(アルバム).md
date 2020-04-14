@@ -1,4 +1,4 @@
-> この記事は[DEEN \(\)](https://ja.wikipedia.org/wiki/DEEN_\(\))から翻訳されています。
+> この記事は[DEEN \(アルバム\)](https://ja.wikipedia.org/wiki/DEEN_\(アルバム\))から翻訳されています。
 
 
 『**DEEN**』（ディーン）は、ロックバンド[DEEN](../Page/DEEN.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。この頃、ビーイング系のロックバンドのデビューアルバムを[セルフタイトル](../Page/セルフタイトル.md "wikilink")にすることがよくあった。
@@ -21,7 +21,7 @@
         5thシングル
 2.  **FOR MY LIFE**
       -
-        作詞・作曲：[池森秀一](../Page/池森秀一.md "wikilink") / 編曲：[池田大介](https://ja.wikipedia.org/wiki/池田大介 "wikilink")
+        作詞・作曲：[池森秀一](../Page/池森秀一.md "wikilink") / 編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
 3.  **Keep on Dancin**'
       -
         作詞：小田佳奈子 / 作曲：[山根公路](../Page/山根公路.md "wikilink")・古井弘人 / 編曲：大島康祐

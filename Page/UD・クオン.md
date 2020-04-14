@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UD・クオン](https://ja.wikipedia.org/wiki/UD・クオン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-dump.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Quon-mixer.jpg "wikilink") **クオン(Quon)**は、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（2010年1月31日までは日産ディーゼル工業）が2004年から製造販売する大型クラスのトラックである。[ビッグサムの後継車として登場した](../Page/日産ディーゼル・ビッグサム.md "wikilink")。

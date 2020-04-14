@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞馬事文化賞](https://ja.wikipedia.org/wiki/JRA賞馬事文化賞)から翻訳されています。
 
 
 **JRA賞馬事文化賞**（ジェイアールエーしょうばじぶんかしょう）とは、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が、文学・評論・美術・映画・音楽などの文化活動を通じて、馬事文化の発展に顕著な功績のあった個人・団体を表彰する目的\[1\]で[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に創設した[賞](../Page/賞.md "wikilink")である。

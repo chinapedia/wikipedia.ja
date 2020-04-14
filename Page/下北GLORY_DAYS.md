@@ -1,4 +1,4 @@
-> この記事は[GLORY DAYS](https://ja.wikipedia.org/wiki/GLORY_DAYS)から翻訳されています。
+> この記事は[下北GLORY DAYS](https://ja.wikipedia.org/wiki/下北GLORY_DAYS)から翻訳されています。
 
 
 『**下北GLORY DAYS**』（しもきたグローリーデイズ）は、[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")に連載されていた[大谷じろう](../Page/大谷じろう.md "wikilink")の漫画作品、およびそれを原作としたテレビドラマ。
@@ -10,6 +10,8 @@
 番外編としてヤングサンデー増刊「アイドルパラダイス」[2005年](../Page/2005年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")号掲載の『下北GLORY DAYS〜お嬢の処女作〜』、ヤングサンデー増刊[2007年](../Page/2007年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")号掲載の『下北GLORY DAYS another season〜おかえり飯蔵…の巻』がある。
 
 ## ストーリー
+
+５人の美女と同居生活を送ることになった浪人生の青春の日々を描いたセクシー・コメディ。東京で大学に通う恋人を追いかけて上京した浪人生の優太は、下北沢のシェアハウス・ぬーとぴあに入居する。しかし同居人は全員女性だった…。
 
 ## 登場人物
 
@@ -115,5 +117,9 @@
 
   - [ヤンサンWEB -連載作品紹介- 下北GLORY DAYS](http://www.youngsunday.com/rensai/comics/shimokita.html)
   - [テレビ東京](http://www.tv-tokyo.co.jp/)
+
+<!-- end list -->
+
+  - \[<http://www.tvdrama-db.com/drama_info/p/id-39096>　テレビドラマデータベース\]
 
 [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:集合住宅を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台とした漫画作品 "wikilink") [Category:下北沢を舞台とした作品](https://ja.wikipedia.org/wiki/Category:下北沢を舞台とした作品 "wikilink") [Category:ロマンティック・コメディ](https://ja.wikipedia.org/wiki/Category:ロマンティック・コメディ "wikilink") [Category:ドラマ24](https://ja.wikipedia.org/wiki/Category:ドラマ24 "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:集合住宅を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台としたテレビドラマ "wikilink")

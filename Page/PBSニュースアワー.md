@@ -1,4 +1,4 @@
-> この記事は[PBS](https://ja.wikipedia.org/wiki/PBS)から翻訳されています。
+> この記事は[PBSニュースアワー](https://ja.wikipedia.org/wiki/PBSニュースアワー)から翻訳されています。
 
 
 『**PBSニュースアワー**』 (PBS News Hour) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[公共ネットワークである](../Page/公共放送.md "wikilink")[PBSが放送している平日夜の](../Page/公共放送サービス.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。制作は、[リバティメディア](../Page/リバティメディア.md "wikilink")が67%を出資する「MacNeil/Lehrer Productions」。放送時間は平日 19:00 - 20:00 ([ET](../Page/東部標準時.md "wikilink")) 。

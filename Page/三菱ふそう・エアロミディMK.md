@@ -1,4 +1,4 @@
-> この記事は[MK](https://ja.wikipedia.org/wiki/MK)から翻訳されています。
+> この記事は[三菱ふそう・エアロミディMK](https://ja.wikipedia.org/wiki/三菱ふそう・エアロミディMK)から翻訳されています。
 
 
 **エアロミディMK**（AERO MIDI MK）は、[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")が製造・販売していた中型バス（[エアロミディシリーズ](../Page/三菱ふそう・エアロミディ.md "wikilink")）である。

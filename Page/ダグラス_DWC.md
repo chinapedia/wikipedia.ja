@@ -1,4 +1,4 @@
-> この記事は[ DWC](https://ja.wikipedia.org/wiki/_DWC)から翻訳されています。
+> この記事は[ダグラス DWC](https://ja.wikipedia.org/wiki/ダグラス_DWC)から翻訳されています。
 
 
 **ダグラス DWC**（Douglas World Cruiser）はアメリカ陸軍の世界一周飛行のために製作された航空機である。1924年、175日をかけて世界一周を達成した。

@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[OL三人旅シリーズ](https://ja.wikipedia.org/wiki/OL三人旅シリーズ)から翻訳されています。
 
 
 **OL三人旅シリーズ**（オーエルさんにんたびシリーズ）は、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")」にて放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズの一つ。同局の[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")枠を代表する作品である。

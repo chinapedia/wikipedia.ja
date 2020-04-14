@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDテネリフェ](https://ja.wikipedia.org/wiki/CDテネリフェ)から翻訳されています。
 
 
 **CDテネリフェSAD**（**Club Deportivo Tenerife, S.A.D.**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カナリア諸島州](https://ja.wikipedia.org/wiki/カナリア諸島州 "wikilink")[サンタ・クルス・デ・テネリフェ](../Page/サンタ・クルス・デ・テネリフェ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）に所属する。
@@ -70,7 +70,7 @@
   -
     {| class="wikitable" style="text-align:right"
 
-|- bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試合数 \!勝利 \!引分 \!敗北 \!得点 \!失点 \!勝ち点 \!備考 |- |align=left|1997–98 |align=left|[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") | **15** || 38 || 11 || 12 || 15 || 44 || 57 || **45** || |- |align=left|1998–99 |align=left|[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") | **19** || 38 || 7 || 13 || 18 || 41 || 63 || **34** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|1999-2000 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **14** || 42 || 14 || 13 || 15 || 50 || 48 || **55** || |- |align=left|2000-01 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **3** || 42 || 21 || 11 || 10 || 58 || 32 || **74** || align="left" bgcolor="\#DDFFDD" | プリメーラ昇格 |- |align=left|2001–02 |align=left|[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") | **19** || 38 || 10 || 8 || 20 || 32 || 58 || **38** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|2002–03 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **8** || 42 || 13 || 18 || 11 || 53 || 39 || **57** || |- |align=left|2003–04 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **8** || 42 || 11 || 21 || 10 || 40 || 40 || **54** || |- |align=left|2004–05 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **9** || 42 || 13 || 18 || 11 || 42 || 45 || **57** || |- |align=left|2005–06 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **18** || 42 || 13 || 12 || 17 || 53 || 60 || **51** || |- |align=left|2006–07 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **7** || 42 || 18 || 6 || 18 || 48 || 51 || **60** || |- |align=left|2007–08 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **11** || 42 || 12 || 17 || 13 || 51 || 57 || **53** || |- |align=left|2008–09 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **3** || 42 || 24 || 9 || 9 || 79 || 47 || **81** || align="left" bgcolor="\#DDFFDD" | プリメーラ昇格 |- |align=left|2009–10 |align=left|[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") | **19** || 38 || 9 || 9 || 20 || 40 || 74 || **36** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|2010-11 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **20位** || 42 || 9 || 11 || 22 || 42 || 66 || **38** || align="left" bgcolor="\#FFCCCC" | セグンダB降格 |- |align=left|2011-12 |align=left|[セグンダB](../Page/セグンダ・ディビシオンB.md "wikilink") | **2位** || 38 || 18 || 10 || 10 || 51 || 32 || **64** || |- |align=left|2012-13 |align=left|[セグンダB](../Page/セグンダ・ディビシオンB.md "wikilink") | **1位** || 38 || 20 || 13 || 5 || 62 || 28 || **73** || align="left" bgcolor="\#DDFFDD" | セグンダ昇格 |- |align=left|2013-14 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **11位** || 42 || 15 || 9 || 18 || 46 || 49 || **54** || |- |align=left|2014-15 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **17位** || 42 || 11 || 15 || 16 || 41 || 48 || **48** || |- |align=left|2015-16 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **13位** || 42 || 13 || 16 || 13 || 45 || 46 || **55** || |- |align=left|2016-17 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **4位** || 42 || 16 || 18 || 8 || 50 || 37 || **66** || |- |align=left|2017-18 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **11位** || 42 || 15 || 14 || 13 || 58 || 50 || **59** || |- |align=left|2018-19 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **16位** || 42 || 11 || 17 || 14 || 40 || 50 || **50** || |- |align=left|2019-20 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **　位** || 42 || || || || || || **　** || |}
+|- bgcolor="\#efefef" \!シーズン \!ディビジョン \!順位 \!試 \!勝 \!引 \!敗 \!得 \!失 \!点 \!備考 |- |align=left|1997–98 |align=left|[プリメーラ](../Page/プリメーラ・ディビシオン.md "wikilink") | **15位** || 38 || 11 || 12 || 15 || 44 || 57 || **45** || |- |align=left|1998–99 |align=left|プリメーラ | **19位** || 38 || 7 || 13 || 18 || 41 || 63 || **34** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|1999-00 |align=left|[セグンダ](../Page/セグンダ・ディビシオン.md "wikilink") | **14位** || 42 || 14 || 13 || 15 || 50 || 48 || **55** || |- |align=left|2000-01 |align=left|セグンダ | **3位** || 42 || 21 || 11 || 10 || 58 || 32 || **74** || align="left" bgcolor="\#DDFFDD" | プリメーラ昇格 |- |align=left|2001–02 |align=left|プリメーラ | **19位** || 38 || 10 || 8 || 20 || 32 || 58 || **38** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|2002–03 |align=left|セグンダ | **8位** || 42 || 13 || 18 || 11 || 53 || 39 || **57** || |- |align=left|2003–04 |align=left|セグンダ | **8位** || 42 || 11 || 21 || 10 || 40 || 40 || **54** || |- |align=left|2004–05 |align=left|セグンダ | **9位** || 42 || 13 || 18 || 11 || 42 || 45 || **57** || |- |align=left|2005–06 |align=left|セグンダ | **18位** || 42 || 13 || 12 || 17 || 53 || 60 || **51** || |- |align=left|2006–07 |align=left|セグンダ | **7位** || 42 || 18 || 6 || 18 || 48 || 51 || **60** || |- |align=left|2007–08 |align=left|セグンダ | **11位** || 42 || 12 || 17 || 13 || 51 || 57 || **53** || |- |align=left|2008–09 |align=left|セグンダ | **3位** || 42 || 24 || 9 || 9 || 79 || 47 || **81** || align="left" bgcolor="\#DDFFDD" | プリメーラ昇格 |- |align=left|2009–10 |align=left|プリメーラ | **19位** || 38 || 9 || 9 || 20 || 40 || 74 || **36** || align="left" bgcolor="\#FFCCCC" | セグンダ降格 |- |align=left|2010-11 |align=left|セグンダ | **20位** || 42 || 9 || 11 || 22 || 42 || 66 || **38** || align="left" bgcolor="\#FFCCCC" | セグンダB降格 |- |align=left|2011-12 |align=left|セグンダ | **2位** || 38 || 18 || 10 || 10 || 51 || 32 || **64** || |- |align=left|2012-13 |align=left|セグンダ | **1位** || 38 || 20 || 13 || 5 || 62 || 28 || **73** || align="left" bgcolor="\#DDFFDD" | セグンダ昇格 |- |align=left|2013-14 |align=left|セグンダ | **11位** || 42 || 15 || 9 || 18 || 46 || 49 || **54** || |- |align=left|2014-15 |align=left|セグンダ | **17位** || 42 || 11 || 15 || 16 || 41 || 48 || **48** || |- |align=left|2015-16 |align=left|セグンダ | **13位** || 42 || 13 || 16 || 13 || 45 || 46 || **55** || |- |align=left|2016-17 |align=left|セグンダ | **4位** || 42 || 16 || 18 || 8 || 50 || 37 || **66** || |- |align=left|2017-18 |align=left|セグンダ | **11位** || 42 || 15 || 14 || 13 || 58 || 50 || **59** || |- |align=left|2018-19 |align=left|セグンダ | **16位** || 42 || 11 || 17 || 14 || 40 || 50 || **50** || |- |align=left|2019-20 |align=left|セグンダ | **　位** || 42 || || || || || || **　** || |}
 
 ### 過去の成績
 
@@ -101,43 +101,43 @@
 </tr>
 <tr class="odd">
 <td><p>1954–55</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>9位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>1955–56</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>9位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>1956–57</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>13位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>1957–58</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>2位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>1958–59</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>4位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1959–60</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>10位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1960–61</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>1位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
@@ -149,37 +149,37 @@
 </tr>
 <tr class="odd">
 <td><p>1962–63</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>10位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>1963–64</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>5位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1964–65</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1965–66</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>8位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1966–67</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1967–68</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>9位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
@@ -203,55 +203,55 @@
 </tr>
 <tr class="even">
 <td><p>1969-70</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>2位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1970-71</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>1位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
 <tr class="even">
 <td><p>1971–72</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>9位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1972–73</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>14位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1973–74</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>4位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1974–75</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>12位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1975–76</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>7位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1976–77</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>6位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1977–78</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>19位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
@@ -263,31 +263,31 @@
 </tr>
 <tr class="even">
 <td><p>1979–80</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>3位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1980–81</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>5位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1981–82</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>13位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1982–83</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>2位</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>1983–84</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>15位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
@@ -305,97 +305,97 @@
 <tbody>
 <tr class="odd">
 <td><p>1984–85</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>1985–86</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>19位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1986–87</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>1位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1987–88</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>12位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1988–89</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>3位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
 <tr class="even">
 <td><p>1989–90</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>18位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>1990–91</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>14位</p></td>
 <td><p>5回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1991–92</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>13位</p></td>
 <td><p>5回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1992–93</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>5回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1993–94</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>10位</p></td>
 <td><p>準決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994–95</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>15位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1995–96</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996–97</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>9位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1997–98</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>16位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998–99</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>19位</p></td>
 <td><p>4回戦敗退</p></td>
 </tr>
 <tr class="even">
-<td><p>1999–2000</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>1999–00</p></td>
+<td><p>セグンダ</p></td>
 <td><p>14位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
@@ -420,55 +420,55 @@
 <tbody>
 <tr class="odd">
 <td><p>2000–01</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>3位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2001–02</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>19位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002–03</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>8位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2003–04</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>8位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004–05</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>9位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2005–06</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>18位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006–07</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>7位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2007–08</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008–09</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>3位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
@@ -480,37 +480,37 @@
 </tr>
 <tr class="odd">
 <td><p>2010–11</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>20位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2011–12</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>2位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012–13</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>1位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2013-14</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014-15</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>17位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2015-16</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>13位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
@@ -528,27 +528,27 @@
 <tbody>
 <tr class="odd">
 <td><p>2016-17</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>4位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2017-18</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>11位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018-19</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>16位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2019-20</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>　位</p></td>
-<td></td>
+<td><p>ベスト16</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -559,12 +559,12 @@
 -----
 
   - **13**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）
-  - **40**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）
+  - **41**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）
   - **8**シーズン - [セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（現3部相当）
   - **3**シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（現4部相当、1977年以前は3部相当）
   - **22**シーズン - [ディビシオネス・レヒオナレス](../Page/ディビシオネス・レヒオナレス.md "wikilink")（現5部相当、1977年以前は3部相当）
 
-### 欧州カップ戦での戦績
+## 欧州の成績
 
 <table>
 <thead>
@@ -575,7 +575,7 @@
 <th><p>クラブ</p></th>
 <th><p>ホーム</p></th>
 <th><p>アウェー</p></th>
-<th><p>通算　</p></th>
+<th><p>通算</p></th>
 <th></th>
 </tr>
 </thead>
@@ -584,29 +584,29 @@
 <td><p>1993–94</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1993-94" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="../Page/AJオセール.md" title="wikilink">AJオセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">オセール</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–0</p></td>
 <td><p><strong>3–2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコスFC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
 <td><p>2–1</p></td>
 <td><p>3–4</p></td>
 <td><p><strong>5–5</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントスFC</a></p></td>
+<td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–3</p></td>
 <td><p><strong>2–4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_delete_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -614,19 +614,19 @@
 <td><p>1996–97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1996-97" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テル・アビブFC" title="wikilink">マッカビ・テル・アビブFC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テル・アビブFC" title="wikilink">マッカビ・テル・アビブ</a></p></td>
 <td><p>3–2</p></td>
 <td><p>1–1</p></td>
 <td><p><strong>4–3</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="../Page/SSラツィオ.md" title="wikilink">SSラツィオ</a></p></td>
+<td><p><a href="../Page/SSラツィオ.md" title="wikilink">ラツィオ</a></p></td>
 <td><p>5–3</p></td>
 <td><p>0–1</p></td>
 <td><p><strong>5–4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -636,7 +636,7 @@
 <td><p>0–0</p></td>
 <td><p>4–2</p></td>
 <td><p><strong>4–2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -644,9 +644,10 @@
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/ブレンビーIF.md" title="wikilink">ブレンビーIF</a></p></td>
 <td><p>0–1</p></td>
-<td><p>2–0 (aet)</p></td>
+<td><p>2–0<br />
+(<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
 <td><p><strong>2–1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_keep_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -654,9 +655,10 @@
 <td><p>準決勝</p></td>
 <td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>1–0</p></td>
-<td><p>0–2 (aet)</p></td>
+<td><p>0–2<br />
+(a.e.t.)</p></td>
 <td><p><strong>1–2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symbol_delete_vote.svg" title="wikilink">17px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -665,7 +667,7 @@
 
 ## 現所属メンバー
 
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))       ([第2主将](../Page/主将.md "wikilink"))
+([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))        ([第2主将](../Page/主将.md "wikilink"))
 
 ## 歴代監督
 

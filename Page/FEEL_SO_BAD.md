@@ -179,7 +179,7 @@
 | 21st | 2002/01/01 | [FEEL SO BEST LIVE\!](https://ja.wikipedia.org/wiki/FEEL_SO_BEST_LIVE! "wikilink")                          | 圏外   |
 | 22nd | 2005/07/06 | [DARIA BEST](https://ja.wikipedia.org/wiki/DARIA_BEST "wikilink")                                           | 圏外   |
 | 23rd | 2006/07/05 | [PERFECTNESS](https://ja.wikipedia.org/wiki/PERFECTNESS "wikilink")                                         | 圏外   |
-| 24rd | 2017/06/21 | [PENTAGON](https://ja.wikipedia.org/wiki/PENTAGON "wikilink")                                               | 圏外   |
+| 24th | 2017/06/21 | [PENTAGON](https://ja.wikipedia.org/wiki/PENTAGON "wikilink")                                               | 圏外   |
 
 ### Video
 

@@ -1,4 +1,4 @@
-> この記事は[VG](https://ja.wikipedia.org/wiki/VG)から翻訳されています。
+> この記事は[日産・VGエンジン](https://ja.wikipedia.org/wiki/日産・VGエンジン)から翻訳されています。
 
 
 **VGエンジン**は[日産自動車](../Page/日産自動車.md "wikilink")がかつて製造していた[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンである。

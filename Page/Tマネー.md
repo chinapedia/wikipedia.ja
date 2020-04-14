@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[Tマネー](https://ja.wikipedia.org/wiki/Tマネー)から翻訳されています。
 
 
 **Tマネー**（ティーマネー） とは、[大韓民国](../Page/大韓民国.md "wikilink")・[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")が出資・設立した[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[韓国スマートカード](https://ja.wikipedia.org/wiki/韓国スマートカード "wikilink")が発行している[ストアードフェアシステムカードである](../Page/乗車カード.md "wikilink")。またTマネー加盟店では[電子マネー](../Page/電子マネー.md "wikilink")として使用できる。

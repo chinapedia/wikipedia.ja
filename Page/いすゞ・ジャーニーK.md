@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[いすゞ・ジャーニーK](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーK)から翻訳されています。
 
 
 **いすゞ・ジャーニーK**（**Journey K**）はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造・販売していた中型バス。大型[路線バス](../Page/路線バス.md "wikilink")の[キュービックと同じく](../Page/いすゞ・キュービック.md "wikilink")[1984年](../Page/1984年.md "wikilink")に発売され、路線仕様と[観光](../Page/観光バス.md "wikilink")・[自家用仕様が存在した](../Page/自家用バス.md "wikilink")。[1999年](../Page/1999年.md "wikilink")に路線用は[エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、観光・自家用は[ガーラミオに移行して製造終了した](../Page/いすゞ・ガーラミオ.md "wikilink")。

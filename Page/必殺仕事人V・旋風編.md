@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[必殺仕事人V・旋風編](https://ja.wikipedia.org/wiki/必殺仕事人V・旋風編)から翻訳されています。
 
 
 『**必殺仕事人V・旋風編**』（ひっさつしごとにん ファイブ せんぷうへん）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")まで、[テレビ朝日系で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")22:00 - 22:54に全14話が放送されたテレビ[時代劇](../Page/時代劇.md "wikilink")である。[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）の共同製作。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVオバケてれもんじゃ](https://ja.wikipedia.org/wiki/TVオバケてれもんじゃ)から翻訳されています。
 
 
 『**TVオバケてれもんじゃ**』（テレビオバケてれもんじゃ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月10日](../Page/1月10日.md "wikilink") から同年[3月28日](../Page/3月28日.md "wikilink")まで[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[特撮](../Page/特撮.md "wikilink")テレビドラマである。

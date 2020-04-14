@@ -1,4 +1,4 @@
-> この記事は[SCA-](https://ja.wikipedia.org/wiki/SCA-)から翻訳されています。
+> この記事は[SCA-自](https://ja.wikipedia.org/wiki/SCA-自)から翻訳されています。
 
 
 **SCA-自**（**すかぢ**、男性、12月20日）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[シナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")。ゲーム制作会社ムーンフェイズ株式会社代表取締役を務めている。[ケロQ](../Page/ケロQ.md "wikilink")、[枕の総統括でもある](../Page/枕_\(ゲームブランド\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")出身、[千葉県](../Page/千葉県.md "wikilink")育ち。

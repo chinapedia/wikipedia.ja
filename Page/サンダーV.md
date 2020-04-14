@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[サンダーV](https://ja.wikipedia.org/wiki/サンダーV)から翻訳されています。
 
 
 **サンダーV**は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[メーシーが開発](../Page/ユニバーサルエンターテインメント.md "wikilink")・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。
@@ -35,6 +35,7 @@
   - [サンダーVスペシャル](../Page/サンダーVスペシャル.md "wikilink")（2006年）5号機
   - [ダイナミックサンダーV](https://ja.wikipedia.org/wiki/ダイナミックサンダーV "wikilink")（2011年）5号機
   - [サンダーVリボルト](https://ja.wikipedia.org/wiki/サンダーVリボルト "wikilink")（2015年）5号機
+  - [サンダーVライトニング](https://ja.wikipedia.org/wiki/サンダーVライトニング "wikilink")（2020年予定）6号機
 
 ## ボーナス確率・機械割
 

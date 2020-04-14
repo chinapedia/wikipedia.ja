@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR羽越本線脱線事故](https://ja.wikipedia.org/wiki/JR羽越本線脱線事故)から翻訳されています。
 
 
 **JR羽越本線脱線事故**（ジェイアールうえつほんせんだっせんじこ）は、[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[12月25日](../Page/12月25日.md "wikilink")に[羽越本線](https://ja.wikipedia.org/wiki/羽越本線 "wikilink")の[北余目駅](../Page/北余目駅.md "wikilink") - [砂越駅](../Page/砂越駅.md "wikilink")間で[平成18年豪雪](../Page/平成18年豪雪.md "wikilink")によって発生した[列車脱線事故](../Page/列車脱線事故.md "wikilink")である。

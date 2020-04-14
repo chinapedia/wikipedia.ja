@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bビーダマン爆外伝](https://ja.wikipedia.org/wiki/Bビーダマン爆外伝)から翻訳されています。
 
 
 『**Bビーダマン爆外伝**』（ボンバーマン ビーダマンばくがいでん）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")まで[名古屋テレビを制作局として](../Page/名古屋テレビ放送.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列にて全](../Page/オールニッポン・ニュースネットワーク.md "wikilink")48話放送されたテレビアニメ。

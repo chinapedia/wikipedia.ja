@@ -1,4 +1,4 @@
-> この記事は[Nintendo](https://ja.wikipedia.org/wiki/Nintendo)から翻訳されています。
+> この記事は[電撃Nintendo](https://ja.wikipedia.org/wiki/電撃Nintendo)から翻訳されています。
 
 
 『**電撃Nintendo**』（でんげきにんてんどー）は[KADOKAWA Game Linkageが発行している](https://ja.wikipedia.org/wiki/KADOKAWA_Game_Linkage "wikilink")[任天堂](../Page/任天堂.md "wikilink")系ゲーム機専門誌。発売は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")。任天堂系ゲーム機専門誌としては、途中で総合誌へ転換した『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』を除くと最も長い歴史を持つ雑誌である。

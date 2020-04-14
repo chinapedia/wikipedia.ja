@@ -1,4 +1,4 @@
-> この記事は[SAY](https://ja.wikipedia.org/wiki/SAY)から翻訳されています。
+> この記事は[SAYスーパーニュース](https://ja.wikipedia.org/wiki/SAYスーパーニュース)から翻訳されています。
 
 
 『**SAYスーパーニュース**』（セイ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*SAY Super NEWS*）は、[さくらんぼテレビで放送されていた夕方の](../Page/さくらんぼテレビジョン.md "wikilink")[山形県](../Page/山形県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

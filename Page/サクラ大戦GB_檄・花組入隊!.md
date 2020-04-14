@@ -1,4 +1,4 @@
-> この記事は[GB !](https://ja.wikipedia.org/wiki/GB_!)から翻訳されています。
+> この記事は[サクラ大戦GB 檄・花組入隊!](https://ja.wikipedia.org/wiki/サクラ大戦GB_檄・花組入隊!)から翻訳されています。
 
 
 『**サクラ大戦GB 檄・花組入隊\!**』は、2000年7月28日に[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")から発売された[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。同社の「SAKURA PROJECT2000」シリーズの第2弾（第1弾は6月23日に発売された「ポケットサクラ」）であり、[セガのテレビゲーム](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")『[サクラ大戦シリーズ](https://ja.wikipedia.org/wiki/サクラ大戦シリーズ "wikilink")』の一つでもある。サクラ大戦シリーズ初のセガ以外でのメーカーで発売された作品でもある。

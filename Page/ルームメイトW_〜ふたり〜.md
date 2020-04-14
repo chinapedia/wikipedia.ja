@@ -1,4 +1,4 @@
-> この記事は[W ](https://ja.wikipedia.org/wiki/W_)から翻訳されています。
+> この記事は[ルームメイトW 〜ふたり〜](https://ja.wikipedia.org/wiki/ルームメイトW_〜ふたり〜)から翻訳されています。
 
 
 『**ルームメイトW（ダブル）〜ふたり〜**』は、[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")に発売した[セガサターン](../Page/セガサターン.md "wikilink")用の[美少女ゲームソフトである](../Page/ギャルゲー.md "wikilink")。

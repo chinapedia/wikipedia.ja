@@ -67,6 +67,21 @@
       -
         前作『ONE LOVE』の収録曲のリアレンジ・ヴァージョン。前作の様なロック・バラード風な作りではなく、今作に顕著なスロウ・バラード風な作りをもって、本作品のラストを穏やかに彩っている。2002年に放送された[毎日放送](../Page/毎日放送.md "wikilink")『[情熱大陸](../Page/情熱大陸.md "wikilink")』で「ALL STANDARD IS YOU」の別バージョンのレコーディング風景が紹介されていたが、おそらくその別バージョンがこの曲の原型になっているのではないかと思われる。
 
+## 参加ミュージシャン
+
+  - [永井利光](../Page/永井利光.md "wikilink") - ドラム演奏
+  - SHIGEO KOMORI - キーボード奏者
+  - 佐久間正英 - キーボード、ピアノ、ギター、プログラミング
+  - Curtis King Jr. - コーラス(\#1)
+  - Brenda White-King - コーラス(\#1)
+  - Tawatha Agee - コーラス(\#1)
+  - Pierre Cook - コーラス(\#12)
+  - Knolle Higginson-wydro - コーラス(\#12)
+  - Shahene Nelson - コーラス(\#12)
+  - Dejahnee Richardson - コーラス(\#12)
+  - Headcrack - ラップ
+  - dj honda - トラッキング(\#13)
+
 ## 関連項目
 
   - [2002年の音楽](../Page/2002年の音楽.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[TL](https://ja.wikipedia.org/wiki/TL)から翻訳されています。
+> この記事は[アキュラ・TL](https://ja.wikipedia.org/wiki/アキュラ・TL)から翻訳されています。
 
 
 **TL**（ティーエル）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。[アキュラ・ビガーの後継モデルとして](../Page/ホンダ・ビガー.md "wikilink")1995年から2014年まで発売されたアキュラの最量販モデルである。2015年モデルより[TSXと統合されて](https://ja.wikipedia.org/wiki/アキュラ・TSX "wikilink")[TLXとなった](https://ja.wikipedia.org/wiki/アキュラ・TLX "wikilink")。

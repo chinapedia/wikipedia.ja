@@ -1,4 +1,4 @@
-> この記事は[3rd](https://ja.wikipedia.org/wiki/3rd)から翻訳されています。
+> この記事は[3rdステーション](https://ja.wikipedia.org/wiki/3rdステーション)から翻訳されています。
 
 
 『**3rdステーション**』（サードステーション）は、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")のソロデビュー後3枚目のオリジナルアルバム。

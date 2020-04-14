@@ -1,4 +1,4 @@
-> この記事は[TNC](https://ja.wikipedia.org/wiki/TNC)から翻訳されています。
+> この記事は[TNCニュース工場](https://ja.wikipedia.org/wiki/TNCニュース工場)から翻訳されています。
 
 
 『**TNCニュース工場**』（ティーエヌシーニュースこうじょう）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[9月30日](../Page/9月30日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")が放送されていた[深夜](../Page/深夜.md "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")（『FNNニュース工場』のテレビ西日本タイトル差し替え）。

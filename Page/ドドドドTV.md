@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ドドドドTV](https://ja.wikipedia.org/wiki/ドドドドTV)から翻訳されています。
 
 
 **ドドドドTV**（どどどどティービー）は、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")で2006年3月25日まで毎週土曜24時30分から放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[スポンサー](../Page/スポンサー.md "wikilink")は[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の[コンコルドの](https://ja.wikipedia.org/wiki/コンコルドグループ "wikilink")[一社提供](../Page/一社提供.md "wikilink")であった。

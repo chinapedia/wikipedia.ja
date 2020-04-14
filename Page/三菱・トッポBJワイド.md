@@ -1,4 +1,4 @@
-> この記事は[BJ](https://ja.wikipedia.org/wiki/BJ)から翻訳されています。
+> この記事は[三菱・トッポBJワイド](https://ja.wikipedia.org/wiki/三菱・トッポBJワイド)から翻訳されています。
 
 
 **トッポBJワイド**（トッポ・ビージェイ・ワイド、*Toppo BJ wide*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していた[トールワゴン](../Page/トールワゴン.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")である。

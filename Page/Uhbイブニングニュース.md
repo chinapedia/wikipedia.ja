@@ -1,4 +1,4 @@
-> この記事は[Uhb](https://ja.wikipedia.org/wiki/Uhb)から翻訳されています。
+> この記事は[Uhbイブニングニュース](https://ja.wikipedia.org/wiki/Uhbイブニングニュース)から翻訳されています。
 
 
 『**uhbイブニングニュース**』（ユーエイチビーイブニングニュース）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")（土曜版は[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）まで[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送された夕方の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（協力：[北海道新聞](../Page/北海道新聞.md "wikilink")）。『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の北海道での改題タイトルである。

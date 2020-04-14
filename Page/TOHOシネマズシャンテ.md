@@ -1,4 +1,4 @@
-> この記事は[TOHO](https://ja.wikipedia.org/wiki/TOHO)から翻訳されています。
+> この記事は[TOHOシネマズシャンテ](https://ja.wikipedia.org/wiki/TOHOシネマズシャンテ)から翻訳されています。
 
 
 **TOHOシネマズシャンテ**（とうほうシネマズ シャンテ、TOHO CINEMAS CHANTER）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")のシャンテビル内にある[映画館](../Page/映画館.md "wikilink")。経営・運営は[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社。

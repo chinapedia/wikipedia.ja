@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[SVアイントラハト・トリーア](https://ja.wikipedia.org/wiki/SVアイントラハト・トリーア)から翻訳されています。
 
 
 **SVアイントラハト・トリーア**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の南西部、[ラインラント＝プファルツ州](../Page/ラインラント＝プファルツ州.md "wikilink")の都市[トリーア](../Page/トリーア.md "wikilink")を本拠地とするサッカークラブである。

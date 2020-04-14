@@ -1,4 +1,4 @@
-> この記事は[HYPER2](https://ja.wikipedia.org/wiki/HYPER2)から翻訳されています。
+> この記事は[HYPERプレイステーション2](https://ja.wikipedia.org/wiki/HYPERプレイステーション2)から翻訳されています。
 
 
 『**HYPERプレイステーション2**』（ハイパープレイステーションツー）は、[1994年](../Page/1994年.md "wikilink")12月より[2006年](../Page/2006年.md "wikilink")6月まで[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")（現[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")）が刊行していた[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の専門](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")（[2000年](../Page/2000年.md "wikilink")より誌名に「2」を追加）。月刊ながら[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")のオフィシャル誌であった。[2000年](../Page/2000年.md "wikilink")から月2回刊となった時期があったが、程なく月刊の発刊体制に戻っている。

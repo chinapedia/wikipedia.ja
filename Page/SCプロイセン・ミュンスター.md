@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCプロイセン・ミュンスター](https://ja.wikipedia.org/wiki/SCプロイセン・ミュンスター)から翻訳されています。
 
 
 **SCプロイセン・ミュンスター** (**SC Preußen Münster**) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")の[ミュンスター](../Page/ミュンスター.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。クラブの冒頭に冠された[プロイセン](../Page/プロイセン.md "wikilink")は、かつてこの地が[プロイセン王国](../Page/プロイセン王国.md "wikilink")の領土であったことに由来する（[ラテン語](../Page/ラテン語.md "wikilink")でプロイセンを意味する「ボルシア」が周辺のいくつかのクラブに冠されていることと同様）。

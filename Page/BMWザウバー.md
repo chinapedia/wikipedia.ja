@@ -1,4 +1,4 @@
-> この記事は[BMW](https://ja.wikipedia.org/wiki/BMW)から翻訳されています。
+> この記事は[BMWザウバー](https://ja.wikipedia.org/wiki/BMWザウバー)から翻訳されています。
 
 
 **BMWザウバー**（BMW Sauber F1 Team）は、[2006年](../Page/2006年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで[F1世界選手権に参戦していたチームである](../Page/フォーミュラ1.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に自動車会社の[BMW](../Page/BMW.md "wikilink")が既存のチーム[ザウバー](../Page/ザウバー.md "wikilink")を買収して設立した。しかし[2009年](../Page/2009年.md "wikilink")シーズン後にチームは元のザウバーの手に売却された\[1\]

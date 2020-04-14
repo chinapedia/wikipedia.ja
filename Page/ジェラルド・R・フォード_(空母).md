@@ -1,4 +1,4 @@
-> この記事は[R \(\)](https://ja.wikipedia.org/wiki/R_\(\))から翻訳されています。
+> この記事は[ジェラルド・R・フォード \(空母\)](https://ja.wikipedia.org/wiki/ジェラルド・R・フォード_\(空母\))から翻訳されています。
 
 
 **ジェラルド・R・フォード**（**USS Gerald R. Ford, CVN-78**）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。[ジェラルド・R・フォード級の](../Page/ジェラルド・R・フォード級航空母艦.md "wikilink")[ネームシップ](https://ja.wikipedia.org/wiki/ネームシップ "wikilink")（1番艦）。[2009年](../Page/2009年.md "wikilink")に起工され、[2016年](../Page/2016年.md "wikilink")に就役を予定して建造が進められていたが、[2017年](../Page/2017年.md "wikilink")に就役した\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[REI \(\)](https://ja.wikipedia.org/wiki/REI_\(\))から翻訳されています。
+> この記事は[REI \(イラストレーター\)](https://ja.wikipedia.org/wiki/REI_\(イラストレーター\))から翻訳されています。
 
 
 **REI**（れい、[7月11日](../Page/7月11日.md "wikilink")生）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の女性[イラストレーター](../Page/イラストレーター.md "wikilink")、[キャラクターデザイナー](https://ja.wikipedia.org/wiki/キャラクターデザイナー "wikilink")。

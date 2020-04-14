@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[トロワAC](https://ja.wikipedia.org/wiki/トロワAC)から翻訳されています。
 
 
 **エスペローンス・スポルティーヴ・トロワ・オーブ・シャンパーニュ**（**Espérance Sportive Troyes Aube Champagne**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トロワ](../Page/トロワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属。

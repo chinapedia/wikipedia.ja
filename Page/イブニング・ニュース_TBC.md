@@ -1,4 +1,4 @@
-> この記事は[ TBC](https://ja.wikipedia.org/wiki/_TBC)から翻訳されています。
+> この記事は[イブニング・ニュース TBC](https://ja.wikipedia.org/wiki/イブニング・ニュース_TBC)から翻訳されています。
 
 
 『**イブニング・ニュース TBC**』（イブニングニュースティービーシー）は、[東北放送](../Page/東北放送.md "wikilink")(TBC)テレビで、[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放映したの夕方の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")（=[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパート）。正式タイトルは『**JNNイブニング・ニュース TBC**』

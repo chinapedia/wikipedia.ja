@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン)から翻訳されています。
 
 
 『**マル勝PCエンジン**』（まるかつぴーしーえんじん）は、[角川書店](../Page/角川書店.md "wikilink")が刊行していた[NECホームエレクトロニクスの家庭用ゲーム機](../Page/日本電気ホームエレクトロニクス.md "wikilink")・[PCエンジン](../Page/PCエンジン.md "wikilink")専門[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。

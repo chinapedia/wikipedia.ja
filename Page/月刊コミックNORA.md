@@ -1,4 +1,4 @@
-> この記事は[NORA](https://ja.wikipedia.org/wiki/NORA)から翻訳されています。
+> この記事は[月刊コミックNORA](https://ja.wikipedia.org/wiki/月刊コミックNORA)から翻訳されています。
 
 
 『**月刊コミックNORA**』（げっかんコミックノーラ）は、学習研究社（現・[学研ホールディングス](../Page/学研ホールディングス.md "wikilink")、事業部門は[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")に分割）が[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて刊行していた[少年漫画](../Page/少年漫画.md "wikilink")雑誌。本項では前身である『**SFアニメディア**』（エスエフアニメディア、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から1986年にかけて刊行）と姉妹誌の『**CAIN**』（カイン）についても記述する（『コミックPocke』については『[アニメディア](../Page/アニメディア.md "wikilink")』参照 ）。

@@ -1,4 +1,4 @@
-> この記事は[YBC1](https://ja.wikipedia.org/wiki/YBC1)から翻訳されています。
+> この記事は[YBCニュースプラス1](https://ja.wikipedia.org/wiki/YBCニュースプラス1)から翻訳されています。
 
 
 『**YBCニュースプラス1**』（ワイビーシー ニュースプラスワン）は[山形放送](../Page/山形放送.md "wikilink")テレビで[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にかけて放送されていたニュース番組。

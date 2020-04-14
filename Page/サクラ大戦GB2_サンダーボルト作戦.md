@@ -1,4 +1,4 @@
-> この記事は[GB2 ](https://ja.wikipedia.org/wiki/GB2_)から翻訳されています。
+> この記事は[サクラ大戦GB2 サンダーボルト作戦](https://ja.wikipedia.org/wiki/サクラ大戦GB2_サンダーボルト作戦)から翻訳されています。
 
 
 『**サクラ大戦GB2 サンダーボルト作戦**』は、[2001年](../Page/2001年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[セガから発売された](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用ドラマチックRPG。『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』シリーズのひとつ。セガが発売元を求めた（カラー用ソフトも含め）唯一の[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトであり、セガ最後の8ビットゲームソフトでもあった。

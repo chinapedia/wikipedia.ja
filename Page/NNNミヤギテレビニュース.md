@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNミヤギテレビニュース](https://ja.wikipedia.org/wiki/NNNミヤギテレビニュース)から翻訳されています。
 
 
 **NNNミヤギテレビニュース**は、[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")（MMT）で[生放送](../Page/生放送.md "wikilink")されている[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")域の[スポットニュース](../Page/スポットニュース.md "wikilink")番組。[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")は日替わりでミヤギテレビの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が担当する。

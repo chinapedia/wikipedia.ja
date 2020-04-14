@@ -1,4 +1,4 @@
-> この記事は[TOHO](https://ja.wikipedia.org/wiki/TOHO)から翻訳されています。
+> この記事は[TOHOシネマズみゆき座](https://ja.wikipedia.org/wiki/TOHOシネマズみゆき座)から翻訳されています。
 
 
 **TOHOシネマズみゆき座**（トウホウシネマ みゆきざ、TOHO CINEMAS MIYUKIZA）は、[日比谷](../Page/日比谷.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）に所在していた[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社運営の[映画館](../Page/映画館.md "wikilink")。現在の[TOHOシネマズ日比谷](https://ja.wikipedia.org/wiki/東京ミッドタウン日比谷 "wikilink")・スクリーン13に当たる。

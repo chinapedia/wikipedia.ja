@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トゥールーズFC](https://ja.wikipedia.org/wiki/トゥールーズFC)から翻訳されています。
 
 
 **トゥールーズ・フットボール・クルブ**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トゥールーズ](../Page/トゥールーズ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

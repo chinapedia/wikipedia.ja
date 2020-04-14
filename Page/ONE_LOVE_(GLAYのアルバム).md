@@ -1,4 +1,4 @@
-> この記事は[ONE LOVE \(GLAY\)](https://ja.wikipedia.org/wiki/ONE_LOVE_\(GLAY\))から翻訳されています。
+> この記事は[ONE LOVE \(GLAYのアルバム\)](https://ja.wikipedia.org/wiki/ONE_LOVE_\(GLAYのアルバム\))から翻訳されています。
 
 
 『**ONE LOVE**』（ワン ラブ）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャー6作目のオリジナル・アルバム、及び本作の収録曲の1つ。
@@ -83,11 +83,27 @@
       -
         同年開催された[GLAY EXPOにおいてエンディングにSEとして流れていた](../Page/GLAY_EXPO.md "wikilink")、HISASHIによるアレンジの楽曲。
 
+## 参加ミュージシャン
+
+  - [永井利光](../Page/永井利光.md "wikilink") - ドラムス
+  - [小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink") - キーボード(\#6)
+  - 佐久間正英 - キーボード、ピアノ、ギター、プログラミング
+  - dj honda - トラッキング(\#1)
+  - 草間敬 - マニュピレーション(\#3)
+  - Curtis King Jr. - コーラス(\#6)
+  - Brenda White-King - コーラス(\#6)
+  - Tawatha Agee - コーラス(\#6)
+  - JIN SHIMAMURA - ナレーション(\#13)
+  - KENZY(d.w.p) - シェイカー(\#13)
+  - YUNA(紫雨林) - コーラス(\#15)
+  - SK(紫雨林) - ギター演奏(\#15)
+
 ## 関連項目
 
   - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
   - [UNITY ROOTS & FAMILY,AWAY](../Page/UNITY_ROOTS_&_FAMILY,AWAY.md "wikilink")
   - [GLAY DOME TOUR 2001-2002 ONE LOVE](../Page/GLAY_DOME_TOUR_2001-2002_ONE_LOVE.md "wikilink")
+  - [REVIEW II -BEST OF GLAY-](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")
 
 ## 脚注
 

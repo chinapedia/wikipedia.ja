@@ -1,4 +1,4 @@
-> この記事は[RBC](https://ja.wikipedia.org/wiki/RBC)から翻訳されています。
+> この記事は[RBCローゼンダール](https://ja.wikipedia.org/wiki/RBCローゼンダール)から翻訳されています。
 
 
 **RBC**（**Roosendaalse Boys Combinatie**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ローゼンダールを本拠地としている](https://ja.wikipedia.org/wiki/ローゼンダール_\(オランダ\) "wikilink")。現在の名称はRBCであり、エルベーセーと発音する。
@@ -76,4 +76,4 @@
 
   - [オフィシャルページ](http://www.rbconline.nl/)
 
-[Category:現在活動していないオランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオランダのサッカークラブ "wikilink") [Category:北ブラバント州のスポーツ](https://ja.wikipedia.org/wiki/Category:北ブラバント州のスポーツ "wikilink")
+[Category:現在活動していないオランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオランダのサッカークラブ "wikilink") [Category:北ブラバント州のスポーツ](https://ja.wikipedia.org/wiki/Category:北ブラバント州のスポーツ "wikilink") [Category:1912年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1912年設立のスポーツチーム "wikilink") [Category:2011年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2011年廃止のスポーツチーム "wikilink") [Category:ローゼンダール](https://ja.wikipedia.org/wiki/Category:ローゼンダール "wikilink")

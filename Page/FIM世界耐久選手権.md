@@ -1,11 +1,17 @@
-> この記事は[FIM](https://ja.wikipedia.org/wiki/FIM)から翻訳されています。
+> この記事は[FIM世界耐久選手権](https://ja.wikipedia.org/wiki/FIM世界耐久選手権)から翻訳されています。
 
 
-**FIM世界耐久ロードレース選手権シリーズ（EWC）**（**FIM Endurance World Championship**）は、[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")。FIM（[国際モーターサイクリズム連盟](../Page/国際モーターサイクリズム連盟.md "wikilink")）が主催する[ロードレース耐久レースの](../Page/ロードレース_\(オートバイ\).md "wikilink")[世界選手権大会](../Page/世界選手権大会.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より日本で開催の[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")がシリーズに組み込まれ、2016 - 2017年シーズンよりシリーズの最終戦に位置づけられている。その他主なレースとしては[ル・マン24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース "wikilink")、[ボルドール24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ボルドール24時間耐久ロードレース "wikilink")、[オッシャースレーベン8時間耐久ロードレース](https://ja.wikipedia.org/wiki/オッシャースレーベン8時間耐久ロードレース "wikilink")。
+**FIM世界耐久ロードレース選手権シリーズ（EWC）**（**FIM Endurance World Championship**）は、[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")。FIM（[国際モーターサイクリズム連盟](../Page/国際モーターサイクリズム連盟.md "wikilink")）が主催する[ロードレース耐久レースの](../Page/ロードレース_\(オートバイ\).md "wikilink")[世界選手権大会](../Page/世界選手権大会.md "wikilink")。
+
+## 概要
+
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より日本で開催の[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")がシリーズに組み込まれ、2016 - 2017年シーズンよりシリーズの最終戦に位置づけられている。その他主なレースとしては[ル・マン24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース "wikilink")、[ボルドール24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ボルドール24時間耐久ロードレース "wikilink")、[オッシャースレーベン8時間耐久ロードレース](https://ja.wikipedia.org/wiki/オッシャースレーベン8時間耐久ロードレース "wikilink")。
 
 2019 - 2020年シーズンから[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[セパン・インターナショナル・サーキット](../Page/セパン・インターナショナル・サーキット.md "wikilink")での8時間耐久が新たにカレンダーに加わる。レースフォーマットは鈴鹿8耐を踏襲し、TOP10トライアルも行う予定。また、鈴鹿の予選と位置付けられ優先出場権が与えられる\[1\]。
 
-また、1973年から2003年までリェージュ24時間耐久ロードレースが行われていた[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")サーキットも2021 - 2022年シーズンからシリーズに加わる。時期は2022年6月上旬から、レースフォーマットは金曜日の日没後(午後10時)から土曜日までの24時間の予定\[2\]。
+2020年は[新型コロナウイルスの影響によりフランスで](../Page/2019新型コロナウイルス.md "wikilink")1,000人以上の集会・イベントが禁止されたため、4月に開催予定だったル・マン24時間耐久ロードレースは延期され9月にシーズン最終戦として組み込まれる事となった\[2\]。
+
+また、1973年から2003年までリェージュ24時間耐久ロードレースが行われていた[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")サーキットも2021 - 2022年シーズンからシリーズに加わる。時期は2022年6月上旬から、レースフォーマットは金曜日の日没後(午後10時)から土曜日までの24時間の予定\[3\]。
 
 ## ポイント方式
 
@@ -150,4 +156,5 @@
 [Category:オートバイレース](https://ja.wikipedia.org/wiki/Category:オートバイレース "wikilink") [Category:世界選手権](https://ja.wikipedia.org/wiki/Category:世界選手権 "wikilink")
 
 1.  [鈴鹿8耐の新たな予選ラウンド、セパン8時間レースが2019年からEWCに加わる](https://www.as-web.jp/bike/394974?all) - autosport web
-2.  [FIM EWC JAPANさんのツイート : スパ24時間 - FIM世界耐久選手権が再びスパ・フランコルシャンで開催](https://twitter.com/fimewc_JAPAN/status/1128314501504425985)
+2.  [2019/2020FIM EWC ル・マン24時間耐久レース 2020年9月5日〜6日に開催延期](https://www.tsrjp.com/archives/744)[TSR](https://ja.wikipedia.org/wiki/TSR "wikilink")（Technical Sports Racing）公式サイト
+3.  [FIM EWC JAPANさんのツイート : スパ24時間 - FIM世界耐久選手権が再びスパ・フランコルシャンで開催](https://twitter.com/fimewc_JAPAN/status/1128314501504425985)

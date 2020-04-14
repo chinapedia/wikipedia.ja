@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B壱](https://ja.wikipedia.org/wiki/B壱)から翻訳されています。
 
 
 『**B壱**』（ビーいち）は[大久保篤](../Page/大久保篤.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊）において2001年11月号から2003年6月号まで連載されていた。全4巻。

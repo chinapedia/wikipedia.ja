@@ -1,4 +1,4 @@
-> この記事は[Luna \(\)](https://ja.wikipedia.org/wiki/Luna_\(\))から翻訳されています。
+> この記事は[Luna \(ワークステーション\)](https://ja.wikipedia.org/wiki/Luna_\(ワークステーション\))から翻訳されています。
 
 
 **LUNA**(ルナ)は、[オムロン](../Page/オムロン.md "wikilink")が発売していた[ワークステーション](../Page/ワークステーション.md "wikilink")。 LUNAという名は、[Sunに対抗するものとして名づけられたという説がある](../Page/サン・マイクロシステムズ.md "wikilink")。

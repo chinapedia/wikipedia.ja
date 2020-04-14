@@ -1,4 +1,4 @@
-> この記事は[GOLD \(1\)](https://ja.wikipedia.org/wiki/GOLD_\(1\))から翻訳されています。
+> この記事は[マッキングGOLD \(1\)](https://ja.wikipedia.org/wiki/マッキングGOLD_\(1\))から翻訳されています。
 
 
 **マッキングGOLD①**(マッキングゴールド イチ)は、[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")のソロデビュー後1枚目のオリジナルアルバム。

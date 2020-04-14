@@ -1,4 +1,4 @@
-> この記事は[QX](https://ja.wikipedia.org/wiki/QX)から翻訳されています。
+> この記事は[インフィニティ・QX](https://ja.wikipedia.org/wiki/インフィニティ・QX)から翻訳されています。
 
 
 **QX**は、[日産で製造](../Page/日産自動車.md "wikilink")、[インフィニティブランドで販売していた](../Page/インフィニティ_\(日産自動車\).md "wikilink")[スポーツ・ユーティリティ・ビークル](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")（SUV）である。

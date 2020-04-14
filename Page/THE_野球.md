@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 野球](https://ja.wikipedia.org/wiki/THE_野球)から翻訳されています。
 
 
 **THE 野球**（ざ やきゅう）は、[2000年代](../Page/2000年代.md "wikilink")前半に[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より廉価版[ゲームソフト](../Page/ゲームソフト.md "wikilink")シリーズ『[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")』の作品として発売された[野球](../Page/野球.md "wikilink")[ゲームシリーズである](../Page/スポーツゲーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TNC](https://ja.wikipedia.org/wiki/TNC)から翻訳されています。
+> この記事は[TNCスピーク](https://ja.wikipedia.org/wiki/TNCスピーク)から翻訳されています。
 
 
 『**TNCスピーク**』は、[テレビ西日本](../Page/テレビ西日本.md "wikilink")で放送されていた昼の[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』の[福岡県](../Page/福岡県.md "wikilink")ローカルパート）。協力：[西日本新聞](../Page/西日本新聞.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に『**TNCニューススピーク**』（正確には**FNNニューススピーク TNC**）。

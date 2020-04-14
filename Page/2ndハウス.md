@@ -1,4 +1,4 @@
-> この記事は[2nd](https://ja.wikipedia.org/wiki/2nd)から翻訳されています。
+> この記事は[2ndハウス](https://ja.wikipedia.org/wiki/2ndハウス)から翻訳されています。
 
 
 『**2ndハウス**』（セカンドハウス）は、[樫田正剛](https://ja.wikipedia.org/wiki/樫田正剛 "wikilink")作・[七瀬あゆむ](https://ja.wikipedia.org/wiki/七瀬あゆむ "wikilink")画の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[MANGAオールマン](../Page/MANGAオールマン.md "wikilink")』に連載されていた。

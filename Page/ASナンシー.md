@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASナンシー](https://ja.wikipedia.org/wiki/ASナンシー)から翻訳されています。
 
 
 **アソシアシヨン・スポルティーヴ・ナンシー・ロレーヌ**（**Association Sportive Nancy Lorraine**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ナンシー](../Page/ナンシー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

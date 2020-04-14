@@ -1,4 +1,4 @@
-> この記事は[IWGP](https://ja.wikipedia.org/wiki/IWGP)から翻訳されています。
+> この記事は[IWGPリーグ戦](https://ja.wikipedia.org/wiki/IWGPリーグ戦)から翻訳されています。
 
 
 **IWGPリーグ戦**（アイ・ダブリュー・ジー・ピー・リーグせん）は、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")によって1983年開催の第一回大会から1987年開催の第五回大会まで行われた[プロレス](../Page/プロレス.md "wikilink")のリーグ戦（第三回大会のみトーナメント戦形式）。

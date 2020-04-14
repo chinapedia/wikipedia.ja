@@ -1,4 +1,4 @@
-> この記事は[IV MASK OF THE SUN](https://ja.wikipedia.org/wiki/IV_MASK_OF_THE_SUN)から翻訳されています。
+> この記事は[イースIV MASK OF THE SUN](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN)から翻訳されています。
 
 
 『**イースIV MASK OF THE SUN**』（イースフォー マスクオブザサン）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）11月19日に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") (SFC) 用ソフトとして発売された。

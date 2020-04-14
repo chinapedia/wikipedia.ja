@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[エイブラハム・J・ツワルスキー](https://ja.wikipedia.org/wiki/エイブラハム・J・ツワルスキー)から翻訳されています。
 
 
 **エイブラハム・J・ツワルスキー**あるいは**エイブラハム・J・トワースキ**（Rabbi Dr. **Ab(v)raham J. Twerski**, [1930年](../Page/1930年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - ）は[ハシディズム](../Page/ハシディズム.md "wikilink")のチェルノビル派（[Chernobyl](https://ja.wikipedia.org/wiki/:en:Chernobyl_\(Hasidic_dynasty\) "wikilink")）の[ラビ](../Page/ラビ.md "wikilink")にして[精神科医](../Page/精神科医.md "wikilink")。 [薬物乱用](../Page/薬物乱用.md "wikilink")（[substance abuse](https://ja.wikipedia.org/wiki/:en:substance_abuse "wikilink")）とその心理に関する専門家。

@@ -1,4 +1,4 @@
-> この記事は[TNC](https://ja.wikipedia.org/wiki/TNC)から翻訳されています。
+> この記事は[TNCニュース](https://ja.wikipedia.org/wiki/TNCニュース)から翻訳されています。
 
 
 『**TNCニュース**』（ティーエヌシーニュース）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に[本社](../Page/本社.md "wikilink")を置く同県の[FNN系列局](../Page/フジニュースネットワーク.md "wikilink")、[テレビ西日本](../Page/テレビ西日本.md "wikilink")で放送されている[ローカルニュース番組](../Page/報道番組.md "wikilink")。[関西テレビや](../Page/関西テレビ放送.md "wikilink")[東海テレビと同様に](../Page/東海テレビ放送.md "wikilink")、多くの[フジテレビ発のニュースが独自タイトルに差し替えられる](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。

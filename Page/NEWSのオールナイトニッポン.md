@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSのオールナイトニッポン](https://ja.wikipedia.org/wiki/NEWSのオールナイトニッポン)から翻訳されています。
 
 
 **NEWSのオールナイトニッポン**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』の特別番組として、[日本時間の](../Page/日本標準時.md "wikilink")2005年4月25日、2007年11月14日25時-27時に放送された。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSのメンバーが務めた](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")。

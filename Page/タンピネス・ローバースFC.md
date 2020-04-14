@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[タンピネス・ローバースFC](https://ja.wikipedia.org/wiki/タンピネス・ローバースFC)から翻訳されています。
 
 
 **タンピネス・ローバースFC**（）は[Sリーグ](https://ja.wikipedia.org/wiki/Sリーグ "wikilink")に所属する[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のサッカークラブである。

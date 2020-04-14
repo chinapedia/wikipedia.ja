@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vフォー・ヴェンデッタ](https://ja.wikipedia.org/wiki/Vフォー・ヴェンデッタ)から翻訳されています。
 
 
 『**Vフォー・ヴェンデッタ**』 (V for Vendetta) は、[アラン・ムーア](../Page/アラン・ムーア.md "wikilink")がストーリーを担当し、デヴィッド・ロイドがアートを（ほぼ全て）担当した[アメリカン・コミック](https://ja.wikipedia.org/wiki/アメリカン・コミック "wikilink")。陰惨な近未来の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の社会を舞台に、[全体主義](../Page/全体主義.md "wikilink")の政府を破壊するために暗躍する1人の[アナーキスト](https://ja.wikipedia.org/wiki/アナーキスト "wikilink")"V"と、彼に人生を左右される人々の姿を描いている。
@@ -78,7 +78,7 @@
   - [映画版公式サイト](http://wwws.warnerbros.co.jp/vforvendetta/)
   - [ムーアのアナーキズム観が語られるインタビュー](https://web.archive.org/web/20050924055426/http://avclub.com/content/node/24222)
 
-[Category:DCコミックス](https://ja.wikipedia.org/wiki/Category:DCコミックス "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:アナキズムを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アナキズムを題材とした映画作品 "wikilink") [Category:アナキズムを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アナキズムを題材とした漫画作品 "wikilink") [Category:ディストピア漫画](https://ja.wikipedia.org/wiki/Category:ディストピア漫画 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:ロンドンを舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした漫画作品 "wikilink") [Category:テロリズムを題材にした漫画](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした漫画 "wikilink") [Category:アラン・ムーア](https://ja.wikipedia.org/wiki/Category:アラン・ムーア "wikilink")
+[Category:DCコミックスの漫画作品](https://ja.wikipedia.org/wiki/Category:DCコミックスの漫画作品 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:1982年の漫画](https://ja.wikipedia.org/wiki/Category:1982年の漫画 "wikilink") [Category:アナキズムを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アナキズムを題材とした映画作品 "wikilink") [Category:アナキズムを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アナキズムを題材とした漫画作品 "wikilink") [Category:ディストピア漫画](https://ja.wikipedia.org/wiki/Category:ディストピア漫画 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:ロンドンを舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした漫画作品 "wikilink") [Category:テロリズムを題材にした漫画](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした漫画 "wikilink") [Category:アラン・ムーア](https://ja.wikipedia.org/wiki/Category:アラン・ムーア "wikilink")
 
 1.
 2.

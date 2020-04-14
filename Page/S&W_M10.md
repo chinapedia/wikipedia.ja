@@ -5,7 +5,7 @@
 
 ## 設計
 
-本銃は、S\&W社の.38口径リボルバーの[メインストリーム](https://ja.wikipedia.org/wiki/メインストリーム "wikilink")として、順次に改良を重ねつつ、19世紀から21世紀という長期にわたって多数が生産されている。いずれもKフレームに基いて設計され、シリンダーは長の6連発、トリガーメカニズムは[シングルアクション](../Page/シングルアクション.md "wikilink")と[ダブルアクション](../Page/ダブルアクション.md "wikilink")の両用である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:S&W_M&P_Hand_Ejector_1899_model.jpg "wikilink")
+本銃は、S\&W社の.38口径リボルバーの[メインストリーム](https://ja.wikipedia.org/wiki/メインストリーム "wikilink")として、順次に改良を重ねつつ、19世紀から21世紀という長期にわたって多数が生産されている。いずれもKフレームに基づいて設計され、シリンダーは長の6連発、トリガーメカニズムは[シングルアクション](../Page/シングルアクション.md "wikilink")と[ダブルアクション](../Page/ダブルアクション.md "wikilink")の両用である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:S&W_M&P_Hand_Ejector_1899_model.jpg "wikilink")
 
 ### 1899年式
 

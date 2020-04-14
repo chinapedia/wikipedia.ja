@@ -1,4 +1,4 @@
-> この記事は[NAKAMURA](https://ja.wikipedia.org/wiki/NAKAMURA)から翻訳されています。
+> この記事は[NAKA雅MURA](https://ja.wikipedia.org/wiki/NAKA雅MURA)から翻訳されています。
 
 
 **NAKA雅MURA**（なかむらまさる、1968年\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の映画[脚本家](../Page/脚本家.md "wikilink")。石川県金沢市生まれ。 父は洋画家の中村秀雄、母は日本洋舞連合会長の中村祐子、兄に音楽家の[金澤攝](../Page/金澤攝.md "wikilink")がいる。

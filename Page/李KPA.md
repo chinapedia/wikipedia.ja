@@ -1,4 +1,4 @@
-> この記事は[KPA](https://ja.wikipedia.org/wiki/KPA)から翻訳されています。
+> この記事は[李KPA](https://ja.wikipedia.org/wiki/李KPA)から翻訳されています。
 
 
 **李 KPA**（すもも ケイピーエイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三沢市](../Page/三沢市.md "wikilink")出身。

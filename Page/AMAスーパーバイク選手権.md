@@ -1,4 +1,4 @@
-> この記事は[AMA](https://ja.wikipedia.org/wiki/AMA)から翻訳されています。
+> この記事は[AMAスーパーバイク選手権](https://ja.wikipedia.org/wiki/AMAスーパーバイク選手権)から翻訳されています。
 
 
 **AMAスーパーバイク選手権**（エーエムエースーパーバイクせんしゅけん、）は、[オートバイ](../Page/オートバイ.md "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")。AMA（全米モーターサイクル協会）が主催する[ロードレース全米選手権](../Page/ロードレース_\(オートバイ\).md "wikilink")。ロードレース国内選手権としては世界最高レベルである。[2005年](../Page/2005年.md "wikilink")に[民辻啓](https://ja.wikipedia.org/wiki/民辻啓 "wikilink")がスーパーストッククラスに参戦。[宗和孝宏](https://ja.wikipedia.org/wiki/宗和孝宏 "wikilink")が[1993年](../Page/1993年.md "wikilink")ルーキーオブザイヤー獲得。

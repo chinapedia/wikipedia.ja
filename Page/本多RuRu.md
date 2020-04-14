@@ -1,4 +1,4 @@
-> この記事は[RuRu](https://ja.wikipedia.org/wiki/RuRu)から翻訳されています。
+> この記事は[本多RuRu](https://ja.wikipedia.org/wiki/本多RuRu)から翻訳されています。
 
 
 **本多RuRu**（ほんだるる、[1976年](../Page/1976年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")\[1\]\[2\] - ）は、[中国](../Page/中華人民共和国.md "wikilink")[遼寧省](../Page/遼寧省.md "wikilink")[瀋陽市](../Page/瀋陽市.md "wikilink")出身\[3\]\[4\]の[歌手](../Page/歌手.md "wikilink")、[タレント](../Page/タレント.md "wikilink")で、女性歌手グループ「[太陽とシスコムーン](../Page/太陽とシスコムーン.md "wikilink")」（後に「T\&Cボンバー」）の元メンバーである。身長163cm\[5\]、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")\[6\]。
@@ -7,9 +7,11 @@
 
 [1993年](../Page/1993年.md "wikilink")1月に来日し、同年5月に「外国人歌謡大賞」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）の決勝に出場した\[7\]。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月には「在日中国人日本語歌謡コンクール」でグランプリを受賞\[8\]し、2月より株式会社中華藝能に所属し芸能活動を開始した\[9\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[北京の](../Page/北京市.md "wikilink")[万里の長城](../Page/万里の長城.md "wikilink")、[広州市](../Page/広州市.md "wikilink")、[深圳市](https://ja.wikipedia.org/wiki/深圳市 "wikilink")、[珠海市](../Page/珠海市.md "wikilink")などで「[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")With RuRuコンサート」に参加した\[10\]。
 
-テレビ東京の[オーディション](../Page/オーディション.md "wikilink")番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』で1998年に行われた「[つんくプロデュース芸能人新ユニットオーディション](https://ja.wikipedia.org/wiki/ハロー!プロジェクトのメンバーオーディション#つんくプロデュース芸能人新ユニットオーディション "wikilink")」に合格し\[11\]、[1999年](../Page/1999年.md "wikilink")4月\[12\]に[小湊美和](../Page/小湊美和.md "wikilink")、[稲葉貴子](../Page/稲葉貴子.md "wikilink")、[信田美帆](../Page/信田美帆.md "wikilink")と共に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のアイドルグループ「太陽とシスコムーン」（後に「T\&Cボンバー」に改名）の結成に「RuRu」として参加\[13\]、[4月21日](../Page/4月21日.md "wikilink")にCDデビューした\[14\]。[2000年](../Page/2000年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")のコンサートを以てT\&Cボンバーは解散した\[15\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にテレビ東京の[オーディション](../Page/オーディション.md "wikilink")番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』で行われた「[つんくプロデュース芸能人新ユニットオーディション](https://ja.wikipedia.org/wiki/ハロー!プロジェクトのメンバーオーディション#つんくプロデュース芸能人新ユニットオーディション "wikilink")」に合格し\[11\]、[1999年](../Page/1999年.md "wikilink")4月\[12\]に[小湊美和](../Page/小湊美和.md "wikilink")、[稲葉貴子](../Page/稲葉貴子.md "wikilink")、[信田美帆](../Page/信田美帆.md "wikilink")と共に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のアイドルグループ「太陽とシスコムーン」（後に「T\&Cボンバー」に改名）の結成に「RuRu」として参加\[13\]、[4月21日](../Page/4月21日.md "wikilink")にCDデビューした\[14\]。[2000年](../Page/2000年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")のコンサートを以てT\&Cボンバーは解散した\[15\]。
 
-[2001年](../Page/2001年.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")と契約し、ファースト[アルバム](../Page/アルバム.md "wikilink")「美麗心情」をリリースした\[16\]。後に「本多ルル」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で再デビューし\[17\]、[2007年](../Page/2007年.md "wikilink")に[カバー](../Page/カバー.md "wikilink")アルバム「初心」をリリースした\[18\]。
+[2001年](../Page/2001年.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")と契約し、ファースト[アルバム](../Page/アルバム.md "wikilink")「美麗心情」をリリースした\[16\]。
+
+[2007年](../Page/2007年.md "wikilink")、「本多ルル」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で再デビューし\[17\]、[カバー](../Page/カバー.md "wikilink")アルバム「初心」をリリースした\[18\]。
 
 [2009年](../Page/2009年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[新宿ロフトプラスワン](../Page/新宿ロフトプラスワン.md "wikilink")での太陽とシスコムーン（T\&Cボンバー）のイベント『あれから10年！太陽とシスコムーン、最初で最後のトークライブ』に[Skype](../Page/Skype.md "wikilink")による生中継で参加した\[19\]。　
 
@@ -91,7 +93,7 @@
 
   - [本多RuRu2016的微博 - 微博台灣站](http://tw.weibo.com/5884213945) - 微博台灣站
 
-  - [本多ルル　Official Blog From China](http://blog.goo.ne.jp/hondaruru) - [gooブログ](https://ja.wikipedia.org/wiki/gooブログ "wikilink")
+  - [本多ルル　Official Blog From China](https://blog.goo.ne.jp/hondaruru) - [gooブログ](https://ja.wikipedia.org/wiki/gooブログ "wikilink")
 
   - \- 株式会社中華藝能
 

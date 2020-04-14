@@ -1,4 +1,4 @@
-> この記事は[IWGP](https://ja.wikipedia.org/wiki/IWGP)から翻訳されています。
+> この記事は[IWGPヘビー級王座](https://ja.wikipedia.org/wiki/IWGPヘビー級王座)から翻訳されています。
 
 
 **IWGPヘビー級王座**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")が管理する王座。

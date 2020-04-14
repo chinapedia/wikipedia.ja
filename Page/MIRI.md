@@ -9,7 +9,7 @@
 
 2014年4月、ライムベリーが[エアリーズエンタテインメント](https://ja.wikipedia.org/wiki/エアリーズエンタテインメント "wikilink")からパーティクルに移籍するのに伴い、usa☆usa少女倶楽部を卒業\[3\]。
 
-2015年2月、ライムベリーからMC HIME（現[lyrical school](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")）、DJ HIKARU（[信岡ひかる](https://ja.wikipedia.org/wiki/信岡ひかる "wikilink")）が卒業、[E TICKET PRODUCTIONとのプロデュース契約も終了](https://ja.wikipedia.org/wiki/E_TICKET_PRODUCTION "wikilink")\[4\]。同年3月にはMC MISAKI（2017年8月卒業、現[木村美咲](https://ja.wikipedia.org/wiki/木村美咲 "wikilink")（[Someday Somewhere](https://ja.wikipedia.org/wiki/ラストアイドル#Someday_Somewhere "wikilink")））が加入し活動再開\[5\]。以後、MIRI単独での活動の場が増える。
+2015年2月、ライムベリーから[MC HIME](https://ja.wikipedia.org/wiki/MC_HIME "wikilink")（現[lyrical school](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")）、DJ HIKARU（[信岡ひかる](https://ja.wikipedia.org/wiki/信岡ひかる "wikilink")）が卒業、[E TICKET PRODUCTIONとのプロデュース契約も終了](https://ja.wikipedia.org/wiki/E_TICKET_PRODUCTION "wikilink")\[4\]。同年3月にはMC MISAKI（2017年8月卒業、現[木村美咲](https://ja.wikipedia.org/wiki/木村美咲 "wikilink")（[Someday Somewhere](https://ja.wikipedia.org/wiki/ラストアイドル#Someday_Somewhere "wikilink")））が加入し活動再開\[5\]。以後、MIRI単独での活動の場が増える。
 
 2015年4月には八月ちゃん（[おやすみホログラム](https://ja.wikipedia.org/wiki/おやすみホログラム "wikilink")）とのユニット「8mm」（ハチミリ）\[6\]。同年6月には、[劇団コラソン](https://ja.wikipedia.org/wiki/劇団コラソン "wikilink")第33回公演「REBORN」において[関谷真由](https://ja.wikipedia.org/wiki/関谷真由 "wikilink")（元[アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")）とのユニット「2D」\[7\]を相次いで結成。
 

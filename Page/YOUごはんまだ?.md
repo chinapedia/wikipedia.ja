@@ -1,4 +1,4 @@
-> この記事は[YOU\?](https://ja.wikipedia.org/wiki/YOU\?)から翻訳されています。
+> この記事は[YOUごはんまだ\?](https://ja.wikipedia.org/wiki/YOUごはんまだ\?)から翻訳されています。
 
 
 **YOUごはんまだ?**（**ゆーごはんまだ**）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月29日](../Page/1月29日.md "wikilink")まで[朝日放送で放送されていた若者向け](../Page/朝日放送テレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」の15〜16階に設置されていた[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「[ABCエキスタ](../Page/ABCエキスタ.md "wikilink")」からの公開生放送番組であった。
@@ -11,7 +11,7 @@
 
 ## 特記事項
 
-  - シングル曲をリリースした「[ICHIGOちゃん](https://ja.wikipedia.org/wiki/ICHIGOちゃん "wikilink")」のメンバーでもあった[岸田里佳](../Page/岸田里佳.md "wikilink")（ICHIGOちゃん18号）は、番組終了から5年後の[1991年](../Page/1991年.md "wikilink")に「[鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）にホワイトスワン・鹿鳴館香を演じた。
+  - シングル曲をリリースした「[ICHIGOちゃん](https://ja.wikipedia.org/wiki/ICHIGOちゃん "wikilink")」のメンバーでもあった[岸田里佳](../Page/岸田里佳.md "wikilink")（ICHIGOちゃん18号）は、番組終了から5年後の[1991年](../Page/1991年.md "wikilink")に「[鳥人戦隊ジェットマン](../Page/鳥人戦隊ジェットマン.md "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）に出演し、ホワイトスワン・鹿鳴館香を演じた。
   - ICHIGOちゃん31号であった小田由紀乃は、後に[関西テレビの](../Page/関西テレビ放送.md "wikilink")『[エンドレスナイト](../Page/エンドレスナイト.md "wikilink")』の第7期[エンドレスギャルズ](../Page/エンドレスギャルズ.md "wikilink")としても活躍した。
   - エンドクレジットに、アドバイザー 門田頼命（[もんたよしのり](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink")）とあったが　番組には一度も出演したことがなかった。
   - シングル曲リリース後、番組のオープニングは「誰もICHIGOがわからない」からスタート。「[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")」と違い番組が始まるや否やタイトルコールなしで歌からスタートしていた。

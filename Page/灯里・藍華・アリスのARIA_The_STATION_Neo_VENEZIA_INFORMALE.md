@@ -1,4 +1,4 @@
-> この記事は[ARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/ARIA_The_STATION_Neo_VENEZIA_INFORMALE)から翻訳されています。
+> この記事は[灯里・藍華・アリスのARIA The STATION Neo VENEZIA INFORMALE](https://ja.wikipedia.org/wiki/灯里・藍華・アリスのARIA_The_STATION_Neo_VENEZIA_INFORMALE)から翻訳されています。
 
 
 **ARIA The STATION Neo VENEZIA INFORMALE**（アリア・ザ・ステーション・ネオ・ヴェネツィア・インフォルマーレ）とは[音泉](../Page/音泉.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて[2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から[3月28日](../Page/3月28日.md "wikilink")まで配信されていた「[ARIA The ANIMATION](../Page/ARIA_\(漫画\).md "wikilink")」関連の[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。同年[2月10日](../Page/2月10日.md "wikilink")からは[BEWE](../Page/BEWE.md "wikilink")でも配信されていた。

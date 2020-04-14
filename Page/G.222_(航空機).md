@@ -1,4 +1,4 @@
-> この記事は[G.222 \(\)](https://ja.wikipedia.org/wiki/G.222_\(\))から翻訳されています。
+> この記事は[G.222 \(航空機\)](https://ja.wikipedia.org/wiki/G.222_\(航空機\))から翻訳されています。
 
 
 **G.222**は、[イタリア](../Page/イタリア.md "wikilink")の[アエリタリア](https://ja.wikipedia.org/wiki/アエリタリア "wikilink")（現[アレーニア・アエルマッキ](../Page/アレーニア・アエルマッキ.md "wikilink")）社が製造した[ターボプロップ](../Page/ターボプロップエンジン.md "wikilink")[輸送機](../Page/輸送機.md "wikilink")。しばしば**G222**あるいは**G-222**とも表記される。

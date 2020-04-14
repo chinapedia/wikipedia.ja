@@ -1,4 +1,4 @@
-> この記事は[BJ](https://ja.wikipedia.org/wiki/BJ)から翻訳されています。
+> この記事は[三菱・トッポBJ](https://ja.wikipedia.org/wiki/三菱・トッポBJ)から翻訳されています。
 
 
 **トッポBJ**（トッポ・ビージェイ、*Toppo BJ*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")がかつて製造・販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。「トッポ」を冠する車種として通算3代目。

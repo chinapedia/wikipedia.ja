@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ライオン・シティ・セーラーズFC](https://ja.wikipedia.org/wiki/ライオン・シティ・セーラーズFC)から翻訳されています。
 
 
 **ライオン・シティ・セーラーズFC**（）、旧称**ホーム・ユナイテッドFC**（）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のサッカークラブである。
@@ -83,6 +83,7 @@
 
 ## 外部リンク
 
+  -
   -
 [Category:ホーム・ユナイテッド](https://ja.wikipedia.org/wiki/Category:ホーム・ユナイテッド "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[Suica](https://ja.wikipedia.org/wiki/Suica)から翻訳されています。
+> この記事は[Suica電子マネー](https://ja.wikipedia.org/wiki/Suica電子マネー)から翻訳されています。
 
 
 **Suica電子マネー**（スイカでんしマネー）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）及び[東京モノレール](../Page/東京モノレール.md "wikilink")・[東京臨海高速鉄道](../Page/東京臨海高速鉄道.md "wikilink")が発行（いずれの発行元のカードも、バリューイシュアはすべてJR東日本）する[IC乗車カード](https://ja.wikipedia.org/wiki/IC乗車カード "wikilink")である、[Suica](../Page/Suica.md "wikilink")を活用した[電子マネー](../Page/電子マネー.md "wikilink")サービスである。旧称・**Suicaショッピングサービス**。

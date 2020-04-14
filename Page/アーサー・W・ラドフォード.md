@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[アーサー・W・ラドフォード](https://ja.wikipedia.org/wiki/アーサー・W・ラドフォード)から翻訳されています。
 
 
 **アーサー・ウィリアム・ラドフォード** (**Arthur William Radford**, [1896年](../Page/1896年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の軍人、最終階級は[大将](../Page/大将.md "wikilink")。アメリカ[太平洋艦隊司令長官兼](https://ja.wikipedia.org/wiki/米太平洋艦隊 "wikilink")[太平洋軍最高司令官](../Page/アメリカインド太平洋軍.md "wikilink")、[統合参謀本部議長を務めた](../Page/アメリカ統合参謀本部議長.md "wikilink")。

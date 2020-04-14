@@ -61,8 +61,15 @@ Shuzilow.HAが企画原案を務める『[SoltyRei](../Page/SoltyRei.md "wikilin
   - [銀の墓守り](https://ja.wikipedia.org/wiki/銀の墓守り "wikilink") （2017年、原画）
   - [ネト充のススメ](https://ja.wikipedia.org/wiki/ネト充のススメ "wikilink") （2017年、原画）
   - [citrus](https://ja.wikipedia.org/wiki/citrus "wikilink") （2018年、総作画監督補佐）
-  - [ハイスクールD×D HERO](https://ja.wikipedia.org/wiki/ハイスクールD×D_HERO "wikilink") （2018年、原画）
+  - [ハイスクールD×D HERO](https://ja.wikipedia.org/wiki/ハイスクールD×D_HERO "wikilink") （2018年、OP原画・原画）
+  - [ひそねとまそたん](https://ja.wikipedia.org/wiki/ひそねとまそたん "wikilink")（2018、原画）
+  - [デジモンアドベンチャー tri](https://ja.wikipedia.org/wiki/デジモンアドベンチャー_tri. "wikilink"). 第6章「ぼくらの未来」（2018、原画）
+  - [はたらく細胞](https://ja.wikipedia.org/wiki/はたらく細胞 "wikilink")（2018、原画）
+  - [フリクリ プログレ](https://ja.wikipedia.org/wiki/フリクリ_プログレ "wikilink")（2018、原画）
+  - [火ノ丸相撲](https://ja.wikipedia.org/wiki/火ノ丸相撲 "wikilink")（2018、原画）
   - [女子高生の無駄づかい](https://ja.wikipedia.org/wiki/女子高生の無駄づかい "wikilink") （2019年、作画監督）
+  - [Z/X Code reunion](https://ja.wikipedia.org/wiki/Z/X_Code_reunion "wikilink") （2019年、原画）
+  - [異種族レビュアーズ](https://ja.wikipedia.org/wiki/異種族レビュアーズ "wikilink")（2020年、メインアニメーター・原画）
 
 ### Shuzilow.HA名義
 
@@ -115,4 +122,4 @@ Shuzilow.HAが企画原案を務める『[SoltyRei](../Page/SoltyRei.md "wikilin
   - [Shuzilow HA Design Works](http://www.aya.or.jp/~shuzilow/HA/DATA/index.html)
 
   -
-[Category:日本のアニメーター](https://ja.wikipedia.org/wiki/Category:日本のアニメーター "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のアニメーター](https://ja.wikipedia.org/wiki/Category:日本のアニメーター "wikilink") [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:コナミの人物](https://ja.wikipedia.org/wiki/Category:コナミの人物 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

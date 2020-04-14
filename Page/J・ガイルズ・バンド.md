@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・ガイルズ・バンド](https://ja.wikipedia.org/wiki/J・ガイルズ・バンド)から翻訳されています。
 
 
 **J・ガイルズ・バンド**（**The J. Geils Band**）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。

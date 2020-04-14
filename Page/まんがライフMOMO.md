@@ -1,4 +1,4 @@
-> この記事は[MOMO](https://ja.wikipedia.org/wiki/MOMO)から翻訳されています。
+> この記事は[まんがライフMOMO](https://ja.wikipedia.org/wiki/まんがライフMOMO)から翻訳されています。
 
 
 『**まんがライフMOMO**』（まんがライフもも）は、[竹書房](../Page/竹書房.md "wikilink")から2008年11月（2009年1月号）から2018年11月（2019年1月号）まで発行されていた[4コマ誌](https://ja.wikipedia.org/wiki/4コマ漫画#_4コマ誌 "wikilink")。毎月28日発売。定価350円 （創刊時320円） でB5版、中綴じ。共通雑誌コード：18317。

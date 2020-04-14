@@ -1,4 +1,4 @@
-> この記事は[GO GO ](https://ja.wikipedia.org/wiki/GO_GO_)から翻訳されています。
+> この記事は[GO GO ポッピン](https://ja.wikipedia.org/wiki/GO_GO_ポッピン)から翻訳されています。
 
 
 『**GO GO ポッピン**』（ゴーゴー ポッピン）は、[2004年](../Page/2004年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[子供向けの](../Page/子供番組.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")。

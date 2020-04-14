@@ -1,4 +1,4 @@
-> この記事は[Vz.37](https://ja.wikipedia.org/wiki/Vz.37)から翻訳されています。
+> この記事は[ブルーノVz.37重機関銃](https://ja.wikipedia.org/wiki/ブルーノVz.37重機関銃)から翻訳されています。
 
 
 **ブルーノZB Vz.37重機関銃**（ブルーノZB Vz.37じゅうきかんじゅう）は、[1937年](../Page/1937年.md "wikilink")に[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")で開発された[重機関銃](../Page/重機関銃.md "wikilink")である。

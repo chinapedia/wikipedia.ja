@@ -1,4 +1,4 @@
-> この記事は[IV The Dawn of Ys](https://ja.wikipedia.org/wiki/IV_The_Dawn_of_Ys)から翻訳されています。
+> この記事は[イースIV The Dawn of Ys](https://ja.wikipedia.org/wiki/イースIV_The_Dawn_of_Ys)から翻訳されています。
 
 
 『**イースIV The Dawn of Ys**』（イースフォー ザドーンオブイース）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）12月22日に[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE) [SUPER CD-ROM<sup>2</sup>用ソフトとして発売された](../Page/SUPER_CD-ROM2.md "wikilink")。

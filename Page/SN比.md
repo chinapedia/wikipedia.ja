@@ -1,4 +1,4 @@
-> この記事は[SN](https://ja.wikipedia.org/wiki/SN)から翻訳されています。
+> この記事は[SN比](https://ja.wikipedia.org/wiki/SN比)から翻訳されています。
 
 
 **SN比**（エスエヌひ）は、**通信理論**ないし[情報理論](../Page/情報理論.md "wikilink")あるいは[電子工学](../Page/電子工学.md "wikilink")などで扱われる値で、[信号](../Page/信号_\(電気工学\).md "wikilink") () と[雑音](https://ja.wikipedia.org/wiki/雑音 "wikilink") () の[比](../Page/比.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ハロルド・J・ティンパーリ](https://ja.wikipedia.org/wiki/ハロルド・J・ティンパーリ)から翻訳されています。
 
 
 **ハロルド・J・ティンパーリ**（Harold John Timperley、中国表記:田伯烈、[1898年](../Page/1898年.md "wikilink") - [1954年](../Page/1954年.md "wikilink")）は、[オーストラリア](../Page/オーストラリア.md "wikilink")・[バンバリー出身のジャーナリスト](https://ja.wikipedia.org/wiki/バンバリー_\(西オーストラリア州\) "wikilink")。[中国国民党](../Page/中国国民党.md "wikilink")国際宣伝処の顧問を務めた\[1\]\[2\]。

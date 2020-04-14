@@ -1,4 +1,4 @@
-> この記事は[TOHO](https://ja.wikipedia.org/wiki/TOHO)から翻訳されています。
+> この記事は[TOHOシネマズ有楽座](https://ja.wikipedia.org/wiki/TOHOシネマズ有楽座)から翻訳されています。
 
 
 **TOHOシネマズ有楽座**（とうほうシネマズゆうらくざ、TOHO CINEMAS YURAKUZA）は[1957年](../Page/1957年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")まで[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")の[ニユートーキョー本店](https://ja.wikipedia.org/wiki/ニユートーキョー本店 "wikilink")（現存せず）で**[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社**が所有していた[映画館](../Page/映画館.md "wikilink")。
@@ -7,7 +7,7 @@
 
 ### ニュー東宝シネマ
 
-**ニュー東宝シネマ**（New Toho Cinema）は[1957年](../Page/1957年.md "wikilink")東宝直営の洋画封切館。座席数は746席。当時は「**[エスカレーター](../Page/エスカレーター.md "wikilink")で上がる映画館**」が謳い文句であった。当初、ニユートーキヨービル内には2館の東宝直営映画館があり、3階に「ニュー東宝」（東宝洋画系）、。1972年に「ニュー東宝」を「ニュー東宝シネマ1」に、「スキヤバシ映画」を「ニュー東宝シネマ2」に改称。1995年に「ニュー東宝シネマ2」は閉館し[ビアホール](../Page/ビアホール.md "wikilink")となった。
+**ニュー東宝シネマ**（New Toho Cinema）は[1957年](../Page/1957年.md "wikilink")東宝直営の洋画封切館。座席数は746席。当時は「**[エスカレーター](../Page/エスカレーター.md "wikilink")で上がる映画館**」が謳い文句であった。当初、ニユートーキヨービル内には2館の東宝直営映画館があり、3階に「ニュー東宝」（東宝洋画系）、。1972年5月5日に「ニュー東宝」を「ニュー東宝シネマ1」に、「スキヤバシ映画」を「ニュー東宝シネマ2」に改称。1995年に「ニュー東宝シネマ2」は閉館し[ビアホール](../Page/ビアホール.md "wikilink")となった。
 
 ニュー東宝シネマのチェーンマスターの機能は[有楽町スバル座](../Page/有楽町スバル座.md "wikilink")へと引き継がれている（但し近年はスバル座メインで上映される東宝洋画系作品が少なくなってきている）。
 
@@ -43,7 +43,7 @@
 | [1976年](../Page/1976年の日本公開映画.md "wikilink") | 「[追憶](https://ja.wikipedia.org/wiki/追憶_\(1973年の映画\) "wikilink")」                                                                                                                                                                                                                                                                                                                          |
 | [1979年](../Page/1979年の日本公開映画.md "wikilink") | 「[ふたりでスロー・ダンスを](https://ja.wikipedia.org/wiki/ふたりでスロー・ダンスを "wikilink")」、「\[\[がんばれ                                                                                                                                                                                                                                                                                                         |
 | [1981年](../Page/1981年の日本公開映画.md "wikilink") | 「[ビアンカの大冒険](../Page/ビアンカの大冒険.md "wikilink")」＆「[プーさんと大あらし](https://ja.wikipedia.org/wiki/プーさんと大あらし "wikilink")」                                                                                                                                                                                                                                                                            |
-| [1982年](../Page/1982年の日本公開映画.md "wikilink") | 「[呪われた森](https://ja.wikipedia.org/wiki/呪われた森 "wikilink")」、「[シンデレラ](../Page/シンデレラ_\(1950年の映画\).md "wikilink")」＆「[わんわん物語](https://ja.wikipedia.org/wiki/わんわん物語 "wikilink")」                                                                                                                                                                                                                 |
+| [1982年](../Page/1982年の日本公開映画.md "wikilink") | 「[呪われた森](https://ja.wikipedia.org/wiki/呪われた森 "wikilink")」、「[シンデレラ](../Page/シンデレラ_\(1950年の映画\).md "wikilink")」＆「[わんわん物語](../Page/わんわん物語.md "wikilink")」                                                                                                                                                                                                                                    |
 | [1983年](../Page/1983年の日本公開映画.md "wikilink") | 「[スター・ウォーズ エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")」、「[きつねと猟犬](https://ja.wikipedia.org/wiki/きつねと猟犬 "wikilink")」＆「[バンビ](../Page/バンビ_\(映画\).md "wikilink")」                                                                                                                                                                                       |
 | [1984年](../Page/1984年の日本公開映画.md "wikilink") | 「[殺意の香り](https://ja.wikipedia.org/wiki/殺意の香り "wikilink")」、「[超時空要塞マクロス 愛・おぼえていますか](../Page/超時空要塞マクロス_愛・おぼえていますか.md "wikilink")」、「[新・13日の金曜日](https://ja.wikipedia.org/wiki/新・13日の金曜日 "wikilink")」、「[Wの悲劇](https://ja.wikipedia.org/wiki/Wの悲劇_\(映画\) "wikilink")」&「[天国にいちばん近い島](../Page/天国にいちばん近い島.md "wikilink")」\[2\]、「[ドーバー海峡殺人事件](https://ja.wikipedia.org/wiki/ドーバー海峡殺人事件 "wikilink")」 |
 | [1985年](../Page/1985年の日本公開映画.md "wikilink") | 「[うる星やつら3 リメンバー・マイ・ラブ](../Page/うる星やつら3_リメンバー・マイ・ラブ.md "wikilink")」、「[乱](../Page/乱_\(映画\).md "wikilink")」\[3\]、「[007 美しき獲物たち](https://ja.wikipedia.org/wiki/007_美しき獲物たち "wikilink")」、「[ビルマの竪琴](https://ja.wikipedia.org/wiki/ビルマの竪琴#1985年版 "wikilink")」\[4\]                                                                                                                               |
@@ -206,6 +206,10 @@
 </div>
 
 </div>
+
+## スキヤバシ映画劇場
+
+**スキヤバシ映画劇場**は1959年7月8日に**スキヤバシ東宝シネマ**として会場。1962年4月24日にスキヤバシ映画劇場として大映の映画館となる。1971年12月4日に洋画ロードショー劇場となる。
 
 ## 脚注
 

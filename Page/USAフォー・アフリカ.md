@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[USAフォー・アフリカ](https://ja.wikipedia.org/wiki/USAフォー・アフリカ)から翻訳されています。
 
 
 **USAフォー・アフリカ**(**USA for Africa**, United Support of Artists for Africa)は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スーパースター](../Page/スーパースター.md "wikilink")が一堂に会したプロジェクトの名称。当時深刻化していた[アフリカ](../Page/アフリカ.md "wikilink")の飢餓救済のための[チャリティーソング](https://ja.wikipedia.org/wiki/チャリティーソング "wikilink")である「[ウィ・アー・ザ・ワールド](../Page/ウィ・アー・ザ・ワールド.md "wikilink")(We Are The World)」をリリースした。

@@ -1,4 +1,4 @@
-> この記事は[VE](https://ja.wikipedia.org/wiki/VE)から翻訳されています。
+> この記事は[日産・VEエンジン](https://ja.wikipedia.org/wiki/日産・VEエンジン)から翻訳されています。
 
 
 **VEエンジン**は[日産自動車](../Page/日産自動車.md "wikilink")が製造していた[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンである。[VG30Eをベースに開発され](https://ja.wikipedia.org/wiki/日産・VGエンジン#VG30E "wikilink")[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）に登場した。搭載された車種は当時マイナーチェンジを迎えたJ30型系[マキシマのみである](../Page/日産・マキシマ.md "wikilink")。

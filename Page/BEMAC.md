@@ -7,16 +7,17 @@
 
 ## 主な事業所
 
-  - 本社・みらい工場 - [愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")野間甲105番地
+  - 今治本社：みらい工場 - [愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")野間甲105番地
+  - 東京本社：東京支社 / 東京データラボ - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区_\(東京都\) "wikilink")[有楽町](../Page/有楽町.md "wikilink")1丁目1番2号 東京ミッドタウン日比谷 日比谷三井タワー32階
   - 大西工場 - 愛媛県今治市[大西町](../Page/大西町.md "wikilink")九王甲1520番地
   - 波方工場 - 愛媛県今治市[波方町](../Page/波方町.md "wikilink")郷甲1239番地
   - 西条工場 - 愛媛県[西条市](../Page/西条市.md "wikilink")ひうち字東ひうち18番地18
   - 丸亀工場 - [香川県](../Page/香川県.md "wikilink")[丸亀市](../Page/丸亀市.md "wikilink")昭和町6番地
   - 三原工場 - [広島県](../Page/広島県.md "wikilink")[竹原市](../Page/竹原市.md "wikilink")[忠海](https://ja.wikipedia.org/wiki/忠海 "wikilink")長浜三丁目1番7号
-  - 東京支社・東京データラボ - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区_\(東京都\) "wikilink")[有楽町](../Page/有楽町.md "wikilink")1丁目1番2号 東京ミッドタウン日比谷 日比谷三井タワー32階
   - 大阪支社 - [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西淀川区](../Page/西淀川区.md "wikilink")佃4丁目10番1号 大阪機電株式会社内2F
   - 博多営業所 - [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")博多駅前3丁目2-8 住友生命博多ビル9階
   - EV岐阜 - [岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")東鶉3丁目30番地1
+  - アムステルダム駐在員事務所 - De Cuserstraat 93, Amsterdamse Bos 3F, 1081CN Amsterdam, The Netherlands
 
 ## 沿革
 
@@ -57,6 +58,7 @@
   - [2018年](../Page/2018年.md "wikilink") - 東京ミッドタウン日比谷に東京支社を移転、同時に東京データラボを開設
   - [2019年](../Page/2019年.md "wikilink") - 渦潮電機株式会社から**BEMAC株式会社**へ社名変更\[2\]
   - [2019年](../Page/2019年.md "wikilink") - オランダにアムステルダム駐在員事務所を開設
+  - [2020年](../Page/2020年.md "wikilink") - 東京本社を新設
 
 ## 関連会社
 

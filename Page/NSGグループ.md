@@ -1,4 +1,4 @@
-> この記事は[NSG](https://ja.wikipedia.org/wiki/NSG)から翻訳されています。
+> この記事は[NSGグループ](https://ja.wikipedia.org/wiki/NSGグループ)から翻訳されています。
 
 
 **NSGグループ**（NSG＝Niigata Sogo Gakuin）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に拠点を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、**NSGホールディングス**を持株会社とする学校法人等のグループである。

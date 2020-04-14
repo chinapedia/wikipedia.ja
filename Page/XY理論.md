@@ -1,4 +1,4 @@
-> この記事は[XY](https://ja.wikipedia.org/wiki/XY)から翻訳されています。
+> この記事は[XY理論](https://ja.wikipedia.org/wiki/XY理論)から翻訳されています。
 
 
 **XY理論**（エックスワイりろん）は、[ダグラス・マグレガー](https://ja.wikipedia.org/wiki/ダグラス・マグレガー "wikilink")が人間に対する2つの対立的な考え方を「権限行使による命令統制のX理論」と「統合と自己統制のY理論」と提唱したもの。

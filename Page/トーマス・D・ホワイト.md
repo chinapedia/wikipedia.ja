@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[トーマス・D・ホワイト](https://ja.wikipedia.org/wiki/トーマス・D・ホワイト)から翻訳されています。
 
 
 **トーマス・ドレッサー・ホワイト**（**Thomas Dresser White**、[1901年](../Page/1901年.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の軍人。第4代[アメリカ空軍参謀総長](../Page/アメリカ空軍参謀総長.md "wikilink")。

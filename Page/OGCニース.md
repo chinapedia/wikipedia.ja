@@ -1,4 +1,4 @@
-> この記事は[OGC](https://ja.wikipedia.org/wiki/OGC)から翻訳されています。
+> この記事は[OGCニース](https://ja.wikipedia.org/wiki/OGCニース)から翻訳されています。
 
 
 **オランピック・ジムナスト・クルブ・ドゥ・ニース・コート・ダジュール**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ニース](../Page/ニース.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
+> この記事は[RCストラスブール](https://ja.wikipedia.org/wiki/RCストラスブール)から翻訳されています。
 
 
 **ラシン・クルブ・ドゥ・ストラスブール**（**Racing Club de Strasbourg**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ストラスブール](../Page/ストラスブール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

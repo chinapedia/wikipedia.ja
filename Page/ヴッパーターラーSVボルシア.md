@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[ヴッパーターラーSVボルシア](https://ja.wikipedia.org/wiki/ヴッパーターラーSVボルシア)から翻訳されています。
 
 
 **ヴッパーターラーSV**（**Wuppertaler SV**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")の[ヴッパータール](../Page/ヴッパータール.md "wikilink")を本拠地とするスポーツクラブ。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のほか、[ボクシング](../Page/ボクシング.md "wikilink")、[ハンドボール](../Page/ハンドボール.md "wikilink")、[陸上競技](../Page/陸上競技.md "wikilink")などのクラブも存在する。この項目ではサッカーを中心に述べる。

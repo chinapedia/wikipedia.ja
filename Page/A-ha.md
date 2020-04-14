@@ -1,11 +1,21 @@
 > この記事は[A-ha](https://ja.wikipedia.org/wiki/A-ha)から翻訳されています。
 
 
-[A-haClassicLogo.PNG](https://ja.wikipedia.org/wiki/File:A-haClassicLogo.PNG "fig:A-haClassicLogo.PNG") [A-ha_logo_FOTM.JPG](https://ja.wikipedia.org/wiki/File:A-ha_logo_FOTM.JPG "fig:A-ha_logo_FOTM.JPG") [A-ha_Morten1.jpg](https://ja.wikipedia.org/wiki/File:A-ha_Morten1.jpg "fig:A-ha_Morten1.jpg") **a-ha**（**アーハ**、**アハー**）は、[英語](../Page/英語.md "wikilink")歌詞の楽曲を演奏する[ノルウェー](../Page/ノルウェー.md "wikilink")出身の3人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。1982年結成。「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")（Take On Me）」の世界的なヒットや『[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")』（The Living Daylights）の主題歌、[1994年](../Page/1994年.md "wikilink")リレハンメルパラリンピックのテーマ曲(Shapes That Go Together)、2009ベルリン世界陸上テーマ曲(Foot of the Mountain)を歌ったグループとして知られる。
+**a-ha**（**アーハ**、**アハー**）は、[ノルウェー](../Page/ノルウェー.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[シンセポップ](https://ja.wikipedia.org/wiki/シンセポップ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1982年](../Page/1982年.md "wikilink")結成。「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")（Take On Me）」の世界的なヒットや『[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")』（The Living Daylights）の主題歌、[1994年](../Page/1994年.md "wikilink")リレハンメルパラリンピックのテーマ曲(Shapes That Go Together)、2009ベルリン世界陸上テーマ曲(Foot of the Mountain)を歌ったグループとして知られる。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月4日にユニット結成の地、[オスロ](../Page/オスロ.md "wikilink")でのコンサートを最後に解散した。[2015年](../Page/2015年.md "wikilink")、デビュー30周年を記念して2年限定で再結成すると公式発表された。同年9月に[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")6([ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink"))で再結成パフォーマンスを行う。更に6年ぶり10枚目のニューアルバム「Cast In Steel」が同年9月4日に全世界でリリースされた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[SUMMER SONIC以来](../Page/サマーソニック.md "wikilink")、10年ぶり[2020年](../Page/2020年.md "wikilink")3月に単独来日公演が行われると発表された。
+## メンバー
+
+  - [モートン・ハルケット](../Page/モートン・ハルケット.md "wikilink") (Morten Harket) - [リードボーカル](https://ja.wikipedia.org/wiki/リードボーカル "wikilink")/[ギター](../Page/ギター.md "wikilink")
+  - [ポール・ワークター＝サヴォイ](https://ja.wikipedia.org/wiki/ポール・ワークター＝サヴォイ "wikilink") (Pål Waaktaar-Savoy) - ギター/[ドラムス](../Page/ドラムセット.md "wikilink")/ボーカル
+  - [マグネ・フルホルメン](../Page/マグネ・フルホルメン.md "wikilink") (Magne Furuholmen) - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")/ギター/[ベース](../Page/エレクトリックベース.md "wikilink")/ボーカル
+
+\<gallery float:left" widths="140px" heights="180px"\> <File:Morten> Harket FFM13 001.jpg|モートン・ハルケット(Vo/G) 2013年 <File:Paul> Waaktaar Savoy.jpg|ポール・ワークター＝サヴォイ(G) 2010年 <File:Magne> Glasgow 2010 - 3.jpg|マグネ・フルホルメン(Key/G) 2010年
+
+</gallery>
 
 ## 歴史
+
+### 第一期（1982年 - 2010年）
 
 [モートン・ハルケット](../Page/モートン・ハルケット.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[ポール・ワークター＝サヴォイ](https://ja.wikipedia.org/wiki/ポール・ワークター＝サヴォイ "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[マグネ・フルホルメン](../Page/マグネ・フルホルメン.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ギター）の3人で[1982年](../Page/1982年.md "wikilink")に結成。 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")へ渡り、[1984年](../Page/1984年.md "wikilink")に「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")」でデビュー。トニー・マンスフィールドのプロデュースによるこの「1st version」は母国ノルウェーで3位を記録するヒットにはなったものの、国際的なマーケットでは注目されなかった。
 
@@ -23,6 +33,8 @@
 
 [2012年](../Page/2012年.md "wikilink")11月6日、ノルウェー王国[聖オーラヴ勲章](https://ja.wikipedia.org/wiki/聖オーラヴ勲章 "wikilink")第1級騎士を授与された\[2\]
 
+### 再結成〜第二期（2015年 - 現在）
+
 [2015年](../Page/2015年.md "wikilink")9月、30周年を記念して[ロック・イン・リオ](https://ja.wikipedia.org/wiki/ロック・イン・リオ "wikilink")6で再結成パフォーマンスを行うと発表した。同年9月4日、6年ぶり10枚目のニューアルバム「Cast In Steel」をリリース。2009年に発売された9枚目のアルバム「Foot of The Mountain」以来6年ぶり5枚目の全英アルバムチャートトップ10ヒットとなった。[2016年](../Page/2016年.md "wikilink")にイギリス、ドイツ他でツアーを予定している。\[3\]
 
 [2017年](../Page/2017年.md "wikilink")9月8日、[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")in Giskeで新曲2曲(This Is Our Home・A Break In The Clouds)を披露した。ゲストにAlison Moyet (元[ヤズー](https://ja.wikipedia.org/wiki/ヤズー "wikilink"))、Ian McCulloch([エコー&ザ・バニーメン](../Page/エコー&ザ・バニーメン.md "wikilink")）、Lissie, Ingrid Helene Håvik（ノルウェイのインディ・バンドHighasakiteのリード・ヴォーカル）が参加。DVD、ブルーレイ化されている。
@@ -30,8 +42,6 @@
 9月17日[2018年](../Page/2018年.md "wikilink")春夏ロンドンコレクションで[エンポリオ・アルマーニ](https://ja.wikipedia.org/wiki/エンポリオ・アルマーニ "wikilink")のショー後に行われたアフターパーティでLiveが行われた。
 
 2018年夏、前座に[OMD](https://ja.wikipedia.org/wiki/OMD "wikilink")、Tom Bailey([トンプソン・ツインズ](../Page/トンプソン・ツインズ.md "wikilink"))をゲストに迎え、エレクトリック・ツアーを行うとSNS上で発表した。
-
-[2020年](../Page/2020年.md "wikilink")3月10日から10年ぶりの単独来日公演が決定。ファーストアルバムを完全再現した内容になると発表された。
 
 ## ディスコグラフィ
 
@@ -273,16 +283,6 @@
   -
     8月7日東京
     8月8日大阪
-
-<!-- end list -->
-
-  - play Hunting High ＆ Low live(2020年)
-
-<!-- end list -->
-
-  -
-    3月10日・11日 東京 TOKYO DOME CITY HALL、3月14日 [福岡市民会館](../Page/福岡市民会館.md "wikilink")、3月16日 [大阪フェスティバルホール](https://ja.wikipedia.org/wiki/大阪フェスティバルホール "wikilink")、
-    3月17日 名古屋　日本特殊陶業市民会館フォレストホール
 
 ## 脚注
 

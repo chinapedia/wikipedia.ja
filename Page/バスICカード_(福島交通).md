@@ -1,4 +1,4 @@
-> この記事は[IC \(\)](https://ja.wikipedia.org/wiki/IC_\(\))から翻訳されています。
+> この記事は[バスICカード \(福島交通\)](https://ja.wikipedia.org/wiki/バスICカード_\(福島交通\))から翻訳されています。
 
 
 **バスICカード**は、[福島交通](../Page/福島交通.md "wikilink")が発行している郡山地区で利用できる[ICカード](../Page/ICカード.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に導入された。なお、既に福島交通では福島地区において[磁気カード](https://ja.wikipedia.org/wiki/磁気カード "wikilink")を用いた[バスカードを導入していたが](../Page/乗車カード.md "wikilink")、システムが違うため共通での使用はできない。

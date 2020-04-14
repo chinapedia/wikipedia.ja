@@ -1,4 +1,4 @@
-> この記事は[NAOTO \(\)](https://ja.wikipedia.org/wiki/NAOTO_\(\))から翻訳されています。
+> この記事は[NAOTO \(ヴァイオリニスト\)](https://ja.wikipedia.org/wiki/NAOTO_\(ヴァイオリニスト\))から翻訳されています。
 
 
 **NAOTO**（ナオト、本名：**高橋 直之**（たかはし なおと）、[1973年](../Page/1973年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、日本の[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。東京藝術大学附属音楽高校、東京藝術大学音楽学部器楽科卒業\[1\]。音楽事務所のブルーソファ(bluesofa)に所属。

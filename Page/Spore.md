@@ -84,9 +84,10 @@ Sporeの主体は生物の進化であり、原始的な[プランクトン](../
 ## 外部リンク
 
   - [SPORE公式サイト](http://www.spore.com/)
-  - [SPORE日本版公式サイト](http://www.japan.ea.com/spore/)
-      - [スポアクリーチャーズ](http://www.japan.ea.com/spore/ds/)
+
+  -   -
   - [スポア キミがつくるヒーロー](http://www.eajapan.co.jp/sprh/)
+
   - [ダークスポア](http://darkspore.com/)
 
 [Category:ミニスケープ](https://ja.wikipedia.org/wiki/Category:ミニスケープ "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:2008年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2008年のコンピュータゲーム "wikilink") [Category:IPod用ゲームソフト](https://ja.wikipedia.org/wiki/Category:IPod用ゲームソフト "wikilink") [Category:IPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:エレクトロニック・アーツのゲームソフト](https://ja.wikipedia.org/wiki/Category:エレクトロニック・アーツのゲームソフト "wikilink") [Category:ゴッドゲーム](https://ja.wikipedia.org/wiki/Category:ゴッドゲーム "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[Dream Factory \(\)](https://ja.wikipedia.org/wiki/Dream_Factory_\(\))から翻訳されています。
+> この記事は[Dream Factory \(テレビ番組\)](https://ja.wikipedia.org/wiki/Dream_Factory_\(テレビ番組\))から翻訳されています。
 
 
 **Dream Factory**（ドリームファクトリー、通称ドリファク、夢工場）は、[2004年](../Page/2004年.md "wikilink")4月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月まで[キッズステーション](../Page/キッズステーション.md "wikilink")で放送していた「公開オーディション&公開育成番組」。

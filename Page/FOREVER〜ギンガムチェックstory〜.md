@@ -1,4 +1,4 @@
-> この記事は[FOREVERstory](https://ja.wikipedia.org/wiki/FOREVERstory)から翻訳されています。
+> この記事は[FOREVER〜ギンガムチェックstory〜](https://ja.wikipedia.org/wiki/FOREVER〜ギンガムチェックstory〜)から翻訳されています。
 
 
 **FOREVER〜ギンガムチェックstory〜**は、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[少女隊](../Page/少女隊.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。

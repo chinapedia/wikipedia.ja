@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFA女子ランキング](https://ja.wikipedia.org/wiki/FIFA女子ランキング)から翻訳されています。
 
 
 <table>

@@ -1,11 +1,11 @@
-> この記事は[WWWA](https://ja.wikipedia.org/wiki/WWWA)から翻訳されています。
+> この記事は[WWWA世界タッグ王座](https://ja.wikipedia.org/wiki/WWWA世界タッグ王座)から翻訳されています。
 
 
 **WWWA世界タッグ王座**（World Women's Wrestling Association World Tag Championship）は、[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")が管理していた[タッグマッチ](../Page/タッグマッチ.md "wikilink")の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")の名称。
 
 ## 解説
 
-この王座の前身はAGWAインターナショナル・タッグ王座で[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")の管理下となった[WWWA](../Page/WWWA.md "wikilink")が1971年にAGWAを吸収すると共に最後の同王者であった[京愛子](https://ja.wikipedia.org/wiki/京愛子 "wikilink")&[ジャンボ宮本](https://ja.wikipedia.org/wiki/ジャンボ宮本 "wikilink")組を初代王座に認定。6月30日に全日本女子の放映権を持っていた日本教育テレビ（NET、現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）が深夜番組「[23時ショー](../Page/23時ショー.md "wikilink")」にて京&宮本組対パティ・オハラ&テキサス・レッド組戦を放送して王座認定を同局のスタジオで行われたが、その試合に対する不満を理由に同日に王座を返上して7月1日の再戦でオハラ&レッド組が奪取。
+この王座の前身はAGWAインターナショナル・ガールズ・タッグ王座で[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")の管理下となった[WWWA](../Page/WWWA.md "wikilink")が1971年にAGWAを吸収すると共に最後の同王者であった[京愛子](https://ja.wikipedia.org/wiki/京愛子 "wikilink")&[ジャンボ宮本](https://ja.wikipedia.org/wiki/ジャンボ宮本 "wikilink")組を初代王座に認定。6月30日に全日本女子の放映権を持っていた日本教育テレビ（NET、現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）が深夜番組「[23時ショー](../Page/23時ショー.md "wikilink")」にて京&宮本組対パティ・オハラ&テキサス・レッド組戦を放送して王座認定を同局のスタジオで行われたが、その試合に対する不満を理由に同日に王座を返上して7月1日の再戦でオハラ&レッド組が奪取。
 
 王座創設当初は毎興行のようにタイトルマッチが行われる「お飾り」の要素が強いものだったが後に価値の向上が図られて[ビューティ・ペア](../Page/ビューティ・ペア.md "wikilink")が登場以降の女子プロレスブーム時には最高峰のタッグ王座と呼ばれた。
 
@@ -17,7 +17,7 @@
 
 ## 歴代王者
 
-### AGWAインターナショナル・タッグ王座
+### AGWAインターナショナル・ガールズ・タッグ王座
 
 <table>
 <thead>

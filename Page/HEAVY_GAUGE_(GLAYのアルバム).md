@@ -1,4 +1,4 @@
-> この記事は[HEAVY GAUGE \(GLAY\)](https://ja.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\))から翻訳されています。
+> この記事は[HEAVY GAUGE \(GLAYのアルバム\)](https://ja.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAYのアルバム\))から翻訳されています。
 
 
 『**HEAVY GAUGE**』（ヘヴィ・ゲージ）は、日本のロックバンド、[GLAY](../Page/GLAY.md "wikilink")のメジャー5作目のオリジナルアルバムである。[1999年](../Page/1999年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。表題曲を含む12曲を収録している。
@@ -73,7 +73,7 @@
   - DISC 2には歌詞違いのデモ音源15曲を収録\[18\]。
   - DISC 3は[ブルーレイとなっており](../Page/Blu-ray_Disc.md "wikilink")、ミレニアムカウントダウンの裏側や、「**Winter,again**」の[MVメイキング映像](../Page/ミュージック・ビデオ.md "wikilink")、当時を振り返るインタビューや本アルバム全曲の音源のアウトテイクミックスなどを収録\[19\]。
   - ブックレットには、当時の写真や掲載誌、直筆の歌詞など、20年前の貴重な素材を掲載\[20\]。
-  - オリコン週間アルバムチャート(2019年05月20日付)では、初週で5,623枚を売り上げ、8位を獲得。売上は前作『[pure soul Anthology](https://ja.wikipedia.org/wiki/pure_soul#pure_soul_Anthology "wikilink")』より下回ったが、前々作『[BELOVED Anthology](https://ja.wikipedia.org/wiki/BELOVED#BELOVED_Anthology "wikilink")』以来となるトップ10入りを果たした\[21\]。
+  - オリコン週間アルバムチャート(2019年05月20日付)では、初週で5,623枚を売り上げ、8位を獲得。売上は前作『[pure soul Anthology](https://ja.wikipedia.org/wiki/pure_soul#pure_soul_Anthology "wikilink")』より下回ったが、前々作『[BELOVED Anthology](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYのアルバム\)#BELOVED_Anthology "wikilink")』以来となるトップ10入りを果たした\[21\]。
   - Disc2に収録順の誤りがあり、10曲目に収録予定の「Will Be King」が5曲目として収録されている\[22\]。
 
 ### 収録曲

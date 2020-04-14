@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[ブラックパイナーSOS](https://ja.wikipedia.org/wiki/ブラックパイナーSOS)から翻訳されています。
 
 
 **ブラックパイナーSOS**は[太田プロダクション](../Page/太田プロダクション.md "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。

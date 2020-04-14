@@ -1,4 +1,4 @@
-> この記事は[V \(\)](https://ja.wikipedia.org/wiki/V_\(\))から翻訳されています。
+> この記事は[Vリーグ \(韓国\)](https://ja.wikipedia.org/wiki/Vリーグ_\(韓国\))から翻訳されています。
 
 
 大韓民国における**Vリーグ**は、[大韓民国](../Page/大韓民国.md "wikilink")の[プロ](../Page/プロフェッショナル.md "wikilink")[バレーボール](../Page/バレーボール.md "wikilink")[リーグ](https://ja.wikipedia.org/wiki/リーグ "wikilink")。主催は韓国バレーボール連盟（[한국배구연맹](https://ja.wikipedia.org/wiki/:ko:한국배구연맹 "wikilink")、略称KOVO）。2005年に開始された。[韓国農協](../Page/農業協同組合_\(韓国\).md "wikilink")（NH）が冠スポンサーとなっており、「NH・Vリーグ」の名称で行われている。
@@ -51,7 +51,9 @@
 | 11 | [2014-2015](https://ja.wikipedia.org/wiki/韓国Vリーグ2014-2015 "wikilink") | OK貯蓄銀行ラッシュ&キャッシュ                                                      | IBK企業銀行アルトス                                                              |
 | 12 | [2015-2016](https://ja.wikipedia.org/wiki/韓国Vリーグ2015-2016 "wikilink") | OK貯蓄銀行ラッシュ&キャッシュ                                                      | 現代建設ヒルステート                                                               |
 | 13 | [2016-2017](https://ja.wikipedia.org/wiki/韓国Vリーグ2016-2017 "wikilink") | 現代キャピタル                                                               | IBK企業銀行アルトス                                                              |
-| 14 | [2016-2017](https://ja.wikipedia.org/wiki/韓国Vリーグ2017-2018 "wikilink") | 仁川大韓航空ジャンボス                                                           | 慶北金泉ハイパス                                                                 |
+| 14 | [2017-2018](https://ja.wikipedia.org/wiki/韓国Vリーグ2017-2018 "wikilink") | 仁川大韓航空ジャンボス                                                           | 慶北金泉ハイパス                                                                 |
+| 15 | [2018-2019](https://ja.wikipedia.org/wiki/韓国Vリーグ2018-2019 "wikilink") | 現代キャピタル                                                               | 興国生命                                                                     |
+| 16 | [2019-2020](https://ja.wikipedia.org/wiki/韓国Vリーグ2019-2020 "wikilink") | シーズン途中終了によりなし                                                         | シーズン途中終了によりなし                                                            |
 |    |                                                                       |                                                                       |                                                                          |
 
 ## 外部リンク

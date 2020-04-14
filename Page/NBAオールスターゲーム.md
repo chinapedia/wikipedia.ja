@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAオールスターゲーム](https://ja.wikipedia.org/wiki/NBAオールスターゲーム)から翻訳されています。
 
 
 **NBAオールスターゲーム**は、北米のプロバスケットボールリーグ[NBA](../Page/NBA.md "wikilink")で毎年2月に開催されるエキシビションゲームで、[イースタン・カンファレンスと](https://ja.wikipedia.org/wiki/イースタン・カンファレンス_\(NBA\) "wikilink")[ウェスタン・カンファレンスからそれぞれファン投票により選ばれた](https://ja.wikipedia.org/wiki/ウェスタン・カンファレンス_\(NBA\) "wikilink")、スター選手とヘッドコーチの推薦により選ばれた選手でゲームは行われる\[1\]。

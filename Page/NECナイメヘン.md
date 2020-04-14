@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECナイメヘン](https://ja.wikipedia.org/wiki/NECナイメヘン)から翻訳されています。
 
 
 **N.E.C.**（**Nijmegen Eendracht Combinatie**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")東部、[ヘルダーラント州](../Page/ヘルダーラント州.md "wikilink")の都市[ナイメヘン](https://ja.wikipedia.org/wiki/ナイメヘン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**N.E.C.**は「Nijmegen Eendracht Combinatie」の略称であり、大手電器メーカー[NECとの関連はない](../Page/日本電気.md "wikilink")。読み方は「エヌ・エー・セー」で、「ネック」という通称で呼ばれることもある。「ナイメヘン」はN.E.C.の中に含まれているため、誤解を招かないように正確性を期する場合のみ「N.E.C.ナイメヘン」と表記される。

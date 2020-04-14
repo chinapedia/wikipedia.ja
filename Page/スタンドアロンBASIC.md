@@ -1,4 +1,4 @@
-> この記事は[BASIC](https://ja.wikipedia.org/wiki/BASIC)から翻訳されています。
+> この記事は[スタンドアロンBASIC](https://ja.wikipedia.org/wiki/スタンドアロンBASIC)から翻訳されています。
 
 
 **スタンドアロンBASIC** (standalone BASIC) は、1980年代ごろの8ビット・16ビット[パソコンに内蔵もしくは添付されていた](../Page/パーソナルコンピュータ.md "wikilink")、[OSを必要としない](../Page/オペレーティングシステム.md "wikilink")（それ自体がOS的な役割を備えている）[BASIC](../Page/BASIC.md "wikilink")言語プログラミング環境のこと。 OSを必要とせず単独で動作することからスタンドアロンと呼ばれる。

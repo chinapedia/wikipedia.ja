@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCヘーレンフェーン](https://ja.wikipedia.org/wiki/SCヘーレンフェーン)から翻訳されています。
 
 
 **scヘーレンフェーン**（**Sportclub Heerenveen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の北部、[フリースラント州](../Page/フリースラント州.md "wikilink")の都市[ヘーレンフェーン](https://ja.wikipedia.org/wiki/ヘーレンフェーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。"sc"は正確には小文字で書かれる。
@@ -642,7 +642,7 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")現在\[2\]
+  - [2020年](../Page/2020年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")現在\[2\]
 
 (副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
@@ -728,13 +728,15 @@
 
   - [ハキム・ツィエク](https://ja.wikipedia.org/wiki/ハキム・ツィエク "wikilink") 2012-2014
 
+  - [マルテン・デ・ローン](https://ja.wikipedia.org/wiki/マルテン・デ・ローン "wikilink") 2012-2015
+
   - [ペレ・ファン・アメルスフールト](https://ja.wikipedia.org/wiki/ペレ・ファン・アメルスフールト "wikilink") 2014-
 
   - [スタイン・スハールス](../Page/スタイン・スハールス.md "wikilink") 2016-
 
   - [小林祐希](https://ja.wikipedia.org/wiki/小林祐希 "wikilink") 2016-
 
-  - [マルティン・ウーデゴール](https://ja.wikipedia.org/wiki/マルティン・ウーデゴール "wikilink") 2017-
+  - [マルティン・ウーデゴール](https://ja.wikipedia.org/wiki/マルティン・ウーデゴール "wikilink") 2017-2018
 
 ### FW
 
@@ -759,6 +761,8 @@
   - [バス・ドスト](https://ja.wikipedia.org/wiki/バス・ドスト "wikilink") 2010-2012
 
   - [アルフレズ・フィンボガソン](https://ja.wikipedia.org/wiki/アルフレズ・フィンボガソン "wikilink") 2012-2014
+
+  - [マルク・ウート](https://ja.wikipedia.org/wiki/マルク・ウート "wikilink") 2012-2015
 
   - [サム・ラーション](https://ja.wikipedia.org/wiki/サム・ラーション "wikilink") 2014-2017
 

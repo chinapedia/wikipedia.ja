@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCユトレヒト](https://ja.wikipedia.org/wiki/FCユトレヒト)から翻訳されています。
 
 
 **FCユトレヒト**（**Football Club Utrecht**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ユトレヒト州](../Page/ユトレヒト州.md "wikilink")・[ユトレヒト](../Page/ユトレヒト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -466,13 +466,29 @@ PlotData=
 </tbody>
 </table>
 
-## 現所属選手
+## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")現在\[1\]
 
-### レンタル移籍
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))
+
+※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
+
+※4番と29番は[ダヴィド・ディ・トマソ](https://ja.wikipedia.org/wiki/ダヴィド・ディ・トマソ "wikilink") 永久欠番。2005年11月29日、[心臓発作](https://ja.wikipedia.org/wiki/心臓発作 "wikilink")により死去。現在、ファン選出のシーズン最優秀選手に贈られるトロフィー名は彼の名前にあやかって、ダヴィド・ディ・トマソ・トロフィーと名付けられている。
+
+  - 監督
+
+<!-- end list -->
+
+  - [ジョン・ファン・デン・ブロム](https://ja.wikipedia.org/wiki/ジョン・ファン・デン・ブロム "wikilink")
+
+### ローン選手
 
   - in
+
+<!-- end list -->
+
+  - out
 
 ## 歴代監督
 
@@ -556,4 +572,4 @@ PlotData=
   -
 [Category:FCユトレヒト](https://ja.wikipedia.org/wiki/Category:FCユトレヒト "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:ユトレヒト](https://ja.wikipedia.org/wiki/Category:ユトレヒト "wikilink")
 
-1.  [Teamoverzicht](http://fcutrecht.nl/teams/fcutrecht1/)FCユトレヒト公式サイト 2019年1月15日閲覧
+1.  <https://www.fcutrecht.nl/team/selectie>

@@ -1,4 +1,4 @@
-> この記事は[SEIBU ](https://ja.wikipedia.org/wiki/SEIBU_)から翻訳されています。
+> この記事は[SEIBUプリンス ラビッツ](https://ja.wikipedia.org/wiki/SEIBUプリンス_ラビッツ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SeibuPrincerabbits_2008-1.JPG "wikilink") **SEIBUプリンスラビッツ**（セイブ・プリンスラビッツ [英表記](../Page/英語.md "wikilink"): SEIBU PRINCE RABBITS）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームで、[アジアリーグに所属していた](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")。本拠地は、[西東京市](../Page/西東京市.md "wikilink")の[ダイドードリンコアイスアリーナ](../Page/東伏見アイスアリーナ.md "wikilink")。準本拠地は、[横浜市](../Page/横浜市.md "wikilink")の新横浜[プリンスホテル](../Page/プリンスホテル.md "wikilink")スケートセンターと[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の[ビッグハット](../Page/長野市若里多目的スポーツアリーナ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CP](https://ja.wikipedia.org/wiki/CP)から翻訳されています。
+> この記事は[CPグループ](https://ja.wikipedia.org/wiki/CPグループ)から翻訳されています。
 
 
 **CPグループ** (シーピーグループ、英: *Charoen Pokphand Group Co., Ltd.*) とは[汕頭出身の](../Page/汕頭市.md "wikilink")[潮州系](../Page/潮州市.md "wikilink")[タイ人](../Page/タイ人.md "wikilink")、謝家（チエンワノン家）が基礎を作った[コングロマリット](../Page/コングロマリット.md "wikilink")（複合企業）である。[タイで最大のコングロマリットと言われ](../Page/タイ王国.md "wikilink")、農業分野や食料品の分野を中核事業として、通信、不動産分野にも精力的に進出し、全部で8つの分野で事業を展開している。国際的には、[ASEAN](https://ja.wikipedia.org/wiki/ASEAN "wikilink")各国や[中国](../Page/中国.md "wikilink")などを中心に世界13カ国に進出し、[ロンドン証券取引所](../Page/ロンドン証券取引所.md "wikilink")上場企業となっている。

@@ -1,4 +1,4 @@
-> この記事は[PlayStation](https://ja.wikipedia.org/wiki/PlayStation)から翻訳されています。
+> この記事は[電撃PlayStation](https://ja.wikipedia.org/wiki/電撃PlayStation)から翻訳されています。
 
 
 『**電撃PlayStation**』（でんげきプレイステーション）は、[KADOKAWA Game Linkageが発行する](https://ja.wikipedia.org/wiki/KADOKAWA_Game_Linkage "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。発売は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")。かつては[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）により発行されていた。2020年3月28日発売のVol.686をもって定期刊行終了予定\[1\]。

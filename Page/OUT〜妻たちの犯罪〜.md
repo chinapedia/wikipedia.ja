@@ -1,4 +1,4 @@
-> この記事は[OUT](https://ja.wikipedia.org/wiki/OUT)から翻訳されています。
+> この記事は[OUT〜妻たちの犯罪〜](https://ja.wikipedia.org/wiki/OUT〜妻たちの犯罪〜)から翻訳されています。
 
 
 『**OUT〜妻たちの犯罪〜**』（アウト つまたちのはんざい）は、[1999年](../Page/1999年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[12月21日](../Page/12月21日.md "wikilink")まで、[フジテレビ系で放送されたテレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[桐野夏生](../Page/桐野夏生.md "wikilink")の小説『[OUT](../Page/OUT_\(桐野夏生\).md "wikilink")』を原作とする。放送時間は、毎週[火曜](../Page/火曜日.md "wikilink")21:00-21:54（[JST](../Page/日本標準時.md "wikilink")）。

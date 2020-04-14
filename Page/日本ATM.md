@@ -1,4 +1,4 @@
-> この記事は[ATM](https://ja.wikipedia.org/wiki/ATM)から翻訳されています。
+> この記事は[日本ATM](https://ja.wikipedia.org/wiki/日本ATM)から翻訳されています。
 
 
 **日本エイ・ティー・エム株式会社**（にほんエーティーエム、*ATM Japan Ltd.*）は、[日本NCR](../Page/日本NCR.md "wikilink")を中心に設立された、[OEM](../Page/OEM.md "wikilink")による[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")（ATM）の販売、およびそれらの保守などを行う会社。

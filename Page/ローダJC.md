@@ -1,4 +1,4 @@
-> この記事は[JC](https://ja.wikipedia.org/wiki/JC)から翻訳されています。
+> この記事は[ローダJC](https://ja.wikipedia.org/wiki/ローダJC)から翻訳されています。
 
 
 **ローダJC**（**Sportvereniging Roda Juliana Combinatie Kerkrade** (;)）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南東部、[リンブルフ州の都市](../Page/リンブルフ州_\(オランダ\).md "wikilink")[ケルクラーデ](../Page/ケルクラーデ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。読み方は「ローダ・イェー・セー」。

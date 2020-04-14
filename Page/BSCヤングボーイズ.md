@@ -1,4 +1,4 @@
-> この記事は[BSC](https://ja.wikipedia.org/wiki/BSC)から翻訳されています。
+> この記事は[BSCヤングボーイズ](https://ja.wikipedia.org/wiki/BSCヤングボーイズ)から翻訳されています。
 
 
 **ベルナー・シュポルト・クラブ・ヤングボーイズ** (**Berner Sport Club Young Boys**) は、[スイス](../Page/スイス.md "wikilink")の首都[ベルン](../Page/ベルン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink") (1部相当) に所属。

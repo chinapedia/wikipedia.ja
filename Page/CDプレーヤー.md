@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDプレーヤー](https://ja.wikipedia.org/wiki/CDプレーヤー)から翻訳されています。
 
 
 **CDプレーヤー**（）は、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")（CD）を再生する装置。[CD-DA](../Page/CD-DA.md "wikilink")（オーディオCD）に記録されている[デジタル](../Page/デジタル.md "wikilink")[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")[データ](../Page/データ.md "wikilink")を、[スピーカー](../Page/スピーカー.md "wikilink")で再生可能な[アナログ](../Page/アナログ.md "wikilink")[信号](https://ja.wikipedia.org/wiki/信号 "wikilink")へ変換する。CDPという略称で呼ばれることもある。

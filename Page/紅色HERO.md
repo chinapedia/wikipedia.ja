@@ -1,4 +1,4 @@
-> この記事は[HERO](https://ja.wikipedia.org/wiki/HERO)から翻訳されています。
+> この記事は[紅色HERO](https://ja.wikipedia.org/wiki/紅色HERO)から翻訳されています。
 
 
 『**紅色HERO**』（べにいろヒーロー、*Crimson Hero*\[1\]））は、『[別冊マーガレット](../Page/別冊マーガレット.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）に2003年から2011年まで連載されていた[高梨みつば](../Page/高梨みつば.md "wikilink")による[少女漫画](../Page/少女漫画.md "wikilink")作品。全20巻。

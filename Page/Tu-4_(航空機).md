@@ -1,4 +1,4 @@
-> この記事は[Tu-4 \(\)](https://ja.wikipedia.org/wiki/Tu-4_\(\))から翻訳されています。
+> この記事は[Tu-4 \(航空機\)](https://ja.wikipedia.org/wiki/Tu-4_\(航空機\))から翻訳されています。
 
 
 **Tu-4**（ツポレフ4；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：<small>トゥー・チトィーリェ</small>）は、[ソ連の航空機設計機関であった](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](../Page/ツポレフ.md "wikilink")[設計局](../Page/設計局.md "wikilink")が、当時の指導者[ヨシフ・スターリン](https://ja.wikipedia.org/wiki/ヨシフ・スターリン "wikilink")の指示により開発した[レシプロ四発](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。

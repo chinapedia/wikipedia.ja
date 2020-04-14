@@ -1,4 +1,4 @@
-> この記事は[F.B.EYE!! !](https://ja.wikipedia.org/wiki/F.B.EYE!!_!)から翻訳されています。
+> この記事は[F.B.EYE!! 相棒犬リーと女性捜査官スーの感動!事件簿](https://ja.wikipedia.org/wiki/F.B.EYE!!_相棒犬リーと女性捜査官スーの感動!事件簿)から翻訳されています。
 
 
 『**F.B.EYE\!\!相棒犬リーと女性捜査官スーの感動\!事件簿**』（エフ・ビー・アイ\!\!あいぼうけん・リーとじょせいそうさかん・スーのかんどう\!じけんぼ）は、[2002年](../Page/2002年.md "wikilink")からアメリカ合衆国[PAX TVにて全](https://ja.wikipedia.org/wiki/:en:Ion_Television "wikilink")56エピソードが放送された海外ドラマ（カナダではCTVにて[2003年](../Page/2003年.md "wikilink")に放映）。原題は『Sue Thomas:F.B.Eye』。
@@ -193,7 +193,7 @@ PAX TV（現Ion Television）がオリジナル番組の製作を休止するこ
   - [Official page of real Sue Thomas](http://www.suethomasfbeye.com) スー・トーマス捜査官公式サイト
   - [Sue Thomas DVD\!](http://www.suethomasdvd.com) DVDに関する情報
 
-[Category:カナダのテレビドラマ](https://ja.wikipedia.org/wiki/Category:カナダのテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:連邦捜査局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台とした作品 "wikilink") [Category:聴覚障害を扱った作品](https://ja.wikipedia.org/wiki/Category:聴覚障害を扱った作品 "wikilink") [Category:イヌを題材とした作品](https://ja.wikipedia.org/wiki/Category:イヌを題材とした作品 "wikilink") [Category:テレビ朝日月曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日月曜8時枠の連続ドラマ "wikilink") [Category:トロントで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:トロントで製作されたテレビ番組 "wikilink")
+[Category:カナダのテレビドラマ](https://ja.wikipedia.org/wiki/Category:カナダのテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:連邦捜査局を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台としたテレビドラマ "wikilink") [Category:聴覚障害を扱ったテレビドラマ](https://ja.wikipedia.org/wiki/Category:聴覚障害を扱ったテレビドラマ "wikilink") [Category:イヌを題材とした作品](https://ja.wikipedia.org/wiki/Category:イヌを題材とした作品 "wikilink") [Category:テレビ朝日月曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日月曜8時枠の連続ドラマ "wikilink") [Category:トロントで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:トロントで製作されたテレビ番組 "wikilink")
 
 1.  <http://www.thefreelibrary.com/PAX+TV%27s+Super+Sunday+Brings+in+Viewers+With+Hit+Series+%60Doc%27+and+the>...-a092870880
 2.  <http://www.thefutoncritic.com/news.aspx?id=6572>

@@ -1,4 +1,4 @@
-> この記事は[Loving You \(\)](https://ja.wikipedia.org/wiki/Loving_You_\(\))から翻訳されています。
+> この記事は[Loving You \(原由子のアルバム\)](https://ja.wikipedia.org/wiki/Loving_You_\(原由子のアルバム\))から翻訳されています。
 
 
 『**Loving You**』（ラヴィング・ユー）は、[原由子](../Page/原由子.md "wikilink")の1枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

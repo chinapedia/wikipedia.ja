@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウォリアーズFC](https://ja.wikipedia.org/wiki/ウォリアーズFC)から翻訳されています。
 
 
 **ウォリアーズFC**（、略称：Warriors）は、[Sリーグに参加する](https://ja.wikipedia.org/wiki/シンガポールサッカーリーグ "wikilink")[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のサッカークラブである。2012年まではシンガポール・アームド・フォーシズFC (Singapore Armed Forces Football Club)という名称だったが、2013年に現在の名称へ変更された\[1\]。

@@ -25,6 +25,7 @@
   - [RealMedia](../Page/RealMedia.md "wikilink")
       - [RealAudio](../Page/RealAudio.md "wikilink") (.ra, .rm)
       - [RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink") (.rm, .rv, .rmvb)
+      - RealMediaHD (.rmhd)
       - [RealPix](https://ja.wikipedia.org/wiki/RealPix "wikilink") (.rp)
       - [RealMedia Shortcut](https://ja.wikipedia.org/wiki/RealMedia_Shortcut "wikilink") (.ram, .rmm)
       - [RealText](https://ja.wikipedia.org/wiki/RealText "wikilink") (.rt)

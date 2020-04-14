@@ -1,4 +1,4 @@
-> この記事は[RDX](https://ja.wikipedia.org/wiki/RDX)から翻訳されています。
+> この記事は[アキュラ・RDX](https://ja.wikipedia.org/wiki/アキュラ・RDX)から翻訳されています。
 
 
 **RDX**（アールディーエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売する[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

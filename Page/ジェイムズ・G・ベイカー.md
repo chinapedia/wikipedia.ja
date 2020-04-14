@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ジェイムズ・G・ベイカー](https://ja.wikipedia.org/wiki/ジェイムズ・G・ベイカー)から翻訳されています。
 
 
 [thumbによって](https://ja.wikipedia.org/wiki/ファイル:Baker-Nunn_camera_001.JPG "wikilink")[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")の追跡を目的として[東京天文台三鷹観測所に設置されたベーカー](../Page/国立天文台三鷹キャンパス.md "wikilink")・ナン・カメラ(現在は[姫路科学館](../Page/姫路科学館.md "wikilink")にて展示)\]\] **ジェイムズ・G・ベイカー**（, [1914年](../Page/1914年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[天文学者](../Page/天文学者.md "wikilink")、[光学](../Page/光学.md "wikilink")者。

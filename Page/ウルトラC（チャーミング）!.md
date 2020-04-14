@@ -1,4 +1,4 @@
-> この記事は[C!](https://ja.wikipedia.org/wiki/C!)から翻訳されています。
+> この記事は[ウルトラC（チャーミング）!](https://ja.wikipedia.org/wiki/ウルトラC（チャーミング）!)から翻訳されています。
 
 
 『**ウルトラC（チャーミング）\!**』は、『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。

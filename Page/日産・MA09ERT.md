@@ -1,4 +1,4 @@
-> この記事は[MA09ERT](https://ja.wikipedia.org/wiki/MA09ERT)から翻訳されています。
+> この記事は[日産・MA09ERT](https://ja.wikipedia.org/wiki/日産・MA09ERT)から翻訳されています。
 
 
 **[MA09ERT](https://ja.wikipedia.org/wiki/MA09ERT "wikilink")**は、[日産自動車](../Page/日産自動車.md "wikilink")が製造していた[直列4気筒](../Page/直列4気筒.md "wikilink")[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の名称。

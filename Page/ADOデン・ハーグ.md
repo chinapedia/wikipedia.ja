@@ -1,4 +1,4 @@
-> この記事は[ADO](https://ja.wikipedia.org/wiki/ADO)から翻訳されています。
+> この記事は[ADOデン・ハーグ](https://ja.wikipedia.org/wiki/ADOデン・ハーグ)から翻訳されています。
 
 
 **ADOデン・ハーグ**（**Alles Door Oefening Den Haag** ()）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南西部、[南ホラント州](../Page/南ホラント州.md "wikilink")の州都[デン・ハーグ](../Page/デン・ハーグ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。読みは「アド・デナーフ」。日本のメディアでは**デン・ハーグ**と略されることがあるが、オランダでは一般的に**ADO**と呼ばれ、FCデン・ハーグ時代からの地元サポーターは現在もデン・ハーグの名前で呼ぶことがある。

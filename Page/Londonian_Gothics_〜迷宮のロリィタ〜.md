@@ -1,4 +1,4 @@
-> この記事は[Londonian Gothics ](https://ja.wikipedia.org/wiki/Londonian_Gothics_)から翻訳されています。
+> この記事は[Londonian Gothics 〜迷宮のロリィタ〜](https://ja.wikipedia.org/wiki/Londonian_Gothics_〜迷宮のロリィタ〜)から翻訳されています。
 
 
 『**Londonian Gothics 〜迷宮のロリィタ〜**』（ロンドニアンゴシックス・めいきゅうのロリィタ）は、[メガサイバー](../Page/メガサイバー.md "wikilink")（現[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")・MegaGameS）が[2005年](../Page/2005年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフトである。

@@ -1,4 +1,4 @@
-> この記事は[TCG](https://ja.wikipedia.org/wiki/TCG)から翻訳されています。
+> この記事は[ファイアーエムブレムTCG](https://ja.wikipedia.org/wiki/ファイアーエムブレムTCG)から翻訳されています。
 
 
 <div class=pathnavbox>

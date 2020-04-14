@@ -1,4 +1,4 @@
-> この記事は[NAC](https://ja.wikipedia.org/wiki/NAC)から翻訳されています。
+> この記事は[NACブレダ](https://ja.wikipedia.org/wiki/NACブレダ)から翻訳されています。
 
 
 **NACブレダ**（**NOAD ADVENDO Combinatie Breda**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[北ブラバント州](../Page/北ブラバント州.md "wikilink")・[ブレダを本拠地とする](../Page/ブレダ_\(オランダ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

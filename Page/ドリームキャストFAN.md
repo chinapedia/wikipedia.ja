@@ -1,4 +1,4 @@
-> この記事は[FAN](https://ja.wikipedia.org/wiki/FAN)から翻訳されています。
+> この記事は[ドリームキャストFAN](https://ja.wikipedia.org/wiki/ドリームキャストFAN)から翻訳されています。
 
 
 『**ドリームキャストFAN**』（ドリームキャストファン、Dreamcast FAN）は、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が発行していたセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")・[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")専門の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。

@@ -110,6 +110,10 @@
 
   - 6月27日、ミニアルバム『a little boy』を発売。
 
+**[2020年](../Page/2020年.md "wikilink")**
+
+  - 3月9日、映画『もち』の音楽担当を公式サイト上で発表。
+
 ## ディスコグラフィー
 
 ### シングル
@@ -562,7 +566,7 @@ ESCL-3067:通常盤</p></td>
 
   - [EPIC RECORDS JAPANによる公式サイト](http://www.sonymusic.co.jp/Music/Info/Akeboshi/)
 
-  - [Sony Music Online Japanによるアーティストページ](http://www.sonymusic.co.jp/Music/Arch/ES/Akeboshi/)
+  - [Sony Music Online Japanによるアーティストページ](https://www.sonymusic.co.jp/artist/Akeboshi/)
 
   - [オフィシャルブログ Akeboshi Diary(アーカイブ)](https://web.archive.org/web/20131203002529/http://akeboshi.blog.so-net.ne.jp/)
 

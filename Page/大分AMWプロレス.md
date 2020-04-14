@@ -1,4 +1,4 @@
-> この記事は[AMW](https://ja.wikipedia.org/wiki/AMW)から翻訳されています。
+> この記事は[大分AMWプロレス](https://ja.wikipedia.org/wiki/大分AMWプロレス)から翻訳されています。
 
 
 **大分プロレスAMW**（おおいたプロレス・エイ・エム・ダブリュー）は、かつて[大分県](../Page/大分県.md "wikilink")を中心に活動していた[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。

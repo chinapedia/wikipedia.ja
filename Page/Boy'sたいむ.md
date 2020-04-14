@@ -1,4 +1,4 @@
-> この記事は[Boy\'s](https://ja.wikipedia.org/wiki/Boy\'s)から翻訳されています。
+> この記事は[Boy\'sたいむ](https://ja.wikipedia.org/wiki/Boy\'sたいむ)から翻訳されています。
 
 
 『**Boy'sたいむ**』（ぼーいずたいむ）は、[藤凪かおる](../Page/藤凪かおる.md "wikilink")（ふじなぎ かおる）による[4コマ](https://ja.wikipedia.org/wiki/4コマ "wikilink")漫画作品。
@@ -91,4 +91,4 @@
 3.  第3巻（2009年4月22日発行） ISBN 978-4-8322-6730-5
 4.  第4巻（2010年8月22日発行） ISBN 978-4-8322-6874-6
 
-[Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:漫画作品_ほ](https://ja.wikipedia.org/wiki/Category:漫画作品_ほ "wikilink") [Category:まんがタイム](https://ja.wikipedia.org/wiki/Category:まんがタイム "wikilink") [Category:男装漫画](https://ja.wikipedia.org/wiki/Category:男装漫画 "wikilink") [Category:集合住宅を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台とした漫画作品 "wikilink")
+[Category:漫画作品_ほ](https://ja.wikipedia.org/wiki/Category:漫画作品_ほ "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:まんがタイムの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムの4コマ漫画作品 "wikilink") [Category:男装漫画](https://ja.wikipedia.org/wiki/Category:男装漫画 "wikilink") [Category:集合住宅を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台とした漫画作品 "wikilink")

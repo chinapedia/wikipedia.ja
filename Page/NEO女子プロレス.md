@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[NEO女子プロレス](https://ja.wikipedia.org/wiki/NEO女子プロレス)から翻訳されています。
 
 
 **NEO女子プロレス**（ネオじょしプロレス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子プロレス](../Page/女子プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。

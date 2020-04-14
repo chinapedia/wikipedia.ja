@@ -1,4 +1,4 @@
-> この記事は[ J-POP 90\'s BEST](https://ja.wikipedia.org/wiki/_J-POP_90\'s_BEST)から翻訳されています。
+> この記事は[十八番 〜J-POP 90\'s BEST〜](https://ja.wikipedia.org/wiki/十八番_〜J-POP_90\'s_BEST〜)から翻訳されています。
 
 
 『**<ruby><rb>十八番</rb><rp>（</rp><rt>オハコ</rt><rp>）</rp></ruby> 〜J-POP 90's BEST〜**』（オハコ ジェイポップ・ナインティーズ・ベスト）は、[エイベックス・ディストリビューション](https://ja.wikipedia.org/wiki/エイベックス・ミュージック・クリエイティヴ "wikilink")（[avex club](https://ja.wikipedia.org/wiki/avex_club "wikilink")）から企画・発売元と[ショップ・マニフィカ](../Page/ショップ・マニフィカ.md "wikilink")（前[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")ダイレクトマーケティング部・旧[住商ホームショッピング](../Page/住商ホームショッピング.md "wikilink")）ほか各社を取扱し、[2004年](../Page/2004年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")リリースされたオリジナル・[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")アルバムである。

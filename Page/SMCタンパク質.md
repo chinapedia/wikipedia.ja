@@ -1,4 +1,4 @@
-> この記事は[SMC](https://ja.wikipedia.org/wiki/SMC)から翻訳されています。
+> この記事は[SMCタンパク質](https://ja.wikipedia.org/wiki/SMCタンパク質)から翻訳されています。
 
 
 **SMCタンパク質**（えすえむしいたんぱくしつ：**SMC proteins**）とは、[染色体](../Page/染色体.md "wikilink")の高次構造と機能の制御に関わる[ATPアーゼ](../Page/ATPアーゼ.md "wikilink")ファミリー、あるいはそれに属するタンパク質の総称\[1\]\[2\]\[3\]\[4\]。SMC は、**染色体構造維持（Structural Maintenance of Chromosomes）**の略。**[コンデンシン](https://ja.wikipedia.org/wiki/コンデンシン "wikilink")**や**[コヒーシン](../Page/コヒーシン.md "wikilink")**など巨大なタンパク質複合体のATPaseサブユニットとして働く。

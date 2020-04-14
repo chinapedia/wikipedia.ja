@@ -1,4 +1,4 @@
-> この記事は[Live! ](https://ja.wikipedia.org/wiki/Live!_)から翻訳されています。
+> この記事は[Live! チクる](https://ja.wikipedia.org/wiki/Live!_チクる)から翻訳されています。
 
 
 **Live\! チクる**（**ライブ！ ちくる**）とは、[松竹芸能](../Page/松竹芸能.md "wikilink")に所属する若手漫才師・コントコンビがネタを披露するために行っている[ライブ](https://ja.wikipedia.org/wiki/公演 "wikilink")[イベント](../Page/イベント.md "wikilink")である。「チクる」は「松竹する」の造語。

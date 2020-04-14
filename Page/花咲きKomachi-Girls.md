@@ -1,4 +1,4 @@
-> この記事は[Komachi-Girls](https://ja.wikipedia.org/wiki/Komachi-Girls)から翻訳されています。
+> この記事は[花咲きKomachi-Girls](https://ja.wikipedia.org/wiki/花咲きKomachi-Girls)から翻訳されています。
 
 
 **花咲きKomachi-Girls**（はなさきこまちがーるず）は、[奥谷かひろ](../Page/奥谷かひろ.md "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[IAAF](https://ja.wikipedia.org/wiki/IAAF)から翻訳されています。
+> この記事は[IAAFグランプリ大阪大会](https://ja.wikipedia.org/wiki/IAAFグランプリ大阪大会)から翻訳されています。
 
 
 **IAAFグランプリ大阪大会**（アイエーエーエフグランプリおおさかたいかい）は毎年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")上旬に開催されていた[陸上競技](../Page/陸上競技.md "wikilink")大会である。

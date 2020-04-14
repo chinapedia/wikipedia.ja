@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ホンダ・L型エンジン](https://ja.wikipedia.org/wiki/ホンダ・L型エンジン)から翻訳されています。
 
 
 [Honda_Fit_L13A_i-DSI_engine.jpg](https://ja.wikipedia.org/wiki/File:Honda_Fit_L13A_i-DSI_engine.jpg "fig:Honda_Fit_L13A_i-DSI_engine.jpg") [Honda_Hybrid_System_02.JPG](https://ja.wikipedia.org/wiki/File:Honda_Hybrid_System_02.JPG "fig:Honda_Hybrid_System_02.JPG") **L型エンジン**（Lがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[小型車種及び](../Page/Bセグメント.md "wikilink")[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")用の[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

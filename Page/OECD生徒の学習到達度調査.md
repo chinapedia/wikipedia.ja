@@ -1,4 +1,4 @@
-> この記事は[OECD](https://ja.wikipedia.org/wiki/OECD)から翻訳されています。
+> この記事は[OECD生徒の学習到達度調査](https://ja.wikipedia.org/wiki/OECD生徒の学習到達度調査)から翻訳されています。
 
 
 **OECD生徒の学習到達度調査**（OECDせいとのがくしゅうとうたつどちょうさ、）とは、[経済協力開発機構](../Page/経済協力開発機構.md "wikilink")（OECD）による[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")的な[生徒の](https://ja.wikipedia.org/wiki/在学生 "wikilink")[学習](../Page/学習.md "wikilink")到達度[調査](../Page/調査.md "wikilink")のこと。日本では「国際学習到達度調査」とも言われるが、英語の原文は『**国際生徒評価のためのプログラム**』である。

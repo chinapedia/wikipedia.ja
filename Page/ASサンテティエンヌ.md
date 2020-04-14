@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASサンテティエンヌ](https://ja.wikipedia.org/wiki/ASサンテティエンヌ)から翻訳されています。
 
 
 **アソシアシヨン・スポルティーヴ・ドゥ・サン＝テティエンヌ・ロワール**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[サン＝テティエンヌ](../Page/サン＝テティエンヌ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -13,7 +13,7 @@
 
 リーグの中でも熱狂的なファンが多い事で有名で、[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")とはライバル関係にあり、両クラブの対戦は[デュルビ・デュ・ローヌ](https://ja.wikipedia.org/wiki/デュルビ・デュ・ローヌ "wikilink")（ローヌ・ダービーの意）と呼ばれる。
 
-日本の大手光学機器メーカーの[コニカミノルタ](../Page/コニカミノルタ.md "wikilink")がユニホームスポンサーを務めていたこともある。
+日本の大手光学機器メーカーの[コニカミノルタ](../Page/コニカミノルタ.md "wikilink")、ゲーム会社の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")がユニホームスポンサーを務めていたこともある。
 
 ## 歴史
 

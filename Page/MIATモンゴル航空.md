@@ -1,4 +1,4 @@
-> この記事は[MIAT](https://ja.wikipedia.org/wiki/MIAT)から翻訳されています。
+> この記事は[MIATモンゴル航空](https://ja.wikipedia.org/wiki/MIATモンゴル航空)から翻訳されています。
 
 
 **MIATモンゴル航空**（MIATモンゴルこうくう、、）は、首都[ウランバートル](../Page/ウランバートル.md "wikilink")を本拠地としている、[モンゴル国](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")の国営[航空会社](../Page/航空会社.md "wikilink")かつナショナル・[フラッグ・キャリア](../Page/フラッグ・キャリア.md "wikilink")。「MIATモンゴル国営航空」という名称であったが、1993年に民営化している。

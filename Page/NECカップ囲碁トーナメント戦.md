@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECカップ囲碁トーナメント戦](https://ja.wikipedia.org/wiki/NECカップ囲碁トーナメント戦)から翻訳されています。
 
 
 **NECカップ囲碁トーナメント戦**（エヌイーシーカップいごトーナメントせん）は、[日本電気](../Page/日本電気.md "wikilink")株式会社が主催する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[1981年](../Page/1981年.md "wikilink")創設。[2012年](../Page/2012年.md "wikilink")にて休止。

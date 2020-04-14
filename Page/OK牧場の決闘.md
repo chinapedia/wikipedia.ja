@@ -1,4 +1,4 @@
-> この記事は[OK](https://ja.wikipedia.org/wiki/OK)から翻訳されています。
+> この記事は[OK牧場の決闘](https://ja.wikipedia.org/wiki/OK牧場の決闘)から翻訳されています。
 
 
 **OK牧場の決闘**（オーケーぼくじょうのけっとう、）とは、[1881年](../Page/1881年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[コチセ郡](https://ja.wikipedia.org/wiki/コチセ郡_\(アリゾナ州\) "wikilink")[トゥームストーン](../Page/トゥームストーン.md "wikilink")のO.K.コラル近くの路上で起こった銃撃戦。

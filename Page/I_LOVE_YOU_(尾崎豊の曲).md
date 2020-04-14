@@ -1,4 +1,4 @@
-> この記事は[I LOVE YOU \(\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(\))から翻訳されています。
+> この記事は[I LOVE YOU \(尾崎豊の曲\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(尾崎豊の曲\))から翻訳されています。
 
 
 「**I LOVE YOU**」（アイ ラブ ユー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[尾崎豊](../Page/尾崎豊.md "wikilink")が、1983年にリリースしたファースト・アルバム『[十七歳の地図](../Page/十七歳の地図_\(アルバム\).md "wikilink")』に収録されていた曲で、1991年にシングル・カットされた（11枚目の[シングル](../Page/シングル.md "wikilink")）。

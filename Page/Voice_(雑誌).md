@@ -1,4 +1,4 @@
-> この記事は[Voice \(\)](https://ja.wikipedia.org/wiki/Voice_\(\))から翻訳されています。
+> この記事は[Voice \(雑誌\)](https://ja.wikipedia.org/wiki/Voice_\(雑誌\))から翻訳されています。
 
 
 『**Voice**』（ボイス）は、[PHP研究所](../Page/PHP研究所.md "wikilink")が発行する月刊の総合論壇誌。[1977年](../Page/1977年.md "wikilink")創刊。1冊680円。通巻で300号を超えている。

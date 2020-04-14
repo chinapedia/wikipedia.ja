@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT都市開発](https://ja.wikipedia.org/wiki/NTT都市開発)から翻訳されています。
 
 
 **エヌ・ティ・ティ都市開発株式会社**（エヌ・ティ・ティとしかいはつ、）は、[東京](../Page/東京.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く日本の[不動産会社](../Page/不動産会社.md "wikilink")である。[日本電信電話](../Page/日本電信電話.md "wikilink") (NTT) の子会社で、[NTTグループ](../Page/NTTグループ.md "wikilink")唯一の総合不動産会社。
@@ -109,6 +109,7 @@
   - LIFORK秋葉原（東京都千代田区）
   - LIFORK南青山（東京都港区）
   - LIFORK上北沢（東京都世田谷区）
+  - LIFORK原宿（東京都渋谷区）
   - LIFORK川崎（神奈川県川崎市川崎区）
 
 ### 商業

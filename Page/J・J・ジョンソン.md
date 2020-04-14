@@ -1,4 +1,4 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・ジョンソン](https://ja.wikipedia.org/wiki/J・J・ジョンソン)から翻訳されています。
 
 
 **J・J・ジョンソン**（J.J.Johnson、本名 James Louis Johnson, [1924年](../Page/1924年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")）は、[スウィングジャズ](https://ja.wikipedia.org/wiki/スウィングジャズ "wikilink")期末期から[モダン・ジャズ](https://ja.wikipedia.org/wiki/モダン・ジャズ "wikilink")時代にかけて活躍した[トロンボーン](../Page/トロンボーン.md "wikilink")プレイヤー。

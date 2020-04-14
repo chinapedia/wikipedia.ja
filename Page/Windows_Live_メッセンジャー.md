@@ -1,4 +1,4 @@
-> この記事は[Windows Live ](https://ja.wikipedia.org/wiki/Windows_Live_)から翻訳されています。
+> この記事は[Windows Live メッセンジャー](https://ja.wikipedia.org/wiki/Windows_Live_メッセンジャー)から翻訳されています。
 
 
 [Xbox 360](../Page/Xbox_360.md "wikilink") | 種別 = [インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") | ライセンス = Microsoft [EULA](../Page/ライセンス.md "wikilink") | 公式サイト = [Windows Essentials (旧名: おすすめパック)](http://windows.microsoft.com/ja-JP/windows-live/essentials-home) }}   **Windows Live Messenger**（ウィンドウズ ライブ メッセンジャー）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。[MSN メッセンジャーの後継ソフトウェアで](../Page/MSN_メッセンジャー.md "wikilink")、[Windows Liveサービスのうちの一つである](../Page/Windows_Live.md "wikilink")。MSN メッセンジャーから機能を引き継ぎ、多くの機能が搭載されている。 中国本土を除き全世界で2013年4月8日に終了し[Skype](../Page/Skype.md "wikilink")に統合(IDはそのままSkypeでも利用できる)\[1\]\[2\]

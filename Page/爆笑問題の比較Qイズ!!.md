@@ -1,4 +1,4 @@
-> この記事は[Q!!](https://ja.wikipedia.org/wiki/Q!!)から翻訳されています。
+> この記事は[爆笑問題の比較Qイズ!!](https://ja.wikipedia.org/wiki/爆笑問題の比較Qイズ!!)から翻訳されています。
 
 
 **爆笑問題の比較Qイズ\!\!**（ばくしょうもんだいのひかくくいず\!\!）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")23:00～24:00（[JST](../Page/日本標準時.md "wikilink")）で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

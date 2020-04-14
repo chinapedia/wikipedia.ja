@@ -1,4 +1,4 @@
-> この記事は[HAPPY](https://ja.wikipedia.org/wiki/HAPPY)から翻訳されています。
+> この記事は[桃太郎電鉄HAPPY](https://ja.wikipedia.org/wiki/桃太郎電鉄HAPPY)から翻訳されています。
 
 
 **桃太郎電鉄HAPPY**（ももたろうでんてつハッピー）は、[ハドソン](../Page/ハドソン.md "wikilink")が[1996年](../Page/1996年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ボードゲーム](../Page/ボードゲーム.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第6作で、スーパーファミコンでは本シリーズ最後の作品。本作からタイトルに「スーパー」が付かなくなったが、ゲームの基本ルールは『[スーパー桃太郎電鉄](../Page/スーパー桃太郎電鉄.md "wikilink")』からの内容を引き継いでいる（初代『[桃太郎電鉄](../Page/桃太郎電鉄.md "wikilink")』とはルールが異なる）。

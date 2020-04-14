@@ -1,4 +1,4 @@
-> この記事は[DX!](https://ja.wikipedia.org/wiki/DX!)から翻訳されています。
+> この記事は[アニメ週刊DX!みいファぷー](https://ja.wikipedia.org/wiki/アニメ週刊DX!みいファぷー)から翻訳されています。
 
 
 『**アニメ週刊DX\!みいファぷー**』（アニメしゅうかんデラックス みいファぷー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")まで[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")局が編成していた[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[コンプレックス枠である](../Page/コンプレックス_\(番組形式\).md "wikilink")。全47回。

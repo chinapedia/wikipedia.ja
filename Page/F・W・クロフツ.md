@@ -1,7 +1,7 @@
-> この記事は[FW](https://ja.wikipedia.org/wiki/FW)から翻訳されています。
+> この記事は[F・W・クロフツ](https://ja.wikipedia.org/wiki/F・W・クロフツ)から翻訳されています。
 
 
-**フリーマン・ウィルス・クロフツ**（**Freeman Wills Crofts**, [1879年](../Page/1879年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink") - [1957年](../Page/1957年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")）は、[アイルランド](../Page/アイルランド.md "wikilink")生まれの[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[推理作家](../Page/推理作家.md "wikilink")。リアリズムを重視した一連の[推理小説](../Page/推理小説.md "wikilink")で知られる。
+**フリーマン・ウィルス・クロフツ**（Freeman Wills Crofts, [1879年](../Page/1879年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink") - [1957年](../Page/1957年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")）は、[アイルランド](../Page/アイルランド.md "wikilink")生まれの[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[推理作家](../Page/推理作家.md "wikilink")。リアリズムを重視した一連の[推理小説](../Page/推理小説.md "wikilink")で知られる。
 
 ## 経歴
 
@@ -91,7 +91,7 @@
 
 <references />
 
-[Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:アイルランドの推理作家](https://ja.wikipedia.org/wiki/Category:アイルランドの推理作家 "wikilink") [Category:北アイルランドの著作家](https://ja.wikipedia.org/wiki/Category:北アイルランドの著作家 "wikilink") [Category:ダブリン出身の人物](https://ja.wikipedia.org/wiki/Category:ダブリン出身の人物 "wikilink") [Category:1879年生](https://ja.wikipedia.org/wiki/Category:1879年生 "wikilink") [Category:1957年没](https://ja.wikipedia.org/wiki/Category:1957年没 "wikilink")
+[Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:アイルランドの推理作家](https://ja.wikipedia.org/wiki/Category:アイルランドの推理作家 "wikilink") [Category:北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:北アイルランドの小説家 "wikilink") [Category:ダブリン出身の人物](https://ja.wikipedia.org/wiki/Category:ダブリン出身の人物 "wikilink") [Category:1879年生](https://ja.wikipedia.org/wiki/Category:1879年生 "wikilink") [Category:1957年没](https://ja.wikipedia.org/wiki/Category:1957年没 "wikilink")
 
 1.  [クロフツ とは - コトバンク](http://kotobank.jp/word/%E3%82%AF%E3%83%AD%E3%83%95%E3%83%84)
 2.  渕上痩平のブログより <http://fuhchin.blog27.fc2.com/blog-entry-327.html>

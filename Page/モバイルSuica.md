@@ -1,4 +1,4 @@
-> この記事は[Suica](https://ja.wikipedia.org/wiki/Suica)から翻訳されています。
+> この記事は[モバイルSuica](https://ja.wikipedia.org/wiki/モバイルSuica)から翻訳されています。
 
 
 [thumb版モバイルSuicaのVersion](https://ja.wikipedia.org/wiki/ファイル:Mobile_suica_screenshot.png "wikilink")4aメニュー画面（2017年5月のアップデートにより、利用不可）\]\] **モバイルSuica**（モバイルスイカ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が提供する、「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」対応の[携帯電話](../Page/携帯電話.md "wikilink")及び[PHS](../Page/PHS.md "wikilink")において、同社が発行する[IC乗車カードである](../Page/乗車カード.md "wikilink")[Suica](../Page/Suica.md "wikilink")の機能を搭載した[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")およびそのサービスである。

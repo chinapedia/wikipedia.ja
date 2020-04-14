@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTインターコミュニケーション・センター](https://ja.wikipedia.org/wiki/NTTインターコミュニケーション・センター)から翻訳されています。
 
 
 **NTTインターコミュニケーション・センター**（ICC）は、[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社（NTT）が設立した[美術館](../Page/美術館.md "wikilink")・[博物館](../Page/博物館.md "wikilink")。現在は[東日本電信電話](../Page/東日本電信電話.md "wikilink")株式会社（NTT東日本）が管理する。[メディアアート](../Page/メディアアート.md "wikilink")の展示を中心とした文化施設で、メディアアート作品や関連する図書・映像資料を多く所蔵するほか、メディアの発達史を一堂に展示したショーケース、ウェブ上や機関紙による研究発表もおこなっている。 [NTT_ICC_entrance.jpg](https://ja.wikipedia.org/wiki/File:NTT_ICC_entrance.jpg "fig:NTT_ICC_entrance.jpg")

@@ -1,4 +1,4 @@
-> この記事は[UIX](https://ja.wikipedia.org/wiki/UIX)から翻訳されています。
+> この記事は[UボートIX型](https://ja.wikipedia.org/wiki/UボートIX型)から翻訳されています。
 
 
 **UボートIX型** (U-Boot-Klasse IX) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。

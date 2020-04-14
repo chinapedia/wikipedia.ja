@@ -1,4 +1,4 @@
-> この記事は[CUFFS ](https://ja.wikipedia.org/wiki/CUFFS_)から翻訳されています。
+> この記事は[CUFFS 〜傷だらけの地図〜](https://ja.wikipedia.org/wiki/CUFFS_〜傷だらけの地図〜)から翻訳されています。
 
 
 『**CUFFS ～傷だらけの地図～**』（カフス きずだらけのちず）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2005年](../Page/2005年.md "wikilink")3月まで『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』に連載されていた格闘漫画。作者は[東條仁](https://ja.wikipedia.org/wiki/東條仁 "wikilink")。

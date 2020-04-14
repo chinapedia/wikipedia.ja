@@ -200,4 +200,4 @@ UMCK-5227:通常盤</p></td>
 
   - [TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](http://ameblo.jp/teriyakiblog)
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:デフ・ジャム・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・ジャパンのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:デフ・ジャム・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・ジャパンのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")

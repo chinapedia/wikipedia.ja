@@ -1,4 +1,4 @@
-> この記事は[YZR-M1](https://ja.wikipedia.org/wiki/YZR-M1)から翻訳されています。
+> この記事は[ヤマハ・YZR-M1](https://ja.wikipedia.org/wiki/ヤマハ・YZR-M1)から翻訳されています。
 
 
 **YZR-M1**（ワイゼットアール-エムワン）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")のMotoGPクラスに参戦するために開発した競技専用[オートバイ](../Page/オートバイ.md "wikilink")\[1\]。[2002年](../Page/2002年.md "wikilink")に[YZR500の後継として開発され](../Page/ヤマハ・YZR500.md "wikilink")、当初はのエンジンを搭載した。それ以来、YZR-M1は990cc時代、800cc時代、1000cc時代とコンスタントに開発され続けている。

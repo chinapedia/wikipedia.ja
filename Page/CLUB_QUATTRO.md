@@ -30,7 +30,7 @@
 
   - オープン：[2012年](../Page/2012年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")
   - 所在地：[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区太融寺町](../Page/北区_\(大阪市\).md "wikilink")　[プラザ梅田](https://ja.wikipedia.org/wiki/梅田ピカデリー "wikilink")10階
-  - 最寄駅：[JR](../Page/西日本旅客鉄道.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")、[阪神](../Page/阪神電気鉄道.md "wikilink")・[阪急](../Page/阪急電鉄.md "wikilink")・[Osaka Metro](https://ja.wikipedia.org/wiki/Osaka_Metro "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink")[梅田駅](https://ja.wikipedia.org/wiki/梅田駅 "wikilink")
+  - 最寄駅：[JR](../Page/西日本旅客鉄道.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")、[阪神](../Page/阪神電気鉄道.md "wikilink")・[阪急](../Page/阪急電鉄.md "wikilink")・[Osaka Metro](https://ja.wikipedia.org/wiki/Osaka_Metro "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")[梅田駅](https://ja.wikipedia.org/wiki/梅田駅 "wikilink")
   - 収容人数：650人
   - 心斎橋CLUB QUATTROの営業終了に伴い移転（後述）。心斎橋での20年にわたる歴史を引き継ぐため、レンガや楽屋のアーティストサインなどが移設されている\[1\]。
   - なお、パルコ自体は過去に梅田へ出店するべく[大阪鉄道管理局庁舎（JR西日本旧本社）跡地の入札に参加していたが](https://ja.wikipedia.org/wiki/JR西日本本社ビル "wikilink")、[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")に敗れて梅田進出を断念したという経緯がある。

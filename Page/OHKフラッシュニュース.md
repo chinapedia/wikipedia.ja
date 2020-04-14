@@ -1,4 +1,4 @@
-> この記事は[OHK](https://ja.wikipedia.org/wiki/OHK)から翻訳されています。
+> この記事は[OHKフラッシュニュース](https://ja.wikipedia.org/wiki/OHKフラッシュニュース)から翻訳されています。
 
 
 『**OHKフラッシュニュース**』（オーエイチケイ - ）は、[岡山放送](../Page/岡山放送.md "wikilink")（OHK）で放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組。

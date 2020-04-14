@@ -5,9 +5,9 @@
 
 ## 概要
 
-本作品は「ファンの声を最大限に生かしたGLAY究極のベストアルバムを作りたい」というメンバーの意向のもと\[1\]\[2\]、20thシングル「[とまどい/SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」封入のリクエストハガキで募集したファンによる投票を元に収録曲が選ばれ\[3\]、2000年11月15日発売の21stシングル「[Missing You](../Page/Missing_You_\(GLAYの曲\).md "wikilink")」を含む24曲が収録。19thシングル「[MERMAID](../Page/MERMAID_\(GLAYの曲\).md "wikilink")」は、「次のアルバムの核になる曲だからそっちに入れたい」というTAKUROの意向で収録されなかった。発売発表当時の仮タイトルは、『**GLAY complete BEST 1994-2000**』であった\[4\]。[TAKURO](../Page/TAKURO.md "wikilink")は、今作のリクエストベストを作る際、既に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にB'zがリクエストベスト『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』をリリースしていることもあり、事前に[松本孝弘](../Page/松本孝弘.md "wikilink")から電話で許可をもらったと言うエピソードがある\[5\]。
+本作品は「ファンの声を最大限に生かしたGLAY究極のベストアルバムを作りたい」というメンバーの意向のもと\[1\]\[2\]、20枚目のシングル「[とまどい/SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」封入のリクエストハガキで募集したファンによる投票を元に収録曲が選ばれ\[3\]、2000年11月15日発売の21枚目のシングル「[Missing You](../Page/Missing_You_\(GLAYの曲\).md "wikilink")」を含む24曲が収録された。19枚目のシングル「[MERMAID](../Page/MERMAID_\(GLAYの曲\).md "wikilink")」は、「次のアルバムの核になる曲だからそっちに入れたい」というTAKUROの意向で収録されなかった。発売発表当時の仮タイトルは、『**GLAY complete BEST 1994-2000**』であった\[4\]。[TAKURO](../Page/TAKURO.md "wikilink")は、本作のリクエストベストを作る際、既に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にB'zがリクエストベスト『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』をリリースしていることもあり、事前に[松本孝弘](../Page/松本孝弘.md "wikilink")から電話で許可をもらったというエピソードがある\[5\]。
 
-前作『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』が、デビューしてからおよそ3年半とまだバンドの歴史が浅い中でのベスト盤だったこともあり、今回はコンプリート・ベストにしようと言う話になり、2枚組のベストとなった\[6\]。しかし一方で、[JIRO](../Page/JIRO.md "wikilink")は「ベストアルバムを単なる過去の集大成というだけじゃなくて、これからを予感させるものにしたかった。」とも語っており\[7\]、本作について「デビューしてからのGLAY。『Missing You』に代表されるこれからのGLAY、その2つをまとめたものなんです。“DRIVE”という意味も自分たちのなかで2つあって。気楽にドライブしながら聴いてほしい、ドライブのお供にという意味と、これからもまだまだGLAYは転がりつづけていくよという意味で考えたんです。コンプリート・ベスト、ということであまり堅苦しくなってしまうのも嫌だし」と述べている\[8\]。
+前作『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』が、デビューしてからおよそ3年半とまだバンドの歴史が浅い中でのベスト盤だったこともあり、今回はコンプリート・ベストにしようという話になり、2枚組のベストとなった\[6\]。しかし一方で、[JIRO](../Page/JIRO.md "wikilink")は「ベストアルバムを単なる過去の集大成というだけじゃなくて、これからを予感させるものにしたかった。」とも語っており\[7\]、本作について「デビューしてからのGLAY。『Missing You』に代表されるこれからのGLAY、その2つをまとめたものなんです。“DRIVE”という意味も自分たちのなかで2つあって。気楽にドライブしながら聴いてほしい、ドライブのお供にという意味と、これからもまだまだGLAYは転がりつづけていくよという意味で考えたんです。コンプリート・ベスト、ということであまり堅苦しくなってしまうのも嫌だし」と述べている\[8\]。
 
 ジャケットの表紙に写っているのはJIROである。また、初回購入特典としてロングケースが存在する。こちらはメンバー4人の写真がジャケットになっており、ライナーノーツが付属している。
 
@@ -29,7 +29,7 @@ N.Y.のmaster disk STUDIOSにおいて全曲デジタル・リマスタリング
 2.  **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")** (3:35)
       -
         11thシングル。
-3.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")** (3:26)
+3.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")** (3:26)
       -
         3rdアルバム『BELOVED』収録。
 4.  **[ずっと2人で…](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")** (7:06)
@@ -93,7 +93,7 @@ N.Y.のmaster disk STUDIOSにおいて全曲デジタル・リマスタリング
         なお、現在[iTunes Storeにて配信されているリマスター版には](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[アルバムバージョンが収録されている](../Page/HEAVY_GAUGE_\(GLAYのアルバム\).md "wikilink")。
 10. **[春を愛する人](../Page/春を愛する人.md "wikilink")** (5:02)
       -
-        11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」2曲目。3rdアルバム『[BELOVED](../Page/BELOVED.md "wikilink")』収録。
+        11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」2曲目。3rdアルバム『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』収録。
 11. **[SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")** (4:57)
       -
         20thシングル「とまどい／SPECIAL THANKS」の2曲目。アルバム初収録曲。
@@ -149,7 +149,7 @@ N.Y.のmaster disk STUDIOSにおいて全曲デジタル・リマスタリング
 [Category:GLAYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:GLAYのベスト・アルバム "wikilink") [Category:2000年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2000年のベスト・アルバム "wikilink") [Category:アンリミテッド・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:アンリミテッド・レコードのアルバム "wikilink") [Category:2000年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink")
 
 1.   ※「2000年11月29日 BESTアルバム「DRIVE」発売 」の項を参照
-2.  しかしその一方で、当時の音楽雑誌のインタビューでは、今作はメンバーの意向ではなくレコード会社の諸事情により急遽発売されたとものだともコメントしている。
+2.  しかしその一方で、当時の音楽雑誌のインタビューでは、本作はメンバーの意向ではなくレコード会社の諸事情により急遽発売されたとものだともコメントしている。
 3.
 4.
 5.

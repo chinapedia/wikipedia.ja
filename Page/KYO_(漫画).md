@@ -1,4 +1,4 @@
-> この記事は[KYO \(\)](https://ja.wikipedia.org/wiki/KYO_\(\))から翻訳されています。
+> この記事は[KYO \(漫画\)](https://ja.wikipedia.org/wiki/KYO_\(漫画\))から翻訳されています。
 
 
 『**KYŌ**』（キョウ）は、『[小学五年生](../Page/小学館の学年別学習雑誌.md "wikilink")』1995年3月号\[1\]、『小学六年生』1995年4月号〜1996年3月号に連載された[たかしげ宙](../Page/たかしげ宙.md "wikilink")原作、[皆川亮二](../Page/皆川亮二.md "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。全1巻。KYOのOの上には傍線がある。

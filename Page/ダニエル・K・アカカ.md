@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ダニエル・K・アカカ](https://ja.wikipedia.org/wiki/ダニエル・K・アカカ)から翻訳されています。
 
 
 **ダニエル・カヒキナ・アカカ** (**Daniel Kahikina Akaka**、中国名：**李碩**、[1924年](../Page/1924年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink") - 2018年4月6日) は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[政治家](../Page/政治家.md "wikilink")。ハワイ州選出の連邦下院議員(1977年 - 1990年)、連邦上院議員(1990年 - 2013年)を歴任。所属政党は[民主党](../Page/民主党_\(アメリカ\).md "wikilink")。初の[ハワイ先住民](https://ja.wikipedia.org/wiki/ハワイ先住民 "wikilink")系、かつ唯一の[中国系アメリカ人](https://ja.wikipedia.org/wiki/中国系アメリカ人 "wikilink")の[上院議員であった](../Page/アメリカ合衆国上院.md "wikilink")。

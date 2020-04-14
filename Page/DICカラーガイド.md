@@ -1,4 +1,4 @@
-> この記事は[DIC](https://ja.wikipedia.org/wiki/DIC)から翻訳されています。
+> この記事は[DICカラーガイド](https://ja.wikipedia.org/wiki/DICカラーガイド)から翻訳されています。
 
 
 **DICカラーガイド**（ディーアイシー-、DIC Colorguide）は、[DICが出版する色見本帳で](../Page/DIC_\(企業\).md "wikilink")、同社の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")。

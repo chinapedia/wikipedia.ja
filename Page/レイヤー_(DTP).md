@@ -1,4 +1,4 @@
-> この記事は[ \(DTP\)](https://ja.wikipedia.org/wiki/_\(DTP\))から翻訳されています。
+> この記事は[レイヤー \(DTP\)](https://ja.wikipedia.org/wiki/レイヤー_\(DTP\))から翻訳されています。
 
 
 **レイヤー** (*Layer*) とは、[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")などに搭載されている、[画像](../Page/画像.md "wikilink")を[セル画](../Page/セル画.md "wikilink")のように重ねて使うことができる機能のことである。**レイヤ**とも呼ばれる。日本語では層、重ね合わせの意味である。[Adobe Photoshopや](../Page/Adobe_Photoshop.md "wikilink")[Painter](../Page/Painter.md "wikilink")などの商用ソフトだけではなく、フリーのグラフィックソフトウェア（[GIMP](../Page/GIMP.md "wikilink")など）にも搭載されているものがある。

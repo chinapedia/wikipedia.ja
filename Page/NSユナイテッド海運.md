@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[NSユナイテッド海運](https://ja.wikipedia.org/wiki/NSユナイテッド海運)から翻訳されています。
 
 
 **NSユナイテッド海運株式会社**（エヌエスユナイテッドかいうん、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の準大手[海運](../Page/海運.md "wikilink")[会社](../Page/会社.md "wikilink")。[日本製鉄](https://ja.wikipedia.org/wiki/日本製鉄 "wikilink")および[日本郵船](../Page/日本郵船.md "wikilink")の[関連会社](../Page/関連会社.md "wikilink")である。

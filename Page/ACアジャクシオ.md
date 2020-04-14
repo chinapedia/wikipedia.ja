@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACアジャクシオ](https://ja.wikipedia.org/wiki/ACアジャクシオ)から翻訳されています。
 
 
 **アトレティック・クルブ・アジャクシオ**（**Athletic Club Ajaccio**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アジャクシオ](../Page/アジャクシオ.md "wikilink")に本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

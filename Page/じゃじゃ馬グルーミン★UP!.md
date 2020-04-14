@@ -1,4 +1,4 @@
-> この記事は[UP!](https://ja.wikipedia.org/wiki/UP!)から翻訳されています。
+> この記事は[じゃじゃ馬グルーミン★UP!](https://ja.wikipedia.org/wiki/じゃじゃ馬グルーミン★UP!)から翻訳されています。
 
 
 『**じゃじゃ馬グルーミン★UP\!**』（じゃじゃうまグルーミンアップ）は[ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")による[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")の育成を題材とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

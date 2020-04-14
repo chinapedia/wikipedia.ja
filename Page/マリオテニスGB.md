@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[マリオテニスGB](https://ja.wikipedia.org/wiki/マリオテニスGB)から翻訳されています。
 
 
 『**マリオテニスGB**』（マリオテニスジービー、*Mario Tennis*）は、[キャメロット製作](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")発売の[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")専用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。[マリオテニス](../Page/マリオテニス.md "wikilink")の第2作目。『[マリオテニス64](../Page/マリオテニス64.md "wikilink")』で初登場をした[ワルイージ](../Page/ワルイージ.md "wikilink")唯一の8ビット作品であり、さらに海外版は8ビット最後の[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")であった\[1\]。

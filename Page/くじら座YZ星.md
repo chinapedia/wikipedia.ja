@@ -1,4 +1,4 @@
-> この記事は[YZ](https://ja.wikipedia.org/wiki/YZ)から翻訳されています。
+> この記事は[くじら座YZ星](https://ja.wikipedia.org/wiki/くじら座YZ星)から翻訳されています。
 
 
 **くじら座YZ星**（YZ Ceti）は、[太陽系](../Page/太陽系.md "wikilink")から12[光年](../Page/光年.md "wikilink")の距離に存在する[赤色矮星](../Page/赤色矮星.md "wikilink")である。[質量](../Page/質量.md "wikilink")は[太陽](../Page/太陽.md "wikilink")の13%ほどで、非常に暗いため肉眼では確認できない。この[恒星](../Page/恒星.md "wikilink")はくじら座UV型の[変光星](../Page/変光星.md "wikilink")（[閃光星](../Page/閃光星.md "wikilink")）である。

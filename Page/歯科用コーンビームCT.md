@@ -1,4 +1,4 @@
-> この記事は[CT](https://ja.wikipedia.org/wiki/CT)から翻訳されています。
+> この記事は[歯科用コーンビームCT](https://ja.wikipedia.org/wiki/歯科用コーンビームCT)から翻訳されています。
 
 
 [代替文=歯科用CBCT](https://ja.wikipedia.org/wiki/ファイル:CBCT_image_02.png "wikilink") [thumb製NAOMI](https://ja.wikipedia.org/wiki/ファイル:NAOMI-CT_CBCT_scanner.jpg "wikilink")-CT\]\] **歯科用コーンビームCT**（しかようコーンビームCT）とは、[歯科](../Page/歯科.md "wikilink")に特化した[CT装置](../Page/コンピュータ断層撮影.md "wikilink")。デンタルCT、あるいはコーンビーム方式を用いているため、コーンビームCT（CBCT）とも言う。主に[デンタルインプラント](../Page/デンタルインプラント.md "wikilink")、[親知らず](../Page/親知らず.md "wikilink")の抜歯、[矯正歯科](../Page/矯正歯科.md "wikilink")症例で見られる埋伏歯、[歯内療法](https://ja.wikipedia.org/wiki/歯内療法 "wikilink")などの歯科治療・診断に用いられているが、[耳鼻科疾患に用いられることもある](../Page/耳鼻咽喉科学.md "wikilink")。三次元の高画質画像を用いることで、断層方式パノラマエックス線撮影法や口内法エックス線撮影法では判別できない、痛みや症状の原因がわかることがある。

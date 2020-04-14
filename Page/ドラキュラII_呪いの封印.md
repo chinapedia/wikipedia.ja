@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[ドラキュラII 呪いの封印](https://ja.wikipedia.org/wiki/ドラキュラII_呪いの封印)から翻訳されています。
 
 
 『**ドラキュラII 呪いの封印**』（ドラキュラツー のろいのふういん、英題: *[Castlevania II: Simon's Quest](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Simon's_Quest "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から1987年8月28日に発売された[ファミリーコンピュータ ディスクシステム用ソフトの](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。

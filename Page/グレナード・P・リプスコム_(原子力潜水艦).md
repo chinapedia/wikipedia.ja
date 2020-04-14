@@ -1,4 +1,4 @@
-> この記事は[P \(\)](https://ja.wikipedia.org/wiki/P_\(\))から翻訳されています。
+> この記事は[グレナード・P・リプスコム \(原子力潜水艦\)](https://ja.wikipedia.org/wiki/グレナード・P・リプスコム_\(原子力潜水艦\))から翻訳されています。
 
 
 <div class="thumb tright">

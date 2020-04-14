@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[茨城Jリーグアワー](https://ja.wikipedia.org/wiki/茨城Jリーグアワー)から翻訳されています。
 
 
 **茨城Jリーグアワー**（いばらきジェイリーグアワー）は、[NHK水戸放送局](../Page/NHK水戸放送局.md "wikilink")が[県域総合テレビで不定期に行う](../Page/NHK総合テレビジョン.md "wikilink")[Jリーグのテレビ中継番組である](../Page/日本プロサッカーリーグ.md "wikilink")。

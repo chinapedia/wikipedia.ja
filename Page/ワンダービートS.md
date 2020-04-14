@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ワンダービートS](https://ja.wikipedia.org/wiki/ワンダービートS)から翻訳されています。
 
 
 **ワンダービートS-スクランブル-**（**Wonder Beat Scramble**）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[TBS系列](../Page/TBSテレビ.md "wikilink")\[1\]で放送された日本の[アニメーション](../Page/アニメーション.md "wikilink")番組。晩年の[手塚治虫](../Page/手塚治虫.md "wikilink")が企画と監修を手がけた。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[グループC](https://ja.wikipedia.org/wiki/グループC)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Porsche_956_front-left_Porsche_Museum.jpg "wikilink")'''\]\] **グループC**は、[自動車レースに使用する競技車両のカテゴリーの](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")1つ。それまでのグループ5（[シルエットフォーミュラ](https://ja.wikipedia.org/wiki/シルエットフォーミュラ "wikilink")）およびグループ6（[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")）の後継にあたるカテゴリーである。一般には[スポーツカーレース](../Page/スポーツカーレース.md "wikilink")（ここで言うスポーツカーはプロトタイプレーシングカーを指す）の一種として知られる。

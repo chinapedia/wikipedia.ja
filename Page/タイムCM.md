@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[タイムCM](https://ja.wikipedia.org/wiki/タイムCM)から翻訳されています。
 
 
 **タイムCM**とは、[放送広告](https://ja.wikipedia.org/wiki/放送広告 "wikilink")の一種で、放送[番組](../Page/番組.md "wikilink")中に挟んで放送される[コマーシャルメッセージ](../Page/コマーシャルメッセージ.md "wikilink")\[1\]。番組枠と一体のものとして扱われるコマーシャル枠、およびその枠内で流されるコマーシャル。番組提供[スポンサー](../Page/スポンサー.md "wikilink")のコマーシャル。**番組CM**ともいう\[2\]。

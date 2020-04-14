@@ -85,4 +85,4 @@
   - [本田技研工業・年表](http://www.honda.co.jp/timeline/nenpyo/1962.html/)
   - [本田技研工業・プレスインフォメーション(FACT BOOK)CIVIC 1992.7](http://www.honda.co.jp/factbook/auto/CIVIC/19920700/cv20-003.html/)
 
-[Category:台湾のオートバイメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:台湾のオートバイメーカー・ブランド "wikilink") [Category:現代-起亜自動車グループ](https://ja.wikipedia.org/wiki/Category:現代-起亜自動車グループ "wikilink") [Category:1961年設立の企業](https://ja.wikipedia.org/wiki/Category:1961年設立の企業 "wikilink") [Category:新竹県の企業](https://ja.wikipedia.org/wiki/Category:新竹県の企業 "wikilink")
+[Category:台湾のオートバイメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:台湾のオートバイメーカー・ブランド "wikilink") [Category:現代-起亜自動車グループ](https://ja.wikipedia.org/wiki/Category:現代-起亜自動車グループ "wikilink") [Category:1961年設立の企業](https://ja.wikipedia.org/wiki/Category:1961年設立の企業 "wikilink") [Category:新竹県の企業](https://ja.wikipedia.org/wiki/Category:新竹県の企業 "wikilink") [Category:湖口郷](https://ja.wikipedia.org/wiki/Category:湖口郷 "wikilink")

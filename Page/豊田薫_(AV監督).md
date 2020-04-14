@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[豊田薫 \(AV監督\)](https://ja.wikipedia.org/wiki/豊田薫_\(AV監督\))から翻訳されています。
 
 
 **豊田 薫**（とよだ かおる、[1952年](../Page/1952年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV監督](../Page/AV監督.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")出身。

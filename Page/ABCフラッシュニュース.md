@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCフラッシュニュース](https://ja.wikipedia.org/wiki/ABCフラッシュニュース)から翻訳されています。
 
 
 『**ABCフラッシュニュース**』（エービーシーフラッシュニュース）は、かつて[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")\[1\]（ABCテレビ）で放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")。

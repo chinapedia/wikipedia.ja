@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ダゲン・H](https://ja.wikipedia.org/wiki/ダゲン・H)から翻訳されています。
 
 
 [dagen_h.png](https://ja.wikipedia.org/wiki/File:dagen_h.png "fig:dagen_h.png") [Kungsgatan_1967.jpg](https://ja.wikipedia.org/wiki/File:Kungsgatan_1967.jpg "fig:Kungsgatan_1967.jpg")中心部）\]\]

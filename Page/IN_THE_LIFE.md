@@ -9,7 +9,7 @@
 
 [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")は多用しているが生音と併用しており、前作『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』までのダンス・ビート色はなく、現在の作風に通じるアナログ色が強い。[松本孝弘](../Page/松本孝弘.md "wikilink")は「『[MARS](../Page/MARS_\(B'zのアルバム\).md "wikilink")』でハードなものが堪能できたので、その反動で日本で言うところのJ-POPみたいなものがやりたかった\[2\]」「最初からアルバムの構成・バランスも考えこんだ上で制作した」と語っている。
 
-先行シングル「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」同様、ジャケットの「B'z」のロゴマークが新しい物になっている。このロゴはアルバムでは4thミニ・アルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』まで使用された。 オリジナル・アルバムでこのロゴが使用されたのは次作『[RUN](../Page/RUN_\(アルバム\).md "wikilink")』まで。
+先行シングル『[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")』同様、ジャケットの「B'z」のロゴマークが新しい物になっている。このロゴはアルバムでは4thミニ・アルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』まで使用された。 オリジナル・アルバムでこのロゴが使用されたのは次作『[RUN](../Page/RUN_\(アルバム\).md "wikilink")』まで。
 
 初回盤のみ48ページのブックレット(写真集)、ブックレットとCDケースを入れる紙製の箱が付属している\[3\]。ディスクを入れる部分にはB'zと刺繍された傷防止剤が入っている。ちなみにジャケットに写っている2人が着ている服はそれぞれの私服。また、B'zのオリジナル・アルバムとしては初めて裏ジャケットに「B'z」ロゴやアルバムロゴが表記されていない。
 
@@ -31,7 +31,7 @@
         楽曲について松本は「詩がスゴイ面白いからね。助けられてる。あの詩によってオープニングかな?という感じもしたし」と語り、ディレクターは仮歌の時点からアルバムの1曲目と主張していた\[6\]。
         稲葉は歌詞について、「辛いことがあった人が慰められるように意識して書いた」と語っている\[7\]。
         [コーラスには](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が参加している。
-        [ライブでは](../Page/演奏会.md "wikilink")「[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」のように振り付けを踊りながら歌われる。振付家は[南流石](../Page/南流石.md "wikilink")。
+        [ライブでは](../Page/演奏会.md "wikilink")「[恋心 (KOI-GOKORO)](../Page/ZERO_\(B'zの曲\).md "wikilink")」のように振り付けを踊りながら歌われる。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』のファン投票では20位になり、その曲名を当てるクイズでこの曲を当てた人にはB'z人形がプレゼントされた。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』ではファン投票4位にランクインされ収録された\[8\]。
 2.  **TONIGHT (Is The Night)** (4:52)
       -

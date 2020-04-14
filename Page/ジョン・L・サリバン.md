@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ジョン・L・サリバン](https://ja.wikipedia.org/wiki/ジョン・L・サリバン)から翻訳されています。
 
 
 **ジョン・ローレンス・サリバン**（**John Lawrence Sullivan**、[1858年](../Page/1858年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1918年](../Page/1918年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")出身の[男性](../Page/男性.md "wikilink")[プロボクサー](../Page/プロボクサー.md "wikilink")。[ベアナックル・ボクシング](https://ja.wikipedia.org/wiki/ベアナックル・ボクシング "wikilink")の「ロンドン・プライズリング・ルールズ」時代の、[ヘビー級](../Page/ヘビー級.md "wikilink")最後のチャンピオンであり、引き続きグローブ方式の[クインズベリー・ルール](https://ja.wikipedia.org/wiki/クインズベリー・ルール "wikilink")での最初の認定チャンピオン。体重96kg。

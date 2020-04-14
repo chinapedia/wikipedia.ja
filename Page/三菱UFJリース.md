@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJリース](https://ja.wikipedia.org/wiki/三菱UFJリース)から翻訳されています。
 
 
 **三菱UFJリース株式会社**（みつびしユーエフジェイリース、英 Mitsubishi UFJ Lease & Finance Company Limited）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く業界３位の大手総合[リース](../Page/リース.md "wikilink")会社。[三菱グループ](../Page/三菱グループ.md "wikilink")の中核リース会社である。[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部[上場](../Page/上場.md "wikilink")。コーポレートスローガンは「**Value Integrator**」。

@@ -1,4 +1,4 @@
-> この記事は[TM](https://ja.wikipedia.org/wiki/TM)から翻訳されています。
+> この記事は[TMライナー](https://ja.wikipedia.org/wiki/TMライナー)から翻訳されています。
 
 
 **TMライナー**（ティーエムライナー）は、[茨城県](../Page/茨城県.md "wikilink")[土浦市](../Page/土浦市.md "wikilink")・[つくば市](../Page/つくば市.md "wikilink")と[水戸市](../Page/水戸市.md "wikilink")を結ぶ[高速バス](../Page/高速バス.md "wikilink")路線である。

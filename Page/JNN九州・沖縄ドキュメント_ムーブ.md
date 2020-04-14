@@ -1,4 +1,4 @@
-> この記事は[JNN ](https://ja.wikipedia.org/wiki/JNN_)から翻訳されています。
+> この記事は[JNN九州・沖縄ドキュメント ムーブ](https://ja.wikipedia.org/wiki/JNN九州・沖縄ドキュメント_ムーブ)から翻訳されています。
 
 
 『**JNN九州・沖縄ドキュメント ムーブ**』（ジェイエヌエヌきゅうしゅう・おきなわドキュメント ムーブ）は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[九州](https://ja.wikipedia.org/wiki/九州地方 "wikilink")・[沖縄の](../Page/沖縄県.md "wikilink")[ブロックネット](../Page/ブロックネット.md "wikilink")（[e-JNN](https://ja.wikipedia.org/wiki/e-JNN "wikilink")）で放送されている[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。

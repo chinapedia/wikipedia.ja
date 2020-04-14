@@ -1,4 +1,4 @@
-> この記事は[VX](https://ja.wikipedia.org/wiki/VX)から翻訳されています。
+> この記事は[VX方式](https://ja.wikipedia.org/wiki/VX方式)から翻訳されています。
 
 
 **VX方式**（ブイエックスほうしき）は、松下寿電子工業（現：[PHC](https://ja.wikipedia.org/wiki/PHCホールディングス "wikilink")）が[松下電器の](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[ナショナル](../Page/ナショナル.md "wikilink")」[ブランド](../Page/ブランド.md "wikilink")で[1975年](../Page/1975年.md "wikilink")（昭和50年）から[1976年](../Page/1976年.md "wikilink")（昭和51年）にかけて発売した家庭用VTR（[ビデオテープレコーダ](../Page/ビデオテープレコーダ.md "wikilink")）規格。1ヘッドα巻きと分厚い[カセット](../Page/カセット.md "wikilink")、ヘッドがカセット内に潜り込む珍しい構造が特徴である。

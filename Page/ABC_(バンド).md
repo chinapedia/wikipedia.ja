@@ -1,4 +1,4 @@
-> この記事は[ABC \(\)](https://ja.wikipedia.org/wiki/ABC_\(\))から翻訳されています。
+> この記事は[ABC \(バンド\)](https://ja.wikipedia.org/wiki/ABC_\(バンド\))から翻訳されています。
 
 
 [Martin_Fry_Canal_Room_20060615.jpg](https://ja.wikipedia.org/wiki/File:Martin_Fry_Canal_Room_20060615.jpg "fig:Martin_Fry_Canal_Room_20060615.jpg")、2006年）\]\] [Martin_Fry_and_Tony_Hadley_2005-02-11.jpg](https://ja.wikipedia.org/wiki/File:Martin_Fry_and_Tony_Hadley_2005-02-11.jpg "fig:Martin_Fry_and_Tony_Hadley_2005-02-11.jpg") **ABC**（**エービーシー**）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1980年代](../Page/1980年代.md "wikilink")に一世を風靡した[ニューロマンティック](../Page/ニューロマンティック.md "wikilink")・バンドのひとつ。

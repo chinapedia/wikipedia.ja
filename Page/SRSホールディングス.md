@@ -1,4 +1,4 @@
-> この記事は[SRS](https://ja.wikipedia.org/wiki/SRS)から翻訳されています。
+> この記事は[SRSホールディングス](https://ja.wikipedia.org/wiki/SRSホールディングス)から翻訳されています。
 
 
 **SRSホールディングス株式会社**は、[和食](https://ja.wikipedia.org/wiki/和食 "wikilink")[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")「**和食さと**」、定食屋「**[宮本むなし](../Page/宮本むなし.md "wikilink")**」などを運営する企業を傘下に持つ[持株会社](../Page/持株会社.md "wikilink")。[東証1部に](../Page/東京証券取引所.md "wikilink")[上場](../Page/上場.md "wikilink")している。本社は[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に所在。

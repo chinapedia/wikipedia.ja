@@ -1,4 +1,4 @@
-> この記事は[Clements](https://ja.wikipedia.org/wiki/Clements)から翻訳されています。
+> この記事は[Clements鳥類分類](https://ja.wikipedia.org/wiki/Clements鳥類分類)から翻訳されています。
 
 
 **Clements鳥類分類**（クレメンツちょうるいぶんるい）は、[James F. Clements](https://ja.wikipedia.org/wiki/w:James_F._Clements "wikilink") (October 31, 1927 – June 9, 2005) による[鳥類](../Page/鳥類.md "wikilink")分類の目科リスト。

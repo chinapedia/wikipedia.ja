@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ホンダ・D型エンジン](https://ja.wikipedia.org/wiki/ホンダ・D型エンジン)から翻訳されています。
 
 
 **D型エンジン**（Dがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[小型](../Page/Bセグメント.md "wikilink")/[中型車種用の](../Page/Cセグメント.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

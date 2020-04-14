@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[携帯電話IP接続サービス](https://ja.wikipedia.org/wiki/携帯電話IP接続サービス)から翻訳されています。
 
 
 **携帯電話IP接続サービス**（けいたいでんわIPせつぞくサービス）は[携帯電話](../Page/携帯電話.md "wikilink")端末による[インターネット](../Page/インターネット.md "wikilink")等への接続サービスである。

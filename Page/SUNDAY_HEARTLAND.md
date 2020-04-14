@@ -7,7 +7,7 @@
 
 2002年10月6日に日曜17時台・18時台の番組に連携をもたせるために設けられた。しかし、18時台の番組はTOKYO FMローカルでの放送だったためそのほかの地域ではあまり意味はなかった。2002年9月までは17時台に[松任谷由実](../Page/松任谷由実.md "wikilink")の番組「[サウンドアドベンチャー](https://ja.wikipedia.org/wiki/松任谷由実_サウンドアドベンチャー "wikilink")」→「[For Your Departure](../Page/松任谷由実_For_Your_Departure.md "wikilink")」が放送されていたが、この放送枠の開始に伴い金曜22時台に時間帯が移動していた。その後2004年7月に「For Your Departure」が日曜17時台に戻り9月にこの放送枠は終了した。なお、放送終了時点で放送されていた2番組は2006年3月まで放送を継続していた。
 
-なお、[JFN加盟局のうち](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")、[FM AICHIと放送エリアが重なる](../Page/エフエム愛知.md "wikilink")[FM三重ではローカル番組](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")「おもいっ気りサンデー」を放送するためこの番組をネットしなかった。
+なお、[JFN加盟局のうち](../Page/全国FM放送協議会.md "wikilink")、[FM AICHIと放送エリアが重なる](../Page/エフエム愛知.md "wikilink")[FM三重ではローカル番組](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")「おもいっ気りサンデー」を放送するためこの番組をネットしなかった。
 また、[FM OSAKAではTOKYO](../Page/エフエム大阪.md "wikilink") FMのSUNDAY HEARTLANDはネットせず、日曜17時〜19時は同タイトルの自社制作番組を放送していた。松任谷由実 For Your Departureが日曜17時に戻ると自社制作番組のSUNDAY HEARTLANDを18時〜19時に枠縮小させ、For Your Departureをネットしていた。
 
 ### 17時台に放送されていた番組

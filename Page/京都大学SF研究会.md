@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[京都大学SF研究会](https://ja.wikipedia.org/wiki/京都大学SF研究会)から翻訳されています。
 
 
 **京都大学SF研究会**（きょうとだいがくえすえふけんきゅうかい）は、[京都大学](../Page/京都大学.md "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[サークル](../Page/クラブ活動.md "wikilink")。

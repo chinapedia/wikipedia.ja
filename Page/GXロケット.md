@@ -1,4 +1,4 @@
-> この記事は[GX](https://ja.wikipedia.org/wiki/GX)から翻訳されています。
+> この記事は[GXロケット](https://ja.wikipedia.org/wiki/GXロケット)から翻訳されています。
 
 
 **GXロケット**は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の航空宇宙関係企業グループと[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA)、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")が官民共同で開発を進めていた中型[ロケット](../Page/ロケット.md "wikilink")。[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")を使うほどでもない中小型[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を専門に取り扱う[ギャラクシーエクスプレス](../Page/ギャラクシーエクスプレス.md "wikilink")社 (GALEX) が運用し、[ユナイテッド・ローンチ・アライアンス](https://ja.wikipedia.org/wiki/ユナイテッド・ローンチ・アライアンス "wikilink")社 (ULA) との業務提携のもと[ヴァンデンバーグ空軍基地](../Page/ヴァンデンバーグ空軍基地.md "wikilink")から打ち上げる予定だった。しかし、計画の遅れに伴う開発費の高騰と需要の低迷のため、2009年にロケット本体の開発中止が決定された\[1\]。

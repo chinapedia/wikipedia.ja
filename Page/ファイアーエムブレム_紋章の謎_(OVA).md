@@ -1,4 +1,4 @@
-> この記事は[  \(OVA\)](https://ja.wikipedia.org/wiki/__\(OVA\))から翻訳されています。
+> この記事は[ファイアーエムブレム 紋章の謎 \(OVA\)](https://ja.wikipedia.org/wiki/ファイアーエムブレム_紋章の謎_\(OVA\))から翻訳されています。
 
 
 『**ファイアーエムブレム 紋章の謎**』（ファイアーエムブレム もんしょうのなぞ）は、[1996年](../Page/1996年.md "wikilink")に[ケイエスエス](../Page/ケイエスエス.md "wikilink")より[VHS](../Page/VHS.md "wikilink")及び[LDで発売された](../Page/レーザーディスク.md "wikilink")[OVA](../Page/OVA.md "wikilink")。

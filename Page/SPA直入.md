@@ -1,4 +1,4 @@
-> この記事は[SPA](https://ja.wikipedia.org/wiki/SPA)から翻訳されています。
+> この記事は[SPA直入](https://ja.wikipedia.org/wiki/SPA直入)から翻訳されています。
 
 
 **Sport & Safety Riding Field SPA直入**（スポートアンドセーフティライディングフィールド・スパなおいり、SSRF SPA直入）は、[カワサキモータースジャパン](../Page/カワサキモータースジャパン.md "wikilink")が所有する[大分県](../Page/大分県.md "wikilink")[竹田市](../Page/竹田市.md "wikilink")[直入町](../Page/直入町.md "wikilink")にある[サーキット](../Page/サーキット.md "wikilink")である。通称「SPA直入」。

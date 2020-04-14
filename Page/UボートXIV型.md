@@ -1,4 +1,4 @@
-> この記事は[UXIV](https://ja.wikipedia.org/wiki/UXIV)から翻訳されています。
+> この記事は[UボートXIV型](https://ja.wikipedia.org/wiki/UボートXIV型)から翻訳されています。
 
 
 **UボートXIV型** (U-Boot-Klasse XIV) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。その艦形から**乳牛**(ミルヒ・クー、Milchkuh)の愛称を持つ。

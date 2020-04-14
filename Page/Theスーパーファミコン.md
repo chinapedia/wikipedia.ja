@@ -1,4 +1,4 @@
-> この記事は[The](https://ja.wikipedia.org/wiki/The)から翻訳されています。
+> この記事は[Theスーパーファミコン](https://ja.wikipedia.org/wiki/Theスーパーファミコン)から翻訳されています。
 
 
 『**Theスーパーファミコン**』（ざ・すーぱーふぁみこん）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")出版事業部（現:[SBクリエイティブ](../Page/SBクリエイティブ.md "wikilink")）が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて刊行していた[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。略称は『**Theスー**』（ザスー）。

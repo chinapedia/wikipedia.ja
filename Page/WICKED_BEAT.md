@@ -7,11 +7,11 @@
 
 当初は限定盤としての発売予定だったが、発売直前に一般発売となった。
 
-ジャケットの写真は両面ともモノクロで、表が、ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の顔のアップ写真、裏がギターの[松本孝弘](../Page/松本孝弘.md "wikilink")のアップ写真となっている。なお、松本の写真は4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink")」から流用している。
+ジャケットの写真は両面ともモノクロで、表が、ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の顔のアップ写真、裏がギターの[松本孝弘](../Page/松本孝弘.md "wikilink")のアップ写真となっている\[1\]。なお、松本の写真は4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から流用している。
 
-本作では新曲がなく、過去に発表した曲の全英詞によるアレンジバージョンが収録されている。また、収録曲は意図的に曲間を無くし、全曲を通して繋がっているようにしている\[1\]。
+本作では新曲がなく、過去に発表した曲の全英詞によるアレンジバージョンが収録されており、収録曲は曲間を無くして繋がっているようにしている\[2\]\[3\]。
 
-[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")では、本作から『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』までのミニアルバムがリマスタリング音源で配信されている。
+[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")では、本作から『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』までのミニ・アルバムがリマスタリング音源で配信されている。
 
 ## 収録曲
 
@@ -21,25 +21,23 @@
       -
         抒情的なギター演奏によるイントロの後、唐突に曲が始まる。
         2ndシングル「[君の中で踊りたい](../Page/君の中で踊りたい.md "wikilink")」の全英詞アレンジ違い。
-        本作収録曲の中では最も大幅に[アレンジが加えられ](../Page/編曲.md "wikilink")、サンプリングやスクラッチを多用した[サイケデリック](../Page/サイケデリック・ロック.md "wikilink")[ポップ](../Page/ポップ・ミュージック.md "wikilink")[ダンス](../Page/ダンス.md "wikilink")[ビート](../Page/ビート_\(音楽\).md "wikilink")[ナンバーに生まれ変わっている](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。
+        本作収録曲の中では最も大幅に[アレンジが加えられ](../Page/編曲.md "wikilink")、サンプリングやスクラッチを多用した[サイケデリック](../Page/サイケデリック・ロック.md "wikilink")[ポップ](../Page/ポップ・ミュージック.md "wikilink")[ダンス](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")[ビート](../Page/ビート_\(音楽\).md "wikilink")[ナンバーに生まれ変わっている](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。
         ちなみに間奏内に出てくる英語は、「BAD COMMUNICATION」の冒頭のセリフをそのまま使用している。
         イントロ部分は、フジテレビ系列バラエティ番組『[上岡龍太郎にはダマされないぞ](https://ja.wikipedia.org/wiki/上岡龍太郎にはダマされないぞ "wikilink")』のオープニングテーマとして使用された。
 2.  **Komachi-Angel Red Hot Style**(4:33)　
       -
         5thシングル「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」の全英詞アレンジ違い。
-        サブタイトル中の「Red Hot」は、[アメリカのバンド](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")から。
         アレンジは原曲とあまり変わらないが、イントロや間奏、コーラスが追加されているほか、[ギター](../Page/ギター.md "wikilink")[リフ](../Page/リフ.md "wikilink")が目立つようになり、[サンプリング](../Page/サンプリング.md "wikilink")が多用されている。
         1991年に行われたツアー『[B'z LIVE-GYM Pleasure '91](../Page/JUST_ANOTHER_LIFE.md "wikilink")』では原曲通り日本語で歌われたが、演奏に関しては本作でのアレンジが取り入れられた。
 3.  **Bad Communication E.Style**(7:20)
       -
-        1stミニアルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』の表題曲の全英詞バージョン。
-        1stミニアルバム発売当初から有線などでは流されており、当時は『English Version』と表記されていた。
+        1stミニ・アルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』の表題曲の全英詞バージョン。
+        1stミニ・アルバム発売当初から有線などでは流されており、当時は「English Version」と表記されていた。
         アレンジは原曲と変わらないが、全体的に音がやや重くなった。また、稲葉の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")も厚みが出ている。
-        [ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』には、未発表テイクのショートバージョンが収録されている。
+        また、プロモーション用7インチシングル『BAD COMMUNICATION』や[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』には、ショートバージョンが収録されている。
 4.  **Lady-Go-Round "W-40" Style**(6:02)　
       -
         3rdシングル「[LADY-GO-ROUND](../Page/LADY-GO-ROUND.md "wikilink")」の全英詞アレンジ違い。
-        サブタイトルの"W-40"の由来は秘密とのこと。
         アレンジ自体は原曲とあまり変わらないが、サンプリングの追加、稲葉のアルバムタイトルコールと松本のギターによる導入部の追加、[ギター](../Page/ギター.md "wikilink")[ソロの変更がされている](../Page/ソロ_\(音楽\).md "wikilink")。
         曲終了後、松本のギター演奏にあわせ、稲葉がアルバムの終わりを告げる英語を話して本作は終了する。
 
@@ -69,4 +67,6 @@
 
 [Category:B'zのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:B'zのミニ・アルバム "wikilink") [Category:1990年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1990年のミニ・アルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  ただしiTunesで配信されているものに関しては、曲間(次曲のイントロに前曲のアウトロが被さっている、など)が修正されている。
+1.
+2.
+3.  ただしiTunesで配信されているものに関しては、曲間(次曲のイントロに前曲のアウトロが被さっている、など)が修正されている。

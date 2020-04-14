@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[LOVE定額](https://ja.wikipedia.org/wiki/LOVE定額)から翻訳されています。
 
 
 **LOVE定額**（ラブていがく）とは、旧ボーダフォン（現[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）が[2005年](../Page/2005年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にサービスをスタートした音声通話定額である。

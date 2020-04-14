@@ -1,4 +1,4 @@
-> この記事は[ with SHA.LA.LA.](https://ja.wikipedia.org/wiki/_with_SHA.LA.LA.)から翻訳されています。
+> この記事は[ウッチャン・ナンチャン with SHA.LA.LA.](https://ja.wikipedia.org/wiki/ウッチャン・ナンチャン_with_SHA.LA.LA.)から翻訳されています。
 
 
 『**ウッチャン・ナンチャン with SHA.LA.LA.**』（ウッチャンナンチャンのシャララ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで一部[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ制作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。通称「**ウンナンのSHA.LA.LA.**」。

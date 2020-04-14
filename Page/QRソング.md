@@ -1,4 +1,4 @@
-> この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
+> この記事は[QRソング](https://ja.wikipedia.org/wiki/QRソング)から翻訳されています。
 
 
 「**QRソング**」（キューアールソング）は、[文化放送](../Page/文化放送.md "wikilink")の[ステーションソング](../Page/ステーションソング.md "wikilink")。正式な曲名は「QRの歌」。

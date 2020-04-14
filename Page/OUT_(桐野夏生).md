@@ -1,4 +1,4 @@
-> この記事は[OUT \(\)](https://ja.wikipedia.org/wiki/OUT_\(\))から翻訳されています。
+> この記事は[OUT \(桐野夏生\)](https://ja.wikipedia.org/wiki/OUT_\(桐野夏生\))から翻訳されています。
 
 
 『**OUT**』（アウト）は、[桐野夏生](../Page/桐野夏生.md "wikilink")の[小説](../Page/小説.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[日本推理作家協会賞](../Page/日本推理作家協会賞.md "wikilink")を受賞した。テレビドラマ化、映画化、舞台化もされた。

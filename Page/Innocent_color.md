@@ -56,6 +56,8 @@ CDジャーナルは「彼女のBGMにならない歌声を聴いてると、ど
   - 栗林誠一郎 - コーラス
   - [古川真一](https://ja.wikipedia.org/wiki/古川真一 "wikilink") - コーラス
   - [牧穂エミ](../Page/牧穂エミ.md "wikilink") - コーラス
+  - [井上留美子](https://ja.wikipedia.org/wiki/井上留美子 "wikilink") - コーラス
+  - [ELIKA](../Page/ELIKA.md "wikilink") - コーラス
 
 ## 脚注
 

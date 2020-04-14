@@ -1,4 +1,4 @@
-> この記事は[ THE BEST](https://ja.wikipedia.org/wiki/_THE_BEST)から翻訳されています。
+> この記事は[中島みゆき THE BEST](https://ja.wikipedia.org/wiki/中島みゆき_THE_BEST)から翻訳されています。
 
 
 『**中島みゆき THE BEST**』（なかじまみゆき ザ・ベスト）は、カセットテープは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月15日](../Page/12月15日.md "wikilink")、CDは[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")に発売された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")のベスト・アルバムである。

@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[少女雑貨専門TV エクボ堂](https://ja.wikipedia.org/wiki/少女雑貨専門TV_エクボ堂)から翻訳されています。
 
 
 『**少女雑貨専門TV エクボ堂**』（しょうじょざっかせんもんテレビ エクボどう）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")の一社提供（クレジット上では「資生堂エクボ」名義）。テレビ東京系列局では[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、毎週[月曜](../Page/月曜日.md "wikilink") 18:00 - 18:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

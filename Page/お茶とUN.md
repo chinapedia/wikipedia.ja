@@ -1,4 +1,4 @@
-> この記事は[UN](https://ja.wikipedia.org/wiki/UN)から翻訳されています。
+> この記事は[お茶とUN](https://ja.wikipedia.org/wiki/お茶とUN)から翻訳されています。
 
 
 『**お茶とUN**』（おちゃとウンナン）は、[1993年](../Page/1993年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全18回。放送時間は毎週[月曜日](../Page/月曜日.md "wikilink")23:25 ‐23:55 ([JST](../Page/日本標準時.md "wikilink")) 。

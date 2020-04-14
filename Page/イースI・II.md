@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[イースI・II](https://ja.wikipedia.org/wiki/イースI・II)から翻訳されています。
 
 
 『**イースI・II** 』（イースワン・ツー、Ys I・II）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第1作『[イース](https://ja.wikipedia.org/wiki/イースI "wikilink")』 (Ys I) と第2作『[イースII](../Page/イースII.md "wikilink")』 (Ys II) を一本にまとめて発売された物。[PCエンジン](../Page/PCエンジン.md "wikilink") (PCE) [CD-ROM<sup>2</sup>](../Page/CD-ROM2.md "wikilink")、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") (Win)、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2)、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) で発売された。

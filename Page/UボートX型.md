@@ -1,4 +1,4 @@
-> この記事は[UX](https://ja.wikipedia.org/wiki/UX)から翻訳されています。
+> この記事は[UボートX型](https://ja.wikipedia.org/wiki/UボートX型)から翻訳されています。
 
 
 **UボートX型** (U-Boot-Klasse X) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。XA及びXBの二つの型があるが、XAは設計図上のみの艦であり、実戦に用いられたのはXBの方である。

@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[B・B](https://ja.wikipedia.org/wiki/B・B)から翻訳されています。
 
 
 『**B・B**』（ビービー、**B.B**とも表記される）は、[石渡治](../Page/石渡治.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。また、これを原作とした[OVA](../Page/OVA.md "wikilink")作品。第34回（昭和63年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")少年部門受賞。

@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCインテルナシオナル](https://ja.wikipedia.org/wiki/SCインテルナシオナル)から翻訳されています。
 
 
 **SCインテルナシオナル** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")の州都[ポルト・アレグレ](../Page/ポルト・アレグレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[英語](../Page/英語.md "wikilink")発音の**インターナショナル**、[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")発音の**インテルナシオナウ**と表記されることもある。
@@ -75,9 +75,9 @@
 
 ## 現所属メンバー
 
-  - [2016年](../Page/2016年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bulgaria.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を示す。
 
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [アントニオ・カルロス](../Page/アントニオ・カルロス・ザーゴ.md "wikilink")
+  - [エドゥアルド・コウデット](https://ja.wikipedia.org/wiki/エドゥアルド・コウデット "wikilink")
 
 ## 歴代監督
 
@@ -112,3 +112,4 @@
 [Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:ポルト・アレグレのスポーツ](https://ja.wikipedia.org/wiki/Category:ポルト・アレグレのスポーツ "wikilink") [Category:1909年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1909年設立のスポーツチーム "wikilink")
 
 1.  [Flamengo, el equipo más popular de Brasil](http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil) Deportiva
+2.  <https://www.internacional.com.br/conteudo?modulo=3&setor=25&secao=26>

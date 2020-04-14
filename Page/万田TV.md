@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[万田TV](https://ja.wikipedia.org/wiki/万田TV)から翻訳されています。
 
 
 **万田TV**（まんだティーヴィー）は、[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")より[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")他で放送されていた「関口さん」の世界観を引き継いだバラエティ[番組](../Page/テレビ番組.md "wikilink")。2008年8月26日をもって幹事局だったテレビ埼玉での放送が終了した。9月より[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")(KBC)にて放送。本項では、前身番組の「**関口さんII**」、「**関口さん1**」も取り扱う。

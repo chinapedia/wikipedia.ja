@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[クッパJr.](https://ja.wikipedia.org/wiki/クッパJr.)から翻訳されています。
 
 
 **クッパJr.**（クッパジュニア、Koopa Jr.）は、[任天堂](../Page/任天堂.md "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")』に登場する架空のキャラクター。

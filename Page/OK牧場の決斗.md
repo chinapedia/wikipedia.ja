@@ -1,4 +1,4 @@
-> この記事は[OK](https://ja.wikipedia.org/wiki/OK)から翻訳されています。
+> この記事は[OK牧場の決斗](https://ja.wikipedia.org/wiki/OK牧場の決斗)から翻訳されています。
 
 
 『**OK牧場の決斗**』\[1\]（オーケーぼくじょうのけっとう、**）は、[1957年の](https://ja.wikipedia.org/wiki/1957年の映画 "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[西部劇](../Page/西部劇.md "wikilink")映画。[パラマウント映画](../Page/パラマウント映画.md "wikilink")製作・配給。[1881年](../Page/1881年.md "wikilink")に[アリゾナ準州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[トゥームストーン](../Page/トゥームストーン.md "wikilink")で実際に起こった銃撃戦（いわゆる「[OK牧場の決闘](../Page/OK牧場の決闘.md "wikilink")」）を題材とした数々の西部劇映画のうちで最も有名といえる作品である。

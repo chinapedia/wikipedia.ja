@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[月刊PCエンジン](https://ja.wikipedia.org/wiki/月刊PCエンジン)から翻訳されています。
 
 
 『**月刊PCエンジン**』（げっかんピーシーエンジン）は、[1988年](../Page/1988年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")まで[小学館](../Page/小学館.md "wikilink")が発行していた[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。[NECホームエレクトロニクスの家庭用ゲーム機](../Page/日本電気ホームエレクトロニクス.md "wikilink")・[PCエンジン](../Page/PCエンジン.md "wikilink")の専門誌だった。略称は「月P」。

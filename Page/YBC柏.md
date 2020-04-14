@@ -1,4 +1,4 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBC柏](https://ja.wikipedia.org/wiki/YBC柏)から翻訳されています。
 
 
 **YBC柏**（ワイビーシーかしわ）は、[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。

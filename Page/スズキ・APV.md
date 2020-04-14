@@ -1,4 +1,4 @@
-> この記事は[APV](https://ja.wikipedia.org/wiki/APV)から翻訳されています。
+> この記事は[スズキ・APV](https://ja.wikipedia.org/wiki/スズキ・APV)から翻訳されています。
 
 
 **APV**は、[スズキが海外で販売する](../Page/スズキ_\(企業\).md "wikilink")[セミキャブオーバー](../Page/セミキャブオーバー.md "wikilink")型の7、8人乗りの[ミニバン](../Page/ミニバン.md "wikilink")および[商用](../Page/商用車.md "wikilink")[バンである](../Page/ライトバン.md "wikilink")。

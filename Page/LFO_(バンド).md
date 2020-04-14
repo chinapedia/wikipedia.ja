@@ -1,4 +1,4 @@
-> この記事は[LFO \(\)](https://ja.wikipedia.org/wiki/LFO_\(\))から翻訳されています。
+> この記事は[LFO \(バンド\)](https://ja.wikipedia.org/wiki/LFO_\(バンド\))から翻訳されています。
 
 
 **LFO** （エルエフオー）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ユニット、およびソロプロジェクト。

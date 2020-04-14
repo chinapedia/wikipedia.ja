@@ -1,4 +1,4 @@
-> この記事は[BS ](https://ja.wikipedia.org/wiki/BS_)から翻訳されています。
+> この記事は[BSファイアーエムブレム アカネイア戦記](https://ja.wikipedia.org/wiki/BSファイアーエムブレム_アカネイア戦記)から翻訳されています。
 
 
 『**BSファイアーエムブレム アカネイア戦記**』（ビーエスファイアーエムブレム アカネイアせんき）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")まで[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用衛星データ放送受信機・[サテラビュー](../Page/サテラビュー.md "wikilink")のサウンドリンクゲームとして放送された[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月と[1999年](../Page/1999年.md "wikilink")4月にも再放送された。
@@ -149,8 +149,10 @@
 ## 外部リンク
 
   - [ファイアーエムブレムサウンドミュージアム ファイアーエムブレム 紋章の謎 （BSファイアーエムブレム アカネイア戦記）Wind](http://www.nintendo.co.jp/fe/sound_museum/monsho.html)（オリジナル版）
+
   - [づかの館](http://www.venus.dti.ne.jp/~inuzuka/)（各話の詳細なデータ有り）
-  - [SYSTEM ERROR](http://homepage3.nifty.com/imoko/)（同上）
+
+  - （同上）
 
 [Category:ファイアーエムブレム_(アカネイア大陸)](https://ja.wikipedia.org/wiki/Category:ファイアーエムブレム_\(アカネイア大陸\) "wikilink") [Category:サテラビュー放送番組](https://ja.wikipedia.org/wiki/Category:サテラビュー放送番組 "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink")
 

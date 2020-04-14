@@ -1,4 +1,4 @@
-> この記事は[MRT](https://ja.wikipedia.org/wiki/MRT)から翻訳されています。
+> この記事は[MRTイブニング・ニュース](https://ja.wikipedia.org/wiki/MRTイブニング・ニュース)から翻訳されています。
 
 
 『**MRTイブニング・ニュース**』（エムアールティー イブニング・ニュース、タイトルロゴの表記は「MRT <span style="font-size:x-large;">e</span>NEWS」）は、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRTテレビ）で放送されていた[宮崎県](../Page/宮崎県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。放送時間は毎週月曜 - 金曜 18:16 - 18:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[AI!](https://ja.wikipedia.org/wiki/AI!)から翻訳されています。
+> この記事は[A・Iが止まらない!](https://ja.wikipedia.org/wiki/A・Iが止まらない!)から翻訳されています。
 
 
 『**A・Iが止まらない\!**』（あいがとまらない）は、[赤松健](../Page/赤松健.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の少年[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。略して『**AI止ま**』（あいとま）と呼ばれることが多い。
@@ -167,4 +167,4 @@
 
   -
   -
-[Category:赤松健](https://ja.wikipedia.org/wiki/Category:赤松健 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:マガジンSPECIAL](https://ja.wikipedia.org/wiki/Category:マガジンSPECIAL "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:人工知能を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:人工知能を題材としたフィクション作品 "wikilink") [Category:コンピュータを題材とした作品](https://ja.wikipedia.org/wiki/Category:コンピュータを題材とした作品 "wikilink") [Category:ロマンティック・コメディ](https://ja.wikipedia.org/wiki/Category:ロマンティック・コメディ "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink")
+[Category:赤松健](https://ja.wikipedia.org/wiki/Category:赤松健 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:マガジンSPECIAL](https://ja.wikipedia.org/wiki/Category:マガジンSPECIAL "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:1994年の漫画](https://ja.wikipedia.org/wiki/Category:1994年の漫画 "wikilink") [Category:人工知能を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:人工知能を題材としたフィクション作品 "wikilink") [Category:コンピュータを題材とした作品](https://ja.wikipedia.org/wiki/Category:コンピュータを題材とした作品 "wikilink") [Category:ロマンティック・コメディ](https://ja.wikipedia.org/wiki/Category:ロマンティック・コメディ "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink")

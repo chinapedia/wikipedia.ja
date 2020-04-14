@@ -1,4 +1,4 @@
-> この記事は[ \(GNOME\)](https://ja.wikipedia.org/wiki/_\(GNOME\))から翻訳されています。
+> この記事は[ビデオ \(GNOME\)](https://ja.wikipedia.org/wiki/ビデオ_\(GNOME\))から翻訳されています。
 
 
 **ビデオ**（旧名は**Totem**）は、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[UNIX](../Page/UNIX.md "wikilink")及びUNIX互換の環境で動作する[フリーの](../Page/フリーソフトウェア.md "wikilink")[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")。[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")標準のメディアプレーヤーでもある。

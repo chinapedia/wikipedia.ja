@@ -1,4 +1,4 @@
-> この記事は[Song!](https://ja.wikipedia.org/wiki/Song!)から翻訳されています。
+> この記事は[白石涼子の聞かなきゃ☆そん♪Song!](https://ja.wikipedia.org/wiki/白石涼子の聞かなきゃ☆そん♪Song!)から翻訳されています。
 
 
 **白石涼子の聞かなきゃ☆そん♪Song\!**（しらいしりょうこのきかなきゃそんそん）は、[文化放送](../Page/文化放送.md "wikilink")で[土曜日](../Page/土曜日.md "wikilink")の[深夜](../Page/深夜.md "wikilink")に、またナイターオフ期に一部の[NRN系列局にて放送されていた](../Page/全国ラジオネットワーク.md "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")番組。[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月31日](../Page/3月31日.md "wikilink") 〜 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[4月3日](../Page/4月3日.md "wikilink")まで放送。

@@ -1,4 +1,4 @@
-> この記事は[ANGELA \(\)](https://ja.wikipedia.org/wiki/ANGELA_\(\))から翻訳されています。
+> この記事は[ANGELA \(モデル\)](https://ja.wikipedia.org/wiki/ANGELA_\(モデル\))から翻訳されています。
 
 
 **アンジェラ**（*ANGELA*　- ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデルである](../Page/モデル_\(職業\).md "wikilink")。7月27日生まれ。[東京都](../Page/東京都.md "wikilink")出身。日英のハーフ。
@@ -65,7 +65,7 @@ italianVOGUE、UK VOGUE、ELLE、ID等で海外でも広く活躍。また海外
 
 ## 外部リンク
 
-  - [ANGELA 公式ブログ](http://ameblo.jp/angela-rey)
+  - [ANGELA 公式ブログ](https://ameblo.jp/angela-rey)
   - [TED×Sapporo](http://tedxsapporo.com/speakers/angelareynolds/)
   - \[<http://www.tateokaoffice.com/models/index.html>　館岡事務所\]
   - [BEACON ALLIANCE](http://www.beacon-all.co.jp/)

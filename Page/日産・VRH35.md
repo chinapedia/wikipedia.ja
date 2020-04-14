@@ -1,4 +1,4 @@
-> この記事は[VRH35](https://ja.wikipedia.org/wiki/VRH35)から翻訳されています。
+> この記事は[日産・VRH35](https://ja.wikipedia.org/wiki/日産・VRH35)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:VRH35Z.jpg "wikilink") **VRH35**は、[日産自動車](../Page/日産自動車.md "wikilink")が[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")での総合優勝や[グループC](../Page/グループC.md "wikilink")規定で行われていた[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink")(WSPC)や[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")(JSPC)での制覇を狙って、[1989年](../Page/1989年.md "wikilink")に[林義正](../Page/林義正.md "wikilink")らによって新開発された自動車レース専用の[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

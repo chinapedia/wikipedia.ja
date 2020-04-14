@@ -1,4 +1,4 @@
-> この記事は[Daichi](https://ja.wikipedia.org/wiki/Daichi)から翻訳されています。
+> この記事は[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行)から翻訳されています。
 
 
 **鈴木Daichi秀行**（すずき だいち ひでゆき、[1974年](../Page/1974年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は鈴木秀行\[1\]。愛称は**Daichi**。
@@ -481,6 +481,7 @@
 
   - 「WANT TO」 （プロデュース・編曲）
   - 「PAIN」（プロデュース・編曲）
+  - 「FUTURE」（プロデュース・編曲）
 
 **[瀬川あやか](https://ja.wikipedia.org/wiki/瀬川あやか "wikilink")**
 

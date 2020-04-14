@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECアベニュー](https://ja.wikipedia.org/wiki/NECアベニュー)から翻訳されています。
 
 
 **NECアベニュー**（エヌイーシーアベニュー、*NEC Avenue Ltd.*）は、かつて存在した[NECグループ](../Page/NECグループ.md "wikilink")の[レコード会社](../Page/レコード会社.md "wikilink")。ビデオソフトやゲームソフトの開発・販売も行っていた。正式な法人名は「**NECアベニュー株式会社**」。本社は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に置かれ、後に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")へ移転した。

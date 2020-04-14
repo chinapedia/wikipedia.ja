@@ -1,4 +1,4 @@
-> この記事は[IV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/IV_MASK_OF_THE_SUN_-a_new_theory-)から翻訳されています。
+> この記事は[イースIV MASK OF THE SUN -a new theory-](https://ja.wikipedia.org/wiki/イースIV_MASK_OF_THE_SUN_-a_new_theory-)から翻訳されています。
 
 
 『**イースIV MASK OF THE SUN -a new theory-**』（イースフォー マスクオブザサン アニユーセオリー）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションRPGシリーズである](../Page/アクションロールプレイングゲーム.md "wikilink")〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉第4作となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の1つ。[1993年](../Page/1993年.md "wikilink")（平成5年）にオリジナル2作品が発売された『イースIV』の[リメイク](../Page/リメイク.md "wikilink")作品で、[2005年](../Page/2005年.md "wikilink")（平成17年）5月26日に[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された。

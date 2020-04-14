@@ -1,4 +1,4 @@
-> この記事は[Da Vinci \(\)](https://ja.wikipedia.org/wiki/Da_Vinci_\(\))から翻訳されています。
+> この記事は[Da Vinci \(医療ロボット\)](https://ja.wikipedia.org/wiki/Da_Vinci_\(医療ロボット\))から翻訳されています。
 
 
 [Laproscopic_Surgery_Robot.jpg](https://ja.wikipedia.org/wiki/File:Laproscopic_Surgery_Robot.jpg "fig:Laproscopic_Surgery_Robot.jpg") **da Vinci**（ダ・ヴィンチ）こと、**da Vinci Surgical System**（ダ・ヴィンチ・サージカルシステム、ダ・ヴィンチ外科手術システム）は、米国[インテュイティヴ・サージカル](https://ja.wikipedia.org/wiki/インテュイティヴ・サージカル "wikilink")社が開発した[マスタースレイブ型](https://ja.wikipedia.org/wiki/マスタースレーブ "wikilink")[内視鏡下手術用の](https://ja.wikipedia.org/wiki/内視鏡#内視鏡手術 "wikilink")[手術用ロボット](https://ja.wikipedia.org/wiki/ロボット支援手術 "wikilink")。名称は[レオナルド・ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")にちなむ\[1\]。

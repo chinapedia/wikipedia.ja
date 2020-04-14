@@ -1,4 +1,4 @@
-> この記事は[UXXI](https://ja.wikipedia.org/wiki/UXXI)から翻訳されています。
+> この記事は[UボートXXI型](https://ja.wikipedia.org/wiki/UボートXXI型)から翻訳されています。
 
 
 **UボートXXI型** (U-Boot-Klasse XXI) は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")。

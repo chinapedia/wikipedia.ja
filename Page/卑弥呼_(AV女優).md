@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[卑弥呼 \(AV女優\)](https://ja.wikipedia.org/wiki/卑弥呼_\(AV女優\))から翻訳されています。
 
 
 **卑弥呼**（ひみこ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。[村西とおる](../Page/村西とおる.md "wikilink")が率いた[ダイヤモンド映像](../Page/ダイヤモンド映像.md "wikilink")を代表するAV女優の一人。

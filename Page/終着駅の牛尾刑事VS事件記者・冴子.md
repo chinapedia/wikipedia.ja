@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[終着駅の牛尾刑事VS事件記者・冴子](https://ja.wikipedia.org/wiki/終着駅の牛尾刑事VS事件記者・冴子)から翻訳されています。
 
 
 『**終着駅の牛尾刑事VS事件記者・冴子**』（しゅうちゃくえきのうしおけいじ ブイエス じけんきしゃ さえこ）は、[2001年](../Page/2001年.md "wikilink")から[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で放送されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。主演は[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")と[水野真紀](../Page/水野真紀.md "wikilink")。
@@ -536,7 +536,7 @@
 
 ::\* 横田彩花 - [稲垣芽生](https://ja.wikipedia.org/wiki/稲垣芽生 "wikilink")\[33\]（幼少期：[梅崎音羽](https://ja.wikipedia.org/wiki/梅崎音羽 "wikilink")\[34\]）
 
-::\* 大森桜（洋二と佐代子の娘） - 瑞生桜子\[35\]
+::\* 大森桜（洋二と佐代子の娘） - [瑞生桜子](../Page/瑞生桜子.md "wikilink")\[35\]
 
 ::\* 小松美穂（ジュエリーデザイナー） - [南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")
 

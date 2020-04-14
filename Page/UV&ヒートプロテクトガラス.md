@@ -1,4 +1,4 @@
-> この記事は[UV\&](https://ja.wikipedia.org/wiki/UV\&)から翻訳されています。
+> この記事は[UV\&ヒートプロテクトガラス](https://ja.wikipedia.org/wiki/UV\&ヒートプロテクトガラス)から翻訳されています。
 
 
 **UV&ヒートプロテクトガラス**とは、[AGC](../Page/AGC.md "wikilink")が製造・供給している自動車用ガラス「クールベール」の[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")の呼称。三菱が主力車種で採用しているほか、[日産自動車](../Page/日産自動車.md "wikilink")も「UV・IRカット」の呼称で一部車種に採用している。現在の[自動車](../Page/自動車.md "wikilink")の[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")はほとんど[紫外線](../Page/紫外線.md "wikilink")を遮る機能があるが、このガラスはさらに[赤外線](../Page/赤外線.md "wikilink")を遮断する機能を備えたものである。

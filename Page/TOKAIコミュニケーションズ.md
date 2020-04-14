@@ -1,4 +1,4 @@
-> この記事は[TOKAI](https://ja.wikipedia.org/wiki/TOKAI)から翻訳されています。
+> この記事は[TOKAIコミュニケーションズ](https://ja.wikipedia.org/wiki/TOKAIコミュニケーションズ)から翻訳されています。
 
 
 **株式会社TOKAIコミュニケーションズ**（トーカイコミュニケーションズ、旧名・**ビック東海**）は、日本の[電気通信事業者](../Page/電気通信事業者.md "wikilink")である。[TOKAIホールディングス](https://ja.wikipedia.org/wiki/TOKAIホールディングス "wikilink")の子会社であり、グループ内で情報通信部門を担っている\[1\]。

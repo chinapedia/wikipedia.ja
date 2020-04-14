@@ -1,7 +1,7 @@
 > この記事は[Pure soul](https://ja.wikipedia.org/wiki/Pure_soul)から翻訳されています。
 
 
-『**pure soul**』（ピュア・ソウル）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャー4作目のオリジナルアルバム。及び本作の収録曲の1つである。
+『**pure soul**』（ピュア・ソウル）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャー4作目のオリジナルアルバム。及び本作の収録曲の1つである。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")にプラチナム・レコードよりリリースされた。
 
@@ -30,7 +30,7 @@
         JIRO作曲（作詞はTAKURO）。GLAYのライブでは定番の曲。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")末には既に完成しており、2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』の収録候補曲であったが、本作品に収録された。ライブにおいては、メンバー4人それぞれの見せ場がある。
 3.  **May Fair**
       -
-        BEAT out\!ツアーから歌われていたが、3rdアルバム『[BELOVED](../Page/BELOVED.md "wikilink")』制作の後に完成したため、本作品での収録となった。TAKUROが「May Fairをシングルにしたらどうか」とメンバーに話したところ「BELOVEDの方がいい」という答えが返ってきたという。
+        BEAT out\!ツアーから歌われていたが、3rdアルバム『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』制作の後に完成したため、本作品での収録となった。TAKUROが「May Fairをシングルにしたらどうか」とメンバーに話したところ「BELOVEDの方がいい」という答えが返ってきたという。
         ベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』の収録曲を決めるアンケートで18位を獲得したが、収録には至らなかった。
 4.  **[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")**
       -
@@ -70,7 +70,7 @@
   - DISC2にはアルバム収録曲とシングル・カップリング曲の当時デモ音源と、未発表曲を収録\[14\]。
   - DISC3はBlu-rayとなっており、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[阪急西宮スタジアム](../Page/阪急西宮スタジアム.md "wikilink")で行われた「**pure soul in STADIUM "SUMMER of '98"**」を全曲収録のほか、当時の未発表シーンを加えたドキュメント映像「**pure soul MOVIE 2018**」も収録\[15\]\[16\]。
   - ブックレットには『pure soul』リリース当時の撮り下ろし写真や、雑誌・新聞記事から厳選したインタビュー記事、pure soulにまつわる素材を掲載\[17\]。
-  - 初週で6,864枚を売り上げ、オリコン週間アルバムランキング(2018年08月13日付)では12位を獲得\[18\]。トップ10圏内にはランクインできなかったものの、初動売り上げは前作『[BELOVED Anthology](https://ja.wikipedia.org/wiki/BELOVED#BELOVED_Anthology "wikilink")』を上回った。
+  - 初週で6,864枚を売り上げ、オリコン週間アルバムランキング(2018年08月13日付)では12位を獲得\[18\]。トップ10圏内にはランクインできなかったものの、初動売り上げは前作『[BELOVED Anthology](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYのアルバム\)#BELOVED_Anthology "wikilink")』を上回った。
 
 ### 収録曲
 

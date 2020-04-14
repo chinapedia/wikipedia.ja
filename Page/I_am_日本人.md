@@ -1,4 +1,4 @@
-> この記事は[I am ](https://ja.wikipedia.org/wiki/I_am_)から翻訳されています。
+> この記事は[I am 日本人](https://ja.wikipedia.org/wiki/I_am_日本人)から翻訳されています。
 
 
 『**I am 日本人**』（アイアムにほんじん）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TOHO](https://ja.wikipedia.org/wiki/TOHO)から翻訳されています。
+> この記事は[TOHOシネマズスカラ座](https://ja.wikipedia.org/wiki/TOHOシネマズスカラ座)から翻訳されています。
 
 
 **TOHOシネマズスカラ座**（とうほうシネマズ スカラざ、TOHO CINEMAS SCALA-ZA）は2000年12月16日から2018年2月23日まで[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")1-1-3の[東京宝塚ビル](https://ja.wikipedia.org/wiki/東京宝塚ビル "wikilink")地下1階に在った[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社が経営・運営する[映画館](../Page/映画館.md "wikilink")。現在は[TOHOシネマズ日比谷のSCREEN](https://ja.wikipedia.org/wiki/東京ミッドタウン日比谷 "wikilink")12となっている。

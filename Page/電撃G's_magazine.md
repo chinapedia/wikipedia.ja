@@ -1,4 +1,4 @@
-> この記事は[G\'s magazine](https://ja.wikipedia.org/wiki/G\'s_magazine)から翻訳されています。
+> この記事は[電撃G\'s magazine](https://ja.wikipedia.org/wiki/電撃G\'s_magazine)から翻訳されています。
 
 
 『**電撃G's magazine**』（でんげきジーズマガジン）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")（旧[メディアワークス](../Page/メディアワークス.md "wikilink")）が[1992年](../Page/1992年.md "wikilink")から発行している[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")兼[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。右綴じの月刊誌で、発売日は毎月30日である。
@@ -238,9 +238,11 @@
   - [おひめさまナビゲーション](../Page/おひめさまナビゲーション.md "wikilink")（画：[七尾奈留](../Page/七尾奈留.md "wikilink")、文：[SATZ](https://ja.wikipedia.org/wiki/SATZ "wikilink")）：2007年10月号 - 2011年5月号
   - [Baby Princess](../Page/Baby_Princess.md "wikilink")（原作：公野櫻子、画：[みぶなつき](https://ja.wikipedia.org/wiki/みぶなつき "wikilink")）：2007年12月号 - 2012年6月号
   - カレンダーガール（画：[七尾奈留](../Page/七尾奈留.md "wikilink")）：2011年1月号 - 2013年1月号\[19\]
-  - **[ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")**（著：公野櫻子、キャラクターデザイン：室田雄平）：2010年7月号 -
+  - **[ラブライブ\!](https://ja.wikipedia.org/wiki/ラブライブ! "wikilink")**（著：公野櫻子、キャラクターデザイン：[室田雄平](https://ja.wikipedia.org/wiki/室田雄平 "wikilink")）：2010年7月号 -
   - **[ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!_サンシャイン!! "wikilink")**（著：公野櫻子、キャラクターデザイン：室田雄平）：2015年6月号 -
   - **[天華百剣](https://ja.wikipedia.org/wiki/天華百剣 "wikilink")**（原作：電撃G's magazine・電撃ホビーウェブ、設定製作：セブンデイズウォー）：2015年7月号 -
+  - **しょにおや！～いっしょにおやすみプロジェクト～**（企画：電撃G'sマガジン編集部・小竹義彦、イラスト：みすみ、シナリオ：4Dメガネ）：2019年11月号 -
+  - **私のシスター・ラビリンス**（原案・執筆：[みかみてれん](../Page/みかみてれん.md "wikilink")、キャラクターデザイン・挿絵：Tam-U、企画：電撃G'sマガジン）：2020年4月号 -
 
 ## 制作アニメ作品
 
@@ -250,7 +252,7 @@
   - [恋と選挙とチョコレート](https://ja.wikipedia.org/wiki/恋と選挙とチョコレート "wikilink")（原作：[sprite / fairys](https://ja.wikipedia.org/wiki/sprite_\(ゲームブランド\) "wikilink")）：2012年7月\[21\]
   - [ビビッドレッド・オペレーション](https://ja.wikipedia.org/wiki/ビビッドレッド・オペレーション "wikilink")（企画・プロデュース：[アニプレックス](../Page/アニプレックス.md "wikilink")）：2013年1月\[22\]
   - [結城友奈は勇者である](https://ja.wikipedia.org/wiki/結城友奈は勇者である "wikilink")（企画原案：[タカヒロ](../Page/タカヒロ.md "wikilink")）：2014年10月\[23\]
-  - [プラスティック・メモリーズ](https://ja.wikipedia.org/wiki/プラスティック・メモリーズ "wikilink")（原作・脚本：[林直孝](https://ja.wikipedia.org/wiki/林直孝 "wikilink")）：2015年4月\[24\]
+  - [プラスティック・メモリーズ](https://ja.wikipedia.org/wiki/プラスティック・メモリーズ "wikilink")（原作・脚本：林直孝）：2015年4月\[24\]
   - [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")（原作・脚本：麻枝准）：2015年7月\[25\]
   - [少女たちは荒野を目指す](https://ja.wikipedia.org/wiki/少女たちは荒野を目指す "wikilink")（原作：タカヒロ）：2016年1月\[26\]
   - [Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")（原作：Key / ビジュアルアーツ）：2016年7月\[27\]

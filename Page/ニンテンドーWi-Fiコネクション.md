@@ -1,4 +1,4 @@
-> この記事は[Wi-Fi](https://ja.wikipedia.org/wiki/Wi-Fi)から翻訳されています。
+> この記事は[ニンテンドーWi-Fiコネクション](https://ja.wikipedia.org/wiki/ニンテンドーWi-Fiコネクション)から翻訳されています。
 
 
 **ニンテンドーWi-Fiコネクション**（ニンテンドーワイファイコネクション）は、[任天堂](../Page/任天堂.md "wikilink")の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けのネットワークサービスである。略称は**Wi-Fiコネクション**\[1\]。まず[2005年](../Page/2005年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")に[北米でサービスが始まり](../Page/北アメリカ大陸.md "wikilink")、その後[オーストラリア](../Page/オーストラリア.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で順次サービスが開始された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でのサービス開始は2005年[11月23日](../Page/11月23日.md "wikilink")。

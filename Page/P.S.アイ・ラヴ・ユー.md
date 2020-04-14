@@ -1,4 +1,4 @@
-> この記事は[P.S.](https://ja.wikipedia.org/wiki/P.S.)から翻訳されています。
+> この記事は[P.S.アイ・ラヴ・ユー](https://ja.wikipedia.org/wiki/P.S.アイ・ラヴ・ユー)から翻訳されています。
 
 
 「**P.S.アイ・ラヴ・ユー**」（ピーエス・アイ・ラヴ・ユー、）は、[1962年](../Page/1962年.md "wikilink")10月に[ビートルズ](../Page/ビートルズ.md "wikilink")が発表した1枚目の[オリジナル・シングル](https://ja.wikipedia.org/wiki/ビートルズの作品#シングル\(英国\) "wikilink")（「[ラヴ・ミー・ドゥ](../Page/ラヴ・ミー・ドゥ.md "wikilink")」）の[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")曲である。演奏時間は2分2秒という比較的短い曲である。

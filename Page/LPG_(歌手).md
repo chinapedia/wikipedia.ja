@@ -1,4 +1,4 @@
-> この記事は[LPG \(\)](https://ja.wikipedia.org/wiki/LPG_\(\))から翻訳されています。
+> この記事は[LPG \(歌手\)](https://ja.wikipedia.org/wiki/LPG_\(歌手\))から翻訳されています。
 
 
 **LPG（Lovely Pretty Girl）**は韓国の女性4人組アイドルグループである。

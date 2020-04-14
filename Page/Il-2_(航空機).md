@@ -1,4 +1,4 @@
-> この記事は[Il-2 \(\)](https://ja.wikipedia.org/wiki/Il-2_\(\))から翻訳されています。
+> この記事は[Il-2 \(航空機\)](https://ja.wikipedia.org/wiki/Il-2_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= Il-2 | 画像=<File:Il2> sturmovik.jpg | キャプション=飛行するIl-2M3 | 用途= [攻撃機](../Page/攻撃機.md "wikilink")（[シュトゥルモヴィーク](../Page/シュトゥルモヴィーク.md "wikilink")） | 分類= | 設計者= [セルゲーイ・ウラジーミロヴィチ・イリユーシン](https://ja.wikipedia.org/wiki/セルゲイ・イリューシン "wikilink") | 製造者= [イリユーシン設計局](../Page/S・V・イリユーシン記念航空複合体.md "wikilink") | 運用者= ソビエト連邦など | 初飛行年月日= [1939年](../Page/1939年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") | 生産数= 36,183機 | 生産開始年月日= [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") | 運用開始年月日= 1941年 | 退役年月日= [1954年](../Page/1954年.md "wikilink")（ユーゴスラビア、ブルガリア） | 運用状況=退役 | ユニットコスト= }} **Il-2**（[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>イール・ドヴァー</small>、*Ilyushin Il-2* ）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[イリユーシン設計局が開発し](../Page/S・V・イリユーシン記念航空複合体.md "wikilink")、[ソ連空軍などで運用された](../Page/赤色空軍.md "wikilink")[攻撃機](../Page/攻撃機.md "wikilink")（[襲撃機](https://ja.wikipedia.org/wiki/襲撃機 "wikilink")）。

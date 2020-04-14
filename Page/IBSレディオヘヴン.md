@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBSレディオヘヴン](https://ja.wikipedia.org/wiki/IBSレディオヘヴン)から翻訳されています。
 
 
 **IBSレディオヘヴン**は、[茨城放送](../Page/茨城放送.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された[音楽番組](../Page/音楽番組.md "wikilink")である。

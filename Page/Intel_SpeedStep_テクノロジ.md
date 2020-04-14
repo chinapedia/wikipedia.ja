@@ -1,4 +1,4 @@
-> この記事は[Intel SpeedStep ](https://ja.wikipedia.org/wiki/Intel_SpeedStep_)から翻訳されています。
+> この記事は[Intel SpeedStep テクノロジ](https://ja.wikipedia.org/wiki/Intel_SpeedStep_テクノロジ)から翻訳されています。
 
 
 **Intel SpeedStep テクノロジ**（インテル スピードステップ テクノロジ 、*Intel SpeedStep Technology*）は[Pentium IIIから搭載された](../Page/Pentium_III.md "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の省電力技術。単に**SpeedStep**とも呼ばれる。拡張規格の**Enhanced Intel SpeedStep Technology**（略称: **EIST**）も存在する。

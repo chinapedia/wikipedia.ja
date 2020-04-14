@@ -1,4 +1,4 @@
-> この記事は[JX](https://ja.wikipedia.org/wiki/JX)から翻訳されています。
+> この記事は[JX童話の花束](https://ja.wikipedia.org/wiki/JX童話の花束)から翻訳されています。
 
 
 『**清水ミチコのJX-ENEOS童話の花束**』（しみずミチコのジェイエックス・エネオスどうわのはなたば）は[NRN系列局](../Page/全国ラジオネットワーク.md "wikilink")（ただし[沖縄県](../Page/沖縄県.md "wikilink")は[JRN単独ネットの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")（RBC）にネット）で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")頃スタート。[ニッポン放送](../Page/ニッポン放送.md "wikilink")など一部ネット局では『[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")』内で放送されている（[下記参照](https://ja.wikipedia.org/wiki/#ネット局・放送時間 "wikilink")）。[JOMO](../Page/ジャパンエナジー.md "wikilink")→[ENEOSの](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")[単独提供番組である](../Page/一社提供.md "wikilink")。旧タイトルは『**清水ミチコのJOMO童話の花束**』（しみずミチコのジョモ - ）→『**清水ミチコのJX童話の花束**』（しみずミチコのジェイエックス - ）。本項では、本番組と関係があるJX-ENEOS童話賞（現・JXTG童話賞）についても説明する。

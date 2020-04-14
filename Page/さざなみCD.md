@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[さざなみCD](https://ja.wikipedia.org/wiki/さざなみCD)から翻訳されています。
 
 
 『**さざなみCD**』（さざなみシーディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")12作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")に[ユニバーサルミュージックより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。レーベルは[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")。初回盤のみスリップ・ケース仕様。

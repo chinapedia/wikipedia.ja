@@ -1,4 +1,4 @@
-> この記事は[Blue Sky \(\)](https://ja.wikipedia.org/wiki/Blue_Sky_\(\))から翻訳されています。
+> この記事は[Blue Sky \(西城秀樹の曲\)](https://ja.wikipedia.org/wiki/Blue_Sky_\(西城秀樹の曲\))から翻訳されています。
 
 
 「**Blue Sky**」（ブルー・スカイ）は、[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の59枚目の[シングル](../Page/シングル.md "wikilink")である。
@@ -28,4 +28,4 @@
   - [33才/西城秀樹](https://ja.wikipedia.org/wiki/33才/西城秀樹 "wikilink")
   - [1988年の音楽](../Page/1988年の音楽.md "wikilink")
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:なかにし礼が制作した楽曲](https://ja.wikipedia.org/wiki/Category:なかにし礼が制作した楽曲 "wikilink") [Category:井上大輔が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上大輔が制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:アサヒのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アサヒのビールのコマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:なかにし礼が制作した楽曲](https://ja.wikipedia.org/wiki/Category:なかにし礼が制作した楽曲 "wikilink") [Category:井上大輔が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上大輔が制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:アサヒのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アサヒのビールのコマーシャルソング "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:空を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:空を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

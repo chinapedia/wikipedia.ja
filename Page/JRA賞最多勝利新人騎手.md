@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞最多勝利新人騎手](https://ja.wikipedia.org/wiki/JRA賞最多勝利新人騎手)から翻訳されています。
 
 
 **JRA賞最多勝利新人騎手**（ジェイアールエーしょう さいたしょうり しんじんきしゅ）は[JRA賞](../Page/JRA賞.md "wikilink")の[騎手](../Page/騎手.md "wikilink")部門の1つ。
@@ -43,7 +43,7 @@
 | [2016年](../Page/2016年.md "wikilink")\[2\]               | [木幡巧也](https://ja.wikipedia.org/wiki/木幡巧也 "wikilink") | [牧光二](https://ja.wikipedia.org/wiki/牧光二 "wikilink")   | 45勝 |
 | [2017年](../Page/2017年.md "wikilink")\[3\]               | 該当者なし                                                 |                                                       |     |
 | [2018年](../Page/2018年.md "wikilink")\[4\]               | 該当者なし                                                 |                                                       |     |
-| [2019年](../Page/2019年.md "wikilink")                    | [斎藤新](https://ja.wikipedia.org/wiki/斎藤新 "wikilink")   |                                                       |     |
+| [2019年](../Page/2019年.md "wikilink")                    | [斎藤新](https://ja.wikipedia.org/wiki/斎藤新 "wikilink")   | [安田隆行](../Page/安田隆行.md "wikilink")                    |     |
 
 ## 脚注
 

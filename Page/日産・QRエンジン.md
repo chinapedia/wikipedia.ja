@@ -1,4 +1,4 @@
-> この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
+> この記事は[日産・QRエンジン](https://ja.wikipedia.org/wiki/日産・QRエンジン)から翻訳されています。
 
 
 **日産・QRエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[直列4気筒](../Page/直列4気筒.md "wikilink")DOHC[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

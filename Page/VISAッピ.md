@@ -1,4 +1,4 @@
-> この記事は[VISA](https://ja.wikipedia.org/wiki/VISA)から翻訳されています。
+> この記事は[VISAッピ](https://ja.wikipedia.org/wiki/VISAッピ)から翻訳されています。
 
 
 **VISAッピ**（びざっぴ）は、かつて[ビザ・インターナショナルが日本での導入を試みた](../Page/Visa.md "wikilink")[クレジット決済サービスの名称である](../Page/クレジットカード.md "wikilink")。

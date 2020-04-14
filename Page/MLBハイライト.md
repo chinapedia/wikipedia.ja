@@ -1,4 +1,4 @@
-> この記事は[MLB](https://ja.wikipedia.org/wiki/MLB)から翻訳されています。
+> この記事は[MLBハイライト](https://ja.wikipedia.org/wiki/MLBハイライト)から翻訳されています。
 
 
 『**MLBハイライト**』（エムエルビーハイライト）は、[NHK BS1で年度上半期の](../Page/NHK_BS1.md "wikilink")[4](https://ja.wikipedia.org/wiki/4月 "wikilink")-[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の期間に[平日](../Page/平日.md "wikilink")[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")および土・日曜日深夜に放送していた[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")の速報・情報番組である。

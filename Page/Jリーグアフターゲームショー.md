@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグアフターゲームショー](https://ja.wikipedia.org/wiki/Jリーグアフターゲームショー)から翻訳されています。
 
 
 『**Jリーグアフターゲームショー**』（J.LEAGUE AFTER GAME SHOW、**JAGS**）は、[2012年](../Page/2012年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まで放送されていた[スカパー\!制作の](../Page/スカパー!プレミアムサービス.md "wikilink")[Jリーグ試合結果速報番組である](../Page/日本プロサッカーリーグ.md "wikilink")。

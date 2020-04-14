@@ -1,4 +1,4 @@
-> この記事は[TVS](https://ja.wikipedia.org/wiki/TVS)から翻訳されています。
+> この記事は[コンタックスTVSデジタル](https://ja.wikipedia.org/wiki/コンタックスTVSデジタル)から翻訳されています。
 
 
 [Contax_TVS_digital_hg.jpg](https://ja.wikipedia.org/wiki/File:Contax_TVS_digital_hg.jpg "fig:Contax_TVS_digital_hg.jpg") **コンタックスTVSデジタル**（*CONTAX TVS DIGITAL* ）は、[2003年](../Page/2003年.md "wikilink")（平成15年）[2月27日](../Page/2月27日.md "wikilink")に[京セラ](../Page/京セラ.md "wikilink")から発売された[コンタックス](../Page/コンタックス.md "wikilink")ブランドの[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")。

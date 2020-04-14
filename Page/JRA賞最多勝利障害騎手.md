@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞最多勝利障害騎手](https://ja.wikipedia.org/wiki/JRA賞最多勝利障害騎手)から翻訳されています。
 
 
 **JRA賞最多勝利障害騎手**（ジェイアールエーしょう さいたしょうり しょうがいきしゅ）は、[JRA賞](../Page/JRA賞.md "wikilink")の騎手部門の1つ。

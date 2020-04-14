@@ -1,4 +1,4 @@
-> この記事は[DRAGONAUT STATION ISDA](https://ja.wikipedia.org/wiki/DRAGONAUT_STATION_ISDA)から翻訳されています。
+> この記事は[DRAGONAUT STATION ISDA情報局](https://ja.wikipedia.org/wiki/DRAGONAUT_STATION_ISDA情報局)から翻訳されています。
 
 
 **DRAGONAUT STATION ISDA情報局**（ドラゴノーツステーション アイエスディーエーじょうほうきょく）はアニメ『[ドラゴノーツ -ザ・レゾナンス-](../Page/ドラゴノーツ_-ザ・レゾナンス-.md "wikilink")』の関連番組として、[音泉](../Page/音泉.md "wikilink")にて配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

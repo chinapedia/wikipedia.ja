@@ -1,4 +1,4 @@
-> この記事は[ \(I WiSH\)](https://ja.wikipedia.org/wiki/_\(I_WiSH\))から翻訳されています。
+> この記事は[約束の日 \(I WiSHの曲\)](https://ja.wikipedia.org/wiki/約束の日_\(I_WiSHの曲\))から翻訳されています。
 
 
 『**約束の日**』（やくそくのひ）は、[I WiSHの](https://ja.wikipedia.org/wiki/I_WiSH "wikilink")3rd[シングル](../Page/シングル.md "wikilink")である。

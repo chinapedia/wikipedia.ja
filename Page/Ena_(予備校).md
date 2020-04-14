@@ -1,4 +1,4 @@
-> この記事は[Ena \(\)](https://ja.wikipedia.org/wiki/Ena_\(\))から翻訳されています。
+> この記事は[Ena \(予備校\)](https://ja.wikipedia.org/wiki/Ena_\(予備校\))から翻訳されています。
 
 
 **ena**（エナ）は、**株式会社学究社**（がっきゅうしゃ、*Gakkyusha Co., Ltd.*）が運営する[中学](../Page/中学受験.md "wikilink")・[高校](../Page/高校受験.md "wikilink")・[大学受験](../Page/大学受験.md "wikilink")の[予備校](../Page/予備校.md "wikilink")である。校舎は[東京都](../Page/東京都.md "wikilink")全域を中心に展開する。

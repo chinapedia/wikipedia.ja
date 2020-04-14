@@ -1,4 +1,4 @@
-> この記事は[ BC ](https://ja.wikipedia.org/wiki/_BC_)から翻訳されています。
+> この記事は[真実の手記 BC級戦犯 加藤哲太郎「私は貝になりたい」](https://ja.wikipedia.org/wiki/真実の手記_BC級戦犯_加藤哲太郎「私は貝になりたい」)から翻訳されています。
 
 
 『**私は貝になりたい あるBC級戦犯の叫び**』（わたしはかいになりたい あるビーシーきゅうせんぱんのさけび）は、[加藤哲太郎](../Page/加藤哲太郎.md "wikilink")による[手記](https://ja.wikipedia.org/wiki/覚書 "wikilink")・[書簡集](https://ja.wikipedia.org/wiki/書簡集 "wikilink")。[1994年](../Page/1994年.md "wikilink")10月に[春秋社](../Page/春秋社.md "wikilink")より刊行された。加藤の[巣鴨拘置所](../Page/巣鴨拘置所.md "wikilink")での獄中手記と獄中から家族に宛てた手紙22通を収録する。2005年8月に新装版が、2018年6月に普及版が刊行された。

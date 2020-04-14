@@ -1,4 +1,4 @@
-> この記事は[ONE ](https://ja.wikipedia.org/wiki/ONE_)から翻訳されています。
+> この記事は[ONE 〜愛する人のために〜](https://ja.wikipedia.org/wiki/ONE_〜愛する人のために〜)から翻訳されています。
 
 
 「**ONE 〜愛する人のために〜**」（ワン 〜あいするひとのために〜）は、[1988年](../Page/1988年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の61枚目の[シングル](../Page/シングル.md "wikilink")である。

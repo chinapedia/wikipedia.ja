@@ -1,4 +1,4 @@
-> この記事は[xiongmao](https://ja.wikipedia.org/wiki/xiongmao)から翻訳されています。
+> この記事は[熊猫xiongmao](https://ja.wikipedia.org/wiki/熊猫xiongmao)から翻訳されています。
 
 
 **熊猫xiongmao**（シェンマオ）とは、日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は、[ルーツ音楽出版](../Page/ルーツ音楽出版.md "wikilink")・[トップフライト](https://ja.wikipedia.org/wiki/トップフライト "wikilink")。

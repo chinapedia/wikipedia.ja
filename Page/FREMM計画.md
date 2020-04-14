@@ -1,4 +1,4 @@
-> この記事は[FREMM](https://ja.wikipedia.org/wiki/FREMM)から翻訳されています。
+> この記事は[FREMM計画](https://ja.wikipedia.org/wiki/FREMM計画)から翻訳されています。
 
 
 **FREMM計画**とは、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")が共同で行う汎用[フリゲート](../Page/フリゲート.md "wikilink")（、）開発計画である。但し、[フランス海軍](../Page/フランス海軍.md "wikilink")では、Dから始まる艦番号を与えられ、[駆逐艦](../Page/駆逐艦.md "wikilink")相当として扱われている。

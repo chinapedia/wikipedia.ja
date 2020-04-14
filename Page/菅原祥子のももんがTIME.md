@@ -1,4 +1,4 @@
-> この記事は[TIME](https://ja.wikipedia.org/wiki/TIME)から翻訳されています。
+> この記事は[菅原祥子のももんがTIME](https://ja.wikipedia.org/wiki/菅原祥子のももんがTIME)から翻訳されています。
 
 
 **菅原祥子のももんがTIME**（すがわらさちこのももんがタイム）は[KBS京都で放送されていた](../Page/京都放送.md "wikilink")[ローカル](../Page/ローカル.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。当項ではリニューアル後の『**菅原祥子のももんがTIME”（ツーダッシュ）**』に関しても扱う。

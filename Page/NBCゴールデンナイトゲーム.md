@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCゴールデンナイトゲーム](https://ja.wikipedia.org/wiki/NBCゴールデンナイトゲーム)から翻訳されています。
 
 
 **NBCゴールデンナイトゲーム**（エヌビーシーゴールデンナイトゲーム）は[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")ラジオ局（[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")含む）で年度上半期の4月から9月に放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")の題名。なお、このタイトルになるまでは「**NBC○曜ナイター**」（エヌビーシー○ようナイター）や「**ゴールデンナイターNBC**」（ゴールデンナイターエヌビーシー）というタイトルで放送していた（現在のタイトルとなったのは1997年から）。番組テーマ曲として[レイモンド服部](https://ja.wikipedia.org/wiki/レイモンド服部 "wikilink")の「[コバルトの空](../Page/コバルトの空.md "wikilink")」を使用している（2019年現在）。
@@ -14,7 +14,7 @@
 
   - 火曜：【[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")】／[RKBエキサイトホークス](../Page/RKBエキサイトホークス.md "wikilink")（キー局：[RKBラジオ](../Page/RKBラジオ.md "wikilink")）
       - ソフトバンク戦ナイターが行われない場合はRKBが設定する他のカードの中継を放送
-  - 水曜：【福岡ソフトバンクホークス】／[KBCホークスナイター](../Page/KBCホークスナイター.md "wikilink")（キー局：[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+  - 水曜：【福岡ソフトバンクホークス】／[KBCホークスナイター](../Page/KBCホークスナイター.md "wikilink")（キー局：[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
       - 2012年以降は火曜とは異なりビジターゲームの中継カードに制限が設けられた。ソフトバンク戦がデーゲーム、もしくはKBCのソフトバンク戦中継が[文化放送](../Page/文化放送.md "wikilink")（西武戦）・STVラジオ（日本ハム戦）・TBCラジオ（楽天戦）・東海ラジオ（[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")の中日戦）・RCCラジオ（セ・パ交流戦の広島戦）のネット受けの場合はホークス戦の中継はせず、[NRNナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")（キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）全国ネットの中継を放送する（ただし中継対象外カードも、全国放送となった場合はそのまま中継する）。2011年までは火曜同様、ソフトバンク戦についてはどの対戦カードでも中継していた。
   - 木・金曜：【[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")など全球団主催試合】／NRNナイター（キー局：ニッポン放送）
 
@@ -43,7 +43,7 @@
 
   - [日本シリーズは原則として開催曜日に合わせたネットワークで放送される](../Page/日本選手権シリーズ.md "wikilink")（2010年も土・日開催分のJRNネットは継続）が、[2007年](../Page/2007年の日本シリーズ.md "wikilink")（中日対日本ハム）は例外的に全5試合JRNネット（[北海道放送](../Page/HBCラジオ.md "wikilink")・[中部日本放送制作](../Page/CBCラジオ.md "wikilink")）により放送された。
 
-[Category:長崎放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:長崎放送のラジオ番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink")
+[Category:長崎放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:長崎放送のラジオ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink")
 
 1.  TBSラジオが自社およびJRNネットワーク番組としての野球中継を廃止した2018年以降は、厳密には（NRNとのクロスネットを含む）JRN加盟局間他との個別ネット扱いとなる。
 2.  ヤクルト主催試合についてはTBS及びRKBに中継権がないため、水 - 金曜のみ放送可能（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

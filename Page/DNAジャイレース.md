@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAジャイレース](https://ja.wikipedia.org/wiki/DNAジャイレース)から翻訳されています。
 
 
 **DNAジャイレース** (DNA gyrase)、もしくは単に**ジャイレース**、あるいは**DNAギラーゼ**とは[細菌](../Page/細菌.md "wikilink")が持つ[DNAトポイソメラーゼ](../Page/DNAトポイソメラーゼ.md "wikilink")II型の1種である () \[1\]。

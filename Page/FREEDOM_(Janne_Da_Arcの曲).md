@@ -1,4 +1,4 @@
-> この記事は[FREEDOM \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/FREEDOM_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[FREEDOM \(Janne Da Arcの曲\)](https://ja.wikipedia.org/wiki/FREEDOM_\(Janne_Da_Arcの曲\))から翻訳されています。
 
 
 「**FREEDOM**」（フリーダム）は、[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売した通算17枚目となるシングル。

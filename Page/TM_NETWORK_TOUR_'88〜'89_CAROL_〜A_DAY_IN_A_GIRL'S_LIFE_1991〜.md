@@ -1,4 +1,4 @@
-> この記事は[TM NETWORK TOUR \'88\'89 CAROL A DAY IN A GIRL\'S LIFE 1991](https://ja.wikipedia.org/wiki/TM_NETWORK_TOUR_\'88\'89_CAROL_A_DAY_IN_A_GIRL\'S_LIFE_1991)から翻訳されています。
+> この記事は[TM NETWORK TOUR \'88〜\'89 CAROL 〜A DAY IN A GIRL\'S LIFE 1991〜](https://ja.wikipedia.org/wiki/TM_NETWORK_TOUR_\'88〜\'89_CAROL_〜A_DAY_IN_A_GIRL\'S_LIFE_1991〜)から翻訳されています。
 
 
 **TM NETWORK TOUR '88〜'89 CAROL 〜A DAY IN A GIRL'S LIFE 1991〜**は、[TM NETWORKが](../Page/TM_NETWORK.md "wikilink")[1988年](../Page/1988年.md "wikilink")（昭和63年）から[1989年](../Page/1989年.md "wikilink")（平成元年）にかけて行った[コンサートツアー](https://ja.wikipedia.org/wiki/コンサートツアー "wikilink")。

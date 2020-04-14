@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[サークIII](https://ja.wikipedia.org/wiki/サークIII)から翻訳されています。
 
 
 『**サークIII**』 (*XakIII*) は、[1993年](../Page/1993年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に日本の[マイクロキャビン](../Page/マイクロキャビン.md "wikilink")から発売された[PC-9801用](../Page/PC-9800シリーズ.md "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークIII ジ・エターナル・リカーレンス**』 (*XakIII The eternal recurrence*)。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[タモリのヒストリーX](https://ja.wikipedia.org/wiki/タモリのヒストリーX)から翻訳されています。
 
 
 『**タモリのヒストリーX**』（タモリのヒストリーエックス、[英称](../Page/英語.md "wikilink"):*TAMORI'S HISTORY - X*）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2007年](../Page/2007年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて合計5回に渡って不定期放送されていた[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が[メイン司会の](../Page/司会.md "wikilink")[歴史](../Page/歴史.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")及び[特別番組](../Page/特別番組.md "wikilink")である。タモリの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")が実施されている。通称は『**ヒストリーX**』。

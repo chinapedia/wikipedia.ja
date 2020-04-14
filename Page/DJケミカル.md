@@ -1,7 +1,7 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJケミカル](https://ja.wikipedia.org/wiki/DJケミカル)から翻訳されています。
 
 
-**DJケミカル**（ディージェイ・ケミカル、本名：田野倉 智文（たのくら ともふみ）、[1982年](../Page/1982年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[FUNKY MONKEY BABYSの元](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")[DJである](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。イドエンターテインメントに所属していた。DJを名乗っていたが、基本的にDJプレイをしないジョッキーであった。
+**DJケミカル**（ディージェイ・ケミカル、本名：**田野倉 智文**（たのくら ともふみ）、[1982年](../Page/1982年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[FUNKY MONKEY BABYSの元](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")[DJである](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。イドエンターテインメントに所属していた。DJを名乗っていたが、基本的にDJプレイをしないジョッキーであった。
 
 ## 来歴
 

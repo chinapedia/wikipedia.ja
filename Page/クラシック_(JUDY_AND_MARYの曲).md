@@ -1,4 +1,4 @@
-> この記事は[ \(JUDY AND MARY\)](https://ja.wikipedia.org/wiki/_\(JUDY_AND_MARY\))から翻訳されています。
+> この記事は[クラシック \(JUDY AND MARYの曲\)](https://ja.wikipedia.org/wiki/クラシック_\(JUDY_AND_MARYの曲\))から翻訳されています。
 
 
 「**クラシック**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。

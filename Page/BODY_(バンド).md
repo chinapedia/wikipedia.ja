@@ -1,4 +1,4 @@
-> この記事は[BODY \(\)](https://ja.wikipedia.org/wiki/BODY_\(\))から翻訳されています。
+> この記事は[BODY \(バンド\)](https://ja.wikipedia.org/wiki/BODY_\(バンド\))から翻訳されています。
 
 
 **BODY**（ボディ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FSP \(\)](https://ja.wikipedia.org/wiki/FSP_\(\))から翻訳されています。
+> この記事は[FSP \(化粧品\)](https://ja.wikipedia.org/wiki/FSP_\(化粧品\))から翻訳されています。
 
 
 **FSP**（エフエスピー、**フリーソウルピカデリー**の頭文字よりとったもの）は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")からかつて発売されていた[化粧品](../Page/化粧品.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である。

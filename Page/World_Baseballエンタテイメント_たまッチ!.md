@@ -1,4 +1,4 @@
-> この記事は[World Baseball !](https://ja.wikipedia.org/wiki/World_Baseball_!)から翻訳されています。
+> この記事は[World Baseballエンタテイメント たまッチ!](https://ja.wikipedia.org/wiki/World_Baseballエンタテイメント_たまッチ!)から翻訳されています。
 
 
 『**World Baseballエンタテイメント たまッチ\!**』（ワールド・ベースボール・エンタテインメント たまっち）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")より不定期に放送されている[野球](../Page/野球.md "wikilink")を専門とした[スポーツ](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
@@ -12,12 +12,13 @@
 ### レギュラー出演者
 
   - リーダー：[中居正広](../Page/中居正広.md "wikilink")（2016年までは、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバー）
-  - アシスタント：[今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")（2018年4月9日 - ）7代目アシスタント
-  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")・[山崎弘也](../Page/山崎弘也.md "wikilink")
+  - アシスタント：[福岡みなみ](https://ja.wikipedia.org/wiki/福岡みなみ "wikilink")（2020年3月17日 - ）8代目アシスタント
+  - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")
+      - [山崎弘也](../Page/山崎弘也.md "wikilink")
+      - [柴田英嗣](../Page/柴田英嗣.md "wikilink")（2007年3月 - 2008年3月、2020年3月17日 - ）
 
 ### 過去の出演者
 
-  - アンタッチャブル・[柴田英嗣](../Page/柴田英嗣.md "wikilink")（2007年3月 - 2008年3月）
   - アシスタント
       - [Mie](../Page/Mie.md "wikilink")（2007年3月 - 2008年3月）\[1\]初代アシスタント
       - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")（2008年6月 - 2008年11月）2代目アシスタント
@@ -27,6 +28,7 @@
           - [橋本奈々未](https://ja.wikipedia.org/wiki/橋本奈々未 "wikilink")（当時、2015年4月 - 2016年8月）\[2\]5代目アシスタント
           - [生駒里奈](https://ja.wikipedia.org/wiki/生駒里奈 "wikilink")（当時、2016年11月13日）※橋本の臨時MC\[3\]
       - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink")（2017年4月4日 - 2017年12月）6代目アシスタント
+      - [今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")（2018年4月9日 - 2019年12月）7代目アシスタント
       - フジテレビアナウンサー（[斉藤舞子](https://ja.wikipedia.org/wiki/斉藤舞子 "wikilink")、[遠藤玲子](https://ja.wikipedia.org/wiki/遠藤玲子 "wikilink")、[三田友梨佳](https://ja.wikipedia.org/wiki/三田友梨佳 "wikilink")）
   - 育成枠：[岡田圭右](../Page/岡田圭右.md "wikilink")（[ますだおかだ](../Page/ますだおかだ.md "wikilink")、第19回・第21回〜第23回）\[4\]
   - [MLBジャーナリスト](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")：[AKI猪瀬](https://ja.wikipedia.org/wiki/AKI猪瀬 "wikilink")（第31回）
@@ -522,7 +524,7 @@
 
 [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの深夜番組](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組 "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  第47回の[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink")の優勝旅行に密着した企画に出演
+1.  第47回の[ヤクルトスワローズの優勝旅行に密着した企画に出演](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
 2.
 3.  橋本の代わりとして第50回のみ出演
 4.  第21回を除きVTR出演

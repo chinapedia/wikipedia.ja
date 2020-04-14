@@ -1,4 +1,4 @@
-> この記事は[DMG](https://ja.wikipedia.org/wiki/DMG)から翻訳されています。
+> この記事は[ビー・ユー・ジーDMG森精機](https://ja.wikipedia.org/wiki/ビー・ユー・ジーDMG森精機)から翻訳されています。
 
 
 **ビー・ユー・ジーDMG森精機株式会社**（ビーユージーディーエムジーもりせいき、英文社名：*DMG MORI B.U.G. CO., LTD.*）は、日本のコンピュータ関連企業。本社は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。

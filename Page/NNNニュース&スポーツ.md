@@ -1,4 +1,4 @@
-> この記事は[NNN\&](https://ja.wikipedia.org/wiki/NNN\&)から翻訳されています。
+> この記事は[NNNニュース\&スポーツ](https://ja.wikipedia.org/wiki/NNNニュース\&スポーツ)から翻訳されています。
 
 
 『**NNNニュース&スポーツ**』（エヌエヌエヌニュースアンドスポーツ）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で、『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』や『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』、『[真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")』や『[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』などがスポーツ中継に伴い休止となった場合や、[年末年始](../Page/年末年始.md "wikilink")に放送される代替の[報道](../Page/報道番組.md "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
@@ -40,7 +40,7 @@
 ※
 2006年は『NNNきょうの出来事』と平日分は『スポんちゅ』、週末分は『スポーツうるぐす』を統合した代替。
 2007年は週末の『NNNニュース』と『スポーツうるぐす』の代替。
-2014年以降はいずれも平日なので『NEWS ZERO』の代替。 \[3\]
+2014年以降はいずれも平日なので『NEWS ZERO』の代替\[3\]。
 
   - 年末年始
 

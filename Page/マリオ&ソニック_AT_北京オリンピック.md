@@ -1,4 +1,4 @@
-> この記事は[\& AT ](https://ja.wikipedia.org/wiki/\&_AT_)から翻訳されています。
+> この記事は[マリオ\&ソニック AT 北京オリンピック](https://ja.wikipedia.org/wiki/マリオ\&ソニック_AT_北京オリンピック)から翻訳されています。
 
 
 『**マリオ&ソニック AT 北京オリンピック**』（マリオアンドソニック アット ペキンオリンピック、*Mario & Sonic at the Olympic Games*）は、[任天堂](../Page/任天堂.md "wikilink")と[セガの共同開発による](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")・[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。発売は、日本では任天堂が、日本以外ではセガが担当している。

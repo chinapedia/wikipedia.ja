@@ -1,4 +1,4 @@
-> この記事は[KOCHI](https://ja.wikipedia.org/wiki/KOCHI)から翻訳されています。
+> この記事は[てれごじ。KOCHI](https://ja.wikipedia.org/wiki/てれごじ。KOCHI)から翻訳されています。
 
 
 **てれごじ。KOCHI**（てれごじこうち）は[NHK高知放送局](../Page/NHK高知放送局.md "wikilink")制作の[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")の[音楽](../Page/音楽.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。（[2000年](../Page/2000年.md "wikilink")から、前身は[てれごじ。](../Page/てれごじ。.md "wikilink")）

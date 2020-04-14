@@ -1,4 +1,4 @@
-> この記事は[ARASHI No.1](https://ja.wikipedia.org/wiki/ARASHI_No.1)から翻訳されています。
+> この記事は[ARASHI No.1〜嵐は嵐を呼ぶ〜](https://ja.wikipedia.org/wiki/ARASHI_No.1〜嵐は嵐を呼ぶ〜)から翻訳されています。
 
 
 『**ARASHI No.1 (ICHIGOU)〜嵐は嵐を呼ぶ〜**』（アラシ・イチゴウ あらしはあらしをよぶ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
@@ -7,7 +7,8 @@
 
   - CDデビューから約1年後に発売した初のアルバム。初回出荷枚数は80万枚\[1\]。
   - 初回限定盤としてBOX仕様、ステッカー封入されたものも販売された。
-  - シングルが4曲入っているが、両A面扱いだった「[HORIZON](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")」は収録されていない。
+  - シングルが4曲入っているが、両A面扱いだった「[HORIZON](https://ja.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")」は唯一収録されていない。
+  - PVは存在しないが「ココロチラリ」が本作のリードトラックとなる。
   - 現在は[廃盤](../Page/廃盤.md "wikilink")となっているため、[ネットオークションサイトなどで高値で取引されていることがある](../Page/インターネットオークション.md "wikilink")。また、ポニーキャニオンにおける唯一のアルバムであり、次作から[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")にレーベルを移籍した。
 
 ## 収録曲

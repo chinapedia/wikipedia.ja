@@ -1,4 +1,4 @@
-> この記事は[THE SHORT HANDSINGLES COLLECTION](https://ja.wikipedia.org/wiki/THE_SHORT_HANDSINGLES_COLLECTION)から翻訳されています。
+> この記事は[THE SHORT HAND〜SINGLES COLLECTION〜](https://ja.wikipedia.org/wiki/THE_SHORT_HAND〜SINGLES_COLLECTION〜)から翻訳されています。
 
 
 『**THE SHORT HAND〜SINGLES COLLECTION〜**』（ザ ショート ハンド シングルス コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[SOPHIA](../Page/SOPHIA.md "wikilink")の1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

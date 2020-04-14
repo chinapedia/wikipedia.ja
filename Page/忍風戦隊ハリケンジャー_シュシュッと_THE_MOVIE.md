@@ -1,4 +1,4 @@
-> この記事は[  THE MOVIE](https://ja.wikipedia.org/wiki/__THE_MOVIE)から翻訳されています。
+> この記事は[忍風戦隊ハリケンジャー シュシュッと THE MOVIE](https://ja.wikipedia.org/wiki/忍風戦隊ハリケンジャー_シュシュッと_THE_MOVIE)から翻訳されています。
 
 
 『**忍風戦隊ハリケンジャー シュシュッと THE MOVIE**』（にんぷうせんたいハリケンジャー シュシュッと ザ ムービー）は、[2002年](../Page/2002年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[忍風戦隊ハリケンジャー](../Page/忍風戦隊ハリケンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダー龍騎 EPISODE FINAL](https://ja.wikipedia.org/wiki/劇場版_仮面ライダー龍騎_EPISODE_FINAL "wikilink")』。

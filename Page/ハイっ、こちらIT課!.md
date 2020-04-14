@@ -1,4 +1,4 @@
-> この記事は[IT!](https://ja.wikipedia.org/wiki/IT!)から翻訳されています。
+> この記事は[ハイっ、こちらIT課!](https://ja.wikipedia.org/wiki/ハイっ、こちらIT課!)から翻訳されています。
 
 
 **ハイっ、こちらIT課\!**（ハイっ、こちらアイティーか\!、原題: The IT Crowd）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[チャンネル4](../Page/チャンネル4.md "wikilink")製作の[シットコム](../Page/シチュエーション・コメディ.md "wikilink")。[2006年](../Page/2006年.md "wikilink")に第1シリーズ、[2007年](../Page/2007年.md "wikilink")に第2シリーズ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に第3シリーズ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に第4シリーズがそれぞれ6話ずつ放送された。現在第5、第6シーズンの製作が決まっている。監督・脚本は[グレアム・リネハン](https://ja.wikipedia.org/wiki/グレアム・リネハン "wikilink")。

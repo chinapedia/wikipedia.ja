@@ -1,4 +1,4 @@
-> この記事は[PRIDE \(\)](https://ja.wikipedia.org/wiki/PRIDE_\(\))から翻訳されています。
+> この記事は[PRIDE \(今井美樹の曲\)](https://ja.wikipedia.org/wiki/PRIDE_\(今井美樹の曲\))から翻訳されています。
 
 
 「**PRIDE**」（プライド）は、[今井美樹](../Page/今井美樹.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現：[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。

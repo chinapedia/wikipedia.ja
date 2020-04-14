@@ -1,4 +1,4 @@
-> この記事は[DMF31](https://ja.wikipedia.org/wiki/DMF31)から翻訳されています。
+> この記事は[DMF31系エンジン](https://ja.wikipedia.org/wiki/DMF31系エンジン)から翻訳されています。
 
 
 **DMF31系エンジン**（-けいえんじん）は、旧[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄 → [JR](../Page/JR.md "wikilink")グループに継承）の[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")用として開発され、[固定編成客車の集中電源式](https://ja.wikipedia.org/wiki/国鉄20系客車 "wikilink")[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")用エンジンとしても用いられた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。

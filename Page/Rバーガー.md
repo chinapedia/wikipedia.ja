@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[Rバーガー](https://ja.wikipedia.org/wiki/Rバーガー)から翻訳されています。
 
 
 **Rバーガー**（**R BURGER**、アールバーガー）とは、**株式会社アールキューブ**が展開している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ハンバーガー](../Page/ハンバーガー.md "wikilink")[レストラン](../Page/レストラン.md "wikilink")である。

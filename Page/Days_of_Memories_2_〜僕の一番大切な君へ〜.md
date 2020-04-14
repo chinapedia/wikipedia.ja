@@ -1,4 +1,4 @@
-> この記事は[Days of Memories 2 ](https://ja.wikipedia.org/wiki/Days_of_Memories_2_)から翻訳されています。
+> この記事は[Days of Memories 2 〜僕の一番大切な君へ〜](https://ja.wikipedia.org/wiki/Days_of_Memories_2_〜僕の一番大切な君へ〜)から翻訳されています。
 
 
 『**Days of Memories 2 〜僕の一番大切な君へ〜**』（**デイズ オブ メモリーズ 2 ぼくのいちばんたいせつなきみへ**）は、[2006年](../Page/2006年.md "wikilink")2月1日に[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")が[携帯端末](https://ja.wikipedia.org/wiki/携帯端末 "wikilink")向けに配信開始した[恋愛シミュレーション](https://ja.wikipedia.org/wiki/恋愛シミュレーション "wikilink")ゲーム『[Days of Memories](../Page/Days_of_Memories.md "wikilink")』シリーズの第2作である。

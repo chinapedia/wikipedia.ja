@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[セクションZ](https://ja.wikipedia.org/wiki/セクションZ)から翻訳されています。
 
 
 『**セクションZ**』は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")が稼働した[アーケード用の横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。

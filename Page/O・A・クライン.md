@@ -1,4 +1,4 @@
-> この記事は[OA](https://ja.wikipedia.org/wiki/OA)から翻訳されています。
+> この記事は[O・A・クライン](https://ja.wikipedia.org/wiki/O・A・クライン)から翻訳されています。
 
 
 **オーティス・アデルバート・クライン**（**Otis Adelbert Kline**、[1891年](../Page/1891年.md "wikilink") - [1946年](../Page/1946年.md "wikilink")）は、[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")全盛期に活躍した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[冒険小説](../Page/冒険小説.md "wikilink")家、[著作権エージェント](https://ja.wikipedia.org/wiki/著作権エージェント "wikilink")。ただし2009年9月現在、日本語訳されている作品は『火星の無法者』と『火星の黄金仮面』の2作しかない。

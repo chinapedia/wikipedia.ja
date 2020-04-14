@@ -1,4 +1,4 @@
-> この記事は[Kiss Japan TM NETWORK Tour \'87\'88](https://ja.wikipedia.org/wiki/Kiss_Japan_TM_NETWORK_Tour_\'87\'88)から翻訳されています。
+> この記事は[Kiss Japan TM NETWORK Tour \'87〜\'88](https://ja.wikipedia.org/wiki/Kiss_Japan_TM_NETWORK_Tour_\'87〜\'88)から翻訳されています。
 
 
 **Kiss Japan TM NETWORK Tour '87～'88**（キス・ジャパン・ティーエム・ネットワーク・ツアー '87～'88）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[TM NETWORKが](../Page/TM_NETWORK.md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1988年](../Page/1988年.md "wikilink")にかけて行ったツアー。

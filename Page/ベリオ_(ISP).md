@@ -1,4 +1,4 @@
-> この記事は[ \(ISP\)](https://ja.wikipedia.org/wiki/_\(ISP\))から翻訳されています。
+> この記事は[ベリオ \(ISP\)](https://ja.wikipedia.org/wiki/ベリオ_\(ISP\))から翻訳されています。
 
 
 **ベリオ**（Verio）は、かつて存在した[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）、[ホスティングサーバ](../Page/ホスティングサーバ.md "wikilink")提供事業者。[1996年](../Page/1996年.md "wikilink")に[コロラド州](../Page/コロラド州.md "wikilink")[デンバー](../Page/デンバー.md "wikilink")で設立され、[2000年](../Page/2000年.md "wikilink")に[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）傘下の[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")に買収された。

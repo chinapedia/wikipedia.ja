@@ -1,4 +1,4 @@
-> この記事は[ \(The Firm\)](https://ja.wikipedia.org/wiki/_\(The_Firm\))から翻訳されています。
+> この記事は[ザ・ファーム \(The Firm\)](https://ja.wikipedia.org/wiki/ザ・ファーム_\(The_Firm\))から翻訳されています。
 
 
 **ザ・ファーム** (**The Firm**) は、[1984年](../Page/1984年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で結成された[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。元[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）と元[バッド・カンパニー](../Page/バッド・カンパニー.md "wikilink")の[ポール・ロジャース](../Page/ポール・ロジャース.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）が在籍し、1986年まで活躍した。

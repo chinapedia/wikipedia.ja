@@ -1,4 +1,4 @@
-> この記事は[vsUKIUKI!](https://ja.wikipedia.org/wiki/vsUKIUKI!)から翻訳されています。
+> この記事は[〜緒方vs土門〜UKIUKIミ☆漢組!](https://ja.wikipedia.org/wiki/〜緒方vs土門〜UKIUKIミ☆漢組!)から翻訳されています。
 
 
 **緒方vs土門 UKIUKIミ☆漢組\!**（おがたばーさすどもん うきうき おとこぐみ）は､｢M.O.bay -emou.net-｣にて2年間配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組｡[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")､KIRAMEKIミ☆漢組\!同様 [緒方恵美](../Page/緒方恵美.md "wikilink")と[土門仁](../Page/土門仁.md "wikilink")｡

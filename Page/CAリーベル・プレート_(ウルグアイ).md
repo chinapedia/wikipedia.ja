@@ -1,4 +1,4 @@
-> この記事は[CA \(\)](https://ja.wikipedia.org/wiki/CA_\(\))から翻訳されています。
+> この記事は[CAリーベル・プレート \(ウルグアイ\)](https://ja.wikipedia.org/wiki/CAリーベル・プレート_\(ウルグアイ\))から翻訳されています。
 
 
 **クルブ・アトレティコ・リーベル・プレート** () は、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")の首都[モンテビデオ](../Page/モンテビデオ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

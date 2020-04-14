@@ -1,4 +1,4 @@
-> この記事は[ G  ! ](https://ja.wikipedia.org/wiki/_G__!_)から翻訳されています。
+> この記事は[グレンダイザー ゲッターロボG グレートマジンガー 決戦! 大海獣](https://ja.wikipedia.org/wiki/グレンダイザー_ゲッターロボG_グレートマジンガー_決戦!_大海獣)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -173,7 +173,7 @@
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
   - [ロボットガールズZ](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink") - 第9話で主題歌が、プラス第6話で挿入歌「戦いの詩」が使われた。
 
-[Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:ゲッターロボ](https://ja.wikipedia.org/wiki/Category:ゲッターロボ "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:1976年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1976年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")
+[Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:ゲッターロボ](https://ja.wikipedia.org/wiki/Category:ゲッターロボ "wikilink") [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:1976年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1976年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink")
 
 1.
 2.

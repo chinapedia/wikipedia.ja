@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[スーパーロボット大戦W](https://ja.wikipedia.org/wiki/スーパーロボット大戦W)から翻訳されています。
 
 
 『**スーパーロボット大戦W**』（スーパーロボットたいせんダブリュー）は[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

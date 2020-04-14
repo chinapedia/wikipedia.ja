@@ -1,4 +1,4 @@
-> この記事は[Kiss Me \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/Kiss_Me_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[Kiss Me \(Janne Da Arcの曲\)](https://ja.wikipedia.org/wiki/Kiss_Me_\(Janne_Da_Arcの曲\))から翻訳されています。
 
 
 「**Kiss Me**」（キスミー）は、[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に発売した通算18枚目となるシングル。

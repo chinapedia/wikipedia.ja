@@ -1,4 +1,4 @@
-> この記事は[ww](https://ja.wikipedia.org/wiki/ww)から翻訳されています。
+> この記事は[うぇぶたまww](https://ja.wikipedia.org/wiki/うぇぶたまww)から翻訳されています。
 
 
 『**うぇぶたまww**』は、一部[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[PROTXの共同製作](../Page/テレビ東京制作.md "wikilink")。全26回。製作局のテレビ東京では[2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 25:30 - 26:00 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

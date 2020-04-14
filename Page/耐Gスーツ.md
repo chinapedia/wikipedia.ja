@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[耐Gスーツ](https://ja.wikipedia.org/wiki/耐Gスーツ)から翻訳されています。
 
 
 [Anti-G_Suit_MSF830.jpg](https://ja.wikipedia.org/wiki/File:Anti-G_Suit_MSF830.jpg "fig:Anti-G_Suit_MSF830.jpg") **耐Gスーツ**（たいジー スーツ）とは高いG（[加速度](../Page/加速度.md "wikilink")）が[戦闘機](../Page/戦闘機.md "wikilink")[パイロットに掛かることによって発生する](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[ブラックアウトを軽減させるための](https://ja.wikipedia.org/wiki/ブラックアウト_\(航空・宇宙\) "wikilink")[衣類](https://ja.wikipedia.org/wiki/衣類 "wikilink")（[パイロットスーツ](https://ja.wikipedia.org/wiki/パイロットスーツ "wikilink")）である。形状は下肢を被う[ズボン](../Page/ズボン.md "wikilink")状である。戦闘機パイロットを同様に襲う生理現象の[レッドアウト](https://ja.wikipedia.org/wiki/レッドアウト "wikilink")は軽減できない。

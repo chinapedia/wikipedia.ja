@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRばんことみのモンスターナイト](https://ja.wikipedia.org/wiki/CRばんことみのモンスターナイト)から翻訳されています。
 
 
 **CRばんことみのモンスターナイト**（表記機種名「ばんことみのMONSTER NIGHT」）は、[2006年](../Page/2006年.md "wikilink")10月にアビリット（後の[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。

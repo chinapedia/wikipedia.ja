@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJ日立システムズ](https://ja.wikipedia.org/wiki/UFJ日立システムズ)から翻訳されています。
 
 
 **株式会社UFJ日立システムズ**（通称：UHS）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置き](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、主として[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")を対象としたシステムの開発・保守などを行う企業。2002年10月に[UFJ銀行](../Page/UFJ銀行.md "wikilink")（現[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）の子会社である三和システム開発に対して[日立製作所](../Page/日立製作所.md "wikilink")が出資したことにより、三菱東京UFJ銀行（現・[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）及び[日立製作所](../Page/日立製作所.md "wikilink")を株主となった。

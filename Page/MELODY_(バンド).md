@@ -1,4 +1,4 @@
-> この記事は[MELODY \(\)](https://ja.wikipedia.org/wiki/MELODY_\(\))から翻訳されています。
+> この記事は[MELODY \(バンド\)](https://ja.wikipedia.org/wiki/MELODY_\(バンド\))から翻訳されています。
 
 
 **MELODY**（メロディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")に解散したが、[2006年](../Page/2006年.md "wikilink")には一部メンバーで**スーパーウルトラミラクルロックバンド THE★MELODY**として再結成している。

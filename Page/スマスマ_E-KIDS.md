@@ -1,4 +1,4 @@
-> この記事は[ E-KIDS](https://ja.wikipedia.org/wiki/_E-KIDS)から翻訳されています。
+> この記事は[スマスマ E-KIDS](https://ja.wikipedia.org/wiki/スマスマ_E-KIDS)から翻訳されています。
 
 
 **スマスマ E-KIDS**（すますまいーきっず）は[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されている[教育番組](../Page/教育番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[2SS](https://ja.wikipedia.org/wiki/2SS)から翻訳されています。
+> この記事は[第2SS装甲師団](https://ja.wikipedia.org/wiki/第2SS装甲師団)から翻訳されています。
 
 
 **第2SS装甲師団 ダス・ライヒ**（だいにSSそうこうしだん―、*2. SS-Panzer-Division "Das Reich"*）は、[武装親衛隊](../Page/武装親衛隊.md "wikilink")の38個ある[師団](../Page/師団.md "wikilink")のひとつ。よく訓練されたエリート部隊で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の主要な戦闘で大きな役割を果たした。部隊名のダス・ライヒは祖国あるいは国家を意味する。下記の変遷を経て最終的にSS第2装甲師団 ダス・ライヒに発展した。

@@ -1,4 +1,4 @@
-> この記事は[-Team Medical Dragon- \(\)](https://ja.wikipedia.org/wiki/-Team_Medical_Dragon-_\(\))から翻訳されています。
+> この記事は[医龍-Team Medical Dragon- \(テレビドラマ\)](https://ja.wikipedia.org/wiki/医龍-Team_Medical_Dragon-_\(テレビドラマ\))から翻訳されています。
 
 
 『**医龍-Team Medical Dragon-**』（いりゅう チームメディカルドラゴン）は、[永井明](../Page/永井明.md "wikilink")原案、[吉沼美恵](https://ja.wikipedia.org/wiki/吉沼美恵 "wikilink")医療監修、[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")作画による日本の[医療](../Page/医療.md "wikilink")を題材とした[青年漫画](../Page/青年漫画.md "wikilink")を原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。一般に『**医龍**』の部分だけで呼称される。
@@ -757,9 +757,13 @@
 
   - 医事監修・指導は、日本で初めて[バチスタ手術](https://ja.wikipedia.org/wiki/バチスタ手術 "wikilink")を実行した[須磨久善](../Page/須磨久善.md "wikilink")医師、[左心低形成症候群](https://ja.wikipedia.org/wiki/左心低形成症候群 "wikilink")の外科治療に定評がある[佐野俊二](../Page/佐野俊二.md "wikilink")医師、[冠動脈バイパス術](https://ja.wikipedia.org/wiki/冠動脈バイパス術 "wikilink")のスペシャリストで[天皇陛下の執刀を成功させた](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")[天野篤](../Page/天野篤.md "wikilink")医師、ロボット手術の第一人者の[渡邊剛](../Page/渡邊剛.md "wikilink")医師など各手術のスペシャリストが担当している。
 
-## 注釈
+## 脚注
 
-## 出典
+### 参照話数
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -774,7 +778,7 @@
       - [医龍 -Team Medical Dragon- 3](http://fod.fujitv.co.jp/s/genre/drama/ser4262/)
       - [医龍4 -Team Medical Dragon-](http://fod.fujitv.co.jp/s/genre/drama/ser4560/)
 
-[Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:医師を主人公とした作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした作品 "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2010年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2010年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink")
+[Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:医師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:医師を主人公としたテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2010年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2010年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink")
 
 1.
 2.  6月22日は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[W杯特別番組](../Page/2006_FIFAワールドカップ.md "wikilink")、及び[チェコVS](../Page/サッカーチェコ代表.md "wikilink")[イタリア戦を中継のため放送休止した](../Page/サッカーイタリア代表.md "wikilink")。
@@ -783,9 +787,9 @@
 5.
 6.
 7.  第4期の第1話
-8.  第4期最終話エピソードより。
+8.  第4期最終話。
 9.  第2期第1話は写真のみで登場。
-10. 第4期第4・5話エピソードより。
+10. 第4期第4・5話。
 11.
 12.
 13. 第4期では朝田に「カテーテル手術の腕が良い」と絶賛されている（第4期第8話エピソードより）。
@@ -794,11 +798,11 @@
 16.
 17.
 18. L\&P病院前院長とは荒瀬が研修医時代に対立しており、今回行われた大動脈弁置換術でも意見の食い違いが発生し、経営者である岡村が荒瀬の意見に賛同したことで前任院長が解任され、岡村の助言により麻酔医主導の手術システムを実現させるため、院長に就任（第4期第5話エピソードより）した。
-19. 第2期第7話エピソードより。
+19. 第2期第7話。
 20. 本来はダブルルーメンチューブを使用して行うが、設備の乏しい北洋には常備されていなかった。
 21. 理由は「ツレ（小高）に用があって行ったら手術だったから参加した」と発言している。
 22. 荒瀬が急患で運ばれたときには伊集院と加藤は外出中であり、朝田は同じ症状の患者にオペ中であった。
-23. 第4期第5話エピソードより。
+23. 第4期第5話。
 24.
 25. 第2期後にウイルス性[心筋炎](../Page/心筋炎.md "wikilink")を発症し死亡。
 26.
@@ -809,7 +813,7 @@
 31. その後、アメリカで取得した[医師免許](https://ja.wikipedia.org/wiki/医師免許 "wikilink")が発見され、誤解であることが判明。
 32.
 33. 朝田に「外科医の癖を見抜いて的確に判断し対応できる」と言わしめるほどの腕の持ち主（第3期最終話エピソードより）。
-34. 第3期第9話エピソードより。
+34. 第3期第9話。
 35. 元明真大学病院血管外科医。
 36.
 37. 桜井を救う事と前回の周産期心筋症の患者を助けた恩を返すためでもある。

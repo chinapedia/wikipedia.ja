@@ -1,4 +1,4 @@
-> この記事は[FACE ](https://ja.wikipedia.org/wiki/FACE_)から翻訳されています。
+> この記事は[FACE 時代をつくる人々](https://ja.wikipedia.org/wiki/FACE_時代をつくる人々)から翻訳されています。
 
 
 『**FACE 〜時代をつくる人々〜**』（フェイス・じだいをつくるひとびと）は、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[毎日放送で放送されている](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[ミニ](../Page/ミニ番組.md "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[ハイビジョン制作を実施している](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")。

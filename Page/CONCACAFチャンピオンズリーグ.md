@@ -1,4 +1,4 @@
-> この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
+> この記事は[CONCACAFチャンピオンズリーグ](https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ)から翻訳されています。
 
 
 **CONCACAFチャンピオンズリーグ**（コンカカフチャンピオンズリーグ、）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝チームには[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")への出場権が与えられる。
@@ -453,7 +453,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANLティグレス</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2018" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/CONCACAFチャンピオンズリーグ2018.md" title="wikilink">2018</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></strong></p></td>
 <td><p><strong>2 - 1</strong><br />
 <strong>1 - 2</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
@@ -461,7 +461,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="../Page/トロントFC.md" title="wikilink">トロント</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2019" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/CONCACAFチャンピオンズリーグ2019.md" title="wikilink">2019</a></p></td>
 <td><p><strong><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></strong></p></td>
 <td><p><strong>1 - 0</strong><br />
 <strong>1 - 1</strong></p></td>

@@ -1,4 +1,4 @@
-> この記事は[Dragonfly \(\)](https://ja.wikipedia.org/wiki/Dragonfly_\(\))から翻訳されています。
+> この記事は[Dragonfly \(島谷ひとみの曲\)](https://ja.wikipedia.org/wiki/Dragonfly_\(島谷ひとみの曲\))から翻訳されています。
 
 
 「**Dragonfly**」（ドラゴンフライ）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

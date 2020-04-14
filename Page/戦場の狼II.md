@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[戦場の狼II](https://ja.wikipedia.org/wiki/戦場の狼II)から翻訳されています。
 
 
 『**戦場の狼II**』は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版のタイトルは『*MERCS*』。

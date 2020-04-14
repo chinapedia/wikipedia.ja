@@ -1,4 +1,4 @@
-> この記事は[ NATURE](https://ja.wikipedia.org/wiki/_NATURE)から翻訳されています。
+> この記事は[へきる、淳司 NATURE](https://ja.wikipedia.org/wiki/へきる、淳司_NATURE)から翻訳されています。
 
 
 **へきる、淳司 NATURE**（へきる、じゅんじ ネイチャー）は、[FM-FUJIを製作局に](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[2007年](../Page/2007年.md "wikilink")（平成19年）[4月1日](../Page/4月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")まで放送されていたラジオ番組である。
@@ -91,7 +91,7 @@
 ## 外部リンク
 
   - [日本ナレーション演技研究所](http://www.nichinare.com/)
-  - [ラジオの収録現場を直撃！ 人気番組『へきる、淳司　NATURE』出演中の椎名へきるさん、間島淳司さんに密着取材［後編］](http://www.animate.tv/school/interview_details.php?s_id=A01&id=1251766381)
-  - [ラジオの収録現場を直撃！ 人気番組『へきる、淳司　NATURE』出演中の椎名へきるさん、間島淳司さんに密着取材［後編］](http://www.animate.tv/school/interview_details.php?s_id=A01&id=1251766329)
 
+  -
+  -
 [Category:日本ナレーション演技研究所のラジオ番組](https://ja.wikipedia.org/wiki/Category:日本ナレーション演技研究所のラジオ番組 "wikilink")

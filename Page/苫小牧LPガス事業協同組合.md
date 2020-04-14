@@ -1,4 +1,4 @@
-> この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
+> この記事は[苫小牧LPガス事業協同組合](https://ja.wikipedia.org/wiki/苫小牧LPガス事業協同組合)から翻訳されています。
 
 
 **苫小牧LPガス事業協同組合**（とまこまいエルピーガスじぎょうきょうどうくみあい）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")にある[プロパンガス](https://ja.wikipedia.org/wiki/プロパンガス "wikilink")を主力とするエネルギー販売会社である。苫小牧市内のプロパンガス販売店26社が出資している。

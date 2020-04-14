@@ -1,4 +1,4 @@
-> この記事は[KINYA \(\)](https://ja.wikipedia.org/wiki/KINYA_\(\))から翻訳されています。
+> この記事は[KINYA \(タレント\)](https://ja.wikipedia.org/wiki/KINYA_\(タレント\))から翻訳されています。
 
 
 **KINYA**（きんや、[1949年](../Page/1949年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[マルチタレント](../Page/マルチタレント.md "wikilink")。
@@ -72,7 +72,7 @@
 
 ## 外部リンク
 
-  - [オカマのKINYAよ！](http://ameblo.jp/kinyablog/)
+  - [オカマのKINYAよ！](https://ameblo.jp/kinyablog/)
 
 [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:ゲイの人物](https://ja.wikipedia.org/wiki/Category:ゲイの人物 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

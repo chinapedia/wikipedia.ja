@@ -31,7 +31,7 @@
 | 2010年 | **[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")**                                                               | FEIDA-WAN                                                                                                             |
 | 2011年 | **晋平太**                                                                                                               | NAIKA MC                                                                                                              |
 | 2012年 | **[R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")** <small>(コッペパン)</small>                             | MOL53                                                                                                                 |
-| 2013年 | **R-指定** <small>(Creepy nuts)</small>                                                                                 | [DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")                                                             |
+| 2013年 | **R-指定** <small>([Creepy nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink"))</small>                         | [DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")                                                             |
 | 2014年 | **R-指定** <small>(Creepy nuts)</small>                                                                                 | GOTIT                                                                                                                 |
 | 2015年 | **[CHICO CARLITO](https://ja.wikipedia.org/wiki/CHICO_CARLITO "wikilink")**                                           | DOTAMA                                                                                                                |
 | 2016年 | **NAIKA MC**                                                                                                          | [ヤングたかじん](https://ja.wikipedia.org/wiki/呂布カルマ "wikilink")                                                             |
@@ -221,7 +221,7 @@
   - 広島予選優勝：BUPPON(THE AXIS RECORDS) 四年振り二回目
   - 仙台予選優勝：GIL(The PB$) 初出場
   - 金沢予選優勝：Jony the sonata(I.R.I) 四年連続四回目
-  - 埼玉予選優勝：TK da 黒ぶち(大脱走/WORLD WIDE RECORDING) 初出場
+  - 埼玉予選優勝：[TKda黒ぶち](https://ja.wikipedia.org/wiki/TKda黒ぶち "wikilink")(大脱走/WORLD WIDE RECORDING) 初出場
   - 青森予選優勝：JUNKY(T.A.G) 初出場
   - 福井予選優勝：BUCHI DA MIC(BTP/HHC /TSF) 初出場
   - 京都予選優勝：早雲(ZERO-Gravity) 初出場
@@ -300,7 +300,7 @@
   - 山形予選優勝：KOKI(Local steez) 初出場
   - 東京予選優勝：MCニガリa.k.a赤い稲妻(無所属) 初出場
   - 旭川予選優勝：Ry-lax(BCDMG) 初出場
-  - 愛知予選優勝：呂不カルマ(JET CITY PEOPLE) 二年振り三回目
+  - 愛知予選優勝：呂布カルマ(JET CITY PEOPLE) 二年振り三回目
   - 埼玉予選優勝：スナフキン(彩-IRODORI-) 初出場
   - 千葉予選優勝：輪入道(赤落) 四年連続四回目
   - 岐阜予選優勝：MAC-T(FREE DIAL FOUNDATION) 二年連続二回目
@@ -547,7 +547,7 @@
   - 香川予選優勝：KUYA MIGUEL(LOCO TURTLE) 二年連続二回目
   - 愛媛予選優勝：SKRYU(大街道サイファー) 二年連続二回目
   - 福井予選優勝：U-t.o.(Bad Mermaid Familia.) 初出場
-  - 岐阜予選優勝：裂固(HIKIGANE SOUND) 初出場
+  - 岐阜予選優勝：[裂固](https://ja.wikipedia.org/wiki/裂固 "wikilink")(HIKIGANE SOUND) 初出場
   - 鳥取予選優勝：JAKE(因幡レコード) 二年振り四回目
   - 兵庫予選優勝：KATY(寺子屋ネオンガイド) 初出場
   - 沖縄予選優勝：MAVEL(604) 三年振り三回目
@@ -564,7 +564,9 @@
 
   - UMB2020 GUERRILLA AREA 九州優勝：智大(座敷屋) \[23\]
   - UMB2020 GUERRILLA AREA 北陸・甲信越優勝：優勝者無し\[24\]\[25\]
-  - ULTIMATE MC BATTLE® 2020 THE CHOICE IS YOURS Vol4優勝：11月8日開催予定\[26\]
+  - UMB2020 GUERRILLA AREA 関東優勝：5月8日開催予定\[26\]
+  - ULTIMATE MC BATTLE® 2020 THE CHOICE IS YOURS Vol4優勝：11月8日開催予定\[27\]
+  - 茨城予選優勝：4月19日開催予定
 
 ## DVD
 
@@ -859,3 +861,4 @@ OSAKA NAMBA HATCH</strong></p></td>
 24.
 25. コロナウイルスの影響を考慮し、開催中止
 26.
+27.

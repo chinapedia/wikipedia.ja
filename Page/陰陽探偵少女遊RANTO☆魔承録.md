@@ -1,4 +1,4 @@
-> この記事は[RANTO](https://ja.wikipedia.org/wiki/RANTO)から翻訳されています。
+> この記事は[陰陽探偵少女遊RANTO☆魔承録](https://ja.wikipedia.org/wiki/陰陽探偵少女遊RANTO☆魔承録)から翻訳されています。
 
 
 『**陰陽探偵少女遊 RANTO☆魔承録**』（おんみょうたんていたかなしらんとましょうろく）は、『[月刊コミックドラゴン](../Page/月刊コミックドラゴン.md "wikilink")』[1999年](../Page/1999年.md "wikilink")1月号から[2001年](../Page/2001年.md "wikilink")12月号にかけて連載された、[あかほりさとる](../Page/あかほりさとる.md "wikilink")原作、[奥田ひとし](../Page/奥田ひとし.md "wikilink")作画による漫画。[角川書店](../Page/角川書店.md "wikilink")から単行本が発行、全5巻。

@@ -8,7 +8,7 @@
   - それまでにもシングル・コレクション『[COLLECTION](../Page/COLLECTION.md "wikilink")』シリーズ（I〜III）やバラード・ベスト『[Ballads](../Page/Ballads_\(中山美穂のアルバム\).md "wikilink")』『[Ballads II](../Page/Ballads_II.md "wikilink")』はリリースしていたが、デビュー13年目にして初の本格的なベスト・アルバムである。
   - 全シングルの中から本人が選曲した15曲で、ミリオンヒット2曲を含むドラマや映画主題歌、CMソングで大半が占められている。
   - 前年のシングル「[未来へのプレゼント](../Page/未来へのプレゼント.md "wikilink")」がヒットした後ということもあり、オリコンランキングでは当時人気絶頂であった[globe](https://ja.wikipedia.org/wiki/globe "wikilink")や[Every Little Thingに次ぐ初登場第](../Page/Every_Little_Thing.md "wikilink")3位を獲得し、ロングセラーとなった。
-  - ジャケットは、本人が大好きという天使のコスチュームで海辺ではしゃぐ姿である。[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")にて撮影した。
+  - ジャケットは、本人が大好きという天使のコスチュームで海辺ではしゃぐ姿である。[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")にて撮影した。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
   - 初回限定盤は特殊パッケージ（BOX仕様）、全88ページフルカラー完全ディスコグラフィー付になっている。ディスコグラフィーはシングルに関しては17センチEP時代の作品は全て[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")にて再発売もしくは同時発売していたため全て8センチCDの写真が使われている。全作品規格番号入り。
   - テレビCMでは1986年発売のアルバム『[SUMMER BREEZE](https://ja.wikipedia.org/wiki/SUMMER_BREEZE "wikilink")』収録の「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」をバックに“中山美穂 初のベストアルバム”という謳い文句で宣伝されたが、実際に当アルバムに収録されている「You're My Only Shinin' Star」は1988年発売のシングル・ヴァージョンである。
 

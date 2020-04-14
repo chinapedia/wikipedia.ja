@@ -1,4 +1,4 @@
-> この記事は[Sweet Hertz](https://ja.wikipedia.org/wiki/Sweet_Hertz)から翻訳されています。
+> この記事は[長澤まさみSweet Hertz](https://ja.wikipedia.org/wiki/長澤まさみSweet_Hertz)から翻訳されています。
 
 
 『**長澤まさみ Sweet Hertz**』（ながさわまさみ スイートヘルツ ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに放送されているラジオ番組。[2007年](../Page/2007年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")放送開始、[2012年](../Page/2012年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")終了。放送開始から2年間『**長澤まさみ タイトル未定（仮）**』（ながさわまさみ タイトルみてい かっこかり）と仮題のままで放送されていたが、[2009年](../Page/2009年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分よりタイトルが変更（正式決定）された。
@@ -48,7 +48,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - 毎週土曜日　16時00分 - 16時30分
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - 毎週土曜日　23時00分 - 23時30分
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink") - 毎週[月曜日](../Page/月曜日.md "wikilink") (1週遅れ)　26時30分 - 27時00分　※2011年9月26日放送分でネット終了。
-  - [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink") - 毎週木曜日　24時00分 - 24時30分
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink") - 毎週木曜日　24時00分 - 24時30分
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - 毎週[水曜日](../Page/水曜日.md "wikilink")　23時30分 - 24時00分
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") - 毎週土曜日　22時30分 - 23時00分
 

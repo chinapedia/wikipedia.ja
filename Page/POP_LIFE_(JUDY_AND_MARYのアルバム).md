@@ -1,4 +1,4 @@
-> この記事は[POP LIFE \(JUDY AND MARY\)](https://ja.wikipedia.org/wiki/POP_LIFE_\(JUDY_AND_MARY\))から翻訳されています。
+> この記事は[POP LIFE \(JUDY AND MARYのアルバム\)](https://ja.wikipedia.org/wiki/POP_LIFE_\(JUDY_AND_MARYのアルバム\))から翻訳されています。
 
 
 『**POP LIFE**』（ポップ・ライフ）は[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。

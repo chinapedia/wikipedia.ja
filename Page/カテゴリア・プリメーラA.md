@@ -1,9 +1,9 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[カテゴリア・プリメーラA](https://ja.wikipedia.org/wiki/カテゴリア・プリメーラA)から翻訳されています。
 
 
 **カテゴリア・プリメーラA**（**Categoría Primera A** ）は、[コロンビア](../Page/コロンビア.md "wikilink")における[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の最上位リーグである。20クラブが参戦する。
 
-1947年、Adefútbolのアルフォンソ・セニオル・ケベード会長によって創設された。1947年から1948年にかけて政治不安によって中止されたため、最初のシーズンは1948年に行われた。1968年には[アペルトゥーラとクラウスーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")（前後期制）を採用し、前後期終了後に優勝決定戦を行って優勝クラブを決めた。2002年からは優勝決定戦を行わず、前後期それぞれの最上位クラブに優勝カップが与えられている。1989年には審判協会が原因でリーグ戦中盤にリーグが中止された。
+1947年、Adefútbolのアルフォンソ・セニオル・ケベード会長によって創設された。1947年から1948年にかけて政治不安によって中止されたため、最初のシーズンは1948年に行われた。1968年には[アペルトゥーラとクラウスーラ](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink")（前後期制）を採用し、前後期終了後に優勝決定戦を行って優勝クラブを決めた。2002年からは優勝決定戦を行わず、前後期それぞれの最上位クラブに優勝カップが与えられている。1989年には審判の暗殺が原因でポストシーズンが中止され、優勝チームを決定できなかった。
 
 ## 形式
 
@@ -13,7 +13,7 @@
 
 ### 決勝
 
-決勝はホーム&アウェーの2試合で行われ、その合計スコアで勝るクラブが優勝となる。合計スコアが並んだ場合は即座にPK戦が行われ、アウェイゴールルールは適用されない。
+決勝はホーム&アウェーの2試合で行われ、その合計スコアで勝るクラブが優勝となる。合計スコアが並んだ場合は即座にPK戦が行われ、[アウェイゴールルール](https://ja.wikipedia.org/wiki/アウェイゴールルール "wikilink")は適用されない。
 
 ## 2016シーズン所属クラブ
 
@@ -42,7 +42,7 @@
 
 ## 歴代優勝クラブ
 
-14クラブに優勝経験があり、そのうち8クラブは複数回優勝している。[ミジョナリオスが最多](../Page/ミジョナリオスFC.md "wikilink")14回の優勝を誇り、[デポルティーボ・カリ](../Page/デポルティーボ・カリ.md "wikilink")、[アトレティコ・ナシオナル](../Page/アトレティコ・ナシオナル.md "wikilink")、[アメリカ・デ・カリ](https://ja.wikipedia.org/wiki/アメリカ・デ・カリ "wikilink")、ミジョナリオスの4クラブだけが連覇を経験している。アメリカ・デ・カリは最多連覇記録（1982年から1986年まで5連覇）を保持している。2002年にはアペルトゥーラ（前期リーグ）とフィナリサシオン（後期リーグ）による2期制が導入された。2007年にはアトレティコ・ナシオナルが前後期完全優勝を果たした。
+14クラブに優勝経験があり、そのうち9クラブは複数回優勝している。[アメリカ・デ・カリ](https://ja.wikipedia.org/wiki/アメリカ・デ・カリ "wikilink")が最多16回の優勝を誇り、[デポルティーボ・カリ](../Page/デポルティーボ・カリ.md "wikilink")、[アトレティコ・ナシオナル](../Page/アトレティコ・ナシオナル.md "wikilink")、アメリカ・デ・カリ、[ミジョナリオス](../Page/ミジョナリオスFC.md "wikilink")、[ジュニオールの](https://ja.wikipedia.org/wiki/アトレティコ・ジュニオール "wikilink")5クラブが連覇を経験している。アメリカ・デ・カリは最多連覇記録（1982年から1986年まで5連覇）を保持している。2002年にはアペルトゥーラ（前期リーグ）とフィナリサシオン（後期リーグ）による2期制が導入された。2007年にはアトレティコ・ナシオナルが初の前後期完全優勝を果たした。
 
   - Aはアペルトゥーラ、Fはフィナリサシオン
 
@@ -79,7 +79,7 @@
 <td><p><a href="../Page/オンセ・カルダス.md" title="wikilink">オンセ・カルダス</a> (1)</p></td>
 <td><p><a href="../Page/ミジョナリオスFC.md" title="wikilink">ミジョナリオス</a></p></td>
 <td><p>カシミロ・アバロス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 <td><p><strong>27</strong></p></td>
 </tr>
 <tr class="even">
@@ -254,7 +254,7 @@
 <td><p><a href="../Page/アトレティコ・ナシオナル.md" title="wikilink">アトレティコ・ナシオナル</a></p></td>
 <td><p>ウーゴ・オラシオ・ロンデロ<br />
  アポリナール・パニアガ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a><br />
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a><br />
 / <a href="../Page/ククタ・デポルティーボFC.md" title="wikilink">ククタ・デポルティーボ</a></p></td>
 <td><p><strong>30</strong></p></td>
 </tr>
@@ -288,7 +288,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・サンタフェ" title="wikilink">サンタフェ</a> (6)</p></td>
 <td><p><a href="../Page/ミジョナリオスFC.md" title="wikilink">ミジョナリオス</a></p></td>
 <td><p>ホルヘ・ラモン・カセレス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 <td><p><strong>35</strong></p></td>
 </tr>
 <tr class="odd">
@@ -328,7 +328,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・ジュニオール" title="wikilink">ジュニオール</a> (2)</p></td>
 <td><p><a href="../Page/デポルティーボ・カリ.md" title="wikilink">デポルティーボ・カリ</a></p></td>
 <td><p>セルヒオ・シエーラ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 <td><p><strong>26</strong></p></td>
 </tr>
 <tr class="even">
@@ -398,7 +398,7 @@
 <tr class="even">
 <td><p>1989</p></td>
 <td><center>
-<p><em>開催されず</em></p>
+<p>試合中止により、優勝チームを決定できず</p>
 </center></td>
 <td></td>
 <td></td>
@@ -518,7 +518,7 @@
 <td><p>オルランド・バジェステロス<br />
  <a href="https://ja.wikipedia.org/wiki/ミルトン・ロドリゲス" title="wikilink">ミルトン・ロドリゲス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・ブカラマンガ" title="wikilink">アトレティコ・ブカラマンガ</a><br />
-<a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 <td><p><strong>13</strong></p></td>
 </tr>
 <tr class="odd">
@@ -542,7 +542,7 @@
 <td><p>A</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">メデジン</a> (4)</p></td>
 <td><p><a href="../Page/アトレティコ・ナシオナル.md" title="wikilink">アトレティコ・ナシオナル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・エレーラ" title="wikilink">セルヒオ・エレーラ</a></p></td>
+<td><p><a href="../Page/セルヒオ・エレーラ.md" title="wikilink">セルヒオ・エレーラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ・デ・カリ" title="wikilink">アメリカ・デ・カリ</a></p></td>
 </tr>
 <tr class="even">
@@ -800,7 +800,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・ジュニオール" title="wikilink">ジュニオール</a> (8)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">メデジン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャーマン・カノ" title="wikilink">ジャーマン・カノ</a></p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">インデペンディエンテ・メデジン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">インデペンディエンテ・メデジン</a></p></td>
 <td><p><strong>20</strong></p></td>
 </tr>
 <tr class="odd">
@@ -815,7 +815,7 @@
 <td><p>F</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ・デ・カリ" title="wikilink">アメリカ・デ・カリ</a> (14)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・ジュニオール" title="wikilink">ジュニオール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャーマン・カノ" title="wikilink">ジャーマン・カノ</a> <a href="https://ja.wikipedia.org/wiki/Michael_Rangel" title="wikilink">{{Flagicon</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャーマン・カノ" title="wikilink">ジャーマン・カノ</a>  <a href="https://ja.wikipedia.org/wiki/Michael_Rangel" title="wikilink">Michael Rangel</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・メデジン" title="wikilink">インデペンディエンテ・メデジン</a></p></td>
 <td><p><strong>13</strong></p></td>
 </tr>
@@ -870,7 +870,7 @@
 </tr>
 <tr class="even">
 <td><p>'''1997</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・ウイラ" title="wikilink">アトレティコ・ウイラ</a></p></td>
 </tr>
 <tr class="odd">
@@ -886,7 +886,7 @@
 <tr class="odd">
 <td><p>'''2000</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルテス・キンディオ" title="wikilink">デポルテス・キンディオ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''2001</p></td>
@@ -942,7 +942,7 @@
 </tr>
 <tr class="even">
 <td><p>'''2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・ペレイラ" title="wikilink">デポルティーボ・ペレイラ</a><br />
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a><br />
 <a href="https://ja.wikipedia.org/wiki/アメリカ・デ・カリ" title="wikilink">アメリカ・デ・カリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・パスト" title="wikilink">デポルティーボ・パスト</a><br />
 <a href="https://ja.wikipedia.org/wiki/パトリオタスFC" title="wikilink">パトリオタス</a></p></td>

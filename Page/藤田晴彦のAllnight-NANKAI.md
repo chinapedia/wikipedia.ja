@@ -1,4 +1,4 @@
-> この記事は[Allnight-NANKAI](https://ja.wikipedia.org/wiki/Allnight-NANKAI)から翻訳されています。
+> この記事は[藤田晴彦のAllnight-NANKAI](https://ja.wikipedia.org/wiki/藤田晴彦のAllnight-NANKAI)から翻訳されています。
 
 
 **[藤田晴彦](https://ja.wikipedia.org/wiki/藤田晴彦 "wikilink")のAllnight-NANKAI**（ふじたはるひこのオールナイトなんかい）は、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")のラジオ番組。放送曜日の上での日曜日最終番組である。現在、番組名は変更になっているが、ここではそれも含めて扱う。

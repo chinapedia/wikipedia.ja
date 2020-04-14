@@ -1,4 +1,4 @@
-> この記事は[NetBurst](https://ja.wikipedia.org/wiki/NetBurst)から翻訳されています。
+> この記事は[NetBurstマイクロアーキテクチャ](https://ja.wikipedia.org/wiki/NetBurstマイクロアーキテクチャ)から翻訳されています。
 
 
 **NetBurstマイクロアーキテクチャ**（ネットバースト・マイクロアーキテクチャ、NetBurst Microarchitecture）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の8世代目の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系として開発された[CPU](../Page/CPU.md "wikilink")の基本設計である。

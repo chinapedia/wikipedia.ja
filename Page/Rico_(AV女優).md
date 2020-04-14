@@ -1,4 +1,4 @@
-> この記事は[Rico \(AV\)](https://ja.wikipedia.org/wiki/Rico_\(AV\))から翻訳されています。
+> この記事は[Rico \(AV女優\)](https://ja.wikipedia.org/wiki/Rico_\(AV女優\))から翻訳されています。
 
 
 **Rico**（りこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。

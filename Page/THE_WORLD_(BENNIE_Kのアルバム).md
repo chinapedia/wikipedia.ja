@@ -1,4 +1,4 @@
-> この記事は[THE WORLD \(BENNIE K\)](https://ja.wikipedia.org/wiki/THE_WORLD_\(BENNIE_K\))から翻訳されています。
+> この記事は[THE WORLD \(BENNIE Kのアルバム\)](https://ja.wikipedia.org/wiki/THE_WORLD_\(BENNIE_Kのアルバム\))から翻訳されています。
 
 
 『**THE WORLD**』（ザ・ワールド）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")5枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。

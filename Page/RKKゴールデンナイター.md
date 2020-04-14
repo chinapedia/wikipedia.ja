@@ -1,4 +1,4 @@
-> この記事は[RKK](https://ja.wikipedia.org/wiki/RKK)から翻訳されています。
+> この記事は[RKKゴールデンナイター](https://ja.wikipedia.org/wiki/RKKゴールデンナイター)から翻訳されています。
 
 
 **RKKゴールデンナイター**（アールケーケーゴールデンナイター）は、RKK[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")ラジオ局で放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")である。
@@ -21,7 +21,7 @@
 
   - 火曜：【[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")】／[RKBエキサイトホークス](../Page/RKBエキサイトホークス.md "wikilink")（キー局：[RKBラジオ](../Page/RKBラジオ.md "wikilink")）
       - ソフトバンク戦については[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")のヤクルト主催試合以外を中継する。ソフトバンク戦が非開催またはデーゲーム、もしくはヤクルト主催試合の場合、RKBが指定する中継を放送
-  - 水曜：【福岡ソフトバンクホークス】／[KBCホークスナイター](../Page/KBCホークスナイター.md "wikilink")（キー局：[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+  - 水曜：【福岡ソフトバンクホークス】／[KBCホークスナイター](../Page/KBCホークスナイター.md "wikilink")（キー局：[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
       - 2012年以降は火曜とは異なりビジターゲームの中継カードに制限が設けられた。ソフトバンク戦が非開催またはデーゲーム、もしくはKBCのソフトバンク戦中継が文化放送（西武戦）・STVラジオ（日本ハム戦）・TBCラジオ（楽天戦）・東海ラジオ（セ・パ交流戦の中日戦）・RCCラジオ（セ・パ交流戦の広島戦）のネット受けの場合には、NRN全国ネットの中継を放送（ただし中継対象外カードも、全国放送となった場合はそのまま中継する）。2011年まではどの対戦カードでも中継していた。
   - 木・金曜：【[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")など全球団主催試合】／[NRNナイター](../Page/全国ラジオネットワーク.md "wikilink")（[ニッポン放送ショウアップナイター](../Page/ニッポン放送ショウアップナイター.md "wikilink")、キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
 

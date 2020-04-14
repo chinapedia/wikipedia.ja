@@ -1,4 +1,4 @@
-> この記事は[Goo](https://ja.wikipedia.org/wiki/Goo)から翻訳されています。
+> この記事は[Goo辞書](https://ja.wikipedia.org/wiki/Goo辞書)から翻訳されています。
 
 
 **goo辞書**（グーじしょ）は、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が運営するポータルサイト[goo](https://ja.wikipedia.org/wiki/goo "wikilink")において提供されている[辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")検索サービス。国語・類語・英和・和英をはじめとする計30辞書を検索できる。主な辞書は[三省堂](../Page/三省堂.md "wikilink")および[小学館](../Page/小学館.md "wikilink")のものを使用している。また、英和辞書では一部単語の発音を聞くことができる\[1\]。

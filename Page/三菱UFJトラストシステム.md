@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJトラストシステム](https://ja.wikipedia.org/wiki/三菱UFJトラストシステム)から翻訳されています。
 
 
 **三菱UFJトラストシステム株式会社**（みつびしユーエフジェイトラストシステム、）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）。通称は**MUSK**。

@@ -1237,7 +1237,7 @@ Rance IV -教団の遺産- 後日談</p></td>
   - [RanceIX公式ページ](http://www.alicesoft.com/rance9/)
   - [ランスワールドノート](http://www.alicesoft.com/haniwa/rance/)
 
-[Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink") [Category:アダルトゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:アダルトゲームのシリーズ "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink")
+[Category:アダルトゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:アダルトゲームのシリーズ "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:アリスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:アリスソフトのゲームソフト "wikilink")
 
 1.  「ランスなぜなに質問箱」『ハニホンX』アリスソフト、2018年8月、p. 43
 2.

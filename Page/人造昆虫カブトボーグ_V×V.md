@@ -1,4 +1,4 @@
-> この記事は[ VV](https://ja.wikipedia.org/wiki/_VV)から翻訳されています。
+> この記事は[人造昆虫カブトボーグ V×V](https://ja.wikipedia.org/wiki/人造昆虫カブトボーグ_V×V)から翻訳されています。
 
 
 『**人造昆虫カブトボーグ V×V**』（じんぞうこんちゅうカブトボーグ ビクトリーバイビクトリー、Artificial insect KABUTO BORG Victory by Victory）は、[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")（BSデジタル）で毎週木曜日18時30分 - 19時00分に放送されていたテレビアニメ。同年10月10日からは[アニマックス](../Page/アニマックス.md "wikilink")（[CS](../Page/衛星放送.md "wikilink")）でも火曜日18時30分 - 19時00分に放送していた。全52話。
@@ -1408,7 +1408,7 @@ Hwang Young Sik</p></td>
 <td><p>女の子（<a href="../Page/樋口智恵子.md" title="wikilink">樋口智恵子</a>）<br />
 園長先生（長浜満里子）<br />
 園児A - D<br />
-（<a href="../Page/伊藤実華.md" title="wikilink">伊藤実華</a>、菊池こころ、<a href="https://ja.wikipedia.org/wiki/左美紀" title="wikilink">左美紀</a>、大川朝美）</p></td>
+（<a href="../Page/伊藤実華.md" title="wikilink">伊藤実華</a>、菊池こころ、<a href="https://ja.wikipedia.org/wiki/左髙美紀" title="wikilink">左髙美紀</a>、大川朝美）</p></td>
 <td><p>●リュウセイ 対 園児達○<br />
 ○リュウセイ 対 園児達●</p></td>
 <td><p>5月17日</p></td>
@@ -1416,7 +1416,7 @@ Hwang Young Sik</p></td>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>絆! ハンギング・アナザー・エグゼクティブディシジョン</p></td>
-<td><p>子供A・子供B（<a href="https://ja.wikipedia.org/wiki/左髙美紀" title="wikilink">左髙美紀</a>、大川朝美）<br />
+<td><p>子供A・子供B（左髙美紀、大川朝美）<br />
 絵本のお姉さん（中川里江）</p></td>
 <td><p>○リュウセイ 対 しろくまピーク●</p></td>
 <td><p>5月24日</p></td>

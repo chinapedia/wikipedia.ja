@@ -1,4 +1,4 @@
-> この記事は[GZ](https://ja.wikipedia.org/wiki/GZ)から翻訳されています。
+> この記事は[トヨタ・GZエンジン](https://ja.wikipedia.org/wiki/トヨタ・GZエンジン)から翻訳されています。
 
 
 **トヨタ・GZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[V型12気筒](../Page/V型12気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

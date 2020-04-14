@@ -1,4 +1,4 @@
-> この記事は[DOLLS \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/DOLLS_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[DOLLS \(Janne Da Arcの曲\)](https://ja.wikipedia.org/wiki/DOLLS_\(Janne_Da_Arcの曲\))から翻訳されています。
 
 
 「**DOLLS**」（ドールズ）は、[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2004年](../Page/2004年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に発売した通算19枚目となるシングル。同年7月7日には、5thアルバム『[ARCADIA](../Page/ARCADIA_\(Janne_Da_Arcのアルバム\).md "wikilink")』と共にこのシングルが12cmCDとして再発売された。

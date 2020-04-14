@@ -1,4 +1,4 @@
-> この記事は[PRIDE](https://ja.wikipedia.org/wiki/PRIDE)から翻訳されています。
+> この記事は[PRIDE王](https://ja.wikipedia.org/wiki/PRIDE王)から翻訳されています。
 
 
 『**PRIDE王**』（プライドキング）は、[2001年](../Page/2001年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")まで[東海テレビで放送された](../Page/東海テレビ放送.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

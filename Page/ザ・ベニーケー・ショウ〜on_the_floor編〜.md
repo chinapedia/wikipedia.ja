@@ -1,4 +1,4 @@
-> この記事は[on the floor](https://ja.wikipedia.org/wiki/on_the_floor)から翻訳されています。
+> この記事は[ザ・ベニーケー・ショウ〜on the floor編〜](https://ja.wikipedia.org/wiki/ザ・ベニーケー・ショウ〜on_the_floor編〜)から翻訳されています。
 
 
 『**ザ・ベニーケー・ショウ～on the floor編～**』（-オン・ザ・フロアへん）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")2枚目のミニアルバム。[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")発売。

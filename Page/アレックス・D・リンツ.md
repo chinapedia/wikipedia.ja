@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[アレックス・D・リンツ](https://ja.wikipedia.org/wiki/アレックス・D・リンツ)から翻訳されています。
 
 
 **アレックス・D・リンツ**（**Alex D. Linz**, [1989年](../Page/1989年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[俳優](../Page/俳優.md "wikilink")。

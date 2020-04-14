@@ -84,4 +84,4 @@
   - [公式サイト](http://www.day-track.com/)
 
   -
-[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:生年不明](https://ja.wikipedia.org/wiki/Category:生年不明 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

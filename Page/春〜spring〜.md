@@ -1,4 +1,4 @@
-> この記事は[spring](https://ja.wikipedia.org/wiki/spring)から翻訳されています。
+> この記事は[春〜spring〜](https://ja.wikipedia.org/wiki/春〜spring〜)から翻訳されています。
 
 
 『**春〜spring〜**』（はる -スプリング-）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")2枚目のシングル。

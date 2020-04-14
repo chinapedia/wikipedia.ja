@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[CSスダン・アルデンヌ](https://ja.wikipedia.org/wiki/CSスダン・アルデンヌ)から翻訳されています。
 
 
 **クルブ・スポルティフ・スダン・アルデンヌ**（**Club Sportif Sedan Ardennes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[スダン](../Page/スダン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

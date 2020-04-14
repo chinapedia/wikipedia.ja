@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[チャールズ・F・ワレン](https://ja.wikipedia.org/wiki/チャールズ・F・ワレン)から翻訳されています。
 
 
 **チャールズ・フレデリック・ワレン**（Charles Frederick Warren または Charls Fredrick Warren\[1\], [1841年](../Page/1841年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink") - [1899年](../Page/1899年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")）は、[英国聖公会宣教協会](https://ja.wikipedia.org/wiki/英国聖公会宣教協会 "wikilink") (CMS) の[宣教師](../Page/宣教師.md "wikilink")。CMSの[大執事](https://ja.wikipedia.org/wiki/大執事 "wikilink")を務めた\[2\]。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Warren.jpg "wikilink")

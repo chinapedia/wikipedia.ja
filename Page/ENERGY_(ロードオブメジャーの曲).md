@@ -1,4 +1,4 @@
-> この記事は[ENERGY \(\)](https://ja.wikipedia.org/wiki/ENERGY_\(\))から翻訳されています。
+> この記事は[ENERGY \(ロードオブメジャーの曲\)](https://ja.wikipedia.org/wiki/ENERGY_\(ロードオブメジャーの曲\))から翻訳されています。
 
 
 「**ENERGY**」（**エネルギー**）は、[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")にリリースされた、ロードオブメジャーのメジャー6枚目、通算9枚目のシングルである。

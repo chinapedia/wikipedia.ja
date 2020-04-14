@@ -1,4 +1,4 @@
-> この記事は[FXbyGMO](https://ja.wikipedia.org/wiki/FXbyGMO)から翻訳されています。
+> この記事は[FXプライムbyGMO](https://ja.wikipedia.org/wiki/FXプライムbyGMO)から翻訳されています。
 
 
 **株式会社FXプライムbyGMO**（エフエックスプライムバイジーエムオー）は、[GMOグループの](../Page/GMOインターネット.md "wikilink")[外国為替取引専門の](../Page/外国為替証拠金取引.md "wikilink")[金融先物取引](https://ja.wikipedia.org/wiki/金融先物取引 "wikilink")業者。[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")と信託契約を締結し、顧客からの預かり資産を信託口座にて分別管理している（[信託分別管理](https://ja.wikipedia.org/wiki/信託分別管理 "wikilink")）。[情報セキュリティマネジメントシステム](../Page/情報セキュリティマネジメントシステム.md "wikilink")（ISMS）の国際規格である「ISO / IEC27001 : 2005」の認証を2007年1月に取得。システム運営、顧客情報の管理など会社の全業務において認証を取得している。外国為替保証金取引を取扱う専業会社としては国内初の認証取得になる。

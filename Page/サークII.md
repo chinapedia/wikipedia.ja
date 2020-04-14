@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[サークII](https://ja.wikipedia.org/wiki/サークII)から翻訳されています。
 
 
 『**サークII**』 (*XakII*) は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に日本の[マイクロキャビン](../Page/マイクロキャビン.md "wikilink")から発売された[PC-8801用](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。正式タイトルは『**サークII ライジング・オブ・ザ・レッドムーン**』 (*XakII Rising of The Redmoon*) 。

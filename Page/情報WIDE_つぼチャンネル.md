@@ -1,4 +1,4 @@
-> この記事は[WIDE ](https://ja.wikipedia.org/wiki/WIDE_)から翻訳されています。
+> この記事は[情報WIDE つぼチャンネル](https://ja.wikipedia.org/wiki/情報WIDE_つぼチャンネル)から翻訳されています。
 
 
 『**情報WIDE つぼチャンネル**』（じょうほうワイド つぼチャンネル）は、[2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（KTS）で放送された[鹿児島県](../Page/鹿児島県.md "wikilink")向けのローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 14:05 - 15:30。通称「**つぼチャンネル**」、「**つぼチャン**」。『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』の“小軽部”こと[坪内一樹](../Page/坪内一樹.md "wikilink")（KTS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。

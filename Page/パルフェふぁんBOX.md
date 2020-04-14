@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[パルフェふぁんBOX](https://ja.wikipedia.org/wiki/パルフェふぁんBOX)から翻訳されています。
 
 
 『**パルフェふぁんBOX**』（パルフェふぁんボックス、英題：*Parfait Fan Box*）は、2000年9月29日に[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より発売されたリトル・ウィッチ パルフェシリーズのファンボックスである。

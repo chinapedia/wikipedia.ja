@@ -1,4 +1,4 @@
-> この記事は[BUNBUN \(\)](https://ja.wikipedia.org/wiki/BUNBUN_\(\))から翻訳されています。
+> この記事は[BUNBUN \(イラストレーター\)](https://ja.wikipedia.org/wiki/BUNBUN_\(イラストレーター\))から翻訳されています。
 
 
 **BUNBUN**（ブンブン、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink")である。[京都府](../Page/京都府.md "wikilink")[八幡市](../Page/八幡市.md "wikilink")出身。

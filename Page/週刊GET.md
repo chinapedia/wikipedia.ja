@@ -1,4 +1,4 @@
-> この記事は[GET](https://ja.wikipedia.org/wiki/GET)から翻訳されています。
+> この記事は[週刊GET](https://ja.wikipedia.org/wiki/週刊GET)から翻訳されています。
 
 
 **週刊GET**（しゅうかんげっと）は[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた土曜日朝の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")である。

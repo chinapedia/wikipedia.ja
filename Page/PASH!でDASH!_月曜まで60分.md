@@ -1,4 +1,4 @@
-> この記事は[PASH!DASH! 60](https://ja.wikipedia.org/wiki/PASH!DASH!_60)から翻訳されています。
+> この記事は[PASH!でDASH! 月曜まで60分](https://ja.wikipedia.org/wiki/PASH!でDASH!_月曜まで60分)から翻訳されています。
 
 
 『**PASH\!でDASH\! 月曜まで60分**』（パッシュでダッシュ げつようまでろくじっぷん）は、雑誌『[PASH\!](https://ja.wikipedia.org/wiki/PASH! "wikilink")』（[主婦と生活社](../Page/主婦と生活社.md "wikilink")刊）の情報ラジオ。

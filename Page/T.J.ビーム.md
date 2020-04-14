@@ -1,4 +1,4 @@
-> この記事は[T.J.](https://ja.wikipedia.org/wiki/T.J.)から翻訳されています。
+> この記事は[T.J.ビーム](https://ja.wikipedia.org/wiki/T.J.ビーム)から翻訳されています。
 
 
 **T.J.ビーム**（**Theodore Lester Beam**, [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月28日](../Page/8月28日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[スコッツデール出身の元](https://ja.wikipedia.org/wiki/スコッツデール_\(アリゾナ州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。右投右打。

@@ -106,6 +106,20 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
   - [ダイハツ・ハイゼットトラック](https://ja.wikipedia.org/wiki/ダイハツ・ハイゼットトラック "wikilink")（10代目）「こわいおやじに」ダイハツ工業（株）（株）電通
   - [ダイハツ・ミラトコット](https://ja.wikipedia.org/wiki/ダイハツ・ミラトコット "wikilink")「銭湯」「勘違い」「ボウリング」「縦列駐車」ほか　ダイハツ工業（株）（株）電通
 
+### テレビドラマ
+
+  - [イタズラなKiss〜Love in TOKYO](https://ja.wikipedia.org/wiki/イタズラなKiss#イタズラなKiss〜Love_in_TOKYO "wikilink")
+  - [お父さんは高校生](https://ja.wikipedia.org/wiki/お父さんは高校生 "wikilink")
+  - [フリンジマン〜愛人の作り方教えます〜](https://ja.wikipedia.org/wiki/フリンジマン#テレビドラマ "wikilink")
+  - [兄に愛されすぎて困ってます](https://ja.wikipedia.org/wiki/兄に愛されすぎて困ってます#テレビドラマ "wikilink")
+  - [架空OL日記](https://ja.wikipedia.org/wiki/架空OL日記#テレビドラマ "wikilink")
+  - [僕はまだ君を愛さないことができる](https://ja.wikipedia.org/wiki/イタズラな恋愛白書#日本版ドラマ（配信ドラマ） "wikilink")
+  - [PRINCE OF LEGEND](https://ja.wikipedia.org/wiki/PRINCE_OF_LEGEND "wikilink")
+  - [貴族誕生 -PRINCE OF LEGEND-](../Page/貴族誕生_-PRINCE_OF_LEGEND-.md "wikilink")
+  - [コタキ兄弟と四苦八苦](https://ja.wikipedia.org/wiki/コタキ兄弟と四苦八苦 "wikilink")
+  - [きょうの猫村さん](https://ja.wikipedia.org/wiki/きょうの猫村さん#テレビドラマ "wikilink")
+  - [FAKE MOTION -卓球の王将-](../Page/FAKE_MOTION_-卓球の王将-.md "wikilink")
+
 ## 脚注
 
 ## 外部リンク

@@ -1,4 +1,4 @@
-> この記事は[RED ZONE \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/RED_ZONE_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[RED ZONE \(Janne Da Arcの曲\)](https://ja.wikipedia.org/wiki/RED_ZONE_\(Janne_Da_Arcの曲\))から翻訳されています。
 
 
 「**RED ZONE**」（レッドゾーン）は、[Janne Da Arcのデビュー](../Page/Janne_Da_Arc.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")発売。[2001年](../Page/2001年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")にはリメイク盤もリリースされた。

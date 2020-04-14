@@ -1,4 +1,4 @@
-> この記事は[DANCE](https://ja.wikipedia.org/wiki/DANCE)から翻訳されています。
+> この記事は[阿波DANCE](https://ja.wikipedia.org/wiki/阿波DANCE)から翻訳されています。
 
 
 『**阿波DANCE**』（あわだんす）は、[2007年](../Page/2007年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")に[渋谷アミューズCQN](https://ja.wikipedia.org/wiki/ヒューマントラスト#ヒューマントラストシネマ渋谷 "wikilink")【先行】、[8月25日](../Page/8月25日.md "wikilink")（土）より全国公開された[青春映画](../Page/青春映画.md "wikilink")である。[撮影](../Page/撮影.md "wikilink")時点における作品名は**AWA DANCE**であったが、後に変更された。[ポスター](../Page/ポスター.md "wikilink")や撮影に使用されている[制服](../Page/制服.md "wikilink")は、撮影が行われた[徳島県立鳴門高等学校](../Page/徳島県立鳴門高等学校.md "wikilink")の実際の制服である。

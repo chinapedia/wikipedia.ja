@@ -1,4 +1,4 @@
-> この記事は[ISU](https://ja.wikipedia.org/wiki/ISU)から翻訳されています。
+> この記事は[ISUジュニアグランプリシリーズ](https://ja.wikipedia.org/wiki/ISUジュニアグランプリシリーズ)から翻訳されています。
 
 
 **ISUジュニアグランプリシリーズ**（ISU Junior Grand Prix of Figure Skating）は、各地持ち回りで開催されるISUジュニアグランプリ7大会と、7大会の上位選手が出場するISUジュニアグランプリファイナルを含めた総称。[国際スケート連盟](../Page/国際スケート連盟.md "wikilink")が主催する。

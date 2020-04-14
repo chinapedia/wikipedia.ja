@@ -1,4 +1,4 @@
-> この記事は[Mysterious \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/Mysterious_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[Mysterious \(Janne Da Arcの曲\)](https://ja.wikipedia.org/wiki/Mysterious_\(Janne_Da_Arcの曲\))から翻訳されています。
 
 
 「**Mysterious**」（ミステリアス）は、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")6th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。

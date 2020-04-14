@@ -1,4 +1,4 @@
-> この記事は[OBS](https://ja.wikipedia.org/wiki/OBS)から翻訳されています。
+> この記事は[OBSゴールデンナイター](https://ja.wikipedia.org/wiki/OBSゴールデンナイター)から翻訳されています。
 
 
 **OBSゴールデンナイター**（オービーエスゴールデンナイター）は、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")ラジオ局で年度上半期（4-9月）の土・日・月曜を除く毎夜放送されている[プロ野球中継](../Page/プロ野球中継.md "wikilink")である。
@@ -43,9 +43,9 @@
 
 ## 関連項目
 
-  - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（OBSテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（OBSテレビ）
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:大分放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:大分放送のラジオ番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:大分放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:大分放送のラジオ番組 "wikilink")
 
 1.  TBSラジオが自社およびJRNネットワーク番組としての野球中継を廃止した2018年以降は、厳密には（NRNとのクロスネットを含む）JRN加盟局他との個別ネット扱いとなる。
 2.  ヤクルト主催試合についてはTBS及びRKBに中継権がないため、水 - 金曜のみ放送可能（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[CIS](https://ja.wikipedia.org/wiki/CIS)から翻訳されています。
+> この記事は[CISカップ](https://ja.wikipedia.org/wiki/CISカップ)から翻訳されています。
 
 
 **CISカップ**（）は、[1993年](../Page/1993年.md "wikilink")から[2016年](../Page/2016年.md "wikilink")まで開催されていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。大会は毎年1月下旬に[ロシア](../Page/ロシア.md "wikilink")の[モスクワ](../Page/モスクワ.md "wikilink")で実施されていた。

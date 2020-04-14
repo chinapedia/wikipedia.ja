@@ -1,4 +1,4 @@
-> この記事は[I still believe ](https://ja.wikipedia.org/wiki/I_still_believe_)から翻訳されています。
+> この記事は[I still believe 〜ため息〜](https://ja.wikipedia.org/wiki/I_still_believe_〜ため息〜)から翻訳されています。
 
 
 「**I still believe 〜ため息〜**」（アイ スティル ビリーブ ためいき）は、[滴草由実](../Page/滴草由実.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。

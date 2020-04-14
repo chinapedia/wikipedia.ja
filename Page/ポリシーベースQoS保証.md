@@ -1,4 +1,4 @@
-> この記事は[QoS](https://ja.wikipedia.org/wiki/QoS)から翻訳されています。
+> この記事は[ポリシーベースQoS保証](https://ja.wikipedia.org/wiki/ポリシーベースQoS保証)から翻訳されています。
 
 
 [ポリシーベース管理](../Page/ポリシーベース管理.md "wikilink")の手法にもとづいて [QoS](../Page/Quality_of_Service.md "wikilink") (サービス品質、とくに通信品質) を保証することを**ポリシーベースQoS保証**という。

@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[LOVEのテーマ](https://ja.wikipedia.org/wiki/LOVEのテーマ)から翻訳されています。
 
 
 「**LOVEのテーマ**」（ラブのテーマ）は、[LOVEのデビューシングル](../Page/LOVE_\(大塚愛\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")に[LOCOMUSICよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

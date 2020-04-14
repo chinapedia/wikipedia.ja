@@ -1,4 +1,4 @@
-> この記事は[HD](https://ja.wikipedia.org/wiki/HD)から翻訳されています。
+> この記事は[トヨタ・HDエンジン](https://ja.wikipedia.org/wiki/トヨタ・HDエンジン)から翻訳されています。
 
 
 **トヨタ・HDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

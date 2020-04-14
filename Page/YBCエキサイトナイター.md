@@ -1,7 +1,7 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBCエキサイトナイター](https://ja.wikipedia.org/wiki/YBCエキサイトナイター)から翻訳されています。
 
 
-**YBCエキサイトナイター**（ワイビーシーエキサイトナイター）は、[日本プロ野球（NPB）のレギュラーシーズン中](https://ja.wikipedia.org/wiki/NPB "wikilink")（基本として4 - 9月）に[山形放送](../Page/山形放送.md "wikilink")ラジオで放送するNPB公式戦のナイトゲーム中継である。
+**YBCエキサイトナイター**（ワイビーシーエキサイトナイター）は、[日本プロ野球（NPB）のレギュラーシーズン中](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（基本として4 - 9月）に[山形放送](../Page/山形放送.md "wikilink")ラジオで放送するNPB公式戦のナイトゲーム中継である。
 
 ## 放送データ
 
@@ -164,6 +164,6 @@
 
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:山形放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山形放送のラジオ番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:山形放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山形放送のラジオ番組 "wikilink")
 
 1.  JRN（TBSラジオ）ネットの時はヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

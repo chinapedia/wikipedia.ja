@@ -1,4 +1,4 @@
-> この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
+> この記事は[GSユアサエナジー](https://ja.wikipedia.org/wiki/GSユアサエナジー)から翻訳されています。
 
 
 **株式会社GSユアサエナジー**（*GS Yuasa Energy Co.,Ltd.*）は、自動車用[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")のメーカー。[ジーエス・ユアサコーポレーション](../Page/ジーエス・ユアサコーポレーション.md "wikilink")傘下のGSユアサの子会社。

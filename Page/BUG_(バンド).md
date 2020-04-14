@@ -1,4 +1,4 @@
-> この記事は[BUG \(\)](https://ja.wikipedia.org/wiki/BUG_\(\))から翻訳されています。
+> この記事は[BUG \(バンド\)](https://ja.wikipedia.org/wiki/BUG_\(バンド\))から翻訳されています。
 
 
 **BUG**（バグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2001年に結成、2012年活動休止。

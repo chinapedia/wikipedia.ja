@@ -1,4 +1,4 @@
-> この記事は[TBC](https://ja.wikipedia.org/wiki/TBC)から翻訳されています。
+> この記事は[TBCニュース](https://ja.wikipedia.org/wiki/TBCニュース)から翻訳されています。
 
 
 『**TBCニュース**』（ティービーシーニュース）は、[東北放送](../Page/東北放送.md "wikilink")（TBCテレビ）にて放送されている定時の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")番組である。[2009年](../Page/2009年.md "wikilink")4月より[ラジオ](../Page/ラジオ.md "wikilink")でもTBCニュースとして放送。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")と[天気予報](../Page/天気予報.md "wikilink")を放送する。

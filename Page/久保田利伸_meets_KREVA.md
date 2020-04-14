@@ -1,4 +1,4 @@
-> この記事は[ meets KREVA](https://ja.wikipedia.org/wiki/_meets_KREVA)から翻訳されています。
+> この記事は[久保田利伸 meets KREVA](https://ja.wikipedia.org/wiki/久保田利伸_meets_KREVA)から翻訳されています。
 
 
 **久保田利伸 meets KREVA**（くぼたとしのぶ ミーツ クレバ）は日本の[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")の第一人者である[久保田利伸](../Page/久保田利伸.md "wikilink")と[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KREVA](../Page/KREVA.md "wikilink")による[コラボレーション](../Page/コラボレーション.md "wikilink")ユニットである。
@@ -10,7 +10,7 @@
 
 ## 概要
 
-[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JAPAN FM NETWORKのステーション](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")･キャンペーンである『HUMAN CONSCIOUS～生命（いのち）を愛し、つながるこころ～』のコンセプトに基づくプロジェクトとしてコラボレーションが実現した。 [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には「[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/DHC_COUNTDOWN_jp "wikilink")」、「[TOYOTA SOUND IN MY LIFE](https://ja.wikipedia.org/wiki/SOUND_IN_MY_LIFE "wikilink")」の2つの番組の公開生放送に2人でゲスト出演を果たした。
+[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JAPAN FM NETWORKのステーション](../Page/全国FM放送協議会.md "wikilink")･キャンペーンである『HUMAN CONSCIOUS～生命（いのち）を愛し、つながるこころ～』のコンセプトに基づくプロジェクトとしてコラボレーションが実現した。 [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には「[COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/DHC_COUNTDOWN_jp "wikilink")」、「[TOYOTA SOUND IN MY LIFE](https://ja.wikipedia.org/wiki/SOUND_IN_MY_LIFE "wikilink")」の2つの番組の公開生放送に2人でゲスト出演を果たした。
 
 [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")からはコラボLIVEツアーを[名古屋](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")、広島、[福岡](https://ja.wikipedia.org/wiki/Zepp_Fukuoka "wikilink")、[大阪](https://ja.wikipedia.org/wiki/Zepp_Osaka "wikilink")、[仙台](https://ja.wikipedia.org/wiki/Zepp_Sendai "wikilink")、[金沢](../Page/金沢市文化ホール.md "wikilink")、[東京](../Page/SHIBUYA-AX.md "wikilink")、松山、[札幌で行われた](https://ja.wikipedia.org/wiki/Zepp_Sapporo "wikilink")。
 

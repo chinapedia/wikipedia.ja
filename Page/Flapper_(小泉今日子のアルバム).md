@@ -1,4 +1,4 @@
-> この記事は[Flapper \(\)](https://ja.wikipedia.org/wiki/Flapper_\(\))から翻訳されています。
+> この記事は[Flapper \(小泉今日子のアルバム\)](https://ja.wikipedia.org/wiki/Flapper_\(小泉今日子のアルバム\))から翻訳されています。
 
 
 『**Flapper**』（フラッパー）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売。発売元はビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）。

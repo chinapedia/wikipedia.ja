@@ -1,4 +1,4 @@
-> この記事は[e.p](https://ja.wikipedia.org/wiki/e.p)から翻訳されています。
+> この記事は[心臓e.p](https://ja.wikipedia.org/wiki/心臓e.p)から翻訳されています。
 
 
 『**心臓e.p**』（しんぞう・イーピー）は、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に発売。発売元は[VELVET SNOOZER](https://ja.wikipedia.org/wiki/VELVET_SNOOZER "wikilink")。

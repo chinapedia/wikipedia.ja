@@ -1,4 +1,4 @@
-> この記事は[MAY \(\)](https://ja.wikipedia.org/wiki/MAY_\(\))から翻訳されています。
+> この記事は[MAY \(歌手\)](https://ja.wikipedia.org/wiki/MAY_\(歌手\))から翻訳されています。
 
 
 **MAY**（メイ、、[1982年](../Page/1982年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）は、[韓国出身の](../Page/大韓民国.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。

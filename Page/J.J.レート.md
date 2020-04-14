@@ -1,4 +1,4 @@
-> この記事は[J.J.](https://ja.wikipedia.org/wiki/J.J.)から翻訳されています。
+> この記事は[J.J.レート](https://ja.wikipedia.org/wiki/J.J.レート)から翻訳されています。
 
 
 **J.J.レート**（*J.J. Lehto* 、[1966年](../Page/1966年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ）は、フィンランドの元[F1ドライバー](../Page/フォーミュラ1.md "wikilink")。[1988年](../Page/1988年.md "wikilink")の[イギリスF3チャンピオン](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")。[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")を2度制している。
@@ -911,7 +911,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <tr class="even">
 <td><p><a href="../Page/1996年のル・マン24時間レース.md" title="wikilink">1996年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイ・ベルム" title="wikilink">レイ・ベルム</a><br />
+<td><p><a href="../Page/レイ・ベルム.md" title="wikilink">レイ・ベルム</a><br />
  <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
 <td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1 GTR</a></p></td>
 <td><p>GT1</p></td>

@@ -1,4 +1,4 @@
-> この記事は[HEIWA](https://ja.wikipedia.org/wiki/HEIWA)から翻訳されています。
+> この記事は[HEIWAの鐘](https://ja.wikipedia.org/wiki/HEIWAの鐘)から翻訳されています。
 
 
 **HEIWAの鐘**（へいわのかね）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[仲里幸広](https://ja.wikipedia.org/wiki/仲里幸広 "wikilink")（ユキヒロ）が[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")した[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")である。仲里自身のソロ初のシングルCD。[2000年](../Page/2000年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")リリース。

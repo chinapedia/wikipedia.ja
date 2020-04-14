@@ -1,4 +1,4 @@
-> この記事は[ \(YouTube\)](https://ja.wikipedia.org/wiki/_\(YouTube\))から翻訳されています。
+> この記事は[スティーブ・チェン \(YouTube設立者\)](https://ja.wikipedia.org/wiki/スティーブ・チェン_\(YouTube設立者\))から翻訳されています。
 
 
 **スティーブ・チェン**（陳士駿、Steve Shih-chun Chen）は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")社の[共同創立者の一人で](https://ja.wikipedia.org/wiki/創業者 "wikilink")、同社の元[CTO](../Page/最高技術責任者.md "wikilink")。

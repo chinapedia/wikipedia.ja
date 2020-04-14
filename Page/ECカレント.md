@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ECカレント](https://ja.wikipedia.org/wiki/ECカレント)から翻訳されています。
 
 
 **ECカレント**（イーシーカレント）は、**株式会社ストリーム**（）が運営する[インターネット](../Page/インターネット.md "wikilink")の[通信販売](../Page/通信販売.md "wikilink")を主とした[家電小売店である](../Page/家庭用電気機械器具.md "wikilink")。

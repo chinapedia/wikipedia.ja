@@ -1,4 +1,4 @@
-> この記事は[GLK](https://ja.wikipedia.org/wiki/GLK)から翻訳されています。
+> この記事は[メルセデス・ベンツ・GLKクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・GLKクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・GLKクラス**（ジーエルケークラス）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカーである[ダイムラーが生産し](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")、同社が[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで販売していた[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

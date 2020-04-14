@@ -1,4 +1,4 @@
-> この記事は[SB2U \(\)](https://ja.wikipedia.org/wiki/SB2U_\(\))から翻訳されています。
+> この記事は[SB2U \(航空機\)](https://ja.wikipedia.org/wiki/SB2U_\(航空機\))から翻訳されています。
 
 
 **SB2U ヴィンディケイター**（*Chance Vought SB2U Vindicator* ）は[ヴォート社が開発した](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。折りたたみ式の主翼や引き込み脚を持つ、当時としては近代的な[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")であった。イギリスでも**チェサピーク**の名で練習機として運用された。

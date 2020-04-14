@@ -1,4 +1,4 @@
-> この記事は[KPV ](https://ja.wikipedia.org/wiki/KPV_)から翻訳されています。
+> この記事は[KPV 重機関銃](https://ja.wikipedia.org/wiki/KPV_重機関銃)から翻訳されています。
 
 
 **KPV 重機関銃**（KPV じゅうきかんじゅう、、ウラジーミロフ式大口径機関銃）は、[口径](../Page/口径.md "wikilink")14.5mmの[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")製[重機関銃](../Page/重機関銃.md "wikilink")であり、おもに対物・対[軽装甲車両](../Page/装甲車.md "wikilink")・対空用途に使用されている。

@@ -1,4 +1,4 @@
-> この記事は[MG3](https://ja.wikipedia.org/wiki/MG3)から翻訳されています。
+> この記事は[ラインメタルMG3](https://ja.wikipedia.org/wiki/ラインメタルMG3)から翻訳されています。
 
 
 **ラインメタルMG3**（Rheinmetall MG3）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[MG42を](../Page/グロスフスMG42機関銃.md "wikilink")、戦後の運用状況にあわせて再設計した[汎用機関銃](../Page/汎用機関銃.md "wikilink")である。[ドイツ連邦軍](../Page/ドイツ連邦軍.md "wikilink")をはじめとする多数の国で採用されている。

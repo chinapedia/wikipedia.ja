@@ -1,4 +1,4 @@
-> この記事は[Ddi:](https://ja.wikipedia.org/wiki/Ddi:)から翻訳されています。
+> この記事は[D［di:］](https://ja.wikipedia.org/wiki/D［di:］)から翻訳されています。
 
 
 **D\[diː\]**（ディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アーティスト](https://ja.wikipedia.org/wiki/女性アーティスト "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。

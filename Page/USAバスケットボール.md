@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[USAバスケットボール](https://ja.wikipedia.org/wiki/USAバスケットボール)から翻訳されています。
 
 
 **USAバスケットボール**（**USA Basketball**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[バスケットボール](../Page/バスケットボール.md "wikilink")組織である。[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）及び[FIBAアメリカ](../Page/FIBAアメリカ.md "wikilink")、[アメリカオリンピック委員会](../Page/アメリカオリンピック委員会.md "wikilink")（USOC）の傘下に置かれ、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")を統括している。**米国バスケットボール協会**などと[意訳](https://ja.wikipedia.org/wiki/意訳 "wikilink")されることもある。

@@ -1,4 +1,4 @@
-> この記事は[NTK](https://ja.wikipedia.org/wiki/NTK)から翻訳されています。
+> この記事は[NTKセラテック](https://ja.wikipedia.org/wiki/NTKセラテック)から翻訳されています。
 
 
 **株式会社NTKセラテック**は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[泉区に本社を置く](../Page/泉区_\(仙台市\).md "wikilink")、[セラミックス](../Page/セラミックス.md "wikilink")製品および[半導体](../Page/半導体.md "wikilink")や[液晶](../Page/液晶.md "wikilink")の製造装置を製造販売している企業である。[日本特殊陶業](../Page/日本特殊陶業.md "wikilink")の子会社。

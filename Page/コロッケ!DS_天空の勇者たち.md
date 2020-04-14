@@ -1,4 +1,4 @@
-> この記事は[!DS ](https://ja.wikipedia.org/wiki/!DS_)から翻訳されています。
+> この記事は[コロッケ!DS 天空の勇者たち](https://ja.wikipedia.org/wiki/コロッケ!DS_天空の勇者たち)から翻訳されています。
 
 
 『**コロッケ\!DS 天空の勇者たち**』（コロッケDS てんくうのゆうしゃたち）は、[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[コナミから発売された](../Page/コナミデジタルエンタテインメント.md "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。

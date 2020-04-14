@@ -1,4 +1,4 @@
-> この記事は[CAMP](https://ja.wikipedia.org/wiki/CAMP)から翻訳されています。
+> この記事は[さんピンCAMP](https://ja.wikipedia.org/wiki/さんピンCAMP)から翻訳されています。
 
 
 **さんピンCAMP**（さんピンキャンプ、*THUMPIN' CAMP*）は、1996年7月7日に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で開催された[ヒップホップ](../Page/ヒップホップ.md "wikilink")[イベント](../Page/イベント.md "wikilink")。提唱者の[ECDを始め](../Page/ECD_\(ミュージシャン\).md "wikilink")、[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")、[LAMP EYE](../Page/KAMINARI-KAZOKU..md "wikilink")、[ZEEBRA](../Page/Zeebra.md "wikilink")（[キングギドラ](../Page/KGDR.md "wikilink")）、[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[DEV LARGE](../Page/DEV_LARGE.md "wikilink")（[BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")）、[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")、[SOUL SCREAM等の](../Page/SOUL_SCREAM.md "wikilink")[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")アーティストが多数集結した。

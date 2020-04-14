@@ -1,4 +1,4 @@
-> この記事は[TOP30](https://ja.wikipedia.org/wiki/TOP30)から翻訳されています。
+> この記事は[全米TOP30](https://ja.wikipedia.org/wiki/全米TOP30)から翻訳されています。
 
 
 **全米TOP30**（ぜんべいトップサーティー）は、テラモバイルほか制作の[ビルボード](../Page/ビルボード.md "wikilink")総合チャートとトーク等による[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")で、主に[日本テレビ系列の深夜に](../Page/日本テレビ放送網.md "wikilink")15分放送されているが、日本テレビおよび[読売テレビでは放送されていない](../Page/讀賣テレビ放送.md "wikilink")。[2006年](../Page/2006年.md "wikilink")4月放送開始、[2007年](../Page/2007年.md "wikilink")3月放送終了。終了後は、2007年4月～[Break Point\!で](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")、ビルボードの情報を紹介している。

@@ -1,4 +1,4 @@
-> この記事は[-n-](https://ja.wikipedia.org/wiki/-n-)から翻訳されています。
+> この記事は[フッ化テトラ-n-ブチルアンモニウム](https://ja.wikipedia.org/wiki/フッ化テトラ-n-ブチルアンモニウム)から翻訳されています。
 
 
 **フッ化テトラ-*n*-ブチルアンモニウム**（英：Tetra-*n*-butylammonium fluoride）は構造式(CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>)<sub>4</sub>N<sup>+</sup>F<sup>-</sup>で表される[4級アンモニウム塩である](https://ja.wikipedia.org/wiki/第四級アンモニウムカチオン "wikilink")。**TBAF**と略記される。3水和物として、あるいは[THF溶液として市販されている](../Page/テトラヒドロフラン.md "wikilink")。

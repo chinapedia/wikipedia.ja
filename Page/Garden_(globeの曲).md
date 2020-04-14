@@ -1,4 +1,4 @@
-> この記事は[Garden \(globe\)](https://ja.wikipedia.org/wiki/Garden_\(globe\))から翻訳されています。
+> この記事は[Garden \(globeの曲\)](https://ja.wikipedia.org/wiki/Garden_\(globeの曲\))から翻訳されています。
 
 
 『**garden**』（ガーデン）は、[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[avex globeより発売された](https://ja.wikipedia.org/wiki/avex_globe "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")である。

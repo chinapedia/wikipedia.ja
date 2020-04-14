@@ -1,4 +1,4 @@
-> この記事は[SBA \(\)](https://ja.wikipedia.org/wiki/SBA_\(\))から翻訳されています。
+> この記事は[SBA \(航空機\)](https://ja.wikipedia.org/wiki/SBA_\(航空機\))から翻訳されています。
 
 
 '''SBN *'（*NAF SBN'' ）は、[ブルースター社が開発し](../Page/ブルースター・エアロノーティカル.md "wikilink")、海軍航空機工廠(NAF)が生産した、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。

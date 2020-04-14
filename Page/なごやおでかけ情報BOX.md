@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[なごやおでかけ情報BOX](https://ja.wikipedia.org/wiki/なごやおでかけ情報BOX)から翻訳されています。
 
 
 『**なごやおでかけ情報BOX**』（なごやおでかけじょうほうボックス）は、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[広報](../Page/広報.md "wikilink")番組。

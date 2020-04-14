@@ -1,4 +1,4 @@
-> この記事は[ PC](https://ja.wikipedia.org/wiki/_PC)から翻訳されています。
+> この記事は[熱血高校ドッジボール部 PC番外編](https://ja.wikipedia.org/wiki/熱血高校ドッジボール部_PC番外編)から翻訳されています。
 
 
 『**熱血高校ドッジボール部 PC番外編**』（ねっけつこうこうドッジボールぶ ぴーしーばんがいへん）は、[ナグザット](https://ja.wikipedia.org/wiki/ナグザット "wikilink")より発表された[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")ゲームの[PCエンジン](../Page/PCエンジン.md "wikilink")移植版。

@@ -1,4 +1,4 @@
-> この記事は[ \(Java\)](https://ja.wikipedia.org/wiki/_\(Java\))から翻訳されています。
+> この記事は[パッケージ \(Java\)](https://ja.wikipedia.org/wiki/パッケージ_\(Java\))から翻訳されています。
 
 
 **Javaパッケージ**(<em lang="en">**Java package**</em>)は[名前空間](../Page/名前空間.md "wikilink")の中にある[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[クラスをまとめるメカニズムである](../Page/クラス_\(コンピュータ\).md "wikilink")。Javaパッケージは、[JARファイルと呼ばれる圧縮ファイルの中に保存することができ](https://ja.wikipedia.org/wiki/Jar "wikilink")、クラス群を一つのグループとしてまとめた方が1つずつダウンロードするよりも高速化される。プログラマも一般に同じカテゴリに属しているクラスや類似した機能を提供するクラスをまとめたパッケージを使う。

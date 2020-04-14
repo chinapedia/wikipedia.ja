@@ -5,7 +5,7 @@
       - [フェイルセーフ](../Page/フェイルセーフ.md "wikilink") (fail safe)
       - [ファイルシステム](../Page/ファイルシステム.md "wikilink") (file system)
       - [ファイルサーバ](../Page/ファイルサーバ.md "wikilink") (file server)
-      - [ファイルセパレータ](https://ja.wikipedia.org/wiki/ファイルセパレータ "wikilink") (file separator)。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")・[Unicode](../Page/Unicode.md "wikilink")などの[制御文字](../Page/制御文字.md "wikilink")の1つ。0x1C。
+      - [ファイルセパレータ](https://ja.wikipedia.org/wiki/ファイルセパレータ "wikilink") (file separator)。[ASCII](../Page/ASCII.md "wikilink")・[Unicode](../Page/Unicode.md "wikilink")などの[制御文字](../Page/制御文字.md "wikilink")の1つ。0x1C。
       - [フライトシミュレータ](https://ja.wikipedia.org/wiki/フライトシミュレータ "wikilink") (flight simulator)
       - [フーリエ級数](../Page/フーリエ級数.md "wikilink") (Fourier series)
       - [財務諸表](../Page/財務諸表.md "wikilink") (financial statements)

@@ -1,4 +1,4 @@
-> この記事は[namida no umi](https://ja.wikipedia.org/wiki/namida_no_umi)から翻訳されています。
+> この記事は[泪の海（namida no umi）](https://ja.wikipedia.org/wiki/泪の海（namida_no_umi）)から翻訳されています。
 
 
 **泪の海（namida no umi）**（なみだのうみ）は日本の[女優](../Page/俳優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")である[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。

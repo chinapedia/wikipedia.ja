@@ -1,4 +1,4 @@
-> この記事は[XJR-12](https://ja.wikipedia.org/wiki/XJR-12)から翻訳されています。
+> この記事は[ジャガー・XJR-12](https://ja.wikipedia.org/wiki/ジャガー・XJR-12)から翻訳されています。
 
 
 **ジャガー・XJR-12**は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[デイトナ24時間レース](../Page/デイトナ24時間レース.md "wikilink")、[セブリング12時間レース](../Page/セブリング12時間レース.md "wikilink")、及び[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")用に[トム・ウォーキンショー](../Page/トム・ウォーキンショー.md "wikilink")・レーシング(TWR)が製作した[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。

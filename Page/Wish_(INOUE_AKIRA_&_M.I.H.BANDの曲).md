@@ -1,4 +1,4 @@
-> この記事は[Wish \(INOUE AKIRA \& M.I.H.BAND\)](https://ja.wikipedia.org/wiki/Wish_\(INOUE_AKIRA_\&_M.I.H.BAND\))から翻訳されています。
+> この記事は[Wish \(INOUE AKIRA \& M.I.H.BANDの曲\)](https://ja.wikipedia.org/wiki/Wish_\(INOUE_AKIRA_\&_M.I.H.BANDの曲\))から翻訳されています。
 
 
 「**wish**」（ウィッシュ）はINOUE AKIRA & M.I.H.BANDのシングル。

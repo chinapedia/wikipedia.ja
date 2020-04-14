@@ -1,4 +1,4 @@
-> この記事は[DAY DREAM](https://ja.wikipedia.org/wiki/DAY_DREAM)から翻訳されています。
+> この記事は[白日夢・DAY DREAM](https://ja.wikipedia.org/wiki/白日夢・DAY_DREAM)から翻訳されています。
 
 
 『**白日夢・DAY DREAM**』（はくじつむ・デイドリーム）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン） の15枚目の[シングル](../Page/シングル.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")：ETP-10735。

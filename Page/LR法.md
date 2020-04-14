@@ -1,4 +1,4 @@
-> この記事は[LR](https://ja.wikipedia.org/wiki/LR)から翻訳されています。
+> この記事は[LR法](https://ja.wikipedia.org/wiki/LR法)から翻訳されています。
 
 
 **LR法**または**LR構文解析器**とは、[文脈自由文法](../Page/文脈自由文法.md "wikilink")の[構文解析](../Page/構文解析.md "wikilink")手法/[構文解析器](../Page/構文解析器.md "wikilink")である。LR法では、入力を左(**L**eft)から右に読んでいき、[右端導出](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink")(**R**ightmost derivation)を行う。このため**LR**と名づけられている。「LR(*k*)」といった場合、*k* は、消費をともなうことなく「[先読み](../Page/先読み.md "wikilink")」が進められる入力記号の最大数を意味する。通常、*k* は 1 であり、その場合省略されることが多い。LR(*k*)の構文解析器が対応する文脈自由文法も LR(*k*) と呼ばれる。

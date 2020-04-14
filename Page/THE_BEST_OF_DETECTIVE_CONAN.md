@@ -126,6 +126,33 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a>予定</p></td>
+<td><p><strong><a href="../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a></strong></p></td>
+<td><p>CD</p></td>
+<td><p>JBCJ‐9064/5</p></td>
+<td></td>
+<td><p>TBA</p></td>
+</tr>
+<tr class="odd">
+<td><p>JBCJ‐9066/7</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

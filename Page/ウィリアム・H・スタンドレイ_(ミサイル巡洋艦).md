@@ -1,4 +1,4 @@
-> この記事は[H \(\)](https://ja.wikipedia.org/wiki/H_\(\))から翻訳されています。
+> この記事は[ウィリアム・H・スタンドレイ \(ミサイル巡洋艦\)](https://ja.wikipedia.org/wiki/ウィリアム・H・スタンドレイ_\(ミサイル巡洋艦\))から翻訳されています。
 
 
 <div class="thumb tright">

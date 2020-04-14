@@ -22,12 +22,10 @@
       - [高見沢俊彦](../Page/高見沢俊彦.md "wikilink")
   - [今井美樹](../Page/今井美樹.md "wikilink")
   - [小沢健二](../Page/小沢健二.md "wikilink")（一回当時のEMI Music Japanとの契約が切れていたが、後に再契約）
-  - Kimonos
   - [GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")
   - [HYDE](https://ja.wikipedia.org/wiki/Hyde "wikilink")
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
   - [Toshl](https://ja.wikipedia.org/wiki/Toshl "wikilink")
-  - ボールズ
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
   - [MIYAVI](../Page/MIYAVI.md "wikilink")
   - [MYNAME](https://ja.wikipedia.org/wiki/MYNAME_\(音楽グループ\) "wikilink")
@@ -35,12 +33,18 @@
   - [ラストアイドル](https://ja.wikipedia.org/wiki/ラストアイドル "wikilink")
   - [番匠谷紗衣](https://ja.wikipedia.org/wiki/番匠谷紗衣 "wikilink")
   - [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")
-  - YOSHI
+  - [YOSHI](https://ja.wikipedia.org/wiki/Yoshi226 "wikilink")
   - [横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")
-
+  - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TXT_\(音楽グループ\) "wikilink")
+  - [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")
+  - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBER_JAPAN_DANCERS "wikilink")
+  - [そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")
+  - [Sou](https://ja.wikipedia.org/wiki/Sou "wikilink")
+  -
 ### Delicious Deli Records
 
   - [INFINITE](https://ja.wikipedia.org/wiki/INFINITE "wikilink")
+  - [BTS](https://ja.wikipedia.org/wiki/BTS "wikilink")
   - [AOA](https://ja.wikipedia.org/wiki/AOA "wikilink")
   - [kainatsu](https://ja.wikipedia.org/wiki/kainatsu "wikilink")
   - [キム・ヒョンジュン](https://ja.wikipedia.org/wiki/キム・ヒョンジュン "wikilink")

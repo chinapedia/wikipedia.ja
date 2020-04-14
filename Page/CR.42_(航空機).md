@@ -1,4 +1,4 @@
-> この記事は[CR.42 \(\)](https://ja.wikipedia.org/wiki/CR.42_\(\))から翻訳されています。
+> この記事は[CR.42 \(航空機\)](https://ja.wikipedia.org/wiki/CR.42_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Fiat_CR.42_aka_J11.jpg "wikilink") **フィアット CR.42**（FIAT CR.42）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")最後の[イタリア](../Page/イタリア.md "wikilink")の[複葉](../Page/複葉機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。名称のCRは設計者チェレスティーノ・ロザテッリが手掛けた戦闘機（Celestino Rosatelli）であることを示し、愛称は“ファルコ（Falco=鷹の意）”。

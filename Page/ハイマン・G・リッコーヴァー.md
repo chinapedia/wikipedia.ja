@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ハイマン・G・リッコーヴァー](https://ja.wikipedia.org/wiki/ハイマン・G・リッコーヴァー)から翻訳されています。
 
 
 **ハイマン・ジョージ・リッコーヴァー**（**Hyman George Rickover**, [1900年](../Page/1900年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") または [1898年](../Page/1898年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の軍人。最終階級は海軍[大将](../Page/大将.md "wikilink")。

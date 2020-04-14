@@ -1,4 +1,4 @@
-> この記事は[AIM-4 \(\)](https://ja.wikipedia.org/wiki/AIM-4_\(\))から翻訳されています。
+> この記事は[AIM-4 \(ミサイル\)](https://ja.wikipedia.org/wiki/AIM-4_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AIM-4 ファルコン | 画像=<File:AIM-4E> Falcon.png | キャプション=AIM-4E | 用途=[ミサイル](../Page/ミサイル.md "wikilink") | 分類=[空対空ミサイル](../Page/空対空ミサイル.md "wikilink") | 設計者= | 製造者=[ヒューズ](https://ja.wikipedia.org/wiki/ヒューズ・エアクラフト "wikilink") | 運用者 more=

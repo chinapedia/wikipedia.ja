@@ -1,4 +1,4 @@
-> この記事は[ YOU KNOW\?](https://ja.wikipedia.org/wiki/_YOU_KNOW\?)から翻訳されています。
+> この記事は[なんちゅう恋をやってるぅ YOU KNOW\?](https://ja.wikipedia.org/wiki/なんちゅう恋をやってるぅ_YOU_KNOW\?)から翻訳されています。
 
 
 「**なんちゅう恋をやってるぅ YOU KNOW?**」（なんちゅうこいをやってるっちゅうの ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。

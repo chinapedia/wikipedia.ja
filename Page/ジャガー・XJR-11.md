@@ -1,4 +1,4 @@
-> この記事は[XJR-11](https://ja.wikipedia.org/wiki/XJR-11)から翻訳されています。
+> この記事は[ジャガー・XJR-11](https://ja.wikipedia.org/wiki/ジャガー・XJR-11)から翻訳されています。
 
 
 **ジャガー・XJR-11**は[1989年](../Page/1989年.md "wikilink")[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink")（WSPC）用に[トム・ウォーキンショー](../Page/トム・ウォーキンショー.md "wikilink")・レーシング（TWR）が製作した[グループC](../Page/グループC.md "wikilink")カーである。[XJR-10とはほぼ同型車である](../Page/ジャガー・XJR-10.md "wikilink")。

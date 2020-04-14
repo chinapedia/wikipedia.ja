@@ -1,4 +1,4 @@
-> この記事は[ \( with UNSCANDAL\)](https://ja.wikipedia.org/wiki/_\(_with_UNSCANDAL\))から翻訳されています。
+> この記事は[スクランブル \(堀江由衣 with UNSCANDALの曲\)](https://ja.wikipedia.org/wiki/スクランブル_\(堀江由衣_with_UNSCANDALの曲\))から翻訳されています。
 
 
 「**スクランブル**」は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")がメインヴォーカルを歌った2004年の楽曲である。[UNSCANDAL](../Page/UNSCANDAL.md "wikilink")が楽曲提供だけでなく演奏とコーラスで参加した共作である。

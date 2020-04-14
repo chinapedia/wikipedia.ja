@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[新報道プレミアA](https://ja.wikipedia.org/wiki/新報道プレミアA)から翻訳されています。
 
 
 『**新報道プレミアA**』（しんほうどう プレミア・エー）は、[FNN](../Page/フジニュースネットワーク.md "wikilink")（[FNS](../Page/フジネットワーク.md "wikilink")）系列で、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")されていた[報道番組](../Page/報道番組.md "wikilink")・[ワイドショー](../Page/ワイドショー.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビ](../Page/関西テレビ放送.md "wikilink")(KTV)の共同制作。なお、他系列との[クロスネット局](../Page/クロスネット局.md "wikilink")である[テレビ大分](../Page/テレビ大分.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では放送されていない。
@@ -19,7 +19,7 @@
 
 ## 出演者
 
-### 司会進行・キャスター
+### 司会・進行キャスター
 
   - [安藤優子](../Page/安藤優子.md "wikilink")
   - [滝川クリステル](https://ja.wikipedia.org/wiki/滝川クリステル "wikilink")

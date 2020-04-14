@@ -1,4 +1,4 @@
-> この記事は[LITE \(\)](https://ja.wikipedia.org/wiki/LITE_\(\))から翻訳されています。
+> この記事は[LITE \(バンド\)](https://ja.wikipedia.org/wiki/LITE_\(バンド\))から翻訳されています。
 
 
 **LITE**（ライト）は2003年結成、4人組[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")・[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NG \(\)](https://ja.wikipedia.org/wiki/NG_\(\))から翻訳されています。
+> この記事は[NG \(ゲーム情報誌\)](https://ja.wikipedia.org/wiki/NG_\(ゲーム情報誌\))から翻訳されています。
 
 
 『**NG**』（エヌジー）とは、かつてナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）が発行していた広報誌。正式名称は『namco COMMUNITY MAGAZINE NG』。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に創刊され、ナムコ直営の[ゲームセンター](../Page/ゲームセンター.md "wikilink")等で無料で配布された。現在でいう[フリーマガジンにあたる](../Page/フリーペーパー.md "wikilink")。

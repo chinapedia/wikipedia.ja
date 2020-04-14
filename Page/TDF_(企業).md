@@ -1,4 +1,4 @@
-> この記事は[TDF \(\)](https://ja.wikipedia.org/wiki/TDF_\(\))から翻訳されています。
+> この記事は[TDF \(企業\)](https://ja.wikipedia.org/wiki/TDF_\(企業\))から翻訳されています。
 
 
 **TDF株式会社**（テーデーエフ）は、かつて存在した[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[柴田郡](https://ja.wikipedia.org/wiki/柴田郡 "wikilink")[村田町](../Page/村田町.md "wikilink")に本社を置く、[自動車](../Page/自動車.md "wikilink")、[トラック](../Page/貨物自動車.md "wikilink")、[バスなどの輸送機器用鍛造品の製造](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")・販売を行っていた企業。

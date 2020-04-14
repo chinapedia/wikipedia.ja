@@ -1,4 +1,4 @@
-> この記事は[COMA](https://ja.wikipedia.org/wiki/COMA)から翻訳されています。
+> この記事は[身延ショッピングセンターCOMA](https://ja.wikipedia.org/wiki/身延ショッピングセンターCOMA)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Huga-Minobu.JPG "wikilink") **身延ショッピングセンターCOMA**（みのぶショッピングセンターこま）は、かつて[山梨県](../Page/山梨県.md "wikilink")[身延町](../Page/身延町.md "wikilink")に存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[エルクレスCF](https://ja.wikipedia.org/wiki/エルクレスCF)から翻訳されています。
 
 
 **エルクレス・デ・アリカンテ・クルブ・デ・フトボル**（**Hércules de Alicante Club de Fútbol, S.A.D.** ()）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")・[アリカンテ](../Page/アリカンテ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部）に在籍している。

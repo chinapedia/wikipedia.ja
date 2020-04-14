@@ -1,4 +1,4 @@
-> この記事は[Java](https://ja.wikipedia.org/wiki/Java)から翻訳されています。
+> この記事は[Javaコンパイラ](https://ja.wikipedia.org/wiki/Javaコンパイラ)から翻訳されています。
 
 
 **Javaコンパイラ**は、コンピュータ・[プログラミング言語](../Page/プログラミング言語.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の[コンパイラ](../Page/コンパイラ.md "wikilink")である。

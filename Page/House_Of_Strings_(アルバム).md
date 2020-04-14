@@ -1,4 +1,4 @@
-> この記事は[House Of Strings \(\)](https://ja.wikipedia.org/wiki/House_Of_Strings_\(\))から翻訳されています。
+> この記事は[House Of Strings \(アルバム\)](https://ja.wikipedia.org/wiki/House_Of_Strings_\(アルバム\))から翻訳されています。
 
 
 『**House Of Strings**』（ハウス・オブ・ストリングス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")による7作目の[インストゥルメンタル](../Page/器楽曲.md "wikilink")・アルバム。[2004年](../Page/2004年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に発売された。

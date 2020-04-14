@@ -1,7 +1,7 @@
-> この記事は[IE](https://ja.wikipedia.org/wiki/IE)から翻訳されています。
+> この記事は[IEインスティテュート](https://ja.wikipedia.org/wiki/IEインスティテュート)から翻訳されています。
 
 
-**株式会社アイイーインスティテュート**（）は、教育関連ソフトウェア・コンピューターゲームソフトの開発・販売を行う企業。
+**IEインスティテュート**（株式会社アイイーインスティテュート、）は、教育関連ソフトウェア・コンピューターゲームソフトの開発・販売を行う企業。
 
 ## ソフトウェア
 
@@ -114,6 +114,6 @@
 
 ## 外部リンク
 
-  - [IEインスティテュート](http://www.iek.jp/)
+  - [IEインスティテュート](https://www.iek.co.jp/)
 
 [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:練馬区の企業](https://ja.wikipedia.org/wiki/Category:練馬区の企業 "wikilink")

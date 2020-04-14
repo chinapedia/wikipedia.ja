@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ご当地検定DS](https://ja.wikipedia.org/wiki/ご当地検定DS)から翻訳されています。
 
 
 **ご当地検定DS**（ごとうちけんてい-）は、[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。名前の元ネタになったと思われる[ご当地検定](../Page/ご当地検定.md "wikilink")とは関係はない。

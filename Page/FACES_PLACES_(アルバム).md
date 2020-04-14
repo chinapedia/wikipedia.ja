@@ -1,4 +1,4 @@
-> この記事は[FACES PLACES \(\)](https://ja.wikipedia.org/wiki/FACES_PLACES_\(\))から翻訳されています。
+> この記事は[FACES PLACES \(アルバム\)](https://ja.wikipedia.org/wiki/FACES_PLACES_\(アルバム\))から翻訳されています。
 
 
 **FACES PLACES**（フェイセス・プレイセス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の2枚目のフル[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Java](https://ja.wikipedia.org/wiki/Java)から翻訳されています。
+> この記事は[Javaプラットフォーム](https://ja.wikipedia.org/wiki/Javaプラットフォーム)から翻訳されています。
 
 
 **Javaプラットフォーム**（ジャバプラットフォーム、[英](../Page/英語.md "wikilink"): ）は、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で記述されたプログラムの開発および実行を行うことのできるソフトウェア群の総称である。

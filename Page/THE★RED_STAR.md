@@ -1,4 +1,4 @@
-> この記事は[THERED STAR](https://ja.wikipedia.org/wiki/THERED_STAR)から翻訳されています。
+> この記事は[THE★RED STAR](https://ja.wikipedia.org/wiki/THE★RED_STAR)から翻訳されています。
 
 
 **THE★RED STAR**（**ざ・れっどすたー**）は、[うめだ花月](../Page/うめだ花月.md "wikilink")で誕生した[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")の[パンクバンド](https://ja.wikipedia.org/wiki/パンクバンド "wikilink")。

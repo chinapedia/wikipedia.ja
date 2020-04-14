@@ -1,4 +1,4 @@
-> この記事は[BT \(\)](https://ja.wikipedia.org/wiki/BT_\(\))から翻訳されています。
+> この記事は[BT \(航空機\)](https://ja.wikipedia.org/wiki/BT_\(航空機\))から翻訳されています。
 
 
 '''BT *'（*Northrop BT'' ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ノースロップ](../Page/ノースロップ.md "wikilink")社が開発し第二次世界大戦中に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。

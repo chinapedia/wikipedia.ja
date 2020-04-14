@@ -1,4 +1,4 @@
-> この記事は[Portal:/IUPAC](https://ja.wikipedia.org/wiki/Portal:/IUPAC)から翻訳されています。
+> この記事は[Portal:化学/IUPAC化合物区分](https://ja.wikipedia.org/wiki/Portal:化学/IUPAC化合物区分)から翻訳されています。
 
 
 **IUPAC [GLOSSARY OF CLASS NAMES AND REACTIVE INTERMEDIATES BASED ON STRUCTURE (IUPAC Recommendations 1994)](http://www.chem.qmul.ac.uk/iupac/class/)** 詳しくは上記のリンクを参照のこと

@@ -1,4 +1,4 @@
-> この記事は[L\'Arc-en-Ciel \(\)](https://ja.wikipedia.org/wiki/L\'Arc-en-Ciel_\(\))から翻訳されています。
+> この記事は[L\'Arc-en-Ciel \(ビデオ\)](https://ja.wikipedia.org/wiki/L\'Arc-en-Ciel_\(ビデオ\))から翻訳されています。
 
 
 『**L'Arc-en-Ciel**』（ラルク アン シエル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の自主制作ライブビデオ。[1992年](../Page/1992年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")の[難波ROCKETS](https://ja.wikipedia.org/wiki/難波ROCKETS "wikilink")、[1992年](../Page/1992年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")の[新宿LOFTでのライブで無料配布された](../Page/ロフト_\(ライブハウス\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[That\'s!](https://ja.wikipedia.org/wiki/That\'s!)から翻訳されています。
+> この記事は[That\'s!イズミコ](https://ja.wikipedia.org/wiki/That\'s!イズミコ)から翻訳されています。
 
 
 『**That's\!イズミコ**』（ザッツ\!イズミコ）は、[大野安之](../Page/大野安之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[コミック劇画村塾](../Page/劇画村塾.md "wikilink")』（[スタジオシップ](../Page/小池書院.md "wikilink")）にて、創刊号より連載された（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）。単行本は全6巻。

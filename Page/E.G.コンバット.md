@@ -1,4 +1,4 @@
-> この記事は[E.G.](https://ja.wikipedia.org/wiki/E.G.)から翻訳されています。
+> この記事は[E.G.コンバット](https://ja.wikipedia.org/wiki/E.G.コンバット)から翻訳されています。
 
 
 『**E.G.コンバット**』（イージーコンバット）は原作・イラスト[☆よしみる](https://ja.wikipedia.org/wiki/☆よしみる "wikilink")、著[秋山瑞人](../Page/秋山瑞人.md "wikilink")による[ライトノベル](../Page/ライトノベル.md "wikilink")、およびその原作漫画。小説版は[電撃文庫](../Page/電撃文庫.md "wikilink")から3巻まで発売されている。全4巻予定。

@@ -1,4 +1,4 @@
-> この記事は[NBA \(NHK\)](https://ja.wikipedia.org/wiki/NBA_\(NHK\))から翻訳されています。
+> この記事は[NBA中継 \(NHK\)](https://ja.wikipedia.org/wiki/NBA中継_\(NHK\))から翻訳されています。
 
 
 **NBA中継**（エヌビーエーちゅうけい）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[NBA](../Page/NBA.md "wikilink")の試合を中継して放送する[スポーツ中継](../Page/スポーツ中継.md "wikilink")番組のひとつ。

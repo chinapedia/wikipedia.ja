@@ -1,4 +1,4 @@
-> この記事は[Deore XT](https://ja.wikipedia.org/wiki/Deore_XT)から翻訳されています。
+> この記事は[シマノ・Deore XT](https://ja.wikipedia.org/wiki/シマノ・Deore_XT)から翻訳されています。
 
 
 [Shimano_xt_2008_derailleur.jpg](https://ja.wikipedia.org/wiki/File:Shimano_xt_2008_derailleur.jpg "fig:Shimano_xt_2008_derailleur.jpg") **Deore XT**（デオーレ エックスティー）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。

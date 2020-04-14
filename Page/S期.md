@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S期](https://ja.wikipedia.org/wiki/S期)から翻訳されています。
 
 
 **S期**（）は、[DNAの](../Page/デオキシリボ核酸.md "wikilink")[複製が行われる](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")[細胞周期](../Page/細胞周期.md "wikilink")の期間であり、[G<sub>1</sub>期と](../Page/G1期.md "wikilink")[G<sub>2</sub>期の間の期間である](../Page/G2期.md "wikilink")\[1\]。[細胞分裂](../Page/細胞分裂.md "wikilink")が正常に完了するためには[ゲノム](../Page/ゲノム.md "wikilink")の正確な複製が重要であり、そのためS期に起こる過程は緊密に調節されており、広く保存されている。

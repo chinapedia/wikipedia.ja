@@ -1,4 +1,4 @@
-> この記事は[UP \(\)](https://ja.wikipedia.org/wiki/UP_\(\))から翻訳されています。
+> この記事は[UP \(音楽グループ\)](https://ja.wikipedia.org/wiki/UP_\(音楽グループ\))から翻訳されています。
 
 
 *UP(유피・ユーピー)*'は1996年にデビュー、[大韓民国](../Page/大韓民国.md "wikilink")で活動していた男女混成アイドルグループである。[1999年](../Page/1999年.md "wikilink")の夏に解散。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRフィーバー大ヤマト](https://ja.wikipedia.org/wiki/CRフィーバー大ヤマト)から翻訳されています。
 
 
 **CRフィーバー大ヤマト**（しーあーる- だいやまと）は、[三共から](../Page/三共_\(パチンコ\).md "wikilink")[2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")ならびに[2004年](../Page/2004年.md "wikilink")[11月](../Page/11月.md "wikilink")に発売されたCR[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

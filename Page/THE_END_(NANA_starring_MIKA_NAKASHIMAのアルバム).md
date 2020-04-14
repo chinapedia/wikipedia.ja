@@ -1,4 +1,4 @@
-> この記事は[THE END \(NANA starring MIKA NAKASHIMA\)](https://ja.wikipedia.org/wiki/THE_END_\(NANA_starring_MIKA_NAKASHIMA\))から翻訳されています。
+> この記事は[THE END \(NANA starring MIKA NAKASHIMAのアルバム\)](https://ja.wikipedia.org/wiki/THE_END_\(NANA_starring_MIKA_NAKASHIMAのアルバム\))から翻訳されています。
 
 
 『**THE END**』（ジ・エンド）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")が **NANA starring MIKA NAKASHIMA** 名義で、[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースした[アルバム](../Page/アルバム.md "wikilink")。劇場版『[NANA](../Page/NANA.md "wikilink")』は『NANA2』で完結となっており、NANA starring MIKA NAKASHIMAとしては最初で最後のアルバムである。

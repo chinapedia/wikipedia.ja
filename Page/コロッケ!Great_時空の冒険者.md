@@ -1,4 +1,4 @@
-> この記事は[!Great ](https://ja.wikipedia.org/wiki/!Great_)から翻訳されています。
+> この記事は[コロッケ!Great 時空の冒険者](https://ja.wikipedia.org/wiki/コロッケ!Great_時空の冒険者)から翻訳されています。
 
 
 『**コロッケ\!Great 時空の冒険者**』（コロッケグレート じくうのぼうけんしゃ）は、[2004年](../Page/2004年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[コナミから発売された](../Page/コナミデジタルエンタテインメント.md "wikilink")[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。

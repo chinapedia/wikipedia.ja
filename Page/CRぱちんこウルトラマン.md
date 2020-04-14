@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRぱちんこウルトラマン](https://ja.wikipedia.org/wiki/CRぱちんこウルトラマン)から翻訳されています。
 
 
 **CRぱちんこウルトラマン**は、[2006年](../Page/2006年.md "wikilink")、[京楽産業.](../Page/京楽産業..md "wikilink")が開発、発売した特撮テレビドラマ『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』をモチーフとした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[CR機](../Page/CR機.md "wikilink")。『[CRぱちんこウルトラセブン](../Page/CRぱちんこウルトラセブン.md "wikilink")』の後継機。

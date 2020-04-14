@@ -1,4 +1,4 @@
-> この記事は[ S](https://ja.wikipedia.org/wiki/_S)から翻訳されています。
+> この記事は[超攻撃的フットサル チームドS](https://ja.wikipedia.org/wiki/超攻撃的フットサル_チームドS)から翻訳されています。
 
 
 **超攻撃的フットサル チームドS**（ちょうこうげきてきフットサル チーム ドエス）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")「[DIVA](../Page/DIVA_\(テレビ番組\).md "wikilink")」で放送されているコーナーである。

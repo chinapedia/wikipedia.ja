@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[新世紀エヴァンゲリオンRPG](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンRPG)から翻訳されています。
 
 
 **新世紀エヴァンゲリオンRPG**（しんせいきエヴァンゲリオンRPG）とは、[角川書店](../Page/角川書店.md "wikilink")から発売された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のタイトル。TVアニメ『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』を原作としており、参加者は同作品の登場人物を演ずる。

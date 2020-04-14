@@ -1,4 +1,4 @@
-> この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
+> この記事は[GE・アビエーション](https://ja.wikipedia.org/wiki/GE・アビエーション)から翻訳されています。
 
 
 **GE・アビエーション** () は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[航空機](../Page/航空機.md "wikilink")エンジンメーカー。複合企業[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink") (GE) 傘下の、[GE・インフラストラクチャー](https://ja.wikipedia.org/wiki/GE・インフラストラクチャー "wikilink")の一部門。本社は[オハイオ州](../Page/オハイオ州.md "wikilink")[エバンデール](https://ja.wikipedia.org/wiki/エバンデール "wikilink")にある。

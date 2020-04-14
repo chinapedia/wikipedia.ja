@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAクラウンプラザホテル岡山](https://ja.wikipedia.org/wiki/ANAクラウンプラザホテル岡山)から翻訳されています。
 
 
 **ANAクラウンプラザホテル岡山**（エーエヌエークラウンプラザホテルおかやま、）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区に所在する](../Page/北区_\(岡山市\).md "wikilink")[IHG・ANAホテルズグループジャパンが運営する](https://ja.wikipedia.org/wiki/全日空ホテルズ "wikilink")[シティホテル](https://ja.wikipedia.org/wiki/シティホテル "wikilink")。

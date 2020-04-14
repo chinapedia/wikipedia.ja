@@ -77,14 +77,72 @@ YOKOHAMA ANGELS × Atsushi (田村篤士)（2006年月- ）
 
 ## 番組LIVE EVENT
 
-  - Atsushi (田村篤士) ... [シンクバンク](../Page/シンクバンク.md "wikilink") - [FMヨコハマ](../Page/横浜エフエム放送.md "wikilink") [PG2 presents Keep on Smile](https://www.pg2-p.jp/content/keeponsmile_special1_archive)に[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")さん出演　\[[https://ameblo.jp/tamao-blog/\]商品販売もございます](https://ameblo.jp/tamao-blog/%5D商品販売もございます)
-  - 元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")で活躍された - [前田幸長](../Page/前田幸長.md "wikilink")選手が所属していた[芸能事務所](../Page/芸能事務所.md "wikilink")
-  - [そのまんま東さん](https://ja.wikipedia.org/wiki/そのまんま東のオールナイトニッポン "wikilink")（[東国原英夫](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")さん 元[宮崎県知事](../Page/宮崎県知事一覧.md "wikilink"))
+  - Atsushi (田村篤士) ... [シンクバンク](../Page/シンクバンク.md "wikilink") - [FMヨコハマ](../Page/横浜エフエム放送.md "wikilink") [PG2 presents Keep on Smile](https://www.pg2-p.jp/content/keeponsmile_special1_archive)に[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")さん出演　\[[https://ameblo.jp/tamao-blog/\]商品販売もあります](https://ameblo.jp/tamao-blog/%5D商品販売もあります)
+  - 元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")で活躍された -[前田幸長](../Page/前田幸長.md "wikilink")選手が所属していた[芸能事務所](../Page/芸能事務所.md "wikilink")
   - （元[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink") [阿井英二郎](../Page/阿井英二郎.md "wikilink")さん、[JRA](https://ja.wikipedia.org/wiki/JRA "wikilink")[競馬](../Page/競馬.md "wikilink")[騎手](../Page/騎手.md "wikilink")-[田中勝春](../Page/田中勝春.md "wikilink")さん、[オートレーサー](https://ja.wikipedia.org/wiki/オートレーサー "wikilink")[青木治親](../Page/青木治親.md "wikilink")選手、元[F1](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")[レーサー](../Page/自動車競技.md "wikilink")[片山右京](../Page/片山右京.md "wikilink")さん、[世界室内陸上競技](../Page/世界室内陸上競技選手権大会.md "wikilink")[金メダリスト](https://ja.wikipedia.org/wiki/金メダリスト "wikilink")、[ブライアンクレイ選手](../Page/ブライアン・クレイ.md "wikilink")）
-  - 近年では[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") [バラいろダンディ](https://ja.wikipedia.org/wiki/バラいろダンディ "wikilink") 金曜MCでご活躍の[宮崎謙介](https://ja.wikipedia.org/wiki/宮崎謙介 "wikilink")さん（前[衆議院議員](https://ja.wikipedia.org/wiki/日本の国会議員 "wikilink")）が所属されております。
-  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")」にレギュラー出演中（毎週月～金曜 11:55-13:45）国際弁護士 [清原博](https://ja.wikipedia.org/wiki/清原博 "wikilink")先生も所属されております。
-  - [ロードレーサー](https://ja.wikipedia.org/wiki/ロードレーサー "wikilink")[青木治親](../Page/青木治親.md "wikilink")選手、兄の[青木宣篤](../Page/青木宣篤.md "wikilink")（長男）、[青木拓磨](../Page/青木拓磨.md "wikilink")（次男）もロードレースライダーとして活躍され、三人は「[青木三兄弟](https://ja.wikipedia.org/wiki/青木三兄弟 "wikilink")」としても有名で、
-  - [国民的グループ元](https://ja.wikipedia.org/wiki/国民的アイドル "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[森且行](../Page/森且行.md "wikilink")さんが監督されているチーム　[1](http://gree.jp/aoki_haruchika/blog/entry/687683764)　\[[http://gree.jp/aoki_haruchika/blog/entry/687683764\]でも活躍されております](http://gree.jp/aoki_haruchika/blog/entry/687683764%5Dでも活躍されております)。
+      - [そのまんま東さん](https://ja.wikipedia.org/wiki/そのまんま東のオールナイトニッポン "wikilink")（[東国原英夫](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")さん 元[宮崎県知事](../Page/宮崎県知事一覧.md "wikilink"))　出演します
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")」
+      - ４月３日（金）１１：５５－１３：４５
+      - ４月６日（月）１１：５５－１３：４５
+      - ４月１０日（金）１１：５５－１３：４５
+      - ４月１７日（金）１１：５５－１３：４５
+      - ４月２０日（月）１１：５５－１３：４５
+      - ４月２４日（金）１１：５５－１３：４５
+  -
+  - [ＣＢＣ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ_-GO_GO!Smile!- "wikilink")」
+  - ４月２日（木）１３：５５－１５：４９
+  - ４月９日（木）１３：５５－１５：４９
+  - ４月１６日（木）１３：５５－１５：４９
+  - ４月２３日（木）１３：５５－１５：４９
+  - ４月３０日（木）１３：５５－１５：４９
+  -
+  -
+  -
+  -
+  - [朝日新聞　売上高Ｖ４　１５年焼酎ランキング](https://www.asahi.com/articles/ASJ8Y4480J8YTIPE00M.html)
+  - ■[CM](../Page/コマーシャルメッセージ.md "wikilink")　○[霧島酒造](../Page/霧島酒造.md "wikilink") 「[赤霧島 ごほうび方程式「赤キリ ショコラ」篇](https://www.youtube.com/watch?v=MksLcQ6zv18&feature=youtu.be)」[女優](https://ja.wikipedia.org/wiki/女優 "wikilink") Naoko Kitaniさん、
+  - 赤霧島を知る旅「[ブレンド篇](https://www.youtube.com/watch?v=Mh9SuZG0Mzk)」[松坂桃李](https://ja.wikipedia.org/wiki/松坂桃李 "wikilink")さん編
+  - 「[100％こだわり](https://www.youtube.com/watch?v=cpVU9KJJU38)」篇[霧島酒造](../Page/霧島酒造.md "wikilink")さんの企業CMです。混じり気のない、自然は美味しい。
+  - [霧島酒造](../Page/霧島酒造.md "wikilink") ゼロゼロ「[くろっきり](https://www.youtube.com/watch?v=QjRpJoXD-d4)」篇　[山崎紘菜](https://ja.wikipedia.org/wiki/山崎紘菜 "wikilink")さん出演の15秒[TVCM](https://ja.wikipedia.org/wiki/TVCM "wikilink")。
+  -
+  - ４月４日（土）スタート！ 毎週土曜９：００－９：３０ [ＦＭ群馬](../Page/エフエム群馬.md "wikilink")「BAOO高崎プレゼンツ [赤見千尋](../Page/赤見千尋.md "wikilink")のジョッキー魂！」[1](https://www.fmgunma.com/fmg863/jockey-akami/)
+  -
+  -
+  -
+  -
+  -
+  -
+  - 須東潤一さん「第2回 サロン・ド・アール・ジャポネ」（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・パリ）で詩画が展示されます
+  - **【会場】リンダ・ファレル・ギャルリー（フランス・パリ・16区）[2](http://reijinsha.com/event/linda_sp/linda.html)**
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")」にレギュラー出演中（毎週月～金曜 11:55-13:45）[国際弁護士](https://ja.wikipedia.org/wiki/国選弁護士 "wikilink") [清原博](https://ja.wikipedia.org/wiki/清原博 "wikilink")先生も所属されております。
+  - ４月２日（木）１１：５５－１３：４５
+  - [ＣＢＣ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")「[チャント！](https://ja.wikipedia.org/wiki/チャント! "wikilink")」 ４月３日（金）１５：４９－１９：００
+  - ４月９日（木）１１：５５－１３：４５
+  - ４月１６日（木）１１：５５－１３：４５
+  - ４月２３日（木）１１：５５－１３：４５
+  - ４月３０日（木）１１：５５－１３：４５
+  -
+  -
+  -
+  -
+  -
+  - [ロードレーサー](https://ja.wikipedia.org/wiki/ロードレーサー "wikilink")[青木治親](../Page/青木治親.md "wikilink")選手、兄の[青木宣篤](../Page/青木宣篤.md "wikilink")（長男）、[青木拓磨](../Page/青木拓磨.md "wikilink")（次男）も[ロードレース](https://ja.wikipedia.org/wiki/ロードレース "wikilink")[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")として活躍され、三人は「[青木三兄弟](https://ja.wikipedia.org/wiki/青木三兄弟 "wikilink")」としても有名で、
+  - [国民的グループ元](https://ja.wikipedia.org/wiki/国民的アイドル "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[森且行](../Page/森且行.md "wikilink")さんが監督されているチーム　[3](http://gree.jp/aoki_haruchika/blog/entry/687683764)　\[[http://gree.jp/aoki_haruchika/blog/entry/687683764\]でも活躍されております](http://gree.jp/aoki_haruchika/blog/entry/687683764%5Dでも活躍されております)。
   - [女性活躍推進法](https://ja.wikipedia.org/wiki/女性活躍推進法 "wikilink")も話題になるなか、
   - 2019年 ～シェアしたくなる教養メディア～　[文藝春秋](../Page/文藝春秋.md "wikilink")オンラインインタビュー部門第1位を獲得された
   - [英文学者](https://ja.wikipedia.org/wiki/英文学者 "wikilink")、[田嶋陽子](../Page/田嶋陽子.md "wikilink")さん(元[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink"))も所属されております。（新美展 [内閣総理大臣賞](https://ja.wikipedia.org/wiki/内閣総理大臣賞 "wikilink")を[受賞](https://tajimayoko.com/topics/entry-45.html)されております。）
@@ -98,7 +156,9 @@ YOKOHAMA ANGELS × Atsushi (田村篤士)（2006年月- ）
   -
   - 16歳の時に[伊藤敦史さん出演の](../Page/伊藤淳史.md "wikilink")　[大塚製薬](../Page/大塚製薬.md "wikilink")[カロリーメイト](../Page/カロリーメイト.md "wikilink")の[TVCMの撮影に参加する](../Page/コマーシャルメッセージ.md "wikilink")。
       - 17歳からダンスを習い始め「[日本男児](https://ja.wikipedia.org/wiki/日本男児_\(ユニット\) "wikilink")」という男性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")に誘われる。
-      - [岡田マリア](../Page/岡田マリア.md "wikilink")さん ([クリスペプラーズ](../Page/クリス・ペプラー.md "wikilink") Office)と出会う
+      -
+      - DJ[岡田マリア](../Page/岡田マリア.md "wikilink")さん ([クリスペプラーズ](../Page/クリス・ペプラー.md "wikilink") Office)と出会う
+      - [Vanilla Mood](../Page/Vanilla_Mood.md "wikilink")([ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink"))　女性音楽グループを教えてもらう
       - 同番組にも出演経験のある、[歌手](../Page/歌手.md "wikilink")の[藤澤ノリマサ](https://ja.wikipedia.org/wiki/藤澤ノリマサ "wikilink")さんと出会う
       - 元[たのきんトリオ](../Page/たのきんトリオ.md "wikilink")でギタリスト[野村義男](../Page/野村義男.md "wikilink")さんに[USEN](../Page/USEN.md "wikilink")([有線ラジオ放送](https://ja.wikipedia.org/wiki/有線ラジオ放送業務の運用の規正に関する法律 "wikilink"))番組内にて楽曲を評論してもらう
       -
@@ -115,17 +175,17 @@ YOKOHAMA ANGELS × Atsushi (田村篤士)（2006年月- ）
   - [朝](../Page/朝.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[番組](../Page/番組.md "wikilink")『[MORNING STEPS](../Page/MORNING_STEPS.md "wikilink")』、[桜](https://ja.wikipedia.org/wiki/桜 "wikilink")の開花季節に伴ない、
   - [三ツ沢公園](https://ja.wikipedia.org/wiki/三ツ沢公園 "wikilink")から[桜](https://ja.wikipedia.org/wiki/桜 "wikilink")の[開花](https://ja.wikipedia.org/wiki/開花 "wikilink")情報を。[横浜アンパンマンこどもミュージアム](../Page/横浜アンパンマンこどもミュージアム.md "wikilink")の開業を[リポート](https://ja.wikipedia.org/wiki/リポート "wikilink")。
   - 夏のbeach house with 湘南kingに[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[田中みな実](https://ja.wikipedia.org/wiki/田中みな実 "wikilink")さん、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")の[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")[DJさん](../Page/ディスクジョッキー.md "wikilink")、[株式会社サンディさんと共演](../Page/サンディ_\(芸能事務所\).md "wikilink")
-  - ([ミュージックバード](../Page/ミュージックバード.md "wikilink") [2](https://www.kzstation.com/index.html) ♪ [エフエムびざん](../Page/エフエムびざん.md "wikilink")♪[橋本ひろし](../Page/橋本ひろし.md "wikilink")と冒険団、[エフエムやしの実](https://ja.wikipedia.org/wiki/エフエムやしの実 "wikilink")、[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink"))
+  - ([ミュージックバード](../Page/ミュージックバード.md "wikilink") [4](https://www.kzstation.com/index.html) ♪ [エフエムびざん](../Page/エフエムびざん.md "wikilink")♪[、](../Page/橋本ひろし.md "wikilink")[エフエムやしの実](https://ja.wikipedia.org/wiki/エフエムやしの実 "wikilink")、[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink"))
 
 [F4](https://ja.wikipedia.org/wiki/F4 "wikilink"), [5566](../Page/5566_\(音楽ユニット\).md "wikilink") ,[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")台頭時 [energy](https://ja.wikipedia.org/wiki/:zh:Energy "wikilink") ([Universal Music Group](https://ja.wikipedia.org/wiki/Universal_Music_Group "wikilink"))
 
-[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") dミュージック。[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink") [3](https://music.dmkt-sp.jp/song/S1006495310) [4](https://music.dmkt-sp.jp/song/S1006555496) 7 days　[CHINA](https://ja.wikipedia.org/wiki/CHINA "wikilink") shopping's \[[https://www.hyakurakuen.com/s_goods_detail.cgi?CategoryID=74\&GoodsID=2474\]ストリーミングがスタート](https://www.hyakurakuen.com/s_goods_detail.cgi?CategoryID=74&GoodsID=2474%5Dストリーミングがスタート)。
+[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink") dミュージック。[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink") [5](https://music.dmkt-sp.jp/song/S1006495310) [6](https://music.dmkt-sp.jp/song/S1006555496) 7 days　[CHINA](https://ja.wikipedia.org/wiki/CHINA "wikilink") shopping's \[[https://www.hyakurakuen.com/s_goods_detail.cgi?CategoryID=74\&GoodsID=2474\]ストリーミングがスタート](https://www.hyakurakuen.com/s_goods_detail.cgi?CategoryID=74&GoodsID=2474%5Dストリーミングがスタート)。
 
 同局でもご活躍された[CLIFF EDGEさん](../Page/CLIFF_EDGE.md "wikilink")([KING RECORDS](../Page/キングレコード.md "wikilink"))、と出会う
 
 →（[横浜エフエム放送](../Page/横浜エフエム放送.md "wikilink")は[日本音楽事業者協会](../Page/日本音楽事業者協会.md "wikilink")賛助会員)
 
-銭湯アイドルとしても知名度の高い、2019年紅白出場の[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")さん、おんなしように[銭湯](../Page/銭湯.md "wikilink")[健康センター](https://ja.wikipedia.org/wiki/健康センター "wikilink")で楽曲が流れるなど、この時志を共にした、SQUARE HOODさん（[ぐあんばーる](../Page/ぐあんばーる.md "wikilink")）にも[インスピレーション](https://ja.wikipedia.org/wiki/インスピレーション "wikilink")を受ける、Kステーション（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")）、[安田大サーカス](../Page/安田大サーカス.md "wikilink")([クロちゃんも出演](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")）　
+銭湯アイドルとしても知名度の高い、2019年紅白出場の[純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink")さん、おんなしように[銭湯](../Page/銭湯.md "wikilink")[健康センター](https://ja.wikipedia.org/wiki/健康センター "wikilink")で楽曲が流れるなど、この時志を共にした、SQUARE HOODさん（[ぐあんばーる](../Page/ぐあんばーる.md "wikilink")）にも[インスピレーション](https://ja.wikipedia.org/wiki/インスピレーション "wikilink")を受ける。
 
 日本の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[中野定博](https://ja.wikipedia.org/wiki/中野定博 "wikilink")氏、[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")優秀作品賞、( [Stand by U](https://ja.wikipedia.org/wiki/Stand_by_U "wikilink") )『[SHINE/Ride on](https://ja.wikipedia.org/wiki/SHINE/Ride_on "wikilink") 』[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")のREO氏の元、
 
@@ -145,11 +205,11 @@ DANCER、[ブラックミュージック](../Page/ブラックミュージック
 
 2018年7月 株式会社[CyberZ](https://ja.wikipedia.org/wiki/CyberZ "wikilink")と[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")株式会社が共催し運営する「[RAGE](https://rage-esports.jp/)」初となる[プロリーグ](https://ja.wikipedia.org/wiki/プロリーグ "wikilink")として始動した、本格[スマホ](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")[カード](../Page/カード.md "wikilink")バトル[Shadowverse](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")（[シャドウバース](https://ja.wikipedia.org/wiki/シャドウバース "wikilink")）の国内プロリーグ『[RAGE Shadowverse Pro League](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")』に、[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")が参戦し
 
-音楽業界のみならず、[ゲーム](../Page/ゲーム.md "wikilink")産業にも注目が増し、人気が過熱している\[2\]→ [eスポーツ](https://ja.wikipedia.org/wiki/Eスポーツスタジアム "wikilink")
+音楽業界のみならず、[ゲーム](../Page/ゲーム.md "wikilink")産業にも注目が増し、人気が過熱している\[2\]→ [eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")
 
-[参考文献](../Page/参考文献.md "wikilink")「**RAGE** [Shadowverse](https://ja.wikipedia.org/wiki/Shadowverse "wikilink") Pro League 19-20セカンドシーズン」 第12節 12月 21日（土）首位「[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")」が独走 国内最大級の[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")大会　[5](https://rage-esports.jp/)
+[参考文献](../Page/参考文献.md "wikilink")「**RAGE** [Shadowverse](https://ja.wikipedia.org/wiki/Shadowverse "wikilink") Pro League 19-20セカンドシーズン」 第12節 12月 21日（土）首位「[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")」が独走 国内最大級の[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")大会　[7](https://rage-esports.jp/)
 
-2020年東京オリンピックでも話題の、2008年[北京オリンピック](https://ja.wikipedia.org/wiki/北京五輪 "wikilink")、2010年[世界室内陸上競技](../Page/世界室内陸上競技選手権大会.md "wikilink")、優勝者の[ブライアンクレイ選手](../Page/ブライアン・クレイ.md "wikilink") \[[http://www.bryanclay.com/\]も活躍](http://www.bryanclay.com/%5Dも活躍)。
+[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")でも話題の、2008年[北京オリンピック](https://ja.wikipedia.org/wiki/北京五輪 "wikilink")、2010年[世界室内陸上競技](../Page/世界室内陸上競技選手権大会.md "wikilink")、優勝者の[ブライアンクレイ選手](../Page/ブライアン・クレイ.md "wikilink") \[[http://www.bryanclay.com/\]も活躍](http://www.bryanclay.com/%5Dも活躍)。
 
 
 

@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAアフリカ](https://ja.wikipedia.org/wiki/FIBAアフリカ)から翻訳されています。
 
 
 **FIBAアフリカ**（FIBA Africa）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）の傘下にある大陸連盟で、[アフリカ](../Page/アフリカ.md "wikilink")における[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。

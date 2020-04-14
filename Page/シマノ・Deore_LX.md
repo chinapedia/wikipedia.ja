@@ -1,4 +1,4 @@
-> この記事は[Deore LX](https://ja.wikipedia.org/wiki/Deore_LX)から翻訳されています。
+> この記事は[シマノ・Deore LX](https://ja.wikipedia.org/wiki/シマノ・Deore_LX)から翻訳されています。
 
 
 **Deore LX**（デオーレ エルエックス）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[KX](https://ja.wikipedia.org/wiki/KX)から翻訳されています。
+> この記事は[カワサキ・KX](https://ja.wikipedia.org/wiki/カワサキ・KX)から翻訳されています。
 
 
 **KX**（ケイエックス）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")が製造販売している[2ストロークの](../Page/2ストローク機関.md "wikilink")[モトクロス](../Page/モトクロス.md "wikilink")競技用[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されている。

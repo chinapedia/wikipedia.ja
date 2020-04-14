@@ -1,4 +1,4 @@
-> この記事は[B.C.](https://ja.wikipedia.org/wiki/B.C.)から翻訳されています。
+> この記事は[B.C.リッチ・モッキンバード](https://ja.wikipedia.org/wiki/B.C.リッチ・モッキンバード)から翻訳されています。
 
 
 **B.C.リッチ・モッキンバード** (B.C. Rich Mockingbird) は、[B.C.リッチ](../Page/B.C.リッチ.md "wikilink")社の[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。[ベースモデルも存在する](../Page/エレクトリックベース.md "wikilink")。同社の[ワーロックと並んで](https://ja.wikipedia.org/wiki/B.C.リッチ・ワーロック "wikilink")、変形ギターとしては有名なモデル。

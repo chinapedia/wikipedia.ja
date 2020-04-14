@@ -1,4 +1,4 @@
-> この記事は[Believe \(\)](https://ja.wikipedia.org/wiki/Believe_\(\))から翻訳されています。
+> この記事は[Believe \(椎名へきるの曲\)](https://ja.wikipedia.org/wiki/Believe_\(椎名へきるの曲\))から翻訳されています。
 
 
 「**believe**」（ビリーブ）は、[椎名へきる](../Page/椎名へきる.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。2003年1月1日、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")より発売。

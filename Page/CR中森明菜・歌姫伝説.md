@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR中森明菜・歌姫伝説](https://ja.wikipedia.org/wiki/CR中森明菜・歌姫伝説)から翻訳されています。
 
 
 『**CR中森明菜・歌姫伝説**』（シーアールなかもりあきな・うたひめでんせつ）は、[2006年](../Page/2006年.md "wikilink")6月、[大一商会](../Page/大一商会.md "wikilink")が開発、発売した[歌手](../Page/歌手.md "wikilink")の[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をタイアップキャラクターとした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。『[CRピンクレディー](../Page/CRピンクレディー.md "wikilink")』、『CRテレサ・テン』に続く歌手とのタイアップシリーズ（「ミュージック・エンターテイメントシリーズ」）。リーチ時、大当たり時は明菜の歌が流れる他、リーチ時などの「ボイス予告」の音声も明菜本人が演じている。

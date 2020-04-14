@@ -1,4 +1,4 @@
-> この記事は[Lights \(globe\)](https://ja.wikipedia.org/wiki/Lights_\(globe\))から翻訳されています。
+> この記事は[Lights \(globeのアルバム\)](https://ja.wikipedia.org/wiki/Lights_\(globeのアルバム\))から翻訳されています。
 
 
 『**Lights**』（ライツ）は、[2002年](../Page/2002年.md "wikilink")に発売された[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の7枚目、及び8枚目のフル[アルバム](../Page/アルバム.md "wikilink")。[2月6日](../Page/2月6日.md "wikilink")リリースの『**Lights**』と、[4月17日](../Page/4月17日.md "wikilink")リリースの『**Lights2**』がある。

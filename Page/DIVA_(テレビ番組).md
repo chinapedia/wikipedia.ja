@@ -1,4 +1,4 @@
-> この記事は[DIVA \(\)](https://ja.wikipedia.org/wiki/DIVA_\(\))から翻訳されています。
+> この記事は[DIVA \(テレビ番組\)](https://ja.wikipedia.org/wiki/DIVA_\(テレビ番組\))から翻訳されています。
 
 
 『**DIVA**』（ディーバ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[テレビ大阪](../Page/テレビ大阪.md "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[お色気番組](../Page/お色気番組.md "wikilink")）である。テレビ東京では[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から同年[4月3日](../Page/4月3日.md "wikilink")まで、毎週[水曜](../Page/水曜日.md "wikilink") 26時45分 - 27時15分（[木曜](../Page/木曜日.md "wikilink") 2時45分 - 3時15分）に放送。

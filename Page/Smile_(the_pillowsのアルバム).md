@@ -1,4 +1,4 @@
-> この記事は[Smile \(the pillows\)](https://ja.wikipedia.org/wiki/Smile_\(the_pillows\))から翻訳されています。
+> この記事は[Smile \(the pillowsのアルバム\)](https://ja.wikipedia.org/wiki/Smile_\(the_pillowsのアルバム\))から翻訳されています。
 
 
 『**Smile**』（スマイル）は[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")9枚目のアルバム。

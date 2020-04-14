@@ -1,4 +1,4 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[フィーバー電車でGO!](https://ja.wikipedia.org/wiki/フィーバー電車でGO!)から翻訳されています。
 
 
 **フィーバー電車でGO\!**（-でんしゃでごー）は、[2000年](../Page/2000年.md "wikilink")および[2006年](../Page/2006年.md "wikilink")に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売した[CR機](../Page/CR機.md "wikilink")または現金機[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")および[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")で[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")からリリースされたゲームソフト『[電車でGO\!](../Page/電車でGO!.md "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

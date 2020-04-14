@@ -1,4 +1,4 @@
-> この記事は[Celebration \(\)](https://ja.wikipedia.org/wiki/Celebration_\(\))から翻訳されています。
+> この記事は[Celebration \(小泉今日子のアルバム\)](https://ja.wikipedia.org/wiki/Celebration_\(小泉今日子のアルバム\))から翻訳されています。
 
 
 『**Celebration**』（セレブレーション）は、日本の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優である](../Page/俳優.md "wikilink")[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。表題曲が1曲目に収録されているが、これは本アルバムのオリジナルである。[1984年](../Page/1984年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に発売。発売元はビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）。([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): SJX-30249)

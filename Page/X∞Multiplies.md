@@ -1,4 +1,4 @@
-> この記事は[XMultiplies](https://ja.wikipedia.org/wiki/XMultiplies)から翻訳されています。
+> この記事は[X∞Multiplies](https://ja.wikipedia.org/wiki/X∞Multiplies)から翻訳されています。
 
 
 『**X∞MULTIPLIES**』（マルティプライズ） (A\&M SP4813/Alfa ALR-28004) は、[YMOのベストアルバム](../Page/イエロー・マジック・オーケストラ.md "wikilink")。[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[A\&Mレコード](../Page/A&Mレコード.md "wikilink")より発売、日本では1980年[9月5日](../Page/9月5日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりリリースされた。

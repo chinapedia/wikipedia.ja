@@ -1,4 +1,4 @@
-> この記事は[VO](https://ja.wikipedia.org/wiki/VO)から翻訳されています。
+> この記事は[V・O・マールィシェウ記念工場](https://ja.wikipedia.org/wiki/V・O・マールィシェウ記念工場)から翻訳されています。
 
 
 **V・O・マールィシェウ記念工場**（）は、ハリコフ機関車工場(KhPZ)が前身となる、[ウクライナ](../Page/ウクライナ.md "wikilink")の[ハルキウ](../Page/ハルキウ.md "wikilink")に存在する州立の重工業の製造所である。この名前は、[ソ連の政治家](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヴャチェスラフ・マルィシェフ](https://ja.wikipedia.org/wiki/ヴャチェスラフ・マルィシェフ "wikilink")から名前が付けられている。この工場は、[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")、農業機械、石炭採掘機械、砂糖精製機械、[風力発電](../Page/風力発電.md "wikilink")所の設備を作っているが、最も有名なのがソ連の戦車の製造である。これらの戦車には、高速戦車である[BT戦車](../Page/BT戦車.md "wikilink")や、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で有名な[T-34](../Page/T-34.md "wikilink")戦車、冷戦中の[T-64](../Page/T-64.md "wikilink")や[T-80](../Page/T-80.md "wikilink")、最近のウクライナの後継戦車の[T-84](../Page/T-84.md "wikilink")がある。

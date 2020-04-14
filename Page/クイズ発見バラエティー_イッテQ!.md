@@ -1,4 +1,4 @@
-> この記事は[ Q!](https://ja.wikipedia.org/wiki/_Q!)から翻訳されています。
+> この記事は[クイズ発見バラエティー イッテQ!](https://ja.wikipedia.org/wiki/クイズ発見バラエティー_イッテQ!)から翻訳されています。
 
 
 『**クイズ発見バラエティー イッテQ\!**』（クイズはっけんバラエティー イッテキュー）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")23:25 - 23:55 (JST) に放送された[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

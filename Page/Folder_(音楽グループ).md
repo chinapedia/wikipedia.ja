@@ -1,4 +1,4 @@
-> この記事は[Folder \(\)](https://ja.wikipedia.org/wiki/Folder_\(\))から翻訳されています。
+> この記事は[Folder \(音楽グループ\)](https://ja.wikipedia.org/wiki/Folder_\(音楽グループ\))から翻訳されています。
 
 
 **Folder**（フォルダ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混成ダンス＆ボーカルグループ。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[avex tune](https://ja.wikipedia.org/wiki/avex_tune "wikilink")。2000年頃に活動を停止した。

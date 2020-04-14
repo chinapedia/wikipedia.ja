@@ -1,4 +1,4 @@
-> この記事は[Deore](https://ja.wikipedia.org/wiki/Deore)から翻訳されています。
+> この記事は[シマノ・Deore](https://ja.wikipedia.org/wiki/シマノ・Deore)から翻訳されています。
 
 
 **Deore**（デオーレ）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。

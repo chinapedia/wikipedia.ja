@@ -1,4 +1,4 @@
-> この記事は[ZEBEL](https://ja.wikipedia.org/wiki/ZEBEL)から翻訳されています。
+> この記事は[コミックブレイドZEBEL](https://ja.wikipedia.org/wiki/コミックブレイドZEBEL)から翻訳されています。
 
 
 『**コミックブレイドZEBEL**』（コミックブレイドゼーベル）は、[マッグガーデン](../Page/マッグガーデン.md "wikilink")が発刊していた、『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』の増刊号である漫画雑誌。
@@ -118,4 +118,4 @@
 
   - [公式サイト](https://web.archive.org/web/20070916175109/http://www.mag-garden.co.jp/comic-blade/zebel_web/zebel_top.html) - 閉鎖。2007年9月16日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
 
-[Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:マッグガーデン](https://ja.wikipedia.org/wiki/Category:マッグガーデン "wikilink") [Category:不定期刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:不定期刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:月刊コミックブレイド](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイド "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:2007年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2007年休廃刊の雑誌 "wikilink")
+[Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:マッグガーデンの漫画](https://ja.wikipedia.org/wiki/Category:マッグガーデンの漫画 "wikilink") [Category:不定期刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:不定期刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:月刊コミックブレイド](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイド "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:2007年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2007年休廃刊の雑誌 "wikilink")

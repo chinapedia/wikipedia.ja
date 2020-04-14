@@ -1,4 +1,4 @@
-> この記事は[Betty \(\)](https://ja.wikipedia.org/wiki/Betty_\(\))から翻訳されています。
+> この記事は[Betty \(アルバム\)](https://ja.wikipedia.org/wiki/Betty_\(アルバム\))から翻訳されています。
 
 
 『**Betty**』（ベティ）は、日本の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優である](../Page/俳優.md "wikilink")[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の5枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売。発売元はビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）。

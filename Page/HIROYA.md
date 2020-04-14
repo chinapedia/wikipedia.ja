@@ -118,7 +118,7 @@
 ## 外部リンク
 
   -
-  - [HIROYA オフィシャルブログ](http://ameblo.jp/kickboxer-hiroya/)
+  - [HIROYA オフィシャルブログ](https://ameblo.jp/kickboxer-hiroya/)
 
   -
   - [TRY HARDジム](http://www.tryhardgym.com/)

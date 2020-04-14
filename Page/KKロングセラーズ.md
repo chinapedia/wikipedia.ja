@@ -1,4 +1,4 @@
-> この記事は[KK](https://ja.wikipedia.org/wiki/KK)から翻訳されています。
+> この記事は[KKロングセラーズ](https://ja.wikipedia.org/wiki/KKロングセラーズ)から翻訳されています。
 
 
 **株式会社ロングセラーズ**(KKロングセラーズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。

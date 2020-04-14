@@ -1,4 +1,4 @@
-> この記事は[YAMABOKU](https://ja.wikipedia.org/wiki/YAMABOKU)から翻訳されています。
+> この記事は[YAMABOKUワイルドスノーパーク](https://ja.wikipedia.org/wiki/YAMABOKUワイルドスノーパーク)から翻訳されています。
 
 
 [Yamaboku-.jpg](https://ja.wikipedia.org/wiki/File:Yamaboku-.jpg "fig:Yamaboku-.jpg")

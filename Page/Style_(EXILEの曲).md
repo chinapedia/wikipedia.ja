@@ -1,4 +1,4 @@
-> この記事は[Style \(EXILE\)](https://ja.wikipedia.org/wiki/Style_\(EXILE\))から翻訳されています。
+> この記事は[Style \(EXILEの曲\)](https://ja.wikipedia.org/wiki/Style_\(EXILEの曲\))から翻訳されています。
 
 
 「**Style**」（スタイル）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

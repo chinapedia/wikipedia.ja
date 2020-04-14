@@ -1,4 +1,4 @@
-> この記事は[Robot \(\)](https://ja.wikipedia.org/wiki/Robot_\(\))から翻訳されています。
+> この記事は[Robot \(雑誌\)](https://ja.wikipedia.org/wiki/Robot_\(雑誌\))から翻訳されています。
 
 
 『**robot**』（ロボット）は[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[村田蓮爾](../Page/村田蓮爾.md "wikilink")責任編集のフルカラー[コミック誌である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[2004年](../Page/2004年.md "wikilink")に創刊された。[サブタイトル](../Page/サブタイトル.md "wikilink")は「SUPER COLOR COMIC」。

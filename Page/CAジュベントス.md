@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAジュベントス](https://ja.wikipedia.org/wiki/CAジュベントス)から翻訳されています。
 
 
 **CAジュベントス** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[モオカ](https://ja.wikipedia.org/wiki/モオカ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルにはジュベントスと名乗るクラブが他にもあるため、サンパウロ州の略称を表す「SP」を付けて**ジュベントス-SP** (Juventus-SP) と表記されることがある。

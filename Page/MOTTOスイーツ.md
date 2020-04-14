@@ -1,4 +1,4 @@
-> この記事は[MOTTO](https://ja.wikipedia.org/wiki/MOTTO)から翻訳されています。
+> この記事は[MOTTOスイーツ](https://ja.wikipedia.org/wiki/MOTTOスイーツ)から翻訳されています。
 
 
 「**MOTTOスイーツ**」（もっとすいーつ）は、[椎名へきる](../Page/椎名へきる.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。2002年5月22日、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")より発売。

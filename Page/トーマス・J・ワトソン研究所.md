@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[トーマス・J・ワトソン研究所](https://ja.wikipedia.org/wiki/トーマス・J・ワトソン研究所)から翻訳されています。
 
 
 **トーマス・J・ワトソン研究所**（トーマス・ジェイ・ワトソンけんきゅうじょ、Thomas J. Watson Research Center）は、[IBM](../Page/IBM.md "wikilink")の研究部門の本部である。研究所の名称は、[1915年](../Page/1915年.md "wikilink")から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")までIBMを[社長](../Page/社長.md "wikilink")・[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")として率いていた、[トーマス・J ・ワトソン・シニアとその息子](https://ja.wikipedia.org/wiki/トーマス・J_・ワトソン・シニア "wikilink")[トーマス・J ・ワトソン・ジュニアの名前に因んだものである](https://ja.wikipedia.org/wiki/トーマス・J_・ワトソン・ジュニア "wikilink")。

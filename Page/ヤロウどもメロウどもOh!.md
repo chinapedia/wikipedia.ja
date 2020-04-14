@@ -1,4 +1,4 @@
-> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+> この記事は[ヤロウどもメロウどもOh!](https://ja.wikipedia.org/wiki/ヤロウどもメロウどもOh!)から翻訳されています。
 
 
 **ヤロウどもメロウどもOh\!**（－ オー）は、かつてラジオたんぱ（現・ラジオNIKKEI ＝ [日経ラジオ社](../Page/日経ラジオ社.md "wikilink")）の[月曜日](../Page/月曜日.md "wikilink")から[土曜日](../Page/土曜日.md "wikilink")17:00－18:00の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称**ヤロメロ**。

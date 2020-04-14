@@ -1,4 +1,4 @@
-> この記事は[K.O.](https://ja.wikipedia.org/wiki/K.O.)から翻訳されています。
+> この記事は[K.O.マサトメ](https://ja.wikipedia.org/wiki/K.O.マサトメ)から翻訳されています。
 
 
 『**K.O.マサトメ**』（ノックアウト・マサトメ）は、[園田辰之助](https://ja.wikipedia.org/wiki/園田辰之助 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")作品。島根県立幡ヶ谷高校という架空の高校にあるボクシング部を舞台とした[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")である。主人公・正留香織（マサトメ）を中心として、リングすらない弱小ボクシング部で展開される様々な騒動を描く。連載が開始された『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』[1996年](../Page/1996年.md "wikilink")22・23合併号では、[畑山隆則](../Page/畑山隆則.md "wikilink")へのインタビューが3ページに渡って掲載された。幡ヶ谷高校は、作者の出身校である[島根県立松江南高等学校](../Page/島根県立松江南高等学校.md "wikilink")がモデルとなっている。

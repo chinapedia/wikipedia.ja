@@ -1,4 +1,4 @@
-> この記事は[PCL](https://ja.wikipedia.org/wiki/PCL)から翻訳されています。
+> この記事は[ソニーPCL](https://ja.wikipedia.org/wiki/ソニーPCL)から翻訳されています。
 
 
 **ソニーPCL株式会社**（ソニーピーシーエル、）は、主に[映画](../Page/映画.md "wikilink")・映像コンテンツの[ポストプロダクション](../Page/ポストプロダクション.md "wikilink")を行う[ソニーグループ](../Page/ソニーグループ.md "wikilink")の[会社](../Page/会社.md "wikilink")である。
@@ -27,9 +27,13 @@
 #### アニメーション
 
   - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink") - ビデオ編集
+  - [歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink") - オンライン編集
   - [鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink") - 編集
+  - [ケロロ軍曹](../Page/ケロロ軍曹.md "wikilink") - ビデオ編集
+  - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink") - ビデオ編集→オンライン編集
   - [僕のヒーローアカデミア](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_\(アニメ\) "wikilink") - オンライン編集
   - [魔法科高校の劣等生](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink") - ビデオ編集
+  - [PSYCHO-PASS](https://ja.wikipedia.org/wiki/PSYCHO-PASS "wikilink") - ビデオ編集→オンライン編集
 
 ## 関連項目
 

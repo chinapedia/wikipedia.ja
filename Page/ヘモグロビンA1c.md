@@ -1,4 +1,4 @@
-> この記事は[A1c](https://ja.wikipedia.org/wiki/A1c)から翻訳されています。
+> この記事は[ヘモグロビンA1c](https://ja.wikipedia.org/wiki/ヘモグロビンA1c)から翻訳されています。
 
 
 **ヘモグロビンA**（ヘモグロビンエイワンシー\[1\]; Hemoglobin A; **[HbA{{sub](https://ja.wikipedia.org/wiki/w:HbA1c "wikilink")**）は、[グリコヘモグロビン](../Page/グリコヘモグロビン.md "wikilink")のうち、[ヘモグロビン](../Page/ヘモグロビン.md "wikilink")のβ鎖のN末端に[グルコース](../Page/グルコース.md "wikilink")が結合した糖化蛋白質である。「糖化ヘモグロビン」と呼ばれることもある。WHOが推奨する基準値は、48 mmol/[mol以下とされている](../Page/モル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ A310 MRTT](https://ja.wikipedia.org/wiki/_A310_MRTT)から翻訳されています。
+> この記事は[エアバス A310 MRTT](https://ja.wikipedia.org/wiki/エアバス_A310_MRTT)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=A310 MRTT | 画像=<File:Airbus> A310 MRTT 2.jpg | キャプション=2007年、[パリ航空ショー](https://ja.wikipedia.org/wiki/パリ航空ショー "wikilink")に出展された[ドイツ空軍のA](https://ja.wikipedia.org/wiki/ドイツ空軍_\(ドイツ連邦軍\) "wikilink")310 MRTT | 用途=[空中給油](../Page/空中給油.md "wikilink")/[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink") | 分類=[空中給油機](../Page/空中給油機.md "wikilink")/[輸送機](../Page/輸送機.md "wikilink") | 設計者= | 製造者=[EADS](../Page/エアバス・グループ.md "wikilink")/[エアバス](../Page/エアバス.md "wikilink")/[ルフトハンザ・テクニック](../Page/ルフトハンザドイツ航空.md "wikilink") | 運用者 more=
@@ -30,7 +30,7 @@ EADS、エアバス、ルフトハンザ・テクニックにより中古のA310
 
 フライングブームを装備したデモンストレーター機は、2017年5月9日に[F-16に対する自動空中給油の試験に初めて成功したと発表された](../Page/F-16_\(戦闘機\).md "wikilink")\[18\]。
 
-ドイツが所有する機体には、生物学的封鎖を可能とする装備を有する機体があり、[2020年](../Page/2020年.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[武漢市](../Page/武漢市.md "wikilink")で[肺炎が流行した際](../Page/2019年-2020年中国武漢における肺炎の流行.md "wikilink")、現地に滞在していたドイツ人を本国へ帰還させる手段として利用されたことがある\[19\]。
+ドイツが所有する機体には、生物学的封鎖を可能とする装備を有する機体があり、[2020年](../Page/2020年.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[武漢市](../Page/武漢市.md "wikilink")で[肺炎が流行した際](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、現地に滞在していたドイツ人を本国へ帰還させる手段として利用されたことがある\[19\]。
 
 <File:CC-150> Polaris tanker refueling two CF-18 Hornets.jpg|2機の[CF-18への給油体勢に入るCC](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")-150 <File:Canadian> relief transport.jpg|左側面の大型扉より荷下ろしを行うCC-150 <File:Airbus> A310 MRT MedEvac - ILA2002-03.jpg|医療搬送仕様のA310 MRT（A310輸送機型） [File:A310MRTT.jpg|フライングブームを装備したデモンストレーター機](File:A310MRTT.jpg%7Cフライングブームを装備したデモンストレーター機)
 

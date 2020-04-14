@@ -1,4 +1,4 @@
-> この記事は[Leaf](https://ja.wikipedia.org/wiki/Leaf)から翻訳されています。
+> この記事は[Leafアミューズメントソフト](https://ja.wikipedia.org/wiki/Leafアミューズメントソフト)から翻訳されています。
 
 
 『**Leafアミューズメントソフト**』は、[Leaf](../Page/Leaf.md "wikilink")より発売された、[バラエティ](https://ja.wikipedia.org/wiki/バラエティ "wikilink")ソフトのシリーズ。[2009年](../Page/2009年.md "wikilink")現在で5作が発売されている。全て[ソフ倫](https://ja.wikipedia.org/wiki/ソフ倫 "wikilink")レーティング[18禁](../Page/アダルトゲーム.md "wikilink")。

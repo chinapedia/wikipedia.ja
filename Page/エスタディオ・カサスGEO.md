@@ -1,4 +1,4 @@
-> この記事は[GEO](https://ja.wikipedia.org/wiki/GEO)から翻訳されています。
+> この記事は[エスタディオ・カサスGEO](https://ja.wikipedia.org/wiki/エスタディオ・カサスGEO)から翻訳されています。
 
 
 **エスタディオ・カサスGEO**（*Estadio Casas GEO* ）は、[メキシコ](../Page/メキシコ.md "wikilink")の[バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")[メヒカリにある](https://ja.wikipedia.org/wiki/メヒカリ_\(バハ・カリフォルニア州\) "wikilink")[スタジアム](../Page/スタジアム.md "wikilink")。16,500人収容。

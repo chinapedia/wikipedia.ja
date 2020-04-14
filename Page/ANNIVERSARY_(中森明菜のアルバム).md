@@ -1,4 +1,4 @@
-> この記事は[ANNIVERSARY \(\)](https://ja.wikipedia.org/wiki/ANNIVERSARY_\(\))から翻訳されています。
+> この記事は[ANNIVERSARY \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/ANNIVERSARY_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**ANNIVERSARY**』（アニバーサリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の5枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1984年5月1日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12591, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8091)。

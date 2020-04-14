@@ -1,4 +1,4 @@
-> この記事は[CLAMPTRPG](https://ja.wikipedia.org/wiki/CLAMPTRPG)から翻訳されています。
+> この記事は[CLAMP学園TRPG](https://ja.wikipedia.org/wiki/CLAMP学園TRPG)から翻訳されています。
 
 
 **CLAMP学園TRPG**（クランプがくえんTRPG）は、[CLAMP](../Page/CLAMP.md "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品『[CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")』を原作にした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のタイトル。ゲームデザインは[松本富之](https://ja.wikipedia.org/wiki/松本富之 "wikilink")が担当している。

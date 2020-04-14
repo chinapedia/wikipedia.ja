@@ -1,4 +1,4 @@
-> この記事は[Biz](https://ja.wikipedia.org/wiki/Biz)から翻訳されています。
+> この記事は[Biz・ホーダイ](https://ja.wikipedia.org/wiki/Biz・ホーダイ)から翻訳されています。
 
 
 **Biz・ホーダイ**（ビズ・ホーダイ）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink")[FOMA](../Page/FOMA.md "wikilink")の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向け[パケット通信料定額サービスである](../Page/パケット定額制.md "wikilink")。本項では、後継サービスとなる**Biz・ホーダイ ダブル**及び、メール利用者向けサービスとなる**Biz・ホーダイ シンプル**についても、併せて述べる。

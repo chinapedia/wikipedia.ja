@@ -1,4 +1,4 @@
-> この記事は[ SEIREI-SONGS](https://ja.wikipedia.org/wiki/_SEIREI-SONGS)から翻訳されています。
+> この記事は[うたうたウ〜 SEIREI-SONGS](https://ja.wikipedia.org/wiki/うたうたウ〜_SEIREI-SONGS)から翻訳されています。
 
 
 『**うたうたウ〜 SEIREI SONGS**』（UTAUTA-UH）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が[2000年](../Page/2000年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した[プレイステーション専用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[音楽ゲーム](../Page/音楽ゲーム.md "wikilink") の要素を取り入れた [アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink") 。

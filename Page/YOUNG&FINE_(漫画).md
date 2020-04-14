@@ -1,4 +1,4 @@
-> この記事は[YOUNG\&FINE \(\)](https://ja.wikipedia.org/wiki/YOUNG\&FINE_\(\))から翻訳されています。
+> この記事は[YOUNG\&FINE \(漫画\)](https://ja.wikipedia.org/wiki/YOUNG\&FINE_\(漫画\))から翻訳されています。
 
 
 '''YOUNG\&FINE -うみべのまちでぼくらはなかよしだったか- '''（やんぐあんどふぁいん-）は、[山本直樹](../Page/山本直樹.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。1992年2月に[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")より出版。のち1997年10月に新版に改められる。舞台は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[檜山郡](../Page/檜山郡.md "wikilink")[江差町](../Page/江差町.md "wikilink")がモデルとなっている。

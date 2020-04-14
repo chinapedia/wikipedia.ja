@@ -1,4 +1,4 @@
-> この記事は[ALL MY LOVE \(\)](https://ja.wikipedia.org/wiki/ALL_MY_LOVE_\(\))から翻訳されています。
+> この記事は[ALL MY LOVE \(堀江由衣の曲\)](https://ja.wikipedia.org/wiki/ALL_MY_LOVE_\(堀江由衣の曲\))から翻訳されています。
 
 
 『**ALL MY LOVE**』（オールマイラブ）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より発売。初回盤は[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様。

@@ -1,4 +1,4 @@
-> この記事は[RKO](https://ja.wikipedia.org/wiki/RKO)から翻訳されています。
+> この記事は[レイテッドRKO](https://ja.wikipedia.org/wiki/レイテッドRKO)から翻訳されています。
 
 
 [RatedRKO.jpg](https://ja.wikipedia.org/wiki/File:RatedRKO.jpg "fig:RatedRKO.jpg") **Rated-RKO**（レイテッド・アール・ケー・オー）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")に登場した[エッジと](../Page/アダム・コープランド.md "wikilink")[ランディ・オートン](../Page/ランディ・オートン.md "wikilink")の2大トップヒールで結成された[タッグチーム](../Page/タッグチーム.md "wikilink")である。日本の[J SPORTSの字幕放送では](../Page/J_SPORTS.md "wikilink")、「**R指定のRKO**」と訳された。

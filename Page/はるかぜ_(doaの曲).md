@@ -1,4 +1,4 @@
-> この記事は[ \(doa\)](https://ja.wikipedia.org/wiki/_\(doa\))から翻訳されています。
+> この記事は[はるかぜ \(doaの曲\)](https://ja.wikipedia.org/wiki/はるかぜ_\(doaの曲\))から翻訳されています。
 
 
 「**はるかぜ**」は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")9枚目のシングル。

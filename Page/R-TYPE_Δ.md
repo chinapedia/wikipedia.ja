@@ -1,4 +1,4 @@
-> この記事は[R-TYPE ](https://ja.wikipedia.org/wiki/R-TYPE_)から翻訳されています。
+> この記事は[R-TYPE Δ](https://ja.wikipedia.org/wiki/R-TYPE_Δ)から翻訳されています。
 
 
 『**R-TYPE Δ**』（アール・タイプ デルタ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")に[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")から発売された、[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[HIRO](https://ja.wikipedia.org/wiki/HIRO)から翻訳されています。
+> この記事は[HIRO学園](https://ja.wikipedia.org/wiki/HIRO学園)から翻訳されています。
 
 
 **HIRO学園**（ひろがくえん; ）は、[岐阜県](../Page/岐阜県.md "wikilink")[大垣市](../Page/大垣市.md "wikilink")にある[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")学校、および運営する[学校法人](../Page/学校法人.md "wikilink")。正式名は「HIRO学園エスコーラブラジレイラプロフェソールカワセ」。[川瀬充弘](https://ja.wikipedia.org/wiki/川瀬充弘 "wikilink")が、[1999年](../Page/1999年.md "wikilink")に廃園前のブラジル人託児所を引き継いだことがきっかけで、[2000年](../Page/2000年.md "wikilink")に私塾としてスタート。

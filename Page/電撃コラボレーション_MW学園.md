@@ -1,4 +1,4 @@
-> この記事は[ MW](https://ja.wikipedia.org/wiki/_MW)から翻訳されています。
+> この記事は[電撃コラボレーション MW学園](https://ja.wikipedia.org/wiki/電撃コラボレーション_MW学園)から翻訳されています。
 
 
 **電撃コラボレーション企画 MW学園**（でんげきコラボレーション NWがくえん）は2005年3月に発刊された『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink") SPECIAL 2005 SPRING』に掲載された特別企画である。

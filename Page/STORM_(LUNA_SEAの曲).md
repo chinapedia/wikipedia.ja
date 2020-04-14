@@ -1,4 +1,4 @@
-> この記事は[STORM \(LUNA SEA\)](https://ja.wikipedia.org/wiki/STORM_\(LUNA_SEA\))から翻訳されています。
+> この記事は[STORM \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/STORM_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**STORM**」（ストーム）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")発売。
@@ -7,6 +7,7 @@
 
   - 初回限定盤はオリジナルプラケース入り。約1年にわたる活動休止期間からの再開第1弾シングル。
   - 70万枚以上を売り上げ、LUNA SEAのシングルでは最大のセールスを記録している。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

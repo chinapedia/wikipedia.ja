@@ -1,4 +1,4 @@
-> この記事は[Scratch \(\)](https://ja.wikipedia.org/wiki/Scratch_\(\))から翻訳されています。
+> この記事は[Scratch \(木村カエラのアルバム\)](https://ja.wikipedia.org/wiki/Scratch_\(木村カエラのアルバム\))から翻訳されています。
 
 
 **Scratch**（スクラッチ）は、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")のメジャー3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")。

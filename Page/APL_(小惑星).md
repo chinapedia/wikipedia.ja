@@ -1,4 +1,4 @@
-> この記事は[APL \(\)](https://ja.wikipedia.org/wiki/APL_\(\))から翻訳されています。
+> この記事は[APL \(小惑星\)](https://ja.wikipedia.org/wiki/APL_\(小惑星\))から翻訳されています。
 
 
 (132524) **APL**は[太陽系](../Page/太陽系.md "wikilink")の[小惑星](../Page/小惑星.md "wikilink")の一つ。[1992年](../Page/1992年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[リンカーン研究所](https://ja.wikipedia.org/wiki/リンカーン研究所 "wikilink")の天文サーベイ[LINEARによって発見された](../Page/リンカーン地球近傍小惑星探査.md "wikilink")。

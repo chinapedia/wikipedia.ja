@@ -1,4 +1,4 @@
-> この記事は[You \(\)](https://ja.wikipedia.org/wiki/You_\(\))から翻訳されています。
+> この記事は[You \(木村カエラの曲\)](https://ja.wikipedia.org/wiki/You_\(木村カエラの曲\))から翻訳されています。
 
 
 **You**（ユー）は、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")のメジャー5枚目のシングルで、[コロムビアミュージックエンタテインメントから](../Page/日本コロムビア.md "wikilink")2006年1月18日に発売。

@@ -1,4 +1,4 @@
-> この記事は[ODYSSEY \(\)](https://ja.wikipedia.org/wiki/ODYSSEY_\(\))から翻訳されています。
+> この記事は[ODYSSEY \(平原綾香のアルバム\)](https://ja.wikipedia.org/wiki/ODYSSEY_\(平原綾香のアルバム\))から翻訳されています。
 
 
 『**ODYSSEY**』（オデッセイ）は、[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ドリーミュージック](../Page/ドリーミュージック.md "wikilink")よりリリースされた[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")のファーストアルバム。

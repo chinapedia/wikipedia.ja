@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[以心電信 \(YMOの曲\)](https://ja.wikipedia.org/wiki/以心電信_\(YMOの曲\))から翻訳されています。
 
 
 「**以心電信**」（You've Got To Help Yourself、いしんでんしん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ「[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）」の9作目の[シングル](../Page/シングル.md "wikilink")。または同シングルに収録された曲。シングルは[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")（Y.M.O.レーベル）よりリリースされた。
@@ -30,6 +30,6 @@
 
 ## 脚注
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:細野晴臣が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が作詞作曲した楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:高橋幸宏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が制作した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:細野晴臣が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が作詞作曲した楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:高橋幸宏が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が作詞作曲した楽曲 "wikilink") [Category:ピーター・バラカンが作詞した楽曲](https://ja.wikipedia.org/wiki/Category:ピーター・バラカンが作詞した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.  [1979年](../Page/1979年.md "wikilink")国際児童年キャンペーンソングとして使用された「[ビューティフル・ネーム](../Page/ビューティフル・ネーム.md "wikilink")」と比較して

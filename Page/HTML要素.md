@@ -1,4 +1,4 @@
-> この記事は[HTML](https://ja.wikipedia.org/wiki/HTML)から翻訳されています。
+> この記事は[HTML要素](https://ja.wikipedia.org/wiki/HTML要素)から翻訳されています。
 
 
 **HTML要素**（HTMLようそ、）の記事では、[HTML文書を構成する各種の要素を解説する](../Page/HyperText_Markup_Language.md "wikilink")。なお、一般に「HTML要素」と言った場合、HTML文書において「html」というタグ名のルート要素を指すことが多い。

@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[ユニティ \(ISS\)](https://ja.wikipedia.org/wiki/ユニティ_\(ISS\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/image:ISS_Unity_module.jpg "wikilink")
@@ -35,4 +35,4 @@
   - [Unity Node 1](http://www.nasa.gov/mission_pages/station/structure/elements/node1.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
   - [UNITY CONNECTING MODULE](http://spaceflight.nasa.gov/spacenews/factsheets/pdfs/unity.pdf) (PDF) -- NASA
 
-[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:1998年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1998年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:1998年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1998年の宇宙飛行 "wikilink")

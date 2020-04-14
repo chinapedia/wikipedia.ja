@@ -1,4 +1,4 @@
-> この記事は[COVERS](https://ja.wikipedia.org/wiki/COVERS)から翻訳されています。
+> この記事は[真心COVERS](https://ja.wikipedia.org/wiki/真心COVERS)から翻訳されています。
 
 
 『**真心COVERS**』（まごころカヴァーズ）は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。
@@ -50,6 +50,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/VA/Compilation/KSCL-867/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Compilation/discography/KSCL-867)
 
 [Category:2004年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のトリビュート・アルバム "wikilink") [Category:真心ブラザーズのアルバム](https://ja.wikipedia.org/wiki/Category:真心ブラザーズのアルバム "wikilink")

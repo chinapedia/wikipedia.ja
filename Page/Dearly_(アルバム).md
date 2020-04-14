@@ -1,4 +1,4 @@
-> この記事は[Dearly \(\)](https://ja.wikipedia.org/wiki/Dearly_\(\))から翻訳されています。
+> この記事は[Dearly \(アルバム\)](https://ja.wikipedia.org/wiki/Dearly_\(アルバム\))から翻訳されています。
 
 
 『**Dearly**』（ディアリー）は、[Janne Da Arcのインディーズ](../Page/Janne_Da_Arc.md "wikilink")1枚目の[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink") 。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")発売。また、[大阪城ホール](../Page/大阪城ホール.md "wikilink")で行なわれた凱旋ライブのタイトルでもある。

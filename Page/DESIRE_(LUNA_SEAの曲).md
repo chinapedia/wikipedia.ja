@@ -1,11 +1,11 @@
-> この記事は[DESIRE \(LUNA SEA\)](https://ja.wikipedia.org/wiki/DESIRE_\(LUNA_SEA\))から翻訳されています。
+> この記事は[DESIRE \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/DESIRE_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**DESIRE**」（ディザイア）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")発売。初回限定盤はプラケース入り。
 
 ## 解説
 
-バンドの初[東京ドーム](../Page/東京ドーム.md "wikilink")公演「LUNATIC TOKYO」の直前にリリースされた。 発売当時SUGIZOは「LUNA SEAは攻撃的なバンドだという確固たる姿勢を打ち出したかった」と雑誌で語っている。
+バンドの初[東京ドーム](../Page/東京ドーム.md "wikilink")公演「LUNATIC TOKYO」の直前にリリースされた。 発売当時SUGIZOは「LUNA SEAは攻撃的なバンドだという確固たる姿勢を打ち出したかった」と雑誌で語っている。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

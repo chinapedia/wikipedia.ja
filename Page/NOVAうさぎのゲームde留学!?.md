@@ -1,4 +1,4 @@
-> この記事は[NOVAde!\?](https://ja.wikipedia.org/wiki/NOVAde!\?)から翻訳されています。
+> この記事は[NOVAうさぎのゲームde留学!\?](https://ja.wikipedia.org/wiki/NOVAうさぎのゲームde留学!\?)から翻訳されています。
 
 
 『**NOVAうさぎのゲームで留学\!?**』（のばうさぎのゲームでりゅうがく）は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")稼働開始。

@@ -1,4 +1,4 @@
-> この記事は[ WONDER KITCHEN](https://ja.wikipedia.org/wiki/_WONDER_KITCHEN)から翻訳されています。
+> この記事は[美食結社 WONDER KITCHEN](https://ja.wikipedia.org/wiki/美食結社_WONDER_KITCHEN)から翻訳されています。
 
 
 **美食結社　WONDER KITCHEN（ワンダーキッチン）**は、様々な一流[シェフ](../Page/シェフ.md "wikilink")が一般家庭にて食に関する悩みをズバッと解決する番組。

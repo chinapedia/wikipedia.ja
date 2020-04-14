@@ -6,12 +6,12 @@
 ## 解説
 
   - 本作品は前作『[THE FRUSTRATED](../Page/THE_FRUSTRATED.md "wikilink")』から2年10ヶ月ぶりの新作で、『Re-birth』のコンセプトの名の下に活動を再開したGLAYの作品となっている。
-  - 初回限定盤には、限定[DVD](../Page/DVD.md "wikilink")が付属される。「ROCK'N'ROLL SWINDLE」他6曲分の[PVと](../Page/ミュージック・ビデオ.md "wikilink")、今アルバムのジャケット撮影時に収録した「LOVE IS BEAUTIFUL ROAD MOVIE」が収められる。また、32Pに渡るブックレット付スリーブケース仕様となっている。
+  - 初回限定盤には、限定[DVD](../Page/DVD.md "wikilink")が付属される。「ROCK'N'ROLL SWINDLE」他6曲分の[PVと](../Page/ミュージック・ビデオ.md "wikilink")、今アルバムのジャケット撮影時に収録した「LOVE IS BEAUTIFUL ROAD MOVIE」が収められる。また、32Pにわたるブックレット付スリーブケース仕様となっている。
   - ジョイフルタウンの帆苅智之による[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")が付属している。
   - 2007年1月からは、このアルバムを受けてのツアー・GLAY ARENA TOUR 2007「LOVE IS BEAUTIFUL」が開催されている。
   - 歌詞紙の一部に誤植があり、希望者は東芝EMI株式会社『GLAY歌詞紙係』へ歌詞紙を郵送することで、新しい歌詞紙と交換することが出来た。
-  - 偶然なのか意図的なのかは不明だが、3の倍数番目のオリジナル・アルバムのタイトルに、「**LOVE**」という言葉が含まれていた（3rd『[BE**LOVE**D](../Page/BELOVED.md "wikilink")』、6th『[ONE **LOVE**](../Page/ONE_LOVE_\(GLAYのアルバム\).md "wikilink")』、9th『**LOVE** IS BEAUTIFUL』）\[1\]が、12thアルバムのタイトルが『[GUILTY](https://ja.wikipedia.org/wiki/GUILTY_\(GLAYのアルバム\) "wikilink")』のため、この法則は途切れている。
-  - 今作に収録された14曲のうち9曲はベストアルバム『[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")』に収録されている(「SCREAM」「ROCK'N'ROLL SWINDLE」「LAYLA」「ANSWER」は今作に収録されたバージョンを収録している)。
+  - 偶然なのか意図的なのかは不明だが、3の倍数番目のオリジナル・アルバムのタイトルに、「**LOVE**」という言葉が含まれていた（3rd『[BE**LOVE**D](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』、6th『[ONE **LOVE**](../Page/ONE_LOVE_\(GLAYのアルバム\).md "wikilink")』、9th『**LOVE** IS BEAUTIFUL』）\[1\]が、12thアルバムのタイトルが『[GUILTY](https://ja.wikipedia.org/wiki/GUILTY_\(GLAYのアルバム\) "wikilink")』のため、この法則は途切れている。
+  - 本作に収録された14曲のうち9曲はベストアルバム『[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")』に収録されている(「SCREAM」「ROCK'N'ROLL SWINDLE」「LAYLA」「ANSWER」は今作に収録されたバージョンを収録している)。
 
 ## 収録曲
 

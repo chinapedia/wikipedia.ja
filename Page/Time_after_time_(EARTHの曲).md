@@ -1,4 +1,4 @@
-> この記事は[Time after time \(EARTH\)](https://ja.wikipedia.org/wiki/Time_after_time_\(EARTH\))から翻訳されています。
+> この記事は[Time after time \(EARTHの曲\)](https://ja.wikipedia.org/wiki/Time_after_time_\(EARTHの曲\))から翻訳されています。
 
 
 「**time after time**」（タイム・アフター・タイム）は、日本の歌手グループ、[EARTHのデビューシングル](../Page/EARTH_\(歌手グループ\).md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")発売。

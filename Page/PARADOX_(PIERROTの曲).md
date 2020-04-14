@@ -1,4 +1,4 @@
-> この記事は[PARADOX \(PIERROT\)](https://ja.wikipedia.org/wiki/PARADOX_\(PIERROT\))から翻訳されています。
+> この記事は[PARADOX \(PIERROTの曲\)](https://ja.wikipedia.org/wiki/PARADOX_\(PIERROTの曲\))から翻訳されています。
 
 
 「**PARADOX**」（パラドクス）は、[2001年](../Page/2001年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")に限定発売された、[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のシングル。

@@ -1,4 +1,4 @@
-> この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
+> この記事は[ヤマハ・RD](https://ja.wikipedia.org/wiki/ヤマハ・RD)から翻訳されています。
 
 
 **ヤマハ・RD**（アールディー）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種。50ccクラスから400ccクラスまで[排気量](../Page/排気量.md "wikilink")別に生産された。

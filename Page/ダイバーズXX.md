@@ -1,4 +1,4 @@
-> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+> この記事は[ダイバーズXX](https://ja.wikipedia.org/wiki/ダイバーズXX)から翻訳されています。
 
 
 **ダイバーズXX**（DIVERS XX）は、[1994年](../Page/1994年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。モチーフは[浦島太郎](../Page/浦島太郎.md "wikilink")。

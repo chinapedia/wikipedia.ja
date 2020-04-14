@@ -1,4 +1,4 @@
-> この記事は[2RCC](https://ja.wikipedia.org/wiki/2RCC)から翻訳されています。
+> この記事は[第2次RCC](https://ja.wikipedia.org/wiki/第2次RCC)から翻訳されています。
 
 
 **第2次RCC**（だい2じRCC）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に存在した日本初の[ロッククライミング](../Page/ロッククライミング.md "wikilink")同人であった[ロック・クライミング・クラブ](https://ja.wikipedia.org/wiki/ロック・クライミング・クラブ "wikilink")の登攀を継承発展する目的で[1958年](../Page/1958年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")33年）[1月31日](../Page/1月31日.md "wikilink")に設立された山岳会である。

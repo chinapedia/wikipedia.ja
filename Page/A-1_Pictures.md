@@ -595,14 +595,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10月 - 2020年3月</p></td>
+<td><p>10月 - 12月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソードアート・オンライン_アリシゼーション_War_of_Underworld" title="wikilink">ソードアート・オンライン アリシゼーション War of Underworld</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2020年</p></td>
-<td><p>1月 -</p></td>
+<td><p>1月 - 3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/22/7_(アニメ)" title="wikilink">22/7</a></p></td>
 <td></td>
 </tr>
@@ -616,6 +616,18 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜" title="wikilink">かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜</a></p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima" title="wikilink">『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>時期未定</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/86-エイティシックス-" title="wikilink">86-エイティシックス-</a></p></td>
 <td></td>
 <td></td>
 </tr>

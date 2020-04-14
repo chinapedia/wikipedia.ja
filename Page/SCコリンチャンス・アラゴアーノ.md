@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCコリンチャンス・アラゴアーノ](https://ja.wikipedia.org/wiki/SCコリンチャンス・アラゴアーノ)から翻訳されています。
 
 
 **SCコリンチャンス・アラゴアーノ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[アラゴアス州](https://ja.wikipedia.org/wiki/アラゴアス州 "wikilink")[マセイオ](https://ja.wikipedia.org/wiki/マセイオ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。1991年設立。

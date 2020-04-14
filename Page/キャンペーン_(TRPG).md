@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[キャンペーン \(TRPG\)](https://ja.wikipedia.org/wiki/キャンペーン_\(TRPG\))から翻訳されています。
 
 
 **キャンペーンプレイ**は、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")において、複数回のプレイ（セッション）になんらかの関連を持たせて継続的に行なうことを指す。

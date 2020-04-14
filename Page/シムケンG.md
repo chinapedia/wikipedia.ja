@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[シムケンG](https://ja.wikipedia.org/wiki/シムケンG)から翻訳されています。
 
 
 **シムケンG**は[2000年](../Page/2000年.md "wikilink")にダイドー（現：[ビスティ](../Page/ビスティ.md "wikilink")）から発売された[パチスロ](../Page/パチスロ.md "wikilink")（[4号機](https://ja.wikipedia.org/wiki/4号機 "wikilink")）のひとつ。[志村けんのバカ殿様](../Page/志村けんのバカ殿様.md "wikilink")をモチーフにしたタイアップ機である。

@@ -1,4 +1,4 @@
-> この記事は[Progress \(T.M.Revolution\)](https://ja.wikipedia.org/wiki/Progress_\(T.M.Revolution\))から翻訳されています。
+> この記事は[Progress \(T.M.Revolutionのアルバム\)](https://ja.wikipedia.org/wiki/Progress_\(T.M.Revolutionのアルバム\))から翻訳されています。
 
 
 『**progress**』（プログレス）は、[2000年](../Page/2000年.md "wikilink")10月12日にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の5枚目のアルバム。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。

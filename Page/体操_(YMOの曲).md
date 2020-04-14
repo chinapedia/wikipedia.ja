@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[体操 \(YMOの曲\)](https://ja.wikipedia.org/wiki/体操_\(YMOの曲\))から翻訳されています。
 
 
 **体操**（Taiso）は[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")(YMO)の6枚目のシングル。または同シングルに収録された曲。シングルは[1982年](../Page/1982年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりリリースされた。
@@ -30,7 +30,7 @@
 
 ## 脚注
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:高橋幸宏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が制作した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:高橋幸宏が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が作詞作曲した楽曲 "wikilink") [Category:ピーター・バラカンが作詞した楽曲](https://ja.wikipedia.org/wiki/Category:ピーター・バラカンが作詞した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  イエロー・マジック・オーケストラ（2007年、アスペクト）ISBN 978-4-7572-1089-9
 2.

@@ -1,4 +1,4 @@
-> この記事は[SIM](https://ja.wikipedia.org/wiki/SIM)から翻訳されています。
+> この記事は[SIMロック](https://ja.wikipedia.org/wiki/SIMロック)から翻訳されています。
 
 
 **SIMロック**（シムロック、）とは、特定の[SIMカード](../Page/SIMカード.md "wikilink")を差し込んだ場合のみに動作するよう[携帯電話](../Page/携帯電話.md "wikilink")や通信モジュール等の通信端末に施される機能制限のことである。

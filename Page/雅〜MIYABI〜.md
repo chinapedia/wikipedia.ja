@@ -1,4 +1,4 @@
-> この記事は[MIYABI](https://ja.wikipedia.org/wiki/MIYABI)から翻訳されています。
+> この記事は[雅〜MIYABI〜](https://ja.wikipedia.org/wiki/雅〜MIYABI〜)から翻訳されています。
 
 
 **雅～MIYABI～**（みやび）は、[2004年](../Page/2004年.md "wikilink")結成の[野田義治](../Page/野田義治.md "wikilink")がプロデュースする女性ダンス&ボーカルユニット。

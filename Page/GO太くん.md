@@ -1,4 +1,4 @@
-> この記事は[GO](https://ja.wikipedia.org/wiki/GO)から翻訳されています。
+> この記事は[GO太くん](https://ja.wikipedia.org/wiki/GO太くん)から翻訳されています。
 
 
 **GO太くん**（ごーたくん）は、[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")の[公式](../Page/公式.md "wikilink")イメージ[キャラクター](../Page/キャラクター.md "wikilink")。

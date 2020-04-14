@@ -1,4 +1,4 @@
-> この記事は[RX](https://ja.wikipedia.org/wiki/RX)から翻訳されています。
+> この記事は[レクサス・RX](https://ja.wikipedia.org/wiki/レクサス・RX)から翻訳されています。
 
 
 [代替文=](https://ja.wikipedia.org/wiki/ファイル:Lexus_RX450h"F_SPORT"_\(DAA-GYL25W-AWXGB\)_front.jpg "wikilink") **RX**（アールエックス、Lexus RX ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売する[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")である。

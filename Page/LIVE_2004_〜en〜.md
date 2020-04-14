@@ -1,4 +1,4 @@
-> この記事は[LIVE 2004 en](https://ja.wikipedia.org/wiki/LIVE_2004_en)から翻訳されています。
+> この記事は[LIVE 2004 〜en〜](https://ja.wikipedia.org/wiki/LIVE_2004_〜en〜)から翻訳されています。
 
 
 『**LIVE 2004 〜en〜**』（ライブ・ツー・サウザンド・フォー・エン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")「[B'z](../Page/B'z.md "wikilink")」の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の映像作品。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された。
@@ -75,4 +75,4 @@ DISC2枚共にメニュー画面が数パターン収録されており、メニ
 ## 外部リンク
 
   -
-[Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:ビーイング関連映像作品](https://ja.wikipedia.org/wiki/Category:ビーイング関連映像作品 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink")
+[Category:稲葉浩志の映像作品](https://ja.wikipedia.org/wiki/Category:稲葉浩志の映像作品 "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink") [Category:ビーイング関連映像作品](https://ja.wikipedia.org/wiki/Category:ビーイング関連映像作品 "wikilink")

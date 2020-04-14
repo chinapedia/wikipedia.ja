@@ -1,4 +1,4 @@
-> この記事は[Flyweight ](https://ja.wikipedia.org/wiki/Flyweight_)から翻訳されています。
+> この記事は[Flyweight パターン](https://ja.wikipedia.org/wiki/Flyweight_パターン)から翻訳されています。
 
 
 **Flyweight パターン**（フライウェイト・パターン）とは、[GoFによって定義された](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。 等価な[インスタンス](../Page/インスタンス.md "wikilink")を別々の箇所で使用する際に、一つのインスタンスを再利用することによってプログラムを省リソース化することを目的とする。

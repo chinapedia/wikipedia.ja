@@ -1,4 +1,4 @@
-> この記事は[BK](https://ja.wikipedia.org/wiki/BK)から翻訳されています。
+> この記事は[オールボーBK](https://ja.wikipedia.org/wiki/オールボーBK)から翻訳されています。
 
 
 **オールボーBK**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の北部、[北ユラン地域](https://ja.wikipedia.org/wiki/北ユラン地域 "wikilink")の都市[オールボー](../Page/オールボー.md "wikilink")を本拠地とする[スポーツ](../Page/スポーツ.md "wikilink")クラブである。**AaB**と略される。日本語では**アールボリ**、**アールボリBK**と表記されることもある。

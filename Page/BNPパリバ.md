@@ -1,4 +1,4 @@
-> この記事は[BNP](https://ja.wikipedia.org/wiki/BNP)から翻訳されています。
+> この記事は[BNPパリバ](https://ja.wikipedia.org/wiki/BNPパリバ)から翻訳されています。
 
 
 [Siège_CNEP_facade.jpg](https://ja.wikipedia.org/wiki/File:Siège_CNEP_facade.jpg "fig:Siège_CNEP_facade.jpg")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の会社建物（[パリ9区ベルジェール通り](https://ja.wikipedia.org/wiki/9区_\(パリ\) "wikilink")16番地 Rue Bergère 16 Boulevard des Italiens）

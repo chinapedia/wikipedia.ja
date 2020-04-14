@@ -1,4 +1,4 @@
-> この記事は[deGO!](https://ja.wikipedia.org/wiki/deGO!)から翻訳されています。
+> この記事は[旅コミ北海道じゃらんdeGO!](https://ja.wikipedia.org/wiki/旅コミ北海道じゃらんdeGO!)から翻訳されています。
 
 
 『**旅コミ北海道 じゃらん de GO\!**』（たびコミほっかいどう じゃらんでゴー\!）は、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）で毎週[土曜日](../Page/土曜日.md "wikilink")18:30 - 19:00に放送されている[旅番組](../Page/旅番組.md "wikilink")である。

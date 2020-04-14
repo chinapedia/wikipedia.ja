@@ -1,4 +1,4 @@
-> この記事は[Triptych \(\)](https://ja.wikipedia.org/wiki/Triptych_\(\))から翻訳されています。
+> この記事は[Triptych \(ゲーム\)](https://ja.wikipedia.org/wiki/Triptych_\(ゲーム\))から翻訳されています。
 
 
 『**Triptych**』（トリプティック）は、[2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[ALcot](../Page/ALcot.md "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。

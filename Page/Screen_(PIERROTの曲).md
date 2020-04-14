@@ -1,4 +1,4 @@
-> この記事は[Screen \(PIERROT\)](https://ja.wikipedia.org/wiki/Screen_\(PIERROT\))から翻訳されています。
+> この記事は[Screen \(PIERROTの曲\)](https://ja.wikipedia.org/wiki/Screen_\(PIERROTの曲\))から翻訳されています。
 
 
 「**Screen**」（スクリーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Pierrotの](https://ja.wikipedia.org/wiki/PIERROT "wikilink")、[インディーズレーベルから発売された](https://ja.wikipedia.org/wiki/レコード会社#メジャーレーベルとインディーズレーベル "wikilink")[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月22日、[RCAアリオラジャパンより発売](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。

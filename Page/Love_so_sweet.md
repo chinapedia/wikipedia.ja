@@ -30,7 +30,7 @@
 
 1.  **Love so sweet**
       -
-        作詞：SPIN / 作曲：youth case / 編曲：Mugen
+        作詞：SPIN / 作曲：[youth case](https://ja.wikipedia.org/wiki/youth_case "wikilink") / 編曲：Mugen
     <!-- end list -->
       - [松本潤](../Page/松本潤.md "wikilink")出演 [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
       - [キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」CMソング

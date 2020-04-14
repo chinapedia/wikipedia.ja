@@ -1,4 +1,4 @@
-> この記事は[MORE \(\)](https://ja.wikipedia.org/wiki/MORE_\(\))から翻訳されています。
+> この記事は[MORE \(雑誌\)](https://ja.wikipedia.org/wiki/MORE_\(雑誌\))から翻訳されています。
 
 
 『**MORE**』（モア）は、[集英社](../Page/集英社.md "wikilink")から刊行されている女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。毎月28日発売。

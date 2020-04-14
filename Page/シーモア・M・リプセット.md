@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[シーモア・M・リプセット](https://ja.wikipedia.org/wiki/シーモア・M・リプセット)から翻訳されています。
 
 
 **シーモア（セイモア）・マーティン・リプセット**（Seymour Martin Lipset、[1922年](../Page/1922年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[社会学者](https://ja.wikipedia.org/wiki/社会学者 "wikilink")、[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")。専門は政治社会学。

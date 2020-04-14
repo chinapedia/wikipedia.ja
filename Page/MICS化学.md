@@ -1,4 +1,4 @@
-> この記事は[MICS](https://ja.wikipedia.org/wiki/MICS)から翻訳されています。
+> この記事は[MICS化学](https://ja.wikipedia.org/wiki/MICS化学)から翻訳されています。
 
 
 **MICS化学株式会社**（ミックスかがく、）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[愛知郡](../Page/愛知郡_\(愛知県\).md "wikilink")[東郷町](../Page/東郷町.md "wikilink")に本社を置く多層[チューブフィルムを製造する企業](https://ja.wikipedia.org/wiki/チューブ_\(容器\) "wikilink")。

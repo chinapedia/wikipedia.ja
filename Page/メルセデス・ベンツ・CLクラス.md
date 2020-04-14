@@ -1,4 +1,4 @@
-> この記事は[CL](https://ja.wikipedia.org/wiki/CL)から翻訳されています。
+> この記事は[メルセデス・ベンツ・CLクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・CLクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・CLクラス**（*Mercedes-Benz CL-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開していた[クーペ](../Page/クーペ.md "wikilink")タイプの[高級車](../Page/高級車.md "wikilink")である。1996年から2014年まで製造・販売された。後継は**[Sクラスクーペ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Sクラスクーペ "wikilink")**である。

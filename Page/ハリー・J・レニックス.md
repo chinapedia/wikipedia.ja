@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ハリー・J・レニックス](https://ja.wikipedia.org/wiki/ハリー・J・レニックス)から翻訳されています。
 
 
 **ハリー・J・レニックス**（**Harry J. Lennix**, [1964年](../Page/1964年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")。

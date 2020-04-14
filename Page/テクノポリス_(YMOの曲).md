@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[テクノポリス \(YMOの曲\)](https://ja.wikipedia.org/wiki/テクノポリス_\(YMOの曲\))から翻訳されています。
 
 
 **テクノポリス** (*TECHNOPOLIS*) は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ「[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）」の1枚目のシングル。または同シングルに収録された曲。
@@ -92,7 +92,7 @@
 
 ## 脚注
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.  『SWITCH』2011年Vol.29 No.12 ISBN 978-4884183271
 2.  「YMOマガジン」より

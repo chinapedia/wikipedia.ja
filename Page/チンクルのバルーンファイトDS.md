@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[チンクルのバルーンファイトDS](https://ja.wikipedia.org/wiki/チンクルのバルーンファイトDS)から翻訳されています。
 
 
 『**チンクルのバルーンファイトDS**』（*Tingle's Balloon Fight DS*）は、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より[クラブニンテンドー](../Page/クラブニンテンドー.md "wikilink")プラチナ会員特典として配布された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。非売品。

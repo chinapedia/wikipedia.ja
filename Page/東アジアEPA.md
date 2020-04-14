@@ -1,4 +1,4 @@
-> この記事は[EPA](https://ja.wikipedia.org/wiki/EPA)から翻訳されています。
+> この記事は[東アジアEPA](https://ja.wikipedia.org/wiki/東アジアEPA)から翻訳されています。
 
 
 **東アジアEPA**（ひがしあじあイーピーエー、東アジア包括的経済連携協定、**CEPEA**:**C**omprehensive **E**conomic **P**artnership in **E**ast **A**sia）とは、[ASEAN+3](../Page/ASEAN+3.md "wikilink")の枠組み（[ASEAN各国](../Page/東南アジア諸国連合.md "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[韓国](../Page/大韓民国.md "wikilink")）に、[インド](../Page/インド.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")を加え（つまりASEAN+6）、16カ国で成熟した[経済圏](https://ja.wikipedia.org/wiki/経済圏 "wikilink")を構築する事を目指す、日本が提案した地域経済戦略である。

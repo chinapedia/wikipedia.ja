@@ -1,4 +1,4 @@
-> この記事は[IV \(\)](https://ja.wikipedia.org/wiki/IV_\(\))から翻訳されています。
+> この記事は[エタンダールIV \(航空機\)](https://ja.wikipedia.org/wiki/エタンダールIV_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=**ダッソー エタンダールIV**（） | 画像=Image:Dassault Etendard IVM, France - Navy AN1682700.jpg | キャプション=エタンダールIV M | 用途=攻撃、偵察 | 分類=[艦上](https://ja.wikipedia.org/wiki/艦載機 "wikilink")[戦闘攻撃機](../Page/戦闘爆撃機.md "wikilink")、[偵察機](../Page/偵察機.md "wikilink") | 設計者=[ダッソー](../Page/ダッソー.md "wikilink") | 製造者=[ダッソー](../Page/ダッソー.md "wikilink") | 運用者=（[フランス海軍](../Page/フランス海軍.md "wikilink")） | 運用者 more= | 初飛行年月日=1956年7月24日（エタンダールIV） | 生産数=98 | 生産開始年月日= | 運用開始年月日=1962年 | 退役年月日=2000年7月27日 | 運用状況=退役 | ユニットコスト= }} **ダッソー エタンダールIV**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[戦闘攻撃機](../Page/戦闘爆撃機.md "wikilink")。[フランス海軍](../Page/フランス海軍.md "wikilink")に[艦上戦闘攻撃機及び](../Page/艦上機.md "wikilink")[偵察機](../Page/偵察機.md "wikilink")として採用された。**とは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で[軍旗](../Page/軍旗.md "wikilink")のこと。

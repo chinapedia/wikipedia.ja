@@ -1,4 +1,4 @@
-> この記事は[ am BEST](https://ja.wikipedia.org/wiki/_am_BEST)から翻訳されています。
+> この記事は[愛 am BEST](https://ja.wikipedia.org/wiki/愛_am_BEST)から翻訳されています。
 
 
 『**愛 am BEST**』（あい・アム・ベスト）は、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")自身初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。なお、正式な表記では「愛」の字が○で囲まれている（本人直筆のサインである）。

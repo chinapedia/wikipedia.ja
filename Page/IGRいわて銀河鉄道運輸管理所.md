@@ -1,4 +1,4 @@
-> この記事は[IGR](https://ja.wikipedia.org/wiki/IGR)から翻訳されています。
+> この記事は[IGRいわて銀河鉄道運輸管理所](https://ja.wikipedia.org/wiki/IGRいわて銀河鉄道運輸管理所)から翻訳されています。
 
 
 **IGRいわて銀河鉄道運輸管理所**（アイジーアールいわてぎんがてつどううんゆかんりしょ）は、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")にある[IGRいわて銀河鉄道](../Page/IGRいわて銀河鉄道.md "wikilink")の[車両基地](../Page/車両基地.md "wikilink")。[運転士](../Page/運転士.md "wikilink")・[車掌](../Page/車掌.md "wikilink")も所属する。[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[盛岡車両センター](../Page/盛岡車両センター.md "wikilink")に併設されている。

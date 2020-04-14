@@ -1,4 +1,4 @@
-> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+> この記事は[マップス \(OVA\)](https://ja.wikipedia.org/wiki/マップス_\(OVA\))から翻訳されています。
 
 
 『**マップス**』は、[長谷川裕一](../Page/長谷川裕一.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[マップス](https://ja.wikipedia.org/wiki/マップス "wikilink")』を原作とする[OVA](../Page/OVA.md "wikilink")。

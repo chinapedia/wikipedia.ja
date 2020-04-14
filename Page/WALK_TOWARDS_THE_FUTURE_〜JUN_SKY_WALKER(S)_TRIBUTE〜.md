@@ -1,4 +1,4 @@
-> この記事は[WALK TOWARDS THE FUTURE JUN SKY WALKER\(S\) TRIBUTE](https://ja.wikipedia.org/wiki/WALK_TOWARDS_THE_FUTURE_JUN_SKY_WALKER\(S\)_TRIBUTE)から翻訳されています。
+> この記事は[WALK TOWARDS THE FUTURE 〜JUN SKY WALKER\(S\) TRIBUTE〜](https://ja.wikipedia.org/wiki/WALK_TOWARDS_THE_FUTURE_〜JUN_SKY_WALKER\(S\)_TRIBUTE〜)から翻訳されています。
 
 
 『**WALK TOWARDS THE FUTURE 〜JUN SKY WALKER(S) TRIBUTE〜**』（ウォーク・トワーズ・ザ・フューチャー・ジュン･スカイ・ウォーカーズ・トリビュート）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[JUN SKY WALKER(S)の](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。

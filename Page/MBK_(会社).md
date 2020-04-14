@@ -1,4 +1,4 @@
-> この記事は[MBK \(\)](https://ja.wikipedia.org/wiki/MBK_\(\))から翻訳されています。
+> この記事は[MBK \(会社\)](https://ja.wikipedia.org/wiki/MBK_\(会社\))から翻訳されています。
 
 
 **MBK**（エムビーケー）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")および[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")メーカーである。

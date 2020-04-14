@@ -1,4 +1,4 @@
-> この記事は[Circle \(\)](https://ja.wikipedia.org/wiki/Circle_\(\))から翻訳されています。
+> この記事は[Circle \(木村カエラのアルバム\)](https://ja.wikipedia.org/wiki/Circle_\(木村カエラのアルバム\))から翻訳されています。
 
 
 **Circle**（サークル）は、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")。

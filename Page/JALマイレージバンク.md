@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALマイレージバンク](https://ja.wikipedia.org/wiki/JALマイレージバンク)から翻訳されています。
 
 
 **JALマイレージバンク**（ジャルマイレージバンク、）は、[日本航空](../Page/日本航空.md "wikilink")および[日本航空](../Page/日本航空.md "wikilink")グループ（**株式会社JALマイレージバンク**）が提供する[マイレージサービス](../Page/マイレージサービス.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Tommy february6 \(\)](https://ja.wikipedia.org/wiki/Tommy_february6_\(\))から翻訳されています。
+> この記事は[Tommy february6 \(アルバム\)](https://ja.wikipedia.org/wiki/Tommy_february6_\(アルバム\))から翻訳されています。
 
 
 「**Tommy february<sup>6</sup>**」（トミー・フェブラリー）は、[the brilliant greenのボーカル](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")のソロプロジェクト「Tommy february<sup>6</sup>」のファーストアルバムである。

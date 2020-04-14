@@ -1,4 +1,4 @@
-> この記事は[Canvas \(\)](https://ja.wikipedia.org/wiki/Canvas_\(\))から翻訳されています。
+> この記事は[Canvas \(グラフィックソフト\)](https://ja.wikipedia.org/wiki/Canvas_\(グラフィックソフト\))から翻訳されています。
 
 
 **Canvas**（キャンバス）はカナダの[ACD Systemsが開発](https://ja.wikipedia.org/wiki/ACD_Systems "wikilink")・販売している[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")。バージョン9までは、フロリダに本拠をおく[Deneba](https://ja.wikipedia.org/wiki/Deneba "wikilink")が開発販売を行っていた。

@@ -1,4 +1,4 @@
-> この記事は[DRAGON QUEST IV --](https://ja.wikipedia.org/wiki/DRAGON_QUEST_IV_--)から翻訳されています。
+> この記事は[DRAGON QUEST IV外伝 -地獄の迷宮-](https://ja.wikipedia.org/wiki/DRAGON_QUEST_IV外伝_-地獄の迷宮-)から翻訳されています。
 
 
 『**DRAGON QUEST IV外伝 -地獄の迷宮-**』（ドラゴンクエストフォーがいでん じごくのめいきゅう）は、原作 - [三条陸](../Page/三条陸.md "wikilink")、漫画 - [稲田浩司](../Page/稲田浩司.md "wikilink")、監修 - [堀井雄二](../Page/堀井雄二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[集英社](../Page/集英社.md "wikilink")『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』の[2001年](../Page/2001年.md "wikilink")12月号と[2002年](../Page/2002年.md "wikilink")1月号に掲載された。前編と後編による全2話。

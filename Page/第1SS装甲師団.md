@@ -1,4 +1,4 @@
-> この記事は[1SS](https://ja.wikipedia.org/wiki/1SS)から翻訳されています。
+> この記事は[第1SS装甲師団](https://ja.wikipedia.org/wiki/第1SS装甲師団)から翻訳されています。
 
 
 **第1SS装甲師団 ライプシュタンダーテ・SS・アドルフ・ヒトラー**（だいいちSSそうこうしだん ライプシュタンダーテ・SS・アドルフ・ヒトラー、独：*1. SS-Panzer-Division **„**Leibstandarte SS Adolf Hitler**“***）は、[武装親衛隊](../Page/武装親衛隊.md "wikilink")の38個ある[師団](../Page/師団.md "wikilink")のひとつ。部隊名の意味は[武装親衛隊の項目を参照](https://ja.wikipedia.org/wiki/武装親衛隊#名称 "wikilink")。SS第1装甲師団は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における[東部戦線と](../Page/独ソ戦.md "wikilink")[西部戦線において活躍した](../Page/西部戦線_\(第二次世界大戦\).md "wikilink")。師団章は初代の指揮官[ヨーゼフ・ディートリヒ](../Page/ヨーゼフ・ディートリヒ.md "wikilink")の名前に鍵の意味があることに由来する。

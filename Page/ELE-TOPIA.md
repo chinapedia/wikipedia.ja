@@ -135,7 +135,7 @@
 
   - [Air Silky](http://www.airsilky.com/)
 
-  - [Air Silky (Blog)](http://ameblo.jp/airsilky/)
+  - [Air Silky (Blog)](https://ameblo.jp/airsilky/)
 
   -
   - [MEGAHERTZ（メガヘルツ）](http://www.megahertz.jp/)

@@ -1,4 +1,4 @@
-> この記事は[ACC](https://ja.wikipedia.org/wiki/ACC)から翻訳されています。
+> この記事は[ACCプロダクション](https://ja.wikipedia.org/wiki/ACCプロダクション)から翻訳されています。
 
 
 **ACCプロダクション**（正式社名：**株式会社エーシーシープロダクション製作スタジオ**）は、かつて存在した[アニメーション](../Page/アニメーション.md "wikilink")の企画・制作および撮影制作を主な事業内容とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。

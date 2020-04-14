@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[プロジェクトBB](https://ja.wikipedia.org/wiki/プロジェクトBB)から翻訳されています。
 
 
 『**プロジェクトBB**』（プロジェクトビービー、原題：寶貝計劃、英題：*Rob-B-Hood*）は、[2006年](../Page/2006年.md "wikilink")の[香港映画](../Page/香港映画.md "wikilink")。

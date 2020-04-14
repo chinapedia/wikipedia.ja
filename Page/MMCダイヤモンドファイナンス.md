@@ -1,4 +1,4 @@
-> この記事は[MMC](https://ja.wikipedia.org/wiki/MMC)から翻訳されています。
+> この記事は[MMCダイヤモンドファイナンス](https://ja.wikipedia.org/wiki/MMCダイヤモンドファイナンス)から翻訳されています。
 
 
 **MMCダイヤモンドファイナンス株式会社**(MMC DIAMOND FINANCE CORPORATION)は、[三菱自動車関連の](../Page/三菱自動車工業.md "wikilink")[自動車クレジット](../Page/オートローン.md "wikilink")、[カーリース](../Page/カーリース.md "wikilink")の[自動車金融](https://ja.wikipedia.org/wiki/自動車金融 "wikilink")と[レンタカー](../Page/レンタカー.md "wikilink")事業を営む[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。

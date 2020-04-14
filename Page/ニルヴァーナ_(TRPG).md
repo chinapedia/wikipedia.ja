@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[ニルヴァーナ \(TRPG\)](https://ja.wikipedia.org/wiki/ニルヴァーナ_\(TRPG\))から翻訳されています。
 
 
 **『ニルヴァーナ』**は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")製の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のタイトル。2004年に[ゲーム・フィールド](https://ja.wikipedia.org/wiki/ゲーム・フィールド "wikilink")社より発売された。ゲームデザイナーは[小浜智](../Page/小浜智.md "wikilink")。システム部分は[矢野俊策](../Page/矢野俊策.md "wikilink")が担当している。

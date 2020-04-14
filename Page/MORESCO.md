@@ -74,7 +74,7 @@ MORESCOには以下のグループ会社がある\[43\]：
 
 ## 外部リンク
 
-  - [HOME | 株式会社MORESCO](http://www.moresco.co.jp/)
+  - [HOME | 株式会社MORESCO](https://www.moresco.co.jp/)
 
 [Category:神戸市中央区の企業](https://ja.wikipedia.org/wiki/Category:神戸市中央区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2003年上場の企業](https://ja.wikipedia.org/wiki/Category:2003年上場の企業 "wikilink") [Category:日本の石油関連企業](https://ja.wikipedia.org/wiki/Category:日本の石油関連企業 "wikilink") [Category:1958年設立の企業](https://ja.wikipedia.org/wiki/Category:1958年設立の企業 "wikilink")
 

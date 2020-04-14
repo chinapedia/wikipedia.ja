@@ -1,4 +1,4 @@
-> この記事は[DDD \(\)](https://ja.wikipedia.org/wiki/DDD_\(\))から翻訳されています。
+> この記事は[DDD \(小説\)](https://ja.wikipedia.org/wiki/DDD_\(小説\))から翻訳されています。
 
 
 『**DDD**』（ディーディーディー、デコレーション・ディスオーダー・ディスコネクション、*Decoration Disorder Disconnection*）は、[奈須きのこ](../Page/奈須きのこ.md "wikilink")の小説作品。[こやまひろかず](../Page/こやまひろかず.md "wikilink")・画。題名を直訳すると、「**装飾 障害 切断**」となる。

@@ -1,4 +1,4 @@
-> この記事は[SWIFT](https://ja.wikipedia.org/wiki/SWIFT)から翻訳されています。
+> この記事は[日本の金融機関のSWIFTコード一覧](https://ja.wikipedia.org/wiki/日本の金融機関のSWIFTコード一覧)から翻訳されています。
 
 
 [ISO 9362](../Page/ISO_9362.md "wikilink") \> **日本の金融機関のSWIFTコード一覧**
@@ -303,7 +303,7 @@
   - **0578**　[高知銀行](../Page/高知銀行.md "wikilink")　**KOTIJPJZ**
   - **0582**　[福岡中央銀行](../Page/福岡中央銀行.md "wikilink")　未定
   - **0583**　[佐賀共栄銀行](../Page/佐賀共栄銀行.md "wikilink")　未定
-  - **0585**　[長崎銀行](../Page/長崎銀行.md "wikilink")　**NAGKJPJ1**
+  - **0585**　[長崎銀行](../Page/長崎銀行.md "wikilink")　未定
   - **0587**　[熊本銀行](../Page/熊本銀行.md "wikilink")　**KUMAJPJZ**
   - **0590**　[豊和銀行](../Page/豊和銀行.md "wikilink")　**HOWAJPJT**
   - **0591**　[宮崎太陽銀行](../Page/宮崎太陽銀行.md "wikilink")　**MITYJPJ1**

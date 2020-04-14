@@ -1,4 +1,4 @@
-> この記事は[BEAT \(\)](https://ja.wikipedia.org/wiki/BEAT_\(\))から翻訳されています。
+> この記事は[BEAT \(木村カエラの曲\)](https://ja.wikipedia.org/wiki/BEAT_\(木村カエラの曲\))から翻訳されています。
 
 
 **BEAT**（ビート）は、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")のメジャー4枚目のシングルで、[コロムビアミュージックエンタテインメントから](../Page/日本コロムビア.md "wikilink")2005年10月5日に発売。

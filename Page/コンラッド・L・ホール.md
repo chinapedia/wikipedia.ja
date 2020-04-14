@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[コンラッド・L・ホール](https://ja.wikipedia.org/wiki/コンラッド・L・ホール)から翻訳されています。
 
 
 **コンラッド・L・ホール**（**Conrad L. Hall**, [1926年](../Page/1926年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")）はアメリカ合衆国の[撮影監督](../Page/撮影監督.md "wikilink")。父親は作家の[ジェームズ・ノーマン・ホール](https://ja.wikipedia.org/wiki/ジェームズ・ノーマン・ホール "wikilink")。母親がタヒチ人の血を引いていたため、[タヒチで生まれている](../Page/タヒチ島.md "wikilink")。息子は同じく撮影監督のコンラッド・W・ホール。

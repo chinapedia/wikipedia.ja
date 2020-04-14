@@ -1,4 +1,4 @@
-> この記事は[hp](https://ja.wikipedia.org/wiki/hp)から翻訳されています。
+> この記事は[電撃hp公式海賊本](https://ja.wikipedia.org/wiki/電撃hp公式海賊本)から翻訳されています。
 
 
 **電撃hp公式海賊本**（でんげきエイチピーこうしきかいぞくぼん）は、[メディアワークス](../Page/メディアワークス.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")系[文芸雑誌](../Page/文芸雑誌.md "wikilink")『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』『[電撃文庫MAGAZINE](https://ja.wikipedia.org/wiki/電撃文庫MAGAZINE "wikilink")』で掲載・文庫化に至らなかった作品や、番外編を収録した[アンソロジー](../Page/アンソロジー.md "wikilink")集。[2003年](../Page/2003年.md "wikilink")の『**電撃ヴんこ**』から毎年1〜2冊刊行されている。

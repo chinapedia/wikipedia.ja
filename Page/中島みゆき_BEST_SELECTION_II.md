@@ -1,4 +1,4 @@
-> この記事は[ BEST SELECTION II](https://ja.wikipedia.org/wiki/_BEST_SELECTION_II)から翻訳されています。
+> この記事は[中島みゆき BEST SELECTION II](https://ja.wikipedia.org/wiki/中島みゆき_BEST_SELECTION_II)から翻訳されています。
 
 
 『**中島みゆき BEST SELECTION II**』（なかじまみゆき ベスト・セレクション・ツー）は、[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に発売された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

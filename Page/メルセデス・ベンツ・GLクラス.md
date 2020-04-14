@@ -1,4 +1,4 @@
-> この記事は[GL](https://ja.wikipedia.org/wiki/GL)から翻訳されています。
+> この記事は[メルセデス・ベンツ・GLクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・GLクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・GLクラス**（*Mercedes-Benz GL-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開していた[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。[Fセグメント](../Page/Fセグメント.md "wikilink")に属する。2015年より「[GLSクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・GLSクラス "wikilink")」へ名称変更されており、GLクラスとしては2代目にて終了となった。

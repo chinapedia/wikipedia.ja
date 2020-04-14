@@ -1,7 +1,7 @@
-> この記事は[Z HYPER DIMENSION](https://ja.wikipedia.org/wiki/Z_HYPER_DIMENSION)から翻訳されています。
+> この記事は[ドラゴンボールZ HYPER DIMENSION](https://ja.wikipedia.org/wiki/ドラゴンボールZ_HYPER_DIMENSION)から翻訳されています。
 
 
-『**ドラゴンボールZ HYPER DIMENSION**』（ドラゴンボールゼット ハイパー ディメンション）は[1996年](../Page/1996年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン最終作品。
+『**ドラゴンボールZ HYPER DIMENSION**』（ドラゴンボールゼット ハイパー ディメンション）は[1996年](../Page/1996年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン最終作品。
 
 ## 概要
 

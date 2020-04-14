@@ -1,4 +1,4 @@
-> この記事は[14 PRINCESS PRINCESS CHILDREN](https://ja.wikipedia.org/wiki/14_PRINCESS_PRINCESS_CHILDREN)から翻訳されています。
+> この記事は[14プリンセス 〜PRINCESS PRINCESS CHILDREN〜](https://ja.wikipedia.org/wiki/14プリンセス_〜PRINCESS_PRINCESS_CHILDREN〜)から翻訳されています。
 
 
 『**14プリンセス〜PRINCESS PRINCESS CHILDREN〜**』（フォーティーン・プリンセス―プリンセス・プリンセス・チルドレン）は日本の[ガールズロックバンド](https://ja.wikipedia.org/wiki/ガールズロックバンド "wikilink")、[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。
@@ -58,7 +58,7 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/VA/Compilation/SECL-351/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Compilation/discography/SECL-351)
 
 [Category:2006年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のトリビュート・アルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAアメリカ](https://ja.wikipedia.org/wiki/FIBAアメリカ)から翻訳されています。
 
 
 **FIBAアメリカ**（**FIBA Americas**）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）の傘下にある大陸連盟で、[南北アメリカ大陸における](../Page/アメリカ大陸.md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")の運営・管理・普及活動を行う。

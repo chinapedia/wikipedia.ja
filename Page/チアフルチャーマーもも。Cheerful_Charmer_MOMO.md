@@ -1,4 +1,4 @@
-> この記事は[Cheerful Charmer MOMO](https://ja.wikipedia.org/wiki/Cheerful_Charmer_MOMO)から翻訳されています。
+> この記事は[チアフルチャーマーもも。Cheerful Charmer MOMO](https://ja.wikipedia.org/wiki/チアフルチャーマーもも。Cheerful_Charmer_MOMO)から翻訳されています。
 
 
 『**チアフルチャーマーもも。**』は[電撃文庫](../Page/電撃文庫.md "wikilink")の公式海賊本、[電撃P](https://ja.wikipedia.org/wiki/電撃P "wikilink")に収録された書き下ろし作品である。[ハセガワケイスケ](../Page/ハセガワケイスケ.md "wikilink")著、[イラストは](../Page/イラストレーター.md "wikilink")[七草](https://ja.wikipedia.org/wiki/七草_\(イラストレーター\) "wikilink")。同著の作品『[しにがみのバラッド。](../Page/しにがみのバラッド。.md "wikilink")』のスピンオフ作品である。

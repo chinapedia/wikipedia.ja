@@ -1,4 +1,4 @@
-> この記事は[CSR \(\)](https://ja.wikipedia.org/wiki/CSR_\(\))から翻訳されています。
+> この記事は[CSR \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/CSR_\(曖昧さ回避\))から翻訳されています。
 
 
 **CSR**

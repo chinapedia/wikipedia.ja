@@ -1,4 +1,4 @@
-> この記事は[Little Wish lyrical step](https://ja.wikipedia.org/wiki/Little_Wish_lyrical_step)から翻訳されています。
+> この記事は[Little Wish 〜lyrical step〜](https://ja.wikipedia.org/wiki/Little_Wish_〜lyrical_step〜)から翻訳されています。
 
 
 「**Little Wish 〜lyrical step〜**」（リトル・ウィッシュ・リリカル・ステップ）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[KONAMIから発売された](../Page/コナミレーベル.md "wikilink")。

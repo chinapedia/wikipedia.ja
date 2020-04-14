@@ -1,4 +1,4 @@
-> この記事は[LIXIL](https://ja.wikipedia.org/wiki/LIXIL)から翻訳されています。
+> この記事は[LIXILリフォームショップ](https://ja.wikipedia.org/wiki/LIXILリフォームショップ)から翻訳されています。
 
 
 **LIXILリフォームショップ**とは株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（旧[トステム](../Page/トステム.md "wikilink")株式会社）が運営する住宅[リフォーム](../Page/リフォーム.md "wikilink")の[フランチャイズ](../Page/フランチャイズ.md "wikilink")チェーン名である。

@@ -1,7 +1,7 @@
 > この記事は[Fully Qualified Domain Name](https://ja.wikipedia.org/wiki/Fully_Qualified_Domain_Name)から翻訳されています。
 
 
-**Fully Qualified Domain Name**（フリー・クオリファイド・ドメイン・ネーム）または**完全修飾ドメイン名**（かんぜんしゅうしょくドメインめい）とは、[Domain Name System](../Page/Domain_Name_System.md "wikilink")（DNS）における「[TLDまで完全に指定された](../Page/トップレベルドメイン.md "wikilink")」[ホスト名](../Page/ホスト名.md "wikilink")のことである。一般には**FQDN**と略され、このFQDNで指定された[ホストは](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")、基本的にはそのDNS階層構造（例えば、インターネット）の中で唯一特定することができる。ただし、厳密にはホストが一意に定まらない場合もある（[\#FQDNとホストは一対一対応ではない](https://ja.wikipedia.org/wiki/#FQDNとホストは一対一対応ではない "wikilink")を参照）。
+**Fully Qualified Domain Name**（フリー・クオリファイド・ドメイン・ネーム、訳して**完全修飾ドメイン名**（かんぜんしゅうしょくドメインめい））とは、[Domain Name System](../Page/Domain_Name_System.md "wikilink")（DNS）における「[TLDまで完全に指定された](../Page/トップレベルドメイン.md "wikilink")」[ホスト名](../Page/ホスト名.md "wikilink")のことである。一般には**FQDN**と略され、このFQDNで指定された[ホストは](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")、基本的にはそのDNS階層構造（例えば、インターネット）の中で唯一特定することができる、などと不正確に説明されているが正確にはホストは必ずしも一意に定まらない（[\#FQDNとホストは一対一対応ではない](https://ja.wikipedia.org/wiki/#FQDNとホストは一対一対応ではない "wikilink")を参照）。
 
 技術的に特に「世界で唯一に指定される」ことが重要である場合に「[ホスト名](../Page/ホスト名.md "wikilink")」や「[ドメイン名](../Page/ドメイン名.md "wikilink")」と区別して用いるが、一般にはわざわざ区別することはない。
 
@@ -9,7 +9,7 @@ FQDNは[Domain Name Systemに関わる技術用語の一つであるため](../P
 
 ## 概要
 
-例えば、`ja.wikipedia.org`がFQDNである。しばしば[インターネット](../Page/インターネット.md "wikilink")上の住所に例えられることと比較すると、国名から番地階数部屋番号まですべてを書くことに相当する。
+例えば、`ja.wikipedia.org`がFQDNである。これはドメインが「住所」に例えられることからすれば、国名から番地階数部屋番号まですべてを書くことに相当する（なお、しばしば「インターネット上の住所」という表現がなされているが、インターネット上の住所（インターネットプロトコル（IP）における「住所」）に相当するのはどちらかといえば[IPアドレス](../Page/IPアドレス.md "wikilink")であり、多少なりとも不正確な表現である）。
 
 一般には当然のようにFQDNを使用するが、[イントラネット](../Page/イントラネット.md "wikilink")で組織内のサーバに接続する場合等ではFQDNを使用しないこともある。これは市内に[郵便](https://ja.wikipedia.org/wiki/郵便 "wikilink")を出す場合、宛先をいきなり「朝日町何番地○○」と書いても到着するようなものである。しかし日本全国に[朝日町](../Page/朝日町.md "wikilink")は沢山あるので一般に住所は県名から記載するであろう。インターネットでも同様に、一般にはFQDNを使用する。
 

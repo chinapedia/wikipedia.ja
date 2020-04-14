@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[サンダークロスII](https://ja.wikipedia.org/wiki/サンダークロスII)から翻訳されています。
 
 
 『**サンダークロスII**』(*THUNDER CROSS II*)は、[1991年](../Page/1991年.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（当時は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）の[アーケード版横スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、『[サンダークロス](../Page/サンダークロス.md "wikilink")』の続編（以下、前作を『I』と呼ぶ）。2017年現在、家庭用ゲーム機には未移植となっている。

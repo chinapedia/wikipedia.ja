@@ -37,7 +37,7 @@
   - [2009年](../Page/2009年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - Afternoon Tea TEAROOM運営の株式会社ビーエルティーが、株式会社キハチアンドエスを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")し、アイビー株式会社に商号を変更
   - [2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 親会社である株式会社サザビーリーグが、アイビー株式会社、株式会社エストネーション、株式会社アイシーエルを吸収合併
 
-KIHACHI-1a.jpg|キハチ青山本店（2017年4月29日撮影）
+KIHACHI-1a.jpg|キハチ青山本店（2017年4月29日撮影） Chocolates of KIHACHI.jpg|チョコレート
 
 ## 関連項目
 

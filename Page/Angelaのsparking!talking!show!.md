@@ -1,4 +1,4 @@
-> この記事は[Angelasparking!talking!show!](https://ja.wikipedia.org/wiki/Angelasparking!talking!show!)から翻訳されています。
+> この記事は[Angelaのsparking!talking!show!](https://ja.wikipedia.org/wiki/Angelaのsparking!talking!show!)から翻訳されています。
 
 
 『**angelaのsparking\!talking\!show\!**』（アンジェラの スパーキング トーキング ショー）は、[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に開始した[angelaによる](../Page/Angela_\(音楽ユニット\).md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）である。『**スパキン**』と略して呼ばれることもある。
@@ -86,7 +86,7 @@ atsukoは体調不良により一時期（[2006年](../Page/2006年.md "wikilink
 | 放送地域                                                | 放送局                                                        | 放送終了日       | 過去の放送時間           | 系列                                                                      | 備考                                                     |
 | --------------------------------------------------- | ---------------------------------------------------------- | ----------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ |
 | [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](../Page/琉球放送.md "wikilink")                         | 2017年1月7日   | 土曜日 25:30 - 26:00 | JRN                                                                     |                                                        |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")  | 2017年3月26日  | 土曜日 23:25 - 23:55 | NRN                                                                     | \[9\]                                                  |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [九州朝日放送](../Page/KBCラジオ.md "wikilink")                     | 2017年3月26日  | 土曜日 23:25 - 23:55 | NRN                                                                     | \[9\]                                                  |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [Date fm](../Page/エフエム仙台.md "wikilink")                    | 2017年3月27日  | 日曜日 21:30 - 22:00 | [JFN](../Page/全国FM放送協議会.md "wikilink")                                  |                                                        |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")   | 2017年3月27日  | 日曜日 23:00 - 23:30 | [JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・NRN | 放送エリア内にメンバー二人の出身地・[岡山市](../Page/岡山市.md "wikilink")を擁する |
 | [山梨県](../Page/山梨県.md "wikilink")                    | [FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink") | 2017年3月27日  | 日曜日 22:30 - 23:00 | 独立局                                                                     |                                                        |
@@ -411,6 +411,7 @@ angelaの楽曲「[蒼い春](https://ja.wikipedia.org/wiki/蒼い春 "wikilink"
     また、この放送内でゲストの新海岳人へかよえ\!チュー学へangelaの登場交渉が行われた\[23\]。
     2018年3月3日、その日迎える700回放送を記念し、生放送が行われた。
     シングル「[SURVIVE\!](https://ja.wikipedia.org/wiki/SURVIVE! "wikilink")」の宣伝の為、東海ラジオのみ『angelaのsparking\!talking\!show\!ミニ』として、2018年7月15日 23:30（Episode 1）・2018年7月17日 21:40（Episode 2）にそれぞれ10分間の特別番組を放送。
+    [2020年](../Page/2020年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")、800回放送を記念し、ポートメッセなごやで行われた「アニメ・ゲーム フェス NAGOYA 2020」内で**「『angelaのsparking\! talking\! show\!』放送800回突破記念公開録音&ミニライヴ ～僕らは目指したカリスマMC～」**と題して、8年ぶりに公開録音を行った。
 
 ## 脚注
 

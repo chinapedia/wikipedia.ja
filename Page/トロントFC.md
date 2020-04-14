@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トロントFC](https://ja.wikipedia.org/wiki/トロントFC)から翻訳されています。
 
 
 **トロント・フットボール・クラブ**（）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")をホームタウンとする、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")および[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のプロサッカーリーグ（[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")）に加盟するプロサッカークラブ。[2006年](../Page/2006年.md "wikilink")に発足。[2007年](../Page/2007年.md "wikilink")より[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")に新規参入。[アメリカ国外のチームとして初めての参入となった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
@@ -183,9 +183,11 @@
 
 ## 現所属メンバー
 
-  - 2020年2月8日現在
+  - 2020年3月1日現在
 
-<!-- end list -->
+([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))    ([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))       ([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))
+
+※DPは特別指定選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -220,6 +222,8 @@
 ### DF
 
   - [マーベル・ウイン](../Page/マーベル・ウイン_\(サッカー選手\).md "wikilink") 2007-2010
+
+  - [アシュトン・モーガン](../Page/アシュトン・モーガン.md "wikilink") 2011-2019
 
   - [ダミアン・ペルキ](https://ja.wikipedia.org/wiki/ダミアン・ペルキ "wikilink") 2015-2016
 

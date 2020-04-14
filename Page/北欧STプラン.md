@@ -1,4 +1,4 @@
-> この記事は[ST](https://ja.wikipedia.org/wiki/ST)から翻訳されています。
+> この記事は[北欧STプラン](https://ja.wikipedia.org/wiki/北欧STプラン)から翻訳されています。
 
 
 **北欧STプラン**（ほくおうSTプラン）は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区に本社のある](../Page/中央区_\(札幌市\).md "wikilink")[企業](../Page/企業.md "wikilink")。「北欧」のパン事業を継承している。
@@ -75,7 +75,7 @@
 
   - [おいしいパンの-HOKUO-](http://www.hokuopan.co.jp)
 
-[Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:1979年設立の企業](https://ja.wikipedia.org/wiki/Category:1979年設立の企業 "wikilink") [Category:パン店](https://ja.wikipedia.org/wiki/Category:パン店 "wikilink")
+[Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:1979年設立の企業](https://ja.wikipedia.org/wiki/Category:1979年設立の企業 "wikilink") [Category:日本の製パン業者](https://ja.wikipedia.org/wiki/Category:日本の製パン業者 "wikilink")
 
 1.
 2.

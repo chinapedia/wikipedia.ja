@@ -1,4 +1,4 @@
-> この記事は[ai](https://ja.wikipedia.org/wiki/ai)から翻訳されています。
+> この記事は[サッカーai](https://ja.wikipedia.org/wiki/サッカーai)から翻訳されています。
 
 
 **サッカーai**（サッカーあい）は、[Jリーグ及び](../Page/日本プロサッカーリーグ.md "wikilink")[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")で人気がある人や、輝いている人、活躍している人を紹介する[サッカー専門誌](../Page/サッカー専門誌.md "wikilink")。主に若手選手中心に、インタビューを行う。2ヶ月に一回発売される。発行所は株式会社[マガジン・マガジン](https://ja.wikipedia.org/wiki/マガジン・マガジン "wikilink")（創刊当初から2011年4月号までは[日刊スポーツ出版社](../Page/日刊スポーツ出版社.md "wikilink")\[1\]）。

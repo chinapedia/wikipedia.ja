@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTビジネスアソシエ](https://ja.wikipedia.org/wiki/NTTビジネスアソシエ)から翻訳されています。
 
 
 **エヌ・ティ・ティ・ビジネスアソシエ株式会社**（NTTビジネスアソシエ）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")にある[NTTグループ](../Page/NTTグループ.md "wikilink")の企業。

@@ -1,4 +1,4 @@
-> この記事は[Catalyst \(\)](https://ja.wikipedia.org/wiki/Catalyst_\(\))から翻訳されています。
+> この記事は[Catalyst \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Catalyst_\(ソフトウェア\))から翻訳されています。
 
 
 **Catalyst** （かたりすと）は、[Perl](../Page/Perl.md "wikilink")で書かれた[オープンソース](../Page/オープンソース.md "wikilink")の[ウェブアプリケーションフレームワークで](../Page/Webアプリケーションフレームワーク.md "wikilink")、[Model View Controller](../Page/Model_View_Controller.md "wikilink") (MVC)のアーキテクチャを持ち、実験的なウェブのパターンを数多く持っている。[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、 [Maypole](https://ja.wikipedia.org/wiki/Maypole_framework "wikilink")、 [Springといったフレームワークに強い影響を受けている](https://ja.wikipedia.org/wiki/Spring_framework "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[スーパーFXチップ](https://ja.wikipedia.org/wiki/スーパーFXチップ)から翻訳されています。
 
 
 [thumbに実装されているスーパーFXチップ](https://ja.wikipedia.org/wiki/画像:LR38173_01.jpg "wikilink")(LR38173)\]\] [thumbや](https://ja.wikipedia.org/wiki/画像:GSU-1_1.jpg "wikilink")[VORTEX](https://ja.wikipedia.org/wiki/VORTEX "wikilink")に実装されているスーパーFXチップ(GSU-1)\]\] [thumbの基板にあるスーパーFXチップ](https://ja.wikipedia.org/wiki/画像:SuperFX_GSU-2-SP1_chip.jpg "wikilink")(GSU-2-SP1)\]\] **スーパーFXチップ**（スーパーエフエックスチップ、Super FX Chip）は、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")の一部の[ロムカセット](../Page/ロムカセット.md "wikilink")に内蔵されている[コプロセッサ](../Page/コプロセッサ.md "wikilink")である。

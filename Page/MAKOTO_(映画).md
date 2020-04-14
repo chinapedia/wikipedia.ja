@@ -1,4 +1,4 @@
-> この記事は[MAKOTO \(\)](https://ja.wikipedia.org/wiki/MAKOTO_\(\))から翻訳されています。
+> この記事は[MAKOTO \(映画\)](https://ja.wikipedia.org/wiki/MAKOTO_\(映画\))から翻訳されています。
 
 
 『**MAKOTO**』（まこと）は、[2005年](../Page/2005年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")で、[郷田マモラ](../Page/郷田マモラ.md "wikilink")による同名の漫画『[MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")』の映画化作品。ジャンルは[オカルト](../Page/オカルト.md "wikilink")・[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")。

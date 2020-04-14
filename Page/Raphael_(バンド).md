@@ -1,4 +1,4 @@
-> この記事は[Raphael \(\)](https://ja.wikipedia.org/wiki/Raphael_\(\))から翻訳されています。
+> この記事は[Raphael \(バンド\)](https://ja.wikipedia.org/wiki/Raphael_\(バンド\))から翻訳されています。
 
 
 **Raphael**（ラファエル）は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。

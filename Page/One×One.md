@@ -1,4 +1,4 @@
-> この記事は[OneOne](https://ja.wikipedia.org/wiki/OneOne)から翻訳されています。
+> この記事は[One×One](https://ja.wikipedia.org/wiki/One×One)から翻訳されています。
 
 
 **One×One**（ワン・バイ・ワン）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の3rdアルバム。[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された。

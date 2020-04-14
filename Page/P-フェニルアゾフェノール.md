@@ -1,4 +1,4 @@
-> この記事は[P-](https://ja.wikipedia.org/wiki/P-)から翻訳されています。
+> この記事は[P-フェニルアゾフェノール](https://ja.wikipedia.org/wiki/P-フェニルアゾフェノール)から翻訳されています。
 
 
 {{ Infobox 化合物 | name=*p*-（フェニルアゾ）フェノール | 画像=[200px](https://ja.wikipedia.org/wiki/ファイル:4-\(Phenylazo\)phenol_structure.svg "wikilink")

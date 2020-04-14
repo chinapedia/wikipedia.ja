@@ -1,4 +1,4 @@
-> この記事は[ SIDE-B](https://ja.wikipedia.org/wiki/_SIDE-B)から翻訳されています。
+> この記事は[土曜ソリトン SIDE-B](https://ja.wikipedia.org/wiki/土曜ソリトン_SIDE-B)から翻訳されています。
 
 
 『**土曜ソリトンSIDE-B**』（どようソリトンサイド・ビー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで、全43回にわたり[NHK教育テレビにおいて](../Page/NHK教育テレビジョン.md "wikilink")、土曜日の深夜の時間帯に放映されていた[トーク番組](../Page/トーク番組.md "wikilink")である。

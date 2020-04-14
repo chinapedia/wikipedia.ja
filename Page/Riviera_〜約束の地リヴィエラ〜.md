@@ -1,4 +1,4 @@
-> この記事は[Riviera ](https://ja.wikipedia.org/wiki/Riviera_)から翻訳されています。
+> この記事は[Riviera 〜約束の地リヴィエラ〜](https://ja.wikipedia.org/wiki/Riviera_〜約束の地リヴィエラ〜)から翻訳されています。
 
 
 『**Riviera 〜約束の地リヴィエラ〜**』（やくそくのちリヴィエラ） は、[2002年](../Page/2002年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された[ワンダースワン](../Page/ワンダースワン.md "wikilink")用ファンタジー[RPG](../Page/コンピュータRPG.md "wikilink")。制作は[スティング](../Page/スティング_\(ゲーム会社\).md "wikilink")、発売は[バンダイ](../Page/バンダイ.md "wikilink")。

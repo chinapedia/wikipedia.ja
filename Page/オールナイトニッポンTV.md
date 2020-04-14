@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[オールナイトニッポンTV](https://ja.wikipedia.org/wiki/オールナイトニッポンTV)から翻訳されています。
 
 
 **オールナイトニッポンTV**（**オールナイトニッポンティービー**）は[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビ](../Page/テレビ番組.md "wikilink")[特番](../Page/特別番組.md "wikilink")。放送日時は[日本標準時](../Page/日本標準時.md "wikilink")。

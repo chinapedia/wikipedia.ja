@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSもぎたて朝一番](https://ja.wikipedia.org/wiki/NEWSもぎたて朝一番)から翻訳されています。
 
 
 『**NEWSもぎたて朝一番**』（ニュースもぎたてあさいちばん）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ東京系列局で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。放送時間は毎週月曜 - 金曜 6:30 - 7:25（[JST](../Page/日本標準時.md "wikilink")）。ただし、祝日には放送時間を7:00 - 7:25に短縮した上で放送された。

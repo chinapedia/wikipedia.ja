@@ -1,4 +1,4 @@
-> この記事は[ICE \(\)](https://ja.wikipedia.org/wiki/ICE_\(\))から翻訳されています。
+> この記事は[ICE \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/ICE_\(曖昧さ回避\))から翻訳されています。
 
 
 **ICE**

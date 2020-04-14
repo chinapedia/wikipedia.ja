@@ -85,11 +85,11 @@
 
 ### DVD
 
-  - 復活 LIVE 2019.04.27（[2020年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](../Page/12月2日.md "wikilink")）※通販、ライブ会場のみ販売
+  - 復活 LIVE 2019.04.27（[2020年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](../Page/12月2日.md "wikilink")[5日](../Page/12月2日.md "wikilink")）※通販、ライブ会場のみ販売
 
 ## 出演
 
-  - RAZZ MA TAZZKAN（[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - RAZZ MA TAZZKAN（[JFN](../Page/全国FM放送協議会.md "wikilink")）
   - 続RAZZ MA TAZZKAN（JFN）
   - [ROCK THE NATION](../Page/ROCK_THE_NATION.md "wikilink")
   - RAZZ CHANNEL（[BAY-FM](https://ja.wikipedia.org/wiki/BAY-FM "wikilink")）
@@ -110,7 +110,7 @@
   - [razz.](http://www.r2music.com/razz/) razz.公式ページ
   - [ONE DAY ONE LIFE](http://www.akunobu.com/) 阿久延博のオフィシャルサイト
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:大阪府立清水谷高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府立清水谷高等学校出身の人物 "wikilink") [Category:同志社大学出身の人物](https://ja.wikipedia.org/wiki/Category:同志社大学出身の人物 "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink")
 
 1.  [ＲＡＺＺ　ＭＡ　ＴＡＺＺ２０年ぶり復活！デビュー２５周年記念日４・２１再始動](https://www.daily.co.jp/gossip/2019/01/20/0011994112.shtml) [デイリースポーツ](../Page/デイリースポーツ.md "wikilink")[2019年](../Page/2019年.md "wikilink")（[平成](../Page/平成.md "wikilink")31年）1月20日
 2.  [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")2002年7月31日[朝刊](../Page/朝刊.md "wikilink")【訃報】三木拓次氏

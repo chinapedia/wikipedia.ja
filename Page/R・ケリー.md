@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[R・ケリー](https://ja.wikipedia.org/wiki/R・ケリー)から翻訳されています。
 
 
 **R・ケリー**（**R. Kelly**、本名：**Robert Sylvester Kelly**、[1967年](../Page/1967年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。

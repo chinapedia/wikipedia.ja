@@ -1,4 +1,4 @@
-> この記事は[HERO](https://ja.wikipedia.org/wiki/HERO)から翻訳されています。
+> この記事は[自由人HERO](https://ja.wikipedia.org/wiki/自由人HERO)から翻訳されています。
 
 
 『**自由人HERO**』（フリーマンヒーロー）は、[柴田亜美](../Page/柴田亜美.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて1994年1月号から1999年3月号まで連載、単行本全12巻、文庫版全8巻。

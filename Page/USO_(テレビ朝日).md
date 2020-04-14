@@ -1,4 +1,4 @@
-> この記事は[USO \(\)](https://ja.wikipedia.org/wiki/USO_\(\))から翻訳されています。
+> この記事は[USO \(テレビ朝日\)](https://ja.wikipedia.org/wiki/USO_\(テレビ朝日\))から翻訳されています。
 
 
 『**USO**』（ユーエスオー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全20回。番組タイトルは「**UCHIMURA SOPHISTICATED OPINION**」の略である。

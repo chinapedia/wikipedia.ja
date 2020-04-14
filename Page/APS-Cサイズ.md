@@ -1,4 +1,4 @@
-> この記事は[APS-C](https://ja.wikipedia.org/wiki/APS-C)から翻訳されています。
+> この記事は[APS-Cサイズ](https://ja.wikipedia.org/wiki/APS-Cサイズ)から翻訳されています。
 
 
 **APS-Cサイズ**は、[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")の[固体撮像素子](../Page/固体撮像素子.md "wikilink")（イメージセンサーとも）のサイズ規格のひとつである。そのサイズが[APSカメラシステムのAPS](../Page/アドバンストフォトシステム.md "wikilink")-Cタイプ（23.4mm×16.7mm）フォーマットに近いことから通称として呼ばれるようになった。

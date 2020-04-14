@@ -1,4 +1,4 @@
-> この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
+> この記事は[UFO \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/UFO_\(曖昧さ回避\))から翻訳されています。
 
 
 **UFO**

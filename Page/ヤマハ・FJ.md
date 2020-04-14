@@ -1,4 +1,4 @@
-> この記事は[FJ](https://ja.wikipedia.org/wiki/FJ)から翻訳されています。
+> この記事は[ヤマハ・FJ](https://ja.wikipedia.org/wiki/ヤマハ・FJ)から翻訳されています。
 
 
 [Yamaha.fj1200.bristol.750pix.jpg](https://ja.wikipedia.org/wiki/File:Yamaha.fj1200.bristol.750pix.jpg "fig:Yamaha.fj1200.bristol.750pix.jpg") [Yamaha_FJ1200_01.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_FJ1200_01.jpg "fig:Yamaha_FJ1200_01.jpg")

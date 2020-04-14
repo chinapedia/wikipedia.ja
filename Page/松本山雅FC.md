@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[松本山雅FC](https://ja.wikipedia.org/wiki/松本山雅FC)から翻訳されています。
 
 
 **松本山雅FC**（まつもとやまがエフシー、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")、[塩尻市](../Page/塩尻市.md "wikilink")、[山形村](../Page/山形村.md "wikilink")、[安曇野市](https://ja.wikipedia.org/wiki/安曇野市 "wikilink")、[大町市](https://ja.wikipedia.org/wiki/大町市 "wikilink")、[池田町](../Page/池田町_\(長野県\).md "wikilink")、[生坂村](../Page/生坂村.md "wikilink")、[箕輪町](../Page/箕輪町.md "wikilink")、[朝日村](https://ja.wikipedia.org/wiki/朝日村 "wikilink")\[1\] をホームタウンとする、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するプロサッカークラブ。登録チーム名は**松本山雅フットボールクラブ**（まつもとやまがフットボールクラブ）である。
@@ -442,9 +442,9 @@ Jリーグ初得点は第2節（[3月11日](../Page/3月11日.md "wikilink")、[
 
 [群馬前監督の](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")[布啓一郎](../Page/布啓一郎.md "wikilink")が監督に就任。
 
-守田とエドゥアルドが[鳥栖へ](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")、飯田が[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")･[岡崎へ](https://ja.wikipedia.org/wiki/マルヤス工業フットボールクラブ "wikilink")、今井が[オーストラリア](../Page/オーストラリア.md "wikilink")･[ウェスタン・ユナイテッドFC](https://ja.wikipedia.org/wiki/ウェスタン・ユナイテッドFC "wikilink")へ、[ジョ・ジヌ](https://ja.wikipedia.org/wiki/ジョ・ジヌ "wikilink")が[韓国](../Page/大韓民国.md "wikilink")･[大邱FC](../Page/大邱FC.md "wikilink")へ、岩上と宮阪が[群馬へ](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")、山田がオーストラリア･[ウロンゴン・ユナイテッドFC](https://ja.wikipedia.org/wiki/ウロンゴン・ユナイテッドFC "wikilink")へ、町田が[大分へ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")、パウリーニョと山本大貴が[岡山へ](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")、高崎が[岐阜へ](../Page/FC岐阜.md "wikilink")、岡が[長野へ](../Page/AC長野パルセイロ.md "wikilink")、永井龍が[広島へ完全移籍](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")。當間が契約満了で、永井堅梧が[北九州へ](../Page/ギラヴァンツ北九州.md "wikilink")、ゴ・ドンミンが[八戸へ](../Page/ヴァンラーレ八戸.md "wikilink")、森本が岡崎へ、下川が[金沢へ](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")、安東が[水戸](../Page/水戸ホーリーホック.md "wikilink")、小松が[山口へ](../Page/レノファ山口FC.md "wikilink")、ハン・ヨンテが[栃木へ期限付き移籍](../Page/栃木SC.md "wikilink")、レアンドロ・ペレイラの広島への期限付き移籍が延長、水本が期限付き移籍期間満了で退団した。
+當間が引退、守田とエドゥアルドが[鳥栖へ](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")、飯田が[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")･[岡崎へ](https://ja.wikipedia.org/wiki/マルヤス工業フットボールクラブ "wikilink")、今井が[オーストラリア](../Page/オーストラリア.md "wikilink")･[ウェスタン・ユナイテッドFC](https://ja.wikipedia.org/wiki/ウェスタン・ユナイテッドFC "wikilink")へ、[ジョ・ジヌ](https://ja.wikipedia.org/wiki/ジョ・ジヌ "wikilink")が[韓国](../Page/大韓民国.md "wikilink")･[大邱FC](../Page/大邱FC.md "wikilink")へ、岩上と宮阪が[群馬へ](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")、山田がオーストラリア･[ウロンゴン・ユナイテッドFC](https://ja.wikipedia.org/wiki/ウロンゴン・ユナイテッドFC "wikilink")へ、町田が[大分へ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")、パウリーニョと山本大貴が[岡山へ](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")、高崎が[岐阜へ](../Page/FC岐阜.md "wikilink")、岡が[長野へ](../Page/AC長野パルセイロ.md "wikilink")、永井龍が[広島へ完全移籍](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")。永井堅梧が[北九州へ](../Page/ギラヴァンツ北九州.md "wikilink")、ゴ・ドンミンが[八戸へ](../Page/ヴァンラーレ八戸.md "wikilink")、森本が岡崎へ、下川が[金沢へ](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")、安東が[水戸](../Page/水戸ホーリーホック.md "wikilink")、小松が[山口へ](../Page/レノファ山口FC.md "wikilink")、ハン・ヨンテが[栃木へ期限付き移籍](../Page/栃木SC.md "wikilink")、レアンドロ・ペレイラの広島への期限付き移籍が延長、水本が期限付き移籍期間満了で退団した。
 
-補強は[C大阪から](../Page/セレッソ大阪.md "wikilink")[圍謙太朗](https://ja.wikipedia.org/wiki/圍謙太朗 "wikilink")、[横浜FC](../Page/横浜FC.md "wikilink")から[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")、[山形から](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[アルヴァロ・ロドリゲス](https://ja.wikipedia.org/wiki/アルヴァロ・ロドリゲス・ヴィエイラ・ジュニオール "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")･[シャペコエンセSCから](https://ja.wikipedia.org/wiki/アソシアソン・シャペコエンセ・ジ・フチボウ "wikilink")[アウグスト](../Page/アウグスト・セザル・ドス・サントス・モレイラ.md "wikilink")、群馬から[吉田将也](https://ja.wikipedia.org/wiki/吉田将也 "wikilink")を完全移籍で、山本真希が完全移籍へ移行。C大阪から[森下怜哉](https://ja.wikipedia.org/wiki/森下怜哉 "wikilink")、[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[鈴木雄斗](https://ja.wikipedia.org/wiki/鈴木雄斗 "wikilink")、[G大阪から](../Page/ガンバ大阪.md "wikilink")[髙木彰人](https://ja.wikipedia.org/wiki/髙木彰人 "wikilink")（育成型）、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")から[ジャエルを期限付き移籍で獲得](https://ja.wikipedia.org/wiki/ジャエウ・フェレイラ・ヴィエイラ "wikilink")。塚川が岐阜から、山本龍平が山形から、榎本が群馬から期限付き移籍期間満了で復帰。[中央大から](../Page/中央大学.md "wikilink")[三ッ田啓希](https://ja.wikipedia.org/wiki/三ッ田啓希 "wikilink")(前年は[特別指定選手](../Page/特別指定選手.md "wikilink")として在籍)、[飯塚高から](../Page/飯塚高等学校.md "wikilink")[村越凱光](../Page/村越凱光.md "wikilink")、[立正大淞南高から](../Page/立正大学淞南高等学校.md "wikilink")[山田真夏斗](../Page/山田真夏斗.md "wikilink")が加入。
+補強は[C大阪から](../Page/セレッソ大阪.md "wikilink")[圍謙太朗](https://ja.wikipedia.org/wiki/圍謙太朗 "wikilink")、[横浜FC](../Page/横浜FC.md "wikilink")から[乾大知](https://ja.wikipedia.org/wiki/乾大知 "wikilink")、[山形から](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")[アルヴァロ・ロドリゲス](https://ja.wikipedia.org/wiki/アルヴァロ・ロドリゲス・ヴィエイラ・ジュニオール "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")･[シャペコエンセSCから](https://ja.wikipedia.org/wiki/アソシアソン・シャペコエンセ・ジ・フチボウ "wikilink")[アウグスト](../Page/アウグスト・セザル・ドス・サントス・モレイラ.md "wikilink")、群馬から[吉田将也](https://ja.wikipedia.org/wiki/吉田将也 "wikilink")を完全移籍で、山本真希が完全移籍へ移行。C大阪から[森下怜哉](https://ja.wikipedia.org/wiki/森下怜哉 "wikilink")、[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[鈴木雄斗](https://ja.wikipedia.org/wiki/鈴木雄斗 "wikilink")、[G大阪から](../Page/ガンバ大阪.md "wikilink")[髙木彰人](https://ja.wikipedia.org/wiki/髙木彰人 "wikilink")（育成型）、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")から[ジャエルを期限付き移籍で獲得](https://ja.wikipedia.org/wiki/ジャエウ・フェレイラ・ヴィエイラ "wikilink")。塚川が岐阜から、山本龍平が山形から、榎本が群馬から期限付き移籍期間満了で復帰。[中央大から](../Page/中央大学.md "wikilink")[三ッ田啓希](https://ja.wikipedia.org/wiki/三ッ田啓希 "wikilink")(前年は[特別指定選手](../Page/特別指定選手.md "wikilink")として在籍)、[飯塚高から](../Page/飯塚高等学校.md "wikilink")[村越凱光](../Page/村越凱光.md "wikilink")、[立正大淞南高から](../Page/立正大学淞南高等学校.md "wikilink")[山田真夏斗](../Page/山田真夏斗.md "wikilink")が加入。3月には[仙台から](../Page/ベガルタ仙台.md "wikilink")[常田克人](https://ja.wikipedia.org/wiki/常田克人 "wikilink")を育成型期限付き移籍で、[鹿島から](../Page/鹿島アントラーズ.md "wikilink")[久保田和音](https://ja.wikipedia.org/wiki/久保田和音 "wikilink")(前年は岡山へ育成型期限付き移籍)を完全移籍で獲得。
 
 ## 成績
 
@@ -801,11 +801,11 @@ Jリーグ初得点は第2節（[3月11日](../Page/3月11日.md "wikilink")、[
 </tr>
 <tr class="odd">
 <td><p>鎖骨</p></td>
-<td><p>ラズーソ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松本山雅FC#RAZUSO（ラズーソ）" title="wikilink">ラズーソ</a></p></td>
 <td><p>RAZUSO</p></td>
 <td><p>2019年9月 -</p></td>
-<td><p>NPO法人松本山雅スポーツクラブの<br />
-育成サポート会員組織</p></td>
+<td><p>右側に掲出<br />
+2019年は左側に掲出</p></td>
 </tr>
 <tr class="even">
 <td><p>背中上部</p></td>
@@ -1024,7 +1024,7 @@ Chemical</a></p></td>
 <tr class="even">
 <td><p>2019</p></td>
 <td><p>- /<br />
-RAZUSO（左）</p></td>
+<a href="https://ja.wikipedia.org/wiki/松本山雅FC#RAZUSO（ラズーソ）" title="wikilink">RAZUSO</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1034,8 +1034,7 @@ RAZUSO（左）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
-<td><p>RAZUSO（右）<br />
-/ -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松本山雅FC#RAZUSO（ラズーソ）" title="wikilink">RAZUSO</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1065,7 +1064,7 @@ RAZUSO（左）</p></td>
 
 [2003年](../Page/2003年.md "wikilink")5月に育成組織（アカデミー）が発足\[59\]。**ユース**(**U-18**)、**ジュニアユース**(**U-15**・**U-14**・**U-13**)、**ジュニア**(**U-12**・**U-11**・**U-10**)、**レディース**(**U-15**)のユースアカデミーを有しており、2013年2月にはU-18の運営を株式会社松本山雅へ移管。選手寮を完備し、監督に[岸野靖之](../Page/岸野靖之.md "wikilink")を招聘するなど、強化を本格化している。
 
-### 「RAZUSO（ラズーソ）」
+### RAZUSO（ラズーソ）
 
 [2019年](../Page/2019年.md "wikilink")、育成サポート会員組織「RAZUSO」を設立。
 RAZUSOとは、松本山雅FCから世界に羽ばたく選手を輩出するための育成サポート会員組織である。（会費は個人会員1口3,000円、法人会員は1口10,000円※3口から）なお、名称はNPO法人アルウィンスポーツプロジェクトの前身である任意団体「ラズーソ・J・プロジェクト」より決める。また、トップチームユニフォーム（鎖骨）にRAZUSOのロゴを表示。RAZUSOの運営は、NPO法人松本山雅スポーツクラブが行う。
@@ -1083,7 +1082,10 @@ U-15は[北信越ユース (U-15)サッカーリーグ所属](https://ja.wikiped
 ### ジュニア
 
 U-12は2015年に第39回[全日本少年サッカー大会長野県大会で初優勝し](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink")、この年代では初めての全国大会出場を果たした。
-**タイトル**
+
+  - **タイトル**
+
+<!-- end list -->
 
   - [JFA 全日本U-12サッカー選手権大会](../Page/JFA_全日本U-12サッカー選手権大会.md "wikilink") 長野県大会：**3回**
       - 2015年、2016年、2019年

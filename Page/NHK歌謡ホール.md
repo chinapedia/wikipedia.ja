@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK歌謡ホール](https://ja.wikipedia.org/wiki/NHK歌謡ホール)から翻訳されています。
 
 
 『**NHK歌謡ホール**』（エヌエイチケイかようホール）は、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[音楽番組](../Page/音楽番組.md "wikilink")である。

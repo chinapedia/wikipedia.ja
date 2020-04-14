@@ -1,4 +1,4 @@
-> この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
+> この記事は[ザ・マーシャル・マザーズ・LP](https://ja.wikipedia.org/wiki/ザ・マーシャル・マザーズ・LP)から翻訳されています。
 
 
 『**ザ・マーシャル・マザーズ・LP**』（*The Marshall Mathers LP*）は、[アメリカ出身の白人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[エミネムのセカンド](https://ja.wikipedia.org/wiki/EMINEM "wikilink")・アルバムである。発売後1週間で179万枚を売り上げ、ソロシンガーのアルバムでは世界最多記録として[ギネスブック](https://ja.wikipedia.org/wiki/ギネスブック "wikilink")に認定されている。

@@ -1,4 +1,4 @@
-> この記事は[MAD](https://ja.wikipedia.org/wiki/MAD)から翻訳されています。
+> この記事は[MADムービー](https://ja.wikipedia.org/wiki/MADムービー)から翻訳されています。
 
 
 **MADムービー**（マッドムービー）とは、既存の[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[画像](../Page/画像.md "wikilink")・[動画](../Page/動画.md "wikilink")・[アニメーション](../Page/アニメーション.md "wikilink")などを個人が[編集](../Page/編集.md "wikilink")・合成し、再構成したもの。単に「MAD」と呼ばれることも多く、ネットコミュニティにおいてはもっぱらこの呼称が主流となっている。ただし[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[CGソフトが普及した](../Page/コンピュータグラフィックス.md "wikilink")21世紀初頭には「手書き（描き）MAD」（後述）という用語が出現するなど意味の拡散がみられる。主にファン活動の一環として行われる。「MAD」とは「狂っている、ばかげている」の意の英である「madness」の略。

@@ -1,4 +1,4 @@
-> この記事は[OH!](https://ja.wikipedia.org/wiki/OH!)から翻訳されています。
+> この記事は[OH!スーパーミルクチャン](https://ja.wikipedia.org/wiki/OH!スーパーミルクチャン)から翻訳されています。
 
 
 『**OH\! スーパーミルクチャン**』（オー\! スーパーミルクチャン）は、[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")から[4月13日](../Page/4月13日.md "wikilink")まで[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")他で放送された日本の[ギャグアニメ](../Page/ギャグアニメ.md "wikilink")。全12話。
@@ -158,13 +158,13 @@
 
 :: 映像は『[エースをねらえ\!](../Page/エースをねらえ!.md "wikilink")』『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』『[キューティハニー](https://ja.wikipedia.org/wiki/キューティハニー "wikilink")』『[デビルマン](../Page/デビルマン.md "wikilink")』などのオープニングやエンディングのパロディになっている（しかもロケ地：○○とつく）。
 
-:; エンディングテーマ「ツッパリHighschool Rock'nRoll〜大統領編」
+:; エンディングテーマ「[ツッパリHighschool Rock'nRoll〜大統領編](https://ja.wikipedia.org/wiki/ツッパリHigh_School_Rock'n_Roll_\(登校編\) "wikilink")」
 
   -
 
       -
         作詞・作曲 - タミヤヨシユキ / 歌 - 長島雄一
-        [横浜銀蝿](../Page/横浜銀蝿.md "wikilink")の替え歌。フルサイズ版とテレビサイズ版では曲のアレンジが異なる。またEDの最後には大統領の魂の叫びがあるのだが、大阪府知事(当時)だった[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")の不祥事を擁護するようなセリフ(「大阪府知事をいじめるな」)だった時期があるが、変更されている。
+        [横浜銀蝿](../Page/横浜銀蝿.md "wikilink")「ツッパリHigh School Rock'n Roll (登校編)」の替え歌。フルサイズ版とテレビサイズ版では曲のアレンジが異なる。またEDの最後には大統領の魂の叫びがあるのだが、大阪府知事(当時)だった[横山ノック](https://ja.wikipedia.org/wiki/横山ノック "wikilink")の不祥事を擁護するようなセリフ(「大阪府知事をいじめるな」)だった時期があるが、変更されている。
 
 ## 各話リスト
 

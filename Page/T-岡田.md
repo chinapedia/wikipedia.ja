@@ -1,4 +1,4 @@
-> この記事は[T-](https://ja.wikipedia.org/wiki/T-)から翻訳されています。
+> この記事は[T-岡田](https://ja.wikipedia.org/wiki/T-岡田)から翻訳されています。
 
 
 **T-岡田**（ティーおかだ、本名・旧[登録名](../Page/登録名.md "wikilink")：**岡田 貴弘**〈おかだ たかひろ〉、[1988年](../Page/1988年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身のの[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")、[内野手](../Page/内野手.md "wikilink")）。左投左打。[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")所属。

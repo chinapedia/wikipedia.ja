@@ -1,4 +1,4 @@
-> この記事は[Ns\' \(\)](https://ja.wikipedia.org/wiki/Ns\'_\(\))から翻訳されています。
+> この記事は[Ns\'あおい \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Ns\'あおい_\(テレビドラマ\))から翻訳されています。
 
 
 『**Ns'あおい**』（ナースあおい）は、[こしのりょう](https://ja.wikipedia.org/wiki/こしのりょう "wikilink")作の漫画『[Ns'あおい](../Page/Ns'あおい.md "wikilink")』を原作とする[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演の[石原さとみ](../Page/石原さとみ.md "wikilink")は民放の連続ドラマ初主演である。
@@ -227,4 +227,4 @@
   - [フジテレビ](http://www.fujitv.co.jp)
   - [ドラマ人物相関図](http://soukanzu.net/06-1/Ns-aoi.htm)
 
-[Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:看護師を主人公としたフィクション作品](https://ja.wikipedia.org/wiki/Category:看護師を主人公としたフィクション作品 "wikilink")
+[Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:看護師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:看護師を主人公としたテレビドラマ "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[R\&S](https://ja.wikipedia.org/wiki/R\&S)から翻訳されています。
+> この記事は[R\&Sレコーズ](https://ja.wikipedia.org/wiki/R\&Sレコーズ)から翻訳されています。
 
 
 **R\&S Records**は、1984年にRenaat VandepapeliereとSabine Maesにより設立されたベルギーのレコード会社。現在は拠点をロンドンに移しており、Andy WhittakerとDan Foatにより運営されている。

@@ -1,4 +1,4 @@
-> この記事は[MJ3](https://ja.wikipedia.org/wiki/MJ3)から翻訳されています。
+> この記事は[セガネットワーク対戦麻雀MJ3](https://ja.wikipedia.org/wiki/セガネットワーク対戦麻雀MJ3)から翻訳されています。
 
 
 『**セガネットワーク対戦麻雀MJ3**』（セガネットワークたいせんマージャン エムジェイスリー、以下MJ3）は、株式会社セガ（後の株式会社[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が業務用[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として販売しネットワークを運営する、[オンライン対戦ができる](../Page/オンラインゲーム.md "wikilink")[麻雀](../Page/麻雀.md "wikilink")ゲームである。[日本プロ麻雀協会](../Page/日本プロ麻雀協会.md "wikilink")の公認を受けている。[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")より正式に全国稼動を開始した。なお、ここではMJ3のバージョンアップ版「MJ3EVOLUTION」についても記述する。

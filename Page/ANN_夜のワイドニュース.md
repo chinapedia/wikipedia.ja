@@ -1,4 +1,4 @@
-> この記事は[ANN ](https://ja.wikipedia.org/wiki/ANN_)から翻訳されています。
+> この記事は[ANN 夜のワイドニュース](https://ja.wikipedia.org/wiki/ANN_夜のワイドニュース)から翻訳されています。
 
 
 『**ANN夜のワイドニュース**』（エイエヌエヌよるのワイドニュース）は、NETテレビ（日本教育テレビ、現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[系列で月曜](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") - 金曜 23時30分 - 23時55分に放送されていた[報道番組](../Page/報道番組.md "wikilink")である。製作局のNETテレビでは[1967年](../Page/1967年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで放送。

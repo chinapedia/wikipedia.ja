@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[L×I×V×E](https://ja.wikipedia.org/wiki/L×I×V×E)から翻訳されています。
 
 
 『**L×I×V×E**』（ライブ）は、1999年4月9日から同年6月25日まで[TBS系列で毎週金曜](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") 21:00 - 21:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全12話。
@@ -338,4 +338,4 @@
 
   - [LIVE ロケ地ガイド](http://loca.ash.jp/show/1999/d199904_live.htm)
 
-[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:吹奏楽を題材とした作品](https://ja.wikipedia.org/wiki/Category:吹奏楽を題材とした作品 "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:横須賀市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:横須賀市を舞台とした作品 "wikilink")
+[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:吹奏楽を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吹奏楽を題材としたテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:横須賀市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:横須賀市を舞台とした作品 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
+> この記事は[E-ディフェンス](https://ja.wikipedia.org/wiki/E-ディフェンス)から翻訳されています。
 
 
 **E-ディフェンス**（**E-Defense**）は[国立研究開発法人](https://ja.wikipedia.org/wiki/国立研究開発法人 "wikilink")[防災科学技術研究所](../Page/防災科学技術研究所.md "wikilink")が所管する、大型構造物の震動破壊実験を行う大規模実験施設（実大三次元震動破壊実験施設）。名前に冠される"E"はEarth（地球）を表す。一般的な日本の戸建住宅のほか、[鉄筋コンクリート](../Page/鉄筋コンクリート.md "wikilink")造6階建て程度の建物の震動破壊実験を行うことができる世界最大の耐震実験施設である。なお、施設のメインとなる実験棟の面積は約5,200[m<sup>2</sup>](../Page/平方メートル.md "wikilink")、高さ43mである。施設は[兵庫県](../Page/兵庫県.md "wikilink")[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")にある[兵庫県立三木防災公園](https://ja.wikipedia.org/wiki/兵庫県立三木防災公園 "wikilink")内にあり、[2005年](../Page/2005年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に竣工した。

@@ -1,4 +1,4 @@
-> この記事は[PC-H98](https://ja.wikipedia.org/wiki/PC-H98)から翻訳されています。
+> この記事は[PC-H98シリーズ](https://ja.wikipedia.org/wiki/PC-H98シリーズ)から翻訳されています。
 
 
 **PC-H98シリーズ**は、[日本電気 (NEC)が販売していた](../Page/日本電気.md "wikilink")[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の製品群の名称である。 [PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")の上位互換機種に位置づけられ、「エイチ98」もしくは「ハイパー98」と呼ばれる。

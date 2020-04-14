@@ -1,4 +1,4 @@
-> この記事は[FITATM](https://ja.wikipedia.org/wiki/FITATM)から翻訳されています。
+> この記事は[FITネットATM](https://ja.wikipedia.org/wiki/FITネットATM)から翻訳されています。
 
 
 **FITネットATM**（フィットネットエーティーエム）は、北陸地方の[福井銀行](../Page/福井銀行.md "wikilink")・[北國銀行](../Page/北國銀行.md "wikilink")と、[第二地方銀行](../Page/第二地方銀行.md "wikilink")の[富山第一銀行](../Page/富山第一銀行.md "wikilink")の合わせて3行が[2005年](../Page/2005年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に業務提携締結の調印をした「[FITネット](https://ja.wikipedia.org/wiki/FITネット "wikilink")」による業務提携での一環として、3行との間の[ATM･CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[UEFA U-19](https://ja.wikipedia.org/wiki/UEFA_U-19)から翻訳されています。
+> この記事は[UEFA U-19欧州選手権](https://ja.wikipedia.org/wiki/UEFA_U-19欧州選手権)から翻訳されています。
 
 
 **UEFA U-19欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。

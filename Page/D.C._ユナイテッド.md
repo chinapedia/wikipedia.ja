@@ -1,4 +1,4 @@
-> この記事は[D.C. ](https://ja.wikipedia.org/wiki/D.C._)から翻訳されています。
+> この記事は[D.C. ユナイテッド](https://ja.wikipedia.org/wiki/D.C._ユナイテッド)から翻訳されています。
 
 
 **D.C. ユナイテッド**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の首都[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")をホームとするサッカークラブである。リーグ初年度の1996年シーズンより[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")に所属している。

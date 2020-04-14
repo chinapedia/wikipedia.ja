@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ロバート・J・ハヴィガースト](https://ja.wikipedia.org/wiki/ロバート・J・ハヴィガースト)から翻訳されています。
 
 
 **ロバート・J・ハヴィガースト**（Robert James Havighurst, [1900年](../Page/1900年.md "wikilink") - [1991年](../Page/1991年.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[教育学者](https://ja.wikipedia.org/wiki/教育学者 "wikilink")。通常、Jamesは、Jと略記する。

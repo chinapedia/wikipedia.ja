@@ -1,4 +1,4 @@
-> この記事は[RT-2PM2 \(\)](https://ja.wikipedia.org/wiki/RT-2PM2_\(\))から翻訳されています。
+> この記事は[RT-2PM2 \(ミサイル\)](https://ja.wikipedia.org/wiki/RT-2PM2_\(ミサイル\))から翻訳されています。
 
 
 <table>

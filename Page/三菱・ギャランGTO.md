@@ -1,4 +1,4 @@
-> この記事は[GTO](https://ja.wikipedia.org/wiki/GTO)から翻訳されています。
+> この記事は[三菱・ギャランGTO](https://ja.wikipedia.org/wiki/三菱・ギャランGTO)から翻訳されています。
 
 
 **コルトギャランGTO**（*COLT Galant GTO*）は、1970年より[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していた[ファストバック](https://ja.wikipedia.org/wiki/ファストバック "wikilink")スタイルの2ドア[ハードトップクーペ](https://ja.wikipedia.org/wiki/ハードトップクーペ "wikilink")。

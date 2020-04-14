@@ -1,4 +1,4 @@
-> この記事は[Au IC](https://ja.wikipedia.org/wiki/Au_IC)から翻訳されています。
+> この記事は[Au ICカード](https://ja.wikipedia.org/wiki/Au_ICカード)から翻訳されています。
 
 
 **au ICカード**（エーユー アイシーカード）は、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の、[第3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink") (3.5G) サービスの[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink") (後のau 3G) の多くの端末や[第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink") (LTE) サービスの[au 4G LTEで採用されている](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")[R-UIMカード](https://ja.wikipedia.org/wiki/R-UIMカード "wikilink")である (ただし、「au Nano IC Card 04 (VoLTE)」および「au Nano IC Card 04 LE」については、**R-UIMカードではなく**、[UIMカード](../Page/UIMカード.md "wikilink")である。理由は後述）。KDDIテクノロジーおよび[大日本印刷](../Page/大日本印刷.md "wikilink")、[シュルンベルジェ](../Page/シュルンベルジェ.md "wikilink")セマが共同開発した。

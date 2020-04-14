@@ -1,4 +1,4 @@
-> この記事は[CVP](https://ja.wikipedia.org/wiki/CVP)から翻訳されています。
+> この記事は[CVP分析](https://ja.wikipedia.org/wiki/CVP分析)から翻訳されています。
 
 
 **CVP分析**（CVPぶんせき ）または**損益分岐点分析**（そんえきぶんきてんぶんせき）は、[管理会計](../Page/管理会計.md "wikilink")上の分析手法の1つである。[利益](../Page/利益.md "wikilink")と販売数量､[コスト](https://ja.wikipedia.org/wiki/コスト "wikilink")の関係について行う分析方法である。

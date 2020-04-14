@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[ICい〜カード](https://ja.wikipedia.org/wiki/ICい〜カード)から翻訳されています。
 
 
 **ICい〜カード**（アイシィ・い〜カード、[英称](../Page/英語.md "wikilink")：*IC E-card*）は、[伊予鉄道](../Page/伊予鉄道.md "wikilink")等で販売、利用ができる非接触方式[ICカード](../Page/ICカード.md "wikilink")を利用した[ストアードフェアシステムカードである](../Page/乗車カード.md "wikilink")。

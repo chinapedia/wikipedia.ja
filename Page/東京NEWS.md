@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[東京NEWS](https://ja.wikipedia.org/wiki/東京NEWS)から翻訳されています。
 
 
 『**東京NEWS**』（とうきょうニュース）は、[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（当時の通称MXTV）が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")ごろまで放送したローカル[ニュース](../Page/ニュース.md "wikilink")枠の総称である。
@@ -87,7 +87,7 @@
 
 **開局 - 1996年3月**
 
-  - [DEEN](../Page/DEEN.md "wikilink")「[Run Around](https://ja.wikipedia.org/wiki/Teenage_Dream "wikilink")」(カラオケVer）（当初本編オープニング&随時、後に本編オープニングのみ）
+  - [DEEN](../Page/DEEN.md "wikilink")「[Run Around](../Page/Teenage_dream.md "wikilink")」(カラオケVer）（当初本編オープニング&随時、後に本編オープニングのみ）
 
 **1996年4月 - 10月**
 
@@ -114,7 +114,7 @@
   - 「都政出前講座」(20:45→18:15)
   - 「鼎談」(23:50)
 
-なお東京NEWS枠外であるが、21:45-22:00（のち22:00-15に移動）に「東京FILE23」という23区各区の番組も設定されていた。何区の番組かは日替わりで、まれに23区協議会による23区全域を対象とした番組となることがあった。こちらの番組開始により、1995年10月改編まで存在した、「[いき粋タウンすみだ](https://ja.wikipedia.org/wiki/いき粋タウンすみだ "wikilink")」「[スーパーシティ中央](https://ja.wikipedia.org/wiki/スーパーシティ中央 "wikilink")」（いずれも[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）など広域局での23区提供番組の大半が終了した。
+なお東京NEWS枠外であるが、21:45-22:00（のち22:00-15に移動）に「東京FILE23」という23区各区の番組も設定されていた。何区の番組かは日替わりで、まれに23区協議会による23区全域を対象とした番組となることがあった。こちらの番組開始により、1995年10月改編まで存在した、「[いき粋タウンすみだ](https://ja.wikipedia.org/wiki/いき粋タウンすみだ "wikilink")」「[スーパーシティ中央](https://ja.wikipedia.org/wiki/スーパーシティ中央 "wikilink")」（いずれも[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）「[風は世田谷](https://ja.wikipedia.org/wiki/風は世田谷 "wikilink")」（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）など広域局での23区提供番組の大半が終了した。
 
 ## 脚注
 

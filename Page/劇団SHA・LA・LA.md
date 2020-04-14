@@ -1,4 +1,4 @@
-> この記事は[SHALALA](https://ja.wikipedia.org/wiki/SHALALA)から翻訳されています。
+> この記事は[劇団SHA・LA・LA](https://ja.wikipedia.org/wiki/劇団SHA・LA・LA)から翻訳されています。
 
 
 **劇団SHA・LA・LA**（げきだんシャララ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")である。座長（リーダー）は[出川哲朗](../Page/出川哲朗.md "wikilink")。活動休止まで[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")に所属していた。

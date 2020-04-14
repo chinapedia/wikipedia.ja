@@ -1,7 +1,7 @@
-> この記事は[ORANGE RANGE ](https://ja.wikipedia.org/wiki/ORANGE_RANGE_)から翻訳されています。
+> この記事は[ORANGE RANGE ラジオ〜コンタクト](https://ja.wikipedia.org/wiki/ORANGE_RANGE_ラジオ〜コンタクト)から翻訳されています。
 
 
-『**ORANGE RANGE ラジオ〜コンタクト**』（オレンジレンジ ラジオコンタクト）は、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")**HIROKI**と**NAOTO**がパーソナリティーを務めたラジオ番組である。全国の[JFNC系列](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")30局で放送されている。略称は『ラジコン』。放送基準日は木曜日。
+『**ORANGE RANGE ラジオ〜コンタクト**』（オレンジレンジ ラジオコンタクト）は、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")**HIROKI**と**NAOTO**がパーソナリティーを務めたラジオ番組である。全国の[JFNC系列](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")30局で放送されている。略称は『ラジコン』。放送基準日は木曜日。
 
 ## 概要
 

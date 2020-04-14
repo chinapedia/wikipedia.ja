@@ -1,4 +1,4 @@
-> この記事は[K \(\)](https://ja.wikipedia.org/wiki/K_\(\))から翻訳されています。
+> この記事は[K級潜水艦 \(イギリス海軍\)](https://ja.wikipedia.org/wiki/K級潜水艦_\(イギリス海軍\))から翻訳されています。
 
 
 | K級潜水艦                                                                                                                |

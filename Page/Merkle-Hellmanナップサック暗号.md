@@ -1,4 +1,4 @@
-> この記事は[Merkle-Hellman](https://ja.wikipedia.org/wiki/Merkle-Hellman)から翻訳されています。
+> この記事は[Merkle-Hellmanナップサック暗号](https://ja.wikipedia.org/wiki/Merkle-Hellmanナップサック暗号)から翻訳されています。
 
 
 **Merkle-Hellmanナップサック暗号**とは、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[ラルフ・マークル](../Page/ラルフ・マークル.md "wikilink")と[マーティン・ヘルマン](https://ja.wikipedia.org/wiki/マーティン・ヘルマン "wikilink")が発表した[ナップサック問題](../Page/ナップサック問題.md "wikilink")（正確には[部分和問題](https://ja.wikipedia.org/wiki/部分和問題 "wikilink")）を利用した[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の一つである。 この暗号方式は、秘匿用途の方式であり、認証（[デジタル署名](../Page/デジタル署名.md "wikilink")など）を目的としたものではない。

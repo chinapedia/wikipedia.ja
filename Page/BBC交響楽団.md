@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBC交響楽団](https://ja.wikipedia.org/wiki/BBC交響楽団)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Chilly_Gonzales_with_the_BBC_Symphony_Orchestra_at_the_Barbican.jpg "wikilink")

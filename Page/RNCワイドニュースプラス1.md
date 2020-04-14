@@ -1,4 +1,4 @@
-> この記事は[RNC1](https://ja.wikipedia.org/wiki/RNC1)から翻訳されています。
+> この記事は[RNCワイドニュースプラス1](https://ja.wikipedia.org/wiki/RNCワイドニュースプラス1)から翻訳されています。
 
 
 『**RNCワイドニュースプラス1**』（アールエヌシーワイドニュースプラスワン）は、[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[西日本放送で放送されていたローカル](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のローカルニュースを伝えていた一方で料理コーナーも設けるなど、[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")としての側面も併せ持っていた。

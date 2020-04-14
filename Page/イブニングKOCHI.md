@@ -1,4 +1,4 @@
-> この記事は[KOCHI](https://ja.wikipedia.org/wiki/KOCHI)から翻訳されています。
+> この記事は[イブニングKOCHI](https://ja.wikipedia.org/wiki/イブニングKOCHI)から翻訳されています。
 
 
 『**イブニングKOCHI**』（イブニングこうち）は、[テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）で月曜 - 金曜 18:15 - 18:50に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。放送開始時の表記は『イブニングKochi』だった。

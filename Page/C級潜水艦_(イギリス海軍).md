@@ -1,4 +1,4 @@
-> この記事は[C \(\)](https://ja.wikipedia.org/wiki/C_\(\))から翻訳されています。
+> この記事は[C級潜水艦 \(イギリス海軍\)](https://ja.wikipedia.org/wiki/C級潜水艦_\(イギリス海軍\))から翻訳されています。
 
 
 **C級潜水艦** (''' C class submarines ''') は、[イギリス海軍](../Page/イギリス海軍.md "wikilink")の沿岸[潜水艦](../Page/潜水艦.md "wikilink")。1906年から1910年にかけて38隻が製造された。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で活躍。

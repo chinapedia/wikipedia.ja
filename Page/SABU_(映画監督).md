@@ -1,4 +1,4 @@
-> この記事は[SABU \(\)](https://ja.wikipedia.org/wiki/SABU_\(\))から翻訳されています。
+> この記事は[SABU \(映画監督\)](https://ja.wikipedia.org/wiki/SABU_\(映画監督\))から翻訳されています。
 
 
 **SABU**（さぶ、[1964年](../Page/1964年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")、[映画監督](../Page/映画監督.md "wikilink")。本名は**田中博行**\[1\]、旧芸名は**田中博樹**、**サブ**（[片仮名](../Page/片仮名.md "wikilink")表記）。[クリームインターナショナル](../Page/クリームインターナショナル.md "wikilink")所属。

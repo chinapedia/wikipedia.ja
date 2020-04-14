@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ゴイアスEC](https://ja.wikipedia.org/wiki/ゴイアスEC)から翻訳されています。
 
 
 **ゴイアスEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ゴイアス州](../Page/ゴイアス州.md "wikilink")[ゴイアニア](../Page/ゴイアニア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

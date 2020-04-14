@@ -1,4 +1,4 @@
-> この記事は[Over Time-](https://ja.wikipedia.org/wiki/Over_Time-)から翻訳されています。
+> この記事は[Over Time-オーバー・タイム](https://ja.wikipedia.org/wiki/Over_Time-オーバー・タイム)から翻訳されています。
 
 
 『**Over Time-オーバー・タイム**』は、[1999年](../Page/1999年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[3月22日](../Page/3月22日.md "wikilink")まで毎週月曜日21:00 - 21:54\[1\]に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")と[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")。

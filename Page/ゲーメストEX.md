@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ゲーメストEX](https://ja.wikipedia.org/wiki/ゲーメストEX)から翻訳されています。
 
 
 『**ゲーメストEX**』は、[新声社](../Page/新声社.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月](../Page/8月.md "wikilink")に創刊した[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")専門の[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。

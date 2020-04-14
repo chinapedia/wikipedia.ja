@@ -1,4 +1,4 @@
-> この記事は[vs.](https://ja.wikipedia.org/wiki/vs.)から翻訳されています。
+> この記事は[マリオvs.ドンキーコング](https://ja.wikipedia.org/wiki/マリオvs.ドンキーコング)から翻訳されています。
 
 
 <div class="pathnavbox">

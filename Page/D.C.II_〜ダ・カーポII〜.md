@@ -1,4 +1,4 @@
-> この記事は[D.C.II II](https://ja.wikipedia.org/wiki/D.C.II_II)から翻訳されています。
+> この記事は[D.C.II 〜ダ・カーポII〜](https://ja.wikipedia.org/wiki/D.C.II_〜ダ・カーポII〜)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

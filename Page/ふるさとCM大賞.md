@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[ふるさとCM大賞](https://ja.wikipedia.org/wiki/ふるさとCM大賞)から翻訳されています。
 
 
 **ふるさとCM大賞**（ふるさとシーエムたいしょう）とは、各地の[テレビ局などが主催し](../Page/テレビジョン放送局.md "wikilink")、[各市町村が制作する地元PRの](../Page/市町村.md "wikilink")[コマーシャルを集めて行われる](../Page/コマーシャルメッセージ.md "wikilink")[コンクール](../Page/コンクール.md "wikilink")のことである。 [thumb](https://ja.wikipedia.org/wiki/ファイル:FURUSATO_CM.jpg "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[BQTV](https://ja.wikipedia.org/wiki/BQTV)から翻訳されています。
+> この記事は[B☆QTV](https://ja.wikipedia.org/wiki/B☆QTV)から翻訳されています。
 
 
 『**B☆QTV**』（ビーキューティービー）は、[1991年](../Page/1991年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

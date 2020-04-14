@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[酸化銀\(I\)](https://ja.wikipedia.org/wiki/酸化銀\(I\))から翻訳されています。
 
 
 **酸化銀(I)** は[化学式](../Page/化学式.md "wikilink")で表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")化合物の一つ。黒から褐色の細かい粉末で、他の銀化合物の調製に用いられる。

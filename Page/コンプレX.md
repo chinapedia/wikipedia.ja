@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[コンプレX](https://ja.wikipedia.org/wiki/コンプレX)から翻訳されています。
 
 
 『**コンプレX**』（コンプレエックス）は、[2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から同年[12月21日](../Page/12月21日.md "wikilink")まで[中国放送](../Page/中国放送.md "wikilink")（RCCテレビ）で放送されていたローカル[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

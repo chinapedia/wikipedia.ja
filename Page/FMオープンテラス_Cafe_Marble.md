@@ -1,4 +1,4 @@
-> この記事は[FM Cafe Marble](https://ja.wikipedia.org/wiki/FM_Cafe_Marble)から翻訳されています。
+> この記事は[FMオープンテラス Cafe Marble](https://ja.wikipedia.org/wiki/FMオープンテラス_Cafe_Marble)から翻訳されています。
 
 
 『**FMオープンテラス Cafe Marble**』（エフエムオープンテラス カフェマーブル）は、2005年4月から2006年3月まで[エフエム青森](../Page/エフエム青森.md "wikilink")で放送されていた昼の生[ワイド番組](../Page/ワイド番組.md "wikilink")である。放送時間は毎週月曜 - 木曜 11:30 - 12:45 （[日本標準時](../Page/日本標準時.md "wikilink")）。

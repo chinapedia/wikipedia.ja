@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BBゴロー](https://ja.wikipedia.org/wiki/BBゴロー)から翻訳されています。
 
 
 **BBゴロー**（ビービーゴロー、[1972年](../Page/1972年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピン芸人](../Page/ピン芸人.md "wikilink")、[ものまね芸人](../Page/ものまねタレント.md "wikilink")、[漫談](../Page/漫談.md "wikilink")師（[ギター](../Page/ギター.md "wikilink")漫談）。本名、**川野 勝**（かわの まさる）。
@@ -137,7 +137,7 @@
 
   - [BBゴローホームページ](http://www.bb56.jp/)
 
-  - [BB日記](http://blog.oricon.co.jp/bb56/)（2009年8月11日 - 2015年10月30日）
+  - （2009年8月11日 - 2015年10月30日）
 
   - [BBゴローの日記](http://www.e-nikki.jp/nikki.php?user=bb56)（ - 2009年8月9日）
 

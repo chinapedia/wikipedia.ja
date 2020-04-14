@@ -1,4 +1,4 @@
-> この記事は[AK](https://ja.wikipedia.org/wiki/AK)から翻訳されています。
+> この記事は[グラーツァーAK](https://ja.wikipedia.org/wiki/グラーツァーAK)から翻訳されています。
 
 
 **グラーツァーAK**（）は、[オーストリア](../Page/オーストリア.md "wikilink")・[シュタイアーマルク州](../Page/シュタイアーマルク州.md "wikilink")の州都[グラーツ](../Page/グラーツ.md "wikilink")を本拠地としている[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。サッカーのほか、[テニス](../Page/テニス.md "wikilink")や[バスケットボール](../Page/バスケットボール.md "wikilink")部門も運営している。 2006-07シーズンで破産、オーストリアサッカー協会より[オーストリア・ブンデスリーガのライセンスを取得できず](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")、2007-08シーズンからはオーストリア3部から再スタートとなった。

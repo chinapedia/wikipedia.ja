@@ -1,4 +1,4 @@
-> この記事は[For You \(\)](https://ja.wikipedia.org/wiki/For_You_\(\))から翻訳されています。
+> この記事は[For You \(テレビドラマ\)](https://ja.wikipedia.org/wiki/For_You_\(テレビドラマ\))から翻訳されています。
 
 
 『**For You**』（フォー・ユー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週月曜日21:00 ‐21:54に[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[中山美穂](../Page/中山美穂.md "wikilink")。平均視聴率21.5％。

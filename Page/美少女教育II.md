@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[美少女教育II](https://ja.wikipedia.org/wiki/美少女教育II)から翻訳されています。
 
 
 『**美少女教育II**』（びしょうじょきょういくに）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で月曜日 - 金曜日の深夜に放送されていた[ミニ番組](../Page/ミニ番組.md "wikilink")である。

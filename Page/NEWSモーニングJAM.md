@@ -1,4 +1,4 @@
-> この記事は[NEWSJAM](https://ja.wikipedia.org/wiki/NEWSJAM)から翻訳されています。
+> この記事は[NEWSモーニングJAM](https://ja.wikipedia.org/wiki/NEWSモーニングJAM)から翻訳されています。
 
 
 『**NEWSモーニングJAM**』（ニュースモーニングジャム）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された朝のニュース・情報バラエティ番組。放送時間は毎週月曜 - 金曜 6:30 - 7:25 ([JST](../Page/日本標準時.md "wikilink")) 。祝日には放送休止となり、代わりに『[TXNニュース](../Page/TXNニュース.md "wikilink")』（7:15 - 7:25）が放送された。

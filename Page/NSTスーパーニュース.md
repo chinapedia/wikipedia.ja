@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NSTスーパーニュース](https://ja.wikipedia.org/wiki/NSTスーパーニュース)から翻訳されています。
 
 
 『**NSTスーパーニュース**』（エヌエスティースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*NST Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[新潟総合テレビで放送されていた](../Page/NST新潟総合テレビ.md "wikilink")[新潟県](../Page/新潟県.md "wikilink")向け[夕](../Page/夕.md "wikilink")方の[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。全国ニュース『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包している。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。
@@ -122,7 +122,9 @@
   - 1997年3月31日 - 1998年3月27日 『[NSTニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』（平日）
   - 1998年3月30日 - 2015年3月27日『NSTスーパーニュース』(平日)
   - 2015年3月30日 - 2018年3月30日『[NST みんなのニュース](https://ja.wikipedia.org/wiki/NST_みんなのニュース "wikilink")』(平日)
-  - 2018年4月2日 - 現在 『[NST プライムニュース](https://ja.wikipedia.org/wiki/NST_プライムニュース "wikilink")』(平日)
+  - 2018年4月2日 - 2019年3月31日『[NST プライムニュース](https://ja.wikipedia.org/wiki/NST_プライムニュース "wikilink")』（平日・週末）
+  - 2019年4月1日-『[NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")』（週末）(平日は2020年3月27日まで)
+  - 2020年3月30日 -『[NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")』（平日）
 
 ## 余談
 

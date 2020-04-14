@@ -1,4 +1,4 @@
-> この記事は[G-SAVIOUR](https://ja.wikipedia.org/wiki/G-SAVIOUR)から翻訳されています。
+> この記事は[G-SAVIOURの登場兵器](https://ja.wikipedia.org/wiki/G-SAVIOURの登場兵器)から翻訳されています。
 
 
 **G-SAVIOURの登場兵器**（ジーセイバーのとうじょうへいき）では、[特撮映画](../Page/特撮映画.md "wikilink")及び[ゲーム](../Page/ゲーム.md "wikilink")『[G-SAVIOUR](../Page/G-SAVIOUR.md "wikilink")』に登場する架空の兵器について説明する。

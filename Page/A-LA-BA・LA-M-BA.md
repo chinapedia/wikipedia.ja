@@ -1,4 +1,4 @@
-> この記事は[A-LA-BALA-M-BA](https://ja.wikipedia.org/wiki/A-LA-BALA-M-BA)から翻訳されています。
+> この記事は[A-LA-BA・LA-M-BA](https://ja.wikipedia.org/wiki/A-LA-BA・LA-M-BA)から翻訳されています。
 
 
 **A-LA-BA・LA-M-BA**（ア・ラ・バ・ラ・ン・バ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")の5枚目のアルバム。

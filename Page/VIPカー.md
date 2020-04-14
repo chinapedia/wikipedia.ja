@@ -1,4 +1,4 @@
-> この記事は[VIP](https://ja.wikipedia.org/wiki/VIP)から翻訳されています。
+> この記事は[VIPカー](https://ja.wikipedia.org/wiki/VIPカー)から翻訳されています。
 
 
 [Celprata.jpg](https://ja.wikipedia.org/wiki/File:Celprata.jpg "fig:Celprata.jpg")における例\]\] [サムネイルのVIPカー](https://ja.wikipedia.org/wiki/ファイル:Osaka_Auto_Messe_2016_\(673\)_-_Toyota_CROWN_\(S200\)_exhibited_by_VIP_STYLE.jpg "wikilink")\]\] **VIPカー**（ビップカー、ヴィップカー、VIP Car）とは、主に[セダン](../Page/セダン.md "wikilink")の[高級車](../Page/高級車.md "wikilink")に豪華な装飾を施した[改造車](../Page/改造車.md "wikilink")の総称、[俗称](https://ja.wikipedia.org/wiki/俗称 "wikilink")。あるいはその改造形態のことである。

@@ -1,4 +1,4 @@
-> この記事は[New Cinema ](https://ja.wikipedia.org/wiki/New_Cinema_)から翻訳されています。
+> この記事は[New Cinema 蜥蜴](https://ja.wikipedia.org/wiki/New_Cinema_蜥蜴)から翻訳されています。
 
 
 **New Cinema 蜥蜴**（ニュー・シネマ・とかげ）は、日本の男性4人組の[音楽](../Page/音楽.md "wikilink")グループである。所属レコード会社は[GIZA studioであった](../Page/GIZA_studio.md "wikilink")。

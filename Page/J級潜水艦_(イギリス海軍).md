@@ -1,4 +1,4 @@
-> この記事は[J \(\)](https://ja.wikipedia.org/wiki/J_\(\))から翻訳されています。
+> この記事は[J級潜水艦 \(イギリス海軍\)](https://ja.wikipedia.org/wiki/J級潜水艦_\(イギリス海軍\))から翻訳されています。
 
 
 | J級潜水艦                                                                             |

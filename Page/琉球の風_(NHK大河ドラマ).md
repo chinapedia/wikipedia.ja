@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[琉球の風 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/琉球の風_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**琉球の風 DRAGON SPIRIT**』（りゅうきゅうのかぜ ドラゴン スピリット）は、[1993年](../Page/1993年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から[6月13日](../Page/6月13日.md "wikilink")まで放送された第31作目のNHK[大河ドラマ](../Page/大河ドラマ.md "wikilink")。16世紀末〜17世紀初頭、[琉球王国](../Page/琉球王国.md "wikilink")が[薩摩藩](../Page/薩摩藩.md "wikilink")[島津氏](../Page/島津氏.md "wikilink")により支配されていく時代の人々を描いた。**大河ドラマ唯一の半年作品**でもある。

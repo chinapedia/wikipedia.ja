@@ -1,4 +1,4 @@
-> この記事は[E \(\)](https://ja.wikipedia.org/wiki/E_\(\))から翻訳されています。
+> この記事は[E級潜水艦 \(イギリス海軍\)](https://ja.wikipedia.org/wiki/E級潜水艦_\(イギリス海軍\))から翻訳されています。
 
 
 | E級潜水艦                                                                     |

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[ぷらざFM](https://ja.wikipedia.org/wiki/ぷらざFM)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Design_plaza_hofu.JPG "wikilink") **ぷらざFM**（ぷらざえふえむ）は[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")を主な放送区域とする[コミュニティ放送局](https://ja.wikipedia.org/wiki/コミュニティ放送局 "wikilink")である。愛称は**FMわっしょい**。
@@ -89,7 +89,7 @@
 
 （但し日曜深夜3:00〜5:00はMUSIC BIRD放送休止のため無音。電波は休止しない）
 
-  - 2015年4月（MUSIC BIRD制作番組放送）
+  - 2015年4月〜2020年2月（MUSIC BIRD制作番組放送）
     以下の自社制作時間以外の時間帯
 
 <!-- end list -->
@@ -98,6 +98,12 @@
   - 日曜日は自主制作がないため全日
 
 （但し日曜深夜3:00〜5:00はMUSIC BIRD放送休止のため無音。電波は休止しない（なお、[2019年](../Page/2019年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")よりMUSIC BIRDは日曜日も全日24時間放送になり、無音が無くなった） ）
+
+  - 2020年3月（自社製作）
+
+<!-- end list -->
+
+  - MUSIC BIRD からの放送を終了して、21:00〜翌日7:00（土曜は9:00まで、日曜は終日）、「わっしょいミュージックボックス」（ノンストップ）を放送。
 
 ## 送信周波数変更の経緯
 

@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[大人のDSゴルフ](https://ja.wikipedia.org/wiki/大人のDSゴルフ)から翻訳されています。
 
 
 『**大人のDSゴルフ**』（おとなのディーエスゴルフ）は、2005年11月10日に[任天堂](../Page/任天堂.md "wikilink")が発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゴルフ](../Page/ゴルフ.md "wikilink")ゲーム。[Touch\! Generationsシリーズの](../Page/Touch!_Generations.md "wikilink")1つ。北米では『**True Swing Golf**』、欧州では『**Nintendo Touch Golf Birdie Challenge**』としてリリースされている。欧州ではマルチプレイなどの要素を削除した[ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")『a little bit of... Nintendo TOUCH GOLF』が2009年にリリースされた。

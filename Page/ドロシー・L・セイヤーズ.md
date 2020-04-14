@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ドロシー・L・セイヤーズ](https://ja.wikipedia.org/wiki/ドロシー・L・セイヤーズ)から翻訳されています。
 
 
 **ドロシー・L・セイヤーズ** (**Dorothy Leigh Sayers**、[1893年](../Page/1893年.md "wikilink")6月13日 - [1957年](../Page/1957年.md "wikilink")12月17日) は、[オックスフォード](../Page/オックスフォード.md "wikilink")に生まれ[ウィッタム](https://ja.wikipedia.org/wiki/ウィッタム "wikilink")に没した[英国の](https://ja.wikipedia.org/wiki/イギリス "wikilink")[作家](../Page/作家.md "wikilink")、[翻訳家](https://ja.wikipedia.org/wiki/翻訳家 "wikilink")、現代／古典[言語学](../Page/言語学.md "wikilink")者、[キリスト教](../Page/キリスト教.md "wikilink")[人道主義](https://ja.wikipedia.org/wiki/人道主義 "wikilink")者である。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")三代会長を務めた。
@@ -49,7 +49,7 @@
 
 [ゲイロード・ラーセン](https://ja.wikipedia.org/wiki/ゲイロード・ラーセン "wikilink")の*Dorothy and Agatha* \[ISBN 0-451-40314-2\]の中では、セイヤーズが[アガサ・クリスティ](../Page/アガサ・クリスティ.md "wikilink")と共演する。これは架空の殺人事件を描いた推理小説で、自分のダイニングルームで男が殺され、セイヤーズはその謎をとかなければならなくなる。日本では[光文社](../Page/光文社.md "wikilink")から、[宮脇裕子](https://ja.wikipedia.org/wiki/宮脇裕子 "wikilink")の訳によって『ドロシーとアガサ』のタイトルで発刊されている。
 
-[ジル・ペイトン・ウォルシュ](https://ja.wikipedia.org/wiki/ジル・ペイトン・ウォルシュ "wikilink")は、ウィムジイ+ハリエットものを2作書いた。1つはセイヤーズの未完の作品を元にした*[Thrones, Dominations](https://ja.wikipedia.org/wiki/Thrones,_Dominations "wikilink")*で、1つは"Wimsey Papers"を元にした*[A Presumption of Death](https://ja.wikipedia.org/wiki/A_Presumption_of_Death "wikilink")*である。"Wimsey Papers"はいろいろなウィムジイさんからの手紙というふれこみで、第二次大戦中にThe Spectatorが出版したものである。
+[ジル・ペイトン・ウォルシュ](../Page/ジル・ペイトン・ウォルシュ.md "wikilink")は、ウィムジイ+ハリエットものを2作書いた。1つはセイヤーズの未完の作品を元にした*[Thrones, Dominations](https://ja.wikipedia.org/wiki/Thrones,_Dominations "wikilink")*で、1つは"Wimsey Papers"を元にした*[A Presumption of Death](https://ja.wikipedia.org/wiki/A_Presumption_of_Death "wikilink")*である。"Wimsey Papers"はいろいろなウィムジイさんからの手紙というふれこみで、第二次大戦中にThe Spectatorが出版したものである。
 
 ## 代表作
 

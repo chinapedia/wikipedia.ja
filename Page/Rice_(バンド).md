@@ -1,4 +1,4 @@
-> この記事は[Rice \(\)](https://ja.wikipedia.org/wiki/Rice_\(\))から翻訳されています。
+> この記事は[Rice \(バンド\)](https://ja.wikipedia.org/wiki/Rice_\(バンド\))から翻訳されています。
 
 
 **rice**（**ライス**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。

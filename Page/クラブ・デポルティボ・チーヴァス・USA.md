@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[クラブ・デポルティボ・チーヴァス・USA](https://ja.wikipedia.org/wiki/クラブ・デポルティボ・チーヴァス・USA)から翻訳されています。
 
 
 **クラブ・デポルティボ・チーヴァス・USA**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の西部、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の郊外、[カーソンを本拠地としていた](https://ja.wikipedia.org/wiki/カーソン_\(カリフォルニア州\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

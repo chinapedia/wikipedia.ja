@@ -1,4 +1,4 @@
-> この記事は[TFT](https://ja.wikipedia.org/wiki/TFT)から翻訳されています。
+> この記事は[TFT液晶](https://ja.wikipedia.org/wiki/TFT液晶)から翻訳されています。
 
 
 **TFT液晶 (thin-film-transistor liquid-crystal display)** また**薄膜トランジスタ液晶**は[薄膜トランジスタ](../Page/薄膜トランジスタ.md "wikilink")を[スイッチング素子](https://ja.wikipedia.org/wiki/スイッチング素子 "wikilink")として使用する表示素子であり、[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")や[薄型テレビ](../Page/薄型テレビ.md "wikilink")に幅広く使用される。

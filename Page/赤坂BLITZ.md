@@ -1,4 +1,4 @@
-> この記事は[BLITZ](https://ja.wikipedia.org/wiki/BLITZ)から翻訳されています。
+> この記事は[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ)から翻訳されています。
 
 
 **赤坂BLITZ**（あかさかブリッツ、[英語](../Page/英語.md "wikilink")：*Akasaka BLITZ*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内にある、[TBSテレビ](../Page/TBSテレビ.md "wikilink")運営の[ライブハウス](../Page/ライブハウス.md "wikilink")である。2017年11月1日[マイナビ](../Page/マイナビ.md "wikilink")が[施設命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（ネーミングライツ）を取得したことにより、同日から呼称を「**マイナビBLITZ赤坂**」としている\[1\]。

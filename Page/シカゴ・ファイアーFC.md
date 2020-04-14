@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シカゴ・ファイアーFC](https://ja.wikipedia.org/wiki/シカゴ・ファイアーFC)から翻訳されています。
 
 
 **シカゴ・ファイアーFC**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の中西部、[イリノイ州](../Page/イリノイ州.md "wikilink")の都市[シカゴ](../Page/シカゴ.md "wikilink")にホームを置くサッカークラブである。[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")所属。
@@ -185,7 +185,11 @@
 
 ## 現所属メンバー
 
-  - 2019年3月14日現在
+  - 2020年3月1日現在
+
+([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))                ([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))   ([DP](https://ja.wikipedia.org/wiki/特別指定選手制度_\(メジャーリーグサッカー\) "wikilink"))
+
+※DPは特別指定選手を示す。
 
 ### ローン移籍
 
@@ -213,7 +217,9 @@
 
   - [ブライアン・ブリス](https://ja.wikipedia.org/wiki/ブライアン・ブリス "wikilink") 2015.9-2015.11
 
-  - [ヴェリコ・パウノヴィッチ](../Page/ヴェリコ・パウノヴィッチ.md "wikilink") 2015.11-
+  - [ヴェリコ・パウノヴィッチ](../Page/ヴェリコ・パウノヴィッチ.md "wikilink") 2015.11-2019.11
+
+  - [ラファーエル・ヴィッキー](https://ja.wikipedia.org/wiki/ラファーエル・ヴィッキー "wikilink") 2019.12-
 
 ## 歴代所属選手
 
@@ -223,9 +229,13 @@
 
   - [ジョン・ブッシュ](https://ja.wikipedia.org/wiki/ジョン・ブッシュ "wikilink") 2007-2009, 2015
 
+  - [ショーン・ジョンソン](https://ja.wikipedia.org/wiki/ショーン・ジョンソン_\(サッカー選手\) "wikilink") 2010-2016
+
 ### DF
 
   - [カルロス・ボカネグラ](../Page/カルロス・ボカネグラ.md "wikilink") 2000-2003
+
+  - [ジム・カーティン](../Page/ジム・カーティン.md "wikilink") 2001-2007
 
   - [アルネ・フリードリヒ](../Page/アルネ・フリードリヒ.md "wikilink") 2012-2013
 
@@ -259,6 +269,8 @@
 
   - [ロバート・アーンショウ](../Page/ロバート・アーンショウ.md "wikilink") 2014
 
+  - [ダックス・マッカーティ](https://ja.wikipedia.org/wiki/ダックス・マッカーティ "wikilink") 2017-2019
+
   - [バスティアン・シュヴァインシュタイガー](../Page/バスティアン・シュヴァインシュタイガー.md "wikilink") 2017-2019
 
 ### FW
@@ -287,7 +299,7 @@
 
   - [ショーン・マロニー](../Page/ショーン・マロニー.md "wikilink") 2015
 
-  - [ニコリッチ・ネマニャ](https://ja.wikipedia.org/wiki/ニコリッチ・ネマニャ "wikilink") 2017-
+  - [ニコリッチ・ネマニャ](https://ja.wikipedia.org/wiki/ニコリッチ・ネマニャ "wikilink") 2017-2019
 
 ## 外部リンク
 

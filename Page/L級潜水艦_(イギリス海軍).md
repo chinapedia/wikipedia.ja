@@ -1,4 +1,4 @@
-> この記事は[L \(\)](https://ja.wikipedia.org/wiki/L_\(\))から翻訳されています。
+> この記事は[L級潜水艦 \(イギリス海軍\)](https://ja.wikipedia.org/wiki/L級潜水艦_\(イギリス海軍\))から翻訳されています。
 
 
 **L級潜水艦** (**L class submarine**) は、[イギリス海軍](../Page/イギリス海軍.md "wikilink")の航洋型[潜水艦](../Page/潜水艦.md "wikilink")。[1917年](../Page/1917年.md "wikilink")以降に34隻が製造された。

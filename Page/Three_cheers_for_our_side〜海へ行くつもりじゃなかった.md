@@ -1,4 +1,4 @@
-> この記事は[Three cheers for our side](https://ja.wikipedia.org/wiki/Three_cheers_for_our_side)から翻訳されています。
+> この記事は[Three cheers for our side〜海へ行くつもりじゃなかった](https://ja.wikipedia.org/wiki/Three_cheers_for_our_side〜海へ行くつもりじゃなかった)から翻訳されています。
 
 
 『**three cheers for our side 〜海へ行くつもりじゃなかった〜**』（スリー・チアーズ・フォー・アワ・サイド 〜うみへいくつもりじゃなかった〜）は[1989年](../Page/1989年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")通算1作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

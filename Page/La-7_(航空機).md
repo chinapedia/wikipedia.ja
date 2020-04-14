@@ -1,4 +1,4 @@
-> この記事は[La-7 \(\)](https://ja.wikipedia.org/wiki/La-7_\(\))から翻訳されています。
+> この記事は[La-7 \(航空機\)](https://ja.wikipedia.org/wiki/La-7_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= La-7 / Ла-7 | 画像=画像:Memorial La-7 open 7-may-2007.jpg | キャプション= | 用途= [戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者= [ラボーチキン](https://ja.wikipedia.org/wiki/ラボーチキン "wikilink")設計局 | 運用者=  | 初飛行年月日=1944年 | 生産数=5753機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }}

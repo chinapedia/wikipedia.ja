@@ -756,4 +756,4 @@ BVCS-21043:通常盤</p></td>
   -
   - [YouTube](https://www.youtube.com/channel/UCDMISbDtFKw3_HsnYGAvoyQ)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:兵庫県出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県出身の人物 "wikilink") [Category:関西学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:関西学院大学出身の人物 "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink")

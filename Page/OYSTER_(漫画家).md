@@ -1,4 +1,4 @@
-> この記事は[OYSTER \(\)](https://ja.wikipedia.org/wiki/OYSTER_\(\))から翻訳されています。
+> この記事は[OYSTER \(漫画家\)](https://ja.wikipedia.org/wiki/OYSTER_\(漫画家\))から翻訳されています。
 
 
 **ÖYSTER**（オイスター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。既婚。配偶者は漫画家の[成原とんみ](https://ja.wikipedia.org/wiki/成原とんみ "wikilink")\[1\]。ペンネームの由来は[ブルー・オイスター・カルト](../Page/ブルー・オイスター・カルト.md "wikilink")から\[2\]。
@@ -54,6 +54,7 @@
   - ウムルとタウィル（[タカラトミー](../Page/タカラトミー.md "wikilink")『[WIXOSS](https://ja.wikipedia.org/wiki/WIXOSS "wikilink")』公式サイト上で連載） 2016年2月19日 -
       - 単行本（[ホビージャパン](../Page/ホビージャパン.md "wikilink")）
         1.  2018年2月15日初版発行 ISBN 978-4-7986-1626-1
+        2.  2020年3月23日初版発行 ISBN 978-4-7986-2164-7
 
 ### 4コマまんが王国
 

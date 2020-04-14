@@ -1,4 +1,4 @@
-> この記事は[FWD](https://ja.wikipedia.org/wiki/FWD)から翻訳されています。
+> この記事は[FWD富士生命保険](https://ja.wikipedia.org/wiki/FWD富士生命保険)から翻訳されています。
 
 
 **FWD富士生命保険株式会社**（エフダブリューディーふじせいめいほけん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")会社。[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・完全子会社。2017年4月まで[AIGグループに属していた](../Page/アメリカン・インターナショナル・グループ.md "wikilink")。

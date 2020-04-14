@@ -1,4 +1,4 @@
-> この記事は[UN FACTORY ](https://ja.wikipedia.org/wiki/UN_FACTORY_)から翻訳されています。
+> この記事は[UN FACTORY ソムリエ](https://ja.wikipedia.org/wiki/UN_FACTORY_ソムリエ)から翻訳されています。
 
 
 『**UN FACTORY ソムリエ**』（ウンナンファクトリーソムリエ）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで深夜に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

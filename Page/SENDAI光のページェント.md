@@ -1,4 +1,4 @@
-> この記事は[SENDAI](https://ja.wikipedia.org/wiki/SENDAI)から翻訳されています。
+> この記事は[SENDAI光のページェント](https://ja.wikipedia.org/wiki/SENDAI光のページェント)から翻訳されています。
 
 
 **SENDAI光のページェント**（センダイひかりのページェント）は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")の[定禅寺通](../Page/定禅寺通.md "wikilink")と[青葉通](https://ja.wikipedia.org/wiki/青葉通 "wikilink")の[ケヤキ](../Page/ケヤキ.md "wikilink")並木に数十万に上る数の[LEDを取り付けて点灯する](../Page/発光ダイオード.md "wikilink")[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")イベントである。毎年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")上旬から[31日まで開催される](../Page/12月31日.md "wikilink")。点灯時間は17:30 - 22:00。

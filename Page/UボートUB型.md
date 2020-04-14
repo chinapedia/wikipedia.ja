@@ -1,4 +1,4 @@
-> この記事は[UUB](https://ja.wikipedia.org/wiki/UUB)から翻訳されています。
+> この記事は[UボートUB型](https://ja.wikipedia.org/wiki/UボートUB型)から翻訳されています。
 
 
 **UボートUB型**は[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で用いられた[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の沿岸型[潜水艦](../Page/潜水艦.md "wikilink")（[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")）の艦級。

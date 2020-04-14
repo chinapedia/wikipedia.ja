@@ -1,4 +1,4 @@
-> この記事は[L A piece of memories](https://ja.wikipedia.org/wiki/L_A_piece_of_memories)から翻訳されています。
+> この記事は[Lの季節 〜A piece of memories〜](https://ja.wikipedia.org/wiki/Lの季節_〜A_piece_of_memories〜)から翻訳されています。
 
 
 『**Lの季節 〜A piece of memories〜**』（エルのきせつ・ア ピース オブ メモリーズ）は、[トンキンハウス](../Page/トンキンハウス.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にはベストプライス版（廉価版）が発売された。

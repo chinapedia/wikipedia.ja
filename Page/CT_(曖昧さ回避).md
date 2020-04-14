@@ -1,4 +1,4 @@
-> この記事は[CT \(\)](https://ja.wikipedia.org/wiki/CT_\(\))から翻訳されています。
+> この記事は[CT \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/CT_\(曖昧さ回避\))から翻訳されています。
 
 
 **CT**（シーティー）
@@ -15,6 +15,7 @@
   - プログラミング言語Ct () - Intel社が提唱するC++をベースとした並列化言語
   - [対流温度](https://ja.wikipedia.org/wiki/対流温度 "wikilink") ()
   - [統制語](https://ja.wikipedia.org/wiki/統制語 "wikilink")（）
+  - [電子証明書の透明性](../Page/電子証明書の透明性.md "wikilink")（）
 
 <!-- end list -->
 

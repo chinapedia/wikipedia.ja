@@ -1,4 +1,4 @@
-> この記事は[B.B.](https://ja.wikipedia.org/wiki/B.B.)から翻訳されています。
+> この記事は[B.B.キング](https://ja.wikipedia.org/wiki/B.B.キング)から翻訳されています。
 
 
 **B.B.キング**（**B. B. King**、本名'''Riley B. King '''、ビー・ビー・キング、[1925年](../Page/1925年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ブルース](../Page/ブルース.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[1950年代](../Page/1950年代.md "wikilink")から晩年まで活躍したブルース界の巨人。

@@ -1,4 +1,4 @@
-> この記事は[Joy \(YUKI\)](https://ja.wikipedia.org/wiki/Joy_\(YUKI\))から翻訳されています。
+> この記事は[Joy \(YUKIのアルバム\)](https://ja.wikipedia.org/wiki/Joy_\(YUKIのアルバム\))から翻訳されています。
 
 
 『**joy**』（ジョイ）は[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[UEFA U-21](https://ja.wikipedia.org/wiki/UEFA_U-21)から翻訳されています。
+> この記事は[UEFA U-21欧州選手権](https://ja.wikipedia.org/wiki/UEFA_U-21欧州選手権)から翻訳されています。
 
 
 **UEFA U-21欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、**23歳以下**の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。大会名がU-21になっているのは、予選開始時には21歳以下の年齢制限で行われるためで、2年の大会期間を経て本大会が行われる時には23歳以下の年齢制限となっている。

@@ -1,4 +1,4 @@
-> この記事は[!UN !\?](https://ja.wikipedia.org/wiki/!UN_!\?)から翻訳されています。
+> この記事は[ゲッパチ!UNアワー ありがとやんした!\?](https://ja.wikipedia.org/wiki/ゲッパチ!UNアワー_ありがとやんした!\?)から翻訳されています。
 
 
 『**ゲッパチ\!UNアワー ありがとやんした\!?**』（ゲッパチ ウンナンアワー ありがとやんした）は、[1994年](../Page/1994年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[9月12日](../Page/9月12日.md "wikilink")まで[フジテレビ系で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週月曜 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。

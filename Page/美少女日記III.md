@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[美少女日記III](https://ja.wikipedia.org/wiki/美少女日記III)から翻訳されています。
 
 
 『**美少女日記III**』（びしょうじょにっきさん）は、[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで月曜日 - 金曜日の深夜に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送されていた[ミニ番組](../Page/ミニ番組.md "wikilink")である。[美少女](../Page/美少女.md "wikilink")の何気ない日常を描いたほのぼのホームドラマと松浦亜弥、藤本美貴二人によるコントの2部構成。

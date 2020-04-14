@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ごとP](https://ja.wikipedia.org/wiki/ごとP)から翻訳されています。
 
 
 **ごとP**（ - ぴー、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月12日](../Page/6月12日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[イラストレーター](../Page/イラストレーター.md "wikilink")。

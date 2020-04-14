@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[DCブランド](https://ja.wikipedia.org/wiki/DCブランド)から翻訳されています。
 
 
 **DCブランド**（ディーシーブランド）とは、[1980年代](../Page/1980年代.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内で広く社会的なブームとなった、日本の[衣服](https://ja.wikipedia.org/wiki/衣服 "wikilink")メーカーブランドの総称である。「DC」とはデザイナーズ（Designer's） & キャラクターズ（Character's）の略とされる。

@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSビジョン](https://ja.wikipedia.org/wiki/TBSビジョン)から翻訳されています。
 
 
 **株式会社TBSビジョン**(**TBS VISION**)は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のテレビ[制作プロダクション](../Page/制作プロダクション.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[EXPO](https://ja.wikipedia.org/wiki/EXPO)から翻訳されています。
+> この記事は[EXPOスクランブル](https://ja.wikipedia.org/wiki/EXPOスクランブル)から翻訳されています。
 
 
 『**EXPOスクランブル**』（エキスポスクランブル）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")から[7月19日](../Page/7月19日.md "wikilink")まで東京放送（現：[TBSテレビ](../Page/TBSテレビ.md "wikilink")）で放送されていた[国際科学技術博覧会](../Page/国際科学技術博覧会.md "wikilink")（科学万博）関連の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も同年[7月22日](../Page/7月22日.md "wikilink")から[9月16日](../Page/9月16日.md "wikilink")まで『**わくわく生ネットワーク・EXPOスクランブル**』（わくわくなまネットワーク - ）と題して放送されていた。

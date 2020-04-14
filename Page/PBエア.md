@@ -1,4 +1,4 @@
-> この記事は[PB](https://ja.wikipedia.org/wiki/PB)から翻訳されています。
+> この記事は[PBエア](https://ja.wikipedia.org/wiki/PBエア)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PBair_Embraer_145.jpg "wikilink")\]\] [thumbで駐機中のERJ](https://ja.wikipedia.org/wiki/ファイル:PBair_ERJ145LR_at_Luang_Prabang_airport.JPG "wikilink") 145 LR\]\]

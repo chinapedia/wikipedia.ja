@@ -1,4 +1,4 @@
-> この記事は[SuperLite](https://ja.wikipedia.org/wiki/SuperLite)から翻訳されています。
+> この記事は[SuperLiteシリーズ](https://ja.wikipedia.org/wiki/SuperLiteシリーズ)から翻訳されています。
 
 
 **SuperLiteシリーズ**は、[サクセスが発売している](../Page/サクセス_\(ゲーム会社\).md "wikilink")[廉価版](../Page/廉価版.md "wikilink")ソフトのシリーズである。
@@ -166,7 +166,7 @@
   - [藍より青し](../Page/藍より青し.md "wikilink")
   - [Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")
   - [アカイイト](../Page/アカイイト.md "wikilink")
-  - [Monochrome](../Page/Monochrome.md "wikilink")
+  - [Monochrome](../Page/Monochrome_\(ゲーム\).md "wikilink")
   - ようこそ ひつじ村
   - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.1 折鶴
   - [Memories Off After Rain](../Page/Memories_Off_After_Rain.md "wikilink") Vol.2 想演

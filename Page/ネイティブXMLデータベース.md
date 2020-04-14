@@ -1,4 +1,4 @@
-> この記事は[XML](https://ja.wikipedia.org/wiki/XML)から翻訳されています。
+> この記事は[ネイティブXMLデータベース](https://ja.wikipedia.org/wiki/ネイティブXMLデータベース)から翻訳されています。
 
 
 **ネイティブXMLデータベース**とは、[XML文書をその構造のまま格納](../Page/Extensible_Markup_Language.md "wikilink")・操作を行うことができる[XMLデータベース](../Page/XMLデータベース.md "wikilink")である。それによりXMLが本来持つ「ツリー構造」、「メタ情報管理」という優位性を最大限活用することができる。**NXD**と略されることもある。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[Cバス](https://ja.wikipedia.org/wiki/Cバス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:c_bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PC-9801DX_expansion_slot.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC_PC-9801-26K_sound_board.jpg "wikilink")）\]\] **Cバス**は[日本電気](../Page/日本電気.md "wikilink")の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")に搭載されていた[拡張スロット](https://ja.wikipedia.org/wiki/拡張スロット "wikilink")の名称である。

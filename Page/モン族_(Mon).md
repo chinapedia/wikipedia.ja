@@ -1,4 +1,4 @@
-> この記事は[ \(Mon\)](https://ja.wikipedia.org/wiki/_\(Mon\))から翻訳されています。
+> この記事は[モン族 \(Mon\)](https://ja.wikipedia.org/wiki/モン族_\(Mon\))から翻訳されています。
 
 
 **モン族**（ - ぞく、Mon）は、[東南アジア](../Page/東南アジア.md "wikilink")に住む[民族](../Page/民族.md "wikilink")の一つ。古くから東南アジアに居住しており、[ハリプンチャイ王国](../Page/ハリプンチャイ王国.md "wikilink")を建てたことで有名で、後に[ミャンマー](../Page/ミャンマー.md "wikilink")の[ペグー](https://ja.wikipedia.org/wiki/ペグー "wikilink")に移り住んだので**ペグー人**（Peguan）とも言う。**ラーマン**（Raman）あるいは**タライン**（Talaing;  [IPA](../Page/国際音声記号.md "wikilink"): 、ただしこれは旧称で現代では**ムン**  \[1\]）と呼ばれることもある。その後一部が[中国の](../Page/中華人民共和国.md "wikilink")[雲南から南下してきた](../Page/雲南省.md "wikilink")[タイ族](../Page/タイ族.md "wikilink")や[ビルマ族](../Page/ビルマ族.md "wikilink")などと[混血](../Page/混血.md "wikilink")した。現在800万人程度がモン族を自称している。

@@ -1,4 +1,4 @@
-> この記事は[GMT](https://ja.wikipedia.org/wiki/GMT)から翻訳されています。
+> この記事は[GMT対照法](https://ja.wikipedia.org/wiki/GMT対照法)から翻訳されています。
 
 
 **GMT対照法**（ジーエムティーたいしょうほう、GMT Correlation）は、[メソアメリカ](../Page/メソアメリカ.md "wikilink")で用いられた[長期暦](../Page/長期暦.md "wikilink")（いわゆるマヤ暦）と、[西暦](../Page/西暦.md "wikilink")とを対照する方法の一つ。長期暦11.16.0.0.0を西暦[1539年](https://ja.wikipedia.org/wiki/1539年 "wikilink")と換算する。[ジョゼフ T.グッドマン](https://ja.wikipedia.org/wiki/ジョゼフ_T.グッドマン "wikilink")、、[エリック・トンプソンの研究によって組み立てられたもので](https://ja.wikipedia.org/wiki/J.エリック_S.トンプソン "wikilink")、「GMT」は彼ら3人の名からとられている。

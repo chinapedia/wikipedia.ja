@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[あしたのG](https://ja.wikipedia.org/wiki/あしたのG)から翻訳されています。
 
 
 **あしたのG**（あしたのジー、副題：**LOVE LOVE KEIBA** ラブラブケイバ）とは[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")で[2002年](../Page/2002年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")まで[土曜](../Page/土曜日.md "wikilink")25:15-25:45（[JST](../Page/日本標準時.md "wikilink")）に放送された[競馬](../Page/競馬.md "wikilink")関連番組で、『[うまなりクン](../Page/うまなりクン.md "wikilink")』の後番組である。この番組で[吉岡美穂](../Page/吉岡美穂.md "wikilink")が本命予想した馬がことごとく敗れてしまう事から、ファンや関係者は恐れをなしていた。

@@ -1,4 +1,4 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[金曜ドラマ \(TBS\)](https://ja.wikipedia.org/wiki/金曜ドラマ_\(TBS\))から翻訳されています。
 
 
 『**金曜ドラマ**』（きんようドラマ）は、[1972年](../Page/1972年.md "wikilink")から[TBSテレビ](../Page/TBSテレビ.md "wikilink")[系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎週[金曜日](../Page/金曜日.md "wikilink")に放送されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠。通称「**金ドラ**」。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[番組連動データ放送を実施している](../Page/データ放送.md "wikilink")。
@@ -55,8 +55,8 @@
 
 ### 1975年
 
-  - [裏切りの明日](https://ja.wikipedia.org/wiki/裏切りの明日 "wikilink")（主演：[原田芳雄](../Page/原田芳雄.md "wikilink")、ここまで[近畿広域圏](https://ja.wikipedia.org/wiki/近畿広域圏 "wikilink")のネット局は[ABCであった](../Page/朝日放送テレビ.md "wikilink")）
-  - [許せない愛](https://ja.wikipedia.org/wiki/許せない愛 "wikilink")（主演：[香山美子](../Page/香山美子_\(女優\).md "wikilink")、この作品から近畿広域圏のネット局は[MBSに変更](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [裏切りの明日](https://ja.wikipedia.org/wiki/裏切りの明日 "wikilink")（主演：[原田芳雄](../Page/原田芳雄.md "wikilink")。ここまで[近畿広域圏](https://ja.wikipedia.org/wiki/近畿広域圏 "wikilink")のネット局は[ABCであった](../Page/朝日放送テレビ.md "wikilink")）
+  - [許せない愛](https://ja.wikipedia.org/wiki/許せない愛 "wikilink")（主演：[香山美子](../Page/香山美子_\(女優\).md "wikilink")。この作品から近畿広域圏のネット局は[MBSに変更](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [悪魔のようなあいつ](../Page/悪魔のようなあいつ.md "wikilink")（主演：[沢田研二](../Page/沢田研二.md "wikilink")）
   - [ガラスの森](https://ja.wikipedia.org/wiki/ガラスの森_\(テレビドラマ\) "wikilink")
 
@@ -242,20 +242,20 @@
 ### 2002年
 
   - [木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink")（1月18日 - 3月15日、主演：[岡田准一](../Page/岡田准一.md "wikilink")）
-  - [夢のカリフォルニア](https://ja.wikipedia.org/wiki/夢のカリフォルニア "wikilink")（4月12日 - 6月28日、主演：[堂本剛](../Page/堂本剛.md "wikilink")）
+  - [夢のカリフォルニア](../Page/夢のカリフォルニア.md "wikilink")（4月12日 - 6月28日、主演：[堂本剛](../Page/堂本剛.md "wikilink")）
   - [愛なんていらねえよ、夏](../Page/愛なんていらねえよ、夏.md "wikilink")（7月12日 - 9月13日、主演：[渡部篤郎](../Page/渡部篤郎.md "wikilink") 共演：[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")）
   - [ママの遺伝子](../Page/ママの遺伝子.md "wikilink")（10月11日 - 12月13日、主演：[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")）
 
 ### 2003年
 
   - [高校教師](https://ja.wikipedia.org/wiki/高校教師_\(2003年のテレビドラマ\) "wikilink")（1月10日 - 3月21日、主演：[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")）
-  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](../Page/佐藤秀峰.md "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）
+  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](../Page/佐藤秀峰.md "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）この作品で初めて「オリジナルドラマ」ではなく、『原作あり』としてドラマ化
   - [Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[二宮和也](../Page/二宮和也.md "wikilink") 共演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")）
   - [ヤンキー母校に帰る](../Page/ヤンキー母校に帰る.md "wikilink")（10月10日 - 12月12日、主演：竹野内豊）
 
 ### 2004年
 
-  - [奥さまは魔女](../Page/奥さまは魔女_\(テレビドラマ\).md "wikilink")（1月16日 - 3月26日、主演：[米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")）製作：[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")
+  - [奥さまは魔女](../Page/奥さまは魔女_\(テレビドラマ\).md "wikilink")（1月16日 - 3月26日、主演：[米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")）製作：[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")。※[海外ドラマのリメイク作品](https://ja.wikipedia.org/wiki/奥さまは魔女_\(テレビドラマ\)#日本版「奥さまは魔女」 "wikilink")
   - [ホームドラマ\!](../Page/ホームドラマ!.md "wikilink")（4月16日 - 6月25日、主演：堂本剛）製作：ドリマックス・テレビジョン
   - [世界の中心で、愛をさけぶ](../Page/世界の中心で、愛をさけぶ.md "wikilink")（7月2日 - 9月10日、原作：[片山恭一](../Page/片山恭一.md "wikilink") 主演：[山田孝之](../Page/山田孝之.md "wikilink") 共演：[綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink")）
   - [3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")（第7シリーズ）（10月15日 - 2005年3月25日、主演：[武田鉄矢](../Page/武田鉄矢.md "wikilink")）
@@ -285,7 +285,7 @@
 
   - [エジソンの母](https://ja.wikipedia.org/wiki/エジソンの母 "wikilink")（1月11日 - 3月14日、主演：[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")）製作：ドリマックス・テレビジョン
   - [Around40〜注文の多いオンナたち〜](https://ja.wikipedia.org/wiki/Around40〜注文の多いオンナたち〜 "wikilink")（4月11日 - 6月20日、主演：[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")）
-  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）
+  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）※[韓流ドラマのリメイク作品](../Page/魔王_\(2007年のテレビドラマ\).md "wikilink")
   - [流星の絆](https://ja.wikipedia.org/wiki/流星の絆 "wikilink")（10月17日 - 12月19日、原作：[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink") 主演：二宮和也）
 
 ### 2009年
@@ -349,7 +349,7 @@
   - [下剋上受験](https://ja.wikipedia.org/wiki/下剋上受験 "wikilink")（1月13日 - 3月17日、原作：桜井信一 主演：[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）製作：[大映テレビ](../Page/大映テレビ.md "wikilink")
   - [リバース](https://ja.wikipedia.org/wiki/リバース_\(湊かなえの小説\) "wikilink")（4月14日 - 6月16日、原作：湊かなえ 主演：[藤原竜也](../Page/藤原竜也.md "wikilink")）製作：ドリマックス・テレビジョン
   - [ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")（7月14日 - 9月15日、原作：[弘兼憲史](../Page/弘兼憲史.md "wikilink") 主演：[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）製作：[オフィスクレッシェンド](../Page/オフィスクレッシェンド.md "wikilink")
-  - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第2シリーズ（10月13日 - 12月22日、原作：鈴ノ木ユウ 主演：綾野剛）
+  - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第2シリーズ（10月13日 - 12月22日、原作：鈴ノ木ユウ 主演：綾野剛）1972年に「金曜ドラマ」が放送開始して初めて、1年間放送されたドラマが全て『原作あり』となった。
 
 ### 2018年
 
@@ -363,16 +363,17 @@
   - [メゾン・ド・ポリス](https://ja.wikipedia.org/wiki/メゾン・ド・ポリス "wikilink")（1月11日 - 3月15日、原作：[加藤実秋](https://ja.wikipedia.org/wiki/加藤実秋 "wikilink")、主演：[高畑充希](https://ja.wikipedia.org/wiki/高畑充希 "wikilink")）製作：共同テレビ
   - [インハンド](https://ja.wikipedia.org/wiki/インハンド "wikilink")（4月12日 - 6月21日、原作：朱戸アオ、主演：山下智久）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
   - [凪のお暇](https://ja.wikipedia.org/wiki/凪のお暇 "wikilink")（7月19日 - 9月20日、原作：[コナリミサト](../Page/コナリミサト.md "wikilink")、主演：[黒木華](https://ja.wikipedia.org/wiki/黒木華 "wikilink")）
-  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）
+  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）2度目の「全て原作あり」で、2020年1月期まで続く。
 
 ### 2020年
 
-  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
-  - [MIU404](../Page/MIU404.md "wikilink")（4月 -（予定）、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
+  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 3月20日、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
+  - [MIU404](../Page/MIU404.md "wikilink")（4月10日 -（予定）、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
 
 ## 備考
 
   - 2010年7月期に放送されていた『[うぬぼれ刑事](https://ja.wikipedia.org/wiki/うぬぼれ刑事 "wikilink")』から、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）と[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")の方針により[地上アナログ放送では](../Page/NTSC.md "wikilink")、[地上デジタル放送への完全移行を前提として画角サイズ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")16:9の[レターボックス放送に移行していた](../Page/レターボックス_\(映像技術\).md "wikilink")。
+  - 2005年7月期に放送された『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』の続編は、[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")へ放送枠を変更して2020年7月期に放送予定。
 
 ## 放送局・配信元
 

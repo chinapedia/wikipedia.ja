@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gディフェンサー](https://ja.wikipedia.org/wiki/Gディフェンサー)から翻訳されています。
 
 
 **Gディフェンサー**（ジー・ディフェンサー、*G-DEFENSER*）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。初出は、1985年に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。

@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRAターフジョッキー](https://ja.wikipedia.org/wiki/JRAターフジョッキー)から翻訳されています。
 
 
 **JRAターフジョッキー**（じぇいあーるえーターフジョッキー）は、[KBS京都ラジオ放送で](../Page/京都放送.md "wikilink")1991年から2005年に毎週放送された競馬情報番組。

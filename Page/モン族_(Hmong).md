@@ -1,4 +1,4 @@
-> この記事は[ \(Hmong\)](https://ja.wikipedia.org/wiki/_\(Hmong\))から翻訳されています。
+> この記事は[モン族 \(Hmong\)](https://ja.wikipedia.org/wiki/モン族_\(Hmong\))から翻訳されています。
 
 
 **モン族** ([RPA](https://ja.wikipedia.org/wiki/RPA表記 "wikilink"): *Hmoob/Moob*, ) とは[中国](../Page/中国.md "wikilink")の[雲貴高原](https://ja.wikipedia.org/wiki/雲貴高原 "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[ラオス](../Page/ラオス.md "wikilink")、[タイの](../Page/タイ王国.md "wikilink")[山岳地帯にすむ](../Page/山地.md "wikilink")[民族集団](https://ja.wikipedia.org/wiki/民族集団 "wikilink")。[ミャオ族](../Page/ミャオ族.md "wikilink")の下位グループである。

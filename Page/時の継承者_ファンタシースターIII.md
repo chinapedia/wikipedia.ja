@@ -1,15 +1,13 @@
-> この記事は[ III](https://ja.wikipedia.org/wiki/_III)から翻訳されています。
+> この記事は[時の継承者 ファンタシースターIII](https://ja.wikipedia.org/wiki/時の継承者_ファンタシースターIII)から翻訳されています。
 
 
-『**時の継承者 ファンタシースターIII**』（ときのけいしょうしゃ ファンタシースタースリー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が[メガドライブ](../Page/メガドライブ.md "wikilink")で発売した[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。海外では『*Phantasy Star III: Generations of Doom*』（―ジェネレーション・オブ・ドゥーム）として発売。なお、「時の継承者」が主題で「ファンタシースターIII」は副題である。
+『**時の継承者 ファンタシースターIII**』（ときのけいしょうしゃ ファンタシースタースリー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。日本国外版のタイトルは『*Phantasy Star III: Generations of Doom*』。なお、「時の継承者」が主題で「ファンタシースターIII」は副題である。
 
-## 概要
+同社の『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第3作目。主人公のケイン・サ・リークを操作し、ドラゴンに攫われた婚約者を救出する事を目的としている。同シリーズのナンバリングタイトルではあるが、時系列的に他のシリーズ作とのストーリー上のつながりが薄いため、シリーズの中では外伝的な位置づけになっている。結婚相手の選択によるストーリー分岐とマルチエンディングが本作の大きな特徴の一つである。
 
-[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")のナンバリングタイトルではあるが、時系列的に他のシリーズ作とのストーリー上のつながりが薄いため、シリーズの中では外伝的な位置づけになっている。結婚相手の選択によるストーリー分岐とマルチエンディングが本作の大きな特徴の一つである。
+開発は[セガ第二研究開発部が行い](https://ja.wikipedia.org/wiki/SEGA-AM2 "wikilink")、プロデューサーは後に[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『うお 7つの水と伝説のヌシ』（[2004年](../Page/2004年.md "wikilink")）を手掛けた塚本一成、ディレクターおよびシナリオは前作にてアシスタント・ディレクターを務めた佐伯広人、音楽はメガドライブ用ソフト『[アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink")』（[1989年](../Page/1989年.md "wikilink")）を手掛けた竹内出穂、カバーイラストは漫画家の[せがわまさき](../Page/せがわまさき.md "wikilink")が担当した。
 
-[1992年](../Page/1992年.md "wikilink")頃セガの通信ゲームサービス「ゲーム図書館」にてサウンドテストが配信されていた。
-
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売の『SEGA AGES/ファンタシースターコレクション』（[セガサターン](../Page/セガサターン.md "wikilink")）や、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")発売の『[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink") ファンタシースター コンプリートコレクション』に収録されているほか、2008年[4月30日](../Page/4月30日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されている。
+[1992年](../Page/1992年.md "wikilink")頃セガの通信ゲームサービス「ゲーム図書館」にてサウンドテストが配信されていた。移植版としては、[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『SEGA AGES/ファンタシースターコレクション』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）や、PlayStation 2用ソフト『[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink") ファンタシースター コンプリートコレクション』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）に収録されているほか、2008年に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
@@ -275,7 +273,98 @@
   - ルラキル・サ・リーク（海外版：Rulakir）
     オラキオの双子の兄。三世代目で冷凍睡眠から目覚める。1000年前の戦争で妻子を失った悲しみから世界の滅亡を願い、ダークファルスの復活のため暗躍することとなる。
 
-## 他機種版
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>ファンタシースターコレクション</p></td>
+<td></td>
+<td><p><a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>GS-9186</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>Phantasy Star Collection</p></td>
+<td></td>
+<td><p><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">ゲームボーイアドバンス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:w:Backbone_Entertainment" title="wikilink">Digital Eclipse</a><br />
+<a href="https://ja.wikipedia.org/wiki/セガワウ" title="wikilink">オーバーワークス</a></p></td>
+<td></td>
+<td><p>8メガビットロムカセット</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>SEGA AGES 2500シリーズ Vol.32<br />
+ファンタシースター コンプリートコレクション</p></td>
+<td></td>
+<td><p>PlayStation 2</p></td>
+<td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">エムツー</a></p></td>
+<td><p>セガ</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPM-62775</p></td>
+<td><p>メガドライブ版の移植。（『I』・『II』・『IV』他と合わせて収録）</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>Phantasy Star III</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>SEGA AGES 2500シリーズ Vol.32<br />
+ファンタシースター コンプリートコレクション</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+(<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
+<td><p>エムツー</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/ゲームアーカイブス" title="wikilink">PlayStation 2アーカイブス</a>）</p></td>
+<td><p>NPJD-00028</p></td>
+<td><p>PS2版を仮想移植した版</p></td>
+</tr>
+</tbody>
+</table>
 
 ## スタッフ
 
@@ -308,14 +397,15 @@
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
 | 得点 | 3.53  | 3.12 | 3.04 | 3.04 | 2.82 | 3.14    | 18.69 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「結婚システムほか、早すぎた実験作」、「ありふれた中世ファンタジー風の街並み、『頭上に石を乗っけたマッチョ』に代表されるハジけたモンスターたち、そして盛り上がりに欠ける淡々とした演出。『II』の続きを期待したら、肩すかしだ」、「『結婚相手選びによるストーリーの分岐』は時代を先取りしていたし、4つのマルチエンディングを『II』と同じ容量に詰め込んだのも、言うに言えない苦労があっただろう」と評している\[4\]。
-  - スタッフのインタビューが掲載されている『ファンタシースターの世界 ファンタシースターを作った人たち』（１９９３年、徳間書店）では本作は低い評価がされている\[5\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、本作を「結婚システムほか、早すぎた実験作」と位置付けており、街並みなどのグラフィックに関しては「ありふれた中世ファンタジー風」、モンスターデザインに関しては「頭上に石を乗っけたマッチョ」などと批判、また演出が盛り上がりに欠けると否定的に評価した\[4\]。しかし、結婚相手によってストーリーが分岐するシステムは「時代を先取りしていた」と指摘し、4つあるマルチエンディングを前作と同じ要領で実現した事などに関して「言うに言えない苦労があっただろう」と総括した\[5\]。
 
+<!-- end list -->
 
+  - スタッフのインタビューが掲載されている『ファンタシースターの世界 ファンタシースターを作った人たち』（1993年、徳間書店）では本作は低い評価がされている\[6\]。
 
 ## ゲームブック
 
-ファンタシースター3―時の継承者 (双葉文庫―メガドライブ冒険ゲームブックシリーズ)\[6\]
+ファンタシースター3―時の継承者 (双葉文庫―メガドライブ冒険ゲームブックシリーズ)\[7\]
 
 ## 脚注
 
@@ -327,7 +417,7 @@
 
   - （英語）
 
-[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ファンタシースター](https://ja.wikipedia.org/wiki/Category:ファンタシースター "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ファンタシースター](https://ja.wikipedia.org/wiki/Category:ファンタシースター "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  『Beepメガドライブ』のインタビューによる。
 2.
@@ -335,3 +425,4 @@
 4.
 5.
 6.
+7.

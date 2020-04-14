@@ -1,4 +1,4 @@
-> この記事は[Q dark fantasy](https://ja.wikipedia.org/wiki/Q_dark_fantasy)から翻訳されています。
+> この記事は[ウルトラQ dark fantasy](https://ja.wikipedia.org/wiki/ウルトラQ_dark_fantasy)から翻訳されています。
 
 
 『**ウルトラQ dark fantasy**』（ウルトラキュー ダークファンタジー）は、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")が製作した、[特撮テレビドラマ](../Page/特撮テレビ番組一覧.md "wikilink")。1966年に放送された『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』のリメイク作品である。

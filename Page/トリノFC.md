@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トリノFC](https://ja.wikipedia.org/wiki/トリノFC)から翻訳されています。
 
 
 **トリノ・フットボール・クラブ**（）は、[イタリア](../Page/イタリア.md "wikilink")・[トリノ](../Page/トリノ.md "wikilink")をホームタウンとするプロサッカークラブ。セリエAで優勝7回の実績を持つ古豪である。

@@ -1,4 +1,4 @@
-> この記事は[LIVE !\?](https://ja.wikipedia.org/wiki/LIVE_!\?)から翻訳されています。
+> この記事は[土曜LIVE ワッツ!\?ニッポン](https://ja.wikipedia.org/wiki/土曜LIVE_ワッツ!\?ニッポン)から翻訳されています。
 
 
 『**土曜LIVE ワッツ\!?ニッポン**』（どようライブ ワッツ ニッポン、英字表記:*SATURDAY LIVE WHAT'S\!? NIPPON*）は、[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[フジテレビで毎週](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[土曜日](../Page/土曜日.md "wikilink")の昼前に放送されていた[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
@@ -89,7 +89,7 @@
 
 ## 外部リンク
 
-  - [土曜LIVE ワッツ\!?ニッポン](http://www.fujitv.co.jp/b_hp/satlive1/)（フジテレビ）
+  - [土曜LIVE ワッツ\!?ニッポン](https://www.fujitv.co.jp/b_hp/satlive1/)（フジテレビ）
 
 [Category:フジテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのニュース・報道番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink")
 

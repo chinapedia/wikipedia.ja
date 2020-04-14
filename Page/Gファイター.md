@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gファイター](https://ja.wikipedia.org/wiki/Gファイター)から翻訳されています。
 
 
 **Gファイター**（ジーファイター、**G-FIGHTER**）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に登場する架空の兵器。[地球連邦軍](../Page/地球連邦軍.md "wikilink")の重[戦闘機](../Page/戦闘機.md "wikilink")で、[ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")（型式番号：RX-78）のサポートメカニズム。

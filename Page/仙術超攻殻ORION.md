@@ -1,4 +1,4 @@
-> この記事は[ORION](https://ja.wikipedia.org/wiki/ORION)から翻訳されています。
+> この記事は[仙術超攻殻ORION](https://ja.wikipedia.org/wiki/仙術超攻殻ORION)から翻訳されています。
 
 
 『**仙術超攻殻ORION**』（**せんじゅつちょうこうかくおりおん**）は[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")の作に拠る[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に『コミックガイア』に連載された[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[1991年](../Page/1991年.md "wikilink")に単行本が発売されている。後にゲーム化、[まんがビデオ化された](../Page/OVA.md "wikilink")。

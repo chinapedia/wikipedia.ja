@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの](https://ja.wikipedia.org/wiki/恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの)から翻訳されています。
 
 
 『**恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの**』（こいするいもうとはせつなくておにいちゃんをおもうとすぐエッチしちゃうの）は、[2003年](../Page/2003年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に[CAGEから発売された](https://ja.wikipedia.org/wiki/ルーン_\(ゲーム会社\)#CAGE "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

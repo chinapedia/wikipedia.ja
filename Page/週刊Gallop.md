@@ -1,4 +1,4 @@
-> この記事は[Gallop](https://ja.wikipedia.org/wiki/Gallop)から翻訳されています。
+> この記事は[週刊Gallop](https://ja.wikipedia.org/wiki/週刊Gallop)から翻訳されています。
 
 
 『**週刊Gallop**』（しゅうかんギャロップ）とは[産経新聞社](https://ja.wikipedia.org/wiki/産経新聞社 "wikilink")が「[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")特別版」として発行する[競馬](../Page/競馬.md "wikilink")専門の[週刊誌](../Page/週刊誌.md "wikilink")である。

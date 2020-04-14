@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[ジャッカー電撃隊VSゴレンジャー](https://ja.wikipedia.org/wiki/ジャッカー電撃隊VSゴレンジャー)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -176,7 +176,7 @@
   -
   -
   -
-[Category:スーパー戦隊シリーズ映画作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズ映画作品 "wikilink") [Category:1970年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1970年代の特撮作品 "wikilink") [Category:1978年の映画](https://ja.wikipedia.org/wiki/Category:1978年の映画 "wikilink") [Category:仮面ライダーシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:人造人間キカイダー](https://ja.wikipedia.org/wiki/Category:人造人間キカイダー "wikilink") [Category:サイボーグを主人公にした作品](https://ja.wikipedia.org/wiki/Category:サイボーグを主人公にした作品 "wikilink") [Category:サイボーグを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:サイボーグを題材とした映画作品 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:石ノ森章太郎の実写作品](https://ja.wikipedia.org/wiki/Category:石ノ森章太郎の実写作品 "wikilink") [Category:秘密戦隊ゴレンジャー](https://ja.wikipedia.org/wiki/Category:秘密戦隊ゴレンジャー "wikilink") [Category:ジャッカー電撃隊](https://ja.wikipedia.org/wiki/Category:ジャッカー電撃隊 "wikilink")
+[Category:ジャッカー電撃隊](https://ja.wikipedia.org/wiki/Category:ジャッカー電撃隊 "wikilink") [Category:秘密戦隊ゴレンジャー](https://ja.wikipedia.org/wiki/Category:秘密戦隊ゴレンジャー "wikilink") [Category:スーパー戦隊シリーズ映画作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズ映画作品 "wikilink") [Category:1970年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1970年代の特撮作品 "wikilink") [Category:1978年の映画](https://ja.wikipedia.org/wiki/Category:1978年の映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:仮面ライダーシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのクロスオーバー作品 "wikilink") [Category:スーパー戦隊シリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:スーパー戦隊シリーズのクロスオーバー作品 "wikilink") [Category:人造人間キカイダー](https://ja.wikipedia.org/wiki/Category:人造人間キカイダー "wikilink") [Category:石ノ森章太郎の実写作品](https://ja.wikipedia.org/wiki/Category:石ノ森章太郎の実写作品 "wikilink") [Category:サイボーグを主人公にした作品](https://ja.wikipedia.org/wiki/Category:サイボーグを主人公にした作品 "wikilink") [Category:サイボーグを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:サイボーグを題材とした映画作品 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink")
 
 1.
 2.

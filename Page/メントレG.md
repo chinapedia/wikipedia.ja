@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[メントレG](https://ja.wikipedia.org/wiki/メントレG)から翻訳されています。
 
 
 『**メントレG**』（メントレ・ジー、メントレ・ザ・ジャイアント、メントレ the Giant）は、[1999年](../Page/1999年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジニュースネットワーク.md "wikilink")、[TOKIO](../Page/TOKIO.md "wikilink")が司会の[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。地上デジタル放送では[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。

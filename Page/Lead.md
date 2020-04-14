@@ -22,7 +22,7 @@
 [2002年](../Page/2002年.md "wikilink")4月からダンススクール「キャレス」大阪校に通っていた[中土居宏宜](../Page/中土居宏宜.md "wikilink")、[谷内伸也](../Page/谷内伸也.md "wikilink")、[鍵本輝](../Page/鍵本輝.md "wikilink")が「Rhymix」（リミックス）というユニットを組んで、ストリートライブを行っていた。その後、「flow」（フロウ）と改称し[京橋駅付近などで路上パフォーマンスを始め](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")、同年6月に「九州・沖縄 スターライトオーディション2002」で審査員特別賞を受賞した[古屋敬多](../Page/古屋敬多.md "wikilink")が加わり現在のLeadが結成される。ユニット名の由来は時代を「リード」できる存在になりたい、という意味をこめて自分たちで命名。その後大阪で路上ライブを始め、[城天でのライブでは](../Page/大阪城公園.md "wikilink")7000人の観客を集めるようになる。
 同年夏、先輩である[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の1st Liveのオープニングアクトを務め全国を廻った。
 
-同年7月31日、シングル「[真夏のMagic](https://ja.wikipedia.org/wiki/真夏のMagic "wikilink")」で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")のレーベル[FLIGHT MASTERよりデビュー](https://ja.wikipedia.org/wiki/FLIGHT_MASTER "wikilink")。2ndシングル「[Show me the way](https://ja.wikipedia.org/wiki/Show_me_the_way "wikilink")」で2002年[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")新人賞を受賞。6thシングル「[Night Deluxe](https://ja.wikipedia.org/wiki/Night_Deluxe "wikilink")」で[2004年](../Page/2004年.md "wikilink")[第46回日本レコード大賞](https://ja.wikipedia.org/wiki/第46回日本レコード大賞 "wikilink")金賞を受賞。8thシングル「[あたらしい季節へ](https://ja.wikipedia.org/wiki/あたらしい季節へ "wikilink")」で[2005年](../Page/2005年.md "wikilink")[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")金賞を受賞。
+同年7月31日、シングル「[真夏のMagic](https://ja.wikipedia.org/wiki/真夏のMagic "wikilink")」で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")のレーベル[FLIGHT MASTERよりデビュー](https://ja.wikipedia.org/wiki/FLIGHT_MASTER "wikilink")。2ndシングル「["Show me the way"](https://ja.wikipedia.org/wiki/"Show_me_the_way" "wikilink")」で2002年[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")新人賞を受賞。6thシングル「[Night Deluxe](https://ja.wikipedia.org/wiki/Night_Deluxe "wikilink")」で[2004年](../Page/2004年.md "wikilink")[第46回日本レコード大賞](https://ja.wikipedia.org/wiki/第46回日本レコード大賞 "wikilink")金賞を受賞。8thシングル「[あたらしい季節へ](https://ja.wikipedia.org/wiki/あたらしい季節へ "wikilink")」で[2005年](../Page/2005年.md "wikilink")[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")金賞を受賞。
 
 リクエスト・ベスト・アルバム『Lead Tracks 〜listener's choice〜』においてファンを中心に一般からの投票を募り、収録楽曲を決定するといったものを行った。日本のみならず[韓国](../Page/大韓民国.md "wikilink")、台湾、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")などでも投票受け付けを行い、リクエスト総数105,571票となった。
 
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Show_me_the_way" title="wikilink">Show me the way</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/&quot;Show_me_the_way&quot;" title="wikilink">"Show me the way"</a></strong></p></td>
 <td><p>2002年10月17日</p></td>
 <td><ul>
 <li>Step by Step</li>
@@ -405,7 +405,7 @@
 <li>サンセット・リフレイン【全種類共通】</li>
 <li>midnight free way【CD only収録】</li>
 </ul></td>
-<td></td>
+<td><p>3位</p></td>
 </tr>
 </tbody>
 </table>
@@ -422,6 +422,7 @@
 | 6  | 2012年[7月18日](../Page/7月18日.md "wikilink") | **[NOW OR NEVER](https://ja.wikipedia.org/wiki/NOW_OR_NEVER "wikilink")**              | 6位  |
 | 7  | 2016年[6月8日](../Page/6月8日.md "wikilink")   | **[THE SHOWCASE](https://ja.wikipedia.org/wiki/THE_SHOWCASE "wikilink")**              | 2位  |
 | 8  | 2018年[7月18日](../Page/7月18日.md "wikilink") | **[MILESTONE](https://ja.wikipedia.org/wiki/MILESTONE_\(Leadのアルバム\) "wikilink")**      | 8位  |
+| 9  | 2020年[3月18日](../Page/3月18日.md "wikilink") | **[SINGULARITY](https://ja.wikipedia.org/wiki/SINGULARITY "wikilink")**                | 17位 |
 
 ### ベスト・アルバム
 
@@ -769,7 +770,7 @@ PCXP-50542：BD</p></td>
   -
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.

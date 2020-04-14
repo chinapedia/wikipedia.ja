@@ -1,4 +1,4 @@
-> この記事は[KATO\&KEN](https://ja.wikipedia.org/wiki/KATO\&KEN)から翻訳されています。
+> この記事は[KATO\&KENテレビバスターズ](https://ja.wikipedia.org/wiki/KATO\&KENテレビバスターズ)から翻訳されています。
 
 
 『**KATO\&KENテレビバスターズ**』（カトケンテレビバスターズ）は、[1992年](../Page/1992年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[9月26日](../Page/9月26日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBSと](../Page/TBSテレビ.md "wikilink")[イザワオフィス](../Page/イザワオフィス.md "wikilink")共同製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週土曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

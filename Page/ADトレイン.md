@@ -1,4 +1,4 @@
-> この記事は[AD](https://ja.wikipedia.org/wiki/AD)から翻訳されています。
+> この記事は[ADトレイン](https://ja.wikipedia.org/wiki/ADトレイン)から翻訳されています。
 
 
 [250pxを装着していた](https://ja.wikipedia.org/wiki/ファイル:JRE205yamanoteADtrain.jpg "wikilink")[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")\]\] **ADトレイン**（アド・トレイン）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から開始した、[広告貸切列車](https://ja.wikipedia.org/wiki/広告貸切列車 "wikilink")の名称である。

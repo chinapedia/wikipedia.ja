@@ -1,4 +1,4 @@
-> この記事は[JAR \(\)](https://ja.wikipedia.org/wiki/JAR_\(\))から翻訳されています。
+> この記事は[JAR \(ファイルフォーマット\)](https://ja.wikipedia.org/wiki/JAR_\(ファイルフォーマット\))から翻訳されています。
 
 
 **JAR**（ジャー）または**Java Archive**（ジャバ アーカイブ）とは、コンパイルされた複数の[Javaバイトコード](https://ja.wikipedia.org/wiki/Javaバイトコード "wikilink")及びそれが使用する画像などの[リソースを一つにまとめ](../Page/計算資源.md "wikilink")[ZIP形式で](../Page/ZIP_\(ファイルフォーマット\).md "wikilink")[圧縮されたファイル](../Page/データ圧縮.md "wikilink")、及びそれを出力するツールのこと。圧縮されたファイルの拡張子には、「.jar」が使われる。\[1\]

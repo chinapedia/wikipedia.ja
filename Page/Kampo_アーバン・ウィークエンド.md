@@ -1,4 +1,4 @@
-> この記事は[Kampo ](https://ja.wikipedia.org/wiki/Kampo_)から翻訳されています。
+> この記事は[Kampo アーバン・ウィークエンド](https://ja.wikipedia.org/wiki/Kampo_アーバン・ウィークエンド)から翻訳されています。
 
 
 『**Kampo アーバン・ウィークエンド**』（カンポ アーバン・ウィークエンド）は、[TOKYO FMなどで](../Page/エフエム東京.md "wikilink")[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に毎週土曜 9:00 - 9:30に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

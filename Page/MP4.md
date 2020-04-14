@@ -95,9 +95,12 @@ MP4は下記に採用されており、実際に利用されている。
 ## 外部リンク
 
   - 竹松昇, [MPEGラボ 第26回 携帯ゲーム機PSPの動画ファイル「MP4」とは何か](http://www.mpeg.co.jp/libraries/mpeg_labo/winPC_26.html), 朋栄アイ・ビー・イー
+
   - [AAC音声のMP4動画の作り方（妖精現実フェアリアル）](http://www.faireal.net/dat/d3/d30731.xml), 個人サイト
-  - [撮影した動画データ（MPEG4）の再生に関するFAQ（XactiDMX-C1FAQ）](http://www.geocities.co.jp/MotorCity-Race/1216/faq/play.html), 個人サイト
-  - [撮影した動画データ（MPEG4）の編集に関するFAQ（XactiDMX-C1FAQ）](http://www.geocities.co.jp/MotorCity-Race/1216/faq/edit.html), 個人サイト
+
+  - , 個人サイト
+
+  - , 個人サイト
 
 [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:動画ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:動画ファイルフォーマット "wikilink") [Category:MPEG](https://ja.wikipedia.org/wiki/Category:MPEG "wikilink")
 

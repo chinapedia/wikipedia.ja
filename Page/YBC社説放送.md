@@ -1,4 +1,4 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBC社説放送](https://ja.wikipedia.org/wiki/YBC社説放送)から翻訳されています。
 
 
 『**YBC社説放送**』（ワイビーシーしゃせつほうそう）は、[山形放送](../Page/山形放送.md "wikilink")テレビで放送されている[ニュース](../Page/ニュース.md "wikilink")解説番組（[報道番組](../Page/報道番組.md "wikilink")）。『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』月曜 - 木曜第1部の一部をローカル差し替えした上で放送しているが、[祝日](../Page/祝日.md "wikilink")には差し替えを行わずに休止となる。おおよその放送時間帯は16:30 - 16:40頃。かつてはラジオでも放送されていた。

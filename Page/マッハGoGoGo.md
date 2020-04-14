@@ -1,4 +1,4 @@
-> この記事は[GoGoGo](https://ja.wikipedia.org/wiki/GoGoGo)から翻訳されています。
+> この記事は[マッハGoGoGo](https://ja.wikipedia.org/wiki/マッハGoGoGo)から翻訳されています。
 
 
 『**マッハGoGoGo**』（マッハ ゴー ゴー ゴー）は、[タツノコプロ](../Page/タツノコプロ.md "wikilink")制作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。

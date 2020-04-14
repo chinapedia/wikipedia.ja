@@ -1,4 +1,4 @@
-> この記事は[CBR600RR](https://ja.wikipedia.org/wiki/CBR600RR)から翻訳されています。
+> この記事は[ホンダ・CBR600RR](https://ja.wikipedia.org/wiki/ホンダ・CBR600RR)から翻訳されています。
 
 
 **CBR600RR**（シービーアールろっぴゃくアールアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売する[CBRシリーズの](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

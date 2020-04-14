@@ -1,4 +1,4 @@
-> この記事は[!!J](https://ja.wikipedia.org/wiki/!!J)から翻訳されています。
+> この記事は[独占!!Jリーグエキスプレス](https://ja.wikipedia.org/wiki/独占!!Jリーグエキスプレス)から翻訳されています。
 
 
 『**独占\!\!Jリーグエキスプレス**』（どくせん ジェイリーグエキスプレス）は、[1993年](../Page/1993年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")（LF）制作で、[NRN加盟局にて放送された](../Page/全国ラジオネットワーク.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")・[Jリーグ情報番組](../Page/日本プロサッカーリーグ.md "wikilink")。「**独占\!Jリーグエキスプレス**」（**\!**が1つのみ）と表記される場合もあり\[1\]。

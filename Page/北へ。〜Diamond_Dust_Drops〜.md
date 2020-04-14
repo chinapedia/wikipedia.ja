@@ -1,4 +1,4 @@
-> この記事は[Diamond Dust Drops](https://ja.wikipedia.org/wiki/Diamond_Dust_Drops)から翻訳されています。
+> この記事は[北へ。〜Diamond Dust Drops〜](https://ja.wikipedia.org/wiki/北へ。〜Diamond_Dust_Drops〜)から翻訳されています。
 
 
 『**北へ。〜Diamond Dust Drops〜**』（きたへ ダイアモンド ダスト ドロップス）は、[2004年](../Page/2004年.md "wikilink")に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組。全13話。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台にした[トラベル](https://ja.wikipedia.org/wiki/トラベル "wikilink")[コミュニケーション](../Page/コミュニケーション.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")の『[北へ。 Dust〜](../Page/北へ。.md "wikilink")〜Diamond』をアニメ化したものである。略称「**北へ。DDD**」。

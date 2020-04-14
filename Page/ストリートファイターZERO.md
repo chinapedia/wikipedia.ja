@@ -1,4 +1,4 @@
-> この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
+> この記事は[ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO)から翻訳されています。
 
 
 『**ストリートファイターZERO**』（ストリートファイターゼロ、*Street Fighter ZERO*）は、[カプコン](../Page/カプコン.md "wikilink")製作の[2D対戦型格闘ゲームである](https://ja.wikipedia.org/wiki/対戦型格闘ゲーム#2D対戦格闘ゲーム "wikilink")。通称『**ストZERO**』。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に一作目が登場し、その後シリーズ化された。
@@ -105,7 +105,7 @@
     BGM関連もAC版を完全再現しており、上記の『恋しさと せつなさと 心強さと』も隠しトラックで収録されている。
     2007年11月15日には、廉価版『Best Price\!』として再発売された。
     詳細は個別記事を参照。
-  - ストリートファイター 30th アニバーサリーコレクション インターナショナル
+  -
     （[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[Steam](../Page/Steam.md "wikilink") - 2018年10月25日）
     12タイトルの中に『ZERO』『ZERO2』『ZERO3』を収録。パッケージ版のみ特典として「[ALL ABOUT](https://ja.wikipedia.org/wiki/ALL_ABOUTシリーズ "wikilink") ストリートファイター 30周年復刻版」が同梱される。
     PlayStation 4、Nintendo Switchはパッケージ版とダウンロード版で販売。Xbox One、Steamはダウンロード版のみの販売。

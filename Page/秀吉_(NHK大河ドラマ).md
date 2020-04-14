@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[秀吉 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/秀吉_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**秀吉**』（ひでよし）は、[1996年](../Page/1996年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")にかけて放送された第35作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作：[堺屋太一](../Page/堺屋太一.md "wikilink")、脚本：[竹山洋](../Page/竹山洋.md "wikilink")、主演：[竹中直人](../Page/竹中直人.md "wikilink")。全49話。
@@ -100,7 +100,7 @@
   - [なか](../Page/大政所.md "wikilink")：[市原悦子](../Page/市原悦子.md "wikilink")
       -
         秀吉の生母。大政所。[尾張訛りで喋る](../Page/尾張弁.md "wikilink")。
-        秀吉を深く愛する良き母親として描かれるが、晩年は傲慢となった秀吉を非難していた。しばしば、未来の光景を夢で見ることがある。[朝鮮出兵](https://ja.wikipedia.org/wiki/朝鮮出兵 "wikilink")に最期まで反対していた。
+        秀吉を深く愛する良き母親として描かれるが、晩年は傲慢となった秀吉を非難していた。しばしば、未来の光景を夢で見ることがある。[朝鮮出兵に最期まで反対していた](https://ja.wikipedia.org/wiki/文禄・慶長の役 "wikilink")。
   - [竹阿弥](../Page/竹阿弥.md "wikilink")：[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")
       -
         なかの二人目の夫。秀長と朝日姫の実父。

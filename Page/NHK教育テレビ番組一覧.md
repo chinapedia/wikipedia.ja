@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK教育テレビ番組一覧](https://ja.wikipedia.org/wiki/NHK教育テレビ番組一覧)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -8,7 +8,7 @@
 
 </div>
 
-**NHK教育テレビ番組一覧**（エヌエイチケイきょういくテレビばんぐみいちらん）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")のうち、[アナログ](../Page/NTSC.md "wikilink")・[デジタルを問わず](../Page/地上デジタルテレビ放送.md "wikilink")[NHK教育テレビ（Eテレ）で放送中](../Page/NHK教育テレビジョン.md "wikilink")、もしくは過去に放送された番組を列挙する。
+**NHK教育テレビ番組一覧**（エヌエイチケイきょういくテレビばんぐみいちらん）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")のうち、[アナログ](../Page/NTSC.md "wikilink")・[デジタルを問わず](../Page/地上デジタルテレビ放送.md "wikilink")[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（Eテレ）で放送中、もしくは過去に放送された番組を列挙する。
 
 ## 概説
 

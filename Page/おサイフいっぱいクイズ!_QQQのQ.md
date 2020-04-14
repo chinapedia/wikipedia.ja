@@ -1,4 +1,4 @@
-> この記事は[! QQQQ](https://ja.wikipedia.org/wiki/!_QQQQ)から翻訳されています。
+> この記事は[おサイフいっぱいクイズ! QQQのQ](https://ja.wikipedia.org/wiki/おサイフいっぱいクイズ!_QQQのQ)から翻訳されています。
 
 
 『**おサイフいっぱいクイズ\! QQQのQ**』（おさいふいっぱいクイズ キュキュキュのキュー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 12:00 - 12:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

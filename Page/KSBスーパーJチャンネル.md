@@ -1,4 +1,4 @@
-> この記事は[KSBJ](https://ja.wikipedia.org/wiki/KSBJ)から翻訳されています。
+> この記事は[KSBスーパーJチャンネル](https://ja.wikipedia.org/wiki/KSBスーパーJチャンネル)から翻訳されています。
 
 
 『**KSBスーパーJチャンネル**』（ケイエスビー・スーパージェイチャンネル）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（KSB）で放送されている夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』は1997年3月31日から既に放送されていたが、KSBは2000年3月31日まで前番組『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』のタイトルを使用した『[KSBステーションEYE](../Page/KSBステーションEYE.md "wikilink")』を放送していた。通常は[高松本社製作である](https://ja.wikipedia.org/wiki/高松市 "wikilink")。音楽はテレビ朝日とは違う独自のものを使用し、CMに前に表示するテロップはテレビ朝日の昔のものを使用している。
@@ -109,7 +109,7 @@
 
 ## 外部リンク
 
-  - [KSBスーパーJチャンネル](http://www.ksb.co.jp/jchannel/index.html)
+  - [KSBスーパーJチャンネル](https://www.ksb.co.jp/jchannel/index.html)
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:瀬戸内海放送の番組](https://ja.wikipedia.org/wiki/Category:瀬戸内海放送の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
 

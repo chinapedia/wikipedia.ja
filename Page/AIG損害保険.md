@@ -1,4 +1,4 @@
-> この記事は[AIG](https://ja.wikipedia.org/wiki/AIG)から翻訳されています。
+> この記事は[AIG損害保険](https://ja.wikipedia.org/wiki/AIG損害保険)から翻訳されています。
 
 
 **AIG損害保険株式会社**（エイ・アイ・ジーそんがいほけん）は、[AIG](https://ja.wikipedia.org/wiki/AIG "wikilink")傘下の日本の[保険会社](https://ja.wikipedia.org/wiki/保険会社 "wikilink")である。[AIG ジャパン・ホールディングス株式会社の完全子会社](https://ja.wikipedia.org/wiki/アメリカン・インターナショナル・グループ#日本での営業 "wikilink")。日本における関連企業には[アメリカンホーム保険](../Page/アメリカンホーム保険会社.md "wikilink")、[ジェイアイ傷害火災保険](../Page/ジェイアイ傷害火災保険.md "wikilink")（[JTB](../Page/JTB.md "wikilink") = 旧・日本交通公社との合弁）などがある。保険業界で初めて、全事業について事業継続に関する国際規格「ISO22301」を取得している。\[1\]

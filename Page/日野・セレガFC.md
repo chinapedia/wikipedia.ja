@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[日野・セレガFC](https://ja.wikipedia.org/wiki/日野・セレガFC)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Fujikyu_Heiwa_SelegaFc.jpg "wikilink") [河口湖駅](../Page/河口湖駅.md "wikilink")前にて2000年9月撮影\]\] **セレガFC** (S'ELEGA FC)は、[日野自動車](../Page/日野自動車.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）から[2005年](../Page/2005年.md "wikilink")（平成17年）まで製造・発売していた大型観光バス[セレガ](../Page/日野・セレガ.md "wikilink")9 m仕様車の名称である。

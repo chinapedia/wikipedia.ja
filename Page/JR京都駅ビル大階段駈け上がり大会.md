@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR京都駅ビル大階段駈け上がり大会](https://ja.wikipedia.org/wiki/JR京都駅ビル大階段駈け上がり大会)から翻訳されています。
 
 
 **JR京都駅ビル大階段駆け上がり大会**（ジェイアールきょうとえきビルだいかいだんかけあがりたいかい）は、[JR京都駅の](https://ja.wikipedia.org/wiki/京都駅 "wikilink")[駅ビル](../Page/駅ビル.md "wikilink")[大階段で](../Page/階段.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）から毎年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")の第3土曜日に開催される[KBS京都主催のイベント](../Page/京都放送.md "wikilink")。選手達は段数・171段／総高低差・35メートル（11階建てビルに相当）／全長・70メートルのコースに挑む。実況は第1回から連続してKBS京都の[梶原誠](../Page/梶原誠.md "wikilink")アナウンサーが担当している。

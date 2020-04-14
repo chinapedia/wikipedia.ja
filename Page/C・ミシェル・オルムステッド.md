@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C・ミシェル・オルムステッド](https://ja.wikipedia.org/wiki/C・ミシェル・オルムステッド)から翻訳されています。
 
 
 **C・ミシェル・オルムステッド**（C. Michelle Olmstead）はアメリカ人の女性[天文学者](../Page/天文学者.md "wikilink") ([1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") - 、[Washington, D.C.](../Page/ワシントンD.C..md "wikilink"), USA.)である。

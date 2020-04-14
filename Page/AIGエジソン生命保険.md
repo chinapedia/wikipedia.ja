@@ -1,4 +1,4 @@
-> この記事は[AIG](https://ja.wikipedia.org/wiki/AIG)から翻訳されています。
+> この記事は[AIGエジソン生命保険](https://ja.wikipedia.org/wiki/AIGエジソン生命保険)から翻訳されています。
 
 
 **AIGエジソン生命保険株式会社**（エイアイジーエジソンせいめいほけん）は、かつて存在していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")会社である。

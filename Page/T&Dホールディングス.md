@@ -1,4 +1,4 @@
-> この記事は[T\&D](https://ja.wikipedia.org/wiki/T\&D)から翻訳されています。
+> この記事は[T\&Dホールディングス](https://ja.wikipedia.org/wiki/T\&Dホールディングス)から翻訳されています。
 
 
 **株式会社T\&Dホールディングス**（ティーアンドディーホールディングス、英:*T\&D Holdings, Inc.*）は、主に3つの[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")会社を傘下におく[金融持株会社](../Page/金融持株会社.md "wikilink")である。

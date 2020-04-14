@@ -126,7 +126,7 @@
 
   - [Crack6 Official Website](http://www.crack6.jp/)
 
-  - [Crack6 Official blog](http://ameblo.jp/crack6/)
+  - [Crack6 Official blog](https://ameblo.jp/crack6/)
 
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

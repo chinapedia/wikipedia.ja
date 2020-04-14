@@ -1,4 +1,4 @@
-> この記事は[no](https://ja.wikipedia.org/wiki/no)から翻訳されています。
+> この記事は[たかじんnoばぁ〜](https://ja.wikipedia.org/wiki/たかじんnoばぁ〜)から翻訳されています。
 
 
 『**たかじんnoばぁ〜**』（たかじんのばー）は、[1992年](../Page/1992年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[日本テレビ系列局で放送された](../Page/日本テレビ放送網.md "wikilink")、[よみうりテレビ制作の](../Page/讀賣テレビ放送.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")。

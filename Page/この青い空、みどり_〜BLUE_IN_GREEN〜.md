@@ -1,4 +1,4 @@
-> この記事は[ BLUE IN GREEN](https://ja.wikipedia.org/wiki/_BLUE_IN_GREEN)から翻訳されています。
+> この記事は[この青い空、みどり 〜BLUE IN GREEN〜](https://ja.wikipedia.org/wiki/この青い空、みどり_〜BLUE_IN_GREEN〜)から翻訳されています。
 
 
 「**この青い空、みどり 〜BLUE IN GREEN〜**」（このあおいそら・みどり ブルー・イン・グリーン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の46枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

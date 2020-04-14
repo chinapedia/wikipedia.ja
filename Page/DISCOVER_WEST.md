@@ -11,7 +11,7 @@
 
 当初、イメージ[キャラクター](../Page/キャラクター.md "wikilink")は[竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")を起用し、[キャッチフレーズは](../Page/キャッチコピー.md "wikilink")「あしたのわたしに、会いに行く」であった。イメージソングには[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に国鉄が実施した「いい日旅立ち」キャンペーンで使用された、[谷村新司](../Page/谷村新司.md "wikilink")作詞・作曲の「[いい日旅立ち](../Page/いい日旅立ち.md "wikilink")」（歌：[山口百恵](../Page/山口百恵.md "wikilink")）をリメイクした「[いい日旅立ち・西へ](../Page/いい日旅立ち・西へ.md "wikilink")」（歌：[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")）を採用してテレビ[コマーシャルを放送するなど](../Page/コマーシャルメッセージ.md "wikilink")、大々的に宣伝した。
 
-これにより、JR西日本所有の新幹線車両の[車内チャイムも同曲の](https://ja.wikipedia.org/wiki/車内放送#車内チャイム "wikilink")[オルゴール](../Page/オルゴール.md "wikilink")調のものに変更され（同時に、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）所有の新幹線車両の車内チャイムは[TOKIO](../Page/TOKIO.md "wikilink")の「[AMBITIOUS JAPAN\!](../Page/AMBITIOUS_JAPAN!.md "wikilink")」に変更）、一部の路線の駅では「いい日旅立ち・西へ」が常時再生されている。
+これにより、JR西日本所有の新幹線車両の[車内チャイム](../Page/車内チャイム.md "wikilink")も同曲の[オルゴール](../Page/オルゴール.md "wikilink")調のものに変更され（同時に、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）所有の新幹線車両の車内チャイムは[TOKIO](../Page/TOKIO.md "wikilink")の「[AMBITIOUS JAPAN\!](../Page/AMBITIOUS_JAPAN!.md "wikilink")」に変更）、一部の路線の駅では「いい日旅立ち・西へ」が常時再生されている。
 
 また、キャンペーンの実施をきっかけとして、JR西日本グループの[日本旅行](../Page/日本旅行.md "wikilink")並びに[JTB](../Page/JTB.md "wikilink")、[近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")の4社で「観光開発プロジェクト」を発足するなど力を入れていたが、[2005年](../Page/2005年.md "wikilink")（平成17年）[4月25日](../Page/4月25日.md "wikilink")に起きた[福知山線脱線事故の影響によりキャンペーンを一時中止とし](https://ja.wikipedia.org/wiki/JR福知山線脱線事故 "wikilink")、テレビコマーシャルの放送も自粛された。
 

@@ -705,7 +705,7 @@
 <td><p>7品目</p></td>
 <td><p>恋のバッドチューニング</p></td>
 <td><p>吉岡たかを</p></td>
-<td><p>黒柳トシマサ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黒柳トシマサ" title="wikilink">黒柳トシマサ</a></p></td>
 <td><p>藤井辰己</p></td>
 <td><p>渡辺敬介</p></td>
 </tr>

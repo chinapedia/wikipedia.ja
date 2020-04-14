@@ -1,4 +1,4 @@
-> この記事は[Q THE](https://ja.wikipedia.org/wiki/Q_THE)から翻訳されています。
+> この記事は[Qコちゃん THE地球侵略少女](https://ja.wikipedia.org/wiki/Qコちゃん_THE地球侵略少女)から翻訳されています。
 
 
 『**Qコちゃん THE地球侵略少女**』（きゅうこちゃん ざちきゅうしんりゃくしょうじょ）は、『[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")』[2002年](../Page/2002年.md "wikilink")9月号から[2004年](../Page/2004年.md "wikilink")5月号まで連載されていた[ウエダハジメ](../Page/ウエダハジメ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。

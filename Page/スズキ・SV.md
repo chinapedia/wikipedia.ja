@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[スズキ・SV](https://ja.wikipedia.org/wiki/スズキ・SV)から翻訳されています。
 
 
 **SV**（エスブイ）とは、[スズキが製造販売しているスポーツタイプの](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として数車種が生産されている。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ゴールドX](https://ja.wikipedia.org/wiki/ゴールドX)から翻訳されています。
 
 
 **ゴールドX**は、[2003年](../Page/2003年.md "wikilink")に[ミズホ](https://ja.wikipedia.org/wiki/ミズホ "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。

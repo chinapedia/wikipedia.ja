@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE つんくビ♂ト](https://ja.wikipedia.org/wiki/THE_つんくビ♂ト)から翻訳されています。
 
 
 **THE つんくビ♂ト**(ザ・つんくビート)は日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")。

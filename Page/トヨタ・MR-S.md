@@ -1,4 +1,4 @@
-> この記事は[MR-S](https://ja.wikipedia.org/wiki/MR-S)から翻訳されています。
+> この記事は[トヨタ・MR-S](https://ja.wikipedia.org/wiki/トヨタ・MR-S)から翻訳されています。
 
 
 **トヨタ・MR-S**（エムアール-エス）とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が製造・販売していた2シーターの[自動車](../Page/自動車.md "wikilink")である。手動ソフトトップの[オープンタイプ](../Page/オープンカー.md "wikilink")[スポーツカー](../Page/スポーツカー.md "wikilink")で、[MR2の後継車で](../Page/トヨタ・MR2.md "wikilink")、初代MR2から3代目になる。[セントラル自動車](../Page/セントラル自動車.md "wikilink")が製造した。

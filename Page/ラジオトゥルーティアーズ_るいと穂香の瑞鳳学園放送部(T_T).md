@@ -1,4 +1,4 @@
-> この記事は[ \(T T\)](https://ja.wikipedia.org/wiki/_\(T_T\))から翻訳されています。
+> この記事は[ラジオトゥルーティアーズ るいと穂香の瑞鳳学園放送部\(T T\)](https://ja.wikipedia.org/wiki/ラジオトゥルーティアーズ_るいと穂香の瑞鳳学園放送部\(T_T\))から翻訳されています。
 
 
 **ラジオトゥルーティアーズ るいと穂香の瑞鳳学園放送部(T_T)**（ラジオトゥルーティアーズ るいとほのかのみずほがくえんほうそうぶ）とはPCゲーム「[true tears](https://ja.wikipedia.org/wiki/true_tears "wikilink")」関連番組として[ラジオ関西](../Page/ラジオ関西.md "wikilink")にて放送されていたラジオ番組である。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")配信サイト[音泉](../Page/音泉.md "wikilink")でも再配信されていた。

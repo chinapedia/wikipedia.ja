@@ -1,4 +1,4 @@
-> この記事は[A-team \(\)](https://ja.wikipedia.org/wiki/A-team_\(\))から翻訳されています。
+> この記事は[A-team \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/A-team_\(芸能プロダクション\))から翻訳されています。
 
 
 **株式会社エー・チーム**（英文社名；*A-Team Inc.*）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GOOD-BYE](https://ja.wikipedia.org/wiki/GOOD-BYE)から翻訳されています。
+> この記事は[GOOD-BYE青春](https://ja.wikipedia.org/wiki/GOOD-BYE青春)から翻訳されています。
 
 
 「**GOOD-BYE青春**」（グッド・バイ・せいしゅん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の11枚目のシングル曲である。

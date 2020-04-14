@@ -1,4 +1,4 @@
-> この記事は[LOVE AFFAIR ](https://ja.wikipedia.org/wiki/LOVE_AFFAIR_)から翻訳されています。
+> この記事は[LOVE AFFAIR 〜秘密のデート](https://ja.wikipedia.org/wiki/LOVE_AFFAIR_〜秘密のデート)から翻訳されています。
 
 
 「**LOVE AFFAIR 〜秘密のデート**」（ラヴ・アフェア～ひみつのデート）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の41枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[KT-1 \(\)](https://ja.wikipedia.org/wiki/KT-1_\(\))から翻訳されています。
+> この記事は[KT-1 \(航空機\)](https://ja.wikipedia.org/wiki/KT-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=KAI KT-1「雄飛」 | 画像=画像:Demonstration Flight of ROKAF New Light Trainer KT-1 'Woongbi'.jpg | キャプション=KT-1 | 用途=基本[練習機](../Page/練習機.md "wikilink")・[COIN機](../Page/COIN機.md "wikilink") | 分類= | 設計者=[大韓民国国防科学研究所](../Page/国防科学研究所_\(大韓民国\).md "wikilink") | 製造者=[韓国航空宇宙産業](https://ja.wikipedia.org/wiki/韓国航空宇宙産業 "wikilink")（KAI） | 運用者 more=

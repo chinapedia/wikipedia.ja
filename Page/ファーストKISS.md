@@ -1,4 +1,4 @@
-> この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
+> この記事は[ファーストKISS](https://ja.wikipedia.org/wiki/ファーストKISS)から翻訳されています。
 
 
 『**ファーストKISS**』（ファーストキス）は、[松浦亜弥](../Page/松浦亜弥.md "wikilink")初のアルバム。

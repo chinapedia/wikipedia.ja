@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[三國志III](https://ja.wikipedia.org/wiki/三國志III)から翻訳されています。
 
 
 『**三國志III**』（さんごくし・スリー）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第3作。パソコン版で発売された後、さまざまな[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")に移植された。音楽は前作に引き続き[向谷実](../Page/向谷実.md "wikilink")が担当している。

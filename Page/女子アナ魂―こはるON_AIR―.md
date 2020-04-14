@@ -1,4 +1,4 @@
-> この記事は[ON AIR](https://ja.wikipedia.org/wiki/ON_AIR)から翻訳されています。
+> この記事は[女子アナ魂―こはるON AIR―](https://ja.wikipedia.org/wiki/女子アナ魂―こはるON_AIR―)から翻訳されています。
 
 
 『**女子アナ魂―こはるON AIR―**』（じょしアナだましい こはるオンエアー）は、[海野そら太](../Page/海野そら太.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて2004年26号から2006年24号まで連載された。[女子アナを題材にした](https://ja.wikipedia.org/wiki/日本のアナウンサー#女子アナ "wikilink")、痛快コメディである。

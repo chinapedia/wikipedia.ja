@@ -1,4 +1,4 @@
-> この記事は[BLIZARD OF WIZARD](https://ja.wikipedia.org/wiki/BLIZARD_OF_WIZARD)から翻訳されています。
+> この記事は[暗黒の聖書〜BLIZARD OF WIZARD〜](https://ja.wikipedia.org/wiki/暗黒の聖書〜BLIZARD_OF_WIZARD〜)から翻訳されています。
 
 
 **暗黒の聖書〜BLIZARD OF WIZARD〜**（あんこくのバイブル ブリザード・オブ・ウィザード）は[BLIZARDの](../Page/ブリザード_\(バンド\).md "wikilink")1stアルバム。

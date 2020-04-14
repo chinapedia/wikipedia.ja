@@ -1,4 +1,4 @@
-> この記事は[SCREEN](https://ja.wikipedia.org/wiki/SCREEN)から翻訳されています。
+> この記事は[SCREENホールディングス](https://ja.wikipedia.org/wiki/SCREENホールディングス)から翻訳されています。
 
 
 **株式会社SCREENホールディングス**（）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")にある[半導体](../Page/半導体.md "wikilink")・[液晶](../Page/液晶.md "wikilink")製造装置・[印刷関連](https://ja.wikipedia.org/wiki/印刷関連 "wikilink")機器などの産業用機器を製造する企業グループの[持株会社](../Page/持株会社.md "wikilink")。[大輪会](../Page/大輪会.md "wikilink")の会員企業である\[1\]。

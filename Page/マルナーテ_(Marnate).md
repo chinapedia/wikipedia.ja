@@ -1,4 +1,4 @@
-> この記事は[ \(Marnate\)](https://ja.wikipedia.org/wiki/_\(Marnate\))から翻訳されています。
+> この記事は[マルナーテ \(Marnate\)](https://ja.wikipedia.org/wiki/マルナーテ_\(Marnate\))から翻訳されています。
 
 
 |frazioni = Nizzolina |comuniLimitrofi = [\#隣接コムーネ](https://ja.wikipedia.org/wiki/#隣接コムーネ "wikilink")参照 |cap = 21050 |prefisso = 0331 |istat = 012098 |fiscale = E965 |nomeAbitanti = marnatesi |patrono = [Sant'Ilario](https://ja.wikipedia.org/wiki/:it:Sant'Ilario_di_Poitiers "wikilink") |festivo = [1月13日](../Page/1月13日.md "wikilink") |gradiGiorno = 2862 |sito = <http://www.comune.marnate.va.it> |Mappa= Map of comune of Marnate (province of Varese, region Lombardy, Italy).svg |Didascalia mappa= ヴァレーゼ県におけるコムーネの領域 }} **マルナーテ**（）は、[イタリア](../Page/イタリア.md "wikilink")共和国[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ヴァレーゼ県](../Page/ヴァレーゼ県.md "wikilink")にある、人口約7,800人の[基礎自治体](../Page/基礎自治体.md "wikilink")（[コムーネ](../Page/コムーネ.md "wikilink")）。

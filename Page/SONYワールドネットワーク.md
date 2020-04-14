@@ -1,4 +1,4 @@
-> この記事は[SONY](https://ja.wikipedia.org/wiki/SONY)から翻訳されています。
+> この記事は[SONYワールドネットワーク](https://ja.wikipedia.org/wiki/SONYワールドネットワーク)から翻訳されています。
 
 
 『**SONYワールドネットワーク**』（ソニーワールドネットワーク）は、[1984年](../Page/1984年.md "wikilink")からまでラジオたんぱ（現・[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")）で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[ソニー](../Page/ソニー.md "wikilink")の一社提供。放送時間は毎週土曜 21:00 - 21:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

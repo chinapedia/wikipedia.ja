@@ -1,4 +1,4 @@
-> この記事は[AIG](https://ja.wikipedia.org/wiki/AIG)から翻訳されています。
+> この記事は[AIGスター生命保険](https://ja.wikipedia.org/wiki/AIGスター生命保険)から翻訳されています。
 
 
 **エイアイジー・スター生命保険株式会社**（エイアイジースターせいめいほけん、[英称](../Page/英語.md "wikilink")：*AIG Star Life Insurance Co., Ltd.*）は、かつて存在していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")会社である。 [米国](https://ja.wikipedia.org/wiki/米国 "wikilink")[AIG傘下にあったが](../Page/アメリカン・インターナショナル・グループ.md "wikilink")、[プルデンシャル・ファイナンシャル](../Page/プルデンシャル・ファイナンシャル.md "wikilink")へ売却され、2012年に同傘下の[ジブラルタ生命保険](../Page/ジブラルタ生命保険.md "wikilink")との[合併により解散した](https://ja.wikipedia.org/wiki/企業合併 "wikilink")。

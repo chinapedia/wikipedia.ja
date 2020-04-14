@@ -1,4 +1,4 @@
-> この記事は[  II](https://ja.wikipedia.org/wiki/__II)から翻訳されています。
+> この記事は[エイジ オブ エンパイアII](https://ja.wikipedia.org/wiki/エイジ_オブ_エンパイアII)から翻訳されています。
 
 
 **エイジ オブ エンパイア II: エイジ オブ キング**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が発売している[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")ゲームで、[『エイジ オブ エンパイア』シリーズの第二作目である](../Page/エイジ_オブ_エンパイア_シリーズ.md "wikilink")。前作同様時代の進化を扱っているが、今作は[暗黒時代](../Page/暗黒時代.md "wikilink")から[中世](../Page/中世.md "wikilink")を4つ（暗黒の時代、領主の時代、城主の時代及び帝王の時代）に分けている。アメリカでの発売は[1999年](../Page/1999年.md "wikilink")。数々の賞を受賞しており、名作としての評価が高い。[PlayStation 2にも移殖され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売を行い、日本でも発売された。[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版の移殖はキャンセルされている。

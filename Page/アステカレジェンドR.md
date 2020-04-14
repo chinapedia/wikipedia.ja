@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[アステカレジェンドR](https://ja.wikipedia.org/wiki/アステカレジェンドR)から翻訳されています。
 
 
 **アステカレジェンドR**は、[2002年](../Page/2002年.md "wikilink")にエレコが開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。

@@ -1,4 +1,4 @@
-> この記事は[UNHAPPY](https://ja.wikipedia.org/wiki/UNHAPPY)から翻訳されています。
+> この記事は[小野坂・伊福部のUNHAPPY](https://ja.wikipedia.org/wiki/小野坂・伊福部のUNHAPPY)から翻訳されています。
 
 
 『**小野坂・伊福部のUNHAPPY**』（おのさか・いふくべのアンハッピー）は、[声優](../Page/声優.md "wikilink")の[小野坂昌也](../Page/小野坂昌也.md "wikilink")と[放送作家](../Page/放送作家.md "wikilink")の[伊福部崇](../Page/伊福部崇.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[文化放送](../Page/文化放送.md "wikilink")、[BBQR](../Page/BBQR.md "wikilink")等で放送されている。

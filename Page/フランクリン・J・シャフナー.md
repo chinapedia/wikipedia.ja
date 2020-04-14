@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[フランクリン・J・シャフナー](https://ja.wikipedia.org/wiki/フランクリン・J・シャフナー)から翻訳されています。
 
 
 **フランクリン・ジェームス・シャフナー**（, , [1920年](../Page/1920年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")、[演出家](../Page/演出家.md "wikilink")。

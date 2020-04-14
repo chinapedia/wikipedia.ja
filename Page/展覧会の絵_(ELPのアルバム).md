@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[展覧会の絵 \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/展覧会の絵_\(ELPのアルバム\))から翻訳されています。
 
 
 『**展覧会の絵**』（てんらんかいのえ、*Pictures at an Exhibition*）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")において[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")11月に発売された[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

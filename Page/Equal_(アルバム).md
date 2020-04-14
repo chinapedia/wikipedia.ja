@@ -1,4 +1,4 @@
-> この記事は[Equal \(\)](https://ja.wikipedia.org/wiki/Equal_\(\))から翻訳されています。
+> この記事は[Equal \(アルバム\)](https://ja.wikipedia.org/wiki/Equal_\(アルバム\))から翻訳されています。
 
 
 『**equal**』（イコール）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のメジャー3枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。メジャー6枚目のシングル「[水写](../Page/水写.md "wikilink")」、7枚目のシングル「[equal e.p.](https://ja.wikipedia.org/wiki/equal_e.p. "wikilink")」を収録している（プレデビューシングルの三部作もカウント）。

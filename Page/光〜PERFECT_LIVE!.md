@@ -1,4 +1,4 @@
-> この記事は[PERFECT LIVE!](https://ja.wikipedia.org/wiki/PERFECT_LIVE!)から翻訳されています。
+> この記事は[光〜PERFECT LIVE!](https://ja.wikipedia.org/wiki/光〜PERFECT_LIVE!)から翻訳されています。
 
 
 『**光〜PERFECT LIVE\!**』（Delicate Sound Of Thunder）は、[1988年](../Page/1988年.md "wikilink")に発表された[ピンク・フロイド](../Page/ピンク・フロイド.md "wikilink")の2枚組[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。新生フロイドとして行われた初のワールド・ツアーの模様が収録されている。

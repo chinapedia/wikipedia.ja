@@ -1,4 +1,4 @@
-> この記事は[BAe ](https://ja.wikipedia.org/wiki/BAe_)から翻訳されています。
+> この記事は[BAe ホーク](https://ja.wikipedia.org/wiki/BAe_ホーク)から翻訳されています。
 
 
 {{ Infobox 航空機

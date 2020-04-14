@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NSTニュース](https://ja.wikipedia.org/wiki/NSTニュース)から翻訳されています。
 
 
 『**NSTこんやのニュース**』（エヌエスティーこんやのニュース）は、[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")\[1\]で放送されている[新潟県](../Page/新潟県.md "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。NSTの社屋が[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")にあった時から2015年3月29日まで「NSTニュース」として放送されていたが、ニュースが終了した後に[天気予報](../Page/天気予報.md "wikilink")を放送していた。2015年3月30日から「NSTこんやのニュース」に改題、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』ブランド終了後も、同タイトルで放送が継続されている。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
@@ -55,6 +55,7 @@
 ## 外部リンク
 
   - [県内ニュース](https://www.nsttv.com/news/) - NST新潟総合テレビ
+  - [Yahoo\!ニュース NST新潟総合テレビ](https://news.yahoo.co.jp/media/nsttv)
 
 [Category:NST新潟総合テレビの番組](https://ja.wikipedia.org/wiki/Category:NST新潟総合テレビの番組 "wikilink") [Category:関東・甲信越地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのミニ番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:ANNニュースレーダー](https://ja.wikipedia.org/wiki/Category:ANNニュースレーダー "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNニュース6:30](https://ja.wikipedia.org/wiki/Category:FNNニュース6:30 "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
 

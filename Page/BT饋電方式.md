@@ -1,4 +1,4 @@
-> この記事は[BT](https://ja.wikipedia.org/wiki/BT)から翻訳されています。
+> この記事は[BT饋電方式](https://ja.wikipedia.org/wiki/BT饋電方式)から翻訳されています。
 
 
 **BT饋電方式**（ビーティーきでんほうしき、）とは、[交流電化](../Page/交流電化.md "wikilink")された[電気鉄道](../Page/電気鉄道.md "wikilink")で、[通信回線](https://ja.wikipedia.org/wiki/通信回線 "wikilink")への[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")を抑制して[鉄道車両](../Page/鉄道車両.md "wikilink")に電気を送る方式の1つであり、 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では開業当初の[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")をはじめ、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の交流電化区間で広く使われたが、後に、より利点が多い[AT饋電方式](../Page/AT饋電方式.md "wikilink")が替わって導入されて、新幹線ではAT饋電方式に改修されている。

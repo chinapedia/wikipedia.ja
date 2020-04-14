@@ -1,4 +1,4 @@
-> この記事は[NIPPON \(\)](https://ja.wikipedia.org/wiki/NIPPON_\(\))から翻訳されています。
+> この記事は[NIPPON \(グラフ誌\)](https://ja.wikipedia.org/wiki/NIPPON_\(グラフ誌\))から翻訳されています。
 
 
 [NIPPON_36.jpg](https://ja.wikipedia.org/wiki/File:NIPPON_36.jpg "fig:NIPPON_36.jpg")\]\] **NIPPON**（にっぽん）とは、[名取洋之助](../Page/名取洋之助.md "wikilink")を中心に[1934年](../Page/1934年.md "wikilink")に設立された（第二次）[日本工房](https://ja.wikipedia.org/wiki/日本工房 "wikilink")（にっぽんこうぼう。[1939年](../Page/1939年.md "wikilink")には国際報道工芸株式会社となり、時局により国際報道となる）により、[1934年](../Page/1934年.md "wikilink")10月から[1944年](../Page/1944年.md "wikilink")9月までに36冊（特別号『日本の手仕事』含む）の発刊が確認されている[内閣情報部による対外宣伝](https://ja.wikipedia.org/wiki/内閣情報局 "wikilink")（[プロパガンダ](../Page/プロパガンダ.md "wikilink")）のための[グラフ誌](https://ja.wikipedia.org/wiki/グラフ誌 "wikilink")である。

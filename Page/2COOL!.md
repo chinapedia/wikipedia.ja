@@ -450,6 +450,6 @@
   - ただし、10月・11月は中日ドラゴンズがクライマックスシリーズや日本シリーズに出場の可能性のある場合「ガッツナイタースペシャル」が編成されてこれらの番組は休止となっている。なお、2012年以降は中日の出場有無に関わらずクライマックスシリーズや日本シリーズの中継を行っている（2015年からはクライマックスシリーズについては中日不出場の場合、一部中継しない試合あり）。
   - また、2015年度オフからは、19時台のニッポン放送からのネット受けは継続する一方、20時台に新たな自社制作の帯番組として『[TOKAIRADIO×TSUTAYA LIFESTYLE MUSIC 929](https://ja.wikipedia.org/wiki/TOKAIRADIO×TSUTAYA_LIFESTYLE_MUSIC_929 "wikilink")』（ただし収録放送。ナイターイン期間は深夜2時台に編成）が編成されている。
 
-[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink")
+[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink")
 
 1.  [ラジオの時間！！](http://blog.onita.co.jp/?cid=382)2006年11月27日更新より。ただしここには県知事立候補については記されていない。

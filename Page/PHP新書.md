@@ -1,4 +1,4 @@
-> この記事は[PHP](https://ja.wikipedia.org/wiki/PHP)から翻訳されています。
+> この記事は[PHP新書](https://ja.wikipedia.org/wiki/PHP新書)から翻訳されています。
 
 
 **PHP新書**（ピーエイチピーしんしょ、PHP SHINSHO）は、[PHP研究所](../Page/PHP研究所.md "wikilink")から刊行されている[新書](../Page/新書.md "wikilink")レーベル。同社創設50年を迎えた[1996年](../Page/1996年.md "wikilink")に創刊された。[2013年](../Page/2013年.md "wikilink")12月、通巻900点を突破した。執筆者には同社発行の「[Voice](../Page/Voice_\(雑誌\).md "wikilink")」の常連執筆者と重なる人が多い。

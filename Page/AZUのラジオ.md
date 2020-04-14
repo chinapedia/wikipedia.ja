@@ -1,4 +1,4 @@
-> この記事は[AZU](https://ja.wikipedia.org/wiki/AZU)から翻訳されています。
+> この記事は[AZUのラジオ](https://ja.wikipedia.org/wiki/AZUのラジオ)から翻訳されています。
 
 
 『**AZUのラジオ**』（あずのラジオ）は、AZUの[甲斐田ゆき](../Page/甲斐田ゆき.md "wikilink")、[竹内順子](../Page/竹内順子.md "wikilink")、[皆川純子](../Page/皆川純子.md "wikilink")の3人が[パーソナリティを勤めている](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**AZUラジ**。番組名は番組表・ウェブページなどでは大文字になっている。なお歌手の[AZU](../Page/AZU.md "wikilink")とはいっさい関係ない。

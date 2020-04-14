@@ -1,4 +1,4 @@
-> この記事は[ -DOYOMAN-](https://ja.wikipedia.org/wiki/_-DOYOMAN-)から翻訳されています。
+> この記事は[どよまん -DOYOMAN-](https://ja.wikipedia.org/wiki/どよまん_-DOYOMAN-)から翻訳されています。
 
 
 『**どよまん** *-DOYOMAN-*』は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")制作の[土曜夕方の](../Page/土曜日.md "wikilink")[ローカル生](../Page/ローカル番組.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にスタート。

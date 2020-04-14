@@ -1,4 +1,4 @@
-> この記事は[TWO](https://ja.wikipedia.org/wiki/TWO)から翻訳されています。
+> この記事は[T・W・O](https://ja.wikipedia.org/wiki/T・W・O)から翻訳されています。
 
 
 {{Infobox Album | Name = T・W・O | Type = [アルバム](../Page/アルバム.md "wikilink") | Artist = [松浦亜弥](../Page/松浦亜弥.md "wikilink") | Cover = | Released = [2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") | Recorded = | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 50分49秒 | Label = [zetima](../Page/アップフロントワークス.md "wikilink") | Producer = [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink") | Reviews = | Chart position = \*週間2位（[オリコン](../Page/オリコンチャート.md "wikilink")）

@@ -1,4 +1,4 @@
-> この記事は[ \(doa\)](https://ja.wikipedia.org/wiki/_\(doa\))から翻訳されています。
+> この記事は[青い果実 \(doaの曲\)](https://ja.wikipedia.org/wiki/青い果実_\(doaの曲\))から翻訳されています。
 
 
 「**青い果実**」（あおいかじつ）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")4枚目のシングル。

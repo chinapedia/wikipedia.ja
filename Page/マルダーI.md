@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[マルダーI](https://ja.wikipedia.org/wiki/マルダーI)から翻訳されています。
 
 
 **マルダーI**（独： Marder I）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が開発した対戦車自走砲である。[1940年のフランス占領により数百輌を](../Page/ナチス・ドイツのフランス侵攻.md "wikilink")[鹵獲](../Page/鹵獲.md "wikilink")した[砲牽引車](https://ja.wikipedia.org/wiki/砲牽引車 "wikilink")・[装甲輸送車](https://ja.wikipedia.org/wiki/装甲輸送車 "wikilink")である[ロレーヌ 37L](https://ja.wikipedia.org/wiki/ロレーヌ_37L "wikilink") (Tracteur Blinde 37L "Lorraine") をベースに、[7.5 cm PaK 40](../Page/7.5_cm_PaK_40.md "wikilink")[対戦車砲](../Page/対戦車砲.md "wikilink")を搭載している。

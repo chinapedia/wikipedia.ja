@@ -1,4 +1,4 @@
-> この記事は[AT](https://ja.wikipedia.org/wiki/AT)から翻訳されています。
+> この記事は[AT饋電方式](https://ja.wikipedia.org/wiki/AT饋電方式)から翻訳されています。
 
 
 **AT饋電方式**（エーティーきでんほうしき、）は、正式には**AT交流饋電方式**といい、[電気鉄道](../Page/電気鉄道.md "wikilink")で、[単巻変圧器](https://ja.wikipedia.org/wiki/単巻変圧器 "wikilink")を介して饋電電圧を半分に降圧し[動力車](../Page/動力車.md "wikilink")に給電する[交流電化](../Page/交流電化.md "wikilink")の手法である。

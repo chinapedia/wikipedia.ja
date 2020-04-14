@@ -1,4 +1,4 @@
-> この記事は[KAMIKAZE KILLS MY TEARS EVAPORATE](https://ja.wikipedia.org/wiki/KAMIKAZE_KILLS_MY_TEARS_EVAPORATE)から翻訳されています。
+> この記事は[暗黒の警鐘〜KAMIKAZE KILLS MY TEARS EVAPORATE〜](https://ja.wikipedia.org/wiki/暗黒の警鐘〜KAMIKAZE_KILLS_MY_TEARS_EVAPORATE〜)から翻訳されています。
 
 
 **暗黒の警鐘〜KAMIKAZE KILLERS MY TEARS EVAPORATE〜**（あんこくのけいしょう・カミカゼ・キラーズ・マイティアーズ・エバポレイト）は[BLIZARDの](../Page/ブリザード_\(バンド\).md "wikilink")2ndアルバム。

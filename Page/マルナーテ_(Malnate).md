@@ -1,4 +1,4 @@
-> この記事は[ \(Malnate\)](https://ja.wikipedia.org/wiki/_\(Malnate\))から翻訳されています。
+> この記事は[マルナーテ \(Malnate\)](https://ja.wikipedia.org/wiki/マルナーテ_\(Malnate\))から翻訳されています。
 
 
 |frazioni = [\#分離集落](https://ja.wikipedia.org/wiki/#分離集落 "wikilink")参照 |comuniLimitrofi = [\#隣接コムーネ](https://ja.wikipedia.org/wiki/#隣接コムーネ "wikilink")参照 |cap = 21046 |prefisso = 0332 |istat = 012096 |fiscale = E863 |nomeAbitanti = malnatesi |patrono = [聖マルティーノ・ディ・トゥール](https://ja.wikipedia.org/wiki/トゥールのマルティヌス "wikilink") ([San Martino di Tours](https://ja.wikipedia.org/wiki/:it:San_Martino_di_Tours "wikilink")) |festivo = [11月11日](../Page/11月11日.md "wikilink") |gradiGiorno = 2634 |sito = <http://www.comune.malnate.va.it/> |Mappa= Map of comune of Malnate (province of Varese, region Lombardy, Italy).svg |Didascalia mappa= ヴァレーゼ県におけるコムーネの領域 }} **マルナーテ**（）は、[イタリア](../Page/イタリア.md "wikilink")共和国[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ヴァレーゼ県](../Page/ヴァレーゼ県.md "wikilink")にある、人口約1万6000人の[基礎自治体](../Page/基礎自治体.md "wikilink")（[コムーネ](../Page/コムーネ.md "wikilink")）。

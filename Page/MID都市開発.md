@@ -1,4 +1,4 @@
-> この記事は[MID](https://ja.wikipedia.org/wiki/MID)から翻訳されています。
+> この記事は[MID都市開発](https://ja.wikipedia.org/wiki/MID都市開発)から翻訳されています。
 
 
 **MID都市開発株式会社**（エムアイディとしかいはつ、*MID Urban Development Co., Ltd.*）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置いていた](../Page/北区_\(大阪市\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[不動産会社](../Page/不動産会社.md "wikilink")である。

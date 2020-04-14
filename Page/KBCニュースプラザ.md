@@ -1,4 +1,4 @@
-> この記事は[KBC](https://ja.wikipedia.org/wiki/KBC)から翻訳されています。
+> この記事は[KBCニュースプラザ](https://ja.wikipedia.org/wiki/KBCニュースプラザ)から翻訳されています。
 
 
 『**KBCニュースプラザ**』（ケイビーシーニュースプラザ）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBCテレビ）で[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方に放送されていた[福岡県](../Page/福岡県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

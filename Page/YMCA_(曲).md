@@ -1,4 +1,4 @@
-> この記事は[YMCA \(\)](https://ja.wikipedia.org/wiki/YMCA_\(\))から翻訳されています。
+> この記事は[YMCA \(曲\)](https://ja.wikipedia.org/wiki/YMCA_\(曲\))から翻訳されています。
 
 
 「**Y.M.C.A.**」とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ディスコ](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である[ヴィレッジ・ピープル](../Page/ヴィレッジ・ピープル.md "wikilink")（Village People）が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[カサブランカ・レコード](https://ja.wikipedia.org/wiki/カサブランカ・レコード "wikilink")からリリースした[ディスコソングの](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")[シングル](../Page/シングル.md "wikilink")。[作曲](../Page/作曲.md "wikilink")は[ジャック・モラリ](https://ja.wikipedia.org/wiki/ジャック・モラリ "wikilink")、[作詞](../Page/作詞.md "wikilink")は[アンリ・ベロロ](https://ja.wikipedia.org/wiki/アンリ・ベロロ "wikilink")と[ヴィクター・ウィリス](https://ja.wikipedia.org/wiki/ヴィクター・ウィリス "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Melody \(\)](https://ja.wikipedia.org/wiki/Melody_\(\))から翻訳されています。
+> この記事は[Melody \(アイドルグループ\)](https://ja.wikipedia.org/wiki/Melody_\(アイドルグループ\))から翻訳されています。
 
 
 **Melody**（メロディ）は、**[田中有紀美](../Page/田中有紀美.md "wikilink")**・**望月まゆ**・**若杉南**による3人組の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")デビュー、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")解散。メロディハート所属（[フォスターの前身](../Page/フォスター_\(芸能プロダクション\).md "wikilink")）。

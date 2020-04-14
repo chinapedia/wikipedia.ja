@@ -1,4 +1,4 @@
-> この記事は[Q \(\)](https://ja.wikipedia.org/wiki/Q_\(\))から翻訳されています。
+> この記事は[Q \(スタートレック\)](https://ja.wikipedia.org/wiki/Q_\(スタートレック\))から翻訳されています。
 
 
 **Q**は、SFテレビドラマ 『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズに登場する生命体またはその同類。『[新スタートレック](../Page/新スタートレック.md "wikilink")（以下 TNG）』や『[スタートレック:ヴォイジャー](../Page/スタートレック:ヴォイジャー.md "wikilink")（以下 VOY）』、『[スタートレック:ディープ・スペース・ナイン](../Page/スタートレック:ディープ・スペース・ナイン.md "wikilink")』に稀に登場する高次元[生命体](https://ja.wikipedia.org/wiki/生命体 "wikilink")。[ジョン・デ・ランシー他が演じた](https://ja.wikipedia.org/wiki/ジョン・デ・ランシー_\(俳優\) "wikilink")。日本語版での[声優](../Page/声優.md "wikilink")は[羽佐間道夫](../Page/羽佐間道夫.md "wikilink")など。

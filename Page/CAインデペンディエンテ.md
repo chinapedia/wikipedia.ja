@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAインデペンディエンテ](https://ja.wikipedia.org/wiki/CAインデペンディエンテ)から翻訳されています。
 
 
 **クラブ・アトレティコ・インデペンディエンテ** () は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の中東部、[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")の都市[アベジャネーダを本拠地とする](https://ja.wikipedia.org/wiki/アベジャネーダ_\(ブエノスアイレス州\) "wikilink")[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。中でも[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブが有名である。サッカーの他に、バスケットボール、チェス、フィールドホッケー、体操、武道、ローラースケート、水泳、テニス、バレーボール、ウォーターポロの競技チームも所有している\[1\]。

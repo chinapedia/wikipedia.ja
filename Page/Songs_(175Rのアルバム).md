@@ -1,4 +1,4 @@
-> この記事は[Songs \(175R\)](https://ja.wikipedia.org/wiki/Songs_\(175R\))から翻訳されています。
+> この記事は[Songs \(175Rのアルバム\)](https://ja.wikipedia.org/wiki/Songs_\(175Rのアルバム\))から翻訳されています。
 
 
 『**Songs**』（ソングス）は、[175R](../Page/175R.md "wikilink")のメジャー1枚目のオリジナルアルバム（通算2枚目）。

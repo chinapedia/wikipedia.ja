@@ -1,4 +1,4 @@
-> この記事は[ALWAYS ](https://ja.wikipedia.org/wiki/ALWAYS_)から翻訳されています。
+> この記事は[ALWAYS 三丁目の夕日](https://ja.wikipedia.org/wiki/ALWAYS_三丁目の夕日)から翻訳されています。
 
 
 『**ALWAYS 三丁目の夕日**』（オールウェイズ さんちょうめのゆうひ）は、[西岸良平](../Page/西岸良平.md "wikilink")の漫画『[三丁目の夕日](../Page/三丁目の夕日.md "wikilink")』を原作とした[2005年](../Page/2005年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")である。主演は[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")。[11月5日](../Page/11月5日.md "wikilink")公開。配給は[東宝](../Page/東宝.md "wikilink")。製作は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[読売新聞](../Page/読売新聞.md "wikilink")・[小学館](../Page/小学館.md "wikilink")・[電通](../Page/電通.md "wikilink")など（[製作委員会方式](../Page/製作委員会方式.md "wikilink")）。
@@ -415,7 +415,7 @@
   -
   -
   -
-[Category:ALWAYS_三丁目の夕日](https://ja.wikipedia.org/wiki/Category:ALWAYS_三丁目の夕日 "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:日本アカデミー賞最優秀作品賞](https://ja.wikipedia.org/wiki/Category:日本アカデミー賞最優秀作品賞 "wikilink")
+[Category:ALWAYS_三丁目の夕日](https://ja.wikipedia.org/wiki/Category:ALWAYS_三丁目の夕日 "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:日本アカデミー賞最優秀作品賞](https://ja.wikipedia.org/wiki/Category:日本アカデミー賞最優秀作品賞 "wikilink")
 
 1.
 2.  [2005年](../Page/2005年.md "wikilink")の映画公開当時、団塊の世代は昭和22年生れが57 - 58歳、昭和23年生れが56 - 57歳、昭和24年生れが55 - 56歳だった。

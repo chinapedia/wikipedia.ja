@@ -1,4 +1,4 @@
-> この記事は[4th!](https://ja.wikipedia.org/wiki/4th!)から翻訳されています。
+> この記事は[4th「いきまっしょい!」](https://ja.wikipedia.org/wiki/4th「いきまっしょい!」)から翻訳されています。
 
 
 『**4th「いきまっしょい\!」**』（フォース いきまっしょい\!）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の4枚目のアルバム。

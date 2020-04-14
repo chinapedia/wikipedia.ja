@@ -1,4 +1,4 @@
-> この記事は[Raised On Radio](https://ja.wikipedia.org/wiki/Raised_On_Radio)から翻訳されています。
+> この記事は[Raised On Radio〜時を駆けて](https://ja.wikipedia.org/wiki/Raised_On_Radio〜時を駆けて)から翻訳されています。
 
 
 『**Raised On Radio〜時を駆けて**』(**Raised On Radio**)は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発表された[ジャーニーの](../Page/ジャーニー_\(バンド\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。黄金期ジャーニーの最後のアルバムであり、本作をもってバンドは解散することになる。

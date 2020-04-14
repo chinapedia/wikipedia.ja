@@ -1,4 +1,4 @@
-> この記事は[VLC](https://ja.wikipedia.org/wiki/VLC)から翻訳されています。
+> この記事は[VLCメディアプレーヤー](https://ja.wikipedia.org/wiki/VLCメディアプレーヤー)から翻訳されています。
 
 
 **VLCメディアプレーヤー** (VLC media player, **V**ideo**L**AN **C**lient) は、[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")で動作する[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")である。非常に多くのメディアファイル用[コーデック](../Page/コーデック.md "wikilink")が内蔵されており、動画ファイルや音声ファイルなど多くのメディアファイルを再生、表示することができる。[GPL下で公開されている](../Page/GNU_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。
@@ -76,7 +76,7 @@ Windows、LinuxなどのプラットフォームでNPAPIプラグインを提供
   - メディア
     [DVD-Video](../Page/DVD-Video.md "wikilink")、[ビデオCD](../Page/ビデオCD.md "wikilink")、[スーパービデオCD](../Page/スーパービデオCD.md "wikilink")、[音楽CD](../Page/CD-DA.md "wikilink")、[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[FTP](../Page/File_Transfer_Protocol.md "wikilink")、[MMS](https://ja.wikipedia.org/wiki/MMS "wikilink")など
 
-<!-- end list -->
+また[AACS](https://ja.wikipedia.org/wiki/AACS "wikilink")が使用されていなければ[HD_DVD](../Page/HD_DVD.md "wikilink")も3.0以降で再生できるという\[1\]。
 
   - コンテナ形式
     [AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")([DMF](https://ja.wikipedia.org/wiki/DivX#DivX_Media_Format "wikilink"))、[ASF](../Page/Advanced_Systems_Format.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MOV](../Page/QuickTime.md "wikilink")、[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[OGM](../Page/Ogg_Media.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")([WebM](https://ja.wikipedia.org/wiki/WebM "wikilink"))、[WAV](../Page/WAV.md "wikilink")、[FLVなど](../Page/Flash_Video.md "wikilink")
@@ -133,6 +133,7 @@ Windows、LinuxなどのプラットフォームでNPAPIプラグインを提供
 ## 関連項目
 
   - [ソフトウェア特許](../Page/ソフトウェア特許.md "wikilink")
+  - [HD_DVD](../Page/HD_DVD.md "wikilink")
   - [オープンソースのメディアプレーヤー](https://ja.wikipedia.org/wiki/オープンソースのメディアプレーヤー "wikilink")
 
 ## 外部リンク
@@ -141,3 +142,5 @@ Windows、LinuxなどのプラットフォームでNPAPIプラグインを提供
   - [VLC Media Player Portable](https://portableapps.com/apps/music_video/vlc_portable) PortableApps.com Windows用
 
 [Category:メディアプレーヤーソフト](https://ja.wikipedia.org/wiki/Category:メディアプレーヤーソフト "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:DVD関連のソフト](https://ja.wikipedia.org/wiki/Category:DVD関連のソフト "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:Qtを使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:Qtを使用するソフトウェア "wikilink") [Category:2001年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2001年のソフトウェア "wikilink")
+
+1.  <https://av.watch.impress.co.jp/docs/news/1106943.html>

@@ -1,4 +1,4 @@
-> この記事は[NATO](https://ja.wikipedia.org/wiki/NATO)から翻訳されています。
+> この記事は[NATO陸軍士官の階級と徽章](https://ja.wikipedia.org/wiki/NATO陸軍士官の階級と徽章)から翻訳されています。
 
 
 [NATO](../Page/北大西洋条約機構.md "wikilink")（北大西洋条約機構）の全加盟国内での[階級](https://ja.wikipedia.org/wiki/階級 "wikilink")の対照表。

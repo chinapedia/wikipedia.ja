@@ -1,4 +1,4 @@
-> この記事は[BCL](https://ja.wikipedia.org/wiki/BCL)から翻訳されています。
+> この記事は[BCLワールドタムタム](https://ja.wikipedia.org/wiki/BCLワールドタムタム)から翻訳されています。
 
 
 『**BCLワールドタムタム**』（ビーシーエルワールドタムタム）は、[1975年](../Page/1975年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")まで[日本短波放送 → ラジオたんぱ](../Page/日経ラジオ社.md "wikilink")（現・[ラジオNIKKEI](../Page/日経ラジオ社.md "wikilink")）で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")\[1\]の一社提供。放送時間は毎週土曜 18:00 - 18:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

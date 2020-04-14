@@ -1,4 +1,4 @@
-> この記事は[F7U \(\)](https://ja.wikipedia.org/wiki/F7U_\(\))から翻訳されています。
+> この記事は[F7U \(航空機\)](https://ja.wikipedia.org/wiki/F7U_\(航空機\))から翻訳されています。
 
 
 **F7U カットラス**（Chance Vought F7U Cutlass）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[チャンス・ヴォート社製の](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。

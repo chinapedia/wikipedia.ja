@@ -1,4 +1,4 @@
-> この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
+> この記事は[MTVムービー・アワード](https://ja.wikipedia.org/wiki/MTVムービー・アワード)から翻訳されています。
 
 
 **MTVムービー\&TVアワード**（MTV Movie & TV Awards）は、[MTV](../Page/MTV.md "wikilink")主催の[映画賞](https://ja.wikipedia.org/wiki/映画賞 "wikilink")。最優秀悪役賞や最優秀キスシーン賞などユニークな賞が注目される[映画祭](../Page/映画祭.md "wikilink")である\[1\]。[1992年](../Page/1992年.md "wikilink")に設立され、毎年4月に開催されている。以前は6月に開催されていた。2013年までは[ユニバーサル・スタジオ・ハリウッド](../Page/ユニバーサル・スタジオ・ハリウッド.md "wikilink")の[ギブソン・アンフィシアター](https://ja.wikipedia.org/wiki/ギブソン・アンフィシアター "wikilink")で行われたが、同シアターの閉鎖により2014年からは[ノキア・シアターで開催されている](../Page/L.A.ライブ.md "wikilink")。一般の視聴者の投票によって決められる。毎年、その年にヒットした映画のパロディが披露される。またミュージシャンによるパフォーマンスもある。

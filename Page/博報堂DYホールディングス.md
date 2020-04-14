@@ -1,9 +1,7 @@
-> この記事は[DY](https://ja.wikipedia.org/wiki/DY)から翻訳されています。
+> この記事は[博報堂DYホールディングス](https://ja.wikipedia.org/wiki/博報堂DYホールディングス)から翻訳されています。
 
 
-**株式会社博報堂DYホールディングス**（はくほうどうディーワイホールディングス、Hakuhodo DY Holdings Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、[広告代理店](../Page/広告代理店.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")。
-
-国内[広告](../Page/広告.md "wikilink")業界2位の[広告代理店](../Page/広告代理店.md "wikilink")グループである。[2003年](../Page/2003年.md "wikilink")10月に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](../Page/大広.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")の3社の株式移転により設立、完全親会社となった。
+**株式会社博報堂DYホールディングス**（はくほうどうディーワイホールディングス、Hakuhodo DY Holdings Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[広告代理店](../Page/広告代理店.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")。国内[広告](../Page/広告.md "wikilink")業界2位の[広告代理店](../Page/広告代理店.md "wikilink")グループである。
 
 ## 歴史
 
@@ -26,14 +24,13 @@ AD+VENTUREを利用して、2014年に起業された会社を以下に挙げる
   - オールブルー
     日本のアイドルの最新動向を世界に発信する情報サイト「Tokyo Girls' Update」を運営する\[5\]。
 
-## 関連グループ企業
+## 主要グループ企業
 
   - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")（米[オムニコム・グループ傘下の](https://ja.wikipedia.org/wiki/:en:Omnicom_Group "wikilink")[TBWAと合弁会社を持つ](https://ja.wikipedia.org/wiki/:en:TBWA "wikilink")）
   - [大広](../Page/大広.md "wikilink")（米[インターパブリック・グループと業務提携](https://ja.wikipedia.org/wiki/:en:Interpublic "wikilink")）
   - [読売広告社](../Page/読売広告社.md "wikilink")
   - [D.A.コンソーシアムホールディングス](https://ja.wikipedia.org/wiki/D.A.コンソーシアムホールディングス "wikilink")
   - [博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")
-      - [博報堂DYミュージック&ピクチャーズ](../Page/博報堂DYミュージック&ピクチャーズ.md "wikilink")（旧東芝エンタテインメント）
 
 ## 出典・脚注
 

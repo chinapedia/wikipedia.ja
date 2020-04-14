@@ -1,4 +1,4 @@
-> この記事は[ THE NIGHT CLUB](https://ja.wikipedia.org/wiki/_THE_NIGHT_CLUB)から翻訳されています。
+> この記事は[匂艶 THE NIGHT CLUB](https://ja.wikipedia.org/wiki/匂艶_THE_NIGHT_CLUB)から翻訳されています。
 
 
 [Bar_StarDust2.jpg](https://ja.wikipedia.org/wiki/File:Bar_StarDust2.jpg "fig:Bar_StarDust2.jpg") 「**匂艶 THE NIGHT CLUB**」（にじいろ ザ・ナイト・クラブ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。
@@ -88,7 +88,7 @@
 
   - [匂艶 THE NIGHT CLUB](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5643&cd=VICL-36015&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink")
 
 1.  [第15回日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=15) 2016年6月18日閲覧。
 2.  [金爆・鬼龍院翔、及川光博に音楽的才能を認められる「やっぱり」](http://www.musicvoice.jp/news/20160428040101/) ミュージックヴォイス 2016年4月28日閲覧。

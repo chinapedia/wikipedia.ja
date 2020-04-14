@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レスター・シティFC](https://ja.wikipedia.org/wiki/レスター・シティFC)から翻訳されています。
 
 
 **レスター・シティ・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")中部・[レスターシャー](../Page/レスターシャー.md "wikilink")州[レスター](../Page/レスター.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/青.md "wikilink")。

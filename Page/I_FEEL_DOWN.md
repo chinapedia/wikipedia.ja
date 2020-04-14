@@ -28,4 +28,4 @@
   - [日本コロムビア](../Page/日本コロムビア.md "wikilink")
   - [PAMELAH](../Page/PAMELAH.md "wikilink")
 
-[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink")
+[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

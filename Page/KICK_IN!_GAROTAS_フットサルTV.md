@@ -1,4 +1,4 @@
-> この記事は[KICK IN! GAROTAS TV](https://ja.wikipedia.org/wiki/KICK_IN!_GAROTAS_TV)から翻訳されています。
+> この記事は[KICK IN! GAROTAS フットサルTV](https://ja.wikipedia.org/wiki/KICK_IN!_GAROTAS_フットサルTV)から翻訳されています。
 
 
 『'''KICK IN！ GAROTAS フットサルTV '''』（きっくいん がろったす　ふっとさる・ティー・ヴィー）は、[2005年](../Page/2005年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[BSフジ](../Page/BSフジ.md "wikilink")で放送されていた[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")のサポート番組である。

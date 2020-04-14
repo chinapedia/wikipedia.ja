@@ -1,4 +1,4 @@
-> この記事は[JXTG](https://ja.wikipedia.org/wiki/JXTG)から翻訳されています。
+> この記事は[JXTGエネルギー和歌山製油所](https://ja.wikipedia.org/wiki/JXTGエネルギー和歌山製油所)から翻訳されています。
 
 
 [JXTG_wakayama_petroleum_refinery.jpg](https://ja.wikipedia.org/wiki/File:JXTG_wakayama_petroleum_refinery.jpg "fig:JXTG_wakayama_petroleum_refinery.jpg")  **JXTGエネルギー和歌山製油所**（ジェイエックスティージーエネルギーわかやませいゆじょ）は、[和歌山県](../Page/和歌山県.md "wikilink")[有田市](https://ja.wikipedia.org/wiki/有田市 "wikilink")にある[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の[製油所である](../Page/石油精製.md "wikilink")。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")時代は**和歌山工場**という事業所だった。

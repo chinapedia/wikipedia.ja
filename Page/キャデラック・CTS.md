@@ -1,4 +1,4 @@
-> この記事は[CTS](https://ja.wikipedia.org/wiki/CTS)から翻訳されています。
+> この記事は[キャデラック・CTS](https://ja.wikipedia.org/wiki/キャデラック・CTS)から翻訳されています。
 
 
 **CTS (シーティーエス)**は、[GMが生産](../Page/ゼネラルモーターズ.md "wikilink")、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売している[自動車](../Page/自動車.md "wikilink")である。

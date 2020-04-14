@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[ブレンビーIF](https://ja.wikipedia.org/wiki/ブレンビーIF)から翻訳されています。
 
 
 **ブレンビーIF**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の東部、[デンマーク首都地域](https://ja.wikipedia.org/wiki/デンマーク首都地域 "wikilink")の都市に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。通称「ブレンビー」または「BIF」。日本語では**ブランビュー**や**ブロンビー**と表記されることもある。

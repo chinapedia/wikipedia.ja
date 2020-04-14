@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z団](https://ja.wikipedia.org/wiki/Z団)から翻訳されています。
 
 
 **Z団**（ゼットだん）とは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の音源をリミックスする目的のユニット。

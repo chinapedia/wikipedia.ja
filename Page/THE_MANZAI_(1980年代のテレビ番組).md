@@ -1,4 +1,4 @@
-> この記事は[THE MANZAI \(1980\)](https://ja.wikipedia.org/wiki/THE_MANZAI_\(1980\))から翻訳されています。
+> この記事は[THE MANZAI \(1980年代のテレビ番組\)](https://ja.wikipedia.org/wiki/THE_MANZAI_\(1980年代のテレビ番組\))から翻訳されています。
 
 
 『**THE MANZAI**』（ザ・マンザイ）とは、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [1982年](../Page/1982年.md "wikilink")に、[フジテレビ系列](../Page/フジネットワーク.md "wikilink")『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』内で単発[特別番組](../Page/特別番組.md "wikilink")として3か月に1回の割合で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である\[1\]。

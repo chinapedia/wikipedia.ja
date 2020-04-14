@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[マルダーII](https://ja.wikipedia.org/wiki/マルダーII)から翻訳されています。
 
 
 **マルダーII** （[独](../Page/ドイツ語.md "wikilink")： Marder II ）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が開発した対戦車[自走砲](../Page/自走砲.md "wikilink")である。[II号戦車](../Page/II号戦車.md "wikilink")がベースとなっており、7.62cmまたは7.5cm対戦車砲を搭載している。マルダーは「[テン](../Page/テン.md "wikilink")（貂）」の意味。[制式番号](../Page/特殊車輌番号.md "wikilink") Sd.Kfz.131および132。資料によって表記は**マーダー**もしくは**マルダー**となる。

@@ -1,4 +1,4 @@
-> この記事は[Aiba](https://ja.wikipedia.org/wiki/Aiba)から翻訳されています。
+> この記事は[Aiba札幌駅前](https://ja.wikipedia.org/wiki/Aiba札幌駅前)から翻訳されています。
 
 
 **Aiba札幌駅前**（あいばさっぽろえきまえ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区にある](../Page/中央区_\(札幌市\).md "wikilink")[ホッカイドウ競馬](https://ja.wikipedia.org/wiki/ホッカイドウ競馬 "wikilink")の[場外勝馬投票券発売所](../Page/場外勝馬投票券発売所.md "wikilink")である。

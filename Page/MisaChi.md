@@ -19,7 +19,7 @@
   - 2013年から宮崎県日南市のふるさと大使に任命され、2016年6月1日より日南市の特命大使として再抜擢を受け、観光スポットでのコンサート企画などPR活動も積極的に行っている。
   - 2016年6月13日老若男女、国、世代を超え発信していく日本のソウルソング、新しい民謡「NEO MINYOU」発売。幅広い年齢層に支持を得ている。
   - 2016年10月16日宮崎最大2万人規模野外フェス泉谷しげる氏主催「水平線の花火と音楽ファイナル」に出演。
-  - 環境、教育、エンターテイメントを軸に、パワースポットでのコンサート、全国LIVE、さらに海外へとたくさんの笑顔を広げる活動は益々広がっている...
+  - 2020年3月18日、ビクターエンタテインメントよりEP「NEO TRAD JAPAN」にて再メジャーデビュー。
 
 ★過去放送 TV
 
@@ -116,11 +116,10 @@ http://recochoku.jp/kmisachi/
 
 ## 外部リンク
 
-  - [MisaChi オフィシャルサイト](http://misachi-official.com/)
+  - 久嶋美さち Misachi Kyushima [Official Site](http://misachi-world.com/)
+  - 久嶋美さち Misachi Kyushima [Facebook](https://www.facebook.com/MisaChi.aotomi)
+  - 久嶋美さち Misachi Kyushima [Instagram](https://www.instagram.com/aotomisachi/)
+  - 久嶋美さち Misachi Kyushima [Twitter](https://twitter.com/misachi__k)
+  - 久嶋美さち Misachi Kyushima [YouTube](https://www.youtube.com/channel/UC3Zp9MuKJ6V_W-YLjL_Bbnw/featured)
 
-  - [オフィシャルブログ「\*MisaChi\*のひなたぼっこ」](http://ameblo.jp/aotomi/)
-
-  - [Litaの独り言](http://blog.livedoor.jp/lita0507/) 楽曲「リタの場合」のモチーフとなったブログ
-
-  -
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:過去のケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:過去のケイダッシュ系列所属者 "wikilink") [Category:ドリーミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:ドリーミュージックのアーティスト "wikilink") [Category:宮崎県立日南高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県立日南高等学校出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[  The Peace Plan to Save the World](https://ja.wikipedia.org/wiki/__The_Peace_Plan_to_Save_the_World)から翻訳されています。
+> この記事は[ナイトウィザード 魔法大戦 〜The Peace Plan to Save the World〜](https://ja.wikipedia.org/wiki/ナイトウィザード_魔法大戦_〜The_Peace_Plan_to_Save_the_World〜)から翻訳されています。
 
 
 『**ナイトウィザード 魔法大戦 〜The Peace Plan to Save the World〜**』（ナイトウィザード まほうたいせん ザ ピース プラン トゥ セーブ ザ ワールド）は、[2004年](../Page/2004年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[RUNEより発売された](../Page/ルーン_\(ゲーム会社\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフト。初回限定版は書きおろしパッケージオリジナルBOX仕様で、miniアルバム（OPフルコーラスVer収録）とキャラクターブックが付属する。

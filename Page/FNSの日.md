@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNSの日](https://ja.wikipedia.org/wiki/FNSの日)から翻訳されています。
 
 
 『**FNSの日**』（エフエヌエスのひ）\[1\] は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[フジネットワーク](../Page/フジネットワーク.md "wikilink")（FNS）系列各局（[テレビ大分](../Page/テレビ大分.md "wikilink")を除く）が、毎年1つのメインコンセプトテーマを掲げ、1987年から毎年総力を挙げて制作、[生放送](../Page/生放送.md "wikilink")されている[長時間特別](../Page/日本の長時間特別番組一覧.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
@@ -1442,7 +1442,7 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")（2017年）
   - [こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")（2017年）
   - [村上信五とスポーツの神様たち](https://ja.wikipedia.org/wiki/村上信五とスポーツの神様たち "wikilink")（2017年）
-  - [関ジャニ∞クロニクル](https://ja.wikipedia.org/wiki/関ジャニ∞クロニクル "wikilink")（2017年 - ）
+  - [関ジャニ∞クロニクル](https://ja.wikipedia.org/wiki/関ジャニ∞クロニクル "wikilink")（2017年 - 2019年）
   - [くいしん坊\!万才](../Page/くいしん坊!万才.md "wikilink")（2018年 - ）
   - [キャプテン翼](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")（2019年）
 

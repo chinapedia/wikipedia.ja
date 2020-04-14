@@ -1,4 +1,4 @@
-> この記事は[ROCK ENTERTAINMENT ](https://ja.wikipedia.org/wiki/ROCK_ENTERTAINMENT_)から翻訳されています。
+> この記事は[ROCK ENTERTAINMENT 高見沢俊彦のロックばん](https://ja.wikipedia.org/wiki/ROCK_ENTERTAINMENT_高見沢俊彦のロックばん)から翻訳されています。
 
 
 **ROCK ENTERTAINMENT 高見沢俊彦のロックばん**（ロックエンターテインメント たかみざわとしひこのろっくばん）は、[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から日本の[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキー局に[JRN系列局で放送されているラジオ番組である](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")。[THE ALFEEのリーダー](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")がミュージシャンとしての枠を捨てて「王子」としてのキャラクターを発揮しつつ「ロック」とは何かを考える内容となっている。

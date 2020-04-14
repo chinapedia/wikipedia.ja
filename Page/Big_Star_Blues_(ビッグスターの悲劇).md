@@ -1,4 +1,4 @@
-> この記事は[Big Star Blues \(\)](https://ja.wikipedia.org/wiki/Big_Star_Blues_\(\))から翻訳されています。
+> この記事は[Big Star Blues \(ビッグスターの悲劇\)](https://ja.wikipedia.org/wiki/Big_Star_Blues_\(ビッグスターの悲劇\))から翻訳されています。
 
 
 「**Big Star Blues (ビッグスターの悲劇)**」（ビッグ・スター・ブルース ビッグスターのひげき）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。

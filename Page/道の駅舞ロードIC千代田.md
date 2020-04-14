@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[道の駅舞ロードIC千代田](https://ja.wikipedia.org/wiki/道の駅舞ロードIC千代田)から翻訳されています。
 
 
 **道の駅舞ロードIC千代田**（みちのえき まいロードインターちよだ）は、[広島県](../Page/広島県.md "wikilink")[山県郡](../Page/山県郡.md "wikilink")[北広島町](../Page/北広島町.md "wikilink")にある[広島県道5号浜田八重可部線](https://ja.wikipedia.org/wiki/広島県道5号浜田八重可部線 "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。[中国自動車道](../Page/中国自動車道.md "wikilink")[千代田ICが隣接する](../Page/千代田インターチェンジ.md "wikilink")。

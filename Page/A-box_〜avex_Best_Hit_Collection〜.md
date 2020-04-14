@@ -1,4 +1,4 @@
-> この記事は[A-box avex Best Hit Collection](https://ja.wikipedia.org/wiki/A-box_avex_Best_Hit_Collection)から翻訳されています。
+> この記事は[A-box 〜avex Best Hit Collection〜](https://ja.wikipedia.org/wiki/A-box_〜avex_Best_Hit_Collection〜)から翻訳されています。
 
 
 『**a-box 〜avex Best Hit Collection〜**』（エイボックス エイベックス・ベスト・ヒット・コレクション）は、[avex clubから発売されたオリジナル](https://ja.wikipedia.org/wiki/avex_club "wikilink")・[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")アルバムである。
@@ -516,7 +516,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CANDY_GIRL" title="wikilink">CANDY GIRL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CANDY_GIRL_(hitomiの曲)" title="wikilink">CANDY GIRL</a></p></td>
 <td><p>hitomi</p></td>
 <td><p>1995年4月21日</p></td>
 <td><p><a href="../Page/コダック.md" title="wikilink">kodak</a>「スナップ・キッズEX」CMソング</p></td>

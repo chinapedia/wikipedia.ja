@@ -1,4 +1,4 @@
-> この記事は[YES \(Ricken\'s\)](https://ja.wikipedia.org/wiki/YES_\(Ricken\'s\))から翻訳されています。
+> この記事は[YES \(Ricken\'sのアルバム\)](https://ja.wikipedia.org/wiki/YES_\(Ricken\'sのアルバム\))から翻訳されています。
 
 
 『**YES**』（イエス）は[Ricken's](../Page/Ricken's.md "wikilink")の2枚目のアルバム。

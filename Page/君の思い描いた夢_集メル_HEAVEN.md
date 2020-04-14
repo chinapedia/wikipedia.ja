@@ -1,4 +1,4 @@
-> この記事は[  HEAVEN](https://ja.wikipedia.org/wiki/__HEAVEN)から翻訳されています。
+> この記事は[君の思い描いた夢 集メル HEAVEN](https://ja.wikipedia.org/wiki/君の思い描いた夢_集メル_HEAVEN)から翻訳されています。
 
 
 『**君の思い描いた夢 集メル HEAVEN**』（きみのおもいえがいたゆめ あつメル ヘブン）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に発売された。

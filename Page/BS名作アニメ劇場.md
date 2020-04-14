@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS名作アニメ劇場](https://ja.wikipedia.org/wiki/BS名作アニメ劇場)から翻訳されています。
 
 
 『**BS名作アニメ劇場**』（ビーエスめいさくアニメげきじょう）は、[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2）で放送された[アニメ](../Page/アニメ.md "wikilink")番組枠である。愛称は「**母と子の名作アニメ劇場**」である。[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")まで放映されていた。

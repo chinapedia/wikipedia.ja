@@ -1,4 +1,4 @@
-> この記事は[ \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/_\(ORANGE_RANGE\))から翻訳されています。
+> この記事は[花 \(ORANGE RANGEの曲\)](https://ja.wikipedia.org/wiki/花_\(ORANGE_RANGEの曲\))から翻訳されています。
 
 
 「**花**」（はな）は、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")（平成16年）[10月20日](../Page/10月20日.md "wikilink")に[gr8\! recordsから発売された](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[HEAT --](https://ja.wikipedia.org/wiki/HEAT_--)から翻訳されています。
+> この記事は[HEAT -灼熱-](https://ja.wikipedia.org/wiki/HEAT_-灼熱-)から翻訳されています。
 
 
 『**HEAT-灼熱-**』（ヒート しゃくねつ）は、[武論尊](../Page/武論尊.md "wikilink")原作、[池上遼一](../Page/池上遼一.md "wikilink")作画の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されていた。単行本は全17巻（小学館ビッグコミックス）。[2004年](../Page/2004年.md "wikilink")2月に映画化された。第47回（平成13年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")受賞。

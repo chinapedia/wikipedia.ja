@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[三國志II](https://ja.wikipedia.org/wiki/三國志II)から翻訳されています。
 
 
 『**三國志II**』（さんごくし・ツー）は、1989年に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第2作。前作の基本的なシステムは引き継ぎつつ、新たな工夫が施されている。音楽は[向谷実](../Page/向谷実.md "wikilink")が担当\[1\]。

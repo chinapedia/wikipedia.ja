@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[あぶない少年III](https://ja.wikipedia.org/wiki/あぶない少年III)から翻訳されています。
 
 
 『**あぶない少年III**』（あぶないしょうねんスリー）は、[1988年](../Page/1988年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列局で放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[オフィス・ヘンミ](https://ja.wikipedia.org/wiki/オフィス・ヘンミ "wikilink")の共同製作。全23話。放送時間は毎週[水曜](../Page/水曜日.md "wikilink") 19:00 - 19:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

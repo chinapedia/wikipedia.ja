@@ -1,4 +1,4 @@
-> この記事は[ O-Live](https://ja.wikipedia.org/wiki/_O-Live)から翻訳されています。
+> この記事は[奥井雅美 O-Live](https://ja.wikipedia.org/wiki/奥井雅美_O-Live)から翻訳されています。
 
 
 **奥井雅美 O-Live**（おくいまさみ・オーライヴ）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")製作のアニメソング番組である。[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からラジオ関西と[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")にネットワークして放送を開始。[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")でRFでのネット受けが終了し、代って同10月から[文化放送](../Page/文化放送.md "wikilink")へのネット受けが開始された。[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")を持って終了。

@@ -1,4 +1,4 @@
-> この記事は[REV \(\)](https://ja.wikipedia.org/wiki/REV_\(\))から翻訳されています。
+> この記事は[REV \(記憶媒体\)](https://ja.wikipedia.org/wiki/REV_\(記憶媒体\))から翻訳されています。
 
 
 **REV**（レブ）とは、[2003年](../Page/2003年.md "wikilink")に[アイオメガ](../Page/アイオメガ.md "wikilink")社が[Jaz](https://ja.wikipedia.org/wiki/Jaz "wikilink")の後継として発表した[リムーバブルハードディスク](https://ja.wikipedia.org/wiki/ハードディスクドライブ#リムーバブルハードディスク "wikilink")。同社のRemovable Rigid Disk（RRD）に基づいた技術を利用している。

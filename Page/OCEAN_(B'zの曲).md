@@ -1,13 +1,13 @@
-> この記事は[OCEAN \(B\'z\)](https://ja.wikipedia.org/wiki/OCEAN_\(B\'z\))から翻訳されています。
+> この記事は[OCEAN \(B\'zの曲\)](https://ja.wikipedia.org/wiki/OCEAN_\(B\'zの曲\))から翻訳されています。
 
 
-『**OCEAN**』（オーシャン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の39作目の[シングル](../Page/シングル.md "wikilink")。
+「**OCEAN**」（オーシャン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")39作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 「[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")」ツアー中に発売されたシングルで、「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」以来5年ぶりとなる、[テレビドラマ](../Page/テレビドラマ.md "wikilink")への書き下ろし楽曲。
 
-ドラマの[タイアップ](../Page/タイアップ.md "wikilink")効果もあり、16thシングル「[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")」以来、10年ぶりにオリコン週間チャート6週連続10位以内チャートイン。[2005年](../Page/2005年.md "wikilink")の年間チャートでも7位と「今夜月の見える丘に」以来5年ぶりに年間トップ10入りした。シングルとしては「[熱き鼓動の果て](../Page/熱き鼓動の果て.md "wikilink")」以来3年ぶりに累計売上が50万枚を突破した\[1\]。
+ドラマの[タイアップ](../Page/タイアップ.md "wikilink")効果もあり、16thシングル『[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")』以来、10年ぶりにオリコン週間チャート6週連続10位以内チャートイン。[2005年](../Page/2005年.md "wikilink")の年間チャートでも7位と『今夜月の見える丘に』以来5年ぶりに年間トップ10入りした。シングルとしては『[熱き鼓動の果て](../Page/熱き鼓動の果て.md "wikilink")』以来3年ぶりに累計売上が50万枚を突破した\[1\]。
 
 今作から[2nd beatもオフィシャルサイトで試聴できるようになった](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")。
 
@@ -82,7 +82,7 @@
   - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [みずほ型巡視船](https://ja.wikipedia.org/wiki/みずほ型巡視船 "wikilink")
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.
 2.

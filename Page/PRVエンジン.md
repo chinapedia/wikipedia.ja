@@ -1,4 +1,4 @@
-> この記事は[PRV](https://ja.wikipedia.org/wiki/PRV)から翻訳されています。
+> この記事は[PRVエンジン](https://ja.wikipedia.org/wiki/PRVエンジン)から翻訳されています。
 
 
 **PRVエンジン**は、[プジョー](../Page/プジョー.md "wikilink")、[ルノー](../Page/ルノー.md "wikilink")、[ボルボ](https://ja.wikipedia.org/wiki/ボルボ "wikilink")により共同開発された自動車用のガソリン[V型6気筒](../Page/V型6気筒.md "wikilink")エンジンである。[1974年](../Page/1974年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで販売された。[PSAグループは](https://ja.wikipedia.org/wiki/PSA・プジョーシトロエン "wikilink")[1994年](../Page/1994年.md "wikilink")から[PSA・ESエンジン](https://ja.wikipedia.org/wiki/PSA・ESエンジン "wikilink")に置き換えていった。

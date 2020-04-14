@@ -1,4 +1,4 @@
-> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+> この記事は[ネオプラネットXX](https://ja.wikipedia.org/wiki/ネオプラネットXX)から翻訳されています。
 
 
 **ネオプラネットXX（NEO PLANETT XX）**とは、[2002年](../Page/2002年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。

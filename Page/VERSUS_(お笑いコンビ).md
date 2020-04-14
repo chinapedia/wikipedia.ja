@@ -1,4 +1,4 @@
-> この記事は[VERSUS \(\)](https://ja.wikipedia.org/wiki/VERSUS_\(\))から翻訳されています。
+> この記事は[VERSUS \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/VERSUS_\(お笑いコンビ\))から翻訳されています。
 
 
 **VERSUS**（ばーさす）は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代に活躍した[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")で、女性[漫才](../Page/漫才.md "wikilink")コンビ。[太田プロダクション](../Page/太田プロダクション.md "wikilink")に所属していた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月に結成。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[フランク・J・フレッチャー](https://ja.wikipedia.org/wiki/フランク・J・フレッチャー)から翻訳されています。
 
 
 **フランク・ジャック・フレッチャー**（**Frank Jack Fletcher**, [1885年](../Page/1885年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。最終階級は[大将](../Page/大将.md "wikilink")。[フランク・F・フレッチャー](../Page/フランク・F・フレッチャー.md "wikilink")提督は叔父にあたる。由来は定かではないが、「[ブラックジャック](../Page/ブラックジャック.md "wikilink")」というあだ名があった。

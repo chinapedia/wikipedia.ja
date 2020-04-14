@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCノアシェラン](https://ja.wikipedia.org/wiki/FCノアシェラン)から翻訳されています。
 
 
 **FCノアシェラン**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の東部、[デンマーク首都地域](https://ja.wikipedia.org/wiki/デンマーク首都地域 "wikilink")の都市に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[POP!](https://ja.wikipedia.org/wiki/POP!)から翻訳されています。
+> この記事は[デジガールPOP!](https://ja.wikipedia.org/wiki/デジガールPOP!)から翻訳されています。
 
 
 『**デジガールPOP\!**』（デジガールポップ、**DigiGirl**）は、[山田太ろう](https://ja.wikipedia.org/wiki/山田太ろう "wikilink")監督の2003年制作のテレビ[アニメ](../Page/アニメ.md "wikilink")である。人間の世界に降り立った人型少女ロボットと人間との交流と楽しい生活を描いたドラマである。副題は『STRAWBERRY & POP MIX FLAVOR』。全26話。

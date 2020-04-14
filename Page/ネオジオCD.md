@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ネオジオCD](https://ja.wikipedia.org/wiki/ネオジオCD)から翻訳されています。
 
 
 **ネオジオCD**（*NEOGEO CD*）は、[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[1994年](../Page/1994年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")に発売した[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。**NGCD**と略記される。対応ゲームソフトは、初回版・通常版両方込みで99本が発売された。標準価格は49,800円（税別）。

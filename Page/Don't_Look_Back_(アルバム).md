@@ -1,4 +1,4 @@
-> この記事は[Don\'t Look Back \(\)](https://ja.wikipedia.org/wiki/Don\'t_Look_Back_\(\))から翻訳されています。
+> この記事は[Don\'t Look Back \(アルバム\)](https://ja.wikipedia.org/wiki/Don\'t_Look_Back_\(アルバム\))から翻訳されています。
 
 
 『**Don't Look Back**』（ドント・ルック・バック）は、[川島だりあ](../Page/川島だりあ.md "wikilink")の2枚目のアルバム。収録曲のうち表題曲を含む2曲を、先行して同名のシングルとしてリリースしている。本記事ではアルバムとシングルの双方について記述する。

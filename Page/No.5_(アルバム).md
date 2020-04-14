@@ -1,4 +1,4 @@
-> この記事は[No.5 \(\)](https://ja.wikipedia.org/wiki/No.5_\(\))から翻訳されています。
+> この記事は[No.5 \(アルバム\)](https://ja.wikipedia.org/wiki/No.5_\(アルバム\))から翻訳されています。
 
 
 『**No.5**』（ナンバーファイブ）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の5枚目のアルバム。

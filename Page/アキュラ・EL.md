@@ -1,4 +1,4 @@
-> この記事は[EL](https://ja.wikipedia.org/wiki/EL)から翻訳されています。
+> この記事は[アキュラ・EL](https://ja.wikipedia.org/wiki/アキュラ・EL)から翻訳されています。
 
 
 **EL**（イーエル）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の小型[乗用車](../Page/乗用車.md "wikilink")である。

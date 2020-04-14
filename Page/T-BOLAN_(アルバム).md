@@ -1,4 +1,4 @@
-> この記事は[T-BOLAN \(\)](https://ja.wikipedia.org/wiki/T-BOLAN_\(\))から翻訳されています。
+> この記事は[T-BOLAN \(アルバム\)](https://ja.wikipedia.org/wiki/T-BOLAN_\(アルバム\))から翻訳されています。
 
 
 『**T-BOLAN**』（ティーボラン）は、[1991年](../Page/1991年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink") に[ROCK IT RECORDSから発売された](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")[T-BOLAN](../Page/T-BOLAN.md "wikilink")の1stアルバム。（[規格品番](../Page/規格品番.md "wikilink")はROCL-6001）

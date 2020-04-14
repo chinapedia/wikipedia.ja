@@ -1,4 +1,4 @@
-> この記事は[ \(NO NO BIRDY\)](https://ja.wikipedia.org/wiki/_\(NO_NO_BIRDY\))から翻訳されています。
+> この記事は[素敵なバーディー \(NO NO BIRDY\)](https://ja.wikipedia.org/wiki/素敵なバーディー_\(NO_NO_BIRDY\))から翻訳されています。
 
 
 「**素敵なバーディー (NO NO BIRDY)**」（すてきなバーディー ノー・ノー・バーディー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[アンバランスなKissをして](https://ja.wikipedia.org/wiki/アンバランスなKissをして)から翻訳されています。
 
 
 「**アンバランスなKissをして**」（アンバランスなキスをして）は、[高橋ひろ](../Page/高橋ひろ.md "wikilink")の2枚目のシングル。

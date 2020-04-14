@@ -1,4 +1,4 @@
-> この記事は[USA LOVE MIRAGE ](https://ja.wikipedia.org/wiki/USA_LOVE_MIRAGE_)から翻訳されています。
+> この記事は[USA LOVE MIRAGE アメリカ音楽地図](https://ja.wikipedia.org/wiki/USA_LOVE_MIRAGE_アメリカ音楽地図)から翻訳されています。
 
 
 『**USA LOVE MIRAGE アメリカ音楽地図**』（ユーエスエイ・ラブ・ミラージュ アメリカおんがくちず）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代に放送されていた[FM東京](../Page/エフエム東京.md "wikilink")（現・TOKYO FM）の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -20,7 +20,7 @@
   - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
   - [FM静岡](../Page/静岡エフエム放送.md "wikilink")（現・K-MIX）
   - [FM愛知](../Page/エフエム愛知.md "wikilink")（現・FM AICHI）
-  - [FM大阪](../Page/エフエム大阪.md "wikilink")（現・FM OSAKA）
+  - [FM大阪](../Page/エフエム大阪.md "wikilink")（現・FM OH\!）
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
   - [広島FM](../Page/広島エフエム放送.md "wikilink")
   - [FM愛媛](../Page/エフエム愛媛.md "wikilink")
@@ -33,6 +33,6 @@
 
 <!-- end list -->
 
-  - このように、当時[JFN系列局が少なかったこともあり](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")、一部の地域では[民放](../Page/民間放送.md "wikilink")[AMラジオ局が](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[番組販売](../Page/番組販売.md "wikilink")で放送した。
+  - このように、当時[JFN系列局が少なかったこともあり](../Page/全国FM放送協議会.md "wikilink")、一部の地域では[民放](../Page/民間放送.md "wikilink")[AMラジオ局が](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[番組販売](../Page/番組販売.md "wikilink")で放送した。
 
 [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:三菱自動車工業一社提供番組](https://ja.wikipedia.org/wiki/Category:三菱自動車工業一社提供番組 "wikilink") [Category:アメリカ合衆国の文化](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の文化 "wikilink") [Category:アメリカ合衆国の音楽](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の音楽 "wikilink")

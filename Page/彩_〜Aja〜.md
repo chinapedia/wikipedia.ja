@@ -1,4 +1,4 @@
-> この記事は[ Aja](https://ja.wikipedia.org/wiki/_Aja)から翻訳されています。
+> この記事は[彩 〜Aja〜](https://ja.wikipedia.org/wiki/彩_〜Aja〜)から翻訳されています。
 
 
 「**彩 〜Aja〜**」（あや）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の48枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
@@ -123,7 +123,7 @@
   - [彩 〜Aja〜](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=2933&cd=VICL-35650&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
   - [彩 〜Aja〜](http://www.sas-fan.net/Aja/) - 特設サイト
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:JALグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JALグループのコマーシャルソング "wikilink") [Category:春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:春を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:JALグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JALグループのコマーシャルソング "wikilink") [Category:春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:春を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:2004年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:2004年のスプリット・シングル "wikilink")
 
 1.  [「彩 〜Aja〜」特設サイト](http://mobile.sas-fan.net/special/Aja/detail.html) sas-fan.net 2018年11月23日閲覧
 2.  [ミュージックステーション 2004年11月26日放送](http://www.tv-asahi.co.jp/music/contents/m_lineup/0780/index.html) 2015年8月7日閲覧

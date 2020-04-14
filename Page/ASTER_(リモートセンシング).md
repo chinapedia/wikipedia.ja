@@ -1,4 +1,4 @@
-> この記事は[ASTER \(\)](https://ja.wikipedia.org/wiki/ASTER_\(\))から翻訳されています。
+> この記事は[ASTER \(リモートセンシング\)](https://ja.wikipedia.org/wiki/ASTER_\(リモートセンシング\))から翻訳されています。
 
 
 **ASTER** (ASTER/アスター，**Advanced Spaceborne Thermal Emission and Reflection Radiometer**) は、[EOS計画](https://ja.wikipedia.org/wiki/EOS計画 "wikilink")の一環として1999年に打ち上げられた[NASAの地球観測衛星](../Page/アメリカ航空宇宙局.md "wikilink")「[テラ](../Page/テラ_\(人工衛星\).md "wikilink")」に搭載されている光学センサである。ASTERを活用したプロジェクトは、資源探査をも視野に入れた地形・地質の解析、[植生](../Page/植生.md "wikilink")の分布調査、地表温度と大気の相関研究、火山噴火のモニタリング、雲のタイプ分類、サンゴ礁の役割研究などを目的としている。NASAの協力の下、[通商産業省が所管していた](../Page/経済産業省.md "wikilink")[資源探査用観測システム研究開発機構（JAROS）と](https://ja.wikipedia.org/wiki/宇宙システム開発利用推進機構 "wikilink")[資源・環境観測解析センタ―（ERSDAC）が開発した](https://ja.wikipedia.org/wiki/宇宙システム開発利用推進機構 "wikilink")。JAROSとERSDACの合併により、2012年からは一般財団法人[宇宙システム開発利用推進機構](https://ja.wikipedia.org/wiki/宇宙システム開発利用推進機構 "wikilink")が継承している。

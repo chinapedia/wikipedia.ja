@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[猛獣王S](https://ja.wikipedia.org/wiki/猛獣王S)から翻訳されています。
 
 
 **猛獣王S**（モウジュウオウS）は、[2002年](../Page/2002年.md "wikilink")に[サミー](../Page/サミー.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である。

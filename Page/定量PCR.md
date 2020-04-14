@@ -1,4 +1,4 @@
-> この記事は[PCR](https://ja.wikipedia.org/wiki/PCR)から翻訳されています。
+> この記事は[定量PCR](https://ja.wikipedia.org/wiki/定量PCR)から翻訳されています。
 
 
 **定量PCR**（ていりょうピーシーアール、）は、その産物を迅速に定量できる[ポリメラーゼ連鎖反応](../Page/ポリメラーゼ連鎖反応.md "wikilink") (PCR) の改良型である。これは [DNA](../Page/デオキシリボ核酸.md "wikilink")、[cDNA](../Page/相補的DNA.md "wikilink") または [RNA](../Page/リボ核酸.md "wikilink") の増幅が行われる前の総量を間接的に測る方法である。そして通常は目的の遺伝子配列が存在するかどうか、何コピー存在するのかを確かめる目的で利用される。3種類の方法があり、これらは難易度と詳細が異なる。他の PCR 同様、DNA試料は [DNAポリメラーゼ](../Page/DNAポリメラーゼ.md "wikilink")と温度変化によって増幅される。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[志村X](https://ja.wikipedia.org/wiki/志村X)から翻訳されています。
 
 
 『**Shimura-X**』（しむらエックス）は、[1996年](../Page/1996年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")まで[フジテレビ系列で毎週水曜深夜に放送されていた](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[イザワオフィス](../Page/イザワオフィス.md "wikilink")制作。

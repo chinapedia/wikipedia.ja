@@ -1,4 +1,4 @@
-> この記事は[ECM](https://ja.wikipedia.org/wiki/ECM)から翻訳されています。
+> この記事は[ECMレコード](https://ja.wikipedia.org/wiki/ECMレコード)から翻訳されています。
 
 
 **ECMレコード**（、**ECM Records**）は、1969年、[西ドイツ](../Page/西ドイツ.md "wikilink")（当時）[ミュンヘン](../Page/ミュンヘン.md "wikilink")に[マンフレート・アイヒャー](https://ja.wikipedia.org/wiki/マンフレート・アイヒャー "wikilink")によって設立された[レコード会社](../Page/レコード会社.md "wikilink")。主要な配給元は[ユニバーサル ミュージック グループである](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")。
@@ -91,6 +91,7 @@
   - [ヨン・バルケ](https://ja.wikipedia.org/wiki/ヨン・バルケ "wikilink")
   - [ラビ・アブ＝カリル](https://ja.wikipedia.org/wiki/ラビ・アブ＝カリル "wikilink")
   - [ラルフ・タウナー](https://ja.wikipedia.org/wiki/ラルフ・タウナー "wikilink")
+  - [アニャ・レヒナー](../Page/アニャ・レヒナー.md "wikilink")
 
 ### ECM New Series
 

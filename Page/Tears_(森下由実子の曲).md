@@ -1,4 +1,4 @@
-> この記事は[Tears \(\)](https://ja.wikipedia.org/wiki/Tears_\(\))から翻訳されています。
+> この記事は[Tears \(森下由実子の曲\)](https://ja.wikipedia.org/wiki/Tears_\(森下由実子の曲\))から翻訳されています。
 
 
 「**Tears**」（ティアーズ）は、[森下由実子](https://ja.wikipedia.org/wiki/森下由実子 "wikilink")の楽曲で、「遠藤由美子」から改名後1枚目のシングル。[1993年](../Page/1993年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")に[ZAIN RECORDSから発売](../Page/ZAIN_RECORDS.md "wikilink")。

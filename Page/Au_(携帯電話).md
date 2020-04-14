@@ -1,4 +1,4 @@
-> この記事は[Au \(\)](https://ja.wikipedia.org/wiki/Au_\(\))から翻訳されています。
+> この記事は[Au \(携帯電話\)](https://ja.wikipedia.org/wiki/Au_\(携帯電話\))から翻訳されています。
 
 
 **au**（エーユー）は、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")のサービス[ブランド](../Page/ブランド.md "wikilink")名で、[携帯電話](../Page/携帯電話.md "wikilink")を含む[移動体通信](../Page/移動体通信.md "wikilink")事業、ならびにKDDIの提供する[コンシューマー](https://ja.wikipedia.org/wiki/コンシューマー "wikilink")（個人）向け・ビジネスソリューション（法人）向け[ITサービス](https://ja.wikipedia.org/wiki/ITサービス "wikilink")事業を行っている。

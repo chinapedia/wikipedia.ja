@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[聖戦記エルナサーガII](https://ja.wikipedia.org/wiki/聖戦記エルナサーガII)から翻訳されています。
 
 
 『**聖戦記エルナサーガII**』（せいせんきエルナサーガ2）は、[堤抄子](../Page/堤抄子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[聖戦記エルナサーガ](https://ja.wikipedia.org/wiki/聖戦記エルナサーガ "wikilink")』の続編に当たる。

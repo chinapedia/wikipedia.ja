@@ -1,4 +1,4 @@
-> この記事は[Windows ](https://ja.wikipedia.org/wiki/Windows_)から翻訳されています。
+> この記事は[Windows ムービーメーカー](https://ja.wikipedia.org/wiki/Windows_ムービーメーカー)から翻訳されています。
 
 
 **Windowsムービーメーカー** (Windows Movie Maker) は、かつて、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発していた[ビデオの製作・編集に使用するソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")。

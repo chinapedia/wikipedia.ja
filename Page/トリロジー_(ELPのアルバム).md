@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[トリロジー \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/トリロジー_\(ELPのアルバム\))から翻訳されています。
 
 
 『**トリロジー**』 (Trilogy) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")において[1972年](../Page/1972年.md "wikilink")6月に発売された[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

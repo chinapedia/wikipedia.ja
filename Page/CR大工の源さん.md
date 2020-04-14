@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR大工の源さん](https://ja.wikipedia.org/wiki/CR大工の源さん)から翻訳されています。
 
 
 **CR大工の源さん**（シーアールだいくのげんさん）は、[1996年](../Page/1996年.md "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CTI](https://ja.wikipedia.org/wiki/CTI)から翻訳されています。
+> この記事は[CTIレコード](https://ja.wikipedia.org/wiki/CTIレコード)から翻訳されています。
 
 
 **CTIレコード**(CTI Records)は1967年、プロデューサーの[クリード・テイラー](https://ja.wikipedia.org/wiki/クリード・テイラー "wikilink")によって創設された[ジャズ](../Page/ジャズ.md "wikilink")・レコードレーベル。 ここでは殆どすべてのアルバムがテイラーに依ってプロデュースされている。また大部分のレコーディングは[ルディ・ヴァン・ゲルダー](../Page/ルディ・ヴァン・ゲルダー.md "wikilink")が行った。 テイラーのコンセプトはジャズの大衆化であり、題材としてクラシック曲や、同時代のソウル・ミュージックも積極的に採り入れジャズにアレンジした。 その成果としてCTIは[クロスオーバー](../Page/クロスオーバー_\(音楽\).md "wikilink")（[フュージョンの前身](../Page/フュージョン_\(音楽\).md "wikilink")）のブームに先鞭をつけた。 代表的なハウスアレンジャーは[クラウス・オガーマン](https://ja.wikipedia.org/wiki/クラウス・オガーマン "wikilink")、[ドン・セベスキー](https://ja.wikipedia.org/wiki/ドン・セベスキー "wikilink")、[ボブ・ジェームス](../Page/ボブ・ジェームス.md "wikilink")、[デイヴィッド・マシューズ](https://ja.wikipedia.org/wiki/デイヴィッド・マシューズ "wikilink")など。

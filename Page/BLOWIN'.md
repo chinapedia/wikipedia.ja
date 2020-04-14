@@ -1,7 +1,7 @@
 > この記事は[BLOWIN\'](https://ja.wikipedia.org/wiki/BLOWIN\')から翻訳されています。
 
 
-「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の10作目の[シングル](../Page/シングル.md "wikilink")。
+「**BLOWIN**'」(ブローウィン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1992年](../Page/1992年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")10作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 
@@ -20,7 +20,7 @@
         デジタルビートとギターロックが融合された[ナンバーで](https://ja.wikipedia.org/wiki/楽曲 "wikilink")、ツアー中に制作された曲である。
         [サビ](../Page/サビ.md "wikilink")に入る直前に[飛行機](../Page/飛行機.md "wikilink")のジェット音のような音が入っているが、これは[シンセサイザー](../Page/シンセサイザー.md "wikilink")の音を逆回転させたもの\[4\]。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の投票では2位を、「"[B'z LIVE-GYM The Final Pleasure](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")"で聴きたい1曲」の投票では1位を獲得した。
-        ライブの定番曲であり、演奏されるときはラストサビがアレンジされ[アウトロ](../Page/アウトロ.md "wikilink")で「BLOWIN' IN THE WIND」と掛け合いをするのが定番になっている。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にはそのライブアレンジに近い形で再録されている。
+        ライブの定番曲であり、演奏されるときはラストサビがアレンジされ、[アウトロ](../Page/アウトロ.md "wikilink")で「BLOWIN' IN THE WIND」と掛け合いをするのが定番になっている。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』にはそのライブアレンジに近い形で再録されている。
         [オリジナル・アルバムには未収録となり](../Page/スタジオ・アルバム.md "wikilink")、ベスト・アルバムにのみ収録されている。
 2.  **TIME** (4:56)
       -

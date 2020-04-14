@@ -1,4 +1,4 @@
-> この記事は[NBT](https://ja.wikipedia.org/wiki/NBT)から翻訳されています。
+> この記事は[NBTバンク・スタジアム](https://ja.wikipedia.org/wiki/NBTバンク・スタジアム)から翻訳されています。
 
 
 **NBTバンク・スタジアム**（*NBT Bank Stadium*）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[シラキュースにある野球場](../Page/シラキュース_\(ニューヨーク州\).md "wikilink")。[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ.md "wikilink")傘下AAA[シラキュース・チーフス](https://ja.wikipedia.org/wiki/シラキュース・チーフス "wikilink")の本拠地である。

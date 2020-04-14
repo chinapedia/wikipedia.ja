@@ -1,4 +1,4 @@
-> この記事は[WHO \(\)](https://ja.wikipedia.org/wiki/WHO_\(\))から翻訳されています。
+> この記事は[WHO \(アルバム\)](https://ja.wikipedia.org/wiki/WHO_\(アルバム\))から翻訳されています。
 
 
 『**WHO**』（フー）は[Ricken's](../Page/Ricken's.md "wikilink")の1stアルバム。

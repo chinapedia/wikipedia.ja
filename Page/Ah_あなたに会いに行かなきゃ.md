@@ -1,4 +1,4 @@
-> この記事は[Ah ](https://ja.wikipedia.org/wiki/Ah_)から翻訳されています。
+> この記事は[Ah あなたに会いに行かなきゃ](https://ja.wikipedia.org/wiki/Ah_あなたに会いに行かなきゃ)から翻訳されています。
 
 
 「**Ah あなたに会いに行かなきゃ**」（アー あなたにあいにいかなきゃ）は[高岡亜衣](https://ja.wikipedia.org/wiki/高岡亜衣 "wikilink")の6枚目のシングル。

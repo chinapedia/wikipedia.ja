@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FM水戸アップデート](https://ja.wikipedia.org/wiki/FM水戸アップデート)から翻訳されています。
 
 
 **FM水戸アップデート**（えふえむみとアップデート）は、[NHK水戸放送局](../Page/NHK水戸放送局.md "wikilink")が[茨城県](../Page/茨城県.md "wikilink")向けに[FMで放送していた](../Page/NHK-FM放送.md "wikilink")[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。

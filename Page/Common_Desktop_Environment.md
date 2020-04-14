@@ -41,7 +41,7 @@ CDE のオープンソース版を独自に開発するプロジェクトOpenCDE
 
 バージョン2.2.2（[2014年](../Page/2014年.md "wikilink")7月リリース）から、CDEは[FreeBSD](../Page/FreeBSD.md "wikilink") 10において、デフォルトの[Clang](https://ja.wikipedia.org/wiki/Clang "wikilink")コンパイラでコンパイルすることが可能である\[12\]。
 
-バージョン2.3.0（[2018年](../Page/2018年.md "wikilink")7月リリース）から、CDEは[Linux](../Page/Linux.md "wikilink")でTIRPIを利用するようになり、insecure modeで実行するためにポートマッパーとrpcbindは必要とされなくなった。また、Xprintはもう使われておらず、[BSD](../Page/BSD.md "wikilink")において最初に[Motif](https://ja.wikipedia.org/wiki/Motif "wikilink")のカスタム版をインストールすることなくコンパイルすることができる。複数ディスプレイは[Xinerama](../Page/Xinerama.md "wikilink")によってサポートが改善されている。
+バージョン2.3.0（[2018年](../Page/2018年.md "wikilink")7月リリース）から、CDEは[Linux](../Page/Linux.md "wikilink")でTIRPIを利用するようになり、insecure modeで実行するためにポートマッパーとrpcbindは必要とされなくなった。また、Xprintはもう使われておらず、[BSD](../Page/BSD.md "wikilink")において最初に[Motifのカスタム版をインストールすることなくコンパイルすることができる](../Page/Motif_\(GUI\).md "wikilink")。複数ディスプレイは[Xinerama](../Page/Xinerama.md "wikilink")によってサポートが改善されている。
 
 フリーソフトウェアとしてリリースされてから、CDEは下記のシステムに移植された\[13\]。
 

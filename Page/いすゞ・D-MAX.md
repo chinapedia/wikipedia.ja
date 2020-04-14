@@ -1,4 +1,4 @@
-> この記事は[D-MAX](https://ja.wikipedia.org/wiki/D-MAX)から翻訳されています。
+> この記事は[いすゞ・D-MAX](https://ja.wikipedia.org/wiki/いすゞ・D-MAX)から翻訳されています。
 
 
 **D-MAX**（ディーマックス）は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[タイで製造する](../Page/タイ王国.md "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")である。

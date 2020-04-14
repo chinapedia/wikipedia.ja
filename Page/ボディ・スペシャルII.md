@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ボディ・スペシャルII](https://ja.wikipedia.org/wiki/ボディ・スペシャルII)から翻訳されています。
 
 
 「**ボディ・スペシャル II (BODY SPECIAL)**」（ボディー・スペシャル・ツー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。

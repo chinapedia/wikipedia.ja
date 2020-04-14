@@ -1,4 +1,4 @@
-> この記事は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP)から翻訳されています。
+> この記事は[CLAMP学園怪奇現象研究会事件ファイル](https://ja.wikipedia.org/wiki/CLAMP学園怪奇現象研究会事件ファイル)から翻訳されています。
 
 
 『**CLAMP学園怪奇現象研究会事件ファイル**』（クランプがくえんかいきげんしょうけんきゅうかいじけんファイル）は、[松本富之](https://ja.wikipedia.org/wiki/松本富之 "wikilink")の[小説](../Page/小説.md "wikilink")作品。イラストは[CLAMP](../Page/CLAMP.md "wikilink")。

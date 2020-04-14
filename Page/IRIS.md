@@ -23,9 +23,11 @@
 
   - [I.R:I.S](https://ja.wikipedia.org/wiki/I.R:I.S "wikilink") - 澄守彩のライトノベル。
 
-  - [IRIS衛星](https://ja.wikipedia.org/wiki/IRIS衛星 "wikilink") () - NASAの太陽観測衛星。
+  - [IRIS (人工衛星)](../Page/IRIS_\(人工衛星\).md "wikilink") () - NASAの太陽観測衛星。
 
   - [アイリスオーヤマ](../Page/アイリスオーヤマ.md "wikilink") - 日本の生活用品メーカー。
+
+  - IBM X-Force IRIS - [IBM X-Force Incident Response and Intelligence Services](https://www.ibm.com/jp-ja/security/services/incident-response-services)をご利用いただくと、インシデント対応時間の短縮、影響の最少化、迅速な復旧を実現できるよう、信頼できるパートナーがサイバー・セキュリティーのインシデントが発生する前からお客様を支援します。
 
 ## 関連項目
 

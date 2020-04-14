@@ -1,4 +1,4 @@
-> この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
+> この記事は[道の駅遊YOUさろん東城](https://ja.wikipedia.org/wiki/道の駅遊YOUさろん東城)から翻訳されています。
 
 
 **道の駅遊YOUさろん東城**（みちのえき ゆうゆうさろんとうじょう）は、[広島県](../Page/広島県.md "wikilink")[庄原市](../Page/庄原市.md "wikilink")にある[国道182号](../Page/国道182号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。

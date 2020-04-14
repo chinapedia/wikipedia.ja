@@ -1,4 +1,4 @@
-> この記事は[to](https://ja.wikipedia.org/wiki/to)から翻訳されています。
+> この記事は[神to戦国生徒会](https://ja.wikipedia.org/wiki/神to戦国生徒会)から翻訳されています。
 
 
 『**神to戦国生徒会**』（かみとせんごくせいとかい）は、『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』[2004年](../Page/2004年.md "wikilink")51号から[2006年](../Page/2006年.md "wikilink")42号まで連載した学園漫画である。原作は[あかほりさとる](../Page/あかほりさとる.md "wikilink")、作画は[高田亮介が担当](https://ja.wikipedia.org/wiki/高田千種 "wikilink")。[北欧神話](../Page/北欧神話.md "wikilink")をモチーフにしている。2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[ドラマCD化された](../Page/ラジオドラマ.md "wikilink")。

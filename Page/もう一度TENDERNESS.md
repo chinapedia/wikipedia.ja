@@ -1,4 +1,4 @@
-> この記事は[TENDERNESS](https://ja.wikipedia.org/wiki/TENDERNESS)から翻訳されています。
+> この記事は[もう一度TENDERNESS](https://ja.wikipedia.org/wiki/もう一度TENDERNESS)から翻訳されています。
 
 
 「**もう一度TENDERNESS**」（もういちどテンダネス）は、[KIX-S](../Page/KIX-S.md "wikilink")の3枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[\&RPG2](https://ja.wikipedia.org/wiki/\&RPG2)から翻訳されています。
+> この記事は[マリオ\&ルイージRPG2](https://ja.wikipedia.org/wiki/マリオ\&ルイージRPG2)から翻訳されています。
 
 
 『**マリオ&ルイージRPG2**』（マリオ アンド ルイージ アールピージー ツー *Mario & Luigi: Partners in Time*）は、[任天堂](../Page/任天堂.md "wikilink")が[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")で発売した一人用のブラザーアクションRPGである。[マリオ&ルイージRPGシリーズ](https://ja.wikipedia.org/wiki/マリオ&ルイージRPGシリーズ "wikilink")の第2作で、[DS振動カートリッジ](../Page/DS振動カートリッジ.md "wikilink")に対応している。正式には全角である「＆」と称すが、本項では半角である「&」と記述する。

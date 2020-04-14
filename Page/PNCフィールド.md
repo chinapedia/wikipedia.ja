@@ -1,4 +1,4 @@
-> この記事は[PNC](https://ja.wikipedia.org/wiki/PNC)から翻訳されています。
+> この記事は[PNCフィールド](https://ja.wikipedia.org/wiki/PNCフィールド)から翻訳されています。
 
 
 **PNCフィールド**（*PNC Field*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ムージックにある](https://ja.wikipedia.org/wiki/ムージック_\(ペンシルベニア州\) "wikilink")[野球場](../Page/野球場.md "wikilink")。[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")傘下AAA[スクラントン・ウィルクスバリ・レイルライダース](../Page/スクラントン・ウィルクスバリ・レイルライダース.md "wikilink")の本拠地である。

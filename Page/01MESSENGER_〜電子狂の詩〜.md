@@ -1,4 +1,4 @@
-> この記事は[01MESSENGER ](https://ja.wikipedia.org/wiki/01MESSENGER_)から翻訳されています。
+> この記事は[01MESSENGER 〜電子狂の詩〜](https://ja.wikipedia.org/wiki/01MESSENGER_〜電子狂の詩〜)から翻訳されています。
 
 
 「**01MESSENGER 〜電子狂の詩〜**」（ゼロワンメッセンジャー でんしきょうのうた）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

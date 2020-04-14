@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[新機動戦記ガンダムWの登場人物](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物)から翻訳されています。
 
 
 **新機動戦記ガンダムWの登場人物**（しんきどうせんきガンダムウイングのとうじょうじんぶつ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』およびその関連作品に登場する架空の人物を列挙する。

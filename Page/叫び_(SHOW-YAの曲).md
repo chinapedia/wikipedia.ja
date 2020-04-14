@@ -1,4 +1,4 @@
-> この記事は[ \(SHOW-YA\)](https://ja.wikipedia.org/wiki/_\(SHOW-YA\))から翻訳されています。
+> この記事は[叫び \(SHOW-YAの曲\)](https://ja.wikipedia.org/wiki/叫び_\(SHOW-YAの曲\))から翻訳されています。
 
 
 「**叫び**」（さけび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SHOW-YA](../Page/SHOW-YA.md "wikilink")の[シングル](../Page/シングル.md "wikilink")。

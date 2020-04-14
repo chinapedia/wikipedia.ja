@@ -1,4 +1,4 @@
-> この記事は[ACCESS \(\)](https://ja.wikipedia.org/wiki/ACCESS_\(\))から翻訳されています。
+> この記事は[ACCESS \(企業\)](https://ja.wikipedia.org/wiki/ACCESS_\(企業\))から翻訳されています。
 
 
 **株式会社ACCESS**（アクセス、*ACCESS CO., LTD.*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[企業](../Page/企業.md "wikilink")。

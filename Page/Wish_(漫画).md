@@ -1,4 +1,4 @@
-> この記事は[Wish \(\)](https://ja.wikipedia.org/wiki/Wish_\(\))から翻訳されています。
+> この記事は[Wish \(漫画\)](https://ja.wikipedia.org/wiki/Wish_\(漫画\))から翻訳されています。
 
 
 『**Wish**』（ウィッシュ）は、[CLAMP](../Page/CLAMP.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ミステリーDX](../Page/ミステリーDX.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）1995年11月号から1998年7月号まで連載された。全23話＋Extraが3話。単行本は全4巻。なおCLAMP作品の作画は主にもこな（当時は**もこなあぱぱ**）が担当するが、本作では猫井椿（当時は**猫井みっく**）が担当している。
@@ -38,7 +38,7 @@
     翡翠と出会う前から両手の指では足りないほど天使に手をつけたらしいが、翡翠と出会って以降、翡翠以外の天使には手をつけていない。紅榴にも手をつけたらしい。
   - 瑠璃（るり）&破璃（はり）
     紅榴の使い魔である双子の少女達。普段は猫の姿をしているが、夜になると女の子の姿になる。見分け方は彼女達が身に着けているアクセサリーで、丸い青玉がついている方が瑠璃、長石のような白い飾り（角柱型もしくはキューブ型）がついている方が破璃。カラーでは目の色も違っている（瑠璃は青、破璃は灰色）が、本編中ではこのアクセサリー以外に見分け方はない。猫のときは尻尾の飾りで見分けがつく。
-    共に関西弁で喋る。紅榴の命令なら何でも聞く忠実な使い魔だが、情報収集をすると時々内容がとんちんかんになるのが玉にキズ。
+    共に関西弁で喋る。紅榴の命令なら何でも聞く忠実な使い魔だが、情報収集をすると時々内容がとんちんかんになるのが玉にキズ。紅榴と一緒に琥珀をいじめることがある。
   - 栩堂 宗一郎（くどう しゅういちろう）
     終盤（琇一郎の死から100年後）に現れた琇一郎の[転生](../Page/転生.md "wikilink")者。17歳。琇一郎と共に葬られた琥珀のイヤリングを、生まれたときに握っており、先祖の遺言に従って琇一郎の家にやってきた。彼が庭の藤の木に気付いた時、琥珀が眠りから覚めた。以降、琥珀、翡翠、黒燿と暮らしている。
 
@@ -149,4 +149,4 @@
 
   - ずっといっしょにいてほしい（画集、2001年）
 
-[Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:ミステリーDX](https://ja.wikipedia.org/wiki/Category:ミステリーDX "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:天使を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:天使を題材とした漫画作品 "wikilink") [Category:悪魔を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink")
+[Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:ミステリーDX](https://ja.wikipedia.org/wiki/Category:ミステリーDX "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:天使を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:天使を題材とした漫画作品 "wikilink") [Category:悪魔を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink")

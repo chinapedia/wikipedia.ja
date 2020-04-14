@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[マルダーIII](https://ja.wikipedia.org/wiki/マルダーIII)から翻訳されています。
 
 
 **マルダーIII**（独：Marder III）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が開発した対戦車自走砲である。[38(t)戦車の車台に](../Page/LT-38.md "wikilink")7.5cm砲または7.62cm砲を搭載したもの。マルダーは「テン（[貂](https://ja.wikipedia.org/wiki/貂 "wikilink")）」の意味。[制式番号は](../Page/特殊車輌番号.md "wikilink") Sd.Kfz.139 と Sd.Kfz.138 の2種がある。資料によって表記は**マーダー**もしくは**マルダー**となる。なおマルダーIIIの名は、1943年11月19日に[ヒトラー](https://ja.wikipedia.org/wiki/ヒトラー "wikilink")自らがこの系列の自走砲をそう呼んだことから、1944年2月1日から制式にもそう呼ばれるようになったものである。

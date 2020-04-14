@@ -1,4 +1,4 @@
-> この記事は[ Southern All Stars Golden Hits Medley](https://ja.wikipedia.org/wiki/_Southern_All_Stars_Golden_Hits_Medley)から翻訳されています。
+> この記事は[江ノ島 Southern All Stars Golden Hits Medley](https://ja.wikipedia.org/wiki/江ノ島_Southern_All_Stars_Golden_Hits_Medley)から翻訳されています。
 
 
 『**江ノ島 Southern All Stars Golden Hits Medley**』（えのしま サザンオールスターズ ゴールデンヒッツメドレー）は、[Z団](../Page/Z団.md "wikilink")名義で発売された[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のリミックス・[アルバム](../Page/アルバム.md "wikilink")。[CD盤は](../Page/コンパクトディスク.md "wikilink")[1993年](../Page/1993年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")発売、[LP盤が](../Page/レコード.md "wikilink")[1993年](../Page/1993年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に先行発売。発売元は「江ノ島レコード」と表記されるが[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")である。

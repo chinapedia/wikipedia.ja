@@ -1,4 +1,4 @@
-> この記事は[TOUCH ME \(\)](https://ja.wikipedia.org/wiki/TOUCH_ME_\(\))から翻訳されています。
+> この記事は[TOUCH ME \(つんく♂の曲\)](https://ja.wikipedia.org/wiki/TOUCH_ME_\(つんく♂の曲\))から翻訳されています。
 
 
 **TOUCH ME**（タッチ・ミー）は、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")のシングル。

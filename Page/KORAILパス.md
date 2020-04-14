@@ -1,4 +1,4 @@
-> この記事は[KORAIL](https://ja.wikipedia.org/wiki/KORAIL)から翻訳されています。
+> この記事は[KORAILパス](https://ja.wikipedia.org/wiki/KORAILパス)から翻訳されています。
 
 
 **コレールパス**（KORAIL PASS）は、[韓国鉄道公社](../Page/韓国鉄道公社.md "wikilink")（KORAIL）が[韓国を訪れる外国人向けに発行している](../Page/大韓民国.md "wikilink")[周遊乗車券](https://ja.wikipedia.org/wiki/周遊券 "wikilink")。旧称、コリアレールパス（**K**OREA **R**AIL **PASS**、**KRパス**）。かつて「[平昌コレールパス](https://ja.wikipedia.org/wiki/#平昌コレールパス "wikilink")」として期間限定で販売されていた類似の商品についてもこの項で併記する。

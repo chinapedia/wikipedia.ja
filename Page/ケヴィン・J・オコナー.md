@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ケヴィン・J・オコナー](https://ja.wikipedia.org/wiki/ケヴィン・J・オコナー)から翻訳されています。
 
 
 **ケヴィン・J・オコナー**（**Kevin J. O'Connor**, 本名: Kevin James O'Connor, [1963年](../Page/1963年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。

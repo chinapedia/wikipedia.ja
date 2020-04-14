@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[花火百景E](https://ja.wikipedia.org/wiki/花火百景E)から翻訳されています。
 
 
 **花火百景E**（ハナビヒャッケイE）は、[2003年](../Page/2003年.md "wikilink")にエレコが開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機である\[1\]。

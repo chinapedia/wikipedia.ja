@@ -1,4 +1,4 @@
-> この記事は[LOVIN\' YOU \(KIX-S\)](https://ja.wikipedia.org/wiki/LOVIN\'_YOU_\(KIX-S\))から翻訳されています。
+> この記事は[LOVIN\' YOU \(KIX-Sの曲\)](https://ja.wikipedia.org/wiki/LOVIN\'_YOU_\(KIX-Sの曲\))から翻訳されています。
 
 
 「**LOVIN' YOU**」（ラヴィン・ユー）は、[KIX-S](../Page/KIX-S.md "wikilink")の4枚目のシングル。

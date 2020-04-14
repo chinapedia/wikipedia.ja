@@ -1,4 +1,4 @@
-> この記事は[CSX](https://ja.wikipedia.org/wiki/CSX)から翻訳されています。
+> この記事は[アキュラ・CSX](https://ja.wikipedia.org/wiki/アキュラ・CSX)から翻訳されています。
 
 
 **CSX**（シーエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランドで販売していた[セダン](../Page/セダン.md "wikilink")型の小型[乗用車](../Page/乗用車.md "wikilink")である。

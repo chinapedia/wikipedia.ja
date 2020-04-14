@@ -1,4 +1,4 @@
-> この記事は[WAVESTATION](https://ja.wikipedia.org/wiki/WAVESTATION)から翻訳されています。
+> この記事は[コルグ・WAVESTATIONシリーズ](https://ja.wikipedia.org/wiki/コルグ・WAVESTATIONシリーズ)から翻訳されています。
 
 
 **WAVESTATION**（ウェーブステーション）はかつて[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")が[製造](../Page/製造業.md "wikilink")、[販売](../Page/販売.md "wikilink")した[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名である。

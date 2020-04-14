@@ -1,4 +1,4 @@
-> この記事は[CAF](https://ja.wikipedia.org/wiki/CAF)から翻訳されています。
+> この記事は[CAFチャンピオンズリーグ](https://ja.wikipedia.org/wiki/CAFチャンピオンズリーグ)から翻訳されています。
 
 
 **CAFチャンピオンズリーグ**（）は、[アフリカサッカー連盟](../Page/アフリカサッカー連盟.md "wikilink")（CAF）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**アフリカチャンピオンズリーグ**とも呼ばれている。1996年まではアフリカチャンピオンズカップという名称だった。優勝チームには250万[USドルが賞金として贈られ](../Page/アメリカ合衆国ドル.md "wikilink")\[1\]、[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")、[CAFスーパーカップ](https://ja.wikipedia.org/wiki/CAFスーパーカップ "wikilink")の出場権が与えられる。
@@ -10,7 +10,7 @@
   - **予備予選・予選1回戦**
       - トーナメント形式による[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")戦。16チームがグループステージ進出。
   - **グループステージ**
-      - 8チームを4チームずつ2組に分け、ホーム・アンド・アウェー方式のグループリーグ。各組上位2チームが準々決勝進出。
+      - 16チームを4チームずつ4組に分け、ホーム・アンド・アウェー方式のグループリーグ。各組上位2チームが準々決勝進出。
 
 <!-- end list -->
 
@@ -440,6 +440,12 @@
 <td><p><strong>1 - 1</strong><br />
 <strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/ウィダード・カサブランカ.md" title="wikilink">ウィダード・カサブランカ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/CAFチャンピオンズリーグ2019-20" title="wikilink">2019-20</a></p></td>
+<td></td>
+<td><p><small>（<a href="../Page/ドゥアラ.md" title="wikilink">ドゥアラ</a>）</small></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

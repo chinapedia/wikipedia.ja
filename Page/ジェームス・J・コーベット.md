@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ジェームス・J・コーベット](https://ja.wikipedia.org/wiki/ジェームス・J・コーベット)から翻訳されています。
 
 
 **ジェームス・J・コーベット**（**James John Corbett**、[1866年](../Page/1866年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [1933年](../Page/1933年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身の男性[プロボクサー](../Page/プロボクサー.md "wikilink")で、近代[ボクシング](../Page/ボクシング.md "wikilink")の先駆者である。通称は**闘う銀行員**。紳士的な人柄から「ジェントルマン・ジム」と呼ばれていた\[1\]。

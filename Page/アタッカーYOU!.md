@@ -1,4 +1,4 @@
-> この記事は[YOU!](https://ja.wikipedia.org/wiki/YOU!)から翻訳されています。
+> この記事は[アタッカーYOU!](https://ja.wikipedia.org/wiki/アタッカーYOU!)から翻訳されています。
 
 
 『**アタッカーYOU\!**』（アタッカー・ユウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。天真爛漫な少女・葉月優が、バレーボール選手として活躍する姿を描いた作品である。[1984年](../Page/1984年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")他で放送された。全58話。

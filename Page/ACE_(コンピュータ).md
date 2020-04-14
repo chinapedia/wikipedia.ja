@@ -1,4 +1,4 @@
-> この記事は[ACE \(\)](https://ja.wikipedia.org/wiki/ACE_\(\))から翻訳されています。
+> この記事は[ACE \(コンピュータ\)](https://ja.wikipedia.org/wiki/ACE_\(コンピュータ\))から翻訳されています。
 
 
 **ACE**（エース、***A**utomatic **C**omputing **E**ngine*）は、[1946年](../Page/1946年.md "wikilink")に[アラン・チューリング](../Page/アラン・チューリング.md "wikilink")が設計した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の初期の[コンピュータ](../Page/コンピュータ.md "wikilink")である。

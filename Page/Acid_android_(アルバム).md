@@ -1,4 +1,4 @@
-> この記事は[Acid android \(\)](https://ja.wikipedia.org/wiki/Acid_android_\(\))から翻訳されています。
+> この記事は[Acid android \(アルバム\)](https://ja.wikipedia.org/wiki/Acid_android_\(アルバム\))から翻訳されています。
 
 
 『**acid android**』（アシッド アンドロイド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")のソロプロジェクトである[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")1stアルバム。[2002年](../Page/2002年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")にネット限定発売、発売元は[Danger Crue Records](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に一般店頭発売、発売元はDanger Crue Records内の自主レーベル、track on drugs records。

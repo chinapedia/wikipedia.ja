@@ -1,4 +1,4 @@
-> この記事は[MAC](https://ja.wikipedia.org/wiki/MAC)から翻訳されています。
+> この記事は[MACシップ](https://ja.wikipedia.org/wiki/MACシップ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Mv_alexia.jpg "wikilink") **MACシップ**または**商船空母**(Merchant aircraft carrier)とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用した[商船](https://ja.wikipedia.org/wiki/商船 "wikilink")に[飛行甲板](../Page/飛行甲板.md "wikilink")を設置した簡易[航空母艦](../Page/航空母艦.md "wikilink")の事である。[護衛空母](../Page/護衛空母.md "wikilink")の大量就役まで、[船団護衛](https://ja.wikipedia.org/wiki/船団護衛 "wikilink")の役目を担い、[ドイツ軍の](../Page/ドイツ国防軍.md "wikilink")[通商破壊](../Page/通商破壊.md "wikilink")に対抗した。

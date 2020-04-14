@@ -3,9 +3,9 @@
 
 **ROH**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式略称は*ROH Wrestling*\[1\]。正式名称は*Ring of Honor Wrestling*。
 
-## 概要
+## 歴史
 
-[2002年](../Page/2002年.md "wikilink")、設立して旗揚げ戦を開催。[WWE](../Page/WWE.md "wikilink")、[TNAに次ぐ第](../Page/インパクト・レスリング.md "wikilink")3のプロレス団体として注目を集めている。[アメリカの北東部と中東部を中心に興行を開催しており](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、熱心なファンが多いことで知られている。ROHのレスリングの特徴としては、高度なレスリング技術が挙げられる。[ギミック](../Page/ギミック_\(プロレス\).md "wikilink")、[マイクパフォーマンス](../Page/マイクパフォーマンス.md "wikilink")、ストーリーラインに重きを置く前述の2団体と差別化を図っている。この点で日本の団体と似ており、スポット参戦ながら日本人選手が多数参戦したことがあるのも特徴。
+[2002年](../Page/2002年.md "wikilink")、設立して旗揚げ戦を開催。[WWE](../Page/WWE.md "wikilink")、[TNAに次ぐ第](../Page/インパクト・レスリング.md "wikilink")3のプロレス団体として注目を集める。[アメリカの北東部と中東部を中心に興行を開催しており](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、熱心なファンが多いことで知られている。ROHのレスリングの特徴としては、高度なレスリング技術が挙げられる。[ギミック](../Page/ギミック_\(プロレス\).md "wikilink")、[マイクパフォーマンス](../Page/マイクパフォーマンス.md "wikilink")、ストーリーラインに重きを置く前述の2団体と差別化を図っている。この点で日本の団体と似ており、スポット参戦ながら日本人選手が多数参戦したことがあるのも特徴。
 
 2002年には、[エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")が2回登場しており、[2005年](../Page/2005年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")の彼の死を受けて、[11月19日](../Page/11月19日.md "wikilink")に開催した興行をA Night of Tributeと銘打ち、試合開始前にテンカウントゴングを行った。
 
@@ -15,7 +15,7 @@
 
 また、[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")でレスリングスクールも開催しており、若手選手の育成にも力を注いでいる。
 
-姉妹団体として[イリノイ州](../Page/イリノイ州.md "wikilink")を拠点に活動する女子プロレス団体「[SWA](https://ja.wikipedia.org/wiki/シマー・ウィメン・アスリーツ "wikilink")」があり、ROHのレギュラー選手が多数参戦している。SWAでは王座管理も行っており、これらがROHの女子王座として認定されている。かつては[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")を拠点に活動する[FIPも姉妹団体であったが](https://ja.wikipedia.org/wiki/フル・インパクト・プロ "wikilink")、現在は[DRAGON GATE USAと業務提携を結んでいる](https://ja.wikipedia.org/wiki/DRAGON_GATE_USA "wikilink")。
+姉妹団体として[イリノイ州](../Page/イリノイ州.md "wikilink")を拠点に活動する女子プロレス団体「[SWA](https://ja.wikipedia.org/wiki/シマー・ウィメン・アスリーツ "wikilink")」があり、ROHのレギュラー選手が多数参戦している。SWAでは王座管理も行っており、これらがROHの女子王座として認定されている。かつては[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")を拠点に活動する[FIPも姉妹団体であったが](https://ja.wikipedia.org/wiki/フル・インパクト・プロ "wikilink")、その後[DRAGON GATE USAと業務提携を結んでいる](https://ja.wikipedia.org/wiki/DRAGON_GATE_USA "wikilink")。
 
 2007年5月、ROHが7月からPPV放送を開始することを受けて、今まで友好的な関係にあったTNAが関係断絶を発表し、TNA所属選手がROHに上がることも禁止した。しかし2008年4月以降、TNA所属選手の[クリス・セイビン](../Page/クリス・セイビン.md "wikilink")、[アレックス・シェリー](https://ja.wikipedia.org/wiki/アレックス・シェリー "wikilink")、[サモア・ジョー](../Page/サモア・ジョー.md "wikilink")がROHの興行に参戦している。
 
@@ -35,13 +35,13 @@
 
 近年では新日本と深い友好関係にあり、互いの所属選手をPPV等の大型興行に参戦させる関係となっている。特にROHからの参戦は頻繁で、[G1 CLIMAXや](../Page/G1_CLIMAX.md "wikilink")[BEST OF THE SUPER Jr.等の長期シリーズに参加するROH所属選手も多い](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")。
 
-## 日本との関わり
+## 日本のプロレス団体との関係
 
 試合内容重視の方針と相まって、ROHへの日本人選手の参戦者は多い。2019年現在は新日本プロレス、並びにスターダムとの業務提携を結んでいる。過去には[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")からの参戦者が多く、[DRAGON GATEも選手派遣を実施していた](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。前述の2団体以外にも、選手個人として、または個人事務所を通して参戦したことがあるものも多数いる。
 
 主な日本人の参戦経験者は、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")、[小橋建太](../Page/小橋建太.md "wikilink")、[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")、[田中将斗](../Page/田中将斗.md "wikilink")、[大谷晋二郎](../Page/大谷晋二郎.md "wikilink")、[ミラノコレクションA.T.](../Page/ミラノコレクションA.T..md "wikilink")、[丸藤正道](../Page/丸藤正道.md "wikilink")、[KENTA](../Page/小林健太.md "wikilink")、[CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")、[飯伏幸太](../Page/飯伏幸太.md "wikilink")、[坂井澄江](../Page/坂井澄江.md "wikilink")、[松本浩代](../Page/松本浩代.md "wikilink")、[中川ともか](../Page/中川ともか.md "wikilink")、[栗原あゆみ](../Page/栗原あゆみ.md "wikilink")などがいる。[2007年](../Page/2007年.md "wikilink")2月には、[森嶋猛](../Page/森嶋猛.md "wikilink")が[ホミサイドを破り](https://ja.wikipedia.org/wiki/ネルソン・エラーゾ "wikilink")、[ROHヘビー級王座](https://ja.wikipedia.org/wiki/ROHヘビー級王座 "wikilink")を獲得。3月には、[土井成樹](../Page/土井成樹.md "wikilink")と[鷹木信悟](../Page/鷹木信悟.md "wikilink")が[ROH世界タッグ王座](https://ja.wikipedia.org/wiki/ROH世界タッグ王座 "wikilink")を獲得している。
 
-[2003年](../Page/2003年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には、[全日本プロレス](../Page/全日本プロレス.md "wikilink") vs ROHと銘打たれた興行が行われて、全日本の主力選手が参戦している。
+[2003年](../Page/2003年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には、「[全日本プロレス](../Page/全日本プロレス.md "wikilink") vs ROH」と銘打たれた興行が行われ、全日本の主力選手が参戦している。
 
 [2006年](../Page/2006年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に発足した[グローバル・レスリング連盟](../Page/グローバル・レスリング連盟.md "wikilink")には設立当時から加盟している。
 
@@ -67,21 +67,36 @@
 
 ## 主な興行
 
-  - [PPV](../Page/ペイ・パー・ビュー.md "wikilink")、インターネットPPV
-    ROH Anniversary Show
-    ROH Supercard of Honor
-    ROH Best in the World
-    All Star Extravaganza
-    ROH Death Before Dishonor
-    ROH Glory By Honor
-    ROH Final Battle
+  - PPV
+
+<!-- end list -->
+
+  - ROH Anniversary Show
+  - ROH Supercard of Honor
+  - ROH Best in the World
+  - ROH Death Before Dishonor
+  - ROH Glory By Honor
+  - ROH Final Battle
+  - All Star Extravaganza
+
+<!-- end list -->
+
   - [新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")との共同
-    Global Wars
-    War of the Worlds
+
+<!-- end list -->
+
+  - Global Wars
+  - War of the Worlds
+
+<!-- end list -->
+
   - トーナメント戦
-    ROH Top Prospect Tournament
-    ROH Survival of the Fittest
-    ROH Tag Wars Tournament
+
+<!-- end list -->
+
+  - ROH Top Prospect Tournament
+  - ROH Survival of the Fittest
+  - ROH Tag Wars Tournament
 
 ## タイトル
 
@@ -91,17 +106,25 @@
   - [ROH世界TV王座](https://ja.wikipedia.org/wiki/ROH世界TV王座 "wikilink")
   - [WOH世界王座](https://ja.wikipedia.org/wiki/WOH世界王座 "wikilink")
 
+<!-- end list -->
+
+  - 過去に存在した王座
+
+<!-- end list -->
+
+  - [ROHピュア王座](https://ja.wikipedia.org/wiki/ROHピュア王座 "wikilink")
+
 ## 所属選手
 
 ### 男性レスラー
 
   - [LSG](https://ja.wikipedia.org/wiki/レオン・セント・ジョバンニ "wikilink")
   - [PCO](https://ja.wikipedia.org/wiki/カール・ウエレ "wikilink")
-  - [PJブラック](https://ja.wikipedia.org/wiki/ポール・ロイド・ジュニア "wikilink") （PJ Black）
   - [TKオライアン](https://ja.wikipedia.org/wiki/TKオライアン "wikilink")（TK O'Ryan）
   - [アレックス・シェリー](https://ja.wikipedia.org/wiki/アレックス・シェリー "wikilink")（Alex Shelley）
   - [イーライ・アイゾム](https://ja.wikipedia.org/wiki/イーライ・アイゾム "wikilink")（Eli Isom）
   - [ウィル・フェラーラ](https://ja.wikipedia.org/wiki/ウィル・フェラーラ "wikilink")（Will Ferrara）
+  - [ヴィンセント](https://ja.wikipedia.org/wiki/ヴィニー・マルセリア "wikilink")（Vincent）
   - [ケニー・キング](https://ja.wikipedia.org/wiki/ケニー・キング "wikilink")（Kenny King）
   - [サイラス・ヤング](https://ja.wikipedia.org/wiki/サイラス・ヤング "wikilink")（Silas Young）
   - [シェーン・テイラー](https://ja.wikipedia.org/wiki/シェーン・テイラー_\(プロレスラー\) "wikilink")（Shane Taylor）
@@ -117,8 +140,8 @@
   - [デリリアス](https://ja.wikipedia.org/wiki/デリリアス "wikilink")（Delirious）
   - [ドラゴン・リー](https://ja.wikipedia.org/wiki/ドラゴン・リー_\(2代目\) "wikilink") （Dragon Lee）
   - [バンディード](https://ja.wikipedia.org/wiki/バンディード_\(プロレスラー\) "wikilink")（Bandido）
+  - [PJブラック](https://ja.wikipedia.org/wiki/ポール・ロイド・ジュニア "wikilink") （PJ Black）
   - [ビアシティ・ブルーザー](https://ja.wikipedia.org/wiki/マット・ウィンチェスター "wikilink")（Beer City Bruiser）
-  - [ヴィンセント](https://ja.wikipedia.org/wiki/ヴィニー・マルセリア "wikilink")（Vincent）
   - [ブライアン・ミロナス](https://ja.wikipedia.org/wiki/ブライアン・ミロナス "wikilink")（Brian Milonas）
   - [フラミータ](https://ja.wikipedia.org/wiki/フラミータ "wikilink")（Flamita）
   - [ブリー・レイ](../Page/マーク・ロモナコ.md "wikilink")（Bully Ray）
@@ -144,7 +167,7 @@
   - [マリア・マニック](https://ja.wikipedia.org/wiki/マリア・マニック "wikilink")（Maria Manic）
   - [マンディー・レオン](https://ja.wikipedia.org/wiki/マンディー・レオン "wikilink")（Mandy Leon）
 
-### その他
+## スタッフ
 
   - [トッド・シンクレア](https://ja.wikipedia.org/wiki/トッド・シンクレア "wikilink")（Todd Sinclair） - レフェリー
 
@@ -160,10 +183,6 @@
 
 ## 脚注
 
-## 関連項目
-
-  - [ROHピュア王座](https://ja.wikipedia.org/wiki/ROHピュア王座 "wikilink")
-
 ## 外部リンク
 
   - [ROH公式サイト](http://www.rohwrestling.com/)（英語）
@@ -175,4 +194,4 @@
 2.
 3.
 4.
-5.  [スターダムTwitter](https://twitter.com/wwr_stardom/status/832383855982104578?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fproresu-today.com%2Farchives%2F15119)
+5.  [1](https://twitter.com/wwr_stardom/status/832383855982104578?ref_src=twsrc%5Etfw&ref_url=http%3A%2F%2Fproresu-today.com%2Farchives%2F15119) [スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")公式[Twitter](../Page/Twitter.md "wikilink")より

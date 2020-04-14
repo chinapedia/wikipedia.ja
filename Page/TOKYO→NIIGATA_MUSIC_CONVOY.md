@@ -1,4 +1,4 @@
-> この記事は[TOKYONIIGATA MUSIC CONVOY](https://ja.wikipedia.org/wiki/TOKYONIIGATA_MUSIC_CONVOY)から翻訳されています。
+> この記事は[TOKYO→NIIGATA MUSIC CONVOY](https://ja.wikipedia.org/wiki/TOKYO→NIIGATA_MUSIC_CONVOY)から翻訳されています。
 
 
 **TOKYO→NIIGATA MUSIC CONVOY**（とうきょうにいがたミュージックコンボイ）は、[FM PORTで](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは曜日別](../Page/ラジオパーソナリティ.md "wikilink")。

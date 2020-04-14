@@ -1,4 +1,4 @@
-> この記事は[WALK](https://ja.wikipedia.org/wiki/WALK)から翻訳されています。
+> この記事は[美WALK〜デュークからの贈り物〜](https://ja.wikipedia.org/wiki/美WALK〜デュークからの贈り物〜)から翻訳されています。
 
 
 『**美WALK〜デュークからの贈り物〜**』（びウォーク・デュークからのおくりもの）は、[関西テレビで](../Page/関西テレビ放送.md "wikilink")[2003年](../Page/2003年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで毎週月曜日21:54 - 22:00に放送されていた[デューク更家](../Page/デューク更家.md "wikilink")出演の[ミニ番組](../Page/ミニ番組.md "wikilink")。[日本臓器製薬](../Page/日本臓器製薬.md "wikilink")の一社提供。全219回。

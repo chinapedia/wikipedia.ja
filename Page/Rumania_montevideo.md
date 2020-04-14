@@ -23,9 +23,9 @@
 
 2019年3月6日、三好誠のツイッターより再始動に向けて準備中であることが投稿された\[3\]。ただし、オリジナルメンバーは三好姉弟のみで、真美はドラムボーカルではなくボーカルのみを担当。誠はギターを担当。ドラムには、spaghetti vabune\!よりシマイナオヤをサポートメンバーに迎える。
 
-2019年12月1日、hills パン工場で『Rumania Montevideo Live 2019〜僕を待つ君へ〜』復活ライブを実施。
+2019年12月1日、[hills パン工場で](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")『Rumania Montevideo Live 2019〜僕を待つ君へ〜』復活ライブを実施。
 
-復活の2本目のライブとして、2020年3月20日には、代官山UNITにて『rumania montevideo LIVE 2020』の開催を予定している。
+復活の2本目のライブとして、2020年3月20日には、[代官山UNIT](https://ja.wikipedia.org/wiki/代官山UNIT "wikilink")にて『rumania montevideo LIVE 2020』の開催を予定しているが、コロナウイルスの影響でライブ予定が中止することになった。
 
 ## メンバー
 

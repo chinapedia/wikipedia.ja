@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAバスケットボール・ワールドカップ](https://ja.wikipedia.org/wiki/FIBAバスケットボール・ワールドカップ)から翻訳されています。
 
 
 **FIBAバスケットボール・ワールドカップ**（**FIBA Basketball World Cup**）\[1\]は、4年に一度、[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")の中間年に開催されるFIBA（[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")）主催の男子の公式戦の一つ。**2010年大会まではバスケットボール世界選手権（FIBA World Championship）という名前だった。**2014年大会から現在のようなワールドカップという名称に変わった。※名前が変わっただけで大会の内容自体は今まで通りの世界バスケと同じである。なお、優勝国には[ネイスミス・トロフィー](https://ja.wikipedia.org/wiki/ネイスミス・トロフィー "wikilink")が贈られる。

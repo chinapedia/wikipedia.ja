@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[アルファロメオ・GT](https://ja.wikipedia.org/wiki/アルファロメオ・GT)から翻訳されています。
 
 
 **アルファロメオ・GT**は、イタリアの自動車メーカー[アルファロメオ](../Page/アルファロメオ.md "wikilink")が2003年から[製造](../Page/製造業.md "wikilink")、[販売](../Page/販売.md "wikilink")していた[クーペ](../Page/クーペ.md "wikilink")型の[自動車](../Page/自動車.md "wikilink")である。2010年にイタリア本国での生産は終了し\[1\]、日本では在庫車の販売が行われている。

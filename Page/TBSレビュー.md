@@ -1,7 +1,7 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSレビュー](https://ja.wikipedia.org/wiki/TBSレビュー)から翻訳されています。
 
 
-『**TBSレビュー**』（*TBS Review*）は、[TBSの](../Page/TBSテレビ.md "wikilink")[関東ローカル](../Page/関東ローカル.md "wikilink")にて放送されている自己検証番組・[自己批評番組](../Page/自己批評番組.md "wikilink")である。「[レビュー](../Page/レヴュー.md "wikilink")」の言葉のとおり、TBSの放送・報道・番組のみならず、放送界全体の動向・問題を検証・検討する目的で放送されている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送開始。
+『**TBSレビュー**』（*TBS Review*）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の[関東ローカル](../Page/関東ローカル.md "wikilink")にて放送されている自己検証番組・[自己批評番組](../Page/自己批評番組.md "wikilink")である。「[レビュー](../Page/レヴュー.md "wikilink")」の言葉のとおり、TBSテレビの放送・報道・番組のみならず、放送界全体の動向・問題を検証・検討する目的で放送されている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")放送開始。
 
 ## 放送時間
 
@@ -27,7 +27,7 @@ BPO関連のお知らせ[CMを除き](../Page/コマーシャルメッセージ.
 
 ## 外部リンク
 
-  - [TBSレビュー](http://www.tbs.co.jp/TBS-review/)
+  - [TBSレビュー | TBSテレビ](http://www.tbs.co.jp/TBS-review/)
 
 [Category:TBSのローカル番組](https://ja.wikipedia.org/wiki/Category:TBSのローカル番組 "wikilink") [Category:テレビの自己批評番組](https://ja.wikipedia.org/wiki/Category:テレビの自己批評番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[MARIA \(\)](https://ja.wikipedia.org/wiki/MARIA_\(\))から翻訳されています。
+> この記事は[MARIA \(バンド\)](https://ja.wikipedia.org/wiki/MARIA_\(バンド\))から翻訳されています。
 
 
 **MARIA**（マリア）は、日本の6人組[ガールズバンド](../Page/ガールズバンド.md "wikilink")である。

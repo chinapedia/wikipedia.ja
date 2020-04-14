@@ -66,7 +66,7 @@
 
 ## 外部リンク
 
-  - [YKZ](http://www.sonymusic.co.jp/Music/Arch/SR/YKZ/) - [Sony Music Entertainment](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [YKZ](https://www.sonymusic.co.jp/artist/YKZ/) - [Sony Music Entertainment](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
   -
   -

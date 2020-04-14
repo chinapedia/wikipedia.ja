@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bコース](https://ja.wikipedia.org/wiki/Bコース)から翻訳されています。
 
 
 **Bコース**（ビーコース）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社（[東京吉本](../Page/東京吉本.md "wikilink")）に所属していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のお笑いトリオ。[2012年](../Page/2012年.md "wikilink")解散。

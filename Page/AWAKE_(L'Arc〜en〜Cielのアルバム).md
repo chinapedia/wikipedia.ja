@@ -1,21 +1,23 @@
-> この記事は[AWAKE \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/AWAKE_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[AWAKE \(L\'Arc〜en〜Cielのアルバム\)](https://ja.wikipedia.org/wiki/AWAKE_\(L\'Arc〜en〜Cielのアルバム\))から翻訳されています。
 
 
 『**AWAKE**』(アウェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の10作目の[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来1年3ヶ月振りとなる10枚目のオリジナルアルバム。ジャケットに本人たちの写真が使われたのは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来となる。
+前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来1年3ヶ月振りとなる10枚目のオリジナルアルバム。
 
-以前のオリジナルアルバムの収録曲は10～11曲だったが、本作には12曲が収録されている。この経緯について[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は、「12曲でもダレずに聴かせられるようになったから」と語っている。曲数が増えたこともあり、収録時間は55分を超え、L'Arc〜en〜Cielのオリジナルアルバムとしては最も収録時間が長い作品となっている\[1\]。
+アルバムの核となるテーマは[戦争](../Page/戦争.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")、[平和](../Page/平和.md "wikilink")といった[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")の思想が先行しており、「無償の愛」が一つのテーマになっている。これまでのアルバムと比較し、メッセージ性の強い歌詞が多く収録されており、hydeは「ラルクの曲はキャッチーだから、パッと聴きの耳障りは悪くないと思うんですけど、深い部分では今作は全然異質だと思う」「芸術が世界に対して何かをできるっていうことは俺にはあんまりわかんない。ただ言わずにはいられなかった」と述べている\[1\]。kenはアルバムを「お手紙みたい」と表現している。作曲もhydeの割合が12曲中5曲（合作曲「New World」を含めると6曲）と他アルバムに比べ最も高い。
 
-アルバムの核となるテーマは[戦争](../Page/戦争.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")、[平和](../Page/平和.md "wikilink")等といった[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")の思想が先行しており、「無償の愛」が一つのテーマになっている。これまでのアルバムと比較し、メッセージ性の強い歌詞が多く収録されており、hydeは「ラルクの曲はキャッチーだから、パッと聴きの耳障りは悪くないと思うんですけど、深い部分では今作は全然異質だと思う」「芸術が世界に対して何かをできるっていうことは俺にはあんまりわかんない。ただ言わずにはいられなかった」と述べている\[2\]。kenはアルバムを「お手紙みたい」と表現している。作曲もhydeの割合が12曲中5曲（合作曲「New World」を含めると6曲）と他アルバムに比べ最も高い。
+アルバムのアートワークは、数多くL'Arc〜en〜Cielのアートワークを手がける[写真家](../Page/写真家.md "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")の[モート・シナベル](https://ja.wikipedia.org/wiki/モート・シナベル "wikilink")によるもの。ジャケットにメンバーの写真が使われたのは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売されたアルバム『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来5作ぶり2度目のこととなる。
 
-ちなみに、収録曲「My Dear」と「Ophelia」の2曲はhydeがソロ名義の[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")として発表した1stアルバム『[ROENTGEN](../Page/ROENTGEN.md "wikilink")』のレコーディング時に制作されていた楽曲\[3\]で、次作である2ndアルバム『[666](../Page/666_\(HYDEのアルバム\).md "wikilink")』の当初のコンセプトに向けてストックしていた曲をリアレンジしたものである。
+以前のオリジナルアルバムの収録曲は10～11曲だったが、本作には12曲が収録されている。収録曲が過去最多となった経緯について[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は、「12曲でもダレずに聴かせられるようになったから」と語っている。曲数が増えたこともあり、収録時間は55分を超え、L'Arc〜en〜Cielのオリジナルアルバムとしては最も収録時間が長い作品となっている\[2\]。
 
-オリジナルアルバムでは8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来の4年10ヶ月ぶり、6作目の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を初登場で獲得。同年[9月20日](../Page/9月20日.md "wikilink")には、前作と同じく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Tofu Recordsから](https://ja.wikipedia.org/wiki/w:Tofu_Records "wikilink")[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")1曲を追加し発売された。
+ちなみに、本作の収録曲「My Dear」と「Ophelia」の2曲はhydeがソロ名義の[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")として発表した1stアルバム『[ROENTGEN](../Page/ROENTGEN.md "wikilink")』のレコーディング時に制作されていた楽曲\[3\]で、次作である2ndアルバム『[666](../Page/666_\(HYDEのアルバム\).md "wikilink")』の当初のコンセプトに向けてストックしていた曲をリアレンジしたものである。
 
-初回限定版は紙製デジパック、スーパーピクチャーレーベル仕様。
+オリコン週間アルバムチャートにおいて、オリジナルアルバムとしては前々作『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来4年10ヶ月ぶりとなる6作目の週間首位を初登場で獲得した。同年[9月20日](../Page/9月20日.md "wikilink")には、前作と同じく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[Tofu Recordsから](https://ja.wikipedia.org/wiki/w:Tofu_Records "wikilink")[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")1曲を追加し発売された。
+
+初回限定仕様は紙製デジパック、スーパーピクチャーレーベル仕様。
 
 ## 収録曲
 
@@ -23,14 +25,15 @@
       - 作詞:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 英語訳詞:[Anis](../Page/MONORAL.md "wikilink") / 作曲:yukihiro・[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
-        26thシングル。yukihiroが作詞を担当し、シングル曲としては初のhyde以外の詞であり、作曲はhydeとyukihiroの合作。yukihiro加入後、初めての合作作品である。
+        26thシングル。シングルの表題曲でhyde以外が作詞した唯一の楽曲。作曲はhydeとyukihiroの合作で、yukihiro加入後のL'Arc〜en〜Cielでは初めての合作作品である。
+        曲を手掛けたyukihiroは「何となく8ビートの速い曲を作ろうかなと思った。そういうストレートなことに挑戦したかった\[4\]」「[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")、カッコいいなと。"ああいう曲かけねえかな"と思って。ポップで自由な曲、という意味ですけど\[5\]」と述べている。
 2.  **LOST HEAVEN**
       - 作詞:hyde / 英語訳詞:[Lynne Hobday](https://ja.wikipedia.org/wiki/リン・ホブデイ "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         同年[7月23日](../Page/7月23日.md "wikilink")公開の[松竹](../Page/松竹.md "wikilink")配給映画『[劇場版 鋼の錬金術師 シャンバラを征く者](../Page/劇場版_鋼の錬金術師_シャンバラを征く者.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")。
-        [歌詞](../Page/歌詞.md "wikilink")は劇場版のスタッフと話し合って作られた。歌詞に関してhydeは「たった一つの楽園などなく人それぞれが思い描く楽園があるということを言いたかった」と述べている。このアルバム発売後に発売された28thシングル「[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")」は[オープニングテーマに起用された](../Page/主題歌.md "wikilink")。
-        yukihiroはリズムが跳ねるドラムプレイを意識したと語っており、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")を意識したと述べている\[4\]。
+        [歌詞](../Page/歌詞.md "wikilink")は劇場版のスタッフと話し合って作られた。歌詞に関してhydeは「たった一つの楽園などなく人それぞれが思い描く楽園があるということを言いたかった」と述べている。このアルバム発売後に発売された28thシングル「[Link](../Page/Link_\(L'Arc〜en〜Cielの曲\).md "wikilink")」は上記映画の[オープニングテーマに起用された](../Page/主題歌.md "wikilink")。
+        yukihiroは「リズムが跳ねるドラムプレイを意識した」と語っており、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")をイメージしたと述べている\[6\]。
 3.  **[叙情詩](../Page/叙情詩_\(曲\).md "wikilink")**
       - 作詞:hyde / 英語訳詞:Anis / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
@@ -40,27 +43,31 @@
       - 作詞:hyde / 英語訳詞:Anis / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        作曲者のtetsuya曰く、「『tetsuの曲は明るい[ポップなものばかりだ](../Page/ポップ・ミュージック.md "wikilink")\!』という人達への『もうちょっと深みのあるマイナーな曲も書けるってところを…』みせるためのアンチテーゼとして書いた」そう。アルバム曲では本作唯一のtetsuya作曲で、前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて1曲のみの収録となった。なお、tetsuyaはライブではこの曲を[ギター](../Page/ギター.md "wikilink")と[ベースが合体した](../Page/エレクトリックベース.md "wikilink")[ダブルネックを用いて演奏する](https://ja.wikipedia.org/wiki/ダブルネック・ギター "wikilink")。また、ライブでhydeは歌詞の最後の「きっと夢のような世界」を「僕は生まれていいの？」と変えて歌っている。
+        アルバム曲の中では本作唯一のtetsuya作曲による楽曲で、前作『[SMILE](../Page/SMILE_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて1曲のみの収録となった。
+        作曲者のtetsuya曰く、「『tetsuの曲は明るい[ポップなものばかりだ](../Page/ポップ・ミュージック.md "wikilink")\!』という人達への『もうちょっと深みのあるマイナーな曲も書けるってところを…』みせるためのアンチテーゼとして書いた」という。なお、tetsuyaはライブではこの曲を[ギター](../Page/ギター.md "wikilink")と[ベースが合体した](../Page/エレクトリックベース.md "wikilink")[ダブルネックを用いて演奏する](https://ja.wikipedia.org/wiki/ダブルネック・ギター "wikilink")。
+        ライブでは、hydeは歌詞の最後のフレーズ「きっと夢のような世界」を「僕は生まれていいの？」と変えて歌っている。
         [2015年](../Page/2015年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2015 L'ArCASINO](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2015_L'ArCASINO "wikilink")」において、2005年に開催されたコンサートツアー「AWAKE TOUR 2005」以来10年ぶりにライブで披露された。
 5.  **[Killing Me](../Page/Killing_Me.md "wikilink")**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        25thシングル。発売された2005年以降のライブではかなり頻繁に演奏されている。
+        25thシングル。発売された2005年以降のライブではかなり頻繁に演奏されている。歌詞はhyde曰く、アルバムを通じたテーマとなった[戦争](../Page/戦争.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")を背景に、「死後も永遠にずっとその人を思い続ける、永遠の愛をテーマにした\[7\]」という。また、「死ねば永遠なのかなって、そういうひとつの結論\[8\]」と歌詞について述べている。
 6.  **AS ONE**
       - 作詞・作曲:hyde / 英語訳詞:Lynne Hobday / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")『サッカープレミアム』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")。
-        1コーラスと2コーラスの冒頭の詞以外[英語](../Page/英語.md "wikilink")詞の曲。詞の内容は同じ過ちを繰り返す歴史を愚かだと非難したもの。また、曲中にyukihiroによる[スクラッチが存在する](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")。
-        アルバム発売時に[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』で[演奏](../Page/演奏.md "wikilink")され、後に[NHK総合テレビ音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[POP JAM最終回1時間スペシャル](https://ja.wikipedia.org/wiki/ポップジャム#最終回スペシャル "wikilink")』では、「Link」と共に披露された。
+        歌詞の内容は「同じ過ちを繰り返す歴史を愚かだと非難したもの」で、1コーラスと2コーラスの冒頭の詞以外が[英語](../Page/英語.md "wikilink")詞の楽曲。
+        また、曲中にyukihiroによる[スクラッチが存在する](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")。これは、L'Arc〜en〜Cielのアルバムでは『[ark](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink")』収録の「Cradle」以来のプレイとなる。
+        アルバム発売時に[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』で[演奏](../Page/演奏.md "wikilink")され、2007年3月16日に放送された[NHK総合テレビ音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[POP JAM最終回1時間スペシャル](https://ja.wikipedia.org/wiki/ポップジャム#最終回スペシャル "wikilink")』では、「Link」と共に披露された。
 7.  **My Dear**
       - 作詞・作曲:hyde / 英語訳詞:Anis / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        hydeのソロ曲になる予定もあった[バラード](../Page/バラード.md "wikilink")。hydeは楽曲のアレンジについてバンドの化学反応の凄さを感じたといい、「ああいうアレンジは俺にはできないなって思った」「俺がやってたらもっと普通になってたと思う」と述べている\[5\]。
-        yukihiro曰くアルバムの中で特にお気に入りの曲であり、「この曲がアルバムの肝だと思ってるんですよ、個人的には\[6\]」と述べている。
-        この曲は[ギター](../Page/ギター.md "wikilink")が使われないため、レコーディング及びライブではkenはギターを持たずに全ての[コーラスを担当する](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。しかし、ライブツアー「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」では一転し[キーボードを演奏](../Page/キーボード_\(楽器\).md "wikilink")、ギターパートも追加された。
+        「Ophelia」同様、hydeのソロアルバムに収録される予定もあった[バラード](../Page/バラード.md "wikilink")。hydeは楽曲のアレンジについてバンドの化学反応の凄さを感じたといい、「ああいうアレンジは俺にはできないなって思った」「俺がやってたらもっと普通になってたと思う」と述べている\[9\]。
+        yukihiroは、アルバムの中で特にお気に入りの曲と述べており、「この曲がアルバムの肝だと思ってるんですよ、個人的には\[10\]」と語っている。
+        この曲では[ギター](../Page/ギター.md "wikilink")が全編で使われないため、レコーディング及びライブではkenはギターを持たずに全ての[コーラスを担当している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+        しかし、ライブツアー「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」では一転し[キーボードを演奏](../Page/キーボード_\(楽器\).md "wikilink")、ギターパートも追加された。
         [2011年](../Page/2011年.md "wikilink")には[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")にリアレンジされ、39thシングル「[CHASE](https://ja.wikipedia.org/wiki/CHASE_\(L'Arc〜en〜Cielの曲\) "wikilink")」に「My Dear -L'Acoustic version-」として収録されている。
 8.  **EXISTENCE**
       - 作詞:hyde / 英語訳詞:Anis / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
@@ -71,30 +78,31 @@
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        24thシングル。[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[MOVE CUSTOM](../Page/ダイハツ・ムーヴ.md "wikilink")」CMソング。サビの裏メロでtetsuyaが[バリトン・ギター](../Page/バリトン・ギター.md "wikilink")の[フェンダー・ベースVI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink")を弾いている\[7\]。
+        24thシングル。[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[MOVE CUSTOM](../Page/ダイハツ・ムーヴ.md "wikilink")」CMソング。サビの裏メロでtetsuyaが[バリトン・ギター](../Page/バリトン・ギター.md "wikilink")の[フェンダー・ベースVI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink")を弾いている\[11\]。
 10. **Ophelia**
       - 作詞・作曲:hyde / 英語訳詞:Lynne Hobday / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        「My Dear」同様、hydeのソロ曲になる予定もあった[ジャズ](../Page/ジャズ.md "wikilink")テイストに溢れる曲。
-        タイトルは[シェイクスピア作の](../Page/ウィリアム・シェイクスピア.md "wikilink")[悲劇](../Page/悲劇.md "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』に登場する、ハムレットの婚約者[オフィーリア](https://ja.wikipedia.org/wiki/オフィーリア "wikilink")から取られたもの。
+        「My Dear」同様、hydeのソロアルバムに収録される予定もあった、[ジャズ](../Page/ジャズ.md "wikilink")テイストに溢れる曲。
+        タイトルは[シェイクスピア作の](../Page/ウィリアム・シェイクスピア.md "wikilink")[悲劇](../Page/悲劇.md "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』に登場する、ハムレットの婚約者である[オフィーリア](https://ja.wikipedia.org/wiki/オフィーリア "wikilink")から取られたもの。
+        歪んだベースは、[エレクトロ・ハーモニックス](../Page/エレクトロ・ハーモニックス.md "wikilink")社のエフェクター「Graphic-Fuzz」のヴィンテージ品を用いて演奏している\[12\]。
         [三宅純](../Page/三宅純.md "wikilink")による[フリューゲルホルン](../Page/フリューゲルホルン.md "wikilink")のパートがあるが、ライブではhydeがそれを[サックスで演奏する](../Page/サクソフォーン.md "wikilink")。
-        歪んだベースは、[エレクトロ・ハーモニックス](../Page/エレクトロ・ハーモニックス.md "wikilink")社のエフェクター「Graphic-Fuzz」のヴィンテージ品を用いて演奏している\[8\]。
 11. **星空**
       - 作詞・作曲:hyde / 英語訳詞:Anis / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        平和をテーマにしたバラード。歌詞は制作当時に勃発した[イラク戦争](../Page/イラク戦争.md "wikilink")を受け、子供たちの気持ちになって書かれたものである。
-        アルバムツアー「AWAKE TOUR 2005」の他、「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」でもアンコールのラストで演奏された。
-        また、「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」のライブグッズの中に、この曲名にちなんでか「星ゾライト」という[サイリウムがある](../Page/ケミカルライト.md "wikilink")。
+        平和をテーマにしたバラード。歌詞は制作当時に勃発した[イラク戦争](../Page/イラク戦争.md "wikilink")を受け、戦地の子供たちの気持ちになって書かれたものである。
+        アルバム発売後に行われたライブツアー「AWAKE TOUR 2005」の他、「[TOUR 2008 L'7 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/TOUR_2008_L'7_〜Trans_ASIA_via_PARIS〜 "wikilink")」でもアンコールのラスト曲として演奏された。
+        また、「TOUR 2008 L'7 〜Trans ASIA via PARIS〜」のライブグッズの中には、この曲名に因んだ「星ゾライト」という[サイリウムがある](../Page/ケミカルライト.md "wikilink")。
 12. **twinkle, twinkle**
       - 作詞・作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
         2005年9月から中国全土にて[王子ネピア](../Page/王子ネピア.md "wikilink")「nepia」CMソングに起用されている。
         希望を持たせた本作のラストナンバー。前作収録の「[Lover Boy](https://ja.wikipedia.org/wiki/SMILE_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」に次ぐken作詞曲である。
-        歌詞についてkenは「優しい気分で、信頼という言葉を感じながら作れたなと思います\[9\]」と述べている。
-        kenは「[盆踊り](../Page/盆踊り.md "wikilink")のような皆で楽しめる音を目指した」という。また、yukihiro曰くドラム録りに関してkenから「[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")のドラマーが叩いているような感じ\[10\]」というリクエストがあったという。この曲では、tetsuyaがベースを終始[スラップで演奏している](../Page/スラップ奏法.md "wikilink")\[11\]。
+        歌詞についてkenは「優しい気分で、信頼という言葉を感じながら作れたなと思います\[13\]」と述べている。
+        また、kenは楽曲制作について「[盆踊り](../Page/盆踊り.md "wikilink")のような皆で楽しめる音を目指した」「喜怒哀楽の部分でいうと、以前は怒と哀ばかりで物事を考えて作っていた。ずっと言い続けている"誠意"というものが伝わればいいという、それだけなんです\[14\]」と述べている。この曲では、tetsuyaがベースを終始[スラップで演奏している](../Page/スラップ奏法.md "wikilink")\[15\]。
+        また、yukihiro曰くドラム録りに関してkenから「[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")のドラマーが叩いているような感じ\[16\]」というリクエストがあったという。
 13. **[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink") (live at Yoyogi National Stadium June 26, 2004)**
       - 作詞・作曲:hyde
     <!-- end list -->
@@ -269,6 +277,7 @@
 
   - L'Arc〜en〜Ciel & 岡野ハジメ：プロデュース
   - [ハウィー・ウェインバーグ](https://ja.wikipedia.org/wiki/ハウィー・ウェインバーグ "wikilink")：マスタリング
+  - 内田孝弘：リマスタリング（High-Resolution Audio）
 
 ## 収録ベストアルバム
 
@@ -278,18 +287,21 @@
 
 ## 脚注
 
-<references />
-
 [Category:L'Arc〜en〜Cielのアルバム](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  再発盤を含めれば2004年にリリースした『[DUNE 10th Anniversary Edition](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\)#10th_Anniversary_Edition "wikilink")』が最長。
-2.  『WORDS L'Arc〜en〜Ciel』、p.190、角川書店、2005年
+1.  『WORDS L'Arc〜en〜Ciel』、p.190、角川書店、2005年
+2.  再発盤を含めれば2004年にリリースした『[DUNE 10th Anniversary Edition](https://ja.wikipedia.org/wiki/DUNE_\(アルバム\)#10th_Anniversary_Edition "wikilink")』が最長。
 3.  『WORDS L'Arc〜en〜Ciel』、p.119、角川書店、2005年
-4.  『WORDS L'Arc〜en〜Ciel』、p.150、角川書店、2005年
-5.  『WORDS L'Arc〜en〜Ciel』、p.126、角川書店、2005年
-6.  『WORDS L'Arc〜en〜Ciel』、p.152、角川書店、2005年
-7.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』、p.71、2010年
+4.  『WORDS L'Arc〜en〜Ciel』、p.131、角川書店、2005年
+5.
+6.  『WORDS L'Arc〜en〜Ciel』、p.150、角川書店、2005年
+7.  『WORDS L'Arc〜en〜Ciel』p.52、角川書店、2005年
 8.
-9.  『WORDS L'Arc〜en〜Ciel』、p.131、角川書店、2005年
-10. 『WORDS L'Arc〜en〜Ciel』、p.154、角川書店、2005年
-11. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』、p.69、2010年
+9.  『WORDS L'Arc〜en〜Ciel』、p.126、角川書店、2005年
+10. 『WORDS L'Arc〜en〜Ciel』、p.152、角川書店、2005年
+11. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』、p.71、2010年
+12.
+13. 『WORDS L'Arc〜en〜Ciel』、p.131、角川書店、2005年
+14. 『WORDS L'Arc〜en〜Ciel』、p.132、角川書店、2005年
+15. リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』、p.69、2010年
+16. 『WORDS L'Arc〜en〜Ciel』、p.154、角川書店、2005年

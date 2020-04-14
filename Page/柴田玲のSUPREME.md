@@ -1,4 +1,4 @@
-> この記事は[SUPREME](https://ja.wikipedia.org/wiki/SUPREME)から翻訳されています。
+> この記事は[柴田玲のSUPREME](https://ja.wikipedia.org/wiki/柴田玲のSUPREME)から翻訳されています。
 
 
 **柴田玲のSUPREME（しばたれいのシュープリーム）**は、[TOKYO FMにて](../Page/エフエム東京.md "wikilink")2002年4月1日から2006年3月30日までの毎週平日の午前9:00～11:00にて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティーは[柴田玲](../Page/柴田玲.md "wikilink")。

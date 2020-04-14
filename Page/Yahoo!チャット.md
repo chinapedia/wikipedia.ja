@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!チャット](https://ja.wikipedia.org/wiki/Yahoo!チャット)から翻訳されています。
 
 
 **Yahoo\!チャット**（ヤフーチャット）とは、[Yahoo\! JAPANが運営していた](../Page/Yahoo!_JAPAN.md "wikilink")[チャット](../Page/チャット.md "wikilink")サイトの1つ。
@@ -69,10 +69,6 @@
 
 ## 外部リンク
 
-  - [Yahoo\!チャット](http://chat.yahoo.co.jp/)
-
   -
-
-
-
+  -
 [Category:チャット](https://ja.wikipedia.org/wiki/Category:チャット "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink") [Category:2014年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2014年廃止のウェブサイト "wikilink")

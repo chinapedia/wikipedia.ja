@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本ホテルズ](https://ja.wikipedia.org/wiki/JR西日本ホテルズ)から翻訳されています。
 
 
 **JR西日本ホテルズ**（ジェイアールにしにほんホテルズ）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）関連の[ホテル](../Page/ホテル.md "wikilink")の総称。

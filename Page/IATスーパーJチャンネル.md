@@ -1,4 +1,4 @@
-> この記事は[IATJ](https://ja.wikipedia.org/wiki/IATJ)から翻訳されています。
+> この記事は[IATスーパーJチャンネル](https://ja.wikipedia.org/wiki/IATスーパーJチャンネル)から翻訳されています。
 
 
 『**IATスーパーJチャンネル**』（アイエーティースーパージェイチャンネル）は、[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から放送されている[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")。現在は主に「Jチャンネルいわて」の呼称を使用している。

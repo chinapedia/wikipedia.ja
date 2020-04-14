@@ -1,4 +1,4 @@
-> この記事は[ DON!!](https://ja.wikipedia.org/wiki/_DON!!)から翻訳されています。
+> この記事は[あっぱれ外人 DONピシャリ!!](https://ja.wikipedia.org/wiki/あっぱれ外人_DONピシャリ!!)から翻訳されています。
 
 
 『**あっぱれ外人 DONピシャリ\!\!**』（あっぱれがいじん ドンピシャリ）は、1984年11月6日から1985年3月19日まで[テレビ朝日系列局で放送されていた](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週火曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

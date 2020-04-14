@@ -1,4 +1,4 @@
-> この記事は[GTR \(\)](https://ja.wikipedia.org/wiki/GTR_\(\))から翻訳されています。
+> この記事は[GTR \(バンド\)](https://ja.wikipedia.org/wiki/GTR_\(バンド\))から翻訳されています。
 
 
 **GTR** (ジーティーアール)は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")デビュー。

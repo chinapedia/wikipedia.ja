@@ -79,92 +79,102 @@ Samba 3.0までの歩みは「[Sambaの10年](http://wiki.samba.gr.jp/mediawiki/
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>メジャーアップグレード。Samba 3.0系の最後のリリースはSamba 3.0.36。</p></td>
+<td><p>SambaをActive Directoryドメインメンバにして、Windows Active Directoryドメインに参加できる。Unicodeサポート[5]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>GPL2からGPL3にライセンス変更。ファイルサービスの従来の最大1,024バイトというパス名、および最大256バイトのファイル名という制約がなくなり、ホストOSで設定した値までの文字列が扱えるようになった[5]。</p></td>
+<td><p>3.2に向けての開発ブランチ[6]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>クラスタサポートや管理ツールが強化[6]。</p></td>
+<td><p>GPL2からGPL3にライセンス変更。<a href="https://ja.wikipedia.org/wiki/IPv6" title="wikilink">IPv6</a>のサポート。ファイルサービスの従来の最大1,024バイトというパス名、および最大256バイトのファイル名という制約がなくなり、ホストOSで設定した値までの文字列が扱えるようになった[7]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>Samba 3とSamba 4ソースコードの両方を含む最初のリリース。デフォルトではSamba 4のビルドは無効[7]。</p></td>
+<td><p>クラスタサポートや管理ツールが強化[8]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB2" title="wikilink">SMB2の実験的サポートを含む最初のリリース</a>[8]。</p></td>
+<td><p>Samba 3とSamba 4ソースコードの両方を含む最初のリリース。デフォルトではSamba 4のビルドは無効[9]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB2" title="wikilink">SMB2を完全にサポートする最初のブランチ</a>[9]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB2" title="wikilink">SMB2の実験的サポートを含む最初のリリース</a>[10]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>SambaをActive Directoryドメインコントローラにして、Windows Active Directoryドメインに完全に参加できる[10]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB2" title="wikilink">SMB2を完全にサポートする最初のブランチ</a>[11]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB_3.0" title="wikilink">SMB3のサポート</a>[11]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB_2.1" title="wikilink">SMB2.1のサポート</a>。SambaをActive Directoryドメインコントローラにして、Windows Active Directoryドメインに完全に参加できる[12] [13]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Btrfs" title="wikilink">Btrfs</a>ベースのファイル圧縮、スナップショット、 <a href="https://ja.wikipedia.org/wiki/winbind" title="wikilink">winbind</a>統合[12]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB_3.0" title="wikilink">SMB3のサポート</a>[14]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>新しいロギング機能、SMB 3.1.1サポート[13]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Btrfs" title="wikilink">Btrfs</a>ベースのファイル圧縮、スナップショット、 <a href="https://ja.wikipedia.org/wiki/winbind" title="wikilink">winbind</a>統合[15]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>非同期フラッシュリクエスト[14]。</p></td>
+<td><p>新しいロギング機能、<a href="https://ja.wikipedia.org/wiki/Server_Message_Block#SMB_3.1.1" title="wikilink">SMB3.1.1のサポート</a>[16]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>NTLM v1はデフォルトで無効、バーチャルリストビュー(VLV)、さまざまなパフォーマンス改善[15]。</p></td>
+<td><p>非同期フラッシュリクエスト[17]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>マルチプロセス<a href="https://ja.wikipedia.org/wiki/Netlogon" title="wikilink">Netlogon</a>のサポート[16]。</p></td>
+<td><p>NTLMv1が既定で無効に、バーチャルリストビュー(VLV)、さまざまなパフォーマンス改善[18]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>Samba ADとMIT <a href="https://ja.wikipedia.org/wiki/Kerberos_(protocol)" title="wikilink">Kerberos</a>[17]</p></td>
+<td><p>マルチプロセス<a href="https://ja.wikipedia.org/wiki/Netlogon" title="wikilink">Netlogon</a>のサポート[19]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>[18]</p></td>
+<td><p>Samba ADとMIT <a href="https://ja.wikipedia.org/wiki/Kerberos_(protocol)" title="wikilink">Kerberos</a>[20]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>[19]</p></td>
+<td><p>[21]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>Python 3のフルサポート。preforkプロセスモデルの改良[20]。</p></td>
+<td><p>[22]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>セキュリティ更新[21]。</p></td>
+<td><p>Python 3のフルサポート。preforkプロセスモデルの改良[23]。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>SMB1が既定で無効に[24]。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>[25]。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -212,3 +222,7 @@ Samba 3.0までの歩みは「[Sambaの10年](http://wiki.samba.gr.jp/mediawiki/
 19.
 20.
 21.
+22.
+23.
+24.
+25.

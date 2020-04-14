@@ -1,4 +1,4 @@
-> この記事は[! SPACE SHOWER CHART SHOW](https://ja.wikipedia.org/wiki/!_SPACE_SHOWER_CHART_SHOW)から翻訳されています。
+> この記事は[ゴゴイチ! 〜SPACE SHOWER CHART SHOW〜](https://ja.wikipedia.org/wiki/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜)から翻訳されています。
 
 
 『**ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜**』は[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")で放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")4月放送開始。[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")をもって終了した。後続番組は「[SPACE SHOWER HOT 50 チャート★コバーン](https://ja.wikipedia.org/wiki/SPACE_SHOWER_HOT_50_チャート★コバーン "wikilink")」（毎週金曜日 18:30 - 20:00（生放送））となる。 タイトルの由来は、「この番組は毎週日曜日の午後1時からの生放送だから」である。但し、週に何回か再放送もされていた。

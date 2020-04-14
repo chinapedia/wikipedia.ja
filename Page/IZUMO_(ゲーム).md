@@ -1,4 +1,4 @@
-> この記事は[IZUMO \(\)](https://ja.wikipedia.org/wiki/IZUMO_\(\))から翻訳されています。
+> この記事は[IZUMO \(ゲーム\)](https://ja.wikipedia.org/wiki/IZUMO_\(ゲーム\))から翻訳されています。
 
 
 『**IZUMO**』（イズモ）は、[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")、及びそのシリーズである。

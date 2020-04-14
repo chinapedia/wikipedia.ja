@@ -1,4 +1,4 @@
-> この記事は[THE MAD CAPSULE MARKET\'S \(\)](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKET\'S_\(\))から翻訳されています。
+> この記事は[THE MAD CAPSULE MARKET\'S \(アルバム\)](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKET\'S_\(アルバム\))から翻訳されています。
 
 
 『**THE MAD CAPSULE MARKET'S**』（ザ・マッド・カプセル・マーケッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[THE MAD CAPSULE MARKET'Sのセルフカバー](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")・アルバム。

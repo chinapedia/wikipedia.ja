@@ -1,4 +1,4 @@
-> この記事は[True \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/True_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[True \(L\'Arc〜en〜Cielのアルバム\)](https://ja.wikipedia.org/wiki/True_\(L\'Arc〜en〜Cielのアルバム\))から翻訳されています。
 
 
 『**True**』(トゥルー) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の4作目の[アルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
@@ -42,9 +42,9 @@
     <!-- end list -->
       -
         hydeがタイトルから決めたといわれる曲で、「神に遊ばれている人類の姿」を唄っている。
-        hydeは歌詞に関し、アルバム制作する上で「自分が創造主になったような、高い視点からものを見ることを心掛けた\[13\]」と語っている。
+        hydeは本作に収録されている楽曲の歌詞に関し、「自分が創造主になったような、高い視点からものを見ることを心掛けた\[13\]」と語っている。
         実際の歌と[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")で歌詞の一部が異なっており、ブックレットには「大人」と書かれている部分を、hydeは「こども」と歌っている。ただし、これは誤植ではなく、hydeの意図により[ルビ](../Page/ルビ.md "wikilink")が振られなかったものである。そのため、誤解を招いたことがあった。
-        [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に行われたツアー「Tour'98 ハートに火をつけろ\!」以降、長らくライブで演奏されていない。
+        [2020年](../Page/2020年.md "wikilink")に行われたコンサートツアー「[ARENA TOUR MMXX](../Page/ARENA_TOUR_MMXX.md "wikilink")」において、ホールツアー「Tour '98 ハートに火をつけろ\!」以来22年ぶりにライブで披露された。
         後に、パートチェンジバンド[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")でリアレンジされ、25thシングル「[Killing Me](../Page/Killing_Me.md "wikilink")」のカップリングに収録している。また、[日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』の企画で[青木さやか](../Page/青木さやか.md "wikilink")が[キーボード兼](../Page/キーボード_\(楽器\).md "wikilink")[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パート担当のP](https://ja.wikipedia.org/wiki/声部 "wikilink")'UNK青木として参加した「〜feat.P'UNK青木」バージョンも同シングルに収録されている。
 4.  **[flower](../Page/Flower_\(L'Arc〜en〜Cielの曲\).md "wikilink")**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & [Takao Konishi](../Page/小西貴雄.md "wikilink")
@@ -79,7 +79,7 @@
       -
         4thシングル。この曲で初めてのオリコン週間シングルチャートTOP5入りを果たした。仮タイトルは「[バレンタインの憂鬱](../Page/バレンタインデー.md "wikilink")」。
         シングル版との違いは、イントロが削除されたことやミックス変更、一部[ギター](../Page/ギター.md "wikilink")のリテイク、使用[ベースの変更など](../Page/ベース_\(弦楽器\).md "wikilink")。そのため、こちらはシングルより僅かに短くなっている。
-        1998年に行われたコンサートツアー「Tour '98 ハートに火をつけろ\!」以降、長らくライブで演奏されていなかったが、2020年に行われた「MMXX ARENA TOUR」のアンコールで22年ぶりに演奏された。
+        2020年に行われたコンサートツアー「ARENA TOUR MMXX」において、ホールツアー「Tour '98 ハートに火をつけろ\!」以来22年ぶりにライブで披露された。
 9.  **I Wish**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Takao Konishi
     <!-- end list -->
@@ -114,7 +114,7 @@
 
   - [金子飛鳥](../Page/金子飛鳥.md "wikilink")：[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
   - 橋本しのぶ：[チェロ](../Page/チェロ.md "wikilink")
-  - 富樫春生：[弦編曲](../Page/弦楽器.md "wikilink")
+  - 富樫春生：[弦編曲](../Page/弦楽器.md "wikilink")、その他の楽器
   - 迫田至：[マニピュレート](../Page/マニピュレーター.md "wikilink")
 
 <!-- end list -->
@@ -125,7 +125,7 @@
 
   - ken：[ヴィブラフォン](../Page/ヴィブラフォン.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")
   - tetsu、hyde："[Falsetto](../Page/ファルセット.md "wikilink") of Venus"
-  - [菅原サトル](https://ja.wikipedia.org/wiki/菅原サトル "wikilink")：マニピュレート
+  - [菅原サトル](https://ja.wikipedia.org/wiki/菅原サトル "wikilink")：マニピュレート、その他の楽器
 
 <!-- end list -->
 
@@ -134,6 +134,7 @@
 <!-- end list -->
 
   - Take：[タンバリン](../Page/タンバリン.md "wikilink")
+  - 秦野猛行：その他の楽器
 
 <!-- end list -->
 
@@ -144,6 +145,7 @@
   - hyde：[ブルースハープ](../Page/ハーモニカ.md "wikilink")
   - [佐々木真理](https://ja.wikipedia.org/wiki/佐々木真理 "wikilink")：ファルセット[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - 吉田潔：マニピュレート
+  - 小西貴雄：その他の楽器
 
 <!-- end list -->
 
@@ -152,7 +154,7 @@
 <!-- end list -->
 
   - ken：タンバリン
-  - 菅原サトル：マニピュレート
+  - 菅原サトル：マニピュレート、その他の楽器
 
 <!-- end list -->
 
@@ -166,6 +168,7 @@
   - GAMOU (東京スカパラダイスオーケストラ)：テナーサックス
   - [谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink") (東京スカパラダイスオーケストラ)：バリトンサックス
   - Take：タンバリン
+  - 秦野猛行：その他の楽器
 
 <!-- end list -->
 
@@ -174,7 +177,7 @@
 <!-- end list -->
 
   - 金子飛鳥ストリングス：ストリングス
-  - 西平彰：弦編曲
+  - 西平彰：弦編曲、その他の楽器
 
 <!-- end list -->
 
@@ -183,6 +186,7 @@
 <!-- end list -->
 
   - tetsu：ファルセットコーラス
+  - 佐久間正英：その他の楽器
 
 <!-- end list -->
 
@@ -195,7 +199,7 @@
   - [数原晋](../Page/数原晋.md "wikilink")：トランペット
   - 清岡太郎：トロンボーン
   - 金城寛文：テナーサックス
-  - [小西貴雄](../Page/小西貴雄.md "wikilink")：管編曲
+  - [小西貴雄](../Page/小西貴雄.md "wikilink")：管編曲、その他の楽器
   - Yusaku、Reiko、Nozomi、Yukari、Toshiyuki："Children Chorus"
   - L'Arc〜en〜Ciel、Momopy、Chiepy："Male & Female Chorus"
   - hyde、ken、tetsu、sakura："L'Arc〜en〜Ciel Hand Claps"
@@ -209,10 +213,30 @@
 
   - 金子飛鳥：バイオリン
   - 橋本しのぶ：チェロ
-  - 富樫春生：弦編曲
+  - 富樫春生：弦編曲、その他の楽器
   - Takako Ogawa：コーラス
   - tetsu：ファルセットボーカル
   - 迫田至：マニピュレート
+
+
+*\[Additional Musicians\]*
+
+  - 赤波江敦夫：レコーディング
+  - 内海幸雄：レコーディング
+  - 藤島浩人：レコーディング
+  - 比留間整：レコーディング、ミックス
+
+*\[Produce & Mastering\]*
+
+  - L'Arc〜en〜Ciel：プロデュース
+  - [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")：プロデュース（\#1,\#10）
+  - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink")：プロデュース（\#2,\#5）
+  - 秦野猛行：プロデュース（\#3,\#6）
+  - [小西貴雄](../Page/小西貴雄.md "wikilink")：プロデュース（\#4,\#9）
+  - [西平彰](../Page/西平彰.md "wikilink")：プロデュース（\#7）
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")：プロデュース（\#8）
+  - 原田光晴：マスタリング
+  - 内田孝弘：リマスタリング（High-Resolution Audio）
 
 ## 収録ベストアルバム
 

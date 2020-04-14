@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[硫酸ニッケル\(II\)](https://ja.wikipedia.org/wiki/硫酸ニッケル\(II\))から翻訳されています。
 
 
 )（七水和物） | SolubleOther = *無水物*

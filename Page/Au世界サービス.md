@@ -1,4 +1,4 @@
-> この記事は[Au](https://ja.wikipedia.org/wiki/Au)から翻訳されています。
+> この記事は[Au世界サービス](https://ja.wikipedia.org/wiki/Au世界サービス)から翻訳されています。
 
 
 **au世界サービス**（エーユーせかいサービス）は、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[携帯電話](../Page/携帯電話.md "wikilink")ブランドである[auが行っている](../Page/Au_\(携帯電話\).md "wikilink")[国際ローミングサービスである](../Page/ローミング.md "wikilink")。旧名称は**グローバルパスポート**（GLOBAL PASSPORT）。

@@ -1,4 +1,4 @@
-> この記事は[EXP.](https://ja.wikipedia.org/wiki/EXP.)から翻訳されています。
+> この記事は[ファイコンEXP.](https://ja.wikipedia.org/wiki/ファイコンEXP.)から翻訳されています。
 
 
 『**ファイコンEXP.**』（ファイコンエクスプレス）は、[2004年](../Page/2004年.md "wikilink")4月12日から[北海道文化放送](../Page/北海道文化放送.md "wikilink")で毎週[月曜](../Page/月曜日.md "wikilink") 19:54 - 20:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた\[1\][ローカル](../Page/ローカル番組.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink")である。[特別番組](../Page/特別番組.md "wikilink")放送時には放送休止となる。この記事では、後継番組「**ファイコンPLUS**」（ファイコンプラス）についても記述する。
@@ -17,7 +17,7 @@
 
 また、日本ハムの選手の場合でも番組終了後の[ヒッチハイクで同社の](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[CMが放送されていたが](../Page/コマーシャルメッセージ.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")に同社製品である「[白い恋人](../Page/白い恋人.md "wikilink")」の日付改竄事件が発覚。同年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")放送分から同社のCMは[公共広告機構のものに差し替えられ](../Page/ACジャパン.md "wikilink")、JR北海道の単独提供となっていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")より番組のスポンサーに復帰。また、同社は2008年シーズンの[ニトリ](../Page/ニトリ.md "wikilink")へのユニフォームスポンサーの変更以降も本番組のスポンサーを継続している。
 
-「ファイコンPLUS」への改題後はJR北海道に代わり[ホクレン](https://ja.wikipedia.org/wiki/ホクレン "wikilink")がメインスポンサーとなり、コンサドーレ選手時の石屋製菓スポンサーも継続された。
+「ファイコンPLUS」への改題後はJR北海道に代わり[ホクレンがメインスポンサーとなり](../Page/ホクレン農業協同組合連合会.md "wikilink")、コンサドーレ選手時の石屋製菓スポンサーも継続された。
 
 ## 関連する番組・雑誌
 
@@ -34,6 +34,6 @@
 
 <references/>
 
-[Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:北海道文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送のテレビ番組 "wikilink") [Category:北海道のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのミニ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink")
+[Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:北海道文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送のテレビ番組 "wikilink") [Category:北海道のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのミニ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:北海道日本ハムファイターズの歴史](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズの歴史 "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink")
 
 1.  「春の番組改編 道内スポーツ 日ハム情報を充実 NHK 特集を生放送 UHB コメンテーターに広瀬氏」『北海道新聞』2004年（平成16年）3月27日付夕刊2面。

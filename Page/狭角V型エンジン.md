@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[狭角V型エンジン](https://ja.wikipedia.org/wiki/狭角V型エンジン)から翻訳されています。
 
 
 [L_V_VR6_engines.svg](https://ja.wikipedia.org/wiki/File:L_V_VR6_engines.svg "fig:L_V_VR6_engines.svg"), **b**: [V型エンジン](../Page/V型エンジン.md "wikilink"), **c**: **狭角V型エンジン**\]\] [Stand_VR6-motor.PNG](https://ja.wikipedia.org/wiki/File:Stand_VR6-motor.PNG "fig:Stand_VR6-motor.PNG")、中央:[V型6気筒](../Page/V型6気筒.md "wikilink")、 右:狭角V型6気筒(VR6)

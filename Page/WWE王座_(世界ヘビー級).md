@@ -1,4 +1,4 @@
-> この記事は[WWE \(\)](https://ja.wikipedia.org/wiki/WWE_\(\))から翻訳されています。
+> この記事は[WWE王座 \(世界ヘビー級\)](https://ja.wikipedia.org/wiki/WWE王座_\(世界ヘビー級\))から翻訳されています。
 
 
 **WWE王座**（*The WWE Championship*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。王座を巡る抗争は番組のメインストーリーとして扱われている。

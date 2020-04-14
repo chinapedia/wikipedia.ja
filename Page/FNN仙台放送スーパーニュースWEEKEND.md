@@ -1,4 +1,4 @@
-> この記事は[FNNWEEKEND](https://ja.wikipedia.org/wiki/FNNWEEKEND)から翻訳されています。
+> この記事は[FNN仙台放送スーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNN仙台放送スーパーニュースWEEKEND)から翻訳されています。
 
 
 『**FNN仙台放送スーパーニュースWEEKEND**』（エフエヌエヌ せんだいほうそう スーパーニュース・ウィークエンド、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*FNN 仙台放送 Super NEWS WEEKEND*）は、[仙台放送](../Page/仙台放送.md "wikilink")で放送されている（全国ニュース『[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』を内包した）週末夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

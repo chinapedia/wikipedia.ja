@@ -1,4 +1,4 @@
-> この記事は[Heavenly \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/Heavenly_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[Heavenly \(L\'Arc〜en〜Cielのアルバム\)](https://ja.wikipedia.org/wiki/Heavenly_\(L\'Arc〜en〜Cielのアルバム\))から翻訳されています。
 
 
 『**heavenly**』（ヘヴンリー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の3作目の[アルバム](../Page/アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。発売元は[Ki/oon Sony Records](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")。
@@ -9,11 +9,13 @@
 
 アルバムの[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、「素敵\[1\]を召しませ」。hydeはアルバムタイトルを決めた経緯について「詞を見てもらうと分かると思うんだけど、ホント暗いと思うんです。でも、気分的には"幸福感"のあるタイトルにしたかった\[2\]」と述べている。
 
-本作のレコーディングについて、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は「本作を作る前はすごく危機感があった。バンドが描いていた方向じゃない所を向いている様な\[3\]」「前作はレコーディングにすごく時間がかかったから、この作品はもうちょっとスピードを上げて作った\[4\]」、「短時間で仕上げて、出来上がったら時間をかけて、徹底的にプロモーションをしようって最初から考えてました\[5\]」と語っている。この発言の背景には、前作『Tierra』の制作が予定より長期化し、ライブ等のプロモーションが行えず、デビュー後初めて行った全国ライブツアー「Tour Sense of time '94」の一部公演でチケットがソールドアウトしない事態が発生したことが一因としてある。そのため、プロモーションに時間をかけるため、レコーディングに入る前段階で、メンバーの中で曲のアレンジをある程度煮詰めてレコーディングが行われた\[6\]。また、[sakuraは本作を](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")「バンドで合わせたときの新鮮さを失わないように取り組んだアルバム\[7\]」と表現している。
+本作のレコーディングについて、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は「本作を作る前はすごく危機感があった。バンドが描いていた方向じゃない所を向いている様な\[3\]」「前作はレコーディングにすごく時間がかかったから、この作品はもうちょっとスピードを上げて作った\[4\]」、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は「短時間で仕上げて、出来上がったら時間をかけて、徹底的にプロモーションをしようって最初から考えてました\[5\]」と語っている。この発言の背景には、前作『Tierra』の制作が予定より長期化し、ライブ等のプロモーションが行えず、デビュー後初めて行った全国ライブツアー「Tour Sense of time '94」の一部公演でチケットがソールドアウトしない事態が発生したことが一因としてある。そのため、プロモーションに時間をかけるため、レコーディングに入る前段階で、メンバーの中で曲のアレンジをある程度煮詰めてレコーディングが行われた\[6\]。また、[sakuraは](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")「バンドで合わせたときの新鮮さを失わないように取り組んだアルバム\[7\]」、hydeは「メンバーのアレンジ面での力が発揮できた第一弾\[8\]」とこのアルバムを表現している。
+
+また、バンド・サウンドを強く意識した制作となっており、hydeは「前2作よりズバ抜けてバンドっぽいと思う。"じゃあ前は違ったのか？"って言われそうだけど\[9\]」、kenは「歌メロが早い時期から見えていたので、4人で曲の細かい所を固める作業に時間をかけられたのが良かった。本作では各パートを絡めようという意識があった\[10\]」と述べている。また、sakuraは「音の分離もよくなり音数が少なくなってるだけに、前作よりこじんまりとした印象を受けるかもしれないけど、その分レコーディングの時の空間、メンバーの息づかいがより明確になったと思います\[11\]」と述べている。
 
 ジャケットの写真はビアンカという女性[モデル](../Page/モデル_\(職業\).md "wikilink")。彼女は本作の他に後述の写真集や、シングル「[Vivid Colors](../Page/Vivid_Colors.md "wikilink")」「夏の憂鬱 \[time to say good-bye\]」のジャケットにも起用される他、ミュージック・ビデオにも出演している。また、後に「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」のMVにも出演しており、何かとL'Arc〜en〜Cielと縁がある人物である。
 
-本作のプロモーションとして[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")から[8月31日](../Page/8月31日.md "wikilink")にかけて、全国キャンペーンイベント「Rendez-vous 1995 Summer」を新潟、広島、岡山、札幌、名古屋、熊本、福岡、仙台、東京、大阪の計10都市の会場で開催。全国のCDショップで本作を予約した者から抽選で10,000人が招待された\[8\]。イベントではフィルム上映、メンバーのトーク、楽曲演奏などが行われた。また、同年7月30日には[渋谷ハチ公前広場のスクリーンで](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")、前述のイベントと同日にシークレットライブを開催する旨の告知が行われた。告知の通り、同日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でシークレットライブ「Rendez-vous前夜祭」が行われた。
+本作のプロモーションとして[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")から[8月31日](../Page/8月31日.md "wikilink")にかけて、全国キャンペーンイベント「Rendez-vous 1995 Summer」を新潟、広島、岡山、札幌、名古屋、熊本、福岡、仙台、東京、大阪の計10都市の会場で開催。全国のCDショップで本作を予約した者から抽選で10,000人が招待された\[12\]。イベントではフィルム上映、メンバーのトーク、楽曲演奏などが行われた。また、同年7月30日には[渋谷ハチ公前広場のスクリーンで](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")、前述のイベントと同日にシークレットライブを開催する旨の告知が行われた。告知の通り、同日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でシークレットライブ「Rendez-vous前夜祭」が行われた。
 
 また、1995年12月に[音楽専科社](../Page/音楽専科社.md "wikilink")より、本作の[オルゴール](../Page/オルゴール.md "wikilink")CD「"heavenly"music box version CD」を限定予約通販で発売した。このCDは同年[12月24日](../Page/12月24日.md "wikilink")に申込者へ届くようになっており、先着3,000名に限りシリアルナンバーが付いている。内容はオルゴールCDに加え、超大型サイズの豪華写真集 (オールカラー120ページ)、シリアルナンバーカードなどである。
 
@@ -27,44 +29,44 @@
       - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        歌詞についてhydeは「単なるラヴソングではなく、遠まわしに皮肉を入れた曲」「唯一メッセージ性のある詞。人間の愚かさについてのメッセージ」と語っている\[9\]。
-        作曲者のkenは曲について「広いところを一定のスピードで誰にも邪魔されずに車か列車で走っている\[10\]」というイメージだと述べている。sakuraは「今まで発表した2枚のアルバムと共通項が結構見い出せる曲\[11\]」と述べている。また、kenは「[ディレイにこだわろうと思って作っていました](../Page/ディレイ_\(音響機器\).md "wikilink")\[12\]」と述べている。
-        ちなみに、tetsuyaは曲のイントロなど部分部分で、5弦のフレットレス・ベース「ESP BB-5 CUSTOM」を弾いている\[13\]。
+        歌詞についてhydeは「単なるラヴソングではなく、遠まわしに皮肉を入れた曲」「唯一メッセージ性のある詞。人間の愚かさについてのメッセージを込めました」と語っている\[13\]。作曲者のkenは曲について「広いところを一定のスピードで誰にも邪魔されずに車か列車で走っているというイメージ\[14\]」だと述べている。
+        sakuraは「今まで発表した2枚のアルバムと共通項が結構見い出せる曲\[15\]」と述べている。また、kenは「[ディレイにこだわろうと思って作っていました](../Page/ディレイ_\(音響機器\).md "wikilink")\[16\]」と述べている。
+        ちなみに、tetsuyaは曲のイントロなど部分部分で、5弦のフレットレス・ベース「ESP BB-5 CUSTOM」を弾いている\[17\]。
         1996年に行われたライブツアー「BIG CITY NIGHTS ROUND AROUND '96」以降ライブで演奏していない。
 2.  **[Vivid Colors](../Page/Vivid_Colors.md "wikilink")**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & [Akira Nishihira](../Page/西平彰.md "wikilink")
     <!-- end list -->
       -
-        2ndシングル。ライブツアー「in CLUB '95」で先行披露された楽曲\[14\]。
-        シングルバージョンとはミックスが微妙に違うほか、アウトロの時間が長くなっおり、曲のトータル時間が2秒ほど長い。
+        2ndシングル。ライブツアー「in CLUB '95」で先行披露された楽曲\[18\]。
+        シングルバージョンとはミックスが微妙に違うほか、アウトロの時間が長くなっており、曲のトータル時間が2秒ほど長い。
         このためブックレットや公式サイトにはないが、[Sony Music Shop](http://www.sonymusicshop.jp/detail.asp?associate=SMO&goods=KSC2-114)には「アルバムヴァージョン」の表記がある。
 3.  **[and She Said](https://ja.wikipedia.org/wiki/and_She_Said "wikilink")**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        2nd[ビデオシングル](https://ja.wikipedia.org/wiki/ビデオシングル "wikilink")。歌詞を手掛けたhyde曰く、曲に[ビートルズ](../Page/ビートルズ.md "wikilink")のイメージがあったといい、ビートルズの詩の全集を読んだ上で歌詞が書かれた\[15\]。
+        2nd[ビデオシングル](https://ja.wikipedia.org/wiki/ビデオシングル "wikilink")。歌詞を手掛けたhyde曰く、曲に[ビートルズ](../Page/ビートルズ.md "wikilink")のイメージがあったといい、ビートルズの詩の全集を読んだ上で歌詞が書かれた\[19\]。
 4.  **ガラス玉**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        ライブツアー「in CLUB '95」で先行披露された楽曲\[16\]。曲が完成する前は、歌詞の一部にある「Into the silence」というタイトルだった。
+        ライブツアー「in CLUB '95」で先行披露された楽曲\[20\]。曲が完成する前は、歌詞の一部にある「Into the silence」というタイトルだった。
         最初の約30秒間は波の音のみ入っており、静かにAメロに入るが[サビ](../Page/サビ.md "wikilink")に入った途端一変する。作曲を手掛けたkenによると、この曲の[ギター](../Page/ギター.md "wikilink")[ソロはイメージビデオ](../Page/ソロ_\(音楽\).md "wikilink")『[Siesta 〜Film of Dreams〜](../Page/Siesta_〜Film_of_Dreams〜.md "wikilink")』の撮影で訪れた[モロッコ](../Page/モロッコ.md "wikilink")でイメージが生まれたという。
-        このアルバムの曲の中で一番初めに歌詞が書かれたバラードで、hyde曰く「海の中から月を見てるイメージ\[17\]」だったという。また、hydeはアルバムの中でもお気に入りの曲だと語っており、「僕が思うkenの素晴らしい部分がよく出てる曲だと思う」「静から動への移り変わりは、もうL'Arc〜en〜Cielのクセですね」と述べている\[18\]。
+        このアルバムの曲の中で一番初めに歌詞が書かれたバラードで、hyde曰く「海の中から月を見てるイメージ\[21\]」だったという。また、hydeはアルバムの中でもお気に入りの曲だと語っており、「僕が思うkenの素晴らしい部分がよく出てる曲だと思う」「静から動への移り変わりは、もうL'Arc〜en〜Cielのクセですね」と述べている\[22\]。
         [2011年](../Page/2011年.md "wikilink")に行われたライブ「[20th L'Anniversary LIVE](https://ja.wikipedia.org/wiki/20th_L'Anniversary_LIVE "wikilink")」において、コンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」以来約15年ぶりに演奏された。
 5.  **Secret Signs**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        作曲者のkenは、[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink")と[ジャズ](../Page/ジャズ.md "wikilink")を混ぜたような曲を作りたかったという。曲を聴いたhydeは「セクシーでイヤラしい歌詞を歌ってみたい」と思い歌詞が書かれた。
-        また、tetsuya曰く「曲が求めていたという感じで、自然とジャジーなアレンジになった\[19\]」といい、ジャジーなランニング・ベースを弾いてる。sakuraは「ジャズの一種として叩いた\[20\]」と述べており、タム類のチューニングもジャズを意識し、随所に4ビートが散りばめられている\[21\]。
+        作曲者のkenは、[ハード・ロック](https://ja.wikipedia.org/wiki/ハード・ロック "wikilink")と[ジャズ](../Page/ジャズ.md "wikilink")を混ぜたような曲を作りたかったという。曲を聴いたhydeは「セクシーでイヤラしい歌詞を歌ってみたい\[23\]」と思い歌詞が書かれた。
+        この曲でkenはピックでは出ないニュアンスを出すため、自身初の[指弾きを披露している](../Page/フィンガー・ピッキング.md "wikilink")。また、tetsuya曰く「曲が求めていたという感じで、自然とジャジーなアレンジになった\[24\]」といい、ジャジーなランニング・ベースを弾いてる。sakuraは「俺の中ではジャズの一種として叩いた\[25\]」と述べており、タム類のチューニングもジャズを意識し、随所に4ビートが散りばめられている\[26\]。
         1996年に行われたライブツアー「BIG CITY NIGHTS ROUND AROUND '96」以降ライブで演奏していない。
 6.  **C'est La Vie**
       - 作詞:hyde / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        タイトルは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「人生なんてこんなものだ」という意味で、読み方は「セ ラ ヴィ」。hyde曰く「何気ない日常のことを書きたかった」といい、「タイトルは"もう、どうなったっていいや"っていう感じの言葉なんだけど、これはできるだけ前向きにした」と述べている\[22\]。
-        作曲者のtetsuyaは「[ダリル・ホール&ジョン・オーツ](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink")の「マンイーター」のような[モータウン](../Page/モータウン.md "wikilink")系のリズムで、哀愁ある曲のつもりで作った\[23\]」と述べている。
-        [2012年](../Page/2012年.md "wikilink")に行われたライブツアー「[20th L'Anniversary WORLD TOUR 2012 THE FINAL](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」において、ライブ「1997 REINCARNATION」以来約15年ぶりに演奏された\[24\]。
+        タイトルは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「人生なんてこんなものだ」という意味で、読み方は「セ ラ ヴィ」。hyde曰く「何気ない日常のことを書きたかった\[27\]」といい、「タイトルは"もう、どうなったっていいや"っていう感じの言葉なんだけど、これはできるだけ前向きにした」と述べている\[28\]。
+        作曲者のtetsuyaは「[ダリル・ホール&ジョン・オーツ](../Page/ダリル・ホール&ジョン・オーツ.md "wikilink")の「マンイーター」のような[モータウン](../Page/モータウン.md "wikilink")系のリズムで、哀愁ある曲のつもりで作った\[29\]」と述べている。
+        [2012年](../Page/2012年.md "wikilink")に行われたライブツアー「[20th L'Anniversary WORLD TOUR 2012 THE FINAL](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_WORLD_TOUR_2012 "wikilink")」において、ライブ「1997 REINCARNATION」以来約15年ぶりに演奏された\[30\]。
 7.  **夏の憂鬱**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
@@ -76,24 +78,29 @@
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        この曲の原曲は「記憶の破片 (かけら)」というタイトルで、[インディーズ](../Page/インディーズ.md "wikilink")時代から演奏されていたが、本作収録に伴いリアレンジされている。
-        本作の制作時では、最後に作詞と歌入れが行われている。なお、「記憶の破片」の作曲者は元ギターのhiroである。
+        hyde曰く、タイトルは「癒せない」という意味\[31\]。この曲の原曲は元ギターのhiroが制作し「記憶の破片 (かけら)」というタイトルで、[インディーズ](../Page/インディーズ.md "wikilink")時代から演奏されていた。
+        前作『[Tierra](../Page/Tierra_\(アルバム\).md "wikilink")』制作の際に、この曲が収録される予定がありドラム録りのみ行われていたが、本作収録にあたりtetsuyaが歌メロや譜割りを変更している\[32\]。
+        hydeは「この曲は、わかりにくいと思うんですけど、ハッピーエンドのつもりなんですよ\[33\]」と歌詞について述べている。本作では、作詞と歌入れが最後に行われている。
         1996年に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で行われたライブ「Kiss me  deadly '96 REVENGE」以降ライブで演奏していない。
 9.  **静かの海で**
       - 作詞:hyde / 作曲・編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
         メジャーデビュー後唯一となる、作曲クレジットがL'Arc〜en〜Ciel名義の楽曲。音源の原案は主に[sakuraによって制作された](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")。
-        タイトルの"[静かの海](../Page/静かの海.md "wikilink")"は[月の海](../Page/月の海.md "wikilink")のひとつで、[アポロ11号](../Page/アポロ11号.md "wikilink")から切り離された月着陸船が1969年に人類史上初の月面着陸を行った場所を指している。また、歌詞は月面着陸の際に、月に残された機械の視点で書かれている。歌詞の中に「feel heavenly」のフレーズがあり、アルバムの中でタイトルの『heavenly』が歌詞に使われている唯一の楽曲となっている。
-        イントロには宇宙飛行士の通信音声が入っている。また、kenはイルカの鳴き声をイメージしギターを弾いたという。本作の収録曲で唯一演奏時間は7分を超えている。
-        アルバム発売後に行われたライブツアー「TOUR heavenly '95」ではアンコールのラスト曲として披露された\[25\]。
-        [2018年](../Page/2018年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2018_L'ArChristmas "wikilink")」において、コンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」の[日本武道館](../Page/日本武道館.md "wikilink")公演以来約22年ぶりに披露された。同公演では歌詞のイメージとなった月や宇宙がスクリーンに映し出された\[26\]。
+        タイトルの「[静かの海](../Page/静かの海.md "wikilink")」は[月の海](../Page/月の海.md "wikilink")のひとつで、[アポロ11号](../Page/アポロ11号.md "wikilink")から切り離された月着陸船が1969年に人類史上初の月面着陸を行った場所を指している。歌詞は月面着陸の際に、月に残された機械の視点で書かれている。歌詞を書くにあたって、sakuraからのリクエストがあったといい、hydeは「そのイメージを僕なりにつかんで、詞を書くのに時間がかかった\[34\]」と述べている。仮タイトルは「宇宙」と名付けられている。
+        歌詞の中に「feel heavenly」のコーラスがあり、アルバムの中でタイトルの『heavenly』が歌詞に使われている唯一の楽曲となっている。ちなみに、このコーラスはメンバー4人の合唱によるもので、tetsuyaは「結構キーも高いし、ずっと続くから大変だった\[35\]」と述べている。他にもイントロには宇宙飛行士の通信音声が入っている。
+        sakuraはこの曲に関し、「この曲は俺の意見を優先してもらった。取り組み姿勢はドラマーというよりアレンジャー的だった\[36\]」「曲全体の流れの中に存在する装飾的なドラムという感じ。ドラムもパーカッションの一つとして捉えている\[37\]」と述べている。本作の収録曲で唯一演奏時間は7分を超える大作となっている。
+        また、ken曰く、hydeからの「イルカの鳴き声をみたいなものが出せないかな\[38\]」というリクエストを受け、ギターとは違う楽器をイメージしてギターの音作りを行ったという。イントロでは[ボトル・ネック奏法にディレイをかけて](../Page/スライドギター.md "wikilink")[サウンドエフェクト的な音色を出している他](../Page/効果音.md "wikilink")\[39\]、リバース・[リバーヴといった特殊効果を使っており](../Page/残響.md "wikilink")\[40\]、kenは「サイケな感じになっていると思う」と述べている。また、tetsuyaは曲の全編で、5弦のフレットレス・ベースを演奏している。
+        アルバム発売後に行われたライブツアー「TOUR heavenly '95」ではアンコールのラスト曲として披露された\[41\]。
+        [2018年](../Page/2018年.md "wikilink")に行われたライブ「[L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2018_L'ArChristmas "wikilink")」において、コンサートツアー「CONCERT TOUR '96〜'97 Carnival of True」の[日本武道館](../Page/日本武道館.md "wikilink")公演以来約22年ぶりに披露された。同公演では歌詞のイメージとなった月や宇宙がスクリーンに映し出された\[42\]。
 10. **The Rain Leaves a Scar**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        hyde曰く、タイトルは「雨さえも僕の傷跡を癒せない」という意味。メンバーは派手さを意識して演奏したという。
-        L'Arc〜en〜Cielのアルバムでは珍しく、バラードではなく激しい曲で終わる。
+        ライブツアー「in CLUB '95」で先行披露された楽曲。hyde曰く、タイトルは「雨さえも僕の傷跡を癒せない」という意味で、歌詞は「孤独の極致」がテーマだという\[43\]。
+        kenは制作当初バラードを意識し、ピアノとストリングスの世界をイメージしていたというが、結果的にテンポの速いハードな曲となった\[44\]。
+        L'Arc〜en〜Cielのアルバムでは珍しくバラードではなく激しい曲で終わる。kenのリクエストもあり、メンバーは派手さを意識して演奏したという。
+        sakuraは「最後の打ち上げ花火みたいな感じ。得意なフレーズを中心に派手さを意識して叩いてみた」「何気に雰囲気のある曲なんで、ただの派手なプレイには終わらせなかった」と述べている\[45\]。
         1995年に日本武道館で行われたライブ「TOUR heavenly '95 final」以降ライブで演奏していない。
 
 ## 参加ミュージシャン
@@ -102,9 +109,17 @@
   - [ken](https://ja.wikipedia.org/wiki/ken "wikilink")：[Guitar](../Page/ギター.md "wikilink")
   - [tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [sakura](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") & [Percussion](../Page/打楽器.md "wikilink")
-      - 秦野猛行：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
-      - [西平彰](../Page/西平彰.md "wikilink")：“Vivid Colors” Keyboards
-      - Jonathan E.Miles：Voice of “Shizukano umi de”
+  - *\[Additional Musicians\]*
+      - 秦野猛行：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+      - [西平彰](../Page/西平彰.md "wikilink")：キーボード（\#2）
+      - Jonathan E.Miles：Voice of "Shizukano umi de"（\#9）
+      - 北岡一郎：レコーディング
+      - 中林慶一：レコーディング、ミックス
+  - *\[Produce & Mastering\]*
+      - L'Arc〜en〜Ciel：プロデュース
+      - 高橋"RANDY"和仁：プロデュース補佐\[46\]
+      - 田中三一：マスタリング
+      - 内田孝弘：リマスタリング（High-Resolution Audio）
 
 ## 収録ベストアルバム
 
@@ -113,8 +128,6 @@
   - 『[TWENITY 1991-1996](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』 (\#2、\#7,シングルバージョン)
 
 ## 脚注
-
-<references />
 
 [Category:L'Arc〜en〜Cielのアルバム](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink")
 
@@ -125,22 +138,42 @@
 5.  『ARENA37℃』、音楽専科社、p.16、1996年12月号
 6.
 7.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、1996年
-8.  [L'Arc-en-Ciel.com 1995](https://www.larc-en-ciel.com/biography/1995.php) -L'Arc〜en〜Ciel.com
-9.  『ロッキンf』、立東社、1995年9月号付録
-10.
-11.
-12.
-13.
+8.  『ロッキンf』、p.11、立東社、1995年9月号付録
+9.
+10. 『ロッキンf』、p.13、立東社、1995年9月号付録
+11. 『ロッキンf』、p.20、立東社、1995年9月号付録
+12. [L'Arc-en-Ciel.com 1995](https://www.larc-en-ciel.com/biography/1995.php) -L'Arc〜en〜Ciel.com
+13. 『ロッキンf』、p.4、立東社、1995年9月号付録
 14.
-15. 『GiGS』、p.7、シンコー・ミュージック、1995年9月号付録
+15.
 16.
 17.
 18.
-19.
+19. 『GiGS』、p.7、シンコー・ミュージック、1995年9月号付録
 20.
-21. 『GiGS』、p.10、シンコー・ミュージック、1995年9月号付録
+21. 『ロッキンf』、p.5、立東社、1995年9月号付録
 22.
-23.
-24. 通常であれば「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の演奏前に行われるtetsuyaによるベースソロから始まるというサプライズ演出であった。
+23. 『ロッキンf』、p.6、立東社、1995年9月号付録
+24.
 25.
-26. [【詳細レポート】L'Arc-en-Ciel、＜L'ArChristmas＞初日「すでにクリスマスの奇跡が起こっている」](https://www.barks.jp/news/?id=1000162953) - BARKS
+26. 『GiGS』、p.10、シンコー・ミュージック、1995年9月号付録
+27.
+28.
+29. 『ロッキンf』、p.6、立東社、1995年9月号付録
+30. 通常であれば「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の演奏前に行われるtetsuyaによるベースソロから始まるというサプライズ演出であった。
+31.
+32. 『ロッキンf』、p.6、立東社、1995年9月号付録
+33.
+34.
+35.
+36.
+37.
+38. 『ロッキンf』、p.14、立東社、1995年9月号付録
+39.
+40.
+41.
+42. [【詳細レポート】L'Arc-en-Ciel、＜L'ArChristmas＞初日「すでにクリスマスの奇跡が起こっている」](https://www.barks.jp/news/?id=1000162953) - BARKS
+43.
+44.
+45.
+46. クレジットはCo-produced by Kazuhito "Randy" Takahashi

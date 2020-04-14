@@ -1,4 +1,4 @@
-> この記事は[DDT \(\)](https://ja.wikipedia.org/wiki/DDT_\(\))から翻訳されています。
+> この記事は[DDT \(プロレス技\)](https://ja.wikipedia.org/wiki/DDT_\(プロレス技\))から翻訳されています。
 
 
 [Randy's_DDT.jpg](https://ja.wikipedia.org/wiki/File:Randy's_DDT.jpg "fig:Randy's_DDT.jpg")によるDDT（エレベイテッドDDT）。\]\] **DDT**（ディー・ディー・ティー）は、[プロレス技](../Page/プロレス技.md "wikilink")の一種である。

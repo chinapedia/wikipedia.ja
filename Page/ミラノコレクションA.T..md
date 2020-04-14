@@ -1,4 +1,4 @@
-> この記事は[A.T.](https://ja.wikipedia.org/wiki/A.T.)から翻訳されています。
+> この記事は[ミラノコレクションA.T.](https://ja.wikipedia.org/wiki/ミラノコレクションA.T.)から翻訳されています。
 
 
 **ミラノコレクションA.T.**（ミラノコレクション・エー・ティー / *Milano Collection A.T.*、[1976年](../Page/1976年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[整体師](https://ja.wikipedia.org/wiki/整体師 "wikilink")、元[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**澤藤 章仁**（さわふじ あきひと）\[1\]。

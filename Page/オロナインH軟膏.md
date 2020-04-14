@@ -1,11 +1,11 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[オロナインH軟膏](https://ja.wikipedia.org/wiki/オロナインH軟膏)から翻訳されています。
 
 
 **オロナインH軟膏**（オロナインエイチなんこう）は、[大塚製薬工場](../Page/大塚製薬工場.md "wikilink")が製造、[大塚製薬](../Page/大塚製薬.md "wikilink")が販売する皮膚用抗菌軟膏剤薬（[第2類医薬品](https://ja.wikipedia.org/wiki/一般用医薬品#第二類医薬品 "wikilink")）である。
 
 ## 沿革
 
-オロナインの原点となったのはアメリカ合衆国の製薬会社・オロナイトケミカル（[Oronite chemical](https://ja.wikipedia.org/wiki/w:Oronite "wikilink")）が製造した殺菌用消毒剤である。オロナイトは、[スタンダード・オイル](../Page/スタンダード・オイル.md "wikilink")・カリフォルニア社 (SOCAL) の一部として設立された製薬会社で、現在は[シェブロン](../Page/シェブロン.md "wikilink")グループのシェブロン・オロナイト・カンパニーとなっている。社名は、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の「黒い金 (oro negro)」から来ており、[原油](../Page/原油.md "wikilink")を意味する\[1\]。
+オロナインの原点となったのは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の製薬会社・オロナイトケミカル（[Oronite chemical](https://ja.wikipedia.org/wiki/w:Oronite "wikilink")）が製造した殺菌用消毒剤である。オロナイトは、[スタンダード・オイル](../Page/スタンダード・オイル.md "wikilink")・カリフォルニア社 (SOCAL) の一部として設立された製薬会社で、現在は[シェブロン](../Page/シェブロン.md "wikilink")グループのシェブロン・オロナイト・カンパニーとなっている。社名は、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の「黒い金 (oro negro)」から来ており、[原油](../Page/原油.md "wikilink")を意味する\[1\]。
 
 当時、[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")から「これを何かに使ってみないか」と持ちかけられ、社長の[大塚正士](../Page/大塚正士.md "wikilink")が軟膏（半固形タイプの外用薬）として売り出すことを提案した。この背景には当時[ペニシリン](../Page/ペニシリン.md "wikilink")軟膏や[メンソレータム](../Page/メンソレータム.md "wikilink")といった大衆薬がヒットしていたことがあり、この分野に参入する事で安定した売れ行きが期待できるとの目論みからであった。早速、当時本社があった徳島県の[徳島大学](../Page/徳島大学.md "wikilink")の3人の教授に依頼して1952年に完成、1953年に販売に漕ぎつけた。
 

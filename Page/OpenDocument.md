@@ -15,12 +15,12 @@ ODFは、複数のXMLファイルを[ZIP形式で](../Page/ZIP_\(ファイルフ
 
 ODFファイルの中身となっているXMLファイルはそれぞれ次のような内容となっている。
 
-  - <span style="font-family:monospace;">content.xml</span>:テキストコンテンツ
-    <span style="font-family:monospace;">meta.xml</span>:メタ情報。
-    <span style="font-family:monospace;">settings.xml</span>:設定情報
-    <span style="font-family:monospace;">styles.xml</span>:テキストのスタイル情報
-    <span style="font-family:monospace;">meta-inf/manifest.xml</span>:XMLファイルの構造
-    <span style="font-family:monospace;">Thumbnails/thumbnail.png</span>:サムネイル画像（必須ではない）
+  -  : テキストコンテンツ
+     : メタ情報。
+     : 設定情報
+     : テキストのスタイル情報
+     : XMLファイルの構造
+     : サムネイル画像（必須ではない）
 
 ## ファイルの種類
 

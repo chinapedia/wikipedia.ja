@@ -1,4 +1,4 @@
-> この記事は[ATM](https://ja.wikipedia.org/wiki/ATM)から翻訳されています。
+> この記事は[ステーションATM](https://ja.wikipedia.org/wiki/ステーションATM)から翻訳されています。
 
 
 [Bank_of_Yokohama_Station_ATM.jpg](https://ja.wikipedia.org/wiki/File:Bank_of_Yokohama_Station_ATM.jpg "fig:Bank_of_Yokohama_Station_ATM.jpg") **ステーションATM**（ステーションエーティーエム）とは、[駅に設置されている](../Page/鉄道駅.md "wikilink")[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")（ATM）である。
@@ -151,7 +151,7 @@
 14. [銀行ATM「NBANK」Patsat](http://www.nankai.co.jp/traffic/ekiatm.html) 南海電鉄
 15.
 16. アットバンクATMは、子会社だったエーエム・ピーエム・近鉄（後にカッパ・クリエイト傘下となり、エーエム・ピーエム・関西に社名変更。その後ファミリーマートへの統合により、2011年4月1日に解散）が運営する構内店舗をam/pm→ファミリーマートに転換したことにより設置された。その後、アットバンクATMは、イーネットATM・ゆうちょ銀行ATMに置き換えられた。一部店舗を除く。
-17. [天王寺駅](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")・[難波駅の](https://ja.wikipedia.org/wiki/難波駅_\(大阪市高速電気軌道\) "wikilink")[ekimo内にある](https://ja.wikipedia.org/wiki/エキモ "wikilink")[アンスリー](../Page/アンスリー.md "wikilink")に設置。
+17. [天王寺駅](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")・[難波駅の](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")[ekimo内にある](https://ja.wikipedia.org/wiki/エキモ "wikilink")[アンスリー](../Page/アンスリー.md "wikilink")に設置。
 18. セブン銀行ATMは、子会社の[ジェイアール西日本デイリーサービスネット](../Page/ジェイアール西日本デイリーサービスネット.md "wikilink")が運営する構内店舗をセブン-イレブンに転換することにより順次設置される。
 19. セブン銀行ATMは、子会社の神鉄観光が運営する構内店舗をセブン-イレブンに転換したことにより設置された。
 20. ローソン銀行ATMは、子会社の[山陽フレンズが運営する構内店舗](https://ja.wikipedia.org/wiki/フレンズショップ "wikilink")（[フレンズショップ](https://ja.wikipedia.org/wiki/フレンズショップ "wikilink")）を[ローソン](../Page/ローソン.md "wikilink")＋フレンズに転換したことにより設置された。

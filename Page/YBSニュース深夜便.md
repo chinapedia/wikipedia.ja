@@ -1,4 +1,4 @@
-> この記事は[YBS](https://ja.wikipedia.org/wiki/YBS)から翻訳されています。
+> この記事は[YBSニュース深夜便](https://ja.wikipedia.org/wiki/YBSニュース深夜便)から翻訳されています。
 
 
 『**YBSニュース深夜便**』（ワイビーエス ニュースしんやびん）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBSテレビ）で放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[収録](../Page/収録.md "wikilink")放送。

@@ -1,4 +1,4 @@
-> この記事は[VM-T \(\)](https://ja.wikipedia.org/wiki/VM-T_\(\))から翻訳されています。
+> この記事は[VM-T \(航空機\)](https://ja.wikipedia.org/wiki/VM-T_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_Soviet_Union_1923.svg "wikilink") VM-T /  | 画像=画像:VM-T_Atlant_at_MAKS_2005.jpg | キャプション=小型機外貨物ポッド搭載状態のVM-T

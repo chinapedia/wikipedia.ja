@@ -1,4 +1,4 @@
-> この記事は[GO!GO!KIDS!TV!](https://ja.wikipedia.org/wiki/GO!GO!KIDS!TV!)から翻訳されています。
+> この記事は[みっちゃん・ジョリのGO!GO!KIDS!TV!](https://ja.wikipedia.org/wiki/みっちゃん・ジョリのGO!GO!KIDS!TV!)から翻訳されています。
 
 
 『**みっちゃん・ジョリのGO\!GO\!KIDS\!TV\!**』（みっちゃん・ジョリのゴーゴーキッズティーヴィー）は、[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")\[1\]から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")で放送されていた[テレビ番組](../Page/テレビ番組.md "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 10:00 - 10:15 （[日本標準時](../Page/日本標準時.md "wikilink")）。

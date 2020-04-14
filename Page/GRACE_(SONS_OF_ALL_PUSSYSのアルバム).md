@@ -1,4 +1,4 @@
-> この記事は[GRACE \(SONS OF ALL PUSSYS\)](https://ja.wikipedia.org/wiki/GRACE_\(SONS_OF_ALL_PUSSYS\))から翻訳されています。
+> この記事は[GRACE \(SONS OF ALL PUSSYSのアルバム\)](https://ja.wikipedia.org/wiki/GRACE_\(SONS_OF_ALL_PUSSYSのアルバム\))から翻訳されています。
 
 
 『**GRACE**』（グレイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド、[SONS OF ALL PUSSYSの](../Page/SONS_OF_ALL_PUSSYS.md "wikilink")1stミニ[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")発売。発売元は[DANGER CRUE RECORDS](https://ja.wikipedia.org/wiki/デンジャークルー "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[:BiwaTrout\(LakeBiwa-JP\).jpg](https://ja.wikipedia.org/wiki/:BiwaTrout\(LakeBiwa-JP\).jpg)から翻訳されています。
+> この記事は[ファイル:BiwaTrout\(LakeBiwa-JP\).jpg](https://ja.wikipedia.org/wiki/ファイル:BiwaTrout\(LakeBiwa-JP\).jpg)から翻訳されています。
 
 
 Species: **[Oncorhynchus masou](https://ja.wikipedia.org/wiki/:nl:Japanse_zalm "wikilink") rhodurus**

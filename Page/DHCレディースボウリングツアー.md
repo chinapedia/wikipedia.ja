@@ -1,4 +1,4 @@
-> この記事は[DHC](https://ja.wikipedia.org/wiki/DHC)から翻訳されています。
+> この記事は[DHCレディースボウリングツアー](https://ja.wikipedia.org/wiki/DHCレディースボウリングツアー)から翻訳されています。
 
 
 **DHCレディースボウリングツアー**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子](../Page/女性.md "wikilink")[プロ](../Page/プロフェッショナル.md "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")の大会である。

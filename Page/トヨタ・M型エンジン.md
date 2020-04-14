@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[トヨタ・M型エンジン](https://ja.wikipedia.org/wiki/トヨタ・M型エンジン)から翻訳されています。
 
 
 **トヨタ・M型エンジン**（トヨタ・Mがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（1981年以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")）が1965年から1993年まで製造していた、同社を代表する[直列6気筒](../Page/直列6気筒.md "wikilink")[クロスフロー](https://ja.wikipedia.org/wiki/クロスフロー "wikilink")[エンジン](../Page/内燃機関.md "wikilink")。代表的な搭載車は[クラウン](../Page/トヨタ・クラウン.md "wikilink")、[2000GT](../Page/トヨタ・2000GT.md "wikilink")、[マークII](../Page/トヨタ・マークII.md "wikilink")、[セリカXX](../Page/トヨタ・セリカXX.md "wikilink")、[スープラ](../Page/トヨタ・スープラ.md "wikilink")、[ソアラ](../Page/トヨタ・ソアラ.md "wikilink")。

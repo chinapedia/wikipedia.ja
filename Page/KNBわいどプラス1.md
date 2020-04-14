@@ -1,4 +1,4 @@
-> この記事は[KNB1](https://ja.wikipedia.org/wiki/KNB1)から翻訳されています。
+> この記事は[KNBわいどプラス1](https://ja.wikipedia.org/wiki/KNBわいどプラス1)から翻訳されています。
 
 
 『**KNBわいどプラス1**』（ケイエヌビーわいどプラスワン） は、[1999年](../Page/1999年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から\[1\][2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで\[2\][北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で平日夕方に放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")（[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")）である。

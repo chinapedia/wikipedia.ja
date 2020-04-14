@@ -1,4 +1,4 @@
-> この記事は[MASK \(\)](https://ja.wikipedia.org/wiki/MASK_\(\))から翻訳されています。
+> この記事は[MASK \(アニメ\)](https://ja.wikipedia.org/wiki/MASK_\(アニメ\))から翻訳されています。
 
 
 **M.A.S.K.**（マスク、*Mobile Armored Strike Kommand* ）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の共同制作による[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

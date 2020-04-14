@@ -1,4 +1,4 @@
-> この記事は[XV](https://ja.wikipedia.org/wiki/XV)から翻訳されています。
+> この記事は[機甲艦隊ダイラガーXV](https://ja.wikipedia.org/wiki/機甲艦隊ダイラガーXV)から翻訳されています。
 
 
 『**機甲艦隊ダイラガーXV**』（きこうかんたいダイラガーフィフティーン、XVは[ローマ数字](../Page/ローマ数字.md "wikilink")の15）は[1982年](../Page/1982年.md "wikilink")（昭和57年）[3月3日](../Page/3月3日.md "wikilink")から、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[3月23日](../Page/3月23日.md "wikilink")まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で毎週水曜日17:55 - 18:25の枠にて、全56話（本編は全52話）が放送された、[東映](../Page/東映.md "wikilink")、[東映動画製作の](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。

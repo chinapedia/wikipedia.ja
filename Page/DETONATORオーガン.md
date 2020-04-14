@@ -1,4 +1,4 @@
-> この記事は[DETONATOR](https://ja.wikipedia.org/wiki/DETONATOR)から翻訳されています。
+> この記事は[DETONATORオーガン](https://ja.wikipedia.org/wiki/DETONATORオーガン)から翻訳されています。
 
 
 『**DETONATORオーガン**』（デトネイター・オーガン）は、[1991年](../Page/1991年.md "wikilink")から[1992年](../Page/1992年.md "wikilink")にかけて発売された[柿沼秀樹](../Page/柿沼秀樹.md "wikilink")原作の[OVA](../Page/OVA.md "wikilink")作品。全3話。

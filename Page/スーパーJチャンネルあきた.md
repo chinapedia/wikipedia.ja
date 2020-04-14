@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJチャンネルあきた](https://ja.wikipedia.org/wiki/スーパーJチャンネルあきた)から翻訳されています。
 
 
 『**スーパーJチャンネルあきた**』（スーパージェイチャンネルあきた）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")で放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

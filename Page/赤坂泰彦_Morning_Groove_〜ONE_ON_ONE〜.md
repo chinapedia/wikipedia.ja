@@ -1,4 +1,4 @@
-> この記事は[ Morning Groove ONE ON ONE](https://ja.wikipedia.org/wiki/_Morning_Groove_ONE_ON_ONE)から翻訳されています。
+> この記事は[赤坂泰彦 Morning Groove 〜ONE ON ONE〜](https://ja.wikipedia.org/wiki/赤坂泰彦_Morning_Groove_〜ONE_ON_ONE〜)から翻訳されています。
 
 
 **赤坂泰彦 Morning Groove 〜ONE ON ONE〜**（あかさかやすひこ モーニンググルーヴ〜ワンオンワン〜）は、[InterFMを](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")[キーステーション](https://ja.wikipedia.org/wiki/キーステーション "wikilink")に、[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")加盟局の[FM CO・CO・LOをネットして放送されていた](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")、[生放送](../Page/生放送.md "wikilink")平日朝のワイド番組である。

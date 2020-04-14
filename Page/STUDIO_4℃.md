@@ -1,4 +1,4 @@
-> この記事は[STUDIO 4](https://ja.wikipedia.org/wiki/STUDIO_4)から翻訳されています。
+> この記事は[STUDIO 4℃](https://ja.wikipedia.org/wiki/STUDIO_4℃)から翻訳されています。
 
 
 **株式会社スタジオよんどしい**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](../Page/日本動画協会.md "wikilink")正会員。
@@ -67,7 +67,7 @@
   - [魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")（2004年）
   - [スポーツ大佐](https://ja.wikipedia.org/wiki/団地ともお#スポーツ大佐 "wikilink")（2007年）
   - [トランスフォーマー アニメイテッド](https://ja.wikipedia.org/wiki/トランスフォーマー_アニメイテッド "wikilink")（2008年）
-  - [ThunderCats](https://ja.wikipedia.org/wiki/:en:ThunderCats_\(2011_TV_series\) "wikilink")（2011年）
+  - [サンダーキャッツ](https://ja.wikipedia.org/wiki/サンダーキャッツ "wikilink")（2011年）
   - [三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")「空飛ぶサイダー」 テレビCM（2015年）
   - [おかしなガムボール](https://ja.wikipedia.org/wiki/おかしなガムボール "wikilink")（2016年、「因縁の対決?」（英：The Fury）の戦闘シーン）
   - [戦隊ヒーロー スキヤキフォース](https://ja.wikipedia.org/wiki/戦隊ヒーロー_スキヤキフォース "wikilink")（2017年）

@@ -1,4 +1,4 @@
-> この記事は[SM](https://ja.wikipedia.org/wiki/SM)から翻訳されています。
+> この記事は[SMエンターテインメント](https://ja.wikipedia.org/wiki/SMエンターテインメント)から翻訳されています。
 
 
 **株式会社エスエム・エンタテインメント**（S.M. Entertainment Co., Ltd.、以下「**SM**」）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[ソウル市に本社を置く](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[KOSDAQ](https://ja.wikipedia.org/wiki/KOSDAQ "wikilink")上場の総合エンターテインメント会社。通称は**SMエンターテインメント**。

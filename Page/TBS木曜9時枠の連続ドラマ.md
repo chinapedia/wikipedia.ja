@@ -1,4 +1,4 @@
-> この記事は[TBS9](https://ja.wikipedia.org/wiki/TBS9)から翻訳されています。
+> この記事は[TBS木曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS木曜9時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS木曜9時枠の連続ドラマ**（ティービーエスもくようくじわくのれんぞくドラマ）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、毎週[木曜日](../Page/木曜日.md "wikilink")の21:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠である。この枠は2009年3月26日の[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")（第9シリーズ）をもっていったん水曜21時へ枠移動となったが、2010年10月より再開して2011年9月まで放送。この時間帯にTBSが制作した35の番組が放送されている（シリーズは一つと考える）。

@@ -1,4 +1,4 @@
-> この記事は[IZUMO --](https://ja.wikipedia.org/wiki/IZUMO_--)から翻訳されています。
+> この記事は[IZUMO -猛き剣の閃記-](https://ja.wikipedia.org/wiki/IZUMO_-猛き剣の閃記-)から翻訳されています。
 
 
 『**IZUMO -猛き剣の閃記-**』（イズモ -たけきつるぎのせんき-）は、[Studio e.go\!のゲームソフト](../Page/Studio_e.go!.md "wikilink")『[IZUMO2](https://ja.wikipedia.org/wiki/IZUMO2 "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化作品である。

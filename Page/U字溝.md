@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[U字溝](https://ja.wikipedia.org/wiki/U字溝)から翻訳されています。
 
 
 [U字溝P5221687.JPG](https://ja.wikipedia.org/wiki/File:U字溝P5221687.JPG "fig:U字溝P5221687.JPG") **U字溝**（ユーじこう）とは、連結式の排水溝のことである。[断面](../Page/断面.md "wikilink")がU字型であることから命名されている。コンクリート製のものは**鉄筋コンクリートU形**と呼ばれている。主に連結して[道路](../Page/道路.md "wikilink")や土地の用・排水路に用いられる。形状は[JIS規格により定められており](../Page/日本産業規格.md "wikilink")、[工場](../Page/工場.md "wikilink")で大量生産をすることができる。大きさは用途や水量に応じて対応できるよう、さまざまな大きさがある。状況に応じて[コンクリート](../Page/コンクリート.md "wikilink")製や[アルミニウム](../Page/アルミニウム.md "wikilink")製（[グレーチング](../Page/グレーチング.md "wikilink")）、木製の蓋が掛けられる。

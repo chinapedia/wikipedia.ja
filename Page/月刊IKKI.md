@@ -1,4 +1,4 @@
-> この記事は[IKKI](https://ja.wikipedia.org/wiki/IKKI)から翻訳されています。
+> この記事は[月刊IKKI](https://ja.wikipedia.org/wiki/月刊IKKI)から翻訳されています。
 
 
 『**月刊IKKI**』（げっかんイッキ）は、2003年から2014年まで[小学館](../Page/小学館.md "wikilink")から発行されていた[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")。毎月25日発売。

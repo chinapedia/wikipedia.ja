@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・ロウ・タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・ロウ・タッグチーム王座)から翻訳されています。
 
 
 **WWE・ロウ・タッグチーム王座**（*WWE RAW Tag-Team Championship*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。
@@ -670,6 +670,14 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ストリート・プロフイッツ" title="wikilink">ストリート・プロフイッツ</a><br />
+<a href="https://ja.wikipedia.org/wiki/アンジェロ・ドーキンス" title="wikilink">アンジェロ・ドーキンス</a> &amp; <a href="https://ja.wikipedia.org/wiki/ケネス・クロフォード" title="wikilink">モンテス・フォード</a></p></td>
+<td><p>1</p></td>
+<td><p>3月2日</p></td>
+<td><p>RAW</p></td>
+<td><p>One Fall</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

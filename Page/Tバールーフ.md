@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[Tバールーフ](https://ja.wikipedia.org/wiki/Tバールーフ)から翻訳されています。
 
 
 [Red_Corvette_Stingray_pic1a.JPG](https://ja.wikipedia.org/wiki/File:Red_Corvette_Stingray_pic1a.JPG "fig:Red_Corvette_Stingray_pic1a.JPG")）\]\] **Tバールーフ** (T-BarRoof) は、[オープンカー](../Page/オープンカー.md "wikilink")の形態の一つである。 ルーフパネルの中央を細く残して、左右ルーフが取り外し可能な構造のオープンカーである。

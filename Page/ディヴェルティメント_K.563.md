@@ -1,4 +1,4 @@
-> この記事は[ K.563](https://ja.wikipedia.org/wiki/_K.563)から翻訳されています。
+> この記事は[ディヴェルティメント K.563](https://ja.wikipedia.org/wiki/ディヴェルティメント_K.563)から翻訳されています。
 
 
 **ディヴェルティメント 変ホ長調** [K.563は](../Page/ケッヘル番号.md "wikilink")、[ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")によって作曲され、[1788年](../Page/1788年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")で完成された。

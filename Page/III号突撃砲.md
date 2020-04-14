@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[III号突撃砲](https://ja.wikipedia.org/wiki/III号突撃砲)から翻訳されています。
 
 
 **III号突撃砲** (さんごうとつげきほう、、略称:) は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で開発された[突撃砲](../Page/突撃砲.md "wikilink")。[制式番号は](../Page/特殊車輌番号.md "wikilink") Sd.Kfz.142 または 142/1。[III号戦車](../Page/III号戦車.md "wikilink")を流用した突撃砲である。

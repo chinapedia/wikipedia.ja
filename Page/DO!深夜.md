@@ -1,4 +1,4 @@
-> この記事は[DO!](https://ja.wikipedia.org/wiki/DO!)から翻訳されています。
+> この記事は[DO!深夜](https://ja.wikipedia.org/wiki/DO!深夜)から翻訳されています。
 
 
 『**DO\!深夜**』（どしんや）は、[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[土曜深夜に編成していた](../Page/土曜日.md "wikilink")[関東ローカル](../Page/関東ローカル.md "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")放送枠。

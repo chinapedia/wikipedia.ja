@@ -1,4 +1,4 @@
-> この記事は[SEXUAL!](https://ja.wikipedia.org/wiki/SEXUAL!)から翻訳されています。
+> この記事は[SEXUAL×××××!](https://ja.wikipedia.org/wiki/SEXUAL×××××!)から翻訳されています。
 
 
 『**SEXUAL×××××\!**』（セクシュアル-\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")である。アルバムは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ビクターインビテーションよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。

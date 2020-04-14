@@ -1,4 +1,4 @@
-> この記事は[LIVE10!](https://ja.wikipedia.org/wiki/LIVE10!)から翻訳されています。
+> この記事は[お笑いLIVE10!](https://ja.wikipedia.org/wiki/お笑いLIVE10!)から翻訳されています。
 
 
 **お笑いLIVE10\!**（おわらいらいぶてん）は、[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")まで[TBS系列で](../Page/TBSテレビ.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")21:00 - 21:54([JST](../Page/日本標準時.md "wikilink"))に[生放送](../Page/生放送.md "wikilink")されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

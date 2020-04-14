@@ -1,4 +1,4 @@
-> この記事は[SUNSUN](https://ja.wikipedia.org/wiki/SUNSUN)から翻訳されています。
+> この記事は[SUNSUNスーパーニュース](https://ja.wikipedia.org/wiki/SUNSUNスーパーニュース)から翻訳されています。
 
 
 『**SUNSUNスーパーニュース**』（さんさんスーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*SUNSUN Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")で[夕](../Page/夕.md "wikilink")方に放送されていた[高知県](../Page/高知県.md "wikilink")向けの[ローカルワイドニュース番組](../Page/報道番組.md "wikilink")。

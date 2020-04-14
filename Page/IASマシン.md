@@ -1,4 +1,4 @@
-> この記事は[IAS](https://ja.wikipedia.org/wiki/IAS)から翻訳されています。
+> この記事は[IASマシン](https://ja.wikipedia.org/wiki/IASマシン)から翻訳されています。
 
 
 **IASマシン**とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")の[プリンストン高等研究所](../Page/プリンストン高等研究所.md "wikilink")(IAS)が開発した初期の電子式[コンピュータ](../Page/コンピュータ.md "wikilink")である。IASマシンは1945年末ごろから開発が開始され、1951年稼動している\[1\]。いわゆる[ノイマン型](../Page/ノイマン型.md "wikilink")の最初期のコンピュータの一つである。また、本機と、他に複数作られた同構成のコンピュータ\[2\]を特に指してvon Neumann-architecture computersとすることがある。なお、ノイマン型の考案の功績はノイマン1人に帰すのは正しくない、とされている（[ノイマン型](../Page/ノイマン型.md "wikilink")の記事を参照）。

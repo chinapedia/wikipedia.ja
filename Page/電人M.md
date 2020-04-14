@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[電人M](https://ja.wikipedia.org/wiki/電人M)から翻訳されています。
 
 
 『**電人M**』（でんじんエム）は、月刊娯楽雑誌「[少年](../Page/少年_\(雑誌\).md "wikilink")」（[光文社](../Page/光文社.md "wikilink")）に[1960年](../Page/1960年.md "wikilink")1月号から12月号まで連載された[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")作の少年向け[推理小説](../Page/推理小説.md "wikilink")。

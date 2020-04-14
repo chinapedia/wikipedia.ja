@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 鈴木タイムラー](https://ja.wikipedia.org/wiki/THE_鈴木タイムラー)から翻訳されています。
 
 
 **THE 鈴木タイムラー**（ざ すずきタイムラー）は[tvk（テレビ神奈川）のほか数局で放送されていた](../Page/テレビ神奈川.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[ドキュメント](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2005年](../Page/2005年.md "wikilink")9月まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")にて放送されていた『[鈴木タイムラー](../Page/鈴木タイムラー.md "wikilink")』の続編である。制作は[ザ・ワークス](../Page/ザ・ワークス_\(テレビ制作会社\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[KNB1](https://ja.wikipedia.org/wiki/KNB1)から翻訳されています。
+> この記事は[KNBニュースプラス1](https://ja.wikipedia.org/wiki/KNBニュースプラス1)から翻訳されています。
 
 
 『**KNBニュースプラス1**』（ケイエヌビーニュースプラスワン）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で放送された[報道番組](../Page/報道番組.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")で、当初のタイトルは『**KNBプラス1**』だった。

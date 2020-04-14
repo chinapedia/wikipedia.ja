@@ -1,4 +1,4 @@
-> この記事は[ROMANESQUE \(\)](https://ja.wikipedia.org/wiki/ROMANESQUE_\(\))から翻訳されています。
+> この記事は[ROMANESQUE \(アルバム\)](https://ja.wikipedia.org/wiki/ROMANESQUE_\(アルバム\))から翻訳されています。
 
 
 『**ROMANESQUE**』（ロマネスク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")である。アルバムは[1988年](../Page/1988年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[ビクターインビテーションよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。

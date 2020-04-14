@@ -1,4 +1,4 @@
-> この記事は[Du le quartz](https://ja.wikipedia.org/wiki/Du_le_quartz)から翻訳されています。
+> この記事は[Dué le quartz](https://ja.wikipedia.org/wiki/Dué_le_quartz)から翻訳されています。
 
 
 **Dué le quartz**（**デュール クォーツ**、[1999年](../Page/1999年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")）は主に日本で活動していた[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。有限会社[PS COMPANYに所属していた](../Page/PS_COMPANY.md "wikilink")。インディーズで絶大な人気を得て、後期にはアジアを中心に海外でも多くのファンに支持されるが、2002年に解散。

@@ -1,4 +1,4 @@
-> この記事は[ \(BUCK-TICK\)](https://ja.wikipedia.org/wiki/_\(BUCK-TICK\))から翻訳されています。
+> この記事は[悪の華 \(BUCK-TICKのアルバム\)](https://ja.wikipedia.org/wiki/悪の華_\(BUCK-TICKのアルバム\))から翻訳されています。
 
 
 『**悪の華**』（あくのはな）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の5枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")、および映像作品。アルバムは[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[ビクターインビテーションよりリリースされた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -9,7 +9,9 @@
 
 [ギタリスト](../Page/ギタリスト.md "wikilink")・[今井寿](../Page/今井寿.md "wikilink")が[麻薬取締法](https://ja.wikipedia.org/wiki/麻薬取締法 "wikilink")違反で逮捕された事により、活動休止を余儀なくされたBUCK-TICKだったが、このアルバムで復活を遂げた。
 
-また、本作のリリースから25年となった[2015年](../Page/2015年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")には、全収録曲をメンバー監修のもとで比留間整が新たにミックスした音源と、アルバムと同じく比留間がミックスを手がけたシングル「悪の華」のプラチナSHM盤、更に全収録曲のPVを収めたVHS作品を新たにミックスしたBlu-rayおよびDVD、オリジナル音源をもとにしたアルバムのアナログ盤、アルバムのブックレットに掲載されたメンバーの写真を大判印刷したポートレートカードなども同梱した『**惡の華 -Completeworks-**』がリリースされた\[1\]。同日には本ボックスより『惡の華 (2015年ミックス版)』のアルバムと映像作品(Blu-ray、DVD)がそれぞれ単品でリリースされた。 {{ - }}
+また、本作のリリースから25年となった[2015年](../Page/2015年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")には、全収録曲をメンバー監修のもとで比留間整が新たにミックスした音源と、アルバムと同じく比留間がミックスを手がけたシングル「悪の華」のプラチナSHM盤、更に全収録曲のPVを収めたVHS作品を新たにミックスしたBlu-rayおよびDVD、オリジナル音源をもとにしたアルバムのアナログ盤、アルバムのブックレットに掲載されたメンバーの写真を大判印刷したポートレートカードなども同梱した『**惡の華 -Completeworks-**』がリリースされた\[1\]。同日には本ボックスより『惡の華 (2015年ミックス版)』のアルバムと映像作品(Blu-ray、DVD)がそれぞれ単品でリリースされた。
+
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink"){{- }}
 
 ## リリース履歴
 

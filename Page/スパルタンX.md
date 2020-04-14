@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[スパルタンX](https://ja.wikipedia.org/wiki/スパルタンX)から翻訳されています。
 
 
 『**スパルタンX**』（スパルタンエックス、原題：**快餐車**、英題：*Wheels on Meals*）は、[1984年に公開された](../Page/1984年の映画.md "wikilink")[香港映画](../Page/香港映画.md "wikilink")。[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演、[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")監督作品。

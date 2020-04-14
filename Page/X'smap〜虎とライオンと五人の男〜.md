@@ -1,4 +1,4 @@
-> この記事は[X\'smap](https://ja.wikipedia.org/wiki/X\'smap)から翻訳されています。
+> この記事は[X\'smap〜虎とライオンと五人の男〜](https://ja.wikipedia.org/wiki/X\'smap〜虎とライオンと五人の男〜)から翻訳されています。
 
 
 『**[プレミアムステージ特別企画](../Page/土曜プレミアム.md "wikilink")・X'smap〜虎とライオンと五人の男〜**』（プレミアムステージとくべつきかく・クリスマップとらとライオンとごにんのおとこ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送された](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[特別番組](../Page/特別番組.md "wikilink")。[クリスマス](../Page/クリスマス.md "wikilink")である[2004年](../Page/2004年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink") 21:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送された。[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のメンバー5人が全員出演した。視聴率は11.2%｡

@@ -1,4 +1,4 @@
-> この記事は[!GO!GO!KIDS!](https://ja.wikipedia.org/wiki/!GO!GO!KIDS!)から翻訳されています。
+> この記事は[パワー全開!GO!GO!KIDS!](https://ja.wikipedia.org/wiki/パワー全開!GO!GO!KIDS!)から翻訳されています。
 
 
 『**パワー全開\!GO\!GO\!KIDS\!**』（パワーぜんかい ゴーゴーキッズ）は、2001年4月\[1\]から2014年12月26日まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[山形県](../Page/山形県.md "wikilink")内に住む元気な[小学生たちを紹介していた](../Page/在籍者_\(学習者\).md "wikilink")。

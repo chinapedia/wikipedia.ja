@@ -1,4 +1,4 @@
-> この記事は[The Ballads Love \& B\'z](https://ja.wikipedia.org/wiki/The_Ballads_Love_\&_B\'z)から翻訳されています。
+> この記事は[The Ballads 〜Love \& B\'z〜](https://ja.wikipedia.org/wiki/The_Ballads_〜Love_\&_B\'z〜)から翻訳されています。
 
 
 『**The Ballads 〜Love & B'z〜**』（ザ・バラッズ・ラヴ・アンド・ビーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にリリースした公認の[バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
@@ -28,12 +28,12 @@
 1.  **[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")** （5:34）
       -
         4thミニ・アルバム『[FRIENDS](../Page/FRIENDS_\(B'zのアルバム\).md "wikilink")』収録。
-        本作の発売に伴い、サビのみのショート[PVが製作され](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、稲葉が海岸の砂浜で大型犬と戯れる様子と、レコーディングに臨んだりドライブをしている松本の様子を交互に捉えている。
+        本作の発売に伴い、サビのみのショート[PVが製作され](../Page/ミュージック・ビデオ.md "wikilink")、稲葉が海岸の砂浜で大型犬と戯れる様子と、レコーディングに臨んだりドライブをしている松本の様子を交互に捉えている。
 2.  **[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")** （6:20）
       -
         9thシングル。
         今作には5thアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』に収録されたアルバムバージョンが収録されている。本作で最も古い楽曲。
-        PVとして、2000年に豪雨の中決行された「[B'z LIVE-GYM Pleasure 2000 "juice"](../Page/LIVE-GYM.md "wikilink")」でのライブ映像を使用している。
+        PVとして、2000年に豪雨の中決行された『[B'z LIVE-GYM Pleasure 2000 "juice"](../Page/LIVE-GYM.md "wikilink")』でのライブ映像を使用している。
 3.  **[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")** （4:10）
       -
         27thシングル。
@@ -46,32 +46,32 @@
         22ndシングル。
 6.  **[TIME](../Page/BLOWIN'.md "wikilink")** （4:57）
       -
-        10thシングル「BLOWIN'」の[2nd beat](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")。
-        PVは1992年開催のライブ「[B'z LIVE-GYM Pleasure'92 "TIME"](../Page/LIVE-GYM.md "wikilink")」と1993年開催のライブ「[B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"](../Page/LIVE_RIPPER.md "wikilink")」での披露映像を合わせたもの。
+        10thシングル『BLOWIN'』の[2nd beat](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")。
+        PVは1992年開催のライブ『[B'z LIVE-GYM Pleasure'92 "TIME"](../Page/LIVE-GYM.md "wikilink")』と1993年開催のライブ『[B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"](../Page/LIVE_RIPPER.md "wikilink")』での披露映像を合わせたもの。
 7.  **[消えない虹](../Page/LOOSE.md "wikilink")** （3:36）
       -
         8thアルバム『LOOSE』収録。
-        PVは1995年開催の「[B'z LIVE GYM Pleasure'95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")」の終了後に、ガウンを着用した稲葉と松本が互いにシャンパンを掛け合う初公開映像から。
+        PVは1995年開催の『[B'z LIVE GYM Pleasure'95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』の終了後に、ガウンを着用した稲葉と松本が互いにシャンパンを掛け合う初公開映像から。
 8.  **[月光](../Page/RUN_\(アルバム\).md "wikilink")** （5:32）
       -
         6thアルバム『RUN』収録。
-        PVは作品発売翌年の1993年に開催された「[B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"](../Page/LIVE_RIPPER.md "wikilink")」での披露映像から。
+        PVは作品発売翌年の1993年に開催された『B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"』での披露映像から。
 9.  **[ハピネス](../Page/SURVIVE.md "wikilink")** （4:48）
       -
         9thアルバム『SURVIVE』収録。
-        PVは、1998年開催「[B'z LIVE-GYM '98 "SURVIVE"](../Page/LIVE-GYM.md "wikilink")」での披露映像から。
+        PVは、1998年開催『[B'z LIVE-GYM '98 "SURVIVE"](../Page/LIVE-GYM.md "wikilink")』での披露映像から。
 10. **[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")** （4:38）
       -
         5thアルバム『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』収録。
-        PVは1995年開催の「[B'z LIVE GYM Pleasure'95 "BUZZ\!\!"](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")」での披露映像から。
+        PVは1995年開催の『B'z LIVE GYM Pleasure'95 "BUZZ\!\!"』での披露映像から。
 11. **[泣いて 泣いて 泣きやんだら](../Page/SURVIVE.md "wikilink")** （3:38）
       -
         9thアルバム『SURVIVE』収録。
-        PVは、1998年開催「[B'z LIVE-GYM '98 "SURVIVE"](../Page/LIVE-GYM.md "wikilink")」での披露映像から。
+        PVは、1998年開催『B'z LIVE-GYM '98 "SURVIVE"\]\]』での披露映像から。
 12. **[ONE](../Page/ギリギリchop.md "wikilink")** （4:10）
       -
-        26thシングル「ギリギリchop」の2nd beat。B'z関連のアルバム初収録\[5\]。
-        PVは1999年開催の「[B'z LIVE-GYM'99 "Brotherhood"](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")」での披露映像から。
+        26thシングル『ギリギリchop』の2nd beat。B'z関連のアルバム初収録\[5\]。
+        PVは1999年開催の『[B'z LIVE-GYM'99 "Brotherhood"](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』での披露映像から。
 13. **[Everlasting](../Page/GREEN_\(B'zのアルバム\).md "wikilink")** （3:40）
       -
         12thアルバム『GREEN』収録。
@@ -81,7 +81,7 @@
         32ndシングル。アルバム初収録。
 15. **[SNOW](../Page/FRIENDS_II.md "wikilink")** （9:42）
       -
-        5thミニ・アルバム『FRIENDS II』収録。PVは1997年開催の「[B'z LIVE-GYM Pleasure '97 "FIREBALL"](../Page/LIVE-GYM.md "wikilink")」での披露映像から。
+        5thミニ・アルバム『FRIENDS II』収録。PVは1997年開催の『[B'z LIVE-GYM Pleasure '97 "FIREBALL"](../Page/LIVE-GYM.md "wikilink")』での披露映像から。
     <!-- end list -->
       - **いつかのメリークリスマス**（「SNOW」が終わってからしばらくすると流れてくる[隠しトラック](../Page/隠しトラック.md "wikilink")）
     <!-- end list -->

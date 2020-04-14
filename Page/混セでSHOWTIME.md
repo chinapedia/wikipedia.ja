@@ -1,4 +1,4 @@
-> この記事は[SHOWTIME](https://ja.wikipedia.org/wiki/SHOWTIME)から翻訳されています。
+> この記事は[混セでSHOWTIME](https://ja.wikipedia.org/wiki/混セでSHOWTIME)から翻訳されています。
 
 
 『**混セでSHOWTIME**』（こんセでショウタイム）は、[みずしな孝之](../Page/みずしな孝之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。みずしなのデビュー作で、[プロ野球](../Page/プロ野球.md "wikilink")・[セントラル・リーグ](https://ja.wikipedia.org/wiki/セントラル・リーグ "wikilink")を舞台にしている。

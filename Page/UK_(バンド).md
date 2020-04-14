@@ -1,4 +1,4 @@
-> この記事は[UK \(\)](https://ja.wikipedia.org/wiki/UK_\(\))から翻訳されています。
+> この記事は[UK \(バンド\)](https://ja.wikipedia.org/wiki/UK_\(バンド\))から翻訳されています。
 
 
 **U.K.**（ユー・ケー）は、[イングランド](../Page/イングランド.md "wikilink")出身の[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

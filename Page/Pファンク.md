@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[Pファンク](https://ja.wikipedia.org/wiki/Pファンク)から翻訳されています。
 
 
 **Pファンク** () は、[ジョージ・クリントンが](../Page/ジョージ・クリントン_\(ミュージシャン\).md "wikilink")、1970年代に率いた2組の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[パーラメントと](../Page/パーラメント_\(バンド\).md "wikilink")[ファンカデリック](../Page/ファンカデリック.md "wikilink")、及びその構成メンバーによる[ファンク](../Page/ファンク.md "wikilink")ミュージックを指す[音楽ジャンル](https://ja.wikipedia.org/wiki/音楽ジャンル "wikilink")であり、またこの音楽集団のことである。パーラメント・ファンカデリック以外に、[Pファンク・オール・スターズ](https://ja.wikipedia.org/wiki/Pファンク・オール・スターズ "wikilink")、[ブーツィーズ・ラバー・バンド](https://ja.wikipedia.org/wiki/ブーツィーズ・ラバー・バンド "wikilink")、[パーレット](https://ja.wikipedia.org/wiki/パーレット "wikilink")、[ブライズ・オブ・ファンケンスタイン](https://ja.wikipedia.org/wiki/ブライズ・オブ・ファンケンスタイン "wikilink")、メンバーのソロ等を含む。

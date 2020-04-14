@@ -1,4 +1,4 @@
-> この記事は[Bye Bye \(\)](https://ja.wikipedia.org/wiki/Bye_Bye_\(\))から翻訳されています。
+> この記事は[Bye Bye \(アルバム\)](https://ja.wikipedia.org/wiki/Bye_Bye_\(アルバム\))から翻訳されています。
 
 
 『**Bye Bye**』（バイ・バイ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。プロデュースは前作に続き長渕自身が担当している。

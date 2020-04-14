@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[U字工事](https://ja.wikipedia.org/wiki/U字工事)から翻訳されています。
 
 
 **U字工事**（ゆーじこうじ）は**福田 薫**と**益子 卓郎**の2人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")コンビである。[デューズ](https://ja.wikipedia.org/wiki/デューズ "wikilink")所属。共に[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。
@@ -249,7 +249,7 @@
   - [U字工事 福田薫オフィシャルブログ「忘れっからメモッちゃーわっ\!」](https://ameblo.jp/ujikojifukuda/)
   - [U字工事 益子卓郎オフィシャルブログ「大好き栃木」](https://ameblo.jp/ujikoujimashiko/)
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:アミー・パーク](https://ja.wikipedia.org/wiki/Category:アミー・パーク "wikilink") [Category:栃木県出身の人物](https://ja.wikipedia.org/wiki/Category:栃木県出身の人物 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:桜美林大学出身の人物](https://ja.wikipedia.org/wiki/Category:桜美林大学出身の人物 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:アミー・パーク](https://ja.wikipedia.org/wiki/Category:アミー・パーク "wikilink")
 
 1.
 2.  [第48回漫才大会 チケット販売開始](http://www.manzaikyokai.org/man-nichi/news/20170901-1/) - 一般社団法人 漫才協会

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jトラストフィナンシャルサービス](https://ja.wikipedia.org/wiki/Jトラストフィナンシャルサービス)から翻訳されています。
 
 
 **Jトラストフィナンシャルサービス株式会社**（ジェイトラストフィナンシャルサービス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[商工ローン](https://ja.wikipedia.org/wiki/商工ローン "wikilink")・[消費者金融](../Page/消費者金融.md "wikilink")業者。

@@ -1,4 +1,4 @@
-> この記事は[BMS](https://ja.wikipedia.org/wiki/BMS)から翻訳されています。
+> この記事は[BMSスクーデリア・イタリア](https://ja.wikipedia.org/wiki/BMSスクーデリア・イタリア)から翻訳されています。
 
 
 **BMS スクーデリア・イタリア** (*BMS Scuderia Italia*) は、[イタリア](../Page/イタリア.md "wikilink")[ブレシア](../Page/ブレシア.md "wikilink")を拠点に活動するレーシングチーム。「[スクーデリア](https://ja.wikipedia.org/wiki/スクーデリア "wikilink") (Scuderia) 」は[イタリア語](../Page/イタリア語.md "wikilink")の[厩舎](../Page/厩舎.md "wikilink")から転じた、「チーム」に当たる言葉である。

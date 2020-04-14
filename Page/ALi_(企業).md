@@ -1,4 +1,4 @@
-> この記事は[ALi \(\)](https://ja.wikipedia.org/wiki/ALi_\(\))から翻訳されています。
+> この記事は[ALi \(企業\)](https://ja.wikipedia.org/wiki/ALi_\(企業\))から翻訳されています。
 
 
 **ALi**（アリ・コーポレーション）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[半導体製造メーカー](../Page/半導体素子.md "wikilink")。

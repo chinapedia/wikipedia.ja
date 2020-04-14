@@ -1,4 +1,4 @@
-> この記事は[MAI \(\)](https://ja.wikipedia.org/wiki/MAI_\(\))から翻訳されています。
+> この記事は[MAI \(歌手\)](https://ja.wikipedia.org/wiki/MAI_\(歌手\))から翻訳されています。
 
 
 **MAI**（まい、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は鶴岡真衣、母・鶴岡メイ子は[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")の校長と元・双子ユニット[ON/OFF](https://ja.wikipedia.org/wiki/ON/OFF "wikilink")のマネージャー。プロデューサーズ・カンパニー所属。元「[ミスリル](../Page/ミスリル.md "wikilink")」メンバー。

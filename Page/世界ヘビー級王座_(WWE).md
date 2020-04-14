@@ -1,4 +1,4 @@
-> この記事は[ \(WWE\)](https://ja.wikipedia.org/wiki/_\(WWE\))から翻訳されています。
+> この記事は[世界ヘビー級王座 \(WWE\)](https://ja.wikipedia.org/wiki/世界ヘビー級王座_\(WWE\))から翻訳されています。
 
 
 **世界ヘビー級王座**(せかいヘビーきゅうおうざ、*World Heavyweight Championship*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。WWEにおいて2013年まで[WWE王座](https://ja.wikipedia.org/wiki/WWE王座 "wikilink")と並ぶ最高位のタイトルであった。

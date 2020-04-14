@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[戦闘糧食II型](https://ja.wikipedia.org/wiki/戦闘糧食II型)から翻訳されています。
 
 
 [Variety_of_Japanese_combat_rations_type_II.JPG](https://ja.wikipedia.org/wiki/File:Variety_of_Japanese_combat_rations_type_II.JPG "fig:Variety_of_Japanese_combat_rations_type_II.JPG") **戦闘糧食II型**（せんとうりょうしょくにがた）は、[自衛隊](../Page/自衛隊.md "wikilink")で使用されている[レーション](../Page/レーション.md "wikilink")。通称パックメシ\[1\]。

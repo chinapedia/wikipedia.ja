@@ -1,4 +1,4 @@
-> この記事は[TAC \(\)](https://ja.wikipedia.org/wiki/TAC_\(\))から翻訳されています。
+> この記事は[TAC \(コンピュータ\)](https://ja.wikipedia.org/wiki/TAC_\(コンピュータ\))から翻訳されています。
 
 
 **TAC**(Tokyo Automatic Computer)は、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")が開発した[コンピュータ](../Page/コンピュータ.md "wikilink")。一般に東大と[東芝](../Page/東芝.md "wikilink")が共同開発したとされているが、大変な難産の結果、東芝が協力していない部分や[日立製作所](../Page/日立製作所.md "wikilink")が協力した部分がある。[1959年](../Page/1959年.md "wikilink")に最終バージョンが完成した。

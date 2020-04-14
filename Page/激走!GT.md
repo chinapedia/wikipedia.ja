@@ -1,4 +1,4 @@
-> この記事は[!GT](https://ja.wikipedia.org/wiki/!GT)から翻訳されています。
+> この記事は[激走!GT](https://ja.wikipedia.org/wiki/激走!GT)から翻訳されています。
 
 
 『**激走\!GT**』（げきそう\!ジーティー）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")、[SUPER GT関連の情報を中心とする](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")・[自動車](../Page/自動車.md "wikilink")関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[PROTXの共同製作](../Page/テレビ東京制作.md "wikilink")。通称「**激G**」。

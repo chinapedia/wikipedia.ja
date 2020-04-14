@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA関東選抜リーグ](https://ja.wikipedia.org/wiki/JABA関東選抜リーグ)から翻訳されています。
 
 
 **JABA関東選抜リーグ**（JABAかんとうせんばつリーグ）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の関東地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームによる公式戦である。
@@ -57,7 +57,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:1980年開始のイベント](https://ja.wikipedia.org/wiki/Category:1980年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:1980年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1980年開始のスポーツイベント "wikilink")
 
 1.  優勝した富士重工業は、この年に限っての特例措置で、[社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")への推薦出場権を得た。
 2.  1ブロック8チーム（計24チーム）による対抗戦のみを行い、優勝チームを決めなかった。

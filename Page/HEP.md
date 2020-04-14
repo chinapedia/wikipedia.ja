@@ -123,8 +123,8 @@ NAVIOとは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語
 
   - [阪急](../Page/阪急電鉄.md "wikilink") [大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪急\) "wikilink")
   - [阪神](https://ja.wikipedia.org/wiki/阪神電鉄 "wikilink") [大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")
-  - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/梅田駅_\(大阪市高速電気軌道\) "wikilink")
-  - [地下鉄谷町線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道谷町線 "wikilink") [東梅田駅](https://ja.wikipedia.org/wiki/東梅田駅 "wikilink")
+  - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/梅田駅_\(Osaka_Metro\) "wikilink")
+  - [地下鉄谷町線](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink") [東梅田駅](https://ja.wikipedia.org/wiki/東梅田駅 "wikilink")
   - [JR](../Page/西日本旅客鉄道.md "wikilink") [大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")
 
 ## 脚注

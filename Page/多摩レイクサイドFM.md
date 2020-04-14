@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[多摩レイクサイドFM](https://ja.wikipedia.org/wiki/多摩レイクサイドFM)から翻訳されています。
 
 
 **特定非営利活動法人多摩レイクサイドFM**（たまれいくさいどえふえむ）は、[東京都](../Page/東京都.md "wikilink")[東村山市](../Page/東村山市.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **多摩レイクサイドFM**（通称として**FM79**が併用されたこともあった。）の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。

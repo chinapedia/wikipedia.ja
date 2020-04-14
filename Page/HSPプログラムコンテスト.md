@@ -1,4 +1,4 @@
-> この記事は[HSP](https://ja.wikipedia.org/wiki/HSP)から翻訳されています。
+> この記事は[HSPプログラムコンテスト](https://ja.wikipedia.org/wiki/HSPプログラムコンテスト)から翻訳されています。
 
 
 **HSPプログラムコンテスト**は、[Hot Soup Processorで作成された](../Page/Hot_Soup_Processor.md "wikilink")[プログラムを公開する](../Page/プログラム_\(コンピュータ\).md "wikilink")[大会](https://ja.wikipedia.org/wiki/大会 "wikilink")のこと。 HSPプログラムコンテスト実行委員会（おにたま・悠黒喧史・うすあじ他）が主催し、 [2003年](../Page/2003年.md "wikilink")より毎年行われている。

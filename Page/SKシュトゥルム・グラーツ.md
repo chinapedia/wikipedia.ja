@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKシュトゥルム・グラーツ](https://ja.wikipedia.org/wiki/SKシュトゥルム・グラーツ)から翻訳されています。
 
 
 [Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg](https://ja.wikipedia.org/wiki/File:Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg "fig:Mannschaft_des_SK_Sturm_Graz_beim_Cupfinale_2010.jpg")

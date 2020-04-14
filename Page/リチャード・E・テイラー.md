@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[リチャード・E・テイラー](https://ja.wikipedia.org/wiki/リチャード・E・テイラー)から翻訳されています。
 
 
 ` `

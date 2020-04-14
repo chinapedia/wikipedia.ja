@@ -1,4 +1,4 @@
-> この記事は[LAN](https://ja.wikipedia.org/wiki/LAN)から翻訳されています。
+> この記事は[LANアナライザ](https://ja.wikipedia.org/wiki/LANアナライザ)から翻訳されています。
 
 
 **LANアナライザ**（ラン アナライザ）は[プロトコルアナライザ](https://ja.wikipedia.org/wiki/プロトコルアナライザ "wikilink")の一種で、[LAN上を通過する](../Page/Local_Area_Network.md "wikilink")[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")を監視したり記録するための[ハードウェア](../Page/ハードウェア.md "wikilink") や[ソフトウェア](../Page/ソフトウェア.md "wikilink")のことである。データの流れがネットワーク上を行き来している際に用いると、特定の[RFCや他の仕様に従っているようなコンテンツならそれを解読したり分析できる](../Page/Request_for_Comments.md "wikilink")。

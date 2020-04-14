@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNS地球特捜隊ダイバスター](https://ja.wikipedia.org/wiki/FNS地球特捜隊ダイバスター)から翻訳されています。
 
 
 『**FNS地球特捜隊ダイバスター**』（エフエヌエスちきゅうとくそうたいダイバスター）は、[アニメ](../Page/アニメ.md "wikilink")と[特撮](../Page/特撮.md "wikilink")を融合させて諸問題を解明することを目的とした[深夜番組](../Page/深夜番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNS](../Page/フジネットワーク.md "wikilink")）で[ニューカマーズ](../Page/ニューカマーズ.md "wikilink")枠において放送され、[2005年](../Page/2005年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")26時15分 - 26時40分から[土曜日](../Page/土曜日.md "wikilink")深夜にレギュラー化。[2009年](../Page/2009年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")放送分より放送時間が15分に縮小されると同時に[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")となり、同年[9月24日](../Page/9月24日.md "wikilink")放送分で打ち切りとなった。[2006年](../Page/2006年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりDVD、[扶桑社](../Page/扶桑社.md "wikilink")より単行本がそれぞれ発売された。

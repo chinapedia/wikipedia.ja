@@ -1,7 +1,7 @@
 > この記事は[HomePNA](https://ja.wikipedia.org/wiki/HomePNA)から翻訳されています。
 
 
-**HomePNA**とは、現存する家庭内の電話線を用い、インターネット接続を行うための規格である。規格を推進する団体名、**Home Phoneline Networking Alliance**の略でもあり、*HPNA*、*Home PNA*、*Home Phoneline Networking*、*Homepna*とも書かれる。
+**HomePNA**とは、現存する家庭内の電話線もしくは同軸ケーブル(テレビ線)を用い、インターネット接続を行うための規格である。規格を推進する団体名、**Home Phoneline Networking Alliance**の略でもあり、*HPNA*、*Home PNA*、*Home Phoneline Networking*、*Homepna*とも書かれる。
 
 ## 概要
 
@@ -23,7 +23,7 @@ HomePNA 3.0はこれらに継続した新しい技術であり、家庭内の電
 
 HomePNA 3.0は、電話としての通話通信と、データアクセスのための通信のために、異なる周波数帯域を使用する。電話とファックスの通信は、全てのデータ通信より優先される。V92モデムは、すでにこのコンセプトを実装している。
 
-なお、ネットワーク能力の拡大と、電話線のジャックの位置による制限を克服するために、HomePNA標準に同軸ケーブルを含める提案がなされている。
+2007年に策定されたHomePNA 3.1では、同軸ケーブルが規格に加えられた。
 
 ## 必要条件
 

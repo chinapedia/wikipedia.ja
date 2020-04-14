@@ -1,4 +1,4 @@
-> この記事は[DNS](https://ja.wikipedia.org/wiki/DNS)から翻訳されています。
+> この記事は[DNSラウンドロビン](https://ja.wikipedia.org/wiki/DNSラウンドロビン)から翻訳されています。
 
 
 **DNSラウンドロビン** (**DNS round robin**)とは、一つのドメイン名に複数の[IPアドレス](../Page/IPアドレス.md "wikilink")を割り当てる[負荷分散](https://ja.wikipedia.org/wiki/負荷分散 "wikilink")技術の一つである。

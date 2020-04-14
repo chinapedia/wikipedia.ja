@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[U規格](https://ja.wikipedia.org/wiki/U規格)から翻訳されています。
 
 
 **U規格**（ユーきかく）とは、世界初の[民生用](../Page/民生用.md "wikilink")（家庭用）カセット式[VTRの規格](../Page/ビデオテープレコーダ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CAROL A DAY IN A GIRL\'S LIFE 1991](https://ja.wikipedia.org/wiki/CAROL_A_DAY_IN_A_GIRL\'S_LIFE_1991)から翻訳されています。
+> この記事は[CAROL 〜A DAY IN A GIRL\'S LIFE 1991〜](https://ja.wikipedia.org/wiki/CAROL_〜A_DAY_IN_A_GIRL\'S_LIFE_1991〜)から翻訳されています。
 
 
 『**CAROL 〜A DAY IN A GIRL'S LIFE 1991〜**』（キャロル - ア・デイ・イン・ア・ガールズ・ライフ・ナインティーン・ナインティーワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

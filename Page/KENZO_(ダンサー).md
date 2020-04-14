@@ -1,9 +1,9 @@
-> この記事は[KENZO \(\)](https://ja.wikipedia.org/wiki/KENZO_\(\))から翻訳されています。
+> この記事は[KENZO \(ダンサー\)](https://ja.wikipedia.org/wiki/KENZO_\(ダンサー\))から翻訳されています。
 
 
-**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](../Page/振付師.md "wikilink")、[DA PUMPの](../Page/DA_PUMP.md "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。
+**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](../Page/振付師.md "wikilink")、[DA PUMPの](../Page/DA_PUMP.md "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。[福岡県](../Page/福岡県.md "wikilink")[宮若市](../Page/宮若市.md "wikilink")（旧[宮田町](../Page/宮田町_\(福岡県\).md "wikilink")）出身。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
-[福岡県](../Page/福岡県.md "wikilink")[宮若市](../Page/宮若市.md "wikilink")（旧[宮田町](../Page/宮田町_\(福岡県\).md "wikilink")）出身。所属[事務所は](../Page/芸能事務所.md "wikilink")[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")。所属レコード会社は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")）。[東海大学](../Page/東海大学.md "wikilink")卒業。
+所属[事務所は](../Page/芸能事務所.md "wikilink")[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")。所属レコード会社は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")）。[東海大学](../Page/東海大学.md "wikilink")卒業。
 
 ## 経歴
 
@@ -21,29 +21,23 @@
   - [2018年](../Page/2018年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")観光大使に就任\[7\]。
   - 2018年[9月](../Page/9月.md "wikilink")、[海老名市](../Page/海老名市.md "wikilink")親善交流大使に就任\[8\]。
   - 2019年、Red bull Dance your style アンバサダーに就任。
+  - 2019年10月、福岡県宮若市PR大使に就任。
 
 ## 人物
 
-  - 背筋250kg、100m11秒7。
+  - 2018年　背筋250kg、100m11秒7。
+  - ストリートダンス世界大会8年連続優勝。
+  - 日本時間の2019年9月1日にフランスで行われたダンス世界大会で優勝し、世界大会・国際大会と合わせて13冠を達成した\[9\]。
   - KENZOの由来は、眼鏡のブランド名[KENZOからである](../Page/ケンゾー.md "wikilink")。
-  - 愛称は KENZOの他、「ケンちゃん」や「ケンゾーくん」、本名の「朋揮（ともき）くん」など。
+  - 愛称は KENZOの他、「ケンちゃん」や「ケンゾーくん」
+  - [2020年](../Page/2020年.md "wikilink")1月5日、旅行先のスペインで車上荒らしに遭い、スーツケース類が盗難されたことを同行している[武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink")がインスタグラムを通じて報告した\[10\]。
   - 友人の[FISHBOY](https://ja.wikipedia.org/wiki/FISHBOY "wikilink")が所属する[RADIO FISHの](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")「[PERFECT HUMAN](https://ja.wikipedia.org/wiki/PERFECT_HUMAN "wikilink")」のミュージックビデオに友情出演した。
-  - RISING Dance Schoolの総合監修を務め、講師としても活動中（初心者向けレッスン、LOCKIN'クラス）\[9\]。
+  - RISING Dance Schoolの総合監修を務め、講師としても活動中（初心者向けレッスン、LOCKIN'クラス）\[11\]。
   - [ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")をDA PUMPのライブで披露することがある。
-  - DA PUMPの歴代メンバーでは唯一、テレビでもLiveでも単独での歌唱あるいはラップをしていない。（複数だと2009年のThunder partyで他メンバーと共に披露している）\[10\]。
+  - [DA PUMPの歴代メンバーでは唯一](../Page/DA_PUMP.md "wikilink")、テレビでもLiveでも歌唱あるいはラップをしていない。
   - メンバーの中では、2番目に若いため、最年少の[DAICHI](https://ja.wikipedia.org/wiki/DAICHI "wikilink")とともに年下BOYSと呼ばれ、ファンに愛されている。
   - 担当カラーはベージュ、チェック柄。衣装では白の場合もある。
-  - ダンス世界大会8年連続優勝。
-  - 男前で濃い顔立ちが特徴的で、抜群の目力を持つ。
-  - とても熱い性格であるが、グループ随一の天然キャラ。
-  - Twitterでアンチコメントに対し、怒りのツイートをする、2018年12月30日に放送された[第60回日本レコード大賞](https://ja.wikipedia.org/wiki/第60回日本レコード大賞 "wikilink")にて曲披露の際に号泣してしまうなど、感受性がとても豊か。
-  - 日本時間の2019年9月1日にフランスで行われたダンス世界大会で優勝し、世界大会・国際大会と合わせて13冠を達成した\[11\]。
-  - [2020年](../Page/2020年.md "wikilink")1月5日、旅行先のスペインで車上荒らしに遭い、スーツケース類が盗難されたことを同行している[武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink")がインスタグラムを通じて報告した\[12\]。
-  - タピオカをこよなく愛する、乙女な一面を持つ。特に（ゴンチャ）によく行っており、本人のInstagramなどのSNSで頻繁に登場している。
-  - 生粋のダンス好きで（ダンスバカ）と揶揄されるほど、時間さえあれば踊っている。
-  - ファンサービスがすごく良く、自身の誕生日である2020年1月21日に[原宿駅前カフェ](https://ja.wikipedia.org/wiki/原宿駅前カフェ "wikilink")で自らのバースデーイベントを行った際には、ファン一人一人にメッセージカードを手書きで徹夜して書いて用意するほど、ファン想いな人物である。
-  - ファッションが奇抜かつ個性的である。
-  - アイドル顔負けのウインクを得意としており、ファンを喜ばせている。
+  - ロードオブメジャーの｢さらば碧き面影｣のPVでバックダンサーとして出演していた。
 
 ## 出演
 
@@ -58,6 +52,7 @@
   - DA DA ダンス（2018年- 2019年、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - レギュラー
   - OH\!舞DA PUMP\!\!（2018年- 、[dtv](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")） - レギュラー
   - 千葉KENZOの踊ってますか？（2019年、[CSダンスチャンネル](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")） - レギュラー
+  - 千葉KENZOの踊ってますか？シーズン2（2020年-、[CSダンスチャンネル](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")） - レギュラー
 
 ### 映画
 
@@ -79,6 +74,7 @@
   - ABC MART 「GW-SALE」篇、「40周年大創業祭」篇、「SUPER SUMMER SALE」篇、（2019年）
   - Red bull Dance your style アンバサダー＆広告モデル（2019年）
   - サントリー「ザ・プレミアム・モルツ」（2019年）
+  - ガリバー「ガリバー史上最大の初売り」(2020年)
 
 ### 舞台
 
@@ -129,6 +125,11 @@
 
 <!-- end list -->
 
+  - [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")
+      - [ソーユートコあるよね?](https://ja.wikipedia.org/wiki/ソーユートコあるよね? "wikilink")（2020年）- [DA PUMP TOMO](https://ja.wikipedia.org/wiki/TOMO_\(DA_PUMP\) "wikilink")、[DA PUMP DAICHI](https://ja.wikipedia.org/wiki/DAICHI "wikilink")、[DA PUMP U-YEAHとの共同振付](https://ja.wikipedia.org/wiki/U-YEAH "wikilink")。
+
+<!-- end list -->
+
   - [ちゃんみな](https://ja.wikipedia.org/wiki/ちゃんみな "wikilink")
       - CHOCOLATE（2018年）
       - Princess（2018年）
@@ -138,6 +139,7 @@
   - [田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
       - 別に、好きじゃないし（2018年）
       - くれてやんない（2019年）
+      - SNSNG(2019年)
 
 <!-- end list -->
 
@@ -218,6 +220,7 @@
       - [Take it Easy](https://ja.wikipedia.org/wiki/U.S.A._\(曲\) "wikilink")（2016年）
       - [Dragon Screamer](https://ja.wikipedia.org/wiki/All_My_Love_To_You "wikilink")（2017年）
       - [U.S.A.](https://ja.wikipedia.org/wiki/U.S.A._\(曲\) "wikilink")（2018年） - [DA PUMP TOMOと共同振付](https://ja.wikipedia.org/wiki/TOMO_\(DA_PUMP\) "wikilink")
+      - [桜](https://ja.wikipedia.org/wiki/U.S.A._\(曲\) "wikilink")（2019年） - [DA PUMP TOMOと共同振付](https://ja.wikipedia.org/wiki/TOMO_\(DA_PUMP\) "wikilink")
       - P.A.R.T.Y.〜ユニバース・フェスティバル〜（2019年）[DA PUMP TOMOと共同振付](https://ja.wikipedia.org/wiki/TOMO_\(DA_PUMP\) "wikilink")
 
 <!-- end list -->
@@ -305,15 +308,16 @@
 
 <!-- end list -->
 
-  - キミカズ\[13\]
+  - キミカズ\[12\]
       - 気分は爽快（2012年）
 
-<!-- end list -->
-
-  - [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")
-      - [ソーユートコあるよね?](https://ja.wikipedia.org/wiki/ソーユートコあるよね? "wikilink")（2020年）- [DA PUMP TOMO](https://ja.wikipedia.org/wiki/TOMO_\(DA_PUMP\) "wikilink")、[DA PUMP DAICHI](https://ja.wikipedia.org/wiki/DAICHI "wikilink")、[DA PUMP U-YEAHとの共同振付](https://ja.wikipedia.org/wiki/U-YEAH "wikilink")。
-
 ### ライブ
+
+  - BoA「永遠」ex モーニング娘。高橋愛 歌唱曲 (TBS「UTAGE\!」) (2020年)
+  - dTV「OH\!舞DA PUMP」アルコ＆ピース 酒井ダンスパフォーマンス振り付け (2019年)
+  - 菅田将暉「さよならエレジー」CHEMISTRY 川畑要 歌唱曲 (TBS「UTAGE\!」) (2019年)
+
+<!-- end list -->
 
   - [五木ひろし](../Page/五木ひろし.md "wikilink")
       - VIVA・LA・VIDA\!〜生きてるっていいね\!〜（2018年12月31日、[第69回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")） - DA PUMP TOMOと共同振付
@@ -457,6 +461,8 @@
   - RECRUIT SUUMO 「スーモとDA PUMP 歌番組」篇（2019年）
   - ABC MART 「GW-SALE」篇（2019年）
   - Red bull Dance your style （2019年）
+  - リクルート・スーモ 「スーモとDA PUMP ニッポンの住まい探し篇」（2019年）
+  - ガリバー「ガリバー史上最大の初売り」(2020年)
 
 ### テレビ番組
 
@@ -581,5 +587,4 @@
 9.
 10.
 11.
-12.
-13. DA PUMP [KIMI](https://ja.wikipedia.org/wiki/KIMI "wikilink")と[KAZUMAのユニット](../Page/山根和馬.md "wikilink")。
+12. DA PUMP [KIMI](https://ja.wikipedia.org/wiki/KIMI "wikilink")と[KAZUMAのユニット](../Page/山根和馬.md "wikilink")。

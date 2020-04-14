@@ -1,4 +1,4 @@
-> この記事は[PON!](https://ja.wikipedia.org/wiki/PON!)から翻訳されています。
+> この記事は[PON!とキマイラ](https://ja.wikipedia.org/wiki/PON!とキマイラ)から翻訳されています。
 
 
 『**PON\!とキマイラ**』（ポンとキマイラ）は、[浅野りん](../Page/浅野りん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』に連載されていた。略称は「**ポンキマ**」。単行本は全7巻。2001年には[ドラマCD](../Page/ドラマCD.md "wikilink")化された。

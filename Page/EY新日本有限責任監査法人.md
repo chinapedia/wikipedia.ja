@@ -1,7 +1,7 @@
-> この記事は[EY](https://ja.wikipedia.org/wiki/EY)から翻訳されています。
+> この記事は[EY新日本有限責任監査法人](https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人)から翻訳されています。
 
 
-*' EY新日本有限責任監査法人*'（イーワイしんにほんゆうげんせきにんかんさほうじん、英文名称:*Ernst & Young ShinNihon LLC*）は、日本の大手[監査法人](../Page/監査法人.md "wikilink")。[Ernst & Youngの日本における統括法人](../Page/アーンスト・アンド・ヤング.md "wikilink")[EY Japanに属する](https://ja.wikipedia.org/wiki/EY_Japan "wikilink")。いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月1日](../Page/7月1日.md "wikilink")、日本で最初の[有限責任監査法人となった](../Page/監査法人.md "wikilink")。
+*' EY新日本有限責任監査法人*'（イーワイしんにほんゆうげんせきにんかんさほうじん、英文名称: ）は、日本の大手[監査法人](../Page/監査法人.md "wikilink")。[Ernst & Youngの日本における統括法人](../Page/アーンスト・アンド・ヤング.md "wikilink")[EY Japanに属する](https://ja.wikipedia.org/wiki/EY_Japan "wikilink")。いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月1日](../Page/7月1日.md "wikilink")、日本で最初の[有限責任監査法人となった](../Page/監査法人.md "wikilink")。
 
 ## 概要
 
@@ -310,7 +310,7 @@
 
 [Category:日本の監査法人](https://ja.wikipedia.org/wiki/Category:日本の監査法人 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
 
-1.  柴田秀樹、「[監査法人の未来像：監査法人の研究](http://hdl.handle.net/10129/3261)」『人文社会論叢. 社会科学篇』 2010年 23号 p.67-99, , 弘前大学人文学部。
+1.  柴田秀樹、「[監査法人の未来像：監査法人の研究](https://hdl.handle.net/10129/3261)」『人文社会論叢. 社会科学篇』 2010年 23号 p.67-99, , 弘前大学人文学部。
 2.  従来のEYのグローバルエリアは、Americas（南北アメリカ）・EMEIA（欧州、中東、インド、アフリカ）・Asia-Pacific・Japanの4区分であったが、日本法人側からの提案により2019年7月1日にAsia-PacificエリアとJapanエリアが統合されることとなり、EY Japanは同エリア最大のファームになることとなった（[1](https://www.eyjapan.jp/newsroom/2018/2018-11-01.html)）。
 3.  [EY Japanの組織を再編](https://www.eyjapan.jp/newsroom/2017/2017-01-18-01.html) - EY Japan、2017年1月18日.
 4.  [わが国監査法人の展開](https://ci.nii.ac.jp/els/contents110000062966.pdf?id=ART0000406391) - 原征士（法政大学）著、1995年。

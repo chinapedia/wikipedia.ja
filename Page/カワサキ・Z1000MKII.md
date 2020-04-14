@@ -1,4 +1,4 @@
-> この記事は[Z1000MKII](https://ja.wikipedia.org/wiki/Z1000MKII)から翻訳されています。
+> この記事は[カワサキ・Z1000MKII](https://ja.wikipedia.org/wiki/カワサキ・Z1000MKII)から翻訳されています。
 
 
 **カワサキ・Z1000MKII**（ゼットせんマークツー〈北米仕様は**KZ1000MKII**〉）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")が1978年から1980年にかけて製造販売していた総排気量1015 ccの[オートバイ](../Page/オートバイ.md "wikilink")である。

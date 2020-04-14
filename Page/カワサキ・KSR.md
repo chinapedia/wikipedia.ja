@@ -1,4 +1,4 @@
-> この記事は[KSR](https://ja.wikipedia.org/wiki/KSR)から翻訳されています。
+> この記事は[カワサキ・KSR](https://ja.wikipedia.org/wiki/カワサキ・KSR)から翻訳されています。
 
 
 **KSR**（ケイエスアール）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")が製造販売する[オートバイ](../Page/オートバイ.md "wikilink")である。かつてはシリーズとして数車種が生産されていたが、[2015年](../Page/2015年.md "wikilink")現在日本国内での生産は行われていない。

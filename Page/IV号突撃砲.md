@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[IV号突撃砲](https://ja.wikipedia.org/wiki/IV号突撃砲)から翻訳されています。
 
 
 **IV号突撃砲**（よんごうとつげきほう、独：Sturmgeschütz IV）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で開発された[突撃砲](../Page/突撃砲.md "wikilink")である。[制式番号は](../Page/特殊車輌番号.md "wikilink") Sd.Kfz.167。

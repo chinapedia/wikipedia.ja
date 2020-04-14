@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[山陽TVイブニングニュース](https://ja.wikipedia.org/wiki/山陽TVイブニングニュース)から翻訳されています。
 
 
 {{ 特筆性|date=2016年2月}}  『**山陽TVイブニングニュース**』（さんようテレビ イブニングニュース）は、[山陽放送で](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から放送されている、[瀬戸内ローカルの](../Page/瀬戸内地方.md "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である（協力・[山陽新聞](../Page/山陽新聞.md "wikilink")\[1\]）。日本の民間放送局初の夕方のワイドニュース番組である\[2\]。

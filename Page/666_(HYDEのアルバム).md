@@ -1,4 +1,4 @@
-> この記事は[666 \(HYDE\)](https://ja.wikipedia.org/wiki/666_\(HYDE\))から翻訳されています。
+> この記事は[666 \(HYDEのアルバム\)](https://ja.wikipedia.org/wiki/666_\(HYDEのアルバム\))から翻訳されています。
 
 
 『**666**』（シックス・シックス・シックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の2枚目の[アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。

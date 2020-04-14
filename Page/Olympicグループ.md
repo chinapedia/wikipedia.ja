@@ -1,4 +1,4 @@
-> この記事は[Olympic](https://ja.wikipedia.org/wiki/Olympic)から翻訳されています。
+> この記事は[Olympicグループ](https://ja.wikipedia.org/wiki/Olympicグループ)から翻訳されています。
 
 
 [Olympic_supermarket_nakai_branch_store.JPG](https://ja.wikipedia.org/wiki/File:Olympic_supermarket_nakai_branch_store.JPG "fig:Olympic_supermarket_nakai_branch_store.JPG") **株式会社Olympicグループ**（オリンピックグループ、）は、[東京都](../Page/東京都.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[埼玉県](../Page/埼玉県.md "wikilink")・[千葉県](../Page/千葉県.md "wikilink")などで[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")・[ホームセンター](../Page/ホームセンター.md "wikilink")「**Olympic**」をチェーン展開するオリンピックグループの[持株会社](../Page/持株会社.md "wikilink")である。本社は[東京都](../Page/東京都.md "wikilink")[国分寺市](../Page/国分寺市.md "wikilink")。[CGCグループに加盟している](../Page/シジシージャパン.md "wikilink")。コーポレートステートメントは「その安さには、価値がある。」。

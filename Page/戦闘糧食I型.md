@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[戦闘糧食I型](https://ja.wikipedia.org/wiki/戦闘糧食I型)から翻訳されています。
 
 
 [Variety_of_Japanese_combat_rations_type_I.JPG](https://ja.wikipedia.org/wiki/File:Variety_of_Japanese_combat_rations_type_I.JPG "fig:Variety_of_Japanese_combat_rations_type_I.JPG") **戦闘糧食I型**（せんとうりょうしょくいちがた）は、[自衛隊](../Page/自衛隊.md "wikilink")で使用されている[レーション](../Page/レーション.md "wikilink")。

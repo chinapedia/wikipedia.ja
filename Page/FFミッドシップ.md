@@ -1,4 +1,4 @@
-> この記事は[FF](https://ja.wikipedia.org/wiki/FF)から翻訳されています。
+> この記事は[FFミッドシップ](https://ja.wikipedia.org/wiki/FFミッドシップ)から翻訳されています。
 
 
 **FFミッドシップ**（エフエフミッドシップ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が[縦置きエンジン](../Page/縦置きエンジン.md "wikilink")の[FF車に採用した](../Page/前輪駆動.md "wikilink")、[エンジン](../Page/エンジン.md "wikilink")と前輪駆動軸の配置方式である。

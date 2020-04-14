@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[サバッシュII 〜メヒテの大予言〜](https://ja.wikipedia.org/wiki/サバッシュII_〜メヒテの大予言〜)から翻訳されています。
 
 
 『**サバッシュII 〜メヒテの大予言〜**』（サバッシュツー メヒテのだいよげん）は[1993年](../Page/1993年.md "wikilink")に[グローディア](https://ja.wikipedia.org/wiki/グローディア "wikilink")が開発し、[ポプコム](../Page/ポプコム.md "wikilink")ソフトから発売された[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。前作『[サバッシュ](../Page/サバッシュ.md "wikilink")』に続き[三遊亭圓丈](../Page/三遊亭圓丈.md "wikilink")が関わり、シナリオ、ゲームシステムなど全てのことを担当した\[1\]。開発期間は5年\[2\]。

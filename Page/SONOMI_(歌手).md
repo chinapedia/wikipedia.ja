@@ -1,4 +1,4 @@
-> この記事は[SONOMI \(\)](https://ja.wikipedia.org/wiki/SONOMI_\(\))から翻訳されています。
+> この記事は[SONOMI \(歌手\)](https://ja.wikipedia.org/wiki/SONOMI_\(歌手\))から翻訳されています。
 
 
 **SONOMI**（ソノミ、本名：北畠 園子、[1979年](../Page/1979年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - ）は、 [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")出身の[女性](../Page/女性.md "wikilink")[シンガー](../Page/歌手.md "wikilink")。[くレーベル](../Page/くレーベル.md "wikilink")所属。

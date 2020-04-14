@@ -1,4 +1,4 @@
-> この記事は[CBR250RR](https://ja.wikipedia.org/wiki/CBR250RR)から翻訳されています。
+> この記事は[ホンダ・CBR250RR](https://ja.wikipedia.org/wiki/ホンダ・CBR250RR)から翻訳されています。
 
 
 **CBR250RR**（シービーアールにひゃくごじゅうアールアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売する[CBRシリーズの](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

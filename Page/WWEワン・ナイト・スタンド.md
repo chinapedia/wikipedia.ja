@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWEワン・ナイト・スタンド](https://ja.wikipedia.org/wiki/WWEワン・ナイト・スタンド)から翻訳されています。
 
 
 **WWEワン・ナイト・スタンド**(*WWE One Night Stand*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")の主催するプロレス興行。およびそれを扱った[PPV](../Page/ペイ・パー・ビュー.md "wikilink")。[2005年](../Page/2005年.md "wikilink")から新設されたPPV大会で、かつてハードコア路線で一大ブームを巻き起こしたプロレス団体[ECW](../Page/ECW.md "wikilink")のメンバーを一夜限りで再集結させて試合を行った。WWEが発売したDVD「*Rise & Fall of Ecw*」の売上の好調や元ECWのメンバー[ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")等の提唱により開催された。2009年より、**[エクストリーム・ルールズ](https://ja.wikipedia.org/wiki/WWEエクストリーム・ルールズ "wikilink")**(*Extreme Rules*)とPPVの名称が変更された。

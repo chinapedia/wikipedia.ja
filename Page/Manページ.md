@@ -1,4 +1,4 @@
-> この記事は[Man](https://ja.wikipedia.org/wiki/Man)から翻訳されています。
+> この記事は[Manページ](https://ja.wikipedia.org/wiki/Manページ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Unix_manual.png "wikilink") **manページ**（マンページ）とは、[UNIX](../Page/UNIX.md "wikilink")および[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の man システムのコンテンツであり、電子化された[ドキュメントのこと](../Page/ソフトウェアドキュメンテーション.md "wikilink")。各ページは独立した文書として構成されている。ライブラリやシステムコールなどの[コンピュータプログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")、標準や慣例、抽象的概念などに関するページがある。`man` [コマンドを実行することでmanページを閲覧することができる](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")。

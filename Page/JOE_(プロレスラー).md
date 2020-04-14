@@ -1,4 +1,4 @@
-> この記事は[JOE \(\)](https://ja.wikipedia.org/wiki/JOE_\(\))から翻訳されています。
+> この記事は[JOE \(プロレスラー\)](https://ja.wikipedia.org/wiki/JOE_\(プロレスラー\))から翻訳されています。
 
 
 **JOE**（ジョー、[1977年](../Page/1977年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。

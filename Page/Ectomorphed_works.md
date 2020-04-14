@@ -5,13 +5,17 @@
 
 ## 解説
 
-本アルバムは[ドラマー](../Page/ドラマー.md "wikilink")である[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に加入して以来担当してきた[リミックス](../Page/リミックス.md "wikilink")の分野の集大成となるアルバム。また、本作は[2001年](../Page/2001年.md "wikilink")にyukihiroの[ソロプロジェクトとして結成される](../Page/一人バンド.md "wikilink")[acid androidの礎となる作品でもある](https://ja.wikipedia.org/wiki/acid_android "wikilink")。タイトルの『ectomorphed』は"外側から再形成する"という意味の造語\[1\]。
+L'Arc〜en〜Cielとして唯一リリースされたリミックスアルバム。本作は、L'Arc〜en〜Cielのアルバム作品では初となる[LP盤もCD盤と合わせてリリースされている](../Page/レコード.md "wikilink")。
+
+本作はL'Arc〜en〜Cielの[ドラマー](../Page/ドラマー.md "wikilink")である[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に加入して以降、担当してきた[リミックス](../Page/リミックス.md "wikilink")の分野の集大成となるアルバム。また、本作は[2001年](../Page/2001年.md "wikilink")にyukihiroの[ソロプロジェクトとして結成される](../Page/一人バンド.md "wikilink")[acid androidの礎となる作品でもある](https://ja.wikipedia.org/wiki/acid_android "wikilink")。
+
+アルバムタイトルの『ectomorphed』は「外側から再形成する」という意味のyukihiroによる造語\[1\]。
 
 ほとんどの楽曲は[シングル](../Page/シングル.md "wikilink")の[カップリングとして初収録されたものであり](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")、本作はyukihiroがそれに別[アレンジを加え収録している](../Page/編曲.md "wikilink")。そのため、他のメンバーはほとんど制作に携わっておらず、本作について[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")は「自分としては彼のソロ・ワークと理解している\[2\]」と述べている。
 
 yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/ken "wikilink")作曲による楽曲のリミックスの対象となっていることについて、「僕にとっては、彼の曲は世界観がわかりやすいから\[3\]」と述べている。また、アルバム制作に関してyukihiroは「他のアーティストのリミックス・アルバムは、途中までの作業は本人がやっていても最後の[トラック・ダウンは別の人がやる](../Page/ミキシング.md "wikilink")、というものが多かった。この作品は、最後のトラック・ダウンまで自分でやったものを作った」「なんか悔しいじゃないですか、誰かにいじられることでカッコ良くなったら」と述べている\[4\]。
 
-初回限定盤は2面デジパック仕様。また、本作はラルクのアルバムでは初となる[LP盤もリリースされている](../Page/レコード.md "wikilink")。
+初回限定盤は2面デジパック仕様。
 
 ## 収録曲
 
@@ -111,6 +115,15 @@ yukihiroは全収録曲が自身若しくは[ken](https://ja.wikipedia.org/wiki/
 
 1.  **真実と幻想と (out of the reality mix \#2)**
 2.  **metropolis (android goes to be a deep sleep mix)**
+
+## 参加ミュージシャン
+
+  - hyde：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - ken：[Guitars](../Page/ギター.md "wikilink")
+  - tetsu：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+  - yukihiro：[Drums](../Page/ドラムセット.md "wikilink")
+      - All Re-mixed & Produced by yukihiro
+      - Mastered by 小鐵徹
 
 ## 脚注
 

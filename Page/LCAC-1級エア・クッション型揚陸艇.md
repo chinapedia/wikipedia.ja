@@ -1,4 +1,4 @@
-> この記事は[LCAC-1](https://ja.wikipedia.org/wiki/LCAC-1)から翻訳されています。
+> この記事は[LCAC-1級エア・クッション型揚陸艇](https://ja.wikipedia.org/wiki/LCAC-1級エア・クッション型揚陸艇)から翻訳されています。
 
 
 **LCAC-1級エア・クッション型揚陸艇**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")や[海上自衛隊](../Page/海上自衛隊.md "wikilink")で使用されている[エア・クッション型揚陸艇](https://ja.wikipedia.org/wiki/エア・クッション型揚陸艇 "wikilink")（[上陸用舟艇](../Page/上陸用舟艇.md "wikilink")）。「Landing Craft Air Cushion」の頭文字から**LCAC**（エルキャック）と通称されている。海上自衛隊では「エアクッション艇1号型」として配備している。

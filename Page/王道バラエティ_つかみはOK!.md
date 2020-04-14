@@ -1,4 +1,4 @@
-> この記事は[ OK!](https://ja.wikipedia.org/wiki/_OK!)から翻訳されています。
+> この記事は[王道バラエティ つかみはOK!](https://ja.wikipedia.org/wiki/王道バラエティ_つかみはOK!)から翻訳されています。
 
 
 『**王道バラエティ つかみはOK\!**』（おうどうバラエティ つかみはオッケー）は、[1993年](../Page/1993年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週水曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

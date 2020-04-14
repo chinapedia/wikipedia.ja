@@ -1,4 +1,4 @@
-> この記事は[de](https://ja.wikipedia.org/wiki/de)から翻訳されています。
+> この記事は[みんなdeクエスト](https://ja.wikipedia.org/wiki/みんなdeクエスト)から翻訳されています。
 
 
 **みんなdeクエスト**（みんなでクエスト）は、[Lindwurmと](https://ja.wikipedia.org/wiki/リンドブルム_\(ゲーム会社\) "wikilink")[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")が開発、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")が運営している、日本国産の[定期更新型オンラインゲーム](https://ja.wikipedia.org/wiki/定期更新型オンラインゲーム "wikilink")。略称は「**MdQ**」または「**みんクエ**」。

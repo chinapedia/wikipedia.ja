@@ -1,4 +1,4 @@
-> この記事は[ young](https://ja.wikipedia.org/wiki/_young)から翻訳されています。
+> この記事は[真・感覚ラジオ番組 小野坂・伊福部のyoungやんぐヤング](https://ja.wikipedia.org/wiki/真・感覚ラジオ番組_小野坂・伊福部のyoungやんぐヤング)から翻訳されています。
 
 
 **真・感覚ラジオ番組 小野坂・伊福部のyoungやんぐヤング**は、[小野坂昌也](../Page/小野坂昌也.md "wikilink")と[伊福部崇](../Page/伊福部崇.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。BSQR開局と同時にスタート。2時間生放送にもかかわらず、地上波で無いことを活かした無茶苦茶なトークと企画を行った。

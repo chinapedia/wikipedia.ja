@@ -1,4 +1,4 @@
-> この記事は[ \(JRA\)](https://ja.wikipedia.org/wiki/_\(JRA\))から翻訳されています。
+> この記事は[加藤和宏 \(JRA\)](https://ja.wikipedia.org/wiki/加藤和宏_\(JRA\))から翻訳されています。
 
 
 **加藤 和宏**(かとう かずひろ、[1956年](../Page/1956年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink") - )は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")(JRA) [美浦トレーニングセンター](../Page/美浦トレーニングセンター.md "wikilink")に所属する[調教師](../Page/調教師.md "wikilink")、元[騎手](../Page/騎手.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[!DS](https://ja.wikipedia.org/wiki/!DS)から翻訳されています。
+> この記事は[あつまれ!パワプロクンのDS甲子園](https://ja.wikipedia.org/wiki/あつまれ!パワプロクンのDS甲子園)から翻訳されています。
 
 
 『**あつまれ\! パワプロクンのDS甲子園**』（あつまれ パワプロクンのディーエスこうしえん）は、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフトである。[プロデューサー](../Page/プロデューサー.md "wikilink")は[藤岡謙治](https://ja.wikipedia.org/wiki/藤岡謙治 "wikilink")。

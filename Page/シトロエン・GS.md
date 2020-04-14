@@ -1,4 +1,4 @@
-> この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
+> この記事は[シトロエン・GS](https://ja.wikipedia.org/wiki/シトロエン・GS)から翻訳されています。
 
 
 [Citroen_GS_Pallas_1977.jpg](https://ja.wikipedia.org/wiki/File:Citroen_GS_Pallas_1977.jpg "fig:Citroen_GS_Pallas_1977.jpg") [Citroën_GS_002.JPG](https://ja.wikipedia.org/wiki/File:Citroën_GS_002.JPG "fig:Citroën_GS_002.JPG")\]\] [Citroen_GSA_Break_Cambridge.jpg](https://ja.wikipedia.org/wiki/File:Citroen_GSA_Break_Cambridge.jpg "fig:Citroen_GSA_Break_Cambridge.jpg") [Citroen_GSA_X1_1984.jpg](https://ja.wikipedia.org/wiki/File:Citroen_GSA_X1_1984.jpg "fig:Citroen_GSA_X1_1984.jpg") **シトロエン・GS/GSA**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[自動車](../Page/自動車.md "wikilink")会社[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が[1970年](../Page/1970年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで製造した小型[乗用車](../Page/乗用車.md "wikilink")である。空冷2気筒エンジンの[2CV及びその派生車種と](../Page/シトロエン・2CV.md "wikilink")、1955年以来作られていた大型車[Dシリーズとの広いギャップを埋める量産車種として計画された](../Page/シトロエン・DS.md "wikilink")。

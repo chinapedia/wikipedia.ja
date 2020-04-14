@@ -1,4 +1,4 @@
-> この記事は[ G](https://ja.wikipedia.org/wiki/_G)から翻訳されています。
+> この記事は[ガンダムトゥルーオデッセイ 〜失われしGの伝説〜](https://ja.wikipedia.org/wiki/ガンダムトゥルーオデッセイ_〜失われしGの伝説〜)から翻訳されています。
 
 
 『**ガンダムトゥルーオデッセイ 〜失われしGの伝説〜**』は、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である。北米では**MS Saga: A New Dawn**のタイトルで[2006年](../Page/2006年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売された。[主題歌](../Page/主題歌.md "wikilink")は[savage geniusの](https://ja.wikipedia.org/wiki/savage_genius "wikilink")『Take a chance.』。

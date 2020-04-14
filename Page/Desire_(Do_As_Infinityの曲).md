@@ -1,4 +1,4 @@
-> この記事は[Desire \(Do As Infinity\)](https://ja.wikipedia.org/wiki/Desire_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[Desire \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/Desire_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**Desire**」（ディザイア）は、[2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。

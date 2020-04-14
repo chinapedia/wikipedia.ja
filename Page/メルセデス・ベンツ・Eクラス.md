@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Eクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Eクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・Eクラス**（*Mercedes-Benz E-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している、[Eセグメント](../Page/Eセグメント.md "wikilink")の乗用車である。[セダン](../Page/セダン.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")、2ドア[クーペ](../Page/クーペ.md "wikilink")および[カブリオレの各車種を用意する](../Page/オープンカー.md "wikilink")。

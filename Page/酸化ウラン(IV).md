@@ -1,4 +1,4 @@
-> この記事は[\(IV\)](https://ja.wikipedia.org/wiki/\(IV\))から翻訳されています。
+> この記事は[酸化ウラン\(IV\)](https://ja.wikipedia.org/wiki/酸化ウラン\(IV\))から翻訳されています。
 
 
 | Section3 =  | Section7 =  | Section8 =  }} **酸化ウラン(IV)**（さんかウラン よん、）、または**二酸化ウラン**（にさんかウラン、）は、[化学式](../Page/化学式.md "wikilink")が UO<sub>2</sub> と表される[ウラン](../Page/ウラン.md "wikilink")の[酸化物](https://ja.wikipedia.org/wiki/酸化物 "wikilink")である。通常は褐色の無定形粉末で、[融点](../Page/融点.md "wikilink")約2,800 {{℃}}、[比重](../Page/比重.md "wikilink")10.97、室温での定圧モル[比熱](https://ja.wikipedia.org/wiki/比熱 "wikilink")は14 cal/molK、室温でのヤング率は200 GPa、[硝酸](../Page/硝酸.md "wikilink")に容易に溶けて[硝酸ウラニル](https://ja.wikipedia.org/wiki/硝酸ウラニル "wikilink")となる。[面心立方格子](https://ja.wikipedia.org/wiki/面心立方格子 "wikilink")の[蛍石](../Page/蛍石.md "wikilink")型の結晶構造であり、単位格子中にウラン原子が4個、酸素原子が8個存在する。[酸化プルトニウム(IV)](https://ja.wikipedia.org/wiki/酸化プルトニウム\(IV\) "wikilink")とは任意の比率で[固溶体](../Page/固溶体.md "wikilink")を形成する。700 {{℃}}で過定比酸化ウラン(IV) UO<sub>2+x</sub> が生じ、1200 {{℃}}で亜定比酸化ウラン(IV) UO<sub>2-x</sub> が生じる。熱伝導度は室温では10 W/mK程度、1000 {{℃}}では4 W/mKであるが、O/U 比（酸素原子の個数とウラン原子の個数の比）が2からずれる、不純物の存在等により熱伝導率が低下する。

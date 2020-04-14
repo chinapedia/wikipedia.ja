@@ -1,4 +1,4 @@
-> この記事は[THE  ](https://ja.wikipedia.org/wiki/THE__)から翻訳されています。
+> この記事は[THE 合戦 関ヶ原](https://ja.wikipedia.org/wiki/THE_合戦_関ヶ原)から翻訳されています。
 
 
 **THE 合戦 関ヶ原**（ざ かっせん せきがはら）は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2004年](../Page/2004年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に発売された[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLE2000シリーズ "wikilink")第47作目の痛快剣劇[アクションゲーム](../Page/アクションゲーム.md "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Smart \(\)](https://ja.wikipedia.org/wiki/Smart_\(\))から翻訳されています。
+> この記事は[Smart \(アルバム\)](https://ja.wikipedia.org/wiki/Smart_\(アルバム\))から翻訳されています。
 
 
 『**smart**』（スマート）は、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2014年](../Page/2014年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[J Stormから発売](../Page/ジェイ・ストーム.md "wikilink")。このアルバムをもとにしたツアーも開催した。

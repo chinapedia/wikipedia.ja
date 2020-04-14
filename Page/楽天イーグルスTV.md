@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[楽天イーグルスTV](https://ja.wikipedia.org/wiki/楽天イーグルスTV)から翻訳されています。
 
 
 **楽天イーグルスTV**（らくてんイーグルスティーヴィー）は、[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")が[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にかけて[インターネット](../Page/インターネット.md "wikilink")上で行っていた[プロ野球中継](../Page/プロ野球中継.md "wikilink")、並びに関連番組のウェブサイトである。[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")が運営していた。

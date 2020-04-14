@@ -1,4 +1,4 @@
-> この記事は[XML](https://ja.wikipedia.org/wiki/XML)から翻訳されています。
+> この記事は[XMLマスター](https://ja.wikipedia.org/wiki/XMLマスター)から翻訳されています。
 
 
 **XMLマスター**とは、[XMLのスキルに関する](../Page/Extensible_Markup_Language.md "wikilink")[認定資格](https://ja.wikipedia.org/wiki/認定資格 "wikilink")の名称である。

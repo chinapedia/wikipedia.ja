@@ -1,4 +1,4 @@
-> この記事は[Sinc](https://ja.wikipedia.org/wiki/Sinc)から翻訳されています。
+> この記事は[Sinc関数](https://ja.wikipedia.org/wiki/Sinc関数)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sinc_function_\(both\).svg "wikilink") **sinc 関数**（ジンクかんすう、シンクかんすう）は、正弦関数をその変数で割って得られる[初等関数](../Page/初等関数.md "wikilink")である。sinc(*x*), Sinc(*x*), sinc *x* などで表される。

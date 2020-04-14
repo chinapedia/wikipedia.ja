@@ -1,4 +1,4 @@
-> この記事は[Kiss \(\)](https://ja.wikipedia.org/wiki/Kiss_\(\))から翻訳されています。
+> この記事は[Kiss \(雑誌\)](https://ja.wikipedia.org/wiki/Kiss_\(雑誌\))から翻訳されています。
 
 
 『**Kiss**』（キス）は、[講談社](../Page/講談社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。刊行頻度は[月刊であり](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月25日に発売される\[1\]。
@@ -17,16 +17,16 @@
 
 ## 連載作品
 
-※2020年4月号時点。作品名五十音順。
+※2020年5月号時点。作品名五十音順。
 
   - [アレンとドラン](https://ja.wikipedia.org/wiki/アレンとドラン "wikilink")（[麻生みこと](../Page/麻生みこと.md "wikilink")）：2016年5月号 -
+  - [美しいこと](https://ja.wikipedia.org/wiki/美しいこと "wikilink")（原作：[木原音瀬](https://ja.wikipedia.org/wiki/木原音瀬 "wikilink")、漫画：[犬井ナオ](https://ja.wikipedia.org/wiki/犬井ナオ "wikilink")）：2020年5月号 -
   - [おいおいピータン\!\!](../Page/おいピータン!!.md "wikilink")（[伊藤理佐](../Page/伊藤理佐.md "wikilink")）：2018年5月号 -
   - [おとなになっても](https://ja.wikipedia.org/wiki/おとなになっても "wikilink")（[志村貴子](../Page/志村貴子.md "wikilink")）：2019年5月号 -
   - [大人の問題提起シリーズ](https://ja.wikipedia.org/wiki/問題提起シリーズ "wikilink")（[ももち麗子](../Page/ももち麗子.md "wikilink")）：2017年11月号 -
   - [おひとり様物語](https://ja.wikipedia.org/wiki/おひとり様物語 "wikilink")（[谷川史子](../Page/谷川史子.md "wikilink")）：2008年5号 -
   - [カカフカカ](https://ja.wikipedia.org/wiki/カカフカカ "wikilink")（[石田拓実](../Page/石田拓実.md "wikilink")）：2013年12月号 -
   - [神は細部に宿るのよ](https://ja.wikipedia.org/wiki/神は細部に宿るのよ "wikilink")（[久世番子](../Page/久世番子.md "wikilink")）：2009年7号 -
-  - [彼と彼女のヒストリごはん](https://ja.wikipedia.org/wiki/彼と彼女のヒストリごはん "wikilink")（[真船きょうこ](https://ja.wikipedia.org/wiki/真船きょうこ "wikilink")）：2017年7月号 -
   - [兄弟犬](https://ja.wikipedia.org/wiki/兄弟犬_\(漫画\) "wikilink")（[ともえ](https://ja.wikipedia.org/wiki/ともえ_\(漫画家\) "wikilink")）：2014年8月号 -
   - [幸子、生きてます](https://ja.wikipedia.org/wiki/幸子、生きてます "wikilink")（[柘植文](https://ja.wikipedia.org/wiki/柘植文 "wikilink")）：2016年11月号 -
   - [世界で一番早い春](https://ja.wikipedia.org/wiki/世界で一番早い春 "wikilink")（[川端志季](https://ja.wikipedia.org/wiki/川端志季 "wikilink")）：2018年4月号 -
@@ -78,6 +78,7 @@
   - ガキのためいき（[沖田×華](https://ja.wikipedia.org/wiki/沖田×華 "wikilink")）
   - カツ婚\!（[米沢りか](../Page/米沢りか.md "wikilink")）
   - 家電の女（[西山優里子](../Page/西山優里子.md "wikilink")）
+  - 彼と彼女のヒストリごはん（[真船きょうこ](https://ja.wikipedia.org/wiki/真船きょうこ "wikilink")）
   - [キス&ネバークライ](../Page/キス&ネバークライ.md "wikilink") （[小川彌生](../Page/小川彌生.md "wikilink")）
   - [きみはペット](https://ja.wikipedia.org/wiki/きみはペット "wikilink") （小川彌生）
   - 君はぼくのヒーローさ（[真柴ひろみ](https://ja.wikipedia.org/wiki/真柴ひろみ "wikilink")）
@@ -201,10 +202,11 @@
   - 2015年10月1日 - 2016年9月30日、79,647部\[24\]
   - 2016年10月1日 - 2017年9月30日、76,072部\[25\]
   - 2017年10月1日 - 2018年9月30日、70,308部\[26\]
+  - 2018年10月1日 - 2019年9月30日、57,967部\[27\]
 
 ## 関連誌
 
-2001年、本誌の姉妹誌として『[One more Kiss](../Page/One_more_Kiss.md "wikilink")』が創刊された。『One more Kiss』は2007年に休刊するが、その後、2008年から2014年まで、後継誌・『[Kiss PLUS](https://ja.wikipedia.org/wiki/Kiss_PLUS "wikilink")』が刊行された。『Kiss PLUS』休刊後には後継誌・『[ハツキス](https://ja.wikipedia.org/wiki/ハツキス "wikilink")』が創刊され\[27\]、現在も刊行中である。
+2001年、本誌の姉妹誌として『[One more Kiss](../Page/One_more_Kiss.md "wikilink")』が創刊された。『One more Kiss』は2007年に休刊するが、その後、2008年から2014年まで、後継誌・『[Kiss PLUS](https://ja.wikipedia.org/wiki/Kiss_PLUS "wikilink")』が刊行された。『Kiss PLUS』休刊後には後継誌・『[ハツキス](https://ja.wikipedia.org/wiki/ハツキス "wikilink")』が創刊され\[28\]、現在も刊行中である。
 
 また、2006年には本誌の増刊号として『[Beth](https://ja.wikipedia.org/wiki/Beth "wikilink")』が誕生し、2008年まで刊行された。
 
@@ -245,3 +247,4 @@
 25.
 26.
 27.
+28.

@@ -11,13 +11,23 @@
 
   - [事象の木解析](https://ja.wikipedia.org/wiki/事象の木解析 "wikilink") (Event Tree Analysis) - [工学](../Page/工学.md "wikilink")における[リスク分析](https://ja.wikipedia.org/wiki/リスク分析 "wikilink")の手法の1つ。
 
-  - [Electronic Travel Authority](https://ja.wikipedia.org/wiki/:en:Visa_policy_of_Australia#Electronic_Travel_Authority_\(ETA\)_\(subclass_601\) "wikilink") - [オーストラリア](../Page/オーストラリア.md "wikilink")政府の電子入国許可システム。
+  - 電子渡航認証 (Electronic Travel Authorization 等)
 
-  - [Electronic Travel Authorization](https://ja.wikipedia.org/wiki/Electronic_Travel_Authorization "wikilink")（eTA） - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")政府の電子渡航認証。空路での渡航には2016年3月15日から必要となった。
+      - [Electronic Travel Authority](https://ja.wikipedia.org/wiki/:en:Electronic_Travel_Authority_\(Australia\) "wikilink") - オーストラリア。
+      - [Electronic Travel Authorization](https://ja.wikipedia.org/wiki/Electronic_Travel_Authorization "wikilink")（eTA） - カナダ。空路での渡航には2016年3月15日から必要となった。
+      - [電子渡航認証システム](https://ja.wikipedia.org/wiki/電子渡航認証システム "wikilink") (ESTA) の旧称 - アメリカ合衆国。
 
-  - [イーター電機工業](../Page/イーター電機工業.md "wikilink") - [スイッチング電源](../Page/スイッチング電源.md "wikilink")を製造・販売している企業。
+  - 企業
 
-  - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バスク地方](../Page/バスク地方.md "wikilink")の民族組織 Euskadi Ta Askatasuna。[バスク祖国と自由](../Page/バスク祖国と自由.md "wikilink")を参照。
+      - [エタ (時計)](https://ja.wikipedia.org/wiki/エタ_\(時計\) "wikilink") - スイスの時計部品メーカー。
+
+      - [イーター電機工業](../Page/イーター電機工業.md "wikilink") - 日本で[スイッチング電源](../Page/スイッチング電源.md "wikilink")を製造・販売している企業。
+
+      - \- チェコの家電メーカー。一時期でカメラも製造。
+
+      - [ETAシステムズ](../Page/ETAシステムズ.md "wikilink") - かつてアメリカに存在したスーパーコンピュータメーカー。
+
+  - [バスク祖国と自由](../Page/バスク祖国と自由.md "wikilink") (Euskadi Ta Askatasuna) - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バスク地方](../Page/バスク地方.md "wikilink")の民族組織。
 
   - (Eta) - [ランチア](../Page/ランチア.md "wikilink")社の[自動車](../Page/自動車.md "wikilink")の車種。
 

@@ -1,4 +1,4 @@
-> この記事は[ZX](https://ja.wikipedia.org/wiki/ZX)から翻訳されています。
+> この記事は[シトロエン・ZX](https://ja.wikipedia.org/wiki/シトロエン・ZX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Citroen_ZX_front_20080118.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:CitroenZXwhite1.jpg "wikilink") **シトロエンZX**（*Citroën ZX* ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の自動車会社[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が、1991年から1997年まで製造した[ハッチバック](../Page/ハッチバック.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。後に[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")が追加された。[中国](../Page/中国.md "wikilink")ではその後も継続生産されている。

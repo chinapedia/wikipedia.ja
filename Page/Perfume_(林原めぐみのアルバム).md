@@ -1,4 +1,4 @@
-> この記事は[Perfume \(\)](https://ja.wikipedia.org/wiki/Perfume_\(\))から翻訳されています。
+> この記事は[Perfume \(林原めぐみのアルバム\)](https://ja.wikipedia.org/wiki/Perfume_\(林原めぐみのアルバム\))から翻訳されています。
 
 
 『**Perfume**』（パーフューム）は、[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1992年](../Page/1992年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。

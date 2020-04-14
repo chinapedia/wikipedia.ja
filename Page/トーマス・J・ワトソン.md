@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[トーマス・J・ワトソン](https://ja.wikipedia.org/wiki/トーマス・J・ワトソン)から翻訳されています。
 
 
 **トーマス・ジョン・ワトソン・シニア**（**Thomas John Watson, Sr.**、[1874年](../Page/1874年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[インターナショナル・ビジネス・マシーンズ](../Page/IBM.md "wikilink")（IBM）社の初代社長である\[1\]。厳密には同社の「創立者」ではないが、1914年から1956年までIBMのトップとして同社を世界的大企業に育て上げた人物であり、実質上のIBMの創立者とされることが多い。IBM独自の経営スタイルと企業文化を生み出し、[パンチカード](../Page/パンチカード.md "wikilink")を使った[タビュレーティングマシン](https://ja.wikipedia.org/wiki/タビュレーティングマシン "wikilink")を主力として、非常に効率的な販売組織へと成長させた。たたき上げた一流の実業家であり\[2\]、生前は世界一の富豪として知られ、その死に際しては「世界一偉大な[セールスマン](https://ja.wikipedia.org/wiki/セールスマン "wikilink")」と賞賛された\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[R92CP](https://ja.wikipedia.org/wiki/R92CP)から翻訳されています。
+> この記事は[日産・R92CP](https://ja.wikipedia.org/wiki/日産・R92CP)から翻訳されています。
 
 
 **日産R92CP**は、[1992年](../Page/1992年.md "wikilink")[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（JSPC）用に[日産自動車](../Page/日産自動車.md "wikilink")が製作した[グループC](../Page/グループC.md "wikilink")カー。前作[日産・R91CP](../Page/日産・R91CP.md "wikilink")同様、全て日産社内で作られた純国産車である。

@@ -1,4 +1,4 @@
-> この記事は[MIYUKI](https://ja.wikipedia.org/wiki/MIYUKI)から翻訳されています。
+> この記事は[ミラクルダイエッターMIYUKI](https://ja.wikipedia.org/wiki/ミラクルダイエッターMIYUKI)から翻訳されています。
 
 
 『**ミラクルダイエッターMIYUKI**』（ミラクルダイエッターミユキ）は[高口里純](../Page/高口里純.md "wikilink")原作、高口組作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。
@@ -109,4 +109,4 @@
       - [『ミラクルダイエッターMIYUKI VV』1巻](http://p.booklog.jp/book/21338)
       - [『ミラクルダイエッターMIYUKI VV』2巻](http://p.booklog.jp/book/21378)
 
-[Category:漫画作品_み](https://ja.wikipedia.org/wiki/Category:漫画作品_み "wikilink") [Category:赤旗に掲載された漫画](https://ja.wikipedia.org/wiki/Category:赤旗に掲載された漫画 "wikilink") [Category:ジャイブ](https://ja.wikipedia.org/wiki/Category:ジャイブ "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:美容を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容を題材とした作品 "wikilink") [Category:高口里純](https://ja.wikipedia.org/wiki/Category:高口里純 "wikilink")
+[Category:漫画作品_み](https://ja.wikipedia.org/wiki/Category:漫画作品_み "wikilink") [Category:赤旗に掲載された漫画](https://ja.wikipedia.org/wiki/Category:赤旗に掲載された漫画 "wikilink") [Category:ジャイブ](https://ja.wikipedia.org/wiki/Category:ジャイブ "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:魔法少女](https://ja.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:美容を題材とした作品](https://ja.wikipedia.org/wiki/Category:美容を題材とした作品 "wikilink") [Category:高口里純](https://ja.wikipedia.org/wiki/Category:高口里純 "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[HolyHearts!](https://ja.wikipedia.org/wiki/HolyHearts!)から翻訳されています。
+> この記事は[Holy☆Hearts!](https://ja.wikipedia.org/wiki/Holy☆Hearts!)から翻訳されています。
 
 
 『**Holy☆Hearts\!**』（ホーリー・ハーツ\!）は、[神代明](https://ja.wikipedia.org/wiki/神代明 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品。[集英社](../Page/集英社.md "wikilink")・[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")刊、全8巻。イラストは[緋賀ゆかり](https://ja.wikipedia.org/wiki/緋賀ゆかり "wikilink")。

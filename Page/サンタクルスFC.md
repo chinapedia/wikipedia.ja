@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サンタクルスFC](https://ja.wikipedia.org/wiki/サンタクルスFC)から翻訳されています。
 
 
 **サンタクルスFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ペルナンブーコ州](../Page/ペルナンブーコ州.md "wikilink")[レシフェ](../Page/レシフェ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[The](https://ja.wikipedia.org/wiki/The)から翻訳されています。
+> この記事は[クロスワードクイズ・Theエイリアン](https://ja.wikipedia.org/wiki/クロスワードクイズ・Theエイリアン)から翻訳されています。
 
 
 『**メナード・クロスワードクイズ・Theエイリアン**』（メナード・クロスワードクイズ・ジ・エイリアン）は、[1981年](../Page/1981年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から同年[5月3日](../Page/5月3日.md "wikilink")まで[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。[メナード化粧品の一社提供](../Page/日本メナード化粧品.md "wikilink")。放送時間は毎週日曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

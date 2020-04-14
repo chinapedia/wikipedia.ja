@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[カードGメン・小早川茜](https://ja.wikipedia.org/wiki/カードGメン・小早川茜)から翻訳されています。
 
 
 『**カードGメン・小早川茜**』（カードジーメン こばやかわあかね）は、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")まで[TBS系で放送された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全8回。主演は[片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")。

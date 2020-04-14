@@ -1,4 +1,4 @@
-> この記事は[CoCo](https://ja.wikipedia.org/wiki/CoCo)から翻訳されています。
+> この記事は[モンシェリCoCo](https://ja.wikipedia.org/wiki/モンシェリCoCo)から翻訳されています。
 
 
 『**モンシェリCoCo**』（モンシェリココ）は、[大和和紀](../Page/大和和紀.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。

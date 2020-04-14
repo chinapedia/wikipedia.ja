@@ -1,4 +1,4 @@
-> この記事は[KBS9](https://ja.wikipedia.org/wiki/KBS9)から翻訳されています。
+> この記事は[KBSニュース9](https://ja.wikipedia.org/wiki/KBSニュース9)から翻訳されています。
 
 
 『**KBSニュース9**』（、[英語](../Page/英語.md "wikilink"):**KBS NEWS 9**）とは、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・[KBSで](../Page/韓国放送公社.md "wikilink")[韓国時間](https://ja.wikipedia.org/wiki/韓国時間 "wikilink")の毎日21時から放送される[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である。KBSの看板ニュース番組であり、KBSは「大韓民国代表ニュース」と謳っている\[1\]。

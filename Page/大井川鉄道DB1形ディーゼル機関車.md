@@ -1,4 +1,4 @@
-> この記事は[DB1](https://ja.wikipedia.org/wiki/DB1)から翻訳されています。
+> この記事は[大井川鉄道DB1形ディーゼル機関車](https://ja.wikipedia.org/wiki/大井川鉄道DB1形ディーゼル機関車)から翻訳されています。
 
 
 **大井川鉄道DB1形ディーゼル機関車**（おおいがわてつどうDB1がたディーゼルきかんしゃ）は、[大井川鐵道](../Page/大井川鐵道.md "wikilink")が[井川線で用いている](https://ja.wikipedia.org/wiki/大井川鐵道井川線 "wikilink")[機械式](https://ja.wikipedia.org/wiki/ディーゼル機関車#機械式 "wikilink")[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")。

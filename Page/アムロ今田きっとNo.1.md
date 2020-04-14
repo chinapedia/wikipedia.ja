@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[アムロ今田きっとNo.1](https://ja.wikipedia.org/wiki/アムロ今田きっとNo.1)から翻訳されています。
 
 
 『**アムロ今田きっとNo.1**』（アムロいまだきっとナンバーワン）は、[1996年](../Page/1996年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、[日本テレビほか一部の](../Page/日本テレビ放送網.md "wikilink")[系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

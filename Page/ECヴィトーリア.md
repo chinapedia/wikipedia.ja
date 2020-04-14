@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ECヴィトーリア](https://ja.wikipedia.org/wiki/ECヴィトーリア)から翻訳されています。
 
 
 **ECヴィトーリア** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[バイーア州](../Page/バイーア州.md "wikilink")[サルヴァドール](../Page/サルヴァドール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

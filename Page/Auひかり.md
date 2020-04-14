@@ -1,4 +1,4 @@
-> この記事は[Au](https://ja.wikipedia.org/wiki/Au)から翻訳されています。
+> この記事は[Auひかり](https://ja.wikipedia.org/wiki/Auひかり)から翻訳されています。
 
 
 **auひかり**（エーユーひかり）とは[KDDI](../Page/KDDI.md "wikilink")による[光ファイバー](../Page/光ファイバー.md "wikilink")（[FTTH](../Page/FTTH.md "wikilink")）網、および[NTT東西の](../Page/日本電信電話.md "wikilink")[ダークファイバ](../Page/ダークファイバ.md "wikilink")を用いたサービスを提供するブランドである。

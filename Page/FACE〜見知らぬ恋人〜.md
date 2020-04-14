@@ -1,4 +1,4 @@
-> この記事は[FACE](https://ja.wikipedia.org/wiki/FACE)から翻訳されています。
+> この記事は[FACE〜見知らぬ恋人〜](https://ja.wikipedia.org/wiki/FACE〜見知らぬ恋人〜)から翻訳されています。
 
 
 『**FACE〜見知らぬ恋人〜**』（フェイス みしらぬこいびと）は、[2001年](../Page/2001年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")より[3月7日](../Page/3月7日.md "wikilink")まで毎週水曜日22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列の](../Page/日本テレビネットワーク協議会.md "wikilink")「[水曜ドラマ](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[高橋克典](../Page/高橋克典.md "wikilink")と[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")。

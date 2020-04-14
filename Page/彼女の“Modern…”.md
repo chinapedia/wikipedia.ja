@@ -1,4 +1,4 @@
-> この記事は[Modern](https://ja.wikipedia.org/wiki/Modern)から翻訳されています。
+> この記事は[彼女の“Modern…”](https://ja.wikipedia.org/wiki/彼女の“Modern…”)から翻訳されています。
 
 
 「**彼女の“Modern…”**」（かのじょのモダン）は、[GLAY](../Page/GLAY.md "wikilink")の3枚目のシングルである。[1994年](../Page/1994年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")より発売された。

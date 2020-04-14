@@ -1,4 +1,4 @@
-> この記事は[KIPS PiTaPa](https://ja.wikipedia.org/wiki/KIPS_PiTaPa)から翻訳されています。
+> この記事は[KIPS PiTaPaカード](https://ja.wikipedia.org/wiki/KIPS_PiTaPaカード)から翻訳されています。
 
 
 **KIPS PiTaPaカード**（キップス ピタパカード）は、[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")をはじめとする[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")の**KIPSクレジットカード**に紐付ける形で発行される[PiTaPa](../Page/PiTaPa.md "wikilink")カードである。本項では紐付け先である、KIPSクレジットカードについても説明する。

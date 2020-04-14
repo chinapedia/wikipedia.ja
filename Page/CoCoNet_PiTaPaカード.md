@@ -1,4 +1,4 @@
-> この記事は[CoCoNet PiTaPa](https://ja.wikipedia.org/wiki/CoCoNet_PiTaPa)から翻訳されています。
+> この記事は[CoCoNet PiTaPaカード](https://ja.wikipedia.org/wiki/CoCoNet_PiTaPaカード)から翻訳されています。
 
 
 **CoCoNet PiTaPaカード**（ココネット　ピタパ～）は、[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")（阪神）が発行していた[PiTaPa](../Page/PiTaPa.md "wikilink")対応の[ICカード](../Page/ICカード.md "wikilink")である。本利用開始日は[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")。ここでは単にCoCoNet PiTaPaと表記する。

@@ -1,4 +1,4 @@
-> この記事は[R90CP](https://ja.wikipedia.org/wiki/R90CP)から翻訳されています。
+> この記事は[日産・R90CP](https://ja.wikipedia.org/wiki/日産・R90CP)から翻訳されています。
 
 
 **日産・R90CP**は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（JSPC）および[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")用に[日産自動車](../Page/日産自動車.md "wikilink")が製作した[グループC](../Page/グループC.md "wikilink")カー。

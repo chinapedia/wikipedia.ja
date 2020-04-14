@@ -1,4 +1,4 @@
-> この記事は[MS](https://ja.wikipedia.org/wiki/MS)から翻訳されています。
+> この記事は[MS少女](https://ja.wikipedia.org/wiki/MS少女)から翻訳されています。
 
 
 **MS少女**（えむえすしょうじょ）は、アニメ「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する[モビルスーツ](../Page/モビルスーツ.md "wikilink")(MS)の外装を、美少女に[コスプレ](../Page/コスプレ.md "wikilink")させるようにデザインされた[キャラクター](../Page/キャラクター.md "wikilink")群の総称。英語表記は「MS GIRL（MOBILE SUIT GIRL）\[1\]」となる。
@@ -44,6 +44,7 @@
   - MA-05 [ビグロ](../Page/ビグロ.md "wikilink")（+ザクI）
   - [ハロ](../Page/ハロ_\(ガンダムシリーズ\).md "wikilink")（H.A.R.O.）+FF-X7 [コア・ファイター](../Page/コア・ファイター.md "wikilink")
   - MS-14S [ゲルググ](../Page/ゲルググ.md "wikilink")
+  - MSM-04 [アッガイ](../Page/アッガイ.md "wikilink")
 
 ## 関連書籍
 

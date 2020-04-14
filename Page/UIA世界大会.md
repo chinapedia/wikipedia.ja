@@ -1,4 +1,4 @@
-> この記事は[UIA](https://ja.wikipedia.org/wiki/UIA)から翻訳されています。
+> この記事は[UIA世界大会](https://ja.wikipedia.org/wiki/UIA世界大会)から翻訳されています。
 
 
 **UIA世界大会**（UIA World Congress）は、[国際建築家連合](https://ja.wikipedia.org/wiki/国際建築家連合 "wikilink")（UIA）により3年に一回開催される大会。世界の著名な[建築家](../Page/建築家.md "wikilink")が集い、講演等のイベントが開催される。第1回は1948年。[UIAゴールドメダル](https://ja.wikipedia.org/wiki/UIAゴールドメダル "wikilink")の表彰も行われる。

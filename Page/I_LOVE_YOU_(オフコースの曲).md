@@ -1,4 +1,4 @@
-> この記事は[I LOVE YOU \(\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(\))から翻訳されています。
+> この記事は[I LOVE YOU \(オフコースの曲\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(オフコースの曲\))から翻訳されています。
 
 
 「**I LOVE YOU**」（アイ・ラヴ・ユー）は、[1981年](../Page/1981年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")通算21枚目の[シングル](../Page/シングル.md "wikilink")。

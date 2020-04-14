@@ -1,4 +1,4 @@
-> この記事は[KANKU CLUB](https://ja.wikipedia.org/wiki/KANKU_CLUB)から翻訳されています。
+> この記事は[KANKU CLUBカード](https://ja.wikipedia.org/wiki/KANKU_CLUBカード)から翻訳されています。
 
 
 **KANKU CLUBカード**（かんくうクラブカード）は、[関西国際空港株式会社](https://ja.wikipedia.org/wiki/関西国際空港土地保有 "wikilink")（関空）が、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）、[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")、[三井住友カード](../Page/三井住友カード.md "wikilink")と共同で発行していた、[PiTaPa](../Page/PiTaPa.md "wikilink")機能付き提携[クレジットカード](../Page/クレジットカード.md "wikilink")である。

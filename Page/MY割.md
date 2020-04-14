@@ -1,4 +1,4 @@
-> この記事は[MY](https://ja.wikipedia.org/wiki/MY)から翻訳されています。
+> この記事は[MY割](https://ja.wikipedia.org/wiki/MY割)から翻訳されています。
 
 
 **MY割**（まいわり）は、[2006年](../Page/2006年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に開始し、[2007年](../Page/2007年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に『[誰でも割](../Page/誰でも割.md "wikilink")』に移行するまで行われていた[auの月額使用料割引サービスである](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")。

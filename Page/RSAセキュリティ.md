@@ -1,4 +1,4 @@
-> この記事は[RSA](https://ja.wikipedia.org/wiki/RSA)から翻訳されています。
+> この記事は[RSAセキュリティ](https://ja.wikipedia.org/wiki/RSAセキュリティ)から翻訳されています。
 
 
 **RSAセキュリティ**(RSA Security LLC\[1\])は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")および[ネットワークセキュリティ](https://ja.wikipedia.org/wiki/ネットワークセキュリティ "wikilink")に関するソフトウェアの開発会社である。通常は**RSA**の[商号](../Page/商号.md "wikilink")を使用している。

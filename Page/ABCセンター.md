@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCセンター](https://ja.wikipedia.org/wiki/ABCセンター)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ABC_Center_aerial_view_20070923-001.jpg "wikilink") **ABCセンター**は、[1966年](../Page/1966年.md "wikilink")6月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") まで[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[大淀南](https://ja.wikipedia.org/wiki/大淀南 "wikilink")2丁目に存在していた、朝日放送（ABC、現・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）の旧社屋及び隣接する関連施設を含めた街区の総称である。

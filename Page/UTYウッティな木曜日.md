@@ -1,4 +1,4 @@
-> この記事は[UTY](https://ja.wikipedia.org/wiki/UTY)から翻訳されています。
+> この記事は[UTYウッティな木曜日](https://ja.wikipedia.org/wiki/UTYウッティな木曜日)から翻訳されています。
 
 
 『**UTYウッティな木曜日**』（ユーティーワイ ウッティなもくようび）は、[2000年](../Page/2000年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ山梨](../Page/テレビ山梨.md "wikilink") (UTY) で放送された[山梨県](../Page/山梨県.md "wikilink")ローカルの[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。放送時間は毎週木曜日 18:55 - 19:54。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（2006年5月4日 - ）、[アナログ放送では](../Page/NTSC.md "wikilink")[レターボックス形式で放送](../Page/レターボックス_\(映像技術\).md "wikilink")（2006年6月頃 - ）。

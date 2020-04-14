@@ -1,4 +1,4 @@
-> この記事は[G\'s Radio](https://ja.wikipedia.org/wiki/G\'s_Radio)から翻訳されています。
+> この記事は[電撃G\'s Radio](https://ja.wikipedia.org/wiki/電撃G\'s_Radio)から翻訳されています。
 
 
 **電撃G's Radio**（でんげきジーズラジオ）は、[文化放送](../Page/文化放送.md "wikilink")ほかで[2002年](../Page/2002年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。全90回。略称Gラジ、ジーラジ。

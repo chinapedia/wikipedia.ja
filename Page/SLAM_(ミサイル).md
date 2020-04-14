@@ -1,4 +1,4 @@
-> この記事は[SLAM \(\)](https://ja.wikipedia.org/wiki/SLAM_\(\))から翻訳されています。
+> この記事は[SLAM \(ミサイル\)](https://ja.wikipedia.org/wiki/SLAM_\(ミサイル\))から翻訳されています。
 
 
 [Defense.gov_News_Photo_980220-N-0507F-001.jpg](https://ja.wikipedia.org/wiki/File:Defense.gov_News_Photo_980220-N-0507F-001.jpg "fig:Defense.gov_News_Photo_980220-N-0507F-001.jpg") **SLAM**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用している[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")。[ハープーン](../Page/ハープーン_\(ミサイル\).md "wikilink")[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")を母体に大幅改造されたものである。SLAMとは"Standoff Land Attack Missile"（スタンドオフ型対地攻撃ミサイル）の頭文字を取った略称であるが、英単語で「強打する」「圧勝する」などという意味もある。

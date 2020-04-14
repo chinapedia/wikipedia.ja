@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送文化研究所](https://ja.wikipedia.org/wiki/NHK放送文化研究所)から翻訳されています。
 
 
 **NHK放送文化研究所**（エヌエイチケイほうそうぶんかけんきゅうじょ、[英語](../Page/英語.md "wikilink")：*NHK Broadcasting Culture Research Institute*）（略称：文研）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が[1946年](../Page/1946年.md "wikilink")に設立した[放送研究機関](../Page/研究所.md "wikilink")。所在地は[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[愛宕](../Page/愛宕_\(東京都港区\).md "wikilink")。
@@ -31,12 +31,12 @@
   - [北村紀一郎](../Page/北村紀一郎.md "wikilink")（現・[NHK岡山放送局](../Page/NHK岡山放送局.md "wikilink")）
   - [柴田実](https://ja.wikipedia.org/wiki/柴田実_\(アナウンサー\) "wikilink")
   - [杉原満](../Page/杉原満.md "wikilink")（現・[NHK放送センター](../Page/NHK放送センター.md "wikilink")）
-  - [田中孝宜](../Page/田中孝宜.md "wikilink")（現・NHKラジオセンター）
+  - [田中孝宜](../Page/田中孝宜.md "wikilink")（現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink")）
   - [田中浩史](https://ja.wikipedia.org/wiki/田中浩史 "wikilink")（現・[跡見学園女子大学](https://ja.wikipedia.org/wiki/跡見学園女子大学 "wikilink")教授）
   - [田中学](https://ja.wikipedia.org/wiki/田中学_\(アナウンサー\) "wikilink")
   - [中尾晃一郎](../Page/中尾晃一郎.md "wikilink")（現・[NHK金沢放送局](../Page/NHK金沢放送局.md "wikilink")）
   - [松本和也](../Page/松本和也.md "wikilink")（現・[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属）
-  - [山田亜樹](https://ja.wikipedia.org/wiki/山田亜樹 "wikilink")
+  - [山田亜樹](https://ja.wikipedia.org/wiki/山田亜樹 "wikilink") (現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink"))
 
 ## 外部リンク
 

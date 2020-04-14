@@ -1,4 +1,4 @@
-> この記事は[PJ](https://ja.wikipedia.org/wiki/PJ)から翻訳されています。
+> この記事は[PJニュース](https://ja.wikipedia.org/wiki/PJニュース)から翻訳されています。
 
 
 **PJニュース**（ピージェイニュース）は市民[ジャーナリズム](https://ja.wikipedia.org/wiki/ジャーナリズム "wikilink")の一つ。PJはパブリック[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")(Public Journalist)の略である。

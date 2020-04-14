@@ -1,4 +1,4 @@
-> この記事は[Jealousy \(X\)](https://ja.wikipedia.org/wiki/Jealousy_\(X\))から翻訳されています。
+> この記事は[Jealousy \(Xのアルバム\)](https://ja.wikipedia.org/wiki/Jealousy_\(Xのアルバム\))から翻訳されています。
 
 
 『**Jealousy**』（ジェラシー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink") [X](../Page/X_JAPAN.md "wikilink") が1991年7月1日にリリースした3枚目</small>\[1\]のスタジオ・アルバム。オリコンの売り上げとしてはX JAPAN名義も含めて初動売上でバンド最高の60万枚以上を売り上げ、『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』に次ぐチャートイン50週を記録し、ミリオンセラーとなった。

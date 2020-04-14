@@ -1,4 +1,4 @@
-> この記事は[ FORBIDDEN SIREN](https://ja.wikipedia.org/wiki/_FORBIDDEN_SIREN)から翻訳されています。
+> この記事は[サイレン 〜FORBIDDEN SIREN〜](https://ja.wikipedia.org/wiki/サイレン_〜FORBIDDEN_SIREN〜)から翻訳されています。
 
 
 『**サイレン 〜FORBIDDEN SIREN〜**』（サイレン フォビドゥン・サイレン）は、[2006年](../Page/2006年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")[東宝](../Page/東宝.md "wikilink")[洋画](https://ja.wikipedia.org/wiki/洋画 "wikilink")系で公開された日本の[ホラー映画](../Page/ホラー映画.md "wikilink")である。

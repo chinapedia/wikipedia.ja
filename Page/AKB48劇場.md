@@ -1,4 +1,4 @@
-> この記事は[AKB48](https://ja.wikipedia.org/wiki/AKB48)から翻訳されています。
+> この記事は[AKB48劇場](https://ja.wikipedia.org/wiki/AKB48劇場)から翻訳されています。
 
 
 **AKB48劇場**（エーケービーフォーティエイトシアター、 ）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")電気街）の[ドン・キホーテ秋葉原店](../Page/ドン・キホーテ_\(企業\).md "wikilink")\[1\]8階に所在する[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")専用の[ライブハウス](../Page/ライブハウス.md "wikilink")である。
@@ -143,7 +143,7 @@ Electro-Voice社製の大型スピーカーが設置されている。
 ## 外部リンク
 
   - [AKB公式サイト内劇場案内](http://www.akb48.co.jp/theater/)
-  - [AKB48オフィシャルブログ 〜1830mから〜](http://ameblo.jp/akihabara48/)
+  - [AKB48オフィシャルブログ 〜1830mから〜](https://ameblo.jp/akihabara48/)
 
 [Category:AKB48](https://ja.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:秋葉原](https://ja.wikipedia.org/wiki/Category:秋葉原 "wikilink") [Category:東京都の劇場](https://ja.wikipedia.org/wiki/Category:東京都の劇場 "wikilink") [Category:ドン・キホーテ_(企業)](https://ja.wikipedia.org/wiki/Category:ドン・キホーテ_\(企業\) "wikilink") [Category:2005年開業の施設](https://ja.wikipedia.org/wiki/Category:2005年開業の施設 "wikilink") [Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:日本のアイドルイベント](https://ja.wikipedia.org/wiki/Category:日本のアイドルイベント "wikilink")
 

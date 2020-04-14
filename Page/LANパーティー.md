@@ -1,4 +1,4 @@
-> この記事は[LAN](https://ja.wikipedia.org/wiki/LAN)から翻訳されています。
+> この記事は[LANパーティー](https://ja.wikipedia.org/wiki/LANパーティー)から翻訳されています。
 
 
 **LANパーティー** (LAN party) とは、人々がコンピュータを持ち寄り、主に[マルチプレーヤー](https://ja.wikipedia.org/wiki/マルチプレーヤー "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")を行うためにお互いを[Local Area Network](../Page/Local_Area_Network.md "wikilink")(LAN)で接続すること。しばしば自然発生的に行われる。

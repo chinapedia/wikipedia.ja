@@ -1,4 +1,4 @@
-> この記事は[THE  ](https://ja.wikipedia.org/wiki/THE__)から翻訳されています。
+> この記事は[THE 武士道 〜辻斬り一代〜](https://ja.wikipedia.org/wiki/THE_武士道_〜辻斬り一代〜)から翻訳されています。
 
 
 『**THE 武士道 〜辻斬り一代〜**』（ザ・ぶしどう つじぎりいちだい）は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売された[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLE2000シリーズ "wikilink")第28作目の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

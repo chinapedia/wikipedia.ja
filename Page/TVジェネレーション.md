@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVジェネレーション](https://ja.wikipedia.org/wiki/TVジェネレーション)から翻訳されています。
 
 
 『**MOGITATE\!TVジェネレーション**』（もぎたて テレビジェネレーション）は、[1993年](../Page/1993年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全47回。放送時間は毎週[木曜](../Page/木曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

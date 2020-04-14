@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[おうし座T型星](https://ja.wikipedia.org/wiki/おうし座T型星)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:TTauriStarDrawing.jpg "wikilink")   **おうし座T型星**（おうしざテ（ィ）ーがたせい、T Tauri star, TTS）は、[爆発型変光星](../Page/爆発型変光星.md "wikilink")の一種である。

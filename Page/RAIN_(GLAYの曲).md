@@ -1,4 +1,4 @@
-> この記事は[RAIN \(GLAY\)](https://ja.wikipedia.org/wiki/RAIN_\(GLAY\))から翻訳されています。
+> この記事は[RAIN \(GLAYの曲\)](https://ja.wikipedia.org/wiki/RAIN_\(GLAYの曲\))から翻訳されています。
 
 
 「**RAIN**」（レイン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")が1994年5月25日に[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")からリリースしたファースト・シングルである\[1\]。デビューシングルながら[タイアップ](../Page/タイアップ.md "wikilink")が大きく、10万枚を超えるスマッシュヒットを記録した。

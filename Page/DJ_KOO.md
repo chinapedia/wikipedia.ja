@@ -1,7 +1,7 @@
 > この記事は[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO)から翻訳されています。
 
 
-**DJ KOO**（ディージェイ・コー 、本名**髙瀨 浩一**（たかせ こういち）、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月8日](../Page/8月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[サウンドクリエーター](../Page/マニピュレーター.md "wikilink")、[バラエティタレント](../Page/バラエティタレント.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[TRF](../Page/TRF.md "wikilink")のメンバーでDJ担当のリーダー。日本の[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を黎明期から知る。他、The JG's、WEST 87、Phal、WILLとしても活動。
+**DJ KOO**（ディージェイ・コー 、本名**高瀬 浩一**（たかせ こういち）、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月8日](../Page/8月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[サウンドクリエーター](../Page/マニピュレーター.md "wikilink")、[バラエティタレント](../Page/バラエティタレント.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[TRF](../Page/TRF.md "wikilink")のメンバーでDJ担当のリーダー。日本の[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を黎明期から知る。他、The JG's、WEST 87、Phal、WILLとしても活動。
 
 ## 来歴
 
@@ -63,7 +63,40 @@
 
 ## 作品
 
+**シングル**
+
+  - HAPPY CLAP（配信限定） 2019年10月25日
+  - GIRLS LIKE ME（配信限定）2019年11月1日 aolo Ortelli a.k.a. Spankers, DJ KOO ft. Simona Nae名義
+
+**アルバム**
+
+  - DJ KOO CLUB MIX –PARTY HITS MEGAMIX- 2017年6月14日 FARM-449
+  - DJ KOO CLUB MIX –PARTY HITS MEGAMIX 2- 2018年3月21日 FARM-470
+  - KING OF PARTY mixed by DJ KOO 2019年11月6日 FARM-507
+
+**DVD**
+
+  - AYAKA-NATION 2017 in 両国国技館 LIVE DVD（[佐々木彩夏](../Page/佐々木彩夏.md "wikilink")（[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")）） 2018年6月6日 KIBM-728/9
+
+<!-- end list -->
+
+  -
+    19位（オリコンDVDランキング）
+
+**Blu-ray**
+
+  - AYAKA-NATION 2017 in 両国国技館 LIVE Blu-ray（佐々木彩夏（ももいろクローバーZ）） 2018年6月6日 KIXM-325
+
+<!-- end list -->
+
+  -
+    5位（オリコンBlu-rayランキング）
+
 ## 主な出演
+
+### TV
+
+  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） 「WEニュース」2020年3月マンスリーMC
 
 ### CM
 
@@ -81,9 +114,9 @@
 
   - [YouTuber DJ KOO](https://www.youtube.com/channel/UCYDFxWio04dzvmFQE1bm-xw/)
 
-  - [DJ KOO 公式ブログ](http://ameblo.jp/dj-koo-official/)
+  - [DJ KOO 公式ブログ](https://ameblo.jp/dj-koo-official/)
 
-  - [ブログ「MUZIK-CHANNEL」](http://blog.excite.co.jp/MUZIK-CHANNEL/)
+  - [ブログ「MUZIK-CHANNEL」](https://blog.excite.co.jp/MUZIK-CHANNEL/)
 
   -
   -

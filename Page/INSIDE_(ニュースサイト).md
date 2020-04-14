@@ -1,4 +1,4 @@
-> この記事は[INSIDE \(\)](https://ja.wikipedia.org/wiki/INSIDE_\(\))から翻訳されています。
+> この記事は[INSIDE \(ニュースサイト\)](https://ja.wikipedia.org/wiki/INSIDE_\(ニュースサイト\))から翻訳されています。
 
 
 **iNSIDE**（インサイド）は、株式会社[イードが運営する](https://ja.wikipedia.org/wiki/イード_\(企業\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")関連[ニュースサイト](../Page/ニュースサイト.md "wikilink")である。

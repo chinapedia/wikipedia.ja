@@ -1,4 +1,4 @@
-> この記事は[WHATEVER \(\)](https://ja.wikipedia.org/wiki/WHATEVER_\(\))から翻訳されています。
+> この記事は[WHATEVER \(アルバム\)](https://ja.wikipedia.org/wiki/WHATEVER_\(アルバム\))から翻訳されています。
 
 
 『**WHATEVER**』（ワットエヴァー）は、[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1992年](../Page/1992年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売、[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発売された。

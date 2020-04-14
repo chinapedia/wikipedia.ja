@@ -1,4 +1,4 @@
-> この記事は[R91CP](https://ja.wikipedia.org/wiki/R91CP)から翻訳されています。
+> この記事は[日産・R91CP](https://ja.wikipedia.org/wiki/日産・R91CP)から翻訳されています。
 
 
 **日産・R91CP**は、[1991年](../Page/1991年.md "wikilink")[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（JSPC）および[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")用に[日産自動車](../Page/日産自動車.md "wikilink")が製作した[グループC](../Page/グループC.md "wikilink")カー。しかしル・マン参戦は実現しなかった。日産初のオール自社製のグループCカーであり、[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")としても[日産・R383](https://ja.wikipedia.org/wiki/日産・R383 "wikilink")以来約20年ぶりの完全自社製車両である。

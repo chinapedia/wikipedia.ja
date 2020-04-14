@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dクラッカーズ](https://ja.wikipedia.org/wiki/Dクラッカーズ)から翻訳されています。
 
 
 **Dクラッカーズ**は、[あざの耕平](../Page/あざの耕平.md "wikilink")による[ライトノベル](../Page/ライトノベル.md "wikilink")。口絵・挿絵は[村崎久都](https://ja.wikipedia.org/wiki/村崎久都 "wikilink")が担当。[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")刊\[1\]。

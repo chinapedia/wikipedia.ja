@@ -1,4 +1,4 @@
-> この記事は[II \(\)](https://ja.wikipedia.org/wiki/II_\(\))から翻訳されています。
+> この記事は[雄風II型 \(ミサイル\)](https://ja.wikipedia.org/wiki/雄風II型_\(ミサイル\))から翻訳されています。
 
 
 **雄風II型**（ゆうふうにがた、Hsiung Feng II）は、[台湾海軍の](https://ja.wikipedia.org/wiki/中華民国海軍 "wikilink")[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")（SSM）。派生型として、[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")タイプの雄風IIE型も開発されている。

@@ -1,4 +1,4 @@
-> この記事は[DAHLIA \(\)](https://ja.wikipedia.org/wiki/DAHLIA_\(\))から翻訳されています。
+> この記事は[DAHLIA \(アルバム\)](https://ja.wikipedia.org/wiki/DAHLIA_\(アルバム\))から翻訳されています。
 
 
 『**DAHLIA**』（ダリア）は、日本のロックバンド・[X JAPANが](../Page/X_JAPAN.md "wikilink")1996年11月4日にリリースした4作目のスタジオ・アルバム。

@@ -32,6 +32,6 @@ SME主催の「第1回インターナショナル・オーディション」でN
 ## 外部リンク
 
   - [Sony Musicによる公式サイト](http://www.amplified-net.jp/)
-  - [ソニー・ミュージックエンタテインメントによるページ](http://www.sonymusic.co.jp/Music/Arch/DF/amplified/index.html)
+  - [ソニー・ミュージックエンタテインメントによるページ](https://www.sonymusic.co.jp/artist/amplified/)
 
 [Category:香港の音楽グループ](https://ja.wikipedia.org/wiki/Category:香港の音楽グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

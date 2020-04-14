@@ -1,4 +1,4 @@
-> この記事は[SEED featuring SUIT CD](https://ja.wikipedia.org/wiki/SEED_featuring_SUIT_CD)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED featuring SUIT CD](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_featuring_SUIT_CD)から翻訳されています。
 
 
 **機動戦士ガンダムSEED featuring SUIT CD**（きどうせんしガンダムシード フィーチャリング スーツ シーディー）は、アニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の[CDドラマである](../Page/ラジオドラマ.md "wikilink")。

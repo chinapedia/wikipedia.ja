@@ -1,4 +1,4 @@
-> この記事は[  Shoot the Bullet.](https://ja.wikipedia.org/wiki/__Shoot_the_Bullet.)から翻訳されています。
+> この記事は[東方文花帖 〜 Shoot the Bullet.](https://ja.wikipedia.org/wiki/東方文花帖_〜_Shoot_the_Bullet.)から翻訳されています。
 
 
 『**東方文花帖 〜 Shoot the Bullet.**』（とうほうぶんかちょう シュート・ザ・バレット）とは、[同人サークル](../Page/同人サークル.md "wikilink")[上海アリス幻樂団](https://ja.wikipedia.org/wiki/上海アリス幻樂団 "wikilink")によって製作された[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")ゲームであり、[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")第9.5弾にあたる作品である。2005年12月30日開催の[同人イベント](../Page/同人誌即売会.md "wikilink")「[コミックマーケット](../Page/コミックマーケット.md "wikilink")69」で販売された。後に[同人ショップ](../Page/同人ショップ.md "wikilink")での[委託販売](../Page/委託販売.md "wikilink")も行なわれている。

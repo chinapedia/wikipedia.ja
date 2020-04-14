@@ -1,4 +1,4 @@
-> この記事は[CBR](https://ja.wikipedia.org/wiki/CBR)から翻訳されています。
+> この記事は[CBR試験](https://ja.wikipedia.org/wiki/CBR試験)から翻訳されています。
 
 
 **CBR**（California Bearing Ratio）は、[地盤試験の一つ](../Page/地盤調査.md "wikilink")。路床土支持力比を求めるものである。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の交通局のO.J.Portorが提唱したもの。道路設計において、路床土を評価するために路床や路盤材料のCBRを求める試験を「設計CBR試験」といい、路盤材料を評価するために路盤材料のCBRを求める試験を「修正CBR試験」という。

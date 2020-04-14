@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ジョン・F・ケネディ・センター](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ・センター)から翻訳されています。
 
 
 [KennedyCenterFromAir2.JPG](https://ja.wikipedia.org/wiki/File:KennedyCenterFromAir2.JPG "fig:KennedyCenterFromAir2.JPG") [Kennedy_center_at_night.jpg](https://ja.wikipedia.org/wiki/File:Kennedy_center_at_night.jpg "fig:Kennedy_center_at_night.jpg")

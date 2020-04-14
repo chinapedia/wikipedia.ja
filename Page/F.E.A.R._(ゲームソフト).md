@@ -1,4 +1,4 @@
-> この記事は[F.E.A.R. \(\)](https://ja.wikipedia.org/wiki/F.E.A.R._\(\))から翻訳されています。
+> この記事は[F.E.A.R. \(ゲームソフト\)](https://ja.wikipedia.org/wiki/F.E.A.R._\(ゲームソフト\))から翻訳されています。
 
 
 『**F.E.A.R. -First Encounter Assault Recon-**』（フィアー　-ファースト エンカウンター アサルト リコン-）は、[Monolith Productionsがパソコン用に製作した](../Page/Monolith_Productions.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。ジャンルは[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")発売。

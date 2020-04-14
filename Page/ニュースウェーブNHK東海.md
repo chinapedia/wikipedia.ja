@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[ニュースウェーブNHK東海](https://ja.wikipedia.org/wiki/ニュースウェーブNHK東海)から翻訳されています。
 
 
 **ニュースウェーブNHK東海**（にゅーすうぇーぶエヌエイチケーとうかい）は、[1991年](../Page/1991年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された、東海地方のローカルニュースワイド番組。（[イブニングネットワークの東海地方パートの改題版](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")。）

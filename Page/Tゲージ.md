@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[Tゲージ](https://ja.wikipedia.org/wiki/Tゲージ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:T_review_04.jpg "wikilink") **Tゲージ**（ティーゲージ）とは、[軌間](../Page/軌間.md "wikilink")3[mm](../Page/ミリメートル.md "wikilink")、1/450[スケールの](../Page/縮尺.md "wikilink")[鉄道模型](../Page/鉄道模型.md "wikilink")である。名称は、[数字](../Page/数字.md "wikilink")の3を表す[英単語](https://ja.wikipedia.org/wiki/英単語 "wikilink")（**T**hree：スリー）の先頭の文字から命名された。

@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKサラエヴォ](https://ja.wikipedia.org/wiki/FKサラエヴォ)から翻訳されています。
 
 
 **フドバルスキ・クルブ・サラエヴォ**（, **）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[サラエヴォ](../Page/サラエヴォ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

@@ -1,4 +1,4 @@
-> この記事は[OTAKU](https://ja.wikipedia.org/wiki/OTAKU)から翻訳されています。
+> この記事は[OTAKUニッポン](https://ja.wikipedia.org/wiki/OTAKUニッポン)から翻訳されています。
 
 
 **OTAKUニッポン**（おたくニッポン）は[読売新聞](../Page/読売新聞.md "wikilink")夕刊で毎月最終[金曜日](../Page/金曜日.md "wikilink")に掲載されていた（\*\*年\*\*月\*\*日～[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")）オタク情報コーナーである。

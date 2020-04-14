@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[魔剣X](https://ja.wikipedia.org/wiki/魔剣X)から翻訳されています。
 
 
 『**魔剣X**』（まけんエックス）は、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用3Dアクションアドベンチャー。 [PlayStation 2で改良移植版の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")**魔剣爻**（まけんシャオ）が発売された。

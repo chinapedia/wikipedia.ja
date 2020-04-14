@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースおはよう福岡](https://ja.wikipedia.org/wiki/NHKニュースおはよう福岡)から翻訳されています。
 
 
 **NHKニュースおはよう福岡**（エヌエイチケイニュースおはようふくおか）は、[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")が「[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")」の中で平日7時台に放送していた[ローカルニュース番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。NHK合理化により[北九州局エリアを含めた全福岡県内で放送されている](../Page/NHK北九州放送局.md "wikilink")。

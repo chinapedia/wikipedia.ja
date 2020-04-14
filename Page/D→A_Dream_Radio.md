@@ -1,4 +1,4 @@
-> この記事は[DA Dream Radio](https://ja.wikipedia.org/wiki/DA_Dream_Radio)から翻訳されています。
+> この記事は[D→A Dream Radio](https://ja.wikipedia.org/wiki/D→A_Dream_Radio)から翻訳されています。
 
 
 『**D→A Dream Radio**』（ディーエー ドリームラジオ）は、[トンキンハウス](../Page/トンキンハウス.md "wikilink")の[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[D→A:BLACK](https://ja.wikipedia.org/wiki/D→A:BLACK "wikilink")』及び『[D→A:WHITE](https://ja.wikipedia.org/wiki/D→A:WHITE "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[声優](../Page/声優.md "wikilink")の[松来未祐](../Page/松来未祐.md "wikilink")とトンキンハウスのゲームプロデューサーである盛政樹。[2003年](../Page/2003年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")から配信を開始。[2005年](../Page/2005年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")配信分で終了した。全56回。

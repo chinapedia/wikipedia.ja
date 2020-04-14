@@ -1,4 +1,4 @@
-> この記事は[ZJ](https://ja.wikipedia.org/wiki/ZJ)から翻訳されています。
+> この記事は[ZJゲージ](https://ja.wikipedia.org/wiki/ZJゲージ)から翻訳されています。
 
 
 **ZJゲージ**（ゼットジェイゲージ）とはアキア（合併によりプラスアップ）から発売された[Zゲージ](../Page/Zゲージ.md "wikilink")鉄道模型の名称である。

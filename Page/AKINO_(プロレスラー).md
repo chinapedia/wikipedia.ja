@@ -1,4 +1,4 @@
-> この記事は[AKINO \(\)](https://ja.wikipedia.org/wiki/AKINO_\(\))から翻訳されています。
+> この記事は[AKINO \(プロレスラー\)](https://ja.wikipedia.org/wiki/AKINO_\(プロレスラー\))から翻訳されています。
 
 
 **AKINO**（アキノ、[1973年](../Page/1973年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**秋野 美佳**（あきの みか）。
@@ -52,7 +52,7 @@
   - [TWF世界タッグ王座](https://ja.wikipedia.org/wiki/TWF世界タッグ王座 "wikilink")
   - [スカイ・ハイ・オブ・アルシオン王座](https://ja.wikipedia.org/wiki/スカイ・ハイ・オブ・アルシオン王座 "wikilink")
   - [ツイン・スター・オブ・アルシオン王座](https://ja.wikipedia.org/wiki/ツイン・スター・オブ・アルシオン王座 "wikilink")
-  - [オールパシフィック王座](../Page/オールパシフィック王座.md "wikilink")
+  - [WWWAオールパシフィック王座](../Page/オールパシフィック王座.md "wikilink")
   - [JWP認定タッグ王座](../Page/JWP認定タッグ王座.md "wikilink")
   - [OZアカデミー認定無差別級王座](https://ja.wikipedia.org/wiki/OZアカデミー認定無差別級王座 "wikilink")
   - [OZアカデミー認定タッグ王座](https://ja.wikipedia.org/wiki/OZアカデミー認定タッグ王座 "wikilink")

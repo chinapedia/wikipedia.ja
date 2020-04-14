@@ -551,7 +551,7 @@
 
   - [公式サイト](http://www.gagle-official.com/)
 
-  - [公式ブログ](http://ameblo.jp/gagle/)
+  - [公式ブログ](https://ameblo.jp/gagle/)
 
   - [DJ MITSU THE BEATS MY SPACE](http://www.myspace.com/mitsuthebeats)
 

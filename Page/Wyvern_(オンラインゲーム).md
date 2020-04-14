@@ -1,4 +1,4 @@
-> この記事は[Wyvern \(\)](https://ja.wikipedia.org/wiki/Wyvern_\(\))から翻訳されています。
+> この記事は[Wyvern \(オンラインゲーム\)](https://ja.wikipedia.org/wiki/Wyvern_\(オンラインゲーム\))から翻訳されています。
 
 
 ***Wyvern***は[アメリカのGhost](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Track社の運営する[無料](../Page/無料.md "wikilink")のスマートフォン・タブレット向け[ファンタジー](../Page/ファンタジー.md "wikilink")系[MMORPG](../Page/MMORPG.md "wikilink")である。[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")および[Android](../Page/Android.md "wikilink")上で動作する。2011年までCabochon Technologiesが運営していた。開発者はSteve Yegge(Rhialto)。[PDA版は](../Page/携帯情報端末.md "wikilink")2002年の[COMDEX](../Page/COMDEX.md "wikilink")で大賞を受賞している。

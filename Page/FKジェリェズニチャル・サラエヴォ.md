@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKジェリェズニチャル・サラエヴォ](https://ja.wikipedia.org/wiki/FKジェリェズニチャル・サラエヴォ)から翻訳されています。
 
 
 [Sarajevo_19.3.1996_war.JPG](https://ja.wikipedia.org/wiki/File:Sarajevo_19.3.1996_war.JPG "fig:Sarajevo_19.3.1996_war.JPG") **フドバルスキ・クルブ・ジェリェズニチャル・サラエヴォ**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")、プロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグ（プレミイェル・リーガ）に所属するクラブチーム。本拠地は[サラエヴォ](../Page/サラエヴォ.md "wikilink")。

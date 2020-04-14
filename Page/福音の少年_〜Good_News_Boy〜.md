@@ -1,4 +1,4 @@
-> この記事は[ Good News Boy](https://ja.wikipedia.org/wiki/_Good_News_Boy)から翻訳されています。
+> この記事は[福音の少年 〜Good News Boy〜](https://ja.wikipedia.org/wiki/福音の少年_〜Good_News_Boy〜)から翻訳されています。
 
 
 『**福音の少年 〜Good News Boy〜**』（ふくいんのしょうねん グッド ニュース ボーイ）は、[加地尚武](../Page/加地尚武.md "wikilink")による日本の[ライトノベル](../Page/ライトノベル.md "wikilink")作品。

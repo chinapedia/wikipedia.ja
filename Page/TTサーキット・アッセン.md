@@ -1,4 +1,4 @@
-> この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
+> この記事は[TTサーキット・アッセン](https://ja.wikipedia.org/wiki/TTサーキット・アッセン)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:TT-circuit-Assen0605.jpg "wikilink") **TTサーキット・アッセン**（**TT Circuit Assen**）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ドレンテ州](../Page/ドレンテ州.md "wikilink")[アッセン](../Page/アッセン.md "wikilink")にある[サーキット](../Page/サーキット.md "wikilink")。**サーキット・ファン・ドレンテ**(Circuit van Drenthe)とも呼ばれる。

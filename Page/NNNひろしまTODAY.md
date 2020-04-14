@@ -1,4 +1,4 @@
-> この記事は[NNNTODAY](https://ja.wikipedia.org/wiki/NNNTODAY)から翻訳されています。
+> この記事は[NNNひろしまTODAY](https://ja.wikipedia.org/wiki/NNNひろしまTODAY)から翻訳されています。
 
 
 『**NNNひろしまTODAY**』（エヌエヌエヌひろしまトゥデイ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[広島テレビで放送された夕方の](../Page/広島テレビ放送.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[フィーバークィーンII](https://ja.wikipedia.org/wiki/フィーバークィーンII)から翻訳されています。
 
 
 **フィーバークィーンII**は、[1993年](../Page/1993年.md "wikilink")6月に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売した[トランプ](../Page/トランプ.md "wikilink")をモチーフとしたドラム型[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。保留玉[連荘](../Page/連荘.md "wikilink")機。『[フィーバーキングII](../Page/フィーバーキングII.md "wikilink")』の後継機。当時、販促用ポスターに書かれていたキャッチコピーは「麗しきトランプジャック世界(ワールド)へ、ようこそ、クィーンな情熱舞い上がれ」であった。

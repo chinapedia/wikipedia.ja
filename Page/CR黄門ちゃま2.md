@@ -1,4 +1,4 @@
-> この記事は[CR2](https://ja.wikipedia.org/wiki/CR2)から翻訳されています。
+> この記事は[CR黄門ちゃま2](https://ja.wikipedia.org/wiki/CR黄門ちゃま2)から翻訳されています。
 
 
 **CR黄門ちゃま2**（シーアールこうもんちゃま2）は、[1994年](../Page/1994年.md "wikilink")に[平和が開発](../Page/平和_\(パチンコ\).md "wikilink")、発売した[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。1/3確率変動以下2回継続タイプ。継続リミットはなし。現金機デジパチ『**黄門ちゃま**』の後継機。演出の内容がドラマ版の『[水戸黄門](../Page/水戸黄門_\(パナソニック_ドラマシアター\).md "wikilink")』に酷似しているが、タイアップ機ではない（後に[京楽産業.](../Page/京楽産業..md "wikilink")から「[CRぱちんこ水戸黄門](../Page/CRぱちんこ水戸黄門.md "wikilink")」が発売された）。

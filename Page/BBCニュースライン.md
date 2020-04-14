@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCニュースライン](https://ja.wikipedia.org/wiki/BBCニュースライン)から翻訳されています。
 
 
 『**BBCニュースライン**』（ビービーシーニュースライン）は、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[びわ湖放送](../Page/びわ湖放送.md "wikilink")で夕方と夜に放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは金曜日に本番組の拡大版『**BBCニュースライン・フライデー**』が放送されていた。一部のニュース素材を除いて[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

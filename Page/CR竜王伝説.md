@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR竜王伝説](https://ja.wikipedia.org/wiki/CR竜王伝説)から翻訳されています。
 
 
 **CR竜王伝説Z**(-りゅうおうでんせつ-)は、[1996年](../Page/1996年.md "wikilink")に[豊丸産業](../Page/豊丸産業.md "wikilink")が開発、発売した[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。7/22で[確率変動](../Page/確率変動.md "wikilink")以後2回継続タイプ。継続リミットはなし。

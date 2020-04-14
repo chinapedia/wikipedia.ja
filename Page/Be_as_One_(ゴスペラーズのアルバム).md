@@ -1,4 +1,4 @@
-> この記事は[Be as One \(\)](https://ja.wikipedia.org/wiki/Be_as_One_\(\))から翻訳されています。
+> この記事は[Be as One \(ゴスペラーズのアルバム\)](https://ja.wikipedia.org/wiki/Be_as_One_\(ゴスペラーズのアルバム\))から翻訳されています。
 
 
 『**Be as One**』 （ビー・アズ・ワン） は、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")のメジャーデビュー10枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[Ki/oon Recordsから発売された](../Page/キューンミュージック.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MS](https://ja.wikipedia.org/wiki/MS)から翻訳されています。
+> この記事は[MSエンタテインメント](https://ja.wikipedia.org/wiki/MSエンタテインメント)から翻訳されています。
 
 
 **株式会社MSエンタテインメント** (MS Entertainment Inc.) は、日本の[芸能プロダクション](https://ja.wikipedia.org/wiki/芸能プロダクション "wikilink")。本社は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。

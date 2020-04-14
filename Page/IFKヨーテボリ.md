@@ -1,4 +1,4 @@
-> この記事は[IFK](https://ja.wikipedia.org/wiki/IFK)から翻訳されています。
+> この記事は[IFKヨーテボリ](https://ja.wikipedia.org/wiki/IFKヨーテボリ)から翻訳されています。
 
 
 **イドロッツフェレニンゲン・カムラテルナ・ヨーテボリ**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の都市[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。日本では**イェーテボリ**との表記も一般的。

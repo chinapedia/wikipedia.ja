@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBC歌謡ベストテン](https://ja.wikipedia.org/wiki/CBC歌謡ベストテン)から翻訳されています。
 
 
 『**CBC歌謡ベストテン**』（シービーシーかようベストテン）は、[1972年](../Page/1972年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")まで（第1期）、[2014年](../Page/2014年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")（第2期）から[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送されている[演歌](../Page/演歌.md "wikilink")・[歌謡曲](../Page/歌謡曲.md "wikilink")専門の[音楽番組](../Page/音楽番組.md "wikilink")である。

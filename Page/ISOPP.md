@@ -108,7 +108,7 @@ Fire works
 
 ## 外部リンク
 
-  - [オフィシャルブログ「ISOPP（アイエスオーピィピィ）」（～2017年8月）](http://ameblo.jp/isopp-blog/)
+  - [オフィシャルブログ「ISOPP（アイエスオーピィピィ）」（～2017年8月）](https://ameblo.jp/isopp-blog/)
   - [オフィシャルブログ「ISOPP（アイエスオーピィピィ）」（2017年8月～）](https://isoppmen.com/)
 
 [Category:日本のダンサー](https://ja.wikipedia.org/wiki/Category:日本のダンサー "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

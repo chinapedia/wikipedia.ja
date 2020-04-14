@@ -1,4 +1,4 @@
-> この記事は[ SG-1](https://ja.wikipedia.org/wiki/_SG-1)から翻訳されています。
+> この記事は[スターゲイト SG-1](https://ja.wikipedia.org/wiki/スターゲイト_SG-1)から翻訳されています。
 
 
 『**スターゲイト SG-1**』（スターゲイト エスジーワン、*Stargate SG-1*）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2007年](../Page/2007年.md "wikilink")にかけて[アメリカで制作された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）。[1994年](../Page/1994年.md "wikilink")に公開された映画「[スターゲイト](../Page/スターゲイト.md "wikilink")」をベースに作られており、本国では最終シーズンであるシーズン10が終了した。また、[ギネスブックにも世界最長SFドラマとして記載されている](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")。

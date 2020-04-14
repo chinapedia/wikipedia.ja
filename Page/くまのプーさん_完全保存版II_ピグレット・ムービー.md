@@ -1,4 +1,4 @@
-> この記事は[ II ](https://ja.wikipedia.org/wiki/_II_)から翻訳されています。
+> この記事は[くまのプーさん 完全保存版II ピグレット・ムービー](https://ja.wikipedia.org/wiki/くまのプーさん_完全保存版II_ピグレット・ムービー)から翻訳されています。
 
 
 『**くまのプーさん 完全保存版II ピグレット・ムービー**』（原題：*Piglet's Big Movie*）は、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")の「[くまのプーさん](https://ja.wikipedia.org/wiki/くまのプーさん_\(ディズニー\) "wikilink")」の長編作品である。劇場版第3作で、日本ではDVDのみでの発売。
@@ -41,4 +41,4 @@
   -
   -
   -
-[Category:クマのプーさんの映画作品](https://ja.wikipedia.org/wiki/Category:クマのプーさんの映画作品 "wikilink") [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2003年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2003年のアニメ映画 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:アニメのスピンオフ作品 "wikilink")
+[Category:クマのプーさんの映画作品](https://ja.wikipedia.org/wiki/Category:クマのプーさんの映画作品 "wikilink") [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2003年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2003年のアニメ映画 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:アニメのスピンオフ作品 "wikilink") [Category:ディズニートゥーン・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ディズニートゥーン・スタジオの映画作品 "wikilink")

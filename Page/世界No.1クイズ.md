@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[世界No.1クイズ](https://ja.wikipedia.org/wiki/世界No.1クイズ)から翻訳されています。
 
 
 『**世界No.1クイズ**』（せかいなんばーわんくいず）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[TBS系列単独加盟局と](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビ山口](../Page/テレビ山口.md "wikilink")（放送当時[フジテレビ系列とのクロスネット局](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）で放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週日曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

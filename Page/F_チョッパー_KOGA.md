@@ -1,4 +1,4 @@
-> この記事は[F  KOGA](https://ja.wikipedia.org/wiki/F__KOGA)から翻訳されています。
+> この記事は[F チョッパー KOGA](https://ja.wikipedia.org/wiki/F_チョッパー_KOGA)から翻訳されています。
 
 
 **F チョッパー KOGA**（エフ チョッパー コガ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ガールズバンド](../Page/ガールズバンド.md "wikilink")、[Gacharic Spinのベーシスト兼バンドリーダー](https://ja.wikipedia.org/wiki/Gacharic_Spin "wikilink")。2002年に**古賀美智子**（こがみちこ）名義で[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")としてデビュー。[日本芸術高等学園](https://ja.wikipedia.org/wiki/日本芸術高等学園 "wikilink")卒業\[1\]。

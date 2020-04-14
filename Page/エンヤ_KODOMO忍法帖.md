@@ -1,4 +1,4 @@
-> この記事は[ KODOMO](https://ja.wikipedia.org/wiki/_KODOMO)から翻訳されています。
+> この記事は[エンヤ KODOMO忍法帖](https://ja.wikipedia.org/wiki/エンヤ_KODOMO忍法帖)から翻訳されています。
 
 
 『**エンヤ KODOMO忍法帖**』（エンヤ こどもにんぽうちょう）は[森下裕美](../Page/森下裕美.md "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。

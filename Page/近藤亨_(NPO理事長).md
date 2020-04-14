@@ -1,4 +1,4 @@
-> この記事は[ \(NPO\)](https://ja.wikipedia.org/wiki/_\(NPO\))から翻訳されています。
+> この記事は[近藤亨 \(NPO理事長\)](https://ja.wikipedia.org/wiki/近藤亨_\(NPO理事長\))から翻訳されています。
 
 
 **近藤 亨**（こんどう とおる、[1921年](../Page/1921年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")\[1\] - [2016年](../Page/2016年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")）は、日本の[農学者](../Page/農学者.md "wikilink")。[ネパール・ムスタン地域開発協力会](https://ja.wikipedia.org/wiki/ネパール・ムスタン地域開発協力会 "wikilink")理事長。[ネパール](../Page/ネパール.md "wikilink")において世界最高地の稲作に成功したことで知られる。

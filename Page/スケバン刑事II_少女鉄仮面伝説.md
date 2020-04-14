@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[スケバン刑事II 少女鉄仮面伝説](https://ja.wikipedia.org/wiki/スケバン刑事II_少女鉄仮面伝説)から翻訳されています。
 
 
 『**スケバン刑事II 少女鉄仮面伝説**』（スケバンデカツー しょうじょてつかめんでんせつ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](../Page/学園ドラマ.md "wikilink")。主演は[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")。
@@ -115,6 +115,7 @@
   - 工藤 美紀（くどう みき）
     演 - 鈴木亜紀子（第33話 - 第36話）
     近畿にある麗心女学園生徒会長。ナメラの術にとりつかれた陽子に襲われるが、その様子から陽子が操られているにすぎないことに気づき、後からやってきたお京と雪乃に解毒剤の入った壺を持ってくる。その後、梁山連合に参加し、陽子達と共に青狼会と戦った。
+    大島ゆかり
 
 ## スタッフ
 

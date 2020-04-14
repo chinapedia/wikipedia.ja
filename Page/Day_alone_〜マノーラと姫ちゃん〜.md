@@ -1,4 +1,4 @@
-> この記事は[Day alone ](https://ja.wikipedia.org/wiki/Day_alone_)から翻訳されています。
+> この記事は[Day alone 〜マノーラと姫ちゃん〜](https://ja.wikipedia.org/wiki/Day_alone_〜マノーラと姫ちゃん〜)から翻訳されています。
 
 
 『**day alone 〜マノーラと姫ちゃん〜**』（デイ アローン マノーラとひめちゃん）は、日本のバンド、[day after tomorrowがチャレンジする](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")、音楽の枠を超えて新しいエンターテイメントを目指したプロジェクト「[day alone プロジェクト](https://ja.wikipedia.org/wiki/day_alone_プロジェクト "wikilink")」の中で、企画・制作されたオリジナル映画である。

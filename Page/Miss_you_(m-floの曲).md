@@ -1,4 +1,4 @@
-> この記事は[Miss you \(m-flo\)](https://ja.wikipedia.org/wiki/Miss_you_\(m-flo\))から翻訳されています。
+> この記事は[Miss you \(m-floの曲\)](https://ja.wikipedia.org/wiki/Miss_you_\(m-floの曲\))から翻訳されています。
 
 
 「**miss you**」（ミス・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の15th[シングル](../Page/シングル.md "wikilink")（m-flo loves [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink") & [山本領平](../Page/Ryohei.md "wikilink") 名義）。[2003年](../Page/2003年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売された。

@@ -1,4 +1,4 @@
-> この記事は[MB](https://ja.wikipedia.org/wiki/MB)から翻訳されています。
+> この記事は[ホンダ・MB](https://ja.wikipedia.org/wiki/ホンダ・MB)から翻訳されています。
 
 
 **MB**（エムビー） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。

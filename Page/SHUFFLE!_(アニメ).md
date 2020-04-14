@@ -1,4 +1,4 @@
-> この記事は[SHUFFLE! \(\)](https://ja.wikipedia.org/wiki/SHUFFLE!_\(\))から翻訳されています。
+> この記事は[SHUFFLE! \(アニメ\)](https://ja.wikipedia.org/wiki/SHUFFLE!_\(アニメ\))から翻訳されています。
 
 
 『**SHUFFLE\!**』（シャッフル）は、同名のゲーム『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品である。

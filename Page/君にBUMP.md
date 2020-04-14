@@ -1,4 +1,4 @@
-> この記事は[BUMP](https://ja.wikipedia.org/wiki/BUMP)から翻訳されています。
+> この記事は[君にBUMP](https://ja.wikipedia.org/wiki/君にBUMP)から翻訳されています。
 
 
 「**君にBUMP**」（きみにバンプ）は、[ケツメイシ](../Page/ケツメイシ.md "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[ボーダフォン（現ソフトバンク）のCMに起用された](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")。

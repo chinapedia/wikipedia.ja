@@ -1,4 +1,4 @@
-> この記事は[Future ](https://ja.wikipedia.org/wiki/Future_)から翻訳されています。
+> この記事は[Future パターン](https://ja.wikipedia.org/wiki/Future_パターン)から翻訳されています。
 
 
 **future**, **promise**, **delay** とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")における[並列処理](https://ja.wikipedia.org/wiki/並列処理 "wikilink")の[デザインパターン](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")。何らかの処理を別の[スレッドで処理させる際](../Page/スレッド_\(コンピュータ\).md "wikilink")、その処理結果の取得を必要になるところまで後回しにする手法。処理を[パイプライン化させる](../Page/パイプライン処理.md "wikilink")。[1977年](../Page/1977年.md "wikilink")に考案され、現在ではほとんどのプログラミング言語で利用可能。

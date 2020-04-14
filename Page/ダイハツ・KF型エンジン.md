@@ -1,4 +1,4 @@
-> この記事は[KF](https://ja.wikipedia.org/wiki/KF)から翻訳されています。
+> この記事は[ダイハツ・KF型エンジン](https://ja.wikipedia.org/wiki/ダイハツ・KF型エンジン)から翻訳されています。
 
 
 **ダイハツ・KF型エンジン**は、[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[11月](../Page/11月.md "wikilink")から[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産している[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[エンジン](../Page/エンジン.md "wikilink")の一つである。

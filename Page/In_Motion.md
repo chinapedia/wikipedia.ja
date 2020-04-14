@@ -10,6 +10,7 @@
   - [PVは](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、hideの映画でhideに一目惚れした女性が悪漢に攫われ、hideが助けに行くというフルCG[アニメーション](../Page/アニメーション.md "wikilink")になっており、CGキャラのhideがコミカルな動きで活躍する。
   - [TBS系](../Page/TBSテレビ.md "wikilink")「[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")」のエンディングテーマに起用された。
   - 2015年現在、hideの未発表シングル作品として発表されたものは、本作品が最後である。この「In Motion」と「Junk Story」の他に死後発売作品としてはトリビュート・アルバムに収録されたX時代のセルフ・カヴァー「CELEBRATION」と、コンピレーションに収録された「MISCAST」、2014年に発表された「[子 ギャル](https://ja.wikipedia.org/wiki/子_ギャル "wikilink")」3作品のみである。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")　衣装デザインは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")によるものである。
 
 ## 収録曲
 

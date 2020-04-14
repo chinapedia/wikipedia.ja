@@ -1,4 +1,4 @@
-> この記事は[14 message every ballad songs 2](https://ja.wikipedia.org/wiki/14_message_every_ballad_songs_2)から翻訳されています。
+> この記事は[14 message 〜every ballad songs 2〜](https://ja.wikipedia.org/wiki/14_message_〜every_ballad_songs_2〜)から翻訳されています。
 
 
 『**14 message 〜every ballad songs 2〜**』（フォーティーン・メッセージ〜エブリ・バラッド・ソングス・ツー〜）は、日本の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売した2枚目の[バラード](../Page/バラード.md "wikilink")[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。

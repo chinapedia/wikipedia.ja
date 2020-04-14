@@ -1,4 +1,4 @@
-> この記事は[Dear Friends \&](https://ja.wikipedia.org/wiki/Dear_Friends_\&)から翻訳されています。
+> この記事は[Dear Friends リナ\&マキ](https://ja.wikipedia.org/wiki/Dear_Friends_リナ\&マキ)から翻訳されています。
 
 
 『**Dear Friends リナ&マキ**』（ディアフレンズ リナ アンド マキ）は、[Yoshi](../Page/Yoshi.md "wikilink")作の[ケータイ小説](../Page/ケータイ小説.md "wikilink")。

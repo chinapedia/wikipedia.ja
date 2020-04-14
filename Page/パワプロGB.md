@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[パワプロGB](https://ja.wikipedia.org/wiki/パワプロGB)から翻訳されています。
 
 
 **パワプロGB**は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（※）から発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用のゲームソフトである。

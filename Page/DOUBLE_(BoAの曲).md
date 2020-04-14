@@ -1,12 +1,12 @@
-> この記事は[DOUBLE \(BoA\)](https://ja.wikipedia.org/wiki/DOUBLE_\(BoA\))から翻訳されています。
+> この記事は[DOUBLE \(BoAの曲\)](https://ja.wikipedia.org/wiki/DOUBLE_\(BoAの曲\))から翻訳されています。
 
 
 「**DOUBLE**」（ダブル）は、[BoA](../Page/BoA.md "wikilink")の11枚目のシングル。
 
 ## 解説
 
-  - トリプルA面シングル。初の日韓同時発売。ただし日本版と韓国版とではカップリング曲が違っている。
-  - また、韓国版の収録曲はほぼ全曲が韓国における3.5集｢[SHINE WE ARE](../Page/SHINE_WE_ARE.md "wikilink")｣と中国におけるアルバム｢[精選輯](../Page/精選輯.md "wikilink")｣に収録されている。
+  - トリプルA面シングル。日本オリジナル曲としては初となる日韓同時発売\[1\]。ただし日本版と韓国版とではカップリング曲が違っている。
+  - また、韓国版の収録曲はほぼ全曲が韓国における3.5集『[SHINE WE ARE](../Page/SHINE_WE_ARE.md "wikilink")』と中国におけるアルバム『[精選輯](../Page/精選輯.md "wikilink")』に収録されている。
 
 ## 収録曲
 
@@ -58,10 +58,8 @@
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「開局40周年記念[ラグビーワールドカップ2003](../Page/ラグビーワールドカップ2003.md "wikilink")」イメージソング
 
-## 関連項目
-
-**Milky Way 〜君の歌〜**へのリダイレクト
-
-  - [:Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink")
+## 脚注
 
 [Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:本田技研工業のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:本田技研工業のコマーシャルソング "wikilink") [Category:渡辺なつみが制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺なつみが制作した楽曲 "wikilink") [Category:原一博が制作した楽曲](https://ja.wikipedia.org/wiki/Category:原一博が制作した楽曲 "wikilink") [Category:2003年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2003年のトリプルA面シングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+
+1.  [ＢｏＡの新曲「ＤＯＵＢＬＥ」が日韓同日発売](https://web.archive.org/web/20031014055432/http://www.sanspo.com/geino/top/gt200310/gt2003101101.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2003年10月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

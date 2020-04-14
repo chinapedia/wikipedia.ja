@@ -1,4 +1,4 @@
-> この記事は[ YOU KISS!](https://ja.wikipedia.org/wiki/_YOU_KISS!)から翻訳されています。
+> この記事は[内田有紀 夜空にYOU KISS!](https://ja.wikipedia.org/wiki/内田有紀_夜空にYOU_KISS!)から翻訳されています。
 
 
 **内田有紀 夜空にYOU KISS\!**（うちだゆき よぞらにユーキッス）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作で[1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[内田有紀](../Page/内田有紀.md "wikilink")。1994年4月－1995年6月の間は[日立製作所](../Page/日立製作所.md "wikilink")の提供で、「HITACHI CRESCENT TIME 内田有紀 夜空にYOU KISS\!」のタイトルだった（「HITACHI CRESCENT TIME」の冠がついていた番組としての前番組は「[工藤静香](../Page/工藤静香.md "wikilink") 素敵にFeel So Good」、後継番組は「[森高千里](../Page/森高千里.md "wikilink")STEP BY STEP」。[HITACHI FAN\! FUN\! TODAY\#「HITACHI CRESCENT TIME」のタイトル冠がついた放送を参照](https://ja.wikipedia.org/wiki/HITACHI_FAN!_FUN!_TODAY#「HITACHI_CRESCENT_TIME」のタイトル冠がついた放送 "wikilink")）。
@@ -1060,7 +1060,7 @@
 
 <th>
 
-[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+[KBCラジオ](../Page/KBCラジオ.md "wikilink")
 
 </th>
 

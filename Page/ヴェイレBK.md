@@ -1,4 +1,4 @@
-> この記事は[BK](https://ja.wikipedia.org/wiki/BK)から翻訳されています。
+> この記事は[ヴェイレBK](https://ja.wikipedia.org/wiki/ヴェイレBK)から翻訳されています。
 
 
 **ヴェイレ・ボルドクラブ・コリング**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の南部、[南デンマーク地域](https://ja.wikipedia.org/wiki/南デンマーク地域 "wikilink")の都市[ヴェイレ](https://ja.wikipedia.org/wiki/ヴェイレ "wikilink")を本拠地とするサッカークラブである。

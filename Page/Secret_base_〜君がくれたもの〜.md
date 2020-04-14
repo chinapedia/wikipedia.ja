@@ -1,4 +1,4 @@
-> この記事は[Secret base ](https://ja.wikipedia.org/wiki/Secret_base_)から翻訳されています。
+> この記事は[Secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/Secret_base_〜君がくれたもの〜)から翻訳されています。
 
 
 「**secret base 〜君がくれたもの〜**」（シークレット ベース 〜きみがくれたもの〜）は、[ZONEの楽曲](../Page/ZONE_\(バンド\).md "wikilink")。[町田紀彦](../Page/町田紀彦.md "wikilink")が作詞・作曲を手掛けた。ZONEの3枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")から発売された。発売から長い時期が過ぎてから記録的な回数にわたってカバーされている曲でもある。

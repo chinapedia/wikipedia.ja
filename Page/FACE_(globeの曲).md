@@ -1,4 +1,4 @@
-> この記事は[FACE \(globe\)](https://ja.wikipedia.org/wiki/FACE_\(globe\))から翻訳されています。
+> この記事は[FACE \(globeの曲\)](https://ja.wikipedia.org/wiki/FACE_\(globeの曲\))から翻訳されています。
 
 
 「**FACE**」（フェイス）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲及び、8枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")発売。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。

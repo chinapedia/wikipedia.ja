@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[日産ディーゼル・P系エンジン](https://ja.wikipedia.org/wiki/日産ディーゼル・P系エンジン)から翻訳されています。
 
 
 **日産ディーゼル・P系エンジン**（にっさんディーゼル・ピーけいエンジン）とは、[日産ディーゼル工業（現・UDトラックス）が](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")[1960年代](../Page/1960年代.md "wikilink")後半 - [2005年](../Page/2005年.md "wikilink")にかけて生産していた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。大型[トラック](../Page/貨物自動車.md "wikilink")・[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")、[鉄道車両](../Page/鉄道車両.md "wikilink")に搭載され、また[コジェネレーション](../Page/コジェネレーション.md "wikilink")など[産業](../Page/産業.md "wikilink")用エンジンとしても幅広く採用されていた。

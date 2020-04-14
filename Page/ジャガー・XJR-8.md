@@ -1,4 +1,4 @@
-> この記事は[XJR-8](https://ja.wikipedia.org/wiki/XJR-8)から翻訳されています。
+> この記事は[ジャガー・XJR-8](https://ja.wikipedia.org/wiki/ジャガー・XJR-8)から翻訳されています。
 
 
 **ジャガー・XJR-8**は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink")（WSPC）用に[トム・ウォーキンショー](../Page/トム・ウォーキンショー.md "wikilink")・レーシング（TWR）が製作した[グループC](../Page/グループC.md "wikilink")カーである。通常の1000kmレース用、[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")用の低ドラッグスペシャルのXJR-8LMの2タイプが存在する。

@@ -1,4 +1,4 @@
-> この記事は[MBS in USJ](https://ja.wikipedia.org/wiki/MBS_in_USJ)から翻訳されています。
+> この記事は[MBSスタジオ in USJ](https://ja.wikipedia.org/wiki/MBSスタジオ_in_USJ)から翻訳されています。
 
 
 **MBSスタジオ in USJ**（エムビーエススタジオ イン ユーエスジェイ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花区](../Page/此花区.md "wikilink")[桜島に開業した](https://ja.wikipedia.org/wiki/桜島_\(大阪市\) "wikilink")[テーマパーク](../Page/テーマパーク.md "wikilink")「[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")」 (USJ) 内で、[毎日放送](../Page/毎日放送.md "wikilink") (MBS) が[2014年](../Page/2014年.md "wikilink")3月末まで管理・運営していた[テレビスタジオ](../Page/スタジオ_\(映像撮影\).md "wikilink")。
@@ -32,7 +32,6 @@ USJスタジオの敷地賃貸は[2011年](../Page/2011年.md "wikilink")3月末
       - [せやねん\!](../Page/せやねん!.md "wikilink")（生放送）
       - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（隔週月曜日収録・2本撮り）
       - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")
-      - [笑道](../Page/笑道.md "wikilink")（単発番組）
   - 過去
       - [いい朝8時](../Page/すてきな出逢い_いい朝8時.md "wikilink")（最後の半年間のみ）
       - [中川家ん\!](../Page/中川家ん!.md "wikilink")
@@ -46,10 +45,8 @@ USJスタジオの敷地賃貸は[2011年](../Page/2011年.md "wikilink")3月末
       - [千原ジュニアのまぶしいチカラ](https://ja.wikipedia.org/wiki/千原ジュニアのまぶしいチカラ "wikilink")
       - [上沼恵美子は見た\!日常ワイド劇場](../Page/上沼恵美子は見た!日常ワイド劇場.md "wikilink")（TBS制作・不定期）ほか
       - [全力☆が〜る](https://ja.wikipedia.org/wiki/女性ホルモン分泌バラエティー_全力☆が〜る "wikilink")（隔週金曜日収録・2本撮り）
-
-<!-- end list -->
-
-  -   - [クイズなんでもNo.1決定戦](https://ja.wikipedia.org/wiki/クイズなんでもNo.1決定戦 "wikilink")/[クイズ大阪No.1決定戦](https://ja.wikipedia.org/wiki/クイズ大阪No.1決定戦 "wikilink")（不定期）
+      - [クイズなんでもNo.1決定戦](https://ja.wikipedia.org/wiki/クイズなんでもNo.1決定戦 "wikilink")/[クイズ大阪No.1決定戦](https://ja.wikipedia.org/wiki/クイズ大阪No.1決定戦 "wikilink")（不定期）
+      - [笑道](../Page/笑道.md "wikilink")（単発番組）
 
 本社に同規模のスタジオが一つしかないため、基本的には収録番組のほぼすべてがこちらで制作されていた。このほか[関西ローカル](../Page/関西ローカル.md "wikilink")の生放送番組もこちらで制作されることが多かった（『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』と『[知っとこ\!](../Page/知っとこ!.md "wikilink")』は本社から放送）。また当所で制作されたテレビ番組は、すべて[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")であった。
 

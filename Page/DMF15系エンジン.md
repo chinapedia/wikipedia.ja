@@ -1,4 +1,4 @@
-> この記事は[DMF15](https://ja.wikipedia.org/wiki/DMF15)から翻訳されています。
+> この記事は[DMF15系エンジン](https://ja.wikipedia.org/wiki/DMF15系エンジン)から翻訳されています。
 
 
 **DMF15系エンジン**（DMF15けいエンジン）は、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（→[JR](../Page/JR.md "wikilink")グループに継承）の[気動車](../Page/気動車.md "wikilink")に走行用として搭載され、また[客車](../Page/客車.md "wikilink")・[特急形気動車の](../Page/特急形車両.md "wikilink")[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")用エンジンとしても用いられる[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。[キハ40系用として大量に採用された](../Page/国鉄キハ40系気動車_\(2代\).md "wikilink")。ちなみに[DMF15HZ系エンジン](https://ja.wikipedia.org/wiki/DMF15HZ系エンジン "wikilink")と呼ばれている[コマツ](https://ja.wikipedia.org/wiki/コマツ "wikilink")製SA6D140Hエンジンは別の系列エンジンである。

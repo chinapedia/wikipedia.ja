@@ -1,4 +1,4 @@
-> この記事は[Love again \(globe\)](https://ja.wikipedia.org/wiki/Love_again_\(globe\))から翻訳されています。
+> この記事は[Love again \(globeの曲\)](https://ja.wikipedia.org/wiki/Love_again_\(globeの曲\))から翻訳されています。
 
 
 **Love again**（ラヴ・アゲイン）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")である。

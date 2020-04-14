@@ -1,4 +1,4 @@
-> この記事は[RODEOGANG](https://ja.wikipedia.org/wiki/RODEOGANG)から翻訳されています。
+> この記事は[RODEO★GANG](https://ja.wikipedia.org/wiki/RODEO★GANG)から翻訳されています。
 
 
 **RODEO★GANG**（ロデオ★ギャング）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")1stアルバム。[2000年](../Page/2000年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。

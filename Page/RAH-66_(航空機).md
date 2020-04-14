@@ -1,4 +1,4 @@
-> この記事は[RAH-66 \(\)](https://ja.wikipedia.org/wiki/RAH-66_\(\))から翻訳されています。
+> この記事は[RAH-66 \(航空機\)](https://ja.wikipedia.org/wiki/RAH-66_\(航空機\))から翻訳されています。
 
 
 **RAH-66**は、[ステルス技術が反映された](../Page/ステルス性.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[試作](../Page/プロトタイプ.md "wikilink")[偵察](../Page/偵察.md "wikilink")[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")である。愛称は**コマンチ**（Comanche）。開発は、[ボーイング・ヘリコプターズ](https://ja.wikipedia.org/wiki/ボーイング・ヘリコプターズ "wikilink")（現[ボーイング・ロータークラフト・システムズ](https://ja.wikipedia.org/wiki/ボーイング・ロータークラフト・システムズ "wikilink")）と[シコルスキー両社により行われた](../Page/シコルスキー・エアクラフト.md "wikilink")。開発計画は[2004年](../Page/2004年.md "wikilink")2月に打ち切られたが、同国にて最初の全天候型[ステルス](../Page/ステルス機.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")であった。

@@ -1,4 +1,4 @@
-> この記事は[ \(SSN-21\)](https://ja.wikipedia.org/wiki/_\(SSN-21\))から翻訳されています。
+> この記事は[シーウルフ \(SSN-21\)](https://ja.wikipedia.org/wiki/シーウルフ_\(SSN-21\))から翻訳されています。
 
 
 <div class="thumb tright">

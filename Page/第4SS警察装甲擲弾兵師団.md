@@ -1,4 +1,4 @@
-> この記事は[4SS](https://ja.wikipedia.org/wiki/4SS)から翻訳されています。
+> この記事は[第4SS警察装甲擲弾兵師団](https://ja.wikipedia.org/wiki/第4SS警察装甲擲弾兵師団)から翻訳されています。
 
 
 **第4SS警察装甲擲弾兵師団**（だい4SSけいさつそうこうてきだんへいしだん、*4. SS-Polizei-Panzergrenaidier-Division*）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[武装SSの](../Page/武装親衛隊.md "wikilink")38個[師団](../Page/師団.md "wikilink")のうちの1つである。師団は、[1939年](../Page/1939年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")[アドルフ・ヒトラー](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")の[秩序警察](../Page/秩序警察.md "wikilink")より師団を編成する命令により、[10月1日](../Page/10月1日.md "wikilink")に編成された部隊である。

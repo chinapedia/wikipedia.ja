@@ -1,4 +1,4 @@
-> この記事は[LNER A1A3](https://ja.wikipedia.org/wiki/LNER_A1A3)から翻訳されています。
+> この記事は[LNER A1形・A3形蒸気機関車](https://ja.wikipedia.org/wiki/LNER_A1形・A3形蒸気機関車)から翻訳されています。
 
 
 **LNER A1形・A3形蒸気機関車**は、イギリスの鉄道会社、 [ロンドン・アンド・ノース・イースタン鉄道](https://ja.wikipedia.org/wiki/ロンドン・アンド・ノース・イースタン鉄道 "wikilink") (LNER) の[蒸気機関車](../Page/蒸気機関車.md "wikilink")の形式である。

@@ -48,6 +48,6 @@
 ## 外部リンク
 
   - [bang king](http://www.bangking.net/)公式サイト
-  - [岡本茂樹のダブルピース矯正ギプス](http://ameblo.jp/bangking/) 公式ブログ
+  - [岡本茂樹のダブルピース矯正ギプス](https://ameblo.jp/bangking/) 公式ブログ
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

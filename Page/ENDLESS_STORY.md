@@ -33,6 +33,7 @@
 
   - [徳永英明](../Page/徳永英明.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）：シングル『[恋におちて -Fall in love-](../Page/恋におちて_-Fall_in_love-.md "wikilink")』、カバー・アルバム『[VOCALIST 3](https://ja.wikipedia.org/wiki/VOCALIST_3 "wikilink")』に収録。
   - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")（[2014年](../Page/2014年.md "wikilink")）：カバー・アルバム『[Request II](https://ja.wikipedia.org/wiki/Request_II "wikilink")』に収録。
+  - ろん（2015年）：アルバム『ろんかば -J-POP ZOO-』に収録。
 
 ## 収録アルバム
 

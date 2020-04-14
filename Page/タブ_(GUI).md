@@ -1,4 +1,4 @@
-> この記事は[ \(GUI\)](https://ja.wikipedia.org/wiki/_\(GUI\))から翻訳されています。
+> この記事は[タブ \(GUI\)](https://ja.wikipedia.org/wiki/タブ_\(GUI\))から翻訳されています。
 
 
 [thumbを変更する](https://ja.wikipedia.org/wiki/画像:Firefox_2_Tabbed_Browsing_GNU-Linux.png "wikilink")[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")。表示されているウェブサイトにもタブの概念が採用されている。\]\] **タブ**（）とはドキュメントを切り替えて表示するための[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[ウィジェットである](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。一般的には長方形のボックス中にテキストラベルを表示する形で画面上部に表示され、タブの選択により管理するドキュメントを切り替えて表示させる仕組みとなっている。一般的なものは非アクティブタブと視覚的に区別するためアクティブタブがハイライト表示されるようになっており、また必ずどれかひとつのタブが常にアクティブとなる仕組みのものが多い。

@@ -1,4 +1,4 @@
-> この記事は[III ](https://ja.wikipedia.org/wiki/III_)から翻訳されています。
+> この記事は[スケバン刑事III 少女忍法帖伝奇](https://ja.wikipedia.org/wiki/スケバン刑事III_少女忍法帖伝奇)から翻訳されています。
 
 
 『**スケバン刑事III 少女忍法帖伝奇**』（スケバンデカスリー しょうじょにんぽうちょうでんき）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[学園ドラマ](../Page/学園ドラマ.md "wikilink")。

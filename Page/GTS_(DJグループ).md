@@ -1,4 +1,4 @@
-> この記事は[GTS \(DJ\)](https://ja.wikipedia.org/wiki/GTS_\(DJ\))から翻訳されています。
+> この記事は[GTS \(DJグループ\)](https://ja.wikipedia.org/wiki/GTS_\(DJグループ\))から翻訳されています。
 
 
 [rhythm REPUBLIC](https://ja.wikipedia.org/wiki/rhythm_REPUBLIC "wikilink") | Production= [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink") | Associated_acts = | URL = <http://www.avexnet.or.jp/gts/> | Current_members = DJ GEE（[浅川真次](https://ja.wikipedia.org/wiki/浅川真次 "wikilink")）{{-}} TURBO {{-}} SATOSHI HIDAKA（[日高智](https://ja.wikipedia.org/wiki/日高智 "wikilink")） | Past_members= | Notable_instruments = }}**GTS**（ジーティーエス）は、日本のDJ＆ハウスミュージックユニット。所属は[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。アルバムは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、シングルはAVEX傘下のインディーズレーベル[rhythm REPUBLICからリリースされている](https://ja.wikipedia.org/wiki/rhythm_REPUBLIC "wikilink")。

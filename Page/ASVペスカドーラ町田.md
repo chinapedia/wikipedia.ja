@@ -1,4 +1,4 @@
-> この記事は[ASV](https://ja.wikipedia.org/wiki/ASV)から翻訳されています。
+> この記事は[ASVペスカドーラ町田](https://ja.wikipedia.org/wiki/ASVペスカドーラ町田)から翻訳されています。
 
 
 **ASVペスカドーラ町田**（エーエスヴイ ペスカドーラまちだ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")をホームタウンとする\[1\]、[日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（Fリーグ）に加盟するフットサルクラブ。呼称は**ペスカドーラ町田**である。

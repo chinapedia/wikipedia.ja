@@ -1,4 +1,4 @@
-> この記事は[\(III\)](https://ja.wikipedia.org/wiki/\(III\))から翻訳されています。
+> この記事は[酸化イットリウム\(III\)](https://ja.wikipedia.org/wiki/酸化イットリウム\(III\))から翻訳されています。
 
 
 **酸化イットリウム**（さんかイットリウム、）は空気中で安定な[イットリウム](https://ja.wikipedia.org/wiki/イットリウム "wikilink")の[酸化物](https://ja.wikipedia.org/wiki/酸化物 "wikilink")で、その[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")は  である。白色の固体で、[無機化学](../Page/無機化学.md "wikilink")や[物質科学](https://ja.wikipedia.org/wiki/物質科学 "wikilink")において出発物質としてよく使われる。

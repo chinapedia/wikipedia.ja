@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVジョーカーズ笑](https://ja.wikipedia.org/wiki/TVジョーカーズ笑)から翻訳されています。
 
 
 『**TVジョーカーズ笑**』（テレビジョーカーズしょう）は、[TBS系列局と](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビ山口](../Page/テレビ山口.md "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全9回。TBS系列局では[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")から同年[6月19日](../Page/6月19日.md "wikilink")まで、毎週日曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

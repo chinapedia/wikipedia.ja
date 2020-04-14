@@ -1,4 +1,4 @@
-> この記事は[NNN1](https://ja.wikipedia.org/wiki/NNN1)から翻訳されています。
+> この記事は[NNNニュースプラス1ひろしま](https://ja.wikipedia.org/wiki/NNNニュースプラス1ひろしま)から翻訳されています。
 
 
 『**NNNニュースプラス1ひろしま**』（エヌエヌエヌ ニュースプラスワンひろしま）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[広島テレビで放送された夕方のローカル](../Page/広島テレビ放送.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

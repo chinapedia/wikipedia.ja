@@ -1,4 +1,4 @@
-> この記事は[DOOR \(\)](https://ja.wikipedia.org/wiki/DOOR_\(\))から翻訳されています。
+> この記事は[DOOR \(コブクロの曲\)](https://ja.wikipedia.org/wiki/DOOR_\(コブクロの曲\))から翻訳されています。
 
 
 『**DOOR**』（ドアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[フォークデュオ](../Page/フォークデュオ.md "wikilink")、[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。

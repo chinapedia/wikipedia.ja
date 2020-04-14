@@ -1,4 +1,4 @@
-> この記事は[XJR-6](https://ja.wikipedia.org/wiki/XJR-6)から翻訳されています。
+> この記事は[ジャガー・XJR-6](https://ja.wikipedia.org/wiki/ジャガー・XJR-6)から翻訳されています。
 
 
 **ジャガー・XJR-6**は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[世界耐久選手権](../Page/スポーツカー世界選手権.md "wikilink")（WEC）用に[トム・ウォーキンショー](../Page/トム・ウォーキンショー.md "wikilink")・レーシング(TWR)が製作した[グループC](../Page/グループC.md "wikilink")カーである。

@@ -1,4 +1,4 @@
-> この記事は[Gift \(\)](https://ja.wikipedia.org/wiki/Gift_\(\))から翻訳されています。
+> この記事は[Gift \(坂本真綾の曲\)](https://ja.wikipedia.org/wiki/Gift_\(坂本真綾の曲\))から翻訳されています。
 
 
 「**Gift**」（ギフト）は、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。

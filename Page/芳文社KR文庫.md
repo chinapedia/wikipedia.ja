@@ -1,4 +1,4 @@
-> この記事は[KR](https://ja.wikipedia.org/wiki/KR)から翻訳されています。
+> この記事は[芳文社KR文庫](https://ja.wikipedia.org/wiki/芳文社KR文庫)から翻訳されています。
 
 
 **芳文社KR文庫**（ほうぶんしゃケーアールぶんこ）は、[芳文社](../Page/芳文社.md "wikilink")から[2007年](../Page/2007年.md "wikilink")3月に創刊された[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫](../Page/文庫.md "wikilink")レーベル。

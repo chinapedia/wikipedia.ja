@@ -1,4 +1,4 @@
-> この記事は[SABU ](https://ja.wikipedia.org/wiki/SABU_)から翻訳されています。
+> この記事は[SABU 〜さぶ〜](https://ja.wikipedia.org/wiki/SABU_〜さぶ〜)から翻訳されています。
 
 
 『**SABU**』（さぶ）は、「[名古屋テレビ開局](../Page/名古屋テレビ放送.md "wikilink")40周年記念」として制作され、[テレビ朝日系列で](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[2002年](../Page/2002年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")20:00 - 21:48に放送された単発の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[山本周五郎](../Page/山本周五郎.md "wikilink")の小説『[さぶ](../Page/さぶ_\(小説\).md "wikilink")』を原作とした青春[時代劇](../Page/時代劇.md "wikilink")である。全編[35mmフィルム](https://ja.wikipedia.org/wiki/35mmフィルム "wikilink")収録。キャッチコピーは**「復讐と人間不信の栄二を救ったのは、さぶの熱い友情だった…」**

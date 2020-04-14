@@ -1,4 +1,4 @@
-> この記事は[ \(CHEMISTRY\)](https://ja.wikipedia.org/wiki/_\(CHEMISTRY\))から翻訳されています。
+> この記事は[キミがいる \(CHEMISTRYの曲\)](https://ja.wikipedia.org/wiki/キミがいる_\(CHEMISTRYの曲\))から翻訳されています。
 
 
 「**キミがいる**」は、[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の14枚目のシングル。
@@ -21,4 +21,4 @@
     （作詞：[Satomi](../Page/Satomi.md "wikilink")／作曲：[五島良子](../Page/五島良子.md "wikilink")／編曲：河野伸）
 4.  **キミがいる (Instrumental)**
 
-[Category:CHEMISTRYの楽曲](https://ja.wikipedia.org/wiki/Category:CHEMISTRYの楽曲 "wikilink") [Category:市川淳が制作した楽曲](https://ja.wikipedia.org/wiki/Category:市川淳が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:CHEMISTRYの楽曲](https://ja.wikipedia.org/wiki/Category:CHEMISTRYの楽曲 "wikilink") [Category:市川淳が制作した楽曲](https://ja.wikipedia.org/wiki/Category:市川淳が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

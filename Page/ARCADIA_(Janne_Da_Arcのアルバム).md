@@ -1,4 +1,4 @@
-> この記事は[ARCADIA \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/ARCADIA_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[ARCADIA \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/ARCADIA_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**ARCADIA**』（アルカディア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")。

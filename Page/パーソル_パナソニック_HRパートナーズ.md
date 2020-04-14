@@ -1,4 +1,4 @@
-> この記事は[  HR](https://ja.wikipedia.org/wiki/__HR)から翻訳されています。
+> この記事は[パーソル パナソニック HRパートナーズ](https://ja.wikipedia.org/wiki/パーソル_パナソニック_HRパートナーズ)から翻訳されています。
 
 
 **パーソル パナソニック HRパートナーズ株式会社**（*PERSOL Panasonic HR PARTNERS Co., Ltd.*）は、[大阪市](../Page/大阪市.md "wikilink")[中央区に本社を置く](../Page/中央区_\(大阪市\).md "wikilink")[人材派遣](https://ja.wikipedia.org/wiki/人材派遣 "wikilink")企業である。2008年9月までの旧社名は「松下エクセルスタッフ」。2018年3月までの旧社名は「パナソニック エクセルスタッフ」。

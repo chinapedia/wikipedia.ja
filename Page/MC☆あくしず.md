@@ -1,4 +1,4 @@
-> この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
+> この記事は[MC☆あくしず](https://ja.wikipedia.org/wiki/MC☆あくしず)から翻訳されています。
 
 
 『**MC☆あくしず**』（エムシー あくしず）とは[イカロス出版](../Page/イカロス出版.md "wikilink")刊の『[MILITARY CLASSICS](https://ja.wikipedia.org/wiki/MILITARY_CLASSICS "wikilink")』（ミリタリー・クラシックス。以下『MC』『ミリクラ』）から派生した季刊誌である。[ミリタリー](../Page/軍事.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")としては初めて「[萌え要素](https://ja.wikipedia.org/wiki/萌え要素 "wikilink")」を前面に大きく押し出した紙面構成。[2006年](../Page/2006年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")創刊。
@@ -122,7 +122,7 @@
       - 参加絵師／じじ、重戦車工房、US@MYO、藤沢孝、野上武志、S.Z.3、まもウィリアムズ、柏餅よもぎ、おぐし篤、峠タカノリ
       - 文章執筆／堀場亙、有馬桓次郎、三八式しゅしゅしゅ銃
 
-以下、2019年12月現在、第55号まで刊行。
+以下、2020年4月現在、第56号まで刊行。
 
 ## 主な連載・コーナー
 
@@ -257,7 +257,7 @@
   - [MC☆あくしずウェブ【公式】](http://www.ikaros.jp/mcaxis/)（[イカロス出版](../Page/イカロス出版.md "wikilink")）
       - [MC☆あくしずバックナンバー](http://www.ikaros.jp/mcaxis/axis_bn.html)
 
-[Category:日本の雑誌](https://ja.wikipedia.org/wiki/Category:日本の雑誌 "wikilink") [Category:軍事関連の雑誌](https://ja.wikipedia.org/wiki/Category:軍事関連の雑誌 "wikilink") [Category:おたく](https://ja.wikipedia.org/wiki/Category:おたく "wikilink") [Category:萌え本](https://ja.wikipedia.org/wiki/Category:萌え本 "wikilink") [Category:萌え擬人化](https://ja.wikipedia.org/wiki/Category:萌え擬人化 "wikilink") [Category:無機物の擬人化](https://ja.wikipedia.org/wiki/Category:無機物の擬人化 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:イカロス出版](https://ja.wikipedia.org/wiki/Category:イカロス出版 "wikilink")
+[Category:日本の雑誌](https://ja.wikipedia.org/wiki/Category:日本の雑誌 "wikilink") [Category:軍事関連の雑誌](https://ja.wikipedia.org/wiki/Category:軍事関連の雑誌 "wikilink") [Category:おたく](https://ja.wikipedia.org/wiki/Category:おたく "wikilink") [Category:萌え本](https://ja.wikipedia.org/wiki/Category:萌え本 "wikilink") [Category:萌え擬人化](https://ja.wikipedia.org/wiki/Category:萌え擬人化 "wikilink") [Category:武器・兵器の擬人化](https://ja.wikipedia.org/wiki/Category:武器・兵器の擬人化 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:青年漫画雑誌](https://ja.wikipedia.org/wiki/Category:青年漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:イカロス出版](https://ja.wikipedia.org/wiki/Category:イカロス出版 "wikilink")
 
 1.  とはいうものの、この後も本誌では萌え要素や話題には触れられていたりする。
 2.  保利ケンスケ「[美少女たちがセクシーに戦う 萌え系ミリタリー本が大人気](http://www.j-cast.com/mono/2009/11/24054125.html)」 『[J-CAST](https://ja.wikipedia.org/wiki/J-CAST "wikilink")』2009年11月24日12時13分配信

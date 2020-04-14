@@ -1,4 +1,4 @@
-> この記事は[FWA](https://ja.wikipedia.org/wiki/FWA)から翻訳されています。
+> この記事は[FWA年間最優秀選手賞](https://ja.wikipedia.org/wiki/FWA年間最優秀選手賞)から翻訳されています。
 
 
 **FWA年間最優秀選手賞**（）は、[イングランド](../Page/イングランド.md "wikilink")国内でプレイする[サッカー選手を対象とした賞である](../Page/サッカー選手一覧.md "wikilink")。**FWA**（、サッカーライター協会）によって、1947-48シーズン以降毎年表彰されている。
@@ -178,7 +178,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979-80</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・マクダーモット" title="wikilink">テリー・マクダーモット</a></p></td>
+<td><p><a href="../Page/テリー・マクダーモット.md" title="wikilink">テリー・マクダーモット</a></p></td>
 <td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
 </tr>
 <tr class="even">

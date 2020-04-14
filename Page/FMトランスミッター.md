@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMトランスミッター](https://ja.wikipedia.org/wiki/FMトランスミッター)から翻訳されています。
 
 
 [thumbに接続する](https://ja.wikipedia.org/wiki/ファイル:Fmtrancemitter&iPod_classic.jpg "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")向け製品\]\]

@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[キャラクターシート \(TRPG\)](https://ja.wikipedia.org/wiki/キャラクターシート_\(TRPG\))から翻訳されています。
 
 
 [Stormbringer_Charakterbogen.png](https://ja.wikipedia.org/wiki/File:Stormbringer_Charakterbogen.png "fig:Stormbringer_Charakterbogen.png")RPG用のカスタムキャラクターシート\]\] **キャラクターシート**（）は、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")において、[プレイヤーキャラクター](../Page/プレイヤーキャラクター.md "wikilink")の肉体的・精神的な状態を書き留めておく文書のことである。キャラクターシートはユーザーが自作するほか、ゲームタイトルごとに専用のキャラクターシートを使用する。[紙](../Page/紙.md "wikilink")を用いる場合、[紙のサイズとしては](https://ja.wikipedia.org/wiki/紙#洋紙寸法 "wikilink")[B5と](https://ja.wikipedia.org/wiki/紙の寸法#B判 "wikilink")[A4などがある](https://ja.wikipedia.org/wiki/紙の寸法#A判 "wikilink")。

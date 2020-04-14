@@ -32,7 +32,7 @@
   - CDTV NO.1 HITS〜アゲウタ〜（\#1）
   - J-POP DRIVING〜NON-STOP MIX by DJ KEN-ICHIRO（\#1,短く編集されており、前後の曲とクロスフェードしている）
   - ロックNIPPON 東海林のり子 Selection（\#1,MORE FREEZE MIX）
-  - [RAIMEI](https://ja.wikipedia.org/wiki/RAIMEI "wikilink")（\#1,セルフカバー版）　HIGH PRESSURE、HOT LIMITとのメドレーとなっており、UNDER:COVER版とは異なり原曲に近いアレンジ。
+  - [RAIMEI](https://ja.wikipedia.org/wiki/RAIMEI "wikilink")（\#1,セルフカバー版）「HIGH PRESSURE」、「HOT LIMIT」とのメドレーとなっており、『UNDER:COVER』版とは異なり原曲に近いアレンジ。
 
 ## カバー
 
@@ -46,6 +46,6 @@
 
 <references/>
 
-[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:冬を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:冬を題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
 
 1.

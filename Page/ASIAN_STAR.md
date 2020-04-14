@@ -33,6 +33,10 @@
 
 <references/>
 
+## 関連項目
+
+  - [FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")(番組提供)
+
 ## 外部リンク
 
   - [株式会社ASIAN STAR](https://www.asian.co.jp/)

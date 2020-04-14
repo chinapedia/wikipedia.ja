@@ -1,4 +1,4 @@
-> この記事は[FREEDOM \(globe\)](https://ja.wikipedia.org/wiki/FREEDOM_\(globe\))から翻訳されています。
+> この記事は[FREEDOM \(globeの曲\)](https://ja.wikipedia.org/wiki/FREEDOM_\(globeの曲\))から翻訳されています。
 
 
 「**FREEDOM**」（フリーダム）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲及び、5枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")発売。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ MY ASIA](https://ja.wikipedia.org/wiki/_MY_ASIA)から翻訳されています。
+> この記事は[僕らが生きる MY ASIA](https://ja.wikipedia.org/wiki/僕らが生きる_MY_ASIA)から翻訳されています。
 
 
 「**僕らが生きる MY ASIA**」（ぼくらがいきる マイ エイジア）は[モーニング娘。誕生10年記念隊](../Page/モーニング娘。誕生10年記念隊.md "wikilink")の1枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAマイレージクラブ](https://ja.wikipedia.org/wiki/ANAマイレージクラブ)から翻訳されています。
 
 
 **ANAマイレージクラブ**（エーエヌエーマイレージクラブ、*ANA Mileage Club*、略称：**AMC**）は、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink") (ANA) グループが提供する[マイレージサービス](../Page/マイレージサービス.md "wikilink")である。

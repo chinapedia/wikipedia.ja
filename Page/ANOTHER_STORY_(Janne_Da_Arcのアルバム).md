@@ -1,4 +1,4 @@
-> この記事は[ANOTHER STORY \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/ANOTHER_STORY_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[ANOTHER STORY \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**ANOTHER STORY**』（アナザーストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")、また同バンドの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")による、同名のファンタジー小説。アルバムは[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")より、小説は[エイベックスより](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")同時発売。

@@ -1,4 +1,4 @@
-> この記事は[MANS](https://ja.wikipedia.org/wiki/MANS)から翻訳されています。
+> この記事は[おネエ★MANS](https://ja.wikipedia.org/wiki/おネエ★MANS)から翻訳されています。
 
 
 『**おネエ★MANS\!**』（おネエマンズ）は、[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")まで[日本テレビで放送された](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。正式なタイトルは『**超未来型カリスマSHOW おネエ★MANS\!**』（ちょうみらいがたカリスマショー おねえマンズ）。

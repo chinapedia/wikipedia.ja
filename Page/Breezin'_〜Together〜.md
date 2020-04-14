@@ -1,4 +1,4 @@
-> この記事は[Breezin\' Together](https://ja.wikipedia.org/wiki/Breezin\'_Together)から翻訳されています。
+> この記事は[Breezin\' 〜Together〜](https://ja.wikipedia.org/wiki/Breezin\'_〜Together〜)から翻訳されています。
 
 
 「**Breezin' 〜Together〜**」（ブリージン トゥゲザー）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[グランド・セフト・オートIV](https://ja.wikipedia.org/wiki/グランド・セフト・オートIV)から翻訳されています。
 
 
 **『グランド・セフト・オートIV』**（グランド・セフト・オート フォー、英名:**Grand Theft Auto IV**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロックスター・ゲームス](https://ja.wikipedia.org/wiki/ロックスター・ゲームス "wikilink")社（GTAIVの制作は[ロックスター・ノース](../Page/Rockstar_North.md "wikilink")）から発売された[オープンワールド](../Page/オープンワールド.md "wikilink")型[クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")である。[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の第9作目（メインタイトルでは6作目）。略称は『**GTA IV**』、『**グラセフIV**』。

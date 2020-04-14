@@ -1,4 +1,4 @@
-> この記事は[ROYAL JELLY](https://ja.wikipedia.org/wiki/ROYAL_JELLY)から翻訳されています。
+> この記事は[ROYAL JELLY→](https://ja.wikipedia.org/wiki/ROYAL_JELLY→)から翻訳されています。
 
 
 『**ROYAL JELLY→**』（ローヤル・ゼリ→）は、日本のロックバンド、[ゼリ→の](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。レコード会社の垣根を越えたベスト盤であり、インディーズ〜東芝EMI〜[青空レコード](../Page/青空レコード.md "wikilink")時代の作品から構成され、未発表曲/未CD化曲も収録されている。初回限定盤には王冠ステッカー同封。PV集「[ROYAL JELLY→ V](https://ja.wikipedia.org/wiki/ROYAL_JELLY→_V "wikilink")」が同時発売。

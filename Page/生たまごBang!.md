@@ -1,4 +1,4 @@
-> この記事は[Bang!](https://ja.wikipedia.org/wiki/Bang!)から翻訳されています。
+> この記事は[生たまごBang!](https://ja.wikipedia.org/wiki/生たまごBang!)から翻訳されています。
 
 
 『**生たまごBang\!**』（なまたまごバン\!）は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）で放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。毎週水曜日 19:00 - 19:54に[生放送](../Page/生放送.md "wikilink")されている。[山陰地方](../Page/山陰地方.md "wikilink")のローカル情報番組がゴールデンタイムでレギュラー放送を行うのは初めて。
@@ -36,16 +36,9 @@
   - [森谷佳奈](https://ja.wikipedia.org/wiki/森谷佳奈 "wikilink")（☆、2019年4月 - ） - tabetterナレーション担当。2019年4月からMC。
   - [山田ちゃーはん](https://ja.wikipedia.org/wiki/山田裕亮 "wikilink") - 米子市出身。よしもとクリエイティブ・エージェンシー
 
-#### tabetter
+#### ナレーション
 
-  - ともちん
-  - エリちゃん
-  - [柚月めい](https://ja.wikipedia.org/wiki/柚月めい "wikilink")
-
-#### ナレーション・リポーター
-
-  - [古原奈々](../Page/古原奈々.md "wikilink") - 番組ナレーション担当
-  - [べるを](https://ja.wikipedia.org/wiki/べるを "wikilink")（ローカルタレント、2014年4月 - ）
+  - [古原奈々](../Page/古原奈々.md "wikilink")
 
 ### 過去
 
@@ -82,9 +75,7 @@
 ### 現在
 
   - 特集
-  - 月刊ヤマネジャーナル　(<small>1/月</small>)（担当：山根伸志）
-  - tabetter
-  - あすメシ（2020年1月～）（担当：中島早也佳）
+  - あすメシ（2020年1月～）（担当：森田初実・中島早也佳）
 
 ### 過去
 

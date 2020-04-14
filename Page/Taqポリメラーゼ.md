@@ -1,4 +1,4 @@
-> この記事は[Taq](https://ja.wikipedia.org/wiki/Taq)から翻訳されています。
+> この記事は[Taqポリメラーゼ](https://ja.wikipedia.org/wiki/Taqポリメラーゼ)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/画像:Taq_polymerase.gif "wikilink") **Taqポリメラーゼ** (\[1\]) とは、好熱菌 [{{snamei](https://ja.wikipedia.org/wiki/テルムス・アクウァーティクス "wikilink") が産生する[DNAポリメラーゼ](../Page/DNAポリメラーゼ.md "wikilink")（EC.2.7.7.7）である。90℃以上の高温でも比較的安定である（DNAポリメラーゼ活性は低下する）ため、[PCRに利用されている](../Page/ポリメラーゼ連鎖反応.md "wikilink")。ちなみに、この酵素の名前は、産生菌の属名の頭文字と種小名の頭二文字 () に由来する。 Taqポリメラーゼは[熱水噴出孔](../Page/熱水噴出孔.md "wikilink")に生息している  から同定されたポリメラーゼである。このポリメラーゼは[PCR](https://ja.wikipedia.org/wiki/PCR "wikilink")のような熱を加える実験系に置いても構造が安定であり、変性状態になりにくい。

@@ -1,4 +1,4 @@
-> この記事は[JIN JIN](https://ja.wikipedia.org/wiki/JIN_JIN)から翻訳されています。
+> この記事は[たかじん生JIN JIN](https://ja.wikipedia.org/wiki/たかじん生JIN_JIN)から翻訳されています。
 
 
 **たかじん生JIN JIN**（たかじんなまじんじん）は[毎日放送](../Page/毎日放送.md "wikilink")（MBSラジオ）で[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた生ワイド番組。

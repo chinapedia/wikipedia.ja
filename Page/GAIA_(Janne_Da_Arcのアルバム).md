@@ -1,4 +1,4 @@
-> この記事は[GAIA \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/GAIA_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[GAIA \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/GAIA_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**GAIA**』（ガイア）は、[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")から発売された。

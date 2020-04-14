@@ -1,4 +1,4 @@
-> この記事は[A\&G !LIVE SP](https://ja.wikipedia.org/wiki/A\&G_!LIVE_SP)から翻訳されています。
+> この記事は[A\&G年越し特番 チョー突猛進!カウントダウンLIVE SP](https://ja.wikipedia.org/wiki/A\&G年越し特番_チョー突猛進!カウントダウンLIVE_SP)から翻訳されています。
 
 
 **A\&G年越し特番 チョー突猛進\!カウントダウンLIVE SP**（エーアンドジーとしこしとくばん チョーとつもうしん\!カウントダウンライブスペシャル）は、[2006年](../Page/2006年.md "wikilink")[大晦日](../Page/大晦日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[元旦](https://ja.wikipedia.org/wiki/元旦 "wikilink")に掛けて、[文化放送](../Page/文化放送.md "wikilink")メディアホールプラスとサテライトプラスにて、3部構成で公開生放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

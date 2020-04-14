@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UDラス・パルマス](https://ja.wikipedia.org/wiki/UDラス・パルマス)から翻訳されています。
 
 
 **UDラス・パルマス**(**Unión Deportiva Las Palmas**) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カナリア諸島](https://ja.wikipedia.org/wiki/カナリア諸島 "wikilink")の[ラス・パルマス・デ・グラン・カナリア](../Page/ラス・パルマス・デ・グラン・カナリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")に在籍している。32,392人収容の[エスタディオ・グラン・カナリア](https://ja.wikipedia.org/wiki/エスタディオ・グラン・カナリア "wikilink")をホームスタジアムとしている。同じくカナリア諸島に本拠地を置く[CDテネリフェ](../Page/CDテネリフェ.md "wikilink")との対戦は[カナリア諸島ダービー](https://ja.wikipedia.org/wiki/カナリア諸島ダービー "wikilink")として知られる。

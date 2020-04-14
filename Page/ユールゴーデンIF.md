@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[ユールゴーデンIF](https://ja.wikipedia.org/wiki/ユールゴーデンIF)から翻訳されています。
 
 
 **ユールゴーデン・イドロッツフェレニン**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の首都、[ストックホルム](../Page/ストックホルム.md "wikilink")に本拠地を置く総合スポーツクラブであり、セミプロの[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブも併せ持つ。

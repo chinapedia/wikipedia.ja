@@ -1,4 +1,4 @@
-> この記事は[FTP](https://ja.wikipedia.org/wiki/FTP)から翻訳されています。
+> この記事は[FTPクライアント](https://ja.wikipedia.org/wiki/FTPクライアント)から翻訳されています。
 
 
 **FTPクライアント**とは、[FTPを使用してファイルの送受信を行う](../Page/File_Transfer_Protocol.md "wikilink")[クライアントソフトウェアのことである](../Page/クライアント_\(コンピュータ\).md "wikilink")。[FTPサーバ](../Page/FTPサーバ.md "wikilink")に接続してファイルを[アップロード](../Page/アップロード.md "wikilink")・[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")することができる。

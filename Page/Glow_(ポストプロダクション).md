@@ -1,4 +1,4 @@
-> この記事は[Glow \(\)](https://ja.wikipedia.org/wiki/Glow_\(\))から翻訳されています。
+> この記事は[Glow \(ポストプロダクション\)](https://ja.wikipedia.org/wiki/Glow_\(ポストプロダクション\))から翻訳されています。
 
 
 **株式会社glow**（グロウ）は、[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")と[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")（CG）を主体とした[ポストプロダクション](../Page/ポストプロダクション.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[HEART \(\)](https://ja.wikipedia.org/wiki/HEART_\(\))から翻訳されています。
+> この記事は[HEART \(伊藤由奈のアルバム\)](https://ja.wikipedia.org/wiki/HEART_\(伊藤由奈のアルバム\))から翻訳されています。
 
 
 『**HEART**』（ハート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

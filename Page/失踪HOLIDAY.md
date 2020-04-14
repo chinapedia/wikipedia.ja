@@ -1,4 +1,4 @@
-> この記事は[HOLIDAY](https://ja.wikipedia.org/wiki/HOLIDAY)から翻訳されています。
+> この記事は[失踪HOLIDAY](https://ja.wikipedia.org/wiki/失踪HOLIDAY)から翻訳されています。
 
 
 『**失踪HOLIDAY**』（しっそうホリデイ）は、[乙一](../Page/乙一.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")である。短編2作を収録し、[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")から刊行されている。ISBN 4044253013。

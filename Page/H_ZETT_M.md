@@ -512,6 +512,22 @@ M8 恋煩いの豚</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>ミニアルバム『ZIG ZAG』</p></td>
+<td><p>M4 おはようSUN</p></td>
+<td><p>2020/3/4</p></td>
+<td><p>ヒイズミマサユ機</p></td>
+<td><p>Piano</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>M4 Continue (初回限定盤DVD)</p></td>
+<td><p>H ZETT M</p></td>
+<td><p>サポートメンバー</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Cradle_Orchestra" title="wikilink">Cradle Orchestra</a></p></td>
 <td><p>アルバム『ReConstruction Series』</p></td>
 <td><p>M8 Follow This feat.HOCUS POCUS</p></td>

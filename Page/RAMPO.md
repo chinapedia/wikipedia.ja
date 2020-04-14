@@ -182,7 +182,7 @@
   -
   -
   -
-[Category:1994年の映画](https://ja.wikipedia.org/wiki/Category:1994年の映画 "wikilink") [Category:日本のミステリ映画](https://ja.wikipedia.org/wiki/Category:日本のミステリ映画 "wikilink") [Category:松竹製作の映画作品](https://ja.wikipedia.org/wiki/Category:松竹製作の映画作品 "wikilink") [Category:江戸川乱歩原作の映画作品](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作の映画作品 "wikilink") [Category:昭和戦前時代の日本を舞台とした作品](https://ja.wikipedia.org/wiki/Category:昭和戦前時代の日本を舞台とした作品 "wikilink") [Category:実在の作家を題材とした作品](https://ja.wikipedia.org/wiki/Category:実在の作家を題材とした作品 "wikilink") [Category:小説家を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:小説家を主人公とした映画作品 "wikilink") [Category:明智小五郎](https://ja.wikipedia.org/wiki/Category:明智小五郎 "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink")
+[Category:1994年の映画](https://ja.wikipedia.org/wiki/Category:1994年の映画 "wikilink") [Category:日本のミステリ映画](https://ja.wikipedia.org/wiki/Category:日本のミステリ映画 "wikilink") [Category:松竹製作の映画作品](https://ja.wikipedia.org/wiki/Category:松竹製作の映画作品 "wikilink") [Category:江戸川乱歩原作の映画作品](https://ja.wikipedia.org/wiki/Category:江戸川乱歩原作の映画作品 "wikilink") [Category:昭和戦前時代の日本を舞台とした作品](https://ja.wikipedia.org/wiki/Category:昭和戦前時代の日本を舞台とした作品 "wikilink") [Category:実在の作家を題材とした作品](https://ja.wikipedia.org/wiki/Category:実在の作家を題材とした作品 "wikilink") [Category:小説家を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:小説家を主人公とした映画作品 "wikilink") [Category:明智小五郎](https://ja.wikipedia.org/wiki/Category:明智小五郎 "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
 
 1.
 2.

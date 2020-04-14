@@ -1,4 +1,4 @@
-> この記事は[J ](https://ja.wikipedia.org/wiki/J_)から翻訳されています。
+> この記事は[Jリーグナイト プレビューショー](https://ja.wikipedia.org/wiki/Jリーグナイト_プレビューショー)から翻訳されています。
 
 
 『**Jリーグナイト07 プレビューショー**』 (J LEAGUE NIGHT '07 Preview Show) は、[2001年](../Page/2001年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで[スカイパーフェクTV\!が放送していた](../Page/スカパー!プレミアムサービス.md "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。2001年に『**Jリーグナイト\!**』と題して放送開始し、番組終了間際の2007年にタイトルを変更した。

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[十文字原テレビ・FM放送所](https://ja.wikipedia.org/wiki/十文字原テレビ・FM放送所)から翻訳されています。
 
 
 **十文字原テレビ・FM放送所**（じゅうもんじばるてれび・えふえむほうそうじょ）は、[大分県](../Page/大分県.md "wikilink")[別府市](../Page/別府市.md "wikilink")の通称[十文字原](https://ja.wikipedia.org/wiki/十文字原 "wikilink")高原地区に存在する大分県をエリアとするテレビジョン放送及びFMラジオ放送の親局送信所である。

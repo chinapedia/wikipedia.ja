@@ -1,4 +1,4 @@
-> この記事は[SINGLES 2 \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/SINGLES_2_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[SINGLES 2 \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/SINGLES_2_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**SINGLES 2**』（シングルス・ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")2枚目のシングルコレクションアルバム。[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")。

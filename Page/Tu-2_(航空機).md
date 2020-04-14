@@ -1,4 +1,4 @@
-> この記事は[Tu-2 \(\)](https://ja.wikipedia.org/wiki/Tu-2_\(\))から翻訳されています。
+> この記事は[Tu-2 \(航空機\)](https://ja.wikipedia.org/wiki/Tu-2_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=[22x20px](https://ja.wikipedia.org/wiki/画像:Flag_of_the_Soviet_Union_1923.svg "wikilink")  | 画像=Image:Tu-2.jpg | キャプション=モニノの[ロシア連邦空軍中央博物館に展示されるTu](https://ja.wikipedia.org/wiki/モニノ空軍博物館 "wikilink")-2 | 用途=[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")・[偵察機](../Page/偵察機.md "wikilink") | 分類=[前線爆撃機](../Page/爆撃機.md "wikilink")・[前線偵察機](https://ja.wikipedia.org/wiki/前線偵察機 "wikilink") | 設計者=[アンドリェーイ・トゥーパリェフ](../Page/アンドレーイ・トゥーポレフ.md "wikilink") | 製造者=[トゥーパリェフ設計局](../Page/ツポレフ.md "wikilink") | 運用者 more=

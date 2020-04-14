@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[テーブルトークRPG冬の時代](https://ja.wikipedia.org/wiki/テーブルトークRPG冬の時代)から翻訳されています。
 
 
 **テーブルトークRPG冬の時代**（テーブルトークアールピージーふゆのじだい）とは、日本の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG)の市場が急激に衰退し、ブームが終焉したと言われている[1990年代](../Page/1990年代.md "wikilink")後半の数年間（[1996年](../Page/1996年.md "wikilink")前後）のことである\[1\]。

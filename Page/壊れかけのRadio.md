@@ -1,4 +1,4 @@
-> この記事は[Radio](https://ja.wikipedia.org/wiki/Radio)から翻訳されています。
+> この記事は[壊れかけのRadio](https://ja.wikipedia.org/wiki/壊れかけのRadio)から翻訳されています。
 
 
 「**壊れかけのRadio**」（こわれかけのレディオ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売された[徳永英明](../Page/徳永英明.md "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。徳永の代表曲の1つであり、[オリコンチャート](../Page/オリコンチャート.md "wikilink")上では前作「[夢を信じて](../Page/夢を信じて.md "wikilink")」に次ぐセールス（36.6万枚）を記録している\[1\]。
@@ -13,12 +13,14 @@
 
 ## 収録曲
 
-1.  **壊れかけのRadio**(5'09")
+全作曲：徳永英明
+
+1.  **壊れかけのRadio** (5'09")
       -
-        作詞・作曲：徳永英明 / 編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
-2.  **道標**(6'30")
+        作詞：徳永英明 / 編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
+2.  **道標** (6'30")
       -
-        作詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink") / 作曲：徳永英明 / 編曲：[国吉良一](../Page/国吉良一.md "wikilink")
+        作詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink") / 編曲：[国吉良一](../Page/国吉良一.md "wikilink")
 
 ## 主な収録アルバム
 

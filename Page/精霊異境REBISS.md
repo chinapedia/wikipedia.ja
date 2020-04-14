@@ -1,4 +1,4 @@
-> この記事は[REBISS](https://ja.wikipedia.org/wiki/REBISS)から翻訳されています。
+> この記事は[精霊異境REBISS](https://ja.wikipedia.org/wiki/精霊異境REBISS)から翻訳されています。
 
 
 **精霊異境REBISS**（せいれいいきょうレビス）はアダルトゲーム雑誌『[パソコンパラダイス](../Page/パソコンパラダイス.md "wikilink")』で連載された[読者参加型ゲーム](../Page/読者参加型ゲーム.md "wikilink")であり小説。企画は[深海工房](https://ja.wikipedia.org/wiki/深海工房 "wikilink")。

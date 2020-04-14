@@ -1,4 +1,4 @@
-> この記事は[D+VINELUV](https://ja.wikipedia.org/wiki/D+VINELUV)から翻訳されています。
+> この記事は[D+VINE［LUV］](https://ja.wikipedia.org/wiki/D+VINE［LUV］)から翻訳されています。
 
 
 『**D+VINE\[LUV\]**』（ディヴァイン・ラヴ）は、[2000年](../Page/2000年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[アボガドパワーズ](../Page/アボガドパワーズ.md "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[アクションRPGである](../Page/アクションロールプレイングゲーム.md "wikilink")。翌年に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売された。

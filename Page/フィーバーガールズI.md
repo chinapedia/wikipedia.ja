@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[フィーバーガールズI](https://ja.wikipedia.org/wiki/フィーバーガールズI)から翻訳されています。
 
 
 **フィーバーガールズI**は、[1993年](../Page/1993年.md "wikilink")5月に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売。[ファミコンゲーム](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")『[おたくの星座](../Page/おたくの星座.md "wikilink")』に登場する「オーロラ五人娘」とのタイアップによる[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。キャラクターデザインは[江口寿史](../Page/江口寿史.md "wikilink")。保留玉[連荘](../Page/連荘.md "wikilink")タイプ。同社初の[液晶](../Page/液晶.md "wikilink")画面デジパチとして話題になった『[フィーバーパワフル](../Page/フィーバーパワフル.md "wikilink")』と同様、3×3のタテ、ヨコ、ナナメのいずれかの絵柄揃い、または全停止絵柄が「オーロラ五人娘」の「オールガールズ」で大当たりが発生するというゲームシステムを採用している。 当時の販促用のポスターに元祖電脳アイドル、千葉麗子を起用、「パチンコ大好きSANKYO」と記載されていた。

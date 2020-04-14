@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ロイヤル・アントワープFC](https://ja.wikipedia.org/wiki/ロイヤル・アントワープFC)から翻訳されています。
 
 
 **ロイヤル・アントワープFC** () は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[アントウェルペン](../Page/アントウェルペン.md "wikilink")（アントワープ）を本拠地とするサッカークラブである。

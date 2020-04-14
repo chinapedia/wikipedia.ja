@@ -1,4 +1,4 @@
-> この記事は[USA ](https://ja.wikipedia.org/wiki/USA_)から翻訳されています。
+> この記事は[ゲーセンUSA ミッドウェイアーケードトレジャーズ](https://ja.wikipedia.org/wiki/ゲーセンUSA_ミッドウェイアーケードトレジャーズ)から翻訳されています。
 
 
 『**ゲーセンUSA ミッドウェイアーケードトレジャーズ**』は、日本国外で発売された[MIDWAY ARCADE TREASURES 1と](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures "wikilink")[MIDWAY ARCADE TREASURES 2を](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures_2 "wikilink")1本にまとめた[オムニバス](../Page/オムニバス.md "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

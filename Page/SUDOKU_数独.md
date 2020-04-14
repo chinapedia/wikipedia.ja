@@ -1,4 +1,4 @@
-> この記事は[SUDOKU ](https://ja.wikipedia.org/wiki/SUDOKU_)から翻訳されています。
+> この記事は[SUDOKU 数独](https://ja.wikipedia.org/wiki/SUDOKU_数独)から翻訳されています。
 
 
 **SUDOKU 数独**（すうどく）は、[ハドソン](../Page/ハドソン.md "wikilink")の数独ゲーム。

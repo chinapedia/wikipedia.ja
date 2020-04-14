@@ -1,4 +1,4 @@
-> この記事は[IQ](https://ja.wikipedia.org/wiki/IQ)から翻訳されています。
+> この記事は[かながわIQ](https://ja.wikipedia.org/wiki/かながわIQ)から翻訳されています。
 
 
 **かながわIQ**（かながわ　あいきゅう、[10月26日](../Page/10月26日.md "wikilink") - \[1\]）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")・[作家](../Page/作家.md "wikilink")。[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")所属。以前は**金川愛久**と表記していた。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。

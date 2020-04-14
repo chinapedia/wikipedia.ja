@@ -1,4 +1,4 @@
-> この記事は[FBI](https://ja.wikipedia.org/wiki/FBI)から翻訳されています。
+> この記事は[FBIアメリカ連邦警察](https://ja.wikipedia.org/wiki/FBIアメリカ連邦警察)から翻訳されています。
 
 
 『**FBIアメリカ連邦警察**』（エフビーアイ アメリカれんぽうけいさつ、）は、1965年から1974年まで[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ABCで](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")9[シーズンに放送されていた](../Page/シーズン_\(テレビ\).md "wikilink")60分枠の[テレビ映画](../Page/テレビ映画.md "wikilink")である。全240話。
@@ -69,6 +69,6 @@
 
   -
   -
-[Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:TBS日曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS日曜8時枠の連続ドラマ "wikilink") [Category:TBS・CBC日曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS・CBC日曜10時枠の連続ドラマ "wikilink") [Category:TBS火曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜10時枠の連続ドラマ "wikilink") [Category:連邦捜査局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台とした作品 "wikilink") [Category:カリフォルニア州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:カリフォルニア州を舞台としたテレビ番組 "wikilink")
+[Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:TBS日曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS日曜8時枠の連続ドラマ "wikilink") [Category:TBS・CBC日曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS・CBC日曜10時枠の連続ドラマ "wikilink") [Category:TBS火曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜10時枠の連続ドラマ "wikilink") [Category:連邦捜査局を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台としたテレビドラマ "wikilink") [Category:カリフォルニア州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:カリフォルニア州を舞台としたテレビ番組 "wikilink")
 
 1.

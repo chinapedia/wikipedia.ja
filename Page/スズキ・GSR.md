@@ -1,4 +1,4 @@
-> この記事は[GSR](https://ja.wikipedia.org/wiki/GSR)から翻訳されています。
+> この記事は[スズキ・GSR](https://ja.wikipedia.org/wiki/スズキ・GSR)から翻訳されています。
 
 
 **GSR**（ジーエスアール）は、[スズキが製造販売している](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")の車種名である。シリーズ車種として数車種が発売されている。

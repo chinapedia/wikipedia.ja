@@ -1,4 +1,4 @@
-> この記事は[ \(EXILE\)](https://ja.wikipedia.org/wiki/_\(EXILE\))から翻訳されています。
+> この記事は[道 \(EXILEの曲\)](https://ja.wikipedia.org/wiki/道_\(EXILEの曲\))から翻訳されています。
 
 
 「**道**」（みち）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

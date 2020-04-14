@@ -1,4 +1,4 @@
-> この記事は[OO](https://ja.wikipedia.org/wiki/OO)から翻訳されています。
+> この記事は[O・O・モローゾウ記念ハルキウ機械製造設計局](https://ja.wikipedia.org/wiki/O・O・モローゾウ記念ハルキウ機械製造設計局)から翻訳されています。
 
 
 **O・O・モローゾウ記念ハルキウ機械製造設計局**（；略称:；KhKBM）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の[ハルキウ](../Page/ハルキウ.md "wikilink")にある国営の会社であり、[T-80](../Page/T-80.md "wikilink")、[T-84](../Page/T-84.md "wikilink")を含む[主力戦車](../Page/主力戦車.md "wikilink")と[主発動機の設計を行った](../Page/エンジン.md "wikilink")。単純に、**モロゾフ設計局**とも呼ばれ、略号で**KMDB**と記述される。[BT戦車](../Page/BT戦車.md "wikilink")のシリーズや、[T-34](../Page/T-34.md "wikilink")、[T-55](../Page/T-55.md "wikilink")、[T-64](../Page/T-64.md "wikilink")を含む重要なソ連の[AFVの開発責任を負っていた](../Page/装甲戦闘車両.md "wikilink")。[V・O・マールィシェウ記念工場](../Page/V・O・マールィシェウ記念工場.md "wikilink")と密接な関係がある。

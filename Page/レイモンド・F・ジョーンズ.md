@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[レイモンド・F・ジョーンズ](https://ja.wikipedia.org/wiki/レイモンド・F・ジョーンズ)から翻訳されています。
 
 
 **レイモンド・F・ジョーンズ**（Raymond F. Jones, [1915年](../Page/1915年.md "wikilink")11月15日 - [1994年](../Page/1994年.md "wikilink")1月24日）\[1\]は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[ユタ州](../Page/ユタ州.md "wikilink")生まれ\[2\]。[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")に育てられた[SF黄金時代作家の](https://ja.wikipedia.org/wiki/サイエンス・フィクション#1950年代のSF "wikilink")1人\[3\]。

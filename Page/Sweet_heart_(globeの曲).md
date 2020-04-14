@@ -1,4 +1,4 @@
-> この記事は[Sweet heart \(globe\)](https://ja.wikipedia.org/wiki/Sweet_heart_\(globe\))から翻訳されています。
+> この記事は[Sweet heart \(globeの曲\)](https://ja.wikipedia.org/wiki/Sweet_heart_\(globeの曲\))から翻訳されています。
 
 
 「**sweet heart**」（スウィート・ハート）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の楽曲。同グループ15枚目の[シングル](../Page/シングル.md "wikilink")として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された。

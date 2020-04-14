@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[インターネットCM](https://ja.wikipedia.org/wiki/インターネットCM)から翻訳されています。
 
 
 **インターネットCM**とは、特に[インターネット](../Page/インターネット.md "wikilink")の[WWW上における映像および音声を使用した](../Page/World_Wide_Web.md "wikilink")[動画](../Page/動画.md "wikilink")[広告](../Page/広告.md "wikilink")をさす。

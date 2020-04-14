@@ -1,4 +1,4 @@
-> この記事は[XJR-9](https://ja.wikipedia.org/wiki/XJR-9)から翻訳されています。
+> この記事は[ジャガー・XJR-9](https://ja.wikipedia.org/wiki/ジャガー・XJR-9)から翻訳されています。
 
 
 **ジャガーXJR-9**は[1988年](../Page/1988年.md "wikilink")[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink")（WSPC）、及び[IMSA用に](../Page/国際モータースポーツ協会.md "wikilink")[トム・ウォーキンショー](../Page/トム・ウォーキンショー.md "wikilink")・レーシング（TWR）が製作した[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である。

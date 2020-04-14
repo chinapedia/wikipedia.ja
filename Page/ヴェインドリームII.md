@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ヴェインドリームII](https://ja.wikipedia.org/wiki/ヴェインドリームII)から翻訳されています。
 
 
 『**ヴェインドリームII**』 (VainDream II) は、[グローディア](https://ja.wikipedia.org/wiki/グローディア "wikilink")から発売された[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。略称は『ヴェイン2』『VD2』。1992年に[PC-9801VM/UV以降版が](../Page/PC-9800シリーズ.md "wikilink")、1993年に[FM TOWNS版が発売された](../Page/FM_TOWNS.md "wikilink")。

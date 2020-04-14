@@ -1,4 +1,4 @@
-> この記事は[TELL ME \(hide\)](https://ja.wikipedia.org/wiki/TELL_ME_\(hide\))から翻訳されています。
+> この記事は[TELL ME \(hideの曲\)](https://ja.wikipedia.org/wiki/TELL_ME_\(hideの曲\))から翻訳されています。
 
 
 「**TELL ME**」（テル・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")のソロ4枚目のシングル。

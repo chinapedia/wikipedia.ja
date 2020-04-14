@@ -20,8 +20,10 @@
     <!-- end list -->
       -
         [tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")が「ツアーが始まる前に新曲をプレゼントしたかった\[2\]」というように、ライブツアー「in CLUB '95」の初日公演に合わせてリリースされた。
-        映像の中でhydeと[sakuraがトランプをしている中](../Page/Sakura_\(ドラマー\).md "wikilink")、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")が[カセットテープ](../Page/カセットテープ.md "wikilink")をかけるシーンがあるが、そこで流れる楽曲は当時未発表楽曲だった「[Vivid Colors](../Page/Vivid_Colors.md "wikilink")」である\[3\]。
-        音源は後に発売された3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』に収録。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は本作以外に[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』の初回特典[DVDには演奏部分のみを収録しており](../Page/DVD-Video.md "wikilink")、PV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』には解説内容が完全収録している。
+        歌詞を手掛けたhyde曰く、曲に[ビートルズ](../Page/ビートルズ.md "wikilink")のイメージがあったといい、ビートルズの詩の全集を読んだ上で歌詞が書かれている\[3\]。
+        また、hydeは「（詩の全集を読んだから）"セロファン"という言葉とかは"真似してるんだよ"っていう感じで、敢えて使った\[4\]」と述べている。
+        映像の中でhydeと[sakuraがトランプをしている中](../Page/Sakura_\(ドラマー\).md "wikilink")、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")が[カセットテープ](../Page/カセットテープ.md "wikilink")をかけるシーンがあるが、そこで流れる楽曲は当時未発表楽曲だった「[Vivid Colors](../Page/Vivid_Colors.md "wikilink")」である\[5\]。
+        音源は後に発売された3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』に収録。また、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は本作以外に[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』の初回特典[DVDには演奏部分のみを収録しており](../Page/DVD-Video.md "wikilink")、MV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』には解説内容が完全収録している。
 2.  **[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")**
       - 作詞:hyde / 作曲:[tetsu](https://ja.wikipedia.org/wiki/tetsuya "wikilink") / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
@@ -46,4 +48,6 @@
 
 1.  『[ロッキンf](https://ja.wikipedia.org/wiki/We_ROCK/ロッキンf "wikilink")』、立東社、1995年5月号
 2.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、1996年
-3.
+3.  『GiGS』、p.7、シンコー・ミュージック、1995年9月号付録
+4.
+5.

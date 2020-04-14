@@ -1,4 +1,4 @@
-> この記事は[ katamata](https://ja.wikipedia.org/wiki/_katamata)から翻訳されています。
+> この記事は[道の駅うり坊の郷 katamata](https://ja.wikipedia.org/wiki/道の駅うり坊の郷_katamata)から翻訳されています。
 
 
 [Roadside_station_Uribou_no_sato_1.JPG](https://ja.wikipedia.org/wiki/File:Roadside_station_Uribou_no_sato_1.JPG "fig:Roadside_station_Uribou_no_sato_1.JPG") [Roadside_station_Uribou_no_sato_2.JPG](https://ja.wikipedia.org/wiki/File:Roadside_station_Uribou_no_sato_2.JPG "fig:Roadside_station_Uribou_no_sato_2.JPG") **道の駅うり坊の郷 katamata**（みちのえき うりぼうのさと かたまた）は、[山口県](../Page/山口県.md "wikilink")[萩市](../Page/萩市.md "wikilink")大字片俣にある[国道315号](../Page/国道315号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。

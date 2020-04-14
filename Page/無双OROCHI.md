@@ -1,4 +1,4 @@
-> この記事は[OROCHI](https://ja.wikipedia.org/wiki/OROCHI)から翻訳されています。
+> この記事は[無双OROCHI](https://ja.wikipedia.org/wiki/無双OROCHI)から翻訳されています。
 
 
 『**無双OROCHI**』（むそうオロチ）は、[コーエー](../Page/コーエー.md "wikilink")より発売の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[PlayStation 2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2007年3月21日、[Xbox 360版は](../Page/Xbox_360.md "wikilink")2007年9月13日、[PlayStation Portable版は](../Page/PlayStation_Portable.md "wikilink")2008年2月21日、Windows版が2008年3月20日に発売。海外でのタイトルは、『[Warriors Orochi](https://ja.wikipedia.org/wiki/:en:Warriors_Orochi "wikilink")』。

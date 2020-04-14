@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[TVキャスター マーフィー・ブラウン](https://ja.wikipedia.org/wiki/TVキャスター_マーフィー・ブラウン)から翻訳されています。
 
 
 [Murphy_Brown_opening.jpg](https://ja.wikipedia.org/wiki/File:Murphy_Brown_opening.jpg "fig:Murphy_Brown_opening.jpg") 『**TVキャスター マーフィー・ブラウン**』（*Murphy Brown*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[CBS](../Page/CBS.md "wikilink")で放送された[シチュエーション・コメディー](https://ja.wikipedia.org/wiki/シチュエーション・コメディー "wikilink")。[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")にあるテレビ局の架空のニュースショー"FYI"を舞台に、[キャンディス・バーゲン](../Page/キャンディス・バーゲン.md "wikilink")が[タイトルロール](https://ja.wikipedia.org/wiki/タイトルロール "wikilink")の人気女性キャスターを演じた。

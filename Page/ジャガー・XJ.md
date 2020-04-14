@@ -1,4 +1,4 @@
-> この記事は[XJ](https://ja.wikipedia.org/wiki/XJ)から翻訳されています。
+> この記事は[ジャガー・XJ](https://ja.wikipedia.org/wiki/ジャガー・XJ)から翻訳されています。
 
 
 **ジャガー・XJ**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[ジャガーから販売されている](../Page/ジャガー_\(自動車\).md "wikilink")[Fセグメント](../Page/Fセグメント.md "wikilink")の高級セダン。

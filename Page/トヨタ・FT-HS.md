@@ -1,4 +1,4 @@
-> この記事は[FT-HS](https://ja.wikipedia.org/wiki/FT-HS)から翻訳されています。
+> この記事は[トヨタ・FT-HS](https://ja.wikipedia.org/wiki/トヨタ・FT-HS)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_FT-HS_at_NYIAS.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:FT-HSrear.jpg "wikilink") **FT-HS**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[ハイブリッド](../Page/ハイブリッドカー.md "wikilink")[スポーツタイプの](../Page/スポーツカー.md "wikilink")[コンセプトカー](../Page/コンセプトカー.md "wikilink")である。

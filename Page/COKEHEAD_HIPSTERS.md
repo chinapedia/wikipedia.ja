@@ -636,7 +636,7 @@ POPDVD-104:通常盤</p></td>
 
   - [COKEHEAD HIPSTERS OFFICIAL WEBSITE](http://www.cokeheadhipsters.com/)
 
-  - [BLOGHEAD HIPSTERS](http://ameblo.jp/cokeheadhipsters/)
+  - [BLOGHEAD HIPSTERS](https://ameblo.jp/cokeheadhipsters/)
 
   -
   -   -

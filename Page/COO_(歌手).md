@@ -1,4 +1,4 @@
-> この記事は[COO \(\)](https://ja.wikipedia.org/wiki/COO_\(\))から翻訳されています。
+> この記事は[COO \(歌手\)](https://ja.wikipedia.org/wiki/COO_\(歌手\))から翻訳されています。
 
 
 **COO**（クー、[4月13日](../Page/4月13日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。

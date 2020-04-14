@@ -1,4 +1,4 @@
-> この記事は[Departtakako uehara single collection](https://ja.wikipedia.org/wiki/Departtakako_uehara_single_collection)から翻訳されています。
+> この記事は[Depart〜takako uehara single collection〜](https://ja.wikipedia.org/wiki/Depart〜takako_uehara_single_collection〜)から翻訳されています。
 
 
 『**départ〜takako uehara single collection〜**』（デパール タカコ・ウエハラ・シングル・コレクション）は、日本の女性歌手[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[SONIC GROOVEより](../Page/SONIC_GROOVE.md "wikilink")[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")にリリースされた。

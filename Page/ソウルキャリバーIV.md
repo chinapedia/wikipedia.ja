@@ -1,7 +1,7 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[ソウルキャリバーIV](https://ja.wikipedia.org/wiki/ソウルキャリバーIV)から翻訳されています。
 
 
-『**ソウルキャリバーIV**』（ソウルキャリバーフォー、**SOULCALIBUR IV**）は、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（ナムコレーベル）が発売する[3D武器格闘アクション](../Page/対戦型格闘ゲーム.md "wikilink")。“[ソウルシリーズ](../Page/ソウルシリーズ.md "wikilink")”の第6作目。
+『**ソウルキャリバーIV**』（ソウルキャリバーフォー、**SOULCALIBUR IV**）は、バンダイナムコゲームス (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) が発売する[3D武器格闘アクション](../Page/対戦型格闘ゲーム.md "wikilink")。“[ソウルシリーズ](../Page/ソウルシリーズ.md "wikilink")”の第6作目。
 
 ## 概要
 

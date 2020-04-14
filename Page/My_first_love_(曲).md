@@ -1,4 +1,4 @@
-> この記事は[My first love \(\)](https://ja.wikipedia.org/wiki/My_first_love_\(\))から翻訳されています。
+> この記事は[My first love \(曲\)](https://ja.wikipedia.org/wiki/My_first_love_\(曲\))から翻訳されています。
 
 
 「**my first love**」（マイ・ファースト・ラブ）は、日本の女性歌手[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")のソロ・デビュー・シングル。[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーのソロ・シングルの単独リリースとしては、4人の中で最も早かった。[河村隆一](../Page/河村隆一.md "wikilink")がサウンドプロデュースを手がけ、グループでの彼女とは異なるイメージを打ち出した。

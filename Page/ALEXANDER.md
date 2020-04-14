@@ -7,7 +7,7 @@
 
 ### モデル時代
 
-10歳の時に来日し、中学生の頃からモデル活動をスタート。1990年代後半から雑誌分野では[メンズノンノ](https://ja.wikipedia.org/wiki/メンズノンノ "wikilink")、[Smart](https://ja.wikipedia.org/wiki/Smart "wikilink")、[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")などに登場。 その他、2000年前後にはファッションショー分野でも活躍し、[東京コレクション](../Page/東京コレクション.md "wikilink")などで多数の日本・海外ブランドのショーに出演。 また、俳優としても2001年の映画「so faraway」に主演したほか、[LUNA SEAや](../Page/LUNA_SEA.md "wikilink")[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")のPVにもモデルとして出演。 その後、2008年頃までは多数のトップモデルが集結する丸井の通販カタログ誌「マルイ・メンズVoi」にてパトリシオやナオミ等と共に看板モデルを務めるなど、 国内トップクラスのメンズモデルとして長く活躍した。
+10歳の時に来日し、中学生の頃からモデル活動をスタート。1990年代後半から雑誌分野では[メンズノンノ](https://ja.wikipedia.org/wiki/メンズノンノ "wikilink")、[Smart](https://ja.wikipedia.org/wiki/Smart "wikilink")、[FINEBOYS](../Page/FINEBOYS.md "wikilink")などに登場。 その他、2000年前後にはファッションショー分野でも活躍し、[東京コレクション](../Page/東京コレクション.md "wikilink")などで多数の日本・海外ブランドのショーに出演。 また、俳優としても2001年の映画「so faraway」に主演したほか、[LUNA SEAや](../Page/LUNA_SEA.md "wikilink")[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")のPVにもモデルとして出演。 その後、2008年頃までは多数のトップモデルが集結する丸井の通販カタログ誌「マルイ・メンズVoi」にてパトリシオやナオミ等と共に看板モデルを務めるなど、 国内トップクラスのメンズモデルとして長く活躍した。
 
 ### 現在
 
@@ -94,7 +94,7 @@
 ### 雑誌
 
   - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
   - [BRUTUS](../Page/BRUTUS.md "wikilink")（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
   - [POPEYE](../Page/POPEYE.md "wikilink")（マガジンハウス）
   - [smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")（[宝島社](../Page/宝島社.md "wikilink")）

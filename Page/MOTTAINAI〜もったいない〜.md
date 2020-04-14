@@ -1,4 +1,4 @@
-> この記事は[MOTTAINAI](https://ja.wikipedia.org/wiki/MOTTAINAI)から翻訳されています。
+> この記事は[MOTTAINAI〜もったいない〜](https://ja.wikipedia.org/wiki/MOTTAINAI〜もったいない〜)から翻訳されています。
 
 
 **MOTTAINAI 〜もったいない〜**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌](../Page/歌.md "wikilink")。[作詞](../Page/作詞.md "wikilink"):[仁井山征弘](../Page/仁井山征弘.md "wikilink")、[作曲](../Page/作曲.md "wikilink"):Super Project、[企画](https://ja.wikipedia.org/wiki/企画 "wikilink"):増田順彦、岩佐真吾、振り付け[ラッキィ池田](../Page/ラッキィ池田.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")-[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[NHKの歌番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で放送された。

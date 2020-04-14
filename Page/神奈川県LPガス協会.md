@@ -1,4 +1,4 @@
-> この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
+> この記事は[神奈川県LPガス協会](https://ja.wikipedia.org/wiki/神奈川県LPガス協会)から翻訳されています。
 
 
 **公益社団法人神奈川県LPガス協会**（こうえきしゃだんほうじんかながわけんエルピーガスきょうかい）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")を供給する会社の[業界団体](../Page/業界団体.md "wikilink")である。

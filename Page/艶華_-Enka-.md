@@ -1,4 +1,4 @@
-> この記事は[ -Enka-](https://ja.wikipedia.org/wiki/_-Enka-)から翻訳されています。
+> この記事は[艶華 -Enka-](https://ja.wikipedia.org/wiki/艶華_-Enka-)から翻訳されています。
 
 
 『**艶華 -Enka-**』（えんか）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[演歌](../Page/演歌.md "wikilink")楽曲を中心とした[カバー](../Page/カバー.md "wikilink")・アルバム。このアルバムは2007年6月27日に[ユニバーサルシグマよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1227、CD+[DVD](../Page/DVD.md "wikilink"): UMCK-9181、2CD: UMCK-9182/3、[CT](../Page/コンパクトカセット.md "wikilink"): UMTK-1001、[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")）。

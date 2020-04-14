@@ -1,4 +1,4 @@
-> この記事は[J ](https://ja.wikipedia.org/wiki/J_)から翻訳されています。
+> この記事は[Jリーグ ファイティングサッカー](https://ja.wikipedia.org/wiki/Jリーグ_ファイティングサッカー)から翻訳されています。
 
 
 『**Jリーグ ファイティングサッカー**』とは、[IGSが](https://ja.wikipedia.org/wiki/IGS_\(日本企業\) "wikilink")[1992年](../Page/1992年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に発売した[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ゲームソフト。後の[1993年](../Page/1993年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ゲームソフトとしても発売された。

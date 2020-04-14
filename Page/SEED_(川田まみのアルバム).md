@@ -1,4 +1,4 @@
-> この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
+> この記事は[SEED \(川田まみのアルバム\)](https://ja.wikipedia.org/wiki/SEED_\(川田まみのアルバム\))から翻訳されています。
 
 
 『**SEED**』（シード）は、[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")の1作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より発売された。

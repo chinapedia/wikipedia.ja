@@ -1,4 +1,4 @@
-> この記事は[Pupa \(\)](https://ja.wikipedia.org/wiki/Pupa_\(\))から翻訳されています。
+> この記事は[Pupa \(アルバム\)](https://ja.wikipedia.org/wiki/Pupa_\(アルバム\))から翻訳されています。
 
 
 『**pupa**』（ピューパ）は、日本の女性歌手[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の2枚目のアルバム。

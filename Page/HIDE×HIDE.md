@@ -1,4 +1,4 @@
-> この記事は[HIDEHIDE](https://ja.wikipedia.org/wiki/HIDEHIDE)から翻訳されています。
+> この記事は[HIDE×HIDE](https://ja.wikipedia.org/wiki/HIDE×HIDE)から翻訳されています。
 
 
 **HIDE×HIDE**（ひでひで）とは、[東京都](../Page/東京都.md "wikilink")出身の2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。 2007年[Sony Music Directよりメジャーデビュー](https://ja.wikipedia.org/wiki/Sony_Music_Direct "wikilink")。2009年に旧表記である「秀々」より「HIDE-HIDE」に改名。 2013年9月「HIDE-HIDE」から「HIDE+HIDE」に改名。 その後「HIDE+HIDE」から「HIDE×HIDE」に変更し活動している。

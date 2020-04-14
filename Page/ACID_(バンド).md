@@ -1,4 +1,4 @@
-> この記事は[ACID \(\)](https://ja.wikipedia.org/wiki/ACID_\(\))から翻訳されています。
+> この記事は[ACID \(バンド\)](https://ja.wikipedia.org/wiki/ACID_\(バンド\))から翻訳されています。
 
 
 **ACID**（アシッド）は、かつて存在した日本のミクスチャー[バンド](../Page/バンド_\(音楽\).md "wikilink")。相次ぐメンバーの脱退により[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に解散\[1\]。

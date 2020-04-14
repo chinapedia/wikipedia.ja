@@ -1,4 +1,4 @@
-> この記事は[IV PORTO ESTADO](https://ja.wikipedia.org/wiki/IV_PORTO_ESTADO)から翻訳されています。
+> この記事は[大航海時代IV PORTO ESTADO](https://ja.wikipedia.org/wiki/大航海時代IV_PORTO_ESTADO)から翻訳されています。
 
 
 『**大航海時代IV PORTO ESTADO**』（だいこうかいじだい・フォー・ポルト・エシュタード）は、[1999年](../Page/1999年.md "wikilink")に[コーエー](../Page/コーエー.md "wikilink")から発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")（同社は[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")と呼称）。「[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")」の（『[外伝](../Page/大航海時代外伝.md "wikilink")』を除いた場合）第4作目にあたる。

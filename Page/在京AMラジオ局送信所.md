@@ -1,4 +1,4 @@
-> この記事は[AM](https://ja.wikipedia.org/wiki/AM)から翻訳されています。
+> この記事は[在京AMラジオ局送信所](https://ja.wikipedia.org/wiki/在京AMラジオ局送信所)から翻訳されています。
 
 
 **在京AMラジオ局送信所**（ざいきょうAMラジオきょくそうしんじょ）では、[東京都](../Page/東京都.md "wikilink")に本社があり、[関東広域圏を放送エリアとする](../Page/広域放送.md "wikilink")[民放の](../Page/民間放送.md "wikilink")[中波](../Page/中波.md "wikilink")[（AM）ラジオ放送の](https://ja.wikipedia.org/wiki/ラジオ#AM放送 "wikilink")[送信所](../Page/送信所.md "wikilink")について述べる。

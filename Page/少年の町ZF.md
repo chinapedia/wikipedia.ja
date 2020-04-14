@@ -1,4 +1,4 @@
-> この記事は[ZF](https://ja.wikipedia.org/wiki/ZF)から翻訳されています。
+> この記事は[少年の町ZF](https://ja.wikipedia.org/wiki/少年の町ZF)から翻訳されています。
 
 
 『**少年の町ZF**』（しょうねんのまちゼフ）は、原作：[小池一夫](../Page/小池一夫.md "wikilink")、作画：[平野仁](../Page/平野仁.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[1976年](../Page/1976年.md "wikilink")から[1979年](../Page/1979年.md "wikilink")まで連載された。

@@ -1,4 +1,4 @@
-> この記事は[Natural Zero+ --](https://ja.wikipedia.org/wiki/Natural_Zero+_--)から翻訳されています。
+> この記事は[Natural Zero+ -はじまりと終わりの場所で-](https://ja.wikipedia.org/wiki/Natural_Zero+_-はじまりと終わりの場所で-)から翻訳されています。
 
 
 『**Natural Zero+ -はじまりと終わりの場所で-**』（ナチュラルゼロプラス はじまりとおわりのばしょで）は、[2000年](../Page/2000年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[フェアリーテールより発売された](../Page/フェアリーテール_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")&アクセサリー集。

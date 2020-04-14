@@ -1,4 +1,4 @@
-> この記事は[GAHAHA ](https://ja.wikipedia.org/wiki/GAHAHA_)から翻訳されています。
+> この記事は[GAHAHAキング 爆笑王決定戦](https://ja.wikipedia.org/wiki/GAHAHAキング_爆笑王決定戦)から翻訳されています。
 
 
 『**GAHAHAキング 爆笑王決定戦**』（ガハハキング ばくしょうおうけっていせん）は、[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで一部[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:00 - 12:45 （[日本標準時](../Page/日本標準時.md "wikilink")）。

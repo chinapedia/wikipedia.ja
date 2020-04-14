@@ -1,4 +1,4 @@
-> この記事は[3 \(EU\)](https://ja.wikipedia.org/wiki/3_\(EU\))から翻訳されています。
+> この記事は[3つの柱 \(EU\)](https://ja.wikipedia.org/wiki/3つの柱_\(EU\))から翻訳されています。
 
 
 [欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")の**3つの柱**（3つのはしら）とは、欧州連合の創設を定めた[マーストリヒト条約](../Page/マーストリヒト条約.md "wikilink")において定義された、主要な政策分野を3つに分類したうえで、それぞれを担う欧州連合の構造を**柱**に例えた枠組み。[リスボン条約](https://ja.wikipedia.org/wiki/リスボン条約 "wikilink")により廃止された。

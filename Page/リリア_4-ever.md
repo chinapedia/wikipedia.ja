@@ -1,4 +1,4 @@
-> この記事は[ 4-ever](https://ja.wikipedia.org/wiki/_4-ever)から翻訳されています。
+> この記事は[リリア 4-ever](https://ja.wikipedia.org/wiki/リリア_4-ever)から翻訳されています。
 
 
 『**リリア 4-ever**』（リリア フォーエバー、原題：*Lilja 4-ever*）は、[2002年](../Page/2002年.md "wikilink")公開の[スウェーデン映画](../Page/スウェーデンの映画.md "wikilink")。

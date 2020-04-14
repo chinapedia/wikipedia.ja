@@ -1,4 +1,4 @@
-> この記事は[SWEET DREAMS \(\)](https://ja.wikipedia.org/wiki/SWEET_DREAMS_\(\))から翻訳されています。
+> この記事は[SWEET DREAMS \(上原多香子の曲\)](https://ja.wikipedia.org/wiki/SWEET_DREAMS_\(上原多香子の曲\))から翻訳されています。
 
 
 **SWEET DREAMS**(スウィート・ドリームズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。前作「[my greatest memories](https://ja.wikipedia.org/wiki/my_greatest_memories "wikilink")」以来1年ぶりにリリースされたシングル作品。

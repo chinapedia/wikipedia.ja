@@ -1,4 +1,4 @@
-> この記事は[ET](https://ja.wikipedia.org/wiki/ET)から翻訳されています。
+> この記事は[ETソフトウェアデザインロボットコンテスト](https://ja.wikipedia.org/wiki/ETソフトウェアデザインロボットコンテスト)から翻訳されています。
 
 
 **ETソフトウェアデザインロボットコンテスト**（通称ETロボコン）は、[組込みシステム技術協会](https://ja.wikipedia.org/wiki/組込みシステム技術協会 "wikilink")が主催するレゴ社[MINDSTORMS](../Page/MINDSTORMS.md "wikilink")を用いた組み込みソフトウェア技術を競うコンテストである。2002年から毎年行われており、当初はUMLロボットコンテストという名称だったが，2005年の大会から組込みシステム技術協会が主催するに伴い，現在の名称に変更された。2006年からは[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")でチャンピオンシップ大会が開催されている。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ジョン・E・ウォーカー](https://ja.wikipedia.org/wiki/ジョン・E・ウォーカー)から翻訳されています。
 
 
 サー・**ジョン・アーネスト・ウォーカー**（Sir John Ernest Walker、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - ）は、イギリス人の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")で1997年度の[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")受賞者である。

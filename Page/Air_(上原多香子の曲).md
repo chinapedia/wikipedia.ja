@@ -1,4 +1,4 @@
-> この記事は[Air \(\)](https://ja.wikipedia.org/wiki/Air_\(\))から翻訳されています。
+> この記事は[Air \(上原多香子の曲\)](https://ja.wikipedia.org/wiki/Air_\(上原多香子の曲\))から翻訳されています。
 
 
 「**Air**」（エアー）は、日本の女性歌手、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の7枚目のシングル。

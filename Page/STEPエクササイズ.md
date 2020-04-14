@@ -1,4 +1,4 @@
-> この記事は[STEP](https://ja.wikipedia.org/wiki/STEP)から翻訳されています。
+> この記事は[STEPエクササイズ](https://ja.wikipedia.org/wiki/STEPエクササイズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Step_Group_Fitness_Class.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Aerobic_exercise_-_public_demonstration07.jpg "wikilink")

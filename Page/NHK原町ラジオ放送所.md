@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK原町ラジオ放送所](https://ja.wikipedia.org/wiki/NHK原町ラジオ放送所)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nhk_sendai_radio.jpg "wikilink") **NHK原町ラジオ放送所**（エヌエイチケイはらのまちラジオほうそうじょ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[宮城野区](../Page/宮城野区.md "wikilink")[東仙台](https://ja.wikipedia.org/wiki/東仙台 "wikilink")に置かれている[NHK仙台放送局](../Page/NHK仙台放送局.md "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。

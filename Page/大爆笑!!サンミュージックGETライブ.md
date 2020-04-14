@@ -1,4 +1,4 @@
-> この記事は[!!GET](https://ja.wikipedia.org/wiki/!!GET)から翻訳されています。
+> この記事は[大爆笑!!サンミュージックGETライブ](https://ja.wikipedia.org/wiki/大爆笑!!サンミュージックGETライブ)から翻訳されています。
 
 
 『**大爆笑\!\!サンミュージックGETライブ**』（だいばくしょうサンミュージックゲットライブ）は、[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")で2005年3月から放送している[お笑い番組](../Page/お笑い番組.md "wikilink")。[下北沢](../Page/下北沢.md "wikilink")で開催されている[サンミュージックGETライブ](https://ja.wikipedia.org/wiki/サンミュージックGETライブ "wikilink")の[中継と企画コーナーの二部構成](../Page/中継放送.md "wikilink")。出演は[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")所属の[お笑い芸人](../Page/お笑いタレント.md "wikilink")。番組ナビゲーターとして[カンニング竹山がレギュラー出演している](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")。

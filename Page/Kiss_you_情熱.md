@@ -1,4 +1,4 @@
-> この記事は[Kiss you ](https://ja.wikipedia.org/wiki/Kiss_you_)から翻訳されています。
+> この記事は[Kiss you 情熱](https://ja.wikipedia.org/wiki/Kiss_you_情熱)から翻訳されています。
 
 
 「**Kiss you 情熱**」（キス・ユー・じょうねつ）は、日本の女性歌手、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の5枚目のシングル。ソロデビューからずっと楽曲を手がけてきた[河村隆一](../Page/河村隆一.md "wikilink")のプロデュースを離れた作品。本作よりレーベルが[SONIC GROOVEとなった](../Page/SONIC_GROOVE.md "wikilink")。

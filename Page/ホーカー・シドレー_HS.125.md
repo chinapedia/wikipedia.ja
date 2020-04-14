@@ -1,4 +1,4 @@
-> この記事は[ HS.125](https://ja.wikipedia.org/wiki/_HS.125)から翻訳されています。
+> この記事は[ホーカー・シドレー HS.125](https://ja.wikipedia.org/wiki/ホーカー・シドレー_HS.125)から翻訳されています。
 
 
 [Dominie.xs739.arp.jpg](https://ja.wikipedia.org/wiki/File:Dominie.xs739.arp.jpg "fig:Dominie.xs739.arp.jpg") **ホーカー・シドレー HS.125** (**Hawker Siddeley HS.125**) は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の航空機メーカー、[デ・ハビランド社が開発したジェット](../Page/デ・ハビランド・エアクラフト.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")。

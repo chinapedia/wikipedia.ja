@@ -39,4 +39,8 @@
   - 『[affection](https://ja.wikipedia.org/wiki/affection "wikilink")』
   - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ COLOR OF SOUL](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004143)
+
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:渡辺なつみが制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺なつみが制作した楽曲 "wikilink") [Category:渡辺未来が制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺未来が制作した楽曲 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")

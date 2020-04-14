@@ -1,4 +1,4 @@
-> この記事は[VIDEO GVER](https://ja.wikipedia.org/wiki/VIDEO_GVER)から翻訳されています。
+> この記事は[VIDEO G∞VER](https://ja.wikipedia.org/wiki/VIDEO_G∞VER)から翻訳されています。
 
 
 『**VIDEO G∞VER**』（ビデオ グーヴァー）は[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")[DVD](../Page/DVD.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[前橋FM送信所](https://ja.wikipedia.org/wiki/前橋FM送信所)から翻訳されています。
 
 
 **前橋FM送信所**（まえばしエフエムそうしんじょ）は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")[吉井町にある](../Page/吉井町_\(群馬県\).md "wikilink")[FMラジオ](../Page/超短波.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。
@@ -44,15 +44,35 @@
 <td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+### 廃止された放送局
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送局名</p></th>
+<th><p>コールサイン</p></th>
+<th><p>周波数</p></th>
+<th><p>空中線電力</p></th>
+<th><p>実効輻射電力</p></th>
+<th><p>放送対象地域</p></th>
+<th><p>放送区域内世帯数</p></th>
+<th><p>放送終了日</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/放送大学" title="wikilink">放送大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/放送大学_(基幹放送)#廃局あるいは編成変更となった過去の放送波" title="wikilink">放送大学</a></p></td>
 <td><p>JOUD-FM</p></td>
 <td><p>78.8MHz[6]</p></td>
+<td><p>1kW</p></td>
 <td><p>5.4kW</p></td>
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a><br />
 （授業実施予定地域）</p></td>
-<td></td>
-<td></td>
+<td><p>不明</p></td>
+<td><p>2018年9月30日</p></td>
 </tr>
 </tbody>
 </table>

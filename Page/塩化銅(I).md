@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[塩化銅\(I\)](https://ja.wikipedia.org/wiki/塩化銅\(I\))から翻訳されています。
 
 
 **塩化銅(I)**（えんかどう(I)、）は、1価の[銅](../Page/銅.md "wikilink")と[塩素](../Page/塩素.md "wikilink")とで構成され、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")CuClで表される[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")である。白色固体でほとんど水に溶けないが、空気酸化により緑色固体の[塩化銅(II)](https://ja.wikipedia.org/wiki/塩化銅\(II\) "wikilink")が生成する。[ルイス酸](https://ja.wikipedia.org/wiki/ルイス酸 "wikilink")の一種であり、[アンモニア](../Page/アンモニア.md "wikilink")や[塩化物イオン](https://ja.wikipedia.org/wiki/塩化物イオン "wikilink")などとは水溶性の[錯体](../Page/錯体.md "wikilink")を形成する。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[毒物及び劇物取締法](https://ja.wikipedia.org/wiki/毒物及び劇物取締法 "wikilink")により劇物に指定されている。

@@ -1,4 +1,4 @@
-> この記事は[OVER \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/OVER_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
+> この記事は[OVER \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/OVER_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
 「**OVER**」（オーヴァー）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2枚目のシングル。また、インディーズ版も本項で記述する。

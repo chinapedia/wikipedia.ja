@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[一関テレビ・FM中継局](https://ja.wikipedia.org/wiki/一関テレビ・FM中継局)から翻訳されています。
 
 
 **一関テレビ・FM中継局**（いちのせきテレビ・エフエムちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[西磐井郡](../Page/西磐井郡.md "wikilink")[平泉町](https://ja.wikipedia.org/wiki/平泉町 "wikilink")にある[テレビ](../Page/テレビ.md "wikilink")および[FMラジオの](../Page/超短波放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。岩手県中南部の広範囲に電波を発射している。

@@ -1,4 +1,4 @@
-> この記事は[Mt.](https://ja.wikipedia.org/wiki/Mt.)から翻訳されています。
+> この記事は[Mt.乗鞍](https://ja.wikipedia.org/wiki/Mt.乗鞍)から翻訳されています。
 
 
 **Mt.乗鞍**（マウントのりくら）は、[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")にある[スキー場](../Page/スキー場.md "wikilink")。

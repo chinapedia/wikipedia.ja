@@ -1,4 +1,4 @@
-> この記事は[DASH2](https://ja.wikipedia.org/wiki/DASH2)から翻訳されています。
+> この記事は[ロックマンDASH2](https://ja.wikipedia.org/wiki/ロックマンDASH2)から翻訳されています。
 
 
 『**ロックマンDASH2 エピソード2 大いなる遺産**』は、[カプコン](../Page/カプコン.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に発売された[プレイステーション向けの](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

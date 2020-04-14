@@ -1,4 +1,4 @@
-> この記事は[5CDBOX](https://ja.wikipedia.org/wiki/5CDBOX)から翻訳されています。
+> この記事は[フィンガー5コンプリートCDBOX](https://ja.wikipedia.org/wiki/フィンガー5コンプリートCDBOX)から翻訳されています。
 
 
 『**フィンガー5 コンプリート CD BOX**』（フィンガーファイブ コンプリート シーディーボックス、**FINGER5 COMPLETE CD BOX**）は、日本の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ・[フィンガー5](../Page/フィンガー5.md "wikilink")の全音源190曲を収録した[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")である。9枚組。[2002年](../Page/2002年.md "wikilink")3月、ファンの呼びかけにより、フィンガー5全音源復刻盤実現に向けての活動が開始され、[インディーズ](../Page/インディーズ.md "wikilink")系レコード会社[ウルトラ・ヴァイヴ](https://ja.wikipedia.org/wiki/ウルトラ・ヴァイヴ "wikilink")から、同年11月商品化決定。翌[2003年](../Page/2003年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")リリースされた。[2007年](../Page/2007年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")[リイシュー](https://ja.wikipedia.org/wiki/リイシュー "wikilink")された。

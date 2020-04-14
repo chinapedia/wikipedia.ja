@@ -1,4 +1,4 @@
-> この記事は[NOW!](https://ja.wikipedia.org/wiki/NOW!)から翻訳されています。
+> この記事は[ぎんざNOW!](https://ja.wikipedia.org/wiki/ぎんざNOW!)から翻訳されています。
 
 
 『**ぎんざNOW\!**』（ぎんざナウ）は、[1972年](../Page/1972年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1979年](../Page/1979年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[TBSテレビ](../Page/TBSテレビ.md "wikilink")（以下、TBS）で[生放送](../Page/生放送.md "wikilink")された、素人参加型の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。司会の[せんだみつお](../Page/せんだみつお.md "wikilink")が大人気となったほか、後に著名となったお笑いタレントやミュージシャンが無名・素人時代に度々出演していたことでも知られている。

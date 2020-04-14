@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・キミーラ](https://ja.wikipedia.org/wiki/TVR・キミーラ)から翻訳されています。
 
 
 **キミーラ**（*Chimaera* ）とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[TVR](../Page/TVR.md "wikilink")が発売していたオープン2シーター[クーペ](../Page/クーペ.md "wikilink")のこと。

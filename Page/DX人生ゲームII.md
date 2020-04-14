@@ -1,4 +1,4 @@
-> この記事は[DXII](https://ja.wikipedia.org/wiki/DXII)から翻訳されています。
+> この記事は[DX人生ゲームII](https://ja.wikipedia.org/wiki/DX人生ゲームII)から翻訳されています。
 
 
 **DX人生ゲームII**（デラックスじんせい―ツー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用ソフト。『[DX人生ゲーム](../Page/DX人生ゲーム.md "wikilink")』の続編。今作は[プレイステーション用も同時発売となった](../Page/PlayStation_\(ゲーム機\).md "wikilink")。なお、本作までは実際の開発を[KIDが担当しており](../Page/KID_\(ゲームブランド\).md "wikilink")、次作「[DX人生ゲームIII](https://ja.wikipedia.org/wiki/DX人生ゲームIII "wikilink")」以降の作品は制作スタッフがほぼ一新されている。なお本作の開発を担当したKIDは翌年に「[ゲームで青春](https://ja.wikipedia.org/wiki/ゲームで青春 "wikilink")」という本作に近いシステムのボードゲームを発売している。

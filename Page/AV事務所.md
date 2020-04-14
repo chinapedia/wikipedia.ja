@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[AV事務所](https://ja.wikipedia.org/wiki/AV事務所)から翻訳されています。
 
 
 **AV事務所**（エーブイじむしょ）とは、[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")(AV)に出演する[AV女優](../Page/AV女優.md "wikilink")をマネージメントする[芸能事務所](../Page/芸能事務所.md "wikilink")のことである。AVプロダクションとも記述される。[AVメーカーにAV女優を売り込み](../Page/アダルトビデオメーカー.md "wikilink")、[出演料を折半する](../Page/ギャランティー.md "wikilink")。混同されやすいが[制作販売業であるAVメーカーとは異なる](../Page/アダルトビデオメーカー.md "wikilink")。

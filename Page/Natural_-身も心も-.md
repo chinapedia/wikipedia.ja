@@ -1,4 +1,4 @@
-> この記事は[Natural --](https://ja.wikipedia.org/wiki/Natural_--)から翻訳されています。
+> この記事は[Natural -身も心も-](https://ja.wikipedia.org/wiki/Natural_-身も心も-)から翻訳されています。
 
 
 『**Natural -身も心も-**』（ナチュラル みもこころも）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に[フェアリーテールより発売された](../Page/フェアリーテール_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")で、[Naturalシリーズ](../Page/Naturalシリーズ.md "wikilink")第1作。及び、それを原作として発売された[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")や[小説](../Page/小説.md "wikilink")。

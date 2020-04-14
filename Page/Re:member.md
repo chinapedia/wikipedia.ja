@@ -63,6 +63,6 @@
 </tbody>
 </table>
 
-[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:NARUTO_-ナルト-のアニメソング](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト-のアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:NARUTO_-ナルト-のアニメソング](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト-のアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
 
 1.  [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送分

@@ -1,4 +1,4 @@
-> この記事は[RUNRUNRUN](https://ja.wikipedia.org/wiki/RUNRUNRUN)から翻訳されています。
+> この記事は[RUN☆RUN☆RUN](https://ja.wikipedia.org/wiki/RUN☆RUN☆RUN)から翻訳されています。
 
 
 「**RUN☆RUN☆RUN**」（ランランラン）は、[HIGH and MIGHTY COLORメジャー](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")3枚目のシングル。
@@ -33,7 +33,7 @@
 
 ## 外部リンク
 
-  - [RUN☆RUN☆RUN](http://www.sonymusic.co.jp/artist/HandMC/discography/SECL-204) - ソニーミュージック
+  - [RUN☆RUN☆RUN](https://www.sonymusic.co.jp/artist/HandMC/discography/SECL-204) - ソニーミュージック
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 

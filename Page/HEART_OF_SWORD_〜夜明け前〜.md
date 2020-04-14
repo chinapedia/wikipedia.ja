@@ -1,4 +1,4 @@
-> この記事は[HEART OF SWORD ](https://ja.wikipedia.org/wiki/HEART_OF_SWORD_)から翻訳されています。
+> この記事は[HEART OF SWORD 〜夜明け前〜](https://ja.wikipedia.org/wiki/HEART_OF_SWORD_〜夜明け前〜)から翻訳されています。
 
 
 「**HEART OF SWORD 〜夜明け前〜**」（ハート・オブ・ソード よあけまえ）は、[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。

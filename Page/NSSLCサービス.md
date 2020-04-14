@@ -1,4 +1,4 @@
-> この記事は[NSSLC](https://ja.wikipedia.org/wiki/NSSLC)から翻訳されています。
+> この記事は[NSSLCサービス](https://ja.wikipedia.org/wiki/NSSLCサービス)から翻訳されています。
 
 
 **NSSLCサービス株式会社**（）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、日鉄ソリューションズグループ傘下の[ITサービス](https://ja.wikipedia.org/wiki/ITサービス "wikilink")会社である。

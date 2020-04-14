@@ -1,4 +1,4 @@
-> この記事は[JOINT \(RIP SLYME\)](https://ja.wikipedia.org/wiki/JOINT_\(RIP_SLYME\))から翻訳されています。
+> この記事は[JOINT \(RIP SLYMEの曲\)](https://ja.wikipedia.org/wiki/JOINT_\(RIP_SLYMEの曲\))から翻訳されています。
 
 
 「**JOINT**」（ジョイント）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")発売。

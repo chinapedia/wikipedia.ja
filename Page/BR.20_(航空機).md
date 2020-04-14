@@ -1,4 +1,4 @@
-> この記事は[BR.20 \(\)](https://ja.wikipedia.org/wiki/BR.20_\(\))から翻訳されています。
+> この記事は[BR.20 \(航空機\)](https://ja.wikipedia.org/wiki/BR.20_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=フィアット BR.20 | 画像=<File:BR.20M> 242 Squadriglia Colori.jpg | キャプション=第242飛行隊のBR.20 | 用途=爆撃機 | 分類= | 設計者=チェレスティーノ・ロザテッリ | 製造者=[フィアット](../Page/フィアット.md "wikilink") | 運用者=

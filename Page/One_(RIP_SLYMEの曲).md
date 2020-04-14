@@ -1,4 +1,4 @@
-> この記事は[One \(RIP SLYME\)](https://ja.wikipedia.org/wiki/One_\(RIP_SLYME\))から翻訳されています。
+> この記事は[One \(RIP SLYMEの曲\)](https://ja.wikipedia.org/wiki/One_\(RIP_SLYMEの曲\))から翻訳されています。
 
 
 「**One**」（ワン）は、[RIP SLYMEの楽曲で](../Page/RIP_SLYME.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に発売された3枚目の[シングル](../Page/シングル.md "wikilink")。

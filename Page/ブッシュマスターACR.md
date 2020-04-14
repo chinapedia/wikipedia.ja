@@ -1,4 +1,4 @@
-> この記事は[ACR](https://ja.wikipedia.org/wiki/ACR)から翻訳されています。
+> この記事は[ブッシュマスターACR](https://ja.wikipedia.org/wiki/ブッシュマスターACR)から翻訳されています。
 
 
 **ブッシュマスター ACR**（, 略称：**ACR**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[メイン州](../Page/メイン州.md "wikilink")の[ブッシュマスター社](https://ja.wikipedia.org/wiki/:en:Bushmaster_Firearms_International "wikilink")（Bushmaster）が製造、販売する[アサルトライフル](../Page/アサルトライフル.md "wikilink")。銃のカスタムパーツを製造していたアメリカ合衆国[コロラド州](../Page/コロラド州.md "wikilink")の[マグプル](https://ja.wikipedia.org/wiki/マグプル "wikilink")社が[2007年](../Page/2007年.md "wikilink")のフロリダ・ショットショーで**MASADA**（Masada Adaptive Combat Weapon System。また、MASADAは[イスラエル](../Page/イスラエル.md "wikilink")の[マサダ](../Page/マサダ.md "wikilink")要塞に由来する）として発表した。

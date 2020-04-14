@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マッカビ・ハイファFC](https://ja.wikipedia.org/wiki/マッカビ・ハイファFC)から翻訳されています。
 
 
 **マッカビ・ハイファFC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")の都市[ハイファ](../Page/ハイファ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

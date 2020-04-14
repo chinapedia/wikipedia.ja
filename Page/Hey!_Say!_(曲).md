@@ -1,4 +1,4 @@
-> この記事は[Hey! Say! \(\)](https://ja.wikipedia.org/wiki/Hey!_Say!_\(\))から翻訳されています。
+> この記事は[Hey! Say! \(曲\)](https://ja.wikipedia.org/wiki/Hey!_Say!_\(曲\))から翻訳されています。
 
 
 「**Hey\! Say\!**」（ヘイ・セイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ、[Hey\! Say\! 7の](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP#Hey!_Say!_7_\(期間限定ユニット\) "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")発売。発売元は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Sweet memory](https://ja.wikipedia.org/wiki/Sweet_memory)から翻訳されています。
+> この記事は[Sweet memory〜エレカシ青春セレクション〜](https://ja.wikipedia.org/wiki/Sweet_memory〜エレカシ青春セレクション〜)から翻訳されています。
 
 
 **sweet memory〜エレカシ青春セレクション〜**（スイートメモリー エレカシせいしゅんセレクション）は[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

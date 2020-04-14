@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK小坂ラジオ中継局](https://ja.wikipedia.org/wiki/NHK小坂ラジオ中継局)から翻訳されています。
 
 
 **NHK小坂ラジオ中継局**（エヌエイチケイこさかラジオちゅうけいきょく）は、[秋田県](../Page/秋田県.md "wikilink")[鹿角郡](../Page/鹿角郡.md "wikilink")[小坂町](https://ja.wikipedia.org/wiki/小坂町 "wikilink")にある[NHK秋田放送局](../Page/NHK秋田放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")。正式な名称は、放送局としてはNHK小坂放送局、送信施設としては小坂ラジオ中継放送所である。 [NHK_kosaka_radio_station1.JPG](https://ja.wikipedia.org/wiki/File:NHK_kosaka_radio_station1.JPG "fig:NHK_kosaka_radio_station1.JPG")

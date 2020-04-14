@@ -1,4 +1,4 @@
-> この記事は[The Intergalactic Collection ](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_)から翻訳されています。
+> この記事は[The Intergalactic Collection 〜ギャラコレ〜](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_〜ギャラコレ〜)から翻訳されています。
 
 
 『'''The Intergalactic Collection 〜ギャラコレ〜 '''』（ジ・インターギャラクティック・コレクション）は、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。[2002年](../Page/2002年.md "wikilink")にグループを脱退した[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[LISA在籍期間に発表した楽曲により構成されている](../Page/LISA_\(歌手\).md "wikilink")。

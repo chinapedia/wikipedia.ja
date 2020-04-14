@@ -1,7 +1,7 @@
 > この記事は[Do FIXER](https://ja.wikipedia.org/wiki/Do_FIXER)から翻訳されています。
 
 
-**Do FIXER**（ドゥ・フィクサー）は、[闘龍門](../Page/闘龍門.md "wikilink")、[DRAGON GATEに存在した](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[ヒールユニット](../Page/ヒール_\(プロレス\).md "wikilink")。
+**Do FIXER**（ドゥ・フィクサー）は、[闘龍門](../Page/闘龍門.md "wikilink")、[DRAGON GATEに存在した](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[ヒール](../Page/ヒール_\(プロレス\).md "wikilink")、[反体制](https://ja.wikipedia.org/wiki/反体制 "wikilink")ユニット。
 
 ## 結成までの経緯
 

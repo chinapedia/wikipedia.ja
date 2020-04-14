@@ -1,4 +1,4 @@
-> この記事は[ODS](https://ja.wikipedia.org/wiki/ODS)から翻訳されています。
+> この記事は[ODSカラム](https://ja.wikipedia.org/wiki/ODSカラム)から翻訳されています。
 
 
 **ODSカラム** とは、[高速液体クロマトグラフィー](https://ja.wikipedia.org/wiki/高速液体クロマトグラフィー "wikilink") (HPLC) 分析に用いる[カラム](../Page/カラム.md "wikilink")の一種で、ODS ＝オクタデシルシリル(**O**cta **D**ecyl **S**ilyl) 基 (C<sub>18</sub>H<sub>37</sub>Si) で表面が修飾された化学結合型多孔性球状[シリカゲル](https://ja.wikipedia.org/wiki/シリカゲル "wikilink")が固定相として充填されているタイプのもの。C18カラムとも呼ぶ。[逆相クロマトグラフィーに用いられる](https://ja.wikipedia.org/wiki/高速液体クロマトグラフィー#逆相_\(reversed_phase\)_クロマトグラフィー "wikilink")。化合物が持つ疎水性相互作用の違いによって分離できるため、各種HPLCカラムのうちでも高い汎用性を持ち、分析化学の領域で広く用いられる。

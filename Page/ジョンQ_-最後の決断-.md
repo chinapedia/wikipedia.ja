@@ -1,4 +1,4 @@
-> この記事は[Q --](https://ja.wikipedia.org/wiki/Q_--)から翻訳されています。
+> この記事は[ジョンQ -最後の決断-](https://ja.wikipedia.org/wiki/ジョンQ_-最後の決断-)から翻訳されています。
 
 
 『**ジョンQ -最後の決断-**』（じょんきゅう さいごのけつだん、原題: *John Q*）は、[米国で](../Page/アメリカ合衆国の映画.md "wikilink")[2002年に製作された](https://ja.wikipedia.org/wiki/2002年の映画 "wikilink")[映画](../Page/映画.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での公開は2002年11月23日。

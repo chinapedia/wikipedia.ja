@@ -1,4 +1,4 @@
-> この記事は[AI](https://ja.wikipedia.org/wiki/AI)から翻訳されています。
+> この記事は[AI完全](https://ja.wikipedia.org/wiki/AI完全)から翻訳されています。
 
 
 **AI完全**（[英](../Page/英語.md "wikilink"): **AI-complete**）とは、[人工知能](../Page/人工知能.md "wikilink")のテーマの中でも最も困難なものを指す学術的でない用語である。AI完全とされる計算問題を解くことは人工知能の中心的課題を解決するのと同義であり、人間と同程度に知的なコンピュータを生み出すことになる。この用語は[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")の[NP完全問題](../Page/NP完全問題.md "wikilink")などのアナロジーであり、計算複雑性理論における「完全性」とは、その[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")で最も難しい問題を指す。1988年、John Mallery はこの用語を生み出したのが Fanya S. Montalvo であると述べた。初期の用例としては、1987年に Erik Mueller の学位論文で使われ、1991年には[エリック・レイモンド](../Page/エリック・レイモンド.md "wikilink")の[ジャーゴンファイル](../Page/ジャーゴンファイル.md "wikilink")に収録されている。

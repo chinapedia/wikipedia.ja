@@ -1,4 +1,4 @@
-> この記事は[Let go \(m-flo\)](https://ja.wikipedia.org/wiki/Let_go_\(m-flo\))から翻訳されています。
+> この記事は[Let go \(m-floの曲\)](https://ja.wikipedia.org/wiki/Let_go_\(m-floの曲\))から翻訳されています。
 
 
 『**let go**』（レット・ゴー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の17th[シングル](../Page/シングル.md "wikilink")（m-flo loves [YOSHIKA](../Page/YOSHIKA.md "wikilink") 名義）。[2004年](../Page/2004年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")発売。

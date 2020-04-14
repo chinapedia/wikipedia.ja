@@ -1,4 +1,4 @@
-> この記事は[KissKiss ](https://ja.wikipedia.org/wiki/KissKiss_)から翻訳されています。
+> この記事は[Kiss×Kiss 星鈴学園](https://ja.wikipedia.org/wiki/Kiss×Kiss_星鈴学園)から翻訳されています。
 
 
 『**Kiss×Kiss 星鈴学園**』（キスキスせいれいがくえん）は、[八神千歳](../Page/八神千歳.md "wikilink")の漫画作品[キス・キス](../Page/キス・キス.md "wikilink")を題材とした、学園[恋愛シミュレーション](https://ja.wikipedia.org/wiki/恋愛シミュレーション "wikilink")ゲームである。 [2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用ソフトとして[バンダイ](../Page/バンダイ.md "wikilink")から発売された。

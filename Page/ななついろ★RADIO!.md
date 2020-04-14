@@ -1,4 +1,4 @@
-> この記事は[RADIO!](https://ja.wikipedia.org/wiki/RADIO!)から翻訳されています。
+> この記事は[ななついろ★RADIO!](https://ja.wikipedia.org/wiki/ななついろ★RADIO!)から翻訳されています。
 
 
 『'''ななついろ★RADIO\! '''』（ななついろラジオ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

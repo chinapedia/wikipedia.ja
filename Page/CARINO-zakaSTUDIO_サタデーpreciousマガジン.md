@@ -1,4 +1,4 @@
-> この記事は[CARINO-zakaSTUDIO precious](https://ja.wikipedia.org/wiki/CARINO-zakaSTUDIO_precious)から翻訳されています。
+> この記事は[CARINO-zakaSTUDIO サタデーpreciousマガジン](https://ja.wikipedia.org/wiki/CARINO-zakaSTUDIO_サタデーpreciousマガジン)から翻訳されています。
 
 
 **CARINO-zakaSTUDIO サタデーpreciousマガジン**（かりーのざかすたじお さたでーぷれしゃすまがじん）は、[RKKラジオで](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")の19:30 - 21:00（[JST](../Page/日本標準時.md "wikilink")）まで放送していたラジオ番組である。

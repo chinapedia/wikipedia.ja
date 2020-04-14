@@ -1,4 +1,4 @@
-> この記事は[MGM-52 \(\)](https://ja.wikipedia.org/wiki/MGM-52_\(\))から翻訳されています。
+> この記事は[MGM-52 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-52_\(ミサイル\))から翻訳されています。
 
 
 **MGM-52 ランス**（）は、[熱核弾頭および通常](../Page/水素爆弾.md "wikilink")[弾頭](../Page/弾頭.md "wikilink")による[火力支援](https://ja.wikipedia.org/wiki/火力支援 "wikilink")に用いられる[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の移動式[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink")・システムである。ランスは、[1973年](../Page/1973年.md "wikilink")から[MGR-1 オネスト・ジョン](../Page/MGR-1_\(ロケット\).md "wikilink")・システムおよび[MGM-29 サージェントの後継を務めたが](../Page/MGM-29_\(ミサイル\).md "wikilink")、[冷戦](../Page/冷戦.md "wikilink")終結後の[1992年](../Page/1992年.md "wikilink")に速やかに退役した。退役後、余剰となったロケットは、対ミサイル・システムの目標として使用されるために一部廃棄されずに保有され続けた。

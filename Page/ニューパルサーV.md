@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ニューパルサーV](https://ja.wikipedia.org/wiki/ニューパルサーV)から翻訳されています。
 
 
 **ニューパルサーV**（NEW PULSAR V）は、[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")に[山佐](../Page/山佐.md "wikilink")から発売された[パチスロ](../Page/パチスロ.md "wikilink")（[5号機](../Page/5号機_\(パチスロ\).md "wikilink")）。山佐の5号機としては3機種目（[沖スロ](../Page/沖スロ.md "wikilink")を除く）となる。[保通協に登録された型式名は](../Page/保安通信協会.md "wikilink")**ニューパルサーV-G**。

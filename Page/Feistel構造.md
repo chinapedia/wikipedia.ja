@@ -1,4 +1,4 @@
-> この記事は[Feistel](https://ja.wikipedia.org/wiki/Feistel)から翻訳されています。
+> この記事は[Feistel構造](https://ja.wikipedia.org/wiki/Feistel構造)から翻訳されています。
 
 
 **ファイステル構造**（ファイステルこうぞう、）は、[ブロック暗号](../Page/ブロック暗号.md "wikilink")の構成法の一種である。ほとんどのブロック暗号は、実装コストを効率化するために同一のラウンド関数を繰り返す繰り返し暗号になっており、ファイステル構造は繰り返し暗号の代表的な構成法である。他の構成としては[SPN構造](https://ja.wikipedia.org/wiki/SPN構造 "wikilink")がある。

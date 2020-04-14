@@ -1,4 +1,4 @@
-> この記事は[NHKTV ](https://ja.wikipedia.org/wiki/NHKTV_)から翻訳されています。
+> この記事は[NHKワールドTV 番組一覧](https://ja.wikipedia.org/wiki/NHKワールドTV_番組一覧)から翻訳されています。
 
 
 この項目では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)のテレビ国際放送のうち、「[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")」で放送される番組を紹介する。[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")で放送される番組については[NHKワールドプレミアム 番組一覧を参照](../Page/NHKワールドプレミアム_番組一覧.md "wikilink")。

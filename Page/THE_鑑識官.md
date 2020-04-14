@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 鑑識官](https://ja.wikipedia.org/wiki/THE_鑑識官)から翻訳されています。
 
 
 『**THE 鑑識官**』（ザ・かんしきかん）は、[トムキャットシステム](https://ja.wikipedia.org/wiki/トムキャットシステム "wikilink")が開発し、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より発売された、[SIMPLE 2000シリーズ第](../Page/SIMPLEシリーズ.md "wikilink")70作目の推理[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。同社より発売の『[THE 推理](../Page/THE_推理.md "wikilink")』、『[THE 裁判](https://ja.wikipedia.org/wiki/THE_裁判 "wikilink")』、『[THE 爆弾処理班](https://ja.wikipedia.org/wiki/THE_爆弾処理班 "wikilink")』などと世界観を共有している。

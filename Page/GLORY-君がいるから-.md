@@ -1,4 +1,4 @@
-> この記事は[GLORY--](https://ja.wikipedia.org/wiki/GLORY--)から翻訳されています。
+> この記事は[GLORY-君がいるから-](https://ja.wikipedia.org/wiki/GLORY-君がいるから-)から翻訳されています。
 
 
 「**GLORY-君がいるから-**」（グローリー きみがいるから）は、[上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に[SONIC GROOVEより](../Page/SONIC_GROOVE.md "wikilink")[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。

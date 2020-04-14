@@ -1,4 +1,4 @@
-> この記事は[! \(Radio Edit\)](https://ja.wikipedia.org/wiki/!_\(Radio_Edit\))から翻訳されています。
+> この記事は[誰だ! \(Radio Edit\)](https://ja.wikipedia.org/wiki/誰だ!_\(Radio_Edit\))から翻訳されています。
 
 
 『**誰だ\! (Radio Edit)**』（だれだ - レディオ・エディット）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の7枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[GLAY ARENA TOUR 2000HEAVY GAUGEin SAITAMA SUPER ARENA](https://ja.wikipedia.org/wiki/GLAY_ARENA_TOUR_2000HEAVY_GAUGEin_SAITAMA_SUPER_ARENA)から翻訳されています。
+> この記事は[GLAY ARENA TOUR 2000“HEAVY GAUGE”in SAITAMA SUPER ARENA](https://ja.wikipedia.org/wiki/GLAY_ARENA_TOUR_2000“HEAVY_GAUGE”in_SAITAMA_SUPER_ARENA)から翻訳されています。
 
 
 『**GLAY ARENA TOUR 2000 “HEAVY GAUGE” in SAITAMA SUPER ARENA**』は[GLAY](../Page/GLAY.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")にリリースしたライブDVD。
@@ -31,7 +31,7 @@
 16. **[Will Be King](../Page/HEAVY_GAUGE_\(GLAYのアルバム\).md "wikilink")**
 17. **[WET DREAM](../Page/ONE_LOVE_\(GLAYのアルバム\).md "wikilink")**
 18. **[生きてく強さ](../Page/生きてく強さ.md "wikilink")**
-19. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+19. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 20. **[ACID HEAD](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
 
 **EXTRA DISC**
@@ -39,4 +39,4 @@
   - **トークセッション**
   - **「ひとひらの自由」 リハーサル映像**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2000年のコンサート](https://ja.wikipedia.org/wiki/Category:2000年のコンサート "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE](https://ja.wikipedia.org/wiki/ONE_PIECE)から翻訳されています。
+> この記事は[ONE PIECEの世界における年表](https://ja.wikipedia.org/wiki/ONE_PIECEの世界における年表)から翻訳されています。
 
 
 **ONE PIECEの世界における年表**（ワンピースのせかいにおけるねんぴょう）では、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』における架空の出来事を、[年表](../Page/年表.md "wikilink")形式に掲載する。

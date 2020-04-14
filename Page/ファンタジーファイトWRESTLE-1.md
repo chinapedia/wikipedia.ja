@@ -1,4 +1,4 @@
-> この記事は[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1)から翻訳されています。
+> この記事は[ファンタジーファイトWRESTLE-1](https://ja.wikipedia.org/wiki/ファンタジーファイトWRESTLE-1)から翻訳されています。
 
 
 **ファンタジーファイトWRESTLE-1**（ファンタジーファイト・レッスル-ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[興行](../Page/興行.md "wikilink")。

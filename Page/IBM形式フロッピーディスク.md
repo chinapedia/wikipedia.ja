@@ -1,4 +1,4 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[IBM形式フロッピーディスク](https://ja.wikipedia.org/wiki/IBM形式フロッピーディスク)から翻訳されています。
 
 
 **IBM形式フロッピーディスク**（フロッピーディスクにおける **IBMフォーマット**）とは、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")における[IBM](../Page/IBM.md "wikilink")方式の[論理フォーマット](../Page/フォーマット_\(ストレージ\).md "wikilink")。大別して以下がある。

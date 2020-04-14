@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[あした \(aikoの曲\)](https://ja.wikipedia.org/wiki/あした_\(aikoの曲\))から翻訳されています。
 
 
 『**あした**』は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャーデビューシングル。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から1998年7月17日に発売。

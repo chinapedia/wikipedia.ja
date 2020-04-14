@@ -1,4 +1,4 @@
-> この記事は[EV](https://ja.wikipedia.org/wiki/EV)から翻訳されています。
+> この記事は[プライムアースEVエナジー](https://ja.wikipedia.org/wiki/プライムアースEVエナジー)から翻訳されています。
 
 
 <div class="pathnavbox">

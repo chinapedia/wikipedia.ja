@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.マッスル](https://ja.wikipedia.org/wiki/Dr.マッスル)から翻訳されています。
 
 
 **Dr.マッスル**（ドクターマッスル）は、[DRAGON GATEに登場する](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[覆面レスラー](../Page/覆面レスラー.md "wikilink")。身長・体重についてはいっさい不明である。

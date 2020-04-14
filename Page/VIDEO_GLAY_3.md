@@ -1,7 +1,7 @@
 > この記事は[VIDEO GLAY 3](https://ja.wikipedia.org/wiki/VIDEO_GLAY_3)から翻訳されています。
 
 
-『**VIDEO GLAY 3**』（ビデオ・グレイ・スリー）は[GLAY](../Page/GLAY.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にリリースした3rdビデオ・クリップス。
+『**VIDEO GLAY 3**』（ビデオ・グレイ・スリー）は、[GLAY](../Page/GLAY.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にリリースした3枚目のビデオ・クリップス。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 VHS版は前年に発売されたベストアルバム『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』を模したパッケージとなっている。
 
-今までに[VHS](../Page/VHS.md "wikilink")の形態で発売された過去の作品は全てDVD化されているが、本作品のみDVD化されていない。
+それまでに[VHS](../Page/VHS.md "wikilink")の形態で発売された過去の作品は全てDVD化されているが、本作品のみDVD化されていない。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@ VHS版は前年に発売されたベストアルバム『[REVIEW-BEST OF GLAY](.
 3.  **[BELOVED](../Page/BELOVED_\(GLAYの曲\).md "wikilink")**
 4.  **[a Boy〜ずっと忘れない〜](https://ja.wikipedia.org/wiki/a_Boy〜ずっと忘れない〜 "wikilink")**
 5.  **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")**
-6.  **[RHAPSODY](../Page/BELOVED.md "wikilink")**
+6.  **[RHAPSODY](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 7.  **[HOWEVER](../Page/HOWEVER.md "wikilink")**
 8.  **[春を愛する人](../Page/春を愛する人.md "wikilink")**
       -

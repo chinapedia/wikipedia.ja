@@ -1,4 +1,4 @@
-> この記事は[SURE](https://ja.wikipedia.org/wiki/SURE)から翻訳されています。
+> この記事は[編集グループSURE](https://ja.wikipedia.org/wiki/編集グループSURE)から翻訳されています。
 
 
 **編集グループSURE**（へんしゅうぐるーぷしゅあ）は、京都に小さな工房を持つ編集グループ。正格には「編集グループ<SURE>」。SUREはScanning Urban Rhyme Editorsの略。 メンバーは[北沢街子](https://ja.wikipedia.org/wiki/北沢街子 "wikilink")（[画家](../Page/画家.md "wikilink")・[作家](../Page/作家.md "wikilink")）、[瀧口夕美](https://ja.wikipedia.org/wiki/瀧口夕美 "wikilink")（[編集者](../Page/編集者.md "wikilink")）など。

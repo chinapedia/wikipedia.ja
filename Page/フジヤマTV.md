@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[フジヤマTV](https://ja.wikipedia.org/wiki/フジヤマTV)から翻訳されています。
 
 
 **フジヤマTV**（フジヤマテレビ）は、[NHK静岡放送局](../Page/NHK静岡放送局.md "wikilink")が2006年4月から2011年2月まで[静岡県](../Page/静岡県.md "wikilink")向けに放送した[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")と、名古屋局管轄の東海・北陸の各放送局が金曜夜の[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")枠として設定していた『[金とく](../Page/金とく.md "wikilink")』の静岡バージョンといえる。

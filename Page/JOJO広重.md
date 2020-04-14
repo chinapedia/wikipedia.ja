@@ -1,4 +1,4 @@
-> この記事は[JOJO](https://ja.wikipedia.org/wiki/JOJO)から翻訳されています。
+> この記事は[JOJO広重](https://ja.wikipedia.org/wiki/JOJO広重)から翻訳されています。
 
 
 **JOJO広重**（ジョジョ ひろしげ、[1959年](../Page/1959年.md "wikilink")（昭和34年）[9月9日](../Page/9月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ノイズ](../Page/ノイズミュージック.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")\[1\]、[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[音楽評論家](../Page/音楽評論家.md "wikilink")、[スポーツカード](../Page/スポーツカード.md "wikilink")収集家、[実業家](../Page/実業家.md "wikilink")、[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")。本名、**廣重 嘉之**（ひろしげ よしゆき）。

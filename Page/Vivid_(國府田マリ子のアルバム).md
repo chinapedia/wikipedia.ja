@@ -1,4 +1,4 @@
-> この記事は[Vivid \(\)](https://ja.wikipedia.org/wiki/Vivid_\(\))から翻訳されています。
+> この記事は[Vivid \(國府田マリ子のアルバム\)](https://ja.wikipedia.org/wiki/Vivid_\(國府田マリ子のアルバム\))から翻訳されています。
 
 
 『**Vivid**』（ヴィヴィッド）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。

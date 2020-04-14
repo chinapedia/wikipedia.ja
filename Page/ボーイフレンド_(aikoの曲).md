@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[ボーイフレンド \(aikoの曲\)](https://ja.wikipedia.org/wiki/ボーイフレンド_\(aikoの曲\))から翻訳されています。
 
 
 「**ボーイフレンド**」は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算6枚目の[シングル](../Page/シングル.md "wikilink")。 [2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[9月20日](../Page/9月20日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
@@ -26,4 +26,4 @@
 
   - [ポニーキャニオンディスコグラフィ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200000001141&DSP_SKHKETSEQ=001)
 
-[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
+[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")

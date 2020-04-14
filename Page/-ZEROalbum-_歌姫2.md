@@ -1,4 +1,4 @@
-> この記事は[-ZEROalbum- 2](https://ja.wikipedia.org/wiki/-ZEROalbum-_2)から翻訳されています。
+> この記事は[-ZEROalbum- 歌姫2](https://ja.wikipedia.org/wiki/-ZEROalbum-_歌姫2)から翻訳されています。
 
 
 『**-ZEROalbum- 歌姫2**』（ゼロ・アルバム うたひめツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の2枚目の[カバー](../Page/カバー.md "wikilink")・アルバム。このアルバムは2002年3月20日に[キティMMEよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1093)。

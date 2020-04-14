@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[真・女神転生RPG](https://ja.wikipedia.org/wiki/真・女神転生RPG)から翻訳されています。
 
 
 『**真・女神転生RPG**』（しん・めがみてんせいRPG）は、[女神転生](../Page/女神転生.md "wikilink")シリーズを題材にした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）である。

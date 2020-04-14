@@ -1,4 +1,4 @@
-> この記事は[!base](https://ja.wikipedia.org/wiki/!base)から翻訳されています。
+> この記事は[爆劇!新base隊](https://ja.wikipedia.org/wiki/爆劇!新base隊)から翻訳されています。
 
 
 **爆劇\!新base隊**（ばくげき しんベースたい）とは、[2002年](../Page/2002年.md "wikilink")[6月](../Page/6月.md "wikilink")から[毎日放送](../Page/毎日放送.md "wikilink")で深夜に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。若手[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")芸人と[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")メンバーによる[新喜劇](https://ja.wikipedia.org/wiki/新喜劇 "wikilink")。

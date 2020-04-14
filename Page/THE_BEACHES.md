@@ -15,6 +15,7 @@
 ### シングル
 
   - POLICE & GIRLS & BOYS (2008年7月9日)
+  - Here Comes Summer Again (2016年12月25日)
 
 ### アルバム
 
@@ -26,6 +27,7 @@
 
   - POLICE & GIRLS & BOYS (2008年7月16日)
   - 魚ごっこ (2010年7月28日)
+  - Here Comes Summer Again (2016年12月25日)
 
 ### その他
 

@@ -1,4 +1,4 @@
-> この記事は[AG](https://ja.wikipedia.org/wiki/AG)から翻訳されています。
+> この記事は[AGマガジン](https://ja.wikipedia.org/wiki/AGマガジン)から翻訳されています。
 
 
 **AGマガジン**は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")が発行していた季刊の[アナログゲーム](../Page/アナログゲーム.md "wikilink")専門誌である。しかし、実際にはわずか2号で休刊したため、季刊誌としても成り立っているとはいいがたい。定価は2号とも880円。[ムック扱いである](../Page/ムック_\(出版\).md "wikilink")。

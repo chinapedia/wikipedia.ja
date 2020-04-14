@@ -1,4 +1,4 @@
-> この記事は[+LOVE LETTER](https://ja.wikipedia.org/wiki/+LOVE_LETTER)から翻訳されています。
+> この記事は[追憶+LOVE LETTER](https://ja.wikipedia.org/wiki/追憶+LOVE_LETTER)から翻訳されています。
 
 
 『**追憶+LOVE LETTER**』（ついおく ラブ・レター）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

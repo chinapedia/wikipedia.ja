@@ -1,4 +1,4 @@
-> この記事は[BOX ](https://ja.wikipedia.org/wiki/BOX_)から翻訳されています。
+> この記事は[キャラメルBOX やるきばこ](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ)から翻訳されています。
 
 
 『**キャラメルBOX やるきばこ**』 ( - ボックス - ) は、[キャラメルBOX](../Page/キャラメルBOX.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。**キャラメルBOX**によるファンディスク第1弾。

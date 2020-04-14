@@ -1,4 +1,4 @@
-> この記事は[RSK](https://ja.wikipedia.org/wiki/RSK)から翻訳されています。
+> この記事は[RSKニュース](https://ja.wikipedia.org/wiki/RSKニュース)から翻訳されています。
 
 
 『**RSKニュース**』は、[RSKテレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")で放送されている[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")向け[ローカルニュースの番組名](../Page/ニュース.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[9月](../Page/9月.md "wikilink")まで『**山陽TVニュース**』（さんようテレビニュース）の番組名で放送され、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より『**RSKニュース**』に改題されている\[1\]。

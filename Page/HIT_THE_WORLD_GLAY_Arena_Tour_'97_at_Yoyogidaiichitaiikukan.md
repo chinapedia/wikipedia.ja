@@ -21,8 +21,8 @@
 8.  **[Cynical](../Page/生きてく強さ.md "wikilink")**
 9.  **[週末のBaby talk](../Page/BEAT_out!.md "wikilink")**
 10. **[BELOVED](../Page/BELOVED_\(GLAYの曲\).md "wikilink")**
-11. **[HIT THE WORLD CHART\!](../Page/BELOVED.md "wikilink")**
-12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+11. **[HIT THE WORLD CHART\!](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
+12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 13. **[ACID HEAD](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
 14. **[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
 15. **[I'm yours](../Page/HOWEVER.md "wikilink")**
@@ -40,4 +40,4 @@
 
   - **LIVE PHOTO GALLERY**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:1997年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1997年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:1997年のコンサート](https://ja.wikipedia.org/wiki/Category:1997年のコンサート "wikilink") [Category:1997年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1997年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

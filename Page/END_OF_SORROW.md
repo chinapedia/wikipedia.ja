@@ -9,6 +9,8 @@
 
 前作に引き続きノンタイアップシングルでありながら、オリコン週間シングルチャートでは3作目となる首位獲得、40万枚以上のセールスを記録した。
 
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+
 ## 収録曲
 
 全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")

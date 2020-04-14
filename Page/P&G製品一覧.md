@@ -1,4 +1,4 @@
-> この記事は[P\&G](https://ja.wikipedia.org/wiki/P\&G)から翻訳されています。
+> この記事は[P\&G製品一覧](https://ja.wikipedia.org/wiki/P\&G製品一覧)から翻訳されています。
 
 
 これは日本国内においてP\&Gのブランドで現在製造している、または過去に製造された商品を列挙した一覧である。旧日本サンホーム、[第一工業製薬](../Page/第一工業製薬.md "wikilink")、旧丸見屋→[ミツワ石鹸](../Page/ミツワ石鹸.md "wikilink")、旭電化工業(現[ADEKA](../Page/ADEKA.md "wikilink"))、旧[日本ヴィックス](https://ja.wikipedia.org/wiki/日本ヴィックス "wikilink")、旧ファインケア→[ウエラジャパン](https://ja.wikipedia.org/wiki/ウエラジャパン "wikilink")、旧[ジレット](../Page/ジレット.md "wikilink")・ジャパン、[ブラウン](../Page/ブラウン.md "wikilink")・ジャパン、旧アイムス・ジャパン製品も含まれる。

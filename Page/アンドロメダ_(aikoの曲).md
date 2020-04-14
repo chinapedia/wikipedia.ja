@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[アンドロメダ \(aikoの曲\)](https://ja.wikipedia.org/wiki/アンドロメダ_\(aikoの曲\))から翻訳されています。
 
 
 『**アンドロメダ**』は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算13作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2003年8月6日に発売。

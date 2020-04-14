@@ -1,4 +1,4 @@
-> この記事は[Flow of Soul vol.1 TAKURO meets Vanessa-Mae](https://ja.wikipedia.org/wiki/Flow_of_Soul_vol.1_TAKURO_meets_Vanessa-Mae)から翻訳されています。
+> この記事は[Flow of Soul vol.1 〜TAKURO meets Vanessa-Mae〜](https://ja.wikipedia.org/wiki/Flow_of_Soul_vol.1_〜TAKURO_meets_Vanessa-Mae〜)から翻訳されています。
 
 
 **Flow of Soul vol.1 〜TAKURO meets Vanessa-Mae〜**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")の[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に発売したアルバムである。

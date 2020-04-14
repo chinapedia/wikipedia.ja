@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[個人授業II](https://ja.wikipedia.org/wiki/個人授業II)から翻訳されています。
 
 
 『**個人授業II**』（プライベートレッスン ツー）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")（4日深夜）より[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")（26日深夜）、毎週[木曜日](../Page/木曜日.md "wikilink")の0:55 - 1:25([JST](../Page/日本標準時.md "wikilink")、[水曜日](../Page/水曜日.md "wikilink")深夜)に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

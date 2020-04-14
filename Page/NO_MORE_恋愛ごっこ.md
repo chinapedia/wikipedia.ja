@@ -1,4 +1,4 @@
-> この記事は[NO MORE ](https://ja.wikipedia.org/wiki/NO_MORE_)から翻訳されています。
+> この記事は[NO MORE 恋愛ごっこ](https://ja.wikipedia.org/wiki/NO_MORE_恋愛ごっこ)から翻訳されています。
 
 
 「**NO MORE 恋愛ごっこ**」（ノー・モア れんあいごっこ）は、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")として[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")にキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）から発売された。

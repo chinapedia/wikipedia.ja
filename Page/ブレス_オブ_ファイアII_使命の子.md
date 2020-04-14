@@ -1,4 +1,4 @@
-> この記事は[  II ](https://ja.wikipedia.org/wiki/__II_)から翻訳されています。
+> この記事は[ブレス オブ ファイアII 使命の子](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアII_使命の子)から翻訳されています。
 
 
 『**ブレス オブ ファイアII 使命の子**』（ブレス オブ ファイア ツー しめいのこ）は[カプコン](../Page/カプコン.md "wikilink")から発売された[RPGである](../Page/コンピュータRPG.md "wikilink")\[1\]。[ブレス オブ ファイアシリーズの](../Page/ブレス_オブ_ファイア.md "wikilink")2作目。

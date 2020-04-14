@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT東日本関東病院](https://ja.wikipedia.org/wiki/NTT東日本関東病院)から翻訳されています。
 
 
 **NTT東日本関東病院**（エヌティティひがしにほんかんとうびょういん）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")で[東日本電信電話](../Page/東日本電信電話.md "wikilink")（NTT東日本）が運営する[企業立病院](https://ja.wikipedia.org/wiki/企業立病院 "wikilink")である。[1999年](../Page/1999年.md "wikilink")、それまでの**関東逓信病院**（かんとうていしんびょういん）から改称した。

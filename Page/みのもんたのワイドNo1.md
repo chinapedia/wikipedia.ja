@@ -1,4 +1,4 @@
-> この記事は[No1](https://ja.wikipedia.org/wiki/No1)から翻訳されています。
+> この記事は[みのもんたのワイドNo1](https://ja.wikipedia.org/wiki/みのもんたのワイドNo1)から翻訳されています。
 
 
 **みのもんたのワイドNo1** （みのもんたのナンバーワン）は、[1973年](../Page/1973年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1976年](../Page/1976年.md "wikilink")4月2日まで、[文化放送](../Page/文化放送.md "wikilink")で、月 - 金曜の夜の時間帯に放送されていたワイド番組。パーソナリティは、[みのもんた](../Page/みのもんた.md "wikilink")（当時[文化放送](../Page/文化放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）。

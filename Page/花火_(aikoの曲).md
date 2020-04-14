@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[花火 \(aikoの曲\)](https://ja.wikipedia.org/wiki/花火_\(aikoの曲\))から翻訳されています。
 
 
 「**花火**」（はなび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー3作目のシングル。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から1999年8月4日に発売。

@@ -1,4 +1,4 @@
-> この記事は[SEAMOA](https://ja.wikipedia.org/wiki/SEAMOA)から翻訳されています。
+> この記事は[SEAMOのA天狗ショープリーズ](https://ja.wikipedia.org/wiki/SEAMOのA天狗ショープリーズ)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -18,7 +18,7 @@
 
 2007年3月、番組終了。
 
-2007年4月から番組をリニューアル、[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（全国23局ネット）がスタートする（ただし、K-MIXでは放送されない）。
+2007年4月から番組をリニューアル、[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（全国23局ネット）がスタートする（ただし、K-MIXでは放送されない）。
 
 ## 主なコーナー
 

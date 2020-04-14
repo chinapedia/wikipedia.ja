@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[スター \(aikoの曲\)](https://ja.wikipedia.org/wiki/スター_\(aikoの曲\))から翻訳されています。
 
 
 『**スター**』は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算19作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2005年11月30日に発売。

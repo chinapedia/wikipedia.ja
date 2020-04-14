@@ -1,4 +1,4 @@
-> この記事は[BLUE \(\)](https://ja.wikipedia.org/wiki/BLUE_\(\))から翻訳されています。
+> この記事は[BLUE \(ゲーム\)](https://ja.wikipedia.org/wiki/BLUE_\(ゲーム\))から翻訳されています。
 
 
 『**BLUE**』（ブルー）は、[キャラメルBOX](../Page/キャラメルBOX.md "wikilink")より発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。同ブランドの処女作である。

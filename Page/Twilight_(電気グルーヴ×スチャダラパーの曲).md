@@ -1,4 +1,4 @@
-> この記事は[Twilight \(\)](https://ja.wikipedia.org/wiki/Twilight_\(\))から翻訳されています。
+> この記事は[Twilight \(電気グルーヴ×スチャダラパーの曲\)](https://ja.wikipedia.org/wiki/Twilight_\(電気グルーヴ×スチャダラパーの曲\))から翻訳されています。
 
 
 「'''Twilight '''」（トワイライト）は、日本の音楽グループである[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")×[スチャダラパー](../Page/スチャダラパー.md "wikilink")のシングル。

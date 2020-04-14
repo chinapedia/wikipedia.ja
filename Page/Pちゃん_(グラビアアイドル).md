@@ -1,4 +1,4 @@
-> この記事は[P \(\)](https://ja.wikipedia.org/wiki/P_\(\))から翻訳されています。
+> この記事は[Pちゃん \(グラビアアイドル\)](https://ja.wikipedia.org/wiki/Pちゃん_\(グラビアアイドル\))から翻訳されています。
 
 
 **Pちゃん**（ピーちゃん、[1988年](../Page/1988年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")、元[AV女優](../Page/AV女優.md "wikilink")。

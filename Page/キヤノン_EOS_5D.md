@@ -1,4 +1,4 @@
-> この記事は[ EOS 5D](https://ja.wikipedia.org/wiki/_EOS_5D)から翻訳されています。
+> この記事は[キヤノン EOS 5D](https://ja.wikipedia.org/wiki/キヤノン_EOS_5D)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:EOS-5D.jpg "wikilink") **キヤノン EOS 5D**は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が[2005年](../Page/2005年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発表したデジタル[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。上位機に[EOS 1Ds Mark II](https://ja.wikipedia.org/wiki/キヤノン_EOS_1Ds "wikilink")、[EOS 1D Mark III](https://ja.wikipedia.org/wiki/キヤノン_EOS_1D "wikilink")、下位機に[EOS 50Dがある](https://ja.wikipedia.org/wiki/キヤノン_EOS_10D "wikilink")。

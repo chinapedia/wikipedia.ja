@@ -1,4 +1,4 @@
-> この記事は[Rabin](https://ja.wikipedia.org/wiki/Rabin)から翻訳されています。
+> この記事は[Rabin暗号](https://ja.wikipedia.org/wiki/Rabin暗号)から翻訳されています。
 
 
 **Rabin暗号**（[:en:Rabin cryptosystem](https://ja.wikipedia.org/wiki/:en:Rabin_cryptosystem "wikilink")）とは、1979年に[マイケル・ラビン](../Page/マイケル・ラビン.md "wikilink")が発表した[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")である。[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")で解読することと[素因数分解](../Page/素因数分解.md "wikilink")問題を解くことが等価であることが証明された初の暗号である。

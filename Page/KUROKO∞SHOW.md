@@ -1,4 +1,4 @@
-> この記事は[KUROKOSHOW](https://ja.wikipedia.org/wiki/KUROKOSHOW)から翻訳されています。
+> この記事は[KUROKO∞SHOW](https://ja.wikipedia.org/wiki/KUROKO∞SHOW)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:kuroko_show.jpg "wikilink")

@@ -15,7 +15,7 @@
 2.  **[HAPPY SWING](../Page/SPEED_POP.md "wikilink")**
 3.  **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")**
 4.  **[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
-5.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+5.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 6.  **[More than Love](../Page/BEAT_out!.md "wikilink")**
 7.  **[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink")**
 8.  **[生きてく強さ](../Page/生きてく強さ.md "wikilink")**
@@ -47,4 +47,4 @@
         曲の間に「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」のパンクバージョンを挟んでいる。
 27. **ENDING**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2000年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2000年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:1999年のコンサート](https://ja.wikipedia.org/wiki/Category:1999年のコンサート "wikilink") [Category:2000年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2000年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

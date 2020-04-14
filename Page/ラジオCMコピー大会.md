@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[ラジオCMコピー大会](https://ja.wikipedia.org/wiki/ラジオCMコピー大会)から翻訳されています。
 
 
 **ラジオCMコピー大会**（ラジオシーエムコピーたいかい）は、[文化放送](../Page/文化放送.md "wikilink")と雑誌「[広告批評](https://ja.wikipedia.org/wiki/広告批評 "wikilink")」の主催で1984年から2006年まで開催されていた[ラジオCM](https://ja.wikipedia.org/wiki/ラジオCM "wikilink")の広告キャッチコピー大会。

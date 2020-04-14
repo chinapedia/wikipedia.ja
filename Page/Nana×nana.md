@@ -1,4 +1,4 @@
-> この記事は[Nananana](https://ja.wikipedia.org/wiki/Nananana)から翻訳されています。
+> この記事は[Nana×nana](https://ja.wikipedia.org/wiki/Nana×nana)から翻訳されています。
 
 
 **nana×nana**（なななな）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[七人のナナ](../Page/七人のナナ.md "wikilink")』で[7人に分裂したナナ達に声をあてていた](https://ja.wikipedia.org/wiki/七人のナナ#7人に分裂したナナ達と鈴木家の人々 "wikilink")[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")7人からなる[声優ユニット](../Page/声優ユニット.md "wikilink")。

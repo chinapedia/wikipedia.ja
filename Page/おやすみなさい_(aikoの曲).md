@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[おやすみなさい \(aikoの曲\)](https://ja.wikipedia.org/wiki/おやすみなさい_\(aikoの曲\))から翻訳されています。
 
 
 「**おやすみなさい**」は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算9作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2001年11月21日に発売。

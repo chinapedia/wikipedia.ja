@@ -1,4 +1,4 @@
-> この記事は[STOP MOTION \(\)](https://ja.wikipedia.org/wiki/STOP_MOTION_\(\))から翻訳されています。
+> この記事は[STOP MOTION \(大黒摩季の曲\)](https://ja.wikipedia.org/wiki/STOP_MOTION_\(大黒摩季の曲\))から翻訳されています。
 
 
 「**STOP MOTION**」（ストップ・モーション）は、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の1枚目のシングル。CDコードはBGDH-1026（B-Gram再発盤）。

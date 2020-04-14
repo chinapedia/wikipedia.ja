@@ -1,4 +1,4 @@
-> この記事は[TSK](https://ja.wikipedia.org/wiki/TSK)から翻訳されています。
+> この記事は[TSKスーパータイム](https://ja.wikipedia.org/wiki/TSKスーパータイム)から翻訳されています。
 
 
 『**TSKスーパータイム**』（ティーエスケイ スーパータイム）は、[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[山陰中央テレビで放送された夕方の](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[山陰地方](../Page/山陰地方.md "wikilink")ローカル扱い）。正式タイトルは『**FNN TSKスーパータイム→TSKスーパータイム FNN**』。

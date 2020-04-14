@@ -1,4 +1,4 @@
-> この記事は[SUPERTV](https://ja.wikipedia.org/wiki/SUPERTV)から翻訳されています。
+> この記事は[さんまのSUPERからくりTV](https://ja.wikipedia.org/wiki/さんまのSUPERからくりTV)から翻訳されています。
 
 
 『**さんまのSUPERからくりTV**』（さんまのスーパーからくりテレビ、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*Sanma's Karakuri-TV.*）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1992年](../Page/1992年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")まで毎週[日曜日](../Page/日曜日.md "wikilink")の19:00から放送されていた、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](../Page/司会.md "wikilink")を務める[明石家さんま](../Page/明石家さんま.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")を実施している。通称は『**からくりTV**』『**SUPERからくりTV**』。[新聞](../Page/新聞.md "wikilink")の[番組表では](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")『**さんまのスーパーからくりTV**』又は『**さんまのからくりTV**』と表記されていた。

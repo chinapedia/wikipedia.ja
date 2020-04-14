@@ -1,4 +1,4 @@
-> この記事は[GENJI \(\)](https://ja.wikipedia.org/wiki/GENJI_\(\))から翻訳されています。
+> この記事は[光GENJI \(アルバム\)](https://ja.wikipedia.org/wiki/光GENJI_\(アルバム\))から翻訳されています。
 
 
 『**光GENJI**』（ひかるゲンジ）は、[光GENJI](../Page/光GENJI.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。初回盤は[1988年](../Page/1988年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売、通常版は同年[1月21日](../Page/1月21日.md "wikilink")に発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。昭和63年度[オリコン](../Page/オリコン.md "wikilink")年間アルバムチャート第1位。

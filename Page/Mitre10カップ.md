@@ -1,4 +1,4 @@
-> この記事は[Mitre10](https://ja.wikipedia.org/wiki/Mitre10)から翻訳されています。
+> この記事は[Mitre10カップ](https://ja.wikipedia.org/wiki/Mitre10カップ)から翻訳されています。
 
 
 **Mitre10カップ**（Mitre 10 Cup, 以前は**New Zealand National Provincial Championship**）は、[ニュージーランド](../Page/ニュージーランド.md "wikilink")における[ラグビー](../Page/ラグビー.md "wikilink")の国内トップリーグである。最多優勝は、オークランドの17回。主催者は[ニュージーランドラグビー協会](https://ja.wikipedia.org/wiki/ニュージーランドラグビー協会 "wikilink")。

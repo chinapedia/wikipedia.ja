@@ -1,4 +1,4 @@
-> この記事は[SUNSUN](https://ja.wikipedia.org/wiki/SUNSUN)から翻訳されています。
+> この記事は[SUNSUNスーパータイム](https://ja.wikipedia.org/wiki/SUNSUNスーパータイム)から翻訳されています。
 
 
 『**SUNSUNスーパータイム**』（サンサンスーパータイム）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")から同年[3月30日](../Page/3月30日.md "wikilink")まで[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")で夕方に放送されていた[高知県](../Page/高知県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の高知県ローカル扱い）。正式タイトルは『**SUNSUNスーパータイム FNN**』。

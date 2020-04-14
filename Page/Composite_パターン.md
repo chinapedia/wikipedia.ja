@@ -1,4 +1,4 @@
-> この記事は[Composite ](https://ja.wikipedia.org/wiki/Composite_)から翻訳されています。
+> この記事は[Composite パターン](https://ja.wikipedia.org/wiki/Composite_パターン)から翻訳されています。
 
 
 **Composite パターン**（コンポジット・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 4人のギャングたち) によって定義された [デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。「構造に関するパターン」に属する。Composite パターンを用いると[ディレクトリ](../Page/ディレクトリ.md "wikilink")と[ファイルなどのような](../Page/ファイル_\(コンピュータ\).md "wikilink")、[木構造を伴う](../Page/木構造_\(データ構造\).md "wikilink")[再帰的](https://ja.wikipedia.org/wiki/再帰的 "wikilink")な[データ構造](../Page/データ構造.md "wikilink")を表すことができる。

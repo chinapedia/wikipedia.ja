@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE !](https://ja.wikipedia.org/wiki/ONE_PIECE_!)から翻訳されています。
+> この記事は[ONE PIECE 倒せ!海賊ギャンザック](https://ja.wikipedia.org/wiki/ONE_PIECE_倒せ!海賊ギャンザック)から翻訳されています。
 
 
 『**ONE PIECE 倒せ\!海賊ギャンザック**』（ワンピース たおせ\!かいぞくギャンザック）は、「[ジャンプ・スーパー・アニメツアー'98](../Page/ジャンプフェスタ.md "wikilink")」において上映された[アニメ](../Page/アニメ.md "wikilink")作品。

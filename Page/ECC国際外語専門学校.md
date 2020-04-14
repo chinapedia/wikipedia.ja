@@ -1,4 +1,4 @@
-> この記事は[ECC](https://ja.wikipedia.org/wiki/ECC)から翻訳されています。
+> この記事は[ECC国際外語専門学校](https://ja.wikipedia.org/wiki/ECC国際外語専門学校)から翻訳されています。
 
 
 **ECC国際外語専門学校**（いーしーしーこくさいがいごせんもんがっこう）は、[学校法人](../Page/学校法人.md "wikilink")山口学園が運営する[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区にある](../Page/北区_\(大阪市\).md "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。
@@ -25,8 +25,8 @@
 
 ## 交通
 
-  - [地下鉄谷町線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道谷町線 "wikilink") [中崎町駅](https://ja.wikipedia.org/wiki/中崎町駅 "wikilink") 西へ徒歩約1分
-  - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink")・[阪神本線](../Page/阪神本線.md "wikilink")・[阪急電鉄](../Page/阪急電鉄.md "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/梅田駅 "wikilink") 東へ徒歩約8分
+  - [地下鉄谷町線](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink") [中崎町駅](https://ja.wikipedia.org/wiki/中崎町駅 "wikilink") 西へ徒歩約1分
+  - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")・[阪神本線](../Page/阪神本線.md "wikilink")・[阪急電鉄](../Page/阪急電鉄.md "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/梅田駅 "wikilink") 東へ徒歩約8分
   - [東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")）・[大阪環状線](../Page/大阪環状線.md "wikilink") [大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink") 御堂筋口から東へ徒歩約8分
 
 ## 関連項目

@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[ロージー \(aikoの曲\)](https://ja.wikipedia.org/wiki/ロージー_\(aikoの曲\))から翻訳されています。
 
 
 「**ロージー**」は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算8枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。

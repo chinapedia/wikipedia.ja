@@ -1,4 +1,4 @@
-> この記事は[D-](https://ja.wikipedia.org/wiki/D-)から翻訳されています。
+> この記事は[D-ブロック](https://ja.wikipedia.org/wiki/D-ブロック)から翻訳されています。
 
 
 **D-ブロック**（D-Block）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ヨンカーズ](https://ja.wikipedia.org/wiki/ヨンカーズ "wikilink")で結成された[ヒップホップ](../Page/ヒップホップ.md "wikilink")[音楽](../Page/音楽.md "wikilink")ユニット。
@@ -30,7 +30,7 @@
 
   - [ロッカフェラ・レコード](../Page/ロッカフェラ・レコード.md "wikilink")
   - [ジェイ・Z](../Page/ジェイ・Z.md "wikilink")
-  - [カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")
+  - [カニエ・ウェスト](../Page/カニエ・ウェスト.md "wikilink")
   - [ナズ](../Page/ナズ.md "wikilink")
   - [トゥイスタ](../Page/トゥイスタ.md "wikilink")
   - [ザ・ゲーム](https://ja.wikipedia.org/wiki/ザ・ゲーム_\(ラッパー\) "wikilink")

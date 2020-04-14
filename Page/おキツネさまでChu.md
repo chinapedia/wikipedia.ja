@@ -1,4 +1,4 @@
-> この記事は[Chu](https://ja.wikipedia.org/wiki/Chu)から翻訳されています。
+> この記事は[おキツネさまでChu](https://ja.wikipedia.org/wiki/おキツネさまでChu)から翻訳されています。
 
 
 『**おキツネさまでChu♥**』（おきつねさまでチュ）は、[速野悠二](../Page/速野悠二.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[秋田書店](../Page/秋田書店.md "wikilink")の雑誌『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』で[2003年](../Page/2003年.md "wikilink")6月号から[2006年](../Page/2006年.md "wikilink")7月号まで連載された。全30話、単行本は全4巻。

@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[蝶々結び \(aikoの曲\)](https://ja.wikipedia.org/wiki/蝶々結び_\(aikoの曲\))から翻訳されています。
 
 
 「**蝶々結び**」（ちょうちょうむすび）は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算12作目の[シングル](../Page/シングル.md "wikilink")。2003年4月23日にポニーキャニオンより発売。[規格品番](../Page/規格品番.md "wikilink")はPCCA-1896。

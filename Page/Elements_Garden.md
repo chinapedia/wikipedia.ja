@@ -102,6 +102,7 @@
   - **織田あすか**（おだ あすか） - 2016年よりElements Gardenに参加。
   - **笠井雄太**（かさい ゆうた） - 2016年よりElements Gardenに参加。
   - **竹田祐介**（たけだ ゆうすけ） - 2017年よりElements Gardenに参加。
+  - **下田晃太郎**
 
 ## かつて所属していたスタッフ（クリエイター）
 
@@ -127,6 +128,7 @@
       - ハロー、ハッピーワールド！
       - CHiSPA
       - [RAISE A SUILEN](https://ja.wikipedia.org/wiki/BanG_Dream!#RAISE_A_SUILEN "wikilink")
+      - [Morfonica](https://ja.wikipedia.org/wiki/BanG_Dream!#Morfonica "wikilink")
 
 <!-- end list -->
 
@@ -148,6 +150,7 @@
   - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")
   - KAKO
   - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
   - [KIRIKO](https://ja.wikipedia.org/wiki/KIRIKO "wikilink")
   - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") & 佐藤裕美
   - [MAKO](../Page/MAKO.md "wikilink")
@@ -731,6 +734,18 @@
 <td></td>
 <td><p>作曲（編曲は竹田祐介）</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/To-y2.md" title="wikilink">COUNT 7EVEN</a></p></td>
+<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td></td>
+<td><p>作詞・作曲（編曲は藤永龍太郎）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/To-y2.md" title="wikilink">運命</a></p></td>
+<td><p><a href="../Page/宮田俊哉.md" title="wikilink">宮田俊哉</a>・<a href="../Page/玉森裕太.md" title="wikilink">玉森裕太</a>（Kis-My-Ft2）</p></td>
+<td></td>
+<td><p>作曲（編曲は菊田大介）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -946,7 +961,7 @@
 </tr>
 <tr class="even">
 <td><p>未来、夢、ありがとう…そして！</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEレジェンドスター」 挿入歌</p></td>
 <td><p>作曲（編曲は菊田大介）</p></td>
 </tr>
@@ -1024,7 +1039,7 @@
 </tr>
 <tr class="odd">
 <td><p>ウルトラブラスト</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEキングダム」挿入歌</p></td>
 <td><p>作曲（編曲は笠井雄太）</p></td>
 </tr>
@@ -1303,7 +1318,7 @@
 </tr>
 <tr class="odd">
 <td><p>マジLOVEレジェンドスター</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEレジェンドスター」 挿入歌</p></td>
 <td><p>編曲（作曲は上松範康）</p></td>
 </tr>
@@ -1369,7 +1384,7 @@
 </tr>
 <tr class="even">
 <td><p>Shining☆Romance</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ Shining Live」テーマソング</p></td>
 <td><p>編曲（作曲は上松範康）</p></td>
 </tr>
@@ -1381,7 +1396,7 @@
 </tr>
 <tr class="even">
 <td><p>ファンタジック☆プレリュード</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td></td>
 <td><p>編曲（作曲は上松範康）</p></td>
 </tr>
@@ -1648,7 +1663,7 @@
 </tr>
 <tr class="even">
 <td><p>未来、夢、ありがとう・・・そして!</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEレジェンドスター」 挿入歌</p></td>
 <td><p>編曲（作曲は藤田淳平）</p></td>
 </tr>
@@ -1723,6 +1738,12 @@
 <td><p>一ノ瀬トキヤ(宮野真守)、愛島セシル(鳥海浩輔)、日向大和(木村良平)</p></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEキングダム」挿入歌</p></td>
 <td><p>作編曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>運命</p></td>
+<td><p>宮田俊哉・玉森裕太（Kis-My-Ft2）</p></td>
+<td></td>
+<td><p>編曲（作曲は上松範康）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2130,6 +2151,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>COUNT 7EVEN</p></td>
+<td><p>Kis-My-Ft2</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2520,7 +2547,7 @@
 </tr>
 <tr class="odd">
 <td><p>ウルトラブラスト</p></td>
-<td><p>ST☆RISH<sup><a href="https://ja.wikipedia.org/wiki/Elements_Garden#cite%20note-vau-ST%E2%98%86RISH%7C2-13" title="wikilink">[メンバー 3</a>]</sup></p></td>
+<td></td>
 <td><p>「うたの☆プリンスさまっ♪ マジLOVEキングダム」挿入歌</p></td>
 <td><p>編曲（作曲は藤田淳平）</p></td>
 </tr>

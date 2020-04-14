@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZ助手席ナビ](https://ja.wikipedia.org/wiki/EZ助手席ナビ)から翻訳されています。
 
 
 **EZ助手席ナビ**（イージーじょしゅせきナビ）は[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[auブランドと](../Page/Au_\(携帯電話\).md "wikilink")[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")が提供する、同乗者向けの[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")サービスである。ルート検索、案内技術などは[NAVITIME](../Page/NAVITIME.md "wikilink")に拠準。

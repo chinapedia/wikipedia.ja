@@ -1,4 +1,4 @@
-> この記事は[Everything \(EXILE\)](https://ja.wikipedia.org/wiki/Everything_\(EXILE\))から翻訳されています。
+> この記事は[Everything \(EXILEの曲\)](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\))から翻訳されています。
 
 
 「**Everything**」（エヴリシング）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[  Curiosities of Lotus Asia.](https://ja.wikipedia.org/wiki/__Curiosities_of_Lotus_Asia.)から翻訳されています。
+> この記事は[東方香霖堂 〜 Curiosities of Lotus Asia.](https://ja.wikipedia.org/wiki/東方香霖堂_〜_Curiosities_of_Lotus_Asia.)から翻訳されています。
 
 
 『**東方香霖堂 〜 Curiosities of Lotus Asia.**』（とうほうこうりんどう）は、「[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")」を題材にした日本の[小説](../Page/小説.md "wikilink")作品。著者は[ZUNで](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")、挿絵は[唖采弦二が担当している](https://ja.wikipedia.org/wiki/輪くすさが "wikilink")。

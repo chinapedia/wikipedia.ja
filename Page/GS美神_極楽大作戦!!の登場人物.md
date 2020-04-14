@@ -1,4 +1,4 @@
-> この記事は[GS !!](https://ja.wikipedia.org/wiki/GS_!!)から翻訳されています。
+> この記事は[GS美神 極楽大作戦!!の登場人物](https://ja.wikipedia.org/wiki/GS美神_極楽大作戦!!の登場人物)から翻訳されています。
 
 
 **GS美神 極楽大作戦\!\!の登場人物**（ゴーストスイーパーみかみ ごくらくだいさくせんのとうじょうじんぶつ）は、[椎名高志](../Page/椎名高志.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")『[GS美神](../Page/GS美神_極楽大作戦!!.md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の人物の一覧である。

@@ -1,4 +1,4 @@
-> この記事は[ Complete Box Empress](https://ja.wikipedia.org/wiki/_Complete_Box_Empress)から翻訳されています。
+> この記事は[歌姫 Complete Box Empress](https://ja.wikipedia.org/wiki/歌姫_Complete_Box_Empress)から翻訳されています。
 
 
 『**歌姫 Complete Box Empress**』（うたひめ コンプリート・ボックス・エンプレス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[カバー](../Page/カバー.md "wikilink")・アルバム[歌姫シリーズの](https://ja.wikipedia.org/wiki/歌姫_\(中森明菜のアルバム\)#歌姫シリーズ "wikilink")[ボックス・セット](../Page/ボックス・セット.md "wikilink")。このアルバムは2004年12月1日に[ユニバーサルよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") (6[CD](../Page/コンパクトディスク.md "wikilink"): POCE-3035/40)。

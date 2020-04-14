@@ -1,4 +1,4 @@
-> この記事は[LINEAR \(165P\)](https://ja.wikipedia.org/wiki/LINEAR_\(165P\))から翻訳されています。
+> この記事は[LINEAR彗星 \(165P\)](https://ja.wikipedia.org/wiki/LINEAR彗星_\(165P\))から翻訳されています。
 
 
 **LINEAR彗星**（リニアすいせい、登録番号 **165P**、仮符号 2000 B4）は、[ケンタウルス族に属する軌道を有する](../Page/ケンタウルス族_\(小惑星\).md "wikilink")[彗星](../Page/彗星.md "wikilink")。

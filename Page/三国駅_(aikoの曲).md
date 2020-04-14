@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[三国駅 \(aikoの曲\)](https://ja.wikipedia.org/wiki/三国駅_\(aikoの曲\))から翻訳されています。
 
 
 「**三国駅**」（みくにえき）は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算17作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2005年2月16日に発売。

@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[Rライン](https://ja.wikipedia.org/wiki/Rライン)から翻訳されています。
 
 
 **Rライン**（）とは、[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")が立ち上げたブランド名のひとつである。「R」は「レーシング」の略。**Rシリーズ**と呼ばれることもある。

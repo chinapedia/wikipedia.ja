@@ -1,4 +1,4 @@
-> この記事は[Shangri-La \(\)](https://ja.wikipedia.org/wiki/Shangri-La_\(\))から翻訳されています。
+> この記事は[Shangri-La \(電気グルーヴの曲\)](https://ja.wikipedia.org/wiki/Shangri-La_\(電気グルーヴの曲\))から翻訳されています。
 
 
 「**Shangri-La**」（シャングリラ）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の8枚目のシングル。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[Ki/oon Sony Recordsよりリリースされた](../Page/キューンミュージック.md "wikilink")。

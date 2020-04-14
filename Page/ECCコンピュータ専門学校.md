@@ -1,11 +1,11 @@
-> この記事は[ECC](https://ja.wikipedia.org/wiki/ECC)から翻訳されています。
+> この記事は[ECCコンピュータ専門学校](https://ja.wikipedia.org/wiki/ECCコンピュータ専門学校)から翻訳されています。
 
 
 **ECCコンピュータ専門学校**は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に設立された[学校法人](../Page/学校法人.md "wikilink")山口学園が運営する[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区にある](../Page/北区_\(大阪市\).md "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。
 
 ## 概要
 
-[CG](https://ja.wikipedia.org/wiki/CG "wikilink")や[ゲーム](../Page/ゲーム.md "wikilink")などの[IT](https://ja.wikipedia.org/wiki/IT "wikilink")関係に就職するための専修学校。ECCグループの学校で[ECC国際外語専門学校](../Page/ECC国際外語専門学校.md "wikilink")と[ECCアーティスト専門学校](https://ja.wikipedia.org/wiki/ECCアーティスト専門学校 "wikilink")があり、英会話の授業で1年に4回「EIP」という外国人講師との授業がECC国際外語専門学校の校舎6階で行われる。
+[CG](https://ja.wikipedia.org/wiki/CG "wikilink")や[ゲーム](../Page/ゲーム.md "wikilink")などの[IT関係に就職するための専修学校](../Page/情報技術.md "wikilink")。ECCグループの学校で[ECC国際外語専門学校](../Page/ECC国際外語専門学校.md "wikilink")と[ECCアーティスト専門学校](https://ja.wikipedia.org/wiki/ECCアーティスト専門学校 "wikilink")があり、英会話の授業で1年に4回「EIP」という外国人講師との授業がECC国際外語専門学校の校舎6階で行われる。
 
 ## 沿革
 
@@ -115,7 +115,7 @@
 
   - 〒530-0015 大阪市北区中崎西2-3-35
 
-最寄り駅は、[阪急大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪急\) "wikilink")（徒歩8分）、[阪神大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")、JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")、[Osaka Metro谷町線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道谷町線 "wikilink")[中崎町駅](https://ja.wikipedia.org/wiki/中崎町駅 "wikilink")
+最寄り駅は、[阪急大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪急\) "wikilink")（徒歩8分）、[阪神大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")、JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")、[Osaka Metro谷町線](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink")[中崎町駅](https://ja.wikipedia.org/wiki/中崎町駅 "wikilink")
 
 ## 関連項目
 

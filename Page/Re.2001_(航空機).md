@@ -1,4 +1,4 @@
-> この記事は[Re.2001 \(\)](https://ja.wikipedia.org/wiki/Re.2001_\(\))から翻訳されています。
+> この記事は[Re.2001 \(航空機\)](https://ja.wikipedia.org/wiki/Re.2001_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=Re.2001 | 画像=<File:Reggiane2001_San_Diego_Air_Space_Museum_3_ICAF.jpg> | キャプション=Reggiane Re.2001 Ariete | 用途=戦闘 | 分類=戦闘機 | 設計者= | 製造者=[レジアーネ](https://ja.wikipedia.org/wiki/レジアーネ "wikilink") | 運用者=イタリア王立空軍

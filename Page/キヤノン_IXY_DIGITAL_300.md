@@ -1,4 +1,4 @@
-> この記事は[ IXY DIGITAL 300](https://ja.wikipedia.org/wiki/_IXY_DIGITAL_300)から翻訳されています。
+> この記事は[キヤノン IXY DIGITAL 300](https://ja.wikipedia.org/wiki/キヤノン_IXY_DIGITAL_300)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:01_Digital_Ixus_300.JPG "wikilink") **Canon IXY DIGITAL 300**（キヤノン イクシ・デジタルさんびゃく）は、[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発表された、202万[画素の](../Page/ピクセル.md "wikilink")[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")製コンパクト[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")。下位機に[IXY DIGITAL 200](https://ja.wikipedia.org/wiki/Canon_IXY_DIGITAL_200 "wikilink")、後継機に[IXY DIGITAL 300aがある](https://ja.wikipedia.org/wiki/Canon_IXY_DIGITAL_300a "wikilink")。

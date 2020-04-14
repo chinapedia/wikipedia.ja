@@ -1,7 +1,7 @@
-> この記事は[pure soulTOUR \'98](https://ja.wikipedia.org/wiki/pure_soulTOUR_\'98)から翻訳されています。
+> この記事は[“pure soul”TOUR \'98](https://ja.wikipedia.org/wiki/“pure_soul”TOUR_\'98)から翻訳されています。
 
 
-『**“pure soul” TOUR '98**』は[GLAY](../Page/GLAY.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")にリリースしたライブ・ビデオ。
+『**“pure soul” TOUR '98**』は、[GLAY](../Page/GLAY.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")にリリースしたライブ・ビデオ。
 
 ## 概要
 
@@ -22,9 +22,9 @@
 9.  **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")**
 10. **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
 11. **[ACID HEAD](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
-12. **[BELOVED](../Page/BELOVED.md "wikilink")**
+12. **[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 13. **[More than Love](../Page/BEAT_out!.md "wikilink")**
-14. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+14. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 15. **[I'm in Love](https://ja.wikipedia.org/wiki/pure_soul "wikilink")**
 
 **SPECIAL EDITIONS (DVDのみ)**

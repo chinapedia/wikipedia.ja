@@ -1,4 +1,4 @@
-> この記事は[Re.2000 \(\)](https://ja.wikipedia.org/wiki/Re.2000_\(\))から翻訳されています。
+> この記事は[Re.2000 \(航空機\)](https://ja.wikipedia.org/wiki/Re.2000_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=Re.2000 | 画像=<File:Reggiane2000_San_Diego_Air_Space_Museum_2.jpg> | キャプション=Reggiane Re.2000 Falco | 用途=戦闘 | 分類=戦闘機 | 設計者=アントニオ=アレシオ/ロベルト=ロンギ | 製造者=[レジアーネ](https://ja.wikipedia.org/wiki/レジアーネ "wikilink") | 運用者=イタリア王立空軍、[ハンガリー空軍](https://ja.wikipedia.org/wiki/ハンガリー空軍 "wikilink")、[スウェーデン空軍](https://ja.wikipedia.org/wiki/スウェーデン空軍 "wikilink") | 初飛行年月日=[1939年](../Page/1939年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") | 生産数=約170機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }} '''Re.2000 '''は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[イタリア](../Page/イタリア.md "wikilink")で生産された単座の[戦闘機](../Page/戦闘機.md "wikilink")である。愛称は“ファルコ(Falco)”。

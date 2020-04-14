@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN福井テレビスーパータイム](https://ja.wikipedia.org/wiki/FNN福井テレビスーパータイム)から翻訳されています。
 
 
 『**FNN福井テレビスーパータイム**』（エフエヌエヌふくいテレビスーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")で放送されていた夕方の[福井県](../Page/福井県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の福井県ローカル扱い）。

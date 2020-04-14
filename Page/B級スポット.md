@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B級スポット](https://ja.wikipedia.org/wiki/B級スポット)から翻訳されています。
 
 
 **B級スポット**（ビーきゅうスポット）とは、一風変わった観光施設、あるいは観光地のこと。最近では「B級スポット」ではなく、「**珍スポット**」（ちんスポット）と呼ばれることが多い。 [250pxの](https://ja.wikipedia.org/wiki/ファイル:Tatsukosuisenkyou.JPG "wikilink")[秘宝館](../Page/秘宝館.md "wikilink")「ナゾのパラダイス」\]\]

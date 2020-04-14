@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[今帰仁テレビ・FM中継局](https://ja.wikipedia.org/wiki/今帰仁テレビ・FM中継局)から翻訳されています。
 
 
 **今帰仁テレビ・FM中継局**（なきじん-ちゅうけいきょく）は[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[今帰仁村](../Page/今帰仁村.md "wikilink")字謝名と[本部町](../Page/本部町.md "wikilink")字伊豆味にまたがる乙羽岳にある[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と[FM](../Page/超短波.md "wikilink")[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の中継局である。[沖縄本島](../Page/沖縄本島.md "wikilink")北部一円をカバーしており、テレビはアナログ放送の頃からすべて[UHFチャンネルで放送している](../Page/極超短波.md "wikilink")。また沖縄本島北部の基幹局としての役割もあり、名護市以北のテレビ中継局（一部）や地理的関係で直接電波の届かない東海岸地域（名護市[久志地域の一部](../Page/久志村.md "wikilink")、[東村](../Page/東村.md "wikilink")、[国頭村](../Page/国頭村.md "wikilink")東部）の[共同受信施設](https://ja.wikipedia.org/wiki/共同受信施設 "wikilink")にも電波を送信している。また[奄美群島](../Page/奄美群島.md "wikilink")の一部地域（[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")の[知名町](../Page/知名町.md "wikilink")など）でも受信可能のようで\[1\]、奄美地方で発刊されている[南海日日新聞](../Page/南海日日新聞.md "wikilink")・[奄美新聞](../Page/奄美新聞.md "wikilink")のテレビ欄では、沖縄の放送局の番組を当中継局の物理チャンネル表示とともに掲載している\[2\]\[3\]。

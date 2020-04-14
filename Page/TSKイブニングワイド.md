@@ -1,4 +1,4 @@
-> この記事は[TSK](https://ja.wikipedia.org/wiki/TSK)から翻訳されています。
+> この記事は[TSKイブニングワイド](https://ja.wikipedia.org/wiki/TSKイブニングワイド)から翻訳されています。
 
 
 『**TSKイブニングワイド**』（ティーエスケイ イブニングワイド）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[山陰中央テレビで放送された](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[山陰地方](../Page/山陰地方.md "wikilink")ローカル扱い）。正式タイトルは『**FNN TSKイブニングワイド**』で、[年末年始](../Page/年末年始.md "wikilink")には[フジテレビと同様に](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『**FNNスーパータイム**』と題して放送された。

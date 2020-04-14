@@ -1,4 +1,4 @@
-> この記事は[Gradation](https://ja.wikipedia.org/wiki/Gradation)から翻訳されています。
+> この記事は[白いGradation](https://ja.wikipedia.org/wiki/白いGradation)から翻訳されています。
 
 
 『**白いGradation**』(しろいグラデーション)は、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の7thシングル。CDコードはBGDH-1030。

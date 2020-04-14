@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[初恋 \(aikoの曲\)](https://ja.wikipedia.org/wiki/初恋_\(aikoの曲\))から翻訳されています。
 
 
 「**初恋**」（はつこい）は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算7枚目の[シングル](../Page/シングル.md "wikilink")で、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売。
@@ -28,6 +28,6 @@
 
   - [ポニーキャニオンディスコグラフィ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200000002134&DSP_SKHKETSEQ=001)
 
-[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  『aiko bon』より。 aiko著 ソニーマガジンズ刊 2005年3月1日 ISBN 978-4789724968

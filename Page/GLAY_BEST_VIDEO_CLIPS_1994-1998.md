@@ -24,7 +24,7 @@
 9.  **[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")**
 10. **[BELOVED](../Page/BELOVED_\(GLAYの曲\).md "wikilink")**
 11. **[a Boy〜ずっと忘れない〜](https://ja.wikipedia.org/wiki/a_Boy〜ずっと忘れない〜 "wikilink")**
-12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 13. **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")**
 14. **[HOWEVER](../Page/HOWEVER.md "wikilink")**
 15. **[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")**

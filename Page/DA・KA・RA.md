@@ -1,4 +1,4 @@
-> この記事は[DAKARA](https://ja.wikipedia.org/wiki/DAKARA)から翻訳されています。
+> この記事は[DA・KA・RA](https://ja.wikipedia.org/wiki/DA・KA・RA)から翻訳されています。
 
 
 「**DA・KA・RA**」（ダ・カ・ラ）は、[1992年](../Page/1992年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")にリリースされた[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の2枚目のシングル。CDコードはTODT-2921。発売元が[B-Gram RECORDSに移ってからはBGDH](../Page/B-Gram_RECORDS.md "wikilink")-1027。制作は[ビーイング](../Page/ビーイング.md "wikilink")。

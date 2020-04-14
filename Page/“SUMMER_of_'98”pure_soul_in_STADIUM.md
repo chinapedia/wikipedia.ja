@@ -1,4 +1,4 @@
-> この記事は[SUMMER of \'98pure soul in STADIUM](https://ja.wikipedia.org/wiki/SUMMER_of_\'98pure_soul_in_STADIUM)から翻訳されています。
+> この記事は[“SUMMER of \'98”pure soul in STADIUM](https://ja.wikipedia.org/wiki/“SUMMER_of_\'98”pure_soul_in_STADIUM)から翻訳されています。
 
 
 『**“SUMMER of '98” pure soul in STADIUM**』は[GLAY](../Page/GLAY.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")にリリースしたLIVEビデオ。

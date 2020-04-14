@@ -1,4 +1,4 @@
-> この記事は[Will \(\)](https://ja.wikipedia.org/wiki/Will_\(\))から翻訳されています。
+> この記事は[Will \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/Will_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**will**』（ウィル）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の19枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1999年12月1日にTHIS ONE（[ガウスエンタテインメント](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): GRCO-3003)。

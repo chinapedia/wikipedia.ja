@@ -1,4 +1,4 @@
-> この記事は[RCM](https://ja.wikipedia.org/wiki/RCM)から翻訳されています。
+> この記事は[RCM音源](https://ja.wikipedia.org/wiki/RCM音源)から翻訳されています。
 
 
 **RCM音源**とは、**R**ealtime **C**onvolution & **M**odulationの略でAFM音源とAWM2音源を融合した[ヤマハ](../Page/ヤマハ.md "wikilink")独自の音源。

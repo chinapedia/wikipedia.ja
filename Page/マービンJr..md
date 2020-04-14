@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[マービンJr.](https://ja.wikipedia.org/wiki/マービンJr.)から翻訳されています。
 
 
 **マービンJr.**（マービン・ジュニア、Marvin Jr.、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。

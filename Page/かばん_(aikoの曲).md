@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[かばん \(aikoの曲\)](https://ja.wikipedia.org/wiki/かばん_\(aikoの曲\))から翻訳されています。
 
 
 『**かばん**』は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算15作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2004年4月28日に発売。

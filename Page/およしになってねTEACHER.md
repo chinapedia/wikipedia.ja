@@ -1,4 +1,4 @@
-> この記事は[TEACHER](https://ja.wikipedia.org/wiki/TEACHER)から翻訳されています。
+> この記事は[およしになってねTEACHER](https://ja.wikipedia.org/wiki/およしになってねTEACHER)から翻訳されています。
 
 
 「**およしになってねTEACHER**」（およしになってねティーチャー）は、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の楽曲で、2枚目のシングル。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")にキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）から発売された。

@@ -1,4 +1,4 @@
-> この記事は[Break](https://ja.wikipedia.org/wiki/Break)から翻訳されています。
+> この記事は[Break文](https://ja.wikipedia.org/wiki/Break文)から翻訳されています。
 
 
 **break文**は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の[ループ](../Page/ループ_\(プログラミング\).md "wikilink")[制御構造](../Page/制御構造.md "wikilink")で用いられる文で、最も内側の[for文](https://ja.wikipedia.org/wiki/for文 "wikilink")、[while文](https://ja.wikipedia.org/wiki/while文 "wikilink")、[do-while文](https://ja.wikipedia.org/wiki/do-while文 "wikilink")から脱出する。また、[C言語](../Page/C言語.md "wikilink")のような[switch文](https://ja.wikipedia.org/wiki/switch文 "wikilink")がある言語では、（ループではないが）switch文から脱出する際にも使用される\[1\]。

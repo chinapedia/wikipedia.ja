@@ -22,7 +22,7 @@
 9.  **[LOVE SLAVE](../Page/SPEED_POP.md "wikilink")**
 10. **[Winter,again](../Page/Winter,again.md "wikilink")**
 11. **[COME ON\!\!](https://ja.wikipedia.org/wiki/pure_soul "wikilink")**
-12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+12. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 13. **[Cynical](../Page/生きてく強さ.md "wikilink")**
 14. **[I'm in Love](https://ja.wikipedia.org/wiki/pure_soul "wikilink")**
 15. **[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink") -NEW EDIT-**

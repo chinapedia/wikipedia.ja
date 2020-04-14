@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.コパ](https://ja.wikipedia.org/wiki/Dr.コパ)から翻訳されています。
 
 
 **Dr.コパ**（ドクター・コパ、本名・**小林 祥晃**（こばやし さちあき）、[1947年](../Page/1947年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")22年）[5月5日](../Page/5月5日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建築家](../Page/建築家.md "wikilink")で、[実業家](../Page/実業家.md "wikilink")、[神主](https://ja.wikipedia.org/wiki/神主 "wikilink")、[作家](../Page/作家.md "wikilink")、[愛知工業大学](../Page/愛知工業大学.md "wikilink")[客員教授](https://ja.wikipedia.org/wiki/客員教授 "wikilink")。[JRAおよび](../Page/日本中央競馬会.md "wikilink")[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")でもある。

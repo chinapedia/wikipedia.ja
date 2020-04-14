@@ -1,4 +1,4 @@
-> この記事は[WiLL \(\)](https://ja.wikipedia.org/wiki/WiLL_\(\))から翻訳されています。
+> この記事は[WiLL \(雑誌\)](https://ja.wikipedia.org/wiki/WiLL_\(雑誌\))から翻訳されています。
 
 
 **月刊WiLL**（マンスリーウィル）は、[ワックが発行する](https://ja.wikipedia.org/wiki/ワック・マガジンズ "wikilink")、日本の[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")である。[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[11月](../Page/11月.md "wikilink")創刊。
@@ -94,6 +94,7 @@
 ## 外部リンク
 
   - [公式ホームページ](http://web-wac.co.jp/magazine/will/)
+  - [WiLL Online（オンライン版）](https://web-willmagazine.com)
 
 [Category:日本の保守主義の雑誌](https://ja.wikipedia.org/wiki/Category:日本の保守主義の雑誌 "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK大学ロボコン](https://ja.wikipedia.org/wiki/NHK大学ロボコン)から翻訳されています。
 
 
 **NHK学生ロボコン**とは、[NHK（日本放送協会）](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")が主催する**ロボットコンテスト**（ロボコン、[ロボット競技](../Page/ロボット競技.md "wikilink")）の一つである。

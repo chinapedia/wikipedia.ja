@@ -1,4 +1,4 @@
-> この記事は[ONLINE](https://ja.wikipedia.org/wiki/ONLINE)から翻訳されています。
+> この記事は[ときめきメモリアルONLINE](https://ja.wikipedia.org/wiki/ときめきメモリアルONLINE)から翻訳されています。
 
 
 『**ときめきメモリアルONLINE**』（ときめきメモリアルオンライン）とは[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が日本国内で[Windows向けにサービスを開始し](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、同年[3月31日](../Page/3月31日.md "wikilink")からは[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")が運営していた多人数同時参加（MMO）タイプの[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")でサービスを終了した。
@@ -473,7 +473,7 @@
   - [西田奈津美](../Page/西田奈津美.md "wikilink")（[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")）
   - [藤田志穂](https://ja.wikipedia.org/wiki/藤田志穂 "wikilink")（[実業家](../Page/実業家.md "wikilink")・[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")）
   - [三井麻央](https://ja.wikipedia.org/wiki/三井麻央 "wikilink")（[ファッションモデル](../Page/ファッションモデル.md "wikilink")）
-  - [ALISA](https://ja.wikipedia.org/wiki/ALISA "wikilink")（[歌手](../Page/歌手.md "wikilink")・2006年8月より本作イメージキャラクターに就任）
+  - [ALISA](../Page/樋江井ありさ.md "wikilink")（[歌手](../Page/歌手.md "wikilink")・2006年8月より本作イメージキャラクターに就任）
 
 #### 過去のときめきメモリアルシリーズ出演者
 

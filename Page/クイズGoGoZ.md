@@ -1,4 +1,4 @@
-> この記事は[GoGoZ](https://ja.wikipedia.org/wiki/GoGoZ)から翻訳されています。
+> この記事は[クイズGoGoZ](https://ja.wikipedia.org/wiki/クイズGoGoZ)から翻訳されています。
 
 
 『**クイズGoGo\!Z**』（クイズゴーゴー ゼット）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[毎日放送で放送されていた](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:54 - 13:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[サーヴィス \(YMOのアルバム\)](https://ja.wikipedia.org/wiki/サーヴィス_\(YMOのアルバム\))から翻訳されています。
 
 
 『**サーヴィス**』 (*SERVICE*) は、[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")8作目のアルバム。

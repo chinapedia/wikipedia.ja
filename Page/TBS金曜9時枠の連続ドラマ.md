@@ -1,4 +1,4 @@
-> この記事は[TBS9](https://ja.wikipedia.org/wiki/TBS9)から翻訳されています。
+> この記事は[TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS金曜9時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS金曜9時枠の連続ドラマ**は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1982年](../Page/1982年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月から[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")にかけて、[TBS](../Page/TBSテレビ.md "wikilink")[系列にて](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎週[金曜日](../Page/金曜日.md "wikilink")の21時30分～22時26分（1972年3月まで）、のちに21時～21時56分（1972年4月から。後に21時55分→21時54分に変更）([JST](../Page/日本標準時.md "wikilink")) に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。通称**「金9」**。

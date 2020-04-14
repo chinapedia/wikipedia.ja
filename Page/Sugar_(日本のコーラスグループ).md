@@ -1,11 +1,11 @@
-> この記事は[Sugar \(\)](https://ja.wikipedia.org/wiki/Sugar_\(\))から翻訳されています。
+> この記事は[Sugar \(日本のコーラスグループ\)](https://ja.wikipedia.org/wiki/Sugar_\(日本のコーラスグループ\))から翻訳されています。
 
 
 **Sugar**（シュガー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組女声[コーラス・グループ](../Page/コーラス・グループ.md "wikilink")。元々は[バンドとして結成されたため](../Page/バンド_\(音楽\).md "wikilink")、デビュー当初は3人とも楽器を演奏しながら歌っていたが、活動後期には得意分野であるコーラスに特化して楽器を持たずに歌うこともあった。代表曲『[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")』は、きれいなコーラスと、自分を振って別の女性と結婚した元恋人に悪態をつく歌詞で一躍注目された。
 
 ## メンバー
 
-  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）-- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](../Page/日本大学鶴ヶ丘高等学校.md "wikilink")卒業。
+  - ミキ（笠松美樹、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink") 　[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[日本大学鶴ヶ丘高等学校](../Page/日本大学鶴ヶ丘高等学校.md "wikilink")卒業。
 
 <!-- end list -->
 
@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - クミ（長沢久美子（[2009年](../Page/2009年.md "wikilink")より長澤久美子と表記）、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ）-- ボーカル、[ギター](../Page/リードギター.md "wikilink") 　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
+  - クミ（長沢久美子（[2009年](../Page/2009年.md "wikilink")より長澤久美子と表記）、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - ボーカル、[ギター](../Page/リードギター.md "wikilink") 　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -23,16 +23,17 @@
 
 <!-- end list -->
 
-  - モーリ（毛利公子、本名：徳本公子 - 旧姓・毛利、[1960年](../Page/1960年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")／）-- ボーカル、[ベース](../Page/エレクトリックベース.md "wikilink")、 [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink") 　神奈川県横浜市出身。
+  - モーリ（毛利公子、本名：徳本公子 - 旧姓・毛利、[1960年](../Page/1960年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")／） - ボーカル、[ベース](../Page/エレクトリックベース.md "wikilink")、 [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink") 　神奈川県横浜市出身。
 
 <!-- end list -->
 
   -
-    解散後は[タレント](../Page/タレント.md "wikilink")としてラジオのリポーターなどを中心に活動。1988年6月に結婚後も仕事を続けていたが、第一子の出産直前に[常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症を発症し](../Page/塞栓.md "wikilink")29歳で死去（胎児も死産となった）。
+    解散後は[タレント](../Page/タレント.md "wikilink")としてラジオのリポーターなどを中心に活動。1988年6月に結婚後も仕事を続けていた。1989年に第一子を妊娠、翌年4月に出産予定であった。4月6日に陣痛を覚え病院に向かったが、既に胎児の心音が確認出来なくなっており、医師より死産を告げられ強い悲しみに取り乱したという。精神的な落ち込みや母体への負担を考え、胎児の処置はすぐに行わず一旦安静の措置をとることになった。4月7日午前2時ごろ、呼吸をしていないことに付き添っていた妹が気づき、すぐに別の救急救命病院に搬送されたが死去した。享年29。
+    [常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症や](../Page/塞栓.md "wikilink")[妊娠高血圧症候群](../Page/妊娠高血圧症候群.md "wikilink")などが死因ではないかとの憶測が当時から流れているが、詳細な死因は現在も不明である\[2\]\[3\]。
 
 ## 来歴
 
-クミとモーリが[横浜市立寺尾中学校](https://ja.wikipedia.org/wiki/横浜市立寺尾中学校 "wikilink")在校中に出会い、モーリの通う[神奈川県立鶴見高等学校](../Page/神奈川県立鶴見高等学校.md "wikilink")で[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")「かりんとう」の活動を開始。[第14回ヤマハポピュラーソングコンテストに出場する](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")。2人は「[杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/オメガトライブ#杉山清貴&オメガトライブ "wikilink")」の前身バンドである「きゅうてぃぱんちょす」結成時（1978年12月）のメンバーでもあった。 その後、ミキが合流し、「シュガー」となる。グループ名の由来は｢自分達がしお（塩）らしくない｣という意味から。
+クミとモーリが[横浜市立寺尾中学校](https://ja.wikipedia.org/wiki/横浜市立寺尾中学校 "wikilink")在校中に出会い、モーリの通う[神奈川県立鶴見高等学校](../Page/神奈川県立鶴見高等学校.md "wikilink")で[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")「かりんとう」の活動を開始。[第14回ヤマハポピュラーソングコンテストに出場する](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")。2人は「[杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/オメガトライブ#杉山清貴&オメガトライブ "wikilink")」の前身バンドである「きゅうてぃぱんちょす」結成時（1978年12月）のメンバーでもあった。その後、ミキが合流して「シュガー」を結成。グループ名の由来は｢自分達がしお（塩）らしくない｣という意味から。
 
   - [1981年](../Page/1981年.md "wikilink") 『[ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")』でデビュー
       - 週間2位/1982年度年間13位（[オリコン](../Page/オリコンチャート.md "wikilink")）
@@ -43,8 +44,8 @@
 
 ### シングル
 
-1.  [ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")\[2\]／新鮮微笑女（1981年11月21日）
-2.  アバンチュールはルックスしだい／新入社員と[とらばーゆ](../Page/とらばーゆ.md "wikilink")(A.M.9 to P.M.5)（1982年4月21日）
+1.  [ウエディング・ベル](https://ja.wikipedia.org/wiki/ウエディング・ベル "wikilink")\[4\]／新鮮微笑女（1981年11月21日）
+2.  アバンチュールはルックスしだい／新入社員と[とらばーゆ](../Page/とらばーゆ.md "wikilink")（A.M.9 to P.M.5）（1982年4月21日）
 3.  私○にほリカ人／an non ストリート（1982年8月21日）
 4.  Misty Night／浮気な勉強ガール（1982年10月21日）
 5.  ウエディング・ベル II／アバンチュールはルックスしだい II（1982年11月21日）
@@ -77,7 +78,7 @@
     6.  私oにほリカ人
     7.  ギャルズ・パワー
     8.  熱い夢
-    9.  Bobby Soxer 物語 ～夏の少女Anna～
+    9.  Bobby Soxer 物語 〜夏の少女Anna〜
     10. ウエディング・ベル その後
     11. オー・ラーメン
 3.  Sugar Bean（1983年5月21日）
@@ -174,7 +175,8 @@
 ### バラエティ
 
   - [日立テレビシティ](../Page/日立テレビシティ.md "wikilink")「[ニャロメのおもしろ数学教室](https://ja.wikipedia.org/wiki/ニャロメ#ニャロメのおもしろ入門シリーズ "wikilink")」(1982年、[TBS](../Page/TBSテレビ.md "wikilink"))
-  - [シュガー・泰葉の歌謡最前線](https://ja.wikipedia.org/wiki/歌謡最前線_\(日本テレビ\) "wikilink")(1982～83年、[NTV](../Page/日本テレビ放送網.md "wikilink")) - [泰葉](../Page/泰葉.md "wikilink")と共にメインMC。
+  - [シュガー・泰葉の歌謡最前線](https://ja.wikipedia.org/wiki/歌謡最前線_\(日本テレビ\) "wikilink")(1982年 - 1983年、[NTV](../Page/日本テレビ放送網.md "wikilink")) - [泰葉](../Page/泰葉.md "wikilink")と共にメインMC。
+  - [爆報\! THE フライデー](https://ja.wikipedia.org/wiki/爆報!_THE_フライデー "wikilink")（2020年3月13日、TBSテレビ） - クミが出演。1990年に急死したモーリについて語った\[5\]\[6\]。
 
 ### NHK紅白歌合戦出場歴
 
@@ -191,7 +193,7 @@
 ## CM　
 
   - [三菱鉛筆](../Page/三菱鉛筆.md "wikilink") ペイントマーカー（1982年）
-  - [ライオン](../Page/ライオン_\(企業\).md "wikilink") ピコレット（1983年）
+  - \[フジサワ\] ピコレット（1983年）
   - [コカコーラ](https://ja.wikipedia.org/wiki/コカコーラ "wikilink")
 
 ## 脚注
@@ -205,4 +207,8 @@
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1981年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に結成した音楽グループ "wikilink") [Category:1987年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に解散した音楽グループ "wikilink")
 
 1.  [小島豊美](https://ja.wikipedia.org/wiki/小島豊美 "wikilink")とアヴァンデザイン活字楽団『昭和のテレビ童謡クロニクル 『ひらけ\! ポンキッキ』から『ピッカピカ音楽館』まで』DU BOOKS、2015年、317頁。ISBN 978-4-907583-45-3
-2.  2009年4月に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[婚カツ\!](https://ja.wikipedia.org/wiki/婚カツ! "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")として[PUFFY](../Page/PUFFY.md "wikilink")がカバー
+2.
+3.
+4.  2009年4月に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[婚カツ\!](https://ja.wikipedia.org/wiki/婚カツ! "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")として[PUFFY](../Page/PUFFY.md "wikilink")がカバー
+5.
+6.

@@ -1,4 +1,4 @@
-> この記事は[presents ](https://ja.wikipedia.org/wiki/presents_)から翻訳されています。
+> この記事は[森永乳業presents 川村結花のヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/森永乳業presents_川村結花のヒーリング・ヴィーナス)から翻訳されています。
 
 
 **森永乳業presents 川村結花のヒーリング・ヴィーナス**（もりながにゅうぎょうプレゼンツ かわむらゆかのヒーリング・ヴィーナス）は、『夜空ノムコウ』の作曲者として知られる[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[川村結花](../Page/川村結花.md "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[TOKYO FMの](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は、日曜日の18：00 - 18:55。原則として[生放送](../Page/生放送.md "wikilink")であった。[スポンサー](../Page/スポンサー.md "wikilink")は[森永乳業](../Page/森永乳業.md "wikilink")。同社製品のプレゼントコーナーもあった。

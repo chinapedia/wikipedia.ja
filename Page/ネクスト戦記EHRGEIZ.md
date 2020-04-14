@@ -1,4 +1,4 @@
-> この記事は[EHRGEIZ](https://ja.wikipedia.org/wiki/EHRGEIZ)から翻訳されています。
+> この記事は[ネクスト戦記EHRGEIZ](https://ja.wikipedia.org/wiki/ネクスト戦記EHRGEIZ)から翻訳されています。
 
 
 『**ネクスト戦記EHRGEIZ**』（ネクストせんき エーアガイツ）は、[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。1997年10月1日から同年12月24日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された。全12話。

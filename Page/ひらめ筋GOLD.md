@@ -1,4 +1,4 @@
-> この記事は[GOLD](https://ja.wikipedia.org/wiki/GOLD)から翻訳されています。
+> この記事は[ひらめ筋GOLD](https://ja.wikipedia.org/wiki/ひらめ筋GOLD)から翻訳されています。
 
 
 『**ひらめ筋GOLD**』（ひらめきんゴールド）は、[2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")まで、[日本テレビで毎週](../Page/日本テレビ放送網.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")19:00 - 19:57に放送されていたスポーツ[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。『[世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")』の後番組。
@@ -190,7 +190,7 @@
 
 7日間かけて[サハラ砂漠](../Page/サハラ砂漠.md "wikilink")を走りぬく『[サハラマラソン](../Page/サハラマラソン.md "wikilink")』[2006年](../Page/2006年.md "wikilink")大会の出場を目指す女性アイドル達の軌跡。深夜時代から始まった企画で、続行中に番組が終了したため、2006年5月6日午後1時30分からの2時間特番として放送された。それに先駆けて、[2006年](../Page/2006年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")放送のスポーツニュース番組『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』内の特集コーナーにてマラソン本番の模様が放送された。当日のスタジオには出場した3名のアイドルと[蛍原徹](../Page/蛍原徹.md "wikilink")がゲストとして生出演した。
 
-  - 柏木貴代
+  - [柏木貴代](../Page/柏木貴代.md "wikilink")
   - [福井未菜](../Page/福井未菜.md "wikilink")
   - [西秋愛菜](../Page/西秋愛菜.md "wikilink")
 

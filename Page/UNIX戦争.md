@@ -1,4 +1,4 @@
-> この記事は[UNIX](https://ja.wikipedia.org/wiki/UNIX)から翻訳されています。
+> この記事は[UNIX戦争](https://ja.wikipedia.org/wiki/UNIX戦争)から翻訳されています。
 
 
 **UNIX戦争**（ゆにっくすせんそう）とは、[UNIX](../Page/UNIX.md "wikilink") [コンピュータ](../Page/コンピュータ.md "wikilink") [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のベンダー間で[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")前半にかけて発生した将来のUNIX標準規格を巡る争いである。

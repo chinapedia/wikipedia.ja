@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[キン肉マンII世〜オール超人大進撃〜](https://ja.wikipedia.org/wiki/キン肉マンII世〜オール超人大進撃〜)から翻訳されています。
 
 
 『**キン肉マンII世〜オール超人大進撃〜**』（キンにくマンにせい オールちょうじんだいしんげき）は、[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[集英社](../Page/集英社.md "wikilink")の雑誌『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』で[2001年](../Page/2001年.md "wikilink")7月号（5月）から[2007年](../Page/2007年.md "wikilink")5月号（3月）まで連載された。

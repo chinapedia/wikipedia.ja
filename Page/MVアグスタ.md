@@ -1,4 +1,4 @@
-> この記事は[MV](https://ja.wikipedia.org/wiki/MV)から翻訳されています。
+> この記事は[MVアグスタ](https://ja.wikipedia.org/wiki/MVアグスタ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mv_agusta.jpg "wikilink") **MVアグスタ**（*MV Agusta* ）は[イタリア](../Page/イタリア.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")メーカーである。

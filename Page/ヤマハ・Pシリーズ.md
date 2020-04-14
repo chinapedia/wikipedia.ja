@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ヤマハ・Pシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・Pシリーズ)から翻訳されています。
 
 
 **Pシリーズ**（ピー・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[デジタルピアノ](https://ja.wikipedia.org/wiki/デジタルピアノ "wikilink")の型番・商品名。

@@ -1,4 +1,4 @@
-> この記事は[ATM](https://ja.wikipedia.org/wiki/ATM)から翻訳されています。
+> この記事は[しんきんATMゼロネットサービス](https://ja.wikipedia.org/wiki/しんきんATMゼロネットサービス)から翻訳されています。
 
 
 **しんきんゼロネットサービス**（しんきんゼロネットサービス） は、[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")制度50周年を記念して、[2000年](../Page/2000年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に日本全国すべての信用金庫で一斉に開始した、信用金庫相互間[ATM・CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。

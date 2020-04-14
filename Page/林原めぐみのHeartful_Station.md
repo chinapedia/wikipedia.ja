@@ -1,4 +1,4 @@
-> この記事は[Heartful Station](https://ja.wikipedia.org/wiki/Heartful_Station)から翻訳されています。
+> この記事は[林原めぐみのHeartful Station](https://ja.wikipedia.org/wiki/林原めぐみのHeartful_Station)から翻訳されています。
 
 
 『**林原めぐみのHeartful Station**』（はやしばらめぐみのハートフル・ステーション）は、[声優](../Page/声優.md "wikilink")の[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")と[保志総一朗](../Page/保志総一朗.md "wikilink")による[キングレコード](../Page/キングレコード.md "wikilink")製作・[1社提供の](../Page/一社提供.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。[ラジオ関西](../Page/ラジオ関西.md "wikilink")をキー局として[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[10月5日](../Page/10月5日.md "wikilink")より放送を開始し、[2015年](../Page/2015年.md "wikilink")（平成27年）[3月28日](../Page/3月28日.md "wikilink")に放送1226回をもって放送を終了した。略称は「**ハートフル**」または「**HS**」。
@@ -379,7 +379,7 @@
 
   - [林原めぐみのTokyo Boogie Nightと同様に放送回数が](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")100回を超えるごとに公開録音を開催していた。
   - 「林原めぐみのTokyo Boogie Night」とは違い、番組タイトルに地名が含まれていないため、開催地域を限定する必要が無く、番組のキー局である兵庫県神戸市を中心に開催されてはいたが、兵庫県外でも開催していた。
-  - 600回記念の時には兵庫県神戸市を含み、北は北海道から南は沖縄県まで全国8都道県で公演する広域公開録音を行なった。「[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")」の本拠地である東京都内でも公演を行なった唯一の回である。
+  - 600回記念の時には兵庫県神戸市を含み、北は北海道から南は沖縄県まで全国8都道県で公演する広域公開録音を行った。「[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")」の本拠地である東京都内でも公演を行った唯一の回である。
   - 1100回記念の時は東日本大震災で甚大な被害を受けた場所の一つである岩手県で行なった。関西以外の地域のみで公演が行われた唯一の回である。
 
 ## スペシャル番組

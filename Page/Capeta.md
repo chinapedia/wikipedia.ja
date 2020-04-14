@@ -116,7 +116,7 @@
 <!-- end list -->
 
   -
-    モデルは森脇基恭
+    モデルは[森脇基恭](../Page/森脇基恭.md "wikilink")。
   - 赤坂 昇（あかさか しょう）
     ステラ系レーシングチームのサムス（ステラ[ワークス・チーム](../Page/ワークス・チーム.md "wikilink")）所属のメカニック。
     一度はステラ系販売店に就職するが、レースへの夢を断ちがたくサムスへ再就職。
@@ -830,7 +830,7 @@
 ## 外部リンク
 
   - [曽田正人オフィシャルウェブ](http://www.sodamasahito.com/) - 公式サイト
-  - [capeta カペタ](http://www.tv-tokyo.co.jp/anime/capeta/) - テレビ東京・[あにてれ](https://ja.wikipedia.org/wiki/あにてれ "wikilink")
+  - [capeta カペタ](https://www.tv-tokyo.co.jp/anime/capeta/) - テレビ東京・[あにてれ](https://ja.wikipedia.org/wiki/あにてれ "wikilink")
 
 [pt:Capeta](https://ja.wikipedia.org/wiki/pt:Capeta "wikilink")
 

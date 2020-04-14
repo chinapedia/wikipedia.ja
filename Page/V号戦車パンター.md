@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[V号戦車パンター](https://ja.wikipedia.org/wiki/V号戦車パンター)から翻訳されています。
 
 
 **V号戦車パンター**（ごごうせんしゃパンター、Panzerkampfwagen V Panther [制式番号](../Page/特殊車輌番号.md "wikilink")：Sd.Kfz.171）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[中戦車](../Page/中戦車.md "wikilink")（45トン級）である。

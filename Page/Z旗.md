@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z旗](https://ja.wikipedia.org/wiki/Z旗)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Zulu_flag.svg "wikilink") **Z旗**（ゼットき）、**Z信号旗**（ゼットしんごうき）は、[船](https://ja.wikipedia.org/wiki/船 "wikilink")同士の意思疎通のために用いる[国際信号旗](../Page/国際信号旗.md "wikilink")の1つ。
@@ -21,13 +21,15 @@
 
 ### ダットサンZ / フェアレディZ における逸話
 
+[1960年代](../Page/1960年代.md "wikilink")中期、当時のアメリカ[日産の](../Page/日産自動車.md "wikilink")[社長](../Page/社長.md "wikilink")、[片山豊](../Page/片山豊.md "wikilink")が企画提案したのがきっかけで開発が始まった[スポーツカー](../Page/スポーツカー.md "wikilink")「開発コード "Z"」のスタッフ達に、片山が奮起を願って贈呈した[旗](../Page/旗.md "wikilink")でもある\[3\]。
+
 ### 船舶業における使用
 
-[長崎県](../Page/長崎県.md "wikilink")の[大島造船所](https://ja.wikipedia.org/wiki/大島造船所 "wikilink")では、[円高への危機感を背景に](../Page/円相場.md "wikilink")、Z旗を掲げることで自社の[従業員らを鼓舞し](../Page/社員.md "wikilink")、危機意識を高めたという\[3\]。
+[長崎県](../Page/長崎県.md "wikilink")の[大島造船所](https://ja.wikipedia.org/wiki/大島造船所 "wikilink")では、[円高への危機感を背景に](../Page/円相場.md "wikilink")、Z旗を掲げることで自社の[従業員らを鼓舞し](../Page/社員.md "wikilink")、危機意識を高めたという\[4\]。
 
 ### コーポレートマーク
 
-[CAD](../Page/CAD.md "wikilink")メーカーの[図研](../Page/図研.md "wikilink")では、社名の「図」や「Z」のイメージを持たせ、Z旗をかけあわせたコーポレートマークを制定している\[4\]（Z旗で赤色の部分も青色となっている）。
+[CAD](../Page/CAD.md "wikilink")メーカーの[図研](../Page/図研.md "wikilink")では、社名の「図」や「Z」のイメージを持たせ、Z旗をかけあわせたコーポレートマークを制定している\[5\]（Z旗で赤色の部分も青色となっている）。
 
 ## 脚注
 
@@ -42,5 +44,6 @@
 
 1.  宮嶋茂樹 「MIGHTY FLEET 精強なる日本艦隊」 講談社、2012年、148頁。ISBN 978-4062180764
 2.
-3.  「会社案内」『[株式会社大島造船所/会社案内](http://www.osy.co.jp/overview.html)』[大島造船所](https://ja.wikipedia.org/wiki/大島造船所 "wikilink")
-4.  [コーポレートフィロソフィ](http://www.zuken.co.jp/company/philosophy.php) 図研、2013年8月10日閲覧
+3.
+4.  「会社案内」『[株式会社大島造船所/会社案内](http://www.osy.co.jp/overview.html)』[大島造船所](https://ja.wikipedia.org/wiki/大島造船所 "wikilink")
+5.  [コーポレートフィロソフィ](http://www.zuken.co.jp/company/philosophy.php) 図研、2013年8月10日閲覧

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[II号戦車](https://ja.wikipedia.org/wiki/II号戦車)から翻訳されています。
 
 
 **II号戦車**（にごうせんしゃ、Panzerkampfwagen II）は、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")で作られた[軽戦車](../Page/軽戦車.md "wikilink")（10トン級）である。

@@ -1,7 +1,7 @@
 > この記事は[Nou-darake](https://ja.wikipedia.org/wiki/Nou-darake)から翻訳されています。
 
 
-**nou-darake遺伝子**（**ノウダラケ遺伝子**、**ndk遺伝子**）は[プラナリア](../Page/プラナリア.md "wikilink")頭部で発現する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の一つである。その機能を抑制すると頭部以外でも[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")の発達を促進することから、「[脳](../Page/脳.md "wikilink")だらけ」と名づけられた（ジョークではなくれっきとした専門用語である）。これらの成果は[国立遺伝学研究所](../Page/国立遺伝学研究所.md "wikilink")と[理化学研究所](https://ja.wikipedia.org/wiki/理化学研究所 "wikilink")の共同研究によって同定された。
+**nou-darake遺伝子**（**ノウダラケ遺伝子**、**ndk遺伝子**）は[プラナリア](../Page/プラナリア.md "wikilink")頭部で発現する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の一つである。その機能を抑制すると頭部以外でも[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")の発達を促進することから、「[脳](../Page/脳.md "wikilink")だらけ」と名づけられた（駄洒落ではなくレッキとした専門用語である）。これらの成果は[国立遺伝学研究所](../Page/国立遺伝学研究所.md "wikilink")と[理化学研究所](https://ja.wikipedia.org/wiki/理化学研究所 "wikilink")の共同研究によって同定された。
 
 その研究によれば、ndk遺伝子について*今のところ*提唱されているストーリーは、以下の通りである。
 

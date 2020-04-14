@@ -12,7 +12,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エヌ（エン）**
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エヌ（エン）**
 
   - （エネ）
 
@@ -90,7 +90,7 @@
   - 自動車の[国際識別記号](../Page/国際識別記号.md "wikilink")では、[ノルウェー](../Page/ノルウェー.md "wikilink") ()。
   - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")での路線符号。
       - [東京メトロ南北線](../Page/東京メトロ南北線.md "wikilink") ()
-      - [大阪市高速電気軌道長堀鶴見緑地線](../Page/大阪市高速電気軌道長堀鶴見緑地線.md "wikilink") ()
+      - [Osaka Metro長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink") ()
       - [札幌市営地下鉄南北線](https://ja.wikipedia.org/wiki/札幌市営地下鉄南北線 "wikilink") ()
       - [JR四国](../Page/四国旅客鉄道.md "wikilink")[鳴門線](https://ja.wikipedia.org/wiki/鳴門線 "wikilink") ()
       - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") [トランジリアン](https://ja.wikipedia.org/wiki/トランジリアン "wikilink")モンパルナス線。
@@ -102,6 +102,7 @@
   - [否定](../Page/否定.md "wikilink") ()。[Y](../Page/Y.md "wikilink") の反対
   - [テレビ番組](../Page/テレビ番組.md "wikilink")表で[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。「<span style="border:thin solid rgb(0,0,0);">N</span>」で表す。
   - [自動車](../Page/自動車.md "wikilink")や[オートバイ](../Page/オートバイ.md "wikilink")の[ギアポジションのニュートラル](https://ja.wikipedia.org/wiki/変速機 "wikilink")。
+  - [ヒュンダイのハイパフォーマンスブランド](../Page/現代自動車.md "wikilink")。[ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink")の頭文字から。
   - 新型・新形式 ()。従来形式と同一の名称が使用される場合に、区別のため接頭もしくは接尾に付されることがある。
   - [チェス](../Page/チェス.md "wikilink")の棋譜などで[ナイト](../Page/ナイト_\(チェス\).md "wikilink")（)（Kは[キング](../Page/キング_\(チェス\).md "wikilink")）。将棋でもナイトに相当する[桂馬](../Page/桂馬.md "wikilink")を表す。
 

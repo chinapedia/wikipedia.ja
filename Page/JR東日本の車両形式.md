@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本の車両形式](https://ja.wikipedia.org/wiki/JR東日本の車両形式)から翻訳されています。
 
 
 **JR東日本の車両形式**（ジェイアールひがしにほんのしゃりょうけいしき）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）に在籍する、あるいは在籍した[鉄道車両](../Page/鉄道車両.md "wikilink")の一覧である。
@@ -54,16 +54,16 @@
       - **直流用**
           - [157系](../Page/国鉄157系電車.md "wikilink")（貴賓車のみ）
           - [185系](https://ja.wikipedia.org/wiki/国鉄185系電車 "wikilink")（[踊り子](https://ja.wikipedia.org/wiki/踊り子_\(列車\) "wikilink")）
-          - [251系](../Page/JR東日本251系電車.md "wikilink")（スーパービュー踊り子）
           - [253系](../Page/JR東日本253系電車.md "wikilink")（[日光・きぬがわ](../Page/日光_\(列車\).md "wikilink")）
           - [255系](../Page/JR東日本255系電車.md "wikilink")（[しおさい](../Page/しおさい_\(列車\).md "wikilink")・[わかしお](../Page/わかしお_\(列車\).md "wikilink")）
-          - [E257系](../Page/JR東日本E257系電車.md "wikilink")（[さざなみ](../Page/さざなみ_\(列車\).md "wikilink")・しおさい・わかしお）
+          - [E257系](../Page/JR東日本E257系電車.md "wikilink")（[さざなみ](../Page/さざなみ_\(列車\).md "wikilink")・しおさい・わかしお・踊り子）
           - [E259系](../Page/JR東日本E259系電車.md "wikilink")（[成田エクスプレス](https://ja.wikipedia.org/wiki/成田エクスプレス "wikilink")）
+          - [E261系](https://ja.wikipedia.org/wiki/JR東日本E261系電車 "wikilink")（[サフィール踊り子](https://ja.wikipedia.org/wiki/踊り子_\(列車\) "wikilink")）
           - [E353系](https://ja.wikipedia.org/wiki/JR東日本E353系電車 "wikilink")（[あずさ](../Page/あずさ_\(列車\).md "wikilink")・[かいじ](../Page/かいじ_\(列車\).md "wikilink")・[富士回遊](../Page/富士回遊.md "wikilink")・[はちおうじ](../Page/はちおうじ・おうめ.md "wikilink")・[おうめ](../Page/はちおうじ・おうめ.md "wikilink")）
           - [651系1000番台](../Page/JR東日本651系電車.md "wikilink")（[草津](../Page/草津_\(列車\).md "wikilink")・[あかぎ・スワローあかぎ](https://ja.wikipedia.org/wiki/あかぎ_\(列車\) "wikilink")）
       - **交直両用**
           - [485系](../Page/国鉄485系電車.md "wikilink")
-          - [583系](../Page/国鉄583系電車.md "wikilink")
+          - [583系](../Page/国鉄583系電車.md "wikilink")(クハネ583-17のみ)
           - [651系0番台](../Page/JR東日本651系電車.md "wikilink")
           - [E653系](../Page/JR東日本E653系電車.md "wikilink")（[いなほ](../Page/いなほ_\(列車\).md "wikilink")・[しらゆき](../Page/しらゆき_\(列車\).md "wikilink")）
           - [E655系](../Page/JR東日本E655系電車.md "wikilink")（ハイグレード車両+特別車両）
@@ -176,10 +176,13 @@
 
 ## 導入予定車両
 
-  - **特急形電車**
-      - [E261系](https://ja.wikipedia.org/wiki/JR東日本E261系電車 "wikilink")
+  - **新幹線車両**
+      - E8系
           -
-            2020年春に東京・新宿 - 伊豆急下田間で営業運転を開始する予定の直流特急形電車。8両編成で、1+1列の座席を装備するJR東日本初となるプレミアムグリーン車1両（20席）、グリーン個室車2両（40席）、[麺](../Page/麺.md "wikilink")が楽しめるヌードルバー1両、2+1列の座席を装備するグリーン車4両（104席）の構成となる\[6\]。『スーパービュー踊り子』の代替となる『サフィール踊り子』で使用される予定。
+            2024年春から[山形新幹線](../Page/山形新幹線.md "wikilink")向けに導入予定の新幹線車両。2020年3月3日に発表された\[6\]。[奥山清行](../Page/奥山清行.md "wikilink")が代表を務める KEN OKUYAMA DESIGN の監修のもと、[川崎重工業がデザインを担当する](../Page/川崎重工業車両カンパニー.md "wikilink")。
+            先頭形状を秋田新幹線向け[E6系同様の](https://ja.wikipedia.org/wiki/新幹線E6系電車 "wikilink")「アローライン」としつつ、先頭部の長さを現行の[E3系](https://ja.wikipedia.org/wiki/新幹線E3系電車 "wikilink")（6m）とE6系（13m）の中間となる9mとすることにより、E6系同様の7両編成（5M2T）としつつ、編成あたりの定員をE6系より多い355名とする。
+            そのほか、大型荷物置場の全車両への設置、電源コンセントの全席配置、車椅子スペースの増設など、設備を充実させたものとする予定。
+            東北新幹線区間で[E5系との併結により](https://ja.wikipedia.org/wiki/新幹線E5系・H5系電車 "wikilink")300km/h運転が可能となる予定で、17編成119両を投入予定。
   - **一般形車両（試験車両）**
       - FV-E991系
           -
@@ -233,6 +236,7 @@
       - **直流用**
           - [183系](https://ja.wikipedia.org/wiki/国鉄183系電車 "wikilink")
           - [189系](https://ja.wikipedia.org/wiki/国鉄183系電車#189系 "wikilink")
+          - [251系](../Page/JR東日本251系電車.md "wikilink")
           - [E351系](../Page/JR東日本E351系電車.md "wikilink")
       - **交直両用**
           - [483系](../Page/国鉄485系電車.md "wikilink")
@@ -371,6 +375,6 @@
 3.  鉄道ジャーナル社『鉄道ジャーナル』No.492 p. 38：JR東日本運輸車両部の菊池隆寛が「E233系一般形直流電車」と記載。
 4.  ただしでは通勤形電車・近郊形電車と記載。
 5.  ただしでは近郊形電車と記載。
-6.  [伊豆エリアへ新たな観光特急列車を運行します](http://www.jreast.co.jp/press/2018/20180502.pdf) - JR東日本公式ホームページ
+6.
 7.
 8.

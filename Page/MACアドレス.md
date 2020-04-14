@@ -1,4 +1,4 @@
-> この記事は[MAC](https://ja.wikipedia.org/wiki/MAC)から翻訳されています。
+> この記事は[MACアドレス](https://ja.wikipedia.org/wiki/MACアドレス)から翻訳されています。
 
 
 **MACアドレス**（マック・アドレス、）とは、[ネットワーク上で](../Page/コンピュータネットワーク.md "wikilink")、各[ノードを識別するために設定されている](https://ja.wikipedia.org/wiki/ノード_\(ネットワーク\) "wikilink")[LANカード](https://ja.wikipedia.org/wiki/LANカード "wikilink")などのネットワーク機器の[ハードウェア](../Page/ハードウェア.md "wikilink")に（原則として）一意に割り当てられる物理アドレスである。[OSI参照モデル](../Page/OSI参照モデル.md "wikilink")でいえば、第2層（[データリンク層](../Page/データリンク層.md "wikilink")）[Media Access Controlのアドレスにあたる](../Page/媒体アクセス制御.md "wikilink")。

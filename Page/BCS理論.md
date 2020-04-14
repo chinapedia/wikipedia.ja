@@ -1,4 +1,4 @@
-> この記事は[BCS](https://ja.wikipedia.org/wiki/BCS)から翻訳されています。
+> この記事は[BCS理論](https://ja.wikipedia.org/wiki/BCS理論)から翻訳されています。
 
 
 **BCS理論**（ビーシーエスりろん、BCS theory、**B**ardeen **C**ooper **S**chrieffer）とは、1911年の[超伝導](../Page/超伝導.md "wikilink")現象発見以来、初めてこの現象を微視的に解明した理論。1957年に米国、イリノイ大学の[ジョン・バーディーン](../Page/ジョン・バーディーン.md "wikilink")、[レオン・クーパー](../Page/レオン・クーパー.md "wikilink")、[ジョン・ロバート・シュリーファー](../Page/ジョン・ロバート・シュリーファー.md "wikilink")の三人によって提唱された。三人の名前の頭文字からBCSと付けられた。この理論によると超伝導[転移温度](https://ja.wikipedia.org/wiki/転移温度 "wikilink")や比熱などが、式により表される。三人はこの業績により1972年のノーベル物理学賞を受賞した。

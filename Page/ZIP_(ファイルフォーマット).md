@@ -1,4 +1,4 @@
-> この記事は[ZIP \(\)](https://ja.wikipedia.org/wiki/ZIP_\(\))から翻訳されています。
+> この記事は[ZIP \(ファイルフォーマット\)](https://ja.wikipedia.org/wiki/ZIP_\(ファイルフォーマット\))から翻訳されています。
 
 
 **ZIP**（ジップ）は、[データ圧縮](../Page/データ圧縮.md "wikilink")や[アーカイブの](../Page/アーカイブ_\(コンピュータ\).md "wikilink")[フォーマット](../Page/ファイルフォーマット.md "wikilink")。[Windowsでよく使用されるフォーマットである](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\] 。

@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S端子](https://ja.wikipedia.org/wiki/S端子)から翻訳されています。
 
 
 [thumbに搭載されている](https://ja.wikipedia.org/wiki/ファイル:AV-INPUT001.PNG "wikilink")。\]\] [thumbの中には](https://ja.wikipedia.org/wiki/ファイル:Video_card_Outputs.jpg "wikilink")、S映像出力端子が標準で搭載されている機種もある。\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Vivo_splitter_cable.jpg "wikilink") **S端子**（エスたんし）とは[テレビや](../Page/テレビ受像機.md "wikilink")[VTRなどで用いられる](../Page/ビデオテープレコーダ.md "wikilink")[映像信号](../Page/映像信号.md "wikilink")入出力用接続[コネクタ](../Page/コネクタ.md "wikilink")とその信号の規格の1つであり、Sはセパレート (Separate) の略である\[1\]。セパレート端子、S1/S2映像出力、S1/S2映像端子、S1 (S) 映像、Sビデオ、S映像など様々な表記法がある。 信号は、[アナログ](../Page/アナログ.md "wikilink")信号である。

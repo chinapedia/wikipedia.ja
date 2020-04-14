@@ -1,4 +1,4 @@
-> この記事は[Dr.!!](https://ja.wikipedia.org/wiki/Dr.!!)から翻訳されています。
+> この記事は[Dr.椎名の教育的指導!!](https://ja.wikipedia.org/wiki/Dr.椎名の教育的指導!!)から翻訳されています。
 
 
 「**Dr.椎名の教育的指導\!\!**」（ドクターしいなのきょういくてきしどう\!\!）は、[椎名高志](../Page/椎名高志.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。椎名高志のプロデビュー作である。

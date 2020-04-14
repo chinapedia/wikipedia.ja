@@ -1,13 +1,13 @@
 > この記事は[T.M.Revolution](https://ja.wikipedia.org/wiki/T.M.Revolution)から翻訳されています。
 
 
-**T.M.Revolution**（ティー・エム・レボリューション）は、[西川貴教](../Page/西川貴教.md "wikilink")の[ソロプロジェクト](../Page/一人バンド.md "wikilink")。略称は**T.M.R**、**TM**など。[浅倉大介](../Page/浅倉大介.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースした自身のソロシングル「[BLACK OR WHITE?](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE? "wikilink")」に、ゲストボーカルとして西川を起用した事がきっかけとなりプロジェクトが発足した。
+**T.M.Revolution**（ティー・エム・レボリューション）は、[西川貴教](../Page/西川貴教.md "wikilink")の[ソロプロジェクト](../Page/一人バンド.md "wikilink")。略称は**T.M.R**、**TM**など。[浅倉大介](../Page/浅倉大介.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースした自身のソロシングル「[BLACK OR WHITE?](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE? "wikilink")」に、ゲストボーカルとして西川を起用したことがきっかけとなり、プロジェクトが発足した。
 
 ## 名前の由来
 
 "**T**akanori **M**akes **R**evolution"（貴教が革命を起こす）の頭文字を取ったものである。また、西川貴教という一個人の名義ではなく、プロデューサー（浅倉大介）や関係者、また全てのファンも一緒に歩んで行くという意味が込められたプロジェクトの名称である。
 
-なお、この名称は浅倉大介がサポートメンバーを務めていた[TM NETWORKに由来していると推測されるが](../Page/TM_NETWORK.md "wikilink")、浅倉は著書の中で「似ている事には後で気が付いた」と述べている。一方、浅倉はテレビやラジオ等で[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に「TMの名前を使わせて貰います」と直接電話した事を語っている。
+なお、この名称は浅倉大介がサポートメンバーを務めていた[TM NETWORKに由来していると推測されるが](../Page/TM_NETWORK.md "wikilink")、浅倉は著書の中で「似ている事には後で気が付いた」と述べている。一方、浅倉はテレビやラジオ等で[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に「TMの名前を使わせて貰います」と直接電話したことを語っている。
 
 ## 来歴
 
@@ -203,7 +203,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1997年<a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
-<td><p><strong><a href="../Page/HIGH_PRESSURE.md" title="wikilink">HIGH PRESSURE</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/HIGH_PRESSURE_(曲)" title="wikilink">HIGH PRESSURE</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -883,7 +883,7 @@
       - [伊東正](https://ja.wikipedia.org/wiki/伊東正 "wikilink")(1997年11月〜1998年4月)
       - [大橋イサム](https://ja.wikipedia.org/wiki/大橋イサム "wikilink")（1998年〜2001年）
       - [SUNAO](../Page/SUNAO.md "wikilink")（1998年7月〜1999年2月、2000年8月〜2014年）([abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink"))
-      - [柴崎浩](../Page/柴崎浩.md "wikilink")（2004年〜）(ex.[WANDS](../Page/WANDS.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）
+      - [柴崎浩](../Page/柴崎浩.md "wikilink")（2004年〜）([WANDS](../Page/WANDS.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）
       - [Leda](https://ja.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")（2013年4月）（ex.[DELUHI](https://ja.wikipedia.org/wiki/DELUHI "wikilink")）
       - [菰口雄矢](https://ja.wikipedia.org/wiki/菰口雄矢 "wikilink")（2015年〜)
 

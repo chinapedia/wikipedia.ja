@@ -1,4 +1,4 @@
-> この記事は[S.S.](https://ja.wikipedia.org/wiki/S.S.)から翻訳されています。
+> この記事は[乱破S.S.](https://ja.wikipedia.org/wiki/乱破S.S.)から翻訳されています。
 
 
 『**乱破S.S.**』（らっぱセキュリティーサービス）は、[椎名高志](../Page/椎名高志.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年サンデー増刊号](https://ja.wikipedia.org/wiki/週刊少年サンデー超 "wikilink")』（[小学館](../Page/小学館.md "wikilink")）において連載された『[(有) 椎名百貨店](../Page/\(有\)_椎名百貨店.md "wikilink")』で掲載された作品。

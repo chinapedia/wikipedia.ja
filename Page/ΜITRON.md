@@ -1,4 +1,4 @@
-> この記事は[ITRON](https://ja.wikipedia.org/wiki/ITRON)から翻訳されています。
+> この記事は[ΜITRON](https://ja.wikipedia.org/wiki/ΜITRON)から翻訳されています。
 
 
 **μITRON**（マイクロアイトロン、**Micro Industrial TRON**、**ΜITRON**）は、[ITRON](../Page/ITRON.md "wikilink")の仕様の一系統である。

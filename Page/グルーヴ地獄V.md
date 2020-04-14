@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[グルーヴ地獄V](https://ja.wikipedia.org/wiki/グルーヴ地獄V)から翻訳されています。
 
 
 『**グルーヴ地獄V**』（グルーヴじごくファイヴ）は、[ソニー・ミュージックエンタテインメントから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

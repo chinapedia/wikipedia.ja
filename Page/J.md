@@ -25,7 +25,7 @@
 
   - （イルンガ＝長い I）
 
-  - [オランダ語](../Page/オランダ語.md "wikilink")・[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")：イェー
+  - [オランダ語](../Page/オランダ語.md "wikilink")・[ハンガリー語](../Page/ハンガリー語.md "wikilink")：イェー
 
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：ジ
 

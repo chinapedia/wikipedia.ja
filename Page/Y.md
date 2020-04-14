@@ -82,7 +82,7 @@
       - [ヨタ](https://ja.wikipedia.org/wiki/ヨタ "wikilink") (10<sup>24</sup>) (Y)
       - [ヨクト](https://ja.wikipedia.org/wiki/ヨクト "wikilink") (10<sup>-24</sup>) (y)
   - 航空機の[エコノミークラス](../Page/エコノミークラス.md "wikilink")
-  - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、東京では[東京メトロ有楽町線](../Page/東京メトロ有楽町線.md "wikilink") (**Y**urakucho)、大阪では[大阪市高速電気軌道四つ橋線](../Page/大阪市高速電気軌道四つ橋線.md "wikilink") (**Y**otsubashi) を表す。
+  - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、東京では[東京メトロ有楽町線](../Page/東京メトロ有楽町線.md "wikilink") (**Y**urakucho)、大阪では[Osaka Metro四つ橋線](https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線 "wikilink") (**Y**otsubashi) を表す。
       - 名古屋では[ガイドウェイバス志段味線](../Page/名古屋ガイドウェイバスガイドウェイバス志段味線.md "wikilink")（愛称の「[ゆとりーとライン](../Page/ゆとりーとライン.md "wikilink")」(**Y**utreet Line) より）。
   - [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「 - と」の意味の、英語の"and"に相当する単語 (y、&)
   - [Y染色体](../Page/Y染色体.md "wikilink")

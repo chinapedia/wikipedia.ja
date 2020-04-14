@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webオーサリングツール](https://ja.wikipedia.org/wiki/Webオーサリングツール)から翻訳されています。
 
 
 [Kwrite_edit_html.png](https://ja.wikipedia.org/wiki/File:Kwrite_edit_html.png "fig:Kwrite_edit_html.png") - HTMLエディタの例\]\]

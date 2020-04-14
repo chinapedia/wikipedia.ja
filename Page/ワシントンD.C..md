@@ -1,25 +1,11 @@
-> この記事は[D.C.](https://ja.wikipedia.org/wiki/D.C.)から翻訳されています。
+> この記事は[ワシントンD.C.](https://ja.wikipedia.org/wiki/ワシントンD.C.)から翻訳されています。
 
 
-**ワシントンD.C.**（ワシントン・ディーシー、）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[首都](../Page/首都.md "wikilink")。
+**コロンビア特別区**（コロンビアとくべつく、）、通称**ワシントンD.C.**（ワシントン・ディーシー、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[首都](../Page/首都.md "wikilink")。
 
 同国[東海岸](https://ja.wikipedia.org/wiki/アメリカ東海岸 "wikilink")、[メリーランド州](../Page/メリーランド州.md "wikilink")と[ヴァージニア州](https://ja.wikipedia.org/wiki/ヴァージニア州 "wikilink")に挟まれた[ポトマック川](../Page/ポトマック川.md "wikilink")河畔に位置する。
 
-超大国の首都としては狭く人口もさほど多くないが、超大国の政府所在地として国際的に強大な政治的影響力を保持する[世界都市](../Page/世界都市.md "wikilink")であり、また[金融センター](https://ja.wikipedia.org/wiki/金融センター "wikilink")としても高い重要性を持つ。首都としての機能を果たすべく設計された、[計画都市](https://ja.wikipedia.org/wiki/計画都市 "wikilink")である\[1\]。
-
-## 名称
-
-法律上の正式名称は「**コロンビア特別区**」（コロンビアとくべつく、District of Columbia）。州には属さないアメリカ合衆国・連邦政府直轄地。
-
-コロンビア特別領 () として[1790年](../Page/1790年.md "wikilink")に創設され、[1801年](../Page/1801年.md "wikilink")の[コロンビア特別区自治法（旧）により地方自治権を持つコロンビア特別区となった](https://ja.wikipedia.org/wiki/:en:District_of_Columbia_Organic_Act_of_1801 "wikilink")。特別区内には自治権を持つ市や郡があり、その一つが首都たるワシントン市だった。しかし[1871年](../Page/1871年.md "wikilink")の[コロンビア特別区自治法（新）により特別区内の全ての自治体は特別区に統合された](https://ja.wikipedia.org/wiki/:en:District_of_Columbia_Organic_Act_of_1871 "wikilink")。
-
-この歴史的な経緯から、かつての呼び名である  がしばしば使われる。ただしこれは「コロンビア特別区のワシントン市」という意味の語句であり、かつての正式名称というわけではない。またそれゆえ、これを和訳する場合は（語順どおりに**ワシントン・コロンビア特別区**ともするが）直訳は**コロンビア特別区ワシントン**となる。
-
-略して**ワシントンD.C.**と呼び、米国ではWashington、The District、または単にD.C.とも通称する。日本語では**首都ワシントン**または**ワシントン**と呼ぶことも多い。
-
-"D.C." は "District of Columbia"（[コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア_\(古名\) "wikilink")）の頭文字で、[南アメリカ](../Page/南アメリカ.md "wikilink")の[コロンビア](../Page/コロンビア.md "wikilink")共和国と同様、[クリストファー・コロンブス](../Page/クリストファー・コロンブス.md "wikilink")にちなんだ名である。日本語では、このワシントンD.C.のことは単に「ワシントン」と呼び、[ワシントン州](../Page/ワシントン州.md "wikilink")はワシントンD.C.と識別するため「ワシントン州」と呼ぶのが一般的である。
-
-漢字による当て字は**華盛頓**で、**華府**と略す。
+[超大国](../Page/超大国.md "wikilink")の首都としては狭く人口もさほど多くないが、超大国の[政府](../Page/政府.md "wikilink")所在地として国際的に強大な政治的影響力を保持する[世界都市](../Page/世界都市.md "wikilink")であり、また[金融センター](https://ja.wikipedia.org/wiki/金融センター "wikilink")としても高い重要性を持つ。首都としての機能を果たすべく設計された、[計画都市](https://ja.wikipedia.org/wiki/計画都市 "wikilink")である\[1\]。
 
 ## 概要
 
@@ -36,6 +22,20 @@
 [連邦議会がワシントンD](https://ja.wikipedia.org/wiki/アメリカ合衆国議会 "wikilink").C.における権限を有している。連邦議会に関してワシントンD.C.は、下院に本会議での投票権を持たない市代表（代議員）を選出しているものの、上院議員の議席は与えられていない。ワシントンD.C.が州であると仮定し他の州と比較すれば、面積では[ロードアイランド州](https://ja.wikipedia.org/wiki/ロードアイランド州 "wikilink")に後れて最下位、人口では最下位から2番目（最下位は[ワイオミング州](../Page/ワイオミング州.md "wikilink")）であるが、人口密度では1位、州民総生産では35位、また黒人の比率では1位であり、国全体のマジョリティ（非ヒスパニック系白人）とマイノリティとは反転している。
 
 2011年現在、ワシントンD.C.においては[死刑制度](https://ja.wikipedia.org/wiki/死刑制度 "wikilink")が廃止されている。アメリカの[シンクタンク](../Page/シンクタンク.md "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した総合的な[世界都市](../Page/世界都市.md "wikilink")ランキングにおいて、世界17位の都市と評価されており、アメリカの[都市](../Page/都市.md "wikilink")では[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に次ぐ5位である\[7\]。
+
+## 名称
+
+法律上の正式名称は「**コロンビア特別区**」（コロンビアとくべつく、District of Columbia）。州には属さないアメリカ合衆国・連邦政府直轄地。
+
+コロンビア特別領 () として[1790年](../Page/1790年.md "wikilink")に創設され、[1801年](../Page/1801年.md "wikilink")の[コロンビア特別区自治法（旧）により地方自治権を持つコロンビア特別区となった](https://ja.wikipedia.org/wiki/:en:District_of_Columbia_Organic_Act_of_1801 "wikilink")。特別区内には自治権を持つ市や郡があり、その一つが首都たるワシントン市だった。しかし[1871年](../Page/1871年.md "wikilink")の[コロンビア特別区自治法（新）により特別区内の全ての自治体は特別区に統合された](https://ja.wikipedia.org/wiki/:en:District_of_Columbia_Organic_Act_of_1871 "wikilink")。
+
+この歴史的な経緯から、かつての呼び名である  がしばしば使われる。ただしこれは「コロンビア特別区のワシントン市」という意味の語句であり、かつての正式名称というわけではない。またそれゆえ、これを和訳する場合は（語順どおりに**ワシントン・コロンビア特別区**ともするが）直訳は**コロンビア特別区ワシントン**となる。
+
+略して**ワシントンD.C.**と呼び、米国ではWashington、The District、または単にD.C.とも通称する。日本語では**首都ワシントン**または**ワシントン**と呼ぶことも多い。
+
+"D.C." は "District of Columbia"（[コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア_\(古名\) "wikilink")）の頭文字で、[南アメリカ](../Page/南アメリカ.md "wikilink")の[コロンビア](../Page/コロンビア.md "wikilink")共和国と同様、[クリストファー・コロンブス](../Page/クリストファー・コロンブス.md "wikilink")にちなんだ名である。日本語では、このワシントンD.C.のことは単に「ワシントン」と呼び、[ワシントン州](../Page/ワシントン州.md "wikilink")はワシントンD.C.と識別するため「ワシントン州」と呼ぶのが一般的である。
+
+漢字による当て字は**華盛頓**で、**華府**と略す。
 
 ## 歴史
 

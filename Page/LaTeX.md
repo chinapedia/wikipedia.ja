@@ -114,9 +114,9 @@ m &=& \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}
 
   - Web 上で  を用いて数式の画像を生成できる
 
-  - [らすてすでいこう](http://www.geocities.co.jp/HeartLand-Poplar/1240/)
+  -
 
-      - [てふますたーへの道](http://www.geocities.co.jp/HeartLand-Poplar/1240/latex/menu.html)
+      -
 
   - [Cloud LaTeX](https://cloudlatex.io)[株式会社アカリクが運営する](../Page/アカリク.md "wikilink")、Web 上で  をコンパイルできるサービス
 

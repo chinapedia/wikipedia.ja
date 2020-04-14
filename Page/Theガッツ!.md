@@ -1,4 +1,4 @@
-> この記事は[The!](https://ja.wikipedia.org/wiki/The!)から翻訳されています。
+> この記事は[Theガッツ!](https://ja.wikipedia.org/wiki/Theガッツ!)から翻訳されています。
 
 
 『**Theガッツ\!**』（ザ ガッツ）は、[May-Be SOFTの](../Page/May-Be_SOFT.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、および同作をはじめとするシリーズ作品である。第2作以降は[オーサリングヘブンから発売](../Page/コンプリーツ.md "wikilink")、[2012年](../Page/2012年.md "wikilink")時点での最新作は[コンプリーツ](../Page/コンプリーツ.md "wikilink")から発売されている。

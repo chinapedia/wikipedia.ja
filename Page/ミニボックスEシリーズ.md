@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ミニボックスEシリーズ](https://ja.wikipedia.org/wiki/ミニボックスEシリーズ)から翻訳されています。
 
 
 **ミニボックスEシリーズ**は、イタリアの模型メーカー、[ESCI](https://ja.wikipedia.org/wiki/エッシー_\(模型メーカー\) "wikilink")（エッシー）が製造していた1/72スケールの[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")などの[AFVの模型を](../Page/装甲戦闘車両.md "wikilink")[ハセガワ](../Page/ハセガワ.md "wikilink")が輸入し、自社の[ミニボックスシリーズ](../Page/ミニボックスシリーズ.md "wikilink")の一部として販売していたシリーズである。

@@ -1,4 +1,4 @@
-> この記事は[SI](https://ja.wikipedia.org/wiki/SI)から翻訳されています。
+> この記事は[SI基本単位](https://ja.wikipedia.org/wiki/SI基本単位)から翻訳されています。
 
 
 **SI基本単位**（エスアイきほんたんい、、 又は[SI base units](https://ja.wikipedia.org/wiki/:en:SI_base_unit "wikilink")\[1\]）とは、[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")（SI）において、[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")として位置付けられている7つのSI単位である。これらは[国際量体系](https://ja.wikipedia.org/wiki/国際量体系 "wikilink")（ISQ）において[基本量](https://ja.wikipedia.org/wiki/基本量 "wikilink")として位置付けられている7つの[物理量](../Page/物理量.md "wikilink")のSI単位である。すべての物理量は、[次元解析](../Page/次元解析.md "wikilink")により基本量の組み合わせにより表現することができる。これと対応して、すべてのSI単位はSI基本単位の組み合わせにより表現することができる。

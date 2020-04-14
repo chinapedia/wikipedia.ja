@@ -20,7 +20,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：ベー
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：ベー
 
   - [越](../Page/ベトナム語.md "wikilink")：ベー、ボー
 

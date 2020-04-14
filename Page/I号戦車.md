@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[I号戦車](https://ja.wikipedia.org/wiki/I号戦車)から翻訳されています。
 
 
 **I号戦車**（いちごうせんしゃ、Panzerkampfwagen I）は、[ドイツ国](../Page/ドイツ国.md "wikilink")が[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後、初めて量産した[豆戦車](../Page/豆戦車.md "wikilink")（5トン級）である。

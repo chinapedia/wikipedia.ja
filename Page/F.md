@@ -10,7 +10,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エフ
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エフ
   - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：エフェ
   - [伊](../Page/イタリア語.md "wikilink")：エッフェ
   - [ウェールズ語](../Page/ウェールズ語.md "wikilink")：エヴ
@@ -40,7 +40,7 @@
 
 ### 学術的な記号・単位
 
-  - [弗素](https://ja.wikipedia.org/wiki/弗素 "wikilink")の元素記号。
+  - [フッ素](../Page/フッ素.md "wikilink")の元素記号。
   - [十五を意味する数字](../Page/15.md "wikilink")。[十六進法](../Page/十六進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、底が[十を超える](../Page/10.md "wikilink")[N進法において](https://ja.wikipedia.org/wiki/位取り記数法 "wikilink")、十五（[十進法](../Page/十進法.md "wikilink")の**15**）を一桁で表すために用いられる。
   - [温度計](../Page/温度計.md "wikilink")で、[華氏](../Page/華氏.md "wikilink")（[ファーレンハイト](../Page/ファーレンハイト.md "wikilink")、華倫海）。「{{°F}}」のように用いる。
   - [SI組立単位](../Page/SI組立単位.md "wikilink")における[静電容量](../Page/静電容量.md "wikilink")の単位名[ファラド](../Page/ファラド.md "wikilink") (**F**arad)。
@@ -117,6 +117,7 @@
   - [川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")のベストアルバム、MAMI KAWADA BEST "F"。
   - [F (Flowerのアルバム)](https://ja.wikipedia.org/wiki/F_\(Flowerのアルバム\) "wikilink")
   - [F (フジファブリックのアルバム)](https://ja.wikipedia.org/wiki/F_\(フジファブリックのアルバム\) "wikilink")
+  - [F (ファンキー加藤のアルバム)](../Page/F_\(ファンキー加藤のアルバム\).md "wikilink")
 
 ## 符号位置
 

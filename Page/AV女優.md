@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[AV女優](https://ja.wikipedia.org/wiki/AV女優)から翻訳されています。
 
 
 **AV女優**（エーブイじょゆう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")（AV。内容はポルノビデオ）に出演する専門の[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")である。非アダルト系メディア出演時には**セクシー女優**と言い換えられることがある。本項は日本のAVの女優について記述するため特記ない場合は日本における状況である。**AVアイドル**と呼ばれることもある。

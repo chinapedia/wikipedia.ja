@@ -12,7 +12,7 @@
 
 ## 呼称
 
-  - [羅](../Page/ラテン語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[イネ](../Page/インドネシア語.md "wikilink")：テー
+  - [羅](../Page/ラテン語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[イネ](../Page/インドネシア語.md "wikilink")：テー
 
   - [仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[土](../Page/トルコ語.md "wikilink")：テ
 
@@ -89,7 +89,7 @@
   - [電車](../Page/電車.md "wikilink")の車種を表す記号で**[付随車](../Page/付随車.md "wikilink")**（トレーラー = 電動機も運転台もない車両）のこと。ちなみに運転台付きはTc。対義語は「[M](../Page/M.md "wikilink")」（電動車、モーター付き車両）
   - [EMC製の](../Page/エレクトロ・モーティブ・ディーゼル.md "wikilink")[T形ディーゼル機関車の形式名](https://ja.wikipedia.org/wiki/EMC製のウィントンエンジン搭載の入換機#T形 "wikilink")
   - 関西の[東海道線の](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")、[高槻](https://ja.wikipedia.org/wiki/高槻駅 "wikilink")-[西明石間の快速電車の列車番号の末尾がTである事から](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")、現場の職員や鉄道ファンがT電と呼称している。
-  - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、札幌では[札幌市営地下鉄東西線](https://ja.wikipedia.org/wiki/札幌市営地下鉄東西線 "wikilink") (**T**ozai)、東京では[東京メトロ東西線](https://ja.wikipedia.org/wiki/東京メトロ東西線 "wikilink") (**T**ozai)、大阪では[大阪市高速電気軌道谷町線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道谷町線 "wikilink") (**T**animachi)、名古屋では[名古屋市営地下鉄鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") (**T**surumai)、京都では[京都市営地下鉄東西線](../Page/京都市営地下鉄東西線.md "wikilink") (**T**ozai) を表す。
+  - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、札幌では[札幌市営地下鉄東西線](https://ja.wikipedia.org/wiki/札幌市営地下鉄東西線 "wikilink") (**T**ozai)、東京では[東京メトロ東西線](https://ja.wikipedia.org/wiki/東京メトロ東西線 "wikilink") (**T**ozai)、大阪では[Osaka Metro谷町線](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink") (**T**animachi)、名古屋では[名古屋市営地下鉄鶴舞線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄鶴舞線 "wikilink") (**T**surumai)、京都では[京都市営地下鉄東西線](../Page/京都市営地下鉄東西線.md "wikilink") (**T**ozai) を表す。
   - [Tカード](../Page/Tカード.md "wikilink")は[都営地下鉄](../Page/都営地下鉄.md "wikilink")・[都営バス](../Page/都営バス.md "wikilink")・[東京都電](https://ja.wikipedia.org/wiki/東京都電 "wikilink")（いずれも[東京都交通局](../Page/東京都交通局.md "wikilink")運営）向けに作られた[乗車カード](../Page/乗車カード.md "wikilink")システムの総称及び呼称である。
   - 都営地下鉄の路線で、他社線との相互直通がある場合に都営地下鉄車両の所定運用に付けられるアルファベット。[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")・[京成電鉄](https://ja.wikipedia.org/wiki/京成電鉄 "wikilink")・[北総鉄道](../Page/北総鉄道.md "wikilink")・[京成成田空港線](https://ja.wikipedia.org/wiki/京成成田空港線 "wikilink")でも、自社線と都営地下鉄線を直通走行する列車での都営地下鉄車両が原則使用される場合の運行番号は「xxxxT」となる。（但し、都営地下鉄と直通している[東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")内では、6桁の数字のみ 例「xxxxxx」となり、[京王電鉄](../Page/京王電鉄.md "wikilink")内では4桁の数字のみ 例「xxxx」となる。）
 

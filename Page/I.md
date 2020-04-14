@@ -19,7 +19,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：イー
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：イー
   - [仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[伊](../Page/イタリア語.md "wikilink")：イ
   - [西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")：イ／イ・ラティナ（ラテン式のi（イ）という意味）
   - [英](../Page/英語.md "wikilink")：アイ
@@ -56,7 +56,7 @@
   - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")の第3弾の写真集のタイトル。イニシャルである**I**shikawaから。
   - [INFINITIの](../Page/インフィニティ_\(日産自動車\).md "wikilink")[乗用車](../Page/乗用車.md "wikilink")。→[インフィニティ・I](https://ja.wikipedia.org/wiki/インフィニティ・I "wikilink")
   - [エンジン](../Page/エンジン.md "wikilink")の[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")の英語のinjectionの頭文字の**i**。また、この装置が装備されていることを表す。（例: [BMW](../Page/BMW.md "wikilink")330**i**、PGM-F**I**）
-  - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、東京の地下鉄では[都営地下鉄三田線](https://ja.wikipedia.org/wiki/都営地下鉄三田線 "wikilink")（m**I**ta、Mは[東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")で使われている）、[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")では[今里筋線](../Page/大阪市高速電気軌道今里筋線.md "wikilink") (**I**mazatosuji) を表す。
+  - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、東京の地下鉄では[都営地下鉄三田線](https://ja.wikipedia.org/wiki/都営地下鉄三田線 "wikilink")（m**I**ta、Mは[東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")で使われている）、[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")では[今里筋線](https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線 "wikilink") (**I**mazatosuji) を表す。
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")のデビューシングル。→[I (西野カナの曲)](https://ja.wikipedia.org/wiki/I_\(西野カナの曲\) "wikilink")
   - [F-BLOOD](../Page/F-BLOOD.md "wikilink")のデビューシングル。→[I (F-BLOODの曲)](https://ja.wikipedia.org/wiki/I_\(F-BLOODの曲\) "wikilink")
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")のアルバム。→[I (いきものがかりのアルバム)](https://ja.wikipedia.org/wiki/I_\(いきものがかりのアルバム\) "wikilink")

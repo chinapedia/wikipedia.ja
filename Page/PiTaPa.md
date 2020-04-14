@@ -149,6 +149,8 @@
       - 3月28日 [関西空港交通](../Page/関西空港交通.md "wikilink")で「全国相互利用サービス」開始。
       - 4月1日 大阪市交通局が鉄軌道事業（地下鉄・ニュートラム）を[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（Osaka Metro）に、バス事業を[大阪シティバス](../Page/大阪シティバス.md "wikilink")に譲渡。PiTaPaは引き続き利用可能となる。
       - 10月1日 JR西日本（近畿圏エリア）においてポストペイサービス導入およびPiTaPa割引サービス適用開始。
+  - [2020年](../Page/2020年.md "wikilink")
+      - 3月23日 [伊丹市交通局](../Page/伊丹市交通局.md "wikilink")で「全国相互利用サービス」開始。
 
 ## 利用可能エリア
 
@@ -164,7 +166,7 @@
   - [能勢電鉄](../Page/能勢電鉄.md "wikilink")（[ケーブル線](https://ja.wikipedia.org/wiki/能勢電鉄妙見の森ケーブル "wikilink")・[リフトを除く](../Page/妙見の森リフト.md "wikilink")）◇
   - [京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")（[ケーブル線を除く](../Page/京阪鋼索線.md "wikilink")）◆
   - [叡山電鉄](../Page/叡山電鉄.md "wikilink")◇
-  - [大阪市高速電気軌道 (Osaka Metro)](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（[地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")・[ニュートラム](../Page/大阪市高速電気軌道南港ポートタウン線.md "wikilink"))◆
+  - [大阪市高速電気軌道 (Osaka Metro)](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（[地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")・[ニュートラム](https://ja.wikipedia.org/wiki/Osaka_Metro南港ポートタウン線 "wikilink"))◆
   - [北大阪急行電鉄](../Page/北大阪急行電鉄.md "wikilink")◆
   - [大阪高速鉄道](../Page/大阪高速鉄道.md "wikilink")（大阪モノレール）◆
   - [阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")◆
@@ -226,7 +228,7 @@
       - 電車全線（[日本平ロープウェイ](../Page/日本平ロープウェイ.md "wikilink")を除く）
   - [しずてつジャストライン](../Page/しずてつジャストライン.md "wikilink")◆<sup>※4</sup>
       - 路線バス全線（大規模催事輸送 の臨時シャトルバス・竜爪山線デマンドバス「りゅうそう号」・[定期観光バス](../Page/定期観光バス.md "wikilink")・県外高速線を除く ）。同社受託の自治体自主運行路線（コミュニティバス）など、詳細な取扱路線は[LuLuCa](../Page/LuLuCa.md "wikilink")の項を参照。
-  - [伊丹市交通局](../Page/伊丹市交通局.md "wikilink")<sup>※5</sup>
+  - [伊丹市交通局](../Page/伊丹市交通局.md "wikilink")◇<sup>※5</sup>
   - [京福電気鉄道](../Page/京福電気鉄道.md "wikilink")（嵐電）◆<sup>※6</sup>
   - [西日本JRバス](https://ja.wikipedia.org/wiki/西日本JRバス "wikilink")◇
       - 金沢営業所管内、若江線、高雄・京北線、園福線（2016年10月1日より中国ハイウェイバス、同年12月1日より淡路島発着路線）のみ
@@ -487,7 +489,7 @@ JR西日本のICOCAは発行枚数が1500万枚を突破しており、PiTaPaと
 
 ## PiTaPaのみ導入の事業者
 
-奈良交通グループ、神姫バスグループ、静鉄グループ、水間鉄道、江若交通、阪堺電気軌道、三重交通、西日本JRバス、本四海峡バスおよび岡山地区の各社（[宇野自動車](../Page/宇野自動車.md "wikilink")以外）においては、磁気式の[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")対応カードは導入せず、PiTaPaのみの導入となっている。
+奈良交通グループ、神姫バスグループ、静鉄グループ、水間鉄道、江若交通、阪堺電気軌道、三重交通、西日本JRバス、本四海峡バス、淡路交通および岡山地区の各社（[宇野自動車](../Page/宇野自動車.md "wikilink")以外）においては、磁気式の[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")対応カードは導入せず、PiTaPaのみの導入となっている。
 
 また、阪急バスグループ\[71\]、大阪空港交通\[72\]、叡山電鉄\[73\]などスルッとKANSAI対応カードの販売は[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")で、利用は[2018年](../Page/2018年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")で終了した。
 

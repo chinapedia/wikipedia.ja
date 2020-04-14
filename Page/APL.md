@@ -19,7 +19,7 @@ APLは[タイムシェアリングシステム](../Page/タイムシェアリン
 
 日本では、[日本IBMからの販売の他](../Page/日本アイ・ビー・エム.md "wikilink")、1980年代に株式会社[アンペールからノート型のAPLマシン](https://ja.wikipedia.org/wiki/アンペール_\(企業\) "wikilink")"WS-1"が発売された。
 
-APLを発展させた言語に、**[J](../Page/J_\(プログラミング言語\).md "wikilink")**がある。主な変更点の1つに、[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")だけで表記するようにした点が挙げられる。
+APLを発展させた言語に、**[J](../Page/J_\(プログラミング言語\).md "wikilink")**がある。主な変更点の1つに、[ASCII](../Page/ASCII.md "wikilink")だけで表記するようにした点が挙げられる。
 
 <table>
 <tbody>

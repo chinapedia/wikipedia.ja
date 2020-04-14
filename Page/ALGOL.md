@@ -444,7 +444,7 @@ ALGOLは文字セットが急速に発展し多様化していた時代に登場
 
 1960年の[情報処理国際連合](https://ja.wikipedia.org/wiki/情報処理国際連合 "wikilink") (IFIP) で発表された ALGOL 60 では、当時のほとんどのコンピュータではサポートされていない数学記号がいくつか使われていた。例えば、×, ÷, ≤, ≥, ≠, ¬, ∨, ∧, ⊂, ≡, ␣, <span style="font-family:'DejaVu Sans',Quivira,Symbola,'和田研中丸ゴシック2004絵文字','和田研細丸ゴシック2004絵文字','Nishiki-teki';">⏨</span>\[27\] などである。
 
-1961年9月、初期の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字セットが登場し、ALGOLの[ブーリアン演算子](../Page/ブーリアン型.md "wikilink") "/" と "/" をサポートするために[バックスラッシュ](../Page/バックスラッシュ.md "wikilink") () が初期段階で追加された\[28\]。
+1961年9月、初期の[ASCII](../Page/ASCII.md "wikilink")文字セットが登場し、ALGOLの[ブーリアン演算子](../Page/ブーリアン型.md "wikilink") "/" と "/" をサポートするために[バックスラッシュ](../Page/バックスラッシュ.md "wikilink") () が初期段階で追加された\[28\]。
 
 1962年、は2つの珍しい文字、"᛭" (iron/runic cross) と "⏨" ([Decimal Exponent Symbol](https://unicode.org/charts/PDF/U2300.pdf)) を浮動小数点形式で使用するためにALGOLの文字セットに加えた\[29\]\[30\]\[31\]。
 

@@ -12,7 +12,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：デー
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：デー
 
   - [仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[西](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[土](../Page/トルコ語.md "wikilink")：デ
 

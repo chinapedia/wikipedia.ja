@@ -1,9 +1,9 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[キヤノンITソリューションズ](https://ja.wikipedia.org/wiki/キヤノンITソリューションズ)から翻訳されています。
 
 
 **キヤノンITソリューションズ株式会社**（キヤノンアイティーソリューションズ、*Canon IT Solutions Inc.*）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")グループの[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。キヤノンシステムソリューションズ株式会社と株式会社アルゴ21が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月1日](../Page/4月1日.md "wikilink")に合併して誕生した。[東京](../Page/東京.md "wikilink")のほか、[新川崎](../Page/川崎市.md "wikilink")・[西東京](../Page/西東京市.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[刈谷](../Page/刈谷市.md "wikilink")・[宇都宮に事業所を持つ](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")。[2009年](../Page/2009年.md "wikilink")（平成21年）に中国ソリューション事業推進室を設置、2014年にタイのIT会社を傘下に加えるなど、海外事業の強化に乗り出している。2017年7月に[キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社と経営統合した。
 2019年9月に本社を港区のキヤノンSタワーに移転。東京23区における拠点としては、他に天王洲事業所、三田事業所がある。キヤノングループにおけるIT分野の中核を担う企業の位置づけである。\[1\] \[2\]
-\[3\] \[4\]
+[メディア](../Page/メディア.md "wikilink")でさえも誤認識\[3\] \[4\] することがあるが、キヤノンITソリューションズ株式会社は、[キヤノンマーケティングジャパン](../Page/キヤノンマーケティングジャパン.md "wikilink")の発行済株式100％の[子会社](../Page/子会社.md "wikilink")であり、[キヤノン株式会社](https://ja.wikipedia.org/wiki/キヤノン株式会社 "wikilink")の孫会社である。
 
 ## 主な事業
 
@@ -331,7 +331,7 @@
 
 1.  \[<https://cloud.watch.impress.co.jp/docs/news/1199179.html>　真に頼れるITパートナーへの脱皮を目指す――、キヤノンITS・金澤明社長が経営戦略を説明\]
 2.  \[<https://news.mynavi.jp/article/20190801-869451/>　キヤノンITSの金澤新社長が2019年下期の戦略を説明\]
-3.  ソフトウェアビジネス新市場 2015年版 下巻 [富士キメラ総研](https://ja.wikipedia.org/wiki/富士キメラ総研 "wikilink"), 2015.7 (ISBN:978-4-89443-745-6)
-4.  「客先常駐型派遣 ― キヤノンITソリューションズ」『[労働新聞](https://ja.wikipedia.org/wiki/労働新聞 "wikilink")』（[労働新聞社](https://ja.wikipedia.org/wiki/労働新聞社 "wikilink")発行）2011年12月26日付 第2854号
+3.  ソフトウェアビジネス新市場 2015年版 下巻 [富士キメラ総研](https://ja.wikipedia.org/wiki/富士キメラ総研 "wikilink"), 2015.7 (ISBN:978-4-89443-745-6) キヤノン株式会社の子会社と誤記あり
+4.  「客先常駐型派遣 ― キヤノンITソリューションズ」『[労働新聞](https://ja.wikipedia.org/wiki/労働新聞 "wikilink")』（[労働新聞社](https://ja.wikipedia.org/wiki/労働新聞社 "wikilink")発行）2011年12月26日付 第2854号 2面(ニュース面) にて、キヤノンの子会社と誤記あり
 5.  [BCN](http://award.computernews.com/article/news/0911/091117_120917.html) 2009年11月17日付記事「SSJ、販売に徹する新体制へ、開発部門を親会社のキヤノンITSに移管」
 6.  [キヤノンITソリューションズ株式会社とキヤノンソフトウェア株式会社を合併](https://www.canon-its.co.jp/news/detail/20170703.html)

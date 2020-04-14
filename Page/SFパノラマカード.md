@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SFパノラマカード](https://ja.wikipedia.org/wiki/SFパノラマカード)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SF_Panorama_Card.jpg "wikilink") **SFパノラマカード**は、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")が発行していた磁気記録式の[乗車カード](../Page/乗車カード.md "wikilink")（ストアードフェアカード）である。

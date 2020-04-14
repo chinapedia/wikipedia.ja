@@ -1,4 +1,4 @@
-> この記事は[SEED](https://ja.wikipedia.org/wiki/SEED)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED**』（きどうせんしガンダムシード、**MOBILE SUIT GUNDAM SEED**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ作品](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』の1つに属する[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。略称は『**SEED**』（シード）。

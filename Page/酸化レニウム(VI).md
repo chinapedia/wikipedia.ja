@@ -1,4 +1,4 @@
-> この記事は[\(VI\)](https://ja.wikipedia.org/wiki/\(VI\))から翻訳されています。
+> この記事は[酸化レニウム\(VI\)](https://ja.wikipedia.org/wiki/酸化レニウム\(VI\))から翻訳されています。
 
 
 | Section3 =  | Section7 =  }} **酸化レニウム(VI)**（さんかレニウム ろく、）は、[化学式](../Page/化学式.md "wikilink")が ReO<sub>3</sub> と表される[レニウム](../Page/レニウム.md "wikilink")の[酸化物](https://ja.wikipedia.org/wiki/酸化物 "wikilink")で、[金属光沢](../Page/金属光沢.md "wikilink")を持つ赤い固体である。[第7族元素](https://ja.wikipedia.org/wiki/第7族元素 "wikilink") (Mn, Tc, Re) の三酸化物の中で唯一安定に存在する。

@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[国鉄・JRの車両形式の一覧](https://ja.wikipedia.org/wiki/国鉄・JRの車両形式の一覧)から翻訳されています。
 
 
 **国鉄・JRの車両形式の一覧**（こくてつ・JRのしゃりょうけいしきのいちらん）

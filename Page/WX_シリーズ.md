@@ -1,4 +1,4 @@
-> この記事は[WX ](https://ja.wikipedia.org/wiki/WX_)から翻訳されています。
+> この記事は[WX シリーズ](https://ja.wikipedia.org/wiki/WX_シリーズ)から翻訳されています。
 
 
 **WX シリーズ**（ダブルエックスシリーズ）は[エー・アイ・ソフト](../Page/エー・アイ・ソフト.md "wikilink")が開発した[日本語入力システム](../Page/日本語入力システム.md "wikilink")（日本語入力[FEP](https://ja.wikipedia.org/wiki/FEP "wikilink")/[IME](https://ja.wikipedia.org/wiki/IME "wikilink")など）。 WX, WXS, WXP, WXII, WXII+, WXIIIを経てWXGへと進化した。

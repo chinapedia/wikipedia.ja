@@ -1,4 +1,4 @@
-> この記事は[ACM](https://ja.wikipedia.org/wiki/ACM)から翻訳されています。
+> この記事は[ACM国際大学対抗プログラミングコンテスト](https://ja.wikipedia.org/wiki/ACM国際大学対抗プログラミングコンテスト)から翻訳されています。
 
 
 **ACM国際大学対抗プログラミングコンテスト** (**ACM** **I**nternational **C**ollegiate **P**rogramming **C**ontest、略称:ACM-ICPCまたは単にICPC) は、コンピュータープログラミングにおける勝ち抜き型のコンテストである。世界中の大学を対象として毎年開催されている。このコンテストは[IBM](../Page/IBM.md "wikilink")にスポンサーとして協力を受けている。Executive DirectorのWilliam B. Poucher (大会本部である[ベイラー大学](../Page/ベイラー大学.md "wikilink")に教授として在籍) のもと、[ACMの後援によって六大州の各地で自律的に運営が行われている](../Page/Association_for_Computing_Machinery.md "wikilink")。

@@ -13,7 +13,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[イネ](../Page/インドネシア語.md "wikilink"): エル
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[イネ](../Page/インドネシア語.md "wikilink"): エル
 
   - （エレ）
 

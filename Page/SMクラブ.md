@@ -1,4 +1,4 @@
-> この記事は[SM](https://ja.wikipedia.org/wiki/SM)から翻訳されています。
+> この記事は[SMクラブ](https://ja.wikipedia.org/wiki/SMクラブ)から翻訳されています。
 
 
 **SMクラブ**とは、[サドや](../Page/サディズム.md "wikilink")[マゾの](../Page/マゾヒズム.md "wikilink")[SM嬢](https://ja.wikipedia.org/wiki/SM嬢 "wikilink")から[SMサービスが提供される店舗である](../Page/SM_\(性風俗\).md "wikilink")。男性向けの風俗店という性格の店舗が多く、これらの店では客の多くは男性で、サービスを行うサディスト役、マゾヒスト役は女性が多い。

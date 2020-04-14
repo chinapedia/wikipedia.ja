@@ -1,4 +1,4 @@
-> この記事は[MamiRADI](https://ja.wikipedia.org/wiki/MamiRADI)から翻訳されています。
+> この記事は[MamiのRADIかるコミュニケーション](https://ja.wikipedia.org/wiki/MamiのRADIかるコミュニケーション)から翻訳されています。
 
 
 『**mamiのRADIかるコミュニケーション**』（マミのラディかるコミュニケーション）は、[1984年](../Page/1984年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBCラジオ）、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。略称は**RADIコミ**（ラディコミ）。**RADIかる**はRADIO+カルチャー、またradical、軽〜くなどの意味を込めた造語。

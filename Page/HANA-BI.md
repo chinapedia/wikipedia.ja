@@ -1,7 +1,7 @@
 > この記事は[HANA-BI](https://ja.wikipedia.org/wiki/HANA-BI)から翻訳されています。
 
 
-『**HANA-BI**』（はなび）は、[1998年公開の](../Page/1998年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。監督・脚本・編集・挿入画、[北野武](../Page/ビートたけし.md "wikilink")。主演は[ビートたけし](../Page/ビートたけし.md "wikilink")。
+『**HANA-BI**』（はなび、）は、[1998年公開の](../Page/1998年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。監督・脚本・編集・挿入画、[北野武](../Page/ビートたけし.md "wikilink")。主演は[ビートたけし](../Page/ビートたけし.md "wikilink")。
 
 妻や同僚の生と死、そして妻との逃亡を敢行する一人の孤独な[刑事](../Page/刑事.md "wikilink")の人生模様を描く。
 

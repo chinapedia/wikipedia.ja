@@ -1,4 +1,4 @@
-> この記事は[RSA](https://ja.wikipedia.org/wiki/RSA)から翻訳されています。
+> この記事は[RSA暗号](https://ja.wikipedia.org/wiki/RSA暗号)から翻訳されています。
 
 
 **RSA暗号**（RSAあんごう）とは、桁数が大きい[合成数](../Page/合成数.md "wikilink")の[素因数分解](../Page/素因数分解.md "wikilink")問題が困難であることを安全性の根拠とした[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の一つである。 暗号\[1\]と[デジタル署名](../Page/デジタル署名.md "wikilink")を実現できる方式として最初に公開されたものである。

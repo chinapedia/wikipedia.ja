@@ -1,4 +1,4 @@
-> この記事は[BLACK](https://ja.wikipedia.org/wiki/BLACK)から翻訳されています。
+> この記事は[仮面ライダーBLACK](https://ja.wikipedia.org/wiki/仮面ライダーBLACK)から翻訳されています。
 
 
 |                                                                       |

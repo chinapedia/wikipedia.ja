@@ -23,7 +23,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[スラヴ語](https://ja.wikipedia.org/wiki/スラヴ語 "wikilink")：ゲー ,
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")・[スラヴ語](https://ja.wikipedia.org/wiki/スラヴ語 "wikilink")：ゲー ,
 
   - [土](../Page/トルコ語.md "wikilink")：ゲ
 

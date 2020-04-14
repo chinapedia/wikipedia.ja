@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[相補的DNA](https://ja.wikipedia.org/wiki/相補的DNA)から翻訳されています。
 
 
 **相補的DNA**（そうほてきDNA、complementary DNA）は、[mRNA](../Page/伝令RNA.md "wikilink") から[逆転写酵素](../Page/逆転写酵素.md "wikilink")を用いた逆転写反応によって合成された二本鎖 [DNA](../Page/デオキシリボ核酸.md "wikilink")。一般には「相補的」を意味する英語、complementary の頭文字をとって、**cDNA** と省略される。遺伝子の上でタンパク質に翻訳される領域の配列が開始コドンから終止コドンまで一続きに含まれているため、タンパク質の一次構造（アミノ酸配列）を解明する出発点として、また人工的にタンパク質を発現させる目的でも単離される。

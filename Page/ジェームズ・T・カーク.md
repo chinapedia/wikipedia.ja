@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[ジェームズ・T・カーク](https://ja.wikipedia.org/wiki/ジェームズ・T・カーク)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Star_Trek_William_Shatner.JPG "wikilink")

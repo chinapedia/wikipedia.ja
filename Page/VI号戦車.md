@@ -1,4 +1,4 @@
-> この記事は[VI](https://ja.wikipedia.org/wiki/VI)から翻訳されています。
+> この記事は[VI号戦車](https://ja.wikipedia.org/wiki/VI号戦車)から翻訳されています。
 
 
 **VI号戦車**（ろくごうせんしゃ、[独](../Page/ドイツ語.md "wikilink")：Panzerkampfwagen VI）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時に使用した[重戦車](../Page/重戦車.md "wikilink")である。

@@ -1,7 +1,7 @@
-> この記事は[SM \(\)](https://ja.wikipedia.org/wiki/SM_\(\))から翻訳されています。
+> この記事は[SM \(性風俗\)](https://ja.wikipedia.org/wiki/SM_\(性風俗\))から翻訳されています。
 
 
-**SM**とは、[サディズム](../Page/サディズム.md "wikilink")（加虐嗜好）および[マゾヒズム](../Page/マゾヒズム.md "wikilink")（被虐嗜好）的な[性的嗜好](../Page/性的嗜好.md "wikilink")に基づいて行われる倒錯的プレイ全般、ないし同プレイを含む文化様式（[サブカルチャー](../Page/サブカルチャー.md "wikilink")）群の総称である。**加虐被虐性愛**（かぎゃくひぎゃくせいあい）とも言う。
+**SM**（エスエム）は、[サディズム](../Page/サディズム.md "wikilink")（加虐嗜好）および[マゾヒズム](../Page/マゾヒズム.md "wikilink")（被虐嗜好）的な[性的嗜好](../Page/性的嗜好.md "wikilink")に基づいて行われる倒錯的プレイ全般、ないし同プレイを含む文化様式（[サブカルチャー](../Page/サブカルチャー.md "wikilink")）群の総称である。**加虐被虐性愛**（かぎゃくひぎゃくせいあい）とも言う。
 
 「SM」は、加虐嗜好の「サディズム」() と被虐嗜好の「マゾヒズム」 () を組み合わせた**サドマゾキズム** () の略語。加虐嗜好者のことを「サディスト」() あるいは単に「S」、被虐嗜好者のことを「マゾヒスト」() あるいは単に「M」という。
 
@@ -71,6 +71,10 @@ SMの行為は結果として相手を傷付けるという事から、その行
 
 [オーストリア](../Page/オーストリア.md "wikilink")で、売春の男性客に依頼された「SM行為」をした結果、男性が死亡した事件が2015年に発生しており、依頼に応じた女性に有罪判決が下った。この女性には[執行猶予](../Page/執行猶予.md "wikilink")付きの[禁錮](../Page/禁錮.md "wikilink")2年が言い渡されている\[7\]。
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - 性風俗産業としての業態
@@ -103,10 +107,6 @@ SMの行為は結果として相手を傷付けるという事から、その行
   - [ヒューマン・アニマル・ロールプレイ](../Page/ヒューマン・アニマル・ロールプレイ.md "wikilink")
   - [パイズリ](../Page/パイズリ.md "wikilink")、[足コキ](../Page/足コキ.md "wikilink")、[顔面騎乗](../Page/顔面騎乗.md "wikilink")
   - [デフェクチオ](https://ja.wikipedia.org/wiki/デフェクチオ "wikilink")
-
-## 脚注
-
-<references />
 
 [Category:BDSM](https://ja.wikipedia.org/wiki/Category:BDSM "wikilink") [Category:性風俗](https://ja.wikipedia.org/wiki/Category:性風俗 "wikilink") [Category:性行為](https://ja.wikipedia.org/wiki/Category:性行為 "wikilink") [Category:ポルノグラフィ](https://ja.wikipedia.org/wiki/Category:ポルノグラフィ "wikilink") [Category:性風俗産業](https://ja.wikipedia.org/wiki/Category:性風俗産業 "wikilink") [Category:略語](https://ja.wikipedia.org/wiki/Category:略語 "wikilink") [Category:萌え属性](https://ja.wikipedia.org/wiki/Category:萌え属性 "wikilink") [Category:人間関係](https://ja.wikipedia.org/wiki/Category:人間関係 "wikilink")
 

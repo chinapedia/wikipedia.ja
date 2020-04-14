@@ -9,7 +9,7 @@
 
 [N88BASIC_tenkey.gif](https://ja.wikipedia.org/wiki/File:N88BASIC_tenkey.gif "fig:N88BASIC_tenkey.gif") N88-BASICは、[1981年](../Page/1981年.md "wikilink")（昭和56年）に発表されたPC-8801に初めて搭載された[スタンドアロン](https://ja.wikipedia.org/wiki/スタンドアロン "wikilink")BASICで、[PC-8001に搭載されていた](../Page/PC-8000シリーズ.md "wikilink")[N-BASIC](../Page/N-BASIC.md "wikilink")の機能を大幅に拡張して作られた。一般的には[M-BASIC](../Page/Microsoft_BASIC.md "wikilink") 4.5として知られている[マイクロソフト](../Page/マイクロソフト.md "wikilink")のLevel-3 BASICインタプリタが基本設計（ベース）となっている。
 
-N-BASICに対してある程度の[上位互換](https://ja.wikipedia.org/wiki/上位互換 "wikilink")性を持ち、PC-8001で作られた[プログラムを実行させることも出来たが](../Page/プログラム_\(コンピュータ\).md "wikilink")、完全互換ではなかった。N-DISK BASICと[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")にも互換性があるが、[BASIC](../Page/BASIC.md "wikilink")の[中間コードは異なるので](../Page/中間言語.md "wikilink")、プログラムを交換する際には[アスキー形式で保存する必要があった](https://ja.wikipedia.org/wiki/ASCII "wikilink")。
+N-BASICに対してある程度の[上位互換](https://ja.wikipedia.org/wiki/上位互換 "wikilink")性を持ち、PC-8001で作られた[プログラムを実行させることも出来たが](../Page/プログラム_\(コンピュータ\).md "wikilink")、完全互換ではなかった。N-DISK BASICと[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")にも互換性があるが、[BASIC](../Page/BASIC.md "wikilink")の[中間コードは異なるので](../Page/中間言語.md "wikilink")、プログラムを交換する際には[アスキー形式で保存する必要があった](../Page/ASCII.md "wikilink")。
 
 N88-BASICには、PC-8800シリーズの機能拡張に合わせて、V1、V2のメジャーバージョンがある。V1は、V2の出現時に遡って付けられた呼称であり、もともとは「無印」であった。V2はPC-8801mkIISRから新規に搭載されたものである。アナログRGB採用によって表示色が大幅に増えた他、[FM音源](../Page/FM音源.md "wikilink")などの新機能も扱えるようになった。V1に対し、ほぼ完全な上位互換性を保っているが、ハードウェアの初期状態の違いにより、V1用のプログラムをV2で実行するとグラフィックの色が変わるなどの不都合が生じることがあった。
 

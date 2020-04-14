@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAワールドカップトロフィー](https://ja.wikipedia.org/wiki/FIFAワールドカップトロフィー)から翻訳されています。
 
 
 **FIFAワールドカップトロフィー**（フィファ ワールドカップトロフィー）は、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の優勝国・地域に贈られる[トロフィー](../Page/トロフィー.md "wikilink")である。

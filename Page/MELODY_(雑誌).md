@@ -1,4 +1,4 @@
-> この記事は[MELODY \(\)](https://ja.wikipedia.org/wiki/MELODY_\(\))から翻訳されています。
+> この記事は[MELODY \(雑誌\)](https://ja.wikipedia.org/wiki/MELODY_\(雑誌\))から翻訳されています。
 
 
 『**MELODY**』（メロディ）は、[白泉社](../Page/白泉社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の少女向け[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")、『[月刊MELODY](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")』として創刊した。[2006年](../Page/2006年.md "wikilink")、隔月刊（偶数月刊）となり、『MELODY』として新装刊した。発売日は刊行月の前々月（偶数月）の28日。
@@ -77,6 +77,7 @@
   - 2015年10月1日 - 2016年9月30日、40,367部\[10\]
   - 2016年10月1日 - 2017年9月30日、38,217部\[11\]
   - 2017年10月1日 - 2018年9月30日、36,667部\[12\]
+  - 2018年10月1日 - 2019年9月30日、35,250部\[13\]
 
 ## 関連項目
 
@@ -103,3 +104,4 @@
 10.
 11.
 12.
+13.

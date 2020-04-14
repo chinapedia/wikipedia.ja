@@ -12,7 +12,7 @@
 
 ## 呼称
 
-  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エム /
+  - [拉](../Page/ラテン語.md "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[英](../Page/英語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[葡](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エム /
 
   - （エメ）
 
@@ -93,7 +93,7 @@
   - [オーストラリア](../Page/オーストラリア.md "wikilink")の[大都市](https://ja.wikipedia.org/wiki/大都市 "wikilink")圏の[幹線道路](https://ja.wikipedia.org/wiki/幹線道路 "wikilink")ナンバリングシステム・[メトロード](../Page/メトロード.md "wikilink") ()。路線番号「M3」など。
   - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")での路線符号。
       - [東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink") ()
-      - [大阪市高速電気軌道御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink")・[北大阪急行電鉄南北線](https://ja.wikipedia.org/wiki/北大阪急行電鉄南北線 "wikilink") ()
+      - [Osaka Metro御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")・[北大阪急行電鉄南北線](https://ja.wikipedia.org/wiki/北大阪急行電鉄南北線 "wikilink") ()
       - [名古屋市営地下鉄名城線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄名城線 "wikilink") ()
   - [マルタ](../Page/マルタ.md "wikilink") ()の自動車用[国際識別記号](../Page/国際識別記号.md "wikilink")。
 

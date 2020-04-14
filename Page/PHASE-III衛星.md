@@ -1,4 +1,4 @@
-> この記事は[PHASE-III](https://ja.wikipedia.org/wiki/PHASE-III)から翻訳されています。
+> この記事は[PHASE-III衛星](https://ja.wikipedia.org/wiki/PHASE-III衛星)から翻訳されています。
 
 
 **PHASE-III衛星**（Phase-3衛星、フェイズスリーえいせい）は、AMSATの[楕円軌道](../Page/楕円軌道.md "wikilink")を用いた[アマチュア衛星](../Page/アマチュア衛星.md "wikilink")（[通信衛星](../Page/通信衛星.md "wikilink")）である。1970年代なかばごろ、アマチュア衛星の世代として

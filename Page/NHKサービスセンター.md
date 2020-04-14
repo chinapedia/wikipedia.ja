@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKサービスセンター](https://ja.wikipedia.org/wiki/NHKサービスセンター)から翻訳されています。
 
 
 **[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")NHKサービスセンター**（エヌエイチケイサービスセンター）は、[NHKの関連団体である](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。

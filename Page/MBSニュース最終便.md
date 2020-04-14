@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSニュース最終便](https://ja.wikipedia.org/wiki/MBSニュース最終便)から翻訳されています。
 
 
 『**MBSニュース最終便**』（エムビーエス・ニュースさいしゅうびん）は、[2005年](../Page/2005年.md "wikilink")4月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月28日まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）で放送されていた、その日の『[MBSニュース](../Page/MBSニュース.md "wikilink")』のまとめ番組である。番組はその日のニュース、スポーツの結果、[天気情報](https://ja.wikipedia.org/wiki/天気情報 "wikilink")を伝えていた。

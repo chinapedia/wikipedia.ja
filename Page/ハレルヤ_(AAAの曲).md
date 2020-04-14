@@ -1,4 +1,4 @@
-> この記事は[ \(AAA\)](https://ja.wikipedia.org/wiki/_\(AAA\))から翻訳されています。
+> この記事は[ハレルヤ \(AAAの曲\)](https://ja.wikipedia.org/wiki/ハレルヤ_\(AAAの曲\))から翻訳されています。
 
 
 「**ハレルヤ**」は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

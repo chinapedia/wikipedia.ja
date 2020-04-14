@@ -1,4 +1,4 @@
-> この記事は[Shalala ](https://ja.wikipedia.org/wiki/Shalala_)から翻訳されています。
+> この記事は[Shalala キボウの歌](https://ja.wikipedia.org/wiki/Shalala_キボウの歌)から翻訳されています。
 
 
 「**Shalala キボウの歌**」（シャララ キボウのうた）は、日本の音楽グループ[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")6枚目のシングル。[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

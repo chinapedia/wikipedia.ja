@@ -1,4 +1,4 @@
-> この記事は[Eclipse \(\)](https://ja.wikipedia.org/wiki/Eclipse_\(\))から翻訳されています。
+> この記事は[Eclipse \(コンピュータ\)](https://ja.wikipedia.org/wiki/Eclipse_\(コンピュータ\))から翻訳されています。
 
 
 [Dg-eclipse.jpg](https://ja.wikipedia.org/wiki/File:Dg-eclipse.jpg "fig:Dg-eclipse.jpg") [Eclipse_microprocessor.png](https://ja.wikipedia.org/wiki/File:Eclipse_microprocessor.png "fig:Eclipse_microprocessor.png") **Eclipse**(エクリプス)は、[データゼネラル](../Page/データゼネラル.md "wikilink")社が[1974年](../Page/1974年.md "wikilink")にリリースし[1988年](../Page/1988年.md "wikilink")まで販売された16ビットの[ミニコンピュータ](../Page/ミニコンピュータ.md "wikilink")シリーズである。Eclipse は同社の従来のミニコンピュータである[Novaと共通の基本設計がベースとなっているが](https://ja.wikipedia.org/wiki/Nova_\(コンピュータ\) "wikilink")、[仮想記憶](../Page/仮想記憶.md "wikilink")と[マルチタスク](../Page/マルチタスク.md "wikilink")をサポートし、科学技術計算よりもオフィス用途に適していた。そういう意味では、日本では[オフィスコンピュータ](../Page/オフィスコンピュータ.md "wikilink")と呼ばれるべき製品とも言える。また、そのために外観も従来とは異なっていて、床置きの小型冷蔵庫のような形状をしていた。

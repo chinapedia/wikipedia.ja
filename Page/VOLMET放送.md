@@ -1,4 +1,4 @@
-> この記事は[VOLMET](https://ja.wikipedia.org/wiki/VOLMET)から翻訳されています。
+> この記事は[VOLMET放送](https://ja.wikipedia.org/wiki/VOLMET放送)から翻訳されています。
 
 
 **VOLMET放送**（ボルメットほうそう）とは、航行中の[航空機](../Page/航空機.md "wikilink")に対し、音声により主要空港周辺の気象情報を提供する対空送信である。“放送”と通称されるが[放送法](../Page/放送法.md "wikilink")に基づく[放送](../Page/放送.md "wikilink")ではない。

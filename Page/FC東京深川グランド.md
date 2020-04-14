@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FC東京深川グランド](https://ja.wikipedia.org/wiki/FC東京深川グランド)から翻訳されています。
 
 
 '''FC東京深川グランド '''（エフシーとうきょうふかがわグランド）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[猿江](../Page/猿江.md "wikilink")にあるサッカーグラウンドで、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")所有である。人工芝のサブグラウンドと同クラブの事務所が併設されている。

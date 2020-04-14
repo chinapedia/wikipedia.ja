@@ -1,4 +1,4 @@
-> この記事は[ \(REV\)](https://ja.wikipedia.org/wiki/_\(REV\))から翻訳されています。
+> この記事は[抱きしめたい \(REVの曲\)](https://ja.wikipedia.org/wiki/抱きしめたい_\(REVの曲\))から翻訳されています。
 
 
 「**抱きしめたい**」（だきしめたい）は[REVの](../Page/出口雅之.md "wikilink")2枚目のシングル。

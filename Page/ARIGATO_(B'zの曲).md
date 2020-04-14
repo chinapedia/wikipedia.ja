@@ -1,7 +1,7 @@
-> この記事は[ARIGATO \(B\'z\)](https://ja.wikipedia.org/wiki/ARIGATO_\(B\'z\))から翻訳されています。
+> この記事は[ARIGATO \(B\'zの曲\)](https://ja.wikipedia.org/wiki/ARIGATO_\(B\'zの曲\))から翻訳されています。
 
 
-「**ARIGATO**」 (アリガトウ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の37作目の[シングル](../Page/シングル.md "wikilink")。
+「**ARIGATO**」 (アリガトウ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")37作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -17,8 +17,8 @@ B'zのシングルでは初めて[デジパック](https://ja.wikipedia.org/wiki
         元々、制作時のタイトルは「そこに誰もいなくても」だったが、非常に暗いイメージになるため現在のタイトルに変更した。
         また、この曲がはじめテレビで披露されたころは、CD音源より音程が高く、歌詞も違う別バージョンが流れていた。
         B'zでは唯一となる[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")によるトレモロ奏法が用いられた楽曲で、スローテンポに進むが、Cメロが終わるとテンポアップして激しい曲調に変わる。タイアップとなった[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[アテネオリンピック2004](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")』で使用されたのは主にその部分である。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")にあった[映画館](../Page/映画館.md "wikilink")『木更津富士館』([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に閉館)で撮影されたもの。[俳優](../Page/俳優.md "wikilink")の[森山未來](../Page/森山未來.md "wikilink")が出演している。CDのジャケット撮影はこのPV撮影の合間に行われた\[1\]。
-        前作と同様に、オリジナル・アルバムには未収録であり、ベスト・アルバムのみの収録となっている。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")にあった[映画館](../Page/映画館.md "wikilink")「木更津富士館」([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に閉館)で撮影されたもの。[俳優](../Page/俳優.md "wikilink")の[森山未來](../Page/森山未來.md "wikilink")が出演している。CDのジャケット撮影はこのPV撮影の合間に行われた\[1\]。
+        前作と同様にオリジナル・アルバムには未収録であり、ベスト・アルバムのみの収録となっている。
         2004年の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』でテレビ初披露され、B'zのライブとしては2007年の『[B'z SHOWCASE 2007 -19-](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")』が初演奏となったが、CDシングルの表題曲としては唯一の[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")未演奏曲となっている\[2\]。
         この曲が演奏される際には、CD音源のキーより半音下げて演奏され、アコースティック・ギターによるトレモロの演奏が行われていない。前者については従来のB'zのライブではほとんど前例のなかったことであり、理由は公に語られていないため不明。ただ、後年のライブでは一部の楽曲が半音下げで演奏されている。全てではないが、連続して演奏する際に前曲のチューニングに合わせこのような変更が行われるケースもある。
 2.  **輝く運命はその手の中に** (4:04)

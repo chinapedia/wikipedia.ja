@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    石川県外高速バス、定期観光バス、[城下まち金沢周遊](../Page/城下まち金沢周遊.md "wikilink")、北陸鉄道バスグループが運行を受託している金沢ふらっとバス以外の[コミュニティバス](../Page/コミュニティバス.md "wikilink")（[白山市](../Page/白山市.md "wikilink")「[めぐーる](../Page/めぐーる.md "wikilink")」、[能美市](../Page/能美市.md "wikilink")「[のみバス](https://ja.wikipedia.org/wiki/のみバス "wikilink")」など）、能登・加賀方面特急・[急行バス](../Page/急行バス.md "wikilink")、イベント・臨時バス（[兼六園シャトル](https://ja.wikipedia.org/wiki/兼六園シャトル "wikilink")はICa利用可能）や、[北鉄能登バス](https://ja.wikipedia.org/wiki/北鉄能登バス "wikilink")、[北鉄奥能登バス](https://ja.wikipedia.org/wiki/北鉄奥能登バス "wikilink")、[加賀温泉バス](../Page/加賀温泉バス.md "wikilink")が運行する能登・加賀地区一般乗合路線では、ICaを利用することはできない。
+    石川県外高速バス、定期観光バス、[城下まち金沢周遊](../Page/城下まち金沢周遊.md "wikilink")、北陸鉄道バスグループが運行を受託している金沢ふらっとバス以外の[コミュニティバス](../Page/コミュニティバス.md "wikilink")（[白山市](../Page/白山市.md "wikilink")「[めぐーる](../Page/めぐーる.md "wikilink")」、[能美市](../Page/能美市.md "wikilink")「[のみバス](https://ja.wikipedia.org/wiki/のみバス "wikilink")」など）、能登・加賀方面特急・[急行バス](../Page/急行バス.md "wikilink")、イベント・臨時バス（[兼六園シャトル](https://ja.wikipedia.org/wiki/兼六園シャトル "wikilink")など一部はICa利用可能）や、[北鉄能登バス](https://ja.wikipedia.org/wiki/北鉄能登バス "wikilink")、[北鉄奥能登バス](https://ja.wikipedia.org/wiki/北鉄奥能登バス "wikilink")、[加賀温泉バス](../Page/加賀温泉バス.md "wikilink")が運行する能登・加賀地区一般乗合路線では、ICaを利用することはできない。
 
 <!-- end list -->
 

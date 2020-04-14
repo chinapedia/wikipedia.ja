@@ -1,17 +1,17 @@
 > この記事は[CAROLS](https://ja.wikipedia.org/wiki/CAROLS)から翻訳されています。
 
 
-「**CAROLS**」（キャロルス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の34th[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**CAROLS**」（キャロルス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の34枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")」より約2ヶ月振りのリリース。
+前作「[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")」より約2か月振りのリリース。
 
 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD-Video.md "wikilink")」、「[SACD](../Page/Super_Audio_CD.md "wikilink")」、「[DVD-Audio](../Page/DVD-Audio.md "wikilink")」の4形態で発売された。「SACD」・「DVD-Audio」が発売されたシングルは本作のみとなる。 初回盤は4種類のピクチャーレーベル仕様。
 
 「DVD-Audio」「SACD」には、「CAROLS-[5.1ch](../Page/サラウンド.md "wikilink") mix-」を収録。ただし、「DVD-Audio」には映像は収録されていない。
 
-当初はこれまで通り[CCCDで発売される予定だったが](../Page/コピーコントロールCD.md "wikilink")、エイベックスがCCCDの見直しを発表したため、[通常CDでの発売となった](../Page/CD-DA.md "wikilink")。
+当初はそれまで通り[CCCDで発売される予定だったが](../Page/コピーコントロールCD.md "wikilink")、エイベックスがCCCDの見直しを発表したため、[通常CDでの発売となった](../Page/CD-DA.md "wikilink")。
 
 この曲で、自身初の着うた[ミリオンヒットを記録した](../Page/ミリオンセラー.md "wikilink")。
 
@@ -34,7 +34,7 @@
 ## 収録アルバム
 
   - **CAROLS**
-      - 『[MY STORY](../Page/MY_STORY.md "wikilink")』
+      - 『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』
       - 『[A BEST 2 -BLACK-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-BLACK- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[WINTER BALLAD SELECTION](https://ja.wikipedia.org/wiki/WINTER_BALLAD_SELECTION "wikilink")』

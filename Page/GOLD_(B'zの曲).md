@@ -1,13 +1,13 @@
-> この記事は[GOLD \(B\'z\)](https://ja.wikipedia.org/wiki/GOLD_\(B\'z\))から翻訳されています。
+> この記事は[GOLD \(B\'zの曲\)](https://ja.wikipedia.org/wiki/GOLD_\(B\'zの曲\))から翻訳されています。
 
 
-「**GOLD**」 (ゴールド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の32作目の[シングル](../Page/シングル.md "wikilink")。
+「**GOLD**」 (ゴールド)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")32作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 前作「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」が「**動**」ならば、今作は「**静**」という意味が込められている。ジャケットに使用された「GOLD」のロゴは「ultra soul」と対をなすデザインとなっている。
 
-前作「ultra soul」と同じくオリコンチャートで2週連続1位を獲得した。
+前作『ultra soul』と同じくオリコンチャートで2週連続1位を獲得した。
 
 ## 収録曲
 

@@ -1,4 +1,4 @@
-> この記事は[OUTPUT](https://ja.wikipedia.org/wiki/OUTPUT)から翻訳されています。
+> この記事は[OUT★PUT](https://ja.wikipedia.org/wiki/OUT★PUT)から翻訳されています。
 
 
 『**OUT★PUT**』（アウトプット）は、一部[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[イースト製作の](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")[オーディション](../Page/オーディション.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全52回。[飯田産業](../Page/飯田産業.md "wikilink")の一社提供。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink") 25:00 - 25:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

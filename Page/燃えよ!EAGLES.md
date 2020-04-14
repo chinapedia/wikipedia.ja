@@ -1,4 +1,4 @@
-> この記事は[!EAGLES](https://ja.wikipedia.org/wiki/!EAGLES)から翻訳されています。
+> この記事は[燃えよ!EAGLES](https://ja.wikipedia.org/wiki/燃えよ!EAGLES)から翻訳されています。
 
 
 『**CHALLENGE 燃えよ\!EAGLES**』（チャレンジ もえよイーグルス）は、[2005年](../Page/2005年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")から2018年3月17日まで[東日本放送](../Page/東日本放送.md "wikilink")（KHB）で毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の[応援番組である](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")。[2012年](../Page/2012年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")放送分からは『**燃えよ\!EAGLES**』と題して放送されている。日本プロ野球のシーズン中に当たる年度上半期は[アサヒビール](../Page/アサヒビール.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")となっている。

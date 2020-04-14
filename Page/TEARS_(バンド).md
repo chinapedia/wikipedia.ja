@@ -1,4 +1,4 @@
-> この記事は[TEARS \(\)](https://ja.wikipedia.org/wiki/TEARS_\(\))から翻訳されています。
+> この記事は[TEARS \(バンド\)](https://ja.wikipedia.org/wiki/TEARS_\(バンド\))から翻訳されています。
 
 
 **TEARS**(ティアーズ)は日本のバンド。

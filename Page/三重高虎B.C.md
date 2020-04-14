@@ -1,4 +1,4 @@
-> この記事は[B.C](https://ja.wikipedia.org/wiki/B.C)から翻訳されています。
+> この記事は[三重高虎B.C](https://ja.wikipedia.org/wiki/三重高虎B.C)から翻訳されています。
 
 
 **三重高虎B.C**（みえたかとらベースボールクラブ）は、本拠地は[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。元[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[松下立美](../Page/松下立美.md "wikilink")が創設した。

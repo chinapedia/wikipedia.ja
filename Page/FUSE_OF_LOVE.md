@@ -5,11 +5,11 @@
 
 ## 概要
 
-倉木本人は「FUSE OF LOVE」の意味を「愛の導火線」と語っている。これまでたくさんの人から愛を受けながら進んできた音楽活動を振り返ると同時に、今度は自分から音楽を通じて渡したいという思いから、このタイトルが付けたとの事（元々は「FUSE」というタイトルになる予定であったが、後に正式変更された）。 このタイトルはアルバム発売後すぐにスタートしたライブツアーのタイトルにも使用されている。 これまではR\&Bを基軸とした、アメリカンポップスの要素が強い音楽性のアルバムを発表してきた倉木だったが、今作ではセルフプロデュースを担当。結果、J-POP色が色濃く出るアルバムとなった。
+倉木本人は「FUSE OF LOVE」の意味を「愛の導火線」と語っている。これまでたくさんの人から愛を受けながら進んできた音楽活動を振り返ると同時に、今度は自分から音楽を通じて渡したいという思いから、このタイトルが付けたとのことである（元々は『FUSE』というタイトルになる予定であったが、後に正式変更された）。このタイトルは、アルバム発売後すぐにスタートしたライブツアーのタイトルにも使用されている。それまでは[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")を基軸とした、アメリカンポップスの要素が強い音楽性のアルバムを発表してきた倉木だったが、本作ではセルフプロデュースを行った。結果、[J-POP](../Page/J-POP.md "wikilink")色が色濃く出るアルバムとなった。
 
 初めて本格的にダウンロード販売された作品である。[iTunes Storeでは特集ページも設置されていた](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。
 
-アルバムを作り始めたのが6月からで短期間で制作された（Music Freak Magazine129号より）
+アルバムを作り始めたのは6月からで、短期間で制作された（『Music Freak Magazine』129号より）
 
 ## 収録曲
 
@@ -19,13 +19,13 @@
       - 作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：鎌田真吾
     <!-- end list -->
       -
-        遠距離恋愛中の二人が、久々に会う心境を歌った曲。
+        遠距離恋愛中の2人が、久々に会う心境を歌った曲。
 2.  **[P.S♡MY SUNSHINE](../Page/P.S_MY_SUNSHINE.md "wikilink")** – 3:48
       - 作曲・編曲：[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（from [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
     <!-- end list -->
       -
         21stシングル。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましどようび](../Page/めざましどようび.md "wikilink")』テーマソング（2005年4月〜2005年6月）
-3.  **[You look at me〜one](../Page/ダンシング.md "wikilink")** – 3:58
+3.  **[You look at me〜one](https://ja.wikipedia.org/wiki/ダンシング_\(倉木麻衣の曲\) "wikilink")** – 3:58
       - 作曲・編曲：[大賀好修](../Page/大賀好修.md "wikilink")（from [OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")）
     <!-- end list -->
       -
@@ -45,7 +45,7 @@
     <!-- end list -->
       -
         19thシングル。初のセルフプロデュース作品。
-7.  **[ダンシング](../Page/ダンシング.md "wikilink")** – 3:47
+7.  **[ダンシング](https://ja.wikipedia.org/wiki/ダンシング_\(倉木麻衣の曲\) "wikilink")** – 3:47
       - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
@@ -68,7 +68,7 @@
       - 作曲：大野愛果　編曲：麻井寛史
     <!-- end list -->
       -
-        ライブではアンコールにほぼ必ず披露される作品で、観客との斉唱が定番となっている楽曲。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")に公開された映画「[ソフトボーイ](https://ja.wikipedia.org/wiki/ソフトボーイ "wikilink")」の主題歌にリリースから5年の時を経てタイアップされることが決まった。こちらは再レコーディングされたシネマバージョンで、デジタル音楽配信されている。また、20周年バージョンが[2019年](../Page/2019年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から「[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")」の57代目エンディングテーマとして使用される。このほかに『[Mai Kuraki Symphonic Collection in Moscow](https://ja.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")』（2012年）収録シンフォニックバージョン、『[Mai Kuraki Single Collection 〜Chance for you〜](https://ja.wikipedia.org/wiki/Mai_Kuraki_Single_Collection_〜Chance_for_you〜 "wikilink")（Merci Edition）』（2019年）収録のMerciバージョンの計5バージョンが存在する。
+        ライブではアンコールにほぼ必ず披露される作品で、観客との斉唱が定番となっている楽曲。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")に公開された映画『[ソフトボーイ](https://ja.wikipedia.org/wiki/ソフトボーイ "wikilink")』の主題歌に、リリースから5年の時を経てタイアップされた。こちらは再レコーディングされたシネマバージョンで、デジタル音楽配信されている。また、20周年バージョンが[2019年](../Page/2019年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』の57代目エンディングテーマとして使用された。このほかに『[Mai Kuraki Symphonic Collection in Moscow](https://ja.wikipedia.org/wiki/Mai_Kuraki_Symphonic_Collection_in_Moscow "wikilink")』（2012年）収録シンフォニックバージョン、『[Mai Kuraki Single Collection 〜Chance for you〜](https://ja.wikipedia.org/wiki/Mai_Kuraki_Single_Collection_〜Chance_for_you〜 "wikilink")（Merci Edition）』（2019年）収録のMerciバージョンの計5バージョンが存在する。
 
 ## 外部リンク
 

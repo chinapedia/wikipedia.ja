@@ -1,4 +1,4 @@
-> この記事は[RX \(\)](https://ja.wikipedia.org/wiki/RX_\(\))から翻訳されています。
+> この記事は[RX \(バンド\)](https://ja.wikipedia.org/wiki/RX_\(バンド\))から翻訳されています。
 
 
 **RX**（アールエックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ジャズ](../Page/ジャズ.md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")などをベースにした[フュージョンをメインとしていたユニットである](../Page/フュージョン_\(音楽\).md "wikilink")。

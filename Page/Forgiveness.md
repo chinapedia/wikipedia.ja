@@ -1,11 +1,11 @@
 > この記事は[Forgiveness](https://ja.wikipedia.org/wiki/Forgiveness)から翻訳されています。
 
 
-「**forgiveness**」（フォーギブネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の30th[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**forgiveness**」（フォーギブネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の30枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[&](../Page/&_\(シングル\).md "wikilink")」より、約1ヶ月振りのリリースとなった。
+前作「[&](../Page/&_\(シングル\).md "wikilink")」より、約1か月振りのリリースとなった。
 
 シングル30枚目を記念し、同年10月にシングル曲中心のスペシャルライブ「[A museum 〜30th single collection live〜](https://ja.wikipedia.org/wiki/A_museum_〜30th_single_collection_live〜 "wikilink")」が行われた。
 

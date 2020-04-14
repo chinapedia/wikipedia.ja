@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALラウンジ](https://ja.wikipedia.org/wiki/JALラウンジ)から翻訳されています。
 
 
 **JALラウンジ** (ジャルラウンジ、) は、[日本航空](../Page/日本航空.md "wikilink") (JAL) が運営する[ラウンジ](../Page/空港ラウンジ.md "wikilink")（特別待合室）である。

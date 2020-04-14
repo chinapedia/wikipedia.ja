@@ -1,4 +1,4 @@
-> この記事は[STAR \(U3\)](https://ja.wikipedia.org/wiki/STAR_\(U3\))から翻訳されています。
+> この記事は[STAR \(U3のアルバム\)](https://ja.wikipedia.org/wiki/STAR_\(U3のアルバム\))から翻訳されています。
 
 
 1990年に[藤圭子](../Page/藤圭子.md "wikilink")（RA U)、[宇多田照實](../Page/宇多田照實.md "wikilink")（SKING U）、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")（H<sup>。</sup>IKASO U）\[1\]の家族3人で結成したユニット「U<sup>3</sup>」\[2\]の 1993年9月17日に[ニューセンチュリーレコード](https://ja.wikipedia.org/wiki/ニューセンチュリーレコード "wikilink")の前身であるセンチュリーレコードからU<sup>3</sup>として[ロック曲を収録した唯一の](../Page/ロック_\(音楽\).md "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")

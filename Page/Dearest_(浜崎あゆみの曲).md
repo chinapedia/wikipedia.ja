@@ -1,4 +1,4 @@
-> この記事は[Dearest \(\)](https://ja.wikipedia.org/wiki/Dearest_\(\))から翻訳されています。
+> この記事は[Dearest \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Dearest_\(浜崎あゆみの曲\))から翻訳されています。
 
 
 「**Dearest**」（ディアレスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の24th[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
@@ -25,7 +25,7 @@
         [よみうりテレビ・日本テレビアニメ](../Page/讀賣テレビ放送.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』エンディングテーマ（第42話〜第60話）
         [ツーカー](../Page/ツーカー.md "wikilink")2001年[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Dearest "Depth Nostalgic windmix"**
-3.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink") "[Jonathan Peters](https://ja.wikipedia.org/wiki/ジョナサン・ピータース "wikilink") Radio Mix"**
+3.  **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink") "[Jonathan Peters](https://ja.wikipedia.org/wiki/ジョナサン・ピータース "wikilink") Radio Mix"**
 4.  **Dearest "Energized MIX"**
 5.  **Dearest "Huge '20011002' mix"**
 6.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") "[Hex Hector](https://ja.wikipedia.org/wiki/Hex_Hector "wikilink") Main Radio Mix"**

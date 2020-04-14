@@ -1,4 +1,4 @@
-> この記事は[Distance \(\)](https://ja.wikipedia.org/wiki/Distance_\(\))から翻訳されています。
+> この記事は[Distance \(宇多田ヒカルのアルバム\)](https://ja.wikipedia.org/wiki/Distance_\(宇多田ヒカルのアルバム\))から翻訳されています。
 
 
 『**Distance**』（ディスタンス）は、[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にリリースされた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の2ndアルバム。

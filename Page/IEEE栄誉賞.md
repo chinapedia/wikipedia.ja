@@ -1,4 +1,4 @@
-> この記事は[IEEE](https://ja.wikipedia.org/wiki/IEEE)から翻訳されています。
+> この記事は[IEEE栄誉賞](https://ja.wikipedia.org/wiki/IEEE栄誉賞)から翻訳されています。
 
 
 **IEEE栄誉賞**（アイトリプルイーえいよしょう、IEEE Medal of Honor）は[IEEE](../Page/IEEE.md "wikilink")が授与する電気電子分野において優れた業績を残した者に与えられる賞。

@@ -1,4 +1,4 @@
-> この記事は[FCF](https://ja.wikipedia.org/wiki/FCF)から翻訳されています。
+> この記事は[ファストグリーンFCF](https://ja.wikipedia.org/wiki/ファストグリーンFCF)から翻訳されています。
 
 
 **ファストグリーンFCF**(Fast Green FCF)は、[緑](../Page/緑.md "wikilink")色に着色することのできる[着色料](../Page/着色料.md "wikilink")。[食用タール色素に分類される](../Page/タール色素.md "wikilink")[合成着色料](../Page/合成着色料.md "wikilink")である。通称**緑色3号**（みどりいろさんごう）。常温では粒または粉末状の[固体](../Page/固体.md "wikilink")で、無臭である。[分子式はC](../Page/化学式.md "wikilink")<sub>37</sub>H<sub>34</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>10</sub>S<sub>3</sub>。分子量808.87。[CAS登録番号](../Page/CAS登録番号.md "wikilink") : 2353-45-9。

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[まんが日本史 \(NHK\)](https://ja.wikipedia.org/wiki/まんが日本史_\(NHK\))から翻訳されています。
 
 
 **まんが日本史**（ -にほんし）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")まで[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")「[6時だ\!ETV](https://ja.wikipedia.org/wiki/6時だ!ETV "wikilink")」枠で月曜日に放送された[教育番組](../Page/教育番組.md "wikilink")である。

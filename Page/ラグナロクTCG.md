@@ -1,4 +1,4 @@
-> この記事は[TCG](https://ja.wikipedia.org/wiki/TCG)から翻訳されています。
+> この記事は[ラグナロクTCG](https://ja.wikipedia.org/wiki/ラグナロクTCG)から翻訳されています。
 
 
 |                                             |

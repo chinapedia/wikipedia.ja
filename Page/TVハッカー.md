@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVハッカー](https://ja.wikipedia.org/wiki/TVハッカー)から翻訳されています。
 
 
 『**TVハッカー**』（ティーヴィーハッカー）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")から同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")と[フジテレビの共同製作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

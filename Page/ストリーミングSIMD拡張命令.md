@@ -1,4 +1,4 @@
-> この記事は[SIMD](https://ja.wikipedia.org/wiki/SIMD)から翻訳されています。
+> この記事は[ストリーミングSIMD拡張命令](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令)から翻訳されています。
 
 
 **ストリーミングSIMD拡張命令**（、略称:**SSE**）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が開発した[CPU](../Page/CPU.md "wikilink")の[SIMD](../Page/SIMD.md "wikilink")拡張[命令セット](../Page/命令セット.md "wikilink")、およびその拡張版の総称である。
@@ -82,7 +82,7 @@ AMDは[Bulldozer世代向けに当初予定していたSSE](https://ja.wikipedia
 
 512ビット長のZMMレジスタを新設する\[16\]。レジスタ数も16から32に増える。Knights Landingの[Xeon Phiに初めて搭載](https://ja.wikipedia.org/wiki/Xeon_Phi "wikilink")。
 
-[Xeon](../Page/Xeon.md "wikilink")プロセッサは[Skylakeマイクロアーキテクチャ](https://ja.wikipedia.org/wiki/Skylakeマイクロアーキテクチャ "wikilink")から一部の命令を搭載\[17\]。[Xeon](../Page/Xeon.md "wikilink")以外では[Core i9にも搭載されている](https://ja.wikipedia.org/wiki/Intel_Core_i9 "wikilink")。
+[Xeon](../Page/Xeon.md "wikilink")プロセッサは[Skylakeマイクロアーキテクチャ](https://ja.wikipedia.org/wiki/Skylakeマイクロアーキテクチャ "wikilink")から一部の命令を搭載\[17\]。
 
 ## FMA (Fused Multiply-Add)
 

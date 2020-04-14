@@ -1,4 +1,4 @@
-> この記事は[NOBODY \(\)](https://ja.wikipedia.org/wiki/NOBODY_\(\))から翻訳されています。
+> この記事は[NOBODY \(ロックバンド\)](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\))から翻訳されています。
 
 
 **NOBODY**（ノーバディ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")・[作詞家](../Page/作詞家.md "wikilink")ユニット。

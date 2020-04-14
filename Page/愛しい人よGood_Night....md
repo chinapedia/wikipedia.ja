@@ -1,13 +1,13 @@
-> この記事は[Good Night...](https://ja.wikipedia.org/wiki/Good_Night...)から翻訳されています。
+> この記事は[愛しい人よGood Night...](https://ja.wikipedia.org/wiki/愛しい人よGood_Night...)から翻訳されています。
 
 
-「**愛しい人よGood Night...**\[1\]」(いとしいひとよ グッド ナイト…) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の7作目の[シングル](../Page/シングル.md "wikilink")。
+「**愛しい人よGood Night...**\[1\]」(いとしいひとよ グッド ナイト…) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[BMGルームス](../Page/VERMILLION_RECORDS.md "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 発売を2週間後に控えた4thアルバム『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』からの先行シングル第2弾。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発表のシングルとしては5作目となり、B'zのシングルでは初めてバラード曲が表題曲となった作品。当初はシングルリリースの予定はなかったが、ドラマの主題歌に決まったため前作「[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")」から続け様にリリースされた\[2\]。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発表のシングルとしては5作目となり、B'zのシングルでは初めてバラード曲が表題曲となった作品。当初はシングルリリースの予定はなかったが、ドラマの主題歌に決まったため、前作『[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")』から続け様にリリースされた\[2\]。
 
 前作に引き続き同一アーティストの4週連続1位を獲得した。また、B'zのシングル初となる月間チャート1位も獲得した。
 
@@ -20,7 +20,7 @@
 1.  **愛しい人よGood Night...** (6:13)
       -
         上記の通りシングルで出す予定はなかったが、ドラマの関係者が気に入って急遽リリースとなった経緯がある\[4\]。
-        前作「[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")」同様、これまでのイメージを変えて層を広げたいという目的もあったという\[5\]。
+        前作『[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")』同様、これまでのイメージを変えて層を広げたいという目的もあったという\[5\]。
         B'zのシングル曲の中では6分13秒と最も演奏時間が長い\[6\]。
         1993年に行われたライブ『[B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"](../Page/LIVE_RIPPER.md "wikilink")』を最後に長い間演奏されていなかったが、2012年に行われたツアー『[B'z LIVE-GYM 2012 -Into Free- EXTRA](https://ja.wikipedia.org/wiki/LIVE-GYM_#B'zの公演一覧 "wikilink")』で19年ぶりに披露し\[7\]、ファンを驚かせたが、メンバーは「今の子達は曲を知らなかったみたいで、思ったほどのリアクションがなかった、新曲と思われてしまったみたい。」とライブで演奏したことについてやや否定的な発言をしている。
 2.  **GUITAR KIDS RHAPSODY CAMDEN LOCK STYLE** (5:25)

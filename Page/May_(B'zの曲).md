@@ -1,11 +1,11 @@
-> この記事は[May \(B\'z\)](https://ja.wikipedia.org/wiki/May_\(B\'z\))から翻訳されています。
+> この記事は[May \(B\'zの曲\)](https://ja.wikipedia.org/wiki/May_\(B\'zの曲\))から翻訳されています。
 
 
-「**May**」(メイ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の28作目の[シングル](../Page/シングル.md "wikilink")。
+「**May**」(メイ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2000年](../Page/2000年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")28作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-発売当初は名義上「[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")」(1992年発売)以来のノン[タイアップ](../Page/タイアップ.md "wikilink")作品であったが、[2nd beatの](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")「You pray, I stay」は、[サントリー](../Page/サントリー.md "wikilink")「スーパーチューハイ」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
+発売当初は名義上『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』(1992年発売)以来のノン[タイアップ](../Page/タイアップ.md "wikilink")作品であったが、[2nd beatの](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")「You pray, I stay」は、[サントリー](../Page/サントリー.md "wikilink")「スーパーチューハイ」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
 
 [ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")にあるダイナーで撮影されたもの。さらに、ワイドフォト付きのダブルジャケット付きとなっており、裏面にはシチュエーションの異なるメンバーの写真が掲載されている\[1\]。
 

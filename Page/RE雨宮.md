@@ -1,4 +1,4 @@
-> この記事は[RE](https://ja.wikipedia.org/wiki/RE)から翻訳されています。
+> この記事は[RE雨宮](https://ja.wikipedia.org/wiki/RE雨宮)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:RE_AMEMIYA_RX-7_01.jpg "wikilink")(GT300) RE雨宮レーシング RX-7\]\] **有限会社RE雨宮自動車**（アールイーあめみやじどうしゃ）は、[千葉県](../Page/千葉県.md "wikilink")[富里市](https://ja.wikipedia.org/wiki/富里市 "wikilink")にある、[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")を得意とする日本の[チューニングショップである](../Page/チューニングカー.md "wikilink")。代表は雨宮勇美（あめみや いさみ、[1946年](../Page/1946年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") - ）血液型A型。

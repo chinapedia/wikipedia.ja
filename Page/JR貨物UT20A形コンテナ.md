@@ -1,4 +1,4 @@
-> この記事は[JRUT20A](https://ja.wikipedia.org/wiki/JRUT20A)から翻訳されています。
+> この記事は[JR貨物UT20A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT20A形コンテナ)から翻訳されています。
 
 
 **UT20A形コンテナ**（UT20Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")・22.5ft[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。

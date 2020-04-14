@@ -1,4 +1,4 @@
-> この記事は[NAND](https://ja.wikipedia.org/wiki/NAND)から翻訳されています。
+> この記事は[NAND型フラッシュメモリ](https://ja.wikipedia.org/wiki/NAND型フラッシュメモリ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Huawei_E367,_O2_Surfstick_Plus_-_Hynix_H8BCS0PH0ACR-8489.jpg "wikilink") **NAND型フラッシュメモリ**（ナンドがたフラッシュメモリ、NANDフラッシュメモリ）は、不揮発性記憶素子の[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")の一種である。

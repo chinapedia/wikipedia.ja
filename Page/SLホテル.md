@@ -1,4 +1,4 @@
-> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+> この記事は[SLホテル](https://ja.wikipedia.org/wiki/SLホテル)から翻訳されています。
 
 
 [Hotel_SL.jpg](https://ja.wikipedia.org/wiki/File:Hotel_SL.jpg "fig:Hotel_SL.jpg")[川場村](../Page/川場村.md "wikilink")）\]\] **SLホテル**とは、[静態保存](../Page/静態保存.md "wikilink")された[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) に退役した[寝台車を連結し](../Page/寝台車_\(鉄道\).md "wikilink")、宿泊施設として利用したものである。

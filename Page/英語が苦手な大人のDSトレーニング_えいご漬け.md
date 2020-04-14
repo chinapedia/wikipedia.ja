@@ -1,4 +1,4 @@
-> この記事は[DS ](https://ja.wikipedia.org/wiki/DS_)から翻訳されています。
+> この記事は[英語が苦手な大人のDSトレーニング えいご漬け](https://ja.wikipedia.org/wiki/英語が苦手な大人のDSトレーニング_えいご漬け)から翻訳されています。
 
 
 『**英語が苦手な大人のDSトレーニング えいご漬け**』（えいごがにがてなおとなのディーエストレーニング えいごづけ）は、[2006年](../Page/2006年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")向けの[英語](../Page/英語.md "wikilink")トレーニング[ゲーム](../Page/ゲーム.md "wikilink")である。

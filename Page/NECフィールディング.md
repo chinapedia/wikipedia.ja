@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECフィールディング](https://ja.wikipedia.org/wiki/NECフィールディング)から翻訳されています。
 
 
 **NECフィールディング株式会社**（）は、[NECグループのシステムインテグレーター](../Page/日本電気.md "wikilink")（メーカー系）。[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")、[オフィスコンピュータ](../Page/オフィスコンピュータ.md "wikilink")、[メインフレーム](../Page/メインフレーム.md "wikilink")、[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")の保守・企画・設計・ネットワーク構築などのサポートを行う。本社は東京都港区三田。

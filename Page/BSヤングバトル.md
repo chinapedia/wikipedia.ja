@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSヤングバトル](https://ja.wikipedia.org/wiki/BSヤングバトル)から翻訳されています。
 
 
 『**BSヤングバトル**』（ビーエス ヤングバトル、**BS Young Battle**）は、[NHK主催による](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アマチュア](../Page/アマチュア.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")である。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1999年](../Page/1999年.md "wikilink")の10年間にわたって開催された。

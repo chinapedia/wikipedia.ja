@@ -1,4 +1,4 @@
-> この記事は[FCF](https://ja.wikipedia.org/wiki/FCF)から翻訳されています。
+> この記事は[ブリリアントブルーFCF](https://ja.wikipedia.org/wiki/ブリリアントブルーFCF)から翻訳されています。
 
 
 **ブリリアントブルーFCF** (Brilliant Blue FCF) は、[青](../Page/青.md "wikilink")色に着色することのできる[着色料](../Page/着色料.md "wikilink")。[食用タール色素に分類される](../Page/タール色素.md "wikilink")[合成着色料](../Page/合成着色料.md "wikilink")である。通称**青色1号**（あおいろいちごう）。常温では[金属光沢](../Page/金属光沢.md "wikilink")のある赤紫色の粒状の[固体](../Page/固体.md "wikilink")で、無臭である。[分子式はC](../Page/化学式.md "wikilink")<sub>37</sub>H<sub>34</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>9</sub>S<sub>3</sub>、分子量792.86。[CAS登録番号](../Page/CAS登録番号.md "wikilink") : 3844-45-9、[INS番号](https://ja.wikipedia.org/wiki/INS番号 "wikilink") : 133。工業的には、[ベンズアルデヒドスルホン酸](https://ja.wikipedia.org/wiki/ベンズアルデヒドスルホン酸 "wikilink")と[エチルベンジルアニリンスルホン酸](https://ja.wikipedia.org/wiki/エチルベンジルアニリンスルホン酸 "wikilink")を反応させたものを[酸化](../Page/酸化.md "wikilink")させることによって作り出す。

@@ -1,4 +1,4 @@
-> この記事は[UDX](https://ja.wikipedia.org/wiki/UDX)から翻訳されています。
+> この記事は[秋葉原UDX](https://ja.wikipedia.org/wiki/秋葉原UDX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Akihabara_UDX_Vision_2013-12.jpg "wikilink") **秋葉原UDX**（あきはばらユーディーエックス、*Akihabara Urban Development X*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")）の[秋葉原クロスフィールド](../Page/秋葉原クロスフィールド.md "wikilink")内にある[高層ビル](../Page/高層建築物.md "wikilink")。[2007年](../Page/2007年.md "wikilink")度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")受賞\[1\]。

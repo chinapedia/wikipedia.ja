@@ -1,4 +1,4 @@
-> この記事は[SNG \(\)](https://ja.wikipedia.org/wiki/SNG_\(\))から翻訳されています。
+> この記事は[SNG \(放送\)](https://ja.wikipedia.org/wiki/SNG_\(放送\))から翻訳されています。
 
 
 **SNG** (Satellite News Gathering) は、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")（[通信衛星](../Page/通信衛星.md "wikilink")）を使う、[テレビ](../Page/テレビ.md "wikilink")[ニュース](../Page/ニュース.md "wikilink")をはじめとする[放送](../Page/放送.md "wikilink")番組素材収集[システム](../Page/システム.md "wikilink")のことであり、主として、[放送局](../Page/放送局.md "wikilink")（[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")）外の[撮影](../Page/撮影.md "wikilink")場所（現場）から番組素材となる[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を[電波](../Page/電波.md "wikilink")として通信衛星を経由させ、演奏所に[伝送](../Page/伝送.md "wikilink")、[テレビ番組](../Page/テレビ番組.md "wikilink")等に活用するためのシステムを総称したものである。もちろん「[生中継](../Page/生放送.md "wikilink")」も可能である。 [250px](https://ja.wikipedia.org/wiki/ファイル:MBS毎日放送テレビ中継車.jpg "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）のSNG中継車\]\]

@@ -1,4 +1,4 @@
-> この記事は[FCF](https://ja.wikipedia.org/wiki/FCF)から翻訳されています。
+> この記事は[サンセットイエローFCF](https://ja.wikipedia.org/wiki/サンセットイエローFCF)から翻訳されています。
 
 
 **サンセットイエローFCF** (Sunset Yellow FCF) は、[橙色](https://ja.wikipedia.org/wiki/橙色 "wikilink")に着色することのできる[着色料](../Page/着色料.md "wikilink")。[アゾ](https://ja.wikipedia.org/wiki/アゾ "wikilink")系の[食用タール色素に分類される](../Page/タール色素.md "wikilink")[合成着色料](../Page/合成着色料.md "wikilink")である。通称**黄色5号**（おうしょくごごう）。常温では赤の粒または粉末状の[固体](../Page/固体.md "wikilink")で、無臭である。[分子式はC](../Page/化学式.md "wikilink")<sub>16</sub>H<sub>10</sub>N<sub>2</sub>Na<sub>2</sub>O<sub>7</sub>S<sub>2</sub>、分子量452.38。[CAS登録番号](../Page/CAS登録番号.md "wikilink") : 2783-94-0、[モル質量](../Page/モル質量.md "wikilink") : 424.35 g/mol。[熱](https://ja.wikipedia.org/wiki/熱 "wikilink")や[光](../Page/光.md "wikilink")には強く安定している。

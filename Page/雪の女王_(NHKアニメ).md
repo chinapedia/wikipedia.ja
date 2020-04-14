@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[雪の女王 \(NHKアニメ\)](https://ja.wikipedia.org/wiki/雪の女王_\(NHKアニメ\))から翻訳されています。
 
 
 『**雪の女王 〜THE SNOW QUEEN〜**』（ゆきのじょおう ザ・スノウクイーン）は、[アンデルセン生誕](../Page/ハンス・クリスチャン・アンデルセン.md "wikilink")200年（[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")）を記念して制作されたテレビ[アニメ](../Page/アニメ.md "wikilink")作品。同名のアンデルセン童話『[雪の女王](../Page/雪の女王.md "wikilink")』を元に構成された。2005年[5月22日](../Page/5月22日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")まで[NHKアニメ劇場](../Page/NHKアニメ劇場.md "wikilink")枠（毎週日曜19時30分 - 19時55分）で放送された。全36話（製作発表時は39話予定）。2006年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")と[5月5日](../Page/5月5日.md "wikilink")（10時05分 - 11時20分）に総集編が放送された。総集編は全6話。また、2011年4月4日から5月24日まで、[NHK BSプレミアムの](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")[BS深夜アニメ館](https://ja.wikipedia.org/wiki/BS深夜アニメ館 "wikilink")にて再放送された。

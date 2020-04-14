@@ -1,4 +1,4 @@
-> この記事は[CPIII](https://ja.wikipedia.org/wiki/CPIII)から翻訳されています。
+> この記事は[CPシステムIII](https://ja.wikipedia.org/wiki/CPシステムIII)から翻訳されています。
 
 
 **CPシステムIII**（シーピーシステム スリー）とは、[1996年](../Page/1996年.md "wikilink")に『[ウォーザード](../Page/ウォーザード.md "wikilink")』と共に出荷された[カプコン](../Page/カプコン.md "wikilink")開発の[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")現在、この基板がカプコンの開発した最後の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板](https://ja.wikipedia.org/wiki/システム基板 "wikilink")となっている。日本国外を中心に**CPS-3**と略称されることがある（以降、記事中ではこの略称を用いる）。

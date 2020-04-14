@@ -1,24 +1,24 @@
-> この記事は[ENERGY](https://ja.wikipedia.org/wiki/ENERGY)から翻訳されています。
+> この記事は[野性のENERGY](https://ja.wikipedia.org/wiki/野性のENERGY)から翻訳されています。
 
 
-「**野性のENERGY**」(やせいのエナジー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の35作目の[シングル](../Page/シングル.md "wikilink")。
+「**野性のENERGY**」(やせいのエナジー)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")35作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 13thアルバム『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』からの先行シングル。
 
-前作「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」に続き、デビュー15周年時に発売されたシングル。
+前作『[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")』に続き、デビュー15周年時に発売されたシングル。
 
-ジャケットは[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の[ラニカイビーチ](https://ja.wikipedia.org/wiki/ラニカイビーチ "wikilink")にて撮影されたもの。 [NaMokuluas.JPG](https://ja.wikipedia.org/wiki/File:NaMokuluas.JPG "fig:NaMokuluas.JPG")
+ジャケットは[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")の[ラニカイビーチ](https://ja.wikipedia.org/wiki/ラニカイビーチ "wikilink")にて撮影されたもの\[1\]。 [NaMokuluas.JPG](https://ja.wikipedia.org/wiki/File:NaMokuluas.JPG "fig:NaMokuluas.JPG")
 
 ## 収録曲
 
 1.  **野性のENERGY** (4:38)
       -
-        去年までに出来ていて、既にアルバム候補曲として存在していた\[1\]。松本はデモの段階からシングルにしたいと思っていたらしい。
-        歌詞は稲葉とドラムスのシェーンとの会話がきっかけでできたもの\[2\]。
+        去年までに出来ていて、既にアルバム候補曲として存在していた\[2\]。松本はデモの段階からシングルにしたいと思っていたらしい。
+        歌詞は稲葉とドラムスのシェーンとの会話がきっかけでできたもの\[3\]。
         この曲の[リフ](../Page/リフ.md "wikilink")は松本ではなく、[アレンジャーの](../Page/編曲家.md "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")によるもの。
-        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、“2人が音楽への道を歩まなかった場合”という設定のもと、[教員免許を持っている稲葉が学校の先生に](../Page/教育職員免許状.md "wikilink")、松本がギター屋の店員に扮している。稲葉は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")のとある学校、松本はデビュー前実際にアルバイトで働いていた楽器店での撮影となり、[東京都](../Page/東京都.md "wikilink")内のライブハウスでの撮影も含め収録には3日間かかった\[3\]。またPV内では[ANB系音楽番組](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』の映像が一瞬映っており、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が出演している。当時のサポートメンバーである徳永や[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")らもインディーズバンドのメンバーとして出演している。松本によるとB'zとして初めて[MTV](../Page/MTV.md "wikilink")でヘビーローテーションとなった曲であり、2008年発行のMusic Freak Magazine内で行われた「ミュージックビデオ人気投票」においても1位を獲得した。
+        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、“2人が音楽への道を歩まなかった場合”という設定のもと、[教員免許を持っている稲葉が学校の先生に](../Page/教育職員免許状.md "wikilink")、松本がギター屋の店員に扮している。稲葉は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横須賀市](../Page/横須賀市.md "wikilink")のとある学校、松本はデビュー前実際にアルバイトで働いていた楽器店での撮影となり、[東京都](../Page/東京都.md "wikilink")内のライブハウスでの撮影も含め収録には3日間かかった\[4\]。またPV内では[ANB系音楽番組](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』の映像が一瞬映っており、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")が出演している。当時のサポートメンバーである徳永や[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")らもインディーズバンドのメンバーとして出演している。松本によるとB'zとして初めて[MTV](../Page/MTV.md "wikilink")でヘビーローテーションとなった曲であり、2008年発行のMusic Freak Magazine内で行われた「ミュージックビデオ人気投票」においても1位を獲得した\[5\]\[6\]。
         松本・稲葉両者ともライブで演奏し続けて成長したと語っており、同年に行われた[北米ツアー・アルバムツアーではイントロがアレンジされた新バージョンで演奏された](https://ja.wikipedia.org/wiki/LIVE-GYM_#2003年 "wikilink")。2004年以降はライブでは一切演奏されていなかったが、2013年に行われた『B'z Special LIVE at EX THEATER ROPPONGI』で10年ぶりに演奏された。その際は、イントロのギターがカッティングではなく太めのギターリフに変更され、重厚なアレンジに変更された。
 2.  **旅☆EVERYDAY** (3:00)
       -
@@ -64,6 +64,8 @@
 
 ## 脚注
 
+### 出典
+
 ## 関連項目
 
   - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
@@ -72,4 +74,7 @@
 
 1.
 2.
-3.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+3.
+4.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+5.  「music freak magazine Vol.163」より
+6.

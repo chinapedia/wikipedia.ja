@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKオリンピック歴代テーマソング](https://ja.wikipedia.org/wiki/NHKオリンピック歴代テーマソング)から翻訳されています。
 
 
 **NHKオリンピック歴代テーマソング**では、[ソウルオリンピック](../Page/1988年ソウルオリンピック.md "wikilink")（[1988年](../Page/1988年.md "wikilink")）に始まった[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[オリンピック](../Page/近代オリンピック.md "wikilink")・[パラリンピック](../Page/パラリンピック.md "wikilink")歴代テーマソングについて記す。

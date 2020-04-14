@@ -1,4 +1,4 @@
-> この記事は[Butterfly \(\)](https://ja.wikipedia.org/wiki/Butterfly_\(\))から翻訳されています。
+> この記事は[Butterfly \(倖田來未の曲\)](https://ja.wikipedia.org/wiki/Butterfly_\(倖田來未の曲\))から翻訳されています。
 
 
 「**Butterfly**」（バタフライ）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")に[rhythm zoneよりリリース](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -61,5 +61,9 @@
 <!-- end list -->
 
   - 『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ Butterfly](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004169)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:渡辺未来が制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺未来が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:TBS愛の劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS愛の劇場の主題歌 "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:チョウを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:チョウを題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

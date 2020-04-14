@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(SOUL\'d OUT\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL\'d_OUT\))から翻訳されています。
+> この記事は[ALIVE \(SOUL\'d OUTのアルバム\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL\'d_OUTのアルバム\))から翻訳されています。
 
 
 『**ALIVE**』（アライヴ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")3rdアルバム。セカンドアルバム『[To All Tha Dreamers](../Page/To_All_Tha_Dreamers.md "wikilink")』との間にリミックスアルバム『[Movies\&Remixies 2](../Page/Movies&Remixies_2.md "wikilink")』を挟んでのリリースだが、オリジナルアルバムとしては3枚目となる。

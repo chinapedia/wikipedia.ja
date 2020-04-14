@@ -558,7 +558,7 @@
 | [太田黒哲](https://ja.wikipedia.org/wiki/太田黒哲 "wikilink")                                    | 「One Love」                                                                                           |
 | [奥和義](../Page/奥和義.md "wikilink")                                                         | 「Stay with Me feat.Super Criss(FIRE BALL)」                                                           |
 | [泰太郎](https://ja.wikipedia.org/wiki/泰太郎 "wikilink")                                      | 「Give Thanks」「Beach Walk feat.Takafin from Mighty Jam Rock」「Dancehall Fire feat.BOY-KEN」「Irie Music」 |
-| [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                            | 「[BIG 10](http://www.indiesmusic.com/musicvideo/video.asp?id=10569)」                                 |
+| [tatsuaki](https://ja.wikipedia.org/wiki/tatsuaki "wikilink")                            | 「[BIG 10](https://www.indiesmusic.com/musicvideo/video.asp?id=10569)」                                |
 | [丹下紘希](../Page/丹下紘希.md "wikilink")                                                       | 「Happy Birthday -いっしょに踊りたいぜ Baby-」「Oasis」「Sound Terrorist」                                           |
 | [番場秀一](../Page/番場秀一.md "wikilink")と[中村浩紀](https://ja.wikipedia.org/wiki/中村浩紀 "wikilink") | 「Sunset」                                                                                             |
 |                                                                                          |                                                                                                      |
@@ -604,7 +604,7 @@
 
 ## 外部リンク
 
-  - [HOME GROWN OFFICIAL BLOG Powered by Ameba](http://ameblo.jp/home-grown/)(2012年更新停止)
+  - [HOME GROWN OFFICIAL BLOG Powered by Ameba](https://ameblo.jp/home-grown/)(2012年更新停止)
 
   -   -
       -

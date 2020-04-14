@@ -1,4 +1,4 @@
-> この記事は[WEST](https://ja.wikipedia.org/wiki/WEST)から翻訳されています。
+> この記事は[サタデーホットリクエスト・WEST](https://ja.wikipedia.org/wiki/サタデーホットリクエスト・WEST)から翻訳されています。
 
 
 **サタデーホットリクエスト・WEST**（サタデーホットリクエスト・ウエスト）は[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")で放送されていた[リクエスト番組](../Page/リクエスト番組.md "wikilink")。通称：「**サタリクWEST**(**ウエスト**)」。

@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[アルラレッドAC](https://ja.wikipedia.org/wiki/アルラレッドAC)から翻訳されています。
 
 
 |Section3=  }}

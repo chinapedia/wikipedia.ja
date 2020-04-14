@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FC東京小平グランド](https://ja.wikipedia.org/wiki/FC東京小平グランド)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:kodaira-ground.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Tamokuteki_20160202field.JPG "wikilink") '''FC東京小平グランド '''（FCとうきょうこだいら―）は、[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")にあるサッカーグラウンドで、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")所有の練習場である。

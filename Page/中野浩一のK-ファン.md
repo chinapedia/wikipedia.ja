@@ -1,4 +1,4 @@
-> この記事は[K-](https://ja.wikipedia.org/wiki/K-)から翻訳されています。
+> この記事は[中野浩一のK-ファン](https://ja.wikipedia.org/wiki/中野浩一のK-ファン)から翻訳されています。
 
 
 『**中野浩一のK-ファン**』（なかのこういちのケイファン）は、[中国地方](../Page/中国地方.md "wikilink")のテレビ局で放送された[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")製作の[競輪](../Page/競輪.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の広島ホームテレビでは[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")深夜（6日未明）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")深夜（30日未明）まで放送された後、「充電期間を設ける」として一旦終了したが、同年[9月14日](../Page/9月14日.md "wikilink")深夜（15日未明）に復活。同年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")深夜（17日未明）まで放送された。

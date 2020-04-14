@@ -1,4 +1,4 @@
-> この記事は[EMF \(\)](https://ja.wikipedia.org/wiki/EMF_\(\))から翻訳されています。
+> この記事は[EMF \(バンド\)](https://ja.wikipedia.org/wiki/EMF_\(バンド\))から翻訳されています。
 
 
 **EMF**（イーエムエフ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

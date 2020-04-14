@@ -1,4 +1,4 @@
-> この記事は[Uno \(\)](https://ja.wikipedia.org/wiki/Uno_\(\))から翻訳されています。
+> この記事は[Uno \(化粧品\)](https://ja.wikipedia.org/wiki/Uno_\(化粧品\))から翻訳されています。
 
 
 **uno（ウーノ）**とは[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")の男性向け[化粧品](../Page/化粧品.md "wikilink")のブランド。資生堂のメガブランド第2弾。
@@ -200,7 +200,7 @@
 
   - [妻夫木聡](../Page/妻夫木聡.md "wikilink")
   - [小栗旬](../Page/小栗旬.md "wikilink")
-  - [瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")
+  - [瑛太](https://ja.wikipedia.org/wiki/永山瑛太 "wikilink")
   - [三浦春馬](https://ja.wikipedia.org/wiki/三浦春馬 "wikilink")
 
 <!-- end list -->

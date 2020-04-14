@@ -1,4 +1,4 @@
-> この記事は[HLS](https://ja.wikipedia.org/wiki/HLS)から翻訳されています。
+> この記事は[HLS色空間](https://ja.wikipedia.org/wiki/HLS色空間)から翻訳されています。
 
 
 **HLS色空間**（エイチエルエスいろくうかん）とは、[色相](https://ja.wikipedia.org/wiki/色相 "wikilink")（Hue）、[彩度](https://ja.wikipedia.org/wiki/彩度 "wikilink")（Saturation）、[輝度](https://ja.wikipedia.org/wiki/輝度 "wikilink")（Lightness/Luminance または Intensity）の3つの成分からなる[色空間](../Page/色空間.md "wikilink")。[HSV色空間](../Page/HSV色空間.md "wikilink")によく似ている。 HSL、HSIと呼ばれることもある。

@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム外伝 ジークジオン編](https://ja.wikipedia.org/wiki/SDガンダム外伝_ジークジオン編)から翻訳されています。
 
 
 **SDガンダム外伝 ジークジオン編**（エスディーガンダムがいでん ジークジオンへん）は、[バンダイ](../Page/バンダイ.md "wikilink")の玩具[カードダス](../Page/カードダス.md "wikilink")を中心とした企画。[騎士ガンダム](../Page/騎士ガンダム.md "wikilink")シリーズの第一作である。

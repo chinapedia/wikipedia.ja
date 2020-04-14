@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR広島病院](https://ja.wikipedia.org/wiki/JR広島病院)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:広島鉄道病院01.JPG "wikilink") **JR広島病院**（じぇいあーるひろしまびょういん）は、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[東区にある](../Page/東区_\(広島市\).md "wikilink")[病院](../Page/病院.md "wikilink")。かつては[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[広島支社管轄の](../Page/西日本旅客鉄道広島支社.md "wikilink")[鉄道病院](https://ja.wikipedia.org/wiki/鉄道病院 "wikilink")だったが現在は独立した医療法人が管轄している。

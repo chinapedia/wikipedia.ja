@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[セッション \(NHK番組\)](https://ja.wikipedia.org/wiki/セッション_\(NHK番組\))から翻訳されています。
 
 
 『**THE SESSION 20xx**』（セッション 20xx）は、[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンのスタジオライブを放送する](../Page/フュージョン_\(音楽\).md "wikilink")[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[シトロエン・DS](https://ja.wikipedia.org/wiki/シトロエン・DS)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:DS_21_pallas_1969.JPG "wikilink") [1974_Citroen_DS_(7764241268).jpg](https://ja.wikipedia.org/wiki/File:1974_Citroen_DS_\(7764241268\).jpg "fig:1974_Citroen_DS_(7764241268).jpg") **シトロエン・DS**（*Citroën DS* ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が[1955年](../Page/1955年.md "wikilink")に発表した[アッパーミドルクラス](https://ja.wikipedia.org/wiki/アッパーミドルクラス "wikilink")の[前輪駆動](../Page/前輪駆動.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Something \(ZYYG\)](https://ja.wikipedia.org/wiki/Something_\(ZYYG\))から翻訳されています。
+> この記事は[Something \(ZYYGの曲\)](https://ja.wikipedia.org/wiki/Something_\(ZYYGの曲\))から翻訳されています。
 
 
 「**Something**」（サムシング）は[ZYYG](../Page/ZYYG.md "wikilink")の8枚目のシングル。

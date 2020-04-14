@@ -1,4 +1,4 @@
-> この記事は[SOUL\'d OUT \(\)](https://ja.wikipedia.org/wiki/SOUL\'d_OUT_\(\))から翻訳されています。
+> この記事は[SOUL\'d OUT \(アルバム\)](https://ja.wikipedia.org/wiki/SOUL\'d_OUT_\(アルバム\))から翻訳されています。
 
 
 **SOUL'd OUT** (ソウルド アウト)は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")1stアルバム。

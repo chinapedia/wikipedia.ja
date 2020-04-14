@@ -1,4 +1,4 @@
-> この記事は[ALSOK](https://ja.wikipedia.org/wiki/ALSOK)から翻訳されています。
+> この記事は[ALSOK昇日セキュリティサービス](https://ja.wikipedia.org/wiki/ALSOK昇日セキュリティサービス)から翻訳されています。
 
 
 **ALSOK昇日セキュリティサービス株式会社**（アルソックしょうじつセキュリティサービス、ALSOK SHOJITSU SECURITY SERVICE CO., LTD）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[綜合警備保障](https://ja.wikipedia.org/wiki/綜合警備保障 "wikilink")グループの警備会社。

@@ -1,7 +1,7 @@
-> この記事は[BANZAI \(B\'z\)](https://ja.wikipedia.org/wiki/BANZAI_\(B\'z\))から翻訳されています。
+> この記事は[BANZAI \(B\'zの曲\)](https://ja.wikipedia.org/wiki/BANZAI_\(B\'zの曲\))から翻訳されています。
 
 
-「**BANZAI**」 (バンザイ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の36作目の[シングル](../Page/シングル.md "wikilink")。
+「**BANZAI**」 (バンザイ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2004年](../Page/2004年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")36作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ソロ活動中だったため、このシングルに対するプロモーション活動はなどは一切行われず、TVでは未披露のままである(年末の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』では「ARIGATO」を演奏)。
 
-このシングルよりB'zロゴマークが「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」から「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」まで使われた物に戻り、一部例外を除き現在も使用されている(詳細は「LOVE PHANTOM」の項を参照)。
+このシングルよりB'zロゴマークが『[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")』から『[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")』まで使われた物に戻り、一部例外を除き現在も使用されている(詳細は「LOVE PHANTOM」の項を参照)。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
         会報においてメンバーは「CDで聴くよりもライブで威力を発揮する」とコメントしている。[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で演奏される場合は間奏において「万歳」の掛け合いが行われるのが定番になっている。
 2.  **Magnolia** (3:58)
       -
-        2001年のシングル「[GOLD](../Page/GOLD_\(B'zの曲\).md "wikilink")」の頃に完成していた。
+        2001年のシングル『[GOLD](../Page/GOLD_\(B'zの曲\).md "wikilink")』の頃に完成していた。
         [アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")が初めて編曲を担当したB'zの曲である\[4\]。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の投票では中間発表時に34位([2nd beatの中では](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")8位)とタイアップなし、アルバム未収録曲にも関わらず高順位を記録した。これについて松本は「もうとっくに忘れられていたと思ってたのに…」と会報で述べている。
         2007年に行われたシークレットライブ『[B'z SHOWCASE 2007 -B'z In Your Town-](https://ja.wikipedia.org/wiki/LIVE-GYM_#2007年 "wikilink")』でライブ初披露となった。2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで12位に選ばれている。

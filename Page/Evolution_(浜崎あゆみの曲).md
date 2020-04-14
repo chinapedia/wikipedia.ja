@@ -1,11 +1,11 @@
-> この記事は[Evolution \(\)](https://ja.wikipedia.org/wiki/Evolution_\(\))から翻訳されています。
+> この記事は[Evolution \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Evolution_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**evolution**」（エヴォリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の20th[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**evolution**」（エヴォリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-前作「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」からわずか1ヶ月後に発売された。前作同様、浜崎本人がCREA名義で作曲を担当しており、この年のシングル曲は全て浜崎が作曲した。
+前作「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」からわずか1か月後に発売された。前作同様、浜崎本人がCREA名義で作曲を担当しており、この年のシングル曲は全て浜崎が作曲した。
 
 2001年[6月13日](../Page/6月13日.md "wikilink")には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")等を収めた同名の[DVDシングルが発売された](../Page/DVD-Video.md "wikilink")。2001年[8月12日](../Page/8月12日.md "wikilink")には[アメリカでアナログ盤がavex](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") usaより発売された\[2\]。
 

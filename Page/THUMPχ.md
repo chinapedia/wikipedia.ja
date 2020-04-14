@@ -1,4 +1,4 @@
-> この記事は[THUMP](https://ja.wikipedia.org/wiki/THUMP)から翻訳されています。
+> この記事は[THUMPχ](https://ja.wikipedia.org/wiki/THUMPχ)から翻訳されています。
 
 
 『**THUMP<sup>χ</sup>**』（サンプ・サンプ・サンプ）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の5作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に[SME Recordsからリリースされた](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。

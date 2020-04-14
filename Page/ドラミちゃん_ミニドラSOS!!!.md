@@ -1,4 +1,4 @@
-> この記事は[ SOS!!!](https://ja.wikipedia.org/wiki/_SOS!!!)から翻訳されています。
+> この記事は[ドラミちゃん ミニドラSOS!!!](https://ja.wikipedia.org/wiki/ドラミちゃん_ミニドラSOS!!!)から翻訳されています。
 
 
 『**ドラミちゃん ミニドラSOS\!\!\!**』（ドラミちゃん ミニドラエスオーエス）は、[ドラえもんの妹](../Page/ドラえもん_\(キャラクター\).md "wikilink")[ドラミ](../Page/ドラミ.md "wikilink")の活躍を描いた[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。[1989年](../Page/1989年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")公開。
@@ -117,7 +117,7 @@
 
   - ビデオ『ドラミちゃん ミニドラSOS\!\!\! / [チンプイ](../Page/チンプイ.md "wikilink") エリさま活動大写真』 [東宝](../Page/東宝.md "wikilink")、1996年。
 
-[Category:ドラえもん映画作品](https://ja.wikipedia.org/wiki/Category:ドラえもん映画作品 "wikilink") [Category:1989年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1989年のアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink")
+[Category:ドラえもん映画作品](https://ja.wikipedia.org/wiki/Category:ドラえもん映画作品 "wikilink") [Category:1989年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1989年のアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:未来を題材にした映画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした映画作品 "wikilink") [Category:未来を題材にしたアニメ作品](https://ja.wikipedia.org/wiki/Category:未来を題材にしたアニメ作品 "wikilink")
 
 1.  書籍『映画ドラミちゃんミニドラSOS\!\!（てんとう虫コミックスアニメ版）』目次に掲載の集合写真の日付が 2011.04.05 であることより
 2.  ちなみに、現実の2011年では[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生し、その日付が本作の公開日の[3月11日](../Page/3月11日.md "wikilink")であった。映画の舞台となった2011年4月4日から5日は、現実には、東日本大震災の混乱が未だに残っている時期だった

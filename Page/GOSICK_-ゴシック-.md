@@ -1,4 +1,4 @@
-> この記事は[GOSICK --](https://ja.wikipedia.org/wiki/GOSICK_--)から翻訳されています。
+> この記事は[GOSICK -ゴシック-](https://ja.wikipedia.org/wiki/GOSICK_-ゴシック-)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

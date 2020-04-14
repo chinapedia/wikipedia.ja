@@ -1,4 +1,4 @@
-> この記事は[KNOCKIN\'TAROUND](https://ja.wikipedia.org/wiki/KNOCKIN\'TAROUND)から翻訳されています。
+> この記事は[KNOCKIN\'“T”AROUND](https://ja.wikipedia.org/wiki/KNOCKIN\'“T”AROUND)から翻訳されています。
 
 
 『**KNOCKIN'“T”AROUND**』（ノッキン・ティー・アラウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")3作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された。

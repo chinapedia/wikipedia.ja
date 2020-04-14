@@ -1,13 +1,11 @@
 > この記事は[No way to say](https://ja.wikipedia.org/wiki/No_way_to_say)から翻訳されています。
 
 
-「**No way to say**」（ノー・ウェイ・トゥー・セイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の31st[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**No way to say**」（ノー・ウェイ・トゥー・セイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-今作は木曜日に発売された。
-
-ミニアルバム『[Memorial address](../Page/Memorial_address.md "wikilink")』からの実質的な先行シングルで、前作「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」より約2ヶ月振りのリリースとなった。
+本作は木曜日に発売された。ミニアルバム『[Memorial address](../Page/Memorial_address.md "wikilink")』からの実質的な先行シングルで、前作「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」より約2か月振りのリリースとなった。
 
 発売1週目の時点で[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が持っていた女性アーティスト累積シングル売上の歴代最多記録を更新した（当時で1740万枚）\[1\]。
 

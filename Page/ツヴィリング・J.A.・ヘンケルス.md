@@ -1,9 +1,9 @@
-> この記事は[J.A.](https://ja.wikipedia.org/wiki/J.A.)から翻訳されています。
+> この記事は[ツヴィリング・J.A.・ヘンケルス](https://ja.wikipedia.org/wiki/ツヴィリング・J.A.・ヘンケルス)から翻訳されています。
 
 
-**ツヴィリング J.A. ヘンケルス**(*Zwilling J.A. Henckels AG*)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ゾーリンゲン](../Page/ゾーリンゲン.md "wikilink")に本拠を置く、刃物などのメーカーである。「ツヴィリング」や「ヘンケルス」などの名前で知られている。双子のマークが有名。なお、社名の「ツヴィリング」とは、ドイツ語で「双子」の意。
+**ツヴィリング J.A. ヘンケルス** (*Zwilling J.A. Henckels AG*) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ゾーリンゲン](../Page/ゾーリンゲン.md "wikilink")に本拠を置く、刃物などのメーカーである。「ツヴィリング」や「ヘンケルス」などの名前で知られている。双子のマークが有名。なお、社名の「ツヴィリング」とは、ドイツ語で「双子」の意。
 
-創業は[1731年](../Page/1731年.md "wikilink")にヨハン・ペーター・ヘンケルス（*Johann Peter Henckels* ）がゾーリンゲンの[カトラリー](https://ja.wikipedia.org/wiki/カトラリー "wikilink")[ギルド](../Page/ギルド.md "wikilink")に双子のマークを登録した年とされている。その後、**ヨハン・アブラハム・ヘンケルス**(*Johann Abraham Henckels*)が[1818年](../Page/1818年.md "wikilink")、ベルリンに第1号店をオープンさせた。社名の J.A. は彼の名前の略である。
+創業は[1731年](../Page/1731年.md "wikilink")にヨハン・ペーター・ヘンケルス (*Johann Peter Henckels*) がゾーリンゲンの[カトラリー](https://ja.wikipedia.org/wiki/カトラリー "wikilink")[ギルド](../Page/ギルド.md "wikilink")に双子のマークを登録した年とされている。その後、**ヨハン・アブラハム・ヘンケルス**(*Johann Abraham Henckels*)が[1818年](../Page/1818年.md "wikilink")、ベルリンに第1号店をオープンさせた。社名の J.A. は彼の名前の略である。
 
 日本へは[大阪万国博覧会の際に万能料理バサミが便利なドイツ製キッチン用品としてドイツ館で紹介されて以来ゾーリンゲンの名前とともに知られるようになった](../Page/日本万国博覧会.md "wikilink")。ドイツ本社はゾーリンゲン市の歴史的建造物として保存されている。
 

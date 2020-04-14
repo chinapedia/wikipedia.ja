@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作「[NEVER EVER](../Page/NEVER_EVER.md "wikilink")」に引き続き、CREA名義で浜崎本人が作曲を担当した。
+前作「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」に引き続き、CREA名義で浜崎本人が作曲を担当した。
 
 編曲には、当時17歳であった[松田純一](../Page/松田純一.md "wikilink")が参加している。
 
@@ -25,7 +25,7 @@
         [リミックス](../Page/リミックス.md "wikilink")名になっている「Kirari Natsu Ayu（キラリ夏あゆ）」は、CM内で使われていたキャッチフレーズ
 3.  **Endless sorrow "Natural Green Dub Mix"**
 4.  **Endless sorrow "nicely nice skyblue remix"**
-5.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink") "Dub's Uncategorized Mix 001"**
+5.  **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink") "Dub's Uncategorized Mix 001"**
 6.  **Endless sorrow "Ram's Advance Mix"**
 7.  **Endless sorrow "Brent Mini's gothic mix"**
 8.  **Endless sorrow "Liquid Heart Mix"**

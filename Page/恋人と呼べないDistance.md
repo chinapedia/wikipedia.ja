@@ -1,4 +1,4 @@
-> この記事は[Distance](https://ja.wikipedia.org/wiki/Distance)から翻訳されています。
+> この記事は[恋人と呼べないDistance](https://ja.wikipedia.org/wiki/恋人と呼べないDistance)から翻訳されています。
 
 
 「**恋人と呼べないDistance**」（こいびととよべないディスタンス）は[MANISH](../Page/MANISH.md "wikilink")の1枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[源平伝NEO](https://ja.wikipedia.org/wiki/源平伝NEO)から翻訳されています。
 
 
 『**源平伝NEO**』（げんぺいでんネオ）は、[あかほりさとる](../Page/あかほりさとる.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")、またはこれを原作とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

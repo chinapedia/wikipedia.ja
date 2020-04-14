@@ -1,11 +1,11 @@
-> この記事は[INSPIRE \(\)](https://ja.wikipedia.org/wiki/INSPIRE_\(\))から翻訳されています。
+> この記事は[INSPIRE \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/INSPIRE_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**INSPIRE**」（インスパイア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の33rd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**INSPIRE**」（インスパイア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[Moments](../Page/Moments.md "wikilink")」より約4ヶ月振りのリリースとなる。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売。
+前作「[Moments](../Page/Moments.md "wikilink")」より約4か月振りのリリースとなる。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売。
 
 [CCCD仕様での発売は本作が最後となった](../Page/コピーコントロールCD.md "wikilink")。
 
@@ -34,12 +34,12 @@
 ## 収録アルバム
 
   - **INSPIRE**
-      - 『[MY STORY](../Page/MY_STORY.md "wikilink")』
+      - 『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』
       - 『[A BEST 2 -WHITE-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-WHITE- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
   - **GAME**
-      - 『[MY STORY](../Page/MY_STORY.md "wikilink")』
+      - 『MY STORY』
       - 『[A BEST 2 -BLACK-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-BLACK- "wikilink")』
 
 ## 脚注

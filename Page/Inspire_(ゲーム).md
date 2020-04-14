@@ -1,4 +1,4 @@
-> この記事は[Inspire \(\)](https://ja.wikipedia.org/wiki/Inspire_\(\))から翻訳されています。
+> この記事は[Inspire \(ゲーム\)](https://ja.wikipedia.org/wiki/Inspire_\(ゲーム\))から翻訳されています。
 
 
 **Inspire**（インスパイア、いんすぱいあ）は、日本のゲームメーカーである[モフモフ](https://ja.wikipedia.org/wiki/モフモフ "wikilink")が展開するアダルトゲームブランドである。現在の[名義](https://ja.wikipedia.org/wiki/名義 "wikilink")は「**PHASE**」。

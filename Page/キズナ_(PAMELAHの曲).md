@@ -1,4 +1,4 @@
-> この記事は[ \(PAMELAH\)](https://ja.wikipedia.org/wiki/_\(PAMELAH\))から翻訳されています。
+> この記事は[キズナ \(PAMELAHの曲\)](https://ja.wikipedia.org/wiki/キズナ_\(PAMELAHの曲\))から翻訳されています。
 
 
 「**キズナ**」は、[PAMELAH](../Page/PAMELAH.md "wikilink")の11枚目のシングル。

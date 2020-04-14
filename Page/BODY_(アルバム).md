@@ -1,4 +1,4 @@
-> この記事は[BODY \(\)](https://ja.wikipedia.org/wiki/BODY_\(\))から翻訳されています。
+> この記事は[BODY \(アルバム\)](https://ja.wikipedia.org/wiki/BODY_\(アルバム\))から翻訳されています。
 
 
 『**BODY**』（ボディ）は、女性[ロック](../Page/ロック_\(音楽\).md "wikilink")[デュオである](../Page/二人組.md "wikilink")[KIX-S](../Page/KIX-S.md "wikilink")の6枚目のアルバム。

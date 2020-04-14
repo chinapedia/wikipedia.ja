@@ -1,4 +1,4 @@
-> この記事は[SH-60J \(\)](https://ja.wikipedia.org/wiki/SH-60J_\(\))から翻訳されています。
+> この記事は[SH-60J \(航空機\)](https://ja.wikipedia.org/wiki/SH-60J_\(航空機\))から翻訳されています。
 
 
 **SH-60J**は、[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[哨戒ヘリコプター](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")。[シコルスキー・エアクラフト](../Page/シコルスキー・エアクラフト.md "wikilink")の[SH-60Bの機体を](https://ja.wikipedia.org/wiki/SH-60_シーホーク#LAMPSヘリコプター（SH-60B_シーホーク） "wikilink")[三菱重工業](../Page/三菱重工業.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")し、[技術研究本部](../Page/技術研究本部.md "wikilink")が開発した[システム](../Page/システム.md "wikilink")を搭載したもので、海上自衛隊のヘリコプターとしては初のシステム機である。

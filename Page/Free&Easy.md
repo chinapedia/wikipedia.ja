@@ -1,11 +1,11 @@
 > この記事は[Free\&Easy](https://ja.wikipedia.org/wiki/Free\&Easy)から翻訳されています。
 
 
-「**Free & Easy**」（フリー・アンド・イージー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の26th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Free & Easy**」（フリー・アンド・イージー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」より約1ヶ月半振りのリリースとなった本作は、浜崎あゆみの初の[CCCD](../Page/コピーコントロールCD.md "wikilink")。CCCDで[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した初の作品であり、オリコンシングルチャート通算800作目の第1位獲得作品\[1\]でもある。初回盤CDのみ、ピクチャーレーベル仕様であった。
+前作「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」より約1か月半振りのリリースとなった本作は、浜崎あゆみの初の[CCCD](../Page/コピーコントロールCD.md "wikilink")。CCCDで[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した初の作品であり、オリコンシングルチャート通算800作目の第1位獲得作品\[1\]でもある。初回盤CDのみ、ピクチャーレーベル仕様であった。
 
 雑誌『Free & Easy』とのコラボレーション作品であり、同雑誌の2002年5月号別冊『浜崎共和国』と同日発売\[2\]。ジャケットや[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[ジャンヌ・ダルク](../Page/ジャンヌ・ダルク.md "wikilink")がモチーフとなっている。
 

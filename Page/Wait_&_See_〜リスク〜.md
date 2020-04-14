@@ -1,4 +1,4 @@
-> この記事は[Wait \& See ](https://ja.wikipedia.org/wiki/Wait_\&_See_)から翻訳されています。
+> この記事は[Wait \& See 〜リスク〜](https://ja.wikipedia.org/wiki/Wait_\&_See_〜リスク〜)から翻訳されています。
 
 
 「**Wait & See 〜リスク〜**」（ウェイト・アンド・シー〜リスク〜）は、[2000年](../Page/2000年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")にリリースされた、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。

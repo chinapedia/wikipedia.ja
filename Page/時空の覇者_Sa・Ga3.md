@@ -1,4 +1,4 @@
-> この記事は[ SaGa3](https://ja.wikipedia.org/wiki/_SaGa3)から翻訳されています。
+> この記事は[時空の覇者 Sa・Ga3](https://ja.wikipedia.org/wiki/時空の覇者_Sa・Ga3)から翻訳されています。
 
 
 『**時空の覇者 Sa・Ga3 \[完結編\]**』（じくうのはしゃ サガスリー かんけつへん）は、[1991年](../Page/1991年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")（以下、GB）で発売された[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[サガシリーズ](../Page/サガシリーズ.md "wikilink")の1つである。北米版のタイトルは『**』で、[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")（以下、FFシリーズ）の外伝として扱われている。スクウェアとしてはゲームボーイ最後の作品となった。

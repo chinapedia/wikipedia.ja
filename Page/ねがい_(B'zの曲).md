@@ -1,21 +1,21 @@
-> この記事は[ \(B\'z\)](https://ja.wikipedia.org/wiki/_\(B\'z\))から翻訳されています。
+> この記事は[ねがい \(B\'zの曲\)](https://ja.wikipedia.org/wiki/ねがい_\(B\'zの曲\))から翻訳されています。
 
 
-「**ねがい**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の16作目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")発売。
+「**ねがい**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")16作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-前作「[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")」より約半年ぶりに発表されたシングル。
+前作『[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")』より約半年ぶりに発表されたシングル。
 
-本作よりプライベート・レーベル『[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink")』が発足。
+本作よりプライベート・レーベル『[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS#過去に設けられたレーベル "wikilink")』が発足。
 
-このシングルと「[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")」は、[蜂](https://ja.wikipedia.org/wiki/蜂 "wikilink")(bee)のお尻を模したB'zロゴマークが使われた。
+本作と次作『[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")』は、[蜂](https://ja.wikipedia.org/wiki/蜂 "wikilink")(bee)のお尻を模したB'zロゴマークが使われた。
 
 自身初の[平仮名](../Page/平仮名.md "wikilink")のみのタイトルのシングルで、平仮名のみのタイトルのシングルは、本作と[2006年](../Page/2006年.md "wikilink")発売の「[ゆるぎないものひとつ](../Page/ゆるぎないものひとつ.md "wikilink")」のみとなっている。
 
-これまでの制作陣([B+U+M](https://ja.wikipedia.org/wiki/B+U+M "wikilink"))を解体して「B'zは2人である」という原点に立ち返り、稲葉が編曲にも参加した最初の作品。松本は「B'z7年目のターニングポイントになる作品でした」と述べている。
+これまでの制作陣（[B+U+M](https://ja.wikipedia.org/wiki/B+U+M "wikilink")）を解体して「B'zは2人である」という原点に立ち返り、稲葉が編曲にも参加した最初の作品。松本は「B'z7年目のターニングポイントになる作品でした」と述べている。
 
-シングルでは「[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")」から5作連続で初動70万枚越えを記録。同一アーティストではオリコン史上初となった。
+シングルでは『[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")』より5作連続で初動70万枚越えを記録し、同一アーティストではオリコン史上初となった。
 
 ## 収録曲
 
@@ -27,9 +27,9 @@
         近年のライブではシングルバージョンとアルバムバージョンをミックスさせたアレンジで演奏し、間奏のギターソロを長く演奏することが多い。
 2.  **YOU & I** (4:07)
       -
-        [2nd beatの楽曲の中でも人気が高く](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の人気投票では2nd beatの中では4位(総合では21位)、『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では総合で16位だった\[2\]。
+        [2nd beatの楽曲の中でも人気が高く](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の人気投票では2nd beatの中では4位(総合では21位)、『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』では総合で16位だった\[2\]。
         会報のインタビューでの松本の発言によると、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に行われたツアー『B'z LIVE-GYM '98 "SURVIVE"』の際に候補曲としてリハーサルまでしたとのことだが、最終的には未演奏になったという(後に[2000年](../Page/2000年.md "wikilink")に行われたツアー『B'z LIVE-GYM Pleasure 2000 "juice"』でライブ初披露となった)。
-        [オリジナル・アルバムには未収録であり](../Page/スタジオ・アルバム.md "wikilink")、『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』にリミックス・バージョンが、『B'z The Best "ULTRA Treasure"』にはオリジナル・バージョンが収録されている。
+        [オリジナル・アルバムには未収録であり](../Page/スタジオ・アルバム.md "wikilink")、マスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』にリミックス・バージョン、『B'z The Best "ULTRA Treasure"』にはオリジナル・バージョンが収録されている。
         2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで2位となり、2015年に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』(スタジアム・ドーム公演)で『B'z LIVE-GYM Pleasure 2000 "juice"』以来、15年ぶりに演奏され、同時に初の映像化も果たした。
 
 ## タイアップ

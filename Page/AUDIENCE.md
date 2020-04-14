@@ -1,11 +1,11 @@
 > この記事は[AUDIENCE](https://ja.wikipedia.org/wiki/AUDIENCE)から翻訳されています。
 
 
-「**AUDIENCE**」（オーディエンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の18th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[12月27日](../Page/12月27日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**AUDIENCE**」（オーディエンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[12月27日](../Page/12月27日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-シングルとしては前作「[SURREAL](../Page/SURREAL.md "wikilink")」より約1ヶ月でのリリースで、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産作品。
+シングルとしては前作「[SURREAL](../Page/SURREAL.md "wikilink")」より約1か月でのリリースで、3枚目の[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産作品。
 
 最後のトラック「SEASONS "Vocal Track"」は一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 

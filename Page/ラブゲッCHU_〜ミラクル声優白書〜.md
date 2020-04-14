@@ -1,4 +1,4 @@
-> この記事は[CHU ](https://ja.wikipedia.org/wiki/CHU_)から翻訳されています。
+> この記事は[ラブゲッCHU 〜ミラクル声優白書〜](https://ja.wikipedia.org/wiki/ラブゲッCHU_〜ミラクル声優白書〜)から翻訳されています。
 
 
 『**ラブゲッCHU 〜ミラクル声優白書〜**』（ラブゲッチュ ミラクルせいゆうはくしょ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2006年](../Page/2006年.md "wikilink")4月から9月まで[テレビ東京系列局](https://ja.wikipedia.org/wiki/TXN "wikilink")3局で放送された。また、[AT-Xでも](../Page/アニメシアターX.md "wikilink")2006年8月から[2007年](../Page/2007年.md "wikilink")1月まで放送された。全25話。

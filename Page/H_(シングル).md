@@ -1,11 +1,11 @@
-> この記事は[H \(\)](https://ja.wikipedia.org/wiki/H_\(\))から翻訳されています。
+> この記事は[H \(シングル\)](https://ja.wikipedia.org/wiki/H_\(シングル\))から翻訳されています。
 
 
-「**H**」（エイチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の27th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『H』はロゴ表記。
+「**H**」（エイチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の27枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『H』はロゴ表記。
 
 ## 解説
 
-前作「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」から丁度3ヶ月でのリリースとなった。
+前作「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」からちょうど3か月でのリリースとなった。
 
 3曲[A面シングル](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。ジャケット違いの3種類の限定盤、通常盤および、ミリオンヒット記念盤（2002年[11月7日](../Page/11月7日.md "wikilink")発売）が発売された。
 

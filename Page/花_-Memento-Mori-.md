@@ -1,4 +1,4 @@
-> この記事は[ -Memento-Mori-](https://ja.wikipedia.org/wiki/_-Memento-Mori-)から翻訳されています。
+> この記事は[花 -Memento-Mori-](https://ja.wikipedia.org/wiki/花_-Memento-Mori-)から翻訳されています。
 
 
 「**花 -Mémento-Mori-**」（はな メメントモリ）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の11枚目のシングル。[1996年](../Page/1996年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

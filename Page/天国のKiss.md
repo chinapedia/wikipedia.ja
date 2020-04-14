@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[天国のKiss](https://ja.wikipedia.org/wiki/天国のKiss)から翻訳されています。
 
 
 『**天国のKiss**』（てんごくのキス）は、[1999年](../Page/1999年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")から[9月13日](../Page/9月13日.md "wikilink")まで[テレビ朝日系列の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink")で毎週[月曜日](../Page/月曜日.md "wikilink")20:00 - 20:54にかけて[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全10回。平均[視聴率](../Page/視聴率.md "wikilink")7.8%。

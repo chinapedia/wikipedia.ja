@@ -1,4 +1,4 @@
-> この記事は[Precious \(Cubic U\)](https://ja.wikipedia.org/wiki/Precious_\(Cubic_U\))から翻訳されています。
+> この記事は[Precious \(Cubic Uのアルバム\)](https://ja.wikipedia.org/wiki/Precious_\(Cubic_Uのアルバム\))から翻訳されています。
 
 
 **Precious**（プレシャス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")にリリースされた、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の**Cubic U**名義の日本デビュー前のアルバム。

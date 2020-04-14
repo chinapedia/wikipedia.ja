@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSワンダーランド](https://ja.wikipedia.org/wiki/NEWSワンダーランド)から翻訳されています。
 
 
 **NEWSワンダーランド**（ニュースワンダーランド）は、[2004年](../Page/2004年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[ラジオ大阪で放送されていた平日のワイド番組](../Page/大阪放送.md "wikilink")。[2005年](../Page/2005年.md "wikilink")、[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞・ラジオ生ワイド部門優秀賞受賞。

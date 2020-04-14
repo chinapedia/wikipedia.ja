@@ -1,4 +1,4 @@
-> この記事は[Z \(\)](https://ja.wikipedia.org/wiki/Z_\(\))から翻訳されています。
+> この記事は[サイクロンZ \(映画\)](https://ja.wikipedia.org/wiki/サイクロンZ_\(映画\))から翻訳されています。
 
 
 『サイクロンZ』（原題：飛龍猛将、英語題名：*Dragons Forever*）は[1988年](../Page/1988年.md "wikilink")に公開された[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")製作、[サモ・ハン・キンポー](../Page/サモ・ハン・キンポー.md "wikilink")監督、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")主演のアクション映画。

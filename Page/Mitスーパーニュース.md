@@ -1,4 +1,4 @@
-> この記事は[Mit](https://ja.wikipedia.org/wiki/Mit)から翻訳されています。
+> この記事は[Mitスーパーニュース](https://ja.wikipedia.org/wiki/Mitスーパーニュース)から翻訳されています。
 
 
 『**mitスーパーニュース**』（ミット スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*mit Super NEWS*）は、[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")で夕方に放送されていた[岩手県](../Page/岩手県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。全国ネット番組『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を交えて放送した。

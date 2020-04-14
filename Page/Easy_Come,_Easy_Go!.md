@@ -1,17 +1,19 @@
 > この記事は[Easy Come, Easy Go!](https://ja.wikipedia.org/wiki/Easy_Come,_Easy_Go!)から翻訳されています。
 
 
-「**Easy Come, Easy Go\!**」(イージー・カム・イージー・ゴー\!) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の6作目の[シングル](../Page/シングル.md "wikilink")。
+「**Easy Come, Easy Go\!**」(イージー・カム・イージー・ゴー\!) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")6作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-前作「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」より約4ヵ月ぶりのリリースで、4thアルバム『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』からの先行シングル。
+前作『[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")』より約4ヵ月ぶりのリリースで、4thアルバム『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』からの先行シングル。
 
 このシングルから『RISKY』まで専用のロゴマーク (円形で中央にB'z、囲うように松本･稲葉の英語クレジット) が使われた。
 
+[ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で、カメラに黄色のフィルムを貼り付けて撮影したもの\[1\]。
+
 これまで松本はサウンド・プロデュースのみだったが、今作からは全面プロデュースになっている。
 
-B'zがオリコンシングルチャートで2週連続以上で1位を獲得した初めてのシングルである (3週連続)。なお4週目には次作「[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")」が初登場1位を獲得したため、B'zのシングルが4週連続1位を独占することとなった。なお、本作は2006年4月24日時点で、売上枚数47万1613枚を記録している\[1\]。
+B'zがオリコンシングルチャートで2週連続以上で1位を獲得した初めてのシングルである (3週連続)。なお4週目には次作『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』が初登場1位を獲得したため、B'zのシングルが4週連続1位を独占することとなった。なお、本作は2006年4月24日時点で、売上枚数47万1613枚を記録している\[2\]。
 
 [2003年](../Page/2003年.md "wikilink")3月26日にリマスタリング、12cm化で再発売された。
 
@@ -19,13 +21,13 @@ B'zがオリコンシングルチャートで2週連続以上で1位を獲得し
 
 1.  **Easy Come, Easy Go\!** (4:41)
       -
-        タイトルは「悪銭身につかず」という意味であり、。後に稲葉がこの曲の仮タイトルが「[三茶のテレビはでかかった](../Page/三軒茶屋.md "wikilink")\!」(命名したのは松本) と暴露している\[2\]。
+        タイトルは「悪銭身につかず」という意味。後に稲葉がこの曲の仮タイトルが「[三茶のテレビはでかかった](../Page/三軒茶屋.md "wikilink")\!」(命名したのは松本) と暴露している\[3\]。
         前作までの[デジタル](../Page/デジタル.md "wikilink")・ダンスナンバーから脱却し、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を主体としたものになっている。
-        当時松本は「そろそろ目先を変えたものが必要」と考えており\[3\]、シングルにするのが不安で周りからは反対され、キャンペーンに訪れたレコード店からも「地味だから売れない」と評されたとコメントしている\[4\]。後のインタビューで、本作について松本は「コンサートを何本かやってて、これはレコードで聴くよりも絶対にコンサートのほうがいいなって、やってていいなって思った。コンサートをやって、こういう曲をシングルにした意味が一段と大きくなるというのを感じた。」とコメントしている\[5\]。
+        当時松本は「そろそろ目先を変えたものが必要」と考えており\[4\]、シングルにするのが不安で周りからは反対され、キャンペーンに訪れたレコード店からも「地味だから売れない」と評されたとコメントしている\[5\]。後のインタビューで、本作について松本は「コンサートを何本かやってて、これはレコードで聴くよりも絶対にコンサートのほうがいいなって、やってていいなって思った。コンサートをやって、こういう曲をシングルにした意味が一段と大きくなるというのを感じた。」とコメントしている\[6\]。
         4thアルバム『RISKY』には、アレンジバージョンが収録され、シングルバージョンはベスト・アルバム『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で初収録となった。
-        [MVは](../Page/ミュージック・ビデオ.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で撮影されたもの。この映像はVHS『[FILM RISKY](../Page/FILM_RISKY.md "wikilink")』に収録された。ただしあくまで『RISKY』収録のバージョンのMVとされており、[2013年](../Page/2013年.md "wikilink")に発売のベスト・アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』の特典DVDには『B'z LIVE-GYM "Pleasure '91"』でのライブ映像 (映像作品『[JUST ANOTHER LIFE](../Page/JUST_ANOTHER_LIFE.md "wikilink")』に収録されている映像と同じもの) が収録されている\[6\]。
-        初期の楽曲だが現在でも[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で演奏されることが多く、ライブでは稲葉が珍しく[ギター](../Page/ギター.md "wikilink") (松本が[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")、稲葉がバックのアコースティック・ギター) を演奏することが多い。
-        また、[台湾の歌手であるエリック](../Page/中華民国.md "wikilink")・ソン ([孫耀威](https://ja.wikipedia.org/wiki/:en:zh:孫耀威 "wikilink")) が『威風時刻』として、中国語でカバーしている\[7\]。同曲は[台湾ドラマ](../Page/台湾ドラマ.md "wikilink")『懐玉公主』のオープニングテーマとして使用された。
+        [MVは](../Page/ミュージック・ビデオ.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で撮影されたもの\[7\]。この映像はVHS『[FILM RISKY](../Page/FILM_RISKY.md "wikilink")』に収録された。ただしあくまで『RISKY』収録のバージョンのMVとされており、[2013年](../Page/2013年.md "wikilink")に発売のベスト・アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』の特典DVDには『B'z LIVE-GYM "Pleasure '91"』でのライブ映像 (映像作品『[JUST ANOTHER LIFE](../Page/JUST_ANOTHER_LIFE.md "wikilink")』に収録されている映像と同じもの) が収録されている\[8\]。
+        初期の楽曲だが現在でも[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で演奏されることが多く、ライブでは稲葉が珍しく[ギター](../Page/ギター.md "wikilink")\[9\]を演奏することが多い。
+        また、[台湾の歌手であるエリック](../Page/中華民国.md "wikilink")・ソン ([孫耀威](https://ja.wikipedia.org/wiki/:en:zh:孫耀威 "wikilink")) が『威風時刻』として、中国語でカバーしている\[10\]。同曲は[台湾ドラマ](../Page/台湾ドラマ.md "wikilink")『懐玉公主』のオープニングテーマとして使用された。
 2.  **GO\! NUDE\! GO\!** (5:01)
       -
         表題曲とは異なり、今までの楽曲と同じくデジタルナンバーとなっている。
@@ -74,12 +76,15 @@ B'zがオリコンシングルチャートで2週連続以上で1位を獲得し
 
   - [1990年の音楽](../Page/1990年の音楽.md "wikilink")
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:1990年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.
 2.
-3.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P20より
-4.  「BH 90年11月号」など当時の雑誌のインタビューや会報で同様の発言を多く残している。
-5.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P48より
-6.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
-7.  作曲は「B'z」名義となっており、訳詞は許常德が手がけた。
+3.
+4.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P20より
+5.  「BH 90年11月号」など当時の雑誌のインタビューや会報で同様の発言を多く残している。
+6.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P48より
+7.
+8.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+9.  松本が[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")、稲葉がバックのアコースティック・ギター。
+10. 作曲は「B'z」名義となっており、訳詞は許常德が手がけた。

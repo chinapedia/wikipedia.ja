@@ -1,7 +1,7 @@
 > この記事は[IT\'S SHOWTIME!!](https://ja.wikipedia.org/wiki/IT\'S_SHOWTIME!!)から翻訳されています。
 
 
-「**IT'S SHOWTIME\!\!**」(イッツ・ショータイム\!\!)は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の34作目の[シングル](../Page/シングル.md "wikilink")。
+「**IT'S SHOWTIME\!\!**」(イッツ・ショータイム\!\!)は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")34作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -9,9 +9,9 @@
 
 CDジャケットの題字は、[書家](../Page/書家.md "wikilink")の[柿沼康二](https://ja.wikipedia.org/wiki/柿沼康二 "wikilink")によるもの\[1\]。
 
-今作で5thシングル「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」から30作連続、30作目のオリコンの1位を獲得した。
+今作で5thシングル『[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")』から30作連続、30作目のオリコンの1位を獲得した。
 
-4月のCDセールストップになった。このシングルの発売と同時に、4thシングル「[BE THERE](../Page/BE_THERE.md "wikilink")」から13thシングル「[裸足の女神](../Page/裸足の女神.md "wikilink")」までシングル10作を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上12cmCD化し再発した。このため、オリコンデイリーチャート上位11位までをB'zで独占という記録を成し遂げた。但し、ウィークリーチャートでは2位に[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」がランクインしたため、ウィークリーチャートTOP10独占までには至らなかった。
+4月のCDセールストップになった。このシングルの発売と同時に、4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』までシングル10作を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上12cmCD化し再発した。このため、オリコンデイリーチャート上位11位までをB'zで独占という記録を成し遂げた。但し、ウィークリーチャートでは2位に[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がランクインしたため、ウィークリーチャートTOP10独占までには至らなかった。
 
 ## 収録曲
 
@@ -79,7 +79,7 @@ CDジャケットの題字は、[書家](../Page/書家.md "wikilink")の[柿沼
 
 ### 出典
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.
 2.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。

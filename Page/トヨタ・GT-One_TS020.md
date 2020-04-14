@@ -1,4 +1,4 @@
-> この記事は[GT-One TS020](https://ja.wikipedia.org/wiki/GT-One_TS020)から翻訳されています。
+> この記事は[トヨタ・GT-One TS020](https://ja.wikipedia.org/wiki/トヨタ・GT-One_TS020)から翻訳されています。
 
 
 **トヨタ・GT-One**（トヨタジーティーワン、Toyota GT-One）は、[トヨタが](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")参戦用に開発した[レーシングカー](../Page/レーシングカー.md "wikilink")。建前上は当時のGT1規定に該当する[グランドツーリングカーとなっているが](../Page/グランツーリスモ.md "wikilink")、実態は[プロトタイプレーシングカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")である（[1999年](../Page/1999年.md "wikilink")はプロトタイプとしてエントリー）。正式名称は**GT-One**であるが、[TS010の流れを汲むレーシングスポーツカーとして](../Page/トヨタ・TS010.md "wikilink")、型式名の**TS020**でも呼ばれる。

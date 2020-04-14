@@ -1,4 +1,4 @@
-> この記事は[CPII](https://ja.wikipedia.org/wiki/CPII)から翻訳されています。
+> この記事は[CPシステムII](https://ja.wikipedia.org/wiki/CPシステムII)から翻訳されています。
 
 
 **CPシステムII**（シーピーシステム ツー）とは、[1993年](../Page/1993年.md "wikilink")に『[スーパーストリートファイターII](../Page/ストリートファイターII.md "wikilink")』と共に出荷された[カプコン](../Page/カプコン.md "wikilink")開発の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用[システム基板](https://ja.wikipedia.org/wiki/システム基板 "wikilink")である。海外を中心に**CPS-2**と略されることがある。以降、記事中ではこの略称を用いる。

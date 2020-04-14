@@ -1,4 +1,4 @@
-> この記事は[ISU](https://ja.wikipedia.org/wiki/ISU)から翻訳されています。
+> この記事は[ISUグランプリシリーズ](https://ja.wikipedia.org/wiki/ISUグランプリシリーズ)から翻訳されています。
 
 
 **ISUグランプリシリーズ**（ISU Grand Prix of Figure Skating）は、[国際スケート連盟](../Page/国際スケート連盟.md "wikilink")（ISU）が承認する[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")のシリーズ戦。前年度の成績などにより出場資格を満たした選手たちが出場する、それぞれアメリカ、カナダ、中国、フランス、ロシア、日本で開催される6大会と、6大会の上位選手が出場する[グランプリファイナルを含めた総称](../Page/ISUグランプリファイナル.md "wikilink")。

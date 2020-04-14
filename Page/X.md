@@ -99,6 +99,7 @@
   - 人物
       - 日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")グループ「[X JAPAN](../Page/X_JAPAN.md "wikilink")」 の旧称、または通称・略称。
       - [X (バンド)](../Page/X_\(バンド\).md "wikilink") - アメリカのバンド（上記のX JAPAN とは無関係）。
+      - [X-クロス-](https://ja.wikipedia.org/wiki/X-クロス- "wikilink") - 日本の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。
       - AV監督。
   - 架空の人物
       - [エックス (ロックマンシリーズ)](../Page/エックス_\(ロックマンシリーズ\).md "wikilink") - [カプコン](../Page/カプコン.md "wikilink")の[ロックマンシリーズ](../Page/ロックマンシリーズ.md "wikilink")に登場する架空の[ロボット](../Page/ロボット.md "wikilink")。

@@ -1,11 +1,11 @@
 > この記事は[Moments](https://ja.wikipedia.org/wiki/Moments)から翻訳されています。
 
 
-「**Moments**」（モーメンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の32nd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Moments**」（モーメンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の32枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-シングルとしては前作「[No way to say](../Page/No_way_to_say.md "wikilink")」以来、約5ヶ月振りのリリースとなる。
+シングルとしては前作「[No way to say](../Page/No_way_to_say.md "wikilink")」以来、約5か月振りのリリースとなる。
 
 自身初の「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態で販売を行った。
 
@@ -28,7 +28,7 @@
 ## 収録アルバム
 
   - **Moments**
-      - 『[MY STORY](../Page/MY_STORY.md "wikilink")』
+      - 『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』
       - 『[A BEST 2 -WHITE-](https://ja.wikipedia.org/wiki/A_BEST_2#A_BEST_2_-WHITE- "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
 

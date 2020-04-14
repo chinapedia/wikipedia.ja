@@ -1,4 +1,4 @@
-> この記事は[Prophecy](https://ja.wikipedia.org/wiki/Prophecy)から翻訳されています。
+> この記事は[コルグ・Prophecy](https://ja.wikipedia.org/wiki/コルグ・Prophecy)から翻訳されています。
 
 
 **Prophecy**（プロフェシー）とは[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名である。

@@ -1,11 +1,11 @@
-> この記事は[Voyage \(\)](https://ja.wikipedia.org/wiki/Voyage_\(\))から翻訳されています。
+> この記事は[Voyage \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Voyage_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Voyage**」（ヴォヤージュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の28th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Voyage**」（ヴォヤージュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の28枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[H](../Page/H_\(シングル\).md "wikilink")」から約2ヶ月振りのリリースとなった。
+前作「[H](../Page/H_\(シングル\).md "wikilink")」から約2か月振りのリリースとなった。
 
 "Voyage" の本来の読みは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")（ヴォワイアージュ）、[英語](../Page/英語.md "wikilink")（ヴォイッジ）である。「ヴォヤージュ」というのは、[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")読みとフランス語読みを掛け合わせている。
 

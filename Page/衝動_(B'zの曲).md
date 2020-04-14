@@ -1,7 +1,7 @@
-> この記事は[ \(B\'z\)](https://ja.wikipedia.org/wiki/_\(B\'z\))から翻訳されています。
+> この記事は[衝動 \(B\'zの曲\)](https://ja.wikipedia.org/wiki/衝動_\(B\'zの曲\))から翻訳されています。
 
 
-『**衝動**』（しょうどう）は、[B'z](../Page/B'z.md "wikilink")の楽曲。同グループ40作目の[シングル](../Page/シングル.md "wikilink")として[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[VERMILLION RECORDSから発売された](../Page/VERMILLION_RECORDS.md "wikilink")。
+「**衝動**」（しょうどう）は、[B'z](../Page/B'z.md "wikilink")の楽曲。同グループ40作目の[シングル](../Page/シングル.md "wikilink")として[2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[VERMILLION RECORDSから発売された](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@ B'zとしては「[Everlasting](../Page/GREEN_\(B'zのアルバム\).md "wikilin
 
 このシングルには、『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の原作者である[青山剛昌](../Page/青山剛昌.md "wikilink")描き下ろしのイラストカードが付属している。そのカードには、B'zの2人と『名探偵コナン』の主人公・[江戸川コナン](../Page/江戸川コナン.md "wikilink")が描かれている\[1\]。
 
-B'zのCDが1月に発売されるのは、18年目にして初めてのことだった。[2000年](../Page/2000年.md "wikilink")発売の「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」も当初は1月発売だったが、収録曲変更などで延期され同年2月に変更となった（詳細は「[今夜月の見える丘に](https://ja.wikipedia.org/wiki/今夜月の見える丘に#概要 "wikilink")」を参照）。また、B'zとしては[漢字](../Page/漢字.md "wikilink")のみのシングル表題曲は今作が初である\[2\]。
+B'zのCDが1月に発売されるのは、18年目にして初めてのことだった。[2000年](../Page/2000年.md "wikilink")発売の『[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")』も当初は1月発売だったが、収録曲変更などで延期され同年2月に変更となった（詳細は「[今夜月の見える丘に](https://ja.wikipedia.org/wiki/今夜月の見える丘に#概要 "wikilink")」を参照）。また、B'zとしては[漢字](../Page/漢字.md "wikilink")のみのシングル表題曲は今作が初である\[2\]。
 
 ## 参加ミュージシャン
 
@@ -28,7 +28,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
         音楽番組での披露は『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』と『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』のみである。
 2.  **結晶** （4:06）
       -
-        楽曲自体は、メンバーがいつ制作したか覚えていないほどの昔の[ストック](../Page/ストック.md "wikilink")である（[打ち込みドラムの使用や参加スタッフから](../Page/ドラムマシン.md "wikilink")、2001年〜2002年の楽曲と推測出来る）。メンバーは「冬の時期に発表したかった」とのこと。
+        楽曲自体は、メンバーがいつ制作したか覚えていないほどの昔の[ストック](../Page/ストック.md "wikilink")である。メンバーは「冬の時期に発表したかった」とのこと。
         Bメロ部分は、やや[ファルセット](../Page/ファルセット.md "wikilink")気味で歌唱している\[6\]。
         [2nd beatかつストックでありながら](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[喰いタン](../Page/喰いタン_\(テレビドラマ\).md "wikilink")』主題歌に起用された。同系列番組『[歌笑HOTヒット10](../Page/ウタワラ.md "wikilink")』で披露されたが、[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")では未演奏のため、前述の番組出演が唯一の演奏披露である。また、B'zが日本テレビ系列のドラマ主題歌を手掛けるのは「[RING](../Page/RING_\(B'zの曲\).md "wikilink")」以来、約5年4か月ぶりとなる。
 
@@ -77,7 +77,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 </tbody>
 </table>
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.
 2.  本作の他には、「[有頂天](https://ja.wikipedia.org/wiki/有頂天_\(B'zの曲\) "wikilink")」と「[声明](https://ja.wikipedia.org/wiki/声明/Still_Alive "wikilink")」が存在する。

@@ -1,4 +1,4 @@
-> この記事は[Cabi](https://ja.wikipedia.org/wiki/Cabi)から翻訳されています。
+> この記事は[Cabiネット](https://ja.wikipedia.org/wiki/Cabiネット)から翻訳されています。
 
 
 **ネット**（きゃびネット）は、2002年から2010年まで出版されていた[内閣](../Page/内閣.md "wikilink")および[政府](../Page/政府.md "wikilink")の広報誌である。[thumbの閣僚](https://ja.wikipedia.org/wiki/ファイル:2nd_Hatoyama_Ichiro_Cabinet.jpg "wikilink")\]\]

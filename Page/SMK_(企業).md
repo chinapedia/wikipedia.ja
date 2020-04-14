@@ -1,4 +1,4 @@
-> この記事は[SMK \(\)](https://ja.wikipedia.org/wiki/SMK_\(\))から翻訳されています。
+> この記事は[SMK \(企業\)](https://ja.wikipedia.org/wiki/SMK_\(企業\))から翻訳されています。
 
 
 **SMK株式会社**（エスエムケイ、*SMK Corporation*）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")に本社を置く[コネクタ](../Page/コネクタ.md "wikilink")、[スイッチ](../Page/開閉器.md "wikilink")、[リモコン](../Page/リモコン.md "wikilink")、[プラグ](https://ja.wikipedia.org/wiki/プラグ "wikilink")、[ジャック](https://ja.wikipedia.org/wiki/ジャック "wikilink")、[電源部品](https://ja.wikipedia.org/wiki/電源部品 "wikilink")、[ターミナル](../Page/ターミナル.md "wikilink")、[RFユニット](https://ja.wikipedia.org/wiki/RFユニット "wikilink")、[コントロールパネル](https://ja.wikipedia.org/wiki/コントロールパネル "wikilink")、[タッチパネル](../Page/タッチパネル.md "wikilink")、[通信モジュール](https://ja.wikipedia.org/wiki/通信モジュール "wikilink")、[カメラモジュール](https://ja.wikipedia.org/wiki/カメラモジュール "wikilink")などを製造、販売している企業である。旧社名は**昭和無線工業株式会社**。

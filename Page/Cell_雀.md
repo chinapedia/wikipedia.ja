@@ -1,4 +1,4 @@
-> この記事は[Cell ](https://ja.wikipedia.org/wiki/Cell_)から翻訳されています。
+> この記事は[Cell 雀](https://ja.wikipedia.org/wiki/Cell_雀)から翻訳されています。
 
 
 『**Cell_雀**』（セルジャン）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[表計算ソフト](../Page/表計算ソフト.md "wikilink")・[Microsoft Excel上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、四人打ち[麻雀](../Page/麻雀.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。Excelの[VBA](../Page/Visual_Basic_for_Applications.md "wikilink")[マクロ機能を使用しているため](../Page/マクロ言語.md "wikilink")、Excelがインストールされ、動作する[パソコンが必要](../Page/パーソナルコンピュータ.md "wikilink")。[Officeアシスタント機能がインストールされている場合は](https://ja.wikipedia.org/wiki/Microsoft_Office#Officeアシスタント "wikilink")、「冴子先生」や「カイル」等と麻雀ができる。[フリーソフト](https://ja.wikipedia.org/wiki/フリーソフト "wikilink")として[公式サイト](http://home.att.ne.jp/zeta/gen/celljong)にて入手可能。

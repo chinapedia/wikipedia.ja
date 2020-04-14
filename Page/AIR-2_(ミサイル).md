@@ -1,4 +1,4 @@
-> この記事は[AIR-2 \(\)](https://ja.wikipedia.org/wiki/AIR-2_\(\))から翻訳されています。
+> この記事は[AIR-2 \(ミサイル\)](https://ja.wikipedia.org/wiki/AIR-2_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AIR-2 ジニー | 画像=Image:AIR-2A Genie 2.jpg | キャプション=MF-9トレーラーに載せられたAIR-2Aジニー

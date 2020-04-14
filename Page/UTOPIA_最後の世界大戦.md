@@ -1,4 +1,4 @@
-> この記事は[UTOPIA ](https://ja.wikipedia.org/wiki/UTOPIA_)から翻訳されています。
+> この記事は[UTOPIA 最後の世界大戦](https://ja.wikipedia.org/wiki/UTOPIA_最後の世界大戦)から翻訳されています。
 
 
 『**UTOPIA 最後の世界大戦**』（ユートピア さいごのせかいたいせん）は、**足塚不二雄**名義で[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に出版された[藤子不二雄](../Page/藤子不二雄.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF漫画](../Page/SF漫画.md "wikilink")作品。同両人による、最初で最後の描き下ろしの単行本である。100ページ、全1巻。[鶴書房](../Page/鶴書房.md "wikilink")による初出では、[中島利行](https://ja.wikipedia.org/wiki/中島利行 "wikilink")\[1\]『覆面団』併録。

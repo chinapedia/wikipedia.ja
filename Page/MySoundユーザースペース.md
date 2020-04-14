@@ -1,4 +1,4 @@
-> この記事は[MySound](https://ja.wikipedia.org/wiki/MySound)から翻訳されています。
+> この記事は[MySoundユーザースペース](https://ja.wikipedia.org/wiki/MySoundユーザースペース)から翻訳されています。
 
 
 **MySoundユーザースペース**（マイサウンドゆーざーすぺーす）は、[ヤマハ](../Page/ヤマハ.md "wikilink")が運営する[音楽](../Page/音楽.md "wikilink")[コミュニティサービスサイト](../Page/共同体.md "wikilink")。他の音楽サービスに対して[JASRACに登録されている作品のコピー曲を投稿できることが特徴](../Page/日本音楽著作権協会.md "wikilink")。

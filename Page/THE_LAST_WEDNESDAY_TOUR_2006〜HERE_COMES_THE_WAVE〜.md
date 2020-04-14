@@ -1,4 +1,4 @@
-> この記事は[THE LAST WEDNESDAY TOUR 2006HERE COMES THE WAVE](https://ja.wikipedia.org/wiki/THE_LAST_WEDNESDAY_TOUR_2006HERE_COMES_THE_WAVE)から翻訳されています。
+> この記事は[THE LAST WEDNESDAY TOUR 2006〜HERE COMES THE WAVE〜](https://ja.wikipedia.org/wiki/THE_LAST_WEDNESDAY_TOUR_2006〜HERE_COMES_THE_WAVE〜)から翻訳されています。
 
 
 『**THE LAST WEDNESDAY TOUR 2006〜HERE COMES THE WAVE〜**』（ザ・ラスト・ウェンズデイ・ツアー 2006～ヒア・カムズ・ザ・ウェイブ～）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の9作目のライブDVD。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOBT-5516/5517）。

@@ -1,4 +1,4 @@
-> この記事は[Timing \(\)](https://ja.wikipedia.org/wiki/Timing_\(\))から翻訳されています。
+> この記事は[Timing \(曲\)](https://ja.wikipedia.org/wiki/Timing_\(曲\))から翻訳されています。
 
 
 '''Timing '''（タイミング）は、音楽ユニット・[ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")の2ndシングル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）から発売された。

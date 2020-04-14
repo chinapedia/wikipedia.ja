@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNあさひテレビニュース](https://ja.wikipedia.org/wiki/ANNあさひテレビニュース)から翻訳されています。
 
 
 『**ANNあさひテレビニュース**』（エーエヌエヌ あさひテレビニュース）は、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")、[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。

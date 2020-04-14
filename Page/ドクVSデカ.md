@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[ドクVSデカ](https://ja.wikipedia.org/wiki/ドクVSデカ)から翻訳されています。
 
 
 『**ドクVSデカ**』（ドクデカ）は、[2002年](../Page/2002年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")」で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全2回。主演は[柴田恭兵](https://ja.wikipedia.org/wiki/柴田恭兵 "wikilink")、[内藤剛志](../Page/内藤剛志.md "wikilink")。
@@ -114,7 +114,7 @@
   - テレビ朝日
       -
       -
-[Category:土曜ワイド劇場のシリーズ](https://ja.wikipedia.org/wiki/Category:土曜ワイド劇場のシリーズ "wikilink") [Category:東映のテレビドラマ](https://ja.wikipedia.org/wiki/Category:東映のテレビドラマ "wikilink") [Category:医師を主人公とした作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした作品 "wikilink")
+[Category:土曜ワイド劇場のシリーズ](https://ja.wikipedia.org/wiki/Category:土曜ワイド劇場のシリーズ "wikilink") [Category:東映のテレビドラマ](https://ja.wikipedia.org/wiki/Category:東映のテレビドラマ "wikilink") [Category:医師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:医師を主人公としたテレビドラマ "wikilink")
 
 1.  本作プロデューサーの丸山真哉による。
 2.  [【川渕真由美 過去のテレビ出演歴】](https://web.archive.org/web/20160402153044/http://sunaoka.com/news/%E5%B7%9D%E6%B8%95%E7%9C%9F%E7%94%B1%E7%BE%8E%E3%80%80%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E5%87%BA%E6%BC%94%E6%AD%B4/) - 砂岡事務所（アーカイブ）

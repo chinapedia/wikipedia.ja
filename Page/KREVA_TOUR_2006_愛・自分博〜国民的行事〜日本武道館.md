@@ -1,4 +1,4 @@
-> この記事は[KREVA TOUR 2006 ](https://ja.wikipedia.org/wiki/KREVA_TOUR_2006_)から翻訳されています。
+> この記事は[KREVA TOUR 2006 愛・自分博〜国民的行事〜日本武道館](https://ja.wikipedia.org/wiki/KREVA_TOUR_2006_愛・自分博〜国民的行事〜日本武道館)から翻訳されています。
 
 
 『**KREVA TOUR 2006 愛・自分博〜国民的行事〜日本武道館**』（クレバツアー2006あい・じぶんはく〜こくみんてきぎょうじ〜にっぽんぶどうかん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロアーティスト[KREVA](../Page/KREVA.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")にリリースした1作目の映像作品（[DVD](../Page/DVD.md "wikilink")）である。
@@ -82,4 +82,4 @@
 
   - [ポニーキャニオン](http://music.ponycanyon.co.jp/pickup/pcbp51816/)
 
-[Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:KREVAの映像作品](https://ja.wikipedia.org/wiki/Category:KREVAの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:KREVAの映像作品](https://ja.wikipedia.org/wiki/Category:KREVAの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

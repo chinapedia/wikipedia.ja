@@ -1,4 +1,4 @@
-> この記事は[Q!](https://ja.wikipedia.org/wiki/Q!)から翻訳されています。
+> この記事は[Qっと!サイエンス](https://ja.wikipedia.org/wiki/Qっと!サイエンス)から翻訳されています。
 
 
 『**Qっと\!サイエンス**』（キュっとサイエンス）は、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")と[北陸地方](../Page/北陸地方.md "wikilink")の民間テレビ局で放送された[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作の[教育番組](../Page/教育番組.md "wikilink")。筆頭スポンサーは[関西電力](../Page/関西電力.md "wikilink")。製作局のテレビ大阪では2000年4月2日から2008年3月29日まで放送。

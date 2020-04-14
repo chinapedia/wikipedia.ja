@@ -1,4 +1,4 @@
-> この記事は[FC.](https://ja.wikipedia.org/wiki/FC.)から翻訳されています。
+> この記事は[チェルシーFC.リザーブ](https://ja.wikipedia.org/wiki/チェルシーFC.リザーブ)から翻訳されています。
 
 
 **チェルシー・フットボール・クラブ・リザーブ** (**Chelsea Football Club Reserves**) は、[イングランド](../Page/イングランド.md "wikilink")の[ロンドン](../Page/ロンドン.md "wikilink")西部に本拠地を置き[プレミアリーグ2](https://ja.wikipedia.org/wiki/プレミアリーグ2 "wikilink")を主戦場とする[チェルシー・フットボール・クラブの二軍チーム](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")。

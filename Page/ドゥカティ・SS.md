@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[ドゥカティ・SS](https://ja.wikipedia.org/wiki/ドゥカティ・SS)から翻訳されています。
 
 
 **SS**（エスエス、スーパースポーツ、*Super Sport*）とは、[ドゥカティ](../Page/ドゥカティ.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")の車種である。これまでに3度、SSの名を冠したシリーズ車種が登場した。

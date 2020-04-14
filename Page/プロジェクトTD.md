@@ -1,4 +1,4 @@
-> この記事は[TD](https://ja.wikipedia.org/wiki/TD)から翻訳されています。
+> この記事は[プロジェクトTD](https://ja.wikipedia.org/wiki/プロジェクトTD)から翻訳されています。
 
 
 **プロジェクトTD**とは、『[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の外宇宙探査船開発計画である。

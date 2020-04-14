@@ -1,4 +1,4 @@
-> この記事は[RSP \(\)](https://ja.wikipedia.org/wiki/RSP_\(\))から翻訳されています。
+> この記事は[RSP \(音楽グループ\)](https://ja.wikipedia.org/wiki/RSP_\(音楽グループ\))から翻訳されています。
 
 
 **RSP**（アールエスピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性ヴォーカルユニットである。所属レコード会社はMASTERSIX FOUNDATION/[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SMR)。

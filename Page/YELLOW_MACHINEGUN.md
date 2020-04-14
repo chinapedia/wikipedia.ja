@@ -34,6 +34,5 @@
 
 ## 外部リンク
 
-  - [公式ウェブサイト](http://homepage3.nifty.com/machinegun/index.html)
-
+  -
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[TONIGHT \(LUNA SEA\)](https://ja.wikipedia.org/wiki/TONIGHT_\(LUNA_SEA\))から翻訳されています。
+> この記事は[TONIGHT \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/TONIGHT_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**TONIGHT**」（トゥナイト）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")発売。初回限定盤は特殊ジャケット仕様。

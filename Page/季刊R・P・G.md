@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[季刊R・P・G](https://ja.wikipedia.org/wiki/季刊R・P・G)から翻訳されています。
 
 
 『**季刊R・P・G**』（きかんアールピージー）は、[国際通信社](https://ja.wikipedia.org/wiki/国際通信社 "wikilink")が発行していた[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）を中心に[テーブルゲーム](../Page/テーブルゲーム.md "wikilink")全般を扱う[雑誌](../Page/雑誌.md "wikilink")。[季刊](https://ja.wikipedia.org/wiki/季刊 "wikilink")であり、1月・4月・7月・10月の発行。[2007年](../Page/2007年.md "wikilink")1月に創刊。2007年10月の第4号で休刊を迎えている。正式名称は「季刊」の語を含まない「R・P・G」である。

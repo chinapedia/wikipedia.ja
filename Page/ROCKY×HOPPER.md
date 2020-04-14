@@ -1,4 +1,4 @@
-> この記事は[ROCKYHOPPER](https://ja.wikipedia.org/wiki/ROCKYHOPPER)から翻訳されています。
+> この記事は[ROCKY×HOPPER](https://ja.wikipedia.org/wiki/ROCKY×HOPPER)から翻訳されています。
 
 
 『**IWATOBI PENGUIN ROCKY×HOPPER**（イワトビペンギン ロッキー＆ホッパー）』は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された[プレイステーション用コンピュータゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")。

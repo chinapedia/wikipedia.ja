@@ -1,4 +1,4 @@
-> この記事は[PB2Y \(\)](https://ja.wikipedia.org/wiki/PB2Y_\(\))から翻訳されています。
+> この記事は[PB2Y \(航空機\)](https://ja.wikipedia.org/wiki/PB2Y_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PB2Y_Coronado_in_flight.jpg "wikilink") **PB2Y**は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時に使用した哨戒・爆撃用の4発[飛行艇](../Page/飛行艇.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[1st ](https://ja.wikipedia.org/wiki/1st_)から翻訳されています。
+> この記事は[1st 超ベリーズ](https://ja.wikipedia.org/wiki/1st_超ベリーズ)から翻訳されています。
 
 
 『**1st 超ベリーズ**』（ファースト ちょうベリーズ）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")\[1\]、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")の[PICCOLO TOWNレーベル](../Page/アップフロントワークス.md "wikilink")（販売元は[キングレコード](../Page/キングレコード.md "wikilink")）より発売。

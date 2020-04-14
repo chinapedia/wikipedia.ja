@@ -1,4 +1,4 @@
-> この記事は[BLUE EYES \(\)](https://ja.wikipedia.org/wiki/BLUE_EYES_\(\))から翻訳されています。
+> この記事は[BLUE EYES \(漫画\)](https://ja.wikipedia.org/wiki/BLUE_EYES_\(漫画\))から翻訳されています。
 
 
 『**BLUE EYES**』（ブルーアイズ）は、[にしまきとおる](../Page/にしまきとおる.md "wikilink")による[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[Gravity \(LUNA SEA\)](https://ja.wikipedia.org/wiki/Gravity_\(LUNA_SEA\))から翻訳されています。
+> この記事は[Gravity \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/Gravity_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**gravity**」（グラヴィティ）は、[LUNA SEAが](../Page/LUNA_SEA.md "wikilink")[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売した12枚目の[シングル](../Page/シングル.md "wikilink")。初回限定盤は特殊ジャケット仕様。

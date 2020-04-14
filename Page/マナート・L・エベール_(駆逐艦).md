@@ -1,4 +1,4 @@
-> この記事は[L \(\)](https://ja.wikipedia.org/wiki/L_\(\))から翻訳されています。
+> この記事は[マナート・L・エベール \(駆逐艦\)](https://ja.wikipedia.org/wiki/マナート・L・エベール_\(駆逐艦\))から翻訳されています。
 
 
 <div class="thumb tright">

@@ -1,4 +1,4 @@
-> この記事は[Be as one \(melody.\)](https://ja.wikipedia.org/wiki/Be_as_one_\(melody.\))から翻訳されています。
+> この記事は[Be as one \(melody.のアルバム\)](https://ja.wikipedia.org/wiki/Be_as_one_\(melody.のアルバム\))から翻訳されています。
 
 
 『**Be as one**』（ビー・アズ・ワン）は、[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に発売。

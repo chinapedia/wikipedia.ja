@@ -1,4 +1,4 @@
-> この記事は[Java](https://ja.wikipedia.org/wiki/Java)から翻訳されています。
+> この記事は[Javaに対する批判](https://ja.wikipedia.org/wiki/Javaに対する批判)から翻訳されています。
 
 
 **Javaに対する批判**（ジャバにたいするひはん）では、プログラミング言語[Java](https://ja.wikipedia.org/wiki/Java "wikilink")と、その主たる実装であるJDKやその他の実装に関する批判、およびJavaプラットフォームの性能に対する批判について説明する。Javaプラットフォームの性能に関する、批判以外の内容については「[Javaの性能](https://ja.wikipedia.org/wiki/Javaの性能 "wikilink")」を参照のこと。

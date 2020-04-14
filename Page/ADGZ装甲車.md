@@ -1,4 +1,4 @@
-> この記事は[ADGZ](https://ja.wikipedia.org/wiki/ADGZ)から翻訳されています。
+> この記事は[ADGZ装甲車](https://ja.wikipedia.org/wiki/ADGZ装甲車)から翻訳されています。
 
 
 **ADGZ装甲車**（アーデーゲーツェットそうこうしゃ、M35中型装甲車、M35 mittlerer Panzerwagen）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の[オーストリア](../Page/オーストリア.md "wikilink")陸軍が開発した[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Sincerely \(melody.\)](https://ja.wikipedia.org/wiki/Sincerely_\(melody.\))から翻訳されています。
+> この記事は[Sincerely \(melody.のアルバム\)](https://ja.wikipedia.org/wiki/Sincerely_\(melody.のアルバム\))から翻訳されています。
 
 
 「**Sincerely**」（シンシアリー）は、[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売。

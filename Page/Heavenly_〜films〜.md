@@ -1,11 +1,13 @@
-> この記事は[Heavenly films](https://ja.wikipedia.org/wiki/Heavenly_films)から翻訳されています。
+> この記事は[Heavenly 〜films〜](https://ja.wikipedia.org/wiki/Heavenly_〜films〜)から翻訳されています。
 
 
 『**heavenly 〜films〜**』（ヘヴンリィ フィルムズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[VHS](../Page/VHS.md "wikilink")・[レーザーディスク](../Page/レーザーディスク.md "wikilink")版は[1996年](../Page/1996年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")、[DVD](../Page/DVD.md "wikilink")版は[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月から行われたコンサートツアー「TOUR [heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink") '95」の最終公演で、同年[12月27日](../Page/12月27日.md "wikilink")に開催された「TOUR heavenly '95 final」の模様を収録。L'Arc〜en〜Cielにとっては初の[日本武道館](../Page/日本武道館.md "wikilink")ライブで、メジャーデビュー以降のライブを収録したビデオの中では最古の作品であり、[sakura在籍時に唯一発売されたライブビデオである](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")。本作の発売前には日本衛星放送（現：[WOWOW](../Page/WOWOW.md "wikilink")）で公演の一部が放送された。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月から行われたコンサートツアー「TOUR [heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink") '95」の最終公演で、同年[12月27日](../Page/12月27日.md "wikilink")に開催された「TOUR heavenly '95 final」の模様を収録。
+
+L'Arc〜en〜Cielにとっては初の[日本武道館](../Page/日本武道館.md "wikilink")ライブで、メジャーデビュー以降のライブを収録したビデオの中では最古の作品であり、[sakura在籍時に唯一発売されたライブビデオである](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")。本作の発売前には日本衛星放送（現：[WOWOW](../Page/WOWOW.md "wikilink")）で公演の一部が放送された。
 
 「ライブビデオ」と位置づけられているが、同公演で演奏された全19曲のうち、フルサイズ収録されたものは後述の7曲のみで、大半の楽曲は1コーラス程度がダイジェスト収録された。この他、曲間には全国の[テレビ局](https://ja.wikipedia.org/wiki/テレビ局 "wikilink")で音楽番組に出演した際の[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")や、ツアー中のオフショット、過去のライブ映像等が多数収められている。どれもわずか数秒〜1分の映像だが、それらの全てにタイトルが付けられ、パッケージ裏に記述された曲順表で確認が可能である（DVD版では全て[チャプター](https://ja.wikipedia.org/wiki/チャプター "wikilink")化され、メニュー画面で選択することができる）。
 

@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[名古屋港駅 \(JR貨物\)](https://ja.wikipedia.org/wiki/名古屋港駅_\(JR貨物\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nagoya_Minato_Station_\(Japan_Freight_Railway_Company\)_02.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:JR貨物東海-名古屋港駅跡.jpg "wikilink")

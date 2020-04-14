@@ -1,4 +1,4 @@
-> この記事は[X JAPAN BEST FAN\'S SELECTION](https://ja.wikipedia.org/wiki/X_JAPAN_BEST_FAN\'S_SELECTION)から翻訳されています。
+> この記事は[X JAPAN BEST 〜FAN\'S SELECTION〜](https://ja.wikipedia.org/wiki/X_JAPAN_BEST_〜FAN\'S_SELECTION〜)から翻訳されています。
 
 
 『**X JAPAN BEST 〜FAN'S SELECTION〜**』（エックス・ジャパン・ベスト 〜ファンズ・セレクション〜）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

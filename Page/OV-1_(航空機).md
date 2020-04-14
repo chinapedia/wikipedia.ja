@@ -1,4 +1,4 @@
-> この記事は[OV-1 \(\)](https://ja.wikipedia.org/wiki/OV-1_\(\))から翻訳されています。
+> この記事は[OV-1 \(航空機\)](https://ja.wikipedia.org/wiki/OV-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=OV-1 モホーク | 画像=画像:Grumman OV-1 Mohawk.jpg | キャプション=米[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")チノにある[プレーンズ オブ フェイムに動態展示されるOV](https://ja.wikipedia.org/wiki/:en:Planes_of_Fame "wikilink")-1 Mohawk | 用途=[偵察機](../Page/偵察機.md "wikilink")、[COIN機](../Page/COIN機.md "wikilink") | 分類= | 製造者=[グラマン](../Page/グラマン.md "wikilink") |運用者 more=

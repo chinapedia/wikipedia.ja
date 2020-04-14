@@ -1,4 +1,4 @@
-> この記事は[Presents ](https://ja.wikipedia.org/wiki/Presents_)から翻訳されています。
+> この記事は[スクウェア・エニックスPresents 週刊ラジマガ編集部](https://ja.wikipedia.org/wiki/スクウェア・エニックスPresents_週刊ラジマガ編集部)から翻訳されています。
 
 
 『**スクウェア・エニックスPresents 週刊ラジマガ編集部**』（スクウェアエニックスプレゼンツ しゅうかんラジマガへんしゅうぶ）は、[ラジオ大阪](../Page/大阪放送.md "wikilink")[V-STATIONで](../Page/1314_V-STATION.md "wikilink")[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")–[2007年](../Page/2007年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")に放送されていた[アニラジ](../Page/アニラジ.md "wikilink")番組。

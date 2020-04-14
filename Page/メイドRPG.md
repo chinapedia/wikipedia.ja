@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[メイドRPG](https://ja.wikipedia.org/wiki/メイドRPG)から翻訳されています。
 
 
 **メイドRPG**は[神谷涼が製作したメイド萌え](https://ja.wikipedia.org/wiki/神谷涼_\(ゲームデザイナー\) "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。[2004年](../Page/2004年.md "wikilink")に[サンセットゲームズ](https://ja.wikipedia.org/wiki/サンセットゲームズ "wikilink")から書籍版で発売された。

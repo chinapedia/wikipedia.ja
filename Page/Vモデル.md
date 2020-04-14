@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vモデル](https://ja.wikipedia.org/wiki/Vモデル)から翻訳されています。
 
 
 **Vモデル**（V-Model）とは、[IT製品開発の手法の一種](../Page/情報技術.md "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")政府と軍関係のプロジェクトで標準として採用されている。また、一般に利用可能であるため、様々な企業でも使われている。[プロジェクトマネジメント](../Page/プロジェクトマネジメント.md "wikilink")手法としては、[PRINCE2](../Page/PRINCE2.md "wikilink")に匹敵する。また、システム開発や[ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")の手法としても使われている。

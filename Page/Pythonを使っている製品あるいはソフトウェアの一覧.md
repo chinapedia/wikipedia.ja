@@ -1,4 +1,4 @@
-> この記事は[Python](https://ja.wikipedia.org/wiki/Python)から翻訳されています。
+> この記事は[Pythonを使っている製品あるいはソフトウェアの一覧](https://ja.wikipedia.org/wiki/Pythonを使っている製品あるいはソフトウェアの一覧)から翻訳されています。
 
 
 プログラミング言語[Python](../Page/Python.md "wikilink")は、産業界・学術界などにおいて、多くの人によって幅広い目的で使われている。この一覧では、Pythonで書かれたソフトウェア、Pythonを内部に組み込んでいるソフトウェア、Pythonに対応した[統合開発環境](../Page/統合開発環境.md "wikilink")、などのうち比較的有名なものを示す。

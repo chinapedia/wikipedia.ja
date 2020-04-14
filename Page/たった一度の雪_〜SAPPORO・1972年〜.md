@@ -1,4 +1,4 @@
-> この記事は[ SAPPORO1972](https://ja.wikipedia.org/wiki/_SAPPORO1972)から翻訳されています。
+> この記事は[たった一度の雪 〜SAPPORO・1972年〜](https://ja.wikipedia.org/wiki/たった一度の雪_〜SAPPORO・1972年〜)から翻訳されています。
 
 
 『**たった一度の雪〜SAPPORO・1972年〜**』（たったいちどのゆき サッポロ・せんきゅうひゃくななじゅうにねん）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBC）制作で[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

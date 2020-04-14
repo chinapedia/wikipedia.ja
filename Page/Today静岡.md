@@ -1,4 +1,4 @@
-> この記事は[Today](https://ja.wikipedia.org/wiki/Today)から翻訳されています。
+> この記事は[Today静岡](https://ja.wikipedia.org/wiki/Today静岡)から翻訳されています。
 
 
 『**TODAY静岡**』（トゥデイしずおか）は、[1982年](../Page/1982年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")（SDT）で放送された[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

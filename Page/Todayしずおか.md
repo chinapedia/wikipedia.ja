@@ -1,4 +1,4 @@
-> この記事は[Today](https://ja.wikipedia.org/wiki/Today)から翻訳されています。
+> この記事は[Todayしずおか](https://ja.wikipedia.org/wiki/Todayしずおか)から翻訳されています。
 
 
 『**TODAYしずおか**』（トゥデイしずおか）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")4月1日まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") (SDT) で放送された[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

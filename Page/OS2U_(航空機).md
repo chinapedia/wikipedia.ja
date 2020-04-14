@@ -1,4 +1,4 @@
-> この記事は[OS2U \(\)](https://ja.wikipedia.org/wiki/OS2U_\(\))から翻訳されています。
+> この記事は[OS2U \(航空機\)](https://ja.wikipedia.org/wiki/OS2U_\(航空機\))から翻訳されています。
 
 
 **OS2U キングフィッシャー**（*Chance Vought OS2U Kingfisher* ）は、[チャンス・ヴォート社が開発し](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[観測機](../Page/観測機.md "wikilink")。
@@ -273,7 +273,7 @@
 <tr class="odd">
 <td><p>5985</p></td>
 <td></td>
-<td><p><a href="../Page/ニュージーランド.md" title="wikilink">ニュージーランド</a><a href="../Page/オークランド.md" title="wikilink">オークランド</a></p></td>
+<td><p><a href="../Page/ニュージーランド.md" title="wikilink">ニュージーランド</a><a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a></p></td>
 <td><p>パイオニア・エアロ</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>

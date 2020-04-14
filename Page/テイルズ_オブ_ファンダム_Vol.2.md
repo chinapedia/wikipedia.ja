@@ -1,4 +1,4 @@
-> この記事は[   Vol.2](https://ja.wikipedia.org/wiki/___Vol.2)から翻訳されています。
+> この記事は[テイルズ オブ ファンダム Vol.2](https://ja.wikipedia.org/wiki/テイルズ_オブ_ファンダム_Vol.2)から翻訳されています。
 
 
 『**テイルズ オブ ファンダムVol.2**』（Tales of Fandom Vol.2）は、[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")から発売された[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

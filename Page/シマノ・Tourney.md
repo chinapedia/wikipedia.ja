@@ -1,4 +1,4 @@
-> この記事は[Tourney](https://ja.wikipedia.org/wiki/Tourney)から翻訳されています。
+> この記事は[シマノ・Tourney](https://ja.wikipedia.org/wiki/シマノ・Tourney)から翻訳されています。
 
 
 **Tourney**（ターニー）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発製造販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")および[ロードバイク](../Page/ロードバイク.md "wikilink")、一般車向けコンポーネント（部品セット）である。同社の分類ではTourneyはコンフォートコンポーネント、ツーリングコンポーネントとして位置づけられている。

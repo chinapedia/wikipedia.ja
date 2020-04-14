@@ -1,4 +1,4 @@
-> この記事は[HINOI](https://ja.wikipedia.org/wiki/HINOI)から翻訳されています。
+> この記事は[HINOIチーム](https://ja.wikipedia.org/wiki/HINOIチーム)から翻訳されています。
 
 
 **HINOIチーム**（ひのいチーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")4人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。2007年に活動を休止した。
@@ -36,7 +36,7 @@
 
 ## 作品
 
-順位は、[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[1\]
+順位は、[オリコン](../Page/オリコン.md "wikilink")週間ランキング最高位\[1\]\[2\]
 
 ### シングル
 
@@ -55,7 +55,7 @@
 <td><p>1</p></td>
 <td><p>2005年5月18日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/IKE_IKE" title="wikilink">IKE IKE</a></strong></p></td>
-<td><p>AVCD-16064/B<br />
+<td><p>AVCD-16064<br />
 AVCD-16065</p></td>
 <td><p>44位</p></td>
 </tr>
@@ -63,7 +63,7 @@ AVCD-16065</p></td>
 <td><p>2</p></td>
 <td><p>2005年7月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/KING_KONG" title="wikilink">KING KONG</a></strong></p></td>
-<td><p>AVCD-16068/B<br />
+<td><p>AVCD-16068<br />
 AVCD-16069</p></td>
 <td><p>36位</p></td>
 </tr>
@@ -72,7 +72,7 @@ AVCD-16069</p></td>
 <td><p>2005年12月14日</p></td>
 <td><p><strong>NIGHT OF FIRE</strong><br />
 <strong>/ PLAY WITH THE NUMBERS</strong></p></td>
-<td><p>AVCD-16080/B<br />
+<td><p>AVCD-16080<br />
 AVCD-16081</p></td>
 <td><p>18位</p></td>
 </tr>
@@ -80,7 +80,7 @@ AVCD-16081</p></td>
 <td><p>4</p></td>
 <td><p>2006年3月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/STICKY_TRICKY_AND_BANG" title="wikilink">STICKY TRICKY AND BANG</a></strong></p></td>
-<td><p>AVCD-16095/B<br />
+<td><p>AVCD-16095<br />
 AVCD-16096</p></td>
 <td><p>40位</p></td>
 </tr>
@@ -88,7 +88,7 @@ AVCD-16096</p></td>
 <td><p>5</p></td>
 <td><p>2006年8月9日</p></td>
 <td><p><strong>NOW AND FOREVER</strong></p></td>
-<td><p>AVCD-16104/B<br />
+<td><p>AVCD-16104<br />
 AVCD-16105</p></td>
 <td><p>34位</p></td>
 </tr>
@@ -96,7 +96,7 @@ AVCD-16105</p></td>
 <td><p>6</p></td>
 <td><p>2007年2月7日</p></td>
 <td><p><strong>Dancin'&amp;Dreamin</strong>'</p></td>
-<td><p>AVCD-16117/B<br />
+<td><p>AVCD-16117<br />
 AVCD-16118</p></td>
 <td><p>32位</p></td>
 </tr>
@@ -120,7 +120,7 @@ AVCD-16118</p></td>
 <td><p>1</p></td>
 <td><p>2006年3月15日</p></td>
 <td><p><strong>SUPER EURO PARTY</strong></p></td>
-<td><p>AVCD-16092/B<br />
+<td><p>AVCD-16092<br />
 AVCD-16093</p></td>
 <td><p>33位</p></td>
 </tr>
@@ -181,8 +181,8 @@ AVCD-16093</p></td>
   - [ウタワラ](../Page/ウタワラ.md "wikilink")（日本テレビ）
   - [Channel-a](../Page/Channel-a.md "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
   - [月刊MelodiX\!](https://ja.wikipedia.org/wiki/月刊MelodiX! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - V-net LUNCH BARKS（2006年4月25日 - 、[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink") Podcast）\[2\]
-  - HINOIチームの「ヒノチ革命」（2006年6月20日 - 12月、[パケラジ](https://ja.wikipedia.org/wiki/パケラジ "wikilink")）\[3\]
+  - V-net LUNCH BARKS（2006年4月25日 - 、[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink") Podcast）\[3\]
+  - HINOIチームの「ヒノチ革命」（2006年6月20日 - 12月、[パケラジ](https://ja.wikipedia.org/wiki/パケラジ "wikilink")）\[4\]
 
 ## 結成前
 
@@ -228,3 +228,4 @@ AVCD-16093</p></td>
 1.
 2.
 3.
+4.

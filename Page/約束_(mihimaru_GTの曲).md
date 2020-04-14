@@ -1,4 +1,4 @@
-> この記事は[ \(mihimaru GT\)](https://ja.wikipedia.org/wiki/_\(mihimaru_GT\))から翻訳されています。
+> この記事は[約束 \(mihimaru GTの曲\)](https://ja.wikipedia.org/wiki/約束_\(mihimaru_GTの曲\))から翻訳されています。
 
 
 「**約束**」（やくそく）は、[mihimaru GTのデビューシングル](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")。[2003年](../Page/2003年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

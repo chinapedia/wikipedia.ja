@@ -1,4 +1,4 @@
-> この記事は[BMWM3](https://ja.wikipedia.org/wiki/BMWM3)から翻訳されています。
+> この記事は[BMW・M3](https://ja.wikipedia.org/wiki/BMW・M3)から翻訳されています。
 
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:BMW_M3_\(F80\)_by_Japan_specification.jpg "wikilink") **M3**（エムさん(日本語)・エムスリー(英語)・エムドライ(ドイツ語)）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[スポーツセダンである](../Page/スポーツカー.md "wikilink")。開発はBMWのレース部門、モータースポーツ関連研究開発子会社である[BMW Mによって行われる](../Page/BMW_M.md "wikilink")。

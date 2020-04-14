@@ -1,4 +1,4 @@
-> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+> この記事は[使徒XX](https://ja.wikipedia.org/wiki/使徒XX)から翻訳されています。
 
 
 **使徒XX**（しとダブルエックス）とは、『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』に登場する「[使徒](../Page/使徒_\(新世紀エヴァンゲリオン\).md "wikilink")」を[萌え擬人化](../Page/萌え擬人化.md "wikilink")した[フィギュア](../Page/フィギュア.md "wikilink")シリーズである。デザインは[吉崎観音](../Page/吉崎観音.md "wikilink")が担当。[ウェーブより発売](https://ja.wikipedia.org/wiki/ウェーブ_\(模型メーカー\) "wikilink")。

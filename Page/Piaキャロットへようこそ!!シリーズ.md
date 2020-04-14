@@ -1,4 +1,4 @@
-> この記事は[Pia!!](https://ja.wikipedia.org/wiki/Pia!!)から翻訳されています。
+> この記事は[Piaキャロットへようこそ!!シリーズ](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!シリーズ)から翻訳されています。
 
 
 **Pia♥キャロットへようこそ\!\! シリーズ**（略称：**Pia**、**Piaキャロ**）は、[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")『Piaキャロット』で[アルバイト](../Page/アルバイト.md "wikilink")をしながら、ともに働く女性店員や客の女性と仲良くなることが目的の[18禁](../Page/アダルトゲーム.md "wikilink")（一部を除く）[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")+[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")のシリーズである。PC版の発売元は「3」のみ[F\&C FC02](../Page/F&C.md "wikilink")、3以外は[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")。

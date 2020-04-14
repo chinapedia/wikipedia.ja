@@ -1,11 +1,11 @@
-> この記事は[SHINE \(LUNA SEA\)](https://ja.wikipedia.org/wiki/SHINE_\(LUNA_SEA\))から翻訳されています。
+> この記事は[SHINE \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/SHINE_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**SHINE**」（シャイン）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")発売。初回限定盤はオリジナルプラケース入り。
 
 ## 解説
 
-活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。
+活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

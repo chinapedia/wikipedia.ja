@@ -1,4 +1,4 @@
-> この記事は[LTD \(\)](https://ja.wikipedia.org/wiki/LTD_\(\))から翻訳されています。
+> この記事は[LTD \(アルバム\)](https://ja.wikipedia.org/wiki/LTD_\(アルバム\))から翻訳されています。
 
 
 『**LTD**』（エル・ティー・ディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")に[マーキュリーより予約限定でリリースした](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[EP盤](../Page/レコード.md "wikilink")。

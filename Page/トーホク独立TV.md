@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[トーホク独立TV](https://ja.wikipedia.org/wiki/トーホク独立TV)から翻訳されています。
 
 
 『**トーホク独立TV**』（トーホクどくりつテレビ）は、[1992年](../Page/1992年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで毎週[土曜正午に](../Page/土曜日.md "wikilink")、[東日本放送](../Page/東日本放送.md "wikilink")をはじめ東北[ブロックネット](../Page/ブロックネット.md "wikilink")で放送されていた[テレビ番組](../Page/テレビ番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[GO!! ](https://ja.wikipedia.org/wiki/GO!!_)から翻訳されています。
+> この記事は[バブルへGO!! タイムマシンはドラム式](https://ja.wikipedia.org/wiki/バブルへGO!!_タイムマシンはドラム式)から翻訳されています。
 
 
 『**バブルへGO\!\! タイムマシンはドラム式**』（バブルへゴー\!\! タイムマシンはドラムしき）は、[2007年](../Page/2007年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。
@@ -255,7 +255,7 @@
 
   -
   -
-[Category:2007年の映画](https://ja.wikipedia.org/wiki/Category:2007年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:日本のコメディ映画](https://ja.wikipedia.org/wiki/Category:日本のコメディ映画 "wikilink") [Category:日本の特撮映画](https://ja.wikipedia.org/wiki/Category:日本の特撮映画 "wikilink") [Category:フジテレビ製作の映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作の映画 "wikilink") [Category:ホイチョイ・プロダクションズ](https://ja.wikipedia.org/wiki/Category:ホイチョイ・プロダクションズ "wikilink") [Category:タイムトラベルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした映画作品 "wikilink") [Category:バブル期の昭和時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:バブル期の昭和時代を舞台とした作品 "wikilink") [Category:安定成長期の日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:安定成長期の日本を舞台とした映画作品 "wikilink") [Category:平成時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:平成時代を舞台とした作品 "wikilink") [Category:六本木を舞台とした作品](https://ja.wikipedia.org/wiki/Category:六本木を舞台とした作品 "wikilink")
+[Category:2007年の映画](https://ja.wikipedia.org/wiki/Category:2007年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:日本のコメディ映画](https://ja.wikipedia.org/wiki/Category:日本のコメディ映画 "wikilink") [Category:東宝特撮映画](https://ja.wikipedia.org/wiki/Category:東宝特撮映画 "wikilink") [Category:フジテレビ製作の映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作の映画 "wikilink") [Category:ホイチョイ・プロダクションズ](https://ja.wikipedia.org/wiki/Category:ホイチョイ・プロダクションズ "wikilink") [Category:タイムトラベルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした映画作品 "wikilink") [Category:バブル期の昭和時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:バブル期の昭和時代を舞台とした作品 "wikilink") [Category:安定成長期の日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:安定成長期の日本を舞台とした映画作品 "wikilink") [Category:平成時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:平成時代を舞台とした作品 "wikilink") [Category:六本木を舞台とした作品](https://ja.wikipedia.org/wiki/Category:六本木を舞台とした作品 "wikilink")
 
 1.  ただし、映画の時代設定は1990年3月であり、この時点では飯島本人は17歳。法的にはディスコにはまだ入場出来ない。
 2.  Jリーグが開幕するのは1993年5月。

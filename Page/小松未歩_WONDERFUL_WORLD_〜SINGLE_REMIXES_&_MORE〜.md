@@ -1,4 +1,4 @@
-> この記事は[ WONDERFUL WORLD SINGLE REMIXES \& MORE](https://ja.wikipedia.org/wiki/_WONDERFUL_WORLD_SINGLE_REMIXES_\&_MORE)から翻訳されています。
+> この記事は[小松未歩 WONDERFUL WORLD 〜SINGLE REMIXES \& MORE〜](https://ja.wikipedia.org/wiki/小松未歩_WONDERFUL_WORLD_〜SINGLE_REMIXES_\&_MORE〜)から翻訳されています。
 
 
 『**小松未歩 WONDERFUL WORLD 〜SINGLE REMIXES & MORE〜**』（こまつみほ ワンダフル ワールド シングル リミキシーズ アンド モア）は、[小松未歩](../Page/小松未歩.md "wikilink")の[リミックスアルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")。2002年11月27日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5023。

@@ -1,11 +1,11 @@
-> この記事は[ \(MC\)](https://ja.wikipedia.org/wiki/_\(MC\))から翻訳されています。
+> この記事は[チャン・ユンジョン \(MC\)](https://ja.wikipedia.org/wiki/チャン・ユンジョン_\(MC\))から翻訳されています。
 
 
-**チャン・ユンジョン**（張允貞、, [1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") - ）は[韓国の女性](../Page/大韓民国.md "wikilink")[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")である。[大邱市出身](../Page/大邱広域市.md "wikilink")。[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")卒。[1988年](../Page/1988年.md "wikilink")準[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")受賞者。[身長](../Page/身長.md "wikilink")172cm、[体重](../Page/体重.md "wikilink")53kg。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は、[音楽](../Page/音楽.md "wikilink")鑑賞。特技は、[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")。
+**チャン・ユンジョン**（張 允貞、、[1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") - ）は[韓国の女性](../Page/大韓民国.md "wikilink")[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")である。[大邱広域市](../Page/大邱広域市.md "wikilink")出身。[淑明女子大学校](../Page/淑明女子大学校.md "wikilink")卒。[1988年](../Page/1988年.md "wikilink")準[ミス・ユニバース](../Page/ミス・ユニバース.md "wikilink")受賞者。[身長](../Page/身長.md "wikilink")172cm、[体重](../Page/体重.md "wikilink")53kg。[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は、[音楽](../Page/音楽.md "wikilink")鑑賞。特技は、[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")。
 
 ## 来歴
 
-[1970年](../Page/1970年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[韓国](../Page/大韓民国.md "wikilink")[大邱市に生まれる](../Page/大邱広域市.md "wikilink")。[慶北芸術高等学](https://ja.wikipedia.org/wiki/慶北芸術高等学 "wikilink")（ キョンボクイェスルコドゥンハッキョ）、[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")校（ スンミョンヨジャデハッキョ） 舞踊科（ ムヨングァ）に進む。
+[慶北芸術高等学](https://ja.wikipedia.org/wiki/慶北芸術高等学 "wikilink")（ キョンボクイェスルコドゥンハッキョ）、[淑明女子大学](https://ja.wikipedia.org/wiki/淑明女子大学 "wikilink")校（ スンミョンヨジャデハッキョ） 舞踊科（ ムヨングァ）に進む。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に「 （[ミス・コリア](../Page/ミス・コリア.md "wikilink")正賞）」受賞、翌[1988年](../Page/1988年.md "wikilink")には[台北市](../Page/台北市.md "wikilink")で開かれた「[ミス・ユニバース世界大会](https://ja.wikipedia.org/wiki/ミス・ユニバース1988 "wikilink")」に出場し、準ミス・ユニバースを受賞。この大会で[日本の](../Page/ミス・ユニバース・ジャパン.md "wikilink")[坂口美津穂](https://ja.wikipedia.org/wiki/坂口美津穂 "wikilink")は第4位に入った。
 

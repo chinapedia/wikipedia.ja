@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Qステア](https://ja.wikipedia.org/wiki/Qステア)から翻訳されています。
 
 
 **Qステア**（キューステア）は、[タカラトミー](../Page/タカラトミー.md "wikilink")より[2006年](../Page/2006年.md "wikilink")9月を皮切りに順次発売されている[赤外線](../Page/赤外線.md "wikilink")[リモートコントロールの](../Page/遠隔操作.md "wikilink")[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")。**[チョロQ](../Page/チョロQ.md "wikilink")**をモチーフとし、大きさ的にもチョロQとほぼ同サイズを実現している。

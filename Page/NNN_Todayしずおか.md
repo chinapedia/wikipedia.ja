@@ -1,4 +1,4 @@
-> この記事は[NNN Today](https://ja.wikipedia.org/wiki/NNN_Today)から翻訳されています。
+> この記事は[NNN Todayしずおか](https://ja.wikipedia.org/wiki/NNN_Todayしずおか)から翻訳されています。
 
 
 『**NNN Todayしずおか**』（エヌエヌエヌ・トゥデイしずおか）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から半年間[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") (SDT) で放送された[ローカル](../Page/ローカル番組.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")・[コンプレックス番組である](../Page/コンプレックス_\(番組形式\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ソニックR](https://ja.wikipedia.org/wiki/ソニックR)から翻訳されています。
 
 
 『**ソニックR**』 (**SONIC R**) は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用[レースゲーム](../Page/レースゲーム.md "wikilink")。

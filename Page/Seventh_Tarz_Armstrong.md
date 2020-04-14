@@ -356,13 +356,13 @@ CD+DVD:CTCM-65096/B</p></td>
 
 ## ミュージックビデオ
 
-|                                                       |                                                                                                                                                                          |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                                                | **曲名**                                                                                                                                                                   |
-| [石原裕久](https://ja.wikipedia.org/wiki/石原裕久 "wikilink") | 「[wonder land](http://www.indiesmusic.com/musicvideo/video.asp?id=10868)」「wonder land (another Ver.)」                                                                    |
-| [NINO](https://ja.wikipedia.org/wiki/NINO "wikilink") | 「[Words, Belief and Corruption](http://www.indiesmusic.com/musicvideo/video.asp?id=10865)」                                                                               |
-| [森田一平](https://ja.wikipedia.org/wiki/森田一平 "wikilink") | 「[around the night, in NewJK](http://www.indiesmusic.com/musicvideo/video.asp?id=10867)」「[still life fractal](http://www.indiesmusic.com/musicvideo/video.asp?id=10866)」 |
-|                                                       |                                                                                                                                                                          |
+|                                                       |                                                                                                                                                                            |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                                                                                                                                     |
+| [石原裕久](https://ja.wikipedia.org/wiki/石原裕久 "wikilink") | 「[wonder land](https://www.indiesmusic.com/musicvideo/video.asp?id=10868)」「wonder land (another Ver.)」                                                                     |
+| [NINO](https://ja.wikipedia.org/wiki/NINO "wikilink") | 「[Words, Belief and Corruption](https://www.indiesmusic.com/musicvideo/video.asp?id=10865)」                                                                                |
+| [森田一平](https://ja.wikipedia.org/wiki/森田一平 "wikilink") | 「[around the night, in NewJK](https://www.indiesmusic.com/musicvideo/video.asp?id=10867)」「[still life fractal](https://www.indiesmusic.com/musicvideo/video.asp?id=10866)」 |
+|                                                       |                                                                                                                                                                            |
 
 ## タイアップ
 

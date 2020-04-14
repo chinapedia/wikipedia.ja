@@ -7,7 +7,7 @@
 
 [AGS-17](../Page/AGS-17.md "wikilink")は、[アフガニスタン紛争でその強力な](../Page/アフガニスタン紛争_\(1978年-1989年\).md "wikilink")[火力を発揮して重宝された一方で](https://ja.wikipedia.org/wiki/火力_\(軍事\) "wikilink")、6T8[三脚](../Page/三脚.md "wikilink")に搭載した状態での重量は31kgにもなり、[歩兵](../Page/歩兵.md "wikilink")が携行して運用するには操作性・[機動](../Page/機動.md "wikilink")性に劣る[兵器](../Page/兵器.md "wikilink")となった。
 
-トゥーラ器械製造設計局は改良型の開発を[1990年代](../Page/1990年代.md "wikilink")前半に開始し、[1999年](../Page/1999年.md "wikilink")には[コヴロフ](https://ja.wikipedia.org/wiki/コヴロフ "wikilink")市のデグチャレフ工場で量産が始まった。
+トゥーラ器械製造設計局は改良型の開発を[1990年代](../Page/1990年代.md "wikilink")前半に開始し、[1999年](../Page/1999年.md "wikilink")には[コヴロフ](https://ja.wikipedia.org/wiki/コヴロフ "wikilink")市の[デグチャレフ工場](https://ja.wikipedia.org/wiki/デグチャレフ工場 "wikilink")で量産が始まった。
 
 ## 構造
 
@@ -49,7 +49,7 @@ AGS-30の最大の特徴は、その軽量性にある。[歩兵](../Page/歩兵
 ## 外部リンク
 
   - [KBP公式サイト](http://www.kbptula.ru/index.php?option=com_content&view=article&id=132&Itemid=443&lang=en)(ロシア語)
-  - [V.I.デグチャリョフ記念工場公式サイト](http://www.zid.ru/en/products/military/ags-30.html)（英語）
+  - [V.A.デグチャリョフ記念工場公式サイト](http://www.zid.ru/en/products/military/ags-30.html)（英語）
   - [Modern Firearms](http://world.guns.ru/grenade/gl22-e.htm)（英語）
 
 [Category:擲弾発射器](https://ja.wikipedia.org/wiki/Category:擲弾発射器 "wikilink") [Category:30mm砲](https://ja.wikipedia.org/wiki/Category:30mm砲 "wikilink")

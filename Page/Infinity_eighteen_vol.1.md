@@ -64,7 +64,7 @@ Perfomed by　**AMI SUZUKI**　　Produced by　**TETSUYA KOMURO**
 
 ## 外部リンク
 
-  - [ディスコグラフィー（名盤復刻）](http://www.sonymusic.co.jp/artist/AmiSuzuki/discography/MHCL-30157) - ソニー・ミュージック
-  - [ディスコグラフィー（オリジナル）](http://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1200) - ソニー・ミュージック
+  - [ディスコグラフィー（名盤復刻）](https://www.sonymusic.co.jp/artist/AmiSuzuki/discography/MHCL-30157) - ソニー・ミュージック
+  - [ディスコグラフィー（オリジナル）](https://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1200) - ソニー・ミュージック
 
 [Category:鈴木亜美のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木亜美のアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム "wikilink") [Category:2000年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

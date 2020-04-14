@@ -1,4 +1,4 @@
-> この記事は[Alivio](https://ja.wikipedia.org/wiki/Alivio)から翻訳されています。
+> この記事は[シマノ・Alivio](https://ja.wikipedia.org/wiki/シマノ・Alivio)から翻訳されています。
 
 
 **Alivio**（アリビオ）は、株式会社[シマノ](../Page/シマノ.md "wikilink")が開発、販売する[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")向け[コンポーネントである](../Page/コンポーネント_\(自転車\).md "wikilink")。

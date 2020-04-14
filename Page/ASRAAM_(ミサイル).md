@@ -1,4 +1,4 @@
-> この記事は[ASRAAM \(\)](https://ja.wikipedia.org/wiki/ASRAAM_\(\))から翻訳されています。
+> この記事は[ASRAAM \(ミサイル\)](https://ja.wikipedia.org/wiki/ASRAAM_\(ミサイル\))から翻訳されています。
 
 
 **ASRAAM**（**A**dvanced **S**hort **R**ange **A**ir-to-**A**ir **M**issile、アスラーム）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[赤外線誘導](https://ja.wikipedia.org/wiki/光波ホーミング誘導#赤外線ホーミング "wikilink")[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")。

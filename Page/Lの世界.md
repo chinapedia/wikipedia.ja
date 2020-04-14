@@ -1,25 +1,27 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[Lの世界](https://ja.wikipedia.org/wiki/Lの世界)から翻訳されています。
 
 
-『**Lの世界**』（エルのせかい、*the L word*） は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")製作の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
+『**Lの世界**』（エルのせかい、*The L Word*） は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")が共同制作した[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）。[2004年](../Page/2004年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にかけて、アメリカの[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")[Showtime](../Page/Showtime.md "wikilink")にて全70話（全6シーズン）が放送された。
 
-舞台はアメリカ合衆国西部の大都市[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")。[レズビアン](../Page/レズビアン.md "wikilink")や[バイセクシュアルの](../Page/両性愛.md "wikilink")[女性](../Page/女性.md "wikilink")達を中心に据えて、その人生を描く[群像劇](https://ja.wikipedia.org/wiki/群像劇 "wikilink")。[R-15](https://ja.wikipedia.org/wiki/R-15 "wikilink")指定で中学生以下の視聴はできない\[1\]。
+[2019年](../Page/2019年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")から、本作の続編であるテレビドラマ『[Lの世界: ジェネレーションQ](https://ja.wikipedia.org/wiki/Lの世界:_ジェネレーションQ "wikilink")』（*[The L Word: Generation Q](https://ja.wikipedia.org/wiki/:en:_The_L_Word:_Generation_Q "wikilink")*）が同局にて放送開始\[1\]。
 
-2004年1月18日に放送開始。以来シリーズ6まで続き、2009年3月8日で終了した。その後、アリス・ピエゼッキーが主人公となる[スピンオフ](../Page/スピンオフ.md "wikilink")作品が、インターネットにて配信される予定である。なお、アメリカ以外での放送は、MGM Worldwide Televisionが配給を行っている。
+## 概要
 
-収録・撮影は、[バンクーバー](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")（ブリティッシュコロンビア）のコースト・マウンテンタウン・フィルムスタジオで行われた。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")西部の大都市[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")を舞台に、[レズビアン](../Page/レズビアン.md "wikilink")や[バイセクシュアルの女性たちの人生を描く](../Page/両性愛.md "wikilink")[群像劇](https://ja.wikipedia.org/wiki/群像劇 "wikilink")。[R-15](https://ja.wikipedia.org/wiki/R-15 "wikilink")指定\[2\]。
 
-2008年3月、ドラマのサウンドトラックを集めたコンピレーションCDが発売された。ドラマの音楽作曲はEZgirl、音楽監督は[ナターシャ・デュプレイ](https://ja.wikipedia.org/wiki/ナターシャ・デュプレイ "wikilink")である。作品中、[Betty](https://ja.wikipedia.org/wiki/Betty_\(バンド\) "wikilink")、[Heart](../Page/ハート_\(バンド\).md "wikilink")、[The Organ](https://ja.wikipedia.org/wiki/The_Organ "wikilink")、[Goldfrapp](../Page/ゴールドフラップ.md "wikilink")、[Peaches](https://ja.wikipedia.org/wiki/Peaches "wikilink")などが登場する。
+[2004年](../Page/2004年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に放送が開始されて以来シーズン6まで続き、[2009年](../Page/2009年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に終了した。その後、アリス・ピエゼッキーが主人公となる[スピンオフ](../Page/スピンオフ.md "wikilink")作品が配信予定。なお、アメリカ以外での放送は、MGM Worldwide Televisionが配給を行っている。アメリカや[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[イスラエル](../Page/イスラエル.md "wikilink")などの約50か国で放送。日本では[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[FOXlife HDで放送されている](https://ja.wikipedia.org/wiki/FOXlife_HD "wikilink")。
 
-アメリカ合衆国や[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[イスラエル](../Page/イスラエル.md "wikilink")などの約50か国で放送。日本では[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[FOXlife HDで放送されている](https://ja.wikipedia.org/wiki/FOXlife_HD "wikilink")。
+主な撮影は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ブリティッシュコロンビア州](../Page/ブリティッシュコロンビア州.md "wikilink")[バンクーバーのコースト](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")・マウンテンタウン・フィルムスタジオにて行われた。
 
-本作品の構想は、自身もレズビアンである[アイリーン・チェイケン](https://ja.wikipedia.org/wiki/アイリーン・チェイケン "wikilink")によるものである。初めて制作会社に企画を持ち込んだのは[1999年](../Page/1999年.md "wikilink")であった。1年後、『[クィア・アズ・フォーク](../Page/クィア・アズ・フォーク.md "wikilink")』といったゲイドラマが高視聴率を取り始めていたため、本作品の製作が開始された。ロサンゼルスの[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")がベースで、内容のほとんどは実話を元にしている。なお、脚本家の10人中9人がレズビアンである。
+本作の構想は、自身もレズビアンであるによるものである。チェイケンが初めて制作会社に企画を持ち込んだのは[1999年](../Page/1999年.md "wikilink")であった。1年後、『[クィア・アズ・フォーク](../Page/クィア・アズ・フォーク.md "wikilink")』といった[ゲイ](../Page/ゲイ.md "wikilink")ドラマが高視聴率を取り始めていたため、本作の製作が開始。ロサンゼルスの[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")がベースであり、内容のほとんどは実話を基にしている。なお、脚本家の10人中9人がレズビアンである\[3\]。
 
-シーズン1に登場する、世界最大のレズビアン・パーティ「[ダイナ・ショア・ウィークエンド](https://ja.wikipedia.org/wiki/ダイナ・ショア・ウィークエンド "wikilink")」（年に一度、アメリカ・[パームスプリングスで行われるイベント](../Page/パームスプリングス_\(カリフォルニア州\).md "wikilink")）に、2006年度は過去最高の1万人以上の女性が、世界各国から集まった\[2\]。
+シーズン1に登場する世界最大のレズビアン・パーティー「[ダイナ・ショア・ウィークエンド](https://ja.wikipedia.org/wiki/ダイナ・ショア・ウィークエンド "wikilink")」（年に一度、アメリカ・[パームスプリングスで行われるイベント](../Page/パームスプリングス_\(カリフォルニア州\).md "wikilink")）に、[2006年](../Page/2006年.md "wikilink")度は過去最高の1万人以上の女性が世界各国から集まった\[4\]。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月、本作の[サウンドトラック](../Page/サウンドトラック.md "wikilink")を集めた[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")CDが発売。ドラマの音楽作曲はEZgirl、音楽監督は[ナターシャ・デュプレイ](https://ja.wikipedia.org/wiki/ナターシャ・デュプレイ "wikilink")が務めた。作中には、[Betty](https://ja.wikipedia.org/wiki/Betty_\(バンド\) "wikilink")、[Heart](../Page/ハート_\(バンド\).md "wikilink")、[The Organ](https://ja.wikipedia.org/wiki/The_Organ "wikilink")、[Goldfrapp](../Page/ゴールドフラップ.md "wikilink")、[Peaches](https://ja.wikipedia.org/wiki/Peaches "wikilink")などが登場する。
 
 ## スタッフ
 
-  - エグゼクティブプロデューサー：[アイリーン・チェイケン](https://ja.wikipedia.org/wiki/アイリーン・チェイケン "wikilink")、[スティーブン・ゴーリン](https://ja.wikipedia.org/wiki/スティーブン・ゴーリン "wikilink")、[ラリー・ケナー](https://ja.wikipedia.org/wiki/ラリー・ケナー "wikilink")
+  - エグゼクティブプロデューサー：、[スティーブン・ゴーリン](https://ja.wikipedia.org/wiki/スティーブン・ゴーリン "wikilink")、[ラリー・ケナー](https://ja.wikipedia.org/wiki/ラリー・ケナー "wikilink")
   - 脚本：アイリーン・チェイケン、[グイネヴァ・ターナー](https://ja.wikipedia.org/wiki/グイネヴァ・ターナー "wikilink")、[ローズ・トローシュ](https://ja.wikipedia.org/wiki/ローズ・トローシュ "wikilink")
 
 ## 登場人物
@@ -33,9 +35,9 @@
 <th><p>役名<br />
 （英語）</p></th>
 <th><p>キャスト</p></th>
-<th><p>声優</p></th>
+<th><p>日本語吹替</p></th>
 <th><p>シーズン<br />
-(ゲスト)</p></th>
+（ゲスト）</p></th>
 </tr>
 </thead>
 <tbody>
@@ -133,7 +135,7 @@
 <tr class="even">
 <td><p>マックス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Moira/Max_Sweeney" title="wikilink">Moira/Max Sweeney</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダニエラ・シー" title="wikilink">ダニエラ・シー</a></p></td>
+<td></td>
 <td><p><a href="../Page/本田貴子.md" title="wikilink">本田貴子</a></p></td>
 <td><p>3-6</p></td>
 </tr>
@@ -154,14 +156,14 @@
 <tr class="odd">
 <td><p>ターシャ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tasha_Williams" title="wikilink">Tasha Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローズ・ロリンズ" title="wikilink">ローズ・ロリンズ</a></p></td>
+<td></td>
 <td><p><a href="../Page/浅野まゆみ.md" title="wikilink">浅野まゆみ</a></p></td>
 <td><p>4-6</p></td>
 </tr>
 <tr class="even">
 <td><p>パピ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Papi_(The_L_Word_character)" title="wikilink">Eva "Papi" Torres</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャニナ・ガバンカー" title="wikilink">ジャニナ・ガバンカー</a></p></td>
+<td></td>
 <td><p><a href="../Page/木川絵理子.md" title="wikilink">木川絵理子</a></p></td>
 <td><p>4、(6)</p></td>
 </tr>
@@ -250,48 +252,31 @@
 
 ## タイトル
 
-当初、番組のプロジェクトの名前は『*Earthlings*』（地球に住むもの、（SFにおいて）地球人といった意味）であった\[3\]。
+当初、番組のプロジェクトの名前は『*Earthlings*』（地球に住むもの、（SFにおいて）地球人といった意味）であった\[5\]。
 
-[1981年](../Page/1981年.md "wikilink")の[ジェーン・チェンバーズ](https://ja.wikipedia.org/wiki/ジェーン・チェンバーズ "wikilink")の『My Blue Heaven』の中で「the L word」というフレーズが登場している（『You're really ...? *The L-word?* Lord God, I never met one before. 』）\[4\]。また、[ダフニ・デュ・モーリエ](../Page/ダフニ・デュ・モーリエ.md "wikilink")が[エレン・ダブルデイ](https://ja.wikipedia.org/wiki/エレン・ダブルデイ "wikilink")に送った手紙の中にも同じフレーズを見ることが出来る（『By God and by Christ, if anyone should call that love by that unattractive word that begins with *L',* I'd tear their guts out.』）\[5\]。
+[1981年](../Page/1981年.md "wikilink")の[ジェーン・チェンバーズ](https://ja.wikipedia.org/wiki/ジェーン・チェンバーズ "wikilink")の『My Blue Heaven』の中で「the L word」というフレーズが登場している（『You're really ...? *The L-word?* Lord God, I never met one before. 』）\[6\]。また、[ダフニ・デュ・モーリエ](../Page/ダフニ・デュ・モーリエ.md "wikilink")が[エレン・ダブルデイ](https://ja.wikipedia.org/wiki/エレン・ダブルデイ "wikilink")に送った手紙の中にも同じフレーズを見ることが出来る（『By God and by Christ, if anyone should call that love by that unattractive word that begins with *L',* I'd tear their guts out.』）\[7\]。
 
-原題は『**the L word**』（**ジ・エル・ワード**）。この「**L**」とは "Lesbian" （レズビアン）や"Love"（愛）の頭文字である。『Lの世界』という邦題は、the **L** word → The wor**L**dと転化したものとされる。
+原題は『**The L Word**』（**ジ・エル・ワード**）。この「**L**」とは "Lesbian" （レズビアン）や"Love"（愛）の頭文字である。『Lの世界』という邦題は、The **L** Word → The Wor**L**dと転化したものとされる。
 
-## 各シーズン
-
-  - シーズン1
-    [2004年](../Page/2004年.md "wikilink")1月から、アメリカのケーブルテレビ局[Showtimeで放映開始](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")、全13話。
-  - シーズン2
-    [2005年](../Page/2005年.md "wikilink")2月から13話放映。
-  - シーズン3
-    [2006年](../Page/2006年.md "wikilink")1月から12話放映。
-  - シーズン4
-    2006年3月から12話放映。
-  - シーズン5
-    [2007年](../Page/2007年.md "wikilink")夏制作開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月6日](../Page/1月6日.md "wikilink")放映開始。
-  - シーズン6
-    2008年夏制作開始、[2009年](../Page/2009年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")放映開始。
+## エピソード
 
 ## DVD
 
-  - シーズン1 - 『vol.1』：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月2日、『DVDコレクターズBOX』（6枚組）：2008年3月7日
+  - シーズン1 - 『vol.1』：2008年2月2日／『DVDコレクターズBOX』（6枚組）：2008年3月7日
   - シーズン2 - 『シーズン2 DVDコレクターズBOX』（7枚組）：2008年4月4日
   - シーズン3 - 『シーズン3 DVDコレクターズBOX』（6枚組）：2008年8月20日
   - シーズン1-3　- 『トリロジーBOX』（20枚組）
+  - シーズン4 - 『シーズン4 DVDコレクターズBOX』（6枚組）：2008年11月19日
+  - シーズン5 - 『シーズン5 DVDコレクターズBOX』（6枚組）：2009年8月21日
+  - シーズン6 - 『ファイナル・シーズン DVDコレクターズBOX』（4枚組）：2010年6月2日
 
-DVD発売キャンペーンソングは、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")のシングル「cocoon」のカップリング曲『u』。2008年[2月2日](../Page/2月2日.md "wikilink")レンタル開始。映画「[あるスキャンダルの覚え書き](https://ja.wikipedia.org/wiki/あるスキャンダルについての覚え書き#映画 "wikilink")」のレンタル版DVD特典に「Lの世界」の第1話が特別収録されている。
+※DVD発売キャンペーンソングは、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")のシングル「cocoon」のカップリング曲「u」。2008年2月2日にレンタル開始。映画『[あるスキャンダルの覚え書き](https://ja.wikipedia.org/wiki/あるスキャンダルについての覚え書き#映画 "wikilink")』のレンタル版DVD特典に『Lの世界』の第1話が特別収録されている。
 
 ## 脚注
 
 ## 外部リンク
 
-  - [20世紀フォックスによる公式サイト](http://www.foxjapan.com/dvd-video/tv/lword/index_frames.html)
-  - [「Lの世界」記事](http://www.tokyowrestling.com/articles/overseas/l/)
-
-<!-- end list -->
-
-  - 英語
-
-<!-- end list -->
+  - [20世紀フォックスによる公式サイト](https://video.foxjapan.com/tv/lword/s1/)
 
   - [Showtime Official Site](http://www.sho.com/site/lword/home.do)
 
@@ -304,8 +289,10 @@ DVD発売キャンペーンソングは、[土屋アンナ](https://ja.wikipedia
 
 [Category:ショウタイム](https://ja.wikipedia.org/wiki/Category:ショウタイム "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:LGBT関連ドラマ](https://ja.wikipedia.org/wiki/Category:LGBT関連ドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:バンクーバーで製作されたテレビ番組](https://ja.wikipedia.org/wiki/Category:バンクーバーで製作されたテレビ番組 "wikilink")
 
-1.  [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で年齢制限を受けた初めてのテレビドラマである。
-2.  [マリ・クレール](http://www.hfm.co.jp/marieclaire/mag/backnumber/) 2006年7月号より。
+1.
+2.  [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で年齢制限を受けた初めてのテレビドラマである。
 3.
-4.
-5.  *Daphne du Maurier: The Secret Life of the Renowned Storyteller*, by Margaret Forster (1993).
+4.  [マリ・クレール](http://www.hfm.co.jp/marieclaire/mag/backnumber/) 2006年7月号より。
+5.
+6.
+7.  *Daphne du Maurier: The Secret Life of the Renowned Storyteller*, by Margaret Forster (1993).

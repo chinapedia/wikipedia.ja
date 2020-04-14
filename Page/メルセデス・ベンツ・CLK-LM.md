@@ -1,4 +1,4 @@
-> この記事は[CLK-LM](https://ja.wikipedia.org/wiki/CLK-LM)から翻訳されています。
+> この記事は[メルセデス・ベンツ・CLK-LM](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・CLK-LM)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_CLK_LM_-_Flickr_-_andrewbasterfield.jpg "wikilink") **メルセデスベンツ・CLK-LM**は、[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")と[AMGが](../Page/メルセデスAMG.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")及び[FIA GT選手権参戦用に開発した](../Page/FIA_GT選手権.md "wikilink")、[FIA](../Page/国際自動車連盟.md "wikilink") GT1／LM GT1規定のレーシングカー。

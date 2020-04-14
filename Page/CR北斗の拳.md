@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR北斗の拳](https://ja.wikipedia.org/wiki/CR北斗の拳)から翻訳されています。
 
 
 **CR北斗の拳**（しーあーるほくとのけん）は、[サミー](../Page/サミー.md "wikilink")から発売された[CR](../Page/CR機.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。[武論尊](../Page/武論尊.md "wikilink")、[原哲夫](../Page/原哲夫.md "wikilink")の漫画作品『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』とのタイアップ機。[2005年](../Page/2005年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に『**CR北斗の拳伝承**（でんしょう）』『**CR北斗の拳強敵**（とも）』が、[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")に『**CR北斗の拳STV**』がそれぞれ発売されている。

@@ -1,4 +1,4 @@
-> この記事は[ MR.MOONLIGHT](https://ja.wikipedia.org/wiki/_MR.MOONLIGHT)から翻訳されています。
+> この記事は[満月 MR.MOONLIGHT](https://ja.wikipedia.org/wiki/満月_MR.MOONLIGHT)から翻訳されています。
 
 
 『**満月 MR.MOONLIGHT**』（まんげつ ミスタームーンライト）は、[1991年](../Page/1991年.md "wikilink")に公開された[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")主演の[日本映画](../Page/日本映画.md "wikilink")。[原田康子](../Page/原田康子.md "wikilink")の小説『満月』の映画化作品。

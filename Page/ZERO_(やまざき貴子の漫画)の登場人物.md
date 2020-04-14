@@ -1,4 +1,4 @@
-> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+> この記事は[ZERO \(やまざき貴子の漫画\)の登場人物](https://ja.wikipedia.org/wiki/ZERO_\(やまざき貴子の漫画\)の登場人物)から翻訳されています。
 
 
 **ZEROの登場人物**は、[やまざき貴子](../Page/やまざき貴子.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ZERO](../Page/ZERO_\(やまざき貴子の漫画\).md "wikilink")』の登場人物について解説する。
@@ -37,7 +37,7 @@
   - 阿義 芳亜（あぎ よしあ） 前世：横田 元樹 役名：[梵天](../Page/梵天.md "wikilink")
     アギと呼ばれている。
     2001年12月1日生まれ。ZOO登録番号X-801。身長約5-8（172cm）。ZOOでの居住区はE棟の内周ネイキッド20-1。
-    末期[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")によって死んだ祖父の痛み止め（[アヘン](../Page/アヘン.md "wikilink")）の余りからZeroを開発する。
+    末期[ガンによって死んだ祖父の痛み止め](../Page/悪性腫瘍.md "wikilink")（[アヘン](../Page/アヘン.md "wikilink")）の余りからZeroを開発する。
     [そばかす顔に小さめの丸眼鏡をかけている](../Page/雀卵斑.md "wikilink")。ZOO生活の頃は運動をしない[モヤシっ子](https://ja.wikipedia.org/wiki/モヤシっ子 "wikilink")で、仲間の中で一番弱そうだった（コカ談）。
     自分の造った薬で眠ってしまったコカを起こそうと[ノイローゼ](https://ja.wikipedia.org/wiki/ノイローゼ "wikilink")気味になったり、廃都ではシャオの譴責にヨコタと自分を重ねすぎてゲームを進めてしまった責任を感じたり、と前世に同じく思いつめやすい性格。また現実的な考え方で、少々冷めた面もある。
     12天のキーワードは「**―（空）**」（「火天」の榎本春香が「Z」として使用されるときのみ対として使われる「空間」）

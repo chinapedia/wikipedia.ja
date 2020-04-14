@@ -1,4 +1,4 @@
-> この記事は[UP DATE](https://ja.wikipedia.org/wiki/UP_DATE)から翻訳されています。
+> この記事は[桃井はるこのらじお☆UP DATE](https://ja.wikipedia.org/wiki/桃井はるこのらじお☆UP_DATE)から翻訳されています。
 
 
 『**桃井はるこのらじお☆UP DATE**』（ももいはるこのらじおアップデート）は、[桃井はるこ](../Page/桃井はるこ.md "wikilink")がメイン[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[DVD](../Page/DVD.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[はるこ☆UP DATE](https://ja.wikipedia.org/wiki/はるこ☆UP_DATE "wikilink")』連動番組。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")終了。[4月12日](../Page/4月12日.md "wikilink") -[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に再放送。

@@ -1,4 +1,4 @@
-> この記事は[ZH1 \(\)](https://ja.wikipedia.org/wiki/ZH1_\(\))から翻訳されています。
+> この記事は[ZH1 \(駆逐艦\)](https://ja.wikipedia.org/wiki/ZH1_\(駆逐艦\))から翻訳されています。
 
 
 **ZH1**は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")。元は[オランダ海軍](https://ja.wikipedia.org/wiki/オランダ海軍 "wikilink")の[ティエルク・ヒッデス級駆逐艦](https://ja.wikipedia.org/wiki/ティエルク・ヒッデス級駆逐艦 "wikilink")「ゲラルト・カレンブルク」で、鹵獲後に就役させたものである。

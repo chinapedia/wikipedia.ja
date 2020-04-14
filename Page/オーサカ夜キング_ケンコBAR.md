@@ -1,4 +1,4 @@
-> この記事は[ BAR](https://ja.wikipedia.org/wiki/_BAR)から翻訳されています。
+> この記事は[オーサカ夜キング ケンコBAR](https://ja.wikipedia.org/wiki/オーサカ夜キング_ケンコBAR)から翻訳されています。
 
 
 『**オーサカ夜キング ケンコBAR**』（オーサカよるキング ケンコバー）は、[2007年](../Page/2007年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")および同年[7月30日](../Page/7月30日.md "wikilink")から[8月5日](../Page/8月5日.md "wikilink")までの深夜（日付上では7月29日および7月31日から8月6日）に30分間ずつ[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で[特別番組](../Page/特別番組.md "wikilink")として放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

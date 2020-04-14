@@ -1,4 +1,4 @@
-> この記事は[AAB\&](https://ja.wikipedia.org/wiki/AAB\&)から翻訳されています。
+> この記事は[AABニュース\&ウェザー](https://ja.wikipedia.org/wiki/AABニュース\&ウェザー)から翻訳されています。
 
 
 『**AABニュース&ウェザー**』（エーエービー ニュースアンドウェザー）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来放送している[スポットニュース](../Page/スポットニュース.md "wikilink")。

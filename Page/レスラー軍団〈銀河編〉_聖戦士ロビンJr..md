@@ -1,4 +1,4 @@
-> この記事は[ Jr.](https://ja.wikipedia.org/wiki/_Jr.)から翻訳されています。
+> この記事は[レスラー軍団〈銀河編〉 聖戦士ロビンJr.](https://ja.wikipedia.org/wiki/レスラー軍団〈銀河編〉_聖戦士ロビンJr.)から翻訳されています。
 
 
 『**レスラー軍団〈銀河編〉 聖戦士ロビンJr.**』（-ぐんだんぎんがへん せいせんし- ）は、[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")制作の日本のアニメ作品。[1989年](../Page/1989年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放映された。全50話。

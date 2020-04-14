@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ 舞空闘劇](https://ja.wikipedia.org/wiki/ドラゴンボールZ_舞空闘劇)から翻訳されています。
 
 
 『**ドラゴンボールZ 舞空闘劇**』（-ゼット ぶくうとうげき）は、[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[バンプレスト](../Page/バンプレスト.md "wikilink")（初代法人、現・[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[武居“M”征吾](https://ja.wikipedia.org/wiki/武居“M”征吾)から翻訳されています。
 
 
 **武居“M”征吾**（たけい エム せいご、[1964年](../Page/1964年.md "wikilink")\[1\] - 、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")\[2\]の[実業家](../Page/実業家.md "wikilink")\[3\]。[東京都](../Page/東京都.md "wikilink")出身。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

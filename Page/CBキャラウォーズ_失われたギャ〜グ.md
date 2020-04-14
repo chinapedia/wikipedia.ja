@@ -1,4 +1,4 @@
-> この記事は[CB ](https://ja.wikipedia.org/wiki/CB_)から翻訳されています。
+> この記事は[CBキャラウォーズ 失われたギャ〜グ](https://ja.wikipedia.org/wiki/CBキャラウォーズ_失われたギャ〜グ)から翻訳されています。
 
 
 『**CBキャラウォーズ 失われたギャ〜グ**』（ちびきゃらうぉーず - うしなわれたぎゃーぐ）は、[1992年](../Page/1992年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")に[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

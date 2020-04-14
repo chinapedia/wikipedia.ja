@@ -1,4 +1,4 @@
-> この記事は[Summer ](https://ja.wikipedia.org/wiki/Summer_)から翻訳されています。
+> この記事は[おキツネSummer 〜夏合宿・女の子付き〜](https://ja.wikipedia.org/wiki/おキツネSummer_〜夏合宿・女の子付き〜)から翻訳されています。
 
 
 『**おキツネSummer 〜夏合宿・女の子付き〜**』（おきつねサマー なつがっしゅく おんなのこつき）は、[2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に株式会社[ネクストン](../Page/ネクストン.md "wikilink")のブランド・SCORE【しゅこあ\!】から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")におまけシナリオがホームページ上に公開されている。

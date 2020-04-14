@@ -1,4 +1,4 @@
-> この記事は[LOVELY LOVELY BOY](https://ja.wikipedia.org/wiki/LOVELY_LOVELY_BOY)から翻訳されています。
+> この記事は[L・O・V・E・L・Y 〜夢見るLOVELY BOY〜](https://ja.wikipedia.org/wiki/L・O・V・E・L・Y_〜夢見るLOVELY_BOY〜)から翻訳されています。
 
 
 『**L・O・V・E・L・Y ～夢見るLOVELY BOY～**』（エル・オー・ブイ・イー・エル・ワイ ゆめみるラブリーボーイ）は、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")の「Tommy february<sup>6</sup>」名義の7枚目の[シングル](../Page/シングル.md "wikilink")。

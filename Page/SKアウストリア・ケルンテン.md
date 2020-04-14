@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKアウストリア・ケルンテン](https://ja.wikipedia.org/wiki/SKアウストリア・ケルンテン)から翻訳されています。
 
 
 **SKアウストリア・ケルンテン**（）は、かつて[オーストリア](../Page/オーストリア.md "wikilink")の南部、[ケルンテン州](../Page/ケルンテン州.md "wikilink")の州都[クラーゲンフルト](../Page/クラーゲンフルト.md "wikilink")を本拠地としていたサッカークラブである。
@@ -43,7 +43,7 @@
 
   - [ヴァルター・シャッハナー](https://ja.wikipedia.org/wiki/ヴァルター・シャッハナー "wikilink") (2007)
 
-  - [クラウス・シュミット](https://ja.wikipedia.org/wiki/クラウス・シュミット "wikilink") (2007-2008)
+  - [クラウス・シュミット](../Page/クラウス・シュミット.md "wikilink") (2007-2008)
 
   - [フレンキー・シンケルス](https://ja.wikipedia.org/wiki/フレンキー・シンケルス "wikilink") (2008-2009)
 

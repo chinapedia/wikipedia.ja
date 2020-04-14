@@ -1,4 +1,4 @@
-> この記事は[CCX](https://ja.wikipedia.org/wiki/CCX)から翻訳されています。
+> この記事は[ケーニグセグ・CCX](https://ja.wikipedia.org/wiki/ケーニグセグ・CCX)から翻訳されています。
 
 
 [Koenigsegg_CCX_engine_(Motorshow_Geneva_2006).jpg](https://ja.wikipedia.org/wiki/File:Koenigsegg_CCX_engine_\(Motorshow_Geneva_2006\).jpg "fig:Koenigsegg_CCX_engine_(Motorshow_Geneva_2006).jpg") [Koenigsegg_CCX_roadster_(2010-10-16)_02.jpg](https://ja.wikipedia.org/wiki/File:Koenigsegg_CCX_roadster_\(2010-10-16\)_02.jpg "fig:Koenigsegg_CCX_roadster_(2010-10-16)_02.jpg") **ケーニグセグ・CCX**（*Koenigsegg CCX* ）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[ケーニグセグ](../Page/ケーニグセグ.md "wikilink")が製造している[スーパーカー](../Page/スーパーカー.md "wikilink")である。[ケーニグセグ・CCR](../Page/ケーニグセグ・CCR.md "wikilink")の後継モデルである。

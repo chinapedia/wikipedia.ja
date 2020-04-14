@@ -1,9 +1,13 @@
-> この記事は[ THE NEXT](https://ja.wikipedia.org/wiki/_THE_NEXT)から翻訳されています。
+> この記事は[仮面ライダー THE NEXT](https://ja.wikipedia.org/wiki/仮面ライダー_THE_NEXT)から翻訳されています。
 
 
-『**仮面ライダー THE NEXT**』（かめんライダー ザ ネクスト）は、[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")の劇場用[特撮](../Page/特撮.md "wikilink")ヒーロー映画。[2007年](../Page/2007年.md "wikilink")10月27日公開。[2005年](../Page/2005年.md "wikilink")11月5日に公開された映画『[仮面ライダー THE FIRST](../Page/仮面ライダー_THE_FIRST.md "wikilink")』の続編。キャッチコピーは、「**すべてを超える。**」「**アクションに酔え。怪奇に震えろ。これがNEXTエンタテインメントだ。**」。
+『**仮面ライダー THE NEXT**』（かめんライダー ザ ネクスト）は、[2007年](../Page/2007年.md "wikilink")10月27日公開された[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")の映画作品。
+
+キャッチコピーは、「**すべてを超える。**」「**アクションに酔え。 怪奇に震えろ。 これがNEXTエンタテインメントだ。**」。
 
 ## 概要
+
+映画『[仮面ライダー THE FIRST](../Page/仮面ライダー_THE_FIRST.md "wikilink")』の続編。
 
 主役は前作と同様、本郷猛 / [仮面ライダー1号](https://ja.wikipedia.org/wiki/仮面ライダー1号 "wikilink")で、一文字隼人 / [仮面ライダー2号](https://ja.wikipedia.org/wiki/仮面ライダー2号 "wikilink")も前作から継続して登場。また、本作には風見志郎 / [仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")が敵として登場する。
 
@@ -241,11 +245,8 @@
 
   - 主題歌「[CHOSEN SOLDIER](https://ja.wikipedia.org/wiki/CHOSEN_SOLDIER "wikilink")」
     作詞：[ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink") / 作曲：Daisuke "D.I" Imai / 編曲：Daisuke "D.I" Imai / 歌：ISSA
-
   - 挿入歌「Platinum Smile」
-
-      -
-        作詞：[小坂りゆ](../Page/小坂りゆ.md "wikilink") / 作曲：[LOVE+HATE](../Page/LOVE+HATE.md "wikilink") / 編曲：LOVE+HATE / 歌：小坂りゆ
+    作詞：[小坂りゆ](../Page/小坂りゆ.md "wikilink") / 作曲：[LOVE+HATE](../Page/LOVE+HATE.md "wikilink") / 編曲：LOVE+HATE / 歌：小坂りゆ
 
 ## 映像ソフト化
 

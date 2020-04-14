@@ -1,4 +1,4 @@
-> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+> この記事は[沙羅曼蛇 \(OVA\)](https://ja.wikipedia.org/wiki/沙羅曼蛇_\(OVA\))から翻訳されています。
 
 
 『**沙羅曼蛇**』（サラマンダ）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売された同名ゲームソフト『[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")』をモチーフとした日本の[OVA](../Page/OVA.md "wikilink")作品、並びにそれを第1作とする全3巻のOVAシリーズである。

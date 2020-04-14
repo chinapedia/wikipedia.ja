@@ -1,4 +1,4 @@
-> この記事は[CHIHIRO \(\)](https://ja.wikipedia.org/wiki/CHIHIRO_\(\))から翻訳されています。
+> この記事は[CHIHIRO \(歌手\)](https://ja.wikipedia.org/wiki/CHIHIRO_\(歌手\))から翻訳されています。
 
 
 **CHIHIRO**（チヒロ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。

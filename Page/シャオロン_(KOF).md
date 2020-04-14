@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[シャオロン \(KOF\)](https://ja.wikipedia.org/wiki/シャオロン_\(KOF\))から翻訳されています。
 
 
 **笑龍**（シャオロン、作品内英字表記：**Xiaolon**）は、[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")の対戦型格闘ゲーム『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当声優は[松本まきこ](https://ja.wikipedia.org/wiki/松本まきこ "wikilink")。

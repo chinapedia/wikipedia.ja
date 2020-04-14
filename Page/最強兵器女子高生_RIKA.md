@@ -1,4 +1,4 @@
-> この記事は[ RIKA](https://ja.wikipedia.org/wiki/_RIKA)から翻訳されています。
+> この記事は[最強兵器女子高生 RIKA](https://ja.wikipedia.org/wiki/最強兵器女子高生_RIKA)から翻訳されています。
 
 
 『**最強兵器女子高生 RIKA**』（さいきょうへいきじょしこうせい りか）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。

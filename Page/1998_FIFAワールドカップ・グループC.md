@@ -1,4 +1,4 @@
-> この記事は[1998 FIFAC](https://ja.wikipedia.org/wiki/1998_FIFAC)から翻訳されています。
+> この記事は[1998 FIFAワールドカップ・グループC](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・グループC)から翻訳されています。
 
 
 **[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") グループC**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")・[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")・[サウジアラビア](../Page/サウジアラビア.md "wikilink")の4チームが組んだ。[6月12日](../Page/6月12日.md "wikilink")から[6月24日](../Page/6月24日.md "wikilink")まで6試合行い、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")が決勝トーナメントへ進出した。

@@ -1,4 +1,4 @@
-> この記事は[FIM-43 \(\)](https://ja.wikipedia.org/wiki/FIM-43_\(\))から翻訳されています。
+> この記事は[FIM-43 \(ミサイル\)](https://ja.wikipedia.org/wiki/FIM-43_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=FIM-43 レッドアイ | 画像=Image:Redeye Surface to Air Missile 06.jpg | キャプション=M171ショルダー・ランチャーを構える兵士 | 用途=[防空](../Page/防空.md "wikilink") | 分類=[携帯式防空ミサイル・システム（MANPADS）](https://ja.wikipedia.org/wiki/地対空ミサイル#携帯式 "wikilink") | 設計者= | 製造者=[ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink") | 運用者 more=：

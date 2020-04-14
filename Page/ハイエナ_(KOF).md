@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[ハイエナ \(KOF\)](https://ja.wikipedia.org/wiki/ハイエナ_\(KOF\))から翻訳されています。
 
 
 **ハイエナ**(**Hyena**)は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当[声優](../Page/声優.md "wikilink")は[島田敏](../Page/島田敏.md "wikilink")。

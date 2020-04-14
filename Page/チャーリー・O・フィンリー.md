@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[チャーリー・O・フィンリー](https://ja.wikipedia.org/wiki/チャーリー・O・フィンリー)から翻訳されています。
 
 
 **チャールズ O. フィンリー**（**Charles Oscar Finley**, [1918年](../Page/1918年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")）は、[MLBの](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[オークランド・アスレチックス](../Page/オークランド・アスレチックス.md "wikilink")のオーナー。

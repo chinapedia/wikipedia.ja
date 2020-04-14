@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCヒムキ](https://ja.wikipedia.org/wiki/FCヒムキ)から翻訳されています。
 
 
 **FCヒムキ**（、 ）は、[ロシア](../Page/ロシア.md "wikilink")連邦・[ヒムキ](https://ja.wikipedia.org/wiki/ヒムキ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[LIM-49 \(\)](https://ja.wikipedia.org/wiki/LIM-49_\(\))から翻訳されています。
+> この記事は[LIM-49 \(ミサイル\)](https://ja.wikipedia.org/wiki/LIM-49_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=LIM-49 スパルタン | 画像=<File:Nike> family 01.jpg | キャプション=発射機上のXLIM-49 ナイキ・ゼウスB | 用途=弾道弾迎撃 | 分類=[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")、[弾道弾迎撃ミサイル](../Page/弾道弾迎撃ミサイル.md "wikilink") | 設計者= | 製造者=[ウェスタン・エレクトリック](../Page/ウェスタン・エレクトリック.md "wikilink")、[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink") | 運用者=（[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")） | 初飛行年月日= | 生産数=30基\[1\] | 生産開始年月日= | 運用開始年月日=[1975年](../Page/1975年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") | 退役年月日=[1976年](../Page/1976年.md "wikilink") | 運用状況=退役 | ユニットコスト= }}

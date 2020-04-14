@@ -1,4 +1,4 @@
-> この記事は[TMP \(\)](https://ja.wikipedia.org/wiki/TMP_\(\))から翻訳されています。
+> この記事は[TMP \(企業\)](https://ja.wikipedia.org/wiki/TMP_\(企業\))から翻訳されています。
 
 
 **株式会社TMP**（ティーエムピー）はかつて存在した[磁気カード](https://ja.wikipedia.org/wiki/磁気カード "wikilink")、[ICカード](../Page/ICカード.md "wikilink")などのメーカー。[2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に東京磁気印刷株式会社から株式会社TMPへ社名変更した。2007年10月1日に[トッパンレーベル](https://ja.wikipedia.org/wiki/トッパンレーベル "wikilink")株式会社と合併し、株式会社[トッパンTDKレーベル](https://ja.wikipedia.org/wiki/トッパンTDKレーベル "wikilink")となった（法手続上はTMPが消滅会社）[1](http://www.toppan-tl.co.jp/news/2007/news2007090125.html)。

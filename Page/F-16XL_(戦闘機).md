@@ -1,4 +1,4 @@
-> この記事は[F-16XL \(\)](https://ja.wikipedia.org/wiki/F-16XL_\(\))から翻訳されています。
+> この記事は[F-16XL \(戦闘機\)](https://ja.wikipedia.org/wiki/F-16XL_\(戦闘機\))から翻訳されています。
 
 
 **F-16XL**は、[ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink")（のち軍用機部門は[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")に売却）が開発した試作[戦術](../Page/戦術.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。 __TOC__

@@ -1,4 +1,4 @@
-> この記事は[KEIRIN\'87](https://ja.wikipedia.org/wiki/KEIRIN\'87)から翻訳されています。
+> この記事は[KEIRINグランプリ\'87](https://ja.wikipedia.org/wiki/KEIRINグランプリ\'87)から翻訳されています。
 
 
 **KEIRINグランプリ'87**（けいりんぐらんぷりはちじゅうなな）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[平塚競輪場](../Page/平塚競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1700万円\[1\]。

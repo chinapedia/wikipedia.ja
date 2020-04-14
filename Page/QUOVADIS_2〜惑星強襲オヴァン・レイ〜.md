@@ -1,4 +1,4 @@
-> この記事は[QUOVADIS 2](https://ja.wikipedia.org/wiki/QUOVADIS_2)から翻訳されています。
+> この記事は[QUOVADIS 2〜惑星強襲オヴァン・レイ〜](https://ja.wikipedia.org/wiki/QUOVADIS_2〜惑星強襲オヴァン・レイ〜)から翻訳されています。
 
 
 『**QUOVADIS 2〜惑星強襲オヴァン・レイ〜**』はグラムスが[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売した[セガサターン](../Page/セガサターン.md "wikilink")用[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。 前作『[QUOVADIS](https://ja.wikipedia.org/wiki/QUOVADIS "wikilink")』とは別の星系で起きた出来事を描いており、前作との直接的な関わりはほとんどない。

@@ -1,4 +1,4 @@
-> この記事は[2TGV](https://ja.wikipedia.org/wiki/2TGV)から翻訳されています。
+> この記事は[シャルル・ド・ゴール空港第2TGV駅](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール空港第2TGV駅)から翻訳されています。
 
 
 **シャルル・ド・ゴール空港第2TGV駅**([フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"):Gare Aéroport Charles-de-Gaulle 2 TGV)は[シャルル・ド・ゴール国際空港](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール国際空港 "wikilink")第2ターミナルにある[鉄道駅](../Page/鉄道駅.md "wikilink")である。

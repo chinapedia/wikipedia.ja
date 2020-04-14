@@ -1,4 +1,4 @@
-> この記事は[MIM-3 \(\)](https://ja.wikipedia.org/wiki/MIM-3_\(\))から翻訳されています。
+> この記事は[MIM-3 \(ミサイル\)](https://ja.wikipedia.org/wiki/MIM-3_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 |名称=MIM-3 ナイキ・エイジャックス |画像=<File:MIM-3> Nike-Ajax 01.jpg |キャプション=発射機上のMIM-3 ナイキ・エイジャックス |用途=長距離爆撃機迎撃、アメリカ合衆国本土防衛 |分類=[地対空ミサイル](../Page/地対空ミサイル.md "wikilink") |設計者= |製造者=[ウェスタン・エレクトリック](../Page/ウェスタン・エレクトリック.md "wikilink") |運用者 more=：

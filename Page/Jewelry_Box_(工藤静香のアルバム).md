@@ -1,4 +1,4 @@
-> この記事は[Jewelry Box \(\)](https://ja.wikipedia.org/wiki/Jewelry_Box_\(\))から翻訳されています。
+> この記事は[Jewelry Box \(工藤静香のアルバム\)](https://ja.wikipedia.org/wiki/Jewelry_Box_\(工藤静香のアルバム\))から翻訳されています。
 
 
 『**Jewelry Box**』（ジュエリー・ボックス）は、[工藤静香](../Page/工藤静香.md "wikilink")の15枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。2002年7月3日発売。発売元は株式会社[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")。販売は[ユニバーサルミュージック株式会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

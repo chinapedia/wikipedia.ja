@@ -1,4 +1,4 @@
-> この記事は[SPK \(\)](https://ja.wikipedia.org/wiki/SPK_\(\))から翻訳されています。
+> この記事は[SPK \(バンド\)](https://ja.wikipedia.org/wiki/SPK_\(バンド\))から翻訳されています。
 
 
 **SPK**(エスピーケー)とは1978年に[オーストラリア](../Page/オーストラリア.md "wikilink")・[シドニー](../Page/シドニー.md "wikilink")で結成された音楽グループである。初期のノイズ・[インダストリアル](../Page/インダストリアル.md "wikilink")音楽に多大な影響を与えたグループである。

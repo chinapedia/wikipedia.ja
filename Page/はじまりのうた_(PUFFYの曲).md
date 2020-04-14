@@ -1,4 +1,4 @@
-> この記事は[ \(PUFFY\)](https://ja.wikipedia.org/wiki/_\(PUFFY\))から翻訳されています。
+> この記事は[はじまりのうた \(PUFFYの曲\)](https://ja.wikipedia.org/wiki/はじまりのうた_\(PUFFYの曲\))から翻訳されています。
 
 
 「**はじまりのうた**」は、[PUFFY](../Page/PUFFY.md "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。

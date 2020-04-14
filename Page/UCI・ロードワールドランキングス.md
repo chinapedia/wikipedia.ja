@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCI・ロードワールドランキングス](https://ja.wikipedia.org/wiki/UCI・ロードワールドランキングス)から翻訳されています。
 
 
 **UCI・ロードワールドランキングス**(The UCI Road World Rankings)は、[1984年](../Page/1984年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで実施された[自転車競技](../Page/自転車競技.md "wikilink")[ロードレースにおけるランキングシステムのことである](../Page/ロードレース_\(自転車競技\).md "wikilink")。

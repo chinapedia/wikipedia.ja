@@ -1,4 +1,4 @@
-> この記事は[Mihimaru GTGT](https://ja.wikipedia.org/wiki/Mihimaru_GTGT)から翻訳されています。
+> この記事は[Mihimaru GTのラジマルGT](https://ja.wikipedia.org/wiki/Mihimaru_GTのラジマルGT)から翻訳されています。
 
 
 **mihimaru GTのラジマルGT**（**ミヒマルジーティーのラジマルジーティー**）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")と[miyake](https://ja.wikipedia.org/wiki/miyake "wikilink")（不定期出演）、[古坂大魔王](../Page/古坂大魔王.md "wikilink")がパーソナリティを務める[ラジオ](../Page/ラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に放送開始、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")終了。mihimaru GTにとって初の全国レギュラー番組となる。2009年4月現在[JFN系列のうち](../Page/全国FM放送協議会.md "wikilink")24局で放送している。地域によって放送日・時刻が異なり、しかもキー局の[TOKYO FMでは流れない](../Page/エフエム東京.md "wikilink")（放送を望む投稿がされたことがある）。放送時間が30分間の地域と25分間の地域があるが、25分間の場合はエンディングのトークがカットされている。

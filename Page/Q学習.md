@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q学習](https://ja.wikipedia.org/wiki/Q学習)から翻訳されています。
 
 
 **Q学習**（Qがくしゅう、）は、[機械学習](../Page/機械学習.md "wikilink")分野における[強化学習](../Page/強化学習.md "wikilink")の一種である。

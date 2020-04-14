@@ -1,4 +1,4 @@
-> この記事は[\? Dr.](https://ja.wikipedia.org/wiki/\?_Dr.)から翻訳されています。
+> この記事は[天才\? Dr.ハマックス](https://ja.wikipedia.org/wiki/天才\?_Dr.ハマックス)から翻訳されています。
 
 
 『**天才? Dr.ハマックス**』（てんさい ドクターハマックス）は、日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。全12話。

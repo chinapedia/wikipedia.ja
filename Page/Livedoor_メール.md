@@ -1,4 +1,4 @@
-> この記事は[Livedoor ](https://ja.wikipedia.org/wiki/Livedoor_)から翻訳されています。
+> この記事は[Livedoor メール](https://ja.wikipedia.org/wiki/Livedoor_メール)から翻訳されています。
 
 
 **livedoor メール**（ライブドアメール、または**ドアメール**）は、[NHN Japan](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")が提供していた[フリーメールサービス](../Page/フリーメールサービス.md "wikilink")。

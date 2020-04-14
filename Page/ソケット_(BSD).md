@@ -1,4 +1,4 @@
-> この記事は[ \(BSD\)](https://ja.wikipedia.org/wiki/_\(BSD\))から翻訳されています。
+> この記事は[ソケット \(BSD\)](https://ja.wikipedia.org/wiki/ソケット_\(BSD\))から翻訳されています。
 
 
 **ソケット**（，**通信端点**\[1\]\[2\]）とは、[BSD](../Page/BSD.md "wikilink")系[UNIX](../Page/UNIX.md "wikilink")を起源とする[APIであり](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、[C言語](../Page/C言語.md "wikilink")によるアプリケーション開発での[プロセス間通信](../Page/プロセス間通信.md "wikilink")、特に[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")に関する[ライブラリ](../Page/ライブラリ.md "wikilink")を構成する。その起源を強調して**BSDソケット**、**バークレーソケット**などとも呼ばれる。

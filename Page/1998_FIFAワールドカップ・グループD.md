@@ -1,4 +1,4 @@
-> この記事は[1998 FIFAD](https://ja.wikipedia.org/wiki/1998_FIFAD)から翻訳されています。
+> この記事は[1998 FIFAワールドカップ・グループD](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・グループD)から翻訳されています。
 
 
 **[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") グループD**は、[パラグアイ](https://ja.wikipedia.org/wiki/パラグアイ "wikilink")・[ナイジェリア](../Page/ナイジェリア.md "wikilink")・[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[ブルガリア](../Page/ブルガリア.md "wikilink")の4チームが組んだ。[6月12日](../Page/6月12日.md "wikilink")から[6月24日](../Page/6月24日.md "wikilink")まで6試合行い、[パラグアイ](https://ja.wikipedia.org/wiki/パラグアイ "wikilink")・[ナイジェリア](../Page/ナイジェリア.md "wikilink")が決勝トーナメントへ進出した。

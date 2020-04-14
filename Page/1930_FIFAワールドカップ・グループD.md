@@ -1,4 +1,4 @@
-> この記事は[1930 FIFAD](https://ja.wikipedia.org/wiki/1930_FIFAD)から翻訳されています。
+> この記事は[1930 FIFAワールドカップ・グループD](https://ja.wikipedia.org/wiki/1930_FIFAワールドカップ・グループD)から翻訳されています。
 
 
 [1930 FIFAワールドカップ](../Page/1930_FIFAワールドカップ.md "wikilink") グループDでは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[パラグアイ](https://ja.wikipedia.org/wiki/パラグアイ "wikilink")・[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の3チームが組んだ。[7月13日](../Page/7月13日.md "wikilink")から[7月20日](../Page/7月20日.md "wikilink")まで3試合行い、[アメリカが決勝トーナメントへ進出した](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

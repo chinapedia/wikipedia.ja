@@ -1,4 +1,4 @@
-> この記事は[Stories](https://ja.wikipedia.org/wiki/Stories)から翻訳されています。
+> この記事は[まほろばStories](https://ja.wikipedia.org/wiki/まほろばStories)から翻訳されています。
 
 
 『**まほろばStories**』（まほろばストーリーズ）は、[2007年](../Page/2007年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[ディンプルから発売された](https://ja.wikipedia.org/wiki/ディンプル_\(ゲーム会社\) "wikilink")[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
@@ -37,4 +37,4 @@
   -
   - ：公式サイト制作元が当時設けていた[ミラーサイト](../Page/ミラーサイト.md "wikilink")のアーカイブ。
 
-[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ディンプルのゲームソフト](https://ja.wikipedia.org/wiki/Category:ディンプルのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:図書館を題材とした作品](https://ja.wikipedia.org/wiki/Category:図書館を題材とした作品 "wikilink") [Category:書物を題材とした作品](https://ja.wikipedia.org/wiki/Category:書物を題材とした作品 "wikilink")
+[Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ディンプルのゲームソフト](https://ja.wikipedia.org/wiki/Category:ディンプルのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:図書館を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:図書館を題材としたコンピュータゲーム "wikilink") [Category:書物を題材とした作品](https://ja.wikipedia.org/wiki/Category:書物を題材とした作品 "wikilink")

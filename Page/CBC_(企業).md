@@ -1,4 +1,4 @@
-> この記事は[CBC \(\)](https://ja.wikipedia.org/wiki/CBC_\(\))から翻訳されています。
+> この記事は[CBC \(企業\)](https://ja.wikipedia.org/wiki/CBC_\(企業\))から翻訳されています。
 
 
 **CBC株式会社**（シービーシー）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、[化学品](https://ja.wikipedia.org/wiki/化学品 "wikilink")、[合成樹脂](../Page/合成樹脂.md "wikilink")、[医薬品](../Page/医薬品.md "wikilink")、[農薬](../Page/農薬.md "wikilink")、[食品](../Page/食品.md "wikilink")、[医療機器](../Page/医療機器.md "wikilink")、監視用[レンズ](../Page/レンズ.md "wikilink")や[カメラ](../Page/カメラ.md "wikilink")等の[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")機器、[情報通信](https://ja.wikipedia.org/wiki/情報通信 "wikilink")機器部品、[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")、その他の輸出入・国内販売及び製造を手がける会社である。

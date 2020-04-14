@@ -1,4 +1,4 @@
-> この記事は[BLUE DRAGON presents ](https://ja.wikipedia.org/wiki/BLUE_DRAGON_presents_)から翻訳されています。
+> この記事は[BLUE DRAGON presents 三日月の散歩](https://ja.wikipedia.org/wiki/BLUE_DRAGON_presents_三日月の散歩)から翻訳されています。
 
 
 **BLUE DRAGON presents 三日月の散歩**（ブルードラゴンプレゼンツ みかづきのさんぽ）は[TOKYO FM](../Page/エフエム東京.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[FM AICHIで放送された](../Page/エフエム愛知.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SP ](https://ja.wikipedia.org/wiki/SP_)から翻訳されています。
+> この記事は[SPアワー 名演は時を越えて](https://ja.wikipedia.org/wiki/SPアワー_名演は時を越えて)から翻訳されています。
 
 
 **SPアワー 名演は時を越えて**（エスピーアワー めいえんはときをこえて）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた番組。2006年[9月29日](../Page/9月29日.md "wikilink")までは、「**SPアワー 名曲は時を越えて**」というタイトルだった。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。

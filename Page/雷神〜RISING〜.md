@@ -1,4 +1,4 @@
-> この記事は[RISING](https://ja.wikipedia.org/wiki/RISING)から翻訳されています。
+> この記事は[雷神〜RISING〜](https://ja.wikipedia.org/wiki/雷神〜RISING〜)から翻訳されています。
 
 
 『**雷神〜RISING〜**』（らいじん）は、[真船一雄](../Page/真船一雄.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。2000年27号から2001年12号の『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて連載していた[野球漫画](../Page/野球漫画.md "wikilink")で、単行本は全4巻。話の主な舞台は[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")ではなくインディペンデント・マイナー、いわゆる[独立リーグ](../Page/独立リーグ.md "wikilink")である。

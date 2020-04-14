@@ -1,4 +1,4 @@
-> この記事は[HOLD ON ME!](https://ja.wikipedia.org/wiki/HOLD_ON_ME!)から翻訳されています。
+> この記事は[モーニング刑事。抱いてHOLD ON ME!](https://ja.wikipedia.org/wiki/モーニング刑事。抱いてHOLD_ON_ME!)から翻訳されています。
 
 
 『**モーニング刑事。抱いてHOLD ON ME\!**』（モーニングコップ だいてホールド オン ミー）は、日本の[映画](../Page/映画.md "wikilink")作品。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月18日](../Page/8月18日.md "wikilink")公開。

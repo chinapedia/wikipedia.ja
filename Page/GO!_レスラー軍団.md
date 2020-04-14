@@ -1,4 +1,4 @@
-> この記事は[GO! ](https://ja.wikipedia.org/wiki/GO!_)から翻訳されています。
+> この記事は[GO! レスラー軍団](https://ja.wikipedia.org/wiki/GO!_レスラー軍団)から翻訳されています。
 
 
 『**GO\! レスラー軍団**』（ゴー-ぐんだん）は、[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")により制作された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から同年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放映された。

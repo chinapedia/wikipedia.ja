@@ -1,4 +1,4 @@
-> この記事は[CR ](https://ja.wikipedia.org/wiki/CR_)から翻訳されています。
+> この記事は[CRぱちんこ仮面ライダー ショッカー全滅大作戦](https://ja.wikipedia.org/wiki/CRぱちんこ仮面ライダー_ショッカー全滅大作戦)から翻訳されています。
 
 
 **CRぱちんこ仮面ライダー～ショッカー全滅大作戦～**（シーアールぱちんこかめんライダー ショッカーぜんめつだいさくせん）は、[京楽産業.](../Page/京楽産業..md "wikilink")が発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。[2007年](../Page/2007年.md "wikilink")7月導入。[保通協における登録名は](../Page/保安通信協会.md "wikilink")「CRぱちんこ仮面ライダー2」。[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ。

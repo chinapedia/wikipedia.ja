@@ -1,4 +1,4 @@
-> この記事は[!\?KEN!](https://ja.wikipedia.org/wiki/!\?KEN!)から翻訳されています。
+> この記事は[どーしちゃったの!\?KENにーちゃん!](https://ja.wikipedia.org/wiki/どーしちゃったの!\?KENにーちゃん!)から翻訳されています。
 
 
 『**どーしちゃったの\!?KENにいちゃん\!**』（どーしちゃったの\!?ケンにいちゃん\!）は、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")より発行されていた、『[コミックライジン](https://ja.wikipedia.org/wiki/コミックライジン "wikilink")』に1号から8号まで連載された[永野のりこ](../Page/永野のりこ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[HAV \(\)](https://ja.wikipedia.org/wiki/HAV_\(\))から翻訳されています。
+> この記事は[HAV \(バンド\)](https://ja.wikipedia.org/wiki/HAV_\(バンド\))から翻訳されています。
 
 
 **HAV**（ハブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[フライトマスター](../Page/フライトマスター.md "wikilink")。

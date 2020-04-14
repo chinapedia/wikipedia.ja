@@ -1,4 +1,4 @@
-> この記事は[ LastOrder](https://ja.wikipedia.org/wiki/_LastOrder)から翻訳されています。
+> この記事は[銃夢 LastOrder](https://ja.wikipedia.org/wiki/銃夢_LastOrder)から翻訳されています。
 
 
 『**銃夢 LastOrder**』（ガンム ラストオーダー、*GUNNM LastOrder*）は、[木城ゆきと](../Page/木城ゆきと.md "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[格闘漫画](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")で、『[銃夢](../Page/銃夢.md "wikilink")』の続編である。[集英社](../Page/集英社.md "wikilink")の雑誌『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』にて[2000年](../Page/2000年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にかけて100話を連載するが、『銃夢』新装版における台詞修正を巡る集英社法務部との諍い\[1\]により連載終了し、講談社へ移籍して2011年3月22日発売の『[イブニング](../Page/イブニング.md "wikilink")』2011年8号より連載再開、2014年1月28日発売の同誌2014年4号まで連載された。

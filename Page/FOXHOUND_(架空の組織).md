@@ -1,4 +1,4 @@
-> この記事は[FOXHOUND \(\)](https://ja.wikipedia.org/wiki/FOXHOUND_\(\))から翻訳されています。
+> この記事は[FOXHOUND \(架空の組織\)](https://ja.wikipedia.org/wiki/FOXHOUND_\(架空の組織\))から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,11 +1,11 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAウラカン](https://ja.wikipedia.org/wiki/CAウラカン)から翻訳されています。
 
 
-**クルブ・アトレティコ・ウラカン** () は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の首都[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")[パルケ・パトリシオス](https://ja.wikipedia.org/wiki/パルケ・パトリシオス "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**クルブ・アトレティコ・ウラカン**（**Club Atlético Huracán** ()）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の首都[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")[パルケ・パトリシオス](https://ja.wikipedia.org/wiki/パルケ・パトリシオス "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
-1903年にチーム名を"Verde Esperanza y Nunca Pierde"（蒼き希望と不屈）という名前のチーム名にしてクラブを設立した。しかし、メンバーが文房具店へチームのゴム印鑑を作るために行ったところ、そこの店主に「短い名前にした方がいい。そうしないとかなりでかいゴム印を作らなければならなくなる」と言われた。その時、メンバーの1人が文房具店のカレンダーにEL Huracan（エル・ウラカン：ハリケーンの意）という文字が書いてあるのを見て、閃き、それをチーム名にすることを仲間に提案したところ、了承されてチーム名が**ウラカン** (*Huracan*) となった。そして、1908年11月1日、正式なクラブ名を**クラブ・アトレチコ・ウラカン** (Club Atletico Huracan) とした。
+1903年にチーム名を"Verde Esperanza y Nunca Pierde"（蒼き希望と不屈）という名前のチーム名にしてクラブを設立した。しかし、メンバーが文房具店へチームのゴム印鑑を作るために行ったところ、そこの店主に「短い名前にした方がいい。そうしないとかなりでかいゴム印を作らなければならなくなる」と言われた。その時、メンバーの1人が文房具店のカレンダーにEL Huracan（エル・ウラカン：ハリケーンの意）という文字が書いてあるのを見て、閃き、それをチーム名にすることを仲間に提案したところ、了承されてチーム名が**ウラカン** (*Huracan*) となった。そして、1908年11月1日、正式なクラブ名を**クルブ・アトレティコ・ウラカン**（**Club Atlético Huracán**）とした。
 
 1973年にメトロポリターノで優勝し、プロ化以降、初優勝を飾る。監督は[セサル・メノッティであった](../Page/セサル・ルイス・メノッティ.md "wikilink")。2007-08シーズンに[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")（1部）に復帰した。[ミゲル・アンヘル・カッパ](https://ja.wikipedia.org/wiki/ミゲル・アンヘル・カッパ "wikilink")監督に率いられた2009クラウスーラでは、[マリオ・ボラッティ](https://ja.wikipedia.org/wiki/マリオ・ボラッティ "wikilink")などが印象的な活躍を見せ、最終節を前にして首位に立っていた\[1\]。2位[CAベレス・サルスフィエルド](../Page/CAベレス・サルスフィエルド.md "wikilink")との直接対決となった最終節は引き分けでも優勝が決まる有利な状況にあったが、引き分けが濃厚であった83分に決勝点を決められて敗れ、勝ち点でベレスに逆転されて2位に終わった\[2\]。ウラカンの（映像で見る限り正当な）得点がオフサイドと判断されて無効となり、ベレスの決勝点の際にキーパーチャージがあった可能性があるなど、試合を左右した主審の判定は試合後も物議を醸した\[3\]。2011-12シーズンに再び[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）へ降格した。
 
@@ -133,7 +133,7 @@
 
   - [オスバルド・ソサ](https://ja.wikipedia.org/wiki/オスバルド・ソサ "wikilink") (2006)
 
-  - [オスバルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") (2007)
+  - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") (2007)
 
   - [クラウディオ・ウベダ](../Page/クラウディオ・ウベダ.md "wikilink") (2008)
 
@@ -151,11 +151,21 @@
 
   - [フアン・マヌエル・ジョップ](https://ja.wikipedia.org/wiki/フアン・マヌエル・ジョップ "wikilink") (2012-2013)
 
-  - [アントニオ・モアメド](https://ja.wikipedia.org/wiki/アントニオ・モハメド "wikilink") (2013)
+  - [アントニオ・モハメド](https://ja.wikipedia.org/wiki/アントニオ・モハメド "wikilink") (2013)
 
   - [ネストル・アプーソ](https://ja.wikipedia.org/wiki/ネストル・アプーソ "wikilink") (2014-2015)
 
   - [エドゥアルド・ドミンゲス](https://ja.wikipedia.org/wiki/エドゥアルド・ドミンゲス "wikilink") (2015-2016)
+
+  - [リカルド・カルーソ・ロンバルディ](https://ja.wikipedia.org/wiki/リカルド・カルーソ・ロンバルディ "wikilink") (2016)
+
+  - [フアン・マヌエル・アスコンサバル](https://ja.wikipedia.org/wiki/フアン・マヌエル・アスコンサバル "wikilink") (2016-2017)
+
+  - [ネストル・アプーソ](https://ja.wikipedia.org/wiki/ネストル・アプーソ "wikilink") (2017)
+
+  - [グスタボ・アルファロ](https://ja.wikipedia.org/wiki/グスタボ・アルファロ "wikilink") (2017–2018)
+
+  - [アントニオ・モハメド](https://ja.wikipedia.org/wiki/アントニオ・モハメド "wikilink") (2019)
 
 ## 歴代所属選手
 
@@ -171,8 +181,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.clubahuracan.com.ar/)
-  - [Patria Quemera](http://www.patriaquemera.com.ar/)
+  - [公式サイト](https://cahuracan.com/)
 
 [Category:ブエノスアイレスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブエノスアイレスのサッカークラブ "wikilink")
 

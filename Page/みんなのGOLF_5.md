@@ -1,4 +1,4 @@
-> この記事は[GOLF 5](https://ja.wikipedia.org/wiki/GOLF_5)から翻訳されています。
+> この記事は[みんなのGOLF 5](https://ja.wikipedia.org/wiki/みんなのGOLF_5)から翻訳されています。
 
 
 『**みんなのGOLF 5**』（みんなのゴルフ ファイブ / EVERYBODY'S GOLF 5）はソニー・コンピュータエンタテインメント\]（のち[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）より[2007年](../Page/2007年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（PS3）専用[ゴルフゲーム](https://ja.wikipedia.org/wiki/ゴルフゲーム "wikilink")。『[みんなのGOLF](../Page/みんなのGOLF.md "wikilink")』シリーズのナンバリングタイトル第5作である。通称**みんゴル5**。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月11日](../Page/12月11日.md "wikilink")に廉価版が、[2011年](../Page/2011年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に再廉価版が発売された。
@@ -175,7 +175,7 @@
 
 ### 中級キャラクター
 
-  - ユミン（声優：[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")）（P 254y／C 14(B)／I 13(B)／S 9(C)／SS 10(C)）
+  - ユミン（声優：[田中理恵](../Page/田中理恵_\(声優\).md "wikilink")）（P 254y／C 14(B)／I 13(B)／S 9(C)／SS 10(C)）
 
 :\*性別：♀
 

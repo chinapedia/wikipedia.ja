@@ -1,4 +1,4 @@
-> この記事は[GLR](https://ja.wikipedia.org/wiki/GLR)から翻訳されています。
+> この記事は[GLR法](https://ja.wikipedia.org/wiki/GLR法)から翻訳されています。
 
 
 **GLR法**または**一般化LR法**（[英](../Page/英語.md "wikilink"): **GLR parser**）とは、非決定的で曖昧な文法を扱うよう[LR法](../Page/LR法.md "wikilink")を拡張したもの（"Generalized LR parser"）である。1986年、[冨田勝](../Page/冨田勝.md "wikilink")が発表した。**冨田法**、**並列構文解析法**とも呼ばれる。

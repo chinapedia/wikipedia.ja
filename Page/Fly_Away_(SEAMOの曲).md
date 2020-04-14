@@ -1,4 +1,4 @@
-> この記事は[Fly Away \(SEAMO\)](https://ja.wikipedia.org/wiki/Fly_Away_\(SEAMO\))から翻訳されています。
+> この記事は[Fly Away \(SEAMOの曲\)](https://ja.wikipedia.org/wiki/Fly_Away_\(SEAMOの曲\))から翻訳されています。
 
 
 「**Fly Away**」（フライ・アウェイ）は、[SEAMO](../Page/SEAMO.md "wikilink")の7枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[-RON-](https://ja.wikipedia.org/wiki/-RON-)から翻訳されています。
+> この記事は[龍-RON-](https://ja.wikipedia.org/wiki/龍-RON-)から翻訳されています。
 
 
 『**龍-RON-**』（りゅう ロン）は、[村上もとか](../Page/村上もとか.md "wikilink")によって[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2006年](../Page/2006年.md "wikilink")まで『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』（小学館）にて連載された[歴史漫画](../Page/歴史漫画.md "wikilink")、またそれを原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

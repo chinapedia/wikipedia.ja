@@ -1,4 +1,4 @@
-> この記事は[MIM-14 \(\)](https://ja.wikipedia.org/wiki/MIM-14_\(\))から翻訳されています。
+> この記事は[MIM-14 \(ミサイル\)](https://ja.wikipedia.org/wiki/MIM-14_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MIM-14 ナイキ・ハーキュリーズ | 画像=<File:MIM-14> Nike-Hercules 02.jpg | キャプション=発射機上のMIM-14 ナイキ・ハーキュリーズ | 用途=地対空迎撃 | 分類=[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")、[核ミサイル](../Page/核ミサイル.md "wikilink") | 設計者= | 製造者=ウェスタン・エレクトリック | 運用者 more=：

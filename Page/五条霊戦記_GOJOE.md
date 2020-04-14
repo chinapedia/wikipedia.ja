@@ -1,4 +1,4 @@
-> この記事は[ GOJOE](https://ja.wikipedia.org/wiki/_GOJOE)から翻訳されています。
+> この記事は[五条霊戦記 GOJOE](https://ja.wikipedia.org/wiki/五条霊戦記_GOJOE)から翻訳されています。
 
 
 『**五条霊戦記 GOJOE**』（ごじょうれいせんき）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）に製作・公開された[日本映画](../Page/日本映画.md "wikilink")。

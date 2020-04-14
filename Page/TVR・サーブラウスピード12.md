@@ -1,4 +1,4 @@
-> この記事は[TVR12](https://ja.wikipedia.org/wiki/TVR12)から翻訳されています。
+> この記事は[TVR・サーブラウスピード12](https://ja.wikipedia.org/wiki/TVR・サーブラウスピード12)から翻訳されています。
 
 
 **サーブラウ スピード12**（*Cerbera Speed 12* ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[TVR](../Page/TVR.md "wikilink")が開発していたスポーツカー。

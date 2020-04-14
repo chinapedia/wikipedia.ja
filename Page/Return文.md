@@ -1,4 +1,4 @@
-> この記事は[Return](https://ja.wikipedia.org/wiki/Return)から翻訳されています。
+> この記事は[Return文](https://ja.wikipedia.org/wiki/Return文)から翻訳されています。
 
 
 **return文**（リターンぶん、）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")における[文の一つである](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")。[goto文](https://ja.wikipedia.org/wiki/goto文 "wikilink")や[break文](https://ja.wikipedia.org/wiki/break文 "wikilink")、[continue文](https://ja.wikipedia.org/wiki/continue文 "wikilink")のようなジャンプ文 () に分類される。[サブルーチン](../Page/サブルーチン.md "wikilink")からの復帰に使われ、復帰と同時に[値を返すことができる](../Page/値_\(情報工学\).md "wikilink")。その値は**戻り値**（もどりち、）、**返り値**（かえりち）、**返却値**（へんきゃくち）あるいはそのまま**return値**（リターンち）などと呼ばれる。

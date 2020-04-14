@@ -1,4 +1,4 @@
-> この記事は[GI](https://ja.wikipedia.org/wiki/GI)から翻訳されています。
+> この記事は[GIベビー](https://ja.wikipedia.org/wiki/GIベビー)から翻訳されています。
 
 
 **GIベビー**とは、[連合国軍占領下の日本](../Page/連合国軍占領下の日本.md "wikilink")に、[GI](https://ja.wikipedia.org/wiki/GI_\(軍隊\) "wikilink")（[アメリカ軍](../Page/アメリカ軍.md "wikilink")や[イギリス軍](../Page/イギリス軍.md "wikilink")）を中心とした[連合国軍の兵士と日本人女性との間に生まれた](../Page/連合国_\(第二次世界大戦\).md "wikilink")[乳幼児](https://ja.wikipedia.org/wiki/乳幼児 "wikilink")や[子供](../Page/子供.md "wikilink")である。

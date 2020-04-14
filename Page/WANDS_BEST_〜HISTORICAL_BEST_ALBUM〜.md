@@ -1,4 +1,4 @@
-> この記事は[WANDS BEST HISTORICAL BEST ALBUM](https://ja.wikipedia.org/wiki/WANDS_BEST_HISTORICAL_BEST_ALBUM)から翻訳されています。
+> この記事は[WANDS BEST 〜HISTORICAL BEST ALBUM〜](https://ja.wikipedia.org/wiki/WANDS_BEST_〜HISTORICAL_BEST_ALBUM〜)から翻訳されています。
 
 
 『**WANDS BEST 〜HISTORICAL BEST ALBUM〜**』（ワンズ・ベスト ヒストリカル・ベスト・アルバム）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された[WANDS](../Page/WANDS.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[THE NITE](https://ja.wikipedia.org/wiki/THE_NITE)から翻訳されています。
+> この記事は[大西貴文のTHE NITE](https://ja.wikipedia.org/wiki/大西貴文のTHE_NITE)から翻訳されています。
 
 
 **大西貴文のTHE NITE**（おおにしたかふみのザ・ナイト）は、[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[ミュージックバード for コミュニティFMで放送されているラジオ番組](https://ja.wikipedia.org/wiki/ミュージックバード#コミュニティ "wikilink")。当番組を視聴するには、ネットを行う[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局を経由で聴取する必要がある。

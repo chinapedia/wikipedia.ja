@@ -1,4 +1,4 @@
-> この記事は[Play \(\)](https://ja.wikipedia.org/wiki/Play_\(\))から翻訳されています。
+> この記事は[Play \(シドのアルバム\)](https://ja.wikipedia.org/wiki/Play_\(シドのアルバム\))から翻訳されています。
 
 
 『**play**』（プレイ）は、[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")にリリースされた[シドの](../Page/シド_\(バンド\).md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")である。

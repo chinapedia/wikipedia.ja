@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[パイサンドゥSC](https://ja.wikipedia.org/wiki/パイサンドゥSC)から翻訳されています。
 
 
 **パイサンドゥSC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[パラー州](../Page/パラー州.md "wikilink")[ベレンを本拠地とする](../Page/ベレン_\(パラー州\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

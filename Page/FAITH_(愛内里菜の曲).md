@@ -1,4 +1,4 @@
-> この記事は[FAITH \(\)](https://ja.wikipedia.org/wiki/FAITH_\(\))から翻訳されています。
+> この記事は[FAITH \(愛内里菜の曲\)](https://ja.wikipedia.org/wiki/FAITH_\(愛内里菜の曲\))から翻訳されています。
 
 
 「**FAITH**」（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。

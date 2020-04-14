@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-みやこ](https://ja.wikipedia.org/wiki/NTT西日本-みやこ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Time_capsule6837.JPG "wikilink") **株式会社NTT西日本－みやこ**（エヌティティにしにほん－みやこ）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、[大阪市](../Page/大阪市.md "wikilink")）の子会社。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")に本社を置き、電気通信設備関係や工事関係などで主に[京都府](../Page/京都府.md "wikilink")と[滋賀県](../Page/滋賀県.md "wikilink")と[奈良県](../Page/奈良県.md "wikilink")を管轄していた。

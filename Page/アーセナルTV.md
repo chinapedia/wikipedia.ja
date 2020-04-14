@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[アーセナルTV](https://ja.wikipedia.org/wiki/アーセナルTV)から翻訳されています。
 
 
 **アーセナルTV**（Arsenal TV）は、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に所属している[アーセナルFC](../Page/アーセナルFC.md "wikilink")が運営しているオフィシャルクラブTV。

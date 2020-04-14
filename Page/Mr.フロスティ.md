@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.フロスティ](https://ja.wikipedia.org/wiki/Mr.フロスティ)から翻訳されています。
 
 
 **Mr.フロスティ**（ミスター フロスティ）は[任天堂](../Page/任天堂.md "wikilink")の[ゲーム](../Page/ゲーム.md "wikilink")シリーズ、『[星のカービィシリーズ](../Page/星のカービィシリーズ.md "wikilink")』に登場する架空の[キャラクター](../Page/キャラクター.md "wikilink")である。

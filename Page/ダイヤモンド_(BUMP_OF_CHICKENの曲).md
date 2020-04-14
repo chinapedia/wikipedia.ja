@@ -1,4 +1,4 @@
-> この記事は[ \(BUMP OF CHICKEN\)](https://ja.wikipedia.org/wiki/_\(BUMP_OF_CHICKEN\))から翻訳されています。
+> この記事は[ダイヤモンド \(BUMP OF CHICKENの曲\)](https://ja.wikipedia.org/wiki/ダイヤモンド_\(BUMP_OF_CHICKENの曲\))から翻訳されています。
 
 
 「**ダイヤモンド**」は、[BUMP OF CHICKENのメジャーデビュー](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。

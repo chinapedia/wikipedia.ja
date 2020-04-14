@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[ジャニーズJr.一覧](https://ja.wikipedia.org/wiki/ジャニーズJr.一覧)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -31,7 +31,7 @@
   - 石垣大祐
   - 石渡大和
 
-<!-- end list -->
+岩本れお
 
   - 稲葉光
   - 稲葉通陽
@@ -78,11 +78,10 @@
 
   - 岸本慎太郎
   - 北川拓実
-  - キャメロン
 
 ### く
 
-  - 久保廉
+  - [久保廉](https://ja.wikipedia.org/wiki/久保廉 "wikilink")
   - 黒田光輝
 
 ### け
@@ -98,7 +97,7 @@
   - 齋藤颯
   - [作間龍斗](https://ja.wikipedia.org/wiki/作間龍斗 "wikilink")
   - 佐久間玲駈
-  - [佐々木彪瑠](https://ja.wikipedia.org/wiki/佐々木彪瑠 "wikilink")
+  - 佐々木彪瑠
   - 佐々木大光
   - 佐藤新
   - [佐藤龍我](https://ja.wikipedia.org/wiki/佐藤龍我 "wikilink")
@@ -143,7 +142,7 @@
   - 田中誠治
   - 田仲陽成
   - 田村匠
-  - 谷村龍一
+  - [谷村龍一](https://ja.wikipedia.org/wiki/谷村龍一 "wikilink")
   - 田村海琉
 
 ### ち
@@ -175,7 +174,7 @@
   - 中村大輝
   - 中村侑輝
   - [中村嶺亜](https://ja.wikipedia.org/wiki/中村嶺亜 "wikilink")
-  - 那須雄登
+  - [那須雄登](https://ja.wikipedia.org/wiki/那須雄登 "wikilink")
 
 ### に
 
@@ -319,8 +318,8 @@
   - [佐野晶哉](https://ja.wikipedia.org/wiki/佐野晶哉 "wikilink")
   - 澤田雅也
   - 嶋﨑斗亜
-  - 末澤誠也
-  - 角紳太郎
+  - [末澤誠也](https://ja.wikipedia.org/wiki/末澤誠也 "wikilink")
+  - 角紳太郎あ
   - 千田藍生
 
 ### た行
@@ -352,7 +351,9 @@
   - [正門良規](https://ja.wikipedia.org/wiki/正門良規 "wikilink")
   - 真弓孟之
   - 丸岡晃聖
-  - 丸山永遠
+
+<!-- end list -->
+
   - [道枝駿佑](https://ja.wikipedia.org/wiki/道枝駿佑 "wikilink")
   -
   - 森本悠阿

@@ -1,4 +1,4 @@
-> この記事は[Cobaltore](https://ja.wikipedia.org/wiki/Cobaltore)から翻訳されています。
+> この記事は[Cobaltore女川](https://ja.wikipedia.org/wiki/Cobaltore女川)から翻訳されています。
 
 
 **Cobaltore女川**（Cobaltoreおながわ、、コバルトーレ女川）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[牡鹿郡](https://ja.wikipedia.org/wiki/牡鹿郡 "wikilink")[女川町](https://ja.wikipedia.org/wiki/女川町 "wikilink")をホームタウンとする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。呼称は**コバルトーレ女川**である。
@@ -103,7 +103,7 @@
 
 ## 所属選手・スタッフ
 
-**[2019年](../Page/2019年.md "wikilink")**
+**[2020年](../Page/2020年.md "wikilink")**
 
 ### スタッフ
 
@@ -132,7 +132,7 @@
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/隅田翔" title="wikilink">隅田翔</a></p></td>
 <td><p>Cobaltore女川ジュニアユース 監督</p></td>
-<td><p>新任</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>GKコーチ</strong></p></td>
@@ -172,14 +172,30 @@
 <td><p><strong>1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木村憩輔" title="wikilink">木村憩輔</a></p></td>
 <td><p>歳</p></td>
-<td><p><a href="../Page/FCガンジュ岩手.md" title="wikilink">FCガンジュ岩手</a></p></td>
-<td><p>新加入</p></td>
+<td><p> <a href="../Page/FCガンジュ岩手.md" title="wikilink">FCガンジュ岩手</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>21</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/速水佑一郎" title="wikilink">速水佑一郎</a></p></td>
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/野坂浩亮" title="wikilink">野坂浩亮</a></p></td>
 <td><p>歳</p></td>
-<td><p><a href="../Page/大阪府立芥川高等学校.md" title="wikilink">芥川高校</a></p></td>
+<td><p> <a href="../Page/ラインメール青森.md" title="wikilink">ラインメール青森</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石塚亮" title="wikilink">石塚亮</a></p></td>
+<td><p>歳</p></td>
+<td><p> <a href="../Page/富士大学.md" title="wikilink">富士大学</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤聖士" title="wikilink">加藤聖士</a></p></td>
+<td><p>歳</p></td>
+<td><p> <a href="../Page/酪農学園大学附属とわの森三愛高等学校.md" title="wikilink">酪農学園大学附属とわの森三愛高校</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -193,26 +209,10 @@
 </tr>
 <tr class="odd">
 <td><p><strong>DF</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小田切啓" title="wikilink">小田切啓</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルヤス工業フットボールクラブ" title="wikilink">FCマルヤス岡崎</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/及川陸" title="wikilink">及川陸</a></p></td>
-<td><p>歳</p></td>
-<td><p>Cobaltore女川U-18</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮坂瑠" title="wikilink">宮坂瑠</a> <a href="https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg" title="wikilink">18px</a></p></td>
 <td><p>歳</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -228,7 +228,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/山内晴貴" title="wikilink">山内晴貴</a></p></td>
 <td><p>歳</p></td>
 <td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -236,7 +236,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/中村彦聖" title="wikilink">中村彦聖</a></p></td>
 <td><p>歳</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハミルトン・ワンダラーズAFC" title="wikilink">ハミルトン・ワンダラーズAFC</a></p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -245,6 +245,22 @@
 <td><p>歳</p></td>
 <td><p>ヴァンラーレ八戸</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/崔希正" title="wikilink">崔希正</a></p></td>
+<td><p>歳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCコリア" title="wikilink">FCコリア</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/菊地佑太" title="wikilink">菊地佑太</a></p></td>
+<td><p>歳</p></td>
+<td><p><a href="../Page/ソルティーロ・アンコールFC.md" title="wikilink">ソルティーロ・アンコールFC</a></p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -280,50 +296,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>11</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥山祥之" title="wikilink">鳥山祥之</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/栃木シティフットボールクラブ.md" title="wikilink">栃木ウーヴァFC</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>15</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南口駿" title="wikilink">南口駿</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>17</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/畑中秀斗" title="wikilink">畑中秀斗</a></p></td>
-<td><p>歳</p></td>
-<td><p>仙台大学</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>18</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森蔭冬威" title="wikilink">森蔭冬威</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="../Page/尚志高等学校.md" title="wikilink">尚志高校</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠藤一耀" title="wikilink">遠藤一耀</a></p></td>
 <td><p>歳</p></td>
 <td><p><a href="../Page/東北生活文化大学高等学校.md" title="wikilink">東北生文大高校</a></p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋晃司" title="wikilink">高橋晃司</a></p></td>
 <td><p>歳</p></td>
-<td><p>仙台大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -336,6 +320,30 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田樹" title="wikilink">吉田樹</a></p></td>
+<td><p>歳</p></td>
+<td><p> <a href="https://ja.wikipedia.org/wiki/セントラル・ユナイテッドFC" title="wikilink">セントラル・ユナイテッドFC</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/船木省吾" title="wikilink">船木省吾</a></p></td>
+<td><p>歳</p></td>
+<td><p>JAPANサッカーカレッジ</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山元佑哉" title="wikilink">山元佑哉</a></p></td>
+<td><p>歳</p></td>
+<td><p>FCガンジュ岩手</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -343,7 +351,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/千葉洸星" title="wikilink">千葉洸星</a></p></td>
@@ -351,7 +359,7 @@
 <td><p>Cobaltore女川U-18</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>14</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田圭_(サッカー選手)" title="wikilink">吉田圭</a></p></td>
 <td><p>歳</p></td>
@@ -359,29 +367,69 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>16</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/梅田至" title="wikilink">梅田至</a></p></td>
 <td><p>歳</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SV_FCサンジャク・フランクフルト" title="wikilink">SV FCサンジャク・フランクフルト</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>28</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野口龍也" title="wikilink">野口龍也</a></p></td>
-<td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HBO東京" title="wikilink">HBO東京</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>29</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉銀次郎" title="wikilink">千葉銀次郎</a></p></td>
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹田そら" title="wikilink">竹田そら</a></p></td>
 <td><p>歳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塩釜NTFCヴィーゼ" title="wikilink">塩釜FCユース</a></p></td>
+<td><p><a href="../Page/同志社大学.md" title="wikilink">同志社大学</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本庄竜大" title="wikilink">本庄竜大</a></p></td>
+<td><p>歳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京ユナイテッドFC" title="wikilink">東京ユナイテッドFC</a></p></td>
+<td><p>新加入<br />
+<a href="../Page/期限付き移籍.md" title="wikilink">期限付き移籍</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>--</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桑田大幹" title="wikilink">桑田大幹</a></p></td>
+<td><p>歳</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/福井ユナイテッドFC" title="wikilink">福井ユナイテッドFC</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 期限付き移籍加入の選手
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Pos</p></td>
+<td><p>選手名</p></td>
+<td><p>生年月日</p></td>
+<td><p>移籍元</p></td>
+<td><p>移籍期間</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>FW</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本庄竜大" title="wikilink">本庄竜大</a></p></td>
+<td></td>
+<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
+<td><p>2020年2月27日 - 2021年1月31日</p></td>
+<td><p>育成型期限付き移籍</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -529,14 +577,6 @@ Japón-Hasekura</p></td>
 2018年6月 - 12月は背中下部</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://travel-house.jp/">トラベルハウス</a></p></td>
-<td><p>TRAVEL<br />
-HOUSE</p></td>
-<td><p>2019年 -</p></td>
-<td><p>左袖に表記</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>パンツ</p></td>
 <td><p><a href="http://www.re-trust.com/">無添加計画</a></p></td>
 <td><p>㍿ 無添加計画<br />
@@ -713,8 +753,8 @@ Japón-Hasekura</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/女川町" title="wikilink">女川町</a>（右）</p></td>
 <td></td>
 <td></td>
 <td></td>

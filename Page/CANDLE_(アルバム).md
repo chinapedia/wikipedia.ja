@@ -1,4 +1,4 @@
-> この記事は[CANDLE \(\)](https://ja.wikipedia.org/wiki/CANDLE_\(\))から翻訳されています。
+> この記事は[CANDLE \(アルバム\)](https://ja.wikipedia.org/wiki/CANDLE_\(アルバム\))から翻訳されています。
 
 
 『**CANDLE**』（キャンドル）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")2枚目のアルバム。

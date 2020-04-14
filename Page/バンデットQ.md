@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[バンデットQ](https://ja.wikipedia.org/wiki/バンデットQ)から翻訳されています。
 
 
 『**バンデットQ**』（*Time Bandits*）は、[1981年の](../Page/1981年の映画.md "wikilink")[イギリスの](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")[ファンタジー映画](https://ja.wikipedia.org/wiki/ファンタジー映画 "wikilink")。監督は[テリー・ギリアム](../Page/テリー・ギリアム.md "wikilink")。製作総指揮と[主題歌](../Page/主題歌.md "wikilink")を元[ザ・ビートルズの](../Page/ビートルズ.md "wikilink")[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")が手がけている。

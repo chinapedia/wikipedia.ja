@@ -1,4 +1,4 @@
-> この記事は[JOY SOUND!](https://ja.wikipedia.org/wiki/JOY_SOUND!)から翻訳されています。
+> この記事は[朴ロ美・宮野真守のJOY SOUNDファイト!](https://ja.wikipedia.org/wiki/朴ロ美・宮野真守のJOY_SOUNDファイト!)から翻訳されています。
 
 
 **朴璐美・宮野真守のJOY SOUNDファイト\!**（ぱくろみ・みやのまもる - ジョイサウンド - ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")まで「朴ロ美・宮野真守のポケ声ファイト\!」として放送。2010年[4月11日](../Page/4月11日.md "wikilink")より改題・リニューアル、2011年10月2日をもって終了。

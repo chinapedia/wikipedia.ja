@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[モーリス・Sシリーズ](https://ja.wikipedia.org/wiki/モーリス・Sシリーズ)から翻訳されています。
 
 
 **モーリスSシリーズ**は、[モーリスが発売している](../Page/モーリス楽器製造.md "wikilink")[フィンガーピッキング](https://ja.wikipedia.org/wiki/フィンガーピッキング "wikilink")向けの[ギター](../Page/ギター.md "wikilink")である。

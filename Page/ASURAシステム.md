@@ -1,4 +1,4 @@
-> この記事は[ASURA](https://ja.wikipedia.org/wiki/ASURA)から翻訳されています。
+> この記事は[ASURAシステム](https://ja.wikipedia.org/wiki/ASURAシステム)から翻訳されています。
 
 
 **ASURAシステム**（アシュラシステム）は、コスモエンジニアリング（現[クラウドゲート](../Page/クラウドゲート_\(企業\).md "wikilink")）によって発表された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の汎用ルール。 コスモエンジニアリングおよびテラネッツからASURAシステムを使用した作品が複数発売されている。

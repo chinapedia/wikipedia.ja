@@ -1,4 +1,4 @@
-> この記事は[PIKANCHI DOUBLE](https://ja.wikipedia.org/wiki/PIKANCHI_DOUBLE)から翻訳されています。
+> この記事は[PIKA★★NCHI DOUBLE](https://ja.wikipedia.org/wiki/PIKA★★NCHI_DOUBLE)から翻訳されています。
 
 
 「**PIKA★★NCHI DOUBLE**」（ピカンチ ダブル）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")発売。発売元は[J Storm](../Page/ジェイ・ストーム.md "wikilink")。

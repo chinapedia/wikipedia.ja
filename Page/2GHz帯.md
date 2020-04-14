@@ -1,4 +1,4 @@
-> この記事は[2GHz](https://ja.wikipedia.org/wiki/2GHz)から翻訳されています。
+> この記事は[2GHz帯](https://ja.wikipedia.org/wiki/2GHz帯)から翻訳されています。
 
 
 **2GHz帯**（トゥー[ギガヘルツ](../Page/ギガヘルツ.md "wikilink")たい）は、およそ 1920 - 2200 MHz の[周波数](../Page/周波数.md "wikilink")範囲の周波数帯である。[波長](../Page/波長.md "wikilink")は、15[cm程度である](../Page/センチメートル.md "wikilink")。

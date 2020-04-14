@@ -1,4 +1,4 @@
-> この記事は[YMCA](https://ja.wikipedia.org/wiki/YMCA)から翻訳されています。
+> この記事は[大阪YMCA国際専門学校](https://ja.wikipedia.org/wiki/大阪YMCA国際専門学校)から翻訳されています。
 
 
 **大阪YMCA国際専門学校**（おおさかワイエムシーエーこくさいせんもんがっこう）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西区にある私立](../Page/西区_\(大阪市\).md "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。
@@ -48,7 +48,7 @@
 
 ## 交通
 
-  - [大阪市高速電気軌道四つ橋線](../Page/大阪市高速電気軌道四つ橋線.md "wikilink")[肥後橋駅](https://ja.wikipedia.org/wiki/肥後橋駅 "wikilink")下車徒歩約5分
+  - [Osaka Metro四つ橋線](https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線 "wikilink")[肥後橋駅](https://ja.wikipedia.org/wiki/肥後橋駅 "wikilink")下車徒歩約5分
   - [京阪中之島線](../Page/京阪中之島線.md "wikilink")[渡辺橋駅](https://ja.wikipedia.org/wiki/渡辺橋駅 "wikilink")下車徒歩約8分
   - [大阪シティバス](../Page/大阪シティバス.md "wikilink")土佐堀1丁目停留所下車すぐ
 

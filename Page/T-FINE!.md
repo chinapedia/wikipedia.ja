@@ -93,8 +93,8 @@
 ## 関連項目
 
   - [FMTARO](../Page/おおたコミュニティ放送.md "wikilink")
-  - [TailtoNose](https://ja.wikipedia.org/wiki/TailtoNose "wikilink")(山崎善隆がGuitar Vocalを担当するRock　Band)[TailtoNose](http://www.geocities.jp/ttn20061013/st.html/)
-  - [Link Free](https://ja.wikipedia.org/wiki/Link_Free "wikilink")(山崎善隆がGuitarでサポート参加するLadies Vocal Unit)[Link Free](http://www.geocities.jp/lf_linkfree/)
+  - [TailtoNose](https://ja.wikipedia.org/wiki/TailtoNose "wikilink")(山崎善隆がGuitar Vocalを担当するRock　Band)
+  - [Link Free](https://ja.wikipedia.org/wiki/Link_Free "wikilink")(山崎善隆がGuitarでサポート参加するLadies Vocal Unit)
   - [きぃこ☆クッキー](https://ja.wikipedia.org/wiki/きぃこ☆クッキー "wikilink")(山崎善隆がGuitarでサポート参加するLadies Vocal Unit)[1](http://www5.wind.ne.jp/warming/cookie/)
 
 ## 外部リンク

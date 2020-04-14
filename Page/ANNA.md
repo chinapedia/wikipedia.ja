@@ -19,7 +19,7 @@
   - [ANNAのHAPPY-GO-LUCKY](https://ja.wikipedia.org/wiki/ANNAのHAPPY-GO-LUCKY "wikilink") （2002年 - 2006年3月、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - [ALL JAPAN SUPER COUNT DOWN](../Page/ALL_JAPAN_SUPER_COUNT_DOWN.md "wikilink") （2003年4月-2005年3月、[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
   - [爆笑問題の検索ちゃん](../Page/爆笑問題の検索ちゃん.md "wikilink")（テレビ朝日）**天の声**ナレーター（妊娠のため降板）
-  - [au DOWNLOAD MUSIC CHART](https://ja.wikipedia.org/wiki/au_DOWNLOAD_MUSIC_CHART "wikilink") （2005年4月 - 2006年12月及び2007年4月 - 2008年3月、[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - [au DOWNLOAD MUSIC CHART](https://ja.wikipedia.org/wiki/au_DOWNLOAD_MUSIC_CHART "wikilink") （2005年4月 - 2006年12月及び2007年4月 - 2008年3月、[JFN](../Page/全国FM放送協議会.md "wikilink")）
 
 ※2007年1 - 3月は出産のため番組を一時降板。代理として「[RADIO MAGAZINE WHAT'S IN?](../Page/RADIO_MAGAZINE_WHAT'S_IN?.md "wikilink")」（[1996](../Page/1996年.md "wikilink") - [2006年](../Page/2006年.md "wikilink")放送）のDJだった[江藤麻由](../Page/江藤麻由.md "wikilink")がDJを務めた。
 
@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - [ANNAオフィシャルブログ あんな話…こんな話…](http://ameblo.jp/annahanashi/) - 本人の公式ブログ
+  - [ANNAオフィシャルブログ あんな話…こんな話…](https://ameblo.jp/annahanashi/) - 本人の公式ブログ
   - [キャストコーポレーション ANNAプロフィール](http://www.cast-may.com/contents/cast_3.php) - 所属事務所による公式プロフィール
 
 [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:bayfmのパーソナリティ](https://ja.wikipedia.org/wiki/Category:bayfmのパーソナリティ "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:アメリカ系日本人](https://ja.wikipedia.org/wiki/Category:アメリカ系日本人 "wikilink")

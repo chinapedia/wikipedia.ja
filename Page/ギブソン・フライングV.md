@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ギブソン・フライングV](https://ja.wikipedia.org/wiki/ギブソン・フライングV)から翻訳されています。
 
 
 **フライングV** (**Flying V**)は、[ギブソンの](../Page/ギブソン_\(楽器メーカー\).md "wikilink")[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。[B.C.リッチ](../Page/B.C.リッチ.md "wikilink")社の[モッキンバードなどと並んで](../Page/B.C.リッチ・モッキンバード.md "wikilink")、[変形ギター](https://ja.wikipedia.org/wiki/変形ギター "wikilink")の先駆け的存在である。

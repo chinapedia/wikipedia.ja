@@ -787,13 +787,13 @@ DCCL-190～191<br />
 
   - [Danger Crue Records](http://www.dangercrue.com/)
 
-  - [CRAZY BLOG](http://ameblo.jp/girugameshblog/) - 公式ブログ
+  - [CRAZY BLOG](https://ameblo.jp/girugameshblog/) - 公式ブログ
 
   -
   -
   -
   -
-  - [ギルガメッシュ STAFF BLOG](http://ameblo.jp/girugamesh-staff/)
+  - [ギルガメッシュ STAFF BLOG](https://ameblo.jp/girugamesh-staff/)
 
   - [girugamesh](https://www.facebook.com/pages/girugamesh/121523861195422) - [Facebook](../Page/Facebook.md "wikilink")
 

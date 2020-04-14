@@ -1,4 +1,4 @@
-> この記事は[Def Tech \(\)](https://ja.wikipedia.org/wiki/Def_Tech_\(\))から翻訳されています。
+> この記事は[Def Tech \(アルバム\)](https://ja.wikipedia.org/wiki/Def_Tech_\(アルバム\))から翻訳されています。
 
 
 『**Def Tech**』（デフテック）は、[Def Techの](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[アルバム](../Page/アルバム.md "wikilink")。

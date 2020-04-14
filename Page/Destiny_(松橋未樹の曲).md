@@ -1,4 +1,4 @@
-> この記事は[Destiny \(\)](https://ja.wikipedia.org/wiki/Destiny_\(\))から翻訳されています。
+> この記事は[Destiny \(松橋未樹の曲\)](https://ja.wikipedia.org/wiki/Destiny_\(松橋未樹の曲\))から翻訳されています。
 
 
 「**destiny**」（ディスティニー）は、[松橋未樹](../Page/松橋未樹.md "wikilink")の楽曲。彼女の2枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に [GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")。

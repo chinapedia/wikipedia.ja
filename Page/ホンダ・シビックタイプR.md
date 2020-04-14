@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ホンダ・シビックタイプR](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR)から翻訳されています。
 
 
 **シビックタイプR**（Civic Type-R）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売する[ハッチバック](../Page/ハッチバック.md "wikilink")型、[スポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")型の[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。
@@ -218,7 +218,7 @@ EP3の日本仕様では、標準仕様とCパッケージの2グレードがあ
 <!-- end list -->
 
   - エンジン種類：水冷直列4気筒横置き
-  - 弁機構：DOHCチェーン駆動 吸気2 排気2 i-VTEC
+  - 弁機構：DOHCチェーン駆動 吸気2 排気2 i-VTEC・[インタークーラー](../Page/インタークーラー.md "wikilink")付[ターボ](../Page/ターボチャージャー.md "wikilink")
   - 排気量：1,995cc
   - 内径×行程：86.0mm×85.9mm
   - 圧縮比：9.8
@@ -235,7 +235,7 @@ EP3の日本仕様では、標準仕様とCパッケージの2グレードがあ
 <!-- end list -->
 
   - エンジン種類：水冷直列4気筒横置き
-  - 弁機構：DOHCチェーン駆動 吸気2 排気2 i-VTEC
+  - 弁機構：DOHCチェーン駆動 吸気2 排気2 i-VTEC・インタークーラー付ターボ
   - 排気量：1,995cc
   - 内径×行程：86.0mm×85.9mm
   - 圧縮比：9.8

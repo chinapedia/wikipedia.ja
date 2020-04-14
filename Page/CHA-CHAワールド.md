@@ -1,4 +1,4 @@
-> この記事は[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA)から翻訳されています。
+> この記事は[CHA-CHAワールド](https://ja.wikipedia.org/wiki/CHA-CHAワールド)から翻訳されています。
 
 
 『**CHA-CHAワールド**』（チャチャワールド）は、[1989年](../Page/1989年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から同年[9月24日](../Page/9月24日.md "wikilink")まで[日本テレビで放送されていた](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週日曜 12:00 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

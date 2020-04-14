@@ -1,4 +1,4 @@
-> この記事は[LAMP \(BUMP OF CHICKEN\)](https://ja.wikipedia.org/wiki/LAMP_\(BUMP_OF_CHICKEN\))から翻訳されています。
+> この記事は[LAMP \(BUMP OF CHICKENの曲\)](https://ja.wikipedia.org/wiki/LAMP_\(BUMP_OF_CHICKENの曲\))から翻訳されています。
 
 
 「**LAMP**」（ランプ）は、[BUMP OF CHICKENの唯一の](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")の[シングル](../Page/シングル.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")から発売された。現在は廃盤となっている。

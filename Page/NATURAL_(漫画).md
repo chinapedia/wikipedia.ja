@@ -1,4 +1,4 @@
-> この記事は[NATURAL \(\)](https://ja.wikipedia.org/wiki/NATURAL_\(\))から翻訳されています。
+> この記事は[NATURAL \(漫画\)](https://ja.wikipedia.org/wiki/NATURAL_\(漫画\))から翻訳されています。
 
 
 『**NATURAL**』（ナチュラル）は、[成田美名子](../Page/成田美名子.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[LaLa](../Page/LaLa.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）に[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月号から[2001年](../Page/2001年.md "wikilink")3月号にかけて掲載された。単行本全11巻。文庫版全5巻。[1990年代](../Page/1990年代.md "wikilink")の日本を舞台にした少女漫画である。

@@ -1,4 +1,4 @@
-> この記事は[MSDN  ](https://ja.wikipedia.org/wiki/MSDN__)から翻訳されています。
+> この記事は[MSDN アカデミック アライアンス](https://ja.wikipedia.org/wiki/MSDN_アカデミック_アライアンス)から翻訳されています。
 
 
 **MSDN アカデミック アライアンス** (**MSDN Academic Alliance**; **MSDN AA**) は、計算機科学、情報工学、情報技術、および関連する分野の学生と教職員に安価にマイクロソフト製ソフトウェアを提供する[マイクロソフト](../Page/マイクロソフト.md "wikilink") ([MSDN](../Page/Microsoft_Developer_Network.md "wikilink")) のプログラム。利用料金は参加する学校または学部などが支払う。各学校が得るソフトウェアの種類はその学校ごとに結ばれる契約による。このプログラムの対象は主に四年制[大学](../Page/大学.md "wikilink")、[短期大学](../Page/短期大学.md "wikilink")、[高等専門学校](../Page/高等専門学校.md "wikilink")、認可された[専門学校](../Page/専門学校.md "wikilink")等である\[1\]。かつては[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")用のプログラム (MSDN AA 高等学校版; MSDN AA HS) も、別に存在したが\[2\]、2011年1月20日をもって終了した\[3\]。

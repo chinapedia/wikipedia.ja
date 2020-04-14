@@ -1,4 +1,4 @@
-> この記事は[RISE \(\)](https://ja.wikipedia.org/wiki/RISE_\(\))から翻訳されています。
+> この記事は[RISE \(格闘技の興行\)](https://ja.wikipedia.org/wiki/RISE_\(格闘技の興行\))から翻訳されています。
 
 
 **RISE**（ライズ）は、[キックボクシング](../Page/キックボクシング.md "wikilink")[興行](../Page/興行.md "wikilink")の一つであり、RISEクリエーション株式会社が主催する。また、当興行で認定される王座を示す語としても用いられる。

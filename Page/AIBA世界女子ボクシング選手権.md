@@ -1,4 +1,4 @@
-> この記事は[AIBA](https://ja.wikipedia.org/wiki/AIBA)から翻訳されています。
+> この記事は[AIBA世界女子ボクシング選手権](https://ja.wikipedia.org/wiki/AIBA世界女子ボクシング選手権)から翻訳されています。
 
 
 **AIBA世界女子ボクシング選手権**（英:AIBA Women World Boxing Championships）は、[国際ボクシング協会 (AIBA)](../Page/国際ボクシング協会_\(AIBA\).md "wikilink") が主催するアマチュア[女子ボクシング](../Page/女子ボクシング.md "wikilink")の国際大会である。

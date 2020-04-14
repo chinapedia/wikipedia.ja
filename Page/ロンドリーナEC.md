@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ロンドリーナEC](https://ja.wikipedia.org/wiki/ロンドリーナEC)から翻訳されています。
 
 
 **ロンドリーナEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[パラナ州](../Page/パラナ州.md "wikilink")[ロンドリーナ](../Page/ロンドリーナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

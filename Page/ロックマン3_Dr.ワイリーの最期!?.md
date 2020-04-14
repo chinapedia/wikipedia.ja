@@ -1,4 +1,4 @@
-> この記事は[3 Dr.!\?](https://ja.wikipedia.org/wiki/3_Dr.!\?)から翻訳されています。
+> この記事は[ロックマン3 Dr.ワイリーの最期!\?](https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!\?)から翻訳されています。
 
 
 『**ロックマン3 Dr.ワイリーの最期\!?**』（ロックマンスリー ドクターワイリーのさいご\!?、ROCKMAN 3）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に日本の[カプコン](../Page/カプコン.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")。
@@ -423,11 +423,11 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
 
   - ロックマン3 完全攻略テクニックブック - [徳間コミュニケーションズ](https://ja.wikipedia.org/wiki/徳間コミュニケーションズ "wikilink")、1990年10月30日、ISBN 4-88658-234-6
 
+## 脚注
+
 ## 関連項目
 
   - [ロックマンメガワールド](../Page/ロックマンメガワールド.md "wikilink")
-
-## 脚注
 
 ## 外部リンク
 
@@ -438,9 +438,9 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
   -
   - [ロックマン3 Dr.ワイリーの最期\!? ゲームアーカイブス版紹介サイト](http://www.jp.playstation.com/software/title/jp0102npjj00341_000000000000000001.html)
 
-  - （英語）
+  -
 
-[Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:IPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ロックマン](https://ja.wikipedia.org/wiki/Category:ロックマン "wikilink")
+[Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:IPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ロックマン](https://ja.wikipedia.org/wiki/Category:ロックマン "wikilink")
 
 1.  『講談社まんが百科6 ロックマン＆ロックマンＸ大図鑑』P81『ドクター・ワイリーマシン図鑑』のコーナー、『ワイリーマシン3号（第1形態）』の記事より。
 2.

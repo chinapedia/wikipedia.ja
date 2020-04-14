@@ -197,7 +197,7 @@
 ## 外部リンク
 
   -
-  - [JESU$ LOVES ME...](http://ameblo.jp/jhett-yakko) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [JESU$ LOVES ME...](https://ameblo.jp/jhett-yakko) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   - [JHETT / a.k.a. YAKKO for AQUARIUS](http://www.avexnet.or.jp/jhett/) - [avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
 

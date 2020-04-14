@@ -1,4 +1,4 @@
-> この記事は[V-K](https://ja.wikipedia.org/wiki/V-K)から翻訳されています。
+> この記事は[V-K☆カンパニー](https://ja.wikipedia.org/wiki/V-K☆カンパニー)から翻訳されています。
 
 
 『**V-K☆カンパニー**』（びびっどきっずかんぱにー）は[白泉社](../Page/白泉社.md "wikilink")「[花とゆめ](../Page/花とゆめ.md "wikilink")」に連載されていた[山口美由紀](../Page/山口美由紀.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

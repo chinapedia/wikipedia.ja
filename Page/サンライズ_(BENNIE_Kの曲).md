@@ -1,4 +1,4 @@
-> この記事は[ \(BENNIE K\)](https://ja.wikipedia.org/wiki/_\(BENNIE_K\))から翻訳されています。
+> この記事は[サンライズ \(BENNIE Kの曲\)](https://ja.wikipedia.org/wiki/サンライズ_\(BENNIE_Kの曲\))から翻訳されています。
 
 
 「**サンライズ**」は[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")発売。

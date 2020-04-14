@@ -1,4 +1,4 @@
-> この記事は[K2C \(\)](https://ja.wikipedia.org/wiki/K2C_\(\))から翻訳されています。
+> この記事は[K2C \(アルバム\)](https://ja.wikipedia.org/wiki/K2C_\(アルバム\))から翻訳されています。
 
 
 『**K2C**』（ケー・ツー・シー）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売。発売元は[CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

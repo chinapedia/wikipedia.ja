@@ -1,4 +1,4 @@
-> この記事は[Mot.Com](https://ja.wikipedia.org/wiki/Mot.Com)から翻訳されています。
+> この記事は[Mot.Comもとみや](https://ja.wikipedia.org/wiki/Mot.Comもとみや)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Mot.com_Motomiya.jpg "wikilink") **株式会社Mot.Comもとみや**（もっとこむもとみや）は、[福島県](../Page/福島県.md "wikilink")[本宮市](../Page/本宮市.md "wikilink")、[安達郡](../Page/安達郡.md "wikilink")[大玉村](../Page/大玉村.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。**FM Mot.com**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。

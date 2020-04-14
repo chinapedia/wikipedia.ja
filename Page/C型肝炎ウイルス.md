@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C型肝炎ウイルス](https://ja.wikipedia.org/wiki/C型肝炎ウイルス)から翻訳されています。
 
 
 **C型肝炎ウイルス**（シーがたかんえんウイルス、*hepatitis C virus*、**HCV**）は、[フラビウイルス科](../Page/フラビウイルス科.md "wikilink")[ヘパシウイルス属](../Page/ヘパシウイルス属.md "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")で、[C型肝炎](../Page/C型肝炎.md "wikilink")の原因となる。抗ウイルス薬の登場により近年中の撲滅が期待されている\[1\]。

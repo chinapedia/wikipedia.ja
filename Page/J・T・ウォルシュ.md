@@ -1,4 +1,4 @@
-> この記事は[JT](https://ja.wikipedia.org/wiki/JT)から翻訳されています。
+> この記事は[J・T・ウォルシュ](https://ja.wikipedia.org/wiki/J・T・ウォルシュ)から翻訳されています。
 
 
 **ジェームズ・トーマス・パトリック・ウォルシュ**（, [1943年](../Page/1943年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。

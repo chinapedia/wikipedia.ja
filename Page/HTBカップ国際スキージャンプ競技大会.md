@@ -1,4 +1,4 @@
-> この記事は[HTB](https://ja.wikipedia.org/wiki/HTB)から翻訳されています。
+> この記事は[HTBカップ国際スキージャンプ競技大会](https://ja.wikipedia.org/wiki/HTBカップ国際スキージャンプ競技大会)から翻訳されています。
 
 
 **[HTBカップ国際スキージャンプ競技大会](../Page/北海道テレビ放送.md "wikilink")**は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会。 2000年以降は[FISコンチネンタルカップを兼ねている](../Page/スキージャンプ・コンチネンタルカップ.md "wikilink")。

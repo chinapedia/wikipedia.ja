@@ -1,4 +1,4 @@
-> この記事は[TUBE \(\)](https://ja.wikipedia.org/wiki/TUBE_\(\))から翻訳されています。
+> この記事は[TUBE \(映画\)](https://ja.wikipedia.org/wiki/TUBE_\(映画\))から翻訳されています。
 
 
 『**TUBE チューブ**』（チューブ、原題：*튜브*）は、[2003年](../Page/2003年.md "wikilink")公開の[韓国映画](../Page/韓国映画.md "wikilink")。爆弾[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")と刑事の対決を描く[サスペンス映画](../Page/サスペンス映画.md "wikilink")。

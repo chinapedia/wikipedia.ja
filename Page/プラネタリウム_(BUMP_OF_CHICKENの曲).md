@@ -1,4 +1,4 @@
-> この記事は[ \(BUMP OF CHICKEN\)](https://ja.wikipedia.org/wiki/_\(BUMP_OF_CHICKEN\))から翻訳されています。
+> この記事は[プラネタリウム \(BUMP OF CHICKENの曲\)](https://ja.wikipedia.org/wiki/プラネタリウム_\(BUMP_OF_CHICKENの曲\))から翻訳されています。
 
 
 『**プラネタリウム**』（Planetarium）は、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。

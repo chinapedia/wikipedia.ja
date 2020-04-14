@@ -1,4 +1,4 @@
-> この記事は[HDD](https://ja.wikipedia.org/wiki/HDD)から翻訳されています。
+> この記事は[ハイブリッドHDD](https://ja.wikipedia.org/wiki/ハイブリッドHDD)から翻訳されています。
 
 
 **ハイブリッドHDD**（ハイブリッドハードディスクドライブ、Hybrid HDD）は、[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")（以下HDD）に[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")を[キャッシュメモリ](../Page/キャッシュメモリ.md "wikilink")として搭載した[記憶装置](../Page/記憶装置.md "wikilink")である。**SSHD**（Solid State Hybrid Drive）とも表記される。
@@ -39,7 +39,7 @@ HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べて
 
 2010年頃から、別々に市販されているHDDとSSDを組み合わせ、自分でハイブリッドHDDを構築できる自作キットも登場している。HDDBOOSTなどの名称で販売されているこれらは、OSを再インストールすることなくHDDの読み取り速度を向上させることができる（SSDはキャッシュとなり、書き込みはSSD、HDD同時に行なわれる）。
 
-[Intel 7 Series以降のチップセット搭載機でRAID機能を装備した機種では](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_7_Series "wikilink")「Intel Smart Response Technology」が利用可能である。これはSSDをHDDのキャッシュとして利用するもので、ドライバーレベルのハイブリッドHDDともいえる。さらにRAIDコントローラー／カードメーカー各社は標準あるいはオプションとしてIntelと同等機能を提供している\[4\]。
+[Intel 7 Series以降のチップセット搭載機でRAID機能を装備した機種では](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_7_Series "wikilink")「Intel Smart Response Technology」が利用可能である。これはSSDをHDDのキャッシュとして利用するもので、ドライバーレベルのハイブリッドHDDともいえる。この進化形といえるのが、インテルOptaneメモリー・テクノロジー\[4\]およびAMD StoreMI\[5\]／FuzeDrive\[6\]となる。さらにRAIDコントローラー／カードメーカー各社は標準あるいはオプションとしてIntelと同等機能を提供している\[7\]。
 
 ## 利点
 
@@ -89,4 +89,7 @@ HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べて
 1.
 2.
 3.  東芝は型番の末尾に「H」が付く製品、ウェスタン・デジタルは「WD Blue SSHD」シリーズ
-4.  例：[Marvell](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")＝HyperDuo、[Broadcom](../Page/ブロードコム.md "wikilink") MegaRAID＝CacheCade Pro、[Adaptec](../Page/アダプテック.md "wikilink")＝Max IQ。
+4.
+5.
+6.
+7.  例：[Marvell](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")＝HyperDuo、[Broadcom](../Page/ブロードコム.md "wikilink") MegaRAID＝CacheCade Pro、[Adaptec](../Page/アダプテック.md "wikilink")＝Max IQ。

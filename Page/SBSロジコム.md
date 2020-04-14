@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSロジコム](https://ja.wikipedia.org/wiki/SBSロジコム)から翻訳されています。
 
 
 **SBSロジコム株式会社**は、[SBSホールディングス](../Page/SBSホールディングス.md "wikilink")傘下の総合物流企業。 (旧々・**東急ロジスティック株式会社**　旧・**ティーエルロジコム株式会社**

@@ -1,4 +1,4 @@
-> この記事は[TS](https://ja.wikipedia.org/wiki/TS)から翻訳されています。
+> この記事は[新宿TSミュージック](https://ja.wikipedia.org/wiki/新宿TSミュージック)から翻訳されています。
 
 
 **新宿TSミュージック**（しんじゅくティーエスミュージック）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")\[1\]で営業していた[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。[1977年](../Page/1977年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")開館\[2\]、[2017年](../Page/2017年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")閉館\[3\]。客席数は40\[4\]。

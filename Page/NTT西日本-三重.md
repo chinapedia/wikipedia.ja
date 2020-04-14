@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-三重](https://ja.wikipedia.org/wiki/NTT西日本-三重)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Tsu-Sakurabashi_Building_20091218.jpg "wikilink")

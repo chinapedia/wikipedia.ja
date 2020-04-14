@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[パリンコ学園No.1](https://ja.wikipedia.org/wiki/パリンコ学園No.1)から翻訳されています。
 
 
 『**パリン子学園No.1**』（パリンコがくえんナンバーワン）は、[TBS系列局の一部で放送されていた](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[歌謡](https://ja.wikipedia.org/wiki/歌謡 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全25回。TBSでは1982年10月7日から1983年3月31日まで、毎週木曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

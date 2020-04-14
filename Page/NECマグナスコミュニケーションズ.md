@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECマグナスコミュニケーションズ](https://ja.wikipedia.org/wiki/NECマグナスコミュニケーションズ)から翻訳されています。
 
 
 *' NECマグナスコミュニケーションズ株式会社*'（*NEC Magnus Communications, Ltd.*）は、[NECグループ](../Page/NECグループ.md "wikilink")の企業。

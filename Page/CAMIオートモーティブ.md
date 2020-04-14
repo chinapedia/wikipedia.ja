@@ -1,4 +1,4 @@
-> この記事は[CAMI](https://ja.wikipedia.org/wiki/CAMI)から翻訳されています。
+> この記事は[CAMIオートモーティブ](https://ja.wikipedia.org/wiki/CAMIオートモーティブ)から翻訳されています。
 
 
 **CAMIオートモーティブ**（**CAMI Automotive　カミ・オートモーティブ・インク**）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")にある自動車製造会社である。[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")（GM）のカナダ現地法人であるゼネラルモーターズ・カナダと[スズキの合弁で設立されたが](../Page/スズキ_\(企業\).md "wikilink")、2009年12月にGMの完全子会社となった。

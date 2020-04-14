@@ -1,4 +1,4 @@
-> この記事は[HFC](https://ja.wikipedia.org/wiki/HFC)から翻訳されています。
+> この記事は[HFCハールレム](https://ja.wikipedia.org/wiki/HFCハールレム)から翻訳されています。
 
 
 **HFCハールレム**（**HFC Haarlem**）は、かつて存在した[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

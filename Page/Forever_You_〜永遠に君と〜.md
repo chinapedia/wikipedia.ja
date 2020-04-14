@@ -1,4 +1,4 @@
-> この記事は[Forever You ](https://ja.wikipedia.org/wiki/Forever_You_)から翻訳されています。
+> この記事は[Forever You 〜永遠に君と〜](https://ja.wikipedia.org/wiki/Forever_You_〜永遠に君と〜)から翻訳されています。
 
 
 「**Forever You 〜永遠に君と〜**」（フォーエバー・ユー・えいえんにきみと）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の8作目の[シングル](../Page/シングル.md "wikilink")。

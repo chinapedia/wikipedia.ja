@@ -1,4 +1,4 @@
-> この記事は[ NAGURIMONO](https://ja.wikipedia.org/wiki/_NAGURIMONO)から翻訳されています。
+> この記事は[殴者 NAGURIMONO](https://ja.wikipedia.org/wiki/殴者_NAGURIMONO)から翻訳されています。
 
 
 『**殴者 NAGURIMONO**』（なぐりもの）は、[2005年に公開された](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。

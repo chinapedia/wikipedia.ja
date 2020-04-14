@@ -101,7 +101,7 @@ CUDAの演算処理技術を利用するには、上述のハードウェア・O
   - [MediaCoder](../Page/MediaCoder.md "wikilink") ([MediaCoder](../Page/MediaCoder.md "wikilink")) (フリーソフトウェア)
   - [LoiLoTouch](https://ja.wikipedia.org/wiki/LoiLoTouch "wikilink") ([LoiLo](https://ja.wikipedia.org/wiki/LoiLo "wikilink"))
   - [Super LoiLoScope](https://ja.wikipedia.org/wiki/Super_LoiLoScope "wikilink") ([LoiLo](https://ja.wikipedia.org/wiki/LoiLo "wikilink"))
-  - [PowerDirector](../Page/PowerDirector.md "wikilink") ([CyberLink](https://ja.wikipedia.org/wiki/CyberLink "wikilink"))\[44\] - 同社の[SVRT](https://ja.wikipedia.org/wiki/SVRT "wikilink")テクノロジーとは排他利用である\[45\]。
+  - [PowerDirector](../Page/PowerDirector.md "wikilink") ([CyberLink](https://ja.wikipedia.org/wiki/CyberLink "wikilink"))\[44\] - 同社の[SVRT](https://ja.wikipedia.org/wiki/SVRT "wikilink")とは排他利用である\[45\]。
 
 <!-- end list -->
 

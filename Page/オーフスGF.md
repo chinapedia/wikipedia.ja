@@ -1,4 +1,4 @@
-> この記事は[GF](https://ja.wikipedia.org/wiki/GF)から翻訳されています。
+> この記事は[オーフスGF](https://ja.wikipedia.org/wiki/オーフスGF)から翻訳されています。
 
 
 **オーフスGF**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の中央部、[中央ユラン地域](https://ja.wikipedia.org/wiki/中央ユラン地域 "wikilink")の都市[オーフス](../Page/オーフス.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。

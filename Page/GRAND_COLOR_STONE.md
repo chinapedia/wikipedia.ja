@@ -285,7 +285,7 @@
 
   - [テイチク公式サイト](http://www.teichiku.co.jp/artist/gcs/)
 
-  - [GRAND COLOR STONEオフィシャルブログ「グラカラのムダ日記」Powered by Ameba](http://ameblo.jp/grandcolorstone/)
+  - [GRAND COLOR STONEオフィシャルブログ「グラカラのムダ日記」Powered by Ameba](https://ameblo.jp/grandcolorstone/)
 
   -   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

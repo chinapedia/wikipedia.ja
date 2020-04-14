@@ -1,4 +1,4 @@
-> この記事は[W \(\)](https://ja.wikipedia.org/wiki/W_\(\))から翻訳されています。
+> この記事は[ハリー・W・ヒル \(駆逐艦\)](https://ja.wikipedia.org/wiki/ハリー・W・ヒル_\(駆逐艦\))から翻訳されています。
 
 
 |                                                                                                                                        |

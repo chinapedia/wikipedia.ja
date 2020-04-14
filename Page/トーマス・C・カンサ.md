@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[トーマス・C・カンサ](https://ja.wikipedia.org/wiki/トーマス・C・カンサ)から翻訳されています。
 
 
 **トーマス・C・カンサ**（Thomas C Kantha、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[クワズール・ナタール州](../Page/クワズール・ナタール州.md "wikilink")トンガート出身の詩人、英会話講師。

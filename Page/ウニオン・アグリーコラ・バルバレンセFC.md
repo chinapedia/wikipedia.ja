@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウニオン・アグリーコラ・バルバレンセFC](https://ja.wikipedia.org/wiki/ウニオン・アグリーコラ・バルバレンセFC)から翻訳されています。
 
 
 **ウニオン・アグリーコラ・バルバレンセFC** () 、通称**ウニオン・バルバレンセ** (União Barbarense) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンタ・バールバラ・ドエステ](https://ja.wikipedia.org/wiki/サンタ・バールバラ・ドエステ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016年は[サンパウロ州選手権セリエA](../Page/カンピオナート・パウリスタ.md "wikilink")2に所属。

@@ -1,4 +1,4 @@
-> この記事は[2 Dr.](https://ja.wikipedia.org/wiki/2_Dr.)から翻訳されています。
+> この記事は[ロックマン2 Dr.ワイリーの謎](https://ja.wikipedia.org/wiki/ロックマン2_Dr.ワイリーの謎)から翻訳されています。
 
 
 『**ロックマン2 Dr.ワイリーの謎**』（ロックマンツー ドクターワイリーのなぞ、ROCKMAN 2）は、[1988年](../Page/1988年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に日本の[カプコン](../Page/カプコン.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")。

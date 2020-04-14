@@ -1,4 +1,4 @@
-> この記事は[Single Collection \(\)](https://ja.wikipedia.org/wiki/Single_Collection_\(\))から翻訳されています。
+> この記事は[Single Collection \(愛内里菜のアルバム\)](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\))から翻訳されています。
 
 
 『**Single Collection**』（シングル・コレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")が[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[GIZA studioから発売した](../Page/GIZA_studio.md "wikilink")1枚目の[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。

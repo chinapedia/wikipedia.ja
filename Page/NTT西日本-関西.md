@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-関西](https://ja.wikipedia.org/wiki/NTT西日本-関西)から翻訳されています。
 
 
 **株式会社NTT西日本-関西**（エヌティティにしにほん-かんさい）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置き](../Page/北区_\(大阪市\).md "wikilink")、電気通信設備関係や工事関係などで主に[大阪府](../Page/大阪府.md "wikilink")と[和歌山県](../Page/和歌山県.md "wikilink")を管轄していた。

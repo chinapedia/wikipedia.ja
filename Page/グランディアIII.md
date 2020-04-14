@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[グランディアIII](https://ja.wikipedia.org/wiki/グランディアIII)から翻訳されています。
 
 
 『**グランディアIII**』（*GRANDIA III*）は[2005年](../Page/2005年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。開発は[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")。キャラクターデザインは[吉成曜](../Page/吉成曜.md "wikilink")。

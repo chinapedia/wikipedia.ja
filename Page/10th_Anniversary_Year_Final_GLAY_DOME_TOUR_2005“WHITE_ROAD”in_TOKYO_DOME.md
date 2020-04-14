@@ -1,4 +1,4 @@
-> この記事は[10th Anniversary Year Final GLAY DOME TOUR 2005WHITE ROADin TOKYO DOME](https://ja.wikipedia.org/wiki/10th_Anniversary_Year_Final_GLAY_DOME_TOUR_2005WHITE_ROADin_TOKYO_DOME)から翻訳されています。
+> この記事は[10th Anniversary Year Final GLAY DOME TOUR 2005“WHITE ROAD”in TOKYO DOME](https://ja.wikipedia.org/wiki/10th_Anniversary_Year_Final_GLAY_DOME_TOUR_2005“WHITE_ROAD”in_TOKYO_DOME)から翻訳されています。
 
 
 『**10th Anniversary Year Final GLAY DOME TOUR 2005 “WHITE ROAD” in TOKYO DOME**』は、[GLAY](../Page/GLAY.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")にリリースしたライブDVD。
@@ -41,9 +41,9 @@
 3.  **[逢いたい気持ち](../Page/逢いたい気持ち.md "wikilink")**
 4.  **[Cynical](../Page/生きてく強さ.md "wikilink")**
 5.  **[ピーク果てしなく ソウル限りなく](https://ja.wikipedia.org/wiki/天使のわけまえ/ピーク果てしなく_ソウル限りなく "wikilink")**
-6.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+6.  **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 7.  **[ACID HEAD](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")**
 8.  **[南東風](../Page/THE_FRUSTRATED.md "wikilink")**
 9.  **ENDING 〜THE FRUSTRATED〜**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[Xマルチプライ](https://ja.wikipedia.org/wiki/Xマルチプライ)から翻訳されています。
 
 
 『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。

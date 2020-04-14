@@ -1,4 +1,4 @@
-> この記事は[BLUE DRAGON ](https://ja.wikipedia.org/wiki/BLUE_DRAGON_)から翻訳されています。
+> この記事は[BLUE DRAGON ラルΩグラド](https://ja.wikipedia.org/wiki/BLUE_DRAGON_ラルΩグラド)から翻訳されています。
 
 
 『**BLUE DRAGON ラルΩグラド**』（ブルードラゴン ラル・グラド）は、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）2007年1号から2007年32号まで連載された原作・[鷹野常雄](https://ja.wikipedia.org/wiki/鷹野常雄 "wikilink")、漫画・[小畑健](../Page/小畑健.md "wikilink")による[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")作品。単行本は全4巻が出版されている。

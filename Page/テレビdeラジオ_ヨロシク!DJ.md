@@ -1,4 +1,4 @@
-> この記事は[de !DJ](https://ja.wikipedia.org/wiki/de_!DJ)から翻訳されています。
+> この記事は[テレビdeラジオ ヨロシク!DJ](https://ja.wikipedia.org/wiki/テレビdeラジオ_ヨロシク!DJ)から翻訳されています。
 
 
 『**テレビdeラジオ ヨロシク\!DJ**』（テレビでラジオ ヨロシク ディージェー）は、[1996年](../Page/1996年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[音楽番組](../Page/音楽番組.md "wikilink")。

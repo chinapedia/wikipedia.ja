@@ -1,4 +1,4 @@
-> この記事は[Tys](https://ja.wikipedia.org/wiki/Tys)から翻訳されています。
+> この記事は[Tysハウジングプラザ](https://ja.wikipedia.org/wiki/Tysハウジングプラザ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Tys_saela.JPG "wikilink")  **tysハウジングプラザ**は、[テレビ山口](../Page/テレビ山口.md "wikilink") (tys) が主催する[住宅展示場](../Page/住宅展示場.md "wikilink")。山口県下に3箇所存在する。

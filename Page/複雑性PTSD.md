@@ -1,4 +1,4 @@
-> この記事は[PTSD](https://ja.wikipedia.org/wiki/PTSD)から翻訳されています。
+> この記事は[複雑性PTSD](https://ja.wikipedia.org/wiki/複雑性PTSD)から翻訳されています。
 
 
 **複雑性PTSD**（ふくざつせいピーティエスディ、*Complex post-traumatic stress disorder*、*C-PTSD*）とは、組織的暴力、家庭内殴打や[児童虐待](../Page/児童虐待.md "wikilink")など長期反復的なトラウマ体験の後にしばしば見られる、感情などの調整困難を伴う[心的外傷後ストレス障害](https://ja.wikipedia.org/wiki/心的外傷後ストレス障害 "wikilink")（PTSD）である。**DESNOS**（*Disorder of Extreme Stress not otherwise specified*）とも呼ばれる。

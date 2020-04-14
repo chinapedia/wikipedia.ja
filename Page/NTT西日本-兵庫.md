@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-兵庫](https://ja.wikipedia.org/wiki/NTT西日本-兵庫)から翻訳されています。
 
 
 **株式会社NTT西日本－兵庫**（エヌティティ にしにほんひょうご）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区に本社を置き](../Page/中央区_\(神戸市\).md "wikilink")、電気通信設備関係や工事関係などで主に[兵庫県](../Page/兵庫県.md "wikilink")を管轄していた。

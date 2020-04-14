@@ -1,4 +1,4 @@
-> この記事は[MC.205 \(\)](https://ja.wikipedia.org/wiki/MC.205_\(\))から翻訳されています。
+> この記事は[MC.205 \(航空機\)](https://ja.wikipedia.org/wiki/MC.205_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=マッキ MC.205 | 画像=<File:Macchi_MC-205V_Veltro,_Italy_-_Air_Force_JP6942435.jpg> | キャプション= | 分類=戦闘機 | 設計者=マリオ・カストルディ | 製造者=[マッキ](https://ja.wikipedia.org/wiki/マッキ "wikilink")社 | 運用者=イタリア王立空軍

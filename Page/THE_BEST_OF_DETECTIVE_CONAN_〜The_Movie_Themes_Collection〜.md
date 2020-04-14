@@ -1,4 +1,4 @@
-> この記事は[THE BEST OF DETECTIVE CONAN The Movie Themes Collection](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_The_Movie_Themes_Collection)から翻訳されています。
+> この記事は[THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜)から翻訳されています。
 
 
 『**THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜**』（ザ・ベスト・オブ・ディテクティヴ・コナン ザ・ムービー・テーマズ・コレクション）は、[青山剛昌](../Page/青山剛昌.md "wikilink")原作[劇場版アニメ](../Page/アニメーション映画.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の第1作から第10作までの主題歌集。

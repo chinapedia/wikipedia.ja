@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[タイ・ファーマーズ・バンクFC](https://ja.wikipedia.org/wiki/タイ・ファーマーズ・バンクFC)から翻訳されています。
 
 
 **タイ・ファーマーズ・バンクFC**（、）は、[タイにかつて存在した](../Page/タイ王国.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")設立、[2000年](../Page/2000年.md "wikilink")消滅。

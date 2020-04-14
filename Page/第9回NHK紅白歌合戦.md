@@ -1,4 +1,4 @@
-> この記事は[9NHK](https://ja.wikipedia.org/wiki/9NHK)から翻訳されています。
+> この記事は[第9回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第9回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第9回NHK紅白歌合戦**』（だいきゅうかいエヌエイチケイこうはくうたがっせん）は、[1958年](../Page/1958年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")33年）[12月31日](../Page/12月31日.md "wikilink")に[新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")で行われた、通算9回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時10分 - 23時35分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

@@ -1,4 +1,4 @@
-> この記事は[P \(\)](https://ja.wikipedia.org/wiki/P_\(\))から翻訳されています。
+> この記事は[P \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/P_\(計算複雑性理論\))から翻訳されています。
 
 
 [計算量理論](https://ja.wikipedia.org/wiki/計算量理論 "wikilink")における**P**とは[多項式時間](https://ja.wikipedia.org/wiki/多項式時間 "wikilink")（polynomial time）で解ける判定問題の集合である。

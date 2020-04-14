@@ -1,4 +1,4 @@
-> この記事は[BINGO BONGO](https://ja.wikipedia.org/wiki/BINGO_BONGO)から翻訳されています。
+> この記事は[恋する電リクBINGO BONGO](https://ja.wikipedia.org/wiki/恋する電リクBINGO_BONGO)から翻訳されています。
 
 
 『'''恋する電リクBINGO BONGO '''』（こい - でん - ビンゴボンゴ）は、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月](../Page/9月.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で平日夜に放送されていたラジオ番組。

@@ -1,4 +1,4 @@
-> この記事は[MU-7](https://ja.wikipedia.org/wiki/MU-7)から翻訳されています。
+> この記事は[いすゞ・MU-7](https://ja.wikipedia.org/wiki/いすゞ・MU-7)から翻訳されています。
 
 
 **ミューセブン** (*MU-7*)は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造・販売している[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

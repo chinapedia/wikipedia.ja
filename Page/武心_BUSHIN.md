@@ -1,4 +1,4 @@
-> この記事は[ BUSHIN](https://ja.wikipedia.org/wiki/_BUSHIN)から翻訳されています。
+> この記事は[武心 BUSHIN](https://ja.wikipedia.org/wiki/武心_BUSHIN)から翻訳されています。
 
 
 『'''武心 BUSHIN '''』（ぶしん）は、[2006年](../Page/2006年.md "wikilink")14号から[2007年](../Page/2007年.md "wikilink")12号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた[柔道](../Page/柔道.md "wikilink")を題材とした漫画。作者は[万乗大智](../Page/万乗大智.md "wikilink")。全5巻。

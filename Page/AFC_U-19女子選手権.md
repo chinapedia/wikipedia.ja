@@ -1,4 +1,4 @@
-> この記事は[AFC U-19](https://ja.wikipedia.org/wiki/AFC_U-19)から翻訳されています。
+> この記事は[AFC U-19女子選手権](https://ja.wikipedia.org/wiki/AFC_U-19女子選手権)から翻訳されています。
 
 
 **AFC U-19女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。[FIFA U-20女子ワールドカップの予選を兼ねている](../Page/FIFA_U-20女子ワールドカップ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JAZZ](https://ja.wikipedia.org/wiki/JAZZ)から翻訳されています。
+> この記事は[熱帯JAZZ楽団](https://ja.wikipedia.org/wiki/熱帯JAZZ楽団)から翻訳されています。
 
 
 **熱帯JAZZ楽団**（ねったいジャズがくだん）は、日本の[ラテンジャズ](../Page/ラテンジャズ.md "wikilink")・[ビッグバンド](../Page/ビッグバンド.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")所属。[パーカッション](../Page/パーカッション.md "wikilink")奏者の[カルロス菅野](../Page/カルロス菅野.md "wikilink")（元[オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")）が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月に結成した。

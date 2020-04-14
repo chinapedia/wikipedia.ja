@@ -1,4 +1,4 @@
-> この記事は[FDK](https://ja.wikipedia.org/wiki/FDK)から翻訳されています。
+> この記事は[FDKエナジー](https://ja.wikipedia.org/wiki/FDKエナジー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:FDK-CR2032.JPG "wikilink") **FDKエナジー株式会社**（エフディーケイエナジー、）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[アルカリ乾電池](../Page/アルカリマンガン乾電池.md "wikilink")、[リチウム電池](../Page/リチウム電池.md "wikilink")の製造等を行う[FDK](https://ja.wikipedia.org/wiki/FDK "wikilink")株式会社の子会社で、同じく子会社のPT FDK INDONESIAとともに、FDKグループとして乾電池を供給していた\[1\]。供給先ブランドは[富士通](../Page/富士通.md "wikilink")の他、[ソニー](../Page/ソニー.md "wikilink")\[2\]、[三菱電機](../Page/三菱電機.md "wikilink")\[3\]、[東芝](../Page/東芝.md "wikilink")\[4\]など。

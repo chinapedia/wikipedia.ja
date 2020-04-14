@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグドラフト会議](https://ja.wikipedia.org/wiki/Bjリーグドラフト会議)から翻訳されています。
 
 
 **bjリーグドラフト会議**（ビージェイリーグドラフトかいぎ）とは、日本のプロ[バスケットボール](../Page/バスケットボール.md "wikilink")・[bjリーグにおいて](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")、新人選手獲得のために行われる会議（[ドラフト会議](../Page/ドラフト会議.md "wikilink")）である。

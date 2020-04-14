@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[トーマス・C・キンケイド](https://ja.wikipedia.org/wiki/トーマス・C・キンケイド)から翻訳されています。
 
 
 **トーマス・カッシン・キンケイド**（**Thomas Cassin Kinkaid**、[1888年](../Page/1888年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [1972年](../Page/1972年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の1943年から45年まで南西[太平洋](../Page/太平洋.md "wikilink")海域の[連合国軍海軍司令官および](../Page/連合国_\(第二次世界大戦\).md "wikilink")[第7艦隊司令官を務めた](../Page/第7艦隊_\(アメリカ軍\).md "wikilink")。

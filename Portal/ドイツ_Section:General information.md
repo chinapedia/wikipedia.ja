@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:General information](https://ja.wikipedia.org/wiki/Portal:/Section:General_information)から翻訳されています。
+> この記事は[Portal:ドイツ/Section:General information](https://ja.wikipedia.org/wiki/Portal:ドイツ/Section:General_information)から翻訳されています。
 
 
 ### ドイツの州

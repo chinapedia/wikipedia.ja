@@ -1,4 +1,4 @@
-> この記事は[12NHK](https://ja.wikipedia.org/wiki/12NHK)から翻訳されています。
+> この記事は[第12回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第12回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第12回NHK紅白歌合戦**』（だいじゅうにかいエヌエイチケイこうはくうたがっせん）は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[12月31日](../Page/12月31日.md "wikilink")に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で行われた、通算12回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時40分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

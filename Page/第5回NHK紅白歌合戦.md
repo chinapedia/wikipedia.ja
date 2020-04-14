@@ -1,4 +1,4 @@
-> この記事は[5NHK](https://ja.wikipedia.org/wiki/5NHK)から翻訳されています。
+> この記事は[第5回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第5回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第5回NHK紅白歌合戦**』（だいごかいエヌエイチケイこうはくうたがっせん）は、[1954年](../Page/1954年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")29年）[12月31日](../Page/12月31日.md "wikilink")に[日比谷公会堂](../Page/日比谷公会堂.md "wikilink")で行われた、通算5回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時15分 - 23時00分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

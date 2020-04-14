@@ -1,4 +1,4 @@
-> この記事は[FIRE BALL \(\)](https://ja.wikipedia.org/wiki/FIRE_BALL_\(\))から翻訳されています。
+> この記事は[FIRE BALL \(レゲエグループ\)](https://ja.wikipedia.org/wiki/FIRE_BALL_\(レゲエグループ\))から翻訳されています。
 
 
 **FIRE BALL**（ファイヤー・ボール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")。横浜のレゲエサウンド[MIGHTY CROWN](https://ja.wikipedia.org/wiki/MIGHTY_CROWN "wikilink")（マイティー・クラウン）に所属するソロアーティスト同士がグループで1つのステージを創ることを目的に1997年FIRE BALLを結成。2002年[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現ユニバーサルミュージックジャパン）よりファーストアルバム『火の玉』メジャーデビュー。

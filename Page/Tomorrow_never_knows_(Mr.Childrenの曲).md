@@ -1,4 +1,4 @@
-> この記事は[Tomorrow never knows \(Mr.Children\)](https://ja.wikipedia.org/wiki/Tomorrow_never_knows_\(Mr.Children\))から翻訳されています。
+> この記事は[Tomorrow never knows \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/Tomorrow_never_knows_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**Tomorrow never knows**」（トゥモロー ネヴァー ノウズ）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")曲。[1994年](../Page/1994年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

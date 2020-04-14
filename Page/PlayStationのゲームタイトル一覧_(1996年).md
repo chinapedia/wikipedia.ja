@@ -1,4 +1,4 @@
-> この記事は[PlayStation \(1996\)](https://ja.wikipedia.org/wiki/PlayStation_\(1996\))から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧 \(1996年\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(1996年\))から翻訳されています。
 
 
 '''PlayStationのゲームタイトル一覧 (1996年) '''（プレイステーションのゲームタイトルいちらん (1996ねん)）では[1996年](../Page/1996年.md "wikilink")に[PlayStation対応ソフトとして発売された全](../Page/PlayStation_\(ゲーム機\).md "wikilink")415タイトルのゲームソフトを発売順に列記する。ただし追加要素のない廉価版は含まない。●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。

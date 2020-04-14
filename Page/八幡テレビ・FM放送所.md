@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[八幡テレビ・FM放送所](https://ja.wikipedia.org/wiki/八幡テレビ・FM放送所)から翻訳されています。
 
 
 **八幡テレビ・FM放送所**（やはたテレビ・えふえむほうそうじょ）は、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[八幡東区](../Page/八幡東区.md "wikilink")の[皿倉山](../Page/皿倉山.md "wikilink")に置かれているテレビジョン放送とFMラジオ放送の大規模送信所。[NHK北九州放送局](../Page/NHK北九州放送局.md "wikilink")の親局と福岡県の全民放テレビ・FMラジオの中継局が設置されており、基幹送信所である\[1\]。

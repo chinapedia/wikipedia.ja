@@ -1,4 +1,4 @@
-> この記事は[Toll](https://ja.wikipedia.org/wiki/Toll)から翻訳されています。
+> この記事は[Toll様受容体](https://ja.wikipedia.org/wiki/Toll様受容体)から翻訳されています。
 
 
 [_2z7x.jpg](https://ja.wikipedia.org/wiki/File:_2z7x.jpg "fig:_2z7x.jpg") [250px](https://ja.wikipedia.org/wiki/画像:Toll-like_receptor_pathways_revised.jpg "wikilink") **Toll様受容体**（トルようじゅようたい、Toll-like receptor：**TLR**と略す）は[動物](https://ja.wikipedia.org/wiki/動物 "wikilink")の[細胞](../Page/細胞.md "wikilink")表面にある[受容体](../Page/受容体.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")で、種々の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")を感知して[自然免疫](https://ja.wikipedia.org/wiki/自然免疫 "wikilink")（[獲得免疫](https://ja.wikipedia.org/wiki/獲得免疫 "wikilink")と異なり、一般の病原体を排除する非特異的な[免疫](https://ja.wikipedia.org/wiki/免疫 "wikilink")作用）を作動させる機能がある。[脊椎動物](../Page/脊椎動物.md "wikilink")では、獲得免疫が働くためにもToll様受容体などを介した自然免疫の作動が必要である。

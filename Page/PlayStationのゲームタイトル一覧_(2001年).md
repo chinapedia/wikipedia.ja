@@ -1,4 +1,4 @@
-> この記事は[PlayStation \(2001\)](https://ja.wikipedia.org/wiki/PlayStation_\(2001\))から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧 \(2001年\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(2001年\))から翻訳されています。
 
 
 '''PlayStationのゲームタイトル一覧 (2001年) '''（プレイステーションのゲームタイトルいちらん (2001ねん)）では[2001年](../Page/2001年.md "wikilink")に[PlayStation対応ソフトとして発売されたゲームソフトを発売順に列記する](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ただし追加要素のない廉価版は含まない。全265本。

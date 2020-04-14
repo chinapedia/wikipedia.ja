@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[デフラグ \(Windows\)](https://ja.wikipedia.org/wiki/デフラグ_\(Windows\))から翻訳されています。
 
 
 **デフラグ**（英語版での名称はDisk Defragmenter）は、主として[MS-DOS](../Page/MS-DOS.md "wikilink")ファイルシステム（[FAT](../Page/File_Allocation_Table.md "wikilink") FS）を[デフラグメンテーション](../Page/デフラグメンテーション.md "wikilink")する（発生している[フラグメンテーション](../Page/フラグメンテーション.md "wikilink")を解消する）[コンピュータ・プログラムである](../Page/プログラム_\(コンピュータ\).md "wikilink")。「最適化」という用語が日本語版では多用され、この記事中でも多用するが、[最適化問題](../Page/最適化問題.md "wikilink")等の専門用語としてのそれというよりもマイクロソフトによる、「デフラグメンテーション」の「ユーザにわかりやすい」言い換え語というほうが近い。

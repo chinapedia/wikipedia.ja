@@ -1,4 +1,4 @@
-> この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
+> この記事は[サイレン \(ASIAN KUNG-FU GENERATIONの曲\)](https://ja.wikipedia.org/wiki/サイレン_\(ASIAN_KUNG-FU_GENERATIONの曲\))から翻訳されています。
 
 
 「**サイレン**」は、[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。

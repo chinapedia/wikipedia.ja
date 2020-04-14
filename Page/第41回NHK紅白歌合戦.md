@@ -1,4 +1,4 @@
-> この記事は[41NHK](https://ja.wikipedia.org/wiki/41NHK)から翻訳されています。
+> この記事は[第41回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第41回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第41回NHK紅白歌合戦**』（だいよんじゅういっかいエヌエイチケイこうはくうたがっせん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算41回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時20分 - 20時55分および21時から23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
@@ -215,7 +215,7 @@
 <td><p><a href="../Page/メドレー.md" title="wikilink">ピンク・レディー・メドレー</a>[9]</p></td>
 <td><p>22</p></td>
 <td><p><a href="../Page/たま_(バンド).md" title="wikilink">たま</a>(初)</p></td>
-<td><p><a href="../Page/さよなら人類.md" title="wikilink">さよなら人類</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/さよなら人類/らんちう" title="wikilink">さよなら人類</a></p></td>
 <td></td>
 <td></td>
 </tr>

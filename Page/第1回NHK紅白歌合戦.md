@@ -1,4 +1,4 @@
-> この記事は[1NHK](https://ja.wikipedia.org/wiki/1NHK)から翻訳されています。
+> この記事は[第1回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第1回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第1回NHK紅白歌合戦**』（だいいっかいエヌエイチケイこうはくうたがっせん）は、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[1月3日](../Page/1月3日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、初めての[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。20時から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

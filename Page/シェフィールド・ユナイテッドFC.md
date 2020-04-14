@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シェフィールド・ユナイテッドFC](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC)から翻訳されています。
 
 
 **シェフィールド・ユナイテッド・フットボール・クラブ**（**Sheffield United Football Club**、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")中部・[シェフィールド](../Page/シェフィールド.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称は**ブレイズ**（The Blades）。\[1\]

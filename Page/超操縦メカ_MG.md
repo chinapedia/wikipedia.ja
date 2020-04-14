@@ -1,4 +1,4 @@
-> この記事は[ MG](https://ja.wikipedia.org/wiki/_MG)から翻訳されています。
+> この記事は[超操縦メカ MG](https://ja.wikipedia.org/wiki/超操縦メカ_MG)から翻訳されています。
 
 
 『**超操縦メカ MG**（ちょうそうじゅうメカ エムジー）』は、[2006年](../Page/2006年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のゲームソフト。開発は[サンドロット](../Page/サンドロット.md "wikilink")。

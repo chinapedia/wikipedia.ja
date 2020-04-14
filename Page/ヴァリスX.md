@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ヴァリスX](https://ja.wikipedia.org/wiki/ヴァリスX)から翻訳されています。
 
 
 『**ヴァリスX**』（ヴァリスクロス）は、日本の[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")2月より[日本テレネットが運営していたダウンロード販売サイト](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")[BB5.jp](https://ja.wikipedia.org/wiki/BB5.jp "wikilink")などで5部作として販売され、後に[CD-ROM](../Page/CD-ROM.md "wikilink")媒体のパッケージ版も販売された。

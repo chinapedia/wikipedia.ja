@@ -1,4 +1,4 @@
-> この記事は[ Nightly Yours](https://ja.wikipedia.org/wiki/_Nightly_Yours)から翻訳されています。
+> この記事は[渡辺貞夫 Nightly Yours](https://ja.wikipedia.org/wiki/渡辺貞夫_Nightly_Yours)から翻訳されています。
 
 
 **渡辺貞夫 Nightly Yours**（わたなべさだお ナイトリー・ユアーズ）は、[JFN](../Page/全国FM放送協議会.md "wikilink")（ジャパンFMネットワーク）の地方局などで放送されていた音楽番組で、主に週末の深夜の時間帯に放送されていた。

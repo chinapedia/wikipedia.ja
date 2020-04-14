@@ -1,4 +1,4 @@
-> この記事は[AGI \(\)](https://ja.wikipedia.org/wiki/AGI_\(\))から翻訳されています。
+> この記事は[AGI \(企業\)](https://ja.wikipedia.org/wiki/AGI_\(企業\))から翻訳されています。
 
 
 **株式会社AGI**（英字商号: Advanced Generation Interface Japan Inc.）は、[人工知能](../Page/人工知能.md "wikilink")ソフトウェア研究開発企業である。

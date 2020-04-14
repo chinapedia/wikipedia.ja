@@ -1,4 +1,4 @@
-> この記事は[TEC](https://ja.wikipedia.org/wiki/TEC)から翻訳されています。
+> この記事は[インターTEC](https://ja.wikipedia.org/wiki/インターTEC)から翻訳されています。
 
 
 **インターTEC**（インターテック、Inter TEC）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）まで、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")で開催されていた[ツーリングカー](../Page/ツーリングカー.md "wikilink")レース。
@@ -31,7 +31,7 @@
 
   - 1985年：[ボルボ・240](https://ja.wikipedia.org/wiki/ボルボ・240 "wikilink")ターボ（ジークフリート・ミューラー / [ピエール・デュドネ](../Page/ピエール・デュドネ.md "wikilink")）
   - 1986年：ボルボ・240ターボ（[ジョニー・チェコット](https://ja.wikipedia.org/wiki/ジョニー・チェコット "wikilink") / [アンデルス・オロフソン](https://ja.wikipedia.org/wiki/アンデルス・オロフソン "wikilink")）
-  - 1987年：[フォード・シエラ](https://ja.wikipedia.org/wiki/フォード・シエラ "wikilink")RS500（[クラウス・ルドヴィック](../Page/クラウス・ルートヴィッヒ.md "wikilink")/ クラウス・ニーヅビーズ）
+  - 1987年：[フォード・シエラ](https://ja.wikipedia.org/wiki/フォード・シエラ "wikilink")RS500（[クラウス・ルドヴィック](../Page/クラウス・ルートヴィッヒ.md "wikilink")/ [クラウス・ニーヅビーズ](../Page/クラウス・ニーヅビーズ.md "wikilink")）
   - 1988年：フォード・シエラRS500（クラウス・ニーヅビーズ / [横島久](https://ja.wikipedia.org/wiki/横島久 "wikilink")）
   - 1989年：フォード・シエラRS500（クラウス・ニーヅビーズ / [アラン・モファット](https://ja.wikipedia.org/wiki/アラン・モファット "wikilink")）
   - 1990年：[日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink")（[星野一義](../Page/星野一義.md "wikilink") / [鈴木利男](../Page/鈴木利男.md "wikilink")）

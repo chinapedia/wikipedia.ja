@@ -1,4 +1,4 @@
-> この記事は[48NHK](https://ja.wikipedia.org/wiki/48NHK)から翻訳されています。
+> この記事は[第48回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第48回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第48回NHK紅白歌合戦**』（だいよんじゅうはっかいエヌエイチケイこうはくうたがっせん）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算48回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。2部制は採用されていない。

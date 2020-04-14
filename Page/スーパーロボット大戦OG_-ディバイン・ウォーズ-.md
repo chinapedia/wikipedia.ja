@@ -1,4 +1,4 @@
-> この記事は[OG --](https://ja.wikipedia.org/wiki/OG_--)から翻訳されています。
+> この記事は[スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ-)から翻訳されています。
 
 
 『**スーパーロボット大戦OG -ディバイン・ウォーズ-**』（スーパーロボットたいせんオージー ディバイン・ウォーズ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

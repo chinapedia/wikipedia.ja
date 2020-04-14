@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[ダイナソーJr.](https://ja.wikipedia.org/wiki/ダイナソーJr.)から翻訳されています。
 
 
 **ダイナソーJr.** (Dinosaur Jr.) は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。ノイジーなギターサウンドとポップなメロディに乗せた気だるいヴォーカルを特徴とする音楽性により、[1990年代](../Page/1990年代.md "wikilink")の[グランジ](../Page/グランジ.md "wikilink")・[オルタナティヴブームの中で人気を得た](../Page/オルタナティヴ・ロック.md "wikilink")。

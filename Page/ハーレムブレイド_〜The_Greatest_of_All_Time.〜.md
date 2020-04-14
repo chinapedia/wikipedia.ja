@@ -1,4 +1,4 @@
-> この記事は[ The Greatest of All Time.](https://ja.wikipedia.org/wiki/_The_Greatest_of_All_Time.)から翻訳されています。
+> この記事は[ハーレムブレイド 〜The Greatest of All Time.〜](https://ja.wikipedia.org/wiki/ハーレムブレイド_〜The_Greatest_of_All_Time.〜)から翻訳されています。
 
 
 『**ハーレムブレイド 〜The Greatest of All Time.〜**』（ハーレムブレイド ザ・グレイテスト・オブ・オール・タイム）は、[1996年](../Page/1996年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[TGL](../Page/TGL.md "wikilink")/[戯画より発売された](../Page/戯画_\(ブランド\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。

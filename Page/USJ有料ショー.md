@@ -1,4 +1,4 @@
-> この記事は[USJ](https://ja.wikipedia.org/wiki/USJ)から翻訳されています。
+> この記事は[USJ有料ショー](https://ja.wikipedia.org/wiki/USJ有料ショー)から翻訳されています。
 
 
 **USJ有料ショー**（ユーエスジェイゆうりょうショー）とは、[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")で[2003年](../Page/2003年.md "wikilink")秋から行われているスペシャルイベントショーである。[2003年](../Page/2003年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")まで上演されたショーをスペシャルショー、[2007年](../Page/2007年.md "wikilink")から上演されているショーをプレミアショーと呼ぶ。

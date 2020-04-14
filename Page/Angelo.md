@@ -85,7 +85,7 @@
 <tr class="odd">
 <td><p>rowspan = "2" | 1st</p></td>
 <td><p>rowspan = "2" | 2006年11月8日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/REBORN_(Angeloの曲)" title="wikilink">REBORN</a></strong></p></td>
+<td><p>rowspan = "2" | <strong>REBORN</strong></p></td>
 <td><p>初回限定盤(CD+DVD)</p></td>
 <td><p>IKCB-95504 - 5</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -103,7 +103,7 @@
 </div></td>
 <td><p>REBORN ミュージッククリップ</p></td>
 <td><p>rowspan = "2" | 11位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/REBIRTH_OF_NEWBORN_BABY" title="wikilink">REBIRTH OF NEWBORN BABY</a></strong></p></td>
+<td><p><strong>REBIRTH OF NEWBORN BABY</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤(CD)</p></td>
@@ -119,7 +119,7 @@
 <tr class="odd">
 <td><p>rowspan = "2" | 2nd</p></td>
 <td><p>rowspan = "2" | 2007年2月28日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/WINTER_MOON" title="wikilink">WINTER MOON</a></strong></p></td>
+<td><p>rowspan = "2" | <strong>WINTER MOON</strong></p></td>
 <td><p>Aバージョン(CD+DVD)</p></td>
 <td><p>IKCB-95507 - 8</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -168,7 +168,7 @@
 </div></td>
 <td><p>CHAOTIC BELL ミュージッククリップ</p></td>
 <td><p>rowspan = "2" | 9位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/METALLIC_BUTTERFLY" title="wikilink">METALLIC BUTTERFLY</a></strong></p></td>
+<td><p><strong>METALLIC BUTTERFLY</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤(CD)</p></td>
@@ -276,7 +276,7 @@
 </div></td>
 <td><p>光の記憶 ミュージッククリップ</p></td>
 <td><p>rowspan = "3" | 9位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Design_(Angeloのアルバム)" title="wikilink">Design</a></strong></p></td>
+<td><p><strong>Design</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤(CD)</p></td>
@@ -413,7 +413,7 @@
 <tr class="even">
 <td><p>rowspan = "2" | 8th</p></td>
 <td><p>rowspan = "2" | 2012年2月22日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/Calvary" title="wikilink">Calvary</a></strong></p></td>
+<td><p>rowspan = "2" | <strong>Calvary</strong></p></td>
 <td><p>初回限定盤(CD+DVD)</p></td>
 <td><p>IKCB-95514 - 95515</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -430,7 +430,7 @@
 <td><p>Calvary ミュージッククリップ<br />
 メイキング映像</p></td>
 <td><p>rowspan = "2" | 14位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/RETINA" title="wikilink">RETINA</a></strong></p></td>
+<td><p><strong>RETINA</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>通常盤(CD)</p></td>
@@ -457,7 +457,7 @@
 <tr class="even">
 <td><p>rowspan = "3" | 9th</p></td>
 <td><p>rowspan = "3" | 2012年6月27日</p></td>
-<td><p>rowspan = "3" | <strong><a href="https://ja.wikipedia.org/wiki/RIP/MOMENT" title="wikilink">RIP/MOMENT</a></strong></p></td>
+<td><p>rowspan = "3" | <strong>RIP/MOMENT</strong></p></td>
 <td><p>初回限定盤A(CD+DVD)</p></td>
 <td><p>IKCB-95517 - 95518</p></td>
 <td><p>rowspan = "2" |</p>
@@ -512,7 +512,7 @@
 <tr class="odd">
 <td><p>rowspan = "2" | 10th</p></td>
 <td><p>rowspan = "2" | 2013年8月14日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/OUTBREAK" title="wikilink">OUTBREAK</a></strong></p></td>
+<td><p>rowspan = "2" | <strong>OUTBREAK</strong></p></td>
 <td><p>初回限定盤(CD+DVD)</p></td>
 <td><p>IKCB-95522 - 3</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -528,7 +528,7 @@
 </div></td>
 <td><p>OUTBREAK ミュージッククリップ</p></td>
 <td><p>rowspan = "2" | 22位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/FAITH_(Angeloのアルバム)" title="wikilink">FAITH</a></strong></p></td>
+<td><p><strong>FAITH</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤(CD)</p></td>
@@ -555,7 +555,7 @@
 <tr class="odd">
 <td><p>rowspan = "2" | 11th</p></td>
 <td><p>rowspan = "2" | 2014年10月8日</p></td>
-<td><p>rowspan = "2" | <strong><a href="https://ja.wikipedia.org/wiki/SCARE" title="wikilink">SCARE</a></strong></p></td>
+<td><p>rowspan = "2" | <strong>SCARE</strong></p></td>
 <td><p>初回限定盤(CD+DVD)</p></td>
 <td><p>IKCB-95525 - 6</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -571,7 +571,7 @@
 </div></td>
 <td><p>SCARE ミュージッククリップ</p></td>
 <td><p>rowspan = "2" | 10位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/PSYCHE" title="wikilink">PSYCHE</a></strong></p></td>
+<td><p><strong>PSYCHE</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>通常盤(CD)</p></td>

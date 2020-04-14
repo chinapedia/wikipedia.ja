@@ -1,4 +1,4 @@
-> この記事は[ SUNX](https://ja.wikipedia.org/wiki/_SUNX)から翻訳されています。
+> この記事は[パナソニック デバイスSUNX](https://ja.wikipedia.org/wiki/パナソニック_デバイスSUNX)から翻訳されています。
 
 
 **パナソニック デバイスSUNX株式会社**（パナソニック デバイスサンクス、）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[春日井市](https://ja.wikipedia.org/wiki/春日井市 "wikilink")に本社を置く[センサ](../Page/センサ.md "wikilink")ーおよび[FA機器製造メーカー](../Page/ファクトリーオートメーション.md "wikilink")。[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の子会社で、[パナソニックグループ](../Page/パナソニックグループ.md "wikilink")に属する。

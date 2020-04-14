@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ルナ・H・ミタニ](https://ja.wikipedia.org/wiki/ルナ・H・ミタニ)から翻訳されています。
 
 
 [LunaHMitani.JPG](https://ja.wikipedia.org/wiki/File:LunaHMitani.JPG "fig:LunaHMitani.JPG") **ルナ・H・ミタニ**（本名は**Luna Hideki Mitani**、[1963年](../Page/1963年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[釧路市](../Page/釧路市.md "wikilink")出身、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[国籍](../Page/国籍.md "wikilink")の[画家](../Page/画家.md "wikilink")・[芸術家](../Page/芸術家.md "wikilink")。

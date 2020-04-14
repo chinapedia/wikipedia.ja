@@ -1,4 +1,4 @@
-> この記事は[  ENERGY](https://ja.wikipedia.org/wiki/__ENERGY)から翻訳されています。
+> この記事は[あなたは 私の ENERGY](https://ja.wikipedia.org/wiki/あなたは_私の_ENERGY)から翻訳されています。
 
 
 『**あなたは 私の ENERGY**』（あなたは わたしの エナジー）は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")の5枚目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")発売。CDコードはZADL-1039。

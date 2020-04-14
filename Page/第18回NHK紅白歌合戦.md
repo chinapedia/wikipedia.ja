@@ -1,4 +1,4 @@
-> この記事は[18NHK](https://ja.wikipedia.org/wiki/18NHK)から翻訳されています。
+> この記事は[第18回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第18回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第18回NHK紅白歌合戦**』（だいじゅうはっかいエヌエイチケイこうはくうたがっせん）は、[1967年](../Page/1967年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")42年）[12月31日](../Page/12月31日.md "wikilink")に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で行われた、通算18回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時45分に[NHKで生放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
@@ -75,15 +75,16 @@
 
 ### その他ゲスト
 
-  - [日色ともゑ](../Page/日色ともゑ.md "wikilink")
-  - [横内正](../Page/横内正.md "wikilink")
-  - [山田吾一](../Page/山田吾一.md "wikilink")
+  - [アントニオ古賀](../Page/アントニオ古賀.md "wikilink") - [舟木一夫](../Page/舟木一夫.md "wikilink")のフルート伴奏
+  - [日色ともゑ](../Page/日色ともゑ.md "wikilink") - [テレビ小説](https://ja.wikipedia.org/wiki/テレビ小説 "wikilink")･[旅路](https://ja.wikipedia.org/wiki/旅路 "wikilink")に出演
+  - [横内正](../Page/横内正.md "wikilink") - [テレビ小説](https://ja.wikipedia.org/wiki/テレビ小説 "wikilink")･[旅路](https://ja.wikipedia.org/wiki/旅路 "wikilink")に出演
+  - [山田吾一](../Page/山田吾一.md "wikilink") - [テレビ小説](https://ja.wikipedia.org/wiki/テレビ小説 "wikilink")･[旅路](https://ja.wikipedia.org/wiki/旅路 "wikilink")に出演
   - [三遊亭歌奴](https://ja.wikipedia.org/wiki/三遊亭圓歌_\(3代目\) "wikilink")
   - [三遊亭圓楽](../Page/三遊亭圓楽_\(5代目\).md "wikilink") （5代目）- 入場行進時、白組のプラカード持ち。
   - [前田美波里](../Page/前田美波里.md "wikilink") - 入場行進時、紅組のプラカード持ち。
-  - [津々美洋とオールスターズ・ワゴン](https://ja.wikipedia.org/wiki/津々美洋とオールスターズ・ワゴン "wikilink") - 山本リンダの伴奏
-  - [林美智子](https://ja.wikipedia.org/wiki/林美智子 "wikilink")
-  - [藤岡琢也](../Page/藤岡琢也.md "wikilink")
+  - [津々美洋とオールスターズ・ワゴン](https://ja.wikipedia.org/wiki/津々美洋とオールスターズ・ワゴン "wikilink") - [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")の伴奏
+  - [林美智子](https://ja.wikipedia.org/wiki/林美智子 "wikilink") - ドラマ[ケンチとすみれ](../Page/ケンチとすみれ.md "wikilink")に出演
+  - [藤岡琢也](../Page/藤岡琢也.md "wikilink") - ドラマ[ケンチとすみれ](../Page/ケンチとすみれ.md "wikilink")に出演
   - [ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink") - 応援団として出演。
   - [高見山大五郎](../Page/高見山大五郎.md "wikilink")
   - [獅子てんや・瀬戸わんや](../Page/獅子てんや・瀬戸わんや.md "wikilink")

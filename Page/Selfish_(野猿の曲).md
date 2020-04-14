@@ -1,4 +1,4 @@
-> この記事は[Selfish \(\)](https://ja.wikipedia.org/wiki/Selfish_\(\))から翻訳されています。
+> この記事は[Selfish \(野猿の曲\)](https://ja.wikipedia.org/wiki/Selfish_\(野猿の曲\))から翻訳されています。
 
 
 「**Selfish**（セルフィッシュ）」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")、[野猿](../Page/野猿.md "wikilink")の5枚目のシングル。1999年8月4日発売。

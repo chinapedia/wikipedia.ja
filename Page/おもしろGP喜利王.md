@@ -1,4 +1,4 @@
-> この記事は[GP](https://ja.wikipedia.org/wiki/GP)から翻訳されています。
+> この記事は[おもしろGP喜利王](https://ja.wikipedia.org/wiki/おもしろGP喜利王)から翻訳されています。
 
 
 『**おもしろGP喜利王**』（おもしろグランプリぎりキング）は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で[2005年](../Page/2005年.md "wikilink")10月9日から[2006年](../Page/2006年.md "wikilink")3月26日まで放送された、[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

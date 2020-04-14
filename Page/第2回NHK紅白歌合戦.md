@@ -1,4 +1,4 @@
-> この記事は[2NHK](https://ja.wikipedia.org/wiki/2NHK)から翻訳されています。
+> この記事は[第2回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第2回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第2回NHK紅白歌合戦**』（だいにかいエヌエイチケイこうはくうたがっせん）は、[1952年](../Page/1952年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")27年）[1月3日](../Page/1月3日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第2回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

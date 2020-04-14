@@ -1,4 +1,4 @@
-> この記事は[PlayStation \(2002\)](https://ja.wikipedia.org/wiki/PlayStation_\(2002\))から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧 \(2002年\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(2002年\))から翻訳されています。
 
 
 '''PlayStationのゲームタイトル一覧 (2002年) '''（プレイステーションのゲームタイトルいちらん (2002ねん)）では[2002年](../Page/2002年.md "wikilink")に[PlayStation対応ソフトとして発売されたゲームソフトを発売順に列記する](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ただし追加要素のない廉価版は含まない。全226本。

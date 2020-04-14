@@ -1,4 +1,4 @@
-> この記事は[ ANGEL EYES](https://ja.wikipedia.org/wiki/_ANGEL_EYES)から翻訳されています。
+> この記事は[闘姫伝承 ANGEL EYES](https://ja.wikipedia.org/wiki/闘姫伝承_ANGEL_EYES)から翻訳されています。
 
 
 **闘姫伝承 ANGEL EYES**（とうきでんしょう エンジェル アイズ）は、[テクモ](../Page/テクモ.md "wikilink")が発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。後に[プレイステーションに移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。

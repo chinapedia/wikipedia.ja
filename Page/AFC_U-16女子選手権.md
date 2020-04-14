@@ -1,4 +1,4 @@
-> この記事は[AFC U-16](https://ja.wikipedia.org/wiki/AFC_U-16)から翻訳されています。
+> この記事は[AFC U-16女子選手権](https://ja.wikipedia.org/wiki/AFC_U-16女子選手権)から翻訳されています。
 
 
 **AFC U-16女子選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、16歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。[2007年大会](https://ja.wikipedia.org/wiki/AFC_U-16女子選手権2007 "wikilink")（第2回）から[FIFA U-17女子ワールドカップの予選を兼ねている](../Page/FIFA_U-17女子ワールドカップ.md "wikilink")。

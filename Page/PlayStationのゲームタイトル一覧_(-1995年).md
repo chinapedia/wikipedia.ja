@@ -1,4 +1,4 @@
-> この記事は[PlayStation \(-1995\)](https://ja.wikipedia.org/wiki/PlayStation_\(-1995\))から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧 \(-1995年\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(-1995年\))から翻訳されています。
 
 
 '''PlayStationのゲームタイトル一覧 (-1995年) '''（プレイステーションのゲームタイトルいちらん (-1995ねん)）では[1994年](../Page/1994年.md "wikilink")と[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の[PlayStation対応として発売したゲームソフトを発売順に列記する](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ただし追加要素のない廉価版は含まない。 ●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。 \[C\]のついているソフトは、[プレイステーション クラシックに内蔵されているソフト](https://ja.wikipedia.org/wiki/プレイステーション_クラシック "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNテレビ静岡スーパータイム](https://ja.wikipedia.org/wiki/FNNテレビ静岡スーパータイム)から翻訳されています。
 
 
 『**FNNテレビ静岡スーパータイム**』（エフエヌエヌ テレビしずおかスーパータイム）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ静岡](../Page/テレビ静岡.md "wikilink")で放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[静岡県](../Page/静岡県.md "wikilink")ローカルパート扱い）。

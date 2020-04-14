@@ -1,4 +1,4 @@
-> この記事は[AFC-01 ](https://ja.wikipedia.org/wiki/AFC-01_)から翻訳されています。
+> この記事は[AFC-01 レギオス](https://ja.wikipedia.org/wiki/AFC-01_レギオス)から翻訳されています。
 
 
 **AFC-01 レギオス**とは、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機甲創世記モスピーダ](https://ja.wikipedia.org/wiki/機甲創世記モスピーダ "wikilink")』に登場する架空の単座可変戦闘機/戦闘ロボットである。

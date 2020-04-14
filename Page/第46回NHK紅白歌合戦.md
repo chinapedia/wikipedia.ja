@@ -1,4 +1,4 @@
-> この記事は[46NHK](https://ja.wikipedia.org/wiki/46NHK)から翻訳されています。
+> この記事は[第46回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第46回NHK紅白歌合戦**』（だいよんじゅうろっかいエヌエイチケイこうはくうたがっせん）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算46回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。20:00 - 21:25および21:30 - 23:45に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

@@ -1,4 +1,4 @@
-> この記事は[THE  ](https://ja.wikipedia.org/wiki/THE__)から翻訳されています。
+> この記事は[THE 恋愛シミュレーション 〜私におまカフェ〜](https://ja.wikipedia.org/wiki/THE_恋愛シミュレーション_〜私におまカフェ〜)から翻訳されています。
 
 
 『**THE 恋愛シミュレーション 〜私におまカフェ〜**』（ザ・れんあいシミュレーション わたしにおまカフェ）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が廉価版ソフト[SIMPLE2000シリーズのVol](../Page/SIMPLEシリーズ.md "wikilink").19として[2002年](../Page/2002年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[PlayStation 2向けに発売した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。

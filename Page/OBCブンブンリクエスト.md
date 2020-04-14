@@ -1,4 +1,4 @@
-> この記事は[OBC](https://ja.wikipedia.org/wiki/OBC)から翻訳されています。
+> この記事は[OBCブンブンリクエスト](https://ja.wikipedia.org/wiki/OBCブンブンリクエスト)から翻訳されています。
 
 
 『**OBCブンブンリクエスト**』（オービーシーブンブンリクエスト）は、[ラジオ大阪で放送されていた](../Page/大阪放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")6月から[2001年](../Page/2001年.md "wikilink")9月にかけて放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[MERMAID \(GLAY\)](https://ja.wikipedia.org/wiki/MERMAID_\(GLAY\))から翻訳されています。
+> この記事は[MERMAID \(GLAYの曲\)](https://ja.wikipedia.org/wiki/MERMAID_\(GLAYの曲\))から翻訳されています。
 
 
 『**MERMAID**』（マーメイド）は、[GLAY](../Page/GLAY.md "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")である。

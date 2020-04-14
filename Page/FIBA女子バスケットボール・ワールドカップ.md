@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBA女子バスケットボール・ワールドカップ](https://ja.wikipedia.org/wiki/FIBA女子バスケットボール・ワールドカップ)から翻訳されています。
 
 
 **FIBA女子バスケットボール・ワールドカップ**（FIBA Women's Basketball World Cup）は[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")(FIBA)主催の女子[バスケットボール](../Page/バスケットボール.md "wikilink")の世界選手権。2014年までは**女子バスケットボール世界選手権**として開催されていた\[1\]。

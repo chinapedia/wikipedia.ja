@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK南鰺ヶ沢中継局](https://ja.wikipedia.org/wiki/NHK南鰺ヶ沢中継局)から翻訳されています。
 
 
 **NHK南鰺ヶ沢中継局**（えぬえいちけいみなみあじがさわちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[西津軽郡](../Page/西津軽郡.md "wikilink")[鰺ヶ沢町](https://ja.wikipedia.org/wiki/鰺ヶ沢町 "wikilink")にある[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")のFMラジオ放送の中継局である。かつては地上アナログテレビ放送の中継局も設置されていたが、2011年に廃止された。

@@ -1,4 +1,4 @@
-> この記事は[AABC](https://ja.wikipedia.org/wiki/AABC)から翻訳されています。
+> この記事は[A・A・B・C〜ア・ア・ビ・チ〜](https://ja.wikipedia.org/wiki/A・A・B・C〜ア・ア・ビ・チ〜)から翻訳されています。
 
 
 「**A・A・B・C〜ア・ア・ビ・チ〜**」は、[イタリア](../Page/イタリア.md "wikilink")の楽曲。原題は「A.A.B.C.」、別邦題「A.B.Cの歌」。
@@ -21,7 +21,7 @@
 
 ## 外部リンク
 
-  - [NHK みんなのうた - A・A・B・C - 弘田三枝子、ヴォーカルショップ](http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN198502_04)
+  - [NHK みんなのうた - A・A・B・C - 弘田三枝子、ヴォーカルショップ](https://www.nhk.or.jp/minna/songs/MIN196504_01/)
 
 ## 脚注
 

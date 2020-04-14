@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[O・パンニールセルヴァム](https://ja.wikipedia.org/wiki/O・パンニールセルヴァム)から翻訳されています。
 
 
 **O・パンニールセルヴァム**（**ஒ. பன்னீர்செல்வம்** : O. Paneerselvam、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - ）は[インド](../Page/インド.md "wikilink")の[政治家](../Page/政治家.md "wikilink")。主に[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")の政治に参画している。タミル・ナードゥ州首相を一期務めた。

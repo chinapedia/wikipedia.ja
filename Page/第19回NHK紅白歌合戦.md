@@ -1,4 +1,4 @@
-> この記事は[19NHK](https://ja.wikipedia.org/wiki/19NHK)から翻訳されています。
+> この記事は[第19回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第19回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第19回NHK紅白歌合戦**』（だいじゅうきゅうかいエヌエイチケイこうはくうたがっせん）は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[12月31日](../Page/12月31日.md "wikilink")に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で行われた、通算19回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
@@ -53,7 +53,7 @@
 
   - 前回の出場歌手の中より今回不選出となった歌手は以下。
       - 紅組:[金井克子](../Page/金井克子.md "wikilink")・[仲宗根美樹](https://ja.wikipedia.org/wiki/仲宗根美樹 "wikilink")・[日野てる子](../Page/日野てる子.md "wikilink")・[弘田三枝子](https://ja.wikipedia.org/wiki/弘田三枝子 "wikilink")・[山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")
-      - 白組:[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")・[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")\[1\]・[美樹克彦](https://ja.wikipedia.org/wiki/美樹克彦 "wikilink")・[山田太郎](../Page/山田太郎.md "wikilink")・[和田弘とマヒナ・スターズ](https://ja.wikipedia.org/wiki/和田弘とマヒナ・スターズ "wikilink")
+      - 白組:[荒木一郎](../Page/荒木一郎.md "wikilink")・[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")\[1\]・[美樹克彦](https://ja.wikipedia.org/wiki/美樹克彦 "wikilink")・[山田太郎](../Page/山田太郎.md "wikilink")・[和田弘とマヒナ・スターズ](https://ja.wikipedia.org/wiki/和田弘とマヒナ・スターズ "wikilink")
   - それまで司会者と出場歌手の兼任は原則認められていなかった\[2\]が、この回では司会の水前寺・坂本も連続出場し、事実上の「兼任解禁」となった。
   - それまでの紅白では「男女対抗」というコンセプトから、男女混合グループの出場は認められていなかったが、同年に大ヒットした[ピンキーとキラーズ](../Page/ピンキーとキラーズ.md "wikilink")が初出場を決める。紅白の枠組みでどう扱うかでもめたが、結局ボーカルが[今陽子](../Page/今陽子.md "wikilink")（ピンキー）であるということで紅組からの出場となった。
 
@@ -85,14 +85,15 @@
 ### その他ゲスト
 
   - [コント55号](../Page/コント55号.md "wikilink")
-  - [獅子てんや・瀬戸わんや](../Page/獅子てんや・瀬戸わんや.md "wikilink")
   - [三浦布美子](https://ja.wikipedia.org/wiki/三浦布美子 "wikilink")
-  - [青空はるお](../Page/青空はるお.md "wikilink")・[あきお](../Page/横山あきお.md "wikilink")（はるおは[秋田県](../Page/秋田県.md "wikilink")[男鹿市](../Page/男鹿市.md "wikilink")、あきおは[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")より中継）
   - [ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")
-  - [レ・ガールズ](https://ja.wikipedia.org/wiki/レ・ガールズ "wikilink")(金井克子･由美かおる･原田糸子･奈美悦子･江美早苗)
-  - [前田武彦](../Page/前田武彦.md "wikilink")
-  - [ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")（デューク・エイセスの後に登場し、ドリフのカバー版『いい湯だな』を披露した）。
   - [林家三平](../Page/林家三平_\(初代\).md "wikilink")
+  - [前田武彦](../Page/前田武彦.md "wikilink")
+  - [獅子てんや・瀬戸わんや](../Page/獅子てんや・瀬戸わんや.md "wikilink")
+  - [レ・ガールズ](https://ja.wikipedia.org/wiki/レ・ガールズ "wikilink")([金井克子](../Page/金井克子.md "wikilink")、[由美かおる](../Page/由美かおる.md "wikilink")、[原田糸子](https://ja.wikipedia.org/wiki/原田糸子 "wikilink")、[奈美悦子](../Page/奈美悦子.md "wikilink")、[江美早苗](https://ja.wikipedia.org/wiki/中里綴 "wikilink"))
+  - [ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")（デューク・エイセスの後に登場し、ドリフのカバー版『いい湯だな』を披露した）。
+  - [青空はるお](../Page/青空はるお.md "wikilink")・[あきお](../Page/横山あきお.md "wikilink")（はるおは[秋田県](../Page/秋田県.md "wikilink")[男鹿市](../Page/男鹿市.md "wikilink")、あきおは[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")より中継）
+  - [三木のり平](../Page/三木のり平.md "wikilink")
 
 ## 当日のステージ・エピソード
 

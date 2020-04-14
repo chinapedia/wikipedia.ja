@@ -1,4 +1,4 @@
-> この記事は[26NHK](https://ja.wikipedia.org/wiki/26NHK)から翻訳されています。
+> この記事は[第26回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第26回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第26回NHK紅白歌合戦**』（だいにじゅうろっかいエヌエイチケイこうはくうたがっせん）は、[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算26回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時から23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:ドイツ/Section:政治と宗教](https://ja.wikipedia.org/wiki/Portal:ドイツ/Section:政治と宗教)から翻訳されています。
 
 
 <div style="float: right; margin: 0 0 1em 0.5em; border: 1px solid gray; padding: 0.5em;">

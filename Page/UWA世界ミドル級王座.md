@@ -1,4 +1,4 @@
-> この記事は[UWA](https://ja.wikipedia.org/wiki/UWA)から翻訳されています。
+> この記事は[UWA世界ミドル級王座](https://ja.wikipedia.org/wiki/UWA世界ミドル級王座)から翻訳されています。
 
 
 **UWA世界ミドル級王座**は、[UWAが管理していた王座である](https://ja.wikipedia.org/wiki/ユニバーサル・レスリング・アソシエーション "wikilink")。

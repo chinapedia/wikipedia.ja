@@ -1,4 +1,4 @@
-> この記事は[FIA GT](https://ja.wikipedia.org/wiki/FIA_GT)から翻訳されています。
+> この記事は[FIA GT選手権](https://ja.wikipedia.org/wiki/FIA_GT選手権)から翻訳されています。
 
 
 **FIA GT選手権**（エフアイエー ジーティーせんしゅけん、FIA GT Championship）は、[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）が管轄する、GTカーによるレースの名称。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から2009年まで開催されていた。

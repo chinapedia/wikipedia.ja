@@ -1,4 +1,4 @@
-> この記事は[SGI](https://ja.wikipedia.org/wiki/SGI)から翻訳されています。
+> この記事は[日本SGI](https://ja.wikipedia.org/wiki/日本SGI)から翻訳されています。
 
 
 **日本SGI株式会社**は、米[Silicon Graphics International Corp.](../Page/シリコングラフィックス.md "wikilink") (SGI) の日本法人として[コンピュータ](../Page/コンピュータ.md "wikilink")やこれに関連する[サービス](../Page/サービス.md "wikilink")に関する事業を行っていた[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。

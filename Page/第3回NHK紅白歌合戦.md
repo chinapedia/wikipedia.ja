@@ -1,4 +1,4 @@
-> この記事は[3NHK](https://ja.wikipedia.org/wiki/3NHK)から翻訳されています。
+> この記事は[第3回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第3回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第3回NHK紅白歌合戦**』（だいさんかいエヌエイチケイこうはくうたがっせん）は、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[1月2日](../Page/1月2日.md "wikilink")に[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")第1スタジオで行われた、第3回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時30分から21時に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

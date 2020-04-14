@@ -1,4 +1,4 @@
-> この記事は[ Le Chevalier D\'Eon](https://ja.wikipedia.org/wiki/_Le_Chevalier_D\'Eon)から翻訳されています。
+> この記事は[シュヴァリエ 〜Le Chevalier D\'Eon〜](https://ja.wikipedia.org/wiki/シュヴァリエ_〜Le_Chevalier_D\'Eon〜)から翻訳されています。
 
 
 『**シュヴァリエ 〜Le Chevalier D'Eon〜**』（シュヴァリエ ル・シュヴァリエ・デオン）は、[冲方丁](../Page/冲方丁.md "wikilink")の原作を元にした、[アニメ](../Page/アニメ.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[小説](../Page/小説.md "wikilink")で展開されている作品群である。
@@ -214,7 +214,7 @@
   -
 
       -
-        作詞 - AYA / 作曲 - AYA、DAIKI KASHO / 歌 - [亜矢](https://ja.wikipedia.org/wiki/亜矢 "wikilink")
+        作詞 - AYA / 作曲 - AYA、[DAIKI KASHO](../Page/嘉生大樹.md "wikilink") / 歌 - [亜矢](https://ja.wikipedia.org/wiki/亜矢 "wikilink")
 
 ### 各話リスト
 

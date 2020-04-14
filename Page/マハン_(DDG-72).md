@@ -1,4 +1,4 @@
-> この記事は[ \(DDG-72\)](https://ja.wikipedia.org/wiki/_\(DDG-72\))から翻訳されています。
+> この記事は[マハン \(DDG-72\)](https://ja.wikipedia.org/wiki/マハン_\(DDG-72\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

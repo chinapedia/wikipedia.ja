@@ -1,4 +1,4 @@
-> この記事は[50NHK](https://ja.wikipedia.org/wiki/50NHK)から翻訳されています。
+> この記事は[第50回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第50回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第50回NHK紅白歌合戦**』（だいごじっかいエヌエイチケイこうはくうたがっせん）は、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算50回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。19時30分 - 21時20分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
@@ -211,7 +211,7 @@
   - [阿武教子](../Page/阿武教子.md "wikilink")、[前田桂子](../Page/前田桂子.md "wikilink")（柔道選手）：同上。
   - [塚原直也](../Page/塚原直也.md "wikilink")（[体操選手](../Page/体操競技.md "wikilink")）：同上。
   - [浜口京子](https://ja.wikipedia.org/wiki/浜口京子 "wikilink")（[レスリング選手](../Page/アマチュアレスリング.md "wikilink")）：同上。
-  - [近内圭太郎](https://ja.wikipedia.org/wiki/近内圭太郎 "wikilink")、[田島寧子](https://ja.wikipedia.org/wiki/田島寧子 "wikilink")（[水泳](../Page/水泳.md "wikilink")選手）：同上。
+  - [近内圭太郎](../Page/近内圭太郎.md "wikilink")、[田島寧子](https://ja.wikipedia.org/wiki/田島寧子 "wikilink")（[水泳](../Page/水泳.md "wikilink")選手）：同上。
   - [平瀬智行](../Page/平瀬智行.md "wikilink")（[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")[フォワード](../Page/フォワード_\(サッカー\).md "wikilink")）：同上。
   - [神田うの](../Page/神田うの.md "wikilink")：郷ひろみの曲紹介。
 

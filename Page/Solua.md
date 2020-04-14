@@ -33,6 +33,6 @@
 ## 外部リンク
 
   - [公式HP](http://solua.jp/solua/solua.html)
-  - [稲葉エミHP](http://homepage1.nifty.com/jane/)
 
+  -
 [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")

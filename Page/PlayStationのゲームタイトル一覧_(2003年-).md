@@ -1,4 +1,4 @@
-> この記事は[PlayStation \(2003-\)](https://ja.wikipedia.org/wiki/PlayStation_\(2003-\))から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧 \(2003年-\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(2003年-\))から翻訳されています。
 
 
 '''PlayStationのゲームタイトル一覧 (2003年-2004年) '''（プレイステーションのゲームタイトルいちらん (2003ねん-2004ねん)）では [2003年](../Page/2003年.md "wikilink")以降に[PlayStation対応として発売したゲームソフトを発売順に列記する](../Page/PlayStation_\(ゲーム機\).md "wikilink")。ただし追加要素のない廉価版は含まない。

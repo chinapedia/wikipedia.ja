@@ -1,4 +1,4 @@
-> この記事は[Winding Road \(\)](https://ja.wikipedia.org/wiki/Winding_Road_\(\))から翻訳されています。
+> この記事は[Winding Road \(ポルノグラフィティの曲\)](https://ja.wikipedia.org/wiki/Winding_Road_\(ポルノグラフィティの曲\))から翻訳されています。
 
 
 「**Winding Road**」（ワインディング・ロード）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリース。

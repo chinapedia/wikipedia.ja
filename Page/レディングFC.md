@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レディングFC](https://ja.wikipedia.org/wiki/レディングFC)から翻訳されています。
 
 
 **レディングFC**（**Reading Football Club** ( )）は、[イングランド](../Page/イングランド.md "wikilink")・[レディング](../Page/レディング.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -191,43 +191,47 @@
 
 ## 歴代所属選手
 
-  - [マット・バスビー](../Page/マット・バスビー.md "wikilink") 1942-1945
-
-  - [ケリー・ディクソン](https://ja.wikipedia.org/wiki/ケリー・ディクソン "wikilink") 1980-1983
+### GK
 
   - [シャカ・ヒスロップ](../Page/シャカ・ヒスロップ.md "wikilink") 1992-1995
 
-  - [ニッキー・ショーリー](../Page/ニッキー・ショーリー.md "wikilink") 2001-2008, 2012-2013
-
   - [マーカス・ハーネマン](https://ja.wikipedia.org/wiki/マーカス・ハーネマン "wikilink") 2002-2009
-
-  - [スティーヴン・シドウェル](https://ja.wikipedia.org/wiki/スティーヴン・シドウェル "wikilink") 2003-2007
-
-  - [デイヴ・キットソン](https://ja.wikipedia.org/wiki/デイヴ・キットソン "wikilink") 2004-2009
-
-  - [ケヴィン・ドイル](../Page/ケヴィン・ドイル.md "wikilink") 2005-2009
 
   - [グラハム・スタック](../Page/グラハム・スタック.md "wikilink") 2005-2006
 
-  - [シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink") 2005-2011
+### DF
 
-  - [ギルフィ・シグルズソン](https://ja.wikipedia.org/wiki/ギルフィ・シグルズソン "wikilink") 2005-2010
+  - [グレアム・ムーティ](https://ja.wikipedia.org/wiki/グレアム・ムーティ "wikilink") 1998-2009
 
-  - [ボビー・コンヴェイ](../Page/ボビー・コンヴェイ.md "wikilink") 2005-2006
+  - [ニッキー・ショーリー](../Page/ニッキー・ショーリー.md "wikilink") 2001-2008, 2012-2013
 
-  - [リロイ・リタ](../Page/リロイ・リタ.md "wikilink") 2005-2008
+  - [イヴァル・インゲルマルソン](https://ja.wikipedia.org/wiki/イヴァル・インゲルマルソン "wikilink") 2003-2011
 
   - [ウリセス・デ・ラ・クルス](../Page/ウリセス・デ・ラ・クルス.md "wikilink") 2006-2008
 
+### MF
+
+  - [フィル・パルキンソン](https://ja.wikipedia.org/wiki/フィル・パルキンソン "wikilink") 1992-2003
+
+  - [スティーヴ・シドウェル](../Page/スティーヴ・シドウェル.md "wikilink") 2003-2007
+
+  - [ボビー・コンヴェイ](../Page/ボビー・コンヴェイ.md "wikilink") 2005-2006
+
+  - [ギルフィ・シグルズソン](https://ja.wikipedia.org/wiki/ギルフィ・シグルズソン "wikilink") 2005-2010
+
+  - [ジェム・カラジャン](https://ja.wikipedia.org/wiki/ジェム・カラジャン "wikilink") 2007-2015
+
+### FW
+
+  - [デイヴ・キットソン](https://ja.wikipedia.org/wiki/デイヴ・キットソン "wikilink") 2004-2009
+
+  - [リロイ・リタ](../Page/リロイ・リタ.md "wikilink") 2005-2008
+
+  - [ケヴィン・ドイル](../Page/ケヴィン・ドイル.md "wikilink") 2005-2009
+
+  - [シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink") 2005-2011
+
   - [薛琦鉉](../Page/薛ギ鉉.md "wikilink") 2006-2007
-
-  - [ジミー・ケベ](https://ja.wikipedia.org/wiki/ジミー・ケベ "wikilink") 2008-2013
-
-  - [マレク・マテヨフスキー](../Page/マレク・マテヨフスキー.md "wikilink") 2008-2010
-
-  - [パヴェル・ポグレブニャク](../Page/パヴェル・ポグレブニャク.md "wikilink") 2012-2015
-
-  - [アリ・アル・ハブシ](../Page/アリ・アル・ハブシ.md "wikilink") 2015-2017
 
 ## 脚注
 

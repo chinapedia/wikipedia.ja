@@ -1,4 +1,4 @@
-> この記事は[7NHK](https://ja.wikipedia.org/wiki/7NHK)から翻訳されています。
+> この記事は[第7回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第7回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第7回NHK紅白歌合戦**』（だいななかいエヌエイチケイこうはくうたがっせん）は、[1956年](../Page/1956年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")31年）[12月31日](../Page/12月31日.md "wikilink")に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で行われた、通算7回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時05分 - 23時30分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。

@@ -1,4 +1,4 @@
-> この記事は[Triangle \(\)](https://ja.wikipedia.org/wiki/Triangle_\(\))から翻訳されています。
+> この記事は[Triangle \(ブランド\)](https://ja.wikipedia.org/wiki/Triangle_\(ブランド\))から翻訳されています。
 
 
 **Triangle**（トライアングル）は、有限会社ルートツーによる[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランドである。本拠は[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[佐伯区](../Page/佐伯区.md "wikilink")。姉妹ブランドに「Delta」がある。

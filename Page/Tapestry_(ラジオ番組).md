@@ -1,4 +1,4 @@
-> この記事は[Tapestry \(\)](https://ja.wikipedia.org/wiki/Tapestry_\(\))から翻訳されています。
+> この記事は[Tapestry \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Tapestry_\(ラジオ番組\))から翻訳されています。
 
 
 **Tapestry**（タペストリー）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[TOKYO FMで](../Page/エフエム東京.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた平日ワイド[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

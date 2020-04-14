@@ -1,4 +1,4 @@
-> この記事は[A.\&](https://ja.wikipedia.org/wiki/A.\&)から翻訳されています。
+> この記事は[A.ランゲ\&ゾーネ](https://ja.wikipedia.org/wiki/A.ランゲ\&ゾーネ)から翻訳されています。
 
 
 **A.ランゲ＆ゾーネ**（*A. Lange & Söhne* <small> [発音例](http://ja.forvo.com/word/a._lange_%2526_söhne#de)</small>）は、ドイツに本拠地を有する高級時計ブランド。[リシュモン](../Page/リシュモン.md "wikilink")グループに属する。

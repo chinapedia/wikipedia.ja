@@ -1,4 +1,4 @@
-> この記事は[Meister \(\)](https://ja.wikipedia.org/wiki/Meister_\(\))から翻訳されています。
+> この記事は[Meister \(バンド\)](https://ja.wikipedia.org/wiki/Meister_\(バンド\))から翻訳されています。
 
 
 **meister**（マイスター）は、バンド「[the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")」の元[ギタリスト](../Page/ギタリスト.md "wikilink")松井亮の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。2004年活動開始。

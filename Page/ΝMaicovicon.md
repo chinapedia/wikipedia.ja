@@ -1,4 +1,4 @@
-> この記事は[Maicovicon](https://ja.wikipedia.org/wiki/Maicovicon)から翻訳されています。
+> この記事は[ΝMaicovicon](https://ja.wikipedia.org/wiki/ΝMaicovicon)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:NTT_DoCoMo_FOMA_P902i_closed.jpg "wikilink")

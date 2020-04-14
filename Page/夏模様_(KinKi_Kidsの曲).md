@@ -1,4 +1,4 @@
-> この記事は[ \(KinKi Kids\)](https://ja.wikipedia.org/wiki/_\(KinKi_Kids\))から翻訳されています。
+> この記事は[夏模様 \(KinKi Kidsの曲\)](https://ja.wikipedia.org/wiki/夏模様_\(KinKi_Kidsの曲\))から翻訳されています。
 
 
 「**夏模様**」（なつもよう）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

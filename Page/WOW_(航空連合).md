@@ -1,4 +1,4 @@
-> この記事は[WOW \(\)](https://ja.wikipedia.org/wiki/WOW_\(\))から翻訳されています。
+> この記事は[WOW \(航空連合\)](https://ja.wikipedia.org/wiki/WOW_\(航空連合\))から翻訳されています。
 
 
 [Lufthansa_Cargo_MD11_D-ALCE.jpg](https://ja.wikipedia.org/wiki/File:Lufthansa_Cargo_MD11_D-ALCE.jpg "fig:Lufthansa_Cargo_MD11_D-ALCE.jpg") **WOW**は、[2000年](../Page/2000年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")に結成された、貨物を対象にした[航空連合](../Page/航空連合.md "wikilink")である。

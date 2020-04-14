@@ -1,4 +1,4 @@
-> この記事は[YBS](https://ja.wikipedia.org/wiki/YBS)から翻訳されています。
+> この記事は[YBSワイドニュース](https://ja.wikipedia.org/wiki/YBSワイドニュース)から翻訳されています。
 
 
 『**YBSワイドニュース**』（ワイビーエス ワイドニュース）は、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBSテレビ）で放送されている[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[山梨日日新聞](../Page/山梨日日新聞.md "wikilink")・YBSの報道部門が総結集し、その日1日の山梨県の動きをきめ細かく視聴者に伝えている。2006年4月10日放送分からは[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作が行われている。
@@ -43,10 +43,10 @@ NNN Newsリアルタイムは2006年4月3日の月曜日に開始されたが、
 
 ### 現在の出演者
 
-  - [酒井康宜](../Page/酒井康宜.md "wikilink")（YBSアナウンサー）
-  - [水越千尋](https://ja.wikipedia.org/wiki/水越千尋 "wikilink")（YBSアナウンサー）
-  - [深田幹規](https://ja.wikipedia.org/wiki/深田幹規 "wikilink")（YBSアナウンサー）- マンデースポーツ（月）担当
-  - [出口美香](https://ja.wikipedia.org/wiki/出口美香 "wikilink")（天気予報士）
+  - [酒井康宜](../Page/酒井康宜.md "wikilink")（YBSアナウンサー、2011.3.28 - ）
+  - [荒木美穂](https://ja.wikipedia.org/wiki/荒木美穂 "wikilink")（YBSアナウンサー、2020.3.30 - ）
+  - [深田幹規](https://ja.wikipedia.org/wiki/深田幹規 "wikilink")（YBSアナウンサー、2019.7 - ）- マンデースポーツ（月）担当
+  - [宮田雄一郎](https://ja.wikipedia.org/wiki/宮田雄一郎 "wikilink")（気象予報士、2020.3.30 - ）
 
 ### 歴代の出演者
 
@@ -151,11 +151,17 @@ NNN Newsリアルタイムは2006年4月3日の月曜日に開始されたが、
 </tr>
 <tr class="odd">
 <td><p>2017.4.3</p></td>
-<td><p>（現在）</p></td>
+<td><p>2020.3.27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/水越千尋" title="wikilink">水越千尋</a></p></td>
 </tr>
 <tr class="even">
-<td><p><small></p>
+<td><p>2020.3.30</p></td>
+<td><p>現在</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/荒木美穂" title="wikilink">荒木美穂</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><small><br />
+<small></p>
 <ul>
 <li><sup>1</sup> 月-水曜。</li>
 <li><sup>2</sup> 木・金曜。</li>
@@ -165,6 +171,7 @@ NNN Newsリアルタイムは2006年4月3日の月曜日に開始されたが、
 <li><sup>6</sup> 不在時は土曜担当の穀田0r吉岡が担当。</li>
 <li><sup>7</sup> 月・金曜のスポーツ担当。</li>
 <li><sup>8</sup> YBS報道部記者（穀田は2008年3月までYBSアナウンサー） 。左記と萩原以外の人物はYBSアナウンサー。</li>
+<li><sup>9</sup> 天気予報担当。</li>
 <li>深沢担当時代までは平日のキャスターの不在時は土曜の同性キャスターが担当（同様に土曜は平日の同性）。ただし、穀田は平日に『<a href="../Page/YBSニュース・アップ!.md" title="wikilink">YBSニュース・アップ!</a>』を担当していた為、深沢が不在時は一部の曜日のみ担当（それ以外の例外は上記）。</li>
 </ul></td>
 <td></td>
@@ -206,7 +213,7 @@ NNN Newsリアルタイムは2006年4月3日の月曜日に開始されたが、
 
 ## 外部リンク
 
-  - [YBSワイドニュース](http://www.ybs.jp/tv/wnews/)
+  - [YBSワイドニュース](https://www.ybs.jp/tv/wnews/)
 
 [Category:1975年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のテレビ番組_\(日本\) "wikilink") [Category:山梨放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山梨放送のテレビ番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:NNN_JUST_NEWS](https://ja.wikipedia.org/wiki/Category:NNN_JUST_NEWS "wikilink") [Category:NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/Category:NNN6:30きょうのニュース "wikilink") [Category:NNNライブオンネットワーク](https://ja.wikipedia.org/wiki/Category:NNNライブオンネットワーク "wikilink") [Category:NNNニュースプラス1](https://ja.wikipedia.org/wiki/Category:NNNニュースプラス1 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink") [Category:News_every.](https://ja.wikipedia.org/wiki/Category:News_every. "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")
 

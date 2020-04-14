@@ -1,4 +1,4 @@
-> この記事は[ECD \(\)](https://ja.wikipedia.org/wiki/ECD_\(\))から翻訳されています。
+> この記事は[ECD \(ミュージシャン\)](https://ja.wikipedia.org/wiki/ECD_\(ミュージシャン\))から翻訳されています。
 
 
 **ECD**（イーシーディー、本名：石田義則、[1960年](../Page/1960年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")兼、[しばき隊の活動家でもある](https://ja.wikipedia.org/wiki/対レイシスト行動集団 "wikilink")。妻は写真家の[植本一子](https://ja.wikipedia.org/wiki/植本一子 "wikilink")\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Qシップ](https://ja.wikipedia.org/wiki/Qシップ)から翻訳されています。
 
 
 **Qシップ**（）または**囮船**（）、**特務船**（）とは、[武装](../Page/武装.md "wikilink")を隠して一般商船を装い、敵[潜水艦](../Page/潜水艦.md "wikilink")を油断させ奇襲する[武装商船](../Page/武装商船.md "wikilink")の一種である。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で[イギリス海軍](../Page/イギリス海軍.md "wikilink")が最初に用い、Qシップの名称はその際の符丁に因む。

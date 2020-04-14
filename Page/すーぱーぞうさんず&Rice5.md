@@ -1,4 +1,4 @@
-> この記事は[\&Rice5](https://ja.wikipedia.org/wiki/\&Rice5)から翻訳されています。
+> この記事は[すーぱーぞうさんず\&Rice5](https://ja.wikipedia.org/wiki/すーぱーぞうさんず\&Rice5)から翻訳されています。
 
 
 **すーぱーぞうさんず\&Rice<sup>5</sup>**（すーぱーぞうさんずアンドライス）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[いぬかみっ\!](../Page/いぬかみっ!.md "wikilink")』第18話（[2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")放送）のエンディングテーマを歌ったユニット。

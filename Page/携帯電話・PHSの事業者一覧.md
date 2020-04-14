@@ -1,4 +1,4 @@
-> この記事は[PHS](https://ja.wikipedia.org/wiki/PHS)から翻訳されています。
+> この記事は[携帯電話・PHSの事業者一覧](https://ja.wikipedia.org/wiki/携帯電話・PHSの事業者一覧)から翻訳されています。
 
 
 **携帯電話・PHSの事業者一覧**（けいたいでんわ・ピーエイチエスのじぎょうしゃいちらん）では、各国の、[携帯電話](../Page/携帯電話.md "wikilink")および[PHS](../Page/PHS.md "wikilink")の[事業者を以下に一覧とする](../Page/電気通信事業者.md "wikilink")。以下には既に事業から撤退したものも含む。詳細は各項を参照のこと。
@@ -14,7 +14,7 @@
   - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")
       - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")（[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）
       - [ウィルコム沖縄](../Page/ウィルコム沖縄.md "wikilink")（Y\!mobile）
-  - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")）
+  - [楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル_\(企業\) "wikilink")（[楽天モバイル](../Page/楽天モバイル_\(MNO\).md "wikilink")）
 
 ### アメリカ
 
@@ -57,7 +57,8 @@
 
 ### イタリア
 
-  - Wind Telecomunicazioni SpA
+  - Iliad Italia
+  - Wind Tre
   - [テレコム・イタリア・モービレ](../Page/テレコム・イタリア・モービレ.md "wikilink")
 
 ### フランス

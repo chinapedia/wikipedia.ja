@@ -1,4 +1,4 @@
-> この記事は[LISTEN TO MY HEART \(\)](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(\))から翻訳されています。
+> この記事は[LISTEN TO MY HEART \(アルバム\)](https://ja.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(アルバム\))から翻訳されています。
 
 
 『**LISTEN TO MY HEART**』（リッスン・トゥ・マイ・ハート）は、[BoA](../Page/BoA.md "wikilink")の1枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。

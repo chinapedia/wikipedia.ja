@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[らぶらぶワイドぎふTODAY](https://ja.wikipedia.org/wiki/らぶらぶワイドぎふTODAY)から翻訳されています。
 
 
 『**らぶらぶワイドぎふTODAY**』（らぶらぶワイドぎふトゥデイ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[岐阜放送](../Page/岐阜放送.md "wikilink")（岐阜テレビ）で放送された夕方のワイド系[ニュース番組](../Page/報道番組.md "wikilink")。

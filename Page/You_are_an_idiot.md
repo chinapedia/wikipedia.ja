@@ -1,7 +1,7 @@
 > この記事は[You are an idiot](https://ja.wikipedia.org/wiki/You_are_an_idiot)から翻訳されています。
 
 
-**You are an idiot**（ユー アー アン イディオット）は、かつて存在した[ブラウザクラッシャー](../Page/ブラウザクラッシャー.md "wikilink")サイト(ブラクラ)の一種である。[分類](../Page/分類.md "wikilink")はW32/Cisum.A。現在はサイト自体(youareanidiot.org)は消滅している
+**You are an idiot**（ユー アー アン イディオット）は、かつて存在した[ブラウザクラッシャー](../Page/ブラウザクラッシャー.md "wikilink")サイト(ブラクラ)の一種である。[分類](../Page/分類.md "wikilink")はW32/Cisum.A。現在はサイト自体(youareanidiot.org)は消滅している。
 
 ## 概要
 

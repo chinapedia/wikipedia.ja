@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNワイドニュース](https://ja.wikipedia.org/wiki/NNNワイドニュース)から翻訳されています。
 
 
 『**NNNワイドニュース**』（エヌエヌエヌ ワイドニュース）は、[1966年](../Page/1966年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")から[1972年](../Page/1972年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")まで[日本テレビから全国の](../Page/日本テレビ放送網.md "wikilink")[NNN系列局に向けて放送された](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[報道番組](../Page/報道番組.md "wikilink")である\[1\]。

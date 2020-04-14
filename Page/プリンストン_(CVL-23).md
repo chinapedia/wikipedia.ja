@@ -1,4 +1,4 @@
-> この記事は[ \(CVL-23\)](https://ja.wikipedia.org/wiki/_\(CVL-23\))から翻訳されています。
+> この記事は[プリンストン \(CVL-23\)](https://ja.wikipedia.org/wiki/プリンストン_\(CVL-23\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                                                                                   |

@@ -1,4 +1,4 @@
-> この記事は[TSR \(\)](https://ja.wikipedia.org/wiki/TSR_\(\))から翻訳されています。
+> この記事は[TSR \(オートバイ\)](https://ja.wikipedia.org/wiki/TSR_\(オートバイ\))から翻訳されています。
 
 
 **TSR**（ティーエスアール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")レーシングチームである。現在の名称は**テクニカルスポーツレーシング**（Technical Sports Racing）の頭文字からきている。
@@ -295,10 +295,6 @@
 <td><p>総合優勝 / 171.5Pt</p></td>
 </tr>
 <tr class="odd">
-<td><p>フレディ・フォーレイ<br />
- アラン・テシェ<br />
- ジョシュ・フック<br />
- アルツゥール・ティゾン</p></td>
 <td><p>第2戦　<br />
 ル・マン24時間耐久<br />
 (2018　4/21-22)</p></td>
@@ -306,6 +302,7 @@
 <td><p>843周</p></td>
 <td><p>24:01:04.008</p></td>
 <td><p>58Pt</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,9 +325,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>フレディ・フォーレイ<br />
- アラン・テシェ<br />
- ジョシュ・フック</p></td>
 <td><p>第4戦　<br />
 オッシャースレーベン8時間耐久<br />
 (2018　6/9)</p></td>
@@ -342,11 +336,9 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>フレディ・フォーレイ<br />
- アラン・テシェ<br />
- ジョシュ・フック</p></td>
 <td><p>第5戦　<br />
 鈴鹿8時間耐久<br />
 (2018　7/29)</p></td>
@@ -354,6 +346,7 @@
 <td><p>196周</p></td>
 <td><p>08:01:04.467</p></td>
 <td><p>25.5Pt</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -453,10 +446,10 @@
 <td><p>第2戦　<br />
 <a href="../Page/セパン・インターナショナル・サーキット.md" title="wikilink">セパン</a>8時間耐久<br />
 (2019　12/14)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>12位</p></td>
+<td><p>78周</p></td>
+<td><p>05:52:16.715</p></td>
+<td><p>9Pt</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -465,20 +458,6 @@
 </tr>
 <tr class="even">
 <td><p>第3戦　<br />
-ル・マン24時間耐久<br />
-(2020　4/18-19)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>第4戦　<br />
 オッシャースレーベン8時間耐久<br />
 (2020　6/6)</p></td>
 <td></td>
@@ -491,10 +470,24 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>第5戦　<br />
+<tr class="odd">
+<td><p>第4戦　<br />
 鈴鹿8時間耐久<br />
 (2020　7/19)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第5戦　<br />
+ル・マン24時間耐久<br />
+(2020　8/29-30)</p></td>
 <td></td>
 <td></td>
 <td></td>

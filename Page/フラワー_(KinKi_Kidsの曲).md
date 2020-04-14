@@ -1,4 +1,4 @@
-> この記事は[ \(KinKi Kids\)](https://ja.wikipedia.org/wiki/_\(KinKi_Kids\))から翻訳されています。
+> この記事は[フラワー \(KinKi Kidsの曲\)](https://ja.wikipedia.org/wiki/フラワー_\(KinKi_Kidsの曲\))から翻訳されています。
 
 
 「**フラワー**」は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
@@ -7,7 +7,7 @@
 
 ## 解説
 
-このシングルの初回版にはピンナップが封入されてはいたものの、ジャケットは通常版と同様である。
+このシングルの初回版にはジップタグが封入されてはいたものの、ジャケットは通常版と同様である。
 
 ## チャート成績
 

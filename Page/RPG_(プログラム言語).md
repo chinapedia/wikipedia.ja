@@ -1,4 +1,4 @@
-> この記事は[RPG \(\)](https://ja.wikipedia.org/wiki/RPG_\(\))から翻訳されています。
+> この記事は[RPG \(プログラム言語\)](https://ja.wikipedia.org/wiki/RPG_\(プログラム言語\))から翻訳されています。
 
 
 **RPG** は、[ビジネスソフトウェア](https://ja.wikipedia.org/wiki/ビジネスソフトウェア "wikilink")向けの[高水準言語](../Page/高水準言語.md "wikilink")に位置づけられる[プログラム言語](https://ja.wikipedia.org/wiki/プログラム言語 "wikilink")である。[IBM](../Page/IBM.md "wikilink")独自の言語であり、[IBM-iまたは](../Page/IBM_i.md "wikilink")[OS/400](https://ja.wikipedia.org/wiki/OS/400 "wikilink")のシステム上で動作する。

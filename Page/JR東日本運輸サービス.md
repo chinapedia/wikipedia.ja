@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本運輸サービス](https://ja.wikipedia.org/wiki/JR東日本運輸サービス)から翻訳されています。
 
 
 **JR東日本運輸サービス株式会社**（ジェイアールひがしにほんうんゆサービス）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")グループの会社。
@@ -107,17 +107,16 @@
 
 ## 関連項目
 
-  - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")
-  - [東日本環境アクセス](https://ja.wikipedia.org/wiki/東日本環境アクセス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](../Page/東日本旅客鉄道八王子支社.md "wikilink")、[大宮支社管内の駅舎清掃](../Page/東日本旅客鉄道大宮支社.md "wikilink")。
-  - [JR東日本ステーションサービス](https://ja.wikipedia.org/wiki/JR東日本ステーションサービス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](../Page/東日本旅客鉄道八王子支社.md "wikilink")、[大宮支社](../Page/東日本旅客鉄道大宮支社.md "wikilink")、 [高崎支社](../Page/東日本旅客鉄道高崎支社.md "wikilink")、[水戸支社](../Page/東日本旅客鉄道水戸支社.md "wikilink")、[千葉支社管内の駅業務委託](../Page/東日本旅客鉄道千葉支社.md "wikilink")。
-  - [JR水戸鉄道サービス](https://ja.wikipedia.org/wiki/JR水戸鉄道サービス "wikilink") - [水戸支社管内の駅舎清掃委託](../Page/東日本旅客鉄道水戸支社.md "wikilink")。
-  - [JR高崎鉄道サービス](https://ja.wikipedia.org/wiki/JR高崎鉄道サービス "wikilink") - [高崎支社管内の駅舎清掃委託](../Page/東日本旅客鉄道高崎支社.md "wikilink")。
-  - [JR千葉鉄道サービス](https://ja.wikipedia.org/wiki/JR千葉鉄道サービス "wikilink") - [千葉支社管内の駅舎清掃委託](../Page/東日本旅客鉄道高崎支社.md "wikilink")。
-  - [ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink") - [仙台支社管内の駅舎等清掃](../Page/東日本旅客鉄道仙台支社.md "wikilink")。
-  - [JR盛岡鉄道サービス](../Page/JR盛岡鉄道サービス.md "wikilink") - [盛岡支社管内の駅舎等清掃](../Page/東日本旅客鉄道盛岡支社.md "wikilink")。
-  - [JR秋田鉄道サービス](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink") - [秋田支社管内の駅舎等清掃](../Page/東日本旅客鉄道秋田支社.md "wikilink")。
-  - [JR新潟鉄道サービス](https://ja.wikipedia.org/wiki/JR新潟鉄道サービス "wikilink") - [新潟支社管内の駅舎等清掃](../Page/東日本旅客鉄道新潟支社.md "wikilink")。
-  - [JR長野鉄道サービス](https://ja.wikipedia.org/wiki/JR長野鉄道サービス "wikilink") - [長野支社管内の駅舎等清掃](../Page/東日本旅客鉄道長野支社.md "wikilink")。
+  - [JR東日本環境アクセス](https://ja.wikipedia.org/wiki/JR東日本環境アクセス "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink")、[横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink")、[八王子支社](../Page/東日本旅客鉄道八王子支社.md "wikilink")、[大宮支社管内の駅舎清掃等受託](../Page/東日本旅客鉄道大宮支社.md "wikilink")。
+  - [JR東日本テクノハートTESSEI](https://ja.wikipedia.org/wiki/JR東日本テクノハートTESSEI "wikilink") - [東京支社](../Page/東日本旅客鉄道東京支社.md "wikilink") 、[大宮支社小山エリアの新幹線車両や新幹線駅の清掃](../Page/東日本旅客鉄道大宮支社.md "wikilink")、車両基地の構内運転業務等受託。
+  - [JR高崎鉄道サービス](https://ja.wikipedia.org/wiki/JR高崎鉄道サービス "wikilink") - [高崎支社管内の駅舎等清掃](../Page/東日本旅客鉄道高崎支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR水戸鉄道サービス](https://ja.wikipedia.org/wiki/JR水戸鉄道サービス "wikilink") - [水戸支社管内の駅舎等清掃](../Page/東日本旅客鉄道水戸支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR千葉鉄道サービス](https://ja.wikipedia.org/wiki/JR千葉鉄道サービス "wikilink") - [千葉支社管内の駅舎等清掃](../Page/東日本旅客鉄道千葉支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink") - [仙台支社管内の駅舎等清掃](../Page/東日本旅客鉄道仙台支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR盛岡鉄道サービス](../Page/JR盛岡鉄道サービス.md "wikilink") - [盛岡支社管内の駅舎等清掃](../Page/東日本旅客鉄道盛岡支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR秋田鉄道サービス](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink") - [秋田支社管内の駅舎等清掃](../Page/東日本旅客鉄道秋田支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR新潟鉄道サービス](https://ja.wikipedia.org/wiki/JR新潟鉄道サービス "wikilink") - [新潟支社管内の駅舎等清掃](../Page/東日本旅客鉄道新潟支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR長野鉄道サービス](https://ja.wikipedia.org/wiki/JR長野鉄道サービス "wikilink") - [長野支社管内の駅舎等清掃](../Page/東日本旅客鉄道長野支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
 
 ## 外部リンク
 
@@ -125,4 +124,4 @@
 
 [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:日本の清掃業者](https://ja.wikipedia.org/wiki/Category:日本の清掃業者 "wikilink") [Category:日本の施設運営会社](https://ja.wikipedia.org/wiki/Category:日本の施設運営会社 "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:1955年設立の企業](https://ja.wikipedia.org/wiki/Category:1955年設立の企業 "wikilink")
 
-1.  この際、(1)関東車両整備の山手線、京浜東北線、東北本線、埼京線、常磐線の一部（38駅）の駅舎清掃業務は、[東日本環境アクセス](https://ja.wikipedia.org/wiki/東日本環境アクセス "wikilink")に、(2)東日本環境アクセスの甲府電留線の構内入換、車両清掃業務、新幹線那須塩原電留線の車両清掃は[鉄道整備](https://ja.wikipedia.org/wiki/鉄道整備 "wikilink")に、それぞれ業務の持替が行なわれた。
+1.  この際、(1)関東車両整備の山手線、京浜東北線、東北本線、埼京線、常磐線の一部（38駅）の駅舎清掃業務は、東日本環境アクセス（現・[JR東日本環境アクセス](https://ja.wikipedia.org/wiki/JR東日本環境アクセス "wikilink")）に、(2)東日本環境アクセス（現・JR東日本環境アクセス）の甲府電留線の構内入換、車両清掃業務、新幹線那須塩原電留線の車両清掃は[鉄道整備](https://ja.wikipedia.org/wiki/鉄道整備 "wikilink")に、それぞれ業務の持替が行なわれた。

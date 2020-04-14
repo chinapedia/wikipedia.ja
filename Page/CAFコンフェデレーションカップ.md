@@ -1,4 +1,4 @@
-> この記事は[CAF](https://ja.wikipedia.org/wiki/CAF)から翻訳されています。
+> この記事は[CAFコンフェデレーションカップ](https://ja.wikipedia.org/wiki/CAFコンフェデレーションカップ)から翻訳されています。
 
 
 **CAFコンフェデレーションカップ**（）は、[アフリカサッカー連盟](../Page/アフリカサッカー連盟.md "wikilink")（CAF）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。本項ではCAFカップについても扱う。

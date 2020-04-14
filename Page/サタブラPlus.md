@@ -1,4 +1,4 @@
-> この記事は[Plus](https://ja.wikipedia.org/wiki/Plus)から翻訳されています。
+> この記事は[サタブラPlus](https://ja.wikipedia.org/wiki/サタブラPlus)から翻訳されています。
 
 
 『**サタブラPlus**』（サタブラプラス）は、[2005年](../Page/2005年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")で毎週[土曜](../Page/土曜日.md "wikilink") 10:00 - 10:55 （[JST](../Page/日本標準時.md "wikilink")）に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

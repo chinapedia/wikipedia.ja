@@ -1,4 +1,4 @@
-> この記事は[!GABURI](https://ja.wikipedia.org/wiki/!GABURI)から翻訳されています。
+> この記事は[迫って!GABURI。](https://ja.wikipedia.org/wiki/迫って!GABURI。)から翻訳されています。
 
 
 『**迫って\!GABURI。**』（せまってカブリ）は、[1993年](../Page/1993年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで、[TBS](../Page/TBSテレビ.md "wikilink")[系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[毎日放送制作の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。放送時間は毎週[火曜](../Page/火曜日.md "wikilink")22:00 - 22:54 ([JST](../Page/日本標準時.md "wikilink")) 。

@@ -1,4 +1,4 @@
-> この記事は[ZX-10R](https://ja.wikipedia.org/wiki/ZX-10R)から翻訳されています。
+> この記事は[カワサキ・ニンジャZX-10R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-10R)から翻訳されています。
 
 
 **ニンジャZX-10R**（ニンジャ ゼットエックス-テンアール）は、[川崎重工業モーターサイクル&エンジンカンパニー](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")が製造している、輸出市場向け[4ストローク](../Page/4ストローク機関.md "wikilink")998ccの[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。

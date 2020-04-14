@@ -1,4 +1,4 @@
-> この記事は[JC](https://ja.wikipedia.org/wiki/JC)から翻訳されています。
+> この記事は[JCベイリー](https://ja.wikipedia.org/wiki/JCベイリー)から翻訳されています。
 
 
 **JCベイリー**（JC Bailey、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")\[1\] - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月30日](../Page/8月30日.md "wikilink")）は、主に[2000年代](../Page/2000年代.md "wikilink")に活動した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ハードコア](https://ja.wikipedia.org/wiki/ハードコア・レスリング "wikilink")[レスラー](../Page/プロレスラー.md "wikilink")\[2\]。身長約183cm、体重約86kg。本名を**ジョセフ・カール・ベイリー・ジュニア**<small>(Joseph Carl Bailey, Jr.)</small>といい\[3\]、[コンバット・ゾーン・レスリング](../Page/コンバット・ゾーン・レスリング.md "wikilink")<small>(CZW)</small>や[IWAミッドサウス](../Page/IWAミッドサウス.md "wikilink")などと言ったハードコア系の[プロレス団体](https://ja.wikipedia.org/wiki/プロレス団体 "wikilink")で行われる[デスマッチ](../Page/デスマッチ.md "wikilink")[トーナメントの常連で](../Page/トーナメント方式.md "wikilink")、軽量級ながら我が身を省みない自虐的な攻撃でファンから人気を得てきた。

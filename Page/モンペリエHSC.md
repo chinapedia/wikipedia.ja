@@ -1,4 +1,4 @@
-> この記事は[HSC](https://ja.wikipedia.org/wiki/HSC)から翻訳されています。
+> この記事は[モンペリエHSC](https://ja.wikipedia.org/wiki/モンペリエHSC)から翻訳されています。
 
 
 **モンペリエ・エロー・スポール・クリュ**（**Montpellier Hérault Sport Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[モンペリエ](../Page/モンペリエ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

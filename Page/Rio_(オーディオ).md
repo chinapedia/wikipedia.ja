@@ -1,4 +1,4 @@
-> この記事は[Rio \(\)](https://ja.wikipedia.org/wiki/Rio_\(\))から翻訳されています。
+> この記事は[Rio \(オーディオ\)](https://ja.wikipedia.org/wiki/Rio_\(オーディオ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:RioCarbon5GB.jpg "wikilink") **Rio**（りお）とは、[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")ブランドの名称である。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")・[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")・[アジア](../Page/アジア.md "wikilink")地域を中心とした携帯オーディオ市場で、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")-[2005年](../Page/2005年.md "wikilink")の約7年間販売されていた。

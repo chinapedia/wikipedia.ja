@@ -1,4 +1,4 @@
-> この記事は[17-at seventeen-](https://ja.wikipedia.org/wiki/17-at_seventeen-)から翻訳されています。
+> この記事は[17才-at seventeen-](https://ja.wikipedia.org/wiki/17才-at_seventeen-)から翻訳されています。
 
 
 『**17才 -at seventeen-**』（じゅうななさい -アット セブンティーン-）は、[1994年](../Page/1994年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")から同年[9月1日](../Page/9月1日.md "wikilink")まで、[フジテレビ系列で放送されていた](../Page/フジネットワーク.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[内田有紀](../Page/内田有紀.md "wikilink")で、『[ボクたちのドラマシリーズ](../Page/ボクたちのドラマシリーズ.md "wikilink")』からの派生作品。放送時間は、毎週[木曜](../Page/木曜日.md "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink"))。

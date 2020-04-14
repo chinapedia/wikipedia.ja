@@ -1,4 +1,4 @@
-> この記事は[WBSC ](https://ja.wikipedia.org/wiki/WBSC_)から翻訳されています。
+> この記事は[WBSC 女子ワールドカップ](https://ja.wikipedia.org/wiki/WBSC_女子ワールドカップ)から翻訳されています。
 
 
 **WBSC女子野球ワールドカップ**（[英語](../Page/英語.md "wikilink")：*WBSC Women's Baseball World Cup* ）は、[世界野球ソフトボール連盟](https://ja.wikipedia.org/wiki/世界野球ソフトボール連盟 "wikilink")（WBSC）が主催する、各国代表女子選手による[野球](../Page/野球.md "wikilink")の国際大会である。

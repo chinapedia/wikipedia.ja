@@ -1,4 +1,4 @@
-> この記事は[ClothClose !\?](https://ja.wikipedia.org/wiki/ClothClose_!\?)から翻訳されています。
+> この記事は[Cloth×Close 〜ボクがくぃ〜ん!\?〜](https://ja.wikipedia.org/wiki/Cloth×Close_〜ボクがくぃ〜ん!\?〜)から翻訳されています。
 
 
 『**Cloth×Close 〜ボクがくぃ〜ん\!?〜**』（クロース クロース - ）は[2006年](../Page/2006年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[Catear](../Page/Catear.md "wikilink")（カティア）から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。発売元によるジャンルは「学園美女装アドベンチャー」。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ジェームス・B・ランシング](https://ja.wikipedia.org/wiki/ジェームス・B・ランシング)から翻訳されています。
 
 
 |死没日 =  |死没地 = |最終学歴 = |配偶者 = グレナ・ピーターソン |両親 = 母、グレース・マーティーニ{{-}}父、ヘンリー・マーティーニ |子供 = |専門分野 = [内燃機関](../Page/内燃機関.md "wikilink"){{-}}[音響工学](https://ja.wikipedia.org/wiki/音響工学 "wikilink") |所属機関 = |勤務先 = |雇用者 = [JBL](../Page/JBL_\(企業\).md "wikilink"){{-}}[アルテック](../Page/アルテック_\(音響機器\).md "wikilink") |プロジェクト = |設計 = [スピーカー](../Page/スピーカー.md "wikilink") |成果 = |受賞歴 = [映画芸術科学アカデミー](../Page/映画芸術科学アカデミー.md "wikilink") |署名 = }} **ジェームス・バロー・ランシング**（ 、[1902年](../Page/1902年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - [1949年](../Page/1949年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スピーカー](../Page/スピーカー.md "wikilink")の開発技術者であり、[JBLを創設した人物である](../Page/JBL_\(企業\).md "wikilink")。一時期は[アルテックランシングの](../Page/アルテック_\(音響機器\).md "wikilink")[技術副社長だった](../Page/最高技術責任者.md "wikilink")。技術者としては優秀であったが、経営者としての能力には恵まれず、事業の悪化に伴い[1949年](../Page/1949年.md "wikilink")に自殺してしまった。

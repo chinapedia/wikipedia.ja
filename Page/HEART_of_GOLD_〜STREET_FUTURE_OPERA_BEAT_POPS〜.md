@@ -1,4 +1,4 @@
-> この記事は[HEART of GOLD STREET FUTURE OPERA BEAT POPS](https://ja.wikipedia.org/wiki/HEART_of_GOLD_STREET_FUTURE_OPERA_BEAT_POPS)から翻訳されています。
+> この記事は[HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜](https://ja.wikipedia.org/wiki/HEART_of_GOLD_〜STREET_FUTURE_OPERA_BEAT_POPS〜)から翻訳されています。
 
 
 『**HEART of GOLD 〜STREET FUTURE OPERA BEAT POPS〜**』（ハート オブ ゴールド ストリート フューチャー オペラ ビート ポップス）は、[EXILES](https://ja.wikipedia.org/wiki/EXILES "wikilink")のアルバム。[2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

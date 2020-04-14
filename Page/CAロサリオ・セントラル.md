@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAロサリオ・セントラル](https://ja.wikipedia.org/wiki/CAロサリオ・セントラル)から翻訳されています。
 
 
 **CAロサリオ・セントラル** () は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[サンタフェ州](../Page/サンタフェ州.md "wikilink")・[ロサリオ](../Page/ロサリオ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[スーペルリーガ・アルヘンティーナに所属する](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")。

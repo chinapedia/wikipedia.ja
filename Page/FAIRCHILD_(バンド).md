@@ -1,4 +1,4 @@
-> この記事は[FAIRCHILD \(\)](https://ja.wikipedia.org/wiki/FAIRCHILD_\(\))から翻訳されています。
+> この記事は[FAIRCHILD \(バンド\)](https://ja.wikipedia.org/wiki/FAIRCHILD_\(バンド\))から翻訳されています。
 
 
 **FAIRCHILD**（フェアチャイルド）は、1980年代末期から1990年代前半頃に活動した[音楽ユニット](../Page/音楽ユニット.md "wikilink")。現在[タレント](../Page/タレント.md "wikilink")として活躍する[YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")、元[SHI-SHONEN](https://ja.wikipedia.org/wiki/SHI-SHONEN "wikilink")の[戸田誠司](../Page/戸田誠司.md "wikilink")・川口浩和が在籍していた。

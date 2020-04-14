@@ -1,4 +1,4 @@
-> この記事は[CYBER](https://ja.wikipedia.org/wiki/CYBER)から翻訳されています。
+> この記事は[CYBERブルー](https://ja.wikipedia.org/wiki/CYBERブルー)から翻訳されています。
 
 
 『**CYBERブルー**』（サイバーブルー）は、原作：[bob](https://ja.wikipedia.org/wiki/bob "wikilink")、脚本：[三井隆一](https://ja.wikipedia.org/wiki/三井隆一 "wikilink")、作画：[原哲夫](../Page/原哲夫.md "wikilink")による[SF漫画](../Page/SF漫画.md "wikilink")作品\[1\]。

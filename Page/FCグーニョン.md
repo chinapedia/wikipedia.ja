@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCグーニョン](https://ja.wikipedia.org/wiki/FCグーニョン)から翻訳されています。
 
 
 **フットボール・クルブ・ドゥ・グーニョン**（Football Club de Gueugnon）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[ソーヌ＝エ＝ロワール県](../Page/ソーヌ＝エ＝ロワール県.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

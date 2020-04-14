@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[グループA](https://ja.wikipedia.org/wiki/グループA)から翻訳されています。
 
 
 [Nissan_R32_GTR_Group_A_(15973820802).jpg](https://ja.wikipedia.org/wiki/File:Nissan_R32_GTR_Group_A_\(15973820802\).jpg "fig:Nissan_R32_GTR_Group_A_(15973820802).jpg")\]\] **グループA**は、[自動車レースに使用する競技車両のカテゴリーの](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")1つ。

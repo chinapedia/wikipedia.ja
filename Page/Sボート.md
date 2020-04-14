@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sボート](https://ja.wikipedia.org/wiki/Sボート)から翻訳されています。
 
 
 **Sボート**、[ドイツ語](../Page/ドイツ語.md "wikilink")では「Schnellboot（シュネルボート）」と呼ばれるこの高速艇は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ドイツ海軍が使用した](https://ja.wikipedia.org/wiki/ドイツ海軍_\(国防軍\) "wikilink")[高速戦闘艇](../Page/高速戦闘艇.md "wikilink")である。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")ではこの艇を指して[Eボートと呼称したが](https://ja.wikipedia.org/wiki/:en:E-boat "wikilink")、これは「[Enemy](https://ja.wikipedia.org/wiki/敵 "wikilink")」にちなんだものである\[1\]\[2\]が、"Eilboot"（アイルボート、急速艇を意味）の可能性もあるとされる。

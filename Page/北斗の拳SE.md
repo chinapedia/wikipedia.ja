@@ -1,4 +1,4 @@
-> この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
+> この記事は[北斗の拳SE](https://ja.wikipedia.org/wiki/北斗の拳SE)から翻訳されています。
 
 
 **北斗の拳SE**（ほくとのけん スペシャルエディション (- SPECIAL-EDITION)）は[2006年](../Page/2006年.md "wikilink")に[サミー](../Page/サミー.md "wikilink")から発売されたストックタイプの[パチスロ](../Page/パチスロ.md "wikilink")機。

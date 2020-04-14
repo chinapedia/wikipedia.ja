@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[エルチェCF](https://ja.wikipedia.org/wiki/エルチェCF)から翻訳されています。
 
 
 **エルチェ・クルブ・デ・フトボルSAD**（**Elche Club de Fútbol, S.A.D.** ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[エルチェ](../Page/エルチェ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")の[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）に所属している。1923年創設\[1\]。33,732人収容の*[エスタディオ・マヌエル・マルティネス・バレーロ](https://ja.wikipedia.org/wiki/エスタディオ・マヌエル・マルティネス・バレーロ "wikilink")*をホームスタジアムとしている\[2\] 。[ボルトン・ワンダラーズFC](../Page/ボルトン・ワンダラーズFC.md "wikilink")と提携している\[3\]。

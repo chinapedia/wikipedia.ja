@@ -1,4 +1,4 @@
-> この記事は[HBC](https://ja.wikipedia.org/wiki/HBC)から翻訳されています。
+> この記事は[HBCニュース](https://ja.wikipedia.org/wiki/HBCニュース)から翻訳されています。
 
 
 『**HBCニュース**』（エイチビーシーニュース）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBCテレビ）で放送されているローカル[ニュース番組で](../Page/報道番組.md "wikilink")、本項では時期・便宜上2つに分けて解説する。
@@ -48,7 +48,7 @@
 
 ## 外部リンク
 
-  - [北海道のニュース](http://www.hbc.co.jp/news/hbc-newsi.html) - 北海道放送
+  - [北海道のニュース](https://www.hbc.co.jp/news/) - 北海道放送
 
   -
   - [Yahoo\!ニュース HBCニュース](https://news.yahoo.co.jp/media/hbcv) - 動画配信あり

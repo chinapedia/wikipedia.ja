@@ -1,4 +1,4 @@
-> この記事は[QAB](https://ja.wikipedia.org/wiki/QAB)から翻訳されています。
+> この記事は[QABニュース](https://ja.wikipedia.org/wiki/QABニュース)から翻訳されています。
 
 
 『**QABニュース**』（キューエービーニュース）は、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。

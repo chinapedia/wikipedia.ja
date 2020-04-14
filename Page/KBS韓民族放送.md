@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS韓民族放送](https://ja.wikipedia.org/wiki/KBS韓民族放送)から翻訳されています。
 
 
 **KBS韓民族放送**（KBSかんみんぞくほうそう）は、[韓国放送公社](../Page/韓国放送公社.md "wikilink")（KBS）が、[反共宣伝を目的として実施している](../Page/反共主義.md "wikilink")、周辺国同胞向[国際放送](../Page/国際放送.md "wikilink")である。

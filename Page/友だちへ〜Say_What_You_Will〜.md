@@ -1,4 +1,4 @@
-> この記事は[Say What You Will](https://ja.wikipedia.org/wiki/Say_What_You_Will)から翻訳されています。
+> この記事は[友だちへ〜Say What You Will〜](https://ja.wikipedia.org/wiki/友だちへ〜Say_What_You_Will〜)から翻訳されています。
 
 
 「**友だちへ〜Say What You Will〜**」（ともだちへ〜セイ ワット ユー ウィル〜）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")（平成17年）[1月19日](../Page/1月19日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
@@ -41,6 +41,6 @@
 
   - [友だちへ〜Say What You Will〜 - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
 
-[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:エリック・クラプトンの楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンの楽曲 "wikilink") [Category:エリック・クラプトンが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンが作詞作曲した楽曲 "wikilink") [Category:竹内まりやが制作した楽曲](https://ja.wikipedia.org/wiki/Category:竹内まりやが制作した楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:エリック・クラプトンの楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンの楽曲 "wikilink") [Category:エリック・クラプトンが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:エリック・クラプトンが作詞作曲した楽曲 "wikilink") [Category:竹内まりやが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:竹内まりやが作詞作曲した楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  [SMAPの歌 ネットで限定販売](https://web.archive.org/web/20041223205421/http://www.sponichi.co.jp/entertainment/kiji/2004/12/20/02.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2004年12月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

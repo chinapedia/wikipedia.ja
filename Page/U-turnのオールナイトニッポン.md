@@ -1,4 +1,4 @@
-> この記事は[U-turn](https://ja.wikipedia.org/wiki/U-turn)から翻訳されています。
+> この記事は[U-turnのオールナイトニッポン](https://ja.wikipedia.org/wiki/U-turnのオールナイトニッポン)から翻訳されています。
 
 
 **U-turnのオールナイトニッポン**（ユーターンのオールナオトニッポン）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")で1996年10月-1997年4月に放送されたラジオ番組である。放送時間は毎週木曜27時-29時（木曜2部）。 その後、『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』で復帰して、1999年4月-2000年3月放送された。放送時間は毎週火曜25時-26時（火曜com枠）⇒毎週土曜25時-26時30分（土曜com枠）。

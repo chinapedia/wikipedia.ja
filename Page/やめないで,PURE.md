@@ -1,4 +1,4 @@
-> この記事は[,PURE](https://ja.wikipedia.org/wiki/,PURE)から翻訳されています。
+> この記事は[やめないで,PURE](https://ja.wikipedia.org/wiki/やめないで,PURE)から翻訳されています。
 
 
 「**やめないで,PURE**」（やめないで ピュア）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

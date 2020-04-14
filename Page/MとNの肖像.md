@@ -1,4 +1,4 @@
-> この記事は[MN](https://ja.wikipedia.org/wiki/MN)から翻訳されています。
+> この記事は[MとNの肖像](https://ja.wikipedia.org/wiki/MとNの肖像)から翻訳されています。
 
 
 『**MとNの肖像**』（エムとエヌのしょうぞう）は、[樋口橘](../Page/樋口橘.md "wikilink")によって漫画雑誌「[花とゆめ](../Page/花とゆめ.md "wikilink")」（[白泉社](../Page/白泉社.md "wikilink")）において、[2000年](../Page/2000年.md "wikilink")8号～[2002年](../Page/2002年.md "wikilink")13号まで連載していた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。コミックスは全6巻。

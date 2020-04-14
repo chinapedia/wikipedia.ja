@@ -1,4 +1,4 @@
-> この記事は[VALENTI \(\)](https://ja.wikipedia.org/wiki/VALENTI_\(\))から翻訳されています。
+> この記事は[VALENTI \(アルバム\)](https://ja.wikipedia.org/wiki/VALENTI_\(アルバム\))から翻訳されています。
 
 
 『**VALENTI**』（ヴァレンチ）は、[BoA](../Page/BoA.md "wikilink")の2枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")発売。

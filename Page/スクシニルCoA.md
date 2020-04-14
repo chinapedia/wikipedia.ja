@@ -1,4 +1,4 @@
-> この記事は[CoA](https://ja.wikipedia.org/wiki/CoA)から翻訳されています。
+> この記事は[スクシニルCoA](https://ja.wikipedia.org/wiki/スクシニルCoA)から翻訳されています。
 
 
 **スクシニルCoA**（スクシニルこえー、スクシニルこえんざいむえー、succinyl-CoA、SucCoA）は、[コハク酸](../Page/コハク酸.md "wikilink")と[補酵素A](../Page/補酵素A.md "wikilink")からなる[有機化合物](../Page/有機化合物.md "wikilink")である。

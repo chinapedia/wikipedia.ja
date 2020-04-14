@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[トバルNo.1](https://ja.wikipedia.org/wiki/トバルNo.1)から翻訳されています。
 
 
 『**トバルNo.1**』（*TOBAL No. 1*、トバル ナンバーワン）は、[1996年](../Page/1996年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。制作は[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")。

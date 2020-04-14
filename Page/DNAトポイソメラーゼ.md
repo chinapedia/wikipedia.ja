@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAトポイソメラーゼ](https://ja.wikipedia.org/wiki/DNAトポイソメラーゼ)から翻訳されています。
 
 
 **DNAトポイソメラーゼ**（**DNA topoisomerases**）とは、2本鎖[DNAの一方または両方を切断し再結合する](../Page/デオキシリボ核酸.md "wikilink")[酵素](../Page/酵素.md "wikilink")の総称である。

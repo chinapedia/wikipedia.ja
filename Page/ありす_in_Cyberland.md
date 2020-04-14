@@ -1,4 +1,4 @@
-> この記事は[ in Cyberland](https://ja.wikipedia.org/wiki/_in_Cyberland)から翻訳されています。
+> この記事は[ありす in Cyberland](https://ja.wikipedia.org/wiki/ありす_in_Cyberland)から翻訳されています。
 
 
 『**ありす in Cyberland**』（ありすインサイバーランド）は、[グラムス](https://ja.wikipedia.org/wiki/グラムス "wikilink")株式会社から[1996年](../Page/1996年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")、およびそれに関連したメディアミックス作品である。

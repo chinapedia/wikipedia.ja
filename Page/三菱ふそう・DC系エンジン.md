@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[三菱ふそう・DC系エンジン](https://ja.wikipedia.org/wiki/三菱ふそう・DC系エンジン)から翻訳されています。
 
 
 [8DC11_engine.jpg](https://ja.wikipedia.org/wiki/File:8DC11_engine.jpg "fig:8DC11_engine.jpg") **三菱ふそう・DC系エンジン**は、[1967年](../Page/1967年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")）の大型トラック・バスに搭載または産業用（定置型）に用いられた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。

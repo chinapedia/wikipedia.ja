@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[Rボート](https://ja.wikipedia.org/wiki/Rボート)から翻訳されています。
 
 
 **Rボート** () は、第2次世界大戦において[ドイツ海軍](https://ja.wikipedia.org/wiki/ドイツ海軍_\(国防軍\) "wikilink") (Kriegsmarine) が使用した小型・浅喫水の[掃海艇](../Page/掃海艇.md "wikilink")である。一般には「機動掃海艇」と呼ばれる\[1\]。

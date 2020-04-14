@@ -70,7 +70,7 @@
   - [KAB.オフィシャルサイト](https://kab.officialsite.co/) - 公式サイト
 
   -
-  - [KAB.の徒然日記2](http://ameblo.jp/kab-nikki/) - オフィシャルブログ（2011年10月 - ）
+  - [KAB.の徒然日記2](https://ameblo.jp/kab-nikki/) - オフィシャルブログ（2011年10月 - ）
 
   - [徒然KAB.日記](http://blog.goo.ne.jp/kabfc/) （2005年12月 - 2011年10月）
 

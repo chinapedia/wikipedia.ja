@@ -1,4 +1,4 @@
-> この記事は[G ](https://ja.wikipedia.org/wiki/G_)から翻訳されています。
+> この記事は[グレートマジンガー対ゲッターロボG 空中大激突](https://ja.wikipedia.org/wiki/グレートマジンガー対ゲッターロボG_空中大激突)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -119,7 +119,7 @@
   - [ゲッターロボG](../Page/ゲッターロボG.md "wikilink")
   - [ロボットガールズZ](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink") - 「プラス」編に変更後の敵キャラは、本作の敵キャラをイメージしている。
 
-[Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:ゲッターロボ](https://ja.wikipedia.org/wiki/Category:ゲッターロボ "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:1975年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1975年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")
+[Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:ゲッターロボ](https://ja.wikipedia.org/wiki/Category:ゲッターロボ "wikilink") [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:1975年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1975年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")
 
 1.  厳密にはその前の『[マジンガーZ](../Page/マジンガーZ.md "wikilink")対ドクターヘル』（TVブローアップ版）以来。
 2.  この後『決戦\! 大海獣』でビューナスとボロットが再登場するが、シローは本作を以て映画から退くため、ジュニアは登場せずじまいに終わった。

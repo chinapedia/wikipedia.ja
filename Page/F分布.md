@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F分布](https://ja.wikipedia.org/wiki/F分布)から翻訳されています。
 
 
 **F分布**（エフぶんぷ、）とは、[統計学](../Page/統計学.md "wikilink")および[確率論](../Page/確率論.md "wikilink")で用いられる[連続確率分布](../Page/連続確率分布.md "wikilink")。スネデカーのF分布 ()、またはフィッシャー-スネデカー分布 () とも。

@@ -1,4 +1,4 @@
-> この記事は[JFA](https://ja.wikipedia.org/wiki/JFA)から翻訳されています。
+> この記事は[JFAアンバサダー](https://ja.wikipedia.org/wiki/JFAアンバサダー)から翻訳されています。
 
 
 **JFAアンバサダー**（ジェイエフエイ- ）は、かつて[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")（JFA）が、主に若年層への[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の普及促進活動を目的として同活動に協力する人物を認定していた制度、またその認定された人物のこと。[2003年](../Page/2003年.md "wikilink")4月創設、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月廃止。

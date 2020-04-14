@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[OL銭道](https://ja.wikipedia.org/wiki/OL銭道)から翻訳されています。
 
 
 『**OL銭道**』（オーエルぜにどう）は[テレビ朝日系列で](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[2003年](../Page/2003年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")～[6月20日](../Page/6月20日.md "wikilink")に[金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")枠で放送されたテレビドラマ。全11回。2003年9月3日に[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")が発売された。

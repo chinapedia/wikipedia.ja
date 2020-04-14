@@ -1,4 +1,4 @@
-> この記事は[CBC50](https://ja.wikipedia.org/wiki/CBC50)から翻訳されています。
+> この記事は[CBCサンデースペシャル・全日本歌謡ベスト50](https://ja.wikipedia.org/wiki/CBCサンデースペシャル・全日本歌謡ベスト50)から翻訳されています。
 
 
 『**CBCサンデースペシャル・全日本歌謡ベスト50**』（**シービーシーサンデースペシャル・ぜんにほんかようベストごじゅう**）は、[1982年](../Page/1982年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")～[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")の毎週日曜13:00～16:00（[JST](../Page/日本標準時.md "wikilink")）に[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

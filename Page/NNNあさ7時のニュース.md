@@ -1,4 +1,4 @@
-> この記事は[NNN7](https://ja.wikipedia.org/wiki/NNN7)から翻訳されています。
+> この記事は[NNNあさ7時のニュース](https://ja.wikipedia.org/wiki/NNNあさ7時のニュース)から翻訳されています。
 
 
 『**NNNあさ7時のニュース**』（エヌエヌエヌ あさしちじのニュース）は、[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")で[1962年](../Page/1962年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで放送された早朝の[NNN全国ネットワークニュース番組である](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")。

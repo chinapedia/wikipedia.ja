@@ -1,4 +1,4 @@
-> この記事は[FNN OTV](https://ja.wikipedia.org/wiki/FNN_OTV)から翻訳されています。
+> この記事は[FNN OTVニュース](https://ja.wikipedia.org/wiki/FNN_OTVニュース)から翻訳されています。
 
 
 『**FNN OTVニュース**』（エフエヌエヌオーティーブイ-ニュース）は、FNN加盟から2018年4月1日（日）まで[沖縄テレビで長らく放送されていた](../Page/沖縄テレビ放送.md "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")の名称である。 後継番組である『**OTVプライムニュースNEXT**』→『**OTV Live News**』もここで述べる。

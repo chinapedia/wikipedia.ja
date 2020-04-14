@@ -1,4 +1,4 @@
-> この記事は[WaT!](https://ja.wikipedia.org/wiki/WaT!)から翻訳されています。
+> この記事は[WaT×ハロー!プロジェクト](https://ja.wikipedia.org/wiki/WaT×ハロー!プロジェクト)から翻訳されています。
 
 
 **WaT×ハロー\!プロジェクト**（ワットバイハロー\!プロジェクト）は、「[2006年バレーボール世界選手権](https://ja.wikipedia.org/wiki/2006年バレーボール世界選手権 "wikilink")」のオフィシャルサポーターを務めるスペシャルユニットである。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")発表された。同選手権のオフィシャルテーマソングである「[Ready Go\!](../Page/Ready_Go!_\(WaTの曲\).md "wikilink")」を歌った。

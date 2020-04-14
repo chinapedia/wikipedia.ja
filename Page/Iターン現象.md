@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iターン現象](https://ja.wikipedia.org/wiki/Iターン現象)から翻訳されています。
 
 
 **Iターン現象**（アイターンげんしょう）とは、[人口](../Page/人口.md "wikilink")還流現象のひとつ。出身地とは別の[地方](../Page/地方.md "wikilink")に移り住む、特に[都市部](https://ja.wikipedia.org/wiki/都市部 "wikilink")から[田舎](../Page/田舎.md "wikilink")に移り住むことを指す。

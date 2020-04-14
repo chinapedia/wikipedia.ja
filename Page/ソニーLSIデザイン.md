@@ -1,4 +1,4 @@
-> この記事は[LSI](https://ja.wikipedia.org/wiki/LSI)から翻訳されています。
+> この記事は[ソニーLSIデザイン](https://ja.wikipedia.org/wiki/ソニーLSIデザイン)から翻訳されています。
 
 
 **ソニーLSIデザイン**(ソニーえるえすあいデザイン)()は、[ソニーグループ](../Page/ソニーグループ.md "wikilink")の[企業](../Page/企業.md "wikilink")で、[半導体製品の](https://ja.wikipedia.org/wiki/半導体産業 "wikilink")[設計](../Page/設計.md "wikilink")を行う[メーカーである](../Page/製造業.md "wikilink")。

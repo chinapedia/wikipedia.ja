@@ -1,4 +1,4 @@
-> この記事は[NANA](https://ja.wikipedia.org/wiki/NANA)から翻訳されています。
+> この記事は[NANAの登場人物](https://ja.wikipedia.org/wiki/NANAの登場人物)から翻訳されています。
 
 
 NANAの登場人物（ナナのとうじょうじんぶつ）では、[矢沢あい](../Page/矢沢あい.md "wikilink")[原作](../Page/原作.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[NANA](../Page/NANA.md "wikilink")』に登場する人物を解説する。なお、記述されている年齢は、物語の舞台である[2002年](../Page/2002年.md "wikilink")時点のものである。

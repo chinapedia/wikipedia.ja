@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[花の生涯 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/花の生涯_\(NHK大河ドラマ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hananoshogai01.JPG "wikilink") 『**花の生涯**』（はなのしょうがい）は、[1963年](../Page/1963年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")まで[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")第1作目。

@@ -1,7 +1,7 @@
 > この記事は[LIAR GAME](https://ja.wikipedia.org/wiki/LIAR_GAME)から翻訳されています。
 
 
-『**LIAR GAME**』（ライアーゲーム）は、[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。またそれを原作とした[フジテレビ系列で放送されたテレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。またはそれらの作品に登場するゲームトーナメントの名称。「LIAR GAME」とは日本語訳で「嘘つきのゲーム」。
+『**LIAR GAME**』（ライアーゲーム）は、[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。またそれを原作としたテレビドラマおよびそれらの作品に登場するゲームトーナメントの名称。「LIAR GAME」とは日本語訳で「嘘つきのゲーム」。テレビドラマは2007年に[フジテレビ系列で国内放送され](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2014年には韓国で[リメイクドラマが制作された](https://ja.wikipedia.org/wiki/#韓国版テレビドラマ "wikilink")。
 
 ## 作品解説
 
@@ -912,6 +912,7 @@
 ## 韓国版テレビドラマ
 
 2014年、漫画作品の版権を取得してリメイク作品が制作された\[4\]。
+日本ではフジテレビで2018年1月16日から4月3日まで[Mナイト枠で放送された](https://ja.wikipedia.org/wiki/ナイト_\(フジテレビ\)#Mナイト "wikilink")。
 
 ### キャスト
 

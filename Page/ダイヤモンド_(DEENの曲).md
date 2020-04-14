@@ -1,4 +1,4 @@
-> この記事は[ \(DEEN\)](https://ja.wikipedia.org/wiki/_\(DEEN\))から翻訳されています。
+> この記事は[ダイヤモンド \(DEENの曲\)](https://ja.wikipedia.org/wiki/ダイヤモンド_\(DEENの曲\))から翻訳されています。
 
 
 「**ダイヤモンド**」は[DEEN](../Page/DEEN.md "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。

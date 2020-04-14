@@ -1,4 +1,4 @@
-> この記事は[ZOO \(\&\)](https://ja.wikipedia.org/wiki/ZOO_\(\&\))から翻訳されています。
+> この記事は[ZOO \(ダンス\&ボーカルユニット\)](https://ja.wikipedia.org/wiki/ZOO_\(ダンス\&ボーカルユニット\))から翻訳されています。
 
 
 **ZOO**（ズー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンス&ボーカルユニット。
@@ -33,7 +33,7 @@
   - TACO（野嶋千照）：ダンサー、リーダー。元[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")\[1\]。現在は現代舞踊研究家として活動。
   - SATSUKI（御木五月）：メインボーカル。解散後はソロ活動するなど、CLUB等イベントで活動。
   - SAE（海老沢佐江子）：ダンサー。現・[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")インストラクター。
-  - HIRO（[五十嵐広行](../Page/五十嵐広行.md "wikilink")）：ダンサー。[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")リーダー、所属事務所LDHの創業者。
+  - HIRO（[五十嵐広行](../Page/五十嵐広行.md "wikilink")）：ダンサー。[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")リーダー、所属事務所[LDHの創業者](../Page/LDH_\(芸能プロダクション\).md "wikilink")。
   - CAP（坂井俊浩）：ダンサー。プロデユーサー。会社経営。
   - MARK（岡山純久）：ダンサー。息子はシンガーソングライターの[岡山外潤](../Page/岡山外潤.md "wikilink")。現在もダンサーとして活動、「Runningman Tokyo」メンバー。
   - LUKE（斎藤憲史）：ダンサー。

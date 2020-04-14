@@ -1,4 +1,4 @@
-> この記事は[SEK](https://ja.wikipedia.org/wiki/SEK)から翻訳されています。
+> この記事は[SEKスタジオ](https://ja.wikipedia.org/wiki/SEKスタジオ)から翻訳されています。
 
 
 **SEKスタジオ**（朝鮮四月二十六日漫画映画撮影所、英語表記：SEK Studio）は、[北朝鮮にある](../Page/朝鮮民主主義人民共和国.md "wikilink")[アニメーションスタジオで](../Page/アニメ制作会社.md "wikilink")、[平壌](../Page/平壌.md "wikilink")に本社をおく。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のイベントに参加するために設立された。イタリアMondo TV社の[ポカホンタス](../Page/ポカホンタス.md "wikilink")や[ライオンキング](https://ja.wikipedia.org/wiki/ライオンキング "wikilink")（[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")の映画と混同されるが、欧州向けテレビ版\[1\]）などの[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")製作に参加した。社名のSEKはScientific Educational Koreaの略称。

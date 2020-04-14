@@ -1,4 +1,4 @@
-> この記事は[PERFECT BEST \(EXILE\)](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILE\))から翻訳されています。
+> この記事は[PERFECT BEST \(EXILEのアルバム\)](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\))から翻訳されています。
 
 
 『**PERFECT BEST**』（パーフェクト ベスト）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

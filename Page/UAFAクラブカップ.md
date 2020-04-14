@@ -1,4 +1,4 @@
-> この記事は[UAFA](https://ja.wikipedia.org/wiki/UAFA)から翻訳されています。
+> この記事は[UAFAクラブカップ](https://ja.wikipedia.org/wiki/UAFAクラブカップ)から翻訳されています。
 
 
 **アラブ・クラブ・チャンピオンズカップ**（、）は、[アラブサッカー連盟](../Page/アラブサッカー連盟.md "wikilink")（UAFA）が主催し、[アラブ諸国の](../Page/アラブ世界.md "wikilink")[クラブチーム](../Page/クラブチーム.md "wikilink")が参加する、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。

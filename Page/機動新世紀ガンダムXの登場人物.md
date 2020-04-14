@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[機動新世紀ガンダムXの登場人物](https://ja.wikipedia.org/wiki/機動新世紀ガンダムXの登場人物)から翻訳されています。
 
 
 **機動新世紀ガンダムXの登場人物**（きどうしんせいきガンダムエックスのとうじょうじんぶつ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』に登場する架空の人物を列挙する。

@@ -1,4 +1,4 @@
-> この記事は[GOGO! \(CBC\)](https://ja.wikipedia.org/wiki/GOGO!_\(CBC\))から翻訳されています。
+> この記事は[GOGO競馬サンデー! \(CBCラジオ\)](https://ja.wikipedia.org/wiki/GOGO競馬サンデー!_\(CBCラジオ\))から翻訳されています。
 
 
 **GOGO競馬サンデー\!**（ゴーゴーけいばサンデー\!）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")が制作・放送する[競馬中継](../Page/競馬中継.md "wikilink")番組。

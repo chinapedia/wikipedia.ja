@@ -1,4 +1,4 @@
-> この記事は[KURAKURA](https://ja.wikipedia.org/wiki/KURAKURA)から翻訳されています。
+> この記事は[KURA・KURA](https://ja.wikipedia.org/wiki/KURA・KURA)から翻訳されています。
 
 
 『**KURA・KURA**』（クラ・クラ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1991年](../Page/1991年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[謎の彼女X](https://ja.wikipedia.org/wiki/謎の彼女X)から翻訳されています。
 
 
 『**の彼女X**』（なぞのかのじょ エックス）は、[植芝理一](../Page/植芝理一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）に[2004年](../Page/2004年.md "wikilink")10月号に掲載された読切作品『謎の彼女X』を第0話として、[2006年](../Page/2006年.md "wikilink")5月号より[2014年](../Page/2014年.md "wikilink")11月号まで連載された。全92話（第0話を含めると93話）。単行本は全12巻が刊行されている。[2012年](../Page/2012年.md "wikilink")4月から6月までテレビアニメが放送された。また、本作の小説版が[講談社ラノベ文庫](https://ja.wikipedia.org/wiki/講談社ラノベ文庫 "wikilink")から刊行された。

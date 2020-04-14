@@ -24,7 +24,6 @@
 
 ## 外部リンク
 
-  - [Moon Browser](http://www.geocities.co.jp/SiliconValley-Cupertino/8986/)
-  - [Moon Browser Alpha](http://www.geocities.co.jp/SiliconValley-Cupertino/8986/a/)
-
+  -
+  -
 [Category:IEコンポーネントブラウザ](https://ja.wikipedia.org/wiki/Category:IEコンポーネントブラウザ "wikilink")

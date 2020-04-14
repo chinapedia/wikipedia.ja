@@ -1,7 +1,7 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Bクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Bクラス)から翻訳されています。
 
 
-**メルセデス・ベンツ・Bクラス**（*Mercedes-Benz B-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[ハッチバック](../Page/ハッチバック.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。
+**メルセデス・ベンツ・Bクラス**（*Mercedes-Benz B-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[トールワゴン](../Page/トールワゴン.md "wikilink")、および[セミトールワゴン](https://ja.wikipedia.org/wiki/セミトールワゴン "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。
 
 ## 概要
 
@@ -118,7 +118,7 @@ Mercedes-Benz B 180 CDI BlueEFFICIENCY (W 246) – Frontansicht, 17. März 2012,
 
   - [メルセデス・ベンツ・Bクラス](https://www.mercedes-benz.co.jp/passengercars/mercedes-benz-cars/models/b-class/b-class-hatchback/explore.html)
 
-[Category:メルセデス・ベンツの車種](https://ja.wikipedia.org/wiki/Category:メルセデス・ベンツの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink")
+[Category:メルセデス・ベンツの車種](https://ja.wikipedia.org/wiki/Category:メルセデス・ベンツの車種 "wikilink") [Category:トールワゴン](https://ja.wikipedia.org/wiki/Category:トールワゴン "wikilink")
 
 1.  排気量が2,000ccを僅かに超えるため、自動車税は2,001cc - 2,500ccの税額が適用される。
 2.

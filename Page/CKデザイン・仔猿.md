@@ -1,4 +1,4 @@
-> この記事は[CK](https://ja.wikipedia.org/wiki/CK)から翻訳されています。
+> この記事は[CKデザイン・仔猿](https://ja.wikipedia.org/wiki/CKデザイン・仔猿)から翻訳されています。
 
 
 **仔猿**（こざる・kozaru）とは、[CKデザイン](https://ja.wikipedia.org/wiki/CKデザイン "wikilink")が製造する[オートバイ](../Page/オートバイ.md "wikilink")の車名である。シリーズ車種として数車種が生産されている。

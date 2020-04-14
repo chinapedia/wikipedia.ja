@@ -1,7 +1,7 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Aクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Aクラス)から翻訳されています。
 
 
-**メルセデス・ベンツ・Aクラス**（*Mercedes-Benz A-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[ハッチバック](../Page/ハッチバック.md "wikilink")型と[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。初代と2代目は[Bセグメント](../Page/Bセグメント.md "wikilink")、3代目と4代目は[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。4代目からセダンが追加された。
+**メルセデス・ベンツ・Aクラス**（*Mercedes-Benz A-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[ハッチバック](../Page/ハッチバック.md "wikilink")型（2代目までは[トールワゴン](../Page/トールワゴン.md "wikilink")扱い）と[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。初代と2代目は[Bセグメント](../Page/Bセグメント.md "wikilink")、3代目と4代目は[Cセグメント](../Page/Cセグメント.md "wikilink")に属する。4代目からセダンが追加された。
 
 ## 概要
 
@@ -347,7 +347,7 @@ Mercedes-AMG A35 4MATIC セダン</p></td>
   - [メルセデス・ベンツ Aクラス](https://www.mercedes-benz.co.jp/passengercars/mercedes-benz-cars/models/a-class/a-class-hatchback/explore/a45-detail.module.html)
   - [メルセデス・ベンツ Aクラス セダン](https://www.mercedes-benz.co.jp/passengercars/mercedes-benz-cars/models/a-class/a-class-sedan/explore.html)
 
-[Category:メルセデス・ベンツの車種](https://ja.wikipedia.org/wiki/Category:メルセデス・ベンツの車種 "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:クリーンディーゼル車](https://ja.wikipedia.org/wiki/Category:クリーンディーゼル車 "wikilink")
+[Category:メルセデス・ベンツの車種](https://ja.wikipedia.org/wiki/Category:メルセデス・ベンツの車種 "wikilink") [Category:トールワゴン](https://ja.wikipedia.org/wiki/Category:トールワゴン "wikilink") [Category:ハッチバック](https://ja.wikipedia.org/wiki/Category:ハッチバック "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:クリーンディーゼル車](https://ja.wikipedia.org/wiki/Category:クリーンディーゼル車 "wikilink")
 
 1.  日本国内においてFF車としては[Vクラスが先に販売を開始しているが](../Page/メルセデス・ベンツ・Vクラス.md "wikilink")、こちらは[商用車](../Page/商用車.md "wikilink")「Vito」の乗用化バージョン。
 2.  [Bクラスや](../Page/メルセデス・ベンツ・Bクラス.md "wikilink")[スマート](../Page/スマート_\(自動車\).md "wikilink")・フォーツーも2階建て構造を採用している。

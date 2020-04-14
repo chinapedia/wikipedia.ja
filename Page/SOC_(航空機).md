@@ -1,4 +1,4 @@
-> この記事は[SOC \(\)](https://ja.wikipedia.org/wiki/SOC_\(\))から翻訳されています。
+> この記事は[SOC \(航空機\)](https://ja.wikipedia.org/wiki/SOC_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称 = XO3C / SOC / SON シーガル | 画像 = <File:Curtiss_SOC-1.jpg> | キャプション = 飛行するSOC-1 9979号機

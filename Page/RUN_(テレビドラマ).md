@@ -1,4 +1,4 @@
-> この記事は[RUN \(\)](https://ja.wikipedia.org/wiki/RUN_\(\))から翻訳されています。
+> この記事は[RUN \(テレビドラマ\)](https://ja.wikipedia.org/wiki/RUN_\(テレビドラマ\))から翻訳されています。
 
 
 **RUN**（らん）は[TBS系列で](../Page/TBSテレビ.md "wikilink")[1993年](../Page/1993年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")～[12月24日](../Page/12月24日.md "wikilink")に放送されたテレビドラマ。　平均視聴率15.2％

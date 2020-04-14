@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCロリアン](https://ja.wikipedia.org/wiki/FCロリアン)から翻訳されています。
 
 
 **フットボール・クルブ・ロリアン＝ブルターニュ・スッド**（**Football Club Lorient-Bretagne Sud**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ロリアン](../Page/ロリアン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

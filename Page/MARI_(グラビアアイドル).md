@@ -1,4 +1,4 @@
-> この記事は[MARI \(\)](https://ja.wikipedia.org/wiki/MARI_\(\))から翻訳されています。
+> この記事は[MARI \(グラビアアイドル\)](https://ja.wikipedia.org/wiki/MARI_\(グラビアアイドル\))から翻訳されています。
 
 
 **MARI**（**まり** [1984年](../Page/1984年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[タレント](../Page/タレント.md "wikilink")。[ディスカバリー・エンターテインメント](https://ja.wikipedia.org/wiki/ディスカバリー・エンターテインメント "wikilink")に所属していた。

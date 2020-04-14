@@ -1,4 +1,4 @@
-> この記事は[SMILE \(\)](https://ja.wikipedia.org/wiki/SMILE_\(\))から翻訳されています。
+> この記事は[SMILE \(バンド\)](https://ja.wikipedia.org/wiki/SMILE_\(バンド\))から翻訳されています。
 
 
 **SMILE**（スマイル）は、日本の5人組ロックバンド。

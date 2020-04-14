@@ -1,4 +1,4 @@
-> この記事は[tert-](https://ja.wikipedia.org/wiki/tert-)から翻訳されています。
+> この記事は[メチルtert-ブチルエーテル](https://ja.wikipedia.org/wiki/メチルtert-ブチルエーテル)から翻訳されています。
 
 
 **メチル*tert*-ブチルエーテル** (methyl *tert*-butyl ether、略称 **MTBE**) は[エーテルに分類される](../Page/エーテル_\(化学\).md "wikilink")[有機化合物](../Page/有機化合物.md "wikilink")。[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")では2-メトキシ-2-メチルプロパンと表される。

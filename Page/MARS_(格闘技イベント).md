@@ -1,4 +1,4 @@
-> この記事は[MARS \(\)](https://ja.wikipedia.org/wiki/MARS_\(\))から翻訳されています。
+> この記事は[MARS \(格闘技イベント\)](https://ja.wikipedia.org/wiki/MARS_\(格闘技イベント\))から翻訳されています。
 
 
 **MARS**（マーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[格闘技](../Page/格闘技.md "wikilink")イベント。[リング上で](../Page/リング_\(格闘技\).md "wikilink")[総合格闘技](../Page/総合格闘技.md "wikilink")を主として、[キックボクシング](../Page/キックボクシング.md "wikilink")や女子総合格闘技も行われていた。興行のエグゼクティブ・プロデューサーはトリニティ代表取締役の天野勇気。オフィシャルジムとして闘神塾が存在した\[1\]。

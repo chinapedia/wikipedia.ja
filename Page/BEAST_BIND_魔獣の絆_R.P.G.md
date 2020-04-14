@@ -1,4 +1,4 @@
-> この記事は[BEAST BIND  R.P.G](https://ja.wikipedia.org/wiki/BEAST_BIND__R.P.G)から翻訳されています。
+> この記事は[BEAST BIND 魔獣の絆 R.P.G](https://ja.wikipedia.org/wiki/BEAST_BIND_魔獣の絆_R.P.G)から翻訳されています。
 
 
 **『BEAST BIND 魔獣の絆 R.P.G』** (ビーストバインド まじゅうのきずな)は現代を舞台とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。 [1999年](../Page/1999年.md "wikilink")8月に[小学館](../Page/小学館.md "wikilink")から「これが日本最後のオリジナルTRPG\!\!」というキャッチコピー付きで出版された。

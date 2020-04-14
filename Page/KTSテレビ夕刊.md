@@ -1,4 +1,4 @@
-> この記事は[KTS](https://ja.wikipedia.org/wiki/KTS)から翻訳されています。
+> この記事は[KTSテレビ夕刊](https://ja.wikipedia.org/wiki/KTSテレビ夕刊)から翻訳されています。
 
 
 『**KTSテレビ夕刊**』（ケイティーエステレビゆうかん）は、[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink") (KTS) が平日夕方に放送していた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

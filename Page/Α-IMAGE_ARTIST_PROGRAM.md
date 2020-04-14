@@ -1,4 +1,4 @@
-> この記事は[-IMAGE ARTIST PROGRAM](https://ja.wikipedia.org/wiki/-IMAGE_ARTIST_PROGRAM)から翻訳されています。
+> この記事は[Α-IMAGE ARTIST PROGRAM](https://ja.wikipedia.org/wiki/Α-IMAGE_ARTIST_PROGRAM)から翻訳されています。
 
 
 **α-IMAGE ARTIST PROGRAM**（アルファ・イメージ・アーティスト・プログラム）とは、かつて**[α-STATION](../Page/エフエム京都.md "wikilink")**で放送されていたラジオ番組の枠名である。2004年3月をもって放送終了。

@@ -1,4 +1,4 @@
-> この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
+> この記事は[CONCACAF女子ゴールドカップ](https://ja.wikipedia.org/wiki/CONCACAF女子ゴールドカップ)から翻訳されています。
 
 
 **CONCACAF女子ゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。男子の[ゴールドカップに相当する](../Page/CONCACAFゴールドカップ.md "wikilink")。前身は**CONCACAF女子選手権**で、[女子ワールドカップの成功から](../Page/FIFA女子ワールドカップ.md "wikilink")2000年に第1回大会が[アメリカで行われ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、2003年に行われた女子ワールドカップがアメリカで開催されたため2004年大会を中止し、2006年に第3回大会が行われた。以降、4年に1度開催されている。

@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCマート](https://ja.wikipedia.org/wiki/ABCマート)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ABCMART_Minamisomaharamachi_Shop.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ABCマート4271.JPG "wikilink") **株式会社エービーシー・マート**（）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く、[靴](../Page/靴.md "wikilink")小売業大手の企業である。国内外に[靴](../Page/靴.md "wikilink")や[衣料品](https://ja.wikipedia.org/wiki/衣料品 "wikilink")の[チェーン店](https://ja.wikipedia.org/wiki/チェーン店 "wikilink")「**ABCマート**」（エービーシーマート）を展開する。
@@ -32,14 +32,17 @@
 
   - ABC-MART
   - ABC-MART GRAND STAGE
-  - ABC-MART MEGA STAGE
   - ABC-MART Premier Stage
+  - ABC-MART MEGA STAGE
   - ABC-MART SPORTS - スポーツに特化した新業態店。
   - ABC KID'S MART - キッズに特化したスニーカーショップ。
-  - Hawkins - アウトレットモールを中心に展開するナショナルブランド「Hawkins」の専門店
-  - Vans - ショッピングモールを中心に展開するナショナルブランド「Vans」の専門店
-  - Charlotte by ABC-MART - 20代後半の女性をターゲットとした、靴をメインにしたセレクトショップ
+  - Hawkins - ナショナルブランド「Hawkins」の専門店
+  - Vans - ナショナルブランド「Vans」の専門店
+  - Charlotte by ABC-MART - レディース専門店
   - ACE Shoes
+  - BILLY'S ENT
+  - CaliforniaDept.
+  - STUMPTOWN
   - SHOES FACTORY by ABC-MART
 
 ## 不祥事
@@ -64,13 +67,19 @@
   -
   -
   -
-  - [ABC-MART GRAND STAGE](http://www.abc-mart.com/grandstage/)
+  - [ABC-MART GRAND STAGE](https://www.abc-mart.com/grandstage/)
 
-  - [ABC-MART SPORTS <ABC-MART スポーツ>](http://sports.abc-mart.net/)
+  - [ABC-MART SPORTS <ABC-MART スポーツ>](https://sports.abc-mart.net/)
 
   - [ACE Shoes ( エースシューズ )](https://aceshoes.jp/)
 
   - [Charlotte（シャルロット）](https://maison-charlotte.net/)
+
+  - [BILLY'S ENT](https://www.billys-tokyo.net/shop/)
+
+  - [STUMPTOWN](https://www.stumptownjapan.com/)
+
+  - [CaliforniaDept.OFFICIAL WEBSITE](https://californiadept.com/)
 
 [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本の小売業者](https://ja.wikipedia.org/wiki/Category:日本の小売業者 "wikilink") [Category:日本の衣料品店](https://ja.wikipedia.org/wiki/Category:日本の衣料品店 "wikilink") [Category:靴屋](https://ja.wikipedia.org/wiki/Category:靴屋 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink")
 

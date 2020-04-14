@@ -1,4 +1,4 @@
-> この記事は[Words of ](https://ja.wikipedia.org/wiki/Words_of_)から翻訳されています。
+> この記事は[Words of 雪之丞](https://ja.wikipedia.org/wiki/Words_of_雪之丞)から翻訳されています。
 
 
 『**Words of 雪之丞**』（ワーズ オブ ゆきのじょう）は、作詞家・[森雪之丞](../Page/森雪之丞.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[ビクタースピードスターから発売](../Page/SPEEDSTAR_RECORDS.md "wikilink")。

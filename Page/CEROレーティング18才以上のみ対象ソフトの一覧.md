@@ -1,4 +1,4 @@
-> この記事は[CERO18](https://ja.wikipedia.org/wiki/CERO18)から翻訳されています。
+> この記事は[CEROレーティング18才以上のみ対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング18才以上のみ対象ソフトの一覧)から翻訳されています。
 
 
 [CERO_Z.svg](https://ja.wikipedia.org/wiki/File:CERO_Z.svg "fig:CERO_Z.svg") **CEROレーティング18才以上のみ対象ソフトの一覧**（セロレーティング18さいいじょうのみたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティングで*' 18才以上のみ対象とする表現内容が含まれていること表示し、<span style="color:red">「18才未満の方には販売しておりません」</span>*'旨が記載されたゲームソフトの一覧である。
@@ -32,7 +32,7 @@
 ### Nintendo Switch
 
   - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（リマスター版）（コンテンツアイコン：「暴力、犯罪」）
-  - [侍道外伝　KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：「暴力」）
+  - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：「暴力」）
   - [The Elder Scrolls V：SKYRIM](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
   - Wolfensteins II: The New Colossus（コンテンツアイコン：「暴力」）
@@ -41,14 +41,16 @@
   - [真 流行り神1・2パック](https://ja.wikipedia.org/wiki/真_流行り神 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [AI: ソムニウム ファイル](https://ja.wikipedia.org/wiki/AI:_ソムニウム_ファイル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
 
-**ニンテンドーeショップ配信タイトル**
+<!-- end list -->
 
-・滅やばたにえん
+  - ニンテンドーeショップ配信タイトル
 
-・リディーマー僧侶の怒り
+<!-- end list -->
 
+  - 滅やばたにえん（コンテンツアイコン：「犯罪」）
+  - リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
 
-\=== Wii U ===
+### Wii U
 
   - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [アサシン クリードシリーズ](https://ja.wikipedia.org/wiki/アサシン_クリードシリーズ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -83,6 +85,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
 ### PlayStation 4
 
+  - [L.A.ノワール](https://ja.wikipedia.org/wiki/L.A.ノワール "wikilink")（リマスター版）（コンテンツアイコン：「暴力、犯罪」）
   - [OUTLAST](https://ja.wikipedia.org/wiki/OUTLAST "wikilink")（コンテンツアイコン：「セクシャル、暴力、恐怖、犯罪、言葉・その他」）
   - [アサシン クリードシリーズ](https://ja.wikipedia.org/wiki/アサシン_クリードシリーズ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
       - [アサシン クリード IV ブラック フラッグ](https://ja.wikipedia.org/wiki/アサシン_クリード_IV_ブラック_フラッグ "wikilink")
@@ -95,18 +98,24 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [ウォッチドッグス](https://ja.wikipedia.org/wiki/ウォッチドッグス "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ウォッチドッグス2](https://ja.wikipedia.org/wiki/ウォッチドッグス2 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [レッド・デッド・リデンプションII](https://ja.wikipedia.org/wiki/レッド・デッド・リデンプションII "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [ウルフェンシュタイン：ザ ニューオーダー](https://ja.wikipedia.org/wiki/ウルフェンシュタイン：ザ_ニューオーダー "wikilink")（コンテンツアイコン：「暴力」）
+  - ウルフェンシュタインシリーズ
+      - [ウルフェンシュタイン：ザ ニューオーダー](https://ja.wikipedia.org/wiki/ウルフェンシュタイン：ザ_ニューオーダー "wikilink")（コンテンツアイコン：「暴力」）
+
+<!-- end list -->
+
   - [エイリアン アイソレーション](https://ja.wikipedia.org/wiki/エイリアン_アイソレーション "wikilink")（コンテンツアイコン：「暴力」）
-  - [お姉チャンバラ](../Page/お姉チャンバラ.md "wikilink")ＯＲＩＧＩＮ（コンテンツアイコン：「暴力」）
+  - [お姉チャンバラ](../Page/お姉チャンバラ.md "wikilink")ORIGIN（コンテンツアイコン：「暴力」）
   - [CHAOS;CHILD](https://ja.wikipedia.org/wiki/CHAOS;CHILD "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [グランド・セフト・オートV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ゴーストリコン ワイルドランズ](https://ja.wikipedia.org/wiki/ゴーストリコン_ワイルドランズ "wikilink")（コンテンツアイコン：「暴力」）
+  - [ゴーストリコン ブレイクポイント](https://ja.wikipedia.org/wiki/ゴーストリコン_ブレイクポイント "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ アドバンスド・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_アドバンスド・ウォーフェア "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [コール オブ デューティ インフィニット・ウォーフェア](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_インフィニット・ウォーフェア "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ブラックオプス3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス3 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ワールドウォーII](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ワールドウォーII "wikilink")（コンテンツアイコン：「暴力」）
   - [コナン アウトキャスト](../Page/コナン・ザ・グレート.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [侍道外伝　KATANAMAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：暴力）
+  - [サイレントVR](https://ja.wikipedia.org/wiki/サイレントVR "wikilink")（コンテンツアイコン：「暴力」）
+  - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：暴力）
   - [The Surge](https://ja.wikipedia.org/wiki/The_Surge "wikilink")（コンテンツアイコン：「暴力」）
   - [The Order:1886](https://ja.wikipedia.org/wiki/The_Order:1886 "wikilink")（コンテンツアイコン：「暴力」）
   - [Thief](https://ja.wikipedia.org/wiki/Thief_\(2014年のゲーム\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -115,11 +124,11 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [真 流行り神2](https://ja.wikipedia.org/wiki/真_流行り神2 "wikilink")（コンテンツアイコン：「暴力」）
   - [Saints Row IV](https://ja.wikipedia.org/wiki/Saints_Row_IV "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [ゾンビ](https://ja.wikipedia.org/wiki/ゾンビU "wikilink")（コンテンツアイコン：「暴力」）
-  - ゾンビアーミー４：デッドウォー（コンテンツアイコン「暴力」）
+  - ゾンビアーミー4：デッドウォー（コンテンツアイコン「暴力」）
   - [Dying Light](https://ja.wikipedia.org/wiki/Dying_Light "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [トゥームレイダー ディフィニティブ エディション](https://ja.wikipedia.org/wiki/トゥームレイダー_ディフィニティブエディション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
-  - デイメア：１９９８（コンテンツアイコン：「暴力」）
+  - デイメア：1998（コンテンツアイコン：「暴力」）
   - [デウスエクス マンカインド・ディバイデッド](https://ja.wikipedia.org/wiki/デウスエクス_マンカインド・ディバイデッド "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [デッドバイデイライト](https://ja.wikipedia.org/wiki/デッドバイデイライト "wikilink")（コンテンツアイコン：「暴力」）
   - [バイオショック コレクション](../Page/BioShock.md "wikilink")（コンテンツアイコン：「暴力」）
@@ -128,6 +137,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [Fallout 4](https://ja.wikipedia.org/wiki/Fallout_4 "wikilink")(コンテンツアイコン：「暴力、犯罪」）
   - [fallout76](https://ja.wikipedia.org/wiki/Fallout_76 "wikilink")（コンテンツアイコン：「暴力」）
   - [Friday the 13th: The Game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink") \[5\]（コンテンツアイコン：「暴力」）
+  - [Pｒedator:hantingGrounds](../Page/プレデター_\(映画\).md "wikilink")
   - [マッドマックス](https://ja.wikipedia.org/wiki/マッドマックス_\(2015年のゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [マフィア III](https://ja.wikipedia.org/wiki/マフィア_III "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [LET IT DIE](https://ja.wikipedia.org/wiki/LET_IT_DIE "wikilink")（コンテンツアイコン：「暴力」）
@@ -174,11 +184,15 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [AI: ソムニウム ファイル](https://ja.wikipedia.org/wiki/AI:_ソムニウム_ファイル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [WORLD WAR Z](https://ja.wikipedia.org/wiki/WORLD_WAR_Z "wikilink")(コンテンツアイコン：暴力）
 
-**PsSTORE配信ソフト**
+<!-- end list -->
 
-・リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
+  - PsSTORE配信ソフト
 
-**PlayStation Vita**
+<!-- end list -->
+
+  - リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
+
+### PlayStation Vita
 
   - [アサシン クリード III レディ リバティ](https://ja.wikipedia.org/wiki/アサシン_クリード_III_レディ_リバティ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [真 流行り神](https://ja.wikipedia.org/wiki/真_流行り神 "wikilink")（コンテンツアイコン：「犯罪」）

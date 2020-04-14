@@ -1,4 +1,4 @@
-> この記事は[COUNTDOWN \(HYDE\)](https://ja.wikipedia.org/wiki/COUNTDOWN_\(HYDE\))から翻訳されています。
+> この記事は[COUNTDOWN \(HYDEの曲\)](https://ja.wikipedia.org/wiki/COUNTDOWN_\(HYDEの曲\))から翻訳されています。
 
 
 「**COUNTDOWN**」（カウントダウン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
@@ -26,7 +26,7 @@
 
 ## 外部リンク
 
-  - [COUNTDOWN](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-888/)
+  - [COUNTDOWN](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-888)
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[機動戦士SDガンダム](https://ja.wikipedia.org/wiki/機動戦士SDガンダム)から翻訳されています。
 
 
 『**機動戦士SDガンダム**』（きどうせんしエスディーガンダム）は、1988年から1993年に公開された[SDガンダム](../Page/SDガンダム.md "wikilink")のOVAや劇場版アニメ作品群の総称。
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - 『[武者・騎士・コマンド SDガンダム緊急出撃](../Page/武者・騎士・コマンド_SDガンダム緊急出撃.md "wikilink")』『[SDコマンド戦記 ガンダムフォース スーパーGアームズ ファイナルフォーミュラーVSノウムギャザー](../Page/SDコマンド戦記III_SUPER_G-ARMS.md "wikilink")』『[SDガンダム外伝 聖機兵物語](../Page/SDガンダム外伝_聖機兵物語.md "wikilink")』『[SD戦国伝 天下泰平編](../Page/SD戦国伝_天下統一編.md "wikilink")』についてはそれぞれを参照。
+  - 『[武者・騎士・コマンド SDガンダム緊急出撃](../Page/武者・騎士・コマンド_SDガンダム緊急出撃.md "wikilink")』『[SDコマンド戦記ガンダムフォース SUPER GARMS ファイナルフォーミュラーVSノウムギャザー](../Page/SDコマンド戦記III_SUPER_G-ARMS.md "wikilink")』『[SDガンダム外伝 聖機兵物語](../Page/SDガンダム外伝_聖機兵物語.md "wikilink")』『[SD戦国伝 天下泰平編](../Page/SD戦国伝_天下統一編.md "wikilink")』についてはそれぞれを参照。
 
 ## 声の出演
 
@@ -76,7 +76,7 @@
   - キャラ・スーン（III）、<ruby><rb>破羅守当音</rb><rt>パラス・アテネ</rt></ruby>（頭虫邸） - [馬田佳屋子](https://ja.wikipedia.org/wiki/馬田佳屋子 "wikilink")
   - ナレーター（I）、ゼータ王（II）、[デギン・ソド・ザビ](https://ja.wikipedia.org/wiki/ザビ家#デギン・ソド・ザビ "wikilink")（III、学園祭）、将頑駄無（頭虫邸、真、暴終空城、もののけ退治）、[旧ザク](../Page/ザクI.md "wikilink")（マロン社）、[ゾック](../Page/ゾック.md "wikilink")（運び屋） - [永井一郎](../Page/永井一郎.md "wikilink")
   - お姫さま（ヘ・シュタットリングクリスチーネフロミンジュビロージュ）（II） - [川村万梨阿](../Page/川村万梨阿.md "wikilink")
-  - νガンダム（II）、[ズサ](../Page/ズサ.md "wikilink")（III） 、<ruby><rb>古殺駆</rb><rt>コザク</rt></ruby>（頭虫邸、理、猛レース、暴終空城、もののけ退治）[サザビー](../Page/サザビー_\(ガンダムシリーズ\).md "wikilink")（マロン社）、[ゲルググ](../Page/ゲルググ.md "wikilink")（運び屋）、[ガンタンク](../Page/ガンタンク.md "wikilink")（学園祭）、[アッグ](https://ja.wikipedia.org/wiki/アッグシリーズ#アッグ "wikilink")（パパル） - [江原正士](../Page/江原正士.md "wikilink")
+  - νガンダム（II）、[ズサ](../Page/ズサ.md "wikilink")（III） 、<ruby><rb>古殺駆</rb><rt>コザク</rt></ruby>（頭虫邸、理、猛レース、暴終空城、もののけ退治）、[サザビー](../Page/サザビー_\(ガンダムシリーズ\).md "wikilink")（マロン社）、[ゲルググ](../Page/ゲルググ.md "wikilink")（運び屋）、[ガンタンク](../Page/ガンタンク.md "wikilink")（学園祭）、[アッグ](https://ja.wikipedia.org/wiki/アッグシリーズ#アッグ "wikilink")（パパル） - [江原正士](../Page/江原正士.md "wikilink")
   - [メッサーラ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#メッサーラ "wikilink")（II）、[ズゴック](../Page/ズゴック.md "wikilink")（III）、<ruby><rb>厄斗堂我</rb><rt>ヤクト・ドーガ</rt></ruby>（頭虫邸）、[ハンブラビ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#ハンブラビ "wikilink")（真）、武者頑駄無摩亜屈（もののけ退治）、ウッディ・マルデン（学園祭）、<ruby><rb>漣飛威</rb><rt>サザビー</rt></ruby> - [梁田清之](../Page/梁田清之.md "wikilink")
   - [ミネバ・ラオ・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ミネバ・ラオ・ザビ "wikilink")（II） - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀 "wikilink")
   - [シャアザク](../Page/ザクII.md "wikilink")（III）、<ruby><rb>殺駆頭</rb><rt>ザクト</rt></ruby>（頭虫邸） - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
@@ -94,7 +94,7 @@
   - [にせガンダム](https://ja.wikipedia.org/wiki/にせガンダム "wikilink")（猛レース） - [神代知衣](../Page/神代知衣.md "wikilink")
   - 新ザク（猛レース） - [遠藤章史](../Page/遠藤章史.md "wikilink")
   - ギャル（猛レース） - [岩坪理江](../Page/岩坪理江.md "wikilink")、[山田里織](https://ja.wikipedia.org/wiki/山田里織 "wikilink")
-  - ゲモン（猛レース）、[ハイゴッグ](https://ja.wikipedia.org/wiki/ゴッグ#ハイゴッグ "wikilink") - [巻島直樹](../Page/巻島直樹.md "wikilink")
+  - ゲモン（猛レース）、[ハイゴッグ](https://ja.wikipedia.org/wiki/ゴッグ#ハイゴッグ "wikilink")（パパル） - [巻島直樹](../Page/巻島直樹.md "wikilink")
   - [百式大臣](../Page/百式_\(ガンダムシリーズ\).md "wikilink")（運び屋）、闇皇帝（もののけ退治） - [滝口順平](../Page/滝口順平.md "wikilink")
   - [ガブスレイ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#ガブスレイ "wikilink")（運び屋）、今殺駆（もののけ退治） - [中村大樹](../Page/中村大樹.md "wikilink")
   - ヤクト・ドーガ（運び屋）、<ruby><rb>頭護津愚</rb><rt>ズゴック</rt></ruby>（もののけ退治） - [星野充昭](../Page/星野充昭.md "wikilink")
@@ -114,7 +114,7 @@
 
 ## スタッフ
 
-  - 機動戦士SDガンダム、嵐を呼ぶ学園祭
+  - 機動戦士SDガンダムMk-〇、嵐を呼ぶ学園祭
 
 <!-- end list -->
 
@@ -148,6 +148,7 @@
 
   - キャラクターデザイン - 大島康弘（マロン社、運び屋）、 横山彰利（猛レース）
   - キャラクター協力 - 横井孝二（猛レース）
+  - リアルデザイン協力 - [出渕裕](../Page/出渕裕.md "wikilink")（マロン社）
   - 音響 - 千葉耕市
   - 音楽 - [岡田徹](../Page/岡田徹.md "wikilink")（マロン社）、[川井憲次](../Page/川井憲次.md "wikilink")（運び屋）
   - 美術 - 矢島洋一（マロン社、運び屋）、浜田栄子（猛レース）、村上律子（猛レース）
@@ -183,7 +184,7 @@
     レコード、CD、カセットテープ版で発売された。
   - 『機動戦士SDガンダム MK-III』エンディングテーマ「[Tokyo Boogie Night](../Page/WHATEVER_\(アルバム\).md "wikilink")」
     作詞 - 渡辺なつみ / 作曲 - [原一博](../Page/原一博.md "wikilink") / 編曲 - [岡田徹](../Page/岡田徹.md "wikilink") / 歌 - [本多知恵子](../Page/本多知恵子.md "wikilink")、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
-  - 『機動戦士SDガンダム MK-IV』主題歌「十六夜のプンダリーガ」
+  - 『機動戦士SDガンダム MK-IV』主題歌「十六夜のプンダリーカ」
     作詞 - 渡辺なつみ / 作曲・編曲 - 岡田徹 / 歌 - [水谷優子](../Page/水谷優子.md "wikilink")
   - 『機動戦士SDガンダム MK-V』主題歌「夏のうねり」
     作詞 - 安藤芳彦 / 作曲 - 瀬井広明 / 編曲 - 戸塚修 / 歌 - [清水咲斗子](https://ja.wikipedia.org/wiki/清水咲斗子 "wikilink")
@@ -393,7 +394,8 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>SD戦国伝 天の巻</p></td>
+<td><p><small>スーパーリミテッドアニメーション巨編 機動戦士SDガンダム</small><br />
+SD戦国伝 天の巻</p></td>
 <td><p>高松信司</p></td>
 <td><p>-</p></td>
 <td><p>小林利充</p></td>
@@ -409,7 +411,8 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SD戦国伝 地の巻</p></td>
+<td><p><small>スーパーリミテッドアニメーション巨編 機動戦士SDガンダム</small><br />
+SD戦国伝 地の巻</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -425,7 +428,8 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>SD戦国伝 真の巻</p></td>
+<td><p><small>スーパーリミテッドアニメーション巨編 機動戦士SDガンダム</small><br />
+SD戦国伝 真の巻</p></td>
 <td><p>山田浩之</p></td>
 <td></td>
 <td></td>
@@ -441,7 +445,8 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SD戦国伝 理の巻</p></td>
+<td><p><small>スーパーリミテッドアニメーション巨編 機動戦士SDガンダム</small><br />
+SD戦国伝 理の巻</p></td>
 <td><p>添田和弘</p></td>
 <td></td>
 <td></td>
@@ -685,7 +690,7 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 </tr>
 <tr class="even">
 <td><p>機動戦士SDガンダムまつり</p></td>
-<td><p><a href="../Page/SDコマンド戦記III_SUPER_G-ARMS.md" title="wikilink">SDコマンド戦記 ガンダムフォース スーパーGアームズ<br />
+<td><p><a href="../Page/SDコマンド戦記III_SUPER_G-ARMS.md" title="wikilink">SDコマンド戦記ガンダムフォース SUPER GARMS<br />
 ファイナルフォーミュラーVSノウムギャザー</a></p></td>
 <td><p>アミノテツロー</p></td>
 <td><p>-</p></td>
@@ -946,6 +951,10 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 6.  アディオス・DE・ガンダム
 7.  夏のうねり
 
+## Web配信
+
+2020年3月12日に（劇場公開日にちなんで）『ガンチャンSDガンダムの日』としてYouTubeガンダムチャンネルで期間限定無料配信された。配信エピソードは『SD戦国伝 暴終空城の章』『SD戦国伝 天の巻』『SD戦国伝 真の巻』『夢のマロン社「宇宙の旅」』『SDガンダム外伝 ラクロアの勇者』『SDコマンド戦記ガンダムフォース SUPER GARMS』『SD百科 1』『SD百科 2』。エピソードの選択は[横井孝二](../Page/横井孝二.md "wikilink")画伯によるもの。\[3\]。
+
 ## 他アニメ作品
 
   - 機動戦士ガンダム モビルスーツ大図鑑
@@ -1034,3 +1043,4 @@ SDオリンピック！！スタジアム・笑いに染めて</p></td>
 
 1.  [『ＳＤガンダム』に欠番作品が！](http://animesama.cocolog-nifty.com/animestyle/2007/09/post_5840.html)WEB[アニメスタイル](../Page/アニメスタイル.md "wikilink")編集長メモ（2007年9月12日）
 2.
+3.  [ガンチャンSDガンダムの日](https://www.youtube.com/watch?v=wlhFvfpHnJ0)YouTube 2020年3月12日配信

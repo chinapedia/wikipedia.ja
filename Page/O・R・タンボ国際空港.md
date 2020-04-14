@@ -1,4 +1,4 @@
-> この記事は[OR](https://ja.wikipedia.org/wiki/OR)から翻訳されています。
+> この記事は[O・R・タンボ国際空港](https://ja.wikipedia.org/wiki/O・R・タンボ国際空港)から翻訳されています。
 
 
 **O・R・タンボ国際空港**（O・R・タンボこくさいくうこう、)は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[ハウテン州](../Page/ハウテン州.md "wikilink")[エクルレニ都市圏](../Page/エクルレニ都市圏.md "wikilink")にある[国際空港](../Page/国際空港.md "wikilink")である。

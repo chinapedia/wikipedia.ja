@@ -1,4 +1,4 @@
-> この記事は[HELLO \(HYDE\)](https://ja.wikipedia.org/wiki/HELLO_\(HYDE\))から翻訳されています。
+> この記事は[HELLO \(HYDEの曲\)](https://ja.wikipedia.org/wiki/HELLO_\(HYDEの曲\))から翻訳されています。
 
 
 「**HELLO**」（ハロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
@@ -32,7 +32,7 @@
 
 ## 外部リンク
 
-  - [ソニー・ミュージックエンタテインメントによる紹介ページ](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-957/index.html)
+  - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-957)
 
 ## 脚注
 

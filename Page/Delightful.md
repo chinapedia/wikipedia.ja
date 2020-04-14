@@ -20,7 +20,7 @@
 
 1.  **Delightful**
       -
-        作詞：鈴木亜美／作曲：渡辺徹／編曲：Axel Konrad
+        作詞：鈴木亜美／作曲：[渡辺徹](../Page/渡辺徹_\(作曲家\).md "wikilink")／編曲：Axel Konrad
         sound produced by Axel Konrad
 2.  **About You...**
       -
@@ -30,11 +30,11 @@
         remix and additional production by OVERHEAD CHAMPION
 4.  **Delightful ～Dub's Re-start Mix～**（CD+DVD）
       -
-        mixed by Dub Master X
+        mixed by [Dub Master X](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")
     <!-- end list -->
       - **Delightful ～REMO-CON MIX～**（CDのみ）
           -
-            mixed by REMO-CON
+            mixed by [REMO-CON](https://ja.wikipedia.org/wiki/田村哲也 "wikilink")
       - **Delightful ～G.C.D.Mix～**（CD+イラストエッセイ「a★POP」 / CD+フォトブック「a★PHOTO」）
           -
             arranged by [SHOUICHIRO HIRATA](../Page/平田祥一郎.md "wikilink")

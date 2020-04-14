@@ -1,4 +1,4 @@
-> この記事は[DADIDA](https://ja.wikipedia.org/wiki/DADIDA)から翻訳されています。
+> この記事は[DA・DI・DA](https://ja.wikipedia.org/wiki/DA・DI・DA)から翻訳されています。
 
 
 『**DA・DI・DA**』（ダ・ディ・ダ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の17枚目のオリジナルアルバム。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-90365、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1600）。1985年[11月11日](../Page/11月11日.md "wikilink")～[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")、『YUMING VISUALIVE DA・DI・DA』コンサートツアーが行われた。1985年[12月5日](../Page/12月5日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1196）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10650）と[LP](../Page/レコード.md "wikilink")（TOJT-10650）をリリース。

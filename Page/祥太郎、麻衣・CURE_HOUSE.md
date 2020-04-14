@@ -1,4 +1,4 @@
-> この記事は[CURE HOUSE](https://ja.wikipedia.org/wiki/CURE_HOUSE)から翻訳されています。
+> この記事は[祥太郎、麻衣・CURE HOUSE](https://ja.wikipedia.org/wiki/祥太郎、麻衣・CURE_HOUSE)から翻訳されています。
 
 
 **祥太郎、麻衣・CURE HOUSE**（しょうたろう、まい・くあはうす）（"くわはうす"とも）は[FM-FUJIをキーステーションに放送されていた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")・[アニラジ](../Page/アニラジ.md "wikilink")。

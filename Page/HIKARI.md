@@ -1,9 +1,9 @@
 > この記事は[HIKARI](https://ja.wikipedia.org/wiki/HIKARI)から翻訳されています。
 
 
-**HIKARI**（本名：**石津 隆光**（いしづ たかみつ）、[1973年](../Page/1973年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
+**HIKARI**（本名：石津 隆光（いしづ たかみつ）、[1973年](../Page/1973年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
 
-[静岡県](../Page/静岡県.md "wikilink")出身。[静岡県立浜松南高等学校](../Page/静岡県立浜松南高等学校.md "wikilink")、[関西大学](../Page/関西大学.md "wikilink")[社会学部](../Page/社会学部.md "wikilink")卒。
+[静岡県](../Page/静岡県.md "wikilink")出身。[静岡県立浜松南高等学校](../Page/静岡県立浜松南高等学校.md "wikilink")、[関西大学](../Page/関西大学.md "wikilink")[社会学部](../Page/社会学部.md "wikilink")卒業。
 
 ## 概説
 
@@ -25,7 +25,7 @@
       - パリの娘（作曲/編曲）
       - [STAR](https://ja.wikipedia.org/wiki/STAR_\(Every_Little_Thingの曲\) "wikilink")（作曲/編曲）
       - [アイガアル](https://ja.wikipedia.org/wiki/アイガアル "wikilink")（作曲/編曲）
-      - [Landscape](https://ja.wikipedia.org/wiki/Landscape "wikilink")（作曲/編曲）
+      - [Landscape](https://ja.wikipedia.org/wiki/Landscape_\(Every_Little_Thingの曲\) "wikilink")（作曲/編曲）
       - [ON AND ON](https://ja.wikipedia.org/wiki/ON_AND_ON_\(Every_Little_Thingの曲\) "wikilink")（作曲/編曲）
       - START（作曲/編曲）
       - Take me Tell me（作曲/編曲）
@@ -66,6 +66,8 @@
       - [story](https://ja.wikipedia.org/wiki/クモ_\(TOKIOの曲\) "wikilink")（共編曲）
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
       - [願い](https://ja.wikipedia.org/wiki/Hatachi "wikilink")（作詞/作曲）
+      - 陽の当たる場所（作詞/作曲）
+      - Detroit（作曲）
   - [タッキー&翼](../Page/タッキー&翼.md "wikilink")
       - [絆も奇跡もここにある](https://ja.wikipedia.org/wiki/TEN_\(タッキー&翼のアルバム\) "wikilink")（作曲/編曲）
   - [V6](../Page/V6_\(グループ\).md "wikilink")
@@ -95,7 +97,7 @@
   - [Rinka（梨花）](../Page/梨花.md "wikilink")
       - XXX(Millions Kisses)（作曲/編曲）
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
-      - [忘れられない](https://ja.wikipedia.org/wiki/Beautiful_days#収録曲 "wikilink")（作曲）
+      - [忘れられない](https://ja.wikipedia.org/wiki/Beautiful_days_\(嵐の曲\)#収録曲 "wikilink")（作曲）
       - [over](https://ja.wikipedia.org/wiki/Love_Rainbow_\(嵐の曲\) "wikilink")（作曲）
       - [目指した未来へ](https://ja.wikipedia.org/wiki/Face_Down_\(嵐の曲\) "wikilink")（作曲/編曲）
       - [unknown](https://ja.wikipedia.org/wiki/I'll_be_there_\(嵐の曲\) "wikilink")（作曲）
@@ -130,11 +132,12 @@
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [そばにおいでよ](https://ja.wikipedia.org/wiki/怪・セラ・セラ#収録曲 "wikilink")（作詞/作曲/編曲）
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
-      - [Forza\!](https://ja.wikipedia.org/wiki/Goodいくぜ!#収録曲 "wikilink")（作詞/作曲\~Stephan Elfgrenと共作\~)
+      - [Forza\!](https://ja.wikipedia.org/wiki/Goodいくぜ!#収録曲 "wikilink")（作詞/共作曲)
       - [赤い果実](https://ja.wikipedia.org/wiki/赤い果実 "wikilink")（作曲）
       - [Invitation](https://ja.wikipedia.org/wiki/Yummy!!#収録曲 "wikilink")（共作曲）
       - [Edge of Days](https://ja.wikipedia.org/wiki/Edge_of_Days "wikilink")（作詞/作曲/編曲）
-      - [Smilest](https://ja.wikipedia.org/wiki/To-y2#収録曲 "wikilink")（共作曲）
+      - [memento](../Page/To-y2.md "wikilink")（作詞/共作曲）
+      - [Smilest](../Page/To-y2.md "wikilink")（共作曲）
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - [AinoArika](https://ja.wikipedia.org/wiki/AinoArika/愛すればもっとハッピーライフ#収録曲 "wikilink")（作詞/作曲）
       - [order](https://ja.wikipedia.org/wiki/DEAR.#収録曲 "wikilink")（作曲）
@@ -178,6 +181,8 @@
       - [The Days](https://ja.wikipedia.org/wiki/HOCUS_POCUS_2 "wikilink")（編曲）
   - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
       - [Unstoppable](https://ja.wikipedia.org/wiki/CAST "wikilink")（作詞/共作曲）
+  - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
+      - [Into You](https://ja.wikipedia.org/wiki/Love_Collection_2_〜pink〜 "wikilink")（共作曲/編曲）
   - [THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")
       - SWAG & PRIDE（作曲/編曲）
   - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")

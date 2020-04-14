@@ -1,4 +1,4 @@
-> この記事は[UFJPB](https://ja.wikipedia.org/wiki/UFJPB)から翻訳されています。
+> この記事は[三菱UFJモルガン・スタンレーPB証券](https://ja.wikipedia.org/wiki/三菱UFJモルガン・スタンレーPB証券)から翻訳されています。
 
 
 **三菱UFJモルガン・スタンレーPB証券株式会社**（みつびしユーエフジェイ・モルガン・スタンレー・ピービーしょうけん）は、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")において日本の[富裕層](../Page/富裕層.md "wikilink")個人・法人に対し、[プライベート・バンキング](../Page/プライベート・バンキング.md "wikilink")業務を行う[証券会社](../Page/証券会社.md "wikilink")である。

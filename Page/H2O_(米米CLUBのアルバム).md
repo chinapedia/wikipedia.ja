@@ -1,4 +1,4 @@
-> この記事は[H2O \(CLUB\)](https://ja.wikipedia.org/wiki/H2O_\(CLUB\))から翻訳されています。
+> この記事は[H2O \(米米CLUBのアルバム\)](https://ja.wikipedia.org/wiki/H2O_\(米米CLUBのアルバム\))から翻訳されています。
 
 
 **H<sub>2</sub>O**（**エイチツーオー**）は[米米CLUB](../Page/米米CLUB.md "wikilink")の13枚目の[アルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

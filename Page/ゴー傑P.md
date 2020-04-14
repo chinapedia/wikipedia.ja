@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ゴー傑P](https://ja.wikipedia.org/wiki/ゴー傑P)から翻訳されています。
 
 
 **ゴー傑P**（ゴーけつピー）は、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されていた番組。[小籔千豊](../Page/小籔千豊.md "wikilink")（[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")座長）と[笑い飯](../Page/笑い飯.md "wikilink")（[西田幸治](../Page/笑い飯.md "wikilink")・[哲夫](../Page/笑い飯.md "wikilink")）がパーソナリティを務めていた。

@@ -1,4 +1,4 @@
-> この記事は[SH-3 ](https://ja.wikipedia.org/wiki/SH-3_)から翻訳されています。
+> この記事は[SH-3 シーキング](https://ja.wikipedia.org/wiki/SH-3_シーキング)から翻訳されています。
 
 
 **SH-3 シーキング**（）は、[シコルスキー・エアクラフト](../Page/シコルスキー・エアクラフト.md "wikilink")社が開発した双発[哨戒ヘリコプターである](https://ja.wikipedia.org/wiki/対潜哨戒機#哨戒ヘリコプター "wikilink")。[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用していた[H-34 チョクトーの後継に採用された](../Page/シコルスキー_S-58.md "wikilink")。
@@ -106,10 +106,12 @@
 
 ### 映画
 
+  - 『[インデペンデンス・デイ](../Page/インデペンデンス・デイ.md "wikilink")』
+    VH-3Dが登場。[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")上空に[シティ・デストロイヤーが飛来した際に](https://ja.wikipedia.org/wiki/インデペンデンス・デイ#登場兵器・メカニック "wikilink")、南庭に2機が駐機、待機する。その後、エイリアンが敵対勢力であると判明すると、1機が[大統領達を脱出させる為に](../Page/アメリカ合衆国大統領.md "wikilink")[エアフォースワン](https://ja.wikipedia.org/wiki/エアフォースワン "wikilink")まで送り届け、残った1機は離陸中にシティ・デストロイヤーがホワイトハウスに向けて発射した主砲の爆風に巻き込まれ破壊される。
   - 『[ファイナル・カウントダウン](../Page/ファイナル・カウントダウン_\(映画\).md "wikilink")』
     [ニミッツ級航空母艦](../Page/ニミッツ級航空母艦.md "wikilink")「[ニミッツ](../Page/ニミッツ_\(空母\).md "wikilink")」の[艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")であるSH-3Hが登場。母艦とともに[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")直前の時代へ[タイムスリップし](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")、漂流する民間人と[日本海軍](../Page/大日本帝国海軍.md "wikilink")[パイロットの救助活動や](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")を行う。
   - 『[ホワイトハウス・ダウン](https://ja.wikipedia.org/wiki/ホワイトハウス・ダウン "wikilink")』
-    VH-3Dが3機登場。[大統領を救出するため](../Page/アメリカ合衆国大統領.md "wikilink")[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")へ向かうが、[テロリストから](https://ja.wikipedia.org/wiki/テロリズム "wikilink")[M2重機関銃による攻撃を受け](../Page/ブローニングM2重機関銃.md "wikilink")、やむなく撤退する。
+    VH-3Dが3機登場。大統領を救出するためホワイトハウスへ向かうが、[テロリストから](https://ja.wikipedia.org/wiki/テロリズム "wikilink")[M2重機関銃による攻撃を受け](../Page/ブローニングM2重機関銃.md "wikilink")、やむなく撤退する。
   - 『[レッド・オクトーバーを追え\!](https://ja.wikipedia.org/wiki/レッド・オクトーバーを追え!#映画 "wikilink")』
     [原子力空母](../Page/原子力空母.md "wikilink")「[エンタープライズ](../Page/エンタープライズ_\(CVN-65\).md "wikilink")」の艦載機であるSH-3Hが登場。主人公の[ジャック・ライアン](../Page/ジャック・ライアン.md "wikilink")[中佐](../Page/中佐.md "wikilink")を、[ロサンゼルス級原子力潜水艦](../Page/ロサンゼルス級原子力潜水艦.md "wikilink")「[ダラス](../Page/ダラス_\(原子力潜水艦\).md "wikilink")」まで輸送する。
 
@@ -126,11 +128,6 @@
 
 ## 参考文献
 
-  -
-  -
-  -
-  -
-  -
   -
   -
   -

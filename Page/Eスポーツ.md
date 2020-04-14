@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[Eスポーツ](https://ja.wikipedia.org/wiki/Eスポーツ)から翻訳されています。
 
 
 **\[E\]スポーツ**（イースポーツ）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBCテレビ）で放送されていた[スポーツ](../Page/スポーツ.md "wikilink")情報番組。
@@ -61,4 +61,4 @@
 
   - [HBCテレビ・Eスポーツ](http://www.hbc.jp/tv/e-sports/)
 
-[Category:北海道放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:レラカムイ北海道](https://ja.wikipedia.org/wiki/Category:レラカムイ北海道 "wikilink")
+[Category:北海道放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズの歴史](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズの歴史 "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:レラカムイ北海道](https://ja.wikipedia.org/wiki/Category:レラカムイ北海道 "wikilink")

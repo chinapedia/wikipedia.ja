@@ -1,4 +1,4 @@
-> この記事は[2 SOS!!](https://ja.wikipedia.org/wiki/2_SOS!!)から翻訳されています。
+> この記事は[ワイワイワールド2 SOS!!パセリ城](https://ja.wikipedia.org/wiki/ワイワイワールド2_SOS!!パセリ城)から翻訳されています。
 
 
 『**ワイワイワールド2 SOS\!\!パセリ城**』（ワイワイワールドツー エスオーエス\!\!パセリじょう）は、[1991年](../Page/1991年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")に日本の[コナミから発売された](../Page/コナミデジタルエンタテインメント.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")。

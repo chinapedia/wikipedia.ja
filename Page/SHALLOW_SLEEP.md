@@ -58,8 +58,8 @@
 
 ## 外部リンク
 
-  - [SHALLOW SLEEP 初回限定盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSDL-1225/)
-  - [SHALLOW SLEEP 通常盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-441/)
+  - [SHALLOW SLEEP 初回限定盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSDL-1225)
+  - [SHALLOW SLEEP 通常盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-441)
 
 ## 脚注
 

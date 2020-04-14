@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMコザ](https://ja.wikipedia.org/wiki/FMコザ)から翻訳されています。
 
 
 **株式会社FMコザ**（えふえむコザ）は、[沖縄県](../Page/沖縄県.md "wikilink")[沖縄市](../Page/沖縄市.md "wikilink")、[うるま市](../Page/うるま市.md "wikilink")、[中頭郡](../Page/中頭郡.md "wikilink")[北中城村](../Page/北中城村.md "wikilink")、[北谷町](../Page/北谷町.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMコザ**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。

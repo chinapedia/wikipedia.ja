@@ -1,4 +1,4 @@
-> この記事は[TV! !3](https://ja.wikipedia.org/wiki/TV!_!3)から翻訳されています。
+> この記事は[アスリート応援TV! ニッポン!チャ×3](https://ja.wikipedia.org/wiki/アスリート応援TV!_ニッポン!チャ×3)から翻訳されています。
 
 
 『**アスリート応援TV\! ニッポン\!チャ×3**』（アスリートおうえんティーヴィー ニッポンチャチャチャ）は、[2006年](../Page/2006年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")まで、[TBSで放送されていた](../Page/TBSテレビ.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")をテーマにした情報[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink")19:56 - 20:54([JST](../Page/日本標準時.md "wikilink"))。第1回は19:00 - 20:54の拡大版で放送された。

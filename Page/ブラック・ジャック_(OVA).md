@@ -1,4 +1,4 @@
-> この記事は[ \(OVA\)](https://ja.wikipedia.org/wiki/_\(OVA\))から翻訳されています。
+> この記事は[ブラック・ジャック \(OVA\)](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(OVA\))から翻訳されています。
 
 
 『**ブラック・ジャック**』は、[手塚治虫](../Page/手塚治虫.md "wikilink")の漫画『[ブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック "wikilink")』を原作とする[OVA](../Page/OVA.md "wikilink")シリーズである。本項では、派生作品である1996年公開の[劇場版アニメ](../Page/アニメーション映画.md "wikilink")『**ブラック・ジャック 劇場版**』についても扱う。なお、2005年公開の劇場版アニメ『ブラック・ジャック ふたりの黒い医者』については、[ブラック・ジャック (テレビアニメ)](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink") を参照。また、『BLACK JACK Limited Edition BOX』に収録されたOVA『[ブラック・ジャック 空からきた子ども](../Page/ブラック・ジャック_空からきた子ども.md "wikilink")』（『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』応募者全員サービスの非売品DVDと同様）については、当該の項を参照。
@@ -727,7 +727,7 @@
   - 編集 - 森田清次
   - 音楽 - 川村栄二
   - 音響監督 - [左近允洋](https://ja.wikipedia.org/wiki/左近允洋 "wikilink")
-  - 主題歌 - [山根麻衣](https://ja.wikipedia.org/wiki/山根麻衣 "wikilink")『Invisible Love』
+  - 主題歌 - [山根麻衣](https://ja.wikipedia.org/wiki/山根麻衣 "wikilink")『Invisible Love』（作詞：[岡田冨美子](../Page/岡田冨美子.md "wikilink")、作曲：[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、編曲：川村栄二）
   - 音楽ディレクター - [鈴木清司](../Page/鈴木清司.md "wikilink")
   - ミュージックプロデューサー - 熊田和生（コロムビアエデュテインメント）
   - 医学監修 - 永井明

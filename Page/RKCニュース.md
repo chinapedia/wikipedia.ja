@@ -1,4 +1,4 @@
-> この記事は[RKC](https://ja.wikipedia.org/wiki/RKC)から翻訳されています。
+> この記事は[RKCニュース](https://ja.wikipedia.org/wiki/RKCニュース)から翻訳されています。
 
 
 『**RKCニュース**』（アールケーシーニュース）は、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")が[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")を通して放送する[ニュース番組](../Page/報道番組.md "wikilink")。協力：[高知新聞](../Page/高知新聞.md "wikilink")。ラジオでは『**高知新聞ニュース・天気予報**』（こうちしんぶんニュース・てんきよほう、2009年春改編からこのタイトルに変更）として放送されることが殆どで、『RKCニュース』として放送されることは滅多にない。

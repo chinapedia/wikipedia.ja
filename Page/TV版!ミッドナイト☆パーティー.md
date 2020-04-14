@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[TV版!ミッドナイト☆パーティー](https://ja.wikipedia.org/wiki/TV版!ミッドナイト☆パーティー)から翻訳されています。
 
 
 **TV版\!ミッドナイト☆パーティー**（てれびばん\!ミッドナイト☆パーティー）は、[1994年](../Page/1994年.md "wikilink")[11月](../Page/11月.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月](../Page/9月.md "wikilink")に[TBSテレビ](../Page/TBSテレビ.md "wikilink")で放送された[深夜番組](../Page/深夜番組.md "wikilink")。

@@ -36,8 +36,8 @@
 
 ## 外部リンク
 
-  - [SEASON'S CALL](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-944/)
-  - [SEASON'S CALL 初回生産限定盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-942/)
+  - [SEASON'S CALL](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-944)
+  - [SEASON'S CALL 初回生産限定盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-942)
 
 ## 脚注
 

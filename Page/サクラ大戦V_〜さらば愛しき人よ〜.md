@@ -1,4 +1,4 @@
-> この記事は[V ](https://ja.wikipedia.org/wiki/V_)から翻訳されています。
+> この記事は[サクラ大戦V 〜さらば愛しき人よ〜](https://ja.wikipedia.org/wiki/サクラ大戦V_〜さらば愛しき人よ〜)から翻訳されています。
 
 
 『**サクラ大戦V 〜さらば愛しき人よ〜**』（サクラたいせんファイブ さらばいとしきひとよ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売した[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[サクラ大戦シリーズ](https://ja.wikipedia.org/wiki/サクラ大戦シリーズ "wikilink")のナンバリングタイトル第5作目。サクラ大戦シリーズ最後のPS2版。

@@ -50,7 +50,7 @@
       - 2ndアルバム『時の扉』収録。
 15. **[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")**
       - 4thシングル「時の扉」のカップリング曲。
-      - [MANISH](../Page/MANISH.md "wikilink")「[君が欲しくてたまらない](../Page/君が欲しくてたまらない.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。
+      - [MANISH](../Page/MANISH.md "wikilink")「[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。
 16. **[君が欲しくてたまらない](../Page/君が欲しくてたまらない.md "wikilink") 〜WANDS Version〜**
       - アルバム初収録。3rdアルバム『[Little Bit…](../Page/Little_Bit….md "wikilink")』制作時のアウトテイク。
       - [ZYYG](../Page/ZYYG.md "wikilink")「[君が欲しくてたまらない](../Page/君が欲しくてたまらない.md "wikilink")」のセルフカバー。

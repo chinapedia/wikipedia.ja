@@ -1,4 +1,4 @@
-> この記事は[FLASH \(\)](https://ja.wikipedia.org/wiki/FLASH_\(\))から翻訳されています。
+> この記事は[FLASH \(写真週刊誌\)](https://ja.wikipedia.org/wiki/FLASH_\(写真週刊誌\))から翻訳されています。
 
 
 『**FLASH**』（フラッシュ）は、[光文社](../Page/光文社.md "wikilink")発行の[写真週刊誌](../Page/写真週刊誌.md "wikilink")。毎週[火曜日](../Page/火曜日.md "wikilink")発売（合併号を除く）。創刊は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")。
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   - 第14回（2020年）
-      - グランプリ:[藤田いろは](https://ja.wikipedia.org/wiki/藤田いろは "wikilink")\[16\]・[崎川みずき](https://ja.wikipedia.org/wiki/崎川みずき "wikilink")・[白宮奈々](https://ja.wikipedia.org/wiki/白宮奈々 "wikilink")
+      - グランプリ:[藤田いろは](../Page/藤田いろは.md "wikilink")\[16\]・[崎川みずき](https://ja.wikipedia.org/wiki/崎川みずき "wikilink")・[白宮奈々](../Page/白宮奈々.md "wikilink")
       - 審査員特別賞:[日野アリス](https://ja.wikipedia.org/wiki/日野アリス "wikilink")
 
 ### 特記
@@ -126,6 +126,8 @@
 
   - 2013年7月30日、8月13日号「テレビ“真夏の暗闘”日テレ[24時間テレビvs](https://ja.wikipedia.org/wiki/24時間テレビ「愛は地球を救う」 "wikilink").フジ[27時間テレビCM料金](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")、タレントのギャラ…マル秘原価をスクープ入手\!\!」と題する記事を掲載した\[22\]。24時間テレビは、メインパーソナリティの[嵐が](../Page/嵐_\(グループ\).md "wikilink")5000万円で、特別ドラマに主演する[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")は+500万円。チャリティマラソンランナーである[森三中](../Page/森三中.md "wikilink")・[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")は1000万円。チャリティパーソナリティの[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")が500万円、総合司会の[羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")アナが500万円。さらにカラオケメンバーは、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[谷村新司](../Page/谷村新司.md "wikilink")クラスの大御所が200万円で、そのほかは10～100万円としたが、8月16日、[日本テレビは毎夏恒例の日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『24時間テレビ36　愛は地球を救う』（8月24日、25日放送）で2年連続メインパーソナリティーを務める嵐に対し、一部写真誌で「5000万円」のギャラが支払われていると報じられたことを受け、コメントを発表。「今年もボランティアで務めて頂いております」と全面否定した。同社は「一部報道とは違い、嵐のメンバーにはチャリTシャツのデザインを含め、24時間テレビのメインパーソナリティーを今年もボランティアで務めて頂いております」と説明した\[23\]。
   - 2014年9月8日、9月23日号（この号で通巻1300号を達成するはずだった）が、発売予定前日の8日、一部記事に不備があり発売を中止することにしたと公式サイトで発表した\[24\]\[25\]。
+
+宮迫米騒動
 
 ## 脚注
 

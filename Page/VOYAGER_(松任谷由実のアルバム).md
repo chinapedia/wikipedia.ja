@@ -1,4 +1,4 @@
-> この記事は[VOYAGER \(\)](https://ja.wikipedia.org/wiki/VOYAGER_\(\))から翻訳されています。
+> この記事は[VOYAGER \(松任谷由実のアルバム\)](https://ja.wikipedia.org/wiki/VOYAGER_\(松任谷由実のアルバム\))から翻訳されています。
 
 
 『**VOYAGER**』（ボイジャー）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の15枚目のオリジナルアルバム。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-90265、[CT](../Page/コンパクトカセット.md "wikilink")：ZH28-1380）。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に初[CD化](../Page/CD-DA.md "wikilink")（CA32-1141）。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[LPのブックレットを復刻し](../Page/レコード.md "wikilink")、[バーニー・グランドマン](https://ja.wikipedia.org/wiki/バーニー・グランドマン "wikilink")による[デジタルリマスタリングで音質を大幅に向上したリマスタリング](../Page/デジタルリマスター.md "wikilink")[CD](../Page/CD-DA.md "wikilink")（TOCT-10648）と[LP](../Page/レコード.md "wikilink")（TOJT-10648）をリリース。なお、1984年にリリースされたシングル曲「**[VOYAGER〜日付のない墓標](../Page/VOYAGER〜日付のない墓標.md "wikilink")**」は収録されておらず、オリジナルアルバム未収録曲になっている。

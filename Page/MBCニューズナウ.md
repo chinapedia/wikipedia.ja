@@ -1,4 +1,4 @@
-> この記事は[MBC](https://ja.wikipedia.org/wiki/MBC)から翻訳されています。
+> この記事は[MBCニューズナウ](https://ja.wikipedia.org/wiki/MBCニューズナウ)から翻訳されています。
 
 
 『**MBCニューズナウ**』（エムビースィー ニューズナウ、**MBC NEWS NOW**）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBCテレビ）で放送されている夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")。現在の放送時間は[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の18時15分から18:55。2014年3月31日まで『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』を内包していた。
@@ -41,9 +41,9 @@
 
 **キャスター**
 
-  - [岩崎全智](https://ja.wikipedia.org/wiki/岩崎全智 "wikilink")（2019.4.1\~）
-  - [執行真希](https://ja.wikipedia.org/wiki/執行真希 "wikilink")（水ー金曜日担当)(2008.3.3-2011.3.25・2017.1.1-）
-  - [末永安佳梨](../Page/末永安佳梨.md "wikilink") （月ー火曜日担当)(2019.10.1-）
+  - [岩崎全智](https://ja.wikipedia.org/wiki/岩崎全智 "wikilink")（2019.4.1-）
+  - [末永安佳梨](../Page/末永安佳梨.md "wikilink") (2019.10.1-）2020.3までは月曜・火曜のみ担当、2020.4以降は水曜日も担当。
+  - [豊平有香](../Page/豊平有香.md "wikilink")（2014.4-2016.12、2020.4.2-)木曜・金曜
 
 **スポーツキャスター**
 
@@ -70,8 +70,8 @@
   - [美坂理恵](../Page/美坂理恵.md "wikilink")（火曜 2013.11-）2014.3までは木曜
   - [久保美紗恵](https://ja.wikipedia.org/wiki/久保美紗恵 "wikilink")（水曜 2013.11-）　
   - [増田優香子](https://ja.wikipedia.org/wiki/増田優香子 "wikilink")（金曜 2014.4-）
-  - [豊平有香](../Page/豊平有香.md "wikilink")（2014.4-2016.12)
   - [藤原一彦](../Page/藤原一彦.md "wikilink")（2004.10.4-2019.3.29）
+  - [執行真希](https://ja.wikipedia.org/wiki/執行真希 "wikilink")（2008.3.3 - 2011.3.25・2017.1.1-2020.3.27）2019.10以降は水～金のみの担当
 
 ## 特別番組
 

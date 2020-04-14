@@ -1,4 +1,4 @@
-> この記事は[I LOVE YOU \(.\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(.\))から翻訳されています。
+> この記事は[I LOVE YOU \(本田美奈子.のアルバム\)](https://ja.wikipedia.org/wiki/I_LOVE_YOU_\(本田美奈子.のアルバム\))から翻訳されています。
 
 
 『**I LOVE YOU**』（アイ・ラブ・ユー）は、[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のアルバム。

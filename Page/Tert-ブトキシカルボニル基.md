@@ -1,4 +1,4 @@
-> この記事は[Tert-](https://ja.wikipedia.org/wiki/Tert-)から翻訳されています。
+> この記事は[Tert-ブトキシカルボニル基](https://ja.wikipedia.org/wiki/Tert-ブトキシカルボニル基)から翻訳されています。
 
 
 [160px](https://ja.wikipedia.org/wiki/ファイル:Tert-Butoxycarbonyl_group.svg "wikilink")  ***tert*-ブトキシカルボニル基**（ターシャリーブトキシカルボニルき、）は[有機化学](../Page/有機化学.md "wikilink")における原子団の一種で、(CH<sub>3</sub>)<sub>3</sub>C−O−C(=O)− の構造を持つ。しばしば **Boc**（ボック）または**t-Boc**と略記される。

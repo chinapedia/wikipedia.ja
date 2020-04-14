@@ -1,4 +1,4 @@
-> この記事は[NTV](https://ja.wikipedia.org/wiki/NTV)から翻訳されています。
+> この記事は[NTVハプニング大賞](https://ja.wikipedia.org/wiki/NTVハプニング大賞)から翻訳されています。
 
 
 『**NTVハプニング大賞**』（エヌティーヴィー・ハプニングたいしょう）とはかつて、[日本テレビで放送していた](../Page/日本テレビ放送網.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")（[NG集番組](../Page/NG_\(放送用語\).md "wikilink")）。別名『**日テレNG大賞**』（にってれエヌジーたいしょう）。

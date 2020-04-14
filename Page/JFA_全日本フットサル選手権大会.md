@@ -1,4 +1,4 @@
-> この記事は[JFA ](https://ja.wikipedia.org/wiki/JFA_)から翻訳されています。
+> この記事は[JFA 全日本フットサル選手権大会](https://ja.wikipedia.org/wiki/JFA_全日本フットサル選手権大会)から翻訳されています。
 
 
 **JFA 全日本フットサル選手権大会**（ジェイエフエイぜんにほんフットサルせんしゅけんたいかい）は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")が、毎年2月ないし3月に行われる[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の全国大会である。

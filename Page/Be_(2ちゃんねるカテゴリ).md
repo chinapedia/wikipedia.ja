@@ -1,4 +1,4 @@
-> この記事は[Be \(2\)](https://ja.wikipedia.org/wiki/Be_\(2\))から翻訳されています。
+> この記事は[Be \(2ちゃんねるカテゴリ\)](https://ja.wikipedia.org/wiki/Be_\(2ちゃんねるカテゴリ\))から翻訳されています。
 
 
 **be**（びー）は、[匿名](../Page/匿名.md "wikilink")[掲示板](../Page/電子掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の[カテゴリ](../Page/カテゴリ.md "wikilink")の1つである。書き込みに[認証](../Page/認証.md "wikilink")が必要な板をまとめていて、書き込みはBeログインが必要。また、全板が強制IDである。

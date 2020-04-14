@@ -1,4 +1,4 @@
-> この記事は[:Shinjukucity-townmap1.png](https://ja.wikipedia.org/wiki/:Shinjukucity-townmap1.png)から翻訳されています。
+> この記事は[ファイル:Shinjukucity-townmap1.png](https://ja.wikipedia.org/wiki/ファイル:Shinjukucity-townmap1.png)から翻訳されています。
 
 
   - 東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・住居表示実施前後の町名町域対照地図

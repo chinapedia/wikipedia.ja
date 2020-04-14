@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグの外国籍選手一覧](https://ja.wikipedia.org/wiki/Jリーグの外国籍選手一覧)から翻訳されています。
 
 
 **Jリーグの所属クラブごとの外国籍選手一覧**。来日中に日本に[帰化](../Page/帰化.md "wikilink")した場合は、帰化後に在籍したクラブには記載しない。
@@ -77,7 +77,7 @@
   - FW [ジェイ](https://ja.wikipedia.org/wiki/ジェイ・ボスロイド "wikilink") (2017年-、)
   - MF [ルーカス・フェルナンデス](https://ja.wikipedia.org/wiki/ルーカス・フェルナンデス_\(1994年生のサッカー選手\) "wikilink") (2019年-、)
   - FW [アンデルソン・ロペス](https://ja.wikipedia.org/wiki/アンデルソン・ジョゼ・ロペス・デ・ソウザ "wikilink") (2019年-、)
-  - FW [ドウグラス・オリベイラ](../Page/ドウグラス・フェリスビーノ・デ・オリヴェイラ.md "wikilink") (2020年-、)
+  - FW [ドゥグラス・オリベイラ](../Page/ドウグラス・フェリスビーノ・デ・オリヴェイラ.md "wikilink") (2020年-、)
   - GK [カウィン](https://ja.wikipedia.org/wiki/カウィン・タンマサッチャーナン "wikilink") (2020年-、)
 
 ## 東北
@@ -151,7 +151,7 @@
   - MF [金眠泰](https://ja.wikipedia.org/wiki/金眠泰 "wikilink") (キム・ミンテ) (2015年-2016年、)
   - MF [パブロ・ジオゴ](https://ja.wikipedia.org/wiki/パブロ・ジオゴ・ロペス・デ・リマ "wikilink") (2016年-2017年、)
   - FW [クリスラン](https://ja.wikipedia.org/wiki/クリスラン・エンリケ・ダ・シルバ・デ・ソウザ "wikilink") (2017年、)
-  - GK [李潤旿](https://ja.wikipedia.org/wiki/李潤ノ "wikilink") (イ・ユノ) (2017年-2018年・2020年-、)
+  - GK [李潤旿](https://ja.wikipedia.org/wiki/李潤ノ "wikilink") (イ・ユノ) (2017年-2018年・2020年、)
   - DF [ヴィニシウス](https://ja.wikipedia.org/wiki/ルイス・ヴィニシウス・ダ・シウヴァ・マトス "wikilink") (2017年、)
   - FW [ラファエルソン](https://ja.wikipedia.org/wiki/ラファエルソン・ベゼラ・フェルナンデス "wikilink") (2018年、)
   - DF [シマオ・マテ](https://ja.wikipedia.org/wiki/シモン・マテ・ジュニオル "wikilink") (2019年-、)
@@ -738,6 +738,7 @@
   - DF [ジョアン・オマリ](https://ja.wikipedia.org/wiki/ジョアン・オマリ "wikilink") (2020年-、、)
   - MF [アダイウトン](https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ "wikilink") (2020年-、)
   - MF [レアンドロ](https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ "wikilink") (2020年-、)
+  - MF [チャヤトーン](../Page/チャヤトーン・タプスワナウォン.md "wikilink") (2020年-、)
 
 ### [東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")
 
@@ -1286,6 +1287,7 @@
   - FW [金信泳](../Page/金信泳.md "wikilink") (キム・シンヨン) (2015年、)
   - GK [ジョニー・レオーニ](https://ja.wikipedia.org/wiki/ジョニー・レオーニ "wikilink") (2016年、)
   - FW [コンハード](https://ja.wikipedia.org/wiki/パウロ・コンハード・ド・カルモ・サルジン "wikilink") (2016年、)
+  - GK [王暁峰](https://ja.wikipedia.org/wiki/王暁峰 "wikilink") (ワン・シャオフェン) (2020年-、)
 
 ### [アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")
 
@@ -1517,7 +1519,7 @@
   - DF [エレン](https://ja.wikipedia.org/wiki/エレン・アルバイラク "wikilink") (2018年-2019年、)
   - FW [ロドリゲス](https://ja.wikipedia.org/wiki/ジェルソン・ロドリゲス "wikilink") (2019年、)
   - FW [ルキアン](https://ja.wikipedia.org/wiki/ルキアン・アラウージョ・デ・アルメイダ "wikilink") (2019年-、)
-  - MF [エベシリオ](https://ja.wikipedia.org/wiki/ロレンゾ・エベシリオ "wikilink") (2019年-、、)
+  - MF [エベシリオ](https://ja.wikipedia.org/wiki/ロレンゾ・エベシリオ "wikilink") (2019年-2020年、、)
   - DF [ファビオ](https://ja.wikipedia.org/wiki/ファビオ・アギアール・ダ・シウヴァ "wikilink") (2019年、)
   - DF [フォルリン](https://ja.wikipedia.org/wiki/フアン・フォルリン "wikilink") (2020年-、)
   - FW [ルリーニャ](https://ja.wikipedia.org/wiki/ルイス・マルセロ・モライス・ドス・ヘイス "wikilink") (2020年-、)
@@ -1797,6 +1799,7 @@
   - FW [ダビド・コンチャ](https://ja.wikipedia.org/wiki/ダビド・コンカ "wikilink") (2019年、)
   - MF [マルケル・スサエタ](https://ja.wikipedia.org/wiki/マルケル・スサエタ "wikilink") (2019年、)
   - DF [申原浩](../Page/申原浩.md "wikilink") (シン・ウォノ) (2020年-、)
+  - GK [李潤旿](https://ja.wikipedia.org/wiki/李潤ノ "wikilink") (イ・ユノ) (2020年-、)
 
 ### [セレッソ大阪](../Page/セレッソ大阪.md "wikilink")
 
@@ -2161,6 +2164,8 @@
   - GK [宋映旻](https://ja.wikipedia.org/wiki/宋映旻 "wikilink") (ソン・ヨンミン) (2018年、)
   - DF [朴璨鎔](https://ja.wikipedia.org/wiki/朴璨鎔 "wikilink") (パク・チャニョン) (2018年、)
   - DF [裵洙瑢](https://ja.wikipedia.org/wiki/裴洙ヨン "wikilink") (ぺ・スヨン) (2019年、)
+  - MF [全山海](https://ja.wikipedia.org/wiki/全山海 "wikilink") (チョン・サネ) (2020年-、)
+  - DF [金號栄](https://ja.wikipedia.org/wiki/金號栄 "wikilink") (キム・ホヨン) (2020年-、)
 
 ### [愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")
 
@@ -2493,7 +2498,7 @@
   - FW [カルボン](https://ja.wikipedia.org/wiki/カルボン・ファーデル "wikilink") (2018年、)
   - GK [ダニー・カルバハル](https://ja.wikipedia.org/wiki/ダニー・カルバハル "wikilink") (2019年-、)
   - MF [ハモン](https://ja.wikipedia.org/wiki/ハモン・ジ・アラウージョ・シケイラ "wikilink") (2019年-2020年、)
-  - DF [ダニエル・サンチェス](https://ja.wikipedia.org/wiki/ダニエル・クーニャ・サンチェス "wikilink") (2019年-、、)
+  - DF [ダニエル・サンチェス](https://ja.wikipedia.org/wiki/ダニエル・クーニャ・サンチェス "wikilink") (2019年-2020年、、)
   - DF [フェリペ・タヴァレス](../Page/フェリペ・ペレイラ・タヴァレス.md "wikilink") (2020年-、)
   - MF [イ・チソン](../Page/イ・チソン.md "wikilink") (2020年-、)
 

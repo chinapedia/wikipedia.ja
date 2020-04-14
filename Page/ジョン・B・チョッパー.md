@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ジョン・B・チョッパー](https://ja.wikipedia.org/wiki/ジョン・B・チョッパー)から翻訳されています。
 
 
 **ジョンB**（ジョンビー、[1967年](../Page/1967年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink") - ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪狭山市](../Page/大阪狭山市.md "wikilink")出身の[ベーシスト](../Page/ベーシスト.md "wikilink")。現在、[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ウルフルズ](../Page/ウルフルズ.md "wikilink")のメンバー。

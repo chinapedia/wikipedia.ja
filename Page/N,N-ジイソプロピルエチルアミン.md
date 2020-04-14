@@ -1,4 +1,4 @@
-> この記事は[N,N-](https://ja.wikipedia.org/wiki/N,N-)から翻訳されています。
+> この記事は[N,N-ジイソプロピルエチルアミン](https://ja.wikipedia.org/wiki/N,N-ジイソプロピルエチルアミン)から翻訳されています。
 
 
 ***N*,*N*-ジイソプロピルエチルアミン**（*N*,*N*-diisopropylethylamine, 略称 **DIPEA** または **DIEA**）は[アミン](../Page/アミン.md "wikilink")化合物の一種。常温では無色で強いアミン臭を持つ液体。ほとんどの有機[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")と任意の割合で混合するが、[水](../Page/水.md "wikilink")には[不溶](https://ja.wikipedia.org/wiki/不溶 "wikilink")である。ヒューニッヒ塩基 (Hünig's base) とも呼ばれる。

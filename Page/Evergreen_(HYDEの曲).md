@@ -1,4 +1,4 @@
-> この記事は[Evergreen \(HYDE\)](https://ja.wikipedia.org/wiki/Evergreen_\(HYDE\))から翻訳されています。
+> この記事は[Evergreen \(HYDEの曲\)](https://ja.wikipedia.org/wiki/Evergreen_\(HYDEの曲\))から翻訳されています。
 
 
 「**evergreen**」（エヴァーグリーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDEの](https://ja.wikipedia.org/wiki/hyde "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。
@@ -62,8 +62,8 @@
 
 ## 外部リンク
 
-  - [evergreen 初回限定盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSDL-1223/index.html)
-  - [evergreen 通常盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-411/index.html)
+  - [evergreen 初回限定盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSDL-1223)
+  - [evergreen 通常盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-411)
 
 ## 脚注
 

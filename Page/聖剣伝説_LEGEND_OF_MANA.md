@@ -1,4 +1,4 @@
-> この記事は[ LEGEND OF MANA](https://ja.wikipedia.org/wiki/_LEGEND_OF_MANA)から翻訳されています。
+> この記事は[聖剣伝説 LEGEND OF MANA](https://ja.wikipedia.org/wiki/聖剣伝説_LEGEND_OF_MANA)から翻訳されています。
 
 
 『**聖剣伝説 LEGEND OF MANA**』（せいけんでんせつ レジェンド オブ マナ）は[1999年](../Page/1999年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[スクウェアから発売された](../Page/スクウェア_\(ゲーム会社\).md "wikilink")[PlayStation用コンピュータ](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。略称は「**聖剣伝説LOM**」、「**LOM**」など。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")より、[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信されている。

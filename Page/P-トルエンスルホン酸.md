@@ -1,4 +1,4 @@
-> この記事は[P-](https://ja.wikipedia.org/wiki/P-)から翻訳されています。
+> この記事は[P-トルエンスルホン酸](https://ja.wikipedia.org/wiki/P-トルエンスルホン酸)から翻訳されています。
 
 
 ***p*-トルエンスルホン酸**（p-トルエンスルホンさん、*p*-toluenesulfonic acid）は、[芳香族](https://ja.wikipedia.org/wiki/芳香族 "wikilink")[スルホン酸](../Page/スルホン酸.md "wikilink")である。通称**トシル酸**（tosic acid）。**PTSA**、**TSA**、TsOH と略記されることもある。室温では白色の固体で、多くは一[水和物](../Page/水和物.md "wikilink")として市販されている。水や多くの有機溶媒に可溶で、水溶液は強酸性を示す。

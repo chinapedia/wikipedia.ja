@@ -1,4 +1,4 @@
-> この記事は[FAITH \(HYDE\)](https://ja.wikipedia.org/wiki/FAITH_\(HYDE\))から翻訳されています。
+> この記事は[FAITH \(HYDEのアルバム\)](https://ja.wikipedia.org/wiki/FAITH_\(HYDEのアルバム\))から翻訳されています。
 
 
 『**FAITH**』（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のボーカリスト、[HYDEの](https://ja.wikipedia.org/wiki/Hyde "wikilink")3枚目の[アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。発売元は[Ki/oon Records内の自身の主宰レーベル](../Page/キューンミュージック.md "wikilink")[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")。

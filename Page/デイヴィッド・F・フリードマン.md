@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[デイヴィッド・F・フリードマン](https://ja.wikipedia.org/wiki/デイヴィッド・F・フリードマン)から翻訳されています。
 
 
 **デイヴィッド・F・フリードマン**（**David F. Friedman**、[1923年](../Page/1923年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")\[1\]）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の映画作家、映画製作者。[アラバマ州](../Page/アラバマ州.md "wikilink")[バーミングハムに生まれる](../Page/バーミングハム_\(アラバマ州\).md "wikilink")。

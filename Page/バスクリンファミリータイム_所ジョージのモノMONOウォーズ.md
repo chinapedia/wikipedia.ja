@@ -1,4 +1,4 @@
-> この記事は[ MONO](https://ja.wikipedia.org/wiki/_MONO)から翻訳されています。
+> この記事は[バスクリンファミリータイム 所ジョージのモノMONOウォーズ](https://ja.wikipedia.org/wiki/バスクリンファミリータイム_所ジョージのモノMONOウォーズ)から翻訳されています。
 
 
 『**バスクリンファミリータイム 所ジョージのモノMONOウォーズ**』（バスクリンファミリータイム ところジョージのモノモノウォーズ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から同年[6月25日](../Page/6月25日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。津村順天堂（現・[ツムラ](../Page/ツムラ.md "wikilink")）の一社提供。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

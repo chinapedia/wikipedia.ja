@@ -1,4 +1,4 @@
-> この記事は[!DJ](https://ja.wikipedia.org/wiki/!DJ)から翻訳されています。
+> この記事は[次はオレらだ!東京爆裂DJ](https://ja.wikipedia.org/wiki/次はオレらだ!東京爆裂DJ)から翻訳されています。
 
 
 **次はオレらだ\!東京爆裂DJ**（つぎはオレらだ とうきょうばくれつディージェイ）は、[1996年](../Page/1996年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで、[TBSラジオをキー局に](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[JRN系で毎週](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[土曜日](../Page/土曜日.md "wikilink")に放送された[深夜番組](../Page/深夜放送.md "wikilink")。

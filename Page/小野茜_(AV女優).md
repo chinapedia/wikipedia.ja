@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[小野茜 \(AV女優\)](https://ja.wikipedia.org/wiki/小野茜_\(AV女優\))から翻訳されています。
 
 
 **小野 茜**（おの あかね、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。

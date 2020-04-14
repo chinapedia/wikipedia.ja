@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[クリス \(KOF\)](https://ja.wikipedia.org/wiki/クリス_\(KOF\))から翻訳されています。
 
 
 **クリス** (**Chris**) は、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズなどに登場する架空の人物。また、ここではそのもう1つの姿である**炎のさだめのクリス**（ほのおのさだめのクリス）についても記述する。
@@ -144,13 +144,14 @@
 
 ## 担当声優
 
-  - [緒方りお](../Page/緒方りお.md "wikilink")（以下を除く各種ゲーム作品）
+  - [緒方りお](../Page/緒方りお.md "wikilink")（『KOF'97』から『KOF 2002』までの各種ゲーム作品）
   - [大原桃子](../Page/大原桃子.md "wikilink")（『THE KING OF FIGHTERS: WORLD』）
-  - [青木志貴](https://ja.wikipedia.org/wiki/青木志貴 "wikilink")（アプリ『THE KING OF FIGHTERS ALLSTAR』）
+  - [青木志貴](https://ja.wikipedia.org/wiki/青木志貴 "wikilink")（『[THE KING OF FIGHTERS ALLSTAR](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_ALLSTAR "wikilink")』）
+  - [榊原優希](https://ja.wikipedia.org/wiki/榊原優希 "wikilink")（『[THE KING OF FIGHTERS for GIRLS](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_for_GIRLS "wikilink")』\[8\]）
 
 ## その他
 
-  - 異名である「炎のさだめ」は、開発スタッフのコメントとして伏字を使って由来があることが触れられており、「クリスはボ○ム○」と明かされている\[8\]。なお、アニメ『[装甲騎兵ボトムズ](../Page/装甲騎兵ボトムズ.md "wikilink")』のオープニング曲に「炎のさだめ」という同名の曲が存在する。
+  - 異名である「炎のさだめ」は、開発スタッフのコメントとして伏字を使って由来があることが触れられており、「クリスはボ○ム○」と明かされている\[9\]。なお、アニメ『[装甲騎兵ボトムズ](../Page/装甲騎兵ボトムズ.md "wikilink")』のオープニング曲に「炎のさだめ」という同名の曲が存在する。
 
 ## 関連人物
 
@@ -189,4 +190,5 @@
 5.
 6.  [KOF OFFICIAL SITE 乾いた大地の社「キャラ設定裏話」](http://kofaniv.snk-corp.co.jp/character/index.php?num=orochi-yashiro)
 7.  [『'97 テクニカルマニュアル』](https://ja.wikipedia.org/wiki/#参考文献 "wikilink") 176頁、ゲーム『ザ・キング・オブ・ファイターズ 京』。
-8.  [KOF OFFICIAL SITE シェルミー「キャラ設定裏話」](http://kofaniv.snk-corp.co.jp/character/index.php?num=shermie)
+8.
+9.  [KOF OFFICIAL SITE シェルミー「キャラ設定裏話」](http://kofaniv.snk-corp.co.jp/character/index.php?num=shermie)

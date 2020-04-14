@@ -1,4 +1,4 @@
-> この記事は[MLS](https://ja.wikipedia.org/wiki/MLS)から翻訳されています。
+> この記事は[MLSオールスターゲーム](https://ja.wikipedia.org/wiki/MLSオールスターゲーム)から翻訳されています。
 
 
 **MLSオールスターゲーム**（エムエルエスオールスターゲーム）は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")の[オールスターゲーム](../Page/オールスターゲーム.md "wikilink")である。

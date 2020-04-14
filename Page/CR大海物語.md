@@ -1,7 +1,7 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR大海物語](https://ja.wikipedia.org/wiki/CR大海物語)から翻訳されています。
 
 
-**CR大海物語**（シーさアールおおうみものがたり）は、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。発売から[2006年](../Page/2006年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にかけてパチンコ店シェアNo.1であった。
+**CR大海物語**（シーさアールおおうみものがたり）は、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイ プの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。発売から[2006年](../Page/2006年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にかけてパチンコ店シェアNo.1であった。
 
 本項目では後継機種の『**CR大海物語スペシャル**』、『**CRA大海物語スペシャル Withアグネス・ラム**』、『**CR大海物語2**』、『**CRA大海物語2 Withアグネス・ラム**』、『**CRまわるんパチンコ大海物語3**』、『**CR大海物語3スペシャル**』、『**CRA大海物語3 Withアグネス・ラム**』、『**CR大海物語BLACK**』『**CR大海物語4**』『**CR大海物語4 With アグネス・ラム 遊デジ119ver**』『**CR大海物語4 BLACK**』についても記述する。
 

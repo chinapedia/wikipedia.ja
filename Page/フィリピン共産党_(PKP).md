@@ -1,4 +1,4 @@
-> この記事は[ \(PKP\)](https://ja.wikipedia.org/wiki/_\(PKP\))から翻訳されています。
+> この記事は[フィリピン共産党 \(PKP\)](https://ja.wikipedia.org/wiki/フィリピン共産党_\(PKP\))から翻訳されています。
 
 
 **フィリピン共産党**（フィリピンきょうさんとう、）は、[1930年](../Page/1930年.md "wikilink")[8月](../Page/8月.md "wikilink")に[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")で結成された[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")[政党](../Page/政党.md "wikilink")。通常**PKP**と略称され（「[ソ連派](https://ja.wikipedia.org/wiki/ソ連派 "wikilink")共産党」とも呼ばれる）、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[毛沢東思想](../Page/毛沢東思想.md "wikilink")の影響を受け結成された[フィリピン共産党](https://ja.wikipedia.org/wiki/フィリピン共産党_\(CPP\) "wikilink")（**CPP** / 再建派共産党）とは区別されている。

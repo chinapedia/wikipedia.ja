@@ -1,4 +1,4 @@
-> この記事は[TJ](https://ja.wikipedia.org/wiki/TJ)から翻訳されています。
+> この記事は[T・J・フォード](https://ja.wikipedia.org/wiki/T・J・フォード)から翻訳されています。
 
 
 **T・J・フォード**（**Terrance Jerod Ford**、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")出身の元[バスケットボール選手](https://ja.wikipedia.org/wiki/バスケットボール選手 "wikilink")。[NBA](../Page/NBA.md "wikilink")の[ミルウォーキー・バックス](../Page/ミルウォーキー・バックス.md "wikilink")、[トロント・ラプターズ](../Page/トロント・ラプターズ.md "wikilink")、[インディアナ・ペイサーズ](../Page/インディアナ・ペイサーズ.md "wikilink")、[サンアントニオ・スパーズ](https://ja.wikipedia.org/wiki/サンアントニオ・スパーズ "wikilink")に所属していた。ポジションは[ポイントガード](../Page/ポイントガード.md "wikilink")。身長183cm、体重75kg。

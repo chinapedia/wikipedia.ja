@@ -1,4 +1,4 @@
-> この記事は[OO](https://ja.wikipedia.org/wiki/OO)から翻訳されています。
+> この記事は[OOゲージ](https://ja.wikipedia.org/wiki/OOゲージ)から翻訳されています。
 
 
 [OO_Scale_BR_25054.JPG](https://ja.wikipedia.org/wiki/File:OO_Scale_BR_25054.JPG "fig:OO_Scale_BR_25054.JPG")の模型（手前は5[ペンスコイン](https://ja.wikipedia.org/wiki/スターリング・ポンド#硬貨 "wikilink")）\]\] **OOゲージ**（ダブルオーゲージ、[英語](../Page/英語.md "wikilink")：OO gauge）は、[鉄道模型](../Page/鉄道模型.md "wikilink")の縮尺と軌間を示す呼称のひとつ。[縮尺](../Page/縮尺.md "wikilink")1/76.2 （4mmスケール）・[軌間](../Page/軌間.md "wikilink")16.5mmの鉄道模型規格を指すが、縮尺については一般的に1/76とされる。OOは「**オー オー**」ではなく、「**ダブルオー**」と読む。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[アイルランド](../Page/アイルランド.md "wikilink")において最も普及している規格である。縮尺1/76を指してOOスケールとも呼称され、鉄道模型以外の[模型](../Page/模型.md "wikilink")・[プラモデル](../Page/プラモデル.md "wikilink")・[ミニカーでも使用される](../Page/ミニカー_\(玩具\).md "wikilink")。

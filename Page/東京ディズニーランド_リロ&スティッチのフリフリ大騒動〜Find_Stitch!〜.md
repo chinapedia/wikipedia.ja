@@ -1,4 +1,4 @@
-> この記事は[ \&Find Stitch!](https://ja.wikipedia.org/wiki/_\&Find_Stitch!)から翻訳されています。
+> この記事は[東京ディズニーランド リロ\&スティッチのフリフリ大騒動〜Find Stitch!〜](https://ja.wikipedia.org/wiki/東京ディズニーランド_リロ\&スティッチのフリフリ大騒動〜Find_Stitch!〜)から翻訳されています。
 
 
 『**東京ディズニーランド リロ&スティッチのフリフリ大騒動〜Find Stitch\!〜**』(Tokyo Disneyland Lilo & Stitch's Big Panic "Find Stitch\!")は、[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")にて[2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")（東京ディズニーランド23周年の日）-[7月14日](../Page/7月14日.md "wikilink")にかけて開催された[スペシャルイベント](https://ja.wikipedia.org/wiki/過去に東京ディズニーランドで開催されたスペシャルイベント "wikilink")「[リロ&スティッチのフリフリ大騒動〜Find Stitch\!〜](../Page/リロ&スティッチのフリフリ大騒動〜Find_Stitch!〜.md "wikilink")」で実施されていたパレード「フリフリ・オハナ・バッシュ」の音源を収録した[CDである](../Page/コンパクトディスク.md "wikilink")。

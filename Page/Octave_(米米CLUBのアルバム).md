@@ -1,15 +1,15 @@
-> この記事は[Octave \(CLUB\)](https://ja.wikipedia.org/wiki/Octave_\(CLUB\))から翻訳されています。
+> この記事は[Octave \(米米CLUBのアルバム\)](https://ja.wikipedia.org/wiki/Octave_\(米米CLUBのアルバム\))から翻訳されています。
 
 
-『**Octave**』（オクターヴ）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の8枚目の[アルバム](../Page/アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
+『**Octave**』（オクターヴ）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の8枚目の[アルバム](../Page/アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")リリース。発売元はSony Records（現・[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 概要
 
-[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である[カールスモーキー石井（石井竜也）プロデュースの](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")8thアルバム。先行シングル「[君がいるだけで](https://ja.wikipedia.org/wiki/君がいるだけで/愛してる "wikilink")」が当時の歴代1位となる大ヒットを記録したこともあり、累計売上は約200万枚と米米のアルバムとしては最高の売り上げを記録した\[1\]。ちなみに、本作が初登場1位を獲得した週に「君がいるだけで/愛してる」が通算6週目の1位を獲得したため、米米は同じ週のシングル・アルバム両チャートで1位を獲得することとなった。
+[カールスモーキー石井（石井竜也）プロデュースの](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")8thアルバム。先行シングル「[君がいるだけで](https://ja.wikipedia.org/wiki/君がいるだけで/愛してる "wikilink")」が当時の歴代1位となる大ヒットを記録したこともあり、累計売上は約200万枚と米米のアルバムとしては最高の売り上げを記録した\[1\]。本作が初登場1位を獲得した週に「君がいるだけで」が通算6週目の1位を獲得したため、米米は同じ週のシングル・アルバム両チャートで1位を獲得することとなった。
 
-本作は米米のダンサーチーム「[SUE CREAM SUE](https://ja.wikipedia.org/wiki/シューク・フラッシュ! "wikilink")」のメンバーで石井の実妹である[MINAKO（石井美奈子）と](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")、米米のホーンセクション「[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")」のメンバーで[サックス担当の](../Page/サクソフォーン.md "wikilink")[フラッシュ金子（金子隆博）の結婚を祝うために作られた](../Page/金子隆博.md "wikilink")、言わばコンセプトアルバムである。それまでの米米のアルバムとは違い、毒気やふざけた曲が含まれない、ポップなアルバムとなった。結婚をテーマとした楽曲「Ó・ME・DE・TORE」や、MINAKOがヴォーカルの楽曲「心のままに」も収録されている。
+本作は先行シングル曲「君がいるだけで」と同様、米米のダンサーチーム「[SUE CREAM SUE](https://ja.wikipedia.org/wiki/シューク・フラッシュ! "wikilink")」のメンバーで石井の実妹である[MINAKO（石井美奈子）と](https://ja.wikipedia.org/wiki/金子美奈子 "wikilink")、米米のホーンセクション「[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")」のリーダーで[サックス担当の](../Page/サクソフォーン.md "wikilink")[フラッシュ金子（金子隆博）の結婚を祝うために作られた](../Page/金子隆博.md "wikilink")、コンセプトアルバムである。それまでの米米のアルバムとは違い、毒気やふざけた曲が含まれない、ポップなアルバムとなった。結婚をテーマとした楽曲「Ó・ME・DE・TORE」や、MINAKOがヴォーカルの楽曲「心のままに」も収録されている。
 
-初回限定仕様はブックレット表紙の「Octave」という文字が印刷の金色でなく金箔仕上げになっている。
+初回限定仕様として、ブックレット表紙の「Octave」という文字が印刷の金色でなく金箔仕上げになっている。
 
 ## 収録曲
 

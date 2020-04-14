@@ -1,4 +1,4 @@
-> この記事は[AROUND THE WORLD \(\)](https://ja.wikipedia.org/wiki/AROUND_THE_WORLD_\(\))から翻訳されています。
+> この記事は[AROUND THE WORLD \(鈴木亜美のアルバム\)](https://ja.wikipedia.org/wiki/AROUND_THE_WORLD_\(鈴木亜美のアルバム\))から翻訳されています。
 
 
 『**AROUND THE WORLD**』（アラウンド・ザ・ワールド）は、[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に発売された日本の歌手・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の[エイベックス移籍後](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1枚目のオリジナルアルバム。

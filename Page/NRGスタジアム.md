@@ -1,4 +1,4 @@
-> この記事は[NRG](https://ja.wikipedia.org/wiki/NRG)から翻訳されています。
+> この記事は[NRGスタジアム](https://ja.wikipedia.org/wiki/NRGスタジアム)から翻訳されています。
 
 
 **NRGスタジアム**（*NRG Stadium*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")にある[スタジアム](../Page/スタジアム.md "wikilink")。[NFL](../Page/NFL.md "wikilink")の[ヒューストン・テキサンズ](../Page/ヒューストン・テキサンズ.md "wikilink")のホームスタジアムである。また、世界最大の[ロデオ](../Page/ロデオ.md "wikilink")イベント「ライブストック・ショー・アンド・ロデオ」が毎年2月下旬から3月上旬にかけてここで開催されている。

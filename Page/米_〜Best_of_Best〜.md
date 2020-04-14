@@ -1,4 +1,4 @@
-> この記事は[ Best of Best](https://ja.wikipedia.org/wiki/_Best_of_Best)から翻訳されています。
+> この記事は[米 〜Best of Best〜](https://ja.wikipedia.org/wiki/米_〜Best_of_Best〜)から翻訳されています。
 
 
 『**米 〜Best of Best〜**』（こめ ベスト オブ ベスト）は[米米CLUB](../Page/米米CLUB.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")リリース。発売元は[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

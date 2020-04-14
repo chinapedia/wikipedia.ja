@@ -1,4 +1,4 @@
-> この記事は[ COMPLETE BOX](https://ja.wikipedia.org/wiki/_COMPLETE_BOX)から翻訳されています。
+> この記事は[サクラ大戦 COMPLETE BOX](https://ja.wikipedia.org/wiki/サクラ大戦_COMPLETE_BOX)から翻訳されています。
 
 
 **サクラ大戦 COMPLETE BOX**は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")向けに発売した[ゲームソフト](../Page/ゲームソフト.md "wikilink")。発売日は[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")。

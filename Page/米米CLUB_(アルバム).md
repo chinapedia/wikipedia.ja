@@ -1,4 +1,4 @@
-> この記事は[CLUB \(\)](https://ja.wikipedia.org/wiki/CLUB_\(\))から翻訳されています。
+> この記事は[米米CLUB \(アルバム\)](https://ja.wikipedia.org/wiki/米米CLUB_\(アルバム\))から翻訳されています。
 
 
 『**米米CLUB**』（こめこめクラブ）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の7枚目の[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")リリース。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

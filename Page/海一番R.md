@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[海一番R](https://ja.wikipedia.org/wiki/海一番R)から翻訳されています。
 
 
 **海一番R**（うみいちばんアール）は、[2003年](../Page/2003年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")から発売された[パチスロ](../Page/パチスロ.md "wikilink")機。

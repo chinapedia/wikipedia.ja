@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[きゅるるんKissでジャンボ♪♪](https://ja.wikipedia.org/wiki/きゅるるんKissでジャンボ♪♪)から翻訳されています。
 
 
 **きゅるるんKissでジャンボ♪♪**（きゅるるんきっすでじゃんぼ）は、[2004年](../Page/2004年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")に発売したゲーム、『[カラフルハート 〜12コのきゅるるん♪〜](../Page/カラフルハート_〜12コのきゅるるん♪〜.md "wikilink")』のオープニング&エンディングテーマである（作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、作曲・編曲：[C.G mix](../Page/C.G_mix.md "wikilink")、ボーカル：KOTOKO）。

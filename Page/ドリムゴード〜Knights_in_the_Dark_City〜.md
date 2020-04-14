@@ -1,4 +1,4 @@
-> この記事は[Knights in the Dark City](https://ja.wikipedia.org/wiki/Knights_in_the_Dark_City)から翻訳されています。
+> この記事は[ドリムゴード〜Knights in the Dark City〜](https://ja.wikipedia.org/wiki/ドリムゴード〜Knights_in_the_Dark_City〜)から翻訳されています。
 
 
 『**ドリムゴード 〜Knights in the Dark City〜**』は[中西達郎](https://ja.wikipedia.org/wiki/中西達郎 "wikilink")が『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』において2003年1月号から2005年10月号まで連載した[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。同作家の初の連載作品。全5巻。

@@ -48,8 +48,8 @@
 
 ## 外部リンク
 
-  - [Angel's tale 初回限定盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSDL-1224/index.html)
-  - [Angel's tale 通常盤](http://www.sonymusic.co.jp/Music/Arch/KS/hyde/KSCL-424/index.html)
+  - [Angel's tale 初回限定盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSDL-1224)
+  - [Angel's tale 通常盤](https://www.sonymusic.co.jp/artist/hyde/discography/KSCL-424)
 
 ## 脚注
 

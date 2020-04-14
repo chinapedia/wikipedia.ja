@@ -1,4 +1,4 @@
-> この記事は[LIFE \(.\)](https://ja.wikipedia.org/wiki/LIFE_\(.\))から翻訳されています。
+> この記事は[LIFE \(本田美奈子.のアルバム\)](https://ja.wikipedia.org/wiki/LIFE_\(本田美奈子.のアルバム\))から翻訳されています。
 
 
 『**LIFE**』（ライフ）は、日本の[歌手](../Page/歌手.md "wikilink")、[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のベスト・アルバム。

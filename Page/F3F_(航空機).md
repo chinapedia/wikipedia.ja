@@ -1,4 +1,4 @@
-> この記事は[F3F \(\)](https://ja.wikipedia.org/wiki/F3F_\(\))から翻訳されています。
+> この記事は[F3F \(航空機\)](https://ja.wikipedia.org/wiki/F3F_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=F3F フライングバレル | 画像=Image:F3F-1_4-F-7_Jax.jpg | キャプション=飛行するF3F-1 0232号機

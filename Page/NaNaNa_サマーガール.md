@@ -1,4 +1,4 @@
-> この記事は[NaNaNa ](https://ja.wikipedia.org/wiki/NaNaNa_)から翻訳されています。
+> この記事は[NaNaNa サマーガール](https://ja.wikipedia.org/wiki/NaNaNa_サマーガール)から翻訳されています。
 
 
 「**NaNaNa サマーガール**」（ナナナ サマーガール）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の18作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")にリリースされた。

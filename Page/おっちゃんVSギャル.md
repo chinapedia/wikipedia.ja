@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[おっちゃんVSギャル](https://ja.wikipedia.org/wiki/おっちゃんVSギャル)から翻訳されています。
 
 
 『**おっちゃんVSギャル**』（おっちゃんブイエスギャル）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")3月まで[朝日放送（ABCテレビ）の](../Page/朝日放送テレビ.md "wikilink")『[ナイトinナイト](../Page/ナイトinナイト.md "wikilink")』火曜枠で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")（放送当時は『ナイトinナイト 』が番組名で、『おっちゃんVSギャル』は企画名扱い）である。放送時間は、毎週[火曜日](../Page/火曜日.md "wikilink")23:17-24:12（[JST](../Page/日本標準時.md "wikilink")）。

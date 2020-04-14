@@ -1,4 +1,4 @@
-> この記事は[J!](https://ja.wikipedia.org/wiki/J!)から翻訳されています。
+> この記事は[ゴーJ!](https://ja.wikipedia.org/wiki/ゴーJ!)から翻訳されています。
 
 
 **ゴーJ\!**は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で放送されていたラジオ番組。

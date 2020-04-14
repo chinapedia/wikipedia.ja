@@ -1,4 +1,4 @@
-> この記事は[Mugen \(\)](https://ja.wikipedia.org/wiki/Mugen_\(\))から翻訳されています。
+> この記事は[Mugen \(曲\)](https://ja.wikipedia.org/wiki/Mugen_\(曲\))から翻訳されています。
 
 
 「**Mugen**」（ムゲン）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の楽曲。同グループ9枚目の[シングル](../Page/シングル.md "wikilink")として[2002年](../Page/2002年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。

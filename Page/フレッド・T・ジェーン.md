@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[フレッド・T・ジェーン](https://ja.wikipedia.org/wiki/フレッド・T・ジェーン)から翻訳されています。
 
 
 **ジョン・フレデリック・トマス・ジェーン**（**John Fredrick Thomas Jane**, [1865年](../Page/1865年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - [1916年](../Page/1916年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")）は、[ジェーンズ・ファイティング・シップス](https://ja.wikipedia.org/wiki/ジェーンズ・ファイティング・シップス "wikilink")（ジェーン海軍年鑑）および、オール・ザ・ワールズ・エア・シップス（）の創設者およびその編集者。[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")を一時的に誘拐したことでも知られている。

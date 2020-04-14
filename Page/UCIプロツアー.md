@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCIプロツアー](https://ja.wikipedia.org/wiki/UCIプロツアー)から翻訳されています。
 
 
 **UCIプロツアー**あるいは**UCIプロツール** (UCI ProTour) は、[2005年](../Page/2005年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで行われた[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink") (UCI : Union Cycliste internationale) が主催する自転車の[ロードレースシリーズである](../Page/ロードレース_\(自転車競技\).md "wikilink")。従前の[UCIワールドカップを一新し](../Page/UCI・ロードワールドカップ.md "wikilink")、UCIが新たな枠組みで各レースをシリーズ化したものである。

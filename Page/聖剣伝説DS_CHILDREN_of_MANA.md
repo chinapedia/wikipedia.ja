@@ -1,4 +1,4 @@
-> この記事は[DS CHILDREN of MANA](https://ja.wikipedia.org/wiki/DS_CHILDREN_of_MANA)から翻訳されています。
+> この記事は[聖剣伝説DS CHILDREN of MANA](https://ja.wikipedia.org/wiki/聖剣伝説DS_CHILDREN_of_MANA)から翻訳されています。
 
 
 『**聖剣伝説DS CHILDREN of MANA**』（せいけんでんせつDS チルドレン オブ マナ）は[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズの外伝。

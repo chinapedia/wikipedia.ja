@@ -1,4 +1,4 @@
-> この記事は[CERO17](https://ja.wikipedia.org/wiki/CERO17)から翻訳されています。
+> この記事は[CEROレーティング17才以上対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング17才以上対象ソフトの一覧)から翻訳されています。
 
 
 [CERO_D.svg](https://ja.wikipedia.org/wiki/File:CERO_D.svg "fig:CERO_D.svg") **CEROレーティング17才以上対象ソフトの一覧**（セロレーティング17さいいじょうたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティングで**「D 17才以上対象」（購入の規制がなされないレーティングの限度）**に区分されたゲームソフトの一覧である。
@@ -9,12 +9,29 @@
 
 ### Nintendo Switch
 
+  - [ディアブロ III エターナルコレクション](https://ja.wikipedia.org/wiki/ディアブロ_III_エターナルコレクション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [My Friend Pedro](https://ja.wikipedia.org/wiki/My_Friend_Pedro "wikilink")（コンテンツアイコン：「暴力」）
+  - [死印](https://ja.wikipedia.org/wiki/死印 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [メトロ２０３３リダックス](https://ja.wikipedia.org/wiki/メトロ２０３３リダックス "wikilink")（コンテンツアイコン：「暴力」）
+  - [ひぐらしのなく頃に奉](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に奉 "wikilink")（コンテンツアイコン：「犯罪、言葉・その他」）
+  - [DOOM 64](https://ja.wikipedia.org/wiki/DOOM_64 "wikilink")（コンテンツアイコン：「暴力」）
+  - [Warframe](https://ja.wikipedia.org/wiki/Warframe "wikilink")（コンテンツアイコン：「暴力」）
+  - [絶対階級学園](https://ja.wikipedia.org/wiki/絶対階級学園 "wikilink")（コンテンツアイコン：「犯罪」）
+  - [Earthfall: Alien Horde](https://ja.wikipedia.org/wiki/Earthfall:_Alien_Horde "wikilink")（コンテンツアイコン：「暴力」）
+  - [Sniper Elite 3 Ultimate Edition](https://ja.wikipedia.org/wiki/Sniper_Elite_3_Ultimate_Edition "wikilink")（コンテンツアイコン：「暴力」）
+  - [進撃の巨人２](https://ja.wikipedia.org/wiki/進撃の巨人２ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [INSIDE](https://ja.wikipedia.org/wiki/INSIDE "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [蛇香のライラ ～Trap of MUSK～](https://ja.wikipedia.org/wiki/蛇香のライラ_～Trap_of_MUSK～ "wikilink")（コンテンツアイコン：「犯罪」）
+  - [DARK SOULS REMASTERED](https://ja.wikipedia.org/wiki/DARK_SOULS_REMASTERED "wikilink")（コンテンツアイコン：「暴力」）
+  - [SAMURAI SPIRITS](../Page/SAMURAI_SPIRITS.md "wikilink")（コンテンツアイコン：「暴力」）
   - [神獄塔 メアリスケルター2](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルター2 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ぎゃる☆がん2](https://ja.wikipedia.org/wiki/ぎゃる☆がん2 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ベヨネッタ](https://ja.wikipedia.org/wiki/ベヨネッタ "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [返校](https://ja.wikipedia.org/wiki/返校 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [レイジングループ](https://ja.wikipedia.org/wiki/レイジングループ "wikilink")（コンテンツアイコン：「暴力」）
   - [スーパーリアル麻雀PV](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PV "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [スーパーリアル麻雀PVI](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PVI "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [スーパーリアル麻雀P7](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀P7 "wikilink")（コンテンツアイコン：「セクシャル」）
 
 ### Wii U
 
@@ -835,6 +852,10 @@ Xbox 360
   - [フル スペクトラム ウォリアー2 テン ハンマーズ](../Page/フル_スペクトラム_ウォリアー.md "wikilink")（コンテンツアイコン：「暴力」）
   - [フロントライン フュエル・オブ・ウォー](https://ja.wikipedia.org/wiki/フロントライン_フュエル・オブ・ウォー "wikilink")（コンテンツアイコン：「暴力」）
   - [Hellgate: London](https://ja.wikipedia.org/wiki/Hellgate:_London "wikilink")（コンテンツアイコン：「???」）
+
+## その他
+
+  - [スナッチャー](../Page/スナッチャー.md "wikilink")（コンテンツアイコン：「暴力」）
 
 ## 関連項目
 

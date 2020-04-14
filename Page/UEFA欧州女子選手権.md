@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFA欧州女子選手権](https://ja.wikipedia.org/wiki/UEFA欧州女子選手権)から翻訳されています。
 
 
 **UEFA欧州女子選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。男子の[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")に相当する。**Women's EURO**とも呼称される（大抵は年度を付加して“Women's EURO 2017”などのように使われる）。

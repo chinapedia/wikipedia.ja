@@ -1,4 +1,4 @@
-> この記事は[UEFA EURO 2000](https://ja.wikipedia.org/wiki/UEFA_EURO_2000)から翻訳されています。
+> この記事は[UEFA EURO 2000決勝](https://ja.wikipedia.org/wiki/UEFA_EURO_2000決勝)から翻訳されています。
 
 
 **UEFA EURO 2000決勝**は、[2000年](../Page/2000年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[ロッテルダム](../Page/ロッテルダム.md "wikilink")の[フェイエノールト・スタディオン](../Page/フェイエノールト・スタディオン.md "wikilink")で行われた。[フランスが](../Page/サッカーフランス代表.md "wikilink")[イタリアに延長](../Page/サッカーイタリア代表.md "wikilink")[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")で逆転勝ちし優勝を決めた。

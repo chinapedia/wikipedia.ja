@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[全神栖SC](https://ja.wikipedia.org/wiki/全神栖SC)から翻訳されています。
 
 
 **全神栖サッカークラブ**（ぜんかみすサッカークラブ、全神栖SC、*All Kamisu Soccer Club*）は[茨城県](../Page/茨城県.md "wikilink")[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")を本拠地として活動している社会人サッカーのクラブチーム。
@@ -45,6 +45,5 @@
 
 ## 外部リンク
 
-  - [全神栖SC公式サイト](http://allkamisu.hp.infoseek.co.jp/index.html)
-
+  -
 [Category:茨城県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:茨城県のサッカークラブ "wikilink") [Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:神栖市の歴史](https://ja.wikipedia.org/wiki/Category:神栖市の歴史 "wikilink") [Category:茨城県のスポーツ史](https://ja.wikipedia.org/wiki/Category:茨城県のスポーツ史 "wikilink")

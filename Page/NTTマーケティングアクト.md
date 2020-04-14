@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTマーケティングアクト](https://ja.wikipedia.org/wiki/NTTマーケティングアクト)から翻訳されています。
 
 
 **株式会社エヌ・ティ・ティ マーケティングアクト**（エヌ・ティ・ティマーケティングアクト）は、[大阪市](../Page/大阪市.md "wikilink")[都島区](../Page/都島区.md "wikilink")に本社を置く[NTT西日本グループのマーケティング会社](../Page/西日本電信電話.md "wikilink")。[人材派遣](https://ja.wikipedia.org/wiki/人材派遣 "wikilink")や研修なども行っている。 代表的な窓口としてはNTT西日本エリア内における[電話](../Page/電話.md "wikilink")の新設・移転等の電話受付を行っている116センタ、電話番号案内を行っている104センタなどが挙げられる。

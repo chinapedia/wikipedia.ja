@@ -1,4 +1,4 @@
-> この記事は[\&Find Stitch!](https://ja.wikipedia.org/wiki/\&Find_Stitch!)から翻訳されています。
+> この記事は[リロ\&スティッチのフリフリ大騒動〜Find Stitch!〜](https://ja.wikipedia.org/wiki/リロ\&スティッチのフリフリ大騒動〜Find_Stitch!〜)から翻訳されています。
 
 
 **リロ＆スティッチのフリフリ大騒動〜Find Stitch\!〜**（*Lilo & Stitch's Big Panic "Find Stitch\!"*）は[2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")（[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")23周年の日） - [7月13日](../Page/7月13日.md "wikilink")および、[2007年](../Page/2007年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - [7月19日](../Page/7月19日.md "wikilink")にかけて東京ディズニーランドで開催されたスペシャルイベント。

@@ -1,4 +1,4 @@
-> この記事は[Acacia \(\)](https://ja.wikipedia.org/wiki/Acacia_\(\))から翻訳されています。
+> この記事は[Acacia \(松任谷由実のアルバム\)](https://ja.wikipedia.org/wiki/Acacia_\(松任谷由実のアルバム\))から翻訳されています。
 
 
 『**acacia (アケイシャ)**』は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の31枚目のオリジナルアルバム。[2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOCT-24600）。2001年[7月6日](../Page/7月6日.md "wikilink") - [10月27日](../Page/10月27日.md "wikilink")にかけて『acacia』コンサートツアーが行われた。
@@ -46,7 +46,7 @@
         タイトルの意味は[華氏](../Page/華氏.md "wikilink")の温度で、[摂氏](https://ja.wikipedia.org/wiki/摂氏 "wikilink")に置き換えると43.3℃。その気温の南国での投身自殺を歌った曲。
 4.  **リアリティ**
       -
-        当時[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のボーカルであり、松任谷の大ファンでもある[LISAをゲストに迎えている](../Page/LISA_\(歌手\).md "wikilink")。
+        [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のボーカルであり、松任谷の大ファンでもある[LISAをゲストに迎えている](../Page/LISA_\(歌手\).md "wikilink")。
 5.  **MIDNIGHT RUN**
       -
         三角関係の愛に破れた男の歌。

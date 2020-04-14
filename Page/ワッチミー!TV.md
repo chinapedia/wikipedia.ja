@@ -1,4 +1,4 @@
-> この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
+> この記事は[ワッチミー!TV](https://ja.wikipedia.org/wiki/ワッチミー!TV)から翻訳されています。
 
 
 **ワッチミー\!TV**（watch me\! tv）は、[フジテレビが](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に設立した[フジテレビラボ](../Page/フジテレビラボ.md "wikilink")LLC合同会社が運営していた無料の[動画共有サイト](../Page/動画共有サービス.md "wikilink")。2006年[7月13日](../Page/7月13日.md "wikilink")にベータサービスを開始した。サービス内容は[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に似ているが、[アップロード](../Page/アップロード.md "wikilink")した動画は内容がチェックされ、著作権法違反になるコンテンツや不適切なコンテンツは配信されないようになっていた。[2018年](../Page/2018年.md "wikilink")3月31日をもってサービス終了\[1\]。

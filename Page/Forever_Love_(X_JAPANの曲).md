@@ -1,4 +1,4 @@
-> この記事は[Forever Love \(X JAPAN\)](https://ja.wikipedia.org/wiki/Forever_Love_\(X_JAPAN\))から翻訳されています。
+> この記事は[Forever Love \(X JAPANの曲\)](https://ja.wikipedia.org/wiki/Forever_Love_\(X_JAPANの曲\))から翻訳されています。
 
 
 「**Forever Love**」（フォーエヴァー・ラヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドの](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[X JAPANが](../Page/X_JAPAN.md "wikilink")[1996年](../Page/1996年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にリリースした14作目の[シングル](../Page/シングル.md "wikilink")。

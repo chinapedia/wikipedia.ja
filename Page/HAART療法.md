@@ -1,4 +1,4 @@
-> この記事は[HAART](https://ja.wikipedia.org/wiki/HAART)から翻訳されています。
+> この記事は[HAART療法](https://ja.wikipedia.org/wiki/HAART療法)から翻訳されています。
 
 
 **HAART療法**（ハートりょうほう） (highly active anti-retroviral therapy) とは、複数の抗[HIV](../Page/ヒト免疫不全ウイルス.md "wikilink")-1薬を各人の症状・体質に合わせて組み合わせて投与し、ウイルスの増殖を抑え[後天性免疫不全症候群](../Page/後天性免疫不全症候群.md "wikilink") (AIDS) の発症を防ぐ治療法である。

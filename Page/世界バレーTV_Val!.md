@@ -1,4 +1,4 @@
-> この記事は[TV Val!](https://ja.wikipedia.org/wiki/TV_Val!)から翻訳されています。
+> この記事は[世界バレーTV Val!](https://ja.wikipedia.org/wiki/世界バレーTV_Val!)から翻訳されています。
 
 
 **世界バレーTV Val\!**（せかいバレーティービー ヴァル）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2006年](../Page/2006年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")（14日未明）より[12月1日](../Page/12月1日.md "wikilink")（2日未明）まで、毎週金曜深夜（土曜未明）1:25～1:55に放送された番組。

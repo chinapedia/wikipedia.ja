@@ -1,4 +1,4 @@
-> この記事は[ \(I FEEL THE ECHO\)](https://ja.wikipedia.org/wiki/_\(I_FEEL_THE_ECHO\))から翻訳されています。
+> この記事は[いつか何処かで \(I FEEL THE ECHO\)](https://ja.wikipedia.org/wiki/いつか何処かで_\(I_FEEL_THE_ECHO\))から翻訳されています。
 
 
 「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

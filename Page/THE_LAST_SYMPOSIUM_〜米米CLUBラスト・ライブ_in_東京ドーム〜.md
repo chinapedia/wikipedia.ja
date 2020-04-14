@@ -1,4 +1,4 @@
-> この記事は[THE LAST SYMPOSIUM CLUB in ](https://ja.wikipedia.org/wiki/THE_LAST_SYMPOSIUM_CLUB_in_)から翻訳されています。
+> この記事は[THE LAST SYMPOSIUM 〜米米CLUBラスト・ライブ in 東京ドーム〜](https://ja.wikipedia.org/wiki/THE_LAST_SYMPOSIUM_〜米米CLUBラスト・ライブ_in_東京ドーム〜)から翻訳されています。
 
 
 『**THE LAST SYMPOSIUM 〜米米CLUBラスト・ライヴ in 東京ドーム〜**』（ザ ラスト シンポジウム こめこめクラブ ラストライヴ イン とうきょうドーム）は[米米CLUB](../Page/米米CLUB.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

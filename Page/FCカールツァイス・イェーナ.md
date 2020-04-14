@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCカールツァイス・イェーナ](https://ja.wikipedia.org/wiki/FCカールツァイス・イェーナ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Aufstieg_FCC_2005_02.jpg "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[IMI AR21](https://ja.wikipedia.org/wiki/IMI_AR21)から翻訳されています。
+> この記事は[IMI タボールAR21](https://ja.wikipedia.org/wiki/IMI_タボールAR21)から翻訳されています。
 
 
 **IMI タボール TAR-21**（IMI Tavor TAR-21）は、[イスラエル](../Page/イスラエル.md "wikilink")の[IMI社の](../Page/イスラエル・ミリタリー・インダストリーズ.md "wikilink")[小火器](../Page/小火器.md "wikilink")部門が最初に設計し、その後小火器部門が分離独立した民間銃器メーカーである[イスラエル・ウェポン・インダストリーズ](https://ja.wikipedia.org/wiki/イスラエル・ウェポン・インダストリーズ "wikilink")社が生産・販売する、元は[イスラエル国防軍](../Page/イスラエル国防軍.md "wikilink")向けに開発した[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")[アサルトライフル](../Page/アサルトライフル.md "wikilink")であり、同社の主力製品のひとつである。

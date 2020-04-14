@@ -1,4 +1,4 @@
-> この記事は[GVER](https://ja.wikipedia.org/wiki/GVER)から翻訳されています。
+> この記事は[G∞VER](https://ja.wikipedia.org/wiki/G∞VER)から翻訳されています。
 
 
 『**G∞VER**』（グーヴァー）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。

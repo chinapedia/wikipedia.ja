@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[A・S・バイアット](https://ja.wikipedia.org/wiki/A・S・バイアット)から翻訳されています。
 
 
 **[デイム](https://ja.wikipedia.org/wiki/ナイト#女性（デイム） "wikilink")・アントニア・スーザン・バイアット**（**Dame Antonia Susan Byatt**, [1938年](../Page/1938年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。
@@ -18,4 +18,4 @@
   - 「繰り返すパターン」 『英語圏女性作家の描く家族のかたち』 [佐藤宏子](https://ja.wikipedia.org/wiki/佐藤宏子 "wikilink")・[川本静子](../Page/川本静子.md "wikilink")訳 ミネルヴァ書房　2006年　所収
   - 「そり返った断崖」 池田栄一訳 『世界文学全集　短編コレクションⅡ』[池澤夏樹](../Page/池澤夏樹.md "wikilink")編 河出書房新社 2010年　所収
 
-[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:大英帝国勲章](https://ja.wikipedia.org/wiki/Category:大英帝国勲章 "wikilink") [Category:ブッカー賞受賞者](https://ja.wikipedia.org/wiki/Category:ブッカー賞受賞者 "wikilink") [Category:エラスムス賞](https://ja.wikipedia.org/wiki/Category:エラスムス賞 "wikilink") [Category:アメリカ芸術科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:アメリカ芸術科学アカデミー会員 "wikilink") [Category:イングランドの不可知論者](https://ja.wikipedia.org/wiki/Category:イングランドの不可知論者 "wikilink") [Category:ケンブリッジ大学出身の人物](https://ja.wikipedia.org/wiki/Category:ケンブリッジ大学出身の人物 "wikilink") [Category:シェフィールド出身の人物](https://ja.wikipedia.org/wiki/Category:シェフィールド出身の人物 "wikilink") [Category:1938年生](https://ja.wikipedia.org/wiki/Category:1938年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:大英帝国勲章受章者](https://ja.wikipedia.org/wiki/Category:大英帝国勲章受章者 "wikilink") [Category:ブッカー賞受賞者](https://ja.wikipedia.org/wiki/Category:ブッカー賞受賞者 "wikilink") [Category:エラスムス賞](https://ja.wikipedia.org/wiki/Category:エラスムス賞 "wikilink") [Category:アメリカ芸術科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:アメリカ芸術科学アカデミー会員 "wikilink") [Category:イングランドの不可知論者](https://ja.wikipedia.org/wiki/Category:イングランドの不可知論者 "wikilink") [Category:ケンブリッジ大学出身の人物](https://ja.wikipedia.org/wiki/Category:ケンブリッジ大学出身の人物 "wikilink") [Category:シェフィールド出身の人物](https://ja.wikipedia.org/wiki/Category:シェフィールド出身の人物 "wikilink") [Category:1938年生](https://ja.wikipedia.org/wiki/Category:1938年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

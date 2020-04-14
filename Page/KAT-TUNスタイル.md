@@ -1,4 +1,4 @@
-> この記事は[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN)から翻訳されています。
+> この記事は[KAT-TUNスタイル](https://ja.wikipedia.org/wiki/KAT-TUNスタイル)から翻訳されています。
 
 
 **KAT-TUNスタイル**（カトゥーンスタイル、英字表記：**KAT-TUN STYLE**\[1\]）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに[NRN系列全国ネットで放送していた](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。当時[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")のメンバーだった[田口淳之介](https://ja.wikipedia.org/wiki/田口淳之介 "wikilink")・[田中聖](../Page/田中聖.md "wikilink")が[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。

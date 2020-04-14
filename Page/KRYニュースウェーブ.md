@@ -1,4 +1,4 @@
-> この記事は[KRY](https://ja.wikipedia.org/wiki/KRY)から翻訳されています。
+> この記事は[KRYニュースウェーブ](https://ja.wikipedia.org/wiki/KRYニュースウェーブ)から翻訳されています。
 
 
 『**KRY ニュースウェーブ**』（ケイアールワイ ニュースウェーブ）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで土曜の夕方に放送されているラジオ[ニュース番組](../Page/報道番組.md "wikilink")。なお、過去には平日（月曜 - 金曜）版も放送されていた。

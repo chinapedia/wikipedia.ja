@@ -1,4 +1,4 @@
-> この記事は[SFX](https://ja.wikipedia.org/wiki/SFX)から翻訳されています。
+> この記事は[オーガスタス・S・F・X・ヴァン・ドゥーゼン](https://ja.wikipedia.org/wiki/オーガスタス・S・F・X・ヴァン・ドゥーゼン)から翻訳されています。
 
 
 **オーガスタス・S・F・X・ヴァン・ドゥーゼン教授**（Professor Augustus S. F. X. Van Dusen）は、[ジャック・フットレル](../Page/ジャック・フットレル.md "wikilink")の作品に登場する[科学者](../Page/科学者.md "wikilink")・[名探偵](../Page/名探偵.md "wikilink")である。

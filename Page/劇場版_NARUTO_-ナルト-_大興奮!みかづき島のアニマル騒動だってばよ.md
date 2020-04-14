@@ -1,4 +1,4 @@
-> この記事は[ NARUTO -- !](https://ja.wikipedia.org/wiki/_NARUTO_--_!)から翻訳されています。
+> この記事は[劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大興奮!みかづき島のアニマル騒動だってばよ)から翻訳されています。
 
 
 『**劇場版 NARUTO -ナルト- 大興奮\!みかづき島のアニマル騒動だってばよ**』（げきじょうばん ナルト だいこうふん\!みかづきじまのアニマルパニックだってばよ）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に公開された、漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")。劇場版第3作目。アニメ第1期の劇場版としては、これが最終作である為か当初今作に関するCMや予告映像では第一部完結編と言われていたが特に一部完結を思わせる内容ではなかった。本作のゲスト声優として[アニマル浜口](../Page/アニマル浜口.md "wikilink")・[京子親子と](https://ja.wikipedia.org/wiki/浜口京子 "wikilink")[レギュラーと](https://ja.wikipedia.org/wiki/レギュラー_\(お笑いコンビ\) "wikilink")[MARIAが出演し](../Page/MARIA_\(バンド\).md "wikilink")、芸能人がゲスト声優を務める作品は[劇場版 NARUTO -ナルト- ブラッド・プリズンまで待つこととなった](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_ブラッド・プリズン "wikilink")。

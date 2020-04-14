@@ -1,4 +1,4 @@
-> この記事は[SASA](https://ja.wikipedia.org/wiki/SASA)から翻訳されています。
+> この記事は[アストロロボSASA](https://ja.wikipedia.org/wiki/アストロロボSASA)から翻訳されています。
 
 
 『**アストロロボSASA**』（アストロロボササ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[アスキーから](../Page/アスキー_\(企業\).md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用に発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")\[1\]。同社が[1984年](../Page/1984年.md "wikilink")に[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用に発売した[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")『**SASA**』（ササ）をファミコン用に移植したもので、同社がファミコン用として発売した初のソフトでもある。

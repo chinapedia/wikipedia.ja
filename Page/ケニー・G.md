@@ -1,7 +1,7 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ケニー・G](https://ja.wikipedia.org/wiki/ケニー・G)から翻訳されています。
 
 
-**ケニー・G**（Kenny G、[正式名](https://ja.wikipedia.org/wiki/正式名 "wikilink") Kenneth Gorelick、[1956年](../Page/1956年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
+**ケニー・G**（Kenny G、[正式名](https://ja.wikipedia.org/wiki/正式名 "wikilink") Kenneth Gorelick、 **ケネス・ゴアリック**、[1956年](../Page/1956年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
 
 [1980年代](../Page/1980年代.md "wikilink")、[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")の第一人者として活躍し、特に[アリスタ・レコード](../Page/アリスタ・レコード.md "wikilink")時代には大きなセールスを記録した。主に[ソプラノサックス奏者として知られるが](../Page/サクソフォーン.md "wikilink")、[アルトサックス](../Page/サクソフォーン.md "wikilink")、[テナーサックス](../Page/サクソフォーン.md "wikilink")、[ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")などを演奏することもある。
 
@@ -16,6 +16,14 @@
 [Kenny_G_1998.jpg](https://ja.wikipedia.org/wiki/File:Kenny_G_1998.jpg "fig:Kenny_G_1998.jpg") [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、「最も長い[ロングトーン](https://ja.wikipedia.org/wiki/ロングトーン "wikilink")をするサックス奏者（45分47秒）」（→[循環呼吸](../Page/循環呼吸.md "wikilink")）として、また[1999年](../Page/1999年.md "wikilink")には「累計アルバム売上枚数の最も多いジャズ・アーティスト」として、それぞれ[ギネスブックにも掲載されている](https://ja.wikipedia.org/wiki/ギネス・ワールド・レコーズ "wikilink")（ただし前者に関しては、[コスタリカ](../Page/コスタリカ.md "wikilink")のサックス奏者ジョバンニ・エスカリエンテが、非公式ながら90分45秒の記録を持つとの主張もある）。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、長年所属していたアリスタより離れ、[コンコード・レコード](../Page/コンコード・レコード.md "wikilink")に移り、[ラテン音楽](../Page/ラテン音楽.md "wikilink")を中心とした『[ロマンスの足おと](https://ja.wikipedia.org/wiki/ロマンスの足おと "wikilink")』を発表。2010年のアルバム『ハート・アンド・ソウル』は、[ロビン・シック](https://ja.wikipedia.org/wiki/ロビン・シック "wikilink")や[ベイビーフェイスといったゲスト](../Page/ベイビーフェイス_\(ミュージシャン\).md "wikilink")・ボーカリストを迎えて制作された\[6\]。
+
+## 批評
+
+彼のヒットにより、彼に類似した音楽性（[ポップス性](../Page/ポピュラー音楽.md "wikilink")）を持つアーティストが1990年代から多く出てきた。このようなことから彼は[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")を推進したアーティストといえるが、一方で彼の音楽性は『ジャズに非ず』というのがジャズやフュージョンの奏者からの批判である（そもそもフュージョンをジャズと分離して考える論者もいるが）。ジャズ史上最も著名なアーティストの一人[ルイ・アームストロング](../Page/ルイ・アームストロング.md "wikilink")の曲をオーバーダビングした曲を*"Classics In The Key Of G"*で発表したとき、[パット・メセニー](../Page/パット・メセニー.md "wikilink")や[リチャード・トンプソン](https://ja.wikipedia.org/wiki/リチャード・トンプソン "wikilink")はこれを厳しく批判した。このような批判と彼の功績――功罪をもって、「別格」と彼を称する者も多い。
+
+## エピソード
+
+[TBSテレビ](../Page/TBSテレビ.md "wikilink")で毎年[お正月の時期に放送されている](../Page/正月.md "wikilink")[バラエティ特番](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[さんま・玉緒のお年玉あんたの夢をかなえたろかスペシャル](../Page/さんま・玉緒のお年玉あんたの夢をかなえたろかスペシャル.md "wikilink")』で「ケニー・Gと一緒に演奏して、[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")で亡くなった父親に聴かせてあげたい」といった依頼者の女子高生（当時。高校2年生）の夢をかなえたことがある（ただし、「レーベルの契約上、一緒に演奏することはできないが、演奏を聴くことはできる」という条件の下で行われた）。依頼者が彼の前で演奏したのは彼の代表曲でもある『The Moment』（当初は依頼者の父親が生前好きだった[石原裕次郎](https://ja.wikipedia.org/wiki/石原裕次郎 "wikilink")の『[夜霧よ今夜も有難う](https://ja.wikipedia.org/wiki/夜霧よ今夜も有難う "wikilink")』を演奏する予定だった）で、演奏中に最後のワンフレーズだけ依頼者とセッションした。お返しに依頼者とその家族（母親と妹）に向けて『夜霧よ今夜も有難う』を生演奏でプレゼントしている。その夢がかなった依頼者は現在、[東京国際学園高等部](https://ja.wikipedia.org/wiki/東京国際学園高等部 "wikilink")の教員として活動している\[7\]。
 
 ## ディスコグラフィ
 
@@ -50,14 +58,6 @@
 
   - *Kenny G Live* (1990, Arista)
   - *AN EVENING OF RHYTHM & ROMANCE* (2009,Eagle Vision)
-
-## 批評
-
-彼のヒットにより、彼に類似した音楽性（[ポップス性](../Page/ポピュラー音楽.md "wikilink")）を持つアーティストが1990年代から多く出てきた。このようなことから彼は[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")を推進したアーティストといえるが、一方で彼の音楽性は『ジャズに非ず』というのがジャズやフュージョンの奏者からの批判である（そもそもフュージョンをジャズと分離して考える論者もいるが）。ジャズ史上最も著名なアーティストの一人[ルイ・アームストロング](../Page/ルイ・アームストロング.md "wikilink")の曲をオーバーダビングした曲を*"Classics In The Key Of G"*で発表したとき、[パット・メセニー](../Page/パット・メセニー.md "wikilink")や[リチャード・トンプソン](https://ja.wikipedia.org/wiki/リチャード・トンプソン "wikilink")はこれを厳しく批判した。このような批判と彼の功績――功罪をもって、「別格」と彼を称する者も多い。
-
-## エピソード
-
-[TBSテレビ](../Page/TBSテレビ.md "wikilink")で毎年[お正月の時期に放送されている](../Page/正月.md "wikilink")[バラエティ特番](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[さんま・玉緒のお年玉あんたの夢をかなえたろかスペシャル](../Page/さんま・玉緒のお年玉あんたの夢をかなえたろかスペシャル.md "wikilink")』で「ケニー・Gと一緒に演奏して、[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")で亡くなった父親に聴かせてあげたい」といった依頼者の女子高生（当時。高校2年生）の夢をかなえたことがある（ただし、「レーベルの契約上、一緒に演奏することはできないが、演奏を聴くことはできる」という条件の下で行われた）。依頼者が彼の前で演奏したのは彼の代表曲でもある『The Moment』（当初は依頼者の父親が生前好きだった[石原裕次郎](https://ja.wikipedia.org/wiki/石原裕次郎 "wikilink")の『[夜霧よ今夜も有難う](https://ja.wikipedia.org/wiki/夜霧よ今夜も有難う "wikilink")』を演奏する予定だった）で、演奏中に最後のワンフレーズだけ依頼者とセッションした。お返しに依頼者とその家族（母親と妹）に向けて『夜霧よ今夜も有難う』を生演奏でプレゼントしている。その夢がかなった依頼者は現在、[東京国際学園高等部](https://ja.wikipedia.org/wiki/東京国際学園高等部 "wikilink")の教員として活動している\[7\]。
 
 ## TV出演
 

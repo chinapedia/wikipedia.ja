@@ -1,4 +1,4 @@
-> この記事は[TSC](https://ja.wikipedia.org/wiki/TSC)から翻訳されています。
+> この記事は[ザニュースTSCワイド](https://ja.wikipedia.org/wiki/ザニュースTSCワイド)から翻訳されています。
 
 
 『**ザニュースTSCワイド**』（ザニュース ティーエスシーワイド）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビせとうち](../Page/テレビせとうち.md "wikilink")で[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 16:45 - 17:30 （以下[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた夕方の[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。それまで同時間帯に放送されていた『[ザニュースTSC](../Page/ザニュースTSC.md "wikilink")』を発展した形となっていた。17:00 - 17:23までは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の『[速ホゥ\!](../Page/速ホゥ!.md "wikilink")』を内包し、[ステーションブレイク無しで繋いでいた](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。

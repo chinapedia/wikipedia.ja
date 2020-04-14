@@ -1,4 +1,4 @@
-> この記事は[ -C1 GRAND PRIX-](https://ja.wikipedia.org/wiki/_-C1_GRAND_PRIX-)から翻訳されています。
+> この記事は[レーシングバトル -C1 GRAND PRIX-](https://ja.wikipedia.org/wiki/レーシングバトル_-C1_GRAND_PRIX-)から翻訳されています。
 
 
 『**レーシングバトル -C1 GRAND PRIX-**』（レーシングバトル シーワングランプリ）は、[元気より](../Page/元気_\(ゲーム会社\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。

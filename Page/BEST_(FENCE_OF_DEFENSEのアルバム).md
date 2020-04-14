@@ -1,4 +1,4 @@
-> この記事は[BEST \(FENCE OF DEFENSE\)](https://ja.wikipedia.org/wiki/BEST_\(FENCE_OF_DEFENSE\))から翻訳されています。
+> この記事は[BEST \(FENCE OF DEFENSEのアルバム\)](https://ja.wikipedia.org/wiki/BEST_\(FENCE_OF_DEFENSEのアルバム\))から翻訳されています。
 
 
 『**BEST**』（ベスト）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた、[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
@@ -6,8 +6,8 @@
 ## 解説
 
   - キャッチコピーは「これまで、そしてここから。」。
-  - シングル曲を中心に構成された、FOD初のベストアルバム。シングルリリースのなかった「[digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")」からは、「9.9.9」が収録されている。また「最後の想い」は未発表曲である。
-  - 彼らはこのアルバムを最後に、デビュー以来のレーベルだった[EPICソニーレコードを離れる事になる](../Page/エピックレコードジャパン.md "wikilink")。
+  - シングル曲を中心に構成された、FOD初のベストアルバム。シングルリリースのなかったアルバム『[digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")』からは「9.9.9」が収録されている。また「最後の想い」は未発表曲である。
+  - 彼らはこのアルバムを最後に、デビュー以来のレーベルだった[EPICソニーレコードを離れることになる](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 収録曲
 

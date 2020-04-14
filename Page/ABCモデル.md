@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCモデル](https://ja.wikipedia.org/wiki/ABCモデル)から翻訳されています。
 
 
 [ABC_flower_development.svg](https://ja.wikipedia.org/wiki/File:ABC_flower_development.svg "fig:ABC_flower_development.svg")におけるABCモデルの概略図。Aクラスの[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")（青色）は[萼片](https://ja.wikipedia.org/wiki/萼片 "wikilink")と[花弁](https://ja.wikipedia.org/wiki/花弁 "wikilink")の形成に影響を及ぼし、クラスBの遺伝子（黄色）は花弁と[雄蕊](../Page/雄蕊.md "wikilink")の形成に、Cクラスの遺伝子（赤色）は雄蕊と[心皮](https://ja.wikipedia.org/wiki/心皮 "wikilink")の形成に影響を及ぼす。各遺伝子は特定の2つの"whorl"（本文参照）においてそのスイッチがオンとなる。\]\] **花の発生におけるABCモデル**は、[被子植物](../Page/被子植物.md "wikilink")の[花](../Page/花.md "wikilink")の[発生](https://ja.wikipedia.org/wiki/発生 "wikilink")を[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の発現調節から説明する[モデルである](../Page/モデル_\(自然科学\).md "wikilink")。

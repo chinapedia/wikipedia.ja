@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブラックプールFC](https://ja.wikipedia.org/wiki/ブラックプールFC)から翻訳されています。
 
 
 **ブラックプール・フットボール・クラブ**（**Blackpool Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ブラックプール](../Page/ブラックプール.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[リーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - [サイモン・グレイソン](https://ja.wikipedia.org/wiki/サイモン・グレイソン "wikilink")
+  - [ニール・クリッチリー](https://ja.wikipedia.org/wiki/ニール・クリッチリー "wikilink")
 
 ### ローン移籍
 
@@ -215,7 +215,9 @@
 
   - [テリー・マクフィリップス](https://ja.wikipedia.org/wiki/テリー・マクフィリップス "wikilink") 2018.8-2019.7
 
-  - [サイモン・グレイソン](https://ja.wikipedia.org/wiki/サイモン・グレイソン "wikilink") 2019.7-
+  - [サイモン・グレイソン](https://ja.wikipedia.org/wiki/サイモン・グレイソン "wikilink") 2019.7-2020
+
+  - [ニール・クリッチリー](https://ja.wikipedia.org/wiki/ニール・クリッチリー "wikilink") 2020-
 
 ## 歴代所属選手
 

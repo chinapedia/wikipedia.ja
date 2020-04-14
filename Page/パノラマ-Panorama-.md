@@ -1,4 +1,4 @@
-> この記事は[-Panorama-](https://ja.wikipedia.org/wiki/-Panorama-)から翻訳されています。
+> この記事は[パノラマ-Panorama-](https://ja.wikipedia.org/wiki/パノラマ-Panorama-)から翻訳されています。
 
 
 「**パノラマ-Panorama-**」は、[水樹奈々](../Page/水樹奈々.md "wikilink")の楽曲で、9作目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。

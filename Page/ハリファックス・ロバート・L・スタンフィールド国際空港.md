@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ハリファックス・ロバート・L・スタンフィールド国際空港](https://ja.wikipedia.org/wiki/ハリファックス・ロバート・L・スタンフィールド国際空港)から翻訳されています。
 
 
 **ハリファックス・ロバート・L・スタンフィールド国際空港**（英語：Halifax Robert L. Stanfield International Airport）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ノバスコシア州](../Page/ノバスコシア州.md "wikilink")[ハリファックス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")近郊にある国際[空港](../Page/空港.md "wikilink")。ハリファックス国際空港とも呼ばれる。

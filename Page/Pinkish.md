@@ -26,8 +26,8 @@
 ### 卒業したメンバー
 
   - **香菜絵**（中村香菜絵、なかむら かなえ、[1993年](../Page/1993年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - 、埼玉県出身）
-  - **未来** （斎通未来、さいつう みく、[1988年](../Page/1988年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - 、埼玉県出身）
-  - **佳織** （中里佳織、なかざと かおり、[1988年](../Page/1988年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - 、埼玉県加須市出身）- 2代目リーダー
+  - **未来** （[斎通未来](https://ja.wikipedia.org/wiki/斎通未来 "wikilink")、さいつう みく、[1988年](../Page/1988年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - 、埼玉県出身）
+  - **佳織** （[中里佳織](https://ja.wikipedia.org/wiki/中里佳織 "wikilink")、なかざと かおり、[1988年](../Page/1988年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - 、埼玉県加須市出身）- 2代目リーダー
   - **麻実** （青木麻実、あおき まみ、[1991年](../Page/1991年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - 、埼玉県加須市出身）
   - **美波** （小林美波、こばやし みな、[1991年](../Page/1991年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - 、埼玉県加須市出身）
   - **[美穂](https://ja.wikipedia.org/wiki/白井美穂 "wikilink")** （白井美穂、しらい みほ、[1991年](../Page/1991年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - 、埼玉県加須市出身）

@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[スーパーヒーローMAX](https://ja.wikipedia.org/wiki/スーパーヒーローMAX)から翻訳されています。
 
 
 **スーパーヒーローMAX**（スーパーヒーローマックス）は、CS放送局の[東映チャンネル](../Page/東映チャンネル.md "wikilink")、[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")、[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")3局合同企画であり、毎年8月〜9月に東映製作の**[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")**と**[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")**の劇場版が公開されるのに合わせて行われるイベントである。

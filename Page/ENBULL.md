@@ -101,9 +101,9 @@ U-ZIPPLAIN aka U-CHANG aka U-ZIPP（ユージップレイン） [MC](https://ja.
   -
   - [ENBULL OFFICIAL WEB SITE](http://www.enbull.com/)
 
-  - [Brain Castle](http://ameblo.jp/enbull-u-zipplain/)U-ZIPPLAIN BLOG
+  - [Brain Castle](https://ameblo.jp/enbull-u-zipplain/)U-ZIPPLAIN BLOG
 
-  - [grooveman spot](http://ameblo.jp/groovemanspot/)grooveman spot BLOG
+  - [grooveman spot](https://ameblo.jp/groovemanspot/)grooveman spot BLOG
 
   - [blogrooveman](http://grooveman.exblog.jp/) 旧ブログ
 

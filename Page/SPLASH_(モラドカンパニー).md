@@ -1,4 +1,4 @@
-> この記事は[SPLASH \(\)](https://ja.wikipedia.org/wiki/SPLASH_\(\))から翻訳されています。
+> この記事は[SPLASH \(モラドカンパニー\)](https://ja.wikipedia.org/wiki/SPLASH_\(モラドカンパニー\))から翻訳されています。
 
 
 **SPLASH**（スプラッシュ）は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")を拠点に活動する小中学生の女の子によるダンス＆ボーカルユニット、「[東北発信源ユニット](https://ja.wikipedia.org/wiki/東北地方 "wikilink")」を[キャッチコピー](../Page/キャッチコピー.md "wikilink")に地域交流・貢献を活動目的としている。[モラドカンパニー](https://ja.wikipedia.org/wiki/モラドカンパニー "wikilink")（旧名：仙台SOSモデルエージェンシー）所属。

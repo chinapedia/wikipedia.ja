@@ -1,4 +1,4 @@
-> この記事は[T-](https://ja.wikipedia.org/wiki/T-)から翻訳されています。
+> この記事は[T-モバイル](https://ja.wikipedia.org/wiki/T-モバイル)から翻訳されています。
 
 
 **T-モバイル** (T-Mobile、ティー・モバイル) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ボン](https://ja.wikipedia.org/wiki/ボン "wikilink")に本社を置き、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")及び[北米で](../Page/北アメリカ.md "wikilink")[移動体通信](../Page/移動体通信.md "wikilink")サービスを提供している会社。[ドイツテレコム](../Page/ドイツテレコム.md "wikilink")の[子会社](../Page/子会社.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[PLAY \(\)](https://ja.wikipedia.org/wiki/PLAY_\(\))から翻訳されています。
+> この記事は[PLAY \(安室奈美恵のアルバム\)](https://ja.wikipedia.org/wiki/PLAY_\(安室奈美恵のアルバム\))から翻訳されています。
 
 
 『**PLAY**』（プレイ）は、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の8枚目の[オリジナルアルバムで](../Page/スタジオ・アルバム.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

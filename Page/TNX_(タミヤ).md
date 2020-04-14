@@ -1,4 +1,4 @@
-> この記事は[TNX \(\)](https://ja.wikipedia.org/wiki/TNX_\(\))から翻訳されています。
+> この記事は[TNX \(タミヤ\)](https://ja.wikipedia.org/wiki/TNX_\(タミヤ\))から翻訳されています。
 
 
 **TNX（てぃーえぬえっくす、・タミヤ・ナイトロエックス-TAMIYA NITRO X）**は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）より発売中の1/8スケールの[グローエンジン](../Page/グローエンジン.md "wikilink")を動力とする[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")ビッグフット・モデル。発売は[2004年](../Page/2004年.md "wikilink")。[米国で行われているスタジアムスピードレース用の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モンスタートラック](../Page/モンスタートラック.md "wikilink")をモチーフとしており、先代「[テラクラッシャー](../Page/テラクラッシャー.md "wikilink")」の弱点を改善しつつリファインし、よりハイスピードでの走行が可能となっている。組み立て済みフルセットでのリリースで、キット価格は￥69,800。

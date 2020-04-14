@@ -1,4 +1,4 @@
-> この記事は[BBS](https://ja.wikipedia.org/wiki/BBS)から翻訳されています。
+> この記事は[ジョークドキュメントBBS放送局](https://ja.wikipedia.org/wiki/ジョークドキュメントBBS放送局)から翻訳されています。
 
 
 『**ジョークドキュメントBBS放送局**』（ジョークドキュメント ビービーエスほうそうきょく）は、[1982年](../Page/1982年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。通称「**BBS放送局**」。放送時間は毎週日曜 22:30 - 23:24 （[日本標準時](../Page/日本標準時.md "wikilink")）。

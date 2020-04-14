@@ -1,4 +1,4 @@
-> この記事は[SAL \(\)](https://ja.wikipedia.org/wiki/SAL_\(\))から翻訳されています。
+> この記事は[SAL \(バンド\)](https://ja.wikipedia.org/wiki/SAL_\(バンド\))から翻訳されています。
 
 
 **SAL**（サル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")である。所属事務所はDCT entertainment、所属レコード会社は[DCT records](../Page/DCT_records.md "wikilink")。2002年にアルバム「SPECTRO」で[DCT records第](../Page/DCT_records.md "wikilink")1弾アーティストとしてデビュー。以後シングル1枚、アルバム1枚を発表するが、2003年に活動休止。以来SALとしての活動はないが、メンバーが個々にソロ活動をしている。

@@ -19,4 +19,4 @@
 7.  **[Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")**
 8.  **[FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")**
 
-[Category:宇多田ヒカルの映像作品](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの映像作品 "wikilink") [Category:2001年のコンサート](https://ja.wikipedia.org/wiki/Category:2001年のコンサート "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:2001年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2001年の音楽関連の映像作品 "wikilink") [Category:MTVアンプラグド_(映像作品)](https://ja.wikipedia.org/wiki/Category:MTVアンプラグド_\(映像作品\) "wikilink")
+[Category:宇多田ヒカルの映像作品](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルの映像作品 "wikilink") [Category:2001年のコンサート](https://ja.wikipedia.org/wiki/Category:2001年のコンサート "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:MTVアンプラグド_(映像作品)](https://ja.wikipedia.org/wiki/Category:MTVアンプラグド_\(映像作品\) "wikilink")

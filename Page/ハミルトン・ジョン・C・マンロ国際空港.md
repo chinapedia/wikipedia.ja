@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ハミルトン・ジョン・C・マンロ国際空港](https://ja.wikipedia.org/wiki/ハミルトン・ジョン・C・マンロ国際空港)から翻訳されています。
 
 
 **ハミルトン・ジョン・C・マンロ国際空港**（英語：Hamilton John C. Munro International Airport）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[オンタリオ州](../Page/オンタリオ州.md "wikilink")南西部に位置する[ハミルトンにある国際空港である](../Page/ハミルトン_\(オンタリオ州\).md "wikilink")。単にジョン・C・マンロ国際空港またはハミルトン国際空港とも呼ぶ。ハミルトン市街地から約11km南西に位置する。

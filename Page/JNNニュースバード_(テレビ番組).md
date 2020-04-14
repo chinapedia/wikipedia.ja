@@ -1,4 +1,4 @@
-> この記事は[JNN \(\)](https://ja.wikipedia.org/wiki/JNN_\(\))から翻訳されています。
+> この記事は[JNNニュースバード \(テレビ番組\)](https://ja.wikipedia.org/wiki/JNNニュースバード_\(テレビ番組\))から翻訳されています。
 
 
 **JNNニュースバード**（**ジェイエヌエヌ ニュースバード**）は、[TBSが運営する](../Page/TBSテレビ.md "wikilink")[CS](../Page/衛星放送.md "wikilink")[放送局](../Page/放送局.md "wikilink")の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")およびTBSほか[JNN系列局の一部で平日早朝に](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

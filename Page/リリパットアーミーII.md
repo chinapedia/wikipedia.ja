@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[リリパットアーミーII](https://ja.wikipedia.org/wiki/リリパットアーミーII)から翻訳されています。
 
 
 **リリパットアーミーII**（リリパットアーミーセカンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")。座長は[わかぎゑふ](../Page/わかぎゑふ.md "wikilink")。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[中島らも](../Page/中島らも.md "wikilink")主催・[笑殺軍団リリパットアーミー](../Page/笑殺軍団リリパットアーミー.md "wikilink")として設立。当時のメンバーとして[桂吉朝](https://ja.wikipedia.org/wiki/桂吉朝 "wikilink")、[松尾貴史](../Page/松尾貴史.md "wikilink")、[チチ松村](../Page/チチ松村.md "wikilink")などが参加。 その後、リリパットアーミーに改名し、設立時から参加していた[わかぎゑふ](../Page/わかぎゑふ.md "wikilink")らも加わる。 [2003年](../Page/2003年.md "wikilink")、わかぎゑふが2代目座長を継ぎ、リリパットアーミーIIに改名。

@@ -1,4 +1,4 @@
-> この記事は[Ninja](https://ja.wikipedia.org/wiki/Ninja)から翻訳されています。
+> この記事は[Ninja者](https://ja.wikipedia.org/wiki/Ninja者)から翻訳されています。
 
 
 『**Ninja者**』（ニンジャもの）は、[1996年](../Page/1996年.md "wikilink")に作られた[OVA](../Page/OVA.md "wikilink")作品。全2巻。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")には[DVD](../Page/DVD.md "wikilink")版(全1巻)が発売された。これは日本で発売された最初のアニメDVDである。

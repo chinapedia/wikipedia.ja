@@ -1,4 +1,4 @@
-> この記事は[DARKER THAN BLACK --](https://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_--)から翻訳されています。
+> この記事は[DARKER THAN BLACK -黒の契約者-](https://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_-黒の契約者-)から翻訳されています。
 
 
 『**DARKER THAN BLACK -黒の契約者-**』（ダーカーザンブラック くろのけいやくしゃ）は、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系列で](../Page/TBSテレビ.md "wikilink")[2007年](../Page/2007年.md "wikilink")4月5日から同年9月27日まで放送された[BONES制作の](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ](../Page/アニメ.md "wikilink")作品。テレビ放送分25話に、未放送分の1話を加えた全26話。
@@ -1116,7 +1116,7 @@
   -
   - [DARKER THAN BLACK-漆黒の花-（ガンスマ情報局）](http://www.jp.square-enix.com/magazine/gansma/yg/darker_than_black/)
 
-[Category:DARKER_THAN_BLACK](https://ja.wikipedia.org/wiki/Category:DARKER_THAN_BLACK "wikilink") [Category:アニメ作品_た](https://ja.wikipedia.org/wiki/Category:アニメ作品_た "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:毎日放送の深夜アニメ](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜アニメ "wikilink") [Category:超能力を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ作品 "wikilink") [Category:暗殺者を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:暗殺者を主人公としたアニメ作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:差別を題材とした作品](https://ja.wikipedia.org/wiki/Category:差別を題材とした作品 "wikilink") [Category:ボンズ](https://ja.wikipedia.org/wiki/Category:ボンズ "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:博報堂DYグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:博報堂DYグループのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink")
+[Category:DARKER_THAN_BLACK](https://ja.wikipedia.org/wiki/Category:DARKER_THAN_BLACK "wikilink") [Category:アニメ作品_た](https://ja.wikipedia.org/wiki/Category:アニメ作品_た "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:毎日放送の深夜アニメ](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜アニメ "wikilink") [Category:超能力を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ作品 "wikilink") [Category:暗殺者を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:暗殺者を主人公としたアニメ作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:差別を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:差別を題材としたアニメ作品 "wikilink") [Category:ボンズ](https://ja.wikipedia.org/wiki/Category:ボンズ "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:博報堂DYグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:博報堂DYグループのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink")
 
 1.  公式サイトの「ニュース」を参照。
 2.  岡村天斎「岡村天斎制作ノート」『Charaberrys』エンターブレイン、2007年4月、ISBN 978-4-7577-3471-5。

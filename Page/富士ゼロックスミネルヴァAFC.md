@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[富士ゼロックスミネルヴァAFC](https://ja.wikipedia.org/wiki/富士ゼロックスミネルヴァAFC)から翻訳されています。
 
 
 **富士ゼロックスミネルヴァAFC**（ふじゼロックスミネルヴァ・エー・エフ・シー 、）は、[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")に所属する[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")のクラブチーム。

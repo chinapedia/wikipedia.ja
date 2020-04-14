@@ -1,4 +1,4 @@
-> この記事は[C \(\)](https://ja.wikipedia.org/wiki/C_\(\))から翻訳されています。
+> この記事は[レッスンC \(テレビドラマ\)](https://ja.wikipedia.org/wiki/レッスンC_\(テレビドラマ\))から翻訳されています。
 
 
 **レッスンC**（レッスンシー）は[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[ネオドラマ](../Page/ネオドラマ.md "wikilink")枠で放送された[中嶋朋子](../Page/中嶋朋子.md "wikilink")主演の連続ドラマ。放送期間は[1993年](../Page/1993年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")〜[4月23日](../Page/4月23日.md "wikilink")。放送時間は23:25〜（30分）。全4回であった。

@@ -56,7 +56,7 @@ RWEの主な子会社は以下のものがある。
 
 [Category:電力会社](https://ja.wikipedia.org/wiki/Category:電力会社 "wikilink") [Category:ドイツのエネルギー関連企業](https://ja.wikipedia.org/wiki/Category:ドイツのエネルギー関連企業 "wikilink") [Category:エッセンの企業](https://ja.wikipedia.org/wiki/Category:エッセンの企業 "wikilink") [Category:フランクフルト証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:フランクフルト証券取引所上場企業 "wikilink") [Category:ドイツの多国籍企業](https://ja.wikipedia.org/wiki/Category:ドイツの多国籍企業 "wikilink") [Category:1898年設立の企業](https://ja.wikipedia.org/wiki/Category:1898年設立の企業 "wikilink")
 
-1.  T.P.ヒューズ 市場康男訳 『電力の歴史』 平凡社 1996年 601頁
+1.  T.P.ヒューズ 市場泰男訳 『電力の歴史』 平凡社 1996年 601頁
 2.
 3.
 4.

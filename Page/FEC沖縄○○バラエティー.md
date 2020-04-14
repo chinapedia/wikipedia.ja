@@ -1,4 +1,4 @@
-> この記事は[FEC](https://ja.wikipedia.org/wiki/FEC)から翻訳されています。
+> この記事は[FEC沖縄○○バラエティー](https://ja.wikipedia.org/wiki/FEC沖縄○○バラエティー)から翻訳されています。
 
 
 『**FEC沖縄○○バラエティー**\[1\]\[2\]』（エフイーシーおきなわまるまるバラエティー）は、[沖縄テレビで放送されていた](../Page/沖縄テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

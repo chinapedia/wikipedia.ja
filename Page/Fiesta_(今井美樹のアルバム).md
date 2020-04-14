@@ -1,4 +1,4 @@
-> この記事は[Fiesta \(\)](https://ja.wikipedia.org/wiki/Fiesta_\(\))から翻訳されています。
+> この記事は[Fiesta \(今井美樹のアルバム\)](https://ja.wikipedia.org/wiki/Fiesta_\(今井美樹のアルバム\))から翻訳されています。
 
 
 『**fiesta**』（フィエスタ）は、[今井美樹](../Page/今井美樹.md "wikilink")の特別企画アルバムである。[1988年](../Page/1988年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[FENCE OF DEFENSE \(\)](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_\(\))から翻訳されています。
+> この記事は[FENCE OF DEFENSE \(アルバム\)](https://ja.wikipedia.org/wiki/FENCE_OF_DEFENSE_\(アルバム\))から翻訳されています。
 
 
 **FENCE OF DEFENSE**（フェンス・オブ・ディフェンス）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")1stアルバム。

@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[バイオハザードIII](https://ja.wikipedia.org/wiki/バイオハザードIII)から翻訳されています。
 
 
 『**バイオハザードIII**』（バイオハザードスリー、原題：*Resident Evil: Extinction*）は、[2007年](../Page/2007年.md "wikilink")に公開された[ホラー](../Page/ホラー映画.md "wikilink")[アクション映画](../Page/アクション映画.md "wikilink")。監督は[ラッセル・マルケイ](../Page/ラッセル・マルケイ.md "wikilink")へ交代したが、脚本は前2作と同じく[ポール・W・S・アンダーソン](../Page/ポール・W・S・アンダーソン.md "wikilink")が担当した。

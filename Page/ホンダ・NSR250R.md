@@ -1,4 +1,4 @@
-> この記事は[NSR250R](https://ja.wikipedia.org/wiki/NSR250R)から翻訳されています。
+> この記事は[ホンダ・NSR250R](https://ja.wikipedia.org/wiki/ホンダ・NSR250R)から翻訳されています。
 
 
 **NSR250R**（エヌエスアールにひゃくごじゅうアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")の[レーサーレプリカ](https://ja.wikipedia.org/wiki/レーサーレプリカ "wikilink")タイプの[2ストローク](../Page/2ストローク機関.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。車名のNSRは**N**ew **S**print **R**acingの略である。競技車両であるワークスレーサー[NSR500のレプリカで](../Page/ホンダ・NSR500.md "wikilink")、市販車の[NSRシリーズの中ではフラッグシップモデルになる](../Page/ホンダ・NSR.md "wikilink")。

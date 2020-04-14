@@ -1,4 +1,4 @@
-> この記事は[EUN](https://ja.wikipedia.org/wiki/EUN)から翻訳されています。
+> この記事は[オリンピックのEUN選手団](https://ja.wikipedia.org/wiki/オリンピックのEUN選手団)から翻訳されています。
 
 
 **オリンピックのEUN選手団**（オリンピックのイーユーエヌせんしゅだん、）は、[1992年アルベールビルオリンピック](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink")と[1992年バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink")に出場した、旧[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[バルト三国](../Page/バルト三国.md "wikilink")を除く[構成12国によって臨時に編成された選手団](https://ja.wikipedia.org/wiki/ソビエト連邦構成共和国 "wikilink")（チーム）である。“**EUN**”は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「統一チーム」と言う意味の“”に由来する[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink") (IOC) での[国・地域名コード](../Page/IOCコード一覧.md "wikilink")。

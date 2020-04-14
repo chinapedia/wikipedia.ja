@@ -1,4 +1,4 @@
-> この記事は[RED SHADOW ](https://ja.wikipedia.org/wiki/RED_SHADOW_)から翻訳されています。
+> この記事は[RED SHADOW 赤影](https://ja.wikipedia.org/wiki/RED_SHADOW_赤影)から翻訳されています。
 
 
 『**RED SHADOW 赤影**』（レッドシャドー あかかげ）は、[2001年](../Page/2001年の映画.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。

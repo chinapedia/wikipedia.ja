@@ -1,4 +1,4 @@
-> この記事は[ NEO KOBE 2045](https://ja.wikipedia.org/wiki/_NEO_KOBE_2045)から翻訳されています。
+> この記事は[スピードキング NEO KOBE 2045](https://ja.wikipedia.org/wiki/スピードキング_NEO_KOBE_2045)から翻訳されています。
 
 
 『**スピードキング NEO KOBE 2045**』*(NEO KOBE 2045 SPEED KING)*は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（当時。現、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）より[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にアーケード向けに発売された近未来[レーシングゲーム](../Page/レースゲーム.md "wikilink")。

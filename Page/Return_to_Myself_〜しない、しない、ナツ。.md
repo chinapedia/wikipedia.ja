@@ -1,4 +1,4 @@
-> この記事は[Return to Myself ](https://ja.wikipedia.org/wiki/Return_to_Myself_)から翻訳されています。
+> この記事は[Return to Myself 〜しない、しない、ナツ。](https://ja.wikipedia.org/wiki/Return_to_Myself_〜しない、しない、ナツ。)から翻訳されています。
 
 
 「**Return to Myself 〜しない、しない、ナツ。**」（リターン・トゥ・マイセルフ 〜しない、しない、ナツ。）は、[浜田麻里](../Page/浜田麻里.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")発売。発売元は[ビクターインビテーション](../Page/Invitation_\(レーベル\).md "wikilink")。

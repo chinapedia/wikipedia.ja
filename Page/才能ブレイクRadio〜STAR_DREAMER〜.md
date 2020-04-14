@@ -1,4 +1,4 @@
-> この記事は[RadioSTAR DREAMER](https://ja.wikipedia.org/wiki/RadioSTAR_DREAMER)から翻訳されています。
+> この記事は[才能ブレイクRadio〜STAR DREAMER〜](https://ja.wikipedia.org/wiki/才能ブレイクRadio〜STAR_DREAMER〜)から翻訳されています。
 
 
 **才能ブレイクRadio〜STAR DREAMER\!〜**（さいのうブレイクレディオスタードリーマー）は、2006年4月1日から2016年9月24日まで[ミュージックバード](../Page/ミュージックバード.md "wikilink")が全国の[コミュニティ放送局](https://ja.wikipedia.org/wiki/コミュニティ放送局 "wikilink")をネットして放送していた番組である。

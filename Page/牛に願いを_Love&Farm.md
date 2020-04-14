@@ -1,4 +1,4 @@
-> この記事は[ Love\&Farm](https://ja.wikipedia.org/wiki/_Love\&Farm)から翻訳されています。
+> この記事は[牛に願いを Love\&Farm](https://ja.wikipedia.org/wiki/牛に願いを_Love\&Farm)から翻訳されています。
 
 
 『**牛に願いを Love\&Farm**』（うしにねがいを ラブアンドファーム）は、[2007年](../Page/2007年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで毎週火曜日22:00 - 22:54に、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜22時枠](https://ja.wikipedia.org/wiki/関西テレビ制作・火曜夜10時枠の連続ドラマ "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[玉山鉄二](../Page/玉山鉄二.md "wikilink")。全11回。

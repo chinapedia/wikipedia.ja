@@ -1,4 +1,4 @@
-> この記事は[SEED ](https://ja.wikipedia.org/wiki/SEED_)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED 友と君と戦場で。](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_友と君と戦場で。)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED 友と君と戦場で。**』（きどうせんしガンダムシード ともときみとここで）は、[2004年](../Page/2004年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に[バンダイから発売された](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ゲームソフト。

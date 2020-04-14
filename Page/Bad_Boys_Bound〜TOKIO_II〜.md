@@ -1,4 +1,4 @@
-> この記事は[Bad Boys BoundTOKIO II](https://ja.wikipedia.org/wiki/Bad_Boys_BoundTOKIO_II)から翻訳されています。
+> この記事は[Bad Boys Bound〜TOKIO II〜](https://ja.wikipedia.org/wiki/Bad_Boys_Bound〜TOKIO_II〜)から翻訳されています。
 
 
 『**Bad Boys Bound 〜TOKIO II〜**』（バッド・ボーイズ・バウンド トキオ・ツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の[7月3日](../Page/7月3日.md "wikilink")に発売された[TOKIO](../Page/TOKIO.md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。

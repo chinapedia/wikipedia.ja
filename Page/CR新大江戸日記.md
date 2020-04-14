@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR新大江戸日記](https://ja.wikipedia.org/wiki/CR新大江戸日記)から翻訳されています。
 
 
 **CR新大江戸日記**（-しんおおえどにっき）は、[2006年](../Page/2006年.md "wikilink")に[ニューギン](../Page/ニューギン.md "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。同社が発売した『[大江戸日記](https://ja.wikipedia.org/wiki/大江戸日記 "wikilink")』の後継シリーズ機種。

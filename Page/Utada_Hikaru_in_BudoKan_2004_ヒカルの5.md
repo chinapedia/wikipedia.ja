@@ -1,4 +1,4 @@
-> この記事は[Utada Hikaru in BudoKan 2004 5](https://ja.wikipedia.org/wiki/Utada_Hikaru_in_BudoKan_2004_5)から翻訳されています。
+> この記事は[Utada Hikaru in BudoKan 2004 ヒカルの5](https://ja.wikipedia.org/wiki/Utada_Hikaru_in_BudoKan_2004_ヒカルの5)から翻訳されています。
 
 
 『**Utada Hikaru in BudoKan 2004 ヒカルの5**』（宇多田ヒカル イン 武道館 にせんよん ヒカルのご）は、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のライブDVD。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")発売。

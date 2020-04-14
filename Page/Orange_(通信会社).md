@@ -1,4 +1,4 @@
-> この記事は[Orange \(\)](https://ja.wikipedia.org/wiki/Orange_\(\))から翻訳されています。
+> この記事は[Orange \(通信会社\)](https://ja.wikipedia.org/wiki/Orange_\(通信会社\))から翻訳されています。
 
 
 **Orange S.A.**（**オランジュ**または**オレンジ**、, , ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の主要[電気通信事業者](../Page/電気通信事業者.md "wikilink")の一つ。旧称は**フランス・テレコム** (France Télécom) 。世界中で16万6,000人の従業員と2億3,200万人の利用者を抱える\[1\]。

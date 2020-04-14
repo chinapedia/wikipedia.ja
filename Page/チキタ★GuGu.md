@@ -1,4 +1,4 @@
-> この記事は[GuGu](https://ja.wikipedia.org/wiki/GuGu)から翻訳されています。
+> この記事は[チキタ★GuGu](https://ja.wikipedia.org/wiki/チキタ★GuGu)から翻訳されています。
 
 
 『**チキタ★GuGu**』は、漫画家[TONO](../Page/TONO.md "wikilink")による漫画。[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")『[ネムキ](../Page/ネムキ.md "wikilink")』誌の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月号から[2007年](../Page/2007年.md "wikilink")5月号にかけて連載された。全8巻。2007年に[センス・オブ・ジェンダー賞](../Page/センス・オブ・ジェンダー賞.md "wikilink")特別賞を受賞している。
@@ -82,6 +82,6 @@
 
 ## 脚注
 
-[Category:漫画作品_ち](https://ja.wikipedia.org/wiki/Category:漫画作品_ち "wikilink") [Category:ネムキ](https://ja.wikipedia.org/wiki/Category:ネムキ "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:魔法・呪術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:魔法・呪術を題材とした漫画作品 "wikilink") [Category:カニバリズムを題材とした作品](https://ja.wikipedia.org/wiki/Category:カニバリズムを題材とした作品 "wikilink") [Category:不老不死を題材とした作品](https://ja.wikipedia.org/wiki/Category:不老不死を題材とした作品 "wikilink")
+[Category:漫画作品_ち](https://ja.wikipedia.org/wiki/Category:漫画作品_ち "wikilink") [Category:ネムキ](https://ja.wikipedia.org/wiki/Category:ネムキ "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:魔法・呪術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:魔法・呪術を題材とした漫画作品 "wikilink") [Category:カニバリズムを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:カニバリズムを題材とした漫画作品 "wikilink") [Category:不老不死を題材とした作品](https://ja.wikipedia.org/wiki/Category:不老不死を題材とした作品 "wikilink")
 
 1.  [2007年度　第7回Sense of Gender賞 講評 荻上チキ](http://gender-sf.org/sog/2007/OgiueChiki.html)

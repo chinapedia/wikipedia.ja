@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[マイケル・K](https://ja.wikipedia.org/wiki/マイケル・K)から翻訳されています。
 
 
 『**マイケル・K**』（*Life & Times of Michael K*）は、2003年にノーベル文学賞を受賞した[J・M・クッツェーの第](https://ja.wikipedia.org/wiki/ジョン・クッツェー "wikilink")4作目の[小説](../Page/小説.md "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に出版され、同年の[ブッカー賞](../Page/ブッカー賞.md "wikilink")を受賞した。

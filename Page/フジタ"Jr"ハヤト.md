@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[フジタJrハヤト](https://ja.wikipedia.org/wiki/フジタJrハヤト)から翻訳されています。
 
 
 **フジタ"Jr"ハヤト**（フジタ"ジュニア"ハヤト、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月20日](../Page/9月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**藤田 勇人**（ふじた はやと）。

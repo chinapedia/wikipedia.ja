@@ -1,4 +1,4 @@
-> この記事は[WEST WIND ](https://ja.wikipedia.org/wiki/WEST_WIND_)から翻訳されています。
+> この記事は[WEST WIND たかじんスペシャル](https://ja.wikipedia.org/wiki/WEST_WIND_たかじんスペシャル)から翻訳されています。
 
 
 『**WEST WIND たかじんスペシャル**』（ウェスト・ウィンド たかじんスペシャル）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")の[ビクター音楽産業における初のベスト](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")・アルバムである。なお、ジャケット写真は大阪・[中之島公会堂](https://ja.wikipedia.org/wiki/中之島公会堂 "wikilink")をバックに撮影したものである。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。

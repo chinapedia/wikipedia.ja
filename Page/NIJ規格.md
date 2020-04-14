@@ -1,4 +1,4 @@
-> この記事は[NIJ](https://ja.wikipedia.org/wiki/NIJ)から翻訳されています。
+> この記事は[NIJ規格](https://ja.wikipedia.org/wiki/NIJ規格)から翻訳されています。
 
 
 **NIJ規格**（**NIJ Standards**）とは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")において主に[司法省の装備調達基準として](https://ja.wikipedia.org/wiki/アメリカ合衆国司法省 "wikilink")[国立司法省研究所](https://ja.wikipedia.org/wiki/:en:National_Institute_of_Justice "wikilink")(NIJ : National Institute of Justice)が制定した規格である。[生体認証](../Page/生体認証.md "wikilink")、[DNA鑑定](https://ja.wikipedia.org/wiki/DNA鑑定 "wikilink")、[非致死性兵器](../Page/非致死性兵器.md "wikilink")など対象は多岐に渡るが、日本では防弾ベスト([ボディーアーマー](https://ja.wikipedia.org/wiki/ボディーアーマー "wikilink"))の防弾能力をランク付けする根拠となる**NIJ規格-0101.06** 「ボディーアーマーの防弾性能」が知られている。

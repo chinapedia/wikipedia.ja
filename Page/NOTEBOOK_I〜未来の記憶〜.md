@@ -1,4 +1,4 @@
-> この記事は[NOTEBOOK I](https://ja.wikipedia.org/wiki/NOTEBOOK_I)から翻訳されています。
+> この記事は[NOTEBOOK I〜未来の記憶〜](https://ja.wikipedia.org/wiki/NOTEBOOK_I〜未来の記憶〜)から翻訳されています。
 
 
 『**NOTEBOOK I〜未来の記憶〜**』（ノートブック・ワン みらいのきおく）は、[榎本くるみ](../Page/榎本くるみ.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。

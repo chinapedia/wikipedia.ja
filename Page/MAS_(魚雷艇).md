@@ -1,4 +1,4 @@
-> この記事は[MAS \(\)](https://ja.wikipedia.org/wiki/MAS_\(\))から翻訳されています。
+> この記事は[MAS \(魚雷艇\)](https://ja.wikipedia.org/wiki/MAS_\(魚雷艇\))から翻訳されています。
 
 
 [MAS_96_(Vittoriale_degli_italiani)_-_DSC02044.JPG](https://ja.wikipedia.org/wiki/File:MAS_96_\(Vittoriale_degli_italiani\)_-_DSC02044.JPG "fig:MAS_96_(Vittoriale_degli_italiani)_-_DSC02044.JPG")。

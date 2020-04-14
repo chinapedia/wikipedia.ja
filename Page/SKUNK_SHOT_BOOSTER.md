@@ -235,13 +235,13 @@
 
 ## ミュージックビデオ
 
-|                                                                   |                                                                             |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **監督**                                                            | **曲名**                                                                      |
-| [Osamu Ueda](https://ja.wikipedia.org/wiki/Osamu_Ueda "wikilink") | 「\[<http://www.indiesmusic.com/musicvideo/video.asp?id=10110> SSB ALL RIGHT |
-| [澤井昭彦](https://ja.wikipedia.org/wiki/澤井昭彦 "wikilink")             | 「ふるさと」「友へ」                                                                  |
-| 不明                                                                | 「BREAK UP」                                                                  |
-|                                                                   |                                                                             |
+|                                                                   |                                                                              |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **監督**                                                            | **曲名**                                                                       |
+| [Osamu Ueda](https://ja.wikipedia.org/wiki/Osamu_Ueda "wikilink") | 「\[<https://www.indiesmusic.com/musicvideo/video.asp?id=10110> SSB ALL RIGHT |
+| [澤井昭彦](https://ja.wikipedia.org/wiki/澤井昭彦 "wikilink")             | 「ふるさと」「友へ」                                                                   |
+| 不明                                                                | 「BREAK UP」                                                                   |
+|                                                                   |                                                                              |
 
 ## 出演
 

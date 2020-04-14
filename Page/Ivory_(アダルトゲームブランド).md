@@ -1,4 +1,4 @@
-> この記事は[Ivory \(\)](https://ja.wikipedia.org/wiki/Ivory_\(\))から翻訳されています。
+> この記事は[Ivory \(アダルトゲームブランド\)](https://ja.wikipedia.org/wiki/Ivory_\(アダルトゲームブランド\))から翻訳されています。
 
 
 **ivory**（アイボリー）は、株式会社アイボリーの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランドである。

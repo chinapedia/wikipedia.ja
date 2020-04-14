@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[バトルドッジボールII](https://ja.wikipedia.org/wiki/バトルドッジボールII)から翻訳されています。
 
 
 『**バトルドッジボールII**』（-ツー）とは[バンプレスト](../Page/バンプレスト.md "wikilink")が[1993年](../Page/1993年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")ソフト。

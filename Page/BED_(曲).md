@@ -1,4 +1,4 @@
-> この記事は[BED \(\)](https://ja.wikipedia.org/wiki/BED_\(\))から翻訳されています。
+> この記事は[BED \(曲\)](https://ja.wikipedia.org/wiki/BED_\(曲\))から翻訳されています。
 
 
 「**BED**」（ベッド）は、日本の女性歌手[DOUBLEの](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")3枚目のシングル。

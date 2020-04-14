@@ -1,4 +1,4 @@
-> この記事は[S\&T](https://ja.wikipedia.org/wiki/S\&T)から翻訳されています。
+> この記事は[コクヨS\&T](https://ja.wikipedia.org/wiki/コクヨS\&T)から翻訳されています。
 
 
 **コクヨS\&T株式会社**（*KOKUYO S\&T Co., Ltd.*）は、かつて存在した[コクヨ](../Page/コクヨ.md "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")。コクヨが[持株会社](../Page/持株会社.md "wikilink")制をとった時期に、主に[ステーショナリー](https://ja.wikipedia.org/wiki/ステーショナリー "wikilink")（文具）関連商品事業を行っていた企業である。

@@ -1,4 +1,4 @@
-> この記事は[Woming2](https://ja.wikipedia.org/wiki/Woming2)から翻訳されています。
+> この記事は[Woming2・ケケッテバッタ大作戦](https://ja.wikipedia.org/wiki/Woming2・ケケッテバッタ大作戦)から翻訳されています。
 
 
 『**Woming2・ケケッテバッタ大作戦**』（ウーミンツー・ケケッテバッタだいさくせん）は、[1994年](../Page/1994年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月](../Page/9月.md "wikilink")まで[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。

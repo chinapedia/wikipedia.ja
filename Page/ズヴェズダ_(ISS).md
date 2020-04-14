@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[ズヴェズダ \(ISS\)](https://ja.wikipedia.org/wiki/ズヴェズダ_\(ISS\))から翻訳されています。
 
 
 [thumbで撮影されたズヴェズダ](https://ja.wikipedia.org/wiki/画像:ISS_Zvezda_module.jpg "wikilink")・サービス・モジュール。後部に[プログレス補給船](../Page/プログレス補給船.md "wikilink")がドッキングしている\]\] [thumb](https://ja.wikipedia.org/wiki/画像:Zvezda_Service_Module_under_construction.jpg "wikilink")
@@ -58,7 +58,7 @@
   - [ズヴェズダ（ロシアのサービスモジュール）](http://iss.jaxa.jp/glossary/jp/su/zvezda.html) -- JAXA
   - [国際宇宙ステーションの打上げ 1R Zvezda](http://iss.jaxa.jp/iss/1r/) -- JAXA
 
-[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2000年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2000年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2000年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2000年の宇宙飛行 "wikilink")
 
 1.
 2.

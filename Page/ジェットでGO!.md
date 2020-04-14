@@ -1,4 +1,4 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[ジェットでGO!](https://ja.wikipedia.org/wiki/ジェットでGO!)から翻訳されています。
 
 
 『**ジェットでGO\!**』は[2000年](../Page/2000年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が発売したゲームソフトで、[飛行機](../Page/飛行機.md "wikilink")運航の[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[日本航空](../Page/日本航空.md "wikilink")が製作協力している。

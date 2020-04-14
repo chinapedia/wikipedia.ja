@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE レイプマン](https://ja.wikipedia.org/wiki/THE_レイプマン)から翻訳されています。
 
 
 『**THE レイプマン**』 は、[みやわき心太郎](https://ja.wikipedia.org/wiki/みやわき心太郎 "wikilink")、[愛崎けい子](https://ja.wikipedia.org/wiki/愛崎けい子 "wikilink")（シナリオ）による[レイプをテーマにした](../Page/強姦.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。また、それを原作とした[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")および[OVA](../Page/OVA.md "wikilink")。

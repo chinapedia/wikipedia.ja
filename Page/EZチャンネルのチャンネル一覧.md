@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZチャンネルのチャンネル一覧](https://ja.wikipedia.org/wiki/EZチャンネルのチャンネル一覧)から翻訳されています。
 
 
 **EZチャンネルのチャンネル一覧**は、[EZチャンネル](../Page/EZチャンネル.md "wikilink")・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信しているチャンネル、配信されたチャンネルの一覧。

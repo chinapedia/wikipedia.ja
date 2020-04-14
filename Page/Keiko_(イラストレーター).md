@@ -1,4 +1,4 @@
-> この記事は[Keiko \(\)](https://ja.wikipedia.org/wiki/Keiko_\(\))から翻訳されています。
+> この記事は[Keiko \(イラストレーター\)](https://ja.wikipedia.org/wiki/Keiko_\(イラストレーター\))から翻訳されています。
 
 
 **keiko**（けいこ、[1963年](../Page/1963年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）は[埼玉県](../Page/埼玉県.md "wikilink")出身の[イラストレーター](../Page/イラストレーター.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")である。名前の漢字は出生年に3番目に多かった「恵子」。

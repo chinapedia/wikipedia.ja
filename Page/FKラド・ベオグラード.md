@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKラド・ベオグラード](https://ja.wikipedia.org/wiki/FKラド・ベオグラード)から翻訳されています。
 
 
 **フドバルスキ・クルブ・ラド**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](../Page/ベオグラード.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。

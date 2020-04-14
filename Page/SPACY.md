@@ -549,7 +549,7 @@ Percussion &amp; Background Vocals</p></td>
 
   -  Discography ALBUM
 
-[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink")
+[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink") [Category:山下達郎がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎がプロデュースしたアルバム "wikilink")
 
 1.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 発売 RCA ⁄ RVC LP:RVL-8004
 2.

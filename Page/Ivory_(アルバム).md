@@ -1,4 +1,4 @@
-> この記事は[Ivory \(\)](https://ja.wikipedia.org/wiki/Ivory_\(\))から翻訳されています。
+> この記事は[Ivory \(アルバム\)](https://ja.wikipedia.org/wiki/Ivory_\(アルバム\))から翻訳されています。
 
 
 『**Ivory**』（アイボリー）は、[今井美樹](../Page/今井美樹.md "wikilink")の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。発売元は[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")（現・[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")）。

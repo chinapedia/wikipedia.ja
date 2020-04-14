@@ -1,4 +1,4 @@
-> この記事は[RtM](https://ja.wikipedia.org/wiki/RtM)から翻訳されています。
+> この記事は[三菱商事RtMジャパン](https://ja.wikipedia.org/wiki/三菱商事RtMジャパン)から翻訳されています。
 
 
 **三菱商事RtMジャパン株式会社**（みつびししょうじRtMジャパン）（旧社名・**金商株式会社**（きんしょう））は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[商社](../Page/商社.md "wikilink")。三菱商事の完全子会社である。

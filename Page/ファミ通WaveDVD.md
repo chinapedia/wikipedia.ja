@@ -1,4 +1,4 @@
-> この記事は[WaveDVD](https://ja.wikipedia.org/wiki/WaveDVD)から翻訳されています。
+> この記事は[ファミ通WaveDVD](https://ja.wikipedia.org/wiki/ファミ通WaveDVD)から翻訳されています。
 
 
 『**ファミ通WaveDVD**』（ファミつうウェーブディーブイディー）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")が発行していた[DVD](../Page/DVD.md "wikilink")付きの月刊[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。2011年5月号（3月30日発売号）をもって休刊した。

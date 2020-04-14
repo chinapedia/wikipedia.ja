@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSテレビの深夜アニメ枠](https://ja.wikipedia.org/wiki/TBSテレビの深夜アニメ枠)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -442,7 +442,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p>[40]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ" title="wikilink">ノー・ガンズ・ライフ</a>（第1クール）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ" title="wikilink">ノー・ガンズ・ライフ</a>（第1期）</p></td>
 <td><p>マッドハウス</p></td>
 <td><p>2019年10月11日 - 12月27日</p></td>
 <td><p>[41]BS-TBS・TBSチャンネルでの放送はなし。<br />
@@ -564,12 +564,13 @@ BS11・AT-Xが製作委員会に参加[42]。</p></td>
 
 ### 放送予定の番組
 
-| 作品名                                                                                    | 制作        | 放送予定        | 備考 |
-| -------------------------------------------------------------------------------------- | --------- | ----------- | -- |
-| [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完 | feel.     | 2020年4月9日 - |    |
-| [ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")（第2クール）               | マッドハウス    |             |    |
-| [アサルトリリィ BOUQUET](https://ja.wikipedia.org/wiki/アサルトリリィ "wikilink")                    | シャフト      | 2020年7月 -   |    |
-| [安達としまむら](https://ja.wikipedia.org/wiki/安達としまむら "wikilink")                            | 手塚プロダクション | 2020年 -     |    |
+| 作品名                                                                                    | 制作                                                                            | 放送予定         | 備考 |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ | -- |
+| [ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")（第2期）                 | マッドハウス                                                                        | 2020年4月10日 - |    |
+| [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完 | feel.                                                                         |              |    |
+| [アサルトリリィ BOUQUET](https://ja.wikipedia.org/wiki/アサルトリリィ "wikilink")                    | シャフト                                                                          | 2020年7月 -    |    |
+| [五等分の花嫁](https://ja.wikipedia.org/wiki/五等分の花嫁 "wikilink")∬                             | [バイブリーアニメーションスタジオ](https://ja.wikipedia.org/wiki/バイブリーアニメーションスタジオ "wikilink") | 2020年10月 -   |    |
+| [安達としまむら](https://ja.wikipedia.org/wiki/安達としまむら "wikilink")                            | 手塚プロダクション                                                                     | 2020年 -      |    |
 
 TBSに関する脚注  ネット局に関する脚注
 

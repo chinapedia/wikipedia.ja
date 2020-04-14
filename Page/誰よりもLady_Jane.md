@@ -1,4 +1,4 @@
-> この記事は[Lady Jane](https://ja.wikipedia.org/wiki/Lady_Jane)から翻訳されています。
+> この記事は[誰よりもLady Jane](https://ja.wikipedia.org/wiki/誰よりもLady_Jane)から翻訳されています。
 
 
 「**誰よりもLady Jane**」（だれよりもレディ・ジェーン）は、[THE ALFEEの変名ユニット](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")・“**BE∀T BOYS**”が[1989年](../Page/1989年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に発売した通算3枚目のシングルである。
@@ -6,7 +6,7 @@
 ## 概要
 
   - BE∀T BOYS名義としては、約半年ぶりのリリース作品。
-  - 「誰よりもLady Jane」は、[西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")が出演した[LION](../Page/ライオン_\(企業\).md "wikilink")『PAGE ONE』CMソングに起用された。
+  - 「誰よりもLady Jane」は、[西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")が出演した[LION](../Page/ライオン_\(企業\).md "wikilink")『PAGE ONE』CMソングに起用された（THE ALFEE名義の「[サファイアの瞳](../Page/サファイアの瞳.md "wikilink")」以来、2年ぶり）。
 
 ## 品番
 

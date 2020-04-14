@@ -1,4 +1,4 @@
-> この記事は[ JK](https://ja.wikipedia.org/wiki/_JK)から翻訳されています。
+> この記事は[プ女と野獣 JKが悪役レスラーに恋した話](https://ja.wikipedia.org/wiki/プ女と野獣_JKが悪役レスラーに恋した話)から翻訳されています。
 
 
 『**プ女と野獣 JKが悪役レスラーに恋した話**』（プじょとやじゅう ジェーケーがあくやくレスラーにこいしたはなし）は、[安曇ゆうひ](https://ja.wikipedia.org/wiki/安曇ゆうひ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[別冊フレンド](../Page/別冊フレンド.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、2019年2月号から連載中\[1\]。タイトルロゴではタイトルに「Pujyo and the Beast」の英題名が付記されている。[プロレス](../Page/プロレス.md "wikilink")好きな女子高生（＝プ女）・百花と、[悪役レスラー](../Page/ヒール_\(プロレス\).md "wikilink")・久我の恋を描くラブコメディ\[2\]で、未成年と成人男性、そしてファンと選手という禁断の恋愛関係を爽やかに描く。

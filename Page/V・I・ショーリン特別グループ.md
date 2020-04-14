@@ -1,4 +1,4 @@
-> この記事は[VI](https://ja.wikipedia.org/wiki/VI)から翻訳されています。
+> この記事は[V・I・ショーリン特別グループ](https://ja.wikipedia.org/wiki/V・I・ショーリン特別グループ)から翻訳されています。
 
 
 {{ Infobox Military Unit

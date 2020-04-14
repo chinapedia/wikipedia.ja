@@ -1,4 +1,4 @@
-> この記事は[King Gnu One-Man Live Tour 2019Sympa](https://ja.wikipedia.org/wiki/King_Gnu_One-Man_Live_Tour_2019Sympa)から翻訳されています。
+> この記事は[King Gnu One-Man Live Tour 2019「Sympa」](https://ja.wikipedia.org/wiki/King_Gnu_One-Man_Live_Tour_2019「Sympa」)から翻訳されています。
 
 
 『**King Gnu One-Man Live Tour 2019 “Sympa”**』（キングヌー ワンマンライブツアー2019 シンパ）は、日本の4人組バンド・[King Gnuが](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")[2019年](../Page/2019年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")から[3月19日](../Page/3月19日.md "wikilink")にかけて行ったライブハウスツアーである。
@@ -7,7 +7,7 @@
 
 2ndアルバム「[Sympa](https://ja.wikipedia.org/wiki/Sympa_\(King_Gnuのアルバム\) "wikilink")」を引っさげてのライブハウスツアー。
 
-ライブで歌唱された「Tokyo Rendez-Vous」の一曲のみ写真、動画撮影が解禁された。
+ライブで演奏された「Tokyo Rendez-Vous」の一曲のみ写真、動画撮影が解禁された。
 
 ツアー最中である[2019年](../Page/2019年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に追加公演として、[2019年](../Page/2019年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")（[なんばHatch](https://ja.wikipedia.org/wiki/湊町リバープレイス#なんばHatch "wikilink")）、[2019年](../Page/2019年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")（[Zepp DiverCity Tokyo](https://ja.wikipedia.org/wiki/Zepp#日本国内 "wikilink")）の2公演が発表された。
 
@@ -24,7 +24,7 @@
 3.  Sorrows
 4.  Vinyl
 5.  McDonald Romance
-6.  ロウラブ
+6.  ロウラヴ
 7.  Bedtown
 8.  NIGHT POOL
 9.  白日

@@ -1,4 +1,4 @@
-> この記事は[UFC Fight Night: Bachowicz vs. Jacar](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Bachowicz_vs._Jacar)から翻訳されています。
+> この記事は[UFC Fight Night: Błachowicz vs. Jacaré](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Błachowicz_vs._Jacaré)から翻訳されています。
 
 
 **UFC Fight Night: Błachowicz vs. Jacaré**（ユーエフシー・ファイトナイト：ブラホヴィッチ・バーサス・ジャカレイ、別名**UFC Fight Night 164**、**UFC on ESPN+ 22**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2019年](../Page/2019年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンパウロ](../Page/サンパウロ.md "wikilink")のジナシオ・ド・イビラプエラで開催された。

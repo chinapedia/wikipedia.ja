@@ -1,4 +1,4 @@
-> この記事は[XIII](https://ja.wikipedia.org/wiki/XIII)から翻訳されています。
+> この記事は[第XIII因子](https://ja.wikipedia.org/wiki/第XIII因子)から翻訳されています。
 
 
 **第XIII因子**（だい13いんし、）または**フィブリン安定化因子**（fibrin stabilizing factor）は、ヒトと一部の他の動物の[血液](../Page/血液.md "wikilink")に見つかる[酵素前駆体](../Page/酵素前駆体.md "wikilink")である。[トロンビン](../Page/トロンビン.md "wikilink")によって活性化され、**第XIIIa因子**となる。第XIIIa因子は、[血液凝固系を構成する](../Page/凝固・線溶系.md "wikilink")[酵素](../Page/酵素.md "wikilink")で[フィブリン](../Page/フィブリン.md "wikilink")を[架橋](https://ja.wikipedia.org/wiki/架橋 "wikilink")する。第XIII因子の欠乏は凝血の安定性を悪化させ、出血傾向を増大させる\[1\]。

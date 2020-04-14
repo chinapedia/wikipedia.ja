@@ -1,4 +1,4 @@
-> この記事は[ HDM](https://ja.wikipedia.org/wiki/_HDM)から翻訳されています。
+> この記事は[ハイスタンダード HDM](https://ja.wikipedia.org/wiki/ハイスタンダード_HDM)から翻訳されています。
 
 
 **ハイスタンダード HDM**（High Standard HDM）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で開発された一体型[消音器を備える](../Page/サプレッサー.md "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/自動拳銃 "wikilink")である\[1\]。[ハイスタンダード社製のモデルHDピストルを原型とする](https://ja.wikipedia.org/wiki/ハイスタンダード_\(銃器メーカー\) "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中、秘密活動部局である[戦略情報局](https://ja.wikipedia.org/wiki/Office_of_Strategic_Services "wikilink")（OSS）が採用した。法的な懸念のため、この銃で使うことを想定したフルメタルジャケットの[.22ロングライフル弾](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")が開発された。単に**OSSピストル**（OSS Pistol）とも呼ばれた。

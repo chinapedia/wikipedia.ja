@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IPランドスケープ](https://ja.wikipedia.org/wiki/IPランドスケープ)から翻訳されています。
 
 
 **IPランドスケープ**（アイピーランドスケープ、）とは、2017年4月に特許庁が公表した『[知財人材スキル標準（version 2.0）](https://www.jpo.go.jp/support/general/chizai_skill_ver_2_0.html)』において戦略レベルのスキルとして定義された用語である。

@@ -1,4 +1,4 @@
-> この記事は[Quarter Note \(\)](https://ja.wikipedia.org/wiki/Quarter_Note_\(\))から翻訳されています。
+> この記事は[Quarter Note \(山崎まさよしのアルバム\)](https://ja.wikipedia.org/wiki/Quarter_Note_\(山崎まさよしのアルバム\))から翻訳されています。
 
 
 『**Quarter Note**』（クォーターノート）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算12枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。[2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")発売。制作は[NAYUTAWAVE RECORDS](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#ナユタウェイブレコーズ "wikilink")、発売・販売元は[ユニバーサルミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")は特別盤がUPCH-29350/1、通常盤がUPCH-20539。

@@ -1,4 +1,4 @@
-> この記事は[IX](https://ja.wikipedia.org/wiki/IX)から翻訳されています。
+> この記事は[第IX因子](https://ja.wikipedia.org/wiki/第IX因子)から翻訳されています。
 
 
 **第IX因子**（だい9いんし、、）は、[凝固系](https://ja.wikipedia.org/wiki/凝固系 "wikilink")を構成する[セリンプロテアーゼ](../Page/セリンプロテアーゼ.md "wikilink")の1つであり、**クリスマス因子**（Christmas factor）とも呼ばれる。ペプチダーゼファミリーS1に属し、このタンパク質の欠乏は[血友病](../Page/血友病.md "wikilink")Bの原因となる。第IX因子は1952年に、[Stephen Christmasという名前の少年がこの因子の欠損によって](https://ja.wikipedia.org/wiki/:en:Stephen_Christmas "wikilink")[血友病](../Page/血友病.md "wikilink")を発症していることから発見された\[1\]。

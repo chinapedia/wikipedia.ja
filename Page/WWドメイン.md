@@ -1,4 +1,4 @@
-> この記事は[WW](https://ja.wikipedia.org/wiki/WW)から翻訳されています。
+> この記事は[WWドメイン](https://ja.wikipedia.org/wiki/WWドメイン)から翻訳されています。
 
 
 **WWドメイン**\[1\]（、rsp5ドメイン\[2\]、WWPリピートモチーフ\[3\]としても知られる）は、[タンパク質](../Page/タンパク質.md "wikilink")の[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")との特異的相互作用を媒介する、モジュール状の[タンパク質ドメイン](https://ja.wikipedia.org/wiki/タンパク質ドメイン "wikilink")である。WWドメインは、無関係な多くのシグナル伝達タンパク質や構造タンパク質に見つかり、一部のタンパク質では最大4つのリピート構造が存在する\[4\]\[5\]\[6\]\[7\]。[プロリン](../Page/プロリン.md "wikilink")に富む、特に\[AP\]-P-P-\[AP\]-Yからなるモチーフをタンパク質に結合することに加え、WWドメインの一部は[ホスホセリン](https://ja.wikipedia.org/wiki/ホスホセリン "wikilink")や[ホスホスレオニンを含むモチーフに結合する](https://ja.wikipedia.org/wiki/スレオニン "wikilink")\[8\]。

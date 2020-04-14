@@ -1,4 +1,4 @@
-> この記事は[GIRIBOY \(\)](https://ja.wikipedia.org/wiki/GIRIBOY_\(\))から翻訳されています。
+> この記事は[GIRIBOY \(歌手\)](https://ja.wikipedia.org/wiki/GIRIBOY_\(歌手\))から翻訳されています。
 
 
 **GIRIBOY**（ギリボイ、、[1991年](../Page/1991年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - ）は、[韓国の](../Page/大韓民国.md "wikilink")[ラッパーである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。

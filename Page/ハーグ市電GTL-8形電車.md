@@ -1,4 +1,4 @@
-> この記事は[GTL-8](https://ja.wikipedia.org/wiki/GTL-8)から翻訳されています。
+> この記事は[ハーグ市電GTL-8形電車](https://ja.wikipedia.org/wiki/ハーグ市電GTL-8形電車)から翻訳されています。
 
 
 **GTL-8形**は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[首都](../Page/首都.md "wikilink")の[デン・ハーグ](../Page/デン・ハーグ.md "wikilink")で公共交通機関を運営する[ハーグ市営交通会社](https://ja.wikipedia.org/wiki/ハーグ市営交通会社 "wikilink")（HTM）が所有し、で使用されている[連接式](../Page/連接台車.md "wikilink")[電車](../Page/電車.md "wikilink")。長年使用されていた[PCCカーに代わるハーグ市電の標準型車両として](https://ja.wikipedia.org/wiki/PCCカー_\(ハーグ市電\) "wikilink")、[1981年](../Page/1981年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて断続的に導入された。形式名の"GTL"は、"Gelede Tram Lang"（長編成連接式路面電車）の略称である。

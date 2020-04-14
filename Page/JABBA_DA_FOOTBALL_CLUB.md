@@ -13,17 +13,17 @@
 
 ・**ROVIN**（ロビン）:[MC](../Page/MC.md "wikilink")
 
-身長は小さいが熱く、尊敬する人物として[矢沢永吉](../Page/矢沢永吉.md "wikilink")・[長渕剛](../Page/長渕剛.md "wikilink")・[吉川晃司](../Page/吉川晃司.md "wikilink")・[尾崎豊](../Page/尾崎豊.md "wikilink")を挙げている。大の[ゲーム](../Page/ゲーム.md "wikilink")好き\[3\]。
+身長は小さいが熱く、尊敬する人物として[矢沢永吉](../Page/矢沢永吉.md "wikilink")・[長渕剛](../Page/長渕剛.md "wikilink")・[吉川晃司](../Page/吉川晃司.md "wikilink")・[尾崎豊](../Page/尾崎豊.md "wikilink")を挙げている。[ゲーム](../Page/ゲーム.md "wikilink")好き\[3\]。
 
 ・**ASHTRAY**(アシュトレイ):[MC](../Page/MC.md "wikilink")
 
-[イケメン](../Page/イケメン.md "wikilink")担当。お酒好き。[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")のコアサポーター\[4\]。
+[イケメン](../Page/イケメン.md "wikilink")担当。お酒好き。[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")のサポーター\[4\]。
 
 ・**BAOBAB MC**（バオバブエムシー）:[MC](../Page/MC.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 ほとんどの楽曲の制作を担当し、[BASI](https://ja.wikipedia.org/wiki/BASI "wikilink") と唾奇の「愛のままに」のchop the onion や[chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")、その他女性アイドルなど他アーティストへの楽曲提供やコラボを行う。
 
-[FC 東京のコアサポーターである](https://ja.wikipedia.org/wiki/FC東京 "wikilink")。
+[FC 東京のサポーターである](https://ja.wikipedia.org/wiki/FC東京 "wikilink")。
 
 ## 来歴
 
@@ -33,7 +33,7 @@
 
 2015年に1stアルバム『QUEST』を500枚限定で発売。同年に開催した初の自主企画イベントには[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")、[Ykiki Beat](https://ja.wikipedia.org/wiki/Ykiki_Beat "wikilink")、[YOUR ROMANCEらが出演](https://ja.wikipedia.org/wiki/YOUR_ROMANCE "wikilink")。
 
-2017年3月に2ndアルバム『OFF THE WALL』（[TOKYO HEALTH CLUBのTSUBAME全面監修](https://ja.wikipedia.org/wiki/TOKYO_HEALTH_CLUB "wikilink")）を発表。リードトラック「STAY GOLD,LIFE GOES ON」がヒット。
+2017年3月に2ndアルバム『OFF THE WALL』（[TOKYO HEALTH CLUBのTSUBAME全面監修](https://ja.wikipedia.org/wiki/TOKYO_HEALTH_CLUB "wikilink")）を発表。リードトラック「[STAY GOLD,LIFE GOES ON](https://www.youtube.com/watch?v=Uq5fJJlO57A)」がヒット。
 
 同年に全国ツアーを行い初のワンマンライブを[下北沢BASEMENT BARにて実施](https://ja.wikipedia.org/wiki/下北沢BASEMENT_BAR "wikilink")、[O-NESTで実施されたアフターパーティーには](https://ja.wikipedia.org/wiki/O-nest "wikilink")[chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")や[MGF](https://ja.wikipedia.org/wiki/MGF "wikilink")などが参加した。また、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")が選ぶ注目新人枠“Early Noise”に[RIRI](https://ja.wikipedia.org/wiki/RIRI_\(日本の歌手\) "wikilink")、[WONK](https://ja.wikipedia.org/wiki/WONK "wikilink")らとともに選出され[サマーソニック](../Page/サマーソニック.md "wikilink")にも出演。
 
@@ -45,9 +45,9 @@
 
 2019年4月、所属レーベルだったOMAKE CLUBからの卒業とメジャー移籍を発表。
 
-2019年6月、ソニー・ミュージックレコーズより『新世界』をリリースし[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")した。同時に各地方にメンバーが一か月間住み込みライブチケットを手売りする企画“住み込んじゃってすいませんf(^^;”をスタートさせる。
+2019年6月、ソニー・ミュージックレコーズより『[新世界](https://www.youtube.com/watch?v=8IKvHz0eO3U)』をリリースし[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")した。同時に各地方にメンバーが一か月間住み込みライブチケットを手売りする企画“住み込んじゃってすいませんf(^^;”をスタートさせる。
 
-2019年9月、配信限定シングル『きみは最高』を配信。また“君の街までツアー”と称し、ジャバをイベントに出演させてくれる全国のオーガナイザーやアーティストからオファーを募る公募型ツアーで注目を集める。
+2019年9月、配信限定シングル『[きみは最高](https://www.youtube.com/watch?v=HuYbt8tPEyA)』を配信。また“君の街までツアー”と称し、ジャバをイベントに出演させたい全国のオーガナイザーやアーティストからオファーを募る公募型ツアーで注目を集める。
 
 ## 音楽性・特徴
 

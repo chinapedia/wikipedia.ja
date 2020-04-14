@@ -1,4 +1,4 @@
-> この記事は[UFO ](https://ja.wikipedia.org/wiki/UFO_)から翻訳されています。
+> この記事は[UFO ロンドンに墜落](https://ja.wikipedia.org/wiki/UFO_ロンドンに墜落)から翻訳されています。
 
 
 「**UFO ロンドンに墜落**」（UFO ロンドンについらく、原題: ）は、イギリスのSFテレビドラマ『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』のシリーズ1第4話。イギリスでは[BBC Oneで](../Page/BBC_One.md "wikilink")2005年4月16日に、日本では[NHK BS2で](../Page/NHK衛星第2テレビジョン.md "wikilink")2006年9月27日に初放送された。脚本は[ラッセル・T・デイヴィス](https://ja.wikipedia.org/wiki/ラッセル・T・デイヴィス "wikilink")、監督はケイス・ボークが担当し、次話「[宇宙大戦争の危機](../Page/宇宙大戦争の危機.md "wikilink")」に繋がる新シリーズで初めての二部作である。

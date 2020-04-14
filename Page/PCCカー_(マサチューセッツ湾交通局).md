@@ -1,4 +1,4 @@
-> この記事は[PCC \(\)](https://ja.wikipedia.org/wiki/PCC_\(\))から翻訳されています。
+> この記事は[PCCカー \(マサチューセッツ湾交通局\)](https://ja.wikipedia.org/wiki/PCCカー_\(マサチューセッツ湾交通局\))から翻訳されています。
 
 
 この項目では、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")各都市に導入された[路面電車](../Page/路面電車.md "wikilink")[車両である](../Page/電車.md "wikilink")**[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")**のうち、[ボストン](../Page/ボストン.md "wikilink")など[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")で公共交通機関を運営する**[マサチューセッツ湾交通局](../Page/マサチューセッツ湾交通局.md "wikilink")**（Massachusetts Bay Transportation Authority、MBTA）が所有する車両について解説する。公営化前の****が[1937年](../Page/1937年.md "wikilink")以降導入したもので、[2019年](../Page/2019年.md "wikilink")現在も一部車両が[マタパン線](https://ja.wikipedia.org/wiki/マタパン線 "wikilink")で営業運転に使用されている\[1\]。

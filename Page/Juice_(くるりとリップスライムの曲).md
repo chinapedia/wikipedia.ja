@@ -1,4 +1,4 @@
-> この記事は[Juice \(\)](https://ja.wikipedia.org/wiki/Juice_\(\))から翻訳されています。
+> この記事は[Juice \(くるりとリップスライムの曲\)](https://ja.wikipedia.org/wiki/Juice_\(くるりとリップスライムの曲\))から翻訳されています。
 
 
 「**Juice**」（ジュース）は、**くるりとリップスライム**名義で発売した[くるり](../Page/くるり.md "wikilink")と[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売。発売元は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。

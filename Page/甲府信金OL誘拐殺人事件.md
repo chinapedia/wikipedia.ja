@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[甲府信金OL誘拐殺人事件](https://ja.wikipedia.org/wiki/甲府信金OL誘拐殺人事件)から翻訳されています。
 
 
 **甲府信金OL誘拐殺人事件** （こうふしんきんオーエルゆうかいさつじんじけん）は[1993年](../Page/1993年.md "wikilink")（[平成](../Page/平成.md "wikilink")5年）[8月10日](../Page/8月10日.md "wikilink")に[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")で発生した[身代金](../Page/身代金.md "wikilink")目的[誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。

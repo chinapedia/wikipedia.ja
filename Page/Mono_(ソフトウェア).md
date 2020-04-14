@@ -1,4 +1,4 @@
-> この記事は[Mono \(\)](https://ja.wikipedia.org/wiki/Mono_\(\))から翻訳されています。
+> この記事は[Mono \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Mono_\(ソフトウェア\))から翻訳されています。
 
 
 **Mono**（モノ）は、[GNOME](../Page/GNOME.md "wikilink")プロジェクト創設者の[ミゲル・デ・イカザ](../Page/ミゲル・デ・イカザ.md "wikilink")が開発した、[Ecma標準に準じた](https://ja.wikipedia.org/wiki/Ecma_International "wikilink")[.NET Framework互換の環境を実現するための](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")群、またその[プロジェクト](../Page/プロジェクト.md "wikilink")名である。

@@ -1,4 +1,4 @@
-> この記事は[Black PART X 7](https://ja.wikipedia.org/wiki/Black_PART_X_7)から翻訳されています。
+> この記事は[仮面ライダーBlack PART X イミテーション7](https://ja.wikipedia.org/wiki/仮面ライダーBlack_PART_X_イミテーション7)から翻訳されています。
 
 
 『**仮面ライダーBlack PART X イミテーション・7**』は、[島本和彦](../Page/島本和彦.md "wikilink")が[1989年](../Page/1989年.md "wikilink")に発表した短編漫画作品。同年[4月10日](../Page/4月10日.md "wikilink")発売の[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")30周年記念増刊号に掲載された後、[2011年](../Page/2011年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")発売の『[仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink") 完全版』に収録された\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[BOYSLOVE ](https://ja.wikipedia.org/wiki/BOYSLOVE_)から翻訳されています。
+> この記事は[BOYSLOVE 劇場版](https://ja.wikipedia.org/wiki/BOYSLOVE_劇場版)から翻訳されています。
 
 
 『**BOYS LOVE 劇場版**』（ボーイズ・ラブ げきじょうばん）は、[2007年](../Page/2007年.md "wikilink")晩夏公開の[寺内康太郎](../Page/寺内康太郎.md "wikilink")監督による映画である。前作『[BOYS LOVE](https://ja.wikipedia.org/wiki/BOYS_LOVE "wikilink")』（DVD作品）が評価され、ストーリーこそを変更するも、同じ[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")を題材として、監督及び主演を続投で製作される。また、劇場公開版（88分）とは別に未公開シーンを追加したディレクターズ・カット完全版（117分）もリリースされている。
@@ -28,7 +28,7 @@
 
   - [BOYSLOVE公式ウェブサイト](http://boyslove-movie.com/)
 
-  - [BOYSLOVE劇場版オフィシャルブログ](http://ameblo.jp/boys-love-movie/)
+  - [BOYSLOVE劇場版オフィシャルブログ](https://ameblo.jp/boys-love-movie/)
 
   -
   -

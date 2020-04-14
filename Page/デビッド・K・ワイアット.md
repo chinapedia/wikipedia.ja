@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[デビッド・K・ワイアット](https://ja.wikipedia.org/wiki/デビッド・K・ワイアット)から翻訳されています。
 
 
 **デビッド・K・ワイアット**（David K. Wyatt、[1937年](../Page/1937年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")）はアメリカ人歴史学者。東南アジア史の特に現在の[タイ王国](../Page/タイ王国.md "wikilink")の歴史の専門家である。彼の著書、は英語で書かれたタイ史の名著とされ1982年に初版が出てから現在もなお刊行され続けている\[1\]。

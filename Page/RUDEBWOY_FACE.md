@@ -664,15 +664,15 @@ SRCL-5854</p></td>
 
 ## ミュージックビデオ
 
-|                                                         |                                                                                     |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **監督**                                                  | **曲名**                                                                              |
-| [上山亮二](https://ja.wikipedia.org/wiki/上山亮二 "wikilink")   | 「EMPEROR SELASSI-I」                                                                 |
-| [カーツ鈴木](https://ja.wikipedia.org/wiki/カーツ鈴木 "wikilink") | 「[笑](http://www.indiesmusic.com/musicvideo/video.asp?id=10165)」                     |
-| [谷口慎太郎](https://ja.wikipedia.org/wiki/谷口慎太郎 "wikilink") | 「何かが」「夏の香り」                                                                         |
-| [中井泰太郎](https://ja.wikipedia.org/wiki/中井泰太郎 "wikilink") | 「Lovin' you feat.ACO」                                                               |
-| [横山祐己](https://ja.wikipedia.org/wiki/横山祐己 "wikilink")   | 「[MAGUNUM BABY](http://www.indiesmusic.com/musicvideo/video.asp?id=10259)」「いいじゃねぇか」 |
-|                                                         |                                                                                     |
+|                                                         |                                                                                      |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **監督**                                                  | **曲名**                                                                               |
+| [上山亮二](https://ja.wikipedia.org/wiki/上山亮二 "wikilink")   | 「EMPEROR SELASSI-I」                                                                  |
+| [カーツ鈴木](https://ja.wikipedia.org/wiki/カーツ鈴木 "wikilink") | 「[笑](https://www.indiesmusic.com/musicvideo/video.asp?id=10165)」                     |
+| [谷口慎太郎](https://ja.wikipedia.org/wiki/谷口慎太郎 "wikilink") | 「何かが」「夏の香り」                                                                          |
+| [中井泰太郎](https://ja.wikipedia.org/wiki/中井泰太郎 "wikilink") | 「Lovin' you feat.ACO」                                                                |
+| [横山祐己](https://ja.wikipedia.org/wiki/横山祐己 "wikilink")   | 「[MAGUNUM BABY](https://www.indiesmusic.com/musicvideo/video.asp?id=10259)」「いいじゃねぇか」 |
+|                                                         |                                                                                      |
 
 ## 外部リンク
 

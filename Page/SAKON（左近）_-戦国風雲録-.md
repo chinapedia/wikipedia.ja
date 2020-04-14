@@ -1,4 +1,4 @@
-> この記事は[SAKON --](https://ja.wikipedia.org/wiki/SAKON_--)から翻訳されています。
+> この記事は[SAKON（左近） -戦国風雲録-](https://ja.wikipedia.org/wiki/SAKON（左近）_-戦国風雲録-)から翻訳されています。
 
 
 『**SAKON（左近） -戦国風雲録-**』（さこん せんごくふううんろく）は、原作：[隆慶一郎](../Page/隆慶一郎.md "wikilink")、脚本：[二橋進吾](https://ja.wikipedia.org/wiki/二橋進吾 "wikilink")、漫画：[原哲夫](../Page/原哲夫.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、1997年5月号から2000年5月号まで連載された。

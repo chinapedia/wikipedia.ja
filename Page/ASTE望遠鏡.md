@@ -1,4 +1,4 @@
-> この記事は[ASTE](https://ja.wikipedia.org/wiki/ASTE)から翻訳されています。
+> この記事は[ASTE望遠鏡](https://ja.wikipedia.org/wiki/ASTE望遠鏡)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Atacama_Submillimeter_Telescope_Experiment_01.jpg "wikilink") **ASTE望遠鏡**（アステぼうえんきょう）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国立天文台](../Page/国立天文台.md "wikilink")が[南米の標高](../Page/南アメリカ.md "wikilink")4800mの[高地](../Page/高地.md "wikilink")に設置し運用を行う[電波望遠鏡](../Page/電波望遠鏡.md "wikilink")である。

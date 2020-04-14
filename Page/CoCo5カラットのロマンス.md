@@ -1,4 +1,4 @@
-> この記事は[CoCo5](https://ja.wikipedia.org/wiki/CoCo5)から翻訳されています。
+> この記事は[CoCo5カラットのロマンス](https://ja.wikipedia.org/wiki/CoCo5カラットのロマンス)から翻訳されています。
 
 
 **CoCo5カラットのロマンス**（**ココふぁいぶからっとのろまんす**）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")-[1994年](../Page/1994年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは[CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")。下記に記すように番組タイトルと放送時間は度々変わった。

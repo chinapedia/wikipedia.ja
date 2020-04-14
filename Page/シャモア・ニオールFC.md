@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シャモア・ニオールFC](https://ja.wikipedia.org/wiki/シャモア・ニオールFC)から翻訳されています。
 
 
 **シャモア・ニオールテ・フットボール・クルブ**（**Chamois Niortais Football Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ニオール](../Page/ニオール.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")（2部）に所属。

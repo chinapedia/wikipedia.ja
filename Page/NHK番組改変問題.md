@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK番組改変問題](https://ja.wikipedia.org/wiki/NHK番組改変問題)から翻訳されています。
 
 
 **NHK番組改変問題**（エヌエイチケイ ばんぐみかいへんもんだい）とは、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")2001年1月30日に放送した[ETV特集](../Page/ETV特集.md "wikilink")\[1\]シリーズ「戦争をどう裁くか」の第2夜放送「問われる戦時性暴力」（[慰安婦](../Page/慰安婦.md "wikilink")問題などを扱う[民衆法廷](../Page/民衆法廷.md "wikilink")（模擬法廷）の[日本軍性奴隷制を裁く女性国際戦犯法廷](https://ja.wikipedia.org/wiki/日本軍性奴隷制を裁く女性国際戦犯法廷 "wikilink")（略称:[女性国際戦犯法廷](../Page/女性国際戦犯法廷.md "wikilink")、主催：[VAWW-NETジャパン](https://ja.wikipedia.org/wiki/VAWW-NETジャパン "wikilink")））に関する一連の騒動のことである。

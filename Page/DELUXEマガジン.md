@@ -1,4 +1,4 @@
-> この記事は[DELUXE](https://ja.wikipedia.org/wiki/DELUXE)から翻訳されています。
+> この記事は[DELUXEマガジン](https://ja.wikipedia.org/wiki/DELUXEマガジン)から翻訳されています。
 
 
 『**DELUXEマガジン**』（デラックスマガジン）は、かつて[講談社](../Page/講談社.md "wikilink")から発行されていた、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グラビア雑誌](https://ja.wikipedia.org/wiki/グラビア雑誌 "wikilink")である。

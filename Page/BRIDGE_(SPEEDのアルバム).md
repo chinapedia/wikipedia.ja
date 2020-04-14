@@ -1,4 +1,4 @@
-> この記事は[BRIDGE \(SPEED\)](https://ja.wikipedia.org/wiki/BRIDGE_\(SPEED\))から翻訳されています。
+> この記事は[BRIDGE \(SPEEDのアルバム\)](https://ja.wikipedia.org/wiki/BRIDGE_\(SPEEDのアルバム\))から翻訳されています。
 
 
 『**BRIDGE**』（ブリッヂ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")グループ[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。グループが2度目の再結成を行ったときにリリースされた作品である。

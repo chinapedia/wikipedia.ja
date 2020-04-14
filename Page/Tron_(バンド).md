@@ -1,4 +1,4 @@
-> この記事は[Tron \(\)](https://ja.wikipedia.org/wiki/Tron_\(\))から翻訳されています。
+> この記事は[Tron \(バンド\)](https://ja.wikipedia.org/wiki/Tron_\(バンド\))から翻訳されています。
 
 
 **tron**（トロン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年結成。2004年に自主レーベル「st.romantic high record」を設立。2007年[avex traxよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

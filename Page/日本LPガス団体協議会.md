@@ -1,4 +1,4 @@
-> この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
+> この記事は[日本LPガス団体協議会](https://ja.wikipedia.org/wiki/日本LPガス団体協議会)から翻訳されています。
 
 
 **日本LPガス団体協議会**（にほんエルピーガスだんたいきょうぎかい）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における[液化石油ガス](../Page/液化石油ガス.md "wikilink")（LPガス）関連団体の連絡協議会である。 LPガスの[流通](https://ja.wikipedia.org/wiki/流通 "wikilink")に関わる2団体と[機器](https://ja.wikipedia.org/wiki/機器 "wikilink")・[設備](../Page/設備.md "wikilink")に関わる3団体の計5団体によって構成されている。

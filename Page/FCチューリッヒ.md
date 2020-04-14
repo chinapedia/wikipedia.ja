@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCチューリッヒ](https://ja.wikipedia.org/wiki/FCチューリッヒ)から翻訳されています。
 
 
 **フースバルクラブ・チューリッヒ** (**Fussballclub Zürich**) は、[スイス](../Page/スイス.md "wikilink")北部、[チューリッヒ州](../Page/チューリッヒ州.md "wikilink")の州都[チューリッヒ](../Page/チューリッヒ.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

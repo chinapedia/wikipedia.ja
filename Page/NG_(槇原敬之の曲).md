@@ -1,4 +1,4 @@
-> この記事は[NG \(\)](https://ja.wikipedia.org/wiki/NG_\(\))から翻訳されています。
+> この記事は[NG \(槇原敬之の曲\)](https://ja.wikipedia.org/wiki/NG_\(槇原敬之の曲\))から翻訳されています。
 
 
 「**NG**」（エヌジー）は、[槇原敬之](../Page/槇原敬之.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。

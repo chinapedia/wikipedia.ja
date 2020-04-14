@@ -1,4 +1,4 @@
-> この記事は[AH-2 ](https://ja.wikipedia.org/wiki/AH-2_)から翻訳されています。
+> この記事は[AH-2 ローイファルク](https://ja.wikipedia.org/wiki/AH-2_ローイファルク)から翻訳されています。
 
 
 **AH-2 ローイファルク**（AH-2 Rooivalk）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")のアトラス（現[デネル](../Page/デネル・エアロスペース・システムズ.md "wikilink")）社が開発した、南アフリカ共和国初の国産[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送文化賞](https://ja.wikipedia.org/wiki/NHK放送文化賞)から翻訳されています。
 
 
 **NHK放送文化賞**（エヌエイチケイほうそうぶんかしょう）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")25年を記念に放送文化の発展・放送事業の向上に功績のあった人物を顕彰するために、[1949年](../Page/1949年.md "wikilink")に制定された賞である。正式名称は「**日本放送協会 放送文化賞**」。
@@ -296,6 +296,10 @@
 <td><p>第70回（2018年度）[9]</p></td>
 <td><p><a href="../Page/稲畑汀子.md" title="wikilink">稲畑汀子</a>、<a href="../Page/伊福部達.md" title="wikilink">伊福部達</a>、<a href="../Page/大日向雅美.md" title="wikilink">大日向雅美</a>、<a href="../Page/尾高忠明.md" title="wikilink">尾高忠明</a>、<a href="../Page/近藤正臣.md" title="wikilink">近藤正臣</a>、<a href="../Page/高橋源一郎.md" title="wikilink">高橋源一郎</a>、<a href="https://ja.wikipedia.org/wiki/野村萬" title="wikilink">野村萬</a>、<a href="https://ja.wikipedia.org/wiki/原口泉" title="wikilink">原口泉</a>、<a href="https://ja.wikipedia.org/wiki/室崎益輝" title="wikilink">室﨑益輝</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>第71回（2019年度）[10]</p></td>
+<td><p><a href="../Page/五木ひろし.md" title="wikilink">五木ひろし</a>、<a href="https://ja.wikipedia.org/wiki/オール阪神・巨人" title="wikilink">オール阪神・巨人</a>、<a href="https://ja.wikipedia.org/wiki/名古屋園芸" title="wikilink">小笠原左衛門尉亮軒</a>、<a href="https://ja.wikipedia.org/wiki/橘芳慧" title="wikilink">橘芳慧</a>、<a href="../Page/中村吉右衛門_(2代目).md" title="wikilink">中村吉右衛門</a>、<a href="https://ja.wikipedia.org/wiki/藤井敏嗣" title="wikilink">藤井敏嗣</a>、<a href="https://ja.wikipedia.org/wiki/村岡裕明" title="wikilink">村岡裕明</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -317,3 +321,4 @@
 7.
 8.
 9.
+10.

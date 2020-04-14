@@ -1,4 +1,4 @@
-> この記事は[ENDLITV](https://ja.wikipedia.org/wiki/ENDLITV)から翻訳されています。
+> この記事は[ENDLI☆TV](https://ja.wikipedia.org/wiki/ENDLI☆TV)から翻訳されています。
 
 
 **ENDLI☆TV**（エンドリティービー）は、フジテレビ系列で[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送された特番。[ENDLICHERI☆ENDLICHERI](https://ja.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")の内面、思想を追うドキュメント形式の音楽番組。LIVE映像、[小林武史](../Page/小林武史.md "wikilink")との対談、アーティストからのコメントなどから構成されるが、CGやイメージ映像を多用するなど独特の世界観を持つ。

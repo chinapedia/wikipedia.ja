@@ -1,4 +1,4 @@
-> この記事は[NWo](https://ja.wikipedia.org/wiki/NWo)から翻訳されています。
+> この記事は[NWoジャパン](https://ja.wikipedia.org/wiki/NWoジャパン)から翻訳されています。
 
 
 **nWo JAPAN**（エヌ・ダブリュー・オー・ジャパン）は、かつて[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")で活動していた[ヒール](../Page/ヒール_\(プロレス\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")であり、また世間一般にあらためてプロレスを見せつけるための[ギミックであり](../Page/ギミック_\(プロレス\).md "wikilink")、結果として下述の通り一大ムーブメントとなり、その影響はプロレス界を超えるものとなった。

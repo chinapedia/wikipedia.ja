@@ -1,4 +1,4 @@
-> この記事は[Remember Me \(TUBE\)](https://ja.wikipedia.org/wiki/Remember_Me_\(TUBE\))から翻訳されています。
+> この記事は[Remember Me \(TUBEの曲\)](https://ja.wikipedia.org/wiki/Remember_Me_\(TUBEの曲\))から翻訳されています。
 
 
 「**REMEMBER ME**」（リメンバー・ミー）は、日本のバンド、[TUBE](../Page/TUBE.md "wikilink")の通算8作目のシングル。商品コードは[EPが](../Page/レコード.md "wikilink")07SH3147、[CTが](../Page/コンパクトカセット.md "wikilink")10WH3147、[CDが](../Page/コンパクトディスク.md "wikilink")10EH3147。

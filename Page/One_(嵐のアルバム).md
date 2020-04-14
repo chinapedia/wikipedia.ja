@@ -1,4 +1,4 @@
-> この記事は[One \(\)](https://ja.wikipedia.org/wiki/One_\(\))から翻訳されています。
+> この記事は[One \(嵐のアルバム\)](https://ja.wikipedia.org/wiki/One_\(嵐のアルバム\))から翻訳されています。
 
 
 『**One**』（ワン）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")5枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。

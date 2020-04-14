@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[生駒山テレビ・FM送信所](https://ja.wikipedia.org/wiki/生駒山テレビ・FM送信所)から翻訳されています。
 
 
 **生駒山テレビ・FM送信所**（いこまさんテレビ・エフエムそうしんじょ）は、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")と[奈良県](../Page/奈良県.md "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")にまたがる[生駒山](../Page/生駒山.md "wikilink")に所在する[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")と一部の[FMラジオ放送の](../Page/超短波放送.md "wikilink")[親局](../Page/親局.md "wikilink")[送信所](../Page/送信所.md "wikilink")および[中継局](../Page/中継局.md "wikilink")である。[民放在阪広域テレビジョン放送や](https://ja.wikipedia.org/wiki/在阪テレビジョン放送局#民放在阪4局or民放在阪広域局 "wikilink")[大阪府](../Page/大阪府.md "wikilink")域局のテレビジョン放送と[FM COCOLOの親局](../Page/FM_COCOLO.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")域局の親局と中継局及び民放在阪広域[AMラジオ放送の](../Page/中波放送.md "wikilink")[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が設置されている。

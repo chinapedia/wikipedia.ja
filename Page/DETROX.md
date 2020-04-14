@@ -179,10 +179,15 @@
 ## 外部リンク
 
   - [DETROX OFFICIAL WEB SITE](http://detrox.u-elements.co.jp/) - DETROX公式ウェブサイト。
-  - [栄喜オフィシャルブログ 努力・友情・勝利](http://ameblo.jp/hideki-voice/) - メンバーの[栄喜](../Page/栄喜.md "wikilink")による個人ブログ。ソロ活動再開に伴い開始。
-  - [栄喜の見るなコノヤロー](http://blog.oricon.co.jp/hideki/) - メンバーの[栄喜](../Page/栄喜.md "wikilink")による個人ブログだった。現在はバンドのニュース記事を掲載。
+
+  - [栄喜オフィシャルブログ 努力・友情・勝利](https://ameblo.jp/hideki-voice/) - メンバーの[栄喜](../Page/栄喜.md "wikilink")による個人ブログ。ソロ活動再開に伴い開始。
+
+  - \- メンバーの[栄喜](../Page/栄喜.md "wikilink")による個人ブログだった。現在はバンドのニュース記事を掲載。
+
   - [K-A-Z W-E-B](http://www.h4.dion.ne.jp/~k-a-z/) - メンバーの[K-A-Z](https://ja.wikipedia.org/wiki/K-A-Z "wikilink")による公式ウェブサイト。
+
   - [kazuyoshi nagai officiail web site](http://www.101-union.com/k_nagai/) - 元メンバーの[MJ nagaiによる公式ウェブサイト](https://ja.wikipedia.org/wiki/MJ_nagai "wikilink")。閉鎖中。
+
   - [UNCOMPROMISING ELEMNTS INC.](http://u-elements.co.jp/index.php) - メンバーが運営・所属するレーベル、UNCOMPROMISING ELEMNTSの公式ウェブサイト。
 
 [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink")

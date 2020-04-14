@@ -1,4 +1,4 @@
-> この記事は[Sweet Emotion \(\)](https://ja.wikipedia.org/wiki/Sweet_Emotion_\(\))から翻訳されています。
+> この記事は[Sweet Emotion \(相川七瀬の曲\)](https://ja.wikipedia.org/wiki/Sweet_Emotion_\(相川七瀬の曲\))から翻訳されています。
 
 
 『**Sweet Emotion**』（スウィート エモーション）は、日本の歌手、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")の7枚目のシングル。

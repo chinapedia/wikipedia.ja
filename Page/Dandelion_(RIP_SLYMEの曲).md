@@ -1,4 +1,4 @@
-> この記事は[Dandelion \(RIP SLYME\)](https://ja.wikipedia.org/wiki/Dandelion_\(RIP_SLYME\))から翻訳されています。
+> この記事は[Dandelion \(RIP SLYMEの曲\)](https://ja.wikipedia.org/wiki/Dandelion_\(RIP_SLYMEの曲\))から翻訳されています。
 
 
 「**Dandelion**」（ダンデライオン）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売。

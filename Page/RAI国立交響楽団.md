@@ -1,4 +1,4 @@
-> この記事は[RAI](https://ja.wikipedia.org/wiki/RAI)から翻訳されています。
+> この記事は[RAI国立交響楽団](https://ja.wikipedia.org/wiki/RAI国立交響楽団)から翻訳されています。
 
 
 **RAI国立交響楽団**（ライこくりつこうきょうがくだん、）は、[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")に本拠地を置く[放送オーケストラである](https://ja.wikipedia.org/wiki/放送管弦楽団 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GirlsSelfish](https://ja.wikipedia.org/wiki/GirlsSelfish)から翻訳されています。
+> この記事は[Girls〜Selfish〜](https://ja.wikipedia.org/wiki/Girls〜Selfish〜)から翻訳されています。
 
 
 「**girls 〜Selfish〜**」（ガールズ セルフィッシュ）は、[2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に発売の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")初の[DVD](../Page/DVD-Video.md "wikilink")[シングル](../Page/シングル.md "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -54,4 +54,8 @@
 
   - 『secret』
 
-[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:ビデオ・シングル](https://ja.wikipedia.org/wiki/Category:ビデオ・シングル "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:2004年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2004年のトリプルA面シングル "wikilink")
+## 外部リンク
+
+  - [公式サイト作品紹介ページ girls 〜Selfish〜](https://rhythmzone.net/koda/discography/detail.php?c=dvd&id=1004160)
+
+[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:倖田來未の映像作品](https://ja.wikipedia.org/wiki/Category:倖田來未の映像作品 "wikilink") [Category:ビデオ・シングル](https://ja.wikipedia.org/wiki/Category:ビデオ・シングル "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:2004年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2004年のトリプルA面シングル "wikilink")

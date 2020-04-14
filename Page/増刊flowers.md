@@ -1,4 +1,4 @@
-> この記事は[flowers](https://ja.wikipedia.org/wiki/flowers)から翻訳されています。
+> この記事は[増刊flowers](https://ja.wikipedia.org/wiki/増刊flowers)から翻訳されています。
 
 
 『**増刊flowers**』（ぞうかんフラワーズ）は、[小学館](../Page/小学館.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[季刊](https://ja.wikipedia.org/wiki/逐次刊行物#季刊 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")雑誌。

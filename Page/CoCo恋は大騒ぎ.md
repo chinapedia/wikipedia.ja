@@ -1,4 +1,4 @@
-> この記事は[CoCo](https://ja.wikipedia.org/wiki/CoCo)から翻訳されています。
+> この記事は[CoCo恋は大騒ぎ](https://ja.wikipedia.org/wiki/CoCo恋は大騒ぎ)から翻訳されています。
 
 
 **CoCo恋は大騒ぎ**（ココこいはおおさわぎ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")。[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")からは番組のタイトルが**ピンクワンダーランドCoCo一番**（ぴんくわんだーらんどココいちばん）とタイトルが変わり、CoCoの活動停止・解散した前日で直近の金曜日である1994年9月29日まで続いた。

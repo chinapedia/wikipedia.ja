@@ -1,4 +1,4 @@
-> この記事は[VfR](https://ja.wikipedia.org/wiki/VfR)から翻訳されています。
+> この記事は[VfRアーレン](https://ja.wikipedia.org/wiki/VfRアーレン)から翻訳されています。
 
 
 **VfRアーレン**（VfR Aalen）は、ドイツ・[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")の[アーレンを本拠地とするサッカークラブ](../Page/アーレン_\(バーデン＝ヴュルテンベルク\).md "wikilink")。なお、[ロート・ヴァイス・アーレン](../Page/ロート・ヴァイス・アーレン.md "wikilink")（Rot Weiss Ahlen）は[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")の[アーレン](../Page/アーレン_\(ノルトライン＝ヴェストファーレン\).md "wikilink")（Ahlen）を本拠地としているため、同都市のクラブではない。

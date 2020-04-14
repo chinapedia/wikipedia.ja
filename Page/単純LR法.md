@@ -1,4 +1,4 @@
-> この記事は[LR](https://ja.wikipedia.org/wiki/LR)から翻訳されています。
+> この記事は[単純LR法](https://ja.wikipedia.org/wiki/単純LR法)から翻訳されています。
 
 
 **単純LR法**(**SLR法**,**Simple LR法**)とは、[文脈自由文法](../Page/文脈自由文法.md "wikilink")のための[構文解析](../Page/構文解析.md "wikilink")手法である。先読み記号の数によってSLR(*k*)と表記するが、通常 *k* = 1 の SLR(1) を指す。以下ではSLR(1)について述べる。また、SLR(1) によって解析可能な文法を SLR(1) 文法と呼び、その範囲は [LR](../Page/LR法.md "wikilink")(0) より大きく、[LALR](../Page/LALR法.md "wikilink")(1) や LR(1) より小さい。

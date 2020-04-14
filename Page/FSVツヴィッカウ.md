@@ -1,4 +1,4 @@
-> この記事は[FSV](https://ja.wikipedia.org/wiki/FSV)から翻訳されています。
+> この記事は[FSVツヴィッカウ](https://ja.wikipedia.org/wiki/FSVツヴィッカウ)から翻訳されています。
 
 
 **FSVツヴィッカウ**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の東部、[ザクセン州](../Page/ザクセン州.md "wikilink")の都市[ツヴィッカウ](../Page/ツヴィッカウ.md "wikilink")を本拠地とするサッカークラブである。東ドイツ1部リーグ（[DDRオーバーリーガ](../Page/DDRオーバーリーガ.md "wikilink")）の初代優勝クラブだが、現在は下位のリーグに低迷している。

@@ -1,4 +1,4 @@
-> この記事は[Mozo](https://ja.wikipedia.org/wiki/Mozo)から翻訳されています。
+> この記事は[Mozoワンダーシティ](https://ja.wikipedia.org/wiki/Mozoワンダーシティ)から翻訳されています。
 
 
 **mozoワンダーシティ**（モゾ ワンダーシティ、英:*mozo wonder city*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](../Page/西区_\(名古屋市\).md "wikilink")[二方町](https://ja.wikipedia.org/wiki/二方町 "wikilink")に所在する[イオンモール](../Page/イオンモール.md "wikilink")運営のモール型[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
@@ -98,9 +98,16 @@
 
   - 同年9月から10月にかけ、テナントの入れ替えを実施\[16\]。
 
-## 店舗構成
+<!-- end list -->
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
+  - 2020年（令和2年）
+
+<!-- end list -->
+
+  - 3月2日 - この日より営業時間が短縮される。\[17\]
+
+
+\== 店舗構成 == [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
 
 本棟はイオンスタイルワンダーシティ店を核店舗として、準核店舗に[東急ハンズ](../Page/東急ハンズ.md "wikilink") 、[OPA](../Page/OPA.md "wikilink")（[紀伊國屋書店](../Page/紀伊國屋書店.md "wikilink")・[島村楽器](../Page/島村楽器.md "wikilink")・[新星堂](../Page/新星堂.md "wikilink")などが入居）、[ACTUS](https://ja.wikipedia.org/wiki/アクタス_\(家具・インテリア\) "wikilink")、[ZARA](../Page/ザラ_\(ファッションブランド\).md "wikilink")、[PETEMO](https://ja.wikipedia.org/wiki/イオンペット "wikilink") 、[セガ](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")、[ユニクロ](../Page/ユニクロ.md "wikilink")、[niko and...](https://ja.wikipedia.org/wiki/niko_and... "wikilink")、[無印良品](https://ja.wikipedia.org/wiki/良品計画 "wikilink")、[Francfranc](../Page/Francfranc.md "wikilink")、[スポーツデポ](https://ja.wikipedia.org/wiki/スポーツDEPO "wikilink")、[ザ・ダイソーなどが入居している](https://ja.wikipedia.org/wiki/大創産業 "wikilink")。専門店街は各階層ごとに業種や取扱い品目が分けられ、1階が衣料品・食品、2階は衣料品、3階は子供・家族関連、4階はスポーツや文化関連となっている。
 
@@ -208,3 +215,4 @@
 14. [国内不動産信託受益権の取得完了に関するお知らせ](http://www.jrf-reit.com/upd/ir_news/pdf/1509151505311841.pdf)[日本リテールファンド](../Page/日本リテールファンド.md "wikilink")投資法人[日本リテールファンド投資法人\>不動産ポートフォリオ\>ポートフォリオマップ\>mozo ワンダーシティ](http://www.jrf-reit.com/portfolio/detail.php?article_id=90) - 2015年9月15日閲覧
 15. リニューアルは本棟、立体駐車場棟、スポーツ棟（シネマ棟以外の建物）が対象。[9月18日（金）AM10:00 リニューアルオープン【mozo ワンダーシティ】イオンモールと日本リテールファンド投資法人のニュースリリース](http://www.jrf-reit.com/news/pdf/news_201508.pdf)、[保有資産のリニューアル計画に関するお知らせ【mozo ワンダーシティ】](http://www.jrf-reit.com/upd/ir_news/pdf/1504092220311816.pdf)、[2015年9月18日（金）にリニューアルオープン！【2015年08月13日】](http://www.jrf-reit.com/ir/detail.html?sid=1585)、出典：[日本リテールファンド](../Page/日本リテールファンド.md "wikilink")投資法人[日本リテールファンド投資法人\>不動産ポートフォリオ\>ポートフォリオマップ\>mozo ワンダーシティ](http://www.jrf-reit.com/portfolio/detail.php?article_id=90) - 2015年9月15日閲覧
 16. [mozo WONDER CITY NEW SHOP OPEN【mozo ワンダーシティ】](https://www.mozo-wondercity.com/lp/newshop1908_a/) - 2019年10月13日閲覧
+17.  INFORMATION|url=[https://www.mozo-wondercity.com/information/detail.php?id=28135|website=mozo](https://www.mozo-wondercity.com/information/detail.php?id=28135%7Cwebsite=mozo) WONDER CITY|accessdate=2020-03-11|language=ja}}

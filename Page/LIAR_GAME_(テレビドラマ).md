@@ -1,4 +1,4 @@
-> この記事は[LIAR GAME \(\)](https://ja.wikipedia.org/wiki/LIAR_GAME_\(\))から翻訳されています。
+> この記事は[LIAR GAME \(テレビドラマ\)](https://ja.wikipedia.org/wiki/LIAR_GAME_\(テレビドラマ\))から翻訳されています。
 
 
 『**LIAR GAME**』（ライアーゲーム）は、[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[LIAR GAME](../Page/LIAR_GAME.md "wikilink")』を原作とした[戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")と[松田翔太](../Page/松田翔太.md "wikilink")主演の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

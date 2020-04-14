@@ -1,4 +1,4 @@
-> この記事は[Time \(\)](https://ja.wikipedia.org/wiki/Time_\(\))から翻訳されています。
+> この記事は[Time \(嵐のアルバム\)](https://ja.wikipedia.org/wiki/Time_\(嵐のアルバム\))から翻訳されています。
 
 
 『**Time**』（タイム）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")7枚目の[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。
@@ -26,7 +26,7 @@
         嵐のコンサートではよく披露されている。
 2.  **[Love so sweet](../Page/Love_so_sweet.md "wikilink")**［4:51］
       -
-        作詞：SPIN、作曲：youth case、編曲：mugen
+        作詞：SPIN、作曲：[youth case](https://ja.wikipedia.org/wiki/youth_case "wikilink")、編曲：mugen
     <!-- end list -->
       - 18thシングル
       - 松本潤出演 [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")2（リターンズ）』主題歌

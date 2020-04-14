@@ -1,4 +1,4 @@
-> この記事は[Clavis --](https://ja.wikipedia.org/wiki/Clavis_--)から翻訳されています。
+> この記事は[Clavis -鍵-](https://ja.wikipedia.org/wiki/Clavis_-鍵-)から翻訳されています。
 
 
 「**Clāvis -鍵-**」（クラーヴィス かぎ）は、[工藤静香](../Page/工藤静香.md "wikilink")の通算39枚目の[シングル](../Page/シングル.md "wikilink")。2006年9月6日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

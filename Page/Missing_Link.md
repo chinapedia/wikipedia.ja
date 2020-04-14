@@ -88,7 +88,7 @@
 
 ## 外部リンク
 
-  - [Missing Link - SonyMusic](http://www.sonymusic.co.jp/artist/missinglink/)
+  - [Missing Link - SonyMusic](https://www.sonymusic.co.jp/artist/missinglink/)
   - [Missing Linkオフィシャルブログ「No,Missing Link No,Life」](http://ameblo.jp/missinglink-blog/) - 公式ブログ
   - [Missing Link MEGUオフィシャルブログ「MEGUの正直三日坊主」](http://ameblo.jp/missinglink-megu/) - 旧ブログ（ - 2009年11月）
   - [Missing Link SHOCOオフィシャルブログ「全力少女☆全力SHOCO」](http://ameblo.jp/missinglink-shoco/) - 旧ブログ（ - 2009年11月）

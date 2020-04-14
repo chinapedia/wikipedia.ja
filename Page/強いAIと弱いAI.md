@@ -1,4 +1,4 @@
-> この記事は[AIAI](https://ja.wikipedia.org/wiki/AIAI)から翻訳されています。
+> この記事は[強いAIと弱いAI](https://ja.wikipedia.org/wiki/強いAIと弱いAI)から翻訳されています。
 
 
 **強いAIと弱いAI**（つよいエーアイとよわいエーアイ、）は、[人工知能](../Page/人工知能.md "wikilink")（AI）が真の[推論](../Page/推論.md "wikilink")と[問題解決](../Page/問題解決.md "wikilink")の能力を身につけられるか否かをめぐる論争において用いられる用語である。

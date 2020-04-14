@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[ユーズ・ユア・イリュージョン II](https://ja.wikipedia.org/wiki/ユーズ・ユア・イリュージョン_II)から翻訳されています。
 
 
 **ユーズ・ユア・イリュージョンII**（Use Your Illusion II）は、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の3枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

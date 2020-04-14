@@ -1,4 +1,4 @@
-> この記事は[ \(ACIDMAN\)](https://ja.wikipedia.org/wiki/_\(ACIDMAN\))から翻訳されています。
+> この記事は[アレグロ \(ACIDMANの曲\)](https://ja.wikipedia.org/wiki/アレグロ_\(ACIDMANの曲\))から翻訳されています。
 
 
 「**アレグロ**」（Allegro）は、日本のロックバンド[ACIDMAN](../Page/ACIDMAN.md "wikilink")の2枚目のシングル。[2002年](../Page/2002年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")発売。

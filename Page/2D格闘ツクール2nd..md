@@ -1,4 +1,4 @@
-> この記事は[2D2nd.](https://ja.wikipedia.org/wiki/2D2nd.)から翻訳されています。
+> この記事は[2D格闘ツクール2nd.](https://ja.wikipedia.org/wiki/2D格闘ツクール2nd.)から翻訳されています。
 
 
 『**2D格闘ツクール2nd.**』（ツーディーかくとうツクールセカンド）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発売されている[対戦格闘ゲーム製作用](../Page/対戦型格闘ゲーム.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")。製作会社は[OUTBACK](https://ja.wikipedia.org/wiki/OUTBACK "wikilink")。『**格ツク2nd**』が主な略称。

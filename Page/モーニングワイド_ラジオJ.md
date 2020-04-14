@@ -1,4 +1,4 @@
-> この記事は[ J](https://ja.wikipedia.org/wiki/_J)から翻訳されています。
+> この記事は[モーニングワイド ラジオJ](https://ja.wikipedia.org/wiki/モーニングワイド_ラジオJ)から翻訳されています。
 
 
 **モーニングワイド ラジオJ**（モーニングワイド ラジオジェイ）は[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")ラジオで平日 6:30 - 8:40（[JST](../Page/日本標準時.md "wikilink")）に放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

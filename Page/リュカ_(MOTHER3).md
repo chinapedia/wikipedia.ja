@@ -1,4 +1,4 @@
-> この記事は[ \(MOTHER3\)](https://ja.wikipedia.org/wiki/_\(MOTHER3\))から翻訳されています。
+> この記事は[リュカ \(MOTHER3\)](https://ja.wikipedia.org/wiki/リュカ_\(MOTHER3\))から翻訳されています。
 
 
 **リュカ**(**Lucas**)は、[任天堂](../Page/任天堂.md "wikilink")が発売した[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[MOTHER3](../Page/MOTHER3.md "wikilink")』に登場する架空の人物で、同作の主人公。

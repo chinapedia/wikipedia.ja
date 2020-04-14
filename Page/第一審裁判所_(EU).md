@@ -1,4 +1,4 @@
-> この記事は[ \(EU\)](https://ja.wikipedia.org/wiki/_\(EU\))から翻訳されています。
+> この記事は[第一審裁判所 \(EU\)](https://ja.wikipedia.org/wiki/第一審裁判所_\(EU\))から翻訳されています。
 
 
 **第一審裁判所**（だいいっしんさいばんしょ）は、[1989年](../Page/1989年.md "wikilink")に設立された[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")の[裁判所](../Page/裁判所.md "wikilink")。[欧州司法裁判所](../Page/欧州司法裁判所.md "wikilink")に併設されており、特定の分野に関する紛争の第1審を行い、[控訴](../Page/控訴.md "wikilink")された場合は案件を欧州司法裁判所に送る。

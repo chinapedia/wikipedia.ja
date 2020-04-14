@@ -1,4 +1,4 @@
-> この記事は[Treasure \(hiro\)](https://ja.wikipedia.org/wiki/Treasure_\(hiro\))から翻訳されています。
+> この記事は[Treasure \(hiroの曲\)](https://ja.wikipedia.org/wiki/Treasure_\(hiroの曲\))から翻訳されています。
 
 
 「**Treasure**」（トレジャー）は、日本の女性歌手[hiroの](../Page/島袋寛子.md "wikilink")3枚目のシングル。[2000年](../Page/2000年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりリリースされた。

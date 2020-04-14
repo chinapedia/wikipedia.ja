@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[オーランド・パイレーツFC](https://ja.wikipedia.org/wiki/オーランド・パイレーツFC)から翻訳されています。
 
 
 **オーランド・パイレーツFC**（）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")北東部の都市、[ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")の[ソウェト](../Page/ソウェト.md "wikilink")・オーランド地区に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -118,6 +118,6 @@
 
   - [公式サイト](http://www.orlandopiratesfc.com/)
 
-[Category:ヨハネスブルグのスポーツ](https://ja.wikipedia.org/wiki/Category:ヨハネスブルグのスポーツ "wikilink") [Category:南アフリカのサッカークラブ](https://ja.wikipedia.org/wiki/Category:南アフリカのサッカークラブ "wikilink") [Category:1937年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1937年設立のスポーツチーム "wikilink")
+[Category:ヨハネスブルグのスポーツ](https://ja.wikipedia.org/wiki/Category:ヨハネスブルグのスポーツ "wikilink") [Category:南アフリカのサッカークラブ](https://ja.wikipedia.org/wiki/Category:南アフリカのサッカークラブ "wikilink") [Category:1937年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1937年設立のスポーツチーム "wikilink") [Category:ソウェト](https://ja.wikipedia.org/wiki/Category:ソウェト "wikilink")
 
 1.

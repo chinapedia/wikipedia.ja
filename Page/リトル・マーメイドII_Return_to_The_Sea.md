@@ -1,4 +1,4 @@
-> この記事は[II Return to The Sea](https://ja.wikipedia.org/wiki/II_Return_to_The_Sea)から翻訳されています。
+> この記事は[リトル・マーメイドII Return to The Sea](https://ja.wikipedia.org/wiki/リトル・マーメイドII_Return_to_The_Sea)から翻訳されています。
 
 
 『**リトル・マーメイドII Return to The Sea**』（リトル・マーメイドツー リターン・トゥー・ザ・シー、原題：The Little Mermaid II: Return to the Sea）は、[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")』の続編として作られた[OVA](../Page/OVA.md "wikilink")である。全米では、[2000年](../Page/2000年.md "wikilink")の制作作品。
@@ -282,4 +282,4 @@
 
 [Category:2000年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2000年のアニメ映画 "wikilink")
 
-[Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アニメ作品_り](https://ja.wikipedia.org/wiki/Category:アニメ作品_り "wikilink") [Category:リトル・マーメイド](https://ja.wikipedia.org/wiki/Category:リトル・マーメイド "wikilink") [Category:人魚姫を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人魚姫を題材とした映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink")
+[Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニートゥーン・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ディズニートゥーン・スタジオの映画作品 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アニメ作品_り](https://ja.wikipedia.org/wiki/Category:アニメ作品_り "wikilink") [Category:リトル・マーメイド](https://ja.wikipedia.org/wiki/Category:リトル・マーメイド "wikilink") [Category:人魚姫を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人魚姫を題材とした映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:久本雅美](https://ja.wikipedia.org/wiki/Category:久本雅美 "wikilink")

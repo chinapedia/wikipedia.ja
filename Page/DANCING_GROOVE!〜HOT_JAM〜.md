@@ -1,4 +1,4 @@
-> この記事は[DANCING GROOVE!HOT JAM](https://ja.wikipedia.org/wiki/DANCING_GROOVE!HOT_JAM)から翻訳されています。
+> この記事は[DANCING GROOVE!〜HOT JAM〜](https://ja.wikipedia.org/wiki/DANCING_GROOVE!〜HOT_JAM〜)から翻訳されています。
 
 
 『**DANCING GROOVE\!〜HOT JAM〜**』（ダンシング・グルーヴ ホット・ジャム）は、[FM Yokohamaが](../Page/横浜エフエム放送.md "wikilink")1995年から放送してきた[音楽専門番組である](../Page/音楽番組.md "wikilink")。

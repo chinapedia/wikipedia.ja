@@ -1,4 +1,4 @@
-> この記事は[INORI \(HIM\)](https://ja.wikipedia.org/wiki/INORI_\(HIM\))から翻訳されています。
+> この記事は[INORI \(HIMの曲\)](https://ja.wikipedia.org/wiki/INORI_\(HIMの曲\))から翻訳されています。
 
 
 「**INORI**」（いのり）は、ボーカル＆ダンス・ユニット[HIMの曲](../Page/HIM_\(音楽プロジェクト\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")にリリースされたHIMの2枚目のアルバム『[HIMIX A2Z](https://ja.wikipedia.org/wiki/HIMIX_A2Z "wikilink")』に収録された。作詞は[田中花乃](https://ja.wikipedia.org/wiki/田中花乃 "wikilink")、作曲は[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")による。

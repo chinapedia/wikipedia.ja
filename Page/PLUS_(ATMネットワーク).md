@@ -1,4 +1,4 @@
-> この記事は[PLUS \(ATM\)](https://ja.wikipedia.org/wiki/PLUS_\(ATM\))から翻訳されています。
+> この記事は[PLUS \(ATMネットワーク\)](https://ja.wikipedia.org/wiki/PLUS_\(ATMネットワーク\))から翻訳されています。
 
 
 [125px](https://ja.wikipedia.org/wiki/ファイル:PLUS_Logo.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Geldautomaat.jpg "wikilink") [ABNアムロ銀行](../Page/ABNアムロ銀行.md "wikilink")の[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink") (ATM)\]\] **PLUS** （プラス）とは、[銀行のオンラインシステム](../Page/銀行のオンラインシステム.md "wikilink")で、全ての[VISA](../Page/Visa.md "wikilink")[クレジットカード](../Page/クレジットカード.md "wikilink")、[デビットカード](../Page/デビットカード.md "wikilink")、[VISAトラベルマネーのようなプリペイド型カード](https://ja.wikipedia.org/wiki/国際キャッシュカード#VISAトラベルマネー "wikilink")、それに世界中の主要銀行が発行したPLUSのロゴが示されている[キャッシュカード](../Page/キャッシュカード.md "wikilink")に対応している。**VISA PLUS**として知られている。

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[風の聖痕RPG](https://ja.wikipedia.org/wiki/風の聖痕RPG)から翻訳されています。
 
 
 **風の聖痕RPG**（かぜのスティグマアールピージー）は、2007年6月に[富士見書房](../Page/富士見書房.md "wikilink")（[富士見ドラゴンブック](../Page/富士見ドラゴンブック.md "wikilink")）から出版された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")。[山門敬弘](https://ja.wikipedia.org/wiki/山門敬弘 "wikilink")のライトノベル『[風の聖痕](../Page/風の聖痕.md "wikilink")』を原作としている。著者は[三輪清宗](../Page/三輪清宗.md "wikilink")、[F.E.A.R.](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[納都花丸](../Page/納都花丸.md "wikilink")&[みかきみかこ](../Page/みかきみかこ.md "wikilink")。

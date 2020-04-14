@@ -28,6 +28,7 @@ DMTF は [Common Information Model](../Page/Common_Information_Model.md "wikilin
 ## 関連項目
 
   - [Web-Based Enterprise Management](../Page/Web-Based_Enterprise_Management.md "wikilink") (WBEM)
+  - [SMBIOS](../Page/SMBIOS.md "wikilink")
 
 [Category:ネットワーク管理](https://ja.wikipedia.org/wiki/Category:ネットワーク管理 "wikilink")
 

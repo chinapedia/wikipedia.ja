@@ -1,4 +1,4 @@
-> この記事は[Numb \(\)](https://ja.wikipedia.org/wiki/Numb_\(\))から翻訳されています。
+> この記事は[Numb \(アルバム\)](https://ja.wikipedia.org/wiki/Numb_\(アルバム\))から翻訳されています。
 
 
 『**Numb**』（ナム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[SAICO](https://ja.wikipedia.org/wiki/SAICO "wikilink")の2ndアルバム。

@@ -1,4 +1,4 @@
-> この記事は[DS2](https://ja.wikipedia.org/wiki/DS2)から翻訳されています。
+> この記事は[三國志DS2](https://ja.wikipedia.org/wiki/三國志DS2)から翻訳されています。
 
 
 『**三國志DS 2**』（さんごくしでぃーえすつー）は、[2007年](../Page/2007年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の1つ。当初は[3月21日](../Page/3月21日.md "wikilink")発売予定だった。

@@ -1,4 +1,4 @@
-> この記事は[CRIN](https://ja.wikipedia.org/wiki/CRIN)から翻訳されています。
+> この記事は[CRスーパー海物語IN沖縄](https://ja.wikipedia.org/wiki/CRスーパー海物語IN沖縄)から翻訳されています。
 
 
 **CRスーパー海物語IN沖縄**（シーアール スーパーうみものがたり インおきなわ）は、[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[確変機](https://ja.wikipedia.org/wiki/確率変動#一般的なループ式確変 "wikilink")（ミドルタイプ）。

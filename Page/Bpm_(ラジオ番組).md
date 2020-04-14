@@ -1,4 +1,4 @@
-> この記事は[Bpm \(\)](https://ja.wikipedia.org/wiki/Bpm_\(\))から翻訳されています。
+> この記事は[Bpm \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Bpm_\(ラジオ番組\))から翻訳されています。
 
 
 **bpm**（ビー・ピー・エム）は、[RADIO BERRYで平日の午後に放送されていた](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。オールリクエスト番組であり、番組中に掛けられる曲はすべてリクエスト曲である。

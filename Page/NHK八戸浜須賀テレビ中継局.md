@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK八戸浜須賀テレビ中継局](https://ja.wikipedia.org/wiki/NHK八戸浜須賀テレビ中継局)から翻訳されています。
 
 
 **NHK八戸浜須賀テレビ中継局**（エヌエイチケイはちのへはますかテレビちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")に置かれていた[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")の[アナログ](../Page/NTSC.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

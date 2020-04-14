@@ -1,4 +1,4 @@
-> この記事は[SIGNAL \(\)](https://ja.wikipedia.org/wiki/SIGNAL_\(\))から翻訳されています。
+> この記事は[SIGNAL \(カシオペアのアルバム\)](https://ja.wikipedia.org/wiki/SIGNAL_\(カシオペアのアルバム\))から翻訳されています。
 
 
 **『SIGNAL』**（**シグナル**）は日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")40枚目のアルバム。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA with Sync DNA Plays Guitar MINUS ONE SIGNAL』(GNCT-1005)も発売された。

@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKBミッドナイトコンサート](https://ja.wikipedia.org/wiki/RKBミッドナイトコンサート)から翻訳されています。
 
 
 **RKBミッドナイトコンサート**（あーるけーびーみっどないとこんさーと）は[2007年](../Page/2007年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。

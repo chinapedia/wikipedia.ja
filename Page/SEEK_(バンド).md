@@ -1,4 +1,4 @@
-> この記事は[SEEK \(\)](https://ja.wikipedia.org/wiki/SEEK_\(\))から翻訳されています。
+> この記事は[SEEK \(バンド\)](https://ja.wikipedia.org/wiki/SEEK_\(バンド\))から翻訳されています。
 
 
 **SEEK**（**シーク**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。

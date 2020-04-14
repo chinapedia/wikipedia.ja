@@ -1,4 +1,4 @@
-> この記事は[L.A.](https://ja.wikipedia.org/wiki/L.A.)から翻訳されています。
+> この記事は[L.A.スタイル](https://ja.wikipedia.org/wiki/L.A.スタイル)から翻訳されています。
 
 
 **L.A.スタイル**（エル・エー スタイル, **L.A. Style**）は、[ラジオ](../Page/ラジオ.md "wikilink")局パーソナリティのによって結成・プロデュースされた、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")デュオである。ちなみに、ウェッセルはと、大成功した[ベンガボーイズ](https://ja.wikipedia.org/wiki/ベンガボーイズ "wikilink")といったバンドもプロデュースしている。

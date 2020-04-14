@@ -1,4 +1,4 @@
-> この記事は[U.F.O.](https://ja.wikipedia.org/wiki/U.F.O.)から翻訳されています。
+> この記事は[日清焼そばU.F.O.](https://ja.wikipedia.org/wiki/日清焼そばU.F.O.)から翻訳されています。
 
 
 **日清焼そばU.F.O.**（にっしんやきそばユーホー）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")が製造・販売する[カップ焼きそば](../Page/カップ焼きそば.md "wikilink")、およびカップ汁なし中華麺（[油そば](../Page/油そば.md "wikilink")、[まぜそば](https://ja.wikipedia.org/wiki/まぜそば "wikilink")）の商品名。
@@ -74,6 +74,8 @@
 ### 現在
 
   - [輝夜月](https://ja.wikipedia.org/wiki/輝夜月 "wikilink")（2019年3月14日 - 「マキシマム ザ 輝夜月2 篇 2020」）
+  - [みうらじゅん](../Page/みうらじゅん.md "wikilink")（2020年3月18日 - 、濃い濃いラー油マヨ「超濃厚段積み沼CM 篇」）
+  - [えなこ](https://ja.wikipedia.org/wiki/えなこ "wikilink")（2020年3月18日 - 、濃い濃いラー油マヨ「超濃厚段積み沼CM 篇」）
 
 ### 過去
 

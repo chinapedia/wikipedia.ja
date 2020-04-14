@@ -1,4 +1,4 @@
-> この記事は[ QF 2](https://ja.wikipedia.org/wiki/_QF_2)から翻訳されています。
+> この記事は[オードナンス QF 2ポンド砲](https://ja.wikipedia.org/wiki/オードナンス_QF_2ポンド砲)から翻訳されています。
 
 
 **オードナンス QF 2ポンド砲**\[1\]（オードナンス QF 2ポンドほう、Ordnance QF 2 pounder）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[巡航戦車 Mk.Iの](https://ja.wikipedia.org/wiki/巡航戦車_Mk.I "wikilink")[主砲](../Page/主砲.md "wikilink")として開発された、[口径](../Page/口径.md "wikilink")40mmの[戦車砲](../Page/戦車砲.md "wikilink")。英国の伝統により、口径ではなく[砲弾](../Page/砲弾.md "wikilink")の重量が名前になっている。

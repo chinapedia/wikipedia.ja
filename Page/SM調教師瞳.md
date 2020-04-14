@@ -1,4 +1,4 @@
-> この記事は[SM](https://ja.wikipedia.org/wiki/SM)から翻訳されています。
+> この記事は[SM調教師瞳](https://ja.wikipedia.org/wiki/SM調教師瞳)から翻訳されています。
 
 
 『**SM調教師瞳**』（エスエムちょうきょうし・ひとみ）シリーズは、[西武企画](https://ja.wikipedia.org/wiki/西武企画 "wikilink")が発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。正確な発売日は不明だが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")頃までには最終作である『SM調教師 瞳 番外編2 まきのラブラブパニック』が発売されている。
@@ -78,7 +78,7 @@
 
   - [GEROMIX(絵師サイト)](http://geromi.web.fc2.com/)
 
-[Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:1994年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1994年のアダルトゲーム "wikilink") [Category:アダルトゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:アダルトゲームのシリーズ "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink") [Category:猟奇作品](https://ja.wikipedia.org/wiki/Category:猟奇作品 "wikilink")
+[Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:1994年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1994年のアダルトゲーム "wikilink") [Category:アダルトゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:アダルトゲームのシリーズ "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:BDSM作品](https://ja.wikipedia.org/wiki/Category:BDSM作品 "wikilink") [Category:猟奇ゲーム](https://ja.wikipedia.org/wiki/Category:猟奇ゲーム "wikilink")
 
 1.
 2.

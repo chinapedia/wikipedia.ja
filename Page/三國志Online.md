@@ -1,4 +1,4 @@
-> この記事は[Online](https://ja.wikipedia.org/wiki/Online)から翻訳されています。
+> この記事は[三國志Online](https://ja.wikipedia.org/wiki/三國志Online)から翻訳されています。
 
 
 『**三國志 Online**』は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社のシミュレーションゲーム『[三國志](../Page/三國志シリーズ.md "wikilink")』シリーズの世界観をベースに開発・運営していた[MMORPG](../Page/MMORPG.md "wikilink")である。『三On』とも\[1\]。シリーズ初の12歳以上対象作品\[2\]。2010年7月19日をもってサービスを終了した。

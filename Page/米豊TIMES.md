@@ -1,4 +1,4 @@
-> この記事は[TIMES](https://ja.wikipedia.org/wiki/TIMES)から翻訳されています。
+> この記事は[米豊TIMES](https://ja.wikipedia.org/wiki/米豊TIMES)から翻訳されています。
 
 
 『**米豊TIMES**』（よねぶたいむす）は「[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")」にて[2006年](../Page/2006年.md "wikilink")1月号から[2007年](../Page/2007年.md "wikilink")9月号まで連載されていた、架空の中学の新聞部を舞台とした学園[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")。作者は[山根大](https://ja.wikipedia.org/wiki/山根大 "wikilink")。

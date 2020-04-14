@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[佐藤利奈のあの空で逢いましょう♪F](https://ja.wikipedia.org/wiki/佐藤利奈のあの空で逢いましょう♪F)から翻訳されています。
 
 
 **佐藤利奈のあの空で逢いましょう♪F**（さとうりなのあのそらであいましょうエフ）は[2007年](../Page/2007年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")と[animate.tv](https://ja.wikipedia.org/wiki/animate.tv "wikilink")の[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")サイトで放送されていた[フロンティアワークス](../Page/フロンティアワークス.md "wikilink")の情報番組。前番組「[佐藤利奈のあの空で逢えたら](../Page/佐藤利奈のあの空で逢えたら.md "wikilink")」（以下、「あの空」）から引き継がれたもので[佐藤利奈](../Page/佐藤利奈.md "wikilink")がパーソナリティを務めていた。略称は「あの空F」、「逢いましょうF」など。
@@ -605,7 +605,7 @@
 
   - **\[<http://www.onsen.ag/program/frina/>? 佐藤利奈のあの空で逢いましょう♪F（番組紹介ページ）\] **
       - **[インターネットラジオステーション＜音泉＞](http://onsen.ag/#thu) **
-  - **[「あの空♪F」アニメイトTV WEB -Webラジオ-（animate.tv）](http://www.animate.tv/radio/satorina) **
+  - ** **
   - [Supporters community site BEWE](https://web.archive.org/web/20161214093734/http://www.bewe.sc/)
   - [フロンティアワークス](http://www.fwinc.co.jp/)
   - **[CHAMBERS RECORDS OFFICIALSITE](http://www.chambers.co.jp/) ** - （[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") 〜 ）

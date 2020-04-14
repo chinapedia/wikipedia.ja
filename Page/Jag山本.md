@@ -1,4 +1,4 @@
-> この記事は[Jag](https://ja.wikipedia.org/wiki/Jag)から翻訳されています。
+> この記事は[Jag山本](https://ja.wikipedia.org/wiki/Jag山本)から翻訳されています。
 
 
 **Jag山本**（**ジャグ ヤマモト**、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - ）は、日本の[ライター](../Page/著作家.md "wikilink")/[ソフトウェアプロデューサー](https://ja.wikipedia.org/wiki/ソフトウェアプロデューサー "wikilink")/[編集者](../Page/編集者.md "wikilink")/[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。2009年9月現在[G DATA Software日本法人の代表取締役社長である](../Page/G_DATA_Software.md "wikilink")。
@@ -66,6 +66,6 @@
 <!-- end list -->
 
   - 公式サイト
-      - [ネット犯罪者なんていらない](http://ameblo.jp/antiviruslab/)
+      - [ネット犯罪者なんていらない](https://ameblo.jp/antiviruslab/)
 
 [Category:日本の映像作家](https://ja.wikipedia.org/wiki/Category:日本の映像作家 "wikilink") [Category:日本の情報技術者](https://ja.wikipedia.org/wiki/Category:日本の情報技術者 "wikilink") [Category:日本の編集者](https://ja.wikipedia.org/wiki/Category:日本の編集者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

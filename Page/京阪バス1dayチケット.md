@@ -1,4 +1,4 @@
-> この記事は[1day](https://ja.wikipedia.org/wiki/1day)から翻訳されています。
+> この記事は[京阪バス1dayチケット](https://ja.wikipedia.org/wiki/京阪バス1dayチケット)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Keihan-1day-ticket-for-wiki.jpg "wikilink") **京阪バス1dayチケット**（けいはんバスワンディチケット）は、[京阪バス](../Page/京阪バス.md "wikilink")が発売していた磁気式[一日乗車券](../Page/一日乗車券.md "wikilink")である。

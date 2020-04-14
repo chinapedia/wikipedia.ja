@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXクラシック](https://ja.wikipedia.org/wiki/FOXクラシック)から翻訳されています。
 
 
 **FOXクラシック 名作ドラマ**（フォックスクラシック）は、過去の名作海外ドラマの[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。2015年7月31日までのチャンネル名は**FOX CRIME**であり、犯罪やサスペンスなどをテーマとした[専門チャンネル](../Page/専門チャンネル.md "wikilink")であった。[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")傘下の日本法人、[FOXネットワークス株式会社が運営する](../Page/FOXネットワークス・グループ.md "wikilink")。

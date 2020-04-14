@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[おはようCBC](https://ja.wikipedia.org/wiki/おはようCBC)から翻訳されています。
 
 
 **おはようCBC**（おはようシービーシー）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")終了。

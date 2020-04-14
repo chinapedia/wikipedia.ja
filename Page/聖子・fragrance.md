@@ -1,4 +1,4 @@
-> この記事は[fragrance](https://ja.wikipedia.org/wiki/fragrance)から翻訳されています。
+> この記事は[聖子・fragrance](https://ja.wikipedia.org/wiki/聖子・fragrance)から翻訳されています。
 
 
 『**聖子・fragrance**』（せいこ・フレグランス）は、[松田聖子](../Page/松田聖子.md "wikilink")の最初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。

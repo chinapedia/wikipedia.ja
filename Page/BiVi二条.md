@@ -1,4 +1,4 @@
-> この記事は[BiVi](https://ja.wikipedia.org/wiki/BiVi)から翻訳されています。
+> この記事は[BiVi二条](https://ja.wikipedia.org/wiki/BiVi二条)から翻訳されています。
 
 
 **BiVi二条**（ビビにじょう）は、[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。

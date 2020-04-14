@@ -1,4 +1,4 @@
-> この記事は[ impulse](https://ja.wikipedia.org/wiki/_impulse)から翻訳されています。
+> この記事は[地域情報ナビ impulse](https://ja.wikipedia.org/wiki/地域情報ナビ_impulse)から翻訳されています。
 
 
 **地域情報ナビ impulse**（ちいきじょうほうナビ インパルス）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")にある[IT企業](https://ja.wikipedia.org/wiki/IT企業 "wikilink")、株式会社トヤマデータセンター内に設立されたimpulse推進本部が運営する地域情報[ポータルサイト](../Page/ポータルサイト.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[SASTRA](https://ja.wikipedia.org/wiki/SASTRA)から翻訳されています。
+> この記事は[SASTRAラマヌジャン賞](https://ja.wikipedia.org/wiki/SASTRAラマヌジャン賞)から翻訳されています。
 
 
 **SASTRAラマヌジャン賞**とは、[インド](../Page/インド.md "wikilink")の偉大な数学者[シュリニヴァーサ・ラマヌジャン](../Page/シュリニヴァーサ・ラマヌジャン.md "wikilink")の故郷である[クンバコナム](https://ja.wikipedia.org/wiki/クンバコナム "wikilink")にあるSASTRA(インド科学アカデミー)大学の制定する賞である。ラマヌジャンと同じ分野で優れた業績を挙げた32歳以下の若手研究者に、2005年より、毎年ラマヌジャンの誕生日の12月22日ごろに与えられている。賞金は10000ドル。同年アーベル基金の創設した[ラマヌジャン賞](../Page/ラマヌジャン賞.md "wikilink")とは別の賞である。

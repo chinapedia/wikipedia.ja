@@ -14,7 +14,7 @@
 
 ### Disc 1
 
-1.  **[HIGH PRESSURE](../Page/HIGH_PRESSURE.md "wikilink")**
+1.  **[HIGH PRESSURE](https://ja.wikipedia.org/wiki/HIGH_PRESSURE_\(曲\) "wikilink")**
       -
         作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲：[浅倉大介](../Page/浅倉大介.md "wikilink")　編曲：[I.N.A](../Page/I.N.A.md "wikilink")
         出版社：[ダーウィン](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")

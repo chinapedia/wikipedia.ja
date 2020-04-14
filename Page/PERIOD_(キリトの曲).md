@@ -1,4 +1,4 @@
-> この記事は[PERIOD \(\)](https://ja.wikipedia.org/wiki/PERIOD_\(\))から翻訳されています。
+> この記事は[PERIOD \(キリトの曲\)](https://ja.wikipedia.org/wiki/PERIOD_\(キリトの曲\))から翻訳されています。
 
 
 「**PERIOD**」（ピリオド）は、[キリト](../Page/キリト.md "wikilink")の4枚目のシングル。[2006年](../Page/2006年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")発売。発売元は[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。

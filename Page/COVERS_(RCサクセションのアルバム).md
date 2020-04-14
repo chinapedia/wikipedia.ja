@@ -1,4 +1,4 @@
-> この記事は[COVERS \(RC\)](https://ja.wikipedia.org/wiki/COVERS_\(RC\))から翻訳されています。
+> この記事は[COVERS \(RCサクセションのアルバム\)](https://ja.wikipedia.org/wiki/COVERS_\(RCサクセションのアルバム\))から翻訳されています。
 
 
 『**COVERS**』（カバーズ）は、[RCサクセション](../Page/RCサクセション.md "wikilink")が[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[8月15日](../Page/8月15日.md "wikilink")に発表したカヴァー[アルバム](../Page/アルバム.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Solaris \(\)](https://ja.wikipedia.org/wiki/Solaris_\(\))から翻訳されています。
+> この記事は[Solaris \(日本のバンド\)](https://ja.wikipedia.org/wiki/Solaris_\(日本のバンド\))から翻訳されています。
 
 
 **solaris**（ソラリス）は[京都府](../Page/京都府.md "wikilink")出身の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である。[2004年](../Page/2004年.md "wikilink")1月結成。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月活動休止。

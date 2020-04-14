@@ -1,4 +1,4 @@
-> この記事は[GOLDEN ROAD BEST](https://ja.wikipedia.org/wiki/GOLDEN_ROAD_BEST)から翻訳されています。
+> この記事は[GOLDEN ROAD 〜BEST〜](https://ja.wikipedia.org/wiki/GOLDEN_ROAD_〜BEST〜)から翻訳されています。
 
 
 『**GOLDEN ROAD 〜BEST〜**』（ゴールデン・ロード ベスト）は、[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にリリースされた、ロードオブメジャー初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

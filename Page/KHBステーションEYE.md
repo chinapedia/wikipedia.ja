@@ -1,4 +1,4 @@
-> この記事は[KHBEYE](https://ja.wikipedia.org/wiki/KHBEYE)から翻訳されています。
+> この記事は[KHBステーションEYE](https://ja.wikipedia.org/wiki/KHBステーションEYE)から翻訳されています。
 
 
 『**KHBステーションEYE**』は、[1993年](../Page/1993年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』の宮城県ローカルパートに相当する。

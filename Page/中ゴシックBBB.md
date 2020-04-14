@@ -1,4 +1,4 @@
-> この記事は[BBB](https://ja.wikipedia.org/wiki/BBB)から翻訳されています。
+> この記事は[中ゴシックBBB](https://ja.wikipedia.org/wiki/中ゴシックBBB)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Gothic_BBB_sample.png "wikilink") **中ゴシックBBB**（ちゅうゴシックビービービー）は、[モリサワ](../Page/モリサワ.md "wikilink")が開発・販売する[ゴシック体](../Page/ゴシック体.md "wikilink")およびその[フォント](../Page/フォント.md "wikilink")製品。

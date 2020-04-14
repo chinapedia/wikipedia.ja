@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ホンダ・A型エンジン](https://ja.wikipedia.org/wiki/ホンダ・A型エンジン)から翻訳されています。
 
 
 **A型エンジン**（Aがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[中型車種用の](../Page/Dセグメント.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

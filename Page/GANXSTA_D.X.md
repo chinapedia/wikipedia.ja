@@ -19,7 +19,7 @@
 
   - [O.G.F. MUZIK Official Web Site](http://www.ogfmuzik.com/index.html)
 
-  - [GDX aka SHU(OGF MUZIK) Official Blog](http://ameblo.jp/ogfmuzik) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [GDX aka SHU(OGF MUZIK) Official Blog](https://ameblo.jp/ogfmuzik) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink")

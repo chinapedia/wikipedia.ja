@@ -1,4 +1,4 @@
-> この記事は[URALA](https://ja.wikipedia.org/wiki/URALA)から翻訳されています。
+> この記事は[月刊URALA](https://ja.wikipedia.org/wiki/月刊URALA)から翻訳されています。
 
 
 『**月刊URALA**』（げっかんウララ）は、株式会社ウララコミュニケーションズが発行する[福井県](../Page/福井県.md "wikilink")の[タウン情報誌](../Page/タウン情報誌.md "wikilink")。

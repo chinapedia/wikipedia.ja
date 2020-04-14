@@ -1,4 +1,4 @@
-> この記事は[ QF 2](https://ja.wikipedia.org/wiki/_QF_2)から翻訳されています。
+> この記事は[ヴィッカース QF 2ポンド砲](https://ja.wikipedia.org/wiki/ヴィッカース_QF_2ポンド砲)から翻訳されています。
 
 
 **ヴィッカース QF 2ポンド・ポンポン砲**（）は、[20世紀](../Page/20世紀.md "wikilink")前半に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された[機関砲](../Page/機関砲.md "wikilink")。前任の[QF 1ポンド砲や](https://ja.wikipedia.org/wiki/QF_1ポンド砲 "wikilink")[QF 1.5ポンド砲と同様に](https://ja.wikipedia.org/wiki/QF_1.5ポンド砲 "wikilink")[ポンポン砲](https://ja.wikipedia.org/wiki/ポンポン砲 "wikilink")と通称された。

@@ -1,4 +1,4 @@
-> この記事は[ KAI-ON \(\)](https://ja.wikipedia.org/wiki/_KAI-ON_\(\))から翻訳されています。
+> この記事は[壊音 KAI-ON \(映画\)](https://ja.wikipedia.org/wiki/壊音_KAI-ON_\(映画\))から翻訳されています。
 
 
 『**壊音 KAI-ON**』(かいおん）は[2002年](../Page/2002年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に公開された[奥秀太郎](../Page/奥秀太郎.md "wikilink")監督の[日本映画](../Page/日本映画.md "wikilink")である。

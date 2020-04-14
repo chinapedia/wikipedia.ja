@@ -1,4 +1,4 @@
-> この記事は[OHK](https://ja.wikipedia.org/wiki/OHK)から翻訳されています。
+> この記事は[OHKニュース](https://ja.wikipedia.org/wiki/OHKニュース)から翻訳されています。
 
 
 **OHKニュース**

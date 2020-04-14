@@ -1,4 +1,4 @@
-> この記事は[Seventeen \(\)](https://ja.wikipedia.org/wiki/Seventeen_\(\))から翻訳されています。
+> この記事は[Seventeen \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/Seventeen_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**Seventeen**』（セヴンティーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[ミニ・アルバム](https://ja.wikipedia.org/wiki/アルバム#アルバムの種類 "wikilink")。このアルバムは1982年12月24日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-6501)。

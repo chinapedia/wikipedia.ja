@@ -1,4 +1,4 @@
-> この記事は[ \(KAT-TUN\)](https://ja.wikipedia.org/wiki/_\(KAT-TUN\))から翻訳されています。
+> この記事は[喜びの歌 \(KAT-TUNの曲\)](https://ja.wikipedia.org/wiki/喜びの歌_\(KAT-TUNの曲\))から翻訳されています。
 
 
 「**喜びの歌**」（よろこびのうた）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。日本･[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で発売された。

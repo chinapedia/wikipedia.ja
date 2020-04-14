@@ -21,16 +21,16 @@
 
 ### 『THE END OF EVANGELION』
 
-（全編曲: [Shiro SAGISU](../Page/鷺巣詩郎.md "wikilink")）
+（全編曲：[Shiro SAGISU](../Page/鷺巣詩郎.md "wikilink")）
 
 1.  **THANATOS -IF I CAN'T BE YOURS-** \[4:48\]
       -
-        歌　 : LOREN & MASH
-        作詞 : MASH、作曲：Shiro SAGISU
+        歌：LOREN & MASH
+        作詞：MASH、作曲：Shiro SAGISU
 2.  **[{{de](https://ja.wikipedia.org/wiki/Komm,_susser_Tod "wikilink")** \[7:51\]
       -
         歌：ARIANNE
-        日本語原詩：[Hideaki ANNO](../Page/庵野秀明.md "wikilink")、英訳：Mike WYZGOWSKI、作曲: Shiro SAGISU
+        日本語原詩：[Hideaki ANNO](../Page/庵野秀明.md "wikilink")、英訳：Mike WYZGOWSKI、作曲：Shiro SAGISU
 3.  **[II Air](../Page/G線上のアリア.md "wikilink")** \[3:22\]
       -
         作曲：[J.S.BACH](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")
@@ -43,7 +43,8 @@
       -
         歌：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
         作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲・編曲：大森俊之
-        [東映](../Page/東映.md "wikilink")配給アニメ映画『[新世紀エヴァンゲリオン劇場版 シト新生](../Page/新世紀エヴァンゲリオン劇場版_シト新生.md "wikilink")』主題歌
+    <!-- end list -->
+      - [東映](../Page/東映.md "wikilink")配給アニメ映画『[新世紀エヴァンゲリオン劇場版 シト新生](../Page/新世紀エヴァンゲリオン劇場版_シト新生.md "wikilink")』主題歌
 2.  **THANATOS -IF I CAN'T BE YOURS-** \[4:50\]
       -
         歌：LOREN & MASH
@@ -51,11 +52,12 @@
       -
         歌：高橋洋子
         作詞：及川眠子、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：大森俊之
-        東映配給アニメ映画『新世紀エヴァンゲリオン劇場版 シト新生』イメージソング
+    <!-- end list -->
+      - 東映配給アニメ映画『新世紀エヴァンゲリオン劇場版 シト新生』イメージソング
 4.  **THANATOS -IF I CAN'T BE YOURS-** “Nine Years After Mix” \[8:19\]
       -
         歌：LOREN & MASH
-        作詞：MASH、作曲・編曲：鷺巣詩郎
+        作詞：MASH、作曲・編曲：Shiro SAGISU
 5.  魂のルフラン（OFF VOCAL VERSION） \[5:11\]
 
 ## 参加ミュージシャン
@@ -71,31 +73,133 @@
 
 ## 収録アルバム
 
-  - [THE END OF EVANGELION](../Page/THE_END_OF_EVANGELION.md "wikilink")（1997年9月26日）- 再発：（2004年12月22日）
-      - M-8
-  - [EVANGELION-VOX](../Page/EVANGELION-VOX.md "wikilink")（1997年12月3日）
-      - M-10.JAZZY SIDE STICK-MIX
-  - [NEON GENESIS EVANGELION: S<sup>2</sup> WORKS](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION:_S2_WORKS "wikilink")(1998年12月4日)
-      - ボーナスディスク M-23
-  - [SHIRO'S SONGBOOK](../Page/SHIRO'S_SONGBOOK.md "wikilink")（1999年11月3日）
-      - M-7.part1 (piano\&verse)
-      - \#8.part2 (orchestral world)
-      - M-9.part3 (funk\&go)
-      - M-10.part4 (overcome)
-  - SHIRO'S SONGBOOK "remixes and more"（2000年6月21日）
-      - M-12.Ro-JAM Version〜NIQI's Turntable Opera
-  - [EVANGELION -THE DAY OF SECOND IMPACT-](https://ja.wikipedia.org/wiki/EVANGELION_-THE_DAY_OF_SECOND_IMPACT- "wikilink")（2000年9月13日）
-      - M-9
-  - [EVANGELION -THE BIRTHDAY OF Rei AYANAMI-](https://ja.wikipedia.org/wiki/EVANGELION_-THE_BIRTHDAY_OF_Rei_AYANAMI- "wikilink")（2001年3月30日）
-      - M-13（[クリヤ・マコト](../Page/クリヤ・マコト.md "wikilink")によるカバー）
-  - [Refrain of Evangelion](https://ja.wikipedia.org/wiki/Refrain_of_Evangelion "wikilink")（2003年7月24日）
-      - M-18
-  - [NEON GENESIS EVANGELION DECADE](../Page/NEON_GENESIS_EVANGELION_DECADE.md "wikilink")（2005年10月26日）
-      - M-10
-  - [ShiroSAGISU OUTTAKES FROM EVANGELION (VOL.1)](https://ja.wikipedia.org/wiki/ShiroSAGISU_OUTTAKES_FROM_EVANGELION_\(VOL.1\) "wikilink")（2016年7月30日）
-      - M-6.E13 nineteen years after mix
-  - [アニソン録 プラス。](https://ja.wikipedia.org/wiki/アニソン録_プラス。 "wikilink")（2018年8月29日）
-      - Disc3 M-6
+<table>
+<thead>
+<tr class="header">
+<th><p>収録アルバム</p></th>
+<th><p>発売日</p></th>
+<th><p>規格品番</p></th>
+<th><p>バージョン</p></th>
+<th><p>トラック番号</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/THE_END_OF_EVANGELION.md" title="wikilink">THE END OF EVANGELION</a></p></td>
+<td><p>1997年9月26日<br />
+2004年12月22日（再発）</p></td>
+<td><p>KICA-370<br />
+KIAW-25（再発）</p></td>
+<td><p>（原曲）</p></td>
+<td><p>#8</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/EVANGELION-VOX.md" title="wikilink">EVANGELION-VOX</a></p></td>
+<td><p>1997年12月3日</p></td>
+<td><p>KICA-382</p></td>
+<td><p>JAZZY SIDE STICK-MIX</p></td>
+<td><p>#10</p></td>
+</tr>
+<tr class="odd">
+<td><p>ANTITHESES</p></td>
+<td><p>1998年8月21日</p></td>
+<td><p>KICJ-350</p></td>
+<td><p>（<a href="../Page/クリヤ・マコト.md" title="wikilink">クリヤ・マコト</a>によるカバー）</p></td>
+<td><p>#10</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION:_S2_WORKS" title="wikilink">NEON GENESIS EVANGELION: S<sup>2</sup> WORKS</a></p></td>
+<td><p>1998年12月4日</p></td>
+<td><p>SSX-10025</p></td>
+<td><p>（原曲）</p></td>
+<td><p>ボーナスディスク-#23</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SHIRO&#39;S_SONGBOOK.md" title="wikilink">SHIRO'S SONGBOOK</a></p></td>
+<td><p>1999年11月3日</p></td>
+<td><p>KICS-753</p></td>
+<td><p>part1 (piano&amp;verse)</p></td>
+<td><p>#7</p></td>
+</tr>
+<tr class="even">
+<td><p>part2 (orchestral world)</p></td>
+<td><p>#8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>part3 (funk&amp;go)</p></td>
+<td><p>#9</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>part4 (overcome)</p></td>
+<td><p>#10</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>SHIRO'S SONGBOOK "remixes and more"</p></td>
+<td><p>2000年6月21日</p></td>
+<td><p>PICL-1205</p></td>
+<td><p>Ro-JAM Version〜NIQI's Turntable Opera</p></td>
+<td><p>#12</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/EVANGELION_-THE_DAY_OF_SECOND_IMPACT-" title="wikilink">EVANGELION -THE DAY OF SECOND IMPACT-</a></p></td>
+<td><p>2000年9月13日</p></td>
+<td><p>KICA-525</p></td>
+<td><p>（原曲）</p></td>
+<td><p>#9</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/EVANGELION_-THE_BIRTHDAY_OF_Rei_AYANAMI-" title="wikilink">EVANGELION -THE BIRTHDAY OF Rei AYANAMI-</a></p></td>
+<td><p>2001年3月30日</p></td>
+<td><p>KICA-537</p></td>
+<td><p>（<a href="../Page/クリヤ・マコト.md" title="wikilink">クリヤ・マコト</a>によるカバー）</p></td>
+<td><p>#13</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Refrain_of_Evangelion" title="wikilink">Refrain of Evangelion</a></p></td>
+<td><p>2003年7月24日</p></td>
+<td><p>KICA-608</p></td>
+<td><p>（原曲）</p></td>
+<td><p>#18</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/NEON_GENESIS_EVANGELION_DECADE.md" title="wikilink">NEON GENESIS EVANGELION DECADE</a></p></td>
+<td><p>2005年10月26日</p></td>
+<td><p>KICA-718</p></td>
+<td><p>（原曲）</p></td>
+<td><p>#10</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/A.T._EVA01_Reference_CD.md" title="wikilink">A.T. EVA01 Reference CD</a></p></td>
+<td><p>2007年12月21日</p></td>
+<td><p>SSX-10121</p></td>
+<td><p>（原曲のリマスタリング）</p></td>
+<td><p>#4</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ShiroSAGISU_OUTTAKES_FROM_EVANGELION_(VOL.1)" title="wikilink">ShiroSAGISU OUTTAKES FROM EVANGELION (VOL.1)</a></p></td>
+<td><p>2016年7月30日</p></td>
+<td><p>KICA-3262</p></td>
+<td><p>E13 nineteen years after mix</p></td>
+<td><p>#6</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アニソン録_プラス。" title="wikilink">アニソン録 プラス。</a></p></td>
+<td><p>2018年8月29日</p></td>
+<td><p>KICA-2529〜32</p></td>
+<td><p>（原曲）</p></td>
+<td><p>Disc3-#6</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

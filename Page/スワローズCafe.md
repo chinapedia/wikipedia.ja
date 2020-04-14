@@ -1,4 +1,4 @@
-> この記事は[Cafe](https://ja.wikipedia.org/wiki/Cafe)から翻訳されています。
+> この記事は[スワローズCafe](https://ja.wikipedia.org/wiki/スワローズCafe)から翻訳されています。
 
 
 『**スワローズCafe**』（スワローズカフェ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで放送されていた[関東ローカル](../Page/関東ローカル.md "wikilink")の[ミニ番組](../Page/ミニ番組.md "wikilink")である。[ヤクルトの](../Page/ヤクルト本社.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")。

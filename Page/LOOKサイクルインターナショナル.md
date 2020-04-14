@@ -1,4 +1,4 @@
-> この記事は[LOOK](https://ja.wikipedia.org/wiki/LOOK)から翻訳されています。
+> この記事は[LOOKサイクルインターナショナル](https://ja.wikipedia.org/wiki/LOOKサイクルインターナショナル)から翻訳されています。
 
 
 **LOOKサイクルインターナショナル**（*LOOK Cycle International* ）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ヌヴェール](../Page/ヌヴェール.md "wikilink")に本社を置く自転車用品（[自転車フレーム](../Page/フレーム_\(自転車\).md "wikilink")、[自転車用ビンディングペダルなど](../Page/ペダル_\(自転車\).md "wikilink")）のメーカー。日本国内では、株式会社ユーロスポーツインテグレーションが輸入総代理店。

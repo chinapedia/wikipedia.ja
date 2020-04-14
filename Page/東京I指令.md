@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[東京I指令](https://ja.wikipedia.org/wiki/東京I指令)から翻訳されています。
 
 
 『**東京I指令**』（とうきょうこくさいしれい）は、[2002年](../Page/2002年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")まで[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全21回。放送時間は毎週月曜 24:16 - 24:46 ([JST](../Page/日本標準時.md "wikilink")) 、テレビ朝日系全国ネットの[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")』月曜の番組として放送。

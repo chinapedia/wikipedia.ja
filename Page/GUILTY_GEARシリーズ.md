@@ -1,4 +1,4 @@
-> この記事は[GUILTY GEAR](https://ja.wikipedia.org/wiki/GUILTY_GEAR)から翻訳されています。
+> この記事は[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ)から翻訳されています。
 
 
 **GUILTY GEARシリーズ**（ギルティギアシリーズ）は、[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から製作を行っている2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")シリーズ（後に3Dも展開した）である。略称は「**ギルティ**」「**GG**」など。格闘ゲームの中でも、早期にアニメのようなキャラクター重視の世界観を提唱したシリーズである。
@@ -47,7 +47,7 @@
       - [GUILTY GEAR XX SLASH](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.2F_-SLASH-_.5BThe_Midnight_Carnival.5D "wikilink")（AC・PS2）
       - [GUILTY GEAR XX Λ CORE](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_-ACCENT_CORE- "wikilink")（AC・PS2・[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）
       - [GUILTY GEAR XX Λ CORE PLUS](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_PLUS "wikilink")（PS2・PSP・PS3・[Xbox 360](../Page/Xbox_360.md "wikilink")）
-      - [GUILTY GEAR XX Λ CORE PLUS R](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_PLUS_R "wikilink")（AC・PS Vita・PC）
+      - [GUILTY GEAR XX Λ CORE PLUS R](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX#GUILTY_GEAR_XX_.CE.9B_CORE_PLUS_R "wikilink")（AC・PS Vita・PC・[Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")）
   - [GUILTY GEAR ISUKA](../Page/GUILTY_GEAR_ISUKA.md "wikilink")（AC・Xbox・PS2・PC）
   - [GUILTY GEAR 2 OVERTURE](../Page/GUILTY_GEAR_2_OVERTURE.md "wikilink")（Xbox 360・PC）
   - [GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")（AC・PS3・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC）

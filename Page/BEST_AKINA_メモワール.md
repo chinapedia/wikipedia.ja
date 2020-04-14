@@ -1,4 +1,4 @@
-> この記事は[BEST AKINA ](https://ja.wikipedia.org/wiki/BEST_AKINA_)から翻訳されています。
+> この記事は[BEST AKINA メモワール](https://ja.wikipedia.org/wiki/BEST_AKINA_メモワール)から翻訳されています。
 
 
 {{Infobox Album | Name = BEST AKINA メモワール | Type = [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink") | Artist = [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") | Released = 1983年12月21日

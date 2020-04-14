@@ -1,4 +1,4 @@
-> この記事は[Straw ColorSingle Collection\&More](https://ja.wikipedia.org/wiki/Straw_ColorSingle_Collection\&More)から翻訳されています。
+> この記事は[Straw Color〜Single Collection\&More〜](https://ja.wikipedia.org/wiki/Straw_Color〜Single_Collection\&More〜)から翻訳されています。
 
 
 『**Straw Color〜Single Collection\&More〜**』は、1997年9月25日に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースされた、[奥井亜紀](../Page/奥井亜紀.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

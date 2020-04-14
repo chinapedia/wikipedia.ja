@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[本設利用PC工事桁工法](https://ja.wikipedia.org/wiki/本設利用PC工事桁工法)から翻訳されています。
 
 
 **本設利用PC工事桁工法**（ほんせつりようピーシーこうじけたこうほう）は、[鉄建建設](../Page/鉄建建設.md "wikilink")により開発された、[鉄道線路下に横断](../Page/線路_\(鉄道\).md "wikilink")[構造物](https://ja.wikipedia.org/wiki/構造物 "wikilink")を新設する際の[工法](https://ja.wikipedia.org/wiki/工法 "wikilink")のひとつ。

@@ -1,4 +1,4 @@
-> この記事は[TOP](https://ja.wikipedia.org/wiki/TOP)から翻訳されています。
+> この記事は[日曜TOP情報](https://ja.wikipedia.org/wiki/日曜TOP情報)から翻訳されています。
 
 
 『**日曜TOP情報**』（にちようトップじょうほう）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[フジテレビ系列局で毎週](../Page/フジネットワーク.md "wikilink")[日曜日](../Page/日曜日.md "wikilink")の朝に放送された[報道番組](../Page/報道番組.md "wikilink")。『**露木茂のTOP情報**』として放送を開始、司会者の交代に伴い、1987年4月からは『**小川宏のTOP情報**』とのタイトルで放送された。

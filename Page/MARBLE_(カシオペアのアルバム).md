@@ -1,4 +1,4 @@
-> この記事は[MARBLE \(\)](https://ja.wikipedia.org/wiki/MARBLE_\(\))から翻訳されています。
+> この記事は[MARBLE \(カシオペアのアルバム\)](https://ja.wikipedia.org/wiki/MARBLE_\(カシオペアのアルバム\))から翻訳されています。
 
 
 『**MARBLE**』（**マーブル**）は、日本の[フュージョンバンド](../Page/フュージョン_\(音楽\).md "wikilink")、[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")37枚目となる結成25周年記念アルバム。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、[ギター](../Page/ギター.md "wikilink")音源をマイナスしたCD『CASIOPEA Plays Guitar MINUS ONE MARBLE』(GNCT-1004)も発売された。

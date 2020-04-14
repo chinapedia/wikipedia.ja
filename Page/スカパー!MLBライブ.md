@@ -1,4 +1,4 @@
-> この記事は[!MLB](https://ja.wikipedia.org/wiki/!MLB)から翻訳されています。
+> この記事は[スカパー!MLBライブ](https://ja.wikipedia.org/wiki/スカパー!MLBライブ)から翻訳されています。
 
 
 **スカパー\!MLBライブ**は、[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")が配信する[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")中継番組。[スカチャン](../Page/スカチャン.md "wikilink")（[スカパー\!は](../Page/スカパー!プレミアムサービス.md "wikilink")[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")、[スカパー\!e2はマルチチャンネルエンターテイメント](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（現[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")））で放送されていた。

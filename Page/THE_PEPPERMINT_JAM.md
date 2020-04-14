@@ -45,11 +45,11 @@
 
 [2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")1stアルバム『THE PEPPERMINT JAM』がLETSROCK/HEAVYSICKレーベルより発売。
 
-[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")～[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")ロックンロールサーカス([ラフィンノーズ](https://ja.wikipedia.org/wiki/ラフィンノーズ "wikilink").[SA](https://ja.wikipedia.org/wiki/SA "wikilink").[SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink"))の一員として、全国ツアーを行う。
+[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")～[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")ロックンロールサーカス([ラフィンノーズ](https://ja.wikipedia.org/wiki/ラフィンノーズ "wikilink").[SA](../Page/SA.md "wikilink").[SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink"))の一員として、全国ツアーを行う。
 
 [2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")レコード会社を『VIVID SOUND』へ移籍して心機一転、3rdアルバム『野暮なトラ』発売。
 
-[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")～[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")再びロックンロールサーカス([ラフィンノーズ](https://ja.wikipedia.org/wiki/ラフィンノーズ "wikilink").[SA](https://ja.wikipedia.org/wiki/SA "wikilink").[SHAVERZ](https://ja.wikipedia.org/wiki/SHAVERZ "wikilink"))にスポット参戦。
+[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")～[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")再びロックンロールサーカス([ラフィンノーズ](https://ja.wikipedia.org/wiki/ラフィンノーズ "wikilink").[SA](../Page/SA.md "wikilink").[SHAVERZ](https://ja.wikipedia.org/wiki/SHAVERZ "wikilink"))にスポット参戦。
 
 プロデューサーにロカビリーバンド、ティアドロップを迎えたアルバムを携えた 『キープオンロック2006』ツアーは、ツアーファイナル[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")ワンマンで終える。
 
@@ -101,4 +101,4 @@
 
   - [公式 ホームページ](http://peppermintjam.com/)
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ロカビリー](https://ja.wikipedia.org/wiki/Category:ロカビリー "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ロカビリー](https://ja.wikipedia.org/wiki/Category:ロカビリー "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")

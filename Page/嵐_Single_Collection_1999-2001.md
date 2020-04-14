@@ -1,4 +1,4 @@
-> この記事は[ Single Collection 1999-2001](https://ja.wikipedia.org/wiki/_Single_Collection_1999-2001)から翻訳されています。
+> この記事は[嵐 Single Collection 1999-2001](https://ja.wikipedia.org/wiki/嵐_Single_Collection_1999-2001)から翻訳されています。
 
 
 『**嵐 Single Collection 1999-2001**』（あらしシングルコレクション イチキュウキュウキュウ・ニゼロゼロイチ）は、[嵐の初の](../Page/嵐_\(グループ\).md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")発売。発売元は[J Storm](../Page/ジェイ・ストーム.md "wikilink")。

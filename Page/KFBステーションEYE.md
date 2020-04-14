@@ -1,4 +1,4 @@
-> この記事は[KFBEYE](https://ja.wikipedia.org/wiki/KFBEYE)から翻訳されています。
+> この記事は[KFBステーションEYE](https://ja.wikipedia.org/wiki/KFBステーションEYE)から翻訳されています。
 
 
 『**KFBステーションEYE**』（ケイエフビーステーションアイ）は、[福島放送](../Page/福島放送.md "wikilink")で放送されていた夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』を内包していた。

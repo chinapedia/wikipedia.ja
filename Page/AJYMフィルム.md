@@ -1,4 +1,4 @@
-> この記事は[AJYM](https://ja.wikipedia.org/wiki/AJYM)から翻訳されています。
+> この記事は[AJYMフィルム](https://ja.wikipedia.org/wiki/AJYMフィルム)から翻訳されています。
 
 
 **AJYMフィルム**（アジム・フィルム、**AJYM Films**）は、かつて存在したフランスの[映画製作会社](https://ja.wikipedia.org/wiki/映画会社 "wikilink")。[映画監督](../Page/映画監督.md "wikilink")[クロード・シャブロル](../Page/クロード・シャブロル.md "wikilink")の会社であり、初期[ヌーヴェルヴァーグ](https://ja.wikipedia.org/wiki/ヌーヴェルヴァーグ "wikilink")の作品群を本格的に生み出したことで知られる。

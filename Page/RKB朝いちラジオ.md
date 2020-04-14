@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKB朝いちラジオ](https://ja.wikipedia.org/wiki/RKB朝いちラジオ)から翻訳されています。
 
 
 **RKB朝いちラジオ**（アールケービーあさいちラジオ）は[2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた平日早朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

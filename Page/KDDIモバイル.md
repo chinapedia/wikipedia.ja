@@ -1,4 +1,4 @@
-> この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
+> この記事は[KDDIモバイル](https://ja.wikipedia.org/wiki/KDDIモバイル)から翻訳されています。
 
 
 **KDDI Mobile**は[KDDI](../Page/KDDI.md "wikilink")グループの米国法人[KDDIアメリカ](https://ja.wikipedia.org/wiki/KDDIアメリカ "wikilink")の[子会社](../Page/子会社.md "wikilink")で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")内（[アラスカ州](../Page/アラスカ州.md "wikilink")を除く）で、主に在米の[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")及び韓国人向けの[携帯電話](../Page/携帯電話.md "wikilink")[サービス](../Page/サービス.md "wikilink")を提供する事業者。[仮想移動体通信事業者](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")（MVNO)である。

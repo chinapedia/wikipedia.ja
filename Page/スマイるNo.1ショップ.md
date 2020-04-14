@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[スマイるNo.1ショップ](https://ja.wikipedia.org/wiki/スマイるNo.1ショップ)から翻訳されています。
 
 
 [SANYO_Bara_Chain_Shop.png](https://ja.wikipedia.org/wiki/File:SANYO_Bara_Chain_Shop.png "fig:SANYO_Bara_Chain_Shop.png") [Doi_shotengai_Shikoku-chuo_5772.jpg](https://ja.wikipedia.org/wiki/File:Doi_shotengai_Shikoku-chuo_5772.jpg "fig:Doi_shotengai_Shikoku-chuo_5772.jpg")[土居町](../Page/土居町_\(愛媛県\).md "wikilink")）\]\]

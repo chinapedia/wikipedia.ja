@@ -1,4 +1,4 @@
-> この記事は[Elysion --](https://ja.wikipedia.org/wiki/Elysion_--)から翻訳されています。
+> この記事は[Elysion -楽園への前奏曲-](https://ja.wikipedia.org/wiki/Elysion_-楽園への前奏曲-)から翻訳されています。
 
 
 『**Elysion －楽園への前奏曲－**』（エリュシオン らくえんへのぜんそうきょく）は[Sound Horizonのメジャーデビューアルバム](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。

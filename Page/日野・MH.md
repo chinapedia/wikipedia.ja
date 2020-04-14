@@ -1,4 +1,4 @@
-> この記事は[MH](https://ja.wikipedia.org/wiki/MH)から翻訳されています。
+> この記事は[日野・MH](https://ja.wikipedia.org/wiki/日野・MH)から翻訳されています。
 
 
 **MH**は[日野自動車](../Page/日野自動車.md "wikilink")が製造する[はしご車専用シャーシである](https://ja.wikipedia.org/wiki/消防車 "wikilink")。現在はしご車でトップシェアを誇っている。

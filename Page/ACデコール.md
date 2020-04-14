@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACデコール](https://ja.wikipedia.org/wiki/ACデコール)から翻訳されています。
 
 
 **ACデコール株式会社**は、かつて存在した[ホームセンター](../Page/ホームセンター.md "wikilink")を展開・営業していた企業。[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")[沖浜東](https://ja.wikipedia.org/wiki/沖浜東 "wikilink")に本社を置いていた。

@@ -1,4 +1,4 @@
-> この記事は[REBORN! ](https://ja.wikipedia.org/wiki/REBORN!_)から翻訳されています。
+> この記事は[家庭教師ヒットマンREBORN! 隠し弾](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!_隠し弾)から翻訳されています。
 
 
 『**家庭教師ヒットマンREBORN\! 隠し弾**』（かてきょーヒットマンリボーン シークレット・ブレット）は、少年漫画誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載中の[天野明](../Page/天野明.md "wikilink")の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』を原作とした[子安秀明](https://ja.wikipedia.org/wiki/子安秀明 "wikilink")の[小説](../Page/小説.md "wikilink")。[挿絵](../Page/挿絵.md "wikilink")は原作者の天野明が担当。[2013年](../Page/2013年.md "wikilink")現在、[ジャンプ ジェイ ブックスレーベルで](../Page/ジャンプ_ジェイ_ブックス.md "wikilink")、5巻まで刊行。既刊2巻以降は、月刊漫画誌『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』にて2008年6月号から2009年3月号まで新作を連載していた（全10話）。

@@ -1,4 +1,4 @@
-> この記事は[VENUS \(1997\)](https://ja.wikipedia.org/wiki/VENUS_\(1997\))から翻訳されています。
+> この記事は[VENUS \(1997年結成のアイドルユニット\)](https://ja.wikipedia.org/wiki/VENUS_\(1997年結成のアイドルユニット\))から翻訳されています。
 
 
 **VENUS**（ビーナス）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に登場した[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")女性4人組のユニットである。音楽デビューは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月。[エイベックスに所属](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。

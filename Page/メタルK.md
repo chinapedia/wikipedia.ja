@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[メタルK](https://ja.wikipedia.org/wiki/メタルK)から翻訳されています。
 
 
 『**メタルK**』（メタルケイ）は、[巻来功士](../Page/巻来功士.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")。

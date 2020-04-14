@@ -1,4 +1,4 @@
-> この記事は[AmbivalenZ --](https://ja.wikipedia.org/wiki/AmbivalenZ_--)から翻訳されています。
+> この記事は[AmbivalenZ -二律背反-](https://ja.wikipedia.org/wiki/AmbivalenZ_-二律背反-)から翻訳されています。
 
 
 『**AmbivalenZ -二律背反-**』（**アンビヴァレンツ にりつはいはん**）は、[1994年](../Page/1994年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。対応機種は[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")、[FM-TOWNS](../Page/FM_TOWNS.md "wikilink")、[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")、[Windows95](../Page/Microsoft_Windows_95.md "wikilink")/[Windows 3.1](../Page/Microsoft_Windows_3.x.md "wikilink")（Win95/3.1版は[1996年](../Page/1996年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売）。メディアは、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")7枚（PC98、X68）もしくは[CD-ROM](../Page/CD-ROM.md "wikilink")1枚（TOWNS、Win95/3.1）。[配布フリー宣言の対象作品](https://ja.wikipedia.org/wiki/アリスソフト#配布フリー宣言 "wikilink")。

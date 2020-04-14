@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bーぐる](https://ja.wikipedia.org/wiki/Bーぐる)から翻訳されています。
 
 
 [thumb|250px|B－ぐる 千駄木・駒込ルート用車両

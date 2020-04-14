@@ -1,4 +1,4 @@
-> この記事は[Es \(\)](https://ja.wikipedia.org/wiki/Es_\(\))から翻訳されています。
+> この記事は[Es \(映画\)](https://ja.wikipedia.org/wiki/Es_\(映画\))から翻訳されています。
 
 
 『**es［エス］**』 （原題：*Das Experiment*、国際向け題：*The Experiment*）は、[オリヴァー・ヒルシュビーゲル](../Page/オリヴァー・ヒルシュビーゲル.md "wikilink")が監督し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2002年](../Page/2002年.md "wikilink")に公開された[ドイツ映画](../Page/ドイツの映画.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RS](https://ja.wikipedia.org/wiki/RS)から翻訳されています。
+> この記事は[RSウイルス](https://ja.wikipedia.org/wiki/RSウイルス)から翻訳されています。
 
 
 **RSウイルス**（）は、[パラミクソウイルス科](../Page/パラミクソウイルス科.md "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")の一種。
@@ -37,6 +37,10 @@ RSウイルスは、成人で[免疫不全](https://ja.wikipedia.org/wiki/免疫
 
   - [パリビズマブ](https://ja.wikipedia.org/wiki/パリビズマブ "wikilink") palivizumab（Synagis シナジス®）
 
+## ワクチン開発
+
+2018年現在、認可されて臨床応用されているワクチンは存在しない\[11\]。1960年代にホルマリン不活化ワクチンが臨床試験に供されたが、対照群の初感染時入院率が2%だったのに対して、ワクチン接種群では80%が入院し患児2名が死亡するという悲惨な結果に終わっており\[12\]、この免疫増強反応を如何に抑制するかが課題となっている。
+
 ## 脚注
 
 ## 関連項目
@@ -61,3 +65,5 @@ RSウイルスは、成人で[免疫不全](https://ja.wikipedia.org/wiki/免疫
 8.
 9.  [IDWR 2012年第34号＜注目すべき感染症＞RSウイルス感染症](http://www.nih.go.jp/niid/ja/rs-virus-m/rs-virus-idwrc/2570-idwrc-1234.html) 国立感染症研究所
 10. [13週連続で過去5年間の最高値を更新 RSウイルス感染症が早くも流行中](http://medical.nikkeibp.co.jp/inc/mem/pub/hotnews/int/200810/508217.html) 日経メディカルオンライン 記事：2008年10月17日 閲覧：2012年12月13日
+11.
+12.

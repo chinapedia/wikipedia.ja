@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dプラザ](https://ja.wikipedia.org/wiki/Dプラザ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Oita_d_plaza.jpg "wikilink") **Dプラザ**（ディープラザ、**D-plaza**）は、[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")新川にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。

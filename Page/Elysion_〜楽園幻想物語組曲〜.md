@@ -1,4 +1,4 @@
-> この記事は[Elysion ](https://ja.wikipedia.org/wiki/Elysion_)から翻訳されています。
+> この記事は[Elysion 〜楽園幻想物語組曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園幻想物語組曲〜)から翻訳されています。
 
 
 『**Elysion 〜楽園幻想物語組曲〜**』（エリュシオン らくえんげんそうものがたりくみきょく）は[Sound Horizonによる](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")2枚目のメジャーアルバム。[2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")に[ベルウッドから発売された](../Page/ベルウッド・レコード.md "wikilink")。
@@ -101,7 +101,7 @@
   - [Sound Horizon official website](http://soundhorizon.com/) - Sound Horizon公式サイト
   - [Sound Horizon](http://sound-horizon.net/) - Revo公式サイト
 
-[Category:Sound_Horizonのアルバム](https://ja.wikipedia.org/wiki/Category:Sound_Horizonのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink")
+[Category:Sound_Horizonのアルバム](https://ja.wikipedia.org/wiki/Category:Sound_Horizonのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:2015年の漫画](https://ja.wikipedia.org/wiki/Category:2015年の漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink")
 
 1.
 2.

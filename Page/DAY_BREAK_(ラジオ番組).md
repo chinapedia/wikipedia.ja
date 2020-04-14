@@ -1,7 +1,7 @@
-> この記事は[DAY BREAK \(\)](https://ja.wikipedia.org/wiki/DAY_BREAK_\(\))から翻訳されています。
+> この記事は[DAY BREAK \(ラジオ番組\)](https://ja.wikipedia.org/wiki/DAY_BREAK_\(ラジオ番組\))から翻訳されています。
 
 
-『**DAY BREAK**』（デイ・ブレイク）は、[JFN系列局で放送された](../Page/全国FM放送協議会.md "wikilink")[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作の全国ネット[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。毎週月曜深夜から木曜深夜の週4日、[TOKYO FMのスタジオからの](../Page/エフエム東京.md "wikilink")[生放送](../Page/生放送.md "wikilink")。
+『**DAY BREAK**』（デイ・ブレイク）は、[JFN系列局で放送された](../Page/全国FM放送協議会.md "wikilink")[ジャパンエフエムネットワーク制作の全国ネット](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。毎週月曜深夜から木曜深夜の週4日、[TOKYO FMのスタジオからの](../Page/エフエム東京.md "wikilink")[生放送](../Page/生放送.md "wikilink")。
 
 かつて、ネット局同時間帯には月曜 - 木曜と金曜とで別の番組が放送されていた。月曜 - 木曜には『[WANTED\!](../Page/WANTED!.md "wikilink")』という番組が、金曜には『[ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")』という番組が放送されていたが、この番組の放送開始により月曜 - 金曜の番組構成はほぼ統合された。一部地域では、金曜の放送が行われなかった。
 

@@ -1,4 +1,4 @@
-> この記事は[RON](https://ja.wikipedia.org/wiki/RON)から翻訳されています。
+> この記事は[R・O・N](https://ja.wikipedia.org/wiki/R・O・N)から翻訳されています。
 
 
 **R・O・N**（ロン、[1982年](../Page/1982年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は飯田 龍太（いいだ りゅうた）。[東京都](../Page/東京都.md "wikilink")出身。R・O・Nのサウンドメイキングプロジェクト[STEREO DIVE FOUNDATIONとしても活動中](https://ja.wikipedia.org/wiki/STEREO_DIVE_FOUNDATION "wikilink")。[ROSARYHILL](https://ja.wikipedia.org/wiki/ROSARYHILL "wikilink")、[(K)NoW_NAME](https://ja.wikipedia.org/wiki/\(K\)NoW_NAME "wikilink")のメンバー。[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")の元メンバー。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はベリーグー。
@@ -433,10 +433,15 @@ STEREO DIVE FOUNDATION\[2\]
   - [働くお兄さん\!の2\!](https://ja.wikipedia.org/wiki/働くお兄さん!の2! "wikilink")
       - Piece of my life（作詞・作曲・編曲）
       - LOVE YOUR LIFE（作詞・作曲・編曲）
+  - [スケートリーディング☆スターズ](../Page/スケートリーディング☆スターズ.md "wikilink")
+      - Chase the core（作詞・作曲・編曲）
+  - [BNA ビー・エヌ・エー](../Page/BNA_ビー・エヌ・エー.md "wikilink")
+      - Ready to（編曲）
   - [フットサルボーイズ\!\!\!\!\!](https://ja.wikipedia.org/wiki/フットサルボーイズ!!!!! "wikilink")
       - Always Shine Bright（作詞・作曲・編曲）
       - Grab for victory（作詞・作曲・編曲）
       - WE ARE FUN☆TASISTA（作詞・作曲・編曲）
+      - Maverick（作詞・作曲・編曲）
   - REZZ
       - Black Bird（作詞・作曲・編曲）
   - FORBIDDEN☆STAR

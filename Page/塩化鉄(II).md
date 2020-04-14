@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化鉄\(II\)](https://ja.wikipedia.org/wiki/塩化鉄\(II\))から翻訳されています。
 
 
 **塩化鉄(II)**（えんかてつ(II)、Iron(II) chloride）は、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink") FeCl<sub>2</sub>の[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")である。かつては**塩化第一鉄**（えんかだいいちてつ、ferrous chloride）と呼ばれた\[1\]。水に易溶で溶解度は64.4 g/100 mL (10℃)、105.7 g/100 mL (100℃)である。潮解性がありエタノールにも可溶である。無水物は淡黄色粉末で、四水和物は黄緑色をしている。塩酸溶液を空気に放置すると酸素により酸化され[塩化鉄(III)](../Page/塩化鉄\(III\).md "wikilink")に変化する。\[2\]植物染料の[媒染剤](https://ja.wikipedia.org/wiki/媒染剤 "wikilink")として用いる。

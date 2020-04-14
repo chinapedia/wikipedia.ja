@@ -1,4 +1,4 @@
-> この記事は[TOKYO ff](https://ja.wikipedia.org/wiki/TOKYO_ff)から翻訳されています。
+> この記事は[宇佐元恭一TOKYO ff](https://ja.wikipedia.org/wiki/宇佐元恭一TOKYO_ff)から翻訳されています。
 
 
 **宇佐元恭一TOKYO ff**（うさもときょういちとーきょーふぉるてしも）は[2004年](../Page/2004年.md "wikilink")4月から[2007年](../Page/2007年.md "wikilink")3月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた夜の[音楽](../Page/音楽番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。

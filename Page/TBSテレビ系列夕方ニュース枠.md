@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSテレビ系列夕方ニュース枠](https://ja.wikipedia.org/wiki/TBSテレビ系列夕方ニュース枠)から翻訳されています。
 
 
 **TBSテレビ系列夕方ニュース枠**（ティービーエステレビけいれつゆうがたニュースわく）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")をはじめとする[JNN系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、毎日夕方に放送されている報道番組の枠のことである。

@@ -1,4 +1,4 @@
-> この記事は[TAKARAZUKA!](https://ja.wikipedia.org/wiki/TAKARAZUKA!)から翻訳されています。
+> この記事は[TAKARAZUKA舞夢!](https://ja.wikipedia.org/wiki/TAKARAZUKA舞夢!)から翻訳されています。
 
 
 『**TAKARAZUKA舞夢\!**』（たからづかまいむ）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[花組で](../Page/花組_\(宝塚歌劇\).md "wikilink")2004年に上演された[ショー](../Page/ショー.md "wikilink")作品。

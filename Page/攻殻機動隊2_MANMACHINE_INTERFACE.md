@@ -1,4 +1,4 @@
-> この記事は[2 MANMACHINE INTERFACE](https://ja.wikipedia.org/wiki/2_MANMACHINE_INTERFACE)から翻訳されています。
+> この記事は[攻殻機動隊2 MANMACHINE INTERFACE](https://ja.wikipedia.org/wiki/攻殻機動隊2_MANMACHINE_INTERFACE)から翻訳されています。
 
 
 『**攻殻機動隊2 MANMACHINE INTERFACE CONTROL PREFERENCES**』（こうかくきどうたい2 マンマシーン インターフェース コントロール プリファレンシズ）は[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")で『[攻殻機動隊 THE GHOST IN THE SHELL](../Page/攻殻機動隊.md "wikilink")』の続編という位置づけである。前作と比較するとガンアクションが減少し、過半が電脳戦闘で占められている。

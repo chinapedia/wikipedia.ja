@@ -1,4 +1,4 @@
-> この記事は[Lv.!](https://ja.wikipedia.org/wiki/Lv.!)から翻訳されています。
+> この記事は[ほのかLv.アップ!](https://ja.wikipedia.org/wiki/ほのかLv.アップ!)から翻訳されています。
 
 
 『**ほのかLv.アップ\!**』は、「[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")」（[メディアワークス](../Page/メディアワークス.md "wikilink")発行）で[2005年](../Page/2005年.md "wikilink")10月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月号まで連載していた[太田顕喜原作](../Page/秋タカシ.md "wikilink")、[MATSUDA98](../Page/MATSUDA98.md "wikilink")作画の漫画作品である。[単行本](../Page/単行本.md "wikilink")は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")発行）より全4巻刊行。

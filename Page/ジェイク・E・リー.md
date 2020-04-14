@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ジェイク・E・リー](https://ja.wikipedia.org/wiki/ジェイク・E・リー)から翻訳されています。
 
 
 **ジェイク・E・リー**（Jake E. Lee、本名：Jakey Lou Williams、ジェイキー・ルー・ウィリアムズ、[1957年](../Page/1957年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、音楽家である。[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")の元ギタリスト。父親がウェールズ系アメリカ人で母親が日本人のハーフ。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バージニア州](../Page/バージニア州.md "wikilink")[ノーフォーク市出身](../Page/ノーフォーク_\(バージニア州\).md "wikilink")。身長175cm。

@@ -1,4 +1,4 @@
-> この記事は[for BIZ](https://ja.wikipedia.org/wiki/for_BIZ)から翻訳されています。
+> この記事は[めざまし新聞for BIZ](https://ja.wikipedia.org/wiki/めざまし新聞for_BIZ)から翻訳されています。
 
 
 『**めざまし新聞for BIZ**』（めざまししんぶん フォー・ビズ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から同年[6月27日](../Page/6月27日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[生放送](../Page/生放送.md "wikilink")されていた早朝の[情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。

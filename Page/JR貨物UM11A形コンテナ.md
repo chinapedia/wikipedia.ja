@@ -1,4 +1,4 @@
-> この記事は[JRUM11A](https://ja.wikipedia.org/wiki/JRUM11A)から翻訳されています。
+> この記事は[JR貨物UM11A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UM11A形コンテナ)から翻訳されています。
 
 
 **UM11A形コンテナ**（UM11Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[無蓋コンテナ](https://ja.wikipedia.org/wiki/無蓋コンテナ "wikilink")）である。

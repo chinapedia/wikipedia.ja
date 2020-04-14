@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン)から翻訳されています。
 
 
 『**TVチャンピオン**』（テレビチャンピオン、TV CHAMPION）は、[1992年](../Page/1992年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で毎週[木曜日](../Page/木曜日.md "wikilink")19:30 - 20:54に放送されていた競技型[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。毎週世の中のあらゆる事象をテーマとし、その道の達人たちが真剣勝負を繰り広げ[チャンピオン](../Page/チャンピオン.md "wikilink")を決定する。
@@ -784,8 +784,8 @@
 
 ## 外部リンク
 
-  - [TVチャンピオン](http://www.tv-tokyo.co.jp/tvchamp1/index.htm)
-  - [TVチャンピオン2](http://www.tv-tokyo.co.jp/tvchamp/index.html)
+  - [TVチャンピオン](https://www.tv-tokyo.co.jp/tvchamp1/index.htm)
+  - [TVチャンピオン2](https://www.tv-tokyo.co.jp/tvchamp/index.html)
   - [「TVチャンピオン」番組メイキング（テレビコ）](http://www.tvco.tv/interview/index.php?action=detail&id=19)
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TVチャンピオン](https://ja.wikipedia.org/wiki/Category:TVチャンピオン "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink")

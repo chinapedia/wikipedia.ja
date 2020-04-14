@@ -138,7 +138,7 @@
 
 ## 外部リンク
 
-  - [ニュースマーケットイレブン : テレビ東京](http://www.tv-tokyo.co.jp/nm11/)
+  - [ニュースマーケットイレブン : テレビ東京](https://www.tv-tokyo.co.jp/nm11/)
 
 [Category:TXN番組の歴史](https://ja.wikipedia.org/wiki/Category:TXN番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[PC98-NX](https://ja.wikipedia.org/wiki/PC98-NX)から翻訳されています。
+> この記事は[PC98-NXシリーズ](https://ja.wikipedia.org/wiki/PC98-NXシリーズ)から翻訳されています。
 
 
 **PC98-NXシリーズ**（ピーシーキュウハチ エヌエックス）は[日本電気](../Page/日本電気.md "wikilink")（現：[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")）が開発及び販売する[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")ベースの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")のブランドの名称である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")に発表\[1\]、[10月23日](../Page/10月23日.md "wikilink")に発売された\[2\]。名称の「PC98」は後述の「PC98システムデザイン」から来ており、またNXの由来は「New eXcelent」の略で\[3\]、キャッチフレーズとしては「**新世界**標準パソコン」と銘打った\[4\]。事実上、設計には[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が加わり、当時のインテルの最新技術が盛り込まれた製品群でもある。なお、ブランド発足当初はそれまでの「[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")」などとはハイフンの位置が違い、「PC-98NX」は誤りであるとされていたが、近年では日本電気が作成したマニュアル等にも「PC-98NX」の表記が見られる。（例：日本電気株式会社発行「デスクトップコミュニケータDC550クイックガイド」第5.1版 (A50-014221-001) 2012年4月刊など）

@@ -69,8 +69,8 @@ XREA は e**X**treme **R**ealm for **E**xperts and **A**ll の略である。
 
 ## 外部リンク
 
-  - [XREA.COM](http://www.xrea.com/)
-  - [GMOデジロック株式会社](http://www.digirock.co.jp/)
+  - [XREA.COM](https://www.xrea.com/)
+  - [GMOデジロック株式会社](https://www.digirock.co.jp/)
 
 [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink")
 

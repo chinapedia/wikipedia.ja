@@ -1,4 +1,4 @@
-> この記事は[Eye](https://ja.wikipedia.org/wiki/Eye)から翻訳されています。
+> この記事は[モーニングEye](https://ja.wikipedia.org/wiki/モーニングEye)から翻訳されています。
 
 
 『**モーニングEye**』（モーニング・アイ）は、[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[11月5日](../Page/11月5日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")までの約12年間、[TBS系列で放送されていた](../Page/TBSテレビ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ワイドショー](../Page/ワイドショー.md "wikilink")である。
@@ -231,7 +231,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/チューリップテレビ.md" title="wikilink">チューリップテレビ</a></p></td>
 <td><p>1990年10月1日開局当日から<br />
-1992年までテレビユー富山</p></td>
+1992年までテレビユー富山 1995年9月まで9：55で飛び降り</p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
@@ -249,7 +249,7 @@
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
-<td><p>-</p></td>
+<td><p>1993年10月から1995年3月まで 9:55で飛び降り</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -286,7 +286,7 @@
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
-<td><p>1990年4月2日よりネット開始</p></td>
+<td><p>1990年4月2日よりネット開始 9:55で飛び降り</p></td>
 <td><p>△</p></td>
 </tr>
 <tr class="even">

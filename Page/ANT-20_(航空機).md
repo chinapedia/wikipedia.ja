@@ -1,4 +1,4 @@
-> この記事は[ANT-20 \(\)](https://ja.wikipedia.org/wiki/ANT-20_\(\))から翻訳されています。
+> この記事は[ANT-20 \(航空機\)](https://ja.wikipedia.org/wiki/ANT-20_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ANT-20「マクシム・ゴーリキー」 | 画像=Image:ANT-20.jpg | キャプション=2機のI-5と共に[モスクワ](../Page/モスクワ.md "wikilink")上空を示威飛行するANT-20。 | 用途=宣伝機・[旅客機](../Page/旅客機.md "wikilink") | 分類=単葉[多発機](https://ja.wikipedia.org/wiki/多発機 "wikilink") | 設計者=[アンドレイ・ツポレフ](../Page/アンドレーイ・トゥーポレフ.md "wikilink") | 製造者=[ツポレフ](../Page/ツポレフ.md "wikilink") | 運用者= | 運用者 more= | 初飛行年月日=[1934年](../Page/1934年.md "wikilink")4月 | 生産数=2機 | 生産開始年月日= | 運用開始年月日=1934年4月 | 退役年月日=[1942年](../Page/1942年.md "wikilink") | 運用状況=墜落 | ユニットコスト= }} **ANT-20**(マクシム・ゴーリキー号；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")8発の[航空機](../Page/航空機.md "wikilink")である。[1930年代](../Page/1930年代.md "wikilink")で最も大きな[航空機](../Page/航空機.md "wikilink")のひとつであった。

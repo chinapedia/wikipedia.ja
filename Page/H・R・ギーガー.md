@@ -1,4 +1,4 @@
-> この記事は[HR](https://ja.wikipedia.org/wiki/HR)から翻訳されています。
+> この記事は[H・R・ギーガー](https://ja.wikipedia.org/wiki/H・R・ギーガー)から翻訳されています。
 
 
 **H・R・ギーガー**（ハンス・リューディ・ギーガー、*Hans Ruedi Giger* 、[1940年](../Page/1940年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")\[1\]）は、[スイス](../Page/スイス.md "wikilink")出身の[画家](../Page/画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[造形作家](../Page/彫刻家.md "wikilink")。

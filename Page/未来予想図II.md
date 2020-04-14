@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[未来予想図II](https://ja.wikipedia.org/wiki/未来予想図II)から翻訳されています。
 
 
 「**未来予想図II**」（みらいよそうず つー）は、[DREAMS COME TRUEの楽曲](../Page/DREAMS_COME_TRUE.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は[吉田美和](../Page/吉田美和.md "wikilink")、編曲は[中村正人](https://ja.wikipedia.org/wiki/中村正人 "wikilink")。

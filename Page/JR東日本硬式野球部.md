@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本硬式野球部](https://ja.wikipedia.org/wiki/JR東日本硬式野球部)から翻訳されています。
 
 
 **JR東日本野球部**（ジェイアールひがしにほんやきゅうぶ）は、[東京都](../Page/東京都.md "wikilink")に本拠地を置き[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[社会人野球](../Page/社会人野球.md "wikilink")チームである。合宿所・練習グラウンドは[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")に所在する（[JR東日本野球部柏野球場](https://ja.wikipedia.org/wiki/JR東日本野球部柏野球場 "wikilink")）。

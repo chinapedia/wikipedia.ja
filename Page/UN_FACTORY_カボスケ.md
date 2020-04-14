@@ -1,4 +1,4 @@
-> この記事は[UN FACTORY ](https://ja.wikipedia.org/wiki/UN_FACTORY_)から翻訳されています。
+> この記事は[UN FACTORY カボスケ](https://ja.wikipedia.org/wiki/UN_FACTORY_カボスケ)から翻訳されています。
 
 
 『**UN FACTORY カボスケ**』（ウンナンファクトリーカボスケ）は、[フジテレビ制作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで[関東広域圏および](../Page/広域放送.md "wikilink")[岡山放送](../Page/岡山放送.md "wikilink") (OHK) など一部の[FNS系列局で放送されていた](../Page/フジネットワーク.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RAM \(\)](https://ja.wikipedia.org/wiki/RAM_\(\))から翻訳されています。
+> この記事は[RAM \(ミサイル\)](https://ja.wikipedia.org/wiki/RAM_\(ミサイル\))から翻訳されています。
 
 
 **RAM**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が共同開発した[近接防空ミサイル](https://ja.wikipedia.org/wiki/艦対空ミサイル#近接防空ミサイル "wikilink")。[アメリカ軍](../Page/アメリカ軍.md "wikilink")での制式番号は**RIM-116**\[1\]。

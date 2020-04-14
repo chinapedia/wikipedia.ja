@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ヒューバート・H・ハンフリー・メトロドーム](https://ja.wikipedia.org/wiki/ヒューバート・H・ハンフリー・メトロドーム)から翻訳されています。
 
 
 **ヒューバート・H・ハンフリー・メトロドーム**（*Hubert H. Humphrey Metrodome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")[ミネアポリスにあった](https://ja.wikipedia.org/wiki/ミネアポリス_\(ミネソタ州\) "wikilink")、[野球](../Page/野球.md "wikilink")や[アメフトなどに使用される](../Page/アメリカンフットボール.md "wikilink")[多目的ドーム](../Page/ドーム球場.md "wikilink")。通称**メトロドーム**（*Metrodome*）。**HHHメトロドーム**とも称される。[2009年](../Page/2009年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")にアメリカ最大のショッピングモールの[モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink")が3年契約で取得、[2012年](../Page/2012年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")までは**モール・オブ・アメリカ・フィールド・アット・ザ・ヒューバート・H・ハンフリー・メトロドーム**の名称であった。

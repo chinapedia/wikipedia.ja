@@ -1,4 +1,4 @@
-> この記事は[PTA](https://ja.wikipedia.org/wiki/PTA)から翻訳されています。
+> この記事は[日本PTA全国協議会](https://ja.wikipedia.org/wiki/日本PTA全国協議会)から翻訳されています。
 
 
 **公益社団法人日本PTA全国協議会**（にっぽんピーティーエーぜんこくきょうぎかい）は、健全な青少年の育成と福祉の増進をはかり、もって社会の発展に寄与することを目的とする、全国の[PTA](../Page/PTA.md "wikilink")（[保護者](../Page/保護者.md "wikilink")と[教職員](https://ja.wikipedia.org/wiki/教職員 "wikilink")による教育団体）の協議会組織。ただし、この会の正会員になれるのは、各都道府県及び[政令都市](https://ja.wikipedia.org/wiki/政令都市 "wikilink")に設けられたPTA協議会（または連合会）である。略称は**日P**。団体名は「にっぽんPTA」であり、「にほんPTA」ではない。

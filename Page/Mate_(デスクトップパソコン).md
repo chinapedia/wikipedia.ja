@@ -1,4 +1,4 @@
-> この記事は[Mate \(\)](https://ja.wikipedia.org/wiki/Mate_\(\))から翻訳されています。
+> この記事は[Mate \(デスクトップパソコン\)](https://ja.wikipedia.org/wiki/Mate_\(デスクトップパソコン\))から翻訳されています。
 
 
 **Mate**、**MATE**（メイト）は、当初[NEC](../Page/日本電気.md "wikilink")、後に[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")が発売した[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")。当初は家庭/ビジネス兼用のメインストリーム機だったが、後に[法人](../Page/法人.md "wikilink")向けとなった。

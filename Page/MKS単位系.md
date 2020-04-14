@@ -1,4 +1,4 @@
-> この記事は[MKS](https://ja.wikipedia.org/wiki/MKS)から翻訳されています。
+> この記事は[MKS単位系](https://ja.wikipedia.org/wiki/MKS単位系)から翻訳されています。
 
 
 **MKS単位系**（エムケイエス たんいけい）とは、[長さ](../Page/長さ.md "wikilink")の[単位](../Page/物理単位.md "wikilink")[メートル](../Page/メートル.md "wikilink")(; m)・[質量](../Page/質量.md "wikilink")の単位[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink")(; kg)・[時間](../Page/時間.md "wikilink")の単位[秒](../Page/秒.md "wikilink")(; s)を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。

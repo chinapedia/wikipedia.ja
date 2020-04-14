@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[美少女H](https://ja.wikipedia.org/wiki/美少女H)から翻訳されています。
 
 
 『**美少女H**』（びしょうじょエイチ）シリーズは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")にかけて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。
@@ -30,7 +30,7 @@
   - 第12話「十七歳の記録」（主演：[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")、共演：[大柴邦彦](../Page/大柴隼人.md "wikilink")）
   - 第13話「彼のお家で××」（主演：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、共演：[及川仲](https://ja.wikipedia.org/wiki/及川仲 "wikilink")）
   - 第14話「夏の百合」（主演：[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")、共演：[余貴美子](../Page/余貴美子.md "wikilink")）
-  - 第15話「地球最後の日」（主演：[しらたひさこ](https://ja.wikipedia.org/wiki/しらたひさこ "wikilink")、共演：[みのすけ](../Page/みのすけ.md "wikilink")）
+  - 第15話「地球最後の日」（主演：[しらたひさこ](../Page/白田久子.md "wikilink")、共演：[みのすけ](../Page/みのすけ.md "wikilink")）
   - 第16話「少女の目標」（主演：[小高早紀](../Page/小高早紀.md "wikilink")、共演：[高橋一生](../Page/高橋一生.md "wikilink")）
   - 第17話「海とリンゴ」（主演：[佐藤江梨子](https://ja.wikipedia.org/wiki/佐藤江梨子 "wikilink")）
   - 第18話「父、帰る…」（主演：[清水千賀](https://ja.wikipedia.org/wiki/清水千賀 "wikilink")、共演：[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")・[織本順吉](../Page/織本順吉.md "wikilink")、演出・脚本：[豊川悦司](../Page/豊川悦司.md "wikilink")）
@@ -57,7 +57,7 @@
   - 第6話「流星たちが舞い降りるころII」（主演：[北川弘美](https://ja.wikipedia.org/wiki/北川弘美 "wikilink")）
   - 第7話「ボンバー・ガール」（主演：[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")）
   - 第8話「サバイバル少女」（主演：[小高早紀](../Page/小高早紀.md "wikilink")）
-  - 第9話「(Just Like)Starting Over」（主演：[しらたひさこ](https://ja.wikipedia.org/wiki/しらたひさこ "wikilink")、共演：[田口浩正](../Page/田口浩正.md "wikilink")）
+  - 第9話「(Just Like)Starting Over」（主演：[しらたひさこ](../Page/白田久子.md "wikilink")、共演：[田口浩正](../Page/田口浩正.md "wikilink")）
   - 第10話「ホーリー☆ゴースト\!」（主演：[緒沢凛](../Page/緒沢凛.md "wikilink")、共演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")・[徳山秀典](../Page/徳山秀典.md "wikilink")）
   - 第11話「ビーナスの微笑み」（主演：[黒須麻耶](https://ja.wikipedia.org/wiki/黒須麻耶 "wikilink")）
   - 第12話「TOKYO BLACK」（主演：[清水千賀](https://ja.wikipedia.org/wiki/清水千賀 "wikilink")）

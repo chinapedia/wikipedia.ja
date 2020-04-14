@@ -1,4 +1,4 @@
-> この記事は[LM](https://ja.wikipedia.org/wiki/LM)から翻訳されています。
+> この記事は[L・M・モンゴメリ](https://ja.wikipedia.org/wiki/L・M・モンゴメリ)から翻訳されています。
 
 
 [Lmmontgomery1884.gif](https://ja.wikipedia.org/wiki/File:Lmmontgomery1884.gif "fig:Lmmontgomery1884.gif") [Lucy_Maud_Montgomery.JPG](https://ja.wikipedia.org/wiki/File:Lucy_Maud_Montgomery.JPG "fig:Lucy_Maud_Montgomery.JPG") [thumb](https://ja.wikipedia.org/wiki/ファイル:Lucy_Maud_Montgomery_Se.JPG "wikilink")）\]\] **ルーシー・モード・モンゴメリ**（**Lucy Maud Montgomery**、[1874年](../Page/1874年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - [1942年](../Page/1942年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の小説家である。『[赤毛のアン](../Page/赤毛のアン.md "wikilink")』の作者であり、本作を第一作とする連作シリーズ「[アン・ブックス](../Page/アン・ブックス.md "wikilink")」で良く知られている。彼女の小説は[英語](../Page/英語.md "wikilink")で記されている。

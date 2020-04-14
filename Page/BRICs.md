@@ -1,7 +1,7 @@
 > この記事は[BRICs](https://ja.wikipedia.org/wiki/BRICs)から翻訳されています。
 
 
-おならブリブリックスだお **BRICs**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[インド](../Page/インド.md "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
+**BRICs**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている、[中国の](../Page/中華人民共和国.md "wikilink")4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
 
 また、4ヶ国（ブラジル、ロシア、インド、中国）に[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")（**S**outh Africa）を加えた5ヶ国は、**BRICS**\[5\] と総称される\[6\]。近年はBRICSの表記が一般的である。
 

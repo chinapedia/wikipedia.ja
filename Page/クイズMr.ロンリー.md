@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[クイズMr.ロンリー](https://ja.wikipedia.org/wiki/クイズMr.ロンリー)から翻訳されています。
 
 
 『**クイズMr.ロンリー**』（クイズミスターロンリー）は、[1982年](../Page/1982年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[毎日放送で放送された](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。毎日放送・[東通企画](../Page/東通企画.md "wikilink")の共同制作。

@@ -1,4 +1,4 @@
-> この記事は[IS-LM](https://ja.wikipedia.org/wiki/IS-LM)から翻訳されています。
+> この記事は[IS-LM分析](https://ja.wikipedia.org/wiki/IS-LM分析)から翻訳されています。
 
 
 [IS-LM分析.png](https://ja.wikipedia.org/wiki/File:IS-LM分析.png "fig:IS-LM分析.png") **IS–LM 分析**（アイエスエルエムぶんせき）または **IS–LM モデル** () とは、国民所得と利子率を用いて[財](../Page/財.md "wikilink")[市場](../Page/市場.md "wikilink")と[貨幣](../Page/貨幣.md "wikilink")市場の同時[均衡](../Page/均衡.md "wikilink")を分析することである。また、短期における価格硬直性を仮定している。この分析では、政府の[財政政策](../Page/財政政策.md "wikilink")や[中央銀行](../Page/中央銀行.md "wikilink")の[金融政策](../Page/金融政策.md "wikilink")の効果を明らかにできる。**ハンセン＝ヒックスモデル**とも呼ばれる。

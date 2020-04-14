@@ -1,4 +1,4 @@
-> この記事は[Get Ride! ](https://ja.wikipedia.org/wiki/Get_Ride!_)から翻訳されています。
+> この記事は[Get Ride! アムドライバー](https://ja.wikipedia.org/wiki/Get_Ride!_アムドライバー)から翻訳されています。
 
 
 『**Get Ride\! アムドライバー**』（ゲットライド アムドライバー）は、[2004年](../Page/2004年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送されていた[スタジオディーン](../Page/スタジオディーン.md "wikilink")制作の[アニメ](../Page/アニメ.md "wikilink")および、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から販売されていた番組の[玩具](../Page/玩具.md "wikilink")シリーズの名称である。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』で漫画版も連載された。
@@ -1146,7 +1146,7 @@ ZEAMジャケットの最終進化形を装着した人物。
 ## 外部リンク
 
   - [公式サイト](http://amdriver.konami.jp/)（コナミ）
-  - [公式サイト](http://www.tv-tokyo.co.jp/anime/amdriver/)（テレビ東京）
+  - [公式サイト](https://www.tv-tokyo.co.jp/anime/amdriver/)（テレビ東京）
   - [コナミ、「Get Ride\! アムドライバー」でTVアニメ参入。GBAソフトも開発中](http://www.watch.impress.co.jp/game/docs/20040226/amd.htm)（GAME Watch）
   - [GetRide！ アムドライバー 閃光のヒーロー誕生！（Gameboy Advancedゲーム）](http://www.nintendo.co.jp/n08/software/bgij/index.html)（任天堂）
   - [GetRide！ アムドライバー 出撃！バトルパーティー（Gameboy Advancedゲーム）](http://www.nintendo.co.jp/n08/software/bgpj/index.html)（任天堂）

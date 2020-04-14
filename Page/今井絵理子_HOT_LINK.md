@@ -1,4 +1,4 @@
-> この記事は[ HOT LINK](https://ja.wikipedia.org/wiki/_HOT_LINK)から翻訳されています。
+> この記事は[今井絵理子 HOT LINK](https://ja.wikipedia.org/wiki/今井絵理子_HOT_LINK)から翻訳されています。
 
 
 **今井絵理子 HOT LINK**（いまいえりこ ホットリンク）は、[2000年](../Page/2000年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")3月まで[TBSラジオなど](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[JRN系列各局で放送されていた](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")がパーソナリティを務めた。

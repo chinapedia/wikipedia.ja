@@ -1,4 +1,4 @@
-> この記事は[ DC-2](https://ja.wikipedia.org/wiki/_DC-2)から翻訳されています。
+> この記事は[ダグラス DC-2](https://ja.wikipedia.org/wiki/ダグラス_DC-2)から翻訳されています。
 
 
 | ダグラスDC-2                                                                |

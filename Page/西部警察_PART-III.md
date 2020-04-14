@@ -1,4 +1,4 @@
-> この記事は[ PART-III](https://ja.wikipedia.org/wiki/_PART-III)から翻訳されています。
+> この記事は[西部警察 PART-III](https://ja.wikipedia.org/wiki/西部警察_PART-III)から翻訳されています。
 
 
 『**西部警察 PART-III**』（せいぶけいさつパートスリー）は、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")～[1984年](../Page/1984年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で[日曜日](../Page/日曜日.md "wikilink")の20:00～20:54に放送された。なお最終回は『**[さよなら西部警察](https://ja.wikipedia.org/wiki/さよなら西部警察 "wikilink") 大門死す\!男達よ永遠に…**』と称し、10月22日の[月曜日](../Page/月曜日.md "wikilink")20:00より3時間スペシャルとして放送された。

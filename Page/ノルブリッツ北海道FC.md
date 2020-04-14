@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ノルブリッツ北海道FC](https://ja.wikipedia.org/wiki/ノルブリッツ北海道FC)から翻訳されています。
 
 
 **ノルブリッツ北海道FC**（ノルブリッツほっかいどうエフシー、）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")と[江別市](../Page/江別市.md "wikilink")\[1\] をホームタウンとする社会人サッカークラブである。
@@ -110,7 +110,7 @@
 
 ## 外部リンク
 
-  - [ノルブリッツ北海道 パシオン日記](http://blog.goo.ne.jp/norbritz)
+  - [ノルブリッツ北海道 パシオン日記](https://blog.goo.ne.jp/norbritz)
 
   -
   - [クラブフィールズオフィシャルホームページ](http://clubfields.jimdo.com/)

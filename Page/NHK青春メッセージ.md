@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK青春メッセージ](https://ja.wikipedia.org/wiki/NHK青春メッセージ)から翻訳されています。
 
 
 **NHK青春メッセージ**（エヌエイチケイせいしゅんメッセージ）は、毎年1月の[成人の日](../Page/成人の日.md "wikilink")に開催されていた[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")主催のアピール[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")である。[東京](../Page/東京都.md "wikilink")・[渋谷の](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[NHKホール](../Page/NHKホール.md "wikilink")にて開催され、毎年、当日午後2:00 - 4:00 にNHK[総合テレビおよび](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1で生放送していた](../Page/NHKラジオ第1放送.md "wikilink")。

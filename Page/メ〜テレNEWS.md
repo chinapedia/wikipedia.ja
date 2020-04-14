@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[メ〜テレNEWS](https://ja.wikipedia.org/wiki/メ〜テレNEWS)から翻訳されています。
 
 
 『**メ〜テレNEWS**』（メ〜テレニュース）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（メ〜テレ）で放送されている定時ローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。

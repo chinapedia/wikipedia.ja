@@ -1,4 +1,4 @@
-> この記事は[A-train \(\)](https://ja.wikipedia.org/wiki/A-train_\(\))から翻訳されています。
+> この記事は[A-train \(日立製作所\)](https://ja.wikipedia.org/wiki/A-train_\(日立製作所\))から翻訳されています。
 
 
 **A-train**（エートレイン）は、[日立製作所](../Page/日立製作所.md "wikilink")が開発した[鉄道車両](../Page/鉄道車両.md "wikilink")の製造技術（次世代[アルミ車両システム](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")）。"A-train"に用いられた「A」は、Advanced・Amenity・Ability・Aluminum を統合的に表したものとしている。

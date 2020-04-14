@@ -1,4 +1,4 @@
-> この記事は[ON THE WAY COMEDY ](https://ja.wikipedia.org/wiki/ON_THE_WAY_COMEDY_)から翻訳されています。
+> この記事は[ON THE WAY COMEDY 道草](https://ja.wikipedia.org/wiki/ON_THE_WAY_COMEDY_道草)から翻訳されています。
 
 
 『**ON THE WAY COMEDY 道草**』（オン・ザ・ウェイ・コメディ・みちくさ）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに月曜から木曜の夕方に](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列各局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")10月スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月27日終了。

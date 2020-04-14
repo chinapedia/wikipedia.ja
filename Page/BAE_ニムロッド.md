@@ -1,4 +1,4 @@
-> この記事は[BAE ](https://ja.wikipedia.org/wiki/BAE_)から翻訳されています。
+> この記事は[BAE ニムロッド](https://ja.wikipedia.org/wiki/BAE_ニムロッド)から翻訳されています。
 
 
 {{ Infobox 航空機
@@ -125,7 +125,7 @@ MRA.4は新世代のターボファンエンジン[ロールス・ロイス BR70
 [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:電子戦機](https://ja.wikipedia.org/wiki/Category:電子戦機 "wikilink") [Category:イギリスの軍用機](https://ja.wikipedia.org/wiki/Category:イギリスの軍用機 "wikilink") [Category:ホーカー・シドレーの航空機](https://ja.wikipedia.org/wiki/Category:ホーカー・シドレーの航空機 "wikilink") [Category:BAE_システムズの航空機](https://ja.wikipedia.org/wiki/Category:BAE_システムズの航空機 "wikilink") [Category:4発ジェット機](https://ja.wikipedia.org/wiki/Category:4発ジェット機 "wikilink")
 
 1.  もっとも近年では、[川崎重工業](../Page/川崎重工業.md "wikilink")が[海上自衛隊](../Page/海上自衛隊.md "wikilink")向けに[P-3C](https://ja.wikipedia.org/wiki/P-3C "wikilink")の後継機である日本国産の[P-1対潜哨戒機](https://ja.wikipedia.org/wiki/P-1_\(航空機\) "wikilink")、[ボーイング](../Page/ボーイング.md "wikilink")社が主に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けにP-3の後継機としてP-1と同時期に就役した[P-8 ポセイドンなど](../Page/P-8_\(航空機\).md "wikilink")、高高度性能の追求のほか速力の強化や機器の電源確保などを狙ってターボファンエンジンを採用した対潜哨戒機も開発されてきている。
-2.  [アルゼンチン軍](https://ja.wikipedia.org/wiki/アルゼンチン軍 "wikilink")の哨戒機に遭遇したら撃墜できるように装備したものだが、結局使用されることはなかった。
+2.  自衛用として装備したものだが、結局使用されることはなかった。
 3.  2006年9月の墜落事故により1機喪失したため、5号機のみAEW.3から改装
 4.
 5.

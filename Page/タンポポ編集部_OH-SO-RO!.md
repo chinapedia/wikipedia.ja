@@ -1,4 +1,4 @@
-> この記事は[ OH-SO-RO!](https://ja.wikipedia.org/wiki/_OH-SO-RO!)から翻訳されています。
+> この記事は[タンポポ編集部 OH-SO-RO!](https://ja.wikipedia.org/wiki/タンポポ編集部_OH-SO-RO!)から翻訳されています。
 
 
 **タンポポ編集部 OH-SO-RO\!**（タンポポへんしゅうぶ おそろ）は、[2000年](../Page/2000年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")9月まで、[TBSラジオをはじめ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[JRN系列各局で放送されていた](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称:オソロ。

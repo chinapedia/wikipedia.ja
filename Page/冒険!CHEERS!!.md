@@ -1,4 +1,4 @@
-> この記事は[!CHEERS!!](https://ja.wikipedia.org/wiki/!CHEERS!!)から翻訳されています。
+> この記事は[冒険!CHEERS!!](https://ja.wikipedia.org/wiki/冒険!CHEERS!!)から翻訳されています。
 
 
 『**冒険\!CHEERS\!\!**』（ぼうけん\!チアーズ\!\!）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[アウトドア](../Page/アウトドア.md "wikilink")を中心とした体験番組。小学生から中学生、大人の若手タレントが野外で様々ないろいろな体験をする。

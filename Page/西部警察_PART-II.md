@@ -1,4 +1,4 @@
-> この記事は[ PART-II](https://ja.wikipedia.org/wiki/_PART-II)から翻訳されています。
+> この記事は[西部警察 PART-II](https://ja.wikipedia.org/wiki/西部警察_PART-II)から翻訳されています。
 
 
 『**西部警察 PART-II**』（せいぶけいさつパートツー）は、[テレビ朝日系で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")である。[1982年](../Page/1982年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink")) に放送。

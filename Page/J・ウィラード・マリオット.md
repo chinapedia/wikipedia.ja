@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・ウィラード・マリオット](https://ja.wikipedia.org/wiki/J・ウィラード・マリオット)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:J_Willard_Marriott.jpg "wikilink") **J・ウィラード・マリオット**（John Willard Marriott、[1900年](../Page/1900年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")）は、アメリカの[実業家](../Page/実業家.md "wikilink")。**[マリオット・インターナショナル](../Page/マリオット・インターナショナル.md "wikilink")**の創業者。

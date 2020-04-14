@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFE西日本硬式野球部](https://ja.wikipedia.org/wiki/JFE西日本硬式野球部)から翻訳されています。
 
 
 **JFE西日本硬式野球部**（ジェイエフイーにしにほんこうしきやきゅうぶ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")と[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。

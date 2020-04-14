@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR九州硬式野球部](https://ja.wikipedia.org/wiki/JR九州硬式野球部)から翻訳されています。
 
 
 **JR九州硬式野球部**（ジェイアールきゅうしゅうこうしきやきゅうぶ）は、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")チームである。

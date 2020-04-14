@@ -1,4 +1,4 @@
-> この記事は[IWAJAPAN](https://ja.wikipedia.org/wiki/IWAJAPAN)から翻訳されています。
+> この記事は[IWA・JAPAN](https://ja.wikipedia.org/wiki/IWA・JAPAN)から翻訳されています。
 
 
 **I.W.A.JAPAN**（アイ・ダブリュー・エー・ジャパン）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
@@ -25,7 +25,7 @@
 
 ### 浅野起州体制
 
-[1999年](../Page/1999年.md "wikilink")、選手兼代表の山田が退団。それと前後して当時後援者でもあった[浅野起州](../Page/浅野起州.md "wikilink")が代表に就任。
+[SHINJUKU_CIMG5193.jpg](https://ja.wikipedia.org/wiki/File:SHINJUKU_CIMG5193.jpg "fig:SHINJUKU_CIMG5193.jpg") [1999年](../Page/1999年.md "wikilink")、選手兼代表の山田が退団。それと前後して当時後援者でもあった[浅野起州](../Page/浅野起州.md "wikilink")が代表に就任。
 
 上記の通り何度も存続の危機に見舞われるが、その都度危機を乗り越えてネームバリューのある外国人選手の招聘や[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")を始めとする他団体との交流を行っている。主なストーリーラインは謎の集団「UMA軍団」を中心とした「[新宿二丁目](https://ja.wikipedia.org/wiki/新宿二丁目 "wikilink")劇場」と銘打ったコミカルな[アングル](../Page/アングル_\(プロレス\).md "wikilink")。小規模会場をメインとしながら継続的な興行を開催していた。
 

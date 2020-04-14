@@ -1,4 +1,4 @@
-> この記事は[1-UP](https://ja.wikipedia.org/wiki/1-UP)から翻訳されています。
+> この記事は[1-UPスタジオ](https://ja.wikipedia.org/wiki/1-UPスタジオ)から翻訳されています。
 
 
 **1-UPスタジオ株式会社**（ワン-アップスタジオ、）は、[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。旧商号は**株式会社ブラウニーブラウン**。

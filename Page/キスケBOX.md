@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[キスケBOX](https://ja.wikipedia.org/wiki/キスケBOX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Kisuke-Box\(Matsuyama-City\).JPG "wikilink") **キスケBOX**（キスケボックス）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")にある[複合商業施設](../Page/複合商業施設.md "wikilink")。[パチンコチェーン](https://ja.wikipedia.org/wiki/パチンコ#パチンコチェーン "wikilink")「ホームラングループ」の「キスケ」が、自社の[パチンコ店](../Page/パチンコ店.md "wikilink")・[ボウリング場](https://ja.wikipedia.org/wiki/ボウリング場 "wikilink")敷地内で[温泉](../Page/温泉.md "wikilink")を掘削して2001年に開業した。

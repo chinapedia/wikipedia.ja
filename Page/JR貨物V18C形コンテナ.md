@@ -1,4 +1,4 @@
-> この記事は[JRV18C](https://ja.wikipedia.org/wiki/JRV18C)から翻訳されています。
+> この記事は[JR貨物V18C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物V18C形コンテナ)から翻訳されています。
 
 
 **JR貨物V18C形コンテナ**（JRかもつV18Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が製造した12[ft](../Page/フィート.md "wikilink")[通風コンテナ](https://ja.wikipedia.org/wiki/通風コンテナ "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）から[1993年](../Page/1993年.md "wikilink")（平成5年）にかけて5,400個が製造された。

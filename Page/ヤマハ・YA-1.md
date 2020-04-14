@@ -1,4 +1,4 @@
-> この記事は[YA-1](https://ja.wikipedia.org/wiki/YA-1)から翻訳されています。
+> この記事は[ヤマハ・YA-1](https://ja.wikipedia.org/wiki/ヤマハ・YA-1)から翻訳されています。
 
 
 [Yamaha_125_old.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_125_old.jpg "fig:Yamaha_125_old.jpg") **ヤマハ・YA-1**（ワイエー-ワン）は、日本楽器（現[ヤマハ](../Page/ヤマハ.md "wikilink")）が開発・製造・発売した[オートバイ](../Page/オートバイ.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[HR \(\)](https://ja.wikipedia.org/wiki/HR_\(\))から翻訳されています。
+> この記事は[HR \(テレビドラマ\)](https://ja.wikipedia.org/wiki/HR_\(テレビドラマ\))から翻訳されています。
 
 
 『**HR**』（エイチアール）は、[2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで毎週水曜日23:00 - 23:30に、[フジテレビ系で放送された日本の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全23話。[脚本](../Page/脚本.md "wikilink")・総合[演出](../Page/演出.md "wikilink")は[三谷幸喜](../Page/三谷幸喜.md "wikilink")。主演は[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")。

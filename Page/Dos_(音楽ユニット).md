@@ -1,4 +1,4 @@
-> この記事は[Dos \(\)](https://ja.wikipedia.org/wiki/Dos_\(\))から翻訳されています。
+> この記事は[Dos \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Dos_\(音楽ユニット\))から翻訳されています。
 
 
 **dos**（ディー・オー・エス）は、テレビ番組『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』内のコーナー、「コムロギャルソン」出身の3人組音楽グループ。ユニット名は「**dance of sound**」の略であり、コンセプトは「ダンスと歌を並列に捉えた見る音楽」を志した\[1\]。

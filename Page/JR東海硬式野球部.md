@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東海硬式野球部](https://ja.wikipedia.org/wiki/JR東海硬式野球部)から翻訳されています。
 
 
 **JR東海硬式野球部**（ジェイアールとうかい こうしきやきゅうぶ）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")チームである（練習グラウンドは愛知県[瀬戸市](../Page/瀬戸市.md "wikilink")に所在する。以前は[八事球場（山本球場）が練習会場だった](../Page/JR東海八事球場.md "wikilink")）。
@@ -43,6 +43,7 @@
 
   - [中須賀諭](../Page/中須賀諭.md "wikilink")コーチ
   - [秋葉知一](https://ja.wikipedia.org/wiki/秋葉知一 "wikilink")投手
+  - [伊藤寛士](https://ja.wikipedia.org/wiki/伊藤寛士 "wikilink")\[1\]捕手
 
 ## 元プロ野球選手の競技者登録
 
@@ -65,3 +66,5 @@
   - [JR九州硬式野球部](../Page/JR九州硬式野球部.md "wikilink")
 
 [Category:東海地方の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球チーム "wikilink") [Category:名古屋市の野球チーム](https://ja.wikipedia.org/wiki/Category:名古屋市の野球チーム "wikilink") [Category:東海旅客鉄道](https://ja.wikipedia.org/wiki/Category:東海旅客鉄道 "wikilink") [Category:1921年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1921年設立のスポーツチーム "wikilink")
+
+1.  中日ドラゴンズ・[伊藤康祐](https://ja.wikipedia.org/wiki/伊藤康祐 "wikilink")外野手の兄

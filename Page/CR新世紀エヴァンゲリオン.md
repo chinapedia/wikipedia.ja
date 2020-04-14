@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン)から翻訳されています。
 
 
 『**CR新世紀エヴァンゲリオン**』（CRしんせいきエヴァンゲリオン）は、[ビスティ](../Page/ビスティ.md "wikilink")が製造し、[フィールズが](../Page/フィールズ_\(企業\).md "wikilink")[2004年](../Page/2004年.md "wikilink")12月に発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機である。[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ。

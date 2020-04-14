@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[日本SF新人賞](https://ja.wikipedia.org/wiki/日本SF新人賞)から翻訳されています。
 
 
 **日本SF新人賞**（にほんエスエフしんじんしょう）は、[日本SF作家クラブ](../Page/日本SF作家クラブ.md "wikilink")が主催していた長編[SF小説の新人賞である](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。1999年から2009年まで全11回実施された。

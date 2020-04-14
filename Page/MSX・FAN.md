@@ -1,4 +1,4 @@
-> この記事は[MSXFAN](https://ja.wikipedia.org/wiki/MSXFAN)から翻訳されています。
+> この記事は[MSX・FAN](https://ja.wikipedia.org/wiki/MSX・FAN)から翻訳されています。
 
 
 『**MSX・FAN**』（エムエスエックスファン、略称Mファン）は、かつて[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")（略称TIM 現[徳間書店](../Page/徳間書店.md "wikilink")）が発行していた[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")の専門誌。

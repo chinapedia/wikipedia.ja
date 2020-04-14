@@ -1,4 +1,4 @@
-> この記事は[CTC](https://ja.wikipedia.org/wiki/CTC)から翻訳されています。
+> この記事は[CTCニュース](https://ja.wikipedia.org/wiki/CTCニュース)から翻訳されています。
 
 
 **CTCニュース**（シーティーシー ニュース）は、[千葉テレビにて毎日夕方](../Page/千葉テレビ放送.md "wikilink")18:00 - 18:10\[1\]に放送されていた[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")番組である。

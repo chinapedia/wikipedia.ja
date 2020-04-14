@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gストリング](https://ja.wikipedia.org/wiki/Gストリング)から翻訳されています。
 
 
 **Gストリング**（ジーストリング、）とは、[下着](../Page/下着.md "wikilink")や[水着](../Page/水着.md "wikilink")の一種。

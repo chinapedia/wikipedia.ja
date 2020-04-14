@@ -1,4 +1,4 @@
-> この記事は[LIVE954 !](https://ja.wikipedia.org/wiki/LIVE954_!)から翻訳されています。
+> この記事は[LIVE954 ラジオチルドレン、深夜の逆襲!](https://ja.wikipedia.org/wiki/LIVE954_ラジオチルドレン、深夜の逆襲!)から翻訳されています。
 
 
 **LIVE954 ラジオチルドレン、深夜の逆襲\!**（**ライブきゅうごよん ラジオチルドレン しんやのぎゃくしゅう**）とは、[TBSラジオ](../Page/TBSラジオ.md "wikilink")主催による、[2002年](../Page/2002年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で開催された公開イベントである。

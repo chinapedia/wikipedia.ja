@@ -1,4 +1,4 @@
-> この記事は[ Operation Sanctuary](https://ja.wikipedia.org/wiki/_Operation_Sanctuary)から翻訳されています。
+> この記事は[月は東に日は西に 〜Operation Sanctuary〜](https://ja.wikipedia.org/wiki/月は東に日は西に_〜Operation_Sanctuary〜)から翻訳されています。
 
 
 『**月は東に日は西に 〜Operation Sanctuary〜**』（つきはひがしにひはにしに オペレーション・サンクチュアリ）は、パソコンソフトブランド[オーガストが](../Page/オーガスト_\(ブランド\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売した、[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。タイトルの平仮名のみを拾って「**はにはに**」と略される。
@@ -396,7 +396,7 @@
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 <td><p>2004年<a href="../Page/7月12日.md" title="wikilink">7月12日</a> - <a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
 <td><p>月曜 26:00 - 26:30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系</a><br />

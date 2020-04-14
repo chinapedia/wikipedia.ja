@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本東北硬式野球部](https://ja.wikipedia.org/wiki/JR東日本東北硬式野球部)から翻訳されています。
 
 
 **JR東日本東北硬式野球部**（ジェイアールひがしにほん とうほくこうしきやきゅうぶ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")チームである（合宿所・練習グラウンドは宮城県[宮城郡](../Page/宮城郡.md "wikilink")[利府町](../Page/利府町.md "wikilink")に所在する）。

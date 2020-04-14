@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ザ・ジャッジEX](https://ja.wikipedia.org/wiki/ザ・ジャッジEX)から翻訳されています。
 
 
 『**ザ・ジャッジEX**』（ザ・ジャッジ イーエックス）は、[2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")から同年[12月17日](../Page/12月17日.md "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も[2005年](../Page/2005年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から同年[3月18日](../Page/3月18日.md "wikilink")まで『**ザ・ジャッジEX〜人生を変えた瞬間〜**』と題して放送されていた。全8回＋11回。放送時間は毎週金曜 19:00 - 19:57 （[日本標準時](../Page/日本標準時.md "wikilink")）。

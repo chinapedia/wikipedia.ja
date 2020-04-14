@@ -1,4 +1,4 @@
-> この記事は[Mydo](https://ja.wikipedia.org/wiki/Mydo)から翻訳されています。
+> この記事は[Mydoカード](https://ja.wikipedia.org/wiki/Mydoカード)から翻訳されています。
 
 
 **mydo Card**（**まいどカード**）は、[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")がかつて発行していた現金利用の個人顧客向けの[ポイントカード](https://ja.wikipedia.org/wiki/ポイントサービス "wikilink")。

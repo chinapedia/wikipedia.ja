@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[オールナイトニッポンDX](https://ja.wikipedia.org/wiki/オールナイトニッポンDX)から翻訳されています。
 
 
 **オールナイトニッポンDX**（**オールナイトニッポンデラックス**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていたラジオ番組。
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+  - [KBCラジオ](../Page/KBCラジオ.md "wikilink")
 
 ## 関連項目
 

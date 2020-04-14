@@ -31,11 +31,11 @@
 
 2015年春モデルで従前から[ノートパソコン](../Page/ノートパソコン.md "wikilink")のブランド名として発売されていた「[LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")」がデスクトップ型を含めたすべての個人向けパソコンのブランド名として再定義され\[1\]、2014年秋冬モデルまで発売されていた「VALUESTAR」は「LaVie」に吸収統合され、「98MATE VALUESTAR」から続いた「VALUESTAR」のブランド名は20年で終息した。なお、2015年春モデルから「VALUESTAR」で発売されていたデスクトップ型パソコンは「LAVIE Desk All-in-one（旧「VALUESTAR S」・「VALUESTAR N」）」と「LAVIE Desk Tower（旧「VALUESTAR L」）」にそれぞれブランド・シリーズ名を変えて販売される。
 
-## 　ラインナップ一覧　
+## ラインナップ一覧
 
 [VALUESTARの機種一覧](https://ja.wikipedia.org/wiki/VALUESTARの機種一覧 "wikilink")を参照
 
-## 　関連項目　
+## 関連項目
 
   - [LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")
   - [ValueOne](../Page/ValueOne.md "wikilink")

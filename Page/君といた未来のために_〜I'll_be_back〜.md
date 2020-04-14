@@ -1,4 +1,4 @@
-> この記事は[ I\'ll be back](https://ja.wikipedia.org/wiki/_I\'ll_be_back)から翻訳されています。
+> この記事は[君といた未来のために 〜I\'ll be back〜](https://ja.wikipedia.org/wiki/君といた未来のために_〜I\'ll_be_back〜)から翻訳されています。
 
 
 『**君といた未来のために 〜I'll be back〜**』（きみといたみらいのために アイル・ビー・バック）は、[1999年](../Page/1999年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週土曜日21:00 - 21:54に[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は14.6%。

@@ -1,4 +1,4 @@
-> この記事は[BH](https://ja.wikipedia.org/wiki/BH)から翻訳されています。
+> この記事は[B型H系](https://ja.wikipedia.org/wiki/B型H系)から翻訳されています。
 
 
 『**B型H系**』（ビーがたエッチけい）は、[さんりようこ](../Page/さんりようこ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。[2003年](../Page/2003年.md "wikilink")より『[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』および『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）本誌に[パイロット版](../Page/パイロット版.md "wikilink")が各々数回掲載された後、[2004年](../Page/2004年.md "wikilink")20号より設定をリセットして連載開始、数回の休載を挟みつつ[2011年](../Page/2011年.md "wikilink")10号まで連載された。

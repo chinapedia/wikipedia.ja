@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本硬式野球部](https://ja.wikipedia.org/wiki/JR西日本硬式野球部)から翻訳されています。
 
 
 **JR西日本硬式野球部**（ジェイアールにしにほんこうしきやきゅうぶ）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")チームである。6つあるJR本社チームのうち、唯一本社所在地と本拠地が同一都道府県にないチームである（[JR東日本東北は](../Page/JR東日本東北硬式野球部.md "wikilink")、[JR東日本の営業エリアが広く](../Page/東日本旅客鉄道.md "wikilink")、東北地方で活動していた[鉄道管理局](../Page/鉄道管理局.md "wikilink")チームが多かったことから、他地区と分離の上本社支援としたもの）。

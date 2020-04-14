@@ -9,9 +9,9 @@
 
 「KAL-1」と名づけられた4人乗りの軽飛行機は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に完成した。[7月21日](../Page/7月21日.md "wikilink")に[各務原飛行場で初飛行に成功](https://ja.wikipedia.org/wiki/航空自衛隊岐阜基地 "wikilink")。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に2号機が完成、両機共に耐空審査試験に合格した。両機は川崎の社用機として使用された。
 
-[1954年](../Page/1954年.md "wikilink")（昭和29年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本青年飛行連盟が主催した[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")訪問親善飛行に参加し、[セスナ](../Page/セスナ.md "wikilink")の機体と共に[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")までの飛行に成功した。
+[1954年](../Page/1954年.md "wikilink")（昭和29年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本青年飛行連盟が主催した[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")訪問親善飛行に参加し、[セスナ](../Page/セスナ.md "wikilink")の機体と共に[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")までの飛行に成功した\[1\]。
 
-1号機は昭和29年に[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")へ買い上げられ、連絡機として使用された後に解体された。2号機は川崎の社用機として生涯を終えた後、[1966年](../Page/1966年.md "wikilink")（昭和41年）に[大阪市](../Page/大阪市.md "wikilink")[港区の](../Page/港区_\(大阪市\).md "wikilink")[交通科学博物館](../Page/交通科学博物館.md "wikilink")に引き取られ、展示されていた。[2014年](../Page/2014年.md "wikilink")（平成26年）4月に交通科学博物館が閉鎖されたことにより、2014年12月からは[岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")の[かかみがはら航空宇宙科学博物館](https://ja.wikipedia.org/wiki/かかみがはら航空宇宙科学博物館 "wikilink")に移され、現在はその後身の[岐阜かかみがはら航空宇宙博物館](../Page/岐阜かかみがはら航空宇宙博物館.md "wikilink")に展示されている\[1\]。
+1号機は昭和29年に[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")へ買い上げられ、連絡機として使用された後に解体された\[2\]。2号機は川崎の社用機として生涯を終えた後、[1966年](../Page/1966年.md "wikilink")（昭和41年）に[大阪市](../Page/大阪市.md "wikilink")[港区の](../Page/港区_\(大阪市\).md "wikilink")[交通科学博物館](../Page/交通科学博物館.md "wikilink")に引き取られ、展示されていた。[2014年](../Page/2014年.md "wikilink")（平成26年）4月に交通科学博物館が閉鎖されたことにより、2014年12月からは[岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")の[かかみがはら航空宇宙科学博物館](https://ja.wikipedia.org/wiki/かかみがはら航空宇宙科学博物館 "wikilink")に移され、現在はその後身の[岐阜かかみがはら航空宇宙博物館](../Page/岐阜かかみがはら航空宇宙博物館.md "wikilink")に展示されている\[3\]\[4\]。
 
 ## 設計
 
@@ -19,14 +19,14 @@
 
 ## 諸元
 
-  - 乗員2名/乗客2名
+  - 乗員2名/乗客2名\[5\]
   - 全長 - 9.1m
   - 全幅 - 10.4m
   - 全高 - 2.5m
   - 翼面積 - [m<sup>2</sup>](../Page/平方メートル.md "wikilink")
   - 全備重量 - 1,460kg
-  - エンジン - [ライカミング](https://ja.wikipedia.org/wiki/ライカミング・エンジンズ "wikilink")[GO-435-C2](https://ja.wikipedia.org/wiki/:en:Lycoming_O-435 "wikilink")
-  - 出力 - 260hp
+  - エンジン - [ライカミング](https://ja.wikipedia.org/wiki/ライカミング・エンジンズ "wikilink")[GO-435-C2](https://ja.wikipedia.org/wiki/:en:Lycoming_O-435 "wikilink") 空冷水平対向6気筒
+  - 出力 - 260hp(194kW)
   - 最大速度 - 295km/h=M0.24
   - 航続距離 - 830km
   - 実用上昇限度 - 5,000m
@@ -41,4 +41,8 @@
 
 [Category:日本の試作機](https://ja.wikipedia.org/wiki/Category:日本の試作機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink")
 
-1.  [戦後初の本格国産機「KAL1」、帰郷　大阪から岐阜へ](http://www.asahi.com/articles/ASH1F6X5HH1FPTIL02M.html) - 朝日新聞デジタル2015年1月22日
+1.
+2.
+3.
+4.  [戦後初の本格国産機「KAL1」、帰郷　大阪から岐阜へ](https://web.archive.org/web/20150122015552/https://www.asahi.com/articles/ASH1F6X5HH1FPTIL02M.html) - 朝日新聞デジタル2015年1月22日
+5.

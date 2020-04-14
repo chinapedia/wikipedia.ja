@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ドラ・Q・パーマン](https://ja.wikipedia.org/wiki/ドラ・Q・パーマン)から翻訳されています。
 
 
 <div class="pathnavbox">

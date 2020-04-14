@@ -101,7 +101,7 @@
 
 ### FM東京時代
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")からは[FM東京（現：TOKYO FM）で放送開始](../Page/エフエム東京.md "wikilink")。当初は日曜の19:00〜20:55に放送された。ローカルセールスの形態は取らず、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など全国共通スポンサーが付いてのスタートだったが、各局の編成上の都合から[JFN系列のフルネットではなく](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")、ネット局は11局にとどまった。また、オリジナルの4時間を2時間に編集しての放送だった。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")からは[FM東京（現：TOKYO FM）で放送開始](../Page/エフエム東京.md "wikilink")。当初は日曜の19:00〜20:55に放送された。ローカルセールスの形態は取らず、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など全国共通スポンサーが付いてのスタートだったが、各局の編成上の都合から[JFN系列のフルネットではなく](../Page/全国FM放送協議会.md "wikilink")、ネット局は11局にとどまった。また、オリジナルの4時間を2時間に編集しての放送だった。
 
 この時間帯での放送は6年あまり続いたが、スポンサーの降板に伴い[1993年](../Page/1993年.md "wikilink")4月より時間帯を金曜の深夜1:00に移転。放送時間こそオリジナルと同じ4時間となったものの、ネット局は大幅に減り、[広島FMなどネット局の一部は午前](../Page/広島エフエム放送.md "wikilink")2時ないし3時から「飛び乗る」形で放送した。
 

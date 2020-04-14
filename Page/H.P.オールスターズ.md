@@ -1,4 +1,4 @@
-> この記事は[H.P.](https://ja.wikipedia.org/wiki/H.P.)から翻訳されています。
+> この記事は[H.P.オールスターズ](https://ja.wikipedia.org/wiki/H.P.オールスターズ)から翻訳されています。
 
 
 **H.P.オールスターズ**（ハロー\!プロジェクトオールスターズ）は[2004年](../Page/2004年.md "wikilink")に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の総勢46名によって結成された[オールスター](https://ja.wikipedia.org/wiki/オールスター "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。同年[12月1日](../Page/12月1日.md "wikilink")にミニアルバム『[ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")』を発売した。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV)から翻訳されています。
 
 
 **スペースシャワーTV**（スペースシャワーティーヴィ、）は、株式会社[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が運営している[音楽](../Page/音楽.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。

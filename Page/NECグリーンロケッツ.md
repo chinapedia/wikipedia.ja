@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECグリーンロケッツ](https://ja.wikipedia.org/wiki/NECグリーンロケッツ)から翻訳されています。
 
 
 **NECグリーンロケッツ**(NEC Green Rockets)は、[トップリーグ所属の](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")[日本電気](../Page/日本電気.md "wikilink")（NEC）の[ラグビー](../Page/ラグビー.md "wikilink")フットボールチーム。チーム所在地および練習拠点は[千葉県](../Page/千葉県.md "wikilink")[我孫子市](../Page/我孫子市.md "wikilink")。獲得タイトルは、計5回である。

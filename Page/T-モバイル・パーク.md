@@ -1,4 +1,4 @@
-> この記事は[T-](https://ja.wikipedia.org/wiki/T-)から翻訳されています。
+> この記事は[T-モバイル・パーク](https://ja.wikipedia.org/wiki/T-モバイル・パーク)から翻訳されています。
 
 
 **T-モバイル・パーク**（*T-Mobile Park*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")にある[野球場](../Page/野球場.md "wikilink")である。[MLBの](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")のホーム球場。[バンクワン・ボールパーク（現チェイス・フィールド）に次ぐ世界](../Page/チェイス・フィールド.md "wikilink")2番目の開閉式屋根付き[天然芝の野球場である](../Page/芝.md "wikilink")。

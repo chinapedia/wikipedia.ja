@@ -1,4 +1,4 @@
-> この記事は[DANJI](https://ja.wikipedia.org/wiki/DANJI)から翻訳されています。
+> この記事は[微熱DANJI](https://ja.wikipedia.org/wiki/微熱DANJI)から翻訳されています。
 
 
 **微熱DANJI**（びねつだんじ）は、[氣志團](../Page/氣志團.md "wikilink")の弟分でバックダンサーとしても活躍する、[原宿](../Page/原宿.md "wikilink")生まれ・原宿育ちの3人組[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。[星条旗の](../Page/アメリカ合衆国の国旗.md "wikilink")[タンクトップ](../Page/タンクトップ.md "wikilink")に[デニム](../Page/デニム.md "wikilink")の[ホットパンツ](../Page/ホットパンツ.md "wikilink")という、一度見たら忘れられない強烈なスタイルで活動する。

@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDK硬式野球部](https://ja.wikipedia.org/wiki/TDK硬式野球部)から翻訳されています。
 
 
 **TDK硬式野球部**（ティーディーケイこうしきやきゅうぶ）は、[秋田県](../Page/秋田県.md "wikilink")[にかほ市](../Page/にかほ市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の企業チーム。

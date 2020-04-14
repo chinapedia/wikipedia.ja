@@ -1,4 +1,4 @@
-> この記事は[MiG-23 \(\)](https://ja.wikipedia.org/wiki/MiG-23_\(\))から翻訳されています。
+> この記事は[MiG-23 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-23_\(航空機\))から翻訳されています。
 
 
 **MiG-23**（ミグ23；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：<small>ミーグ・ドヴァーッツァチ・トリー</small>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミグ設計局が開発した](../Page/MiG.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[MiG-21の後継機となり](../Page/MiG-21_\(航空機\).md "wikilink")、[アルチョム・ミコヤンが最期に手がけた機体であった](https://ja.wikipedia.org/wiki/アルテム・ミコヤン "wikilink")。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**フロッガーA/B/E/G/K/C**（Flogger　鞭打ち役人）。

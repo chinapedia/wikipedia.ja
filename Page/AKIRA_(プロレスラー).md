@@ -1,4 +1,4 @@
-> この記事は[AKIRA \(\)](https://ja.wikipedia.org/wiki/AKIRA_\(\))から翻訳されています。
+> この記事は[AKIRA \(プロレスラー\)](https://ja.wikipedia.org/wiki/AKIRA_\(プロレスラー\))から翻訳されています。
 
 
 **AKIRA**（アキラ、[1966年](../Page/1966年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") – ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名：**野上 彰**（のがみ あきら）。プロレスラーとしては[MAKAIに所属](https://ja.wikipedia.org/wiki/魔界_\(イベント\) "wikilink")、俳優としては**アキラノガミ**の名前で[浅井企画](../Page/浅井企画.md "wikilink")に所属している。

@@ -1,4 +1,4 @@
-> この記事は[Hey Hey ](https://ja.wikipedia.org/wiki/Hey_Hey_)から翻訳されています。
+> この記事は[Hey Hey おおきに毎度あり](https://ja.wikipedia.org/wiki/Hey_Hey_おおきに毎度あり)から翻訳されています。
 
 
 「**Hey Hey おおきに毎度あり**」（ヘイ ヘイ おおきにまいどあり）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
@@ -10,11 +10,11 @@
   - CDデビューから丸3年、12枚目のシングルにして初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「泣きたい気持ち」がメンバー出演の[映画](../Page/映画.md "wikilink")『[シュート\!](../Page/シュート!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")、タイトル曲は同挿入歌ともなり、映画と共にヒットした。
   - もともとc/wの「泣きたい気持ち」はメンバーの[中居正広](../Page/中居正広.md "wikilink")のソロ曲だった（『[SMAP 004](../Page/SMAP_004.md "wikilink")』に収録）
   - レコーディング前の打ち合わせで、新曲として「Hey Hey おおきに毎度あり」を受け取った際、メンバー誰もが「ダッセー\!\!」「こんなの売れるかよっ\!\!」と曲に対してかなり否定的だったものの、前述の通り、この曲がSMAP初のオリコンシングルチャート1位を記録。なお、稲垣だけはこの曲を気に入り、ヒットを予想していたという。
-  - メンバー全員にソロパートがある。シングルで6人全員ソロパートがあるのはこの曲のみ。メンバーが5人体勢になってからは森のパートを[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")が担当している。
+  - メンバー全員にソロパートがある。シングルで6人全員ソロパートがあるのはこの曲のみ。メンバーが5人体制になってからは森のパートを[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")が担当している。
 
 ## チャート成績
 
-  - [1994年](../Page/1994年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")付のオリコン週間シングルランキングで、初週12.5万枚を売り上げ、SMAPにとって初めて、初登場1位を獲得した。
+  - [1994年](../Page/1994年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")付のオリコン週間シングルランキングで、初週12.5万枚を売り上げ、SMAPにとって初めて、初登場1位を獲得した。同時にジャニーズ事務所所属のアーティストが1位を獲得するのは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")にリリースされた[光GENJI](../Page/光GENJI.md "wikilink")の『[笑ってよ](https://ja.wikipedia.org/wiki/笑ってよ "wikilink")』以来、実に3年4ヶ月ぶりのこととなった。
   - 累計売上は40.1万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲

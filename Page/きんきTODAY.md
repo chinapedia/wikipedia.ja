@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[きんきTODAY](https://ja.wikipedia.org/wiki/きんきTODAY)から翻訳されています。
 
 
 『**きんきTODAY**』（きんきトゥデイ）は、[1982年](../Page/1982年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[読売テレビで平日](../Page/讀賣テレビ放送.md "wikilink") 18:00 - 18:30 ([JST](../Page/日本標準時.md "wikilink")) に放送された[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局にとっては、平日18時台に初めて編成したローカルワイドニュースであった。

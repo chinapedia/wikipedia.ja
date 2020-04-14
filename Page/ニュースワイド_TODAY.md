@@ -1,4 +1,4 @@
-> この記事は[ TODAY](https://ja.wikipedia.org/wiki/_TODAY)から翻訳されています。
+> この記事は[ニュースワイド TODAY](https://ja.wikipedia.org/wiki/ニュースワイド_TODAY)から翻訳されています。
 
 
 『**ニュースワイド TODAY**』（ニュースワイドトゥデー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までに放送された[読売テレビ平日夕方の](../Page/讀賣テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")[ワイドニュース番組](../Page/報道番組.md "wikilink")、放送時間は18:00-18:30。

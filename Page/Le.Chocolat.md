@@ -19,7 +19,7 @@
   - 2005年[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [あやつりブルマー](https://ja.wikipedia.org/wiki/あやつりブルマー "wikilink")　※製作／HummerHeads
   - 2005年[7月29日](../Page/7月29日.md "wikilink") - [SWAN SONG](../Page/SWAN_SONG.md "wikilink")　※製作／[フライングシャイン](../Page/フライングシャイン.md "wikilink")
   - 2005年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [屋根づたいの君へ](../Page/屋根づたいの君へ.md "wikilink")　※制作／[KLEIN](https://ja.wikipedia.org/wiki/KLEIN_\(ゲームブランド\) "wikilink")
-  - 2005年[12月22日](../Page/12月22日.md "wikilink") - [CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL "wikilink") ※以下、制作・販売／[LiLiM](../Page/LiLiM.md "wikilink")
+  - 2005年[12月22日](../Page/12月22日.md "wikilink") - CANDY GIRL ※以下、制作・販売／[LiLiM](../Page/LiLiM.md "wikilink")
   - [2006年](../Page/2006年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - 鬼道封神記
   - 2006年[9月1日](../Page/9月1日.md "wikilink") - [らぶ+らび](https://ja.wikipedia.org/wiki/らぶ+らび "wikilink")
   - 2006年[12月22日](../Page/12月22日.md "wikilink") - [萌・エ・ロ鬼ィちゃん](https://ja.wikipedia.org/wiki/萌・エ・ロ鬼ィちゃん "wikilink") ※制作／KLEIN
@@ -28,7 +28,6 @@
 
 ## 関連項目
 
-  - [アダルトゲームメーカー一覧](../Page/アダルトゲームメーカー一覧.md "wikilink")
   - [彩文館出版](../Page/彩文館出版.md "wikilink")
   - [LiLiM](../Page/LiLiM.md "wikilink")
   - [Sugar Pot](https://ja.wikipedia.org/wiki/Sugar_Pot "wikilink")

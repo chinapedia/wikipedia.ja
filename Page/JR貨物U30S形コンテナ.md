@@ -1,4 +1,4 @@
-> この記事は[JRU30S](https://ja.wikipedia.org/wiki/JRU30S)から翻訳されています。
+> この記事は[JR貨物U30S形コンテナ](https://ja.wikipedia.org/wiki/JR貨物U30S形コンテナ)から翻訳されています。
 
 
 **U30S形コンテナ**（U30Sがたコンテナ）とは、[1989年](../Page/1989年.md "wikilink")度に登場した、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[有蓋コンテナ](https://ja.wikipedia.org/wiki/有蓋コンテナ "wikilink")）である。[日本フルハーフ](../Page/日本フルハーフ.md "wikilink")で14個(9001 - 9014)製造された。当コンテナを運用できる貨車は[JR貨物チキ100形貨車](https://ja.wikipedia.org/wiki/JR貨物チキ100形貨車 "wikilink")5両のみである。同形式は当コンテナを3個積載することができた。単純に考えれば3個×5両=15個であると思われるが何故か14個の製造であった。チキ100形は[苫小牧駅](../Page/苫小牧駅.md "wikilink") - [相模貨物駅](../Page/相模貨物駅.md "wikilink")間で自動車部品輸送に運用された。その後この輸送は[1996年](../Page/1996年.md "wikilink")（平成8年）に、通常のコンテナ輸送に切り替えられ[運用離脱](https://ja.wikipedia.org/wiki/運用離脱 "wikilink")し[休車](../Page/休車.md "wikilink")となった。当コンテナも同様に用途廃止になった。

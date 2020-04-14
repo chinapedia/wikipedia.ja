@@ -1,4 +1,4 @@
-> この記事は[DIPS \(\)](https://ja.wikipedia.org/wiki/DIPS_\(\))から翻訳されています。
+> この記事は[DIPS \(野球\)](https://ja.wikipedia.org/wiki/DIPS_\(野球\))から翻訳されています。
 
 
 **DIPS**（ディーアイピーエス）はDefense Independent Pitching Statisticsの略で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")でが提唱した、守備の影響とは独立に投手の成績を評価するという概念及びその評価手法である。

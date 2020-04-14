@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wコウジ](https://ja.wikipedia.org/wiki/Wコウジ)から翻訳されています。
 
 
 **Wコウジ**（ダブルコウジ）とは、[今田耕司](../Page/今田耕司.md "wikilink")と[東野幸治](../Page/東野幸治.md "wikilink")の2人がタッグを組んだユニットを示す名称。2人ともピン芸人であり、[コサキン](../Page/コサキン.md "wikilink")同様正式なコンビではない。「**Wコージ**」と記されることもある。

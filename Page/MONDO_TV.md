@@ -83,7 +83,7 @@
   - [Sweet Angel](https://ja.wikipedia.org/wiki/Sweet_Angel "wikilink")
   - [AKB48旅少女](https://ja.wikipedia.org/wiki/AKB48旅少女 "wikilink")
   - [残酷な観客達](https://ja.wikipedia.org/wiki/残酷な観客達 "wikilink")
-  - [達橋本マナミのお背中流しましょうか?](https://ja.wikipedia.org/wiki/達橋本マナミのお背中流しましょうか? "wikilink")
+  - [達橋本マナミのお背中流しましょうか?](https://ja.wikipedia.org/wiki/橋本マナミのお背中流しましょうか? "wikilink")
 
 ### 麻雀
 

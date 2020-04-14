@@ -11,6 +11,8 @@
 
 メンバー全員にソロパートがある。本作から(『[友だちへ〜Say What You Will〜](../Page/友だちへ〜Say_What_You_Will〜.md "wikilink")』と『[弾丸ファイター](../Page/弾丸ファイター.md "wikilink")』を除き)『[Otherside/愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")』まで全員にソロパートが与えられている。
 
+SMAPの単独A面シングルでは初めてカップリング曲が収録されていない。これは2016年に解散するまでSMAPがリリースした単独A面シングル全般を含め唯一である。
+
 本作リリースから1ヵ月後に、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が[駐車違反](https://ja.wikipedia.org/wiki/駐車違反 "wikilink")及び[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")で[逮捕](../Page/逮捕.md "wikilink")されたため、5人で披露された回数は少ない。また、この影響により2001年にSMAPが出したシングルは本作のみとなっている。
 
 本作は通常の水曜日ではなく土曜日のリリースとなっている。

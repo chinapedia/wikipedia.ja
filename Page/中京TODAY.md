@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[中京TODAY](https://ja.wikipedia.org/wiki/中京TODAY)から翻訳されています。
 
 
 『'''中京TODAY '''』（ちゅうきょうトゥディ）は、[1982年](../Page/1982年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[中京テレビで放送された](../Page/中京テレビ放送.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")。

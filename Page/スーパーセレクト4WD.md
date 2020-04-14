@@ -1,4 +1,4 @@
-> この記事は[4WD](https://ja.wikipedia.org/wiki/4WD)から翻訳されています。
+> この記事は[スーパーセレクト4WD](https://ja.wikipedia.org/wiki/スーパーセレクト4WD)から翻訳されています。
 
 
 **スーパーセレクト4（SS4）**は１９９１年から[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が自社製[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")などに採用する[４WD駆動変更システムのこと](../Page/四輪駆動.md "wikilink")。

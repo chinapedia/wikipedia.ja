@@ -24,14 +24,24 @@
 ### 軍用機
 
   - [サーブ 17](../Page/サーブ_17.md "wikilink") - レシプロ単発[爆撃機](../Page/爆撃機.md "wikilink")
+
   - [サーブ 18](https://ja.wikipedia.org/wiki/サーブ_18 "wikilink") - レシプロ双発爆撃機
+
   - [サーブ 21](../Page/サーブ_21.md "wikilink") - レシプロ単発[プッシャー双胴](https://ja.wikipedia.org/wiki/プロペラ機 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")
+
   - サーブ 21R - 21のエンジンを[ターボジェット](https://ja.wikipedia.org/wiki/ターボジェット "wikilink")に換装した戦闘/[攻撃機](../Page/攻撃機.md "wikilink")
+
   - [サーブ 29 トゥンナン](../Page/サーブ_29_トゥンナン.md "wikilink") - ターボジェット単発戦闘/攻撃/[偵察機](../Page/偵察機.md "wikilink")
+
   - [サーブ 32 ランセン](../Page/サーブ_32_ランセン.md "wikilink") - ターボジェット単発攻撃/戦闘/偵察機
+
   - [サーブ 35 ドラケン](../Page/サーブ_35_ドラケン.md "wikilink") - ターボジェット単発戦闘/偵察機
+
   - [サーブ 37 ビゲン](../Page/サーブ_37_ビゲン.md "wikilink") - [ターボファン](https://ja.wikipedia.org/wiki/ターボファン "wikilink")単発戦闘/攻撃/偵察機
+
   - [サーブ 39 グリペン](../Page/サーブ_39_グリペン.md "wikilink") - ターボファン単発戦闘/攻撃/偵察機
+
+  - \- 多用途監視機。[ボンバルディア・エアロスペース](../Page/ボンバルディア・エアロスペース.md "wikilink")社の[グローバル 6000を元に開発](../Page/ボンバルディア_グローバル・エクスプレス.md "wikilink")。
 
 ### 民間機・練習機
 

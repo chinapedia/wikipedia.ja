@@ -1,4 +1,4 @@
-> この記事は[NTT \(\)](https://ja.wikipedia.org/wiki/NTT_\(\))から翻訳されています。
+> この記事は[NTT北海道 \(野球チーム\)](https://ja.wikipedia.org/wiki/NTT北海道_\(野球チーム\))から翻訳されています。
 
 
 **NTT北海道**（エヌティーティーほっかいどう）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟していた[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。に解散した。

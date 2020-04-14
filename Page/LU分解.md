@@ -1,4 +1,4 @@
-> この記事は[LU](https://ja.wikipedia.org/wiki/LU)から翻訳されています。
+> この記事は[LU分解](https://ja.wikipedia.org/wiki/LU分解)から翻訳されています。
 
 
 [数学](../Page/数学.md "wikilink")における行列の**LU分解**（エルユーぶんかい、）とは、[正方行列](../Page/正方行列.md "wikilink") *A* を[下三角行列](https://ja.wikipedia.org/wiki/三角行列 "wikilink") *L* と[上三角行列](https://ja.wikipedia.org/wiki/三角行列 "wikilink") *U* の積に分解すること。すなわち *A* = *LU* が成立するような *L* と *U* を求めることをいう。

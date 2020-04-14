@@ -1,4 +1,4 @@
-> この記事は[BiVi](https://ja.wikipedia.org/wiki/BiVi)から翻訳されています。
+> この記事は[BiVi仙台駅東口](https://ja.wikipedia.org/wiki/BiVi仙台駅東口)から翻訳されています。
 
 
 **BiVi仙台駅東口**（ビビせんだいえきひがしぐち）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[仙台駅](../Page/仙台駅.md "wikilink")東口広場の北側にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Ka](https://ja.wikipedia.org/wiki/Ka)から翻訳されています。
+> この記事は[フォード・Ka](https://ja.wikipedia.org/wiki/フォード・Ka)から翻訳されています。
 
 
 **フォード・Ka** （フォード・カー） は、欧州[フォードが開発](../Page/フォード・モーター.md "wikilink")、製造する[コンパクトカー](../Page/コンパクトカー.md "wikilink")である。

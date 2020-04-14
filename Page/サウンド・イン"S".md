@@ -1,7 +1,7 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[サウンド・インS](https://ja.wikipedia.org/wiki/サウンド・インS)から翻訳されています。
 
 
-『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（現・[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
+『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（[服部時計店](../Page/服部時計店.md "wikilink")、後の[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
 
 ## 概要
 

@@ -1,4 +1,4 @@
-> この記事は[POP4](https://ja.wikipedia.org/wiki/POP4)から翻訳されています。
+> この記事は[仲谷一志のPOP4](https://ja.wikipedia.org/wiki/仲谷一志のPOP4)から翻訳されています。
 
 
 **仲谷一志のPOP4**（なかたにひとしのポップフォー）は[2004年](../Page/2004年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から2006年9月まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されたバラエティ番組である。開始当時は**仲谷一志のPOP3**だった。

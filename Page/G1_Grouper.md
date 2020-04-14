@@ -1,7 +1,7 @@
 > この記事は[G1 Grouper](https://ja.wikipedia.org/wiki/G1_Grouper)から翻訳されています。
 
 
-**G1 Grouper**（**ジーワングルーパー**）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系列向けに放送された](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は、毎週月曜日から木曜日の25:00 - 27:00（[JST](../Page/日本標準時.md "wikilink")、火曜日～金曜日未明の1:00 - 3:00）。
+**G1 Grouper**（**ジーワングルーパー**）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系列向けに放送された](../Page/全国FM放送協議会.md "wikilink")[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は、毎週月曜日から木曜日の25:00 - 27:00（[JST](../Page/日本標準時.md "wikilink")、火曜日～金曜日未明の1:00 - 3:00）。
 
 ## 概要
 

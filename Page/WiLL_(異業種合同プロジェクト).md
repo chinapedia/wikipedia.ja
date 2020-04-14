@@ -1,4 +1,4 @@
-> この記事は[WiLL \(\)](https://ja.wikipedia.org/wiki/WiLL_\(\))から翻訳されています。
+> この記事は[WiLL \(異業種合同プロジェクト\)](https://ja.wikipedia.org/wiki/WiLL_\(異業種合同プロジェクト\))から翻訳されています。
 
 
 **WiLL**（ウィル）は、[1999年](../Page/1999年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にかけて行われた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の異業種による合同プロジェクト名である。商品の全てが「WiLL」の[ブランド](../Page/ブランド.md "wikilink")名とオレンジ色のロゴで統一されていた。

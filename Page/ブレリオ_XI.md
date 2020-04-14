@@ -1,4 +1,4 @@
-> この記事は[ XI](https://ja.wikipedia.org/wiki/_XI)から翻訳されています。
+> この記事は[ブレリオ XI](https://ja.wikipedia.org/wiki/ブレリオ_XI)から翻訳されています。
 
 
 [3b40731r.jpg](https://ja.wikipedia.org/wiki/File:3b40731r.jpg "fig:3b40731r.jpg") [Bleriot_XI_Replika.jpg](https://ja.wikipedia.org/wiki/File:Bleriot_XI_Replika.jpg "fig:Bleriot_XI_Replika.jpg") **ブレリオ XI**([フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"):****)は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の初期の[航空機](../Page/航空機.md "wikilink")。

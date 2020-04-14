@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCニュース](https://ja.wikipedia.org/wiki/BBCニュース)から翻訳されています。
 
 
 **BBC News and Current Affairs**（**ビービーシー ニューズ**、略称：*BBC NCA*）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）が制作する[報道番組](../Page/報道番組.md "wikilink")の総称、あるいはそのニュース制作部門を指す。概ね『**BBC NEWS**』という表題で放送する。なお、同一の略称を採用している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[びわ湖放送](../Page/びわ湖放送.md "wikilink")の報道番組『[BBCニュース](https://ja.wikipedia.org/wiki/BBCニュース_\(びわ湖放送\) "wikilink")』とは無関係である。

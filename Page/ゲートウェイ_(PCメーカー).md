@@ -1,4 +1,4 @@
-> この記事は[ \(PC\)](https://ja.wikipedia.org/wiki/_\(PC\))から翻訳されています。
+> この記事は[ゲートウェイ \(PCメーカー\)](https://ja.wikipedia.org/wiki/ゲートウェイ_\(PCメーカー\))から翻訳されています。
 
 
 **ゲートウェイ**（Gateway, Inc.,[NYSE](../Page/ニューヨーク証券取引所.md "wikilink"):[GTW](http://www.nyse.com/about/listed/lcddata.html?ticker=GTW)） は、[中華民国](../Page/中華民国.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）の[パソコンメーカー](../Page/パーソナルコンピュータ.md "wikilink")[エイサーの](../Page/エイサー_\(企業\).md "wikilink")[ブランド](../Page/ブランド.md "wikilink")名。

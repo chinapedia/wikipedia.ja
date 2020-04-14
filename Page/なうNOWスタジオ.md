@@ -1,4 +1,4 @@
-> この記事は[NOW](https://ja.wikipedia.org/wiki/NOW)から翻訳されています。
+> この記事は[なうNOWスタジオ](https://ja.wikipedia.org/wiki/なうNOWスタジオ)から翻訳されています。
 
 
 **なうNOWスタジオ**（**なうナウスタジオ**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で以前に放送していたお昼の[ワイドショー](../Page/ワイドショー.md "wikilink")[番組](../Page/テレビ番組.md "wikilink")。

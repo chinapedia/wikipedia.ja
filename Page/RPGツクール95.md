@@ -1,4 +1,4 @@
-> この記事は[RPG95](https://ja.wikipedia.org/wiki/RPG95)から翻訳されています。
+> この記事は[RPGツクール95](https://ja.wikipedia.org/wiki/RPGツクール95)から翻訳されています。
 
 
 『**RPGツクール95**』（アールピージーツクールきゅうじゅうご）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[アスキーから発売されていた](../Page/アスキー_\(企業\).md "wikilink")[RPG制作](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ソフトウェア.md "wikilink")。ここでは後に発売された廉価版である『**RPGツクール95 VALUE\!**』も合わせて解説する。

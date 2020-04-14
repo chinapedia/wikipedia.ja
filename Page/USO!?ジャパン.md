@@ -1,4 +1,4 @@
-> この記事は[USO!\?](https://ja.wikipedia.org/wiki/USO!\?)から翻訳されています。
+> この記事は[USO!\?ジャパン](https://ja.wikipedia.org/wiki/USO!\?ジャパン)から翻訳されています。
 
 
 『**USO\!?ジャパン**』（ユーエスオー\!?ジャパン）は、[TBS系列で放送されていた](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JRUT10C](https://ja.wikipedia.org/wiki/JRUT10C)から翻訳されています。
+> この記事は[JR貨物UT10C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT10C形コンテナ)から翻訳されています。
 
 
 **UT10C形コンテナ**（UT10Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft級](../Page/フィート.md "wikilink")・内容積10[m<sup>3</sup>の危険品輸送向け](../Page/立方メートル.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である\[1\]。

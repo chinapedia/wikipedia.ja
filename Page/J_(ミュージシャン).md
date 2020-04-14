@@ -1,4 +1,4 @@
-> この記事は[J \(\)](https://ja.wikipedia.org/wiki/J_\(\))から翻訳されています。
+> この記事は[J \(ミュージシャン\)](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\))から翻訳されています。
 
 
 **J**（ジェイ、[1970年](../Page/1970年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。本名：**小野瀬 潤**（おのせ じゅん）。身長180cm。血液型はAB型。[神奈川県立大秦野高等学校](../Page/神奈川県立大秦野高等学校.md "wikilink")卒業。[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")にしてロックミュージシャン。既婚。

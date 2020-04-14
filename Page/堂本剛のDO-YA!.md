@@ -1,4 +1,4 @@
-> この記事は[DO-YA!](https://ja.wikipedia.org/wiki/DO-YA!)から翻訳されています。
+> この記事は[堂本剛のDO-YA!](https://ja.wikipedia.org/wiki/堂本剛のDO-YA!)から翻訳されています。
 
 
 『**堂本剛のDO-YA\!**』（どうもとつよしのドヤ）は、一部[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[朝日放送](../Page/朝日放送テレビ.md "wikilink")（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")）製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。製作局の朝日放送では[1996年](../Page/1996年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで、毎週[火曜](../Page/火曜日.md "wikilink") 24:37 - 25:37に放送。後番組の『[SHOW-NEN J](../Page/SHOW-NEN_J.md "wikilink")』との間に[特別番組](../Page/特別番組.md "wikilink")（[つなぎ番組](../Page/つなぎ番組.md "wikilink")）として『**堂本剛のDO-YA\!秋のJr.スペシャル**』が4回放送され、オープニングでは[堂本剛](../Page/堂本剛.md "wikilink")の録画コメントがモニター挿入された。

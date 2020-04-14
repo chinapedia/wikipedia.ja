@@ -1,4 +1,4 @@
-> この記事は[e](https://ja.wikipedia.org/wiki/e)から翻訳されています。
+> この記事は[かんさいeスクエア](https://ja.wikipedia.org/wiki/かんさいeスクエア)から翻訳されています。
 
 
 『**かんさいeスクエア**』（かんさい いースクエア）は、2003年度から2008年度まで[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")2府4県の[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")で放送されていた[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")製作の音楽リクエスト番組である。

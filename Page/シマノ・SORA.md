@@ -1,4 +1,4 @@
-> この記事は[SORA](https://ja.wikipedia.org/wiki/SORA)から翻訳されています。
+> この記事は[シマノ・SORA](https://ja.wikipedia.org/wiki/シマノ・SORA)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shimano_Sora_RD-3400.JPG "wikilink") **SORA**（ソラ）は、[シマノ](../Page/シマノ.md "wikilink")が作る[ロードバイク](../Page/ロードバイク.md "wikilink")用[コンポーネント](../Page/コンポーネント_\(自転車\).md "wikilink")。[デュラエース](../Page/シマノ・デュラエース.md "wikilink")、[アルテグラ](../Page/シマノ・アルテグラ.md "wikilink")、[105](../Page/シマノ・105.md "wikilink")、[ティアグラに次ぐ上から](../Page/シマノ・ティアグラ.md "wikilink")5番目のグレード。[Clarisの上位に当たり](https://ja.wikipedia.org/wiki/シマノ・Claris "wikilink")、定価10万円程度の入門用スポーツバイクの完成車に取り付けられて販売されていることが多い。

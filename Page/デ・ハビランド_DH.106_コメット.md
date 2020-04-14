@@ -1,4 +1,4 @@
-> この記事は[ DH.106 ](https://ja.wikipedia.org/wiki/_DH.106_)から翻訳されています。
+> この記事は[デ・ハビランド DH.106 コメット](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.106_コメット)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=デ・ハビランド DH.106 コメット | 画像=<File:Comet> 4.jpg | キャプション=英国海外航空のDH.106 コメットIV | 用途=[旅客機](../Page/旅客機.md "wikilink")、[軍用機](../Page/軍用機.md "wikilink") | 分類=第1世代ジェット旅客機 | 設計者= | 製造者=[デ・ハビランド・エアクラフト](../Page/デ・ハビランド・エアクラフト.md "wikilink") | 運用者 more=:

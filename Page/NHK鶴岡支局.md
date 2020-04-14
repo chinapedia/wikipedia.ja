@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK鶴岡支局](https://ja.wikipedia.org/wiki/NHK鶴岡支局)から翻訳されています。
 
 
 [NHK_Tsuruoka_Station.JPG](https://ja.wikipedia.org/wiki/File:NHK_Tsuruoka_Station.JPG "fig:NHK_Tsuruoka_Station.JPG") **NHK鶴岡支局**（エヌエイチケイつるおかしきょく）は[山形県](../Page/山形県.md "wikilink")[鶴岡市](../Page/鶴岡市.md "wikilink")に所在する、[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")の支局。

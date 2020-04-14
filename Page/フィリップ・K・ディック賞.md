@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[フィリップ・K・ディック賞](https://ja.wikipedia.org/wiki/フィリップ・K・ディック賞)から翻訳されています。
 
 
 **フィリップ・K・ディック賞**（フィリップ・K・ディックしょう、The Philip K. Dick Award）は、[SF作家](../Page/SF作家.md "wikilink")[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")が1982年に死去したことから、翌[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に故人を記念して創設されたSFの[文学賞](../Page/文学賞.md "wikilink")である。**フィラデルフィアSFソサエティ**（[en](https://ja.wikipedia.org/wiki/:en:Philadelphia_Science_Fiction_Society "wikilink")）が運営している。

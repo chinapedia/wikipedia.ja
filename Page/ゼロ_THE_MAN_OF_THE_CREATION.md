@@ -1,4 +1,4 @@
-> この記事は[ THE MAN OF THE CREATION](https://ja.wikipedia.org/wiki/_THE_MAN_OF_THE_CREATION)から翻訳されています。
+> この記事は[ゼロ THE MAN OF THE CREATION](https://ja.wikipedia.org/wiki/ゼロ_THE_MAN_OF_THE_CREATION)から翻訳されています。
 
 
 『**ゼロ THE MAN OF THE CREATION**』（ゼロ ザ マン オブ ザ クリエイション）は、原作：[愛英史](../Page/遠崎史朗.md "wikilink")、絵：[里見桂](../Page/里見桂.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
@@ -905,4 +905,4 @@
 
   - [ファウスト (漫画)](https://ja.wikipedia.org/wiki/ファウスト_\(漫画\) "wikilink") - 里見が本作の終了後、『[グランドジャンプPREMIUM](https://ja.wikipedia.org/wiki/グランドジャンプPREMIUM "wikilink")』（集英社）に連載した作品。最終話にゼロが登場する。
 
-[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:里見桂](https://ja.wikipedia.org/wiki/Category:里見桂 "wikilink") [Category:遠崎史朗](https://ja.wikipedia.org/wiki/Category:遠崎史朗 "wikilink") [Category:美術を題材とした作品](https://ja.wikipedia.org/wiki/Category:美術を題材とした作品 "wikilink") [Category:芸術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸術を題材とした漫画作品 "wikilink")
+[Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:里見桂](https://ja.wikipedia.org/wiki/Category:里見桂 "wikilink") [Category:遠崎史朗](https://ja.wikipedia.org/wiki/Category:遠崎史朗 "wikilink") [Category:美術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:美術を題材とした漫画作品 "wikilink") [Category:芸術を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:芸術を題材とした漫画作品 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ DH.83 ](https://ja.wikipedia.org/wiki/_DH.83_)から翻訳されています。
+> この記事は[デ・ハビランド DH.83 フォックス・モス](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.83_フォックス・モス)から翻訳されています。
 
 
 [Dh.foxmoth.750pix.jpg](https://ja.wikipedia.org/wiki/File:Dh.foxmoth.750pix.jpg "fig:Dh.foxmoth.750pix.jpg") [デ・ハビランド](../Page/デ・ハビランド・エアクラフト.md "wikilink") **DH.83 フォックス・モス** (de Havilland DH.83 Fox Moth) は[1930年代](../Page/1930年代.md "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の複葉の軽[旅客機](../Page/旅客機.md "wikilink")である。

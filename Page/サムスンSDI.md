@@ -1,4 +1,4 @@
-> この記事は[SDI](https://ja.wikipedia.org/wiki/SDI)から翻訳されています。
+> この記事は[サムスンSDI](https://ja.wikipedia.org/wiki/サムスンSDI)から翻訳されています。
 
 
 **サムスンSDI**（Samsung SDI）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の大手[電機](https://ja.wikipedia.org/wiki/電機 "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")で、[サムスングループ](../Page/サムスングループ.md "wikilink")に属する。太陽電池、燃料電池、電気自動車等輸送用バッテリー、電力貯蔵用大容量ストレージなどを製造販売する。

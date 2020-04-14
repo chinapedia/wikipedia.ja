@@ -1,4 +1,4 @@
-> この記事は[HOME J](https://ja.wikipedia.org/wiki/HOME_J)から翻訳されています。
+> この記事は[HOME Jステーション](https://ja.wikipedia.org/wiki/HOME_Jステーション)から翻訳されています。
 
 
 『**HOME Jステーション**』（ホーム ジェイステーション）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")まで[生放送](../Page/生放送.md "wikilink")されていた夕方の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である（毎週月曜 - 金曜16:49 - 18:56）。新聞などでは「**Jステーション**」と表記されることが多く、略称に「**Jステ**」がよく用いられる。

@@ -1012,7 +1012,7 @@ BTRA-0007:通常盤</p></td>
   - [Baby Booオフィシャルサイト](http://www.boobooboo.net/)
 
   -
-  - [Baby Booオフィシャルブログ](http://ameblo.jp/babyboo-blog/)
+  - [Baby Booオフィシャルブログ](https://ameblo.jp/babyboo-blog/)
 
 <!-- end list -->
 

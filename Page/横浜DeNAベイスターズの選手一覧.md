@@ -1,4 +1,4 @@
-> この記事は[DeNA](https://ja.wikipedia.org/wiki/DeNA)から翻訳されています。
+> この記事は[横浜DeNAベイスターズの選手一覧](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズの選手一覧)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -86,7 +86,7 @@
 | 046 | [田中健二朗](../Page/田中健二朗.md "wikilink")                                | 左 | 左 | 育成選手        |
 | 100 | [宮城滝太](https://ja.wikipedia.org/wiki/宮城滝太 "wikilink")               | 右 | 右 | 育成選手        |
 | 107 | [レミー・コルデロ](https://ja.wikipedia.org/wiki/レミー・コルデロ "wikilink")       | 左 | 左 | 育成選手        |
-| 109 | [ジョフレック・ディアス](https://ja.wikipedia.org/wiki/ジョフレック・ディアス "wikilink") | 左 | 左 | 育成選手・新外国人   |
+| 109 | [ジョフレック・ディアス](../Page/ジョフレック・ディアス.md "wikilink")                    | 左 | 左 | 育成選手・新外国人   |
 
 ### 捕手
 
@@ -121,7 +121,7 @@
 | 60  | [知野直人](https://ja.wikipedia.org/wiki/知野直人 "wikilink")               | 右 | 右 |             |
 | 64  | [百瀬大騎](https://ja.wikipedia.org/wiki/百瀬大騎 "wikilink")               | 右 | 左 |             |
 | 99  | [ネフタリ・ソト](https://ja.wikipedia.org/wiki/ネフタリ・ソト "wikilink")         | 右 | 右 |             |
-| 108 | [フランディー・デラロサ](https://ja.wikipedia.org/wiki/フランディー・デラロサ "wikilink") | 右 | 両 | 育成選手・新外国人   |
+| 108 | [フランディー・デラロサ](../Page/フランディー・デラロサ.md "wikilink")                    | 右 | 両 | 育成選手・新外国人   |
 
 ### 外野手
 

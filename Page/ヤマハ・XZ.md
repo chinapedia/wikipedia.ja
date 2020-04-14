@@ -1,4 +1,4 @@
-> この記事は[XZ](https://ja.wikipedia.org/wiki/XZ)から翻訳されています。
+> この記事は[ヤマハ・XZ](https://ja.wikipedia.org/wiki/ヤマハ・XZ)から翻訳されています。
 
 
 **ヤマハ・XZ**（エックスゼット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オートバイメーカー](https://ja.wikipedia.org/wiki/オートバイメーカー "wikilink")である[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。

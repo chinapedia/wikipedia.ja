@@ -1,4 +1,4 @@
-> この記事は[2005SUPER GT](https://ja.wikipedia.org/wiki/2005SUPER_GT)から翻訳されています。
+> この記事は[2005年のSUPER GT](https://ja.wikipedia.org/wiki/2005年のSUPER_GT)から翻訳されています。
 
 
 **2005年の[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")**は、[2005年](../Page/2005年.md "wikilink")3月26・27日に[岡山国際サーキット](../Page/岡山国際サーキット.md "wikilink")で開幕し、11月5・6日に[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")で閉幕した全8戦のシリーズである。

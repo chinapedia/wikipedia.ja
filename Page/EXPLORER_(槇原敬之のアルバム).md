@@ -1,4 +1,4 @@
-> この記事は[EXPLORER \(\)](https://ja.wikipedia.org/wiki/EXPLORER_\(\))から翻訳されています。
+> この記事は[EXPLORER \(槇原敬之のアルバム\)](https://ja.wikipedia.org/wiki/EXPLORER_\(槇原敬之のアルバム\))から翻訳されています。
 
 
 『**EXPLORER**』（エクスプローラー）は、[槇原敬之](../Page/槇原敬之.md "wikilink")の12枚目（Makihara名義を含めると13枚目）の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。

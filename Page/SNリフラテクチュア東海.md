@@ -1,4 +1,4 @@
-> この記事は[SN](https://ja.wikipedia.org/wiki/SN)から翻訳されています。
+> この記事は[SNリフラテクチュア東海](https://ja.wikipedia.org/wiki/SNリフラテクチュア東海)から翻訳されています。
 
 
 **株式会社SNリフラテクチュア東海**（えすえぬリフラテクチュアとうかい、*SN Refratecture Tokai Co., Ltd.* 、**SNRT**）は[製鉄所](../Page/製鉄所.md "wikilink")で使用される[連続鋳造](../Page/連続鋳造.md "wikilink")用の[耐火物](../Page/耐火物.md "wikilink")メーカーであり、[黒崎播磨](../Page/黒崎播磨.md "wikilink")の[子会社](../Page/子会社.md "wikilink")である。

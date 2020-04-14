@@ -1,4 +1,4 @@
-> この記事は[SINGLES \(T-BOLAN\)](https://ja.wikipedia.org/wiki/SINGLES_\(T-BOLAN\))から翻訳されています。
+> この記事は[SINGLES \(T-BOLANのアルバム\)](https://ja.wikipedia.org/wiki/SINGLES_\(T-BOLANのアルバム\))から翻訳されています。
 
 
 『**SINGLES**』（シングルス）は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")発売。発売元は[ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")。

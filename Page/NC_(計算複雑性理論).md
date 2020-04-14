@@ -1,4 +1,4 @@
-> この記事は[NC \(\)](https://ja.wikipedia.org/wiki/NC_\(\))から翻訳されています。
+> この記事は[NC \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/NC_\(計算複雑性理論\))から翻訳されています。
 
 
 [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")において、**NC**（Nick's Class）とは多項式個数のプロセッサで構成される[並列計算機で](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")，問題サイズの対数について多項式時間で解ける[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")である。換言すれば、**NC** に属する問題は、O(*n*<sup>*k*</sup>)個の並列プロセッサを使って O((log *n*)<sup>*c*</sup>) の時間で解ける（*c* と *k* は定数）。"Nick's Class" という用語は[スティーブン・クック](../Page/スティーブン・クック.md "wikilink")の造語で、計算機科学者 Nick Pippenger にちなんでいる。

@@ -45,5 +45,6 @@
 ## 外部リンク
 
   - [スーリージャパン](http://www.thule.com/ja-JP/JP/)
+  - [THULE（スーリー）正規販売元 | ゼット株式会社](https://zett.jp/thule/)
 
 [Category:スウェーデンの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:スウェーデンの工業製品メーカー "wikilink") [Category:カー用品](https://ja.wikipedia.org/wiki/Category:カー用品 "wikilink") [Category:ストックホルム証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:ストックホルム証券取引所上場企業 "wikilink") [Category:スウェーデンのブランド](https://ja.wikipedia.org/wiki/Category:スウェーデンのブランド "wikilink") [Category:1942年設立の企業](https://ja.wikipedia.org/wiki/Category:1942年設立の企業 "wikilink")

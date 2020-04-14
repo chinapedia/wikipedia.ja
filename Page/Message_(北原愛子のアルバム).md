@@ -1,4 +1,4 @@
-> この記事は[Message \(\)](https://ja.wikipedia.org/wiki/Message_\(\))から翻訳されています。
+> この記事は[Message \(北原愛子のアルバム\)](https://ja.wikipedia.org/wiki/Message_\(北原愛子のアルバム\))から翻訳されています。
 
 
 『**Message**』（メッセージ）は、[北原愛子](../Page/北原愛子.md "wikilink")の2ndアルバム。

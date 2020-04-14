@@ -1,4 +1,4 @@
-> この記事は[ NARUTO -- ](https://ja.wikipedia.org/wiki/_NARUTO_--_)から翻訳されています。
+> この記事は[劇場版 NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_疾風伝)から翻訳されています。
 
 
 『**劇場版 NARUTO -ナルト- 疾風伝**』（げきじょうばん ナルト しっぷうでん）は、[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で公開された、漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版に当たる](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")[アニメーション映画](../Page/アニメーション映画.md "wikilink")。アニメ第2期の劇場版としてはこれが第1作目である。

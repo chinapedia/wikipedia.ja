@@ -1,4 +1,4 @@
-> この記事は[RIN \(\)](https://ja.wikipedia.org/wiki/RIN_\(\))から翻訳されています。
+> この記事は[RIN \(新井英樹\)](https://ja.wikipedia.org/wiki/RIN_\(新井英樹\))から翻訳されています。
 
 
 『**RIN**』（リン）は、[新井英樹](../Page/新井英樹.md "wikilink")による、[ボクシング](../Page/ボクシング.md "wikilink")を題材とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[SUGAR](../Page/シュガー_\(漫画\).md "wikilink")』の続編にあたる。

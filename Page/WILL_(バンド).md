@@ -1,4 +1,4 @@
-> この記事は[WILL \(\)](https://ja.wikipedia.org/wiki/WILL_\(\))から翻訳されています。
+> この記事は[WILL \(バンド\)](https://ja.wikipedia.org/wiki/WILL_\(バンド\))から翻訳されています。
 
 
 **WILL**（ウィル）は男性2人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。マネジメントはメンバーの[山田わたる](../Page/山田亘.md "wikilink")（[FENCE OF DEFENSEのメンバーでもある](../Page/FENCE_OF_DEFENSE.md "wikilink")）が役員を務める[チーム・アクティブ](https://ja.wikipedia.org/wiki/チーム・アクティブ "wikilink")が担当している。

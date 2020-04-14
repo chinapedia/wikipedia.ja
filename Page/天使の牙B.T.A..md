@@ -1,4 +1,4 @@
-> この記事は[B.T.A.](https://ja.wikipedia.org/wiki/B.T.A.)から翻訳されています。
+> この記事は[天使の牙B.T.A.](https://ja.wikipedia.org/wiki/天使の牙B.T.A.)から翻訳されています。
 
 
 『'''天使の牙B.T.A. '''』は、2003年公開の日本映画。[大沢在昌](../Page/大沢在昌.md "wikilink")の小説『[天使の牙](https://ja.wikipedia.org/wiki/天使の牙 "wikilink")』を映画化したハードボイルド作品である。

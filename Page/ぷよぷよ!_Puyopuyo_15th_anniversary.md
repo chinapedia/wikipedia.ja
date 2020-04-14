@@ -1,4 +1,4 @@
-> この記事は[! Puyopuyo 15th anniversary](https://ja.wikipedia.org/wiki/!_Puyopuyo_15th_anniversary)から翻訳されています。
+> この記事は[ぷよぷよ! Puyopuyo 15th anniversary](https://ja.wikipedia.org/wiki/ぷよぷよ!_Puyopuyo_15th_anniversary)から翻訳されています。
 
 
 『**ぷよぷよ\! Puyopuyo 15th anniversary**』（ぷよぷよ ぷよぷよフィフティーンス アニバーサリー）は、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）より発売された[落ち物パズル](../Page/落ち物パズル.md "wikilink")『[ぷよぷよ](../Page/ぷよぷよ.md "wikilink")』シリーズの15周年記念作品。[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版が発売され、後に他機種へも移植された。

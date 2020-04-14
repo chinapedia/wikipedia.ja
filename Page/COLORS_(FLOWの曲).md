@@ -1,4 +1,4 @@
-> この記事は[COLORS \(FLOW\)](https://ja.wikipedia.org/wiki/COLORS_\(FLOW\))から翻訳されています。
+> この記事は[COLORS \(FLOWの曲\)](https://ja.wikipedia.org/wiki/COLORS_\(FLOWの曲\))から翻訳されています。
 
 
 「**COLORS**」（カラーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")の楽曲で、メジャー11枚目（通算15枚目）の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")に[Ki/oon Recordsから発売](../Page/キューンミュージック.md "wikilink")。前作「[Around the world/KANDATA](https://ja.wikipedia.org/wiki/Around_the_world/KANDATA "wikilink")」から約2ヶ月ぶりのリリースで、2006年第3弾シングル。
@@ -71,7 +71,7 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : FLOW : COLORS](http://www.sonymusic.co.jp/Music/Arch/KS/Flow/?KSCL-1067)
+  - [Sony Music Online Japan : FLOW : COLORS](https://www.sonymusic.co.jp/artist/Flow/discography/KSCL-1067)
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:コードギアスの音楽](https://ja.wikipedia.org/wiki/Category:コードギアスの音楽 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:嬰イ短調](https://ja.wikipedia.org/wiki/Category:嬰イ短調 "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 

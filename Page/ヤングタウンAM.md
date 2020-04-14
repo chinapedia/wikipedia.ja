@@ -1,4 +1,4 @@
-> この記事は[AM](https://ja.wikipedia.org/wiki/AM)から翻訳されています。
+> この記事は[ヤングタウンAM](https://ja.wikipedia.org/wiki/ヤングタウンAM)から翻訳されています。
 
 
 **ヤングタウンAM**は、[1975年](../Page/1975年.md "wikilink")4月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月まで[文化放送](../Page/文化放送.md "wikilink")の制作により、火曜 - 日曜 00:00 - 01:00に[NRN加盟各社へ](../Page/全国ラジオネットワーク.md "wikilink")[裏送り](../Page/裏送り.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。同枠の後番組は、『[ミュージックステーション](../Page/ミュージックステーション_\(文化放送\).md "wikilink")』。

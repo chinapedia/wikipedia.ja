@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKヴァルテクス・ヴァラジュディン](https://ja.wikipedia.org/wiki/NKヴァルテクス・ヴァラジュディン)から翻訳されています。
 
 
 **ノゴメトニ・クルブ・ヴァルテクス・ヴァラジュディン**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[ヴァラジュディン](https://ja.wikipedia.org/wiki/ヴァラジュディン "wikilink")を本拠地とするサッカークラブである。

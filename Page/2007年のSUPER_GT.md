@@ -1,4 +1,4 @@
-> この記事は[2007SUPER GT](https://ja.wikipedia.org/wiki/2007SUPER_GT)から翻訳されています。
+> この記事は[2007年のSUPER GT](https://ja.wikipedia.org/wiki/2007年のSUPER_GT)から翻訳されています。
 
 
 **2007年の[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")**は、[2007年](../Page/2007年.md "wikilink")3月17・18日に[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")で開幕し、11月3・4日に[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")で閉幕した全9戦のシリーズである。最終戦は、[JGTC時代から数えて通算](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")100戦目\[1\]となった。

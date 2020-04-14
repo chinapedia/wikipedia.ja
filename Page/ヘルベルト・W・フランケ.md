@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ヘルベルト・W・フランケ](https://ja.wikipedia.org/wiki/ヘルベルト・W・フランケ)から翻訳されています。
 
 
 **ヘルベルト・W・フランケ**（Herbert W. Franke, [1927年](../Page/1927年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は、[オーストリア](../Page/オーストリア.md "wikilink")・[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")生まれの作家。[ドイツ語](../Page/ドイツ語.md "wikilink")で[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")を発表しているほか、[未来学](../Page/未来学.md "wikilink")、[洞穴学](../Page/洞穴学.md "wikilink")、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")、[デジタルアート](../Page/デジタルアート.md "wikilink")の分野でも活発に活動している。

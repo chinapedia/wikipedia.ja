@@ -1,4 +1,4 @@
-> この記事は[ICD](https://ja.wikipedia.org/wiki/ICD)から翻訳されています。
+> この記事は[ソニー・ICDシリーズ](https://ja.wikipedia.org/wiki/ソニー・ICDシリーズ)から翻訳されています。
 
 
 **ICD**は、[ソニー](../Page/ソニー.md "wikilink")が開発・販売している[ICレコーダー](../Page/ICレコーダー.md "wikilink")の製品型番である。シリーズ展開当初より「***IC RECORDER***」のシリーズ名を用いている。

@@ -1,4 +1,4 @@
-> この記事は[LALR](https://ja.wikipedia.org/wiki/LALR)から翻訳されています。
+> この記事は[LALR法](https://ja.wikipedia.org/wiki/LALR法)から翻訳されています。
 
 
 **LALR法**（）は、[構文解析](../Page/構文解析.md "wikilink")手法の一種であり、Lookahead（先読み）[LR法](../Page/LR法.md "wikilink")の略である。[単純LR法](../Page/単純LR法.md "wikilink")（SLR法）の[構文解析器](../Page/構文解析器.md "wikilink")よりも多くの[文脈自由文法](../Page/文脈自由文法.md "wikilink")を扱うことができる。[構文解析表](https://ja.wikipedia.org/wiki/構文解析表 "wikilink")の大きさがあまり大きくなく、多くの文法を扱えることから、最も一般的な構文解析器となっている。[yacc](https://ja.wikipedia.org/wiki/yacc "wikilink") や [GNU bison](../Page/Bison.md "wikilink") といった[パーサジェネレータ](../Page/パーサジェネレータ.md "wikilink")の多くもこの種の構文解析器を生成する。

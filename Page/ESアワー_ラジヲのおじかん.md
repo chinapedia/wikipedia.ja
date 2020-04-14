@@ -1,4 +1,4 @@
-> この記事は[ES ](https://ja.wikipedia.org/wiki/ES_)から翻訳されています。
+> この記事は[ESアワー ラジヲのおじかん](https://ja.wikipedia.org/wiki/ESアワー_ラジヲのおじかん)から翻訳されています。
 
 
 **ESアワー ラジヲのおじかん**（イーエスアワー ラジオのおじかん）は[イーエス・エンターテインメント](https://ja.wikipedia.org/wiki/イーエス・エンターテインメント "wikilink")制作で[2000年](../Page/2000年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。また、[2002年](../Page/2002年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から2002年[3月29日](../Page/3月29日.md "wikilink")には、**ESアワー ラジヲのおじかん 増刊号**が放送された。
@@ -24,20 +24,20 @@
 
 ### レギュラー
 
-  - バカボン鬼塚
+  - [バカボン鬼塚](../Page/バカボン鬼塚.md "wikilink")
 
 ### 準レギュラー
 
 以下は全期間出演
 
-  - 有島モユ （番組開始時は「有島もゆ」名義）
+  - [有島モユ](../Page/有島モユ.md "wikilink")（番組開始時は**有島もゆ**名義）
   - [水樹奈々](../Page/水樹奈々.md "wikilink")
 
 #### 2000年10月～2002年3月
 
   - [金月真美](../Page/金月真美.md "wikilink")
-  - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
   - [野田順子](../Page/野田順子.md "wikilink")
+  - [豊嶋真千子](../Page/豊嶋真千子.md "wikilink")
   - [牧島有希](../Page/牧島有希.md "wikilink")
 
 #### 2002年4月～2003年3月
@@ -98,7 +98,7 @@
       - 作詞：[奥井雅美](../Page/奥井雅美.md "wikilink") / 作曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 7.  **ANJO A SONHAR**（歌：[ANTONIO BAKANO](../Page/バカボン鬼塚.md "wikilink")）
       - 作詞：[ソニア](../Page/ソニア.md "wikilink") / 作曲 [ジョルジオ・ソン](https://ja.wikipedia.org/wiki/ジョルジオ・ソン "wikilink")
-8.  **Let's sing a song**（歌：ARTISTS UNITED ES HOUR（全員））
+8.  **Let's sing a song**（歌：）
       - 作詞・作曲：[野村義男](../Page/野村義男.md "wikilink")
 9.  **めざせ一等賞！**（歌：[プチ☆ぷち](https://ja.wikipedia.org/wiki/プチ☆ぷち "wikilink")）
       - 作詞・作曲：[佐藤準](../Page/佐藤準.md "wikilink")

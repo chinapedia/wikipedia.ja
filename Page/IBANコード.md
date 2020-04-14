@@ -1,4 +1,4 @@
-> この記事は[IBAN](https://ja.wikipedia.org/wiki/IBAN)から翻訳されています。
+> この記事は[IBANコード](https://ja.wikipedia.org/wiki/IBANコード)から翻訳されています。
 
 
 [IBANMap-World6.svg](https://ja.wikipedia.org/wiki/File:IBANMap-World6.svg "fig:IBANMap-World6.svg") **IBANコード**（）とは、[銀行口座](https://ja.wikipedia.org/wiki/銀行口座 "wikilink")について、所在国、支店、口座番号を特定するための国際標準である。欧州銀行規格委員会により採択された後、ISO 13616:1997として規格化され、ISO 13616:2003が最新の版である。2008年1月現在では欧州を中心とする約41か国で使用されている。IBANの登録機関は[国際銀行間通信協会](../Page/国際銀行間通信協会.md "wikilink")(SWIFT)であり、登録簿の内容は[SWIFTのウェブサイト](http://www.swift.com/index.cfm?item_id=61332)で確認できる。

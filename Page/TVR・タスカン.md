@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・タスカン](https://ja.wikipedia.org/wiki/TVR・タスカン)から翻訳されています。
 
 
 **タスカン**（*Tuscan* ）とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーの[TVR](../Page/TVR.md "wikilink")の製造の販売していた[クーペ](../Page/クーペ.md "wikilink")のこと。

@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本ウォータービジネス](https://ja.wikipedia.org/wiki/JR東日本ウォータービジネス)から翻訳されています。
 
 
 **株式会社JR東日本ウォータービジネス**（ジェイアールひがしにほんウォータービジネス）は、[清涼飲料](../Page/清涼飲料水.md "wikilink")[卸](../Page/卸売.md "wikilink")、飲料[自動販売機](../Page/自動販売機.md "wikilink")事業などを行う、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[連結子会社](../Page/連結子会社.md "wikilink")で、[JR東日本リテールネット](../Page/JR東日本リテールネット.md "wikilink")の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NFL](https://ja.wikipedia.org/wiki/NFL)から翻訳されています。
+> この記事は[NFLドラフト](https://ja.wikipedia.org/wiki/NFLドラフト)から翻訳されています。
 
 
 **NFLドラフト**（NFL Draft）はアメリカプロフットボール[NFL](../Page/NFL.md "wikilink")で行われている[ドラフト会議](../Page/ドラフト会議.md "wikilink")である。 歴代の全体1位指名選手については

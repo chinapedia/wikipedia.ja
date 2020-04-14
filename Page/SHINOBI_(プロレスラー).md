@@ -1,4 +1,4 @@
-> この記事は[SHINOBI \(\)](https://ja.wikipedia.org/wiki/SHINOBI_\(\))から翻訳されています。
+> この記事は[SHINOBI \(プロレスラー\)](https://ja.wikipedia.org/wiki/SHINOBI_\(プロレスラー\))から翻訳されています。
 
 
 **SHINOBI**（シノビ、[1972年](../Page/1972年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - ）は、[忍者](../Page/忍者.md "wikilink")をモチーフにした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[覆面レスラー](../Page/覆面レスラー.md "wikilink")。本名：**山本 輝章**（やまもと てるあき）。

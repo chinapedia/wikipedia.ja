@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[ザ・グレイトバトルIV](https://ja.wikipedia.org/wiki/ザ・グレイトバトルIV)から翻訳されています。
 
 
 『**ザ・グレイトバトルIV**』は、[バンプレスト](../Page/バンプレスト.md "wikilink")が[1994年](../Page/1994年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用アクションシューティングゲーム。

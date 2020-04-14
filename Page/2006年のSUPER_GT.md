@@ -1,4 +1,4 @@
-> この記事は[2006SUPER GT](https://ja.wikipedia.org/wiki/2006SUPER_GT)から翻訳されています。
+> この記事は[2006年のSUPER GT](https://ja.wikipedia.org/wiki/2006年のSUPER_GT)から翻訳されています。
 
 
 **2006年の[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")**は、[2006年](../Page/2006年.md "wikilink")3月18・19日に[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")で開幕し、11月4・5日に[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")で閉幕した全9戦のシリーズである。
@@ -180,7 +180,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/triple_a出版" title="wikilink">triple a</a> サード スープラGT</p></td>
 <td><p><a href="../Page/アンドレ・クート.md" title="wikilink">アンドレ・クート</a><br />
  <a href="../Page/平中克幸.md" title="wikilink">平中克幸</a><br />
-  (Rd.6)</p></td>
+ <a href="../Page/ソエイル・アヤリ.md" title="wikilink">ソエイル・アヤリ</a> (Rd.6)</p></td>
 <td><p><a href="../Page/サード_(企業).md" title="wikilink">TOYOTA TEAM SARD</a></p></td>
 <td></td>
 </tr>

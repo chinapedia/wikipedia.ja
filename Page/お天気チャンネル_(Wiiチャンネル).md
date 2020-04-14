@@ -1,4 +1,4 @@
-> この記事は[ \(Wii\)](https://ja.wikipedia.org/wiki/_\(Wii\))から翻訳されています。
+> この記事は[お天気チャンネル \(Wiiチャンネル\)](https://ja.wikipedia.org/wiki/お天気チャンネル_\(Wiiチャンネル\))から翻訳されています。
 
 
 **お天気チャンネル**（おてんき - ）とは、[天気予報](../Page/天気予報.md "wikilink")を見ることができた[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")である。当初は[2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")にサービスを開始する予定だったが、1日繰り上げて2006年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")にサービスを開始した。

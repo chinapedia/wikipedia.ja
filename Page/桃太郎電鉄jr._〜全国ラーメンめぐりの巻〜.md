@@ -1,4 +1,4 @@
-> この記事は[jr. ](https://ja.wikipedia.org/wiki/jr._)から翻訳されています。
+> この記事は[桃太郎電鉄jr. 〜全国ラーメンめぐりの巻〜](https://ja.wikipedia.org/wiki/桃太郎電鉄jr._〜全国ラーメンめぐりの巻〜)から翻訳されています。
 
 
 『**桃太郎電鉄jr. 〜全国ラーメンめぐりの巻〜**』（ももたろうでんてつジュニア ぜんこくラーメンめぐりのまき）は、[ハドソン](../Page/ハドソン.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")に発売した[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用[ボードゲーム](../Page/ボードゲーム.md "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")第8作。 __TOC__

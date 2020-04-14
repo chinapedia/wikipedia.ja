@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[ロバート・M・フリン](https://ja.wikipedia.org/wiki/ロバート・M・フリン)から翻訳されています。
 
 
 **ロバート・M・フリン**（**Robert M.Flynn**、[1920年](../Page/1920年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")）は、[宗教家](https://ja.wikipedia.org/wiki/宗教家 "wikilink")・[教育者](https://ja.wikipedia.org/wiki/教育者 "wikilink")。[プログレス・イン・イングリッシュ](../Page/プログレス・イン・イングリッシュ.md "wikilink")などを中心とした著作活動\[1\] や教育活動を行っていた。

@@ -1,4 +1,4 @@
-> この記事は[!! BBC](https://ja.wikipedia.org/wiki/!!_BBC)から翻訳されています。
+> この記事は[ザ・ビートルズ・ライヴ!! アット・ザ・BBC](https://ja.wikipedia.org/wiki/ザ・ビートルズ・ライヴ!!_アット・ザ・BBC)から翻訳されています。
 
 
 『**ザ・ビートルズ・ライヴ\!\! アット・ザ・BBC**』（原題：*Live at the BBC* ）は、[1994年](../Page/1994年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に2枚組で発売された[ビートルズ](../Page/ビートルズ.md "wikilink")のアルバムである。

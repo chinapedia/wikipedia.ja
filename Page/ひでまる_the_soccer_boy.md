@@ -1,4 +1,4 @@
-> この記事は[ the soccer boy](https://ja.wikipedia.org/wiki/_the_soccer_boy)から翻訳されています。
+> この記事は[ひでまる the soccer boy](https://ja.wikipedia.org/wiki/ひでまる_the_soccer_boy)から翻訳されています。
 
 
 『**ひでまる the soccer boy**』（ひでまる ザ サッカー ボーイ）は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されたTVアニメ『[フォルツァ\!ひでまる](../Page/フォルツァ!ひでまる.md "wikilink")』を原案とした[溝渕誠](https://ja.wikipedia.org/wiki/溝渕誠 "wikilink")の漫画。2002年4月から2003年5月号まで『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』で連載された。単行本全2巻。

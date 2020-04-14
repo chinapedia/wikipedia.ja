@@ -1,4 +1,4 @@
-> この記事は[HOME](https://ja.wikipedia.org/wiki/HOME)から翻訳されています。
+> この記事は[HOMEニュース](https://ja.wikipedia.org/wiki/HOMEニュース)から翻訳されています。
 
 
 『**HOMEニュース**』（ホームニュース、英語表記：**HOME NEWS**）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送されている定時ローカル[ニュース番組](../Page/報道番組.md "wikilink")。

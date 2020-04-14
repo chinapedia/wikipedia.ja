@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBS千里丘フェスティバル・ファイナル](https://ja.wikipedia.org/wiki/MBS千里丘フェスティバル・ファイナル)から翻訳されています。
 
 
 **MBS千里丘フェスティバル・ファイナル**(-せんりおか-)は、2007年に[毎日放送](../Page/毎日放送.md "wikilink")で放送された企画。

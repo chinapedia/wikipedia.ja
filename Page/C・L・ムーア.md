@@ -1,4 +1,4 @@
-> この記事は[CL](https://ja.wikipedia.org/wiki/CL)から翻訳されています。
+> この記事は[C・L・ムーア](https://ja.wikipedia.org/wiki/C・L・ムーア)から翻訳されています。
 
 
 **C・L・ムーア**（*C. L. Moore*, [1911年](../Page/1911年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")、[ファンタジー](../Page/ファンタジー.md "wikilink")作家。本名はキャサリン・ルシール・ムーア（*Catherine Lucille Moore*)。代表作〈[ノースウェスト・スミス](https://ja.wikipedia.org/wiki/ノースウェスト・スミス "wikilink")〉シリーズなどで人気を博した。夫の[ヘンリー・カットナー](../Page/ヘンリー・カットナー.md "wikilink")もSF作家であり、夫婦で多くの合作を行なった。

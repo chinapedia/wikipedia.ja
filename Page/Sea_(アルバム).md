@@ -1,4 +1,4 @@
-> この記事は[Sea \(\)](https://ja.wikipedia.org/wiki/Sea_\(\))から翻訳されています。
+> この記事は[Sea \(アルバム\)](https://ja.wikipedia.org/wiki/Sea_\(アルバム\))から翻訳されています。
 
 
 『**Sea**』（シー）は、[北原愛子](../Page/北原愛子.md "wikilink")の3rdアルバム。

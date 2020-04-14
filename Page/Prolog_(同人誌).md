@@ -1,4 +1,4 @@
-> この記事は[Prolog \(\)](https://ja.wikipedia.org/wiki/Prolog_\(\))から翻訳されています。
+> この記事は[Prolog \(同人誌\)](https://ja.wikipedia.org/wiki/Prolog_\(同人誌\))から翻訳されています。
 
 
 **Prolog**（プロローグ）は、[子役](https://ja.wikipedia.org/wiki/子役 "wikilink")、[モデル](../Page/モデル_\(職業\).md "wikilink")（全員女性）へのインタビュー記事を中心に構成された[同人誌](../Page/同人誌.md "wikilink")である。

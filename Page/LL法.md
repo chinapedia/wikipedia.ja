@@ -1,4 +1,4 @@
-> この記事は[LL](https://ja.wikipedia.org/wiki/LL)から翻訳されています。
+> この記事は[LL法](https://ja.wikipedia.org/wiki/LL法)から翻訳されています。
 
 
 **LL法**または**LL構文解析**とは、[文脈自由文法](../Page/文脈自由文法.md "wikilink")のサブセットのための[トップダウン構文解析](../Page/トップダウン構文解析.md "wikilink")法の一種である。入力文字列を左 (Left) から構文解析していき、[左端導出](https://ja.wikipedia.org/wiki/文脈自由文法#導出と構文木 "wikilink") (Leftmost Derivation) を行う（このため、LL法と呼ぶ。[LR法](../Page/LR法.md "wikilink")も参照されたい）。この方式で構文解析可能な文法のクラスを *LL文法* と呼ぶ。

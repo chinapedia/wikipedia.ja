@@ -283,11 +283,11 @@ L∞P-Divide Neo Abomination-</p></td>
   - [D'espairsRay](http://www.universal-music.co.jp/despairsray) - UNIVERSAL MUSIC JAPAN
 
   -
-  - [D'espairsRay オフィシャルブログ「D'espairsRay」](http://ameblo.jp/sw-despairsray/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [D'espairsRay オフィシャルブログ「D'espairsRay」](https://ameblo.jp/sw-despairsray/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
-  - [ZERO オフィシャルブログ「KALEIDOSCOPE」](http://ameblo.jp/deepthink/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [ZERO オフィシャルブログ「KALEIDOSCOPE」](https://ameblo.jp/deepthink/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
-  - [TSUKASA オフィシャルブログ「琥珀の記」](http://ameblo.jp/ts-kohakunoki/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [TSUKASA オフィシャルブログ「琥珀の記」](https://ameblo.jp/ts-kohakunoki/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -

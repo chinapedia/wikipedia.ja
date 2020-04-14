@@ -1,4 +1,4 @@
-> この記事は[CRIII](https://ja.wikipedia.org/wiki/CRIII)から翻訳されています。
+> この記事は[CRぱちんこ必殺仕事人III](https://ja.wikipedia.org/wiki/CRぱちんこ必殺仕事人III)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KYORAKU_CR-Pachinko_hissatsu_2007.jpg "wikilink") **CRぱちんこ必殺仕事人III**（シーアールぱちんこひっさつしごとにんスリー）は、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")が発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。本項では**『CRぱちんこ必殺仕事人III 桜バージョン』**についても述べる。

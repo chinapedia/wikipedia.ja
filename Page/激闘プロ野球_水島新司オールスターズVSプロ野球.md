@@ -1,4 +1,4 @@
-> この記事は[ VS](https://ja.wikipedia.org/wiki/_VS)から翻訳されています。
+> この記事は[激闘プロ野球 水島新司オールスターズVSプロ野球](https://ja.wikipedia.org/wiki/激闘プロ野球_水島新司オールスターズVSプロ野球)から翻訳されています。
 
 
 『**激闘プロ野球 水島新司オールスターズVSプロ野球**』は、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）より、[2003年](../Page/2003年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発売された[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用の野球ゲーム。また、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")版も同年稼動開始した。通称『**激プロ**』\[1\]

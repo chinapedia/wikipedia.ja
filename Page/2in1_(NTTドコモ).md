@@ -1,4 +1,4 @@
-> この記事は[2in1 \(NTT\)](https://ja.wikipedia.org/wiki/2in1_\(NTT\))から翻訳されています。
+> この記事は[2in1 \(NTTドコモ\)](https://ja.wikipedia.org/wiki/2in1_\(NTTドコモ\))から翻訳されています。
 
 
 **2in1**（ツー・イン・ワン）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")サービス[FOMA](../Page/FOMA.md "wikilink")で提供される、1台の携帯電話で2契約分の[電話番号](../Page/電話番号.md "wikilink")・[メールアドレス](../Page/メールアドレス.md "wikilink")・[電話帳](../Page/電話帳.md "wikilink")機能・ネットワークサービスなどを利用できるサービス。[2007年](../Page/2007年.md "wikilink")5月25日からサービス提供開始。

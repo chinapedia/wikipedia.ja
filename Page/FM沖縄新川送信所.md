@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FM沖縄新川送信所](https://ja.wikipedia.org/wiki/FM沖縄新川送信所)から翻訳されています。
 
 
 **FM沖縄新川送信所**（エフエムおきなわあらかわそうしんじょ）は、[沖縄県](../Page/沖縄県.md "wikilink")[島尻郡](../Page/島尻郡.md "wikilink")[南風原町](../Page/南風原町.md "wikilink")字新川にある、[エフエム沖縄](../Page/エフエム沖縄.md "wikilink")の送信所である。

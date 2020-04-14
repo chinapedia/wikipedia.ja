@@ -1,4 +1,4 @@
-> この記事は[ \(WWE\)](https://ja.wikipedia.org/wiki/_\(WWE\))から翻訳されています。
+> この記事は[グランドスラム \(WWE\)](https://ja.wikipedia.org/wiki/グランドスラム_\(WWE\))から翻訳されています。
 
 
 [プロレス](../Page/プロレス.md "wikilink")における**グランドスラム**とは、主要4タイトルを全て1度でも獲得した事をいう。

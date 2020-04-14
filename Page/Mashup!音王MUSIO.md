@@ -1,4 +1,4 @@
-> この記事は[Mashup!MUSIO](https://ja.wikipedia.org/wiki/Mashup!MUSIO)から翻訳されています。
+> この記事は[Mashup!音王MUSIO](https://ja.wikipedia.org/wiki/Mashup!音王MUSIO)から翻訳されています。
 
 
 『**mashup\!音王MUSIO**』（マッシュアップ ミュージオ）は、一部の[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[仙台放送](../Page/仙台放送.md "wikilink")制作の[音楽番組](../Page/音楽番組.md "wikilink")である。全94回。制作局の仙台放送では[2007年](../Page/2007年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで放送。

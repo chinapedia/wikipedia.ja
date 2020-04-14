@@ -1,4 +1,4 @@
-> この記事は[YOKO \(AV\)](https://ja.wikipedia.org/wiki/YOKO_\(AV\))から翻訳されています。
+> この記事は[YOKO \(AV女優\)](https://ja.wikipedia.org/wiki/YOKO_\(AV女優\))から翻訳されています。
 
 
 **YOKO**（よーこ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月25日](../Page/2月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

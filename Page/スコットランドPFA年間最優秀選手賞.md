@@ -1,4 +1,4 @@
-> この記事は[PFA](https://ja.wikipedia.org/wiki/PFA)から翻訳されています。
+> この記事は[スコットランドPFA年間最優秀選手賞](https://ja.wikipedia.org/wiki/スコットランドPFA年間最優秀選手賞)から翻訳されています。
 
 
 **スコットランドPFA年間最優秀選手賞** (すこっとらんどPFAねんかんさいゆうしゅうせんしゅしょう、**Scottish PFA Players' Player of the Year**) は、[SPFA](https://ja.wikipedia.org/wiki/SPFA "wikilink") (*Scottish Professional Footballers' Association*、スコットランドプロサッカー選手協会) のメンバーの投票によって決定される賞\[1\]。現役選手の投票によって決定されることから、しばしばスコットランドでプレーするサッカー選手に与えられる賞で最も重要なものと位置づけられる。

@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOクラウド](https://ja.wikipedia.org/wiki/GMOクラウド)から翻訳されています。
 
 
 **GMOクラウド株式会社**（じーえむおーくらうど、*GMO CLOUD K.K.*）は、[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループで、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置くクラウド･ホスティング（[レンタルサーバー](https://ja.wikipedia.org/wiki/レンタルサーバー "wikilink")）事業、セキュリティ事業およびソリューション事業を行う東証一部上場企業である。証券コードは3788。\[1\]

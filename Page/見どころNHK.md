@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[見どころNHK](https://ja.wikipedia.org/wiki/見どころNHK)から翻訳されています。
 
 
 **見どころNHK**（みどころえぬえいちけい）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョンで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[番宣](../Page/番組宣伝.md "wikilink")[番組である](../Page/ミニ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NL \(\)](https://ja.wikipedia.org/wiki/NL_\(\))から翻訳されています。
+> この記事は[NL \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/NL_\(計算複雑性理論\))から翻訳されています。
 
 
 **NL**（えぬえる、）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")の一つである。[非決定性チューリングマシン](../Page/非決定性チューリングマシン.md "wikilink")で[対数](../Page/対数.md "wikilink")規模の記憶領域を使って解ける問題がこのクラスに属する。

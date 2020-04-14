@@ -1,4 +1,4 @@
-> この記事は[PROCESS \(\)](https://ja.wikipedia.org/wiki/PROCESS_\(\))から翻訳されています。
+> この記事は[PROCESS \(やしきたかじんのアルバム\)](https://ja.wikipedia.org/wiki/PROCESS_\(やしきたかじんのアルバム\))から翻訳されています。
 
 
 『**PROCESS**』（プロセス）は、[やしきたかじん](../Page/やしきたかじん.md "wikilink")の14枚目のアルバム。

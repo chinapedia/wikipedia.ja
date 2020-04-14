@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[エアーマネジメントII 航空王をめざせ](https://ja.wikipedia.org/wiki/エアーマネジメントII_航空王をめざせ)から翻訳されています。
 
 
 『**エアーマネジメントII 航空王をめざせ**』（エアーマネジメントツー こうくうおうをめざせ、*Aerobiz Supersonic*）は、[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）のビジネス[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")で発売された後、[メガドライブ](../Page/メガドライブ.md "wikilink")と[PC-9801に移植されたが](../Page/PC-9800シリーズ.md "wikilink")、PC-98版は若干の改良が加えられている。なお、[2004年](../Page/2004年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはPC-98版を復刻収録した[Windows用](../Page/Microsoft_Windows_XP.md "wikilink")「[コーエー25周年パックVol](https://ja.wikipedia.org/wiki/コーエー25周年記念パック "wikilink").7」が発売され、その後、単品販売もされている。

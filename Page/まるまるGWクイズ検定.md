@@ -1,4 +1,4 @@
-> この記事は[GW](https://ja.wikipedia.org/wiki/GW)から翻訳されています。
+> この記事は[まるまるGWクイズ検定](https://ja.wikipedia.org/wiki/まるまるGWクイズ検定)から翻訳されています。
 
 
 『**まるまるGWクイズ検定**』（まるまるゴールデンウィークくいずけんてい）とは[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")から[5月6日](../Page/5月6日.md "wikilink")の5日間に亘って放送された[特別番組](../Page/特別番組.md "wikilink")の名称。

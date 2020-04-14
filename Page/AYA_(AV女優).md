@@ -1,4 +1,4 @@
-> この記事は[AYA \(AV\)](https://ja.wikipedia.org/wiki/AYA_\(AV\))から翻訳されています。
+> この記事は[AYA \(AV女優\)](https://ja.wikipedia.org/wiki/AYA_\(AV女優\))から翻訳されています。
 
 
 **AYA**（あや、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月3日](../Page/12月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女優。

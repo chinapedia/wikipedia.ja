@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[ミヤギテレビNewsリアルタイムサタデー](https://ja.wikipedia.org/wiki/ミヤギテレビNewsリアルタイムサタデー)から翻訳されています。
 
 
 『**ミヤギテレビNewsリアルタイムサタデー**』（ミヤギテレビニュースリアルタイムサタデー）は、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[土曜夕方の](../Page/土曜日.md "wikilink")[ローカル](../Page/ローカル番組.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイムサタデー](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパート）。

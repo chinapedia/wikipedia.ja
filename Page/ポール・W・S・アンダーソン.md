@@ -1,4 +1,4 @@
-> この記事は[WS](https://ja.wikipedia.org/wiki/WS)から翻訳されています。
+> この記事は[ポール・W・S・アンダーソン](https://ja.wikipedia.org/wiki/ポール・W・S・アンダーソン)から翻訳されています。
 
 
 **ポール・W・S・アンダーソン**（Paul W. S. Anderson、本名：**ポール・ウィリアム・スコット・アンダーソン**（Paul William Scott Anderson）[1965年](../Page/1965年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink") - ）は、[アメリカに拠点を置く](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[プロデューサー](../Page/映画プロデューサー.md "wikilink")。

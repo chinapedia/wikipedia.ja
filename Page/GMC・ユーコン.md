@@ -1,4 +1,4 @@
-> この記事は[GMC](https://ja.wikipedia.org/wiki/GMC)から翻訳されています。
+> この記事は[GMC・ユーコン](https://ja.wikipedia.org/wiki/GMC・ユーコン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GMC-Yukon-Hybrid-DC.jpg "wikilink") **GMC・ユーコン**（*GMC Yukon* ）は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) が[GMC](../Page/GMC.md "wikilink")ブランドで販売しているフルサイズ[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")である。

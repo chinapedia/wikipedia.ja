@@ -24,7 +24,7 @@
 ## 日之出出版の他の雑誌
 
   - [Fine](https://ja.wikipedia.org/wiki/Fine "wikilink")
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - Safari
   - [DVDvision](https://ja.wikipedia.org/wiki/DVDvision "wikilink")
 

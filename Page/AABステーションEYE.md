@@ -1,4 +1,4 @@
-> この記事は[AABEYE](https://ja.wikipedia.org/wiki/AABEYE)から翻訳されています。
+> この記事は[AABステーションEYE](https://ja.wikipedia.org/wiki/AABステーションEYE)から翻訳されています。
 
 
 『**AABステーションEYE**』（エーエービー ステーションアイ）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送していた夕方の[ローカルワイドニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[秋田県](../Page/秋田県.md "wikilink")ローカルパートに相当する。

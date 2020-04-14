@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[小説ウィザードリィII 風よ。龍に届いているか](https://ja.wikipedia.org/wiki/小説ウィザードリィII_風よ。龍に届いているか)から翻訳されています。
 
 
 『**小説ウィザードリィII 風よ。龍に届いているか**』（しょうせつウィザードリィ ツー かぜよ りゅうにとどいているか）は[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")の古典的名作『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")』（Wizardry）PC版第3作（ [ファミコン版第](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")2作）である『[リルガミンの遺産](https://ja.wikipedia.org/wiki/ウィザードリィのシリーズ一覧#WIZ_LOL "wikilink")』\[1\]を題材にした小説。著者は[ベニー松山](../Page/ベニー松山.md "wikilink")。

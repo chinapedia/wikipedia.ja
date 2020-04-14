@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[歌のビッグステージ \(NHK総合\)](https://ja.wikipedia.org/wiki/歌のビッグステージ_\(NHK総合\))から翻訳されています。
 
 
 『**歌のビッグステージ**』（うたのビッグステージ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。放送時間は毎週火曜 20:00 - 20:50（[JST](../Page/日本標準時.md "wikilink")）。

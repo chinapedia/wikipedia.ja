@@ -1,4 +1,4 @@
-> この記事は[III ](https://ja.wikipedia.org/wiki/III_)から翻訳されています。
+> この記事は[英雄伝説III 白き魔女](https://ja.wikipedia.org/wiki/英雄伝説III_白き魔女)から翻訳されています。
 
 
 『**英雄伝説III 白き魔女**』\[1\]（えいゆうでんせつ3 しろきまじょ、THE LEGEND OF HEROES III: Gagharv trilogy first "White Witch"）は[1994年](../Page/1994年.md "wikilink")（平成6年）に発売された[日本ファルコム](../Page/日本ファルコム.md "wikilink")によるコマンド選択型[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。同社のRPG[シリーズ](../Page/シリーズ_\(作品\).md "wikilink")《[英雄伝説（英伝）シリーズ](../Page/英雄伝説シリーズ.md "wikilink")》の第3作目であり、《英伝シリーズ》第2期となる〈[ガガーブトリロジー](../Page/英雄伝説_ガガーブトリロジー.md "wikilink")〉の第1作目。[1999年](../Page/1999年.md "wikilink")（平成11年）には自社リメイクもされている。

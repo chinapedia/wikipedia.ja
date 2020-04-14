@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCI・ロードワールドカップ](https://ja.wikipedia.org/wiki/UCI・ロードワールドカップ)から翻訳されています。
 
 
 **UCI・ロードワールドカップ**（）は、[1989年](../Page/1989年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで行われた、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink") (UCI) による[自転車ロードレースの年間表彰制度](../Page/ロードレース_\(自転車競技\).md "wikilink")。[1988年](../Page/1988年.md "wikilink")まで行われてきた[スーパープレスティージュ](../Page/スーパープレスティージュ.md "wikilink")に代わる年間表彰制度として設けられた。

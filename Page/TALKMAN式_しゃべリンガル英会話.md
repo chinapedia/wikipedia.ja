@@ -1,4 +1,4 @@
-> この記事は[TALKMAN ](https://ja.wikipedia.org/wiki/TALKMAN_)から翻訳されています。
+> この記事は[TALKMAN式 しゃべリンガル英会話](https://ja.wikipedia.org/wiki/TALKMAN式_しゃべリンガル英会話)から翻訳されています。
 
 
 『**TALKMAN式 しゃべリンガル英会話**』は、[2007年](../Page/2007年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が発売したゲームソフトで、英会話学習ゲーム。マイクロホン同梱版とソフト単体版の二種類が発売されている。

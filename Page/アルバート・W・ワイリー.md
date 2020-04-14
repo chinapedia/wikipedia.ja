@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[アルバート・W・ワイリー](https://ja.wikipedia.org/wiki/アルバート・W・ワイリー)から翻訳されています。
 
 
 **アルバート・W・ワイリー**（**Albert W. Wily**）とは、カプコンの[ゲーム](../Page/ゲーム.md "wikilink")「[ロックマンシリーズ](../Page/ロックマンシリーズ.md "wikilink")」および「[ロックマンXシリーズ](../Page/ロックマンXシリーズ.md "wikilink")」に登場する架空の[科学者](../Page/科学者.md "wikilink")。通称「**Dr.ワイリー**」。

@@ -1,4 +1,4 @@
-> この記事は[Brezza di mare dedicated to IZUMI SAKAI](https://ja.wikipedia.org/wiki/Brezza_di_mare_dedicated_to_IZUMI_SAKAI)から翻訳されています。
+> この記事は[Brezza di mare 〜dedicated to IZUMI SAKAI〜](https://ja.wikipedia.org/wiki/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜)から翻訳されています。
 
 
 『**Brezza di mare 〜dedicated to IZUMI SAKAI〜**』（ブレッツァ・ディ・マーレ ディドゥケイティド・トゥー・イズミ・サカイ）は、[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")に発売された[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のセレクションアルバム。CDコードはJBCJ-9024。

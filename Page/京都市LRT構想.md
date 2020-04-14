@@ -1,4 +1,4 @@
-> この記事は[LRT](https://ja.wikipedia.org/wiki/LRT)から翻訳されています。
+> この記事は[京都市LRT構想](https://ja.wikipedia.org/wiki/京都市LRT構想)から翻訳されています。
 
 
 **京都市LRT構想**（きょうとしエルアールティーこうそう）とは、[京都市](../Page/京都市.md "wikilink")において検討が行われている交通政策事案の一つである。

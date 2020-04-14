@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[スコントFC](https://ja.wikipedia.org/wiki/スコントFC)から翻訳されています。
 
 
 **スコントFC** (Skonto futbola klubs) は、[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")・[リガ](../Page/リガ.md "wikilink")にあった[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016年12月に財政破綻し、解散した。

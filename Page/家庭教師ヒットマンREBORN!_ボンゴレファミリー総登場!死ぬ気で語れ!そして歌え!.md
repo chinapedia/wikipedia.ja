@@ -1,4 +1,4 @@
-> この記事は[REBORN! !!!](https://ja.wikipedia.org/wiki/REBORN!_!!!)から翻訳されています。
+> この記事は[家庭教師ヒットマンREBORN! ボンゴレファミリー総登場!死ぬ気で語れ!そして歌え!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!_ボンゴレファミリー総登場!死ぬ気で語れ!そして歌え!)から翻訳されています。
 
 
 『**家庭教師ヒットマンREBORN\! ボンゴレファミリー総登場\!死ぬ気で語れ\!そして歌え\!**』（かてきょーヒットマンリボーン ボンゴレファミリーそうとうじょう しぬきでかたれ そしてうたえ）は、「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」（[集英社](../Page/集英社.md "wikilink")）連載の漫画『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』の[キャラクターソング](../Page/キャラクターソング.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。

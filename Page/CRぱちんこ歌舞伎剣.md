@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRぱちんこ歌舞伎剣](https://ja.wikipedia.org/wiki/CRぱちんこ歌舞伎剣)から翻訳されています。
 
 
 **CRぱちんこ歌舞伎剣**（シーアールぱちんこかぶきソード）は、[京楽産業.](../Page/京楽産業..md "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ）。[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に導入が開始された。

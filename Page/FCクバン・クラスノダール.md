@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCクバン・クラスノダール](https://ja.wikipedia.org/wiki/FCクバン・クラスノダール)から翻訳されています。
 
 
 **FCクバン・クラスノダール**（****, [英語](../Page/英語.md "wikilink"): Football Club Kuban Krasnodar）は、[ロシア](../Page/ロシア.md "wikilink")連邦・[クラスノダール](../Page/クラスノダール.md "wikilink")にあった[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

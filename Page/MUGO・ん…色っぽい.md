@@ -1,4 +1,4 @@
-> この記事は[MUGO](https://ja.wikipedia.org/wiki/MUGO)から翻訳されています。
+> この記事は[MUGO・ん…色っぽい](https://ja.wikipedia.org/wiki/MUGO・ん…色っぽい)から翻訳されています。
 
 
 「**MUGO・ん…色っぽい**」（ムゴ・ん…いろっぽい）は、[工藤静香](../Page/工藤静香.md "wikilink")通算5枚目の[シングル](../Page/シングル.md "wikilink")。1988年8月24日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

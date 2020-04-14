@@ -1,4 +1,4 @@
-> この記事は[NO.5](https://ja.wikipedia.org/wiki/NO.5)から翻訳されています。
+> この記事は[オペレーターNO.5](https://ja.wikipedia.org/wiki/オペレーターNO.5)から翻訳されています。
 
 
 **オペレーターNO.5**(**Operator NO.5**)は、ポピュラー・パブリケーションズ社(Popular Publications)より、[1934年](../Page/1934年.md "wikilink")から[1939年](../Page/1939年.md "wikilink")にかけて刊行された10セントの[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")「シークレット･サービス　オペレーター\#5」に登場する架空のヒーロー。

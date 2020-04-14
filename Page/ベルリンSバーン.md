@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ベルリンSバーン](https://ja.wikipedia.org/wiki/ベルリンSバーン)から翻訳されています。
 
 
 **ベルリンSバーン** (S-Bahn Berlin) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の首都[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")における都市高速鉄道網（[Sバーン](../Page/Sバーン.md "wikilink")）である。ドイツで最初のSバーンであり、[第三軌条方式](../Page/第三軌条方式.md "wikilink")による電化が採用されている。

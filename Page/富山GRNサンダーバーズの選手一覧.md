@@ -1,4 +1,4 @@
-> この記事は[GRN](https://ja.wikipedia.org/wiki/GRN)から翻訳されています。
+> この記事は[富山GRNサンダーバーズの選手一覧](https://ja.wikipedia.org/wiki/富山GRNサンダーバーズの選手一覧)から翻訳されています。
 
 
 **富山GRNサンダーバーズの選手一覧**（とやまGRNサンダーバーズのせんしゅいちらん）は、[ベースボール・チャレンジ・リーグ](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")（ルートインBCリーグ）の[富山GRNサンダーバーズ](../Page/富山GRNサンダーバーズ.md "wikilink")（2014年までは富山サンダーバーズ）に所属する選手、およびかつて所属していた主な選手の一覧である。
@@ -7,66 +7,235 @@
 
 ## 首脳陣
 
-<table>
-<thead>
-<tr class="header">
-<th><p>背番号</p></th>
-<th><p>名前</p></th>
-<th><p>役職</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>未定</p></td>
-<td><p><a href="../Page/田畑一也.md" title="wikilink">田畑一也</a></p></td>
-<td><p>監督</p></td>
-</tr>
-<tr class="even">
-<td><p>37</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永森大士" title="wikilink">永森大士</a></p></td>
-<td><p>野手コーチ<br />
-登録名「大士」</p></td>
-</tr>
-</tbody>
-</table>
+| 背番号 | 名前                                                    | 役職        |
+| --- | ----------------------------------------------------- | --------- |
+| 39  | [田畑一也](../Page/田畑一也.md "wikilink")                    | 監督        |
+| 37  | [長江翔太](https://ja.wikipedia.org/wiki/長江翔太 "wikilink") | コーチ       |
+| 38  | [吉田凌太](https://ja.wikipedia.org/wiki/吉田凌太 "wikilink") | アシスタントコーチ |
 
 ## 所属選手
 
 ### 投手
 
-| 背番号 | 選手名                                                               | 投 | 打 | 備考                                         |
-| --- | ----------------------------------------------------------------- | - | - | ------------------------------------------ |
-| 11  | [菅谷潤哉](https://ja.wikipedia.org/wiki/菅谷潤哉 "wikilink")             | 右 | 右 | 投手主将                                       |
-| 17  | [有馬昌宏](https://ja.wikipedia.org/wiki/有馬昌宏 "wikilink")             | 左 | 左 |                                            |
-| 18  | [カム・ウーター](https://ja.wikipedia.org/wiki/カム・ウーター "wikilink")       | 右 | 右 | 登録名「ウーター」                                  |
-| 19  | [松山真之](https://ja.wikipedia.org/wiki/松山真之 "wikilink")             | 右 | 右 |                                            |
-| 20  | [ジャレット・ブラウン](https://ja.wikipedia.org/wiki/ジャレット・ブラウン "wikilink") | 左 | 右 | 登録名「ブラウン」                                  |
-| 34  | [白石祐人](https://ja.wikipedia.org/wiki/白石祐人 "wikilink")             | 左 | 右 |                                            |
-| 37  | [山本雅士](https://ja.wikipedia.org/wiki/山本雅士 "wikilink")             | 右 | 左 | 元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink") |
-| 57  | [ルイス・ラミレス](https://ja.wikipedia.org/wiki/ルイス・ラミレス "wikilink")     | 右 | 右 | 登録名「ラミレス」                                  |
+<table>
+<thead>
+<tr class="header">
+<th><p>背番号</p></th>
+<th><p>選手名</p></th>
+<th><p>投</p></th>
+<th><p>打</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本雅士" title="wikilink">山本雅士</a></p></td>
+<td><p>右</p></td>
+<td><p>左</p></td>
+<td><p>元：<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日ドラゴンズ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/菅谷潤哉" title="wikilink">菅谷潤哉</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>投手主将</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武田康平" title="wikilink">武田康平</a></p></td>
+<td><p>右</p></td>
+<td></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牧野圭佑" title="wikilink">牧野圭佑</a></p></td>
+<td></td>
+<td></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松永健二郎" title="wikilink">松永健二郎</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/有馬昌宏" title="wikilink">有馬昌宏</a></p></td>
+<td><p>左</p></td>
+<td><p>左</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カム・ウーター" title="wikilink">カム・ウーター</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ウーター」</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/早瀬翔馬" title="wikilink">早瀬翔馬</a></p></td>
+<td><p>右</p></td>
+<td><p>左</p></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャレット・ブラウン" title="wikilink">ジャレット・ブラウン</a></p></td>
+<td><p>左</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ブラウン」</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山川晃司" title="wikilink">山川晃司</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>元：<a href="https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ" title="wikilink">東京ヤクルトスワローズ</a><br />
+2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファビアン・ローマン" title="wikilink">ファビアン・ローマン</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ローマン」<br />
+2020年新入団</p></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/デュアンテ・ヒース" title="wikilink">デュアンテ・ヒース</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>元：<a href="https://ja.wikipedia.org/wiki/埼玉西武ライオンズ" title="wikilink">埼玉西武ライオンズ</a><br />
+登録名「ヒース」<br />
+2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>57</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ラミレス" title="wikilink">ルイス・ラミレス</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ラミレス」</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 捕手
 
-| 背番号 | 選手名                                                   | 投 | 打 | 備考 |
-| --- | ----------------------------------------------------- | - | - | -- |
-| 22  | [谷口佳祐](https://ja.wikipedia.org/wiki/谷口佳祐 "wikilink") | 右 | 右 |    |
+| 背番号 | 選手名                                                   | 投 | 打 | 備考       |
+| --- | ----------------------------------------------------- | - | - | -------- |
+| 22  | [谷口佳祐](https://ja.wikipedia.org/wiki/谷口佳祐 "wikilink") | 右 | 右 |          |
+| 24  | [長谷川快](https://ja.wikipedia.org/wiki/長谷川快 "wikilink") | 右 | 右 | 2020年新入団 |
 
 ### 内野手
 
-| 背番号 | 選手名                                                   | 投 | 打 | 備考        |
-| --- | ----------------------------------------------------- | - | - | --------- |
-| 6   | [望月隆晟](https://ja.wikipedia.org/wiki/望月隆晟 "wikilink") | 右 | 左 |           |
-| 25  | [鈴木遼平](https://ja.wikipedia.org/wiki/鈴木遼平 "wikilink") | 右 | 右 | 登録名「ロイ鈴木」 |
-| 31  | [多賀亘](https://ja.wikipedia.org/wiki/多賀亘 "wikilink")   | 右 | 右 |           |
+<table>
+<thead>
+<tr class="header">
+<th><p>背番号</p></th>
+<th><p>選手名</p></th>
+<th><p>投</p></th>
+<th><p>打</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/望月隆晟" title="wikilink">望月隆晟</a></p></td>
+<td><p>右</p></td>
+<td><p>左</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/後藤大葵" title="wikilink">後藤大葵</a></p></td>
+<td></td>
+<td></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>25</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木遼平" title="wikilink">鈴木遼平</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ロイ鈴木」</p></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/多賀亘" title="wikilink">多賀亘</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テルビン・ナッシュ" title="wikilink">テルビン・ナッシュ</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「ナッシュ」<br />
+2020年新入団</p></td>
+</tr>
+<tr class="even">
+<td><p>44</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石田宝輝" title="wikilink">石田宝輝</a></p></td>
+<td></td>
+<td></td>
+<td><p>2020年新入団</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 外野手
 
-| 背番号 | 選手名                                                           | 投 | 打 | 備考        |
-| --- | ------------------------------------------------------------- | - | - | --------- |
-| 9   | [松村誠矢](https://ja.wikipedia.org/wiki/松村誠矢 "wikilink")         | 右 | 左 |           |
-| 35  | [ケビン・マクシー](https://ja.wikipedia.org/wiki/ケビン・マクシー "wikilink") | 右 | 右 | 登録名「マクシー」 |
-| 23  | [金子将太](https://ja.wikipedia.org/wiki/金子将太 "wikilink")         | 左 | 左 |           |
-|     |                                                               |   |   |           |
+<table>
+<thead>
+<tr class="header">
+<th><p>背番号</p></th>
+<th><p>選手名</p></th>
+<th><p>投</p></th>
+<th><p>打</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/門屋龍征" title="wikilink">門屋龍征</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>2020年新入団</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンディー・サントス" title="wikilink">サンディー・サントス</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「サントス」<br />
+2020年新入団</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松村誠矢" title="wikilink">松村誠矢</a></p></td>
+<td><p>右</p></td>
+<td><p>左</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・マクシー" title="wikilink">ケビン・マクシー</a></p></td>
+<td><p>右</p></td>
+<td><p>右</p></td>
+<td><p>登録名「マクシー」</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 過去に在籍していた主な選手
 
@@ -140,6 +309,6 @@
   - [信濃グランセローズの選手一覧](../Page/信濃グランセローズの選手一覧.md "wikilink")
   - [石川ミリオンスターズの選手一覧](../Page/石川ミリオンスターズの選手一覧.md "wikilink")
   - [福井ワイルドラプターズの選手一覧](../Page/福井ワイルドラプターズの選手一覧.md "wikilink")
-  - [滋賀ユナイテッドベースボールクラブの選手一覧](https://ja.wikipedia.org/wiki/滋賀ユナイテッドベースボールクラブの選手一覧 "wikilink")
+  - [オセアン滋賀ブラックスの選手一覧](https://ja.wikipedia.org/wiki/オセアン滋賀ブラックスの選手一覧 "wikilink")
 
 [Category:野球選手一覧](https://ja.wikipedia.org/wiki/Category:野球選手一覧 "wikilink") [Category:富山GRNサンダーバーズ及びその前身球団の選手](https://ja.wikipedia.org/wiki/Category:富山GRNサンダーバーズ及びその前身球団の選手 "wikilink")

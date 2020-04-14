@@ -1,4 +1,4 @@
-> この記事は[ GB ](https://ja.wikipedia.org/wiki/_GB_)から翻訳されています。
+> この記事は[不思議のダンジョン 風来のシレンGB 月影村の怪物](https://ja.wikipedia.org/wiki/不思議のダンジョン_風来のシレンGB_月影村の怪物)から翻訳されています。
 
 
 『**不思議のダンジョン 風来のシレンGB 月影村の怪物**』（ふしぎのダンジョン ふうらいのシレンGB つきかげむらのかいぶつ）は、[1996年](../Page/1996年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用のソフトとして発売された[ローグライクゲーム](../Page/ローグライクゲーム.md "wikilink")であり、[不思議のダンジョン](../Page/不思議のダンジョン.md "wikilink")・[風来のシレン](../Page/風来のシレン.md "wikilink")シリーズのひとつ。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ルードウィヒ・B](https://ja.wikipedia.org/wiki/ルードウィヒ・B)から翻訳されています。
 
 
 『**ルードウィヒ・B**』は、[手塚治虫](../Page/手塚治虫.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[コミックトム](../Page/コミックトム.md "wikilink")』（[潮出版社](../Page/潮出版社.md "wikilink")）に[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月](../Page/6月.md "wikilink")号より[1989年](../Page/1989年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")号まで連載され、作者の死去により未完となった。
@@ -83,7 +83,7 @@
 
   - [手塚治虫公式サイト内作品ページ](http://tezukaosamu.net/jp/manga/565.html)
 
-[Category:漫画作品_る](https://ja.wikipedia.org/wiki/Category:漫画作品_る "wikilink") [Category:手塚治虫の作品](https://ja.wikipedia.org/wiki/Category:手塚治虫の作品 "wikilink") [Category:コミックトム](https://ja.wikipedia.org/wiki/Category:コミックトム "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:絶筆作品の漫画](https://ja.wikipedia.org/wiki/Category:絶筆作品の漫画 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:フランス革命を題材とした作品](https://ja.wikipedia.org/wiki/Category:フランス革命を題材とした作品 "wikilink") [Category:オーストリアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:オーストリアを舞台とした作品 "wikilink") [Category:ドイツを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ドイツを舞台とした作品 "wikilink") [Category:ベートーヴェン](https://ja.wikipedia.org/wiki/Category:ベートーヴェン "wikilink") [Category:聴覚障害を扱った作品](https://ja.wikipedia.org/wiki/Category:聴覚障害を扱った作品 "wikilink")
+[Category:漫画作品_る](https://ja.wikipedia.org/wiki/Category:漫画作品_る "wikilink") [Category:手塚治虫の作品](https://ja.wikipedia.org/wiki/Category:手塚治虫の作品 "wikilink") [Category:コミックトム](https://ja.wikipedia.org/wiki/Category:コミックトム "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:絶筆作品の漫画](https://ja.wikipedia.org/wiki/Category:絶筆作品の漫画 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:フランス革命を題材とした作品](https://ja.wikipedia.org/wiki/Category:フランス革命を題材とした作品 "wikilink") [Category:オーストリアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:オーストリアを舞台とした作品 "wikilink") [Category:ドイツを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ドイツを舞台とした作品 "wikilink") [Category:ベートーヴェン](https://ja.wikipedia.org/wiki/Category:ベートーヴェン "wikilink") [Category:聴覚障害を扱った漫画](https://ja.wikipedia.org/wiki/Category:聴覚障害を扱った漫画 "wikilink")
 
 1.  当時『[エロイカ](../Page/栄光のナポレオン-エロイカ.md "wikilink")』を執筆中の[池田理代子](../Page/池田理代子.md "wikilink")との対談の際にそれを知った手塚は、その作品にはベートーヴェンは登場するのかと訊ねたという。逆に池田は手塚がベートーヴェンを主人公にした作品を執筆中と知って、連載誌と題名を教えてほしいと言ったが、手塚ははにかんで教えてくれなかったという。
 2.  佐藤敏章編「神様の伴走者」2010年

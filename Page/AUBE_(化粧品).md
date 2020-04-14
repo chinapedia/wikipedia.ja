@@ -1,4 +1,4 @@
-> この記事は[AUBE \(\)](https://ja.wikipedia.org/wiki/AUBE_\(\))から翻訳されています。
+> この記事は[AUBE \(化粧品\)](https://ja.wikipedia.org/wiki/AUBE_\(化粧品\))から翻訳されています。
 
 
 **AUBE**（オーブ）は、[花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")のメイクアップ[ブランド](../Page/ブランド.md "wikilink")。[1993年](../Page/1993年.md "wikilink")発売開始。

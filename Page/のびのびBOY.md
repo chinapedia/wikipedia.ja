@@ -1,4 +1,4 @@
-> この記事は[BOY](https://ja.wikipedia.org/wiki/BOY)から翻訳されています。
+> この記事は[のびのびBOY](https://ja.wikipedia.org/wiki/のびのびBOY)から翻訳されています。
 
 
 『**のびのびBOY**』（のびのびボーイ、英題：**Noby Noby Boy**）は、[2009年](../Page/2009年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")より[プレイステーション3向けに](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")より[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")／[iPod touch向けにダウンロード販売が開始されたソフトウェア](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")。

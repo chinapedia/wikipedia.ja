@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[IC通信](https://ja.wikipedia.org/wiki/IC通信)から翻訳されています。
 
 
 **iC通信**（あいしー-つうしん）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](../Page/第3世代移動通信システム.md "wikilink") ([FOMA](../Page/FOMA.md "wikilink")) の[Felica](https://ja.wikipedia.org/wiki/Felica "wikilink")搭載携帯電話に実装されているデータ通信機能である。

@@ -1,4 +1,4 @@
-> この記事は[GTP ZX-T](https://ja.wikipedia.org/wiki/GTP_ZX-T)から翻訳されています。
+> この記事は[日産・GTP ZX-T](https://ja.wikipedia.org/wiki/日産・GTP_ZX-T)から翻訳されています。
 
 
 **日産・GTP ZX-T**は、[IMSAシリーズ参戦用にアメリカ](../Page/国際モータースポーツ協会.md "wikilink")・[エレクトラモーティブ](https://ja.wikipedia.org/wiki/エレクトラモーティブ "wikilink")社が1985年から1990年にかけて使用したIMSA-GTPマシン。エンジンは[フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")（アメリカでの名称は300ZX）用3リッター[V型](../Page/V型エンジン.md "wikilink")6気筒[ターボ](https://ja.wikipedia.org/wiki/ターボ "wikilink")[エンジン](../Page/エンジン.md "wikilink")、[VG30をチューンして搭載した](../Page/日産・VGエンジン.md "wikilink")。

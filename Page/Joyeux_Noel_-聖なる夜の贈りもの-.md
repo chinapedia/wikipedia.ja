@@ -1,4 +1,4 @@
-> この記事は[Joyeux Noel --](https://ja.wikipedia.org/wiki/Joyeux_Noel_--)から翻訳されています。
+> この記事は[Joyeux Noel -聖なる夜の贈りもの-](https://ja.wikipedia.org/wiki/Joyeux_Noel_-聖なる夜の贈りもの-)から翻訳されています。
 
 
 「**Joyeux Noёl〜聖なる夜の贈りもの〜**」（ジョワイユ ノエル -せいなるよるのおくりもの- ）は、[野川さくら](../Page/野川さくら.md "wikilink")の6th[シングル](../Page/シングル.md "wikilink")である。

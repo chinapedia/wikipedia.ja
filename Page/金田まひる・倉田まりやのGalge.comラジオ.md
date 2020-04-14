@@ -1,4 +1,4 @@
-> この記事は[Galge.com](https://ja.wikipedia.org/wiki/Galge.com)から翻訳されています。
+> この記事は[金田まひる・倉田まりやのGalge.comラジオ](https://ja.wikipedia.org/wiki/金田まひる・倉田まりやのGalge.comラジオ)から翻訳されています。
 
 
 『**金田まひる・倉田まりやのGalge.comラジオ**』（かねだまひる・くらたまりやのぎゃるげどっとこむらじお）は[2007年](../Page/2007年.md "wikilink")7月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月まで放送されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。提供は、株式会社[ベクターの](../Page/ベクター_\(企業\).md "wikilink")[Galge.com](../Page/Galge.com.md "wikilink")。制作は、[井桁屋](https://ja.wikipedia.org/wiki/井桁屋 "wikilink")。

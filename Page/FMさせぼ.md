@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMさせぼ](https://ja.wikipedia.org/wiki/FMさせぼ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sasebo_Community_FM_2011.JPG "wikilink") **株式会社FMさせぼ**（エフエムさせぼ）は、[長崎県](../Page/長崎県.md "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **はっぴぃ！FM**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。

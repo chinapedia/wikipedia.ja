@@ -1,4 +1,4 @@
-> この記事は[TC](https://ja.wikipedia.org/wiki/TC)から翻訳されています。
+> この記事は[フェレンツヴァーロシュTC](https://ja.wikipedia.org/wiki/フェレンツヴァーロシュTC)から翻訳されています。
 
 
 **フェレンツヴァーロシュTC**（、）こと、**フェレンツヴァーロシ・トルナ・クルブ**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")に本拠を置く[スポーツクラブである](../Page/クラブチーム.md "wikilink")。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[水球](../Page/水球.md "wikilink")、[サイクリング](../Page/自転車競技.md "wikilink")、女子[ハンドボール](../Page/ハンドボール.md "wikilink")などの部門がある。

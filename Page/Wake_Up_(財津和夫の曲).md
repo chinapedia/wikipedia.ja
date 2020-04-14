@@ -1,4 +1,4 @@
-> この記事は[Wake Up \(\)](https://ja.wikipedia.org/wiki/Wake_Up_\(\))から翻訳されています。
+> この記事は[Wake Up \(財津和夫の曲\)](https://ja.wikipedia.org/wiki/Wake_Up_\(財津和夫の曲\))から翻訳されています。
 
 
 「**Wake Up**」（ウェークアップ）は、[1979年](../Page/1979年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に発売された[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")の通算2枚目の[シングル](../Page/シングル.md "wikilink")。

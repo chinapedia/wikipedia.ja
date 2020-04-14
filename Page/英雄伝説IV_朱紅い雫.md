@@ -1,4 +1,4 @@
-> この記事は[IV ](https://ja.wikipedia.org/wiki/IV_)から翻訳されています。
+> この記事は[英雄伝説IV 朱紅い雫](https://ja.wikipedia.org/wiki/英雄伝説IV_朱紅い雫)から翻訳されています。
 
 
 『**英雄伝説IV 朱紅い雫**』\[1\]（えいゆうでんせつ4 あかいしずく、 THE LEGEND OF HEROES IV: Gagharv trilogy second "A Tear of Vermillion"）は[1996年](../Page/1996年.md "wikilink")（平成8年）に発売された[日本ファルコム](../Page/日本ファルコム.md "wikilink")によるコマンド選択型[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。同社のRPG[シリーズ](../Page/シリーズ_\(作品\).md "wikilink")《[英雄伝説（英伝）シリーズ](../Page/英雄伝説シリーズ.md "wikilink")》の第4作目であり、《英伝シリーズ》第2期となる〈[ガガーブトリロジー](../Page/英雄伝説_ガガーブトリロジー.md "wikilink")〉の第2作目。[2000年](../Page/2000年.md "wikilink")（平成12年）には自社リメイクもされている。

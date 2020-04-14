@@ -1,4 +1,4 @@
-> この記事は[ \(KinKi Kids\)](https://ja.wikipedia.org/wiki/_\(KinKi_Kids\))から翻訳されています。
+> この記事は[永遠に \(KinKi Kidsの曲\)](https://ja.wikipedia.org/wiki/永遠に_\(KinKi_Kidsの曲\))から翻訳されています。
 
 
 「**永遠に**」（えいえんに）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")26枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

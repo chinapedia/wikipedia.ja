@@ -1,4 +1,4 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[パカッポでGO!](https://ja.wikipedia.org/wiki/パカッポでGO!)から翻訳されています。
 
 
 「**パカッポでGO\!**」（パカッポでゴー）は、『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")』の[主人公](../Page/主人公.md "wikilink")・[のはらしんのすけ](../Page/野原しんのすけ.md "wikilink")（声：[矢島晶子](../Page/矢島晶子.md "wikilink")）の2作目の[シングル](../Page/シングル.md "wikilink")。

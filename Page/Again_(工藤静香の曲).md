@@ -1,4 +1,4 @@
-> この記事は[Again \(\)](https://ja.wikipedia.org/wiki/Again_\(\))から翻訳されています。
+> この記事は[Again \(工藤静香の曲\)](https://ja.wikipedia.org/wiki/Again_\(工藤静香の曲\))から翻訳されています。
 
 
 「**Again**」（アゲイン）は、[工藤静香](../Page/工藤静香.md "wikilink")通算2枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")12月2日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

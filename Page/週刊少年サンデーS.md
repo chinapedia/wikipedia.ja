@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[週刊少年サンデーS](https://ja.wikipedia.org/wiki/週刊少年サンデーS)から翻訳されています。
 
 
 『**週刊少年サンデーS**』（しゅうかんしょうねんサンデースーパー）は、[小学館](../Page/小学館.md "wikilink")の発行する[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
@@ -177,8 +177,7 @@
 <td><p>2010.10</p></td>
 <td><p>2009.08.28</p></td>
 <td><p>2010.10.12</p></td>
-<td><p>2011.06号より本誌で<br />
-「常住戦陣</p></td>
+<td><p>2011.06号より「常住戦陣</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -277,10 +276,9 @@
 <td><p>2015.05</p></td>
 <td><p>2010.12.24</p></td>
 <td><p>2015.04.24</p></td>
-<td><p>2014.02・03合併号より<br />
-並行して本誌で月イチ連載<br />
-2015.19号より<br />
-月イチ連載で本誌に完全移行</p></td>
+<td><p>2014.02・03合併号より並行して<br />
+本誌で月1連載<br />
+2015.19号より月1連載で本誌に完全移行</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">19.5</span></p></td>
@@ -1381,13 +1379,13 @@
 </tr>
 <tr class="odd">
 <td><p>109</p></td>
-<td><p><span style="display:none;">さしよおまん</span><strong><a href="https://ja.wikipedia.org/wiki/THE_SHOWMAN" title="wikilink">THE SHOWMAN</a></strong></p></td>
+<td><p><span style="display:none;">さしよおまん</span><a href="https://ja.wikipedia.org/wiki/THE_SHOWMAN" title="wikilink">THE SHOWMAN</a></p></td>
 <td><p><span style="display:none">きくた ひろゆき</span><a href="../Page/菊田洋之.md" title="wikilink">菊田洋之</a></p></td>
 <td><p><span style="display:none"> うちむら こうへい </span> <a href="https://ja.wikipedia.org/wiki/内村航平" title="wikilink">内村航平</a></p></td>
 <td><p>2018.02</p></td>
-<td><p>連載中</p></td>
+<td><p>2020.05</p></td>
 <td><p>2017.12.25</p></td>
-<td><p>連載中</p></td>
+<td><p>2020.06.01</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1451,7 +1449,8 @@
 <td><p>114</p></td>
 <td><p><span style="display:none;">きようからおれはゆうしやさかわとあのふたりへん</span>[[今日から俺は</p></td>
 <td><p>|今日から俺は</p></td>
-<td><p>〜勇者サガワとあの二人編〜]]</p></td>
+<td><p><br />
+〜勇者サガワとあの二人編〜]]</p></td>
 <td><p><span style="display:none">にしもり ひろゆき </span> <a href="../Page/西森博之.md" title="wikilink">西森博之</a></p></td>
 <td><p>—</p></td>
 <td><p>2019.01</p></td>

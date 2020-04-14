@@ -1,4 +1,4 @@
-> この記事は[Black Cherry \(Acid Black Cherry\)](https://ja.wikipedia.org/wiki/Black_Cherry_\(Acid_Black_Cherry\))から翻訳されています。
+> この記事は[Black Cherry \(Acid Black Cherryの曲\)](https://ja.wikipedia.org/wiki/Black_Cherry_\(Acid_Black_Cherryの曲\))から翻訳されています。
 
 
 「**Black Cherry**」（ブラック・チェリー）は、[Acid Black Cherryの](../Page/Acid_Black_Cherry.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FC LEOC](https://ja.wikipedia.org/wiki/FC_LEOC)から翻訳されています。
+> この記事は[横浜FC LEOCトレーニングセンター](https://ja.wikipedia.org/wiki/横浜FC_LEOCトレーニングセンター)から翻訳されています。
 
 
 **横浜FC LEOCトレーニングセンター**（よこはまエフシー レオックトレーニングセンター）は、いずれも[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[横浜FC](../Page/横浜FC.md "wikilink")の練習場。

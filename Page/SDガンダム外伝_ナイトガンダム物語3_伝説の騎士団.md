@@ -1,4 +1,4 @@
-> この記事は[SD 3 ](https://ja.wikipedia.org/wiki/SD_3_)から翻訳されています。
+> この記事は[SDガンダム外伝 ナイトガンダム物語3 伝説の騎士団](https://ja.wikipedia.org/wiki/SDガンダム外伝_ナイトガンダム物語3_伝説の騎士団)から翻訳されています。
 
 
 『**SDガンダム外伝 ナイトガンダム物語3 伝説の騎士団**』（エスディーガンダムがいでん ナイトガンダムものがたりスリー でんせつのきしだん）は、[1992年](../Page/1992年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（ファミコン）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。[カードダス](../Page/カードダス.md "wikilink")『[SDガンダム外伝 円卓の騎士編](../Page/SDガンダム外伝_円卓の騎士編.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）が題材となっている。シリーズを通しての高いエンカウント率と難易度を受け継いでいる。

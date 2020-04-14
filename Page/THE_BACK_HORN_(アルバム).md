@@ -1,4 +1,4 @@
-> この記事は[THE BACK HORN \(\)](https://ja.wikipedia.org/wiki/THE_BACK_HORN_\(\))から翻訳されています。
+> この記事は[THE BACK HORN \(アルバム\)](https://ja.wikipedia.org/wiki/THE_BACK_HORN_\(アルバム\))から翻訳されています。
 
 
 『**THE BACK HORN**』（ザ・バックホーン）は、[THE BACK HORNの](../Page/THE_BACK_HORN.md "wikilink")6枚目の[フルアルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")発売。

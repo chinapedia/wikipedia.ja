@@ -15,6 +15,14 @@
 
 2018年9月22日（土）、23日（日）「山人音楽祭2018」は初の2日間開催も決定した。
 
+2019年5月15日両A面シング『FLARE/Fire』をリリースし、6月から\["FLARE/Fire"TOUR 2019\]を開催。
+
+"Final Series -ONE MAN-"は東名阪
+
+2020年2月2日　TSUTAYA O-EAST公演をsoldさせている。
+
+2020年9月26日(土)、27日(日) 「山人音楽祭2020年」開催決定
+
 ## メンバー
 
   - **茂木洋晃**（ボーカル・ハープ）　　[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[碓氷郡](../Page/碓氷郡.md "wikilink")[松井田町](../Page/松井田町.md "wikilink")出身。
@@ -148,11 +156,45 @@ BDSS-0024:通常盤</p></td>
 <td><p>オリコン最高27位、登場回数2回</p></td>
 </tr>
 <tr class="even">
+<td><p>6th</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
+<td><p><strong>カモメトサカナ</strong></p></td>
+<td><p>BDSS-0033:初回限定盤<br />
+BDSS-0034:通常盤</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>カモメトサカナ</li>
+<li>FAKE SPEAR</li>
+<li>new:</li>
+</ol>
+<p>初回限定盤DVD 1.＜山人音楽祭2017＞JAM 2.＜山人音楽祭2017＞SOMATO 3.＜山人音楽祭2017＞REAL SIGN 4.＜山人音楽祭2017＞EVEN 5.＜京都大作戦2017＞Too oLD To KNoW 6.＜京都大作戦2017＞ダディ・ダーリン 7.＜京都大作戦2017＞日はまだ高く</p>
+</div>
+</div></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
+<td><p><strong>FLARE/Fire</strong></p></td>
+<td><p>BDSS-0036:初回限定盤<br />
+BDSS-0037:通常盤</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>FLARE</li>
+<li>Fire</li>
+<li>GOOD OLD SHINY DAYS</li>
+</ol>
+<p>初回限定盤DVD 1.FOUNDATION ＜山人音楽祭 2018 （DAY1）＞ 2.カモメトサカナ ＜山人音楽祭 2018 （DAY1）＞ 3.日はまだ高く ＜山人音楽祭 2018 （DAY1）＞ 4.らしくあれ ＜山人音楽祭 2018 （DAY1）＞ 5.Too oLD To KNoW ＜山人音楽祭 2018 （DAY2）＞ 6.ダディ・ダーリン ＜山人音楽祭 2018 （DAY2）＞ 7.EVEN ＜山人音楽祭 2018 （DAY2）＞</p>
+</div>
+</div></td>
 <td></td>
 </tr>
 </tbody>
@@ -466,6 +508,46 @@ BDSS-0030:通常盤</p></td>
 オリコン最高56位</p></td>
 </tr>
 <tr class="even">
+<td><p>2nd</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
+<td><p><strong>“カモメトサカナ”TOUR 2018-FINAL- 2018.7.21日比谷野外大音楽堂</strong></p></td>
+<td><p>BDSS-35</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全21曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>大地の勇者たち</li>
+<li>Unscramble</li>
+<li>奮い立て 合い燃えろ</li>
+<li>日はまだ高く</li>
+<li>SOUL CONNECTION</li>
+<li>風林花山</li>
+<li>HALF-DONE</li>
+<li>FAKE SPEAR</li>
+<li>風</li>
+<li>REAL SIGN</li>
+<li>イロハニホエロ</li>
+<li>KTKZ TO TAIYO</li>
+<li>ダディ・ダーリン</li>
+<li>Too oLD To KNoW</li>
+<li>カモメトサカナ</li>
+<li>SOMATO</li>
+<li>FOUNDATION</li>
+<li>らしくあれと</li>
+</ol>
+<p><code>-encore-</code></p>
+<ol>
+<li>チャンダンの香るこの部屋から~第2章~</li>
+<li>DAYS(#29)</li>
+<li>EVEN</li>
+</ol>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

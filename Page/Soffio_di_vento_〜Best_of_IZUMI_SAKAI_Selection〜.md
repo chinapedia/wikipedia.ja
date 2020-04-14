@@ -1,4 +1,4 @@
-> この記事は[Soffio di vento Best of IZUMI SAKAI Selection](https://ja.wikipedia.org/wiki/Soffio_di_vento_Best_of_IZUMI_SAKAI_Selection)から翻訳されています。
+> この記事は[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](https://ja.wikipedia.org/wiki/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜)から翻訳されています。
 
 
 『**Soffio di vento 〜Best of IZUMI SAKAI Selection〜**』（ソッフィオ・ディ・ヴェント ベスト・オブ・イズミ・サカイ・セレクション）は、[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")に発売された[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の追悼セレクションアルバム。CDコードはJBCJ-9023。

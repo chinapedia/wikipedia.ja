@@ -1,4 +1,4 @@
-> この記事は[V ](https://ja.wikipedia.org/wiki/V_)から翻訳されています。
+> この記事は[英雄伝説V 海の檻歌](https://ja.wikipedia.org/wiki/英雄伝説V_海の檻歌)から翻訳されています。
 
 
 『**英雄伝説V 海の檻歌**』\[1\]（えいゆうでんせつ5 うみのおりうた、THE LEGEND OF HEROES V: Gagharv trilogy final "A Cagesong of the Ocean"）は[1999年](../Page/1999年.md "wikilink")（平成11年）に発売された[日本ファルコム](../Page/日本ファルコム.md "wikilink")によるコマンド選択型[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。同社のRPG[シリーズ](../Page/シリーズ_\(作品\).md "wikilink")《[英雄伝説（英伝）シリーズ](../Page/英雄伝説シリーズ.md "wikilink")》の第5作目であり、《英伝シリーズ》第2期となる〈[ガガーブトリロジー](../Page/英雄伝説_ガガーブトリロジー.md "wikilink")〉の完結編となる第3作目。

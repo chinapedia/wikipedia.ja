@@ -1,4 +1,4 @@
-> この記事は[TGV](https://ja.wikipedia.org/wiki/TGV)から翻訳されています。
+> この記事は[TGVオート・ピカルディ駅](https://ja.wikipedia.org/wiki/TGVオート・ピカルディ駅)から翻訳されています。
 
 
 **TGVオート・ピカルディ駅**([フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"):Gare TGV Haute-Picardie)は[LGV北線](https://ja.wikipedia.org/wiki/LGV北線 "wikilink")(LGV北ヨーロッパ線)の[リール](../Page/リール_\(フランス\).md "wikilink")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")間にある[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")の[駅で](../Page/鉄道駅.md "wikilink")、サン・カンタンと[アミアン](../Page/アミアン.md "wikilink")の間に位置している。建設時、[マスコミからどちらの町からも](../Page/マスメディア.md "wikilink")、利用するには遠すぎて不便であると批判された。駅周辺には甜菜畑が広がっているため、しばしば「[甜菜](../Page/テンサイ.md "wikilink")(てんさい)の根の駅」'gare des bettraves'というあだ名で呼ばれている。当駅は接続される鉄道路線よりも幹線道路の近くに位置しているという不便な場所ではあるが、2006年現在、利用客は年間300万人ほどにのぼっている。

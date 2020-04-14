@@ -1,4 +1,4 @@
-> この記事は[ \(GyaO\)](https://ja.wikipedia.org/wiki/_\(GyaO\))から翻訳されています。
+> この記事は[サウンドオブミュージック \(GyaO\)](https://ja.wikipedia.org/wiki/サウンドオブミュージック_\(GyaO\))から翻訳されています。
 
 
 **サウンドオブミュージック**とはインターネットテレビ[GyaOの](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")「[MIDTOWN TV](../Page/MIDTOWN_TV.md "wikilink")」内で毎週水曜に放送、配信されていた[音楽番組](../Page/音楽番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")放送開始、同年9月12日まで放送。

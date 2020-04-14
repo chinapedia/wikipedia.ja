@@ -1,4 +1,4 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBCニュース](https://ja.wikipedia.org/wiki/YBCニュース)から翻訳されています。
 
 
 『**YBCニュース**』（ワイビーシーニュース）は、[山形放送](../Page/山形放送.md "wikilink")で放送されている[山形新聞](../Page/山形新聞.md "wikilink")協力の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")である。かつては「**[山形新聞ニュース](https://ja.wikipedia.org/wiki/山形新聞ニュース "wikilink")**」（やまがたしんぶんニュース）として放送されていた。なお[2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")早朝（「[グッとモーニン\!\!](https://ja.wikipedia.org/wiki/グッとモーニン!! "wikilink")」の箱番組・1コーナー枠）よりラジオのスポットニュース枠は「**YBCニュースライナー**」（ワイビーシーニュースライナー）にタイトル変更となった。

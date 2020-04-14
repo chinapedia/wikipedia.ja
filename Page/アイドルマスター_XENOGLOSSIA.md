@@ -1,4 +1,4 @@
-> この記事は[ XENOGLOSSIA](https://ja.wikipedia.org/wiki/_XENOGLOSSIA)から翻訳されています。
+> この記事は[アイドルマスター XENOGLOSSIA](https://ja.wikipedia.org/wiki/アイドルマスター_XENOGLOSSIA)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

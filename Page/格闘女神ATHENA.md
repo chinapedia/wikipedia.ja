@@ -1,4 +1,4 @@
-> この記事は[ATHENA](https://ja.wikipedia.org/wiki/ATHENA)から翻訳されています。
+> この記事は[格闘女神ATHENA](https://ja.wikipedia.org/wiki/格闘女神ATHENA)から翻訳されています。
 
 
 **格闘女神ATHENA**（かくとうじょしん あてな）とは、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月から[2002年](../Page/2002年.md "wikilink")3月まで[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")および[フジテレビ721にて放映された](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")[プロレス中継](../Page/プロレス中継.md "wikilink")番組である。地上波では月1回、日曜深夜を原則として放映された。

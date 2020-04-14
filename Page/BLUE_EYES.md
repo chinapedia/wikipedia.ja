@@ -15,7 +15,7 @@
   - *Ol' Blue Eyes Is Back* - [フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")のスタジオアルバム。([1973年](../Page/1973年.md "wikilink"))
   - ブルー・アイズ（*Blue Eyes*） - [エルトン・ジョン](../Page/エルトン・ジョン.md "wikilink")の楽曲。アルバム『[ジャンプ・アップ](https://ja.wikipedia.org/wiki/ジャンプ・アップ "wikilink")』に収録。([1982年](../Page/1982年.md "wikilink"))
   - [BLUE EYES (松原みきのアルバム)](../Page/BLUE_EYES_\(松原みきのアルバム\).md "wikilink") - [松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")のアルバム。([1984年](../Page/1984年.md "wikilink"))
-  - ブルー・アイズ - [柳原幼一郎の楽曲](../Page/柳原陽一郎.md "wikilink")。シングル「[みんなおぼえてる](https://ja.wikipedia.org/wiki/みんなおぼえてる "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に収録。
+  - ブルー・アイズ - [柳原幼一郎の楽曲](../Page/柳原陽一郎.md "wikilink")。シングル『[みんなおぼえてる/ブルー・アイズ](https://ja.wikipedia.org/wiki/みんなおぼえてる/ブルー・アイズ "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に収録。
   - Blue eyes...blue - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[ふしぎ遊戯](../Page/ふしぎ遊戯.md "wikilink")の挿入歌。歌唱：[古澤徹](../Page/古澤徹.md "wikilink")／作詞：[青木久美子](https://ja.wikipedia.org/wiki/青木久美子 "wikilink")／作曲：松原みき。（1995年)
   - [Baby blue eyes](../Page/Baby_blue_eyes.md "wikilink") - [椎名へきる](../Page/椎名へきる.md "wikilink")のアルバム。([1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink"))
   - Blue eyes 〜Introduction〜 - [DEEN](../Page/DEEN.md "wikilink")の楽曲。アルバム『[Ballads in Blue〜The greatest hits of DEEN〜](../Page/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜.md "wikilink")』に収録。([2001年](../Page/2001年.md "wikilink"))

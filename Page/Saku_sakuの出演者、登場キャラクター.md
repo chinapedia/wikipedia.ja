@@ -1,4 +1,4 @@
-> この記事は[Saku saku](https://ja.wikipedia.org/wiki/Saku_saku)から翻訳されています。
+> この記事は[Saku sakuの出演者、登場キャラクター](https://ja.wikipedia.org/wiki/Saku_sakuの出演者、登場キャラクター)から翻訳されています。
 
 
 **saku sakuの出演者、登場キャラクター**（サクサクのしゅつえんしゃ、とうじょうキャラクター）は、[独立放送局などで放送されている](../Page/全国独立放送協議会.md "wikilink")[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）制作の[バラエティ仕立て](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[音楽](../Page/音楽.md "wikilink")情報番組『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』の出演者と架空のキャラクターを記述する。

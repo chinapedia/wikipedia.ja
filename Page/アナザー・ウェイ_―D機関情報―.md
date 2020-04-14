@@ -1,4 +1,4 @@
-> この記事は[ D](https://ja.wikipedia.org/wiki/_D)から翻訳されています。
+> この記事は[アナザー・ウェイ ―D機関情報―](https://ja.wikipedia.org/wiki/アナザー・ウェイ_―D機関情報―)から翻訳されています。
 
 
 『**アナザー・ウェイ ―D機関情報―**』（アナザー・ウェイ ディーきかんじょうほう）は、[西村京太郎](../Page/西村京太郎.md "wikilink")の小説『[D機関情報](https://ja.wikipedia.org/wiki/D機関情報 "wikilink")』の映画化作品である。[タキ・エンタープライズ](https://ja.wikipedia.org/wiki/タキ・エンタープライズ "wikilink")製作による[日本映画](../Page/日本映画.md "wikilink")である。[1988年](../Page/1988年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")より[東宝](../Page/東宝.md "wikilink")洋画系にて公開された。[東宝東和](../Page/東宝東和.md "wikilink")創立60周年記念作品。

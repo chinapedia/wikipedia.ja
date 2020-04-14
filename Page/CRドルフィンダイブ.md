@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRドルフィンダイブ](https://ja.wikipedia.org/wiki/CRドルフィンダイブ)から翻訳されています。
 
 
 **CRドルフィンダイブ**は、[藤商事](../Page/藤商事.md "wikilink")の[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[2005年](../Page/2005年.md "wikilink")11月に導入が開始された。

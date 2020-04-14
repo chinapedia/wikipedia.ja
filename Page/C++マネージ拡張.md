@@ -1,4 +1,4 @@
-> この記事は[C++](https://ja.wikipedia.org/wiki/C++)から翻訳されています。
+> この記事は[C++マネージ拡張](https://ja.wikipedia.org/wiki/C++マネージ拡張)から翻訳されています。
 
 
 **C++マネージ拡張** (****, ****) は、[C++](../Page/C++.md "wikilink")で[.NET Frameworkアプリケーションを記述するための](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")によるC++の拡張である。これによって、C++で[ネイティブコード](https://ja.wikipedia.org/wiki/ネイティブコード "wikilink")だけでなく[共通言語ランタイム](../Page/共通言語ランタイム.md "wikilink") (CLR) に向けた[アプリケーションを記述できる](../Page/アプリケーションソフトウェア.md "wikilink")。この拡張は、[2002年](../Page/2002年.md "wikilink")にリリースされた[Visual Studio .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") (2002) に含まれる[Visual C++ .NET](../Page/Microsoft_Visual_C++.md "wikilink") (2002) に初めて搭載された。

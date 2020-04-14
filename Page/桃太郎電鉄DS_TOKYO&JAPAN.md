@@ -1,4 +1,4 @@
-> この記事は[DS TOKYO\&JAPAN](https://ja.wikipedia.org/wiki/DS_TOKYO\&JAPAN)から翻訳されています。
+> この記事は[桃太郎電鉄DS TOKYO\&JAPAN](https://ja.wikipedia.org/wiki/桃太郎電鉄DS_TOKYO\&JAPAN)から翻訳されています。
 
 
 **桃太郎電鉄DS TOKYO\&JAPAN**（ももたろうでんてつディーエス トーキョー アンド ジャパン）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")向けのボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")第17作。

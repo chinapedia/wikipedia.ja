@@ -1,4 +1,4 @@
-> この記事は[RP \(\)](https://ja.wikipedia.org/wiki/RP_\(\))から翻訳されています。
+> この記事は[RP \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/RP_\(計算複雑性理論\))から翻訳されています。
 
 
 [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における**RP**(randomized polynomial time)とは、以下の3つの属性を持つ[確率的チューリング機械](https://ja.wikipedia.org/wiki/確率的チューリング機械 "wikilink")で解ける問題の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")である。

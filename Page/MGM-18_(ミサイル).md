@@ -1,4 +1,4 @@
-> この記事は[MGM-18 \(\)](https://ja.wikipedia.org/wiki/MGM-18_\(\))から翻訳されています。
+> この記事は[MGM-18 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-18_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGM-18 ラクロス | 画像=Image:MGM-18 Lacrosse 06.jpg | キャプション=[M35トラックのM](https://ja.wikipedia.org/wiki/M35_2.5tトラック "wikilink")398発射機上にあるMGM-18 ラクロス。 | 用途=地対地戦域攻撃 | 分類=[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink")、[核ミサイル](../Page/核ミサイル.md "wikilink") | 設計者=[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")、コーネル航空研究所 | 製造者=[マーティン](https://ja.wikipedia.org/wiki/グレン・L・マーティン・カンパニー "wikilink") | 運用者=（[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")） | 初飛行年月日=[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")（XM31） | 生産数= | 生産開始年月日=[1955年](../Page/1955年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")（生産契約） | 運用開始年月日=[1959年](../Page/1959年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")（アメリカ陸軍） | 退役年月日=[1964年](../Page/1964年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")（登録抹消） | 運用状況=退役 | ユニットコスト= }}

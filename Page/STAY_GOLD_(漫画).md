@@ -1,4 +1,4 @@
-> この記事は[STAY GOLD \(\)](https://ja.wikipedia.org/wiki/STAY_GOLD_\(\))から翻訳されています。
+> この記事は[STAY GOLD \(漫画\)](https://ja.wikipedia.org/wiki/STAY_GOLD_\(漫画\))から翻訳されています。
 
 
 『**STAY GOLD**』（ステイゴールド）は、[大島司](../Page/大島司.md "wikilink")の漫画。[講談社](../Page/講談社.md "wikilink")『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』[2004年](../Page/2004年.md "wikilink")第24号から第49号まで連載された。単行本は講談社から（[マガジンKC](https://ja.wikipedia.org/wiki/講談社コミックス "wikilink")）全3巻。

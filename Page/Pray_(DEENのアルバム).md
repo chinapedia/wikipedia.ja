@@ -1,4 +1,4 @@
-> この記事は[Pray \(DEEN\)](https://ja.wikipedia.org/wiki/Pray_\(DEEN\))から翻訳されています。
+> この記事は[Pray \(DEENのアルバム\)](https://ja.wikipedia.org/wiki/Pray_\(DEENのアルバム\))から翻訳されています。
 
 
 『**pray**』（プレイ）は[DEEN](../Page/DEEN.md "wikilink")の5枚目のオリジナル・アルバム。「DEEN's AOR」をテーマに作品づくりが進められた。前作「'need love」では、全楽曲メンバーによる作曲であったが、今作品では多くの楽曲提供を受けている。そこには「和音～Songs for children～」で様々なアーティストとコラボレーションする中で多くの刺激を受け、さらに新たな可能性を見出そうとするバンドの前向きな姿勢が影響している。

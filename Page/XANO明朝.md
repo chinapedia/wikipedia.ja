@@ -1,4 +1,4 @@
-> この記事は[XANO](https://ja.wikipedia.org/wiki/XANO)から翻訳されています。
+> この記事は[XANO明朝](https://ja.wikipedia.org/wiki/XANO明朝)から翻訳されています。
 
 
 **XANO明朝**（かくちょうアノみんちょう、エクスアノみんちょう〔正しい読みは未決定〕）は、[内田明](https://ja.wikipedia.org/wiki/内田明 "wikilink")によって公開されている、[JIS X 0213に対応した](../Page/JIS_X_0213.md "wikilink")[明朝体](../Page/明朝体.md "wikilink")の[フリー](../Page/フリーソフトウェア.md "wikilink")[フォント](../Page/フォント.md "wikilink")である。以前は**Kandata**や**拡張ワタナベワダケン明朝フォント**というフォント名で公開されていた。

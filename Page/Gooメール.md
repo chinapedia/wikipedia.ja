@@ -1,4 +1,4 @@
-> この記事は[Goo](https://ja.wikipedia.org/wiki/Goo)から翻訳されています。
+> この記事は[Gooメール](https://ja.wikipedia.org/wiki/Gooメール)から翻訳されています。
 
 
 **gooメール**（グーメール）は、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が運営する総合[ポータルサイト](../Page/ポータルサイト.md "wikilink")の[goo](https://ja.wikipedia.org/wiki/goo "wikilink")が提供している有償[電子メール](../Page/電子メール.md "wikilink")サービス。無料版は、2015年に終了した\[1\]。
@@ -26,7 +26,7 @@
   - 送受信容量
     10MBまで、[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")：20MBまで
 
-  - [絵文字](../Page/絵文字.md "wikilink")
+  - ふり
 
   - [ウイルスチェック](https://ja.wikipedia.org/wiki/ウイルスチェック "wikilink")
     全送受信メールに対して、[カスペルスキー](../Page/カスペルスキー.md "wikilink")によるウイルスの検知・駆除

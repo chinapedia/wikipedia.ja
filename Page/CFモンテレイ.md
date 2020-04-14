@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[CFモンテレイ](https://ja.wikipedia.org/wiki/CFモンテレイ)から翻訳されています。
 
 
 **CFモンテレイ**（）は、[メキシコ](../Page/メキシコ.md "wikilink")北東部、[ヌエボ・レオン州](../Page/ヌエボ・レオン州.md "wikilink")の州都[モンテレイに本拠地を置く](../Page/モンテレイ_\(メキシコ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[プリメーラ・ディビシオンに所属](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(メキシコ\) "wikilink")。
@@ -466,7 +466,7 @@ CACAF</p></th>
 
   - [エウゼビオ](../Page/エウゼビオ.md "wikilink") 1975-1976
 
-  - [カルロス・エルモシージョ](https://ja.wikipedia.org/wiki/カルロス・エルモシージョ "wikilink") 1990-1991
+  - [カルロス・エルモシージョ](../Page/カルロス・エルモシージョ.md "wikilink") 1990-1991
 
   - [ヘスス・アレジャノ](https://ja.wikipedia.org/wiki/ヘスス・アレジャノ "wikilink") 1992-1997、2000-2011
 

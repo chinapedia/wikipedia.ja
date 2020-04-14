@@ -1,4 +1,4 @@
-> この記事は[Windows ](https://ja.wikipedia.org/wiki/Windows_)から翻訳されています。
+> この記事は[Windows サーチ](https://ja.wikipedia.org/wiki/Windows_サーチ)から翻訳されています。
 
 
 **Windows サーチ**（ウィンドウズ - , Windows Search）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")から無償提供されている[Windows向けのデスクトップ検索ツール](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、および[Windows Vista以降](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、同ツールが標準で搭載された検索機能。公式リリース前から「[MSN](../Page/MSN.md "wikilink") デスクトップサーチ」として知られており「MSNサーチツールバー」の付属ツールという位置づけだった。その後、Windowsデスクトップサーチ (WDS) と名称を変えた。[2005年](../Page/2005年.md "wikilink")リリースのバージョン2は[Windows 2000](../Page/Microsoft_Windows_2000.md "wikilink")、[Windows XPおよび](../Page/Microsoft_Windows_XP.md "wikilink")[Windows Server 2003で利用可能だったが](../Page/Microsoft_Windows_Server_2003.md "wikilink")、[2006年](../Page/2006年.md "wikilink")のバージョン3はXPとServer 2003のみで利用可能となった。

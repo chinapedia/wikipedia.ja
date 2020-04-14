@@ -1,4 +1,4 @@
-> この記事は[Mint \(\)](https://ja.wikipedia.org/wiki/Mint_\(\))から翻訳されています。
+> この記事は[Mint \(愛内里菜の曲\)](https://ja.wikipedia.org/wiki/Mint_\(愛内里菜の曲\))から翻訳されています。
 
 
 「**Mint**」（ミント）は、2007年8月15日に発売された、女性歌手[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の24枚目のシングル。CDコードはGZCA-7094。

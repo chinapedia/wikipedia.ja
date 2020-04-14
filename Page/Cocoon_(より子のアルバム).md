@@ -1,4 +1,4 @@
-> この記事は[Cocoon \(\)](https://ja.wikipedia.org/wiki/Cocoon_\(\))から翻訳されています。
+> この記事は[Cocoon \(より子のアルバム\)](https://ja.wikipedia.org/wiki/Cocoon_\(より子のアルバム\))から翻訳されています。
 
 
 『**Cocoon**』（コクーン）は、[より子](../Page/より子.md "wikilink")のメジャーデビューアルバム。

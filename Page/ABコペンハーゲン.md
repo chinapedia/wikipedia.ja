@@ -1,4 +1,4 @@
-> この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
+> この記事は[ABコペンハーゲン](https://ja.wikipedia.org/wiki/ABコペンハーゲン)から翻訳されています。
 
 
 **アカデミスク・ボルドクラブ・グラッドサクセ** () 、通称**AB**は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の首都[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016-17シーズンは[デンマーク・ファーストディビジョン](https://ja.wikipedia.org/wiki/デンマーク・ファーストディビジョン "wikilink")（2部）に所属する。

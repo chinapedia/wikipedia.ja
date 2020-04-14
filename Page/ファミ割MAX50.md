@@ -1,4 +1,4 @@
-> この記事は[MAX50](https://ja.wikipedia.org/wiki/MAX50)から翻訳されています。
+> この記事は[ファミ割MAX50](https://ja.wikipedia.org/wiki/ファミ割MAX50)から翻訳されています。
 
 
 **ファミ割MAX50**は、[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に開始された[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の月額[基本料金割引サービスである](https://ja.wikipedia.org/wiki/携帯電話の基本料金 "wikilink")。

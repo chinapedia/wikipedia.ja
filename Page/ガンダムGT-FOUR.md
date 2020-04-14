@@ -1,4 +1,4 @@
-> この記事は[GT-FOUR](https://ja.wikipedia.org/wiki/GT-FOUR)から翻訳されています。
+> この記事は[ガンダムGT-FOUR](https://ja.wikipedia.org/wiki/ガンダムGT-FOUR)から翻訳されています。
 
 
 **ガンダムGT-FOUR**（ガンダムジーティーフォー）は、『[ガンダムシリーズ](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")』に登場する架空の兵器。有人操縦式の人型ロボット兵器「モビルスーツ」(MS)の一つ。初出は漫画『[機動戦士ガンダム MSジェネレーション](../Page/機動戦士ガンダム_MSジェネレーション.md "wikilink")』。[ガンダムに航空機への可変機構をもたせるべく開発された機体で](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink")、機体名の「FOUR」とは「**Flight & Operaitions Unification Reacters**」の略である。

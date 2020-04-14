@@ -1,4 +1,4 @@
-> この記事は[SAKURA --](https://ja.wikipedia.org/wiki/SAKURA_--)から翻訳されています。
+> この記事は[SAKURAマジック -しあわせになろう-](https://ja.wikipedia.org/wiki/SAKURAマジック_-しあわせになろう-)から翻訳されています。
 
 
 「**SAKURAマジック〜しあわせになろう〜**」は、[野川さくら](../Page/野川さくら.md "wikilink")の4th[シングル](../Page/シングル.md "wikilink")である。

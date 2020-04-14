@@ -1,4 +1,4 @@
-> この記事は[Dual Love on the planet --](https://ja.wikipedia.org/wiki/Dual_Love_on_the_planet_--)から翻訳されています。
+> この記事は[Dual Love on the planet -葉ノ香-](https://ja.wikipedia.org/wiki/Dual_Love_on_the_planet_-葉ノ香-)から翻訳されています。
 
 
 「**Dual Love on the planet〜葉ノ香〜**」（デュアル・ラブ・オン・ザ・プラネット -はのか-）は、[野川さくら](../Page/野川さくら.md "wikilink")の8枚目[シングル](../Page/シングル.md "wikilink")である。 2009年現在で、[ランティス](../Page/ランティス.md "wikilink")からリリースされたシングルでは、この作品が最後となっている。

@@ -1,4 +1,4 @@
-> この記事は[SF J](https://ja.wikipedia.org/wiki/SF_J)から翻訳されています。
+> この記事は[ハヤカワSFシリーズ Jコレクション](https://ja.wikipedia.org/wiki/ハヤカワSFシリーズ_Jコレクション)から翻訳されています。
 
 
 **ハヤカワSFシリーズ Jコレクション**は、2002年4月から[早川書房](../Page/早川書房.md "wikilink")が刊行しているエンターテインメント[叢書](../Page/叢書.md "wikilink")。創刊者は[塩澤快浩](../Page/塩澤快浩.md "wikilink")。 ラインナップは「活字の想像力」をコンセプトにした[SF小説および漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。 四六判変型ソフトカバー。[電子書籍](../Page/電子書籍.md "wikilink")版も同時発売された。

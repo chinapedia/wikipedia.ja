@@ -1,4 +1,4 @@
-> この記事は[CANDYPOPSWEETHEART](https://ja.wikipedia.org/wiki/CANDYPOPSWEETHEART)から翻訳されています。
+> この記事は[CANDY☆POP☆SWEET☆HEART](https://ja.wikipedia.org/wiki/CANDY☆POP☆SWEET☆HEART)から翻訳されています。
 
 
 「**CANDY☆POP☆SWEET☆HEART**」（キャンディー・ポップ・スイート・ハート）は、[声優](../Page/声優.md "wikilink")の[新谷良子](../Page/新谷良子.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")にリリースした8th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。発売元は[Lantis](../Page/ランティス.md "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")。

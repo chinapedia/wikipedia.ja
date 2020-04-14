@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKシロキ・ブリイェグ](https://ja.wikipedia.org/wiki/NKシロキ・ブリイェグ)から翻訳されています。
 
 
 **ノゴメトニ・クルブ・シロキ・ブリイェグ**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[シロキ・ブリイェグ](../Page/シロキ・ブリイェグ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[XK](https://ja.wikipedia.org/wiki/XK)から翻訳されています。
+> この記事は[ジャガー・XK](https://ja.wikipedia.org/wiki/ジャガー・XK)から翻訳されています。
 
 
 [2007-Jaguar-XKR-convertible-front.jpg](https://ja.wikipedia.org/wiki/File:2007-Jaguar-XKR-convertible-front.jpg "fig:2007-Jaguar-XKR-convertible-front.jpg") **ジャガー・XK**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー[ジャガー社より](../Page/ジャガー_\(自動車\).md "wikilink")、[1996年](../Page/1996年.md "wikilink")から[2014年](../Page/2014年.md "wikilink")まで販売されていた[スポーツカー](../Page/スポーツカー.md "wikilink")。

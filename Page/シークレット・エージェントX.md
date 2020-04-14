@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[シークレット・エージェントX](https://ja.wikipedia.org/wiki/シークレット・エージェントX)から翻訳されています。
 
 
 **シークレット・エージェントX**(**Secret Agent X**)は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のA. A. Wyn社から出版された[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")のタイトル、および同誌でフィーチャーされたメインキャラクターの名前である。[1934年](../Page/1934年.md "wikilink")2月から[1939年](../Page/1939年.md "wikilink")3月までに41号が刊行された。

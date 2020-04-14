@@ -1,4 +1,4 @@
-> この記事は[STVToday](https://ja.wikipedia.org/wiki/STVToday)から翻訳されています。
+> この記事は[STVニュースToday](https://ja.wikipedia.org/wiki/STVニュースToday)から翻訳されています。
 
 
 『**STVニュースToday**』（エス・ティー・ヴィー・ニュース・トゥディ）は、[1982年](../Page/1982年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink") (STV) にて放送されたニュース番組のタイトルである。

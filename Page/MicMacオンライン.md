@@ -1,4 +1,4 @@
-> この記事は[MicMac](https://ja.wikipedia.org/wiki/MicMac)から翻訳されています。
+> この記事は[MicMacオンライン](https://ja.wikipedia.org/wiki/MicMacオンライン)から翻訳されています。
 
 
 『**MicMacオンライン**(ミックマックオンライン、MicMac Online)』は、[韓国のJOYSPELL社が開発した](../Page/大韓民国.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")で、日本では、株式会社ベルクス(株式会社[ベクターの子会社](../Page/ベクター_\(企業\).md "wikilink")、2007年9月1日よりベクターからベルクスに運営が移行)が運営をしていた。ベクターグループの[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")参入第一弾である\[1\](第二弾は[ArsMagna](https://ja.wikipedia.org/wiki/ArsMagna "wikilink")であり、同じ[アカウント](../Page/アカウント.md "wikilink")でArsMagnaもプレイできる)。[ネットマーブルからもプレイできた](../Page/ネットマーブルジャパン.md "wikilink")\[2\]。2006年6月1日〜15日にクローズドβテストが実施された。同年7月7日よりオープンβテストが開始され、同年11月1日に正式サービスへ移行した。参考までに、MicMacはフランス語で、混迷、混乱、紛糾、陰謀、悪巧み、企みなどの意味であり、「[MicMacれぃでぃお](https://ja.wikipedia.org/wiki/いつでもいっしょ!_伊月ゆい・植田佳奈の_MicMacれぃでぃお "wikilink")(オープンβ中にキャンペーンとして行われた)」等によると「ごちゃまぜ」の意味が込められているという\[3\]([\#ベルクス公式サイトの本ゲームの紹介ページにも](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")「ごちゃまぜ」の意味であると記述されていた)。MicMacOnlineを略すとMMOになる。2008年9月30日にサービスを終了した。

@@ -1,4 +1,4 @@
-> この記事は[GOI \(\)](https://ja.wikipedia.org/wiki/GOI_\(\))から翻訳されています。
+> この記事は[GOI \(小惑星\)](https://ja.wikipedia.org/wiki/GOI_\(小惑星\))から翻訳されています。
 
 
 **GOI** (5839 GOI) は[小惑星帯](../Page/小惑星帯.md "wikilink")に位置する[小惑星](../Page/小惑星.md "wikilink")。[ロシア](../Page/ロシア.md "wikilink")の[天文学者](../Page/天文学者の一覧.md "wikilink")[ニコライ・チェルヌイフ](https://ja.wikipedia.org/wiki/ニコライ・チェルヌイフ "wikilink")がクリミア天体物理天文台で発見した。

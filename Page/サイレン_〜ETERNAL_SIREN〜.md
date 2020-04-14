@@ -1,4 +1,4 @@
-> この記事は[ ETERNAL SIREN](https://ja.wikipedia.org/wiki/_ETERNAL_SIREN)から翻訳されています。
+> この記事は[サイレン 〜ETERNAL SIREN〜](https://ja.wikipedia.org/wiki/サイレン_〜ETERNAL_SIREN〜)から翻訳されています。
 
 
 『**サイレン 〜ETERNAL SIREN〜**』（サイレン エターナル・サイレン）は、[万乗大智](../Page/万乗大智.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ヤングサンデー](https://ja.wikipedia.org/wiki/ヤングサンデー "wikilink")』に連載された。『[SIREN2](../Page/SIREN2.md "wikilink")』の[メディアミックス](../Page/メディアミックス.md "wikilink")作品である。

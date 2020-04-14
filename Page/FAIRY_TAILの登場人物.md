@@ -1,4 +1,4 @@
-> この記事は[FAIRY TAIL](https://ja.wikipedia.org/wiki/FAIRY_TAIL)から翻訳されています。
+> この記事は[FAIRY TAILの登場人物](https://ja.wikipedia.org/wiki/FAIRY_TAILの登場人物)から翻訳されています。
 
 
 **FAIRY TAILの登場人物**では、[真島ヒロ](../Page/真島ヒロ.md "wikilink")の漫画作品『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』に登場するキャラクターについて説明する。 各ギルドの詳細については[FAIRY TAIL\#ギルドを参照](https://ja.wikipedia.org/wiki/FAIRY_TAIL#ギルド "wikilink")。

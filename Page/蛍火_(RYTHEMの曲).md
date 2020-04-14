@@ -1,4 +1,4 @@
-> この記事は[ \(RYTHEM\)](https://ja.wikipedia.org/wiki/_\(RYTHEM\))から翻訳されています。
+> この記事は[蛍火 \(RYTHEMの曲\)](https://ja.wikipedia.org/wiki/蛍火_\(RYTHEMの曲\))から翻訳されています。
 
 
 「**蛍火**」（ほたるび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](../Page/デュオ.md "wikilink")・[RYTHEM](../Page/RYTHEM.md "wikilink")の12作目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SX](https://ja.wikipedia.org/wiki/SX)から翻訳されています。
+> この記事は[SアリーナX](https://ja.wikipedia.org/wiki/SアリーナX)から翻訳されています。
 
 
 **SアリーナX**とは、[2006年](../Page/2006年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")まで放送していた[Sアリーナ](../Page/Sアリーナ.md "wikilink")の日曜版。

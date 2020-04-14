@@ -1,4 +1,4 @@
-> この記事は[ULaRa](https://ja.wikipedia.org/wiki/ULaRa)から翻訳されています。
+> この記事は[U・La・Ra](https://ja.wikipedia.org/wiki/U・La・Ra)から翻訳されています。
 
 
 **U・La・Ra**（うらら）は、[野川さくら](../Page/野川さくら.md "wikilink")の2枚目のアルバムである。

@@ -1,4 +1,4 @@
-> この記事は[VD](https://ja.wikipedia.org/wiki/VD)から翻訳されています。
+> この記事は[トヨタ・VDエンジン](https://ja.wikipedia.org/wiki/トヨタ・VDエンジン)から翻訳されています。
 
 
 **トヨタ・VDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[V型8気筒](../Page/V型8気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

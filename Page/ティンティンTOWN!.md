@@ -1,4 +1,4 @@
-> この記事は[TOWN!](https://ja.wikipedia.org/wiki/TOWN!)から翻訳されています。
+> この記事は[ティンティンTOWN!](https://ja.wikipedia.org/wiki/ティンティンTOWN!)から翻訳されています。
 
 
 『**ティンティンTOWN\!**』（ティンティンタウン）は、[日本テレビ系列局ほかで放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[子供向け番組](../Page/子供番組.md "wikilink")。製作局の日本テレビでは[2002年](../Page/2002年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された。

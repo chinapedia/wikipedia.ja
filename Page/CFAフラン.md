@@ -1,4 +1,4 @@
-> この記事は[CFA](https://ja.wikipedia.org/wiki/CFA)から翻訳されています。
+> この記事は[CFAフラン](https://ja.wikipedia.org/wiki/CFAフラン)から翻訳されています。
 
 
 **CFAフラン**（**セーファー**フラン\[1\]、）は、旧[フランス領西アフリカ](../Page/フランス領西アフリカ.md "wikilink")および[フランス領赤道アフリカ](../Page/フランス領赤道アフリカ.md "wikilink")を中心とする多くの国で用いられる共同[通貨](../Page/通貨.md "wikilink")。[西アフリカ諸国中央銀行](../Page/西アフリカ諸国中央銀行.md "wikilink") (、) 発行のもの（[ISO 4217コード](../Page/ISO_4217.md "wikilink")**XOF**）と、[中部アフリカ諸国銀行](https://ja.wikipedia.org/wiki/中部アフリカ諸国銀行 "wikilink") (、) 発行のもの（同**XAF**）との2種類がある。両者は通貨としての価値は同一であるが、相互には用いられていない。

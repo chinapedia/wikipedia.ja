@@ -1,4 +1,4 @@
-> この記事は[With You ](https://ja.wikipedia.org/wiki/With_You_)から翻訳されています。
+> この記事は[With You 〜みつめていたい〜](https://ja.wikipedia.org/wiki/With_You_〜みつめていたい〜)から翻訳されています。
 
 
 『**With You 〜みつめていたい〜**』（ウィズ ユー みつめていたい）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")(PC版のみ)[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。

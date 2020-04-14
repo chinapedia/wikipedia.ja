@@ -1,4 +1,4 @@
-> この記事は[Aqua \(\)](https://ja.wikipedia.org/wiki/Aqua_\(\))から翻訳されています。
+> この記事は[Aqua \(コンピュータ\)](https://ja.wikipedia.org/wiki/Aqua_\(コンピュータ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:IBook_G4.jpg "wikilink")) を表示している[iBook G4](../Page/IBook.md "wikilink")\]\] **Aqua**（**アクア**）とは、[アップルが](../Page/アップル_\(企業\).md "wikilink")[Mac OS X v10.0で採用した一連の](../Page/Mac_OS_X_v10.0.md "wikilink")[GUIのデザイン](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")（ビジュアルテーマ）の名称である。

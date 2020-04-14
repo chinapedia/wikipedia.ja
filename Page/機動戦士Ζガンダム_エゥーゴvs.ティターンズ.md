@@ -1,4 +1,4 @@
-> この記事は[ vs.](https://ja.wikipedia.org/wiki/_vs.)から翻訳されています。
+> この記事は[機動戦士Ζガンダム エゥーゴvs.ティターンズ](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム_エゥーゴvs.ティターンズ)から翻訳されています。
 
 
 <div class="pathnavbox">

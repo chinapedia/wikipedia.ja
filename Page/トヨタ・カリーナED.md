@@ -1,4 +1,4 @@
-> この記事は[ED](https://ja.wikipedia.org/wiki/ED)から翻訳されています。
+> この記事は[トヨタ・カリーナED](https://ja.wikipedia.org/wiki/トヨタ・カリーナED)から翻訳されています。
 
 
 **カリーナED**（カリーナイーディー、*Carina ED*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が1985年から1998年まで生産していた4ドア[ハードトップ](../Page/ハードトップ.md "wikilink")型[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。

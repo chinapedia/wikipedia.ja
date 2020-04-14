@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ケロQ](https://ja.wikipedia.org/wiki/ケロQ)から翻訳されています。
 
 
 **ケロQ**（ケロキュウ）(KeroQ)は、ムーンフェイズ株式会社による[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランド。ムーンフェイズ株式会社は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に有限会社ケロキュウとして設立され、[2005年](../Page/2005年.md "wikilink")に組織変更の上現行の社名となる。現在の代表取締役は同ブランドの制作総指揮である[SCA-自](../Page/SCA-自.md "wikilink")。

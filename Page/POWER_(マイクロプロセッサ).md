@@ -1,4 +1,4 @@
-> この記事は[POWER \(\)](https://ja.wikipedia.org/wiki/POWER_\(\))から翻訳されています。
+> この記事は[POWER \(マイクロプロセッサ\)](https://ja.wikipedia.org/wiki/POWER_\(マイクロプロセッサ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Power5.jpg "wikilink")  \[1\]（パワー）は、 をベースとした、[IBM](../Page/IBM.md "wikilink")の[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink") ([CPU](../Page/CPU.md "wikilink")) のシリーズである。

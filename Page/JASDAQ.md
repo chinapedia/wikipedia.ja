@@ -404,7 +404,7 @@
 
 ### 2008年上場
 
-  - [東洋ドライルーブ](https://ja.wikipedia.org/wiki/東洋ドライルーブ "wikilink") ()
+  - [東洋ドライルーブ](../Page/東洋ドライルーブ.md "wikilink") ()
   - [スーパーバリュー](../Page/スーパーバリュー.md "wikilink") ()
   - [大西電気](https://ja.wikipedia.org/wiki/大西電気 "wikilink") ()
   - [セブン銀行](../Page/セブン銀行.md "wikilink") ()
@@ -592,14 +592,17 @@
 
 ### 2019年上場
 
-※新規上場予定含む
-
   - [エヌ・シー・エヌ](https://ja.wikipedia.org/wiki/エヌ・シー・エヌ "wikilink") ()
   - [共栄セキュリティーサービス](https://ja.wikipedia.org/wiki/共栄セキュリティーサービス "wikilink") ()
   - [あさくま](../Page/あさくま.md "wikilink") ()
   - [アミファ](https://ja.wikipedia.org/wiki/アミファ "wikilink") ()
   - [SIホールディングス](https://ja.wikipedia.org/wiki/やまねメディカル "wikilink") ()
   - [アンビスホールディングス](https://ja.wikipedia.org/wiki/アンビスホールディングス "wikilink") ()
+
+### 2020年上場
+
+  - [コーユーレンティア](../Page/コーユーレンティア.md "wikilink") ()
+  - [コンピューターマネージメント](https://ja.wikipedia.org/wiki/コンピューターマネージメント "wikilink") ()
 
 ## 株式会社ジャスダック証券取引所
 

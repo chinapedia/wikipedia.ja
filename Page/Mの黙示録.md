@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[Mの黙示録](https://ja.wikipedia.org/wiki/Mの黙示録)から翻訳されています。
 
 
 『**Mの黙示録**』（エムのもくしろく）は、[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。放送時間は月曜（日曜深夜）0:30 - 1:00→水曜（火曜深夜）0:51 - 1:21。

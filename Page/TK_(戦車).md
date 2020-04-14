@@ -1,4 +1,4 @@
-> この記事は[TK \(\)](https://ja.wikipedia.org/wiki/TK_\(\))から翻訳されています。
+> この記事は[TK \(戦車\)](https://ja.wikipedia.org/wiki/TK_\(戦車\))から翻訳されています。
 
 
 **TK**(**TK-3**)と**TKS**は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に活躍した[ポーランド](../Page/ポーランド.md "wikilink")の偵察用[豆戦車](../Page/豆戦車.md "wikilink")である。

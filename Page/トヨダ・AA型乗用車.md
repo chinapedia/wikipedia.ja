@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[トヨダ・AA型乗用車](https://ja.wikipedia.org/wiki/トヨダ・AA型乗用車)から翻訳されています。
 
 
 [Toyota_Model_AA.jpg](https://ja.wikipedia.org/wiki/File:Toyota_Model_AA.jpg "fig:Toyota_Model_AA.jpg")

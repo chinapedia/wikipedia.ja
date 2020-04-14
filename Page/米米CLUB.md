@@ -1,4 +1,4 @@
-> この記事は[CLUB](https://ja.wikipedia.org/wiki/CLUB)から翻訳されています。
+> この記事は[米米CLUB](https://ja.wikipedia.org/wiki/米米CLUB)から翻訳されています。
 
 
 **米米CLUB**（コメコメクラブ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男女](https://ja.wikipedia.org/wiki/男女 "wikilink")混成9人組[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")。[1982年](../Page/1982年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はウェルストーン・ヴォイス。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックエンタテインメントで](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[レーベルは](../Page/レコードレーベル.md "wikilink")[ソニー・ミュージックレーベルズ内の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#グループ会社 "wikilink")[Sony Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")解散、[2006年](../Page/2006年.md "wikilink")再結成。かつての公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**COME COME CLUB**（カム・カム・クラブ）」。略称は「**米米**」「**K2C**」。

@@ -75,7 +75,7 @@
 
 ## CS/Cs/cs
 
-  - [ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の一つ
+  - [ハンガリー語](../Page/ハンガリー語.md "wikilink")の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の一つ
 
 ## 関連項目
 

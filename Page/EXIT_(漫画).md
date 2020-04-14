@@ -1,4 +1,4 @@
-> この記事は[EXIT \(\)](https://ja.wikipedia.org/wiki/EXIT_\(\))から翻訳されています。
+> この記事は[EXIT \(漫画\)](https://ja.wikipedia.org/wiki/EXIT_\(漫画\))から翻訳されています。
 
 
 **EXIT**（**エグジット**）は[藤田貴美](https://ja.wikipedia.org/wiki/藤田貴美 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

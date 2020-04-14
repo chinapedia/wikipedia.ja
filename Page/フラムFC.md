@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[フラムFC](https://ja.wikipedia.org/wiki/フラムFC)から翻訳されています。
 
 
 **フラム・フットボール・クラブ**（*Fulham Football Club*, <small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>： ）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")西部・[フラム](https://ja.wikipedia.org/wiki/フラム "wikilink")地区をホームタウンとする、イングランドプロサッカーリーグ（[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[白](../Page/白.md "wikilink")。

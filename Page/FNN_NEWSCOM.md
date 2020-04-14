@@ -343,8 +343,6 @@
 
 ## 脚注
 
-<references />
-
 [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink")
 
 1.  同時に『[FNN朝駆け第一報\!](../Page/FNN朝駆け第一報!.md "wikilink")』が『[FNNモーニングコール](../Page/FNNモーニングコール.md "wikilink")』に代わって放送開始した。

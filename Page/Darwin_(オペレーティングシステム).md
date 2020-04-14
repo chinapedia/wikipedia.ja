@@ -1,4 +1,4 @@
-> この記事は[Darwin \(\)](https://ja.wikipedia.org/wiki/Darwin_\(\))から翻訳されています。
+> この記事は[Darwin \(オペレーティングシステム\)](https://ja.wikipedia.org/wiki/Darwin_\(オペレーティングシステム\))から翻訳されています。
 
 
 **Darwin**（ダーウィン）は[アップルが開発する](../Page/アップル_\(企業\).md "wikilink")[Unix系](../Page/Unix系.md "wikilink")の[POSIX](../Page/POSIX.md "wikilink")準拠[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。技術的には[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")から[OPENSTEP](../Page/OPENSTEP.md "wikilink")に続く流れを汲み、[Mach 3.0](../Page/Mach.md "wikilink")+[BSD](../Page/BSD.md "wikilink")をベースとし、一部の機能は他の[BSD](../Page/BSD.md "wikilink")系OSからも取り入れている。Darwinは[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、さらには[watchOS](https://ja.wikipedia.org/wiki/watchOS "wikilink")と[tvOS](https://ja.wikipedia.org/wiki/tvOS "wikilink")の基礎となる部分でもある。

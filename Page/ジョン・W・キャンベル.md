@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジョン・W・キャンベル](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル)から翻訳されています。
 
 
 **ジョン・ウッド・キャンベル・ジュニア**（**John Wood Campbell Jr.**, [1910年](../Page/1910年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[7月11日](../Page/7月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")、[編集者](../Page/編集者.md "wikilink")。[SF雑誌](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[アスタウンディング](../Page/アスタウンディング.md "wikilink")・サイエンスフィクション』（後の『アナログ』誌）の編集長を1937年から亡くなる直前まで務め、いわゆるSF黄金時代を築いた立役者の1人とされている。

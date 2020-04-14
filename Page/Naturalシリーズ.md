@@ -1,4 +1,4 @@
-> この記事は[Natural](https://ja.wikipedia.org/wiki/Natural)から翻訳されています。
+> この記事は[Naturalシリーズ](https://ja.wikipedia.org/wiki/Naturalシリーズ)から翻訳されています。
 
 
 **Naturalシリーズ**（ナチュラルシリーズ）は、[F\&C](../Page/F&C.md "wikilink")および同社に属する複数の[ブランド](../Page/ブランド.md "wikilink")から発売されている[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のシリーズ。

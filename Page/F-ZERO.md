@@ -32,7 +32,7 @@
 
 :; 1. MUTE CITY I ※
 
-:: バランスの取れた[レイアウト](../Page/レイアウト.md "wikilink")のコース。[バックストレートにジャンププレートが敷かれている](../Page/サーキット.md "wikilink")。最終ヘアピンコーナーが難所。『[大乱闘スマッシュブラザーズ for Nintendo 3DS](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS "wikilink")』で隠し対戦ステージとして登場する。
+:: バランスの取れた[レイアウト](../Page/レイアウト.md "wikilink")のコース。[バックストレートにジャンププレートが敷かれている](../Page/サーキット.md "wikilink")。最終ヘアピンコーナーが難所。『[大乱闘スマッシュブラザーズ for Nintendo 3DS](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS "wikilink")』で隠し対戦ステージ、[大乱闘スマッシュブラザーズ SPECIALで](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")「ミュートシティ SFC」として対戦ステージが登場する。大乱闘スマッシュブラザーズ SPECIALでは8人対戦が可能となり、BGMも今作の他のステージの原曲も追加されている。
 
 :; 2. BIG BLUE ※
 

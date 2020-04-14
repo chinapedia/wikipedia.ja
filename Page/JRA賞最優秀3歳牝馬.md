@@ -1,4 +1,4 @@
-> この記事は[JRA3](https://ja.wikipedia.org/wiki/JRA3)から翻訳されています。
+> この記事は[JRA賞最優秀3歳牝馬](https://ja.wikipedia.org/wiki/JRA賞最優秀3歳牝馬)から翻訳されています。
 
 
 **JRA賞最優秀3歳牝馬**（ジェイアールエーしょう さいゆうしゅう さんさいひんば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。[2001年](../Page/2001年.md "wikilink")以降は、該当年度中に活躍した3歳[牝馬](../Page/牝馬.md "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀4歳牝馬**という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。

@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBS系列](https://ja.wikipedia.org/wiki/TBS系列)から翻訳されています。
 
 
 **TBS系列**（ティービィーエスけいれつ）とは、[TBSテレビ](../Page/TBSテレビ.md "wikilink")及び[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")とする[放送事業者](../Page/放送事業者.md "wikilink")の[ネットワークである](../Page/ネットワーク_\(放送\).md "wikilink")。

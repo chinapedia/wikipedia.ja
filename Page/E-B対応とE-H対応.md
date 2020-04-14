@@ -1,4 +1,4 @@
-> この記事は[E-BE-H](https://ja.wikipedia.org/wiki/E-BE-H)から翻訳されています。
+> この記事は[E-B対応とE-H対応](https://ja.wikipedia.org/wiki/E-B対応とE-H対応)から翻訳されています。
 
 
 [電場](../Page/電場.md "wikilink")***E*** は、[電荷](../Page/電荷.md "wikilink")から発する場として自然に定義されるが、[磁場](../Page/磁場.md "wikilink")に関しては歴史的経緯から二種類の流派があり、現在でも両方が使われている。それが*E-B* 対応と*E-H* 対応である。

@@ -1,7 +1,7 @@
 > この記事は[TOKIO](https://ja.wikipedia.org/wiki/TOKIO)から翻訳されています。
 
 
-**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")\[1\]。 所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
+**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")\[1\]。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## メンバー
 
@@ -652,8 +652,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
   - [日本中央競馬会](../Page/日本中央競馬会.md "wikilink")・企業CM（2014年）
   - [スズキ](../Page/スズキ_\(企業\).md "wikilink")「[ソリオ/ソリオバンディット](../Page/スズキ・ソリオ.md "wikilink")」（2015年 - 2018年）
   - [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")・30周年スタートダッシュキャンペーン（2016年）
-
-:\*[フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")
+  - [フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")
 
 ### 舞台
 

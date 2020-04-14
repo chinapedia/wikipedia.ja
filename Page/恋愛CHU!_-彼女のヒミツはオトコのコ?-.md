@@ -1,4 +1,4 @@
-> この記事は[CHU! -\?-](https://ja.wikipedia.org/wiki/CHU!_-\?-)から翻訳されています。
+> この記事は[恋愛CHU! -彼女のヒミツはオトコのコ\?-](https://ja.wikipedia.org/wiki/恋愛CHU!_-彼女のヒミツはオトコのコ\?-)から翻訳されています。
 
 
 『**恋愛CHU\! -彼女のヒミツはオトコのコ?-**』（れんあいちゅう かのじょのヒミツはオトコのコ）は[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[SAGA PLANETSより発売された](../Page/SAGA_PLANETS.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。

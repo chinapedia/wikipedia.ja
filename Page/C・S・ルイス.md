@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[C・S・ルイス](https://ja.wikipedia.org/wiki/C・S・ルイス)から翻訳されています。
 
 
 **C・S・ルイス**（C. S. Lewis）、本名**クライブ・ステープルス・ルイス**（Clive Staples Lewis\[1\], [1898年](../Page/1898年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink") - [1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）は、[アイルランド系](https://ja.wikipedia.org/wiki/アイルランド系 "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の学者、[小説家](../Page/小説家.md "wikilink")\[2\]、中世文化研究者、キリスト教擁護者、[信徒伝道者](../Page/信徒伝道者.md "wikilink")。3歳の頃に愛犬ジャクシー（**Jacksie**）を[交通事故](../Page/交通事故.md "wikilink")で喪った直後から自らを**ジャクシー**と名乗り、それが徐々に周囲に受け入れられていき、家族や友人からは生涯を通じて**ジャック**と呼ばれた。そのため、あえてフルネームを Clive Staples "**Jack**" Lewis と綴る場合もある。
@@ -23,7 +23,7 @@
 
 日本語訳が現在手に入る作品に限る。
 
-### ナルニア国物語（*The Chronicles of Narnia*, 1950-56）
+### ナルニア国物語（*The Chronicles of Narnia*, 1950-1956）
 
 1.  [ライオンと魔女](../Page/ライオンと魔女.md "wikilink") （*The Lion, the Witch and the Wardrobe*, 1950）
 2.  [カスピアン王子のつのぶえ](../Page/カスピアン王子のつのぶえ.md "wikilink") （*Prince Caspian*, 1951）
@@ -85,7 +85,7 @@
   - [緑の部屋 - C.S.ルイス著作リスト](http://www13.ocn.ne.jp/~m-room/lewis-works.html)
   - [C.S.Lewis Society of California](http://www.lewissociety.org/)
 
-[Category:イギリスの小説家](https://ja.wikipedia.org/wiki/Category:イギリスの小説家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスのSF作家](https://ja.wikipedia.org/wiki/Category:イギリスのSF作家 "wikilink") [Category:北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:北アイルランドの小説家 "wikilink") [Category:北アイルランドの著作家](https://ja.wikipedia.org/wiki/Category:北アイルランドの著作家 "wikilink") [Category:ナルニア国ものがたり](https://ja.wikipedia.org/wiki/Category:ナルニア国ものがたり "wikilink") [Category:イギリスの神学者](https://ja.wikipedia.org/wiki/Category:イギリスの神学者 "wikilink") [Category:聖公会の神学者](https://ja.wikipedia.org/wiki/Category:聖公会の神学者 "wikilink") [Category:信徒伝道者](https://ja.wikipedia.org/wiki/Category:信徒伝道者 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:ベルファスト出身の人物](https://ja.wikipedia.org/wiki/Category:ベルファスト出身の人物 "wikilink") [Category:1898年生](https://ja.wikipedia.org/wiki/Category:1898年生 "wikilink") [Category:1963年没](https://ja.wikipedia.org/wiki/Category:1963年没 "wikilink")
+[Category:C・S・ルイス](https://ja.wikipedia.org/wiki/Category:C・S・ルイス "wikilink") [Category:イギリスの小説家](https://ja.wikipedia.org/wiki/Category:イギリスの小説家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスのSF作家](https://ja.wikipedia.org/wiki/Category:イギリスのSF作家 "wikilink") [Category:北アイルランドの小説家](https://ja.wikipedia.org/wiki/Category:北アイルランドの小説家 "wikilink") [Category:北アイルランドの著作家](https://ja.wikipedia.org/wiki/Category:北アイルランドの著作家 "wikilink") [Category:イギリスの神学者](https://ja.wikipedia.org/wiki/Category:イギリスの神学者 "wikilink") [Category:聖公会の神学者](https://ja.wikipedia.org/wiki/Category:聖公会の神学者 "wikilink") [Category:信徒伝道者](https://ja.wikipedia.org/wiki/Category:信徒伝道者 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:ベルファスト出身の人物](https://ja.wikipedia.org/wiki/Category:ベルファスト出身の人物 "wikilink") [Category:1898年生](https://ja.wikipedia.org/wiki/Category:1898年生 "wikilink") [Category:1963年没](https://ja.wikipedia.org/wiki/Category:1963年没 "wikilink")
 
 1.  ルイス財団の文献での表記。
 2.  『[ブリタニカ百科事典](../Page/ブリタニカ百科事典.md "wikilink")』による

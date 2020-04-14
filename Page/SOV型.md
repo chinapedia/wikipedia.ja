@@ -1,4 +1,4 @@
-> この記事は[SOV](https://ja.wikipedia.org/wiki/SOV)から翻訳されています。
+> この記事は[SOV型](https://ja.wikipedia.org/wiki/SOV型)から翻訳されています。
 
 
 **SOV型**（SOVがた）とは、文を作るときに、一般に[主語](../Page/主語.md "wikilink") (Subject) - [目的語](../Page/目的語.md "wikilink") (Object) - [動詞](../Page/動詞.md "wikilink") (Verb)の[語順](../Page/語順.md "wikilink")をとる[言語](../Page/言語.md "wikilink")のこと。例えば日本語の文の「私は りんごを 食べる。」では、"私は"が[主語](../Page/主語.md "wikilink")（S）、"りんごを"が[目的語](../Page/目的語.md "wikilink")（O）、"食べる"が[動詞](../Page/動詞.md "wikilink")（V）である。[言語類型論](../Page/言語類型論.md "wikilink")による調査では、世界の言語の約45%がSOV型言語である。

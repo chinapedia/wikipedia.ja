@@ -1,4 +1,4 @@
-> この記事は[Berryz](https://ja.wikipedia.org/wiki/Berryz)から翻訳されています。
+> この記事は[Berryz工房](https://ja.wikipedia.org/wiki/Berryz工房)から翻訳されています。
 
 
 **Berryz工房**（ベリーズこうぼう）は、[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）がプロデュースを手掛ける[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")に所属していた[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。所属事務所は[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")（旧・アップフロントエージェンシー）。2015年3月3日をもって無期限で活動を停止している。
@@ -1046,6 +1046,7 @@ Buono!メンバー<br />
   - [女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")
   - [こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")…Berryz工房の無期限活動停止直前に結成されたユニットで、Berryz工房のスピリッツを受け継いでいってもらいたいという清水佐紀の意向を汲み、工房を指す「ファクトリー」の語がユニット名に含まれた。
   - [つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")…Berryz工房の無期限活動停止後に、ハロー\!プロジェクト・アドバイザーとなった清水佐紀がメンバー選定に関与して研修生から選抜されたユニット（[2016年](../Page/2016年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")のメンバー増員の際も、清水が選考に関わっている）で、ユニット名も、先に結成されたこぶしファクトリーと共に切磋琢磨して、Berryz工房のスピリッツを受け継いでいってもらいたいという清水の意向を汲み、工房を指す「ファクトリー」の語がユニット名に含まれた。
+  - [工房](../Page/工房.md "wikilink")
 
 ## 外部リンク
 

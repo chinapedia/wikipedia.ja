@@ -1,4 +1,4 @@
-> この記事は[NFL](https://ja.wikipedia.org/wiki/NFL)から翻訳されています。
+> この記事は[NFLヨーロッパ](https://ja.wikipedia.org/wiki/NFLヨーロッパ)から翻訳されています。
 
 
 **NFLヨーロッパ**(NFLE)は[2007年](../Page/2007年.md "wikilink")まで存在した**[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")**を世界的に普及していこうという目的で[NFL](../Page/NFL.md "wikilink")が主催したリーグ戦である。毎年4～6月にかけてヨーロッパ各地に本拠地を置く6チームによって総当り2回制のリーグ戦を行い、その成績上位2チームが決勝戦「[ワールドボウル](../Page/ワールドボウル.md "wikilink")」に出場できた。

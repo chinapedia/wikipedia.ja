@@ -1,4 +1,4 @@
-> この記事は[TVS](https://ja.wikipedia.org/wiki/TVS)から翻訳されています。
+> この記事は[TVSライオンズアワー](https://ja.wikipedia.org/wiki/TVSライオンズアワー)から翻訳されています。
 
 
 **TVSライオンズアワー**は、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")（TVS、テレ玉）の制作する、[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")主催及び2軍埼玉西武ライオンズ主催試合の[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組。
@@ -146,7 +146,7 @@ CM枠では、回によって西武グループの催事案内を行う「西武
 
 基本的には解説を交互に担当する（ヒットナイター・西武ビジター戦の「カラ出張」も兼務）。2018年から『LIONS Baseball LIVE」を数試合ネット受けするようになったためテレ玉専属の解説者の出番が激減した。2019年8月20日放送から8月25日放送分はテレ玉放送40周年記念ウィークとしてテレ玉制作として放送する。
 
-  - [鈴木健](../Page/鈴木健_\(内野手\).md "wikilink") （2008年 - ）
+  - [鈴木健](../Page/鈴木健_\(内野手\).md "wikilink") （2008年 - 。西武球団制作中継解説者兼）
   - [松沼雅之](../Page/松沼雅之.md "wikilink")（1990年 -1999年、2004年 -。西武球団制作中継・文化放送解説者兼）
   - [森本稀哲](../Page/森本稀哲.md "wikilink")（2018年 - 、本数契約として出演。在札各局・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")解説者兼）
   - [長田秀一郎](../Page/長田秀一郎.md "wikilink")（2018年 -。西武球団制作中継解説者兼）※西武球団職員（ライオンズアカデミーコーチ）

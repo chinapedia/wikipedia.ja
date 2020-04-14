@@ -22,17 +22,11 @@
 ## 来歴
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、古川が[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")内にあった「楽器の文明堂」（既に閉店）に貼ったバンドメンバー募集の張り紙により同地でバンドを結成。レコード会社へ送ったデモテープがきっかけで1997年にシングル「creamsoda」で[デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
-
-:\*同時期に登場した[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[中村一義](../Page/中村一義.md "wikilink")、[くるり](../Page/くるり.md "wikilink")らとともに「'97の世代」と呼ばれ、新世代ロックバンドとして活動。1998年頃には当時勢いのあったバンド、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")などと一緒に「スニーカー系」と呼ばれた。
-
+      - 同時期に登場した[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[中村一義](../Page/中村一義.md "wikilink")、[くるり](../Page/くるり.md "wikilink")らとともに「'97の世代」と呼ばれ、新世代ロックバンドとして活動。1998年頃には当時勢いのあったバンド、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")などと一緒に「スニーカー系」と呼ばれた。
   - 2000年に発表された3作目のアルバム『Futurama』からは[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")をに取り入れるようになる。
-
-:\*これについて中村は具体的に[ROVO](../Page/ROVO.md "wikilink")や[コーネリアスからの影響をあげている](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")。
-
-:\*シングル「YUMEGIWA LAST BOY」には、エレクトロニカ、[エレクトロ](../Page/エレクトロ.md "wikilink")サウンドを得意とする[プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[砂原良徳](../Page/砂原良徳.md "wikilink")を起用。その次のシングル「AOHARU YOUTH」、アルバム『HIGHVISION』『ANSWER』には益子樹（[ROVO](../Page/ROVO.md "wikilink")、DUB SQUAD、ASLNなど）をプロデューサーに起用している。
-
-:\* サウンドとリンクするように彼らは映像面でも田名綱敬一、[宇川直宏](../Page/宇川直宏.md "wikilink")らのアーティストとのコラボレーションもこなす。
-
+      - これについて中村は具体的に[ROVO](../Page/ROVO.md "wikilink")や[コーネリアスからの影響をあげている](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")。
+      - シングル「YUMEGIWA LAST BOY」には、エレクトロニカ、[エレクトロ](../Page/エレクトロ.md "wikilink")サウンドを得意とする[プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[砂原良徳](../Page/砂原良徳.md "wikilink")を起用。その次のシングル「AOHARU YOUTH」、アルバム『HIGHVISION』『ANSWER』には益子樹（[ROVO](../Page/ROVO.md "wikilink")、DUB SQUAD、ASLNなど）をプロデューサーに起用している。
+      - サウンドとリンクするように彼らは映像面でも田名綱敬一、[宇川直宏](../Page/宇川直宏.md "wikilink")らのアーティストとのコラボレーションもこなす。
   - 2005年2月26日に[STUDIO COASTにて行われたラストライブをもって解散](../Page/STUDIO_COAST.md "wikilink")。
   - 2011年、中村の監修による過去の音源の再構築アルバム『RE:SUPERCAR -redesigned by nakamura koji-』、後に『RE:SUPERCAR 2-redesigned by nakamura koji-』をリリース。
   - 2017年9月21日のデビュー20周年を記念し、オリジナルアルバム5作がアナログ化され順次リリースされた。さらに2018年4月には初のオールタイム・ベストアルバムをリリース。

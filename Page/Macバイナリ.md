@@ -1,4 +1,4 @@
-> この記事は[Mac](https://ja.wikipedia.org/wiki/Mac)から翻訳されています。
+> この記事は[Macバイナリ](https://ja.wikipedia.org/wiki/Macバイナリ)から翻訳されています。
 
 
 **Macバイナリ** (MacBinary) は[Classic Mac OSの](../Page/Classic_Mac_OS.md "wikilink")[ファイルシステム](../Page/ファイルシステム.md "wikilink")中のファイルを、そのマルチフォーク（データフォークと[リソースフォーク](../Page/リソースフォーク.md "wikilink")）とメタデータ（[Finder情報](https://ja.wikipedia.org/wiki/Finder情報 "wikilink")）を全て含んだバイナリファイルにまとめる形式（フォーマット）のひとつ。かつては7ビットテキスト転送用の[BinHex](../Page/BinHex.md "wikilink")と並んで[インターネット](../Page/インターネット.md "wikilink")上でも多用されたが、現在はあまり使われなくなってきている。

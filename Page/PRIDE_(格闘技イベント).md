@@ -1,4 +1,4 @@
-> この記事は[PRIDE \(\)](https://ja.wikipedia.org/wiki/PRIDE_\(\))から翻訳されています。
+> この記事は[PRIDE \(格闘技イベント\)](https://ja.wikipedia.org/wiki/PRIDE_\(格闘技イベント\))から翻訳されています。
 
 
 **PRIDE**（プライド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")[イベント](../Page/イベント.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1999年](../Page/1999年.md "wikilink")まで[KRSが](https://ja.wikipedia.org/wiki/格闘技レボリューション・スピリッツ "wikilink")[1999年](../Page/1999年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")が開催していた。現在PRIDE FC WORLDWIDE株式会社が[ブランド](../Page/ブランド.md "wikilink")及び興行権を保有している。海外でのイベント名称は**Pride Fighting Championships**（略称**Pride FC**）。

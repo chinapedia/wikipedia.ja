@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!ケータイ](https://ja.wikipedia.org/wiki/Yahoo!ケータイ)から翻訳されています。
 
 
 **Yahoo\!ケータイ**（ヤフー！ケータイ、略称 **Y\!ケータイ**）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が提供する[携帯電話IP接続サービス](../Page/携帯電話IP接続サービス.md "wikilink")である。

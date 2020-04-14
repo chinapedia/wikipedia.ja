@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグオールスターサッカー](https://ja.wikipedia.org/wiki/Jリーグオールスターサッカー)から翻訳されています。
 
 
 **Jリーグオールスターサッカー**は、[1993年](../Page/1993年.md "wikilink")-[2007年](../Page/2007年.md "wikilink")まで[Jリーグ開幕当初からJ](../Page/日本プロサッカーリーグ.md "wikilink")1リーグ戦中盤の[夏](../Page/夏.md "wikilink")季（一部例外あり）に開催されていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大会である。選手はサポーター投票、もしくはJリーグ推薦によって、監督はサポーター投票によって選ばれる。

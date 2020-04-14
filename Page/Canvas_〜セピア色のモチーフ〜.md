@@ -1,4 +1,4 @@
-> この記事は[Canvas ](https://ja.wikipedia.org/wiki/Canvas_)から翻訳されています。
+> この記事は[Canvas 〜セピア色のモチーフ〜](https://ja.wikipedia.org/wiki/Canvas_〜セピア色のモチーフ〜)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|
@@ -123,9 +123,9 @@
 
 ## 続編
 
-2004年[4月23日](../Page/4月23日.md "wikilink")には続編にあたる『[Canvas2 〜茜色のパレット〜](../Page/Canvas2.md "wikilink")』が発売された。
+2004年4月23日には続編にあたる『[Canvas2 〜茜色のパレット〜](https://ja.wikipedia.org/wiki/Canvas2_〜茜色のパレット〜 "wikilink")』が発売された。
 
-詳細は『[Canvas2 〜茜色のパレット〜](../Page/Canvas2.md "wikilink")』の記事参照。ここでは本作品との関連性について記載。
+詳細は『Canvas2 〜茜色のパレット〜』の記事参照。ここでは本作品との関連性について記載。
 
   - 舞台は同じ撫子学園だが、制服と校風は一変している。Canvas2の初回版に付属している設定資料によると、制服が変わったのは新理事長（藍）の趣味で「サギノミヤ」ブランドを作ったからであるとのこと。
   - 本作品のキャラクターも名前だけであるが登場する。
@@ -136,16 +136,16 @@
 
 『Canvas2 〜茜色のパレット〜』のアニメ版、『Canvas2 〜虹色のスケッチ〜』にも本作品のキャラクターが登場する。登場状況は[Canvas2を参照](https://ja.wikipedia.org/wiki/Canvas2#テレビアニメ "wikilink")。
 
-[2009年](../Page/2009年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")には『[Canvas3 〜白銀のポートレート〜](https://ja.wikipedia.org/wiki/Canvas3 "wikilink")』が発売された。
+2009年3月20日には『[Canvas3 〜白銀のポートレート〜](https://ja.wikipedia.org/wiki/Canvas3_〜白銀のポートレート〜 "wikilink")』が発売された。
 
   - 舞台は撫子学園から姉妹校の繚乱学園に変更。
   - 学園の制服は5種類の案の中から投票で選定された。
 
-[2011年](../Page/2011年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")には『[アクロウム・エチュード Canvas4](https://ja.wikipedia.org/wiki/アクロウム・エチュード_Canvas4 "wikilink")』が発売された。
+2011年1月28日には『[アクロウム・エチュード Canvas4](https://ja.wikipedia.org/wiki/アクロウム・エチュード_Canvas4 "wikilink")』が発売された。
 
   - 舞台は撫子学園に戻っている。
   - 主人公である小松原亮とヒロインの一人・仁瀬さつきが目標にしている画家は大輔であり、メインヒロイン・青桐ことののルートでは大輔が声のみ登場している。
-  - 大輔はすでに結婚しているが、相手はプレイヤーが選択することになる（攻略ヒロイン6人＋藍の7人が選択肢となる）。
+  - 大輔はすでに結婚しているが、相手はプレイヤーが選択することになる（攻略ヒロイン6人+藍の7人が選択肢となる）。
 
 ## 脚注
 

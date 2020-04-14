@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[汎用ロジックIC](https://ja.wikipedia.org/wiki/汎用ロジックIC)から翻訳されています。
 
 
 **汎用ロジックIC**（はんようロジックアイシー）とは、様々な[論理回路](https://ja.wikipedia.org/wiki/論理回路 "wikilink")に共通して必要とされる個々の機能を1つの小型[パッケージにまとめた小規模な](../Page/パッケージ_\(電子部品\).md "wikilink")[集積回路](../Page/集積回路.md "wikilink")である。

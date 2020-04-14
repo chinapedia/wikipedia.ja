@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q値](https://ja.wikipedia.org/wiki/Q値)から翻訳されています。
 
 
 <references />

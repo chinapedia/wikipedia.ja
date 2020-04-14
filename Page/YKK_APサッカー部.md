@@ -1,11 +1,11 @@
-> この記事は[YKK AP](https://ja.wikipedia.org/wiki/YKK_AP)から翻訳されています。
+> この記事は[YKK APサッカー部](https://ja.wikipedia.org/wiki/YKK_APサッカー部)から翻訳されています。
 
 
 **YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[YKK APのサッカー部として](../Page/YKK_AP.md "wikilink")[1962年](../Page/1962年.md "wikilink")に創部し、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[アローズ北陸](../Page/アローズ北陸.md "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")の前身となったクラブである。
 
 ## 概要・歴史
 
-[1962年](../Page/1962年.md "wikilink")に創部（当時の社名は[吉田工業](../Page/YKK.md "wikilink")）。[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")に[1975年](../Page/1975年.md "wikilink")の創設時から参加し、常に優勝争いを演じてきた。[2000年](../Page/2000年.md "wikilink")の[地域リーグ全国決勝大会で](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")2位に入り、[2001年](../Page/2001年.md "wikilink")から自動的に[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")(JFL)昇格を果たし、また元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")監督の[古前田充](../Page/古前田充.md "wikilink")を招聘した。[2004年](../Page/2004年.md "wikilink")から子会社のYKK アーキテキュチャル・プロダクツ（現：[YKK AP](../Page/YKK_AP.md "wikilink")）のサッカー部に移行し、新監督に元[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[楚輪博](../Page/楚輪博.md "wikilink")を迎えて更なる躍進を目指してきた。
+[1962年](../Page/1962年.md "wikilink")に創部（当時の社名は[吉田工業](../Page/YKK.md "wikilink")）。[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")に[1975年](../Page/1975年.md "wikilink")の創設時から参加し、常に優勝争いを演じてきた。[2000年](../Page/2000年.md "wikilink")の[地域リーグ全国決勝大会で](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")2位に入り、[2001年](../Page/2001年.md "wikilink")から自動的に[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")(JFL)昇格を果たし、また元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")監督の[古前田充](../Page/古前田充.md "wikilink")を招聘した。[2004年](../Page/2004年.md "wikilink")から子会社のYKK アーキテキュチャル・プロダクツ（現：[YKK AP](../Page/YKK_AP.md "wikilink")）のサッカー部に移行し、新監督に元[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[楚輪博](../Page/楚輪博.md "wikilink")を迎えて更なる躍進を目指してきた。
 
 練習拠点は黒部市に置くが同市にJFLを開催できる規格のスタジアムがないため、公式試合は隣接する[魚津市](../Page/魚津市.md "wikilink")の[桃山運動公園陸上競技場](https://ja.wikipedia.org/wiki/魚津市桃山運動公園 "wikilink")（約8000人収容）をメインに使用した。また[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")の[岩瀬球技場](../Page/富山県岩瀬スポーツ公園.md "wikilink")、[五福競技場](../Page/富山県五福公園陸上競技場.md "wikilink")、[県総合運動公園](../Page/富山県総合運動公園陸上競技場.md "wikilink")、[高岡市](https://ja.wikipedia.org/wiki/高岡市 "wikilink")の[高岡スポーツコア](../Page/高岡スポーツコア.md "wikilink")球技場も使用されたことがある。
 
@@ -506,6 +506,7 @@ JFLに昇格した[2001年](../Page/2001年.md "wikilink")は15勝5分10敗で16
 ### リーグ戦
 
   - **[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")1部：11回**
+      - 1975年、1981年、1984年、1988年、1989年、1990年、1992年、1993年、1995年、1999年、2000年
 
 ## ユニフォームサプライヤ
 

@@ -1,4 +1,4 @@
-> この記事は[JSAT](https://ja.wikipedia.org/wiki/JSAT)から翻訳されています。
+> この記事は[スカパーJSAT](https://ja.wikipedia.org/wiki/スカパーJSAT)から翻訳されています。
 
 
 **スカパーJSAT株式会社**（スカパージェイサット、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[通信衛星](../Page/通信衛星.md "wikilink")事業者、[衛星放送プラットフォーム事業者](../Page/日本における衛星放送.md "wikilink")（[有料放送管理事業者](../Page/有料放送管理事業者.md "wikilink")）および[有線一般放送事業者である](https://ja.wikipedia.org/wiki/一般放送事業者 "wikilink")。

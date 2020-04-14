@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDガンダム](https://ja.wikipedia.org/wiki/SDガンダム)から翻訳されています。
 
 
 **SDガンダム**（エスディーガンダム、*Super Deformed Gundam*）は、アニメ作品『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に端を発する[ガンダムシリーズに登場したメカや人物などを](../Page/ガンダムシリーズ一覧.md "wikilink")、頭が大きく手足が短い低頭身で表現したキャラクター、およびそれを用いた作品群の総称である。

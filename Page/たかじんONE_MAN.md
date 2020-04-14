@@ -1,4 +1,4 @@
-> この記事は[ONE MAN](https://ja.wikipedia.org/wiki/ONE_MAN)から翻訳されています。
+> この記事は[たかじんONE MAN](https://ja.wikipedia.org/wiki/たかじんONE_MAN)から翻訳されています。
 
 
 『**たかじんONEMAN**』（たかじんワンマン）は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）と[X1エックスワンと共同制作で](../Page/エックスワン.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink")の23:55 - 翌0:55（スタート時は毎週[水曜日](../Page/水曜日.md "wikilink")）に放送されていた公開[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[司会](../Page/司会.md "wikilink")の[やしきたかじん](../Page/やしきたかじん.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")で、たかじんの毒舌で人気を集めた。[地上デジタル放送では画面サイズ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")16:9のHD放送となっていた。ただし、タイトルロゴは「**たかじん 1MAN**」となっていた。

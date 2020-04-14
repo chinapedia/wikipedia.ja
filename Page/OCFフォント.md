@@ -1,4 +1,4 @@
-> この記事は[OCF](https://ja.wikipedia.org/wiki/OCF)から翻訳されています。
+> この記事は[OCFフォント](https://ja.wikipedia.org/wiki/OCFフォント)から翻訳されています。
 
 
 **OCFフォント**（Original Composite Font）は、[Macintosh](../Page/Macintosh.md "wikilink")（[Mac OS 9まで](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS "wikilink")）で使用できる和文（[2バイト文字](https://ja.wikipedia.org/wiki/2バイト文字 "wikilink")の言語用の）[フォント](../Page/フォント.md "wikilink")（[PostScriptフォント](../Page/PostScriptフォント.md "wikilink")）で、欧文用フォントファイルを多数積み重ねた構造をしている。[DTP](../Page/DTP.md "wikilink")の発達とともに普及し、一時代を成した。現在は後継の[CIDフォント](https://ja.wikipedia.org/wiki/CIDフォント "wikilink")や[OpenTypeフォント](https://ja.wikipedia.org/wiki/OpenTypeフォント "wikilink")に主流の座を譲っているが、OCFのFとはフォントの意味なので、**OCFフォント**という表現は Original Composite Font Font となってしまい、重複していると言える。

@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[私立T女子学園](https://ja.wikipedia.org/wiki/私立T女子学園)から翻訳されています。
 
 
 『**私立T女子学園**』（しりつティーじょしがくえん）は、[竹田エリ](https://ja.wikipedia.org/wiki/竹田エリ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで連載された。通称**T女**、**しりT**。単行本は全10巻（[集英社](../Page/集英社.md "wikilink")刊）。
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - なお星屑家の[使用人](https://ja.wikipedia.org/wiki/使用人 "wikilink")、親類縁者、ペットなどは、全てクズちゃんと同じ白目の大きな顔をしている。
+  - なお星屑家の親類縁者、[使用人](../Page/家庭内労働者.md "wikilink")、ペットなどは、全てクズちゃんと同じ白目の大きな顔をしている。
 
 <!-- end list -->
 

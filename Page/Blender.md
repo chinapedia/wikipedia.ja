@@ -11,9 +11,17 @@
 
 。
 
-画面描画の[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")に[OpenGL](../Page/OpenGL.md "wikilink")を採用している\[1\]。
+画面描画の[バックエンド](https://ja.wikipedia.org/wiki/バックエンド "wikilink")に[OpenGL](../Page/OpenGL.md "wikilink") 3.3以降を採用している\[1\]。
 
 様々な機能と柔軟性から、徐々にプロフェッショナルの現場で使用されはじめている\[2\]。[カラーとその子会社であるプロジェクトスタジオQは従来使用してきた](../Page/カラー_\(アニメ制作会社\).md "wikilink")[3ds MaxからBlenderへの移行を進めており](../Page/3ds_Max.md "wikilink")、制作中の『[シン・エヴァンゲリオン劇場版<nowiki>](https://ja.wikipedia.org/wiki/シン・エヴァンゲリオン劇場版 "wikilink"):』においてもBlenderの「実地検証」を実施している\[3\]。また、両社はBlender財団への賛同と開発資金の提供を発表した\[4\]\[5\]。
+
+操作体系面では、バージョン2.7x系までは「オブジェクト(個々の3Dモデル)は右クリックで選択」が基本という、他の大半のソフトウェアと異なる点が特徴の一つ(選択に用いる際のマウスボタンクリックの右と左を入れ替える事は、バージョンを問わずユーザー設定にて可能)であったが、バージョン2.8x以降は「左クリックで選択・右クリックでサブメニュー」という、一般的なソフトウェアの操作に倣っている。その他、プレビュー表示でGPU機能を多用する関係もあり、例えば[nVidia](https://ja.wikipedia.org/wiki/nVidia "wikilink")のグラフィックカードであればGeForce 200やそれ以降の製品が必須となる→[Supported GPUs in Blender 2.80](https://code.blender.org/2019/04/supported-gpus-in-blender-2-80/)。
+
+### Grease Pencil
+
+3Dベクターペイント機能。3Dモデリングのための下書き、ストーリーボード\[6\]\[7\]、手描きアニメーションなどに使うことが出来る。またストロークのリギング機能があり、カットアウトアニメーションを作ることも可能となっている\[8\]。
+
+2Dアニメーションに向けて2D Animationテンプレートが付属している。
 
 ### モデリング
 
@@ -21,23 +29,35 @@
 
 またモデリング用として様々なアドオンが存在する。
 
+### アニメーション
+
+単純なアニメーション、Python式を使った連動アニメーション (ドライバー\[9\])、[スケルタルアニメーション](https://ja.wikipedia.org/wiki/スケルタルアニメーション "wikilink") (ボーンアニメーション)などに対応している。
+
+スケルタルアニメーションでは (FK・順運動学)、 (IK・逆運動学)の両方に対応している。IKソルバーにはBlender独自のものとiTaSCベースのもの\[10\]が搭載されている。を含む様々な拘束が可能。
+
 ### シミュレーション
 
-シミュレーションにはBulletベースの剛体シミュレーション\[6\]、独自の布・軟体・ヘアシミュレーション、Mantaflowベースの流体シミュレーション (液体・気体)\[7\]などが搭載されている。
+シミュレーションにはBulletベースの剛体シミュレーション\[11\]、独自の布・軟体・ヘアシミュレーション、Mantaflowベースの流体シミュレーション (液体・気体)\[12\]などが搭載されている。
 
 ### レンダリング
 
-現行の内蔵レンダラーにはWorkbench、Eevee、Cyclesが存在する。Workbenchはビューポート向けの作業用レンダラーであり、Eeveeは高度なリアルタイムレンダラーとなっている。CyclesはGPU対応のパストレーシングレンダラーであり、オフラインレンダリング向けとなっている。レンダリング手法が異なることもあり、CyclesとEeveeの間にはマテリアルの非互換性が多少存在する。
+現行の内蔵レンダラーにはWorkbench、Eevee、Cyclesが存在する。Workbenchはビューポート向けの作業用レンダラーであり、Eeveeは高度なリアルタイムレンダラーとなっている。CyclesはGPU/対応のパストレーシングレンダラーであり、オフラインレンダリング向けとなっている。レンダリング手法が異なることもあり、CyclesとEeveeの間にはマテリアルなどの非互換性が多少存在する\[13\]。
 
 また、過去のレンダラーには[スキャンライン](https://ja.wikipedia.org/wiki/3次元コンピュータグラフィックス#スキャンライン "wikilink")/[レイトレーシング](../Page/レイトレーシング.md "wikilink")ハイブリッドレンダラーのBlender Internalが存在した。Blender Internalはバージョン2.8で削除された。
 
 ### コンポジティング
 
-ノードベースのコンポジット機能を搭載している。2.81で高度なデノイズが可能となった。
+ノードベースのコンポジット機能を搭載しており、様々な画像処理が可能となっている。OpenCLによるGPU処理に対応している。ディープコンポジティングには対応していない。
+
+### 動画編集
+
+動画編集用の Video Sequence Editor (VSE) 機能が搭載されている。動画のサムネイルは表示されない 。プロキシ編集に対応している。
 
 ### ゲームエンジン
 
-2.7xまではゲームエンジン機能を内蔵しており、[Python](../Page/Python.md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")などを利用することでインタラクティブな[コンテンツ](../Page/コンテンツ.md "wikilink")を制作することが可能であった。2.8ではゲームエンジン機能が一旦削除されたものの、今後インタラクティブモードが再度追加される予定となっている。
+2.7xまではゲームエンジン機能を内蔵しており、ロジックノードや[Python](../Page/Python.md "wikilink")[スクリプト](../Page/スクリプト.md "wikilink")を利用することでインタラクティブな[コンテンツ](../Page/コンテンツ.md "wikilink")を制作することが可能であった。2.8ではゲームエンジン機能が一旦削除されたものの、今後インタラクティブモードが再度追加される予定となっている。
+
+なお、2.8xで旧来のゲームエンジンが使用できる派生版のUPBGEも存在する。
 
 ## バージョン履歴
 
@@ -57,17 +77,33 @@ Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedi
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、トン・ローセンダールはインハウス・ツールとして使用されてきたBlenderの開発・外販を行う為に社を設立した。Windows版も用意され、[ラジオシティ](../Page/ラジオシティ.md "wikilink")機能などを実装した有料版と無料版の二種を展開した。
 
-2001年、NaN社は、Web3Dに向けて、Blender Webプラグインのベータ版をリリースした\[8\]が、セキュリティの問題から頓挫した。[2002年](../Page/2002年.md "wikilink")、[インターネット・バブル](https://ja.wikipedia.org/wiki/インターネット・バブル "wikilink")の崩壊と共にNaN社は[倒産](../Page/倒産.md "wikilink")し、Blenderの[ソースコード](../Page/ソースコード.md "wikilink")は債権者の手に渡ってしまう。しかし開発途上にあったBlenderを手放すことができなかったトン・ローセンダールはを設立するため、"ソースコード解放"を合言葉に大々的な[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")キャンペーンを行い半年で10万[ユーロ](../Page/ユーロ.md "wikilink")を世界中から集結させ、ソースコードを再びその手に取り戻した。
+2001年、NaN社は、Web3Dに向けて、Blender Webプラグインのベータ版をリリースした\[14\]が、セキュリティの問題から頓挫した。[2002年](../Page/2002年.md "wikilink")、[インターネット・バブル](https://ja.wikipedia.org/wiki/インターネット・バブル "wikilink")の崩壊と共にNaN社は[倒産](../Page/倒産.md "wikilink")し、Blenderの[ソースコード](../Page/ソースコード.md "wikilink")は債権者の手に渡ってしまう。しかし開発途上にあったBlenderを手放すことができなかったトン・ローセンダールはを設立するため、"ソースコード解放"を合言葉に大々的な[募金](https://ja.wikipedia.org/wiki/募金 "wikilink")キャンペーンを行い半年で10万[ユーロ](../Page/ユーロ.md "wikilink")を世界中から集結させ、ソースコードを再びその手に取り戻した。
 
-そして現在Blenderは、GPLの元にオープンソースウェアとして開発・無償配布されている。ソースコードのコメントが[オランダ語](../Page/オランダ語.md "wikilink")で書かれている上に、プログラム自体が定石から外れた組み方をしているため、開発を引き次いだ有志は他[OSへの移植などで苦戦したという](../Page/オペレーティングシステム.md "wikilink")。
+そして現在までBlenderは、GPLの下にオープンソースウェアとして開発・無償配布されている。ソースコードのコメントが[オランダ語](../Page/オランダ語.md "wikilink")で書かれている上に、プログラム自体が定石から外れた組み方をしているため、開発を引き次いだ有志は他[OSへの移植などで苦戦したという](../Page/オペレーティングシステム.md "wikilink")。
 
 2008年、UI一新などを目的とするBlender 2.5の開発が開始された。バージョン2.4系は2009年のBlender2.49をもって開発終了し、2011年に2.5系の初の安定板となるバージョン2.57がリリースされた。バージョン2.5系は2018年の2.79bをもって開発終了し、2019年7月にリアルタイムレンダラ「Eevee」やフィジカルベースドレンダリング（PBR）などに対応した2.8系の初の安定版となるバージョン2.80がリリースされた。
 
 2019年9月現在、アセットマネージメントなど次世代3DCGソフトに求められる機能の全てを搭載するのはさらに先になる予定が示されている。2018年2月に「Blender 2.8 Code Quest」が開始され、開発資金を集めるためのグッズの販売や、スポンサーの募集などを行っている。
 
+## 動作環境
+
+[`Windows`](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")`（バージョン7、8、10）、`[`macOS`](https://ja.wikipedia.org/wiki/macOS "wikilink")`（10.12以上）、`[`Linux`](../Page/Linux.md "wikilink")など`、多`[`OS`](../Page/OS.md "wikilink")環境で動作する` `[`クロスプラットフォーム`](../Page/クロスプラットフォーム.md "wikilink")が特徴である`。ZIP版と`[`インストーラー`](https://ja.wikipedia.org/wiki/インストーラー "wikilink")版が用意されている`。ファイルの`[`拡張子`](../Page/拡張子.md "wikilink")は`『.blend』となる。`
+
+| 最小限動作環境                                                          | 推薦動作環境                                                               | 快適動作環境              |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------- |
+| 64ビットデュアルコア 2Ghz CPU（SSE2）                                       | 64ビット [クアッドコア](https://ja.wikipedia.org/wiki/クアッドコア "wikilink")CPU   | 64-bit 8コアCPU       |
+| 4 GB RAM                                                         | 16 GB RAM                                                            | 32 GB RAM           |
+| 1280×768ドット表示                                                    | [Full HD](https://ja.wikipedia.org/wiki/1080p "wikilink")（1920×1080） | 複数のFull HD表示        |
+| マウス・トラックパッド・ペン/タブレット                                             | 3ボタンマウス又はペン/タブレット                                                    | 3ボタンタブレットとペン/タブレット  |
+| メモリ1GB以上のグラフィックカード（[OpenGL](../Page/OpenGL.md "wikilink") 3.3以上） | メモリ4GB以上のグラフィックカード                                                   | メモリ12GB以上のグラフィックカード |
+
 ## 参考画像
 
 ## 脚注
+
+<references group="注"/>
+
+## 出典
 
 ## 外部リンク
 
@@ -89,6 +125,12 @@ Blenderの前身である**Traces**は、オランダの[CG](https://ja.wikipedi
 3.
 4.
 5.
-6.  [Blender 2.66 adds Bullet physics, Dynamic Topology](http://www.cgchannel.com/2013/02/blender-2-66-adds-bullet-physics-dynamic-topology/) CG Channel 2013年2月22日
-7.  [Blender Foundation releases Blender 2.82](http://www.cgchannel.com/2020/02/blender-foundation-releases-blender-2-82/) CG Channel 2020年2月14日
-8.  [Blender - news - Web Plug-in](http://download.blender.org/documentation/oldsite/oldsite.blender3d.org/202_Blender%20news%20Web%20Plug-in.html) NaN 2001年8月16日
+6.  [Blender 2.73 – A New Storyboard Workflow](https://gooseberry.blender.org/blender-2-73-a-new-storyboard-workflow/) The Gooseberry Open Movie Project 2015年1月15日
+7.  [Storyboarding with Grease Pencil](http://www.blendernation.com/2016/08/17/storyboarding-grease-pencil/) BlenderNation 2016年8月17日
+8.  [Grease Pencil » Grease Pencil Weight Paint Mode » Introduction](https://docs.blender.org/manual/en/2.83/grease_pencil/modes/weight_paint/introduction.html) Blender Foundation
+9.  2.4x以前はIpo Driver
+10. 『Simulation, Modeling, and Programming for Autonomous Robots - Second International Conference, SIMPAR 2010』 P.16 Noriako Ando, et al. 2010年11月 ISSN 0302-9743
+11. [Blender 2.66 adds Bullet physics, Dynamic Topology](http://www.cgchannel.com/2013/02/blender-2-66-adds-bullet-physics-dynamic-topology/) CG Channel 2013年2月22日
+12. [Blender Foundation releases Blender 2.82](http://www.cgchannel.com/2020/02/blender-foundation-releases-blender-2-82/) CG Channel 2020年2月14日
+13. [Rendering » Eevee » Limitations](https://docs.blender.org/manual/en/latest/render/eevee/limitations.html) Blender Foundation
+14. [Blender - news - Web Plug-in](http://download.blender.org/documentation/oldsite/oldsite.blender3d.org/202_Blender%20news%20Web%20Plug-in.html) NaN 2001年8月16日

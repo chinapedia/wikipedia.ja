@@ -1,4 +1,4 @@
-> この記事は[CAS](https://ja.wikipedia.org/wiki/CAS)から翻訳されています。
+> この記事は[CAS登録番号](https://ja.wikipedia.org/wiki/CAS登録番号)から翻訳されています。
 
 
 **CAS登録番号**（キャスとうろくばんごう、CAS registry number）とは、[化学物質](../Page/化学物質.md "wikilink")を特定するための番号である。CAS番号、CASナンバー、CAS RNとも呼ばれる。

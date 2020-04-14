@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞](https://ja.wikipedia.org/wiki/JRA賞)から翻訳されています。
 
 
 **JRA賞**（ジェイアールエーしょう）は、おもに[中央競馬](../Page/中央競馬.md "wikilink")における活躍をたたえるために設けられている[日本中央競馬会](../Page/日本中央競馬会.md "wikilink") (JRA) の年間表彰制度である。

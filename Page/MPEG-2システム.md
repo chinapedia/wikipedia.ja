@@ -1,4 +1,4 @@
-> この記事は[MPEG-2](https://ja.wikipedia.org/wiki/MPEG-2)から翻訳されています。
+> この記事は[MPEG-2システム](https://ja.wikipedia.org/wiki/MPEG-2システム)から翻訳されています。
 
 
 **MPEG-2システム**（MPEG-2 Systems）とは[MPEG-2](../Page/MPEG-2.md "wikilink")を多重化し、伝送するための規格\[1\]である。ISO/IEC 13818-1および[ITU-T](../Page/ITU-T.md "wikilink")勧告H.222.0において標準化されている。MPEG-2システムは用途別に、MPEG-2プログラムストリーム（**MPEG-2 PS**）とMPEG-2トランスポートストリーム（**MPEG-2 TS**）の2種類に分けられている。

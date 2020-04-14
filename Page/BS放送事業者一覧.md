@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS放送事業者一覧](https://ja.wikipedia.org/wiki/BS放送事業者一覧)から翻訳されています。
 
 
 **BS放送事業者一覧**（ビーエスほうそうじぎょうしゃいちらん）とは、[BS放送を行っている](../Page/日本における衛星放送.md "wikilink")[衛星基幹放送事業者](https://ja.wikipedia.org/wiki/衛星基幹放送事業者 "wikilink")、あるいは過去にBS放送を行っていた[放送事業者](../Page/放送事業者.md "wikilink")・[委託放送事業者](../Page/委託放送事業者.md "wikilink")の一覧である。

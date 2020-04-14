@@ -1,4 +1,4 @@
-> この記事は[EXiV](https://ja.wikipedia.org/wiki/EXiV)から翻訳されています。
+> この記事は[トヨタ・コロナEXiV](https://ja.wikipedia.org/wiki/トヨタ・コロナEXiV)から翻訳されています。
 
 
 **コロナEXiV**（*CORONA EXiV* - エクシヴ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産・販売していた[乗用車](../Page/乗用車.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[HTML](https://ja.wikipedia.org/wiki/HTML)から翻訳されています。
+> この記事は[ダイナミックHTML](https://ja.wikipedia.org/wiki/ダイナミックHTML)から翻訳されています。
 
 
 **ダイナミックHTML**（、DHTML）は、静的な[HTMLの内容を](../Page/HyperText_Markup_Language.md "wikilink")[CSSと](../Page/Cascading_Style_Sheets.md "wikilink")等の[クライアントサイド](../Page/クライアント_\(コンピュータ\).md "wikilink")[スクリプト言語](../Page/スクリプト言語.md "wikilink")を用いて動的に変更するウェブ技術を指す抽象概念である。

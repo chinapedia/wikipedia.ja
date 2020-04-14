@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[新機動戦記ガンダムW](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW)から翻訳されています。
 
 
 『**新機動戦記ガンダムW**』（しんきどうせんきガンダムウイング、英題: ）は、『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[4月7日](../Page/4月7日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")（平成8年）[3月29日](../Page/3月29日.md "wikilink")まで全49話が[テレビ朝日系列で毎週金曜日](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")17時00分 - 17時30分にて放送された。略称は「**GW**」。[米国では最初に放送されたガンダムシリーズ作品である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

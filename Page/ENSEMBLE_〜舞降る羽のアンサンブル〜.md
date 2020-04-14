@@ -1,4 +1,4 @@
-> この記事は[ENSEMBLE ](https://ja.wikipedia.org/wiki/ENSEMBLE_)から翻訳されています。
+> この記事は[ENSEMBLE 〜舞降る羽のアンサンブル〜](https://ja.wikipedia.org/wiki/ENSEMBLE_〜舞降る羽のアンサンブル〜)から翻訳されています。
 
 
 『**ENSEMBLE 〜舞降る羽のアンサンブル〜**』（アンサンブル まいふるはねのアンサンブル）は、[2004年](../Page/2004年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[F\&C FC03より発売された](../Page/F&C.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

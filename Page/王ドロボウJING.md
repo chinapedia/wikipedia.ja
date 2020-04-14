@@ -1,4 +1,4 @@
-> この記事は[JING](https://ja.wikipedia.org/wiki/JING)から翻訳されています。
+> この記事は[王ドロボウJING](https://ja.wikipedia.org/wiki/王ドロボウJING)から翻訳されています。
 
 
 『**王ドロボウJING**』（おうドロボウ ジン）は、[熊倉裕一](../Page/熊倉裕一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。1995年から1998年まで『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて連載された。ボンボンKCとして単行本が全7巻発売されている。また、新装版がマガジンZKCから同じく全7巻発売されている。

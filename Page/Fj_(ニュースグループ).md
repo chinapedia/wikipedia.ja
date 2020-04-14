@@ -1,4 +1,4 @@
-> この記事は[Fj \(\)](https://ja.wikipedia.org/wiki/Fj_\(\))から翻訳されています。
+> この記事は[Fj \(ニュースグループ\)](https://ja.wikipedia.org/wiki/Fj_\(ニュースグループ\))から翻訳されています。
 
 
 **fj**.\*は広域配布される[ネットニュース](../Page/ネットニュース.md "wikilink")の[ニュースグループ](../Page/ニュースグループ.md "wikilink")トップカテゴリのひとつである。主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の参加者が[日本語](../Page/日本語.md "wikilink")で投稿している。

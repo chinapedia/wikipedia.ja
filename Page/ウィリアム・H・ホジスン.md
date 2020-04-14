@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ウィリアム・H・ホジスン](https://ja.wikipedia.org/wiki/ウィリアム・H・ホジスン)から翻訳されています。
 
 
 **ウィリアム・ホープ・ホジスン**（, [1877年](../Page/1877年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - [1918年](../Page/1918年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。[怪奇小説](https://ja.wikipedia.org/wiki/怪奇小説 "wikilink")、[海洋冒険小説](../Page/海洋冒険小説.md "wikilink")を能くし、独特の科学的趣向を帯びた作風は[ラヴクラフトや](../Page/ハワード・フィリップス・ラヴクラフト.md "wikilink")[C・S・ルイス](../Page/C・S・ルイス.md "wikilink")から注目された\[1\]。若いころは主に詩を書いていたが、存命中に出版された詩はごく一部である。写真家、[ボディビルダー](https://ja.wikipedia.org/wiki/ボディビルダー "wikilink")としても一部で知られた。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中に40歳で戦死。
@@ -117,8 +117,7 @@
 
   - [An account of the Hodgson-Houdini controversy](https://web.archive.org/web/20060523040218/http://archive.thisislancashire.co.uk/2000/3/6/738389.html) at Archive.org
 
-  - [ウィリアム・ホジスンの世界](http://homepage3.nifty.com/seasidejunkfoods/hodgson/hodgson_tpp.htm)
-
+  -
   - [William Hope Hodgson](http://alangullette.com/lit/hodgson/)
 
   - [H. P. Lovecraft on Hodgson](http://home.clara.net/andywrobertson/nighthpl.html)

@@ -1,4 +1,4 @@
-> この記事は[YOKOHAMA](https://ja.wikipedia.org/wiki/YOKOHAMA)から翻訳されています。
+> この記事は[YOKOHAMAベイサイドスタジオ](https://ja.wikipedia.org/wiki/YOKOHAMAベイサイドスタジオ)から翻訳されています。
 
 
 **YOKOHAMAベイサイドスタジオ**（*ヨコハマ・ベイサイド・スタジオ*）は、1987年～1990年に[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")で放送されていた情報番組である。
@@ -42,7 +42,7 @@ TVKのプロ野球中継の番組名が「[YOKOHAMAベイサイドナイター](
 
 ## ディレクター
 
-  - 西田俊憲（ＴＶＫテレビ）※アクトワン・クリエイションズ側のディレクター名テロップは無し。　
+  - 西田俊憲（TVKテレビ）※アクトワン・クリエイションズ側のディレクター名テロップは無し。　
   - 山田、栗本（アクトワン・クリエイションズ）（敬称略）※サブディレクター
   - 高瀬、栗田、山根、酒井（敬称略）※アシスタントディレクター
 
@@ -59,4 +59,4 @@ TVKのプロ野球中継の番組名が「[YOKOHAMAベイサイドナイター](
   - [tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE](https://ja.wikipedia.org/wiki/tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE "wikilink")
   - [TVグラフィック42番街](../Page/TVグラフィック42番街.md "wikilink")
 
-[Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの情報・ワイドショー番組 "wikilink")
+[Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink") [Category:テレビ神奈川の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の情報・ワイドショー番組 "wikilink")

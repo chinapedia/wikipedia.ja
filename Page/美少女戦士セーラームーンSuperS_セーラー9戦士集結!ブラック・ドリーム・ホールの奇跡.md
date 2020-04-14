@@ -1,4 +1,4 @@
-> この記事は[SuperS 9!](https://ja.wikipedia.org/wiki/SuperS_9!)から翻訳されています。
+> この記事は[美少女戦士セーラームーンSuperS セーラー9戦士集結!ブラック・ドリーム・ホールの奇跡](https://ja.wikipedia.org/wiki/美少女戦士セーラームーンSuperS_セーラー9戦士集結!ブラック・ドリーム・ホールの奇跡)から翻訳されています。
 
 
 『**美少女戦士セーラームーンSuperS セーラー9戦士集結\!ブラック・ドリーム・ホールの奇跡**』（びしょうじょせんしセーラームーンスーパーズ セーラー9せんししゅうけつ ブラック・ドリーム・ホールのきせき）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[美少女戦士セーラームーンSuperS](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』をもとにした[アニメ映画作品](../Page/アニメーション映画.md "wikilink")。

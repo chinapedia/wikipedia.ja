@@ -1,4 +1,4 @@
-> この記事は[SPORTS](https://ja.wikipedia.org/wiki/SPORTS)から翻訳されています。
+> この記事は[ベストポジションSPORTS](https://ja.wikipedia.org/wiki/ベストポジションSPORTS)から翻訳されています。
 
 
 **ベストポジションSPORTS**（通称「**ベスポジ**」）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で、[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、毎週[日曜日](../Page/日曜日.md "wikilink")の23:30 - 翌0:25（[JST](../Page/日本標準時.md "wikilink")）に放送された[スポーツ](../Page/スポーツ.md "wikilink")を中心とした総合[スポーツニュース番組](https://ja.wikipedia.org/wiki/スポーツニュース番組 "wikilink")である。

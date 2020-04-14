@@ -1,4 +1,4 @@
-> この記事は[AGF](https://ja.wikipedia.org/wiki/AGF)から翻訳されています。
+> この記事は[味の素AGF](https://ja.wikipedia.org/wiki/味の素AGF)から翻訳されています。
 
 
 **味の素AGF株式会社**（あじのもとエージーエフ）は、東京都に本社を置く飲食料品の製造及び販売を手がける[食品メーカー](https://ja.wikipedia.org/wiki/食品メーカー "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[For](https://ja.wikipedia.org/wiki/For)から翻訳されています。
+> この記事は[For文](https://ja.wikipedia.org/wiki/For文)から翻訳されています。
 
 
 **for文**（フォーぶん）は[プログラミング言語](../Page/プログラミング言語.md "wikilink")において[条件](../Page/条件.md "wikilink")が[真](https://ja.wikipedia.org/wiki/真 "wikilink")の間だけ与えられた[文の実行を繰り返すという](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[ループを記述するための文である](../Page/ループ_\(プログラミング\).md "wikilink")。forループは、[whileループと違って](../Page/While文.md "wikilink")、ループに入る前の初期化（通常カウンタ変数の初期化を行なう）を含む点で異なる。

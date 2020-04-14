@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ホンダ・アコードユーロR](https://ja.wikipedia.org/wiki/ホンダ・アコードユーロR)から翻訳されています。
 
 
 **アコードユーロR**（Accord euro-R）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[セダン](../Page/セダン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。6代目および7代目[アコードの](../Page/ホンダ・アコード.md "wikilink")[スポーツバージョンとして設定されていた](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")。

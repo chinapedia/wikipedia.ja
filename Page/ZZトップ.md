@@ -1,4 +1,4 @@
-> この記事は[ZZ](https://ja.wikipedia.org/wiki/ZZ)から翻訳されています。
+> この記事は[ZZトップ](https://ja.wikipedia.org/wiki/ZZトップ)から翻訳されています。
 
 
 **ZZ Top**（ヅィー・ヅィー・トップ\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJつばさ証券](https://ja.wikipedia.org/wiki/UFJつばさ証券)から翻訳されています。
 
 
 **UFJつばさ証券株式会社**（UFJつばさしょうけん、英文名称:UFJ Tsubasa Securities Co., Ltd.）はかつて存在した準大手[証券会社](../Page/証券会社.md "wikilink")である。登記上の商号は**ユーエフジェイつばさ証券株式会社**。株式会社[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")（登記上の商号は株式会社ユーエフジェイホールディングス）（現:[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")）の子会社。

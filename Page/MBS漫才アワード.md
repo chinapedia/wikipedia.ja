@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBS漫才アワード](https://ja.wikipedia.org/wiki/MBS漫才アワード)から翻訳されています。
 
 
 『**MBS漫才アワード**（エムビーエスまんざいアワード）』は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のテレビ・ラジオ放送局である[毎日放送](../Page/毎日放送.md "wikilink")(MBS)が主催していた[漫才](../Page/漫才.md "wikilink")コンテスト。[2011年](../Page/2011年.md "wikilink")開催の第9回までは『**MBS新世代漫才アワード**（エムビーエスしんせだいまんざいアワード）』の名称で開催された。

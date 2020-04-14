@@ -1,4 +1,4 @@
-> この記事は[ \(PR\)](https://ja.wikipedia.org/wiki/_\(PR\))から翻訳されています。
+> この記事は[サニーサイドアップ \(PR会社\)](https://ja.wikipedia.org/wiki/サニーサイドアップ_\(PR会社\))から翻訳されています。
 
 
 **株式会社サニーサイドアップ**（）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のPR会社。企業広報やスポーツマーケティング支援などを行っている。

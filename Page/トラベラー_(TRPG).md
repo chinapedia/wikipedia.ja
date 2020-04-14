@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[トラベラー \(TRPG\)](https://ja.wikipedia.org/wiki/トラベラー_\(TRPG\))から翻訳されています。
 
 
 『**トラベラー**』（*Traveller*）は、GDW（[ゲームデザイナーズ・ワークショップ](https://ja.wikipedia.org/wiki/ゲームデザイナーズ・ワークショップ "wikilink")）より[1977年](../Page/1977年.md "wikilink")に発売された[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ロールプレイングゲーム](../Page/テーブルトークRPG.md "wikilink")。デザイナーは[マーク・W・ミラー](https://ja.wikipedia.org/wiki/マーク・ミラー "wikilink")。[1984年](../Page/1984年.md "wikilink")に[安田均](../Page/安田均.md "wikilink")の翻訳による日本語版が日本語で出版された初の本格的[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）として[ホビージャパン](../Page/ホビージャパン.md "wikilink")から発売され、追加ルールなどのサプリメントと関連ゲームも多数翻訳された。日本語版のボックス・アートは[加藤直之](../Page/加藤直之.md "wikilink")がイラストを担当した。

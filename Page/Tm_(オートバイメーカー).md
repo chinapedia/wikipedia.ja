@@ -1,4 +1,4 @@
-> この記事は[Tm \(\)](https://ja.wikipedia.org/wiki/Tm_\(\))から翻訳されています。
+> この記事は[Tm \(オートバイメーカー\)](https://ja.wikipedia.org/wiki/Tm_\(オートバイメーカー\))から翻訳されています。
 
 
 **tm**（ティーエム）は、[イタリア](../Page/イタリア.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")メーカーである。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での正規輸入代理店は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[夕張郡](../Page/夕張郡.md "wikilink")[栗山町](../Page/栗山町.md "wikilink")に所在する株式会社[うえさか貿易](https://ja.wikipedia.org/wiki/うえさか貿易 "wikilink")。

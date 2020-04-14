@@ -1,4 +1,4 @@
-> この記事は[!CUBE](https://ja.wikipedia.org/wiki/!CUBE)から翻訳されています。
+> この記事は[速報!スポーツCUBE](https://ja.wikipedia.org/wiki/速報!スポーツCUBE)から翻訳されています。
 
 
 『**速報\!スポーツCUBE**』（そくほう すぽーつきゅーぶ）は[2000年](../Page/2000年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")（[1日深夜](../Page/4月1日.md "wikilink")）から[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")（[3月31日](../Page/3月31日.md "wikilink")深夜）に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送された土曜日のスポーツニュース番組である。

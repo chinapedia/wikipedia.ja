@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[登龍門F](https://ja.wikipedia.org/wiki/登龍門F)から翻訳されています。
 
 
 『**登龍門F**』（とうりゅうもん エフ）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")で生放送される、若手育成型[深夜の](../Page/深夜番組.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")。司会は[伊藤利尋](../Page/伊藤利尋.md "wikilink")、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")両アナウンサー。

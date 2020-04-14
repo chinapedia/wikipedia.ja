@@ -1,4 +1,4 @@
-> この記事は[TS](https://ja.wikipedia.org/wiki/TS)から翻訳されています。
+> この記事は[T・S・エリオット](https://ja.wikipedia.org/wiki/T・S・エリオット)から翻訳されています。
 
 
 ` `

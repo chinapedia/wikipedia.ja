@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNN票決ライブ](https://ja.wikipedia.org/wiki/JNN票決ライブ)から翻訳されています。
 
 
 **JNN票決ライブ**は、[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[TBS系列](../Page/TBSテレビ.md "wikilink")）の[選挙特別番組](../Page/選挙特別番組.md "wikilink")。

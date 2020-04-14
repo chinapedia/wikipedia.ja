@@ -1,4 +1,4 @@
-> この記事は[Nona \(\)](https://ja.wikipedia.org/wiki/Nona_\(\))から翻訳されています。
+> この記事は[Nona \(ディスクジョッキー\)](https://ja.wikipedia.org/wiki/Nona_\(ディスクジョッキー\))から翻訳されています。
 
 
 '''Nona（のーな、[12月22日](../Page/12月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
@@ -49,7 +49,7 @@
   - [天空散歩](https://ja.wikipedia.org/wiki/天空散歩 "wikilink")（テレビ東京）
   - [嗚呼\!花の料理人](../Page/嗚呼!花の料理人.md "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
   - 星月夜（TBS）
-  - [スマートラウンジ](https://ja.wikipedia.org/wiki/スマートラウンジ "wikilink")（2011年 - 2012年、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）
+  - [スマートラウンジ](https://ja.wikipedia.org/wiki/スマートラウンジ "wikilink")（2011年 - 2012年、[BS朝日](../Page/ビーエス朝日.md "wikilink")）
   - [欧州 美の浪漫紀行シリーズ](https://ja.wikipedia.org/wiki/欧州_美の浪漫紀行 "wikilink")（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）
   - [あさナビ](https://ja.wikipedia.org/wiki/あさナビ "wikilink")（テレビ朝日）
   - [王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")（2013年6月 - 、TBS）

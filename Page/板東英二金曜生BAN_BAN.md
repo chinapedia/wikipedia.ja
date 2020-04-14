@@ -1,4 +1,4 @@
-> この記事は[BAN BAN](https://ja.wikipedia.org/wiki/BAN_BAN)から翻訳されています。
+> この記事は[板東英二金曜生BAN BAN](https://ja.wikipedia.org/wiki/板東英二金曜生BAN_BAN)から翻訳されています。
 
 
 **板東英二金曜生BAN BAN**（ばんどうえいじ きんようなまばんばん）は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")番組。

@@ -1,4 +1,4 @@
-> この記事は[AR](https://ja.wikipedia.org/wiki/AR)から翻訳されています。
+> この記事は[カワサキ・AR](https://ja.wikipedia.org/wiki/カワサキ・AR)から翻訳されています。
 
 
 **カワサキ・AR**（エーアール）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")（カワサキ）が製造、販売していた[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されていた。

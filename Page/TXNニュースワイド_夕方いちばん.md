@@ -1,4 +1,4 @@
-> この記事は[TXN ](https://ja.wikipedia.org/wiki/TXN_)から翻訳されています。
+> この記事は[TXNニュースワイド 夕方いちばん](https://ja.wikipedia.org/wiki/TXNニュースワイド_夕方いちばん)から翻訳されています。
 
 
 『**TXNニュースワイド 夕方いちばん**』（ティーエックスエヌニュースワイド ゆうがたいちばん）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作のニュース・情報番組である。

@@ -1,4 +1,4 @@
-> この記事は[CSK \(\)](https://ja.wikipedia.org/wiki/CSK_\(\))から翻訳されています。
+> この記事は[CSK \(企業\)](https://ja.wikipedia.org/wiki/CSK_\(企業\))から翻訳されています。
 
 
 **株式会社CSK**（シーエスケイ、）は、[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")[システムエンジニアリング企業](../Page/システムインテグレーター.md "wikilink")。[東証第](../Page/東京証券取引所.md "wikilink")1部に[上場](../Page/株式公開.md "wikilink")、[証券コード](../Page/証券コード.md "wikilink")は9737番。[2011年](../Page/2011年.md "wikilink")（平成23年）[10月1日](../Page/10月1日.md "wikilink")に[SCSK](../Page/SCSK.md "wikilink")(旧社名：住商情報システム)に吸収合併された。

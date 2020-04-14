@@ -1,4 +1,4 @@
-> この記事は[P-2J \(\)](https://ja.wikipedia.org/wiki/P-2J_\(\))から翻訳されています。
+> この記事は[P-2J \(航空機\)](https://ja.wikipedia.org/wiki/P-2J_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=川崎/ロッキード P-2J「おおわし」 | 画像=<File:P-2J.jpg> | キャプション=川崎 P-2J 4761号機 | 用途=[対潜哨戒機](../Page/対潜哨戒機.md "wikilink") | 分類= | 設計者=

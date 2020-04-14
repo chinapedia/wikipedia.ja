@@ -1,4 +1,4 @@
-> この記事は[AFC U-19](https://ja.wikipedia.org/wiki/AFC_U-19)から翻訳されています。
+> この記事は[AFC U-19選手権](https://ja.wikipedia.org/wiki/AFC_U-19選手権)から翻訳されています。
 
 
 **AFC U-19選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、19歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。現在は2年に1度、偶数年に行われている。この大会は[FIFA U-20ワールドカップのアジア予選を兼ねており](../Page/FIFA_U-20ワールドカップ.md "wikilink")、優勝チームおよび、上位の数チームが出場権を得る。2006年大会までの名称は**AFCユース選手権**（）だった。

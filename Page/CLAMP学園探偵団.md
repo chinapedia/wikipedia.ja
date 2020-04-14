@@ -1,4 +1,4 @@
-> この記事は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP)から翻訳されています。
+> この記事は[CLAMP学園探偵団](https://ja.wikipedia.org/wiki/CLAMP学園探偵団)から翻訳されています。
 
 
 『**CLAMP学園探偵団**』（クランプがくえんたんていだん、CLAMP School Detectives）は、[CLAMP](../Page/CLAMP.md "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品、及びそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

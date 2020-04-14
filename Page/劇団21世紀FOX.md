@@ -1,4 +1,4 @@
-> この記事は[21FOX](https://ja.wikipedia.org/wiki/21FOX)から翻訳されています。
+> この記事は[劇団21世紀FOX](https://ja.wikipedia.org/wiki/劇団21世紀FOX)から翻訳されています。
 
 
 **劇団21世紀FOX**（げきだんにじゅういっせいきフォックス）は、[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")佐須町にかつてあった[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")。

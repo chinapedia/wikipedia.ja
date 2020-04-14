@@ -7,13 +7,13 @@
 
 [スライドファスナーの生産が有名で](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")、世界[シェアの約](../Page/市場占有率.md "wikilink")45%を占める。
 
-社名の由来は旧社名である「**吉田工業株式会社**（**Y**oshida **K**ogyo **K**abushikigaisha）」の略称で、**Y**は創業者の[吉田忠雄](https://ja.wikipedia.org/wiki/吉田忠雄 "wikilink")（富山県魚津市出身）の苗字からきている。
+社名の由来は旧社名である「**吉田工業株式会社**（**Y**oshida **K**ogyo **K**abushikigaisha）」の略称で、**Y**は創業者の[吉田忠雄](../Page/吉田忠雄.md "wikilink")（富山県魚津市出身）の苗字からきている。
 
 YKKグループの本社機能、およびファスニング事業（Fastening Products）・建材事業（Architectural Products）・工機（Machinery Engineering）の3部門によるグローバル事業経営と世界6極による地域経営を基本としている。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")に大規模な生産拠点を置き、世界70カ国/地域122社に拠点を持つ。
 
 ## 沿革
 
-  - [1934年](../Page/1934年.md "wikilink")（昭和9年）[1月1日](../Page/1月1日.md "wikilink") - [吉田忠雄](https://ja.wikipedia.org/wiki/吉田忠雄 "wikilink")、東京都[東日本橋](../Page/東日本橋.md "wikilink")にサンエス商会を設立し、ファスナーの加工・販売を開始。
+  - [1934年](../Page/1934年.md "wikilink")（昭和9年）[1月1日](../Page/1月1日.md "wikilink") - [吉田忠雄](../Page/吉田忠雄.md "wikilink")、東京都[東日本橋](../Page/東日本橋.md "wikilink")にサンエス商会を設立し、ファスナーの加工・販売を開始。
   - [1938年](../Page/1938年.md "wikilink")（昭和13年） - 吉田工業所と改称。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年） - [東京大空襲](../Page/東京大空襲.md "wikilink")で工場焼失。現在の[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[魚津市](../Page/魚津市.md "wikilink")に所在していた株式会社魚津鉄工所を買収し、同社の商号を「**吉田工業株式会社**」に変更。
   - [1946年](../Page/1946年.md "wikilink")（昭和21年） - 商標を「**YKK**」とする。

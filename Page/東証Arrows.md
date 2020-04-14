@@ -1,4 +1,4 @@
-> この記事は[Arrows](https://ja.wikipedia.org/wiki/Arrows)から翻訳されています。
+> この記事は[東証Arrows](https://ja.wikipedia.org/wiki/東証Arrows)から翻訳されています。
 
 
 [The_Tokyo_Stock_Exchange_-_main_room_3.jpg](https://ja.wikipedia.org/wiki/File:The_Tokyo_Stock_Exchange_-_main_room_3.jpg "fig:The_Tokyo_Stock_Exchange_-_main_room_3.jpg") **東証Arrows**（とうしょうアローズ）とは、[東京証券取引所](../Page/東京証券取引所.md "wikilink")内にある情報提供スペース。
@@ -33,8 +33,6 @@
 
 ## 外部リンク
 
-  - [東京証券取引所](https://web.archive.org/web/20130508181222/http://www.tse.or.jp/)
-  - [東証Arrows](https://www.jpx.co.jp/)
-  - [東証 あろーずくん on twitter](https://twitter.com/tse_pr)
+  - [東証Arrows見学 | 日本取引所グループ](https://www.jpx.co.jp/learning/tour/arrows/index.html)
 
 [Category:株式市場](https://ja.wikipedia.org/wiki/Category:株式市場 "wikilink") [Category:東京証券取引所](https://ja.wikipedia.org/wiki/Category:東京証券取引所 "wikilink")

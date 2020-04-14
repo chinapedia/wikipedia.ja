@@ -1,4 +1,4 @@
-> この記事は[21COE](https://ja.wikipedia.org/wiki/21COE)から翻訳されています。
+> この記事は[21世紀COEプログラム](https://ja.wikipedia.org/wiki/21世紀COEプログラム)から翻訳されています。
 
 
 **21世紀COEプログラム**（にじゅういっせいきしーおーいープログラム、*The 21st Century Center Of Excellence Program*）は、「大学の構造改革の方針」（[2001年](../Page/2001年.md "wikilink")6月）に基づき、[2002年](../Page/2002年.md "wikilink")から新たに開始された[文部科学省](../Page/文部科学省.md "wikilink")の研究拠点形成等補助金事業である。
@@ -121,7 +121,7 @@
   - 4件　[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")
   - 3件　[一橋大学](../Page/一橋大学.md "wikilink")　[神戸大学](../Page/神戸大学.md "wikilink")　[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")
   - 2件　[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")　[京都大学](../Page/京都大学.md "wikilink")　[早稲田大学](../Page/早稲田大学.md "wikilink")
-  - 1件　[北海道大学](../Page/北海道大学.md "wikilink")　[政策研究大学院大学](../Page/政策研究大学院大学.md "wikilink")　[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")　[東京都立大学](../Page/東京都立大学.md "wikilink")　[日本福祉大学](../Page/日本福祉大学.md "wikilink")　[同志社大学](../Page/同志社大学.md "wikilink")　[関西学院大学](../Page/関西学院大学.md "wikilink")
+  - 1件　[北海道大学](../Page/北海道大学.md "wikilink")　[政策研究大学院大学](../Page/政策研究大学院大学.md "wikilink")　[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")　[東京都立大学 (1949-2011)](../Page/東京都立大学_\(1949-2011\).md "wikilink")　[日本福祉大学](../Page/日本福祉大学.md "wikilink")　[同志社大学](../Page/同志社大学.md "wikilink")　[関西学院大学](../Page/関西学院大学.md "wikilink")
 
 #### 医学系
 
@@ -140,7 +140,7 @@
 
   - 3件　[東京工業大学](../Page/東京工業大学.md "wikilink")
   - 2件　[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")　[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")　[九州大学](../Page/九州大学.md "wikilink")
-  - 1件　[北海道大学](../Page/北海道大学.md "wikilink")　[山梨大学](../Page/山梨大学.md "wikilink")　[名古屋大学](../Page/名古屋大学.md "wikilink")　[京都大学](../Page/京都大学.md "wikilink")　[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")　[神戸大学](../Page/神戸大学.md "wikilink")　[熊本大学](../Page/熊本大学.md "wikilink")　[東京都立大学](../Page/東京都立大学.md "wikilink")　[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")　[東京電機大学](https://ja.wikipedia.org/wiki/東京電機大学 "wikilink")　[東京理科大学](../Page/東京理科大学.md "wikilink")　[早稲田大学](../Page/早稲田大学.md "wikilink")　[東京工芸大学](../Page/東京工芸大学.md "wikilink")　[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")
+  - 1件　[北海道大学](../Page/北海道大学.md "wikilink")　[山梨大学](../Page/山梨大学.md "wikilink")　[名古屋大学](../Page/名古屋大学.md "wikilink")　[京都大学](../Page/京都大学.md "wikilink")　[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")　[神戸大学](../Page/神戸大学.md "wikilink")　[熊本大学](../Page/熊本大学.md "wikilink")　[東京都立大学 (1949-2011)](../Page/東京都立大学_\(1949-2011\).md "wikilink")　[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")　[東京電機大学](https://ja.wikipedia.org/wiki/東京電機大学 "wikilink")　[東京理科大学](../Page/東京理科大学.md "wikilink")　[早稲田大学](../Page/早稲田大学.md "wikilink")　[東京工芸大学](../Page/東京工芸大学.md "wikilink")　[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")
 
 #### 生命科学
 

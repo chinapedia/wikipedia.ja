@@ -1,7 +1,7 @@
 > この記事は[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER)から翻訳されています。
 
 
-**MALICE MIZER**（マリスミゼル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")8月結成、[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって活動休止。バンド名の由来は「**悪意と悲劇**」という意味を持つフランス語\[1\]。ほぼ同時期にメジャーデビューをしていた[SHAZNA](../Page/SHAZNA.md "wikilink")、[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[2\]。
+**MALICE MIZER**（マリスミゼル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1992年](../Page/1992年.md "wikilink")8月結成、[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって活動休止。バンド名の由来は「**悪意と悲劇**」という意味を持つフランス語\[1\]。ほぼ同時期にメジャーデビューをしていた[SHAZNA](../Page/SHAZNA.md "wikilink")、[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")、[La'cryma Christiと共に](../Page/La'cryma_Christi.md "wikilink")「ヴィジュアル系四天王」とされていた\[2\]。 主な略称は｢マリス｣。
 
 ## 概要
 
@@ -27,13 +27,13 @@
   - Yu～ki（ユウキ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[8月8日](../Page/8月8日.md "wikilink")生まれ。\[6\]
     イメージカラーはイエローやオレンジ。
   - [Kami](../Page/Kami_\(ミュージシャン\).md "wikilink")（カミ、旧名：[右狂](https://ja.wikipedia.org/wiki/右狂 "wikilink")（ウキョウ)及び[神村右狂](https://ja.wikipedia.org/wiki/神村右狂 "wikilink")(カミムラ ウキョウ)、[1999年](../Page/1999年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に急逝） - [ドラム](../Page/ドラムセット.md "wikilink")&[パーカッション](../Page/パーカッション.md "wikilink") (加入前は[Kneuklid Romanceに所属](../Page/Kneuklid_Romance.md "wikilink")。)[2月1日](../Page/2月1日.md "wikilink")生まれ。 \[7\]
-    イメージカラーは パープル。
+    イメージカラーはパープル。
 
 ### 過去に在籍したメンバー
 
   - [TETSU](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（テツ） - 初代ヴォーカル (**MALICE MIZER**→MEGA8BALL→[ZIGZO](../Page/ZIGZO.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink") ※脱退以降はノーメイクスタイル・本名の高野哲名義での活動となり、2012年よりZIGZOとしての活動を再開している。)
   - [Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")（ガクト、神威楽斗）　2代目ヴォーカル&[ピアノ](../Page/ピアノ.md "wikilink") (現在はソロ歌手、俳優、声優として活動中。)
-    マリス時代のイメージカラーはイメージカラーはブラック。
+    マリス時代のイメージカラーはブラック。
   - GAZ（ガズ） - ドラム (脱退後[Kneuklid Romanceに加入](../Page/Kneuklid_Romance.md "wikilink")、その後脱退するが2009年、2011年、2012年のKneuklid Romance復活時に参加。2017年12月22日癌により他界\[8\]。)
 
 ### サポートメンバー
@@ -59,7 +59,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")、Moi dix MoisとKöziによるジョイントツアー「Deep Sanctuary2」赤坂BLITZ公演にて、「再会の血と薔薇〜ず」と称しオリジナルメンバーのMana、Közi、Yu～kiによるセッションが行なわれた。
   - [2012年](../Page/2012年.md "wikilink")の[9月2日](../Page/9月2日.md "wikilink")に赤坂BLITZ、および[11月14日](../Page/11月14日.md "wikilink")に大阪MUSEにて開催されたMoi dix MoisとZIZによるジョイントツアー「Deep Sanctuary Ⅲ」公演にて、「破滅の果て〜ず」と名を改めMana、Közi、Yu～kiによるセッションが再度行なわれた。
   - [2014年](../Page/2014年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")、Moi dix MoisとZIZでのイベント「Deep Sanctuary IV」にて、Mana、Közi、Yu～kiの三人で、活動停止後初めてMALICE MIZERとしてセッションが行われた(上記3人によるセッションのサポートドラムは全てMoi dix MoisのHayato(ex.Blüe)が担当)。
-  - [2018年](../Page/2018年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")、「Deep Sanctuary VI」にて、「MALICE MIZER 25th Anniversary Special」と銘打たれたイベントを開催。Moi dix MoisとZIZのライブに加え、Mana、Közi、Yu～kiの三人を中心としたMALICE MIZERとしてのパフォーマンスを繰り広げた。ゲストボーカルにはMALICE MIZERのローディーであった、Shuji (cali≠gari / GOATBED)、KAMIJO (Versailles)、Hitomi (ウミユリ)が参加。ゲストドラマーとしてKamiの師匠であったSakura (ZIGZO / gibkiy gibkiy gibkiy / Rayflower)が参加した。チケット即日SOLD OUTにつき、翌日9月9日に追加公演を開催。また、追加公演の模様を収めたBlu-rayがメモリアル写真集とのセットでリリースされた。
+  - [2018年](../Page/2018年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")、「Deep Sanctuary VI」にて、「MALICE MIZER 25th Anniversary Special」と銘打たれたイベントを開催。Moi dix MoisとZIZのライブに加え、Mana、Közi、Yu～kiの三人を中心としたMALICE MIZERとしてのパフォーマンスを繰り広げた。ゲストボーカルにはMALICE MIZERのローディーであった、Shuji (cali≠gari / GOATBED)、KAMIJO (Versailles)、Hitomi (ウミユリ)が参加。ゲストドラマーとしてKamiの師匠であったSakura (ZIGZO / gibkiy gibkiy gibkiy / Rayflower/元L'Arc〜en〜Ciel)が参加した。チケット即日SOLD OUTにつき、翌日9月9日に追加公演を開催。また、追加公演の模様を収めたBlu-rayがメモリアル写真集とのセットでリリースされた。
 
 ## ディスコグラフィ
 

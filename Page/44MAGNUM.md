@@ -5,7 +5,9 @@
 
 ## 概要
 
-[ジャパニーズヘヴィメタル](../Page/ジャパニーズ・メタル.md "wikilink")、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の先駆けと言えるバンドで、影響を受けたバンドの数は多い([X JAPAN](../Page/X_JAPAN.md "wikilink")、D'ERLANGER等)。 特に[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[瀧川一郎](../Page/瀧川一郎.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")と元[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")～[GRAND SLAMの加藤純也は](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")、44MAGNUMのローディーとして働いており、瀧川一郎は[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")に弟子入りし、菊地哲は[宮脇知史に弟子入りしていた](../Page/宮脇“JOE”知史.md "wikilink")。
+[ラウドネス](../Page/LOUDNESS.md "wikilink")、[アースシェイカーらと共に](../Page/EARTHSHAKER.md "wikilink")[ジャパニーズヘヴィメタルの先駆けと言えるバンド](../Page/ジャパニーズ・メタル.md "wikilink")。
+
+## 来歴
 
 [1977年](../Page/1977年.md "wikilink")、 PAUL（梅原達也 / ボーカル）によって結成される。[1979年](../Page/1979年.md "wikilink")、ギターのJIMMY（広瀬さとし / ギター）が加入。今のバンドの原型ができあがる。その後、メンバーチェンジを繰り返しながら[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[MOON RECORDSからアルバム](../Page/MOON_RECORDS.md "wikilink")『DANGER』をリリースしメジャーデビュー。
 
@@ -13,7 +15,7 @@
 
 ただし、この「メンバー全員が金髪」はメジャーデビューにあたって、売出側の「ギョーカイの大人たち」によって「させられた」もの。当時、日本に[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")が紹介されていた時期でも有り、売出側は「和製モトリー・クルー」を画策した。
 
-1985年、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink")、[北島健二](../Page/北島健二.md "wikilink")、高橋ヨシロウ（[アクション](../Page/アクション_\(バンド\).md "wikilink")）らをゲストに迎え、各メンバーのソロ曲を収録したミニアルバム『FOUR FIGURES』をリリース。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink")、[北島健二](../Page/北島健二.md "wikilink")、高橋ヨシロウ（[アクション](../Page/アクション_\(バンド\).md "wikilink")）らをゲストに迎え、各メンバーのソロ曲を収録したミニアルバム『FOUR FIGURES』をリリース。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、レコード会社移籍と共にヘヴィメタルはもう古いとソフトロック路線に変更するが、ファンからは猛烈なバッシングを喰らい人気は急降下。 [1988年](../Page/1988年.md "wikilink")に[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")の導入に反対していたドラムのJOE（宮脇知史 / ドラム）が脱退、[1989年](../Page/1989年.md "wikilink")4月4日に解散してしまう。
 
@@ -35,17 +37,21 @@
 
 2010年8月21日開催のJACK IN THE BOX SUMMERより[Anarchy Bad Ray](https://ja.wikipedia.org/wiki/Anarchy_Bad_Ray "wikilink")(Ba)をサポートで起用し、LIVE活動を行う。
 
-2013年4月4日 吉川 (Ba)が復帰し、デビュー30周年ツアーがスタート。同月10日にアルバム『[BEAST](https://ja.wikipedia.org/wiki/BEAST_\(44MAGNUMのアルバム\) "wikilink")』をリリース。
+[2013年](../Page/2013年.md "wikilink")4月4日 吉川 (Ba)が復帰し、デビュー30周年ツアーがスタート。同月10日にアルバム『[BEAST](https://ja.wikipedia.org/wiki/BEAST_\(44MAGNUMのアルバム\) "wikilink")』をリリース。
 
-2015年11月7日 東京・[Mt.RAINIER HALL SHIBUYA PLEASURE PLEASUREにて](https://ja.wikipedia.org/wiki/Mt.RAINIER_HALL_SHIBUYA_PLEASURE_PLEASURE "wikilink")、ニューアルバム『ANGEL NUMBER』リリース記念ライブを開催\[3\]。
+[2015年](../Page/2015年.md "wikilink")11月7日 東京・[Mt.RAINIER HALL SHIBUYA PLEASURE PLEASUREにて](https://ja.wikipedia.org/wiki/Mt.RAINIER_HALL_SHIBUYA_PLEASURE_PLEASURE "wikilink")、ニューアルバム『ANGEL NUMBER』リリース記念ライブを開催\[3\]。
 
-2016年、ポールが手術を行う\[4\]\[5\]。
+[2016年](../Page/2016年.md "wikilink")、ポールが手術を行う\[4\]\[5\]。
 
-2017年4月5日、DVD付きのライブアルバム『44MAGNUM 2016 04 03 04 SPECIAL LIVE』をリリース\[6\]。
+[2017年](../Page/2017年.md "wikilink")4月5日、DVD付きのライブアルバム『44MAGNUM 2016 04 03 04 SPECIAL LIVE』をリリース\[6\]。
 
-2017年5月11日放送の[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")『[ハートネットTV](https://ja.wikipedia.org/wiki/ハートネットTV "wikilink") もっともっと歌いたいぜ～パーキンソン病と闘うロック歌手の日々』にて、ポールの2017年4月4日 44MAGNUM　Mt.RAINIER HALL公演までの日々が放送される\[7\]\[8\]。
+[2017年](../Page/2017年.md "wikilink")5月11日放送の[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")『[ハートネットTV](https://ja.wikipedia.org/wiki/ハートネットTV "wikilink") もっともっと歌いたいぜ～パーキンソン病と闘うロック歌手の日々』にて、ポールの2017年4月4日 44MAGNUM　Mt.RAINIER HALL公演までの日々が放送される\[7\]\[8\]。
 
-2019年1月30日、44MAGNUM 35th Anniversaryニューアルバム『PRISONER』をリリース。
+[2019年](../Page/2019年.md "wikilink")1月30日、44MAGNUM 35th Anniversaryニューアルバム『PRISONER』をリリース。
+
+## 音楽性と影響
+
+影響を受けたバンドの数は多い([X JAPAN](../Page/X_JAPAN.md "wikilink")、D'ERLANGER等)。 特に[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[瀧川一郎](../Page/瀧川一郎.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")と元[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")～[GRAND SLAMの加藤純也は](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")、44MAGNUMの裏方スタッフでローディーとして働いており、瀧川一郎は[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")に弟子入りし、菊地哲は[宮脇知史に弟子入りしていた](../Page/宮脇“JOE”知史.md "wikilink")。
 
 ## メンバー
 

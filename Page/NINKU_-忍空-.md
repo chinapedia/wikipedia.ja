@@ -1,4 +1,4 @@
-> この記事は[NINKU --](https://ja.wikipedia.org/wiki/NINKU_--)から翻訳されています。
+> この記事は[NINKU -忍空-](https://ja.wikipedia.org/wiki/NINKU_-忍空-)から翻訳されています。
 
 
 『**NINKU -忍空-**』（にんくう）は、[桐山光侍](../Page/桐山光侍.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")・[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")作品。
@@ -1129,7 +1129,7 @@ NINKU -忍空-
 
 ## ゲームソフト
 
-  - 1995年 [ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト『NINKU -忍空-』（トミー） - 初のゲーム作品。ストーリーは原作を再現しており、原作3巻まで（麒麟との戦い）がメインとなる（この為、アニメでは登場していないキャラクターが登場している）。使用キャラクターは風助・藍朓・橙次・松正・習画・黄愁・寿行・影・麒麟・陽紅・ポチ（隠しキャラクターである陽紅とポチは原作4巻以降の登場の為、ゲスト扱いである）。
+  - 1995年 [ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト『[NINKU -忍空-](../Page/NINKU_-忍空-_\(ゲームボーイ\).md "wikilink")』（トミー） - 初のゲーム作品。
   - 1995年 ゲームボーイ用ソフト『NINKU -忍空- 第2弾 忍空戦争編』（トミー）
   - 1995年7月21日 [ゲームギア](../Page/ゲームギア.md "wikilink")用ソフト『NINKU -忍空-』（セガ）
   - 1995年11月3日 ゲームギア用ソフト『忍空外伝 ヒロユキ大活劇』（セガ）

@@ -1,4 +1,4 @@
-> この記事は[COIN](https://ja.wikipedia.org/wiki/COIN)から翻訳されています。
+> この記事は[COIN機](https://ja.wikipedia.org/wiki/COIN機)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Ov-10frontright.jpg "wikilink")\]\] **COIN機**（コインき）は、[不正規戦のために使用される](https://ja.wikipedia.org/wiki/不正規戦争 "wikilink")[軽攻撃機の一種](../Page/攻撃機.md "wikilink")。Counter Insurgency（対[暴動](../Page/暴動.md "wikilink")）の略。

@@ -1,4 +1,4 @@
-> この記事は[NEO -IMPERIAL-](https://ja.wikipedia.org/wiki/NEO_-IMPERIAL-)から翻訳されています。
+> この記事は[グラディウスNEO -IMPERIAL-](https://ja.wikipedia.org/wiki/グラディウスNEO_-IMPERIAL-)から翻訳されています。
 
 
 『**グラディウスNEO -IMPERIAL-**』（グラディウスネオ インペリアル、*GRADIUS NEO -IMPERIAL-*）は[2004年](../Page/2004年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が[携帯電話](../Page/携帯電話.md "wikilink")向けサイトで公開した横スクロールシューティングゲーム。『[グラディウスNEO](../Page/グラディウスNEO.md "wikilink")』のアナザーストーリー的作品。

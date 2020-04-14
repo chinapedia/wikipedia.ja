@@ -63,7 +63,7 @@ SFBUFの[概念](../Page/概念.md "wikilink")はのがsendfile(2)\[7\]を書い
 
 **DragonFly BSD** 2.0より、[ファイルシステム](../Page/ファイルシステム.md "wikilink")として、[HAMMER](https://ja.wikipedia.org/wiki/HAMMER "wikilink")\[12\]を採用している。
 
-なお、HAMMERの[後継](https://ja.wikipedia.org/wiki/後継 "wikilink")として、HAMMER2の[開発](../Page/開発.md "wikilink")がによって主導されている。
+HAMMERの[後継](https://ja.wikipedia.org/wiki/後継 "wikilink")として、HAMMER2の[開発](../Page/開発.md "wikilink")がによって主導され、**DragonFly BSD** 5.0より実験的にサポートされ、**DragonFly BSD** 5.2より公式にサポートされる。
 
 ### その他
 

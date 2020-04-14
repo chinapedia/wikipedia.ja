@@ -1,4 +1,4 @@
-> この記事は[ SSX](https://ja.wikipedia.org/wiki/_SSX)から翻訳されています。
+> この記事は[わが青春のアルカディア 無限軌道SSX](https://ja.wikipedia.org/wiki/わが青春のアルカディア_無限軌道SSX)から翻訳されています。
 
 
 『**わが青春のアルカディア 無限軌道SSX**』（わがせいしゅんのアルカディア むげんきどうエスエスエックス）は、[1982年](../Page/1982年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[TBS系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")だった[福島テレビ](../Page/福島テレビ.md "wikilink")と[テレビ山口](../Page/テレビ山口.md "wikilink")を含む）で放送されていた[松本零士](../Page/松本零士.md "wikilink")原作の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")である。全22話。[パイロット版](../Page/パイロット版.md "wikilink")での仮タイトルは「**海賊旗艦アルカディア**」。

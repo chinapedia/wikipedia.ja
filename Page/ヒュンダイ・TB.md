@@ -1,4 +1,4 @@
-> この記事は[TB](https://ja.wikipedia.org/wiki/TB)から翻訳されています。
+> この記事は[ヒュンダイ・TB](https://ja.wikipedia.org/wiki/ヒュンダイ・TB)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2004_Hyundai_Getz_GL_5-door_hatchback_in_Puchong,_Malaysia_\(01\).jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2004_Hyundai_Getz_GL_5-door_hatchback_in_Puchong,_Malaysia_\(02\).jpg "wikilink")

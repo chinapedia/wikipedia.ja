@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[静岡FC](https://ja.wikipedia.org/wiki/静岡FC)から翻訳されています。
 
 
 **静岡FC**（しずおかエフシー）は、かつて存在した[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")を本拠地として活動していた\[1\]。なお、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[藤枝MYFC](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")の母体となったクラブである。
@@ -210,8 +210,9 @@
 ### カップ戦
 
   - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")**
-
-準優勝：2回（2003年、2006年）
+      - 準優勝：2回 (2003年、2006年）
+  - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**
+      - 3位：2回 (2002年、2003年)
 
 ## 歴代選手
 

@@ -1,4 +1,4 @@
-> この記事は[CRI](https://ja.wikipedia.org/wiki/CRI)から翻訳されています。
+> この記事は[CRI・ミドルウェア](https://ja.wikipedia.org/wiki/CRI・ミドルウェア)から翻訳されています。
 
 
 **株式会社CRI・ミドルウェア**（）は、日本の[ミドルウェア](../Page/ミドルウェア.md "wikilink")の研究開発・販売を行う企業である。社名のCRIは、この会社の母体となった株式会社CSK総合研究所（以下旧CRI）の英語表記"**C**SK **R**esearch **I**nstitute"に由来する。

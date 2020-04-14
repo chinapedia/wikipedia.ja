@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJニコス](https://ja.wikipedia.org/wiki/三菱UFJニコス)から翻訳されています。
 
 
 **三菱UFJニコス株式会社**（みつびしユーエフジェイニコス、）は、株式会社[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")（MUFG）の[子会社](../Page/子会社.md "wikilink")で、国内最大の[クレジットカード](../Page/クレジットカード.md "wikilink")会社である。MUFG内略称はNICOS。
@@ -306,7 +306,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 
 ### MUFGカード
 
-  - partner 次の豊かさへ、ご一緒に。 （[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink") 毎月第3日曜22:00 - 22:54）
+  - partner 次の豊かさへ、ご一緒に。 （[BS朝日](../Page/ビーエス朝日.md "wikilink") 毎月第3日曜22:00 - 22:54）
   - 三菱UFJニコス presents 松任谷正隆 DEAR PARTNER （[TOKYO FM](../Page/エフエム東京.md "wikilink")・[FM OSAKA](../Page/エフエム大阪.md "wikilink") 毎週日曜21:00 - 21:55）
   - [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink") 毎週月曜22:00 -22:54（[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")）DCカードから継続{{～}}2009年3月30日期末ドラマスペシャル（フジテレビマストバイ）を以って番組降板。
   - [人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")（[日本テレビ系毎週月曜](../Page/日本テレビ放送網.md "wikilink")21:00 - 21:54）

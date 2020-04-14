@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS列島情報](https://ja.wikipedia.org/wiki/BS列島情報)から翻訳されています。
 
 
 **BS列島情報**（ビーエスれっとうじょうほう）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に放送された[BS1の](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。

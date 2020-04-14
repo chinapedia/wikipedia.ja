@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJカード](https://ja.wikipedia.org/wiki/UFJカード)から翻訳されています。
 
 
 **UFJカード**（ユーエフジェイカード、*UFJ Card*）は、かつて[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社及び[UFJカードグループ](https://ja.wikipedia.org/wiki/#UFJカードグループ "wikilink")（以下「三菱UFJニコス等」）が発行していた[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。

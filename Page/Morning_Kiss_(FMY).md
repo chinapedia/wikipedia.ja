@@ -5,7 +5,7 @@
 
 ## 概要
 
-2001年10月1日、「2001年秋の大改編」の一つとしてスタートした朝のワイド番組。前番組『[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")』([JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")) のネットを打ち切って開始された、FM山口初の朝の自社製作ワイド番組である。
+2001年10月1日、「2001年秋の大改編」の一つとしてスタートした朝のワイド番組。前番組『[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")』([JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")) のネットを打ち切って開始された、FM山口初の朝の自社製作ワイド番組である。
 
 開始当初は月曜 - 木曜と金曜で内容が異なっており、金曜は『**[デリシャス・フライデー](../Page/デリシャス・フライデー.md "wikilink") Morning Kiss**』（2001年10月 - 2004年3月）→『**Morning Kiss Friday Edition Okky's Super Radio Show**』（フライデー・エディション・オッキーズ・スーパー・レディオショー。2004年4月 - 6月）→『**Morning Kiss Friday Edition**』（2004年7月 - 2005年3月）の番組名で放送されていたが、同年4月に月曜から木曜の内容と同一となった。
 

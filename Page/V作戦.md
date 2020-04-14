@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[V作戦](https://ja.wikipedia.org/wiki/V作戦)から翻訳されています。
 
 
 **V作戦**（ブイさくせん、**Operation V**）は、[アニメ](../Page/アニメ.md "wikilink")『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』において存在する、[架空](../Page/架空.md "wikilink")の[軍事](../Page/軍事.md "wikilink")[計画](../Page/計画.md "wikilink")。[一年戦争](../Page/一年戦争.md "wikilink")時の[地球連邦軍](../Page/地球連邦軍.md "wikilink")の作戦名。

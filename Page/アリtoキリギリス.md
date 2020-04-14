@@ -1,4 +1,4 @@
-> この記事は[to](https://ja.wikipedia.org/wiki/to)から翻訳されています。
+> この記事は[アリtoキリギリス](https://ja.wikipedia.org/wiki/アリtoキリギリス)から翻訳されています。
 
 
 **アリtoキリギリス**（**アリとキリギリス**）は、かつて[ホリプロ](../Page/ホリプロ.md "wikilink")で活動していた[お笑いコンビ](../Page/お笑いタレント.md "wikilink")。略称「**アリキリ**」。

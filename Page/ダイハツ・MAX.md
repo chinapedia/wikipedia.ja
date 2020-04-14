@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[ダイハツ・MAX](https://ja.wikipedia.org/wiki/ダイハツ・MAX)から翻訳されています。
 
 
 **MAX**（マックス）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産・販売していた5ドアボディの[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")である。

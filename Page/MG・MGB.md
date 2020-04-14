@@ -1,4 +1,4 @@
-> この記事は[MGMGB](https://ja.wikipedia.org/wiki/MGMGB)から翻訳されています。
+> この記事は[MG・MGB](https://ja.wikipedia.org/wiki/MG・MGB)から翻訳されています。
 
 
 **MGB**（エムジービー）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スポーツカー](../Page/スポーツカー.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")である「**[MG](../Page/MG_\(自動車\).md "wikilink")**」の主要車種の一つで、1962年の発表から1980年の製造終了迄に、全世界に於いてシリーズ全体で実に52万台以上も製造・販売された、2ドア・[オープンカー](../Page/オープンカー.md "wikilink")の代名詞存在である。

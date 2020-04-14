@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[中村もときのおはようRKB](https://ja.wikipedia.org/wiki/中村もときのおはようRKB)から翻訳されています。
 
 
 **中村もときのおはようRKB**（なかむらもときのおはようアールケービー）は、[RKBラジオ](../Page/RKBラジオ.md "wikilink")で放送された朝の情報生ワイド番組。

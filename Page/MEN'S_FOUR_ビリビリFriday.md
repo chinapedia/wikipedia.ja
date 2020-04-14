@@ -1,4 +1,4 @@
-> この記事は[MEN\'S FOUR Friday](https://ja.wikipedia.org/wiki/MEN\'S_FOUR_Friday)から翻訳されています。
+> この記事は[MEN\'S FOUR ビリビリFriday](https://ja.wikipedia.org/wiki/MEN\'S_FOUR_ビリビリFriday)から翻訳されています。
 
 
 『**MEN'S FOUR ビリビリFriday**』（めんずふぉー・びりびりふらいでー）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")が金曜日の11:30 - 15:55に放送していた[生放送](../Page/生放送.md "wikilink")による[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。通称「**ビリフラ**」。

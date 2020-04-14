@@ -1,4 +1,4 @@
-> この記事は[MGMGC](https://ja.wikipedia.org/wiki/MGMGC)から翻訳されています。
+> この記事は[MG・MGC](https://ja.wikipedia.org/wiki/MG・MGC)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:MG_C_Roadster_1968.JPG "wikilink") **MGC**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スポーツカー](../Page/スポーツカー.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である、[MG](../Page/MG_\(自動車\).md "wikilink") の主要車種の一つ[MGBのバリエーションのひとつ](../Page/MG・MGB.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[ネルソン・ピケJr.](https://ja.wikipedia.org/wiki/ネルソン・ピケJr.)から翻訳されています。
 
 
 **ネルソン・ピケJr.**（、 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")国籍の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")。本名はネルソン・アンジェロ・タムスマ・ピケ・ソウト・マイオール（）。ネルソン・アンジェロ・ピケ（）あるいは、ネルシーニョ・ピケ（）とも呼ばれる。（[GP2](../Page/GP2.md "wikilink")、[A1GP参戦時の登録名は](../Page/A1グランプリ.md "wikilink")「」。[F3参戦時は](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")「」。[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")参戦時の登録名は「」）

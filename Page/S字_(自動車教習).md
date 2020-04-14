@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[S字 \(自動車教習\)](https://ja.wikipedia.org/wiki/S字_\(自動車教習\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:S-curve_in_Driver's_License_Center.jpg "wikilink") **S字**（エスじ）とは[四輪自動車](https://ja.wikipedia.org/wiki/四輪自動車 "wikilink")及び免許試験に使用される[狭路](https://ja.wikipedia.org/wiki/狭路 "wikilink")の一種。

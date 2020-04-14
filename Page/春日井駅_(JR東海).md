@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[春日井駅 \(JR東海\)](https://ja.wikipedia.org/wiki/春日井駅_\(JR東海\))から翻訳されています。
 
 
 **春日井駅**（かすがいえき）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[春日井市](https://ja.wikipedia.org/wiki/春日井市 "wikilink")[上条町一丁目にある](https://ja.wikipedia.org/wiki/上条町_\(春日井市\) "wikilink")、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。JR東海の[駅番号は](https://ja.wikipedia.org/wiki/駅ナンバリング#JR東海 "wikilink")**CF07**。

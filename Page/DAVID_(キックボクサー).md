@@ -1,4 +1,4 @@
-> この記事は[DAVID \(\)](https://ja.wikipedia.org/wiki/DAVID_\(\))から翻訳されています。
+> この記事は[DAVID \(キックボクサー\)](https://ja.wikipedia.org/wiki/DAVID_\(キックボクサー\))から翻訳されています。
 
 
 **DAVID**（デイビッド、[1982年](../Page/1982年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[キックボクサー](https://ja.wikipedia.org/wiki/キックボクサー "wikilink")。本名は**デイビッド・アーチュリータ**（**David Archuleta**）。[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")[アルバカーキ](../Page/アルバカーキ.md "wikilink")出身。

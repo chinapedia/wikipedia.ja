@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[西E田](https://ja.wikipedia.org/wiki/西E田)から翻訳されています。
 
 
 **西E田**（にしだ\[1\]、[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")・[原画家](https://ja.wikipedia.org/wiki/原画#コンピュータゲーム "wikilink")。[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")在住\[3\]。

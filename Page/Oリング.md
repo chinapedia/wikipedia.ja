@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[Oリング](https://ja.wikipedia.org/wiki/Oリング)から翻訳されています。
 
 
 [O-Ringe_08050220.2.JPG](https://ja.wikipedia.org/wiki/File:O-Ringe_08050220.2.JPG "fig:O-Ringe_08050220.2.JPG") **Oリング**（オーリング、）とは、密封（[シール](../Page/シール_\(工学\).md "wikilink")）に使用される、断面が円形（[O](https://ja.wikipedia.org/wiki/O "wikilink")形）の環型をした機械部品。押しつぶして密閉することから、スクイーズタイプのシール（スクイーズパッキン）に分類される。材質には[ゴム](../Page/ゴム.md "wikilink")が使用されるのが一般的である\[1\]。装置などに気体や液体などの[流体](../Page/流体.md "wikilink")が進入することを防止したり、装置内部の流体が外に漏れないようにするために用いられる。

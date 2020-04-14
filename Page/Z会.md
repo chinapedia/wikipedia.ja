@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z会](https://ja.wikipedia.org/wiki/Z会)から翻訳されています。
 
 
 **Z会**（ゼットかい、*Z-KAI*）は、**株式会社増進会ホールディングス**（ぞうしんかいホールディングス、*Zoshinkai Holdings Inc.*）を[持株会社](../Page/持株会社.md "wikilink")とするZ会グループが提供する教育事業の名称、ならびに同社の完全子会社で事業会社である**株式会社Z会**（*Z-kai Inc.*）をさす\[1\]。
@@ -108,6 +108,7 @@
 
 ## 関連項目
 
+  - [学習塾・予備校の一覧](../Page/学習塾・予備校の一覧.md "wikilink")
   - [アチーブメントテスト](../Page/アチーブメントテスト.md "wikilink")
   - [業者テスト](https://ja.wikipedia.org/wiki/業者テスト "wikilink")
   - [即応模試](https://ja.wikipedia.org/wiki/即応模試 "wikilink")

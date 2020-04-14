@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRザ・レスキュー・ドッグ](https://ja.wikipedia.org/wiki/CRザ・レスキュー・ドッグ)から翻訳されています。
 
 
 **CRザ・レスキュー・ドッグ**は、[サミー](../Page/サミー.md "wikilink")より発売された[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

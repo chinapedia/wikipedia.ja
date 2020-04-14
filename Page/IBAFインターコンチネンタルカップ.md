@@ -1,4 +1,4 @@
-> この記事は[IBAF](https://ja.wikipedia.org/wiki/IBAF)から翻訳されています。
+> この記事は[IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/IBAFインターコンチネンタルカップ)から翻訳されています。
 
 
 **IBAFインターコンチネンタルカップ**（**Intercontinental Cup**）は、IBAF（[国際野球連盟](../Page/国際野球連盟.md "wikilink")）が主催する[野球](../Page/野球.md "wikilink")の国際公式戦の一つ。

@@ -1,4 +1,4 @@
-> この記事は[BAN!BAN!](https://ja.wikipedia.org/wiki/BAN!BAN!)から翻訳されています。
+> この記事は[郁恵・井森のお料理BAN!BAN!](https://ja.wikipedia.org/wiki/郁恵・井森のお料理BAN!BAN!)から翻訳されています。
 
 
 『**郁恵・井森のお料理BAN\!BAN\!**』（いくえ・いもりのおりょうりバン\!バン\!）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[榊原郁恵](../Page/榊原郁恵.md "wikilink")と[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")による[料理番組](../Page/料理番組.md "wikilink")である。

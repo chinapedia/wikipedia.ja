@@ -1,4 +1,4 @@
-> この記事は[GDK](https://ja.wikipedia.org/wiki/GDK)から翻訳されています。
+> この記事は[マルチセッションGDK](https://ja.wikipedia.org/wiki/マルチセッションGDK)から翻訳されています。
 
 
 [116px](https://ja.wikipedia.org/wiki/画像:Gdk_dm.jpg "wikilink") [100px](https://ja.wikipedia.org/wiki/画像:Gdk_km.jpg "wikilink") **MultiSession GDK**（**マルチセッションGDK**）は[2001年](../Page/2001年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した、『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") 5thMIX』（以下、GF）＆『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink") 4thMIX』（以下 dm）のセッションに『[KEYBOARDMANIA](../Page/KEYBOARDMANIA.md "wikilink") 3rdMIX』（以下、KM）が加入、3機種をリンクさせて同時に5人までプレイできるようにしたゲーム。「マルセス」などに略することもある。これに対して、『GF』と『dm』だけのリンクプレイを[セッションと呼ぶ](https://ja.wikipedia.org/wiki/セッション_\(ゲーム\) "wikilink")。

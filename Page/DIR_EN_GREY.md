@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「チャートでは1位を、「」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](../Page/オリコンチャート.md "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
+日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「[Top Heatseekers](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")」チャートでは1位を、「」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](../Page/オリコンチャート.md "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
 
 ### 音楽性
 
@@ -19,7 +19,7 @@
 
 ### 影響
 
-DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[Muse](../Page/ミューズ_\(バンド\).md "wikilink")、[Nine Inch Nails](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[Pantera](../Page/パンテラ.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Toolである](../Page/トゥール_\(バンド\).md "wikilink")\[4\]。
+DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[Muse](../Page/ミューズ_\(バンド\).md "wikilink")、[Nine Inch Nails](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[Pantera](../Page/パンテラ.md "wikilink")、[Radiohead](../Page/レディオヘッド.md "wikilink")、[Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Toolである](../Page/トゥール_\(バンド\).md "wikilink")\[4\]。
 
 京は中学校１年生の時にクラスメイトが[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の切り抜きを持っているのを見たことがきっかけで音楽に興味を持ったと語っている\[5\]。他に影響を受けたアーティストとしては[X JAPAN](../Page/X_JAPAN.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をあげている\[6\]。Dieは中学時代に[JUN SKY WALKER(S)と](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[ブルーハーツ](https://ja.wikipedia.org/wiki/ブルーハーツ "wikilink")を見たことでバンドに興味を持ち、その後高校時代に見た[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドに衝撃を受けてバンドを始めたという\[7\]。薫は中学生の時に[DEAD ENDや](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")をよく聴いており、[X JAPANの](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』にも衝撃を受ける\[8\]。その後、高校では[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")や[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")のコピーをしていたという\[9\]。Toshiyaは[徳永英明](../Page/徳永英明.md "wikilink")がきっかけで音楽に興味を持ったと述べる\[10\]。中学生の時にX JAPANの「[紅](../Page/紅_\(Xの曲\).md "wikilink")」と「[WEEK END](../Page/WEEK_END.md "wikilink")」を聴いてうるさいだけで嫌いだと思っていたが、その後「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」を聴いて見直したという\[11\]。また、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")を聴いたことがきっかけでギターを始めようと思ったが、弾けないという消極的な理由で高校時代にベースに転向し、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドを始める\[12\]。しかし、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")はベースが難しくて挫折したとも述べている\[13\]。ShinyaはTVで[X JAPANを見て](../Page/X_JAPAN.md "wikilink")、中学１年生の時にバンドを始めることにしたという\[14\]。
 
@@ -3090,16 +3090,22 @@ TOUR2013 TABULA RASA -揚羽ノ羽ノ夢ハ蛹-</p></td>
 <p>10会場全7公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>3月27日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-<br />
-3月28日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-<br />
-4月1日 仙台GIGS<br />
-4月4日 カナモトホール（札幌市民ホール）<br />
-4月9日 なんばHatch<br />
-4月10日 なんばHatch<br />
+<p><s>3月27日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</s><br />
+<s>3月28日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</s><br />
+<s>4月1日 仙台GIGS</s><br />
+<s>4月4日 カナモトホール（札幌市民ホール）</s><br />
+<s>4月9日 なんばHatch</s><br />
+<s>4月10日 なんばHatch</s><br />
 4月16日 Zepp Nagoya<br />
 4月18日 静岡市民文化会館 中ホール<br />
 4月22日 新木場STUDIO COAST<br />
-月423日 新木場STUDIO COAST</p></td>
+4月23日 新木場STUDIO COAST<br />
+5月6日 カナモトホール（札幌市民ホール）<br />
+5月8日 仙台GIGS<br />
+5月11日 なんばHatch<br />
+5月12日 なんばHatch<br />
+5月14日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-<br />
+5月15日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</p></td>
 <td></td>
 </tr>
 <tr class="odd">

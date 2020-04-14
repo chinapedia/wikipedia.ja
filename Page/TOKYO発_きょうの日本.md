@@ -1,4 +1,4 @@
-> この記事は[TOKYO ](https://ja.wikipedia.org/wiki/TOKYO_)から翻訳されています。
+> この記事は[TOKYO発 きょうの日本](https://ja.wikipedia.org/wiki/TOKYO発_きょうの日本)から翻訳されています。
 
 
 **TOKYO発 きょうの日本**（とうきょうはつ きょうのにっぽん）は、かつて[NHKの国際放送](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")が制作していた日本語の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は[日本時間](https://ja.wikipedia.org/wiki/日本時間 "wikilink")平日の18:00 - 18:40。

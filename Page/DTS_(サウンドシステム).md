@@ -1,4 +1,4 @@
-> この記事は[DTS \(\)](https://ja.wikipedia.org/wiki/DTS_\(\))から翻訳されています。
+> この記事は[DTS \(サウンドシステム\)](https://ja.wikipedia.org/wiki/DTS_\(サウンドシステム\))から翻訳されています。
 
 
 [DTS_small_logo.svg](https://ja.wikipedia.org/wiki/File:DTS_small_logo.svg "fig:DTS_small_logo.svg")

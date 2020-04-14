@@ -1,4 +1,4 @@
-> この記事は[GPZ400R](https://ja.wikipedia.org/wiki/GPZ400R)から翻訳されています。
+> この記事は[カワサキ・GPZ400R](https://ja.wikipedia.org/wiki/カワサキ・GPZ400R)から翻訳されています。
 
 
 '''カワサキ・GPZ400R '''（ジーピーゼットよんひゃくアール）は、[川崎重工業](../Page/川崎重工業.md "wikilink")が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に 発売した[ロードスポーツタイプの](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

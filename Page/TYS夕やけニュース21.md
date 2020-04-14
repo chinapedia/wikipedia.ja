@@ -1,4 +1,4 @@
-> この記事は[TYS21](https://ja.wikipedia.org/wiki/TYS21)から翻訳されています。
+> この記事は[TYS夕やけニュース21](https://ja.wikipedia.org/wiki/TYS夕やけニュース21)から翻訳されています。
 
 
 『**TYS夕やけニュース21**』（ティーワイエス ゆうやけニュースにじゅういち）は、[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[テレビ山口](../Page/テレビ山口.md "wikilink")で放送された[山口県](../Page/山口県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

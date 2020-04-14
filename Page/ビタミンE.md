@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ビタミンE](https://ja.wikipedia.org/wiki/ビタミンE)から翻訳されています。
 
 
 **ビタミンE**（vitamin E）は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の1種である。**トコフェロール**（tocopherol）とも呼ばれ、特に<small>D</small>-α-トコフェロールは自然界に広く普遍的に存在し、[植物](../Page/植物.md "wikilink")、[藻類](../Page/藻類.md "wikilink")、藍藻などの[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")生物により合成される。[医薬品](../Page/医薬品.md "wikilink")、[食品](../Page/食品.md "wikilink")、[飼料](../Page/飼料.md "wikilink")などに[疾病](https://ja.wikipedia.org/wiki/疾病 "wikilink")の治療、[栄養](../Page/栄養.md "wikilink")の補給、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")の[酸化防止剤](../Page/酸化防止剤.md "wikilink")として広く利用されている。
@@ -29,7 +29,7 @@
 
 ビタミンEは、フリーラジカルを消失させることにより自らがビタミンEラジカルとなり、フリーラジカルによる脂質の連鎖的酸化を阻止する。発生したビタミンEラジカルは、[ビタミンC](../Page/ビタミンC.md "wikilink")などの[抗酸化物質](https://ja.wikipedia.org/wiki/抗酸化物質 "wikilink")によりビタミンEに再生される
 
-フリーラジカルは[DNAや](../Page/デオキシリボ核酸.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")を攻撃することで[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")の原因ともなりうるし、また、[脂質過酸化反応](https://ja.wikipedia.org/wiki/脂質過酸化反応 "wikilink")により[脂質](../Page/脂質.md "wikilink")を連鎖的に[酸化](../Page/酸化.md "wikilink")させるとされている\[1\]。
+フリーラジカルは[DNAや](../Page/デオキシリボ核酸.md "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")を攻撃することで[ガンの原因ともなりうるし](../Page/悪性腫瘍.md "wikilink")、また、[脂質過酸化反応](https://ja.wikipedia.org/wiki/脂質過酸化反応 "wikilink")により[脂質](../Page/脂質.md "wikilink")を連鎖的に[酸化](../Page/酸化.md "wikilink")させるとされている\[1\]。
 
 ## 摂取基準
 

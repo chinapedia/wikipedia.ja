@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[マルコム・X](https://ja.wikipedia.org/wiki/マルコム・X)から翻訳されています。
 
 
 **マルコム・X**（Malcolm X, [1925年](../Page/1925年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")）は、[アメリカの黒人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")[活動家](https://ja.wikipedia.org/wiki/活動家 "wikilink")。[ネーション・オブ・イスラム](../Page/ネーション・オブ・イスラム.md "wikilink") (NOI) のスポークスマン、[ムスリム・モスク・インク](https://ja.wikipedia.org/wiki/ムスリム・モスク・インク "wikilink") ([Muslim Mosque, Inc.](https://ja.wikipedia.org/wiki/:en:Muslim_Mosque,_Inc. "wikilink")) および[アフリカ系アメリカ人統一機構](https://ja.wikipedia.org/wiki/アフリカ系アメリカ人統一機構 "wikilink") ([Organization of Afro-American Unity](https://ja.wikipedia.org/wiki/:en:Organization_of_Afro-American_Unity "wikilink")) の創立者でもある。出生名は**マルコム・リトル** (Malcolm Little)。

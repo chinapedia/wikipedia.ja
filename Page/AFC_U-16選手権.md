@@ -1,4 +1,4 @@
-> この記事は[AFC U-16](https://ja.wikipedia.org/wiki/AFC_U-16)から翻訳されています。
+> この記事は[AFC U-16選手権](https://ja.wikipedia.org/wiki/AFC_U-16選手権)から翻訳されています。
 
 
 **AFC U-16選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、16歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による大陸選手権大会である。2年に1度、偶数年に行われている。翌年に行われる[FIFA U-17ワールドカップのアジア予選を兼ねており](../Page/FIFA_U-17ワールドカップ.md "wikilink")、上位数チームが同大会への出場権を得る。

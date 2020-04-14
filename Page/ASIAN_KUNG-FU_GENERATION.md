@@ -57,7 +57,7 @@
   - 卒業後は一時期[業務用](../Page/業務用.md "wikilink")[冷蔵庫](https://ja.wikipedia.org/wiki/冷蔵庫 "wikilink")の修理・営業の仕事をしていた。仕事に注力し過ぎたせいでバンド方面に手が回せなくなり、後藤からは「辞めちゃうかもなぁ、でもこいつが居なくなったらバンド続けられないからどうしよう」と思われていたという。
   - [阪神タイガース](../Page/阪神タイガース.md "wikilink")のファンである。
   - 「エンジェルボイス」や「[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[草野さんみたい](../Page/草野マサムネ.md "wikilink")」と称される音程の高い歌声を持つが、後藤曰く「最近は飲酒・喫煙・加齢のせいでドブ声化しつつある」。\[9\]
-  - 好きなアーティストは[Manic Street Preachers](https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ "wikilink")、[Supergrass](../Page/スーパーグラス.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[The Libertines](../Page/ザ・リバティーンズ.md "wikilink")、[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[XTC](../Page/XTC_\(バンド\).md "wikilink")、[The Cribs](../Page/ザ・クリブス.md "wikilink")、[Ash](../Page/アッシュ_\(バンド\).md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")など。
+  - 好きなアーティストは[Manic Street Preachers](https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ "wikilink")、[Supergrass](../Page/スーパーグラス.md "wikilink")、[Radiohead](../Page/レディオヘッド.md "wikilink")、[The Libertines](../Page/ザ・リバティーンズ.md "wikilink")、[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[XTC](../Page/XTC_\(バンド\).md "wikilink")、[The Cribs](../Page/ザ・クリブス.md "wikilink")、[Ash](../Page/アッシュ_\(バンド\).md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")など。
   - 『[ブルートレイン](../Page/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")』から作曲も手掛けるようになった。『[嘘とワンダーランド](../Page/ワールドアパート.md "wikilink")』では、作曲を1人で手掛けたことをきっかけにメインボーカルを務めた。
   - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")のデビュー20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[アダムとイヴの林檎](https://ja.wikipedia.org/wiki/アダムとイヴの林檎 "wikilink")』の1曲目「[正しい街](https://ja.wikipedia.org/wiki/無罪モラトリアム#収録曲 "wikilink")」に[亀田誠治](../Page/亀田誠治.md "wikilink")プロデュースによるスペシャルバンド「theウラシマ’S」のギタリストとして参加。他のメンバーはボーカル&[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")に草野マサムネ（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）、[ドラムスに](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[ベースに是永亮祐](../Page/ベース_\(弦楽器\).md "wikilink")（[雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink")）\[10\]。
 
@@ -644,11 +644,11 @@ The start of a new season</strong></p></td>
 <div class="NavContent" style="text-align:left;">
 <dl>
 <dt></dt>
-<dd>2006年11月11日 幕張メッセ展示場ホール
+<dd>2006年11月11日 幕張メッセ国際展示場ホール9〜11
 </dd>
-<dd>11月12日 幕張メッセ展示場ホール
+<dd>11月12日 幕張メッセ国際展示場ホール9〜11
 </dd>
-<dd>11月19日 名古屋レインボーホール
+<dd>11月19日 名古屋日本ガイシホール
 </dd>
 <dd>11月25日 マリンメッセ福岡
 </dd>
@@ -656,7 +656,7 @@ The start of a new season</strong></p></td>
 </dd>
 <dd>12月10日 横浜アリーナ
 </dd>
-<dd>12月15日 北海道立総合体育センター
+<dd>12月15日 北海きたえーる
 </dd>
 <dd>2007年1月10日 大阪城ホール
 </dd>
@@ -1865,7 +1865,7 @@ TYCT-60109</p></td>
 | [中西尚人](https://ja.wikipedia.org/wiki/中西尚人 "wikilink") / planner 松村祐治                                                                                                    | 「[藤沢ルーザー](https://www.youtube.com/watch?v=XuiDe2ui3HI)」                                                                                                                                                   |
 | [nom](https://ja.wikipedia.org/wiki/nom "wikilink")                                                                                                                     | 「羅針盤 (LIVE at 武道館 2004)」                                                                                                                                                                                  |
 | [番場秀一](../Page/番場秀一.md "wikilink")                                                                                                                                      | 「[バイシクルレース](https://www.youtube.com/watch?v=BjvkHIrJev0)」                                                                                                                                                 |
-| [フカツマサカズ](https://ja.wikipedia.org/wiki/フカツマサカズ "wikilink")                                                                                                             | 「夜を越えて」                                                                                                                                                                                                   |
+| [フカツマサカズ](../Page/フカツマサカズ.md "wikilink")                                                                                                                                | 「夜を越えて」                                                                                                                                                                                                   |
 | [深津昌和](https://ja.wikipedia.org/wiki/深津昌和 "wikilink") & [POU](https://ja.wikipedia.org/wiki/POU "wikilink")                                                             | 「絵画教室」                                                                                                                                                                                                    |
 | [松川信之](https://ja.wikipedia.org/wiki/松川信之 "wikilink") /planner[正親篤](https://ja.wikipedia.org/wiki/正親篤 "wikilink") & [岩下智](https://ja.wikipedia.org/wiki/岩下智 "wikilink") | 「ワールドアパート」                                                                                                                                                                                                |
 | [マンジョット・ベディ](https://ja.wikipedia.org/wiki/マンジョット・ベディ "wikilink")                                                                                                       | 「夜のコール」                                                                                                                                                                                                   |

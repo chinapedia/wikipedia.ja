@@ -1,4 +1,4 @@
-> この記事は[IFeliCa](https://ja.wikipedia.org/wiki/IFeliCa)から翻訳されています。
+> この記事は[IモードFeliCa](https://ja.wikipedia.org/wiki/IモードFeliCa)から翻訳されています。
 
 
 **iモードFeliCa**（アイモードフェリカ）とは、非接触型[ICチップである](../Page/ICカード.md "wikilink")「[FeliCa](../Page/FeliCa.md "wikilink")」チップを内蔵した[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")に関する技術の名称である。

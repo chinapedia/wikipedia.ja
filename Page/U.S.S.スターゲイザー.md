@@ -1,4 +1,4 @@
-> この記事は[U.S.S.](https://ja.wikipedia.org/wiki/U.S.S.)から翻訳されています。
+> この記事は[U.S.S.スターゲイザー](https://ja.wikipedia.org/wiki/U.S.S.スターゲイザー)から翻訳されています。
 
 
 **U.S.S.スターゲイザー**（**U.S.S.Stargazer**）は『[新スタートレック](../Page/新スタートレック.md "wikilink")』に登場する架空の宇宙船。

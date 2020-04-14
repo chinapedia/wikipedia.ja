@@ -1,4 +1,4 @@
-> この記事は[ BOY\'S LOVE SCRAMBLE!](https://ja.wikipedia.org/wiki/_BOY\'S_LOVE_SCRAMBLE!)から翻訳されています。
+> この記事は[学園ヘヴン BOY\'S LOVE SCRAMBLE!](https://ja.wikipedia.org/wiki/学園ヘヴン_BOY\'S_LOVE_SCRAMBLE!)から翻訳されています。
 
 
 『**学園ヘヴン BOY'S LOVE SCRAMBLE\!**』（がくえんヘヴンボーイズラブスクランブル）は、[2002年](../Page/2002年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に[Sprayより発売された](https://ja.wikipedia.org/wiki/Spray_\(ゲームブランド\) "wikilink")[BL系](../Page/ボーイズラブ.md "wikilink")[18禁アドベンチャーゲーム](../Page/アダルトゲーム.md "wikilink")（キャラクターボイスなし）。

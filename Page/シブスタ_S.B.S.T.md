@@ -1,4 +1,4 @@
-> この記事は[ S.B.S.T](https://ja.wikipedia.org/wiki/_S.B.S.T)から翻訳されています。
+> この記事は[シブスタ S.B.S.T](https://ja.wikipedia.org/wiki/シブスタ_S.B.S.T)から翻訳されています。
 
 
 『**シブスタ**』は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で[2004年](../Page/2004年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送していた若者向け[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は、[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の17:25 - 17:55。司会進行は各曜日レギュラーで、若手芸人と[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")が司会を務めた。
@@ -98,6 +98,6 @@
 
 ## 外部リンク
 
-  - [シブスタ S.B.S.T](http://www.tv-tokyo.co.jp/sbst/)
+  - [シブスタ S.B.S.T](https://www.tv-tokyo.co.jp/sbst/)
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のローカル番組 "wikilink") [Category:東阪企画製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:東阪企画製作のテレビ作品 "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:おぎやはぎ](https://ja.wikipedia.org/wiki/Category:おぎやはぎ "wikilink")

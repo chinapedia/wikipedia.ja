@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ストリートファイターIII](https://ja.wikipedia.org/wiki/ストリートファイターIII)から翻訳されています。
 
 
 『**ストリートファイターIII**』（ストリートファイタースリー、**STREET FIGHTER III**）は、[カプコン](../Page/カプコン.md "wikilink")が開発・販売した2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として第1作『**ストリートファイターIII -NEW GENERATION-**』が稼働。後に続編が2本製作された。通称『**ストIII**』（ストスリー）。本項では第2作『**ストリートファイターIII 2nd IMPACT -GIANT ATTACK-**』、第3作『**ストリートファイターIII 3rd STRIKE -Fight for the Future-**』についても記述する。
@@ -96,7 +96,7 @@
   - ストリートファイターIII 3rd STRIKE ONLINE EDITION
     （[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、Xbox 360用。2011年8月23日〈PS3〉、2011年8月24日〈Xbox 360〉）
     [HDリマスター](https://ja.wikipedia.org/wiki/HDリマスター "wikilink")版。[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")のみ。グラフィックを[HD画質に対応](https://ja.wikipedia.org/wiki/高精細度 "wikilink")。[PlayStation Networkや](https://ja.wikipedia.org/wiki/PlayStation_Network "wikilink")[Xbox Live Arcadeを通したオンライン対戦は](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[GGPO](https://ja.wikipedia.org/wiki/GGPO "wikilink")システムが導入された。バージョンは旧基板タイプに準拠。勝利時やエンディングのテキストは英語のみ。リプレイ動画を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にアップロードすることが可能。また、[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")として新規カラーパックやステージBGMを『1st』『2nd』のものに変更できるBGMパックも別途販売されている。開発元は[Iron Galaxy](https://ja.wikipedia.org/wiki/Iron_Galaxy "wikilink")。現在YouTubeアップロード機能は終了\[9\]。
-  - ストリートファイター30th アニバーサリーコレクションインターナショナル
+  -
     （[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[Steam](../Page/Steam.md "wikilink")用。[2018年](../Page/2018年.md "wikilink")10月25日発売\[10\]）
     『II』シリーズ、『ZERO』シリーズを含めた全12タイトルを収録したオムニバスゲーム。その中に『III』シリーズ全作（『1st』-『3rd』）の日本語版と日本国外版も収録される。『3rd』の「日本国外版」のみオンライン対応。ドリームキャスト版以外で『1st』『2nd』の移植作が収録されるのは今回初となる。『2nd』の通常の豪鬼は初期状態で解放されており使用コマンドは必要ない。ただし、AC版の移植であるため、CPU専用キャラクターであるギルと真・豪鬼（『2nd』）は使用不可。
 
@@ -285,7 +285,7 @@
     この作品から初めて「滅殺豪螺旋（滅殺豪旋風）」が登場。全てのSA共通で、ゲージMAX時に[瞬獄殺](https://ja.wikipedia.org/wiki/瞬獄殺 "wikilink")（コマンドは弱パンチ\[14\]弱パンチ→弱キック強パンチ）、金剛國裂斬（↓↓↓＋パンチ同時押し、『3rd』のみ）が出せるが、ギル同様にEX必殺技が存在しない。技性能は全キャラクターでも最高クラスの性能を持つが、体力が低くスタンしやすい。『2nd』では通常選択できず、隠しコマンドを入力するかオペレーターコマンドで解禁すると使用できる。また通常のボスキャラクターを倒して乱入することもある。瞬獄殺のKO演出については、『2nd』は京都の[五山送り火](https://ja.wikipedia.org/wiki/五山送り火 "wikilink")のように「天」の文字が燃えるが、『3rd』では「天」の白色文字を背景に豪鬼の背中に炎が燃える演出に変更され、簡素になった。
   - [真・豪鬼](https://ja.wikipedia.org/wiki/豪鬼#真・豪鬼 "wikilink")
     声：西村知道
-    CPU専用キャラクターとして『2nd』にのみ登場。豪鬼を倒した後、条件を満たしていれば真・豪鬼として登場する。ドリームキャスト版『W IMPACT』ではプレイアブルキャラクターとして使用できる。『3rd』の豪鬼の7色目のカラーが真・豪鬼の色を再現したものになっている。なお『3rd』には登場しないもののROM内にデータ自体は存在している。
+    CPU専用キャラクターとして『2nd』にのみ登場。豪鬼を倒した後、条件を満たしていれば真・豪鬼として登場する。ドリームキャスト版『W IMPACT』ではプレイアブルキャラクターとして使用できる。『3rd』の豪鬼の2色目および7色目のカラーが真・豪鬼の色を再現したものになっている。なお『3rd』には登場しないもののROM内にデータ自体は存在している。
 
 ### 『3rd』のキャラクター
 

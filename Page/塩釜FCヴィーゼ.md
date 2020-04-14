@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[塩釜FCヴィーゼ](https://ja.wikipedia.org/wiki/塩釜FCヴィーゼ)から翻訳されています。
 
 
 **塩釜FCヴィーゼ**（しおがま・エフシー・ヴィーゼ、*Shiogama F.C. Wiese*）は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[塩竈市](../Page/塩竈市.md "wikilink")を本拠地とする社会人サッカーのクラブチーム。
@@ -286,7 +286,7 @@
 
 ## 関連項目
 
-  - [MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink") - 佐川急便京都サッカー部を母体とする、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")所属のサッカークラブ。
+  - [MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink") - 佐川急便京都サッカー部を母体とする、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")所属のサッカークラブ。
 
 ## 外部リンク
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKホール](https://ja.wikipedia.org/wiki/NHKホール)から翻訳されています。
 
 
 **NHKホール**（エヌエイチケイホール、[英語](../Page/英語.md "wikilink")：*NHK Hall*）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に位置する[多目的ホール](../Page/多目的ホール.md "wikilink")。建築設計は[日建設計](../Page/日建設計.md "wikilink")である。[1972年](../Page/1972年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")47年）[11月](../Page/11月.md "wikilink")に完成し、[1973年](../Page/1973年.md "wikilink")（昭和48年）[6月20日](../Page/6月20日.md "wikilink")に運用開始（テレビの公開録画では、それ以前からすでに使用開始）した。現在のものは2代目で、初代NHKホールは[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")内に存在していた。[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連法人である[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")が運営を行っている。

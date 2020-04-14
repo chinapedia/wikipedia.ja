@@ -1,4 +1,4 @@
-> この記事は[MGMGA](https://ja.wikipedia.org/wiki/MGMGA)から翻訳されています。
+> この記事は[MG・MGA](https://ja.wikipedia.org/wiki/MG・MGA)から翻訳されています。
 
 
 **MGA**（エムジーエー）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スポーツカー](../Page/スポーツカー.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である、[MGの主要車種の一つ](../Page/MG_\(自動車\).md "wikilink")。2座席[オープンカー](../Page/オープンカー.md "wikilink")を中心として、イギリス国内向け販売だけでなく、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を始めとして多数輸出された。

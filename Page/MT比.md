@@ -1,4 +1,4 @@
-> この記事は[MT](https://ja.wikipedia.org/wiki/MT)から翻訳されています。
+> この記事は[MT比](https://ja.wikipedia.org/wiki/MT比)から翻訳されています。
 
 
 **MT比**（MTひ）は、[動力分散方式](../Page/動力分散方式.md "wikilink")の鉄道車両において[動力車](../Page/動力車.md "wikilink")（motor）と[付随車](../Page/付随車.md "wikilink")（trailer）の構成比を示したものである。MT比は運転士が乗務時に携帯する運転時刻表の「牽引定数」欄に記載されることが多い。

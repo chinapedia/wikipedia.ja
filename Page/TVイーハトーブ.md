@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVイーハトーブ](https://ja.wikipedia.org/wiki/TVイーハトーブ)から翻訳されています。
 
 
 **TVイーハトーブ**は、以下に挙げる2番組のタイトルの一部である。

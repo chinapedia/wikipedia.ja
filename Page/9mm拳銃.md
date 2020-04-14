@@ -1,11 +1,11 @@
-> この記事は[9mm](https://ja.wikipedia.org/wiki/9mm)から翻訳されています。
+> この記事は[9mm拳銃](https://ja.wikipedia.org/wiki/9mm拳銃)から翻訳されています。
 
 
 **9mm拳銃**（9ミリけんじゅう）は、[1982年](../Page/1982年.md "wikilink")に[自衛隊](../Page/自衛隊.md "wikilink")が制式採用した[自動式拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。海外では**Minebea P9**\[1\]とも呼ばれる。
 
 ## 概要
 
-自衛隊創設期より[アメリカ軍](../Page/アメリカ軍.md "wikilink")から供与・貸与されていた[11.4mm拳銃の後継として](../Page/M1911.md "wikilink")、[1982年](../Page/1982年.md "wikilink")に採用された自動式拳銃である。[スイス](../Page/スイス.md "wikilink")の[SIG社および当時傘下だった](../Page/シグ.md "wikilink")[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")社が開発した[SIG SAUER P220を](../Page/SIG_SAUER_P220.md "wikilink")、新中央工業（現[ミネベアミツミ](../Page/ミネベアミツミ.md "wikilink")）が[ライセンス生産](../Page/ライセンス生産.md "wikilink")し、調達されている。
+自衛隊創設期から、[アメリカ軍](../Page/アメリカ軍.md "wikilink")から供与・貸与されていた[11.4mm拳銃の後継として](../Page/M1911.md "wikilink")、[1982年](../Page/1982年.md "wikilink")に採用された自動式拳銃である。[スイス](../Page/スイス.md "wikilink")の[SIG社および当時傘下だった](../Page/シグ.md "wikilink")[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")社が開発した[SIG SAUER P220を](../Page/SIG_SAUER_P220.md "wikilink")、新中央工業（現[ミネベアミツミ](../Page/ミネベアミツミ.md "wikilink")）が[ライセンス生産](../Page/ライセンス生産.md "wikilink")し、調達されている。
 
 生産は[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")を多用し、一丁あたりの価格は約10万円\[2\]。 [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")向けの調達が再開された平成22年度予算では一丁あたり約20万円となっており\[3\]、平成24年度予算では一丁あたり約22万円となっている。
 
@@ -14,7 +14,7 @@
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JGSDF_M1911_Colt_Government_20100418.JPG "wikilink")
 
   - 前史
-    [自衛隊](../Page/自衛隊.md "wikilink")は当初、[アメリカ軍](../Page/アメリカ軍.md "wikilink")より供与された[M1911](../Page/M1911.md "wikilink")を「11.4mm拳銃」として採用していた\[4\]。しかし、11.4mm拳銃は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")には大きく不向きであり、使用する[.45ACP弾](../Page/.45ACP弾.md "wikilink")の反動も大きすぎる\[5\]として、[防衛庁は](../Page/防衛省.md "wikilink")[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前より国産[拳銃](../Page/拳銃.md "wikilink")の開発を行ってきた新中央工業に、新型拳銃の開発を依頼した\[6\]。そして、[1958年](../Page/1958年.md "wikilink")に完成したのが[ニューナンブM57](https://ja.wikipedia.org/wiki/ニューナンブM57 "wikilink")Aであった\[7\]。
+    [自衛隊](../Page/自衛隊.md "wikilink")は当初、[アメリカ軍](../Page/アメリカ軍.md "wikilink")から供与された[M1911](../Page/M1911.md "wikilink")を「11.4mm拳銃」として採用していた\[4\]。しかし、11.4mm拳銃は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")には大きく不向きであり、使用する[.45ACP弾](../Page/.45ACP弾.md "wikilink")の反動も大きすぎる\[5\]として、[防衛庁は](../Page/防衛省.md "wikilink")[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前から国産[拳銃](../Page/拳銃.md "wikilink")の開発を行ってきた新中央工業に、新型拳銃の開発を依頼した\[6\]。そして、[1958年](../Page/1958年.md "wikilink")に完成したのが[ニューナンブM57](https://ja.wikipedia.org/wiki/ニューナンブM57 "wikilink")Aであった\[7\]。
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
     {{-}}
   - 新型拳銃の採用
     [1980年代](../Page/1980年代.md "wikilink")に入り、アメリカ軍は長く運用してきたM1911に代わり、新たに新型拳銃を採用する計画を発表した\[9\]\[10\]。これを受け、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")でも新型拳銃を採用することが決定した\[11\]。そのトライアルには新中央工業のM57A1、[西ドイツ](../Page/西ドイツ.md "wikilink")（当時）の[SIG SAUER P220](../Page/SIG_SAUER_P220.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[FN ブローニング・ハイパワーなどが参加し](../Page/FN_ブローニング・ハイパワー.md "wikilink")、[1979年](../Page/1979年.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")までテストが行われた\[12\]。
-    その結果、P220の採用が決定して[1982年](../Page/1982年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に部隊使用の承認を受け、[1982年](../Page/1982年.md "wikilink")より部隊配備を開始した\[13\]。
+    その結果、P220の採用が決定して[1982年](../Page/1982年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に部隊使用の承認を受け、[1982年](../Page/1982年.md "wikilink")から部隊配備を開始した\[13\]。
 
 ## 特徴
 
@@ -86,7 +86,7 @@
 
 ## 後継
 
-2019年（令和元年）12月6日、防衛省より陸上自衛隊の後継拳銃を「[HK SFP9](../Page/H&K_VP9.md "wikilink")（[HECKLER\&KOCH製](../Page/ヘッケラー&コッホ.md "wikilink")）」としたことが発表された\[23\]。
+2019年（令和元年）12月6日、防衛省から陸上自衛隊の後継拳銃を「[HK SFP9](../Page/H&K_VP9.md "wikilink")（[HECKLER\&KOCH製](../Page/ヘッケラー&コッホ.md "wikilink")）」としたことが発表された\[23\]。
 
 ## 登場作品
 

@@ -1,4 +1,4 @@
-> この記事は[PHS](https://ja.wikipedia.org/wiki/PHS)から翻訳されています。
+> この記事は[ドコモPHS](https://ja.wikipedia.org/wiki/ドコモPHS)から翻訳されています。
 
 
 **ドコモPHS**（どこもぴーえいちえす）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")グループ（*以下、単に「ドコモ」と表記する*）がかつて日本国内で行っていた[PHS](../Page/PHS.md "wikilink")事業を行う一部門・サービス、及びそれらの通称である。

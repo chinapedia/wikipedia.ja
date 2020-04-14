@@ -1,4 +1,4 @@
-> この記事は[MR](https://ja.wikipedia.org/wiki/MR)から翻訳されています。
+> この記事は[スズキ・MRワゴン](https://ja.wikipedia.org/wiki/スズキ・MRワゴン)から翻訳されています。
 
 
 **MRワゴン**（エムアールワゴン、*MR wagon*）は、[スズキで生産されていた](../Page/スズキ_\(企業\).md "wikilink")[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。[日産自動車](../Page/日産自動車.md "wikilink")には[2002年](../Page/2002年.md "wikilink")より[モコとして](../Page/日産・モコ.md "wikilink")[OEM](../Page/OEM.md "wikilink")供給されていた。

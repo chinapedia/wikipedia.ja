@@ -1,4 +1,4 @@
-> この記事は[NHK1](https://ja.wikipedia.org/wiki/NHK1)から翻訳されています。
+> この記事は[NHKラジオ第1番組一覧](https://ja.wikipedia.org/wiki/NHKラジオ第1番組一覧)から翻訳されています。
 
 
 **NHKラジオ第1放送番組一覧**はNHK[ラジオ第1で放送されている](../Page/NHKラジオ第1放送.md "wikilink")、もしくは過去に放送された番組の一覧である。
@@ -25,7 +25,7 @@
   - [ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")◇（12:30 - 15:55）※高校野球・国会中継等がある場合、番組は休止。または一部コーナーが休止・短縮される。
       - [安心ラジオ](https://ja.wikipedia.org/wiki/安心ラジオ "wikilink")◇（月曜 - 土曜 12:55 - 13:00、土曜 19:45 - 19:50）
       - [列島リレーニュース](https://ja.wikipedia.org/wiki/列島リレーニュース_#ラジオ放送 "wikilink")（13:30に放送 ※祝日は休止）◇
-  - [NHK FM制作番組](https://ja.wikipedia.org/wiki/NHK_FM "wikilink")（16:05 - 16:55）◇大相撲・高校野球中継期間、国会中継放送時は休止
+  - [NHK-FM制作番組](../Page/NHK-FM放送.md "wikilink")（16:05 - 16:55）◇大相撲・高校野球中継期間、国会中継放送時は休止
       - [松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")のメロウな夜（月曜）
       - [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") 星空のラジオ（火曜）
       - [THE ALFEE 終わらない夢](https://ja.wikipedia.org/wiki/THE_ALFEE_終わらない夢 "wikilink")（水曜）

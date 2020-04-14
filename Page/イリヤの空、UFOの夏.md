@@ -1,4 +1,4 @@
-> この記事は[UFO](https://ja.wikipedia.org/wiki/UFO)から翻訳されています。
+> この記事は[イリヤの空、UFOの夏](https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏)から翻訳されています。
 
 
 『**イリヤの空、UFOの夏**』（イリヤのそら、ユーフォーのなつ）は、[電撃文庫](../Page/電撃文庫.md "wikilink")から刊行されている[秋山瑞人](../Page/秋山瑞人.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。また、これを原作とする[OVA](../Page/OVA.md "wikilink")・[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。

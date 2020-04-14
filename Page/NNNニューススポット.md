@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニューススポット](https://ja.wikipedia.org/wiki/NNNニューススポット)から翻訳されています。
 
 
 『**NNNニューススポット**』（エヌエヌエヌニューススポット）は、[1963年](../Page/1963年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）で放送されていた[スポット枠の](../Page/スポットニュース.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。タイトルロゴは1970年代から最終回まで変更されなかった。

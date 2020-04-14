@@ -17,9 +17,9 @@
 
 ## 提供中のコンテンツ
 
-2011年1月現在は以下の1タイトルのみ提供されている。[電子メール](../Page/電子メール.md "wikilink")や[チャット](../Page/チャット.md "wikilink")のサービスも提供されている。
+2020年3月時点、Windows版の1タイトルが提供されている。[電子メール](../Page/電子メール.md "wikilink")や[チャット](../Page/チャット.md "wikilink")のサービスも提供されている。
 
-  - [ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink") (PS2・Windows・Xbox360)
+  - [ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink") (Windows)
     人気シリーズの系譜に組み込まれた日本国産最大級の[MMORPG](../Page/MMORPG.md "wikilink")。
 
 ## 終了したコンテンツ
@@ -36,6 +36,8 @@
     国家間戦争を主題とした対戦アクション。スクウェア・エニックスによる運営は2006年10月30日で終了し、[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")による運営に移行し「[ファンタジーアース ゼロ](../Page/ファンタジーアース_ゼロ.md "wikilink")」と改題された。
   - [フロントミッションオンライン](https://ja.wikipedia.org/wiki/フロントミッションオンライン "wikilink") (PS2・Windows)
     オンライン[TPS](../Page/サードパーソン・シューティングゲーム.md "wikilink")。2008年5月31日サービス終了。
+  - [ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink") (PS2・Xbox360)
+    人気シリーズの系譜に組み込まれた日本国産最大級の[MMORPG](../Page/MMORPG.md "wikilink")。2016年3月31日サービス終了。
 
 ### ゲーム以外のコンテンツ
 

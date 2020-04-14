@@ -1,4 +1,4 @@
-> この記事は[BINGO](https://ja.wikipedia.org/wiki/BINGO)から翻訳されています。
+> この記事は[ザ・BINGOスター](https://ja.wikipedia.org/wiki/ザ・BINGOスター)から翻訳されています。
 
 
 『**ザ・BINGOスター**』（ザ・ビンゴスター）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[ゲーム](../Page/ゲーム.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。テレビ東京系列局では[1996年](../Page/1996年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）の1時間[生放送](../Page/生放送.md "wikilink")。

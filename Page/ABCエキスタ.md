@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCエキスタ](https://ja.wikipedia.org/wiki/ABCエキスタ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Osaka_Terminal_Building.jpg "wikilink") **ABCエキスタ**（エービーシーエキスタ）は、かつて[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（ABC、現・[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")）の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")として、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）のち[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")の高層ビルディング「[アクティ大阪](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")」内に開設されたスタジオ。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[4月25日](../Page/4月25日.md "wikilink")のアクティ大阪のオープンと同時に開設され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[4月30日](../Page/4月30日.md "wikilink")に閉鎖された。

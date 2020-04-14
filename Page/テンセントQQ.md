@@ -1,4 +1,4 @@
-> この記事は[QQ](https://ja.wikipedia.org/wiki/QQ)から翻訳されています。
+> この記事は[テンセントQQ](https://ja.wikipedia.org/wiki/テンセントQQ)から翻訳されています。
 
 
 **テンセントQQ**（テンセントキューキュー、、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")読み：タンシュンキューキュー、）は、[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") (IM) ソフトの一種。[中国の](../Page/中華人民共和国.md "wikilink")[テンセント](https://ja.wikipedia.org/wiki/テンセント "wikilink")が無償提供/運営している。一般には単にQQと略されている。

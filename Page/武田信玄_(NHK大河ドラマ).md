@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[武田信玄 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/武田信玄_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**武田信玄**』（たけだしんげん）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1988年](../Page/1988年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")に放送した第26作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全50回。

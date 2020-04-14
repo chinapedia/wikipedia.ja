@@ -1,4 +1,4 @@
-> この記事は[GO!!](https://ja.wikipedia.org/wiki/GO!!)から翻訳されています。
+> この記事は[今夜はえみぃ〜GO!!](https://ja.wikipedia.org/wiki/今夜はえみぃ〜GO!!)から翻訳されています。
 
 
 『**今夜はえみぃ〜GO\!\!**（こんやはえみぃ〜ご\!\!）』は、[上沼恵美子](../Page/上沼恵美子.md "wikilink")が[MCを務める](../Page/司会.md "wikilink")[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[木曜日](../Page/木曜日.md "wikilink")の[深夜](../Page/深夜.md "wikilink")23:55から翌0:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。上沼にとっては、初めてのレギュラー[深夜番組](../Page/深夜番組.md "wikilink")でもあった。前番組は、[よゐこ](../Page/よゐこ.md "wikilink")と[オセロ松嶋出演の](../Page/松嶋尚美.md "wikilink")『[むちのち\!](https://ja.wikipedia.org/wiki/むちのち! "wikilink")』である。

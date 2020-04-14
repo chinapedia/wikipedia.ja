@@ -1695,8 +1695,8 @@ c/w「Love or Leave」（全盤共通）<br />
 2月1日 <a href="https://ja.wikipedia.org/wiki/Zepp_Osaka_Bayside" title="wikilink">Zepp Osaka Bayside</a><br />
 2月8日 <a href="https://ja.wikipedia.org/wiki/Zepp_Fukuoka" title="wikilink">Zepp Fukuoka</a><br />
 2月16日 <a href="https://ja.wikipedia.org/wiki/Zepp_Tokyo" title="wikilink">Zepp Tokyo</a><br />
-2月28日 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a><br />
-3月14日、15日 <a href="https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL" title="wikilink">TOKYO DOME CITY HALL</a><br />
+2月28日 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a>（中止）<br />
+3月14日、15日 <a href="https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL" title="wikilink">TOKYO DOME CITY HALL</a>（中止）<br />
 </p></td>
 </tr>
 </tbody>
@@ -1862,7 +1862,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [水トク\! 「真夏のCDTVスペシャル07～世界陸上も大応援\!最強なつソング&上半期大ヒット濃縮300曲決定版\!」](https://ja.wikipedia.org/wiki/水トク!_「真夏のCDTVスペシャル07～世界陸上も大応援!最強なつソング&上半期大ヒット濃縮300曲決定版!」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [ベストヒット歌謡祭2007](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭2007 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [月刊MelodiX\!](http://www.tv-tokyo.co.jp/melodix/)([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
+  - [月刊MelodiX\!](https://www.tv-tokyo.co.jp/melodix/)([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [2007日中文化・スポーツ交流年グランドフィナーレコンサート](https://ja.wikipedia.org/wiki/2007日中文化・スポーツ交流年グランドフィナーレコンサート "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [もうすぐレコード大賞2007](https://ja.wikipedia.org/wiki/もうすぐレコード大賞2007 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [COUNT DOWN TV SP 「CDTVSP プレミアライブ2007＞＞2008」](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_SP_「CDTVSP_プレミアライブ2007＞＞2008」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))

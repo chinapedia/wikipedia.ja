@@ -1,4 +1,4 @@
-> この記事は[MVX250F](https://ja.wikipedia.org/wiki/MVX250F)から翻訳されています。
+> この記事は[ホンダ・MVX250F](https://ja.wikipedia.org/wiki/ホンダ・MVX250F)から翻訳されています。
 
 
 **MVX250F** （エムブイエックスにひゃくごじゅうエフ）は、かつて[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。

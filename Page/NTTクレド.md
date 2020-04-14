@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTクレド](https://ja.wikipedia.org/wiki/NTTクレド)から翻訳されています。
 
 
 **NTTクレド**（**エヌ・ティ・ティ　クレド**）は、以前存在した。NTTの遊休地を活用するために設立された[デベロッパー](../Page/デベロッパー_\(開発業者\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")（平成11年）4月に、他の地域会社5社と共に[NTT都市開発](../Page/NTT都市開発.md "wikilink")と合併した。

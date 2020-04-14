@@ -1,4 +1,4 @@
-> この記事は[NR](https://ja.wikipedia.org/wiki/NR)から翻訳されています。
+> この記事は[ホンダ・NR](https://ja.wikipedia.org/wiki/ホンダ・NR)から翻訳されています。
 
 
 [HONDA_NR_HCH.jpg](https://ja.wikipedia.org/wiki/File:HONDA_NR_HCH.jpg "fig:HONDA_NR_HCH.jpg")

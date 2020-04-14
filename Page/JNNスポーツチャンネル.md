@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNスポーツチャンネル](https://ja.wikipedia.org/wiki/JNNスポーツチャンネル)から翻訳されています。
 
 
 『**JNNスポーツチャンネル**』（ジェイエヌエヌ スポーツチャンネル、英称:*JNN SPORTS CHANNEL*）は、[TBS](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）にて[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月までに放送された[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。略称は「**スポチャン**」。

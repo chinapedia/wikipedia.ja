@@ -1,4 +1,4 @@
-> この記事は[2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/2_THE_BLUE_PLANET)から翻訳されています。
+> この記事は[ウルトラマンコスモス2 THE BLUE PLANET](https://ja.wikipedia.org/wiki/ウルトラマンコスモス2_THE_BLUE_PLANET)から翻訳されています。
 
 
 『**ウルトラマンコスモス2 THE BLUE PLANET**』（ウルトラマンコスモスツー ザ・ブループラネット）は、[2002年](../Page/2002年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に全国[松竹](../Page/松竹.md "wikilink")系映画館にて公開された[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")製作の[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")。

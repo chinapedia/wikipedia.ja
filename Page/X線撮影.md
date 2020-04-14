@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線撮影](https://ja.wikipedia.org/wiki/X線撮影)から翻訳されています。
 
 
 [X-ray_by_Wilhelm_Röntgen_of_Albert_von_Kölliker's_hand_-_18960123-02.jpg](https://ja.wikipedia.org/wiki/File:X-ray_by_Wilhelm_Röntgen_of_Albert_von_Kölliker's_hand_-_18960123-02.jpg "fig:X-ray_by_Wilhelm_Röntgen_of_Albert_von_Kölliker's_hand_-_18960123-02.jpg")の手のX線写真。この画像は透視によるものであるためフィルムに写した場合と白黒濃度は逆になっている。動きを見る透視画像を行うときは2008年現在もこのような白黒反転した画像を見ることはある。\]\] **X線撮影**（エックスせんさつえい）は、[エックス線を目的の物質に照射し](../Page/X線.md "wikilink")、透過したエックス線を[写真乾板](../Page/写真乾板.md "wikilink")・[写真フィルム](../Page/写真フィルム.md "wikilink")・[イメージングプレート](https://ja.wikipedia.org/wiki/イメージングプレート "wikilink")・[フラットパネルディテクター](https://ja.wikipedia.org/wiki/フラットパネルディテクター "wikilink")などの検出器で可視化することで、内部の様子を知る画像検査法の一種である。
@@ -462,6 +462,18 @@ alignmentは正常である。
 
 [空港](../Page/空港.md "wikilink")などでの手荷物検査（[飛行機](../Page/飛行機.md "wikilink")に乗る前に[バッグ](https://ja.wikipedia.org/wiki/バッグ "wikilink")や[ノートパソコン](../Page/ノートパソコン.md "wikilink")などの手荷物を機械にくぐらせる）や、[建築物](../Page/建築物.md "wikilink")や配管など構造物内部の[非破壊検査](../Page/非破壊検査.md "wikilink")の一環として[放射線透過検査](https://ja.wikipedia.org/wiki/放射線透過検査 "wikilink")に利用されている\[6\]。また、ボディチェックを行う際に、[後方散乱X線検査装置](https://ja.wikipedia.org/wiki/後方散乱X線検査装置 "wikilink")などが利用されることもある。
 
+### エックス線撮影を利用した捜査
+
+荷送人の依頼に基づき宅配便業者の運送過程下にある荷物について、捜査機関が、捜査目的を達成するため、荷送人や荷受人の承諾を得ずに、これに外部からエックス線を照射して内容物の射影を観察し、その写真等を[疎明](https://ja.wikipedia.org/wiki/疎明 "wikilink")資料として捜索差押許可状を得て、これをもとに荷受人の受け取った宅配便荷物の中及び同関係者の居室内から発見された覚せい剤等について、その証拠能力が争われた。下級裁判所が覚せい剤等を証拠として採用し被告人に有罪判決を出したので被告人が上訴した。
+
+この件で[最高裁判所第三小法廷平成21年9月28日決定](https://www.courts.go.jp/app/files/hanrei_jp/022/038022_hanrei.pdf)は、
+
+  - 「その射影によって荷物の内容物の形状や材質をうかがい知ることができる上、内容物によってはその品目等を相当程度具体的に特定することも可能であって、荷送人や荷受人の内容物に対する[プライバシー](../Page/プライバシー.md "wikilink")等を大きく侵害するものであるから、[検証としての性質を有する](https://ja.wikipedia.org/wiki/検証#刑事訴訟法における検証 "wikilink")[強制処分](../Page/強制処分.md "wikilink")に当たるものと解される。そして、本件エックス線検査については検証許可状の発付を得ることが可能だったのであって、検証許可状によることなくこれを行った本件エックス線検査は、違法であるといわざるを得ない。」
+
+本件覚せい剤等は、違法な本件エックス線検査と関連性のある証拠であるとすれば、[違法収集証拠排除法則](../Page/違法収集証拠排除法則.md "wikilink")によりその証拠能力が否定されそうであるが、
+
+  - 「しかしながら、本件エックス線検査が行われた当時、本件会社関係者に対する宅配便を利用した覚せい剤譲受け事犯の嫌疑が高まっており、更に事案を解明するためには本件エックス線検査を行う実質的必要性があったこと、警察官らは、荷物そのものを現実に[占有](../Page/占有.md "wikilink")し管理している宅配便業者の承諾を得た上で本件エックス線検査を実施し、その際、検査の対象を限定する配慮もしていたのであって、令状主義に関する諸規定を潜脱する意図があったとはいえないこと、本件覚せい剤等は、司法審査を経て発付された各捜索差押許可状に基づく捜索において発見されたものであり、その発付に当たっては、本件エックス線検査の結果以外の証拠も資料として提供されたものとうかがわれることなどの諸事情にかんがみれば、本件覚せい剤等は、本件エックス線検査と上記の関連性を有するとしても、その証拠収集過程に重大な違法があるとまではいえず、その他、これらの証拠の重要性等諸般の事情を総合すると、その証拠能力を肯定することができると解するのが相当である。」とした。
+
 ## 出典
 
 ## 参考文献
@@ -489,19 +501,8 @@ alignmentは正常である。
 
 ## 外部リンク
 
-  - [ARRS Gold miner](http://goldminer.arrs.org/global/):X線写真の画像、説明
-  - [よいこの症例](http://www.hpmix.com/home/fujichan/waka/):昭和大学医学部学生用の画像診断入門
-  - [急性腹症のCT演習問題](http://www.qqct.jp/):救急の症例集
-  - [The Internet Pathology Laboratory for Medical Education](http://www-medlib.med.utah.edu/WebPath/webpath.html):病理学と画像診断の統合理解
   - [Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html):コンピュータ上で人体を再現する計画
-
-<!-- end list -->
-
-  - [コロラド大学ヘルスサイエンスセンター監修](http://www.nihonbinary.co.jp/015VisiHumDissector.html):看護師/医学生用解剖学辞典
   - [Yxlon International GmbH](http://www.yxlon.com/Home):工業用X線装置で世界トップシェア
-  - [日本バイナリー株式会社](http://www.nihonbinary.co.jp/product-genre-01.html):各種X線画像診断装置
-  - [1](http://homepage2.nifty.com/kirislab/chap6_qr/earlyX/index.html):創世記のX線撮像技術
-  - [2](http://www.siemens.co.jp/Japanese/Aboutus/Pages/Healthcaretop.aspx):シーメンスヘルスケアセクター
 
 [Category:画像診断](https://ja.wikipedia.org/wiki/Category:画像診断 "wikilink") [Category:医療機器](https://ja.wikipedia.org/wiki/Category:医療機器 "wikilink") [Category:写真](https://ja.wikipedia.org/wiki/Category:写真 "wikilink") [Category:X線](https://ja.wikipedia.org/wiki/Category:X線 "wikilink") [Category:救急医学](https://ja.wikipedia.org/wiki/Category:救急医学 "wikilink") [Category:非破壊検査](https://ja.wikipedia.org/wiki/Category:非破壊検査 "wikilink")
 

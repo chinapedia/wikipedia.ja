@@ -1,4 +1,4 @@
-> この記事は[ZONE \(\)](https://ja.wikipedia.org/wiki/ZONE_\(\))から翻訳されています。
+> この記事は[ZONE \(テレビ番組\)](https://ja.wikipedia.org/wiki/ZONE_\(テレビ番組\))から翻訳されています。
 
 
 『**ZONE**』（ゾーン）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[1999年](../Page/1999年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで放送されていた[スポーツ](../Page/スポーツ.md "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")。放送回数は全219回。テーマを「**人間解析ドキュメント**」と称し、アスリートを毎回1名（または1組、1団体）取り上げて密着取材した。

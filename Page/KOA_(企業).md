@@ -1,4 +1,4 @@
-> この記事は[KOA \(\)](https://ja.wikipedia.org/wiki/KOA_\(\))から翻訳されています。
+> この記事は[KOA \(企業\)](https://ja.wikipedia.org/wiki/KOA_\(企業\))から翻訳されています。
 
 
 **KOA株式会社**は、[長野県](../Page/長野県.md "wikilink")[上伊那郡](../Page/上伊那郡.md "wikilink")[箕輪町](../Page/箕輪町.md "wikilink")に本社を置く[抵抗器](../Page/抵抗器.md "wikilink")を中心に扱っている[電子部品](../Page/電子部品.md "wikilink")[メーカーである](../Page/製造業.md "wikilink")。長野県で14社しかない[東証一部に上場している企業である](../Page/東京証券取引所.md "wikilink")。地球環境への調和を企業理念としており、自社の[ステークホルダー](../Page/ステークホルダー.md "wikilink")に[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")を加えている。

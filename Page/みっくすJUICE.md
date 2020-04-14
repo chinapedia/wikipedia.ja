@@ -1,4 +1,4 @@
-> この記事は[JUICE](https://ja.wikipedia.org/wiki/JUICE)から翻訳されています。
+> この記事は[みっくすJUICE](https://ja.wikipedia.org/wiki/みっくすJUICE)から翻訳されています。
 
 
 **みっくすJUICE**（みっくすジュース）は、[アイムエンタープライズ](../Page/アイムエンタープライズ.md "wikilink")所属の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")4人による[声優ユニット](../Page/声優ユニット.md "wikilink")。

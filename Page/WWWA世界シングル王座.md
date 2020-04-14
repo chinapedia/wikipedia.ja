@@ -1,4 +1,4 @@
-> この記事は[WWWA](https://ja.wikipedia.org/wiki/WWWA)から翻訳されています。
+> この記事は[WWWA世界シングル王座](https://ja.wikipedia.org/wiki/WWWA世界シングル王座)から翻訳されています。
 
 
 **WWWA世界シングル王座**（World Women's Wrestling Association World Championship）は、[WWWA](../Page/WWWA.md "wikilink")が認定し、[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")が管理していたシングルマッチのタイトルの名称。

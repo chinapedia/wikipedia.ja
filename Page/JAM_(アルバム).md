@@ -1,4 +1,4 @@
-> この記事は[JAM \(\)](https://ja.wikipedia.org/wiki/JAM_\(\))から翻訳されています。
+> この記事は[JAM \(アルバム\)](https://ja.wikipedia.org/wiki/JAM_\(アルバム\))から翻訳されています。
 
 
 『**JAM**』（ジャム）は[Ricken's](../Page/Ricken's.md "wikilink")の3rdアルバム。

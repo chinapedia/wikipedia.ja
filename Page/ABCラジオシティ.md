@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCラジオシティ](https://ja.wikipedia.org/wiki/ABCラジオシティ)から翻訳されています。
 
 
 『**ABCラジオシティ**』（エービーシーラジオシティ）は、[大阪府](../Page/大阪府.md "wikilink")の[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")\[1\]（ABCラジオ）で、[1988年](../Page/1988年.md "wikilink")10月 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")9月まで放送していた、若者向け[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

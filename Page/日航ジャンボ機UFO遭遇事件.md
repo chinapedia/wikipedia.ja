@@ -1,4 +1,4 @@
-> この記事は[UFO](https://ja.wikipedia.org/wiki/UFO)から翻訳されています。
+> この記事は[日航ジャンボ機UFO遭遇事件](https://ja.wikipedia.org/wiki/日航ジャンボ機UFO遭遇事件)から翻訳されています。
 
 
 **日航ジャンボ機UFO遭遇事件**（にっこうジャンボきユーフォーそうぐうじけん）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[日本航空の貨物便である](../Page/JALカーゴ.md "wikilink")1628便が、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アラスカ州](../Page/アラスカ州.md "wikilink")上空で[未確認飛行物体](../Page/未確認飛行物体.md "wikilink")(UFO)に遭遇した事件\[1\]。

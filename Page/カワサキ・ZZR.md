@@ -1,4 +1,4 @@
-> この記事は[ZZR](https://ja.wikipedia.org/wiki/ZZR)から翻訳されています。
+> この記事は[カワサキ・ZZR](https://ja.wikipedia.org/wiki/カワサキ・ZZR)から翻訳されています。
 
 
 [Kawasaki-zzr1400-06-1.jpg](https://ja.wikipedia.org/wiki/File:Kawasaki-zzr1400-06-1.jpg "fig:Kawasaki-zzr1400-06-1.jpg")

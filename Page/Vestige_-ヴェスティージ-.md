@@ -1,4 +1,4 @@
-> この記事は[Vestige --](https://ja.wikipedia.org/wiki/Vestige_--)から翻訳されています。
+> この記事は[Vestige -ヴェスティージ-](https://ja.wikipedia.org/wiki/Vestige_-ヴェスティージ-)から翻訳されています。
 
 
 「**vestige -ヴェスティージ-**」は、 [2005年](../Page/2005年.md "wikilink")8月17日にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の21枚目のシングル。発売元は[エピックレコード](../Page/エピックレコードジャパン.md "wikilink")。

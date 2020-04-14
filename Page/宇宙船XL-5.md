@@ -1,4 +1,4 @@
-> この記事は[XL-5](https://ja.wikipedia.org/wiki/XL-5)から翻訳されています。
+> この記事は[宇宙船XL-5](https://ja.wikipedia.org/wiki/宇宙船XL-5)から翻訳されています。
 
 
 『**宇宙船XL-5**』（原題：）は、[1962年](../Page/1962年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")によって作られた[特撮](../Page/特撮.md "wikilink")[人形劇](../Page/人形劇.md "wikilink")である。

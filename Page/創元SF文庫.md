@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[創元SF文庫](https://ja.wikipedia.org/wiki/創元SF文庫)から翻訳されています。
 
 
 **創元SF文庫**（そうげんエスエフぶんこ）は、株式会社[東京創元社](../Page/東京創元社.md "wikilink")が刊行する[文庫](../Page/文庫.md "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[叢書](../Page/叢書.md "wikilink")。これまでに600点以上の作品（主に海外SF作品）を刊行している。

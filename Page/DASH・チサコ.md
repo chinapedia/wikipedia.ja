@@ -1,4 +1,4 @@
-> この記事は[DASH](https://ja.wikipedia.org/wiki/DASH)から翻訳されています。
+> この記事は[DASH・チサコ](https://ja.wikipedia.org/wiki/DASH・チサコ)から翻訳されています。
 
 
 **DASH・チサコ**（ダッシュ・チサコ、本名：**十文字 知佐子**（じゅうもんじ ちさこ）、[1988年](../Page/1988年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。

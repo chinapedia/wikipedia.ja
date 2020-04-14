@@ -1,4 +1,4 @@
-> この記事は[LionPower](https://ja.wikipedia.org/wiki/LionPower)から翻訳されています。
+> この記事は[LionPower小松](https://ja.wikipedia.org/wiki/LionPower小松)から翻訳されています。
 
 
 **LionPower小松**（ライオンパワーこまつ）は、[石川県社会人リーグ](https://ja.wikipedia.org/wiki/石川県社会人リーグ "wikilink")に所属し、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[小松市](../Page/小松市.md "wikilink")、[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")を中心に活動している[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")。

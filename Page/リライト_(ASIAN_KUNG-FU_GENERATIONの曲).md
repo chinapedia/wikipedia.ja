@@ -1,4 +1,4 @@
-> この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
+> この記事は[リライト \(ASIAN KUNG-FU GENERATIONの曲\)](https://ja.wikipedia.org/wiki/リライト_\(ASIAN_KUNG-FU_GENERATIONの曲\))から翻訳されています。
 
 
 「**リライト**」は、[ASIAN KUNG-FU GENERATIONの楽曲](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")。同グループ5枚目の[シングル](../Page/シングル.md "wikilink")として[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[Ki/oon Recordsから発売された](../Page/キューンミュージック.md "wikilink")。

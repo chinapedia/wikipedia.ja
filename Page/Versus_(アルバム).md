@@ -1,4 +1,4 @@
-> この記事は[Versus \(\)](https://ja.wikipedia.org/wiki/Versus_\(\))から翻訳されています。
+> この記事は[Versus \(アルバム\)](https://ja.wikipedia.org/wiki/Versus_\(アルバム\))から翻訳されています。
 
 
 『**Versus**』（ヴァーサス）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。

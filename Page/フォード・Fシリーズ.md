@@ -1,75 +1,76 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[フォード・Fシリーズ](https://ja.wikipedia.org/wiki/フォード・Fシリーズ)から翻訳されています。
 
 
-**Fシリーズ**（F-Series）は、[フォードが](../Page/フォード・モーター.md "wikilink")[1948年](../Page/1948年.md "wikilink")から製造・販売するフルサイズ[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")型の[自動車](../Page/自動車.md "wikilink")。サイズが大きくなるに従って'F'に続く数字が大きくなる。[1999年](../Page/1999年.md "wikilink")以降F-250以上のモデルは[スーパーデューティーとして独立したため](../Page/フォード・スーパーデューティー.md "wikilink")、それ以降Fシリーズとは、主に**F-150**を指す（[英語](../Page/英語.md "wikilink")圏での発音はエフ・ ワンフィフティ）。[メキシコ](../Page/メキシコ.md "wikilink")では**フォード・ロボ**（**Ford LOBO** [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で[オオカミ](../Page/オオカミ.md "wikilink")の意）の名前で発売されている。[1999年](../Page/1999年.md "wikilink")以降のF-250、F-350、F-450、F-550については、[フォード・スーパーデューティー](../Page/フォード・スーパーデューティー.md "wikilink")（Ford Super Duty）を参照。
+**Fシリーズ**（F-Series）は、[フォードが](../Page/フォード・モーター.md "wikilink")[1948年](../Page/1948年.md "wikilink")から製造・販売するフルサイズ[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")型の[自動車](../Page/自動車.md "wikilink")。サイズが大きくなるに従って'F'に続く数字が大きくなる。[1999年](../Page/1999年.md "wikilink")にF-250以上のモデルが[スーパーデューティーとして独立したため](../Page/フォード・スーパーデューティー.md "wikilink")、それ以降Fシリーズとは主に**F-150**を指す（[英語](../Page/英語.md "wikilink")圏での呼称はエフ・ ワンフィフティ）。[メキシコ](../Page/メキシコ.md "wikilink")では**フォード・ロボ**（**Ford LOBO** [スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で[オオカミ](../Page/オオカミ.md "wikilink")の意）の名前で発売されている。[1999年](../Page/1999年.md "wikilink")以降のF-250、F-350、F-450、F-550については、[フォード・スーパーデューティー](../Page/フォード・スーパーデューティー.md "wikilink")（Ford Super Duty）を参照。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月に[1948年](../Page/1948年.md "wikilink")の生産開始以来累計生産台数は3,390万台に到達し、年間販売台数世界一位になることもあり、全自動車部門で28年間、トラック部門で31年間、販売台数全米一位を誇る。[2007年](../Page/2007年.md "wikilink")の年間売り上げは、76万台に達しており\[1\]、まさに[アメリカを代表する車であり](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")の代名詞的な車である。[アメリカ中西部](https://ja.wikipedia.org/wiki/アメリカ中西部 "wikilink")や[アメリカ南部](https://ja.wikipedia.org/wiki/アメリカ南部 "wikilink")、特に[テキサス州](../Page/テキサス州.md "wikilink")で非常に人気が高い。[GMの](../Page/ゼネラルモーターズ.md "wikilink")[シボレー・シルバラード](https://ja.wikipedia.org/wiki/シボレー・シルバラード "wikilink")など、ライバル各社が対抗車を投入する中、年間販売台数一位を維持するフォードの牙城ともいえる車両であり、近年[経営](https://ja.wikipedia.org/wiki/経営 "wikilink")に苦しむフォードの唯一の屋台骨とも言える。
 
-一部の車両はタイヤが大きいため日本では準中型自動車（5t限定含む）に分類される。そのため2017年以降に普通免許を取得した場合、運転できない。
+一部の車両はタイヤが大きいため日本では[準中型自動車](https://ja.wikipedia.org/wiki/準中型自動車 "wikilink")（5t限定含む）に分類される。そのため2017年以降に普通免許を取得した場合、運転できない。
 
 ## 歴史
 
 ### 初代（1948年～1952年）
 
-[:en:Ford F-Series (first generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(first_generation\) "wikilink")  F-1、F-2、F-3、F-4、F-5、F-6、F-7、F-8という8種類のタイプがあった。 {{-}}
+
+ F-1、F-2、F-3、F-4、F-5、F-6、F-7、F-8という8種類のタイプがあった。{{-}}
 
 ### 2代目（1953年～1956年）
 
-[:en:Ford F-Series (second generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(second_generation\) "wikilink")  名称が、F-100、F-110、F-250、F-260、F-350、F-360、F-500、F-900に変更された。この型は根強いファンが多数おり、古い[アメリカ車](../Page/アメリカ車.md "wikilink")などのイベントではしばしば見かけることがある。
+名称がF-100、F-110、F-250、F-260、F-350、F-360、F-500、F-900に変更された。この型は根強いファンが多数おり、古い[アメリカ車](../Page/アメリカ車.md "wikilink")などのイベントではしばしば見かけることがある。
 
 [1953_F100_Diagram.jpg](https://ja.wikipedia.org/wiki/File:1953_F100_Diagram.jpg "fig:1953_F100_Diagram.jpg") {{-}}
 
 ### 3代目（1957年～1960年）
 
-[:en:Ford F-Series (third generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(third_generation\) "wikilink")  F-100、F-250、F-350、F-500の4種類。従来からのフレアーサイドに加え、スタイルサイドが追加された。 {{-}}
+F-100、F-250、F-350、F-500の4種類。従来からのフレアーサイドに加え、スタイルサイドが追加された。{{-}}
 
 ### 4代目（1961年～1966年）
 
-[:en:Ford F-Series (fourth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(fourth_generation\) "wikilink")  4ドアのアクセスキャブ仕様が登場。 {{-}}
+4ドアのアクセスキャブ仕様が登場。{{-}}
 
 ### 5代目（1967年～1972年）
 
-[:en:Ford F-Series (fifth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(fifth_generation\) "wikilink")  F-110などの名称が復活。種類が増加。 {{-}}
+F-110（3代目、4代目と設定されていなかった）などの名称が復活。種類が増加。{{-}}
 
 ### 6代目（1973年～1979年）
 
-[:en:Ford F-Series (sixth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(sixth_generation\) "wikilink")  [1975年](../Page/1975年.md "wikilink")モデルで、現在の主力モデル、**F-150（エフ・ワンフィフティ）**が登場する。[1976年](../Page/1976年.md "wikilink")モデル以降、Fシリーズは全米売り上げ一位のトラックになり、以来現在まで一位を保持。 {{-}}
+[1975年](../Page/1975年.md "wikilink")モデルで、現在の主力モデル、**F-150（エフ・ワンフィフティ）**が登場する。[1976年](../Page/1976年.md "wikilink")モデル以降、Fシリーズは全米売り上げ一位のトラックになり、以来現在まで一位を保持。{{-}}
 
 ### 7代目（1980年～1986年）
 
-[:en:Ford F-Series (seventh generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(seventh_generation\) "wikilink")  直線的なスタイルになる。この直線的なスタイルは8代目や9代目にも受け継がれる。[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")搭載車が登場。 グレード：F-100、F-150、F-250、F-350、F-600、F-700、F-800。[1982年](../Page/1982年.md "wikilink")にグレード名の「レンジャー」は廃止され、[フォード･クーリエ](https://ja.wikipedia.org/wiki/フォード･クーリエ "wikilink")に代わる小型トラック（[フォード・レンジャー](../Page/フォード・レンジャー.md "wikilink")）の車名として使用される。 {{-}}
+直線的なスタイルになり、このスタイルは8代目や9代目にも受け継がれる。[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")搭載車が登場。グレードはF-100、F-150、F-250、F-350、F-600、F-700、F-800。
+
+[1982年](../Page/1982年.md "wikilink")にグレード名の「レンジャー」は廃止され、[フォード･クーリエ](https://ja.wikipedia.org/wiki/フォード･クーリエ "wikilink")に代わる小型トラック（[フォード・レンジャー](../Page/フォード・レンジャー.md "wikilink")）の車名として使用される。{{-}}
 
 ### 8代目（1987年～1991年）
 
-[:en:Ford F-Series (eighth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(eighth_generation\) "wikilink")  トラックで初めて、後輪[ABSが標準装備される](../Page/アンチロック・ブレーキ・システム.md "wikilink")。 7代目の基本シャーシ、ドアパネルを踏襲した、実質的なマイナーチェンジモデルである。 {{-}}
+トラックで初めて、後輪[ABSが標準装備される](../Page/アンチロック・ブレーキ・システム.md "wikilink")。7代目の基本シャーシ、ドアパネルを踏襲した、実質的なマイナーチェンジモデルである。{{-}}
 
 ### 9代目（1992年～1997年）
 
-[:en:Ford F-Series (ninth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(ninth_generation\) "wikilink")  フロントグリルが丸みを帯びる。フレアーサイド仕様が復活。[直列6気筒](../Page/直列6気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")搭載車はこのモデルが最後になった。右ハンドルだった[オーストラリア](../Page/オーストラリア.md "wikilink")仕様のF-250をベースに、[高規格救急車に改造されたものが](https://ja.wikipedia.org/wiki/日本の救急車#車両 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも少数輸入された事がある。
+フロントグリルが丸みを帯びる。フレアーサイド仕様が復活。[直列6気筒](../Page/直列6気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")搭載車はこのモデルが最後になった。右ハンドルだった[オーストラリア](../Page/オーストラリア.md "wikilink")仕様のF-250をベースに、[高規格救急車に改造されたものが](https://ja.wikipedia.org/wiki/日本の救急車#車両 "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも少数輸入された事がある。
 
-7代目および8代目の基本シャーシ、ドアパネルを踏襲した、実質的なマイナーチェンジモデルである。 {{-}}
+7代目および8代目の基本シャーシ、ドアパネルを踏襲した、実質的なマイナーチェンジモデルである。{{-}}
 
 ### 10代目（1997年～2003年）
 
-[:en:Ford F-Series (tenth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(tenth_generation\) "wikilink")  基本シャーシやボディパネルまで大幅に刷新された。大きく丸みを帯びたボディが特徴。当時は、この斬新なデザインが話題を呼んだ。[1999年](../Page/1999年.md "wikilink")モデルで、F-250、F-350が、[スーパーデューティーとして独立](../Page/フォード・スーパーデューティー.md "wikilink")。以降は、一般的なF-150とは別設計になる。[2001年](../Page/2001年.md "wikilink")モデルで、フレアーサイド仕様にF-150初のクルーキャブ仕様が登場。[オートバイ](../Page/オートバイ.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")の[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")や、[テキサス州](../Page/テキサス州.md "wikilink")のキングランチ牧場と[タイアップ](../Page/タイアップ.md "wikilink")したモデルなど多彩なモデルが登場し、11代目にも受け継がれている。その一方で衝突安全性が著しく低い事が実証されている\[2\]\[3\]。
+基本シャーシやボディパネルまで大幅に刷新された。大きく丸みを帯びたボディが特徴。当時は、この斬新なデザインが話題を呼んだ。[1999年](../Page/1999年.md "wikilink")モデルで、F-250、F-350が、[スーパーデューティーとして独立](../Page/フォード・スーパーデューティー.md "wikilink")。以降は、一般的なF-150とは別設計になる。[2001年](../Page/2001年.md "wikilink")モデルで、フレアーサイド仕様にF-150初のクルーキャブ仕様が登場。[オートバイ](../Page/オートバイ.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")の[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")や、[テキサス州](../Page/テキサス州.md "wikilink")のキングランチ牧場と[タイアップ](../Page/タイアップ.md "wikilink")したモデルなど多彩なモデルが登場し、11代目にも受け継がれている。その一方で衝突安全性が著しく低い事が実証されている\[2\]\[3\]。
 
 [2001年](../Page/2001年.md "wikilink")、スポーツカー顔負けの動力性能を持つハイパワーピックアップの人気を受け、F-150をベースにしたスポーツモデル、SVTライトニングを発表した。V8インタークーラースーパーチャージャー[エンジン](../Page/エンジン.md "wikilink")を搭載し、当初は360ps、最終的に385psを発揮した。動力性能は0-100mphが13.6秒、ゼロヨン加速が同等の13.7秒、最高速度が234km/hとcd値の高い[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")としては高水準である。スキッドパッドでの最大旋回重力は0.88とチューニングされた足回り、駆動系が働きコーナリングでも高い性能を誇る。
 
 このSVTライトニングは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における[ニスモ](https://ja.wikipedia.org/wiki/ニスモ "wikilink")のようなメーカー純正のチューニングカーであったのでディーラーでも購入ができ、オプションを付けても4万ドル以下という価格も幸いしヒットした。
 
-日本へ[近鉄モータース](../Page/近鉄モータース.md "wikilink")により正規輸入されていた。 {{-}}
+日本へ[近鉄モータース](../Page/近鉄モータース.md "wikilink")により正規輸入されていた。{{-}}
 
 ### 11代目（2004年～2008年）
 
-[:en:Ford F-Series (eleventh generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(eleventh_generation\) "wikilink")  再び直線的でがっしりとしたボディになり、車体の剛性も高まった。フロントグリルはグレード毎に異なり、様々な種類がある。先代では4ドアのクルーキャブは全てフレアーサイドであったので、フレアーサイド仕様の割合が高かったが、この現行型では、クルーキャブにもスタイルサイド仕様が導入されたので、スタイルサイド型に人気が集中している。[2004年](../Page/2004年.md "wikilink")の[北米カー・オブ・ザ・イヤー](../Page/北米カー・オブ・ザ・イヤー.md "wikilink")のトラック部門で受賞。その他にも、数々の賞を受賞。[2005年](../Page/2005年.md "wikilink")の年間売り上げ台数が939,000台となり、トラックの年間売り上げ台数の歴代記録を更新。[2006年](../Page/2006年.md "wikilink")で右ハンドルの生産を中止（主に[オーストラリア](../Page/オーストラリア.md "wikilink")向けのF-250）。 {{-}}
+再び直線的でがっしりとしたボディになり、車体の剛性も高まった。フロントグリルはグレード毎に異なり、様々な種類がある。先代では4ドアのクルーキャブは全てフレアーサイドであったので、フレアーサイド仕様の割合が高かったが、この現行型では、クルーキャブにもスタイルサイド仕様が導入されたので、スタイルサイド型に人気が集中している。[2004年](../Page/2004年.md "wikilink")の[北米カー・オブ・ザ・イヤー](../Page/北米カー・オブ・ザ・イヤー.md "wikilink")トラック部門など、数々の賞を受賞。[2005年](../Page/2005年.md "wikilink")の年間売り上げ台数が939,000台となり、トラックの年間売り上げ台数の歴代記録を更新。[2006年](../Page/2006年.md "wikilink")で右ハンドルの生産を中止（主に[オーストラリア](../Page/オーストラリア.md "wikilink")向けのF-250）。{{-}}
 
 ### 12代目（2009年～）
 
-[:en:Ford F-Series (twelfth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_F-Series_\(twelfth_generation\) "wikilink")  [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")で発表された。[2009年](../Page/2009年.md "wikilink")モデルとして2008年10月から発売されている。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[景気](../Page/景気.md "wikilink")が減速しているため、発売が予定よりも2ヶ月繰り下げられた。 基本シャーシ、ドアパネルは11代目をほとんど踏襲しており、実質的にはビッグマイナーチェンジだが、より大型のフロントグリルなどでさらに迫力が増したスタイルとなっている。[V型6気筒](../Page/V型6気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")車と[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")車が廃止され、代わりに[ディーゼル車がF](../Page/ディーゼルエンジン.md "wikilink")-150にも導入される。[リンカーン・マークLT](../Page/リンカーン・マークLT.md "wikilink")の後継となる、高級グレードも登場した。先代に引き続き2009年の北米カー・オブ・ザ・イヤーのトラック部門を受賞している。SVTラプターや[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")仕様の追加などバリエーションを増やしている。 {{-}}
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")で発表された。[2009年](../Page/2009年.md "wikilink")モデルとして2008年10月から発売されている。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[景気](../Page/景気.md "wikilink")が減速していたため、発売が予定よりも2ヶ月繰り下げられた。基本シャーシ、ドアパネルは11代目をほとんど踏襲しており、実質的にはビッグマイナーチェンジだが、より大型のフロントグリルなどでさらに迫力が増したスタイルとなっている。[V型6気筒](../Page/V型6気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")車と[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")車が廃止され、代わりに[ディーゼル車がF](../Page/ディーゼルエンジン.md "wikilink")-150にも導入される。[リンカーン・マークLT](../Page/リンカーン・マークLT.md "wikilink")の後継となる、高級グレードも登場した。先代に引き続き2009年の北米カー・オブ・ザ・イヤーのトラック部門を受賞している。SVTラプターや[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")仕様の追加などバリエーションを増やしている。{{-}}
 
 ### 13代目（2014年～）
-
-[:en:Ford Ford F-Series (thirteenth generation)参照](https://ja.wikipedia.org/wiki/:en:Ford_Ford_F-Series_\(thirteenth_generation\) "wikilink")
 
 ## 脚注
 
@@ -86,7 +87,7 @@
 
 ## 外部リンク
 
-  - [Ford F-150（英語）](http://www.fordvehicles.com/trucks/f150/)
+  - [フォード社ウェブサイト　Ford F-150（英語）](http://www.fordvehicles.com/trucks/f150/)
 
 [Category:フォードの車種](https://ja.wikipedia.org/wiki/Category:フォードの車種 "wikilink") [Category:ピックアップトラック](https://ja.wikipedia.org/wiki/Category:ピックアップトラック "wikilink")
 

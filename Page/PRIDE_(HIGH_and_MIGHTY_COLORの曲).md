@@ -1,4 +1,4 @@
-> この記事は[PRIDE \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
+> この記事は[PRIDE \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
 「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。

@@ -1,4 +1,4 @@
-> この記事は[Wave \(YUKI\)](https://ja.wikipedia.org/wiki/Wave_\(YUKI\))から翻訳されています。
+> この記事は[Wave \(YUKIのアルバム\)](https://ja.wikipedia.org/wiki/Wave_\(YUKIのアルバム\))から翻訳されています。
 
 
 『**Wave**』（ウェーヴ）は、[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NO](https://ja.wikipedia.org/wiki/NO)から翻訳されています。
+> この記事は[「NO」と言える日本](https://ja.wikipedia.org/wiki/「NO」と言える日本)から翻訳されています。
 
 
 『**「NO」と言える日本**』（ノーといえるにほん）とは、[日米貿易摩擦](../Page/日米貿易摩擦.md "wikilink")の中[ソニー](../Page/ソニー.md "wikilink")の会長である[盛田昭夫](../Page/盛田昭夫.md "wikilink")と政治家である[石原慎太郎](../Page/石原慎太郎.md "wikilink")によって共同執筆された[1989年](../Page/1989年.md "wikilink")のエッセイである。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のビジネスの方法に批判的な目を向け、日本が多くのこと、ビジネスから国際問題にまでに関して他国に依存しない態度を取るべきだ、と主張している。

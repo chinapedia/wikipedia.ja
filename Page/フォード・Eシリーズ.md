@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[フォード・Eシリーズ](https://ja.wikipedia.org/wiki/フォード・Eシリーズ)から翻訳されています。
 
 
 [Ford--Econoline.jpg](https://ja.wikipedia.org/wiki/File:Ford--Econoline.jpg "fig:Ford--Econoline.jpg") **フォードEシリーズ**は主に[コマーシャル用途として使用される](../Page/商用車.md "wikilink")[バンである](https://ja.wikipedia.org/wiki/バン_\(自動車\) "wikilink")。 1961年にファルコンエコノラインとして登場、[VWのバンを参考に開発された](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")、[フルサイズバン](https://ja.wikipedia.org/wiki/フルサイズバン "wikilink")の元祖である。 （[GMシボレーや](../Page/シボレー.md "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")も同時期に開発されている。） 当初はVWバン同様のサイズ（[ホイールベース](../Page/ホイールベース.md "wikilink")2300mm程度）で作られたが、平均的な北米家庭には小さすぎるため、68年,75年とモデルチェンジを繰り返す毎に拡大され、いつしかフルサイズバンと呼ばれるようになった。

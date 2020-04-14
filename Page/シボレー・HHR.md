@@ -1,4 +1,4 @@
-> この記事は[HHR](https://ja.wikipedia.org/wiki/HHR)から翻訳されています。
+> この記事は[シボレー・HHR](https://ja.wikipedia.org/wiki/シボレー・HHR)から翻訳されています。
 
 
 **HHR**は、[GMが製造し](../Page/ゼネラルモーターズ.md "wikilink")[シボレー](../Page/シボレー.md "wikilink")ブランドで販売していた自動車である。

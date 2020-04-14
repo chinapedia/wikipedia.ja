@@ -1,4 +1,4 @@
-> この記事は[ALMIGHTY10](https://ja.wikipedia.org/wiki/ALMIGHTY10)から翻訳されています。
+> この記事は[ALMIGHTY×10](https://ja.wikipedia.org/wiki/ALMIGHTY×10)から翻訳されています。
 
 
 『**ALMIGHTY×10**』（オールマイティテン）は[水都あくあ](../Page/水都あくあ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[小学館](../Page/小学館.md "wikilink")の[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")『[ChuChu](../Page/ChuChu.md "wikilink")』創刊号（2006年1月号）から2007年10月号まで連載された。単行本は全5巻。

@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[VSシステム](https://ja.wikipedia.org/wiki/VSシステム)から翻訳されています。
 
 
 **VSシステム**（**VSsystem**）は、[アッパーデック](https://ja.wikipedia.org/wiki/アッパーデック "wikilink")社から発売されている[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")の一種。

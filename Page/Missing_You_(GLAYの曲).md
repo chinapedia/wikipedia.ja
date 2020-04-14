@@ -1,4 +1,4 @@
-> この記事は[Missing You \(GLAY\)](https://ja.wikipedia.org/wiki/Missing_You_\(GLAY\))から翻訳されています。
+> この記事は[Missing You \(GLAYの曲\)](https://ja.wikipedia.org/wiki/Missing_You_\(GLAYの曲\))から翻訳されています。
 
 
 『**Missing You**』（ミッシング ユー）は、[GLAY](../Page/GLAY.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")である。

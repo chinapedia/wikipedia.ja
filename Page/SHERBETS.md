@@ -1168,7 +1168,7 @@ BVBR-11112:通常盤DVD</p></td>
 
   - [SEXY STONES RECORDS](http://www.sexystones.com/)
 
-  - [SHERBETS | SonyMusic](http://www.sonymusic.co.jp/artist/sherbets/)
+  - [SHERBETS | SonyMusic](https://www.sonymusic.co.jp/artist/sherbets/)
 
   -
   -

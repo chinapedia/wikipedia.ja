@@ -1,4 +1,4 @@
-> この記事は[KK](https://ja.wikipedia.org/wiki/KK)から翻訳されています。
+> この記事は[KKコンビ](https://ja.wikipedia.org/wiki/KKコンビ)から翻訳されています。
 
 
 **KKコンビ**は、[PL学園高等学校に](../Page/PL学園中学校・高等学校.md "wikilink")1983年から1986年まで在籍し[春](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")・[夏の甲子園で主力として活躍した](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")**[桑田真澄](../Page/桑田真澄.md "wikilink")**（くわた ますみ）・**[清原和博](../Page/清原和博.md "wikilink")**（きよはら かずひろ）の2人を指す通称。由来は2人の名前の頭文字をとったもの。

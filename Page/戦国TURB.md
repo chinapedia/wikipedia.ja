@@ -1,4 +1,4 @@
-> この記事は[TURB](https://ja.wikipedia.org/wiki/TURB)から翻訳されています。
+> この記事は[戦国TURB](https://ja.wikipedia.org/wiki/戦国TURB)から翻訳されています。
 
 
 **戦国TURB**（せんごくたーぶ）は[qnep](https://ja.wikipedia.org/wiki/qnep "wikilink")（クネップ）が開発した[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフトである。発売元は[NECホームエレクトロニクス](https://ja.wikipedia.org/wiki/NECホームエレクトロニクス "wikilink")。ジャンルは[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。メインスタッフが所属していた同人ソフト制作集団[Bio_100%](../Page/Bio_100%.md "wikilink")独特の感性 によるシュールかつコミカルな世界観でカルトな人気を博した。キャッチコピーは 「**愛も勇気も好きにすれば**」。キャラクターデザインは[たまごっち](../Page/たまごっち.md "wikilink")の企画・開発をした[黒柳陽子](https://ja.wikipedia.org/wiki/黒柳陽子 "wikilink")が担当した。PC-9801版についても本稿で述べる→[\#PC版](https://ja.wikipedia.org/wiki/#PC版 "wikilink")。

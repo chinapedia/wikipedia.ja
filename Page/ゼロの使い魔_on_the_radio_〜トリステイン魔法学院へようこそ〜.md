@@ -1,4 +1,4 @@
-> この記事は[ on the radio ](https://ja.wikipedia.org/wiki/_on_the_radio_)から翻訳されています。
+> この記事は[ゼロの使い魔 on the radio 〜トリステイン魔法学院へようこそ〜](https://ja.wikipedia.org/wiki/ゼロの使い魔_on_the_radio_〜トリステイン魔法学院へようこそ〜)から翻訳されています。
 
 
 『**ゼロの使い魔 on the radio 〜トリステイン魔法学院へようこそ〜**』（ゼロのつかいま オンザレディオ トリステインまほうがくいんへようこそ）は、『[ゼロの使い魔](https://ja.wikipedia.org/wiki/ゼロの使い魔 "wikilink")』を題材とした[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。

@@ -1,4 +1,4 @@
-> この記事は[On-U](https://ja.wikipedia.org/wiki/On-U)から翻訳されています。
+> この記事は[On-Uサウンド](https://ja.wikipedia.org/wiki/On-Uサウンド)から翻訳されています。
 
 
 **On-Uサウンド**（オン・ユー・サウンド・レコーズ、**On-U Sound Records**）は、1979年に[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")が設立した[レコード・レーベル](https://ja.wikipedia.org/wiki/レコード・レーベル "wikilink")、及び[サウンド・システム](https://ja.wikipedia.org/wiki/サウンド・システム "wikilink")。

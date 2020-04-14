@@ -1,4 +1,4 @@
-> この記事は[New World \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/New_World_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[New World \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/New_World_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**New World**」（ニュー ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の26作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
@@ -20,7 +20,7 @@
     <!-- end list -->
       -
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[プロ野球中継番組](../Page/日本プロ野球.md "wikilink")『[1球の緊張感 THE LIVE 2005](https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL "wikilink")』上半期テーマソング。
-        作詞は従来の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")ではなく[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が担当しており、シングルの表題曲でhyde以外が作詞した唯一の楽曲である。歌詞はタイアップを受けて前向きな歌詞に変更されており、yukihiroは「"ぶつかって砕けて終わる"っていう感じだったんですけど。でもこれは、"ぶつかって突き抜けていく"って感じですね\[2\]」と述べている。
+        作詞は従来の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")ではなく[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")が担当しており、シングルの表題曲でhyde以外が作詞した唯一の楽曲である。歌詞はタイアップを受けて前向きな歌詞に変更されており、yukihiroは「（前の歌詞は）"ぶつかって砕けて終わる"っていう感じだったんですけど。でもこれは、"ぶつかって突き抜けていく"って感じですね\[2\]」と述べている。
         また、作曲はhydeがサビ、yukihiroがそれ以外を手がけており2人の合作曲となっている。シングルの表題曲になるにあたってhydeがサビを作り直しているが、当初のサビよりキーが高くなっており、hydeは「もうビックリするぐらい高くて、自分で自分の首を絞めた\[3\]」と述べている。
         今作はyukihiroによる生[ドラムが](../Page/ドラムセット.md "wikilink")[リズム](../Page/リズム.md "wikilink")を刻む一方、[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")が随所に取り入れられている。これに関してyukihiroは[インタビュー](../Page/インタビュー.md "wikilink")で「ブレイクビーツを入れるということを最初から決めてたんで、それをカッコ良く聴かせるには打ち込みと生ドラムの共存が必要だろうなと思った」「最初にブレイクビーツ、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")のほうのリズムを作ったんですけど、その時からもう生ドラムを考えながらやってました」と語っている。
         原曲では、弦楽器は全て半音下げチューニングだが、ライブの時はレギュラーチューニングで演奏される。また、本楽曲では[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロが存在する](../Page/ソロ_\(音楽\).md "wikilink")。

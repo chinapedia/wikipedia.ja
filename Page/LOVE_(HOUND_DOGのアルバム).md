@@ -1,4 +1,4 @@
-> この記事は[LOVE \(HOUND DOG\)](https://ja.wikipedia.org/wiki/LOVE_\(HOUND_DOG\))から翻訳されています。
+> この記事は[LOVE \(HOUND DOGのアルバム\)](https://ja.wikipedia.org/wiki/LOVE_\(HOUND_DOGのアルバム\))から翻訳されています。
 
 
 「**LOVE**」（ラヴ）は[HOUND DOGが](../Page/HOUND_DOG.md "wikilink")[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースした8枚目のオリジナルアルバム。

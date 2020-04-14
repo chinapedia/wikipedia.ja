@@ -1,4 +1,4 @@
-> この記事は[ABC NOW](https://ja.wikipedia.org/wiki/ABC_NOW)から翻訳されています。
+> この記事は[ABC東京発 アーチストNOW](https://ja.wikipedia.org/wiki/ABC東京発_アーチストNOW)から翻訳されています。
 
 
 『**ABC東京発 アーチストNOW**』（エービーシーとうきょうはつ アーチストナウ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1988年](../Page/1988年.md "wikilink")[9月](../Page/9月.md "wikilink")まで、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABC）で放送された若者向け[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送時間は[月曜から](../Page/月曜日.md "wikilink")[金曜](../Page/金曜日.md "wikilink")21:15（1988年4月から21:10） - 22:40 ([JST](../Page/日本標準時.md "wikilink")) 。

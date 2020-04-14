@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ダイノキングII](https://ja.wikipedia.org/wiki/ダイノキングII)から翻訳されています。
 
 
 **ダイノキングII**（だいのきんぐつー）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が製作したマス型のプッシャー[メダルゲーム](../Page/メダルゲーム.md "wikilink")である。台の中心にティラノサウルスの模型が設置され、内装、液晶演出、メダルの払い出し方法など、全て恐竜をモチーフにしている。

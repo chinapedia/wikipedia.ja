@@ -1,4 +1,4 @@
-> この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
+> この記事は[ブルートレイン \(ASIAN KUNG-FU GENERATIONの曲\)](https://ja.wikipedia.org/wiki/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\))から翻訳されています。
 
 
 「**ブルートレイン**」は、[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に発売された[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。

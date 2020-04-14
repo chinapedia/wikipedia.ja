@@ -1,4 +1,4 @@
-> この記事は[     VII](https://ja.wikipedia.org/wiki/_____VII)から翻訳されています。
+> この記事は[ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ダージュ_オブ_ケルベロス_ロスト_エピソード_ファイナルファンタジーVII)から翻訳されています。
 
 
 **ダージュ オブ ケルベロス ロスト エピソード -ファイナルファンタジーVII-**（ダージュ オブ ケルベロス ロスト エピソード ファイナルファンタジーセブン、DIRGE of CERBERUS Lost Episode -FINAL FANTASY VII-、略称：**DCLE FFVII**、**DCLE FF7**）は、スクウェア・エニックスから配信される[携帯電話](../Page/携帯電話.md "wikilink")用ゲームである。[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")の[スピンオフ作品](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")のひとつである。

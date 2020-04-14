@@ -1,4 +1,4 @@
-> この記事は[NIS](https://ja.wikipedia.org/wiki/NIS)から翻訳されています。
+> この記事は[NISグループ](https://ja.wikipedia.org/wiki/NISグループ)から翻訳されています。
 
 
 **NISグループ株式会社**（エヌアイエスグループ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")・[事業者金融](https://ja.wikipedia.org/wiki/事業者金融 "wikilink")業を営んでいた企業。[1960年](../Page/1960年.md "wikilink")に[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")で創業したが、[東京都](../Page/東京都.md "wikilink")と[愛媛県](../Page/愛媛県.md "wikilink")の2ヶ所に本社機能を置いていた。

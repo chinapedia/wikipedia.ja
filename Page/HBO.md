@@ -5,7 +5,7 @@
 
 ## 概要
 
-タイム・ワーナー（現ワーナーメディア）傘下で[ニューヨーク](../Page/ニューヨーク.md "wikilink")に本部がある。HBOおよび映画専門チャンネル「**Cinemax**」を運営しており、2016年末の段階で契約者数はアメリカ合衆国で4900万、世界中で13000万\[1\]\[2\]。
+タイム・ワーナー（現ワーナーメディア）傘下で[ニューヨーク](../Page/ニューヨーク.md "wikilink")に本部がある。HBOおよび映画専門チャンネル「**Cinemax**」を運営しており、2016年末の段階で契約者数はアメリカ合衆国で4900万、世界中で1億3000万\[1\]\[2\]。
 
 1975年の通信衛星経由の番組配信はケーブルテレビの歴史を変えた老舗。ライバル局の[Showtime](../Page/Showtime.md "wikilink")・[Starz](../Page/Starz.md "wikilink")を抑えアメリカでトップの実績を誇る。関連企業の[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")参加のもと、オリジナルのテレビドラマの制作に絶対的な自信を持っており、主要なコンテンツとなっている\[3\]。近年では『[ゲーム・オブ・スローンズ](https://ja.wikipedia.org/wiki/ゲーム・オブ・スローンズ "wikilink")』が日本を含め世界的に大ヒットした。
 
@@ -111,7 +111,7 @@
 
 ## 関連項目
 
-  - [Showtime](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")/The Movie Channel（プレミアムチャンネルのライバル局。[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")（旧[バイアコム](../Page/バイアコム.md "wikilink")）傘下）
+  - [Showtime](../Page/Showtime.md "wikilink")/The Movie Channel（プレミアムチャンネルのライバル局。[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")（旧[バイアコム](../Page/バイアコム.md "wikilink")）傘下）
   - [Starz](../Page/Starz.md "wikilink")/Encore（プレミアムチャンネルのライバル局。[リバティメディア](../Page/リバティメディア.md "wikilink")傘下）
   - [CWテレビジョンネットワーク](../Page/CWテレビジョンネットワーク.md "wikilink")（ワーナーメディアとCBSコーポレーションの合弁による地上波ネットワーク）
   - [ターナー・ブロードキャスティング・システム](../Page/ターナー・ブロードキャスティング・システム.md "wikilink")（ワーナーメディア傘下の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")ネットワーク）

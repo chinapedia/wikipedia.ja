@@ -163,7 +163,7 @@
 <!-- end list -->
 
   -
-    前番組[TOKIO LIFEから継承されたコーナー](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")。のちに改名され下記の「SHIBUYA STYLE」となった。『シブヤ経済新聞』との協力で、渋谷中心とした地域の流行やビジネスについて伝える。同紙編集長も出演していた。[2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には両者の協力で『シブヤ系スタイル徹底研究』（ISBN 4-88497-088-8、[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")出版部）が出版されている。
+    前番組[TOKIO LIFEから継承されたコーナー](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")。のちに改名され下記の「SHIBUYA STYLE」となった。『[シブヤ経済新聞](https://ja.wikipedia.org/wiki/シブヤ経済新聞 "wikilink")』との協力で、渋谷中心とした地域の流行やビジネスについて伝える。同紙編集長も出演していた\[1\]。[2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には両者の協力で『シブヤ系スタイル徹底研究』（ISBN 4-88497-088-8、[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")出版部）が出版されている。
 
 <!-- end list -->
 
@@ -178,8 +178,12 @@
 みんしる：「そして、渡辺祐さんでした。」
 としめていた。ただ一度だけ、みんしるは次番組の秀島（史香）のことを「藤島」と呼んでしまい、渡辺だけでなく西沢、秀島につっこまれた。さらに、「[TRICK](../Page/トリック_\(テレビドラマ\).md "wikilink")」の[上田次郎が](../Page/阿部寛.md "wikilink")「**しんみるくん**」と呼んだことがあるのは有名な話である。
 
+## 脚注
+
 ## 外部リンク
 
   - [e-STATION GOLD](http://www.j-wave.co.jp/original/estation/) - 番組公式サイト
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")
+
+1.

@@ -1,4 +1,4 @@
-> この記事は[L.A.](https://ja.wikipedia.org/wiki/L.A.)から翻訳されています。
+> この記事は[エスケープ・フロム・L.A.](https://ja.wikipedia.org/wiki/エスケープ・フロム・L.A.)から翻訳されています。
 
 
 『**エスケープ・フロム・L.A.**』（*Escape From L.A.*）は、[1996年](../Page/1996年.md "wikilink")、[アメリカのイン](../Page/アメリカ合衆国の映画.md "wikilink")・アソシエイション・ウィズ・ライシャー・エンターテインメント製作、監督[ジョン・カーペンター](../Page/ジョン・カーペンター.md "wikilink")、主演[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")の近未来[SF映画](../Page/SF映画.md "wikilink")。[1981年](../Page/1981年.md "wikilink")の『[ニューヨーク1997](../Page/ニューヨーク1997.md "wikilink")』の続編。前作でS.D.プリスキンであった主人公（[スネーク](../Page/スネーク・プリスキン.md "wikilink")）の本名がボブ・プリスキンに変わっている。続編ではあるが、この作品は続編兼リメイク作品である。
@@ -27,14 +27,14 @@
 | ハーシュ・レ・パームス                                    | [パム・グリア](../Page/パム・グリア.md "wikilink")                                | [中田和宏](../Page/中田和宏.md "wikilink")   |
 | サイゴン・シャドウ                                      | [ジェフ・イマダ](https://ja.wikipedia.org/wiki/ジェフ・イマダ "wikilink")           | [辻親八](../Page/辻親八.md "wikilink")     |
 | タスリマ                                           | [ヴァレリア・ゴリノ](../Page/ヴァレリア・ゴリノ.md "wikilink")                          | [安達忍](../Page/安達忍.md "wikilink")     |
-| フッカー                                           | [イナ・ロメオ](https://ja.wikipedia.org/wiki/イナ・ロメオ "wikilink")             |                                      |
 | ダーティ・サージェント                                    | [ピーター・ジェイソン](https://ja.wikipedia.org/wiki/ピーター・ジェイソン "wikilink")     | [宝亀克寿](../Page/宝亀克寿.md "wikilink")   |
+| ビバリーヒルズ公衆衛生局長官                                 | [ブルース・キャンベル](../Page/ブルース・キャンベル.md "wikilink")                        | [古田信幸](../Page/古田信幸.md "wikilink")   |
+| スキンヘッド                                         | [ロバート・キャラダイン](https://ja.wikipedia.org/wiki/ロバート・キャラダイン "wikilink")   | [室園丈裕](../Page/室園丈裕.md "wikilink")   |
+| フッカー                                           | [イナ・ロメオ](https://ja.wikipedia.org/wiki/イナ・ロメオ "wikilink")             |                                      |
 | ポリス・アンカー                                       | [ジョーダン・ベイカー](https://ja.wikipedia.org/wiki/ジョーダン・ベイカー "wikilink")     |                                      |
 | 高速道路上の女                                        | [キャロリーン・フィーニー](https://ja.wikipedia.org/wiki/キャロリーン・フィーニー "wikilink") |                                      |
 | 下院議員                                           | [ポール・バーテル](https://ja.wikipedia.org/wiki/ポール・バーテル "wikilink")         |                                      |
-| ビバリーヒルズ公衆衛生局長官                                 | [ブルース・キャンベル](../Page/ブルース・キャンベル.md "wikilink")                        | [古田信幸](../Page/古田信幸.md "wikilink")   |
 | サーファー                                          | [ブレッキン・メイヤー](../Page/ブレッキン・メイヤー.md "wikilink")                        |                                      |
-| スキンヘッド                                         | [ロバート・キャラダイン](https://ja.wikipedia.org/wiki/ロバート・キャラダイン "wikilink")   | [室園丈裕](../Page/室園丈裕.md "wikilink")   |
 | ハーシーの部下                                        | [アル・レオン](https://ja.wikipedia.org/wiki/アル・レオン "wikilink")             |                                      |
 | テストチューブ                                        | [リーランド・オーサー](https://ja.wikipedia.org/wiki/リーランド・オーサー "wikilink")     | [坂東尚樹](../Page/坂東尚樹.md "wikilink")   |
 |                                                |                                                                       |                                      |

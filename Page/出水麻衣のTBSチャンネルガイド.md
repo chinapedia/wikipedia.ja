@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[出水麻衣のTBSチャンネルガイド](https://ja.wikipedia.org/wiki/出水麻衣のTBSチャンネルガイド)から翻訳されています。
 
 
 **出水麻衣のTBSチャンネルガイド**（でみずまいのTBSチャンネルガイド）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")（2006年11月号）から[2009年](../Page/2009年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")（2009年3月号）まで不定期で放送されていた番組である。

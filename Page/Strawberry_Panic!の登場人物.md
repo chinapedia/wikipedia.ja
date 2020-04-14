@@ -1,4 +1,4 @@
-> この記事は[Strawberry Panic!](https://ja.wikipedia.org/wiki/Strawberry_Panic!)から翻訳されています。
+> この記事は[Strawberry Panic!の登場人物](https://ja.wikipedia.org/wiki/Strawberry_Panic!の登場人物)から翻訳されています。
 
 
 **Strawberry Panic\!の登場人物**（ストロベリー・パニックのとうじょうじんぶつ）は、[メディアワークス](../Page/メディアワークス.md "wikilink")刊『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")（原作：[公野櫻子](../Page/公野櫻子.md "wikilink")、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")：[真木ちとせ](https://ja.wikipedia.org/wiki/真木ちとせ "wikilink")/[たくみなむち](../Page/たくみなむち.md "wikilink")）及びそれを原作とする[メディアミックス](../Page/メディアミックス.md "wikilink")作品『**[Strawberry Panic\!](../Page/Strawberry_Panic!.md "wikilink")**』に登場する架空の人物の説明を各メディア毎にまとめたものである。

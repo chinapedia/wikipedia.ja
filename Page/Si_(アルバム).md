@@ -1,4 +1,4 @@
-> この記事は[Si \(\)](https://ja.wikipedia.org/wiki/Si_\(\))から翻訳されています。
+> この記事は[Si \(アルバム\)](https://ja.wikipedia.org/wiki/Si_\(アルバム\))から翻訳されています。
 
 
 **\[síː\]**（スィー）は、[堂本剛](../Page/堂本剛.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

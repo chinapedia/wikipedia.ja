@@ -1,4 +1,4 @@
-> この記事は[deSHOW!](https://ja.wikipedia.org/wiki/deSHOW!)から翻訳されています。
+> この記事は[ラジオdeアイマSHOW!](https://ja.wikipedia.org/wiki/ラジオdeアイマSHOW!)から翻訳されています。
 
 
 **ラジオdeアイマSHOW\!**（らじおであいましょう）は、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』から派生した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2006年](../Page/2006年.md "wikilink")（平成18年）[4月27日](../Page/4月27日.md "wikilink")配信開始。全77回+2回。[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。毎週木曜日更新。正式なタイトルは「**Radio of THE IDOLM@STER on the web ラジオdeアイマShow\!**」。愛称は「**ラジマSHOW**\!（らじましょ）」。

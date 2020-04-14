@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:メディア](https://ja.wikipedia.org/wiki/Portal:フランス/Section:メディア)から翻訳されています。
 
 
 <div style="float: right; margin: 0 0 1em 0.5em; border: 1px solid gray; padding: 0.5em;">

@@ -1,4 +1,4 @@
-> この記事は[JOY \(\)](https://ja.wikipedia.org/wiki/JOY_\(\))から翻訳されています。
+> この記事は[JOY \(スターリンのアルバム\)](https://ja.wikipedia.org/wiki/JOY_\(スターリンのアルバム\))から翻訳されています。
 
 
 『**JOY**』（ジョイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[スターリンの通算](../Page/ザ・スターリン.md "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[OB](https://ja.wikipedia.org/wiki/OB)から翻訳されています。
+> この記事は[OB訪問](https://ja.wikipedia.org/wiki/OB訪問)から翻訳されています。
 
 
 **OB訪問**（オービーほうもん）とは、主に[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")が[就職活動](../Page/就職活動.md "wikilink")を行うときに情報収集の一環として行う行為。自分の大学の[OB](https://ja.wikipedia.org/wiki/OB "wikilink")を訪問することからそう呼ばれる。訪問相手が女性（[OG](https://ja.wikipedia.org/wiki/OG "wikilink")）なら**OG訪問**という。インターンシップ時と共に就職希望女性が、嘘や詐称の場合も含めた**OBを名乗る男性**に性的な言葉をかけられたり、体を触られたり、性的行為を要求されるなど被害を受ける**就活セクハラ**が社会問題になっている\[1\]\[2\]。

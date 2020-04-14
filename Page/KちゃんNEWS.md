@@ -1,4 +1,4 @@
-> この記事は[KNEWS](https://ja.wikipedia.org/wiki/KNEWS)から翻訳されています。
+> この記事は[KちゃんNEWS](https://ja.wikipedia.org/wiki/KちゃんNEWS)から翻訳されています。
 
 
 『**KちゃんNEWS**』（けいちゃんニュース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[文化放送](../Page/文化放送.md "wikilink")『[レコメン\!](../Page/レコメン!.md "wikilink")』内で、『**[NEWSのParty Time](https://ja.wikipedia.org/wiki/#NEWSのParty_Time "wikilink")**』の後継番組として2005年4月5日開始。現在は[日本時間の毎週水曜日](../Page/日本標準時.md "wikilink")0時から0時半の間に放送される。[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[小山慶一郎](../Page/小山慶一郎.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[OH!MY](https://ja.wikipedia.org/wiki/OH!MY)から翻訳されています。
+> この記事は[OH!MYコンブ](https://ja.wikipedia.org/wiki/OH!MYコンブ)から翻訳されています。
 
 
 『**OH\!MYコンブ**』（オー\!マイコンブ）は、原作：[秋元康](../Page/秋元康.md "wikilink")、漫画：[かみやたかひろ](../Page/かみやたかひろ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

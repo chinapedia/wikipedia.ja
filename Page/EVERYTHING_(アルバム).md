@@ -1,4 +1,4 @@
-> この記事は[EVERYTHING \(\)](https://ja.wikipedia.org/wiki/EVERYTHING_\(\))から翻訳されています。
+> この記事は[EVERYTHING \(アルバム\)](https://ja.wikipedia.org/wiki/EVERYTHING_\(アルバム\))から翻訳されています。
 
 
 『**EVERYTHING**』（エヴリシング）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の1枚目の[ミニ・アルバムである](../Page/コンパクト盤.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。

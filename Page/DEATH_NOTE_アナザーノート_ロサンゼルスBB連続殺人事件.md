@@ -1,4 +1,4 @@
-> この記事は[DEATH NOTE  BB](https://ja.wikipedia.org/wiki/DEATH_NOTE__BB)から翻訳されています。
+> この記事は[DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件](https://ja.wikipedia.org/wiki/DEATH_NOTE_アナザーノート_ロサンゼルスBB連続殺人事件)から翻訳されています。
 
 
 『**DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件**』（デスノート アナザーノート ロサンゼルスビービーれんぞくさつじんじけん）は、[2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[西尾維新](../Page/西尾維新.md "wikilink")の[小説](../Page/小説.md "wikilink")（[ノベライズ作品](../Page/小説化.md "wikilink")）。同じく西尾維新によるノベライズ作品『xxxHOLiC アナザーホリック ランドルト環エアロゾル』（原作は[CLAMP](../Page/CLAMP.md "wikilink")の漫画『[xxxHOLiC](../Page/XXXHOLiC.md "wikilink")』〈[講談社](../Page/講談社.md "wikilink")〉）と同時に刊行された。

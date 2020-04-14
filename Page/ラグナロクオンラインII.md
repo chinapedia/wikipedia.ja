@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ラグナロクオンラインII](https://ja.wikipedia.org/wiki/ラグナロクオンラインII)から翻訳されています。
 
 
 『**ラグナロクオンライン II**』（Ragnarok Online2:Legend of the Second、略称はRO2）は、韓国のゲーム会社GRAVITYによって開発中のオンラインゲーム (MMORPG) である。 一旦開発が中止になった同タイトルRagnarok Online 2: The Gate Of The Worldについてもここで取り上げる。

@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNSドキュメンタリー大賞](https://ja.wikipedia.org/wiki/FNSドキュメンタリー大賞)から翻訳されています。
 
 
 **『FNSドキュメンタリー大賞』**（エフエヌエス・ドキュメンタリーたいしょう）は、[FNN](../Page/フジニュースネットワーク.md "wikilink")/[FNS加盟](../Page/フジネットワーク.md "wikilink")28局が番組制作の質向上を目指すことを目的に[1992年](../Page/1992年.md "wikilink")から毎年行っている[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組の[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")である。

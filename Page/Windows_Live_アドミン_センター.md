@@ -1,4 +1,4 @@
-> この記事は[Windows Live  ](https://ja.wikipedia.org/wiki/Windows_Live__)から翻訳されています。
+> この記事は[Windows Live アドミン センター](https://ja.wikipedia.org/wiki/Windows_Live_アドミン_センター)から翻訳されています。
 
 
 **Windows Live アドミン センター**（ウィンドウズ ライブ ～）とは、独自の[ドメイン名](../Page/ドメイン名.md "wikilink")を利用し、無料[電子メール](../Page/電子メール.md "wikilink")[アカウント](../Page/アカウント.md "wikilink")を作成できる、[Windows Liveサービスの](../Page/Windows_Live.md "wikilink")1つであった。以前は「Windows Live Custom Domains」と呼ばれていた。サービス開始当初、Google Appsと競合していたが、劣勢であった。しかしながら、2012年12月にGoogle Appsが無料アカウントの新規受付を終了すると、にわかに注目を浴びるようになる。2014年4月、Google Apps同様、新規の登録は不可能になり、既存ユーザーには有料のOffice 365に移行するための案内通知が送られた。

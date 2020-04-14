@@ -1,4 +1,4 @@
-> この記事は[:GifuKenMap2006-03.png](https://ja.wikipedia.org/wiki/:GifuKenMap2006-03.png)から翻訳されています。
+> この記事は[ファイル:GifuKenMap2006-03.png](https://ja.wikipedia.org/wiki/ファイル:GifuKenMap2006-03.png)から翻訳されています。
 
 
 [岐阜県](../Page/岐阜県.md "wikilink")市町村境界図 (2006年3月-)

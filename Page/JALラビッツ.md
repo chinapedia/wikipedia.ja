@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALラビッツ](https://ja.wikipedia.org/wiki/JALラビッツ)から翻訳されています。
 
 
 **JALラビッツ**（ジャル・ラビッツ [アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")表記：JAL Rabbits）は、Wリーグ（[バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")）に所属していた女子[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。現在、Wリーグに所属する[新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")の前身となったチームである。

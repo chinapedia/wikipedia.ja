@@ -1,7 +1,7 @@
 > この記事は[SUGIURUMN](https://ja.wikipedia.org/wiki/SUGIURUMN)から翻訳されています。
 
 
-**SUGIURUMN**（スギウラム、[1970年](../Page/1970年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")・[DJである](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。元[Electric Glass Balloonの](../Page/Electric_Glass_Balloon.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。Electric Glass Balloon解散後、[クラブ](../Page/クラブ.md "wikilink")・[ハウスミュージックのDJとして活躍](../Page/ハウス_\(音楽\).md "wikilink")。本名は**杉浦英治**（すぎうら えいじ）。
+**SUGIURUMN**（スギウラム、[1970年](../Page/1970年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")・[DJである](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。元[Electric Glass Balloonの](../Page/Electric_Glass_Balloon.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")。Electric Glass Balloon解散後、クラブ・[ハウスミュージックのDJとして活躍](../Page/ハウス_\(音楽\).md "wikilink")。本名は杉浦英治（すぎうら えいじ）。
 
 ## ディスコグラフィー
 
@@ -786,7 +786,7 @@
         [New Orderのトリビュートアルバム](../Page/ニュー・オーダー.md "wikilink")。10曲目の「World in Motion」で参加。
   - Disney Age@D_100 Cafe （2001年10月17日）
       -
-        [ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")のカバーアルバム。3曲目の[わんわん物語](https://ja.wikipedia.org/wiki/わんわん物語 "wikilink")の「La La Lu」を「SUGIURUMN featuring [真城めぐみ](https://ja.wikipedia.org/wiki/真城めぐみ "wikilink")」で参加。
+        [ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")のカバーアルバム。3曲目の[わんわん物語](../Page/わんわん物語.md "wikilink")の「La La Lu」を「SUGIURUMN featuring [真城めぐみ](https://ja.wikipedia.org/wiki/真城めぐみ "wikilink")」で参加。
   - THANKS FOR LISTENING（2002年12月26日）
       -
         [シャカゾンビ](https://ja.wikipedia.org/wiki/シャカゾンビ "wikilink")のTSUTCHIEのソロアルバム。12曲目のTWO TEARS(featuring Megumi Mashiro)に作詞で参加。
@@ -904,6 +904,6 @@
   - [sugiurumnインタビュー - インタビュー : CINRA.NET／2010年3月10日掲載](http://www.cinra.net/interview/2010/03/10/000000)
   - [Sugiurumn インタビュー - iLOUD／2010年3月10日掲載](http://www.iloud.jp/interview/sugiurumn/)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  \[[http://sugiurumn.com/remixes/\]sugiurumnリミックスワークス](http://sugiurumn.com/remixes/%5Dsugiurumnリミックスワークス)

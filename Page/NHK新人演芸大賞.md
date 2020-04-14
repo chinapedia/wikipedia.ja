@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK新人演芸大賞](https://ja.wikipedia.org/wiki/NHK新人演芸大賞)から翻訳されています。
 
 
 **NHK新人演芸大賞**（エヌエイチケーしんじんえんげいたいしょう）は、[NHK主催で行われる](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、若手の[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")と[落語家](../Page/落語家.md "wikilink")の登竜門的コンクールの名称。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wけんじ](https://ja.wikipedia.org/wiki/Wけんじ)から翻訳されています。
 
 
 **Wけんじ**（ダブルけんじ、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[1月7日](../Page/1月7日.md "wikilink")）は、[東けんじ](../Page/東けんじ.md "wikilink")、[宮城けんじ](../Page/宮城けんじ.md "wikilink")による日本の[漫才](../Page/漫才.md "wikilink")コンビ。通称「ダブケン」。師匠は東京漫才の始祖といわれる「[東喜代駒・駒千代](https://ja.wikipedia.org/wiki/東喜代駒・駒千代 "wikilink")」。
@@ -29,7 +29,7 @@
 
 東は大の酒好き、宮城は大の博打好きで、舞台を降りると東は飲み屋へ、宮城は雀荘へと向かった。
 
-[浅草松竹演芸場](../Page/浅草松竹演芸場.md "wikilink")には[漫才協団幹部として定席にも出演](../Page/漫才協会.md "wikilink")。また、東京演芸人の最高峰とされた日比谷・東宝演芸場の[東宝名人会](../Page/東宝名人会.md "wikilink")にも多数出演した。その反面、[落語家](../Page/落語家.md "wikilink")の団体には所属していなかったため、[寄席](../Page/寄席.md "wikilink")には殆ど出演しなかった。
+[浅草松竹演芸場](../Page/浅草松竹演芸場.md "wikilink")には[漫才協団幹部として定席にも出演](../Page/漫才協会.md "wikilink")。1980年4月上席より[落語芸術協会](../Page/落語芸術協会.md "wikilink")に入会\[1\]\[2\]。また、東京演芸人の最高峰とされた日比谷・東宝演芸場の[東宝名人会](../Page/東宝名人会.md "wikilink")にも多数出演した。
 
 コンビ結成40周年を目前にして東が死去したことによりコンビ解消。
 
@@ -156,4 +156,9 @@ A面「ダブ子ちゃん」／B面「おしかった」（作詞：丹古晴己
 
 東京漫才傑作集 (2005/03/23発売）コロムビアミュージックエンタテインメント
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")
+## 脚注
+
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:漫才](https://ja.wikipedia.org/wiki/Category:漫才 "wikilink")
+
+1.
+2.

@@ -1,4 +1,4 @@
-> この記事は[RuLiLuRa](https://ja.wikipedia.org/wiki/RuLiLuRa)から翻訳されています。
+> この記事は[幻奏戦記RuLiLuRa](https://ja.wikipedia.org/wiki/幻奏戦記RuLiLuRa)から翻訳されています。
 
 
 『**幻奏戦記Ru/Li/Lu/Ra**』（げんそうせんきルリルラ）は、『[ゲームぎゃざ](../Page/ゲームぎゃざ.md "wikilink")』で[2002年](../Page/2002年.md "wikilink")1月号から[2003年](../Page/2003年.md "wikilink")3月号まで隔月で6回に渡り連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。並びに、読者参加企画を原作とする[ラジオ番組](../Page/ラジオ番組.md "wikilink")、[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")及び[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")。

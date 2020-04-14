@@ -1,13 +1,16 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[日本IBMビッグブルー](https://ja.wikipedia.org/wiki/日本IBMビッグブルー)から翻訳されています。
 
 
 **日本IBMビッグブルー**（にほんアイビーエム -、**IBM Big Blue**）は、[トップイーストリーグ](../Page/トップイーストリーグ.md "wikilink")Div.1に参加する[日本IBMの](../Page/日本アイ・ビー・エム.md "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")チーム。
 
 練習グラウンドは[千葉県](../Page/千葉県.md "wikilink")[八千代市](https://ja.wikipedia.org/wiki/八千代市 "wikilink")の日本[IBM](../Page/IBM.md "wikilink")八千代台グラウンド。
 
+2019年からは日本IBMからチーム運営権を株式会社SPSへ譲渡し、同社が運営を行っている。
+
 ## 概要
 
   - 愛称のBBBは**Big Blue Beat**の略とされている。
+  - 2019年からは**BIG BLUES**とチーム名を変更している。
 
 ## 歴史
 

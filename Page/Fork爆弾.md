@@ -1,4 +1,4 @@
-> この記事は[Fork](https://ja.wikipedia.org/wiki/Fork)から翻訳されています。
+> この記事は[Fork爆弾](https://ja.wikipedia.org/wiki/Fork爆弾)から翻訳されています。
 
 
 **Fork爆弾**（フォークばくだん）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")システムへの[DoS攻撃](../Page/DoS攻撃.md "wikilink")の一種で、新たなプロセスを生成する[fork](https://ja.wikipedia.org/wiki/fork "wikilink")機能を使ったものである\[1\]。Fork爆弾は[ワームや](../Page/ワーム_\(コンピュータ\).md "wikilink")[ウイルスのようにコンピュータからコンピュータへ広がることはない](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")。これは、コンピュータ上で同時に実行可能な[プログラム数あるいは](../Page/プログラム_\(コンピュータ\).md "wikilink")[プロセス](../Page/プロセス.md "wikilink")数に制限があるという前提に依存したものである\[2\]。このような自己複製プログラムを *wabbit*、*bacteria*、*rabbit programs* などと呼ぶ。wabbit は単に自己複製するだけでなく、悪意ある副作用を持つようプログラムすることもできる\[3\]。

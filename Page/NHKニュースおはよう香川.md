@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースおはよう香川](https://ja.wikipedia.org/wiki/NHKニュースおはよう香川)から翻訳されています。
 
 
 『**NHKニュースおはようかがわ**』（エヌエイチケイニュースおはようかがわ）は、[NHK高松放送局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")が『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』の中で平日7時台に放送している[ローカルニュース番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。

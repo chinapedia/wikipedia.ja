@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[CMフィラー](https://ja.wikipedia.org/wiki/CMフィラー)から翻訳されています。
 
 
 **CMフィラー**（シーエムフィラー）は、[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")で[CMが流れるはずの時刻に](../Page/コマーシャルメッセージ.md "wikilink")[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")として流れる[音楽](../Page/音楽.md "wikilink")である。
@@ -21,7 +21,7 @@ CM以外にも、全国ネット番組内に[ローカル差し替え枠](https:
 
 [ニッポン放送](../Page/ニッポン放送.md "wikilink")の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")を始めとする生ワイド番組では、CM枠より10～15秒程長くフィラーを流してそのままフェードアウト。番組ジングルを流すなどを行い、番組が始まっていく。そのため、ニッポン放送でもちらっと聞こえる。ニッポン放送ではローカルスポンサーを読んでからフェードインさせるための時間でもある。（[ミュ〜コミ+では曜日別の筆頭スポンサーを読み上げる](https://ja.wikipedia.org/wiki/ミュ〜コミ+プラス "wikilink")。など）
 
-ニッポン放送の[テープネット](../Page/テープネット.md "wikilink")番組や、その他のキー局（[文化放送](../Page/文化放送.md "wikilink")、[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")、[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）の番組では、CM枠が終わる1～3秒前ギリギリでフィラーをフェードアウトさせている。
+ニッポン放送の[テープネット](../Page/テープネット.md "wikilink")番組や、その他のキー局（[文化放送](../Page/文化放送.md "wikilink")、[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")、[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）の番組では、CM枠が終わる1～3秒前ギリギリでフィラーをフェードアウトさせている。
 
 JFNCの番組では、番組内でかけた曲がそのままCMフィラーとなる番組もある。
 

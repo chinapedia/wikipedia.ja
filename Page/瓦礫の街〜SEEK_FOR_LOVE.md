@@ -1,4 +1,4 @@
-> この記事は[SEEK FOR LOVE](https://ja.wikipedia.org/wiki/SEEK_FOR_LOVE)から翻訳されています。
+> この記事は[瓦礫の街〜SEEK FOR LOVE](https://ja.wikipedia.org/wiki/瓦礫の街〜SEEK_FOR_LOVE)から翻訳されています。
 
 
 『**瓦礫の街〜SEEK FOR LOVE**』（がれきのまち シーク・フォー・ラブ）は[GRASS VALLEYの](../Page/グラスバレー.md "wikilink")5thアルバム。

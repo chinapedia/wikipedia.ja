@@ -1,4 +1,4 @@
-> この記事は[ \(DEEN\&\)](https://ja.wikipedia.org/wiki/_\(DEEN\&\))から翻訳されています。
+> この記事は[夢で逢えたら \(DEEN\&原田知世の曲\)](https://ja.wikipedia.org/wiki/夢で逢えたら_\(DEEN\&原田知世の曲\))から翻訳されています。
 
 
 「**夢で逢えたら**」（ゆめであえたら）は、[DEEN](../Page/DEEN.md "wikilink")&[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")のシングル。DEENとしては23枚目、原田知世としては27枚目のシングルである。 　

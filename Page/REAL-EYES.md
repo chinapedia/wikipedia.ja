@@ -70,7 +70,7 @@
 <!-- end list -->
 
   -
-    日曜（土曜深夜）0:00-1:00「**SAPPORO REAL-EYES**」（サッポロ・リアライズ） DJ:[テツヤ](https://ja.wikipedia.org/wiki/テツヤ "wikilink")
+    日曜（土曜深夜）0:00-1:00「**SAPPORO REAL-EYES**」（サッポロ・リアライズ） DJ:[テツヤ](https://ja.wikipedia.org/wiki/テツヤ_\(ディスクジョッキー\) "wikilink")
       -
         2003年から2008年3月まではサトミがDJを担当。
 

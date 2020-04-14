@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[遊☆戯☆王R](https://ja.wikipedia.org/wiki/遊☆戯☆王R)から翻訳されています。
 
 
 『**遊☆戯☆王R**』（ゆうぎおうアール）は原案・監修：[高橋和希](../Page/高橋和希.md "wikilink")、漫画：[伊藤彰による](https://ja.wikipedia.org/wiki/伊藤彰_\(漫画家\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』にて2004年6月号から2008年2月号まで連載された。「R」は「Reverse（リバース）」の意。

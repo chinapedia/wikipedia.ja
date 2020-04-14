@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKオシエク](https://ja.wikipedia.org/wiki/NKオシエク)から翻訳されています。
 
 
 **ノゴメトニ・クルブ・オシエク**（**Nogometni klub Osijek**)は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[オシエク](../Page/オシエク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

@@ -1,4 +1,4 @@
-> この記事は[Over Drive \(JUDY AND MARY\)](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARY\))から翻訳されています。
+> この記事は[Over Drive \(JUDY AND MARYの曲\)](https://ja.wikipedia.org/wiki/Over_Drive_\(JUDY_AND_MARYの曲\))から翻訳されています。
 
 
 「**Over Drive**」（オーヴァー・ドライヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JRUF42A](https://ja.wikipedia.org/wiki/JRUF42A)から翻訳されています。
+> この記事は[JR貨物UF42A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UF42A形コンテナ)から翻訳されています。
 
 
 **UF42A形コンテナ**（UF42Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している31[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[冷凍コンテナ](https://ja.wikipedia.org/wiki/冷凍コンテナ "wikilink")）である。

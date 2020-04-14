@@ -1,4 +1,4 @@
-> この記事は[Twelve](https://ja.wikipedia.org/wiki/Twelve)から翻訳されています。
+> この記事は[Twelve〜戦国封神伝〜](https://ja.wikipedia.org/wiki/Twelve〜戦国封神伝〜)から翻訳されています。
 
 
 『**Twelve〜戦国封神伝〜**』（トゥエルブ〜せんごくほうしんでん〜）とは、2005年8月25日に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された、[PlayStation Portable向けの](../Page/PlayStation_Portable.md "wikilink")[シミュレーションロールプレイングゲーム](../Page/シミュレーションロールプレイングゲーム.md "wikilink")である。廉価版が2006年8月10日に発売。

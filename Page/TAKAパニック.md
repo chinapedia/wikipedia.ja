@@ -1,4 +1,4 @@
-> この記事は[TAKA](https://ja.wikipedia.org/wiki/TAKA)から翻訳されています。
+> この記事は[TAKAパニック](https://ja.wikipedia.org/wiki/TAKAパニック)から翻訳されています。
 
 
 **TAKAパニック**（タカパニック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[KAIENTAI DOJOの主催する大会である](../Page/KAIENTAI_DOJO.md "wikilink")。

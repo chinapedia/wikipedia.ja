@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[やったるJ](https://ja.wikipedia.org/wiki/やったるJ)から翻訳されています。
 
 
 『**やったるJ**』（やったるジェイ）は、[1999年](../Page/1999年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[水曜日](../Page/水曜日.md "wikilink")20:00-20:54に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

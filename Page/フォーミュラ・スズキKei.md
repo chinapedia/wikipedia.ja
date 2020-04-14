@@ -1,4 +1,4 @@
-> この記事は[Kei](https://ja.wikipedia.org/wiki/Kei)から翻訳されています。
+> この記事は[フォーミュラ・スズキKei](https://ja.wikipedia.org/wiki/フォーミュラ・スズキKei)から翻訳されています。
 
 
 **フォーミュラ・スズキKei**（**ふぉーみゅら・すずきけい**）とは、自動車メーカーの[スズキが製造](../Page/スズキ_\(企業\).md "wikilink")・販売していた[レーシングカー](../Page/レーシングカー.md "wikilink")（競技専用自動車）の車種名。

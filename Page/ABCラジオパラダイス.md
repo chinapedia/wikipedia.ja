@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCラジオパラダイス](https://ja.wikipedia.org/wiki/ABCラジオパラダイス)から翻訳されています。
 
 
 **ABCラジオパラダイス**（エービーシーラジオパラダイス）は、[大阪府](../Page/大阪府.md "wikilink")の[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1992年](../Page/1992年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで放送していた、若者向けの[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

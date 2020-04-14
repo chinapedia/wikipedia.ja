@@ -1,4 +1,4 @@
-> この記事は[!DASH!!](https://ja.wikipedia.org/wiki/!DASH!!)から翻訳されています。
+> この記事は[鉄骨!DASH!!](https://ja.wikipedia.org/wiki/鉄骨!DASH!!)から翻訳されています。
 
 
 『**鉄骨\!DASH\!\!**』（てっこつダッシュ）とは[木更津ケーブルテレビ（現・ジェイコム千葉）でかつて放送されていた](../Page/ジェイコム千葉.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）の[パロディ](../Page/パロディ.md "wikilink")的番組。

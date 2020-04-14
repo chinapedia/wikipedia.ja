@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBC偵察車](https://ja.wikipedia.org/wiki/NBC偵察車)から翻訳されています。
 
 
 **NBC偵察車**（エヌビーシーていさつしゃ）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[NBC](../Page/規制が議論されている兵器.md "wikilink")（核・生物・化学）[兵器](../Page/兵器.md "wikilink")対処用の[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")（[NBC偵察車両](../Page/NBC偵察車両.md "wikilink")）である。[小松製作所](../Page/小松製作所.md "wikilink")製造。

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDログロニェス](https://ja.wikipedia.org/wiki/CDログロニェス)から翻訳されています。
 
 
 **CDログロニェス**(Club Deportivo Logroñes)は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[ラ・リオハ州](../Page/ラ・リオハ州_\(スペイン\).md "wikilink")[ログローニョ](../Page/ログローニョ.md "wikilink")を本拠地としていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2009年に財政難のため解散した。

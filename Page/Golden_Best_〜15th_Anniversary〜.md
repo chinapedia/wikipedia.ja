@@ -1,4 +1,4 @@
-> この記事は[Golden Best 15th Anniversary](https://ja.wikipedia.org/wiki/Golden_Best_15th_Anniversary)から翻訳されています。
+> この記事は[Golden Best 〜15th Anniversary〜](https://ja.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜)から翻訳されています。
 
 
 『**Golden Best 〜15th Anniversary〜**』（ゴールデン・ベスト フィフティーンス・アニヴァーサリー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")は初回限定盤の『**AQUA 〜Summer〜**』JBCJ-9013〜14、『**CRYSTAL 〜Autumn to Winter〜**』JBCJ-9015〜16、『**DREAM 〜Spring〜**』JBCJ-9017〜18、通常盤のCD2枚組 JBCJ-9019～20。
@@ -12,7 +12,7 @@
   - 初回特典として、今までのTV SPOT（[CM集](../Page/コマーシャルメッセージ.md "wikilink")）から厳選した映像を収録した[DVDを同梱](../Page/DVD-Video.md "wikilink")。DVDの内容は3種類あり、1パッケージに1種が封入されている。なお価格に大きな差はなく、初回盤は￥3,500で通常盤は￥3,200である。
   - パッケージには今までのZARDの歴史を坂井泉水のコメント付で書いたブックレット**「Golden History 1991〜2006」**が封入されている。このブックレットの2002〜2006の下の字が「2001」となっているが、正しくは「2002」であり、また次のページの「2002」の文字は「2003」の誤りである（[お詫びとお知らせ](http://web.archive.org/web/20070101040814/http://wezard.net/news.html#wabi)参照・なお、再生産された初回盤では修正されている）。ブックレットには作品別の累計売上も掲載されているが、ほぼ全ての作品が出荷ベースでの売上枚数となっている。
   - 本アルバムに収録されている27曲のうち、[2016年](../Page/2016年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に発売されたベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』には、「**[もっと近くで君の横顔見ていたい](../Page/もっと近くで君の横顔見ていたい.md "wikilink")**」「**[今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")**」「**[ハートに火をつけて](../Page/ハートに火をつけて_\(ZARDの曲\).md "wikilink")**」を除く24曲が収録された。
-  - 本作収録の42ndシングル「ハートに火をつけて」が収録されているのは、この作品だけである。
+  - なお、42ndシングル「ハートに火をつけて」が収録されているのは今作のみである。
 
 ## 収録曲
 

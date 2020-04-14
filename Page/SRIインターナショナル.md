@@ -1,4 +1,4 @@
-> この記事は[SRI](https://ja.wikipedia.org/wiki/SRI)から翻訳されています。
+> この記事は[SRIインターナショナル](https://ja.wikipedia.org/wiki/SRIインターナショナル)から翻訳されています。
 
 
 **SRIインターナショナル**（SRI International）は、世界で最も大きな研究機関のひとつである。[1946年](../Page/1946年.md "wikilink")、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")により、**スタンフォード研究所**（Stanford Research Institute）の名で地域の経済発展を支援する目的で設置されたものである。

@@ -1,4 +1,4 @@
-> この記事は[ARIA](https://ja.wikipedia.org/wiki/ARIA)から翻訳されています。
+> この記事は[ARIAの登場人物](https://ja.wikipedia.org/wiki/ARIAの登場人物)から翻訳されています。
 
 
 **ARIAの登場人物**（アリアのとうじょうじんぶつ）では、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[ARIA](../Page/ARIA_\(漫画\).md "wikilink")』に登場する[キャラクター](../Page/キャラクター.md "wikilink")について説明する。本作の特徴として主要な登場人物の[姓](../Page/姓.md "wikilink")あるいは[名前](../Page/名前.md "wikilink")が、ごく一部を除いて“あ”で始まっている。

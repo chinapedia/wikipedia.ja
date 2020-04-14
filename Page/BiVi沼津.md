@@ -1,4 +1,4 @@
-> この記事は[BiVi](https://ja.wikipedia.org/wiki/BiVi)から翻訳されています。
+> この記事は[BiVi沼津](https://ja.wikipedia.org/wiki/BiVi沼津)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:BiVi_Numazu200612.jpg "wikilink")  **BiVi沼津**（ビビぬまづ）は[静岡県](../Page/静岡県.md "wikilink")[沼津市](../Page/沼津市.md "wikilink")の[沼津駅](https://ja.wikipedia.org/wiki/沼津駅 "wikilink")北口に隣接する地上4階の[複合商業施設](../Page/複合商業施設.md "wikilink")である。

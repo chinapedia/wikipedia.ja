@@ -1,4 +1,4 @@
-> この記事は[Kiss \(\)](https://ja.wikipedia.org/wiki/Kiss_\(\))から翻訳されています。
+> この記事は[Kiss \(倉木麻衣の曲\)](https://ja.wikipedia.org/wiki/Kiss_\(倉木麻衣の曲\))から翻訳されています。
 
 
 「**Kiss**」（キス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。倉木の16作目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に[GIZA Studioから発売された](https://ja.wikipedia.org/wiki/GIZA_Studio "wikilink")。シングル盤の[規格品番](../Page/規格品番.md "wikilink")はGZCA-7016。

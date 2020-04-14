@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[日本平テレビ・FM放送所](https://ja.wikipedia.org/wiki/日本平テレビ・FM放送所)から翻訳されています。
 
 
 **日本平テレビ・FM放送所**（にほんだいらテレビ・エフエムほうそうじょ）は、[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")草薙の[日本平](../Page/日本平.md "wikilink")に置かれている放送送信所である。

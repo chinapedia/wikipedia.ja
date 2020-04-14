@@ -1,4 +1,4 @@
-> この記事は[SS1](https://ja.wikipedia.org/wiki/SS1)から翻訳されています。
+> この記事は[スワロー・サイドカー・SS1](https://ja.wikipedia.org/wiki/スワロー・サイドカー・SS1)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SS1_coupé_1933_Coventry_Transport_Museum_\(3855168220\).jpg "wikilink") **SS1**は[スワロー・サイドカー・カンパニー](../Page/スワロー・サイドカー・カンパニー.md "wikilink")（[SSカーズ](../Page/SSカーズ.md "wikilink")を経て現[ジャガー](../Page/ジャガー_\(自動車\).md "wikilink")）が[SS2と並び初めて製造した自動車である](https://ja.wikipedia.org/wiki/スワロー・サイドカー・SS2 "wikilink")。

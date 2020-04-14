@@ -1,4 +1,4 @@
-> この記事は[NEXT ONE](https://ja.wikipedia.org/wiki/NEXT_ONE)から翻訳されています。
+> この記事は[梶原しげるのNEXT ONE](https://ja.wikipedia.org/wiki/梶原しげるのNEXT_ONE)から翻訳されています。
 
 
 **梶原しげるのNEXT ONE**（かじわらしげるのネクスト・ワン）は[JFNで日曜朝](../Page/全国FM放送協議会.md "wikilink")6:00から放送されている番組で、2006年10月1日にスタートした。略称「**ネクイチ**」。

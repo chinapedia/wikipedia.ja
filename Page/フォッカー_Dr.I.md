@@ -1,4 +1,4 @@
-> この記事は[ Dr.I](https://ja.wikipedia.org/wiki/_Dr.I)から翻訳されています。
+> この記事は[フォッカー Dr.I](https://ja.wikipedia.org/wiki/フォッカー_Dr.I)から翻訳されています。
 
 
 {{ Infobox 航空機

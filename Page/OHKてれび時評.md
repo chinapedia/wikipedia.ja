@@ -1,4 +1,4 @@
-> この記事は[OHK](https://ja.wikipedia.org/wiki/OHK)から翻訳されています。
+> この記事は[OHKてれび時評](https://ja.wikipedia.org/wiki/OHKてれび時評)から翻訳されています。
 
 
 **OHKてれび時評（オー・エイチ・ケー てれびじひょう）**は、[OHK岡山放送で放送されている](../Page/岡山放送.md "wikilink")[自己批評･検証番組](../Page/自己批評番組.md "wikilink")。毎月、最終日曜日の早朝5:20 - 5:30に本放送、翌月曜深夜に[再放送](../Page/再放送.md "wikilink")されている（2009年より）。

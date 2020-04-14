@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 東南西北](https://ja.wikipedia.org/wiki/THE_東南西北)から翻訳されています。
 
 
 **The東南西北**（ザ・とんなんしゃーぺー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")[尾道市](../Page/尾道市.md "wikilink")出身。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[CBSソニーよりデビュー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[1991年](../Page/1991年.md "wikilink")に解散。

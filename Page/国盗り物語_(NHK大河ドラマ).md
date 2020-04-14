@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[国盗り物語 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/国盗り物語_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**国盗り物語**』（くにとりものがたり）は、[1973年](../Page/1973年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月23日](../Page/12月23日.md "wikilink")に放送されたNHK[大河ドラマ](../Page/大河ドラマ.md "wikilink")第11作。全51回。

@@ -1,4 +1,4 @@
-> この記事は[FZ6](https://ja.wikipedia.org/wiki/FZ6)から翻訳されています。
+> この記事は[ヤマハ・FZ6](https://ja.wikipedia.org/wiki/ヤマハ・FZ6)から翻訳されています。
 
 
 **ヤマハ・FZ6**（エフゼットシックス）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が日本国外市場向けに製造している600ccクラスの[オートバイ](../Page/オートバイ.md "wikilink")である。

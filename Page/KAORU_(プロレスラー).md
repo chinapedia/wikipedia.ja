@@ -1,4 +1,4 @@
-> この記事は[KAORU \(\)](https://ja.wikipedia.org/wiki/KAORU_\(\))から翻訳されています。
+> この記事は[KAORU \(プロレスラー\)](https://ja.wikipedia.org/wiki/KAORU_\(プロレスラー\))から翻訳されています。
 
 
 **KAORU**（カオル、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**前田 薫**（まえだ かおる）。
@@ -306,7 +306,7 @@
 
 ## 外部リンク
 
-  - [KAORUのハードコアな日々](http://ameblo.jp/kaoru619/)
+  - [KAORUのハードコアな日々](https://ameblo.jp/kaoru619/)
 
   -
 [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:全日本女子プロレスに所属した女子プロレスラー](https://ja.wikipedia.org/wiki/Category:全日本女子プロレスに所属した女子プロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:ユニバーサル・プロレスリングに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:ユニバーサル・プロレスリングに所属したプロレスラー "wikilink") [Category:GAEA_JAPANに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:GAEA_JAPANに所属したプロレスラー "wikilink") [Category:Marvelous](https://ja.wikipedia.org/wiki/Category:Marvelous "wikilink") [Category:OZアカデミー](https://ja.wikipedia.org/wiki/Category:OZアカデミー "wikilink") [Category:ディアナ](https://ja.wikipedia.org/wiki/Category:ディアナ "wikilink") [Category:長崎県出身の人物](https://ja.wikipedia.org/wiki/Category:長崎県出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

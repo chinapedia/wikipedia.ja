@@ -1,4 +1,4 @@
-> この記事は[NJS \(\)](https://ja.wikipedia.org/wiki/NJS_\(\))から翻訳されています。
+> この記事は[NJS \(企業\)](https://ja.wikipedia.org/wiki/NJS_\(企業\))から翻訳されています。
 
 
 **株式会社 NJS** は、[東京都](../Page/東京都.md "wikilink")[港区芝浦に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、[上水道](https://ja.wikipedia.org/wiki/上水道 "wikilink")・[下水道](../Page/下水道.md "wikilink")に関するコンサルタント業務を主体とし、関連ソフトウェアの開発・販売、学生向けマンションの賃貸にも進出している。

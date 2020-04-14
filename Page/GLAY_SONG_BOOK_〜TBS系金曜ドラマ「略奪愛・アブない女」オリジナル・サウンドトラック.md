@@ -1,4 +1,4 @@
-> この記事は[GLAY SONG BOOK TBS](https://ja.wikipedia.org/wiki/GLAY_SONG_BOOK_TBS)から翻訳されています。
+> この記事は[GLAY SONG BOOK 〜TBS系金曜ドラマ「略奪愛・アブない女」オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/GLAY_SONG_BOOK_〜TBS系金曜ドラマ「略奪愛・アブない女」オリジナル・サウンドトラック)から翻訳されています。
 
 
 **GLAY SONG BOOK 〜TBS系金曜ドラマ「略奪愛・アブない女」オリジナル・サウンドトラック**（グレイ・ソング・ブック ティービーエスけい きんようドラマ「りゃくだつあい・アブないおんな」オリジナル・サウンドトラック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")の初のサウンドトラックである。
@@ -25,7 +25,7 @@
       - 編曲：斎藤ネコ
 4.  **[HOWEVER (回想のテーマ)](../Page/HOWEVER.md "wikilink")**
       - 編曲：TAKURO・柏原利勝
-5.  '''[都忘れ (orchestra)'''](../Page/BELOVED.md "wikilink")
+5.  '''[都忘れ (orchestra)'''](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")
       - 編曲：斎藤ネコ
 6.  **[Yes,Summerdays (orchestra)](../Page/Yes,_Summerdays.md "wikilink")**
       - 編曲：斎藤ネコ

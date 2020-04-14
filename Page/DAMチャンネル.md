@@ -1,4 +1,4 @@
-> この記事は[DAM](https://ja.wikipedia.org/wiki/DAM)から翻訳されています。
+> この記事は[DAMチャンネル](https://ja.wikipedia.org/wiki/DAMチャンネル)から翻訳されています。
 
 
 『**DAM CHANNEL**』（ダムチャンネル）は、[第一興商](../Page/第一興商.md "wikilink")が運営する[通信カラオケ](../Page/通信カラオケ.md "wikilink")「[DAM](../Page/DAM_\(カラオケ\).md "wikilink")」の曲間（カラオケが演奏されない時に再生される画面\[1\]）を利用して情報コンテンツを配信する[音楽番組](../Page/音楽番組.md "wikilink")。
@@ -59,7 +59,8 @@
   - 13代目 - [高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")（2016年4月 - [2017年](../Page/2017年.md "wikilink")3月）\[32\]
   - 14代目 - [Dream Ami](../Page/Dream_Ami.md "wikilink")（2017年4月 - 2018年3月）\[33\]
   - 15代目 - [小島梨里杏](https://ja.wikipedia.org/wiki/小島梨里杏 "wikilink")（2018年4月 - 2019年3月）\[34\]
-  - 16代目 - [伊原六花](https://ja.wikipedia.org/wiki/伊原六花 "wikilink")（2019年4月 - ）\[35\]
+  - 16代目 - [伊原六花](https://ja.wikipedia.org/wiki/伊原六花 "wikilink")（2019年4月 - 2020年3月）\[35\]
+  - 17代目 - [白石聖](https://ja.wikipedia.org/wiki/白石聖 "wikilink")（2020年4月 -）
 
 ### DAM CHANNEL演歌
 

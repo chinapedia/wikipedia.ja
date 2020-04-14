@@ -1,4 +1,4 @@
-> この記事は[Singleton ](https://ja.wikipedia.org/wiki/Singleton_)から翻訳されています。
+> この記事は[Singleton パターン](https://ja.wikipedia.org/wiki/Singleton_パターン)から翻訳されています。
 
 
 **Singleton パターン**（シングルトン・パターン）とは、[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の[コンピュータプログラムにおける](../Page/プログラム_\(コンピュータ\).md "wikilink")、[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 4人のギャングたち) によって定義された。Singleton パターンとは、その[クラスの](../Page/クラス_\(コンピュータ\).md "wikilink")[インスタンス](../Page/インスタンス.md "wikilink")が1つしか生成されないことを保証するデザインパターンのことである。[ロケール](https://ja.wikipedia.org/wiki/ロケール "wikilink")や[ルック・アンド・フィール](../Page/ルック・アンド・フィール.md "wikilink")など、絶対にアプリケーション全体で統一しなければならない仕組みの実装に使用される\[1\]。
@@ -179,11 +179,7 @@ public class FooMultiton {
 
 ## 脚注
 
-<div class="references-small">
-
 <references/>
-
-</div>
 
 ## 関連項目
 

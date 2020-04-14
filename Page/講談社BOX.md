@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[講談社BOX](https://ja.wikipedia.org/wiki/講談社BOX)から翻訳されています。
 
 
 **講談社BOX**（こうだんしゃボックス）は、[講談社](../Page/講談社.md "wikilink")が[2006年](../Page/2006年.md "wikilink")11月から発行している書籍[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")、及び講談社の部署名。[小説](../Page/小説.md "wikilink")のみにとどまらず、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[批評](https://ja.wikipedia.org/wiki/批評 "wikilink")書も刊行しており、「ハイブリッド・レーベル」を標榜している。銀の箱に入れられた装丁が特徴だが、2010年11月からは[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")“Powers”受賞作の専用レーベル「Powers BOX」が異なる装丁で並行して刊行されている。

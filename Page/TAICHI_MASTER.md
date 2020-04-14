@@ -153,27 +153,16 @@
 ## 関連項目
 
   - [RADICAL FREAKS](../Page/RADICAL_FREAKS.md "wikilink")
-
-:\*[MCU](../Page/MCU_\(ラッパー\).md "wikilink")
-
-:\*[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")
-
+      - [MCU](../Page/MCU_\(ラッパー\).md "wikilink")
+      - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")
   - [BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink")
-
-:\*[KREVA](../Page/KREVA.md "wikilink")
-
+      - [KREVA](../Page/KREVA.md "wikilink")
   - [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")
-
-:\*[LITTLE](../Page/LITTLE.md "wikilink")
-
+      - [LITTLE](../Page/LITTLE.md "wikilink")
   - [アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink")
-
-:\*[TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink")
-
-:\*[WADA](https://ja.wikipedia.org/wiki/WADA "wikilink")
-
-:\*[DJ SUZUKI](https://ja.wikipedia.org/wiki/DJ_SUZUKI "wikilink")
-
+      - [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink")
+      - [WADA](https://ja.wikipedia.org/wiki/WADA "wikilink")
+      - [DJ SUZUKI](https://ja.wikipedia.org/wiki/DJ_SUZUKI "wikilink")
   - [MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")
   - [おでんくん](../Page/おでんくん.md "wikilink")
   - [出ましたっ\!パワパフガールズZ](https://ja.wikipedia.org/wiki/出ましたっ!パワパフガールズZ "wikilink")
@@ -182,4 +171,4 @@
 
   - [公式サイト](http://www.taichimaster.jp/)
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

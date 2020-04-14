@@ -1,4 +1,4 @@
-> この記事は[GALAXY ANGEL II ](https://ja.wikipedia.org/wiki/GALAXY_ANGEL_II_)から翻訳されています。
+> この記事は[GALAXY ANGEL II キャラクターファイル](https://ja.wikipedia.org/wiki/GALAXY_ANGEL_II_キャラクターファイル)から翻訳されています。
 
 
 **GALAXY ANGEL II キャラクターファイル**（ギャラクシーエンジェル ツー キャラクターファイル）は[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリースされた各キャラクターのシングルである。

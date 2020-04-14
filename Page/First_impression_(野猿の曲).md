@@ -1,4 +1,4 @@
-> この記事は[First impression \(\)](https://ja.wikipedia.org/wiki/First_impression_\(\))から翻訳されています。
+> この記事は[First impression \(野猿の曲\)](https://ja.wikipedia.org/wiki/First_impression_\(野猿の曲\))から翻訳されています。
 
 
 「**First impression**」（ファースト・インプレッション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手グループ、野猿 feat.[CAの](https://ja.wikipedia.org/wiki/荒井千佳 "wikilink")[シングル](../Page/シングル.md "wikilink")。｢[野猿](../Page/野猿.md "wikilink")｣としては、7枚目のシングルとなる。[2000年](../Page/2000年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")発売。

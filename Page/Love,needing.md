@@ -5,10 +5,10 @@
 
 ## 概要
 
-  - 自身初のセルフプロデュース作品となった。
+  - 初のセルフプロデュース作品となった。
   - カップリング曲の「[明日へ架ける橋](../Page/明日へ架ける橋.md "wikilink") 〜ballad ver.〜」は2004年の『[第55回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")』で歌われた。
-  - 本作は編曲者に倉木としては初である[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")の[麻井寛史](../Page/麻井寛史.md "wikilink")を起用している。
-  - シングルはこれまで全て薄型のマキシケースであったが、今作は初めてジュエルケースが使われた。
+  - 本作は編曲者に、倉木としては初である[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")の[麻井寛史](../Page/麻井寛史.md "wikilink")を起用している。
+  - シングルはそれまで全て薄型のマキシケースであったが、本作は初めてジュエルケースが使われた。
 
 ## 収録曲
 

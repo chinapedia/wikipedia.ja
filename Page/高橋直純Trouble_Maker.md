@@ -1,4 +1,4 @@
-> この記事は[Trouble Maker](https://ja.wikipedia.org/wiki/Trouble_Maker)から翻訳されています。
+> この記事は[高橋直純Trouble Maker](https://ja.wikipedia.org/wiki/高橋直純Trouble_Maker)から翻訳されています。
 
 
 **高橋直純のトラ×ブルメーカー(高橋直純 Trouble Maker)**（たかはしなおずみのとらぶるめーかー）は、[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")にて配信されているアニメ系ラジオ番組。

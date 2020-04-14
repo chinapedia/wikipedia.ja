@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCロートヴァイス・エアフルト](https://ja.wikipedia.org/wiki/FCロートヴァイス・エアフルト)から翻訳されています。
 
 
 **FCロートヴァイス・エアフルト**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の中央部、[テューリンゲン州](../Page/テューリンゲン州.md "wikilink")の州都[エアフルト](https://ja.wikipedia.org/wiki/エアフルト "wikilink")を本拠地とするサッカークラブである。

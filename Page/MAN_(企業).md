@@ -1,4 +1,4 @@
-> この記事は[MAN \(\)](https://ja.wikipedia.org/wiki/MAN_\(\))から翻訳されています。
+> この記事は[MAN \(企業\)](https://ja.wikipedia.org/wiki/MAN_\(企業\))から翻訳されています。
 
 
 **MAN**（エム・アー・エヌ、*MAN SE*、旧社名*MAN AG* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")・[機械](../Page/機械.md "wikilink")メーカーである。**マン**とも表記する。社名の由来は、マシーネンファブリーク･アウクスブルク･ニュルンベルク（**M**aschinenfabrik **A**ugsburg-**N**ürnberg）の頭文字であり、「[アウクスブルク](../Page/アウクスブルク.md "wikilink")・[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")機械工場」を意味する。[フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")の企業である。

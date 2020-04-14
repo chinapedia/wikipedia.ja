@@ -1,4 +1,4 @@
-> この記事は[New Horizon \(\)](https://ja.wikipedia.org/wiki/New_Horizon_\(\))から翻訳されています。
+> この記事は[New Horizon \(松本孝弘のアルバム\)](https://ja.wikipedia.org/wiki/New_Horizon_\(松本孝弘のアルバム\))から翻訳されています。
 
 
 『**New Horizon**』（ニュー・ホライズン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[松本孝弘](../Page/松本孝弘.md "wikilink")の10作目のオリジナル・アルバム。

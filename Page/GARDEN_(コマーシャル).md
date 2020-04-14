@@ -1,4 +1,4 @@
-> この記事は[GARDEN \(\)](https://ja.wikipedia.org/wiki/GARDEN_\(\))から翻訳されています。
+> この記事は[GARDEN \(コマーシャル\)](https://ja.wikipedia.org/wiki/GARDEN_\(コマーシャル\))から翻訳されています。
 
 
 **GARDEN**（ガーデン）とは[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜帯、[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")枠で放送された[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[アマー・G・ボーズ](https://ja.wikipedia.org/wiki/アマー・G・ボーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Amar_gopal_bose.jpg "wikilink") **アマー・G・ボーズ**（**Amar Gopal Bose**、[1929年](../Page/1929年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[実業家](../Page/実業家.md "wikilink")。音響機器メーカー[BOSEの創業者](../Page/ボーズ_\(企業\).md "wikilink")、会長。MIT（[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")）名誉教授。インド系アメリカ人。

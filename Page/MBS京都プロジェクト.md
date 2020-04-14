@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBS京都プロジェクト](https://ja.wikipedia.org/wiki/MBS京都プロジェクト)から翻訳されています。
 
 
 '''MBS京都プロジェクト '''（えむびーえすきょうとぷろじぇくと）とは、[毎日放送](../Page/毎日放送.md "wikilink")(MBS)が制作・放送する、[京都府](../Page/京都府.md "wikilink")の伝統や美術に関するの番組やイベントなどの総称である。

@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.カラスコ](https://ja.wikipedia.org/wiki/Mr.カラスコ)から翻訳されています。
 
 
 **Mr.カラスコ**（ミスター・カラスコ、*MR. CARRASCO*）は、[NPB](../Page/日本プロ野球.md "wikilink")[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")の**非公認**[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")、[タレント](../Page/タレント.md "wikilink")、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")産業廃棄物適正処理監視指導員（通称：産廃Gメン）。所属は[JVCエンタテインメント](../Page/JVCエンタテインメント.md "wikilink")、協定先は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")環境生活部廃棄物対策課ならびに[仙台市](../Page/仙台市.md "wikilink")環境局。本名は**ホセ・アントーニオ・S・カラスコ・ディアス**（*JOSE ANTONIO S. CARRASCO DIAS*）。

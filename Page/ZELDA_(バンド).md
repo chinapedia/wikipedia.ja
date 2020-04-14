@@ -1,7 +1,7 @@
-> この記事は[ZELDA \(\)](https://ja.wikipedia.org/wiki/ZELDA_\(\))から翻訳されています。
+> この記事は[ZELDA \(バンド\)](https://ja.wikipedia.org/wiki/ZELDA_\(バンド\))から翻訳されています。
 
 
-**ZELDA**（ゼルダ）は、[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")にかけて活躍していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 メンバーが全員女性の[ガールズバンド](../Page/ガールズバンド.md "wikilink")の草分け的存在であった。女性グループとしてもっとも長い活動歴を持つことで、ギネスブックにも記載されている。
+**ZELDA**（ゼルダ）は、[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")にかけて活躍していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 メンバーが全員女性の[ガールズバンド](../Page/ガールズバンド.md "wikilink")の草分け的存在であった。
 
 リーダーの小嶋さちほを中心に、音楽ジャンルも多彩にこなし、パンク、ポップス、ファンク、ブラックミュージック、そしてルーツミュージックと実験的なものを含め取り組み、次世代バンドに影響を与えた。
 
@@ -159,7 +159,7 @@
 ## 外部リンク
 
   - [サヨコオトナラ](http://www.watonari.net/)
-  - [ZELDA｜SonyMusic](http://www.sonymusic.co.jp/artist/Zelda/)
+  - [ZELDA｜SonyMusic](https://www.sonymusic.co.jp/artist/Zelda/)
 
 ## 出典・脚注
 

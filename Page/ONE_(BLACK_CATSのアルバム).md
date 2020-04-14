@@ -1,4 +1,4 @@
-> この記事は[ONE \(BLACK CATS\)](https://ja.wikipedia.org/wiki/ONE_\(BLACK_CATS\))から翻訳されています。
+> この記事は[ONE \(BLACK CATSのアルバム\)](https://ja.wikipedia.org/wiki/ONE_\(BLACK_CATSのアルバム\))から翻訳されています。
 
 
 **ONE**(ワン)は[BLACK CATSのアルバム](https://ja.wikipedia.org/wiki/BLACK_CATS "wikilink")。

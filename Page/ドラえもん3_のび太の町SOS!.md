@@ -1,4 +1,4 @@
-> この記事は[3 SOS!](https://ja.wikipedia.org/wiki/3_SOS!)から翻訳されています。
+> この記事は[ドラえもん3 のび太の町SOS!](https://ja.wikipedia.org/wiki/ドラえもん3_のび太の町SOS!)から翻訳されています。
 
 
 『**ドラえもん3 のび太の町SOS**』（ドラえもんスリー のびたのまちエスオーエス）は、[2000年](../Page/2000年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[エポック社](../Page/エポック社.md "wikilink")が発売した[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ソフト。ジャンルは[アクションゲーム](../Page/アクションゲーム.md "wikilink")。開発は株式会社エーアイ。

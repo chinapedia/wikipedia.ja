@@ -1,4 +1,4 @@
-> この記事は[UPLIFT](https://ja.wikipedia.org/wiki/UPLIFT)から翻訳されています。
+> この記事は[UPLIFTかくかたりき](https://ja.wikipedia.org/wiki/UPLIFTかくかたりき)から翻訳されています。
 
 
 **UPLIFTかくかたりき**（アップリフトかくかたりき）は、[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")の提供するラジオ番組のプロモーションのための[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組（ファーストシーズン時は当時の社名の「東芝エンタテインメント」名義）。[キャララジオ](../Page/キャララジオ.md "wikilink")にて、ファーストシーズンが[2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[11月17日](../Page/11月17日.md "wikilink")までの6週間限定で、毎週金曜日に配信された。約40分の番組。セカンドシーズンは[2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")から[7月6日](../Page/7月6日.md "wikilink")まで4週にわたって配信。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")からサードシーズンが開始されている。

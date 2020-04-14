@@ -1,4 +1,4 @@
-> この記事は[SEEK](https://ja.wikipedia.org/wiki/SEEK)から翻訳されています。
+> この記事は[地獄SEEK](https://ja.wikipedia.org/wiki/地獄SEEK)から翻訳されています。
 
 
 『**地獄SEEK**』（じごくシーク）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")より発売された[18禁美少女拷問シミュレーションゲーム](../Page/アダルトゲーム.md "wikilink")。後に同社のSM3800シリーズにラインナップされた。

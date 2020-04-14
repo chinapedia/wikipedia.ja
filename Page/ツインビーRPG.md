@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ツインビーRPG](https://ja.wikipedia.org/wiki/ツインビーRPG)から翻訳されています。
 
 
 『**ツインビーRPG**』（ツインビーアールピージー）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。同ジャンルでは『[ツインビーミラクル 〜不思議なベルの大陸〜](https://ja.wikipedia.org/wiki/ツインビーミラクル_〜不思議なベルの大陸〜 "wikilink")』が公開されていたが、発売中止になり、本作は完全な別作品。

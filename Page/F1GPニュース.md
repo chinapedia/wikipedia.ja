@@ -1,4 +1,4 @@
-> この記事は[F1GP](https://ja.wikipedia.org/wiki/F1GP)から翻訳されています。
+> この記事は[F1GPニュース](https://ja.wikipedia.org/wiki/F1GPニュース)から翻訳されています。
 
 
 『**F1GPニュース**』（えふわんぐらんぷりニュース）は、[2005年](../Page/2005年.md "wikilink")4月から[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")で放送されている[F1情報番組](../Page/フォーミュラ1.md "wikilink")。前身番組は『[モータースポーツパラダイス](https://ja.wikipedia.org/wiki/モータースポーツパラダイス "wikilink")』。2011年までは[フジテレビ721→フジテレビTWOで放送されていたが](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")、2012年より[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")に移行した（2015年まで再放送は[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")でも行われていた）。

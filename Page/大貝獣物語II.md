@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[大貝獣物語II](https://ja.wikipedia.org/wiki/大貝獣物語II)から翻訳されています。
 
 
 『**大貝獣物語II**』（だいかいじゅうものがたりツー）は、[1996年](../Page/1996年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")\[1\]に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。

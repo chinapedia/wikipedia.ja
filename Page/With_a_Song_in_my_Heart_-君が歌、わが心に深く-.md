@@ -1,4 +1,4 @@
-> この記事は[With a Song in my Heart --](https://ja.wikipedia.org/wiki/With_a_Song_in_my_Heart_--)から翻訳されています。
+> この記事は[With a Song in my Heart -君が歌、わが心に深く-](https://ja.wikipedia.org/wiki/With_a_Song_in_my_Heart_-君が歌、わが心に深く-)から翻訳されています。
 
 
 **With a Song in my Heart -君が歌、わが心に深く-**（ウィズ・ア・ソング・イン・マイ・ハート　-きみがうた、わがこころにふかく-）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組が](../Page/月組_\(宝塚歌劇\).md "wikilink")[リチャード・ロジャース生誕](../Page/リチャード・ロジャース_\(作曲家\).md "wikilink")100周年を記念して上演したショー作品である。形式名は「ミュージカル・レビュー」。宝塚・東京は24場。併演は『[長い春の果てに](../Page/長い春の果てに.md "wikilink")』。

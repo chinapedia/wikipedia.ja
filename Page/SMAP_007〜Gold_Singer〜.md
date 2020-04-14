@@ -1,4 +1,4 @@
-> この記事は[SMAP 007Gold Singer](https://ja.wikipedia.org/wiki/SMAP_007Gold_Singer)から翻訳されています。
+> この記事は[SMAP 007〜Gold Singer〜](https://ja.wikipedia.org/wiki/SMAP_007〜Gold_Singer〜)から翻訳されています。
 
 
 『**SMAP 007 〜Gold Singer**』（スマップ ゼロゼロセブン ゴールドシンガー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。

@@ -1,4 +1,4 @@
-> この記事は[1930 FIFAB](https://ja.wikipedia.org/wiki/1930_FIFAB)から翻訳されています。
+> この記事は[1930 FIFAワールドカップ・グループB](https://ja.wikipedia.org/wiki/1930_FIFAワールドカップ・グループB)から翻訳されています。
 
 
 [1930 FIFAワールドカップ](../Page/1930_FIFAワールドカップ.md "wikilink") グループBでは[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")・[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ボリビア](../Page/ボリビア.md "wikilink")の3チームが組んだ。[7月14日](../Page/7月14日.md "wikilink")から[7月20日](../Page/7月20日.md "wikilink")まで3試合行い、[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")が決勝トーナメントへ進出した。

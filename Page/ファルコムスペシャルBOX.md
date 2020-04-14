@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[ファルコムスペシャルBOX](https://ja.wikipedia.org/wiki/ファルコムスペシャルBOX)から翻訳されています。
 
 
 **ファルコムスペシャルBOX**（ファルコムスペシャルボックス）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")のアレンジ作品や[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")などを収録した[CD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX#CD-BOX "wikilink")[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")である。

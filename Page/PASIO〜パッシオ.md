@@ -1,4 +1,4 @@
-> この記事は[PASIO](https://ja.wikipedia.org/wiki/PASIO)から翻訳されています。
+> この記事は[PASIO〜パッシオ](https://ja.wikipedia.org/wiki/PASIO〜パッシオ)から翻訳されています。
 
 
 「**PASIO〜パッシオ**」は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の23枚目のシングル。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

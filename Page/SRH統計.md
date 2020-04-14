@@ -1,4 +1,4 @@
-> この記事は[SRH](https://ja.wikipedia.org/wiki/SRH)から翻訳されています。
+> この記事は[SRH統計](https://ja.wikipedia.org/wiki/SRH統計)から翻訳されています。
 
 
 **SRH統計**(*Shockley-Read-Hall process*もしくは*Shockley-Hall-Read process*)は、[半導体](../Page/半導体.md "wikilink")中の[深い準位による](https://ja.wikipedia.org/wiki/ドーパント#深い準位 "wikilink")[キャリアの](https://ja.wikipedia.org/wiki/電荷担体 "wikilink")[生成再結合](https://ja.wikipedia.org/wiki/生成再結合 "wikilink")(捕獲及び放出)の[時定数](../Page/時定数.md "wikilink")に関してあらわした[モデル](../Page/モデル_\(自然科学\).md "wikilink")。1952年に W.Shockley、T.Readらにより提唱され、一般に使用されているモデルである。

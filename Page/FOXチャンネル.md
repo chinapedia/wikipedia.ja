@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXチャンネル](https://ja.wikipedia.org/wiki/FOXチャンネル)から翻訳されています。
 
 
 **FOX**（フォックス）は、[FOXインターナショナル・チャンネルズ → FOXネットワークスが運営する](../Page/FOXネットワークス・グループ.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。通称**FOXチャンネル**。

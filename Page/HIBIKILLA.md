@@ -203,7 +203,7 @@
 
   - [公式サイト](http://hibikilla.com/)
 
-  - [オフィシャルブログ「ソコが丸見えの底なし沼」](http://ameblo.jp/hibikillablog/)
+  - [オフィシャルブログ「ソコが丸見えの底なし沼」](https://ameblo.jp/hibikillablog/)
 
   -
   -

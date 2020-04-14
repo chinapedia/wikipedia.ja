@@ -1,4 +1,4 @@
-> この記事は[WATER BOYS 2005](https://ja.wikipedia.org/wiki/WATER_BOYS_2005)から翻訳されています。
+> この記事は[WATER BOYS 2005夏](https://ja.wikipedia.org/wiki/WATER_BOYS_2005夏)から翻訳されています。
 
 
 『**WATER BOYS 2005夏**』は、映画『[ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink")』及びドラマ『[WATER BOYS](../Page/WATER_BOYS.md "wikilink")』を元に制作された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CJ](https://ja.wikipedia.org/wiki/CJ)から翻訳されています。
+> この記事は[CJボーランド](https://ja.wikipedia.org/wiki/CJボーランド)から翻訳されています。
 
 
 **CJボーランド**こと、**クリスチャン・ジェイ・ボーランド**（*Christian Jay Bolland*、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")。

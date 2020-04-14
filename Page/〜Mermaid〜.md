@@ -1,4 +1,4 @@
-> この記事は[Mermaid](https://ja.wikipedia.org/wiki/Mermaid)から翻訳されています。
+> この記事は[〜Mermaid〜](https://ja.wikipedia.org/wiki/〜Mermaid〜)から翻訳されています。
 
 
 「**〜Mermaid〜**」（マーメイド）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の18枚目のシングル。[2005年](../Page/2005年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

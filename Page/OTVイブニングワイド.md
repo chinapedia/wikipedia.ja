@@ -1,4 +1,4 @@
-> この記事は[OTV](https://ja.wikipedia.org/wiki/OTV)から翻訳されています。
+> この記事は[OTVイブニングワイド](https://ja.wikipedia.org/wiki/OTVイブニングワイド)から翻訳されています。
 
 
 『**OTVイブニングワイド**』（オーティーブイイブニングワイド）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[沖縄テレビで平日夕方に放送されていた](../Page/沖縄テレビ放送.md "wikilink")[沖縄県](../Page/沖縄県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

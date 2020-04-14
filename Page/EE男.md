@@ -1,4 +1,4 @@
-> この記事は[EE](https://ja.wikipedia.org/wiki/EE)から翻訳されています。
+> この記事は[EE男](https://ja.wikipedia.org/wiki/EE男)から翻訳されています。
 
 
 **EE男**（いいおとこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。2003年結成、2015年よりコンビでの活動休止中。

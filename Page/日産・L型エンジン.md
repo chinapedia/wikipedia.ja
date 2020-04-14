@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[日産・L型エンジン](https://ja.wikipedia.org/wiki/日産・L型エンジン)から翻訳されています。
 
 
 **L型エンジン**はかつて[日産自動車](../Page/日産自動車.md "wikilink")が製造していたLで始まる型式の[SOHC](../Page/SOHC.md "wikilink")式動弁機構を採用する[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。後年には派生形として[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")を燃料とするLD型[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")も製造された。

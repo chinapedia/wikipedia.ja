@@ -1,4 +1,4 @@
-> この記事は[NEVER SAY GOODBYE --](https://ja.wikipedia.org/wiki/NEVER_SAY_GOODBYE_--)から翻訳されています。
+> この記事は[NEVER SAY GOODBYE -ある愛の軌跡-](https://ja.wikipedia.org/wiki/NEVER_SAY_GOODBYE_-ある愛の軌跡-)から翻訳されています。
 
 
 『**NEVER SAY GOODBYE**』-**ある愛の軌跡**-（ネバー・セイ・グッドバイ あるあいのきせき）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[宙組](../Page/宙組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品である。[2006年](../Page/2006年.md "wikilink")3月24日から5月8日（新人公演は4月11日）に[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")、同年5月26日から7月2日（新人公演は6月6日）に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で上演された。

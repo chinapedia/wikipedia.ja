@@ -1,4 +1,4 @@
-> この記事は[GBA](https://ja.wikipedia.org/wiki/GBA)から翻訳されています。
+> この記事は[GBAケーブル](https://ja.wikipedia.org/wiki/GBAケーブル)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GameCube_GBACable.jpg "wikilink") **GBAケーブル**（ジービーエーケーブル）とは、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の[周辺機器](../Page/周辺機器.md "wikilink")である。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")と接続をして連動プレイをするのに使用する。

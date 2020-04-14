@@ -1,4 +1,4 @@
-> この記事は[ X](https://ja.wikipedia.org/wiki/_X)から翻訳されています。
+> この記事は[エアアジア X](https://ja.wikipedia.org/wiki/エアアジア_X)から翻訳されています。
 
 
 **エアアジア X** (AirAsia X) は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[航空会社](../Page/航空会社.md "wikilink")であり、中・長距離路線を運航している[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")の関連会社である。

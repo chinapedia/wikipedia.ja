@@ -1,4 +1,4 @@
-> この記事は[Adapter ](https://ja.wikipedia.org/wiki/Adapter_)から翻訳されています。
+> この記事は[Adapter パターン](https://ja.wikipedia.org/wiki/Adapter_パターン)から翻訳されています。
 
 
 **Adapter パターン**（アダプター・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 4人のギャングたち) によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。Adapter パターンを用いると、既存の[クラスに対して修正を加えることなく](../Page/クラス_\(コンピュータ\).md "wikilink")、[インタフェースを変更することができる](../Page/インタフェース_\(情報技術\).md "wikilink")。Adapter パターンを実現するための手法として[継承を利用した手法と](../Page/継承_\(プログラミング\).md "wikilink")[委譲](../Page/委譲.md "wikilink")を利用した手法が存在する。それぞれについて以下の節で説明する。

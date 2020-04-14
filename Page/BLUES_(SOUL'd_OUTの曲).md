@@ -1,4 +1,4 @@
-> この記事は[BLUES \(SOUL\'d OUT\)](https://ja.wikipedia.org/wiki/BLUES_\(SOUL\'d_OUT\))から翻訳されています。
+> この記事は[BLUES \(SOUL\'d OUTの曲\)](https://ja.wikipedia.org/wiki/BLUES_\(SOUL\'d_OUTの曲\))から翻訳されています。
 
 
 **BLUES**（ブルース）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")7th[シングル](../Page/シングル.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[SunSet Swish](https://ja.wikipedia.org/wiki/SunSet_Swish)から翻訳されています。
+> この記事は[SunSet Swishの今夜もマイペース](https://ja.wikipedia.org/wiki/SunSet_Swishの今夜もマイペース)から翻訳されています。
 
 
 『**SunSet Swishの今夜もマイペース**』（サンセット スウィッシュのこんやもマイペース）は、[FM OSAKAで](../Page/エフエム大阪.md "wikilink")[2006年](../Page/2006年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。不定期で生放送。[SunSet Swishにとって](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")初のレギュラー番組となった。

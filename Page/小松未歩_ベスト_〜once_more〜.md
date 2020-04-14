@@ -1,11 +1,11 @@
-> この記事は[  once more](https://ja.wikipedia.org/wiki/__once_more)から翻訳されています。
+> この記事は[小松未歩 ベスト 〜once more〜](https://ja.wikipedia.org/wiki/小松未歩_ベスト_〜once_more〜)から翻訳されています。
 
 
 『**小松未歩 ベスト 〜once more〜**』（こまつみほ ベスト ワンス モア）は、[小松未歩](../Page/小松未歩.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2006年11月22日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5096〜GZCA-5097。
 
 ## 内容
 
-  - [2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された自身初のベストアルバム。
+  - [2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された自身初のベストアルバム。2面[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様となっている。
   - デビュー曲「[謎](../Page/謎_\(曲\).md "wikilink")」から「[願い事ひとつだけ](../Page/願い事ひとつだけ.md "wikilink")」「[チャンス](../Page/チャンス_\(小松未歩の曲\).md "wikilink")」「[氷の上に立つように](../Page/氷の上に立つように.md "wikilink")」などのヒット作、そして最新シングル「[恋になれ...](../Page/恋になれ....md "wikilink")」までの全シングル曲がリリース順に収録されている他、新曲「happy ending」も収録されている。全シングル曲を収録したため、ディスク2枚組の仕様となっている。
   - オリコンデイリーチャートにおいて初登場18位を記録。これは[TVスポット](../Page/コマーシャルメッセージ.md "wikilink")（オフィシャルによると全3パターン存在する）でのプロモーションが功を奏したと考えられ、近年デイリーチャートでのオリコン20位以内にランクインしなかったことから考慮すれば異例なことである。ウィークリーチャートでは初登場21位を記録した。
   - また、エッセイ集の第2弾『ヘンな物さし2。』もこの作品と同時発売している。

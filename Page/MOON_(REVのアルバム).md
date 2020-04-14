@@ -1,4 +1,4 @@
-> この記事は[MOON \(REV\)](https://ja.wikipedia.org/wiki/MOON_\(REV\))から翻訳されています。
+> この記事は[MOON \(REVのアルバム\)](https://ja.wikipedia.org/wiki/MOON_\(REVのアルバム\))から翻訳されています。
 
 
 **MOON**（ムーン）は[REVの](../Page/出口雅之.md "wikilink")2作目のアルバム。

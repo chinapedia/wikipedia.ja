@@ -1,4 +1,4 @@
-> この記事は[10min.](https://ja.wikipedia.org/wiki/10min.)から翻訳されています。
+> この記事は[10min.ボックス](https://ja.wikipedia.org/wiki/10min.ボックス)から翻訳されています。
 
 
 **10min.ボックス**（テンミニッツ・ボックス）は、1997年4月8日より[NHK教育→NHK Eテレで放送されている中学](../Page/NHK教育テレビジョン.md "wikilink")・高校生向けの教養[ミニ番組](../Page/ミニ番組.md "wikilink")。[理科](../Page/理科.md "wikilink")、[社会科](https://ja.wikipedia.org/wiki/社会科 "wikilink")、[国語](../Page/国語.md "wikilink")、[総合学習](https://ja.wikipedia.org/wiki/総合学習 "wikilink")などと系統が分かれており、教科別に各単元のポイントをコンパクトにまとめた番組である。

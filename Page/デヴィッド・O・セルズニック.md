@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[デヴィッド・O・セルズニック](https://ja.wikipedia.org/wiki/デヴィッド・O・セルズニック)から翻訳されています。
 
 
 **デヴィッド・O・セルズニック**（**David O. Selznick**, [1902年](../Page/1902年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")出身の[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")。

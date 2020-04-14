@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[エドワード・P・トムスン](https://ja.wikipedia.org/wiki/エドワード・P・トムスン)から翻訳されています。
 
 
 **エドワード・パルマー・トムスン**（[英語](../Page/英語.md "wikilink")：Edward Palmer Thompson, [1924年](../Page/1924年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")）は、[イングランド](../Page/イングランド.md "wikilink")の[歴史家](../Page/歴史家.md "wikilink")、[社会主義者](https://ja.wikipedia.org/wiki/社会主義者 "wikilink")、および平和運動家。

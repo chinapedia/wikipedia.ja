@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[Aサイン](https://ja.wikipedia.org/wiki/Aサイン)から翻訳されています。
 
 
 [A-Sign.jpg](https://ja.wikipedia.org/wiki/File:A-Sign.jpg "fig:A-Sign.jpg") **Aサイン**（）は、[本土復帰](../Page/本土復帰.md "wikilink")前の[沖縄において](../Page/琉球政府.md "wikilink")[米軍公認の](../Page/アメリカ軍.md "wikilink")[飲食店](../Page/飲食店.md "wikilink")・[風俗店](../Page/風俗店.md "wikilink")に与えられた営業許可証\[1\]。

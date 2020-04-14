@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ツーカーS](https://ja.wikipedia.org/wiki/ツーカーS)から翻訳されています。
 
 
 **ツーカーS**（**ツーカー エス**）は、かつて[ツーカー](../Page/ツーカー.md "wikilink")ブランドを展開していた[KDDI](../Page/KDDI.md "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([PDC](../Page/PDC.md "wikilink")) [端末](../Page/端末.md "wikilink")製品である。製造型番は**TK50**。開発および製造・発売元は[京セラ](../Page/京セラ.md "wikilink")。

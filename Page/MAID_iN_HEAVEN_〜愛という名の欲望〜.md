@@ -1,4 +1,4 @@
-> この記事は[MAID iN HEAVEN ](https://ja.wikipedia.org/wiki/MAID_iN_HEAVEN_)から翻訳されています。
+> この記事は[MAID iN HEAVEN 〜愛という名の欲望〜](https://ja.wikipedia.org/wiki/MAID_iN_HEAVEN_〜愛という名の欲望〜)から翻訳されています。
 
 
 『**MAID iN HEAVEN 〜愛という名の欲望〜**』（メイド イン ヘブン あいというなのよくぼう）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")より発売された[18禁メイド生活体験シミュレーションゲーム](../Page/アダルトゲーム.md "wikilink")。発売当初は「めいどいんへぶん MAID iN HEAVEN 〜愛という名の欲望〜」というひらがな表記が併記されていたが、後のシリーズで「MAID iN HEAVEN」に統合されていったため、本項では英語表記を採っている。 本項では、2005年に発売されたリニューアル版『MAID iN HEAVEN SuperS』についても解説する。

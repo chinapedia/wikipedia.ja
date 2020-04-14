@@ -1,4 +1,4 @@
-> この記事は[XFV-12 \(\)](https://ja.wikipedia.org/wiki/XFV-12_\(\))から翻訳されています。
+> この記事は[XFV-12 \(航空機\)](https://ja.wikipedia.org/wiki/XFV-12_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=XFV-12 | 画像=<file:XFV-12A> mockpu NAColumbus NAN9-73.jpg | キャプション= | 用途=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 分類=[垂直離着陸機](../Page/垂直離着陸機.md "wikilink") | 設計者= | 製造者=[ロックウェル・インターナショナル](../Page/ロックウェル・インターナショナル.md "wikilink")([ボーイング](../Page/ボーイング.md "wikilink"))社 | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 運用者 more= | 初飛行年月日= | 生産数=2機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=不採用 | ユニットコスト=}}

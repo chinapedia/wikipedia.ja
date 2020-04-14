@@ -1,4 +1,4 @@
-> この記事は[VDT](https://ja.wikipedia.org/wiki/VDT)から翻訳されています。
+> この記事は[VDT作業](https://ja.wikipedia.org/wiki/VDT作業)から翻訳されています。
 
 
 [Woman-typing-on-laptop.jpg](https://ja.wikipedia.org/wiki/File:Woman-typing-on-laptop.jpg "fig:Woman-typing-on-laptop.jpg") **VDT作業**（ブイ・ディー・ティーさぎょう）とは、[ディスプレイを持つ画面表示装置](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、言い換えると[VDT](https://ja.wikipedia.org/wiki/VDT "wikilink") ()を用いた作業のこと\[1\]。[コンピュータ](../Page/コンピュータ.md "wikilink")や監視カメラを用いた作業を指す。

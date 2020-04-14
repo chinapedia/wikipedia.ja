@@ -1,4 +1,4 @@
-> この記事は[PerfumeComplete Best](https://ja.wikipedia.org/wiki/PerfumeComplete_Best)から翻訳されています。
+> この記事は[Perfume〜Complete Best〜](https://ja.wikipedia.org/wiki/Perfume〜Complete_Best〜)から翻訳されています。
 
 
 **Perfume〜Complete Best〜**（パフューム・コンプリート・ベスト）は、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")ユニット、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の通算1枚目のアルバム、ベストアルバムである。CD＋DVDの形で構成されている。Perfumeのブレイク直前までの作品が集約されている。

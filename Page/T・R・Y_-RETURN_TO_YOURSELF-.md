@@ -1,4 +1,4 @@
-> この記事は[TRY -RETURN TO YOURSELF-](https://ja.wikipedia.org/wiki/TRY_-RETURN_TO_YOURSELF-)から翻訳されています。
+> この記事は[T・R・Y -RETURN TO YOURSELF-](https://ja.wikipedia.org/wiki/T・R・Y_-RETURN_TO_YOURSELF-)から翻訳されています。
 
 
 「**T・R・Y -RETURN TO YOURSELF-**」（ト･ラ･イ・リターン・トゥ・ユアセルフ）は[TWO-MIX](../Page/TWO-MIX.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。

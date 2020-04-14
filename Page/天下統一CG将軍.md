@@ -1,4 +1,4 @@
-> この記事は[CG](https://ja.wikipedia.org/wiki/CG)から翻訳されています。
+> この記事は[天下統一CG将軍](https://ja.wikipedia.org/wiki/天下統一CG将軍)から翻訳されています。
 
 
 『**天下統一CG将軍**』（てんかとういつシージーしょうぐん）は、発想の達人たちとCGアーティストがコラボレーションしておもしろ[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")を制作、[コンテスト](https://ja.wikipedia.org/wiki/コンテスト "wikilink")するという、[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")の[特別番組](../Page/特別番組.md "wikilink")。

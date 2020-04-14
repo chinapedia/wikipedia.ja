@@ -1,4 +1,4 @@
-> この記事は[ J.I](https://ja.wikipedia.org/wiki/_J.I)から翻訳されています。
+> この記事は[ユンカース J.I](https://ja.wikipedia.org/wiki/ユンカース_J.I)から翻訳されています。
 
 
 {{ Infobox 航空機

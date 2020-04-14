@@ -1,4 +1,4 @@
-> この記事は[Maria \(\)](https://ja.wikipedia.org/wiki/Maria_\(\))から翻訳されています。
+> この記事は[Maria \(漫画家\)](https://ja.wikipedia.org/wiki/Maria_\(漫画家\))から翻訳されています。
 
 
 **Maria**（マリア、2月3日\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[福岡県](../Page/福岡県.md "wikilink")出身及び在住\[2\]。デビュー作品は『恋人と呼ばせて』（当時21歳）\[3\]。

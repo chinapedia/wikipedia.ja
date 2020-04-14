@@ -1,4 +1,4 @@
-> この記事は[SAMURAI \(\&\)](https://ja.wikipedia.org/wiki/SAMURAI_\(\&\))から翻訳されています。
+> この記事は[SAMURAI \(タッキー\&翼の曲\)](https://ja.wikipedia.org/wiki/SAMURAI_\(タッキー\&翼の曲\))から翻訳されています。
 
 
 「**SAMURAI**」（サムライ）は、日本のアイドルデュオ、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -79,4 +79,4 @@
   - 約束〜Flowers Song〜 MUSIC CLIP
   - 約束〜World wing〜 MUSIC CLIP
 
-[Category:タッキー&翼の楽曲](https://ja.wikipedia.org/wiki/Category:タッキー&翼の楽曲 "wikilink") [Category:羽場仁志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:羽場仁志が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:タッキー&翼の楽曲](https://ja.wikipedia.org/wiki/Category:タッキー&翼の楽曲 "wikilink") [Category:羽場仁志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:羽場仁志が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

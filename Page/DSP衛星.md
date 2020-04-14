@@ -1,4 +1,4 @@
-> この記事は[DSP](https://ja.wikipedia.org/wiki/DSP)から翻訳されています。
+> この記事は[DSP衛星](https://ja.wikipedia.org/wiki/DSP衛星)から翻訳されています。
 
 
 [サムネイルの](https://ja.wikipedia.org/wiki/画像:DSP_Phase3.jpg "wikilink")[静止軌道](../Page/静止軌道.md "wikilink")上にあり、左下の主センサーは地上を常時監視している。[姿勢制御](../Page/姿勢制御.md "wikilink")用のスターセンサーは側方、上方、右方を向いているように見える。\]\] **DSP衛星**（国防支援計画衛星, ）は[アメリカ軍](../Page/アメリカ軍.md "wikilink")の[早期警戒衛星](https://ja.wikipedia.org/wiki/早期警戒衛星 "wikilink")である\[1\]。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[弾道ミサイル早期警戒システム](../Page/弾道ミサイル早期警戒システム.md "wikilink")の根幹をなすものであり、[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")[空軍宇宙軍団](../Page/空軍宇宙軍団.md "wikilink")(AFSPC)によって運用されている。常時3機以上の衛星が搭載の[赤外線センサー](https://ja.wikipedia.org/wiki/赤外線センサー "wikilink")によって、[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")や[宇宙ロケット](https://ja.wikipedia.org/wiki/宇宙ロケット "wikilink")の発射、地上の[核爆発](https://ja.wikipedia.org/wiki/核爆発 "wikilink")などが発する特徴的な熱源に対して監視を行っている。探知した情報は迅速に地上ステーションへ通報される。

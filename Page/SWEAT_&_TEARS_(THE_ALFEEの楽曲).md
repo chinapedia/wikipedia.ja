@@ -1,4 +1,4 @@
-> この記事は[SWEAT \& TEARS \(THE ALFEE\)](https://ja.wikipedia.org/wiki/SWEAT_\&_TEARS_\(THE_ALFEE\))から翻訳されています。
+> この記事は[SWEAT \& TEARS \(THE ALFEEの楽曲\)](https://ja.wikipedia.org/wiki/SWEAT_\&_TEARS_\(THE_ALFEEの楽曲\))から翻訳されています。
 
 
 「**SWEAT & TEARS**」（スウェット・アンド・ティアーズ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。品番は「7A 0600」。

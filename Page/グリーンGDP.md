@@ -1,4 +1,4 @@
-> この記事は[GDP](https://ja.wikipedia.org/wiki/GDP)から翻訳されています。
+> この記事は[グリーンGDP](https://ja.wikipedia.org/wiki/グリーンGDP)から翻訳されています。
 
 
 **グリーンGDP**（ぐりーん-）（【英】**Green GDP** ／ *Eco Domestic Product* ［略］**EDP**） は、今までの[GDP算出の矛盾を解消するために](https://ja.wikipedia.org/wiki/国内総生産 "wikilink")、[自然界](https://ja.wikipedia.org/wiki/自然界 "wikilink")の様々な要素を加味して算出されるGDPのことである。つまり、GDPから環境破壊による生活質の低下を差し引いたものである。 [Green_GDP.1993.JPG](https://ja.wikipedia.org/wiki/File:Green_GDP.1993.JPG "fig:Green_GDP.1993.JPG")

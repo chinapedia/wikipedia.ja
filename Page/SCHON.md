@@ -28,7 +28,7 @@
 
   - 10代の頃に[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")に師事していたことがあり、ギタープレイ面や、[Ibanez](https://ja.wikipedia.org/wiki/Ibanez "wikilink")のギターを愛用するなど氏の影響を強く受けていることが伺える。[YOUNG GUITARなどの音楽雑誌でも特集を組まれたこともあり](../Page/YOUNG_GUITAR.md "wikilink")、[ペンタトニック](https://ja.wikipedia.org/wiki/ペンタトニック "wikilink")や[メジャースケールを使った](../Page/長音階.md "wikilink")[速弾き](../Page/速弾き.md "wikilink")や[ストリングスキッピング](https://ja.wikipedia.org/wiki/ストリングスキッピング "wikilink")、[タッピング](https://ja.wikipedia.org/wiki/タッピング "wikilink")、タイトなリズムプレイ、空間系[エフェクター](../Page/エフェクター.md "wikilink")を用いたトリッキーなプレイを得意とする。\[1\]
   - 「メロコア系のパンクスタイル＋速弾きなどのハイテクニック」というイメージが強いが本人は、技巧を駆使した音楽は苦手であり、歌や作曲の方が興味が強いと語る。また、愛聴する音楽は年代やジャンルを問わず、多岐に渡る。
-  - 影響を受けたアーティストでは[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")、[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[アラニス・モリセット](../Page/アラニス・モリセット.md "wikilink")、など。また、[オーストラリア](../Page/オーストラリア.md "wikilink")のロックバンド[シルヴァーチェアー](../Page/シルヴァーチェアー.md "wikilink")の大ファンでもある事が知られる。\[2\]
+  - 影響を受けたアーティストでは[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")、[レディオヘッド](../Page/レディオヘッド.md "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[アラニス・モリセット](../Page/アラニス・モリセット.md "wikilink")、など。また、[オーストラリア](../Page/オーストラリア.md "wikilink")のロックバンド[シルヴァーチェアー](../Page/シルヴァーチェアー.md "wikilink")の大ファンでもある事が知られる。\[2\]
 
 ## 使用機材
 

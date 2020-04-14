@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[平成教育委員会DS](https://ja.wikipedia.org/wiki/平成教育委員会DS)から翻訳されています。
 
 
 『**平成教育委員会DS**』（へいせいきょういくいいんかいDS）は、[2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（現・[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。

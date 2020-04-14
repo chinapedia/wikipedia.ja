@@ -1,4 +1,4 @@
-> この記事は[KISEKI](https://ja.wikipedia.org/wiki/KISEKI)から翻訳されています。
+> この記事は[KI・SE・KI](https://ja.wikipedia.org/wiki/KI・SE・KI)から翻訳されています。
 
 
 「**KI・SE・KI**」（キセキ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ、[BeForU](../Page/BeForU.md "wikilink")のデビューシングルである。

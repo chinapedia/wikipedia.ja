@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[SVバベルスベルク](https://ja.wikipedia.org/wiki/SVバベルスベルク)から翻訳されています。
 
 
 **SVバベルスベルク03**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")北東部、[ブランデンブルク州](../Page/ブランデンブルク州.md "wikilink")の州都[ポツダム](../Page/ポツダム.md "wikilink")を本拠地とするサッカークラブである。ホームの試合はポツダムの[バーベルスベルク](https://ja.wikipedia.org/wiki/バーベルスベルク "wikilink")地区にあるで催される。

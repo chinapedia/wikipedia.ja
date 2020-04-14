@@ -1,7 +1,7 @@
 > この記事は[DJ Hell](https://ja.wikipedia.org/wiki/DJ_Hell)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:DJ_Hell,_2009_\(cropped\).jpg "wikilink") **DJ Hell**（ディージェーヘル、本名:ヘルムート・ヨゼフ・ガイアー、**Helmut Josef Geier**、[1962年](../Page/1962年.md "wikilink") - ）はドイツのテクノDJ、プロデューサー。[ミュンヘン](../Page/ミュンヘン.md "wikilink")出身。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DJ_Hell,_2009_\(cropped\).jpg "wikilink") **DJ Hell**（ディージェイ・ヘル、本名：**ヘルムート・ヨゼフ・ガイアー**、Helmut Josef Geier、[1962年](../Page/1962年.md "wikilink") - ）はドイツのテクノDJ、プロデューサー。[ミュンヘン](../Page/ミュンヘン.md "wikilink")出身。
 
 ## 人物
 
@@ -45,4 +45,4 @@
 
   - [Interview Dj Hell - Actualites Electroniques](http://www.actualites-electroniques.com/EN-Dj-Hell-Dj-Interview/)
 
-[Category:ドイツの音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:ドイツの音楽プロデューサー "wikilink") [Category:ミュンヘン出身の人物](https://ja.wikipedia.org/wiki/Category:ミュンヘン出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:ドイツの音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:ドイツの音楽プロデューサー "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ミュンヘン出身の人物](https://ja.wikipedia.org/wiki/Category:ミュンヘン出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

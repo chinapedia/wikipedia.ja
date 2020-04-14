@@ -1,4 +1,4 @@
-> この記事は[BRICK ](https://ja.wikipedia.org/wiki/BRICK_)から翻訳されています。
+> この記事は[BRICK ブリック](https://ja.wikipedia.org/wiki/BRICK_ブリック)から翻訳されています。
 
 
 『**BRICK ブリック**』（原題：*BRICK*）は、[2005年の](../Page/2005年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。高校生が女子生徒の死の真相に迫る[ミステリー](https://ja.wikipedia.org/wiki/ミステリー映画 "wikilink")・[サスペンス映画](../Page/サスペンス映画.md "wikilink")。

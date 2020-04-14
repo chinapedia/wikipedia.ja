@@ -1,4 +1,4 @@
-> この記事は[DOLL](https://ja.wikipedia.org/wiki/DOLL)から翻訳されています。
+> この記事は[ホテル探偵DOLL](https://ja.wikipedia.org/wiki/ホテル探偵DOLL)から翻訳されています。
 
 
 『**ホテル探偵DOLL**』（ホテルたんていドール）は、[さいとう・たかを](../Page/さいとう・たかを.md "wikilink")の[劇画](../Page/劇画.md "wikilink")アクション作品。

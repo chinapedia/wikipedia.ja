@@ -1,4 +1,4 @@
-> この記事は[CHILL \(\)](https://ja.wikipedia.org/wiki/CHILL_\(\))から翻訳されています。
+> この記事は[CHILL \(漫画\)](https://ja.wikipedia.org/wiki/CHILL_\(漫画\))から翻訳されています。
 
 
 『**CHILL**』（チル）は、[講談社](../Page/講談社.md "wikilink")の漫画週刊誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』[2006年](../Page/2006年.md "wikilink")第7号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")第35号まで連載された近未来本格警察アクション[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。原作[木内一雅](../Page/木内一雅.md "wikilink")、[夏元雅人](../Page/夏元雅人.md "wikilink")作画。単行本は全8巻。

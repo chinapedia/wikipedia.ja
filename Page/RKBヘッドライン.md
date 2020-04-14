@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKBヘッドライン](https://ja.wikipedia.org/wiki/RKBヘッドライン)から翻訳されています。
 
 
 『**RKBヘッドライン**』（アールケービーヘッドライン）は、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")で放送されている[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")協力の[ローカルニュース番組である](../Page/報道番組.md "wikilink")。

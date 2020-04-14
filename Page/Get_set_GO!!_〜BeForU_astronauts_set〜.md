@@ -1,4 +1,4 @@
-> この記事は[Get set GO!! BeForU astronauts set](https://ja.wikipedia.org/wiki/Get_set_GO!!_BeForU_astronauts_set)から翻訳されています。
+> この記事は[Get set GO!! 〜BeForU astronauts set〜](https://ja.wikipedia.org/wiki/Get_set_GO!!_〜BeForU_astronauts_set〜)から翻訳されています。
 
 
 『**Get set GO\!\! 〜BeForU astronauts set〜**』（ゲット セット ゴー\!\! ビーフォーユー アストロノーツ セット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ、[BeForU](../Page/BeForU.md "wikilink")の3枚目のシングルであり、またこのシングルやDVDなどが封入されたセット品の名称でもある。

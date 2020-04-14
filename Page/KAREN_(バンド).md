@@ -1,4 +1,4 @@
-> この記事は[KAREN \(\)](https://ja.wikipedia.org/wiki/KAREN_\(\))から翻訳されています。
+> この記事は[KAREN \(バンド\)](https://ja.wikipedia.org/wiki/KAREN_\(バンド\))から翻訳されています。
 
 
 **KAREN**（カレン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。

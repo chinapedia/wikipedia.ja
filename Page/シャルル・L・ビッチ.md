@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[シャルル・L・ビッチ](https://ja.wikipedia.org/wiki/シャルル・L・ビッチ)から翻訳されています。
 
 
 **シャルル・L・ビッチ**（**Charles L. Bitsch**、[1931年](../Page/1931年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") [ミュルーズ](../Page/ミュルーズ.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") [ヴィルジュイフ](https://ja.wikipedia.org/wiki/ヴィルジュイフ "wikilink")）は 、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[映画監督](../Page/映画監督.md "wikilink")、[撮影監督](../Page/撮影監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。10年にわたって、[ジャン＝リュック・ゴダール](../Page/ジャン＝リュック・ゴダール.md "wikilink")の[助監督であったことで知られる](../Page/助監督_\(映画スタッフ\).md "wikilink")。

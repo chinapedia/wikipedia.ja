@@ -1,4 +1,4 @@
-> この記事は[CYK](https://ja.wikipedia.org/wiki/CYK)から翻訳されています。
+> この記事は[CYK法](https://ja.wikipedia.org/wiki/CYK法)から翻訳されています。
 
 
 **CYK法**（）は、ある[文字列](../Page/文字列.md "wikilink")が与えられた[文脈自由文法](../Page/文脈自由文法.md "wikilink")で生成できるかを決め、生成できる場合の生成方法を求める[アルゴリズム](../Page/アルゴリズム.md "wikilink")である。CYK は **Cocke-Younger-Kasami** の略（それぞれ、RISCの先駆と言われる[801などでも知られる](../Page/IBM_801.md "wikilink")[ジョン・コック](../Page/ジョン・コック.md "wikilink")、Daniel Younger、[嵩忠雄](https://ja.wikipedia.org/wiki/嵩忠雄 "wikilink")である）。文脈自由文法の[構文解析](../Page/構文解析.md "wikilink")手法と捉えることもできる。このアルゴリズムは一種の[動的計画法](../Page/動的計画法.md "wikilink")である。

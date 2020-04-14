@@ -1,4 +1,4 @@
-> この記事は[RATS](https://ja.wikipedia.org/wiki/RATS)から翻訳されています。
+> この記事は[埼玉県警察RATS](https://ja.wikipedia.org/wiki/埼玉県警察RATS)から翻訳されています。
 
 
 **埼玉県警察機動戦術部隊RATS**（さいたまけんけいさつきどうせんじゅつぶたいラッツ）は、[埼玉県警察](../Page/埼玉県警察.md "wikilink")の[銃器対策部隊](../Page/銃器対策部隊.md "wikilink")。RATSはの頭字語とみられている\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[THAAD](https://ja.wikipedia.org/wiki/THAAD)から翻訳されています。
+> この記事は[THAADミサイル](https://ja.wikipedia.org/wiki/THAADミサイル)から翻訳されています。
 
 
 **THAADミサイル**（終末高高度防衛ミサイル、 サードミサイル）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")が開発した[弾道弾迎撃ミサイル](../Page/弾道弾迎撃ミサイル.md "wikilink")・システム。当初は、**戦域高高度防衛ミサイル**（）と呼ばれていた。

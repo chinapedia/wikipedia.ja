@@ -1,4 +1,4 @@
-> この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
+> この記事は[旅立ちの唄 \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/旅立ちの唄_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**旅立ちの唄**」（たびだちのうた）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

@@ -1,4 +1,4 @@
-> この記事は[OBS](https://ja.wikipedia.org/wiki/OBS)から翻訳されています。
+> この記事は[OBSニュース](https://ja.wikipedia.org/wiki/OBSニュース)から翻訳されています。
 
 
 『**OBSニュース**』（オービーエスニュース）は、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")で放送されている[大分合同新聞](../Page/大分合同新聞.md "wikilink")協力の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まではOBSラジオのみで放送されていたが、[OBSニュースライン](../Page/OBSニュースライン.md "wikilink")終了に伴い翌30日よりOBSテレビでもスポットニュースに限り、同タイトルでの放送が再開された。

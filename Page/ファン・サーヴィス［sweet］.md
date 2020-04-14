@@ -1,4 +1,4 @@
-> この記事は[sweet](https://ja.wikipedia.org/wiki/sweet)から翻訳されています。
+> この記事は[ファン・サーヴィス［sweet］](https://ja.wikipedia.org/wiki/ファン・サーヴィス［sweet］)から翻訳されています。
 
 
 「**Fan Service［sweet］**」（ファン・サービス スイート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テクノポップ](../Page/テクノポップ.md "wikilink")ユニット・[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の4th[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。CDコードはTKCA-73158。

@@ -1,4 +1,4 @@
-> この記事は[S-](https://ja.wikipedia.org/wiki/S-)から翻訳されています。
+> この記事は[S-アデノシルメチオニン](https://ja.wikipedia.org/wiki/S-アデノシルメチオニン)から翻訳されています。
 
 
 ***S*-アデノシルメチオニン**（*S*‐adenosylmethionine、**SAM**、[SAM-e](https://ja.wikipedia.org/wiki/w:SAM-e "wikilink")）とは、[アデノシン](../Page/アデノシン.md "wikilink")と[メチオニン](https://ja.wikipedia.org/wiki/メチオニン "wikilink")とから生体内で合成される生体内物質である。補欠分子族の一種でメチル基供与体として作用する。**活性メチオニン**（active methionine）とも呼ばれる。略号はSAMまたはAdoMet。

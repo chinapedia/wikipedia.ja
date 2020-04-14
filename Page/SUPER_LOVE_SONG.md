@@ -1,21 +1,21 @@
 > この記事は[SUPER LOVE SONG](https://ja.wikipedia.org/wiki/SUPER_LOVE_SONG)から翻訳されています。
 
 
-「**SUPER LOVE SONG**」（スーパー・ラヴ・ソング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の44作目の[シングル](../Page/シングル.md "wikilink")。
+「**SUPER LOVE SONG**」（スーパー・ラヴ・ソング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")44作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-16枚目のアルバム『[ACTION](../Page/ACTION.md "wikilink")』の先行シングル。
+16thアルバム『[ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")』の先行シングル。
 
 初回限定盤には、[ZEPP TOKYOにて行われた](../Page/Zepp.md "wikilink")「[B'z SHOWCASE 2007 -19-](https://ja.wikipedia.org/wiki/LIVE-GYM#2007年 "wikilink")」での「SUPER LOVE SONG」のライブ映像を収録したDVDが付属された\[1\]。
 
 表題曲は「[May](../Page/May_\(B'zの曲\).md "wikilink")」以来7年ぶりのノンタイアップだが、[3rd beat](https://ja.wikipedia.org/wiki/3rd_beat "wikilink")「FRICTION」は『[バーンアウト ドミネーター](../Page/バーンアウト_\(ゲーム\).md "wikilink")』のタイアップ。
 
-[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")が編曲に初参加したシングルで\[2\]、次作「[BURN -フメツノフェイス-](../Page/BURN_-フメツノフェイス-.md "wikilink")」より、彼らのソロを含めて専任編曲者という形で起用される。
+[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")が編曲に初参加したシングルで\[2\]、次作『[BURN -フメツノフェイス-](../Page/BURN_-フメツノフェイス-.md "wikilink")』より、彼らのソロを含めて専任編曲者という形で起用される。
 
 [J-DISC BeingとVERMILLION](../Page/J-DISC_Being.md "wikilink") RECORDS他2レーベルの親会社への統合に伴い、この作品以降、発売元・販売元がともに[ビーイング](../Page/ビーイング.md "wikilink")と記載されるようになる。
 
-18.1万枚を売り上げ、2007年[10月15日](../Page/10月15日.md "wikilink")付のオリコン週間シングルランキングで初登場1位を獲得。これにより、5thシングル「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」以来40作連続の1位となり、自身が持つ「シングル首位獲得数」と「シングル連続首位獲得数」を更新することとなった\[3\]。
+18.1万枚を売り上げ、2007年[10月15日](../Page/10月15日.md "wikilink")付のオリコン週間シングルランキングで初登場1位を獲得。これにより、5thシングル『[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")』以来40作連続の1位となり、自身が持つ「シングル首位獲得数」と「シングル連続首位獲得数」を更新することとなった\[3\]。
 
 このシングルで、同年9月の『[HEY\!HEY\!HEY\! 見よ\!3時間生放送スペシャル](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に出演し、[ダウンタウンと初めて対面した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。
 
@@ -49,7 +49,7 @@
         2007年6月から行われた[SHOWCASEツアーで](https://ja.wikipedia.org/wiki/LIVE-GYM#2007年 "wikilink")1曲目として初披露\[4\]。8月に行われた[サマーソニック2007出演時でもリリースに先駆けてこちらも](https://ja.wikipedia.org/wiki/サマーソニック#2007年 "wikilink")1曲目として披露された\[5\]。
         レコーディング及び[PVでの](../Page/ミュージック・ビデオ.md "wikilink")[サポート・メンバーは](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[ドラムがジェレミー](../Page/ドラムセット.md "wikilink")・コルソン（*Jeremy Colson*）、[ベースがロバート](../Page/ベース_\(弦楽器\).md "wikilink")・ディレオ（*Robert DeLeo*、元[ストーン・テンプル・パイロッツ](../Page/ストーン・テンプル・パイロッツ.md "wikilink")）となっている。
         同年1月から制作を始めていた楽曲で、当初はテンポが遅く渋いアレンジだったが、古臭いという理由で一度制作が断念されていた。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でのレコーディングではかなり苦労したという。その後帰国しリアレンジ、夏前に曲が完成、6月のSHOWCASEで披露となった。本人達も「こんなに時間がかかるとは思わなかった」と語っている。PV撮影もロサンゼルスのスタジオで行われた。
-        元々、この曲は16枚目のアルバム『[ACTION](../Page/ACTION.md "wikilink")』の1曲目に収まる予定だったらしく、稲葉が「どうすればいいかって悩んで苦労したのに、テンポを上げるだけでここまで変わるとは」と、松本は「まさか、シングルの表題曲にまで上り詰めようとは」と話していた。
+        元々、この曲は16枚目のアルバム『[ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")』の1曲目に収まる予定だったらしく、稲葉が「どうすればいいかって悩んで苦労したのに、テンポを上げるだけでここまで変わるとは」と、松本は「まさか、シングルの表題曲にまで上り詰めようとは」と話していた。
 2.  **ここから** （4:01）
       -
         [メロトロン](../Page/メロトロン.md "wikilink")を使用している。曲の構成上、ギターソロパートが無い楽曲の一つとなっている。
@@ -64,7 +64,7 @@
 <!-- end list -->
 
   - DVD (初回限定盤のみ)
-    :「**SUPER LOVE SONG**」 『B'z SHOWCASE 2007 -19-』
+    : 「**SUPER LOVE SONG**」 『B'z SHOWCASE 2007 -19-』
 
 ## タイアップ
 
@@ -76,13 +76,13 @@
 
 **SUPER LOVE SONG**
 
-  - [ACTION](../Page/ACTION.md "wikilink")
+  - [ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
 
 **FRICTION**
 
-  - [ACTION](../Page/ACTION.md "wikilink") （-LAP2-）
+  - [ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink") （-LAP2-）
 
 ## ライブ映像作品
 

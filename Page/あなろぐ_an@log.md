@@ -1,4 +1,4 @@
-> この記事は[ an@log](https://ja.wikipedia.org/wiki/_an@log)から翻訳されています。
+> この記事は[あなろぐ an@log](https://ja.wikipedia.org/wiki/あなろぐ_an@log)から翻訳されています。
 
 
 『**あなろぐ an@log**』は、[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")まで[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink")に放送されていた[生放送](../Page/生放送.md "wikilink")の[生活情報番組](../Page/生活情報番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

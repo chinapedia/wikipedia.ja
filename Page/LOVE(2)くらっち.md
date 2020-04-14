@@ -1,4 +1,4 @@
-> この記事は[LOVE\(2\)](https://ja.wikipedia.org/wiki/LOVE\(2\))から翻訳されています。
+> この記事は[LOVE\(2\)くらっち](https://ja.wikipedia.org/wiki/LOVE\(2\)くらっち)から翻訳されています。
 
 
 「**LOVE②くらっち**」（ラブラブくらっち）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[BeForU](../Page/BeForU.md "wikilink")のメンバー、[Noria](../Page/Noria.md "wikilink")のソロデビューシングルである。

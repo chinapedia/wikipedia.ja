@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[デイヴィッド・R・ホルジンガー](https://ja.wikipedia.org/wiki/デイヴィッド・R・ホルジンガー)から翻訳されています。
 
 
 **デイヴィッド・R・ホルジンガー**（**David R. Holsinger**, [1945年](../Page/1945年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")。主として[吹奏楽](../Page/吹奏楽.md "wikilink")向けの楽曲で知られる。

@@ -1,4 +1,4 @@
-> この記事は[SIAI-](https://ja.wikipedia.org/wiki/SIAI-)から翻訳されています。
+> この記事は[SIAI-マルケッティ](https://ja.wikipedia.org/wiki/SIAI-マルケッティ)から翻訳されています。
 
 
 **SIAI-マルケッティ** (SIAI-Marchetti) は、過去に存在した[イタリア](../Page/イタリア.md "wikilink")の企業。SIAIは、Società Italiana Aeroplani Idrovolanti（水上機と航空機のイタリア企業）の略。

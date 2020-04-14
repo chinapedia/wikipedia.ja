@@ -1,4 +1,4 @@
-> この記事は[GBH \(\)](https://ja.wikipedia.org/wiki/GBH_\(\))から翻訳されています。
+> この記事は[G・B・H \(プロレス\)](https://ja.wikipedia.org/wiki/G・B・H_\(プロレス\))から翻訳されています。
 
 
 **G・B・H**（ジー・ビー・エイチ）は、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")のユニットである。*Great Bash Heel*（グレート・バッシュ・ヒール、最も偉大で凶悪な[ヒール](../Page/ヒール_\(プロレス\).md "wikilink")）の略であり、イギリス警察で凶悪傷害事件を意味する暗号コード「Grievous Bodily Harm」の意味も込められている。

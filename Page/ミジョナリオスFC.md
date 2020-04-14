@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ミジョナリオスFC](https://ja.wikipedia.org/wiki/ミジョナリオスFC)から翻訳されています。
 
 
 **ミジョナリオスFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の首都[ボゴタ](../Page/ボゴタ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

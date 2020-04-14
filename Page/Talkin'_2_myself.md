@@ -1,11 +1,11 @@
 > この記事は[Talkin\' 2 myself](https://ja.wikipedia.org/wiki/Talkin\'_2_myself)から翻訳されています。
 
 
-「**talkin' 2 myself**」（トーキン・トゥー・マイセルフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の42nd[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**talkin' 2 myself**」（トーキン・トゥー・マイセルフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の42枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[glitter／fated](https://ja.wikipedia.org/wiki/glitter/fated "wikilink")」からわずか2ヶ月後のリリースとなった。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態で発売。
+前作「[glitter／fated](https://ja.wikipedia.org/wiki/glitter/fated "wikilink")」からわずか2か月後のリリースとなった。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態で発売。
 
 「talkin' 2 myself」は発売前にもかかわらず、浜崎としては異例の[着うた](../Page/着うた.md "wikilink")先行無料配信が行われていた（発売日前日までの限定配信）\[1\]。
 

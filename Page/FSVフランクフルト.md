@@ -1,4 +1,4 @@
-> この記事は[FSV](https://ja.wikipedia.org/wiki/FSV)から翻訳されています。
+> この記事は[FSVフランクフルト](https://ja.wikipedia.org/wiki/FSVフランクフルト)から翻訳されています。
 
 
 **FSVフランクフルト**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルト・アム・マイン](../Page/フランクフルト・アム・マイン.md "wikilink")の[ボルンハイム](https://ja.wikipedia.org/wiki/ボルンハイム "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。同じくフランクフルトを本拠地とするサッカークラブに[アイントラハト・フランクフルト](../Page/アイントラハト・フランクフルト.md "wikilink")がある。

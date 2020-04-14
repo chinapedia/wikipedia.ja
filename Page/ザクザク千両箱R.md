@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ザクザク千両箱R](https://ja.wikipedia.org/wiki/ザクザク千両箱R)から翻訳されています。
 
 
 **ザクザク千両箱R**（ざくざくせんりょうばこR）は、[2002年](../Page/2002年.md "wikilink")に[山佐](../Page/山佐.md "wikilink")から発売された[パチスロ](../Page/パチスロ.md "wikilink")機。

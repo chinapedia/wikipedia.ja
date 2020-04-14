@@ -1,4 +1,4 @@
-> この記事は[NBC \(\)](https://ja.wikipedia.org/wiki/NBC_\(\))から翻訳されています。
+> この記事は[NBCニュース \(長崎放送\)](https://ja.wikipedia.org/wiki/NBCニュース_\(長崎放送\))から翻訳されています。
 
 
 『**NBCニュース**』（エヌビーシーニュース）は、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")で放送されているローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,7 +1,7 @@
 > この記事は[Parsing Expression Grammar](https://ja.wikipedia.org/wiki/Parsing_Expression_Grammar)から翻訳されています。
 
 
-**Parsing Expression Grammar** (**PEG**, Parsing Expression Grammar) は、[分析的形式文法の一種であり](../Page/形式文法.md "wikilink")、[形式言語](../Page/形式言語.md "wikilink")をその言語に含まれる[文字列](../Page/文字列.md "wikilink")を認識するための一連の規則を使って表したものである。PEGは[再帰下降構文解析](../Page/再帰下降構文解析.md "wikilink")を文法を示すためだけに純粋に図式的に表現したものと見ることもでき、具体的な[構文解析器](../Page/構文解析器.md "wikilink")の実装やその用途とは独立している。
+**解析表現文法**（）は、[分析的形式文法の一種であり](../Page/形式文法.md "wikilink")、[形式言語](../Page/形式言語.md "wikilink")をその言語に含まれる[文字列](../Page/文字列.md "wikilink")を認識するための一連の規則を使って表したものである。PEGは[再帰下降構文解析](../Page/再帰下降構文解析.md "wikilink")を文法を示すためだけに純粋に図式的に表現したものと見ることもでき、具体的な[構文解析器](../Page/構文解析器.md "wikilink")の実装やその用途とは独立している。
 
 PEGにおける構文（文法）の定義は[文脈自由文法](../Page/文脈自由文法.md "wikilink")の[バッカス・ナウア記法](../Page/バッカス・ナウア記法.md "wikilink")によるそれに似ているが、文脈自由文法では一般に「｜」（縦棒、[バーティカルバー](../Page/バーティカルバー.md "wikilink")）で表される「これらのうちどれか」ではなく、「最初の解析がうまくいったらそれを、失敗なら次を順に試してゆき、成功したものを採用」（「/」であらわす）という意味を使う。
 
@@ -175,6 +175,10 @@ PEGパーサ（多くはPackratパーサ）を生成する[パーサジェネレ
   - [peg](https://github.com/pointlander/peg) -- [Go言語](https://ja.wikipedia.org/wiki/Go言語 "wikilink")用
   - [pigeon](https://github.com/mna/pigeon) - [Go言語](https://ja.wikipedia.org/wiki/Go言語 "wikilink")用
 
+## 脚註
+
+### 出典
+
 ## 関連項目
 
   - [形式文法](../Page/形式文法.md "wikilink")
@@ -183,6 +187,7 @@ PEGパーサ（多くはPackratパーサ）を生成する[パーサジェネレ
 
 ## 参考文献
 
+  -
 ## 外部リンク
 
   - [Parsing Expression Grammars: A Recognition-Based Syntactic Foundation](http://www.brynosaurus.com/pub/lang/peg-slides.pdf) (PDF)

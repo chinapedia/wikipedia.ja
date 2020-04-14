@@ -1,4 +1,4 @@
-> この記事は[HJT-16 \(\)](https://ja.wikipedia.org/wiki/HJT-16_\(\))から翻訳されています。
+> この記事は[HJT-16 \(航空機\)](https://ja.wikipedia.org/wiki/HJT-16_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=HJT-16 キラン | 画像= ファイル:HAL_Kiran_Aero_India-2007.jpg | キャプション=HAL Kiran MkII U2469 of the Surya Kiran|Suryakirans | 用途=中等練習機 | 分類= | 設計者= | 製造者=[ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink") | 運用者=[インド空軍](../Page/インド空軍.md "wikilink")、[インド海軍](../Page/インド海軍.md "wikilink") | 初飛行年月日=1964年9月4日 | 生産数=190機 | 生産開始年月日= | 運用開始年月日=1968年 | 退役年月日= | 運用状況=現用中 | ユニットコスト= }} **HJT-16**は、[インド](../Page/インド.md "wikilink")の[ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")が開発したジェット中等練習機。愛称は**キラン**（光線を意味するサンスクリット語）。[1964年](../Page/1964年.md "wikilink")9月4日に初飛行した。

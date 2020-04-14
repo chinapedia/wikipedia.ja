@@ -1,4 +1,4 @@
-> この記事は[ -Don\'t Pass Me By-](https://ja.wikipedia.org/wiki/_-Don\'t_Pass_Me_By-)から翻訳されています。
+> この記事は[君が通り過ぎたあとに -Don\'t Pass Me By-](https://ja.wikipedia.org/wiki/君が通り過ぎたあとに_-Don\'t_Pass_Me_By-)から翻訳されています。
 
 
 「**君が通り過ぎたあとに -Don't Pass Me By-**」（きみがとおりすぎたあとに ドント・パス・ミー・バイ） は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（[シングル](../Page/シングル.md "wikilink")盤では同時発売のシングル曲と差別化を図り**Alfee**名義となっている）のシングル。

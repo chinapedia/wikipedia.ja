@@ -1,4 +1,4 @@
-> この記事は[ My Sweet Honey](https://ja.wikipedia.org/wiki/_My_Sweet_Honey)から翻訳されています。
+> この記事は[スーパーカーと暮らす 〜My Sweet Honey〜](https://ja.wikipedia.org/wiki/スーパーカーと暮らす_〜My_Sweet_Honey〜)から翻訳されています。
 
 
 **スーパーカーと暮らす～My Sweet Honey～**は、[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")から全5回で放送された番組。7月6日から新作と合わせて、全13回で放送された。

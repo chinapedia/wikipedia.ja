@@ -1,4 +1,4 @@
-> この記事は[EA](https://ja.wikipedia.org/wiki/EA)から翻訳されています。
+> この記事は[EAギャンガン](https://ja.wikipedia.org/wiki/EAギャンガン)から翻訳されています。
 
 
 **アン・アヴォン・ドゥ・ギャンガン・コート＝ダルモール**（, , ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ガンガンを本拠地とする](https://ja.wikipedia.org/wiki/ガンガン_\(フランス\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

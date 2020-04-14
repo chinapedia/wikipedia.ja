@@ -1,4 +1,4 @@
-> この記事は[GOGO](https://ja.wikipedia.org/wiki/GOGO)から翻訳されています。
+> この記事は[GOGOワイドらぶらじ](https://ja.wikipedia.org/wiki/GOGOワイドらぶらじ)から翻訳されています。
 
 
 『**GOGOワイドらぶらじ**』（ゴーゴーワイドらぶらじ）は、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBSラジオ）の平日 14:00 - 18:20（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

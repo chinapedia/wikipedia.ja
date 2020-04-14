@@ -1,4 +1,4 @@
-> この記事は[FV433  SPG](https://ja.wikipedia.org/wiki/FV433__SPG)から翻訳されています。
+> この記事は[FV433 アボット SPG](https://ja.wikipedia.org/wiki/FV433_アボット_SPG)から翻訳されています。
 
 
 **FV433 アボット**（FV433 "Abbot" self propelled gun）は、[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")の105mm[自走](../Page/自走砲.md "wikilink")[榴弾砲](../Page/榴弾砲.md "wikilink")である。

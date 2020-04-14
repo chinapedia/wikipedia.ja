@@ -1,4 +1,4 @@
-> この記事は[vs.](https://ja.wikipedia.org/wiki/vs.)から翻訳されています。
+> この記事は[パックマンvs.](https://ja.wikipedia.org/wiki/パックマンvs.)から翻訳されています。
 
 
 **パックマンvs.**（パックマンブイエス）は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）と[任天堂](../Page/任天堂.md "wikilink")のコラボレーションから生まれた対戦アクションゲーム。[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")を接続する周辺機器[GBAケーブル](../Page/GBAケーブル.md "wikilink")を用いた新機軸のゲームとして考案されたが一般市販はされなかった。

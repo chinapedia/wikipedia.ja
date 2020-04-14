@@ -1,4 +1,4 @@
-> この記事は[DAWN ](https://ja.wikipedia.org/wiki/DAWN_)から翻訳されています。
+> この記事は[DAWN 〜冷たい手](https://ja.wikipedia.org/wiki/DAWN_〜冷たい手)から翻訳されています。
 
 
 『**DAWN～冷たい手**』（**ドーン～つめたいて**）は[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")で2002年6月号から2007年10月号まで連載をしていた漫画。作者は[上田信舟](../Page/上田信舟.md "wikilink")。全6巻。

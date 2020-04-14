@@ -1,4 +1,4 @@
-> この記事は[ \(Perfume\)](https://ja.wikipedia.org/wiki/_\(Perfume\))から翻訳されています。
+> この記事は[ポリリズム \(Perfumeの曲\)](https://ja.wikipedia.org/wiki/ポリリズム_\(Perfumeの曲\))から翻訳されています。
 
 
 「**ポリリズム**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テクノポップ](../Page/テクノポップ.md "wikilink")ユニット・[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の5th[シングル](../Page/シングル.md "wikilink")。[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。[規格品番](../Page/規格品番.md "wikilink")は初回限定盤がTKCA-73250、通常盤はTKCA-73255。

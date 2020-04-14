@@ -1,4 +1,4 @@
-> この記事は[SF ZERO ONE SP](https://ja.wikipedia.org/wiki/SF_ZERO_ONE_SP)から翻訳されています。
+> この記事は[SFアドベンチャー ZERO ONE SP](https://ja.wikipedia.org/wiki/SFアドベンチャー_ZERO_ONE_SP)から翻訳されています。
 
 
 『**SFアドベンチャー ZERO ONE SP**』（エスエフアドベンチャー ゼロワン エスピー）は[フウキ](https://ja.wikipedia.org/wiki/フウキ "wikilink")より[2004年](../Page/2004年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[日本のヒップホップDJ一覧](https://ja.wikipedia.org/wiki/日本のヒップホップDJ一覧)から翻訳されています。
 
 
 **日本のヒップホップDJ一覧**（にほんのヒップホップディージェーいちらん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動している主な[ヒップホップ](../Page/ヒップホップ.md "wikilink")[DJの一覧である](../Page/ディスクジョッキー.md "wikilink")。 __NOTOC__

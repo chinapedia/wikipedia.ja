@@ -1,4 +1,4 @@
-> この記事は[Macintosh](https://ja.wikipedia.org/wiki/Macintosh)から翻訳されています。
+> この記事は[Macintosh互換機](https://ja.wikipedia.org/wiki/Macintosh互換機)から翻訳されています。
 
 
 **Macintosh互換機**（マッキントッシュごかんき）は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[Mac OSを搭載し](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")と[互換性](../Page/互換性.md "wikilink")を有する[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。**Mac OS互換機**、**マック・クローン**とも呼ばれる。

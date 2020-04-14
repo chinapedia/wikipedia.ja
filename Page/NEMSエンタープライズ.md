@@ -1,4 +1,4 @@
-> この記事は[NEMS](https://ja.wikipedia.org/wiki/NEMS)から翻訳されています。
+> この記事は[NEMSエンタープライズ](https://ja.wikipedia.org/wiki/NEMSエンタープライズ)から翻訳されています。
 
 
 **NEMS(ネムズ)エンタープライズ (NEMS Enterprise)**は、[1962年](../Page/1962年.md "wikilink")6月26日に[ブライアン・エプスタイン](../Page/ブライアン・エプスタイン.md "wikilink")が弟クライブを[共同経営者として](../Page/パートナーシップ.md "wikilink")、[ビートルズ](../Page/ビートルズ.md "wikilink")の[マネージメント実務を処理する組織として設立した会社である](https://ja.wikipedia.org/wiki/管理 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[BRIGHT \(\)](https://ja.wikipedia.org/wiki/BRIGHT_\(\))から翻訳されています。
+> この記事は[BRIGHT \(音楽ユニット\)](https://ja.wikipedia.org/wiki/BRIGHT_\(音楽ユニット\))から翻訳されています。
 
 
 **BRIGHT**（ブライト）は関西出身の[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2001年に前身となるコーラスグループ、**子スペラーズ**を結成。2003年NANAKAの加入を機に改名。
@@ -184,10 +184,10 @@
 ## 外部リンク
 
   - [オフィシャルサイト](http://www.bright-online.net/index.html)
-  - [オフィシャルブログ「BRIGHTのBrightestな日々」](http://ameblo.jp/bright-blog/)
+  - [オフィシャルブログ「BRIGHTのBrightestな日々」](https://ameblo.jp/bright-blog/)
   - [@peps\!ミュージック BRIGHT特設ページ](http://music.peps.jp/info/sp.php?guid=on&seq=286)
   - [小林菜々香（元メンバーNANAKA）のtwitterアカウント（@skknr)](http://twitter.com/skknr)
-  - [小林菜々香（元メンバーNANAKA）のブログ](http://ameblo.jp/k-nanaka777/)
+  - [小林菜々香（元メンバーNANAKA）のブログ](https://ameblo.jp/k-nanaka777/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 

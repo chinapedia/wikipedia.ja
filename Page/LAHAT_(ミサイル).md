@@ -1,4 +1,4 @@
-> この記事は[LAHAT \(\)](https://ja.wikipedia.org/wiki/LAHAT_\(\))から翻訳されています。
+> この記事は[LAHAT \(ミサイル\)](https://ja.wikipedia.org/wiki/LAHAT_\(ミサイル\))から翻訳されています。
 
 
 **LAHAT**は、[イスラエル・エアロスペース・インダストリーズ](https://ja.wikipedia.org/wiki/イスラエル・エアロスペース・インダストリーズ "wikilink")（IAI）社が開発した[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")。

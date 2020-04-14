@@ -1,4 +1,4 @@
-> この記事は[AXIS \(\)](https://ja.wikipedia.org/wiki/AXIS_\(\))から翻訳されています。
+> この記事は[AXIS \(雑誌\)](https://ja.wikipedia.org/wiki/AXIS_\(雑誌\))から翻訳されています。
 
 
 **AXIS**（アクシス）は、[1981年](../Page/1981年.md "wikilink")[9月](../Page/9月.md "wikilink")から[アクシスより発行されているデザイン情報誌](../Page/アクシス_\(企業\).md "wikilink")。創刊当初は季刊で発行され、56号（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）より隔月刊で年6冊発行されている（奇数月の1日発売）。発行部数は公称3万部（国内2万部、海外1万部）。

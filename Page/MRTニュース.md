@@ -1,4 +1,4 @@
-> この記事は[MRT](https://ja.wikipedia.org/wiki/MRT)から翻訳されています。
+> この記事は[MRTニュース](https://ja.wikipedia.org/wiki/MRTニュース)から翻訳されています。
 
 
 『**MRTニュース**』（エムアールティーニュース）は、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）で放送されている[ローカルニュース番組](../Page/報道番組.md "wikilink")。

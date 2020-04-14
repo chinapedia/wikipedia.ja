@@ -46,6 +46,5 @@
 
 ## 外部リンク
 
-  - [日本語版公式ホームページ](http://www.japan.ea.com/ssxtricky/)
-
+  -
 [Category:スノーボードゲーム](https://ja.wikipedia.org/wiki/Category:スノーボードゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:カナダで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:カナダで開発されたコンピュータゲーム "wikilink")

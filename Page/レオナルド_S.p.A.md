@@ -1,4 +1,4 @@
-> この記事は[ S.p.A](https://ja.wikipedia.org/wiki/_S.p.A)から翻訳されています。
+> この記事は[レオナルド S.p.A](https://ja.wikipedia.org/wiki/レオナルド_S.p.A)から翻訳されています。
 
 
 **レオナルド**（）は、[防衛](../Page/防衛.md "wikilink")、安全保障、[航空宇宙](https://ja.wikipedia.org/wiki/航空宇宙 "wikilink")の分野で活動するイタリアの企業。

@@ -1,7 +1,7 @@
 > この記事は[GREEN DAYS](https://ja.wikipedia.org/wiki/GREEN_DAYS)から翻訳されています。
 
 
-「**GREEN DAYS**」（グリーン・デイズ）は、[槇原敬之](../Page/槇原敬之.md "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")に[J-moreより発売された](../Page/Avex_trax.md "wikilink")。
+「**GREEN DAYS**」（グリーン・デイズ）は、[槇原敬之](../Page/槇原敬之.md "wikilink")の楽曲。[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")に[J-moreより](../Page/Avex_trax.md "wikilink")36枚目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 解説
 

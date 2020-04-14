@@ -1,4 +1,4 @@
-> この記事は[The First Contact](https://ja.wikipedia.org/wiki/The_First_Contact)から翻訳されています。
+> この記事は[ナイスの森〜The First Contact〜](https://ja.wikipedia.org/wiki/ナイスの森〜The_First_Contact〜)から翻訳されています。
 
 
 『**ナイスの森 〜The First Contact〜**』は、[2006年](../Page/2006年.md "wikilink")3月25日に公開された[日本映画](../Page/日本映画.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Believe \(Folder5\)](https://ja.wikipedia.org/wiki/Believe_\(Folder5\))から翻訳されています。
+> この記事は[Believe \(Folder5の曲\)](https://ja.wikipedia.org/wiki/Believe_\(Folder5の曲\))から翻訳されています。
 
 
 「**Believe**」（**ビリーヴ**）は、[Folder5](../Page/Folder5.md "wikilink")の楽曲。同グループ3枚目のシングルとして[2000年](../Page/2000年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[avex tuneから発売された](https://ja.wikipedia.org/wiki/avex_tune "wikilink")。下記のように、C/W曲ともども[SUPER EUROBEAT収録曲のカバー曲である](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")。

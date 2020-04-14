@@ -64,6 +64,6 @@
 ## 外部リンク
 
   - [ギャングス\&ANKHを懐かしむ掲示板](http://gangs-ankh-bbs.1616bbs.com/bbs/thread_1.html)
-  - [東 真司監督　公式ブログ](http://ameblo.jp/azuma-can/)
+  - [東 真司監督　公式ブログ](https://ameblo.jp/azuma-can/)
 
 [Category:過去のジャニーズ所属者](https://ja.wikipedia.org/wiki/Category:過去のジャニーズ所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:1980年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1980年に結成した音楽グループ "wikilink") [Category:1982年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に解散した音楽グループ "wikilink")

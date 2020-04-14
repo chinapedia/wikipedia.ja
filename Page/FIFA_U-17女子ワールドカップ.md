@@ -1,4 +1,4 @@
-> この記事は[FIFA U-17](https://ja.wikipedia.org/wiki/FIFA_U-17)から翻訳されています。
+> この記事は[FIFA U-17女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-17女子ワールドカップ)から翻訳されています。
 
 
 **FIFA U-17女子ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。

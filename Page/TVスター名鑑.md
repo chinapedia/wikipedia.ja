@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVスター名鑑](https://ja.wikipedia.org/wiki/TVスター名鑑)から翻訳されています。
 
 
 **TVスター名鑑**（てれびすたーめいかん）は、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")が毎年[秋](../Page/秋.md "wikilink")に発売する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")名鑑。

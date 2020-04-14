@@ -1,4 +1,4 @@
-> この記事は[TVN](https://ja.wikipedia.org/wiki/TVN)から翻訳されています。
+> この記事は[TVNラビリンスシアター](https://ja.wikipedia.org/wiki/TVNラビリンスシアター)から翻訳されています。
 
 
 『**TVNラビリンスシアター**』（ティーブイエヌ ラビリンス シアター）は、[奈良テレビで](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")[2003年](../Page/2003年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた[映画](../Page/映画.md "wikilink")番組である。

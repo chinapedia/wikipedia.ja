@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[バルセロナSC](https://ja.wikipedia.org/wiki/バルセロナSC)から翻訳されています。
 
 
 **バルセロナSC**（**Barcelona Sporting Club**）は[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の[グアヤキル](../Page/グアヤキル.md "wikilink")に本拠地を置くサッカークラブ。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との混同を避けたい場合には Barcelona de Guayaquil（バルセロナ・デ・グアヤキル）という呼称が用いられることもある。 [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")とは直接的な関係は無いものの、エンブレムは非常によく似ており親善試合も行ったことがある。

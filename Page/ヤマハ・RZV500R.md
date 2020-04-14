@@ -1,4 +1,4 @@
-> この記事は[RZV500R](https://ja.wikipedia.org/wiki/RZV500R)から翻訳されています。
+> この記事は[ヤマハ・RZV500R](https://ja.wikipedia.org/wiki/ヤマハ・RZV500R)から翻訳されています。
 
 
 **RZV500R**（アールゼットブイごひゃくアール）は[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[1984年](../Page/1984年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より販売を開始した、レーサーレプリカに分類される[オートバイ](../Page/オートバイ.md "wikilink")である。

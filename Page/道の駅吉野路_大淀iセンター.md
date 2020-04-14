@@ -1,4 +1,4 @@
-> この記事は[ i](https://ja.wikipedia.org/wiki/_i)から翻訳されています。
+> この記事は[道の駅吉野路 大淀iセンター](https://ja.wikipedia.org/wiki/道の駅吉野路_大淀iセンター)から翻訳されています。
 
 
 **道の駅吉野路 大淀iセンター**（みちのえき よしのじ おおよどあいセンター）は、[奈良県](../Page/奈良県.md "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[大淀町](../Page/大淀町.md "wikilink")芦原にある[国道169号](../Page/国道169号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。

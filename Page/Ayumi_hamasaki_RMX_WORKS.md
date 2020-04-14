@@ -7,7 +7,7 @@
 
 リミックスアルバムとしては『[Cyber TRANCE presents ayu trance 2](../Page/Cyber_TRANCE_presents_ayu_trance_2.md "wikilink")』から約半年ぶりのリリース。
 
-本作は、5thアルバム『[RAINBOW](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")』収録曲を中心としたリミックスアルバムで、リミックスのジャンル別に全3タイトルが同時発売。
+本作は、5枚目のアルバム『[RAINBOW](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")』収録曲を中心としたリミックスアルバムで、リミックスのジャンル別に全3タイトルが同時発売された。
 
 前作に引き続き、3タイトル全てが[CCCDで発売された](../Page/コピーコントロールCD.md "wikilink")。
 
@@ -104,7 +104,7 @@
 8.  Heartplace "Lab-4 remix"
       -
         Remixed and additional production by Lab-4
-9.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink") "Decoy & DJ Bonka remix"
+9.  [NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink") "Decoy & DJ Bonka remix"
       -
         Remixed and additional production by Decoy & DJ Bonka
 10. Endless sorrow "VooDoo & Serano remix"

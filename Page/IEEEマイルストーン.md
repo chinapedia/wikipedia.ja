@@ -1,4 +1,4 @@
-> この記事は[IEEE](https://ja.wikipedia.org/wiki/IEEE)から翻訳されています。
+> この記事は[IEEEマイルストーン](https://ja.wikipedia.org/wiki/IEEEマイルストーン)から翻訳されています。
 
 
 **IEEEマイルストーン**（アイトリプルイー マイルストーン）は、[IEEE](../Page/IEEE.md "wikilink")が[電気](../Page/電気.md "wikilink")・[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")技術やその関連分野における歴史的偉業に対して認定する賞。これに認定されるためには、25年以上に渡って世の中で高く評価を受けてきたという実績が必要である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[2007年](../Page/2007年.md "wikilink")11月現在で96件が認定されている。

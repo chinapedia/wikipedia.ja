@@ -35,4 +35,4 @@
   - [公式サイト](https://ansari.xprize.org/)
   - [WIRED.jp - スペースシップワン、ついにXプライズを獲得](http://wired.jp/wv/archives/2004/10/05/%E3%80%8E%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%83%E3%83%97%E3%83%AF%E3%83%B3%E3%80%8F%E3%80%81%E3%81%A4%E3%81%84%E3%81%ABx%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E3%82%92%E7%8D%B2%E5%BE%97/)
 
-[Category:科学技術の賞](https://ja.wikipedia.org/wiki/Category:科学技術の賞 "wikilink") [Category:民間宇宙開発](https://ja.wikipedia.org/wiki/Category:民間宇宙開発 "wikilink") [Category:宇宙開発関係のイベント](https://ja.wikipedia.org/wiki/Category:宇宙開発関係のイベント "wikilink") [Category:航空工学](https://ja.wikipedia.org/wiki/Category:航空工学 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:科学技術の賞](https://ja.wikipedia.org/wiki/Category:科学技術の賞 "wikilink") [Category:民間宇宙開発](https://ja.wikipedia.org/wiki/Category:民間宇宙開発 "wikilink") [Category:宇宙開発関係のイベント](https://ja.wikipedia.org/wiki/Category:宇宙開発関係のイベント "wikilink") [Category:航空工学](https://ja.wikipedia.org/wiki/Category:航空工学 "wikilink")

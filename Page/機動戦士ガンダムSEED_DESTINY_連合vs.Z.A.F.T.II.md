@@ -1,4 +1,4 @@
-> この記事は[SEED DESTINY vs.Z.A.F.T.II](https://ja.wikipedia.org/wiki/SEED_DESTINY_vs.Z.A.F.T.II)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II**』（きどうせんしガンダムシード デスティニー れんごうバーサスザフト ツー）は、[カプコン](../Page/カプコン.md "wikilink")が開発し[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[対戦型アクションゲーム](https://ja.wikipedia.org/wiki/対戦型アクションゲーム "wikilink")『[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")』の[アーケード版第](../Page/アーケードゲーム.md "wikilink")6作（公式には**チームバトルアクション**というジャンルが用いられている）。『**[機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink")**』の続編であり、システムはほぼそのまま継承されている。

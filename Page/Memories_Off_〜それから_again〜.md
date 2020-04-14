@@ -1,4 +1,4 @@
-> この記事は[Memories Off  again](https://ja.wikipedia.org/wiki/Memories_Off__again)から翻訳されています。
+> この記事は[Memories Off 〜それから again〜](https://ja.wikipedia.org/wiki/Memories_Off_〜それから_again〜)から翻訳されています。
 
 
 『**Memories Off 〜それから again〜**』（メモリーズオフ 〜それから アゲイン〜）は、[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に株式会社[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）

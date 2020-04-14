@@ -1,4 +1,4 @@
-> この記事は[Ver.S ](https://ja.wikipedia.org/wiki/Ver.S_)から翻訳されています。
+> この記事は[デジタルモンスターVer.S 〜デジモンテイマーズ〜](https://ja.wikipedia.org/wiki/デジタルモンスターVer.S_〜デジモンテイマーズ〜)から翻訳されています。
 
 
 **デジタルモンスターVer.S ～デジモンテイマーズ～**は[バンダイ](../Page/バンダイ.md "wikilink")より[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に発売された[セガサターン](../Page/セガサターン.md "wikilink")用ソフト。  それまで[たまごっち](../Page/たまごっち.md "wikilink")と同様のソフト一体型[携帯ゲーム機](https://ja.wikipedia.org/wiki/携帯ゲーム機 "wikilink")として展開していた[デジタルモンスター](../Page/デジタルモンスター.md "wikilink")シリーズの[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")作品第一作である。尚、[2001年](../Page/2001年.md "wikilink")に放送した同名のTVアニメ[デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")との関連性は無い。

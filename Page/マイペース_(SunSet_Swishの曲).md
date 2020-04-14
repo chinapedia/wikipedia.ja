@@ -1,4 +1,4 @@
-> この記事は[ \(SunSet Swish\)](https://ja.wikipedia.org/wiki/_\(SunSet_Swish\))から翻訳されています。
+> この記事は[マイペース \(SunSet Swishの曲\)](https://ja.wikipedia.org/wiki/マイペース_\(SunSet_Swishの曲\))から翻訳されています。
 
 
 「**マイペース**」は、[SunSet Swishの楽曲で](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")、インディーズ3枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[ミュージックレイン](../Page/ミュージックレイン.md "wikilink")から発売。
@@ -60,7 +60,7 @@
 
 ## 外部リンク
 
-  - [マイペース](http://www.sonymusic.co.jp/Music/Arch/MR/Sunsetswish/SMCL-116/) - [Sony Music Online Japan](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [マイペース](https://www.sonymusic.co.jp/artist/Sunsetswish/discography/SMCL-116) - [Sony Music Online Japan](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
 [Category:SunSet_Swishの楽曲](https://ja.wikipedia.org/wiki/Category:SunSet_Swishの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ミュージックレインの楽曲](https://ja.wikipedia.org/wiki/Category:ミュージックレインの楽曲 "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:BLEACHのアニメソング](https://ja.wikipedia.org/wiki/Category:BLEACHのアニメソング "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 

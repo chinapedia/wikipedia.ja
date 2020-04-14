@@ -1,4 +1,4 @@
-> この記事は[Everlasting \(Every Little Thing\)](https://ja.wikipedia.org/wiki/Everlasting_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[Everlasting \(Every Little Thingのアルバム\)](https://ja.wikipedia.org/wiki/Everlasting_\(Every_Little_Thingのアルバム\))から翻訳されています。
 
 
 『**everlasting**』（エヴァーラスティング）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

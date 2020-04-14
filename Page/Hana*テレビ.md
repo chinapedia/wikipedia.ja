@@ -1,4 +1,4 @@
-> この記事は[Hana\*](https://ja.wikipedia.org/wiki/Hana\*)から翻訳されています。
+> この記事は[Hana\*テレビ](https://ja.wikipedia.org/wiki/Hana\*テレビ)から翻訳されています。
 
 
 『**Hana\*テレビ**』（ハナテレビ）は、[2006年](../Page/2006年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[北海道放送](../Page/北海道放送.md "wikilink")（HBCテレビ）で放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")である。

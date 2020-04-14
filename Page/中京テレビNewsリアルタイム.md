@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[中京テレビNewsリアルタイム](https://ja.wikipedia.org/wiki/中京テレビNewsリアルタイム)から翻訳されています。
 
 
 『**中京テレビNEWSリアルタイム**』（ちゅうきょうテレビニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）で放送されていた夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")（[東海3県](../Page/東海3県.md "wikilink")）ローカル版。前番組は『[中京テレビニュースプラス1](../Page/中京テレビニュースプラス1.md "wikilink")』、後番組は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』[中京テレビローカルパート](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")。

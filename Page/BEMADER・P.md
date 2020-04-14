@@ -1,4 +1,4 @@
-> この記事は[BEMADERP](https://ja.wikipedia.org/wiki/BEMADERP)から翻訳されています。
+> この記事は[BEMADER・P](https://ja.wikipedia.org/wiki/BEMADER・P)から翻訳されています。
 
 
 『**BEMADER・P**』（びめいだー・ぴー）は、『[月刊少年チャンピオン](../Page/月刊少年チャンピオン.md "wikilink")』で連載された[長谷川裕一](../Page/長谷川裕一.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。全4話。長谷川裕一の初期連載作。

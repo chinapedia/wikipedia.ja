@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ジョン・R・アンダーソン](https://ja.wikipedia.org/wiki/ジョン・R・アンダーソン)から翻訳されています。
 
 
 **ジョン・R・アンダーソン**（John Robert Anderson、[1947年](../Page/1947年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[バンクーバー生まれのアメリカの](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")[認知心理学](../Page/認知心理学.md "wikilink")者・[認知科学](../Page/認知科学.md "wikilink")者・[計算機科学](../Page/計算機科学.md "wikilink")者。[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")教授。

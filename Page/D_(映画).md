@@ -1,4 +1,4 @@
-> この記事は[D \(\)](https://ja.wikipedia.org/wiki/D_\(\))から翻訳されています。
+> この記事は[D \(映画\)](https://ja.wikipedia.org/wiki/D_\(映画\))から翻訳されています。
 
 
 『**D**』（ディー）は、[1999年](../Page/1999年.md "wikilink")に製作された実写[特撮](../Page/特撮.md "wikilink")[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")作品。その後、「東京ファンタスティック映画祭」での上映や、[2000年](../Page/2000年.md "wikilink")には映画館での上映も行われた。

@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[DS楽引辞典](https://ja.wikipedia.org/wiki/DS楽引辞典)から翻訳されています。
 
 
 **DS楽引辞典**（ディーエスらくびきじてん）は、[2005年](../Page/2005年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[電子辞書](../Page/電子辞書.md "wikilink")ソフトである。この項では改良版である**漢字そのまま DS楽引辞典**、ニンテンドーDSiウェア版の**明鏡国語楽引辞典**、**ジーニアスパーソナル 英和楽引辞典**、**ジーニアスパーソナル和英楽引辞典**についても共に解説する。

@@ -7,7 +7,7 @@
 
 リミックスアルバムとしては、同時発売の『[ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』、『[ayu-ro mix 2](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix_2.md "wikilink")』から約半年ぶりのリリース。
 
-『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第4弾となる本作は、4thアルバム『[I am...](../Page/I_am....md "wikilink")』及び[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[A BEST](../Page/A_BEST.md "wikilink")』収録曲のリミックスアルバムで、リミックスのジャンル別に2タイトルが同時発売された。初回盤はピクチャーレーベル仕様。
+『**[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")**』シリーズの第4弾となる本作は、4枚目のアルバム『[I am...](../Page/I_am....md "wikilink")』および[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[A BEST](../Page/A_BEST.md "wikilink")』収録曲のリミックスアルバムで、リミックスのジャンル別に2タイトルが同時発売された。初回盤はピクチャーレーベル仕様。
 
 タイトルにある「selection」という言葉通り、過去のayu-mi-xからも数曲セレクトされている。
 
@@ -18,7 +18,7 @@
 ### 収録曲
 
 1.  [I am...](../Page/I_am....md "wikilink") (Acoustic Orchestra Version)
-2.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink") (Acoustic Orchestra Version)
+2.  [NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink") (Acoustic Orchestra Version)
 3.  [Endless sorrow](../Page/Endless_sorrow.md "wikilink") (Acoustic Orchestra Version)
 4.  [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink") (Acoustic Orchestra Version)
 5.  [Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink") (Acoustic Orchestra Version)

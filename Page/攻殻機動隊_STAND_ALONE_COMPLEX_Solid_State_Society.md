@@ -1,4 +1,4 @@
-> この記事は[ STAND ALONE COMPLEX Solid State Society](https://ja.wikipedia.org/wiki/_STAND_ALONE_COMPLEX_Solid_State_Society)から翻訳されています。
+> この記事は[攻殻機動隊 STAND ALONE COMPLEX Solid State Society](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_Solid_State_Society)から翻訳されています。
 
 
 『**攻殻機動隊 STAND ALONE COMPLEX Solid State Society**』（こうかくきどうたい スタンドアローンコンプレックス ソリッドステートソサイエティ）は、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")・[TVアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[スカパーの](../Page/スカパー・ブロードキャスティング.md "wikilink")[パーフェクト・チョイスで](../Page/スカチャン.md "wikilink")[2006年](../Page/2006年.md "wikilink")に放送された。『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』シリーズの続編であり、長編作品となっている。[広告媒体](https://ja.wikipedia.org/wiki/広告媒体 "wikilink")等では「**攻殻機動隊 S.A.C. SSS**」などと略称される場合がある\[1\]。

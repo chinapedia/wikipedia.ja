@@ -1,4 +1,4 @@
-> この記事は[BEST second session](https://ja.wikipedia.org/wiki/BEST_second_session)から翻訳されています。
+> この記事は[BEST 〜second session〜](https://ja.wikipedia.org/wiki/BEST_〜second_session〜)から翻訳されています。
 
 
 『**BEST 〜second session〜**』（ベスト セカンドセッション）は、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の2枚目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -107,47 +107,47 @@
 
     **Opening movie at OSAKA**
 
-2.  **Butterfly**
+2.  **[Butterfly](../Page/Butterfly_\(倖田來未の曲\).md "wikilink")**
 
-3.  **キューティーハニー**
+3.  **[キューティーハニー](../Page/LOVE_&_HONEY.md "wikilink")**
 
-4.  **Chase**
+4.  **[Chase](../Page/Chase_\(倖田來未の曲\).md "wikilink")**
 
-5.  **Gentle Words**
+5.  **[Gentle Words](../Page/Gentle_Words.md "wikilink")**
 
-6.  **Heat feat.MEGARYU**
+6.  **[Heat feat.MEGARYU](../Page/Chase_\(倖田來未の曲\).md "wikilink")**
 
-7.  **Hot Stuff feat.KM-MARKIT**
+7.  **[Hot Stuff feat. KM-MARKIT](../Page/Hot_Stuff_feat._KM-MARKIT.md "wikilink")**
 
-8.  **Crazy 4 U**
+8.  **[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")**
 
-9.  **hands**
+9.  **[hands](https://ja.wikipedia.org/wiki/hands_\(倖田來未の曲\) "wikilink")**
 
-10. **NO TRICKS**
+10. **[NO TRICKS](../Page/BEST_〜first_things〜.md "wikilink")**
 
-11. **Rain (Unplugged Version)**
+11. **[Rain (Unplugged Version)](../Page/No_Regret.md "wikilink")**
 
-12. **TAKE BACK**
+12. **[TAKE BACK](../Page/TAKE_BACK.md "wikilink")**
 
-13. **m・a・z・e**
+13. **[m・a・z・e](https://ja.wikipedia.org/wiki/m・a・z・e "wikilink")**
 
-14. **Selfish**
+14. **[Selfish](https://ja.wikipedia.org/wiki/girls〜Selfish〜 "wikilink")**
 
-15. **Promise**
+15. **[Promise](https://ja.wikipedia.org/wiki/Promise/Star "wikilink")**
 
-16. **Star**
+16. **[Star](https://ja.wikipedia.org/wiki/Promise/Star "wikilink")**
 
-17. **Trust Your Love**
+17. **[Trust Your Love](../Page/Trust_Your_Love.md "wikilink")**
 
-18. **COME WITH ME**
+18. **[COME WITH ME](../Page/COME_WITH_ME.md "wikilink")**
 
-19. **real Emotion**
+19. **[real Emotion](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")**
 
-20. **the meaning of peace**
+20. **[the meaning of peace](https://ja.wikipedia.org/wiki/the_meaning_of_peace "wikilink")**
 
-21. **flower**
+21. **[flower](https://ja.wikipedia.org/wiki/flower_\(倖田來未の曲\) "wikilink")**
 
-22. **walk**
+22. **[walk](https://ja.wikipedia.org/wiki/affection "wikilink")**
 
 <!-- end list -->
 

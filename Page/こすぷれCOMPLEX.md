@@ -1,4 +1,4 @@
-> この記事は[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX)から翻訳されています。
+> この記事は[こすぷれCOMPLEX](https://ja.wikipedia.org/wiki/こすぷれCOMPLEX)から翻訳されています。
 
 
 『**こすぷれCOMPLEX**』（こすぷれコンプレックス）は、[OVA](../Page/OVA.md "wikilink")作品。2002年5月に第1巻が発売された。全3巻。
@@ -13,7 +13,7 @@
 
 合宿も終わり、こすぷれ甲子園を目前にしたコスプレ同好会は、昨年のコスプレ甲子園優勝校真宝塚学園コスプレ部と練習試合を行うことに。
 
-## 登場キャラクター
+## 登場人物
 
   - 長谷川チャコ
     [声](../Page/声優.md "wikilink") - [野川さくら](../Page/野川さくら.md "wikilink")

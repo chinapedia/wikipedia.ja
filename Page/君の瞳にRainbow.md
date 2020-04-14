@@ -1,4 +1,4 @@
-> この記事は[Rainbow](https://ja.wikipedia.org/wiki/Rainbow)から翻訳されています。
+> この記事は[君の瞳にRainbow](https://ja.wikipedia.org/wiki/君の瞳にRainbow)から翻訳されています。
 
 
 「**君の瞳にRainbow**」（きみのひとみにレインボー）は、[織田哲郎](../Page/織田哲郎.md "wikilink")のシングル。

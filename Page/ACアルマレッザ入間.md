@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACアルマレッザ入間](https://ja.wikipedia.org/wiki/ACアルマレッザ入間)から翻訳されています。
 
 
 **ACアルマレッザ入間**（エーシーアルマレッザいるま）とは、[埼玉県](../Page/埼玉県.md "wikilink")[入間市](../Page/入間市.md "wikilink")を本拠地とする[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の一つである。アルマレッザとは[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の（魂）と（雑草）を合わせた造語であり\[1\]\[2\]、「雑草魂」を意味する\[3\]\[4\]。

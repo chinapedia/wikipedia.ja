@@ -1,4 +1,4 @@
-> この記事は[ Gyu!](https://ja.wikipedia.org/wiki/_Gyu!)から翻訳されています。
+> この記事は[ふしぎ星の☆ふたご姫 Gyu!](https://ja.wikipedia.org/wiki/ふしぎ星の☆ふたご姫_Gyu!)から翻訳されています。
 
 
 『**ふしぎ星の☆ふたご姫 Gyu\!**』（ふしぎぼしの ふたごひめ ぎゅっ\!）は、日本の[アニメ](../Page/アニメ.md "wikilink")作品。[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京系列で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")。

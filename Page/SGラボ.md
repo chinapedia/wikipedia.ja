@@ -1,4 +1,4 @@
-> この記事は[SG](https://ja.wikipedia.org/wiki/SG)から翻訳されています。
+> この記事は[SGラボ](https://ja.wikipedia.org/wiki/SGラボ)から翻訳されています。
 
 
 <div class="pathnavbox">

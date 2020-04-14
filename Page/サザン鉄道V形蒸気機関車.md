@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[サザン鉄道V形蒸気機関車](https://ja.wikipedia.org/wiki/サザン鉄道V形蒸気機関車)から翻訳されています。
 
 
 [Grosmont_Depot_MMB_08_30926.jpg](https://ja.wikipedia.org/wiki/File:Grosmont_Depot_MMB_08_30926.jpg "fig:Grosmont_Depot_MMB_08_30926.jpg") [440locomotivestowe.jpg](https://ja.wikipedia.org/wiki/File:440locomotivestowe.jpg "fig:440locomotivestowe.jpg") **V形** (SR Class V) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[サザン鉄道](../Page/サザン鉄道_\(イギリス\).md "wikilink") (Southern Railway, SR) で使用されていた[蒸気機関車](../Page/蒸気機関車.md "wikilink")。**スクールズ級** (Schools class) としても知られ、各機関車には有名な[パブリックスクール](../Page/パブリックスクール.md "wikilink")の名前が付けられている。

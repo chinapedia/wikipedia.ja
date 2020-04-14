@@ -1,4 +1,4 @@
-> この記事は[Eternity \(Every Little Thing\)](https://ja.wikipedia.org/wiki/Eternity_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[Eternity \(Every Little Thingのアルバム\)](https://ja.wikipedia.org/wiki/Eternity_\(Every_Little_Thingのアルバム\))から翻訳されています。
 
 
 『**eternity**』（エターニティ）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")3rd[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[avex traxから発売した](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
@@ -6,7 +6,7 @@
 ## 概要
 
   - オリジナルアルバムとしては、前作『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』以来、約2年振りとなる。
-  - 3人体制としては最後のアルバムとなり、本作を最後にリーダーで[キーボード担当の](../Page/キーボード_\(楽器\).md "wikilink")[五十嵐充](../Page/五十嵐充.md "wikilink")はプロデュース活動に専念するためにEvery Little Thingを脱退した。
+  - 3人体制としては最後のアルバムとなり、本作を最後にリーダーで[キーボード担当の](../Page/キーボード_\(楽器\).md "wikilink")[五十嵐充](../Page/五十嵐充.md "wikilink")はプロデュース活動に専念するためにEvery Little Thingを脱退し、オリジナルアルバムとしては約10年後の9thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』まで途切れることとなる。
   - 前2作までのアルバムは、五十嵐がほぼ全ての楽曲を制作をしていたが、このアルバムでは3人で楽曲制作された曲が多く、本作以降からは、持田と伊藤も楽曲製作に関わっていくようになる。
   - 初回限定盤はピクチャーレーベル仕様。
   - 本作発売後、3曲が新たにシングルカットされたため、インストやリミックスを除き純粋なアルバム収録曲は2曲のみとなっている。

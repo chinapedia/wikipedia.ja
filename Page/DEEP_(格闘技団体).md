@@ -1,4 +1,4 @@
-> この記事は[DEEP \(\)](https://ja.wikipedia.org/wiki/DEEP_\(\))から翻訳されています。
+> この記事は[DEEP \(格闘技団体\)](https://ja.wikipedia.org/wiki/DEEP_\(格闘技団体\))から翻訳されています。
 
 
 **DEEP**（ディープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")[団体](../Page/団体.md "wikilink")。[2002年](../Page/2002年.md "wikilink")までは正式名称として**DEEP2001**（ディープにせんいち）を名乗っていたが[2003年](../Page/2003年.md "wikilink")から**DEEP**に変更。
@@ -1431,7 +1431,7 @@
   -
   - [SHERDOG大会データ](http://www.sherdog.com/organizations/Deep-24)
 
-[Category:DEEP](https://ja.wikipedia.org/wiki/Category:DEEP "wikilink") [Category:プロ総合格闘技団体](https://ja.wikipedia.org/wiki/Category:プロ総合格闘技団体 "wikilink") [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink")
+[Category:DEEP](https://ja.wikipedia.org/wiki/Category:DEEP "wikilink") [Category:プロ総合格闘技団体](https://ja.wikipedia.org/wiki/Category:プロ総合格闘技団体 "wikilink")
 
 1.  [【DEEP】 2.22 後楽園:朝日昇、OUTRAGEコラボグッズをデザイン](http://www.boutreview.com/data/news05/080222deep.html) BoutReview 2007年12月13日
 2.  [【DEEP】12・19初の金網大会が正式に決定、全15カードを予定](http://gbring.com/sokuho/news/2009_10/1016_deep_02.htm) 格闘技ウェブマガジンGBR 2009年10月16日

@@ -1,4 +1,4 @@
-> この記事は[BBLUE](https://ja.wikipedia.org/wiki/BBLUE)から翻訳されています。
+> この記事は[B・BLUE](https://ja.wikipedia.org/wiki/B・BLUE)から翻訳されています。
 
 
 「**B・BLUE**」（ビー・ブルー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")4枚目のシングル。

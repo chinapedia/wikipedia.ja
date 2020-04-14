@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[モデナFC](https://ja.wikipedia.org/wiki/モデナFC)から翻訳されています。
 
 
 **モデナFC.2018**（）は、[イタリア](../Page/イタリア.md "wikilink")・[エミリア＝ロマーニャ州](../Page/エミリア＝ロマーニャ州.md "wikilink")[モデナ](../Page/モデナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC\(サッカー\) "wikilink")。

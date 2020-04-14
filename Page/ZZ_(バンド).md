@@ -1,4 +1,4 @@
-> この記事は[ZZ \(\)](https://ja.wikipedia.org/wiki/ZZ_\(\))から翻訳されています。
+> この記事は[ZZ \(バンド\)](https://ja.wikipedia.org/wiki/ZZ_\(バンド\))から翻訳されています。
 
 
 **ZZ**（ズィーズィー）は、日本の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[静岡県](../Page/静岡県.md "wikilink")出身の男女5人によって構成される。所属レーベルは[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。所属事務所は[euclid agency](https://ja.wikipedia.org/wiki/euclid_agency "wikilink")。

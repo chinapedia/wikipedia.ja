@@ -1,4 +1,4 @@
-> この記事は[FRIENDSHIP \(H Jungle with t\)](https://ja.wikipedia.org/wiki/FRIENDSHIP_\(H_Jungle_with_t\))から翻訳されています。
+> この記事は[FRIENDSHIP \(H Jungle with tの曲\)](https://ja.wikipedia.org/wiki/FRIENDSHIP_\(H_Jungle_with_tの曲\))から翻訳されています。
 
 
 **FRIENDSHIP**（フレンドシップ）は、[H Jungle with tの](../Page/H_Jungle_with_t.md "wikilink")3枚目のシングル。
@@ -25,7 +25,7 @@
 
 ## 出典
 
-[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「PATi PATi」1996年5月号7P-11Pより。
 2.

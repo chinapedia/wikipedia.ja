@@ -1,4 +1,4 @@
-> この記事は[Active \(\)](https://ja.wikipedia.org/wiki/Active_\(\))から翻訳されています。
+> この記事は[Active \(アダルトゲームブランド\)](https://ja.wikipedia.org/wiki/Active_\(アダルトゲームブランド\))から翻訳されています。
 
 
 **Active**（アクティブ）は、[ソシエッタ代官山](https://ja.wikipedia.org/wiki/ソシエッタ代官山 "wikilink")（[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。2005年の作品を最後に活動を停止している。

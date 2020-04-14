@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKラジオセンター](https://ja.wikipedia.org/wiki/NHKラジオセンター)から翻訳されています。
 
 
 **NHKラジオセンター**（エヌエイチケイラジオセンター）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[ラジオ番組](../Page/ラジオ番組.md "wikilink")を制作する本部放送総局配下の組織\[1\]。

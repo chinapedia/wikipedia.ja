@@ -1,4 +1,4 @@
-> この記事は[LDU](https://ja.wikipedia.org/wiki/LDU)から翻訳されています。
+> この記事は[LDUキト](https://ja.wikipedia.org/wiki/LDUキト)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Ldu_stadium.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ldu1930.gif "wikilink") **リーガ・デポルティーバ・ウニベルシタリア**（ ()）は、[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の首都[キト](../Page/キト.md "wikilink")に本拠地を置くプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。エクアドル国内には同名のクラブが複数あるため、便宜上、**LDUキト** () 、**リーガ・デ・キト**（リガ・デ・キト）などと呼ばれる。[セリエA](https://ja.wikipedia.org/wiki/セリエA_\(エクアドル\) "wikilink")（1部）に所属している。一般にカサ・ブランカ（白い家）と呼ばれる[エスタディオ・ロドリゴ・パス・デルガド](https://ja.wikipedia.org/wiki/エスタディオ・ロドリゴ・パス・デルガド "wikilink")をホームスタジアムとしている。

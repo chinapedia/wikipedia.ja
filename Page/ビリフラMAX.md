@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[ビリフラMAX](https://ja.wikipedia.org/wiki/ビリフラMAX)から翻訳されています。
 
 
 **ビリフラMAX**（びりふらまっくす）は[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")が金曜午後に放送していた[生放送](../Page/生放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

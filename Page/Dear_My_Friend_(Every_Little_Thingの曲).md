@@ -1,4 +1,4 @@
-> この記事は[Dear My Friend \(Every Little Thing\)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[Dear My Friend \(Every Little Thingの曲\)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(Every_Little_Thingの曲\))から翻訳されています。
 
 
 「**Dear My Friend**」（ディア・マイ・フレンド）は、日本の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に発売した3rdシングル。

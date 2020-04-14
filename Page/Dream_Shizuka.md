@@ -81,7 +81,7 @@ LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜
 
 <div class="NavContent" style="text-align: left;">
 
-  - 3月29日：東京・[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")
+  - <s>3月29日：東京・[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")</s>（新型ウイルスによる政府の自粛要請に従い中止）
 
 </div>
 

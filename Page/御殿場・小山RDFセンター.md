@@ -1,4 +1,4 @@
-> この記事は[RDF](https://ja.wikipedia.org/wiki/RDF)から翻訳されています。
+> この記事は[御殿場・小山RDFセンター](https://ja.wikipedia.org/wiki/御殿場・小山RDFセンター)から翻訳されています。
 
 
 **御殿場・小山RDFセンター**（ごてんば・おやまRDFセンター）は[静岡県](../Page/静岡県.md "wikilink")[駿東郡](../Page/駿東郡.md "wikilink")[小山町](../Page/小山町.md "wikilink")にあった[ゴミ処理施設](https://ja.wikipedia.org/wiki/ゴミ処理施設 "wikilink")。[御殿場市・小山町広域行政組合](https://ja.wikipedia.org/wiki/御殿場市・小山町広域行政組合 "wikilink")によって運営される。設計・施工は[三菱商事](../Page/三菱商事.md "wikilink")・[石川島播磨重工業](https://ja.wikipedia.org/wiki/石川島播磨重工業 "wikilink")・[荏原製作所](../Page/荏原製作所.md "wikilink")・[フジタ](../Page/フジタ.md "wikilink")共同企業体。建設費79億2070万円。

@@ -1,4 +1,4 @@
-> この記事は[! \(TBS\)](https://ja.wikipedia.org/wiki/!_\(TBS\))から翻訳されています。
+> この記事は[スイッチ! \(TBSテレビ\)](https://ja.wikipedia.org/wiki/スイッチ!_\(TBSテレビ\))から翻訳されています。
 
 
 『**スイッチ\!**』(正式番組名:*Switch\! -Wednesday variery night-* **スイッチ\!**)は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局のTBSでは、[2006年](../Page/2006年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")（12日深夜）から同年[9月21日](../Page/9月21日.md "wikilink")（20日深夜）まで、毎週[木曜](../Page/木曜日.md "wikilink")0:25 - 0:55([水曜深夜](../Page/水曜日.md "wikilink")、[JST](../Page/日本標準時.md "wikilink"))に放送された。

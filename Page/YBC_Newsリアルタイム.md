@@ -1,4 +1,4 @@
-> この記事は[YBC News](https://ja.wikipedia.org/wiki/YBC_News)から翻訳されています。
+> この記事は[YBC Newsリアルタイム](https://ja.wikipedia.org/wiki/YBC_Newsリアルタイム)から翻訳されています。
 
 
 **YBC Newsリアルタイム**（ワイビーシー・ニュース・りあるたいむ）は、[山形放送](../Page/山形放送.md "wikilink")テレビで2006年4月3日から2010年3月27日まで放送された、平日のニュース・情報番組。

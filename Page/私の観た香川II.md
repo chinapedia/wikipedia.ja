@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[私の観た香川II](https://ja.wikipedia.org/wiki/私の観た香川II)から翻訳されています。
 
 
 **私の観た香川II**（わたしのみたかがわつー）は、[西日本放送](../Page/西日本放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -29,6 +29,6 @@
 
   - [私の観た香川II](http://www.rnc.co.jp/radio/seekagawa/)（[西日本放送](../Page/西日本放送.md "wikilink")）
 
-[カテゴリ:西日本放送のラジオ番組](https://ja.wikipedia.org/wiki/カテゴリ:西日本放送のラジオ番組 "wikilink") [カテゴリ:ローカルラジオ局のトーク番組‎](https://ja.wikipedia.org/wiki/カテゴリ:ローカルラジオ局のトーク番組‎ "wikilink") [カテゴリ:1990年のラジオ番組 (日本)](https://ja.wikipedia.org/wiki/カテゴリ:1990年のラジオ番組_\(日本\) "wikilink")
+[カテゴリ:西日本放送のラジオ番組](https://ja.wikipedia.org/wiki/カテゴリ:西日本放送のラジオ番組 "wikilink") [カテゴリ:ローカルラジオ局のトーク番組](https://ja.wikipedia.org/wiki/カテゴリ:ローカルラジオ局のトーク番組 "wikilink") [カテゴリ:1990年のラジオ番組 (日本)](https://ja.wikipedia.org/wiki/カテゴリ:1990年のラジオ番組_\(日本\) "wikilink")
 
 1.  <http://www.kamado.co.jp/tanosimu/cm/asx_6.asx>

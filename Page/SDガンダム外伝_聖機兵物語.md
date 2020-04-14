@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム外伝 聖機兵物語](https://ja.wikipedia.org/wiki/SDガンダム外伝_聖機兵物語)から翻訳されています。
 
 
 **SDガンダム外伝 聖機兵物語編**（エスディーガンダムがいでん せいきへいものがたりへん）は、[バンダイ](../Page/バンダイ.md "wikilink")の玩具[カードダス](../Page/カードダス.md "wikilink")を中心とした企画。[騎士ガンダム](../Page/騎士ガンダム.md "wikilink")シリーズの第三作である。

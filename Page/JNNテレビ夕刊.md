@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNテレビ夕刊](https://ja.wikipedia.org/wiki/JNNテレビ夕刊)から翻訳されています。
 
 
 『**JNNテレビ夕刊**』（ジェイエヌエヌ・テレビゆうかん）とは、[TBSをキー局とする](../Page/TBSテレビ.md "wikilink")[JNN加盟局で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1959年](../Page/1959年.md "wikilink")8月から[1962年](../Page/1962年.md "wikilink")9月まで（日曜日のみ[1965年](../Page/1965年.md "wikilink")3月まで）にかけて放送されていた夕方の[ニュース番組である](../Page/報道番組.md "wikilink")。[大正製薬](../Page/大正製薬.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。

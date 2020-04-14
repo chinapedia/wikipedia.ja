@@ -1,4 +1,4 @@
-> この記事は[SHIHO \(\)](https://ja.wikipedia.org/wiki/SHIHO_\(\))から翻訳されています。
+> この記事は[SHIHO \(セクシーアイドル\)](https://ja.wikipedia.org/wiki/SHIHO_\(セクシーアイドル\))から翻訳されています。
 
 
 **SHIHO**（しほ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）とは、[宮崎県](../Page/宮崎県.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[セクシーアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")、女性[歌手](../Page/歌手.md "wikilink")である。 旧姓での本名は**坂本 志穂**（さかもと しほ）。　血液型・O型。　所属事務所は「株式会社 オー・エム・コーポレーション 芸能プロダクション部」。以前は「[アーティストハウス・ピラミッド](../Page/アーティストハウス・ピラミッド.md "wikilink")」「[メインキャストプロダクション](../Page/メインキャストプロダクション.md "wikilink")」に所属していた。

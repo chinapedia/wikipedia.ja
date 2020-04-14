@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCスポーツ](https://ja.wikipedia.org/wiki/BBCスポーツ)から翻訳されています。
 
 
 **BBCスポーツ** (**BBC Sport**) は[英国放送協会](../Page/英国放送協会.md "wikilink")のスポーツ番組製作部門である。国内では[PAL](../Page/PAL.md "wikilink")ワイド制作だが、[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")から[HDTV試験放送が開始され](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、HD番組も順次制作される予定である。地上アナログ放送では14:9画面で放送される。スポーツ中継のみならず、各種スポーツ関連情報をテレビ・ラジオ各チャンネル(スポーツ情報番組制作を含む)、及び[BBCニュース・オンライン](../Page/BBCニュース・オンライン.md "wikilink")へ配信している。

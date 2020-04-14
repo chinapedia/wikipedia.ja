@@ -1,4 +1,4 @@
-> この記事は[! \(BSCS\)](https://ja.wikipedia.org/wiki/!_\(BSCS\))から翻訳されています。
+> この記事は[温泉へ行こう! \(BS・CS番組\)](https://ja.wikipedia.org/wiki/温泉へ行こう!_\(BS・CS番組\))から翻訳されています。
 
 
 『**温泉へ行こう\!**』（おんせんへいこう）は、日本の[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")チャンネル・[フジテレビ739](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")（現：フジテレビONE スポーツ・バラエティ）、[フジテレビCSHD](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")（現：フジテレビNEXT ライブ・プレミアム）と、[BSフジ](../Page/BSフジ.md "wikilink")で放送されていた温泉[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。全編[ハイビジョン](../Page/ハイビジョン.md "wikilink")撮影。

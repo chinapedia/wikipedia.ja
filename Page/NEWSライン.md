@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSライン](https://ja.wikipedia.org/wiki/NEWSライン)から翻訳されています。
 
 
 『**NEWSライン**』（ニュースライン）は、2001年から2009年3月まで[奈良テレビで放送されていた平日最終便の](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

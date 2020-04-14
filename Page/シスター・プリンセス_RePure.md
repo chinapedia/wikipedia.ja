@@ -1,4 +1,4 @@
-> この記事は[ RePure](https://ja.wikipedia.org/wiki/_RePure)から翻訳されています。
+> この記事は[シスター・プリンセス RePure](https://ja.wikipedia.org/wiki/シスター・プリンセス_RePure)から翻訳されています。
 
 
 『**シスター・プリンセス RePure**』（シスター・プリンセス リピュア）は、[2002年](../Page/2002年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")まで[テレビ東京系列局](https://ja.wikipedia.org/wiki/TXN "wikilink")6局で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全13話。

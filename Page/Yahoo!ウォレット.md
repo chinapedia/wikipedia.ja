@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!ウォレット](https://ja.wikipedia.org/wiki/Yahoo!ウォレット)から翻訳されています。
 
 
 **Yahoo\!ウォレット**（ヤフーウォレット）とは、[Yahoo\! JAPANの有料サービスの決済を管理するサービス](../Page/Yahoo!_JAPAN.md "wikilink")。サービスの登録費用は無料。サービス開始は[2002年](../Page/2002年.md "wikilink")3月\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ななみとこのみのおしえてA・B・C](https://ja.wikipedia.org/wiki/ななみとこのみのおしえてA・B・C)から翻訳されています。
 
 
 『**ななみとこのみのおしえてA・B・C**』（ななみとこのみのおしえて エー ビー シー）は、[Studio Ringより発売された](../Page/Studio_Ring.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。「**ななこの**」と略される。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・マイケル・ビショップ](https://ja.wikipedia.org/wiki/J・マイケル・ビショップ)から翻訳されています。
 
 
 ` `

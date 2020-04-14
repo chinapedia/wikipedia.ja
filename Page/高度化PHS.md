@@ -1,4 +1,4 @@
-> この記事は[PHS](https://ja.wikipedia.org/wiki/PHS)から翻訳されています。
+> この記事は[高度化PHS](https://ja.wikipedia.org/wiki/高度化PHS)から翻訳されています。
 
 
 **高度化PHS**（こうどかピーエイチエス）とは、現行の[PHS](../Page/PHS.md "wikilink")規格の改良型である。高速[無線アクセス](../Page/無線アクセス.md "wikilink")システム的性能を持つ。

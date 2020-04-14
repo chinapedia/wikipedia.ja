@@ -1,4 +1,4 @@
-> この記事は[ CHOICE](https://ja.wikipedia.org/wiki/_CHOICE)から翻訳されています。
+> この記事は[コカコーラ×スペースシャワー CHOICE](https://ja.wikipedia.org/wiki/コカコーラ×スペースシャワー_CHOICE)から翻訳されています。
 
 
 **コカコーラ×スペースシャワー CHOICE**（[コカコーラ](https://ja.wikipedia.org/wiki/コカコーラ "wikilink")・[スペースシャワー](../Page/スペースシャワーTV.md "wikilink")・チョイス）は、スペースシャワーTVの番組「[ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜](../Page/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜.md "wikilink")」内のコーナーである。2003年4月に「ゴゴイチ\!」がスタートし、同時にこのコーナーもスタートした。ちなみにゴゴイチ\!は2006年3月で終了したため、このコーナーも終了した。

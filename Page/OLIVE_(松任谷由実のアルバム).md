@@ -1,4 +1,4 @@
-> この記事は[OLIVE \(\)](https://ja.wikipedia.org/wiki/OLIVE_\(\))から翻訳されています。
+> この記事は[OLIVE \(松任谷由実のアルバム\)](https://ja.wikipedia.org/wiki/OLIVE_\(松任谷由実のアルバム\))から翻訳されています。
 
 
 『**OLIVE**』（オリーブ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の7枚目のオリジナルアルバム。[1979年](../Page/1979年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-80085、[CT](../Page/コンパクトカセット.md "wikilink")：ZT25-425）。 [1979年](../Page/1979年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")～[7月30日](../Page/7月30日.md "wikilink")に『OLIVE』コンサートツアーが行われた。[1981年](../Page/1981年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")再発（LP：ETP-90083、CT：ZT28-783）。

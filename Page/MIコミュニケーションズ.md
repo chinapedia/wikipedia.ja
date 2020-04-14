@@ -1,4 +1,4 @@
-> この記事は[MI](https://ja.wikipedia.org/wiki/MI)から翻訳されています。
+> この記事は[MIコミュニケーションズ](https://ja.wikipedia.org/wiki/MIコミュニケーションズ)から翻訳されています。
 
 
 **株式会社MIコミュニケーションズ**（英称:*MICommunications Co., Ltd.*）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く、株式会社[フレックスホールディングス](https://ja.wikipedia.org/wiki/フレックスホールディングス "wikilink")傘下の[人材派遣](https://ja.wikipedia.org/wiki/人材派遣 "wikilink")会社。旧社名は、株式会社イーエックス・コミュニケーションズ→株式会社ライブドアコミュニケーションズ。当初はライブドアグループ（当時：エッジグループ）におけるコールセンター部門として設立された。

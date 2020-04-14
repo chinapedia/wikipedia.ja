@@ -1,4 +1,4 @@
-> この記事は[DEBUT \(\)](https://ja.wikipedia.org/wiki/DEBUT_\(\))から翻訳されています。
+> この記事は[DEBUT \(大滝詠一のアルバム\)](https://ja.wikipedia.org/wiki/DEBUT_\(大滝詠一のアルバム\))から翻訳されています。
 
 
 『**DEBUT**』（デビュー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[大滝詠一の](../Page/大瀧詠一.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
@@ -231,7 +231,7 @@ Side 2-4,5,6 by 松本隆 &amp; 大瀧詠一</p></td>
 
 ### 出典
 
-[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:大滝詠一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:大滝詠一のベスト・アルバム "wikilink") [Category:1978年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のベスト・アルバム "wikilink")
+[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:大瀧詠一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のベスト・アルバム "wikilink") [Category:大瀧詠一がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一がプロデュースしたアルバム "wikilink") [Category:1978年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1978年のベスト・アルバム "wikilink")
 
 1.  『[GO\! GO\! NIAGARA](../Page/GO!_GO!_NIAGARA.md "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") / [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LQ-7011-E (NGLP-507, 508-OT)
 2.  多羅尾伴内楽團『多羅尾伴内楽團 Vol.2』 発売 NIAGARA / COLUMBIA LP:LX-7042-E (NGLP-517, 518-TB), [CT](../Page/カセットテープ.md "wikilink"):CAY-1080-E

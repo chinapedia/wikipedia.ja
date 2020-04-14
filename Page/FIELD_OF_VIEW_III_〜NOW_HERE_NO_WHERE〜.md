@@ -1,4 +1,4 @@
-> この記事は[FIELD OF VIEW III NOW HERE NO WHERE](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_III_NOW_HERE_NO_WHERE)から翻訳されています。
+> この記事は[FIELD OF VIEW III 〜NOW HERE NO WHERE〜](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_III_〜NOW_HERE_NO_WHERE〜)から翻訳されています。
 
 
 『**FIELD OF VIEW III 〜NOW HERE NO WHERE〜**』（フィールド・オブ・ビュー・サード ナウ・ヒア・ノー・フェアー）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")3枚目のアルバム。

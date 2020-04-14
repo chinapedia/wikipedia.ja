@@ -184,6 +184,6 @@
 
 ### 出典
 
-[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:大滝詠一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:大滝詠一のベスト・アルバム "wikilink") [Category:1985年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1985年のベスト・アルバム "wikilink") [Category:松本隆の楽曲によるアルバム](https://ja.wikipedia.org/wiki/Category:松本隆の楽曲によるアルバム "wikilink")
+[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:大瀧詠一のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のベスト・アルバム "wikilink") [Category:大瀧詠一がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一がプロデュースしたアルバム "wikilink") [Category:1985年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1985年のベスト・アルバム "wikilink") [Category:松本隆の楽曲によるアルバム](https://ja.wikipedia.org/wiki/Category:松本隆の楽曲によるアルバム "wikilink")
 
 1.

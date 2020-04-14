@@ -1,4 +1,4 @@
-> この記事は[GARDEN \(\)](https://ja.wikipedia.org/wiki/GARDEN_\(\))から翻訳されています。
+> この記事は[GARDEN \(音楽ユニット\)](https://ja.wikipedia.org/wiki/GARDEN_\(音楽ユニット\))から翻訳されています。
 
 
 **GARDEN**（ガーデン）は、嶋田衛（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）と嶋田繁（[ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）による[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。**NICO**（ニコ）としての活動を経て、[1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりシングル「リダイヤル」でGARDENとして再デビュー。

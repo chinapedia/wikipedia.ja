@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[セス・B・ニコルソン](https://ja.wikipedia.org/wiki/セス・B・ニコルソン)から翻訳されています。
 
 
 **セス・バーンズ・ニコルソン**（Seth Barnes Nicholson、[1891年](../Page/1891年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink") – [1963年](../Page/1963年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[天文学者](../Page/天文学者.md "wikilink")である。[木星](../Page/木星.md "wikilink")の[衛星](../Page/衛星.md "wikilink")4個を発見し、赤外線による天体観測を行った。

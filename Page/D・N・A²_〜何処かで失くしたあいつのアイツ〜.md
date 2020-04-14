@@ -1,4 +1,4 @@
-> この記事は[DNA ](https://ja.wikipedia.org/wiki/DNA_)から翻訳されています。
+> この記事は[D・N・A² 〜何処かで失くしたあいつのアイツ〜](https://ja.wikipedia.org/wiki/D・N・A²_〜何処かで失くしたあいつのアイツ〜)から翻訳されています。
 
 
 『**D・N・A 〜何処かで失くしたあいつのアイツ〜**』（ディー・エヌ・エー・ツー どこかでなくしたあいつのアイツ）は[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")による[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびこれを原作とした[アニメ](../Page/アニメ.md "wikilink")である。

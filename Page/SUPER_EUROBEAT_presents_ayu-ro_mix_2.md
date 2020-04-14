@@ -5,9 +5,9 @@
 
 ## 解説
 
-リミックスアルバムとしては『[ayu-mi-x III](https://ja.wikipedia.org/wiki/ayu-mi-x_III "wikilink")』から約7ヵ月ぶりのリリースで、『**[ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")**』シリーズの第2弾。24thシングル「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」、リミックスアルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』と同時発売。
+リミックスアルバムとしては『[ayu-mi-x III](https://ja.wikipedia.org/wiki/ayu-mi-x_III "wikilink")』から約7ヵ月ぶりのリリースで、『**[ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")**』シリーズの第2弾。24枚目のシングル「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」、リミックスアルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』と同時発売。
 
-14thシングル「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」から22ndシングル「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」までのシングル表題曲9曲と、3rdアルバム『[Duty](../Page/Duty.md "wikilink")』の表題曲「Duty」の計10曲の未発表リミックスを収録。ボーナストラックとして、シリーズ前作の『[SUPER EUROBEAT presents ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")』から3曲のリミックスの新バージョンを収録している。
+14枚目の「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」から22枚目の「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」までのシングル表題曲9曲と、3枚目のアルバム『[Duty](../Page/Duty.md "wikilink")』の表題曲「Duty」の計10曲の未発表リミックスを収録。ボーナストラックとして、シリーズ前作の『[SUPER EUROBEAT presents ayu-ro mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")』から3曲のリミックスの新バージョンを収録している。
 
 初回盤のみ特殊パッケージ＋スペシャルトラックとして「[UNITE\!](../Page/UNITE!.md "wikilink")」のリミックスを収録。
 
@@ -36,7 +36,7 @@
 6.  [M](../Page/M_\(浜崎あゆみの曲\).md "wikilink") "Sweet Heart Mix"
       -
         Remixed by LAURENT NEWFIELD
-7.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink") "Eurobeat Mix"
+7.  [NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink") "Eurobeat Mix"
       -
         Remixed by LAURENT NEWFIELD
 8.  [Endless sorrow](../Page/Endless_sorrow.md "wikilink") "愛 Agressive Mix"

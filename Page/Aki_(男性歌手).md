@@ -1,4 +1,4 @@
-> この記事は[Aki \(\)](https://ja.wikipedia.org/wiki/Aki_\(\))から翻訳されています。
+> この記事は[Aki \(男性歌手\)](https://ja.wikipedia.org/wiki/Aki_\(男性歌手\))から翻訳されています。
 
 
 **aki**（アキ、[1970年](../Page/1970年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ヴォーカリスト](../Page/歌手.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。[左利き](../Page/左利き.md "wikilink")。

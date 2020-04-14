@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JRタワースクエア](https://ja.wikipedia.org/wiki/JRタワースクエア)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:JR_Tower_Square.jpg "wikilink") **JRタワースクエア** (ジェイアールタワースクエア、*JR TOWER SQUARE*) は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区の](../Page/中央区_\(札幌市\).md "wikilink")[JRタワー](../Page/JRタワー.md "wikilink")にある商業施設（[アピア](../Page/アピア_\(札幌市\).md "wikilink")、[エスタ](../Page/札幌エスタ.md "wikilink")、[パセオ](../Page/パセオ_\(札幌市\).md "wikilink")、[札幌ステラプレイス](../Page/札幌ステラプレイス.md "wikilink")）の総称\[1\]。

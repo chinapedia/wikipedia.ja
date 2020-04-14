@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[エドワード・G・サイデンステッカー](https://ja.wikipedia.org/wiki/エドワード・G・サイデンステッカー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Ed-Seidensticker-Ueno-Fall-2006.jpg "wikilink") **エドワード・ジョージ・サイデンステッカー**（**Edward George Seidensticker**, [1921年](../Page/1921年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")）は、[日本文学](../Page/日本文学.md "wikilink")作品の翻訳を通して、[日本の文化](../Page/日本の文化.md "wikilink")を広く紹介した[アメリカ人の日本学者](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。より正確には「サイデンスティッカー」だが、親しみをこめて「サイデンさん」などと呼ばれることもある。

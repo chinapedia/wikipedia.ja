@@ -1,4 +1,4 @@
-> この記事は[WING](https://ja.wikipedia.org/wiki/WING)から翻訳されています。
+> この記事は[W★INGプロモーション](https://ja.wikipedia.org/wiki/W★INGプロモーション)から翻訳されています。
 
 
 **W★INGプロモーション**（ウ★イング・プロモーション）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。W★INGは「レスリング・インターナショナル・ニュー・ジェネレーションズ」の略。W★INGプロモーションの前身団体「**世界格闘技連合W★ING**（せかいかくとうぎれんごうウ★イング）」と旗揚げ予定だった**世界格闘技連合**（せかいかくとうぎれんごう）についても記述している。

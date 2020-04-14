@@ -1,4 +1,4 @@
-> この記事は[OH!](https://ja.wikipedia.org/wiki/OH!)から翻訳されています。
+> この記事は[OH!くん](https://ja.wikipedia.org/wiki/OH!くん)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Oh_dome.jpg "wikilink") **OH\!くん**（おーくん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNS](../Page/フジネットワーク.md "wikilink")）系列で[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")がメインエリアのテレビ局、[岡山放送](../Page/岡山放送.md "wikilink")（OHK）の[マスコットキャラクター](https://ja.wikipedia.org/wiki/テレビ局のマスコットキャラクター "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")に登場した\[1\]。

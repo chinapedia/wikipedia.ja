@@ -1,4 +1,4 @@
-> この記事は[DFS](https://ja.wikipedia.org/wiki/DFS)から翻訳されています。
+> この記事は[DFSグループ](https://ja.wikipedia.org/wiki/DFSグループ)から翻訳されています。
 
 
 **DFS** (または「DFSグループ」) は、世界をリードするラグジュアリートラベルリテーラーである。1960年に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で創業し、現在では世界の主要な18の空港で免税店、14都市でギャラリア店を構える他、提携先やリゾート地においても店舗を運営している。DFSグループの主要株主は、ラグジュアリーコングロマリットである[LVMH](../Page/LVMH.md "wikilink")（モエ・ヘネシー・ルイヴィトン）及びDFS共同創業者のロバート・ミラー氏であり、株式非公開である。2012年には、2億人以上がDFSストアに来店した。DFSグループの従業員数は9,000名以上で、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に本社があり、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、そして[東京](../Page/東京.md "wikilink")にオフィスを構えている。

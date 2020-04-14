@@ -1,4 +1,4 @@
-> この記事は[MM\&CO](https://ja.wikipedia.org/wiki/MM\&CO)から翻訳されています。
+> この記事は[M・M・ヴァールブルク\&CO](https://ja.wikipedia.org/wiki/M・M・ヴァールブルク\&CO)から翻訳されています。
 
 
 **M・M・ヴァールブルク\&CO KGaA** （**M. M. Warburg & CO KGaA**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ユダヤ](../Page/ユダヤ.md "wikilink")系大手[銀行](../Page/銀行.md "wikilink")である。本拠地は[ハンブルク](../Page/ハンブルク.md "wikilink")。ヴァールブルクは、しばしば**ウォーバーグ**とも書かれる。

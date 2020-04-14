@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTレゾナント](https://ja.wikipedia.org/wiki/NTTレゾナント)から翻訳されています。
 
 
 **エヌ・ティ・ティ レゾナント株式会社**（NTTレゾナント、NTT Resonant Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[NTTグループ](../Page/NTTグループ.md "wikilink")の企業である。[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")が筆頭株主であり、実質的にNTTコムグループに属する。

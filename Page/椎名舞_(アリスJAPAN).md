@@ -1,4 +1,4 @@
-> この記事は[ \(JAPAN\)](https://ja.wikipedia.org/wiki/_\(JAPAN\))から翻訳されています。
+> この記事は[椎名舞 \(アリスJAPAN\)](https://ja.wikipedia.org/wiki/椎名舞_\(アリスJAPAN\))から翻訳されています。
 
 
 **椎名 舞**（しいな まい、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")である。

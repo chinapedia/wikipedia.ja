@@ -1,4 +1,4 @@
-> この記事は[D.J.](https://ja.wikipedia.org/wiki/D.J.)から翻訳されています。
+> この記事は[D.J.カラスコ](https://ja.wikipedia.org/wiki/D.J.カラスコ)から翻訳されています。
 
 
 **ダニエル・J・カラスコ**（**Daniel J. "D. J." Carrasco**, [1977年](../Page/1977年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[サフォード出身の元](https://ja.wikipedia.org/wiki/サフォード_\(アリゾナ州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。

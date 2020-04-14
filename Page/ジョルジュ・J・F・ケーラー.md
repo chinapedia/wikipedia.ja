@@ -1,4 +1,4 @@
-> この記事は[JF](https://ja.wikipedia.org/wiki/JF)から翻訳されています。
+> この記事は[ジョルジュ・J・F・ケーラー](https://ja.wikipedia.org/wiki/ジョルジュ・J・F・ケーラー)から翻訳されています。
 
 
 ` `

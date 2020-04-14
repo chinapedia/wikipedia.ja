@@ -1,4 +1,4 @@
-> この記事は[LUNCH BREAKSTYLE](https://ja.wikipedia.org/wiki/LUNCH_BREAKSTYLE)から翻訳されています。
+> この記事は[LUNCH BREAK☆STYLE](https://ja.wikipedia.org/wiki/LUNCH_BREAK☆STYLE)から翻訳されています。
 
 
 **LUNCH BREAK☆STYLE**（ランチブレイクスタイル）は、[広島FMのワイド番組](../Page/広島エフエム放送.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送された。通称は**ラブスタ**。

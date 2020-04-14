@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[講談社X文庫ティーンズハート](https://ja.wikipedia.org/wiki/講談社X文庫ティーンズハート)から翻訳されています。
 
 
 **講談社X文庫ティーンズハート**（こうだんしゃエックスぶんこティーンズハート）は、[講談社](../Page/講談社.md "wikilink")が発行していた[ライトノベル](../Page/ライトノベル.md "wikilink")系・[少女小説](../Page/少女小説.md "wikilink")系の[文庫](../Page/文庫.md "wikilink")レーベル。

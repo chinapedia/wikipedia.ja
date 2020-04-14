@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Rクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Rクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・Rクラス**（*Mercedes-Benz R-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開する、7人乗り自動車である。

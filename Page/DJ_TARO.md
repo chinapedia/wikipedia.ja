@@ -1,13 +1,13 @@
 > この記事は[DJ TARO](https://ja.wikipedia.org/wiki/DJ_TARO)から翻訳されています。
 
 
-**DJ TARO**（ディージェイタロー、[1972年](../Page/1972年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - ）は[クラブ・ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、編曲家。本名は**中田太郎**（なかだたろう）。自身が社長を務める[VASP所属](https://ja.wikipedia.org/wiki/バスプ "wikilink")。[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")出身\[1\]。
+**DJ TARO**（ディージェイ・タロー、[1972年](../Page/1972年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - ）は[クラブ・ラジオDJ](../Page/ディスクジョッキー.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、編曲家。本名は**中田 太郎**（なかだ たろう）。自身が社長を務める[VASP所属](https://ja.wikipedia.org/wiki/バスプ "wikilink")。[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")出身\[1\]。
 
 ## 来歴・人物
 
 [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")（母語）、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")の[トライリンガル](../Page/多言語.md "wikilink")。ホームページではネイティブレベル の発音と書かれている。
 
-父親が[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")で母親が[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")のハーフで歌手の[ソニア・ローザ](../Page/ソニア・ローザ.md "wikilink")。
+父親は[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")、母親は[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")のハーフで歌手の[ソニア・ローザ](../Page/ソニア・ローザ.md "wikilink")。
 
 特技は[ローラースケート](../Page/ローラースケート.md "wikilink")、[サーフィン](../Page/サーフィン.md "wikilink")、[スノーボード](../Page/スノーボード.md "wikilink")、ものまね（[タラちゃん](https://ja.wikipedia.org/wiki/サザエさんの登場人物#フグ田タラオ "wikilink")、[クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")など）。中でも[ローラースケート](../Page/ローラースケート.md "wikilink")はかなり上手く、}}。
 
@@ -29,7 +29,7 @@
       - [CLUB SOUNDS VIBRATION](https://ja.wikipedia.org/wiki/CLUB_SOUNDS_VIBRATION "wikilink")（2016年4月2日 - 2017年3月25日）
       - [UR LIFESTYLE COLLEGE](https://ja.wikipedia.org/wiki/UR_LIFESTYLE_COLLEGE "wikilink")（2016年4月3日 - 2017年3月26日）
       - [SATURDAY NIGHT VIBES](https://ja.wikipedia.org/wiki/SATURDAY_NIGHT_VIBES "wikilink")（2017年4月1日 - ）
-  - [JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")
+  - [JFN](../Page/全国FM放送協議会.md "wikilink")
       - [L.A.V.](../Page/L.A.V..md "wikilink")（2003年 - 2005年）
 
 ### テレビ
@@ -81,7 +81,7 @@
   -
 [Category:J-WAVEのナビゲーター](https://ja.wikipedia.org/wiki/Category:J-WAVEのナビゲーター "wikilink")
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:サンパウロ出身の人物](https://ja.wikipedia.org/wiki/Category:サンパウロ出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:サンパウロ出身の人物](https://ja.wikipedia.org/wiki/Category:サンパウロ出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

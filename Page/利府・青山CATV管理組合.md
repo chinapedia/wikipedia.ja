@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[利府・青山CATV管理組合](https://ja.wikipedia.org/wiki/利府・青山CATV管理組合)から翻訳されています。
 
 
 **利府・青山CATV管理組合**は、宮城県利府町にある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")管理組合である。

@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[Newsリアルタイムふくい](https://ja.wikipedia.org/wiki/Newsリアルタイムふくい)から翻訳されています。
 
 
 『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。

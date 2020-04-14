@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK短歌](https://ja.wikipedia.org/wiki/NHK短歌)から翻訳されています。
 
 
 **NHK短歌**（エヌエイチケイたんか）は、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[短歌](../Page/短歌.md "wikilink")番組である。
@@ -43,7 +43,7 @@
 
 :\* 第1週：[江戸雪](https://ja.wikipedia.org/wiki/江戸雪 "wikilink")
 
-:\* 第2週：[佐佐木頼綱](https://ja.wikipedia.org/wiki/佐佐木頼綱 "wikilink")
+:\* 第2週：[佐佐木頼綱](../Page/佐佐木頼綱.md "wikilink")
 
 :\* 第3週：[大辻隆弘](../Page/大辻隆弘.md "wikilink")
 

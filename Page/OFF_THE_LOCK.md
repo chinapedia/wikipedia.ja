@@ -11,13 +11,13 @@
 
 前作の発売からすぐに、「全曲シングルにできるくらいのクオリティ」を目指して作られ、製作には約1000時間と当時新人アーティストとしては異例の時間をかけて制作された。しかし、稲葉にとって本作製作時が一番[作詞](../Page/作詞.md "wikilink")に悩んだ時期だった。稲葉は後の[インタビュー](../Page/インタビュー.md "wikilink")で、「曲は既に出来て上がっているのに、自分が担当する詞がまったく出来ていなかった状況に大変焦り、常に作詞のことを考えているのが憂鬱でしょうがなかった」「また、苦労して作詞をしても周りから批評されるので、途中で投げ出して逃げたいと何度も思った」などと語っている\[3\]。その一方で松本は「稲葉の詞がよくなっている」と評している。
 
-しかし、発売当時は初登場35位\[4\]で、100位以内には4週ランクインしたのみで、前作と同様に殆ど売れず、メンバー曰く「（時間をかけたわりにはあまり売れず）周りの関係者からお叱りをうけた」と語っており、後に松本はインタビューで「全曲シングルでいけると思ったのになぜか売れなかった」とコメントしている。その後、実験的に発売したミニ・アルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』のヒットとともに売上を伸ばし、最終的には60万枚以上のセールスを記録した。
+しかし、発売当時は初登場35位\[4\]で、100位以内には4週ランクインしたのみで、前作と同様に殆ど売れず、メンバー曰く「（時間をかけたわりにはあまり売れず）周りの関係者からお叱りをうけた」と語っており、後に松本はインタビューで「全曲シングルでいけると思ったのになぜか売れなかった」とコメントしている。その後、実験的に発売したミニ・アルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』のヒットとともに売上を伸ばし、最終的には60万枚以上のセールスを記録した\[5\]。
 
-本作発売後、十分にライブができる数の曲が揃ったとして初の単独ライブツアー『[B'z LIVE-GYM \#00 "OFF THE LOCK"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』を行った。3会場3公演とはいえ、単独デビューライブとしては異例のホール会場\[5\]のみで開催された。
+本作発売後、十分にライブができる数の曲が揃ったとして初の単独ライブツアー『[B'z LIVE-GYM \#00 "OFF THE LOCK"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』を行った。3会場3公演とはいえ、単独デビューライブとしては異例のホール会場\[6\]のみで開催された。
 
-非公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Flash Back-B'z Early Special Titles-](../Page/Flash_Back-B'z_Early_Special_Titles-.md "wikilink")』には、表題曲「OFF THE LOCK」を除いた全曲が収録されている。
+非公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Flash Back -B'z Early Special Titles-](../Page/Flash_Back_-B'z_Early_Special_Titles-.md "wikilink")』には、表題曲「OFF THE LOCK」を除いた全曲が収録されている。
 
-[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナルアルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[6\]\[7\]。
+[2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナルアルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[7\]\[8\]。
 
 ## 収録曲
 
@@ -30,13 +30,13 @@
       -
         歌詞の内容は友人の恋を応援するというB'zの曲では珍しいシチュエーション。
         “Hip Chic”という[歌詞](../Page/歌詞.md "wikilink")は“サカナ”と歌われている。
-        ちなみに、B'zの曲で最もテンポの速い曲\[8\]。
+        ちなみに、B'zの曲で最もテンポの速い曲\[9\]。
         無名時代、『YAMAHA EXPLOSION '89』(バンドコンテストの大会。後にテレビ放映もされた)に前座として出演し、「[だからその手を離して](../Page/だからその手を離して.md "wikilink")」とこの曲を披露した。
         1992年に行われたツアー『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降演奏されていなかったが、2008年に行われたツアー『[B'z LIVE-GYM 2008 "ACTION"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")』(鹿児島限定)で、15年振りに演奏された。
 3.  **NEVER LET YOU GO** (5:41)
       -
         当時のライブで稲葉は「この曲を歌いながら泣きそうになった」とコメントしている。
-        後に松本は、この曲を「B'z究極のラブソング」と評している\[9\]。
+        後に松本は、この曲を「B'z究極のラブソング」と評している\[10\]。
         後にマスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』でリメイクされる。
 4.  **SAFETY LOVE** (4:11)
       -
@@ -45,7 +45,7 @@
       -
         歌詞中に「[ジミヘン](../Page/ジミ・ヘンドリックス.md "wikilink")」がでてくる。
         歌詞中の「ストラト」とは[ストラトキャスター](https://ja.wikipedia.org/wiki/ストラトキャスター "wikilink")という[ギター](../Page/ギター.md "wikilink")のこと。
-        後に7thシングル「[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")」でリメイクされる。
+        後に7thシングル『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』でリメイクされた。
         2003年に行われたツアー『[B'z LIVE-GYM 2003 The Final Pleasure "IT'S SHOWTIME\!\!"](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』の前に行われた「Final Pleasureで聴きたい1曲」アンケートで3位にランクインしたが演奏はされておらず、1992年に行われたツアー『B'z LIVE-GYM Pleasure '92 "TIME"』以降LIVE-GYMでは披露されていない。
 6.  **夜にふられても**　（3:55）
       -
@@ -60,7 +60,7 @@
       -
         『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の投票では16位にランクインした。
         後にアルバム『B'z The "Mixture"』でリメイクされる。
-        [ライブで演奏機会が本作収録曲では最も多く](../Page/LIVE-GYM.md "wikilink")、特に1997年に行われたツアー『[B'z LIVE-GYM Pleasure '97 "FIREBALL"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1994年-1998年 "wikilink")』、2008年に行われたツアー『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』\[10\]を除くすべての[Pleasureツアーシリーズで披露されている](https://ja.wikipedia.org/wiki/LIVE-GYM_#Pleasureツアー "wikilink")。
+        [ライブで演奏機会が本作収録曲では最も多く](../Page/LIVE-GYM.md "wikilink")、特に1997年に行われたツアー『[B'z LIVE-GYM Pleasure '97 "FIREBALL"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1994年-1998年 "wikilink")』、2008年に行われたツアー『[B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")』\[11\]を除くすべての[Pleasureツアーシリーズで披露されている](https://ja.wikipedia.org/wiki/LIVE-GYM_#Pleasureツアー "wikilink")。
 9.  **ROSY** (4:55)
       -
         [メロディ](../Page/メロディ.md "wikilink")は松本がB'zでのデビュー前に発売したソロアルバム『[Thousand Wave](../Page/Thousand_Wave.md "wikilink")』収録曲「"99"」が元になっている。
@@ -116,9 +116,10 @@
 2.  例外として、2011年以降制作されているシングルの英詞版(「[Into Free -Dangan-](../Page/さまよえる蒼い弾丸.md "wikilink")」等)はサポートメンバーの[シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink")と稲葉の共同で作詞。
 3.
 4.  オリコン週間アルバムチャート1989年5月29日付
-5.  愛知芸術創芸センター、大阪厚生年金会館中ホール、[日本青年館](../Page/日本青年館.md "wikilink")の3箇所
-6.
-7.  発売は、[原盤権](../Page/原盤権.md "wikilink")を所有する[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")
-8.
+5.
+6.  愛知芸術創芸センター、大阪厚生年金会館中ホール、[日本青年館](../Page/日本青年館.md "wikilink")の3箇所
+7.
+8.  発売は、[原盤権](../Page/原盤権.md "wikilink")を所有する[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")
 9.
-10. 同年の『B'z LIVE-GYM 2008 "ACTION"』で演奏され、曲目が総入れ替えとなったため。
+10.
+11. 同年の『B'z LIVE-GYM 2008 "ACTION"』で演奏され、曲目が総入れ替えとなったため。

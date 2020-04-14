@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOゲームポット](https://ja.wikipedia.org/wiki/GMOゲームポット)から翻訳されています。
 
 
 **GMOゲームポット株式会社**（）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")を運営していた企業である。株式会社コミュニケーションオンラインと韓国のガガメルドットコムの合弁により、株式会社ゲームポット設立\[1\]。

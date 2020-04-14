@@ -1,4 +1,4 @@
-> この記事は[Memories \(DEEN\)](https://ja.wikipedia.org/wiki/Memories_\(DEEN\))から翻訳されています。
+> この記事は[Memories \(DEENの曲\)](https://ja.wikipedia.org/wiki/Memories_\(DEENの曲\))から翻訳されています。
 
 
 「**Memories**」（メモリーズ）は、[DEEN](../Page/DEEN.md "wikilink")の3rd[シングル](../Page/シングル.md "wikilink")。

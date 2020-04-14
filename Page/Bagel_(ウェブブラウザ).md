@@ -1,4 +1,4 @@
-> この記事は[Bagel \(\)](https://ja.wikipedia.org/wiki/Bagel_\(\))から翻訳されています。
+> この記事は[Bagel \(ウェブブラウザ\)](https://ja.wikipedia.org/wiki/Bagel_\(ウェブブラウザ\))から翻訳されています。
 
 
 **Bagel**（ベーグル）は、 [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 上で動作する[タブブラウザ](../Page/タブブラウザ.md "wikilink")。[Gecko](../Page/Gecko.md "wikilink")を利用している。2006年9月現在の最新バージョンは0.4.1 + Gecko1.8.0.1(20060130)。

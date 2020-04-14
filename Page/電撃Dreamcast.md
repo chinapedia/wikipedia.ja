@@ -1,4 +1,4 @@
-> この記事は[Dreamcast](https://ja.wikipedia.org/wiki/Dreamcast)から翻訳されています。
+> この記事は[電撃Dreamcast](https://ja.wikipedia.org/wiki/電撃Dreamcast)から翻訳されています。
 
 
 『**電撃Dreamcast**』（でんげきドリームキャスト）は、[メディアワークス](../Page/メディアワークス.md "wikilink")（現[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）が[2000年](../Page/2000年.md "wikilink")まで刊行していた[セガ系](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。本稿では改名前についてと、間接的な前身誌の『電撃メガドライブ』についても記述する。

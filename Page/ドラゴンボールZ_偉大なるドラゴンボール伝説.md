@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ 偉大なるドラゴンボール伝説](https://ja.wikipedia.org/wiki/ドラゴンボールZ_偉大なるドラゴンボール伝説)から翻訳されています。
 
 
 『**ドラゴンボールZ 偉大なるドラゴンボール伝説**』（ドラゴンボールゼット いだいなるドラゴンボールでんせつ）は[1996年](../Page/1996年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")・[セガサターン](../Page/セガサターン.md "wikilink")用[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。

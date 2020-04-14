@@ -1,4 +1,4 @@
-> この記事は[ICHIRO-MONDOW Two Chairs](https://ja.wikipedia.org/wiki/ICHIRO-MONDOW_Two_Chairs)から翻訳されています。
+> この記事は[ICHIRO-MONDOW 〜Two Chairs〜](https://ja.wikipedia.org/wiki/ICHIRO-MONDOW_〜Two_Chairs〜)から翻訳されています。
 
 
 『**ICHIRO MONDOW 〜Two Chairs〜**』（イチロー・モンドウ トゥーチェアーズ）は、[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")（[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")ローカル）で[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、1年間限定で毎週[土曜日](../Page/土曜日.md "wikilink")原則22:54〜23:00（[JST](../Page/日本標準時.md "wikilink")、本編は90秒間）に放送された[ミニ](../Page/ミニ番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。

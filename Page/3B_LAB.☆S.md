@@ -1,4 +1,4 @@
-> この記事は[3B LAB.S](https://ja.wikipedia.org/wiki/3B_LAB.S)から翻訳されています。
+> この記事は[3B LAB.☆S](https://ja.wikipedia.org/wiki/3B_LAB.☆S)から翻訳されています。
 
 
 **3B LAB.☆S**（スリービーラボ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
@@ -94,7 +94,7 @@
 ## 外部リンク
 
   - [3B LAB.☆S Official WEB SITE](http://www.rockfordrecords.com/3blab/) 公式サイト
-  - [3B LAB.☆S Official Blog](http://ameblo.jp/3blabstars)
+  - [3B LAB.☆S Official Blog](https://ameblo.jp/3blabstars)
   - [3B LAB.☆S](http://www.jvcmusic.co.jp/-/Profile/A017545.html) [ビクターエンタテインメントによる公式ページ](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")
   - \[<http://www.rockfordrecords.com/>　RockFord　Records\]所属レーベル
   - [JaME America : multilanguage website about Japanese Music](http://www.jame-world.com/us/artists-overview-189-3b-lab-9734-.html)

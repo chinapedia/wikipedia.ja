@@ -1,4 +1,4 @@
-> この記事は[ZOIDS](https://ja.wikipedia.org/wiki/ZOIDS)から翻訳されています。
+> この記事は[ZOIDS妄想戦記](https://ja.wikipedia.org/wiki/ZOIDS妄想戦記)から翻訳されています。
 
 
 『**ZOIDS妄想戦記**』（ゾイドもうそうせんき）は、[トミー](../Page/トミー_\(企業\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）が展開する『[ゾイド](../Page/ゾイド.md "wikilink")』シリーズの[ウェブコミック](../Page/ウェブコミック.md "wikilink")。ゾイド公式サイトで掲載されていたが、現在は公開を終了している。

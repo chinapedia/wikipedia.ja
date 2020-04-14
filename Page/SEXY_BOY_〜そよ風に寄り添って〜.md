@@ -1,4 +1,4 @@
-> この記事は[SEXY BOY ](https://ja.wikipedia.org/wiki/SEXY_BOY_)から翻訳されています。
+> この記事は[SEXY BOY 〜そよ風に寄り添って〜](https://ja.wikipedia.org/wiki/SEXY_BOY_〜そよ風に寄り添って〜)から翻訳されています。
 
 
 「**SEXY BOY 〜そよ風に寄り添って〜**」（セクシーボーイ そよかぜによりそって）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。

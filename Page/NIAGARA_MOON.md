@@ -713,7 +713,7 @@
 
   -  ディスコグラフィ
 
-[Category:大瀧詠一のアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のアルバム "wikilink") [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1975年のアルバム](https://ja.wikipedia.org/wiki/Category:1975年のアルバム "wikilink")
+[Category:大瀧詠一のアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のアルバム "wikilink") [Category:大瀧詠一がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一がプロデュースしたアルバム "wikilink") [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1975年のアルバム](https://ja.wikipedia.org/wiki/Category:1975年のアルバム "wikilink")
 
 1.
 2.

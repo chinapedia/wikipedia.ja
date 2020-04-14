@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEコンテイナー](https://ja.wikipedia.org/wiki/JFEコンテイナー)から翻訳されています。
 
 
 **JFEコンテイナー**（ジェイエフイーコンテイナー、[英文](../Page/英語.md "wikilink") *JFE Container CO.,Ltd.*）は、[ドラム缶](../Page/ドラム缶.md "wikilink")や[高圧ガス](https://ja.wikipedia.org/wiki/高圧ガス "wikilink")容器などの産業容器を製造する、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[企業](../Page/企業.md "wikilink")である。川鉄コンテイナーと鋼管ドラムが合併し発足した。

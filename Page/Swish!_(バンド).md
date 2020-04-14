@@ -1,4 +1,4 @@
-> この記事は[Swish! \(\)](https://ja.wikipedia.org/wiki/Swish!_\(\))から翻訳されています。
+> この記事は[Swish! \(バンド\)](https://ja.wikipedia.org/wiki/Swish!_\(バンド\))から翻訳されています。
 
 
 **Swish\!**（スウィッシュ！）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")3人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。旧称は**SunSet Swish**。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Music Ray'n](../Page/ミュージックレイン.md "wikilink")。
@@ -363,7 +363,7 @@
 
   - [Swish\! Official Website](https://www.swish-sunsetswish.com/)
 
-  - [Sony Music Online Japan: SunSet Swish](http://www.sonymusic.co.jp/Music/Arch/MR/Sunsetswish/)
+  - [Sony Music Online Japan: SunSet Swish](https://www.sonymusic.co.jp/artist/Sunsetswish/)
 
   -
   -

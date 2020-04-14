@@ -1,7 +1,7 @@
-> この記事は[  DVD-BOX](https://ja.wikipedia.org/wiki/__DVD-BOX)から翻訳されています。
+> この記事は[笑点 大博覧会 DVD-BOX](https://ja.wikipedia.org/wiki/笑点_大博覧会_DVD-BOX)から翻訳されています。
 
 
-『**笑点大博覧会DVD-BOX**』（しょうてんだいはくらんかいでぃーぶいでぃーぼっくす）は、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』40周年記念として[2005年](../Page/2005年.md "wikilink")（平成17年）[11月23日](../Page/11月23日.md "wikilink")に発売された[DVD](../Page/DVD.md "wikilink")。発売元は[バップ](../Page/バップ.md "wikilink")。
+『**笑点大博覧会DVD-BOX**』（しょうてんだいはくらんかいでぃーぶいでぃーぼっくす）は、『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』40周年記念として[2005年](../Page/2005年.md "wikilink")（平成17年）[11月23日](../Page/11月23日.md "wikilink")に発売された[DVD](../Page/DVD.md "wikilink")。発売元は[制作日本テレビアックスオン](https://ja.wikipedia.org/wiki/制作日本テレビアックスオン "wikilink")。
 
 ## 概要
 
@@ -9,23 +9,7 @@
 
 ## 出演者
 
-### 進行役
-
-  - [5代目三遊亭圓楽](../Page/三遊亭圓楽_\(5代目\).md "wikilink")
-
-  - [桂歌丸](../Page/桂歌丸.md "wikilink")
-
-  - [林家木久蔵](https://ja.wikipedia.org/wiki/林家木久蔵 "wikilink")（現：[林家木久扇](../Page/林家木久扇.md "wikilink")）
-
-  - [三遊亭好楽](../Page/三遊亭好楽.md "wikilink")
-
-  - [三遊亭小遊三](../Page/三遊亭小遊三.md "wikilink")
-
-  - 三遊亭楽太郎（現：[6代目三遊亭圓楽](../Page/三遊亭圓楽_\(6代目\).md "wikilink")）
-
-  - [林家たい平](../Page/林家たい平.md "wikilink")
-
-  - [山田隆夫](../Page/山田隆夫.md "wikilink")
+DVD司会進行役 5代目三遊亭圓楽 桂歌丸 林家木久蔵(2007年から木久扇) 三遊亭楽太郎(2010年から6代目三遊亭円楽) 林家九蔵(1983年から三遊亭好楽) 林家こん平(2006年笑点卒業) 林家たい平 三遊亭小遊三 山田隆夫 VTR出演 ずうとるび 新井 江藤 今村 三遊亭小円遊 三波伸介 松崎真 三遊亭円窓 三笑亭夢之助 桂才賀(古今亭朝次に襲名)
 
 ### ナレーター
 

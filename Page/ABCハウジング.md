@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCハウジング](https://ja.wikipedia.org/wiki/ABCハウジング)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ABC_HOUSING_Itami_Koyanosato.JPG "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")）\]\] **ABCハウジング**（エービーシーハウジング）は、[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")（ABC）のグループ会社が展開する[住宅展示場](../Page/住宅展示場.md "wikilink")。2014年7月時点での展示場数は[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")に16か所、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")に9か所であり、それらを「住宅公園」と呼んでいる。

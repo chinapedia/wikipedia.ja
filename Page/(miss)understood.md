@@ -5,7 +5,7 @@
 
 ## 解説
 
-オリジナルアルバムとしては、前作『[MY STORY](../Page/MY_STORY.md "wikilink")』から1年1ヶ月ぶりとなる。「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」のジャケットが異なる2形態で発売。それぞれ、初回特典として別内容の[写真集](../Page/写真集.md "wikilink")が付いており、36thシングル「[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")」の[ビデオクリップ撮影で訪れた](../Page/ミュージック・ビデオ.md "wikilink")[ハワイで撮影されたもの](../Page/ハワイ州.md "wikilink")。レンタル版のみ、[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")が回避されなかった。
+オリジナルアルバムとしては、前作『[MY STORY](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")』から1年1か月ぶりとなる。「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」と「CDのみ」のジャケットが異なる2形態で発売。それぞれ、初回特典として別内容の[写真集](../Page/写真集.md "wikilink")が付いており、36枚目のシングル「[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")」の[ビデオクリップ撮影で訪れた](../Page/ミュージック・ビデオ.md "wikilink")[ハワイで撮影されたもの](../Page/ハワイ州.md "wikilink")。レンタル版のみ、[CCCD](https://ja.wikipedia.org/wiki/CCCD "wikilink")が回避されなかった。
 
 本作に収録されている「Bold & Delicious」「Pride」「Ladies Night」「Beautiful Day」「rainy day」「In The Corner」は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ユニット](../Page/音楽ユニット.md "wikilink")・[SweetBoxとのコラボレーションにより](../Page/スウィートボックス.md "wikilink")、そのプロデューサーGEOによる提供された楽曲である。なお、SWEETBOXの楽曲の内、「Beautiful Day」は「Beautiful Girl」、「rainy day」は「Every Step」となっている。
 

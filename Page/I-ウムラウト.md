@@ -1,4 +1,4 @@
-> この記事は[I-](https://ja.wikipedia.org/wiki/I-)から翻訳されています。
+> この記事は[I-ウムラウト](https://ja.wikipedia.org/wiki/I-ウムラウト)から翻訳されています。
 
 
 **i-ウムラウト**（）は、[音韻](https://ja.wikipedia.org/wiki/音韻 "wikilink")の変化の一種で[ゲルマン語](https://ja.wikipedia.org/wiki/ゲルマン語 "wikilink")（特に古語）の用語。単語の前の[音節](../Page/音節.md "wikilink")の[母音](../Page/母音.md "wikilink")が後ろの[音節](../Page/音節.md "wikilink")の/i/, /ī/ or /j/に影響されることをいう。[後舌母音](https://ja.wikipedia.org/wiki/後舌母音 "wikilink")だと[前舌母音](https://ja.wikipedia.org/wiki/前舌母音 "wikilink")になり、[前舌母音](https://ja.wikipedia.org/wiki/前舌母音 "wikilink")だと[狭母音](https://ja.wikipedia.org/wiki/狭母音 "wikilink")に近づく。紀元後[500年](https://ja.wikipedia.org/wiki/500年 "wikilink")頃に[北海](../Page/北海.md "wikilink")周辺で始まったとされる。傾向が強いのは[古ノルド語](https://ja.wikipedia.org/wiki/古ノルド語 "wikilink")（[北ゲルマン語](../Page/北ゲルマン語群.md "wikilink")）と[古英語](../Page/古英語.md "wikilink")である。

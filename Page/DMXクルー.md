@@ -1,4 +1,4 @@
-> この記事は[DMX](https://ja.wikipedia.org/wiki/DMX)から翻訳されています。
+> この記事は[DMXクルー](https://ja.wikipedia.org/wiki/DMXクルー)から翻訳されています。
 
 
 **DMXクルー**(*DMX Krew*)のアーティスト名義での活動で最も知られるエド・アップトン（*Ed Upton*、生年月日不詳）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。主に[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")、特に[エレクトロ](../Page/エレクトロ.md "wikilink")に分類される曲を多くリリースしている。

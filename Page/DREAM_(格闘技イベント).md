@@ -1,4 +1,4 @@
-> この記事は[DREAM \(\)](https://ja.wikipedia.org/wiki/DREAM_\(\))から翻訳されています。
+> この記事は[DREAM \(格闘技イベント\)](https://ja.wikipedia.org/wiki/DREAM_\(格闘技イベント\))から翻訳されています。
 
 
 **DREAM**（ドリーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")[イベント](../Page/イベント.md "wikilink")。主催は当初は[FEG](../Page/FEG.md "wikilink")だったが、FEGの倒産に伴い、[2011年](../Page/2011年.md "wikilink")はリアルエンターテインメント、[2013年](../Page/2013年.md "wikilink")より[GLORYを主催する](https://ja.wikipedia.org/wiki/GLORY_\(格闘技\) "wikilink")[グローリー・スポーツ・インターナショナルに移管されたが](https://ja.wikipedia.org/wiki/ゴールデン・グローリー#グローリー・スポーツ・インターナショナル "wikilink")1度も開催されていない。

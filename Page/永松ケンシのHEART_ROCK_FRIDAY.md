@@ -1,4 +1,4 @@
-> この記事は[HEART ROCK FRIDAY](https://ja.wikipedia.org/wiki/HEART_ROCK_FRIDAY)から翻訳されています。
+> この記事は[永松ケンシのHEART ROCK FRIDAY](https://ja.wikipedia.org/wiki/永松ケンシのHEART_ROCK_FRIDAY)から翻訳されています。
 
 
 **永松ケンシのHEART ROCK FRIDAY**は、[広島FMのワイド番組](../Page/広島エフエム放送.md "wikilink")。6年間に渡って放送された[-WEEKLY PARTY- 週末オトナ計画を引き継ぎ](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")、2006年4月7日-2008年3月28日まで放送されていた番組。HEART ROCKな曲を交えながら、広島の週末情報やレポーターによるレポートなどを放送する。HEART ROCKだが、ロックに拘らずリクエストすることができる。この番組のディレクター・選曲はパーソナリティの永松ケンシが担当している。

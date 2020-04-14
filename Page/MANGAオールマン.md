@@ -1,4 +1,4 @@
-> この記事は[MANGA](https://ja.wikipedia.org/wiki/MANGA)から翻訳されています。
+> この記事は[MANGAオールマン](https://ja.wikipedia.org/wiki/MANGAオールマン)から翻訳されています。
 
 
 『**MANGAオールマン**』（マンガオールマン、MANGA ALLMAN）は、かつて[集英社](../Page/集英社.md "wikilink")が発行していた[青年向け](../Page/青年漫画.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

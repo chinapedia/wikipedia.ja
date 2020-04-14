@@ -1,4 +1,4 @@
-> この記事は[Suica](https://ja.wikipedia.org/wiki/Suica)から翻訳されています。
+> この記事は[ビックカメラSuicaカード](https://ja.wikipedia.org/wiki/ビックカメラSuicaカード)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK俳句](https://ja.wikipedia.org/wiki/NHK俳句)から翻訳されています。
 
 
 『**NHK俳句**』（エヌエイチケイはいく）は、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[俳句](../Page/俳句.md "wikilink")番組である。

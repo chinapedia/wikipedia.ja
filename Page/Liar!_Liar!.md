@@ -1,7 +1,7 @@
 > この記事は[Liar! Liar!](https://ja.wikipedia.org/wiki/Liar!_Liar!)から翻訳されています。
 
 
-「**Liar\! Liar\!**」 (ライアー\! ライアー\!)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の23作目の[シングル](../Page/シングル.md "wikilink")。
+「**Liar\! Liar\!**」 (ライアー\! ライアー\!)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")23作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -15,11 +15,11 @@
 
 1.  **Liar\! Liar\!** (3:22)
       -
-        元々はアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』からの先行シングルがなかなか決まらず、急遽最後に製作された曲。
+        元々はアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』からの先行シングルがなかなか決まらずならば新曲を作ろうとのことで、アルバム制作の最後に急遽製作された\[2\]\[3\]。
         打ち込み音やギターリフを多用している。
         当時のインタビューで本人たちは「原点回帰」とコメントしている。
-        松本によるとメロディ、アレンジも前作「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」とは対照的に、当時のB'z史上最短時間で完成した。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で撮影された\[2\]。
+        松本がメロディーを作り始めた3、4日後には歌詞やアレンジも完成し\[4\]、前作「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」とは対照的に、当時のB'z史上最短時間で完成した。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で撮影された\[5\]。
 2.  **ビリビリ** (3:33)
       -
         表題曲と同様、打ち込みとギターリフを使用している。
@@ -70,7 +70,10 @@
 
   - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:嘘を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嘘を題材とした楽曲 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:嘘を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嘘を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.
-2.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+2.
+3.
+4.
+5.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。

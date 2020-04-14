@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAインスピレーション](https://ja.wikipedia.org/wiki/ANAインスピレーション)から翻訳されています。
 
 
 **ANAインスピレーション**（ANA Inspiration）は、全米女子[ゴルフ](../Page/ゴルフ.md "wikilink")のメジャー選手権のひとつである。選手権のスポンサーは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")が務め、[IMGとの共催で行われる](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")。
@@ -27,7 +27,7 @@
 
   - [1988年](../Page/1988年.md "wikilink")、[エイミー・オルコット](https://ja.wikipedia.org/wiki/エイミー・オルコット "wikilink")が同大会2度目の優勝の際に飛び込んだのが最初とされる
   - [1991年](../Page/1991年.md "wikilink")、オルコットが3度目の優勝を果たし、大会ホストであるショアと一緒に飛び込んだ
-  - [1992年](../Page/1992年.md "wikilink")にはドッティー・モーリー（モーリーは結婚していた際の姓、現在はペッパー）はプレイオフを制して優勝したが、これが10番ホールだったので飛び込めなかった
+  - [1992年](../Page/1992年.md "wikilink")にはドッティー・モクリー（モクリーは結婚していた際の姓、現在はペッパー）はプレイオフを制して優勝したが、これが10番ホールだったので飛び込めなかった
   - [1994年](../Page/1994年.md "wikilink")、ドナ・アンドリュースが大会直前に亡くなったショアを偲んでジャンプを行って以来、これが伝統となる
 
 ## 記録
@@ -103,7 +103,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p>Apr 2–5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリタニー・リンシコム" title="wikilink">ブリタニー・リンシコム</a> (2)</p></td>
+<td><p><a href="../Page/ブリタニー・リンシコム.md" title="wikilink">ブリタニー・リンシコム</a> (2)</p></td>
 <td></td>
 <td><p>72-68-70-69</p></td>
 <td><p>279</p></td>
@@ -169,7 +169,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td><p>Apr 2–5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリタニー・リンシコム" title="wikilink">ブリタニー・リンシコム</a></p></td>
+<td><p><a href="../Page/ブリタニー・リンシコム.md" title="wikilink">ブリタニー・リンシコム</a></p></td>
 <td></td>
 <td><p>66-74-70-69</p></td>
 <td><p>279</p></td>

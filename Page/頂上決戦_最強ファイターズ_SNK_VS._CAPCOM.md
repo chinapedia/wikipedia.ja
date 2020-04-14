@@ -1,4 +1,4 @@
-> この記事は[  SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/__SNK_VS._CAPCOM)から翻訳されています。
+> この記事は[頂上決戦 最強ファイターズ SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/頂上決戦_最強ファイターズ_SNK_VS._CAPCOM)から翻訳されています。
 
 
 『**頂上決戦 最強ファイターズ SNK VS. CAPCOM**』（ちょうじょうけっせん さいきょうファイターズ エス・エヌ・ケイ バーサス カプコン）は[1999年](../Page/1999年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[ネオジオポケット](../Page/ネオジオポケット.md "wikilink")（カラー専用）で発売した[2D対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。

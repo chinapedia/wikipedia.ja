@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSナイトアングル](https://ja.wikipedia.org/wiki/MBSナイトアングル)から翻訳されています。
 
 
 『**MBSナイトアングル**』（エムビーエスナイトアングル）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）で放送されていた[報道番組](../Page/報道番組.md "wikilink")である。

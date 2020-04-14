@@ -1,12 +1,12 @@
 > この記事は[Abingdon boys school](https://ja.wikipedia.org/wiki/Abingdon_boys_school)から翻訳されています。
 
 
-**abingdon boys school**（アビングドンボーイズスクール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は**a.b.s.**。所属事務所はディーゼルコーポレーション。2006年12月、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")からデビュー。以前にも企画盤で音源を残しているが、以下ではデビューをシングル「INNOCENT SORROW」発売時と定めて記述する。
+**abingdon boys school**（アビングドンボーイズスクール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は**a.b.s.**。所属事務所はディーゼルコーポレーション (業務提携[パーフィットプロダクション](../Page/パーフィットプロダクション.md "wikilink"))。2006年12月、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")からデビュー。以前にも企画盤で音源を残しているが、以下ではデビューをシングル「INNOCENT SORROW」発売時と定めて記述する。
 
 ## メンバー
 
   - [西川貴教](../Page/西川貴教.md "wikilink")（にしかわ たかのり、[1970年](../Page/1970年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [柴崎浩](../Page/柴崎浩.md "wikilink")（しばさき ひろし、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）[ギター](../Page/ギター.md "wikilink")（<small>元</small>[WANDS](../Page/WANDS.md "wikilink")〜[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")のギタリスト）
+  - [柴崎浩](../Page/柴崎浩.md "wikilink")（しばさき ひろし、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）[ギター](../Page/ギター.md "wikilink")（[WANDS](../Page/WANDS.md "wikilink")〜<small>元</small>[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")のギタリスト）
   - [SUNAO](../Page/SUNAO.md "wikilink")（すなお、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - ）[ギター](../Page/ギター.md "wikilink")
   - [岸利至](../Page/岸利至.md "wikilink")（きし としゆき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月17日](../Page/10月17日.md "wikilink") - ）[Juicy-Bananas](https://ja.wikipedia.org/wiki/Juicy-Bananas "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")・[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")
 
@@ -21,7 +21,7 @@
 
 また、新人バンドという自覚を持たせるため、メンバーが集まって店屋物を頼むときには、それぞれ注文は1人1食あたり1000円以内と決めているという。
 
-バンド名は、[英国に実在する](https://ja.wikipedia.org/wiki/イギリス "wikilink")[寄宿学校](https://ja.wikipedia.org/wiki/寄宿学校 "wikilink")[Abingdon Schoolから](https://ja.wikipedia.org/wiki/:en:Abingdon_School "wikilink")。[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")のメンバーの出身校としても有名。
+バンド名は、[英国に実在する](https://ja.wikipedia.org/wiki/イギリス "wikilink")[寄宿学校](https://ja.wikipedia.org/wiki/寄宿学校 "wikilink")[Abingdon Schoolから](https://ja.wikipedia.org/wiki/:en:Abingdon_School "wikilink")。[レディオヘッド](../Page/レディオヘッド.md "wikilink")のメンバーの出身校としても有名。
 
 デビュー以前にも、メンバーである4人が（他のスタッフとも合わせて）合同で、バンドとしての活動でなく[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の活動を行った際の音源が発表されている（セルフカバーベストアルバム『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』内、M-4「AQUALOVERS 〜DEEP into the night〜」・M-10「LOVE SAVER」）。
 

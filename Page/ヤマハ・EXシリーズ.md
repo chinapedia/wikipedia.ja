@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ヤマハ・EXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・EXシリーズ)から翻訳されています。
 
 
 **EXシリーズ**（イーエックス・シリーズ）とは[ヤマハ](../Page/ヤマハ.md "wikilink")から発売された[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名。

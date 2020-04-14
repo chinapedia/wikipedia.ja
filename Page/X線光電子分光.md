@@ -1,11 +1,11 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線光電子分光](https://ja.wikipedia.org/wiki/X線光電子分光)から翻訳されています。
 
 
 [Xps-spektrum.jpg](https://ja.wikipedia.org/wiki/File:Xps-spektrum.jpg "fig:Xps-spektrum.jpg")（磁鉄鉱）のX線光電子分光スペクトル（サーベイスキャンモード）。横軸は照射したX線を基準としたときの[光電子](https://ja.wikipedia.org/wiki/光電子 "wikilink")のエネルギー、縦軸は観測された光電子の個数である。\]\] **X線光電子分光**（エックスせんこうでんしぶんこう）は、[光電子分光](../Page/光電子分光.md "wikilink")の1種である。略称は**XPS** (X-ray Photoelectron Spectroscopy) または **ESCA** (Electron Spectroscopy for Chemical Analysis, エスカ)。サンプル表面に[X線](../Page/X線.md "wikilink")を照射し、生じる光電子のエネルギーを測定することで、サンプルの構成元素とその[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")状態を分析することができる。他にもPES、PS等とも呼ばれる。
 
 ## 原理
 
-物質に数keV程度の[軟X線](https://ja.wikipedia.org/wiki/軟X線 "wikilink")を照射すると、[原子軌道](https://ja.wikipedia.org/wiki/原子軌道 "wikilink")の電子が光エネルギーを吸収し、[光電子](https://ja.wikipedia.org/wiki/光電子 "wikilink")として外にたたき出される。この光電子は \(E = h \nu - E_B-\phi\)（\(E_B\) は電子の結合エネルギー、 \(\phi\)は分光器の[仕事関数](../Page/仕事関数.md "wikilink")）にしたがったエネルギー値をもつため、X線のエネルギーが一定であれば（すなわち単一波長であれば）、\(E_B\) を求めることができる。
+物質に数keV程度の[軟X線](https://ja.wikipedia.org/wiki/軟X線 "wikilink")を照射すると、[原子軌道](../Page/原子軌道.md "wikilink")の電子が光エネルギーを吸収し、[光電子](https://ja.wikipedia.org/wiki/光電子 "wikilink")として外にたたき出される。この光電子は \(E = h \nu - E_B-\phi\)（\(E_B\) は電子の結合エネルギー、 \(\phi\)は分光器の[仕事関数](../Page/仕事関数.md "wikilink")）にしたがったエネルギー値をもつため、X線のエネルギーが一定であれば（すなわち単一波長であれば）、\(E_B\) を求めることができる。
 
 電子の結合エネルギーは元素によって固有なので、元素分析ができる。また結合エネルギーの微妙なシフトは、その元素の化学状態や電子状態（酸化数など）を反映しているため、化学状態を調べることができる。
 

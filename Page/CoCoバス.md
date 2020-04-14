@@ -1,4 +1,4 @@
-> この記事は[CoCo](https://ja.wikipedia.org/wiki/CoCo)から翻訳されています。
+> この記事は[CoCoバス](https://ja.wikipedia.org/wiki/CoCoバス)から翻訳されています。
 
 
 [thumb南口](https://ja.wikipedia.org/wiki/ファイル:CoCoBus-Pair.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Shin-Koganei_Station-2008.02.02_1.jpg "wikilink")、中町循環）\]\] **CoCoバス**（ここバス）とは、[東京都](../Page/東京都.md "wikilink")[小金井市](../Page/小金井市.md "wikilink")で運行する[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。

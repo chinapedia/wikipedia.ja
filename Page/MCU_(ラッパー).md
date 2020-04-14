@@ -1,4 +1,4 @@
-> この記事は[MCU \(\)](https://ja.wikipedia.org/wiki/MCU_\(\))から翻訳されています。
+> この記事は[MCU \(ラッパー\)](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\))から翻訳されています。
 
 
 **MCU**（エムシーユー、本名：小泉 雄志（こいずみ ゆうし）、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。

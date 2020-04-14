@@ -1,4 +1,4 @@
-> この記事は[SDR](https://ja.wikipedia.org/wiki/SDR)から翻訳されています。
+> この記事は[ヤマハ・SDR](https://ja.wikipedia.org/wiki/ヤマハ・SDR)から翻訳されています。
 
 
 **SDR**（エスディーアール）は、かつて[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売していた200[ccの](https://ja.wikipedia.org/wiki/立方メートル#分量・倍量単位 "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")（[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")）である。

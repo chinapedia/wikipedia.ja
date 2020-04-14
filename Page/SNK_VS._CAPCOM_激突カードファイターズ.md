@@ -1,4 +1,4 @@
-> この記事は[SNK VS. CAPCOM ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_)から翻訳されています。
+> この記事は[SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ)から翻訳されています。
 
 
 『**SNK VS. CAPCOM 激突カードファイターズ**』（エスエヌケイ バーサス カプコン げきとつカードファイターズ）は、[1999年](../Page/1999年.md "wikilink")に[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した[ネオジオポケット](../Page/ネオジオポケット.md "wikilink")（モノクロ、カラー共通）用ソフト。ジャンルは、カードゲーム。SNKと[カプコン](../Page/カプコン.md "wikilink")によるクロスライセンス契約プロジェクト「[SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM "wikilink")」の第1弾に当たる。プレイヤーの初期状態や、ゲームに勝った際に獲得できるカードの比率が異なる『SNKサポーターズバージョン』と『CAPCOMサポーターズバージョン』が発売された。

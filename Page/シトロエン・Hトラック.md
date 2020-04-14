@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[シトロエン・Hトラック](https://ja.wikipedia.org/wiki/シトロエン・Hトラック)から翻訳されています。
 
 
 [250px車](https://ja.wikipedia.org/wiki/ファイル:1973_CITROEN_H78_HY78,_pic5.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:1036_Japan_2008_-_Karuizawa.jpg "wikilink")

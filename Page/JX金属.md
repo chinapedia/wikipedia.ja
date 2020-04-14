@@ -1,4 +1,4 @@
-> この記事は[JX](https://ja.wikipedia.org/wiki/JX)から翻訳されています。
+> この記事は[JX金属](https://ja.wikipedia.org/wiki/JX金属)から翻訳されています。
 
 
 **JX金属株式会社**（ジェイエックスきんぞく、[英文社名](../Page/英語.md "wikilink") *JX Nippon Mining & Metals Corporation*）は、[銅](../Page/銅.md "wikilink")を中心とする[非鉄金属](../Page/非鉄金属.md "wikilink")製品の製造・販売などを手がける[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")の中核事業会社である。略称は、**NMM**。

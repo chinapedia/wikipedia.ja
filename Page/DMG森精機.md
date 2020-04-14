@@ -1,4 +1,4 @@
-> この記事は[DMG](https://ja.wikipedia.org/wiki/DMG)から翻訳されています。
+> この記事は[DMG森精機](https://ja.wikipedia.org/wiki/DMG森精機)から翻訳されています。
 
 
 **DMG森精機株式会社**（ディーエムジーもりせいき、）は、最大手の[工作機械](../Page/工作機械.md "wikilink")製造会社\[1\]。NC旋盤・MCで強みを持つ。2013年9月までの旧社名は**株式会社森精機製作所**（もりせいきせいさくじょ）。
@@ -50,7 +50,7 @@
   - 奈良第二工場（登記上本店、奈良県大和郡山市）
   - 伊賀事業所（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊賀市](https://ja.wikipedia.org/wiki/伊賀市 "wikilink")）
 
-ファイル:DMG MORI SEIKI Nara Second Factory.JPG|登記上本店のある奈良第二工場（2014年6月） ファイル:Headquarter of MORI SEIKI CO., LTD..JPG|「森精機」時代の本社ビル（2012年8月）
+DMG MORI SEIKI Nara Second Factory.JPG|登記上本店のある奈良第二工場（2014年6月） Headquarter of MORI SEIKI CO., LTD..JPG|「森精機」時代の本社ビル（2012年8月）
 
 ## 関連会社
 
@@ -100,11 +100,11 @@
   - [FIA 世界耐久選手権](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink") (WEC) - 2014年より[ポルシェ・919ハイブリッド](https://ja.wikipedia.org/wiki/ポルシェ・919ハイブリッド "wikilink")にスポンサードを行っていた\[9\]。
   - [フォーミュラ1](../Page/フォーミュラ1.md "wikilink") (F1) - 2004年より[レッドブル・レーシング](../Page/レッドブル・レーシング.md "wikilink")にスポンサードを行っている\[10\]。
   - [世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC) - 2017年より[トヨタ・ヤリスWRC](https://ja.wikipedia.org/wiki/トヨタ・ヤリスWRC "wikilink")にスポンサードを行っている\[11\]。
-  - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")・[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink") - 2018年より[チーム ルマンにスポンサードを行っている](../Page/ルマン_\(企業\).md "wikilink")。
+  - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")・[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink") - 2018年から2019年まで[チーム ルマンにスポンサードを行っていた](../Page/ルマン_\(企業\).md "wikilink")。
 
 ### サッカー
 
-  - [JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") - 2018年より[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")のスポンサードを行っている\[12\]。
+  - [JFL](../Page/日本フットボールリーグ.md "wikilink") - 2018年から2019年まで[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")のスポンサードを行っていた\[12\]。
 
 ## 脚注・出典・資料
 

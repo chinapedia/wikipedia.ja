@@ -1,4 +1,4 @@
-> この記事は[!J](https://ja.wikipedia.org/wiki/!J)から翻訳されています。
+> この記事は[エキサイティング!J](https://ja.wikipedia.org/wiki/エキサイティング!J)から翻訳されています。
 
 
 『**エキサイティング\!J**』（エキサイティングジェイ）は、[KBS京都テレビで放送される](../Page/京都放送.md "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")戦の実況中継のタイトル。

@@ -1,4 +1,4 @@
-> この記事は[Mi \(\)](https://ja.wikipedia.org/wiki/Mi_\(\))から翻訳されています。
+> この記事は[Mi \(バンド\)](https://ja.wikipedia.org/wiki/Mi_\(バンド\))から翻訳されています。
 
 
 **Mi**（エム・アイ）は、日本の3人組[ガールズバンド](../Page/ガールズバンド.md "wikilink")。[コロムビアミュージックエンタテインメント（現・日本コロムビア）](../Page/日本コロムビア.md "wikilink")、ダブルウィング所属。
@@ -137,6 +137,5 @@
 
 ## 外部リンク
 
-  - [Mi/AyaのHappyLifeしようぜぃ\!\!](http://blog.oricon.co.jp/mi-aya/)
-
+  -
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink")

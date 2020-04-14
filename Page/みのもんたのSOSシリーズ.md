@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[みのもんたのSOSシリーズ](https://ja.wikipedia.org/wiki/みのもんたのSOSシリーズ)から翻訳されています。
 
 
 **みのもんたのSOSシリーズ**（みのもんたのエスオーエスシリーズ）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2002年](../Page/2002年.md "wikilink")から断続的に放送していた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。司会は[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")にもなっている[みのもんた](../Page/みのもんた.md "wikilink")。

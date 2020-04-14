@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[A \(テレビ番組\)](https://ja.wikipedia.org/wiki/A_\(テレビ番組\))から翻訳されています。
 
 
 『**A**』（エー）は、[2005年](../Page/2005年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビ系列全国](../Page/日本テレビ放送網.md "wikilink")30局（[クロスネット局](../Page/クロスネット局.md "wikilink")の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[テレビ大分](../Page/テレビ大分.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")含む）ネットで放送されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜日](../Page/日曜日.md "wikilink")の19時58分から20時54分（[JST](../Page/日本標準時.md "wikilink")）。

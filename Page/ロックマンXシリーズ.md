@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ロックマンXシリーズ](https://ja.wikipedia.org/wiki/ロックマンXシリーズ)から翻訳されています。
 
 
 **ロックマンXシリーズ**（ロックマンエックスシリーズ、）は、[カプコン](../Page/カプコン.md "wikilink")から発売している[アクションゲーム](../Page/アクションゲーム.md "wikilink")のシリーズ作品。
@@ -21,18 +21,19 @@
   - **[ロックマンX6](https://ja.wikipedia.org/wiki/ロックマンX6 "wikilink")**（PS、GA）
   - **[ロックマンX7](../Page/ロックマンX7.md "wikilink")**（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - **[ロックマンX8](../Page/ロックマンX8.md "wikilink")**（PS2、Windows、GA）
+  - **[ロックマンX9](https://ja.wikipedia.org/wiki/ロックマンX9 "wikilink")**（[Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[Steam](../Page/Steam.md "wikilink")）
 
 ### 番外作品
 
-  - **[ロックマンX サイバーミッション](../Page/ロックマンX_サイバーミッション.md "wikilink")**（[GB](../Page/ゲームボーイ.md "wikilink")、VC）
-  - **[ロックマンX2 ソウルイレイザー](../Page/ロックマンX2_ソウルイレイザー.md "wikilink")**（[GBC](../Page/ゲームボーイカラー.md "wikilink")、VC）
+  - **[ロックマンX サイバーミッション](../Page/ロックマンX_サイバーミッション.md "wikilink")**（[GB](../Page/ゲームボーイ.md "wikilink")、[GBC](../Page/ゲームボーイカラー.md "wikilink")、VC）
+  - **[ロックマンX2 ソウルイレイザー](../Page/ロックマンX2_ソウルイレイザー.md "wikilink")**（GBC、VC）
   - **[ロックマンX コマンドミッション](../Page/ロックマンX_コマンドミッション.md "wikilink")**（PS2、[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")）
   - **[イレギュラーハンターX](../Page/イレギュラーハンターX.md "wikilink")**（[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - **[ロックマンX DiVE](https://ja.wikipedia.org/wiki/ロックマンX_DiVE "wikilink")**（[Android](../Page/Android.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")）
 
 以下はコレクションソフト。
 
-  - **[ロックマンX アニバーサリー コレクション](https://ja.wikipedia.org/wiki/ロックマンX_アニバーサリー_コレクション "wikilink")**（[Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[Steam](../Page/Steam.md "wikilink")） - ナンバリング作品『1』〜『4』を収録
+  - **[ロックマンX アニバーサリー コレクション](https://ja.wikipedia.org/wiki/ロックマンX_アニバーサリー_コレクション "wikilink")**（Switch、PS4、Xbox One、Steam） - ナンバリング作品『1』〜『4』を収録
   - **[ロックマンX アニバーサリー コレクション2](https://ja.wikipedia.org/wiki/ロックマンX_アニバーサリー_コレクション "wikilink")**（Switch、PS4、Xbox One、Steam）\[1\] - ナンバリング作品『5』〜『8』を収録
   - **[Mega Man X Collection](https://ja.wikipedia.org/wiki/:en:Mega_Man_X_Collection "wikilink")** - 北米でのみ発売。ナンバリング作品『1』〜『6』と、[初代シリーズの](../Page/ロックマンシリーズ.md "wikilink")『[ロックマン バトル&チェイス](https://ja.wikipedia.org/wiki/ロックマン_バトル&チェイス "wikilink")』を収録
 
@@ -63,6 +64,7 @@
   - [エックス](../Page/エックス_\(ロックマンシリーズ\).md "wikilink")（X）
     [声](../Page/声優.md "wikilink") - [伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")（『X4』） / [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")（『X5』-『X7』） / [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")（『X8』、『コマンドミッション』、『イレギュラーハンターX』）
     シリーズの主人公。各地に散らばる自分専用のパーツや倒した相手の特殊武器を使えるようになって強化されていく青いレプリロイドであり、正式名称は「**ロックマンX**（**ロックマンエックス** / **Rockman X**）」。『イレギュラーハンターX』での回想シーンによると、“X”とは「無限の可能性」あるいは「危険」を意味している。
+    派生シリーズのため、彼の名はロックマンではなくエックスと呼ばれている。日本国外では「**メガマン**（**Mega Man**）」と表記されたことがあった。
   - [ゼロ](../Page/ゼロ_\(ロックマンシリーズ\).md "wikilink")（Zero）
     声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
     倒した相手から技を学習する赤いレプリロイド。エックスのよき理解者であり、戦友であり、先輩であり、無二の親友である。武器はバスターとゼットセイバー。

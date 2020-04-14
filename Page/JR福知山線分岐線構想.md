@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR福知山線分岐線構想](https://ja.wikipedia.org/wiki/JR福知山線分岐線構想)から翻訳されています。
 
 
 [Itami_sta_01.jpg](https://ja.wikipedia.org/wiki/File:Itami_sta_01.jpg "fig:Itami_sta_01.jpg") **JR福知山線分岐線構想**（じぇいあーるふくちやませんぶんきせんこうそう）は、1989年度に発表された[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")と[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")を結ぶ[空港連絡鉄道](../Page/空港連絡鉄道.md "wikilink")構想である。同空港と[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）の[福知山線](../Page/福知山線.md "wikilink")[伊丹駅間の](https://ja.wikipedia.org/wiki/伊丹駅_\(JR西日本\) "wikilink")3.7kmをJRの新線で結び、大阪駅まで乗り入れる案の調査・検討が行われた。

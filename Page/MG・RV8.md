@@ -1,4 +1,4 @@
-> この記事は[MGRV8](https://ja.wikipedia.org/wiki/MGRV8)から翻訳されています。
+> この記事は[MG・RV8](https://ja.wikipedia.org/wiki/MG・RV8)から翻訳されています。
 
 
 **RV8**（アールブイエイト）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ローバー・グループ](../Page/ローバー_\(自動車\).md "wikilink")（当時）が製造し、**[MG](../Page/MG_\(自動車\).md "wikilink")**ブランドで販売していた2人乗りの[オープンカー](../Page/オープンカー.md "wikilink")である。1993年から1995年までのあいだに約2,000台が生産され、そのうちおよそ75％は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で販売された。

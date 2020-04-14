@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ヤマハ・Sシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・Sシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_S90_ES.jpg "wikilink") **Sシリーズ**（エス・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名。

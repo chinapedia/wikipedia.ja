@@ -1,4 +1,4 @@
-> この記事は[III \(\)](https://ja.wikipedia.org/wiki/III_\(\))から翻訳されています。
+> この記事は[ミラージュIII \(戦闘機\)](https://ja.wikipedia.org/wiki/ミラージュIII_\(戦闘機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ダッソー ミラージュIII | 画像=Image:RAAF Mirage III 1.JPEG | キャプション=オーストラリア空軍のミラージュIII O(F) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者=[ダッソー](../Page/ダッソー.md "wikilink")社 | 運用者= | 運用者 more=

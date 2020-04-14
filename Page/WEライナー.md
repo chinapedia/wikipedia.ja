@@ -1,4 +1,4 @@
-> この記事は[WE](https://ja.wikipedia.org/wiki/WE)から翻訳されています。
+> この記事は[WEライナー](https://ja.wikipedia.org/wiki/WEライナー)から翻訳されています。
 
 
 **WEライナー**（ウィ ライナー）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")と[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")を結ぶ[高速バス](../Page/高速バス.md "wikilink")路線の愛称。

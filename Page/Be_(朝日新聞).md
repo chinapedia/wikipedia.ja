@@ -1,4 +1,4 @@
-> この記事は[Be \(\)](https://ja.wikipedia.org/wiki/Be_\(\))から翻訳されています。
+> この記事は[Be \(朝日新聞\)](https://ja.wikipedia.org/wiki/Be_\(朝日新聞\))から翻訳されています。
 
 
 **be**（びぃー）は、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の週末別冊版（[二部紙](../Page/二部紙.md "wikilink")）のタイトルである。
@@ -31,7 +31,7 @@
 
 ## テレビ版
 
-[BS朝日では](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までこのbeを題材にしたテレビ番組（サブタイトル：「大人の知的サプリメント」）を毎週[日曜日](../Page/日曜日.md "wikilink")に放送していた。
+[BS朝日では](../Page/ビーエス朝日.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までこのbeを題材にしたテレビ番組（サブタイトル：「大人の知的サプリメント」）を毎週[日曜日](../Page/日曜日.md "wikilink")に放送していた。
 
 当初は「be on sunday」という表題だったが、先述の通り、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から新聞の日曜版のタイトルに使用される事から混同を避けるため「be on TV」を経て「be on AIR」となった。また、2007年は関連番組「beメディカル」が放送されていた。司会は[吉田照美](../Page/吉田照美.md "wikilink")と[久保田直子](https://ja.wikipedia.org/wiki/久保田直子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）だった。
 

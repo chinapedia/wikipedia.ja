@@ -1,4 +1,4 @@
-> この記事は[TX](https://ja.wikipedia.org/wiki/TX)から翻訳されています。
+> この記事は[ヤマハ・TXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TXシリーズ)から翻訳されています。
 
 
 **TXシリーズ**（ティーエックス・シリーズ）とは[ヤマハ](../Page/ヤマハ.md "wikilink")の[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。派生モデルとして**FB-01**もここで紹介する。また、TXシリーズではないが便宜上EMT-1も紹介する。

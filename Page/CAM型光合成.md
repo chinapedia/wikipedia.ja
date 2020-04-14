@@ -1,4 +1,4 @@
-> この記事は[CAM](https://ja.wikipedia.org/wiki/CAM)から翻訳されています。
+> この記事は[CAM型光合成](https://ja.wikipedia.org/wiki/CAM型光合成)から翻訳されています。
 
 
 **CAM型光合成**(CAMがたこうごうせい)は[砂漠](../Page/砂漠.md "wikilink")などの[多肉植物](../Page/多肉植物.md "wikilink")や、同様に水分ストレスの大きな環境に生息する[着生植物](../Page/着生植物.md "wikilink")に多く見られる[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")の一形態である。これを行なう植物を**CAM植物**と呼ぶ。この方法の特徴として、**[CO<sub>2</sub>の取り込みを夜に行い](../Page/二酸化炭素.md "wikilink")、昼に[還元](../Page/還元.md "wikilink")する**ことが挙げられる。**CAM**とはベンケイソウ型有機酸代謝のことで **C**rassulacean **A**cid **M**etabolism の頭字語である。

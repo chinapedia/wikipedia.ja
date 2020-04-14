@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCニュースシャワー](https://ja.wikipedia.org/wiki/ABCニュースシャワー)から翻訳されています。
 
 
 **ABCニュースシャワー**は、日本の[NHKのチャンネル](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[NHK BS1が](../Page/NHK_BS1.md "wikilink")、[アメリカの放送局](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ABCにおいて英語で放送された](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")「[ワールドニュース・トゥナイト](../Page/ABCワールドニュース.md "wikilink")」のトップニュースから生きた時事英語を選び、リスニング用に解説を交えて伝える5分間のミニ番組。[英語学習を兼ねたミニ報道番組である](../Page/英語教育.md "wikilink")。本項では、2019年度より本番組を改題した**攻略\!ABCニュース英語**についても扱う。

@@ -1,4 +1,4 @@
-> この記事は[F4F \(\)](https://ja.wikipedia.org/wiki/F4F_\(\))から翻訳されています。
+> この記事は[F4F \(航空機\)](https://ja.wikipedia.org/wiki/F4F_\(航空機\))から翻訳されています。
 
 
 **F4F ワイルドキャット**（*Grumman F4F Wildcat*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")が開発し、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に使用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。愛称の「**ワイルドキャット**(Wildcat)」は[山猫](../Page/ヤマネコ.md "wikilink")・[野良猫](../Page/野良猫.md "wikilink")の意味であるが、スラングでは意地悪女という意味も持つ。グラマンではF4F以降、艦上戦闘機に『○○キャット』という愛称を採用している。

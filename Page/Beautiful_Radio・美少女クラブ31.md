@@ -1,4 +1,4 @@
-> この記事は[Beautiful Radio31](https://ja.wikipedia.org/wiki/Beautiful_Radio31)から翻訳されています。
+> この記事は[Beautiful Radio・美少女クラブ31](https://ja.wikipedia.org/wiki/Beautiful_Radio・美少女クラブ31)から翻訳されています。
 
 
 **Beautiful Radio・美少女クラブ31**（ビューティフルラジオ・びしょうじょクラブさんじゅういち）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ](../Page/ラジオ.md "wikilink")[番組](../Page/番組.md "wikilink")。

@@ -187,12 +187,9 @@
   -
   -
   -
-  - [秒殺ブログ](http://byosatsu.laff.jp/blog/)
-
-  - [映話BLOG](http://events.laff.jp/blog/)
-
-  - [よしもと写真部](http://shashinbu.laff.jp/blog/)
-
+  -
+  -
+  -
   -
   -
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")

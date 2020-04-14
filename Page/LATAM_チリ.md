@@ -1,4 +1,4 @@
-> この記事は[LATAM ](https://ja.wikipedia.org/wiki/LATAM_)から翻訳されています。
+> この記事は[LATAM チリ](https://ja.wikipedia.org/wiki/LATAM_チリ)から翻訳されています。
 
 
 **LATAM チリ**（LATAM Airlines Chile 旧名: LAN Airlines、旧々名: LanChile、[NYSE](../Page/ニューヨーク証券取引所.md "wikilink")：[LFL](http://www.nyse.com/about/listed/lcddata.html?ticker=LFL)）は、[チリ](../Page/チリ.md "wikilink")の首都の[サンティアゴ・デ・チレ](https://ja.wikipedia.org/wiki/サンティアゴ・デ・チレ "wikilink")を本拠地としている[LATAM航空グループ](https://ja.wikipedia.org/wiki/LATAM航空グループ "wikilink")の[航空会社](../Page/航空会社.md "wikilink")で、チリの[フラッグキャリア](https://ja.wikipedia.org/wiki/フラッグキャリア "wikilink")でもある。

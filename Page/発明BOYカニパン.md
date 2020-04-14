@@ -1,4 +1,4 @@
-> この記事は[BOY](https://ja.wikipedia.org/wiki/BOY)から翻訳されています。
+> この記事は[発明BOYカニパン](https://ja.wikipedia.org/wiki/発明BOYカニパン)から翻訳されています。
 
 
 『**発明BOYカニパン**』（はつめいボーイ カニパン）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")である\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列で放送された](../Page/TXNネットワーク.md "wikilink")\[2\]。全31話。

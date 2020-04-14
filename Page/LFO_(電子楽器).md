@@ -1,4 +1,4 @@
-> この記事は[LFO \(\)](https://ja.wikipedia.org/wiki/LFO_\(\))から翻訳されています。
+> この記事は[LFO \(電子楽器\)](https://ja.wikipedia.org/wiki/LFO_\(電子楽器\))から翻訳されています。
 
 
 **LFO**（Low Frequency Oscillator）は（主に）人間の可聴域よりも低い周波数の波を発振する装置やモジュール。特に[シンセサイザー](../Page/シンセサイザー.md "wikilink")の変調用として多用される。

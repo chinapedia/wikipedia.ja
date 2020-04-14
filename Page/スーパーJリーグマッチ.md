@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJリーグマッチ](https://ja.wikipedia.org/wiki/スーパーJリーグマッチ)から翻訳されています。
 
 
 『**スーパーJリーグマッチ**』は[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の[Jリーグ実況中継のタイトル](../Page/日本プロサッカーリーグ.md "wikilink")。
@@ -12,6 +12,7 @@
   - 2005年12月より全試合[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")で放送している。独立局において、Jリーグ中継のハイビジョン放送はテレ玉が最も早い。
   - [2011年](../Page/2011年.md "wikilink")には[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")編成を利用し、県内（[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")内）で同時開催となった県勢の試合を、031chで浦和、032chで大宮に分けて生中継したことがあった。
   - [2012年](../Page/2012年.md "wikilink")より大宮主管試合について、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[Jリーグメディアプロモーション](https://ja.wikipedia.org/wiki/Jリーグメディアプロモーション "wikilink")からの委託を受けて、[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")「[Jリーグ中継](../Page/Jリーグ中継.md "wikilink")」の映像を製作することになった。ただし、映像と解説・実況はテレ玉とスカパー\!で別々のものになる。
+  - [2017年](../Page/2017年.md "wikilink")より[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")制作の中継をネットするようになってからネット受けが増えて、特に2019年は浦和主管試合三試合を除いて全てDAZN制作\[2\]になった。
 
 ## 実況アナウンサー
 
@@ -41,6 +42,7 @@
 
 <references />
 
-[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
+[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:ローカルテレビ局のサッカー番組‎](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組‎ "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
 
-1.  以前はアウェイのゲームでも放映権の確保できる試合を中心に中継してきたが、現在は[さいたまダービー](../Page/さいたまダービー.md "wikilink")以外は[スカパー\!との契約の関係上アウェイゲームは中継しない](../Page/スカパー!プレミアムサービス.md "wikilink")
+1.  以前は[さいたまダービー](../Page/さいたまダービー.md "wikilink")以外は[スカパー\!との契約の関係上アウェイゲームは中継していなかったが](../Page/スカパー!プレミアムサービス.md "wikilink")、2017年以降はアウェーゲームでも[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")のネット受けで再び放送されるようになってきている。
+2.  [3月2日](../Page/3月2日.md "wikilink")に行われたホーム開幕戦[北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")戦・[5月3日](../Page/5月3日.md "wikilink")[憲法記念日](../Page/憲法記念日.md "wikilink")に行われた[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")戦・[12月7日](../Page/12月7日.md "wikilink")に行われたホーム最終戦[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")戦

@@ -1,4 +1,4 @@
-> この記事は[MBX](https://ja.wikipedia.org/wiki/MBX)から翻訳されています。
+> この記事は[ホンダ・MBX](https://ja.wikipedia.org/wiki/ホンダ・MBX)から翻訳されています。
 
 
 **MBX**（エムビーエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")[標である](../Page/商標.md "wikilink")。

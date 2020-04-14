@@ -1,4 +1,4 @@
-> この記事は[RADIO](https://ja.wikipedia.org/wiki/RADIO)から翻訳されています。
+> この記事は[RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス)から翻訳されています。
 
 
 **RADIOアニメロミックス**（ラジオアニメロミックス）は、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")の『animelo mixチャンネル』にて配信されていた[アニラジ](../Page/アニラジ.md "wikilink")番組である。
@@ -9,7 +9,7 @@
 
 [2007年](../Page/2007年.md "wikilink")4月から[超\!放送局](../Page/超!放送局.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月以降は[ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/ニコニコアニメチャンネル "wikilink")）で配信。
 
-地上波では文化放送のみの関東ローカルであるが、[2011年](../Page/2011年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までは[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")、[2004年](../Page/2004年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは[九州朝日放送ラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")にもネットされていた。さらに[2007年](../Page/2007年.md "wikilink")9月から2011年3月までは[超\!A＆G+でも放送されていた](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")。
+地上波では文化放送のみの関東ローカルであるが、[2011年](../Page/2011年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までは[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")、[2004年](../Page/2004年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは[九州朝日放送ラジオ](../Page/KBCラジオ.md "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")にもネットされていた。さらに[2007年](../Page/2007年.md "wikilink")9月から2011年3月までは[超\!A＆G+でも放送されていた](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")。
 
 [パーソナリティは不定期で交代](../Page/ラジオパーソナリティ.md "wikilink")。
 

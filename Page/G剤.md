@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G剤](https://ja.wikipedia.org/wiki/G剤)から翻訳されています。
 
 
 **G剤**（ジーざい、G-series）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前後に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で開発された[神経ガス](../Page/神経ガス.md "wikilink")（[化学兵器](../Page/化学兵器.md "wikilink")）の総称。German gas が語源といわれる。戦後に[ポーランド](../Page/ポーランド.md "wikilink")や[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")などで開発された毒ガスもドイツ系の技術体系に含めると言う意味で**G剤**と呼ぶこともある。

@@ -1,4 +1,4 @@
-> この記事は[Yak-38 \(\)](https://ja.wikipedia.org/wiki/Yak-38_\(\))から翻訳されています。
+> この記事は[Yak-38 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-38_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 |名称=Yak-38（Як-38） |画像=<File:Yakovlev> Yak-38M at MAKS-1993 airshow.jpg |キャプション=1993年の[MAKS](https://ja.wikipedia.org/wiki/MAKS "wikilink")で展示されるYak-38M |用途=[艦上攻撃機](../Page/艦上攻撃機.md "wikilink") |分類=[垂直離着陸機](../Page/垂直離着陸機.md "wikilink") |設計者= |製造者=[ヤコブレフ設計局](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink") |運用者 more=　

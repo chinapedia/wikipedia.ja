@@ -1,4 +1,4 @@
-> この記事は[DA](https://ja.wikipedia.org/wiki/DA)から翻訳されています。
+> この記事は[ヤンマガ伝説キャイ〜ンDAあ゛〜ん](https://ja.wikipedia.org/wiki/ヤンマガ伝説キャイ〜ンDAあ゛〜ん)から翻訳されています。
 
 
 **ヤンマガ伝説キャイ〜ン**（ヤンマガでんせつキャイーンだあ゛ーん）は[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[土曜日](../Page/土曜日.md "wikilink")の[深夜に放送されていた](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[LOVELESS \(\)](https://ja.wikipedia.org/wiki/LOVELESS_\(\))から翻訳されています。
+> この記事は[LOVELESS \(高河ゆんの漫画\)](https://ja.wikipedia.org/wiki/LOVELESS_\(高河ゆんの漫画\))から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

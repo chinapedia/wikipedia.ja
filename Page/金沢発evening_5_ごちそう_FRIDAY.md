@@ -1,4 +1,4 @@
-> この記事は[evening 5  FRIDAY](https://ja.wikipedia.org/wiki/evening_5__FRIDAY)から翻訳されています。
+> この記事は[金沢発evening 5 ごちそう FRIDAY](https://ja.wikipedia.org/wiki/金沢発evening_5_ごちそう_FRIDAY)から翻訳されています。
 
 
 『**金沢発evening 5 ごちそう FRIDAY**』（かなざわはつ イブニング・ファイブ ごちそうフライデー）は、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MROテレビ）で[金曜夕方に放送されていた](../Page/金曜日.md "wikilink")[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")向けの[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[EPGでは](../Page/電子番組ガイド.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")にも分類されていた。

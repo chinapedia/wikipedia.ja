@@ -1,4 +1,4 @@
-> この記事は[  NHK80](https://ja.wikipedia.org/wiki/__NHK80)から翻訳されています。
+> この記事は[もっと身近に もっと世界へ NHK80](https://ja.wikipedia.org/wiki/もっと身近に_もっと世界へ_NHK80)から翻訳されています。
 
 
 『**もっと身近に もっと世界へ NHK80**』（もっとみぢかに もっとせかいへ エヌ・エイチ・ケーはちじゅう）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")の設立80周年を記念し、[日本時間の](../Page/日本標準時.md "wikilink")[2005年](../Page/2005年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")午前10:00から[3月22日](../Page/3月22日.md "wikilink")（[放送記念日](../Page/放送記念日.md "wikilink")当日）の22:00まで、延べ80時間に渡って[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")（一部[総合テレビとのサイマル含む](../Page/NHK総合テレビジョン.md "wikilink")）で長時間放送された開局記念番組。2015年の『[NHK90時間ラジオ〜もっと届け、大切なこと〜](https://ja.wikipedia.org/wiki/NHK90時間ラジオ〜もっと届け、大切なこと〜 "wikilink")』が放送されるまではテレビ・ラジオ合わせて日本最長の[特別番組](../Page/特別番組.md "wikilink")。

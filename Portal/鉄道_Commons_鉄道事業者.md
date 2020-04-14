@@ -1,4 +1,4 @@
-> この記事は[Portal:/Commons/](https://ja.wikipedia.org/wiki/Portal:/Commons/)から翻訳されています。
+> この記事は[Portal:鉄道/Commons/鉄道事業者](https://ja.wikipedia.org/wiki/Portal:鉄道/Commons/鉄道事業者)から翻訳されています。
 
 
 <table>

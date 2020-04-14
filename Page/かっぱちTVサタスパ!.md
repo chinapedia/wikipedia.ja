@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[かっぱちTVサタスパ!](https://ja.wikipedia.org/wiki/かっぱちTVサタスパ!)から翻訳されています。
 
 
 『**かっぱちTVサタスパ！**』（かっぱちテレビ\[1\] サタスパ）は、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

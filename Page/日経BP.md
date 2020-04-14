@@ -1,4 +1,4 @@
-> この記事は[BP](https://ja.wikipedia.org/wiki/BP)から翻訳されています。
+> この記事は[日経BP](https://ja.wikipedia.org/wiki/日経BP)から翻訳されています。
 
 
 **株式会社日経BP**（にっけいビーピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）の[子会社](../Page/子会社.md "wikilink")で、[出版社](../Page/出版社.md "wikilink")である。**日経BP社**などと表記される。
@@ -18,6 +18,8 @@
 2008年7月1日には、同じ日経グループの日経ホーム出版社と合併し、発行誌を継承した。
 
 [NBFプラチナタワー](https://ja.wikipedia.org/wiki/NBFプラチナタワー "wikilink")（3～12階）に本社を置いていたが、2017年8月、同じ日経傘下の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が、[六本木グランドタワーに移転した跡地の日経虎ノ門別館](https://ja.wikipedia.org/wiki/住友不動産六本木グランドタワー "wikilink")（港区[虎ノ門](https://ja.wikipedia.org/wiki/虎ノ門 "wikilink")）に本社移転した\[1\]。
+
+2020年4月1月、[日本経済新聞出版社](https://ja.wikipedia.org/wiki/日本経済新聞出版社 "wikilink")と統合\[2\]。
 
 ## 現在発行している主な雑誌
 
@@ -65,3 +67,4 @@
 [Category:日本経済新聞社の関連企業](https://ja.wikipedia.org/wiki/Category:日本経済新聞社の関連企業 "wikilink") [Category:日経BP社](https://ja.wikipedia.org/wiki/Category:日経BP社 "wikilink") [Category:コンピュータに関する出版社](https://ja.wikipedia.org/wiki/Category:コンピュータに関する出版社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1969年設立の企業](https://ja.wikipedia.org/wiki/Category:1969年設立の企業 "wikilink") [Category:虎ノ門](https://ja.wikipedia.org/wiki/Category:虎ノ門 "wikilink")
 
 1.
+2.

@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[ジャンクDNA](https://ja.wikipedia.org/wiki/ジャンクDNA)から翻訳されています。
 
 
 **ジャンクDNA**（Junk DNA、junk gene、ガラクタ遺伝子、非コードDNA）とは、[染色体](../Page/染色体.md "wikilink")あるいは[ゲノム](../Page/ゲノム.md "wikilink")上の機能が特定されていないような[DNA領域のこと](../Page/デオキシリボ核酸.md "wikilink")。日本の生物学者[大野乾](../Page/大野乾.md "wikilink")による命名。

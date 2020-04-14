@@ -1,4 +1,4 @@
-> この記事は[TRITON](https://ja.wikipedia.org/wiki/TRITON)から翻訳されています。
+> この記事は[コルグ・TRITONシリーズ](https://ja.wikipedia.org/wiki/コルグ・TRITONシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Korg_Triton_LE.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Korg_TRITON_Extreme.jpg "wikilink")

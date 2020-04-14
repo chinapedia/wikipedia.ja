@@ -1,4 +1,4 @@
-> この記事は[Iris ](https://ja.wikipedia.org/wiki/Iris_)から翻訳されています。
+> この記事は[Iris 〜イリス〜](https://ja.wikipedia.org/wiki/Iris_〜イリス〜)から翻訳されています。
 
 
 『**Iris 〜イリス〜**』は、[KIDから](../Page/KID_\(ゲームブランド\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。同年[8月7日](../Page/8月7日.md "wikilink")には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版も発売されている。また、[2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")には[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象のPS2廉価版が発売された。

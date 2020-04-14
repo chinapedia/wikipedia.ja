@@ -1,4 +1,4 @@
-> この記事は[BOY](https://ja.wikipedia.org/wiki/BOY)から翻訳されています。
+> この記事は[超発明BOYカニパン](https://ja.wikipedia.org/wiki/超発明BOYカニパン)から翻訳されています。
 
 
 『**超発明BOYカニパン**』（ちょうはつめいボーイカニパン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")から同年[6月25日](../Page/6月25日.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で放送された。全21話。

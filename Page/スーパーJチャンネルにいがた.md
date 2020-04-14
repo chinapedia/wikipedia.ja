@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJチャンネルにいがた](https://ja.wikipedia.org/wiki/スーパーJチャンネルにいがた)から翻訳されています。
 
 
 『**スーパーJチャンネルにいがた**』（スーパージェイチャンネルにいがた）は、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")（UX）で夕方に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

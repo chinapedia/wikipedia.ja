@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ウォルター・S・サットン](https://ja.wikipedia.org/wiki/ウォルター・S・サットン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Walter_sutton.jpg "wikilink") **ウォルター・S・サットン**（Walter Stanborough Sutton, [1877年](../Page/1877年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [1916年](../Page/1916年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[生物学者](../Page/生物学者の一覧.md "wikilink")・[医学](../Page/医学.md "wikilink")者。[バッタ](../Page/バッタ.md "wikilink") *Brachystola magna* の[生殖細胞](https://ja.wikipedia.org/wiki/生殖細胞 "wikilink")を用いて[減数分裂](../Page/減数分裂.md "wikilink")における[染色体](../Page/染色体.md "wikilink")の観察から、**[染色体説](../Page/染色体説.md "wikilink")**を提唱したことで知られる。

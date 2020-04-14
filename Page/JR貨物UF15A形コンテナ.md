@@ -1,4 +1,4 @@
-> この記事は[JRUF15A](https://ja.wikipedia.org/wiki/JRUF15A)から翻訳されています。
+> この記事は[JR貨物UF15A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UF15A形コンテナ)から翻訳されています。
 
 
 [UF15A-683----①_【ヤンマー／日本通運／韓国農水産物流通公社】Containers_of_Japan_Rail.jpg](https://ja.wikipedia.org/wiki/File:UF15A-683----①_【ヤンマー／日本通運／韓国農水産物流通公社】Containers_of_Japan_Rail.jpg "fig:UF15A-683----①_【ヤンマー／日本通運／韓国農水産物流通公社】Containers_of_Japan_Rail.jpg")[5月13日](../Page/5月13日.md "wikilink")撮影。

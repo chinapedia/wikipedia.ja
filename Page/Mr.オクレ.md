@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.オクレ](https://ja.wikipedia.org/wiki/Mr.オクレ)から翻訳されています。
 
 
 **Mr.オクレ**（ミスターオクレ、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[4月30日](../Page/4月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[喜劇俳優](../Page/コメディアン.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")である。[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")の座員\[1\]。本名は**岡田 信行**（おかだ のぶゆき）。

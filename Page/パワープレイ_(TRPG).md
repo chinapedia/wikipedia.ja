@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[パワープレイ \(TRPG\)](https://ja.wikipedia.org/wiki/パワープレイ_\(TRPG\))から翻訳されています。
 
 
 **パワープレイ**とは、[1991年](../Page/1991年.md "wikilink")に[山北篤](../Page/山北篤.md "wikilink")と[スペースワンゼロ](https://ja.wikipedia.org/wiki/スペースワンゼロ "wikilink")によって考案、[ホビージャパン](../Page/ホビージャパン.md "wikilink")から販売された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のルールブック。

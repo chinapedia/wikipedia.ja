@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線回折](https://ja.wikipedia.org/wiki/X線回折)から翻訳されています。
 
 
 [Cliche_de_laue_principe.svg](https://ja.wikipedia.org/wiki/File:Cliche_de_laue_principe.svg "fig:Cliche_de_laue_principe.svg")を満たした方向にのみX線が回折され、結晶構造を反映したパターンが生じる。\]\]

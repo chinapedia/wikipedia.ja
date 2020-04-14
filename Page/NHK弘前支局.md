@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK弘前支局](https://ja.wikipedia.org/wiki/NHK弘前支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK弘前支局.jpg "wikilink") **NHK弘前支局**（エヌエイチケイひろさきしきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")にある[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")の支局のひとつ。[弘前](../Page/弘前市.md "wikilink")・[津軽地方](https://ja.wikipedia.org/wiki/津軽地方 "wikilink")の取材拠点である。

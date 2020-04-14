@@ -246,7 +246,7 @@
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2003年1月24日）\[2\]
   - [ゴーゴーモンキーズ](../Page/ゴーゴーモンキーズ.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、火曜日・23:45-25:00）※大石のみ出演
-  - オーイシ加藤のニコ生音楽王
+  - オーイシ加藤のニコ生☆音楽王
 
 ## 主なライブ
 

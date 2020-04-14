@@ -1,4 +1,4 @@
-> この記事は[TRINITY](https://ja.wikipedia.org/wiki/TRINITY)から翻訳されています。
+> この記事は[コルグ・TRINITYシリーズ](https://ja.wikipedia.org/wiki/コルグ・TRINITYシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KORG_Trinity_\(partial\).jpg "wikilink") **TRINITY**（トリニティ）とは[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名である。

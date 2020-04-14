@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[ヤマハ・CSシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・CSシリーズ)から翻訳されています。
 
 
 **CSシリーズ**（シーエス・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名。

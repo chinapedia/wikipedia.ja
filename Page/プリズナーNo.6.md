@@ -1,4 +1,4 @@
-> この記事は[No.6](https://ja.wikipedia.org/wiki/No.6)から翻訳されています。
+> この記事は[プリズナーNo.6](https://ja.wikipedia.org/wiki/プリズナーNo.6)から翻訳されています。
 
 
 『**プリズナーNo.6**』（原題:***The Prisoner***）は、[1967年](../Page/1967年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にかけて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で製作・放映された連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。主演・企画・監督（一部の回）は[パトリック・マクグーハン](../Page/パトリック・マクグーハン.md "wikilink")（Patrick McGoohan）。各話約52分、全17本。

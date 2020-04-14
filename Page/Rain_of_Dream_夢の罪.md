@@ -1,4 +1,4 @@
-> この記事は[Rain of Dream ](https://ja.wikipedia.org/wiki/Rain_of_Dream_)から翻訳されています。
+> この記事は[Rain of Dream 夢の罪](https://ja.wikipedia.org/wiki/Rain_of_Dream_夢の罪)から翻訳されています。
 
 
 「**Rain of Dream 夢の罪**」（レイン・オブ・ドリーム ゆめのつみ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月5日](../Page/9月5日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の55枚目の[シングル](../Page/シングル.md "wikilink")である。

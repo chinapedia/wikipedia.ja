@@ -1,4 +1,4 @@
-> この記事は[Angel Eyes \(m.o.v.e\)](https://ja.wikipedia.org/wiki/Angel_Eyes_\(m.o.v.e\))から翻訳されています。
+> この記事は[Angel Eyes \(m.o.v.eの曲\)](https://ja.wikipedia.org/wiki/Angel_Eyes_\(m.o.v.eの曲\))から翻訳されています。
 
 
 「**Angel Eyes**」（エンジェルアイズ）は、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。

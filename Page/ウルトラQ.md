@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ウルトラQ](https://ja.wikipedia.org/wiki/ウルトラQ)から翻訳されています。
 
 
 『**ウルトラQ**』（ウルトラキュー） は、[1966年](../Page/1966年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")から[7月3日](../Page/7月3日.md "wikilink")まで、[TBS系列で毎週日曜](../Page/TBSテレビ.md "wikilink")19:00 - 19:30（[JST](../Page/日本標準時.md "wikilink")）に全27話\[1\]が放送された、[円谷特技プロダクション制作の](../Page/円谷プロダクション.md "wikilink")[特撮](../Page/特撮.md "wikilink")テレビドラマ。[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")（空想特撮シリーズ）の第1作。[武田薬品工業](../Page/武田薬品工業.md "wikilink")による[一社提供](../Page/一社提供.md "wikilink")番組でもあった。

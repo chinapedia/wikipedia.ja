@@ -1,4 +1,4 @@
-> この記事は[MEMORIES \(\)](https://ja.wikipedia.org/wiki/MEMORIES_\(\))から翻訳されています。
+> この記事は[MEMORIES \(沢田研二の曲\)](https://ja.wikipedia.org/wiki/MEMORIES_\(沢田研二の曲\))から翻訳されています。
 
 
 **MEMORIES**（メモリーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の20枚目のシングルである。

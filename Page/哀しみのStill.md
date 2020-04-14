@@ -1,4 +1,4 @@
-> この記事は[Still](https://ja.wikipedia.org/wiki/Still)から翻訳されています。
+> この記事は[哀しみのStill](https://ja.wikipedia.org/wiki/哀しみのStill)から翻訳されています。
 
 
 「**哀しみのStill**」（かなしみのスティル）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月15日](../Page/9月15日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の46枚目のシングルである。

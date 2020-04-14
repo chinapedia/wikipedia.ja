@@ -1,4 +1,4 @@
-> この記事は[DABADA](https://ja.wikipedia.org/wiki/DABADA)から翻訳されています。
+> この記事は[酒場でDABADA](https://ja.wikipedia.org/wiki/酒場でDABADA)から翻訳されています。
 
 
 **酒場でDABADA**（さかばでダバダ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")である。

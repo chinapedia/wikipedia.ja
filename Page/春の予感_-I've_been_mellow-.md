@@ -1,4 +1,4 @@
-> この記事は[ -I\'ve been mellow-](https://ja.wikipedia.org/wiki/_-I\'ve_been_mellow-)から翻訳されています。
+> この記事は[春の予感 -I\'ve been mellow-](https://ja.wikipedia.org/wiki/春の予感_-I\'ve_been_mellow-)から翻訳されています。
 
 
 「**春の予感‐I've been mellow‐**」（はるのよかん アイヴ・ビーン・メロウ）は、[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")通算25枚目のシングル。1978年1月21日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

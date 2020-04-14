@@ -1,4 +1,4 @@
-> この記事は[RPG!](https://ja.wikipedia.org/wiki/RPG!)から翻訳されています。
+> この記事は[スーパーコロンバイン大虐殺RPG!](https://ja.wikipedia.org/wiki/スーパーコロンバイン大虐殺RPG!)から翻訳されています。
 
 
 **スーパーコロンバイン大虐殺RPG\!**（-だいぎゃくさつ-, 原題:Super Columbine Massacre RPG\!）は2005年に製作された[同人ゲーム](../Page/同人ゲーム.md "wikilink")。[RPGツクール](../Page/RPGツクール.md "wikilink")によって作成されており、[コロンバイン高校銃乱射事件](../Page/コロンバイン高校銃乱射事件.md "wikilink")（[1999年](../Page/1999年.md "wikilink")）に着想を得て作られている。作成チームのリーダーは（1982年生、映画監督)。**SCMRPG\!**とも略される。

@@ -9,13 +9,13 @@
   - 1990年 [立川直樹](../Page/立川直樹.md "wikilink")プロデュースによりichiroソロデビュー。1stアルバムのジャケは[篠山紀信](../Page/篠山紀信.md "wikilink")撮影によるもの。
   - 1990年 日本人初のGibson USA/Endorose Artistに就任。
   - 1993年 LA Recordingによる2nd Album "Hands Of Time"をリリース。Sons Of Blues（現 The Sons）を結成。
-  - 1996年 Lightning Blues Guitarに参加。共演は[近藤房之助](../Page/近藤房之助.md "wikilink")、[大村憲司](../Page/大村憲司.md "wikilink")、[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")、[山岸潤史](../Page/山岸潤史.md "wikilink")、[Char](../Page/Char.md "wikilink")、[石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")、[西慎二](https://ja.wikipedia.org/wiki/西慎二 "wikilink")、[Alan Mirikitani](https://ja.wikipedia.org/wiki/Alan_Mirikitani "wikilink")。
+  - 1996年 Lightning Blues Guitarに参加。共演は[近藤房之助](../Page/近藤房之助.md "wikilink")、[大村憲司](../Page/大村憲司.md "wikilink")、[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")、[山岸潤史](../Page/山岸潤史.md "wikilink")、[Char](../Page/Char.md "wikilink")、[石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")、[西慎嗣](https://ja.wikipedia.org/wiki/西慎二 "wikilink")、[Alan Mirikitani](https://ja.wikipedia.org/wiki/Alan_Mirikitani "wikilink")。
   - 2004年 [Japan Blues Carnivalに出演](https://ja.wikipedia.org/wiki/Japan_Blues_Carnival "wikilink")。共演は[オーティス・ラッシュ](../Page/オーティス・ラッシュ.md "wikilink")(Otis Rush)、[Mavis Staple](https://ja.wikipedia.org/wiki/Mavis_Staple "wikilink")。
-  - 2005年 第二回Lightning Blues Guitarに参加。共演は[鮎川誠](../Page/鮎川誠.md "wikilink")、[近藤房之助](../Page/近藤房之助.md "wikilink")、[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")、[山岸潤史](../Page/山岸潤史.md "wikilink")、[Char](../Page/Char.md "wikilink")、[石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")、[西慎二](https://ja.wikipedia.org/wiki/西慎二 "wikilink")、[土屋公平](../Page/土屋公平.md "wikilink")、[中野重夫](https://ja.wikipedia.org/wiki/中野重夫 "wikilink")、[住友俊博](https://ja.wikipedia.org/wiki/住友俊博 "wikilink")。
+  - 2005年 第二回Lightning Blues Guitarに参加。共演は[鮎川誠](../Page/鮎川誠.md "wikilink")、[近藤房之助](../Page/近藤房之助.md "wikilink")、[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")、[山岸潤史](../Page/山岸潤史.md "wikilink")、[Char](../Page/Char.md "wikilink")、[石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")、[西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")、[土屋公平](../Page/土屋公平.md "wikilink")、[中野重夫](https://ja.wikipedia.org/wiki/中野重夫 "wikilink")、[住友俊博](https://ja.wikipedia.org/wiki/住友俊博 "wikilink")。
   - 2006年 [夏木マリ](../Page/夏木マリ.md "wikilink")、[斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノブ "wikilink")らと結成した[GIBIER du MARI](https://ja.wikipedia.org/wiki/GIBIER_du_MARI "wikilink")(現 GIBIER du MARIE)でメジャーデビュー。[矢沢永吉](../Page/矢沢永吉.md "wikilink")ツアー CONCERT TOUR 2006 ROCK OPERA2 NEW STANDARDに参加。
   - 2007年 [ROCKAMENCO](https://ja.wikipedia.org/wiki/ROCKAMENCO "wikilink")でSonic Grooveからメジャーデビューし、デビュー曲の"Morena"が [TBS](../Page/TBSテレビ.md "wikilink")「[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")」のエンディング・テーマに。
   - 2010年 [ROCKAMENCO](https://ja.wikipedia.org/wiki/ROCKAMENCO "wikilink")を脱退。ソロライブ活動再始動。[長渕剛](../Page/長渕剛.md "wikilink")ツアー TSUYOSHI NAGABUCHI ARENA TOUR 2010-2011 "TRY AGAIN"に参加。
-  - 2011年18年振りとなるソロアルバム“Circle Scale”をリリース。9/4の渋谷クアトロでのツアーファイナルではゲストに[TOKIE](../Page/TOKIE.md "wikilink")×[中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink")×[仲井戸“Chabo”麗市](https://ja.wikipedia.org/wiki/仲井戸“Chabo”麗市 "wikilink")×[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")を迎えて行 われ、同年11/27にDVDをリリース。
+  - 2011年18年振りとなるソロアルバム“Circle Scale”をリリース。9/4の渋谷クアトロでのツアーファイナルではゲストに[TOKIE](../Page/TOKIE.md "wikilink")×[中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink")×[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")×[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")を迎えて行 われ、同年11/27にDVDをリリース。
   - 2012年 [長渕剛](../Page/長渕剛.md "wikilink") RUN FOR TOMORROW HALL TOUR 2012 Unplugged Liveに参加する。ミニアルバム"Raw Vintage"をリリースし、28本のツアーを敢行する。
   - 2013年 昨年のRaw Vintage Tourが好評につき、アンコールツアーとして22本のRaw Vintage \#2 を敢行する。同年、自身初となるAcoustic Album “Life Time”をリリースし、全国50本のツアーを敢行。新たな一面が反響を呼ぶ。
   - 2014年 [矢沢永吉](../Page/矢沢永吉.md "wikilink")が結成したNew Band "Z's" のサポートメンバーとしてZ's START ON TOUR に参加。[長渕剛](../Page/長渕剛.md "wikilink") Arena Tour "All Time Best Tour"に参加。The Sons活動休止発表。
@@ -23,6 +23,8 @@
   - 2015年 慶應義塾大学院メディアデザイン研究科内メディアデザイン研究所リサーチャー就任。同大学院Music Project研究授業特別講師を務める。
   - 2016年 全国各地のBlues Rock仲間と"Chain Of Blues"の活動を展開する。
   - 2017年 2年ぶりのSolo Tour "All That Blues Rock"を敢行。メンバーは矢野 一成(Drum)、斉藤ユウキ(Bass)。[長渕剛](../Page/長渕剛.md "wikilink") "ONE NIGHT PREMIUM LIVE AT 日本武道館"、"PREMIUM BIRTHDAY LIVE AT 大阪城ホール"、「TSUYOSHI NAGABUCHI WELCOM TO MY HOME TOWN PREMIUM LIVE」に参加。
+  - 2018年 [長渕剛](../Page/長渕剛.md "wikilink") Arena Tour 2018 "Don't Think Twice" に参加。5年ぶりとなるミニアルバム"Lonestar"をリリースし、21本の全国ツアーを敢行。メンバーは矢野一成 (Drum)、斉藤ユウキ (Bass)。最終公演の東京では敬愛するギタリスト 西慎嗣を迎え、盛大なツアーファイナルとなる。
+  - 2019年『Lonestar』のリリース後、全国21か所を駆け巡ったツアー "ichiro Tour 2018 Lonestar" 最終公演の三軒茶屋Grapefruit moonでの熱いライブを収録したLive DVD "ichiro Tour 2018 Lonestar"をリリースし、東名阪にてリリースライブを敢行。東京ではSpecial Guestに[名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")が参加。
 
 <!-- end list -->
 

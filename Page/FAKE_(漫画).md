@@ -1,4 +1,4 @@
-> この記事は[FAKE \(\)](https://ja.wikipedia.org/wiki/FAKE_\(\))から翻訳されています。
+> この記事は[FAKE \(漫画\)](https://ja.wikipedia.org/wiki/FAKE_\(漫画\))から翻訳されています。
 
 
 『**FAKE**』（フェイク）は、[真東砂波](https://ja.wikipedia.org/wiki/真東砂波 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[BL](../Page/ボーイズラブ.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。及び漫画を原作とした[OVA](../Page/OVA.md "wikilink")。

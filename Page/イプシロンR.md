@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[イプシロンR](https://ja.wikipedia.org/wiki/イプシロンR)から翻訳されています。
 
 
 **イプシロンR**は、[1999年](../Page/1999年.md "wikilink")5月に[山佐](../Page/山佐.md "wikilink")が開発・販売したパチスロ機。

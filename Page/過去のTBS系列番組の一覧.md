@@ -1,7 +1,7 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[過去のTBS系列番組の一覧](https://ja.wikipedia.org/wiki/過去のTBS系列番組の一覧)から翻訳されています。
 
 
-ここでは[TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS\[1\]）とその主な系列局で過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")および、過去の放送枠時間帯を、以下に列記する。 尚、{{\#time:Y年Md日|+9 hours}}現在放送中の番組については「[TBSテレビ番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ番組一覧 "wikilink")」を参照のこと。
+ここでは[TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS\[1\]）とその主な系列局で過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")および、過去の放送枠時間帯を、以下に列記する。 尚、{{\#time:Y年Md日H時i分|+9 hours}}現在放送中の番組については「[TBSテレビ番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ番組一覧 "wikilink")」を参照のこと。
 
 ## 表記
 
@@ -330,7 +330,10 @@
   - [関口宏のPAPAパラダイス](https://ja.wikipedia.org/wiki/関口宏のPAPAパラダイス "wikilink")
   - [ご対面バラエティー 7時にあいましょう](https://ja.wikipedia.org/wiki/ご対面バラエティー_7時にあいましょう "wikilink")
   - [結婚したら人生劇変\!○○の妻たち](https://ja.wikipedia.org/wiki/結婚したら人生劇変!○○の妻たち "wikilink")
+  - [名医のTHE太鼓判\!](https://ja.wikipedia.org/wiki/名医のTHE太鼓判! "wikilink")
   - [世にも不思議なランキング なんで?なんで?なんで?](https://ja.wikipedia.org/wiki/世にも不思議なランキング_なんで?なんで?なんで? "wikilink")
+  - [有田哲平と高嶋ちさ子の人生イロイロ超会議](https://ja.wikipedia.org/wiki/有田哲平と高嶋ちさ子の人生イロイロ超会議 "wikilink")
+  - [1番だけが知っている](https://ja.wikipedia.org/wiki/1番だけが知っている "wikilink")
   - [G.I.ゴロー](https://ja.wikipedia.org/wiki/G.I.ゴロー "wikilink")
   - [キングオブチェアー](https://ja.wikipedia.org/wiki/キングオブチェアー "wikilink")
   - [妻と罰](https://ja.wikipedia.org/wiki/妻と罰 "wikilink")
@@ -340,6 +343,7 @@
   - [パフォーマンスA](https://ja.wikipedia.org/wiki/パフォーマンスA "wikilink")
       - パフォーマンスZ
   - [なかい君の学スイッチ](https://ja.wikipedia.org/wiki/なかい君の学スイッチ "wikilink")
+  - [中居くん決めて\!](https://ja.wikipedia.org/wiki/中居くん決めて! "wikilink")
   - [ギャンブル・ザ・ワールド](https://ja.wikipedia.org/wiki/ギャンブル・ザ・ワールド "wikilink")
   - [穴があくほど定点観測](https://ja.wikipedia.org/wiki/穴があくほど定点観測 "wikilink")
   - [時間がある人しか出れないTV](https://ja.wikipedia.org/wiki/時間がある人しか出れないTV "wikilink")
@@ -392,6 +396,7 @@
   - [林先生の痛快\!生きざま大辞典](https://ja.wikipedia.org/wiki/林先生の痛快!生きざま大辞典 "wikilink")
   - [有田チルドレン](https://ja.wikipedia.org/wiki/有田チルドレン "wikilink") - 情報制作局制作
   - [友だち+プラス](https://ja.wikipedia.org/wiki/友だち+プラス "wikilink")
+  - [その他の人に会ってみた](https://ja.wikipedia.org/wiki/その他の人に会ってみた "wikilink")
   - [ミッションV6](https://ja.wikipedia.org/wiki/ミッションV6 "wikilink")
   - [男のヘンサーチ\!\!](https://ja.wikipedia.org/wiki/男のヘンサーチ!! "wikilink")×
   - [ガチャガチャV6](https://ja.wikipedia.org/wiki/ガチャガチャV6 "wikilink")
@@ -510,12 +515,13 @@
   - [TVジェネレーション](../Page/TVジェネレーション.md "wikilink")
   - [ひみつの嵐ちゃん\!](https://ja.wikipedia.org/wiki/ひみつの嵐ちゃん! "wikilink")
   - [今、この顔がスゴい\!](https://ja.wikipedia.org/wiki/今、この顔がスゴい! "wikilink") - 情報制作局制作
+  - [Take Me Out](https://ja.wikipedia.org/wiki/Take_Me_Out "wikilink")
   - [新知識階級 クマグス](https://ja.wikipedia.org/wiki/新知識階級_クマグス "wikilink")
   - [地球のしゃべり方](https://ja.wikipedia.org/wiki/地球のしゃべり方 "wikilink")
   - [さまぁ〜ずのヤリタ☆ガ〜リ〜](https://ja.wikipedia.org/wiki/さまぁ〜ずのヤリタ☆ガ〜リ〜 "wikilink")
   - [Kiss My Fake](https://ja.wikipedia.org/wiki/Kiss_My_Fake "wikilink")
   - [WADAIの王国](https://ja.wikipedia.org/wiki/WADAIの王国 "wikilink")
-  - [Take Me Out](https://ja.wikipedia.org/wiki/Take_Me_Out "wikilink")
+  - [ダブルベッド](../Page/ダブルベッド_\(テレビ番組\).md "wikilink")
   - [ダウンタウン也](https://ja.wikipedia.org/wiki/ダウンタウン也 "wikilink")
   - [ピッカピカ天然素材\!](../Page/ピッカピカ天然素材!.md "wikilink")
   - [ダウンタウン汁](../Page/ダウンタウン汁.md "wikilink")
@@ -905,6 +911,8 @@
   - [7時にあいまショー](https://ja.wikipedia.org/wiki/7時にあいまショー "wikilink")
   - [全国ヤング歌謡フェスティバル](https://ja.wikipedia.org/wiki/全国ヤング歌謡フェスティバル "wikilink")
   - [ライブG](https://ja.wikipedia.org/wiki/ライブG "wikilink")
+  - [Sing\! Sing\! Sing\!](https://ja.wikipedia.org/wiki/Sing!_Sing!_Sing! "wikilink")
+  - [ハロウィン音楽祭](https://ja.wikipedia.org/wiki/ハロウィン音楽祭 "wikilink")
   - [日本有線大賞](../Page/日本有線大賞.md "wikilink")☆
   - [月曜組曲](../Page/月曜組曲.md "wikilink")（深夜）
   - [キラリ☆熱熱CLUB](https://ja.wikipedia.org/wiki/キラリ☆熱熱CLUB "wikilink")（深夜）☆
@@ -1363,7 +1371,6 @@
   - [オールスター寒中水泳大会](https://ja.wikipedia.org/wiki/オールスター寒中水泳大会 "wikilink")
   - [ピン子の時間](../Page/ピン子の時間.md "wikilink")
   - [ザ・ディール](../Page/ザ・ディール.md "wikilink")
-  - [史上空前\!\! 笑いの祭典 ザ・ドリームマッチ](https://ja.wikipedia.org/wiki/史上空前!!_笑いの祭典_ザ・ドリームマッチ "wikilink")
   - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")
   - [オールスター赤面申告\!ハプニング大賞](../Page/オールスター赤面申告!ハプニング大賞.md "wikilink")
   - [ハプニング名珍場面 日本全国プレミア映像スペシャル](https://ja.wikipedia.org/wiki/ハプニング名珍場面_日本全国プレミア映像スペシャル "wikilink")
@@ -1411,7 +1418,7 @@
 
 ## 脚注
 
-[Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:TBS系テレビ番組](https://ja.wikipedia.org/wiki/Category:TBS系テレビ番組 "wikilink") [Category:TBSの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの番組の歴史 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
+[Category:TBS系テレビ番組](https://ja.wikipedia.org/wiki/Category:TBS系テレビ番組 "wikilink") [Category:TBSの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの番組の歴史 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 
 1.  「TBS」の略称は、2009年3月までは[東京放送](../Page/東京放送ホールディングス.md "wikilink")、2009年4月以降は[TBSテレビ](../Page/TBSテレビ.md "wikilink")を指す。
 2.

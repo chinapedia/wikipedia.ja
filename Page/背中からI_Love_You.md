@@ -1,4 +1,4 @@
-> この記事は[I Love You](https://ja.wikipedia.org/wiki/I_Love_You)から翻訳されています。
+> この記事は[背中からI Love You](https://ja.wikipedia.org/wiki/背中からI_Love_You)から翻訳されています。
 
 
 「**背中からI Love You**」（せなかからアイ・ラヴ・ユー）は、[1984年](../Page/1984年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の48枚目のシングルである。

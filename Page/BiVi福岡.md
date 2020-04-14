@@ -1,4 +1,4 @@
-> この記事は[BiVi](https://ja.wikipedia.org/wiki/BiVi)から翻訳されています。
+> この記事は[BiVi福岡](https://ja.wikipedia.org/wiki/BiVi福岡)から翻訳されています。
 
 
 **BiVi福岡**（ビビふくおか）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[渡辺通](https://ja.wikipedia.org/wiki/渡辺通_\(福岡市\) "wikilink")4丁目にある大型[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")である。九州最大の繁華街である[天神のやや南側に離れて位置する](../Page/天神_\(福岡市\).md "wikilink")。

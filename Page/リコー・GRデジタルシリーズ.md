@@ -1,4 +1,4 @@
-> この記事は[GR](https://ja.wikipedia.org/wiki/GR)から翻訳されています。
+> この記事は[リコー・GRデジタルシリーズ](https://ja.wikipedia.org/wiki/リコー・GRデジタルシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GR_Digital_IMG_0656.JPG "wikilink") **GRデジタルシリーズ**（*GR Digital* ）は、[リコーイメージング](https://ja.wikipedia.org/wiki/リコーイメージング "wikilink")（[リコー](../Page/リコー.md "wikilink")ブランド）が販売している高画質銀塩コンパクトカメラ"GRシリーズ"のデジタルカメラ版。

@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[FCバルセロナ \(ラグビー\)](https://ja.wikipedia.org/wiki/FCバルセロナ_\(ラグビー\))から翻訳されています。
 
 
 **FCバルセロナ・ラグビー**()は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[ラグビーユニオン](../Page/ラグビーユニオン.md "wikilink")チーム。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")のアマチュア部門のクラブであり、[バルセロナ](../Page/バルセロナ.md "wikilink")を拠点として活動している。

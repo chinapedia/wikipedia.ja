@@ -1,4 +1,4 @@
-> この記事は[OH! ](https://ja.wikipedia.org/wiki/OH!_)から翻訳されています。
+> この記事は[OH! ギャル](https://ja.wikipedia.org/wiki/OH!_ギャル)から翻訳されています。
 
 
 **OH\! ギャル**（オー・ギャル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の27枚目のシングルである。

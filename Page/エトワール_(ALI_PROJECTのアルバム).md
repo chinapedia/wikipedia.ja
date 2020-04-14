@@ -1,4 +1,4 @@
-> この記事は[ \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/_\(ALI_PROJECT\))から翻訳されています。
+> この記事は[エトワール \(ALI PROJECTのアルバム\)](https://ja.wikipedia.org/wiki/エトワール_\(ALI_PROJECTのアルバム\))から翻訳されています。
 
 
 『**エトワール**』（*étoiles*）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")2枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。

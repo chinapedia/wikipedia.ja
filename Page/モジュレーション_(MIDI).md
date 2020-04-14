@@ -1,4 +1,4 @@
-> この記事は[ \(MIDI\)](https://ja.wikipedia.org/wiki/_\(MIDI\))から翻訳されています。
+> この記事は[モジュレーション \(MIDI\)](https://ja.wikipedia.org/wiki/モジュレーション_\(MIDI\))から翻訳されています。
 
 
 **モジュレーション**または**モジュレーション・デプス** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](../Page/コントロールチェンジ.md "wikilink")のひとつ。モジュレーション・ホイールなどの操作によって、主に[ビブラート](../Page/ビブラート.md "wikilink")効果を与える際に使用される。コントロール番号1。

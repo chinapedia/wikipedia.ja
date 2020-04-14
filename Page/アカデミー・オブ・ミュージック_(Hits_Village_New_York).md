@@ -1,4 +1,4 @@
-> この記事は[ \(Hits Village New York\)](https://ja.wikipedia.org/wiki/_\(Hits_Village_New_York\))から翻訳されています。
+> この記事は[アカデミー・オブ・ミュージック \(Hits Village New York\)](https://ja.wikipedia.org/wiki/アカデミー・オブ・ミュージック_\(Hits_Village_New_York\))から翻訳されています。
 
 
 **アカデミー・オブ・ミュージック Hits Village New York**（アカデミー・オブ・ミュージック ヒッツ ビレッジ ニューヨーク）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[道玄坂](../Page/道玄坂.md "wikilink")にある音楽学校。

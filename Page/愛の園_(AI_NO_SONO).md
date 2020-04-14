@@ -1,4 +1,4 @@
-> この記事は[ \(AI NO SONO\)](https://ja.wikipedia.org/wiki/_\(AI_NO_SONO\))から翻訳されています。
+> この記事は[愛の園 \(AI NO SONO\)](https://ja.wikipedia.org/wiki/愛の園_\(AI_NO_SONO\))から翻訳されています。
 
 
 「**愛の園 (AI NO SONO)**」（あいのその）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の32枚目のシングルである。

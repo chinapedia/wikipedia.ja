@@ -1,4 +1,4 @@
-> この記事は[VK](https://ja.wikipedia.org/wiki/VK)から翻訳されています。
+> この記事は[日産・VKエンジン](https://ja.wikipedia.org/wiki/日産・VKエンジン)から翻訳されています。
 
 
 **日産・VKエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

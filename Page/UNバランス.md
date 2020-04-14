@@ -1,4 +1,4 @@
-> この記事は[UN](https://ja.wikipedia.org/wiki/UN)から翻訳されています。
+> この記事は[UNバランス](https://ja.wikipedia.org/wiki/UNバランス)から翻訳されています。
 
 
 「**UNバランス**」（アンバランス）は、[河合奈保子](../Page/河合奈保子.md "wikilink")が1983年9月にリリースした14枚目のシングル([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): AH-370)。

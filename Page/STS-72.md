@@ -61,4 +61,4 @@ STS-72 ミッションの主たる目的は、[日本](https://ja.wikipedia.org/
 
   - [NASA mission summary](http://science.ksc.nasa.gov/shuttle/missions/sts-72/mission-sts-72.html)
 
-[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1996年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1996年のアメリカ合衆国 "wikilink") [Category:1996年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1996年の宇宙飛行 "wikilink") [Category:1996年1月](https://ja.wikipedia.org/wiki/Category:1996年1月 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1996年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1996年のアメリカ合衆国 "wikilink") [Category:1996年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1996年の宇宙飛行 "wikilink") [Category:1996年1月](https://ja.wikipedia.org/wiki/Category:1996年1月 "wikilink")

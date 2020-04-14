@@ -1,4 +1,4 @@
-> この記事は[ZAi](https://ja.wikipedia.org/wiki/ZAi)から翻訳されています。
+> この記事は[ダイヤモンドZAi](https://ja.wikipedia.org/wiki/ダイヤモンドZAi)から翻訳されています。
 
 
 **ダイヤモンドZAi**（ダイヤモンドざい）は、[ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")が発行する初心者向けの[投資情報誌](https://ja.wikipedia.org/wiki/投資情報誌 "wikilink")。毎月21日発売。

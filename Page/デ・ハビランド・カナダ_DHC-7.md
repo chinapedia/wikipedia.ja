@@ -1,4 +1,4 @@
-> この記事は[ DHC-7](https://ja.wikipedia.org/wiki/_DHC-7)から翻訳されています。
+> この記事は[デ・ハビランド・カナダ DHC-7](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-7)から翻訳されています。
 
 
 [Adria_Airways_DHC-7_Maiwald.jpg](https://ja.wikipedia.org/wiki/File:Adria_Airways_DHC-7_Maiwald.jpg "fig:Adria_Airways_DHC-7_Maiwald.jpg")のダッシュ 7\]\] **デ・ハビランド・カナダ DHC-7** (**de Havilland Canada DHC-7**) とは[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")社（現在の[ボンバルディア・エアロスペース](../Page/ボンバルディア・エアロスペース.md "wikilink")）が開発した[旅客機](../Page/旅客機.md "wikilink")。通称は**ダッシュ 7**(Dash 7)である。短い滑走路でも離着陸が可能な[STOL性を追求したため](../Page/航空機の離着陸方法.md "wikilink")、同規模の旅客機では異例の[ターボプロップエンジン](../Page/ターボプロップエンジン.md "wikilink")を4発搭載した機体であった。[1975年](../Page/1975年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで生産され、総生産機113機。

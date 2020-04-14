@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECネッツエスアイ](https://ja.wikipedia.org/wiki/NECネッツエスアイ)から翻訳されています。
 
 
 **NECネッツエスアイ**（英称:*NEC Networks & System Integration Corporation*）は[東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")に本社を置く、[通信工事会社である](../Page/システムインテグレーター.md "wikilink")。略称は**NESIC**。[NECグループ](../Page/NECグループ.md "wikilink")のネットワーク通信工事及びシステムインテグレーションにおける中核会社である。

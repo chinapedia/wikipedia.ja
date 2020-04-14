@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本川崎火力発電所](https://ja.wikipedia.org/wiki/JR東日本川崎火力発電所)から翻訳されています。
 
 
 **川崎火力発電所**（かわさきかりょくはつでんしょ）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[川崎区](../Page/川崎区.md "wikilink")[扇町](https://ja.wikipedia.org/wiki/扇町_\(川崎市\) "wikilink")8番3号にある[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[火力発電所](../Page/火力発電所.md "wikilink")。

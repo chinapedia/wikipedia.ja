@@ -1,4 +1,4 @@
-> この記事は[WCW](https://ja.wikipedia.org/wiki/WCW)から翻訳されています。
+> この記事は[WCW世界ヘビー級王座](https://ja.wikipedia.org/wiki/WCW世界ヘビー級王座)から翻訳されています。
 
 
 **WCW世界ヘビー級王座**（WCW World Heavyweight Championship）は、かつての[プロレス](../Page/プロレス.md "wikilink")団体[WCW](../Page/WCW.md "wikilink")の王座の一つ。一時期はWWF（現：[WWE](../Page/WWE.md "wikilink")）の王座の一つでもあった。[2001年](../Page/2001年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[WWE王座に統一されるものの](../Page/WWE王座_\(世界ヘビー級\).md "wikilink")、[2002年](../Page/2002年.md "wikilink")に[世界ヘビー級王座として復活](../Page/世界ヘビー級王座_\(WWE\).md "wikilink")。

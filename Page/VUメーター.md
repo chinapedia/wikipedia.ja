@@ -1,4 +1,4 @@
-> この記事は[VU](https://ja.wikipedia.org/wiki/VU)から翻訳されています。
+> この記事は[VUメーター](https://ja.wikipedia.org/wiki/VUメーター)から翻訳されています。
 
 
 [VU_Meter.jpg](https://ja.wikipedia.org/wiki/File:VU_Meter.jpg "fig:VU_Meter.jpg") **VUメーター**（ブイユーメーター、VU Meter）とは音響機器に於いて音量感を指示するための測定器である。1939年に[ベル研究所](../Page/ベル研究所.md "wikilink")及び[CBS](../Page/CBS.md "wikilink")、[NBC](../Page/NBC.md "wikilink")により[通信線路](../Page/通信線路.md "wikilink")の基準レベルを監視するために開発された。VUとは英語のvolume unit（音量の単位）のこと。

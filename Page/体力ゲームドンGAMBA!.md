@@ -1,4 +1,4 @@
-> この記事は[GAMBA!](https://ja.wikipedia.org/wiki/GAMBA!)から翻訳されています。
+> この記事は[体力ゲームドンGAMBA!](https://ja.wikipedia.org/wiki/体力ゲームドンGAMBA!)から翻訳されています。
 
 
 『**体力ゲームドンGAMBA\!**』（たいりょくゲームドンガンバ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[12月28日](../Page/12月28日.md "wikilink")まで[TBS系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（当時[フジテレビ系列とのクロスネット局だった](../Page/フジネットワーク.md "wikilink")[福島テレビ](../Page/福島テレビ.md "wikilink")と[テレビ山口](../Page/テレビ山口.md "wikilink")を含む）で放送された[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:00 - 13:00 ([JST](../Page/日本標準時.md "wikilink")) 。

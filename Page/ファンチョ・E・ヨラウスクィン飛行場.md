@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ファンチョ・E・ヨラウスクィン飛行場](https://ja.wikipedia.org/wiki/ファンチョ・E・ヨラウスクィン飛行場)から翻訳されています。
 
 
 **ファンチョ・E・ヨラウスクィン飛行場**（[英語](../Page/英語.md "wikilink")：Juancho E Yrausquin Airport）は、[カリブ海](../Page/カリブ海.md "wikilink")の[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")領[サバ島](../Page/サバ島.md "wikilink")にある唯一の[飛行場](../Page/飛行場.md "wikilink")である。**サバ空港**（Saba Airport）とも呼ばれる。全長約400mという世界一短い[滑走路](../Page/滑走路.md "wikilink")を持つ商業空港として知られる。

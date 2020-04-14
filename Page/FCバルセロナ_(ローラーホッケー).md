@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[FCバルセロナ \(ローラーホッケー\)](https://ja.wikipedia.org/wiki/FCバルセロナ_\(ローラーホッケー\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Pista_de_Gel_FC_Barcelona.JPG "wikilink") **FCバルセロナ・オケイ**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を本拠地とする[ローラーホッケー](../Page/ローラーホッケー.md "wikilink")チーム。総合スポーツクラブである[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の一部である。スペインの[OKリーガ](https://ja.wikipedia.org/wiki/OKリーガ "wikilink")に属している。

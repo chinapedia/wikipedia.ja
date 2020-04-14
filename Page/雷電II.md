@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[雷電II](https://ja.wikipedia.org/wiki/雷電II)から翻訳されています。
 
 
 [188px](https://ja.wikipedia.org/wiki/ファイル:Musée_Mécanique_192.JPG "wikilink") 『**雷電II**』（らいでんツー）は[1993年](../Page/1993年.md "wikilink")に[セイブ開発](../Page/セイブ開発.md "wikilink")が制作・販売したアーケード用シューティングゲームである。『[雷電](../Page/雷電_\(シューティングゲーム\).md "wikilink")』の続編に当たる。

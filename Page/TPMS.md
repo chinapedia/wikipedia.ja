@@ -38,6 +38,6 @@ TPMSは米国だけでなく、2012年では[欧州](https://ja.wikipedia.org/wi
 [Category:自動車](https://ja.wikipedia.org/wiki/Category:自動車 "wikilink") [Category:タイヤ](https://ja.wikipedia.org/wiki/Category:タイヤ "wikilink") [Category:自動車安全技術](https://ja.wikipedia.org/wiki/Category:自動車安全技術 "wikilink") [Category:先進運転支援システム](https://ja.wikipedia.org/wiki/Category:先進運転支援システム "wikilink")
 
 1.  [装着義務化するべきＴＰＭＳ：タイヤ空気圧警報装置](http://www.kodansha-bc.com/bc/archives/5810)
-2.  [【急増するパンクに効果絶大\!\!】 タイヤ空気圧センサー なぜ日本だけ義務化遅れる\!\!?（ベストカーWeb、2019年7月）](https://bestcarweb.jp/feature/column/81836)
+2.  [【急増するパンクに効果絶大\!\!】 タイヤ空気圧センサー なぜ日本だけ義務化遅れる\!\!?（ベストカーWeb、2019年7月）](https://bestcarweb.jp/feature/column/82489)
 3.  [［遠藤功治］【空気圧低下警告装置が義務化されない日本】（Japan In Depth、2015年6月）](https://japan-indepth.jp/?p=19269)
 4.  [（TPMSの）法制化について（LDL Technology）](https://www.ldl-technology.com/ja/tire-pressure-monitoring-systems-2/%E6%B3%95%E5%88%B6%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-regulation-world/)

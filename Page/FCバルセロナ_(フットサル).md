@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[FCバルセロナ \(フットサル\)](https://ja.wikipedia.org/wiki/FCバルセロナ_\(フットサル\))から翻訳されています。
 
 
 **FCバルセロナ・フットサル**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チーム。[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の一部であり、[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")を拠点として活動している。

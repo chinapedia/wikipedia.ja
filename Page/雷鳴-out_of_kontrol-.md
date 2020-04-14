@@ -1,4 +1,4 @@
-> この記事は[-out of kontrol-](https://ja.wikipedia.org/wiki/-out_of_kontrol-)から翻訳されています。
+> この記事は[雷鳴-out of kontrol-](https://ja.wikipedia.org/wiki/雷鳴-out_of_kontrol-)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:InitialD_FD3S_m.o.v.e.JPG "wikilink")1/24頭文字Dシリーズより改造\]\] 「**雷鳴-out of kontrol-**」（らいめい・アウトオブコントロール）は、[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。

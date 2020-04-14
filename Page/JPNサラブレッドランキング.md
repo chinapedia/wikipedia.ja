@@ -1,4 +1,4 @@
-> この記事は[JPN](https://ja.wikipedia.org/wiki/JPN)から翻訳されています。
+> この記事は[JPNサラブレッドランキング](https://ja.wikipedia.org/wiki/JPNサラブレッドランキング)から翻訳されています。
 
 
 **JPNサラブレッドランキング**とは、[中央競馬](../Page/中央競馬.md "wikilink")（[JRA](../Page/日本中央競馬会.md "wikilink")）と[地方競馬](../Page/地方競馬.md "wikilink")（[NAR](../Page/地方競馬全国協会.md "wikilink")）の[競走に出走した](../Page/競馬の競走.md "wikilink")[サラブレッド](../Page/サラブレッド.md "wikilink")[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")の格付けである。対象馬は、海外および日本の競走に出走し、100[ポンド以上の評価を得た日本調教馬と](../Page/ポンド_\(質量\).md "wikilink")、日本の競走で自身ベストの評価を得た[外国馬](../Page/外国馬.md "wikilink")となっている。2004年度から行われている（それまでは[JPNクラシフィケーション](https://ja.wikipedia.org/wiki/JPNクラシフィケーション "wikilink")だった）。

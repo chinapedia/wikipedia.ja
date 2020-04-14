@@ -1,4 +1,4 @@
-> この記事は[3He-4He](https://ja.wikipedia.org/wiki/3He-4He)から翻訳されています。
+> この記事は[3He-4He希釈冷凍法](https://ja.wikipedia.org/wiki/3He-4He希釈冷凍法)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:3He-4HeDilutionFreezing.PNG "wikilink") [Helium_phase_diagram.svg](https://ja.wikipedia.org/wiki/File:Helium_phase_diagram.svg "fig:Helium_phase_diagram.svg") **-希釈冷凍法**（-きしゃくれいとうほう、）とは、[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")の二つの[同位体](../Page/同位体.md "wikilink")、[{{Chemと](https://ja.wikipedia.org/wiki/ヘリウム3 "wikilink")[{{Chemをそれぞれ液化し](https://ja.wikipedia.org/wiki/ヘリウム4 "wikilink")、相を相に注ぎ[希釈](https://ja.wikipedia.org/wiki/希釈 "wikilink")する際の希釈熱を利用する冷却法である。極低温領域での[冷却](../Page/冷却.md "wikilink")法のひとつ。液体ヘリウムの[蒸発潜熱](https://ja.wikipedia.org/wiki/蒸発潜熱 "wikilink")を使った冷却では到達できない、さらに低温の冷却を行う。現在  以下の極低温を連続的に実現する唯一の方法である。
@@ -27,6 +27,6 @@
 
 ## 外部リンク
 
-  - [4He循環型希釈冷凍機による超低温生成の研究](http://hdl.handle.net/10097/24591) 東北大学学位論文 1984, 846号,
+  - [4He循環型希釈冷凍機による超低温生成の研究](https://hdl.handle.net/10097/24591) 東北大学学位論文 1984, 846号,
 
 [Category:ヘリウム](https://ja.wikipedia.org/wiki/Category:ヘリウム "wikilink") [Category:冷却](https://ja.wikipedia.org/wiki/Category:冷却 "wikilink") [Category:低温物理学](https://ja.wikipedia.org/wiki/Category:低温物理学 "wikilink")

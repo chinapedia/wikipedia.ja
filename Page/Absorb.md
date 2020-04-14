@@ -247,7 +247,7 @@
 
   - [「absorb web」 official site](http://www.absorb.asia/index.php)
   - [「absorb MySpace」](http://www.myspace.com/absorb)
-  - [「absorb official Blog」](http://ameblo.jp/absorbweb/)
+  - [「absorb official Blog」](https://ameblo.jp/absorbweb/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:VOCALOIDを用いている音楽家](https://ja.wikipedia.org/wiki/Category:VOCALOIDを用いている音楽家 "wikilink") [Category:ニコニコ動画の音楽](https://ja.wikipedia.org/wiki/Category:ニコニコ動画の音楽 "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 

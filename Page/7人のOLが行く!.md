@@ -1,4 +1,4 @@
-> この記事は[7OL!](https://ja.wikipedia.org/wiki/7OL!)から翻訳されています。
+> この記事は[7人のOLが行く!](https://ja.wikipedia.org/wiki/7人のOLが行く!)から翻訳されています。
 
 
 『**7人のOLが行く\!**』（しちにんのオーエルがいく\!）は、[1994年](../Page/1994年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")」で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全2回。

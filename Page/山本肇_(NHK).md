@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[山本肇 \(NHK\)](https://ja.wikipedia.org/wiki/山本肇_\(NHK\))から翻訳されています。
 
 
 **山本 肇**（やまもと はじめ、1940年 - [2006年](../Page/2006年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")）は、元[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[解説委員](../Page/NHK解説委員室.md "wikilink")。

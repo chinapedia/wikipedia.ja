@@ -1,4 +1,4 @@
-> この記事は[GPX \(\)](https://ja.wikipedia.org/wiki/GPX_\(\))から翻訳されています。
+> この記事は[GPX \(雑誌\)](https://ja.wikipedia.org/wiki/GPX_\(雑誌\))から翻訳されています。
 
 
 **GPX**（ジーピーエックス）は、かつて[山海堂が発売していた](../Page/山海堂_\(出版社\).md "wikilink")[F1専門誌](../Page/フォーミュラ1.md "wikilink")。正式名称は、“**F1 Grand Prix Xpress**”。[グランプリごとに発行される](../Page/グランプリ_\(モータースポーツ\).md "wikilink")「F1速報誌」というジャンルの草分けとなった。

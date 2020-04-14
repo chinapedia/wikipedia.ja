@@ -1,4 +1,4 @@
-> この記事は[ THE FUGITIVE](https://ja.wikipedia.org/wiki/_THE_FUGITIVE)から翻訳されています。
+> この記事は[愛の逃亡者 THE FUGITIVE](https://ja.wikipedia.org/wiki/愛の逃亡者_THE_FUGITIVE)から翻訳されています。
 
 
 **愛の逃亡者 THE FUGITIVE**（あいのとうぼうしゃ ザ・フュージティヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の11枚目のシングルである。

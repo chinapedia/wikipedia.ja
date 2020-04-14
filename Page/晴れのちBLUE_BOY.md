@@ -1,4 +1,4 @@
-> この記事は[BLUE BOY](https://ja.wikipedia.org/wiki/BLUE_BOY)から翻訳されています。
+> この記事は[晴れのちBLUE BOY](https://ja.wikipedia.org/wiki/晴れのちBLUE_BOY)から翻訳されています。
 
 
 「**晴れのちBLUE BOY**」（はれのちブルーボーイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[5月10日](../Page/5月10日.md "wikilink")に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")の[ジュリーレーベルより発売された](../Page/JULIE_LABEL.md "wikilink")。

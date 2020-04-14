@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jアイス・ノース・ディビジョン](https://ja.wikipedia.org/wiki/Jアイス・ノース・ディビジョン)から翻訳されています。
 
 
 **Jアイス・ノース・ディビジョン**(J-ICE North Division)は2005年から始まった[日本アイスホッケー連盟](../Page/日本アイスホッケー連盟.md "wikilink")主催の公式社会人リーグ。

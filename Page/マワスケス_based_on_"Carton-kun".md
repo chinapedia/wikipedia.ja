@@ -1,4 +1,4 @@
-> この記事は[ based on Carton-kun](https://ja.wikipedia.org/wiki/_based_on_Carton-kun)から翻訳されています。
+> この記事は[マワスケス based on Carton-kun](https://ja.wikipedia.org/wiki/マワスケス_based_on_Carton-kun)から翻訳されています。
 
 
 『**マワスケス based on "Carton-kun"**』（MAWASKESU）は[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")より[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に発売された[PlayStation Portable用の](../Page/PlayStation_Portable.md "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")。

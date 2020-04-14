@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKBニュースポート](https://ja.wikipedia.org/wiki/RKBニュースポート)から翻訳されています。
 
 
 『**RKBニュースポート**』（アールケービーニュースポート）とは、[1992年](../Page/1992年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKBテレビ）で週末夕方に放送されていたローカル[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。日曜日だけでなく土曜日にも放送されていた時期がある。

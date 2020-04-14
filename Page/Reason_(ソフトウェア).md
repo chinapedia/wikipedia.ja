@@ -1,4 +1,4 @@
-> この記事は[Reason \(\)](https://ja.wikipedia.org/wiki/Reason_\(\))から翻訳されています。
+> この記事は[Reason \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Reason_\(ソフトウェア\))から翻訳されています。
 
 
 **Reason**（リーズン）は、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Macintosh](../Page/Macintosh.md "wikilink")用の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")統合型[DAWである](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[プロペラヘッド・ソフトウェア](https://ja.wikipedia.org/wiki/プロペラヘッド・ソフトウェア "wikilink")によって開発された。

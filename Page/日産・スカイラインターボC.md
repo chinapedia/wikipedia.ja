@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[日産・スカイラインターボC](https://ja.wikipedia.org/wiki/日産・スカイラインターボC)から翻訳されています。
 
 
 **日産・スカイラインターボC**は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[全日本耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")（後のJSPC）、および[富士ロングディスタンスシリーズ](https://ja.wikipedia.org/wiki/富士ロングディスタンスシリーズ "wikilink")（富士LD）参戦用にルマンガレージが開発した[グループC](../Page/グループC.md "wikilink")カー。エンジンは[日産のLZ](../Page/日産自動車.md "wikilink")20B型（2.1リットル・[直列4気筒](../Page/直列4気筒.md "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink")）を搭載。前年の[1982年](../Page/1982年.md "wikilink")[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")・[キャラミ](../Page/キャラミ.md "wikilink")9時間耐久用に製作された[R30スカイラインのグループCマシンである](../Page/日産・スカイライン.md "wikilink")\[1\]。

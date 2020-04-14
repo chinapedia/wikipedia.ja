@@ -1,4 +1,4 @@
-> この記事は[Voyager \(V6\)](https://ja.wikipedia.org/wiki/Voyager_\(V6\))から翻訳されています。
+> この記事は[Voyager \(V6のアルバム\)](https://ja.wikipedia.org/wiki/Voyager_\(V6のアルバム\))から翻訳されています。
 
 
 『**Voyager**』（ボイジャー）は、[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[V6の](../Page/V6_\(グループ\).md "wikilink")10作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。オリコンアルバムチャートで**[通算1000作目の1位](https://ja.wikipedia.org/wiki/オリコンチャート#.E3.82.A2.E3.83.AB.E3.83.90.E3.83.A01.E4.BD.8D.E7.8D.B2.E5.BE.97.E4.BD.9C.E5.93.81 "wikilink")**を獲得した（同年9月24日付）\[1\]。

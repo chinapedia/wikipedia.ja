@@ -1,4 +1,4 @@
-> この記事は[BOP](https://ja.wikipedia.org/wiki/BOP)から翻訳されています。
+> この記事は[BOP試薬](https://ja.wikipedia.org/wiki/BOP試薬)から翻訳されています。
 
 
 **BOP試薬**（ぼっぷしやく、Bop reagent）とは、ホスホニウムを共通構造に持つ[ペプチド合成](https://ja.wikipedia.org/wiki/ペプチド合成 "wikilink")などに用いられる試薬である。

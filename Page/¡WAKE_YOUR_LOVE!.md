@@ -1,4 +1,4 @@
-> この記事は[WAKE YOUR LOVE!](https://ja.wikipedia.org/wiki/WAKE_YOUR_LOVE!)から翻訳されています。
+> この記事は[¡WAKE YOUR LOVE!](https://ja.wikipedia.org/wiki/¡WAKE_YOUR_LOVE!)から翻訳されています。
 
 
 『**¡WAKE YOUR LOVE\!**』（ウェイクユアーラブ）は、[moveの](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[宮S](https://ja.wikipedia.org/wiki/宮S)から翻訳されています。
 
 
 **宮S -Secret Prince-** （クンS・シークレットプリンス、） [大韓民国](../Page/大韓民国.md "wikilink")の[文化放送](../Page/文化放送_\(韓国\).md "wikilink")(MBC)で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[宮 -Love in Palace-に続く](https://ja.wikipedia.org/wiki/宮_-Love_in_Palace- "wikilink")、王室ラブストーリー「宮シリーズ」の第2弾。全20話。

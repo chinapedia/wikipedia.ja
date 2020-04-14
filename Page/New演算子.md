@@ -1,4 +1,4 @@
-> この記事は[New](https://ja.wikipedia.org/wiki/New)から翻訳されています。
+> この記事は[New演算子](https://ja.wikipedia.org/wiki/New演算子)から翻訳されています。
 
 
 **new**または**New**は、[C++](../Page/C++.md "wikilink")を始めとしたオブジェクト指向プログラミング言語において、[インスタンス](../Page/インスタンス.md "wikilink")を作成する[演算子](../Page/演算子.md "wikilink")である。多くの場合、[ヒープ領域](../Page/ヒープ領域.md "wikilink")からの[動的メモリ確保](../Page/動的メモリ確保.md "wikilink")（動的記憶域確保）を伴う。

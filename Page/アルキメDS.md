@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[アルキメDS](https://ja.wikipedia.org/wiki/アルキメDS)から翻訳されています。
 
 
 『**アルキメDS**』（アルキメディーエス）は、[スキップから](https://ja.wikipedia.org/wiki/スキップ_\(ゲーム会社\) "wikilink")2007年7月19日(日本国内)に発売されたゲームソフト。ジャンルはお笑いトレーニングで、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用ソフト。

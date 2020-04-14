@@ -1,4 +1,4 @@
-> この記事は[YOU!](https://ja.wikipedia.org/wiki/YOU!)から翻訳されています。
+> この記事は[ゆうYOUサンデー!](https://ja.wikipedia.org/wiki/ゆうYOUサンデー!)から翻訳されています。
 
 
 『**ゆうYOUサンデー\!**』（ゆうゆうサンデー）は、1984年4月1日から同年9月30日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も1984年10月7日から1985年3月31日まで『**アッコ・古舘のゆうYOUサンデー\!**』（アッコ・ふるたちのゆうゆうサンデー）と題して放送されていた。放送時間は毎週日曜 12:00 - 12:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

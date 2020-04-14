@@ -1,4 +1,4 @@
-> この記事は[GREEN \(\)](https://ja.wikipedia.org/wiki/GREEN_\(\))から翻訳されています。
+> この記事は[GREEN \(企業\)](https://ja.wikipedia.org/wiki/GREEN_\(企業\))から翻訳されています。
 
 
 **GREEN**（有限会社グリーン\[1\]）は、[アニメーション](../Page/アニメーション.md "wikilink")等の映像美術制作を主な事業内容とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業である。

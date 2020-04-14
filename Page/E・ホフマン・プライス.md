@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[E・ホフマン・プライス](https://ja.wikipedia.org/wiki/E・ホフマン・プライス)から翻訳されています。
 
 
 **エドガー・ホフマン・プライス**（**Edgar Hoffmann Trooper Price**、[1898年](../Page/1898年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")ファウラー出身の[作家](../Page/作家.md "wikilink")。

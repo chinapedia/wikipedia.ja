@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[FCバルセロナ \(バスケットボール\)](https://ja.wikipedia.org/wiki/FCバルセロナ_\(バスケットボール\))から翻訳されています。
 
 
 **FCバルセロナ**（, **）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。2015年より[スポンサー](../Page/スポンサー.md "wikilink")名を冠して、FCバルセロナ・ラッサ()として知られる。

@@ -1,4 +1,4 @@
-> この記事は[MR](https://ja.wikipedia.org/wiki/MR)から翻訳されています。
+> この記事は[日産・MRエンジン](https://ja.wikipedia.org/wiki/日産・MRエンジン)から翻訳されています。
 
 
 [MR20DE.jpg](https://ja.wikipedia.org/wiki/File:MR20DE.jpg "fig:MR20DE.jpg") [NISSAN_MRA8DE_ENGINE.JPG](https://ja.wikipedia.org/wiki/File:NISSAN_MRA8DE_ENGINE.JPG "fig:NISSAN_MRA8DE_ENGINE.JPG") [SM5_L43_M4R.jpg](https://ja.wikipedia.org/wiki/File:SM5_L43_M4R.jpg "fig:SM5_L43_M4R.jpg") [RENAULT_SAMSUNG_SM5_L43_XE_TCE_02.JPG](https://ja.wikipedia.org/wiki/File:RENAULT_SAMSUNG_SM5_L43_XE_TCE_02.JPG "fig:RENAULT_SAMSUNG_SM5_L43_XE_TCE_02.JPG") **日産・MRエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")および[ルノー](../Page/ルノー.md "wikilink")の[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

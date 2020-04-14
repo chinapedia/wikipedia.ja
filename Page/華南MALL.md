@@ -1,4 +1,4 @@
-> この記事は[MALL](https://ja.wikipedia.org/wiki/MALL)から翻訳されています。
+> この記事は[華南MALL](https://ja.wikipedia.org/wiki/華南MALL)から翻訳されています。
 
 
 **華南MALL**（かなんモール、）は、[中国](../Page/中華人民共和国.md "wikilink")・[広東省](../Page/広東省.md "wikilink")・[東莞市](../Page/東莞市.md "wikilink")にあった、中国最大の[ショッピングモールである](../Page/ショッピングセンター.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に**新華南MALL**（しんかなんモール、、Xīn Huánán Móěr）と改称した。

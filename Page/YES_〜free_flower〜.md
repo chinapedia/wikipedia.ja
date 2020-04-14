@@ -1,4 +1,4 @@
-> この記事は[YES free flower](https://ja.wikipedia.org/wiki/YES_free_flower)から翻訳されています。
+> この記事は[YES 〜free flower〜](https://ja.wikipedia.org/wiki/YES_〜free_flower〜)から翻訳されています。
 
 
 『**YES 〜free flower〜**』（イエス フリー・フラワー）は、[1996年](../Page/1996年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

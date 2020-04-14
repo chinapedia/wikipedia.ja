@@ -1,7 +1,7 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・グランヴィル](https://ja.wikipedia.org/wiki/J・J・グランヴィル)から翻訳されています。
 
 
-[Grandville.jpg](https://ja.wikipedia.org/wiki/File:Grandville.jpg "fig:Grandville.jpg") **J・J・グランヴィル**（*J.J. Grandville*、[1803年](../Page/1803年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - [1847年](../Page/1847年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[風刺画家である](../Page/戯画.md "wikilink")。本名は、ジャン=イニャス=イシドール・ジェラール\[1\]。
+**J・J・グランヴィル**（*J.J. Grandville*、[1803年](../Page/1803年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - [1847年](../Page/1847年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[風刺画家である](../Page/戯画.md "wikilink")。本名は、ジャン=イニャス=イシドール・ジェラール\[1\]。
 
 ## 生涯
 
@@ -11,7 +11,9 @@
 
 ## ギャラリー
 
-Image:Grandville leLoup Et Le Chien.jpg Image:Grandville Cent Proverbes page97.png Image:Grandville(Seven of Wands2).jpg
+<File:Grandville> leLoup Et Le Chien.jpg| <File:La> Poule aux oeufs d or.jpg| <File:Grandville> Fleurs Kaktus.jpg| <File:Grandville> Fleurs Tulpe.jpg|
+
+<File:Grandville(Seven> of Wands2).jpg| <File:Grandville>, Ombres portées, 1830, K63.jpg| <File:Ch> 1 Gulliver Grandville 08.jpg|
 
 ## 画集
 

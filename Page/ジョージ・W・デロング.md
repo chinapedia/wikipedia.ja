@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジョージ・W・デロング](https://ja.wikipedia.org/wiki/ジョージ・W・デロング)から翻訳されています。
 
 
 **ジョージ・ワシントン・デロング**（George Washington DeLong, [1844年](../Page/1844年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink") – [1881年](../Page/1881年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の海軍士官、[探検家](../Page/探検家.md "wikilink")。

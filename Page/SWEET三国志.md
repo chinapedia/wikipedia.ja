@@ -1,4 +1,4 @@
-> この記事は[SWEET](https://ja.wikipedia.org/wiki/SWEET)から翻訳されています。
+> この記事は[SWEET三国志](https://ja.wikipedia.org/wiki/SWEET三国志)から翻訳されています。
 
 
 『**SWEET三国志**』（スイートさんごくし）は、[1992年](../Page/1992年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて[講談社](../Page/講談社.md "wikilink")『[ヤングマガジン海賊版](https://ja.wikipedia.org/wiki/週刊ヤングマガジン#増刊号 "wikilink")』（1995年まで）、『ヤングマガジン増刊赤BUTA』（1995年 - 1996年）に連載された、[片山まさゆき](../Page/片山まさゆき.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[ヤンマガKC](https://ja.wikipedia.org/wiki/ヤンマガKC "wikilink")スペシャルとして全5巻で発売され、[2004年](../Page/2004年.md "wikilink")に[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")より文庫版（全3巻）、[2009年](../Page/2009年.md "wikilink")4月より廉価版の復刻などそれぞれ発売された。

@@ -1,4 +1,4 @@
-> この記事は[ \(MIDI\)](https://ja.wikipedia.org/wiki/_\(MIDI\))から翻訳されています。
+> この記事は[パンポット \(MIDI\)](https://ja.wikipedia.org/wiki/パンポット_\(MIDI\))から翻訳されています。
 
 
 **パンポット** () または**パン** () は、[MIDI](../Page/MIDI.md "wikilink")の[コントロールチェンジ](../Page/コントロールチェンジ.md "wikilink")のひとつで、音像定位を左右方向の任意の位置に設定する。コントロール番号10。

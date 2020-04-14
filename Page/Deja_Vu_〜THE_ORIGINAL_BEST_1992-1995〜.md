@@ -1,4 +1,4 @@
-> この記事は[Deja Vu THE ORIGINAL BEST 1992-1995](https://ja.wikipedia.org/wiki/Deja_Vu_THE_ORIGINAL_BEST_1992-1995)から翻訳されています。
+> この記事は[Deja Vu 〜THE ORIGINAL BEST 1992-1995〜](https://ja.wikipedia.org/wiki/Deja_Vu_〜THE_ORIGINAL_BEST_1992-1995〜)から翻訳されています。
 
 
 『**Deja Vu 〜THE ORIGINAL BEST 1992-1995〜**』（デジャヴ ザ・オリジナル・ベスト・せんきゅうひゃくきゅうじゅうに・せんきゅうひゃくきゅうじゅうご）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")2枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。

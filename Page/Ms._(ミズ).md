@@ -1,4 +1,4 @@
-> この記事は[Ms. \(\)](https://ja.wikipedia.org/wiki/Ms._\(\))から翻訳されています。
+> この記事は[Ms. \(ミズ\)](https://ja.wikipedia.org/wiki/Ms._\(ミズ\))から翻訳されています。
 
 
 「**Ms.**」（ミズ）は、[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")通算27枚目のシングル。1978年8月21日発売。発売元は[CBS・ソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[LDH \(\)](https://ja.wikipedia.org/wiki/LDH_\(\))から翻訳されています。
+> この記事は[LDH \(持株会社\)](https://ja.wikipedia.org/wiki/LDH_\(持株会社\))から翻訳されています。
 
 
 **株式会社LDH** (*LDH Corporation*) は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")にあった[清算株式会社である](https://ja.wikipedia.org/wiki/清算#会社法上の清算 "wikilink")。かつては**株式会社ライブドア**（）として、[インターネット](../Page/インターネット.md "wikilink")、[メディア](../Page/メディア_\(媒体\).md "wikilink")、[金融](../Page/金融.md "wikilink")に関する事業を行っていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")であった。

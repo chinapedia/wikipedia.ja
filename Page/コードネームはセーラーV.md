@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[コードネームはセーラーV](https://ja.wikipedia.org/wiki/コードネームはセーラーV)から翻訳されています。
 
 
 『**コードネームはセーラーV**』（コードネームはセーラーブイ）は、[武内直子](../Page/武内直子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
@@ -316,7 +316,7 @@
 
   - [セーラーV - Before Awakening](http://sailorv.animehunters.com/index.html)
 
-[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:1991年の漫画](https://ja.wikipedia.org/wiki/Category:1991年の漫画 "wikilink") [Category:1993年の漫画](https://ja.wikipedia.org/wiki/Category:1993年の漫画 "wikilink") [Category:なかよし増刊・派生誌の漫画作品](https://ja.wikipedia.org/wiki/Category:なかよし増刊・派生誌の漫画作品 "wikilink") [Category:美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーン "wikilink") [Category:武内直子の漫画作品](https://ja.wikipedia.org/wiki/Category:武内直子の漫画作品 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:怪盗を題材とした作品](https://ja.wikipedia.org/wiki/Category:怪盗を題材とした作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:東京都港区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都港区を舞台とした作品 "wikilink")
+[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:1991年の漫画](https://ja.wikipedia.org/wiki/Category:1991年の漫画 "wikilink") [Category:1993年の漫画](https://ja.wikipedia.org/wiki/Category:1993年の漫画 "wikilink") [Category:なかよし増刊・派生誌の漫画作品](https://ja.wikipedia.org/wiki/Category:なかよし増刊・派生誌の漫画作品 "wikilink") [Category:美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーン "wikilink") [Category:武内直子の漫画作品](https://ja.wikipedia.org/wiki/Category:武内直子の漫画作品 "wikilink") [Category:変身ヒロイン](https://ja.wikipedia.org/wiki/Category:変身ヒロイン "wikilink") [Category:怪盗を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪盗を題材とした漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:東京都港区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都港区を舞台とした作品 "wikilink")
 
 1.  原作第3巻Vol.15（新装版第2巻Vol.16）より「**水手维纳斯**」（セーラーヴィーナス）という漢字表記もある。
 2.  『コードネームはセーラーV』第2巻（旧単行本）40頁。

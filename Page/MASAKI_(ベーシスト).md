@@ -1,4 +1,4 @@
-> この記事は[MASAKI \(\)](https://ja.wikipedia.org/wiki/MASAKI_\(\))から翻訳されています。
+> この記事は[MASAKI \(ベーシスト\)](https://ja.wikipedia.org/wiki/MASAKI_\(ベーシスト\))から翻訳されています。
 
 
 **MASAKI**（まさき、本名：**倉田 雅貴**、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - ）は、[大阪府](../Page/大阪府.md "wikilink")出身の[ベーシスト](../Page/ベーシスト.md "wikilink")。身長176cm。体重64kg、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ON](https://ja.wikipedia.org/wiki/ON)から翻訳されています。
+> この記事は[婚約診断スイッチON](https://ja.wikipedia.org/wiki/婚約診断スイッチON)から翻訳されています。
 
 
 『**婚約診断スイッチON**』（こんやくしんだんスイッチオン）は、[1979年](../Page/1979年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から同年[9月30日](../Page/9月30日.md "wikilink")まで[TBS](../Page/TBSテレビ.md "wikilink")[系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) 製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 12:00 - 12:45 （[日本標準時](../Page/日本標準時.md "wikilink")）。

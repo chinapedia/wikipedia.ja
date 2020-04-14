@@ -1,4 +1,4 @@
-> この記事は[MAP](https://ja.wikipedia.org/wiki/MAP)から翻訳されています。
+> この記事は[快感MAP](https://ja.wikipedia.org/wiki/快感MAP)から翻訳されています。
 
 
 『**快感MAP**』（かいかんまっぷ）は、[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")（2日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")0:15 - 0:45（[月曜日](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、『[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")』枠）にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

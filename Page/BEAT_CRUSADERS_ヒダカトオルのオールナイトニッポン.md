@@ -1,4 +1,4 @@
-> この記事は[BEAT CRUSADERS ](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS_)から翻訳されています。
+> この記事は[BEAT CRUSADERS ヒダカトオルのオールナイトニッポン](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS_ヒダカトオルのオールナイトニッポン)から翻訳されています。
 
 
 **BEAT CRUSADERS ヒダカトオルのオールナイトニッポン**(ビートクルセイダースヒダカトオルのオールナイトニッポン)は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")」の[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")。

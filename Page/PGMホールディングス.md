@@ -1,4 +1,4 @@
-> この記事は[PGM](https://ja.wikipedia.org/wiki/PGM)から翻訳されています。
+> この記事は[PGMホールディングス](https://ja.wikipedia.org/wiki/PGMホールディングス)から翻訳されています。
 
 
 **PGMホールディングス株式会社**（ピージーエムホールディングス）は、日本の[ゴルフ場](../Page/ゴルフ場.md "wikilink")運営会社の株式を保有する[持株会社](../Page/持株会社.md "wikilink")である。

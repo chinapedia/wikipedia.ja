@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
+> この記事は[ONE PIECE ねじまき島の冒険](https://ja.wikipedia.org/wiki/ONE_PIECE_ねじまき島の冒険)から翻訳されています。
 
 
 『**ONE PIECE ねじまき島の冒険**』（ワンピース ねじまきじまのぼうけん）は、[2001年](../Page/2001年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")2作目。短編作品「**ジャンゴのダンスカーニバル**」が同時上映。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、「**仲間も船も、盗まれた\!?**」。

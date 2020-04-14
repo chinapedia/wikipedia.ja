@@ -1,4 +1,4 @@
-> この記事は[WG](https://ja.wikipedia.org/wiki/WG)から翻訳されています。
+> この記事は[W・G・ゼーバルト](https://ja.wikipedia.org/wiki/W・G・ゼーバルト)から翻訳されています。
 
 
 **W・G・ゼーバルト**（Winfried Georg Sebald、[1944年](../Page/1944年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身の[小説家](../Page/小説家.md "wikilink")。写真やイラストなどを組み合わせた、小説とも随筆とも言えるような独特の散文作品で知られる。若くしてイギリスに移住したが、創作は一貫して[19世紀](../Page/19世紀.md "wikilink")の古典を意識した[ドイツ語](../Page/ドイツ語.md "wikilink")で行った。本名はヴィンフリート・ゲオルク・マクシミリアン・ゼーバルト（Winfried Georg Maximilian Sebald）だが、響きがドイツ的過ぎるとしてイギリスではマックス(Max)の通称を用い、筆名としてW・G・ゼーバルトを用いた。

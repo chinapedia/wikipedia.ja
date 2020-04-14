@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S・ロブソン・ウォルトン](https://ja.wikipedia.org/wiki/S・ロブソン・ウォルトン)から翻訳されています。
 
 
 **サミュエル・ロブソン・ウォルトン**（、[1944年](../Page/1944年.md "wikilink")10月28日\[1\] - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[実業家](../Page/実業家.md "wikilink")、[ウォルマート](../Page/ウォルマート.md "wikilink")の創業者[サム・ウォルトン](../Page/サム・ウォルトン.md "wikilink")の長男。『[フォーブス](../Page/フォーブス_\(雑誌\).md "wikilink")』によれば[2006年](../Page/2006年.md "wikilink")時点での純資産は158億ドル。[2018年](../Page/2018年.md "wikilink")3月時点での純資産は417億ドル。創業者と区別するため、**ロブ・ウォルトン**（Rob Wolton）という名前で活動している。

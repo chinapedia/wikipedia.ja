@@ -1,4 +1,4 @@
-> この記事は[MIRACLE \(\)](https://ja.wikipedia.org/wiki/MIRACLE_\(\))から翻訳されています。
+> この記事は[MIRACLE \(愛内里菜の曲\)](https://ja.wikipedia.org/wiki/MIRACLE_\(愛内里菜の曲\))から翻訳されています。
 
 
 「**MIRACLE**」（ミラクル）は、[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")に[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")。

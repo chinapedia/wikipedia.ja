@@ -1,4 +1,4 @@
-> この記事は[GPS](https://ja.wikipedia.org/wiki/GPS)から翻訳されています。
+> この記事は[GPSレシーバー](https://ja.wikipedia.org/wiki/GPSレシーバー)から翻訳されています。
 
 
 [Osm_on_psp.jpg](https://ja.wikipedia.org/wiki/File:Osm_on_psp.jpg "fig:Osm_on_psp.jpg")の地図を見ているところ。地図は[オープン・ストリート・マップ](https://ja.wikipedia.org/wiki/オープン・ストリート・マップ "wikilink")。\]\] **GPSレシーバー** PSP-290 / PSP-290X（対応ソフトへの同梱版）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCE) より2006年12月7日に発売された、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) 用の周辺機器。

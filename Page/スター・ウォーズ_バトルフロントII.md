@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[スター・ウォーズ バトルフロントII](https://ja.wikipedia.org/wiki/スター・ウォーズ_バトルフロントII)から翻訳されています。
 
 
 『**スター・ウォーズ バトルフロントII**』 (*STAR WARS BATTLEFRONT II*)は、[ルーカスアーツ](https://ja.wikipedia.org/wiki/ルーカスアーツ "wikilink")開発、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")販売の[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")で日本でも販売されている。『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』を題材にした3人称視点のアクション・シューティング（TPS）であり、『[スター・ウォーズ バトルフロント](../Page/スター・ウォーズ_バトルフロント.md "wikilink")』の続編となる。
@@ -190,8 +190,7 @@
 
 ## 外部リンク
 
-  - [日本語版公式サイト](http://www.japan.ea.com/swbf2/indexFlash.html)
-
+  -
 [de:Star Wars: Battlefront\#Star Wars: Battlefront II](https://ja.wikipedia.org/wiki/de:Star_Wars:_Battlefront#Star_Wars:_Battlefront_II "wikilink") [sv:Star Wars: Battlefront\#Star Wars: Battlefront II](https://ja.wikipedia.org/wiki/sv:Star_Wars:_Battlefront#Star_Wars:_Battlefront_II "wikilink")
 
 [Category:スター・ウォーズのゲーム](https://ja.wikipedia.org/wiki/Category:スター・ウォーズのゲーム "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:エレクトロニック・アーツのゲームソフト](https://ja.wikipedia.org/wiki/Category:エレクトロニック・アーツのゲームソフト "wikilink") [Category:サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:サードパーソン・シューティングゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")

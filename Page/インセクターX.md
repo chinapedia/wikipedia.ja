@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[インセクターX](https://ja.wikipedia.org/wiki/インセクターX)から翻訳されています。
 
 
 『**インセクターX**』 (**Insector X**) は、[1989年](../Page/1989年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")からリリースされた[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。昆虫をモチーフとした敵を倒していくサイドビューの[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。同社の作品である『[中華大仙](../Page/中華大仙.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）との類似性が多い。

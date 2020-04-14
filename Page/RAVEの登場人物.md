@@ -1,4 +1,4 @@
-> この記事は[RAVE](https://ja.wikipedia.org/wiki/RAVE)から翻訳されています。
+> この記事は[RAVEの登場人物](https://ja.wikipedia.org/wiki/RAVEの登場人物)から翻訳されています。
 
 
 **RAVEの登場人物**では、[真島ヒロ](../Page/真島ヒロ.md "wikilink")の漫画およびアニメ作品『[RAVE](../Page/RAVE_\(漫画\).md "wikilink")（レイヴ）』に登場する、架空の人物について説明する。

@@ -1,4 +1,4 @@
-> この記事は[ZO-3](https://ja.wikipedia.org/wiki/ZO-3)から翻訳されています。
+> この記事は[フェルナンデス・ZO-3](https://ja.wikipedia.org/wiki/フェルナンデス・ZO-3)から翻訳されています。
 
 
 **ZO-3**（ゾーサン）は[フェルナンデス社から発売されている](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")[アンプ](../Page/アンプ_\(楽器用\).md "wikilink")・[スピーカー](../Page/スピーカー.md "wikilink")内蔵小型[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。名前の由来はデザインが[ぞうさんのような形をしている事からである](../Page/ゾウ.md "wikilink")。

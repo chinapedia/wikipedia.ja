@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アーセナル・ウィメンFC](https://ja.wikipedia.org/wiki/アーセナル・ウィメンFC)から翻訳されています。
 
 
 **アーセナル・ウィメン・フットボール・クラブ** ()は、[イングランド](../Page/イングランド.md "wikilink")･[ロンドン](../Page/ロンドン.md "wikilink")を本拠地とする[女子サッカー](../Page/女子サッカー.md "wikilink")クラブ。[アーセナルFC](../Page/アーセナルFC.md "wikilink")の系列クラブのひとつ。2011年からは新規発足した[FA WSLに所属している](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")。

@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - [Ikomanオフィシャルブログ「オワラナイユメ」](http://ameblo.jp/ikoman-music/)
+  - [Ikomanオフィシャルブログ「オワラナイユメ」](https://ameblo.jp/ikoman-music/)
   - [Facebook](https://m.facebook.com/ikoman3969)
 
 [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:香川県出身の人物](https://ja.wikipedia.org/wiki/Category:香川県出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

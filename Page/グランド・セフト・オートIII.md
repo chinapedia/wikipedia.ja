@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[グランド・セフト・オートIII](https://ja.wikipedia.org/wiki/グランド・セフト・オートIII)から翻訳されています。
 
 
 [Grand_Theft_Auto_III.svg](https://ja.wikipedia.org/wiki/File:Grand_Theft_Auto_III.svg "fig:Grand_Theft_Auto_III.svg") **『グランド・セフト・オートIII』**（グランド・セフト・オートスリー、英名:**Grand Theft Auto III**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")にある[ロックスター・ゲームズ社](../Page/Rockstar_Games.md "wikilink")（GTAIIIの制作は[スコットランド](../Page/スコットランド.md "wikilink")の[ロックスター・ノース](../Page/Rockstar_North.md "wikilink")）から発売された[オープンワールド](../Page/オープンワールド.md "wikilink")型[クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")である。[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の第3作目(メインタイトルでは第3作目、ナンバリングタイトルでも第3作目)にあたる作品である。略称は『**GTAIII**』『**グラセフIII**』。

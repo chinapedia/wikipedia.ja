@@ -1,4 +1,4 @@
-> この記事は[Pure Soul](https://ja.wikipedia.org/wiki/Pure_Soul)から翻訳されています。
+> この記事は[Pure Soul〜君が僕を忘れても〜](https://ja.wikipedia.org/wiki/Pure_Soul〜君が僕を忘れても〜)から翻訳されています。
 
 
 『**Pure Soul〜君が僕を忘れても〜**』（ぴゅあそうる〜きみがぼくをわすれても〜）は、[2001年](../Page/2001年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[6月25日](../Page/6月25日.md "wikilink")まで[日本テレビ系列で毎週月曜](../Page/日本テレビ放送網.md "wikilink")22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に全12話が放送されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
@@ -154,4 +154,4 @@
 
   - [日本老年精神医学会](http://www.rounen.org/)
 
-[Category:読売テレビ月曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:アルツハイマー病を題材とした作品](https://ja.wikipedia.org/wiki/Category:アルツハイマー病を題材とした作品 "wikilink")
+[Category:読売テレビ月曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:アルツハイマー病を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:アルツハイマー病を題材としたテレビドラマ "wikilink")

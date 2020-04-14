@@ -1,4 +1,4 @@
-> この記事は[ Miss ](https://ja.wikipedia.org/wiki/_Miss_)から翻訳されています。
+> この記事は[ドライビング Miss デイジー](https://ja.wikipedia.org/wiki/ドライビング_Miss_デイジー)から翻訳されています。
 
 
 『**ドライビング Miss デイジー**』（原題: *Driving Miss Daisy*）は、[1989年製作の](../Page/1989年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[ブルース・ベレスフォード](../Page/ブルース・ベレスフォード.md "wikilink")監督によるハートウォーミングストーリー。[アメリカ南部](https://ja.wikipedia.org/wiki/アメリカ南部 "wikilink")を舞台に、老齢の[ユダヤ系](https://ja.wikipedia.org/wiki/ユダヤ系 "wikilink")未亡人と[アフリカ系運転手の交流をユーモラスに描く](../Page/アフリカ系アメリカ人.md "wikilink")。

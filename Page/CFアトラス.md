@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[CFアトラス](https://ja.wikipedia.org/wiki/CFアトラス)から翻訳されています。
 
 
 **CFアトラス**（）は、[メキシコ](../Page/メキシコ.md "wikilink")中部、[ハリスコ州](../Page/ハリスコ州.md "wikilink")の州都[グアダラハラに本拠地を置く](../Page/グアダラハラ_\(メキシコ\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[エスタディオ・ハリスコ](https://ja.wikipedia.org/wiki/エスタディオ・ハリスコ "wikilink")をホームスタジアムとしている。2016-17シーズンは[リーガMX](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(メキシコ\) "wikilink")（1部）に所属している。**アトラス・グアダラハラ**（）とも呼ばれる。
@@ -136,7 +136,7 @@
 
   - [エンリケ・メサ](https://ja.wikipedia.org/wiki/エンリケ・メサ "wikilink") 2002.1–2002.9
 
-  - [フェルナンド・キラルテ](https://ja.wikipedia.org/wiki/フェルナンド・キラルテ "wikilink") 2002.10–2003.9
+  - [フェルナンド・キラルテ](../Page/フェルナンド・キラルテ.md "wikilink") 2002.10–2003.9
 
   - [セルヒオ・ブエーノ](https://ja.wikipedia.org/wiki/セルヒオ・ブエーノ "wikilink") 2003.9–2005.4
 

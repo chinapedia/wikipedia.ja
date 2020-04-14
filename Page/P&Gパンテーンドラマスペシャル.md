@@ -1,4 +1,4 @@
-> この記事は[P\&G](https://ja.wikipedia.org/wiki/P\&G)から翻訳されています。
+> この記事は[P\&Gパンテーンドラマスペシャル](https://ja.wikipedia.org/wiki/P\&Gパンテーンドラマスペシャル)から翻訳されています。
 
 
 **P\&Gパンテーンドラマスペシャル**は、[2003年](../Page/2003年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から[BSフジ](../Page/BSフジ.md "wikilink")で放送されている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[特別番組](../Page/特別番組.md "wikilink")。

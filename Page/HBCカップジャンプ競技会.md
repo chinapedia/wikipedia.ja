@@ -1,4 +1,4 @@
-> この記事は[HBC](https://ja.wikipedia.org/wiki/HBC)から翻訳されています。
+> この記事は[HBCカップジャンプ競技会](https://ja.wikipedia.org/wiki/HBCカップジャンプ競技会)から翻訳されています。
 
 
 **HBCカップジャンプ競技会**は、おおむね[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会。2016年は宮の森ジャンプ競技場で開催。[北海道放送](../Page/北海道放送.md "wikilink")協賛。優勝賞金は各100万円。

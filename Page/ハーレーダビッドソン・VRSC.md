@@ -1,4 +1,4 @@
-> この記事は[VRSC](https://ja.wikipedia.org/wiki/VRSC)から翻訳されています。
+> この記事は[ハーレーダビッドソン・VRSC](https://ja.wikipedia.org/wiki/ハーレーダビッドソン・VRSC)から翻訳されています。
 
 
 **VRSC**（ブイアールエスシー）とは、アメリカ合衆国のオートバイ製造会社[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")初の水冷エンジンを搭載した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ名である。

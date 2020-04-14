@@ -1,4 +1,4 @@
-> この記事は[ \(SMG\)](https://ja.wikipedia.org/wiki/_\(SMG\))から翻訳されています。
+> この記事は[スターリング \(SMG\)](https://ja.wikipedia.org/wiki/スターリング_\(SMG\))から翻訳されています。
 
 
 **スターリング・サブマシンガン**（Sterling submachine gun）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された[短機関銃](../Page/短機関銃.md "wikilink")である。原型は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に完成し、戦後になってから量産された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")頃に[L85](../Page/L85.md "wikilink")[突撃銃に更新されるまで](../Page/アサルトライフル.md "wikilink")、[L1A1](https://ja.wikipedia.org/wiki/L1A1 "wikilink")小銃と共に[イギリス軍](../Page/イギリス軍.md "wikilink")で使用されていた。

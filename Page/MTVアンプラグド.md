@@ -1,4 +1,4 @@
-> この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
+> この記事は[MTVアンプラグド](https://ja.wikipedia.org/wiki/MTVアンプラグド)から翻訳されています。
 
 
 **MTVアンプラグド**（*MTV Unplugged*）は、[MTV](../Page/MTV.md "wikilink")で放送されている[音楽](../Page/音楽.md "wikilink")[番組](../Page/番組.md "wikilink")。

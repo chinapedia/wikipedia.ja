@@ -1,4 +1,4 @@
-> この記事は[UNY](https://ja.wikipedia.org/wiki/UNY)から翻訳されています。
+> この記事は[ドン・キホーテUNY可児店](https://ja.wikipedia.org/wiki/ドン・キホーテUNY可児店)から翻訳されています。
 
 
 **ドン・キホーテUNY可児店**（ドンキホーテユニーかにてん）は、[岐阜県](../Page/岐阜県.md "wikilink")[可児市](../Page/可児市.md "wikilink")中恵土に所在する、[UDリテール](https://ja.wikipedia.org/wiki/UDリテール "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。

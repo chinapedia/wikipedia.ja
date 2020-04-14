@@ -1,4 +1,4 @@
-> この記事は[ \(RADWIMPS\)](https://ja.wikipedia.org/wiki/_\(RADWIMPS\))から翻訳されています。
+> この記事は[もしも \(RADWIMPSの曲\)](https://ja.wikipedia.org/wiki/もしも_\(RADWIMPSの曲\))から翻訳されています。
 
 
 「**もしも**」は、[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")が[2003年](../Page/2003年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")にリリースした、1枚目のシングルである。

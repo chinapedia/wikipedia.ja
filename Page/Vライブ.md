@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vライブ](https://ja.wikipedia.org/wiki/Vライブ)から翻訳されています。
 
 
 **Vライブ**（ブイライブ）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の第3世代携帯電話 [FOMA](../Page/FOMA.md "wikilink")の[テレビ電話](../Page/テレビ電話.md "wikilink")機能を利用した[動画](../Page/動画.md "wikilink")配信のサービス。

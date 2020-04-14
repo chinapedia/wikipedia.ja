@@ -1,4 +1,4 @@
-> この記事は[CRUISE \(\)](https://ja.wikipedia.org/wiki/CRUISE_\(\))から翻訳されています。
+> この記事は[CRUISE \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/CRUISE_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**CRUISE**』（クルーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の14枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1989年7月25日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink"): 25L1-80, [CT](../Page/コンパクトカセット.md "wikilink"): 25L4-80, [CD](../Page/コンパクトディスク.md "wikilink"): 29L2-80, [GOLD CD](https://ja.wikipedia.org/wiki/GOLD_CD "wikilink"): 36L2-5103)。

@@ -1,4 +1,4 @@
-> この記事は[HVM](https://ja.wikipedia.org/wiki/HVM)から翻訳されています。
+> この記事は[HVMレーシング](https://ja.wikipedia.org/wiki/HVMレーシング)から翻訳されています。
 
 
 [HVM13Milwaukee.JPG](https://ja.wikipedia.org/wiki/File:HVM13Milwaukee.JPG "fig:HVM13Milwaukee.JPG")での[E.J.ヴィソ](https://ja.wikipedia.org/wiki/E.J.ヴィソ "wikilink")。2009年\]\] **HVMレーシング** (**HVM Racing**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のレーシングチーム。[インディカー・シリーズ](../Page/インディカー・シリーズ.md "wikilink")に参戦中で、現在のオーナーは[キース・ウィギンズ](https://ja.wikipedia.org/wiki/キース・ウィギンズ "wikilink")。2007年には**ミナルディチームUSA**（**Minardi Team USA**）として[チャンプカー・シリーズに参戦していた](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")。

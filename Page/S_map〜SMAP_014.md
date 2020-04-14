@@ -1,4 +1,4 @@
-> この記事は[S mapSMAP 014](https://ja.wikipedia.org/wiki/S_mapSMAP_014)から翻訳されています。
+> この記事は[S map〜SMAP 014](https://ja.wikipedia.org/wiki/S_map〜SMAP_014)から翻訳されています。
 
 
 『**S map 〜SMAP 014**』（エス マップ〜）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の13枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2000年](../Page/2000年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。

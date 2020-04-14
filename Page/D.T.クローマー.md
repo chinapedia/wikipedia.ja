@@ -1,4 +1,4 @@
-> この記事は[D.T.](https://ja.wikipedia.org/wiki/D.T.)から翻訳されています。
+> この記事は[D.T.クローマー](https://ja.wikipedia.org/wiki/D.T.クローマー)から翻訳されています。
 
 
 **デビッド・トーマス・クローマー**（**David Thomas "D. T." Cromer** , [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")[フローレンス郡出身の元](https://ja.wikipedia.org/wiki/フローレンス郡_\(サウスカロライナ州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")、[内野手](../Page/内野手.md "wikilink")）。[日本ハムファイターズでの](../Page/北海道日本ハムファイターズ.md "wikilink")[登録名](../Page/登録名.md "wikilink")は**DTクローマー**。

@@ -1,4 +1,4 @@
-> この記事は[AMPA](https://ja.wikipedia.org/wiki/AMPA)から翻訳されています。
+> この記事は[AMPA型グルタミン酸受容体](https://ja.wikipedia.org/wiki/AMPA型グルタミン酸受容体)から翻訳されています。
 
 
 **AMPA型グルタミン酸受容体**（－がたーさんじゅようたい）は[グルタミン酸受容体](https://ja.wikipedia.org/wiki/グルタミン酸受容体 "wikilink")の一種。人工アミノ酸である[AMPA](https://ja.wikipedia.org/wiki/AMPA "wikilink")(α-アミノ-3-ヒドロキシ-5-メソオキサゾール-4-プロピオン酸)を選択的に受容することから名づけられた。[中枢神経系](../Page/中枢神経系.md "wikilink")に広く分布し、[記憶](../Page/記憶.md "wikilink")や[学習](../Page/学習.md "wikilink")に大きく関与する。他の主要なグルタミン酸受容体である[NMDA受容体](https://ja.wikipedia.org/wiki/NMDA受容体 "wikilink")が通常不活性の性質を持つため、中枢神経系における[グルタミン酸](../Page/グルタミン酸.md "wikilink")性の興奮性[シナプス](../Page/シナプス.md "wikilink")伝達は、普段主にこの受容体によって行われているといえる。

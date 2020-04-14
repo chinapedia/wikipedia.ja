@@ -1,4 +1,4 @@
-> この記事は[ \(macOS\)](https://ja.wikipedia.org/wiki/_\(macOS\))から翻訳されています。
+> この記事は[ターミナル \(macOS\)](https://ja.wikipedia.org/wiki/ターミナル_\(macOS\))から翻訳されています。
 
 
 **ターミナル** (Terminal) は、[アップルの](../Page/アップル_\(企業\).md "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")に標準で付属している[UNIX](../Page/UNIX.md "wikilink")[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")。

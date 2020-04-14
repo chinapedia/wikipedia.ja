@@ -3,11 +3,11 @@
 
 『**B'z TV STYLE II Songless Version**』（ビーズ・ティーヴィー・スタイル・ツー・ソングレス・ヴァージョン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")の[B'z](../Page/B'z.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[Rooms RECORDSからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")2枚目の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
 
-タイトルに含まれるTV Styleとは、テレビ出演の際などに使われる、オリジナル音源からメイン・ボーカルのみを抜き出したいわゆる「カラオケ」バージョンのことである。38thシングル「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」（初回盤のみ）の4th beat「愛のバクダン（TV STYLE）」も同じである。
+タイトルに含まれるTV Styleとは、テレビ出演の際などに使われる、オリジナル音源からメイン・ボーカルのみを抜き出したいわゆる「カラオケ」バージョンのことである。38thシングル『[愛のバクダン](../Page/愛のバクダン.md "wikilink")』（初回盤のみ）の4th beat「愛のバクダン（TV STYLE）」も同じである。
 
 ## 内容
 
-10thシングル「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」から18thシングル「[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」までのA面の全曲、過去のアルバムから数曲、[2nd beatから数曲をメイン](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")・ボーカルの入っていない、「TV STYLE」で収録。曲の冒頭や終わりに、観客の声が収録されている[トラックもある](https://ja.wikipedia.org/wiki/トラック_\(記録媒体\) "wikilink")。
+10thシングル『[BLOWIN'](../Page/BLOWIN'.md "wikilink")』から18thシングル『[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")』までのA面の全曲、過去のアルバムから数曲、[2nd beatから数曲をメイン](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")・ボーカルの入っていない、「TV STYLE」で収録。曲の冒頭や終わりに、観客の声が収録されている[トラックもある](https://ja.wikipedia.org/wiki/トラック_\(記録媒体\) "wikilink")。
 
 ## 収録曲
 
@@ -44,6 +44,10 @@
       -
         曲の終わりだけ、観客の声が入っているが、アンコールらしきコールになってフェードアウトする。
 15. **[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")** (5:34)
+
+## 脚注
+
+### 出典
 
 ## 関連項目
 

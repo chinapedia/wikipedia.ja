@@ -119,6 +119,6 @@
 ## 外部リンク
 
   - [DJ TATSUTAオフィシャルサイト](http://www.djtatsuta.com/index.html)
-  - [オフィシャルブログ「FUNK CITY」Powered by アメブロ](http://ameblo.jp/dj-tatsuta/) - 公式ブログ
+  - [オフィシャルブログ「FUNK CITY」Powered by アメブロ](https://ameblo.jp/dj-tatsuta/) - 公式ブログ
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

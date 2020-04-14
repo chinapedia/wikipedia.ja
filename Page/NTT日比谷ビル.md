@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT日比谷ビル](https://ja.wikipedia.org/wiki/NTT日比谷ビル)から翻訳されています。
 
 
 <span style="display:none"></span> **NTT日比谷ビル**（エヌ・ティ・ティひびやビル）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[内幸町](../Page/内幸町.md "wikilink")にある[建築物](../Page/建築物.md "wikilink")。旧称は、日比谷電電ビル、日比谷電電総合建物。

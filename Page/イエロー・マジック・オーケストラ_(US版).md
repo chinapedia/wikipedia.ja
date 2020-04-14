@@ -1,4 +1,4 @@
-> この記事は[ \(US\)](https://ja.wikipedia.org/wiki/_\(US\))から翻訳されています。
+> この記事は[イエロー・マジック・オーケストラ \(US版\)](https://ja.wikipedia.org/wiki/イエロー・マジック・オーケストラ_\(US版\))から翻訳されています。
 
 
 『**イエロー・マジック・オーケストラ (US版)**』 (*Yellow Magic Orchestra*) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループである[YMOのデビューアルバム](../Page/イエロー・マジック・オーケストラ.md "wikilink")『[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ_\(アルバム\).md "wikilink")』を[リミックス](../Page/リミックス.md "wikilink")して[アメリカでリリースされたアルバム](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ Tactics](https://ja.wikipedia.org/wiki/_Tactics)から翻訳されています。
+> この記事は[ひぐらしのなく頃に Tactics](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に_Tactics)から翻訳されています。
 
 
 **ひぐらしのなく頃に Tactics**（ひぐらしのなくころに タクティクス）は、[そらゆめ](../Page/そらゆめ.md "wikilink")開発・販売の[携帯電話](../Page/携帯電話.md "wikilink")向け[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")・[WILLCOM W-ZERO3の](../Page/W-ZERO3.md "wikilink")2機種でダウンロード開始。[2007年](../Page/2007年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")より[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版（[FOMA](../Page/FOMA.md "wikilink")・703i/903i～）が追加された。

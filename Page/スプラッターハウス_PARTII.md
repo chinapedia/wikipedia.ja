@@ -1,9 +1,13 @@
-> この記事は[ PARTII](https://ja.wikipedia.org/wiki/_PARTII)から翻訳されています。
+> この記事は[スプラッターハウス PARTII](https://ja.wikipedia.org/wiki/スプラッターハウス_PARTII)から翻訳されています。
 
 
-『**スプラッターハウス PARTII**』（*SPLATTER HOUSE PARTII*）は、[1992年](../Page/1992年.md "wikilink")にナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スプラッターハウス](../Page/スプラッターハウス.md "wikilink")』の家庭用オリジナル続編として[メガドライブ](../Page/メガドライブ.md "wikilink")で発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
+『**スプラッターハウス PARTII**』 (*SPLATTER HOUSE PARTII*) は、[1992年](../Page/1992年.md "wikilink")に日本の[ナムコから発売された](../Page/バンダイナムコエンターテインメント.md "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")。同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に北米にて発売され、日本国内では[8月4日](../Page/8月4日.md "wikilink")、欧州では[10月8日](../Page/10月8日.md "wikilink")に発売された。
 
-なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されている。
+同社の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スプラッターハウス](../Page/スプラッターハウス.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）の家庭用オリジナル続編。主人公のリックを操作し、前作の舞台となった「スプラッターハウス」に再び潜入して亡き恋人ジェニファーを復活させる事を目的としている。基本的なゲームシステムは前作を踏襲しているが、敵キャラクターやギミックはすべて一新されている。
+
+開発は[ナウプロダクション](../Page/ナウプロダクション.md "wikilink")が行い、プログラムは[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト『』（[1991年](../Page/1991年.md "wikilink")）を手掛けたおおほりはるお、音楽はゲームボーイ用ソフト『[ディグダグ](../Page/ディグダグ.md "wikilink")』（1992年）を手掛けた金田栄子が担当している。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
@@ -141,13 +145,42 @@
   - 忌まわしき神々のしもべ（Abominations of the gods）
     最終ボス。死の世界から解き放たれた巨大な肉塊の様な化け物で、様々な生首を放ち攻撃してくる。ある程度ダメージを与えると[コウモリ](https://ja.wikipedia.org/wiki/コウモリ "wikilink")型の本体が姿を現し、飛び回る。
 
-## 他機種版
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>スプラッターハウス PARTII</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>ナウプロダクション</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## スタッフ
 
   - グラフィック・デザイナー：A CHAN、GYOEE〜\! MIYACHAN、ONI TAIJI（ながやまたいじ）
   - 音楽：MILKY EIKO（金田栄子）
-  - サウンド・プログラマー：SENKAN KIYOSHI（前川征克 ）
+  - サウンド・プログラマー：SENKAN KIYOSHI（前川征克）
   - サブ・プログラマー：BIG & BLACK
   - スペシャル・サンクス：KEN LOBB、JIM CURRY
   - マイン・プログラマー：PORI<sup>2</sup> PORITAN\!（おおほりはるお）
@@ -156,8 +189,8 @@
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では6・5・5・5の合計21点（満40点）になっている\[2\]。
-  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.81（満30点）点となっている\[3\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「ゲームの難易度はかなり高め」と紹介されている\[4\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では6・5・5・5の合計21点（満40点）になっている\[2\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、19.81点（満30点）となっている\[3\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「ゲームの難易度はかなり高め」と紹介されている\[4\]。
 
 <!-- end list -->
 
@@ -166,7 +199,7 @@
 
 \!項目 |キャラクタ||音楽||操作性||熱中度||お買得度||オリジナリティ \!総合 |- \!得点 |3.72||3.49||2.67||3.34||3.32||3.27 \!19.81 |}
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「続編を謳っているが、敵も『死霊』より『エイリアン』に近く、グロくはあるが怖さは薄れた」、「前作で頼りになったスライディングが出にくく、全体の難しさはアップ」と評している\[5\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、敵キャラクターの造形が「死霊」ではなく「エイリアン」に近いと指摘した上でグロテスクさはあるものの「怖さは薄れた」と指摘した他、前作で役に立ったスライディングキックが出しにくくなった事で「全体の難しさはアップ」と否定的に評価した\[5\]。
 
 ## 脚注
 

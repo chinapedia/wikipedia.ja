@@ -1,4 +1,4 @@
-> この記事は[LIXIL](https://ja.wikipedia.org/wiki/LIXIL)から翻訳されています。
+> この記事は[LIXILビバ](https://ja.wikipedia.org/wiki/LIXILビバ)から翻訳されています。
 
 
 **株式会社LIXILビバ**（リクシルビバ、*LIXIL VIVA CORPORATION*）は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")に本社を置く、[ホームセンター](../Page/ホームセンター.md "wikilink")[チェーン](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")「**ビバホーム**」等の運営を行なっている企業である。

@@ -1,7 +1,7 @@
-> この記事は[WHEN THE FUTURE LOVES THE PAST ](https://ja.wikipedia.org/wiki/WHEN_THE_FUTURE_LOVES_THE_PAST_)から翻訳されています。
+> この記事は[WHEN THE FUTURE LOVES THE PAST 〜未来が過去を愛するとき〜](https://ja.wikipedia.org/wiki/WHEN_THE_FUTURE_LOVES_THE_PAST_〜未来が過去を愛するとき〜)から翻訳されています。
 
 
-『**WHEN THE FUTURE LOVES THE PAST 〜未来が過去を愛するとき〜**』は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の5枚目のソロアルバム（小暮伝衛門名義、\! \[EXCLAMATION\]名義等を合わせて）。 サウンド・プロデュースに[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[pal@pop](../Page/高野健一.md "wikilink")、ajapai、タテミツヲ、石垣愛らを迎えている。
+『**WHEN THE FUTURE LOVES THE PAST 〜未来が過去を愛するとき〜**』は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の5枚目のソロアルバム（小暮伝衛門名義、\! \[EXCLAMATION\]名義等を合わせて）。サウンド・プロデュースに[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[pal@pop](../Page/高野健一.md "wikilink")、ajapai、タテミツヲ、石垣愛らを迎えている。
 
 ## 収録曲
 

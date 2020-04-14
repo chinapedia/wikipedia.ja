@@ -1,4 +1,4 @@
-> この記事は[GOTH ](https://ja.wikipedia.org/wiki/GOTH_)から翻訳されています。
+> この記事は[GOTH リストカット事件](https://ja.wikipedia.org/wiki/GOTH_リストカット事件)から翻訳されています。
 
 
 『**GOTH リストカット事件**』（ゴス リストカットじけん）は、[乙一](../Page/乙一.md "wikilink")の小説である。

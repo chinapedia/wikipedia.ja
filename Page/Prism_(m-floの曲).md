@@ -1,19 +1,19 @@
-> この記事は[Prism \(m-flo\)](https://ja.wikipedia.org/wiki/Prism_\(m-flo\))から翻訳されています。
+> この記事は[Prism \(m-floの曲\)](https://ja.wikipedia.org/wiki/Prism_\(m-floの曲\))から翻訳されています。
 
 
 『**prism**』（プリズム）は[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の13枚目のシングル。2001年05月09日発売。
 
 ## 解説
 
-セカンド・アルバム『[EXPO EXPO](../Page/EXPO_EXPO.md "wikilink")』(2001年) からのリカット・シングルとして、完全受注生産で発売された。 タイトル曲は、発売前のTakuのコメントによれば「21世紀へのアプローチの曲」。"Original Version" と "LIVING in TOKYO remix" が収録された（ファン投票により、1曲目は "Original Version" となった経緯がある)。また、トラック6以降には「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」のリミックス素材音源が収録されており、これを利用した"come againリミックスコンテスト" が行われた。このコンテンストの優勝作品は[境亜寿香](https://ja.wikipedia.org/wiki/境亜寿香 "wikilink")による「come again (Tokyo Cafe Remix)」で、リミックスアルバム『[EXPO防衛ロボット GRAN SONIK](../Page/EXPO防衛ロボット_GRAN_SONIK.md "wikilink")』(2001年) に収録された。
+セカンド・アルバム『[EXPO EXPO](../Page/EXPO_EXPO.md "wikilink")』（2001年）からのリカット・シングルとして、完全受注生産で発売された。 タイトル曲は、発売前のTakuのコメントによれば「21世紀へのアプローチの曲」。"Original Version" と "LIVING in TOKYO remix" が収録された（ファン投票により、1曲目は "Original Version" となった経緯がある）。また、トラック6以降には「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」のリミックス素材音源が収録されており、これを利用した "come againリミックスコンテスト" が行われた。このコンテストの優勝作品は[境亜寿香](https://ja.wikipedia.org/wiki/境亜寿香 "wikilink")による「come again (Tokyo Cafe Remix)」で、リミックスアルバム『[EXPO防衛ロボット GRAN SONIK](../Page/EXPO防衛ロボット_GRAN_SONIK.md "wikilink")』（2001年）に収録された。
 
-PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[LISAをモデルとしたアニメーション映像となっている](../Page/LISA_\(歌手\).md "wikilink")。m-floの14枚目のシングル『[Dispatch](../Page/Dispatch.md "wikilink")』では本作PVの続きのPV映像がある。さらに、後の『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』([2005年](../Page/2005年.md "wikilink")) の最終トラックに収録されたm-flo loves LISA「[TRIPOD BABY](../Page/TRIPOD_BABY.md "wikilink")」のPVは、本作のPVのキャラクター(たとえばキノコ等)を使用している。(なお、VERBAL、☆Taku、LISAをモチーフにしたキャラクターのデザインは変更されている。)
+PVは、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Taku、[LISAをモデルとしたアニメーション映像となっている](../Page/LISA_\(歌手\).md "wikilink")。m-floの14枚目のシングル『[Dispatch](../Page/Dispatch.md "wikilink")』では本作PVの続きのPV映像がある。さらに、後の『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）の最終トラックに収録されたm-flo loves LISA「[TRIPOD BABY](../Page/TRIPOD_BABY.md "wikilink")」のPVは、本作のPVのキャラクター（たとえばキノコ等）を使用している（なお、VERBAL、☆Taku、LISAをモチーフにしたキャラクターのデザインは変更されている）。
 
 ## 収録曲
 
 1.  prism
-2.  prism \[LIVING in TOKYO Remix\] Remixed by Taku
-3.  prism \[Universe Mix\] Remixed by DJ KRUSH
+2.  prism \[LIVING in TOKYO Remix\] Remixed by [Taku](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")
+3.  prism \[Universe Mix\] Remixed by [DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")
 4.  prism \[SUNSHIP VOCAL\] Remixed by [Sunship](https://ja.wikipedia.org/wiki/Sunship "wikilink")
 5.  prism \[Instrumental\]
 6.  come again リミックス用素材(part1)

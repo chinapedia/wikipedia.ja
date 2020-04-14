@@ -1,7 +1,7 @@
 > この記事は[MIHORI](https://ja.wikipedia.org/wiki/MIHORI)から翻訳されています。
 
 
-**MIHORI**（みほり）は、山口県および[広島県](../Page/広島県.md "wikilink")に[外食産業](../Page/外食産業.md "wikilink")を展開する企業。本部は[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")[大内中央](../Page/大内町_\(山口県\).md "wikilink")。グループでの年商は、[2011年](../Page/2011年.md "wikilink")度（[平成](../Page/平成.md "wikilink")23年度）で約19億7000万円。特製の[唐揚げ](https://ja.wikipedia.org/wiki/唐揚げ "wikilink")の素などの販売（店頭及び[楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")など）もしている。
+**MIHORI**（みほり）は、山口県および[広島県](../Page/広島県.md "wikilink")に[外食産業](../Page/外食産業.md "wikilink")を展開する企業。本部は[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")[大内中央](../Page/大内町_\(山口県\).md "wikilink")。グループでの年商は、[平成](../Page/平成.md "wikilink")29年二学期で約22億6000万円。特製の[唐揚げ](https://ja.wikipedia.org/wiki/唐揚げ "wikilink")の素などの販売（店頭及び[楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")など）もしている。
 
 ## 沿革
 

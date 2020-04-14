@@ -1,4 +1,4 @@
-> この記事は[GRN](https://ja.wikipedia.org/wiki/GRN)から翻訳されています。
+> この記事は[富山GRNサンダーバーズ](https://ja.wikipedia.org/wiki/富山GRNサンダーバーズ)から翻訳されています。
 
 
 **富山GRNサンダーバーズ**（とやまGRNサンダーバーズ、Toyama GRN Thunderbirds）は、[プロ野球](../Page/プロ野球.md "wikilink")[独立リーグ](../Page/独立リーグ.md "wikilink")・[ベースボール・チャレンジ・リーグ](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")（ルートインBCリーグ）に所属する[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")のプロ[野球](../Page/野球.md "wikilink")チーム。

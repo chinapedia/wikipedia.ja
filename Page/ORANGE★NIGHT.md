@@ -1,4 +1,4 @@
-> この記事は[ORANGENIGHT](https://ja.wikipedia.org/wiki/ORANGENIGHT)から翻訳されています。
+> この記事は[ORANGE★NIGHT](https://ja.wikipedia.org/wiki/ORANGE★NIGHT)から翻訳されています。
 
 
 「**ORANGE★NIGHT**」（オレンジ ナイト）は、女性歌手[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。CDコードはGZCA-4053。

@@ -1,4 +1,4 @@
-> この記事は[MSX](https://ja.wikipedia.org/wiki/MSX)から翻訳されています。
+> この記事は[MSX応援団](https://ja.wikipedia.org/wiki/MSX応援団)から翻訳されています。
 
 
 『**MSX応援団**』（エム・エス・エックスおうえんだん）とは1987年7月から1988年9月にかけて、[マイクロデザインが編集](../Page/マイクロマガジン社.md "wikilink")・発行、[大陸書房](../Page/大陸書房.md "wikilink")が発売していた[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")専門の[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。1988年5月号からMSX OENDANに改名。

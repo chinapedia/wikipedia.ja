@@ -1,7 +1,7 @@
 > この記事は[TROPICAL GORILLA](https://ja.wikipedia.org/wiki/TROPICAL_GORILLA)から翻訳されています。
 
 
-**TROPICAL GORILLA**（トロピカル・ゴリラ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1991年結成。
+**TROPICAL GORILLA**（トロピカル・ゴリラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1991年結成。
 
 ## 現メンバー
 
@@ -558,7 +558,7 @@
 <li>What's Problem / <a href="https://ja.wikipedia.org/wiki/STEPLIGHTLY" title="wikilink">STEPLIGHTLY</a></li>
 <li>Karma Stew / <a href="../Page/BEYONDS.md" title="wikilink">BEYONDS</a></li>
 <li>Moral Majority / <a href="https://ja.wikipedia.org/wiki/SPY_MASTER" title="wikilink">SPY MASTER</a></li>
-<li>Wasted / <a href="https://ja.wikipedia.org/wiki/デラシネ" title="wikilink">デラシネ</a></li>
+<li>Wasted / デラシネ</li>
 <li>Coup D'Etat / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
 <li>Wild in the Streets / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Meet the Press / <a href="https://ja.wikipedia.org/wiki/SCUM_BANDITZ" title="wikilink">SCUM BANDITZ</a></li>

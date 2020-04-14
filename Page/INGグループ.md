@@ -1,4 +1,4 @@
-> この記事は[ING](https://ja.wikipedia.org/wiki/ING)から翻訳されています。
+> この記事は[INGグループ](https://ja.wikipedia.org/wiki/INGグループ)から翻訳されています。
 
 
 **INGグループ**（）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")発祥の総合[金融機関](../Page/金融機関.md "wikilink")。INGは*Internationale Nederlanden Groep*の意。本社は[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")。世界50ヶ国以上で[銀行](../Page/銀行.md "wikilink")業務などを展開、従業員数は約8万4,000人（[2013年](../Page/2013年.md "wikilink")現在）。

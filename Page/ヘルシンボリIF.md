@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[ヘルシンボリIF](https://ja.wikipedia.org/wiki/ヘルシンボリIF)から翻訳されています。
 
 
 **ヘルシンボリ・イドロッツフェレニン**（**Helsingborgs Idrottsförening**）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ヘルシンボリ](../Page/ヘルシンボリ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -492,7 +492,7 @@
 
   - [ハリー・ルンダール](https://ja.wikipedia.org/wiki/ハリー・ルンダール "wikilink") (1944)
 
-  - [ブライアン・バーチ](https://ja.wikipedia.org/wiki/ブライアン・バーチ "wikilink") (1976-1977)
+  - [ブライアン・バーチ](../Page/ブライアン・バーチ.md "wikilink") (1976-1977)
 
   - [バート・オルソン](https://ja.wikipedia.org/wiki/バート・オルソン "wikilink") (1977)
 

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[クロサタX](https://ja.wikipedia.org/wiki/クロサタX)から翻訳されています。
 
 
 **クロサタX**（クロサタ・エックス）は[CROSS FMが放送していたラジオ番組](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。放送期間は[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")。放送時間は毎週[土曜日](../Page/土曜日.md "wikilink")12:00-18:00。天神岩田屋新館1階にある天神きらめき通りスタジオからの公開生放送。[ナビゲーターは](../Page/ディスクジョッキー.md "wikilink")[スマイリー原島](../Page/スマイリー原島.md "wikilink")と[山本真理子](https://ja.wikipedia.org/wiki/山本真理子 "wikilink")。

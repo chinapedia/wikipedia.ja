@@ -1,7 +1,7 @@
 > この記事は[DEMON AS BAD MAN](https://ja.wikipedia.org/wiki/DEMON_AS_BAD_MAN)から翻訳されています。
 
 
-『**DEMON AS BAD MAN**』（デーモン・アズ・バッド・マン）は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の2枚目のソロアルバム。ただし、前作『好色萬声男』は**小暮伝衛門**名義だったため、**デーモン小暮**名義としては1枚目にあたる。なお、3枚目の『ASTRODYNAMICS』は**\! \[EXCLAMATION\]**名義、4枚目の『[SYMPHONIA](../Page/SYMPHONIA.md "wikilink")』から『[GIRLS' ROCK 〜Tiara〜](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_〜Tiara〜 "wikilink")』までは**デーモン小暮閣下**名義、『[GIRLS' ROCK Best](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_Best "wikilink")』以降は**デーモン閣下**名義である。[2016年](../Page/2016年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に、「FIGHT FOR YOUR RIGHT」の追加および曲順が変更された『**DEMON AS BADMAN -D.C.18 Edition-**』が[Blu-spec CD2仕様で発売された](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")（**デーモン閣下**名義）。
+『**DEMON AS BAD MAN**』（デーモン・アズ・バッド・マン）は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の2枚目のソロアルバム。ただし、前作『好色萬声男』は**小暮伝衛門**名義だったため、**デーモン小暮**名義としては1枚目にあたる。なお、3枚目の『ASTRODYNAMICS』は**\! \[EXCLAMATION\]**名義、4枚目の『[SYMPHONIA](https://ja.wikipedia.org/wiki/SYMPHONIA_\(アルバム\) "wikilink")』から『[GIRLS' ROCK 〜Tiara〜](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_〜Tiara〜 "wikilink")』までは**デーモン小暮閣下**名義、『[GIRLS' ROCK Best](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_Best "wikilink")』以降は**デーモン閣下**名義である。[2016年](../Page/2016年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に、「FIGHT FOR YOUR RIGHT」の追加および曲順が変更された『**DEMON AS BADMAN -D.C.18 Edition-**』が[Blu-spec CD2仕様で発売された](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")（**デーモン閣下**名義）。
 
 ## 収録曲
 

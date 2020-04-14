@@ -1,4 +1,4 @@
-> この記事は[ LifE](https://ja.wikipedia.org/wiki/_LifE)から翻訳されています。
+> この記事は[生存 LifE](https://ja.wikipedia.org/wiki/生存_LifE)から翻訳されています。
 
 
 『**生存 LifE**』（ライフ）は、[福本伸行](../Page/福本伸行.md "wikilink")が原作、[かわぐちかいじ](../Page/かわぐちかいじ.md "wikilink")が作画をつとめた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1999年](../Page/1999年.md "wikilink")、[講談社](../Page/講談社.md "wikilink")『[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")』に連載された。[2002年](../Page/2002年.md "wikilink")には[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。

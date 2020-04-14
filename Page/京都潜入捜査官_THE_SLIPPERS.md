@@ -1,4 +1,4 @@
-> この記事は[ THE SLIPPERS](https://ja.wikipedia.org/wiki/_THE_SLIPPERS)から翻訳されています。
+> この記事は[京都潜入捜査官 THE SLIPPERS](https://ja.wikipedia.org/wiki/京都潜入捜査官_THE_SLIPPERS)から翻訳されています。
 
 
 『**京都潜入捜査官 THE SLIPPERS**』（きょうとせんにゅうそうさかん ザ・スリッパーズ）は、[2000年](../Page/2000年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで毎週木曜日に、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[木曜ミステリー](../Page/木曜ミステリー.md "wikilink")」枠で放送された日本の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")。

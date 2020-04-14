@@ -1,4 +1,4 @@
-> この記事は[JOKER \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/JOKER_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[JOKER \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/JOKER_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**JOKER**』（ジョーカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")。

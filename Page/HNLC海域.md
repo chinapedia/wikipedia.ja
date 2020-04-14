@@ -1,4 +1,4 @@
-> この記事は[HNLC](https://ja.wikipedia.org/wiki/HNLC)から翻訳されています。
+> この記事は[HNLC海域](https://ja.wikipedia.org/wiki/HNLC海域)から翻訳されています。
 
 
 **HNLC海域**（エイチエヌエルシーかいいき）とは表層に多量[栄養塩](../Page/栄養塩.md "wikilink")（硝酸塩・リン酸塩・ケイ酸塩）が高濃度で存在するにもかかわらず、[植物プランクトン](../Page/植物プランクトン.md "wikilink")[生物量](https://ja.wikipedia.org/wiki/生物量 "wikilink")が比較的低い状態が維持されている[海域](https://ja.wikipedia.org/wiki/海域 "wikilink")のことである。HNLCとは本来High Nutrient Low Chlorophyllの略であったが、後述のように微量栄養塩の濃度がきわめて低い場合が多いため、High Nitrate Low Chlorophyllとしている文献もある。

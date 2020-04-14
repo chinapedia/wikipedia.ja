@@ -1,4 +1,4 @@
-> この記事は[Stock \(\)](https://ja.wikipedia.org/wiki/Stock_\(\))から翻訳されています。
+> この記事は[Stock \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/Stock_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**Stock**』（ストック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の12枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1988年3月3日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12652, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8152, [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-193)。

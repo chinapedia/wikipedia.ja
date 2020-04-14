@@ -1,4 +1,4 @@
-> この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
+> この記事は[天外魔境ZERO](https://ja.wikipedia.org/wiki/天外魔境ZERO)から翻訳されています。
 
 
 『**天外魔境ZERO**』（てんがいまきょうゼロ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")より発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。ジャンルは[RPG](../Page/コンピュータRPG.md "wikilink")。
@@ -58,7 +58,7 @@
   - 2月：[節分](../Page/節分.md "wikilink")祭り（火熊国）
   - 3月：[ひな祭り](https://ja.wikipedia.org/wiki/雛祭り "wikilink")（鶴国）
   - 4月：[花見](../Page/花見.md "wikilink")（孔雀国）
-  - 5月：[こどもの日](https://ja.wikipedia.org/wiki/こどもの日 "wikilink")（亀国）
+  - 5月：[こどもの日](../Page/こどもの日.md "wikilink")（亀国）
   - 6月：[ゲンブ祭り](../Page/玄武.md "wikilink")（亀国）
   - 7月：[七夕](../Page/七夕.md "wikilink")祭り（犬神国）
   - 8月：七夕祭り\[5\]（鶴国）

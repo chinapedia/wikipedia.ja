@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[アービング・G・タルバーグ賞](https://ja.wikipedia.org/wiki/アービング・G・タルバーグ賞)から翻訳されています。
 
 
 **アービング・G・タルバーグ賞**（**Irving G. Thalberg Memorial Award**）は、[アカデミー賞](../Page/アカデミー賞.md "wikilink")の賞の一つ。

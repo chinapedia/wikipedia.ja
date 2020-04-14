@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[アーサー・C・クラーク賞](https://ja.wikipedia.org/wiki/アーサー・C・クラーク賞)から翻訳されています。
 
 
 **アーサー・C・クラーク賞**（アーサー・C・クラークしょう、Arthur C. Clarke Award）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")における[SF小説の](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[文学賞](../Page/文学賞.md "wikilink")である。「イギリスで最も名誉あるSF賞」と言われる。\[1\]

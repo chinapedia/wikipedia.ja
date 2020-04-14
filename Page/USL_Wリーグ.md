@@ -1,4 +1,4 @@
-> この記事は[USL W](https://ja.wikipedia.org/wiki/USL_W)から翻訳されています。
+> この記事は[USL Wリーグ](https://ja.wikipedia.org/wiki/USL_Wリーグ)から翻訳されています。
 
 
 **USL Wリーグ**（**USL W-League**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")内でナショナル女子サッカーリーグに次ぐレベルとされる、[女子サッカー](../Page/女子サッカー.md "wikilink")のセミ・プロフェッショナルリーグである。[USLが運営母体](../Page/ユナイテッドサッカーリーグ.md "wikilink")。大学女子サッカー部との二重登録を認めているため、リーグに所属するクラブで多くの大学生選手を受け入れている。

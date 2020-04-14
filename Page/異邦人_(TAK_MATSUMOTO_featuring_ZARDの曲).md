@@ -1,4 +1,4 @@
-> この記事は[ \(TAK MATSUMOTO featuring ZARD\)](https://ja.wikipedia.org/wiki/_\(TAK_MATSUMOTO_featuring_ZARD\))から翻訳されています。
+> この記事は[異邦人 \(TAK MATSUMOTO featuring ZARDの曲\)](https://ja.wikipedia.org/wiki/異邦人_\(TAK_MATSUMOTO_featuring_ZARDの曲\))から翻訳されています。
 
 
 『**異邦人**』（いほうじん）は、[TAK MATSUMOTO](../Page/松本孝弘.md "wikilink") featuring [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のシングル。CDコードはBMCV-5004。

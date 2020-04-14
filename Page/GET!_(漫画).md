@@ -1,4 +1,4 @@
-> この記事は[GET! \(\)](https://ja.wikipedia.org/wiki/GET!_\(\))から翻訳されています。
+> この記事は[GET! \(漫画\)](https://ja.wikipedia.org/wiki/GET!_\(漫画\))から翻訳されています。
 
 
 『**GET\!**』（ゲット）は[東まゆみ](../Page/東まゆみ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』1998年4月号から同年10月号まで連載。単行本は1巻（全7話）のみが出された。コミックには、読み切り作品「ストレート\!」も併せて収録されている。

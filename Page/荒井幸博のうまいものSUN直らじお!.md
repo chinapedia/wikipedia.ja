@@ -1,4 +1,4 @@
-> この記事は[SUN!](https://ja.wikipedia.org/wiki/SUN!)から翻訳されています。
+> この記事は[荒井幸博のうまいものSUN直らじお!](https://ja.wikipedia.org/wiki/荒井幸博のうまいものSUN直らじお!)から翻訳されています。
 
 
 『**荒井幸博のうまいものSUN直らじお\!**』（あらいゆきひろのうまいものサンちょくらじお）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[東北映音](https://ja.wikipedia.org/wiki/東北映音 "wikilink")制作の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

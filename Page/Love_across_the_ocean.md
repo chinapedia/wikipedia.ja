@@ -43,4 +43,8 @@
 
   - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ love across the ocean](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004146)
+
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

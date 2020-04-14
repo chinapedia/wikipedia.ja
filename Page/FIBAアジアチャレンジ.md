@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAアジアチャレンジ](https://ja.wikipedia.org/wiki/FIBAアジアチャレンジ)から翻訳されています。
 
 
 **FIBAアジアチャレンジ**（FIBA Asia Challenge）は、[FIBAアジア](../Page/FIBAアジア.md "wikilink")が主催する男子[バスケットボール](../Page/バスケットボール.md "wikilink")の国際大会である。

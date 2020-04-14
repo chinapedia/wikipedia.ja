@@ -1,4 +1,4 @@
-> この記事は[Music\&Video](https://ja.wikipedia.org/wiki/Music\&Video)から翻訳されています。
+> この記事は[Music\&Videoチャネル](https://ja.wikipedia.org/wiki/Music\&Videoチャネル)から翻訳されています。
 
 
 **Music\&Videoチャネル**（みゅーじっくあんどビデオ-）とは、かつて[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が[FOMAハイスピード](../Page/FOMAハイスピード.md "wikilink")（[HSDPA](https://ja.wikipedia.org/wiki/HSDPA "wikilink")）対応端末提供していた音楽情報番組の配信サービスである。 [905iシリーズ発売までは](https://ja.wikipedia.org/wiki/FOMA#905iシリーズ "wikilink")、音声のみの「**ミュージックチャネル**」というサービス名で提供されていた。

@@ -1,4 +1,4 @@
-> この記事は[MAR](https://ja.wikipedia.org/wiki/MAR)から翻訳されています。
+> この記事は[MARの登場人物](https://ja.wikipedia.org/wiki/MARの登場人物)から翻訳されています。
 
 
 **MÄRの登場人物**（メルのとうじょうじんぶつ）は、漫画『[MÄR](../Page/MAR_\(漫画\).md "wikilink")』およびその関連作品の登場人物を解説する。

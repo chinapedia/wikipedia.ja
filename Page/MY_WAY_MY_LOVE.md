@@ -1,23 +1,25 @@
 > この記事は[MY WAY MY LOVE](https://ja.wikipedia.org/wiki/MY_WAY_MY_LOVE)から翻訳されています。
 
 
-**MY WAY MY LOVE** または **my way my love**（まい・うぇい・まい・らぶ）は、日本の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。 現在は、**[村田有希生](https://ja.wikipedia.org/wiki/村田有希生 "wikilink")**によるソロ・プロジェクトとなっている。
+**MY WAY MY LOVE** または **my way my love**（まい・うぇい・まい・らぶ）は、日本の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。 メンバーは、**[村田有希生](https://ja.wikipedia.org/wiki/村田有希生 "wikilink")**と**[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")**。
 
 ## 概要
 
-1999年夏、下北沢のイングリッシュ・バー「Heaven's Door」で元The JUICE、The cimonsのサウンドメイカー/フロントマン村田有希生がドラマーの大脇武志と出会い、バンドを結成。リハーサルを重ね、2000年に my way my love として活動を開始。『REVOLUTION POP』(2002年)や『LONDON PUNK1977 Tribute Album』(2003年)など、様々なコンピレーションアルバムに参加するようになる。
+[1999年](../Page/1999年.md "wikilink")夏、下北沢のイングリッシュ・バー「Heaven's Door」で元The JUICE、The cimonsのサウンドメイカー/フロントマン村田有希生がドラマーの大脇武志と出会い、バンドを結成。リハーサルを重ね、[2000年](../Page/2000年.md "wikilink")に my way my love として活動を開始。『REVOLUTION POP』([2002年](../Page/2002年.md "wikilink"))や『LONDON PUNK1977 Tribute Album』([2003年](../Page/2003年.md "wikilink"))など、様々なコンピレーションアルバムに参加するようになる。
 
-2004年、日本での自主制作アルバムシリーズ『BOOT BUM』がきっかけとなり、アメリカのインディーレーベル10社から契約のオファーを受ける。同年、シカゴのインディペンデントレーベルFile 13 Recordsと契約し、アルバム『hypotic suggestion:01』で全米／ヨーロッパデビュー(全米にて約7,000枚の売上を記録)。アメリカ音楽ダウンロードサイトBetter Propagandaにて、楽曲『captain』が日本人初となる5週連続1位を獲得。同年渡米し、150本近くの全米ツアーを敢行。2005年、オーストリアのTROST RECORDSと契約し、ヨーロッパ限定アルバム『It Is But One Of Billions Of Galaxies In Your Universe』をリリース(約3,000枚販売)。イギリス、イタリア、ドイツ、オーストリアなどを廻るヨーロッパツアーを敢行するとともに、複数の野外フェスにも出演する。
+[2004年](../Page/2004年.md "wikilink")、日本での自主制作アルバムシリーズ『BOOT BUM』がきっかけとなり、アメリカのインディーレーベル10社から契約のオファーを受ける。同年、シカゴのインディペンデントレーベルFile 13 Recordsと契約し、アルバム『hypotic suggestion:01』で全米／ヨーロッパデビュー(全米にて約7,000枚の売上を記録)。アメリカ音楽ダウンロードサイトBetter Propagandaにて、楽曲『captain』が日本人初となる5週連続1位を獲得。同年渡米し、150本近くの全米ツアーを敢行。[2005年](../Page/2005年.md "wikilink")、オーストリアのTROST RECORDSと契約し、ヨーロッパ限定アルバム『It Is But One Of Billions Of Galaxies In Your Universe』をリリース(約3,000枚販売)。イギリス、イタリア、ドイツ、オーストリアなどを廻るヨーロッパツアーを敢行するとともに、複数の野外フェスにも出演する。
 
-2006年、アメリカ最大の音楽イベント[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink") 2006に日本人枠(ジャパンナイト)としてではなく、アメリカンレーベル・ショーケースとして出演する(諸事情により、バンドではなく村田単独での出演)。同年、日本で[GROWING UP内のレーベルGraveyard](https://ja.wikipedia.org/wiki/GROWING_UP "wikilink") Labelと契約を結ぶ。Graveyard Labelからは、『Nothing is difficult to those who have the will』(2006年)、『JOY』(2007年。Blowoutレーベルよりイギリスでもリリース)、『a HOLY LAND INVADER』(2008年)、『I’ll Cure You With Electricity』(2009年)、『NEW MARS』(2010年)をリリースしている。2008年から日本での自主企画イベント『2バンVS～HERION』を下北沢SHELTERにて開催。[BRAHMAN](../Page/BRAHMAN.md "wikilink")、[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")、[Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")、[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")などのバンドが出演し、全公演がSOLD OUTとなる。
+[2006年](../Page/2006年.md "wikilink")、アメリカ最大の音楽イベント[SXSW](https://ja.wikipedia.org/wiki/SXSW "wikilink") 2006に日本人枠(ジャパンナイト)としてではなく、アメリカンレーベル・ショーケースとして出演する(諸事情により、バンドではなく村田単独での出演)。同年、日本で[GROWING UP内のレーベルGraveyard](https://ja.wikipedia.org/wiki/GROWING_UP "wikilink") Labelと契約を結ぶ。Graveyard Labelからは、『Nothing is difficult to those who have the will』([2006年](../Page/2006年.md "wikilink"))、『JOY』([2007年](../Page/2007年.md "wikilink")。Blowoutレーベルよりイギリスでもリリース)、『a HOLY LAND INVADER』([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink"))、『I’ll Cure You With Electricity』([2009年](../Page/2009年.md "wikilink"))、『NEW MARS』([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink"))をリリースしている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から日本での自主企画イベント『2バンVS～HERION』を下北沢SHELTERにて開催。[BRAHMAN](../Page/BRAHMAN.md "wikilink")、[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")、[Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")、[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")などのバンドが出演し、全公演がSOLD OUTとなる。
 
-2013年、エイベックス傘下のインディーズレーベルbinyl records／dive in\! discと契約し、アルバム『The Fact Is』をリリース。それに伴い、23本のジャパンツアーを開催する。2015年7月には、2004年以来11年振りにFile 13 Recordsよりアルバム『SHIT\!』を全世界リリース。また、2016年からは元[M-AGE](../Page/M-AGE.md "wikilink")/THE MORTALの三代堅率いるバンド青天の霹靂とのツーマンツアー「青天のmyway」を定期的に開催している。
+[2013年](../Page/2013年.md "wikilink")、エイベックス傘下のインディーズレーベルbinyl records／dive in\! discと契約し、アルバム『The Fact Is』をリリース。それに伴い、23本のジャパンツアーを開催する。[2015年](../Page/2015年.md "wikilink")7月には、[2004年](../Page/2004年.md "wikilink")以来11年振りにFile 13 Recordsよりアルバム『SHIT\!』を全世界リリース。また、[2016年](../Page/2016年.md "wikilink")からは元[M-AGE](../Page/M-AGE.md "wikilink")/THE MORTALの三代堅率いるバンド青天の霹靂とのツーマンツアー「青天のmyway」を定期的に開催している。
+
+[2020年](../Page/2020年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")、公式SNSにてベーシスト[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")の加入を発表\[1\]。加えて、File 13 RecordsよりEP『BALL & CHAIN』が3月27日に発売されることがアナウンスされている\[2\]。
 
 ## メンバー
 
   - [村田有希生](https://ja.wikipedia.org/wiki/村田有希生 "wikilink")（むらた ゆきお）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。全楽曲の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")。
-    1969年3月4日生まれ。兵庫県尼崎市出身。
+    [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")生まれ。兵庫県尼崎市出身。
     YUKIO MURATA、yukio murata と表記される場合あり。
     CDジャケットやグッズ等のアートワークも手がける。
     15歳の時にテレビで見た[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")に影響を受け、アコースティック・ギターを購入。20歳の時に単身渡米し、寿司屋で働きながら音楽活動を行う。
@@ -25,6 +27,11 @@
     1997年にthe cimonsに結成し、1998年にはアルバム『HYNUMBER』を発表。[Fuji Rock Festival](https://ja.wikipedia.org/wiki/Fuji_Rock_Festival "wikilink") '99への出演、イギリスツアーなど活動を続けるも1999年メジャーデビュー直前に解散。なお、the cimonsには後藤孝顕(現[MONO](../Page/MONO.md "wikilink"))がギター、[COBY](../Page/小林勝_\(音楽家\).md "wikilink")(現[nil](https://ja.wikipedia.org/wiki/nil "wikilink")、[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")のサポート)がベースで所属していた。
     my way my loveと並行して、ソロユニットportrait sound paintingでのライブ活動や作品『song for the death of me』の発表、[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロアルバムへの楽曲提供(『ハレルヤ』『EXPLOSION』の作曲/編曲)のほか、2011年より[INORAN](../Page/INORAN.md "wikilink")([LUNA SEA](../Page/LUNA_SEA.md "wikilink"))のソロワークにサポートギタリストとして参加している。2012年には別プロジェクトU-re:x(ユーリックス)を立ち上げ、[ムラサキスポーツ](../Page/ムラサキスポーツ.md "wikilink")TV-CM、[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")等へ楽曲提供を開始する。2014年以降は、個人名義で[ENTHRALLS](https://ja.wikipedia.org/wiki/ENTHRALLS "wikilink")のプロデュースを担当している。2015年7月、[櫻井敦司](../Page/櫻井敦司.md "wikilink")のソロプロジェクトTHE MORTALにギタリストとして参加し、『天使』『Barbaric Man』『MOTHER』『PAIN DROP』の作曲、[バウハウス](../Page/バウハウス.md "wikilink")のカヴァー『Spirit』の編曲を提供。
     単独での弾き語りによるライブ活動も行うほか、2019年から [Eins:Vier](../Page/Eins:Vier.md "wikilink") のギタリスト中村佳嗣とのユニット『ゆきつぐ』を開始している。
+  - [Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")（じゅうけん）
+    [ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")担当。
+    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")生まれ。千葉県船橋市出身。
+    元[THE MAD CAPSULE MARKETSのギタリスト石垣愛が率いるバンド](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")「DRLS」や、Date名義でバンド「戦国時代 -The age of civil wars-」の一員として活動する他、[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[VAMPS](https://ja.wikipedia.org/wiki/VAMPS "wikilink")など様々なミュージシャン/バンドのサポートとしても知られる。
+    詳細は、「[Ju-ken](https://ja.wikipedia.org/wiki/Ju-ken "wikilink")」を参照。
 
 ### 過去在籍したメンバー
 
@@ -382,7 +389,8 @@ BLWT-004:UK</p></td>
 <td><p>File13 Records(US)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a><br />
+<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a></p></td>
 <td><p>she sky my heart with blue</p></td>
 <td><p>FT-89</p></td>
 <td><ol>
@@ -396,10 +404,27 @@ BLWT-004:UK</p></td>
 <li>Candy</li>
 <li>INVISIBLE MAN</li>
 <li>Monster Monday</li>
-</ol></td>
-<td><p>File13 Records(US) ビニール</p></td>
+</ol>
+<p><br />
+<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a>にレコードで発売。<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a>にデジタル配信開始</p></td>
+<td><p>File13 Records(US)</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p>BOOT BUM BOX</p></td>
+<td></td>
+<td><ol>
+<li>BOOT BUM 1.0</li>
+<li>BOOT BUM 1.1</li>
+<li>BOOT BUM 0.9</li>
+<li>BOOT BUM 0.7</li>
+<li>Shape of my shadow (新曲)</li>
+</ol>
+<p><br />
+結成20周年を記念して、これまでに発売されたBOOT BUMシリーズに新曲を加えたボックスセット (完全受注生産)</p></td>
+<td><p>mott records</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -546,6 +571,13 @@ BLWT-004:UK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
+<td><p>BALL &amp; CHAIN</p></td>
+<td><p>FT97</p></td>
+<td></td>
+<td><p>File 13 Records(US)</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3296,22 +3328,19 @@ BLWT-004:UK</p></td>
 
   - [my way my love 公式ブログ](https://ameblo.jp/mwml-fuzzydayz/)
 
-  - [my way my love 公式twitterアカウント](http://twitter.com/mywaymylove/)
-
-      - [村田有希生 twitterアカウント](http://twitter.com/mywaymymurata/)
-      - [村田有希生スタッフ twitterアカウント](https://twitter.com/StaffYukio/)
+  - [my way my love 公式Twitterアカウント](http://twitter.com/mywaymylove/)
 
   - [my way my love 公式facebookページ](https://www.facebook.com/mwml.tacotahaus/)
 
   - [my way my love 公式Instagramページ](https://www.instagram.com/mywaymynoise/)
 
-  -
-  - [U-re:xオフィシャルサイト](http://www.sonymusic.co.jp/Music/Info/urex/)（村田有希生 別プロジェクト）
-
-  - [File 13 Records アーティストページ](http://file-13.com/my-way-my-love/)
-
-  - [TROST Records アーティストページ](https://www.trost.at/artist-my-way-my-love.html/)
-
-  - [dive in\! discレーベル公式HP](https://binylrecords.com/diveindisc/)
+  -   - [村田有希生 Twitterアカウント](http://twitter.com/mywaymymurata/)
+      - [Ju-ken Instragramアカウント](https://www.instagram.com/jkn627/)
+      - [File 13 Records アーティストページ](http://file-13.com/my-way-my-love/)
+      - [TROST Records アーティストページ](https://www.trost.at/artist-my-way-my-love.html/)
+      - [dive in\! discレーベル公式HP](https://binylrecords.com/diveindisc/)
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:シューゲイザー・バンド](https://ja.wikipedia.org/wiki/Category:シューゲイザー・バンド "wikilink") [Category:ポスト・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・ハードコア・バンド "wikilink") [Category:ノイズロック・バンド](https://ja.wikipedia.org/wiki/Category:ノイズロック・バンド "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink")
+
+1.  <https://twitter.com/mywaymylove/status/1237945266717618176?s=20> MY WAY MY LOVE 公式Twitterより
+2.  <http://file-13.com/home/14293128> File 13 Records 公式サイトより

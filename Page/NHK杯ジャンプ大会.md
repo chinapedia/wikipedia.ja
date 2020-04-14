@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯ジャンプ大会](https://ja.wikipedia.org/wiki/NHK杯ジャンプ大会)から翻訳されています。
 
 
 **NHK杯ジャンプ大会**（えぬえいちけいはいジャンプたいかい）は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。

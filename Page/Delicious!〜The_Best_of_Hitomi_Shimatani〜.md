@@ -1,4 +1,4 @@
-> この記事は[Delicious!The Best of Hitomi Shimatani](https://ja.wikipedia.org/wiki/Delicious!The_Best_of_Hitomi_Shimatani)から翻訳されています。
+> この記事は[Delicious!〜The Best of Hitomi Shimatani〜](https://ja.wikipedia.org/wiki/Delicious!〜The_Best_of_Hitomi_Shimatani〜)から翻訳されています。
 
 
 『**Delicious\!〜The Best of Hitomi Shimatani〜**』（デリシャス ザ・ベスト・オブ・ヒトミ・シマタニ）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

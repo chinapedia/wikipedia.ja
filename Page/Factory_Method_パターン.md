@@ -1,4 +1,4 @@
-> この記事は[Factory Method ](https://ja.wikipedia.org/wiki/Factory_Method_)から翻訳されています。
+> この記事は[Factory Method パターン](https://ja.wikipedia.org/wiki/Factory_Method_パターン)から翻訳されています。
 
 
 **Factory Method パターン**（ファクトリメソッド・パターン）\[1\]とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 四人組)によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。 Factory Method パターンは、他のクラスのコンストラクタをサブクラスで上書き可能な自分のメソッドに置き換えることで、 アプリケーションに特化したオブジェクトの生成をサブクラスに追い出し、クラスの再利用性を高めることを目的とする。

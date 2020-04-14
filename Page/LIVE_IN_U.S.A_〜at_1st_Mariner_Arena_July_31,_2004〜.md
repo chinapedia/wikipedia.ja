@@ -1,4 +1,4 @@
-> この記事は[LIVE IN U.S.A at 1st Mariner Arena July 31, 2004](https://ja.wikipedia.org/wiki/LIVE_IN_U.S.A_at_1st_Mariner_Arena_July_31,_2004)から翻訳されています。
+> この記事は[LIVE IN U.S.A 〜at 1st Mariner Arena July 31, 2004〜](https://ja.wikipedia.org/wiki/LIVE_IN_U.S.A_〜at_1st_Mariner_Arena_July_31,_2004〜)から翻訳されています。
 
 
 『**LIVE IN U.S.A 〜at 1st Mariner Arena July 31, 2004〜**』（ライブ イン ユーエスエー アット ファースト マリナー アリーナ ジュライ サーティーワン ツーサウザンドフォー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2004年](../Page/2004年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

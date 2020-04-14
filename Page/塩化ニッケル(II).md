@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化ニッケル\(II\)](https://ja.wikipedia.org/wiki/塩化ニッケル\(II\))から翻訳されています。
 
 
 **塩化ニッケル(II)**（えんかニッケル(II)、nickel(II) chloride）は[塩素](../Page/塩素.md "wikilink")と[ニッケル](../Page/ニッケル.md "wikilink")のイオン性化合物（[塩](../Page/塩_\(化学\).md "wikilink")）である。無水物の組成式は NiCl<sub>2</sub> で、融点の高い常磁性を持つ黄色の固体である。ニッケル化合物としては最も広く使われており、[ニッケルめっき](https://ja.wikipedia.org/wiki/ニッケルめっき "wikilink")などに用いられる。1個または6個の水分子が結合した[水和物](../Page/水和物.md "wikilink")が知られる。

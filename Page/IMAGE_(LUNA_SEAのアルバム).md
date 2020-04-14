@@ -1,4 +1,4 @@
-> この記事は[IMAGE \(LUNA SEA\)](https://ja.wikipedia.org/wiki/IMAGE_\(LUNA_SEA\))から翻訳されています。
+> この記事は[IMAGE \(LUNA SEAのアルバム\)](https://ja.wikipedia.org/wiki/IMAGE_\(LUNA_SEAのアルバム\))から翻訳されています。
 
 
 **IMAGE**（イメージ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")・アルバム、通算2作目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")である。初回限定盤は透明帯仕様。
@@ -72,6 +72,8 @@
 ## エピソード
 
 2018年12月22日のさいたまスーパーアリーナでのライブ『IMAGE OR REAL』にて、「SEARCH FOR REASON」を除く全曲が演奏された\[13\]。
+
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 注釈
 

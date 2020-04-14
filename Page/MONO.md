@@ -23,7 +23,7 @@
 
 **Yoda** (ギター) \[1999年 – \]
 
-  - エンドースメント：[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
+  - エンドースメント：Fender、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
 
 **Dahm** (ドラム) \[2018年 – \]
 
@@ -157,16 +157,16 @@
 
 ### サウンドトラック
 
-| 年    | 作品                                                                                    | 詳細                                                                              | 原作/監督/製作者                                      | 賞                                                            |
-| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| 2007 | Snow Angels                                                                           | 長編映画                                                                            | 監督: デヴィッド・ゴードン・グリーン                            |                                                              |
-| 2008 | 神の子どもたちはみな踊る                                                                          | 長編映画                                                                            | 原作: 村上春樹、監督: ロバート・ログバル                         |                                                              |
-| 2013 | [かなたの子](https://ja.wikipedia.org/wiki/かなたの子 "wikilink")                               | WOWOW TV オリジナルドラマ                                                               | 監督: 大森立嗣                                       |                                                              |
-| 2014 | Wildlike                                                                              | 短編映画                                                                            | 原作 & 監督: フランク・ホール・グリーン                         |                                                              |
-| 2015 | Where We Begin                                                                        | 短編映画                                                                            | 原作 & 監督: 宮崎光代                                  | Marshall Hawkins Best Musical Score受賞                        |
-| 2015 | [リアル鬼ごっこ](../Page/リアル鬼ごっこ.md "wikilink")                                              | 長編映画                                                                            | 監督: [園子温](../Page/園子温.md "wikilink")           |                                                              |
-| 2016 | [レイ・ドノヴァン ザ・フィクサー](https://ja.wikipedia.org/wiki/レイ・ドノヴァン_ザ・フィクサー "wikilink"): Ep 406 | 『[ショウタイム](https://ja.wikipedia.org/wiki/ショウタイム_\(テレビ局\) "wikilink")』オリジナルTVシリーズ | 製作者: アン・ビダーマン                                  |                                                              |
-| 2016 | The 4th Company                                                                       | 長編映画                                                                            | 監督: Mitzi Vanessa Arreola, Amir Galván Carvera | [アリエル賞](https://ja.wikipedia.org/wiki/アリエル賞 "wikilink")ノミネート |
+| 年    | 作品                                                                                    | 詳細                                                    | 原作/監督/製作者                                      | 賞                                                            |
+| ---- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 2007 | Snow Angels                                                                           | 長編映画                                                  | 監督: デヴィッド・ゴードン・グリーン                            |                                                              |
+| 2008 | 神の子どもたちはみな踊る                                                                          | 長編映画                                                  | 原作: 村上春樹、監督: ロバート・ログバル                         |                                                              |
+| 2013 | [かなたの子](https://ja.wikipedia.org/wiki/かなたの子 "wikilink")                               | WOWOW TV オリジナルドラマ                                     | 監督: 大森立嗣                                       |                                                              |
+| 2014 | Wildlike                                                                              | 短編映画                                                  | 原作 & 監督: フランク・ホール・グリーン                         |                                                              |
+| 2015 | Where We Begin                                                                        | 短編映画                                                  | 原作 & 監督: 宮崎光代                                  | Marshall Hawkins Best Musical Score受賞                        |
+| 2015 | [リアル鬼ごっこ](../Page/リアル鬼ごっこ.md "wikilink")                                              | 長編映画                                                  | 監督: [園子温](../Page/園子温.md "wikilink")           |                                                              |
+| 2016 | [レイ・ドノヴァン ザ・フィクサー](https://ja.wikipedia.org/wiki/レイ・ドノヴァン_ザ・フィクサー "wikilink"): Ep 406 | 『[ショウタイム](../Page/Showtime.md "wikilink")』オリジナルTVシリーズ | 製作者: アン・ビダーマン                                  |                                                              |
+| 2016 | The 4th Company                                                                       | 長編映画                                                  | 監督: Mitzi Vanessa Arreola, Amir Galván Carvera | [アリエル賞](https://ja.wikipedia.org/wiki/アリエル賞 "wikilink")ノミネート |
 
 ## オフィシャルビデオ
 

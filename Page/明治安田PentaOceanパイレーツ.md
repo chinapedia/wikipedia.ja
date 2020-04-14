@@ -1,4 +1,4 @@
-> この記事は[PentaOcean](https://ja.wikipedia.org/wiki/PentaOcean)から翻訳されています。
+> この記事は[明治安田PentaOceanパイレーツ](https://ja.wikipedia.org/wiki/明治安田PentaOceanパイレーツ)から翻訳されています。
 
 
 **明治安田PentaOceanパイレーツ**（めいじやすだ ペンタオーシャン パイレーツ、）は、[Xリーグ](https://ja.wikipedia.org/wiki/Xリーグ "wikilink")に所属する[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")チーム（クラブチーム）。

@@ -1,4 +1,4 @@
-> この記事は[Thank You For](https://ja.wikipedia.org/wiki/Thank_You_For)から翻訳されています。
+> この記事は[Thank You For…](https://ja.wikipedia.org/wiki/Thank_You_For…)から翻訳されています。
 
 
 **Thank You For…**（センキュー・フォー）は、[岩田さゆり](../Page/岩田さゆり.md "wikilink")の1枚目のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[MAPLUS ](https://ja.wikipedia.org/wiki/MAPLUS_)から翻訳されています。
+> この記事は[MAPLUS ポータブルナビ](https://ja.wikipedia.org/wiki/MAPLUS_ポータブルナビ)から翻訳されています。
 
 
 **MAPLUS ポータブルナビ**（マップラス ポータブルナビ）は、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用の[ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション "wikilink")ソフト。厳密にはゲームソフトではない。

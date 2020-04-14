@@ -1,4 +1,4 @@
-> この記事は[official](https://ja.wikipedia.org/wiki/official)から翻訳されています。
+> この記事は[ルパン三世officialマガジン](https://ja.wikipedia.org/wiki/ルパン三世officialマガジン)から翻訳されています。
 
 
 『**ルパン三世officialマガジン**』（ルパンさんせいオフィシャルマガジン）は、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")から出版されている、季刊の『[ルパン三世](../Page/ルパン三世.md "wikilink")』専門の公式雑誌・情報誌である。略称は『ルパマガ』。

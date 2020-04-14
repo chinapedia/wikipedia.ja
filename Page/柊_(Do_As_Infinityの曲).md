@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[柊 \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/柊_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**柊**」（ひいらぎ）は、[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")。

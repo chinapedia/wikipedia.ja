@@ -1,4 +1,4 @@
-> この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
+> この記事は[E-ネットキャラバン](https://ja.wikipedia.org/wiki/E-ネットキャラバン)から翻訳されています。
 
 
 **e-ネットキャラバン**（イーネットキャラバン）は、[インターネット](../Page/インターネット.md "wikilink")の安心・安全利用に向けた啓発を行う趣旨で行われる「e-ネット安心講座」を行うキャラバン（出前講座）。[児童](../Page/児童.md "wikilink")・[生徒](https://ja.wikipedia.org/wiki/生徒 "wikilink")と接する機会の多い[保護者](../Page/保護者.md "wikilink")及び[教職員](https://ja.wikipedia.org/wiki/教職員 "wikilink")を主な対象としている。[講師の派遣に伴う謝金や交通費は原則的に不要](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")。[2005年](../Page/2005年.md "wikilink")度の関東地域及び東海地域での試行結果を基に、[2006年](../Page/2006年.md "wikilink")から全国47都道府県で実施された。当初は[2009年](../Page/2009年.md "wikilink")3月までとされていたが、その後も継続実施されている。

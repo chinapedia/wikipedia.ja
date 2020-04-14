@@ -1,4 +1,4 @@
-> この記事は[High!](https://ja.wikipedia.org/wiki/High!)から翻訳されています。
+> この記事は[High球!いんぷれっしょん](https://ja.wikipedia.org/wiki/High球!いんぷれっしょん)から翻訳されています。
 
 
 『**High球\!いんぷれっしょん**』（はいきゅういんぷれっしょん）は、[真三月司](https://ja.wikipedia.org/wiki/真三月司 "wikilink")が「[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")」にて[2001年](../Page/2001年.md "wikilink")4月号から同年11月号まで連載した漫画作品、全2巻。

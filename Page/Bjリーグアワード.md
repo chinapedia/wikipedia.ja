@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグアワード](https://ja.wikipedia.org/wiki/Bjリーグアワード)から翻訳されています。
 
 
 **bjリーグアワード**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロバスケットボール](../Page/バスケットボール.md "wikilink")・[bjリーグにおける賞である](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")。

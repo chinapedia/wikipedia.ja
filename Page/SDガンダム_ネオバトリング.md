@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム ネオバトリング](https://ja.wikipedia.org/wiki/SDガンダム_ネオバトリング)から翻訳されています。
 
 
 **SDガンダム ネオバトリング**は[1992年](../Page/1992年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[アルュメ](https://ja.wikipedia.org/wiki/アルュメ "wikilink")が開発、バンプレスト（現在は[バンダイナムコエンタテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。

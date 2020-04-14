@@ -1,4 +1,4 @@
-> この記事は[Baby Don\'t Cry \(\)](https://ja.wikipedia.org/wiki/Baby_Don\'t_Cry_\(\))から翻訳されています。
+> この記事は[Baby Don\'t Cry \(安室奈美恵の曲\)](https://ja.wikipedia.org/wiki/Baby_Don\'t_Cry_\(安室奈美恵の曲\))から翻訳されています。
 
 
 「**Baby Don't Cry**」（ベイビー・ドント・クライ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では32枚目のシングル。

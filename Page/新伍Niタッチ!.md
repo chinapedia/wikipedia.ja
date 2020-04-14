@@ -1,4 +1,4 @@
-> この記事は[Ni!](https://ja.wikipedia.org/wiki/Ni!)から翻訳されています。
+> この記事は[新伍Niタッチ!](https://ja.wikipedia.org/wiki/新伍Niタッチ!)から翻訳されています。
 
 
 『**新伍Niタッチ\!**』（しんごにタッチ）は、[1991年](../Page/1991年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、[毎日放送の制作により](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[TBS系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 13:00 - 13:54（[JST](../Page/日本標準時.md "wikilink")）。[毎日放送千里丘放送センター](../Page/毎日放送千里丘放送センター.md "wikilink")のスタジオから[生放送](../Page/生放送.md "wikilink")されていた。

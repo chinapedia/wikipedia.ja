@@ -1,4 +1,4 @@
-> この記事は[Strawberry Panic \(\)](https://ja.wikipedia.org/wiki/Strawberry_Panic_\(\))から翻訳されています。
+> この記事は[Strawberry Panic \(アニメ\)](https://ja.wikipedia.org/wiki/Strawberry_Panic_\(アニメ\))から翻訳されています。
 
 
 **Strawberry Panic**（ストロベリー・パニック）は、[2006年](../Page/2006年.md "wikilink")4月より9月まで[tvk他の](../Page/テレビ神奈川.md "wikilink")[UHF局](../Page/UHF局.md "wikilink")及び[キッズステーション](../Page/キッズステーション.md "wikilink")（CS放送）で放送された[アニメ](../Page/アニメ.md "wikilink")作品。全26話。

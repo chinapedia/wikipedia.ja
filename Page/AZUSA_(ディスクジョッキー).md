@@ -1,4 +1,4 @@
-> この記事は[AZUSA \(\)](https://ja.wikipedia.org/wiki/AZUSA_\(\))から翻訳されています。
+> この記事は[AZUSA \(ディスクジョッキー\)](https://ja.wikipedia.org/wiki/AZUSA_\(ディスクジョッキー\))から翻訳されています。
 
 
 **AZUSA**（アズサ、旧名：**千駄 あずさ**、[1973年](../Page/1973年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") - ）は日本の[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")を中心に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。拠点は名古屋であるが、[東京に本社を持つ](../Page/東京都.md "wikilink")「[サンディ](../Page/サンディ_\(芸能事務所\).md "wikilink")」に所属している。
@@ -11,6 +11,10 @@
 
 ## 出演番組
 
+### 現在の担当番組（ZIP-FM）
+
+  - otonationary（2019年4月～）
+
 ### 過去の担当番組（FM AICHI）
 
   - [ラブ・オンライン](../Page/ラブ・オンライン.md "wikilink")（2001年4月〜2007年3月30日）
@@ -22,11 +26,7 @@
   - SATURDAY PRIME EMOTION（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
   - [FIND OUT](https://ja.wikipedia.org/wiki/FIND_OUT "wikilink")（[2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜[2016年](../Page/2016年.md "wikilink")3月）
   - BEAUTIFUL LOUNGE（[2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")〜2018年3月）
-
-### 現在の担当番組（ZIP-FM）
-
   - casual,usual（2018年4月～2019年3月）
-  - otonationary（2019年4月～）
 
 ## 関連項目
 

@@ -901,7 +901,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
   - Portable（[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - Zero -International 7th Dance Floor-（PSP）
   - H5 ([ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink"))
-  - M ([Google Play](https://ja.wikipedia.org/wiki/Google_Play "wikilink"))
+  - M -Mobile Edition- ([Google Play](https://ja.wikipedia.org/wiki/Google_Play "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"))
 
 ## 訳注
 

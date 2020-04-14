@@ -1,4 +1,4 @@
-> この記事は[ \(Something ELse\)](https://ja.wikipedia.org/wiki/_\(Something_ELse\))から翻訳されています。
+> この記事は[あいのうた \(Something ELseの曲\)](https://ja.wikipedia.org/wiki/あいのうた_\(Something_ELseの曲\))から翻訳されています。
 
 
 「**あいのうた**」は、[Something ELseの](../Page/Something_ELse.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。

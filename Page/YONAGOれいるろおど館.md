@@ -1,4 +1,4 @@
-> この記事は[YONAGO](https://ja.wikipedia.org/wiki/YONAGO)から翻訳されています。
+> この記事は[YONAGOれいるろおど館](https://ja.wikipedia.org/wiki/YONAGOれいるろおど館)から翻訳されています。
 
 
 **YONAGOれいるろおど館**（よなごれいるろおどかん）は、[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")の元町商店街にあった鉄道ミニ博物施設。

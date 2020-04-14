@@ -1,4 +1,4 @@
-> この記事は[Far East Cafe \(\)](https://ja.wikipedia.org/wiki/Far_East_Cafe_\(\))から翻訳されています。
+> この記事は[Far East Cafe \(アルバム\)](https://ja.wikipedia.org/wiki/Far_East_Cafe_\(アルバム\))から翻訳されています。
 
 
 『**Far East Café**』（ファー・イースト・カフェ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")に発売された[小田和正](../Page/小田和正.md "wikilink")通算3作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

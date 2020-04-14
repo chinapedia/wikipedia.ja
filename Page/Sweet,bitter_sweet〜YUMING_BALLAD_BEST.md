@@ -1,4 +1,4 @@
-> この記事は[Sweet,bitter sweetYUMING BALLAD BEST](https://ja.wikipedia.org/wiki/Sweet,bitter_sweetYUMING_BALLAD_BEST)から翻訳されています。
+> この記事は[Sweet,bitter sweet〜YUMING BALLAD BEST](https://ja.wikipedia.org/wiki/Sweet,bitter_sweet〜YUMING_BALLAD_BEST)から翻訳されています。
 
 
 『**sweet, bitter sweet〜YUMING BALLAD BEST**』（スウィート・ビター・スウィート～ユーミン・バラッド・ベスト）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）初のバラード・セレクション・アルバム。2001年11月14日に[東芝EMIより発売された](../Page/EMIミュージック・ジャパン.md "wikilink")（TOCT-24701/24702）。

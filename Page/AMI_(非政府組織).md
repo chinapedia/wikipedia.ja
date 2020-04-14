@@ -1,4 +1,4 @@
-> この記事は[AMI \(\)](https://ja.wikipedia.org/wiki/AMI_\(\))から翻訳されています。
+> この記事は[AMI \(非政府組織\)](https://ja.wikipedia.org/wiki/AMI_\(非政府組織\))から翻訳されています。
 
 
 **AMI**（アミ、Animation, Manga, Interactive-game）は、[表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")を擁護する観点より、法律による創作表現規制に反対する活動を行ってきた日本の[非政府組織](../Page/非政府組織.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")、任意団体として**連絡網AMI**が発足。[2002年](../Page/2002年.md "wikilink")11月、組織を再編して**NGO-AMI**と改称した。[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")解散。代表は当初は[八的暁](../Page/八的暁.md "wikilink")、のちに[2004年](../Page/2004年.md "wikilink")に[兼光ダニエル真](https://ja.wikipedia.org/wiki/兼光ダニエル真 "wikilink")に交代した。
@@ -72,8 +72,10 @@
 ## 外部リンク
 
   - [連絡網AMI-Web](http://web.archive.org/web/20140529104513/http://picnic.to/~ami/index.htm)
+
   - [AMI19板](http://jbbs.shitaraba.net/news/648/)（連絡網AMIの掲示板。現在はアーカイブとして残っている）
-  - [児ポ法改悪阻止・青環法粉砕実行委員会](http://www.geocities.co.jp/AnimeComic-Tone/9018/main.html)
+
+  -
   - [AFEE エンターテイメント表現の自由の会](http://afee.jp/)
 
 [Category:表現規制問題に関連する団体](https://ja.wikipedia.org/wiki/Category:表現規制問題に関連する団体 "wikilink") [Category:日本の非政府組織](https://ja.wikipedia.org/wiki/Category:日本の非政府組織 "wikilink") [Category:日本の社会運動団体](https://ja.wikipedia.org/wiki/Category:日本の社会運動団体 "wikilink")

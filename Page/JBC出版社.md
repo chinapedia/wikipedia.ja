@@ -1,4 +1,4 @@
-> この記事は[JBC](https://ja.wikipedia.org/wiki/JBC)から翻訳されています。
+> この記事は[JBC出版社](https://ja.wikipedia.org/wiki/JBC出版社)から翻訳されています。
 
 
 **JBC出版社**（**Editora JBC**, 通称**JBC**）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")と[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で事業を展開している出版社である。

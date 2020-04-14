@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ジェームス・J・ブラドック](https://ja.wikipedia.org/wiki/ジェームス・J・ブラドック)から翻訳されています。
 
 
 **ジェームス・J・ブラドック**または**ジム・ブラドック**（**James J. Braddock**、[1905年](../Page/1905年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink") - [1974年](../Page/1974年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")）は、[アイルランド](../Page/アイルランド.md "wikilink")系[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")[プロボクサー](../Page/プロボクサー.md "wikilink")。本名は**ジェームス・ウォルター・ブラドック**といい、リングネームの*J*は[ジェームス・J・コーベット](../Page/ジェームス・J・コーベット.md "wikilink")と[ジェームス・J・ジェフリーズ](https://ja.wikipedia.org/wiki/ジェームス・J・ジェフリーズ "wikilink")という2人の元世界王者の名前から来ている。史上最も大きな番狂わせを起こして世界王者になったボクサーとして知られており、2005年にはその試合を描いた映画『[シンデレラマン](../Page/シンデレラマン.md "wikilink")』が制作された。

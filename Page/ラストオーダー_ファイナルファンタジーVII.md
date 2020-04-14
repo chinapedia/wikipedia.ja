@@ -1,4 +1,4 @@
-> この記事は[ VII](https://ja.wikipedia.org/wiki/_VII)から翻訳されています。
+> この記事は[ラストオーダー ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ラストオーダー_ファイナルファンタジーVII)から翻訳されています。
 
 
 **『ラストオーダー -ファイナルファンタジーVII-**』（ラストオーダー ファイナルファンタジーセブン、LAST ORDER -FINAL FANTASY VII-、略称：**LO FFVII**、**LO FF7**）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")発売の『[ファイナルファンタジーVII アドベントチルドレン](../Page/ファイナルファンタジーVII_アドベントチルドレン.md "wikilink")』の限定ボックス「ADVENT PIECES: LIMITED」に付属された[OVA](../Page/OVA.md "wikilink")作品である。2005年9月14日発売。25分。

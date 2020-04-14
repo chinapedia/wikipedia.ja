@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[TOKYOアフタヌーンサプリ](https://ja.wikipedia.org/wiki/TOKYOアフタヌーンサプリ)から翻訳されています。
 
 
 **TOKYOアフタヌーンサプリ**（とうきょうアフタヌーンサプリ）は、[2004年](../Page/2004年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")までの間、[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")で、平日午後枠に放送されていた昼の情報番組である。朝の情報番組「[TOKYOモーニングサプリ](../Page/TOKYOモーニングサプリ.md "wikilink")」とは姉妹関係であった。

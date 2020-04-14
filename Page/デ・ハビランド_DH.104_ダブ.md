@@ -1,4 +1,4 @@
-> この記事は[ DH.104 ](https://ja.wikipedia.org/wiki/_DH.104_)から翻訳されています。
+> この記事は[デ・ハビランド DH.104 ダブ](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.104_ダブ)から翻訳されています。
 
 
 [De_Havilland_DH-104_Dove_(D-IFSA).jpg](https://ja.wikipedia.org/wiki/File:De_Havilland_DH-104_Dove_\(D-IFSA\).jpg "fig:De_Havilland_DH-104_Dove_(D-IFSA).jpg")撮影）\]\] **DH.104 ダヴ**（*de Havilland DH.104 Dove*）とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[航空機](../Page/航空機.md "wikilink")メーカーであった[デ・ハヴィランドが開発した](../Page/デ・ハビランド・エアクラフト.md "wikilink")[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")双発小型旅客機である。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[Cメール](https://ja.wikipedia.org/wiki/Cメール)から翻訳されています。
 
 
 **Cメール**（英文：**C-Mail**、**C-mail**）は、[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")のau携帯電話同士で、[電話番号](../Page/電話番号.md "wikilink")により2017年5月以降発売の4G LTEスマートフォン / 4G LTEケータイでは最大[全角](https://ja.wikipedia.org/wiki/全角 "wikilink")670文字（および[半角](https://ja.wikipedia.org/wiki/半角 "wikilink")1530文字）、その他の機種は最大全角70文字（および半角140文字）の送受信、他社携帯電話への送信時は、全角70文字（半角160文字）までの[メール](https://ja.wikipedia.org/wiki/メール "wikilink")が送る事が出来る[ショートメッセージサービス](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")（SMS）である。古い機種の場合、全角50文字（および半角100文字）までしか送受信できない。なお、[2012年](../Page/2012年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")のauロゴマーク変更後は、**SMS(Cメール)**として紹介されている。

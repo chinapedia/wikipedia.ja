@@ -1,4 +1,4 @@
-> この記事は[Crossfire \(\)](https://ja.wikipedia.org/wiki/Crossfire_\(\))から翻訳されています。
+> この記事は[Crossfire \(ゲーム\)](https://ja.wikipedia.org/wiki/Crossfire_\(ゲーム\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Crossfiregame.jpg "wikilink") **Crossfire**（クロスファイア）は、[オープンソース](../Page/オープンソース.md "wikilink")の[MMORPG](../Page/MMORPG.md "wikilink") である。タイル・ベースのグラフィックシステム、現実のように伝染する疫病、数多くの魔法、いくつかの街からなる広大な世界、などの特徴をもつ。

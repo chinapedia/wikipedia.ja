@@ -1,4 +1,4 @@
-> この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
+> この記事は[魍魎戦記MADARA摩陀羅弐](https://ja.wikipedia.org/wiki/魍魎戦記MADARA摩陀羅弐)から翻訳されています。
 
 
 **魍魎戦記MADARA摩陀羅弐**（もうりょうせんきマダラ2）は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[カセットテープ](../Page/カセットテープ.md "wikilink")等で展開した、[魍魎戦記MADARA](../Page/魍魎戦記MADARA.md "wikilink")の続編。正式には魍魎戦記MADARAのコミックス5巻から7巻の第2部を指し、摩陀羅弐というのは副題である。後に田島の意向で改題されて『BASARA』として復刊。2018年版の復刊でも他のシリーズが『魍魎戦記MADARA～』と続くのに対し『**魍魎戦記摩陀羅BASARA』**となっている。原作・[大塚英志](../Page/大塚英志.md "wikilink")、画・[田島昭宇](../Page/田島昭宇.md "wikilink")。

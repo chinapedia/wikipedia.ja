@@ -417,15 +417,16 @@ AT-Xでは2007年12月2日と8日に、第1話と第2話が先行放送された
 
 <!-- end list -->
 
-  - Cloudier sky（OP主題歌）/歌：[彩音](../Page/彩音.md "wikilink") 2008年1月25日発売
+  - [cloudier sky](https://ja.wikipedia.org/wiki/cloudier_sky "wikilink")（OP主題歌）/歌：[彩音](../Page/彩音.md "wikilink") 2008年1月25日発売
   - 篝火（ED主題歌）/歌：[KAORI](../Page/KAORI..md "wikilink") 2008年2月27日発売
-  - Characters Vol.1 蒼き光の果て/歌：夜明エイム（[水樹奈々](../Page/水樹奈々.md "wikilink")） 2008年2月8日発売
-  - Characters Vol.2 それだけで…よかった。/歌：牧原和泉（[野川さくら](../Page/野川さくら.md "wikilink")） 2008年2月8日発売
-  - Characters Vol.3 メトロノーム/歌：薬師寺陽愛（[松来未祐](../Page/松来未祐.md "wikilink")） 2008年2月8日発売
-  - Characters Vol.4 little heavenly princess/歌：パム・ウェルヌ・アサクラ（[清水愛](../Page/清水愛.md "wikilink")） 2008年2月27日発売
-  - Characters Vol.5 I will follow You/歌：夜明アキノ（[雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")） 2008年3月5日発売
+  - TVアニメーション「AYAKASHI」
+      - Characters Vol.1 夜明エイム（[水樹奈々](../Page/水樹奈々.md "wikilink")）、「蒼き光の果て」2008年2月8日発売
+      - Characters Vol.2 牧原和泉（[野川さくら](../Page/野川さくら.md "wikilink")）、「それだけで…よかった。」2008年2月8日発売
+      - Characters Vol.3 薬師寺陽愛（[松来未祐](../Page/松来未祐.md "wikilink")）、「メトロノーム」2008年2月8日発売
+      - Characters Vol.4 パム・ウェルヌ・アサクラ（[清水愛](../Page/清水愛.md "wikilink")）、「little heavenly princess」2008年2月27日発売
+      - Characters Vol.5 夜明アキノ（[雪野五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")）、「I will follow you」2008年3月5日発売
   - オリジナルサウンドトラック/音楽：細井聡司 2008年3月25日発売
-  - ドラマCD 2008年3月25日発売
+  - TVアニメーション「AYAKASHI」Drama CD 2008年3月25日発売
 
 <!-- end list -->
 

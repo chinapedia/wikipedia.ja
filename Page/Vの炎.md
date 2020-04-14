@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vの炎](https://ja.wikipedia.org/wiki/Vの炎)から翻訳されています。
 
 
 『**Vの炎**』（ブイのほのお）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[10月9日](../Page/10月9日.md "wikilink")から同年[11月2日](../Page/11月2日.md "wikilink")まで、[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全25回。[V6がメンバー全員で初主演した作品である](../Page/V6_\(グループ\).md "wikilink")。

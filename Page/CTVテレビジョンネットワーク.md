@@ -1,4 +1,4 @@
-> この記事は[CTV](https://ja.wikipedia.org/wiki/CTV)から翻訳されています。
+> この記事は[CTVテレビジョンネットワーク](https://ja.wikipedia.org/wiki/CTVテレビジョンネットワーク)から翻訳されています。
 
 
 **CTVテレビジョンネットワーク**（英語：CTV Television Network）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の最大の民放テレビ[ネットワーク](../Page/ネットワーク_\(放送\).md "wikilink")。公式的には「CTV」は何の略でもないことになっているが、ほとんどの視聴者は「Canadian Television」の略であると捉えられている。大手通信会社の[ベル・カナダ](../Page/ベル・カナダ.md "wikilink")（Bell Canada）も持株会社BCE社の傘下にあるベル・メディアが親会社となっている。

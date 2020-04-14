@@ -1,4 +1,4 @@
-> この記事は[Week](https://ja.wikipedia.org/wiki/Week)から翻訳されています。
+> この記事は[ダービーWeek](https://ja.wikipedia.org/wiki/ダービーWeek)から翻訳されています。
 
 
 **ダービーシリーズ**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[地方競馬](../Page/地方競馬.md "wikilink")における企画であり、地方競馬の8主催者の「[ダービー](https://ja.wikipedia.org/wiki/ダービー_\(競馬\) "wikilink")」にあたる[競走を短期集中開催するものである](../Page/競馬の競走.md "wikilink")\[1\]。
@@ -21,8 +21,8 @@
 
 ## 対象競走
 
-  - 施行条件等は2019年のものによる。
-  - 順序は2019年の施行日による（施行日そのものは[施行日節を参照](https://ja.wikipedia.org/wiki/#施行日 "wikilink")）。
+  - 施行条件等は2020年のものによる。
+  - 順序は2020年の施行日による（施行日そのものは[施行日節を参照](https://ja.wikipedia.org/wiki/#施行日 "wikilink")）。
   - コースはすべて[ダート](../Page/ダート.md "wikilink")。
 
 <table>
@@ -59,26 +59,27 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/東北優駿.md" title="wikilink">東北優駿</a>（岩手ダービー）</p></td>
+<td><p><a href="../Page/盛岡競馬場.md" title="wikilink">盛岡</a></p></td>
+<td><p>M1</p></td>
+<td><p>2,000m</p></td>
+<td><p>2006年から2018年までは「<a href="https://ja.wikipedia.org/wiki/ダイヤモンドカップ" title="wikilink">岩手ダービーダイヤモンドカップ</a>」が対象競走であった。<br />
+2019年は水沢競馬場2,000mで施行。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/東海ダービー.md" title="wikilink">東海ダービー</a></p></td>
+<td><p><a href="../Page/名古屋競馬場.md" title="wikilink">名古屋</a></p></td>
+<td><p>SPI</p></td>
+<td><p>1,900m</p></td>
+<td><p>かつては東海・北陸・中国交流競走だった。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/兵庫ダービー.md" title="wikilink">兵庫ダービー</a></p></td>
 <td><p><a href="../Page/園田競馬場.md" title="wikilink">園田</a></p></td>
 <td><p>重賞</p></td>
 <td><p>1,870m</p></td>
 <td><p>2009年は<a href="../Page/姫路競馬場.md" title="wikilink">姫路競馬場</a>1,800mで施行。<br />
 2010年は姫路競馬場2,000mで施行。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/東北優駿.md" title="wikilink">東北優駿</a>（岩手ダービー）</p></td>
-<td><p><a href="../Page/水沢競馬場.md" title="wikilink">水沢</a></p></td>
-<td><p>M1</p></td>
-<td><p>2,000m</p></td>
-<td><p>2006年から2018年までは「<a href="https://ja.wikipedia.org/wiki/ダイヤモンドカップ" title="wikilink">岩手ダービーダイヤモンドカップ</a>」が対象競走であった。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/東海ダービー.md" title="wikilink">東海ダービー</a></p></td>
-<td><p><a href="../Page/名古屋競馬場.md" title="wikilink">名古屋</a></p></td>
-<td><p>SPI</p></td>
-<td><p>1,900m</p></td>
-<td><p>かつては東海・北陸・中国交流競走だった。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高知優駿.md" title="wikilink">高知優駿</a></p></td>
@@ -124,6 +125,7 @@
 | 2017年 | 5月28日 | 6月11日 | 6月1日  | 6月7日 | 6月15日 | 6月6日  | 6月18日 | 6月20日 |
 | 2018年 | 5月27日 | 6月10日 | 6月20日 | 6月6日 | 6月7日  | 6月5日  | 6月17日 | 5月29日 |
 | 2019年 | 5月26日 | 6月9日  | 6月19日 | 6月5日 | 6月6日  | 6月11日 | 6月16日 | 6月4日  |
+| 2020年 | 5月31日 | 6月7日  | 6月18日 | 6月3日 | 6月11日 | 6月9日  | 6月14日 | 6月2日  |
 
 ## スタリオン賞
 
@@ -291,6 +293,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/リアルスティール" title="wikilink">リアルスティール</a></p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アジアエクスプレス" title="wikilink">アジアエクスプレス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニューイヤーズデイ" title="wikilink">ニューイヤーズデイ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ホッコータルマエ" title="wikilink">ホッコータルマエ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロジャーバローズ" title="wikilink">ロジャーバローズ</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -21,10 +21,18 @@
 3.  **No Regret-[Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")**(4:28)
 4.  **Rain-Album Version Instrumental**(5:09)
 
+## 収録アルバム
+
+  - No Regret
+
+<!-- end list -->
+
+  - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
+
 ## 出典
 
 ## 外部リンク
 
-  - [avex networkによる紹介ページ](http://avexnet.jp/id/kohda/discography/product/RZCD-45307.html)
+  - [公式サイト作品紹介ページ No Regret](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004184)
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:うえきの法則](https://ja.wikipedia.org/wiki/Category:うえきの法則 "wikilink") [Category:h-wonderが制作した楽曲](https://ja.wikipedia.org/wiki/Category:h-wonderが制作した楽曲 "wikilink") [Category:楽曲_の](https://ja.wikipedia.org/wiki/Category:楽曲_の "wikilink")

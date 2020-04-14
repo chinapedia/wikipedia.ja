@@ -1,4 +1,4 @@
-> この記事は[MMT1](https://ja.wikipedia.org/wiki/MMT1)から翻訳されています。
+> この記事は[MMTニュースプラス1](https://ja.wikipedia.org/wiki/MMTニュースプラス1)から翻訳されています。
 
 
 『**MMTニュースプラス1**』（エムエムティーニュースプラスワン）は、[ミヤギテレビで放送された夕方の](../Page/宮城テレビ放送.md "wikilink")[ローカル](../Page/ローカル番組.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")（『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカル扱い）である。

@@ -1,4 +1,4 @@
-> この記事は[Livedoor ](https://ja.wikipedia.org/wiki/Livedoor_)から翻訳されています。
+> この記事は[Livedoor キーワード](https://ja.wikipedia.org/wiki/Livedoor_キーワード)から翻訳されています。
 
 
 **livedoor キーワード**（ライブドア-）は、株式会社[ライブドア](../Page/ライブドア.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に開始した[データベース](../Page/データベース.md "wikilink")サービス。 似顔絵選手権を開催し、広く[似顔絵](../Page/似顔絵.md "wikilink")を集めていた。

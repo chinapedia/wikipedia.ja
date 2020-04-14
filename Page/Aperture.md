@@ -7,6 +7,8 @@
 
 2014年6月末にアップルがApertureの開発中止を発表したと報道された。\[1\]\[2\]
 
+2020年、アップルは「技術上の理由から、[macOS MojaveがApertureを実行できる最終バージョンのmacOS](https://ja.wikipedia.org/wiki/macOS_Mojave "wikilink")」であり、「[macOS Catalina以降のmacOS](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink") には、Apertureとの互換性は無い」ことをアナウンスした\[3\]。
+
 ## バージョン履歴
 
   - 1.0〜1.1
@@ -55,3 +57,4 @@
 
 1.  [Apple stops development of Aperture](http://www.loopinsight.com/2014/06/27/apple-stops-development-of-aperture)
 2.  [ApertureからLightroomへの移行について](http://blogs.adobe.com/photoshopjapan/2014/08/21/aperture_switch/)
+3.  [Aperture のライブラリを写真 App または Adobe Lightroom Classic に移行する](https://support.apple.com/ja-jp/HT209594)

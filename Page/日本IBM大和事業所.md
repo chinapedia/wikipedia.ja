@@ -1,4 +1,4 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[日本IBM大和事業所](https://ja.wikipedia.org/wiki/日本IBM大和事業所)から翻訳されています。
 
 
 **日本IBM大和事業所**（にほんアイビーエムやまとじぎょうしょ）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[大和市](../Page/大和市.md "wikilink")（大和市下鶴間1623-14\[1\]）にかつて（1985年～2012年）存在した、[日本アイ・ビー・エム](../Page/日本アイ・ビー・エム.md "wikilink")（米国[IBM](../Page/IBM.md "wikilink")の日本法人）の事業所。

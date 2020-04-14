@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[オットー・M・シュワルツ](https://ja.wikipedia.org/wiki/オットー・M・シュワルツ)から翻訳されています。
 
 
 **オットー・M・シュワルツ**（**Otto M. Schwarz**, [1967年](../Page/1967年.md "wikilink") - ）は、[オーストリア](../Page/オーストリア.md "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[指揮者](../Page/指揮者.md "wikilink")。[吹奏楽](../Page/吹奏楽.md "wikilink")曲から[ジャズ](../Page/ジャズ.md "wikilink")作品に至るまで、様々なジャンルの曲を作曲している。

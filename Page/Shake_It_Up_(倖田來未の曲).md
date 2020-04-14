@@ -1,4 +1,4 @@
-> この記事は[Shake It Up \(\)](https://ja.wikipedia.org/wiki/Shake_It_Up_\(\))から翻訳されています。
+> この記事は[Shake It Up \(倖田來未の曲\)](https://ja.wikipedia.org/wiki/Shake_It_Up_\(倖田來未の曲\))から翻訳されています。
 
 
 「**Shake It Up**」（シェイク イット アップ）は、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の22枚目のシングルである。
@@ -20,5 +20,9 @@
 <!-- end list -->
 
   - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ Shake It Up](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004180)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")

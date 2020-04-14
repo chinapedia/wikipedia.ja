@@ -1,4 +1,4 @@
-> この記事は[NOA](https://ja.wikipedia.org/wiki/NOA)から翻訳されています。
+> この記事は[海の大陸NOA](https://ja.wikipedia.org/wiki/海の大陸NOA)から翻訳されています。
 
 
 『**海の大陸NOA**』（うみのたいりくのあ）は[じゅきあきらの](../Page/じゅきあきら・T・.md "wikilink")[コミックボンボン](../Page/コミックボンボン.md "wikilink")連載のギャグ漫画作品。続編の『**海の大陸NOA+**』（ - プラス）、『**海の大陸NOA×**\[1\]』（ - カケル）についても本稿で記述する。

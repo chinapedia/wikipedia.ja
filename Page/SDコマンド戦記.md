@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDコマンド戦記](https://ja.wikipedia.org/wiki/SDコマンド戦記)から翻訳されています。
 
 
 **SDコマンド戦記**（エスディーコマンドせんき）は、[バンダイ](../Page/バンダイ.md "wikilink")のプラモデルを中心とした玩具企画。[SDガンダム](../Page/SDガンダム.md "wikilink")の一つである。

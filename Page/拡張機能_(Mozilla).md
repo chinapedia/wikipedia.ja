@@ -1,4 +1,4 @@
-> この記事は[ \(Mozilla\)](https://ja.wikipedia.org/wiki/_\(Mozilla\))から翻訳されています。
+> この記事は[拡張機能 \(Mozilla\)](https://ja.wikipedia.org/wiki/拡張機能_\(Mozilla\))から翻訳されています。
 
 
 [Mozillaのソフトウェアにおける拡張機能とは](../Page/Mozilla_Foundation.md "wikilink")、[Mozilla Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Mozilla Thunderbirdなどで利用できる](../Page/Mozilla_Thunderbird.md "wikilink")[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")のうち、ソフトウェアに機能を追加したり、既存の機能を変更したりするものである\[1\]。

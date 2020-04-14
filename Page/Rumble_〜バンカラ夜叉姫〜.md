@@ -1,4 +1,4 @@
-> この記事は[Rumble ](https://ja.wikipedia.org/wiki/Rumble_)から翻訳されています。
+> この記事は[Rumble 〜バンカラ夜叉姫〜](https://ja.wikipedia.org/wiki/Rumble_〜バンカラ夜叉姫〜)から翻訳されています。
 
 
 『**Rumble 〜バンカラ夜叉姫〜**』（ランブル 〜バンカラやしゃひめ〜）は、2000年4月14日に[ペンギンワークス](https://ja.wikipedia.org/wiki/ペンギンワークス "wikilink")から発売されたWindows95/98用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

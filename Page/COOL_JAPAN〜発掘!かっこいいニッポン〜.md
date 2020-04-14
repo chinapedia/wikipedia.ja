@@ -1,11 +1,11 @@
-> この記事は[COOL JAPAN!](https://ja.wikipedia.org/wiki/COOL_JAPAN!)から翻訳されています。
+> この記事は[COOL JAPAN〜発掘!かっこいいニッポン〜](https://ja.wikipedia.org/wiki/COOL_JAPAN〜発掘!かっこいいニッポン〜)から翻訳されています。
 
 
 『**COOL JAPAN〜発掘\!かっこいいニッポン〜**』（クールジャパンはっくつ\!かっこいいニッポン）は、[NHK衛星放送テレビジョンで放送されている](../Page/NHK-BS.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 概要
 
-来日間もない[外国人](../Page/外国人.md "wikilink")の視点で[日本の文化](../Page/日本の文化.md "wikilink")を発掘する番組である。スタジオで話し合い、放送で紹介したものからクールなものを決定する。司会2人、ご意見番1人、来日間もない外国人8人程度で進行する。[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を始め、当初は[BShiと](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")[BS2で放送していたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、2011年4月9日から[BS1で放送している](../Page/NHK_BS1.md "wikilink")。2007年4月から[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")、2018年より[BS4Kでも放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
+[外国人](../Page/外国人.md "wikilink")の視点で[日本の文化](../Page/日本の文化.md "wikilink")を発掘する番組である。スタジオで話し合い、放送で紹介したものからクールなものを決定する。司会2人、ご意見番1人、外国人8人程度で進行する。[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を始め、当初は[BShiと](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")[BS2で放送していたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、2011年4月9日から[BS1で放送している](../Page/NHK_BS1.md "wikilink")。2007年4月から[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")、2018年より[BS4Kでも放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
 
 ## 放送時間
 

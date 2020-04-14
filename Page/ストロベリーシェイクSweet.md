@@ -1,4 +1,4 @@
-> この記事は[Sweet](https://ja.wikipedia.org/wiki/Sweet)から翻訳されています。
+> この記事は[ストロベリーシェイクSweet](https://ja.wikipedia.org/wiki/ストロベリーシェイクSweet)から翻訳されています。
 
 
 『**ストロベリーシェイクSweet**』（ストロベリーシェイクスイート）は、[林家志弦](../Page/林家志弦.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

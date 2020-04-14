@@ -1,4 +1,4 @@
-> この記事は[F2H \(\)](https://ja.wikipedia.org/wiki/F2H_\(\))から翻訳されています。
+> この記事は[F2H \(航空機\)](https://ja.wikipedia.org/wiki/F2H_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=F2H バンシー | 画像=画像:F2H_Banshee_VF-11_over_Wonsan_colour_1952.jpg | キャプション=飛行するF2H-2 125663号機

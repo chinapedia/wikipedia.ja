@@ -1,4 +1,4 @@
-> この記事は[Complete of  at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of__at_the_BEING_studio)から翻訳されています。
+> この記事は[Complete of 織田哲郎 at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_織田哲郎_at_the_BEING_studio)から翻訳されています。
 
 
 『**complete of 織田哲郎 at the BEING studio**』（コンプリート・オブ・おだてつろう・アト・ザ・ビーイング・ステューディオ）は、[織田哲郎](../Page/織田哲郎.md "wikilink")のアルバム。

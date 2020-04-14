@@ -1,4 +1,4 @@
-> この記事は[ Little Witch Parfait 2](https://ja.wikipedia.org/wiki/_Little_Witch_Parfait_2)から翻訳されています。
+> この記事は[ハートフルメモリーズ 〜Little Witch Parfait 2〜](https://ja.wikipedia.org/wiki/ハートフルメモリーズ_〜Little_Witch_Parfait_2〜)から翻訳されています。
 
 
 『**ハートフルメモリーズ 〜Little Witch Parfait 2〜**』（ハートフルメモリーズ リトル・ウィッチ パルフェ 2）は、2000年4月21日に[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[経営アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。

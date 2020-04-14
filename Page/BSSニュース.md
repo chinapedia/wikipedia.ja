@@ -1,4 +1,4 @@
-> この記事は[BSS](https://ja.wikipedia.org/wiki/BSS)から翻訳されています。
+> この記事は[BSSニュース](https://ja.wikipedia.org/wiki/BSSニュース)から翻訳されています。
 
 
 『**BSSニュース**』（ビーエスエスニュース）は、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ及びBSSラジオ）で放送されている[鳥取](../Page/鳥取県.md "wikilink")・[島根両県のニュース番組](../Page/島根県.md "wikilink")。[1991年](../Page/1991年.md "wikilink")9月までは『**山陰放送ニュース**』（さんいんほうそうニュース）と称していたが、愛称変更に伴い改題された。

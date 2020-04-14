@@ -295,7 +295,7 @@ SRCL-6962:通常盤</p></td>
 <tr class="even">
 <td><p>2nd mini</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/High_Pressure" title="wikilink">High Pressure</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/High_Pressure_(アルバム)" title="wikilink">High Pressure</a></strong></p></td>
 <td><p>SRCL-5964:初回生産限定盤<br />
 SRCL-5966:通常盤</p></td>
 <td></td>
@@ -332,7 +332,7 @@ SRCL-6749:通常盤</p></td>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/decadence" title="wikilink">decadence</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/decadence_(アルバム)" title="wikilink">decadence</a></strong></p></td>
 <td><p>SRCL-7060:初回生産限定盤<br />
 SRCL-7062:通常盤</p></td>
 <td></td>
@@ -341,7 +341,7 @@ SRCL-7062:通常盤</p></td>
 <tr class="odd">
 <td><p>4th mini</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/anthem" title="wikilink">anthem</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/anthem_(DOPING_PANDAのアルバム)" title="wikilink">anthem</a></strong></p></td>
 <td><p>SRCL-7143</p></td>
 <td><p>CD</p>
 <ol>

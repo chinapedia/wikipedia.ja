@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[元祖SDガンダム](https://ja.wikipedia.org/wiki/元祖SDガンダム)から翻訳されています。
 
 
 **元祖SDガンダム**（がんそエスディーガンダム）は、[バンダイ](../Page/バンダイ.md "wikilink")の玩具第1事業部が出していた[SDガンダム](../Page/SDガンダム.md "wikilink")の組み立て式玩具シリーズ。

@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q配サービス](https://ja.wikipedia.org/wiki/Q配サービス)から翻訳されています。
 
 
 **株式会社Q配サービス**（きゅうはいさーびす、*Qhai Service Co.,Ltd.*）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[運送](https://ja.wikipedia.org/wiki/運送 "wikilink")[会社](../Page/会社.md "wikilink")。運送業でありながら「[トラックを持たない運送会社](../Page/貨物自動車.md "wikilink")」として知られていた。

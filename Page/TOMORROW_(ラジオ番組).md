@@ -1,4 +1,4 @@
-> この記事は[TOMORROW \(\)](https://ja.wikipedia.org/wiki/TOMORROW_\(\))から翻訳されています。
+> この記事は[TOMORROW \(ラジオ番組\)](https://ja.wikipedia.org/wiki/TOMORROW_\(ラジオ番組\))から翻訳されています。
 
 
 **TOMORROW**（トゥモロー）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Pn](https://ja.wikipedia.org/wiki/Pn)から翻訳されています。
+> この記事は[Pn接合](https://ja.wikipedia.org/wiki/Pn接合)から翻訳されています。
 
 
 **pn接合**（pnせつごう、pn junction）とは、[半導体](../Page/半導体.md "wikilink")中で[P型半導体の領域と](https://ja.wikipedia.org/wiki/p型 "wikilink")[N型半導体の領域が接している部分を言う](https://ja.wikipedia.org/wiki/n型 "wikilink")。[整流](https://ja.wikipedia.org/wiki/整流 "wikilink")性、[エレクトロルミネセンス](https://ja.wikipedia.org/wiki/エレクトロルミネセンス "wikilink")、[光起電力効果](../Page/光起電力効果.md "wikilink")などの現象を示すほか、接合部には[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")や[正孔](../Page/正孔.md "wikilink")の不足する[空乏層](https://ja.wikipedia.org/wiki/空乏層 "wikilink")が発生する。これらの性質が[ダイオード](../Page/ダイオード.md "wikilink")や[トランジスタ](../Page/トランジスタ.md "wikilink")を始めとする各種の半導体素子で様々な形で応用されている。また[ショットキー接合](https://ja.wikipedia.org/wiki/ショットキー接合 "wikilink")の示す整流性も、pn接合と原理的に良く似る。

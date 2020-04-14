@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVムック・謎学の旅](https://ja.wikipedia.org/wiki/TVムック・謎学の旅)から翻訳されています。
 
 
 『**TVムック・謎学の旅**』（テレビムック・なぞがくのたび）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。[日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")\[1\]の一社提供。日本テレビ系列局では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送。

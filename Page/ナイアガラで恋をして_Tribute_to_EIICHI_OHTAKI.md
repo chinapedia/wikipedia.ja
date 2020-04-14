@@ -1,4 +1,4 @@
-> この記事は[ Tribute to EIICHI OHTAKI](https://ja.wikipedia.org/wiki/_Tribute_to_EIICHI_OHTAKI)から翻訳されています。
+> この記事は[ナイアガラで恋をして Tribute to EIICHI OHTAKI](https://ja.wikipedia.org/wiki/ナイアガラで恋をして_Tribute_to_EIICHI_OHTAKI)から翻訳されています。
 
 
 『'''ナイアガラで恋をして Tribute to EIICHI OHTAKI '''』（ナイアガラでこいをして トリビュート・トゥー・エイイチ・オオタキ）は、[2002年](../Page/2002年.md "wikilink")にリリースされた、[大瀧詠一](../Page/大瀧詠一.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。

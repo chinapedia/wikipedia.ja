@@ -1,4 +1,4 @@
-> この記事は[33SUN](https://ja.wikipedia.org/wiki/33SUN)から翻訳されています。
+> この記事は[3・3・SUNフリーきっぷ](https://ja.wikipedia.org/wiki/3・3・SUNフリーきっぷ)から翻訳されています。
 
 
 **3・3・SUNフリーきっぷ**（さん・さん・さんふりーきっぷ）は、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")（名鉄）・[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）・[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）の3[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")が販売していた全線[乗車券](../Page/乗車券.md "wikilink")（[周遊券](https://ja.wikipedia.org/wiki/周遊券 "wikilink")の一種）である。類似の**ワイド3・3・SUNフリーきっぷ**についても本項目で記す。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の発売以来、鉄道ファンを始めとする多くの人に親しまれてきたが、[2006年](../Page/2006年.md "wikilink")の夏季を持って発売を終了した。

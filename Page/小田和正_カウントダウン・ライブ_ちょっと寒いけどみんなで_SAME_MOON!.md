@@ -1,4 +1,4 @@
-> この記事は[   SAME MOON!](https://ja.wikipedia.org/wiki/___SAME_MOON!)から翻訳されています。
+> この記事は[小田和正 カウントダウン・ライブ ちょっと寒いけどみんなで SAME MOON!](https://ja.wikipedia.org/wiki/小田和正_カウントダウン・ライブ_ちょっと寒いけどみんなで_SAME_MOON!)から翻訳されています。
 
 
 『**小田和正カウントダウン・ライブ ちょっと寒いけどみんなでSAME MOON\!**』（おだかずまさカウントダウン・ライブ ちょっとさむいけどみんなでセイム・ムーン）は、[2001年](../Page/2001年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")2作目の[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")作品（屋外ライブ映像）。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
@@ -78,4 +78,4 @@
 32. **same moon（未発表曲）**
       - （佐橋佳幸を除く出演者全員で）
 
-[Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:2001年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2001年の音楽関連の映像作品 "wikilink") [Category:横浜・八景島シーパラダイス](https://ja.wikipedia.org/wiki/Category:横浜・八景島シーパラダイス "wikilink") [Category:小田和正の映像作品](https://ja.wikipedia.org/wiki/Category:小田和正の映像作品 "wikilink") [Category:SMEJの映像作品](https://ja.wikipedia.org/wiki/Category:SMEJの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:2000年のコンサート](https://ja.wikipedia.org/wiki/Category:2000年のコンサート "wikilink") [Category:2001年のコンサート](https://ja.wikipedia.org/wiki/Category:2001年のコンサート "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:横浜・八景島シーパラダイス](https://ja.wikipedia.org/wiki/Category:横浜・八景島シーパラダイス "wikilink") [Category:小田和正の映像作品](https://ja.wikipedia.org/wiki/Category:小田和正の映像作品 "wikilink") [Category:SMEJの映像作品](https://ja.wikipedia.org/wiki/Category:SMEJの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

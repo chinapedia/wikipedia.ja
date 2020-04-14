@@ -1,4 +1,4 @@
-> この記事は[VIII](https://ja.wikipedia.org/wiki/VIII)から翻訳されています。
+> この記事は[三國志VIII](https://ja.wikipedia.org/wiki/三國志VIII)から翻訳されています。
 
 
 『**三國志VIII**』（さんごくし・エイト）は、2001年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第8作。音楽は[長谷部徹が担当](../Page/長谷部徹_\(作曲家\).md "wikilink")。

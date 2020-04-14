@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ホーミ・J・バーバー](https://ja.wikipedia.org/wiki/ホーミ・J・バーバー)から翻訳されています。
 
 
 **ホーミ・ジャハーンギール・バーバー**（Homi Jehangir Bhabha、[1909年](../Page/1909年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") – [1966年](../Page/1966年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")）は[インド](../Page/インド.md "wikilink")の[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")。インドの原子力開発に大きな貢献をした。

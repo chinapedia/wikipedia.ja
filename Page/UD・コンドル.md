@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UD・コンドル](https://ja.wikipedia.org/wiki/UD・コンドル)から翻訳されています。
 
 
 **コンドル** (CONDOR) は[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（2010年1月31日までは日産ディーゼル工業）が販売する中型、及び小型トラックである。

@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[ロックマンX サイバーミッション](https://ja.wikipedia.org/wiki/ロックマンX_サイバーミッション)から翻訳されています。
 
 
 『**ロックマンX サイバーミッション**』（ロックマンエックス サイバーミッション、ROCKMAN X CYBER MISSION）は、[2000年](../Page/2000年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から発売された全ての[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")共通の[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

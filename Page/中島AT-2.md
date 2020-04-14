@@ -1,4 +1,4 @@
-> この記事は[AT-2](https://ja.wikipedia.org/wiki/AT-2)から翻訳されています。
+> この記事は[中島AT-2](https://ja.wikipedia.org/wiki/中島AT-2)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=中島AT-2 | 画像=Image:Nakajima AT-2.jpg | キャプション=[日本航空輸送](../Page/日本航空輸送.md "wikilink")の中島AT-2（同社の[絵葉書](https://ja.wikipedia.org/wiki/絵葉書 "wikilink")より）。初期型の特徴である突起付のカウリングを装着している。 | 用途=[旅客機](../Page/旅客機.md "wikilink") | 分類= | 設計者=[明川清](https://ja.wikipedia.org/wiki/明川清 "wikilink") | 製造者=[中島飛行機](../Page/中島飛行機.md "wikilink") | 運用者=[日本航空輸送](../Page/日本航空輸送.md "wikilink")、[満州航空](../Page/満州航空.md "wikilink")、[大日本航空](../Page/大日本航空.md "wikilink")など | 初飛行年月日=[1936年](../Page/1936年.md "wikilink")9月12日 | 生産数=33機 | 生産開始年月日= | 運用開始年月日=1936年10月 | 退役年月日=[1945年](../Page/1945年.md "wikilink")9月 | 運用状況=退役済 | ユニットコスト= }} **中島AT-2**（なかじまAT-2）は、[中島飛行機](../Page/中島飛行機.md "wikilink")が開発した日本の[旅客機](../Page/旅客機.md "wikilink")。
@@ -28,6 +28,7 @@
   - 運航乗員： 3名（上記絵葉書では2名）
   - 乗客： 8〜10名
   - 貨物搭載量：200 kg
+  - 客席：1.7 m × 1.4 m × 4.8 m
   - 全長：15.30 m
   - 全幅：19.95 m
   - 全高：3.90 m

@@ -1,4 +1,4 @@
-> この記事は[ALBUM \(\)](https://ja.wikipedia.org/wiki/ALBUM_\(\))から翻訳されています。
+> この記事は[ALBUM \(松任谷由実のアルバム\)](https://ja.wikipedia.org/wiki/ALBUM_\(松任谷由実のアルバム\))から翻訳されています。
 
 
 『**ALBUM**』（アルバム）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。オリジナルは[1977年](../Page/1977年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[LP](../Page/レコード.md "wikilink")：ETP-72291、[CT](../Page/コンパクトカセット.md "wikilink")：ZT25-172）。[1981年](../Page/1981年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")再発（LP：ETP-90080、CT：ZT28-780）。現在まで[CD化されていない](../Page/CD-DA.md "wikilink")。

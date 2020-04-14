@@ -1,4 +1,4 @@
-> この記事は[LRT](https://ja.wikipedia.org/wiki/LRT)から翻訳されています。
+> この記事は[ボンLRT](https://ja.wikipedia.org/wiki/ボンLRT)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bonn_HauptbahnhofU.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SSB9375_SiegburgBahnhof.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SWB9352_Bertha-von-Suttner-Platz.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BadHonnefSSB.jpg "wikilink")

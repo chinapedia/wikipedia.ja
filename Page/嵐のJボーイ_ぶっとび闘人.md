@@ -1,4 +1,4 @@
-> この記事は[J ](https://ja.wikipedia.org/wiki/J_)から翻訳されています。
+> この記事は[嵐のJボーイ ぶっとび闘人](https://ja.wikipedia.org/wiki/嵐のJボーイ_ぶっとび闘人)から翻訳されています。
 
 
 『**嵐のJボーイ ぶっとび闘人**』（あらしのジェイボーイ ぶっとびファイト）は『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")号から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月](../Page/6月.md "wikilink")号まで連載されていた[樫本学ヴ](../Page/樫本学ヴ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRマーメイドザブーン](https://ja.wikipedia.org/wiki/CRマーメイドザブーン)から翻訳されています。
 
 
 **CRマーメイドザブーン**（しーあーる-、**CR MERMAID ZABUUN**）とは2004年4月に[サミー](../Page/サミー.md "wikilink")株式会社より発売された[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

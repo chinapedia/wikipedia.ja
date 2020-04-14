@@ -1,4 +1,4 @@
-> この記事は[NARUTO -- \(\)](https://ja.wikipedia.org/wiki/NARUTO_--_\(\))から翻訳されています。
+> この記事は[NARUTO -ナルト- \(ラジオ\)](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(ラジオ\))から翻訳されています。
 
 
 **NARUTO -ナルト- (ラジオ)**では、テレビアニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』およびその続編『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』関連の[ラジオ番組](../Page/ラジオ番組.md "wikilink")について記述する。

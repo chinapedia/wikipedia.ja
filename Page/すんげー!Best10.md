@@ -1,4 +1,4 @@
-> この記事は[!Best10](https://ja.wikipedia.org/wiki/!Best10)から翻訳されています。
+> この記事は[すんげー!Best10](https://ja.wikipedia.org/wiki/すんげー!Best10)から翻訳されています。
 
 
 『**すんげー\!Best10**』（すんげー ベストテン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")まで[朝日放送](../Page/朝日放送テレビ.md "wikilink")（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")）で放送されていた[お笑い番組](../Page/お笑い番組.md "wikilink")である。

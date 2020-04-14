@@ -1,4 +1,4 @@
-> この記事は[ Flash Back 2012](https://ja.wikipedia.org/wiki/_Flash_Back_2012)から翻訳されています。
+> この記事は[超時空要塞マクロス Flash Back 2012](https://ja.wikipedia.org/wiki/超時空要塞マクロス_Flash_Back_2012)から翻訳されています。
 
 
 『**超時空要塞マクロス Flash Back 2012**』（ちょうじくうようさいマクロス フラッシュバック 2012）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[OVA](../Page/OVA.md "wikilink")作品。収録時間30分。

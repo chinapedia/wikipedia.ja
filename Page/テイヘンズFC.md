@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[テイヘンズFC](https://ja.wikipedia.org/wiki/テイヘンズFC)から翻訳されています。
 
 
 **テイヘンズFC**（テイヘンズ フットボールクラブ）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[野々市市](https://ja.wikipedia.org/wiki/野々市市 "wikilink")を本拠とする社会人サッカーチーム。
@@ -685,6 +685,13 @@
 </tr>
 </tbody>
 </table>
+
+## タイトル
+
+### リーグ戦
+
+  - **[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")1部：1回**
+      - 1991年
 
 ## 所属選手・スタッフ
 

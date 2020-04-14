@@ -1,4 +1,4 @@
-> この記事は[BMGCD XCP](https://ja.wikipedia.org/wiki/BMGCD_XCP)から翻訳されています。
+> この記事は[ソニーBMG製CD XCP問題](https://ja.wikipedia.org/wiki/ソニーBMG製CD_XCP問題)から翻訳されています。
 
 
 **ソニーBMG製CD XCP問題**（ソニービーエムジーせいコンパクトディスク エックスシーピーもんだい）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のソニーBMGミュージックエンターテインメント（現:[ソニー・ミュージックエンタテインメント (米国)](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）の[音楽CDに採用された米](../Page/コンパクトディスク.md "wikilink")[SunnComm Technologies製](https://ja.wikipedia.org/wiki/SunnComm_Technologies "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")に、[マルウェア](../Page/マルウェア.md "wikilink")である[rootkit](https://ja.wikipedia.org/wiki/rootkit "wikilink")が含まれていた問題。ユーザーのPCの[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")を脆弱にするソフトウェアが、ユーザの同意を得ずに隠密にインストールされることなどが問題視された。

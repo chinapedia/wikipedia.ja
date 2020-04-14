@@ -1,4 +1,4 @@
-> この記事は[APS](https://ja.wikipedia.org/wiki/APS)から翻訳されています。
+> この記事は[ペンタックスの銀塩コンパクト・APSカメラ製品一覧](https://ja.wikipedia.org/wiki/ペンタックスの銀塩コンパクト・APSカメラ製品一覧)から翻訳されています。
 
 
 この項では、[ペンタックス](../Page/ペンタックス.md "wikilink")（旧：旭光学工業）の発売してきた35mm判及び[APSフィルムを使用する](../Page/アドバンストフォトシステム.md "wikilink")[コンパクトカメラ](../Page/コンパクトカメラ.md "wikilink")について述べる。

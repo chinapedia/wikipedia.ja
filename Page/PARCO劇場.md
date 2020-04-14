@@ -1,4 +1,4 @@
-> この記事は[PARCO](https://ja.wikipedia.org/wiki/PARCO)から翻訳されています。
+> この記事は[PARCO劇場](https://ja.wikipedia.org/wiki/PARCO劇場)から翻訳されています。
 
 
 今日の音楽{{～}}』 | 閉館年 = 2016 | 閉館月 = 8 | 閉館日 = 7 | 最終公演 = 『[ラヴ・レターズ](https://ja.wikipedia.org/wiki/LOVE_LETTERS#日本版 "wikilink")』 | 収容人数 = | 客席 = 458 | 延床面積 = | 設備 = | 用途 = コンサート、演劇 | 旧用途 = | 運営 = 株式会社[パルコ](../Page/パルコ.md "wikilink") | 所在地 = 東京都渋谷区宇田川町15-1

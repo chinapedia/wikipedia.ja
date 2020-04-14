@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAエアサービス東京](https://ja.wikipedia.org/wiki/ANAエアサービス東京)から翻訳されています。
 
 
 **株式会社ANAエアサービス東京**（エー・エヌ・エー エアサービスとうきょう）は、主に旅客ハンドリング業務を行う[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")のグループ企業。本社は[成田空港内にあり](../Page/成田国際空港.md "wikilink")、業務は成田空港と[羽田空港で行っている](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MZ](https://ja.wikipedia.org/wiki/MZ)から翻訳されています。
+> この記事は[トヨタ・MZエンジン](https://ja.wikipedia.org/wiki/トヨタ・MZエンジン)から翻訳されています。
 
 
 **MZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型6気筒](../Page/V型6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。

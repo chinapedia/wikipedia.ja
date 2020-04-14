@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東京総合病院](https://ja.wikipedia.org/wiki/JR東京総合病院)から翻訳されています。
 
 
 **JR東京総合病院**（ジェイアールとうきょうそうごうびょういん）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[代々木](../Page/代々木.md "wikilink")2丁目1-3\[1\]にある[病院](../Page/病院.md "wikilink")である。

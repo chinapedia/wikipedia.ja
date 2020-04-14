@@ -1,4 +1,4 @@
-> この記事は[Oh! Yeah! \(\)](https://ja.wikipedia.org/wiki/Oh!_Yeah!_\(\))から翻訳されています。
+> この記事は[Oh! Yeah! \(小田和正のアルバム\)](https://ja.wikipedia.org/wiki/Oh!_Yeah!_\(小田和正のアルバム\))から翻訳されています。
 
 
 『**Oh\! Yeah\!**』（オー・イェー）は、[1991年](../Page/1991年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")にリリースされた、[小田和正](../Page/小田和正.md "wikilink")通算1作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

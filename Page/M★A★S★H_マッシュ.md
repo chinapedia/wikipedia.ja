@@ -1,4 +1,4 @@
-> この記事は[MASH ](https://ja.wikipedia.org/wiki/MASH_)から翻訳されています。
+> この記事は[M★A★S★H マッシュ](https://ja.wikipedia.org/wiki/M★A★S★H_マッシュ)から翻訳されています。
 
 
 『**M★A★S★H マッシュ**』（マッシュ、*M\*A\*S\*H*）は、[1970年の](../Page/1970年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")を舞台に、3人の軍医を描く[ブラックコメディ映画](https://ja.wikipedia.org/wiki/ブラックコメディ映画 "wikilink")\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[ロックマンX コマンドミッション](https://ja.wikipedia.org/wiki/ロックマンX_コマンドミッション)から翻訳されています。
 
 
 『**ロックマンX コマンドミッション**』（ロックマンエックス コマンドミッション、ROCKMAN X COMMAND MISSION）は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から発売された[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")専用の[コンピューターRPGである](../Page/コンピュータRPG.md "wikilink")。

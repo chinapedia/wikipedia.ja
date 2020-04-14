@@ -5,7 +5,7 @@
 
 ## 概要
 
-アメリカで「KODA」名義で先行発売され、「[ビルボード](../Page/ビルボード.md "wikilink")」誌のダンス部門ランキングで初登場20位を見事獲得するが、日本では[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高59位とヒットには至らなかった。
+本作はデビューの1ヶ月前にアメリカで「KODA」名義で先行発売されている。その経緯として元々日本で使用される予定だったプロモーション曲であったものを、米国で有名なDJにアレンジをしてもらった所、出来栄えが良かったため、売り出してみようと言う話になったと言い、倖田はこの当時を振り返り、「今まで洋楽にも縁がなかったし、英語もあまり分からなかったので、まさか、全米で先行デビューさせて貰えるなんて本当に想像も出来ない事だった。」と語っている。その後は、「[ビルボード](../Page/ビルボード.md "wikilink")」誌のダンス部門ランキングで初登場20位を見事獲得したものの、日本では[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高59位とヒットには至らなかった\[1\]。
 
 当時はまだ高校に在学していたため、現在のトレードマーク的になっている金髪ではなく、黒髪だった。
 
@@ -43,4 +43,12 @@
   - 『[affection](https://ja.wikipedia.org/wiki/affection "wikilink")』
   - 『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』
 
+## 脚注
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ TAKE BACK](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004141)
+
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2000年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2000年のデビュー・シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+
+1.

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[麒麟・千鳥の二笑流TV](https://ja.wikipedia.org/wiki/麒麟・千鳥の二笑流TV)から翻訳されています。
 
 
 『**麒麟・千鳥の二笑流TV**』（きりん・ちどりのにしょうりゅうテレビ）は、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で放送されていた自社制作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2005年](../Page/2005年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送開始。[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")（リピート放送を含めると2006年10月31日）終了。

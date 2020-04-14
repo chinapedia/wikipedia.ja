@@ -1,4 +1,4 @@
-> この記事は[COSMOS \(\)](https://ja.wikipedia.org/wiki/COSMOS_\(\))から翻訳されています。
+> この記事は[COSMOS \(曲\)](https://ja.wikipedia.org/wiki/COSMOS_\(曲\))から翻訳されています。
 
 
 **COSMOS**（コスモス）は、音楽ユニットである[アクアマリンに所属するミマスによって](../Page/アクアマリン_\(音楽ユニット\).md "wikilink")[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")された曲である。[2000年](../Page/2000年.md "wikilink")に[富澤裕](../Page/富澤裕.md "wikilink")により混声三部合唱曲として編曲されたため、合唱曲としても知られている。

@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBSヒットランキング](https://ja.wikipedia.org/wiki/IBSヒットランキング)から翻訳されています。
 
 
 **IBSヒットランキング**は、[茨城放送](../Page/茨城放送.md "wikilink")における、音楽ランキング番組のことを指す（ラジオ番組）。

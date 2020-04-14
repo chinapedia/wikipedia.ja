@@ -1,7 +1,7 @@
 > この記事は[DEEPER STREET](https://ja.wikipedia.org/wiki/DEEPER_STREET)から翻訳されています。
 
 
-**DEEPER STREET**（**ディーパーストリート**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から[1999年](../Page/1999年.md "wikilink")3月まで、[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFN系列局をネットして放送されていた](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。初期の頃には「**萬屋ラジオ堂**（**よろずや-どう**）」というサブタイトルが付いていた。
+**DEEPER STREET**（**ディーパーストリート**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から[1999年](../Page/1999年.md "wikilink")3月まで、[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFN系列局をネットして放送されていた](../Page/全国FM放送協議会.md "wikilink")[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。初期の頃には「**萬屋ラジオ堂**（**よろずや-どう**）」というサブタイトルが付いていた。
 
 ## 概要
 

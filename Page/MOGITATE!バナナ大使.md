@@ -1,4 +1,4 @@
-> この記事は[MOGITATE!](https://ja.wikipedia.org/wiki/MOGITATE!)から翻訳されています。
+> この記事は[MOGITATE!バナナ大使](https://ja.wikipedia.org/wiki/MOGITATE!バナナ大使)から翻訳されています。
 
 
 『**MOGITATE\!バナナ大使**』（もぎたて バナナたいし）は、[1989年](../Page/1989年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")まで[TBS系列で放送されていた](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[花王](../Page/花王.md "wikilink")の一社提供。放送時間は毎週金曜 23:00 - 23:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

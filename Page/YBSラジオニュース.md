@@ -1,4 +1,4 @@
-> この記事は[YBS](https://ja.wikipedia.org/wiki/YBS)から翻訳されています。
+> この記事は[YBSラジオニュース](https://ja.wikipedia.org/wiki/YBSラジオニュース)から翻訳されています。
 
 
 **YBSラジオニュース**（ワイビーエスラジオニュース）は、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBSラジオ）で放送している定時[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。キャスターは、YBSの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が持ち回しで担当する。ただし番組に内包される場合はある程度固定されている。なお、『YBSラジオニュース』のタイトルで放送されることは少なく、『**YBSラジオニュースと天気予報**』（ワイビーエスラジオニュースとてんきよほう）のタイトルで放送されることが多い。この場合は終了間際に天気予報が入る。

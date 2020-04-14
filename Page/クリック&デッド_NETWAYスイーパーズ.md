@@ -1,4 +1,4 @@
-> この記事は[\& NETWAY](https://ja.wikipedia.org/wiki/\&_NETWAY)から翻訳されています。
+> この記事は[クリック\&デッド NETWAYスイーパーズ](https://ja.wikipedia.org/wiki/クリック\&デッド_NETWAYスイーパーズ)から翻訳されています。
 
 
 **クリック&デッド NETWAYスイーパーズ**（-アンド-ネットウェイ-）は、[文化放送](../Page/文化放送.md "wikilink")の[アニラジ](../Page/アニラジ.md "wikilink")番組『[CLUB db](../Page/CLUB_db.md "wikilink")』内で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月14日](../Page/6月14日.md "wikilink")から同[10月25日](../Page/10月25日.md "wikilink")にかけて放送された[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。タイトルは[映画](../Page/映画.md "wikilink")『[クイック&デッド](../Page/クイック&デッド.md "wikilink")』のもじり。

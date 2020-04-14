@@ -1,4 +1,4 @@
-> この記事は[KSBEYE](https://ja.wikipedia.org/wiki/KSBEYE)から翻訳されています。
+> この記事は[KSBステーションEYE](https://ja.wikipedia.org/wiki/KSBステーションEYE)から翻訳されています。
 
 
 『**KSBステーションEYE**』（ケイエスビーステーションアイ）は、1991年4月1日から2000年3月31日まで[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")発の全国ニュース『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』およびその後継番組『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』を内包していた。

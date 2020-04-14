@@ -1,4 +1,4 @@
-> この記事は[ICOMS](https://ja.wikipedia.org/wiki/ICOMS)から翻訳されています。
+> この記事は[ICOMS国際作曲コンクール](https://ja.wikipedia.org/wiki/ICOMS国際作曲コンクール)から翻訳されています。
 
 
 **ICOMS国際作曲コンクール**（ICOMSこくさいさっきょくコンクール）は[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")で行われる国際作曲[コンクール](../Page/コンクール.md "wikilink")。名称は「International Center Of Musical Sources」の頭文字から。

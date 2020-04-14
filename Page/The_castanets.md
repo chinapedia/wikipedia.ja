@@ -27,7 +27,7 @@
 
 [2002年](../Page/2002年.md "wikilink")、[セロファン](https://ja.wikipedia.org/wiki/セロファン_\(バンド\) "wikilink")（当時）の溝渕ケンイチロウをサポートメンバーに迎え活動再開、暮れには3年9か月振りとなる5th「Through」をリリース。[2005年](../Page/2005年.md "wikilink")には溝渕が正式メンバーに加入、また自らのレーベル『100%Fun\!』を設立し、シングル「サンシャイン/「また明日」」をリリースする。
 
-[2006年](../Page/2006年.md "wikilink")に若月が脱退、現在はサポートメンバーを加えてライブを中心に活動中。[2007年](../Page/2007年.md "wikilink")には5年ぶりのアルバム「the castanets」をリリースした。
+[2006年](../Page/2006年.md "wikilink")に若月が脱退、[2007年](../Page/2007年.md "wikilink")には5年ぶりのアルバム「the castanets」をリリースした。
 
 2017年　[ザ・コレクターズ](../Page/ザ・コレクターズ.md "wikilink")でドラムを叩いていた、[阿部耕作](https://ja.wikipedia.org/wiki/阿部耕作 "wikilink")が加入。
 

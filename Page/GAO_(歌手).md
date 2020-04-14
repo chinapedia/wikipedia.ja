@@ -1,4 +1,4 @@
-> この記事は[GAO \(\)](https://ja.wikipedia.org/wiki/GAO_\(\))から翻訳されています。
+> この記事は[GAO \(歌手\)](https://ja.wikipedia.org/wiki/GAO_\(歌手\))から翻訳されています。
 
 
 **GAO**（ガオ、[9月14日](../Page/9月14日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[徳山市](../Page/徳山市.md "wikilink")（現：[周南市](../Page/周南市.md "wikilink")）出身の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。生年非公開。一見少年の様に見える[ユニセックス](../Page/ユニセックス.md "wikilink")的なルックスと[ハスキーボイス](../Page/ハスキーボイス.md "wikilink")が特徴。「GAO」とは発声練習中に声をつぶし、その声からつけられたあだ名。四人姉妹の末っ子。身長165cm。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

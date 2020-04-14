@@ -1,4 +1,4 @@
-> この記事は[Secret \(\)](https://ja.wikipedia.org/wiki/Secret_\(\))から翻訳されています。
+> この記事は[Secret \(倖田來未のアルバム\)](https://ja.wikipedia.org/wiki/Secret_\(倖田來未のアルバム\))から翻訳されています。
 
 
 『**secret**』（シークレット）は、[2005年](../Page/2005年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に発売の日本の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")である。

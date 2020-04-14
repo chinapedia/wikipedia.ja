@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[トワイライトQ](https://ja.wikipedia.org/wiki/トワイライトQ)から翻訳されています。
 
 
 『**トワイライトQ**』（トワイライトきゅー）は、日本の短編[アニメーション](../Page/アニメーション.md "wikilink")集である。[バンダイ](../Page/バンダイ.md "wikilink") ネットワーク フロンティア事業部（現・[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")）より[オリジナル・ビデオ・アニメーションとして発売された](../Page/OVA.md "wikilink")。

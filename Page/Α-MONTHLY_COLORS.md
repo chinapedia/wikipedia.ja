@@ -1,4 +1,4 @@
-> この記事は[-MONTHLY COLORS](https://ja.wikipedia.org/wiki/-MONTHLY_COLORS)から翻訳されています。
+> この記事は[Α-MONTHLY COLORS](https://ja.wikipedia.org/wiki/Α-MONTHLY_COLORS)から翻訳されています。
 
 
 **α-MONTHLY COLORS**（アルファ・マンスリー・カラーズ）とは、**[α-STATION](../Page/エフエム京都.md "wikilink")**で放送されているラジオ番組である。1994年4月から2011年3月まで放送された\[1\]。放送日時は、毎週日曜日の23:00～24:00(2010年4月現在)。

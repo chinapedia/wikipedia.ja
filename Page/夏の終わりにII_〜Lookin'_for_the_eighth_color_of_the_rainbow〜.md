@@ -1,4 +1,4 @@
-> この記事は[II Lookin\' for the eighth color of the rainbow](https://ja.wikipedia.org/wiki/II_Lookin\'_for_the_eighth_color_of_the_rainbow)から翻訳されています。
+> この記事は[夏の終わりにII 〜Lookin\' for the eighth color of the rainbow〜](https://ja.wikipedia.org/wiki/夏の終わりにII_〜Lookin\'_for_the_eighth_color_of_the_rainbow〜)から翻訳されています。
 
 
 『**夏の終わりにII 〜Lookin' for the eighth color of the rainbow〜**』（なつのおわりに セカンド 〜ルッキン・フォー・ジ・エイス・カラー・オブ・ザ・レインボー〜）は、[1994年](../Page/1994年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") に[ZAIN RECORDSから発売された](../Page/ZAIN_RECORDS.md "wikilink")[T-BOLAN](../Page/T-BOLAN.md "wikilink")のアコースティックアルバム第2弾。

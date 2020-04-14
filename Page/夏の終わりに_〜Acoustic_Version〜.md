@@ -1,4 +1,4 @@
-> この記事は[ Acoustic Version](https://ja.wikipedia.org/wiki/_Acoustic_Version)から翻訳されています。
+> この記事は[夏の終わりに 〜Acoustic Version〜](https://ja.wikipedia.org/wiki/夏の終わりに_〜Acoustic_Version〜)から翻訳されています。
 
 
 『**夏の終わりに 〜Acoustic Version〜**』（なつのおわりに アコースティック・ヴァージョン）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[T-BOLAN](../Page/T-BOLAN.md "wikilink")のアコースティックアルバム（[規格品番](../Page/規格品番.md "wikilink")はROCL-6003）。[1992年](../Page/1992年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売。発売元は[ROCK IT RECORDS](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")。

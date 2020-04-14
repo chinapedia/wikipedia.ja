@@ -1,4 +1,4 @@
-> この記事は[VII](https://ja.wikipedia.org/wiki/VII)から翻訳されています。
+> この記事は[三國志VII](https://ja.wikipedia.org/wiki/三國志VII)から翻訳されています。
 
 
 『**三國志VII**』（さんごくし・セブン）は、2000年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第7作。音楽は[長谷川智樹](../Page/長谷川智樹.md "wikilink")が担当。

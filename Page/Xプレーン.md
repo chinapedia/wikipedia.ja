@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[Xプレーン](https://ja.wikipedia.org/wiki/Xプレーン)から翻訳されています。
 
 
 [BellX-1.jpeg](https://ja.wikipedia.org/wiki/File:BellX-1.jpeg "fig:BellX-1.jpeg")'''\]\] **Xプレーン**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が開発した実験機・記録機シリーズのこと。名称が実験機・記録機を意味するXで始められていることから、Xプレーン（X plane: planeは飛行機の意）と呼ばれるようになった。その性格上、製造機数は少ないが多様であり、特異な外形を持つものや、世界記録を更新するなど優秀な性能を示すものも作られた。

@@ -1,4 +1,4 @@
-> この記事は[E!](https://ja.wikipedia.org/wiki/E!)から翻訳されています。
+> この記事は[Eネ!](https://ja.wikipedia.org/wiki/Eネ!)から翻訳されています。
 
 
 『**Eネ\!**』（イーネ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）が毎週土曜6:15 - 6:25に放送している、製作に関与する[映画](../Page/映画.md "wikilink")・演劇や美術展などの[イベント](../Page/イベント.md "wikilink")・[DVDビデオ](https://ja.wikipedia.org/wiki/DVDビデオ "wikilink")・[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")番組・[アニメーション映画](../Page/アニメーション映画.md "wikilink")などを週替わりで特集しながら紹介する、[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")型の[番組宣伝](../Page/番組宣伝.md "wikilink")・PR番組である。『[エンタ姫](https://ja.wikipedia.org/wiki/エンタ姫 "wikilink")』の後継にあたる。

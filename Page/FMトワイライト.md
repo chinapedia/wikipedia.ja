@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMトワイライト](https://ja.wikipedia.org/wiki/FMトワイライト)から翻訳されています。
 
 
 『**FMトワイライト**』（エフエムトワイライト）は、[東海](../Page/東海地方.md "wikilink")・[北陸地方](../Page/北陸地方.md "wikilink")の[NHK-FMで](../Page/NHK-FM放送.md "wikilink")、祝日を除く毎週月曜 - 金曜の18:00 - 18:50（[JST](../Page/日本標準時.md "wikilink")）に放送された[音楽番組](../Page/音楽番組.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")放送開始、[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")放送終了。

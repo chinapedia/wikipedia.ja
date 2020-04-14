@@ -1,4 +1,4 @@
-> この記事は[:35mm \(KMF\)](https://ja.wikipedia.org/wiki/:35mm_\(KMF\))から翻訳されています。
+> この記事は[ペンタックスの銀塩一眼レフカメラ製品一覧:35mm判 \(KマウントMF機種\)](https://ja.wikipedia.org/wiki/ペンタックスの銀塩一眼レフカメラ製品一覧:35mm判_\(KマウントMF機種\))から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/画像:Pentax_LX_MotorDrive_NiCdPack_1_4_85mm_AF_Star.jpg "wikilink") この項目では、ペンタックス（旧：旭光学工業）が発売したカメラのうち、レンズマウントにKマウントを採用し、35mm判フィルムを使用するマニュアル一眼レフカメラ製品の一覧記事である。

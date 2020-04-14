@@ -1,4 +1,4 @@
-> この記事は[GOLDENBESTNEVER ENDING DAYS](https://ja.wikipedia.org/wiki/GOLDENBESTNEVER_ENDING_DAYS)から翻訳されています。
+> この記事は[GOLDEN★BEST〜NEVER ENDING DAYS](https://ja.wikipedia.org/wiki/GOLDEN★BEST〜NEVER_ENDING_DAYS)から翻訳されています。
 
 
 『**GOLDEN★BEST〜NEVER ENDING DAYS**』（ゴールデン・ベスト ネバー・エンディング・デイズ）は[BLIZARDの](../Page/ブリザード_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[VZ](https://ja.wikipedia.org/wiki/VZ)から翻訳されています。
+> この記事は[トヨタ・VZエンジン](https://ja.wikipedia.org/wiki/トヨタ・VZエンジン)から翻訳されています。
 
 
 **VZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型6気筒](../Page/V型6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。トヨタ初の量産[V型6気筒](../Page/V型6気筒.md "wikilink")エンジン、かつ、世界初の[FF車用](../Page/前輪駆動.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[4バルブエンジンである](../Page/マルチバルブ.md "wikilink")\[1\]。

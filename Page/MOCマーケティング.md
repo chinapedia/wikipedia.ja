@@ -1,4 +1,4 @@
-> この記事は[MOC](https://ja.wikipedia.org/wiki/MOC)から翻訳されています。
+> この記事は[MOCマーケティング](https://ja.wikipedia.org/wiki/MOCマーケティング)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsui_Oil_R6Soma_SS.jpg "wikilink") [S_P7050018.JPG](https://ja.wikipedia.org/wiki/File:S_P7050018.JPG "fig:S_P7050018.JPG") **MOCマーケティング合同会社**（えむおーしーまーけてぃんぐ）は、かつて存在した[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")卸売会社。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の[子会社](../Page/子会社.md "wikilink")であった。

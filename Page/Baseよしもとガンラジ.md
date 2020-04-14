@@ -1,4 +1,4 @@
-> この記事は[Base](https://ja.wikipedia.org/wiki/Base)から翻訳されています。
+> この記事は[Baseよしもとガンラジ](https://ja.wikipedia.org/wiki/Baseよしもとガンラジ)から翻訳されています。
 
 
 **baseよしもとガンラジ**は、[ラジオ大阪の番組である](../Page/大阪放送.md "wikilink")（製作は[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")）。[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送。

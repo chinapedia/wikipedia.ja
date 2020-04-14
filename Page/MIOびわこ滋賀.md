@@ -1,4 +1,4 @@
-> この記事は[MIO](https://ja.wikipedia.org/wiki/MIO)から翻訳されています。
+> この記事は[MIOびわこ滋賀](https://ja.wikipedia.org/wiki/MIOびわこ滋賀)から翻訳されています。
 
 
 **MIOびわこ滋賀**（ミーオびわこしが、 ）は、日本の[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")、[東近江市](../Page/東近江市.md "wikilink")をホームタウンとする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。

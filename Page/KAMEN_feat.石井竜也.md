@@ -1,4 +1,4 @@
-> この記事は[KAMEN feat.](https://ja.wikipedia.org/wiki/KAMEN_feat.)から翻訳されています。
+> この記事は[KAMEN feat.石井竜也](https://ja.wikipedia.org/wiki/KAMEN_feat.石井竜也)から翻訳されています。
 
 
 「**KAMEN feat.石井竜也**」（カメン・フィーチャリング・いしいたつや）は、[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に発売された[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の28枚目のシングル。発売元は[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -34,5 +34,9 @@
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
   - [BEST〜second session〜](https://ja.wikipedia.org/wiki/BEST〜second_session〜 "wikilink")
   - [12週連続シングルリリース](../Page/12週連続シングルリリース.md "wikilink")
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ KAMEN feat.石井竜也](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004186)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:石井竜也の楽曲](https://ja.wikipedia.org/wiki/Category:石井竜也の楽曲 "wikilink") [Category:石井竜也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:石井竜也が制作した楽曲 "wikilink") [Category:2006年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2006年のコラボレーション・シングル "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")

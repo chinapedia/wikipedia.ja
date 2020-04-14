@@ -1,4 +1,4 @@
-> この記事は[XF8B \(\)](https://ja.wikipedia.org/wiki/XF8B_\(\))から翻訳されています。
+> この記事は[XF8B \(航空機\)](https://ja.wikipedia.org/wiki/XF8B_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称 = XF8B | 画像 = <File:Ray> Wagner Collection Image (16343224165).jpg | キャプション = 飛行するXF8B-1 57984号機

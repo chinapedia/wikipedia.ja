@@ -1,4 +1,4 @@
-> この記事は[KYT News](https://ja.wikipedia.org/wiki/KYT_News)から翻訳されています。
+> この記事は[KYT Newsリアルタイム](https://ja.wikipedia.org/wiki/KYT_Newsリアルタイム)から翻訳されています。
 
 
 『**KYT NEWSリアルタイム**』（ケイワイティー ニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink") (KYT) で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

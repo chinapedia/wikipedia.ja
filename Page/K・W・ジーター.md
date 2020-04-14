@@ -1,4 +1,4 @@
-> この記事は[KW](https://ja.wikipedia.org/wiki/KW)から翻訳されています。
+> この記事は[K・W・ジーター](https://ja.wikipedia.org/wiki/K・W・ジーター)から翻訳されています。
 
 
 **ケヴィン・ウェイン・ジーター**（**Kevin Wayne Jeter**、[1950年](../Page/1950年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作家](../Page/作家.md "wikilink")。[SFや](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ホラーを主な作風とする](../Page/ホラー小説.md "wikilink")。[スタートレック](../Page/スタートレック.md "wikilink")や[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")の世界を舞台とした小説や、『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』の続編なども書いている。

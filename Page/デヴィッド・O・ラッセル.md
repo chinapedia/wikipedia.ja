@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[デヴィッド・O・ラッセル](https://ja.wikipedia.org/wiki/デヴィッド・O・ラッセル)から翻訳されています。
 
 
 **デヴィッド・O・ラッセル**（**David O. Russell**, 本名: David Owen Russell, [1958年](../Page/1958年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")。

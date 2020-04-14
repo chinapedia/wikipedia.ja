@@ -1,4 +1,4 @@
-> この記事は[MOTHERPSI](https://ja.wikipedia.org/wiki/MOTHERPSI)から翻訳されています。
+> この記事は[MOTHERシリーズのPSI体系](https://ja.wikipedia.org/wiki/MOTHERシリーズのPSI体系)から翻訳されています。
 
 
 **MOTHERシリーズのPSI体系**（マザーシリーズのサイたいけい）は、任天堂の[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")・[MOTHERシリーズ](../Page/MOTHERシリーズ.md "wikilink")中に登場するPSI（サイ）と呼ばれる[超能力](../Page/超能力.md "wikilink")を体系別に記述したものである。本項目では、断りのない限り超能力をPSI（サイ）と呼ぶ。

@@ -1,4 +1,4 @@
-> この記事は[LocalSTAR ](https://ja.wikipedia.org/wiki/LocalSTAR_)から翻訳されています。
+> この記事は[Local★STAR ひらめっ娘学園](https://ja.wikipedia.org/wiki/Local★STAR_ひらめっ娘学園)から翻訳されています。
 
 
 **Local★STAR ひらめっ娘学園**（**ローカルスターひらめっこがくえん**）は[2006年](../Page/2006年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")（全45回）まで[TSS（テレビ新広島）で放送されていた](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")[ローカル](../Page/ローカル番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

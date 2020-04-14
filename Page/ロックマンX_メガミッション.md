@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[ロックマンX メガミッション](https://ja.wikipedia.org/wiki/ロックマンX_メガミッション)から翻訳されています。
 
 
 『**ロックマンX メガミッション**』（ロックマンエックスメガミッション、ROCKMAN X MEGA MISSION）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月](../Page/6月.md "wikilink")中旬に[カプコン](../Page/カプコン.md "wikilink")協力のもと[バンダイ](../Page/バンダイ.md "wikilink")から発売された、オリジナルのストーリーで展開する[ロックマンXシリーズ](../Page/ロックマンXシリーズ.md "wikilink")の[カードダス](../Page/カードダス.md "wikilink")である。

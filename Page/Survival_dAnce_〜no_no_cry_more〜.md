@@ -1,4 +1,4 @@
-> この記事は[Survival dAnce no no cry more](https://ja.wikipedia.org/wiki/Survival_dAnce_no_no_cry_more)から翻訳されています。
+> この記事は[Survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/Survival_dAnce_〜no_no_cry_more〜)から翻訳されています。
 
 
 「**survival dAnce 〜no no cry more〜**」（サヴァイバル・ダンス ノー・ノー・クライ・モア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンスグループ、[trfの](../Page/TRF.md "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。

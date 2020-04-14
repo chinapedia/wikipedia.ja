@@ -1,4 +1,4 @@
-> この記事は[DIMS](https://ja.wikipedia.org/wiki/DIMS)から翻訳されています。
+> この記事は[DIMS医科学研究所](https://ja.wikipedia.org/wiki/DIMS医科学研究所)から翻訳されています。
 
 
 **株式会社 DIMS医科学研究所**（ディムスいかがくけんきゅうじょ、[英](../Page/英語.md "wikilink")：DIMS Institute of Medical Science, Inc.）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")西浅井郷裏64に位置する中期発がん性試験開発ラボ。代表取締役所長は[玉野静光](https://ja.wikipedia.org/wiki/玉野静光 "wikilink")。

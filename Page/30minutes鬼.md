@@ -1,4 +1,4 @@
-> この記事は[30minutes](https://ja.wikipedia.org/wiki/30minutes)から翻訳されています。
+> この記事は[30minutes鬼](https://ja.wikipedia.org/wiki/30minutes鬼)から翻訳されています。
 
 
 『**30minutes鬼**』（サーティーミニッツハイパー）は、[2005年](../Page/2005年.md "wikilink")に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されたワン[シチュエーションコメディ](../Page/シチュエーション・コメディ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")。

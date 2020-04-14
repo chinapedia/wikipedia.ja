@@ -1,4 +1,4 @@
-> この記事は[Merry Xmas](https://ja.wikipedia.org/wiki/Merry_Xmas)から翻訳されています。
+> この記事は[君にMerry Xmas](https://ja.wikipedia.org/wiki/君にMerry_Xmas)から翻訳されています。
 
 
 「**君にMerry Xmas**」（きみにメリー・クリスマス）は、[1989年](../Page/1989年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に発売された[小田和正](../Page/小田和正.md "wikilink")通算4作目のシングル。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

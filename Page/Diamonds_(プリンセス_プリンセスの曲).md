@@ -1,4 +1,4 @@
-> この記事は[Diamonds \( \)](https://ja.wikipedia.org/wiki/Diamonds_\(_\))から翻訳されています。
+> この記事は[Diamonds \(プリンセス プリンセスの曲\)](https://ja.wikipedia.org/wiki/Diamonds_\(プリンセス_プリンセスの曲\))から翻訳されています。
 
 
 「**Diamonds**」（ダイアモンド）は、[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に[CBSソニーから発売された](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

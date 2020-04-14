@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK解説委員室](https://ja.wikipedia.org/wiki/NHK解説委員室)から翻訳されています。
 
 
 **NHK解説委員室**（エヌエイチケイ かいせついいんしつ）は、[NHK放送総局に所属する部署のひとつ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[Newsリアルタイムえひめ](https://ja.wikipedia.org/wiki/Newsリアルタイムえひめ)から翻訳されています。
 
 
 『**Newsリアルタイムえひめ**』は、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")テレビで[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送された平日夕方の[ローカルニュース番組である](../Page/報道番組.md "wikilink")。ニュースと愛媛の特集の番組でもある。

@@ -1,4 +1,4 @@
-> この記事は[Ray \(\)](https://ja.wikipedia.org/wiki/Ray_\(\))から翻訳されています。
+> この記事は[Ray \(雑誌\)](https://ja.wikipedia.org/wiki/Ray_\(雑誌\))から翻訳されています。
 
 
 『**Ray**』（レイ）は、[主婦の友社](../Page/主婦の友社.md "wikilink")が発売している[女性](../Page/女性.md "wikilink")[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")。[1988年](../Page/1988年.md "wikilink")創刊で、毎月23日発売。

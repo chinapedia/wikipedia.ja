@@ -1,4 +1,4 @@
-> この記事は[TMAX](https://ja.wikipedia.org/wiki/TMAX)から翻訳されています。
+> この記事は[ヤマハ・TMAX](https://ja.wikipedia.org/wiki/ヤマハ・TMAX)から翻訳されています。
 
 
 **TMAX**（ティーマックス）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売する[オートバイ](../Page/オートバイ.md "wikilink")（[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")）の車種である。一般的な車体種別では[スクーター](../Page/スクーター.md "wikilink")の一種であるが、同社ではオンロードスポーツタイプの一つとして取り扱っている。

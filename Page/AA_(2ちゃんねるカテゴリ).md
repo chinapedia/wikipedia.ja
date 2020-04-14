@@ -1,4 +1,4 @@
-> この記事は[AA \(2\)](https://ja.wikipedia.org/wiki/AA_\(2\))から翻訳されています。
+> この記事は[AA \(2ちゃんねるカテゴリ\)](https://ja.wikipedia.org/wiki/AA_\(2ちゃんねるカテゴリ\))から翻訳されています。
 
 
 **AAカテゴリ**（[アスキーアート](../Page/アスキーアート.md "wikilink")カテゴリ）は、[匿名掲示板](../Page/匿名掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")のカテゴリの1つである。AAを扱う掲示板からなる。

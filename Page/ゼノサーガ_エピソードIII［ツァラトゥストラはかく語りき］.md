@@ -1,4 +1,4 @@
-> この記事は[ III](https://ja.wikipedia.org/wiki/_III)から翻訳されています。
+> この記事は[ゼノサーガ エピソードIII［ツァラトゥストラはかく語りき］](https://ja.wikipedia.org/wiki/ゼノサーガ_エピソードIII［ツァラトゥストラはかく語りき］)から翻訳されています。
 
 
 『**ゼノサーガ エピソードIII［ツァラトゥストラはかく語りき］**』（ゼノサーガ エピソード スリー ツァラトゥストラはかくかたりき）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作し、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が[2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第3作目にして完結編となる。

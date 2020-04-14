@@ -1,4 +1,4 @@
-> この記事は[LRT](https://ja.wikipedia.org/wiki/LRT)から翻訳されています。
+> この記事は[ケルンLRT](https://ja.wikipedia.org/wiki/ケルンLRT)から翻訳されています。
 
 
 **ケルンLRT**（**Stadtbahn Köln**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ケルン](../Page/ケルン.md "wikilink")で運行されている[ライトレール](../Page/ライトレール.md "wikilink")（ドイツではStadtbahn（[シュタットバーン](https://ja.wikipedia.org/wiki/シュタットバーン "wikilink")）と呼ばれる）である。

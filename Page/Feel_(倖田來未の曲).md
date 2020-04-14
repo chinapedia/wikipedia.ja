@@ -1,4 +1,4 @@
-> この記事は[Feel \(\)](https://ja.wikipedia.org/wiki/Feel_\(\))から翻訳されています。
+> この記事は[Feel \(倖田來未の曲\)](https://ja.wikipedia.org/wiki/Feel_\(倖田來未の曲\))から翻訳されています。
 
 
 「**feel**」（フィール）は、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の24枚目のシングルである。
@@ -24,5 +24,9 @@
 <!-- end list -->
 
   - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
+
+## 外部リンク
+
+  - [公式サイト作品紹介ページ feel](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004182)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

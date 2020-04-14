@@ -1,4 +1,4 @@
-> この記事は[ABC \(\)](https://ja.wikipedia.org/wiki/ABC_\(\))から翻訳されています。
+> この記事は[ABCニュース \(朝日放送テレビ\)](https://ja.wikipedia.org/wiki/ABCニュース_\(朝日放送テレビ\))から翻訳されています。
 
 
 『**ABCニュース**』（エイビーシーニュース）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送開始した[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）\[1\]の[ローカルニュース番組](../Page/報道番組.md "wikilink")。一部を除き関西のローカルニュースを放送している。

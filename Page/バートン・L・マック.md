@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[バートン・L・マック](https://ja.wikipedia.org/wiki/バートン・L・マック)から翻訳されています。
 
 
 **バートン・L・マック**（**Burton L. Mack**, [1931年](../Page/1931年.md "wikilink") - ）は、[アメリカの新約](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[聖書学者](https://ja.wikipedia.org/wiki/聖書学者 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Leon \(\)](https://ja.wikipedia.org/wiki/Leon_\(\))から翻訳されています。
+> この記事は[Leon \(プロレスラー\)](https://ja.wikipedia.org/wiki/Leon_\(プロレスラー\))から翻訳されています。
 
 
 **Leon**（レオン、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**高瀬 玲奈**（たかせ れな）。[アルシオン](../Page/アルシオン.md "wikilink")のライセンスナンバー28。

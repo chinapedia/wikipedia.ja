@@ -1,4 +1,4 @@
-> この記事は[Complete of \&Barbier at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_\&Barbier_at_the_BEING_studio)から翻訳されています。
+> この記事は[Complete of 栗林誠一郎\&Barbier at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_栗林誠一郎\&Barbier_at_the_BEING_studio)から翻訳されています。
 
 
 『**complete of 栗林誠一郎\&Barbier at the BEING studio**』(コンプリート・オブ・くりばやしせいいちろう・アンド・バルビエ・アト・ザ・ビーイング・ステューディオ)は、[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")の[カバー](../Page/カバー.md "wikilink")・アルバム。

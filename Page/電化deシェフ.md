@@ -1,4 +1,4 @@
-> この記事は[de](https://ja.wikipedia.org/wiki/de)から翻訳されています。
+> この記事は[電化deシェフ](https://ja.wikipedia.org/wiki/電化deシェフ)から翻訳されています。
 
 
 『**電化deシェフ**』（でんかでシェフ）は、2000年代中盤から後半にかけて[TVQで放送されていた](../Page/TVQ九州放送.md "wikilink")[料理番組](../Page/料理番組.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")4月から同年9月まで第1期、[2006年](../Page/2006年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで第2期が放送された。[九州電力](../Page/九州電力.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組。

@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[DCインサイド](https://ja.wikipedia.org/wiki/DCインサイド)から翻訳されています。
 
 
 **DCインサイド**（ディーシーインサイド、略して「DC」）は、[韓国の](../Page/大韓民国.md "wikilink")[電子掲示板](../Page/電子掲示板.md "wikilink")サイトである。

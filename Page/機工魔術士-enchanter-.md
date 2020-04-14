@@ -1,4 +1,4 @@
-> この記事は[-enchanter-](https://ja.wikipedia.org/wiki/-enchanter-)から翻訳されています。
+> この記事は[機工魔術士-enchanter-](https://ja.wikipedia.org/wiki/機工魔術士-enchanter-)から翻訳されています。
 
 
 『**機工魔術士-enchanter-**』（エンチャンター）は、[河内和泉](../Page/河内和泉.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊ガンガンWING](../Page/月刊ガンガンWING.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")発行）にて[2002年](../Page/2002年.md "wikilink")10月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月号まで連載された。番外編である『**機工魔術士-enchanter- SEQUEL**』（エンチャンター シキュール）が『月刊ガンガンWING』2008年11月号2009年3月号まで連載された。単行本は全19巻。各単行本末には作者によるナニワ人戦記がオマケでついている（15巻と16巻には掲載されていない）。2004年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")と2005年[1月28日](../Page/1月28日.md "wikilink")に前後編で[ドラマCD](../Page/ドラマCD.md "wikilink")が発売され、また[マックスファクトリー](https://ja.wikipedia.org/wiki/マックスファクトリー "wikilink")からユウカナリアの[フィギュア](../Page/フィギュア.md "wikilink")が発売された。

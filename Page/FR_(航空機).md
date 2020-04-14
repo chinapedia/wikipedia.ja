@@ -1,4 +1,4 @@
-> この記事は[FR \(\)](https://ja.wikipedia.org/wiki/FR_\(\))から翻訳されています。
+> この記事は[FR \(航空機\)](https://ja.wikipedia.org/wiki/FR_\(航空機\))から翻訳されています。
 
 
 **FR ファイアボール**（*Ryan FR Fireball* ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の社が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。黎明期で燃費の悪い[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")と、性能は劣るが信頼性が高く、燃費の良い[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の複合動力機として開発されたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の終結とジェットエンジンの予想以上の速さの改良を受けて少数しか生産されなかった。

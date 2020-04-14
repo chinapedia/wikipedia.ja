@@ -1,4 +1,4 @@
-> この記事は[Edy \(\)](https://ja.wikipedia.org/wiki/Edy_\(\))から翻訳されています。
+> この記事は[楽天Edy \(企業\)](https://ja.wikipedia.org/wiki/楽天Edy_\(企業\))から翻訳されています。
 
 
 **楽天Edy株式会社**（らくてんエディ、Rakuten Edy, Inc.）は、[プリペイド](https://ja.wikipedia.org/wiki/プリペイド "wikilink")型の[電子マネー](../Page/電子マネー.md "wikilink")「[楽天Edy](../Page/楽天Edy.md "wikilink")」を運営・管理する会社である。

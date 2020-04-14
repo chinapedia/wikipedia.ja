@@ -1,4 +1,4 @@
-> この記事は[Zero \(\)](https://ja.wikipedia.org/wiki/Zero_\(\))から翻訳されています。
+> この記事は[Zero \(歌手\)](https://ja.wikipedia.org/wiki/Zero_\(歌手\))から翻訳されています。
 
 
 **ZERO**（ゼロ）は、[大韓民国](../Page/大韓民国.md "wikilink")の男性歌手。本名パク・ソンチョル（朴 成喆／Park Sung Chul）[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。[1994年](../Page/1994年.md "wikilink")にバンド「ISSUE」のボーカルとしてデビュー。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から韓国初の[サイバー](https://ja.wikipedia.org/wiki/サイバー "wikilink")歌手「ADAM」として活動を開始。[2001年](../Page/2001年.md "wikilink")、韓国ドラマ『[美しき日々](../Page/美しき日々.md "wikilink")』の劇中で[リュ・シウォン](../Page/リュ・シウォン.md "wikilink")演じるサイバー歌手「ZERO」の歌が流れる場面で、実際に同曲を歌いアーティスト名を「ZERO」に変更。同ドラマが日本で放送されたことがきっかけで来日。 日本で活動をする韓流歌手のパイオニア的存在。

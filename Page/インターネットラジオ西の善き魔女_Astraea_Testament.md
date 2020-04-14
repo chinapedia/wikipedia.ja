@@ -1,4 +1,4 @@
-> この記事は[ Astraea Testament](https://ja.wikipedia.org/wiki/_Astraea_Testament)から翻訳されています。
+> この記事は[インターネットラジオ西の善き魔女 Astraea Testament](https://ja.wikipedia.org/wiki/インターネットラジオ西の善き魔女_Astraea_Testament)から翻訳されています。
 
 
 **インターネットラジオ西の善き魔女 Astraea Testament**（インターネットラジオにしのよきまじょ アストレイア テスタメント）は[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで配信していた『**[西の善き魔女 Astraea Testament](../Page/西の善き魔女.md "wikilink")**』の連動番組。[パーソナリティはフィリエル役の](../Page/ラジオパーソナリティ.md "wikilink")[折笠富美子](../Page/折笠富美子.md "wikilink")とルーン役の[平田宏美](../Page/平田宏美.md "wikilink")が担当。番組の略称は「**西魔女**」、「**西魔女ラジオ**」。

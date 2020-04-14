@@ -1,4 +1,4 @@
-> この記事は[ MS IGLOO](https://ja.wikipedia.org/wiki/_MS_IGLOO)から翻訳されています。
+> この記事は[機動戦士ガンダム MS IGLOO](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MS_IGLOO)から翻訳されています。
 
 
 『**機動戦士ガンダム MS IGLOO**』（きどうせんしガンダム エムエスイグルー）は、アニメ作品群「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」の一つとして[2004年](../Page/2004年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて制作されたフル3DCGアニメ。

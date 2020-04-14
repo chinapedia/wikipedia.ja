@@ -1,4 +1,4 @@
-> この記事は[5--N,N-](https://ja.wikipedia.org/wiki/5--N,N-)から翻訳されています。
+> この記事は[5-メトキシ-N,N-ジイソプロピルトリプタミン](https://ja.wikipedia.org/wiki/5-メトキシ-N,N-ジイソプロピルトリプタミン)から翻訳されています。
 
 
 **5-メトキシ-*N,N*-ジイソプロピルトリプタミン**（5-methoxy-N,N-diisopropyltryptamine）は[トリプタミン](../Page/トリプタミン.md "wikilink")系薬物の一種。[頭字語](../Page/頭字語.md "wikilink")で**5-MeO-DIPT**（ごめおでぃぷてぃ―）と略される。人体には[幻覚](../Page/幻覚.md "wikilink")作用がある[幻覚剤](../Page/幻覚剤.md "wikilink")である。日本での通称はゴメオ\[1\]、フォクシー、メルシー。形状は白い[結晶](../Page/結晶.md "wikilink")の粉末。[性感](https://ja.wikipedia.org/wiki/性感 "wikilink")の高まりなどの効果があるため、[媚薬](../Page/媚薬.md "wikilink")と触れ込まれる。\[2\]

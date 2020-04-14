@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ダグラス・D・オシェロフ](https://ja.wikipedia.org/wiki/ダグラス・D・オシェロフ)から翻訳されています。
 
 
 ` `

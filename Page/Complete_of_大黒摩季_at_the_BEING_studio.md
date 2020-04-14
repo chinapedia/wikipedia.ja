@@ -1,4 +1,4 @@
-> この記事は[Complete of  at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of__at_the_BEING_studio)から翻訳されています。
+> この記事は[Complete of 大黒摩季 at the BEING studio](https://ja.wikipedia.org/wiki/Complete_of_大黒摩季_at_the_BEING_studio)から翻訳されています。
 
 
 『**complete of 大黒摩季 at the BEING studio**』（コンプリート・オブ・おおぐろまき・アト・ザ・ビーイング・スタディオ）は、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

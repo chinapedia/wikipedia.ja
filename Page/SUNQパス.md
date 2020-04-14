@@ -1,4 +1,4 @@
-> この記事は[SUNQ](https://ja.wikipedia.org/wiki/SUNQ)から翻訳されています。
+> この記事は[SUNQパス](https://ja.wikipedia.org/wiki/SUNQパス)から翻訳されています。
 
 
 **SUNQパス**（サンキューパス）は、 SUNQパス運営委員会が発行し、同委員会に加盟している[九州](../Page/九州.md "wikilink")・[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")周辺部の事業者が運行する[高速バス](../Page/高速バス.md "wikilink")・一般[路線バス](../Page/路線バス.md "wikilink")が、3日間（もしくは4日間）乗り放題になる[乗車券](../Page/乗車券.md "wikilink")（フリーパス）である。

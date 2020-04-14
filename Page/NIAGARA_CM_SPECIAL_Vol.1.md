@@ -516,7 +516,7 @@ CD用に『Vol.1』『Vol.2』を再編集したもの。「Cider'83」が加え
 
 #### その他
 
-[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:コマーシャルソング集](https://ja.wikipedia.org/wiki/Category:コマーシャルソング集 "wikilink")
+[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:コマーシャルソング集](https://ja.wikipedia.org/wiki/Category:コマーシャルソング集 "wikilink") [Category:大瀧詠一がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一がプロデュースしたアルバム "wikilink")
 
 1.
 2.

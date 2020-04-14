@@ -1,4 +1,4 @@
-> この記事は[Self Control \(TM NETWORK\)](https://ja.wikipedia.org/wiki/Self_Control_\(TM_NETWORK\))から翻訳されています。
+> この記事は[Self Control \(TM NETWORKのアルバム\)](https://ja.wikipedia.org/wiki/Self_Control_\(TM_NETWORKのアルバム\))から翻訳されています。
 
 
 『**Self Control**』（セルフ・コントロール）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")4枚目のアルバム。

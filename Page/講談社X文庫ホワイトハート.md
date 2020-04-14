@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[講談社X文庫ホワイトハート](https://ja.wikipedia.org/wiki/講談社X文庫ホワイトハート)から翻訳されています。
 
 
 **講談社X文庫ホワイトハート**（こうだんしゃエックスぶんこホワイトハート）は、[講談社](../Page/講談社.md "wikilink")が[1991年](../Page/1991年.md "wikilink")に創刊した[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫](../Page/文庫.md "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")。

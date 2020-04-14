@@ -1,4 +1,4 @@
-> この記事は[IAAF](https://ja.wikipedia.org/wiki/IAAF)から翻訳されています。
+> この記事は[IAAFグランプリファイナル](https://ja.wikipedia.org/wiki/IAAFグランプリファイナル)から翻訳されています。
 
 
 **[IAAFグランプリファイナル](https://ja.wikipedia.org/wiki/国際陸上競技連盟 "wikilink")**は[2002年](../Page/2002年.md "wikilink")まで開催されていた[陸上競技](../Page/陸上競技.md "wikilink")の年間王者決定戦。
@@ -42,4 +42,4 @@
   - [IAAF Grand Prix Final](http://www.iaaf.org/history/index.html#GPF)
   - <http://www.gbrathletics.com/ic/gp.htm>
 
-[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink") [Category:IAAF陸上競技大会](https://ja.wikipedia.org/wiki/Category:IAAF陸上競技大会 "wikilink")
+[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink") [Category:ワールドアスレティックスの大会](https://ja.wikipedia.org/wiki/Category:ワールドアスレティックスの大会 "wikilink")

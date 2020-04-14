@@ -1,4 +1,4 @@
-> この記事は[EF](https://ja.wikipedia.org/wiki/EF)から翻訳されています。
+> この記事は[ダイハツ・EF型エンジン](https://ja.wikipedia.org/wiki/ダイハツ・EF型エンジン)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/File:Daihatsu_Atrai_001.JPG "fig:サムネイル") **ダイハツ・EF型エンジン**は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた軽自動車用エンジンの一つである。

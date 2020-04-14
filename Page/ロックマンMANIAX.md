@@ -1,4 +1,4 @@
-> この記事は[MANIAX](https://ja.wikipedia.org/wiki/MANIAX)から翻訳されています。
+> この記事は[ロックマンMANIAX](https://ja.wikipedia.org/wiki/ロックマンMANIAX)から翻訳されています。
 
 
 『**ロックマンMANIAX**』（ロックマンマニアックス）は、[有賀ヒトシ](../Page/有賀ヒトシ.md "wikilink")が『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』1997年5月号から1998年3月号に連載した、[ロックマンシリーズ](../Page/ロックマンシリーズ.md "wikilink")を題材とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

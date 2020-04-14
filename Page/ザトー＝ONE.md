@@ -1,4 +1,4 @@
-> この記事は[ONE](https://ja.wikipedia.org/wiki/ONE)から翻訳されています。
+> この記事は[ザトー＝ONE](https://ja.wikipedia.org/wiki/ザトー＝ONE)から翻訳されています。
 
 
 **ザトー＝ONE**（ザトー・ワン）は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。『GUILTY GEAR XX』では設定の関係から**エディ**と名を変える。担当声優はザトーを[塩沢兼人](../Page/塩沢兼人.md "wikilink")、エディ及びドラマCD、Xrdのザトーは[子安武人](../Page/子安武人.md "wikilink")。

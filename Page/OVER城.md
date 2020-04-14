@@ -1,4 +1,4 @@
-> この記事は[OVER](https://ja.wikipedia.org/wiki/OVER)から翻訳されています。
+> この記事は[OVER城](https://ja.wikipedia.org/wiki/OVER城)から翻訳されています。
 
 
 **OVER城**（オーバーじょう）は、漫画『[ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink")』に出てくる架空の[城](../Page/城.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ Thank You For](https://ja.wikipedia.org/wiki/_Thank_You_For)から翻訳されています。
+> この記事は[山口百恵トリビュート Thank You For…](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…)から翻訳されています。
 
 
 『**山口百恵トリビュート Thank You For…**』（やまぐちももえトリビュート・サンキュー・フォー）は、[山口百恵](../Page/山口百恵.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")リリース([CD](../Page/コンパクトディスク.md "wikilink"): MHCL-614)。

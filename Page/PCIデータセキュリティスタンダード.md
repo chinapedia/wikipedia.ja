@@ -1,4 +1,4 @@
-> この記事は[PCI](https://ja.wikipedia.org/wiki/PCI)から翻訳されています。
+> この記事は[PCIデータセキュリティスタンダード](https://ja.wikipedia.org/wiki/PCIデータセキュリティスタンダード)から翻訳されています。
 
 
 **PCIデータセキュリティスタンダード**（**PCI DSS**：Payment Card Industry Data Security Standard）は、 [クレジットカード](../Page/クレジットカード.md "wikilink")情報および取り引き情報を保護するために2004年12月、[JCB](../Page/ジェーシービー.md "wikilink")・[American Express](../Page/アメリカン・エキスプレス.md "wikilink")・[Discover](../Page/ディスカバーカード.md "wikilink")・[マスターカード](../Page/マスターカード.md "wikilink")・[VISAの国際ペイメントブランド](../Page/Visa.md "wikilink")5社が共同で策定した、クレジット業界におけるグローバル[セキュリティ基準である](../Page/コンピュータセキュリティ.md "wikilink")。 2016年4月28日に改訂版であるV3.2が発表された。このバージョンは2016年11月1日発効となる。 これに伴いV3.1は2016年10月31日に失効し、PCI SSCは、2016年4月28日付でPCI DSS v3.2の公開を行った。\[1\]

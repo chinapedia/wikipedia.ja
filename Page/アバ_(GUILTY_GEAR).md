@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[アバ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/アバ_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **アバ** (A.B.A) は、[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")の2D対戦型格闘ゲーム『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。担当声優は滝本みか。

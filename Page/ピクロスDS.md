@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ピクロスDS](https://ja.wikipedia.org/wiki/ピクロスDS)から翻訳されています。
 
 
 『**ピクロスDS**』（ピクロスディーエス）は、[任天堂](../Page/任天堂.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[パズルゲーム](../Page/パズルゲーム.md "wikilink")。

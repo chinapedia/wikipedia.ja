@@ -1,4 +1,4 @@
-> この記事は[MISTER](https://ja.wikipedia.org/wiki/MISTER)から翻訳されています。
+> この記事は[MISTERジパング](https://ja.wikipedia.org/wiki/MISTERジパング)から翻訳されています。
 
 
 『**MISTERジパング**』（ミスタージパング）は、[椎名高志](../Page/椎名高志.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に[2000年](../Page/2000年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")にかけて連載された。単行本は全8巻（小学館、少年サンデーコミックス）、文庫版で全4巻（[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")）。全78話。

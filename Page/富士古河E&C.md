@@ -1,4 +1,4 @@
-> この記事は[E\&C](https://ja.wikipedia.org/wiki/E\&C)から翻訳されています。
+> この記事は[富士古河E\&C](https://ja.wikipedia.org/wiki/富士古河E\&C)から翻訳されています。
 
 
 **富士古河E\&C株式会社**（ふじふるかわイーアンドシー、）は、[古河グループ](../Page/古河グループ.md "wikilink")に属し、上下[水道](../Page/水道.md "wikilink")・[道路](../Page/道路.md "wikilink")・[電気鉄道](../Page/電気鉄道.md "wikilink")などの社会インフラや、[産業](../Page/産業.md "wikilink")・[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")プラント、[産業](../Page/産業.md "wikilink")[建築](../Page/建築.md "wikilink")と[建築設備](https://ja.wikipedia.org/wiki/建築設備 "wikilink") の[設計](../Page/設計.md "wikilink")・[施工](https://ja.wikipedia.org/wiki/施工 "wikilink")を手掛ける[企業](../Page/企業.md "wikilink")。

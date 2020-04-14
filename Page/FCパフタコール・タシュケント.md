@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCパフタコール・タシュケント](https://ja.wikipedia.org/wiki/FCパフタコール・タシュケント)から翻訳されています。
 
 
 **パフタコール・タシュケントFK**（**Pakhtakor Tashkent FK**, , ）は、[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")の首都[タシュケント](../Page/タシュケント.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

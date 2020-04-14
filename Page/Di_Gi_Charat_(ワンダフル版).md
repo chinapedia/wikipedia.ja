@@ -1,4 +1,4 @@
-> この記事は[Di Gi Charat \(\)](https://ja.wikipedia.org/wiki/Di_Gi_Charat_\(\))から翻訳されています。
+> この記事は[Di Gi Charat \(ワンダフル版\)](https://ja.wikipedia.org/wiki/Di_Gi_Charat_\(ワンダフル版\))から翻訳されています。
 
 
 『**Di Gi Charat**』（デ・ジ・キャラット）は、[ブロッコリーが展開するキャラクター企画](../Page/ブロッコリー_\(企業\).md "wikilink")『[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")』を元に、[TBS系](../Page/TBSテレビ.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内で放送された[アニメ](../Page/アニメ.md "wikilink")作品\[1\]\[2\]。『デ・ジ・キャラット』シリーズにおける初のアニメ作品でもある。

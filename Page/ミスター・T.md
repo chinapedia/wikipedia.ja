@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[ミスター・T](https://ja.wikipedia.org/wiki/ミスター・T)から翻訳されています。
 
 
 **ミスター・T**（**Mr. T**, ミスター・ティー、誕生名: Laurence Tureaud, [1952年](../Page/1952年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身。

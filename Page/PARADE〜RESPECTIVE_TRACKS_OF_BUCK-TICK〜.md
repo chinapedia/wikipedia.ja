@@ -1,4 +1,4 @@
-> この記事は[PARADERESPECTIVE TRACKS OF BUCK-TICK](https://ja.wikipedia.org/wiki/PARADERESPECTIVE_TRACKS_OF_BUCK-TICK)から翻訳されています。
+> この記事は[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](https://ja.wikipedia.org/wiki/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜)から翻訳されています。
 
 
 『**PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜**』（パレード・リスペクティヴ・トラックス・オブ・バクチク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

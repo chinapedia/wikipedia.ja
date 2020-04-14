@@ -1,4 +1,4 @@
-> この記事は[ACT](https://ja.wikipedia.org/wiki/ACT)から翻訳されています。
+> この記事は[ACTであつこ](https://ja.wikipedia.org/wiki/ACTであつこ)から翻訳されています。
 
 
 『**ACTであつこ**』（アクトであつこ）は、[2007年](../Page/2007年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")まで[びわ湖放送](../Page/びわ湖放送.md "wikilink")で放送されていた[パチンコ・パチスロ番組](../Page/パチンコ・パチスロ番組.md "wikilink")である。[平和商事](https://ja.wikipedia.org/wiki/平和商事 "wikilink")グループの一社提供。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 24:25 - 25:20。

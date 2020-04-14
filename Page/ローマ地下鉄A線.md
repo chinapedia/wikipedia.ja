@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ローマ地下鉄A線](https://ja.wikipedia.org/wiki/ローマ地下鉄A線)から翻訳されています。
 
 
 }} **ローマ地下鉄A線**（ローマちかてつエーせん）は、[ローマ地下鉄](../Page/ローマ地下鉄.md "wikilink")の[地下鉄](../Page/地下鉄.md "wikilink")[路線](../Page/鉄道路線.md "wikilink")。

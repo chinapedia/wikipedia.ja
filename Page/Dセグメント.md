@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dセグメント](https://ja.wikipedia.org/wiki/Dセグメント)から翻訳されています。
 
 
 **Dセグメント**(D-Segment)とは、主に欧州で利用されている[乗用車](../Page/乗用車.md "wikilink")分類方法である[セグメントの一カテゴリーであり](../Page/セグメント_\(自動車\).md "wikilink")、[Cセグメント](../Page/Cセグメント.md "wikilink")と[Eセグメント](../Page/Eセグメント.md "wikilink")の中間にあたる。同一セグメントに[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[ハッチバック](../Page/ハッチバック.md "wikilink")などのボディスタイルを包括する。
@@ -26,7 +26,7 @@
 
 ## 関連項目
 
-  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表など。この対比表でDセグメントとされている車種には[トヨタ・カムリ](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")、[フォード・モンデオ](../Page/フォード・モンデオ.md "wikilink")、[ヒュンダイ・ソナタ](../Page/ヒュンダイ・ソナタ.md "wikilink")、[BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink")、[アキュラ・TSX](https://ja.wikipedia.org/wiki/アキュラ・TSX "wikilink")(日本名[アコード](../Page/ホンダ・アコード.md "wikilink"))などがある。
+  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表など。この対比表でDセグメントとされている車種には[トヨタ・カムリ](https://ja.wikipedia.org/wiki/トヨタ・カムリ "wikilink")、[フォード・モンデオ](../Page/フォード・モンデオ.md "wikilink")、[ヒュンダイ・ソナタ](../Page/ヒュンダイ・ソナタ.md "wikilink")、[BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink")、[シュコダ・オクタヴィア](../Page/シュコダ・オクタヴィア.md "wikilink")などがある。
 
 [it:Segmento D](https://ja.wikipedia.org/wiki/it:Segmento_D "wikilink")
 

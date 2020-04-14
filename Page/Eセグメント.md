@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[Eセグメント](https://ja.wikipedia.org/wiki/Eセグメント)から翻訳されています。
 
 
 **Eセグメント**(E-Segment, Upper Middle Size Cars/mid-luxury car)とは、主に欧州で利用されている[乗用車](../Page/乗用車.md "wikilink")分類方法である[セグメントの](../Page/セグメント_\(自動車\).md "wikilink")1カテゴリーであり、同一セグメントに[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[ハッチバック](../Page/ハッチバック.md "wikilink")などのボディスタイルを包括する。
@@ -19,7 +19,7 @@
 
 ## 関連項目
 
-  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表などこの対比表でEセグメントとされている車種には[トヨタ・クラウン](../Page/トヨタ・クラウン.md "wikilink")、[日産・フーガ](https://ja.wikipedia.org/wiki/日産・フーガ "wikilink")、[ホンダ・アコード](../Page/ホンダ・アコード.md "wikilink")、[メルセデス・ベンツ・Eクラス](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")、[BMW・5シリーズ](../Page/BMW・5シリーズ.md "wikilink")、[アウディ・A6](../Page/アウディ・A6.md "wikilink")、[フォード・クラウンヴィクトリア](https://ja.wikipedia.org/wiki/フォード・クラウンヴィクトリア "wikilink")、[シボレー・インパラ](../Page/シボレー・インパラ.md "wikilink")、[レクサス・GS](../Page/レクサス・GS.md "wikilink")、[レクサス・ES](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")、[クライスラー・300](../Page/クライスラー・300.md "wikilink")などがある。
+  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表などこの対比表でEセグメントとされている車種には[トヨタ・クラウン](../Page/トヨタ・クラウン.md "wikilink")、[日産・フーガ](https://ja.wikipedia.org/wiki/日産・フーガ "wikilink")、[ホンダ・レジェンド](../Page/ホンダ・レジェンド.md "wikilink")、[メルセデス・ベンツ・Eクラス](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")、[BMW・5シリーズ](../Page/BMW・5シリーズ.md "wikilink")、[アウディ・A6](../Page/アウディ・A6.md "wikilink")、[ボルボ・S90](https://ja.wikipedia.org/wiki/ボルボ・S90 "wikilink")、[ジャガー・XF](../Page/ジャガー・XF.md "wikilink")、[レクサス・GS](../Page/レクサス・GS.md "wikilink")、[レクサス・ES](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")、[キャデラック・CT5](https://ja.wikipedia.org/wiki/キャデラック・CT5 "wikilink")などがある。
 
 [Category:自動車の形態](https://ja.wikipedia.org/wiki/Category:自動車の形態 "wikilink")
 

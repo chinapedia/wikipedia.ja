@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[大集合NEO](https://ja.wikipedia.org/wiki/大集合NEO)から翻訳されています。
 
 
 **大集合NEO**（だいしゅうごうねお）とは、株式会社[オープンドア](https://ja.wikipedia.org/wiki/オープンドア "wikilink")が運営する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ゲーム](../Page/ゲーム.md "wikilink")サイト兼[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。

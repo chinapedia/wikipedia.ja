@@ -1,4 +1,4 @@
-> この記事は[FINAL FANTASY XITHE OUT OF ORDERS](https://ja.wikipedia.org/wiki/FINAL_FANTASY_XITHE_OUT_OF_ORDERS)から翻訳されています。
+> この記事は[FINAL FANTASY XI〜THE OUT OF ORDERS〜](https://ja.wikipedia.org/wiki/FINAL_FANTASY_XI〜THE_OUT_OF_ORDERS〜)から翻訳されています。
 
 
 『**FINAL FANTASY XI〜THE OUT OF ORDERS〜**』（ファイナルファンタジーイレブン〜ジ アウトオブオーダーズ〜）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")による日本国産の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")（[MMORPG](../Page/MMORPG.md "wikilink")）：『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")（以下『FFXI』）』 を原作とした漫画作品である。作画はキム・ビョンジン、原作はキム・ソンジェ。スクウェア・エニックス発行の[青年漫画](../Page/青年漫画.md "wikilink")[雑誌](../Page/雑誌.md "wikilink") 『[ヤングガンガン](../Page/ヤングガンガン.md "wikilink")（以下『YG』）』 の創刊号（[2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売）より看板作品と銘打たれて連載を開始したが、その後わずか3回で連載を中止した。

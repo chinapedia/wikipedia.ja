@@ -1,4 +1,4 @@
-> この記事は[CRIMSON \(\)](https://ja.wikipedia.org/wiki/CRIMSON_\(\))から翻訳されています。
+> この記事は[CRIMSON \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/CRIMSON_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**CRIMSON**』（クリムゾン）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の10枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1986年12月24日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12650, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8150, [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-190)。
@@ -52,7 +52,7 @@
 
   - [中森明菜 「CRIMSON」|Warner Music Japan](https://wmg.jp/akina/discography/3284/)
 
-[Category:中森明菜のアルバム](https://ja.wikipedia.org/wiki/Category:中森明菜のアルバム "wikilink") [Category:1986年のアルバム](https://ja.wikipedia.org/wiki/Category:1986年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:1987年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:竹内まりやが制作した楽曲](https://ja.wikipedia.org/wiki/Category:竹内まりやが制作した楽曲 "wikilink")
+[Category:中森明菜のアルバム](https://ja.wikipedia.org/wiki/Category:中森明菜のアルバム "wikilink") [Category:1986年のアルバム](https://ja.wikipedia.org/wiki/Category:1986年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:1987年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.
 2.

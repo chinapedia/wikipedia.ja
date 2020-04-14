@@ -1,4 +1,4 @@
-> この記事は[ \(Fayray\)](https://ja.wikipedia.org/wiki/_\(Fayray\))から翻訳されています。
+> この記事は[光と影 \(Fayrayのアルバム\)](https://ja.wikipedia.org/wiki/光と影_\(Fayrayのアルバム\))から翻訳されています。
 
 
 『**光と影**』（ひかりとかげ）は、日本の女性歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の7枚目のアルバム。

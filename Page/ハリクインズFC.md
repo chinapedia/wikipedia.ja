@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハリクインズFC](https://ja.wikipedia.org/wiki/ハリクインズFC)から翻訳されています。
 
 
 **ハリクインズ・フットボールクラブ**（**Harlequins Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")の[ギャラガー・プレミアシップに所属する](https://ja.wikipedia.org/wiki/プレミアシップ_\(ラグビー\) "wikilink")[ラグビー](../Page/ラグビー.md "wikilink")クラブである。かつては[NECがスポンサーだったが現在は](../Page/日本電気.md "wikilink")[DHL](../Page/DHL.md "wikilink")がメインスポンサーである\[1\]。
@@ -22,7 +22,7 @@
 
 ## 2019-2020スコッド
 
-2019-2020の[スコッド](https://ja.wikipedia.org/wiki/スコッド "wikilink")は次の通り。(2020年2月現在)
+2019-2020の[スコッド](https://ja.wikipedia.org/wiki/スコッド "wikilink")は次の通り。(2020年3月現在)
 
 <table>
 <thead>
@@ -39,8 +39,8 @@
 <li><p><strong><a href="https://ja.wikipedia.org/wiki/サンティアゴ・ボッタ・ガルシア" title="wikilink">サンティアゴ・ボッタ・ガルシア</a></strong></p></li>
 <li><p>Simon Kerrod</p></li>
 <li><p>Mark Lambert</p></li>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/ジョー・マーラー" title="wikilink">ジョー・マーラー</a></strong></p></li>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/カイル・シンクラー" title="wikilink">カイル・シンクラー</a></strong></p></li>
+<li><p><strong><a href="../Page/ジョー・マーラー.md" title="wikilink">ジョー・マーラー</a></strong></p></li>
+<li><p><strong><a href="../Page/カイル・シンクラー.md" title="wikilink">カイル・シンクラー</a></strong></p></li>
 <li><p>Phil Swainston</p></li>
 </ul>
 <p><strong>フッカー</strong></p>

@@ -1,4 +1,4 @@
-> この記事は[ \(Pierrot\)](https://ja.wikipedia.org/wiki/_\(Pierrot\))から翻訳されています。
+> この記事は[ラストレター \(Pierrotの曲\)](https://ja.wikipedia.org/wiki/ラストレター_\(Pierrotの曲\))から翻訳されています。
 
 
 「**ラストレター**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Pierrotの](https://ja.wikipedia.org/wiki/PIERROT "wikilink")、メジャーで発売された4枚目のシングル。

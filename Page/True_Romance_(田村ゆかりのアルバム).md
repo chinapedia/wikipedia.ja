@@ -1,4 +1,4 @@
-> この記事は[True Romance \(\)](https://ja.wikipedia.org/wiki/True_Romance_\(\))から翻訳されています。
+> この記事は[True Romance \(田村ゆかりのアルバム\)](https://ja.wikipedia.org/wiki/True_Romance_\(田村ゆかりのアルバム\))から翻訳されています。
 
 
 **True Romance**（トゥルーロマンス）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")のコレクション[アルバム](../Page/アルバム.md "wikilink")。2003年3月5日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。

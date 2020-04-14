@@ -1,4 +1,4 @@
-> この記事は[CRC](https://ja.wikipedia.org/wiki/CRC)から翻訳されています。
+> この記事は[CRCカード](https://ja.wikipedia.org/wiki/CRCカード)から翻訳されています。
 
 
 **CRCカード**とは、[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")[ソフトウェア設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")で使われる[ブレインストーミング](../Page/ブレインストーミング.md "wikilink")ツールである。CRC とは「クラス-責務-コラボレータ」を表す英語\[1\]の頭文字である。[ウォード・カニンガム](../Page/ウォード・カニンガム.md "wikilink")の考案である。通常、設計の最初期にどのような[クラスが必要で](../Page/クラス_\(コンピュータ\).md "wikilink")、それらがどのように相互に連携するかを決定するのに使う。

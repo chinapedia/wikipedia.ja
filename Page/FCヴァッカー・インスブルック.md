@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCヴァッカー・インスブルック](https://ja.wikipedia.org/wiki/FCヴァッカー・インスブルック)から翻訳されています。
 
 
 **FCヴァッカー・インスブルック**（）は、[オーストリア](../Page/オーストリア.md "wikilink")・[チロル州](../Page/チロル州.md "wikilink")の州都[インスブルック](../Page/インスブルック.md "wikilink")を本拠地とするサッカークラブである。 男子トップチームは[2018年](../Page/2018年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[オーストリア・ブンデスリーガ1部への復帰を果たし](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")\[1\]、[女子トップチームは同月に](https://ja.wikipedia.org/wiki/FCヴァッカー・インスブルック_\(女子\) "wikilink")[オーストリア女子ブンデスリーガ2部での優勝と](https://ja.wikipedia.org/wiki/女子サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")[オーストリア・女子ブンデスリーガ1部昇格を決めた](https://ja.wikipedia.org/wiki/女子サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")\[2\]。
@@ -296,7 +296,7 @@
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラウス・シュミット" title="wikilink">クラウス・シュミット</a></p></td>
+<td><p><a href="../Page/クラウス・シュミット.md" title="wikilink">クラウス・シュミット</a></p></td>
 <td></td>
 <td><p>2014年 - 2016年</p></td>
 </tr>

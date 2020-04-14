@@ -98,7 +98,7 @@
   - 輝け噂のテンベストショー（’96）
   - ルナシー日本テレビ特番’96
   - TBS プロ野球中継オープニング実況’96
-  - 三菱電気VP、NTT\&AT VP
+  - 三菱電機VP、NTT\&AT VP
   - AVEX TRAX ダンスミックスCD DJ VOICE（1991）
   - JT スーパーサウンド
 
@@ -120,7 +120,7 @@
 ## 外部リンク
 
   - [Chris Peppler's Office](http://www.cpojpn.com/)
-  - [ALAN J Blog](http://ameblo.jp/alanj/)
+  - [ALAN J Blog](https://ameblo.jp/alanj/)
 
 [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:bayfmのパーソナリティ](https://ja.wikipedia.org/wiki/Category:bayfmのパーソナリティ "wikilink") [Category:ドイツ系アメリカ人](https://ja.wikipedia.org/wiki/Category:ドイツ系アメリカ人 "wikilink") [Category:日系アメリカ人](https://ja.wikipedia.org/wiki/Category:日系アメリカ人 "wikilink") [Category:在日アメリカ人](https://ja.wikipedia.org/wiki/Category:在日アメリカ人 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1963年生](https://ja.wikipedia.org/wiki/Category:1963年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

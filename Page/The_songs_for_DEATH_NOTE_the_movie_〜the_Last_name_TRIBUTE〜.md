@@ -1,4 +1,4 @@
-> この記事は[The songs for DEATH NOTE the movie the Last name TRIBUTE](https://ja.wikipedia.org/wiki/The_songs_for_DEATH_NOTE_the_movie_the_Last_name_TRIBUTE)から翻訳されています。
+> この記事は[The songs for DEATH NOTE the movie 〜the Last name TRIBUTE〜](https://ja.wikipedia.org/wiki/The_songs_for_DEATH_NOTE_the_movie_〜the_Last_name_TRIBUTE〜)から翻訳されています。
 
 
 『**The songs for DEATH NOTE the movie 〜the Last name TRIBUTE〜**』（ザ・ソングス・フォー・デスノート・ザ・ムービー・ザ・ラスト・ネーム・トリビュート）は、[2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に発売された映画『[デスノート the Last name](../Page/デスノート_\(映画\).md "wikilink")』の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。

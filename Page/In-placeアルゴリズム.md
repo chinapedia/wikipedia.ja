@@ -1,4 +1,4 @@
-> この記事は[In-place](https://ja.wikipedia.org/wiki/In-place)から翻訳されています。
+> この記事は[In-placeアルゴリズム](https://ja.wikipedia.org/wiki/In-placeアルゴリズム)から翻訳されています。
 
 
 **in-placeアルゴリズム**とは、[計算機科学](../Page/計算機科学.md "wikilink")において[データ構造](../Page/データ構造.md "wikilink")の変換を行うにあたって、追加の記憶領域をほとんど使わずに行う[アルゴリズム](../Page/アルゴリズム.md "wikilink")を意味する。 in-place とは「その場で」といった意味であり、入力が出力で上書きされることが多いことから来る用語である。 in-place でないアルゴリズムは **not-in-place** あるいは **out-of-place** などと呼ばれることもある。

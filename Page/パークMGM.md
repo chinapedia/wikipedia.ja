@@ -1,4 +1,4 @@
-> この記事は[MGM](https://ja.wikipedia.org/wiki/MGM)から翻訳されています。
+> この記事は[パークMGM](https://ja.wikipedia.org/wiki/パークMGM)から翻訳されています。
 
 
 **パークMGM**（Park MGM、旧称モンテカルロ・リゾート&カジノ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")にある[統合型リゾート](https://ja.wikipedia.org/wiki/統合型リゾート "wikilink")（IR）である。

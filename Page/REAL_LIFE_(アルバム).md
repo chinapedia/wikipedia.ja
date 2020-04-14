@@ -1,4 +1,4 @@
-> この記事は[REAL LIFE \(\)](https://ja.wikipedia.org/wiki/REAL_LIFE_\(\))から翻訳されています。
+> この記事は[REAL LIFE \(アルバム\)](https://ja.wikipedia.org/wiki/REAL_LIFE_\(アルバム\))から翻訳されています。
 
 
 『**REAL LIFE**』（リアル・ライフ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")13枚目のアルバム。

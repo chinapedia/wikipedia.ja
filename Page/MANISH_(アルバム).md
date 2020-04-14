@@ -1,4 +1,4 @@
-> この記事は[MANISH \(\)](https://ja.wikipedia.org/wiki/MANISH_\(\))から翻訳されています。
+> この記事は[MANISH \(アルバム\)](https://ja.wikipedia.org/wiki/MANISH_\(アルバム\))から翻訳されています。
 
 
 **MANISH**（マニッシュ）は、[1993年](../Page/1993年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")にリリースされた[MANISH](../Page/MANISH.md "wikilink")のアルバムである｡

@@ -1,4 +1,4 @@
-> この記事は[NOW](https://ja.wikipedia.org/wiki/NOW)から翻訳されています。
+> この記事は[バリシャキNOW](https://ja.wikipedia.org/wiki/バリシャキNOW)から翻訳されています。
 
 
 **バリシャキNOW**（バリシャキナウ）は、[中国放送](../Page/中国放送.md "wikilink")（RCCラジオ）で放送されているラジオ番組。
@@ -286,6 +286,6 @@
 
 ## 外部リンク
 
-  - [RCCラジオ「バリシャキNOW」](http://www.1350.jp/barisha/)
+  - [RCCラジオ「バリシャキNOW」](https://radio.rcc.jp/barisha/)
 
 [Category:中国放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:中国放送のラジオ帯番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

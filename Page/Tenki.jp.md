@@ -1,7 +1,7 @@
 > この記事は[Tenki.jp](https://ja.wikipedia.org/wiki/Tenki.jp)から翻訳されています。
 
 
-**tenki.jp**とは、[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")[日本気象協会](../Page/日本気象協会.md "wikilink")が運営している[天気予報](../Page/天気予報.md "wikilink")を提供する[ウェブサイト](../Page/ウェブサイト.md "wikilink")。全国各地の天気予報を提供しているだけではなく、[地震](../Page/地震.md "wikilink")情報や[注意報](../Page/注意報.md "wikilink")や[警報](../Page/警報.md "wikilink")の情報を提供している。更に[桜の開花予想や](../Page/サクラ.md "wikilink")[紅葉](../Page/紅葉.md "wikilink")情報、またそれぞれの[季節](../Page/季節.md "wikilink")に応じた暮らしに役立つサービスも提供している。
+**tenki.jp**とは、[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")[日本気象協会](../Page/日本気象協会.md "wikilink")が運営している[天気予報](../Page/天気予報.md "wikilink")を提供する[ウェブサイト](../Page/ウェブサイト.md "wikilink")。全国各地の天気予報、[地震](../Page/地震.md "wikilink")情報や[注意報](../Page/注意報.md "wikilink")・[警報](../Page/警報.md "wikilink")、[桜の開花予想や](../Page/サクラ.md "wikilink")[紅葉](../Page/紅葉.md "wikilink")情報等[季節](../Page/季節.md "wikilink")に応じた暮らしに役立つサービスを提供している。
 
 ## 沿革
 

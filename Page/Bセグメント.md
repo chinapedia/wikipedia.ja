@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bセグメント](https://ja.wikipedia.org/wiki/Bセグメント)から翻訳されています。
 
 
 **Bセグメント**(B-Segment, Subcompact car, Supermini)とは、主に欧州で利用されている[乗用車](../Page/乗用車.md "wikilink")分類方法である[セグメントの](../Page/セグメント_\(自動車\).md "wikilink")1カテゴリーであり、[Aセグメント](../Page/Aセグメント.md "wikilink")と[Cセグメント](../Page/Cセグメント.md "wikilink")の中間に位置付けられる[車格](https://ja.wikipedia.org/wiki/車格 "wikilink")である。同一セグメントに[セダン](../Page/セダン.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[ハッチバック](../Page/ハッチバック.md "wikilink")などのボディスタイルを包括する。
@@ -19,7 +19,7 @@
 
 ## 関連項目
 
-  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表など。この対比表でBセグメントとされている車種には[フォルクスワーゲン・ポロ](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ポロ "wikilink")、[フォード・フィエスタ](../Page/フォード・フィエスタ.md "wikilink")、[プジョー・207](../Page/プジョー・207.md "wikilink")などがある。
+  - [自動車分類](https://ja.wikipedia.org/wiki/w:Car_classification "wikilink")（英語版） - アメリカ分類、イギリス分類、セグメント分類、ユーロNCAP分類の対照表など。この対比表でBセグメントとされている車種には[トヨタ・ヤリス](../Page/トヨタ・ヤリス.md "wikilink")、[ホンダ・ジャズ](../Page/ホンダ・フィット.md "wikilink")、[フォルクスワーゲン・ポロ](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ポロ "wikilink")、[フォード・フィエスタ](../Page/フォード・フィエスタ.md "wikilink")、などがある。
 
 <!-- end list -->
 

@@ -1,4 +1,4 @@
-> この記事は[G-FIVE](https://ja.wikipedia.org/wiki/G-FIVE)から翻訳されています。
+> この記事は[超速戦士G-FIVE](https://ja.wikipedia.org/wiki/超速戦士G-FIVE)から翻訳されています。
 
 
 **超速戦士G-FIVE**（**ちょうそくせんしジーファイブ**）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を中心に活躍している[ローカルヒーロー](../Page/ローカルヒーロー.md "wikilink")。

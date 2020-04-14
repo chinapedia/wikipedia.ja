@@ -1,4 +1,4 @@
-> この記事は[SIREN \(\)](https://ja.wikipedia.org/wiki/SIREN_\(\))から翻訳されています。
+> この記事は[SIREN \(企業\)](https://ja.wikipedia.org/wiki/SIREN_\(企業\))から翻訳されています。
 
 
 **SIREN**（さいれん）とは、アメリカ西海岸で設立された会社で、[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")及び[GPS](../Page/グローバル・ポジショニング・システム.md "wikilink")、デジタルフォトフレーム等を販売しているブランドの名称である。

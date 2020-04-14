@@ -1,4 +1,4 @@
-> この記事は[SYMPATHY \(ARB\)](https://ja.wikipedia.org/wiki/SYMPATHY_\(ARB\))から翻訳されています。
+> この記事は[SYMPATHY \(ARBのアルバム\)](https://ja.wikipedia.org/wiki/SYMPATHY_\(ARBのアルバム\))から翻訳されています。
 
 
 『**SYMPATHY**』（シンパシー）は、[1989年](../Page/1989年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")12枚目のアルバムである。

@@ -1,4 +1,4 @@
-> この記事は[LB](https://ja.wikipedia.org/wiki/LB)から翻訳されています。
+> この記事は[LBシャトールー](https://ja.wikipedia.org/wiki/LBシャトールー)から翻訳されています。
 
 
 **ラ・ベリションヌ・ドゥ・シャトールー**（**La Berrichonne de Châteauroux**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[シャトールー](../Page/シャトールー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

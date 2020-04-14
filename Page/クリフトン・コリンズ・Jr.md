@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[クリフトン・コリンズ・Jr](https://ja.wikipedia.org/wiki/クリフトン・コリンズ・Jr)から翻訳されています。
 
 
 **クリフトン・コリンズ・Jr**（**Clifton Collins Jr.**, [1970年](../Page/1970年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")。

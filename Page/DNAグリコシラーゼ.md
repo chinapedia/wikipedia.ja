@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAグリコシラーゼ](https://ja.wikipedia.org/wiki/DNAグリコシラーゼ)から翻訳されています。
 
 
 [ウラシルDNAグリコシラーゼ.png](https://ja.wikipedia.org/wiki/File:ウラシルDNAグリコシラーゼ.png "fig:ウラシルDNAグリコシラーゼ.png")

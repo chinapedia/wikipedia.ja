@@ -1,4 +1,4 @@
-> この記事は[ Cal\&Toara](https://ja.wikipedia.org/wiki/_Cal\&Toara)から翻訳されています。
+> この記事は[白銀のカル Cal\&Toara](https://ja.wikipedia.org/wiki/白銀のカル_Cal\&Toara)から翻訳されています。
 
 
 『**白銀のカル Cal\&Toara**』（しろがねのカル カル・アンド・トアラ）は、[竹内なおゆき](../Page/竹内なおゆき.md "wikilink")：作・[駒都えーじ](../Page/駒都えーじ.md "wikilink")：画の小説作品。『[コンプティーク](../Page/コンプティーク.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）[2007年](../Page/2007年.md "wikilink")1月号から8月号まで連載された。

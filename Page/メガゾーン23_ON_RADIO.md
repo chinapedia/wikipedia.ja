@@ -1,4 +1,4 @@
-> この記事は[23 ON RADIO](https://ja.wikipedia.org/wiki/23_ON_RADIO)から翻訳されています。
+> この記事は[メガゾーン23 ON RADIO](https://ja.wikipedia.org/wiki/メガゾーン23_ON_RADIO)から翻訳されています。
 
 
 『**メガゾーン23 ON RADIO**』（メガゾーンツースリー オン レディオ）は、[文化放送](../Page/文化放送.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から同年[3月31日](../Page/3月31日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")26:30 - 27:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

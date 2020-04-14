@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[SVリート](https://ja.wikipedia.org/wiki/SVリート)から翻訳されています。
 
 
 **SVリート** () は、[オーストリア](../Page/オーストリア.md "wikilink")の[リート・イム・インクライス郡](../Page/リート・イム・インクライス郡.md "wikilink")をホームタウンとするサッカークラブである。

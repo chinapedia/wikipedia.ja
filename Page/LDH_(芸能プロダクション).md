@@ -1,4 +1,4 @@
-> この記事は[LDH \(\)](https://ja.wikipedia.org/wiki/LDH_\(\))から翻訳されています。
+> この記事は[LDH \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/LDH_\(芸能プロダクション\))から翻訳されています。
 
 
 **株式会社LDH JAPAN**（エルディーエイチ ジャパン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")、[エンターテインメント](../Page/エンターテインメント.md "wikilink")企業である。
@@ -54,11 +54,9 @@
 **俳優**
 
   - [RIKACO](../Page/RIKACO.md "wikilink")
-  - [音月桂](../Page/音月桂.md "wikilink")
   - [長谷部優](../Page/長谷部優.md "wikilink")
   - [水野絵梨奈](https://ja.wikipedia.org/wiki/水野絵梨奈 "wikilink")
   - [杉ありさ](https://ja.wikipedia.org/wiki/杉ありさ "wikilink")
-  - [城戸愛莉](../Page/城戸愛莉.md "wikilink")
   - [石井杏奈](https://ja.wikipedia.org/wiki/石井杏奈_\(E-girls\) "wikilink")
   - 平川結月
   - 黒谷磨世
@@ -83,7 +81,6 @@
 **タレント**
 
   - [山口五和](../Page/山口五和.md "wikilink")
-  - [長塚智広](../Page/長塚智広.md "wikilink")
   - [LISA](../Page/LISA_\(歌手\).md "wikilink")
 
 **モデル**
@@ -91,7 +88,6 @@
   - [佐田真由美](../Page/佐田真由美.md "wikilink")
   - [岩堀せり](../Page/岩堀せり.md "wikilink")
   - [大屋夏南](https://ja.wikipedia.org/wiki/大屋夏南 "wikilink")
-  - [佐原モニカ](https://ja.wikipedia.org/wiki/佐原モニカ "wikilink")
   - [テイラー鈴木](https://ja.wikipedia.org/wiki/テイラー鈴木 "wikilink")
   - [モーガン茉愛羅](https://ja.wikipedia.org/wiki/モーガン茉愛羅 "wikilink")
   - 佐藤寧音
@@ -167,6 +163,10 @@
   - [Flower](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")
   - [神田瀧夢](../Page/神田瀧夢.md "wikilink")
   - [NOMA](https://ja.wikipedia.org/wiki/NOMA_\(モデル\) "wikilink")
+  - [長塚智広](../Page/長塚智広.md "wikilink")
+  - [音月桂](../Page/音月桂.md "wikilink")
+  - [城戸愛莉](../Page/城戸愛莉.md "wikilink")
+  - [佐原モニカ](https://ja.wikipedia.org/wiki/佐原モニカ "wikilink")
 
 ## グループ会社
 
@@ -195,7 +195,6 @@
   - [佐田真由美](../Page/佐田真由美.md "wikilink")
   - [岩堀せり](../Page/岩堀せり.md "wikilink")
   - [大屋夏南](https://ja.wikipedia.org/wiki/大屋夏南 "wikilink")
-  - [佐原モニカ](https://ja.wikipedia.org/wiki/佐原モニカ "wikilink")
   - [テイラー鈴木](https://ja.wikipedia.org/wiki/テイラー鈴木 "wikilink")
   - [モーガン茉愛羅](https://ja.wikipedia.org/wiki/モーガン茉愛羅 "wikilink")
   - 佐藤寧音
@@ -239,7 +238,7 @@
 <!-- end list -->
 
   - 労働基準法違反
-    2019年4月、上限を超える[時間外労働](../Page/時間外労働.md "wikilink")を従業員にさせた等として、[労働基準監督署](../Page/労働基準監督署.md "wikilink")から[是正勧告](https://ja.wikipedia.org/wiki/是正勧告 "wikilink")を受けていたことが分かった\[18\]。2014年1月にはEXILEのメンバーのマネージャーを中心とする複数の従業員の[労働時間](https://ja.wikipedia.org/wiki/労働時間 "wikilink")が月に400-500時間に及んだとして、2018年2月にはマネージャーの残業時間が[三六協定で定めた上限を超えていたとして](https://ja.wikipedia.org/wiki/時間外労働#三六協定 "wikilink")、それぞれ勧告を受けていた\[19\]。
+    2019年4月、上限を超える[時間外労働](../Page/時間外労働.md "wikilink")を従業員にさせた等として、[労働基準監督署](../Page/労働基準監督署.md "wikilink")から[是正勧告](https://ja.wikipedia.org/wiki/是正勧告 "wikilink")を受けていたことが分かった\[18\]。2014年1月にはEXILEのメンバーのマネージャーを中心とする複数の従業員の[労働時間](../Page/労働時間.md "wikilink")が月に400-500時間に及んだとして、2018年2月にはマネージャーの残業時間が[三六協定で定めた上限を超えていたとして](https://ja.wikipedia.org/wiki/時間外労働#三六協定 "wikilink")、それぞれ勧告を受けていた\[19\]。
 
 ## 脚注
 

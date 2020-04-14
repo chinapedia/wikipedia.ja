@@ -1,4 +1,4 @@
-> この記事は[PBY \(\)](https://ja.wikipedia.org/wiki/PBY_\(\))から翻訳されています。
+> この記事は[PBY \(航空機\)](https://ja.wikipedia.org/wiki/PBY_\(航空機\))から翻訳されています。
 
 
 **PBY カタリナ**（*Consolidated PBY Catalina* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コンソリデーテッド・エアクラフト](../Page/コンソリデーテッド・エアクラフト.md "wikilink")社が[開発](../Page/開発.md "wikilink")した[飛行艇](../Page/飛行艇.md "wikilink")である。

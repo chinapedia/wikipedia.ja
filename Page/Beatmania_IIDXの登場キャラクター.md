@@ -1,4 +1,4 @@
-> この記事は[Beatmania IIDX](https://ja.wikipedia.org/wiki/Beatmania_IIDX)から翻訳されています。
+> この記事は[Beatmania IIDXの登場キャラクター](https://ja.wikipedia.org/wiki/Beatmania_IIDXの登場キャラクター)から翻訳されています。
 
 
 **beatmania IIDXの登場キャラクター**では、[コナミによる音楽シミュレーションゲーム](../Page/コナミホールディングス.md "wikilink")『**[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")**』に関連した[キャラクター](../Page/キャラクター.md "wikilink")について詳述する。

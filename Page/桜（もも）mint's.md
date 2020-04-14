@@ -1,4 +1,4 @@
-> この記事は[mint\'s](https://ja.wikipedia.org/wiki/mint\'s)から翻訳されています。
+> この記事は[桜（もも）mint\'s](https://ja.wikipedia.org/wiki/桜（もも）mint\'s)から翻訳されています。
 
 
 **桜（もも）mint's**（ももミンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[ユニット](../Page/ユニット.md "wikilink")。[2006年](../Page/2006年.md "wikilink")結成、[2007年](../Page/2007年.md "wikilink")活動休止。

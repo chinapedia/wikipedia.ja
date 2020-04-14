@@ -1,4 +1,4 @@
-> この記事は[MAD SKY --](https://ja.wikipedia.org/wiki/MAD_SKY_--)から翻訳されています。
+> この記事は[MAD SKY -鋼鉄の救世主-](https://ja.wikipedia.org/wiki/MAD_SKY_-鋼鉄の救世主-)から翻訳されています。
 
 
 「**MAD SKY -鋼鉄の救世主-**」（マッドスカイ こうてつのメシア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Pierrotの](https://ja.wikipedia.org/wiki/PIERROT "wikilink")、[メジャーレーベルから発売された](https://ja.wikipedia.org/wiki/レコード会社#メジャーレーベルとインディーズレーベル "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月2日、[東芝EMIより発売](../Page/EMIミュージック・ジャパン.md "wikilink")。

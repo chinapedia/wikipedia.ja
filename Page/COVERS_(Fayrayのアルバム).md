@@ -1,4 +1,4 @@
-> この記事は[COVERS \(Fayray\)](https://ja.wikipedia.org/wiki/COVERS_\(Fayray\))から翻訳されています。
+> この記事は[COVERS \(Fayrayのアルバム\)](https://ja.wikipedia.org/wiki/COVERS_\(Fayrayのアルバム\))から翻訳されています。
 
 
 『**COVERS**』（カバーズ）は、日本の女性歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の6枚目のアルバム。

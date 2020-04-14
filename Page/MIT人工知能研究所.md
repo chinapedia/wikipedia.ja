@@ -1,4 +1,4 @@
-> この記事は[MIT](https://ja.wikipedia.org/wiki/MIT)から翻訳されています。
+> この記事は[MIT人工知能研究所](https://ja.wikipedia.org/wiki/MIT人工知能研究所)から翻訳されています。
 
 
 **MIT人工知能研究所**（、）は、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")にかつて存在した学際的研究機関であり、[人工知能](../Page/人工知能.md "wikilink")と[ロボット工学](../Page/ロボット工学.md "wikilink")の分野で世界的な貢献をしたことで知られる。MITでの人工知能研究は[1959年](../Page/1959年.md "wikilink")に始まった。[1963年](../Page/1963年.md "wikilink")、人工知能研究グループは新たに結成された  に編入され、[1970年](../Page/1970年.md "wikilink")にそこから分離して人工知能研究所を設立。[2003年](../Page/2003年.md "wikilink")、同研究所は  の流れを受け継いだ[MITコンピュータ科学研究所](https://ja.wikipedia.org/wiki/MITコンピュータ科学研究所 "wikilink")と合併し、[CSAILとなった](../Page/MITコンピュータ科学・人工知能研究所.md "wikilink")。

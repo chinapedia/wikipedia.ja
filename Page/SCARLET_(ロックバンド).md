@@ -1,4 +1,4 @@
-> この記事は[SCARLET \(\)](https://ja.wikipedia.org/wiki/SCARLET_\(\))から翻訳されています。
+> この記事は[SCARLET \(ロックバンド\)](https://ja.wikipedia.org/wiki/SCARLET_\(ロックバンド\))から翻訳されています。
 
 
 **SCARLET**（スカーレット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。男女ツインボーカル編成。

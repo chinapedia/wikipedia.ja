@@ -56,8 +56,7 @@
 
 ## 外部リンク
 
-  - \[<http://www.geocities.jp/vo_yamoto/>　GOLD TORA STUDIOホームページ\]
-
+  -
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

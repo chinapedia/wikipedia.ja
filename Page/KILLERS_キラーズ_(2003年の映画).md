@@ -1,4 +1,4 @@
-> この記事は[KILLERS  \(2003\)](https://ja.wikipedia.org/wiki/KILLERS__\(2003\))から翻訳されています。
+> この記事は[KILLERS キラーズ \(2003年の映画\)](https://ja.wikipedia.org/wiki/KILLERS_キラーズ_\(2003年の映画\))から翻訳されています。
 
 
 『**KILLERS キラーズ**』は2002年制作、[2003年](../Page/2003年.md "wikilink")6月公開の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の劇場用[オムニバス映画](https://ja.wikipedia.org/wiki/オムニバス映画 "wikilink")。監督は[押井守](../Page/押井守.md "wikilink")、[きうちかずひろ](../Page/きうちかずひろ.md "wikilink")、[大川俊道](../Page/大川俊道.md "wikilink")、[河田秀二](https://ja.wikipedia.org/wiki/河田秀二 "wikilink")、[辻本貴則](https://ja.wikipedia.org/wiki/辻本貴則 "wikilink")。

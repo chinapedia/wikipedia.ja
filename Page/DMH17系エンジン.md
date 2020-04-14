@@ -1,4 +1,4 @@
-> この記事は[DMH17](https://ja.wikipedia.org/wiki/DMH17)から翻訳されています。
+> この記事は[DMH17系エンジン](https://ja.wikipedia.org/wiki/DMH17系エンジン)から翻訳されています。
 
 
 [thumbのDMH](https://ja.wikipedia.org/wiki/ファイル:JNR_DMH17C_engine\(DMU_Type_Kiha_20's\).jpg "wikilink")17Cエンジン。中央に燃料噴射ポンプが設置されている。出力軸となる左側に新潟コンバータDF115A液体変速機を装備。[碓氷峠鉄道文化むら](../Page/碓氷峠鉄道文化むら.md "wikilink")にて撮影\]\] **DMH17系エンジン**（DMH17けいエンジン）とは、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の[気動車](../Page/気動車.md "wikilink")・[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")に搭載されていた[直列8気筒](../Page/直列8気筒.md "wikilink")、副室式[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。

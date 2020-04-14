@@ -1,4 +1,4 @@
-> この記事は[EVIL CRUSHER ](https://ja.wikipedia.org/wiki/EVIL_CRUSHER_)から翻訳されています。
+> この記事は[EVIL CRUSHER 魔矢](https://ja.wikipedia.org/wiki/EVIL_CRUSHER_魔矢)から翻訳されています。
 
 
 『**EVIL CRUSHER 魔矢**』（エビルクラッシャー マヤ）は、[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

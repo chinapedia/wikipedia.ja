@@ -1,4 +1,4 @@
-> この記事は[EL DORADO \(\)](https://ja.wikipedia.org/wiki/EL_DORADO_\(\))から翻訳されています。
+> この記事は[EL DORADO \(アルバム\)](https://ja.wikipedia.org/wiki/EL_DORADO_\(アルバム\))から翻訳されています。
 
 
 『**EL DORADO**』（エルドラド）は、[1999年](../Page/1999年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")14枚目のアルバムである。

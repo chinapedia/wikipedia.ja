@@ -1,4 +1,4 @@
-> この記事は[GZK](https://ja.wikipedia.org/wiki/GZK)から翻訳されています。
+> この記事は[GZK限界](https://ja.wikipedia.org/wiki/GZK限界)から翻訳されています。
 
 
 **GZK限界**（ジーズィーケーげんかい：、略称**GZK limit**）または**GZKカットオフ**（ジーズィーケーカットオフ：GZK cutoff）とは4×10<sup>19</sup>[eV以上の高エネルギー](../Page/電子ボルト.md "wikilink")[宇宙線](../Page/宇宙線.md "wikilink")は[宇宙背景放射](https://ja.wikipedia.org/wiki/宇宙背景放射 "wikilink")の[マイクロ波](../Page/マイクロ波.md "wikilink")（光子）との[相互作用](../Page/相互作用.md "wikilink")によりエネルギーを失うため地球には届かないという予想である\[1\]。[1966年](../Page/1966年.md "wikilink")に[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Greisen、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の Zatsepin と Kuzmin が提唱した。提唱者の名前の頭文字が呼称の由来である。

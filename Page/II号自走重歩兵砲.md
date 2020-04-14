@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[II号自走重歩兵砲](https://ja.wikipedia.org/wiki/II号自走重歩兵砲)から翻訳されています。
 
 
 **II号自走重歩兵砲**（にごうじそうじゅうほへいほう）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ軍の装甲車両の一つ](../Page/ドイツ国防軍.md "wikilink")。制式名称は15cm sIG33 auf Fehrgestell Panzerkampfwagen II (Sf) （15cm33式重歩兵砲搭載II号戦車車台・自走式）。

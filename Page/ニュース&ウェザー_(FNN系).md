@@ -1,4 +1,4 @@
-> この記事は[\& \(FNN\)](https://ja.wikipedia.org/wiki/\&_\(FNN\))から翻訳されています。
+> この記事は[ニュース\&ウェザー \(FNN系\)](https://ja.wikipedia.org/wiki/ニュース\&ウェザー_\(FNN系\))から翻訳されています。
 
 
 『**ニュース&ウェザー**』（ニュースアンドウェザー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から同年[11月2日](../Page/11月2日.md "wikilink")までと[1992年](../Page/1992年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から同年[4月3日](../Page/4月3日.md "wikilink")にかけて[フジテレビで放送された平日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。

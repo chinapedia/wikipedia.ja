@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[寧々 \(AV女優\)](https://ja.wikipedia.org/wiki/寧々_\(AV女優\))から翻訳されています。
 
 
 **寧々**（ねね、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月15日](../Page/1月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

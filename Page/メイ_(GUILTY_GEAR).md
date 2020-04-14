@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[メイ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/メイ_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **メイ** (MAY) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。担当声優は[こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")。

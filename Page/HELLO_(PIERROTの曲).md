@@ -1,4 +1,4 @@
-> この記事は[HELLO \(PIERROT\)](https://ja.wikipedia.org/wiki/HELLO_\(PIERROT\))から翻訳されています。
+> この記事は[HELLO \(PIERROTの曲\)](https://ja.wikipedia.org/wiki/HELLO_\(PIERROTの曲\))から翻訳されています。
 
 
 「**HELLO**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の、メジャーで発売された17枚目のシングル。

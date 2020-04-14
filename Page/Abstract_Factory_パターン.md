@@ -1,4 +1,4 @@
-> この記事は[Abstract Factory ](https://ja.wikipedia.org/wiki/Abstract_Factory_)から翻訳されています。
+> この記事は[Abstract Factory パターン](https://ja.wikipedia.org/wiki/Abstract_Factory_パターン)から翻訳されています。
 
 
 **Abstract Factory パターン**（アブストラクト・ファクトリ・パターン）\[1\]とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")（Gang of Four; 4人のギャングたち）によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。 関連するインスタンス群を生成するための [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") を集約することによって、複数のモジュール群の再利用を効率化することを目的とする。日本語では「抽象的な工場」と翻訳される事が多い。

@@ -1,4 +1,4 @@
-> この記事は[BOYS\&GIRLS \(ARB\)](https://ja.wikipedia.org/wiki/BOYS\&GIRLS_\(ARB\))から翻訳されています。
+> この記事は[BOYS\&GIRLS \(ARBのアルバム\)](https://ja.wikipedia.org/wiki/BOYS\&GIRLS_\(ARBのアルバム\))から翻訳されています。
 
 
 『**BOYS\&GIRLS**』（ボーイズ アンド ガールズ）は、[1981年](../Page/1981年.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")3枚目のアルバムである。

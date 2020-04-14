@@ -1,4 +1,4 @@
-> この記事は[COCOON \(PIERROT\)](https://ja.wikipedia.org/wiki/COCOON_\(PIERROT\))から翻訳されています。
+> この記事は[COCOON \(PIERROTの曲\)](https://ja.wikipedia.org/wiki/COCOON_\(PIERROTの曲\))から翻訳されています。
 
 
 「**COCOON**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の、メジャーで発売された9枚目のシングル。

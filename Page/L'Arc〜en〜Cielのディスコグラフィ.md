@@ -1,4 +1,4 @@
-> この記事は[L\'ArcenCiel](https://ja.wikipedia.org/wiki/L\'ArcenCiel)から翻訳されています。
+> この記事は[L\'Arc〜en〜Cielのディスコグラフィ](https://ja.wikipedia.org/wiki/L\'Arc〜en〜Cielのディスコグラフィ)から翻訳されています。
 
 
 L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")がこれまでに発売した全作品についてまとめた項。
@@ -857,7 +857,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5020</p></td>
 <td><Div Align="center">
-<p>-</p>
+<p>4位</p>
 </Div></td>
 <td><Div Align="center">
 <p><a href="https://ja.wikipedia.org/wiki/heavenly_(L&#39;Arc〜en〜Cielのアルバム)" title="wikilink">heavenly</a></p>
@@ -1657,7 +1657,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5014</p></td>
 <td><Div Align="center">
-<p>26位*</p>
+<p>5位"</p>
 </Div></td>
 </tr>
 <tr class="even">
@@ -1720,7 +1720,7 @@ L'Arc〜en〜Cielのディスコグラフィ（ラルク アン シエル-）は
 <td><p>VHS</p></td>
 <td><p>KSV5-5026</p></td>
 <td><Div Align="center">
-<p>16位*</p>
+<p>3位"</p>
 </Div></td>
 </tr>
 <tr class="odd">

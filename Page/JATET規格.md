@@ -1,4 +1,4 @@
-> この記事は[JATET](https://ja.wikipedia.org/wiki/JATET)から翻訳されています。
+> この記事は[JATET規格](https://ja.wikipedia.org/wiki/JATET規格)から翻訳されています。
 
 
 **JATET規格**(**じゃてっときかく**)とは、[劇場演出空間技術協会](https://ja.wikipedia.org/wiki/劇場演出空間技術協会 "wikilink")(JATET)\[1\]によって定められた、[劇場](https://ja.wikipedia.org/wiki/劇場等演出空間 "wikilink")、[演出空間](../Page/演出空間.md "wikilink")の技術に関する規格である。

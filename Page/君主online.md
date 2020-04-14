@@ -1,4 +1,4 @@
-> この記事は[online](https://ja.wikipedia.org/wiki/online)から翻訳されています。
+> この記事は[君主online](https://ja.wikipedia.org/wiki/君主online)から翻訳されています。
 
 
 **君主online**（原題Goonzu Onlineまたは）は韓国のゲーム会社社が開発したオンラインゲーム。[MMORPG](../Page/MMORPG.md "wikilink")に分類される。グラフィックは2D方式である。そのため比較的低スペックPCでもゲームを楽しむことができる。

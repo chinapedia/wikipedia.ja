@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[アイムジャグラーEX](https://ja.wikipedia.org/wiki/アイムジャグラーEX)から翻訳されています。
 
 
 『**アイムジャグラーEX**』は、[2007年](../Page/2007年.md "wikilink")1月に[北電子](../Page/北電子.md "wikilink")が発売した[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。[保安通信協会](../Page/保安通信協会.md "wikilink")(保通協)における型式名称も同名。略称「**アイジャグ**」。本項ではその後継機についても記載する。

@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[ワシントンDCインターナショナル](https://ja.wikipedia.org/wiki/ワシントンDCインターナショナル)から翻訳されています。
 
 
 **ワシントンDCインターナショナル**（）とは、[1952年](../Page/1952年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")まで行われていた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[競馬](../Page/競馬.md "wikilink")の[国際競走](../Page/国際競走.md "wikilink")（[平地競走](../Page/平地競走.md "wikilink")）である。

@@ -1,4 +1,4 @@
-> この記事は[TMI](https://ja.wikipedia.org/wiki/TMI)から翻訳されています。
+> この記事は[TMI総合法律事務所](https://ja.wikipedia.org/wiki/TMI総合法律事務所)から翻訳されています。
 
 
 **TMI総合法律事務所**（てぃーえむあいそうごうほうりつじむしょ；*TMI Associates*：略称「TMI」）は、日本の[法律事務所](../Page/法律事務所.md "wikilink")。

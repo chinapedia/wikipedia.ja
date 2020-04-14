@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[ポチョムキン \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/ポチョムキン_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **ポチョムキン** (POTEMKIN) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。Ⅹ以降の担当声優は[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")。

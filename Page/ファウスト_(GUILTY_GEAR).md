@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[ファウスト \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/ファウスト_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **ファウスト** (FAUST) は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。担当声優は[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")。

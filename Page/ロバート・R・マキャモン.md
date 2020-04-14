@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ロバート・R・マキャモン](https://ja.wikipedia.org/wiki/ロバート・R・マキャモン)から翻訳されています。
 
 
 '''ロバート・R・マキャモン '''（Robert R. McCammon ，[1952年](../Page/1952年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の作家。[スティーヴン・キング](../Page/スティーヴン・キング.md "wikilink")、[ディーン・R・クーンツ](../Page/ディーン・R・クーンツ.md "wikilink")に次ぐモダン・ホラー界の第三の男といわれた。初期は恐怖小説が中心だったが、のちに普通小説も発表している。

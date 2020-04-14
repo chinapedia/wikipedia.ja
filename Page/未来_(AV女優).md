@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[未来 \(AV女優\)](https://ja.wikipedia.org/wiki/未来_\(AV女優\))から翻訳されています。
 
 
 **未来**（みらい、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。[ゼロサムプロダクション](https://ja.wikipedia.org/wiki/ゼロサムプロダクション "wikilink")所属。

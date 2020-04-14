@@ -1,4 +1,4 @@
-> この記事は[YURIA ](https://ja.wikipedia.org/wiki/YURIA_)から翻訳されています。
+> この記事は[せいやん・YURIAの 美少女ゲームは嫌い](https://ja.wikipedia.org/wiki/せいやん・YURIAの_美少女ゲームは嫌い)から翻訳されています。
 
 
 **せいやん・YURIAの美少女ゲームは嫌い**（せいやん・ユリアのびしょうじょゲームはきらい）は、[ラジオ大阪の](../Page/大阪放送.md "wikilink")[V-STATION枠内で放送されていた](../Page/1314_V-STATION.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,11 +1,11 @@
-> この記事は[H-code](https://ja.wikipedia.org/wiki/H-code)から翻訳されています。
+> この記事は[H-code〜愛しき賞金稼ぎ〜](https://ja.wikipedia.org/wiki/H-code〜愛しき賞金稼ぎ〜)から翻訳されています。
 
 
-『**H-code〜愛しき賞金稼ぎ〜**』（ハンター・コード〜いとしきしょうきんかせぎ〜）は、[朝日放送で](../Page/朝日放送テレビ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")から[3月10日](../Page/3月10日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")に[深夜放送](../Page/深夜放送.md "wikilink")されていた[土曜ナイトドラマである](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")28日・29日（正確には日付が変わって翌29・30日）に2夜連続の[続編](../Page/続編.md "wikilink")（スペシャル版）が放送された。 また、このスペシャル版も含めたDVDが[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメント "wikilink")から発売されている。
+『**H-code〜愛しき賞金稼ぎ〜**』（ハンター・コード〜いとしきしょうきんかせぎ〜）は、[朝日放送で](../Page/朝日放送テレビ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")から[3月10日](../Page/3月10日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")に[深夜放送](../Page/深夜放送.md "wikilink")されていた[土曜ナイトドラマである](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")28日・29日（正確には日付が変わって翌29・30日）には2夜連続の[続編](../Page/続編.md "wikilink")（スペシャル版）が放送された。また、このスペシャル版も含めたDVDが[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ジェネオン・ユニバーサル・エンターテイメント](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメント "wikilink")から発売されている。
 
 ## 概要
 
-日本が道州制に移行した、西暦20XX年の「ネオ・オオサカ」。腕利きの賞金稼ぎJが賞金ランキング1位の賞金首「テラー」を追う\! そんなJの前に現れた謎の美女レナ。予知能力をもつレナはJが近々、テラーと接触するとわかり…
+日本が[道州制](../Page/道州制.md "wikilink")に移行した、西暦20XX年の「ネオ・オオサカ」。腕利きの賞金稼ぎJが賞金ランキング1位の賞金首「テラー」を追う\! そんなJの前に現れた謎の美女レナ。予知能力をもつレナはJが近々、テラーと接触するとわかり…
 
 ## キャスト
 

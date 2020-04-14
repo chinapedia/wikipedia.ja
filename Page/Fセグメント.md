@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[Fセグメント](https://ja.wikipedia.org/wiki/Fセグメント)から翻訳されています。
 
 
 **Fセグメント**(F-Segment)とは、主に欧州で利用されている[乗用車](../Page/乗用車.md "wikilink")分類方法である[セグメントのカテゴリーの一つであり](../Page/セグメント_\(自動車\).md "wikilink")、同一セグメントに[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[ハッチバック](../Page/ハッチバック.md "wikilink")などのボディスタイルを包括する。

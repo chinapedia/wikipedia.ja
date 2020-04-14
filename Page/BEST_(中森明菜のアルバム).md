@@ -1,4 +1,4 @@
-> この記事は[BEST \(\)](https://ja.wikipedia.org/wiki/BEST_\(\))から翻訳されています。
+> この記事は[BEST \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/BEST_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**BEST**』（ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。このアルバムは1986年4月1日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-13030, [CT](../Page/コンパクトカセット.md "wikilink"): LKG-5030, [CD](../Page/コンパクトディスク.md "wikilink"): 32XL-150)。

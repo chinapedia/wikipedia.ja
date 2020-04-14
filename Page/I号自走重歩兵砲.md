@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[I号自走重歩兵砲](https://ja.wikipedia.org/wiki/I号自走重歩兵砲)から翻訳されています。
 
 
 **I号自走重歩兵砲**（いちごうじそうじゅうほへいほう）、制式名 **15cm sIG33 (Sf) auf Panzerkampfwagen I Ausf B**（15cm33年型重歩兵砲（自走式）搭載I号戦車B型）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自走砲](../Page/自走砲.md "wikilink")である。

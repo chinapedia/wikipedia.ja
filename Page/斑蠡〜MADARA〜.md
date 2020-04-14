@@ -1,4 +1,4 @@
-> この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
+> この記事は[斑蠡〜MADARA〜](https://ja.wikipedia.org/wiki/斑蠡〜MADARA〜)から翻訳されています。
 
 
 『**斑蠡〜MADARA〜**』（まだら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ガゼットの通算](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")5作目の[アルバム](../Page/アルバム.md "wikilink")として発売。ガゼット5枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。

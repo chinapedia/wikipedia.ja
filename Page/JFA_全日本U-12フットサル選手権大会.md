@@ -1,4 +1,4 @@
-> この記事は[JFA U-12](https://ja.wikipedia.org/wiki/JFA_U-12)から翻訳されています。
+> この記事は[JFA 全日本U-12フットサル選手権大会](https://ja.wikipedia.org/wiki/JFA_全日本U-12フットサル選手権大会)から翻訳されています。
 
 
 **JFA 全日本U-12フットサル選手権大会**（ジェイエフエイぜんにほんアンダートゥエルブフットサルせんしゅけんたいかい）は、12歳未満のジュニア年代における[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")競技の日本一クラブ決定戦である。

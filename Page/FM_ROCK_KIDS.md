@@ -347,6 +347,6 @@
   - [AIR-G'による「FM ROCK KIDS NAKED」公式サイト](http://www.air-g.co.jp/rkn/)
   - [Monoglobe](http://www.monoglobe.jp/podcasting/index.html)
 
-[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
 
 1.  この時に限り週1回の24時間放送が行われたが1992年3月末で終了し、1993年4月から日曜深夜を除き本格的に24時間終夜放送を開始。

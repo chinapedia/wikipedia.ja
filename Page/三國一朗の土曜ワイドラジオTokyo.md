@@ -1,4 +1,4 @@
-> この記事は[Tokyo](https://ja.wikipedia.org/wiki/Tokyo)から翻訳されています。
+> この記事は[三國一朗の土曜ワイドラジオTokyo](https://ja.wikipedia.org/wiki/三國一朗の土曜ワイドラジオTokyo)から翻訳されています。
 
 
 『**三國一朗の土曜ワイドラジオTokyo**』（みくにいちろうのどようワイドラジオトーキョー）は、[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。放送時間は毎週土曜 9:05 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[FACE](https://ja.wikipedia.org/wiki/FACE)から翻訳されています。
+> この記事は[新宿FACE](https://ja.wikipedia.org/wiki/新宿FACE)から翻訳されています。
 
 
 **新宿FACE**（しんじゅく ふぇいす）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")のヒューマックスパビリオン新宿歌舞伎町7Fに所在するイベントホールである。**SHINJUKU FACE**とも表記される。

@@ -1,4 +1,4 @@
-> この記事は[1stRING](https://ja.wikipedia.org/wiki/1stRING)から翻訳されています。
+> この記事は[新木場1stRING](https://ja.wikipedia.org/wiki/新木場1stRING)から翻訳されています。
 
 
 **新木場1stRING**（しんきばファーストリング）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")に所在するイベントホールである。運営はウエストコーポレーション。

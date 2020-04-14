@@ -1,4 +1,4 @@
-> この記事は[Yahoo! BB](https://ja.wikipedia.org/wiki/Yahoo!_BB)から翻訳されています。
+> この記事は[Yahoo! BB顧客情報漏洩事件](https://ja.wikipedia.org/wiki/Yahoo!_BB顧客情報漏洩事件)から翻訳されています。
 
 
 **Yahoo\! BB顧客情報漏洩事件**（ヤフー\! ビービー こきゃくじょうほうろうえいじけん）は、[Yahoo\! BB登録者の](../Page/Yahoo!_BB.md "wikilink")[個人情報が漏洩した事件である](../Page/個人情報漏洩.md "wikilink")。

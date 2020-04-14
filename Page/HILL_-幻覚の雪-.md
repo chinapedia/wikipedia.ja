@@ -1,4 +1,4 @@
-> この記事は[HILL --](https://ja.wikipedia.org/wiki/HILL_--)から翻訳されています。
+> この記事は[HILL -幻覚の雪-](https://ja.wikipedia.org/wiki/HILL_-幻覚の雪-)から翻訳されています。
 
 
 「**HILL -幻覚の雪-**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")の、メジャーで発売された12枚目のシングル。

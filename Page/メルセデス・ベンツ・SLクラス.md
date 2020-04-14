@@ -1,4 +1,4 @@
-> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+> この記事は[メルセデス・ベンツ・SLクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLクラス)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_SL_350_\(R_231\)_–_Frontansicht_geöffnet_\(2\),_22._Mai_2013,_Düsseldorf.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_300SL_Coupe_1955_1956.jpg "wikilink") **メルセデス・ベンツ・SLクラス**（*Mercedes-Benz SL-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[クーペ](../Page/クーペ.md "wikilink")、[カブリオレ](../Page/オープンカー.md "wikilink")、[クーペカブリオレ](../Page/クーペカブリオレ.md "wikilink")タイプの[高級](../Page/高級車.md "wikilink")[スポーツカー](../Page/スポーツカー.md "wikilink")である。

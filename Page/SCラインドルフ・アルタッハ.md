@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCラインドルフ・アルタッハ](https://ja.wikipedia.org/wiki/SCラインドルフ・アルタッハ)から翻訳されています。
 
 
 **SCラインドルフ・アルタッハ**（）は、[オーストリア](../Page/オーストリア.md "wikilink")の西部、[フォアアールベルク州](../Page/フォアアールベルク州.md "wikilink")の村[アルタッハ](https://ja.wikipedia.org/wiki/アルタッハ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[クラブである](../Page/クラブチーム.md "wikilink")。村の小さなサッカークラブであったが、2006年に初めて[オーストリア・ブンデスリーガ昇格を果たした](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")。正式なクラブ名に冠されている「キャッシュポイント (Cashpoint) 」はスポンサー会社の名称。
@@ -172,7 +172,7 @@
 
   - [マーティン・シェアブ](https://ja.wikipedia.org/wiki/マーティン・シェアブ "wikilink") (2016)
 
-  - [クラウス・シュミット](https://ja.wikipedia.org/wiki/クラウス・シュミット "wikilink") (2016-)
+  - [クラウス・シュミット](../Page/クラウス・シュミット.md "wikilink") (2016-)
 
 ## 歴代所属選手
 

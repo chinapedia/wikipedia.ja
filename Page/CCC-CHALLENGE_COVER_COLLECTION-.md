@@ -13,6 +13,8 @@
 
 ## 収録曲
 
+### CD
+
 1.  **CRAZY GONNA CRAZY** (5:21)
       -
         リード曲。[TRF](../Page/TRF.md "wikilink")「[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")」のカバー。
@@ -43,8 +45,10 @@
 10. **もう恋なんてしない** (4:26)
       -
         新曲カバー曲。[槇原敬之](../Page/槇原敬之.md "wikilink")「[もう恋なんてしない](../Page/もう恋なんてしない.md "wikilink")」のカバー。
-        DVD
-        CRAZY GONNA CRAZY(Music Clip)(5:59)
-        Off Shot Movie(3:29)
+
+### DVD
+
+1.  **CRAZY GONNA CRAZY (Music Clip)** (5:59)
+2.  **Off Shot Movie** (3:29)
 
 [Category:2007年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のカバー・アルバム "wikilink") [Category:AAAのアルバム](https://ja.wikipedia.org/wiki/Category:AAAのアルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[Aセグメント](https://ja.wikipedia.org/wiki/Aセグメント)から翻訳されています。
 
 
 **Aセグメント** (A-Segment, City car) とは、主に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で利用されている[乗用車](../Page/乗用車.md "wikilink")分類方法である「[セグメント](../Page/セグメント_\(自動車\).md "wikilink")」において、[Bセグメント](../Page/Bセグメント.md "wikilink")の下位に位置する最も小型の車格であり、同一セグメントに[セダン](../Page/セダン.md "wikilink")、[クーペ](../Page/クーペ.md "wikilink")、[ハッチバック](../Page/ハッチバック.md "wikilink")などのボディスタイルを包括する。

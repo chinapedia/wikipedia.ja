@@ -1,4 +1,4 @@
-> この記事は[HYPER GO](https://ja.wikipedia.org/wiki/HYPER_GO)から翻訳されています。
+> この記事は[HYPER GO号](https://ja.wikipedia.org/wiki/HYPER_GO号)から翻訳されています。
 
 
 **HYPER GO号** (ハイパーゴーゴー) は、[2000年](../Page/2000年.md "wikilink")ごろ活動した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。素人出身の**HYPER GO号アマ**5人とタレントの**HYPER GO号プロ**5人の計10人で構成された。その後、HYPER GO号アマメンバーを中心に**HYPER GO号2** (ハイパーゴーゴーツー) が結成された。

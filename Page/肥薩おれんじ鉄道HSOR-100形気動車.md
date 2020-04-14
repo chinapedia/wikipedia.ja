@@ -1,4 +1,4 @@
-> この記事は[HSOR-100](https://ja.wikipedia.org/wiki/HSOR-100)から翻訳されています。
+> この記事は[肥薩おれんじ鉄道HSOR-100形気動車](https://ja.wikipedia.org/wiki/肥薩おれんじ鉄道HSOR-100形気動車)から翻訳されています。
 
 
 **肥薩おれんじ鉄道HSOR-100形気動車**（ひさつおれんじてつどうHSOR-100がたきどうしゃ）は、[肥薩おれんじ鉄道](../Page/肥薩おれんじ鉄道.md "wikilink")が保有する[気動車](../Page/気動車.md "wikilink")である。
@@ -29,18 +29,20 @@
 
 2019年8月6日から106 が、2020年に開催される[第75回国民体育大会](https://ja.wikipedia.org/wiki/第75回国民体育大会 "wikilink")のラッピングを施されている\[29\]。
 
-ファイル:HSOR-103.JPG|103 「水俣号」（運行終了） ファイル:HSOR 111.JPG|111 「くまモン号」 ファイル:HSOR Kumamon Train.JPG|「くまモン号」車内 ファイル:HSOR-151 Galaxy Express 999.jpg|151 「銀河鉄道999号」（運行終了）
+2020年1月より同社と姉妹路線となっていた[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")（台鉄）の[屏東線](https://ja.wikipedia.org/wiki/屏東線 "wikilink")および[南迴線](https://ja.wikipedia.org/wiki/南迴線 "wikilink")で使用されている[DR3100型仕様のラッピング車が運行を開始した](https://ja.wikipedia.org/wiki/台湾鉄路管理局DR3100型気動車 "wikilink")\[30\]。局のロゴや塗装だけではなく前面扉上にある高電圧電車線への注意を促す「」のステッカーも中国語のまま再現されている。
+
+ファイル:HSOR-103.JPG|103 「水俣号」（運行終了） ファイル:HSOR-151 Galaxy Express 999.jpg|151 「銀河鉄道999号」（運行終了） ファイル:HSOR 111.JPG|111 「くまモン号」 ファイル:HSOR Kumamon Train.JPG|「くまモン号」車内 ファイル:HSOR-107A Kumamon 2 20200314.jpg|107 「くまモン2号」 ファイル:HSOR-102A Kumamon 3 20200313.jpg|102 「くまモン3号」 <File:HSOR-152A> Taiwan Railway Administration 20200314.jpg|152「台鉄DR3100型自強号」仕様 <File:ITRA> DR3104 at Fangliao Station 20180502.jpg|元となった台鉄DR3100型
 
 ## 「おれんじ食堂」用車両
 
-[おれんじ食堂.JPG](https://ja.wikipedia.org/wiki/File:おれんじ食堂.JPG "fig:おれんじ食堂.JPG") 2013年3月24日より運行を開始した「[おれんじ食堂](https://ja.wikipedia.org/wiki/おれんじ食堂 "wikilink")」の専用車両として、114と116の2両が改造された。塗装を含めた内外のデザインは[水戸岡鋭治](../Page/水戸岡鋭治.md "wikilink")が手がけ、[大阪車輌工業](https://ja.wikipedia.org/wiki/大阪車輌工業 "wikilink")で改造が実施された\[30\]。
+[HSOR-116A_Orange_Restaurant_Express_20200314.jpg](https://ja.wikipedia.org/wiki/File:HSOR-116A_Orange_Restaurant_Express_20200314.jpg "fig:HSOR-116A_Orange_Restaurant_Express_20200314.jpg") 2013年3月24日より運行を開始した「[おれんじ食堂](https://ja.wikipedia.org/wiki/おれんじ食堂 "wikilink")」の専用車両として、114と116の2両が改造された。塗装を含めた内外のデザインは[水戸岡鋭治](../Page/水戸岡鋭治.md "wikilink")が手がけ、[大阪車輌工業](https://ja.wikipedia.org/wiki/大阪車輌工業 "wikilink")で改造が実施された\[31\]。
 
   - 114…1号車（ダイニングカー）
 
 <!-- end list -->
 
   -
-    テーブル席とカウンター（ハイカウンター）席が中心。トイレと床下の汚物タンクを撤去し、[キッチンが設けられている](../Page/台所.md "wikilink")\[31\]。またキッチン部分の床下には排水タンクを設けたほか、[冷蔵庫](https://ja.wikipedia.org/wiki/冷蔵庫 "wikilink")・[IH調理器](../Page/電磁調理器.md "wikilink")・[ミキサーなどに電源を供給するための](../Page/ミキサー_\(調理器具\).md "wikilink")3.1kVAディーゼル[発電機](../Page/発電機.md "wikilink")が取り付けられている\[32\]。
+    テーブル席とカウンター（ハイカウンター）席が中心。トイレと床下の汚物タンクを撤去し、[キッチンが設けられている](../Page/台所.md "wikilink")\[32\]。またキッチン部分の床下には排水タンクを設けたほか、[冷蔵庫](https://ja.wikipedia.org/wiki/冷蔵庫 "wikilink")・[IH調理器](../Page/電磁調理器.md "wikilink")・[ミキサーなどに電源を供給するための](../Page/ミキサー_\(調理器具\).md "wikilink")3.1kVAディーゼル[発電機](../Page/発電機.md "wikilink")が取り付けられている\[33\]。
 
 <!-- end list -->
 
@@ -49,13 +51,13 @@
 <!-- end list -->
 
   -
-    トイレ付き。テーブル席やパーティションで仕切られたソファー席、沿線の名産品を展示した棚などが設けられている\[33\]。
+    トイレ付き。テーブル席やパーティションで仕切られたソファー席、沿線の名産品を展示した棚などが設けられている\[34\]。
 
-川内方から HSOR-114+116 の2両編成で運行され、編成中央寄りにキッチン、端部寄り（八代方）にトイレがそれぞれ位置する形となる。乗降口は編成両端の2箇所を使用し、中間の2箇所は締切となる\[34\]。中間の乗務員室は倉庫として使用されているが、運転席やマスコンハンドルなどの機器はそのまま残されており、車両検査などで分割や入れ換えをする際に使用される。
+川内方から HSOR-114+116 の2両編成で運行され、編成中央寄りにキッチン、端部寄り（八代方）にトイレがそれぞれ位置する形となる。乗降口は編成両端の2箇所を使用し、中間の2箇所は締切となる\[35\]。中間の乗務員室は倉庫として使用されているが、運転席やマスコンハンドルなどの機器はそのまま残されており、車両検査などで分割や入れ換えをする際に使用される。
 
 ## ATS換装
 
-JR九州の[ATS装置機能向上に合わせ](../Page/自動列車停止装置.md "wikilink")、2014年以降、[定期検査の際にATS車上装置を従来のATS](../Page/日本の鉄道車両検査.md "wikilink")-SKから新しい[ATS-DKに更新する工事が施工されている](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-Dx_\(DN・DK\)_形 "wikilink")\[35\]。施工済み車両は識別のため番号の後にAが追加される\[36\]。2014年3月中旬にHSOR-110から施工を開始した。以後、JR九州[熊本支社](../Page/九州旅客鉄道熊本支社.md "wikilink")・[鹿児島支社管内でのATS](../Page/九州旅客鉄道鹿児島支社.md "wikilink")-DK使用開始に向けて2015年度までに全ての車両にATS-DKを搭載した\[37\]。
+JR九州の[ATS装置機能向上に合わせ](../Page/自動列車停止装置.md "wikilink")、2014年以降、[定期検査の際にATS車上装置を従来のATS](../Page/日本の鉄道車両検査.md "wikilink")-SKから新しい[ATS-DKに更新する工事が施工されている](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-Dx_\(DN・DK\)_形 "wikilink")\[36\]。施工済み車両は識別のため番号の後にAが追加される\[37\]。2014年3月中旬にHSOR-110から施工を開始した。以後、JR九州[熊本支社](../Page/九州旅客鉄道熊本支社.md "wikilink")・[鹿児島支社管内でのATS](../Page/九州旅客鉄道鹿児島支社.md "wikilink")-DK使用開始に向けて2015年度までに全ての車両にATS-DKを搭載した\[38\]。
 
 ## ギャラリー
 
@@ -114,3 +116,4 @@ JR九州の[ATS装置機能向上に合わせ](../Page/自動列車停止装置.
 35.
 36.
 37.
+38.

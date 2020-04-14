@@ -1,4 +1,4 @@
-> この記事は[ Life](https://ja.wikipedia.org/wiki/_Life)から翻訳されています。
+> この記事は[文化系トークラジオ Life](https://ja.wikipedia.org/wiki/文化系トークラジオ_Life)から翻訳されています。
 
 
 『**文化系トークラジオ Life**』（ぶんかけいトークラジオ ライフ）は、[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[生放送](../Page/生放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[DISCO TWINS \(\)](https://ja.wikipedia.org/wiki/DISCO_TWINS_\(\))から翻訳されています。
+> この記事は[DISCO TWINS \(バンド\)](https://ja.wikipedia.org/wiki/DISCO_TWINS_\(バンド\))から翻訳されています。
 
 
 **DISCO TWINS**（ディスコ・ツインズ）は[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[KAGAMI](../Page/KAGAMI.md "wikilink")と[DJ TASAKAの二人による](../Page/DJ_TASAKA.md "wikilink")[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2000年の[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のツアーのサポートをきっかけに結成。2003年[キューンレコードよりデビュー](../Page/キューンミュージック.md "wikilink")。2006年には[吉川晃司](../Page/吉川晃司.md "wikilink")を加えた「**DISCO K2 TWINS**」として活動。

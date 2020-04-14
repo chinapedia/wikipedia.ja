@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[シンデレラII](https://ja.wikipedia.org/wiki/シンデレラII)から翻訳されています。
 
 
 『**シンデレラII**』（シンデレラツー、原題：*Cinderella II: Dreams Come True*）は、[ディズニーの映画](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")『[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された。収録時間は約73分。
@@ -180,6 +180,6 @@
 
 ## 脚註
 
-[Category:シンデレラ_(ディズニー)](https://ja.wikipedia.org/wiki/Category:シンデレラ_\(ディズニー\) "wikilink") [Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:2002年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2002年のアニメ映画 "wikilink")
+[Category:シンデレラ_(ディズニー)](https://ja.wikipedia.org/wiki/Category:シンデレラ_\(ディズニー\) "wikilink") [Category:ディズニーのアニメ映画](https://ja.wikipedia.org/wiki/Category:ディズニーのアニメ映画 "wikilink") [Category:ディズニートゥーン・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ディズニートゥーン・スタジオの映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:ディズニーのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:ディズニーのオリジナルビデオ "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:2002年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2002年のアニメ映画 "wikilink")
 
 1.  ただし、元々上流階級の出身であるシンデレラが礼儀作法を理解できないという点には矛盾が指摘されている。

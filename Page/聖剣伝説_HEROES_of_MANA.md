@@ -1,4 +1,4 @@
-> この記事は[ HEROES of MANA](https://ja.wikipedia.org/wiki/_HEROES_of_MANA)から翻訳されています。
+> この記事は[聖剣伝説 HEROES of MANA](https://ja.wikipedia.org/wiki/聖剣伝説_HEROES_of_MANA)から翻訳されています。
 
 
 『**聖剣伝説 HEROES of MANA**』（せいけんでんせつ ヒーローズオブマナ）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ストラテジーRPG](../Page/リアルタイムストラテジー.md "wikilink")。[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズの外伝。[ニンテンドーWi-Fiコネクション](../Page/ニンテンドーWi-Fiコネクション.md "wikilink")にも対応していて、ランキングに参加することができる。

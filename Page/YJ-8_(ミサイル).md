@@ -1,4 +1,4 @@
-> この記事は[YJ-8 \(\)](https://ja.wikipedia.org/wiki/YJ-8_\(\))から翻訳されています。
+> この記事は[YJ-8 \(ミサイル\)](https://ja.wikipedia.org/wiki/YJ-8_\(ミサイル\))から翻訳されています。
 
 
 **YJ-8**（, ）は、[中国で開発された](../Page/中華人民共和国.md "wikilink")[艦対艦ミサイル](../Page/艦対艦ミサイル.md "wikilink")。輸出名は**C-801**であり、また、[西側諸国](../Page/西側諸国.md "wikilink")においては、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")（DoD）識別番号としては**CSS-N-4**、[NATOコードネームとしては](https://ja.wikipedia.org/wiki/NATOコードネームの一覧_\(ミサイル\) "wikilink")「**サーディン**」（）とされている\[1\]。

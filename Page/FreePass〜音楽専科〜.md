@@ -1,4 +1,4 @@
-> この記事は[FreePass](https://ja.wikipedia.org/wiki/FreePass)から翻訳されています。
+> この記事は[FreePass〜音楽専科〜](https://ja.wikipedia.org/wiki/FreePass〜音楽専科〜)から翻訳されています。
 
 
 『**FreePass〜音楽専科〜**』（フリーパス おんがくせんか）は、[2009年](../Page/2009年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[テレビせとうち](../Page/テレビせとうち.md "wikilink")で放送された[音楽番組](../Page/音楽番組.md "wikilink")。全484回。

@@ -1,4 +1,4 @@
-> この記事は[NOR](https://ja.wikipedia.org/wiki/NOR)から翻訳されています。
+> この記事は[NOR型フラッシュメモリ](https://ja.wikipedia.org/wiki/NOR型フラッシュメモリ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:IPhone_3G_teardown_-_Intel_3050M0Y0CE_-3303.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NOR_flash_layout.svg "wikilink") **NOR型フラッシュメモリ**（ノアがたフラッシュメモリ）は、[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")の一種である。

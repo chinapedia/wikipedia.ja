@@ -1,4 +1,4 @@
-> この記事は[R\&B](https://ja.wikipedia.org/wiki/R\&B)から翻訳されています。
+> この記事は[コンテンポラリー・R\&B](https://ja.wikipedia.org/wiki/コンテンポラリー・R\&B)から翻訳されています。
 
 
 **コンテンポラリー・R\&B**（単に**R\&B**としても知られている、）は、[リズム・アンド・ブルース](../Page/リズム・アンド・ブルース.md "wikilink")、[ポップ](../Page/ポップ・ミュージック.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウル・ミュージック "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")の要素を組み合わせた音楽ジャンルである。

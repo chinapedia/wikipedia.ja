@@ -1,4 +1,4 @@
-> この記事は[HAND\'S --](https://ja.wikipedia.org/wiki/HAND\'S_--)から翻訳されています。
+> この記事は[HAND\'S -ハンズ-](https://ja.wikipedia.org/wiki/HAND\'S_-ハンズ-)から翻訳されています。
 
 
 『**HAND'S -ハンズ-**』（ハンズ）は、[板倉雄一](https://ja.wikipedia.org/wiki/板倉雄一 "wikilink")原作の[ハンドボール](../Page/ハンドボール.md "wikilink")を題材とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少年漫画](../Page/少年漫画.md "wikilink")作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて2006年44号から2007年1号まで連載されていた、単行本は全1巻。

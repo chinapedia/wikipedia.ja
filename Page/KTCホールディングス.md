@@ -1,4 +1,4 @@
-> この記事は[KTC](https://ja.wikipedia.org/wiki/KTC)から翻訳されています。
+> この記事は[KTCホールディングス](https://ja.wikipedia.org/wiki/KTCホールディングス)から翻訳されています。
 
 
 **株式会社KTCホールディングス**は、[持株会社](../Page/持株会社.md "wikilink")。傘下の各事業会社を通じて、教育系の経営管理や子会社の事業支援を行っている。

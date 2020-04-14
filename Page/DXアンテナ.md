@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[DXアンテナ](https://ja.wikipedia.org/wiki/DXアンテナ)から翻訳されています。
 
 
 **DXアンテナ株式会社**（ディエックスアンテナ、*DX ANTENNA CO.,LTD.*）は、[テレビ](../Page/テレビ.md "wikilink")用受信[アンテナ](../Page/アンテナ.md "wikilink")等を製造・販売する日本の電気機器メーカーである。

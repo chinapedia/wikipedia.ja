@@ -1,4 +1,4 @@
-> この記事は[ACID \(DTM\)](https://ja.wikipedia.org/wiki/ACID_\(DTM\))から翻訳されています。
+> この記事は[ACID \(DTMソフト\)](https://ja.wikipedia.org/wiki/ACID_\(DTMソフト\))から翻訳されています。
 
 
 **ACID**（アシッド）は、米Sonic Foundry社と[Sony Creative Softwareが開発していた](https://ja.wikipedia.org/wiki/Sony_Creative_Software "wikilink")[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用の音楽製作[ソフト](../Page/ソフトウェア.md "wikilink")。現在の所有者は[MAGIX](https://ja.wikipedia.org/wiki/MAGIX "wikilink")社。 [ループシーケンサー](https://ja.wikipedia.org/wiki/ループシーケンサー "wikilink")のパイオニア的存在。

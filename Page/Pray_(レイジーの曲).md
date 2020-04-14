@@ -1,4 +1,4 @@
-> この記事は[Pray \(\)](https://ja.wikipedia.org/wiki/Pray_\(\))から翻訳されています。
+> この記事は[Pray \(レイジーの曲\)](https://ja.wikipedia.org/wiki/Pray_\(レイジーの曲\))から翻訳されています。
 
 
 「**Pray**」（プレイ）は、[レイジー](../Page/レイジー.md "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[エアーズから発売された](https://ja.wikipedia.org/wiki/エアーズ_\(音楽出版会社\) "wikilink")。

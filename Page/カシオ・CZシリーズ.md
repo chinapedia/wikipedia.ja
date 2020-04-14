@@ -1,4 +1,4 @@
-> この記事は[CZ](https://ja.wikipedia.org/wiki/CZ)から翻訳されています。
+> この記事は[カシオ・CZシリーズ](https://ja.wikipedia.org/wiki/カシオ・CZシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Casio_CZ-1.jpg "wikilink") **カシオCZシリーズ**（カシオ・シーゼット・シリーズ）は[カシオ開発の](../Page/カシオ計算機.md "wikilink")[PD音源](https://ja.wikipedia.org/wiki/PD音源 "wikilink")を採用したシンセサイザーの型番・商品名。 80年代中期に製造、販売された。

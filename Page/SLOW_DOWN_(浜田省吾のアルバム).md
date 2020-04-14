@@ -1,4 +1,4 @@
-> この記事は[SLOW DOWN \(\)](https://ja.wikipedia.org/wiki/SLOW_DOWN_\(\))から翻訳されています。
+> この記事は[SLOW DOWN \(浜田省吾のアルバム\)](https://ja.wikipedia.org/wiki/SLOW_DOWN_\(浜田省吾のアルバム\))から翻訳されています。
 
 
 『**SLOW DOWN**』（スロウ・ダウン）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売された日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の初めての[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。

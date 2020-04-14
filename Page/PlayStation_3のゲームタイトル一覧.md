@@ -1,4 +1,4 @@
-> この記事は[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3)から翻訳されています。
+> この記事は[PlayStation 3のゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStation_3のゲームタイトル一覧)から翻訳されています。
 
 
 **PlayStation 3のゲームタイトル一覧**（プレイステーションスリーのゲームタイトルいちらん）では、[PlayStation 3対応として](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する。
@@ -7008,4 +7008,4 @@ Move対応</p></td>
 
   - [PlayStation.com(Japan)｜ソフトウェアカタログ](https://www.jp.playstation.com/search-results/software/search.x?platform=PS3&past=nowonsale&future=14&sort=1)
 
-[Category:コンピュータゲームの新製品](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの新製品 "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink")
+[Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink")

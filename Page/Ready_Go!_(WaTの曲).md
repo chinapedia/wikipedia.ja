@@ -1,4 +1,4 @@
-> この記事は[Ready Go! \(WaT\)](https://ja.wikipedia.org/wiki/Ready_Go!_\(WaT\))から翻訳されています。
+> この記事は[Ready Go! \(WaTの曲\)](https://ja.wikipedia.org/wiki/Ready_Go!_\(WaTの曲\))から翻訳されています。
 
 
 「**Ready Go\!**」（レディー・ゴー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")のメジャー4作目（通算5作目）の[シングル](../Page/シングル.md "wikilink")。

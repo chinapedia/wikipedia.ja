@@ -1,4 +1,4 @@
-> この記事は[FA](https://ja.wikipedia.org/wiki/FA)から翻訳されています。
+> この記事は[中国FAカップ](https://ja.wikipedia.org/wiki/中国FAカップ)から翻訳されています。
 
 
 **中国FAカップ**（ちゅうごく-、）は、[中国の](../Page/中華人民共和国.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。

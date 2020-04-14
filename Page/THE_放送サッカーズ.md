@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 放送サッカーズ](https://ja.wikipedia.org/wiki/THE_放送サッカーズ)から翻訳されています。
 
 
 **THE 放送サッカーズ**（ザ ほうそうサッカーズ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送（基本的に[録音](../Page/録音.md "wikilink")放送、一部曜日[生放送](../Page/生放送.md "wikilink")）された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

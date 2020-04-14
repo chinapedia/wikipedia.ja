@@ -1,4 +1,4 @@
-> この記事は[Idol Park](https://ja.wikipedia.org/wiki/Idol_Park)から翻訳されています。
+> この記事は[あきと由佳のIdol Park](https://ja.wikipedia.org/wiki/あきと由佳のIdol_Park)から翻訳されています。
 
 
 **あきと由佳のIdol Park**（あきとゆかのあいどるぱーく）は、[2004年](../Page/2004年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")まで[エンタ\!371で放送されていた](../Page/エンタ!959.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。「Idol Park」の前番組である。

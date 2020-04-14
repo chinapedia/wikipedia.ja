@@ -977,23 +977,23 @@ VICL-61703(1ヶ月限定スペシャル価格)</p></td>
 
 ## ミュージックビデオ
 
-|                                                                               |                                                                                                                                                          |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                                        | **曲名**                                                                                                                                                   |
-| [UNLUCKY YOUNGMEN](https://ja.wikipedia.org/wiki/UNLUCKY_YOUNGMEN "wikilink") | 「blue」「the Earth」                                                                                                                                        |
-| [池田剛](../Page/池田剛.md "wikilink")                                              | 「Reflection」                                                                                                                                             |
-| [石井タカハル](https://ja.wikipedia.org/wiki/石井タカハル "wikilink")                     | 「SHINE ON」                                                                                                                                               |
-| [北平誠治](https://ja.wikipedia.org/wiki/北平誠治 "wikilink")                         | 「[あ･あ･あいやいや･あ･あ！](https://www.youtube.com/watch?v=arzi3GW-qH8)」                                                                                          |
-| [清水康彦](../Page/清水康彦.md "wikilink")                                            | 「think twice」                                                                                                                                            |
-| [スズキダイシン](https://ja.wikipedia.org/wiki/スズキダイシン "wikilink")                   | 「[The way you decide](http://www.indiesmusic.com/musicvideo/video.asp?id=12078)」「[What are u waiting for?](https://www.youtube.com/watch?v=qPCMUo5u1sY)」 |
-| [竹久正記](../Page/竹久正記.md "wikilink")                                            | 「[SUNSET](https://www.youtube.com/watch?v=67YgGObNCLI)」                                                                                                  |
-| [多田卓也](https://ja.wikipedia.org/wiki/多田卓也 "wikilink")                         | 「[latest](https://www.youtube.com/watch?v=k3PfxwbrNdY)」                                                                                                  |
-| [直](https://ja.wikipedia.org/wiki/直 "wikilink")                               | 「1℃ (イチド)」「鼓動」                                                                                                                                           |
-| [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink")                         | 「i'LL get the freedom」「universe」                                                                                                                         |
-| [マサオ](https://ja.wikipedia.org/wiki/マサオ "wikilink")                           | 「インドア風チキン」                                                                                                                                               |
-| [山口保幸](../Page/山口保幸.md "wikilink")                                            | 「later」「little girl」                                                                                                                                     |
-| 不明                                                                            | 「"wise" from「10th Anniversary Party 〜ROCKS〜」」「[SWEET RAIN　SWEET HOME](https://www.youtube.com/watch?v=Cc3V64lfHAI)」                                      |
-|                                                                               |                                                                                                                                                          |
+|                                                                               |                                                                                                                                                           |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                                        | **曲名**                                                                                                                                                    |
+| [UNLUCKY YOUNGMEN](https://ja.wikipedia.org/wiki/UNLUCKY_YOUNGMEN "wikilink") | 「blue」「the Earth」                                                                                                                                         |
+| [池田剛](../Page/池田剛.md "wikilink")                                              | 「Reflection」                                                                                                                                              |
+| [石井タカハル](https://ja.wikipedia.org/wiki/石井タカハル "wikilink")                     | 「SHINE ON」                                                                                                                                                |
+| [北平誠治](https://ja.wikipedia.org/wiki/北平誠治 "wikilink")                         | 「[あ･あ･あいやいや･あ･あ！](https://www.youtube.com/watch?v=arzi3GW-qH8)」                                                                                           |
+| [清水康彦](../Page/清水康彦.md "wikilink")                                            | 「think twice」                                                                                                                                             |
+| [スズキダイシン](https://ja.wikipedia.org/wiki/スズキダイシン "wikilink")                   | 「[The way you decide](https://www.indiesmusic.com/musicvideo/video.asp?id=12078)」「[What are u waiting for?](https://www.youtube.com/watch?v=qPCMUo5u1sY)」 |
+| [竹久正記](../Page/竹久正記.md "wikilink")                                            | 「[SUNSET](https://www.youtube.com/watch?v=67YgGObNCLI)」                                                                                                   |
+| [多田卓也](https://ja.wikipedia.org/wiki/多田卓也 "wikilink")                         | 「[latest](https://www.youtube.com/watch?v=k3PfxwbrNdY)」                                                                                                   |
+| [直](https://ja.wikipedia.org/wiki/直 "wikilink")                               | 「1℃ (イチド)」「鼓動」                                                                                                                                            |
+| [野田智雄](https://ja.wikipedia.org/wiki/野田智雄 "wikilink")                         | 「i'LL get the freedom」「universe」                                                                                                                          |
+| [マサオ](https://ja.wikipedia.org/wiki/マサオ "wikilink")                           | 「インドア風チキン」                                                                                                                                                |
+| [山口保幸](../Page/山口保幸.md "wikilink")                                            | 「later」「little girl」                                                                                                                                      |
+| 不明                                                                            | 「"wise" from「10th Anniversary Party 〜ROCKS〜」」「[SWEET RAIN　SWEET HOME](https://www.youtube.com/watch?v=Cc3V64lfHAI)」                                       |
+|                                                                               |                                                                                                                                                           |
 
 ## タイアップ
 

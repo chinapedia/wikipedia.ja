@@ -1,4 +1,4 @@
-> この記事は[KICK OFF \(\)](https://ja.wikipedia.org/wiki/KICK_OFF_\(\))から翻訳されています。
+> この記事は[KICK OFF \(森下由実子のアルバム\)](https://ja.wikipedia.org/wiki/KICK_OFF_\(森下由実子のアルバム\))から翻訳されています。
 
 
 **KICK OFF**(キック・オフ)は[森下由実子](https://ja.wikipedia.org/wiki/森下由実子 "wikilink")のアルバム。

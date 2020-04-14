@@ -1,4 +1,4 @@
-> この記事は[KING](https://ja.wikipedia.org/wiki/KING)から翻訳されています。
+> この記事は[ラジKING](https://ja.wikipedia.org/wiki/ラジKING)から翻訳されています。
 
 
 **ラジKING**（ラジキング）は、[KRY山口放送ラジオで](https://ja.wikipedia.org/wiki/山口放送 "wikilink")[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から放送を開始した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

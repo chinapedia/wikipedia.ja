@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ボーイズIIメン](https://ja.wikipedia.org/wiki/ボーイズIIメン)から翻訳されています。
 
 
 **ボーイズ・II・メン**（**Boyz II Men**）は[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")出身のヴォーカル・グループ。

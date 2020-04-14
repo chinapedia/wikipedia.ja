@@ -1,4 +1,4 @@
-> この記事は[Pop\'n](https://ja.wikipedia.org/wiki/Pop\'n)から翻訳されています。
+> この記事は[Pop\'nツインビー](https://ja.wikipedia.org/wiki/Pop\'nツインビー)から翻訳されています。
 
 
 『**Pop'nツインビー**』（ポップンツインビー、*Pop'n Twinbee*）は、[1993年](../Page/1993年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。

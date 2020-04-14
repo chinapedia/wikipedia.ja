@@ -17,7 +17,7 @@
 
 カップリング曲の「君がいる朝」は、[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")[作曲](../Page/作曲.md "wikilink")の[バラード](../Page/バラード.md "wikilink")。[コーラスに](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[小室みつ子](../Page/小室みつ子.md "wikilink")が参加している。
 
-なお本作（シングル）バージョンではベストアルバム等の収録は無い。
+なお表題曲の「CASTLE IN THE CLOUDS」の本作（シングル）バージョンではベストアルバム等の収録は無く、C/Wのみ「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」に収録されている。
 
 ## 収録曲
 

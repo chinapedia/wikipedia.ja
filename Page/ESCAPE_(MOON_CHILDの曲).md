@@ -1,4 +1,4 @@
-> この記事は[ESCAPE \(MOON CHILD\)](https://ja.wikipedia.org/wiki/ESCAPE_\(MOON_CHILD\))から翻訳されています。
+> この記事は[ESCAPE \(MOON CHILDの曲\)](https://ja.wikipedia.org/wiki/ESCAPE_\(MOON_CHILDの曲\))から翻訳されています。
 
 
 「**ESCAPE**」（エスケイプ）は、[MOON CHILDの](../Page/MOON_CHILD_\(バンド\).md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。

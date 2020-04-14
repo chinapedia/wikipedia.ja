@@ -1,4 +1,4 @@
-> この記事は[ONE DAY \(KUWATA BAND\)](https://ja.wikipedia.org/wiki/ONE_DAY_\(KUWATA_BAND\))から翻訳されています。
+> この記事は[ONE DAY \(KUWATA BANDの曲\)](https://ja.wikipedia.org/wiki/ONE_DAY_\(KUWATA_BANDの曲\))から翻訳されています。
 
 
 「**ONE DAY**」（ワン・デイ）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Weekly File](https://ja.wikipedia.org/wiki/Weekly_File)から翻訳されています。
+> この記事は[Weekly Fileぎふ](https://ja.wikipedia.org/wiki/Weekly_Fileぎふ)から翻訳されています。
 
 
 『**Weekly Fileぎふ**』（ウィークリーファイルぎふ）は、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[岐阜放送](../Page/岐阜放送.md "wikilink")（ぎふチャン）で放送されていた[報道番組](../Page/報道番組.md "wikilink")である。[岐阜県](../Page/岐阜県.md "wikilink")内のニュースや情報をまとめて分かりやすく伝えていた。

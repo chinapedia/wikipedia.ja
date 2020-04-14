@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[地理B](https://ja.wikipedia.org/wiki/地理B)から翻訳されています。
 
 
 『**地理B**』（ちりビー）は、[1991年](../Page/1991年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』で毎週火曜深夜に放送された[教養](../Page/教養番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全25回。放送時間は25:10 - 25:40 ([JST](../Page/日本標準時.md "wikilink")) が中心だった。

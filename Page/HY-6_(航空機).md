@@ -1,4 +1,4 @@
-> この記事は[HY-6 \(\)](https://ja.wikipedia.org/wiki/HY-6_\(\))から翻訳されています。
+> この記事は[HY-6 \(航空機\)](https://ja.wikipedia.org/wiki/HY-6_\(航空機\))から翻訳されています。
 
 
 **HY-6**（中国語:**轟油6**）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](../Page/ツポレフ.md "wikilink")[Tu-16双発爆撃機を](../Page/Tu-16_\(航空機\).md "wikilink")[西安飛機工業公司](https://ja.wikipedia.org/wiki/西安飛機工業公司 "wikilink")が国産化した[H-6爆撃機を基に](../Page/H-6_\(航空機\).md "wikilink")[空中給油機](../Page/空中給油機.md "wikilink")に改造した機体である。H-6Uとも呼称される。

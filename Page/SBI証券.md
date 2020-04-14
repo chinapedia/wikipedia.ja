@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBI証券](https://ja.wikipedia.org/wiki/SBI証券)から翻訳されています。
 
 
 **株式会社SBI証券**（エスビーアイしょうけん、）は、日本の[証券会社](../Page/証券会社.md "wikilink")。オンライン証券事業を中核とする。旧商号は、SBIイー・トレード証券[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。本社所在地は東京都港区六本木。[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")傘下。

@@ -1,4 +1,4 @@
-> この記事は[Mirror \(\)](https://ja.wikipedia.org/wiki/Mirror_\(\))から翻訳されています。
+> この記事は[Mirror \(堂本光一のアルバム\)](https://ja.wikipedia.org/wiki/Mirror_\(堂本光一のアルバム\))から翻訳されています。
 
 
 『**mirror**』（ミラー）は、[堂本光一](../Page/堂本光一.md "wikilink")の1枚目の[アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")から発売された。

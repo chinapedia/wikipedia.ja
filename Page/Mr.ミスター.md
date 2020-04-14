@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.ミスター](https://ja.wikipedia.org/wiki/Mr.ミスター)から翻訳されています。
 
 
 **Mr.ミスター**（ミスターミスター、**Mr. Mister**）は、[アメリカのバンド](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[1980年代](../Page/1980年代.md "wikilink")半ばに2曲の全米1位ヒットを放った。

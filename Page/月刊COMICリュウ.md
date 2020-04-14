@@ -1,4 +1,4 @@
-> この記事は[COMIC](https://ja.wikipedia.org/wiki/COMIC)から翻訳されています。
+> この記事は[月刊COMICリュウ](https://ja.wikipedia.org/wiki/月刊COMICリュウ)から翻訳されています。
 
 
 『**月刊COMICリュウ**』（げっかんコミックリュウ）は、[徳間書店](../Page/徳間書店.md "wikilink")発行の月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

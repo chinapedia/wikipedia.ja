@@ -1,4 +1,4 @@
-> この記事は[Magic number \(KICK THE CAN CREW\)](https://ja.wikipedia.org/wiki/Magic_number_\(KICK_THE_CAN_CREW\))から翻訳されています。
+> この記事は[Magic number \(KICK THE CAN CREWのアルバム\)](https://ja.wikipedia.org/wiki/Magic_number_\(KICK_THE_CAN_CREWのアルバム\))から翻訳されています。
 
 
 **magic number**（マジック・ナンバー）は、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")3枚目([メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")2枚目)の[アルバム](../Page/アルバム.md "wikilink")である。

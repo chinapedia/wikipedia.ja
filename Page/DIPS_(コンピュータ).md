@@ -1,4 +1,4 @@
-> この記事は[DIPS \(\)](https://ja.wikipedia.org/wiki/DIPS_\(\))から翻訳されています。
+> この記事は[DIPS \(コンピュータ\)](https://ja.wikipedia.org/wiki/DIPS_\(コンピュータ\))から翻訳されています。
 
 
 **DIPS**（ディップス）とは、[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")（電電公社）が[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")にかけて開発した[メインフレーム](../Page/メインフレーム.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")の名称。"Dendenkosha Information Processing System"の略。

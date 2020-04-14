@@ -1,4 +1,4 @@
-> この記事は[TV2](https://ja.wikipedia.org/wiki/TV2)から翻訳されています。
+> この記事は[TVチャンピオン2](https://ja.wikipedia.org/wiki/TVチャンピオン2)から翻訳されています。
 
 
 『**TVチャンピオン2**』（てれびちゃんぴおんつー、TV champion2）は、[2006年](../Page/2006年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で毎週木曜日19:57 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。前身の『[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")』を継承している。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。2008年9月18日の番組終了後、同年[10月16日](../Page/10月16日.md "wikilink")より元チャンピオン達が出演する『[チャンピオンズ〜達人のワザが世界を救う〜](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")』に改題・リニューアルした。

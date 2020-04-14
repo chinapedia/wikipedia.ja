@@ -26,4 +26,4 @@
 
   - [STS-107](https://ja.wikipedia.org/wiki/STS-107 "wikilink")
 
-[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1986年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1986年のアメリカ合衆国 "wikilink") [Category:1986年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1986年の宇宙飛行 "wikilink") [Category:1986年1月](https://ja.wikipedia.org/wiki/Category:1986年1月 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1986年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1986年のアメリカ合衆国 "wikilink") [Category:1986年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1986年の宇宙飛行 "wikilink") [Category:1986年1月](https://ja.wikipedia.org/wiki/Category:1986年1月 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[One Way Love](https://ja.wikipedia.org/wiki/One_Way_Love)から翻訳されています。
+> この記事は[One Way Love〜ミントちゃん物語](https://ja.wikipedia.org/wiki/One_Way_Love〜ミントちゃん物語)から翻訳されています。
 
 
 『**One Way Love〜ミントちゃん物語〜**』（ワン ウェイ ラブ〜ミントちゃんものがたり〜）は、同人サークル**王宮魔法劇団**（おうきゅうまほうげきだん）が発売した同人ゲームである。

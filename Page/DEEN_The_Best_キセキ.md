@@ -1,4 +1,4 @@
-> この記事は[DEEN The Best ](https://ja.wikipedia.org/wiki/DEEN_The_Best_)から翻訳されています。
+> この記事は[DEEN The Best キセキ](https://ja.wikipedia.org/wiki/DEEN_The_Best_キセキ)から翻訳されています。
 
 
 『**DEEN The Best キセキ**』（ディーン・ザ・ベスト きせき）は、[DEEN](../Page/DEEN.md "wikilink")の11枚目のアルバム。[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバムである。

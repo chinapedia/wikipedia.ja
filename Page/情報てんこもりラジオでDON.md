@@ -1,4 +1,4 @@
-> この記事は[DON](https://ja.wikipedia.org/wiki/DON)から翻訳されています。
+> この記事は[情報てんこもりラジオでDON](https://ja.wikipedia.org/wiki/情報てんこもりラジオでDON)から翻訳されています。
 
 
 **情報てんこもりラジオでDON**とは[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")で放送されていたラジオ番組。[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")開始。[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")終了。

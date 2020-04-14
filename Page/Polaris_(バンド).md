@@ -1,4 +1,4 @@
-> この記事は[Polaris \(\)](https://ja.wikipedia.org/wiki/Polaris_\(\))から翻訳されています。
+> この記事は[Polaris \(バンド\)](https://ja.wikipedia.org/wiki/Polaris_\(バンド\))から翻訳されています。
 
 
 **Polaris**（ポラリス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ・バンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。

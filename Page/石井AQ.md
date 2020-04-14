@@ -1,4 +1,4 @@
-> この記事は[AQ](https://ja.wikipedia.org/wiki/AQ)から翻訳されています。
+> この記事は[石井AQ](https://ja.wikipedia.org/wiki/石井AQ)から翻訳されています。
 
 
 **石井AQ**（いしいエーキュー、本名：**石井 明**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。

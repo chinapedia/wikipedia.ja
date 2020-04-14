@@ -1,4 +1,4 @@
-> この記事は[RNC](https://ja.wikipedia.org/wiki/RNC)から翻訳されています。
+> この記事は[RNCビッグナイター](https://ja.wikipedia.org/wiki/RNCビッグナイター)から翻訳されています。
 
 
 **RNCビッグナイター**（アールエヌシービッグナイター）は、[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")レギュラーシーズン中（基本として4- 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（RNC）で放送されているプロ野球中継。「[NRNナイター](../Page/全国ラジオネットワーク.md "wikilink")」（キー局：[ニッポン放送](../Page/ニッポン放送.md "wikilink")）を編成している。

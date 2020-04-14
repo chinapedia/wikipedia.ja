@@ -1,4 +1,4 @@
-> この記事は[Dreamland \(BENNIE K\)](https://ja.wikipedia.org/wiki/Dreamland_\(BENNIE_K\))から翻訳されています。
+> この記事は[Dreamland \(BENNIE Kの曲\)](https://ja.wikipedia.org/wiki/Dreamland_\(BENNIE_Kの曲\))から翻訳されています。
 
 
 『**Dreamland**』（ドリームランド）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")9枚目のシングル。

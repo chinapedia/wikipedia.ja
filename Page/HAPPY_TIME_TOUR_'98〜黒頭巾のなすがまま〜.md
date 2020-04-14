@@ -1,4 +1,4 @@
-> この記事は[HAPPY TIME TOUR \'98](https://ja.wikipedia.org/wiki/HAPPY_TIME_TOUR_\'98)から翻訳されています。
+> この記事は[HAPPY TIME TOUR \'98〜黒頭巾のなすがまま〜](https://ja.wikipedia.org/wiki/HAPPY_TIME_TOUR_\'98〜黒頭巾のなすがまま〜)から翻訳されています。
 
 
 『**HAPPY TIME TOUR '98〜黒頭巾のなすがまま〜**』（ハッピー・タイム・ツアー・ナインティーエイト くろずきんのなすがまま）は、[レイジー](../Page/レイジー.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")、および[VHS](../Page/VHS.md "wikilink")ソフト。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[エアーズから発売された](https://ja.wikipedia.org/wiki/エアーズ_\(音楽出版会社\) "wikilink")。

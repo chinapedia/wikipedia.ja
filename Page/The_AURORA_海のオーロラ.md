@@ -1,4 +1,4 @@
-> この記事は[The AURORA ](https://ja.wikipedia.org/wiki/The_AURORA_)から翻訳されています。
+> この記事は[The AURORA 海のオーロラ](https://ja.wikipedia.org/wiki/The_AURORA_海のオーロラ)から翻訳されています。
 
 
 『**The AURORA 海のオーロラ**』（ジ・オーロラ うみのオーロラ）は、[2000年](../Page/2000年.md "wikilink")8月5日に公開された[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[CG](../Page/コンピュータグラフィックス.md "wikilink")[アニメーション映画](../Page/アニメーション映画.md "wikilink")。本作は「日本初のフルCGによる35mm映画」と銘打ち公開され、[石田純一](../Page/石田純一.md "wikilink")・[いしだ壱成](../Page/いしだ壱成.md "wikilink")親子が初めて声優として出演したことで話題となった。

@@ -1,4 +1,4 @@
-> この記事は[B.](https://ja.wikipedia.org/wiki/B.)から翻訳されています。
+> この記事は[ジョニー・B.グッド](https://ja.wikipedia.org/wiki/ジョニー・B.グッド)から翻訳されています。
 
 
 「**ジョニー・B.グッド**」（）は、[1958年](../Page/1958年.md "wikilink")に[シングル](../Page/シングル.md "wikilink")として発売された[チャック・ベリー](../Page/チャック・ベリー.md "wikilink")の楽曲。

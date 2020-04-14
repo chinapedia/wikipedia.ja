@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースかごしま](https://ja.wikipedia.org/wiki/NHKニュースかごしま)から翻訳されています。
 
 
 『**NHKニュースかごしま**』（エヌエイチケイニュースかごしま）は、[NHK鹿児島放送局](../Page/NHK鹿児島放送局.md "wikilink")で放送されていた[ローカルニュース番組である](../Page/報道番組.md "wikilink")。[鹿児島県](../Page/鹿児島県.md "wikilink")内の1日のニュース・話題などを伝える。

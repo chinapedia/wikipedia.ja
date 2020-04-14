@@ -1,4 +1,4 @@
-> この記事は[W.K.](https://ja.wikipedia.org/wiki/W.K.)から翻訳されています。
+> この記事は[アンドリューW.K.](https://ja.wikipedia.org/wiki/アンドリューW.K.)から翻訳されています。
 
 
 **アンドリューW.K.**（Andrew W.K.、[1979年](../Page/1979年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、および彼の率いる[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。本名は**アンドリュー・ファタリー・ウィルクス＝クライアー**（Andrew Fetterly Wilkes-Krier）。

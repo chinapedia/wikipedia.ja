@@ -1,4 +1,4 @@
-> この記事は[Illumination \(\)](https://ja.wikipedia.org/wiki/Illumination_\(\))から翻訳されています。
+> この記事は[Illumination \(浜田省吾のアルバム\)](https://ja.wikipedia.org/wiki/Illumination_\(浜田省吾のアルバム\))から翻訳されています。
 
 
 『**Illumination**』（イルミネーション）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。

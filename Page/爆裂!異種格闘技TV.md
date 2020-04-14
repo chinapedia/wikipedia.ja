@@ -1,4 +1,4 @@
-> この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
+> この記事は[爆裂!異種格闘技TV](https://ja.wikipedia.org/wiki/爆裂!異種格闘技TV)から翻訳されています。
 
 
 『**爆裂\!異種格闘技TV**』（ばくれつ いしゅかくとうぎテレビ）は、1994年1月6日から同年3月24日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[毎日放送製作の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全12回。放送時間は毎週木曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

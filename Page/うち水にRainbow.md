@@ -1,4 +1,4 @@
-> この記事は[Rainbow](https://ja.wikipedia.org/wiki/Rainbow)から翻訳されています。
+> この記事は[うち水にRainbow](https://ja.wikipedia.org/wiki/うち水にRainbow)から翻訳されています。
 
 
 『**うち水にRainbow**』（うちみずにレインボー）は、[THE SQUAREの](../Page/T-SQUARE.md "wikilink")7枚目のアルバムである。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[5月21日](../Page/5月21日.md "wikilink")にリリースされた。

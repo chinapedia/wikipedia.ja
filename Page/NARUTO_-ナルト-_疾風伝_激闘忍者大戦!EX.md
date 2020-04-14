@@ -1,4 +1,4 @@
-> この記事は[NARUTO --  !EX](https://ja.wikipedia.org/wiki/NARUTO_--__!EX)から翻訳されています。
+> この記事は[NARUTO -ナルト- 疾風伝 激闘忍者大戦!EX](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝_激闘忍者大戦!EX)から翻訳されています。
 
 
 **NARUTO -ナルト- 疾風伝 激闘忍者大戦\!EX**（ナルトしっぷうでん げきとうにんじゃたいせん\!イーエックス）は、[タカラトミー](../Page/タカラトミー.md "wikilink")から日本で2007年2月22日に発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。海外では『Naruto: Clash of Ninja Revolution』シリーズとしてリリースされている。

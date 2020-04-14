@@ -1,4 +1,4 @@
-> この記事は[RUNE II ](https://ja.wikipedia.org/wiki/RUNE_II_)から翻訳されています。
+> この記事は[RUNE II 〜コルテンの鍵の秘密〜](https://ja.wikipedia.org/wiki/RUNE_II_〜コルテンの鍵の秘密〜)から翻訳されています。
 
 
 『**RUNE II 〜コルテンの鍵の秘密〜**』（ルーン2 コルテンのかぎのひみつ）は、[2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")から[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフトとして発売された[カード](../Page/カード.md "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")。

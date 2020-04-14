@@ -1,4 +1,4 @@
-> この記事は[A.P. ](https://ja.wikipedia.org/wiki/A.P._)から翻訳されています。
+> この記事は[A.P. モラー・マースク](https://ja.wikipedia.org/wiki/A.P._モラー・マースク)から翻訳されています。
 
 
 **A.P. モラー・マースク**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[首都](../Page/首都.md "wikilink")[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")に本拠を置く[海運](../Page/海運.md "wikilink")[コングロマリット](../Page/コングロマリット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")以来\[1\][2018年](../Page/2018年.md "wikilink")現在に至るまで売上高世界一の海運企業であり、[コンテナ船](../Page/コンテナ船.md "wikilink")部門に強みがある\[2\]。コペンハーゲン証券取引所上場企業。
@@ -34,6 +34,7 @@
   - [レジナ・マースク](https://ja.wikipedia.org/wiki/レジナ・マースク "wikilink")
   - [ソブリン・マースク](https://ja.wikipedia.org/wiki/ソブリン・マースク "wikilink")
   - [エマ・マースク](https://ja.wikipedia.org/wiki/エマ・マースク "wikilink")
+  - [マースク・アラバマ号事件](https://ja.wikipedia.org/wiki/ソマリア沖2009年4月12日の事件 "wikilink") - 2009年、[ソマリア沖の海賊](https://ja.wikipedia.org/wiki/ソマリア沖の海賊 "wikilink")によって占拠された誘拐身代金事件。後に映画「[キャプテン・フィリップス](https://ja.wikipedia.org/wiki/キャプテン・フィリップス "wikilink")」として公開された。
 
 ## 外部リンク
 

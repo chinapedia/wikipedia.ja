@@ -1,4 +1,4 @@
-> この記事は[JH-7 \(\)](https://ja.wikipedia.org/wiki/JH-7_\(\))から翻訳されています。
+> この記事は[JH-7 \(航空機\)](https://ja.wikipedia.org/wiki/JH-7_\(航空機\))から翻訳されています。
 
 
 **JH-7**（、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の第603航空機設計所で開発、[西安飛機工業公司](https://ja.wikipedia.org/wiki/西安飛機工業公司 "wikilink")で製造された全天候型[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")である。老朽化した[Q-5攻撃機の後継機として開発され](../Page/Q-5_\(航空機\).md "wikilink")、現在[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")のみで運用されている。輸出名は**FBC-1**、愛称は**フライング・レオパルド**（Flying Leopard、、）である。[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**フラウンダー** (Flounder)。

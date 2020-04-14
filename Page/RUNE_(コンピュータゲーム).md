@@ -1,4 +1,4 @@
-> この記事は[RUNE \(\)](https://ja.wikipedia.org/wiki/RUNE_\(\))から翻訳されています。
+> この記事は[RUNE \(コンピュータゲーム\)](https://ja.wikipedia.org/wiki/RUNE_\(コンピュータゲーム\))から翻訳されています。
 
 
 『**RUNE**』（ルーン）は、[2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")から[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフトとして発売された[カード](../Page/カード.md "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームである。

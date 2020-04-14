@@ -1,4 +1,4 @@
-> この記事は[ACLS](https://ja.wikipedia.org/wiki/ACLS)から翻訳されています。
+> この記事は[日本ACLS協会](https://ja.wikipedia.org/wiki/日本ACLS協会)から翻訳されています。
 
 
 **特定非営利活動法人日本ACLS協会**（とくていひえいりかつどうほうじん にほんえーしーえるえすきようかい）は、世界中に3千余、日本国内に9つある[アメリカ心臓協会](../Page/アメリカ心臓協会.md "wikilink")(AHA)の国際トレーニングセンター（International training Center：ITC）のひとつとして救急講習を日本国内で行っている[NPO](../Page/NPO.md "wikilink")法人。

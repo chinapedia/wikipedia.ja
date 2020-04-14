@@ -36,4 +36,4 @@
   - [K2OFFICE](http://www.ngy1.1st.ne.jp/~k2office/)（公式サイト、実姉・大橋薫と共同）
   - [k2オフィス楠桂 漫画家楠桂の赤裸々お笑い日記](http://k2office.blog62.fc2.com/)（公式ブログ）
 
-[Category:楠桂](https://ja.wikipedia.org/wiki/Category:楠桂 "wikilink") [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:ヤングガンガン](https://ja.wikipedia.org/wiki/Category:ヤングガンガン "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:社会問題を題材とした作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材とした作品 "wikilink") [Category:妊娠を題材とした作品](https://ja.wikipedia.org/wiki/Category:妊娠を題材とした作品 "wikilink")
+[Category:楠桂](https://ja.wikipedia.org/wiki/Category:楠桂 "wikilink") [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:ヤングガンガン](https://ja.wikipedia.org/wiki/Category:ヤングガンガン "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:社会問題を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材とした漫画作品 "wikilink") [Category:妊娠を題材とした漫画](https://ja.wikipedia.org/wiki/Category:妊娠を題材とした漫画 "wikilink")

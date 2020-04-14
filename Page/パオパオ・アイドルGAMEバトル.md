@@ -1,4 +1,4 @@
-> この記事は[GAME](https://ja.wikipedia.org/wiki/GAME)から翻訳されています。
+> この記事は[パオパオ・アイドルGAMEバトル](https://ja.wikipedia.org/wiki/パオパオ・アイドルGAMEバトル)から翻訳されています。
 
 
 **パオパオ・アイドルGAMEバトル**（ぱおぱおあいどるげーむばとる）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[BS日テレで放送されていた](../Page/BS日本.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

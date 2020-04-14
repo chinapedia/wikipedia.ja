@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jキッズ牙](https://ja.wikipedia.org/wiki/Jキッズ牙)から翻訳されています。
 
 
 『**Jキッズ牙**』（ジェイキッズきば）とは、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）に連載された[サッカー漫画](../Page/サッカー漫画.md "wikilink")。作者は[はやさかゆう](https://ja.wikipedia.org/wiki/はやさかゆう "wikilink")。

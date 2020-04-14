@@ -1,4 +1,4 @@
-> この記事は[+ VS](https://ja.wikipedia.org/wiki/+_VS)から翻訳されています。
+> この記事は[忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵](https://ja.wikipedia.org/wiki/忍者ハットリくん+パーマン_忍者怪獣ジッポウVSミラクル卵)から翻訳されています。
 
 
 <div class="pathnavbox">

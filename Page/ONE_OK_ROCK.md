@@ -556,7 +556,7 @@
 
 #### ミニ・アルバム
 
-発売当時所属のレーベルは「[zumania](http://www.indiesmusic.com/label/?id=3450)」
+発売当時所属のレーベルは「[zumania](https://www.indiesmusic.com/label/?id=3450)」
 現在は廃盤。
 
 <table>
@@ -858,7 +858,7 @@
 | [福居英晃](https://ja.wikipedia.org/wiki/福居英晃 "wikilink")     | 「内秘心書」「[じぶんROCK](https://www.youtube.com/watch?v=Y_tUf_-Xz44)」「[完全感覚Dreamer](https://www.youtube.com/watch?v=xGbxsiBZGPI)」「恋ノアイボウ心ノクピド」「必然メーカー」                                                                                                                                                                                                                 |
 | 松山純也                                                      | 「努努-ゆめゆめ-」                                                                                                                                                                                                                                                                                                                                                      |
 | [本郷伸明](https://ja.wikipedia.org/wiki/本郷伸明 "wikilink")     | 「エトセトラ」                                                                                                                                                                                                                                                                                                                                                         |
-| 千葉哲郎                                                      | 「[もしも太陽がなくなったとしたら](http://www.indiesmusic.com/musicvideo/video.asp?id=10197)」「[Keep it real](http://www.indiesmusic.com/musicvideo/video.asp?id=10234)」                                                                                                                                                                                                         |
+| 千葉哲郎                                                      | 「[もしも太陽がなくなったとしたら](https://www.indiesmusic.com/musicvideo/video.asp?id=10197)」「[Keep it real](https://www.indiesmusic.com/musicvideo/video.asp?id=10234)」                                                                                                                                                                                                       |
 |                                                           |                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## 受賞歴
@@ -892,6 +892,11 @@
   - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（最も海外で活躍したアーティストに授与される賞）の二冠を受賞
   - 第４回ブライダルミュージックアワードで 「Wherever you are」がミュージック賞受賞[3](https://isum.or.jp/bma/result/2017/?from=bma_news)
   - 「ROCK SOUND AWARDS」2018でBest Live Performance (最も優れたライブパフォーマンス）受賞[4](http://www.rocksound.tv/news/read/introducing-your-2018-rock-sound-awards-winners)
+
+**2020年**
+
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST GROUP ARTIST（最も活躍したグループアーティストに授与される賞）および
+  - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・ARTIST OF THE YEAR（2019年を代表する最優秀アーティストに授与される最高賞）の二冠を受賞
 
 ## 主な出演フェス・イベント
 
@@ -1307,7 +1312,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 07.30 - 渋谷eggman [NEW POWER GENERATION](https://ja.wikipedia.org/wiki/NEW_POWER_GENERATION "wikilink") Vol.3\[69\]（初ライヴ）
+  - 07.30 - 渋谷eggman NEW POWER GENERATION Vol.3\[69\]（初ライヴ）
   - 08.24 吉祥寺WARP
   - 10.09 二子玉川pink noise
   - 11.26 二子玉川pink noise
@@ -1404,7 +1409,7 @@
   - 08.21 神戸STAR CLUB
   - 08.22 岡山CRAZYMAMA2ndRoom
   - 08.25 MONSTER baSH2007
-  - 08.26 Zepp Fukuoka
+  - 08.26 Zepp Fukuoka- “STRONG TIDES '07”（UVERworld/かりゆし58/豚骨ピストンズ ）
   - 09.11 Zepp Fukuoka-“WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/ROACH \[70\]）
   - 09.13 Zepp Nagoya- “WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/MEN☆SOUL ）
   - 09.14 Zepp Osaka- “WHAT's IN? Presents LIVE for MUSIC PEOPLE WE LOVE MUSIC”（いきものがかり/シド/J-Min）
@@ -1710,6 +1715,36 @@
 
 </div>
 
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2019年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2020年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 02.02 - [BLARE FEST. 2020](https://ja.wikipedia.org/wiki/BLARE_FEST._2020 "wikilink"), WATER STAGE at ポートメッセなごや (愛知県)
+
+</div>
+
+</div>
+
 ### 出演イベント（海外）
 
 <div class="NavFrame" style="clear: both; border:0;font-size:small;">
@@ -1929,10 +1964,6 @@
 
   - 5月1５日 - ロスのフリーイベント＜Identity LA 2018＞のマイクシノダのステージにtakaがゲストで登場
 
-<!-- end list -->
-
-  -
-
 </div>
 
 </div>
@@ -1955,6 +1986,7 @@
 
   - [ONE OK ROCK - アミューズ オフィシャル ウェブサイト](https://artist.amuse.co.jp/artist/one_ok_rock/)
 
+  -
   -
   -
   -
@@ -2020,21 +2052,21 @@
 55. [Paris](https://ja.wikipedia.org/wiki/Paris "wikilink")/フランス（2会場2公演）、[Bonn](https://ja.wikipedia.org/wiki/Bonn "wikilink")/ドイツ、[London](https://ja.wikipedia.org/wiki/London "wikilink")/イギリス、[Amsterdam](https://ja.wikipedia.org/wiki/Amsterdam "wikilink")/オランダ、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[Seoul](https://ja.wikipedia.org/wiki/Seoul "wikilink")/韓国、[Bangkok](https://ja.wikipedia.org/wiki/Bangkok "wikilink")/タイ、[Kuala Lumpur](https://ja.wikipedia.org/wiki/Kuala_Lumpur "wikilink")/マレーシア、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[Jakarta](https://ja.wikipedia.org/wiki/Jakarta "wikilink")/インドネシア、[Taipei](https://ja.wikipedia.org/wiki/Taipei "wikilink")/台湾
 56. [Los Angeles](https://ja.wikipedia.org/wiki/Los_Angeles "wikilink")/US,[New York](https://ja.wikipedia.org/wiki/New_York "wikilink")/US,[Toronto](https://ja.wikipedia.org/wiki/Toronto "wikilink")/Canada,[Philadelphia](https://ja.wikipedia.org/wiki/Philadelphia "wikilink")/US
 57. [Anaheim](https://ja.wikipedia.org/wiki/Anaheim "wikilink")、[San Diego](https://ja.wikipedia.org/wiki/San_Diego "wikilink")
-58. [Santiago](https://ja.wikipedia.org/wiki/Santiago "wikilink")/チリ、[Buenos Aires](https://ja.wikipedia.org/wiki/Buenos_Aires "wikilink")/アルゼンチン、[São Paulo](https://ja.wikipedia.org/wiki/São_Paulo "wikilink")/ブラジル、[Lima](https://ja.wikipedia.org/wiki/Lima "wikilink")/ペルー、[Mexico City](https://ja.wikipedia.org/wiki/Mexico_City "wikilink")/メキシコ、[Frankfurt](https://ja.wikipedia.org/wiki/Frankfurt "wikilink")/ドイツ、[Paris](https://ja.wikipedia.org/wiki/Paris "wikilink")/フランス、[Zurich](https://ja.wikipedia.org/wiki/Zurich "wikilink")/スイス、[Milan](https://ja.wikipedia.org/wiki/Milan "wikilink")/イタリア、[Munich](https://ja.wikipedia.org/wiki/Munich "wikilink")/ドイツ、[Cologne](https://ja.wikipedia.org/wiki/Cologne "wikilink")/ドイツ、[Berlin](https://ja.wikipedia.org/wiki/Berlin "wikilink")/ドイツ、[Copenhagen](https://ja.wikipedia.org/wiki/Copenhagen "wikilink")/デンマーク、[Stockholm](https://ja.wikipedia.org/wiki/Stockholm "wikilink")/スウェーデン、[Hamburg](https://ja.wikipedia.org/wiki/Hamburg "wikilink")/ドイツ、[Amsterdam](https://ja.wikipedia.org/wiki/Amsterdam "wikilink")/オランダ、[Antwerp](https://ja.wikipedia.org/wiki/Antwerp "wikilink")/ベルギー、[London](https://ja.wikipedia.org/wiki/London "wikilink")/イギリス、[St Petersburg](https://ja.wikipedia.org/wiki/St_Petersburg "wikilink")/ロシア、[Moscow](https://ja.wikipedia.org/wiki/Moscow "wikilink")/ロシア
+58. [サンチアゴ](https://ja.wikipedia.org/wiki/サンチアゴ "wikilink")、[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")、[サンパウロ](../Page/サンパウロ.md "wikilink")、[リマ](../Page/リマ.md "wikilink")、[メキシコシティ](../Page/メキシコシティ.md "wikilink")、[フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[チューリヒ](https://ja.wikipedia.org/wiki/チューリヒ "wikilink")、[ミラン](../Page/ミラン.md "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")、[ケルン](../Page/ケルン.md "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[アントワープ](https://ja.wikipedia.org/wiki/アントワープ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")
 59. サポートゲストとして12日[Sleeping With Sirens](https://ja.wikipedia.org/wiki/スリーピング・ウィズ・サイレンス "wikilink") / Against the Current、 13日Sleeping With Sirens / ISSUES
 60. [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")(2公演)、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
-61. [Germany](https://ja.wikipedia.org/wiki/Germany "wikilink")(2都市)、[Poland](https://ja.wikipedia.org/wiki/Poland "wikilink")、[Belgium](https://ja.wikipedia.org/wiki/Belgium "wikilink")、[Luxembourg](https://ja.wikipedia.org/wiki/Luxembourg "wikilink")
-62. [New York, NY](https://ja.wikipedia.org/wiki/New_York,_NY "wikilink")、[Toronto, ON](https://ja.wikipedia.org/wiki/Toronto,_ON "wikilink")、[Chicago, IL](https://ja.wikipedia.org/wiki/Chicago,_IL "wikilink")、[Los Angeles, CA](https://ja.wikipedia.org/wiki/Los_Angeles,_CA "wikilink")、[San Francisco, CA](https://ja.wikipedia.org/wiki/San_Francisco,_CA "wikilink")、[Seattle, WA](https://ja.wikipedia.org/wiki/Seattle,_WA "wikilink")
-63. [St Petersburg](https://ja.wikipedia.org/wiki/St_Petersburg "wikilink")、[Moscow](https://ja.wikipedia.org/wiki/Moscow "wikilink")
-64. [PERU, Lima](https://ja.wikipedia.org/wiki/PERU,_Lima "wikilink")、[BRAZIL, Sao Paulo](https://ja.wikipedia.org/wiki/BRAZIL,_Sao_Paulo "wikilink")、[ARGENTINA, Buenos Aires](https://ja.wikipedia.org/wiki/ARGENTINA,_Buenos_Aires "wikilink")、[CHILE, Santiagoなお](https://ja.wikipedia.org/wiki/CHILE,_Santiago "wikilink")09月25日に予定されていたメキシコは、地震の影響で中止になった。
-65. [Brisbane](https://ja.wikipedia.org/wiki/Brisbane "wikilink"), [Sydney](https://ja.wikipedia.org/wiki/Sydney "wikilink"), [Melbourne](https://ja.wikipedia.org/wiki/Melbourne "wikilink")
-66. [SWITZERLAND, Zurich](https://ja.wikipedia.org/wiki/SWITZERLAND,_Zurich "wikilink"), [CZECH REPUBLIC, Prague](https://ja.wikipedia.org/wiki/CZECH_REPUBLIC,_Prague "wikilink"), [POLAND, Warsaw](https://ja.wikipedia.org/wiki/POLAND,_Warsaw "wikilink"), [FINLAND, Helsinki](https://ja.wikipedia.org/wiki/FINLAND,_Helsinki "wikilink"), [SWEDEN, Stockholm](https://ja.wikipedia.org/wiki/SWEDEN,_Stockholm "wikilink"), [NORWAY, Oslo](https://ja.wikipedia.org/wiki/NORWAY,_Oslo "wikilink"), [DENMARK, Copenhagen](https://ja.wikipedia.org/wiki/DENMARK,_Copenhagen "wikilink"), [U.K, Glasgow](https://ja.wikipedia.org/wiki/U.K,_Glasgow "wikilink"), [U.K, Manchester](https://ja.wikipedia.org/wiki/U.K,_Manchester "wikilink"), [U.K, London](https://ja.wikipedia.org/wiki/U.K,_London "wikilink"), [GERMANY, Cologne](https://ja.wikipedia.org/wiki/GERMANY,_Cologne "wikilink"), [GERMANY, Munich](https://ja.wikipedia.org/wiki/GERMANY,_Munich "wikilink"), [AUSTRIA, Vienna](https://ja.wikipedia.org/wiki/AUSTRIA,_Vienna "wikilink"), [GERMANY, Berlin](https://ja.wikipedia.org/wiki/GERMANY,_Berlin "wikilink"), [HOLLAND, Amsterdam](https://ja.wikipedia.org/wiki/HOLLAND,_Amsterdam "wikilink"), [FRANCE, Paris](https://ja.wikipedia.org/wiki/FRANCE,_Paris "wikilink")
-67. [BANGKOK, THAILAND](https://ja.wikipedia.org/wiki/BANGKOK,_THAILAND "wikilink")、[SINGAPORE](https://ja.wikipedia.org/wiki/SINGAPORE "wikilink")、[SHANGHAI](https://ja.wikipedia.org/wiki/SHANGHAI "wikilink")、[TAIPEI, TAIWAN](https://ja.wikipedia.org/wiki/TAIPEI,_TAIWAN "wikilink")、[MANILA, PHILIPPINES](https://ja.wikipedia.org/wiki/MANILA,_PHILIPPINES "wikilink")、[HONG KONG](https://ja.wikipedia.org/wiki/HONG_KONG "wikilink")、[SEOUL, KOREA](https://ja.wikipedia.org/wiki/SEOUL,_KOREA "wikilink")
-68. U.K, London – Heaven、GERMANY, Cologne – Luxor、GERMANY, Hamburg – headCRASH、NETHERLANDS, Utrecht – TivoliVrendenburg Pandora、FRANCE, Paris – Bataclan
+61. [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")(2都市)、[ポーランド](../Page/ポーランド.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")、[ルクセンブルク](../Page/ルクセンブルク.md "wikilink")
+62. [ニューヨーク](../Page/ニューヨーク.md "wikilink")、[トロント](../Page/トロント.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")
+63. サンクトペテルブルク、モスクワ
+64. リマ、サンパウロ、ブエノスアイレス、サンチアゴ。なお09月25日に予定されていたメキシコは、地震の影響で中止になった。
+65. [ブリスベン](../Page/ブリスベン.md "wikilink")、[シドニー](../Page/シドニー.md "wikilink")、[メルボルン](../Page/メルボルン.md "wikilink")
+66. チューリヒ、[プラハ](../Page/プラハ.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")、[ストックホルム](../Page/ストックホルム.md "wikilink")、[オスロ](../Page/オスロ.md "wikilink")、[コペンハーゲン](../Page/コペンハーゲン.md "wikilink"), [グラスゴー](../Page/グラスゴー.md "wikilink")、[マンチェスター](../Page/マンチェスター.md "wikilink")、ロンドン、ケルン、ミュンヘン、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")、ベルリン、アムステルダム、パリ
+67. [バンコク](../Page/バンコク.md "wikilink")、シンガポール、[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")、[マニラ](../Page/マニラ.md "wikilink")、香港、[ソウル](https://ja.wikipedia.org/wiki/ソウル "wikilink")
+68. ロンドン - Heaven、ケルン - Luxor、ハンブルク - headCRASH、ユトレヒト - TivoliVrendenburg Pandora、パリ - Bataclan
 69. 「[原田真二](../Page/原田真二.md "wikilink")プロデュース」のアーティストを発掘するとして始まったオーディションの第3弾。
 70. <http://natalie.mu/music/news/2926>
 71. [Yellowcard](https://ja.wikipedia.org/wiki/Yellowcard "wikilink")、[Tonight Alive](https://ja.wikipedia.org/wiki/Tonight_Alive "wikilink")、（東京のみ）との対バン形式のイベントツアー。
 72. [All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink")、、（東京のみ）との対バン形式のイベントツアー。
 73. [ONE OK ROCK 18祭（フェス）- ムズムズエイティーン](http://www.nhk.or.jp/mzmz18/18fes/) - NHKオンライン
 74. [NHKが全国の18歳に届ける1回限りの奇跡のステージ 「ONE OK ROCK 18祭（フェス）」参加者募集\!](http://www.oneokrock.com/jp/news/1490)  - ONE OK ROCK official website
-75. 事前選考を通過した1,000人の18歳世代とONE OK ROCKが一緒にひとつのステージを作り上げる、1回限り1曲限りのパフォーマンスを目指すもの。18歳世代とは、「18祭（フェス）」本番当日（2016年11月13日）時点で、満17〜19歳（1996年11月14日〜1999年11月13日生まれ）の者を指す。
+75. 事前選考を通過した1,000人の18歳世代とONE OK ROCKが一緒にひとつのステージを作り上げる、1回限り1曲限りのパフォーマンスを目指すもの。18歳世代とは、「18祭（フェス）」本番当日（2016年11月13日）時点で、満17 - 19歳（1996年11月14日 - 1999年11月13日生まれ）の者を指す。

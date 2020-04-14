@@ -91,9 +91,16 @@
   - [韓国ドラマ](../Page/韓国ドラマ.md "wikilink")
   - [海外ドラマ](../Page/海外ドラマ.md "wikilink")
   - [トレンディドラマ](../Page/トレンディドラマ.md "wikilink")
+  - [ハル〜総合商社の女〜](https://ja.wikipedia.org/wiki/ハル〜総合商社の女〜 "wikilink") - 栗原美和子のエグゼクティブプロデューサー出向体験を基にした[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")のドラマ\[1\]
+
+## 脚注
+
+<references />
 
 ## 外部リンク
 
   - [女性チャンネル♪LaLa TV](https://www.lala.tv/)
 
 [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink")
+
+1.

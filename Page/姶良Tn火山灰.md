@@ -1,7 +1,7 @@
-> この記事は[Tn](https://ja.wikipedia.org/wiki/Tn)から翻訳されています。
+> この記事は[姶良Tn火山灰](https://ja.wikipedia.org/wiki/姶良Tn火山灰)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Aira_AT_tephra_29-26ka.svg "wikilink") **姶良Tn火山灰**（あいらてぃーえぬかざんばい）は、約2万9千年前～2万6千年前に[姶良カルデラ](../Page/姶良カルデラ.md "wikilink")の巨大[噴火](../Page/噴火.md "wikilink")で噴出した大量の[火山灰](../Page/火山灰.md "wikilink")である。（以前は約2万5000年前～2万年と考えられていた。）**Tn**は丹沢を示す。この大噴火で噴出した[火砕流](https://ja.wikipedia.org/wiki/火砕流 "wikilink")が陸上を流れて堆積したものが[入戸火砕流](../Page/入戸火砕流.md "wikilink")で、「[シラス](../Page/シラス_\(地質\).md "wikilink")」の通称でよく知られている。同時に噴出した火山灰のうち、空中高く吹き上げられ、偏西風に乗って東方へ飛んでから地上に降下したものが姶良Tn火山灰 (AT) となった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Aira_AT_tephra_29-26ka.svg "wikilink") **姶良Tn火山灰**（あいらてぃーえぬかざんばい）は、約2万9千年前～2万6千年前に[姶良カルデラ](../Page/姶良カルデラ.md "wikilink")の巨大[噴火](../Page/噴火.md "wikilink")で噴出した大量の[火山灰](../Page/火山灰.md "wikilink")である。（以前は約2万5000年前～2万年前と考えられていた。）**Tn**は丹沢を示す。この大噴火で噴出した[火砕流](https://ja.wikipedia.org/wiki/火砕流 "wikilink")が陸上を流れて堆積したものが[入戸火砕流](../Page/入戸火砕流.md "wikilink")で、「[シラス](../Page/シラス_\(地質\).md "wikilink")」の通称でよく知られている。同時に噴出した火山灰のうち、空中高く吹き上げられ、偏西風に乗って東方へ飛んでから地上に降下したものが姶良Tn火山灰 (AT) となった。
 
 ## 解説
 

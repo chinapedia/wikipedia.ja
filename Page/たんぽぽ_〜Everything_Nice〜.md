@@ -1,4 +1,4 @@
-> この記事は[ Everything Nice](https://ja.wikipedia.org/wiki/_Everything_Nice)から翻訳されています。
+> この記事は[たんぽぽ 〜Everything Nice〜](https://ja.wikipedia.org/wiki/たんぽぽ_〜Everything_Nice〜)から翻訳されています。
 
 
 『**たんぽぽ 〜Everything Nice〜**』（たんぽぽ エヴリシング ナイス）は、[2002年](../Page/2002年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された、[スタジオミルク制作著作、苺みるくブランドの](https://ja.wikipedia.org/wiki/私立さくらんぼ小学校 "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[BAN BAN BAN \(\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(\))から翻訳されています。
+> この記事は[BAN BAN BAN \(曲\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(曲\))から翻訳されています。
 
 
 「**BAN BAN BAN**」（バン・バン・バン）は、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

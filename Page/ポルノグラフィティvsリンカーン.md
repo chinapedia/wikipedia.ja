@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[ポルノグラフィティvsリンカーン](https://ja.wikipedia.org/wiki/ポルノグラフィティvsリンカーン)から翻訳されています。
 
 
 『**ポルノグラフィティvsリンカーン**』(-ヴァーサス-)とは、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のインディーズ時代の作品。[1996年](../Page/1996年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")リリース。

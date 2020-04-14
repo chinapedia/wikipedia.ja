@@ -1,4 +1,4 @@
-> この記事は[MESSaGE \(TM NETWORK\)](https://ja.wikipedia.org/wiki/MESSaGE_\(TM_NETWORK\))から翻訳されています。
+> この記事は[MESSaGE \(TM NETWORKの曲\)](https://ja.wikipedia.org/wiki/MESSaGE_\(TM_NETWORKの曲\))から翻訳されています。
 
 
 **MESSaGE**（メッセージ）は、TM NETWORKの32枚目のシングル。

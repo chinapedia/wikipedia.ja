@@ -1,4 +1,4 @@
-> この記事は[Breakthrough \(\)](https://ja.wikipedia.org/wiki/Breakthrough_\(\))から翻訳されています。
+> この記事は[Breakthrough \(アーティスト\)](https://ja.wikipedia.org/wiki/Breakthrough_\(アーティスト\))から翻訳されています。
 
 
 **breakthrough**（ブレイクスルー）は、日本のサウンド[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")グループ、[プロジェクト](../Page/プロジェクト.md "wikilink")、サウンド[プロデューサー](../Page/プロデューサー.md "wikilink")グループ。

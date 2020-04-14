@@ -1,4 +1,4 @@
-> この記事は[DOG\'s](https://ja.wikipedia.org/wiki/DOG\'s)から翻訳されています。
+> この記事は[キョウハクDOG\'s](https://ja.wikipedia.org/wiki/キョウハクDOG\'s)から翻訳されています。
 
 
 『**キョウハクDOG's**』は、[しゃあ](../Page/しゃあ.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）にて連載されていたが、2006年11月に『電撃帝王』が休刊となった際、姉妹誌等への連載移転が行われず中断した。その後2010年になって『[電撃G's Festival\! COMIC](https://ja.wikipedia.org/wiki/電撃G's_Festival!_COMIC "wikilink")』（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）にて連載が再開され、単行本は『**キョウハクDOG's -Another Secret-**』と改題された上で第1巻から再刊された。

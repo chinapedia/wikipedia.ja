@@ -1,4 +1,4 @@
-> この記事は[WANTED!](https://ja.wikipedia.org/wiki/WANTED!)から翻訳されています。
+> この記事は[WANTED!火曜日バナナマン](https://ja.wikipedia.org/wiki/WANTED!火曜日バナナマン)から翻訳されています。
 
 
 **[WANTED\!](../Page/WANTED!.md "wikilink")**　は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月30日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、[バナナマン](../Page/バナナマン.md "wikilink")は火曜日を担当していた。

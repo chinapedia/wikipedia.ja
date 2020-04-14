@@ -1,4 +1,4 @@
-> この記事は[JUNK2 ](https://ja.wikipedia.org/wiki/JUNK2_)から翻訳されています。
+> この記事は[火曜JUNK2 タカアンドトシのケチャケチャラジオ](https://ja.wikipedia.org/wiki/火曜JUNK2_タカアンドトシのケチャケチャラジオ)から翻訳されています。
 
 
 **火曜JUNK2 タカアンドトシのケチャケチャラジオ**（かようジャンクツー タカアンドトシのケチャケチャラジオ）は、[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")まで、毎週[火曜日](../Page/火曜日.md "wikilink")[深夜](../Page/深夜放送.md "wikilink")（[水曜日](../Page/水曜日.md "wikilink")未明）3:00〜4:00に、[TBSラジオを](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JRN系列各局で放送された](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

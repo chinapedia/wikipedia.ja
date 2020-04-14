@@ -103,7 +103,7 @@
 
   - [プロレスリングWAVE](http://www.pro-w-wave.com/)
 
-  - [元女子プロレスラー「まいどGAMIです」](http://ameblo.jp/zabun-wave-gami/) - 本人のブログ
+  - [元女子プロレスラー「まいどGAMIです」](https://ameblo.jp/zabun-wave-gami/) - 本人のブログ
 
   -
   -

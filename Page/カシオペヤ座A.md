@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[カシオペヤ座A](https://ja.wikipedia.org/wiki/カシオペヤ座A)から翻訳されています。
 
 
 **カシオペヤ座A**（カシオペヤざA、*Cassiopeia A* 、**Cas A**）は[カシオペヤ座](../Page/カシオペヤ座.md "wikilink")にある[超新星残骸](../Page/超新星残骸.md "wikilink")で、[太陽系](../Page/太陽系.md "wikilink")外の[電波源](https://ja.wikipedia.org/wiki/電波源 "wikilink")としては全天で最も[電波](../Page/電波.md "wikilink")強度が強い天体である。その強度は 1 G[Hzの波長域で](../Page/ヘルツ.md "wikilink") 2,720 [Jyに達する](https://ja.wikipedia.org/wiki/ジャンスキー "wikilink")。この天体を作った[超新星](../Page/超新星.md "wikilink")爆発は[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")から約10,000[光年](../Page/光年.md "wikilink")離れた[銀河系](../Page/銀河系.md "wikilink")内で起こった。この爆発の後に残された放出物質からなる雲は現在も膨張を続けて直径約10光年に達しており、条件の良い空では肉眼でもかすかに見ることができる。

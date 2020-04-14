@@ -1,4 +1,4 @@
-> この記事は[DCM](https://ja.wikipedia.org/wiki/DCM)から翻訳されています。
+> この記事は[DCMジャパン](https://ja.wikipedia.org/wiki/DCMジャパン)から翻訳されています。
 
 
 **DCMジャパン株式会社**（ディーシーエムジャパン、英称：*DCM Japan Co., Ltd.*）は、[カーマ](https://ja.wikipedia.org/wiki/カーマ_\(企業\) "wikilink")・[ダイキ](https://ja.wikipedia.org/wiki/ダイキ "wikilink")・[ホーマック](https://ja.wikipedia.org/wiki/ホーマック "wikilink")・[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")の4社によって設立された共同物流会社であったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月1日](../Page/3月1日.md "wikilink")付で親会社であるDCM Japanホールディングス（現：[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")）に吸収合併された。

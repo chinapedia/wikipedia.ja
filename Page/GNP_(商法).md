@@ -1,4 +1,4 @@
-> この記事は[GNP \(\)](https://ja.wikipedia.org/wiki/GNP_\(\))から翻訳されています。
+> この記事は[GNP \(商法\)](https://ja.wikipedia.org/wiki/GNP_\(商法\))から翻訳されています。
 
 
 **GNP**（ジーエヌピー）とは、「[義理](../Page/義理.md "wikilink")（G）」、「[人情](https://ja.wikipedia.org/wiki/人情 "wikilink")（N）」、「[プレゼント](../Page/贈り物.md "wikilink")（P）」の3要素のこと。転じてこの3要素によって[商品](../Page/商品.md "wikilink")を[販売](../Page/販売.md "wikilink")したり[サービス](../Page/サービス.md "wikilink")を提供したりすること、またはその3要素を主とした[営業](../Page/営業.md "wikilink")手段および[商売](https://ja.wikipedia.org/wiki/商売 "wikilink")方法のことをさす。このような営業手段は**GNP営業**、**GNP商法**、**GNPセールス**とも言う。もちろん本来のGNPの意味である「国民総生産（Gross National Products）」とは無関係。

@@ -1,4 +1,4 @@
-> この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
+> この記事は[いすゞ・iシリーズ](https://ja.wikipedia.org/wiki/いすゞ・iシリーズ)から翻訳されています。
 
 
 **iシリーズ**（*i-Series*）は、かつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[アメリカで販売していた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")で、i-280(後のi-290)、i-350(後のi-370)がこれに該当する。

@@ -1,4 +1,4 @@
-> この記事は[YBC6](https://ja.wikipedia.org/wiki/YBC6)から翻訳されています。
+> この記事は[YBC6時です](https://ja.wikipedia.org/wiki/YBC6時です)から翻訳されています。
 
 
 『**YBC6時です**』（ワイビーシーろくじです、略称：**Y6**（ワイろく））は、[1976年](../Page/1976年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")（YBCテレビ）で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。

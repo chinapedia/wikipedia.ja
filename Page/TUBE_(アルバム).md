@@ -1,4 +1,4 @@
-> この記事は[TUBE \(\)](https://ja.wikipedia.org/wiki/TUBE_\(\))から翻訳されています。
+> この記事は[TUBE \(アルバム\)](https://ja.wikipedia.org/wiki/TUBE_\(アルバム\))から翻訳されています。
 
 
 『**TUBE**』（チューブ）は、[TUBE](../Page/TUBE.md "wikilink")の通算25作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオアルバム "wikilink")。

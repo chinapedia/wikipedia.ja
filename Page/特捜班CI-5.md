@@ -1,4 +1,4 @@
-> この記事は[CI-5](https://ja.wikipedia.org/wiki/CI-5)から翻訳されています。
+> この記事は[特捜班CI-5](https://ja.wikipedia.org/wiki/特捜班CI-5)から翻訳されています。
 
 
 **特捜班CI-5（*The Professsionals*)**は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の刑事アクション[テレビドラマ](../Page/テレビドラマ.md "wikilink")。本国では民放最大手局、[ITVの系列局](../Page/ITV_\(イギリス\).md "wikilink")、ロンドン・ウィークエンド・テレヴィジョン(LWT)が制作した。

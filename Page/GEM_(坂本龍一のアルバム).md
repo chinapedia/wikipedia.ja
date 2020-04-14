@@ -1,4 +1,4 @@
-> この記事は[GEM \(\)](https://ja.wikipedia.org/wiki/GEM_\(\))から翻訳されています。
+> この記事は[GEM \(坂本龍一のアルバム\)](https://ja.wikipedia.org/wiki/GEM_\(坂本龍一のアルバム\))から翻訳されています。
 
 
 『**GEM**』（**ジェム**）は[坂本龍一](../Page/坂本龍一.md "wikilink")が直接選曲した非売品のお宝CD。

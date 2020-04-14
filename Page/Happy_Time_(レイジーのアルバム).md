@@ -1,4 +1,4 @@
-> この記事は[Happy Time \(\)](https://ja.wikipedia.org/wiki/Happy_Time_\(\))から翻訳されています。
+> この記事は[Happy Time \(レイジーのアルバム\)](https://ja.wikipedia.org/wiki/Happy_Time_\(レイジーのアルバム\))から翻訳されています。
 
 
 『**Happy Time**』（ハッピー・タイム）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[レイジー](../Page/レイジー.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。

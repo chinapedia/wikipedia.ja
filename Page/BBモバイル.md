@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BBモバイル](https://ja.wikipedia.org/wiki/BBモバイル)から翻訳されています。
 
 
 **BBモバイル株式会社**（ビービーモバイル）は、かつて存在した[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")傘下の[電気通信事業者](../Page/電気通信事業者.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Good!](https://ja.wikipedia.org/wiki/Good!)から翻訳されています。
+> この記事は[おおきにGoodチョイス!](https://ja.wikipedia.org/wiki/おおきにGoodチョイス!)から翻訳されています。
 
 
 **おおきにGoodチョイス！**（おおきにグッドチョイス）は、[ABCテレビ（朝日放送）と](../Page/朝日放送テレビ.md "wikilink")[デジタルダイレクト](https://ja.wikipedia.org/wiki/デジタルダイレクト "wikilink")のスポンサーにより週2回深夜に放送された[通信販売](../Page/通信販売.md "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")。番組は30分間内で商品2本立て放送。[2009年](../Page/2009年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")番組終了。

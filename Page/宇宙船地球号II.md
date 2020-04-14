@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[宇宙船地球号II](https://ja.wikipedia.org/wiki/宇宙船地球号II)から翻訳されています。
 
 
 『**宇宙船地球号II**』（うちゅうせんちきゅうごうツー）は、[レイジー](../Page/レイジー.md "wikilink")の8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

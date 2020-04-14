@@ -48,6 +48,6 @@
 
 ## 外部リンク
 
-  - [EVENING TRIPPER](http://blog.goo.ne.jp/80et)
+  - [EVENING TRIPPER](https://blog.goo.ne.jp/80et)
 
 [Category:エフエム岐阜の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム岐阜の帯番組 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

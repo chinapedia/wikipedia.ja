@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[チュートリアルのオールナイトニッポンR](https://ja.wikipedia.org/wiki/チュートリアルのオールナイトニッポンR)から翻訳されています。
 
 
 **チュートリアルのオールナイトニッポンR**（ - あーる）とは、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")』で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")）。

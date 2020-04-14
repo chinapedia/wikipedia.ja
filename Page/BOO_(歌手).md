@@ -1,4 +1,4 @@
-> この記事は[BOO \(\)](https://ja.wikipedia.org/wiki/BOO_\(\))から翻訳されています。
+> この記事は[BOO \(歌手\)](https://ja.wikipedia.org/wiki/BOO_\(歌手\))から翻訳されています。
 
 
 **BOO**（ブー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ソウル](../Page/ソウルミュージック.md "wikilink")・[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[KING OF DIGGIN' PRODUCTIONの一員](https://ja.wikipedia.org/wiki/MURO#KING_OF_DIGGIN'_PRODUCTION "wikilink")。[MURO](../Page/MURO.md "wikilink")によってその才能を見出され、2002年[cutting edgeよりソロメジャーデビュー](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。近年はダンスミュージックに傾倒している。

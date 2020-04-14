@@ -1,4 +1,4 @@
-> この記事は[Jam \(\)](https://ja.wikipedia.org/wiki/Jam_\(\))から翻訳されています。
+> この記事は[Jam \(アルバム\)](https://ja.wikipedia.org/wiki/Jam_\(アルバム\))から翻訳されています。
 
 
 **jam**（ジャム）は、米倉千尋の6thアルバムである。

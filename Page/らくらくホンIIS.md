@@ -1,4 +1,4 @@
-> この記事は[IIS](https://ja.wikipedia.org/wiki/IIS)から翻訳されています。
+> この記事は[らくらくホンIIS](https://ja.wikipedia.org/wiki/らくらくホンIIS)から翻訳されています。
 
 
 **らくらくホン IIS**（らくらくホン・ツー・エス）は、[富士通](../Page/富士通.md "wikilink")製の[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([mova](https://ja.wikipedia.org/wiki/mova "wikilink")) 端末、**mova F671iS**（ムーバ・エフ ろく なな いち・アイ・エス）のブランド名である。

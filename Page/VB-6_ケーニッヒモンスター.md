@@ -1,4 +1,4 @@
-> この記事は[VB-6 ](https://ja.wikipedia.org/wiki/VB-6_)から翻訳されています。
+> この記事は[VB-6 ケーニッヒモンスター](https://ja.wikipedia.org/wiki/VB-6_ケーニッヒモンスター)から翻訳されています。
 
 
 **VB-6 ケーニッヒモンスター**（ブイビーシックス ケーニッヒモンスター、*König Monster*）は、「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」に登場する架空の兵器。ファイター（航空機）、バトロイド（人型ロボット）、[ガウォーク](../Page/ガウォーク.md "wikilink")（中間形態）への三段変形機構を持つ[可変戦闘機](../Page/可変戦闘機_\(マクロスシリーズ\).md "wikilink")（ヴァリアブル・ファイター=VF）の[爆撃機](../Page/爆撃機.md "wikilink")仕様、可変爆撃機（ヴァリアブル・ボマー=VB）に分類される機体。初出は、1999年発売の[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[マクロス VF-X2](../Page/マクロス_VF-X2.md "wikilink")』。

@@ -1,4 +1,4 @@
-> この記事は[X- \(\)](https://ja.wikipedia.org/wiki/X-_\(\))から翻訳されています。
+> この記事は[X-メン \(映画\)](https://ja.wikipedia.org/wiki/X-メン_\(映画\))から翻訳されています。
 
 
 『**X-メン**』（エックスメン、原題: *X-Men*）は、[2000年の](../Page/2000年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。
@@ -161,7 +161,7 @@
 <tr class="even">
 <td><p>演出</p></td>
 <td></td>
-<td><p><a href="../Page/岩浪美和.md" title="wikilink">岩浪美和</a></p></td>
+<td><p><a href="../Page/岩浪美和.md" title="wikilink">岩浪美和</a>[1]</p></td>
 </tr>
 <tr class="odd">
 <td><p>翻訳</p></td>
@@ -192,7 +192,7 @@
 </table>
 
   - 本作の映像ソフト版の吹き替えではウルヴァリン、マグニートー、ストームの声優が続編『X-MEN2』以降とは異なっている。また、テレビ朝日版でマグニートーの声を担当した家弓家正は、続編の劇場公開版を担当していた[有川博](../Page/有川博.md "wikilink")の没後に役を引き継ぐ形で、『[ウルヴァリン: SAMURAI](https://ja.wikipedia.org/wiki/ウルヴァリン:_SAMURAI "wikilink")』と『[X-MEN: フューチャー&パスト](https://ja.wikipedia.org/wiki/X-MEN:_フューチャー&パスト "wikilink")』の劇場公開版に出演した。
-  - 20世紀フォックス ホーム エンターテイメント ジャパンより、上記の全2種類の吹替版を収録した4K ULTRA HD Blu-ray＋ Blu-ray Discが2019年5月24日に発売された。\[1\]
+  - 20世紀フォックス ホーム エンターテイメント ジャパンより、上記の全2種類の吹替版を収録した4K ULTRA HD Blu-ray＋Blu-ray Discが2019年5月24日に発売された。\[2\]
 
 ## スタッフ
 
@@ -225,4 +225,5 @@
   -
 [Category:X-メンの映画作品](https://ja.wikipedia.org/wiki/Category:X-メンの映画作品 "wikilink") [Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:ニューヨーク市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:ミシシッピ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ミシシッピ州を舞台とした映画作品 "wikilink") [Category:ウルヴァリンの映画作品](https://ja.wikipedia.org/wiki/Category:ウルヴァリンの映画作品 "wikilink") [Category:トロントで製作された映画作品](https://ja.wikipedia.org/wiki/Category:トロントで製作された映画作品 "wikilink") [Category:ブライアン・シンガーの監督映画](https://ja.wikipedia.org/wiki/Category:ブライアン・シンガーの監督映画 "wikilink") [Category:20世紀フォックスの作品](https://ja.wikipedia.org/wiki/Category:20世紀フォックスの作品 "wikilink") [Category:サターン賞受賞作品](https://ja.wikipedia.org/wiki/Category:サターン賞受賞作品 "wikilink") [Category:マイケル・ケイメンの作曲映画](https://ja.wikipedia.org/wiki/Category:マイケル・ケイメンの作曲映画 "wikilink")
 
-1.  ただし2種類収録されているのは4K ULTRA HD Blu-rayのみである
+1.  なお、岩浪は[ポリグラム](../Page/ポリグラム.md "wikilink")株式会社（現・[ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から全14巻としてビデオで発売された日本語吹き替え版での『[X-MEN](https://ja.wikipedia.org/wiki/X-メン#X-MEN "wikilink")』でも吹替演出として参加している。
+2.  ただし、2種類収録されているのは4K ULTRA HD Blu-rayのみである。

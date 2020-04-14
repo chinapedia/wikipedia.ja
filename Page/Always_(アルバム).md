@@ -1,4 +1,4 @@
-> この記事は[Always \(\)](https://ja.wikipedia.org/wiki/Always_\(\))から翻訳されています。
+> この記事は[Always \(アルバム\)](https://ja.wikipedia.org/wiki/Always_\(アルバム\))から翻訳されています。
 
 
 『**always**』（オールウェイズ）は、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")の3枚目のアルバムである。「To your heart」で、初の作曲を手がけ、次作以降は自作詞・作曲が徐々に増えるようになる。

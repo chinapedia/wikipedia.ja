@@ -1,4 +1,4 @@
-> この記事は[One Night \(\)](https://ja.wikipedia.org/wiki/One_Night_\(\))から翻訳されています。
+> この記事は[One Night \(アルバム\)](https://ja.wikipedia.org/wiki/One_Night_\(アルバム\))から翻訳されています。
 
 
 『**One Night**』（ワン・ナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[織田哲郎](../Page/織田哲郎.md "wikilink")のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[Shion](https://ja.wikipedia.org/wiki/Shion)から翻訳されています。
+> この記事は[Shion〜愛の祈り〜](https://ja.wikipedia.org/wiki/Shion〜愛の祈り〜)から翻訳されています。
 
 
 バウ・リサイタル『**Shion・愛の祈り**』（しおん あいのいのり）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[星組](../Page/星組_\(宝塚歌劇\).md "wikilink")で[1994年](../Page/1994年.md "wikilink")10月15日から10月28日に[宝塚バウホール](../Page/宝塚バウホール.md "wikilink")において、同年11月3日から11月10日に東京・[日本青年館](../Page/日本青年館.md "wikilink")において上演された。2幕。

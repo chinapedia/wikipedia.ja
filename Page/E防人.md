@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[E防人](https://ja.wikipedia.org/wiki/E防人)から翻訳されています。
 
 
 **e防人**（イーさきもり、e-sakimori :For **E**merging infection, **S**afety **A**nd **K**eep **I**n touch with **M**edical **O**rganizations, **RI**sk management）は[新型インフルエンザ](https://ja.wikipedia.org/wiki/新型インフルエンザ "wikilink")や[SARS](https://ja.wikipedia.org/wiki/SARS "wikilink")などを含むエマージング感染症（[新興感染症](../Page/新興感染症.md "wikilink")、新型感染症）の危機に対処することを目的としたWebサイト、および研究主題。文部科学省平成17年（[2005年](../Page/2005年.md "wikilink")-[2006年](../Page/2006年.md "wikilink")）度科学研究費補助金（[医療社会学](https://ja.wikipedia.org/wiki/医療社会学 "wikilink")・萌芽研究）を受けた研究である\[1\]。

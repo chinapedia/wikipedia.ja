@@ -1,4 +1,4 @@
-> この記事は[XO](https://ja.wikipedia.org/wiki/XO)から翻訳されています。
+> この記事は[XO型](https://ja.wikipedia.org/wiki/XO型)から翻訳されています。
 
 
 **XO型**性決定システムとは、[バッタ](../Page/バッタ.md "wikilink")、[コオロギ](../Page/コオロギ.md "wikilink")、[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")、その他の[昆虫類](https://ja.wikipedia.org/wiki/昆虫類 "wikilink")が[性別を決定するために使用するシステムである](https://ja.wikipedia.org/wiki/性決定 "wikilink")。このシステムでは、Xと呼ばれる一種類の[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")のみが存在する。オスはX染色体を一つだけ持ち(XO)、メスはX染色体を2つ持つ(XX)。ここでゼロまたはOはX染色体が1つだけであることを表している。メスの[配偶子](../Page/配偶子.md "wikilink")は常にX染色体を含む。したがって、子供の性別はオスによって定まる。[精子](../Page/精子.md "wikilink")は通常X染色体を一つだけ含むか、まったく含まないかのいずれかである。

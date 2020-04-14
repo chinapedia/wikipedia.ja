@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[飯田れな \(AV女優\)](https://ja.wikipedia.org/wiki/飯田れな_\(AV女優\))から翻訳されています。
 
 
 **飯田 れな**（いいだ れな）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。

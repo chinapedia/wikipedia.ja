@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[らくらくホンIII](https://ja.wikipedia.org/wiki/らくらくホンIII)から翻訳されています。
 
 
 **らくらくホン III**（らくらくホン・スリー）は、[富士通](../Page/富士通.md "wikilink")製の[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([mova](https://ja.wikipedia.org/wiki/mova "wikilink")) 端末、**mova F672i**（ムーバ・エフ ろく なな に・アイ）のブランド名。

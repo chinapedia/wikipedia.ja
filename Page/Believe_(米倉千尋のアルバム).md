@@ -1,4 +1,4 @@
-> この記事は[Believe \(\)](https://ja.wikipedia.org/wiki/Believe_\(\))から翻訳されています。
+> この記事は[Believe \(米倉千尋のアルバム\)](https://ja.wikipedia.org/wiki/Believe_\(米倉千尋のアルバム\))から翻訳されています。
 
 
 『**Believe**』（ビリーブ）は、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")の[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。

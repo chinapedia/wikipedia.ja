@@ -1,4 +1,4 @@
-> この記事は[HBX](https://ja.wikipedia.org/wiki/HBX)から翻訳されています。
+> この記事は[HBX爆薬](https://ja.wikipedia.org/wiki/HBX爆薬)から翻訳されています。
 
 
 **HBX爆薬**（HBXばくやく、High Blasting Explosive)とは[TNT](../Page/トリニトロトルエン.md "wikilink")、[ワックス](https://ja.wikipedia.org/wiki/ワックス "wikilink")、[アルミニウム](../Page/アルミニウム.md "wikilink")粉、[塩化カルシウム](../Page/塩化カルシウム.md "wikilink")などからなる[混合爆薬](https://ja.wikipedia.org/wiki/混合爆薬 "wikilink")である。現在では[PBX爆薬](../Page/PBX爆薬.md "wikilink")に置き換えられている。

@@ -1,4 +1,4 @@
-> この記事は[Native \(\)](https://ja.wikipedia.org/wiki/Native_\(\))から翻訳されています。
+> この記事は[Native \(曲\)](https://ja.wikipedia.org/wiki/Native_\(曲\))から翻訳されています。
 
 
 「**Native**」（ネイティブ）は日本の音楽グループ、[ZOOの](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")3rdシングル。[1991年](../Page/1991年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")（曲の製作は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）に[フォーライフよりリリースされた](../Page/フォーライフ・レコード.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TANTO!](https://ja.wikipedia.org/wiki/TANTO!)から翻訳されています。
+> この記事は[TANTOクラシック!](https://ja.wikipedia.org/wiki/TANTOクラシック!)から翻訳されています。
 
 
 『**TANTOクラシック\!**』（タントクラシック）は、[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")・[BS日テレにて放送されていた](../Page/BS日本.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。放送期間は[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")まで。

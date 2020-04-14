@@ -1,4 +1,4 @@
-> この記事は[SPRINGstart on a journey](https://ja.wikipedia.org/wiki/SPRINGstart_on_a_journey)から翻訳されています。
+> この記事は[SPRING〜start on a journey〜](https://ja.wikipedia.org/wiki/SPRING〜start_on_a_journey〜)から翻訳されています。
 
 
 『**SPRING〜start on a journey〜**』（スプリング スタート・オン・ア・ジャーニー）は、米倉千尋の7枚目のアルバムである。

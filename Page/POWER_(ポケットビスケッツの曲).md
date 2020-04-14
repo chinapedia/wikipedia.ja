@@ -1,4 +1,4 @@
-> この記事は[POWER \(\)](https://ja.wikipedia.org/wiki/POWER_\(\))から翻訳されています。
+> この記事は[POWER \(ポケットビスケッツの曲\)](https://ja.wikipedia.org/wiki/POWER_\(ポケットビスケッツの曲\))から翻訳されています。
 
 
 「**POWER**」（パワー）は、[ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")にリリースされた。

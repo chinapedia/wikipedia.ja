@@ -1,4 +1,4 @@
-> この記事は[PSP+PS3](https://ja.wikipedia.org/wiki/PSP+PS3)から翻訳されています。
+> この記事は[ファミ通PSP+PS3](https://ja.wikipedia.org/wiki/ファミ通PSP+PS3)から翻訳されています。
 
 
 『**ファミ通PSP+PS3**』（ファミつう プレイステーションポータブル プラス プレイステーションスリー、英字・題字：**Famitsu PSP+PS3**）は、[1996年](../Page/1996年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にかけて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で発行された[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")（プレイステーション）系統のゲーム機・ソフトを専門に扱っていた。当初は[アスキーから発行していたが](../Page/アスキー_\(企業\).md "wikilink")、後に[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")（現・[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）を経て[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループホールディングス#角川グループパブリッシング "wikilink")（現・KADOKAWA）へ移行した。

@@ -1,4 +1,4 @@
-> この記事は[Cheers \(\)](https://ja.wikipedia.org/wiki/Cheers_\(\))から翻訳されています。
+> この記事は[Cheers \(米倉千尋のアルバム\)](https://ja.wikipedia.org/wiki/Cheers_\(米倉千尋のアルバム\))から翻訳されています。
 
 
 『**Cheers**』（チアーズ）は、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")の9枚目のアルバムである。デビュー10周年を記念して作られた。同時発売となった[シングル](../Page/シングル.md "wikilink")『[僕のスピードで](https://ja.wikipedia.org/wiki/僕のスピードで "wikilink")』は、[隠しトラック](../Page/隠しトラック.md "wikilink")のアルバムバージョンとして、収録されている（これはデモ盤と、一緒である）。初回盤のみボックス仕様&『僕のスピードで』との連動特典専用応募[ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")を封入している。

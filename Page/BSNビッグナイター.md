@@ -1,4 +1,4 @@
-> この記事は[BSN](https://ja.wikipedia.org/wiki/BSN)から翻訳されています。
+> この記事は[BSNビッグナイター](https://ja.wikipedia.org/wiki/BSNビッグナイター)から翻訳されています。
 
 
 **BSNビッグナイター**（ビーエスエヌビッグナイター）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")を本社を置く[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSNラジオ）にて、ナイターシーズン中に放送される[プロ野球中継](../Page/プロ野球中継.md "wikilink")専門の番組である。
@@ -37,7 +37,7 @@
 
 ## 脚注
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:新潟放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:新潟放送のラジオ番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:新潟放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:新潟放送のラジオ番組 "wikilink")
 
 1.  解説：[青島健太](../Page/青島健太.md "wikilink")（新潟県出身）、実況：[熊崎風斗](https://ja.wikipedia.org/wiki/熊崎風斗 "wikilink")（この前日に『アフター6ジャンクション』に出演していた[TBSテレビ](../Page/TBSテレビ.md "wikilink")アナウンサー）。制作局のTBSラジオほか『アフター6ジャンクション』ネット局は通常編成だったため、BSNのみに[裏送り](../Page/裏送り.md "wikilink")対応。
 2.  JRN（TBSラジオ）ネットの時はヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

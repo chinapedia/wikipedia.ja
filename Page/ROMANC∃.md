@@ -1,4 +1,4 @@
-> この記事は[ROMANC](https://ja.wikipedia.org/wiki/ROMANC)から翻訳されています。
+> この記事は[ROMANC∃](https://ja.wikipedia.org/wiki/ROMANC∃)から翻訳されています。
 
 
 「**ROMANC∃**」（ロマンス）は、[Janne Da Arcが](../Page/Janne_Da_Arc.md "wikilink")[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売した通算20枚目となるシングル。

@@ -1,4 +1,4 @@
-> この記事は[Believe \(THE ALFEE\)](https://ja.wikipedia.org/wiki/Believe_\(THE_ALFEE\))から翻訳されています。
+> この記事は[Believe \(THE ALFEEの曲\)](https://ja.wikipedia.org/wiki/Believe_\(THE_ALFEEの曲\))から翻訳されています。
 
 
 「**Believe**」\[1\]（ビリーヴ）は、[1993年](../Page/1993年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に発売された、[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")36枚目の[シングル](../Page/シングル.md "wikilink")。

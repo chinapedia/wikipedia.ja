@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ジェラード・K・オニール](https://ja.wikipedia.org/wiki/ジェラード・K・オニール)から翻訳されています。
 
 
 **ジェラード・キッチェン・オニール**（[英](../Page/英語.md "wikilink"): Gerard Kitchen O'Neill、[1927年](../Page/1927年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - [1992年](../Page/1992年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")であり、[宇宙開発](https://ja.wikipedia.org/wiki/宇宙開発 "wikilink")に関する先駆者である。

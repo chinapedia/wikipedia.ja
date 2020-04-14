@@ -220,13 +220,13 @@
 
 ## ミュージックビデオ
 
-|                                                       |                                                                           |
-| ----------------------------------------------------- | ------------------------------------------------------------------------- |
-| **監督**                                                | **曲名**                                                                    |
-| [仲道哲二](https://ja.wikipedia.org/wiki/仲道哲二 "wikilink") | 「リトルダンサー」                                                                 |
-| [モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink") | 「Evening Star」「Gradation Sky」                                             |
-| 不明                                                    | 「[pedal](http://www.indiesmusic.com/musicvideo/video.asp?id=10063)」「赤と情景」 |
-|                                                       |                                                                           |
+|                                                       |                                                                            |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- |
+| **監督**                                                | **曲名**                                                                     |
+| [仲道哲二](https://ja.wikipedia.org/wiki/仲道哲二 "wikilink") | 「リトルダンサー」                                                                  |
+| [モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink") | 「Evening Star」「Gradation Sky」                                              |
+| 不明                                                    | 「[pedal](https://www.indiesmusic.com/musicvideo/video.asp?id=10063)」「赤と情景」 |
+|                                                       |                                                                            |
 
 ## 出演
 

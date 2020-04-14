@@ -1,4 +1,4 @@
-> この記事は[M\'](https://ja.wikipedia.org/wiki/M\')から翻訳されています。
+> この記事は[M\'シンドローム](https://ja.wikipedia.org/wiki/M\'シンドローム)から翻訳されています。
 
 
 『**M'シンドローム**』（エムダッシュシンドローム）は、[本田美奈子のアルバム](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。

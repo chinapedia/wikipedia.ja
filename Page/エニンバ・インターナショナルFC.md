@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[エニンバ・インターナショナルFC](https://ja.wikipedia.org/wiki/エニンバ・インターナショナルFC)から翻訳されています。
 
 
 **エニンバ・インターナショナルFC**（）は、[ナイジェリア](../Page/ナイジェリア.md "wikilink")南部の都市[アバに本拠を置く](https://ja.wikipedia.org/wiki/アバ_\(ナイジェリア\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ユニフォームはホームでは青、アウェイでは白である。

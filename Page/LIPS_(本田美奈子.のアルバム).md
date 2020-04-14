@@ -1,4 +1,4 @@
-> この記事は[LIPS \(.\)](https://ja.wikipedia.org/wiki/LIPS_\(.\))から翻訳されています。
+> この記事は[LIPS \(本田美奈子.のアルバム\)](https://ja.wikipedia.org/wiki/LIPS_\(本田美奈子.のアルバム\))から翻訳されています。
 
 
 『**LIPS**』（リップス）は、[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[Native \(\)](https://ja.wikipedia.org/wiki/Native_\(\))から翻訳されています。
+> この記事は[Native \(バンド\)](https://ja.wikipedia.org/wiki/Native_\(バンド\))から翻訳されています。
 
 
 **native**（ネイティブ）は、日本の[ジャズ](../Page/ジャズ.md "wikilink")カルテット。1999年結成。「native」というバンド名は、「生まれ持つ固有なもの」を意味していて、メンバーの持つオリジナルな魅力を形にすることを目標にしたバンド名である。

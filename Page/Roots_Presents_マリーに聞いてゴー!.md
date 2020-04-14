@@ -1,4 +1,4 @@
-> この記事は[Roots Presents !](https://ja.wikipedia.org/wiki/Roots_Presents_!)から翻訳されています。
+> この記事は[Roots Presents マリーに聞いてゴー!](https://ja.wikipedia.org/wiki/Roots_Presents_マリーに聞いてゴー!)から翻訳されています。
 
 
 **Roots Presents マリーに聞いてゴー\!**（ルーツ・プレセンツ・マリーにきいてゴー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに全国](https://ja.wikipedia.org/wiki/キー局 "wikilink")35局ネットで放送されていたラジオ番組。[2007年](../Page/2007年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた。前番組の『[Roots TODAY'S INSPIRATION](../Page/Roots_TODAY'S_INSPIRATION.md "wikilink")』に続き、缶コーヒー「[Roots](https://ja.wikipedia.org/wiki/Roots "wikilink")」の[JT一社提供](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")。

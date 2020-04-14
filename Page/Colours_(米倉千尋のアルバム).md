@@ -1,4 +1,4 @@
-> この記事は[Colours \(\)](https://ja.wikipedia.org/wiki/Colours_\(\))から翻訳されています。
+> この記事は[Colours \(米倉千尋のアルバム\)](https://ja.wikipedia.org/wiki/Colours_\(米倉千尋のアルバム\))から翻訳されています。
 
 
 **Colours**（カラーズ）は、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")の4枚目のアルバムである。

@@ -1,4 +1,4 @@
-> この記事は[OH!](https://ja.wikipedia.org/wiki/OH!)から翻訳されています。
+> この記事は[OH!エルくらぶ](https://ja.wikipedia.org/wiki/OH!エルくらぶ)から翻訳されています。
 
 
 『**OH\!エルくらぶ**』（オー エルくらぶ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink") の午前に放送された[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

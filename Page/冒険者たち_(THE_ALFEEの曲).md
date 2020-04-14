@@ -1,4 +1,4 @@
-> この記事は[ \(THE ALFEE\)](https://ja.wikipedia.org/wiki/_\(THE_ALFEE\))から翻訳されています。
+> この記事は[冒険者たち \(THE ALFEEの曲\)](https://ja.wikipedia.org/wiki/冒険者たち_\(THE_ALFEEの曲\))から翻訳されています。
 
 
 「**冒険者たち**」（ぼうけんしゃたち）は、[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")41枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[Zeitから発売された](../Page/ポニーキャニオン.md "wikilink")。

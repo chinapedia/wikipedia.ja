@@ -1,4 +1,4 @@
-> この記事は[BOMBER GIRL \(\)](https://ja.wikipedia.org/wiki/BOMBER_GIRL_\(\))から翻訳されています。
+> この記事は[BOMBER GIRL \(漫画\)](https://ja.wikipedia.org/wiki/BOMBER_GIRL_\(漫画\))から翻訳されています。
 
 
 『**BOMBER GIRL**』（ボンバーガール）は[にわのまこと](../Page/にわのまこと.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

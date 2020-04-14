@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCクッキングスタジオ](https://ja.wikipedia.org/wiki/ABCクッキングスタジオ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Akarenga_20160425.jpg "wikilink") **ABCクッキングスタジオ**（英称:*ABC Cooking Studio*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く株式会社および同社が展開する[料理](../Page/料理.md "wikilink")教室の名称である。ABCの略称を持つ[朝日放送グループおよび](../Page/朝日放送グループホールディングス.md "wikilink")[朝日新聞社](../Page/朝日新聞社.md "wikilink")、ならびに靴販売の[ABCマート](../Page/ABCマート.md "wikilink")とは資本・人的関連はない。
@@ -7,7 +7,7 @@
 
 日本、中国、香港、台湾、韓国、シンガポール、タイ、マレーシア、インドネシアの9か国・地域に「ABCクッキングスタジオ」を163スタジオ展開している。
 
-日本では、北は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")から南は[沖縄まで](../Page/鹿児島市.md "wikilink")、各地に教室（スタジオ）を展開する。[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")の中に、テナントとして入る事例が目立つ。
+日本では、北は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")から南は[沖縄まで](../Page/沖縄県.md "wikilink")、各地に教室（スタジオ）を展開する。[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")の中に、テナントとして入る事例が目立つ\[1\]。
 
 教室をスタジオと呼び、仕切りのないガラス張りのオープンスタジオとなっており、外から教室内を見ることができる。
 
@@ -91,3 +91,5 @@ ABCクッキングスタジオの親会社『ABC HOLDINGS』の株式を2014年1
   - [ABC Cooking Studio Indonesia（インドネシア）](https://www.abc-cooking.co.id/)
 
 [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:静岡県発祥の企業](https://ja.wikipedia.org/wiki/Category:静岡県発祥の企業 "wikilink") [Category:日本の料理教室](https://ja.wikipedia.org/wiki/Category:日本の料理教室 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink")
+
+1.  一部店舗は[日本ガス協会](../Page/日本ガス協会.md "wikilink")加盟で尚且つ地方自治体の都市ガス関連部署やガス会社とのコラボレーションでガスコンロを設置しているため、ガスコンロにおけるアフターサービスや販売促進の一環として運営している。

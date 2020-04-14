@@ -1,4 +1,4 @@
-> この記事は[RKB ](https://ja.wikipedia.org/wiki/RKB_)から翻訳されています。
+> この記事は[RKBラジオ ホリデースペシャル](https://ja.wikipedia.org/wiki/RKBラジオ_ホリデースペシャル)から翻訳されています。
 
 
 **RKBラジオ ホリデースペシャル**は、[1989年](../Page/1989年.md "wikilink")から[RKBラジオ](../Page/RKBラジオ.md "wikilink")で[祝日](../Page/祝日.md "wikilink")、[年末年始](../Page/年末年始.md "wikilink")に放送している[特別番組](../Page/特別番組.md "wikilink")である。

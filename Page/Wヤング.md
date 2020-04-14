@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wヤング](https://ja.wikipedia.org/wiki/Wヤング)から翻訳されています。
 
 
 **Wヤング**（ダブルヤング）は、かつて存在した[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属の[漫才](../Page/漫才.md "wikilink")コンビである。愛称は**ダブヤン**。コンビは第1次Wヤング（平川・中田のコンビ）と第2次Wヤング（平川・佐藤のコンビ）の2期間存在する。

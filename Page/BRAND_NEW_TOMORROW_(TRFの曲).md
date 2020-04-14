@@ -1,4 +1,4 @@
-> この記事は[BRAND NEW TOMORROW \(TRF\)](https://ja.wikipedia.org/wiki/BRAND_NEW_TOMORROW_\(TRF\))から翻訳されています。
+> この記事は[BRAND NEW TOMORROW \(TRFの曲\)](https://ja.wikipedia.org/wiki/BRAND_NEW_TOMORROW_\(TRFの曲\))から翻訳されています。
 
 
 「**BRAND NEW TOMORROW**」（ブランド・ニュー・トゥモロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンスグループ、[trfの](../Page/TRF.md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

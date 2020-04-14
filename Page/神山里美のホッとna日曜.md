@@ -1,4 +1,4 @@
-> この記事は[na](https://ja.wikipedia.org/wiki/na)から翻訳されています。
+> この記事は[神山里美のホッとna日曜](https://ja.wikipedia.org/wiki/神山里美のホッとna日曜)から翻訳されています。
 
 
 **神山里美のホッとna日曜**(こうやまさとみのほっとなにちよう)は、かつて[CBCラジオ](../Page/CBCラジオ.md "wikilink")で、日曜日の午前から午後にかけて放送されていたワイド番組である。(前番組は神山里美がMCをしていた[CBCサンデーミュージック](https://ja.wikipedia.org/wiki/CBCサンデーミュージック "wikilink")である。)

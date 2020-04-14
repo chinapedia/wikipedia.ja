@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・サガリス](https://ja.wikipedia.org/wiki/TVR・サガリス)から翻訳されています。
 
 
 **サガリス**（*Sagaris* ）とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカである[TVR](../Page/TVR.md "wikilink")が製造・販売していた[クーペ](../Page/クーペ.md "wikilink")。

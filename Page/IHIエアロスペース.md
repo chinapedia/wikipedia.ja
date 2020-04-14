@@ -1,4 +1,4 @@
-> この記事は[IHI](https://ja.wikipedia.org/wiki/IHI)から翻訳されています。
+> この記事は[IHIエアロスペース](https://ja.wikipedia.org/wiki/IHIエアロスペース)から翻訳されています。
 
 
 **株式会社IHIエアロスペース**（IHI AEROSPACE CO., LTD.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロケット](../Page/ロケット.md "wikilink")飛翔体の総合メーカー。[株式会社IHIの子会社である](../Page/IHI.md "wikilink")。

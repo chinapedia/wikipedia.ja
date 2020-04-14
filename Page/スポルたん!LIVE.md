@@ -1,4 +1,4 @@
-> この記事は[!LIVE](https://ja.wikipedia.org/wiki/!LIVE)から翻訳されています。
+> この記事は[スポルたん!LIVE](https://ja.wikipedia.org/wiki/スポルたん!LIVE)から翻訳されています。
 
 
 **スポルたん\!LIVE**（スポルたんライヴ）は、[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[2月10日](../Page/2月10日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")（平成31年）[3月30日](../Page/3月30日.md "wikilink")まで[仙台放送](../Page/仙台放送.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。同年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")まで同局で放送されていた「[速報スポルたん\!](../Page/速報スポルたん!.md "wikilink")」をリニューアルして放送開始した。

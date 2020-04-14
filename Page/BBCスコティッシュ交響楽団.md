@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCスコティッシュ交響楽団](https://ja.wikipedia.org/wiki/BBCスコティッシュ交響楽団)から翻訳されています。
 
 
 **BBCスコティッシュ交響楽団**（BBC Scottish Symphony Orchestra）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[スコットランド](../Page/スコットランド.md "wikilink")最大の都市[グラスゴー](../Page/グラスゴー.md "wikilink")を本拠地とする、[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）傘下の[オーケストラ](../Page/オーケストラ.md "wikilink")の1つである。

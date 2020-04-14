@@ -1,4 +1,4 @@
-> この記事は[Mana \(\)](https://ja.wikipedia.org/wiki/Mana_\(\))から翻訳されています。
+> この記事は[Mana \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Mana_\(ミュージシャン\))から翻訳されています。
 
 
 **Mana**（マナ）は、日本の[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンセシスト](../Page/シンセサイザー奏者.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。現在活動停止中の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[MALICE MIZER及び](../Page/MALICE_MIZER.md "wikilink")、現在自身が手がけるサウンド・プロジェクト[Moi dix Moisの](../Page/Moi_dix_Mois.md "wikilink")[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。愛称は「**Mana様**」。MALICE MIZERのメンバーからは「Manaちゃん」、Moi dix Moisのメンバーからは「ボス」と呼ばれる。
@@ -77,4 +77,4 @@
 
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のヘヴィメタル歌手](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル歌手 "wikilink") [Category:インダストリアル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:インダストリアル・ミュージシャン "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のヘヴィメタル・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ギタリスト "wikilink") [Category:MALICE_MIZERのメンバー](https://ja.wikipedia.org/wiki/Category:MALICE_MIZERのメンバー "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink")
 
-1.  <https://mobile.twitter.com/M_d_M_official/status/1222440716544036865>
+1.

@@ -1,4 +1,4 @@
-> この記事は[Karen \(\)](https://ja.wikipedia.org/wiki/Karen_\(\))から翻訳されています。
+> この記事は[Karen \(漫画\)](https://ja.wikipedia.org/wiki/Karen_\(漫画\))から翻訳されています。
 
 
 『**Karen**』（カレン）は、[塩崎雄二](../Page/塩崎雄二.md "wikilink")の漫画。『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")まで連載された。単行本はビジネスジャンプ・コミックス版全2巻（集英社）、カバー書き下ろしの特装版全2巻（[大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink")）がそれぞれ刊行されている。

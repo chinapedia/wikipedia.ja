@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BB戦士三国伝](https://ja.wikipedia.org/wiki/BB戦士三国伝)から翻訳されています。
 
 
 『**BB戦士三国伝**』（ビービーせんしさんごくでん）は、[SDガンダム](../Page/SDガンダム.md "wikilink")シリーズの一つ。

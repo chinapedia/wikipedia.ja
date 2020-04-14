@@ -1,4 +1,4 @@
-> この記事は[GIP \(\)](https://ja.wikipedia.org/wiki/GIP_\(\))から翻訳されています。
+> この記事は[GIP \(写真関連企業\)](https://ja.wikipedia.org/wiki/GIP_\(写真関連企業\))から翻訳されています。
 
 
 **GIP**（ジー・アイ・ピー）は、東京都渋谷区を拠点に[写真](../Page/写真.md "wikilink")関係の[著作権](../Page/著作権.md "wikilink")管理や写真展の企画を行う[企業](../Page/企業.md "wikilink")である。社名のGIPは、「Goro International Press」の略であるが、通常「G.I.P.」または「G.I.P. Tokyo」と記載・呼称される。

@@ -1,4 +1,4 @@
-> この記事は[Silhouette \(\)](https://ja.wikipedia.org/wiki/Silhouette_\(\))から翻訳されています。
+> この記事は[Silhouette \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Silhouette_\(松田聖子のアルバム\))から翻訳されています。
 
 
 『**Silhouette 〜シルエット〜**』は、[松田聖子](../Page/松田聖子.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた。

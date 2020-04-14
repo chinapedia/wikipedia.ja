@@ -1,4 +1,4 @@
-> この記事は[QIX 3](https://ja.wikipedia.org/wiki/QIX_3)から翻訳されています。
+> この記事は[女神転生QIX ペルソナ3](https://ja.wikipedia.org/wiki/女神転生QIX_ペルソナ3)から翻訳されています。
 
 
 『**女神転生QIX ペルソナ3**』（めがみてんせいクイックス ペルソナスリー）は、[女神転生](../Page/女神転生.md "wikilink")シリーズの『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』を題材にした『[QIX](../Page/QIX.md "wikilink")』である[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。『**ペルソナ3 QIX**』とも表記されているが、本稿ではタイトル画面の表記を採用している。

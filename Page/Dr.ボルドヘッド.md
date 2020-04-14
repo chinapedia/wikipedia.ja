@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.ボルドヘッド](https://ja.wikipedia.org/wiki/Dr.ボルドヘッド)から翻訳されています。
 
 
 **Dr.ボルドヘッド(Dr.Baldhead)**は、2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[GUILTY GEAR](../Page/GUILTY_GEAR.md "wikilink")』に登場する架空の人物。

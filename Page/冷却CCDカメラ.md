@@ -1,4 +1,4 @@
-> この記事は[CCD](https://ja.wikipedia.org/wiki/CCD)から翻訳されています。
+> この記事は[冷却CCDカメラ](https://ja.wikipedia.org/wiki/冷却CCDカメラ)から翻訳されています。
 
 
 **冷却CCDカメラ**（れいきゃくシーシーディーカメラ）は、[CCDイメージセンサ](../Page/CCDイメージセンサ.md "wikilink")を低温で動作させ、高感度・低ノイズの画像を得ることを目的にした[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")の一種である。

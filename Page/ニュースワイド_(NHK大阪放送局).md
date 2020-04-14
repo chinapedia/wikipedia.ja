@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[ニュースワイド \(NHK大阪放送局\)](https://ja.wikipedia.org/wiki/ニュースワイド_\(NHK大阪放送局\))から翻訳されています。
 
 
 「**ニュースワイド640**」と「**ニュースワイド630**」は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")で[1976年](../Page/1976年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで放送されていた、平日夕方のローカルニュース番組。

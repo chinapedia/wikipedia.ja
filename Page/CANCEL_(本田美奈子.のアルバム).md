@@ -1,4 +1,4 @@
-> この記事は[CANCEL \(.\)](https://ja.wikipedia.org/wiki/CANCEL_\(.\))から翻訳されています。
+> この記事は[CANCEL \(本田美奈子.のアルバム\)](https://ja.wikipedia.org/wiki/CANCEL_\(本田美奈子.のアルバム\))から翻訳されています。
 
 
 『**CANCEL**』（キャンセル）は、[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のアルバム。

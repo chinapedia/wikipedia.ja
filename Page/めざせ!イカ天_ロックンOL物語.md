@@ -1,4 +1,4 @@
-> この記事は[! OL](https://ja.wikipedia.org/wiki/!_OL)から翻訳されています。
+> この記事は[めざせ!イカ天 ロックンOL物語](https://ja.wikipedia.org/wiki/めざせ!イカ天_ロックンOL物語)から翻訳されています。
 
 
 『**めざせ\!イカ天 ロックンOL物語**』（めざせいかてん オーエルものがたり）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[TBSの](../Page/TBSテレビ.md "wikilink")[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")枠『[ドラマチック22](../Page/ドラマチック22.md "wikilink")』内で放送された単発の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
@@ -145,4 +145,4 @@
 
 本作は、後にTBSビデオ、クラリオンソフトからビデオ化されている。現状では入手困難な面もあるが、一部レンタルビデオ店では現在も置いている所がある。
 
-[Category:TBSのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:TBSのスペシャルドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:音楽を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:音楽を題材としたテレビドラマ "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink") [Category:テレビ放送を題材とした作品](https://ja.wikipedia.org/wiki/Category:テレビ放送を題材とした作品 "wikilink")
+[Category:TBSのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:TBSのスペシャルドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:ロックを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロックを題材としたテレビドラマ "wikilink") [Category:テレビ放送を題材とした作品](https://ja.wikipedia.org/wiki/Category:テレビ放送を題材とした作品 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ \(BLEACH\)](https://ja.wikipedia.org/wiki/_\(BLEACH\))から翻訳されています。
+> この記事は[コン \(BLEACH\)](https://ja.wikipedia.org/wiki/コン_\(BLEACH\))から翻訳されています。
 
 
 **コン**は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』に登場する架空のキャラクター。アニメ版の[声優](../Page/声優.md "wikilink")は[真殿光昭](../Page/真殿光昭.md "wikilink")（JF2004のアニメのみ、『BLEACH』原作者の[久保帯人](../Page/久保帯人.md "wikilink")）。

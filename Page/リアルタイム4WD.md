@@ -1,4 +1,4 @@
-> この記事は[4WD](https://ja.wikipedia.org/wiki/4WD)から翻訳されています。
+> この記事は[リアルタイム4WD](https://ja.wikipedia.org/wiki/リアルタイム4WD)から翻訳されています。
 
 
 **リアルタイムAWD**、または**リアルタイム4WD**は、[本田技研工業](../Page/本田技研工業.md "wikilink")(ホンダ)が開発した[スタンバイ式四輪駆動の名称である](https://ja.wikipedia.org/wiki/四輪駆動#スタンバイ式 "wikilink")。

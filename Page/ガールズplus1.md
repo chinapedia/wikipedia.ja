@@ -1,4 +1,4 @@
-> この記事は[plus1](https://ja.wikipedia.org/wiki/plus1)から翻訳されています。
+> この記事は[ガールズplus1](https://ja.wikipedia.org/wiki/ガールズplus1)から翻訳されています。
 
 
 『**ガールズplus1**』（-プラスワン）は、[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[9月30日](../Page/9月30日.md "wikilink")まで、[フジテレビ系で深夜に放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放送日時は月曜25時00分から25時30分。全24話。

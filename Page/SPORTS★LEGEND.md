@@ -1,4 +1,4 @@
-> この記事は[SPORTSLEGEND](https://ja.wikipedia.org/wiki/SPORTSLEGEND)から翻訳されています。
+> この記事は[SPORTS★LEGEND](https://ja.wikipedia.org/wiki/SPORTS★LEGEND)から翻訳されています。
 
 
 『**SPORTS★LEGEND**』（スポーツ・レジェンド）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")2006年から2007年にかけて不定期に放送されていた、[スポーツ](../Page/スポーツ.md "wikilink")を題材とした[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(PC\)](https://ja.wikipedia.org/wiki/_\(PC\))から翻訳されています。
+> この記事は[ボンバーマン \(PCエンジン\)](https://ja.wikipedia.org/wiki/ボンバーマン_\(PCエンジン\))から翻訳されています。
 
 
 『**ボンバーマン**』（*BOMBER MAN*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に日本の[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

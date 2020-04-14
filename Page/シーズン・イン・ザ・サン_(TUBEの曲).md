@@ -1,4 +1,4 @@
-> この記事は[ \(TUBE\)](https://ja.wikipedia.org/wiki/_\(TUBE\))から翻訳されています。
+> この記事は[シーズン・イン・ザ・サン \(TUBEの曲\)](https://ja.wikipedia.org/wiki/シーズン・イン・ザ・サン_\(TUBEの曲\))から翻訳されています。
 
 
 「**シーズン・イン・ザ・サン**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[TUBE](../Page/TUBE.md "wikilink")の通算3作目のシングル。商品コードは[EPが](../Page/レコード.md "wikilink")07SH1758、[CTが](../Page/コンパクトカセット.md "wikilink")10KH1863、[1989年](../Page/1989年.md "wikilink")にリリースされたCDシングルのコードは10EH3239。

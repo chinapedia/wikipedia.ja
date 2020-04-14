@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[K・エリック・ドレクスラー](https://ja.wikipedia.org/wiki/K・エリック・ドレクスラー)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Eric_Drexler_2007.jpg "wikilink") **キム・エリック・ドレクスラー**（**Kim Eric Drexler**、[1955年](../Page/1955年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の工学者であり、[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")にかけて[分子ナノテクノロジー](https://ja.wikipedia.org/wiki/分子ナノテクノロジー "wikilink")の可能性を知らしめたことでよく知られている。[1991年](../Page/1991年.md "wikilink")、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")で博士号（分子ナノテクノロジー）を取得した論文は、*"Nanosystems: Molecular Machinery, Manufacturing and Computation"*（[1992年](../Page/1992年.md "wikilink")）として出版され、Association of American Publishers award の Best Computer Science Book of 1992 を受賞した。[オークランド (カリフォルニア州)生まれ](../Page/オークランド_\(カリフォルニア州\).md "wikilink")。

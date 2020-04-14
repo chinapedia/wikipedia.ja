@@ -1,4 +1,4 @@
-> この記事は[MIL](https://ja.wikipedia.org/wiki/MIL)から翻訳されています。
+> この記事は[MIL規格](https://ja.wikipedia.org/wiki/MIL規格)から翻訳されています。
 
 
 **MIL規格** （ミルきかく、） とは、一般的に[アメリカ軍](../Page/アメリカ軍.md "wikilink")が必要とする様々な物資の調達に使われる[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")を総称した表現である。**ミルスペック**（MIL-SPEC、（非公式に）MilSpecs）\[1\]、MIL-STD、defense standardとも呼ばれる。

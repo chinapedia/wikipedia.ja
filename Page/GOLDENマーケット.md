@@ -1,4 +1,4 @@
-> この記事は[GOLDEN](https://ja.wikipedia.org/wiki/GOLDEN)から翻訳されています。
+> この記事は[GOLDENマーケット](https://ja.wikipedia.org/wiki/GOLDENマーケット)から翻訳されています。
 
 
 **GOLDENマーケット**（ゴールデンマーケット）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で行われる、[フリーマーケット](https://ja.wikipedia.org/wiki/フリーマーケット "wikilink")を主体としたイベント。「**ゴルマ**」の愛称でも知られる。

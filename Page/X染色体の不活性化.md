@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X染色体の不活性化](https://ja.wikipedia.org/wiki/X染色体の不活性化)から翻訳されています。
 
 
 **X染色体の不活性化**（エックスせんしょくたいのふかっせいか、英語:X-inactivation）とは[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")の[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")である[X染色体](../Page/X染色体.md "wikilink")が、1本を除いて、残りのX染色体で遺伝子発現が抑制される構造に変化することをいう。この現象は**ライオニゼーション**(lyonization)とも呼ばれ、不活性化された染色体を**[バー小体](https://ja.wikipedia.org/wiki/#Xiの構造 "wikilink")**（バーしょうたい、英語:Barr body）ともいう。 [thumbと](https://ja.wikipedia.org/wiki/ファイル:Tortie-flame.jpg "wikilink")[錆び猫](https://ja.wikipedia.org/wiki/錆び猫 "wikilink")のまだら模様はX染色体の不活性化の目に見える例である。毛色の「黒色」と「茶色」はX染色体上の[対立遺伝子](../Page/対立遺伝子.md "wikilink")によって決定される。2本のX染色体の片方が不活性化される。不活性化されなかった遺伝子が発現し、毛色は黒色もしくは茶色となる。体表の部分によって不活性化されるX染色体が異なる「[モザイク](https://ja.wikipedia.org/wiki/モザイク_\(遺伝学\) "wikilink")」状態になるので、黒色と茶色のまだら模様となる。\]\]

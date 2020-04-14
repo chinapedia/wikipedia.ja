@@ -1,4 +1,4 @@
-> この記事は[FOMAII](https://ja.wikipedia.org/wiki/FOMAII)から翻訳されています。
+> この記事は[FOMAらくらくホンII](https://ja.wikipedia.org/wiki/FOMAらくらくホンII)から翻訳されています。
 
 
 **FOMA らくらくホン II**（フォーマ・らくらくホン・ツー）は、[富士通](../Page/富士通.md "wikilink")が開発した、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink") ([FOMA](../Page/FOMA.md "wikilink")) 端末。[らくらくホン](../Page/らくらくホン.md "wikilink")シリーズの端末で、 **FOMA F881iES**（フォーマ・エフ はち はち いち・アイ・イー エス）のブランド名。型番末尾の *ES* は *Easy Style* の略である。

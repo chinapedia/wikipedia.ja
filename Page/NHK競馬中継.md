@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK競馬中継](https://ja.wikipedia.org/wiki/NHK競馬中継)から翻訳されています。
 
 
 **NHK競馬中継**（エヌエイチケイけいばちゅうけい）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で放送されている、[競馬](../Page/競馬.md "wikilink")中継のことである。なお番組タイトルには「競馬中継」とは表記されず、「NHK SPORTS」統一タイトル・競技マークと放送する競走の名称のみが表記されている。

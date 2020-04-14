@@ -1,4 +1,4 @@
-> この記事は[tert-](https://ja.wikipedia.org/wiki/tert-)から翻訳されています。
+> この記事は[エチルtert-ブチルエーテル](https://ja.wikipedia.org/wiki/エチルtert-ブチルエーテル)から翻訳されています。
 
 
 **エチル*tert*-ブチルエーテル**（ethyl *tert*-butyl ether、略称 **ETBE**）とは、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")と[イソブテン](../Page/イソブテン.md "wikilink")から合成される化学物質である。[消防法](../Page/消防法.md "wikilink")に定める第4類危険物 第1石油類に該当する\[1\]。

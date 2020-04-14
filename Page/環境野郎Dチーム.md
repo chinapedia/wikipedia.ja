@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[環境野郎Dチーム](https://ja.wikipedia.org/wiki/環境野郎Dチーム)から翻訳されています。
 
 
 『**環境野郎Dチーム**』（かんきょうやろうディーチーム）は、[2007年](../Page/2007年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[9月17日](../Page/9月17日.md "wikilink")まで[フジテレビ系列で毎週月曜深夜に放送されていた情報](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

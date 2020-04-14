@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[らくらくホンII](https://ja.wikipedia.org/wiki/らくらくホンII)から翻訳されています。
 
 
 **らくらくホン II**（らくらくホン・ツー）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第二世代携帯電話](https://ja.wikipedia.org/wiki/第二世代携帯電話 "wikilink") ([mova](https://ja.wikipedia.org/wiki/mova "wikilink")) 端末、 **mova F671i**（ムーバ・エフ ろく なな いち・アイ）のブランド名である。 [らくらくホン](../Page/らくらくホン.md "wikilink")シリーズ第二弾で、製造は松下通信工業（現[パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")）に代わって[富士通](../Page/富士通.md "wikilink")が手がける。

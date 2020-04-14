@@ -1,4 +1,4 @@
-> この記事は[FOMA](https://ja.wikipedia.org/wiki/FOMA)から翻訳されています。
+> この記事は[FOMAらくらくホン](https://ja.wikipedia.org/wiki/FOMAらくらくホン)から翻訳されています。
 
 
 **FOMA らくらくホン**（フォーマ・らくらくホン）は、[富士通](../Page/富士通.md "wikilink")が開発した、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink") ([FOMA](../Page/FOMA.md "wikilink")) 端末。[らくらくホン](../Page/らくらくホン.md "wikilink")シリーズの端末で、**FOMA F880iES**（フォーマ・エフ はち はち まる・アイ・イー エス）のブランド名。これまでmova端末として販売されてきたらくらくホンシリーズがFOMAへと移行。型番末尾の *ES* は *Easy Style* の略である。

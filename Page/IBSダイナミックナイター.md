@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBSダイナミックナイター](https://ja.wikipedia.org/wiki/IBSダイナミックナイター)から翻訳されています。
 
 
 **IBSダイナミックナイター**（アイビーエスダイナミックナイター）は、[茨城放送](../Page/茨城放送.md "wikilink")がナイターシーズン中に放送する[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組である。

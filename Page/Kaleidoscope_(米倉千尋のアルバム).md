@@ -1,4 +1,4 @@
-> この記事は[Kaleidoscope \(\)](https://ja.wikipedia.org/wiki/Kaleidoscope_\(\))から翻訳されています。
+> この記事は[Kaleidoscope \(米倉千尋のアルバム\)](https://ja.wikipedia.org/wiki/Kaleidoscope_\(米倉千尋のアルバム\))から翻訳されています。
 
 
 『**Kaleidoscope**』（カレイドスコープ）は、米倉千尋の11枚目のアルバムである。

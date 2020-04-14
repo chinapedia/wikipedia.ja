@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[カープっ娘TV](https://ja.wikipedia.org/wiki/カープっ娘TV)から翻訳されています。
 
 
 『**カープっ娘TV**』（カープっこティーヴィー）は、[1988年](../Page/1988年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された[ミニ番組](../Page/ミニ番組.md "wikilink")・[ローカル](../Page/ローカル番組.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")。

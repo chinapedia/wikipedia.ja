@@ -1,4 +1,4 @@
-> この記事は[FTP](https://ja.wikipedia.org/wiki/FTP)から翻訳されています。
+> この記事は[FTPサーバ](https://ja.wikipedia.org/wiki/FTPサーバ)から翻訳されています。
 
 
 **FTPサーバ**とは、[FTPを使用してファイルの送受信を行う](../Page/File_Transfer_Protocol.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")のことである。

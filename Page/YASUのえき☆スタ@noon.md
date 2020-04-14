@@ -1,4 +1,4 @@
-> この記事は[YASU@noon](https://ja.wikipedia.org/wiki/YASU@noon)から翻訳されています。
+> この記事は[YASUのえき☆スタ@noon](https://ja.wikipedia.org/wiki/YASUのえき☆スタ@noon)から翻訳されています。
 
 
 **YASUのえき☆スタ＠noon**（**やすのえきすたあっとぬーん**）は、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）で[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")の[正午](../Page/正午.md "wikilink")から13時25分までの時間帯で放送されていた[ローカル番組](../Page/ローカル番組.md "wikilink")で[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（初回は13時50分まで放送、2005年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から12時55分までに短縮）。

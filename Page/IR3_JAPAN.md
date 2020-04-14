@@ -92,7 +92,7 @@
 
 ## ネットの枠移動とネット局の変遷、数字に関するデータ
 
-この番組は番組改編のたびにネットの枠移動や飛び乗り・飛び降りネット局、ネット局数の増減が相次いだ番組だった。他の[JFNCが制作する生放送の番組にも見られることだが](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、この番組は特に激しかった。そのため[わたなべヨシコ](https://ja.wikipedia.org/wiki/わたなべヨシコ "wikilink")も「番組改編期を乗り越え…」だとか、改編期には放送局名をよく読みあげていた。
+この番組は番組改編のたびにネットの枠移動や飛び乗り・飛び降りネット局、ネット局数の増減が相次いだ番組だった。他の[JFNCが制作する生放送の番組にも見られることだが](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")、この番組は特に激しかった。そのため[わたなべヨシコ](https://ja.wikipedia.org/wiki/わたなべヨシコ "wikilink")も「番組改編期を乗り越え…」だとか、改編期には放送局名をよく読みあげていた。
 
 なお、[AIR-G'](../Page/エフエム北海道.md "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[FM AICHI](../Page/エフエム愛知.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[fm fukuokaの](../Page/エフエム福岡.md "wikilink")5局はネットしていなかった。
 

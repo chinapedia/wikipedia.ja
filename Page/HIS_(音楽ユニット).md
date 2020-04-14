@@ -1,4 +1,4 @@
-> この記事は[HIS \(\)](https://ja.wikipedia.org/wiki/HIS_\(\))から翻訳されています。
+> この記事は[HIS \(音楽ユニット\)](https://ja.wikipedia.org/wiki/HIS_\(音楽ユニット\))から翻訳されています。
 
 
 **HIS**（**ヒズ**）は、[細野晴臣](../Page/細野晴臣.md "wikilink")、[忌野清志郎](../Page/忌野清志郎.md "wikilink")、[坂本冬美](../Page/坂本冬美.md "wikilink")のメンバーで構成された音楽ユニット。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[マチルダII歩兵戦車](https://ja.wikipedia.org/wiki/マチルダII歩兵戦車)から翻訳されています。
 
 
 **マチルダII歩兵戦車**（マチルダ2ほへいせんしゃ、Infantry Tank Mark II Matilda、Mk.II マチルダII）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前期に[イギリス軍](../Page/イギリス軍.md "wikilink")で使用された[歩兵戦車](../Page/歩兵戦車.md "wikilink")（30トン級）である。[1938年](../Page/1938年.md "wikilink")6月に最初の量産発注が出され、[1942年](../Page/1942年.md "wikilink")3月に最終生産ロットの発注が出されたが、全車の完成は[1943年](../Page/1943年.md "wikilink")にズレこみ、最終的に2,890両が生産されている。

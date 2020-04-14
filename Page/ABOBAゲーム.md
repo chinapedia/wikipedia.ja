@@ -1,4 +1,4 @@
-> この記事は[ABOBA](https://ja.wikipedia.org/wiki/ABOBA)から翻訳されています。
+> この記事は[ABOBAゲーム](https://ja.wikipedia.org/wiki/ABOBAゲーム)から翻訳されています。
 
 
 『**ABOBAゲーム**』（アボバゲーム）は、1984年10月10日から1985年9月4日まで[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") で放送されていた[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")・[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。

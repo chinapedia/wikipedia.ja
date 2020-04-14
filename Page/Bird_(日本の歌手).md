@@ -1,4 +1,4 @@
-> この記事は[Bird \(\)](https://ja.wikipedia.org/wiki/Bird_\(\))から翻訳されています。
+> この記事は[Bird \(日本の歌手\)](https://ja.wikipedia.org/wiki/Bird_\(日本の歌手\))から翻訳されています。
 
 
 **bird**（バード、本名：三浦 有紀〈みうら ゆき〉(旧姓：北山)、[1975年](../Page/1975年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[京都府](../Page/京都府.md "wikilink")出身。[1999年](../Page/1999年.md "wikilink")デビュー。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。夫は[みうらじゅん](../Page/みうらじゅん.md "wikilink")。

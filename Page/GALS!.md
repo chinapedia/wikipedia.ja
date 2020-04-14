@@ -143,7 +143,7 @@
 
 作中では様々な[パロディ](../Page/パロディ.md "wikilink")ネタが多く登場した。中西先生が「教師生活25年」（『[ど根性ガエル](../Page/ど根性ガエル.md "wikilink")』の町田先生のセリフ）であったり、「劇中劇の「走れ\! お台場COP」（『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』と『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』）や、蘭の必殺技に「ダブル厚底ブーメラン」（『[ゲッターロボ](../Page/ゲッターロボ.md "wikilink")』）が登場したり、蘭が渋谷戦士マルキュームーン（『[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")』）に変装したりなど多彩である。後半は特にそのパロディ傾向が顕著になった。
 
-また、本編内には[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")がよく使われる。主に場面転換時に使われ、本来アイキャッチが使われるべきCM前後は端にタイトルロゴが出るだけであることもあった。
+また、本編内には[アイキャッチ](../Page/アイキャッチ.md "wikilink")がよく使われる。主に場面転換時に使われ、本来アイキャッチが使われるべきCM前後は端にタイトルロゴが出るだけであることもあった。
 
 ### スタッフ
 
@@ -678,7 +678,7 @@
 ## 外部リンク
 
   - [超GALS\!寿蘭](http://www.pierrot.jp/archives/tv_list_2000/tv_053.html) - ぴえろ公式
-  - [超GALS\!寿蘭](http://www.tv-tokyo.co.jp/anime/gals/) - テレビ東京公式
+  - [超GALS\!寿蘭](https://www.tv-tokyo.co.jp/anime/gals/) - テレビ東京公式
   - [超GALS\!寿蘭](http://web.archive.org/web/20030315102153/http://www.konamijpn.com/products/gals/index_basic.html) - コナミ公式
   - [超GALS\!寿蘭2](http://web.archive.org/web/20020203220817/http://www.konamijpn.com/products/gals2/index.html) - コナミ公式
   - [超GALS\!寿蘭すぺしゃる〜イケメンゲッチューギャルズパーティー](http://web.archive.org/web/20020804033514/http://www.konamijpn.com/products/gals_sp/index.html) - コナミ公式

@@ -1,4 +1,4 @@
-> この記事は[The Soul Taker ](https://ja.wikipedia.org/wiki/The_Soul_Taker_)から翻訳されています。
+> この記事は[The Soul Taker 〜魂狩〜](https://ja.wikipedia.org/wiki/The_Soul_Taker_〜魂狩〜)から翻訳されています。
 
 
 『**The Soul Taker 〜魂狩〜**』（ザ・ソウルテイカー たましいがり）は、[竜の子プロダクションの制作による](../Page/タツノコプロ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。

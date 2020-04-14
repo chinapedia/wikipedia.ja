@@ -1,4 +1,4 @@
-> この記事は[Yuki](https://ja.wikipedia.org/wiki/Yuki)から翻訳されています。
+> この記事は[ブリザードYuki](https://ja.wikipedia.org/wiki/ブリザードYuki)から翻訳されています。
 
 
 『**ブリザードYUKI**』（ブリザードユキ）は、原案・[吉岡平](../Page/吉岡平.md "wikilink")、作画・[安西真](https://ja.wikipedia.org/wiki/西安_\(漫画家\) "wikilink")（すたじお実験室）の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、および主人公の女子[プロレスラー](../Page/プロレスラー.md "wikilink")のリングネーム。

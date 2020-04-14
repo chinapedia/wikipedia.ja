@@ -59,8 +59,9 @@
 | 19 | [2015年](../Page/2015年.md "wikilink")                    | [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") |
 | 20 | [2016年](../Page/2016年.md "wikilink")                    | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")                |
 | 21 | [2017年](../Page/2017年.md "wikilink")                    | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")             |
-| 22 | [2018年](../Page/2018年.md "wikilink")                    | ゆず                                                                        |
+| 22 | [2018年](../Page/2018年.md "wikilink")                    | [ゆず](https://ja.wikipedia.org/wiki/ゆず "wikilink")                         |
 | 23 | [2019年](../Page/2019年.md "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                                          |
+| 24 | [2020年](../Page/2020年.md "wikilink")                    | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")                          |
 
 ### PEOPLE’S CHOICE
 
@@ -70,6 +71,7 @@
 | 21 | [2017年](../Page/2017年.md "wikilink") | [［Alexandros］](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")       |
 | 22 | [2018年](../Page/2018年.md "wikilink") | [星野源](../Page/星野源.md "wikilink")                                            |
 | 23 | [2019年](../Page/2019年.md "wikilink") |                                                                             |
+| 24 | [2020年](../Page/2020年.md "wikilink") | [UVERworld](../Page/UVERworld.md "wikilink")                                |
 
 ### VIDEO OF THE YEAR
 
@@ -85,9 +87,9 @@
 | 8  | [2004年](../Page/2004年.md "wikilink")                    | [くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")                                  | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")             | [丹下紘希](../Page/丹下紘希.md "wikilink")                              |
 | 9  | [2005年](../Page/2005年.md "wikilink")                    | [GALAXY](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink")                                 | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                    | [辻川幸一郎](../Page/辻川幸一郎.md "wikilink")                            |
 | 10 | [2006年](../Page/2006年.md "wikilink")                    | [JOY](../Page/JOY_\(YUKIの曲\).md "wikilink")                                            | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")                    | [中村剛](../Page/中村剛_\(映像ディレクター\).md "wikilink")                   |
-| 11 | [2007年](../Page/2007年.md "wikilink")                    | [しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")                                     | Mr.Children                                                                     | 丹下紘希                                                            |
+| 11 | [2007年](../Page/2007年.md "wikilink")                    | [しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")                                     | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")             | 丹下紘希                                                            |
 | 12 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [花の名](../Page/花の名.md "wikilink")                                                       | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")     | [番場秀一](../Page/番場秀一.md "wikilink")                              |
-| 13 | [2009年](../Page/2009年.md "wikilink")                    | [モノノケダンス](../Page/モノノケダンス.md "wikilink")                                               | 電気グルーヴ                                                                          | [天久聖一](../Page/天久聖一.md "wikilink")                              |
+| 13 | [2009年](../Page/2009年.md "wikilink")                    | [モノノケダンス](../Page/モノノケダンス.md "wikilink")                                               | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")                                          | [天久聖一](../Page/天久聖一.md "wikilink")                              |
 | 14 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") | [FAST CAR](https://ja.wikipedia.org/wiki/PAST_FUTURE "wikilink")                       | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")                         | [久保茂昭](../Page/久保茂昭.md "wikilink")                              |
 | 15 | [2011年](../Page/2011年.md "wikilink")                    | [アルクアラウンド](https://ja.wikipedia.org/wiki/アルクアラウンド "wikilink")                          | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")                     | [関和亮](https://ja.wikipedia.org/wiki/関和亮 "wikilink")             |
 | 16 | [2012年](../Page/2012年.md "wikilink")                    | nowrap|[バッハの旋律を夜に聴いたせいです。](https://ja.wikipedia.org/wiki/バッハの旋律を夜に聴いたせいです。 "wikilink") | [田中裕介](https://ja.wikipedia.org/wiki/田中裕介_\(映像作家\) "wikilink")                  |                                                                 |
@@ -98,20 +100,23 @@
 | 21 | [2017年](../Page/2017年.md "wikilink")                    | [恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")                              | [星野源](../Page/星野源.md "wikilink")                                                | [関和亮](https://ja.wikipedia.org/wiki/関和亮 "wikilink")             |
 | 22 | [2018年](../Page/2018年.md "wikilink")                    | [ノンフィクション](https://ja.wikipedia.org/wiki/ノンフィクション_\(平井堅の曲\) "wikilink")                | [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")                             | [田辺秀伸](https://ja.wikipedia.org/wiki/田辺秀伸 "wikilink")           |
 | 23 | [2019年](../Page/2019年.md "wikilink")                    | [カタルシスト](https://ja.wikipedia.org/wiki/カタルシスト "wikilink")                              | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                   | [柿本ケンサク](https://ja.wikipedia.org/wiki/柿本ケンサク "wikilink")       |
+| 24 | [2020年](../Page/2020年.md "wikilink")                    | [Aurora](https://ja.wikipedia.org/wiki/Aurora_\(BUMP_OF_CHICKENの曲\) "wikilink")        | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")     | [林響太朗](https://ja.wikipedia.org/wiki/林響太朗 "wikilink")           |
 
 ### ALBUM OF THE YEAR
 
-| 回  | 年                                    | 受賞アルバム                                                                             | アーティスト                                           |
-| -- | ------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 22 | [2018年](../Page/2018年.md "wikilink") | [THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(Hi-STANDARDのアルバム\) "wikilink") | [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") |
-| 23 | [2019年](../Page/2019年.md "wikilink") | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                 |
+| 回  | 年                                    | 受賞アルバム                                                          | アーティスト                                                       |
+| -- | ------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------ |
+| 22 | [2018年](../Page/2018年.md "wikilink") | [THE GIFT](../Page/THE_GIFT_\(Hi-STANDARDのアルバム\).md "wikilink") | [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")             |
+| 23 | [2019年](../Page/2019年.md "wikilink") | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink") | [星野源](../Page/星野源.md "wikilink")                             |
+| 24 | [2020年](../Page/2020年.md "wikilink") | [9999](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink")  | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink") |
 
 ### SONG OF THE YEAR
 
 | 回  | 年                                    | 受賞曲                                                                | アーティスト                                                                                                          |
 | -- | ------------------------------------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
 | 22 | [2018年](../Page/2018年.md "wikilink") | [打上花火](https://ja.wikipedia.org/wiki/打上花火_\(曲\) "wikilink")        | [DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink") × [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink") |
-| 23 | [2019年](../Page/2019年.md "wikilink") | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink") | 米津玄師                                                                                                            |
+| 23 | [2019年](../Page/2019年.md "wikilink") | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink") | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                                                           |
+| 24 | [2020年](../Page/2020年.md "wikilink") | [Pretender](https://ja.wikipedia.org/wiki/Pretender "wikilink")    | [Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")                                       |
 
 ## その他受賞作品・歌手
 
@@ -506,7 +511,7 @@ SHANE LESTER</p></td>
 | 12 | 2008年        | [D.A.N.C.E.](https://ja.wikipedia.org/wiki/:en:D.A.N.C.E. "wikilink")                                                                                    | [ジャスティス](https://ja.wikipedia.org/wiki/ジャスティス_\(バンド\) "wikilink")            | [JONAS＆FRANCOIS](https://ja.wikipedia.org/wiki/:en:Jonas_&_François "wikilink")                   |
 | 13 | 2009年        | [VIOLET HILL](https://ja.wikipedia.org/wiki/:en:Violet_Hill "wikilink")                                                                                  | [コールドプレイ](../Page/コールドプレイ.md "wikilink")                                     | [ASA MADER](https://ja.wikipedia.org/wiki/:en:Asa_Mader "wikilink")                               |
 | 14 | 2010年        | [PAPARAZZI](https://ja.wikipedia.org/wiki/パパラッチ_\(レディー・ガガの曲\) "wikilink")                                                                                | [レディー・ガガ](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")                  | [JONAS ACKERLUND](https://ja.wikipedia.org/wiki/:en:Jonas_Åkerlund "wikilink")                    |
-| 15 | 2011年        | [RUNAWAY](https://ja.wikipedia.org/wiki/:en:Runaway_\(Kanye_West_song\) "wikilink") feat.[PUSHA T](https://ja.wikipedia.org/wiki/:en:Pusha_T "wikilink") | [カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")                | [Hype Williams](https://ja.wikipedia.org/wiki/:en:Hype_Williams "wikilink")                       |
+| 15 | 2011年        | [RUNAWAY](https://ja.wikipedia.org/wiki/:en:Runaway_\(Kanye_West_song\) "wikilink") feat.[PUSHA T](https://ja.wikipedia.org/wiki/:en:Pusha_T "wikilink") | [カニエ・ウェスト](../Page/カニエ・ウェスト.md "wikilink")                                   | [Hype Williams](https://ja.wikipedia.org/wiki/:en:Hype_Williams "wikilink")                       |
 
 ### BEST ARTIST VIDEO
 

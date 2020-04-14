@@ -232,7 +232,7 @@ FMラジオ局でのスポーツ中継という新たなジャンルを切り開
 
   - （SUNDAY LIONS 番組公式Twitter）
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
 
 1.  タレントをメインとしたラジオのプロ野球中継は、1973年にも東海ラジオが『東海ラジオ ショーナイター』として試みている。
 2.  この年からスポンサーとなった[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")の中継を視聴する前提で構成していたと言われている。

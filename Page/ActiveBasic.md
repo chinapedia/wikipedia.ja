@@ -7,6 +7,8 @@
 
 また作者は、バージョン5.0で64ビット[コンパイラ](../Page/コンパイラ.md "wikilink")を搭載し、[Windows Vistaへの完全対応をアナウンスしていたが](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、その[コンパイラ](../Page/コンパイラ.md "wikilink")の公開を前倒しし、バージョン4.20から64ビットコンパイラが搭載された。（32ビットコンパイラが無くなったわけではない）
 
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月以降、バージョンアップは行われていない。
+
 ## 特徴
 
 ### 言語仕様
@@ -95,7 +97,7 @@
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - バージョン5.0リリース。
 
-なお、現在公開されている最新の版はバージョン5.0である。
+なお、現在公開されている最新の版はバージョン5.0.0.5である。
 
 ## 関連項目
 

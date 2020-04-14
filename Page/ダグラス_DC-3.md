@@ -1,4 +1,4 @@
-> この記事は[ DC-3](https://ja.wikipedia.org/wiki/_DC-3)から翻訳されています。
+> この記事は[ダグラス DC-3](https://ja.wikipedia.org/wiki/ダグラス_DC-3)から翻訳されています。
 
 
 **ダグラス DC-3**（ダグラス ディーシースリー、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の航空機メーカーである[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社（現[ボーイング](../Page/ボーイング.md "wikilink")社）が開発した双発のプロペラ[旅客機](../Page/旅客機.md "wikilink")・[輸送機](../Page/輸送機.md "wikilink")である。[1936年](../Page/1936年.md "wikilink")運用開始。[アメリカ軍用輸送機としての](https://ja.wikipedia.org/wiki/アメリカ合衆国軍 "wikilink")[制式名称](../Page/制式名称.md "wikilink")「**C-47 スカイトレイン**」（**C-47 Skytrain**）、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")軍用輸送機としての名称「**ダコタ**」（**Dakota**）でも知られる。

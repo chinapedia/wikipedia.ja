@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDガンダムフォースの登場勢力](https://ja.wikipedia.org/wiki/SDガンダムフォースの登場勢力)から翻訳されています。
 
 
 **SDガンダムフォースの登場勢力**（SDガンダムフォースのとうじょうせいりょく）は[アニメ](../Page/アニメ.md "wikilink")『[SDガンダムフォース](../Page/SDガンダムフォース.md "wikilink")』に登場する組織、国家について記述する。

@@ -1,4 +1,4 @@
-> この記事は[ANAL](https://ja.wikipedia.org/wiki/ANAL)から翻訳されています。
+> この記事は[超感覚ANALマン](https://ja.wikipedia.org/wiki/超感覚ANALマン)から翻訳されています。
 
 
 『**超感覚ANALマン**』（ちょうかんかくアナルマン）とは、[コミック電撃大王](https://ja.wikipedia.org/wiki/コミック電撃大王 "wikilink")（[メディアワークス](../Page/メディアワークス.md "wikilink")刊）にて1993年春号から1999年12月号まで連載されていた[安永航一郎](../Page/安永航一郎.md "wikilink")著の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。単行本第1巻が1997年に発売されているが、予告された第2巻以降は、第1巻発売から20年以上経過した2017年現在でも発売されていない。

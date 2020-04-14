@@ -1,4 +1,4 @@
-> この記事は[RKKY](https://ja.wikipedia.org/wiki/RKKY)から翻訳されています。
+> この記事は[RKKY相互作用](https://ja.wikipedia.org/wiki/RKKY相互作用)から翻訳されています。
 
 
 **RKKY相互作用**（RKKYそうごさよう）とは、[金属](../Page/金属.md "wikilink")中の[伝導電子](https://ja.wikipedia.org/wiki/伝導電子 "wikilink")の[スピン](../Page/スピン.md "wikilink")を介して行われる局在スピン同士の[相互作用](../Page/相互作用.md "wikilink")である。この相互作用を導出した4人の[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")（M.A. Ruderman、[C. Kittel](../Page/チャールズ・キッテル.md "wikilink")、[T. Kasuya](https://ja.wikipedia.org/wiki/糟谷忠雄 "wikilink")、[K. Yoshida](https://ja.wikipedia.org/wiki/芳田奎 "wikilink")）の頭文字から、RKKY相互作用と命名された。

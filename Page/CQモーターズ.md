@@ -1,4 +1,4 @@
-> この記事は[CQ](https://ja.wikipedia.org/wiki/CQ)から翻訳されています。
+> この記事は[CQモーターズ](https://ja.wikipedia.org/wiki/CQモーターズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Japanese_electrical_car0451.JPG "wikilink") **CQモーターズ**（しーきゅーもーたーず）は[電気自動車](../Page/電気自動車.md "wikilink")の[ミニカーを製造していた自動車メーカー](../Page/ミニカー_\(車両\).md "wikilink")。

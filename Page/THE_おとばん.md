@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE おとばん](https://ja.wikipedia.org/wiki/THE_おとばん)から翻訳されています。
 
 
 **THE おとばん**（ザ おとばん）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送された[音楽](../Page/音楽.md "wikilink")専門[ラジオ番組](../Page/ラジオ番組.md "wikilink")。正式名称は**カルビープレゼンツ ユースケ・サンタマリアのTHE おとばん**。

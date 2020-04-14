@@ -1,4 +1,4 @@
-> この記事は[MLB](https://ja.wikipedia.org/wiki/MLB)から翻訳されています。
+> この記事は[MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム)から翻訳されています。
 
 
 **MLBオールスターゲーム**（MLB All-Star Game）は、[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")（MLB）を構成する2リーグ（[ナショナルリーグ](../Page/ナショナルリーグ.md "wikilink")と[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")）の選抜チーム同士による対抗試合である。毎年7月に行われ、ファンによる投票や監督推薦などで選抜された選手が一晩限りのドリームチームを結成する。**ミッドサマー・クラシック**（Midsummer Classic、“真夏の祭典”）とも呼ばれる。

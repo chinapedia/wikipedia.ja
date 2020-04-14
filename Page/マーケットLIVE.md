@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[マーケットLIVE](https://ja.wikipedia.org/wiki/マーケットLIVE)から翻訳されています。
 
 
 『**マーケットLIVE**』（マーケットライブ）は、[1994年](../Page/1994年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[テレビ東京系列局で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[マーケット](../Page/経済.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

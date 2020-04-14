@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[パンチDEデート](https://ja.wikipedia.org/wiki/パンチDEデート)から翻訳されています。
 
 
 『**パンチDEデート**』（パンチでデート）は、[1973年](../Page/1973年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[関西テレビで放送されていた](../Page/関西テレビ放送.md "wikilink")[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")である。その後も[1984年](../Page/1984年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで『**新・パンチDEデート**』と題して放送されていた。

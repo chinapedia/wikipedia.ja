@@ -1,7 +1,7 @@
 > この記事は[E-PLANETS in tohoku](https://ja.wikipedia.org/wiki/E-PLANETS_in_tohoku)から翻訳されています。
 
 
-**e-PLANETS in tohoku**（イープラネッツイントウホク）は、[Date fmをキーステーションに](../Page/エフエム仙台.md "wikilink")[エフエム青森](../Page/エフエム青森.md "wikilink")、[エフエム秋田](../Page/エフエム秋田.md "wikilink")、[エフエム岩手](../Page/エフエム岩手.md "wikilink")、[Boy FM](../Page/エフエム山形.md "wikilink")、[ふくしまFMの](../Page/エフエム福島.md "wikilink")[JFN東北](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")6局ネットで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送時間は、毎週金曜日の12:00〜12:53（エフエム青森のみ12:50で終了）。2005年3月放送終了。
+**e-PLANETS in tohoku**（イープラネッツイントウホク）は、[Date fmをキーステーションに](../Page/エフエム仙台.md "wikilink")[エフエム青森](../Page/エフエム青森.md "wikilink")、[エフエム秋田](../Page/エフエム秋田.md "wikilink")、[エフエム岩手](../Page/エフエム岩手.md "wikilink")、[Boy FM](../Page/エフエム山形.md "wikilink")、[ふくしまFMの](../Page/エフエム福島.md "wikilink")[JFN東北](../Page/全国FM放送協議会.md "wikilink")6局ネットで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送時間は、毎週金曜日の12:00〜12:53（エフエム青森のみ12:50で終了）。2005年3月放送終了。
 
 この項では、「**マッピーのe-PLANET.tohoku**」（マッピーのイープラネッツイントウホク）、**「ザ・ラジオ〜心のコミュニケーションを大切に〜」**（ザ・ラジオ こころのコミュニケーションをたいせつに）、「**i-LANDinTOHOKU**」（アイランドイントウホク）、「**STEPPIN'TOHOKU**」（ステッピントウホク）についてもここで併せて紹介する。
 

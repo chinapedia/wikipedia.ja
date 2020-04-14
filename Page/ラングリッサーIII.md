@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ラングリッサーIII](https://ja.wikipedia.org/wiki/ラングリッサーIII)から翻訳されています。
 
 
 『**ラングリッサーIII**』（ラングリッサースリー）は、[1996年](../Page/1996年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[日本コンピュータシステム](../Page/日本コンピュータシステム.md "wikilink")（メサイヤ）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフトである](../Page/ゲームソフト.md "wikilink")。[ラングリッサー](https://ja.wikipedia.org/wiki/ラングリッサー "wikilink")シリーズの第3作。

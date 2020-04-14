@@ -18,7 +18,7 @@
 
 ### ラジオ
 
-  - [TOYOTA WEEKLY ALBUM TOP10](https://ja.wikipedia.org/wiki/TOYOTA_WEEKLY_ALBUM_TOP10 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFN系](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")）
+  - [TOYOTA WEEKLY ALBUM TOP10](https://ja.wikipedia.org/wiki/TOYOTA_WEEKLY_ALBUM_TOP10 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFN系](../Page/全国FM放送協議会.md "wikilink")）
   - [TOYOTA SUPER WORLD COUNTDOWN](https://ja.wikipedia.org/wiki/TOYOTA_SUPER_WORLD_COUNTDOWN "wikilink")（TOKYO FM・JFN系）
   - [TOYOTA SOUND IN MY LIFE](https://ja.wikipedia.org/wiki/SOUND_IN_MY_LIFE "wikilink")（TOKYO FM・JFN系）
   - [三共](../Page/第一三共.md "wikilink")[ポップス・オンライン](https://ja.wikipedia.org/wiki/ポップス・オンライン "wikilink")（TOKYO FM）

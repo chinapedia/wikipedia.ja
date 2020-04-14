@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・エックルス](https://ja.wikipedia.org/wiki/ジョン・C・エックルス)から翻訳されています。
 
 
 **ジョン・カリュー・エックルス**（**ジョン・カルー・エクルズ**、John Carew Eccles 、[1903年](../Page/1903年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[メルボルン](../Page/メルボルン.md "wikilink")生まれの[神経](../Page/神経科学.md "wikilink")[生理学](../Page/生理学.md "wikilink")者。

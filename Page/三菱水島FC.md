@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[三菱水島FC](https://ja.wikipedia.org/wiki/三菱水島FC)から翻訳されています。
 
 
 **三菱自動車水島FC**（みつびしじどうしゃみずしまエフシー、）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")で活動する社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。呼称は**三菱水島FC**である
@@ -7,7 +7,7 @@
 
 母体は[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")水島製作所。多くの選手が[期間工](../Page/期間工.md "wikilink")として働いている\[1\]。
 
-1946年に「三菱自工水島FC」として創部、1990年代に入ると[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")で強豪チームとなり、2005年シーズンから[JFLに](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")5年間参加、2010年のみ下記歴史の事情により1年間は岡山県リーグ1部、以降中国リーグに在籍している。
+1946年に「三菱自工水島FC」として創部、1990年代に入ると[中国サッカーリーグ](../Page/中国サッカーリーグ.md "wikilink")で強豪チームとなり、2005年シーズンから[JFLに](../Page/日本フットボールリーグ.md "wikilink")5年間参加、2010年のみ下記歴史の事情により1年間は岡山県リーグ1部、以降中国リーグに在籍している。
 
 チームカラーは「赤」、愛称の「[アダマント](https://ja.wikipedia.org/wiki/アダマント "wikilink")（ADAMANT）」とは、ギリシャ語でダイヤモンドの語源であり、英語では「断固とした・強固な」という意味で、母体である[三菱グループ](../Page/三菱グループ.md "wikilink")の[スリーダイヤ](../Page/スリーダイヤ.md "wikilink")から連想している。
 
@@ -497,7 +497,7 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/第7回日本フットボールリーグ.md" title="wikilink">2005</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本フットボールリーグ" title="wikilink">JFL</a></p></td>
+<td><p><a href="../Page/日本フットボールリーグ.md" title="wikilink">JFL</a></p></td>
 <td><p>16位</p></td>
 <td><p>16</p></td>
 <td><p>8</p></td>

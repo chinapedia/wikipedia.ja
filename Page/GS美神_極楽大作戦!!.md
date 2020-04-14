@@ -1,4 +1,4 @@
-> この記事は[GS !!](https://ja.wikipedia.org/wiki/GS_!!)から翻訳されています。
+> この記事は[GS美神 極楽大作戦!!](https://ja.wikipedia.org/wiki/GS美神_極楽大作戦!!)から翻訳されています。
 
 
 『**GS美神 極楽大作戦\!\!**』（ゴーストスイーパーみかみ ごくらくだいさくせん\!\!）は、[椎名高志](../Page/椎名高志.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1991年](../Page/1991年.md "wikilink")20・21合併号に掲載。その後1991年30号から[1999年](../Page/1999年.md "wikilink")41号まで『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』で連載されていた。1993年度[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")受賞。[単行本](../Page/単行本.md "wikilink")全39巻のちにワイド版全20巻も出ている。話数カウントは「リポート○」。また2013年には新作が発表された（後述）。
@@ -1333,7 +1333,7 @@
 
 ## パチスロ
 
-  - アビリット（後の[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）から[パチスロ機](https://ja.wikipedia.org/wiki/パチスロ機 "wikilink")『GS美神 極楽大作戦\!\!』が2009年10月より全国のパチンコ店に設置された。
+  - アビリット（後の[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）から[パチスロ機](https://ja.wikipedia.org/wiki/パチスロ機 "wikilink")『GS美神 極楽大作戦\!\!』が2009年10月より全国のパチンコ店に設置された。ビジュアル等を原作者の椎名が監修したが声優に関しては東映版の版権が取得できなかった為別キャストになりアニメ版の美神を務めた鶴ひろみの熱烈なファンでもあった椎名は複雑な心境をブログに綴った\[24\]。
 
 ## 脚注
 
@@ -1341,7 +1341,7 @@
 
   - [(有) 椎名百貨店](../Page/\(有\)_椎名百貨店.md "wikilink") - 作者・椎名高志による読切連作シリーズ
   - [山本正之](https://ja.wikipedia.org/wiki/山本正之 "wikilink") - イメージソングを提供。
-  - [大アルカナ](../Page/大アルカナ.md "wikilink") - 単行本の挿絵、およびアニメの[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")として登場。
+  - [大アルカナ](../Page/大アルカナ.md "wikilink") - 単行本の挿絵、およびアニメの[アイキャッチ](../Page/アイキャッチ.md "wikilink")として登場。
   - [太臓もて王サーガ](../Page/太臓もて王サーガ.md "wikilink") - サブタイトルのパロディーがある。
 
 ## 外部リンク
@@ -1355,7 +1355,7 @@
   - [TOKYO MXアニメ公式サイト](http://www.mxtv.co.jp/gs_mikami/)
 
   -
-[Category:GS美神_極楽大作戦\!\!](https://ja.wikipedia.org/wiki/Category:GS美神_極楽大作戦!! "wikilink") [Category:椎名高志](https://ja.wikipedia.org/wiki/Category:椎名高志 "wikilink") [Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:オカルトを題材とした作品](https://ja.wikipedia.org/wiki/Category:オカルトを題材とした作品 "wikilink") [Category:エクソシスム・悪霊ばらいを題材とした作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材とした作品 "wikilink") [Category:霊を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:霊を題材とした漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:1994年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1994年のアニメ映画 "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:新宿を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:新宿を舞台とした映画作品 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:朝日放送製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:朝日放送製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:ファンタジーアニメ映画](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ映画 "wikilink") [Category:日本のゾンビ映画](https://ja.wikipedia.org/wiki/Category:日本のゾンビ映画 "wikilink")
+[Category:GS美神_極楽大作戦\!\!](https://ja.wikipedia.org/wiki/Category:GS美神_極楽大作戦!! "wikilink") [Category:椎名高志](https://ja.wikipedia.org/wiki/Category:椎名高志 "wikilink") [Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:1991年の漫画](https://ja.wikipedia.org/wiki/Category:1991年の漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:霊を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:霊を題材とした漫画作品 "wikilink") [Category:転生を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:転生を題材とした漫画作品 "wikilink") [Category:オカルトを題材とした作品](https://ja.wikipedia.org/wiki/Category:オカルトを題材とした作品 "wikilink") [Category:エクソシスム・悪霊ばらいを題材とした作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材とした作品 "wikilink") [Category:1994年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1994年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:朝日放送製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:朝日放送製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:ファンタジーアニメ映画](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ映画 "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:新宿を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:新宿を舞台とした映画作品 "wikilink") [Category:日本のゾンビ映画](https://ja.wikipedia.org/wiki/Category:日本のゾンビ映画 "wikilink")
 
 1.  幼少時に美神美智恵は、チューブラー・ベルに寄生され、それを祓おうとした両親が除霊に失敗した事によりGSとしての社会的信用を失った事で、破滅と隣り合わせの不遇な人生を長い間送らざるを得なくなった。
 2.  このため、横島は資格取得後も引き続き美神の丁稚だった。
@@ -1380,3 +1380,4 @@
 21. 1993年12月時点では月曜 17:00 -17:30にて放送されていた（『[アニメージュ](../Page/アニメージュ.md "wikilink")』1994年1月号（[徳間書店](../Page/徳間書店.md "wikilink")）全国主要都市放送リスト（115頁））。当作品の終了後、[愛媛県](../Page/愛媛県.md "wikilink")では1995年4月の[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")の開局まで1年間、[当枠は遅れネットも含めて一切放送されなかった](../Page/朝日放送テレビ制作日曜朝8時30分枠のアニメ.md "wikilink")。
 22. 本放送終了後に放送。放送時間は1995年1月時点で火曜 16:00 - 16:30（『[アニメージュ](../Page/アニメージュ.md "wikilink")』1995年1月号（[徳間書店](../Page/徳間書店.md "wikilink")）全国放送局別放映リスト（91頁））。
 23. 「アニメをこえるか 声優のCDが人気」『[日経流通新聞](https://ja.wikipedia.org/wiki/日経流通新聞 "wikilink")』1994年3月24日付、23面。
+24. [椎名のブログより](http://cnanews.asablo.jp/blog/2009/10/27/4656109)

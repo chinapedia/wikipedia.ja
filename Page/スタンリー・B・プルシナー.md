@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[スタンリー・B・プルシナー](https://ja.wikipedia.org/wiki/スタンリー・B・プルシナー)から翻訳されています。
 
 
 ` `

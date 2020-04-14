@@ -47,6 +47,10 @@
 
   - 航空学校明野本校および各分校
 
+## ギャラリー
+
+ファイル:Fuji, LM-1 01 00080620.jpg|飛行中 ファイル:Fuji, LM-1 01 00080621.jpg|タイヤ ファイル:Fuji, LM-1 2.jpg|コックピット
+
 ## 参考文献
 
   - [木村秀政](../Page/木村秀政.md "wikilink")･田中祥一『日本の名機100選』 [文春文庫](../Page/文春文庫.md "wikilink") ISBN 4-16-810203-3 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")

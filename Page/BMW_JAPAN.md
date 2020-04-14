@@ -71,7 +71,7 @@
   - モトーレン青森（旧アルファオート・青森)…[吉田産業](../Page/吉田産業.md "wikilink")が運営。
   - [モトーレン秋田](../Page/モトーレン秋田.md "wikilink")（Akita BMW）...[三傳商事](../Page/三傳商事.md "wikilink")系列。[秋田日産自動車](../Page/秋田日産自動車.md "wikilink")とは兄弟会社に当たる。
   - [モトーレン仙台](../Page/モトーレン仙台.md "wikilink")（Sendai BMW）
-  - イースタンモータース（Iwate BMW）…[岩手自動車販売](https://ja.wikipedia.org/wiki/岩手自動車販売 "wikilink")の子会社で、[岩手三菱ふそう](https://ja.wikipedia.org/wiki/岩手三菱ふそう "wikilink")やラテン車販売のアルゴスの兄弟会社。
+  - イースタンモータース（Iwate BMW）…[岩手自動車販売](https://ja.wikipedia.org/wiki/岩手自動車販売 "wikilink")の子会社で、[岩手三菱ふそう](https://ja.wikipedia.org/wiki/岩手三菱ふそう "wikilink")やラテン車販売の「アルゴス」の兄弟会社。
   - モトーレンヤマガタ…[トヨタカローラ山形](https://ja.wikipedia.org/wiki/トヨタカローラ山形 "wikilink")の系列会社。
   - モトーレンニイガタ…首都圏の輸入車メガディーラー「SKY GROUP」の母体会社。
   - [ニコル・カーズ](https://ja.wikipedia.org/wiki/ニコル・カーズ "wikilink")…[アルピナ](../Page/アルピナ.md "wikilink")日本総輸入元
@@ -84,8 +84,10 @@
   - [セントラル自動車技研](https://ja.wikipedia.org/wiki/セントラル自動車技研 "wikilink")(埼玉)
   - 和幸モトーレン([埼玉スバル自動車](https://ja.wikipedia.org/wiki/埼玉スバル自動車 "wikilink")・ファルコングループ)
   - [東京マツダ販売](https://ja.wikipedia.org/wiki/東京マツダ販売 "wikilink")（Tomatsu BMW)
-  - [モトーレン東都](https://ja.wikipedia.org/wiki/モトーレン東都 "wikilink") （Toto BMW、[東久留米市](../Page/東久留米市.md "wikilink")・ダイワグループ)
-  - モトーレン東洋（Shonan BMW、神奈川県中央エリア）…独立資本だったが、[2002年](../Page/2002年.md "wikilink")、石油製品販売の[サンオータス](https://ja.wikipedia.org/wiki/サンオータス "wikilink")が買収しグループ会社となる。[2007年](../Page/2007年.md "wikilink")、神奈川県南部の正規ディーラー「メトロポリタンモーターズ」もグループ入りする。
+  - ダイワグループ
+      - [モトーレン東都](https://ja.wikipedia.org/wiki/モトーレン東都 "wikilink") （Toto BMW、[東久留米市](../Page/東久留米市.md "wikilink"))
+      - メトロポリタンモーターズ （Shonan BMW、神奈川県南部)…[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")、石油製品販売の[サンオータス](https://ja.wikipedia.org/wiki/サンオータス "wikilink")より譲受。
+  - [エー・エル・シー](../Page/エー・エル・シー.md "wikilink") （ALC BMW、[平塚市](../Page/平塚市.md "wikilink")・[厚木市](../Page/厚木市.md "wikilink"))…[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")、サンオータスが運営していた「モトーレン東洋」を譲受し営業開始。
   - ウエインズインポートカーズ([横浜トヨペット](https://ja.wikipedia.org/wiki/横浜トヨペット "wikilink")グループ、[みなとみらい](../Page/みなとみらい.md "wikilink"))
   - エルベオート（大阪府・南部）…2009 日本最優秀ディーラー賞受賞
       - 株式会社タナカユキ（大阪府・南部）…社名の由来は創業者の名前「田中幸男」から。消費不況で販売不振に陥ったことから、[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付けで、エルベオート100%出資の新法人「株式会社タナカユキ」に事業譲渡。旧法人は[2018年](../Page/2018年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に、[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")へ[特別清算](https://ja.wikipedia.org/wiki/特別清算 "wikilink")を申請して開始命令を受けた。
@@ -104,7 +106,7 @@
       - モトーレンレピオ（Ibaraki BMW、Keiyo BMW、茨城・千葉) - 茨城県南部で営業していたが、[2013年](../Page/2013年.md "wikilink")10月に千葉エリア（千葉中央、千葉北、幕張）の店舗をNakamitsu BMWより譲受。
   - [ケーユーホールディングス](../Page/ケーユーホールディングス.md "wikilink")（Tomei-Yokohama BMW、東京・横浜・[横須賀市](../Page/横須賀市.md "wikilink")）…BMW東京より一部店舗を継承。
   - エーワンオートイワセ（Matsumoto BMW、松本市）…1980年設立。
-      - 甲府外車販売（Yamanashi BMW）…1972年創立。後継者不足のため、[2017年](../Page/2017年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")付けでエーワンオートイワセに全株を譲渡。グループ入りする。
+      - 甲府外車販売（Yamanashi BMW）…1972年創立。後継者不在のため、[2017年](../Page/2017年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")付けでエーワンオートイワセに全株を譲渡。グループ入りする。
   - モトーレン長野（Nagano BMW、長野市）…[高沢産業](https://ja.wikipedia.org/wiki/高沢産業 "wikilink")グループ
   - フジ・モトーレン(Hamamatsu BMW、静岡県浜松市）…富士物産グループ、三盛自動車販売より一部店舗を継承
   - イーピーエム・コーポレーション（石川・富山）
@@ -119,7 +121,7 @@
       - 服部モータース（滋賀）[2019年](../Page/2019年.md "wikilink")7月、経営権を取得。
   - モトーレン福井…あおい商事グループ
   - モトーレンティーアイ（奈良・和歌山・[東大阪市](../Page/東大阪市.md "wikilink")）…[ティーアイホールディングス](https://ja.wikipedia.org/wiki/ティーアイホールディングス "wikilink")グループ
-  - [バルコム](https://ja.wikipedia.org/wiki/バルコム_\(企業\) "wikilink")（Balcom BMW、広島・岡山・山口・福岡)
+  - [バルコム](../Page/バルコム_\(企業\).md "wikilink")（Balcom BMW、広島・岡山・山口・福岡)
   - マインオート(徳島)…[ノヴィル](../Page/ノヴィル.md "wikilink")グループ。
   - エムラインオート（香川）
   - アルスターオート（愛媛）
@@ -147,6 +149,7 @@
   - 石山自動車（[日本橋浜町](../Page/日本橋浜町.md "wikilink")）
   - 株式会社東立 （Nerima BMW・東京)…[2017年](../Page/2017年.md "wikilink")9月にディーラー権解除。店舗はアウトプラッツ（オートバックス・ディーラーグループ・ホールディングス）に移管。
   - ナカミツモータース（Nakamitsu BMW、千葉）…[2005年](../Page/2005年.md "wikilink")に近鉄百貨店子会社の「モトーレン千葉」を経営統合。首都圏で唯一の全県運営会社だったが、[2013年](../Page/2013年.md "wikilink")10月に千葉エリア（千葉中央、千葉北、幕張）の店舗をクインオート（Ibaraki BMW）へ売却。[2015年](../Page/2015年.md "wikilink")1月、親会社のナカミツインターナショナルとともにガリバーインターナショナルに買収され子会社となる。
+  - [サンオータス](https://ja.wikipedia.org/wiki/サンオータス "wikilink")（Shonan BMW、神奈川県中央エリア）…[2002年](../Page/2002年.md "wikilink")、当時の正規ディーラー「モトーレン東洋」を買収しBMWビジネスを開始。[2007年](../Page/2007年.md "wikilink")、神奈川県南部の正規ディーラー「メトロポリタンモーターズ」も買収し、両社一体でグループ経営していた。売上不振と経営資源集中のため[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")にて、モトーレン東洋を「エー・エル・シー」に、メトロポリタンモーターズを「ダイワグループ」にそれぞれ経営譲渡した。
   - モトーレン横須賀（旧アウレア）…[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にてTomei-Yokohama BMWへ譲渡。
   - 猪之原自動車（Shizuoka-Higashi BMW、[沼津市](../Page/沼津市.md "wikilink")）
   - 三盛自動車販売(Sansei BMW、静岡県中部・東部)…販売の落ち込みにより2016年4月にVTホールディングスへ事業譲渡。同年7月31日で解散・消滅した\[4\]。

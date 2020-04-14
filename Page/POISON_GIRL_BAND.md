@@ -7,35 +7,33 @@
 
 **[阿部智則](../Page/阿部智則.md "wikilink")**（あべ とものり [1979年](../Page/1979年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - ）
 
-ボケ（便乗ツッコミ）担当。身長167cm、体重63kg、A型。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。[宮城県石巻工業高等学校](../Page/宮城県石巻工業高等学校.md "wikilink")卒業。[土木](https://ja.wikipedia.org/wiki/土木 "wikilink")科に在籍し、毎日あちこちを掘っていた。『映話』のレギュラーメンバー、動物好き。
+ボケ（便乗ツッコミ）担当。身長167cm 体重63kg、A型。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。[宮城県石巻工業高等学校](../Page/宮城県石巻工業高等学校.md "wikilink")卒業。[土木科](../Page/土木科.md "wikilink")に在籍し、毎日あちこちを掘っていた。『[映話](https://ja.wikipedia.org/wiki/よしもと映画研究部 "wikilink")』のレギュラーメンバー、動物好き。
 
 **[吉田大吾](../Page/吉田大吾.md "wikilink")**（よしだ だいご [1979年](../Page/1979年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）
 
-ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg、O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 来歴
 
-主によしもと本物流「ロンドンブーツの天下取り指南」より抜粋。 コンビ名の由来は、阿部の出した100個以上の案の中から選んだ3つを合わせたもの。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") 東京NSCに入学し3ヶ月経ち、周囲の勧めで吉田から阿部を誘ってコンビ結成。複雑なコンビ乗り換えをしていた阿部を吉田が救う形になる。同年[8月](../Page/8月.md "wikilink") コンビ結成から1ヶ月で[銀座7丁目劇場](https://ja.wikipedia.org/wiki/銀座7丁目劇場 "wikilink")で初舞台を経験。NSC生の中からMVPを決める大会で、4期生の中で2位になる。
+主によしもと本物流「[ロンドンブーツの天下取り指南](../Page/ロンドンブーツ1号2号.md "wikilink")」より抜粋。 コンビ名の由来は、阿部の出した100個以上の案の中から選んだ3つを合わせたもの。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月、東京[NSCに入学し](../Page/吉本総合芸能学院.md "wikilink")3ヶ月経ち、周囲の勧めで吉田から阿部を誘ってコンビ結成。複雑なコンビ乗り換えをしていた阿部を吉田が救う形になる。同年8月、コンビ結成から1ヶ月で[銀座7丁目劇場](https://ja.wikipedia.org/wiki/銀座7丁目劇場 "wikilink")で初舞台を経験。NSC生の中から[MVPを決める大会で](../Page/最優秀選手.md "wikilink")、4期生の中で2位になる。
 
-[1999年](../Page/1999年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") 吉田の「ボケになりたい」という理由からコンビを解散する。その際、吉田はツッコミ候補のNSC生とすでに仲良くしており、阿部に電話でそのことを伝えた。同年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") お互い別々のコンビでNSCを卒業。吉田は『**ももいろ**』、阿部は『**積木**』というコンビ。同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") 吉田の『ももいろ』は上手くいかず解散。7月下旬、吉田自ら『積木』への加入を希望し、阿部は快く承諾してトリオになるが、1回だけ活動し、すぐ解散。メンバーは解散とともに3人とも芸人を引退。吉田はフリーター、阿部は徐々に引きこもりになる。 ちなみにその時のトリオ名は『美輪明宏やおっぱい』として事務所に提出しようとしたものの、間違えて『**美輪明宏やおっぱん**』と書いてしまったため、そのままそのトリオ名になってしまった。
+[1999年](../Page/1999年.md "wikilink")1月、吉田の「ボケになりたい」という理由からコンビを解散する。その際、吉田はツッコミ候補のNSC生とすでに仲良くしており、阿部に電話でそのことを伝えた。同年3月、お互い別々のコンビでNSCを卒業。吉田は『**ももいろ**』、阿部は『**積木**』というコンビ。同年7月、吉田の『ももいろ』は上手くいかず解散。7月下旬、吉田自ら『積木』への加入を希望し、阿部は快く承諾してトリオになるが、1回だけ活動し、すぐ解散。メンバーは解散とともに3人とも芸人を引退。吉田はフリーター、阿部は徐々に引きこもりになる。 ちなみにその時のトリオ名は『美輪明宏やおっぱい』として事務所に提出しようとしたものの、間違えて『**美輪明宏やおっぱん**』と書いてしまったため、そのままそのトリオ名になってしまった。
 
-[2000年](../Page/2000年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") 諦めきれなかった吉田は阿部を競馬場に呼び出してコンビ再結成。そのため2000年結成とされる。その後、ルミネのゴングショーで初めて勝ちあがった。
+[2000年](../Page/2000年.md "wikilink")7月、諦めきれなかった吉田は阿部を競馬場に呼び出してコンビ再結成。そのため2000年結成とされる。その後、[ルミネ](../Page/ルミネ.md "wikilink")のゴングショーで初めて勝ちあがった。
 
-[2004年](../Page/2004年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") 『お笑いカウントダウンTV』でテレビ初出演（しかし阿部は「山根」と間違ったテロップを入れられた）。
+[2004年](../Page/2004年.md "wikilink")1月、『お笑いカウントダウンTV』（[TBS](../Page/TBSテレビ.md "wikilink")）でテレビ初出演（しかし阿部は「山根」と間違ったテロップを入れられた）。
 
-[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink") [マクドナルド](../Page/マクドナルド.md "wikilink")のCMの声に抜擢され、動物の声を担当。
+[2005年](../Page/2005年.md "wikilink")9月、[マクドナルド](../Page/マクドナルド.md "wikilink")のCMの声に抜擢され、動物の声を担当。
 
-[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 「[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")」水曜2部のナビゲーターを務める。同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") [神保町花月](../Page/神保町花月.md "wikilink")のこけら落し公演「ハッピーな片想い」にて座長を務める。
+[2007年](../Page/2007年.md "wikilink")4月、『[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")』（[ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")）水曜2部のナビゲーターを務める。同年7月、[神保町花月](../Page/神保町花月.md "wikilink")のこけら落し公演「ハッピーな片想い」にて座長を務める。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 神保町花月「声{{～}}黒松病院{{～}}（脚本：[ザ・プラン9](../Page/ザ・プラン9.md "wikilink") 久馬歩）」で主演。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月、神保町花月「声{{～}}黒松病院{{～}}（脚本：[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")・[久馬歩](../Page/お〜い!久馬.md "wikilink")）」で主演。
 
-2011年 THE MANZAI 認定漫才師に選出。
+[2011年](../Page/2011年.md "wikilink")、「[THE MANZAI](https://ja.wikipedia.org/wiki/THE_MANZAI "wikilink")」認定漫才師に選出。
 
-2013年7月9日放送の『[芸人報道](https://ja.wikipedia.org/wiki/芸人報道 "wikilink")　2013年に入ってテレビ出演0本\!今年初めてテレビに出る芸人大集合SP\!』に出演し、Ｍ-1グランプリファイナリストでもある彼らの登場にレギュラー陣を驚かせた。阿部は２年前の2011年に芸人報道に出て以来テレビ出演していないかもと発言し、現在は月に数本の舞台のみの出演であること、吉田は個人でラジオの帯番組を持ちなんとか食べていけている状況を明かした\[1\]。
+[2013年](../Page/2013年.md "wikilink")7月9日放送の『[芸人報道](https://ja.wikipedia.org/wiki/芸人報道 "wikilink") 2013年に入ってテレビ出演0本\!今年初めてテレビに出る芸人大集合SP\!』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に出演し、「[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")」ファイナリストでもある彼らの登場にレギュラー陣を驚かせた。阿部は2年前の2011年に『芸人報道』に出て以来テレビ出演していないかもと発言し、現在は月に数本の舞台のみの出演であること、吉田は個人でラジオの帯番組を持ちなんとか食べていけている状況を明かした\[1\]。
 
-2014年 THE MANZAI 認定漫才師に選出されサーキットランキング18位でワイルドカード決定戦に選出される。
-
-
+[2014年](../Page/2014年.md "wikilink")、「THE MANZAI」認定漫才師に選出されサーキットランキング18位でワイルドカード決定戦に選出される。
 
 ## M-1グランプリ
 
@@ -146,8 +144,8 @@
 
 ## 外部リンク
 
-  - [POISON GIRL BAND阿部のブログ「VIVA！吉田！」](http://poisonabe.laff.jp/)
-  - [POISON GIRL BAND吉田のブログ「今日も生きてます」](http://poisonyoshida.laff.jp/)
+  -
+  -
   - [POISON GIRL BAND プロフィール｜吉本興業株式会社](https://profile.yoshimoto.co.jp/talent/detail?id=232)
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")

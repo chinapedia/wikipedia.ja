@@ -1,4 +1,4 @@
-> この記事は[JVC](https://ja.wikipedia.org/wiki/JVC)から翻訳されています。
+> この記事は[JVCエンタテインメント](https://ja.wikipedia.org/wiki/JVCエンタテインメント)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JVC_Studio.JPG "wikilink")

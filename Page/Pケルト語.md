@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[Pケルト語](https://ja.wikipedia.org/wiki/Pケルト語)から翻訳されています。
 
 
 **Pケルト語**とは[ケルト語派](../Page/ケルト語派.md "wikilink")に属する[言語](../Page/言語.md "wikilink")の一部である。

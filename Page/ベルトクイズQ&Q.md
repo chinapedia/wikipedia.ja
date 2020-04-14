@@ -1,4 +1,4 @@
-> この記事は[Q\&Q](https://ja.wikipedia.org/wiki/Q\&Q)から翻訳されています。
+> この記事は[ベルトクイズQ\&Q](https://ja.wikipedia.org/wiki/ベルトクイズQ\&Q)から翻訳されています。
 
 
 『**ベルトクイズQ\&Q**』（ベルトクイズ キューアンドキュー）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

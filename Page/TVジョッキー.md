@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVジョッキー](https://ja.wikipedia.org/wiki/TVジョッキー)から翻訳されています。
 
 
 『**TVジョッキー**』（テレビジョッキー）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月10日](../Page/1月10日.md "wikilink") から[1982年](../Page/1982年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで[日本テレビ系列局で](../Page/日本テレビネットワーク協議会.md "wikilink")[日曜日](../Page/日曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")された[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。 愛称は『**テレジョキ**』。

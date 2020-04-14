@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[マチルダI歩兵戦車](https://ja.wikipedia.org/wiki/マチルダI歩兵戦車)から翻訳されています。
 
 
 **マチルダI歩兵戦車**（マチルダ1ほへいせんしゃ、Mk.I マチルダI、A11）は、[戦間期](../Page/戦間期.md "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された初の[歩兵戦車](../Page/歩兵戦車.md "wikilink")（10トン級）。

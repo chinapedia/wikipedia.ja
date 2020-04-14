@@ -1,7 +1,7 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[トリプルH](https://ja.wikipedia.org/wiki/トリプルH)から翻訳されています。
 
 
-**トリプルH**（*Triple H* \<*Hunter Hearst Helmsley*\>、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月27日](../Page/7月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[WWE](../Page/WWE.md "wikilink")所属。 本名：**ポール・レヴェック**（*Paul Michael Levesque*）。[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[ナシュア生まれ](https://ja.wikipedia.org/wiki/ナシュア_\(ニューハンプシャー州\) "wikilink")。 [WWE](../Page/WWE.md "wikilink")所属、同社タレント部門兼ライブ・イベント部門兼ストーリー部門最高執行役員。
+**トリプルH**（*Triple H* \<*Hunter Hearst Helmsley*\>、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[7月27日](../Page/7月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。[WWE](../Page/WWE.md "wikilink")所属。 本名：**ポール・レヴェック**（*Paul Michael Levesque*）。[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[ナシュア生まれ](https://ja.wikipedia.org/wiki/ナシュア_\(ニューハンプシャー州\) "wikilink")。 [WWE](../Page/WWE.md "wikilink")所属、 NXT責任者兼グローバル･タレント育成最高執行役員兼戦略部門最高執行役員。
 
 正式のリングネームは**ハンター・ハースト・ヘルムスリー**（*Hunter Hearst Helmsley*）だが、頭文字をとってトリプルHと略して表記、呼称される（[J SPORTSのWWE系番組の字幕では](../Page/J_SPORTS.md "wikilink")、一行あたりの文字数制限のためHHHと表記されている）。公式プロフィールでは[コネチカット州](../Page/コネチカット州.md "wikilink")グリニッチ出身。
 

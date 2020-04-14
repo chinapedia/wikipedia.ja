@@ -1,4 +1,4 @@
-> この記事は[Bee](https://ja.wikipedia.org/wiki/Bee)から翻訳されています。
+> この記事は[ダイハツ・Bee](https://ja.wikipedia.org/wiki/ダイハツ・Bee)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)004.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Daihatsu_Bee_\(1951\)002.JPG "wikilink") [Davis_Divan,_NATMUS,_May_2011.jpg](https://ja.wikipedia.org/wiki/File:Davis_Divan,_NATMUS,_May_2011.jpg "fig:Davis_Divan,_NATMUS,_May_2011.jpg") **Bee**（ビー）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に発売した[三輪自動車](../Page/三輪自動車.md "wikilink")。三輪の2ドア[ノッチバック](../Page/ノッチバック.md "wikilink")[セダン](../Page/セダン.md "wikilink")型[乗用車](../Page/乗用車.md "wikilink")（フロント1輪、リア2輪）。

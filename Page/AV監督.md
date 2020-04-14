@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[AV監督](https://ja.wikipedia.org/wiki/AV監督)から翻訳されています。
 
 
 **アダルトビデオ監督**（アダルトビデオかんとく）、**AV監督**（エーブイかんとく）、**AVディレクター**は[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")制作における[監督](../Page/監督.md "wikilink")（[演出家](../Page/演出家.md "wikilink")）・[ディレクター](../Page/ディレクター.md "wikilink")である。AV業界では、[ディレクター](../Page/ディレクター.md "wikilink")と言うのが一般的呼称である。[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")や[カメラマン](../Page/カメラマン.md "wikilink")を兼ねる場合もある。現場での[撮影](../Page/撮影.md "wikilink")及び[映像編集](../Page/映像編集.md "wikilink")などを進行させ、制作（作品を実際に作成する行為）に責任を持つ。

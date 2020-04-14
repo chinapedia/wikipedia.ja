@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[臭化銀\(I\)](https://ja.wikipedia.org/wiki/臭化銀\(I\))から翻訳されています。
 
 
 | BoilingPt = 1502 {{℃}} (分解) | Viscosity = | pKa =
@@ -24,14 +24,14 @@
 [シアン化アルカリ](../Page/シアン化物.md "wikilink")、[チオ硫酸ナトリウム](../Page/チオ硫酸ナトリウム.md "wikilink")[水溶液](../Page/水溶液.md "wikilink")には[錯体](../Page/錯体.md "wikilink")を生成して[溶解](../Page/溶解.md "wikilink")し、濃[アンモニア](../Page/アンモニア.md "wikilink")水には少量溶解する。[熱濃硝酸にも可溶](../Page/硝酸.md "wikilink")。
 
   -
-    <ce>AgBr\\ + 2CN^- \\ \\rightleftarrows\\ \[Ag(CN)2\]^-\\ + Br^-\\ ,</ce>\(K\rm_{sp} = 1.2 \times 10^8\)
-    <ce>AgBr\\ + 2 S2O3^{2-} \\ \\rightleftarrows\\ \[Ag(S2O3)2\] ^{3-} \\ + Br ^{-}\\ ,</ce> \(K = 11\)
-    <ce> AgBr\\ + 2 NH3\\ \\rightleftarrows\\ \[Ag(NH3)2\]^+ \\ + Br^-\\ ,</ce>\(K = 8 \times 10^{-6}6\)
+    <ce>AgBr + 2CN^- \<=\> \[Ag(CN)2\]^- + Br^- ,</ce>\(K\rm_{sp} = 1.2 \times 10^8\)
+    <ce>AgBr + 2S2O3^{2^-} \<=\> \[Ag(S2O3)2\] ^{3^-} + Br^- ,</ce> \(K = 11\)
+    <ce> AgBr + 2NH3 \<=\> \[Ag(NH3)2\]^+ + Br^- ,</ce>\(K = 8 \times 10^{-6}6\)
 
 濃厚な臭化物の水溶液にも錯体を生成して多少溶解する。
 
   -
-    <ce>AgBr\\ + 3 Br^- \\ \\rightleftarrows\\ \[AgBr4\]^{3-}\\ , </ce>\(K = 3 \times 10^{-4}\)
+    <ce>AgBr + 3Br^- \<=\> \[AgBr4\]^{3-} , </ce>\(K = 3 \times 10^{-4}\)
 
 [バンドギャップ](../Page/バンドギャップ.md "wikilink")は2.5 eV。臭化銀(I)は半導体の一種であり、[光](../Page/光.md "wikilink")により[分解](../Page/分解.md "wikilink")するため、[写真](../Page/写真.md "wikilink")の[感光剤](https://ja.wikipedia.org/wiki/感光剤 "wikilink")として[19世紀](../Page/19世紀.md "wikilink")より用いられている。
 

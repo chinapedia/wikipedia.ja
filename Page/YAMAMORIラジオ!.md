@@ -1,4 +1,4 @@
-> この記事は[YAMAMORI!](https://ja.wikipedia.org/wiki/YAMAMORI!)から翻訳されています。
+> この記事は[YAMAMORIラジオ!](https://ja.wikipedia.org/wiki/YAMAMORIラジオ!)から翻訳されています。
 
 
 **YAMAMORIラジオ\!\!**（ヤマモリ-）は、[2003年](../Page/2003年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで月曜日～木曜日の昼11：00\~15：00の時間帯に放送されていた[KBS京都の](../Page/京都放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組名はパーソナリティである同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[山崎弘士](../Page/山崎弘士.md "wikilink")と[森谷威夫](../Page/森谷威夫.md "wikilink")にちなんでいる。

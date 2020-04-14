@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H・アール・カオス](https://ja.wikipedia.org/wiki/H・アール・カオス)から翻訳されています。
 
 
 **H・アール・カオス**（H.ART CHAOS、エイチ・アール・カオス）とは、日本の[コンテンポラリー・ダンス](../Page/コンテンポラリー・ダンス.md "wikilink")のカンパニー。[東京都](../Page/東京都.md "wikilink")を拠点に活動。スタジオは東京都[世田谷区](../Page/世田谷区.md "wikilink")上馬にある。

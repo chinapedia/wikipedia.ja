@@ -1,4 +1,4 @@
-> この記事は[ EZ!TV](https://ja.wikipedia.org/wiki/_EZ!TV)から翻訳されています。
+> この記事は[情報ライブ EZ!TV](https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV)から翻訳されています。
 
 
 『**EZ\!TV**』（イージー・ティーヴィー）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2001年4月1日から2005年9月18日まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビの共同制作](../Page/関西テレビ放送.md "wikilink")。[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")（[デジタル放送のみ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")）・[ステレオ放送](../Page/ステレオ放送.md "wikilink")。2004年10月以降は『情報ライブEZ\!TV』（じょうほうらいぶ イージー・ティーヴィー）として放送した。
@@ -23,7 +23,7 @@
 
 ## 出演者
 
-  - 司会
+  - 総合司会
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   -
-    [F1レースや](../Page/フォーミュラ1.md "wikilink")[K-1](../Page/K-1.md "wikilink")（格闘技）の中継のため月曜0時開始となった場合、『EZ\!TV』としてではなく『FNNニュース』（前半15分）『すぽると\!』（後半30分）のみ独立番組として放送された。後者は、佐野と谷沢のみで月 - 土曜の『すぽると\!』のセットから進行した。[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")上は『EZ\!TV』であったが、『FNNニュース』はタイトル差し替えなしで放送していた局があった。
+    [F1レースや](../Page/フォーミュラ1.md "wikilink")[K-1](../Page/K-1.md "wikilink")（格闘技）の中継のため月曜0時開始となった場合、『EZ\!TV』としては実質的には休止となり、『FNNニュース』（前半15分）と『すぽると\!』（後半30分）のみ独立番組扱いで放送された。後者は、佐野と谷沢のみで月 - 土曜の『すぽると\!』のスタジオから放送した。[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")上はこの場合であっても『EZ\!TV』とクレジットされていたが、『FNNニュース』はタイトル差し替えなしで放送していた局があった。
 
 ## コーナー
 

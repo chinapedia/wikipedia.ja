@@ -1,4 +1,4 @@
-> この記事は[B.C.](https://ja.wikipedia.org/wiki/B.C.)から翻訳されています。
+> この記事は[B.C.ビューティー・コロシアム](https://ja.wikipedia.org/wiki/B.C.ビューティー・コロシアム)から翻訳されています。
 
 
 『**B. C. ビューティー・コロシアム**』は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されている](../Page/フジネットワーク.md "wikilink")[容姿の悩みを相談し](../Page/容貌.md "wikilink")、解決していく[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")の間に[金曜日](../Page/金曜日.md "wikilink")19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")）でレギュラー放送され、レギュラー放送終了後は『[カスペ\!](../Page/カスペ!.md "wikilink")』枠を中心に不定期の[特別番組](../Page/特別番組.md "wikilink")として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")が実施されている。

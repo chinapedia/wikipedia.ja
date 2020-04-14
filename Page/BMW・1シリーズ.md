@@ -1,4 +1,4 @@
-> この記事は[BMW1](https://ja.wikipedia.org/wiki/BMW1)から翻訳されています。
+> この記事は[BMW・1シリーズ](https://ja.wikipedia.org/wiki/BMW・1シリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2018_BMW_118i_SE_Automatic_1.5.jpg "wikilink") **BMW 1シリーズ**（BMW 1 Series, BMW 1er）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[自動車](../Page/自動車.md "wikilink")である。

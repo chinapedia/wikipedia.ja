@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JRタワー](https://ja.wikipedia.org/wiki/JRタワー)から翻訳されています。
 
 
 **JRタワー** (*JR TOWER*) は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区にある複合施設](../Page/中央区_\(札幌市\).md "wikilink")（[駅ビル](../Page/駅ビル.md "wikilink")、[複合商業施設](../Page/複合商業施設.md "wikilink")、[超高層建築物](../Page/超高層建築物.md "wikilink")）\[1\]。本項目では、運営企業の「札幌駅総合開発」（さっぽろえきそうごうかいはつ）についても記載する。

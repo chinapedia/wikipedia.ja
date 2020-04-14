@@ -6,7 +6,7 @@
 ## PPAR-α
 
   - PPAR-αは[遊離脂肪酸](https://ja.wikipedia.org/wiki/遊離脂肪酸 "wikilink")や[ロイコトリエン](../Page/ロイコトリエン.md "wikilink")B4などを生理的な[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")として活性化され、[ペルオキシゾーム](https://ja.wikipedia.org/wiki/ペルオキシゾーム "wikilink")の増生を通じて血中[トリグリセリド](https://ja.wikipedia.org/wiki/トリグリセリド "wikilink")濃度の低下を導く。
-      - 外因性[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")としては[フェノフィブラート](https://ja.wikipedia.org/wiki/フェノフィブラート "wikilink")（）、[ベザフィブラート](https://ja.wikipedia.org/wiki/ベザフィブラート "wikilink")（）、[クロフィブラート](https://ja.wikipedia.org/wiki/クロフィブラート "wikilink")（）などのいわゆる[フィブラート](https://ja.wikipedia.org/wiki/フィブラート "wikilink")（）系の薬物がある。
+      - 外因性[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")としては[フェノフィブラート](../Page/フェノフィブラート.md "wikilink")（）、[ベザフィブラート](https://ja.wikipedia.org/wiki/ベザフィブラート "wikilink")（）、[クロフィブラート](https://ja.wikipedia.org/wiki/クロフィブラート "wikilink")（）などのいわゆる[フィブラート](https://ja.wikipedia.org/wiki/フィブラート "wikilink")（）系の薬物がある。
       - [脂肪酸](../Page/脂肪酸.md "wikilink")の[β酸化](https://ja.wikipedia.org/wiki/β酸化 "wikilink")に関与する多くの[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の調整を行っていると考えられている。
       - この作用ゆえ，[高脂血症](https://ja.wikipedia.org/wiki/高脂血症 "wikilink")改善薬の主要な標的となっている。
   - 発現臓器は[骨格筋](../Page/骨格筋.md "wikilink")・[心臓](../Page/心臓.md "wikilink")・[肝臓](../Page/肝臓.md "wikilink")・[腎臓](../Page/腎臓.md "wikilink")などがある。

@@ -1,4 +1,4 @@
-> この記事は[Midnight CK ](https://ja.wikipedia.org/wiki/Midnight_CK_)から翻訳されています。
+> この記事は[Midnight CK 夜もさらさら](https://ja.wikipedia.org/wiki/Midnight_CK_夜もさらさら)から翻訳されています。
 
 
 『**Midnight CK 夜もさらさら**』（ミッドナイト シーケー よるもさらさら）は、[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")が制作した[トーク番組](../Page/トーク番組.md "wikilink")である。[東海地方](../Page/東海地方.md "wikilink")限定で[生放送](../Page/生放送.md "wikilink")された。[2004年](../Page/2004年.md "wikilink")に第1弾、翌[2005年](../Page/2005年.md "wikilink")に第2弾が放送された。

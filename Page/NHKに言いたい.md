@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKに言いたい](https://ja.wikipedia.org/wiki/NHKに言いたい)から翻訳されています。
 
 
 『**NHKに言いたい**（エヌエイチケイに いいたい）』は、[2004年](../Page/2004年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の21:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")。

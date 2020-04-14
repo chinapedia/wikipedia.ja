@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTコムウェア](https://ja.wikipedia.org/wiki/NTTコムウェア)から翻訳されています。
 
 
 [NTT_Comware_Gotanda.JPG](https://ja.wikipedia.org/wiki/File:NTT_Comware_Gotanda.JPG "fig:NTT_Comware_Gotanda.JPG") **エヌ・ティ・ティ・コムウェア株式会社**（NTTコムウェア、NTT COMWARE Corporation）は、NTT主要8社のひとつであり、日本の[ユーザー系](../Page/ユーザー系.md "wikilink")[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[W BLIND TARGET](https://ja.wikipedia.org/wiki/W_BLIND_TARGET)から翻訳されています。
+> この記事は[新機動戦記ガンダムW BLIND TARGET](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_BLIND_TARGET)から翻訳されています。
 
 
 『**新機動戦記ガンダムW BLIND TARGET**』（しんきどうせんきガンダムウイング ブラインドターゲット）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。

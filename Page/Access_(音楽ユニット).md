@@ -1,4 +1,4 @@
-> この記事は[Access \(\)](https://ja.wikipedia.org/wiki/Access_\(\))から翻訳されています。
+> この記事は[Access \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\))から翻訳されています。
 
 
 **access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
@@ -294,7 +294,7 @@
 
 <!-- end list -->
 
-  - 3月29日〜6月11日、ライブツアー「access ELECTRIC NIGHT 2020」（11都市13公演）を行う。
+  - 5月4日〜6月26日、ライブツアー「access ELECTRIC NIGHT 2020」（11都市13公演）を行う。
 
 ## ディスコグラフィ
 
@@ -1405,26 +1405,26 @@ double decades + half Special SYNC LIVE 1125/1126</p></td>
 </div></td>
 </tr>
 <tr class="even">
-<td><p>2020年3月29日〜6月11日</p></td>
+<td><p>2020年5月4日〜6月26日</p></td>
 <td><p>access ELECTRIC NIGHT 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>11都市13公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>3月29日 なんばHatch<br />
-4月4日 仙台Rensa<br />
-4月11日 横浜ベイホール<br />
-4月12日 横浜ベイホール<br />
-4月25日 新潟LOTS<br />
-5月4日 名古屋DIAMOND HALL<br />
+<p>5月4日 名古屋DIAMOND HALL<br />
 5月5日 名古屋DIAMOND HALL<br />
 5月9日 高松MONSTER<br />
 5月10日 広島CLUB QUATTRO<br />
+5月15日 仙台Rensa<br />
 5月23日 福岡DRUM LOGOS<br />
 5月24日 熊本B.9<br />
 5月31日 札幌PENNY LANE24<br />
-6月11日 STUDIO COAST</p>
+6月4日 横浜ベイホール<br />
+6月5日 横浜ベイホール<br />
+6月11日 STUDIO COAST<br />
+6月14日 なんばHatch<br />
+6月26日 新潟LOTS</p>
 </div>
 </div></td>
 </tr>

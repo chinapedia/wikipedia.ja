@@ -1,7 +1,7 @@
-> この記事は[SUPER RADIO MONSTER ](https://ja.wikipedia.org/wiki/SUPER_RADIO_MONSTER_)から翻訳されています。
+> この記事は[SUPER RADIO MONSTER ラジ★ゴン](https://ja.wikipedia.org/wiki/SUPER_RADIO_MONSTER_ラジ★ゴン)から翻訳されています。
 
 
-**SUPER RADIO MONSTER ラジ★ゴン**（スーパ・レディオ・モンスター ラジ・ゴン。通称：**ラジ★ゴン**）は、月曜 - 木曜 12:30 - 16:30に、[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")1階アクサダイレクトスタジオから放送されているラジオ番組。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月放送開始。
+**SUPER RADIO MONSTER ラジ★ゴン**（スーパ・レディオ・モンスター ラジ・ゴン。通称：**ラジ★ゴン**）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで月曜 - 木曜 12:30 - 16:30に、[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")1階アクサダイレクトスタジオから放送されていたラジオ番組。
 
 ## 概要
 
@@ -12,6 +12,8 @@
 放送開始から16年間維持されてきたBUTCH&斉藤コンビ、ならびに月火・水木で2日ずつ担当する体制が[2013年](../Page/2013年.md "wikilink")3月で終了、翌4月からは「**福岡のリスナーの活力の源になりたい\!との想いに。ここ、福岡を代表するDJ（ラジオモンスター）が集結**」\[2\]をキャッチフレーズに日替わりでDJが登場するようになる。なお、ちんのみ水・木連投。
 
 [2016年](../Page/2016年.md "wikilink")4月改編で、エフエム福岡のワイドプログラム全体の放送時間の見直しが行われ、番組が始まって初めて放送開始時間が変更された。
+
+2020年3月18日番組冒頭で2020年3月末での番組終了が発表された。これにより22年間の歴史に幕を閉じる。後継番組は『[～Ultra Radio Connection～DIG\!\!\!\!\!\!\!\!FUKUOKA](../Page/〜Ultra_Radio_Connection〜DIG!!!!!!!!FUKUOKA.md "wikilink")』で、本番組のパーソナリティ陣のうち、[BUTCH](../Page/BUTCH.md "wikilink")、[小雪](https://ja.wikipedia.org/wiki/小雪_\(タレント\) "wikilink")、[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")、[TOGGYが続投する](../Page/F.King_Toggy.md "wikilink")。
 
 ## パーソナリティ
 
@@ -41,7 +43,7 @@
       - 15:55までの時期もあり。
   - 2009年10月 - [2013年](../Page/2013年.md "wikilink")3月：12:00 - 16:25
   - 2013年4月 - [2016年](../Page/2016年.md "wikilink")3月：12:00 - 15:55
-  - 2016年4月 - 現在：12:30 - 16:30
+  - 2016年4月 - [2020年](../Page/2020年.md "wikilink")3月：12:30 - 16:30
 
 ## タイムテーブル
 

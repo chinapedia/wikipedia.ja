@@ -1,4 +1,4 @@
-> この記事は[Planetarian ](https://ja.wikipedia.org/wiki/Planetarian_)から翻訳されています。
+> この記事は[Planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/Planetarian_〜ちいさなほしのゆめ〜)から翻訳されています。
 
 
 『**planetarian 〜ちいさなほしのゆめ〜**』（プラネタリアン ちいさなほしのゆめ）は、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")のゲームブランド・[Keyが制作したコンピュータゲーム](../Page/Key_\(ゲームブランド\).md "wikilink")。本項では、本作を原作とした小説・ドラマCD・アニメーションについても記述する。

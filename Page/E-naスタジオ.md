@@ -1,4 +1,4 @@
-> この記事は[E-na](https://ja.wikipedia.org/wiki/E-na)から翻訳されています。
+> この記事は[E-naスタジオ](https://ja.wikipedia.org/wiki/E-naスタジオ)から翻訳されています。
 
 
 **株式会社e-naスタジオ**（イーナスタジオ）は、[テレビ番組](../Page/テレビ番組.md "wikilink")の[編集](../Page/映像編集.md "wikilink")（VTR編集、[リニア編集](../Page/リニア編集.md "wikilink")、[ノンリニア編集](../Page/ノンリニア編集.md "wikilink")）、MAに関する業務を行う[ポストプロダクション](../Page/ポストプロダクション.md "wikilink")である。

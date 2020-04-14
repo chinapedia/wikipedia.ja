@@ -1,4 +1,4 @@
-> この記事は[NECO](https://ja.wikipedia.org/wiki/NECO)から翻訳されています。
+> この記事は[チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO)から翻訳されています。
 
 
 **チャンネルNECO**（チャンネルネコ）は、[日活](../Page/日活.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")衛星メディア事業本部が運営する[映画](../Page/映画.md "wikilink")・[ドラマ](../Page/テレビドラマ.md "wikilink")・[アニメの](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。

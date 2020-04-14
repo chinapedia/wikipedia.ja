@@ -5,9 +5,9 @@
 
 ## 概要
 
-世界各地で開催されるF1のデータを収録したゲームとして、[1996年](../Page/1996年.md "wikilink")に第1作が発売。[欧州地域ではシーズン毎に](../Page/ヨーロッパ.md "wikilink")\[1\]シリーズを発売していた。初期作品はSCEの外部スタジオによる開発だったが、2001年シリーズ（[PlayStation 2向け](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）以降はソニー・コンピュータエンタテインメント・ヨーロッパ (Sony Computer Entertainment Europe, SCEE) の子会社で開発部門のが開発を担当していた。
+世界各地で開催されるF1のデータを収録したゲームとして、[1996年](../Page/1996年.md "wikilink")に第1作が発売。[欧州地域ではソニー](../Page/ヨーロッパ.md "wikilink")・コンピュータエンタテインメント・ヨーロッパ (Sony Computer Entertainment Europe, SCEE) の子会社で開発部門の（2000年以降は「SCEスタジオ・リバプール」として運営。2012年閉鎖）をメインパブリッシャーとし、各地域のSCEがローカライズをする形となる。シリーズの発売はほぼシーズン毎に行われ\[1\]、初期作品はSCEの外部スタジオによる開発だったが、2001年シリーズ（[PlayStation 2向け](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）以降は一括してスタジオ・リバプールが担当した。
 
-欧州・[北米では夏から秋頃の発売が通例となっていたことから](../Page/北アメリカ.md "wikilink")、基本「シーズン開幕時点でのマシン・ドライバー」を収録しているが、初代のように**シーズン中に入れ替わったドライバー**が重複して収録されているパターンや、発売時期がシーズン終了後にずれ込んだ『[Formula One Championship Edition](https://ja.wikipedia.org/wiki/Formula_One_Championship_Edition "wikilink")』のように**シーズン中盤のデータ**を収録しているケースも存在する。また、ゲーム内でのコメンタリーに実際のテレビ中継で担当している人物を据えるのも本作のポイントであり、欧州版では[BBC](../Page/英国放送協会.md "wikilink")・[ITVで実況を担当した](../Page/ITV_\(イギリス\).md "wikilink")が長年起用されていた\[2\]。
+欧州・[北米では夏から秋頃の発売が通例となっていたことから](../Page/北アメリカ.md "wikilink")、基本「シーズン開幕時点でのマシン・ドライバー」を収録しているが、初代のように**シーズン中に入れ替わったドライバー**が重複して収録されているパターンや、発売時期がシーズン終了後から開幕前にずれ込んだ『[Formula One Championship Edition](https://ja.wikipedia.org/wiki/Formula_One_Championship_Edition "wikilink")』のように、**シーズン中盤のデータ**を収録しているケースも存在する。また、ゲーム内でのコメンタリーには実際のテレビ中継で実況・解説を担当している人物を据え、欧州版では[BBC](../Page/英国放送協会.md "wikilink")・[ITVで実況を担当した](../Page/ITV_\(イギリス\).md "wikilink")が長年起用されていた\[2\]。
 
 [2003年](../Page/2003年.md "wikilink")にはフォーミュラ・ワン・マネージメント (FOM) とSCEEの間でF1のゲーム化に関する独占契約権が結ばれたが、[2007年](../Page/2007年.md "wikilink")以降の契約期間の延長および新作ゲームの発売を行わないことを発表。[2006年シーズンの作品](../Page/2006年のF1世界選手権.md "wikilink")（『Formula One 2006』/『Formula One Championship Edition』）をもってシリーズは終了した。
 
@@ -175,4 +175,4 @@ PS2版は<a href="../Page/ロジクール.md" title="wikilink">ロジクール</
 [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink")
 
 1.  日本ではローカライズなどの関係で、一部作品が未発売。
-2.  日本版では[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")のテレビ中継を元に、初代から『2001』まで[三宅正治](../Page/三宅正治.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、『2002』では[長坂哲夫](../Page/長坂哲夫.md "wikilink")、『2004』以降は[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")が起用されている。
+2.  日本版では[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")のテレビ中継を元に、初代から『2001』までは[三宅正治](../Page/三宅正治.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、『2002』では[長坂哲夫](../Page/長坂哲夫.md "wikilink")、『2004』以降は[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")が実況に、[今宮純](../Page/今宮純.md "wikilink")と[川井一仁](../Page/川井一仁.md "wikilink")の両名が解説に起用されていた。

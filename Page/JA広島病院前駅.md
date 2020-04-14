@@ -1,4 +1,4 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[JA広島病院前駅](https://ja.wikipedia.org/wiki/JA広島病院前駅)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hiroden_JA_Hiroshima_Hospital_Sta.03.jpg "wikilink") **JA広島病院前駅**（ジェイエーひろしまびょういんまええき）は、[広島県](../Page/広島県.md "wikilink")[廿日市市](../Page/廿日市市.md "wikilink")地御前一丁目にある[広島電鉄宮島線](https://ja.wikipedia.org/wiki/広島電鉄宮島線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**M35**。

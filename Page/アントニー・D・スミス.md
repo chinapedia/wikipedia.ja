@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[アントニー・D・スミス](https://ja.wikipedia.org/wiki/アントニー・D・スミス)から翻訳されています。
 
 
 **アントニー・D・スミス**（Anthony David Stephen Smith、[1939年](../Page/1939年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[社会学者](https://ja.wikipedia.org/wiki/社会学者 "wikilink")。[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")教授。

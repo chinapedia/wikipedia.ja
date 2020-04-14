@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jホラーシアター](https://ja.wikipedia.org/wiki/Jホラーシアター)から翻訳されています。
 
 
 『**Jホラーシアター**』は、[一瀬隆重](../Page/一瀬隆重.md "wikilink")プロデュース、[東宝](../Page/東宝.md "wikilink")配給による[ホラー映画](../Page/ホラー映画.md "wikilink")のブランド。

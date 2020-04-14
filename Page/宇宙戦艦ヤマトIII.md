@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[宇宙戦艦ヤマトIII](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトIII)から翻訳されています。
 
 
 『**宇宙戦艦ヤマトIII**』（うちゅうせんかんヤマトスリー）は[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月11日](../Page/10月11日.md "wikilink") - [1981年](../Page/1981年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、土曜日の午後7時 - 7時30分、全25話で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")ーション。

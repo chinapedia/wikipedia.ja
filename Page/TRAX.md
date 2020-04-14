@@ -18,7 +18,7 @@
 ## メンバー
 
   - Jay（[ジェイ](https://ja.wikipedia.org/wiki/ジェイ_\(韓国の歌手\) "wikilink")、제이、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")\[3\]または[1984年](../Page/1984年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")\[4\] - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - Jungmo（ジュンモ、김정모（[キム・ジョンモ](https://ja.wikipedia.org/wiki/キム・ジョンモ "wikilink")）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")\[5\] - ） [ギター](../Page/ギター.md "wikilink")（2004年 - 2018年）、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - Jungmo（ジョンモ、김정모（[キム・ジョンモ](https://ja.wikipedia.org/wiki/キム・ジョンモ "wikilink")）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")\[5\] - ） [ギター](../Page/ギター.md "wikilink")（2004年 - 2018年）、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - GINJO - [DJ](../Page/ディスクジョッキー.md "wikilink")\[6\]
 
 ### 過去のメンバー

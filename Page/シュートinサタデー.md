@@ -1,4 +1,4 @@
-> この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
+> この記事は[シュートinサタデー](https://ja.wikipedia.org/wiki/シュートinサタデー)から翻訳されています。
 
 
 『**モーニングショー・シュートinサタデー**』（モーニングショー・シュートインサタデー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[フジテレビ系列で](../Page/フジネットワーク.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた、[関西テレビ製作の朝の](../Page/関西テレビ放送.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")・[トーク番組](../Page/トーク番組.md "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 8:30 - 9:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

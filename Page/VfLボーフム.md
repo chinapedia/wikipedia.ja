@@ -1,4 +1,4 @@
-> この記事は[VfL](https://ja.wikipedia.org/wiki/VfL)から翻訳されています。
+> この記事は[VfLボーフム](https://ja.wikipedia.org/wiki/VfLボーフム)から翻訳されています。
 
 
 **VfLボーフム**（**VfL Bochum 1848**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")[ボーフム](../Page/ボーフム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。正式名称は、Verein für Leibesübungen Bochum 1848 Fußballgemeinschaft e. V.。現在、[2. ブンデスリーガに所属している](https://ja.wikipedia.org/wiki/2._ブンデスリーガ_\(ドイツサッカー\) "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[BBS](https://ja.wikipedia.org/wiki/BBS)から翻訳されています。
+> この記事は[まちBBS](https://ja.wikipedia.org/wiki/まちBBS)から翻訳されています。
 
 
 **まちBBS**（まちビービーエス）とは、地域情報系[電子掲示板](../Page/電子掲示板.md "wikilink")である。**地方1**（[西村博之](https://ja.wikipedia.org/wiki/西村博之 "wikilink")のまちBBS内での[コテハン](../Page/ハンドルネーム.md "wikilink")）が[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")内に開設した地域別テーマ板群と、西村が経営していた合資会社東京アクセスが運営していたC-Link\!の地方板\[1\]を、統合して別のサイトとして独立させた経緯がある\[2\]。現在は2ch.netとは無関係の別サイトである。

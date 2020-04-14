@@ -1,4 +1,4 @@
-> この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
+> この記事は[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション)から翻訳されています。
 
 
 **RCサクセション**（アールシーサクセション、RC SUCCESSION）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

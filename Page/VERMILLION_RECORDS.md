@@ -13,7 +13,7 @@ B'zや[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")、[Mi-Ke]
 
 B'zや栗林誠一郎、近藤房之助、[坪倉唯子](../Page/坪倉唯子.md "wikilink")等の初期の作品や『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』のテーマ曲だったB..B.クィーンズの「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」と[関ゆみ子の](../Page/有馬ゆみこ.md "wikilink")「[ゆめいっぱい](https://ja.wikipedia.org/wiki/ゆめいっぱい "wikilink")」の原盤権は、2018年現在[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")が保有しており再発はされていない。
 
-（ちびまる子ちゃんのEDテーマ曲だった[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の「[走れ正直者](../Page/走れ正直者.md "wikilink")」は[シングル](../Page/シングル.md "wikilink")は再発されていないが、ビーイングが原盤権を保有)
+（ちびまる子ちゃんのEDテーマ曲だった[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の「[走れ正直者](../Page/走れ正直者.md "wikilink")」はシングルは再発されていないが、ビーイングが原盤権を保有)
 
 BMGルームスから再発されたタイトルの正式な発売日は不明だが、POSコードの番号順に従えば同年秋に再発されたものと思われる。 </ref>
 

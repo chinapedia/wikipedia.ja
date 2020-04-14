@@ -1,4 +1,4 @@
-> この記事は[BAKU \(\)](https://ja.wikipedia.org/wiki/BAKU_\(\))から翻訳されています。
+> この記事は[BAKU \(アーティスト\)](https://ja.wikipedia.org/wiki/BAKU_\(アーティスト\))から翻訳されています。
 
 
 **BAKU**（バク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1989年](../Page/1989年.md "wikilink")に結成され\[1\]、[1992年](../Page/1992年.md "wikilink")に解散\[2\]。[原宿](../Page/原宿.md "wikilink")における[ホコ天での活動を中心として人気を集め](https://ja.wikipedia.org/wiki/歩行者天国#ストリートパフォーマー "wikilink")、3年という活動期間の中で当時の[バンドブーム全盛期の主要バンドとなった](https://ja.wikipedia.org/wiki/バンドブーム#第二次バンドブーム "wikilink")\[3\]。代表曲は「ぞうきん」「ピーターパン」など\[4\]。

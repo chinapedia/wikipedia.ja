@@ -1,7 +1,7 @@
-> この記事は[What\'s UP SMAP!](https://ja.wikipedia.org/wiki/What\'s_UP_SMAP!)から翻訳されています。
+> この記事は[木村拓哉のWhat\'s UP SMAP!](https://ja.wikipedia.org/wiki/木村拓哉のWhat\'s_UP_SMAP!)から翻訳されています。
 
 
-『**木村拓哉のWhat's UP SMAP\!**』（きむらたくやのワッツアップスマップ）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[木村拓哉](../Page/木村拓哉.md "wikilink")の冠番組である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月に一旦終了したが、同年10月再開。2016年にSMAPが解散し、当番組は唯一「SMAP」の名前を継続したまま続いていたが、2018年7月27日の放送をもって終了した\[1\]。番組の愛称は「ワッツ」。
+『**木村拓哉のWhat's UP SMAP\!**』（きむらたくやのワッツアップスマップ）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[木村拓哉](../Page/木村拓哉.md "wikilink")の冠番組である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月に一旦終了したが、同年10月再開。2016年にSMAPが解散し、当番組は唯一「SMAP」の名前を継続したまま続いていたが、2018年7月27日の放送をもって終了した\[1\]。番組の愛称は「ワッツ」。
 
 ## 概要
 

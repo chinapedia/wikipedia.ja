@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[L・スプレイグ・ディ・キャンプ](https://ja.wikipedia.org/wiki/L・スプレイグ・ディ・キャンプ)から翻訳されています。
 
 
 **ライアン・スプレイグ・ディ・キャンプ**（Lyon Sprague de Camp, [1907年](../Page/1907年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ファンタジー](../Page/ファンタジー.md "wikilink")作家、[SF作家](../Page/SF作家.md "wikilink")。ラストネームの de Camp は日本語では**ド・キャンプ**とも表記される。ファーストネームの Lyon は、ほとんどの場合 **L** とだけ表記され、それ以外では**ライアン**とも**リヨン**とも表記されている。60年の作家活動期間に100冊以上の本を出版しており、中には他のファンタジー作家の[伝記](../Page/伝記.md "wikilink")なども含まれる。

@@ -1,4 +1,4 @@
-> この記事は[TDM](https://ja.wikipedia.org/wiki/TDM)から翻訳されています。
+> この記事は[ヤマハ・TDM](https://ja.wikipedia.org/wiki/ヤマハ・TDM)から翻訳されています。
 
 
 [Yamaha_TDM_850_3VD_4TX_RN08.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_TDM_850_3VD_4TX_RN08.jpg "fig:Yamaha_TDM_850_3VD_4TX_RN08.jpg") **ヤマハTDM**（ティー･ディー･エム）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造・販売している[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）の車種名。
@@ -50,18 +50,29 @@
 
 ## 外部リンク
 
-  - [ヤマハ発動機ニュースリリース 1998年5月28日 TDM850](http://global.yamaha-motor.com/jp/news/1998/0528/tdm850.html#r=s&r=s)
-  - [ヤマハ発動機ニュースリリース 2001年9月27日 TDM900](http://global.yamaha-motor.com/jp/news/2001/0927/tdm900.html#r=s&r=s)
+  - [ヤマハ発動機ニュースリリース 1998年5月28日 TDM850](https://global.yamaha-motor.com/jp/news/1998/0528/tdm850.html#r=s&r=s)
+
+  - [ヤマハ発動機ニュースリリース 2001年9月27日 TDM900](https://global.yamaha-motor.com/jp/news/2001/0927/tdm900.html#r=s&r=s)
+
   - [Yamaha Motor Europe・TDM900（英語サイト）](http://www.yamaha-motor.eu/eu/products/motorcycles/street/tdm900a.aspx)
-  - [5-Valve Parallel-Twin Owners Club "10VALVES" (オーナークラブ)](http://homepage3.nifty.com/10valves/index.html)
+
+  -
   - [プレストコーポレーションTDM900(2010)](http://www.presto-corp.jp/lineups/10_tdm900/index.php)
+
   - [プレストコーポレーションTDM900A(2010)](http://www.presto-corp.jp/lineups/10_tdm900a/index.php)
+
   - [プレストコーポレーションTDM900(2009)](http://www.presto-corp.jp/lineups/09_tdm900/index.php)
+
   - [プレストコーポレーションTDM900A(2009)](http://www.presto-corp.jp/lineups/09_tdm900a/index.php)
+
   - [プレストコーポレーションTDM900(2008)](http://www.presto-corp.jp/lineups/08_tdm900/index.php)
+
   - [プレストコーポレーションTDM900A(2008)](http://www.presto-corp.jp/lineups/08_tdm900a/index.php)
+
   - [プレストコーポレーションTDM900(2007)](http://www.presto-corp.jp/lineups/07_tdm900/index.php)
+
   - [BBB The History 時代を彩ったバイクたち ヤマハ TDM850](http://www.bbb-bike.com/history/data17_1.html)
+
   - [INSIDE THE TDM 850 - 900](http://www.jbx9.t15.org/index.php?page=cmp)
 
 [Category:ヤマハのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ヤマハのオートバイの車種 "wikilink") [Category:デュアルパーパスの車種](https://ja.wikipedia.org/wiki/Category:デュアルパーパスの車種 "wikilink")

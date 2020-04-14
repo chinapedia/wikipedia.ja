@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送研修センター・日本語センター](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター)から翻訳されています。
 
 
 **NHK放送研修センター・日本語センター**（エヌエイチケイほうそうけんしゅうセンター・にほんごセンター）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連団体「[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")NHK放送研修センター」が運営する[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")教室。
@@ -31,11 +31,12 @@
   - [植木彰](https://ja.wikipedia.org/wiki/植木彰 "wikilink")
   - [梅津正樹](../Page/梅津正樹.md "wikilink")
   - [大沢肇](https://ja.wikipedia.org/wiki/大沢肇 "wikilink")
+  - [大野済也](../Page/大野済也.md "wikilink")
   - [岡留正嗣](https://ja.wikipedia.org/wiki/岡留正嗣 "wikilink")
-  - [岡部晃彦](https://ja.wikipedia.org/wiki/岡部晃彦 "wikilink")
-  - [恩蔵憲一](https://ja.wikipedia.org/wiki/恩蔵憲一 "wikilink")
+  - [岡部晃彦](../Page/岡部晃彦.md "wikilink")
+  - [恩蔵憲一](../Page/恩蔵憲一.md "wikilink")
   - [風見雅章](https://ja.wikipedia.org/wiki/風見雅章 "wikilink")\[9\]\[10\]\[11\]
-  - [加藤昌男](https://ja.wikipedia.org/wiki/加藤昌男 "wikilink")\[12\]
+  - [加藤昌男](../Page/加藤昌男.md "wikilink")\[12\]
   - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")
   - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")
   - [蕪木弘道](https://ja.wikipedia.org/wiki/蕪木弘道 "wikilink")
@@ -47,7 +48,7 @@
   - [後藤繁榮](../Page/後藤繁榮.md "wikilink")\[16\]
   - [合田敏行](https://ja.wikipedia.org/wiki/合田敏行 "wikilink")
   - [小沼俊男](https://ja.wikipedia.org/wiki/小沼俊男 "wikilink")
-  - [金野正人](https://ja.wikipedia.org/wiki/金野正人 "wikilink")\[17\]
+  - [金野正人](../Page/金野正人.md "wikilink")\[17\]
   - [斎藤季夫](../Page/斎藤季夫.md "wikilink")
   - [榊寿之](../Page/榊寿之.md "wikilink")
   - [佐藤淳](../Page/佐藤淳_\(NHKアナウンサー\).md "wikilink")
@@ -67,7 +68,7 @@
   - [松井治伸](../Page/松井治伸.md "wikilink")
   - [三宅民夫](../Page/三宅民夫.md "wikilink")
   - [村田昭](https://ja.wikipedia.org/wiki/村田昭_\(アナウンサー\) "wikilink")
-  - [山下俊文](https://ja.wikipedia.org/wiki/山下俊文 "wikilink")\[29\]
+  - [山下俊文](../Page/山下俊文.md "wikilink")\[29\]
   - [渡部英美](../Page/渡部英美.md "wikilink")
 
 </div>

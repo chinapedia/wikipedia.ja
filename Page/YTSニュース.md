@@ -1,4 +1,4 @@
-> この記事は[YTS](https://ja.wikipedia.org/wiki/YTS)から翻訳されています。
+> この記事は[YTSニュース](https://ja.wikipedia.org/wiki/YTSニュース)から翻訳されています。
 
 
 『**YTSニュース**』（ワイティーエスニュース）は、[山形テレビ](../Page/山形テレビ.md "wikilink")で放送されているローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FSA](https://ja.wikipedia.org/wiki/FSA)から翻訳されています。
+> この記事は[FSAプロジェクト](https://ja.wikipedia.org/wiki/FSAプロジェクト)から翻訳されています。
 
 
 [Allie_Mae_Burroughs_print.jpg](https://ja.wikipedia.org/wiki/File:Allie_Mae_Burroughs_print.jpg "fig:Allie_Mae_Burroughs_print.jpg")がFSAプロジェクトで撮影した、大恐慌後の農民の肖像写真。『Allie Mae Burroughs, Hale County, Alabama』、1936年\]\] **FSAプロジェクト**（えふえすえいプロジェクト）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のFSA（Farm Security Administration; 農業安定局または農業保障局）が、[1929年](../Page/1929年.md "wikilink")の[世界恐慌](../Page/世界恐慌.md "wikilink")勃発後のアメリカの（主として南部）農村の惨状およびその復興を記録するため（一方で、農民救済の必要性を訴え、一方で、[ニューディール政策](../Page/ニューディール政策.md "wikilink")の効果をアピールするため）に行ったプロジェクト（[1935年](../Page/1935年.md "wikilink")から[1944年](../Page/1944年.md "wikilink")）である。

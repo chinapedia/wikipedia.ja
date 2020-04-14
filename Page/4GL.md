@@ -96,12 +96,12 @@
       - [ColdFusion](../Page/ColdFusion.md "wikilink")
       - [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")
 
+## 脚注
+
 ## 関連項目
 
   - [ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")
   - [RAD](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

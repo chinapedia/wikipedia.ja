@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ロバート・B・パーカー](https://ja.wikipedia.org/wiki/ロバート・B・パーカー)から翻訳されています。
 
 
 **ロバート・ブラウン・パーカー**（**Robert Brown Parker**, [1932年](../Page/1932年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月18日](../Page/1月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")出身の小説家。

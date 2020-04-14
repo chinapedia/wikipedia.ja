@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レンジャーズFC](https://ja.wikipedia.org/wiki/レンジャーズFC)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Ibrox_Inside.jpg "wikilink")

@@ -1,18 +1,20 @@
 > この記事は[Nanami](https://ja.wikipedia.org/wiki/Nanami)から翻訳されています。
 
 
-**Nanami**（ななみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
+**Nanami**（ななみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")。旧名義は**上原 千夏子**（うえはら ちかこ）。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
+
+なお、同じくモデルで[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")の妹として知られる[NANAMI](https://ja.wikipedia.org/wiki/NANAMI "wikilink")（1994年生まれ）は同名の別人。
 
 ## 略歴
 
-  - ジュニアモデルとして『[ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")』などの[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")で主に活動。
-  - 2005年、第1回ミス[東京ガールズコレクション](../Page/東京ガールズコレクション.md "wikilink")でグランプリを受賞。芸名を**Nanami**に改める。芸名は母が考えたもの。由来は「[七つの海](../Page/大洋.md "wikilink")」を超える様な存在のモデルになって欲しい」という願いから。当初は漢字の「**七海**」にする予定だったが、事務所から「漢字二文字だとバランスが悪い」という理由でローマ字となった\[1\]。
-  - 『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』の専属モデルとして活動し、頻繁に表紙にも登場するなど人気・実力急上昇。[2009年](../Page/2009年.md "wikilink")1月には単独表紙登場も果たした。
+  - ジュニアモデルとして『[ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）などの[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")で主に活動。
+  - 2005年、第1回ミス[東京ガールズコレクション](../Page/東京ガールズコレクション.md "wikilink")でグランプリを受賞。芸名を上原千夏子から**Nanami**に改める。芸名は母が考えたもの。由来は「[七つの海](../Page/大洋.md "wikilink")」を超える様な存在のモデルになって欲しい」という願いから。当初は漢字の「**七海**」にする予定だったが、事務所から「漢字二文字だとバランスが悪い」という理由でローマ字となった\[1\]。
+  - 『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』（[光文社](../Page/光文社.md "wikilink")）の専属モデルとして活動し、頻繁に表紙にも登場するなど人気・実力急上昇。[2009年](../Page/2009年.md "wikilink")1月には単独表紙登場も果たした。
   - 2008年4月から2年間、フジテレビ『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") -[MOTTOいまドキ\!](https://ja.wikipedia.org/wiki/イマドキ "wikilink")- 』にレギュラー出演。
   - 2009年1月からは、日本テレビ『[レコ☆HITS\!](https://ja.wikipedia.org/wiki/レコ☆HITS! "wikilink")』にレギュラー出演。
   - 2009年3月から1年間、フジテレビ『[たまッチ\!](https://ja.wikipedia.org/wiki/たまッチ! "wikilink")』にレギュラー出演。
-  - 『JJ』2009年4月、二度目の単独表紙を飾る。
-  - 2010年2月からは『JJ』だけでなく『[GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")』にも登場し、同じ『GINGER』専属モデルの[菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")と並んで若手のトップモデルとして飛躍が期待されていた。2012年からは活動休止している。
+  - 2009年4月、『JJ』で二度目の単独表紙を飾る。
+  - 2010年2月からは『JJ』だけでなく『[GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")』（[幻冬舎](../Page/幻冬舎.md "wikilink")）にも登場。
 
 ## 人物
 
@@ -22,7 +24,9 @@
 
 ### テレビ
 
-レギュラー
+  - レギュラー
+
+<!-- end list -->
 
   - [レコ☆HITS\!](https://ja.wikipedia.org/wiki/レコ☆HITS! "wikilink")（2009年1月 - 2011年3月、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
@@ -34,7 +38,11 @@
       - 第4金曜日に出演（2009年10月 - ）
       - 2009年4月 - 9月は [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[MTV](../Page/MTV.md "wikilink")にて放送
 
-ゲスト
+<!-- end list -->
+
+  - ゲスト
+
+<!-- end list -->
 
   - [Style/Style](https://ja.wikipedia.org/wiki/Style/Style "wikilink")（2009年6月16日・23日、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
   - [バニラ気分](https://ja.wikipedia.org/wiki/バニラ気分 "wikilink")（2009年8月1日、フジテレビ）
@@ -46,13 +54,13 @@
   - [ショーバト\!](https://ja.wikipedia.org/wiki/ショーバト! "wikilink")（2010年6月、日本テレビ） - VTR出演
   - [イチハチ](https://ja.wikipedia.org/wiki/イチハチ "wikilink")（2010年8月25日、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [爽食卓](https://ja.wikipedia.org/wiki/爽食卓 "wikilink")（2010年9月、[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [浜ちゃんが\!](https://ja.wikipedia.org/wiki/浜ちゃんが! "wikilink")（2010年11月18日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink") - 日本テレビは2010年11月17日。
+  - [浜ちゃんが\!](https://ja.wikipedia.org/wiki/浜ちゃんが! "wikilink")（2010年11月18日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink") / 2010年11月17日、日本テレビ）
   - [ジョシゴエ](https://ja.wikipedia.org/wiki/ジョシゴエ "wikilink")（2011年3月、[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
   - [キャラもん](https://ja.wikipedia.org/wiki/キャラもん "wikilink")（2011年7月12日、読売テレビ）
 
 ### テレビドラマ
 
-  - [3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink") 第6シリーズ（2001年、[TBS](../Page/TBSテレビ.md "wikilink")） - 成迫登美子 役。
+  - [3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink") 第6シリーズ（2001年、[TBS](../Page/TBSテレビ.md "wikilink")） - 成迫登美子 役（上原千夏子 名義）
 
 ### 映画
 
@@ -101,7 +109,7 @@
 
   - [千葉県出身の人物一覧](../Page/千葉県出身の人物一覧.md "wikilink")
 
-[Category:ニコモ](https://ja.wikipedia.org/wiki/Category:ニコモ "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:大妻女子大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大妻女子大学短期大学部出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ニコモ](https://ja.wikipedia.org/wiki/Category:ニコモ "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:大妻女子大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大妻女子大学短期大学部出身の人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  「[踊る\!さんま御殿\!\!](../Page/踊る!さんま御殿!!.md "wikilink")」出演時の発言。
 2.  [カワイイをつくる.com](http://www.kawatsuku.com)

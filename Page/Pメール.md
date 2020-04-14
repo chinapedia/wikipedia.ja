@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[Pメール](https://ja.wikipedia.org/wiki/Pメール)から翻訳されています。
 
 
 **Pメール**（ピーメール）は、[ウィルコム](../Page/ウィルコム.md "wikilink")（旧・DDIポケット）が提供する文字送信システム（[SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")）である。

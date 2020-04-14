@@ -1,4 +1,4 @@
-> この記事は[HII](https://ja.wikipedia.org/wiki/HII)から翻訳されています。
+> この記事は[HII領域](https://ja.wikipedia.org/wiki/HII領域)から翻訳されています。
 
 
 [thumbが撮影した](https://ja.wikipedia.org/wiki/ファイル:Ngc604_hst.jpg "wikilink")[M33銀河の巨大HII領域NGC](../Page/さんかく座銀河.md "wikilink")604\]\] **HII領域**\[1\]（えいちつーりょういき、HII region\[2\]）とは、[電離](https://ja.wikipedia.org/wiki/電離 "wikilink")された[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")が光を放っている天体である。直径数百[光年](../Page/光年.md "wikilink")に達する大きさを持ち、内部で[星形成](../Page/星形成.md "wikilink")が行われている。このガス雲の中で生まれた若い高温の青い星が多量の[紫外線](../Page/紫外線.md "wikilink")を放出し、星の周囲にある星雲を電離することで光っている。

@@ -1,4 +1,4 @@
-> この記事は[TIMES](https://ja.wikipedia.org/wiki/TIMES)から翻訳されています。
+> この記事は[週刊漫画TIMES](https://ja.wikipedia.org/wiki/週刊漫画TIMES)から翻訳されています。
 
 
 『**週刊漫画TIMES**』（しゅうかんまんがタイムス）は、[芳文社](../Page/芳文社.md "wikilink")が発行する[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

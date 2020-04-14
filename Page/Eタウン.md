@@ -1,7 +1,7 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[Eタウン](https://ja.wikipedia.org/wiki/Eタウン)から翻訳されています。
 
 
-『**RCCプロジェクト Eタウン**』（アールシーシープロジェクト　イータウン）は、[中国放送](../Page/中国放送.md "wikilink")（RCC）で毎週[土曜日](../Page/土曜日.md "wikilink") 16:54 - 17:24（[JST](../Page/日本標準時.md "wikilink")）に放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。再放送は月曜深夜25:50 - 26:20（放送時間変更、中止の場合もあり）。
+『**RCCプロジェクト Eタウン**』（アールシーシープロジェクト　イータウン）は、[中国放送](../Page/中国放送.md "wikilink")（RCCテレビ）で毎週[土曜日](../Page/土曜日.md "wikilink") 16:54 - 17:24（[JST](../Page/日本標準時.md "wikilink")）に放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。再放送は月曜深夜25:50 - 26:20（放送時間変更、中止の場合もあり）。
 
 ## 放送概要
 
@@ -95,7 +95,7 @@
 
 ## 外部リンク
 
-  - [RCCプロジェクトE-タウン](http://www.rcc-tv.jp/e-town/)
+  - [RCCプロジェクトE-タウン](https://tv.rcc.jp/e-town/)
 
   -
   -

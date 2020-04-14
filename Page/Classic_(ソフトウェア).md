@@ -1,4 +1,4 @@
-> この記事は[Classic \(\)](https://ja.wikipedia.org/wiki/Classic_\(\))から翻訳されています。
+> この記事は[Classic \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Classic_\(ソフトウェア\))から翻訳されています。
 
 
 **Classic**（クラシック）は、[Mac OS X上で動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")[ハードウェア](../Page/ハードウェア.md "wikilink")[抽象化レイヤー](../Page/抽象化レイヤー.md "wikilink")である。Mac OS Xで[Mac OS 9上で動作する](https://ja.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_9 "wikilink")[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")（クラシックアプリケーション）を使用するために、Mac OS 9そのものをインストールして実行させるための環境である。[PowerPC](../Page/PowerPC.md "wikilink")を使用した[Macintosh](../Page/Macintosh.md "wikilink")にインストールされた[Mac OS X v10.4までのMac](../Page/Mac_OS_X_v10.4.md "wikilink") OS Xのコンポーネントである。実行可能なMac OSはMac OS 9.1以降である\[1\]。

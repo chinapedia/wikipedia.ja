@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAランキング](https://ja.wikipedia.org/wiki/FIFAランキング)から翻訳されています。
 
 
 **FIFAランキング**（正式名称：*FIFA/Coca-Cola World Ranking*）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink") (FIFA) により発表されるランキング。[1993年](../Page/1993年.md "wikilink")から発表が始まり、FIFAに加盟する各国・地域の男子Aナショナルチーム（A代表。年齢制限のない最強の代表）の[国際Aマッチ](../Page/国際Aマッチ.md "wikilink")（A代表同士の公式国際試合）の成績をもとにポイント化し、集計して毎月発表される。正式名称にもあるように、FIFA公式スポンサー最上位のカテゴリーのFIFAパートナーである[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")が協賛。
@@ -294,12 +294,16 @@ AFC加盟国のランキングは[アジアサッカー連盟](../Page/アジア
 ## 外部リンク
 
   - [FIFA公式サイト「FIFA/Coca-Cola World Ranking」](https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html)
-  - [Revision of the FIFA/Coca-Cola World Ranking -FIFA公式サイト2018年7月19日発表から適用・2018年方式FIFAランク計算説明](https://resources.fifa.com/image/upload/revision-of-the-fifa-coca-cola-world-ranking.pdf?cloudid=jgxjkdrj1jfwyunjbkha)
-  - [ランキング作成の概要](http://fifa.com/worldfootball/ranking/procedure/men.html)
-  - [*World Football Elo Ratings*](http://www.eloratings.net)
-  - [*Mark's World Football Rankings*](http://www.rankfootball.com)
-  - [FIFAランキングの謎に迫る（99年方式の解説）](http://www.geocities.co.jp/Athlete/5116/jlank/fifalank.html)
 
+  - [Revision of the FIFA/Coca-Cola World Ranking -FIFA公式サイト2018年7月19日発表から適用・2018年方式FIFAランク計算説明](https://resources.fifa.com/image/upload/revision-of-the-fifa-coca-cola-world-ranking.pdf?cloudid=jgxjkdrj1jfwyunjbkha)
+
+  - [ランキング作成の概要](http://fifa.com/worldfootball/ranking/procedure/men.html)
+
+  - [*World Football Elo Ratings*](http://www.eloratings.net)
+
+  - [*Mark's World Football Rankings*](http://www.rankfootball.com)
+
+  -
 [Category:FIFA](https://ja.wikipedia.org/wiki/Category:FIFA "wikilink") [Category:サッカーのランキング](https://ja.wikipedia.org/wiki/Category:サッカーのランキング "wikilink")
 
 1.  [Poland and Uruguay climb ahead of Russia 2018](https://www.fifa.com/fifa-world-ranking/news/y=2018/m=6/news=poland-and-uruguay-climb-ahead-of-russia-2018.html)FIFA公式HP、2018年6月7日

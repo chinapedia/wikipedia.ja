@@ -1,4 +1,4 @@
-> この記事は[KEB](https://ja.wikipedia.org/wiki/KEB)から翻訳されています。
+> この記事は[KEBハナ銀行](https://ja.wikipedia.org/wiki/KEBハナ銀行)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KEB_head_office.JPG "wikilink")

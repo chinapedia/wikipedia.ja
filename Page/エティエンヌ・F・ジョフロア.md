@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[エティエンヌ・F・ジョフロア](https://ja.wikipedia.org/wiki/エティエンヌ・F・ジョフロア)から翻訳されています。
 
 
 [Affinity-table.jpg](https://ja.wikipedia.org/wiki/File:Affinity-table.jpg "fig:Affinity-table.jpg") **エティエンヌ・フランソワ・ジョフロア**（Etienne Francois Geoffroy, [1672年](../Page/1672年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - [1731年](../Page/1731年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")）は[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で生まれた18世紀[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")・[医師](../Page/医師.md "wikilink")。元素の[親和力の表を作った](https://ja.wikipedia.org/wiki/化学親和力 "wikilink")。

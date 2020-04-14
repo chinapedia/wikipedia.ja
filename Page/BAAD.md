@@ -179,6 +179,7 @@
   - ヴォーカル・コンピレーション 90’s hits vol．1～male～at the BEING studio （M-8.君が好きだと叫びたい）　2003/4/25
   - [THE BEST OF TV ANIMATION SLAM DUNK〜Single Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_TV_ANIMATION_SLAM_DUNK〜Single_Collection〜 "wikilink")（M-1.君が好きだと叫びたい,M-7.ENDLESS CHAIN-CINE VERSION-）　2003/07/21
   - [LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")（DVD、DISC2-M16.君が好きだと叫びたい,DISC2-M35.抱きしめたいもう一度）\[1\]
+  - [キミが好きだと叫びたい 〜Love & Yell〜](../Page/キミが好きだと叫びたい_〜Love_&_Yell〜.md "wikilink")（M-5.君が好きだと叫びたい）　2020/4/8
 
 ## 脚注
 

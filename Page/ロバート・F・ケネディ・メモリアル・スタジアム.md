@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ロバート・F・ケネディ・メモリアル・スタジアム](https://ja.wikipedia.org/wiki/ロバート・F・ケネディ・メモリアル・スタジアム)から翻訳されています。
 
 
 **ロバート・F・ケネディ・メモリアル・スタジアム**（**Robert F. Kennedy Memorial Stadium**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[首都](../Page/首都.md "wikilink")[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")にある市営の多目的[スタジアム](../Page/スタジアム.md "wikilink")である。

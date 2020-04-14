@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEホールディングス](https://ja.wikipedia.org/wiki/JFEホールディングス)から翻訳されています。
 
 
 **JFEホールディングス株式会社**（ジェイエフイーホールディングス、）は、大手[鉄鋼メーカーの](../Page/鋼.md "wikilink")[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")や[JFEエンジニアリング](../Page/JFEエンジニアリング.md "wikilink")、大手造船メーカーの[ジャパン マリンユナイテッドなどを傘下に持つ](https://ja.wikipedia.org/wiki/ジャパン_マリンユナイテッド "wikilink")[持株会社](../Page/持株会社.md "wikilink")である。

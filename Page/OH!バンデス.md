@@ -1,4 +1,4 @@
-> この記事は[OH!](https://ja.wikipedia.org/wiki/OH!)から翻訳されています。
+> この記事は[OH!バンデス](https://ja.wikipedia.org/wiki/OH!バンデス)から翻訳されています。
 
 
 『**OH\!バンデス**』（オー\!バンデス）は、[ミヤギテレビのUスタジオから](../Page/宮城テレビ放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")している[平日](../Page/平日.md "wikilink")[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")（[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")）。『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』を内包している。愛称は、「**バンデス**」。
@@ -516,6 +516,7 @@
         [白壁里沙子](https://ja.wikipedia.org/wiki/白壁里沙子 "wikilink")（[ミヤギテレビアナウンサー](https://ja.wikipedia.org/wiki/ミヤギテレビアナウンサー "wikilink") 、2018年5月3日 - ）
         [安斎摩紀](../Page/安斎摩紀.md "wikilink")（[ミヤギテレビアナウンサー](https://ja.wikipedia.org/wiki/ミヤギテレビアナウンサー "wikilink") ）
         [加藤智也](https://ja.wikipedia.org/wiki/加藤智也 "wikilink")（[ミヤギテレビアナウンサー](https://ja.wikipedia.org/wiki/ミヤギテレビアナウンサー "wikilink")）
+        [庄司梨紗](https://ja.wikipedia.org/wiki/庄司梨紗_\(タレント\) "wikilink")
         東北各地の「わざわざ行ってでも食べたい」ラーメンを紹介するコーナー。宮城県内以外のラーメン店を紹介しているが、2015年5月7日より宮城県内のラーメン店を紹介するコーナー「WAZA-MEN spin off」も不定期で放送されている。
   - 解決\!リョウ様
       -

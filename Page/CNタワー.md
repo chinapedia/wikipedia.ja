@@ -1,4 +1,4 @@
-> この記事は[CN](https://ja.wikipedia.org/wiki/CN)から翻訳されています。
+> この記事は[CNタワー](https://ja.wikipedia.org/wiki/CNタワー)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NEC玉川ルネッサンスシティ](https://ja.wikipedia.org/wiki/NEC玉川ルネッサンスシティ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NEC玉川ルネッサンスシティ.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:ファイル武蔵小杉004.JPG "wikilink") **NEC玉川ルネッサンスシティ**（エヌイーシーたまがわルネッサンスシティ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[中原区](https://ja.wikipedia.org/wiki/中原区 "wikilink")下沼部にある[日本電気](../Page/日本電気.md "wikilink") (NEC) の事業場。

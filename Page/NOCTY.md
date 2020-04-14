@@ -1,7 +1,7 @@
 > この記事は[NOCTY](https://ja.wikipedia.org/wiki/NOCTY)から翻訳されています。
 
 
-**NOCTY**（のくてぃ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")[溝口にある商業ビル](../Page/溝口_\(川崎市\).md "wikilink")。正式名は「ノクティプラザ」。管理運営はみぞのくち新都市株式会社が行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月開業。
+**NOCTY**（のくてぃ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")[溝口にある商業ビル](../Page/溝口_\(川崎市\).md "wikilink")。正式名は「ノクティプラザ」。 大規模小売店法上の名称は、「溝口駅北口地区第一種市街地再開発事業施設建築物」。 管理運営はみぞのくち新都市株式会社が行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月開業。
 
 NOCTYの名称は、溝口の 「のくち」+cityによる。溝口の駅前再開発により建設されたビルのうちの2棟で、駅に近い側にあり主に専門店が入る**ノクティ1**とその東側にあり丸井が核テナントとなっている**ノクティ2**からなる。
 

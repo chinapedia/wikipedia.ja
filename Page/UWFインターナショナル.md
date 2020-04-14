@@ -1,4 +1,4 @@
-> この記事は[UWF](https://ja.wikipedia.org/wiki/UWF)から翻訳されています。
+> この記事は[UWFインターナショナル](https://ja.wikipedia.org/wiki/UWFインターナショナル)から翻訳されています。
 
 
 **UWFインターナショナル**（ユー・ダブリュー・エフ・インターナショナル）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式名称は**ユニオン・オブ・プロフェッショナル・レスリング・フォース・インターナショナル**。略称は**Uインター**（ユー・インター）。

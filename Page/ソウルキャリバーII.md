@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ソウルキャリバーII](https://ja.wikipedia.org/wiki/ソウルキャリバーII)から翻訳されています。
 
 
 『**ソウルキャリバーII**』（ソウルキャリバーツー、**SOULCALIBUR II**）は、[ナムコが発売した](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[3D武器格闘](../Page/対戦型格闘ゲーム.md "wikilink")。“[ソウルシリーズ](../Page/ソウルシリーズ.md "wikilink")”の第3作目。

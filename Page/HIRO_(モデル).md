@@ -1,4 +1,4 @@
-> この記事は[HIRO \(\)](https://ja.wikipedia.org/wiki/HIRO_\(\))から翻訳されています。
+> この記事は[HIRO \(モデル\)](https://ja.wikipedia.org/wiki/HIRO_\(モデル\))から翻訳されています。
 
 
 **HIRO**（ひろ、[1970年](../Page/1970年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデル](../Page/モデル_\(職業\).md "wikilink")・[俳優](../Page/俳優.md "wikilink")である。本名、**関口 寛之**（せきぐち ひろゆき）。株式会社[エス・プログレス](https://ja.wikipedia.org/wiki/エス・プログレス "wikilink")を経て株式会社バークインスタイルに所属。
@@ -50,7 +50,7 @@
   - 『[メンズノンノ](https://ja.wikipedia.org/wiki/メンズノンノ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）
   - 『[MEN'S CLUB](https://ja.wikipedia.org/wiki/MEN'S_CLUB "wikilink")』（[アシェット婦人画報社](../Page/ハースト婦人画報社.md "wikilink")）
   - 『チェックメイト』（[講談社](../Page/講談社.md "wikilink")）
-  - 『[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")』（日之出出版）
+  - 『[FINEBOYS](../Page/FINEBOYS.md "wikilink")』（日之出出版）
   - 『Boon』（[祥伝社](../Page/祥伝社.md "wikilink")）
   - 『ID Japann』
   - 『東京情緒食堂』（アクセスパブリッシング）

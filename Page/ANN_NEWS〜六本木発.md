@@ -1,20 +1,20 @@
-> この記事は[ANN NEWS](https://ja.wikipedia.org/wiki/ANN_NEWS)から翻訳されています。
+> この記事は[ANN NEWS〜六本木発](https://ja.wikipedia.org/wiki/ANN_NEWS〜六本木発)から翻訳されています。
 
 
 **ANN NEWS〜六本木発**（**エイエヌエヌ　ニュース ろっぽんぎはつ**）　は CS放送局である[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")で、[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送されていた[報道番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")スタート。タイトル通り[六本木](../Page/六本木.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")内にあるスタジオ（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「[News Access](../Page/News_Access.md "wikilink")」と同じ）から放送している。
+[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")スタート。タイトル通り[六本木](../Page/六本木.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")内にあるスタジオ（[BS朝日](../Page/ビーエス朝日.md "wikilink")「[News Access](../Page/News_Access.md "wikilink")」と同じ）から放送している。
 
 放送時間は、月曜〜金曜の11時、12時、13時、14時、17時、18時からの6回。14時のみ[2005年](../Page/2005年.md "wikilink")4月からスタート（2005年5月頃から14時は、13時の再放送）。
 
-13時のニュースは、冒頭のオープニング、及びタイトルを除き、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「[お昼のNews Access](../Page/News_Access.md "wikilink")」と同じ内容を放送していた（これは、使用されるスタジオが同じだったためである）。
+13時のニュースは、冒頭のオープニング、及びタイトルを除き、[BS朝日](../Page/ビーエス朝日.md "wikilink")「[お昼のNews Access](../Page/News_Access.md "wikilink")」と同じ内容を放送していた（これは、使用されるスタジオが同じだったためである）。
 その為項目テロップは、13時、14時だけ「お昼のNews Access」のテロップだった(それ以外の時間は通常の「ANNニュース」のテロップ)。
 
 内容は、ストレートニュースと株価情報(祝日は休止)を放送。終了時間は不定だったが、約8分間の放送だった。なお、13時の枠については、13:08:30で終了していた(BS朝日はこの後スタジオ映像に切り替わっていた)。
 
-放送で使用されるニュース素材は[地上波](../Page/地上波.md "wikilink")の「[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")」や「[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/ANNスーパーJチャンネル "wikilink")」で放送された物が主となっていた。中継の映像の時はテロップの「中継」の部分が「報告」に変えられている事がある。また18時のニュースでは、「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」の映像をそのまま使用(テロップの差し替えなし)していたことが多かった。
+放送で使用されるニュース素材は[地上波](../Page/地上波.md "wikilink")の「[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")」や「[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」で放送された物が主となっていた。中継の映像の時はテロップの「中継」の部分が「報告」に変えられている事がある。また18時のニュースでは、「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」の映像をそのまま使用(テロップの差し替えなし)していたことが多かった。
 
 フラッシュニュースで使用されているBGMは「スパモニニュースBOX(第2部)」と同じもので、かつて平日昼の「ANNニュース」のフラッシュニュースで使用されていたものであった。
 

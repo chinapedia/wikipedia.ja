@@ -1,4 +1,4 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[BC級戦犯](https://ja.wikipedia.org/wiki/BC級戦犯)から翻訳されています。
 
 
 **BC級戦犯**（BCきゅうせんぱん）は、 [連合国によって布告された](../Page/連合国_\(第二次世界大戦\).md "wikilink")[国際軍事裁判所条例及び](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#ロンドン国際軍事裁判所憲章 "wikilink")[極東国際軍事裁判条例における戦争犯罪類型B項](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#極東国際軍事裁判所条例 "wikilink")「[通例の戦争犯罪](https://ja.wikipedia.org/wiki/通例の戦争犯罪 "wikilink")」またはC項「[人道に対する罪](../Page/人道に対する罪.md "wikilink")」に該当する[戦争犯罪](../Page/戦争犯罪.md "wikilink")または戦争犯罪人とされる罪状に問われた個人\[1\]の総称。A項の[平和に対する罪](../Page/平和に対する罪.md "wikilink")で訴追された者は「[A級戦犯](../Page/A級戦犯.md "wikilink")」と呼ぶ\[2\]。

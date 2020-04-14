@@ -1,4 +1,4 @@
-> この記事は[Aiko@llnightnippon.com](https://ja.wikipedia.org/wiki/Aiko@llnightnippon.com)から翻訳されています。
+> この記事は[Aikoの@llnightnippon.com](https://ja.wikipedia.org/wiki/Aikoの@llnightnippon.com)から翻訳されています。
 
 
 『**aikoの@llnightnippon.com**』（アイコのオールナイトニッポンコム）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（[LF+R](../Page/LF+R.md "wikilink")）以下全国36局ネット（スタート当初は35局ネット）で、[1999年](../Page/1999年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

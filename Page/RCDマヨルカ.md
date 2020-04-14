@@ -1,7 +1,7 @@
-> この記事は[RCD](https://ja.wikipedia.org/wiki/RCD)から翻訳されています。
+> この記事は[RCDマヨルカ](https://ja.wikipedia.org/wiki/RCDマヨルカ)から翻訳されています。
 
 
-**レアル・クルブ・デポルティーボ・マヨルカSAD** [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")（, , , ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")州[パルマ・デ・マヨルカ](../Page/パルマ・デ・マヨルカ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")に本拠地を置くサッカークラブの中でもっとも歴史が古い。2019-20シーズンは[ラ・リーガ](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属。RCDマジョルカと表記されることもある。
+**レアル・クルブ・デポルティーボ・マヨルカSAD** [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")（, , , ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")州[パルマ・デ・マヨルカ](../Page/パルマ・デ・マヨルカ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")に本拠地を置くサッカークラブの中でもっとも歴史が古い。[ラ・リーガ](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属。RCDマジョルカと表記されることもある。
 
 ## 歴史
 

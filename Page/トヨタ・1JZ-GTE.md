@@ -1,4 +1,4 @@
-> この記事は[1JZ-GTE](https://ja.wikipedia.org/wiki/1JZ-GTE)から翻訳されています。
+> この記事は[トヨタ・1JZ-GTE](https://ja.wikipedia.org/wiki/トヨタ・1JZ-GTE)から翻訳されています。
 
 
 **トヨタ・1JZ-GTE**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")製エンジンをベースに[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が開発および生産し、トヨタに供給していた[自動車](../Page/自動車.md "wikilink")の[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")付き[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")。大きく分けて、2機種存在する。

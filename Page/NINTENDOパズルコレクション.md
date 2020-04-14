@@ -1,4 +1,4 @@
-> この記事は[NINTENDO](https://ja.wikipedia.org/wiki/NINTENDO)から翻訳されています。
+> この記事は[NINTENDOパズルコレクション](https://ja.wikipedia.org/wiki/NINTENDOパズルコレクション)から翻訳されています。
 
 
 『**NINTENDOパズルコレクション**』（ニンテンドー パズルコレクション）は[任天堂](../Page/任天堂.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に日本で発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")専用の[アクションパズル](../Page/アクションパズル.md "wikilink")ゲームである。開発は[インテリジェントシステムズ](../Page/インテリジェントシステムズ.md "wikilink")など。当時のプロモーション動画では**パズコレ**の略称が用いられた。日本国外では未発売。「NINTENDO」の部分は大文字表記である。

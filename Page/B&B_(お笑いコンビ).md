@@ -1,4 +1,4 @@
-> この記事は[B\&B \(\)](https://ja.wikipedia.org/wiki/B\&B_\(\))から翻訳されています。
+> この記事は[B\&B \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/B\&B_\(お笑いコンビ\))から翻訳されています。
 
 
 **B\&B**（ビー アンド ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")コンビ。[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身の**[島田洋七](../Page/島田洋七.md "wikilink")**（しまだ ようしち、[1950年](../Page/1950年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") - ）が、相方を4度変えたコンビ名である。本稿は特に[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[笠岡市](../Page/笠岡市.md "wikilink")出身の**[島田洋八](../Page/島田洋八.md "wikilink")**（しまだ ようはち、[1950年](../Page/1950年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）と組んだ三代目B\&Bについて詳述している。このコンビの東京進出が**[漫才ブーム](../Page/漫才ブーム.md "wikilink")**を誘発・点火させた\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]。

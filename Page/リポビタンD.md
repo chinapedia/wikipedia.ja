@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[リポビタンD](https://ja.wikipedia.org/wiki/リポビタンD)から翻訳されています。
 
 
 **リポビタンD**（リポビタン・デー、**Lipovitan D**）は、[大正製薬](../Page/大正製薬.md "wikilink")が販売する[栄養ドリンク](../Page/栄養ドリンク.md "wikilink")剤であり、同社の登録[商標](../Page/商標.md "wikilink")（第528525号ほか）である。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「ファイト\!一発\!」、略称は**リポD**（リポ・デー）。
@@ -59,7 +59,7 @@ CM路線については「偉大なる[マンネリ](https://ja.wikipedia.org/wi
   - 2016年 - 2019年 ：[三浦知良](../Page/三浦知良.md "wikilink")（[プロサッカー選手](https://ja.wikipedia.org/wiki/プロフェッショナル_\(サッカー\) "wikilink")／当時：[横浜FC](../Page/横浜FC.md "wikilink")）、[大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")（プロ野球選手／当時：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")）\[22\]
   - 2015年 - 2020年： ラグビー日本代表\[23\]、「最強の自分」篇\[24\]（2019年7月から。使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）
   - 2019年 - 2020年： [ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink")の施設準備をする人々が登場する「支える人を支えたい」篇\[25\]、[リーチマイケル](https://ja.wikipedia.org/wiki/リーチマイケル "wikilink")「日本への熱き想い」篇\[26\]、[堀江翔太](https://ja.wikipedia.org/wiki/堀江翔太 "wikilink")「諦めない強さ」篇、働く人々がそれぞれの仕事着でラグビーをする「立ち向かう人」篇\[27\]（それぞれ使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）
-  - 2020年 - ： [三浦知良](../Page/三浦知良.md "wikilink")「I can」篇（使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）、[八村塁](https://ja.wikipedia.org/wiki/八村塁 "wikilink")\[28\]
+  - 2020年 - ： [三浦知良](../Page/三浦知良.md "wikilink")「I can」篇（2020年2月から。使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）、 [八村塁](https://ja.wikipedia.org/wiki/八村塁 "wikilink")「でかい夢」篇（2020年3月から）\[28\]
 
 <!-- end list -->
 

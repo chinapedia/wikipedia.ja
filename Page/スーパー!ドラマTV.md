@@ -1,4 +1,4 @@
-> この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
+> この記事は[スーパー!ドラマTV](https://ja.wikipedia.org/wiki/スーパー!ドラマTV)から翻訳されています。
 
 
 **スーパー\! ドラマTV**（**Super\! drama TV**）は、株式会社[スーパーネットワーク](../Page/スーパーネットワーク.md "wikilink")が運営している[海外ドラマ](../Page/海外ドラマ.md "wikilink")の[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")や[スカパー\!（旧・スカパー\!e2）などの衛星放送](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")や[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")などの[IP放送](../Page/IP放送.md "wikilink")で視聴することができる。

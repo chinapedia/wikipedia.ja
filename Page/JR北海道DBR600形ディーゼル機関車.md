@@ -1,4 +1,4 @@
-> この記事は[JRDBR600](https://ja.wikipedia.org/wiki/JRDBR600)から翻訳されています。
+> この記事は[JR北海道DBR600形ディーゼル機関車](https://ja.wikipedia.org/wiki/JR北海道DBR600形ディーゼル機関車)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Hokkaido_HTR-622.JPG "wikilink")）\]\] **DBR600形ディーゼル機関車**（DBR600がたディーゼルきかんしゃ）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[2000年](../Page/2000年.md "wikilink")（平成12年）に2両製造した除雪用[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である\[1\]。

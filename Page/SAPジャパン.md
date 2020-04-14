@@ -1,4 +1,4 @@
-> この記事は[SAP](https://ja.wikipedia.org/wiki/SAP)から翻訳されています。
+> この記事は[SAPジャパン](https://ja.wikipedia.org/wiki/SAPジャパン)から翻訳されています。
 
 
 **SAPジャパン**（エスエイピー・ジャパン）は、企業向け基盤システムである[ERP](../Page/企業資源計画.md "wikilink") (Enterprise Resource Planning)[パッケージなどを提供するヨーロッパ最大級の大手](../Page/パッケージソフトウェア.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社[SAP SEの日本法人](../Page/SAP_\(企業\).md "wikilink")。
@@ -118,7 +118,7 @@ SAPジャパンは国内のデータセンターから稼働率99.9%のアプリ
 
   - [SAPジャパン株式会社](http://www.sap.com/japan/)
 
-[Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:日本のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:日本のソフトウェア会社 "wikilink") [Category:コンサルティングファーム](https://ja.wikipedia.org/wiki/Category:コンサルティングファーム "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
+[Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:日本のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:日本のソフトウェア会社 "wikilink") [Category:日本のコンサルティングファーム](https://ja.wikipedia.org/wiki/Category:日本のコンサルティングファーム "wikilink") [Category:1992年設立の企業](https://ja.wikipedia.org/wiki/Category:1992年設立の企業 "wikilink")
 
 1.  [国内ソフトウェア市場、2014年は2兆5531億、2019年には3兆円超へ―IDC Japanが発表](https://enterprisezine.jp/article/detail/6921)
 2.  [「調達のデジタル化」は何をもたらすか、SAP Ariba社長に聞く](http://ascii.jp/elem/000/001/139/1139267/)

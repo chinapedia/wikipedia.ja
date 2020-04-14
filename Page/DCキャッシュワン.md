@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[DCキャッシュワン](https://ja.wikipedia.org/wiki/DCキャッシュワン)から翻訳されています。
 
 
 **株式会社DCキャッシュワン** (ディーシー ) は、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink") (MUFG) にかつて存在した[銀行系消費者金融会社である](https://ja.wikipedia.org/wiki/消費者金融#銀行系消費者金融 "wikilink")。

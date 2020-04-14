@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[Lばんスーパーニュース](https://ja.wikipedia.org/wiki/Lばんスーパーニュース)から翻訳されています。
 
 
 **Lばんスーパーニュース**（えるばん・すーぱーにゅーす）は、[福島テレビ](../Page/福島テレビ.md "wikilink")で月曜日から金曜日の16:54 - 19:00に放送されていた[福島県](../Page/福島県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース](../Page/報道番組.md "wikilink")・情報番組である。

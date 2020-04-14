@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSブリタニカ](https://ja.wikipedia.org/wiki/TBSブリタニカ)から翻訳されています。
 
 
 **TBSブリタニカ**（登記上の商号は**株式会社ティビーエス・ブリタニカ**、英字表記：*TBS-BRITANNICA Co.,Ltd.*）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")である。[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")[目黒](../Page/目黒_\(目黒区\).md "wikilink")1丁目に本社を置いていた。

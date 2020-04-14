@@ -1,4 +1,4 @@
-> この記事は[Beautiful](https://ja.wikipedia.org/wiki/Beautiful)から翻訳されています。
+> この記事は[坂上みきのBeautiful](https://ja.wikipedia.org/wiki/坂上みきのBeautiful)から翻訳されています。
 
 
 **坂上みきのBeautiful**（さかじょうみきのビューティフル）は[TOKYO FMで放送された平日午後のワイド番組である](../Page/エフエム東京.md "wikilink")。

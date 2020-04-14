@@ -1,4 +1,4 @@
-> この記事は[OFC](https://ja.wikipedia.org/wiki/OFC)から翻訳されています。
+> この記事は[OFCネイションズカップ](https://ja.wikipedia.org/wiki/OFCネイションズカップ)から翻訳されています。
 
 
 **OFCネイションズカップ**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられた。

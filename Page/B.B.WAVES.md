@@ -17,8 +17,14 @@
 
 ## 小学生メンバー
 
-  - [BABY WAVES](https://ja.wikipedia.org/wiki/BABY_WAVES "wikilink")
-      - [Folder](../Page/Folder_\(音楽グループ\).md "wikilink")
+  -   - [Folder](../Page/Folder_\(音楽グループ\).md "wikilink")
+          - [三浦大知](../Page/三浦大知.md "wikilink")
+          - [宮里明那](../Page/AKINA_\(歌手\).md "wikilink")
+          - [仲間愛里紗](https://ja.wikipedia.org/wiki/arie "wikilink")
+          - [満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")
+          - 阿嘉奈津
+          - [石原萌](https://ja.wikipedia.org/wiki/石原萌 "wikilink")
+          - 仲間丈
       - [喜友名星](https://ja.wikipedia.org/wiki/喜友名星 "wikilink")
       - [安座間美優](https://ja.wikipedia.org/wiki/安座間美優 "wikilink")
       - [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")

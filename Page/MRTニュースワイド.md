@@ -1,4 +1,4 @@
-> この記事は[MRT](https://ja.wikipedia.org/wiki/MRT)から翻訳されています。
+> この記事は[MRTニュースワイド](https://ja.wikipedia.org/wiki/MRTニュースワイド)から翻訳されています。
 
 
 『**MRTニュースワイド**』（エムアールティーニュースワイド）は、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRTテレビ）でかつて平日夕方に放送されていた[宮崎県](../Page/宮崎県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[九州](../Page/九州.md "wikilink")の[JNN系列局初のニュースワイド番組](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ vs.](https://ja.wikipedia.org/wiki/_vs.)から翻訳されています。
+> この記事は[機動戦士ガンダム ガンダムvs.Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムvs.Ζガンダム)から翻訳されています。
 
 
 『**機動戦士ガンダム ガンダムvs.Ζガンダム**』（きどうせんしガンダム ガンダムバーサスゼータガンダム）は、[2004年](../Page/2004年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")と[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[カプコン](../Page/カプコン.md "wikilink")製作、[バンダイ](../Page/バンダイ.md "wikilink")発売のゲームソフト。『[機動戦士Ζガンダム エゥーゴvs.ティターンズDX](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズDX.md "wikilink")』の家庭用という位置づけであり、ゲームシステムも同じである。

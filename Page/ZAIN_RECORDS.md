@@ -84,9 +84,9 @@
 
 **ZAIN RECORDS**（メインレーベル）
 
+  - [小野塚晃](../Page/小野塚晃.md "wikilink")
   - [近藤房之助](../Page/近藤房之助.md "wikilink")
   - [DIMENSION](../Page/DIMENSION.md "wikilink")
-      - [小野塚晃](../Page/小野塚晃.md "wikilink")
       - [勝田一樹](../Page/勝田一樹.md "wikilink")
       - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")

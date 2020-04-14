@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNテレビ静岡スーパーニュース](https://ja.wikipedia.org/wiki/FNNテレビ静岡スーパーニュース)から翻訳されています。
 
 
 『**FNNテレビ静岡スーパーニュース**』（エフエヌエヌ テレビしずおかスーパーニュース）は、[テレビ静岡](../Page/テレビ静岡.md "wikilink")で夕方に放送されていた[静岡県](../Page/静岡県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包）。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

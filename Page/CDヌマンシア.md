@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDヌマンシア](https://ja.wikipedia.org/wiki/CDヌマンシア)から翻訳されています。
 
 
 **CDヌマンシア**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カスティーリャ・イ・レオン州](../Page/カスティーリャ・イ・レオン州.md "wikilink")[ソリア県](../Page/ソリア県.md "wikilink")[ソリア](../Page/ソリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

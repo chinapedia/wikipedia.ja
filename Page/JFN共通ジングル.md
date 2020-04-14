@@ -1,4 +1,4 @@
-> この記事は[JFN](https://ja.wikipedia.org/wiki/JFN)から翻訳されています。
+> この記事は[JFN共通ジングル](https://ja.wikipedia.org/wiki/JFN共通ジングル)から翻訳されています。
 
 
 **JFN共通ジングル**（ジェイエフエヌきょうつうジングル）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）系列局で使われている[ジングルである](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から使用を開始したが、一部の放送局では使用を取りやめている。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[パームビーチにある](../Page/パームビーチ_\(フロリダ州\).md "wikilink")[FM局](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")・[WRMFで使われているジングルが元になっている](https://ja.wikipedia.org/wiki/:en:WRMF "wikilink")。
@@ -96,27 +96,27 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）</p></td>
+<td><p>“FM KAGAWA 786（ななはちろく）”</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
+<td><p>“Hi-six FM KOCHI”</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/エフエム徳島.md" title="wikilink">エフエム徳島</a>（FM TOKUSHIMA）</p></td>
 <td><p>○</p></td>
 <td><p>“FM TOKUSHIMA 80.7”</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）</p></td>
-<td><p>●</p></td>
-<td><p>“FM KAGAWA 786（ななはちろく）”</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
-<td><p>“Hi-six FM KOCHI”</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）</p></td>
+<td><p>●</p></td>
 <td><p>“FM FUKUOKA”</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -7,9 +7,11 @@
 
 ## 概要
 
-[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")の[BS朝日開局時から続く定時ニュース番組で](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")の衛星放送版に相当する。キャスターは[テレビ朝日](../Page/テレビ朝日.md "wikilink")[アナウンサーやアナウンサーを目指す](../Page/日本のアナウンサー.md "wikilink")[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")らが交代で担当する。
+[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")の[BS朝日開局時から続く定時ニュース番組で](../Page/ビーエス朝日.md "wikilink")、[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")の衛星放送版に相当する。キャスターは[テレビ朝日](../Page/テレビ朝日.md "wikilink")[アナウンサーや](../Page/日本のアナウンサー.md "wikilink")[テレビ朝日アスク](../Page/テレビ朝日アスク.md "wikilink")に通っている[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")らが交代で担当する。
 
-2012年[3月19日](../Page/3月19日.md "wikilink")からは同じBSデジタル放送の[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")（2013年3月終了）、同年[4月1日](../Page/4月1日.md "wikilink")からは[CSデジタル放送の](../Page/スカパー!プレミアムサービス.md "wikilink")[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")（現在の[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")2）でも放送される。
+2012年[3月19日](../Page/3月19日.md "wikilink")からは同じBSデジタル放送の[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")（2013年3月終了）、同年[4月1日](../Page/4月1日.md "wikilink")からは[CSデジタル放送の](../Page/スカパー!プレミアムサービス.md "wikilink")[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")
+
+（現在の[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")2）でも放送される。
 
 天気予報のナレーションは[佐藤紀子](../Page/佐藤紀子_\(アナウンサー\).md "wikilink")（元テレビ朝日アナウンサー）。
 
@@ -94,7 +96,7 @@
   - [前田阿希子](../Page/前田阿希子.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）
   - 丸井汐里（☆[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")キャスター）
   - [三ツ木麻喜](../Page/三ツ木麻喜.md "wikilink")（元静岡朝日テレビ）
-  - [柳瀬若菜](../Page/柳瀬若菜.md "wikilink")（☆青森放送）
+  - [柳瀬若菜](../Page/柳瀬若菜.md "wikilink")（元青森放送）
   - [吉澤一彦](../Page/吉澤一彦.md "wikilink")
   - [吉田沙織](https://ja.wikipedia.org/wiki/吉田沙織_\(アナウンサー\) "wikilink")（☆九州朝日放送）
 

@@ -1,4 +1,4 @@
-> この記事は[RAVE \(\)](https://ja.wikipedia.org/wiki/RAVE_\(\))から翻訳されています。
+> この記事は[RAVE \(漫画\)](https://ja.wikipedia.org/wiki/RAVE_\(漫画\))から翻訳されています。
 
 
 『**RAVE**』（レイヴ）は、[真島ヒロ](../Page/真島ヒロ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[冒険活劇](https://ja.wikipedia.org/wiki/冒険活劇 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）の[1999年](../Page/1999年.md "wikilink")32号から[2005年](../Page/2005年.md "wikilink")35号まで連載された。全35巻が発売され、漫画では「THE GROOVE ADVENTURE RAVE」「RAVE \[レイヴ\]」、テレビアニメでは「GROOVE ADVENTURE RAVE」というロゴ表記がされており、文字タイトルでもそのように扱われる場合がある。

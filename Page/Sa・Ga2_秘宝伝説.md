@@ -1,4 +1,4 @@
-> この記事は[SaGa2 ](https://ja.wikipedia.org/wiki/SaGa2_)から翻訳されています。
+> この記事は[Sa・Ga2 秘宝伝説](https://ja.wikipedia.org/wiki/Sa・Ga2_秘宝伝説)から翻訳されています。
 
 
 『**Sa・Ga2 秘宝伝説**』（サ・ガ ツー ひほうでんせつ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）12月14日に[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）から[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")（以下、GB）用ソフトとして発売された[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。[サガシリーズ](../Page/サガシリーズ.md "wikilink")第2作。[北米版のタイトルは](../Page/北アメリカ.md "wikilink")『**』（ファイナル・ファンタジー・レジェンド・ツー）であり、[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")外伝の扱いになっている。

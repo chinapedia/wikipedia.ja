@@ -159,7 +159,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
   - 2018年6月13日、9thアルバム『NINTH』を発売。
   - 2018年4月、自身度目となるワールドツアー「WORLD TOUR 19 THE NINTH PHASE \#04 -99.999-」を北米、南米、EU、アジア全世界12か国（地域）16公演で開催。
   - 2019年9月23日、全61公演に及ぶツアー千秋楽を、超満員の横浜アリーナで開催。
-  - 2020年3月10日、18周年記念公演 「18TH ANNIVERSARY DAY/6576」を自身初となる武蔵野の森総合スポーツプラザ メインアリーナでの開催を予定。
+  - 2020年3月10日、18周年記念公演 「18TH ANNIVERSARY DAY/6576」を自身初となる武蔵野の森総合スポーツプラザ メインアリーナでの開催を予定。⇒新型コロナウイルスの影響で中止を発表。
 
 ## ディスコグラフィ
 
@@ -566,6 +566,8 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 | 16            | **the GazettE TOUR 15-16 DOGMATIC FINAL -漆黒- LIVE AT 02.28 國立代々木競技場第一體育館 【DVD\&Blu-ray】**                                                               | 2016年11月9日  |                                     |
 | 17            | **the GazettE WORLD TOUR 16 DOCUMENTARY DOGMATIC -TROIS- 【DVD\&Blu-ray】**                                                                               | 2017年1月25日  |                                     |
 | 18            | **HALLOWEEN NIGHT 17 THE DARK HORROR SHOW SPOOKY BOX 2** **【DVD\&Blu-ray】** **\[アビス -ABYSS-\]\[LUCY -ルーシー- \]LIVE AT 10.30 AND 10.31 TOYOSU PIT TOKYO** | 2018年2月28日  |                                     |
+| 19            | **LIVE TOUR18-19 THE NINTH / FINAL「第九」LIVE AT 09.23 YOKOHAMA ARENA** **【DVD\&Blu-ray】**                                                                 | 2020年3月4日   | 初回限定盤A・Bは豪華LPサイズ仕様/撮り下ろしPhoto Book  |
+| 20            | **LIVE IN NEW YORK\&WORLD TOUR19 DOCUMENTARY THE NINTH \[99.999\]** **【DVD\&Blu-ray】**                                                                  | 2020年3月4日   | 通常盤ONLY                             |
 |               |                                                                                                                                                         |             |                                     |
 
 #### PV集
@@ -948,7 +950,18 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
 <td><p>TOUR 2006[DECOMPOSITION BEAUTY]</p></td>
-<td></td>
+<td><p>11月28日 札幌市民会館</p>
+<p>11月30日 仙台電力ホール</p>
+<p>12月1日 郡山市民文化センター中ホール</p>
+<p>12月6日 富山県教育会館</p>
+<p>12月7日 金沢文化ホール</p>
+<p>12月12日 愛媛県県民文化会館サブホール</p>
+<p>12月13日 香川県県民ホール・アクトホール</p>
+<p>12月15日 メルパルクホールFUKUOKA</p>
+<p>12月19日 三重県文化会館中ホール</p>
+<p>12月20日 愛知県勤労会館</p>
+<p>12月22日 広島アステールプラザ大ホール</p>
+<p>12月24日 大阪厚生年金会館大ホール</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-> この記事は[G-men \(\)](https://ja.wikipedia.org/wiki/G-men_\(\))から翻訳されています。
+> この記事は[G-men \(雑誌\)](https://ja.wikipedia.org/wiki/G-men_\(雑誌\))から翻訳されています。
 
 
 **G-men**（ジーメン）とは、日本の[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")である。発行は株式会社[メディレクト](https://ja.wikipedia.org/wiki/メディレクト "wikilink")（旧、古川書房）。

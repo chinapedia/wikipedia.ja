@@ -1,4 +1,4 @@
-> この記事は[-pH](https://ja.wikipedia.org/wiki/-pH)から翻訳されています。
+> この記事は[電位-pH図](https://ja.wikipedia.org/wiki/電位-pH図)から翻訳されています。
 
 
 [Pourbaix_Diagram_of_Iron.svg](https://ja.wikipedia.org/wiki/File:Pourbaix_Diagram_of_Iron.svg "fig:Pourbaix_Diagram_of_Iron.svg") **電位-pH図**（でんいピーエイチず、もしくは、でんいペーハーず）とは、水中における化学種（特に[金属](../Page/金属.md "wikilink")）の存在領域を電極[電位](../Page/電位.md "wikilink")と[pHの](../Page/水素イオン指数.md "wikilink")2次元座標上に図示したものである。[1938年](../Page/1938年.md "wikilink")に[マルセル・プールベ](https://ja.wikipedia.org/wiki/マルセル・プールベ "wikilink")が発表した。**プールベダイアグラム**(Pourbaix Diagram)、**プールベ図**、**E-pH図**とも呼ばれる。

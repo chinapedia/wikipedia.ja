@@ -1,4 +1,4 @@
-> この記事は[XG](https://ja.wikipedia.org/wiki/XG)から翻訳されています。
+> この記事は[XGフォーマット](https://ja.wikipedia.org/wiki/XGフォーマット)から翻訳されています。
 
 
 [Yamaha_ymf744b_v.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_ymf744b_v.jpg "fig:Yamaha_ymf744b_v.jpg") **XGフォーマット**（エックスジーフォーマット）とは[1994年](../Page/1994年.md "wikilink")に[ヤマハ](../Page/ヤマハ.md "wikilink")が提唱した[MIDI](../Page/MIDI.md "wikilink")の規格である。\[1\]

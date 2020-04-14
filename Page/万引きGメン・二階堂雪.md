@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[万引きGメン・二階堂雪](https://ja.wikipedia.org/wiki/万引きGメン・二階堂雪)から翻訳されています。
 
 
 『**万引きGメン・二階堂雪**』（まんびきジーめん・にかいどうゆき）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2011年](../Page/2011年.md "wikilink")まで[TBS系で放送された](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。全20回。主演は[木の実ナナ](https://ja.wikipedia.org/wiki/木の実ナナ "wikilink")。

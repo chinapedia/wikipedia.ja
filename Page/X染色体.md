@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X染色体](https://ja.wikipedia.org/wiki/X染色体)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Human_male_karyotpe_high_resolution_-_Chromosome_X.png "wikilink")（男性）の染色体構造におけるX染色体\]\] **X染色体**（エックスせんしょくたい）とは[有性生殖](../Page/有性生殖.md "wikilink")をする[真核生物](../Page/真核生物.md "wikilink")にみられる[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")の一種である。雌が性染色体として[相同](../Page/相同.md "wikilink")染色体の対を持つとき、それをX染色体と呼ぶ。このとき、雄はX染色体と共に[Y染色体](../Page/Y染色体.md "wikilink")を組として持つか(XY型)、あるいは対にならないX染色体のみを持つ([XO型](../Page/XO型.md "wikilink"))。このような性決定様式は雄がヘテロ型であるため「雄ヘテロ型」と呼ぶ。

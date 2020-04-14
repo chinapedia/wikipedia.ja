@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEエンジニアリング](https://ja.wikipedia.org/wiki/JFEエンジニアリング)から翻訳されています。
 
 
 **JFEエンジニアリング株式会社**（[英文社名](../Page/英語.md "wikilink") *JFE Engineering Corporation*）は、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")[システム](../Page/システム.md "wikilink")や[環境](../Page/環境.md "wikilink")システム、[水処理](../Page/水処理.md "wikilink")システム、鋼製構造物、[産業機械](../Page/産業機械.md "wikilink")などの[設計](../Page/設計.md "wikilink")、[建設](../Page/建設.md "wikilink")を行う、[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")傘下の[会社](../Page/会社.md "wikilink")である。日本鋼管と川崎製鉄の統合により、日本鋼管の鉄鋼事業を[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")（旧川崎製鉄）に移管し、法人としての日本鋼管と同社のエンジニアリング事業を継承した会社である。

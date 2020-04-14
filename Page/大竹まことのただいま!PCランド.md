@@ -1,4 +1,4 @@
-> この記事は[!PC](https://ja.wikipedia.org/wiki/!PC)から翻訳されています。
+> この記事は[大竹まことのただいま!PCランド](https://ja.wikipedia.org/wiki/大竹まことのただいま!PCランド)から翻訳されています。
 
 
 『**大竹まことのただいま\!PCランド**』（おおたけまことのただいま ピーシーランド）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）。テレビ東京系列局では[1989年](../Page/1989年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、毎週火曜 18:00 - 18:30 ([JST](../Page/日本標準時.md "wikilink")) に放送。番組のメインスポンサーは、[NECホームエレクトロニクスと](../Page/日本電気ホームエレクトロニクス.md "wikilink")[ハドソン](../Page/ハドソン.md "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[提供クレジット](../Page/提供クレジット.md "wikilink")の表示は無かったが、系列外・テープネットの[青森テレビ](../Page/青森テレビ.md "wikilink")では[ハドソン](../Page/ハドソン.md "wikilink")のみの提供クレジットの表示があった。

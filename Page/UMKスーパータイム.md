@@ -1,4 +1,4 @@
-> この記事は[UMK](https://ja.wikipedia.org/wiki/UMK)から翻訳されています。
+> この記事は[UMKスーパータイム](https://ja.wikipedia.org/wiki/UMKスーパータイム)から翻訳されています。
 
 
 『**UMKスーパータイム**』（ユーエムケー スーパータイム）は、[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[宮崎県](../Page/宮崎県.md "wikilink")ローカルパートに相当。

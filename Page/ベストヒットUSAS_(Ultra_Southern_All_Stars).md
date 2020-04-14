@@ -1,4 +1,4 @@
-> この記事は[USAS \(Ultra Southern All Stars\)](https://ja.wikipedia.org/wiki/USAS_\(Ultra_Southern_All_Stars\))から翻訳されています。
+> この記事は[ベストヒットUSAS \(Ultra Southern All Stars\)](https://ja.wikipedia.org/wiki/ベストヒットUSAS_\(Ultra_Southern_All_Stars\))から翻訳されています。
 
 
 『**ベストヒットUSAS (Ultra Southern All Stars)**』（ベストヒットユー・エス・エー・エス ウルトラ・サザンオールスターズ） は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")集。[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")で発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

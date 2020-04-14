@@ -1,4 +1,4 @@
-> この記事は[YOSAKOI](https://ja.wikipedia.org/wiki/YOSAKOI)から翻訳されています。
+> この記事は[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り)から翻訳されています。
 
 
 **YOSAKOIソーラン祭り**（よさこいソーランまつり）とは、YOSAKOIソーラン祭り組織委員会が主催する毎年6月上旬に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で行われる[イベント](../Page/イベント.md "wikilink")。
@@ -421,7 +421,7 @@
 <tr class="odd">
 <td><p>第9回</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><em>ファイナルコンテスト中止（後述）</em></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -655,7 +655,7 @@ YOSAKOI連</small></p></td>
 
 しかし、平均視聴率自体は第16回（2007年）の13.2%以降、第17回（2008年）の10.8%、第18回（2009年）の8.4%と毎年減少し続けている（ビデオリサーチ調べ、札幌地区・世帯・リアルタイム。以下略）。このため、共催団体だった新聞社や放送局の参加が減少していき、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[FMノースウェーブ](https://ja.wikipedia.org/wiki/FMノースウェーブ "wikilink")（2007年のみ）が撤退、[2009年](../Page/2009年.md "wikilink")には[読売新聞](../Page/読売新聞.md "wikilink")北海道支社、[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[北海道放送](../Page/北海道放送.md "wikilink")（HBC）と[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）\[19\]、[2011年](../Page/2011年.md "wikilink")には[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB：2014年復帰）が共催団体から撤退しており\[20\]、2013年現在は北海道新聞社、札幌テレビ放送（STV）、テレビ北海道（TVh）の3社のみとなっている。
 
-さらに、最終日のファイナルコンテストは2009年まで、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）制作により、北海道テレビ放送での道内放送に加えて[BS朝日を通じ全国に生中継されていたが](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink") 、2010年はテレビ朝日系列が[2010 FIFAワールドカップ中継を設定して放送枠がなくなったため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）の制作により、テレビ北海道での道内放送に加えて[BSジャパン（現：BSテレ東）を通じ全国放送された](../Page/BSテレビ東京.md "wikilink")。その後、全国放送も20周年を迎える2011年からは行われなくなった。
+さらに、最終日のファイナルコンテストは2009年まで、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）制作により、北海道テレビ放送での道内放送に加えて[BS朝日を通じ全国に生中継されていたが](../Page/ビーエス朝日.md "wikilink") 、2010年はテレビ朝日系列が[2010 FIFAワールドカップ中継を設定して放送枠がなくなったため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）の制作により、テレビ北海道での道内放送に加えて[BSジャパン（現：BSテレ東）を通じ全国放送された](../Page/BSテレビ東京.md "wikilink")。その後、全国放送も20周年を迎える2011年からは行われなくなった。
 
 [2012年](../Page/2012年.md "wikilink")も、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")が長年にわたって『[北海道クローズアップ](https://ja.wikipedia.org/wiki/北海道クローズアップ "wikilink")』と『[北スペシャル](https://ja.wikipedia.org/wiki/北スペシャル "wikilink")』枠を使って放送してきた、「北スペシャル拡大版YOSAKOIソーランナイト」が放送されないことになったが、これは当日に[ロンドンオリンピック代表選考会を兼ねた](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックの陸上競技 "wikilink")『[第96回日本陸上競技選手権大会](https://ja.wikipedia.org/wiki/第96回日本陸上競技選手権大会 "wikilink")』初日を[全国](../Page/全国放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")するための措置でそれ以降、NHKでソーランナイトを中継する事はなかった。さらに、HTBも[イチオシ\!](https://ja.wikipedia.org/wiki/イチオシ! "wikilink")内での3日目の四番街会場中継が[2016年](../Page/2016年.md "wikilink")からは放送されなくなった。
 
@@ -755,7 +755,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 <!-- end list -->
 
   - テレビ朝日 （2007年）
-  - [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink") （2007年）
+  - [BS朝日](../Page/ビーエス朝日.md "wikilink") （2007年）
 
 ### 協賛関係
 

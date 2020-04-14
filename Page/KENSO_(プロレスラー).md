@@ -1,4 +1,4 @@
-> この記事は[KENSO \(\)](https://ja.wikipedia.org/wiki/KENSO_\(\))から翻訳されています。
+> この記事は[KENSO \(プロレスラー\)](https://ja.wikipedia.org/wiki/KENSO_\(プロレスラー\))から翻訳されています。
 
 
 **KENSO**\[1\]（ケンソー、[1974年](../Page/1974年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")、[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")。本名：**鈴木 健三**（すずき けんぞう）。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[碧南市](../Page/碧南市.md "wikilink")出身。血液型はO型。

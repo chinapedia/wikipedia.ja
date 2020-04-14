@@ -1,4 +1,4 @@
-> この記事は[UMK](https://ja.wikipedia.org/wiki/UMK)から翻訳されています。
+> この記事は[UMKニュースレポート](https://ja.wikipedia.org/wiki/UMKニュースレポート)から翻訳されています。
 
 
 『**UMKニュースレポート**』（ユーエムケー ニュースレポート）は、[1979年](../Page/1979年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")まで[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

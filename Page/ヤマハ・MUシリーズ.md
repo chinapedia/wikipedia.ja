@@ -1,4 +1,4 @@
-> この記事は[MU](https://ja.wikipedia.org/wiki/MU)から翻訳されています。
+> この記事は[ヤマハ・MUシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・MUシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_mu2000.jpg "wikilink") **MUシリーズ**（ミュー・シリーズ）とは[ヤマハ](../Page/ヤマハ.md "wikilink")の[DTM用](../Page/デスクトップミュージック.md "wikilink")[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。

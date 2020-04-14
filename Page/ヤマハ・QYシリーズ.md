@@ -1,4 +1,4 @@
-> この記事は[QY](https://ja.wikipedia.org/wiki/QY)から翻訳されています。
+> この記事は[ヤマハ・QYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・QYシリーズ)から翻訳されています。
 
 
 [Yamaha_QY10.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_QY10.jpg "fig:Yamaha_QY10.jpg") **QYシリーズ**（キューワイ・シリーズ）とは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）に[ヤマハ](../Page/ヤマハ.md "wikilink")から発売された**QY10**をはじめとする音源内蔵型[シーケンサー専用機](../Page/ミュージックシーケンサー.md "wikilink")（ハードシーケンサー）の型番・商品名である。25年間に渡って商品展開された。

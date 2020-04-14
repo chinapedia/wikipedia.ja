@@ -1,4 +1,4 @@
-> この記事は[EVE](https://ja.wikipedia.org/wiki/EVE)から翻訳されています。
+> この記事は[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ)から翻訳されています。
 
 
 **EVEシリーズ**（イブ・シリーズ）は、[姫屋ソフト](../Page/姫屋ソフト.md "wikilink")のゲームブランドの[シーズウェア](../Page/シーズウェア.md "wikilink")が製作した[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")シリーズ。

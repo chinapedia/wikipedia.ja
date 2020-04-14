@@ -1,4 +1,4 @@
-> この記事は[SAMSON \(\)](https://ja.wikipedia.org/wiki/SAMSON_\(\))から翻訳されています。
+> この記事は[SAMSON \(雑誌\)](https://ja.wikipedia.org/wiki/SAMSON_\(雑誌\))から翻訳されています。
 
 
 **SAMSON**（サムソン）は、日本の[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")の一つである。

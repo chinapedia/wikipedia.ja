@@ -48,7 +48,7 @@
 <td><p>作詞：小田佳奈子&amp;すみれ<br />
 作曲：すみれ<br />
 編曲：明石昌夫</p></td>
-<td><p>49位</p></td>
+<td><p>圏外</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>

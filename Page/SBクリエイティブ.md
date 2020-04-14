@@ -1,7 +1,7 @@
-> この記事は[SB](https://ja.wikipedia.org/wiki/SB)から翻訳されています。
+> この記事は[SBクリエイティブ](https://ja.wikipedia.org/wiki/SBクリエイティブ)から翻訳されています。
 
 
-**SBクリエイティブ株式会社**（*SB Creative Corp.*）は、[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")傘下で、デジタルコンテンツ事業、[出版事業を行う日本の企業](../Page/出版社.md "wikilink")。IT関連書籍やライトノベルなどの出版、Webメディアの運営、ハーレクインコミックなどの[電子書籍](../Page/電子書籍.md "wikilink")配信、[デジタルサイネージ](../Page/デジタルサイネージ.md "wikilink")事業を手掛ける。
+**SBクリエイティブ株式会社**（*SB Creative Corp.*）は、[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")傘下で、デジタルコンテンツ事業、[出版事業](../Page/出版社.md "wikilink")、営業支援事業を行う日本の企業。IT関連書籍やライトノベルなどの出版、ハーレクインコミックの[電子書籍](../Page/電子書籍.md "wikilink")配信\[1\]、[デジタルサイネージ](../Page/デジタルサイネージ.md "wikilink")、ビジネス関連サイトを手掛ける。
 
 ## 概要
 
@@ -20,12 +20,12 @@
       - 3月 - ソフトバンク株式会社の出版事業部の分社化により**ソフトバンク パブリッシング株式会社**を設立。
       - 12月 - 100%子会社としてソフトバンク・ジーディーネット株式会社（現・[アイティメディア株式会社](../Page/ITmedia.md "wikilink")）を設立。
   - [2000年](../Page/2000年.md "wikilink")
-      - 3月 - 米LaunchMedia社、ヤフー株式会社、株式会社東京放送との共同出資で音楽情報サイトを運営するロンチ・ジャパン株式会社を設立\[1\]。
+      - 3月 - 米LaunchMedia社、ヤフー株式会社、株式会社東京放送との共同出資で音楽情報サイトを運営するロンチ・ジャパン株式会社を設立\[2\]。
       - 3月 - **ソフトバンク・メディア・アンド・マーケティング株式会社**に商号変更し、出版事業をソフトバンク パブリッシング株式会社（二代目法人）に分社して、純粋持株会社へ移行。
       - 5月 - 本社を赤坂に移転。
-      - 7月 - 米ウェブエムディ社との共同出資で医療情報サービスを提供するウェブエムディ株式会社を設立\[2\]。
-      - 7月 - 米Rivals.com社との共同出資でスポーツ情報サイトを運営するライバルズ株式会社を設立\[3\]。
-      - 10月 - ソフトバンク パブリッシング株式会社と株式会社オービスの共同出資で会員制競馬情報サービス提供する合弁会社株式会社ジャジャ・エンタテイメントを設立\[4\]。
+      - 7月 - 米ウェブエムディ社との共同出資で医療情報サービスを提供するウェブエムディ株式会社を設立\[3\]。
+      - 7月 - 米Rivals.com社との共同出資でスポーツ情報サイトを運営するライバルズ株式会社を設立\[4\]。
+      - 10月 - ソフトバンク パブリッシング株式会社と株式会社オービスの共同出資で会員制競馬情報サービス提供する合弁会社株式会社ジャジャ・エンタテイメントを設立\[5\]。
   - [2004年](../Page/2004年.md "wikilink")3月 - ソフトバンク・メディア・アンド・マーケティング株式会社を存続会社として子会社株式会社コンパス、ライバルズ株式会社、株式会社バークスを吸収合併。
   - [2005年](../Page/2005年.md "wikilink")
       - 8月 - 株式移転により完全親会社、ソフトバンク メディアマーケティング ホールディングス株式会社（現・SBメディアホールディングス株式会社）を設立。
@@ -49,7 +49,7 @@
   - [2014年](../Page/2014年.md "wikilink")1月 - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")株式会社の協力を受け、小売店向けデジタルサイネージ「インテリジェント・シェルフ」を開発。
   - [2016年](../Page/2016年.md "wikilink")4月 - 子会社としてツギクル株式会社を設立。
   - [2017年](../Page/2017年.md "wikilink")2月 - 鹿児島県[錦江町](../Page/錦江町.md "wikilink")とサテライトオフィス利用促進のための環境整備に関する共同研究を開始。
-  - [2018年](../Page/2018年.md "wikilink")2月 - 女性向けの総合電子書籍サイト「ロマンスブックカフェ」を株式会社[アクセルエンターメディア](https://ja.wikipedia.org/wiki/アクセルエンターメディア "wikilink")に譲渡\[5\]。
+  - [2018年](../Page/2018年.md "wikilink")2月 - 女性向けの総合電子書籍サイト「ロマンスブックカフェ」を株式会社[アクセルエンターメディア](https://ja.wikipedia.org/wiki/アクセルエンターメディア "wikilink")に譲渡\[6\]。
 
 ## 主な発行物
 
@@ -135,17 +135,17 @@
 ### かつて運営していたWebサイト
 
   - [BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
-  - COM-PATH\[6\]
+  - COM-PATH\[7\]
   - jaja-uma.com
-  - スポニチプラス（[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")との共同運営）\[7\]
-  - おはなし絵本クラブ\[8\]
+  - スポニチプラス（[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")との共同運営）\[8\]
+  - おはなし絵本クラブ\[9\]
   - Flipbook
-  - SBPストア→SBCrショップ\[9\]
+  - SBPストア→SBCrショップ\[10\]
   - SOFTBANK V
   - GA Graphic
   - にゅーあきば.com
-  - プチたび\[10\]
-  - creative people:photo(クリエイティブピープル フォト)\[11\]※写真共有サイト
+  - プチたび\[11\]
+  - creative people:photo(クリエイティブピープル フォト)\[12\]※写真共有サイト
   - あ～ゆ～あ～くりえぃたぁ？（サイエンス・アイ編集長運営）
 
 ## 関連会社
@@ -175,7 +175,7 @@
       - [ツギクル](https://www.tugikuru.jp/) - 子会社運営の次世代型コンテンツポータルサイト
   - [SBメディアホールディングス](https://www.sbmm-holdings.co.jp/) - 親会社
 
-[Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:SBクリエイティブ](https://ja.wikipedia.org/wiki/Category:SBクリエイティブ "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:コンピュータに関する出版社](https://ja.wikipedia.org/wiki/Category:コンピュータに関する出版社 "wikilink") [Category:電子書籍](https://ja.wikipedia.org/wiki/Category:電子書籍 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")
+[Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:SBクリエイティブ](https://ja.wikipedia.org/wiki/Category:SBクリエイティブ "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:コンピュータに関する出版社](https://ja.wikipedia.org/wiki/Category:コンピュータに関する出版社 "wikilink") [Category:漫画出版社](https://ja.wikipedia.org/wiki/Category:漫画出版社 "wikilink") [Category:電子書籍](https://ja.wikipedia.org/wiki/Category:電子書籍 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")
 
 1.
 2.
@@ -188,3 +188,4 @@
 9.
 10.
 11.
+12.

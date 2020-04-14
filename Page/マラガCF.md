@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[マラガCF](https://ja.wikipedia.org/wiki/マラガCF)から翻訳されています。
 
 
 **マラガ・クルブ・デ・フトボル**（、）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[マラガ](../Page/マラガ.md "wikilink")に本拠地を置く[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")の[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）に所属している。[アンダルシア州](../Page/アンダルシア州.md "wikilink")で最も歴史あるクラブのひとつである。
@@ -13,7 +13,7 @@
 
 ### 2000年代初頭の台頭
 
-2000年代初頭のマラガは有望な若手とトップレベルの選手たちを抱えており、より近代的で先進的なスタジアムの所有を誇っていた。[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権には届かなかったが、大きな支持を集めた[ホアキン・ペイロ](https://ja.wikipedia.org/wiki/ホアキン・ペイロ "wikilink")監督の下で常に成功を収めた。2002年には[UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink")に出場し、[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")（ベルギー）、[ヴィレムII](../Page/ヴィレムII.md "wikilink")（オランダ）、躍進中の[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")（スペイン）を破り、クラブ史上初となる国際大会でのトロフィーを獲得した。2002-03シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では[FKゼレズニチャル・サライェヴォ](https://ja.wikipedia.org/wiki/FKゼレズニチャル・サライェヴォ "wikilink")（ボスニア・ヘルツェゴビナ）、[AEKアテネFC](https://ja.wikipedia.org/wiki/AEKアテネFC "wikilink")（ギリシャ）などを撃破し、準々決勝で[ボアヴィスタFC](../Page/ボアヴィスタFC.md "wikilink")（ポルトガル）にPK戦の末に敗れたものの、大会前の期待以上のベスト8という成功を収めた。ペイロ監督の引退後にはチームの解体が緩やかに始まり、[ダリオ・シルバ](../Page/ダリオ・シルバ.md "wikilink")、[キキ・ムサンパ](https://ja.wikipedia.org/wiki/キキ・ムサンパ "wikilink")、[フリオ・デリー・バルデス](../Page/フリオ・デリー・バルデス.md "wikilink")、[ペドロ・コントレラス](https://ja.wikipedia.org/wiki/ペドロ・コントレラス "wikilink")などがクラブを去った。2003年夏には[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督が就任した。2003-04シーズンのホームでのFCバルセロナ戦では[サルバがハットトリックを達成するなどし](../Page/サルバ・バジェスタ.md "wikilink")、クラブ史上最高の5-1というスコアでカタルーニャの巨人を粉砕した。また、テルセーラ・ディビシオンに所属していたBチームが2002年にはセグンダB、2003年に[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")と立て続けに昇格を果たしその後3シーズンをセグンダで戦った。
+2000年代初頭のマラガは有望な若手とトップレベルの選手たちを抱えており、より近代的で先進的なスタジアムの所有を誇っていた。[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権には届かなかったが、大きな支持を集めた[ホアキン・ペイロ](../Page/ホアキン・ペイロ.md "wikilink")監督の下で常に成功を収めた。2002年には[UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink")に出場し、[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")（ベルギー）、[ヴィレムII](../Page/ヴィレムII.md "wikilink")（オランダ）、躍進中の[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")（スペイン）を破り、クラブ史上初となる国際大会でのトロフィーを獲得した。2002-03シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")では[FKゼレズニチャル・サライェヴォ](https://ja.wikipedia.org/wiki/FKゼレズニチャル・サライェヴォ "wikilink")（ボスニア・ヘルツェゴビナ）、[AEKアテネFC](https://ja.wikipedia.org/wiki/AEKアテネFC "wikilink")（ギリシャ）などを撃破し、準々決勝で[ボアヴィスタFC](../Page/ボアヴィスタFC.md "wikilink")（ポルトガル）にPK戦の末に敗れたものの、大会前の期待以上のベスト8という成功を収めた。ペイロ監督の引退後にはチームの解体が緩やかに始まり、[ダリオ・シルバ](../Page/ダリオ・シルバ.md "wikilink")、[キキ・ムサンパ](https://ja.wikipedia.org/wiki/キキ・ムサンパ "wikilink")、[フリオ・デリー・バルデス](../Page/フリオ・デリー・バルデス.md "wikilink")、[ペドロ・コントレラス](https://ja.wikipedia.org/wiki/ペドロ・コントレラス "wikilink")などがクラブを去った。2003年夏には[ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink")監督が就任した。2003-04シーズンのホームでのFCバルセロナ戦では[サルバがハットトリックを達成するなどし](../Page/サルバ・バジェスタ.md "wikilink")、クラブ史上最高の5-1というスコアでカタルーニャの巨人を粉砕した。また、テルセーラ・ディビシオンに所属していたBチームが2002年にはセグンダB、2003年に[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")と立て続けに昇格を果たしその後3シーズンをセグンダで戦った。
 
 ### 緩やかな後退と財政難
 
@@ -1303,7 +1303,7 @@
 
   - アントニオ・ベニテス 1994-1995
 
-  - [ホアキン・ペイロ](https://ja.wikipedia.org/wiki/ホアキン・ペイロ "wikilink") 1998-2003
+  - [ホアキン・ペイロ](../Page/ホアキン・ペイロ.md "wikilink") 1998-2003
 
   - [ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink") 2003-2004
 

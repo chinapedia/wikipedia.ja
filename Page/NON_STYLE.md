@@ -16,7 +16,6 @@
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")（まれに[ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")）。未婚。身長163cm（公称165cm）、[神戸学院大学](../Page/神戸学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒。
     立ち位置は向かって右。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。大阪府大阪市出身。[ジャケット](../Page/ジャケット.md "wikilink")の下に[タンクトップ](../Page/タンクトップ.md "wikilink")の衣装を着用することが多かったが、最近ではワイシャツを着ている。ナルシストになりきる場面ではボケ役になる。
     個人で[Day of the legend](../Page/Day_of_the_legend.md "wikilink")（ミュージシャン）としても活動。また、期間限定でロックバンド[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のサポートメンバーとしても活動していた。
-    井上
 
 ## 来歴
 

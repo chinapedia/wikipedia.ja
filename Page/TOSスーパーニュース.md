@@ -1,4 +1,4 @@
-> この記事は[TOS](https://ja.wikipedia.org/wiki/TOS)から翻訳されています。
+> この記事は[TOSスーパーニュース](https://ja.wikipedia.org/wiki/TOSスーパーニュース)から翻訳されています。
 
 
 『**TOSスーパーニュース**』（ティーオーエススーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*TOS Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ大分](../Page/テレビ大分.md "wikilink")で[夕](../Page/夕.md "wikilink")方に放送されていた[大分県](../Page/大分県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

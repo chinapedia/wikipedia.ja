@@ -1,4 +1,4 @@
-> この記事は[UK](https://ja.wikipedia.org/wiki/UK)から翻訳されています。
+> この記事は[UKラジオエイド](https://ja.wikipedia.org/wiki/UKラジオエイド)から翻訳されています。
 
 
 **UKラジオエイド** ([英語](../Page/英語.md "wikilink"): **UK Radio Aid**) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](../Page/2005年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[インド洋大津波の犠牲者に向けての義援金を募るために行われた](../Page/スマトラ島沖地震.md "wikilink")[商業放送](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の[チャリティー](../Page/チャリティー.md "wikilink")イベント、及びそれを[生中継した](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")名である。

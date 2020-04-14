@@ -1,4 +1,4 @@
-> この記事は[TV!!!](https://ja.wikipedia.org/wiki/TV!!!)から翻訳されています。
+> この記事は[世界超密着TV!ワレワレハ地球人ダ!!](https://ja.wikipedia.org/wiki/世界超密着TV!ワレワレハ地球人ダ!!)から翻訳されています。
 
 
 『**世界超密着TV\!ワレワレハ地球人ダ\!\!**』（せかいちょうみっちゃくテレビ ワレワレハちきゅうじんダ）は、[2000年](../Page/2000年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドキュメントバラエティ](../Page/ドキュメントバラエティ.md "wikilink")番組である。全35回。

@@ -1,4 +1,4 @@
-> この記事は[APG](https://ja.wikipedia.org/wiki/APG)から翻訳されています。
+> この記事は[APG体系](https://ja.wikipedia.org/wiki/APG体系)から翻訳されています。
 
 
 **APG体系**（エーピジーたいけい）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に公表された[被子植物](../Page/被子植物.md "wikilink")の新しい[分類](../Page/分類.md "wikilink")体系である。

@@ -71,7 +71,7 @@
 
 メジャーデビュー以降は、[2006年](../Page/2006年.md "wikilink")と[2014年](../Page/2014年.md "wikilink")を除き、ほぼ毎年コンスタントにアルバムをリリースしている（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は「[長田進](https://ja.wikipedia.org/wiki/長田進 "wikilink")withGRAPEVINE」名義でのリリース）。[2012年](../Page/2012年.md "wikilink")にメジャーデビュー15周年を迎えた。
 
-[2014年](../Page/2014年.md "wikilink")、デビュー当時から在籍していた[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")を離れ、[SPEEDSTAR RECORDSへレーベル移籍することを発表](../Page/SPEEDSTAR_RECORDS.md "wikilink")\[12\]。[SPACE SHOWER MUSICとのマネージメント契約締結も併せて発表された](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")\[13\]。
+[2014年](../Page/2014年.md "wikilink")、デビュー当時から在籍していた[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")を離れ、[数か月間のどこにも所属しない期間を経た後、SPEEDSTAR RECORDSへレーベル移籍することを発表](../Page/SPEEDSTAR_RECORDS.md "wikilink")\[12\]。[SPACE SHOWER MUSICとのマネージメント契約締結も併せて発表された](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")\[13\]。レーベル移籍後、以前はしなかったようなMVでの演技や、メディアへの積極的な露出が増えたことについて、田中は「契約の時になんでもしますんで」という約束をしたことを挙げている。
 
 ## エピソード
 
@@ -268,7 +268,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/その未来/アダバナ" title="wikilink">その未来/アダバナ</a></strong></p></td>
 <td><p>22位</p></td>
 <td><p>PCCA.70118</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/déraciné" title="wikilink">déraciné</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/deracine_(アルバム)" title="wikilink">déraciné</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
@@ -419,7 +419,7 @@ VICL-37275（通常盤）</p></td>
 
 #### オリジナルアルバム
 
-  - 「[退屈の花](https://ja.wikipedia.org/wiki/退屈の花 "wikilink")」から「[déraciné](https://ja.wikipedia.org/wiki/déraciné "wikilink")」までのアルバムは、「[From a smalltown](../Page/From_a_smalltown.md "wikilink")」発売時に低価格・限定盤として再発売された。
+  - 『[退屈の花](https://ja.wikipedia.org/wiki/退屈の花 "wikilink")』から『[déraciné](https://ja.wikipedia.org/wiki/deracine_\(アルバム\) "wikilink")』までのアルバムは、『[From a smalltown](../Page/From_a_smalltown.md "wikilink")』発売時に低価格・限定盤として再発売された。
 
 <table>
 <thead>
@@ -494,7 +494,7 @@ PCJA.00051（アナログ盤）</p></td>
 <td><p>7th</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a><br />
 <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a>（再発盤）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/déraciné" title="wikilink">déraciné</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/deracine_(アルバム)" title="wikilink">déraciné</a></strong></p></td>
 <td><p>19位</p></td>
 <td><p>CD</p></td>
 <td><p>PCCA.02167</p></td>
@@ -973,7 +973,7 @@ VIZL-769:DVD</p></td>
 | [野田真也](https://ja.wikipedia.org/wiki/野田真也 "wikilink")                     | 「[CORE](https://www.youtube.com/watch?v=YKWab29gAjw)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [早坂直哉](https://ja.wikipedia.org/wiki/早坂直哉 "wikilink")                     | 「女たち」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")       | 「[そら](https://www.youtube.com/watch?v=qC_pitwrFZs)」「[覚醒](https://www.youtube.com/watch?v=xV-WJpqF4_Q)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [フカツマサカズ](https://ja.wikipedia.org/wiki/フカツマサカズ "wikilink")               | 「[EVIL EYE](https://www.youtube.com/watch?v=ZR-p3CucUx4)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [フカツマサカズ](../Page/フカツマサカズ.md "wikilink")                                  | 「[EVIL EYE](https://www.youtube.com/watch?v=ZR-p3CucUx4)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [村本天志](../Page/村本大志.md "wikilink")                                        | 「[会いにいく](https://www.youtube.com/watch?v=BcPfxn5cHWc)」「会いにいく (メンバーなしVer.)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | [山口保幸](../Page/山口保幸.md "wikilink")                                        | 「[BLUE BACK](https://www.youtube.com/watch?v=v8SVfriFbeE)」「ドリフト160(改)」「[ナツノヒカリ](https://www.youtube.com/watch?v=nKjotEAE_vs)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | [八若道洋](https://ja.wikipedia.org/wiki/八若道洋 "wikilink")                     | 「[ぼくらなら](https://www.youtube.com/watch?v=OZAlXI01hCU)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

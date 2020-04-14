@@ -105,7 +105,7 @@ the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilin
 
 [2018年](../Page/2018年.md "wikilink")5月、『RETURN TO THIRD MOVEMENT\! Vol.2』としてアルバム『RUNNERS HIGH』『HAPPY BIVOUAC』収録の全楽曲の再現ライブが行われ、同時に2枚のアルバムのアナログ盤も発売された。9月、通算22枚目のアルバム『[REBROADCAST](https://ja.wikipedia.org/wiki/REBROADCAST "wikilink")』が発売され、同年11月～翌年3月にかけて『REBROADCAST TOUR』が開催される。また、同年公開されたアニメーション映画『[フリクリ](../Page/フリクリ.md "wikilink")』の続編に書き下ろし新曲を2曲提供し、[東宝](../Page/東宝.md "wikilink")よりアルバム『[FooL on CooL generation](https://ja.wikipedia.org/wiki/FooL_on_CooL_generation "wikilink")』をリリース。新曲のほか、12曲の旧曲が全て再レコーディングされ収録されている。
 
-2018年9月より、「Thank you, my highlight」と冠した30周年企画がスタート。アルバム、ツアーの他、アメリカツアーのドキュメントやドキュメンタリーではない劇場用映画「[王様になれ](https://ja.wikipedia.org/wiki/王様になれ "wikilink")」の製作、さらには横浜アリーナ公演も予定されている。
+2018年9月より、「Thank you, my highlight」と冠した30周年企画がスタート。アルバム、ツアーの他、アメリカツアーのドキュメントやドキュメンタリーではない劇場用映画「[王様になれ](https://ja.wikipedia.org/wiki/王様になれ "wikilink")」が製作され、2019年9月に公開された。さらに2019年10月17日、結成30周年記念ライブ『LOSTMAN GO TO YOKOHAMA ARENA』が横浜アリーナにて開催された。
 
 ## 作品
 
@@ -1361,6 +1361,21 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Rebroadcast/ I think I can/Freebee Honey/Spiky Seeds/Binary Star/Skim Heaven/王様になれ/ニンゲンドモ/ぼくのともだち/箱庭のアクト/Starry fandango/眩しい闇のメロディー/MARCH OF THE GOD/WALKIN' ON THE SPIRAL/プライベートキングダム/About A Rock'n'Roll Band/BOON BOON ROCK/No Surrender/Before going to bed/Bye Bye Me/Star overhead/Locomotion, more! more!</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>27th</p></td>
+<td><p>the pillows "30th Anniversary THANK YOU, MY HIGHLIGHT" LOSTMAN GO TO YOKOHAMA ARENA 2019.10.17 at YOKOHAMA ARENA</p></td>
+<td><p>the pillowsが結成30周年を記念して2019年10月17日に、横浜アリーナで行ったライブを完全収録したLive Blu-ray&amp;DVD。アニバーサリーライブらしくthe pillowsの魅力を一望できる新旧楽曲を織り交ぜた、約2時間半の構成となっている。</p></td>
+<td><p>2020年3月18日 初回限定版:Blu-ray（Blu-ray+2CD）QEXD-90005（BUMP-094）</p>
+<p>通常版:Blu-ray QEXD-10005（BUMP-095）</p>
+<p>初回限定版:DVD（DVD+2CD） QEBD-90005（BUMP-092）</p>
+<p>通常版:DVD QEBD-10005（BUMP-093）</p></td>
+</tr>
+<tr class="odd">
+<td><p>この世の果てまで/MY FOOT/Blues Drive Monster/アナザーモーニング/スケアクロウ/バビロン 天使の詩/I know you/サリバンになりたい/LAST DINOSAUR/Please Mr. Lostman/No Surrender/Kim Deal/ぼくは かけら/1989/ニンゲンドモ/雨上がりに見た幻/サード アイ/Advice/Swanky Street/About A Rock'n'Roll Band /LITTLE BUSTERS/Ready Steady Go!/ストレンジ カメレオン/ハイブリッド レインボウ/Ride on shooting star/Funny Bunny/Locomotion, more! more!</p></td>
 <td></td>
 <td></td>
 <td></td>

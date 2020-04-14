@@ -1,4 +1,4 @@
-> この記事は[ \(Suica\)](https://ja.wikipedia.org/wiki/_\(Suica\))から翻訳されています。
+> この記事は[ペンギン \(Suicaキャラクター\)](https://ja.wikipedia.org/wiki/ペンギン_\(Suicaキャラクター\))から翻訳されています。
 
 
 **ペンギン**、**Suicaのペンギン**（Suica's Penguin）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の発売するプリペイド[ICカード](../Page/ICカード.md "wikilink")である[Suica](../Page/Suica.md "wikilink")カード、またはSuica関連のウェブサイト等に登場するマスコット[キャラクター](../Page/キャラクター.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[DON!](https://ja.wikipedia.org/wiki/DON!)から翻訳されています。
+> この記事は[カープDON!](https://ja.wikipedia.org/wiki/カープDON!)から翻訳されています。
 
 
 『**カープDON\!**』（カープドン）は、[1994年](../Page/1994年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送された[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。前身番組は『[カープBAN](https://ja.wikipedia.org/wiki/カープBAN "wikilink")』で、それ以前にも『[燃えろ赤ヘル](https://ja.wikipedia.org/wiki/燃えろ赤ヘル "wikilink")』や『[カープNOW](https://ja.wikipedia.org/wiki/カープNOW "wikilink")』（後の『Carp Now』）といった同種の番組が放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[TOKIO CLUB](https://ja.wikipedia.org/wiki/TOKIO_CLUB)から翻訳されています。
+> この記事は[城島茂のTOKIO CLUB](https://ja.wikipedia.org/wiki/城島茂のTOKIO_CLUB)から翻訳されています。
 
 
 『**城島茂のTOKIO CLUB**』（じょうしましげるのトキオクラブ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキー局として[JRN各局で放送されていたラジオ番組](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")。

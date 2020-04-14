@@ -1,4 +1,4 @@
-> この記事は[NOSAWA](https://ja.wikipedia.org/wiki/NOSAWA)から翻訳されています。
+> この記事は[NOSAWA論外](https://ja.wikipedia.org/wiki/NOSAWA論外)から翻訳されています。
 
 
 **NOSAWA論外**（ノサワろんがい、[1976年](../Page/1976年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**野澤 一茂**（のさわ かずしげ）。
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [ジュニア・タッグリーグ戦](https://ja.wikipedia.org/wiki/ジュニア・タッグリーグ戦 "wikilink")優勝（パートナーはMAZADA）
+  - [ジュニア・タッグリーグ戦優勝](https://ja.wikipedia.org/wiki/JUNIOR_HYPER_TAG_LEAGUE "wikilink")（パートナーはMAZADA）
   - [アジアタッグ王座](../Page/アジアタッグ王座.md "wikilink")…第81代（パートナーは[鈴木みのる](../Page/鈴木みのる.md "wikilink")）
 
 <!-- end list -->

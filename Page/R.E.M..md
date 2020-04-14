@@ -112,7 +112,7 @@
 
 :\*「[恋はフェニックス](https://ja.wikipedia.org/wiki/恋はフェニックス "wikilink")」 - 1995年のツアーで演奏された\[6\]。
 
-  - [トム・ヨーク](../Page/トム・ヨーク.md "wikilink")（[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")）、[クリス・マーティン](../Page/クリス・マーティン.md "wikilink")（[コールドプレイ](../Page/コールドプレイ.md "wikilink")）、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")、[パール・ジャム](../Page/パール・ジャム.md "wikilink")、[スティーヴン・マルクマス](../Page/スティーヴン・マルクマス.md "wikilink")（[ペイヴメント](../Page/ペイヴメント.md "wikilink")）、[デーモン・アルバーン](https://ja.wikipedia.org/wiki/デーモン・アルバーン "wikilink")（[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ゴリラズ](../Page/ゴリラズ.md "wikilink")）らからのリスペクトを一身に受けている。
+  - [トム・ヨーク](../Page/トム・ヨーク.md "wikilink")（[レディオヘッド](../Page/レディオヘッド.md "wikilink")）、[クリス・マーティン](../Page/クリス・マーティン.md "wikilink")（[コールドプレイ](../Page/コールドプレイ.md "wikilink")）、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")、[パール・ジャム](../Page/パール・ジャム.md "wikilink")、[スティーヴン・マルクマス](../Page/スティーヴン・マルクマス.md "wikilink")（[ペイヴメント](../Page/ペイヴメント.md "wikilink")）、[デーモン・アルバーン](https://ja.wikipedia.org/wiki/デーモン・アルバーン "wikilink")（[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ゴリラズ](../Page/ゴリラズ.md "wikilink")）らからのリスペクトを一身に受けている。
   - [ニルヴァーナの](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[カート・コバーン](../Page/カート・コバーン.md "wikilink")もR.E.M.への共感を表明していた一人。『オートマチック・フォー・ザ・ピープル』はカートが自殺する直前に聞いていたとされるレコードとしても知られる\[7\]。
   - ピーター・バックのギターサウンドは、デビュー当時[ザ・バーズ](https://ja.wikipedia.org/wiki/ザ・バーズ "wikilink")とよく比較された。
   - 同郷の[B-52's](../Page/B-52's.md "wikilink")のケイト・ピアソンは『アウト・オブ・タイム』の数曲でボーカルとして参加している。

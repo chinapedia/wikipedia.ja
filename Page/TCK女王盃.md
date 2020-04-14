@@ -1,4 +1,4 @@
-> この記事は[TCK](https://ja.wikipedia.org/wiki/TCK)から翻訳されています。
+> この記事は[TCK女王盃](https://ja.wikipedia.org/wiki/TCK女王盃)から翻訳されています。
 
 
 **TCK女王盃**（ティーシーケーじょおうはい）は、[特別区競馬組合](../Page/特別区競馬組合.md "wikilink")が[大井競馬場](../Page/大井競馬場.md "wikilink")で施行する[地方競馬](../Page/地方競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[JpnIII](../Page/ダートグレード競走.md "wikilink")）である。[農林水産大臣](../Page/農林水産大臣.md "wikilink")が賞を提供しており、正式名称は「**[農林水産大臣賞典](../Page/農林水産大臣賞典.md "wikilink") TCK女王盃**」と表記される。

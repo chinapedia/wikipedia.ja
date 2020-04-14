@@ -1,4 +1,4 @@
-> この記事は[UMK](https://ja.wikipedia.org/wiki/UMK)から翻訳されています。
+> この記事は[UMKニュースリポート](https://ja.wikipedia.org/wiki/UMKニュースリポート)から翻訳されています。
 
 
 『**UMKニュースリポート**』（ユーエムケー ニュースリポート）は、[1988年](../Page/1988年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。。放送時間は毎週月曜 - 金曜 18:00 - 18:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

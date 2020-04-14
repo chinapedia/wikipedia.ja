@@ -1,4 +1,4 @@
-> この記事は[Presents !24](https://ja.wikipedia.org/wiki/Presents_!24)から翻訳されています。
+> この記事は[進研ゼミ高校講座Presents 目からウロコ!24](https://ja.wikipedia.org/wiki/進研ゼミ高校講座Presents_目からウロコ!24)から翻訳されています。
 
 
 **進研ゼミ高校講座Presents 目からウロコ\!24**（しんけんぜみこうこうこうざプレゼンツ　めからウロコ\!トゥエンティーフォー）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で毎週[金曜日](../Page/金曜日.md "wikilink")の深夜24時 - 24時18分に放送されていた、[高校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")・[大学](../Page/大学.md "wikilink")[受験生](https://ja.wikipedia.org/wiki/受験生 "wikilink")向け[深夜放送](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。「[進研ゼミ](../Page/進研ゼミ.md "wikilink")高校講座Presents」とあるとおり、提供スポンサーは同講座を展開している[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")。

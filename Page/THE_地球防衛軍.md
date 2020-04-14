@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 地球防衛軍](https://ja.wikipedia.org/wiki/THE_地球防衛軍)から翻訳されています。
 
 
 『**THE 地球防衛軍**』（ザ・ちきゅうぼうえいぐん）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された『[SIMPLE2000シリーズ](../Page/SIMPLEシリーズ.md "wikilink")』第31作目の[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションシューティング](../Page/シューティングゲーム.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")（[サードパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/ファーストパーソン・シューティングゲーム#サードパーソン・シューティング "wikilink")）である。開発は[サンドロット](../Page/サンドロット.md "wikilink")。販売は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")。『4』発売前の2012年時点で、世界累計150万本（国内累計120万本）を出荷している。

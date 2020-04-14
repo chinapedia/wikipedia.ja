@@ -1,4 +1,4 @@
-> この記事は[NEPTUNEPRESENTS ! !!](https://ja.wikipedia.org/wiki/NEPTUNEPRESENTS_!_!!)から翻訳されています。
+> この記事は[NEPTUNEPRESENTS 日本列島元気満点! 力あわせてゴーゴゴー!!](https://ja.wikipedia.org/wiki/NEPTUNEPRESENTS_日本列島元気満点!_力あわせてゴーゴゴー!!)から翻訳されています。
 
 
 『**NEPTUNE PRESENTS 日本列島元気満点\!力あわせてゴーゴゴー\!\!**』（ネプチューンプレゼンツ にっぽんれっとうげんきまんてん ちからあわせてゴーゴゴー）は、[2002年](../Page/2002年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[フジテレビで毎週](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[水曜](../Page/水曜日.md "wikilink") 19:57 - 20:54に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

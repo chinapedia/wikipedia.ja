@@ -1,4 +1,4 @@
-> この記事は[EL](https://ja.wikipedia.org/wiki/EL)から翻訳されています。
+> この記事は[E・L・カニグズバーグ](https://ja.wikipedia.org/wiki/E・L・カニグズバーグ)から翻訳されています。
 
 
 **エレイン・ローブル・カニグズバーグ**（**Elaine Lobl Konigsburg**, [1930年](../Page/1930年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[児童文学](../Page/児童文学.md "wikilink")[作家](../Page/作家.md "wikilink")。

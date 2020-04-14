@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[セルティックFC](https://ja.wikipedia.org/wiki/セルティックFC)から翻訳されています。
 
 
 **セルティック・フットボール・クラブ**（, ）は、[スコットランド](../Page/スコットランド.md "wikilink")南西部の都市[グラスゴー](../Page/グラスゴー.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。クラブは1887年に創設され、1888年に初試合を行った。セルティックは同じグラスゴーを本拠地とする[レンジャーズとライバル関係にあり](../Page/レンジャーズFC.md "wikilink")、これら2つのクラブはまとめて[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")として知られている。
@@ -438,7 +438,7 @@
 
   - [エファンデル・スノ](../Page/エファンデル・スノ.md "wikilink") 2006-2008
 
-  - [水野晃樹](../Page/水野晃樹.md "wikilink") 2007-2010
+  - [水野晃樹](../Page/水野晃樹.md "wikilink") 2008-2010
 
   - [スコット・ブラウン](../Page/スコット・ブラウン_\(サッカー選手\).md "wikilink") 2007-
 

@@ -1,4 +1,4 @@
-> この記事は[TOS](https://ja.wikipedia.org/wiki/TOS)から翻訳されています。
+> この記事は[TOSニュース](https://ja.wikipedia.org/wiki/TOSニュース)から翻訳されています。
 
 
 『**TOSニュース**』（ティーオーエスニュース）は、[テレビ大分](../Page/テレビ大分.md "wikilink")で放送されている[ローカルニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。

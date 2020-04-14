@@ -1,4 +1,4 @@
-> この記事は[NCR](https://ja.wikipedia.org/wiki/NCR)から翻訳されています。
+> この記事は[日本NCR](https://ja.wikipedia.org/wiki/日本NCR)から翻訳されています。
 
 
 **日本NCR株式会社**（にほんエヌシーアール、）は、[情報処理システム](../Page/情報処理システム.md "wikilink")、[通信システム](https://ja.wikipedia.org/wiki/通信システム "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")等の製造販売ならびにこれらに関連するサービスの提供する米国[NCR社の日本法人](../Page/NCR_\(企業\).md "wikilink")。

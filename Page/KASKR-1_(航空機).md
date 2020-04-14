@@ -1,4 +1,4 @@
-> この記事は[KASKR-1 \(\)](https://ja.wikipedia.org/wiki/KASKR-1_\(\))から翻訳されています。
+> この記事は[KASKR-1 \(航空機\)](https://ja.wikipedia.org/wiki/KASKR-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機

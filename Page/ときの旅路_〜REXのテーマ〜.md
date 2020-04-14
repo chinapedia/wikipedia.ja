@@ -1,4 +1,4 @@
-> この記事は[ REX](https://ja.wikipedia.org/wiki/_REX)から翻訳されています。
+> この記事は[ときの旅路 〜REXのテーマ〜](https://ja.wikipedia.org/wiki/ときの旅路_〜REXのテーマ〜)から翻訳されています。
 
 
 「**ときの旅路 〜REXのテーマ〜**」（ときのたびじ レックスのテーマ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

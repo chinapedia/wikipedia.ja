@@ -1,4 +1,4 @@
-> この記事は[AKITA](https://ja.wikipedia.org/wiki/AKITA)から翻訳されています。
+> この記事は[フォンテAKITA](https://ja.wikipedia.org/wiki/フォンテAKITA)から翻訳されています。
 
 
 **フォンテAKITA**（フォンテアキタ）は、[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")に所在する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。

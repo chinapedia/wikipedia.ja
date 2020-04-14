@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[日本SC遊園協会](https://ja.wikipedia.org/wiki/日本SC遊園協会)から翻訳されています。
 
 
 **日本SC遊園協会**（Nihon Shopping Center Amusement Park Operator's Association、略称**NSA**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の[百貨店](../Page/百貨店.md "wikilink")、[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")などで[アミューズメント施設を運営する業者による](../Page/ゲームセンター.md "wikilink")、かつて存在した全国組織。

@@ -1,4 +1,4 @@
-> この記事は[LVG C.VI \(\)](https://ja.wikipedia.org/wiki/LVG_C.VI_\(\))から翻訳されています。
+> この記事は[LVG C.VI \(航空機\)](https://ja.wikipedia.org/wiki/LVG_C.VI_\(航空機\))から翻訳されています。
 
 
 **LVG C.VI**（<small>エルファウゲー・ツェー・ズィーベン</small>）は、[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")の[ヨハニスタール航空運輸有限責任会社](https://ja.wikipedia.org/wiki/ヨハニスタール航空運輸有限責任会社 "wikilink")（ルフト・フェアケーアス・ゲゼルシャフト・ミット・ベシュレンクター・ハフトゥング・ヨハニスタール；; ; .; ）が開発した、単発[複葉複座の](../Page/複葉機.md "wikilink")[偵察](../Page/偵察機.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")。一連の LVG 製複座型機の完成型となった。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")終盤の[1918年](../Page/1918年.md "wikilink")に初飛行を果たした。

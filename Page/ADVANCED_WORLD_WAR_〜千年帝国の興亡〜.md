@@ -1,4 +1,4 @@
-> この記事は[ADVANCED WORLD WAR ](https://ja.wikipedia.org/wiki/ADVANCED_WORLD_WAR_)から翻訳されています。
+> この記事は[ADVANCED WORLD WAR 〜千年帝国の興亡〜](https://ja.wikipedia.org/wiki/ADVANCED_WORLD_WAR_〜千年帝国の興亡〜)から翻訳されています。
 
 
 『**ADVANCED WORLD WAR ～千年帝国の興亡～**』（アドバンスド ワールド ウォー せんねんていこくのこうぼう）はセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")） が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")に発売した[セガサターン](../Page/セガサターン.md "wikilink")用のゲームソフトである。「アドバンスドワールドウォー」や「AWW」と略される。

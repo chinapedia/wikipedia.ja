@@ -1,4 +1,4 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[BCトランジット](https://ja.wikipedia.org/wiki/BCトランジット)から翻訳されています。
 
 
 **BCトランジット**（英語：**BC Transit**）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")における[ブリティッシュコロンビア州](../Page/ブリティッシュコロンビア州.md "wikilink")の[公共交通機関](../Page/公共交通機関.md "wikilink")を統括する組織で、本部を州都[ビクトリアに置く](../Page/ビクトリア_\(ブリティッシュコロンビア州\).md "wikilink")。 [Victoria_BCTransit_9024.jpg](https://ja.wikipedia.org/wiki/File:Victoria_BCTransit_9024.jpg "fig:Victoria_BCTransit_9024.jpg")の前に停車中の[2階建て](https://ja.wikipedia.org/wiki/2階建てバス "wikilink")[ノンステップバス](../Page/ノンステップバス.md "wikilink")。\]\] [Victoriadoubledecker.JPG](https://ja.wikipedia.org/wiki/File:Victoriadoubledecker.JPG "fig:Victoriadoubledecker.JPG")\]\] [BC_Transit_Bus.jpg](https://ja.wikipedia.org/wiki/File:BC_Transit_Bus.jpg "fig:BC_Transit_Bus.jpg")

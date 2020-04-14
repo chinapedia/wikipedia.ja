@@ -1,4 +1,4 @@
-> この記事は[Suica](https://ja.wikipedia.org/wiki/Suica)から翻訳されています。
+> この記事は[みずほSuicaカード](https://ja.wikipedia.org/wiki/みずほSuicaカード)から翻訳されています。
 
 
 **みずほSuicaカード**（みずほスイカカード）は、株式会社[みずほ銀行](../Page/みずほ銀行.md "wikilink")と[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")株式会社\[1\]が提携し発行していた、JR東日本の[Suica](../Page/Suica.md "wikilink")搭載[クレジットカード](../Page/クレジットカード.md "wikilink")（[VIEW Suicaカード](../Page/VIEW_Suicaカード.md "wikilink")）である。

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H指数](https://ja.wikipedia.org/wiki/H指数)から翻訳されています。
 
 
 **h指数**（エイチしすう、h-Index）とは、[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")[ジョージ・E・ハーシュ](https://ja.wikipedia.org/wiki/ジョージ・E・ハーシュ "wikilink")が引用索引データベース[Web of ScienceのTimes](https://ja.wikipedia.org/wiki/Web_of_Science "wikilink") Cited（被引用数）を元に考案した指標で、[論文](../Page/論文.md "wikilink")数と被引用数とに基づいて、[科学者](../Page/科学者.md "wikilink")の研究に対する相対的な貢献度を示すものである。ただし引用に関する慣習は研究分野により異なるため、h指数は同じ研究分野における研究者同士の比較にのみ使用されるべき量である\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[AKiTA](https://ja.wikipedia.org/wiki/AKiTA)から翻訳されています。
+> この記事は[パンテオンシネマズAKiTA](https://ja.wikipedia.org/wiki/パンテオンシネマズAKiTA)から翻訳されています。
 
 
 **パンテオンシネマズAKiTA**（パンテオンシネマズあきた）は、[秋田市](../Page/秋田市.md "wikilink")の[秋田拠点センターアルヴェ](../Page/秋田拠点センターアルヴェ.md "wikilink")民間低層棟で営業していた[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")。

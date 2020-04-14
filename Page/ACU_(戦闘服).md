@@ -1,4 +1,4 @@
-> この記事は[ACU \(\)](https://ja.wikipedia.org/wiki/ACU_\(\))から翻訳されています。
+> この記事は[ACU \(戦闘服\)](https://ja.wikipedia.org/wiki/ACU_\(戦闘服\))から翻訳されています。
 
 
 **ACU**（エーシーユー、Army Combat Uniform）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")が[2005年](../Page/2005年.md "wikilink")4月から配備を開始した新しいタイプの[迷彩服](https://ja.wikipedia.org/wiki/迷彩服 "wikilink")である。1980年頃から使用されている緑を基調とした**BDU**（Battle Dress Uniform）や、砂漠地域での戦闘に使用される**DCU** (Desert Camouflage Uniform) などの迷彩服の後継として採用された。

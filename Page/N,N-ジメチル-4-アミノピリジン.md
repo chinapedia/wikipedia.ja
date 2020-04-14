@@ -1,4 +1,4 @@
-> この記事は[N,N--4-](https://ja.wikipedia.org/wiki/N,N--4-)から翻訳されています。
+> この記事は[N,N-ジメチル-4-アミノピリジン](https://ja.wikipedia.org/wiki/N,N-ジメチル-4-アミノピリジン)から翻訳されています。
 
 
 ***N*,*N*-ジメチル-4-アミノピリジン** (*N*,*N*-dimethyl-4-aminopyridine) は様々な有機合成反応で[触媒](../Page/触媒.md "wikilink")として用いられる[求核剤](../Page/求核剤.md "wikilink")、[強塩基である](../Page/塩基.md "wikilink")。4-（ジメチルアミノ）ピリジン、4-ジメチルアミノピリジンとも呼ばれ、**DMAP**（ディーマップ）と略称される。利用例として[酸無水物](../Page/酸無水物.md "wikilink")の[エステル](../Page/エステル.md "wikilink")化、[ベイリス・ヒルマン反応](https://ja.wikipedia.org/wiki/ベイリス・ヒルマン反応 "wikilink")、[シリル化](https://ja.wikipedia.org/wiki/シリル基 "wikilink")、[トリチル化](https://ja.wikipedia.org/wiki/トリチル基 "wikilink")、シュテークリヒ転位、[シュタウディンガー反応](https://ja.wikipedia.org/wiki/シュタウディンガー反応 "wikilink")などが挙げられる\[1\]\[2\]。

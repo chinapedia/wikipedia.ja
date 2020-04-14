@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[レーサーX](https://ja.wikipedia.org/wiki/レーサーX)から翻訳されています。
 
 
 **レーサーX**（**Racer X**）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で結成された[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド。バンドを率いる[ポール・ギルバート](../Page/ポール・ギルバート.md "wikilink")をはじめ、メンバー全員がテクニカルな演奏をする事が特徴である。

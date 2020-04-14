@@ -1,4 +1,4 @@
-> この記事は[WORST \(\)](https://ja.wikipedia.org/wiki/WORST_\(\))から翻訳されています。
+> この記事は[WORST \(アルバム\)](https://ja.wikipedia.org/wiki/WORST_\(アルバム\))から翻訳されています。
 
 
 『**WORST**』（ワースト）は、[B.D.](../Page/魔暦.md "wikilink")10年（[1989年](../Page/1989年.md "wikilink")）[9月21日](../Page/9月21日.md "wikilink")に発布された[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第六教典で初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。単なるコンピレーションではなく、極悪集大成盤と位置づけられている。タイトルは「最悪（BADの最上級）」の意。

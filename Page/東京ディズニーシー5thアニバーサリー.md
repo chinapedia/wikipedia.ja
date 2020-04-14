@@ -1,4 +1,4 @@
-> この記事は[5th](https://ja.wikipedia.org/wiki/5th)から翻訳されています。
+> この記事は[東京ディズニーシー5thアニバーサリー](https://ja.wikipedia.org/wiki/東京ディズニーシー5thアニバーサリー)から翻訳されています。
 
 
 『**東京ディズニーシー5thアニバーサリー**』(*Tokyo DisneySea 5th Anniversary* 東京ディズニーシーフィフスアニバーサリー)は[2006年](../Page/2006年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")〜[2007年](../Page/2007年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")まで[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")で開催されたアニバーサリーイベントの総称。

@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.マーク・スローン](https://ja.wikipedia.org/wiki/Dr.マーク・スローン)から翻訳されています。
 
 
 『**Dr.マーク・スローン**』（*Diagnosis: Murder*）は、[1993年](../Page/1993年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[アメリカで製作された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[CBS](../Page/CBS.md "wikilink")テレビにて放映された。日本ではNHKで『Dr.マーク・スローン』として1995年から1999年にかけて不定期的に第1シーズンが、[スーパーチャンネル(現・スーパー\!ドラマTV)で吹き替えのキャストを変えて](../Page/スーパー!ドラマTV.md "wikilink")、2003年から2005年に第2-4シーズンを『新Dr.マーク・スローン』1-3として放映した。

@@ -1,4 +1,4 @@
-> この記事は[K!](https://ja.wikipedia.org/wiki/K!)から翻訳されています。
+> この記事は[ゴーK!](https://ja.wikipedia.org/wiki/ゴーK!)から翻訳されています。
 
 
 **ゴーK\!**（ゴーけい！）は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）でかつて放送されていた[バラエティー](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

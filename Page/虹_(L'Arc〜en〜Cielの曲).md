@@ -1,4 +1,4 @@
-> この記事は[ \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[虹 \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/虹_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**虹**」（**にじ**）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の7作目のシングル。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。

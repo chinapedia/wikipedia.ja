@@ -1,4 +1,4 @@
-> この記事は[PG](https://ja.wikipedia.org/wiki/PG)から翻訳されています。
+> この記事は[P・G・ウッドハウス](https://ja.wikipedia.org/wiki/P・G・ウッドハウス)から翻訳されています。
 
 
 **ペルハム・グレンヴィル・ウッドハウス**（**Pelham Grenville Wodehouse**, [1881年](../Page/1881年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。[ユーモア](../Page/ユーモア.md "wikilink")小説の大家として知られる。
@@ -86,4 +86,4 @@
   - [天国のような喜劇の世界](http://www.bunshun.co.jp/pickup/woodhouse/woodhouse01.htm)（[岩永正勝](https://ja.wikipedia.org/wiki/岩永正勝 "wikilink")、[小山太一](https://ja.wikipedia.org/wiki/小山太一 "wikilink")の対談）
   - [Ｐ・Ｇ・ウッドハウスを弁護する](http://open-shelf.appspot.com/others/InDefenceOfPGWodehouse.html) - [ジョージ・オーウェル](../Page/ジョージ・オーウェル.md "wikilink")によって1945年に発表されたウッドハウスを擁護した文章の日本語訳。
 
-[Category:P・G・ウッドハウス](https://ja.wikipedia.org/wiki/Category:P・G・ウッドハウス "wikilink") [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:アメリカ合衆国の小説家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の小説家 "wikilink") [Category:アメリカ合衆国帰化市民](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国帰化市民 "wikilink") [Category:イングランド系アメリカ人](https://ja.wikipedia.org/wiki/Category:イングランド系アメリカ人 "wikilink") [Category:ギルフォード出身の人物](https://ja.wikipedia.org/wiki/Category:ギルフォード出身の人物 "wikilink") [Category:1881年生](https://ja.wikipedia.org/wiki/Category:1881年生 "wikilink") [Category:1975年没](https://ja.wikipedia.org/wiki/Category:1975年没 "wikilink")
+[Category:P・G・ウッドハウス](https://ja.wikipedia.org/wiki/Category:P・G・ウッドハウス "wikilink") [Category:19世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの小説家 "wikilink") [Category:20世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの小説家 "wikilink") [Category:アメリカ合衆国の小説家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の小説家 "wikilink") [Category:アメリカ合衆国帰化市民](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国帰化市民 "wikilink") [Category:イングランド系アメリカ人](https://ja.wikipedia.org/wiki/Category:イングランド系アメリカ人 "wikilink") [Category:ギルフォード出身の人物](https://ja.wikipedia.org/wiki/Category:ギルフォード出身の人物 "wikilink") [Category:1881年生](https://ja.wikipedia.org/wiki/Category:1881年生 "wikilink") [Category:1975年没](https://ja.wikipedia.org/wiki/Category:1975年没 "wikilink")

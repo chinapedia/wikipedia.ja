@@ -1,4 +1,4 @@
-> この記事は[SAKURA \(\)](https://ja.wikipedia.org/wiki/SAKURA_\(\))から翻訳されています。
+> この記事は[SAKURA \(いきものがかりの曲\)](https://ja.wikipedia.org/wiki/SAKURA_\(いきものがかりの曲\))から翻訳されています。
 
 
 「**SAKURA**」（サクラ）は、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")から発売された。
@@ -81,9 +81,9 @@
 
 ## 外部リンク
 
-  - [SAKURA](http://www.sonymusic.co.jp/artist/Ikimonogakari/discography/ESCL-2803) - Sony Music
+  - [SAKURA](https://www.sonymusic.co.jp/artist/Ikimonogakari/discography/ESCL-2803) - Sony Music
 
-[Category:いきものがかりの楽曲](https://ja.wikipedia.org/wiki/Category:いきものがかりの楽曲 "wikilink") [Category:水野良樹が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水野良樹が制作した楽曲 "wikilink") [Category:2006年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2006年のデビュー・シングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:桜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:桜を題材とした楽曲 "wikilink") [Category:鉄道の音楽](https://ja.wikipedia.org/wiki/Category:鉄道の音楽 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:小田急電鉄の接近メロディ](https://ja.wikipedia.org/wiki/Category:小田急電鉄の接近メロディ "wikilink")
+[Category:いきものがかりの楽曲](https://ja.wikipedia.org/wiki/Category:いきものがかりの楽曲 "wikilink") [Category:水野良樹が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水野良樹が制作した楽曲 "wikilink") [Category:2006年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2006年のデビュー・シングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:桜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:桜を題材とした楽曲 "wikilink") [Category:鉄道の音楽](https://ja.wikipedia.org/wiki/Category:鉄道の音楽 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
 
 1.  [よっちゃんのつぶやき73](http://blog.excite.co.jp/ikimono-yoshiki/7352184/) - いきものがかり「よっちゃんのつぶやき」 2007-11-06
 2.  PV集「[とってもええぞう](https://ja.wikipedia.org/wiki/とってもええぞう "wikilink")」のオーディオ・コメンタリーでも言及されている。

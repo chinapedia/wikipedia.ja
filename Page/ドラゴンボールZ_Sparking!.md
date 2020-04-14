@@ -1,7 +1,7 @@
-> この記事は[Z Sparking!](https://ja.wikipedia.org/wiki/Z_Sparking!)から翻訳されています。
+> この記事は[ドラゴンボールZ Sparking!](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!)から翻訳されています。
 
 
-『**ドラゴンボールZ Sparking\!**』（ドラゴンボールゼット スパンキング、**DRAGON BALL Z Sparking\!**）は、[スパイク開発](../Page/スパイク_\(ゲーム会社\).md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")発売の[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦アクションゲームである](../Page/対戦型格闘ゲーム.md "wikilink")。通称**ZS**（ゼットエス）、**スパキン**（スパーキング\!）。
+『**ドラゴンボールZ Sparking\!**』（ドラゴンボールゼット スパーキング、**DRAGON BALL Z Sparking\!**）は、[スパイク開発](../Page/スパイク_\(ゲーム会社\).md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")発売の[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦アクションゲームである](../Page/対戦型格闘ゲーム.md "wikilink")。通称**ZS**（ゼットエス）、**スパキン**（スパーキング\!）。
 
 ## 概要
 

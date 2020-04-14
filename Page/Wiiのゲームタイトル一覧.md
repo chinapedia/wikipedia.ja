@@ -1,4 +1,4 @@
-> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+> この記事は[Wiiのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wiiのゲームタイトル一覧)から翻訳されています。
 
 
 **Wiiのゲームタイトル一覧**（ウィーのゲームタイトルいちらん）では、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")対応として日本国内で発売された全461の[ゲームソフト](../Page/ゲームソフト.md "wikilink")タイトル（Wii専用ディスクソフト）を発売順に列記する。

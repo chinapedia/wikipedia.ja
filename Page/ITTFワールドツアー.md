@@ -1,4 +1,4 @@
-> この記事は[ITTF](https://ja.wikipedia.org/wiki/ITTF)から翻訳されています。
+> この記事は[ITTFワールドツアー](https://ja.wikipedia.org/wiki/ITTFワールドツアー)から翻訳されています。
 
 
 **ITTFワールドツアー**（）は、[国際卓球連盟](../Page/国際卓球連盟.md "wikilink")（ITTF）が主催し、世界各地で開催される[卓球](../Page/卓球.md "wikilink")の国際オープン大会の総称である。2011年までの名称は[ITTFプロツアーであった](https://ja.wikipedia.org/wiki/:de:ITTF_Pro_Tour "wikilink")。世界ランキングの対象となる大会の中で最も頻繁に開催されていることから、この大会での成績が世界ランキングに大きく影響を与える。

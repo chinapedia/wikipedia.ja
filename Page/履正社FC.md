@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[履正社FC](https://ja.wikipedia.org/wiki/履正社FC)から翻訳されています。
 
 
 **履正社FC**（りせいしゃエフシー）は[大阪府](../Page/大阪府.md "wikilink")[茨木市](../Page/茨木市.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[履正社医療スポーツ専門学校](../Page/履正社医療スポーツ専門学校.md "wikilink")のサッカー部門。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C・ダグラス・ディロン](https://ja.wikipedia.org/wiki/C・ダグラス・ディロン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:C_Douglas_Dillon.jpg "wikilink") **クラレンス・ダグラス・ディロン**（**Clarence Douglas Dillon**, [1909年](../Page/1909年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")である。1953年から57年まで[駐仏大使](https://ja.wikipedia.org/wiki/在フランスアメリカ合衆国大使 "wikilink")、1961年から65年まで第57代財務長官を務めた。彼はまた[キューバ危機](../Page/キューバ危機.md "wikilink")における国家安全保障会議執行委員会（[エクスコム](../Page/エクスコム.md "wikilink")）の重要なメンバーであった。

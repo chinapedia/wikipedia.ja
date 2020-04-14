@@ -1,4 +1,4 @@
-> この記事は[Yak-1 \(\)](https://ja.wikipedia.org/wiki/Yak-1_\(\))から翻訳されています。
+> この記事は[Yak-1 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-1_\(航空機\))から翻訳されています。
 
 
 [Yakovlev_Yak-1_first_series.jpg](https://ja.wikipedia.org/wiki/File:Yakovlev_Yak-1_first_series.jpg "fig:Yakovlev_Yak-1_first_series.jpg") **Yak-1**（ヤク1；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****）は、[ソ連で開発された](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中盤の労農[赤軍](../Page/赤軍.md "wikilink")航空隊（[赤色空軍](../Page/赤色空軍.md "wikilink")）や労農[赤色海軍](https://ja.wikipedia.org/wiki/赤色海軍 "wikilink")航空隊（[ソ連海軍航空隊](https://ja.wikipedia.org/wiki/ソ連海軍航空隊 "wikilink")）の主力戦闘機となった。[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")軍との戦闘におけるソ連軍反撃の序盤に活躍し、またその後の一連のヤク戦闘機の始祖となったため、ソ連側では「最も偉大な戦闘機」のひとつとして記憶されている。

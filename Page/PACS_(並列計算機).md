@@ -1,4 +1,4 @@
-> この記事は[PACS \(\)](https://ja.wikipedia.org/wiki/PACS_\(\))から翻訳されています。
+> この記事は[PACS \(並列計算機\)](https://ja.wikipedia.org/wiki/PACS_\(並列計算機\))から翻訳されています。
 
 
 **PACS**（Processor Array for Continuum Simulation, パックス）及びPAXは、[1977年](../Page/1977年.md "wikilink")、当時[京都大学](../Page/京都大学.md "wikilink")[原子力](../Page/原子力.md "wikilink")研究所助教授であった[星野力に](https://ja.wikipedia.org/wiki/星野力_\(計算機科学\) "wikilink")、その頃普及し始めた[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を使ったアレイ型計算機の構築提案を[日立製作所](../Page/日立製作所.md "wikilink")の[川合敏雄](https://ja.wikipedia.org/wiki/川合敏雄 "wikilink")が行ったことがきっかけで開発が始まった、並列計算機である。

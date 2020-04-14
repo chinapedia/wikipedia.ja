@@ -1,4 +1,4 @@
-> この記事は[ComicREX](https://ja.wikipedia.org/wiki/ComicREX)から翻訳されています。
+> この記事は[月刊ComicREX](https://ja.wikipedia.org/wiki/月刊ComicREX)から翻訳されています。
 
 
 『**月刊ComicREX**』（げっかんコミックレックス）は、[一迅社](../Page/一迅社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
@@ -24,17 +24,17 @@
   - [お兄ちゃんはおしまい\!](https://ja.wikipedia.org/wiki/お兄ちゃんはおしまい! "wikilink")（[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")）（2019年6月号 - ）
   - [今日、小柴葵に会えたら。](https://ja.wikipedia.org/wiki/今日、小柴葵に会えたら。 "wikilink")（原作：[竹岡葉月](../Page/竹岡葉月.md "wikilink")、漫画：[フライ](https://ja.wikipedia.org/wiki/フライ_\(イラストレーター\) "wikilink")）（2019年1月号 - ）
   - [思春期ちゃんのしつけかた](https://ja.wikipedia.org/wiki/思春期ちゃんのしつけかた "wikilink")（[中田ゆみ](https://ja.wikipedia.org/wiki/中田ゆみ "wikilink")）（2019年4月号 - ）
-  - [篠崎姫乃の恋心Q＆A](https://ja.wikipedia.org/wiki/篠崎姫乃の恋心Q＆A "wikilink")（[閏月戈](https://ja.wikipedia.org/wiki/閏月戈 "wikilink")）（2018年7月号 - ）
+  - [どっちも気づかない。](https://ja.wikipedia.org/wiki/どっちも気づかない。 "wikilink")（[東ふゆ](https://ja.wikipedia.org/wiki/東ふゆ "wikilink")）（2020年4月号 - ）
   - [ニジとクロ](https://ja.wikipedia.org/wiki/ニジとクロ "wikilink")（[武梨えり](../Page/武梨えり.md "wikilink")）（2018年9月号 - ）
   - [バーナード嬢曰く。](https://ja.wikipedia.org/wiki/バーナード嬢曰く。 "wikilink")（[施川ユウキ](https://ja.wikipedia.org/wiki/施川ユウキ "wikilink")）（2014年1月号 - ）
   - [美少女同人作家と若頭](https://ja.wikipedia.org/wiki/美少女同人作家と若頭 "wikilink")（[ベニガシラ](https://ja.wikipedia.org/wiki/ベニガシラ "wikilink")）（2019年1月号 - ）
-  - [マジメ教師と幼女](https://ja.wikipedia.org/wiki/マジメ教師と幼女 "wikilink")（[寅](https://ja.wikipedia.org/wiki/寅_\(漫画家\) "wikilink")）（2019年6月号 - ）
   - [八十亀ちゃんかんさつにっき](https://ja.wikipedia.org/wiki/八十亀ちゃんかんさつにっき "wikilink")（[安藤正基](https://ja.wikipedia.org/wiki/安藤正基 "wikilink")）（2016年7月号 - ）
 
 ### 連載中（メディアミックス）
 
   - [朝焼けは黄金色 THE IDOLM@STER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_\(アニメ\) "wikilink")（原作：[BNEI](../Page/バンダイナムコエンターテインメント.md "wikilink")/PROJECT iM@S、脚本：[髙橋龍也](../Page/高橋龍也.md "wikilink")、漫画：[まな](https://ja.wikipedia.org/wiki/まな "wikilink")）（2017年7月号 - ）
   - [アズールレーン Queen's Orders](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")（原作：『アズールレーン』運営、漫画：[槌居](https://ja.wikipedia.org/wiki/槌居 "wikilink")）（2018年12月号 - ）
+  - [アズールレーン THE ANIMATION あなたの碧き航路に祝福を](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")（漫画：[ichinomi](https://ja.wikipedia.org/wiki/ichinomi "wikilink")）（2020年3月号 - ）
   - [ドールズフロントライン 人形之歌](https://ja.wikipedia.org/wiki/ドールズフロントライン "wikilink")（原作：[上海散爆網絡技有限公司](https://ja.wikipedia.org/wiki/ドールズフロントライン "wikilink")、漫画：[Ling](https://ja.wikipedia.org/wiki/Ling "wikilink")）（2019年9月号 - ）
   - [Fate/Grand Order -Epic of Remnant- 亜種特異点IV 禁忌降臨庭園 セイレム 異端なるセイレム](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（原作：[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")、漫画：[大森葵](../Page/大森葵.md "wikilink")）（2019年3月号 - ）
 
@@ -84,6 +84,7 @@
   - [サユリリ](https://ja.wikipedia.org/wiki/サユリリ "wikilink")（[濱元隆輔](../Page/濱元隆輔.md "wikilink")）（2011年1月号、2011年8月号 - 2012年4月号）
   - [3人分クッキング](https://ja.wikipedia.org/wiki/3人分クッキング "wikilink")（[futa](https://ja.wikipedia.org/wiki/futa "wikilink")）（2013年2月号 - 2014年6月号）
   - [自意識過剰な桐谷さん](https://ja.wikipedia.org/wiki/自意識過剰な桐谷さん "wikilink")（[蒼木雅彦](https://ja.wikipedia.org/wiki/蒼木雅彦 "wikilink")）（2018年6月号 - 2018年10月号）
+  - [篠崎姫乃の恋心Q＆A](https://ja.wikipedia.org/wiki/篠崎姫乃の恋心Q＆A "wikilink")（[閏月戈](https://ja.wikipedia.org/wiki/閏月戈 "wikilink")）（2018年7月号 - 2020年4月号）
   - [JC探偵でぃてくてぃ部\!](https://ja.wikipedia.org/wiki/JC探偵でぃてくてぃ部! "wikilink")（[鈴城芹](../Page/鈴城芹.md "wikilink")）（2010年11・12月号 - 2013年8月号）
   - [私立彩陵高校超能力部](../Page/私立彩陵高校超能力部.md "wikilink")（[石田あきら](../Page/石田あきら.md "wikilink")）（2006年6月号 - 2008年10月号）
   - [住所未定(仮)](https://ja.wikipedia.org/wiki/住所未定\(仮\) "wikilink")（[まりお金田](../Page/まりお金田.md "wikilink")）（2006年2月号 - 2007年11月号）
@@ -117,7 +118,7 @@
   - [TiN-So 君が手にする俺の機巧魔剣](https://ja.wikipedia.org/wiki/TiN-So_君が手にする俺の機巧魔剣 "wikilink")（原作：[アサウラ](../Page/アサウラ.md "wikilink")、漫画：[ラルサン](https://ja.wikipedia.org/wiki/ラルサン "wikilink")）（2017年10月号 - 2018年8月号）
   - [Tokyo Girl's 7s](https://ja.wikipedia.org/wiki/Tokyo_Girl's_7s "wikilink")（[吉野たるぼ](https://ja.wikipedia.org/wiki/吉野たるぼ "wikilink")）（2015年6月号 - 2016年1月号）
   - [東京サマーオブザデッド](https://ja.wikipedia.org/wiki/東京サマーオブザデッド "wikilink")（[玖倉しいち](https://ja.wikipedia.org/wiki/玖倉しいち "wikilink")）（2010年4月号 - 2013年1月号）
-  - [ド直球彼氏×彼女](https://ja.wikipedia.org/wiki/ド直球彼氏×彼女 "wikilink")（[ふじた渚佐](https://ja.wikipedia.org/wiki/ふじた渚佐 "wikilink")）（2017年9月号 - 2019年7月号）
+  - [ド直球彼氏×彼女](https://ja.wikipedia.org/wiki/ド直球彼氏×彼女 "wikilink")（[ふじた渚佐](https://ja.wikipedia.org/wiki/ふじた渚佐 "wikilink")）（2017年9月号 - 2019年7月号） - 『[月刊少年チャンピオン](../Page/月刊少年チャンピオン.md "wikilink")』に移籍
   - [ドロップフレーム](https://ja.wikipedia.org/wiki/ドロップフレーム "wikilink")（[成家慎一郎](https://ja.wikipedia.org/wiki/成瀬芳貴 "wikilink")）（2015年4月号 - 2016年12月号）
   - [とんぬらさん](https://ja.wikipedia.org/wiki/とんぬらさん "wikilink")（[セレビィ量産型](https://ja.wikipedia.org/wiki/セレビィ量産型 "wikilink")） （2008年3月号 - 2013年6月号）- 読み切り作品「とぬらんち」を連載化。また本誌では最速となる2ヶ月で読み切りから連載化した作品である。
   - [ナ\*ナ\*キ\!\!](../Page/ナ*ナ*キ!!.md "wikilink")（[水谷悠珠](../Page/水谷悠珠.md "wikilink")）（2006年4月号 - 2007年10月号）
@@ -139,6 +140,7 @@
   - [政宗くんのリ○○○(リなんとか)](https://ja.wikipedia.org/wiki/政宗くんのリベンジ "wikilink")（原作：[竹岡葉月](../Page/竹岡葉月.md "wikilink")、漫画：[結城心一](../Page/結城心一.md "wikilink")、キャラクターデザイン：[Tiv](https://ja.wikipedia.org/wiki/Tiv "wikilink")）（2016年11月号 - 2017年4月号）
   - [政宗くんのリベンジ](https://ja.wikipedia.org/wiki/政宗くんのリベンジ "wikilink")（原作：[竹岡葉月](../Page/竹岡葉月.md "wikilink")、漫画：[Tiv](https://ja.wikipedia.org/wiki/Tiv "wikilink")）（2012年12月号 - 2018年8月号）
       - [政宗くんのリベンジ after school](https://ja.wikipedia.org/wiki/政宗くんのリベンジ "wikilink")（原作：竹岡葉月、漫画：Tiv）（2018年11月号 - 2019年3月号） - 短期集中連載
+  - [マジメ教師と幼女](https://ja.wikipedia.org/wiki/マジメ教師と幼女 "wikilink")（[寅](https://ja.wikipedia.org/wiki/寅_\(漫画家\) "wikilink")）（2019年6月号 - 2020年4月号）
   - [マレフィキウム](https://ja.wikipedia.org/wiki/マレフィキウム "wikilink")（[松沢夏樹](../Page/松沢夏樹.md "wikilink")）（2012年4月号 - 2012年9月号）
   - [みだLOVE♪](https://ja.wikipedia.org/wiki/みだLOVE♪ "wikilink")（[林哲也](https://ja.wikipedia.org/wiki/林哲也_\(漫画家\) "wikilink")）（2016年7月号 - 2018年5月号） - 第一部完
   - [みてぐら](https://ja.wikipedia.org/wiki/みてぐら "wikilink")（[鬼魔あづさ](https://ja.wikipedia.org/wiki/鬼魔あづさ "wikilink")）（創刊号 - 2006年4月号） - 単行本未発売

@@ -1,4 +1,4 @@
-> この記事は[NASCAR](https://ja.wikipedia.org/wiki/NASCAR)から翻訳されています。
+> この記事は[モンスターエナジー・NASCARカップ・シリーズ](https://ja.wikipedia.org/wiki/モンスターエナジー・NASCARカップ・シリーズ)から翻訳されています。
 
 
 **NASCARカップ・シリーズ** (**NASCAR Cup Series**) は、[NASCAR](../Page/NASCAR.md "wikilink")が主催する[ストックカー](../Page/ストックカー.md "wikilink")レースのトップ・カテゴリー。

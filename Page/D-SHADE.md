@@ -228,10 +228,10 @@ POBH-1013</p></td>
       -
       - [nagaken@blog](http://web.archive.org/web/20110511180807/http://nagaken.blogzine.jp/weblog/)（アーカイヴ） - [OCN](../Page/OCN.md "wikilink")ブログ人
 
-      - [THE LIDEE OFFICIAL BLOG](http://ameblo.jp/thelidee) - [アメーバブログ](../Page/アメーバブログ.md "wikilink") 2012-04-30最終更新
+      - [THE LIDEE OFFICIAL BLOG](https://ameblo.jp/thelidee) - [アメーバブログ](../Page/アメーバブログ.md "wikilink") 2012-04-30最終更新
   - **YUJI**
       -
-      - [YUJIオフィシャルブログ「YUJIと佑治」](http://ameblo.jp/neo-yuji/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+      - [YUJIオフィシャルブログ「YUJIと佑治」](https://ameblo.jp/neo-yuji/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
       - [as.milk Official Site](http://asmilk.syncl.jp/)
 

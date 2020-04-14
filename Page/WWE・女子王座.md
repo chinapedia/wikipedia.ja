@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・女子王座](https://ja.wikipedia.org/wiki/WWE・女子王座)から翻訳されています。
 
 
 **WWE女子王座**(WWEじょしおうざ、*WWE Women's Championship*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。WWEのブランドのうち、[RAWが管理している](../Page/WWE・ロウ.md "wikilink")。WWEの[ディーヴァのための王座であり](../Page/ディーヴァ_\(プロレス\).md "wikilink")、男性のスーパースターは保持することができない。

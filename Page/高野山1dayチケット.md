@@ -1,4 +1,4 @@
-> この記事は[1day](https://ja.wikipedia.org/wiki/1day)から翻訳されています。
+> この記事は[高野山1dayチケット](https://ja.wikipedia.org/wiki/高野山1dayチケット)から翻訳されています。
 
 
 **高野山1dayチケット**（こうやさんワンデイチケット）は、[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（Osaka Metro・[大阪シティバス](../Page/大阪シティバス.md "wikilink")）・[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）・[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")（京阪）・[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）・[能勢電鉄](../Page/能勢電鉄.md "wikilink")（能勢電）・[阪急電鉄](../Page/阪急電鉄.md "wikilink")（阪急）・[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")（阪神）・[山陽電気鉄道](../Page/山陽電気鉄道.md "wikilink")（山陽電鉄）・[北大阪急行電鉄](../Page/北大阪急行電鉄.md "wikilink")（北大阪急行）および[大阪高速鉄道](../Page/大阪高速鉄道.md "wikilink")（大阪モノレール）が共同で発売している期間限定タイプの乗り放題の乗車券（電子カード）と優待クーポンがセットになった切符である。

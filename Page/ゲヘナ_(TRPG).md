@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[ゲヘナ \(TRPG\)](https://ja.wikipedia.org/wiki/ゲヘナ_\(TRPG\))から翻訳されています。
 
 
 『**ゲヘナ**』は[2003年](../Page/2003年.md "wikilink")6月に[グループSNE](../Page/グループSNE.md "wikilink")が制作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。 著者は[小川楽喜](https://ja.wikipedia.org/wiki/小川楽喜 "wikilink")、監修は[友野詳](../Page/友野詳.md "wikilink")。

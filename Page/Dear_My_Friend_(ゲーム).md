@@ -1,4 +1,4 @@
-> この記事は[Dear My Friend \(\)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(\))から翻訳されています。
+> この記事は[Dear My Friend \(ゲーム\)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(ゲーム\))から翻訳されています。
 
 
 『**Dear My Friend**』（ディア マイ フレンド）は、[2004年](../Page/2004年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に[light](https://ja.wikipedia.org/wiki/light "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称は**DMF**。[CD版の副題は](../Page/コンパクトディスク.md "wikilink")「...more than friend and under sweethearts」（友達以上恋人未満）。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョージ・C・スコット](https://ja.wikipedia.org/wiki/ジョージ・C・スコット)から翻訳されています。
 
 
 **ジョージ・C・スコット**（George C. Scott, [1927年](../Page/1927年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バージニア州](../Page/バージニア州.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")。

@@ -19,15 +19,16 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
       -
         [日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマ。
         1995年1月から行われた公式ファンクラブ発足記念ライブツアー「Ciel/winter '95」で「Vivid Colors」として初披露された\[1\]。ちなみに、[インディーズ](../Page/インディーズ.md "wikilink")時代に仮タイトルの「New Song」のままライブで披露した事がある。
-        曲名の「Vivid」は、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が曲の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")を考えていたときに、[ファン](../Page/ファン.md "wikilink")からもらった[カップ](../Page/カップ.md "wikilink")に「Vivid」と書いてあったことに由来する。作曲したkenによると[名古屋](../Page/名古屋.md "wikilink")の大学時代に曲のサビはすでにあったと思われる\[2\]。
+        曲名の「Vivid」は、[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が曲の[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")を考えていたときに、[ファン](../Page/ファン.md "wikilink")からもらった[カップ](../Page/カップ.md "wikilink")に「Vivid」と書いてあったことに由来する。歌詞についてhydeは「3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』のテーマでもある"わかりやすくて、どこまで人の内側に届くか？"っていう部分が一番強調される詞かもしれない\[2\]」と述べている。
+        作曲したkenによると、[名古屋](../Page/名古屋.md "wikilink")の大学時代に曲のサビはすでにあったといい\[3\]、kenは「今より曲調が暗かったんで、ちょっと明るめにした\[4\]」と述べている。
         また、1995年9月22日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に初出演を果たし、この曲が披露された。
-        3rdアルバム『[heavenly](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\) "wikilink")』にはアルバムバージョンという表記はされていないが、ミックス違いで収録されている。ちなみに、この曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は2種類存在し、どちらもMV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』に収録されている。
+        3rdアルバム『heavenly』にはアルバムバージョンという表記はされていないが、ミックス違いで収録されている。ちなみに、この曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は2種類存在し、どちらもMV集『[CHRONICLE 0 -ZERO-](../Page/CHRONICLE_0_-ZERO-.md "wikilink")』に収録されている。
 2.  **Brilliant Years**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
         日本テレビ系番組『しんドラ』エンディングテーマ。
-        演奏時間は3分16秒と、[歌詞](../Page/歌詞.md "wikilink")のあるL'Arc〜en〜Cielのオリジナル曲では最も短い楽曲である\[3\]。初期のライブではよく演奏されていた楽曲であり、ライブでは前奏部分が新たに追加されて演奏されていた。2006年に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票で29位を記録したが、同ライブでは演奏されていない。
+        演奏時間は3分16秒と、[歌詞](../Page/歌詞.md "wikilink")のあるL'Arc〜en〜Cielのオリジナル曲では最も短い楽曲である\[5\]。初期のライブではよく演奏されていた楽曲であり、ライブでは前奏部分が新たに追加されて演奏されていた。2006年に行われたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票で29位を記録したが、同ライブでは演奏されていない。
 3.  **Vivid Colors (Voiceless Version)**
 
 ## 参加ミュージシャン
@@ -68,5 +69,7 @@ CDシングルとしては「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」
 [Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:kenが制作した楽曲](https://ja.wikipedia.org/wiki/Category:kenが制作した楽曲 "wikilink") [Category:ぐるぐるナインティナイン](https://ja.wikipedia.org/wiki/Category:ぐるぐるナインティナイン "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、p.69-p.70、1996年
-2.  [中京テレビ系番組](../Page/中京テレビ放送.md "wikilink")『[キス・ミス・チック](../Page/キス・ミス・チック.md "wikilink")』 1995年9月2日の発言より
-3.  全ての曲のなかで最も短いのは[インスト曲である](../Page/器楽曲.md "wikilink")「[hole](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」(1分08秒)。また、これより短い演奏時間の楽曲として、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にカバー曲「[I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink")」(2分49秒)を発表している。
+2.  『ロッキンf』、p.4、立東社、1995年9月号付録
+3.  [中京テレビ系番組](../Page/中京テレビ放送.md "wikilink")『[キス・ミス・チック](../Page/キス・ミス・チック.md "wikilink")』 1995年9月2日の発言より
+4.
+5.  全ての曲のなかで最も短いのは[インスト曲である](../Page/器楽曲.md "wikilink")「[hole](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」(1分08秒)。また、これより短い演奏時間の楽曲として、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にカバー曲「[I Love Rock'n Roll](https://ja.wikipedia.org/wiki/I_Love_Rock'n_Roll_\(L'Arc〜en〜Cielの曲\) "wikilink")」(2分49秒)を発表している。

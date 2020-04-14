@@ -1,4 +1,4 @@
-> この記事は[MOTHER](https://ja.wikipedia.org/wiki/MOTHER)から翻訳されています。
+> この記事は[MOTHERシリーズ](https://ja.wikipedia.org/wiki/MOTHERシリーズ)から翻訳されています。
 
 
 **MOTHERシリーズ**（マザーシリーズ）は、[任天堂](../Page/任天堂.md "wikilink")から発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")シリーズ。[コピーライター](../Page/コピーライター.md "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")が[ゲームデザイン](../Page/ゲームデザイン.md "wikilink")を手掛けている。

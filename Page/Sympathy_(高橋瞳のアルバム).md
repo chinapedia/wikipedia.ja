@@ -1,4 +1,4 @@
-> この記事は[Sympathy \(\)](https://ja.wikipedia.org/wiki/Sympathy_\(\))から翻訳されています。
+> この記事は[Sympathy \(高橋瞳のアルバム\)](https://ja.wikipedia.org/wiki/Sympathy_\(高橋瞳のアルバム\))から翻訳されています。
 
 
 『**sympathy**』（シンパシー）は、[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")にリリースされた[高橋瞳](../Page/高橋瞳.md "wikilink")の1枚目のアルバム。
@@ -45,7 +45,7 @@
 
 ## 外部リンク
 
-  - [sympathy](http://www.sonymusic.co.jp/Music/Arch/SR/HitomiTakahashi/SRCL-6167/index.html)
-  - [sympathy 初回生産限定盤](http://www.sonymusic.co.jp/Music/Arch/SR/HitomiTakahashi/SRCL-6165/index.html)
+  - [sympathy](https://www.sonymusic.co.jp/artist/HitomiTakahashi/discography/SRCL-6167)
+  - [sympathy 初回生産限定盤](https://www.sonymusic.co.jp/artist/HitomiTakahashi/discography/SRCL-6165)
 
 [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

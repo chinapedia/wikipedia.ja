@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[デヴィッド・M・ケネディ](https://ja.wikipedia.org/wiki/デヴィッド・M・ケネディ)から翻訳されています。
 
 
 [180px](https://ja.wikipedia.org/wiki/image:David_M_Kennedy.jpg "wikilink") **デヴィッド・マシュー・ケネディ**(David Matthew Kennedy, [1905年](../Page/1905年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[実業家](../Page/実業家.md "wikilink")、経済学者および財務長官であった。

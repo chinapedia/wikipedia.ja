@@ -20,9 +20,11 @@
     <!-- end list -->
       -
         [日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink")』オープニングテーマ。
+        tetsuya曰く、「L'Arc〜en〜Cielを結成する前にkenとバンドをやっていた頃、「[Be destined](../Page/DUNE_\(アルバム\).md "wikilink")」、「[予感](../Page/DUNE_\(アルバム\).md "wikilink")」の次にできた曲\[2\]」だという。リリースされるにあたり、リアレンジされている。sakuraは「俺の中にある[イアン・ペイス](../Page/イアン・ペイス.md "wikilink")を曲に落とし込んだ\[3\]」「途中で変拍子あり、[ポリ・リズムありで普通じゃないけど](../Page/ポリリズム.md "wikilink")。普通に聴こえつつも、そうではないところがラルクらしいかな\[4\]」と述べている。
+        hydeは歌詞について「一見楽しそうなんだけど、奥に秘めた不安な気持ちみたいなものを出したかった。例えば別れの予感のような\[5\]」「主人公は自分ではないです。たぶんあの時、相手はこうだったろうなっていうような内容\[6\]」と述べている。
         活動初期の曲はあまりライブで演奏しないL'Arc〜en〜Cielであるが、本楽曲はデビューから現在まで比較的コンスタントに演奏されてきた楽曲である。また、[演奏](../Page/演奏.md "wikilink")時冒頭でボーカルの[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が[ホイッスル](../Page/ホイッスル.md "wikilink")を吹き、歌唱前にそのホイッスルを客席に投げ入れるというパフォーマンスがある。また、2サビの前で一旦曲の演奏を止めて、MCが入る事が多い。
         この曲は基本4/4拍子なのだが、Dメロの「Why do you stare at the sky with your blurry eyes?」の部分および、エンディングの部分が6/8拍子に変わる。また、曲中にギターソロが2回ある。
-        また本作品の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")に於いて幻想的なメリーゴーランドのシーンが印象的だが、このシーンは[よみうりランド](../Page/よみうりランド.md "wikilink")を貸切にして撮影された\[2\]。
+        また本作品の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")に於いて幻想的なメリーゴーランドのシーンが印象的だが、このシーンは[よみうりランド](../Page/よみうりランド.md "wikilink")を貸切にして撮影された\[7\]。
         同じ所属事務所で、レコード会社も同じ[キューンミュージック](../Page/キューンミュージック.md "wikilink")所属の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[シドがインディーズ時代にライブでカバーしたことがある](../Page/シド_\(バンド\).md "wikilink")。
 2.  **Wind of Gold (Many Kind of Percussion Mix)**
       - 作詞:hyde / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel
@@ -30,7 +32,7 @@
       -
         2ndアルバム『[Tierra](../Page/Tierra_\(アルバム\).md "wikilink")』の収録曲「Wind of Gold」のリミックスバージョン。
         [sakuraの](https://ja.wikipedia.org/wiki/sakura_\(ドラマー\) "wikilink")[ティンバレス](../Page/ティンバレス.md "wikilink")等の[パーカッション](../Page/パーカッション.md "wikilink")やkenの[ガットギターでのソロがフィーチュアされ](../Page/クラシック・ギター.md "wikilink")、アルバム版に比べ華やかさが強調されている。
-        現在までL'Arc〜en〜Cielのカップリング曲は、リミックスであっても[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[The Best of L'Arc〜en〜Ciel](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』や、再アレンジが加えられているものの[リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に再収録されているが、この曲はどのアルバムにも収録されておらず、このシングルにしか収録されていない\[3\]。
+        現在までL'Arc〜en〜Cielのカップリング曲は、リミックスであっても[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[The Best of L'Arc〜en〜Ciel](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』や、再アレンジが加えられているものの[リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』に再収録されているが、この曲はどのアルバムにも収録されておらず、このシングルにしか収録されていない\[8\]。
 3.  **Blurry Eyes (Voiceless Version)**
 
 ## 参加ミュージシャン
@@ -77,5 +79,10 @@
 [Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビのテレビアニメ主題歌 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:tetsuyaが制作した楽曲](https://ja.wikipedia.org/wiki/Category:tetsuyaが制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、p.68、1996年
-2.  1996年12月13日放送 TBSラジオ　ボンジュール ラルクアンシエルにてtetsu（当時）とsakuraのトークで語られた
-3.  シングル「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」収録の「STAY AWAY -Jaze Poo Mix-」もシングルのみの収録で、どのアルバムにも収録されていない。
+2.  『ロッキンf』、p.33、立東社、1994年7月号
+3.  『ロッキンf』、p.35、立東社、1994年8月号
+4.
+5.  『ロッキンf』、p.29、立東社、1994年8月号
+6.
+7.  1996年12月13日放送 TBSラジオ　ボンジュール ラルクアンシエルにてtetsu（当時）とsakuraのトークで語られた
+8.  シングル「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」収録の「STAY AWAY -Jaze Poo Mix-」もシングルのみの収録で、どのアルバムにも収録されていない。

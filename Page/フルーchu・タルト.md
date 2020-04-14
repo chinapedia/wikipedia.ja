@@ -1,4 +1,4 @@
-> この記事は[chu](https://ja.wikipedia.org/wiki/chu)から翻訳されています。
+> この記事は[フルーchu・タルト](https://ja.wikipedia.org/wiki/フルーchu・タルト)から翻訳されています。
 
 
 『**フルーchu<span style="color:deeppink">♥</span>タルト**』（ふるーちゅ たると）は、[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")よりリリースされた[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")の1stアルバム。

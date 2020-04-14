@@ -1,4 +1,4 @@
-> この記事は[HIM \(\)](https://ja.wikipedia.org/wiki/HIM_\(\))から翻訳されています。
+> この記事は[HIM \(バンド\)](https://ja.wikipedia.org/wiki/HIM_\(バンド\))から翻訳されています。
 
 
 **HIM** (ヒム) は、[フィンランド](../Page/フィンランド.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。1995年、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")にてヴォーカルの[ヴィレ・ヴァロ](../Page/ヴィレ・ヴァロ.md "wikilink")(Ville Valo)が結成。ゴシックサウンドを擁したラブメタルを自称する。2005年リリースの5thアルバム、「[Dark Light](https://ja.wikipedia.org/wiki/Dark_Light "wikilink")」は[RIAA](https://ja.wikipedia.org/wiki/RIAA "wikilink")によるゴールドディスク認定を受け、フィンランド出身では初めてアメリカでゴールドディスク認定を受けたバンドである。本国フィンランドではダブルプラチナム、ドイツでもプラチナム認定を受けた「[Razorblade Romance](https://ja.wikipedia.org/wiki/Razorblade_Romance "wikilink")」を含む5作品がプラチナム認定されている。

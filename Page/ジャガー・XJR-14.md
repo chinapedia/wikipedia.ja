@@ -1,4 +1,4 @@
-> この記事は[XJR-14](https://ja.wikipedia.org/wiki/XJR-14)から翻訳されています。
+> この記事は[ジャガー・XJR-14](https://ja.wikipedia.org/wiki/ジャガー・XJR-14)から翻訳されています。
 
 
 **ジャガー・XJR-14**は、[グループC](../Page/グループC.md "wikilink")カー規定がそれまでの燃費フォーミュラルールから、[F1と同一のエンジン規定に変更された](../Page/フォーミュラ1.md "wikilink")[1991年](../Page/1991年.md "wikilink")に[ジャガーが使用したグループCマシン](../Page/ジャガー_\(自動車\).md "wikilink")（競技専用車）である。ジャガーの実際のグループC活動は[TWRが行っており](../Page/トム・ウォーキンショー.md "wikilink")、マシンもTWRで製作されている。[ロス・ブラウン](../Page/ロス・ブラウン.md "wikilink")が設計を担当した。

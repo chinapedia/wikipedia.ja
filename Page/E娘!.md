@@ -1,4 +1,4 @@
-> この記事は[E!](https://ja.wikipedia.org/wiki/E!)から翻訳されています。
+> この記事は[E娘!](https://ja.wikipedia.org/wiki/E娘!)から翻訳されています。
 
 
 **E娘\!**（いーむすめ\!）は、[TBSで](../Page/TBSテレビ.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された関東ローカルの深夜番組で、放送時間は毎週木曜深夜26:25〜26:52。[BS-i（現・BS-TBS）でも毎週日曜深夜](../Page/BS-TBS.md "wikilink")26:00〜26:30に3日遅れで放送されていた。

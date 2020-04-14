@@ -218,7 +218,7 @@ Ishihata Hand Clappers</p></td>
 | [Gary U.S. Bonds](https://ja.wikipedia.org/wiki/:en:Gary_U.S._Bonds "wikilink")                                                                                                                                |
 | [Connie Francis](../Page/コニー・フランシス.md "wikilink")                                                                                                                                                              |
 
-## CD (00DH 404, 32DH 505)
+## CD (00DH 404, 32DH 504)
 
 ### 解説
 
@@ -635,7 +635,7 @@ Ishihata Hand Clappers</p></td>
 
   -  ディスコグラフィ
 
-[Category:大瀧詠一のアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のアルバム "wikilink") [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1976年のアルバム](https://ja.wikipedia.org/wiki/Category:1976年のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")
+[Category:大瀧詠一のアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一のアルバム "wikilink") [Category:大瀧詠一がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:大瀧詠一がプロデュースしたアルバム "wikilink") [Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1976年のアルバム](https://ja.wikipedia.org/wiki/Category:1976年のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")
 
 1.
 2.

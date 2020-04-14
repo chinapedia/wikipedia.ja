@@ -1,4 +1,4 @@
-> この記事は[:Main Page in SeaMonkey1.0.1.png](https://ja.wikipedia.org/wiki/:Main_Page_in_SeaMonkey1.0.1.png)から翻訳されています。
+> この記事は[ファイル:Main Page in SeaMonkey1.0.1.png](https://ja.wikipedia.org/wiki/ファイル:Main_Page_in_SeaMonkey1.0.1.png)から翻訳されています。
 
 
 ## Summary

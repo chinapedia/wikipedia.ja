@@ -1,4 +1,4 @@
-> この記事は[Evergreen \(\)](https://ja.wikipedia.org/wiki/Evergreen_\(\))から翻訳されています。
+> この記事は[Evergreen \(高橋瞳の曲\)](https://ja.wikipedia.org/wiki/Evergreen_\(高橋瞳の曲\))から翻訳されています。
 
 
 「**evergreen**」（エヴァーグリーン）は、日本の歌手・[高橋瞳](../Page/高橋瞳.md "wikilink")の2枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[MAG](https://ja.wikipedia.org/wiki/MAG)から翻訳されています。
+> この記事は[MAGねっとホールディングス](https://ja.wikipedia.org/wiki/MAGねっとホールディングス)から翻訳されています。
 
 
 **株式会社MAGねっとホールディングス**（マグネット、*MAG NET HOLDINGS ,INC.*）は、主として債権回収業を行うグループの持株会社。かつては[投資](../Page/投資.md "wikilink")業や[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[賃貸の](../Page/賃貸借.md "wikilink")[保証](../Page/保証.md "wikilink")業務などを行っていた。株式会社[SFCG](../Page/SFCG.md "wikilink")のグループ企業だった。
@@ -155,7 +155,7 @@ T・ZONEホールディングスは、自らは事業を行わない純粋持株
 
   - \- 旧・サイト
 
-[Category:債権回収会社](https://ja.wikipedia.org/wiki/Category:債権回収会社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1975年設立の企業](https://ja.wikipedia.org/wiki/Category:1975年設立の企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink")
+[Category:債権回収会社](https://ja.wikipedia.org/wiki/Category:債権回収会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:1975年設立の企業](https://ja.wikipedia.org/wiki/Category:1975年設立の企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink")
 
 1.
 2.  NBF日本橋室町センタービルには、[りそな銀行](../Page/りそな銀行.md "wikilink")室町支店が入居している

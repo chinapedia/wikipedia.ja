@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ECジュベントゥージ](https://ja.wikipedia.org/wiki/ECジュベントゥージ)から翻訳されています。
 
 
 **ECジュベントゥージ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")[カシアス・ド・スル](https://ja.wikipedia.org/wiki/カシアス・ド・スル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ヘンリー・H・ファウラー](https://ja.wikipedia.org/wiki/ヘンリー・H・ファウラー)から翻訳されています。
 
 
 [Portrait_of_Henry_H._Fowler.jpg](https://ja.wikipedia.org/wiki/File:Portrait_of_Henry_H._Fowler.jpg "fig:Portrait_of_Henry_H._Fowler.jpg") **ヘンリー・ハミル・ファウラー**(**Henry Hammill Fowler**, [1908年](../Page/1908年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[弁護士](../Page/弁護士.md "wikilink")、[政治家](../Page/政治家.md "wikilink")。

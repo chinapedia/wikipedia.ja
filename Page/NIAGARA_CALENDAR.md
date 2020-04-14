@@ -566,7 +566,7 @@
 
 ### 解説
 
-1986年に初CD化されたが、第1期ナイアガラ作品群は殆どのアルバムが第2期ナイアガラ作品でエンジニアを務めた[吉田保によるリミックでの発売となった](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")。
+1986年に初CD化されたが、第1期ナイアガラ作品群は殆どのアルバムが第2期ナイアガラ作品でエンジニアを務めた[吉田保によるリミックスでの発売となった](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")。
 
 ### 収録曲
 
@@ -606,7 +606,7 @@
 ### スタッフ
 
   - PRODUCER [EIICHI OHTAKI](../Page/大瀧詠一.md "wikilink")
-  - ENGINEER [DOHJI FUEFUKI](../Page/大瀧詠一.md "wikilink") [TAMOTSUO YOSHIDA](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")
+  - ENGINEER [DOHJI FUEFUKI](../Page/大瀧詠一.md "wikilink") [TAMOTSU YOSHIDA](https://ja.wikipedia.org/wiki/吉田保_\(レコーディングエンジニア\) "wikilink")
 
 ## CD選書シリーズ
 
@@ -820,7 +820,7 @@
 <td></td>
 <td><p>CD</p></td>
 <td><p>SRCL 5008</p></td>
-<td><p>『NIAGARA CALANDER -30th Anniversary Edition-』<br />
+<td><p>『NIAGARA CALENDER -30th Anniversary Edition-』<br />
 笛吹銅次による2007年リマスター。オリジナル78年版にボーナス・トラック“81年リミックス版”12曲追加（「クリスマス音頭」はスペシャル短縮版で収録）。</p></td>
 <td></td>
 </tr>

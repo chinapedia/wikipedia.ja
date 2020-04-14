@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKジュニアスペシャル](https://ja.wikipedia.org/wiki/NHKジュニアスペシャル)から翻訳されています。
 
 
 『**NHKジュニアスペシャル**』（エヌエイチケイジュニアスペシャル）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、および[2003年](../Page/2003年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[NHK教育テレビで放送されていた](../Page/NHK教育テレビジョン.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。『[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")』を小中学生向けに再構成した番組。

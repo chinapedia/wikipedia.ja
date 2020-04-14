@@ -1,4 +1,4 @@
-> この記事は[LVG C.V \(\)](https://ja.wikipedia.org/wiki/LVG_C.V_\(\))から翻訳されています。
+> この記事は[LVG C.V \(航空機\)](https://ja.wikipedia.org/wiki/LVG_C.V_\(航空機\))から翻訳されています。
 
 
 **LVG C.V**（<small>エルファウゲー・ツェー・フュンフ</small>）は、[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")の[ヨハニスタール航空運輸有限責任会社](https://ja.wikipedia.org/wiki/ヨハニスタール航空運輸有限責任会社 "wikilink")（ルフト・フェアケーアス・ゲゼルシャフト・ミット・ベシュレンクター・ハフトゥング・ヨハニスタール；; ; .; ）が開発した、単発[複葉複座の](../Page/複葉機.md "wikilink")[偵察機](../Page/偵察機.md "wikilink")。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")終盤の[1917年](../Page/1917年.md "wikilink")に初飛行を果たした。

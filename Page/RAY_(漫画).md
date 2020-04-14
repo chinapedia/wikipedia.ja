@@ -1,4 +1,4 @@
-> この記事は[RAY \(\)](https://ja.wikipedia.org/wiki/RAY_\(\))から翻訳されています。
+> この記事は[RAY \(漫画\)](https://ja.wikipedia.org/wiki/RAY_\(漫画\))から翻訳されています。
 
 
 『**RAY**』（レイ）は、[吉富昭仁](../Page/吉富昭仁.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。第2部『**RAY -THE OTHER SIDE-**』は『**RAY+**』として単行本が刊行された。

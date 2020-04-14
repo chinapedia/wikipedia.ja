@@ -1,4 +1,4 @@
-> この記事は[JBL\'s](https://ja.wikipedia.org/wiki/JBL\'s)から翻訳されています。
+> この記事は[JBL\'s・キャビネット](https://ja.wikipedia.org/wiki/JBL\'s・キャビネット)から翻訳されています。
 
 
 **ジェイビーエルズ・キャビネット**（*JBL's Cabinet*）は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")の興行に登場する[タッグチーム](../Page/タッグチーム.md "wikilink")。日本では**JBL内閣**とも呼ばれ、また単に**キャビネット**とも呼ばれる。

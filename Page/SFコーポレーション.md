@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SFコーポレーション](https://ja.wikipedia.org/wiki/SFコーポレーション)から翻訳されています。
 
 
 **株式会社SFコーポレーション**（エスエフコーポレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者で、[東京都](../Page/東京都.md "wikilink")[港区に本社を置いている](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。2008年10月31日、三和ファイナンスはかざかファイナンスへ売却され、[商号](../Page/商号.md "wikilink")を**三和ファイナンス株式会社**から変更した。その後創業者は経営に一切関係していない。2011年8月26日、[過払金](../Page/過払金.md "wikilink")債権の返還に行き詰り、破産手続開始決定を受ける。

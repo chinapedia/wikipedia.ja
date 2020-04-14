@@ -1,4 +1,4 @@
-> この記事は[Love Story \(\)](https://ja.wikipedia.org/wiki/Love_Story_\(\))から翻訳されています。
+> この記事は[Love Story \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Love_Story_\(テレビドラマ\))から翻訳されています。
 
 
 『**Love Story**』（ラブストーリー）は、[2001年](../Page/2001年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")より[6月24日](../Page/6月24日.md "wikilink")まで毎週日曜日21:00 - 21:54に、[TBS](../Page/TBSテレビ.md "wikilink")[系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。主演は[中山美穂](../Page/中山美穂.md "wikilink")と[豊川悦司](../Page/豊川悦司.md "wikilink")。

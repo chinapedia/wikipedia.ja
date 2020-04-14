@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[中島京子 \(AV女優\)](https://ja.wikipedia.org/wiki/中島京子_\(AV女優\))から翻訳されています。
 
 
 **中島 京子**（なかじま きょうこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")\[1\]。

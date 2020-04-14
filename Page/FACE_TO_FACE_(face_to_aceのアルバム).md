@@ -1,4 +1,4 @@
-> この記事は[FACE TO FACE \(face to ace\)](https://ja.wikipedia.org/wiki/FACE_TO_FACE_\(face_to_ace\))から翻訳されています。
+> この記事は[FACE TO FACE \(face to aceのアルバム\)](https://ja.wikipedia.org/wiki/FACE_TO_FACE_\(face_to_aceのアルバム\))から翻訳されています。
 
 
 『**FACE TO FACE**』（フェイス・トゥ・フェイス）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[face to aceの初の](https://ja.wikipedia.org/wiki/face_to_ace "wikilink")[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、[日本クラウン](../Page/日本クラウン.md "wikilink")より発売。

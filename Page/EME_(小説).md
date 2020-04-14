@@ -1,4 +1,4 @@
-> この記事は[EME \(\)](https://ja.wikipedia.org/wiki/EME_\(\))から翻訳されています。
+> この記事は[EME \(小説\)](https://ja.wikipedia.org/wiki/EME_\(小説\))から翻訳されています。
 
 
 『**EME**』（イーエムイー）は、[富士見ファンタジア文庫](../Page/富士見ファンタジア文庫.md "wikilink")から刊行されている[瀧川武司](https://ja.wikipedia.org/wiki/瀧川武司 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品である。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[尾崎弘宜](https://ja.wikipedia.org/wiki/尾崎弘宜 "wikilink")。第4回[龍皇杯](../Page/龍皇杯.md "wikilink")優勝作品（[伝説の勇者の伝説](../Page/伝説の勇者の伝説.md "wikilink")との同時受賞）。

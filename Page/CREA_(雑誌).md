@@ -1,4 +1,4 @@
-> この記事は[CREA \(\)](https://ja.wikipedia.org/wiki/CREA_\(\))から翻訳されています。
+> この記事は[CREA \(雑誌\)](https://ja.wikipedia.org/wiki/CREA_\(雑誌\))から翻訳されています。
 
 
 『**CREA**』（クレア）は[1989年](../Page/1989年.md "wikilink")、[文藝春秋](../Page/文藝春秋.md "wikilink")から創刊された[女性](../Page/女性.md "wikilink")向け[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")。[2019年](../Page/2019年.md "wikilink")10月で創刊30周年を迎えた。
@@ -24,6 +24,8 @@
   - 発売日　毎月7日
   - 価格　580円～600円
   - 発行部数　104,500部
+
+## 脚注
 
 ## 外部リンク
 

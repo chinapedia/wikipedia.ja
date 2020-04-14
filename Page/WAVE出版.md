@@ -1,4 +1,4 @@
-> この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
+> この記事は[WAVE出版](https://ja.wikipedia.org/wiki/WAVE出版)から翻訳されています。
 
 
 **株式会社WAVE出版**（ウェーブしゅっぱん）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。主に[文芸](https://ja.wikipedia.org/wiki/文芸 "wikilink")、[社会](../Page/社会.md "wikilink")、[自己啓発](../Page/自己啓発.md "wikilink")、[ビジネス](../Page/ビジネス.md "wikilink")、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")、[実用書](https://ja.wikipedia.org/wiki/実用書 "wikilink")などの[書籍を出版している](../Page/本.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Option \(\)](https://ja.wikipedia.org/wiki/Option_\(\))から翻訳されています。
+> この記事は[Option \(雑誌\)](https://ja.wikipedia.org/wiki/Option_\(雑誌\))から翻訳されています。
 
 
 **Option** (オプション) とは、株式会社ディーズ・クラブが製作、[三栄書房が](../Page/三栄_\(出版社\).md "wikilink")[出版](../Page/出版.md "wikilink")している[自動車雑誌](../Page/自動車雑誌.md "wikilink")の1つである。1981年創刊、毎月26日発売。現在の編集長は「カジ編」こと加地伸康。

@@ -1,4 +1,4 @@
-> この記事は[BBT](https://ja.wikipedia.org/wiki/BBT)から翻訳されています。
+> この記事は[BBTスーパーニュース](https://ja.wikipedia.org/wiki/BBTスーパーニュース)から翻訳されています。
 
 
 『**BBTスーパーニュース**』（ビービーティースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*BBT Super NEWS*）は、[富山テレビで](../Page/富山テレビ放送.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

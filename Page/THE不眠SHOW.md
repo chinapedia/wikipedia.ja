@@ -1,4 +1,4 @@
-> この記事は[THESHOW](https://ja.wikipedia.org/wiki/THESHOW)から翻訳されています。
+> この記事は[THE不眠SHOW](https://ja.wikipedia.org/wiki/THE不眠SHOW)から翻訳されています。
 
 
 『**THE不眠SHOW**』（ザふみんショー）は、[X-TV](http://www.x-tv.jp/)連載の[筧昌也](../Page/筧昌也.md "wikilink")作の[ウェブコミック](../Page/ウェブコミック.md "wikilink")。現在、第一部が終了し、第二部『睡眠グ・クラブ編』として復活する予定。

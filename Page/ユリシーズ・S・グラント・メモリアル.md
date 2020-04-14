@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ユリシーズ・S・グラント・メモリアル](https://ja.wikipedia.org/wiki/ユリシーズ・S・グラント・メモリアル)から翻訳されています。
 
 
 **ユリシーズ・S・グラント・メモリアル**（英語：Ulysses S. Grant Memorial）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[首都](../Page/首都.md "wikilink")[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")の中心部、[ナショナル・モール](../Page/ナショナル・モール.md "wikilink")にある記念碑の名称。アメリカ合衆国第18代[大統領](../Page/大統領.md "wikilink")であり、[南北戦争](../Page/南北戦争.md "wikilink")の将軍でもあった[ユリシーズ・S・グラント](https://ja.wikipedia.org/wiki/ユリシーズ・S・グラント "wikilink")の栄光を称えて建設されたものである。

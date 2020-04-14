@@ -1,4 +1,4 @@
-> この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
+> この記事は[LGディスプレイ](https://ja.wikipedia.org/wiki/LGディスプレイ)から翻訳されています。
 
 
 **LGディスプレイ**（**LG Display Co., Ltd**）は、[韓国](../Page/大韓民国.md "wikilink")・[LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")（旧称：LG電子）の[CRT](../Page/ブラウン管.md "wikilink")・[LCDメーカー](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[E番号](https://ja.wikipedia.org/wiki/E番号)から翻訳されています。
 
 
 [Riboflavin_solution.jpg](https://ja.wikipedia.org/wiki/File:Riboflavin_solution.jpg "fig:Riboflavin_solution.jpg")の溶液 \]\] [Monosodium_glutamate_crystals.jpg](https://ja.wikipedia.org/wiki/File:Monosodium_glutamate_crystals.jpg "fig:Monosodium_glutamate_crystals.jpg")の結晶（調味料の一つ）\]\] **E番号** (E number) は、[欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")内で使用するために決められている[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")に付与される分類番号である（E番号のEはEuropeのEである）\[1\]。欧州連合では一般的に食品のラベルに記載されている\[2\]。食品添加物の安全性の評価とその承認は[欧州食品安全機関](https://ja.wikipedia.org/wiki/欧州食品安全機関 "wikilink")の管轄である\[3\]。分類方式は[コーデックス委員会](https://ja.wikipedia.org/wiki/コーデックス委員会 "wikilink")が定めた国際番号付与体系 (International Numbering System, **INS**) に従う。[INS添加物](https://ja.wikipedia.org/wiki/INS添加物 "wikilink")として認められているもののみが欧州連合でも認可され、INSと同じ番号に接頭辞「E」を付加したE番号が与えられる。

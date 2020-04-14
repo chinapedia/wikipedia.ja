@@ -1,4 +1,4 @@
-> この記事は[Net](https://ja.wikipedia.org/wiki/Net)から翻訳されています。
+> この記事は[柳田ふれあいNet](https://ja.wikipedia.org/wiki/柳田ふれあいNet)から翻訳されています。
 
 
 **柳田ふれあいNet**（やなぎだふれあいネット）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[鳳珠郡](../Page/鳳珠郡.md "wikilink")[能登町](../Page/能登町.md "wikilink")が運営している[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")である。

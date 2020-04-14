@@ -1,4 +1,4 @@
-> この記事は[San Pin ](https://ja.wikipedia.org/wiki/San_Pin_)から翻訳されています。
+> この記事は[道の駅San Pin 中津](https://ja.wikipedia.org/wiki/道の駅San_Pin_中津)から翻訳されています。
 
 
 **道の駅San Pin 中津**（みちのえき サン ピン なかつ）は、[和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[日高川町](../Page/日高川町.md "wikilink")船津にある[和歌山県道26号御坊美山線](https://ja.wikipedia.org/wiki/和歌山県道26号御坊美山線 "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。
@@ -27,8 +27,8 @@
 
 ## 休館日
 
-  - 毎週水曜日
-  - 年始
+  - 12/31
+  - 元旦
 
 ## アクセス
 

@@ -1,4 +1,4 @@
-> この記事は[Op.](https://ja.wikipedia.org/wiki/Op.)から翻訳されています。
+> この記事は[Op.ローズダスト](https://ja.wikipedia.org/wiki/Op.ローズダスト)から翻訳されています。
 
 
 『**Op.ローズダスト**』（オペレーション・ローズダスト、*Operation ROSE DUST*）は、[福井晴敏](../Page/福井晴敏.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[小説](../Page/小説.md "wikilink")。

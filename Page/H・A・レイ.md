@@ -1,4 +1,4 @@
-> この記事は[HA](https://ja.wikipedia.org/wiki/HA)から翻訳されています。
+> この記事は[H・A・レイ](https://ja.wikipedia.org/wiki/H・A・レイ)から翻訳されています。
 
 
 **ハンス・アウグスト・レイ**（Hans Augusto Rey, [1898年](../Page/1898年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") - [1977年](../Page/1977年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")生まれの[絵本作家](https://ja.wikipedia.org/wiki/絵本作家 "wikilink")。本名ハンス・アウグスト・ライアースバッハ（Hans August Reyersbach）\[1\]。一般に**H.A.レイ**と表記されている。妻の[マーグレット・レイ](https://ja.wikipedia.org/wiki/マーグレット・レイ "wikilink")とともに『[ひとまねこざる](https://ja.wikipedia.org/wiki/ひとまねこざる "wikilink")（Curious George）』シリーズを描いた。伸びやかで親しみやすい画風で、乳幼児から幅広い年齢層を対象に親しまれている。

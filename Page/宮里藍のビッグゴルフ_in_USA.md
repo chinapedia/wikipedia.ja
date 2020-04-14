@@ -1,4 +1,4 @@
-> この記事は[ in USA](https://ja.wikipedia.org/wiki/_in_USA)から翻訳されています。
+> この記事は[宮里藍のビッグゴルフ in USA](https://ja.wikipedia.org/wiki/宮里藍のビッグゴルフ_in_USA)から翻訳されています。
 
 
 **宮里藍のビッグゴルフ in USA**（みやざとあい　- イン・ユーエスーエー）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放映された[ゴルフ](../Page/ゴルフ.md "wikilink")番組である。
@@ -11,7 +11,7 @@
 ## 出演者
 
   - ホステス:宮里藍選手
-  - 進行:[岩瀬恵子](https://ja.wikipedia.org/wiki/岩瀬恵子 "wikilink")
+  - 進行:[岩瀬惠子](../Page/岩瀬惠子.md "wikilink")
   - 解説:[岡本綾子](../Page/岡本綾子.md "wikilink")選手
   - 聞き手:[植草朋樹](../Page/植草朋樹.md "wikilink")（テレビ東京　第1戦のみ） → [根岸朗](../Page/根岸朗.md "wikilink")（第2戦以後）
 

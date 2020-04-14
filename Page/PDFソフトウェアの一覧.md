@@ -1,4 +1,4 @@
-> この記事は[PDF](https://ja.wikipedia.org/wiki/PDF)から翻訳されています。
+> この記事は[PDFソフトウェアの一覧](https://ja.wikipedia.org/wiki/PDFソフトウェアの一覧)から翻訳されています。
 
 
 **PDFソフトウェアの一覧**（PDFソフトウェアのいちらん）では[Portable Document Format](../Page/Portable_Document_Format.md "wikilink")（PDF）ソフトウェアを列記する。
@@ -75,6 +75,8 @@
 
   - [Ascertia Docs](http://docs.ascertia.com) - オンラインのPDFドキュメントの署名。
 
+  - [ApowerPDF](https://ja.wikipedia.org/wiki/ApowerPDF "wikilink") [1](https://www.apowersoft.jp/pdf-editor) - PDFの編集、変換、署名、パスワード設定、圧縮、結合機能を搭載
+
   - [callas pdfToolbox](http://www.too.com/product/software/pdftoolbox.html)（カラス）
 
   - [CorelDRAW](../Page/CorelDRAW.md "wikilink")（[コーレル](../Page/コーレル.md "wikilink")）
@@ -121,29 +123,17 @@
 ### オープンソース
 
   - [Apache OpenOffice](https://ja.wikipedia.org/wiki/Apache_OpenOffice "wikilink") - PDF出力機能を標準で備えている。
-
   - [Common Unix Printing System](../Page/Common_Unix_Printing_System.md "wikilink") - [Unix系](../Page/Unix系.md "wikilink")OSで印刷形式としてPDF出力が選べる。
-
   - [CopperPDF](http://copper-pdf.com/) - HTML, SVG, 画像ファイルからPDFを作成できる。
-
   - [CubePDF](https://ja.wikipedia.org/wiki/CubePDF "wikilink")（キューブ・ソフト） - [Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
-
   - [dvipdfm](https://ja.wikipedia.org/wiki/dvipdfm "wikilink") - 組版ソフトウェア[LaTeX](../Page/LaTeX.md "wikilink")のドキュメントファイルをPDFに変換できる。
-
   - [Ghostscript](../Page/Ghostscript.md "wikilink") - [PostScript](../Page/PostScript.md "wikilink")ファイルからPDFファイルを作成できる。
-
   - [Inkscape](../Page/Inkscape.md "wikilink") - PDFを直接編集できる。また、出力形式としてPDFを選べる。
-
   - [JasperReports](https://ja.wikipedia.org/wiki/JasperReports "wikilink") - PDF出力機能を標準で備えている帳票作成ツール。
-
   - [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") - PDF出力機能を標準で備えている。
-
   - [PDFCreator](https://ja.wikipedia.org/wiki/PDFCreator "wikilink") - 仮想プリンタとして動作し、出力形式としてPDFを選べる。
-
   - [pdfTeX](https://ja.wikipedia.org/wiki/pdfTeX "wikilink") - TeXファイルから直接PDFファイルを作成できる。
-
-  - \- PDF編集CUIツール。PDFの結合・分割・暗号化・パスワード設定などができる。
-
+  - [PDFtk](../Page/PDFtk.md "wikilink") - PDF編集CUIツール。PDFの結合・分割・暗号化・パスワード設定などができる。
   - [Scribus](../Page/Scribus.md "wikilink") - [DTP](../Page/DTP.md "wikilink")アプリケーションで、PDFを作成できる。
 
 ### フリーウェア
@@ -171,6 +161,8 @@
   - PDF2Office（[Recosoft](http://www.recosoft.com/)）
 
   - [PDF-XChange シリーズ](https://ja.wikipedia.org/wiki/PDF-XChange "wikilink")（[Tracker Software Products Ltd.](http://www.docu-track.com/)）
+
+  - [LightPDF](https://ja.wikipedia.org/wiki/LightPDF "wikilink") [2](https://lightpdf.com/jp/) - ウェブベースのPDF変換・編集ソフトウェア
 
   - （[Solid Documents](http://www.soliddocuments.com/ja/)）
 

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRスーパー海物語](https://ja.wikipedia.org/wiki/CRスーパー海物語)から翻訳されています。
 
 
 **CRスーパー海物語**（シーアール スーパーうみものがたり）は、[2006年](../Page/2006年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NYPD](https://ja.wikipedia.org/wiki/NYPD)から翻訳されています。
+> この記事は[NYPDブルー](https://ja.wikipedia.org/wiki/NYPDブルー)から翻訳されています。
 
 
 『**NYPDブルー**』（エヌワイピーディーブルー、*NYPD Blue*）は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")が舞台の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")。[1993年](../Page/1993年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")に渡って、全12シーズンが放送された。

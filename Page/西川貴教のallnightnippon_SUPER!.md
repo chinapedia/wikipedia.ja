@@ -1,4 +1,4 @@
-> この記事は[allnightnippon SUPER!](https://ja.wikipedia.org/wiki/allnightnippon_SUPER!)から翻訳されています。
+> この記事は[西川貴教のallnightnippon SUPER!](https://ja.wikipedia.org/wiki/西川貴教のallnightnippon_SUPER!)から翻訳されています。
 
 
 **西川貴教のallnightnippon SUPER\! (にしかわたかのりのオールナイトニッポンスーパー)**は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の深夜レーベル[LF+R](../Page/LF+R.md "wikilink")で放送されていた[allnightnippon SUPER\!内の番組である](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")。

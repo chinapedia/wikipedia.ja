@@ -1,4 +1,4 @@
-> この記事は[SHINY NIGHT](https://ja.wikipedia.org/wiki/SHINY_NIGHT)から翻訳されています。
+> この記事は[久川綾のSHINY NIGHT](https://ja.wikipedia.org/wiki/久川綾のSHINY_NIGHT)から翻訳されています。
 
 
 **久川綾のSHINY NIGHT**（ひさかわあやのシャイニーナイト）は、[声優](../Page/声優.md "wikilink")・[久川綾](../Page/久川綾.md "wikilink")がメイン[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称「シャイニー」。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")の4年間に渡り、[文化放送](../Page/文化放送.md "wikilink")系列で毎週[土曜日](../Page/土曜日.md "wikilink")深夜(日曜午前)1時30分から放送されていた。

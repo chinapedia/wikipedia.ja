@@ -1,4 +1,4 @@
-> この記事は[BT](https://ja.wikipedia.org/wiki/BT)から翻訳されています。
+> この記事は[BT戦車](https://ja.wikipedia.org/wiki/BT戦車)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:BT-2_in_the_Kubinka_Tank_Museum_02.jpg "wikilink") **BT戦車**（ベーテーせんしゃ、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ブィストラホードヌィイェ・ターンキ</small>、略称:****<small>ベテー</small>）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に[ソ連が開発した一連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")である。

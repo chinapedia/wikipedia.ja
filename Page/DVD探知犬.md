@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[DVD探知犬](https://ja.wikipedia.org/wiki/DVD探知犬)から翻訳されています。
 
 
 **DVD探知犬**（ディーブイディーたんちけん）は、[海賊版](https://ja.wikipedia.org/wiki/海賊版 "wikilink")[DVD](../Page/DVD.md "wikilink")などの[販売](../Page/販売.md "wikilink")や[密輸](../Page/密輸.md "wikilink")を防止することを目的に、[空港](../Page/空港.md "wikilink")の荷物調査や捜査活動などを通じて、[光ディスク](../Page/光ディスク.md "wikilink")のにおいを嗅ぎ分ける[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")。

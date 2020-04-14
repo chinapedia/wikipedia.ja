@@ -1,4 +1,4 @@
-> この記事は[Revolver \(\)](https://ja.wikipedia.org/wiki/Revolver_\(\))から翻訳されています。
+> この記事は[Revolver \(声優ユニット\)](https://ja.wikipedia.org/wiki/Revolver_\(声優ユニット\))から翻訳されています。
 
 
 **Revolver**（リボルバー）は、[声優](../Page/声優.md "wikilink")・[かないみか](../Page/かないみか.md "wikilink")プロデュースの下で結成された、男性声優4人組の自主制作ユニットである。

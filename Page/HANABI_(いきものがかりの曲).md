@@ -1,4 +1,4 @@
-> この記事は[HANABI \(\)](https://ja.wikipedia.org/wiki/HANABI_\(\))から翻訳されています。
+> この記事は[HANABI \(いきものがかりの曲\)](https://ja.wikipedia.org/wiki/HANABI_\(いきものがかりの曲\))から翻訳されています。
 
 
 「**HANABI**」（ハナビ）は、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")から発売された。
@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [HANABI](http://www.sonymusic.co.jp/artist/Ikimonogakari/discography/ESCL-2823) - Sony Music
+  - [HANABI](https://www.sonymusic.co.jp/artist/Ikimonogakari/discography/ESCL-2823) - Sony Music
 
 [pt:Hanabi (canção de Ikimono-gakari)](https://ja.wikipedia.org/wiki/pt:Hanabi_\(canção_de_Ikimono-gakari\) "wikilink")
 

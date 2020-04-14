@@ -1,4 +1,4 @@
-> この記事は[C.T.U \(\)](https://ja.wikipedia.org/wiki/C.T.U_\(\))から翻訳されています。
+> この記事は[C.T.U \(プロレス\)](https://ja.wikipedia.org/wiki/C.T.U_\(プロレス\))から翻訳されています。
 
 
 **C.T.U**（シー・ティー・ユー、*Control Terror Unit*）は、かつて[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")のジュニアヘビー級の[ヒールユニットであった](../Page/ヒール_\(プロレス\).md "wikilink")。オリジナルのメンバーは[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")、[邪道](../Page/邪道_\(プロレスラー\).md "wikilink")、[外道](../Page/外道_\(プロレスラー\).md "wikilink")、[竹村豪氏](../Page/竹村豪氏.md "wikilink")。

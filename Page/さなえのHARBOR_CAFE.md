@@ -1,4 +1,4 @@
-> この記事は[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE)から翻訳されています。
+> この記事は[さなえのHARBOR CAFE](https://ja.wikipedia.org/wiki/さなえのHARBOR_CAFE)から翻訳されています。
 
 
 **さなえのHARBOR CAFE**は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")より月曜日から木曜日9時から13時（月曜日と火曜日は12時55分）に放送されている[ラジオ関西](../Page/ラジオ関西.md "wikilink")のワイド番組である。

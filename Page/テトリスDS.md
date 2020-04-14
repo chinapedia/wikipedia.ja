@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[テトリスDS](https://ja.wikipedia.org/wiki/テトリスDS)から翻訳されています。
 
 
 『**テトリスDS**』（テトリスディーエス）は、[任天堂](../Page/任天堂.md "wikilink")が開発、発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
@@ -35,10 +35,10 @@
 
 #### タッチ
 
-『バルーンファイト』をモチーフにしたテトリミノをタッチペンで動かし消していくモード。レベル4とレベル5は回転させることができない。また、通常のテトリスとは違い、一度に複数列（ライン）を消すよりも、連鎖をすることで高得点を獲得できる。
+『バルーンファイト』がモチーフ。予め積み上げられたテトリミノをタッチペンで左右にスライドさせ、ラインを作って消していくモード。ブロックを上下に動かすことはできない。 通常のテトリスとは違い、テトリミノ毎にブロックが塊になっており、下の隙間に落下することもある。これを利用して連鎖消しをすると、一度に複数列（ライン）を消すよりも高得点を獲得できる。
 
   - タワー
-    延々と連なったテトリミノを消していき、一番上にある風船が入っている檻を一番下まで落としたらクリア。レベル3まではテトリミノを回転させることができる。
+    延々と連なったテトリミノを消していき、一番上にある風船が入っている檻を一番下まで落としたらクリア。レベル3まではテトリミノや、ライン消しで小さくなった塊を回転させることができるが、レベル4とレベル5は回転させることができない。
   - タッチパズル
     上画面に出ている指示通りにテトリミノを消すモード。全50面。テトリミノを回転することはできない。
 
@@ -181,9 +181,8 @@ Wi-Fiのスタンダード4人の場合は1位になった回数と2位になっ
 
 ## 外部リンク
 
-  - [テトリスDS公式ホームページ](http://www.nintendo.co.jp/ds/atrj/index.html)
+  - [テトリスDS公式ホームページ](https://www.nintendo.co.jp/ds/atrj/)
 
-  -
 [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:テトリス](https://ja.wikipedia.org/wiki/Category:テトリス "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")
 
 1.

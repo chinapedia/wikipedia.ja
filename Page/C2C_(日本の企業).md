@@ -1,4 +1,4 @@
-> この記事は[C2C \(\)](https://ja.wikipedia.org/wiki/C2C_\(\))から翻訳されています。
+> この記事は[C2C \(日本の企業\)](https://ja.wikipedia.org/wiki/C2C_\(日本の企業\))から翻訳されています。
 
 
 **株式会社C2C**（シートゥーシー）は、[アニメーション](../Page/アニメーション.md "wikilink")の企画・制作を主な事業内容とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。
@@ -6,6 +6,8 @@
 ## 概要
 
 [2006年](../Page/2006年.md "wikilink")4月、[TripleAの子会社として株式会社](../Page/Triple_A_\(アニメ制作会社\).md "wikilink")**C2C**（シートゥーシー）を設立。社名は「Challenge To Challenge」の略\[1\]。主に[グロス請け](../Page/グロス請け.md "wikilink")を中心に活動していたが、『[ゆるめいつ 3でぃ](https://ja.wikipedia.org/wiki/ゆるめいつ_3でぃ "wikilink")』より元請制作としても活動している。[サテライトとの共同制作が多く](../Page/サテライト_\(アニメ制作会社\).md "wikilink")、サテライト制作作品に各話制作協力としても参加している。2018年7月より『[はるかなレシーブ](https://ja.wikipedia.org/wiki/はるかなレシーブ "wikilink")』にて、自社単独では初の30分枠の元請制作を担当した。
+
+社内に演出・作画部門を構え演出・原画・動画の制作を主にしている。同社元請制作の第二原画、動画、仕上げに関しては親会社のTripleAが担当している。
 
 ## 作品
 

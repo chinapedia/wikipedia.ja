@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジョセフ・W・バー](https://ja.wikipedia.org/wiki/ジョセフ・W・バー)から翻訳されています。
 
 
 [180px](https://ja.wikipedia.org/wiki/image:Joseph_W_Barr.jpg "wikilink") **ジョセフ・ウォーカー・バー**(**Joseph Walker Barr**, [1918年](../Page/1918年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - [1996年](../Page/1996年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[実業家](../Page/実業家.md "wikilink")、[政治家](../Page/政治家.md "wikilink")。

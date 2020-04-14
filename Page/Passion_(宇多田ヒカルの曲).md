@@ -1,4 +1,4 @@
-> この記事は[Passion \(\)](https://ja.wikipedia.org/wiki/Passion_\(\))から翻訳されています。
+> この記事は[Passion \(宇多田ヒカルの曲\)](https://ja.wikipedia.org/wiki/Passion_\(宇多田ヒカルの曲\))から翻訳されています。
 
 
 「**Passion**」（パッション）は、[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")にリリースされた[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の15th[シングル](../Page/シングル.md "wikilink")。

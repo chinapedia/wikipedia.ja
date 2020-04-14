@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR新世紀エヴァンゲリオン・セカンドインパクト](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン・セカンドインパクト)から翻訳されています。
 
 
 **CR新世紀エヴァンゲリオン・セカンドインパクト**（シーアールしんせいきエヴァンゲリオン・セカンドインパクト）は[フィールズおよび](../Page/フィールズ_\(企業\).md "wikilink")[ビスティ](../Page/ビスティ.md "wikilink")より[2006年](../Page/2006年.md "wikilink")2月に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。『[CR新世紀エヴァンゲリオン](../Page/CR新世紀エヴァンゲリオン.md "wikilink")』の後継機にあたる機種である。本作の続編として、2007年2月より『[CR新世紀エヴァンゲリオン 〜奇跡の価値は〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜奇跡の価値は〜 "wikilink")』が登場した。

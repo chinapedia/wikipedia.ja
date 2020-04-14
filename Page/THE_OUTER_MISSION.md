@@ -27,7 +27,7 @@
 9.  **不思議な第3惑星** （作詞・作曲: デーモン小暮、編曲: 聖飢魔II、土橋安騎夫）
 10. **THE OUTER MISSION**（作詞: デーモン小暮、作曲: エース清水、編曲:聖飢魔II、土橋安騎夫）
       -
-        [コーラスで](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[NOKKO](../Page/NOKKO.md "wikilink")が参加。
+        [ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")で[NOKKO](../Page/NOKKO.md "wikilink")が参加。
 
 ## 関連小教典（シングル）
 

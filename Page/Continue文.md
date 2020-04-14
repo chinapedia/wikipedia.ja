@@ -1,4 +1,4 @@
-> この記事は[Continue](https://ja.wikipedia.org/wiki/Continue)から翻訳されています。
+> この記事は[Continue文](https://ja.wikipedia.org/wiki/Continue文)から翻訳されています。
 
 
 **continue文**は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の[ループで用いられる](../Page/ループ_\(プログラミング\).md "wikilink")[文である](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")。

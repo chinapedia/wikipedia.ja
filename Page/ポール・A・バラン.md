@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ポール・A・バラン](https://ja.wikipedia.org/wiki/ポール・A・バラン)から翻訳されています。
 
 
 **ポール・アレグザンダー・バラン**（Paul Alexander Baran, [1910年](../Page/1910年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[経済学者](../Page/経済学者.md "wikilink")。[資本主義](../Page/資本主義.md "wikilink")における[独占](../Page/独占.md "wikilink")の研究で知られる。

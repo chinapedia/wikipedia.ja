@@ -1,4 +1,4 @@
-> この記事は[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off)から翻訳されています。
+> この記事は[Memories Offシリーズ](https://ja.wikipedia.org/wiki/Memories_Offシリーズ)から翻訳されています。
 
 
 『**Memories Off シリーズ**』（メモリーズオフシリーズ）は、[恋愛アドベンチャーゲーム及びそれを中心とした](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")、[小説](../Page/小説.md "wikilink")、[CDなど派生作品を含めたシリーズの総称である](../Page/コンパクトディスク.md "wikilink")。略称は『**メモオフ**』。
@@ -254,7 +254,7 @@
   - [メモオフ放送部（2001）](https://ja.wikipedia.org/wiki/メモオフ放送部_\(2001年\) "wikilink")（[2001年](../Page/2001年.md "wikilink")）
   - [みずたまメモリーズ](https://ja.wikipedia.org/wiki/みずたまメモリーズ "wikilink")（[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")、2001年）
   - [みずたま拡大計画](https://ja.wikipedia.org/wiki/みずたま拡大計画 "wikilink")（2001年）
-  - [みずたまフレンズ](https://ja.wikipedia.org/wiki/みずたまフレンズ "wikilink")（2002年）
+  - [みずたまフレンズ](https://ja.wikipedia.org/wiki/みずたまフレンズ "wikilink")（[文化放送](../Page/文化放送.md "wikilink")、2002年）
   - [みずたま乗っ取り計画](https://ja.wikipedia.org/wiki/みずたま乗っ取り計画 "wikilink")（2002年）
   - [井戸端ネットラジオ 小さな幸せ](https://ja.wikipedia.org/wiki/井戸端ネットラジオ_小さな幸せ "wikilink")（2002 - 2006年）
   - [メモオフ放送部（2004）](https://ja.wikipedia.org/wiki/メモオフ放送部_\(2004年\) "wikilink")（2004年）

@@ -1,4 +1,4 @@
-> この記事は[Be-6 \(\)](https://ja.wikipedia.org/wiki/Be-6_\(\))から翻訳されています。
+> この記事は[Be-6 \(航空機\)](https://ja.wikipedia.org/wiki/Be-6_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ベリエフ Be-6 | 画像=[File:Бе-6.JPG|300px](File:Бе-6.JPG%7C300px) | キャプション=Be-6

@@ -1,4 +1,4 @@
-> この記事は[JUNCTION \(\)](https://ja.wikipedia.org/wiki/JUNCTION_\(\))から翻訳されています。
+> この記事は[JUNCTION \(本田美奈子のアルバム\)](https://ja.wikipedia.org/wiki/JUNCTION_\(本田美奈子のアルバム\))から翻訳されています。
 
 
 『**JUNCTION**』（ジャンクション）は、日本の歌手、[本田美奈子のアルバム](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。[1994年](../Page/1994年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[マーキュリー・レコード](../Page/マーキュリー・レコード.md "wikilink")からリリースされた。

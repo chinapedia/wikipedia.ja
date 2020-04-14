@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[東白川CATV](https://ja.wikipedia.org/wiki/東白川CATV)から翻訳されています。
 
 
 **東白川CATV**（ひがししらかわシーエーティーヴィ）は、[岐阜県](../Page/岐阜県.md "wikilink")[加茂郡](../Page/加茂郡.md "wikilink")[東白川村](../Page/東白川村.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。

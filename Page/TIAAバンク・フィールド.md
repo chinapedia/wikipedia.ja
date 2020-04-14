@@ -1,4 +1,4 @@
-> この記事は[TIAA](https://ja.wikipedia.org/wiki/TIAA)から翻訳されています。
+> この記事は[TIAAバンク・フィールド](https://ja.wikipedia.org/wiki/TIAAバンク・フィールド)から翻訳されています。
 
 
 **TIAAバンク・フィールド**（*TIAA Bank Field* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ジャクソンビルにある](https://ja.wikipedia.org/wiki/ジャクソンビル_\(フロリダ州\) "wikilink")[スタジアム](../Page/スタジアム.md "wikilink")。[NFL](../Page/NFL.md "wikilink")[ジャクソンビル・ジャガーズ](../Page/ジャクソンビル・ジャガーズ.md "wikilink")のホームスタジアムである。

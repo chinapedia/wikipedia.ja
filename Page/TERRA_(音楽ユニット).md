@@ -1,4 +1,4 @@
-> この記事は[TERRA \(\)](https://ja.wikipedia.org/wiki/TERRA_\(\))から翻訳されています。
+> この記事は[TERRA \(音楽ユニット\)](https://ja.wikipedia.org/wiki/TERRA_\(音楽ユニット\))から翻訳されています。
 
 
 **TЁЯRA**（テラ）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")にデビューした。
@@ -180,10 +180,15 @@ TЁЯRAによる楽曲提供時に用いる名義。
 ## 外部リンク
 
   - [TЁЯRA](https://www.facebook.com/pages/TЁЯRA/117769068234821) - facebook
+
   - [前田 尚紀](https://www.facebook.com/profile.php?id=100000072496208) - facebook
+
   - [NAOKI MAEDA (前田尚紀)](https://twitter.com/NAOKI_MAEDA428) - Twitter
+
   - [jun（TЁЯRA）](https://twitter.com/jun_TERRA) - Twitter
+
   - [TЁЯRA Official Site](http://bmf.i-revo.jp/terra/) - 公式サイト（サービス終了）
-  - [ЁVOLUTIФN](http://blog.oricon.co.jp/terra/) - ブログ（サービス終了）
+
+  - \- ブログ（サービス終了）
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2012年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

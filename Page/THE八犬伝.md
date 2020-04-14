@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THE八犬伝](https://ja.wikipedia.org/wiki/THE八犬伝)から翻訳されています。
 
 
 『**THE八犬伝**』（ざはっけんでん）は、[曲亭馬琴](../Page/曲亭馬琴.md "wikilink")（滝沢馬琴）作の『[南総里見八犬伝](../Page/南総里見八犬伝.md "wikilink")』を原作とした[OVA](../Page/OVA.md "wikilink")作品。2005年には、[ジェネオンエンタテインメントからDVDで発売されている](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")。

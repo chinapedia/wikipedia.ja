@@ -31,7 +31,7 @@
 
 ## その他の略語
 
-  - [Macintosh](../Page/Macintosh.md "wikilink")は、[アップルが発売している](../Page/アップル_\(企業\).md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")の愛称（Mac、マック）。
+  - [Macintosh](../Page/Macintosh.md "wikilink")、[アップルが発売している](../Page/アップル_\(企業\).md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")の愛称となっていたのだが、現在MacintoshではなくMACが正式名称として用いられるようになっている。（Mac、マック）。
   - [マクドナルド](../Page/マクドナルド.md "wikilink")（McDonald's）は、ハンバーガーショップ（マック）。商品名に使われる場合もある（例：McFlurry、McMuffin）。
   - [MAC Cosmeticsは化粧品メーカー](https://ja.wikipedia.org/wiki/MAC_Cosmetics "wikilink")。MACはMAKE−UP ART COSMETICSの略。ロゴ表記及び愛称は「[M·A·C](https://ja.wikipedia.org/wiki/M·A·C "wikilink")(マック)」。
   - [マカオ](../Page/マカオ.md "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")。

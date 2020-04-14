@@ -1,4 +1,4 @@
-> この記事は[N-II](https://ja.wikipedia.org/wiki/N-II)から翻訳されています。
+> この記事は[N-IIロケット](https://ja.wikipedia.org/wiki/N-IIロケット)から翻訳されています。
 
 
 **N-IIロケット（N-2ロケット）**は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA）と[三菱重工業](../Page/三菱重工業.md "wikilink")が[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[デルタロケット](../Page/デルタロケット.md "wikilink")の技術や構成要素を基に開発し、三菱重工業が製造した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")打上げ用[液体燃料ロケット](../Page/液体燃料ロケット.md "wikilink")。

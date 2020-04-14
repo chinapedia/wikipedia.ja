@@ -1,4 +1,4 @@
-> この記事は[FM TOWNS ](https://ja.wikipedia.org/wiki/FM_TOWNS_)から翻訳されています。
+> この記事は[FM TOWNS マーティー](https://ja.wikipedia.org/wiki/FM_TOWNS_マーティー)から翻訳されています。
 
 
 **FM TOWNS マーティー**（FM タウンズ マーティー、FM TOWNS MARTY）は、[1993年](../Page/1993年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")\[1\]\[2\]に[富士通](../Page/富士通.md "wikilink")が発表し、同月[20日に発売](../Page/2月20日.md "wikilink")\[3\]した[FM TOWNS系のコンシューマ向け](../Page/FM_TOWNS.md "wikilink")[マルチメディア機](../Page/マルチメディア機.md "wikilink")（[CD-ROM](../Page/CD-ROM.md "wikilink")プレイヤー）。

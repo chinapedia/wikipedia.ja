@@ -1,4 +1,4 @@
-> この記事は[UIM](https://ja.wikipedia.org/wiki/UIM)から翻訳されています。
+> この記事は[UIMカード](https://ja.wikipedia.org/wiki/UIMカード)から翻訳されています。
 
 
 **UIMカード**（）または**USIMカード**（）は、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")で使われている[SIMカード](../Page/SIMカード.md "wikilink")をベースにして拡張された[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")のうち、[W-CDMA](../Page/W-CDMA.md "wikilink") (UMTS) 方式用に用いられる[ICカード](../Page/ICカード.md "wikilink")。特に区別せずに「SIMカード」と呼ばれることもある。

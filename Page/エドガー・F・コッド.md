@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[エドガー・F・コッド](https://ja.wikipedia.org/wiki/エドガー・F・コッド)から翻訳されています。
 
 
 **エドガー・フランク・コッド**（Edgar Frank "Ted" Codd, [1923年](../Page/1923年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")）は、[イングランド生まれの](../Page/イングランド人.md "wikilink")[計算機科学](../Page/計算機科学.md "wikilink")者。[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")の理論的基盤である[データベース](../Page/データベース.md "wikilink")管理の[関係モデル](../Page/関係モデル.md "wikilink")を発明した。他にも計算機科学に数々の貢献をしているが、関係モデルは[データ管理](https://ja.wikipedia.org/wiki/データ管理 "wikilink")の一般理論として大きな影響を与え、彼にとっては人生最大の業績と言われている。

@@ -1,4 +1,4 @@
-> この記事は[SI](https://ja.wikipedia.org/wiki/SI)から翻訳されています。
+> この記事は[SI組立単位](https://ja.wikipedia.org/wiki/SI組立単位)から翻訳されています。
 
 
 **SI組立単位**（エスアイくみたてたんい、）は、[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink") (SI) の[基本単位を組み合わせて作ることができる](../Page/SI基本単位.md "wikilink")[単位である](../Page/物理単位.md "wikilink")。基本単位の[冪乗](https://ja.wikipedia.org/wiki/冪乗 "wikilink")の乗除だけで作ることができる組立単位は「[一貫性のある組立単位](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")」と言い、国際単位系は全ての組立単位が一貫性のある組立単位である、「一貫性のある単位系」である。

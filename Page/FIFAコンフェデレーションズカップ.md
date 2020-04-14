@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAコンフェデレーションズカップ](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ)から翻訳されています。
 
 
 **FIFAコンフェデレーションズカップ**（）は、1992年に[サウジアラビアが開始し](https://ja.wikipedia.org/wiki/サウジアラビアサッカー連盟 "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")第3回大会から[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催し各大陸の王者によって争われた[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。各大陸の代表は、それぞれの大陸連盟が主催する大陸選手権大会で決まる。日本国内では「コンフェデ」や「コンフェデ杯」などと略される。

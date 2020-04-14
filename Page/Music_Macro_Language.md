@@ -93,9 +93,12 @@
 ## 外部リンク
 
   - [SPICE](http://gorry.haun.org/spice/index.html)
+
   - [テキスト音楽「サクラ」](http://oto.chu.jp/)
-  - [714MIDI・みゅあっぷ98](http://homepage3.nifty.com/y_ohta/packen/index.htm)
+
+  -
   - [Z-MUSIC](http://www.z-z-z.jp/index.htm)
+
   - [MuSICA 講座・テンポずれ対策](http://www002.upp.so-net.ne.jp/ahiroe/msx/mlecture.html#tempo)
 
 [Category:コンピュータ言語](https://ja.wikipedia.org/wiki/Category:コンピュータ言語 "wikilink") [Category:音声ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:音声ファイルフォーマット "wikilink") [Category:記譜法](https://ja.wikipedia.org/wiki/Category:記譜法 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[EE](https://ja.wikipedia.org/wiki/EE)から翻訳されています。
+> この記事は[E・E・スミス](https://ja.wikipedia.org/wiki/E・E・スミス)から翻訳されています。
 
 
 **エドワード・エルマー・スミス**（**Edward Elmer Smith** あるいは **E.E."Doc"Smith**, [1890年](../Page/1890年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")で、《[レンズマン](../Page/レンズマン.md "wikilink")》シリーズや《[スカイラーク](../Page/宇宙のスカイラーク.md "wikilink")》シリーズで知られている。「[スペースオペラ](../Page/スペースオペラ.md "wikilink")の父」と呼ばれることもある。通称は**E・E・スミス**、**ドク・スミス**など。家族からはテッドと呼ばれていた。[ドーナツ](../Page/ドーナツ.md "wikilink")や[ペイストリー](https://ja.wikipedia.org/wiki/ペイストリー "wikilink")用の粉を専門とする[食品工学](https://ja.wikipedia.org/wiki/食品工学 "wikilink")者でもあった。

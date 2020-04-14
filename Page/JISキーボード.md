@@ -1,4 +1,4 @@
-> この記事は[JIS](https://ja.wikipedia.org/wiki/JIS)から翻訳されています。
+> この記事は[JISキーボード](https://ja.wikipedia.org/wiki/JISキーボード)から翻訳されています。
 
 
 [サムネイルのJISキーボード](https://ja.wikipedia.org/wiki/ファイル:NEC_PC-9800_series_keyboard.jpg "wikilink")\]\] **JISキーボード**（ジスキーボード、JIS配列キーボード）は、[日本産業規格](../Page/日本産業規格.md "wikilink") (JIS) が制定している標準規格『**JIS X 6002 情報処理系けん盤配列**』に準拠する[キー配列](../Page/キー配列.md "wikilink")をもつコンピュータ用[キーボードである](../Page/キーボード_\(コンピュータ\).md "wikilink")。
@@ -7,7 +7,7 @@
 
 日本産業規格が制定している『JIS X 6002-1980（旧JIS C 6233-1980）情報処理系けん盤配列 () 』は[JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")（旧JIS C 6220）で規定される7ビット符号を用いるシステムを想定したものであるため、[漢字](../Page/漢字.md "wikilink")の入力は考慮されていない。また、コンピューター各機種の機能に合わせて[制御文字](../Page/制御文字.md "wikilink")キーや[機能キーなどを追加](../Page/ファンクションキー.md "wikilink")・変更する場合が多いため、一般的には[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")、[かな](../Page/仮名_\(文字\).md "wikilink")、[記号](../Page/記号.md "wikilink")等の文字キーの配列が規格に準拠していれば**JISキーボード**と呼ばれる。[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")で主流のOADG 109キーボード（日本語109キーボードとも言う）、[Macintosh](../Page/Macintosh.md "wikilink")の大半の日本語キーボードや、過去の[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")、[マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")、[FMRシリーズ](../Page/FMRシリーズ.md "wikilink")などはJISキーボードである。
 
-英語キーボードで主流の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")キーボードとは、[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の配列は同じであるが、特殊記号などの配列が異なる。米国での主流は[101キーボードである](https://ja.wikipedia.org/wiki/キー配列#101キーボード "wikilink")。なお[J-3100](https://ja.wikipedia.org/wiki/J-3100シリーズ "wikilink")（[ダイナブック](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")）や[AX](../Page/AX.md "wikilink")は、ASCII配列をベースに日本語化していた。
+英語キーボードで主流の[ASCII](../Page/ASCII.md "wikilink")キーボードとは、[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の配列は同じであるが、特殊記号などの配列が異なる。米国での主流は[101キーボードである](https://ja.wikipedia.org/wiki/キー配列#101キーボード "wikilink")。なお[J-3100](https://ja.wikipedia.org/wiki/J-3100シリーズ "wikilink")（[ダイナブック](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")）や[AX](../Page/AX.md "wikilink")は、ASCII配列をベースに日本語化していた。
 
 JIS X 6004-1986では かな配列が改良された[新JISキーボードが規格化されたが](../Page/新JIS配列.md "wikilink")、普及しなかったため1999年に廃止された。
 

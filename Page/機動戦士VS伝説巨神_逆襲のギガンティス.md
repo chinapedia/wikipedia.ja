@@ -1,9 +1,9 @@
-> この記事は[VS ](https://ja.wikipedia.org/wiki/VS_)から翻訳されています。
+> この記事は[機動戦士VS伝説巨神 逆襲のギガンティス](https://ja.wikipedia.org/wiki/機動戦士VS伝説巨神_逆襲のギガンティス)から翻訳されています。
 
 
 『**機動戦士VS伝説巨神 逆襲のギガンティス**』（きどうせんしたいでんせつきょじん ぎゃくしゅうのギガンティス、**GUNDAM VS. IDEON**）は、[長谷川裕一](../Page/長谷川裕一.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[アニメ](../Page/アニメ.md "wikilink")作品群「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」と『[伝説巨神イデオン](../Page/伝説巨神イデオン.md "wikilink")』を題材とする[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")である。
 
-[バンダイ](../Page/バンダイ.md "wikilink")出版課の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[サイバーコミックス](../Page/サイバーコミックス.md "wikilink")』No.23 - 26に『**ガンダムVS伝説の巨神**』（ガンダムたいでんせつのきょじん）として連載された。その後、単行本化の際に現在の題名に改められている。[宇宙世紀](../Page/宇宙世紀.md "wikilink")を舞台にしており、アニメ『[機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")』と『[機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")』の期間をつなぐ「仮想作品」として描かれている\[1\]。
+[バンダイ](../Page/バンダイ.md "wikilink")出版課の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[サイバーコミックス](../Page/サイバーコミックス.md "wikilink")』No.23 - 26に『**ガンダムVS伝説の巨神**』（ガンダムたいでんせつのきょじん）として連載された。その後、単行本化の際に現在の題名に改められている。[宇宙世紀](../Page/宇宙世紀.md "wikilink")を舞台にしており、本作が執筆された1990年におけるテレビアニメ『[機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")』と劇場アニメ『[機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")』の期間をつなぐ「仮想作品」として描かれている\[1\]。
 
 ## 制作背景
 
@@ -30,6 +30,7 @@
     作中、アムロの意志が本物かどうか確かめるためや、ミネバに自分が敵ではないことを教えるために[ニュータイプ](../Page/ニュータイプ.md "wikilink")能力を使っているが、一方でその能力を戦いの場で発揮することはなく、また[カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")が[パプテマス・シロッコ](../Page/パプテマス・シロッコ.md "wikilink")との決戦で行ったような、死者の思念を取り込み力にすることを否定し（[ハマーンや](../Page/ハマーン・カーン.md "wikilink")[プル](https://ja.wikipedia.org/wiki/プルシリーズ#エルピー・プル "wikilink")、[プルツー](https://ja.wikipedia.org/wiki/プルシリーズ#プルツー "wikilink")、[ララァ等の霊が力を貸そうとするが拒否する](../Page/ララァ・スン.md "wikilink")）、「生きている者の力」でミネバを救出するなど、ニュータイプの力に頼るまいとする。
   - [アムロ・レイ](../Page/アムロ・レイ.md "wikilink")
     超大型モビルスーツの調査のため非公式に木星圏に現れたかつての英雄的存在。ジュドーと共にメガゼータに乗り、途中から参戦したシャアと共に巨神の撃退に向かう。ラストでは「ミネバ・アーシタ」の処遇について便宜を図る。
+    正史においては、宇宙世紀0091年当時のアムロはロンド・ベルの結成に関わっていたことになっているものの、本作では、当時の公式な記録に登場するアムロは影武者であったという、独自の設定を用いている。
     無限力によれば、彼とシャアもまたユウキ・コスモの生まれ変わりだという。
   - シマ・八丈（シマ・ハチジョウ）
     アムロと共に木星圏に来た女性パイロットだが、専門はデータ分析。鉄面皮と共にメガゼータの援護や巨神のデータ分析を行う。
@@ -100,6 +101,8 @@
 
 :; [スザク（S・ザク・ザクIII改・改）](https://ja.wikipedia.org/wiki/ザクシリーズのバリエーション#スザク（S・ザク・ザクIII改・改） "wikilink"): シャアの搭乗するザク系モビルスーツ。スカート部分にビームキャノンを装備している。
 
+:; 本作では後年に制作された配信アニメ『[機動戦士ガンダム Twilight AXIS](https://ja.wikipedia.org/wiki/機動戦士ガンダム_Twilight_AXIS "wikilink")』における設定と異なり、シャアがザクIIIに搭乗している。
+
 :; MA-08-2 [ビグザム改](../Page/ビグ・ザム.md "wikilink"): 2機登場し、大型メガ粒子砲を巨神に撃つが、バリヤーによって防がれる。その後両機とも巨神に破壊される。作中では「ビグザム」としか呼ばれず、テロップでビグザム改と紹介されている。
 
 :; [ムサイ](https://ja.wikipedia.org/wiki/ムサイ "wikilink")級軽巡洋艦（宇宙巡洋艦）: ビグザム改を輸送してきた。巨神にビグザム改をぶつけられて撃沈される。
@@ -112,7 +115,7 @@
       - 全1巻完結（1992年12月6日発行） ISBN 4-05-106152-3
   - 機動戦士Vガンダム外伝（角川コミックス・エース〈角川書店〉） - 『[機動戦士Vガンダム外伝](https://ja.wikipedia.org/wiki/機動戦士Vガンダム#機動戦士Vガンダム外伝 "wikilink")』との併録。
       - 全1巻完結（1995年11月7日発行） ISBN 4-04-713119-9
-  - 機動戦士Vガンダム プロジェクト・エクソダス（角川コミックス・エース〈角川書店〉） - 前者の改題版。本来はあとがきが追加されるはずだったがミスにより記載されず、長谷川のブログで公開されている\[8\]。
+  - 機動戦士Vガンダム プロジェクト・エクソダス（角川コミックス・エース〈角川書店〉） - 前者の表題作を、内容はそのままに改題した改題版。本来はあとがきが追加されるはずだったがミスにより記載されず、長谷川のブログで公開されている\[8\]。
       - 全1巻完結（2012年7月25日発行） ISBN 4-04-120375-9
 
 ## 評価 
@@ -121,11 +124,22 @@
 
 「このマンガがすごい！WEB」では、「イデ」・「ニュータイプ」という両作品のテーマを「木星」を軸として繋げた長谷川の想像力を評価している\[10\]。
 
+## 他作品との関連
+
+本作の他にも、小説家の[福井晴敏](../Page/福井晴敏.md "wikilink")が、『伝説巨神イデオン』でのイデ（無限力）の依り代でもあるイデオンの装甲材質「[イデオナイト](https://ja.wikipedia.org/wiki/イデ#イデオナイト "wikilink")」が、『機動戦士ガンダム 逆襲のシャア』を初出とする材質「[サイコフレーム](../Page/サイコフレーム.md "wikilink")」と同一の物質であるとして、『イデオン』と『ガンダム』の関連性に言及しており\[11\]、自身が関わった『[機動戦士ガンダムUC](../Page/機動戦士ガンダムUC.md "wikilink")』『[機動戦士ガンダムNT](https://ja.wikipedia.org/wiki/機動戦士ガンダムNT "wikilink")』『[機動戦士ムーンガンダム](https://ja.wikipedia.org/wiki/機動戦士ムーンガンダム "wikilink")』にイデオン的な解釈でのサイコフレームを登場させている。ミネバ・ザビのその後を登場させているのも本作と共通する。ただし先行する本作とは登場人物の設定などに相違もみられ、整合性を図るような描写はみられない。
+
+後年に制作されたOVA『[GUNDAM EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink")』では、ジュドーはΖΖガンダム（のパーツ）を木星に持ち込んでいるという描写になっているが、本作ではΖΖガンダムの所在については明言されておらず、ジュドーはプロトタイプΖΖを基にしたMS「メガゼータ」に乗り込む。なお、本作の単行本に併録された長谷川による漫画『[機動戦士Vガンダム プロジェクト・エクソダス](https://ja.wikipedia.org/wiki/機動戦士Vガンダム#機動戦士Vガンダム外伝 "wikilink")』（別題『機動戦士Vガンダム外伝』または『機動戦士Vガンダム外伝 脱出計画編』）では、ΖΖタイプの頭部を持つ老朽化したMS「[ガンプ](https://ja.wikipedia.org/wiki/ΖΖガンダム#ガンプ "wikilink")」が登場するが、頭部形状はメガゼータとガンプで異なっている。ただし『プロジェクト・エクソダス』末尾の設定資料では「ΖΖはハマーンとの最終決戦で大破したはずであり、ガンプと同一の機体ではありえない」という旨の記載がある。
+
 ## 脚注 
 
-[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:伝説巨神イデオン](https://ja.wikipedia.org/wiki/Category:伝説巨神イデオン "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:長谷川裕一](https://ja.wikipedia.org/wiki/Category:長谷川裕一 "wikilink") [Category:月刊コミックNORA](https://ja.wikipedia.org/wiki/Category:月刊コミックNORA "wikilink") [Category:ガンダムシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのクロスオーバー作品 "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink")
+## 注釈
 
-1.  [長谷川裕一](../Page/長谷川裕一.md "wikilink")、原案：[矢立肇](../Page/矢立肇.md "wikilink")・[富野由悠季](../Page/富野由悠季.md "wikilink") 『機動戦士Vガンダム外伝』、[角川書店](../Page/角川書店.md "wikilink")、1995年、258頁。
+## 参考文献
+
+  -
+[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:1990年の漫画](https://ja.wikipedia.org/wiki/Category:1990年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:伝説巨神イデオン](https://ja.wikipedia.org/wiki/Category:伝説巨神イデオン "wikilink") [Category:長谷川裕一](https://ja.wikipedia.org/wiki/Category:長谷川裕一 "wikilink") [Category:月刊コミックNORA](https://ja.wikipedia.org/wiki/Category:月刊コミックNORA "wikilink") [Category:ガンダムシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのクロスオーバー作品 "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink")
+
+1.  [長谷川裕一](../Page/長谷川裕一.md "wikilink")、原案：[矢立肇](../Page/矢立肇.md "wikilink")・[富野由悠季](../Page/富野由悠季.md "wikilink") 『機動戦士Vガンダム外伝』、[角川書店](../Page/角川書店.md "wikilink")、1995年、p. 258。
 2.  『[月刊ガンダムエース](https://ja.wikipedia.org/wiki/月刊ガンダムエース "wikilink")』2018年5月号、[角川書店](../Page/角川書店.md "wikilink")、2018年、443頁。
 3.
 4.
@@ -135,3 +149,4 @@
 8.
 9.  『[月刊ガンダムエース](https://ja.wikipedia.org/wiki/月刊ガンダムエース "wikilink")』2018年5月号、[角川書店](../Page/角川書店.md "wikilink")、2018年、444頁。
 10.
+11.  - からの再掲。

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[横浜FC](https://ja.wikipedia.org/wiki/横浜FC)から翻訳されています。
 
 
-**横浜FC**（よこはまエフシー、Yokohama FC）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")をホームタウンとする、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するプロサッカークラブ。
+**横浜FC**（よこはまエフシー、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")をホームタウンとする、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するプロサッカークラブ。
 
 ## 概要
 
@@ -182,9 +182,491 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 
 ホーム最終戦となる第42節・愛媛戦で2-0で勝利したことにより、自力での13年ぶりJ1復帰を決めた。
 
+## 現所属選手
+
+  - [J1リーグ2020シーズン](https://ja.wikipedia.org/wiki/2020年のJ1リーグ "wikilink") 基本フォーメーション
+
+<div style="position: relative;">
+
+[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
+
+</div>
+
+  - 2020年2月23日現在
+
+### 選手
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Pos</p></td>
+<td><p>No.</p></td>
+<td><p>選手名</p></td>
+<td><p>生年月日 (年齢)</p></td>
+<td><p>在籍年</p></td>
+<td><p>前所属</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p>GK</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹重安希彦" title="wikilink">竹重安希彦</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>18</strong></p></td>
+<td><p><a href="../Page/南雄太.md" title="wikilink">南雄太</a> </p></td>
+<td></td>
+<td><p>|2014年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>21</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/市川暉記" title="wikilink">市川暉記</a></p></td>
+<td></td>
+<td><p>2017年 - 2018年<br />
+2020年 -</p></td>
+<td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">ガイナーレ鳥取</a></p></td>
+<td><p>期限付き移籍より復帰</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>44</strong></p></td>
+<td><p><a href="../Page/六反勇治.md" title="wikilink">六反勇治</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
+<td><p>新加入<br />
+期限付き移籍<br />
+元<a href="../Page/サッカー日本代表.md" title="wikilink">日本代表</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DF</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤井悠太" title="wikilink">藤井悠太</a></p></td>
+<td></td>
+<td><p>2016年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小林友希" title="wikilink">小林友希</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a></p></td>
+<td><p>新加入<br />
+期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ" title="wikilink">マギーニョ</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a></p></td>
+<td><p>新加入<br />
+期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5</strong></p></td>
+<td><p><a href="../Page/田代真一.md" title="wikilink">田代真一</a></p></td>
+<td></td>
+<td><p>2018年7月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
+<td><p>2018年は期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>14</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/志知孝明" title="wikilink">志知孝明</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>20</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カルフィン・ヨン・ア・ピン" title="wikilink">カルフィン・ヨン・ア・ピン</a></p></td>
+<td></td>
+<td><p>2017年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>26</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/袴田裕太郎" title="wikilink">袴田裕太郎</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>29</strong></p></td>
+<td><p><a href="../Page/星キョーワァン.md" title="wikilink">星キョーワァン</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>33</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川崎裕大" title="wikilink">川崎裕大</a></p></td>
+<td></td>
+<td><p>2017年8月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C" title="wikilink">サンフレッチェ広島</a></p></td>
+<td><p>2017年は期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>39</strong></p></td>
+<td><p><a href="../Page/伊野波雅彦.md" title="wikilink">伊野波雅彦</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
+<td><p>副キャプテン<br />
+元日本代表</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>MF</p></td>
+<td><p><strong>6</strong></p></td>
+<td><p><a href="../Page/瀬古樹.md" title="wikilink">瀬古樹</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
+<td><p>新加入</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>7</strong></p></td>
+<td><p><a href="../Page/松浦拓弥.md" title="wikilink">松浦拓弥</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">ジュビロ磐田</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>8</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤謙介" title="wikilink">佐藤謙介</a></p></td>
+<td></td>
+<td><p>2011年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中央大学学友会サッカー部" title="wikilink">中央大学</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>17</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武田英二郎" title="wikilink">武田英二郎</a></p></td>
+<td></td>
+<td><p>2018年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>22</strong></p></td>
+<td><p><a href="../Page/松井大輔.md" title="wikilink">松井大輔</a></p></td>
+<td></td>
+<td><p>2018年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オードラ・オポーレ" title="wikilink">オードラ・オポーレ</a></p></td>
+<td><p>元日本代表</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>27</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中山克広" title="wikilink">中山克広</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/専修大学体育会サッカー部" title="wikilink">専修大学</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>28</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安永玲央" title="wikilink">安永玲央</a></p></td>
+<td></td>
+<td><p>2019年 - 同年7月<br />
+2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カターレ富山" title="wikilink">カターレ富山</a></p></td>
+<td><p>再加入<br />
+期限付き移籍より復帰</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>30</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/手塚康平" title="wikilink">手塚康平</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
+<td><p>新加入<br />
+期限付き移籍</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>32</strong></p></td>
+<td><p><a href="../Page/古宿理久.md" title="wikilink">古宿理久</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="../Page/青森山田中学高等学校.md" title="wikilink">青森山田高校</a></p></td>
+<td><p>新加入<br />
+ジュニアユース出身</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>34</strong></p></td>
+<td><p><a href="../Page/熊川翔.md" title="wikilink">熊川翔</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>37</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松尾佑介" title="wikilink">松尾佑介</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>40</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レアンドロ・ドミンゲス・バルボーザ" title="wikilink">レアンドロ・ドミンゲス</a></p></td>
+<td></td>
+<td><p>2017年7月 -</p></td>
+<td><p><a href="../Page/アソシアソン・ポルトゥゲーザ・ジ・デスポルトス.md" title="wikilink">ポルトゲーザ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>46</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村俊輔" title="wikilink">中村俊輔</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p>ジュビロ磐田</p></td>
+<td><p>元日本代表</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>FW</p></td>
+<td><p><strong>9</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
+<td></td>
+<td><p>2020年 -</p></td>
+<td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都サンガF.C.</a></p></td>
+<td><p>新加入<br />
+期限付き移籍</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>10</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アブドゥラーヒム・ラーヤブ" title="wikilink">イバ</a></p></td>
+<td></td>
+<td><p>2016年3月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/河北華夏幸福足球倶楽部" title="wikilink">河北華夏幸福</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>11</strong></p></td>
+<td><p><a href="../Page/三浦知良.md" title="wikilink">三浦知良</a></p></td>
+<td></td>
+<td><p>2005年7月 - 11月<br />
+2006年 -</p></td>
+<td><p><a href="../Page/シドニーFC.md" title="wikilink">シドニーFC</a></p></td>
+<td><p>元日本代表</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>13</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬沼優司" title="wikilink">瀬沼優司</a></p></td>
+<td></td>
+<td><p>2018年7月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>15</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/齋藤功佑" title="wikilink">齋藤功佑</a></p></td>
+<td></td>
+<td><p>2016年 -</p></td>
+<td><p>横浜FCユース</p></td>
+<td><p>副キャプテン</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>16</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/皆川佑介" title="wikilink">皆川佑介</a></p></td>
+<td></td>
+<td><p>2019年7月 -</p></td>
+<td><p>サンフレッチェ広島</p></td>
+<td><p>元日本代表</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>23</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/斉藤光毅" title="wikilink">斉藤光毅</a></p></td>
+<td></td>
+<td><p>2018年3月 -</p></td>
+<td><p>横浜FCユース</p></td>
+<td><p>2018年8月までは2種登録選手</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>25</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/草野侑己" title="wikilink">草野侑己</a></p></td>
+<td></td>
+<td><p>2019年 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/阪南大学サッカー部" title="wikilink">阪南大学</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 期限付き移籍加入の選手
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Pos</p></td>
+<td><p>選手名</p></td>
+<td><p>生年月日 (年齢)</p></td>
+<td><p>移籍元</p></td>
+<td><p>移籍期間</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p>GK</p></td>
+<td><p><a href="../Page/六反勇治.md" title="wikilink">六反勇治</a></p></td>
+<td></td>
+<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
+<td><p>2020年2月1日 - 2021年1月31日</p></td>
+<td><p>清水と対戦する公式戦出場不可</p></td>
+</tr>
+<tr class="odd">
+<td><p>DF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ" title="wikilink">マギーニョ</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a></p></td>
+<td><p>川崎と対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/小林友希" title="wikilink">小林友希</a></p></td>
+<td></td>
+<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
+<td><p>神戸と対戦する公式戦出場不可</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/手塚康平" title="wikilink">手塚康平</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
+<td><p>柏と対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>FW</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
+<td></td>
+<td><p><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a></p></td>
+<td><p>G大阪と対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 期限付き移籍中の選手
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>Pos</p></td>
+<td><p>選手名</p></td>
+<td><p>生年月日 (年齢)</p></td>
+<td><p>在籍年</p></td>
+<td><p>移籍先</p></td>
+<td><p>移籍期間</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
+<td><p>GK</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大内一生" title="wikilink">大内一生</a></p></td>
+<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">Y.S.C.C.横浜</a></p></td>
+<td><p>2020年2月1日 - 2021年1月31日</p></td>
+<td><p>ユース出身<br />
+育成型期限付き移籍<br />
+横浜FCと対戦する公式戦出場不可</p></td>
+</tr>
+<tr class="odd">
+<td><p>MF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前嶋洋太" title="wikilink">前嶋洋太</a></p></td>
+<td></td>
+<td><p>2016年 - 2017年</p></td>
+<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
+<td><p>ユース出身<br />
+横浜FCと対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>FW</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/戸島章" title="wikilink">戸島章</a></p></td>
+<td></td>
+<td><p>2018年 - 2019年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a></p></td>
+<td><p>横浜FCと対戦する公式戦出場不可</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 成績
 
-## タイトル
+## タイトル・表彰
 
 ### リーグ戦
 

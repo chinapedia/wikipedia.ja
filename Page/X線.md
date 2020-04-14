@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線](https://ja.wikipedia.org/wiki/X線)から翻訳されています。
 
 
 [rightが](https://ja.wikipedia.org/wiki/ファイル:First_medical_X-ray_by_Wilhelm_Röntgen_of_his_wife_Anna_Bertha_Ludwig's_hand_-_18951222.gif "wikilink")[1896年](../Page/1896年.md "wikilink")1月23日に撮影した手の[透視画像](https://ja.wikipedia.org/wiki/X線写真 "wikilink")。[骨](../Page/骨.md "wikilink")と[指輪](https://ja.wikipedia.org/wiki/指輪 "wikilink")の部分が黒く写っている。\]\] [代替文=人間の肺のX線](https://ja.wikipedia.org/wiki/ファイル:Lung_X-Ray.jpg "wikilink") **X線**（エックスせん、）は、[波長](../Page/波長.md "wikilink")が1[pm](https://ja.wikipedia.org/wiki/ピコメートル "wikilink") - 10[nm程度の](../Page/ナノメートル.md "wikilink")[電磁波](../Page/電磁波.md "wikilink")である。発見者である[ヴィルヘルム・レントゲン](../Page/ヴィルヘルム・レントゲン.md "wikilink")の名をとって**レントゲン線**と呼ばれることもある。[放射線](../Page/放射線.md "wikilink")の一種で、[X線撮影](../Page/X線撮影.md "wikilink")、回折現象を利用した[結晶構造](../Page/結晶構造.md "wikilink")の解析などに用いられる。
@@ -40,7 +40,7 @@ X線は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ヴィ
 
 ### トライボルミネッセンス
 
-[セロハンテープ](../Page/セロハンテープ.md "wikilink")のロールを一定の速さではがすことによるもの。[トライボ（摩擦）ルミネッセンスの一種であるが](../Page/ルミネセンス.md "wikilink")、X線の発生については2008年現在の[摩擦学の理論では十分な説明ができない](../Page/トライボロジー.md "wikilink")\[8\]。1950年代には旧ソ連の科学者たちが、セロハンテープロールをある速さではがすとエネルギースペクトルのX線の領域でパルスが発生することを突き止めていた。2008年に[UCLA](../Page/カリフォルニア大学ロサンゼルス校.md "wikilink")（米カリフォルニア大学ロサンゼルス校）のチームが、真空中でセロハンテープを秒速3センチメートルの速さで剥がすことでX線撮影が可能な強度のX線が発生したことを観測し、[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")誌に発表した\[9\]\[10\]。
+[セロハンテープ](../Page/セロハンテープ.md "wikilink")のロールを一定の速さではがすことによるもの。[トライボ（摩擦）ルミネッセンスの一種であるが](https://ja.wikipedia.org/wiki/摩擦発光 "wikilink")、X線の発生については2008年現在の[摩擦学の理論では十分な説明ができない](../Page/トライボロジー.md "wikilink")\[8\]。1950年代には旧ソ連の科学者たちが、セロハンテープロールをある速さではがすとエネルギースペクトルのX線の領域でパルスが発生することを突き止めていた。2008年に[UCLA](../Page/カリフォルニア大学ロサンゼルス校.md "wikilink")（米カリフォルニア大学ロサンゼルス校）のチームが、真空中でセロハンテープを秒速3センチメートルの速さで剥がすことでX線撮影が可能な強度のX線が発生したことを観測し、[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")誌に発表した\[9\]\[10\]。
 
 ### 強誘電体の熱膨張・収縮によるもの
 

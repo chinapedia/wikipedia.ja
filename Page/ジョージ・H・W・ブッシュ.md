@@ -1,4 +1,4 @@
-> この記事は[HW](https://ja.wikipedia.org/wiki/HW)から翻訳されています。
+> この記事は[ジョージ・H・W・ブッシュ](https://ja.wikipedia.org/wiki/ジョージ・H・W・ブッシュ)から翻訳されています。
 
 
 **ジョージ・ハーバート・ウォーカー・ブッシュ**（**George Herbert Walker Bush**, [1924年](../Page/1924年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。[下院議員](https://ja.wikipedia.org/wiki/下院議員 "wikilink")、[アメリカ国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、[CIA長官](https://ja.wikipedia.org/wiki/CIA長官 "wikilink")、第43代[副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第41代[大統領を歴任](../Page/アメリカ合衆国大統領.md "wikilink")。日本では、第43代大統領でありファーストネームが同じである長男の[ジョージ・ウォーカー・ブッシュと区別するために](../Page/ジョージ・W・ブッシュ.md "wikilink")、「**父ブッシュ（パパブッシュ）**」「**大ブッシュ**」「**ブッシュ・シニア**」と呼ばれることもある。死去時、最高齢のアメリカ大統領経験者であったが、2019年3月22日に[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")が最高齢記録を更新した。
@@ -7,7 +7,7 @@
 
 ### 生い立ち
 
-[ブッシュ家](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")は、雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄である。[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
+[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")は、雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄である。[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
 
 ### 学校
 
@@ -15,9 +15,9 @@
 
 ### 軍歴
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:George_H._W._Bush,_United_States_Navy_Portrait.jpg "wikilink") [The_Bush_family_in_Midland,_Texas.jpg](https://ja.wikipedia.org/wiki/File:The_Bush_family_in_Midland,_Texas.jpg "fig:The_Bush_family_in_Midland,_Texas.jpg") ブッシュは[1942年](../Page/1942年.md "wikilink")より空母[サン・ジャシントに乗り組み太平洋戦線に従軍した](../Page/サン・ジャシント_\(空母\).md "wikilink")。彼は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における最も若い[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")パイロットだった。退役するまでパイロットとして1228時間の飛行時間を記録し、126回の空母着艦を成功させたが、二度の被撃墜も経験した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:George_H._W._Bush,_United_States_Navy_Portrait.jpg "wikilink") [The_Bush_family_in_Midland,_Texas.jpg](https://ja.wikipedia.org/wiki/File:The_Bush_family_in_Midland,_Texas.jpg "fig:The_Bush_family_in_Midland,_Texas.jpg") ブッシュは[1942年](../Page/1942年.md "wikilink")より空母[サン・ジャシントに乗り組み](../Page/サン・ジャシント_\(空母\).md "wikilink")、第51雷撃飛行隊に所属して太平洋戦線に従軍した。彼は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における最も若い[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")パイロットだった。退役するまでパイロットとして1228時間の飛行時間を記録し、126回の空母着艦を成功させたが、二度の被撃墜も経験した。
 
-[少尉](../Page/少尉.md "wikilink")時代の[1944年](../Page/1944年.md "wikilink")[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では日本機の銃撃によって、中尉時代の[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には[小笠原諸島](../Page/小笠原諸島.md "wikilink")沖で[父島](../Page/父島.md "wikilink")地上砲台の対空砲火を浴びて乗機を撃墜されているが、いずれも味方に救助され生還している。
+[少尉](../Page/少尉.md "wikilink")時代の[1944年](../Page/1944年.md "wikilink")[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では日本機の銃撃によって乗機のTBF-1Cを、中尉時代の[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には[小笠原諸島](../Page/小笠原諸島.md "wikilink")沖で[父島](../Page/父島.md "wikilink")地上砲台の対空砲火を浴びて乗機のTBMを撃墜されているが、いずれも味方に救助され生還している。
 
 二度目の際には敵地近くであり、同乗していた代理銃手ウィリアム・ホワイト中尉と通信士ジョン・デラニー二等軍曹は戦死し自身も四時間にわたって漂流し捕虜になる危機を迎えた。当時9度目の哨戒任務で同海域にいた[ガトー級潜水艦](../Page/ガトー級潜水艦.md "wikilink")「[フィンバック](../Page/フィンバック_\(潜水艦\).md "wikilink")」に救助された。この父島では後に[小笠原事件](https://ja.wikipedia.org/wiki/小笠原事件 "wikilink")が起きたとされる。この経験から「[神はなぜ自分を生かしたのか](https://ja.wikipedia.org/wiki/ヤハウェ "wikilink")？自分に示された神の意図は何か？」と自問するようになる\[1\]。
 

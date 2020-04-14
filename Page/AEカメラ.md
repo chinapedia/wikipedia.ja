@@ -1,4 +1,4 @@
-> この記事は[AE](https://ja.wikipedia.org/wiki/AE)から翻訳されています。
+> この記事は[AEカメラ](https://ja.wikipedia.org/wiki/AEカメラ)から翻訳されています。
 
 
 [Bell_and_Howell_Electric_Eye_127.jpg](https://ja.wikipedia.org/wiki/File:Bell_and_Howell_Electric_Eye_127.jpg "fig:Bell_and_Howell_Electric_Eye_127.jpg")エレクトリックアイ127、1958年。\]\] [Polaroid-EE-44_1-1200x1600.jpg](https://ja.wikipedia.org/wiki/File:Polaroid-EE-44_1-1200x1600.jpg "fig:Polaroid-EE-44_1-1200x1600.jpg")EE44、1976年。\]\] **AEカメラ**（エーイーカメラ）は、[露出を自動で行なう機能](../Page/露出_\(写真\).md "wikilink")（）をもつ[写真機](https://ja.wikipedia.org/wiki/写真機 "wikilink")である\[1\]。[絞りや](https://ja.wikipedia.org/wiki/絞り_\(光学\)_#レンズ絞り "wikilink")[シャッター速度](https://ja.wikipedia.org/wiki/シャッター速度 "wikilink")（シャッタースピード）を自動的に制御し、[被写体](https://ja.wikipedia.org/wiki/被写体 "wikilink")の明度に応じた露光が得られるようにする機能を**AE機能**（エーイーきのう）と呼ぶ\[2\]。この種の写真機については、ほかにも、**自動露光調節式カメラ**（じどうろこうちょうせつしきカメラ）、**自動露出カメラ**（じどうろしゅつカメラ）とも呼ぶ\[3\]。当初は、**EEカメラ**（ の略、「電気の眼」の意）と呼ばれた\[4\]。

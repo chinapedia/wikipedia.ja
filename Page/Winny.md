@@ -145,7 +145,7 @@ Winnyが開発された当初は、どのようなファイルがネットワー
 
   - [金子勇のソフトウェアページ](http://kaneko-isamu.la.coocan.jp/) - 作者サイト
 
-  - [元公式サイト](http://www.geocities.co.jp/SiliconValley/2949/) - 現在はWinny関連の記述は残っていない
+  - \- 現在はWinny関連の記述は残っていない
 
   -
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:著作権侵害](https://ja.wikipedia.org/wiki/Category:著作権侵害 "wikilink") [Category:2ちゃんねる関連事象](https://ja.wikipedia.org/wiki/Category:2ちゃんねる関連事象 "wikilink") [Category:匿名ネットワーク](https://ja.wikipedia.org/wiki/Category:匿名ネットワーク "wikilink")

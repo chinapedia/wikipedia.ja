@@ -1,4 +1,4 @@
-> この記事は[JIS](https://ja.wikipedia.org/wiki/JIS)から翻訳されています。
+> この記事は[JIS漢字コード](https://ja.wikipedia.org/wiki/JIS漢字コード)から翻訳されています。
 
 
 **JIS漢字コード**（ジスかんじコード）は、[日本産業規格](../Page/日本産業規格.md "wikilink")（JIS）に収録されている、[漢字](../Page/漢字.md "wikilink")などの[文字コード](../Page/文字コード.md "wikilink")である。「漢字コード」という名称ではあるが、漢字に限定した文脈でなければ、[非漢字](https://ja.wikipedia.org/wiki/JIS_X_0213非漢字一覧 "wikilink")、すなわち漢字以外の[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")（いわゆる全角文字）をも含むことが多い。

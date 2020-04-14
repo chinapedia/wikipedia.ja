@@ -296,7 +296,7 @@ Webサイトの製作を担当するプロジェクトであった。
 
 ### LibreOffice
 
-2010年9月28日、OpenOffice.orgの開発者コミュニティがオラクルから独立して立ち上げた[The Document Foundation](http://www.documentfoundation.org/)による製品。コミュニティはオラクルに対しOpenOffice.orgのブランド名を寄付するよう要請しているほか、Go-OOの合流によりGo-OOで拡張された機能も取り込んで反映していきたいとしている\[57\]。
+2010年9月28日、OpenOffice.orgの開発者コミュニティがオラクルから独立して立ち上げた[The Document Foundation](http://www.documentfoundation.org/)による製品。OpenOffice.orgの事実上の後継。コミュニティはオラクルに対しOpenOffice.orgのブランド名を寄付するよう要請しているほか、Go-OOの合流によりGo-OOで拡張された機能も取り込んで反映している\[57\]。
 
 ### Go-OO
 

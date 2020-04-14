@@ -1,4 +1,4 @@
-> この記事は[NP](https://ja.wikipedia.org/wiki/NP)から翻訳されています。
+> この記事は[NP困難](https://ja.wikipedia.org/wiki/NP困難)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:P_np_np-complete_np-hard.svg "wikilink")、[NP](../Page/NP.md "wikilink")、[NP完全](../Page/NP完全問題.md "wikilink")、**NP困難**の相関を表す[ベン図](../Page/ベン図.md "wikilink")\]\]

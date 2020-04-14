@@ -1,4 +1,4 @@
-> この記事は[SOAP \(\)](https://ja.wikipedia.org/wiki/SOAP_\(\))から翻訳されています。
+> この記事は[SOAP \(プロトコル\)](https://ja.wikipedia.org/wiki/SOAP_\(プロトコル\))から翻訳されています。
 
 
 **SOAP**（ソープ）は、[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")内の[Webサービス](../Page/Webサービス.md "wikilink")の実装において、構造化された情報を交換するための[通信プロトコル](../Page/通信プロトコル.md "wikilink")の仕様である。[拡張性](../Page/拡張性.md "wikilink")、[中立性](https://ja.wikipedia.org/wiki/ネットワーク中立性 "wikilink")、独立性を導入することを目的とする。[XML-RPC](../Page/XML-RPC.md "wikilink")から発展した、**XML [Webサービス](../Page/Webサービス.md "wikilink")**のための、[XMLベースの](../Page/Extensible_Markup_Language.md "wikilink")[RPCプロトコルである](../Page/遠隔手続き呼出し.md "wikilink")。

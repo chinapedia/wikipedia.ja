@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKマイルカップ](https://ja.wikipedia.org/wiki/NHKマイルカップ)から翻訳されています。
 
 
 **NHKマイルカップ**（エヌエイチケイマイルカップ）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が[東京競馬場](../Page/東京競馬場.md "wikilink")で施行する[中央競馬](../Page/中央競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[GI](../Page/競馬の競走格付け.md "wikilink")）である。

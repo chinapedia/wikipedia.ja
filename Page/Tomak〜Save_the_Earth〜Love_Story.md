@@ -1,4 +1,4 @@
-> この記事は[TomakSave the EarthLove Story](https://ja.wikipedia.org/wiki/TomakSave_the_EarthLove_Story)から翻訳されています。
+> この記事は[Tomak〜Save the Earth〜Love Story](https://ja.wikipedia.org/wiki/Tomak〜Save_the_Earth〜Love_Story)から翻訳されています。
 
 
 『**Tomak〜Save the Earth〜Love Story**』（トマック〜セイブ・ジ・アース〜ラブ・ストーリー）とは2001年5月、[韓国のSeed](../Page/大韓民国.md "wikilink")9社によって作られた[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。

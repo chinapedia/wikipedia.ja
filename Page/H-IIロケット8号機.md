@@ -1,4 +1,4 @@
-> この記事は[H-II8](https://ja.wikipedia.org/wiki/H-II8)から翻訳されています。
+> この記事は[H-IIロケット8号機](https://ja.wikipedia.org/wiki/H-IIロケット8号機)から翻訳されています。
 
 
 **H-IIロケット8号機**は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA）が打上げた[H-IIロケット](../Page/H-IIロケット.md "wikilink")のうち7番目に打ち上げた機体。 [1999年](../Page/1999年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")から[運輸多目的衛星1号（MTSAT-1）を搭載して打ち上げたが](https://ja.wikipedia.org/wiki/MTSAT#運輸多目的衛星1号 "wikilink")、1段目エンジンの[LE-7](../Page/LE-7.md "wikilink")が破損し推力を失ったため地上からの指令で破壊、残骸とペイロードは[父島](../Page/父島.md "wikilink")の北西約380kmの海中に落下した。打上げ順番の変更で、6号機→5号機→8号機の順番で打ち上げ、8号機はH-IIの最終号機体であった。

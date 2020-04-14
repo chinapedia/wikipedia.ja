@@ -1,4 +1,4 @@
-> この記事は[N-I](https://ja.wikipedia.org/wiki/N-I)から翻訳されています。
+> この記事は[N-Iロケット](https://ja.wikipedia.org/wiki/N-Iロケット)から翻訳されています。
 
 
 **N-Iロケット**（'''エヌイチ - '''）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA）と[三菱重工業](../Page/三菱重工業.md "wikilink")が[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")の[デルタロケット](../Page/デルタロケット.md "wikilink")の技術や構成要素を基に開発し、三菱重工業が製造した日本初の[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")打ち上げ用[液体燃料ロケット](../Page/液体燃料ロケット.md "wikilink")。

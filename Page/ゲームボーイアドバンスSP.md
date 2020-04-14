@@ -1,4 +1,4 @@
-> この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
+> この記事は[ゲームボーイアドバンスSP](https://ja.wikipedia.org/wiki/ゲームボーイアドバンスSP)から翻訳されています。
 
 
 **ゲームボーイアドバンスSP**（ゲームボーイアドバンスエスピー、**GAMEBOY ADVANCE SP**）は、[任天堂](../Page/任天堂.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に発売した[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")の上位機種として位置付けられている。**GBASP**と略記される。
@@ -159,8 +159,7 @@
 
 ## 外部リンク
 
-  - [ゲームボーイアドバンスSP 任天堂公式サイト](http://www.nintendo.co.jp/n08/hardware/gbasp/index.html)
-  - [Good Design Award - ゲームボーイアドバンスSP](http://www.g-mark.org/search/Detail?id=28520)
+  - [ゲームボーイアドバンスSP](https://www.nintendo.co.jp/n08/hardware/gbasp/)
 
 [de:Game Boy Advance\#Game Boy Advance SP](https://ja.wikipedia.org/wiki/de:Game_Boy_Advance#Game_Boy_Advance_SP "wikilink") [hu:Nintendo\#Game Boy sorozat](https://ja.wikipedia.org/wiki/hu:Nintendo#Game_Boy_sorozat "wikilink") [simple:Game Boy Advance\#Game Boy Advance SP](https://ja.wikipedia.org/wiki/simple:Game_Boy_Advance#Game_Boy_Advance_SP "wikilink")
 

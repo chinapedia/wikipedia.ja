@@ -1,4 +1,4 @@
-> この記事は[XD](https://ja.wikipedia.org/wiki/XD)から翻訳されています。
+> この記事は[XDピクチャーカード](https://ja.wikipedia.org/wiki/XDピクチャーカード)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:XD-Picture_Card_TypeH_1GB_front.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:XD-Picture_Card_TypeH_1GB_back.jpg "wikilink") **xDピクチャーカード**（エックスディーピクチャーカード、xD-Picture Card）は、[富士フイルム](../Page/富士フイルム.md "wikilink")と[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")が共同開発した[メモリーカード](../Page/メモリーカード.md "wikilink")規格である。[2002年](../Page/2002年.md "wikilink")9月発売。

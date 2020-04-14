@@ -1,4 +1,4 @@
-> この記事は[RNA](https://ja.wikipedia.org/wiki/RNA)から翻訳されています。
+> この記事は[リボソームRNA](https://ja.wikipedia.org/wiki/リボソームRNA)から翻訳されています。
 
 
 **リボソームRNA**は[リボソーム](../Page/リボソーム.md "wikilink")を構成する[RNAであり](../Page/リボ核酸.md "wikilink")、RNAとしては[生体内でもっとも大量に存在する](../Page/体.md "wikilink")(7 - 8割程度)。通常rRNAと省略して表記される。

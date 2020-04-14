@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[PCエンジンコアグラフィックス](https://ja.wikipedia.org/wiki/PCエンジンコアグラフィックス)から翻訳されています。
 
 
 **PCエンジンコアグラフィックス** (*PC Engine CoreGrafx*) とは、[1989年](../Page/1989年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）より発売された[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。[PCエンジン](../Page/PCエンジン.md "wikilink")の[マイナーチェンジ機種である](../Page/モデルチェンジ.md "wikilink")。当時の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[希望小売価格](../Page/希望小売価格.md "wikilink")は24,800円。

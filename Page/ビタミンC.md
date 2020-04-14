@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ビタミンC](https://ja.wikipedia.org/wiki/ビタミンC)から翻訳されています。
 
 
 生理作用としての**ビタミンC** (vitamin C, VC) は、[水溶性ビタミン](https://ja.wikipedia.org/wiki/水溶性ビタミン "wikilink")の1種。化学的に（物質として）は **[<small>L</small>-アスコルビン酸](../Page/アスコルビン酸.md "wikilink")**（または単にアスコルビン酸\[1\]）である\[2\]\[3\]。[ビタミンE](../Page/ビタミンE.md "wikilink")を再利用したり[コラーゲン](../Page/コラーゲン.md "wikilink")の合成に必要で、欠乏症になると[壊血病](../Page/壊血病.md "wikilink")となり\[4\]、その治療にも使われる\[5\]。[WHO必須医薬品モデル・リスト](https://ja.wikipedia.org/wiki/WHO必須医薬品モデル・リスト "wikilink")収録品。特に野菜や果物に含まれ、[サプリメント](../Page/サプリメント.md "wikilink")も利用されている。

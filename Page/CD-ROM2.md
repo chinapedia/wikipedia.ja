@@ -140,60 +140,66 @@ SUPER CD-ROM<sup>2</sup>に16MbのDRAMを追加したプラットフォーム。
 PCエンジンとCD-ROMドライブを繋ぐために使用され、AV出力端子およびCD-ROM<sup>2</sup>ソフトのセーブデータを保有する機能（容量は2KB、電源はコンデンサ）を持つ。</p></td>
 </tr>
 <tr class="even">
+<td><p>PAD-123</p></td>
+<td><p>ACアダプタ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>システムカード ver 1.0</p></td>
 <td><p>タイトル画面でI+II+右上+SELECT押下でバイナリエディタが立ち上がり、バックアップメモリを直接編集できる。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>システムカード ver 2.0</p></td>
 <td></td>
 <td><p>エディタによるデバッグ機能は削除され、CD-G機能が追加されている。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>システムカード ver 2.1</p></td>
 <td><p>1990年7月6日</p></td>
 <td><p>スーパーシステムカード以降の物を除けば唯一別売りされたシステムカード。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PI-SC1</p></td>
 <td><p>スーパーシステムカード ver 3.0</p></td>
 <td><p>1991年10月26日</p></td>
 <td><p>CD-ROM<sup>2</sup>専用。<a href="../Page/HuCARD.md" title="wikilink">HuCARD</a>スロットに挿入することでSUPER CD-ROM<sup>2</sup>へアップグレードされる。SUPER CD-ROM<sup>2</sup>システム対応のソフトを遊ぶためには必須となる。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PCE-AC2</p></td>
 <td><p><a href="../Page/アーケードカード.md" title="wikilink">アーケードカード</a>PRO</p></td>
 <td><p>1994年3月12日</p></td>
 <td><p>CD-ROM<sup>2</sup>専用のアーケードカード。DRAMが内蔵されていること以外はスーパーシステムカードと同機能であり、スーパーシステムカードと同様に下部にT字状の補強カバーがある。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>RAU-30</p></td>
 <td><p>ROM<sup>2</sup>アダプター</p></td>
 <td><p>1990年4月8日</p></td>
 <td><p>PCエンジンスーパーグラフィックスをCD-ROM<sup>2</sup>本体と接続する際に必須になるアダプタ。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>AMP-30</p></td>
 <td><p>ROM<sup>2</sup>アンプ</p></td>
 <td><p>1989年10月27日</p></td>
 <td><p>CD-ROM<sup>2</sup>本体専用のカラオケシステム。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SPK-30</p></td>
 <td><p>ROM<sup>2</sup>スピーカー</p></td>
 <td><p>ROM<sup>2</sup>アンプ同梱</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MIC-30</p></td>
 <td><p>マイク</p></td>
 <td><p>1989年12月4日</p></td>
 <td><p>カラオケ用マイク。市販品で代用可能。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxクラスター](https://ja.wikipedia.org/wiki/Linuxクラスター)から翻訳されています。
 
 
 **Linuxクラスター**（リナックスクラスター）は、[Linux](../Page/Linux.md "wikilink")を利用している[コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")である。一般に[疎結合クラスター](https://ja.wikipedia.org/wiki/疎結合クラスター "wikilink")で、[対称型マルチプロセッシング](../Page/対称型マルチプロセッシング.md "wikilink") (SMP) が、CPUとメモリをより密に繋いでいるのに比べると、クラスターの結合は疎である。クラスターの各要素は、完全に独立したコンピュータとして動作しており、高速なLANなどを利用してお互いに接続されている。

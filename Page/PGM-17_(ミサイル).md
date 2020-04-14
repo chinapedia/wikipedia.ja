@@ -1,4 +1,4 @@
-> この記事は[PGM-17 \(\)](https://ja.wikipedia.org/wiki/PGM-17_\(\))から翻訳されています。
+> この記事は[PGM-17 \(ミサイル\)](https://ja.wikipedia.org/wiki/PGM-17_\(ミサイル\))から翻訳されています。
 
 
 **PGM-17 ソー**(Thor)は冷戦期の、[核弾頭](../Page/核弾頭.md "wikilink")を搭載可能な射程2,400kmの[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[準中距離弾道ミサイル (MRBM)](../Page/準中距離弾道ミサイル.md "wikilink") である。[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")のほか、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")にも配備され、[イギリス空軍](../Page/イギリス空軍.md "wikilink") (RAF) によっても運用されたが、[キューバ危機](../Page/キューバ危機.md "wikilink")後に撤去された。

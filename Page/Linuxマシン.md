@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxマシン](https://ja.wikipedia.org/wiki/Linuxマシン)から翻訳されています。
 
 
 **Linuxマシン**（リナックスマシン）とは、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")や、Linuxカーネルを含めた[GNU/Linuxオペレーティングシステム](https://ja.wikipedia.org/wiki/GNU/Linuxオペレーティングシステム "wikilink")を実行するコンピュータを指す。ソフトウェアだけではなく、ハードウェアも含めている。**Linuxボックス**と呼ぶこともある（英語ではLinux boxが普通の呼び名）。

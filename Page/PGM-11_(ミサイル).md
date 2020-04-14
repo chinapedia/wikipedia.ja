@@ -1,4 +1,4 @@
-> この記事は[PGM-11 \(\)](https://ja.wikipedia.org/wiki/PGM-11_\(\))から翻訳されています。
+> この記事は[PGM-11 \(ミサイル\)](https://ja.wikipedia.org/wiki/PGM-11_\(ミサイル\))から翻訳されています。
 
 
 **PGM-11 レッドストーン** (**Redstone**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の初期の[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink") (SRBM) である 。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")と[ヴェルナー・フォン・ブラウン](../Page/ヴェルナー・フォン・ブラウン.md "wikilink")らのチームによって開発され、後に[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")や[マーキュリー計画](../Page/マーキュリー計画.md "wikilink")の有人宇宙船を打ち上げる[ロケット](../Page/ロケット.md "wikilink")として転用された。名称は、アメリカ陸軍の[レッドストーン兵器廠](../Page/レッドストーン兵器廠.md "wikilink")にちなむ。

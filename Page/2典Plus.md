@@ -1,4 +1,4 @@
-> この記事は[2Plus](https://ja.wikipedia.org/wiki/2Plus)から翻訳されています。
+> この記事は[2典Plus](https://ja.wikipedia.org/wiki/2典Plus)から翻訳されています。
 
 
 **2典Plus**（にてんプラス）は、かつて存在した[2ちゃんねる用語](https://ja.wikipedia.org/wiki/2ちゃんねる用語 "wikilink")のオンライン[辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")である\[1\]\[2\]\[3\]。2001年設立の**2典**（にてん）\[4\]\[5\]を前身として2003年に開設され\[6\]\[7\]、2014年頃まで公開されていた\[8\]\[9\]。3000以上の用語\[10\]\[11\]\[12\]\[13\]が登録されていた。

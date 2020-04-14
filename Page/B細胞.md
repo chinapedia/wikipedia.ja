@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B細胞](https://ja.wikipedia.org/wiki/B細胞)から翻訳されています。
 
 
 **B細胞**（ビーさいぼう、、B lymphocyte）は[リンパ球](https://ja.wikipedia.org/wiki/リンパ球 "wikilink")の一種である。

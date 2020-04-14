@@ -1,4 +1,4 @@
-> この記事は[DoJa](https://ja.wikipedia.org/wiki/DoJa)から翻訳されています。
+> この記事は[DoJaプロファイル](https://ja.wikipedia.org/wiki/DoJaプロファイル)から翻訳されています。
 
 
 **DoJaプロファイル**（ドゥージャプロファイル）は[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")グループの[携帯電話](../Page/携帯電話.md "wikilink")（フィーチャーフォン）である[mova](https://ja.wikipedia.org/wiki/mova "wikilink")シリーズ及び[FOMA](../Page/FOMA.md "wikilink")シリーズに搭載される[Java実行環境の仕様である](../Page/Java_Runtime_Environment.md "wikilink")。後継の**Starプロファイル**（スタープロファイル）も本項で記載する。DoJaは開発者向けの用語であり、エンドユーザー向けには「[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")」「iアプリDX」「メガiアプリ」などの名称となっている。

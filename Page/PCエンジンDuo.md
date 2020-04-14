@@ -1,4 +1,4 @@
-> この記事は[PCDuo](https://ja.wikipedia.org/wiki/PCDuo)から翻訳されています。
+> この記事は[PCエンジンDuo](https://ja.wikipedia.org/wiki/PCエンジンDuo)から翻訳されています。
 
 
 **PCエンジンDuo**（ピーシーエンジンデュオ）とは、[1991年](../Page/1991年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）より発売された、[PCエンジン](../Page/PCエンジン.md "wikilink")の姉妹機にあたる[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。当時の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[希望小売価格](../Page/希望小売価格.md "wikilink")は59,800円。

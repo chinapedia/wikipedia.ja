@@ -1,4 +1,4 @@
-> この記事は[Java](https://ja.wikipedia.org/wiki/Java)から翻訳されています。
+> この記事は[Java仮想マシン](https://ja.wikipedia.org/wiki/Java仮想マシン)から翻訳されています。
 
 
 [thumb概要](https://ja.wikipedia.org/wiki/ファイル:Java_virtual_machine_architecture.svg "wikilink")。ソースコードは一旦[Javaバイトコード](https://ja.wikipedia.org/wiki/Javaバイトコード "wikilink")へとコンパイルされ、さらに[インタプリタ](../Page/インタプリタ.md "wikilink")または[JITコンパイラにより](../Page/実行時コンパイラ.md "wikilink")[ネイティブコードに変換されて実行される](../Page/機械語.md "wikilink")。Java APIとJVMの両者でJava実行環境 (JRE) を構成する。\]\]

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[メガCD](https://ja.wikipedia.org/wiki/メガCD)から翻訳されています。
 
 
 **メガCD**（メガシーディー、**MEGA-CD**、**Sega CD**）とは、セガ・エンタープライゼス（現：[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が発売した[メガドライブ](../Page/メガドライブ.md "wikilink")用の[周辺機器](../Page/周辺機器.md "wikilink")。日本では[1991年](../Page/1991年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売。価格は49,800円。

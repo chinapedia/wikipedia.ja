@@ -24,7 +24,7 @@
   - [P・O・P](../Page/P・O・P.md "wikilink") - [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") のアルバム。
   - PoP - Package on Packageの略。[半導体](../Page/半導体.md "wikilink")部品のパッケージの一種。[パッケージ (電子部品)を参照](../Page/パッケージ_\(電子部品\).md "wikilink")。
   - Portrait.of.Pirates - [メガハウス](../Page/メガハウス.md "wikilink")が販売する[ONE PIECEキャラクターフィギュアで](../Page/ONE_PIECE.md "wikilink")、同社のフィギュア「エクセレントモデル」内のシリーズ。
-  - [POP (アルバム)](https://ja.wikipedia.org/wiki/POP_\(アルバム\) "wikilink") - [山下久美子](../Page/山下久美子.md "wikilink")のアルバム。
+  - [POP (山下久美子のアルバム)](../Page/POP_\(山下久美子のアルバム\).md "wikilink") - [山下久美子](../Page/山下久美子.md "wikilink")のアルバム。
 
 ## 非アクロニム
 

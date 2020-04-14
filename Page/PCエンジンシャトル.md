@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[PCエンジンシャトル](https://ja.wikipedia.org/wiki/PCエンジンシャトル)から翻訳されています。
 
 
 **PCエンジンシャトル** (*PC Engine Shuttle*) とは、[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）より発売された[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。[PCエンジン](../Page/PCエンジン.md "wikilink")の一種。当時の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[希望小売価格](../Page/希望小売価格.md "wikilink")は18,800円。
@@ -24,17 +24,35 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>PAD-106</p></td>
+<td><p>ACアダプタ</p></td>
+<td></td>
+<td><p>本体に同梱。</p></td>
+</tr>
+<tr class="even">
 <td><p>PI-PD05</p></td>
 <td><p>ターボパッドII</p></td>
 <td><p>1989年<br />
 11月22日</p></td>
 <td><p>PCエンジンシャトル付属のターボパッド。独自の形状を持つが性能は通常のターボパッドと変わらない。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PI-AD9</p></td>
 <td><p>シャトル専用<br />
 バックアップユニット</p></td>
 <td><p>シャトルは拡張バスが削除されたことから通常のバックアップブースターが使用出来なかったため、専用端子を使うユニットが発売された。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PI-AN2</p></td>
+<td><p>AVケーブル</p></td>
+<td><p>テレビに接続する、映像/音声一体型のケーブル。本体に同梱。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

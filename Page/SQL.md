@@ -1,7 +1,7 @@
 > この記事は[SQL](https://ja.wikipedia.org/wiki/SQL)から翻訳されています。
 
 
-**SQL**（エスキューエル\[1\]、シークェル\[2\]、シーケル\[3\]）は、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) において、データの操作や定義を行うための[データベース言語](../Page/データベース言語.md "wikilink")（[問い合わせ言語](https://ja.wikipedia.org/wiki/問い合わせ言語 "wikilink")）、[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")である。プログラミングにおいてデータベースへのアクセスのために、[プログラミング言語](../Page/プログラミング言語.md "wikilink")と併用されるが、**SQLそのものはプログラミング言語ではない。**理論上は[チューリング完全](../Page/チューリング完全.md "wikilink")ではないため、ユーザーが通常の方法で行える事は読み書きしたいデータの条件を宣言するのみである。
+**SQL**（エスキューエル\[1\]、シークェル\[2\]、シーケル\[3\]）は、[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink") (RDBMS) において、データの操作や定義を行うための[データベース言語](../Page/データベース言語.md "wikilink")（[問い合わせ言語](https://ja.wikipedia.org/wiki/問い合わせ言語 "wikilink")）、[ドメイン固有言語](../Page/ドメイン固有言語.md "wikilink")である。プログラミングにおいてデータベースへのアクセスのために、[プログラミング言語](../Page/プログラミング言語.md "wikilink")と併用されるが、**SQLそのものはプログラミング言語ではない。**
 
 SQLが使われるRDBは非常に良く「[エドガー・F・コッド](../Page/エドガー・F・コッド.md "wikilink")によって考案された[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")の[関係モデル](../Page/関係モデル.md "wikilink")における演算体系である、[関係代数と](https://ja.wikipedia.org/wiki/関係代数_\(関係モデル\) "wikilink")[関係論理](../Page/関係論理.md "wikilink")（関係計算）に基づいている」と宣伝されている。しかし、SQLについては、そのコッド自身をはじめ他からも、関係代数と関係論理にきちんと準拠していないとして批判されてはいる（[The Third Manifesto](https://ja.wikipedia.org/wiki/The_Third_Manifesto "wikilink") - [クリス・デイト](../Page/クリス・デイト.md "wikilink")、[ヒュー・ダーウェン](https://ja.wikipedia.org/wiki/ヒュー・ダーウェン "wikilink")）。
 

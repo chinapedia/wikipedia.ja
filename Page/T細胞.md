@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[T細胞](https://ja.wikipedia.org/wiki/T細胞)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/画像:SEM_Lymphocyte.jpg "wikilink") **T細胞**（ティーさいぼう、、T lymphocyte）とは、[リンパ球](https://ja.wikipedia.org/wiki/リンパ球 "wikilink")の一種で、[骨髄](../Page/骨髄.md "wikilink")で産生された[前駆細胞](https://ja.wikipedia.org/wiki/前駆細胞 "wikilink")が[胸腺](../Page/胸腺.md "wikilink")での選択を経て[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")[成熟](https://ja.wikipedia.org/wiki/成熟 "wikilink")したもの。細胞表面に特徴的な[T細胞受容体](https://ja.wikipedia.org/wiki/T細胞受容体 "wikilink")（T cell receptor;TCR）を有している。[末梢血](https://ja.wikipedia.org/wiki/末梢血 "wikilink")中のリンパ球の70〜80%を占める。名前の『**T**』は胸腺を意味する**Thymus**に由来する。

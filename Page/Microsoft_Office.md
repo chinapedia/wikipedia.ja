@@ -1168,6 +1168,7 @@ Office 97\~2003に存在していた機能。
   - [オートシェイプ](https://ja.wikipedia.org/wiki/オートシェイプ "wikilink")
   - [オフィススイートの比較](../Page/オフィススイートの比較.md "wikilink")
   - [Kingsoft Office](https://ja.wikipedia.org/wiki/Kingsoft_Office "wikilink")
+  - [Microsoft Office Specialist](../Page/Microsoft_Office_Specialist.md "wikilink")（MOS）
 
 ## 外部リンク
 

@@ -1,4 +1,4 @@
-> この記事は[EAN](https://ja.wikipedia.org/wiki/EAN)から翻訳されています。
+> この記事は[EANコード](https://ja.wikipedia.org/wiki/EANコード)から翻訳されています。
 
 
 **EANコード**（イアンコード、European Article Number）は、商品識別コードおよび[バーコード](../Page/バーコード.md "wikilink")規格のひとつ。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の規格は「**JANコード**」（Japanese Article Number）と呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[ICO \(\)](https://ja.wikipedia.org/wiki/ICO_\(\))から翻訳されています。
+> この記事は[ICO \(ゲーム\)](https://ja.wikipedia.org/wiki/ICO_\(ゲーム\))から翻訳されています。
 
 
 『**ICO**』（イコ）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")により開発・発売された日本の[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[PlayStation 2用ソフトとして発売され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、後に「PlayStation 2 the Best」として[廉価版](../Page/廉価版.md "wikilink")が発売された。また、2011年9月22日には[PlayStation 3用のHDリマスター版が発売された](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。

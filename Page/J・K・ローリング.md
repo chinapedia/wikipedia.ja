@@ -1,9 +1,9 @@
-> この記事は[JK](https://ja.wikipedia.org/wiki/JK)から翻訳されています。
+> この記事は[J・K・ローリング](https://ja.wikipedia.org/wiki/J・K・ローリング)から翻訳されています。
 
 
 **ジョアン・ローリング**, [CH](https://ja.wikipedia.org/wiki/:en:Order_of_the_Companions_of_Honour "wikilink") [OBE](../Page/大英帝国勲章.md "wikilink") （ 、[1965年](../Page/1965年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") -）、ペンネーム: **J・K・ローリング**  または**ロバート・ガルブレイス**  は、イギリスの小説家兼脚本家。
 
-『[ハリーポッターシリーズ](https://ja.wikipedia.org/wiki/ハリーポッターシリーズ "wikilink")』の作者であり、この本は世界中で反響を呼び幾多の賞を獲得し4億部以上出版\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]。
+『[ハリーポッターシリーズ](https://ja.wikipedia.org/wiki/ハリーポッターシリーズ "wikilink")』の作者であり、この本は世界中で反響を呼び幾多の賞を獲得し4億部以上出版\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]又ファンタスエィクビーストと魔法使いの旅で脚本家デビュー。
 
 [大英帝国勲章](../Page/大英帝国勲章.md "wikilink")、[ローカス賞](https://ja.wikipedia.org/wiki/ローカス賞_ファンタジイ長篇部門 "wikilink")、[ヒューゴー賞](../Page/ヒューゴー賞_長編小説部門.md "wikilink")、[アストゥリアス皇太子賞](https://ja.wikipedia.org/wiki/アストゥリアス皇太子賞 "wikilink")、[アンデルセン文学賞](https://ja.wikipedia.org/wiki/アンデルセン文学賞 "wikilink")、[英国アカデミー賞](../Page/英国アカデミー賞.md "wikilink")受賞。
 
@@ -297,7 +297,7 @@
   - [Pottermore.com](https://gbp.shop.pottermore.com/) - 電子書籍やオーディオブックを購入できるオフィシャルストア。
 
   -
-[Category:イギリスの児童文学作家](https://ja.wikipedia.org/wiki/Category:イギリスの児童文学作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ハリー・ポッターシリーズ](https://ja.wikipedia.org/wiki/Category:ハリー・ポッターシリーズ "wikilink") [Category:大英帝国勲章](https://ja.wikipedia.org/wiki/Category:大英帝国勲章 "wikilink") [Category:イングランドの慈善家](https://ja.wikipedia.org/wiki/Category:イングランドの慈善家 "wikilink") [Category:サウス・グロスタシャー出身の人物](https://ja.wikipedia.org/wiki/Category:サウス・グロスタシャー出身の人物 "wikilink") [Category:スコットランド系イングランド人](https://ja.wikipedia.org/wiki/Category:スコットランド系イングランド人 "wikilink") [Category:1965年生](https://ja.wikipedia.org/wiki/Category:1965年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:イギリスの児童文学作家](https://ja.wikipedia.org/wiki/Category:イギリスの児童文学作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ハリー・ポッターシリーズ](https://ja.wikipedia.org/wiki/Category:ハリー・ポッターシリーズ "wikilink") [Category:大英帝国勲章受章者](https://ja.wikipedia.org/wiki/Category:大英帝国勲章受章者 "wikilink") [Category:イングランドの慈善家](https://ja.wikipedia.org/wiki/Category:イングランドの慈善家 "wikilink") [Category:サウス・グロスタシャー出身の人物](https://ja.wikipedia.org/wiki/Category:サウス・グロスタシャー出身の人物 "wikilink") [Category:スコットランド系イングランド人](https://ja.wikipedia.org/wiki/Category:スコットランド系イングランド人 "wikilink") [Category:1965年生](https://ja.wikipedia.org/wiki/Category:1965年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

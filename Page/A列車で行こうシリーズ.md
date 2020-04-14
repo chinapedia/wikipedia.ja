@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[A列車で行こうシリーズ](https://ja.wikipedia.org/wiki/A列車で行こうシリーズ)から翻訳されています。
 
 
 『**A列車で行こうシリーズ**』は、[アートディンク](../Page/アートディンク.md "wikilink")が開発した都市構築型の[経営シミュレーションゲーム](../Page/経営シミュレーションゲーム.md "wikilink")（[ミニスケープ](../Page/ミニスケープ.md "wikilink")）のシリーズである。

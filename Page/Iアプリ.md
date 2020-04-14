@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iアプリ](https://ja.wikipedia.org/wiki/Iアプリ)から翻訳されています。
 
 
 **iアプリ**（[英](../Page/英語.md "wikilink")：**i-αppli**）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")（[mova](https://ja.wikipedia.org/wiki/mova "wikilink")503i以降及び[FOMA](../Page/FOMA.md "wikilink")の各シリーズに限られる）で実行出来る[Java](https://ja.wikipedia.org/wiki/Java "wikilink")を使用する[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")及びサービスである。

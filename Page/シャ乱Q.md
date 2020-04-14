@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[シャ乱Q](https://ja.wikipedia.org/wiki/シャ乱Q)から翻訳されています。
 
 
 **シャ乱Q**（シャらんキュー）は、[大阪出身の](../Page/大阪府.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。
@@ -49,14 +49,14 @@
 <!-- end list -->
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークも受けた。例えば、[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]。
+    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークも受けた。例えば、[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]。）
   - [1996年](../Page/1996年.md "wikilink")
-    「[いいわけ](../Page/いいわけ.md "wikilink")」がミリオンヒット。アルバム「[シングルベスト10 おまけつき](https://ja.wikipedia.org/wiki/シングルベスト10★おまけつき★ "wikilink")」もミリオンヒットを記録。シングル「[涙の影](../Page/涙の影.md "wikilink")」、アルバム「[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")」で[オリコン週間](../Page/オリコンチャート.md "wikilink")1位を獲得。10月には、話題となっていた派手なステージ衣装（約2500万円）の盗難にあう。12月、「[有線大賞](../Page/全日本有線放送大賞.md "wikilink")」を受賞し、「[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")」に2回目の出場を果たした。なお、この頃、毎春5月に行なわれた日本武道館でのライブは充実しており特筆に値する。（一部はビデオ発売されている）
+    「[いいわけ](../Page/いいわけ.md "wikilink")」がミリオンヒット。アルバム「[シングルベスト10 おまけつき](https://ja.wikipedia.org/wiki/シングルベスト10★おまけつき★ "wikilink")」もミリオンヒットを記録。シングル「[涙の影](../Page/涙の影.md "wikilink")」、アルバム「[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")」で[オリコン週間](../Page/オリコンチャート.md "wikilink")1位を獲得。8月にライブツアー'96夏の乱「桃色頂上作戦」を開催。（内[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")2日連続、[日本武道館](../Page/日本武道館.md "wikilink")5日公演）※他のライブツアー含めると年間通して8日間の[日本武道館](../Page/日本武道館.md "wikilink")公演を開催。10月には、話題となっていた派手なステージ衣装（約2500万円）の盗難にあう。12月、「[有線大賞](../Page/全日本有線放送大賞.md "wikilink")」を受賞し、「[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")」に2回目の出場を果たした。なお、この頃、毎春5月に行なわれた[日本武道館](../Page/日本武道館.md "wikilink")でのライブは充実しており特筆に値する。（一部はビデオ発売されている）
 
 <!-- end list -->
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-    メンバーのしゅう、たいせー、まことによるユニット「[スーパー\!?テンションズ](../Page/スーパー!?テンションズ.md "wikilink")」の結成。主演映画「[シャ乱Qの演歌の花道](../Page/シャ乱Qの演歌の花道.md "wikilink")」の公開。「紅白歌合戦」に3回目の出場（「[パワーソング](../Page/パワーソング.md "wikilink")」）。また、オーディション番組[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")にてプロデュース活動を開始した。
+    3月に[大阪ドーム](../Page/大阪ドーム.md "wikilink")(現京セラドーム大阪)にて、[大阪ドーム](../Page/大阪ドーム.md "wikilink")完成記念の「シャ乱Q凱旋コンサート」を開催した。メンバーのしゅう、たいせー、まことによるユニット「[スーパー\!?テンションズ](../Page/スーパー!?テンションズ.md "wikilink")」の結成。主演映画「[シャ乱Qの演歌の花道](../Page/シャ乱Qの演歌の花道.md "wikilink")」の公開。「[紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")」に3回目の出場（「[パワーソング](../Page/パワーソング.md "wikilink")」）。また、オーディション番組[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")にてプロデュース活動を開始した。
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 <!-- end list -->
 
   - [2005年](../Page/2005年.md "wikilink")
-    12月、つんく主催のクリスマスディナーショーにて、つんくから「来年 秋頃に再始動」と活動再開が発表された。事務所の先輩である[堀内孝雄](../Page/堀内孝雄.md "wikilink")から促され、メンバーや関係者との話し合いで決意したという。
+    12月、つんく♂主催のクリスマスディナーショーにて、つんくから「来年 秋頃に再始動」と活動再開が発表された。事務所の先輩である[堀内孝雄](../Page/堀内孝雄.md "wikilink")から促され、メンバーや関係者との話し合いで決意したという。
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")
-    結成20周年目。前年のライブMCで、つんくが本年の活動活発化をにおわせていた。しかし、3月に公式ファンクラブ「CLUB QUE」が、つんく独自のファンクラブ「天然音泉」の立ち上げに伴い解散した。12月、[庄司智春](../Page/庄司智春.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")の結婚式にてメンバー全員が久々に顔を合わせた。
+    結成20周年目。前年のライブMCで、つんく♂が本年の活動活発化をにおわせていた。しかし、3月に公式ファンクラブ「CLUB QUE」が、つんく♂独自のファンクラブ「天然音泉」の立ち上げに伴い解散した。12月、[庄司智春](../Page/庄司智春.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")の結婚式にてメンバー全員が久々に顔を合わせた。
 
 <!-- end list -->
 
@@ -121,12 +121,12 @@
 <!-- end list -->
 
   - [2014年](../Page/2014年.md "wikilink")
-    3月6日、つんくが[喉頭がんを患ったことを公表した](https://ja.wikipedia.org/wiki/喉頭癌 "wikilink")\[5\]<ref name="tsunkublog-20140306">
+    3月6日、つんく♂が[喉頭がんを患ったことを公表した](https://ja.wikipedia.org/wiki/喉頭癌 "wikilink")\[5\]<ref name="tsunkublog-20140306">
 
 </ref>。9月25日、いったん「完全寛解」を発表したが\[6\]、がんが再発見され、10月上旬に手術を受けていたことを10月17日に明らかにした\[7\]。
 
   - [2015年](../Page/2015年.md "wikilink")
-    4月4日、つんくが近畿大学の入学式に出席。2014年10月の手術の際に声帯を摘出し、声を失っていたことを公表した\[8\]\[9\]。
+    4月4日、つんく♂が近畿大学の入学式に出席。2014年10月の手術の際に声帯を摘出し、声を失っていたことを公表した\[8\]\[9\]。
 
 ## 受賞歴・主な記録
 
@@ -142,7 +142,9 @@
 
 :\* 第28回[日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽優秀賞（ポップス部門）＆最多リクエスト歌手賞（ズルい女） **1996年**
 
-  - 第9回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink") **主題歌賞**（『[いいわけ](../Page/いいわけ.md "wikilink")』､ドラマ『[Age,35 恋しくて](https://ja.wikipedia.org/wiki/Age,35_恋しくて "wikilink")』主題歌）
+  - 第9回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink") **主題歌賞**（『[いいわけ](../Page/いいわけ.md "wikilink")』､ドラマ『[Age,35 恋しくて](https://ja.wikipedia.org/wiki/Age,35_恋しくて "wikilink")』主題
+
+歌）
 
 :\* 第29回全日本有線放送大賞グランプリ（涙の影）
 
@@ -161,7 +163,7 @@
   -
 
       -
-        ズルい女、シングルベッド、いいわけ、My Baby 君が眠るまで
+        ズルい女、シングルベッド、いいわけ、My Babe 君が眠るまで
 
 <!-- end list -->
 
@@ -524,7 +526,7 @@ c/wはフジテレビ引っ越しキャンペーンソング</p></td>
   - [シャ乱Qオフィシャルウェブサイト](http://www.up-front-agency.co.jp/sharam-q/)
   - [シャ乱Q｜SonyMusic](http://www.110107.com/mob/pageShw.php?site=OTONANO&ima=5823&cd=syaram_q)
 
-[Category:シャ乱Q](https://ja.wikipedia.org/wiki/Category:シャ乱Q "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:つんくプロデュース](https://ja.wikipedia.org/wiki/Category:つんくプロデュース "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:日本のストリート出身ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のストリート出身ミュージシャン "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:近畿大学出身の人物](https://ja.wikipedia.org/wiki/Category:近畿大学出身の人物 "wikilink")
+[Category:シャ乱Q](https://ja.wikipedia.org/wiki/Category:シャ乱Q "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:つんくプロデュース](https://ja.wikipedia.org/wiki/Category:つんくプロデュース "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:日本のストリート出身ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のストリート出身ミュージシャン "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink")
 
 1.  まことは[近畿大学附属高等学校](https://ja.wikipedia.org/wiki/近畿大学附属高等学校 "wikilink")出身でつんくと高校時代からの同級生であったが、成績不良で内部進学が出来なかったたため唯一大学生ではなかった。
 2.  [1番ソングSHOW](https://ja.wikipedia.org/wiki/1番ソングSHOW "wikilink") 日本テレビ系列 2011年10月26日放送より

@@ -1,4 +1,4 @@
-> この記事は[PCGT](https://ja.wikipedia.org/wiki/PCGT)から翻訳されています。
+> この記事は[PCエンジンGT](https://ja.wikipedia.org/wiki/PCエンジンGT)から翻訳されています。
 
 
 **PCエンジンGT**（ピーシーエンジン ジーティー）とは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）より発売された[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機。[PCエンジン](../Page/PCエンジン.md "wikilink")の一種である。当時の[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[希望小売価格](../Page/希望小売価格.md "wikilink")は44,800円\[1\]。「**GT**」は「**Game** and **TV**」の略称である\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iショット](https://ja.wikipedia.org/wiki/Iショット)から翻訳されています。
 
 
 **iショット**（i-shot, アイショット）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモードメール](https://ja.wikipedia.org/wiki/iモードメール "wikilink")における画像送受信サービスの名称である。

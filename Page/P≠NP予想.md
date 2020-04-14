@@ -1,4 +1,4 @@
-> この記事は[PNP](https://ja.wikipedia.org/wiki/PNP)から翻訳されています。
+> この記事は[P≠NP予想](https://ja.wikipedia.org/wiki/P≠NP予想)から翻訳されています。
 
 
 **P≠NP予想**（P≠NPよそう、）は、[計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")（計算量理論）における[クラスPと](../Page/P_\(計算複雑性理論\).md "wikilink")[クラスNPが等しくないという](../Page/NP.md "wikilink")[予想](../Page/予想.md "wikilink")である。**P対NP問題**（PたいNPもんだい、）と呼ばれることもある。

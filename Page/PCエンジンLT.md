@@ -1,4 +1,4 @@
-> この記事は[PCLT](https://ja.wikipedia.org/wiki/PCLT)から翻訳されています。
+> この記事は[PCエンジンLT](https://ja.wikipedia.org/wiki/PCエンジンLT)から翻訳されています。
 
 
 **PCエンジンLT**（ピーシーエンジンエルティー）とは、[1991年](../Page/1991年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）から発売された[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。「**LT**」は「**[Laptop](../Page/ノートパソコン.md "wikilink")**」の略称である。

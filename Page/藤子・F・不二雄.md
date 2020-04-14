@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[藤子・F・不二雄](https://ja.wikipedia.org/wiki/藤子・F・不二雄)から翻訳されています。
 
 
 **藤子・F・不二雄**（ふじこ・エフ・ふじお、[1933年](../Page/1933年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")8年〉[12月1日](../Page/12月1日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")〈[平成](../Page/平成.md "wikilink")8年〉[9月23日](../Page/9月23日.md "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。本名は**藤本 弘**（ふじもと ひろし）\[2\]。「F」とは「藤本（フジモト）」の頭文字を意味する。

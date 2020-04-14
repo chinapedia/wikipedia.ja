@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[リチャード・D・ザナック](https://ja.wikipedia.org/wiki/リチャード・D・ザナック)から翻訳されています。
 
 
 **リチャード・ダリル・ザナック**（**Richard Darryl Zanuck**、[1934年](../Page/1934年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - [2012年](../Page/2012年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身。

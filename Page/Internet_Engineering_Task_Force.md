@@ -30,7 +30,7 @@
 
 ## 外部リンク
 
-  - [IETF](http://www.ietf.org/)
+  - [IETF](https://www.ietf.org/)
   - [IETF76 広島](http://www.ietf76.jp/)
   - [インターネットのガバナンス](http://sites.google.com/site/latakialover/)
 

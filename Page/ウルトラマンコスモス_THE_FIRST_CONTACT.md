@@ -1,4 +1,4 @@
-> この記事は[ THE FIRST CONTACT](https://ja.wikipedia.org/wiki/_THE_FIRST_CONTACT)から翻訳されています。
+> この記事は[ウルトラマンコスモス THE FIRST CONTACT](https://ja.wikipedia.org/wiki/ウルトラマンコスモス_THE_FIRST_CONTACT)から翻訳されています。
 
 
 『**ウルトラマンコスモス THE FIRST CONTACT**』（ウルトラマンコスモス ザ・ファースト・コンタクト）は、[2001年](../Page/2001年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に全国松竹系映画館にて公開された[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の[映画](../Page/映画.md "wikilink")作品、[松竹](../Page/松竹.md "wikilink")配給。

@@ -1,4 +1,4 @@
-> この記事は[H-II](https://ja.wikipedia.org/wiki/H-II)から翻訳されています。
+> この記事は[H-IIロケット](https://ja.wikipedia.org/wiki/H-IIロケット)から翻訳されています。
 
 
 **H-IIロケット**（エイチツーロケット、エイチにロケット）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA) と[三菱重工](https://ja.wikipedia.org/wiki/三菱重工 "wikilink")が開発し、三菱重工が製造した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")打上げ用[ロケット](../Page/ロケット.md "wikilink")。日本の人工衛星打ち上げ用[液体燃料ロケット](../Page/液体燃料ロケット.md "wikilink")としては初めて主要技術の全てが国内開発された。

@@ -1,4 +1,4 @@
-> この記事は[H-I](https://ja.wikipedia.org/wiki/H-I)から翻訳されています。
+> この記事は[H-Iロケット](https://ja.wikipedia.org/wiki/H-Iロケット)から翻訳されています。
 
 
 **H-Iロケット**（えいちわん-・えいちいち-）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA) と[三菱重工業](../Page/三菱重工業.md "wikilink")が[N-Iロケット](../Page/N-Iロケット.md "wikilink")と[N-IIロケット](../Page/N-IIロケット.md "wikilink")に続いて開発し、三菱重工業が製造した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")打上げ用[液体燃料ロケット](../Page/液体燃料ロケット.md "wikilink")である。名称の頭文字「H」は[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")の[元素記号](../Page/元素記号.md "wikilink")に由来し、第2段の燃料に[液体水素](../Page/液体水素.md "wikilink")を使用することから名付けられた\[1\]。

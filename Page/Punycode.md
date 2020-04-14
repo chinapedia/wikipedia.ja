@@ -24,8 +24,8 @@
 <td><p><code>xn--cckbak0byl6e.xn--eckwd4c7cu47r2wf.jp</code></p></td>
 </tr>
 <tr class="odd">
-<td><p><code>例え.テスト</code></p></td>
-<td><p><code>xn--r8jz45g.xn--zckzah</code></p></td>
+<td><p><code>可愛いね.そうでもないよ</code></p></td>
+<td><p><code>xn--n8j5d625jn9k.xn--n8jd2ewbp7lub</code></p></td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +36,7 @@
 
 ### 文字の分離
 
-最初に入力文字列中にあるすべての基本文字（[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")）を残し、基本文字以外の文字は飛ばす。基本文字以外の文字がある場合は、最後に区切り文字（ハイフン）を追加する。
+最初に入力文字列中にあるすべての基本文字（[ASCII](../Page/ASCII.md "wikilink")）を残し、基本文字以外の文字は飛ばす。基本文字以外の文字がある場合は、最後に区切り文字（ハイフン）を追加する。
 
 | 入力文字列     | 処理後      |
 | --------- | -------- |

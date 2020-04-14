@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[藤子不二雄A](https://ja.wikipedia.org/wiki/藤子不二雄A)から翻訳されています。
 
 
 **藤子 不二雄Ⓐ**（ふじこ・ふじお・エー、[1934年](../Page/1934年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。本名は**安孫子 素雄**（あびこ もとお）。[大垣女子短期大学](../Page/大垣女子短期大学.md "wikilink")客員教授。[座右の銘は](https://ja.wikipedia.org/wiki/標語#座右の銘 "wikilink")「**明日にのばせることを今日するな**」。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GPS \(\)](https://ja.wikipedia.org/wiki/GPS_\(\))から翻訳されています。
+> この記事は[GPS \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/GPS_\(曖昧さ回避\))から翻訳されています。
 
 
 **GPS**

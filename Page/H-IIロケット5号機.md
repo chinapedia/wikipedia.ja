@@ -1,4 +1,4 @@
-> この記事は[H-II5](https://ja.wikipedia.org/wiki/H-II5)から翻訳されています。
+> この記事は[H-IIロケット5号機](https://ja.wikipedia.org/wiki/H-IIロケット5号機)から翻訳されています。
 
 
 **H-IIロケット5号機**は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)の[H-IIロケット](../Page/H-IIロケット.md "wikilink")で6番目に打上げたものである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に種子島宇宙センターから通信放送技術衛星(COMETS)「[かけはし](https://ja.wikipedia.org/wiki/かけはし "wikilink")」を搭載して打ち上げたが、2段目エンジンの[LE-5A](https://ja.wikipedia.org/wiki/LE-5A "wikilink")の燃焼が予定より早く停止し、衛星を[静止トランスファ軌道](../Page/静止トランスファ軌道.md "wikilink")へ投入するのに失敗した。

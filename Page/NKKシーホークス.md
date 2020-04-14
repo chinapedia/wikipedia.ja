@@ -1,4 +1,4 @@
-> この記事は[NKK](https://ja.wikipedia.org/wiki/NKK)から翻訳されています。
+> この記事は[NKKシーホークス](https://ja.wikipedia.org/wiki/NKKシーホークス)から翻訳されています。
 
 
 **NKKシーホークス**（NKK Sea Hawks）は、日本鋼管（NKK、現・[JFEエンジニアリング](../Page/JFEエンジニアリング.md "wikilink")）の男子バスケットボールチームである。

@@ -1,4 +1,4 @@
-> この記事は[M.F.C. ](https://ja.wikipedia.org/wiki/M.F.C._)から翻訳されています。
+> この記事は[M.F.C. 女泥棒会社峰不二子カンパニー](https://ja.wikipedia.org/wiki/M.F.C._女泥棒会社峰不二子カンパニー)から翻訳されています。
 
 
 『**M.F.C. 女泥棒会社峰不二子カンパニー**』（エムエフシー おんなどろぼうがいしゃみねふじこカンパニー）は、雑誌「[ルパン三世officialマガジン](../Page/ルパン三世officialマガジン.md "wikilink")」で連載された『[ルパン三世](../Page/ルパン三世.md "wikilink")』を原作とした[鈴木イゾ](https://ja.wikipedia.org/wiki/鈴木イゾ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。副題は「女泥棒会社峰不二子カンパニー」。2009年9月28日、単行本が上下巻に分けられて発売された。

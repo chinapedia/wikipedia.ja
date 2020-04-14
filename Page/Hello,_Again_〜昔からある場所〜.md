@@ -1,4 +1,4 @@
-> この記事は[Hello, Again ](https://ja.wikipedia.org/wiki/Hello,_Again_)から翻訳されています。
+> この記事は[Hello, Again 〜昔からある場所〜](https://ja.wikipedia.org/wiki/Hello,_Again_〜昔からある場所〜)から翻訳されています。
 
 
 「**Hello, Again 〜昔からある場所〜**」（ハロー・アゲイン むかしからあるばしょ）は、[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")発売。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

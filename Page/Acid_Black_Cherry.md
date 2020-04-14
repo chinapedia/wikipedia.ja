@@ -170,10 +170,10 @@
 
 #### ギター
 
-  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")** （from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink"))
-    Black Cherry、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、ジグソー、眠り姫、cord name【JUSTICE】、罪と罰〜神様のアリバイ〜、I'm not a ghost、黒い太陽、Maria、少女の祈りIII、ピストル、シャングリラ、リバース、CRISIS、in the Mirror、GLAMOROUS SKY、ふられ気分でRock'n'Roll、1/3の純情な感情、liar or LIAR?、エストエム、7 colors、眠れぬ夜、& you イエス、君がいない…あの日から。
+  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")** （from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、[ex.Λucifer](../Page/Λucifer.md "wikilink"))
+    Black Cherry、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、ジグソー、眠り姫、cord name【JUSTICE】、罪と罰〜神様のアリバイ〜、I'm not a ghost、黒い太陽、Maria、少女の祈りIII、ピストル、シャングリラ、CRISIS、in the Mirror、GLAMOROUS SKY、ふられ気分でRock'n'Roll、1/3の純情な感情、liar or LIAR?、エストエム、7 colors、眠れぬ夜、& you 、CLOUDY HEART
   - **[AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")** （from.[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
-    愛してない、冬の幻、Prologue End、優しい嘘、Mother、1954 LOVE/HATE、Re:birth、君がいるから、ジグソー
+    愛してない、冬の幻、Prologue End、優しい嘘、Mother、1954 LOVE/HATE、Re:birth、君がいるから、
   - **HIRO** （from.[Libraian](../Page/Libraian.md "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
     蝶、イエス、指輪物語、その日が来るまで、so...Good night.、doomsday clock、Greed Greed Greed、黒猫 〜Adult Black Cat〜、君がいない、あの日から･･･、INCUBUS、Round & Round、L-エル-
   - **[DAITA](../Page/DAITA.md "wikilink")** (from.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink"))
@@ -190,9 +190,9 @@
 #### ベース
 
   - **SHUSE** （from.[†яi¢к](https://ja.wikipedia.org/wiki/†яi¢к "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
-    SPELL MAGIC、Black Cherry、愛してない、冬の幻、sins、少女の祈り、scar、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、Prologue End、眠り姫、20+∞Century Boys、Mother、罪と罰〜神様のアリバイ〜、黒い太陽、Re:birth、少女の祈りIII、ピストル、シャングリラ、CRISIS、イエス、Fallin' Angel、in the Mirror、その日が来るまで、so...Good night.、doomsday clock、リバースGLAMOROUS SKY、ふられ気分でRock'n'Roll、君がいない、あの日から･･･、Round & Round、liar or LIAR?、エストエム、L-エル-、7 colors、眠れぬ夜、& you
+    SPELL MAGIC、Black Cherry、愛してない、冬の幻、sins、少女の祈り、scar、Bit Stupid、楽園、Murder Licence、DRAGON CARNIVAL、Prologue End、眠り姫、20+∞Century Boys、Mother、罪と罰〜神様のアリバイ〜、黒い太陽、Re:birth、少女の祈りIII、ピストル、シャングリラ、CRISIS、イエス、Fallin' Angel、in the Mirror、その日が来るまで、so...Good night.、doomsday clock、GLAMOROUS SKY、ふられ気分でRock'n'Roll、君がいない、あの日から･･･、Round & Round、liar or LIAR?、エストエム、L-エル-、7 colors、眠れぬ夜、& you
   - **[Ikuo](../Page/Ikuo.md "wikilink")** （from.[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")）
-    ジグソー、優しい嘘、cord name【JUSTICE】、1954 LOVE/HATE、I'm not a ghost、Maria、蝶、Greed Greed Greed、黒猫 〜Adult Black Cat〜、INCUBUS、versus G、Loves(デモのみ)
+    ジグソー、優しい嘘、cord name【JUSTICE】、1954 LOVE/HATE、I'm not a ghost、Maria、蝶、Greed Greed Greed、黒猫 〜Adult Black Cat〜、INCUBUS、versus G、Loves
   - **[RYO](../Page/RYO.md "wikilink")** (from.[defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink"))
     1/3の純情な感情、フライングゲット
 
@@ -240,7 +240,7 @@
 
 #### ギター
 
-  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink")）
+  - **[YUKI](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")**（from.[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")、[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")、ex.[Λucifer](../Page/Λucifer.md "wikilink")）
     ※「20+∞Century Boys」〜参加
   - **HIRO**（from.[Libraian](../Page/Libraian.md "wikilink")、ex.[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")）
     ※「蝶」〜参加

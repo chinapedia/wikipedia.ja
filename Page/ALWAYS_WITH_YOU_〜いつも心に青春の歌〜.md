@@ -1,4 +1,4 @@
-> この記事は[ALWAYS WITH YOU ](https://ja.wikipedia.org/wiki/ALWAYS_WITH_YOU_)から翻訳されています。
+> この記事は[ALWAYS WITH YOU 〜いつも心に青春の歌〜](https://ja.wikipedia.org/wiki/ALWAYS_WITH_YOU_〜いつも心に青春の歌〜)から翻訳されています。
 
 
 『**ALWAYS WITH YOU 〜いつも心に青春の歌〜**』（オールウェイズ・ウィズ・ユー いつもこころにせいしゅんのうた）は、[ユニバーサルミュージック・ダイレクトが企画](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・発売する[通販専用CDボックスである](../Page/通販CD.md "wikilink")。

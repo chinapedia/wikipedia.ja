@@ -1,4 +1,4 @@
-> この記事は[Without you \(YOSHIKI\)](https://ja.wikipedia.org/wiki/Without_you_\(YOSHIKI\))から翻訳されています。
+> この記事は[Without you \(YOSHIKIの曲\)](https://ja.wikipedia.org/wiki/Without_you_\(YOSHIKIの曲\))から翻訳されています。
 
 
 「**Without You**」（ウィズアウト・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[YOSHIKI](../Page/YOSHIKI.md "wikilink")が[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")急死後に作った楽曲である。2005年3月23日にリリースされた『[ETERNAL MELODY II](../Page/ETERNAL_MELODY_II.md "wikilink")』にクラシック・アレンジバージョンが収録されている。

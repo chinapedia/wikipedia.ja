@@ -60,4 +60,4 @@
   - [JAMSAT 日本アマチュア衛星通信協会](http://www.jamsat.or.jp/)
   - [AMSAT](http://www.amsat.org/amsat-new/satellites/satInfo.php?satID=5&retURL=satellites/all_oscars.php)
 
-[Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:通信衛星](https://ja.wikipedia.org/wiki/Category:通信衛星 "wikilink") [Category:アマチュア衛星](https://ja.wikipedia.org/wiki/Category:アマチュア衛星 "wikilink") [Category:2006年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2006年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:通信衛星](https://ja.wikipedia.org/wiki/Category:通信衛星 "wikilink") [Category:アマチュア衛星](https://ja.wikipedia.org/wiki/Category:アマチュア衛星 "wikilink") [Category:2006年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2006年の宇宙飛行 "wikilink")

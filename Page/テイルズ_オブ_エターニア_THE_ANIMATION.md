@@ -1,4 +1,4 @@
-> この記事は[   THE ANIMATION](https://ja.wikipedia.org/wiki/___THE_ANIMATION)から翻訳されています。
+> この記事は[テイルズ オブ エターニア THE ANIMATION](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア_THE_ANIMATION)から翻訳されています。
 
 
 『**テイルズ オブ エターニア THE ANIMATION**』（テイルズ オブ エターニア ジ アニメーション、Tales of Eternia THE ANIMATION）は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")から発売されたゲームソフト『[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")』を原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品である。

@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[デスティニー \(ISS\)](https://ja.wikipedia.org/wiki/デスティニー_\(ISS\))から翻訳されています。
 
 
 [ISS_Destiny_Lab.jpg](https://ja.wikipedia.org/wiki/File:ISS_Destiny_Lab.jpg "fig:ISS_Destiny_Lab.jpg") **デスティニー**（Destiny）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) の米国製モジュールで、初の実験用モジュールである。[2001年](../Page/2001年.md "wikilink")2月の初めに[ユニティモジュールに接続され](../Page/ユニティ_\(ISS\).md "wikilink")、5日間かけて起動作業が行なわれた。軌道上の実験施設を[NASAが運用するのは](../Page/アメリカ航空宇宙局.md "wikilink")、[1974年](../Page/1974年.md "wikilink")2月に[スカイラブから撤退して以来](../Page/スカイラブ計画.md "wikilink")、デスティニーが初めてである。
@@ -46,4 +46,4 @@
   - [U.S. Destiny Laboratory](http://www.nasa.gov/mission_pages/station/structure/elements/destiny.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
   - [デスティニー（米国実験棟）](http://iss.jaxa.jp/glossary/jp/te/destiny.html) - [JAXA](https://ja.wikipedia.org/wiki/JAXA "wikilink")
 
-[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:NASA](https://ja.wikipedia.org/wiki/Category:NASA "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:NASA](https://ja.wikipedia.org/wiki/Category:NASA "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink")

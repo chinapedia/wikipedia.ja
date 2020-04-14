@@ -1,4 +1,4 @@
-> この記事は[39 \(KinKi Kids\)](https://ja.wikipedia.org/wiki/39_\(KinKi_Kids\))から翻訳されています。
+> この記事は[39 \(KinKi Kidsのアルバム\)](https://ja.wikipedia.org/wiki/39_\(KinKi_Kidsのアルバム\))から翻訳されています。
 
 
 『**39**』（サンキュー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")3枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

@@ -19,7 +19,7 @@
   - [After Racing Cafe](../Page/After_Racing_Cafe.md "wikilink") - かつて[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")で[放送](../Page/放送.md "wikilink")されていた、[競馬](../Page/競馬.md "wikilink")に関する[テレビ番組](../Page/テレビ番組.md "wikilink")。
   - AIDS Related Complex - [エイズ関連症候群](https://ja.wikipedia.org/wiki/エイズ関連症候群 "wikilink")の略称
   - オーディオリターンチャンネル - マルチメディアインターフェース[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")Ver1.4で追加された機能。
-  - [アメリカン・レコード・カンパニー](https://ja.wikipedia.org/wiki/アメリカン・レコード・カンパニー "wikilink") - 1904年から1908年にかけて活動。
+  - [アメリカン・レコード・カンパニー](../Page/アメリカン・レコード・カンパニー.md "wikilink") - 1904年から1908年にかけて活動。
   - [アメリカン・レコード・コーポレーション](https://ja.wikipedia.org/wiki/アメリカン・レコード・コーポレーション "wikilink") - 1929年から1938年にかけて活動。ARC Recordsとも
   - [アメリカン・レコーディング・コーポレーション](https://ja.wikipedia.org/wiki/アメリカン・レコーディング・コーポレーション "wikilink") - 1978年から1982年にかけて活動。[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")の[モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")が[コロムビア・レコード](../Page/コロムビア・レコード.md "wikilink")と共同で設立した自主レーベル。ARC Recordsとも。
   - [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")で使われるアーカイブ形式。[RARCファイル](https://ja.wikipedia.org/wiki/RARCファイル "wikilink")を参照。

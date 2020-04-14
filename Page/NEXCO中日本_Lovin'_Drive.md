@@ -1,4 +1,4 @@
-> この記事は[NEXCO Lovin\' Drive](https://ja.wikipedia.org/wiki/NEXCO_Lovin\'_Drive)から翻訳されています。
+> この記事は[NEXCO中日本 Lovin\' Drive](https://ja.wikipedia.org/wiki/NEXCO中日本_Lovin\'_Drive)から翻訳されています。
 
 
 『**NEXCO中日本　Lovin' Drive**』（ネクスコなかにほん　ラヴィン・ドライブ）とは、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から（一部地域では5月から）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送したラジオ番組。[NEXCO中日本](../Page/中日本高速道路.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")によるドライブ情報番組である。

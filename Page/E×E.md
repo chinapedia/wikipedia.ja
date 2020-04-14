@@ -1,4 +1,4 @@
-> この記事は[EE](https://ja.wikipedia.org/wiki/EE)から翻訳されています。
+> この記事は[E×E](https://ja.wikipedia.org/wiki/E×E)から翻訳されています。
 
 
 『**E×E**』（エグゼ）は、[ゆずソフト](../Page/ゆずソフト.md "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。E×Eは「Empty × Embryo」の略。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**魂（コード）を解読せよ\!**」。

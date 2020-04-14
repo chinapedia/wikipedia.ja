@@ -1,4 +1,4 @@
-> この記事は[ZONE \(\)](https://ja.wikipedia.org/wiki/ZONE_\(\))から翻訳されています。
+> この記事は[ZONE \(漫画\)](https://ja.wikipedia.org/wiki/ZONE_\(漫画\))から翻訳されています。
 
 
 「**ZONE**」（ゾーン）は、[かとうひろし](../Page/かとうひろし.md "wikilink")によって[銀杏社](https://ja.wikipedia.org/wiki/銀杏社 "wikilink")主催のWEBサイト『漫画街』に2005年7月から2006年4月まで連載された[少年漫画](../Page/少年漫画.md "wikilink")。[単行本](../Page/単行本.md "wikilink")等の書籍にはなっておらず、漫画街WEBサイト上で無料公開されている。全5話と下書きのみのアナザーストーリーおよび前日譚の2話が発表されている。各話数のカウントは『エリア○』となっている。

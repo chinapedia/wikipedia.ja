@@ -1,4 +1,4 @@
-> この記事は[ \(Dir en grey\)](https://ja.wikipedia.org/wiki/_\(Dir_en_grey\))から翻訳されています。
+> この記事は[予感 \(Dir en greyの曲\)](https://ja.wikipedia.org/wiki/予感_\(Dir_en_greyの曲\))から翻訳されています。
 
 
 「**予感**」（よかん）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。

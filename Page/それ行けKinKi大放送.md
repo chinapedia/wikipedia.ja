@@ -1,4 +1,4 @@
-> この記事は[KinKi](https://ja.wikipedia.org/wiki/KinKi)から翻訳されています。
+> この記事は[それ行けKinKi大放送](https://ja.wikipedia.org/wiki/それ行けKinKi大放送)から翻訳されています。
 
 
 『**それ行けKinKi大放送**』（それいけキンキだいほうそう）は、[1996年](../Page/1996年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週日曜 12:10 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

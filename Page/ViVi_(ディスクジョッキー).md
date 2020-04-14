@@ -1,4 +1,4 @@
-> この記事は[ViVi \(\)](https://ja.wikipedia.org/wiki/ViVi_\(\))から翻訳されています。
+> この記事は[ViVi \(ディスクジョッキー\)](https://ja.wikipedia.org/wiki/ViVi_\(ディスクジョッキー\))から翻訳されています。
 
 
 **ViVi**（ヴィヴィ、[1973年](../Page/1973年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink") - ）は、[福岡県](../Page/福岡県.md "wikilink")の[CROSS FMで](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[2002年](../Page/2002年.md "wikilink")10月から[2004年](../Page/2004年.md "wikilink")3月にかけて[ナビゲーターを務めた女性](../Page/ディスクジョッキー.md "wikilink")。

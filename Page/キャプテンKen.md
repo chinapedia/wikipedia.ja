@@ -1,4 +1,4 @@
-> この記事は[Ken](https://ja.wikipedia.org/wiki/Ken)から翻訳されています。
+> この記事は[キャプテンKen](https://ja.wikipedia.org/wiki/キャプテンKen)から翻訳されています。
 
 
 『**キャプテンKen**』（キャプテンケン）は、[1960年](../Page/1960年.md "wikilink")から[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に雑誌「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」に連載された[手塚治虫](../Page/手塚治虫.md "wikilink")の[SF漫画](../Page/SF漫画.md "wikilink")作品。「週刊少年サンデー」への手塚の掲載作品としては『スリル博士』『[0マン](../Page/0マン.md "wikilink")』に次いで3作目に当たる。

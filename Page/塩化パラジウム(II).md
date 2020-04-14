@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化パラジウム\(II\)](https://ja.wikipedia.org/wiki/塩化パラジウム\(II\))から翻訳されています。
 
 
 **塩化パラジウム(II)**（えんかパラジウム(II)、Palladium(II) chloride）は、代表的な[パラジウム](../Page/パラジウム.md "wikilink")の塩化物で、茶色い粉末状の外見をもつ、無機化合物である。[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")はPd(II)Cl<sub>2</sub>。

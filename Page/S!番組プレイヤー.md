@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!番組プレイヤー](https://ja.wikipedia.org/wiki/S!番組プレイヤー)から翻訳されています。
 
 
 **S\!番組プレイヤー**は[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が[2007年](../Page/2007年.md "wikilink")3月末より提供している無料アプリである。

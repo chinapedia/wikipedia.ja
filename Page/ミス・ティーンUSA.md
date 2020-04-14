@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[ミス・ティーンUSA](https://ja.wikipedia.org/wiki/ミス・ティーンUSA)から翻訳されています。
 
 
 [Cassidy_Wolf_2012.jpg](https://ja.wikipedia.org/wiki/File:Cassidy_Wolf_2012.jpg "fig:Cassidy_Wolf_2012.jpg")

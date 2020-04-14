@@ -1,4 +1,4 @@
-> この記事は[Sunny \(\)](https://ja.wikipedia.org/wiki/Sunny_\(\))から翻訳されています。
+> この記事は[Sunny \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Sunny_\(ミュージシャン\))から翻訳されています。
 
 
 **Sunny**（サニー、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月15日](../Page/8月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[キーボーディスト](../Page/キーボーディスト.md "wikilink")。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")、[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、[寺岡呼人](../Page/寺岡呼人.md "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")らの[サポートキーボーディストとしての活動の他](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、ソロ活動も精力的に行なっている。

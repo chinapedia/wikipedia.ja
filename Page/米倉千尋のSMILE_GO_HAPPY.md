@@ -1,4 +1,4 @@
-> この記事は[SMILE GO HAPPY](https://ja.wikipedia.org/wiki/SMILE_GO_HAPPY)から翻訳されています。
+> この記事は[米倉千尋のSMILE GO HAPPY](https://ja.wikipedia.org/wiki/米倉千尋のSMILE_GO_HAPPY)から翻訳されています。
 
 
 **米倉千尋のSMILE GO HAPPY**（よねくらちひろのスマイル・ゴー・ハッピー）は、[2000年](../Page/2000年.md "wikilink")（平成12年）[1月2日](../Page/1月2日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月28日](../Page/3月28日.md "wikilink")まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")ほかで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組リスナーのことを**スマイラーズ**と呼び、[ラジオネーム](../Page/ラジオネーム.md "wikilink")のことを**スマイルネーム**と呼ぶ。

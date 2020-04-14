@@ -1,4 +1,4 @@
-> この記事は[F \(\)](https://ja.wikipedia.org/wiki/F_\(\))から翻訳されています。
+> この記事は[F \(後藤沙緒里のアルバム\)](https://ja.wikipedia.org/wiki/F_\(後藤沙緒里のアルバム\))から翻訳されています。
 
 
 『**f**』（エフ）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")。2005年8月24日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。

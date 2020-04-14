@@ -1,4 +1,4 @@
-> この記事は[GB3](https://ja.wikipedia.org/wiki/GB3)から翻訳されています。
+> この記事は[ボンバーマンGB3](https://ja.wikipedia.org/wiki/ボンバーマンGB3)から翻訳されています。
 
 
 『**ボンバーマンGB3**』は[1996年](../Page/1996年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第4作目（[ボンバーマンコレクション](../Page/ボンバーマンコレクション.md "wikilink")を除く）。本作は日本国内でのみ発売された。

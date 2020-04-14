@@ -1,4 +1,4 @@
-> この記事は[Dreams \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/Dreams_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
+> この記事は[Dreams \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/Dreams_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
 「**Dreams**」（ドリームズ）は、[HIGH and MIGHTY COLORのメジャーデビュー](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")10枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アヤックス・ケープタウンFC](https://ja.wikipedia.org/wiki/アヤックス・ケープタウンFC)から翻訳されています。
 
 
 **アヤックス・ケープタウンFC**（）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")南西部の都市、[ケープタウン](../Page/ケープタウン.md "wikilink")の[パロウ](https://ja.wikipedia.org/wiki/パロウ "wikilink")地区に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略称はアヤックスCT。

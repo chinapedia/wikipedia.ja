@@ -55,4 +55,8 @@
 
   - [黒沢宗子](../Page/黒沢かずこ.md "wikilink")（黒沢かずこ）（テキトーハニー） - 第20回『[ビートたけしのお笑いウルトラクイズ](../Page/ビートたけしのお笑いウルトラクイズ.md "wikilink")』でやった「粘着イントロドンクイズ」では黒沢が緑色の[ウェットスーツ](../Page/ウェットスーツ.md "wikilink")を着用した上に正解の曲を歌っていた。ネタをやる時は「ピアノ弾けたらイヤ」で対応する。
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ LOVE & HONEY](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004157)
+
 [Category:キューティーハニーシリーズの音楽](https://ja.wikipedia.org/wiki/Category:キューティーハニーシリーズの音楽 "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink")

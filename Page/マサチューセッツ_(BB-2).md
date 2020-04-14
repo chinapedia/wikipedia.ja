@@ -1,4 +1,4 @@
-> この記事は[ \(BB-2\)](https://ja.wikipedia.org/wiki/_\(BB-2\))から翻訳されています。
+> この記事は[マサチューセッツ \(BB-2\)](https://ja.wikipedia.org/wiki/マサチューセッツ_\(BB-2\))から翻訳されています。
 
 
 |                                                                                                                                |

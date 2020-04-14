@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ミラボー・B・ラマー](https://ja.wikipedia.org/wiki/ミラボー・B・ラマー)から翻訳されています。
 
 
 [Mirabeaulamar.jpg](https://ja.wikipedia.org/wiki/File:Mirabeaulamar.jpg "fig:Mirabeaulamar.jpg")

@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!みんなの検定](https://ja.wikipedia.org/wiki/Yahoo!みんなの検定)から翻訳されています。
 
 
 **Yahoo\!みんなの検定**（ヤフーみんなのけんてい）は、『[Yahoo\!インターネット検定](../Page/Yahoo!インターネット検定.md "wikilink")』とは別に手作り[検定](https://ja.wikipedia.org/wiki/検定 "wikilink")として、[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[ID](../Page/ID.md "wikilink")登録者のみが作成できる検定である。IDがなくても受験はできる。 略して「みん検」などと呼ばれる。
@@ -175,8 +175,7 @@
 
 ## 外部リンク
 
-  - [みんなの検定 - Yahoo\!インターネット検定](http://minna.cert.yahoo.co.jp/)
-
+  -
 [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink") [Category:技能検定](https://ja.wikipedia.org/wiki/Category:技能検定 "wikilink") [Category:2013年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2013年廃止のウェブサイト "wikilink")
 
 1.  公式サイト上での[発表](http://minna.cert.yahoo.co.jp/info.html?info_id=17)による

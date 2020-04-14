@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアヤックス・ラスナマエ](https://ja.wikipedia.org/wiki/FCアヤックス・ラスナマエ)から翻訳されています。
 
 
 **FCアヤックス・ラスナマエ**（）は、[エストニア](../Page/エストニア.md "wikilink")の首都[タリン](../Page/タリン.md "wikilink")にある[ラスナマエ](https://ja.wikipedia.org/wiki/ラスナマエ "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015シーズンは[IIリーガ](https://ja.wikipedia.org/wiki/IIリーガ "wikilink")（4部）に所属。

@@ -1,4 +1,4 @@
-> この記事は[UII](https://ja.wikipedia.org/wiki/UII)から翻訳されています。
+> この記事は[UボートII型](https://ja.wikipedia.org/wiki/UボートII型)から翻訳されています。
 
 
 **UボートII型** (U-Boot-Klasse II) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。IIA、IIB、IIC、IIDの四つに細分化される。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK二ツ井ラジオ中継局](https://ja.wikipedia.org/wiki/NHK二ツ井ラジオ中継局)から翻訳されています。
 
 
 [NHK_Futatui_rario_station1.JPG](https://ja.wikipedia.org/wiki/File:NHK_Futatui_rario_station1.JPG "fig:NHK_Futatui_rario_station1.JPG")  **NHK二ツ井ラジオ中継局**（えぬえいちけいらじおちゅうけいきょく）は、[秋田県](../Page/秋田県.md "wikilink")[能代市](../Page/能代市.md "wikilink")[二ツ井地区に置かれている](../Page/二ツ井町.md "wikilink")[NHK秋田放送局](../Page/NHK秋田放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")。正式な名称は、放送局としてはNHK二ツ井放送局、送信施設としては二ツ井ラジオ中継放送所である。

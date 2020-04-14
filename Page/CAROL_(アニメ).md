@@ -1,4 +1,4 @@
-> この記事は[CAROL \(\)](https://ja.wikipedia.org/wiki/CAROL_\(\))から翻訳されています。
+> この記事は[CAROL \(アニメ\)](https://ja.wikipedia.org/wiki/CAROL_\(アニメ\))から翻訳されています。
 
 
 『**CAROL**』（キャロル）は、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")のライブフィルムとの同時上映会「FANKS\! FILM COLLECTION」のために作られた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。

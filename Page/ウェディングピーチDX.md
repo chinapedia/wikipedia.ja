@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[ウェディングピーチDX](https://ja.wikipedia.org/wiki/ウェディングピーチDX)から翻訳されています。
 
 
 『**ウェディングピーチDX**』（ウェディングピーチ デラックス）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[愛天使伝説ウェディングピーチ](../Page/愛天使伝説ウェディングピーチ.md "wikilink")』の続編の[OVA](../Page/OVA.md "wikilink")作品。全4巻。[1996年](../Page/1996年.md "wikilink")11月から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月にかけて発売された。

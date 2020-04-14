@@ -1,4 +1,4 @@
-> この記事は[JESSICA \(DIR EN GREY\)](https://ja.wikipedia.org/wiki/JESSICA_\(DIR_EN_GREY\))から翻訳されています。
+> この記事は[JESSICA \(DIR EN GREYの曲\)](https://ja.wikipedia.org/wiki/JESSICA_\(DIR_EN_GREYの曲\))から翻訳されています。
 
 
 「**JESSICA**」（ジェシカ）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")11枚目のシングル。

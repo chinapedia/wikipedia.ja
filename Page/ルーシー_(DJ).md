@@ -1,4 +1,4 @@
-> この記事は[ \(DJ\)](https://ja.wikipedia.org/wiki/_\(DJ\))から翻訳されています。
+> この記事は[ルーシー \(DJ\)](https://ja.wikipedia.org/wiki/ルーシー_\(DJ\))から翻訳されています。
 
 
 **ルーシー**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")。主に[cross fm](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")・[KBC](../Page/KBC.md "wikilink")にて活動。福岡県北九州市出身。血液型A型。

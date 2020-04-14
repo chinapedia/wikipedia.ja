@@ -1,4 +1,4 @@
-> この記事は[-ZAN-](https://ja.wikipedia.org/wiki/-ZAN-)から翻訳されています。
+> この記事は[残-ZAN-](https://ja.wikipedia.org/wiki/残-ZAN-)から翻訳されています。
 
 
 「**残-ZAN-**」（ざん）は[Dir en greyが](../Page/DIR_EN_GREY.md "wikilink")[1999年](../Page/1999年.md "wikilink")に発表した[シングル](../Page/シングル.md "wikilink")。3枚同日リリースのメジャー・デビュー・シングルの一つ。DIR EN GREYの代表曲でもある。

@@ -1,4 +1,4 @@
-> この記事は[KRcube](https://ja.wikipedia.org/wiki/KRcube)から翻訳されています。
+> この記事は[【KR】cube](https://ja.wikipedia.org/wiki/【KR】cube)から翻訳されています。
 
 
 「**【KR】cube**」（ケーアール・キューブ）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")7枚目のシングル。

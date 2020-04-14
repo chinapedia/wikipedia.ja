@@ -1,4 +1,4 @@
-> この記事は[ feat. from SPITZ \(Single Edit\)](https://ja.wikipedia.org/wiki/_feat._from_SPITZ_\(Single_Edit\))から翻訳されています。
+> この記事は[くればいいのに feat.草野マサムネ from SPITZ \(Single Edit\)](https://ja.wikipedia.org/wiki/くればいいのに_feat.草野マサムネ_from_SPITZ_\(Single_Edit\))から翻訳されています。
 
 
 「**くればいいのに**」は、日本の[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KREVA](../Page/KREVA.md "wikilink")による楽曲。この楽曲は2007年にKREVAのソロとしてのキャリア3作目のスタジオ・アルバムとなる『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』からの先行シングルとしてリリースされた。日本のポップ/ロックバンド[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[草野マサムネ](../Page/草野マサムネ.md "wikilink")をゲストボーカルに迎えている。

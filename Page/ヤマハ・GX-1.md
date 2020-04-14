@@ -1,4 +1,4 @@
-> この記事は[GX-1](https://ja.wikipedia.org/wiki/GX-1)から翻訳されています。
+> この記事は[ヤマハ・GX-1](https://ja.wikipedia.org/wiki/ヤマハ・GX-1)から翻訳されています。
 
 
 [Yamaha_GX-1_manual_@_Yamaha_Design_Masterworks.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_GX-1_manual_@_Yamaha_Design_Masterworks.jpg "fig:Yamaha_GX-1_manual_@_Yamaha_Design_Masterworks.jpg") **GX-1**（ジーエックスワン）は、[ヤマハ](../Page/ヤマハ.md "wikilink")の[キーボードの](../Page/キーボード_\(楽器\).md "wikilink")1機種。

@@ -1,4 +1,4 @@
-> この記事は[F.C](https://ja.wikipedia.org/wiki/F.C)から翻訳されています。
+> この記事は[サンフレッチェ広島F.Cの育成組織](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.Cの育成組織)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -1053,6 +1053,7 @@
       - [宮原和也](https://ja.wikipedia.org/wiki/宮原和也 "wikilink") - Y、JY、初のプロ契約2種登録選手
   - 1996年度生まれ
       - [荒木隼人](https://ja.wikipedia.org/wiki/荒木隼人 "wikilink") - Y
+      - [石津優介](https://ja.wikipedia.org/wiki/石津優介 "wikilink") - Y
   - 1997年度生まれ
       - [長沼洋一](https://ja.wikipedia.org/wiki/長沼洋一 "wikilink") - Y
   - 1998年度生まれ

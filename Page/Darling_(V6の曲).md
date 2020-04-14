@@ -1,4 +1,4 @@
-> この記事は[Darling \(V6\)](https://ja.wikipedia.org/wiki/Darling_\(V6\))から翻訳されています。
+> この記事は[Darling \(V6の曲\)](https://ja.wikipedia.org/wiki/Darling_\(V6の曲\))から翻訳されています。
 
 
 「**Darling**」（ダーリン）は、[V6の](../Page/V6_\(グループ\).md "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[avex traxから発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

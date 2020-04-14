@@ -1,4 +1,4 @@
-> この記事は[MAGIC](https://ja.wikipedia.org/wiki/MAGIC)から翻訳されています。
+> この記事は[M☆A☆G☆I☆C](https://ja.wikipedia.org/wiki/M☆A☆G☆I☆C)から翻訳されています。
 
 
 『**M☆A☆G☆I☆C**』（マジック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&Bシンガーの](../Page/リズム・アンド・ブルース.md "wikilink")[久保田利伸](../Page/久保田利伸.md "wikilink")と[ヒップホップMCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KREVA](../Page/KREVA.md "wikilink")の2人の[コラボレーション](../Page/コラボレーション.md "wikilink")ユニット[久保田利伸 meets KREVAの](../Page/久保田利伸_meets_KREVA.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

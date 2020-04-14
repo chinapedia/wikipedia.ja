@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[会津若松テレビ・FM中継局](https://ja.wikipedia.org/wiki/会津若松テレビ・FM中継局)から翻訳されています。
 
 
 **会津若松テレビ・FM中継局**（あいづわかまつテレビ・エフエムちゅうけいきょく）は、[福島県](../Page/福島県.md "wikilink")[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")の[背炙山](../Page/背炙山.md "wikilink")に置局されている[中継局](../Page/中継局.md "wikilink")である。

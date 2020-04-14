@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[組換えDNA](https://ja.wikipedia.org/wiki/組換えDNA)から翻訳されています。
 
 
 [recombinant_formation_of_plasmids.svg](https://ja.wikipedia.org/wiki/File:recombinant_formation_of_plasmids.svg "fig:recombinant_formation_of_plasmids.svg")
@@ -77,7 +77,7 @@ B型肝炎の感染は、組換え[B型肝炎ワクチン](https://ja.wikipedia.
 
 ### ゴールデンライス
 
-は、[β-カロテン](https://ja.wikipedia.org/wiki/β-カロテン "wikilink")の生合成を担う酵素を発現するよう遺伝子操作がなされたコメの品種である\[25\]。この品種は、世界中で[ビタミンA欠乏症](https://ja.wikipedia.org/wiki/ビタミンA欠乏症 "wikilink")の発生数を減少させることが大きく期待されている\[26\]。ゴールデンライスは現在利用されておらず、規制や[知的財産権](../Page/知的財産権.md "wikilink")\[27\]の問題の解決が待たれる。
+[ゴールデンライス](../Page/ゴールデンライス.md "wikilink")は、[β-カロテン](https://ja.wikipedia.org/wiki/β-カロテン "wikilink")の生合成を担う酵素を発現するよう遺伝子操作がなされたコメの品種である\[25\]。この品種は、世界中で[ビタミンA欠乏症](https://ja.wikipedia.org/wiki/ビタミンA欠乏症 "wikilink")の発生数を減少させることが大きく期待されている\[26\]。ゴールデンライスは現在利用されておらず、規制や[知的財産権](../Page/知的財産権.md "wikilink")\[27\]の問題の解決が待たれる。
 
 ### 除草剤耐性作物
 

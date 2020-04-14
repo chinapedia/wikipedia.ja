@@ -1,4 +1,4 @@
-> この記事は[Gyu!!](https://ja.wikipedia.org/wiki/Gyu!!)から翻訳されています。
+> この記事は[Gyu!と抱きしめたい!](https://ja.wikipedia.org/wiki/Gyu!と抱きしめたい!)から翻訳されています。
 
 
 『**Gyu\!と抱きしめたい\!**』（ギュ とだきしめたい）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も同年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで『**KinKi KidsのGyu\!**』（キンキキッズのギュ）と題して放送されていた。

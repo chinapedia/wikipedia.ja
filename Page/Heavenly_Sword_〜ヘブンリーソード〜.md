@@ -1,4 +1,4 @@
-> この記事は[Heavenly Sword ](https://ja.wikipedia.org/wiki/Heavenly_Sword_)から翻訳されています。
+> この記事は[Heavenly Sword 〜ヘブンリーソード〜](https://ja.wikipedia.org/wiki/Heavenly_Sword_〜ヘブンリーソード〜)から翻訳されています。
 
 
 『**Heavenly Sword 〜ヘブンリーソード〜**』は、Ninja Theoryが開発し、ソニー・コンピュータエンタテインメントより発売されたPlayStation 3専用タイトル。主人公が「**女性剣士**」の[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")である。

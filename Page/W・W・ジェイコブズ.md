@@ -1,4 +1,4 @@
-> この記事は[WW](https://ja.wikipedia.org/wiki/WW)から翻訳されています。
+> この記事は[W・W・ジェイコブズ](https://ja.wikipedia.org/wiki/W・W・ジェイコブズ)から翻訳されています。
 
 
 [Picture_of_W._W._Jacobs.jpg](https://ja.wikipedia.org/wiki/File:Picture_of_W._W._Jacobs.jpg "fig:Picture_of_W._W._Jacobs.jpg") '''W・W・ジェイコブズ '''（William Wymark Jacobs, [1863年](../Page/1863年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - [1943年](../Page/1943年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。[短編](../Page/短編小説.md "wikilink")[怪奇小説の](../Page/ホラー小説.md "wikilink")「[猿の手](../Page/猿の手.md "wikilink")」や「徴税所」が有名だが、彼の大部分の作品は海に題材をとったむしろユーモラスなものである。

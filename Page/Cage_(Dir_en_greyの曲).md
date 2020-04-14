@@ -1,4 +1,4 @@
-> この記事は[Cage \(Dir en grey\)](https://ja.wikipedia.org/wiki/Cage_\(Dir_en_grey\))から翻訳されています。
+> この記事は[Cage \(Dir en greyの曲\)](https://ja.wikipedia.org/wiki/Cage_\(Dir_en_greyの曲\))から翻訳されています。
 
 
 「**Cage**」（ケイジ）は[Dir en greyのメジャー](../Page/DIR_EN_GREY.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。

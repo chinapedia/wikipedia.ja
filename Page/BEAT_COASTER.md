@@ -110,4 +110,4 @@
 
   -
   -
-[Category:FM_PORTの番組](https://ja.wikipedia.org/wiki/Category:FM_PORTの番組 "wikilink")
+[Category:FM_PORTの番組](https://ja.wikipedia.org/wiki/Category:FM_PORTの番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

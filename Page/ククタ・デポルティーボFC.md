@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ククタ・デポルティーボFC](https://ja.wikipedia.org/wiki/ククタ・デポルティーボFC)から翻訳されています。
 
 
 **ククタ・デポルティーボFC** () は、[コロンビア](../Page/コロンビア.md "wikilink")の[ノルテ・デ・サンタンデール県](https://ja.wikipedia.org/wiki/ノルテ・デ・サンタンデール県 "wikilink")[ククタ](../Page/ククタ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

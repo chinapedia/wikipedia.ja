@@ -1,4 +1,4 @@
-> この記事は[TZM50R](https://ja.wikipedia.org/wiki/TZM50R)から翻訳されています。
+> この記事は[ヤマハ・TZM50R](https://ja.wikipedia.org/wiki/ヤマハ・TZM50R)から翻訳されています。
 
 
 **ヤマハ・TZM50R**（ティーゼットエムごじゅうアール）は、かつて[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造・販売していた[オートバイ](../Page/オートバイ.md "wikilink")（[原動機付自転車](../Page/原動機付自転車.md "wikilink")）の車種である。

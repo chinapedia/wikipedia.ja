@@ -7,19 +7,19 @@
 
 ## サービス概要
 
-[Yahoo\!マップ](https://ja.wikipedia.org/wiki/Yahoo!マップ "wikilink")などのサイトに地図を提供している。[Google マップ同様](../Page/Google_マップ.md "wikilink")[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")を使用しているために、地図を[スクロール](../Page/スクロール.md "wikilink")してみることができる。日本[測地系](../Page/測地系.md "wikilink")を利用している。
+[Yahoo\!マップ](https://ja.wikipedia.org/wiki/Yahoo!マップ "wikilink")などのサイトに地図を提供している。[Google マップ同様](../Page/Google_マップ.md "wikilink")[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")を使用しているために、地図を[スクロール](../Page/スクロール.md "wikilink")してみることができる。2015年に日本[測地系](../Page/測地系.md "wikilink")から世界測地系に移行した\[1\]。
 
 地図検索だけではなく、[観光](../Page/観光.md "wikilink")情報、[天気](../Page/天気.md "wikilink")情報も調べることができる。
 
-サイト開設当時は「まぴたん」と「ちずこ」という[キャラクター](../Page/キャラクター.md "wikilink")がいたが、人気が思うように出なかったことから、2003年以降は使用されておらず\[1\]、現在は「ここでねマン」に取って代わられている\[2\]。最近、「ここでねマン」を含む「ここでねファミリー」のリニューアルが進んでいる。
+サイト開設当時は「まぴたん」と「ちずこ」という[キャラクター](../Page/キャラクター.md "wikilink")がいたが、人気が思うように出なかったことから、2003年以降は使用されておらず\[2\]、現在は「ここでねマン」に取って代わられている\[3\]。最近、「ここでねマン」を含む「ここでねファミリー」のリニューアルが進んでいる。
 
 ## 企業概要
 
 [凸版印刷](../Page/凸版印刷.md "wikilink")株式会社、[東日本電信電話](../Page/東日本電信電話.md "wikilink")株式会社（のち[エヌ・ティ・ティ・コミュニケーションズ株式会社に株主交代](../Page/NTTコミュニケーションズ.md "wikilink")）、株式会社[電通](../Page/電通.md "wikilink")、[ヤフー株式会社](../Page/Yahoo!_JAPAN.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")株式会社の出資により1997年1月20日に**株式会社サイバーマップ・ジャパン**（*CyberMap Japan Corp.*）を設立。現在では116人の従業者がいるが、設立当時は3人だった。同年[4月21日](../Page/4月21日.md "wikilink")地図検索サイト"Mapion"を開設。
 
-[2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に社名をサービス名に合わせて**株式会社マピオン**へ変更した。[2015年](../Page/2015年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に凸版印刷の完全子会社となった\[3\]。
+[2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に社名をサービス名に合わせて**株式会社マピオン**へ変更した。[2015年](../Page/2015年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に凸版印刷の完全子会社となった\[4\]。
 
-[2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に社名を**株式会社 ONE COMPATH**に変更すると共に、親会社の凸版印刷より電子[チラシ](../Page/チラシ.md "wikilink")サービス「[Shufoo\!](https://www.shufoo.net)」の事業を継承した\[4\]\[5\]\[6\]\[7\]。
+[2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に社名を**株式会社 ONE COMPATH**に変更すると共に、親会社の凸版印刷より電子[チラシ](../Page/チラシ.md "wikilink")サービス「[Shufoo\!](https://www.shufoo.net)」の事業を継承した\[5\]\[6\]\[7\]\[8\]。
 
 ### 沿革
 
@@ -59,10 +59,11 @@
   -
 [Category:地理技術](https://ja.wikipedia.org/wiki/Category:地理技術 "wikilink") [Category:オンライン情報源](https://ja.wikipedia.org/wiki/Category:オンライン情報源 "wikilink") [Category:PlaceEngine](https://ja.wikipedia.org/wiki/Category:PlaceEngine "wikilink") [Category:日本の地図会社](https://ja.wikipedia.org/wiki/Category:日本の地図会社 "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink") [Category:凸版印刷](https://ja.wikipedia.org/wiki/Category:凸版印刷 "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:1997年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1997年開設のウェブサイト "wikilink")
 
-1.  [「まぴたん」をご存知?](http://blog.mapion.co.jp/staff/2007/01/post_69.html)
-2.  [ここでねマンって誰だよ](http://blog.mapion.co.jp/staff/2007/01/post_66.html)
-3.
+1.  [地図サイト「マピオン」が大リニューアル、ウェブメルカトルを採用、世界測地系へ移行 -INTERNET Watch Watch](https://internet.watch.impress.co.jp/docs/news/690246.html)
+2.  [「まぴたん」をご存知?](http://blog.mapion.co.jp/staff/2007/01/post_69.html)
+3.  [ここでねマンって誰だよ](http://blog.mapion.co.jp/staff/2007/01/post_66.html)
 4.
 5.
 6.
 7.
+8.

@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[Vブレーキ](https://ja.wikipedia.org/wiki/Vブレーキ)から翻訳されています。
 
 
 [Avidrimbrake.jpg](https://ja.wikipedia.org/wiki/File:Avidrimbrake.jpg "fig:Avidrimbrake.jpg") **Vブレーキ**（ブイブレーキ、[V-brake](https://ja.wikipedia.org/wiki/w:V-brake "wikilink")）とは、[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")に用いられる[リムブレーキの一種である](../Page/ブレーキ_\(自転車\).md "wikilink")。ワイヤー式リムブレーキの中では最も強力な制動力を持つ。

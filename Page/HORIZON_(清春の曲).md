@@ -1,4 +1,4 @@
-> この記事は[HORIZON \(\)](https://ja.wikipedia.org/wiki/HORIZON_\(\))から翻訳されています。
+> この記事は[HORIZON \(清春の曲\)](https://ja.wikipedia.org/wiki/HORIZON_\(清春の曲\))から翻訳されています。
 
 
 「**HORIZON**」(ホライゾン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")、[清春](../Page/清春.md "wikilink")の3rdシングルとして発売。

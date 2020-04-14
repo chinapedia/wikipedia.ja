@@ -1,4 +1,4 @@
-> この記事は[NOW](https://ja.wikipedia.org/wiki/NOW)から翻訳されています。
+> この記事は[九州けいざいNOW](https://ja.wikipedia.org/wiki/九州けいざいNOW)から翻訳されています。
 
 
 『**九州けいざいNOW**』（きゅうしゅうけいざいナウ）は、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送していた[経済](../Page/経済.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

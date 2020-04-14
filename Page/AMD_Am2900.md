@@ -1,11 +1,11 @@
 > この記事は[AMD Am2900](https://ja.wikipedia.org/wiki/AMD_Am2900)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_2901.jpg "wikilink") **Am2900** は[アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")(AMD)が[1975年](../Page/1975年.md "wikilink")に開発した[集積回路](../Page/集積回路.md "wikilink")（ICチップ）のファミリである。[バイポーラトランジスタ](../Page/バイポーラトランジスタ.md "wikilink")を使用した[ビットスライス](../Page/ビットスライス.md "wikilink")方式のチップファミリであり、複数のチップを組み合わせることで[CPU](../Page/CPU.md "wikilink")を構成することができる。[ビットスライス](../Page/ビットスライス.md "wikilink")技術を使うことにより、Am2900 ファミリではデータ/アドレス/命令のビット幅を4ビットの任意の倍数長に設計することが可能である。この方式の難点はCPUに機能を詰め込もうとするとチップ数が膨大になる点であった。Am2901 は[演算装置](../Page/演算装置.md "wikilink")(ALU)であり、ファミリの中核となっている。これには4ビットの各種二進演算機能が盛り込まれている（[ビットシフトを含む](https://ja.wikipedia.org/wiki/ビット演算#ビットシフト "wikilink")）。
+**Am2900** は、[AMDが](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")1975年に発売した[集積回路](../Page/集積回路.md "wikilink")（ICチップ）のファミリである。機能的には[ビットスライス](../Page/ビットスライス.md "wikilink")方式で[プロセッサ](../Page/プロセッサ.md "wikilink")のセットを構成するものであり、プロセステクノロジは[バイポーラトランジスタ](../Page/バイポーラトランジスタ.md "wikilink")である。ビットスライス方式であるため、データ/アドレス/命令のビット幅などを任意の幅に設計できる（要するに必要なだけ並べればよい、ということである）。
 
-## Am2900 ファミリのチップで構成されたコンピュータ
+## 採用例
 
-以下に Am2900 を使用していたと判明しているコンピュータを列挙する。
+例えばALUのみ使用、というものもあれば、システム全体として本系列を採用しているものもある。以下では特に識別はしていない。
 
   - 木星探査機[ガリレオの姿勢制御コンピュータやNASA製航空機で使われた](../Page/ガリレオ_\(探査機\).md "wikilink") [Itek](https://ja.wikipedia.org/wiki/:en:Itek "wikilink") Advanced Technology Airborne Computer (ATAC)。Am2900ファミリを使った16ビットで16本のレジスタを持つコンピュータである。ガリレオに搭載されたATACには4つの特殊な命令が追加され、2901の放射線耐性を強化したバージョンも使われた\[1\]。
 
@@ -31,9 +31,9 @@
 
   - [AT\&T](../Page/AT&T.md "wikilink") [3B20D](https://ja.wikipedia.org/wiki/:en:3B_series_computers "wikilink") コンピュータ\[11\]
 
-## Am2900 ファミリ
+## ファミリ
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_Am2903.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ic-photo-AMD--AM2909DC-\(AM2900\).png "wikilink") Am2900 Family Data Book に掲載されているものは以下の通り\[12\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_2901.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:KL_AMD_Am2903.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ic-photo-AMD--AM2909DC-\(AM2900\).png "wikilink") Am2900 Family Data Book に掲載されているものは以下の通り\[12\]。
 
   - Am2901 – 4ビットスライス[ALU](https://ja.wikipedia.org/wiki/演算論理装置 "wikilink")（1975年）
   - Am2902 – [ルックアヘッド・キャリー生成器](https://ja.wikipedia.org/wiki/加算器#キャリー先読み "wikilink")
@@ -78,18 +78,13 @@
   - Am2964 – ダイナミックメモリ・コントローラ
   - Am2965/Am2966 – 8ビット・ダイナミックメモリ・ドライバ
 
-74F2960 / Am2960 のように7400シリーズの名称も持つチップが多い。
+74F2960 / Am2960 のように7400シリーズの名称も持つチップも多い。
 
 ## 脚注
 
 ## 参考文献
 
   - [Am2900 Family Data Book](http://www.bitsavers.org/pdf/amd/_dataBooks/1979_AMD_2900family.pdf) Accessed 12 Nov, 2005.
-
-## 関連項目
-
-  - [AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")
-  - [ビットスライス](../Page/ビットスライス.md "wikilink")
 
 ## 外部リンク
 

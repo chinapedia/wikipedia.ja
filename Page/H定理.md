@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H定理](https://ja.wikipedia.org/wiki/H定理)から翻訳されています。
 
 
 [統計力学](../Page/統計力学.md "wikilink")において、**H定理**（エイチていり）とは、[理想気体](../Page/理想気体.md "wikilink")の[エントロピー](../Page/エントロピー.md "wikilink")が不可逆過程では増大することを示す[定理](../Page/定理.md "wikilink")。すなわち[熱力学第二法則](../Page/熱力学第二法則.md "wikilink")を分子論的に説明するものである。[1872年](../Page/1872年.md "wikilink")、[ルートヴィッヒ・ボルツマン](../Page/ルートヴィッヒ・ボルツマン.md "wikilink")が[ボルツマン方程式](../Page/ボルツマン方程式.md "wikilink")の考察から導いた。

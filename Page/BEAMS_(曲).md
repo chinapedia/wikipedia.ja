@@ -1,4 +1,4 @@
-> この記事は[BEAMS \(\)](https://ja.wikipedia.org/wiki/BEAMS_\(\))から翻訳されています。
+> この記事は[BEAMS \(曲\)](https://ja.wikipedia.org/wiki/BEAMS_\(曲\))から翻訳されています。
 
 
 「**BEAMS**」 (ビームス) は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")の5枚目のシングル。

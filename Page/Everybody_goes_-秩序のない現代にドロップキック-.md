@@ -1,4 +1,4 @@
-> この記事は[Everybody goes --](https://ja.wikipedia.org/wiki/Everybody_goes_--)から翻訳されています。
+> この記事は[Everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/Everybody_goes_-秩序のない現代にドロップキック-)から翻訳されています。
 
 
 「**everybody goes -秩序のない現代にドロップキック-**」（エヴリバディ ゴーズ ちつじょのないげんだいにドロップキック）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

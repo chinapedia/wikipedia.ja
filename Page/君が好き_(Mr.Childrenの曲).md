@@ -1,4 +1,4 @@
-> この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
+> この記事は[君が好き \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/君が好き_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**君が好き**」（きみがすき）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

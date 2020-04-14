@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS日本のうた](https://ja.wikipedia.org/wiki/BS日本のうた)から翻訳されています。
 
 
 『**BS日本のうた**』（ビーエスにっぽん- ）は、[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")\[1\]・[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")（海外向け）にて放送されていた公開[音楽番組](../Page/音楽番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[楽園 \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/楽園_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**楽園**」（らくえん）は、2004年12月15日に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SS.10 \(\)](https://ja.wikipedia.org/wiki/SS.10_\(\))から翻訳されています。
+> この記事は[SS.10 \(ミサイル\)](https://ja.wikipedia.org/wiki/SS.10_\(ミサイル\))から翻訳されています。
 
 
 **SS.10**は、ノール・アビアシオンが製造した有線[指令誘導](https://ja.wikipedia.org/wiki/指令誘導 "wikilink")方式の[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")である。[アメリカ軍](../Page/アメリカ軍.md "wikilink")での型式番号は**MGM-21A**。[フランス陸軍](../Page/フランス陸軍.md "wikilink")には[1955年](../Page/1955年.md "wikilink")から配備された。[アメリカでの運用期間は短く](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[1960年代](../Page/1960年代.md "wikilink")初頭のみ。[1962年](../Page/1962年.md "wikilink")の生産終了までに、およそ3万発が製造された。

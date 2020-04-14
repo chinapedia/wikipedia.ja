@@ -1,4 +1,4 @@
-> この記事は[EMILY \(\)](https://ja.wikipedia.org/wiki/EMILY_\(\))から翻訳されています。
+> この記事は[EMILY \(清春の曲\)](https://ja.wikipedia.org/wiki/EMILY_\(清春の曲\))から翻訳されています。
 
 
 「**EMILY**」(エミリー) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[歌手](../Page/歌手.md "wikilink")、[清春](../Page/清春.md "wikilink")の1枚目のシングル。

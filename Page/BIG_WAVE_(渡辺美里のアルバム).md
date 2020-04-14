@@ -1,4 +1,4 @@
-> この記事は[BIG WAVE \(\)](https://ja.wikipedia.org/wiki/BIG_WAVE_\(\))から翻訳されています。
+> この記事は[BIG WAVE \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/BIG_WAVE_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**BIG WAVE**』（ビッグ・ウェイヴ）は[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")にリリースされた渡辺美里の8枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -196,6 +196,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : BIG WAVE](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1400/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : BIG WAVE](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1400)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1993年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンアルバムチャート1位獲得作品 "wikilink")

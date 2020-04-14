@@ -1,4 +1,4 @@
-> この記事は[NORMA JEAN \(\)](https://ja.wikipedia.org/wiki/NORMA_JEAN_\(\))から翻訳されています。
+> この記事は[NORMA JEAN \(日本\)](https://ja.wikipedia.org/wiki/NORMA_JEAN_\(日本\))から翻訳されています。
 
 
 **NORMA JEAN**（ノーマ・ジーン）は、主に[1990年代](../Page/1990年代.md "wikilink")前期に活躍していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。バンド名は[マリリン・モンロー](https://ja.wikipedia.org/wiki/マリリン・モンロー "wikilink")の本名に因んでいる。いわゆる[イカ天出身バンドのひとつである](../Page/三宅裕司のいかすバンド天国.md "wikilink")。

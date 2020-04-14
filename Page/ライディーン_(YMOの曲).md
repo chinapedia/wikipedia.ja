@@ -1,11 +1,11 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[ライディーン \(YMOの曲\)](https://ja.wikipedia.org/wiki/ライディーン_\(YMOの曲\))から翻訳されています。
 
 
 「**ライディーン**」（**雷電**、**RYDEEN**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")（YMO）の2枚目のシングル曲。
 
 ## 解説
 
-「[テクノポリス](../Page/テクノポリス_\(YMOの曲\).md "wikilink")」と並ぶYMOの代表曲である\[1\]。[メロディ](../Page/メロディ.md "wikilink")はバーで[高橋ユキヒロ](https://ja.wikipedia.org/wiki/高橋ユキヒロ "wikilink")が鼻歌で歌っていたところを、[坂本龍一](../Page/坂本龍一.md "wikilink")がメモに書き起こして作られたとされている\[2\]。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の[コードは高橋がすでに](../Page/和音.md "wikilink")[キーボードで考えていたもので](../Page/キーボード_\(楽器\).md "wikilink")、続きの部分は坂本が聞き取ったものである。坂本はその光景をはっきりと覚えているが、高橋は覚えていない\[3\]。
+「[テクノポリス](../Page/テクノポリス_\(YMOの曲\).md "wikilink")」と並ぶYMOの代表曲である\[1\]。[メロディ](../Page/メロディ.md "wikilink")はバーで[高橋ユキヒロが鼻歌で歌っていたところを](../Page/高橋幸宏.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")がメモに書き起こして作られたとされている\[2\]。[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の[コードは高橋がすでに](../Page/和音.md "wikilink")[キーボードで考えていたもので](../Page/キーボード_\(楽器\).md "wikilink")、続きの部分は坂本が聞き取ったものである。坂本はその光景をはっきりと覚えているが、高橋は覚えていない\[3\]。
 
 元々のタイトルは江戸後期の伝説的な[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")「[雷電爲右エ門](../Page/雷電爲右エ門.md "wikilink")」から『雷電』と表記された。坂本は「『雷電』には[東海道五十三次](../Page/東海道五十三次.md "wikilink")のような[浮世絵](../Page/浮世絵.md "wikilink")のイメージがあり、浮世絵が世界に影響を与えたように、自分達の音楽も世界に影響を与えることと重ね合わせた」と発言している。その後、細野の「アメリカで今『[勇者ライディーン](../Page/勇者ライディーン.md "wikilink")』っていうアニメがヒットしている」ので「じゃあ、『ライディーン』にしちゃおう」という発言で「ライディーン」となった\[4\]。ただし『勇者ライディーン』の英語表記はRAIDEENであり、綴りは若干異なる。
 
@@ -162,7 +162,7 @@ B面の「コズミック・サーフィン」はアルバム『[イエロー・
 
 ## 脚注
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:高橋幸宏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が制作した楽曲 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:江崎グリコのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:江崎グリコのコマーシャルソング "wikilink") [Category:勇者ライディーン](https://ja.wikipedia.org/wiki/Category:勇者ライディーン "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:YMOのONGAKU](https://ja.wikipedia.org/wiki/Category:YMOのONGAKU "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:高橋幸宏が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が作詞作曲した楽曲 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:江崎グリコのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:江崎グリコのコマーシャルソング "wikilink") [Category:勇者ライディーン](https://ja.wikipedia.org/wiki/Category:勇者ライディーン "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  [楽天ブックス](http://books.rakuten.co.jp/rb/11665820/)
 2.  [2011年3月3日14時32分の坂本のツイート](https://twitter.com/skmt09/status/43182058473926656)。ただし、[2011年3月3日15時22分の高橋のツイートではスタジオでキーを完成させていたとしており、記憶に齟齬が発生している。](https://twitter.com/room66plus/status/43194621332951040)

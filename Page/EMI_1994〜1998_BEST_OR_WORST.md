@@ -1,4 +1,4 @@
-> この記事は[EMI 19941998 BEST OR WORST](https://ja.wikipedia.org/wiki/EMI_19941998_BEST_OR_WORST)から翻訳されています。
+> この記事は[EMI 1994〜1998 BEST OR WORST](https://ja.wikipedia.org/wiki/EMI_1994〜1998_BEST_OR_WORST)から翻訳されています。
 
 
 『'''EMI 1994〜1998 BEST OR WORST '''』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

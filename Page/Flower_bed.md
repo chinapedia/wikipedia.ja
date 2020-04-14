@@ -167,6 +167,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Flower bed](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1165/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Flower bed](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1165)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:1989年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンアルバムチャート1位獲得作品 "wikilink")

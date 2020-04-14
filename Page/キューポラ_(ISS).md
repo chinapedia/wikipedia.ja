@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[キューポラ \(ISS\)](https://ja.wikipedia.org/wiki/キューポラ_\(ISS\))から翻訳されています。
 
 
 [Cupola_ISS_open_shutters_middle_crop.jpg](https://ja.wikipedia.org/wiki/File:Cupola_ISS_open_shutters_middle_crop.jpg "fig:Cupola_ISS_open_shutters_middle_crop.jpg")\]\]

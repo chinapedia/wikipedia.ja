@@ -1,4 +1,4 @@
-> この記事は[FTSE100](https://ja.wikipedia.org/wiki/FTSE100)から翻訳されています。
+> この記事は[FTSE100種総合株価指数](https://ja.wikipedia.org/wiki/FTSE100種総合株価指数)から翻訳されています。
 
 
 **FTSE100種総合株価指数**（、フッツィー（発音・） ワンハンドレッド）は、[ロンドン証券取引所](../Page/ロンドン証券取引所.md "wikilink")（LSE）における[株価指数](../Page/株価指数.md "wikilink")。LSEに上場する銘柄のうち[時価総額](../Page/時価総額.md "wikilink")上位100銘柄で構成される、[時価総額加重平均型株価指数](https://ja.wikipedia.org/wiki/時価総額加重平均型株価指数 "wikilink")である。この100銘柄で、LSE上場企業の時価総額の約8割を占める。算出はLSEの子会社である[FTSE](https://ja.wikipedia.org/wiki/FTSE "wikilink")グループが行っている。旧植民地やアメリカ合衆国など、イギリス国外での売上高の比重が高い企業が多く、イギリスに拠点を置くグローバル企業指数としての性格を有する\[1\]。

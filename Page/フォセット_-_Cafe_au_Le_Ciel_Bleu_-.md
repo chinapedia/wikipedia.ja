@@ -1,4 +1,4 @@
-> この記事は[ - Cafe au Le Ciel Bleu -](https://ja.wikipedia.org/wiki/_-_Cafe_au_Le_Ciel_Bleu_-)から翻訳されています。
+> この記事は[フォセット - Cafe au Le Ciel Bleu -](https://ja.wikipedia.org/wiki/フォセット_-_Cafe_au_Le_Ciel_Bleu_-)から翻訳されています。
 
 
 『**フォセット - Cafe au Le Ciel Bleu -**』（フォセット カフェ・オ・ル・シエル・ブルー）は、[戯画より発売された人気作](../Page/戯画_\(ブランド\).md "wikilink")『[ショコラ](../Page/ショコラ_〜maid_cafe_"curio"〜.md "wikilink")』、『[パルフェ](../Page/パルフェ_〜ショコラ_second_brew〜.md "wikilink")』、『[この青空に約束を―](../Page/この青空に約束を―.md "wikilink")』の3作をまとめたファンディスク。

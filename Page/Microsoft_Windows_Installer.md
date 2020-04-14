@@ -266,9 +266,9 @@ Windows Server 2008 RTM</p></td>
 
 Windows Installerは再配布が可能である。以下のサイトからダウンロードできる。
 
-  - 3.0 - [Windows Installer 3.0 Redistributable](http://www.microsoft.com/downloads/details.aspx?FamilyID=5fbc5470-b259-4733-a914-a956122e08e8)
-  - 3.1 - [Windows Installer 3.1 Redistributable (v2)](http://www.microsoft.com/downloads/details.aspx?FamilyID=889482fc-5f56-4a38-b838-de776fd4138c)
-  - 4.5 - [Windows Installer 4.5 Redistributable - 日本語](http://www.microsoft.com/downloads/details.aspx?FamilyID=5a58b56f-60b6-4412-95b9-54d056d6f9f4&displayLang=ja)
+  - 3.0 - [Windows Installer 3.0 Redistributable](https://www.microsoft.com/ja-jp/download/details.aspx?id=16821)
+  - 3.1 - [Windows Installer 3.1 Redistributable (v2)](https://www.microsoft.com/ja-jp/download/details.aspx?id=25)
+  - 4.5 - [Windows Installer 4.5 Redistributable - 日本語](https://www.microsoft.com/ja-jp/download/details.aspx?id=8483)
 
 ## 脚注
 

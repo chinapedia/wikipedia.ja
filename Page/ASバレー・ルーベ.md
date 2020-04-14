@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASバレー・ルーベ](https://ja.wikipedia.org/wiki/ASバレー・ルーベ)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:Macerata_Coppa_Italia_2009.JPG "wikilink")

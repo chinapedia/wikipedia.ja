@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・リリー](https://ja.wikipedia.org/wiki/ジョン・C・リリー)から翻訳されています。
 
 
 [Johnlilly4.jpg](https://ja.wikipedia.org/wiki/File:Johnlilly4.jpg "fig:Johnlilly4.jpg") **ジョン・カニンガム・リリー**（、[1915年](../Page/1915年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[脳科学](../Page/脳科学.md "wikilink")者。[イルカ](../Page/イルカ.md "wikilink")との[コミュニケーション](../Page/コミュニケーション.md "wikilink")を研究し映画『[イルカの日](https://ja.wikipedia.org/wiki/イルカの日 "wikilink")』のモデルとなった事で知られる。[アイソレーション・タンク](../Page/アイソレーション・タンク.md "wikilink")（[感覚遮断](../Page/感覚遮断.md "wikilink")タンク）の開発者としても有名である。タンクでの研究は[ケン・ラッセル](../Page/ケン・ラッセル.md "wikilink")の映画『[アルタード・ステーツ/未知への挑戦](https://ja.wikipedia.org/wiki/アルタード・ステーツ/未知への挑戦 "wikilink")』の題名で取り挙げられ、映画の主人公は彼とその[変性意識状態](../Page/変性意識状態.md "wikilink")がモデルと言われている。

@@ -1,4 +1,4 @@
-> この記事は[Masquerade \(SADS\)](https://ja.wikipedia.org/wiki/Masquerade_\(SADS\))から翻訳されています。
+> この記事は[Masquerade \(SADSの曲\)](https://ja.wikipedia.org/wiki/Masquerade_\(SADSの曲\))から翻訳されています。
 
 
 『**Masquerade**』 (マスカレード) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の9枚目のシングル。

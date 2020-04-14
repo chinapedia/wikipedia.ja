@@ -1,4 +1,4 @@
-> この記事は[STYLE \(GRASS VALLEY\)](https://ja.wikipedia.org/wiki/STYLE_\(GRASS_VALLEY\))から翻訳されています。
+> この記事は[STYLE \(GRASS VALLEYのアルバム\)](https://ja.wikipedia.org/wiki/STYLE_\(GRASS_VALLEYのアルバム\))から翻訳されています。
 
 
 『**STYLE**』(スタイル)は[GRASS VALLEYの](../Page/グラスバレー.md "wikilink")3枚目のアルバム。

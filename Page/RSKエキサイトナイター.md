@@ -1,4 +1,4 @@
-> この記事は[RSK](https://ja.wikipedia.org/wiki/RSK)から翻訳されています。
+> この記事は[RSKエキサイトナイター](https://ja.wikipedia.org/wiki/RSKエキサイトナイター)から翻訳されています。
 
 
 **RSKエキサイトナイター**（アールエスケーエキサイトナイター）は[山陽放送ラジオ](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")のナイター中継。
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（RSKテレビのプロ野球中継タイトル）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（RSKテレビのプロ野球中継タイトル）
   - [エキサイトナイター](https://ja.wikipedia.org/wiki/エキサイトナイター "wikilink")
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:ドイツ/Section:加筆依頼](https://ja.wikipedia.org/wiki/Portal:ドイツ/Section:加筆依頼)から翻訳されています。
 
 
 [:Category:ドイツ関連のスタブ項目も参照](https://ja.wikipedia.org/wiki/Category:ドイツ関連のスタブ項目 "wikilink")。
@@ -224,12 +224,13 @@
     [ヴェストファーレン州](https://ja.wikipedia.org/wiki/ヴェストファーレン州 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Province_of_Westphalia "wikilink")）
     [キンダートランスポート](https://ja.wikipedia.org/wiki/キンダートランスポート "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Kindertransport "wikilink")）
     [ザルツブルク大司教領](https://ja.wikipedia.org/wiki/ザルツブルク大司教領 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Archbishopric_of_Salzburg "wikilink")）
+    [人民代表委員会](https://ja.wikipedia.org/wiki/人民代表委員会 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Council_of_the_People's_Deputies "wikilink")）
     [ダッハウ裁判](https://ja.wikipedia.org/wiki/ダッハウ裁判 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Dachau_trials "wikilink")）
     [ドイツ共和国宣言](https://ja.wikipedia.org/wiki/ドイツ共和国宣言 "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Ausrufung_der_Republik_in_Deutschland "wikilink")）
     [東部占領地域省](https://ja.wikipedia.org/wiki/東部占領地域省 "wikilink")([:de:Reichsministerium für die besetzten Ostgebiete](https://ja.wikipedia.org/wiki/:de:Reichsministerium_für_die_besetzten_Ostgebiete "wikilink"))
     [ニーダーランデ国家弁務官領](https://ja.wikipedia.org/wiki/ニーダーランデ国家弁務官領 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Reichskommissariat_Niederlande "wikilink")）
     [パーダーボルン司教領](https://ja.wikipedia.org/wiki/パーダーボルン司教領 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Prince-Bishopric_of_Paderborn "wikilink")）
-    [人民代表委員会](https://ja.wikipedia.org/wiki/人民代表委員会 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Council_of_the_People's_Deputies "wikilink")）
+    [プロイセン一般ラント法](https://ja.wikipedia.org/wiki/プロイセン一般ラント法 "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Allgemeines_Landrecht_für_die_Preußischen_Staaten "wikilink"))
     [ブーヘンヴァルト主要裁判](https://ja.wikipedia.org/wiki/ブーヘンヴァルト主要裁判 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Buchenwald_Trial "wikilink")）
     [ローゼンベルク事務所](https://ja.wikipedia.org/wiki/ローゼンベルク事務所 "wikilink")([:de:Amt Rosenberg](https://ja.wikipedia.org/wiki/:de:Amt_Rosenberg "wikilink"))
 

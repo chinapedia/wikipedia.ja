@@ -1,4 +1,4 @@
-> この記事は[ in  ODAIBA RAINBOW STATION](https://ja.wikipedia.org/wiki/_in__ODAIBA_RAINBOW_STATION)から翻訳されています。
+> この記事は[サテライトボイス in お台場 ODAIBA RAINBOW STATION](https://ja.wikipedia.org/wiki/サテライトボイス_in_お台場_ODAIBA_RAINBOW_STATION)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:DECKS_TOKYO_BAY_STUDIO.jpg "wikilink") **サテライトボイス in お台場 ODAIBA RAINBOW STATION**（サテライトボイス イン おだいば オダイバ レインボー ステーション）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")・[SPACE DIVAで放送されている番組](https://ja.wikipedia.org/wiki/SPACE_DIVA "wikilink")。[2007年](../Page/2007年.md "wikilink")3月までは、「**お台場レインボーステーション**」（おだいばレインボーステーション）というタイトルだった。

@@ -1,4 +1,4 @@
-> この記事は[SUNSUN](https://ja.wikipedia.org/wiki/SUNSUN)から翻訳されています。
+> この記事は[SUNSUNニュース](https://ja.wikipedia.org/wiki/SUNSUNニュース)から翻訳されています。
 
 
 『**SUNSUNニュース**』（さんさんニュース）は、[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")にて放送されている[ニュース番組の名称である](../Page/報道番組.md "wikilink")。この項では『KSS SUNSUNニュース』と、21時前に放送されるミニニュース枠（現在は『プライムニュース&天気』）について記す。

@@ -1,4 +1,4 @@
-> この記事は[NAGANO](https://ja.wikipedia.org/wiki/NAGANO)から翻訳されています。
+> この記事は[NAGANOでドキン](https://ja.wikipedia.org/wiki/NAGANOでドキン)から翻訳されています。
 
 
 『**NAGANOでドキン**』（ながのでドキン）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")まで[テレビ信州](../Page/テレビ信州.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた平日朝の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")である。

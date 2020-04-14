@@ -1,4 +1,4 @@
-> この記事は[DDT](https://ja.wikipedia.org/wiki/DDT)から翻訳されています。
+> この記事は[DDTドラマティックファンタジア](https://ja.wikipedia.org/wiki/DDTドラマティックファンタジア)から翻訳されています。
 
 
 **DDTドラマティックファンタジア**は、[FIGHTING TV サムライで放送されていた](../Page/FIGHTING_TV_サムライ.md "wikilink")、[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")の実況中継番組。

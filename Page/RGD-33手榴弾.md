@@ -1,4 +1,4 @@
-> この記事は[RGD-33](https://ja.wikipedia.org/wiki/RGD-33)から翻訳されています。
+> この記事は[RGD-33手榴弾](https://ja.wikipedia.org/wiki/RGD-33手榴弾)から翻訳されています。
 
 
 <table>

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[食玩CD](https://ja.wikipedia.org/wiki/食玩CD)から翻訳されています。
 
 
 **食玩CD**（しょくがんシーディー）は、[スナック菓子](../Page/スナック菓子.md "wikilink")・[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")菓子等のパッケージの中に[音楽CD](../Page/コンパクトディスク.md "wikilink")（[CD-ROM](../Page/CD-ROM.md "wikilink")）を入れて販売している商品の形態である。
@@ -23,7 +23,7 @@
 
 2004年10月25日発売\[5\]
 
-  - 「いとしのマックス（マックス・ア・ゴーゴー）」[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")／[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")with荒木一郎
+  - 「いとしのマックス（マックス・ア・ゴーゴー）」[荒木一郎](../Page/荒木一郎.md "wikilink")／[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")with荒木一郎
   - 「GO\!GO\!レンタカー」[田辺靖雄](../Page/田辺靖雄.md "wikilink")&[中尾ミエ](../Page/中尾ミエ.md "wikilink")／[ゴーグル・エース](https://ja.wikipedia.org/wiki/ゴーグル・エース "wikilink")
   - 「[ZenZenブルース](https://ja.wikipedia.org/wiki/あなたの心に#あなたの心に（中山千夏） "wikilink")」[中山千夏](../Page/中山千夏.md "wikilink")／[渚ようこ](../Page/渚ようこ.md "wikilink")
   - 「[五ひきの仔ブタとチャールストン](https://ja.wikipedia.org/wiki/五匹のこぶたとチャールストン "wikilink")」[森山加代子](https://ja.wikipedia.org/wiki/森山加代子 "wikilink")／[Umekichi](https://ja.wikipedia.org/wiki/Umekichi "wikilink")

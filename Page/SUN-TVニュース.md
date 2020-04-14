@@ -1,4 +1,4 @@
-> この記事は[SUN-TV](https://ja.wikipedia.org/wiki/SUN-TV)から翻訳されています。
+> この記事は[SUN-TVニュース](https://ja.wikipedia.org/wiki/SUN-TVニュース)から翻訳されています。
 
 
 『**SUN-TVニュース**』（サンテレビニュース）は、[サンテレビで放送されている](../Page/サンテレビジョン.md "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")[番組である](../Page/報道番組.md "wikilink")。サンテレビの[ウェブサイト](../Page/ウェブサイト.md "wikilink")（[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")）では、**サンテレビニュース**と表記されている\[1\]。

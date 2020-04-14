@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[スティーブン・A・クーンズ賞](https://ja.wikipedia.org/wiki/スティーブン・A・クーンズ賞)から翻訳されています。
 
 
 **スティーブン・A・クーンズ賞**（スティーブン・A・クーンズしょう、英称:The Steven A. Coons Award、略称：**クーンズ賞**）は、[アメリカコンピュータ学会が主催する世界的な](../Page/Association_for_Computing_Machinery.md "wikilink")[コンピュータグラフィックス (CG)のコンファレンス](../Page/コンピュータグラフィックス.md "wikilink")[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")が、研究者を対象に設けている3つの賞のひとつである。他の2つは、CG技術と業績に対するCGアチーブメント賞と、若手研究者向けのシグニフィカント・ニューリサーチ賞である。クーンズ賞はこの中で最も重要な賞とされており、コンピュータグラフィックス界の[ノーベル賞](../Page/ノーベル賞.md "wikilink")とも呼ばれる\[1\]\[2\]。

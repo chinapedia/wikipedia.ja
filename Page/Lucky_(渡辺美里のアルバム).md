@@ -1,4 +1,4 @@
-> この記事は[Lucky \(\)](https://ja.wikipedia.org/wiki/Lucky_\(\))から翻訳されています。
+> この記事は[Lucky \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Lucky_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**Lucky**』（ラッキー）は[1991年](../Page/1991年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")にリリースされた渡辺美里の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -172,6 +172,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Lucky](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1150/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Lucky](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1150)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink")

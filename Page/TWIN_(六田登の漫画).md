@@ -1,4 +1,4 @@
-> この記事は[TWIN \(\)](https://ja.wikipedia.org/wiki/TWIN_\(\))から翻訳されています。
+> この記事は[TWIN \(六田登の漫画\)](https://ja.wikipedia.org/wiki/TWIN_\(六田登の漫画\))から翻訳されています。
 
 
 『**TWIN**』（ツイン）は、[小学館](../Page/小学館.md "wikilink")の『[少年ビッグコミック](../Page/少年ビッグコミック.md "wikilink")』および後継誌『[ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』で1986年から1989年まで連載された[六田登](../Page/六田登.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。また、それを原作とした[OVA](../Page/OVA.md "wikilink")。単行本は小学館から全5巻が刊行されている。

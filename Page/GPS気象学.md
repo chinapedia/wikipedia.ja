@@ -1,4 +1,4 @@
-> この記事は[GPS](https://ja.wikipedia.org/wiki/GPS)から翻訳されています。
+> この記事は[GPS気象学](https://ja.wikipedia.org/wiki/GPS気象学)から翻訳されています。
 
 
 **GPS気象学**（GPSきしょうがく、）は、[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")/[GNSSの](../Page/衛星測位システム.md "wikilink")[誤差](../Page/誤差.md "wikilink")成分の一つである[大気遅延量に影響を与える](https://ja.wikipedia.org/wiki/衛星測位システム#電離圏遅延 "wikilink")[水蒸気](../Page/水蒸気.md "wikilink")量を逆にシグナルとして取り出し、[大気](https://ja.wikipedia.org/wiki/大気 "wikilink")円柱中の水蒸気量を推定する技術およびその応用の総称である。

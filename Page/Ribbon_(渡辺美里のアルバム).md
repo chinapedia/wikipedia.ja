@@ -1,4 +1,4 @@
-> この記事は[Ribbon \(\)](https://ja.wikipedia.org/wiki/Ribbon_\(\))から翻訳されています。
+> この記事は[Ribbon \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Ribbon_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**ribbon**』（リボン）は[1988年](../Page/1988年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の4枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
@@ -211,7 +211,7 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : ribbon](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1164/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : ribbon](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1164)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

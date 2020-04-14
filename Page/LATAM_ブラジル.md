@@ -1,4 +1,4 @@
-> この記事は[LATAM ](https://ja.wikipedia.org/wiki/LATAM_)から翻訳されています。
+> この記事は[LATAM ブラジル](https://ja.wikipedia.org/wiki/LATAM_ブラジル)から翻訳されています。
 
 
 **LATAM ブラジル**（らたん ぶらじる, LATAM Airlines Brasil）は、[LATAM航空グループ](https://ja.wikipedia.org/wiki/LATAM航空グループ "wikilink")の[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")最大の[航空会社](../Page/航空会社.md "wikilink")で、旧「TAM航空」である。

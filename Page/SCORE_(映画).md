@@ -1,4 +1,4 @@
-> この記事は[SCORE \(\)](https://ja.wikipedia.org/wiki/SCORE_\(\))から翻訳されています。
+> この記事は[SCORE \(映画\)](https://ja.wikipedia.org/wiki/SCORE_\(映画\))から翻訳されています。
 
 
 『**SCORE**』（スコア）は、[1996年](../Page/1996年.md "wikilink")1月に[松竹](../Page/松竹.md "wikilink")系劇場で公開された、ガンアクション映画である。

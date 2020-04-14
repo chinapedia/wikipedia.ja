@@ -1,4 +1,4 @@
-> この記事は[FOMA](https://ja.wikipedia.org/wiki/FOMA)から翻訳されています。
+> この記事は[FOMAハイスピード](https://ja.wikipedia.org/wiki/FOMAハイスピード)から翻訳されています。
 
 
 **FOMAハイスピード**（**フォーマ・ハイスピード**）は、2006年に商用サービスを開始した[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[IMT-2000](../Page/第3世代移動通信システム.md "wikilink")（[HSPA](../Page/HSPA.md "wikilink")）サービス。[第3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink")サービスに分類されている。最大受信14Mbps、送信5.7Mbpsのデータ通信サービス。

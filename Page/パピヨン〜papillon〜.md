@@ -1,4 +1,4 @@
-> この記事は[papillon](https://ja.wikipedia.org/wiki/papillon)から翻訳されています。
+> この記事は[パピヨン〜papillon〜](https://ja.wikipedia.org/wiki/パピヨン〜papillon〜)から翻訳されています。
 
 
 「**パピヨン 〜papillon〜**」は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の3枚目のシングル。[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")発売。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

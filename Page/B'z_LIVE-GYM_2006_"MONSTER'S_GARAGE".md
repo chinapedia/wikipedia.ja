@@ -1,25 +1,25 @@
 > この記事は[B\'z LIVE-GYM 2006 MONSTERS GARAGE\"\" --variable=\"cfmurl=Bz_LIVE-GYM_2006_MONSTER\'S_GARAGE"](https://ja.wikipedia.org/wiki/)から翻訳されています。
 
 
-『**B'z LIVE-GYM 2006 "MONSTER'S GARAGE"**』(ビーズ・ライブジム・ツーサウザンドシックス・モンスターズ・ガレージ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の映像作品(7作目の[DVD](../Page/DVD.md "wikilink"))。 後に[Blu-ray Discでも発売された](../Page/Blu-ray_Disc.md "wikilink")。
+『**B'z LIVE-GYM 2006 "MONSTER'S GARAGE"**』(ビーズ・ライブジム・ツーサウザンドシックス・モンスターズ・ガレージ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の映像作品（7作目の[DVD](../Page/DVD.md "wikilink")）。後に[Blu-ray Discでも発売された](../Page/Blu-ray_Disc.md "wikilink")。
 
 ## 概要
 
-15thアルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』を引っ提げ、2006年[7月2日](../Page/7月2日.md "wikilink")〜[8月29日](../Page/8月29日.md "wikilink")に行われたアルバムツアー『B'z LIVE-GYM 2006 "MONSTER'S GARAGE"』から東京公演を中心に収録。本ツアーはこれまでのスタッフが一新され、加えて諸事情により通常では考えられないほど時間がなかったと証言している。曲順や構成はこれまでのパターンから大きく変わり、前年までの大掛かりな演出ではなく、演奏に重点が置かれた内容になっている。メンバー曰く「手作りコンサートだった」とコメントした。
+15枚目のアルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』を携え、2006年[7月2日](../Page/7月2日.md "wikilink")から[8月29日](../Page/8月29日.md "wikilink")に行われたアルバムツアー『B'z LIVE-GYM 2006 "MONSTER'S GARAGE"』から東京公演を中心に収録。本ツアーはスタッフが一新され、加えて諸事情により通常では考えられないほど時間がなかったと証言している。曲順や構成は今までのパターンから大きく変わり、前年までの大掛かりな演出ではなく、演奏に重点が置かれた内容になっている。メンバー曰く「手作りコンサートだった」とコメントした。
 
-今作のディレクターは「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」、「[SPLASH\!](../Page/SPLASH!.md "wikilink")」のPVを手がけた映像クリエイターの[ライオネル・コールマン](https://ja.wikipedia.org/wiki/ライオネル・コールマン "wikilink")であり、これまでの映像作品とは質感が大きく異なる。手ブレを多用したカメラワーク、楽曲のリズムに合わせた細かいカット割など、ディレクターの個性が強く出たスタイリッシュな映像になっている。ライオネル自身は「会場で実際に見ているようなエキサイティングな感じを出したかった」とコメントし、松本は「今までの作品とは全然違う」と、稲葉は「ライブのドキュメントを見ている感じ」と評している。なお、映像の流れを重視したため、MCは大幅にカットされている。また、日替わりで演奏していた「ZERO」\[1\]と「IT'S SHOWTIME\!\!」、松本のソロ「[スモーク・オン・ザ・ウォーター](../Page/スモーク・オン・ザ・ウォーター.md "wikilink")」も未収録。
+本作のディレクターは「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」「[SPLASH\!](../Page/SPLASH!.md "wikilink")」のPVを手がけた映像クリエイターの[ライオネル・コールマン](https://ja.wikipedia.org/wiki/ライオネル・コールマン "wikilink")であり、それまでの映像作品とは質感が大きく異なる。手ブレを多用したカメラワーク、楽曲のリズムに合わせた細かいカット割など、ディレクターの個性が強く出たスタイリッシュな映像になっている。ライオネル自身は「会場で実際に見ているようなエキサイティングな感じを出したかった」とコメントし、松本は「今までの作品とは全然違う」と、稲葉は「ライブのドキュメントを見ている感じ」と評している。なお、映像の流れを重視したため、MCは大幅にカットされている。また、日替わりで演奏していた「ZERO」\[1\]と「IT'S SHOWTIME\!\!」、松本のソロ「[スモーク・オン・ザ・ウォーター](../Page/スモーク・オン・ザ・ウォーター.md "wikilink")」も未収録。
 
-今ツアーと並行して、約9年ぶりのファンクラブイベント「B'z Treasure Land」が同時開催されており、その様子は「OFF LIMITS」に少し収録されている。
+本ツアーと並行して、約9年ぶりのファンクラブイベント「B'z Treasure Land」が同時開催されており、その様子は「OFF LIMITS」に少し収録されている。
 
 本作のカラー広告が、2006年[12月17日](../Page/12月17日.md "wikilink")付の[読売新聞](../Page/読売新聞.md "wikilink")と[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の朝刊に、2面に及んで掲載された。 DISC 3を除く、収録曲の視聴用のQRコードが記載されていた。
 
 本作から、[VHS](../Page/VHS.md "wikilink")は発売されなくなった。
 
-15thアルバム『MONSTER』からは、「ケムリの世界」と「無言のPromise」の二曲が未演奏となっている。
+15枚目のアルバム『MONSTER』からは、「ケムリの世界」と「無言のPromise」の2曲が未演奏となっている。
 
 ## 収録会場
 
-  - 主に[東京ドーム](../Page/東京ドーム.md "wikilink")で収録しているが、[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")と[福岡Yahoo\!JAPANドームでの映像も多々出てくる](../Page/福岡ドーム.md "wikilink")(映像では[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")だったのだが「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」で「〜のボイス」の所だけ「東京のボイス」に差し替えられている等の場面もある)。
+  - 主に[東京ドーム](../Page/東京ドーム.md "wikilink")で収録しているが、[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")と[福岡Yahoo\!JAPANドームでの映像も多々出てくる](../Page/福岡ドーム.md "wikilink")（映像では[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")だったのだが「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」で「〜のボイス」の所だけ「東京のボイス」に差し替えられているなどの場面もある）。
 
 ## 演奏
 
@@ -118,7 +118,7 @@
         スクリーンには、ファンクラブイベント「Treasure land」で上映された映像が流された。
         アウトロで稲葉がステージを降り、アリーナの外周を走った。
 
-スタッフロールはメンバーの退場時に流され、エンディング[SE](../Page/SE.md "wikilink")として「[BUDDY](../Page/ACTION.md "wikilink")」の原曲が流されていた。
+スタッフロールはメンバーの退場時に流され、エンディング[SEとして](../Page/効果音.md "wikilink")「[BUDDY](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")」の原曲が流されていた。
 
 ### DISC 3
 

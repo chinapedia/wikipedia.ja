@@ -1,4 +1,4 @@
-> この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
+> この記事は[中央工学校OSAKA](https://ja.wikipedia.org/wiki/中央工学校OSAKA)から翻訳されています。
 
 
 **中央工学校OSAKA**（ちゅうおうこうがっこうおおさか）は、[学校法人中央工学校](https://ja.wikipedia.org/wiki/学校法人中央工学校 "wikilink")が運営する、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。
@@ -86,7 +86,7 @@
   - 〒561-0872 大阪府豊中市寺内一丁目1-43
   - アクセス方法
       - [新大阪駅](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")より8分
-      - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink")[梅田駅](https://ja.wikipedia.org/wiki/梅田駅_\(大阪市高速電気軌道\) "wikilink")（[JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")）より13分
+      - [地下鉄御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")[梅田駅](https://ja.wikipedia.org/wiki/梅田駅_\(Osaka_Metro\) "wikilink")（[JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")）より13分
       - [難波駅](https://ja.wikipedia.org/wiki/難波駅 "wikilink")より23分
       - [北大阪急行電鉄](../Page/北大阪急行電鉄.md "wikilink")[緑地公園駅](https://ja.wikipedia.org/wiki/緑地公園駅 "wikilink")下車、西出口より徒歩3分
 

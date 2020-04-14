@@ -1,4 +1,4 @@
-> この記事は[LIVE \(\)](https://ja.wikipedia.org/wiki/LIVE_\(\))から翻訳されています。
+> この記事は[LIVE \(漫画\)](https://ja.wikipedia.org/wiki/LIVE_\(漫画\))から翻訳されています。
 
 
 『**LIVE**』（ライブ）は、[梅澤春人による](../Page/梅澤春人.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[悪魔](../Page/悪魔.md "wikilink")を題材とした[ダーク・ファンタジー](../Page/ダーク・ファンタジー.md "wikilink")作品。

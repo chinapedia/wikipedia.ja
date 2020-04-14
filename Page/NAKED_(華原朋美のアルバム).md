@@ -1,4 +1,4 @@
-> この記事は[NAKED \(\)](https://ja.wikipedia.org/wiki/NAKED_\(\))から翻訳されています。
+> この記事は[NAKED \(華原朋美のアルバム\)](https://ja.wikipedia.org/wiki/NAKED_\(華原朋美のアルバム\))から翻訳されています。
 
 
 『**NAKED**』（ネイキッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[華原朋美](../Page/華原朋美.md "wikilink")の6枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")（10周年記念アルバム）である。

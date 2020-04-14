@@ -1,4 +1,4 @@
-> この記事は[I-](https://ja.wikipedia.org/wiki/I-)から翻訳されています。
+> この記事は[I-バス](https://ja.wikipedia.org/wiki/I-バス)から翻訳されています。
 
 
 **i-バス**（アイバス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[一宮市](../Page/一宮市.md "wikilink")が[名鉄バス](../Page/名鉄バス.md "wikilink")と[スイトトラベル](../Page/スイトトラベル.md "wikilink")に運行を委託している[コミュニティバス](../Page/コミュニティバス.md "wikilink")。正式名称は「**一宮市循環バス**」。i-バスの「i」は一宮市の「i」と「愛」を意味し、筆記体を使うことで、「歩いている人」を表している。

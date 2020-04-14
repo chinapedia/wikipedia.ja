@@ -1,4 +1,4 @@
-> この記事は[GIUK](https://ja.wikipedia.org/wiki/GIUK)から翻訳されています。
+> この記事は[GIUKギャップ](https://ja.wikipedia.org/wiki/GIUKギャップ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GIUK_gap.png "wikilink")\]\] **GIUKギャップ**（）は、[海戦](../Page/海戦.md "wikilink")上の[チョークポイント](../Page/チョークポイント.md "wikilink")（通航を管制出来る地点）を成す、北[大西洋](../Page/大西洋.md "wikilink")上の海域のことである。この「GIUK」とは**[グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")（Greenland）**、**[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")（Iceland）**、**[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")（United Kingdom）**の頭文字からとられており、ギャップとは、これら3つの陸地の間に存在する開けた海域のことを指す。この語は主に、軍事問題を語る際に使われる。

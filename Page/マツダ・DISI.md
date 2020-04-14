@@ -1,4 +1,4 @@
-> この記事は[DISI](https://ja.wikipedia.org/wiki/DISI)から翻訳されています。
+> この記事は[マツダ・DISI](https://ja.wikipedia.org/wiki/マツダ・DISI)から翻訳されています。
 
 
 **マツダ・DISI**（ディジ－）は[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が開発、および製造していた[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[TAKERU](https://ja.wikipedia.org/wiki/TAKERU)から翻訳されています。
+> この記事は[建・TAKERU](https://ja.wikipedia.org/wiki/建・TAKERU)から翻訳されています。
 
 
 『**建・TAKERU**』（たける）は、全3幕からなる[オペラ](../Page/オペラ.md "wikilink")。[團伊玖磨](../Page/團伊玖磨.md "wikilink")作曲。[日本神話](../Page/日本神話.md "wikilink")を題材としている。

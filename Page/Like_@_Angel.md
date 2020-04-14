@@ -1,7 +1,7 @@
 > この記事は[Like @ Angel](https://ja.wikipedia.org/wiki/Like_@_Angel)から翻訳されています。
 
 
-「'''Like @ Angel '''」 (ライク ア エンジェル) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")の8枚目のシングル。
+「'''Like @ Angel '''」 (ライク ア エンジェル) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")の8枚目のシングル。「Like A Angel」は誤表記。
 
 ## 概要
 

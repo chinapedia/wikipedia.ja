@@ -1,4 +1,4 @@
-> この記事は[ \(hitomi\)](https://ja.wikipedia.org/wiki/_\(hitomi\))から翻訳されています。
+> この記事は[体温 \(hitomiの曲\)](https://ja.wikipedia.org/wiki/体温_\(hitomiの曲\))から翻訳されています。
 
 
 **体温**（たいおん）は、[1999年](../Page/1999年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に発売された[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の16枚目のシングル。8cmCDとしては最後のシングルである。発売元は、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

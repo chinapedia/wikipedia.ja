@@ -1,4 +1,4 @@
-> この記事は[Here \(\)](https://ja.wikipedia.org/wiki/Here_\(\))から翻訳されています。
+> この記事は[Here \(三上ちさこのアルバム\)](https://ja.wikipedia.org/wiki/Here_\(三上ちさこのアルバム\))から翻訳されています。
 
 
 『**Here**』（ヒアー）は、[三上ちさこ](../Page/三上ちさこ.md "wikilink")の2枚目のソロ・アルバム。

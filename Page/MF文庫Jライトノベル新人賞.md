@@ -1,4 +1,4 @@
-> この記事は[MFJ](https://ja.wikipedia.org/wiki/MFJ)から翻訳されています。
+> この記事は[MF文庫Jライトノベル新人賞](https://ja.wikipedia.org/wiki/MF文庫Jライトノベル新人賞)から翻訳されています。
 
 
 **MF文庫Jライトノベル新人賞**（エムエフぶんこジェイ ライトノベルしんじんしょう）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")の社内ブランド・[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")が主催する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の公募新人[文学賞](../Page/文学賞.md "wikilink")である。

@@ -41,7 +41,7 @@
 ## 芸風
 
   - 久保田の[ペナルティの](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")や、[FUJIWARA](../Page/FUJIWARA.md "wikilink")の[原西孝幸](../Page/原西孝幸.md "wikilink")を髣髴とさせるキャラクターが持ち味のドタバタコント。久保田は**「ホワイト赤マン」**というキャラクターにも扮している。ホワイト赤マンの設定は本名は「山下進」で無職。一応自給600円で働くが週一回。たびたび警察（秋本）に呼び止められる。
-  - 2008年8月11日放送「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）内のインタビューで、[北京オリンピックで銅メダルを取った柔道の](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[中村美里](https://ja.wikipedia.org/wiki/中村美里 "wikilink")選手が、好きな芸人としてこのホワイト赤マンを答えた。久保田は [翌日のブログ](http://fivegapkubota.laff.jp/blog/2008/08/post-eafc.html) で「世界のホワイト赤マンになった」と喜びを語った。
+  - 2008年8月11日放送「[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")」（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）内のインタビューで、[北京オリンピックで銅メダルを取った柔道の](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[中村美里](https://ja.wikipedia.org/wiki/中村美里 "wikilink")選手が、好きな芸人としてこのホワイト赤マンを答えた。久保田は  で「世界のホワイト赤マンになった」と喜びを語った。
 
 ## 賞レースでの戦績
 
@@ -100,8 +100,7 @@
 
   - \[ 公式プロフィール\]
 
-  - [5GAPブログ](http://fivegap.laff.jp/)
-
+  -
   -
   -
   -

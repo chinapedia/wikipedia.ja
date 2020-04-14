@@ -1,4 +1,4 @@
-> この記事は[Once upon a time in  B\'z LIVE GYM\'99 Brotherhood](https://ja.wikipedia.org/wiki/Once_upon_a_time_in__B\'z_LIVE_GYM\'99_Brotherhood)から翻訳されています。
+> この記事は[Once upon a time in 横浜 〜B\'z LIVE GYM\'99 Brotherhood〜](https://ja.wikipedia.org/wiki/Once_upon_a_time_in_横浜_〜B\'z_LIVE_GYM\'99_Brotherhood〜)から翻訳されています。
 
 
 『**once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜**』（ワンス・アポン・ア・タイム・イン・よこはま・ビーズ・ライブジム・ナインティナイン・ブラザーフッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、[2000年](../Page/2000年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")にリリースした6作目の映像作品（[VHS](../Page/VHS.md "wikilink")としては6作目、[DVD](../Page/DVD.md "wikilink")としては4作目）。
@@ -102,7 +102,9 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
 
 ## 脚注
 
-**注釈**  **出典**
+### 注釈
+
+### 出典
 
 [Category:2000年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2000年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 

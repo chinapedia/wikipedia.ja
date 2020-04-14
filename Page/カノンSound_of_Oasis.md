@@ -1,4 +1,4 @@
-> この記事は[Sound of Oasis](https://ja.wikipedia.org/wiki/Sound_of_Oasis)から翻訳されています。
+> この記事は[カノンSound of Oasis](https://ja.wikipedia.org/wiki/カノンSound_of_Oasis)から翻訳されています。
 
 
 **カノンSound of Oasis**（カノンサウンドオブオアシス）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で放送されている番組。2019年4月時点での放送時間は毎週木曜日の0:00～1:00（JST）。

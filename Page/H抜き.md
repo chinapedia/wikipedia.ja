@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H抜き](https://ja.wikipedia.org/wiki/H抜き)から翻訳されています。
 
 
 **h抜き**（エイチぬき、エッチぬき）とは、[ウェブ上の](../Page/World_Wide_Web.md "wikilink")[電子掲示板](../Page/電子掲示板.md "wikilink")などにおいて、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の[URLを書き込む際に先頭の](../Page/Uniform_Resource_Locator.md "wikilink")"**h**"などを抜いて書き込む行為を指す。

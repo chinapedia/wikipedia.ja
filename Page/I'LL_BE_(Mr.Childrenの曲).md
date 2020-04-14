@@ -1,4 +1,4 @@
-> この記事は[I\'LL BE \(Mr.Children\)](https://ja.wikipedia.org/wiki/I\'LL_BE_\(Mr.Children\))から翻訳されています。
+> この記事は[I\'LL BE \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/I\'LL_BE_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**I'LL BE**」（アイル ビー）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

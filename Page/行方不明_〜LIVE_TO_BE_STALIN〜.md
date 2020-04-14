@@ -1,4 +1,4 @@
-> この記事は[ LIVE TO BE STALIN](https://ja.wikipedia.org/wiki/_LIVE_TO_BE_STALIN)から翻訳されています。
+> この記事は[行方不明 〜LIVE TO BE STALIN〜](https://ja.wikipedia.org/wiki/行方不明_〜LIVE_TO_BE_STALIN〜)から翻訳されています。
 
 
 **行方不明 〜LIVE TO BE STALIN〜**（ゆくえふめい・ライブ・トゥー・ビー・スターリン）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")[スターリンの](../Page/ザ・スターリン.md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

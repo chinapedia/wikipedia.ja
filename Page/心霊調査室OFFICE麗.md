@@ -1,4 +1,4 @@
-> この記事は[OFFICE](https://ja.wikipedia.org/wiki/OFFICE)から翻訳されています。
+> この記事は[心霊調査室OFFICE麗](https://ja.wikipedia.org/wiki/心霊調査室OFFICE麗)から翻訳されています。
 
 
 『**心霊調査室OFFICE麗**』（しんれいちょうさしつオフィスれい）は、原作：[宮塢さなえ](https://ja.wikipedia.org/wiki/宮塢さなえ "wikilink")、作画：[野々村秀樹](https://ja.wikipedia.org/wiki/野々村秀樹 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』、後に『[マガジンSPECIAL](../Page/マガジンSPECIAL.md "wikilink")』（共に[講談社](../Page/講談社.md "wikilink")）に連載された。単行本は全12巻。

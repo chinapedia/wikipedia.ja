@@ -1,4 +1,4 @@
-> この記事は[Tokyo \(\)](https://ja.wikipedia.org/wiki/Tokyo_\(\))から翻訳されています。
+> この記事は[Tokyo \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Tokyo_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**tokyo**』（トーキョー）は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")にリリースされた渡辺美里の6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -167,6 +167,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : tokyo](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1070/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : tokyo](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1070)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink")

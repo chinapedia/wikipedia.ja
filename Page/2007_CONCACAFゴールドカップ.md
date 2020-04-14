@@ -1,4 +1,4 @@
-> この記事は[2007 CONCACAF](https://ja.wikipedia.org/wiki/2007_CONCACAF)から翻訳されています。
+> この記事は[2007 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2007_CONCACAFゴールドカップ)から翻訳されています。
 
 
 | 得点王 =  [カルロス・パボン](https://ja.wikipedia.org/wiki/カルロス・パボン "wikilink") | 得点 = 5 | 最優秀選手 =  [ジュリアン・デ・グズマン](../Page/ジュリアン・デ・グズマン.md "wikilink") | 前回年度 = 2005 | 前回大会 = 2005 CONCACAFゴールドカップ | 次回年度 = 2009 | 次回大会 = 2009 CONCACAFゴールドカップ |}} **2007 CONCACAFゴールドカップ**（）は、[2007年](../Page/2007年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")から[6月24日](../Page/6月24日.md "wikilink")にかけて、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で開催された第9回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。今大会は[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")以外の招待国の出場はなく、[1993年大会以来となる](../Page/1993_CONCACAFゴールドカップ.md "wikilink")[CONCACAF加盟チームのみの大会となった](../Page/北中米カリブ海サッカー連盟.md "wikilink")。決勝では[アメリカが](https://ja.wikipedia.org/wiki/サッカーアメリカ代表 "wikilink")[メキシコを下し](../Page/サッカーメキシコ代表.md "wikilink")、2大会連続4度目の優勝を決めた。

@@ -1,4 +1,4 @@
-> この記事は[AEC](https://ja.wikipedia.org/wiki/AEC)から翻訳されています。
+> この記事は[AEC・ルートマスター](https://ja.wikipedia.org/wiki/AEC・ルートマスター)から翻訳されています。
 
 
 [Routemaster_on_Victoria_Embankment_-_geograph.org.uk_-_2218750.jpg](https://ja.wikipedia.org/wiki/File:Routemaster_on_Victoria_Embankment_-_geograph.org.uk_-_2218750.jpg "fig:Routemaster_on_Victoria_Embankment_-_geograph.org.uk_-_2218750.jpg") **ルートマスター**(Routemaster)は、イギリスのアソシエーテッド・エクイップメント社(AEC:[:en:Associated Equipment Company](https://ja.wikipedia.org/wiki/:en:Associated_Equipment_Company "wikilink"))が製造し、[ロンドン](../Page/ロンドン.md "wikilink")市内の[路線バス](../Page/路線バス.md "wikilink")（[ロンドンバス](../Page/ロンドンバス.md "wikilink")）として活躍していた[二階建てバス](../Page/2階建車両.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に引退したが、現在でもロンドン市内の観光路線で活躍する。

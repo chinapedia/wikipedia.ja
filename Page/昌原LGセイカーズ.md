@@ -1,4 +1,4 @@
-> この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
+> この記事は[昌原LGセイカーズ](https://ja.wikipedia.org/wiki/昌原LGセイカーズ)から翻訳されています。
 
 
 **昌原LGセイカーズ**（チャンウォン・エルジー・セイカーズ、韓国語: LG 、英語:Changwon LG Sakers）は、[大韓民国](../Page/大韓民国.md "wikilink")・[慶尚南道](../Page/慶尚南道.md "wikilink")[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")。

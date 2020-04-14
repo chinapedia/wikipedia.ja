@@ -1,4 +1,4 @@
-> この記事は[ZERO  ](https://ja.wikipedia.org/wiki/ZERO__)から翻訳されています。
+> この記事は[ストリートファイターZERO ファイターズ ジェネレーション](https://ja.wikipedia.org/wiki/ストリートファイターZERO_ファイターズ_ジェネレーション)から翻訳されています。
 
 
 『**ストリートファイターZERO ファイターズジェネレーション**』 (*STREET FIGHTER ZERO Fighter's Generation*) は[カプコン](../Page/カプコン.md "wikilink")より発売された[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』シリーズ4作品と『[ポケットファイター](../Page/ポケットファイター.md "wikilink")』を1枚の[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")に収録した[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

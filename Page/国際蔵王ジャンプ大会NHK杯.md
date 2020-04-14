@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[国際蔵王ジャンプ大会NHK杯](https://ja.wikipedia.org/wiki/国際蔵王ジャンプ大会NHK杯)から翻訳されています。
 
 
 **国際蔵王ジャンプ大会NHK杯**（こくさいざおうジャンプたいかいえぬえいちけいはい）は[山形市](../Page/山形市.md "wikilink")蔵王ジャンプ台で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会。

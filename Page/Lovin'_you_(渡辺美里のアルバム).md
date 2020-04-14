@@ -1,4 +1,4 @@
-> この記事は[Lovin\' you \(\)](https://ja.wikipedia.org/wiki/Lovin\'_you_\(\))から翻訳されています。
+> この記事は[Lovin\' you \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/Lovin\'_you_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**Lovin' you**』（ラヴィン・ユー）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた渡辺美里の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -306,7 +306,7 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Lovin' You](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1161/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Lovin' You](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1161)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1986年のアルバム](https://ja.wikipedia.org/wiki/Category:1986年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1986年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

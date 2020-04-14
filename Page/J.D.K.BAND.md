@@ -37,7 +37,7 @@
   - [小寺可南子](https://ja.wikipedia.org/wiki/小寺可南子 "wikilink")（ヴォーカル）
   - [イカルス渡辺](../Page/イカルス渡辺.md "wikilink")（ヴォーカル）
   - [水谷美月](https://ja.wikipedia.org/wiki/水谷美月 "wikilink")（バイオリン）
-  - [寺前甲](https://ja.wikipedia.org/wiki/寺前甲 "wikilink")（ギター）
+  - [寺前甲](../Page/Demetori.md "wikilink")（ギター）
   - [井上央一](https://ja.wikipedia.org/wiki/井上央一 "wikilink")（ギター）
   - [榎本敦](https://ja.wikipedia.org/wiki/榎本敦 "wikilink")（ベース）
   - [上倉紀行](https://ja.wikipedia.org/wiki/上倉紀行 "wikilink")（キーボード）（前期バンドマスター）

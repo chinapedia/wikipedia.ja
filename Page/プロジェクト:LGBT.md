@@ -1,4 +1,4 @@
-> この記事は[:LGBT](https://ja.wikipedia.org/wiki/:LGBT)から翻訳されています。
+> この記事は[プロジェクト:LGBT](https://ja.wikipedia.org/wiki/プロジェクト:LGBT)から翻訳されています。
 
 
 **プロジェクト LGBT**へようこそ！ __TOC__

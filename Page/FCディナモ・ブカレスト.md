@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCディナモ・ブカレスト](https://ja.wikipedia.org/wiki/FCディナモ・ブカレスト)から翻訳されています。
 
 
 **フォトバル・クルブ・ディナモ・ブクレシュティ**（, ）は、[ルーマニア](../Page/ルーマニア.md "wikilink")・[ブカレスト](../Page/ブカレスト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーガ1](../Page/リーガ1.md "wikilink")で18回、[クパ・ロムニエイ](https://ja.wikipedia.org/wiki/クパ・ロムニエイ "wikilink")で13回、[スーペルクパ・ロムニエイ](https://ja.wikipedia.org/wiki/スーペルクパ・ロムニエイ "wikilink")で2回優勝しており、[FCステアウア・ブカレスト](../Page/FCステアウア・ブカレスト.md "wikilink")と並んでルーマニアでもっとも成功を収めた2クラブのひとつである。

@@ -1,4 +1,4 @@
-> この記事は[ -Mr.Children Bootleg-](https://ja.wikipedia.org/wiki/_-Mr.Children_Bootleg-)から翻訳されています。
+> この記事は[マシンガンをぶっ放せ -Mr.Children Bootleg-](https://ja.wikipedia.org/wiki/マシンガンをぶっ放せ_-Mr.Children_Bootleg-)から翻訳されています。
 
 
 「**マシンガンをぶっ放せ -Mr.Children Bootleg-**」（マシンガンをぶっぱなせ ミスターチルドレン ブートレグ）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

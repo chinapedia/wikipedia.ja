@@ -246,7 +246,7 @@
   - 2月27日、34th Single「[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")」を発売\[11\]。
   - 5月24日 メンバーの彰が結婚を発表した。
   - 6月6日、結成19周年を迎えた。18:15にLINE LIVEを行う。同時に12月19日の東京ドーム公演が決定した。
-  - 8月11日、日本最大ロックフェス「ROCK IN JAPAN」にてトリをつとめる。
+  - 8月11日、日本最大ロックフェス「ROCK IN JAPAN」にてトリをつとめる。GRASS STAGEに同フェス史上最多動員となる6万人超を動員した。
   - 10月16日、35th Single「[ROB THE FRONTIER](https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER "wikilink")」発売。
   - 11-12月に全国ツアー、「UNSER TOUR」を行う。
   - 12月4日、10th ALBUM「[UNSER](https://ja.wikipedia.org/wiki/UNSER_\(UVERworldのアルバム\) "wikilink")」発売｡
@@ -256,8 +256,8 @@
 
 #### 2020年
 
-  - 2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で中止となった。
-  - 3月4日、36th Single「[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")」を発売予定。
+  - 2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で延期となった。
+  - 3月4日、36th Single「[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")」を発売。
 
 ## メンバー
 
@@ -785,19 +785,19 @@ SRCL-11060（期間生産限定盤）</p></td>
 <td><p>SRCL-11303〜11304（初回生産限定盤）<br />
 SRCL-11305（通常盤）<br />
 SRCL-11306（期間生産限定盤）</p></td>
-<td><p>1位</p></td>
+<td><p>4位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>36th</p></td>
-<td><p>2020年3月4日（予定）</p></td>
+<td><p>2020年3月4日</p></td>
 <td><p><strong><a href="../Page/AS_ONE_(UVERworldの曲).md" title="wikilink">AS ONE</a></strong></p></td>
 <td><p>CD＋<a href="../Page/DVD.md" title="wikilink">DVD</a><br />
 CD</p></td>
 <td><p>SRCL-11447〜11448（初回生産限定盤）<br />
 SRCL-11449（通常盤）</p></td>
-<td></td>
+<td><p>4位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1261,7 +1261,7 @@ SRXL-53〜54（通常盤Blu-ray）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=WAvV0H5kY_o">CHANCE!</a>」 「<a href="https://www.youtube.com/watch?v=hC8v7N721c4">just Melody</a>」 「<a href="https://www.youtube.com/watch?v=ZIEQDjrAdwE">儚くも永久のカナシ</a>」 『<a href="https://www.youtube.com/watch?v=baZGH7TqBhA">LIVE at Avaco Studio</a>』 「<a href="https://www.youtube.com/watch?v=FAU7NyiqwQY">7th Trigger</a>」 「<a href="https://www.youtube.com/watch?v=VvCuJRKj32E">AWAYOKUBA-斬る</a>」 「<a href="https://www.youtube.com/watch?v=rF7WJmrLL-g">REVERSI</a>」 「<a href="https://www.youtube.com/watch?v=zsdAN_vjMIg">IMPACT</a>」「<a href="https://www.youtube.com/watch?v=MYaVtNmYfuU">誰が言った</a>」 「<a href="https://www.youtube.com/watch?v=zw5wH_Tr21U">僕の言葉ではない これは僕達の言葉</a>」 「<a href="https://m.youtube.com/watch?v=Pwht_zL3_go">I LOVE THE WORLD</a>」「<a href="https://m.youtube.com/watch?v=eDOG59BEcg0">WE ARE GO</a>」 「<a href="https://m.youtube.com/watch?v=nDaVvnbVIkw">DECIDED Short Ver.</a>」 「<a href="https://www.youtube.com/watch?v=0zLxFAlS29A">ODD FUTURE</a>」 「<a href="https://youtube.com/watch?v=FHDMSpwz4jw">Touch off Short Ver.</a>」 「<a href="https://youtube.com/watch?v=vG4aY5ocnlg">ROB THE FRONTIER</a>」 「AS ONE」</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=WAvV0H5kY_o">CHANCE!</a>」 「<a href="https://www.youtube.com/watch?v=hC8v7N721c4">just Melody</a>」 「<a href="https://www.youtube.com/watch?v=ZIEQDjrAdwE">儚くも永久のカナシ</a>」 『<a href="https://www.youtube.com/watch?v=baZGH7TqBhA">LIVE at Avaco Studio</a>』 「<a href="https://www.youtube.com/watch?v=FAU7NyiqwQY">7th Trigger</a>」 「<a href="https://www.youtube.com/watch?v=VvCuJRKj32E">AWAYOKUBA-斬る</a>」 「<a href="https://www.youtube.com/watch?v=rF7WJmrLL-g">REVERSI</a>」 「<a href="https://www.youtube.com/watch?v=zsdAN_vjMIg">IMPACT</a>」「<a href="https://www.youtube.com/watch?v=MYaVtNmYfuU">誰が言った</a>」 「<a href="https://www.youtube.com/watch?v=zw5wH_Tr21U">僕の言葉ではない これは僕達の言葉</a>」 「<a href="https://m.youtube.com/watch?v=Pwht_zL3_go">I LOVE THE WORLD</a>」「<a href="https://m.youtube.com/watch?v=eDOG59BEcg0">WE ARE GO</a>」 「<a href="https://m.youtube.com/watch?v=nDaVvnbVIkw">DECIDED Short Ver.</a>」 「<a href="https://www.youtube.com/watch?v=0zLxFAlS29A">ODD FUTURE</a>」 「<a href="https://youtube.com/watch?v=FHDMSpwz4jw">Touch off Short Ver.</a>」 「<a href="https://youtube.com/watch?v=vG4aY5ocnlg">ROB THE FRONTIER</a>」 「<a href="https://youtube.com/watch?v=x5j0jMcjues">Making it Drive</a>」 「<a href="https://m.youtube.com/watch?v=Vyw5y1EzPpc">AS ONE</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/和田泰宏" title="wikilink">和田泰宏</a></p></td>
@@ -1294,7 +1294,7 @@ SRXL-53〜54（通常盤Blu-ray）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>「<a href="https://m.youtube.com/watch?v=bhT6YTXehwc">DIS is TEKI</a>」「<a href="https://search.yahoo.co.jp/video/search?p=shout+love&amp;tid=8e8c4ec0f10be533dffc3e46d551e23a&amp;ei=UTF-8&amp;rkf=2&amp;dd=1">SHOUT LOVE</a>」 「<a href="https://youtube.com/watch?v=4Tb6kB2lJ2s">ConneQt</a>」「<a href="https://youtube.com/watch?v=x5j0jMcjues">Making it Drive</a>」</p></td>
+<td><p>「<a href="https://m.youtube.com/watch?v=bhT6YTXehwc">DIS is TEKI</a>」「<a href="https://search.yahoo.co.jp/video/search?p=shout+love&amp;tid=8e8c4ec0f10be533dffc3e46d551e23a&amp;ei=UTF-8&amp;rkf=2&amp;dd=1">SHOUT LOVE</a>」 「<a href="https://youtube.com/watch?v=4Tb6kB2lJ2s">ConneQt</a>」</p></td>
 </tr>
 </tbody>
 </table>
@@ -1897,7 +1897,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 <td><p>2020年</p></td>
 <td><p><strong>AS ONE</strong></p></td>
 <td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/仮面病棟#映画" title="wikilink">仮面病棟</a>』主題歌[20]</p></td>
-<td></td>
+<td><p>「<a href="../Page/AS_ONE_(UVERworldの曲).md" title="wikilink">AS ONE</a>」</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -4279,9 +4279,7 @@ Presented by シミズオクト</a>2016</p></td>
 
   - [UVERworld.com](https://www.uverworld.com/) - UVERworld公式ウェブサイト
 
-  - [Neo SOUND WAVE](http://www.neosoundwave.com/) -UVERworld 公式ファンクラブサイト
-
-  - [Sony Music Entertainment (Japan) Inc.](http://www.sonymusic.co.jp/) - UVERworld所属レコード会社オフィシャルサイト
+  - [Sony Music Entertainment (Japan) Inc.](https://www.sonymusic.co.jp/) - UVERworld所属レコード会社オフィシャルサイト
 
   - [Sony Music Entertainment (Japan) Inc.による公式サイト](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 

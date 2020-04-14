@@ -1,4 +1,4 @@
-> この記事は[TBC](https://ja.wikipedia.org/wiki/TBC)から翻訳されています。
+> この記事は[TBCニュースの森](https://ja.wikipedia.org/wiki/TBCニュースの森)から翻訳されています。
 
 
 『**TBCニュースの森**』（ティービーシー ニュースのもり）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")まで[東北放送](../Page/東北放送.md "wikilink")テレビで放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパート。『**JNNニュースの森 TBC**』（この番組内での**第1期放送シリーズ群**）とも放送上別表記されていた。**[同枠第2期シリーズ群](../Page/ニュースの森_TBC.md "wikilink")**とは別に。なお、記事便宜上『TBCニュースの森』は、『JNNニュースの森 TBC』の第1期放映群シリーズの名称としておく）。

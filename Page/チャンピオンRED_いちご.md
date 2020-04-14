@@ -1,4 +1,4 @@
-> この記事は[RED ](https://ja.wikipedia.org/wiki/RED_)から翻訳されています。
+> この記事は[チャンピオンRED いちご](https://ja.wikipedia.org/wiki/チャンピオンRED_いちご)から翻訳されています。
 
 
 『**チャンピオンRED いちご**』（チャンピオンレッド いちご）は、[秋田書店](../Page/秋田書店.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』の増刊。[2006年](../Page/2006年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発刊、[2007年](../Page/2007年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")発売のVOL.2より[隔月刊発行化](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")、偶数月5日発売。

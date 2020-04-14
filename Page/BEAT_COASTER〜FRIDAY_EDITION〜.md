@@ -1,4 +1,4 @@
-> この記事は[BEAT COASTERFRIDAY EDITION](https://ja.wikipedia.org/wiki/BEAT_COASTERFRIDAY_EDITION)から翻訳されています。
+> この記事は[BEAT COASTER〜FRIDAY EDITION〜](https://ja.wikipedia.org/wiki/BEAT_COASTER〜FRIDAY_EDITION〜)から翻訳されています。
 
 
 **BEAT COASTER〜FRIDAY EDITION〜**（ビート・コースター〜フライデー・エディション）は[FM PORTの](../Page/新潟県民エフエム放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](../Page/ディスクジョッキー.md "wikilink")[タカハシカナコが担当](../Page/高橋佳奈子.md "wikilink")。通称「ビーフラ」。2004年10月から2012年3月まで放送された。

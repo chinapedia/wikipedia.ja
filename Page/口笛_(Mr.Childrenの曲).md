@@ -1,4 +1,4 @@
-> この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
+> この記事は[口笛 \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/口笛_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**口笛**」（くちぶえ）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
@@ -31,6 +31,63 @@
         Mr.Childrenでは数少ない歌詞の一人称が「俺」になっている楽曲の一つ。
         後に開催されたファンクラブ限定ツアー「Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー」の直前に行われた「会員が最もライブで聴きたい曲」では6位に選ばれた\[2\]。
 
+## テレビ出演
+
+| 番組名                                                                                            | 日付          | 放送局                                                        | 演奏曲                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")                          | 2000年1月1日   | [テレビ朝日](../Page/テレビ朝日.md "wikilink")                       | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[3\]                                                                                                                                                                            |
+| [カウントダウンオールヒット](../Page/カウントダウンオールヒット.md "wikilink")                                           | 2000年1月3日   | [TBS](../Page/TBSテレビ.md "wikilink")                        | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[4\]                                                                                                                                                                            |
+| ミュージックステーション                                                                                   | 2000年1月21日  | テレビ朝日                                                      | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[5\]                                                                                                                                                                            |
+| [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")                                           | 2000年1月22日  | TBS                                                        | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[6\]                                                                                                                                                                            |
+| [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") | 2000年2月7日   | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[7\]                                                                                                                                                                            |
+| [うたばん](../Page/うたばん.md "wikilink")                                                             | 2000年2月10日  | TBS                                                        | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")\[8\]                                                                                                                                                                            |
+| [Music Museum](../Page/Music_Museum.md "wikilink")                                             | 2000年8月9日   | フジテレビ                                                      | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")、[NOT FOUND](../Page/NOT_FOUND_\(Mr.Childrenの曲\).md "wikilink")\[9\]                                                                                                             |
+| [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")                                      | 2000年8月19日  | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")     | [口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")、NOT FOUND\[10\]                                                                                                                                                                 |
+| [SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")                                                 | 2014年11月22日 | NHK                                                        | [名もなき詩](../Page/名もなき詩.md "wikilink")、[口笛](../Page/口笛_\(Mr.Childrenの曲\).md "wikilink")、[足音 〜Be Strong](https://ja.wikipedia.org/wiki/足音_〜Be_Strong "wikilink")、Melody、[放たれる](https://ja.wikipedia.org/wiki/放たれる "wikilink")\[11\] |
+|                                                                                                |             |                                                            |                                                                                                                                                                                                                                  |
+
+## 映像作品
+
+### 口笛
+
+| 作品名                                                                                                                                 | 発売日         | 備考                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")                                  | 2001年8月22日  |                                                                                                                                     |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                  | 2004年12月21日 | キーを半音下げたアコースティックバージョン                                                                                                               |
+| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") | 2008年8月6日   | キーを半音下げたアコースティックバージョン                                                                                                               |
+| [Mr.Children REFLECTION｛Live\&Film｝](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&Film｝ "wikilink")                    | 2015年12月16日 | Mr.Children TOUR 2015 REFLECTIONと[Mr.Children REFLECTIONの両方で演奏された](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink") |
+|                                                                                                                                     |             |                                                                                                                                     |
+
+### Heavenly kiss
+
+<table>
+<thead>
+<tr class="header">
+<th><p>作品名</p></th>
+<th><p>発売日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/Mr.Children_Concert_Tour_Q_2000-2001.md" title="wikilink">Mr.Children Concert Tour Q 2000-2001</a></p></td>
+<td><p>2001年8月22日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference" title="wikilink">Mr.Children / Split The Difference</a></p></td>
+<td><p>2010年11月10日</p></td>
+<td><p>ドキュメンタリー映画作品<br />
+特典映像</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 脚注
 
 <references />
@@ -46,3 +103,12 @@
 
 1.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
 2.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.

@@ -21,7 +21,7 @@
 
 [2013年](../Page/2013年.md "wikilink")3月、MARK STYLERと和解\[2\]。
 
-[2015年](../Page/2015年.md "wikilink")、高級[腕時計](../Page/腕時計.md "wikilink")「TIMEPIECES」の発売を開始\[3\]。[浅岡肇](https://ja.wikipedia.org/wiki/浅岡肇 "wikilink")による[トゥールビヨン](https://ja.wikipedia.org/wiki/トゥールビヨン "wikilink")を搭載した"Odessa Tourbillon"など。
+[2015年](../Page/2015年.md "wikilink")、高級[腕時計](../Page/腕時計.md "wikilink")「TIMEPIECES」の発売を開始\[3\]。[浅岡肇](https://ja.wikipedia.org/wiki/浅岡肇 "wikilink")による[トゥールビヨンを搭載した](../Page/トゥールビヨン_\(時計\).md "wikilink")"Odessa Tourbillon"など。
 
 [2017年](../Page/2017年.md "wikilink")、[MBOを実施](../Page/マネジメント・バイアウト.md "wikilink")。MBKパートナーズ傘下の株式会社スターダストが、同年5月18日に議決権所有割合ベースで83.77%の株式を取得した\[4\]。同年8月1日付で株式会社スターダストにより吸収合併され同社が株式会社TASAKIに商号変更、旧法人は同年7月27日付で上場廃止となった。株式会社スターダスト以外の株主には現金対価が交付された\[5\]。
 
@@ -48,8 +48,6 @@
   - [TASAKIペルーレFC](https://ja.wikipedia.org/wiki/TASAKIペルーレFC "wikilink")
 
 ## 脚注
-
-<references/>
 
 ## 外部リンク
 

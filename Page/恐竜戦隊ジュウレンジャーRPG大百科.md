@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[恐竜戦隊ジュウレンジャーRPG大百科](https://ja.wikipedia.org/wiki/恐竜戦隊ジュウレンジャーRPG大百科)から翻訳されています。
 
 
 **恐竜戦隊ジュウレンジャーRPG大百科**（きょうりゅうせんたいジュウレンジャーアールピージーだいひゃっか）は、[ケイブンシャの大百科シリーズ第](../Page/勁文社.md "wikilink")501巻として発売された児童向けの[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) 。

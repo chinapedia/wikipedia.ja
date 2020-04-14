@@ -1,4 +1,4 @@
-> この記事は[AREA](https://ja.wikipedia.org/wiki/AREA)から翻訳されています。
+> この記事は[高田馬場AREA](https://ja.wikipedia.org/wiki/高田馬場AREA)から翻訳されています。
 
 
 **高田馬場AREA**（たかだのばばエリア）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[高田馬場](../Page/高田馬場.md "wikilink")3丁目3-8にある[ライブハウス](../Page/ライブハウス.md "wikilink")。有限会社バツバツバツレコードが運営している。

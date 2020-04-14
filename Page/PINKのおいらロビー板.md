@@ -1,4 +1,4 @@
-> この記事は[PINK](https://ja.wikipedia.org/wiki/PINK)から翻訳されています。
+> この記事は[PINKのおいらロビー板](https://ja.wikipedia.org/wiki/PINKのおいらロビー板)から翻訳されています。
 
 
 **PINKのおいらロビー**（ピンクのおいらロビー）は、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")[掲示板の外郭掲示板である](../Page/電子掲示板.md "wikilink")[PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")に属する板の一つである。[2006年](../Page/2006年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に設立した掲示板。正式名称は「PINKのおいらロビー(仮)＠bbspink掲示板」。

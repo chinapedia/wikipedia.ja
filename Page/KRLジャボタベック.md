@@ -1,4 +1,4 @@
-> この記事は[KRL](https://ja.wikipedia.org/wiki/KRL)から翻訳されています。
+> この記事は[KRLジャボタベック](https://ja.wikipedia.org/wiki/KRLジャボタベック)から翻訳されています。
 
 
 **KRLジャボデタベック** （）は、[インドネシア](../Page/インドネシア.md "wikilink")の[ジャカルタ](../Page/ジャカルタ.md "wikilink")[首都圏](../Page/首都圏.md "wikilink")の[通勤電車](https://ja.wikipedia.org/wiki/通勤電車 "wikilink")網の[愛称](../Page/愛称.md "wikilink")である\[1\]。[ジャボデタベック](../Page/ジャボデタベック.md "wikilink")は、ジャカルタ首都圏の通称で、構成する[ジャカルタ](../Page/ジャカルタ.md "wikilink") **Ja**karta、[ボゴール](https://ja.wikipedia.org/wiki/ボゴール "wikilink") **Bo**gor、[デポック](https://ja.wikipedia.org/wiki/デポック "wikilink") **De**pok、[タンゲラン](../Page/タンゲラン.md "wikilink") **Ta**ngerang、[ブカシ](../Page/ブカシ.md "wikilink") **Bek**asiの頭文字を組み合わせたものである。
@@ -30,6 +30,8 @@
   - [線路走行方式](../Page/線路_\(鉄道\).md "wikilink"):[右側通行](../Page/対面交通.md "wikilink")
   - [閉塞方式](../Page/閉塞_\(鉄道\).md "wikilink")：自動閉塞式
   - 保安装置:非設（なし）
+
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:KRL_Jabotabek_Lines.svg "wikilink")
 
 ### 路線
 
@@ -99,25 +101,22 @@
 
 ### 運行系統
 
-  - レッドライン
-      -
-        [ジャカルタコタ](../Page/ジャカルタコタ駅.md "wikilink") - [マンガライ](https://ja.wikipedia.org/wiki/マンガライ駅 "wikilink") - [デポック](https://ja.wikipedia.org/wiki/デポック駅 "wikilink") - [チタヤン](https://ja.wikipedia.org/wiki/チタヤン駅 "wikilink") - [ボジョングデ](https://ja.wikipedia.org/wiki/ボジョングデ駅 "wikilink") - [ボゴール](https://ja.wikipedia.org/wiki/ボゴール駅 "wikilink")
-  - ブルーライン
-      -
-        ジャカルタコタ - マンガライ - [ジャティネガラ](https://ja.wikipedia.org/wiki/ジャティネガラ駅 "wikilink") - [カクン](https://ja.wikipedia.org/wiki/カクン駅 "wikilink") - [ブカシ](https://ja.wikipedia.org/wiki/ブカシ駅 "wikilink") - [チカラン](https://ja.wikipedia.org/wiki/チカラン駅 "wikilink")
-  - イエローライン
-      -
-        [ジャティネガラ](https://ja.wikipedia.org/wiki/ジャティネガラ駅 "wikilink") - [カンプンバンダン](https://ja.wikipedia.org/wiki/カンプンバンダン駅 "wikilink") - [アンケ](https://ja.wikipedia.org/wiki/アンケ駅 "wikilink") - [デュリ](https://ja.wikipedia.org/wiki/デュリ駅 "wikilink") - [タナアバン](https://ja.wikipedia.org/wiki/タナアバン駅 "wikilink") - マンガライ - デポック - チタヤン - ボジョングデ - ボゴール
-        アンケ - デュリ - タナアバン - マンガライ - デポック - チタヤン - ナンボ
-  - グリーンライン
-      -
-        タナアバン - [スディマラ](https://ja.wikipedia.org/wiki/スディマラ駅 "wikilink") - [セルポン](https://ja.wikipedia.org/wiki/セルポン駅 "wikilink") - [パルンパンジャン](https://ja.wikipedia.org/wiki/パルンパンジャン駅 "wikilink") - [マジャ](https://ja.wikipedia.org/wiki/マジャ駅 "wikilink") - [ランカスビトゥン](https://ja.wikipedia.org/wiki/ランカスビトゥン駅 "wikilink")
-  - ブラウンライン
-      -
-        デュリ - [タンゲラン](https://ja.wikipedia.org/wiki/タンゲラン駅 "wikilink")
-  - ピンクライン
-      -
-        ジャカルタコタ - カンプンバンダン - [タンジュンプリオク](https://ja.wikipedia.org/wiki/タンジュンプリオク駅 "wikilink")
+| 路線名                                                                                                                           | 区間                                                                                                                        | 駅数      | キロ程     |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- | ------- |
+| [リンク=KA_Commuter_Line_Jakarta_Kota–Bogorレッドライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Red.svg "wikilink")           | [ジャカルタコタ](../Page/ジャカルタコタ駅.md "wikilink") - [デポック](https://ja.wikipedia.org/wiki/デポック駅 "wikilink")                        | 20      | 33.3 km |
+| ジャカルタコタ - [ボゴール](https://ja.wikipedia.org/wiki/ボゴール駅 "wikilink")                                                              | 24                                                                                                                        | 54.8 km |         |
+| [リンク=KA_Commuter_Line_Jatinegara–Bogorイエローライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Yellow.svg "wikilink")          | [ジャティネガラ](https://ja.wikipedia.org/wiki/ジャティネガラ駅 "wikilink") - デポック                                                       | 26      | 47.2 km |
+| ジャティネガラ - ボゴール                                                                                                                | 30                                                                                                                        | 69.4 km |         |
+| [アンケ](https://ja.wikipedia.org/wiki/アンケ駅 "wikilink") - [ナンボ](https://ja.wikipedia.org/wiki/ナンボ駅 "wikilink")                   | 21                                                                                                                        | 51.4 km |         |
+| [リンク=KA_Commuter_Line_Tanah_Abang–Rangkasbitungグリーンライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Green.svg "wikilink") | [タナアバン](https://ja.wikipedia.org/wiki/タナアバン駅 "wikilink") - [セルポン](https://ja.wikipedia.org/wiki/セルポン駅 "wikilink")         | 8       | 19.6 km |
+| タナアバン - [パルンパンジャン](https://ja.wikipedia.org/wiki/パルンパンジャン駅 "wikilink")                                                        | 11                                                                                                                        | 24.3 km |         |
+| タナアバン - [マジャ](https://ja.wikipedia.org/wiki/マジャ駅 "wikilink")                                                                  | 17                                                                                                                        | 55.6 km |         |
+| タナアバン - [ランカスビトゥン](https://ja.wikipedia.org/wiki/ランカスビトゥン駅 "wikilink")                                                        | 19                                                                                                                        | 72.8 km |         |
+| [リンク=KA_Commuter_Line_Jakarta_Kota–Cikarangブルーライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Blue.svg "wikilink")       | ジャカルタコタ - [マンガライ](https://ja.wikipedia.org/wiki/マンガライ駅 "wikilink") - [ブカシ](https://ja.wikipedia.org/wiki/ブカシ駅 "wikilink") | 18      | 27.4 km |
+| ジャカルタコタ - [パーサル・スネン](https://ja.wikipedia.org/wiki/パサール・スネン駅 "wikilink") - ブカシ                                                | 15                                                                                                                        | 26.5 km |         |
+| ジャカルタコタ - [チカラン](https://ja.wikipedia.org/wiki/チカラン駅 "wikilink")                                                              | 21                                                                                                                        | 44 km   |         |
+| [リンク=KA_Commuter_Line_Duri–Tangerangブラウンライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Brown.svg "wikilink")             | [ドゥリ](https://ja.wikipedia.org/wiki/ドゥリ駅 "wikilink") - [タンゲラン](https://ja.wikipedia.org/wiki/タンゲラン駅 "wikilink")           | 11      | 19.2 km |
+| [リンク=KA_Commuter_Line_Jakarta_Kota–Tanjung_Priokピンクライン](https://ja.wikipedia.org/wiki/ファイル:KRL_Icon_Pink.svg "wikilink") | ジャカルタコタ - [タンジュンプリオク](https://ja.wikipedia.org/wiki/タンジュンプリオク駅 "wikilink")                                                | 4       | 9.8 km  |
 
 この他、クマヨラン - タンジュンプリオクが電化されているが、KRLジャボタベックの列車は運行されていない。マンガライ - ブカシの複々線化が計画されている。
 

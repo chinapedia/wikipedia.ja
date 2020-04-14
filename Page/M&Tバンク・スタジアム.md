@@ -1,4 +1,4 @@
-> この記事は[M\&T](https://ja.wikipedia.org/wiki/M\&T)から翻訳されています。
+> この記事は[M\&Tバンク・スタジアム](https://ja.wikipedia.org/wiki/M\&Tバンク・スタジアム)から翻訳されています。
 
 
 **M\&Tバンク・スタジアム**（*M\&T Bank Stadium*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にある[スタジアム](../Page/スタジアム.md "wikilink")。1998年開場。

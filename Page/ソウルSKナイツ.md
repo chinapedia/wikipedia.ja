@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[ソウルSKナイツ](https://ja.wikipedia.org/wiki/ソウルSKナイツ)から翻訳されています。
 
 
 **ソウルSKナイツ**（韓国語: SK 、英語:Seoul SK Knights）は、[大韓民国](../Page/大韓民国.md "wikilink")・[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に本拠地を置いている プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。スポンサーは[SKグループ](../Page/SKグループ.md "wikilink")。
@@ -14,6 +14,7 @@
 ## 主な選手
 
   - [方成允](https://ja.wikipedia.org/wiki/方成允 "wikilink")（バン・ソンユン）
+  - [ダジュアン・サマーズ](https://ja.wikipedia.org/wiki/ダジュアン・サマーズ "wikilink")
 
 ## 外部リンク
 

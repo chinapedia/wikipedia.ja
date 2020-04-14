@@ -1,4 +1,4 @@
-> この記事は[ LIFE IS HARDHAPPY](https://ja.wikipedia.org/wiki/_LIFE_IS_HARDHAPPY)から翻訳されています。
+> この記事は[ピカ☆☆ンチ LIFE IS HARDだからHAPPY](https://ja.wikipedia.org/wiki/ピカ☆☆ンチ_LIFE_IS_HARDだからHAPPY)から翻訳されています。
 
 
 『**ピカ★★ンチ LIFE IS HARDだからHAPPY**』（ピカンチダブル ライフイズハードだからハッピー）は[2004年](../Page/2004年.md "wikilink")に制作、3月1日に公開された[嵐主演の](../Page/嵐_\(グループ\).md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。前作『[ピカ☆ンチ LIFE IS HARDだけどHAPPY](https://ja.wikipedia.org/wiki/ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink")』から3年の時を経た仲間たちを描いた。

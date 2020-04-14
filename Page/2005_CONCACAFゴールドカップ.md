@@ -1,4 +1,4 @@
-> この記事は[2005 CONCACAF](https://ja.wikipedia.org/wiki/2005_CONCACAF)から翻訳されています。
+> この記事は[2005 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2005_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **2005 CONCACAFゴールドカップ** (2005 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、北中米カリブ海サッカー連盟 (CONCACAF) 主催の、第8回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

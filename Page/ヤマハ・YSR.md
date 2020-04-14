@@ -1,4 +1,4 @@
-> この記事は[YSR](https://ja.wikipedia.org/wiki/YSR)から翻訳されています。
+> この記事は[ヤマハ・YSR](https://ja.wikipedia.org/wiki/ヤマハ・YSR)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:YAMAHA_YSR50_1986_Yamaha_Communication_Plaza.jpg "wikilink") **ヤマハ・YSR**（ワイエスアール）は、かつて[ヤマハが製造販売していた](../Page/ヤマハ発動機.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

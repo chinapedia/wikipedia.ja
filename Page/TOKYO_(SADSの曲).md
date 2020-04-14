@@ -1,4 +1,4 @@
-> この記事は[TOKYO \(SADS\)](https://ja.wikipedia.org/wiki/TOKYO_\(SADS\))から翻訳されています。
+> この記事は[TOKYO \(SADSの曲\)](https://ja.wikipedia.org/wiki/TOKYO_\(SADSの曲\))から翻訳されています。
 
 
 『**TOKYO**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の1stシングル。[1999年](../Page/1999年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売された。

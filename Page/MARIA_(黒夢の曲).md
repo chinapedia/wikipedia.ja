@@ -1,4 +1,4 @@
-> この記事は[MARIA \(\)](https://ja.wikipedia.org/wiki/MARIA_\(\))から翻訳されています。
+> この記事は[MARIA \(黒夢の曲\)](https://ja.wikipedia.org/wiki/MARIA_\(黒夢の曲\))から翻訳されています。
 
 
 「**MARIA**」 (マリア) は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")の12枚目のシングル。

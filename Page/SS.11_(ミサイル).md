@@ -1,4 +1,4 @@
-> この記事は[SS.11 \(\)](https://ja.wikipedia.org/wiki/SS.11_\(\))から翻訳されています。
+> この記事は[SS.11 \(ミサイル\)](https://ja.wikipedia.org/wiki/SS.11_\(ミサイル\))から翻訳されています。
 
 
 **SS.11**は、[ノール・アビアシオン](https://ja.wikipedia.org/wiki/ノール・アビアシオン "wikilink")が製造した有線[MCLOSの](https://ja.wikipedia.org/wiki/手動指令照準線一致誘導方式 "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")である。[フランス陸軍](../Page/フランス陸軍.md "wikilink")には[1956年](../Page/1956年.md "wikilink")から配備され、[1980年代](../Page/1980年代.md "wikilink")の生産終了までにおよそ18万発が製造された。

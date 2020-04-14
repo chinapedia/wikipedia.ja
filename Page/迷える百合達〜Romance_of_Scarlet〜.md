@@ -1,4 +1,4 @@
-> この記事は[Romance of Scarlet](https://ja.wikipedia.org/wiki/Romance_of_Scarlet)から翻訳されています。
+> この記事は[迷える百合達〜Romance of Scarlet〜](https://ja.wikipedia.org/wiki/迷える百合達〜Romance_of_Scarlet〜)から翻訳されています。
 
 
 『**迷える百合達 〜Romance of Scarlet〜**』 (まよえるゆりたち ロマンス オブ スカーレット) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー1作目の[アルバム](../Page/アルバム.md "wikilink")。

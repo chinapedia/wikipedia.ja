@@ -1,4 +1,4 @@
-> この記事は[FAKE STARI\'M JUST A JAPANESE FAKE ROCKER](https://ja.wikipedia.org/wiki/FAKE_STARI\'M_JUST_A_JAPANESE_FAKE_ROCKER)から翻訳されています。
+> この記事は[FAKE STAR〜I\'M JUST A JAPANESE FAKE ROCKER〜](https://ja.wikipedia.org/wiki/FAKE_STAR〜I\'M_JUST_A_JAPANESE_FAKE_ROCKER〜)から翻訳されています。
 
 
 『**FAKE STAR 〜I'M JUST A JAPANESE FAKE ROCKER〜**』 (フェイク・スター・アイム・ジャスト・ア・ジャパニーズ・フェイク・ロッカー) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー4作目の[アルバム](../Page/アルバム.md "wikilink")。

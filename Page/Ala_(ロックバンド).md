@@ -1,4 +1,4 @@
-> この記事は[Ala \(\)](https://ja.wikipedia.org/wiki/Ala_\(\))から翻訳されています。
+> この記事は[Ala \(ロックバンド\)](https://ja.wikipedia.org/wiki/Ala_\(ロックバンド\))から翻訳されています。
 
 
 **ala**（アーラ）は日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。「ala」はギリシャ語で楽器を意味する。男性6人、女性1人の7人編成。
@@ -270,13 +270,13 @@ DONA-35:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                                                                             |                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                                                                      | **曲名**                                                                                                                                                                                                                                   |
-| 深呼吸                                                                                                         | 「[QUIET GROUND](http://www.indiesmusic.com/musicvideo/video.asp?id=10148)」「[USUAL LIFE](http://www.indiesmusic.com/musicvideo/video.asp?id=10070)」「[shiny](http://www.indiesmusic.com/musicvideo/video.asp?id=10240)」「spring in my step」 |
-| [本田義信](https://ja.wikipedia.org/wiki/本田義信 "wikilink")×[宇野心平](https://ja.wikipedia.org/wiki/宇野心平 "wikilink") | 「[PLEASE ME](http://www.indiesmusic.com/musicvideo/video.asp?id=10469)」                                                                                                                                                                  |
-| 不明                                                                                                          | 「[WE'VE GOT SOMETHING](http://www.indiesmusic.com/musicvideo/video.asp?id=10432)」                                                                                                                                                        |
-|                                                                                                             |                                                                                                                                                                                                                                          |
+|                                                                                                             |                                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                                                                      | **曲名**                                                                                                                                                                                                                                      |
+| 深呼吸                                                                                                         | 「[QUIET GROUND](https://www.indiesmusic.com/musicvideo/video.asp?id=10148)」「[USUAL LIFE](https://www.indiesmusic.com/musicvideo/video.asp?id=10070)」「[shiny](https://www.indiesmusic.com/musicvideo/video.asp?id=10240)」「spring in my step」 |
+| [本田義信](https://ja.wikipedia.org/wiki/本田義信 "wikilink")×[宇野心平](https://ja.wikipedia.org/wiki/宇野心平 "wikilink") | 「[PLEASE ME](https://www.indiesmusic.com/musicvideo/video.asp?id=10469)」                                                                                                                                                                    |
+| 不明                                                                                                          | 「[WE'VE GOT SOMETHING](https://www.indiesmusic.com/musicvideo/video.asp?id=10432)」                                                                                                                                                          |
+|                                                                                                             |                                                                                                                                                                                                                                             |
 
 ## 出演
 

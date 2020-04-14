@@ -1,4 +1,4 @@
-> この記事は[Replay \(\)](https://ja.wikipedia.org/wiki/Replay_\(\))から翻訳されています。
+> この記事は[Replay \(曲\)](https://ja.wikipedia.org/wiki/Replay_\(曲\))から翻訳されています。
 
 
 「**Replay**」（リプレイ）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

@@ -1,7 +1,7 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[渚 \(AV女優\)](https://ja.wikipedia.org/wiki/渚_\(AV女優\))から翻訳されています。
 
 
-**渚**（なぎさ、[1988年](../Page/1988年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")\[1\]。
+**渚**（なぎさ、[1988年](../Page/1988年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")\[1\]。
 
 [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型。身長154cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B84（Cカップ-65） W58 H86。趣味：アニメ観賞。特技：デッサン。
 
@@ -83,14 +83,13 @@
 
 ### 写真集
 
-  - ナギサとリップ nagisa trip（2006年12月22日、[リイド社](../Page/リイド社.md "wikilink")、撮影：[山口勝己](https://ja.wikipedia.org/wiki/山口勝己 "wikilink")）ISBN 978-4845833115
+  - ナギサとリップ nagisa trip（2006年12月22日、[リイド社](../Page/リイド社.md "wikilink")、撮影：山口勝己）ISBN 978-4845833115
 
 ## 脚注
 
 ## 外部リンク
 
   - [渚ちゃんねる](http://www.nagisa.ch/)
-  - [kawaii\* ガールズ 渚](http://www.kawaiikawaii.jp/actress/-/detail/=/id=20282/)
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:KUKI女優](https://ja.wikipedia.org/wiki/Category:KUKI女優 "wikilink") [Category:マックス・エー女優](https://ja.wikipedia.org/wiki/Category:マックス・エー女優 "wikilink") [Category:kawaii\*女優](https://ja.wikipedia.org/wiki/Category:kawaii*女優 "wikilink") [Category:MOODYZ女優](https://ja.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink") [Category:S級素人女優](https://ja.wikipedia.org/wiki/Category:S級素人女優 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

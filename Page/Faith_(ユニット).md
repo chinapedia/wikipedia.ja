@@ -1,4 +1,4 @@
-> この記事は[Faith \(\)](https://ja.wikipedia.org/wiki/Faith_\(\))から翻訳されています。
+> この記事は[Faith \(ユニット\)](https://ja.wikipedia.org/wiki/Faith_\(ユニット\))から翻訳されています。
 
 
 **faith**（フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性二人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。2005年に[Venus-B](https://ja.wikipedia.org/wiki/Venus-B "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）よりメジャーデビュー。**「クラシック・ミーツ・ヒップホップ」**というキャッチコピーで、[クラシックと](../Page/クラシック音楽.md "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")（[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")）を合わせた音楽性を確立している。また既存のクラシック楽曲を[サンプリング](../Page/サンプリング.md "wikilink")して用いることは稀であり、楽曲のほぼすべてを一からクラシック調に制作している。2009年7月に活動停止を発表した。

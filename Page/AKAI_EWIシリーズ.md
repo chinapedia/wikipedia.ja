@@ -1,4 +1,4 @@
-> この記事は[AKAI EWI](https://ja.wikipedia.org/wiki/AKAI_EWI)から翻訳されています。
+> この記事は[AKAI EWIシリーズ](https://ja.wikipedia.org/wiki/AKAI_EWIシリーズ)から翻訳されています。
 
 
 **EWIシリーズ**（アカイ・イーウィ・シリーズ）は[AKAI professionalの](../Page/AKAI_professional.md "wikilink")[ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")の型番・商品名。[ヤマハ・WXシリーズ](../Page/ヤマハ・WXシリーズ.md "wikilink")と並んで、ウインドシンセサイザーの代名詞的に用いられていた。

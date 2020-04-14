@@ -1,4 +1,4 @@
-> この記事は[Smart \(\)](https://ja.wikipedia.org/wiki/Smart_\(\))から翻訳されています。
+> この記事は[Smart \(雑誌\)](https://ja.wikipedia.org/wiki/Smart_\(雑誌\))から翻訳されています。
 
 
 **smart**（スマート）は、[宝島社](../Page/宝島社.md "wikilink")が発売している男性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。毎月24日発売。定価590円。

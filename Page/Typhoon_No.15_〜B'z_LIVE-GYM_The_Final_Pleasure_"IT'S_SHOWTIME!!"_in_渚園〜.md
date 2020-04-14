@@ -1,4 +1,4 @@
-> この記事は[Typhoon No.15 B\'z LIVE-GYM The Final Pleasure ITS SHOWTIME!!\" in \" --variable=\"cfmurl=Typhoon_No.15_Bz_LIVE-GYM_The_Final_Pleasure_IT\'S_SHOWTIME!!_in_"](https://ja.wikipedia.org/wiki/)から翻訳されています。
+> この記事は[Typhoon No.15 〜B\'z LIVE-GYM The Final Pleasure ITS SHOWTIME!!\" in 渚園〜\" --variable=\"cfmurl=Typhoon_No.15_〜Bz_LIVE-GYM_The_Final_Pleasure_IT\'S_SHOWTIME!!_in_渚園〜"](https://ja.wikipedia.org/wiki/)から翻訳されています。
 
 
 『**Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜**』（タイフーン・ナンバーフィフティーン・ビーズ・ライブジム・ザ・ファイナル・プレジャー・イッツ・ショータイム・イン・なぎさえん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")にリリースした8作目の映像作品（VHSとしては8作目、DVDとしては6作目）。B'zの映像作品では、[VHS](../Page/VHS.md "wikilink")の発売は本作が最後になった\[1\]。

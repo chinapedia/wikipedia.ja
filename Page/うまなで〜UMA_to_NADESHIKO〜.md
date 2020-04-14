@@ -1,4 +1,4 @@
-> この記事は[UMA to NADESHIKO](https://ja.wikipedia.org/wiki/UMA_to_NADESHIKO)から翻訳されています。
+> この記事は[うまなで〜UMA to NADESHIKO〜](https://ja.wikipedia.org/wiki/うまなで〜UMA_to_NADESHIKO〜)から翻訳されています。
 
 
 **うまなで〜UMA to NADESHIKO〜**（うまなで うまとなでしこ）とは[フジテレビ系列局で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2007年](../Page/2007年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで、毎週土曜深夜25:15〜25:45（[JST](https://ja.wikipedia.org/wiki/日本標準時間 "wikilink")）に放送されていた[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")である。

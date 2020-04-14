@@ -1,4 +1,4 @@
-> この記事は[DJ\&](https://ja.wikipedia.org/wiki/DJ\&)から翻訳されています。
+> この記事は[DJ・ジャジー・ジェフ\&ザ・フレッシュ・プリンス](https://ja.wikipedia.org/wiki/DJ・ジャジー・ジェフ\&ザ・フレッシュ・プリンス)から翻訳されています。
 
 
 [Thejazzyjeff.jpg](https://ja.wikipedia.org/wiki/File:Thejazzyjeff.jpg "fig:Thejazzyjeff.jpg") [Will_Smith_2011.jpg](https://ja.wikipedia.org/wiki/File:Will_Smith_2011.jpg "fig:Will_Smith_2011.jpg") **DJ・ジャジー・ジェフ&ザ・フレッシュ・プリンス**（**DJ Jazzy Jeff & the Fresh Prince**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の人気[ラップ](../Page/ラップ.md "wikilink")/[ヒップホップ](../Page/ヒップホップ.md "wikilink")・デュオ。 基本的に、ジャジー・ジェフがDJ、バックトラック（音楽）を担当、フレッシュ・プリンス（[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")）がラップ（作詞も）を担当している。

@@ -1,4 +1,4 @@
-> この記事は[TOA \(\)](https://ja.wikipedia.org/wiki/TOA_\(\))から翻訳されています。
+> この記事は[TOA \(企業\)](https://ja.wikipedia.org/wiki/TOA_\(企業\))から翻訳されています。
 
 
 **TOA株式会社**（ティーオーエー、）は、業務用の[音響機器](../Page/音響機器.md "wikilink")と[セキュリティ機器](https://ja.wikipedia.org/wiki/セキュリティ機器 "wikilink")の専門メーカー。音響機器はPA/SR/拡声などの設備音響、セキュリティ機器は[監視カメラ](../Page/監視カメラ.md "wikilink")などの[映像機器](../Page/映像機器.md "wikilink")を中心とした[防犯装備](../Page/防犯装備.md "wikilink")を製造する。本社は神戸市中央区港島中町7丁目2番1号（[ポートアイランド](../Page/ポートアイランド.md "wikilink")）。“TOA”とは旧社名の東亞特殊電機株式会社でのブランドネーム“トーア”が語源とされている。

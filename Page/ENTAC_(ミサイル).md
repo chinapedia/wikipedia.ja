@@ -1,4 +1,4 @@
-> この記事は[ENTAC \(\)](https://ja.wikipedia.org/wiki/ENTAC_\(\))から翻訳されています。
+> この記事は[ENTAC \(ミサイル\)](https://ja.wikipedia.org/wiki/ENTAC_\(ミサイル\))から翻訳されています。
 
 
 **ENTAC**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")が開発した有線指令誘導方式の[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")で、名称は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")「**EN**gin **T**eleguide **A**nti-**C**har」の頭文字に由来する。[アメリカ軍](../Page/アメリカ軍.md "wikilink")での型式は**MGM-32A**。

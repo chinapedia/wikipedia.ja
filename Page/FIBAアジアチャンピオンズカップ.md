@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAアジアチャンピオンズカップ](https://ja.wikipedia.org/wiki/FIBAアジアチャンピオンズカップ)から翻訳されています。
 
 
 **FIBAアジアチャンピオンズカップ**（**FIBA Asia Champions Cup**）は、[FIBAアジア](../Page/FIBAアジア.md "wikilink")主催で毎年開催される男子[バスケットボール](../Page/バスケットボール.md "wikilink")の国際大会である。

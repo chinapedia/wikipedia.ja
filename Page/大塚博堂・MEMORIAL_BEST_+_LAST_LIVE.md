@@ -1,4 +1,4 @@
-> この記事は[MEMORIAL BEST + LAST LIVE](https://ja.wikipedia.org/wiki/MEMORIAL_BEST_+_LAST_LIVE)から翻訳されています。
+> この記事は[大塚博堂・MEMORIAL BEST + LAST LIVE](https://ja.wikipedia.org/wiki/大塚博堂・MEMORIAL_BEST_+_LAST_LIVE)から翻訳されています。
 
 
 『**大塚博堂・MEMORIAL BEST + LAST LIVE**』（おおつかはくどう・メモリアルベスト プラス ラストライブ）は、[2006年](../Page/2006年.md "wikilink")に発売されたアルバム。[大塚博堂](../Page/大塚博堂.md "wikilink")の没後25年、デビュー30年を迎え、甥・大塚郷の選曲による1枚目と、[1981年](../Page/1981年.md "wikilink")3月、大塚が亡くなる2ヶ月まえに行われた[神奈川県民会館](https://ja.wikipedia.org/wiki/神奈川県民会館 "wikilink")でのライブ音源を収録した2枚目の2枚組で構成されている。

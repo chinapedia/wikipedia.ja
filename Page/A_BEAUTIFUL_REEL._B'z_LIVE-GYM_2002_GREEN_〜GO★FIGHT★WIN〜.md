@@ -1,4 +1,4 @@
-> この記事は[A BEAUTIFUL REEL. B\'z LIVE-GYM 2002 GREEN GOFIGHTWIN](https://ja.wikipedia.org/wiki/A_BEAUTIFUL_REEL._B\'z_LIVE-GYM_2002_GREEN_GOFIGHTWIN)から翻訳されています。
+> この記事は[A BEAUTIFUL REEL. B\'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](https://ja.wikipedia.org/wiki/A_BEAUTIFUL_REEL._B\'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜)から翻訳されています。
 
 
 『**a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜**』（ア・ビューティフル・リール・ビーズ・ライブジム・ツーサウザンドツー・グリーン・ゴー・ファイト・ウィン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が、[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")にリリースした、7作目の映像作品（VHSとしては7作目、DVDとしては5作目）。
@@ -18,9 +18,15 @@
 
 ## 内容
 
-全国70万人を動員した「B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜」から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")、[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。
+全国70万人を動員した『B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"』から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")、[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。（未収録曲は「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」、ホール公演では「[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」と「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」、「[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。）
 
-DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」、ホール公演では「[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」と「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」、「[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。
+DVD版のみ、特典映像を収めた2枚組となっている。GREENツアー後に行われたB'z初のアメリカ公演『B'z LIVE-GYM 2002 "Rock n' California Roll"』のダイジェスト映像に加えて、「leftovers」（残り物）と題してステージセット設営の映像やライブ中のメンバー写真、そして「マジカDEオンステージ」（後述）の様子が収録されている。
+
+### マジカDEオンステージ
+
+今回のライブツアーではスタジアムやドームなど大きな会場限定で、開演前の時間を利用して「マジカDEオンステージ」という企画が行われた。これは、座席のブロック単位で抽選をして当選したブロックの客が、開演前のステージに上がって見学出来るというものであった。ステージ上は見学用の通路が設置され、またメンバーの等身大パネルや、メンバーおよびサポートメンバーのプロフィール看板やライブ機材の説明看板も置かれていた。1公演で7、8回抽選が行われた\[1\]。
+
+さらに「マジカDEオンステージ特別賞」もあり、特別賞に選ばれた客はライブ本編終了後のアンコールの際にステージ上に招待され、メンバーの真後ろからライブを観る事が出来た（1公演あたり約60人）。今回の映像でも、アンコールの「熱き鼓動の果て」で「特別賞」に選ばれた客がステージ後ろで参加している映像が収録されている\[2\]。
 
 ## 収録映像曲
 
@@ -34,7 +40,7 @@ DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi A
         本ツアーのメインタイトルナンバー。イントロで、シェーンの腕にマーカーで書かれた、各会場ごと（横浜・名古屋・福岡・札幌・静岡・大分・新潟・浪速・広島の順序）の名前が映る。
 3.  **[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")**
       -
-        「B'z SHOWCASE 2002 "SAPPORO DEVIL"」(Zepp Sapporo)の模様から始まり、「B'zのSHOWCASEにようこそ\!」と叫び、恒例の「B'zのLIVE-GYMにようこそ\!」はイントロ中となる。途中で大分・静岡・広島公演の映像をフィーチャー。ギターソロ以降はカットされ、リハーサル風景に切り替わる。
+        『B'z SHOWCASE 2002 "SAPPORO DEVIL"』(Zepp Sapporo)の模様から始まり、「B'zのSHOWCASEにようこそ\!」と叫び、恒例の「B'zのLIVE-GYMにようこそ\!」はイントロ中となる。途中で大分・静岡・広島公演の映像をフィーチャー。ギターソロ以降はカットされ、リハーサル風景に切り替わる。
 4.  **[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")**
       -
         2コーラス目以降はカットされている。
@@ -84,12 +90,17 @@ DVDのみ特典映像を収めた2枚組。未収録曲は「[太陽のKomachi A
 
 ### DISC 2（DVDのみ）
 
-1.  B'z LIVE-GYM 2002 "Rock n' California Roll" San Diego - Los Angeles - Tokyo
+1.  **B'z LIVE-GYM 2002 "Rock n' California Roll" San Diego - Los Angeles - Tokyo**
       -
         B'z初のアメリカ公演のダイジェスト。リハーサルの模様も収録されている。サンディエゴ公演では未発表曲の「Logic」が少し聴くことが出来る。
         追加公演となった[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")での「銀の翼で翔べ」のライブ映像（2コーラス目まで）が収録されている。
-2.  B'z LIVE-GYM 2002 "GREEN" ～GO★FIGHT★WIN～ Leftovers
+2.  **B'z LIVE-GYM 2002 "GREEN" 〜GO★FIGHT★WIN〜 leftovers**
       -
-        ステージ制作の様子を収めた「THE PASS」、実際のツアーで抽選により本番前のステージ上を見学できた「マジカDEオンステージ」、ライブショットを収めた「BEAUTIFUL CUTS」を収録。
+        ライブ会場の設営の様子を収めた「THE PASS」、マジカDEオンステージの様子を収めた「マジカDEオンステージツアー」、メンバーのライブショットを収めた「BEAUTIFUL CUTS」を収録。
+
+## 脚注
 
 [Category:2002年のコンサート](https://ja.wikipedia.org/wiki/Category:2002年のコンサート "wikilink") [Category:2002年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2002年のライブ・ビデオ "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+
+1.
+2.

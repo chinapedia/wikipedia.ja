@@ -1,4 +1,4 @@
-> この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
+> この記事は[優しい歌 \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/優しい歌_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**優しい歌**」（やさしいうた）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

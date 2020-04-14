@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[山田J太](https://ja.wikipedia.org/wiki/山田J太)から翻訳されています。
 
 
 **山田 J太**（やまだ ジェイた、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身\[2\]。血液型はO型\[3\]。代表作に[テレビアニメ化された](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")「[あさっての方向。](../Page/あさっての方向。.md "wikilink")」や[ドラマCD](../Page/ドラマCD.md "wikilink")化された「[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")」など。
@@ -24,6 +24,7 @@
   - [蒼界のイヴ](https://ja.wikipedia.org/wiki/蒼界のイヴ "wikilink")（『[WEBコミックハイ\!](https://ja.wikipedia.org/wiki/WEBコミックハイ! "wikilink")』2011年1月20日 - 2012年7月20日）
   - [UN-GO 敗戦探偵・結城新十郎](https://ja.wikipedia.org/wiki/UN-GO "wikilink")（『[ニュータイプエース](https://ja.wikipedia.org/wiki/ニュータイプエース "wikilink")』Vol.1（2011年9月） - **連載中**） - 原作：「UN-GO」制作委員会 監修：[ボンズ](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")・「UN-GO」製作委員会、単行本未発行
   - [異能メイズ](https://ja.wikipedia.org/wiki/異能メイズ "wikilink")（『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2016年7月号 - 2018年5月号） - 原作：[岡田伸一](https://ja.wikipedia.org/wiki/岡田伸一 "wikilink")
+  - [エコエコアザラク REBORN](../Page/エコエコアザラク.md "wikilink")（『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』2020年5月号 - 連載中） - 原作：[古賀新一](../Page/古賀新一.md "wikilink")
 
 ### 読み切り
 

@@ -1,4 +1,4 @@
-> この記事は[FlexComix](https://ja.wikipedia.org/wiki/FlexComix)から翻訳されています。
+> この記事は[FlexComixブラッド](https://ja.wikipedia.org/wiki/FlexComixブラッド)から翻訳されています。
 
 
 『**FlexComixブラッド**』（フレックスコミックスブラッド）は、[2007年](../Page/2007年.md "wikilink")から[2012年](../Page/2012年.md "wikilink")まで運営されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")。

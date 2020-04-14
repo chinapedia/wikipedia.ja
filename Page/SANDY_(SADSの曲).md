@@ -1,4 +1,4 @@
-> この記事は[SANDY \(SADS\)](https://ja.wikipedia.org/wiki/SANDY_\(SADS\))から翻訳されています。
+> この記事は[SANDY \(SADSの曲\)](https://ja.wikipedia.org/wiki/SANDY_\(SADSの曲\))から翻訳されています。
 
 
 『**SANDY**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[SADS](../Page/SADS.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に発売された。

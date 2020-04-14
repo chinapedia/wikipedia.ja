@@ -1,4 +1,4 @@
-> この記事は[BREATH \(\)](https://ja.wikipedia.org/wiki/BREATH_\(\))から翻訳されています。
+> この記事は[BREATH \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/BREATH_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**BREATH**』（ブレス）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")にリリースされた渡辺美里の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
@@ -120,6 +120,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : BREATH](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCB-1163/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : BREATH](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCB-1163)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:1987年のアルバム](https://ja.wikipedia.org/wiki/Category:1987年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:1987年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンアルバムチャート1位獲得作品 "wikilink")

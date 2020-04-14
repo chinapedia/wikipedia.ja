@@ -1,4 +1,4 @@
-> この記事は[V EPISODE 0](https://ja.wikipedia.org/wiki/V_EPISODE_0)から翻訳されています。
+> この記事は[サクラ大戦V EPISODE 0〜荒野のサムライ娘〜](https://ja.wikipedia.org/wiki/サクラ大戦V_EPISODE_0〜荒野のサムライ娘〜)から翻訳されています。
 
 
 『**サクラ大戦V EPISODE 0〜荒野のサムライ娘〜**』（サクラたいせんふぁいぶ えぴそーどぜろ こうやのサムライむすめ）は、[株式会社セガ](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")が[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に発売した[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。日本語、中国語、韓国語版が同時発売された\[1\]。

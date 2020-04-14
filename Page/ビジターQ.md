@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ビジターQ](https://ja.wikipedia.org/wiki/ビジターQ)から翻訳されています。
 
 
 『**ビジターQ**』（びじたーきゅー）は[三池崇史](../Page/三池崇史.md "wikilink")監督による[2001年](../Page/2001年.md "wikilink")製作の[日本映画](../Page/日本映画.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[AGM-65 ](https://ja.wikipedia.org/wiki/AGM-65_)から翻訳されています。
+> この記事は[AGM-65 マーベリック](https://ja.wikipedia.org/wiki/AGM-65_マーベリック)から翻訳されています。
 
 
 **AGM-65 マーベリック**（AGM-65 Maverick）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")製の[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")の一群である。「マベリック」や「マーヴェリック」とも表記される。

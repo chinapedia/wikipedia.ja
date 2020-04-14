@@ -1,4 +1,4 @@
-> この記事は[Girl](https://ja.wikipedia.org/wiki/Girl)から翻訳されています。
+> この記事は[黒Girl](https://ja.wikipedia.org/wiki/黒Girl)から翻訳されています。
 
 
 **黒Girl**は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ（[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[台湾正体字表記では](../Page/繁体字.md "wikilink")、**黑Girl**と書き、hēi Girl 「へい がーる」と発音する）。

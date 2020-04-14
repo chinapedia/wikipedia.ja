@@ -1,4 +1,4 @@
-> この記事は[Smile \(THE YELLOW MONKEY\)](https://ja.wikipedia.org/wiki/Smile_\(THE_YELLOW_MONKEY\))から翻訳されています。
+> この記事は[Smile \(THE YELLOW MONKEYのアルバム\)](https://ja.wikipedia.org/wiki/Smile_\(THE_YELLOW_MONKEYのアルバム\))から翻訳されています。
 
 
 『**smile**』（スマイル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")4枚目のオリジナルアルバム。

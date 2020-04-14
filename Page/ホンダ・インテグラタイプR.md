@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ホンダ・インテグラタイプR](https://ja.wikipedia.org/wiki/ホンダ・インテグラタイプR)から翻訳されています。
 
 
 **インテグラタイプR**（Integra type-R）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[クーペ](../Page/クーペ.md "wikilink")または[ハードトップ](../Page/ハードトップ.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。
@@ -37,7 +37,7 @@
 
 [2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、日本の人口構成の変化に伴い、クーペ型乗用車のニーズが減り、生産終了を発表した。同年6月\[1\]に生産終了後、翌年2月\[2\]を以って販売終了となった。
 
-2019年現在、海外の窃盗団による盗難が相次いでおり、注意が必要である。
+2019年現在、窃盗団による盗難が相次いでおり、注意が必要である。
 
 ファイル:HondaIntegraRacecar.jpg|スーパー耐久レース仕様車 ファイル:2001-2004 Honda Integra Type-R.jpg|前期型（2001年7月-2004年9月） ファイル:2001-2004 Honda Integra Type-R rear.jpg|前期型リア
 

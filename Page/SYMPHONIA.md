@@ -1,7 +1,7 @@
 > この記事は[SYMPHONIA](https://ja.wikipedia.org/wiki/SYMPHONIA)から翻訳されています。
 
 
-『**SYMPHONIA**』は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")の4枚目のソロアルバム（小暮伝衛門名義、\! \[EXCLAMATION\]名義等を合わせて）。
+『**SYMPHONIA**』（シンフォニア）は、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")（当時はデーモン小暮閣下）の4枚目のソロアルバム（小暮伝衛門名義、\! \[EXCLAMATION\]名義等を合わせて）。
 
 ## 概要
 

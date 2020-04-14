@@ -1,4 +1,4 @@
-> この記事は[SD \(\)](https://ja.wikipedia.org/wiki/SD_\(\))から翻訳されています。
+> この記事は[SDカード \(運転免許\)](https://ja.wikipedia.org/wiki/SDカード_\(運転免許\))から翻訳されています。
 
 
 **SDカード**（[英称](https://ja.wikipedia.org/wiki/英称 "wikilink")：*Safe Driver Card*）は、[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")が所管する[自動車安全運転センター](../Page/自動車安全運転センター.md "wikilink")が発行する無事故無違反の携帯用証明証である。

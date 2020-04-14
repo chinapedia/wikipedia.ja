@@ -1,4 +1,4 @@
-> この記事は[DRAGONBALL Z IMPACT](https://ja.wikipedia.org/wiki/DRAGONBALL_Z_IMPACT)から翻訳されています。
+> この記事は[DRAGONBALL Z 爆烈IMPACT](https://ja.wikipedia.org/wiki/DRAGONBALL_Z_爆烈IMPACT)から翻訳されています。
 
 
 『**ドラゴンボール Z 爆烈IMPACT**』（ドラゴンボールゼット ばくれつインパクト）は、[バンダイ](../Page/バンダイ.md "wikilink")より発売されている[トレーディングカード](../Page/トレーディングカード.md "wikilink")を使用する[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[データカードダス](../Page/データカードダス.md "wikilink")』の一つ。『[データカードダス ドラゴンボールZシリーズ](https://ja.wikipedia.org/wiki/データカードダス_ドラゴンボールZシリーズ "wikilink")』の3作目である。

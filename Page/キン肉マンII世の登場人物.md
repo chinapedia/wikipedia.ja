@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[キン肉マンII世の登場人物](https://ja.wikipedia.org/wiki/キン肉マンII世の登場人物)から翻訳されています。
 
 
 **キン肉マンII世の登場人物**（キンにくマンにせいのとうじょうじんぶつ）では、[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画およびテレビアニメ作品『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』に登場するキャラクターについて解説する。記事が分割された人物はリンク先、前作『[キン肉マン](../Page/キン肉マン.md "wikilink")』から引き続き登場している人物に関しては、[キン肉マンの登場人物](../Page/キン肉マンの登場人物.md "wikilink")も合わせて参照。『[キン肉マンII世〜オール超人大進撃〜](../Page/キン肉マンII世〜オール超人大進撃〜.md "wikilink")』に登場する人物については[キン肉マンII世〜オール超人大進撃〜\#登場人物](https://ja.wikipedia.org/wiki/キン肉マンII世〜オール超人大進撃〜#登場人物 "wikilink")を参照。

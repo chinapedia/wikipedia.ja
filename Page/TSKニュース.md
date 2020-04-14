@@ -1,4 +1,4 @@
-> この記事は[TSK](https://ja.wikipedia.org/wiki/TSK)から翻訳されています。
+> この記事は[TSKニュース](https://ja.wikipedia.org/wiki/TSKニュース)から翻訳されています。
 
 
 『**TSKニュース**』（ティーエスケーニュース）は、[山陰中央テレビで放送されていた](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。日曜昼の『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』のタイトル差し替えで放送されていた（協力：[山陰中央新報](../Page/山陰中央新報.md "wikilink")）。

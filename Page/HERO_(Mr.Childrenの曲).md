@@ -1,4 +1,4 @@
-> この記事は[HERO \(Mr.Children\)](https://ja.wikipedia.org/wiki/HERO_\(Mr.Children\))から翻訳されています。
+> この記事は[HERO \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/HERO_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**HERO**」（ヒーロー）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

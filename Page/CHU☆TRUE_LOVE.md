@@ -1,4 +1,4 @@
-> この記事は[CHUTRUE LOVE](https://ja.wikipedia.org/wiki/CHUTRUE_LOVE)から翻訳されています。
+> この記事は[CHU☆TRUE LOVE](https://ja.wikipedia.org/wiki/CHU☆TRUE_LOVE)から翻訳されています。
 
 
 『**CHU☆TRUE LOVE**』（チュー チュー ラブ）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,7 +1,7 @@
-> この記事は[VOX](https://ja.wikipedia.org/wiki/VOX)から翻訳されています。
+> この記事は[ヤマハ・VOX](https://ja.wikipedia.org/wiki/ヤマハ・VOX)から翻訳されています。
 
 
-**VOX**（ボックス）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が販売している[スクーター](../Page/スクーター.md "wikilink")タイプの[原動機付自転車](../Page/原動機付自転車.md "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。製造は[台湾ヤマハ](https://ja.wikipedia.org/wiki/台灣山葉機車工業 "wikilink")。
+**VOX**（ボックス）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が販売していた[スクーター](../Page/スクーター.md "wikilink")タイプの[原動機付自転車](../Page/原動機付自転車.md "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。製造は[台湾ヤマハ](https://ja.wikipedia.org/wiki/台灣山葉機車工業 "wikilink")。
 
 ## 概要
 

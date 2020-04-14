@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMニセコ放送](https://ja.wikipedia.org/wiki/FMニセコ放送)から翻訳されています。
 
 
 **FMニセコ放送株式会社**（エフエムニセコほうそう、*FM NISEKO Broadcasting*）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[虻田郡](../Page/虻田郡.md "wikilink")[倶知安町](../Page/倶知安町.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をしていた[一般放送事業者](https://ja.wikipedia.org/wiki/一般放送事業者#従前の定義 "wikilink")（現・民間[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")）である。 **FMニセコ**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしていた。

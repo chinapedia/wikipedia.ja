@@ -1,4 +1,4 @@
-> この記事は[ Liberty or Death](https://ja.wikipedia.org/wiki/_Liberty_or_Death)から翻訳されています。
+> この記事は[独立戦争 Liberty or Death](https://ja.wikipedia.org/wiki/独立戦争_Liberty_or_Death)から翻訳されています。
 
 
 『**独立戦争 Liberty or Death**』（どくりつせんそう リバティオアデス）は、[1993年](../Page/1993年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）が発売した[PC用](../Page/パーソナルコンピュータ.md "wikilink")[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。[アメリカ独立戦争](../Page/アメリカ独立戦争.md "wikilink")をテーマにしている。[1994年](../Page/1994年.md "wikilink")に[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用としても移植された。海外では[ジェネシス](../Page/メガドライブ.md "wikilink")（メガドライブ）にも移植されている。元々は海外向けにDOS用に発売したゲームで、日本で発売されたのはその移植版である。難易度はアメリカ側は比較的低く、イギリス側は高くなっている。

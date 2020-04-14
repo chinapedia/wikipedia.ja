@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ハロルド・C・ショーンバーグ](https://ja.wikipedia.org/wiki/ハロルド・C・ショーンバーグ)から翻訳されています。
 
 
 **ハロルド・チャールズ・ショーンバーグ**（ **Harold Charles Schonberg** [1915年](../Page/1915年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink") – [2003年](../Page/2003年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[音楽評論家](../Page/音楽評論家.md "wikilink")で[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")。主に『[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")』で活躍。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、音楽評論家として初の[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")（批評部門）の受賞者となる。音楽に関して多数の著書を残した他、[チェス](../Page/チェス.md "wikilink")についても一冊の著書がある。

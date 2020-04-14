@@ -1,4 +1,4 @@
-> この記事は[Scene of ](https://ja.wikipedia.org/wiki/Scene_of_)から翻訳されています。
+> この記事は[Scene of 創](https://ja.wikipedia.org/wiki/Scene_of_創)から翻訳されています。
 
 
 **Scene of 創**（シーン・オブ・そう）は、[ACIDMAN](../Page/ACIDMAN.md "wikilink")のファーストDVD。[2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[東芝EMIから発売](../Page/EMIミュージック・ジャパン.md "wikilink")。インディーズ時代からファーストアルバム「[創](../Page/創_\(アルバム\).md "wikilink")」までの[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")を収録。全ての監督は[小島淳二](../Page/小島淳二.md "wikilink")。

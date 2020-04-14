@@ -1,4 +1,4 @@
-> この記事は[Soul Camp \(\)](https://ja.wikipedia.org/wiki/Soul_Camp_\(\))から翻訳されています。
+> この記事は[Soul Camp \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Soul_Camp_\(音楽ユニット\))から翻訳されています。
 
 
 **Soul Camp**（そうる きゃんぷ）は、[沖縄出身の](../Page/沖縄県.md "wikilink")3人組[J-POP](../Page/J-POP.md "wikilink")・グループである。レーベルは[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。「Climax Entertainment」所属。

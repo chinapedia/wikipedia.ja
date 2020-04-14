@@ -18,7 +18,7 @@
   - 「[ぜんまいざむらい](../Page/ぜんまいざむらい.md "wikilink")」（[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")）
   - 「[はなうたくん](https://ja.wikipedia.org/wiki/はなうたくん "wikilink")」
   - 「バンジョーのジョー」
-  - 「ぞうのそうぞう」
+  - 「[ぞうのそうぞう](https://ja.wikipedia.org/wiki/ぞうのそうぞう "wikilink")」
   - 「あんしんセエメエ」（[東京海上日動あんしん生命](https://ja.wikipedia.org/wiki/東京海上日動あんしん生命 "wikilink")のキャラクター）
   - 「あくび猫」（[みんなのうた](../Page/みんなのうた.md "wikilink")2010年2月・3月）
   - 「[ソラカラちゃん](https://ja.wikipedia.org/wiki/ソラカラちゃん "wikilink")」（[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")の公式キャラクター）

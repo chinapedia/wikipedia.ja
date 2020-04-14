@@ -1,4 +1,4 @@
-> この記事は[GOOD](https://ja.wikipedia.org/wiki/GOOD)から翻訳されています。
+> この記事は[カンニンGOOD](https://ja.wikipedia.org/wiki/カンニンGOOD)から翻訳されています。
 
 
 『**カンニンGOOD**』（カンニングー）は、[毛内浩靖](https://ja.wikipedia.org/wiki/毛内浩靖 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")（[小学館](../Page/小学館.md "wikilink")）にて、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月](../Page/6月.md "wikilink")号から[2002年](../Page/2002年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")号まで連載された。単行本は全9巻。全45話。正式タイトルは『**究極カンニング漫画 カンニンGOOD**』（きゅうきょくカンニングまんが カンニングー）である。本作連載当時の単行本既刊一覧には『**カン・ニン・グー**』と紹介されることもあった。

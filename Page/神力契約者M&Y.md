@@ -1,4 +1,4 @@
-> この記事は[M\&Y](https://ja.wikipedia.org/wiki/M\&Y)から翻訳されています。
+> この記事は[神力契約者M\&Y](https://ja.wikipedia.org/wiki/神力契約者M\&Y)から翻訳されています。
 
 
 『**神力契約者M\&Y**』（コントラクター エムアンドワイ）は、[暁月あきら](../Page/暁月あきら.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。連載時の話数の単位は「契約（コントラクト）」。

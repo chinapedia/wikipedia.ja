@@ -1,4 +1,4 @@
-> この記事は[SEED DESTINY GENERATION of C.E.](https://ja.wikipedia.org/wiki/SEED_DESTINY_GENERATION_of_C.E.)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED DESTINY GENERATION of C.E.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E.)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED DESTINY GENERATION of C.E.**』（きどうせんしガンダム シードデスティニー ジェネレーション オブ コズミック・イラ）は、[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

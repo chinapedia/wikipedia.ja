@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iバス](https://ja.wikipedia.org/wiki/Iバス)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:OdakyuBus_F114_iBus.jpg "wikilink")

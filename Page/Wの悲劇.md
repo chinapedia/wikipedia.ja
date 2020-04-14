@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wの悲劇](https://ja.wikipedia.org/wiki/Wの悲劇)から翻訳されています。
 
 
 『**Wの悲劇**』（ダブリューのひげき）は、[夏樹静子](../Page/夏樹静子.md "wikilink")による日本の[推理小説](../Page/推理小説.md "wikilink")。[光文社](../Page/光文社.md "wikilink")[カッパ・ノベルス](https://ja.wikipedia.org/wiki/カッパ・ノベルス "wikilink")より[1982年](../Page/1982年.md "wikilink")2月に刊行された。日本有数の製薬会社・和辻薬品の会長有する[山中湖](../Page/山中湖.md "wikilink")畔の別荘を舞台に、女子大生・摩子による当主・与兵衛の刺殺事件を描く。[アメリカの推理作家](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[エラリー・クイーン](../Page/エラリー・クイーン.md "wikilink")が別名義で発表した推理小説「[悲劇4部作](https://ja.wikipedia.org/wiki/エラリー・クイーン#悲劇四部作（ドルリー・レーン） "wikilink")」（『[Xの悲劇](https://ja.wikipedia.org/wiki/Xの悲劇 "wikilink")』『[Yの悲劇](https://ja.wikipedia.org/wiki/Yの悲劇 "wikilink")』『[Zの悲劇](https://ja.wikipedia.org/wiki/Zの悲劇 "wikilink")』『[レーン最後の事件](https://ja.wikipedia.org/wiki/レーン最後の事件 "wikilink")』）への[オマージュ](../Page/オマージュ.md "wikilink")として執筆され\[1\]、題名の「W」はXYZに次ぐ第4の未知数、悲劇の舞台となる和辻家、そして女性（Women）を表している。
@@ -382,7 +382,7 @@
 
 [NHK BS4Kにて](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")[2020年](../Page/2020年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")の19時から20時29分に放送。
 
-[NHKにて](../Page/NHK総合テレビジョン.md "wikilink")[2020年](../Page/2020年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の22時から23時30分に放送。
+[NHK総合にて](../Page/NHK総合テレビジョン.md "wikilink")2020年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の22時から23時30分に放送。
 
 ### キャスト（2019年版）
 

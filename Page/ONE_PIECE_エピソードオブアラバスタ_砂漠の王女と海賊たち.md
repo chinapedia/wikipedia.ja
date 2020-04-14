@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE  ](https://ja.wikipedia.org/wiki/ONE_PIECE__)から翻訳されています。
+> この記事は[ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブアラバスタ_砂漠の王女と海賊たち)から翻訳されています。
 
 
 『**ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち**』（ワンピース エピソードオブアラバスタ さばくのおうじょとかいぞくたち）は、[2007年](../Page/2007年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")8作目。

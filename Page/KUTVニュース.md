@@ -1,4 +1,4 @@
-> この記事は[KUTV](https://ja.wikipedia.org/wiki/KUTV)から翻訳されています。
+> この記事は[KUTVニュース](https://ja.wikipedia.org/wiki/KUTVニュース)から翻訳されています。
 
 
 『**KUTVニュース**』（ケーユーティーヴィーニュース）は、[テレビ高知](../Page/テレビ高知.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")。原則として平日の午後と一部の曜日の21時台 - 22時台に5分間、週末の全国ニュースの後に10分間設置されている。

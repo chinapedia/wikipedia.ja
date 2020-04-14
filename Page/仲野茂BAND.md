@@ -1,4 +1,4 @@
-> この記事は[BAND](https://ja.wikipedia.org/wiki/BAND)から翻訳されています。
+> この記事は[仲野茂BAND](https://ja.wikipedia.org/wiki/仲野茂BAND)から翻訳されています。
 
 
 **仲野茂BAND**（なかのしげるバンド）は、[1990年代](../Page/1990年代.md "wikilink")半ばに活躍した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

@@ -13,6 +13,7 @@
 
 ## 関連項目
 
+  - [初代](https://ja.wikipedia.org/wiki/初代 "wikilink")
   - [携帯電話](../Page/携帯電話.md "wikilink")
   - [モトローラ](../Page/モトローラ.md "wikilink")
   - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")

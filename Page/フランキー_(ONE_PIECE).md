@@ -1,4 +1,4 @@
-> この記事は[ \(ONE PIECE\)](https://ja.wikipedia.org/wiki/_\(ONE_PIECE\))から翻訳されています。
+> この記事は[フランキー \(ONE PIECE\)](https://ja.wikipedia.org/wiki/フランキー_\(ONE_PIECE\))から翻訳されています。
 
 
 **フランキー**（Franky）は、[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』に登場する架空の人物。

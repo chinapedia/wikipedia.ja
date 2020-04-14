@@ -1,4 +1,4 @@
-> この記事は[Sky \(\)](https://ja.wikipedia.org/wiki/Sky_\(\))から翻訳されています。
+> この記事は[Sky \(堀江由衣のアルバム\)](https://ja.wikipedia.org/wiki/Sky_\(堀江由衣のアルバム\))から翻訳されています。
 
 
 『**sky**』（スカイ）は、[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にリリースされた[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")（スタジオ録音アルバム）。

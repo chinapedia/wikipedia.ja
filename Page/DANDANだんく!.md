@@ -1,4 +1,4 @@
-> この記事は[DANDAN!](https://ja.wikipedia.org/wiki/DANDAN!)から翻訳されています。
+> この記事は[DANDANだんく!](https://ja.wikipedia.org/wiki/DANDANだんく!)から翻訳されています。
 
 
 『**DANDANだんく\!** 』（だんだんだんく\!）は、[とだ勝之](../Page/とだ勝之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1993年](../Page/1993年.md "wikilink")9月号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月号にかけて『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）に連載された[ストリートボール](../Page/ストリートボール.md "wikilink")漫画。最終回は実名のキャラを除いて、全キャラが登場している。

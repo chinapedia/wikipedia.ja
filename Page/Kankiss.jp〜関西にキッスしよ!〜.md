@@ -1,4 +1,4 @@
-> この記事は[Kankiss.jp!](https://ja.wikipedia.org/wiki/Kankiss.jp!)から翻訳されています。
+> この記事は[Kankiss.jp〜関西にキッスしよ!〜](https://ja.wikipedia.org/wiki/Kankiss.jp〜関西にキッスしよ!〜)から翻訳されています。
 
 
 **kankiss.jp〜関西にキッスしよ\!〜**（カンキス・ドット・ジェイピー・かんさいに-）は[Kiss-FM KOBEで毎週金曜の](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")16:00 - 19:55（[JST](../Page/日本標準時.md "wikilink")）に放送されていた生ワイド番組。

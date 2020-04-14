@@ -1,4 +1,4 @@
-> この記事は[MF](https://ja.wikipedia.org/wiki/MF)から翻訳されています。
+> この記事は[MFコミックス](https://ja.wikipedia.org/wiki/MFコミックス)から翻訳されています。
 
 
 **MFコミックス**（エムエフコミックス）は、株式会社[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")ブランド）が刊行する[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")単行本のレーベル。

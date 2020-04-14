@@ -1,4 +1,4 @@
-> この記事は[First Love \(\)](https://ja.wikipedia.org/wiki/First_Love_\(\))から翻訳されています。
+> この記事は[First Love \(宇多田ヒカルの曲\)](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルの曲\))から翻訳されています。
 
 
 「**First Love**」（ファースト・ラヴ）は、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")発売。
@@ -115,6 +115,7 @@
   - 2016年、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（アルバム『[歌](https://ja.wikipedia.org/wiki/歌_\(渋谷すばるのアルバム\) "wikilink")』に収録）
   - 2018年、[島津亜矢](../Page/島津亜矢.md "wikilink")（アルバム『SINGER5』に収録）
   - 2019年、[富士葵](https://ja.wikipedia.org/wiki/富士葵 "wikilink")（カバーアルバム『[声 〜Cover ch.〜](https://ja.wikipedia.org/wiki/声_〜Cover_ch.〜 "wikilink")』に収録）
+  - 2019年、[ジェジュン](../Page/ジェジュン.md "wikilink")（カバーアルバム『[Love Covers](https://ja.wikipedia.org/wiki/Love_Covers "wikilink")』に収録）
 
 ## 脚注
 

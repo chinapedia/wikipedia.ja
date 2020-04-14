@@ -1,4 +1,4 @@
-> この記事は[GENJI --](https://ja.wikipedia.org/wiki/GENJI_--)から翻訳されています。
+> この記事は[GENJI -神威奏乱-](https://ja.wikipedia.org/wiki/GENJI_-神威奏乱-)から翻訳されています。
 
 
 『**GENJI -神威奏乱-**』（ゲンジ かむいそうらん）は、[PLAYSTATION 3用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。株式会社[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")制作。

@@ -1,4 +1,4 @@
-> この記事は[Ken Hirai 10th Anniversary Complete Single Collection \'95-\'05 ](https://ja.wikipedia.org/wiki/Ken_Hirai_10th_Anniversary_Complete_Single_Collection_\'95-\'05_)から翻訳されています。
+> この記事は[Ken Hirai 10th Anniversary Complete Single Collection \'95-\'05 歌バカ](https://ja.wikipedia.org/wiki/Ken_Hirai_10th_Anniversary_Complete_Single_Collection_\'95-\'05_歌バカ)から翻訳されています。
 
 
 『**Ken Hirai 10th Anniversary Complete Single Collection '95-'05 歌バカ**』（ケン・ヒライ テンス・アニバーサリー コンプリート・シングル・コレクション ナインティー・ファイブ ゼロ・ファイブ うたバカ）は、[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")より発売。

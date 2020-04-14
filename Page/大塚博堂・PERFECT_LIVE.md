@@ -1,4 +1,4 @@
-> この記事は[PERFECT LIVE](https://ja.wikipedia.org/wiki/PERFECT_LIVE)から翻訳されています。
+> この記事は[大塚博堂・PERFECT LIVE](https://ja.wikipedia.org/wiki/大塚博堂・PERFECT_LIVE)から翻訳されています。
 
 
 『**大塚博堂・PERFECT LIVE**』（おおつかはくどう・パーフェクトライブ）は、[1984年](../Page/1984年.md "wikilink")に発売された2枚組のライブアルバム。 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された『[大塚博堂ライブ](../Page/大塚博堂ライブ.md "wikilink")』と同じ音源（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に行われた[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ）だが、こちらは全曲入っている完全版である。

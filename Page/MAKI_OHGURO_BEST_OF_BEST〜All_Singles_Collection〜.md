@@ -1,4 +1,4 @@
-> この記事は[MAKI OHGURO BEST OF BESTAll Singles Collection](https://ja.wikipedia.org/wiki/MAKI_OHGURO_BEST_OF_BESTAll_Singles_Collection)から翻訳されています。
+> この記事は[MAKI OHGURO BEST OF BEST〜All Singles Collection〜](https://ja.wikipedia.org/wiki/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜)から翻訳されています。
 
 
 『**MAKI OHGURO BEST OF BEST〜All Singles Collection〜**』（マキ・オオグロ・ベスト・オブ・ベスト オール・シングルス・コレクション）は、 [1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の公認[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はJBCJ-1028/1029\[1\]。

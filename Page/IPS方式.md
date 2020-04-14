@@ -1,4 +1,4 @@
-> この記事は[IPS](https://ja.wikipedia.org/wiki/IPS)から翻訳されています。
+> この記事は[IPS方式](https://ja.wikipedia.org/wiki/IPS方式)から翻訳されています。
 
 
 [IPS_logo.jpg](https://ja.wikipedia.org/wiki/File:IPS_logo.jpg "fig:IPS_logo.jpg") **IPS方式**（IPSほうしき）とは In Plane Switching の略で[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の一形式。

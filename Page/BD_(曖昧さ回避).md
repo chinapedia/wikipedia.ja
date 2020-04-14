@@ -1,4 +1,4 @@
-> この記事は[BD \(\)](https://ja.wikipedia.org/wiki/BD_\(\))から翻訳されています。
+> この記事は[BD \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/BD_\(曖昧さ回避\))から翻訳されています。
 
 
 **BD**、**Bd**、**bd**

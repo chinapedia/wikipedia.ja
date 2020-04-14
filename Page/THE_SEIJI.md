@@ -100,7 +100,7 @@
 
   - [THE SEIJI HOMEPAGE](http://theseiji.sakura.ne.jp/)
 
-[Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:京都市立芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:京都市立芸術大学出身の人物 "wikilink") [Category:愛媛県出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県出身の人物 "wikilink") [Category:日本出身の双子](https://ja.wikipedia.org/wiki/Category:日本出身の双子 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本出身の双子](https://ja.wikipedia.org/wiki/Category:日本出身の双子 "wikilink") [Category:京都市立芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:京都市立芸術大学出身の人物 "wikilink") [Category:愛媛県出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [公式サイトのプロフィール](http://theseiji.sakura.ne.jp/PURO.htm)より。
 2.  [芥川賞に吉村萬壱さん、直木賞に石田衣良・村山由佳さん ： 中国輸入 掲示板 アリババ](http://club.alibaba.co.jp/topic/topicDetail/1814.htm) - 双子の兄の吉村萬壱が愛媛県出身である事から類推。

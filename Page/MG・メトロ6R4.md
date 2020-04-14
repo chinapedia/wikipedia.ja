@@ -1,4 +1,4 @@
-> この記事は[MG6R4](https://ja.wikipedia.org/wiki/MG6R4)から翻訳されています。
+> この記事は[MG・メトロ6R4](https://ja.wikipedia.org/wiki/MG・メトロ6R4)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:MG_Metro_6R4_001.JPG "wikilink") **MG・メトロ6R4**とは、[MGブランドで](../Page/MG_\(自動車\).md "wikilink")[ブリティッシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティッシュ・レイランド "wikilink")が開発した[グループB](../Page/グループB.md "wikilink")車両である。

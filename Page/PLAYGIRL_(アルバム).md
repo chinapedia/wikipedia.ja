@@ -1,4 +1,4 @@
-> この記事は[PLAYGIRL \(\)](https://ja.wikipedia.org/wiki/PLAYGIRL_\(\))から翻訳されています。
+> この記事は[PLAYGIRL \(アルバム\)](https://ja.wikipedia.org/wiki/PLAYGIRL_\(アルバム\))から翻訳されています。
 
 
 『**PLAYGIRL**』（プレイガール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")が[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[GIZA studioから発売した](../Page/GIZA_studio.md "wikilink")4枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

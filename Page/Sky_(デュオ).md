@@ -1,4 +1,4 @@
-> この記事は[Sky \(\)](https://ja.wikipedia.org/wiki/Sky_\(\))から翻訳されています。
+> この記事は[Sky \(デュオ\)](https://ja.wikipedia.org/wiki/Sky_\(デュオ\))から翻訳されています。
 
 
 **Sky**（スカイ）は[大阪府](../Page/大阪府.md "wikilink")出身の[姉妹](../Page/姉妹.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[デュオ](../Page/デュオ.md "wikilink")。2010年4月にシングル「夢ひとつ -2010Special-」でユニバーサルミュージックよりメジャーデビュー[UNIVERSAL J](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2010年6月にミニアルバム「相支相合」をリリース。2014年12月よりOffice Aiso-L(アイソール)として独立。楽曲制作やライブなど音楽活動を中心にしながら、レポーターやモデルなど幅広く活動している。

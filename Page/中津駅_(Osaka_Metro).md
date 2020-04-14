@@ -1,0 +1,123 @@
+> この記事は[中津駅 \(Osaka Metro\)](https://ja.wikipedia.org/wiki/中津駅_\(Osaka_Metro\))から翻訳されています。
+
+
+**中津駅**（なかつえき）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[中津一丁目にある](../Page/中津_\(大阪市\).md "wikilink")[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro) の[駅である](../Page/鉄道駅.md "wikilink")。[駅番号は](../Page/駅ナンバリング.md "wikilink")**M15**。
+
+[阪急電鉄](../Page/阪急電鉄.md "wikilink")の[中津駅とは約](https://ja.wikipedia.org/wiki/中津駅_\(阪急\) "wikilink")300m離れているため、乗り換えの案内はない。過去には[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")[北大阪線も付近を通り](../Page/阪神北大阪線.md "wikilink")、同線にも中津駅があったが（阪急の中津駅に近かった）、廃止され現存しない。
+
+。
+
+## 歴史
+
+  - [1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[9月24日](../Page/9月24日.md "wikilink")：1号線（御堂筋線）梅田 - 新大阪間延伸開通と同時に開業。
+  - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[2月13日](../Page/2月13日.md "wikilink")：合区により駅の所在地が[大淀区](../Page/大淀区.md "wikilink")から北区に変更となる。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[4月1日](../Page/4月1日.md "wikilink")：[大阪市交通局](https://ja.wikipedia.org/wiki/大阪市交通局 "wikilink")の民営化により、所属事業者・管轄が大阪市高速電気軌道 (Osaka Metro) に変更。
+
+## 駅構造
+
+[島式ホーム](https://ja.wikipedia.org/wiki/島式ホーム "wikilink")1面2線を有する[地下駅](../Page/地下駅.md "wikilink")である。構想当初は、[天王寺駅](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")と同じように2面3線のホーム計画であった\[1\]\[2\]
+
+ホームの幅員は7m\[3\]で10両編成に対応しており、千里中央寄りにY字形の[折り返し線がある](../Page/引き上げ線.md "wikilink")。[改札](../Page/改札.md "wikilink")口は新大阪寄りに北北改札および北南改札が、梅田寄りに南改札が設けられている。
+
+昇降設備は、ホームから改札へは北南改札内にエレベーターがあり、南改札内に上りエスカレーターがある。改札から地上へは2番と5番出入口にエレベーターがある。
+
+トイレは北北改札外横に女性用、北南改札内に男性用となっており、オストメイトに対応した多機能トイレがある。南改札外にもトイレがある。
+
+### のりば
+
+| 番線 | 路線                                                                                                                                                                  | 行先                                                                                                                                                                                                                                     |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | [Osaka_Metro_Midosuji_line_symbol.svg](https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg "fig:Osaka_Metro_Midosuji_line_symbol.svg") 御堂筋線 | [梅田](https://ja.wikipedia.org/wiki/梅田駅_\(Osaka_Metro\) "wikilink")・[なんば](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")・[天王寺](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")・[なかもず方面](../Page/中百舌鳥駅.md "wikilink")\[4\] |
+| 2  | [新大阪](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")・[千里中央方面](https://ja.wikipedia.org/wiki/千里中央駅 "wikilink")\[5\]                                                  |                                                                                                                                                                                                                                        |
+
+  - 天王寺方面からの列車のうち、朝夕ラッシュ時間帯の列車の約4分の1、23時以降の列車の約半数が当駅で折り返す。
+
+ファイル:OsakaMetro-Nakatsu-Station-renewal-platform.jpg|リニューアル後のホーム（2020年2月15日撮影） ファイル:Osaka City Subway Nakatsu Sta Home Midousuji Line.jpg|リニューアル前のホーム ファイル:OsakaMetro-Nakatsu-Station-renewal-South-Gate.jpg|リニューアル後の南改札口（2020年2月15日撮影） ファイル:Osakametro-nakatsu.jpg|リニューアル前の南改札口 ファイル:OsakaMetro-Nakatsu-Station-renewal-North-Gate.jpg|リニューアル後の北北改札口（2020年2月15日撮影）
+
+## 利用状況
+
+2018年11月13日の1日[乗降人員](../Page/乗降人員.md "wikilink")は**40,678人**（乗車人員：20,290人、降車人員：20,388人）である\[6\]。
+
+| 年度    | 調査日        | 乗車人員   | 降車人員   | 乗降人員   |
+| ----- | ---------- | ------ | ------ | ------ |
+| 1990年 | 11月6日      | 22,585 | 22,826 | 45,411 |
+| 1995年 | \[7\]2月15日 | 22,612 | 22,563 | 45,175 |
+| 1998年 | 11月10日     | 21,479 | 24,020 | 45,499 |
+| 2007年 | 11月13日     | 20,610 | 21,230 | 41,840 |
+| 2008年 | 11月11日     | 19,795 | 20,567 | 40,362 |
+| 2009年 | 11月10日     | 20,384 | 20,763 | 41,147 |
+| 2010年 | 11月9日      | 20,141 | 20,768 | 40,909 |
+| 2011年 | 11月8日      | 19,845 | 20,319 | 40,164 |
+| 2012年 | 11月13日     | 20,580 | 20,954 | 41,534 |
+| 2013年 | 11月19日     | 19,447 | 19,835 | 39,282 |
+| 2014年 | 11月11日     | 19,024 | 19,279 | 38,303 |
+| 2015年 | 11月17日     | 20,250 | 20,298 | 40,548 |
+| 2016年 | 11月8日      | 20,009 | 19,864 | 39,873 |
+| 2017年 | 11月14日     | 20,301 | 20,109 | 40,410 |
+| 2018年 | 11月13日     | 20,290 | 20,388 | 40,678 |
+
+年度別利用状況（大阪府統計年鑑より）
+
+## 駅周辺
+
+  - 中津中央公園
+  - 豊崎西公園
+  - 北スポーツセンター
+  - [大阪府大淀警察署](https://ja.wikipedia.org/wiki/大淀警察署 "wikilink")
+  - 大淀税務署
+  - [大阪北郵便局](https://ja.wikipedia.org/wiki/大阪北郵便局 "wikilink")
+  - 大阪中津郵便局
+  - 大阪豊崎郵便局
+  - [大阪府済生会中津病院](https://ja.wikipedia.org/wiki/大阪府済生会中津病院 "wikilink")
+  - [河合塾](../Page/河合塾.md "wikilink")大阪校・大阪校医進館
+  - [ピアスタワー](../Page/ピアスタワー.md "wikilink")
+  - [プラザモータープール](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#高速バス#非_バス停/バスターミナル#プラザモータープール "wikilink")（[高速バス](../Page/高速バス.md "wikilink")・[ツアーバス](../Page/ツアーバス.md "wikilink")の出発地）
+  - [ホテルサンルート梅田](../Page/サンルートホテルチェーン.md "wikilink")
+  - [ちゃやまちアプローズ](../Page/ちゃやまちアプローズ.md "wikilink")
+      - [ホテル阪急インターナショナル](https://ja.wikipedia.org/wiki/ホテル阪急インターナショナル "wikilink")
+      - [梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")
+      - 阪急茶屋町ビル内郵便局
+  - [梅田ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")
+  - [毎日放送](../Page/毎日放送.md "wikilink")本社
+  - [国道176号](../Page/国道176号.md "wikilink")
+  - [カトリック大阪梅田教会](../Page/カトリック教会.md "wikilink") - [上智大学](../Page/上智大学.md "wikilink")の大阪サテライトキャンパスが2階に併設されている。
+
+## バス路線
+
+[大阪シティバス](../Page/大阪シティバス.md "wikilink")*' 地下鉄中津停留所*'
+
+  - 34号系統：[大阪駅前行き](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#大阪駅前停留所（大阪シティバス） "wikilink")／[守口車庫前行き](../Page/大阪シティバス守口営業所.md "wikilink")
+
+## 隣の駅
+
+  - [大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro)
+    [Osaka_Metro_Midosuji_line_symbol.svg](https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg "fig:Osaka_Metro_Midosuji_line_symbol.svg") 御堂筋線
+      -
+        [西中島南方駅](../Page/西中島南方駅.md "wikilink") (M14) - **中津駅 (M15)** - [梅田駅](https://ja.wikipedia.org/wiki/梅田駅_\(Osaka_Metro\) "wikilink") (M16)
+    <!-- end list -->
+      - ( ) 内は駅番号を示す。
+
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 関連項目
+
+  - [日本の鉄道駅一覧](../Page/日本の鉄道駅一覧.md "wikilink")
+  - [日本の同一駅名・同一市町村で所在地が異なる駅の一覧](../Page/日本の同一駅名・同一市町村で所在地が異なる駅の一覧.md "wikilink")
+
+## 外部リンク
+
+  - [中津駅](https://subway.osakametro.co.jp/station_guide/M/m15/index.php) - Osaka Metro
+
+[Category:大阪市北区の鉄道駅](https://ja.wikipedia.org/wiki/Category:大阪市北区の鉄道駅 "wikilink") [Category:日本の鉄道駅_な](https://ja.wikipedia.org/wiki/Category:日本の鉄道駅_な "wikilink") [Category:大阪市高速電気軌道の鉄道駅](https://ja.wikipedia.org/wiki/Category:大阪市高速電気軌道の鉄道駅 "wikilink") [Category:大阪市交通局の鉄道駅](https://ja.wikipedia.org/wiki/Category:大阪市交通局の鉄道駅 "wikilink") [Category:1964年開業の鉄道駅](https://ja.wikipedia.org/wiki/Category:1964年開業の鉄道駅 "wikilink")
+
+1.  『大阪市高速鐵道建設沿革誌概要』、昭和18年2月
+2.
+3.  石本隆一『大阪の地下鉄―創業期から現在までの全車両・全路線を詳細解説-』産調出版、1999年、ISBN 4-88282-206-7、p.95
+4.
+5.
+6.   - Osaka Metro
+7.  1996年に行われた調査であるが、[会計年度](../Page/会計年度.md "wikilink")上は1995年度となる。

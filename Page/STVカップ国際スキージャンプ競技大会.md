@@ -1,4 +1,4 @@
-> この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
+> この記事は[STVカップ国際スキージャンプ競技大会](https://ja.wikipedia.org/wiki/STVカップ国際スキージャンプ競技大会)から翻訳されています。
 
 
 [thumbnail](https://ja.wikipedia.org/wiki/ファイル:Ohkurayama_Schanze.jpg "wikilink") **[STVカップ国際スキージャンプ競技大会](../Page/札幌テレビ放送.md "wikilink")**（エスティーブイカップこくさいスキージャンプきょうぎたいかい）は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。

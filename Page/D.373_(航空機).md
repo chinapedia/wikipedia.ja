@@ -1,4 +1,4 @@
-> この記事は[D.373 \(\)](https://ja.wikipedia.org/wiki/D.373_\(\))から翻訳されています。
+> この記事は[D.373 \(航空機\)](https://ja.wikipedia.org/wiki/D.373_\(航空機\))から翻訳されています。
 
 
 | D.373                                                                                                     |

@@ -1,4 +1,4 @@
-> この記事は[FOREVER YOUNG \(\)](https://ja.wikipedia.org/wiki/FOREVER_YOUNG_\(\))から翻訳されています。
+> この記事は[FOREVER YOUNG \(コンピレーションアルバム\)](https://ja.wikipedia.org/wiki/FOREVER_YOUNG_\(コンピレーションアルバム\))から翻訳されています。
 
 
 『**FOREVER YOUNG**』（フォーエヴァー・ヤング）は、[ユニバーサルミュージック・ダイレクトが企画](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・発売する[通販専用CDボックスである](../Page/通販CD.md "wikilink")。
@@ -125,7 +125,7 @@
 | 06 | [無縁坂](../Page/無縁坂_\(曲\).md "wikilink")                                       | 1975年11月25日                                                                    |             |                                                      |
 | 07 | [酒と泪と男と女](https://ja.wikipedia.org/wiki/酒と泪と男と女 "wikilink")                  | [河島英五](../Page/河島英五.md "wikilink")                                             | 1976年6月25日  | [日音](../Page/日音.md "wikilink")                       |
 | 08 | [気分を変えて](https://ja.wikipedia.org/wiki/気分を変えて "wikilink")                    | [山崎ハコ](../Page/山崎ハコ.md "wikilink")                                             |             | [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")           |
-| 09 | [あゝ青春](https://ja.wikipedia.org/wiki/あゝ青春 "wikilink")                        | [トランザム](https://ja.wikipedia.org/wiki/トランザム_\(バンド\) "wikilink")                |             | ユニバーサルミュージック                                         |
+| 09 | [あゝ青春](../Page/あゝ青春.md "wikilink")                                           | [トランザム](https://ja.wikipedia.org/wiki/トランザム_\(バンド\) "wikilink")                |             | ユニバーサルミュージック                                         |
 | 10 | [明日に向って走れ](https://ja.wikipedia.org/wiki/明日に向って走れ#シングル「明日に向って走れ」 "wikilink") | [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")                          | 1976年3月25日  | [フォーライフ](../Page/フォーライフミュージックエンタテイメント.md "wikilink") |
 | 11 | [線香花火](https://ja.wikipedia.org/wiki/線香花火_\(さだまさしの曲\) "wikilink")            | [さだまさし](../Page/さだまさし.md "wikilink")                                           | 1976年11月25日 | ワーナーミュージック                                           |
 | 12 | [案山子](https://ja.wikipedia.org/wiki/案山子_\(さだまさしの曲\) "wikilink")              | 1977年11月25日                                                                    |             |                                                      |

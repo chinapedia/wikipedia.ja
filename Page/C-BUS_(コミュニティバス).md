@@ -1,4 +1,4 @@
-> この記事は[C-BUS \(\)](https://ja.wikipedia.org/wiki/C-BUS_\(\))から翻訳されています。
+> この記事は[C-BUS \(コミュニティバス\)](https://ja.wikipedia.org/wiki/C-BUS_\(コミュニティバス\))から翻訳されています。
 
 
 **鈴鹿市コミュニティバス**（すずかしコミュニティバス）は、[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[3月10日](../Page/3月10日.md "wikilink")より[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鈴鹿市](../Page/鈴鹿市.md "wikilink")西部で運行を開始した[コミュニティバス](../Page/コミュニティバス.md "wikilink")。[愛称](../Page/愛称.md "wikilink")は、Community、City、Civilの頭文字をとり、**C-BUS**と名づけられている。運行は[三重交通](../Page/三重交通.md "wikilink")に[委託](https://ja.wikipedia.org/wiki/委託 "wikilink")されている。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Suzuka_city_C-BUS.jpg "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[happy](https://ja.wikipedia.org/wiki/happy)から翻訳されています。
+> この記事は[山中つよしの美・happy](https://ja.wikipedia.org/wiki/山中つよしの美・happy)から翻訳されています。
 
 
 **山中つよしの美・happy**（やまなかつよしのび・はっぴー）は、[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")）が毎週日曜日に放送していたラジオ番組である。2004年10月放送開始、2011年10月放送終了。

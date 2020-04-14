@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[山口まゆ \(AV女優\)](https://ja.wikipedia.org/wiki/山口まゆ_\(AV女優\))から翻訳されています。
 
 
 **山口 まゆ**（やまぐち -、[1984年](../Page/1984年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") -）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](../Page/ストリッパー一覧.md "wikilink")。別名、**姫咲 ゆき**（ひめさき ゆき）。

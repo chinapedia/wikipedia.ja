@@ -1,4 +1,4 @@
-> この記事は[UL \(\)](https://ja.wikipedia.org/wiki/UL_\(\))から翻訳されています。
+> この記事は[UL \(安全機関\)](https://ja.wikipedia.org/wiki/UL_\(安全機関\))から翻訳されています。
 
 
 **UL LLC**（以下UL）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")ノースブルックに本拠を構え、[試験](https://ja.wikipedia.org/wiki/試験 "wikilink")、[検査](https://ja.wikipedia.org/wiki/検査 "wikilink")および[認証](../Page/認証.md "wikilink")を行う企業。認証企業として、世界10位前後の規模を持つ\[1\]。

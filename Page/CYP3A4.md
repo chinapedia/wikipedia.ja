@@ -227,7 +227,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/サキナビル" title="wikilink">サキナビル</a>[125][126]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ネルフィナビル" title="wikilink">ネルフィナビル</a>[127][128]</li>
 </ul></li>
-<li>非ヌクレオシド<a href="https://ja.wikipedia.org/wiki/逆転写酵素阻害剤" title="wikilink">逆転写酵素阻害剤</a>
+<li>非ヌクレオシド<a href="../Page/逆転写酵素阻害剤.md" title="wikilink">逆転写酵素阻害剤</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/ネビラピン" title="wikilink">ネビラピン</a>[129]</li>
 </ul></li>
@@ -322,7 +322,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/リファンピシン" title="wikilink">リファンピシン</a>[190][191]</li>
 <li><a href="https://ja.wikipedia.org/wiki/リファブチン" title="wikilink">リファブチン</a>[192][193]</li>
 </ul></li>
-<li>一部の非ヌクレオシド<a href="https://ja.wikipedia.org/wiki/逆転写酵素阻害剤" title="wikilink">逆転写酵素阻害剤</a>
+<li>一部の非ヌクレオシド<a href="../Page/逆転写酵素阻害剤.md" title="wikilink">逆転写酵素阻害剤</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/エファビレンツ" title="wikilink">エファビレンツ</a>[194]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ネビラピン" title="wikilink">ネビラピン</a>[195]</li>

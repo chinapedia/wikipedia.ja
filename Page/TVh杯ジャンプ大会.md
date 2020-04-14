@@ -1,4 +1,4 @@
-> この記事は[TVh](https://ja.wikipedia.org/wiki/TVh)から翻訳されています。
+> この記事は[TVh杯ジャンプ大会](https://ja.wikipedia.org/wiki/TVh杯ジャンプ大会)から翻訳されています。
 
 
 **[TVh杯ジャンプ大会兼札幌スキー連盟会長杯ジャンプ大会](../Page/テレビ北海道.md "wikilink")**は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。「兼札幌スキー連盟会長杯」と銘打たれているが、札幌スキー連盟名誉会長の[伊藤義郎](https://ja.wikipedia.org/wiki/伊藤義郎 "wikilink")はテレビ北海道の初代社長であり、同局の開局に大いに寄与した伊藤が名誉会長を務める[伊藤組土建](https://ja.wikipedia.org/wiki/伊藤組土建 "wikilink")は[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")に次ぐTVhの第2位の大株主となっている。

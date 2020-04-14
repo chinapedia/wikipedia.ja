@@ -1,4 +1,4 @@
-> この記事は[M!](https://ja.wikipedia.org/wiki/M!)から翻訳されています。
+> この記事は[ダイヤルMを廻せ!](https://ja.wikipedia.org/wiki/ダイヤルMを廻せ!)から翻訳されています。
 
 
 [_Dial_M_for_Murder2.jpg](https://ja.wikipedia.org/wiki/File:_Dial_M_for_Murder2.jpg "fig:_Dial_M_for_Murder2.jpg") 『**ダイヤルMを廻せ\!**』（ダイヤルエムをまわせ\!、原題：*Dial M for Murder*）は、[1954年に制作された](https://ja.wikipedia.org/wiki/1954年の映画 "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")監督による[サスペンス](../Page/サスペンス映画.md "wikilink")・ミステリー映画。原作は[フレデリック・ノットによる同じタイトルの舞台劇で](https://ja.wikipedia.org/wiki/:en:Frederick_Knott "wikilink")、ノットは本作の脚本も手がけている。[立体映画](https://ja.wikipedia.org/wiki/立体映画 "wikilink")（3D映画）として制作された。配給は[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")。
@@ -29,22 +29,108 @@
 
 ## キャスト
 
-| 役名                                      | 俳優                                                                       | 日本語吹替                                                |
-| --------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------- |
-| [NETテレビ旧版](../Page/テレビ朝日.md "wikilink") | NETテレビ新版                                                                 | [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")版 |
-| トニー                                     | [レイ・ミランド](../Page/レイ・ミランド.md "wikilink")                                 | [加藤和夫](../Page/加藤和夫.md "wikilink")                   |
-| マーゴ                                     | [グレース・ケリー](https://ja.wikipedia.org/wiki/グレース・ケリー "wikilink")            | [野口ふみえ](../Page/野口ふみえ.md "wikilink")                 |
-| マーク・ハリディ                                | [ロバート・カミングス](https://ja.wikipedia.org/wiki/ロバート・カミングス "wikilink")        | [小林恭治](../Page/小林恭治.md "wikilink")                   |
-| ハバード警部                                  | [ジョン・ウィリアムズ](https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_\(俳優\) "wikilink") | [小林昭二](../Page/小林昭二.md "wikilink")                   |
-| スワン                                     | [アンソニー・ドーソン](../Page/アンソニー・ドーソン.md "wikilink")                           | [村越伊知郎](../Page/村越伊知郎.md "wikilink")                 |
+<table>
+<thead>
+<tr class="header">
+<th><p>役名</p></th>
+<th><p>俳優</p></th>
+<th><p>日本語吹替</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">NETテレビ旧版</a></p></td>
+<td><p>NETテレビ新版</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBS" title="wikilink">TBS</a>版</p></td>
+</tr>
+<tr class="even">
+<td><p>トニー</p></td>
+<td><p><a href="../Page/レイ・ミランド.md" title="wikilink">レイ・ミランド</a></p></td>
+<td><p><a href="../Page/加藤和夫.md" title="wikilink">加藤和夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>マーゴ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/グレース・ケリー" title="wikilink">グレース・ケリー</a></p></td>
+<td><p><a href="../Page/野口ふみえ.md" title="wikilink">野口ふみえ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>マーク・ハリディ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロバート・カミングス" title="wikilink">ロバート・カミングス</a></p></td>
+<td><p><a href="../Page/小林恭治.md" title="wikilink">小林恭治</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ハバード警部</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_(俳優)" title="wikilink">ジョン・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/小林昭二.md" title="wikilink">小林昭二</a></p></td>
+</tr>
+<tr class="even">
+<td><p>スワン</p></td>
+<td><p><a href="../Page/アンソニー・ドーソン.md" title="wikilink">アンソニー・ドーソン</a></p></td>
+<td><p><a href="../Page/村越伊知郎.md" title="wikilink">村越伊知郎</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p><a href="../Page/矢田耕司.md" title="wikilink">矢田耕司</a> <a href="../Page/緑川稔.md" title="wikilink">緑川稔</a></p>
+<p><a href="../Page/千葉順二.md" title="wikilink">千葉順二</a></p>
+<p><a href="../Page/井上真樹夫.md" title="wikilink">井上真樹夫</a></p>
+<p><a href="../Page/沢田敏子.md" title="wikilink">沢田敏子</a></p></td>
+</tr>
+<tr class="even">
+<td><p>演出</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤敏夫_(音響監督)" title="wikilink">佐藤敏夫</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>翻訳</p></td>
+<td></td>
+<td><p>古賀牧彦</p></td>
+</tr>
+<tr class="even">
+<td><p>効果</p></td>
+<td></td>
+<td><p>芦田公雄 高橋鐐雄</p></td>
+</tr>
+<tr class="odd">
+<td><p>調整</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>音声</p></td>
+<td></td>
+<td><p>重秀彦</p></td>
+</tr>
+<tr class="odd">
+<td><p>録音</p></td>
+<td></td>
+<td><p>番町スタジオ 樋口鐐三</p></td>
+</tr>
+<tr class="even">
+<td><p>プロリューサー</p></td>
+<td></td>
+<td><p>植木明</p></td>
+</tr>
+<tr class="odd">
+<td><p>制作</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東北新社" title="wikilink">東北新社</a></p></td>
+</tr>
+<tr class="even">
+<td><p>解説</p></td>
+<td></td>
+<td><p><a href="../Page/淀川長治.md" title="wikilink">淀川長治</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>初回放送</p></td>
+<td></td>
+<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a> 『<a href="../Page/日曜洋画劇場.md" title="wikilink">土曜洋画劇場</a>』</p>
+<p>21:00-23:00</p></td>
+</tr>
+</tbody>
+</table>
 
-  - NETテレビ旧版：初回放送[1967年](../Page/1967年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")『[土曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』21:00-23:00 ※[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")には再放送短縮版（正味約70分）の音源を収録\[1\]。
-      - その他：[矢田耕司](../Page/矢田耕司.md "wikilink")、[緑川稔](../Page/緑川稔.md "wikilink")、[千葉順二](../Page/千葉順二.md "wikilink")、[井上真樹夫](../Page/井上真樹夫.md "wikilink")、[沢田敏子](../Page/沢田敏子.md "wikilink")
-      - 演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：古賀牧彦、効果：芦田公雄/高橋鐐、音声：重秀彦、録音：番町スタジオ/樋口鐐三、プロデューサー：植木明、解説：[淀川長治](../Page/淀川長治.md "wikilink")、製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-  - NETテレビ新版：初回放送[1972年](../Page/1972年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")『[土曜映画劇場](../Page/土曜映画劇場.md "wikilink")』21:00-22:25
-  - TBS版：初回放送[1984年](../Page/1984年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")『SONY PRESENTS 名作洋画ノーカット10週』0:10-2:04
-      - その他：[加藤正之](../Page/加藤正之.md "wikilink")、柳沢紀男、[小島敏彦](../Page/小島敏彦.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[平林尚三](../Page/平林尚三.md "wikilink")、佐藤由衣
-      - 演出：[小林守夫](https://ja.wikipedia.org/wiki/小林守夫 "wikilink")、翻訳：岩佐幸子、効果：桜井俊哉/遠藤堯雄、調整：前田仁信、プロデューサー：安田孝夫、製作：東北新社/TBS
+  - ※[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")には90分映画枠放送時の短尺版（正味約70分）の音源を収録\[1\]。
 
 ## 主な受賞・ノミネート歴
 

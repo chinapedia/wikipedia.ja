@@ -1,4 +1,4 @@
-> この記事は[New Frontier \(\)](https://ja.wikipedia.org/wiki/New_Frontier_\(\))から翻訳されています。
+> この記事は[New Frontier \(丹下桜のアルバム\)](https://ja.wikipedia.org/wiki/New_Frontier_\(丹下桜のアルバム\))から翻訳されています。
 
 
 『**New Frontier**』（ニュー フロンティア）は、[丹下桜](../Page/丹下桜.md "wikilink")の3作目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。

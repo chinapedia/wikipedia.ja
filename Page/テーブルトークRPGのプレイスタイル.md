@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[テーブルトークRPGのプレイスタイル](https://ja.wikipedia.org/wiki/テーブルトークRPGのプレイスタイル)から翻訳されています。
 
 
 **テーブルトークRPGのプレイスタイル**では、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG)のプレイスタイルの分類について解説する。

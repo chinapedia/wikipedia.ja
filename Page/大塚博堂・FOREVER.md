@@ -1,4 +1,4 @@
-> この記事は[FOREVER](https://ja.wikipedia.org/wiki/FOREVER)から翻訳されています。
+> この記事は[大塚博堂・FOREVER](https://ja.wikipedia.org/wiki/大塚博堂・FOREVER)から翻訳されています。
 
 
 『**大塚博堂・FOREVER**』（おおつかはくどう・フォーエバー）は、[1981年](../Page/1981年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[大塚博堂](../Page/大塚博堂.md "wikilink")の追悼盤アルバムである。

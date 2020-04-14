@@ -1,4 +1,4 @@
-> この記事は[ S](https://ja.wikipedia.org/wiki/_S)から翻訳されています。
+> この記事は[謎の処方箋 コントS錠](https://ja.wikipedia.org/wiki/謎の処方箋_コントS錠)から翻訳されています。
 
 
 『**謎の処方箋 コントS錠**』（なぞのしょほうせん コントエスじょう）とは、[関西テレビほかで放送されていた](../Page/関西テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の関西テレビでは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から同年[9月](../Page/9月.md "wikilink")まで放送。

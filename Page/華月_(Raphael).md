@@ -1,4 +1,4 @@
-> この記事は[ \(Raphael\)](https://ja.wikipedia.org/wiki/_\(Raphael\))から翻訳されています。
+> この記事は[華月 \(Raphael\)](https://ja.wikipedia.org/wiki/華月_\(Raphael\))から翻訳されています。
 
 
 **華月**（かづき\[1\]、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")）は、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド**[Raphael](../Page/Raphael_\(バンド\).md "wikilink")**のコンセプトリーダーであり[ギタリスト](../Page/ギタリスト.md "wikilink")。全楽曲のうち8割以上の作曲と、全ての作詞を手掛けるメインコンポーザーでもあった。本名は**渡辺 和樹**（わたなべ かずき）、愛称は「かじゅりん」「姫」。

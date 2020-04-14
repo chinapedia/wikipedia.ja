@@ -1,4 +1,4 @@
-> この記事は[SEVEN \(\)](https://ja.wikipedia.org/wiki/SEVEN_\(\))から翻訳されています。
+> この記事は[SEVEN \(中島美嘉の曲\)](https://ja.wikipedia.org/wiki/SEVEN_\(中島美嘉の曲\))から翻訳されています。
 
 
 「**SEVEN**」（セヴン）は、[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に発売された[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。

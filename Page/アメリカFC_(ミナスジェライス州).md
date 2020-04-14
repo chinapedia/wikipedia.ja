@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[アメリカFC \(ミナスジェライス州\)](https://ja.wikipedia.org/wiki/アメリカFC_\(ミナスジェライス州\))から翻訳されています。
 
 
 **アメリカFC** () 、通称**アメリカ・ミネイロ** (América Mineiro) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")[ベロオリゾンテ](../Page/ベロオリゾンテ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルには同名のクラブが複数存在するため、アメリカ・ミネイロと呼ばれている。またミナスジェライス州の略称を表す「MG」を付けて**アメリカ-MG** (América-MG) と表記されることがある。

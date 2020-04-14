@@ -1,4 +1,4 @@
-> この記事は[Z !!](https://ja.wikipedia.org/wiki/Z_!!)から翻訳されています。
+> この記事は[ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる](https://ja.wikipedia.org/wiki/ドラゴンボールZ_龍拳爆発!!悟空がやらねば誰がやる)から翻訳されています。
 
 
 『**ドラゴンボールZ 龍拳爆発\!\!悟空がやらねば誰がやる**』（ドラゴンボールゼット りゅうけんばくはつ ごくうがやらねばだれがやる）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第16弾。監督は[橋本光夫](https://ja.wikipedia.org/wiki/橋本光夫 "wikilink")。

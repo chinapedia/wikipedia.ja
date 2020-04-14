@@ -1,4 +1,4 @@
-> この記事は[MOZAIKU NIGHTNo.1 Music Factory](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHTNo.1_Music_Factory)から翻訳されています。
+> この記事は[MOZAIKU NIGHT〜No.1 Music Factory〜](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT〜No.1_Music_Factory〜)から翻訳されています。
 
 
 **MOZAIKU NIGHT**（モザイク・ナイト）は、[千葉県](../Page/千葉県.md "wikilink")のFM局、[bayfmの深夜の時間帯で放送されている](../Page/ベイエフエム.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

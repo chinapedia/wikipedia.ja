@@ -1,4 +1,4 @@
-> この記事は[CKM](https://ja.wikipedia.org/wiki/CKM)から翻訳されています。
+> この記事は[CKM行列](https://ja.wikipedia.org/wiki/CKM行列)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Cabibbo_Kobayashi_2.jpg "wikilink")（左）と[小林誠](../Page/小林誠_\(物理学者\).md "wikilink")（右）\]\] **カビボ・小林・益川行列**（カビボ・こばやし・ますかわぎょうれつ, ）は、[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")の[標準理論において](../Page/標準模型.md "wikilink")、[フレーバーが変化する場合における弱崩壊の結合定数を表す](https://ja.wikipedia.org/wiki/フレーバー_\(素粒子\) "wikilink")[ユニタリー行列](https://ja.wikipedia.org/wiki/ユニタリー行列 "wikilink")である。 頭文字をとって**CKM行列**と呼ばれることが多い。**クォーク混合行列**とも言われる。 CKM行列は[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")が自由に伝播する場合と[弱い相互作用](https://ja.wikipedia.org/wiki/弱い相互作用 "wikilink")を起こす場合の[量子状態](../Page/量子状態.md "wikilink")の不整合を示しており、[CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")を説明するために必要不可欠である。この行列は元々[ニコラ・カビボ](../Page/ニコラ・カビボ.md "wikilink")が2世代の行列理論として公表していたものを、[小林誠と](../Page/小林誠_\(物理学者\).md "wikilink")[益川敏英](../Page/益川敏英.md "wikilink")が3世代の行列にして完成したものである。
@@ -130,7 +130,7 @@ N = 2 の場合、2世代のクォーク間の混合角を表す位相因子は1
 
 これらについて、カビボは弱い相互作用の普遍性が1.を、[ダウンクォーク](../Page/ダウンクォーク.md "wikilink")と[ストレンジクォーク](../Page/ストレンジクォーク.md "wikilink")の混合角が2.をそれぞれ解決すると仮定した。
 
-クォークが2世代の場合はCP対称性の破れを示す位相は現れない。その一方で中性[K中間子](../Page/K中間子.md "wikilink")の崩壊に伴う対称性の破れは[1964年](../Page/1964年.md "wikilink")に発見されており、標準理論が発表されると[1973年](../Page/1973年.md "wikilink")に小林と益川が指摘したように3世代目のクォークの存在が強く示唆された。[1976年](../Page/1976年.md "wikilink")には[フェルミ研究所](https://ja.wikipedia.org/wiki/フェルミ研究所 "wikilink")で[ボトムクォーク](../Page/ボトムクォーク.md "wikilink")が発見され、すぐにこれと対をつくる[トップクォーク](../Page/トップクォーク.md "wikilink")探しが始まった。
+クォークが2世代の場合はCP対称性の破れを示す位相は現れない。その一方で中性[K中間子](../Page/K中間子.md "wikilink")の崩壊に伴う対称性の破れは[1964年](../Page/1964年.md "wikilink")に発見されており、標準理論が発表されると[1973年](../Page/1973年.md "wikilink")に小林と益川が指摘したように3世代目のクォークの存在が強く示唆された。[1976年](../Page/1976年.md "wikilink")には[フェルミ国立加速器研究所](../Page/フェルミ国立加速器研究所.md "wikilink")で[ボトムクォーク](../Page/ボトムクォーク.md "wikilink")が発見され、すぐにこれと対をつくる[トップクォーク](../Page/トップクォーク.md "wikilink")探しが始まった。
 
 ## 弱い相互作用の普遍性
 

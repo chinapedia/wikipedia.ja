@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[オークランド・シティFC](https://ja.wikipedia.org/wiki/オークランド・シティFC)から翻訳されています。
 
 
 **オークランド・シティFC**（）は、[ニュージーランド](../Page/ニュージーランド.md "wikilink")の[オークランドを本拠地とする](../Page/オークランド_\(ニュージーランド\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

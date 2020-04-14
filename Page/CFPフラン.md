@@ -1,4 +1,4 @@
-> この記事は[CFP](https://ja.wikipedia.org/wiki/CFP)から翻訳されています。
+> この記事は[CFPフラン](https://ja.wikipedia.org/wiki/CFPフラン)から翻訳されています。
 
 
 **CFPフラン**（英語：CFP franc、仏語：franc pacifiqueまたはfranc CFP）は、[ニューカレドニア](../Page/ニューカレドニア.md "wikilink")、[ウォリス・フツナ](../Page/ウォリス・フツナ.md "wikilink")、[フランス領ポリネシア](../Page/フランス領ポリネシア.md "wikilink")の[通貨](../Page/通貨.md "wikilink")である。
@@ -28,13 +28,13 @@
 
 2014年に紙幣のデザインが変更されている\[1\]。
 
-## 出典
-
-<references/>
+## 脚注
 
 ## 関連項目
 
   - [フラン (通貨)](../Page/フラン_\(通貨\).md "wikilink")
+
+## 外部リンク
 
 [Category:フラン](https://ja.wikipedia.org/wiki/Category:フラン "wikilink") [Category:オセアニアの通貨](https://ja.wikipedia.org/wiki/Category:オセアニアの通貨 "wikilink") [Category:フランス領ポリネシア](https://ja.wikipedia.org/wiki/Category:フランス領ポリネシア "wikilink") [Category:通貨統合](https://ja.wikipedia.org/wiki/Category:通貨統合 "wikilink")
 

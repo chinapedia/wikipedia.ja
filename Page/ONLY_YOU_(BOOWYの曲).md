@@ -1,4 +1,4 @@
-> この記事は[ONLY YOU \(BOOWY\)](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOOWY\))から翻訳されています。
+> この記事は[ONLY YOU \(BOOWYの曲\)](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOOWYの曲\))から翻訳されています。
 
 
 『**ONLY YOU**』（オンリー・ユー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。

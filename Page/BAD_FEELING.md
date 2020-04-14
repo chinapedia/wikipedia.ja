@@ -5,7 +5,7 @@
 
 ## 背景
 
-アルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』（1985年）に収録される形で初リリースされた。その後、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として、BOØWYの初であり唯一の12インチ・シングルでリリースされた。解散に至るまでのほぼ全てのライブで演奏されている。
+アルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』（1985年）に収録される形で初リリースされた。その後、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として、BOØWYの初であり唯一の12インチ・シングルでリリースされた。
 
 シングル版でのタイトルは正式には「**BAD FEELIN’**」であり\[1\]、プロモーション用のポスターおよび7インチプロモーション盤でも同様のタイトルとなっている\[2\]。
 

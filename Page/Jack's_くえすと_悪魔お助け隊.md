@@ -1,4 +1,4 @@
-> この記事は[Jack\'s  ](https://ja.wikipedia.org/wiki/Jack\'s__)から翻訳されています。
+> この記事は[Jack\'s くえすと 悪魔お助け隊](https://ja.wikipedia.org/wiki/Jack\'s_くえすと_悪魔お助け隊)から翻訳されています。
 
 
 『**Jack's くえすと 悪魔お助け隊**』（ジャックス くえすと あくまおたすけたい）は、[女神転生](../Page/女神転生.md "wikilink")シリーズに登場する「ジャックブラザーズ」が主人公である[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。[アトラスモバイルコンテンツ](../Page/アトラスモバイルコンテンツ.md "wikilink")で配信されている。

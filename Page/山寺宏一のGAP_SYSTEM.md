@@ -1,4 +1,4 @@
-> この記事は[GAP SYSTEM](https://ja.wikipedia.org/wiki/GAP_SYSTEM)から翻訳されています。
+> この記事は[山寺宏一のGAP SYSTEM](https://ja.wikipedia.org/wiki/山寺宏一のGAP_SYSTEM)から翻訳されています。
 
 
 **山寺宏一のGAP SYSTEM**（やまでらこういちのギャップシステム）は[CD](https://ja.wikipedia.org/wiki/CD "wikilink")シリーズおよび、[東海ラジオをキーステーションとした](../Page/東海ラジオ放送.md "wikilink")[桑の実プロ](../Page/桑の実プロ.md "wikilink")制作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。

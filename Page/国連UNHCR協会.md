@@ -1,4 +1,4 @@
-> この記事は[UNHCR](https://ja.wikipedia.org/wiki/UNHCR)から翻訳されています。
+> この記事は[国連UNHCR協会](https://ja.wikipedia.org/wiki/国連UNHCR協会)から翻訳されています。
 
 
 **特定非営利活動法人国連UNHCR協会**（こくれんユーエヌエイチシーアールきょうかい、[英称](../Page/英語.md "wikilink")：*Japan for UNHCR*）は、[東京都](../Page/東京都.md "wikilink")[港区に本部を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")（NPO）である。世界各地にある「[国連難民高等弁務官事務所](../Page/国連難民高等弁務官事務所.md "wikilink")（UNHCR）の国内委員会」の一つであり、日本における公式支援窓口として、民間からの寄付募集・広報活動を行っている。

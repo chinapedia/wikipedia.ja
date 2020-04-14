@@ -1,4 +1,4 @@
-> この記事は[UHB](https://ja.wikipedia.org/wiki/UHB)から翻訳されています。
+> この記事は[UHB杯ジャンプ大会](https://ja.wikipedia.org/wiki/UHB杯ジャンプ大会)から翻訳されています。
 
 
 **[UHB杯ジャンプ大会](../Page/北海道文化放送.md "wikilink")**は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。

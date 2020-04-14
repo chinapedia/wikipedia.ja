@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNニュースフラッシュ産経新聞](https://ja.wikipedia.org/wiki/FNNニュースフラッシュ産経新聞)から翻訳されています。
 
 
 『**FNNニュースフラッシュ産経新聞**』（エフエヌエヌニュースフラッシュさんけいしんぶん）は、[1988年](../Page/1988年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[関西テレビで平日午後に放送されていた](../Page/関西テレビ放送.md "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。それまでは『[サンケイテレニュース](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』として放送していたが、産経新聞の題字がカタカナの「サンケイ」から漢字の「産経新聞」に改題したのに伴って、この題に変更された。

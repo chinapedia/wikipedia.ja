@@ -1,4 +1,4 @@
-> この記事は[OPEN SESAME \(\)](https://ja.wikipedia.org/wiki/OPEN_SESAME_\(\))から翻訳されています。
+> この記事は[OPEN SESAME \(漫画\)](https://ja.wikipedia.org/wiki/OPEN_SESAME_\(漫画\))から翻訳されています。
 
 
 『**OPENSESAME**』（オープンセサミ）は[河方かおる](https://ja.wikipedia.org/wiki/河方かおる "wikilink")による学園ラブコメ[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。『[マガジンSPECIAL](../Page/マガジンSPECIAL.md "wikilink")』2000年No.9から2008年No.5まで連載された。単行本全20巻。話数カウントは「Check-」。2010年にマガジンSPECIALで番外編の大学編が載った。

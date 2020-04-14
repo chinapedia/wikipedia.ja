@@ -1,4 +1,4 @@
-> この記事は[L\&F](https://ja.wikipedia.org/wiki/L\&F)から翻訳されています。
+> この記事は[トヨタL\&F](https://ja.wikipedia.org/wiki/トヨタL\&F)から翻訳されています。
 
 
 **トヨタL\&F**（トヨタエルアンドエフ）は、[豊田自動織機](../Page/豊田自動織機.md "wikilink")の[社内カンパニー](../Page/社内カンパニー.md "wikilink")である。
@@ -74,7 +74,7 @@
 
 ### 中国・四国
 
-  - [トヨタL\&F岡山](https://ja.wikipedia.org/wiki/トヨタエルアンドエフ岡山 "wikilink")　…[岡山トヨペットグループ](../Page/トヨタ店.md "wikilink")
+  - [トヨタL\&F岡山](https://ja.wikipedia.org/wiki/トヨタエルアンドエフ岡山 "wikilink")　…[岡山トヨペット](https://ja.wikipedia.org/wiki/岡山トヨペット "wikilink")グループ
   - [トヨタL\&F広島](https://ja.wikipedia.org/wiki/トヨタエルアンドエフ広島 "wikilink")　…[広島トヨタグループ](../Page/トヨタ店.md "wikilink")
   - [トヨタL\&F山口](https://ja.wikipedia.org/wiki/トヨタエルアンドエフ山口 "wikilink")
   - [トヨタL\&F徳島](https://ja.wikipedia.org/wiki/トヨタエルアンドエフ徳島 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJキューバート](https://ja.wikipedia.org/wiki/DJキューバート)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Qbertconcert.jpg "wikilink") **DJ キューバート**（DJ Qbert, ディージェイ・キューバート、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月 - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")である。本名はRichard Quitevis。[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")にて生まれる。

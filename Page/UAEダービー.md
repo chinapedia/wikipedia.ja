@@ -1,4 +1,4 @@
-> この記事は[UAE](https://ja.wikipedia.org/wiki/UAE)から翻訳されています。
+> この記事は[UAEダービー](https://ja.wikipedia.org/wiki/UAEダービー)から翻訳されています。
 
 
 **UAEダービー**（**UAE Derby**、）とは[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の[ドバイ](../Page/ドバイ.md "wikilink")にある[メイダン競馬場](https://ja.wikipedia.org/wiki/メイダン競馬場 "wikilink")で行われる[競馬の競走](../Page/競馬の競走.md "wikilink")である。2015年は[G2に格付けされている](../Page/競馬の競走格付け.md "wikilink")。
@@ -14,6 +14,7 @@
   - [2000年](../Page/2000年.md "wikilink") 創設。[ナド・アルシバ競馬場](../Page/ナド・アルシバ競馬場.md "wikilink")にてダート1800mで施行。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") 開催場がメイダン競馬場に移行し、施行距離がオールウェザー1900mに変更。
   - [2015年](../Page/2015年.md "wikilink") 施行条件がダート1900mに変更。
+  - [2020年](../Page/2020年.md "wikilink") [covid-19の世界的な感染の拡がりに伴い](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")、参加者の健康を守るため中止。
 
 ## 歴代優勝馬
 

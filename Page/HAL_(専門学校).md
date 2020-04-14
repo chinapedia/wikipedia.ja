@@ -1,4 +1,4 @@
-> この記事は[HAL \(\)](https://ja.wikipedia.org/wiki/HAL_\(\))から翻訳されています。
+> この記事は[HAL \(専門学校\)](https://ja.wikipedia.org/wiki/HAL_\(専門学校\))から翻訳されています。
 
 
 **HAL**（はる、英略：HAL）は、[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")・[名古屋市](../Page/名古屋市.md "wikilink")・大阪市に所在し、[学校法人日本教育財団](../Page/学校法人日本教育財団.md "wikilink")が運営する私立専門学校である。
@@ -86,6 +86,8 @@
 ## 備考
 
   - 2008年度のTVCMではゲームソフト『[アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")』のオープニングムービーを使用している。
+
+## コマーシャル
 
 ## 脚注
 

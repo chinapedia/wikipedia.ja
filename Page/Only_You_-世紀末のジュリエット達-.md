@@ -1,4 +1,4 @@
-> この記事は[Only You --](https://ja.wikipedia.org/wiki/Only_You_--)から翻訳されています。
+> この記事は[Only You -世紀末のジュリエット達-](https://ja.wikipedia.org/wiki/Only_You_-世紀末のジュリエット達-)から翻訳されています。
 
 
 『**Only You -世紀末のジュリエット達-**』（オンリーユー せいきまつのジュリエットたち）は、[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

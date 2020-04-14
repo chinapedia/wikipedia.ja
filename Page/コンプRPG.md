@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[コンプRPG](https://ja.wikipedia.org/wiki/コンプRPG)から翻訳されています。
 
 
 『**コンプRPG**』（コンプアールピージー）は、[角川書店](../Page/角川書店.md "wikilink")から発行されていた[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")専門の雑誌。[コンプティーク](../Page/コンプティーク.md "wikilink")増刊として1991年11月30日号より季刊誌として創刊、1994年8月30日号（vol.12）から隔月刊化。1996年10月30日号（vol.25）をもって休刊した。「ゲームエイジのための万能RPGマガジン」と銘打ち、誌面には主に[リプレイや](../Page/リプレイ_\(TRPG\).md "wikilink")[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、テーブルトークRPG関連小説を掲載していた。表紙イラストはvol.1-3は[貞本義行](https://ja.wikipedia.org/wiki/貞本義行 "wikilink")、vol.4-5は[うるし原智志](../Page/うるし原智志.md "wikilink")、vol.6-10は[結城信輝](../Page/結城信輝.md "wikilink")（以後は非固定）。

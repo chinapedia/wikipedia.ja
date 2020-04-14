@@ -1,4 +1,4 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[IBMプレイヤー・オブ・ザ・イヤー賞](https://ja.wikipedia.org/wiki/IBMプレイヤー・オブ・ザ・イヤー賞)から翻訳されています。
 
 
 **IBMプレイヤー・オブ・ザ・イヤー賞**とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")の[選手表彰の一つ](https://ja.wikipedia.org/wiki/プロ野球#個人タイトル・表彰 "wikilink")。

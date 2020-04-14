@@ -1,4 +1,4 @@
-> この記事は[P2P](https://ja.wikipedia.org/wiki/P2P)から翻訳されています。
+> この記事は[P2P地震情報](https://ja.wikipedia.org/wiki/P2P地震情報)から翻訳されています。
 
 
 **P2P地震情報**（ぴーつーぴーじしんじょうほう）とは、[Peer to Peer](../Page/Peer_to_Peer.md "wikilink")（P2P）を用いた[地震](../Page/地震.md "wikilink")情報チェッカーである。

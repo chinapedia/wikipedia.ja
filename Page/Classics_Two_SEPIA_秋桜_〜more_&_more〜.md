@@ -1,4 +1,4 @@
-> この記事は[Classics Two SEPIA  more \& more](https://ja.wikipedia.org/wiki/Classics_Two_SEPIA__more_\&_more)から翻訳されています。
+> この記事は[Classics Two SEPIA 秋桜 〜more \& more〜](https://ja.wikipedia.org/wiki/Classics_Two_SEPIA_秋桜_〜more_\&_more〜)から翻訳されています。
 
 
 「**Classics Two SEPIA 秋桜 〜more & more〜**」（クラシックス・ツー セピア コスモス モア・アンド・モア）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。

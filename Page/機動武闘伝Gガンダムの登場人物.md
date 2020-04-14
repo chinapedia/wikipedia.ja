@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[機動武闘伝Gガンダムの登場人物](https://ja.wikipedia.org/wiki/機動武闘伝Gガンダムの登場人物)から翻訳されています。
 
 
 **機動武闘伝Gガンダムの登場人物**（きどうぶとうでんジーガンダムのとうじょうじんぶつ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』およびその関連作品に登場する架空の人物を列挙する。

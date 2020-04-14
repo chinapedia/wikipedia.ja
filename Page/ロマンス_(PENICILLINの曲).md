@@ -1,4 +1,4 @@
-> この記事は[ \(PENICILLIN\)](https://ja.wikipedia.org/wiki/_\(PENICILLIN\))から翻訳されています。
+> この記事は[ロマンス \(PENICILLINの曲\)](https://ja.wikipedia.org/wiki/ロマンス_\(PENICILLINの曲\))から翻訳されています。
 
 
 「**ロマンス**」は、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")にイーストウエスト・ジャパン（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）から発売された。

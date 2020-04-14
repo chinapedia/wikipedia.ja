@@ -1,4 +1,4 @@
-> この記事は[Aon](https://ja.wikipedia.org/wiki/Aon)から翻訳されています。
+> この記事は[Aonセンター](https://ja.wikipedia.org/wiki/Aonセンター)から翻訳されています。
 
 
 **Aonセンター**（*Aon Center*、エーオン・センター）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")市にある[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")である。“アモコビル”ともよばれる。[エドワード・ダレル・ストーン](../Page/エドワード・ダレル・ストーン.md "wikilink")の設計で、[1970年](../Page/1970年.md "wikilink")に着工し[1972年](../Page/1972年.md "wikilink")に完成した[モダニズム建築](../Page/モダニズム建築.md "wikilink")で、83階建て・高さ346.3mのビルは[ウィリス・タワー](../Page/ウィリス・タワー.md "wikilink")（旧シアーズ・タワー）および[トランプ・インターナショナル・ホテル・アンド・タワーに次ぎシカゴで三番目に高い超高層ビルとなっている](https://ja.wikipedia.org/wiki/トランプ・インターナショナル・ホテル・アンド・タワー_\(シカゴ\) "wikilink")。アメリカでは[エンパイア・ステート・ビル](https://ja.wikipedia.org/wiki/エンパイア・ステート・ビル "wikilink")に次ぐ四番目の高さのビル、世界では14番目に高いビルである（2007年現在）。オフィス専用ビルとなっており、一般の人は地下を除き、入場できない。[ニューヨーク世界貿易センタービル](https://ja.wikipedia.org/wiki/ニューヨーク世界貿易センタービル "wikilink")の高さを低くしたような形になっている。

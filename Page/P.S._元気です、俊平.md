@@ -1,4 +1,4 @@
-> この記事は[P.S. ](https://ja.wikipedia.org/wiki/P.S._)から翻訳されています。
+> この記事は[P.S. 元気です、俊平](https://ja.wikipedia.org/wiki/P.S._元気です、俊平)から翻訳されています。
 
 
 『**P.S.元気です、俊平**』（ピー・エス・げんきです、しゅんぺい）は、[柴門ふみ](https://ja.wikipedia.org/wiki/柴門ふみ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

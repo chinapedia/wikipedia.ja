@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[ジェームズ・M・ケイン](https://ja.wikipedia.org/wiki/ジェームズ・M・ケイン)から翻訳されています。
 
 
 [James_M._Cain.jpg](https://ja.wikipedia.org/wiki/File:James_M._Cain.jpg "fig:James_M._Cain.jpg") **ジェームズ・M・ケイン**（James Mallahan Cain, [1892年](../Page/1892年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - [1977年](../Page/1977年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[作家](../Page/作家.md "wikilink")。特に犯罪小説で有名。

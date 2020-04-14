@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[日本の伝統芸能 \(NHK\)](https://ja.wikipedia.org/wiki/日本の伝統芸能_\(NHK\))から翻訳されています。
 
 
 『**日本の伝統芸能**』（にっぽんのでんとうげいのう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[NHK教育テレビで放送された](../Page/NHK教育テレビジョン.md "wikilink")[伝統芸能専門の](../Page/日本伝統芸能.md "wikilink")[教養番組](../Page/教養番組.md "wikilink")である。[2009年](../Page/2009年.md "wikilink")1月までは[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")でも放送されていたが、完全英語放送による大規模な番組改編によって打ち切られた。

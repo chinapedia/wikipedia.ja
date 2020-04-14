@@ -1,4 +1,4 @@
-> この記事は[FIVE \(RIP SLYME\)](https://ja.wikipedia.org/wiki/FIVE_\(RIP_SLYME\))から翻訳されています。
+> この記事は[FIVE \(RIP SLYMEのアルバム\)](https://ja.wikipedia.org/wiki/FIVE_\(RIP_SLYMEのアルバム\))から翻訳されています。
 
 
 『**FIVE**』（ファイヴ）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。

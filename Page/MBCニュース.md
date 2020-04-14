@@ -1,4 +1,4 @@
-> この記事は[MBC](https://ja.wikipedia.org/wiki/MBC)から翻訳されています。
+> この記事は[MBCニュース](https://ja.wikipedia.org/wiki/MBCニュース)から翻訳されています。
 
 
 『**MBCニュース**』（エムビースィーニュース）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBCテレビ）で毎日放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（放送時間については後述）。MBCラジオで放送されている番組も同タイトルだが、定時ニュースは毎時50分の放送であることから『[MBC50ニュース](https://ja.wikipedia.org/wiki/MBC50ニュース "wikilink")』という題名が使われている（50分以外の時間帯には『MBCニュース』）。

@@ -1,4 +1,4 @@
-> この記事は[Perseus--](https://ja.wikipedia.org/wiki/Perseus--)から翻訳されています。
+> この記事は[Perseus-ペルセウス-](https://ja.wikipedia.org/wiki/Perseus-ペルセウス-)から翻訳されています。
 
 
 「**Perseus-ペルセウス-**」は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の12枚目のシングル。[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

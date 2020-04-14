@@ -1,4 +1,4 @@
-> この記事は[Wave](https://ja.wikipedia.org/wiki/Wave)から翻訳されています。
+> この記事は[声優Wave](https://ja.wikipedia.org/wiki/声優Wave)から翻訳されています。
 
 
 **声優Wave**（せいゆうウェーブ）は、2001年12月1日から2006年6月30日まで、[キャラクター・アンド・アニメ・ドット・コム](https://ja.wikipedia.org/wiki/キャラアニ "wikilink")（現・キャラアニ）および[エー・アイ・アイ](../Page/エー・アイ・アイ.md "wikilink")により運営されていた有料（一部無料）[インターネット](../Page/インターネット.md "wikilink")番組配信サービス\[1\]。

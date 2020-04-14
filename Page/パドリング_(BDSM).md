@@ -1,4 +1,4 @@
-> この記事は[ \(BDSM\)](https://ja.wikipedia.org/wiki/_\(BDSM\))から翻訳されています。
+> この記事は[パドリング \(BDSM\)](https://ja.wikipedia.org/wiki/パドリング_\(BDSM\))から翻訳されています。
 
 
 **パドリング**は、主に[BDSM](../Page/BDSM.md "wikilink")プレイの一つとしてパートナーを[パドル](../Page/パドル.md "wikilink")で打つことを言う。スパンキングの一種。英語のパドリング (paddling) は主に犬かきのような動作を指すので通じない場合もある。

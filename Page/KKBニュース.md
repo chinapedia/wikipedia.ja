@@ -1,4 +1,4 @@
-> この記事は[KKB](https://ja.wikipedia.org/wiki/KKB)から翻訳されています。
+> この記事は[KKBニュース](https://ja.wikipedia.org/wiki/KKBニュース)から翻訳されています。
 
 
 『**KKBニュース**』（ケーケービーニュース）は、[鹿児島放送](../Page/鹿児島放送.md "wikilink")で毎日放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（放送時間については後述）。

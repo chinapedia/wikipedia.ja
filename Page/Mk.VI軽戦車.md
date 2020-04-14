@@ -1,4 +1,4 @@
-> この記事は[Mk.VI](https://ja.wikipedia.org/wiki/Mk.VI)から翻訳されています。
+> この記事は[Mk.VI軽戦車](https://ja.wikipedia.org/wiki/Mk.VI軽戦車)から翻訳されています。
 
 
 **Mk.VI軽戦車**（マーク6 けいせんしゃ、Vickers Light Tnak Mk.VI）は、[戦間期](../Page/戦間期.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された[軽戦車](../Page/軽戦車.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に活躍した。

@@ -1,4 +1,4 @@
-> この記事は[YES! \(EXILE\)](https://ja.wikipedia.org/wiki/YES!_\(EXILE\))から翻訳されています。
+> この記事は[YES! \(EXILEの曲\)](https://ja.wikipedia.org/wiki/YES!_\(EXILEの曲\))から翻訳されています。
 
 
 「**YES\!**」（イエス）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

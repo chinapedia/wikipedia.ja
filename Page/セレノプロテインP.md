@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[セレノプロテインP](https://ja.wikipedia.org/wiki/セレノプロテインP)から翻訳されています。
 
 
 **セレノプロテインP**は、分子中に[セレノシステイン](../Page/セレノシステイン.md "wikilink")を含む[タンパク質](../Page/タンパク質.md "wikilink")であり、ヒトではSEPP1遺伝子にコードされている\[1\]\[2\]。[血液](../Page/血液.md "wikilink")中に見つかる主要な[セレン](../Page/セレン.md "wikilink")化合物であり、セレノプロテインPのPは[血漿](../Page/血漿.md "wikilink")（**p**lasma）のPに由来する。

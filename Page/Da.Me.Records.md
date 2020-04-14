@@ -52,7 +52,7 @@
   - [Da.Me.Reblogin' Clips](http://damerecords.tumblr.com/) - [Tumblr](../Page/Tumblr.md "wikilink")
 
   -
-  - [ダースレイダー Official Blog「一瞬一秒をFUNKしろ！ROCKしろ！爆破しろ！」](http://ameblo.jp/darthreider/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [ダースレイダー Official Blog「一瞬一秒をFUNKしろ！ROCKしろ！爆破しろ！」](https://ameblo.jp/darthreider/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
 [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:日本のヒップホップ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ "wikilink")
 

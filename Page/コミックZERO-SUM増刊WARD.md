@@ -1,4 +1,4 @@
-> この記事は[ZERO-SUMWARD](https://ja.wikipedia.org/wiki/ZERO-SUMWARD)から翻訳されています。
+> この記事は[コミックZERO-SUM増刊WARD](https://ja.wikipedia.org/wiki/コミックZERO-SUM増刊WARD)から翻訳されています。
 
 
 『**コミックZERO-SUM増刊WARD**』（コミックゼロサムぞうかんワード）は、[一迅社](../Page/一迅社.md "wikilink")が発行していた[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[2003年](../Page/2003年.md "wikilink")創刊。当初の発売日は2、5、8、11月の16日で、Vol.18まで刊行。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より、奇数月の16日発売となり、誌名を『**ゼロサムWARD**』（独立ではなくコミックZERO-SUM増刊のままのマイナーチェンジ）に変更して、号数もリセットされた。2015年5月16日発売のNo.45を以て休刊した\[1\]。

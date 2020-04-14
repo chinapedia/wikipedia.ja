@@ -1,4 +1,4 @@
-> この記事は[SEED SEED](https://ja.wikipedia.org/wiki/SEED_SEED)から翻訳されています。
+> この記事は[交響組曲機動戦士ガンダムSEED シンフォニーSEEDシリーズ](https://ja.wikipedia.org/wiki/交響組曲機動戦士ガンダムSEED_シンフォニーSEEDシリーズ)から翻訳されています。
 
 
 『**交響組曲機動戦士ガンダムSEED シンフォニーSEEDシリーズ**』（こうきょうくみきょくきどうせんしガンダムシード シンフォニーシードシリーズ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の[オリジナルサウンドトラック集](../Page/サウンドトラック.md "wikilink")（『機動戦士ガンダムSEED・SEED DESTNY オリジナルサウンドトラック集』）を交響組曲として新たに作・編曲したもの。

@@ -1,77 +1,65 @@
 > この記事は[108DREAMS](https://ja.wikipedia.org/wiki/108DREAMS)から翻訳されています。
 
 
-**108DREAMS**（ワンオーエイトドリームス）\[1\]は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー1stアルバム及び通算2枚目のアルバム。[Sony Music Associated Recordsよりリリース](https://ja.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
+『**108DREAMS**』（ワンオーエイトドリームス）\[1\]は、[キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")のメジャー1stアルバム及び通算2枚目のアルバム。[Sony Music Associated Recordsよりリリース](https://ja.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
 
 ## 解説
 
-前作『[ブッコロリー](../Page/ブッコロリー.md "wikilink")』より約3年ぶりのリリース。LP版も完全限定生産でリリースされた。ジャケットは[groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")によるもの。
+前作『[ブッコロリー](../Page/ブッコロリー.md "wikilink")』より約3年ぶりのリリース。LP盤も完全限定生産でリリースされた。ジャケットは[groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")によるもの。
 
-アルバムタイトルは3曲目、「フランクフルト」の歌詞中の一節にちなんだもの\[2\]。[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")ツアー「キミトベ2005」渋谷クアトロのツアーファイナルにて発表された。
+アルバムタイトルは、収録曲「フランクフルト」の「百と八つの夢のリミックス」というフレーズにちなんだもの\[2\]。
 
-初回生産版は特別ジャケット、特別レーベルおよびシングル「悲しみのシミかな」との連動購入者特典応募用紙が封入。予約特典は蜂携帯クリーナーで、タワーレコード先着特典は携帯ストラップ。収録は伊豆で合宿形式で行われた。
+初回生産盤は特別ジャケット、特別レーベルおよびシングル『悲しみのシミかな』との連動購入者特典応募用紙が封入。予約特典は蜂携帯クリーナーで、タワーレコード先着特典は携帯ストラップ。収録は伊豆で合宿形式で行われた。
 
 2006年春にはアルバムツアー「DREAM HUNTING TOUR」を開催。
 
-## 収録曲
+## 収録内容
+
+## 曲の解説
 
 シングル収録曲の詳細については各項目を参照。
 
-すべての曲において作曲：[永友聖也](https://ja.wikipedia.org/wiki/永友聖也 "wikilink")/編曲：キャプテンストライダム
-
-1.  **サイボーグ** (4:13)
-    作詞:永友聖也・久保田洋司/編曲:大平太一
+1.  **サイボーグ**
       -
-        アルバム曲でありながらPV（[島田大介](../Page/島田大介.md "wikilink")監督）が製作された。タイトルを最初に決め、タイトルのイメージにあわせ曲作りをした。また[沢田研二](../Page/沢田研二.md "wikilink")に対するオマージュもこめられている。
-        5thシングル「[悲しみのシミかな](https://ja.wikipedia.org/wiki/悲しみのシミかな "wikilink")」収録の「A MEDLEY OF CTSR MEGA MIX」にて曲一部を先行発表。
-2.  **[キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")** (4:16)
-    作詞:永友聖也・久保田洋司/編曲:大平太一
-      - 4thシングル
-    <!-- end list -->
+        アルバム曲でありながら[PV](../Page/ミュージック・ビデオ.md "wikilink")（[島田大介](../Page/島田大介.md "wikilink")監督）が製作された。
+        楽曲における「サイボーグ」は、「微妙に冷えきった男女の雰囲気」を指している\[3\]。
+        5thシングル『[悲しみのシミかな](https://ja.wikipedia.org/wiki/悲しみのシミかな "wikilink")』に収録の「A MEDLEY OF CTSR MEGA MIX」にて、曲一部を先行発表している。
+2.  **[キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")**
       -
-        ベストアルバム『[ベストロリー](https://ja.wikipedia.org/wiki/ベストロリー "wikilink")』にも収録されている。
-3.  **[フランクフルト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink")** (3:36)
-    作詞:永友聖也
-      - 3rdシングル「[流星オールナイト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink")」カップリング曲。
-4.  **バースデー** (3:52)
-    作詞:久保田洋司/編曲:大平太一
+        4thシングル。
+3.  **[フランクフルト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink")**
       -
-        [バス](../Page/バス.md "wikilink")の歌。伊豆のレコーディングで最初に録った曲。
-        デモの段階ではテンポも遅く、アメリカン[ハードロック](../Page/ハードロック.md "wikilink")のような曲だったという\[3\]。
-5.  **十五夜** (4:11)
-    作詞:久保田洋司/編曲:大平太一
+        3rdシングル『[流星オールナイト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink")』カップリング曲。
+4.  **バースデー**
       -
-        永友が久保田に「月のことを唄いたい」とリクエストしたことにより作詞された楽曲\[4\]。
-6.  **[悲しみのシミかな](https://ja.wikipedia.org/wiki/悲しみのシミかな "wikilink")** (4:31)
-    作詞:久保田洋司/編曲:大平太一
-      - 5thシングル。
-    <!-- end list -->
+        [バス](../Page/バス.md "wikilink")の歌で、伊豆のレコーディングで最初に録った楽曲。
+        デモの段階ではテンポも遅く、アメリカン[ハードロック](../Page/ハードロック.md "wikilink")のような曲だったという\[4\]。
+5.  **十五夜**
       -
-        ベストアルバム『ベストロリー』にも収録されている。
-7.  **[マウンテン・ア・ゴーゴー・ツー](https://ja.wikipedia.org/wiki/マウンテン・ア・ゴーゴー・ツー "wikilink")**(4:15)
-    作詞:永友聖也
-      - 2ndシングル
-8.  **GOOD HARVEST** (4:19)
-    作詞:永友聖也
+        永友が久保田に「月のことを唄いたい」とリクエストしたことにより作詞された楽曲\[5\]。
+6.  **[悲しみのシミかな](https://ja.wikipedia.org/wiki/悲しみのシミかな "wikilink")**
       -
-        アルバム曲のうち、唯一のキャプテンストライダムのみによる楽曲。稲作が開始された[弥生時代](https://ja.wikipedia.org/wiki/弥生時代 "wikilink")の農民をテーマとした[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")風の[ハードロック](../Page/ハードロック.md "wikilink")チューン\[5\]。
+        5thシングル。
+7.  **[マウンテン・ア・ゴーゴー・ツー](https://ja.wikipedia.org/wiki/マウンテン・ア・ゴーゴー・ツー "wikilink")**
+      -
+        2ndシングル、メジャーデビュー・シングル。
+8.  **GOOD HARVEST**
+      -
+        アルバム曲のうち、唯一のキャプテンストライダムのみによってアレンジされた楽曲。稲作が開始された[弥生時代](https://ja.wikipedia.org/wiki/弥生時代 "wikilink")の農民をテーマとした[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")風の[ハードロック](../Page/ハードロック.md "wikilink")チューン\[6\]。
         後に曲名をスペースシャワーTVの特別番組に流用。
-        ベストアルバム『ベストロリー』には[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ音源\[6\]が収録されている。
-9.  **メトロのメロス** (4:02)
-    作詞:久保田洋司/編曲:大平太一
+        ベスト・アルバム『[ベストロリー](https://ja.wikipedia.org/wiki/ベストロリー "wikilink")』には[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブ音源\[7\]が収録されている。
+9.  **メトロのメロス**
       -
         永友は地下鉄の中で曲を思い浮かぶことが多く、この曲は東京に出てきて地下鉄に違和感を覚えた気持ちが内包されている。
-        5thシングル内「A MEDLEY OF CTSR MEGA MIX」にて曲一部を先行発表。
-10. **[流星オールナイト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink") (album edit)**(4:32)
-    作詞:永友聖也
-      - 3rdシングル
-    <!-- end list -->
+        5thシングルに収録の「A MEDLEY OF CTSR MEGA MIX」にて曲一部を先行発表している。
+10. **[流星オールナイト](https://ja.wikipedia.org/wiki/流星オールナイト "wikilink") (album edit)**
       -
-        シングルバージョンよりイントロが短くなっており、フェードインして始まる。なお、フェードイン以降はシングルと同じアレンジ。ベストアルバム『ベストロリー』にはシングル・バージョンで収録されている。
-11. **泣きそうにみえるけど オレは今笑おうとしてる** (3:49)
-    作詞:永友聖也・久保田洋司/編曲:大平太一
+        3rdシングルのアルバムバージョン。
+        シングルバージョンよりイントロが短くなっており、フェード・インして始まる。なお、フェード・イン以降はシングルと同じアレンジ。
+        コンピレーション・アルバム『[俺のスターアルバム inspired by『荒川アンダー ザ ブリッジ THE MOVIE』](https://ja.wikipedia.org/wiki/俺のスターアルバム_inspired_by『荒川アンダー_ザ_ブリッジ_THE_MOVIE』 "wikilink")』には、本作に収録のアレンジで収録されている\[8\]。
+11. **泣きそうにみえるけど オレは今笑おうとしてる**
       -
-        最後に出来た曲。Cで録音した物をC\#に変え音源化。
+        最後に出来た楽曲で、当初Cで録音したものをC\#に変え音源化。
 
 ## 108 FILMS
 
@@ -86,7 +74,7 @@
         ハイスピードのCGで現代の交差点から大正時代、戦国時代、平安時代、原始時代、氷河期、白亜紀とタイムスリップしていく映像。ワンカットで撮影していたため、一度のミスでまた最初から取り直すという大変な撮影だった。
 2.  **流星オールナイト** （ディレクター・[板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")）
       -
-        高さ800メートルの超高層ビルの屋上で演奏する3人の映像。スタッフ曰く「CGを一切使っていない」とのこと\[7\]。
+        高さ800メートルの超高層ビルの屋上で演奏する3人の映像。スタッフ曰く「CGを一切使っていない」とのこと\[9\]。
 3.  **キミトベ** （ディレクター・[古川ヒロシ](https://ja.wikipedia.org/wiki/古川ヒロシ "wikilink")）
       -
         横浜で撮影。永友が出演した崎陽軒のCMと同じ場所が登場するなど、CMの続編とも考えられる。また、このPVにはCGは使用されていない。このPVからメンバー以外のエキストラも登場し、またメンバーも演奏以外の演技をするようになった。
@@ -124,8 +112,6 @@
 
 ### 注釈
 
-<references group="注釈" />
-
 ### 出典
 
 [Category:キャプテンストライダムのアルバム](https://ja.wikipedia.org/wiki/Category:キャプテンストライダムのアルバム "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")
@@ -135,5 +121,7 @@
 3.
 4.
 5.
-6.  映像作品『[LIVE IN SHIBUKO "BIG BAN BUZZ"](https://ja.wikipedia.org/wiki/LIVE_IN_SHIBUKO_"BIG_BAN_BUZZ" "wikilink")』に収録されているライブ映像を音源化したもの
-7.
+6.
+7.  映像作品『[LIVE IN SHIBUKO "BIG BAN BUZZ"](https://ja.wikipedia.org/wiki/LIVE_IN_SHIBUKO_"BIG_BAN_BUZZ" "wikilink")』に収録されているライブ映像を音源化したもの
+8.
+9.

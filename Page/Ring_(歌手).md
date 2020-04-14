@@ -1,4 +1,4 @@
-> この記事は[Ring \(\)](https://ja.wikipedia.org/wiki/Ring_\(\))から翻訳されています。
+> この記事は[Ring \(歌手\)](https://ja.wikipedia.org/wiki/Ring_\(歌手\))から翻訳されています。
 
 
 **Ring**（リング（リン）、[女性](../Page/女性.md "wikilink")、[1984年](../Page/1984年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") -、）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[彰化県](../Page/彰化県.md "wikilink")出身の元[歌手](../Page/歌手.md "wikilink")。本名は**林 楡涵**。

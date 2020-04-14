@@ -312,6 +312,6 @@ SECL-231:CD</p></td>
 
 ## 外部リンク
 
-  - [Sony Music](http://www.sonymusic.co.jp/artist/BeanBag/)(2005年6月更新停止)
+  - [Sony Music](https://www.sonymusic.co.jp/artist/BeanBag/)(2005年6月更新停止)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

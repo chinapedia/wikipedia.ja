@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[まんがタイムきららMAX](https://ja.wikipedia.org/wiki/まんがタイムきららMAX)から翻訳されています。
 
 
 『**まんがタイムきららMAX**』（まんがタイムきららマックス）は、[芳文社](../Page/芳文社.md "wikilink")発行の[4コマ漫画雑誌](https://ja.wikipedia.org/wiki/4コマ漫画#4コマ誌 "wikilink")。原則として毎月19日に発売されている（ただし、地域によっては発売日が異なることがある）。B5判、平綴じである。
@@ -92,7 +92,7 @@
   - [みわくの魔かぞく](https://ja.wikipedia.org/wiki/みわくの魔かぞく "wikilink")（[ごぼう](https://ja.wikipedia.org/wiki/ごぼう_\(漫画家\) "wikilink")、2018年8月号 - 9月号ゲスト、12月号 - ）
   - [社畜さんと家出少女](https://ja.wikipedia.org/wiki/社畜さんと家出少女 "wikilink")（[タツノコッソ](https://ja.wikipedia.org/wiki/タツノコッソ "wikilink")、2018年9月号 - 11月号ゲスト、2019年1月号 - ）
   - [旅する海とアトリエ](https://ja.wikipedia.org/wiki/旅する海とアトリエ "wikilink")（[森永ミキ](https://ja.wikipedia.org/wiki/森永ミキ "wikilink")、2018年11月号 - 2019年1月号ゲスト、3月号 - ）
-  - [ななどなどなど](https://ja.wikipedia.org/wiki/ななどなどなど "wikilink")（[宇崎うそ](https://ja.wikipedia.org/wiki/宇崎うそ "wikilink")、2019年2月号 - 4月号ゲスト、6月号 - ）
+  - [ななどなどなど](../Page/ななどなどなど.md "wikilink")（[宇崎うそ](https://ja.wikipedia.org/wiki/宇崎うそ "wikilink")、2019年2月号 - 4月号ゲスト、6月号 - ）
   - [エンとゆかり](https://ja.wikipedia.org/wiki/エンとゆかり "wikilink")（[しろううらやま](https://ja.wikipedia.org/wiki/しろううらやま "wikilink")、2019年1月号 - 3月号ゲスト、7月号 - ）
   - [ハルメタルドールズ](https://ja.wikipedia.org/wiki/ハルメタルドールズ "wikilink")（[カコベン](https://ja.wikipedia.org/wiki/カコベン "wikilink")、2019年5月号 - 6月号ゲスト、9月号 - ）
   - [いのち短し善せよ乙女](https://ja.wikipedia.org/wiki/いのち短し善せよ乙女 "wikilink")（[土管](https://ja.wikipedia.org/wiki/土管（漫画家） "wikilink")、2019年8月号-10月号ゲスト、12月号 - ）

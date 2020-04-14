@@ -1,4 +1,4 @@
-> この記事は[!CHRISTMAS EDITION](https://ja.wikipedia.org/wiki/!CHRISTMAS_EDITION)から翻訳されています。
+> この記事は[グッジョブ!CHRISTMAS EDITION](https://ja.wikipedia.org/wiki/グッジョブ!CHRISTMAS_EDITION)から翻訳されています。
 
 
 『**グッジョブ\!CHRISTMAS EDITION**』（グッジョブ クリスマス・エディション）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")発売。

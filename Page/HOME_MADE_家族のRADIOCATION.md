@@ -1,7 +1,7 @@
-> この記事は[HOME MADE RADIOCATION](https://ja.wikipedia.org/wiki/HOME_MADE_RADIOCATION)から翻訳されています。
+> この記事は[HOME MADE 家族のRADIOCATION](https://ja.wikipedia.org/wiki/HOME_MADE_家族のRADIOCATION)から翻訳されています。
 
 
-**HOME MADE 家族のRADIOCATION**（ホームメードかぞくのレディオ・ケイション）は、[HOME MADE 家族のMICROとKURO](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、U-ICHIのレギュラー番組である。全国の[JFN系列](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")28局で放送されている。HOME MADE 家族の本拠地といえる[名古屋付近の](../Page/名古屋市.md "wikilink")[FM AICHIではネットされてはいないが](../Page/エフエム愛知.md "wikilink")2010年1月よりネットが開始された。また、[Radio80で聞くことができる](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")。\[1\]
+**HOME MADE 家族のRADIOCATION**（ホームメードかぞくのレディオ・ケイション）は、[HOME MADE 家族のMICROとKURO](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、U-ICHIのレギュラー番組である。全国の[JFN系列](../Page/全国FM放送協議会.md "wikilink")28局で放送されている。HOME MADE 家族の本拠地といえる[名古屋付近の](../Page/名古屋市.md "wikilink")[FM AICHIではネットされてはいないが](../Page/エフエム愛知.md "wikilink")2010年1月よりネットが開始された。また、[Radio80で聞くことができる](https://ja.wikipedia.org/wiki/岐阜エフエム放送 "wikilink")。\[1\]
 
 [2006年](../Page/2006年.md "wikilink")4月放送開始。この番組は放送当初からネット局は多いものの、同時期にブレイクし、現在のJFNでのレギュラー番組を持っている[D-51](../Page/D-51.md "wikilink")より半年放送開始が遅い。放送基準日は、金曜日。
 

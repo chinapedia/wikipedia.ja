@@ -11,6 +11,7 @@
 
   - 前年（[1999年](../Page/1999年.md "wikilink")）にマーキュリーよりリリースされた[シングル](../Page/シングル.md "wikilink")2作「[BRAN-NEW LOVER](https://ja.wikipedia.org/wiki/BRAN-NEW_LOVER "wikilink")」・「[ミウ](https://ja.wikipedia.org/wiki/ミウ_\(BUCK-TICKの曲\) "wikilink")」の流れをくんだエレクトロニックかつポップな楽曲と、ノイジーでアヴァンギャルドな楽曲で構成されている。
   - [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、デビュー30周年を記念し、[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")在籍時代の9作品（本作から『[RAZZLE DAZZLE](https://ja.wikipedia.org/wiki/RAZZLE_DAZZLE "wikilink")』まで）が全曲リマスター・[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2・紙ジャケット仕様で再発売された\[2\]。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")　[ロバート・ロンゴ](https://ja.wikipedia.org/wiki/ロバート・ロンゴ "wikilink")とのコラボレーションでもある。
 
 ## リリース履歴
 

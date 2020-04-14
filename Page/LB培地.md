@@ -1,4 +1,4 @@
-> この記事は[LB](https://ja.wikipedia.org/wiki/LB)から翻訳されています。
+> この記事は[LB培地](https://ja.wikipedia.org/wiki/LB培地)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:LBmedium.JPG "wikilink") **LB培地**（エルビーばいち、LB medium）とは、[細菌](../Page/細菌.md "wikilink")用富栄養[培地](../Page/培地.md "wikilink")の1種で、特に[分子生物学](../Page/分子生物学.md "wikilink")の分野で[大腸菌](../Page/大腸菌.md "wikilink")などの[培養](../Page/培養.md "wikilink")に使用されることが多い。また、食品や水中の[大腸菌群](../Page/大腸菌群.md "wikilink")の検査にも用いられる。元々[ファージ](../Page/ファージ.md "wikilink")による[赤痢菌](../Page/赤痢菌.md "wikilink")の溶原化の研究の為に作られた培地であるが、後に多くの細菌の培養に適していることがわかり、分子生物学の分野では教科書にも掲載されるほどポピュラーな存在となる。なお、大腸菌群などの検査に用いられる乳糖ブイヨン（Lactose Bouillon）培地もLB培地と呼び習わすことがあるが、本稿で述べる培地とは別物である。

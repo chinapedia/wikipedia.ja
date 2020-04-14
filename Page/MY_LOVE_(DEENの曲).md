@@ -1,4 +1,4 @@
-> この記事は[MY LOVE \(DEEN\)](https://ja.wikipedia.org/wiki/MY_LOVE_\(DEEN\))から翻訳されています。
+> この記事は[MY LOVE \(DEENの曲\)](https://ja.wikipedia.org/wiki/MY_LOVE_\(DEENの曲\))から翻訳されています。
 
 
 「**MY LOVE**」（マイ・ラブ）は、[DEEN](../Page/DEEN.md "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。

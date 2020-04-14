@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[モバイルアダプタGB](https://ja.wikipedia.org/wiki/モバイルアダプタGB)から翻訳されています。
 
 
 **モバイルアダプタGB**（モバイルアダプタジービー）とは、[携帯電話](../Page/携帯電話.md "wikilink")と[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")及び[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")を接続する周辺機器である。

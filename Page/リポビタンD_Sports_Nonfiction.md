@@ -1,4 +1,4 @@
-> この記事は[D Sports Nonfiction](https://ja.wikipedia.org/wiki/D_Sports_Nonfiction)から翻訳されています。
+> この記事は[リポビタンD Sports Nonfiction](https://ja.wikipedia.org/wiki/リポビタンD_Sports_Nonfiction)から翻訳されています。
 
 
 **リポビタンD Sports Nonfiction**（ - デイ スポーツ ノンフィクション）は、[2006年](../Page/2006年.md "wikilink")4月1日から[2011年](../Page/2011年.md "wikilink")3月31日まで[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーション](https://ja.wikipedia.org/wiki/キーステーション "wikilink")に[JFN系列全国ネットで放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[リポビタンD](../Page/リポビタンD.md "wikilink")の[大正製薬](../Page/大正製薬.md "wikilink")による[一社提供](../Page/一社提供.md "wikilink")番組。

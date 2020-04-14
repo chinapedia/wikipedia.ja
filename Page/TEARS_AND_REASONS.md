@@ -53,7 +53,7 @@
   - ベース : Leland Sklar（\#2,\#3,\#5,\#7,\#10）、[Abraham Laboriel](../Page/エイブラハム・ラボリエル.md "wikilink")（\#4,\#6,\#8）
   - エレクトリック・ギター : [松原正樹](../Page/松原正樹.md "wikilink")（\#1,\#4～\#9）、Tim Pierce（\#2）、[Michael Landau](https://ja.wikipedia.org/wiki/マイケル・ランドー "wikilink")（\#3,\#6,\#10）
   - アコースティック・ギター : [吉川忠英](../Page/吉川忠英.md "wikilink")（\#5,\#7,\#9）
-  - パーカッション : [Micheal Fisher](https://ja.wikipedia.org/wiki/マイケル・フィッシャー_\(音楽家\) "wikilink")
+  - パーカッション : [Michael Fisher](https://ja.wikipedia.org/wiki/マイケル・フィッシャー_\(音楽家\) "wikilink")
   - サキソフォン : [Larry Williams](../Page/ラリー・ウィリアムズ_\(ジャズ・ミュージシャン\).md "wikilink")（\#1,\#3,\#4,\#6）、[Dan Higgins](https://ja.wikipedia.org/wiki/ダン・ヒギンス "wikilink")（\#1,\#6,\#8,\#9）
   - フルート : Dan Higgins（\#8,\#10）
   - ピッコロ : Dan Higgins（\#10）

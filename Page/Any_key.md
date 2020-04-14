@@ -1,50 +1,49 @@
 > この記事は[Any key](https://ja.wikipedia.org/wiki/Any_key)から翻訳されています。
 
 
-[thumbは](https://ja.wikipedia.org/wiki/ファイル:Keyboard-anykey.jpg "wikilink")[ジョークグッズを除いて実在しない](../Page/ユーモア.md "wikilink")。\]\] **Any key**（エニー・キー）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")操作において、ソフトウェアがユーザーに対して何等かの表示出力を行い、これを確認させ不特定のキー入力を求める際に使われる表現である。
+[DOS_pause.png](https://ja.wikipedia.org/wiki/File:DOS_pause.png "fig:DOS_pause.png")コマンドは、"Press any key to continue."（続行するには何かキーを押してください）と表示して、ユーザがキーを押下するのを待つ。\]\] **Any key**（エニー・キー）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")の操作において、ソフトウェアがユーザに対して何らかの表示出力を行い、これを確認した後に不特定のキー入力を求める際に使われる表現である。通常は"Press **any key** to continue"（続行するには何かキーを押してください）のように使用される。
 
 ## 概要
 
 現在、一般に流通しているコンピュータに於いて、標準で「Any」という刻印のあるキー（入力スイッチ）は[キーボード上に存在しない](../Page/キーボード_\(コンピュータ\).md "wikilink")。[英語](../Page/英語.md "wikilink")の “Any” は疑問文や否定文では不定数（不定量）を表すが、肯定文で単数形を伴うと、anyは不定のものを表し、"Press any key"　は「（どれでもいいので）何らかのキーを押しなさい」という意味である\[1\]。コンピュータの画面上では、「 *Press Any key to continue...* 」ないし「 *Hit Any key...* 」などと、何らかのキー入力を求める表示に使われる表現である。
 
-### 何故 “Any” なのか
+"any key"という表現は、厳密には正確ではない。ほとんどのコンピュータシステムでは、[修飾キー](../Page/修飾キー.md "wikilink")（[シフトキー](../Page/シフトキー.md "wikilink")など）、ロックキー（[NumLockキー](https://ja.wikipedia.org/wiki/NumLockキー "wikilink")など）、[変換キー](https://ja.wikipedia.org/wiki/変換キー "wikilink")など、単独で押下してもプログラムが実際の文字を生成しないキーがあり、"Press any key"に対してこれらのキーを押下しても何も起こらない。
 
-[コンピュータプログラム内部では](../Page/プログラム_\(コンピュータ\).md "wikilink")、入力されたキー操作を含む[文字列](../Page/文字列.md "wikilink")は[数値化されて処理されており](../Page/デジタル.md "wikilink")、コンピュータのキーを操作するということは、コンピュータのキーにそれぞれ設定されている数値を入力するということでもある。コンピュータは、この数値を[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）や[BIOSで処理し](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、文字の入力や何らかの[命令であると認識し](../Page/命令_\(コンピュータ\).md "wikilink")、画面に表示するなど所定の動作を行う。ゆえに「 *Hit Any key...* 」では、「（不特定な）**何等かのキー入力を…**」という意味になる。
+DVD-R130など一部の[サムスン電子](../Page/サムスン電子.md "wikilink")製DVDプレーヤーのリモコンには"anykey"というボタンがあり、視聴中のDVDの状態を表示するために使用される\[2\]。
 
-しかし一般の利用者にとって文字キーは、空白（スペースキー）を含めて[文字](../Page/文字.md "wikilink")という[記号](../Page/記号.md "wikilink")である。anyという単語の「何らかの」という意味を正しく認識していない一部の日本人にとっては、「何か（Something）」の方がより理解しやすい訳ではあるが、
+## 歴史
 
-ただこの辺りには諸説がある。「記憶容量の少ない[8ビットパソコン](../Page/8ビットパソコン.md "wikilink")や[ポケットコンピュータ](../Page/ポケットコンピュータ.md "wikilink")など初期のコンピュータで、[ソースコード](../Page/ソースコード.md "wikilink")の容量を少しでも減らし限界までメモリを有効活用するため」や「コンピュータ[プログラマ](../Page/プログラマ.md "wikilink")は面倒臭がりなので、略語やより短い単語を使いたがる」など、単に「文字数が少ない」という理由だけでこじつけられたものだとする説もあり、そもそも同語を誰が使い始めたのかも不明である。
+初期のコンピュータでは、通常、出力装置として[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")が使用され、出力結果は紙に印刷された状態で表示された。そのため、一度に大量の結果を出力しても、後から見直すことができた。しかし、1970年代には、テレタイプ端末に代わってビデオ表示端末(VDU)が使用されるようになり、出力結果はディスプレイに表示されるようになった。ディスプレイでは、大量の結果を一度に表示するとスクロールされて最初の方の結果を見ることができない。そのため、1画面文のデータを表示して一時停止するようになった。ユーザは結果を確認し、何らかのキーを押下すると次の1画面文のデータが表示された。
 
-## 同語に拠る混乱
+また、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")の挿入や[プリンタ](https://ja.wikipedia.org/wiki/プリンタ "wikilink")への紙の補充など、ユーザによる何らかの物理的アクションが必要な場合にも、同様の一時停止が必要だった。
 
-ただ、一般に[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")が普及し始めた頃から、特にコンピュータの内部処理に関して、詳しい教育を受けている訳では無い人でも、コンピュータに触れる機会が出てきて、ここで些か混乱を招いている。
+このようなプロンプトは、テキストベースの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")では一般的だった。[グラフィカルユーザーインターフェイス](https://ja.wikipedia.org/wiki/グラフィカルユーザーインターフェイス "wikilink")(GUI)では[スクロールバー](../Page/スクロールバー.md "wikilink")により画面外にスクロールされたデータが表示できるようになり、データ表示のためのこのようなプロンプトは不要となった。ただし、後者のユーザのアクションを求めるプロンプトについては、「継続するには"OK"をクリック」と表示する[モーダルダイアログなどのグラフィカルな表現に姿を変えて](https://ja.wikipedia.org/wiki/モーダルウィンドウ "wikilink")、今も残っている。
 
-似たような「処理を確認させるためにキー入力を促す」種類のメッセージには、例えば「Yes/No」の選択では\[Y\]または\[N\]にて二者択一で、或いは「Hit SPACE key」ないし「Hit ENTER key」のような所定のキー入力を促す様式もある。このため 利用者の中には、この “Any” という刻印のあるキーが何処かにあるものだと信じて、[キーボードの上を血眼になって探す者も見られた](../Page/キーボード_\(コンピュータ\).md "wikilink")。
+## 文化的意義
 
-[Microsoft Windows普及に前後して](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、パソコンメーカーのサポートダイヤルにも、定期的にこのような問い合わせがあったという話も聞かれる。こういった現象を揶揄して、実際に “Any” と刻印されたキートップが（無論[ジョーク](../Page/ジョーク.md "wikilink")として）販売されたことすらある。
+[thumbは](https://ja.wikipedia.org/wiki/ファイル:Keyboard-anykey.jpg "wikilink")[ジョークグッズを除いて実在しない](../Page/ユーモア.md "wikilink")。\]\] 1982年の[アップルコンピュータの開発者向けマニュアルには](../Page/アップル_\(企業\).md "wikilink")、次のように書かれている\[3\]。
 
-ジョークでは「何でも構わないんだから、[リセット](../Page/リセット.md "wikilink")スイッチを押してしまえ」という話もある「*Any key*」だが、現在では[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")（GUI）が普及し、[マウスで画面上にあるOKボタンをクリックするようになっているため](../Page/マウス_\(コンピュータ\).md "wikilink")、一般でこのような話が出ることは稀である。現在では[キャラクタユーザインタフェース](../Page/キャラクタユーザインタフェース.md "wikilink")で操作するユーザーは、一部マニアや専門筋を除いては皆無であるためである。
+1988年には、「"any"と刻印されたキーをキーボードから探したが、見つからなかった」と技術サポートに電話があったという報告がある\[4\]\[5\]。コンピュータメーカーの[コンパック](../Page/コンパック.md "wikilink")\[6\]は、"any"というキーが存在しないことを[FAQ](../Page/FAQ.md "wikilink")に追加し\[7\]\[8\]、一時は"Press any key"（何かキーを押してください）を"Press return key"（[リターンキー](https://ja.wikipedia.org/wiki/リターンキー "wikilink")を押してください）に置き換えることを検討した\[9\]。 "any key"という概念は、コンピュータ関連ではよく登場するユーモアである\[10\]。[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")の第7シーズンのエピソード「」でギャグとして使われた\[11\]。
 
-また近年ではOSに[ヘルプ](https://ja.wikipedia.org/wiki/ヘルプ "wikilink")（[オンラインヘルプ](https://ja.wikipedia.org/wiki/オンラインヘルプ "wikilink")）機能が装備されているため、同種の問題に惑うユーザーは、やはり稀である。
+実際に"any"と刻印されたキーが、ジョークグッズとして売られていたり、記念品として配られたりする\[12\]。
 
-## その他
-
-これらは、主にコマンドプロンプトを操作する[PC-DOS](https://ja.wikipedia.org/wiki/PC-DOS "wikilink")/[MS-DOS](../Page/MS-DOS.md "wikilink")といったGUIを持たないOSの時代の話ではあるが、この世代に属する、あるいはそれ以前の、コマンド入力方式が常態であった8ビットパソコン時代の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")などにも、しばしば画面を表示してユーザーの操作待ちをしている状態において、同様の表示が出ることがあった。
-
-やはりこの時代にも、この「*Hit Any key...*」の表示を見て、そのようなキーがパソコン上に有るのでは無いかと探し回ったという話が聞かれる。
-
-なお[ザ・シンプソンズ](https://ja.wikipedia.org/wiki/ザ・シンプソンズ "wikilink")のホーマーも、Any keyを探したようである\[2\]。
-
-## 参照
-
-<references />
+## 脚注
 
 ## 関連項目
 
   - [キー配列](../Page/キー配列.md "wikilink")
-  - [PAUSE](https://ja.wikipedia.org/wiki/ポーズ "wikilink") - [DOSの](../Page/DOS_\(OS\).md "wikilink")[バッチファイル](../Page/バッチファイル.md "wikilink")などで使用されるコマンド。
 
 [Category:コンピュータのユーザインタフェース](https://ja.wikipedia.org/wiki/Category:コンピュータのユーザインタフェース "wikilink") [Category:コンピュータのキー](https://ja.wikipedia.org/wiki/Category:コンピュータのキー "wikilink") [Category:コンピュータ・ユーモア](https://ja.wikipedia.org/wiki/Category:コンピュータ・ユーモア "wikilink")
 
 1.  「Mac Fan」2015年8月号、Mac Fan編集部、2015年、158頁。
-2.  Simran Khurana “[Famous "Simpsons" Quotes](http://quotations.about.com/od/funnymovieandtvquotes/a/simpsonsF.htm)” About.com
+2.  [DVD-R130](http://downloadcenter.samsung.com/content/EM/200602/20060209163759000/EN/main.html)
+3.
+4.
+5.
+6.  [Compaq FAQ: Where do I find the "Any" key on my keyboard](https://web.archive.org/web/20070627063024/http://www29.compaq.com/falco/detail.asp?FAQnum=FAQ2859)
+7.
+8.
+9.
+10.
+11. Simran Khurana “[Famous "Simpsons" Quotes](http://quotations.about.com/od/funnymovieandtvquotes/a/simpsonsF.htm)” About.com
+12. "Gag items offer relief in world of bits, bytes". *[The Deseret News](https://ja.wikipedia.org/wiki/The_Deseret_News "wikilink")*. 1999-03-30. Retrieved from Newsbank on 2009-02-15.

@@ -1,4 +1,4 @@
-> この記事は[ECW](https://ja.wikipedia.org/wiki/ECW)から翻訳されています。
+> この記事は[ECW王座](https://ja.wikipedia.org/wiki/ECW王座)から翻訳されています。
 
 
 **ECW王座**(イーシーダブリューおうざ、*ECW Championship*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つである](../Page/チャンピオンベルト.md "wikilink")。WWEの番組の一つである[ECW](../Page/ECW.md "wikilink")が管理していた。同王座はかつて**ECW世界ヘビー級王座**（*ECW World Heavyweight Championship*）、**ECW世界王座**(*ECW World Championship*)という名称であった。

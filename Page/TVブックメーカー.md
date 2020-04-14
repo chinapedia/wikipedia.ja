@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVブックメーカー](https://ja.wikipedia.org/wiki/TVブックメーカー)から翻訳されています。
 
 
 『**TVブックメーカー**』（テレビブックメーカー）\[1\]は、[1991年](../Page/1991年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで[フジテレビの深夜帯](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[JOCX-TV+（プラス）](../Page/JOCX-TV2.md "wikilink")）で放送されていた[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。企画は[ホイチョイ・プロダクションズ](../Page/ホイチョイ・プロダクションズ.md "wikilink")。「現在」を取り扱う『[マーケティング天国](https://ja.wikipedia.org/wiki/マーケティング天国 "wikilink")』、「過去」を題材にした『[カノッサの屈辱](../Page/カノッサの屈辱_\(テレビ番組\).md "wikilink")』に続き、「未来」をテーマにした本作で「マーケティング三部作」とも言われた。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[リポビタンDチャレンジカップ](https://ja.wikipedia.org/wiki/リポビタンDチャレンジカップ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JPN-ITA_20140621,_Chichibu-no-Miya.jpg "wikilink") 2014年6月21日撮影）\]\] [Ajinomoto_Stadium1.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium1.jpg "fig:Ajinomoto_Stadium1.jpg") 2016年6月25日撮影）\]\] [Ajinomoto_Stadium2.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium2.jpg "fig:Ajinomoto_Stadium2.jpg") [International_Stadium_Yokohama-1.jpg](https://ja.wikipedia.org/wiki/File:International_Stadium_Yokohama-1.jpg "fig:International_Stadium_Yokohama-1.jpg") 2017年11月4日撮影）\]\] [Ajinomoto_Stadium_2018-13.jpg](https://ja.wikipedia.org/wiki/File:Ajinomoto_Stadium_2018-13.jpg "fig:Ajinomoto_Stadium_2018-13.jpg")

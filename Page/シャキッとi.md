@@ -1,7 +1,7 @@
-> この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
+> この記事は[シャキッとi](https://ja.wikipedia.org/wiki/シャキッとi)から翻訳されています。
 
 
-**シャキッとi**（シャキッとアイ）は、[琉球放送](../Page/琉球放送.md "wikilink")（RBCiラジオ）で平日 7:00 - 9:00に放送している、朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+**シャキッとi**（シャキッとアイ）は、[琉球放送](../Page/琉球放送.md "wikilink")（RBCiラジオ）で平日 7:00 - 9:00に放送していた、朝の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ## パーソナリティ
 
@@ -68,6 +68,6 @@
 
 ## 外部リンク
 
-  - [RBCiラジオ「シャキッとi」](http://www.rbc.co.jp/radio_program/syaki/)
+  - [シャキッとi](https://www.rbc.co.jp/radio_program/syaki/)
 
 [Category:琉球放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:琉球放送のラジオ帯番組 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKスラヴィア・プラハ](https://ja.wikipedia.org/wiki/SKスラヴィア・プラハ)から翻訳されています。
 
 
 **SKスラヴィア・プラハ**（）は、[チェコ](../Page/チェコ.md "wikilink")の首都[プラハ](../Page/プラハ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。同じくプラハをホームタウンとする[ACスパルタ・プラハ](../Page/ACスパルタ・プラハ.md "wikilink")との対戦はプラハ[ダービーとして知られており](../Page/ダービーマッチ.md "wikilink")、勢力を二分している。

@@ -7,7 +7,7 @@
 
   - [高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（Vocals,Guitar　[ZIGZO](../Page/ZIGZO.md "wikilink")、[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink")、[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")、[鉄人](../Page/鉄人_\(アコースティックユニット\).md "wikilink")、元[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")、元[MEGA8BALL](https://ja.wikipedia.org/wiki/MEGA8BALL "wikilink")）
   - [小林勝](../Page/小林勝_\(音楽家\).md "wikilink")（Bass　[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")、[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")、元[SADS](../Page/SADS.md "wikilink")） - 2005年4月加入
-  - [風間弘行](https://ja.wikipedia.org/wiki/風間弘行 "wikilink")（Drums　[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")、元[FANTASTIC DESIGNS](https://ja.wikipedia.org/wiki/FANTASTIC_DESIGNS "wikilink")） - 2005年12月加入
+  - [風間弘行](https://ja.wikipedia.org/wiki/風間弘行 "wikilink")（Drums　[THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink")、元[FANTASTIC DESIGNS](https://ja.wikipedia.org/wiki/FANTASTIC_DESIGNS "wikilink")） - 2005年12月札幌BESSIE　HALLのライブで加入
 
 ### 旧メンバー
 

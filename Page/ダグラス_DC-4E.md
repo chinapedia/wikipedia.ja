@@ -1,4 +1,4 @@
-> この記事は[ DC-4E](https://ja.wikipedia.org/wiki/_DC-4E)から翻訳されています。
+> この記事は[ダグラス DC-4E](https://ja.wikipedia.org/wiki/ダグラス_DC-4E)から翻訳されています。
 
 
 {{ Infobox 航空機

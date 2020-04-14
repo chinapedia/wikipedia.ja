@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[土曜ワイドラジオTOKYO](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO)から翻訳されています。
 
 
 『**久米宏の土曜ワイドラジオTOKYO**』（くめひろしのどようワイドラジオトーキョー）とは、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")（当時は[東京放送のラジオ部門](../Page/東京放送ホールディングス.md "wikilink")）で毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた、最長8時間の大型[ワイド番組](../Page/ワイド番組.md "wikilink")である。

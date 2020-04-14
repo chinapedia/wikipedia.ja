@@ -1,4 +1,4 @@
-> この記事は[Def Jam Recordings \(\)](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(\))から翻訳されています。
+> この記事は[Def Jam Recordings \(レコードレーベル\)](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(レコードレーベル\))から翻訳されています。
 
 
 **Def Jam Recordings**（**デフ・ジャム・レコーディングス**）は、[ラッセル・シモンズ](https://ja.wikipedia.org/wiki/ラッセル・シモンズ "wikilink")と[リック・ルービン](../Page/リック・ルービン.md "wikilink")によって[1984年](../Page/1984年.md "wikilink")に設立された[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")を専門としている。コールド・チリン、シュガーヒル、トミー・ボーイ、ジャイブ、デリシャス・ヴァイナルなどと並ぶ、ラップ全盛期の代表的なレコード・レーベルであった。
@@ -79,7 +79,7 @@
   - イメンス（Immense）【Roc-A-Fella】
   - [ジェイ・Z](../Page/ジェイ・Z.md "wikilink")【Roc-A-Fella】
   - ヤング・ガンズ（Young Gunz）【Roc-A-Fella】
-  - [カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")【Roc-A-Fella、G.O.O.D】
+  - [カニエ・ウェスト](../Page/カニエ・ウェスト.md "wikilink")【Roc-A-Fella、G.O.O.D】
   - アズテック（Aztek）【Roc-La-Familia】
   - ヘクター・バンビーノ（Hector "El Bambino"）【Roc-La-Familia】
   - レディ・ソヴリン（Lady Sovereign）【Roc-La-Familia】

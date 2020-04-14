@@ -947,7 +947,7 @@ so-to
   - [ワイヨリカ20周年公式サイト](http://www.110107.com/s/oto/page/Wyolica20?ima=5250)
 
   -
-  - [Sony Music Online Japan : wyolica](http://www.sonymusic.co.jp/artist/wyolica/)
+  - [Sony Music Online Japan : wyolica](https://www.sonymusic.co.jp/artist/wyolica/)
 
   - [wyolica official blog](http://ameblo.jp/wyolica-blog/)
 

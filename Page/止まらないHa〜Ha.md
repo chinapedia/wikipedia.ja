@@ -1,4 +1,4 @@
-> この記事は[HaHa](https://ja.wikipedia.org/wiki/HaHa)から翻訳されています。
+> この記事は[止まらないHa〜Ha](https://ja.wikipedia.org/wiki/止まらないHa〜Ha)から翻訳されています。
 
 
 「**止まらないHa〜Ha**」（とまらないハーハ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[シンガー](../Page/歌手.md "wikilink")、[矢沢永吉](../Page/矢沢永吉.md "wikilink")の楽曲。

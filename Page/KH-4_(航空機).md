@@ -1,4 +1,4 @@
-> この記事は[KH-4 \(\)](https://ja.wikipedia.org/wiki/KH-4_\(\))から翻訳されています。
+> この記事は[KH-4 \(航空機\)](https://ja.wikipedia.org/wiki/KH-4_\(航空機\))から翻訳されています。
 
 
 **KH-4**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[航空機](../Page/航空機.md "wikilink")メーカー、川崎航空機（現[川崎重工業](../Page/川崎重工業.md "wikilink")）が[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")製[ベル47G3Bをベースに改造開発した](../Page/ベル47_\(航空機\).md "wikilink")4人乗り単発[ヘリコプター](../Page/ヘリコプター.md "wikilink")。KHは川崎ヘリコプターの略、4は4人乗りの意味。通常はベル47G3B-KH-4と呼ばれている。

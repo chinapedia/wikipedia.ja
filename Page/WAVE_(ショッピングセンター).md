@@ -1,4 +1,4 @@
-> この記事は[WAVE \(\)](https://ja.wikipedia.org/wiki/WAVE_\(\))から翻訳されています。
+> この記事は[WAVE \(ショッピングセンター\)](https://ja.wikipedia.org/wiki/WAVE_\(ショッピングセンター\))から翻訳されています。
 
 
 **WAVE**（ウェーブ）は[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")にかつて存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")の愛称。設立は協同組合 長門コミュニティータウン。核テナントは地下1階の[サンリブ](../Page/サンリブ.md "wikilink")長門。キャッチフレーズは「**遊びに来たら、愛。**」である。

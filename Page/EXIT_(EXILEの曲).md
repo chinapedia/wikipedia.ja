@@ -1,4 +1,4 @@
-> この記事は[EXIT \(EXILE\)](https://ja.wikipedia.org/wiki/EXIT_\(EXILE\))から翻訳されています。
+> この記事は[EXIT \(EXILEの曲\)](https://ja.wikipedia.org/wiki/EXIT_\(EXILEの曲\))から翻訳されています。
 
 
 「**EXIT**」（イグジット）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

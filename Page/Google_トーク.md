@@ -1,4 +1,4 @@
-> この記事は[Google ](https://ja.wikipedia.org/wiki/Google_)から翻訳されています。
+> この記事は[Google トーク](https://ja.wikipedia.org/wiki/Google_トーク)から翻訳されています。
 
 
 **Google トーク**（グーグルトーク、）は、[Google](../Page/Google.md "wikilink")が2005年8月24日（日本語版は2006年5月16日）に公開した[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。

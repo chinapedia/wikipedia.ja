@@ -1,4 +1,4 @@
-> この記事は[MASTERPIECE \(RIP SLYME\)](https://ja.wikipedia.org/wiki/MASTERPIECE_\(RIP_SLYME\))から翻訳されています。
+> この記事は[MASTERPIECE \(RIP SLYMEのアルバム\)](https://ja.wikipedia.org/wiki/MASTERPIECE_\(RIP_SLYMEのアルバム\))から翻訳されています。
 
 
 『**MASTERPIECE**』（マスターピース）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")4枚目のアルバム。[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")発売。

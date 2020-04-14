@@ -1,4 +1,4 @@
-> この記事は[J.O.](https://ja.wikipedia.org/wiki/J.O.)から翻訳されています。
+> この記事は[J.O.スタヂオ](https://ja.wikipedia.org/wiki/J.O.スタヂオ)から翻訳されています。
 
 
 **J.O.スタヂオ**（ジェー・オー・スタヂオ、[1933年](../Page/1933年.md "wikilink") 設立 - [1937年](../Page/1937年.md "wikilink") 合併）は、かつて昭和初期に[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")に存在した日本の[映画会社](https://ja.wikipedia.org/wiki/映画会社 "wikilink")である。[東宝](../Page/東宝.md "wikilink")の前身の一つ。京都の[太秦](../Page/太秦.md "wikilink")[蚕ノ社前](../Page/木嶋坐天照御魂神社.md "wikilink")（現・大日本印刷太秦工場付近）に[映画スタジオ](../Page/映画スタジオ.md "wikilink")をもつ。本項ではその後身である**東宝映画京都撮影所**（1937年 - 1941年）についても記す。
@@ -29,13 +29,13 @@
 
 ### 東宝映画京都撮影所となる
 
-[1937年](../Page/1937年.md "wikilink")（昭和12年）、J.O.スタヂオは、東京砧の[ピー・シー・エル映画製作所](../Page/ピー・シー・エル映画製作所.md "wikilink")、東宝映画配給、[写真化学研究所](../Page/写真化学研究所.md "wikilink")の3社と合併、[東宝映画](../Page/東宝映画.md "wikilink")株式会社が設立される。J.O.スタヂオは「東宝映画京都撮影所」、P.C.Lが同東京撮影所（現・[東宝スタジオ](../Page/東宝スタジオ.md "wikilink")）となった。[森岩雄](https://ja.wikipedia.org/wiki/森岩雄 "wikilink")の招きで、円谷英二は砧の東京撮影所へ移籍。
+[1937年](../Page/1937年.md "wikilink")（昭和12年）10月、J.O.スタヂオは、東京砧の[ピー・シー・エル映画製作所](../Page/ピー・シー・エル映画製作所.md "wikilink")、東宝映画配給、[写真化学研究所](../Page/写真化学研究所.md "wikilink")の3社と合併、[東宝映画](../Page/東宝映画.md "wikilink")株式会社が設立される。J.O.スタヂオは「東宝映画京都撮影所」、P.C.Lが同東京撮影所（現・[東宝スタジオ](../Page/東宝スタジオ.md "wikilink")）となった。[森岩雄](https://ja.wikipedia.org/wiki/森岩雄 "wikilink")の招きで、円谷英二は砧の東京撮影所へ移籍。
 
 当初は東京撮影所が現代劇、京都撮影所（J.O）が[時代劇](../Page/時代劇.md "wikilink")という制作分担だったが、東京の施設を拡充、時代劇も東京が製作するようになり、京都撮影所は東京撮影所の補助となる。
 
 [1938年](../Page/1938年.md "wikilink")（昭和13年）2月に[今井映画製作所](https://ja.wikipedia.org/wiki/今井映画製作所 "wikilink")を吸収。
 
-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）に閉鎖。跡地は[大日本印刷](../Page/大日本印刷.md "wikilink") 京都工場となっている。
+[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）9月19日に閉鎖。跡地は[大日本印刷](../Page/大日本印刷.md "wikilink") 京都工場となっている。
 
 ## エピソード
 

@@ -1,4 +1,4 @@
-> この記事は[ \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/_\(ORANGE_RANGE\))から翻訳されています。
+> この記事は[キズナ \(ORANGE RANGEの曲\)](https://ja.wikipedia.org/wiki/キズナ_\(ORANGE_RANGEの曲\))から翻訳されています。
 
 
 「**キズナ**」は、日本の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。

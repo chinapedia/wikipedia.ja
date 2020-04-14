@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[宇宙の騎士テッカマンブレードII](https://ja.wikipedia.org/wiki/宇宙の騎士テッカマンブレードII)から翻訳されています。
 
 
 『**宇宙の騎士テッカマンブレードII**』（うちゅうのきし テッカマンブレード ツー）は、[1994年](../Page/1994年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にかけて発売された、[タツノコプロ](../Page/タツノコプロ.md "wikilink")制作の[OVA](../Page/OVA.md "wikilink")である。全6巻。

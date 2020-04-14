@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ステーションQ](https://ja.wikipedia.org/wiki/ステーションQ)から翻訳されています。
 
 
 『**ステーションQ**』（ステーションキュー）は、1995年10月2日から2013年3月29日まで[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")が放送していた[沖縄県](../Page/沖縄県.md "wikilink")向けのローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

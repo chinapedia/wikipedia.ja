@@ -1,4 +1,4 @@
-> この記事は[Cyc \(\)](https://ja.wikipedia.org/wiki/Cyc_\(\))から翻訳されています。
+> この記事は[Cyc \(ブランド\)](https://ja.wikipedia.org/wiki/Cyc_\(ブランド\))から翻訳されています。
 
 
 **Cyc**（サイク）は、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区に本社を置く](../Page/中央区_\(福岡市\).md "wikilink")[有限会社](../Page/有限会社.md "wikilink")ビーアイコミュニケーションズの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド\[1\]。

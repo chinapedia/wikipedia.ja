@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎)から翻訳されています。
 
 
 **中村 K太郎**（なかむら けいたろう、[1984年](../Page/1984年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**中村 圭太**（なかむら けいた）。[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身。[和術慧舟會](../Page/和術慧舟會.md "wikilink")K太郎道場所属。元[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")王者。[SRCウェルター級グランプリシリーズ](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")2010王者。

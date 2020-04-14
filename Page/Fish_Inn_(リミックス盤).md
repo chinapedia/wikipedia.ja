@@ -1,4 +1,4 @@
-> この記事は[Fish Inn \(\)](https://ja.wikipedia.org/wiki/Fish_Inn_\(\))から翻訳されています。
+> この記事は[Fish Inn \(リミックス盤\)](https://ja.wikipedia.org/wiki/Fish_Inn_\(リミックス盤\))から翻訳されています。
 
 
 『**Fish Inn (リミックス盤)**』（フィッシュ・イン - りみっくすばん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")のリミックス盤。

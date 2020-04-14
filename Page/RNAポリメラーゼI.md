@@ -1,4 +1,4 @@
-> この記事は[RNAI](https://ja.wikipedia.org/wiki/RNAI)から翻訳されています。
+> この記事は[RNAポリメラーゼI](https://ja.wikipedia.org/wiki/RNAポリメラーゼI)から翻訳されています。
 
 
 **RNAポリメラーゼI**（、略称: **Pol I**）は、高等[真核生物](../Page/真核生物.md "wikilink")では[リボソームRNA](../Page/リボソームRNA.md "wikilink")（ただしによって合成されるを除く）のみを[転写する](https://ja.wikipedia.org/wiki/転写_\(生物学\) "wikilink")[ポリメラーゼ](https://ja.wikipedia.org/wiki/ポリメラーゼ "wikilink")である。このタイプの[RNAは](../Page/リボ核酸.md "wikilink")、[細胞](../Page/細胞.md "wikilink")内で合成されるRNAの総量の50%以上を占める\[1\]。

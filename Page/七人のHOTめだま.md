@@ -1,4 +1,4 @@
-> この記事は[HOT](https://ja.wikipedia.org/wiki/HOT)から翻訳されています。
+> この記事は[七人のHOTめだま](https://ja.wikipedia.org/wiki/七人のHOTめだま)から翻訳されています。
 
 
 『**七人のHOTめだま**』（しちにんのホットめだま）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[討論](../Page/討論番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も1988年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで『**HOTめだま**』と題して放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[THE MANZAI \(\)](https://ja.wikipedia.org/wiki/THE_MANZAI_\(\))から翻訳されています。
+> この記事は[THE MANZAI \(小説\)](https://ja.wikipedia.org/wiki/THE_MANZAI_\(小説\))から翻訳されています。
 
 
 『**The MANZAI**』（ザ・マンザイ）は、[あさのあつこ](../Page/あさのあつこ.md "wikilink")作の小説。シリーズ累計200万部を突破しており、全6巻でシリーズ完結。漫画化、[CDドラマ化もされている](../Page/ドラマCD.md "wikilink")。

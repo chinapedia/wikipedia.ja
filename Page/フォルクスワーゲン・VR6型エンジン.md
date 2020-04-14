@@ -1,4 +1,4 @@
-> この記事は[VR6](https://ja.wikipedia.org/wiki/VR6)から翻訳されています。
+> この記事は[フォルクスワーゲン・VR6型エンジン](https://ja.wikipedia.org/wiki/フォルクスワーゲン・VR6型エンジン)から翻訳されています。
 
 
 [Motor_VR6_a_15_grados.png](https://ja.wikipedia.org/wiki/File:Motor_VR6_a_15_grados.png "fig:Motor_VR6_a_15_grados.png") **フォルクスワーゲン・VR6型エンジン**（**VR6**）は、[フォルクスワーゲングループ](../Page/フォルクスワーゲングループ.md "wikilink")によって開発された6気筒の[狭角V型エンジン](../Page/狭角V型エンジン.md "wikilink")であり、1991年に登場した。VR6という名称は、Vが[V型エンジン](../Page/V型エンジン.md "wikilink")、Rがドイツ語で[直列エンジン](https://ja.wikipedia.org/wiki/直列エンジン "wikilink")を意味する*Reihenmotor*の頭文字から付けられている。長らくVR6の名称で親しまれてきたが、現在におけるフォルクスワーゲン・VR型6型エンジンの正式名称は**V6**である。

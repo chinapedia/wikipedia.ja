@@ -1,4 +1,4 @@
-> この記事は[AZ](https://ja.wikipedia.org/wiki/AZ)から翻訳されています。
+> この記事は[トヨタ・AZエンジン](https://ja.wikipedia.org/wiki/トヨタ・AZエンジン)から翻訳されています。
 
 
 **AZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年)に[エスティマで登場](../Page/トヨタ・エスティマ.md "wikilink")。[2代目S型エンジンの後継機種として](../Page/トヨタ・S型エンジン_\(2代目\).md "wikilink")、ミディアムサイズの車種に幅広く搭載されている。2019年10月にエスティマの販売終了に伴い生産終了する。

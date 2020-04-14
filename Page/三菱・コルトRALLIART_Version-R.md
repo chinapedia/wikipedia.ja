@@ -1,4 +1,4 @@
-> この記事は[RALLIART Version-R](https://ja.wikipedia.org/wiki/RALLIART_Version-R)から翻訳されています。
+> この記事は[三菱・コルトRALLIART Version-R](https://ja.wikipedia.org/wiki/三菱・コルトRALLIART_Version-R)から翻訳されています。
 
 
 **COLT RALLIART Version-R**（コルト・ラリーアート・ヴァージョン-アール）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・[販売](../Page/販売.md "wikilink")をしていた[自動車](../Page/自動車.md "wikilink")である。小型[ハッチバック](../Page/ハッチバック.md "wikilink")の[コルトをベースとしたスポーツモデルである](../Page/三菱・コルト.md "wikilink")。

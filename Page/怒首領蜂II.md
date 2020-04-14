@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[怒首領蜂II](https://ja.wikipedia.org/wiki/怒首領蜂II)から翻訳されています。
 
 
 『**怒首領蜂II**』（どどんぱち ツー）は[2001年](../Page/2001年.md "wikilink")稼働開始の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。この作品は[ケイブ](../Page/ケイブ.md "wikilink")はライセンス提供のみ行っており、実際の開発は台湾の[IGSが行った](https://ja.wikipedia.org/wiki/IGS_\(台湾企業\) "wikilink")。販売は[カプコン](../Page/カプコン.md "wikilink")。システム基板はPGM。日本国外でのタイトルは、『Bee Storm』または『蜂暴』（フェンバゥ）。

@@ -1,4 +1,4 @@
-> この記事は[CONTINUE \(\)](https://ja.wikipedia.org/wiki/CONTINUE_\(\))から翻訳されています。
+> この記事は[CONTINUE \(雑誌\)](https://ja.wikipedia.org/wiki/CONTINUE_\(雑誌\))から翻訳されています。
 
 
 『**CONTINUE**』（コンティニュー）は、[太田出版](../Page/太田出版.md "wikilink")が刊行する[ゲーム](../Page/ゲーム雑誌.md "wikilink")・[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に創刊（vol.0）。当初（vol.1 - ）は季刊であったが、vol.8（[2003年](../Page/2003年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")発刊）からは隔月刊（偶数月発刊）となった。2010年2月発刊のvol.50をもって休刊となったが、2018年1月復刊。[判型](../Page/判型.md "wikilink")はA5変形。
@@ -595,8 +595,81 @@
 <tr class="even">
 <td><p>vol.56</p></td>
 <td><p>2018年11月</p></td>
-<td><p>「『<a href="https://ja.wikipedia.org/wiki/ラブライブ!" title="wikilink">ラブライブ!</a>』TVシリーズ」</p></td>
+<td><p>「『<a href="https://ja.wikipedia.org/wiki/ラブライブ!" title="wikilink">ラブライブ！</a>』シリーズ、その世界。」</p></td>
 <td><p>*「ラブライブ!」「[[ラブライブ!サンシャイン</p></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.57</p></td>
+<td><p>2019年1月</p></td>
+<td><p>「『ラブライブ！』シリーズと劇場版」</p></td>
+<td><ul>
+<li>ゲーム・オブ・ザ・イヤー2018</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Vol.58</p></td>
+<td><p>2019年3月</p></td>
+<td><p>「『ラブライブ！』シリーズと、その音楽。」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.59</p></td>
+<td><p>2019年5月</p></td>
+<td><p>「NINTENDO64が変えたもの。」</p></td>
+<td><ul>
+<li>ポケモンシャツ全151枚オールカタログ</li>
+<li><a href="https://ja.wikipedia.org/wiki/特定非営利活動法人アニメ特撮アーカイブ機構" title="wikilink">特定非営利活動法人アニメ特撮アーカイブ機構</a></li>
+<li>新幹線変形ロボ シンカリオン</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Vol.60</p></td>
+<td><p>2019年7月</p></td>
+<td><p>「超キャラゲー」</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/ストレンジャー・シングス" title="wikilink">ストレンジャー・シングス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/センコロール_コネクト" title="wikilink">センコロール コネクト</a></li>
+<li>コヤマシゲトとゆかいななかまたち</li>
+<li>UKといく今の秋葉原。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.61</p></td>
+<td><p>2019年9月</p></td>
+<td><p>「<a href="../Page/蒼井翔太.md" title="wikilink">蒼井翔太</a>」</p></td>
+<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/倉島颯良" title="wikilink">倉島颯良</a> in 東洋文庫ミュージアム</li>
+<li>コヤマシゲトとゆかいななかまたち</li>
+<li>シンカリオンの今と未来</li>
+</ul>
+<p>* 無電源ゲームの聖地! ついに単独潜入</p></td>
+</tr>
+<tr class="even">
+<td><p>Vol.62</p></td>
+<td><p>2019年11月</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/トリガー_(アニメ制作会社)" title="wikilink">TRIGGER</a>」</p></td>
+<td><ul>
+<li>祝！ 20周年記念「<a href="../Page/スペースチャンネル5.md" title="wikilink">スペースチャンネル5</a>」特集</li>
+<li><a href="https://ja.wikipedia.org/wiki/PROJECT_TOEI" title="wikilink">PROJECT TOEI</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Vol.63</p></td>
+<td><p>2020年1月</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/ヒプノシスマイク" title="wikilink">ヒプノシスマイク -Division Rap Battle-</a>」</p></td>
+<td><ul>
+<li>ゲーム・オブ・ザ・イヤー2019</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Vol.64</p></td>
+<td><p>2020年3月</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/ゾンビランドサガ" title="wikilink">ゾンビランドサガ</a>」</p></td>
+<td><ul>
+<li><a href="../Page/どうにかなる日々.md" title="wikilink">どうにかなる日々</a></li>
+<li><a href="../Page/AKIRA_(漫画).md" title="wikilink">AKIRA</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Playdate_(ゲーム機)" title="wikilink">Playtdate</a></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -658,6 +731,18 @@
 <li>有野課長×<a href="../Page/中村悠一.md" title="wikilink">中村悠一</a> スペシャル対談</li>
 <li><a href="../Page/バカリズム.md" title="wikilink">バカリズム</a> VS 有野課長</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td><p>CNT 別冊</p></td>
+<td><p>2019年12月</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン_The_Animation" title="wikilink">新幹線変形ロボ シンカリオン THE ANIMATION</a>」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>CNT SP</p></td>
+<td><p>2020年3月</p></td>
+<td><p>「<a href="../Page/PCエンジン.md" title="wikilink">PCエンジン</a>」</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

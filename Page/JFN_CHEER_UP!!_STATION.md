@@ -1,7 +1,7 @@
 > この記事は[JFN CHEER UP!! STATION](https://ja.wikipedia.org/wiki/JFN_CHEER_UP!!_STATION)から翻訳されています。
 
 
-**JFN CHEER UP\!\! STATION**（ジェイ・エフ・エヌ・チアアップ\!\!ステーション）は[JFNC製作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[JAPAN FM NETWORK全国ネット](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")（一部の局を除く場合もある）で放送されているスポーツ日本代表応援番組。
+**JFN CHEER UP\!\! STATION**（ジェイ・エフ・エヌ・チアアップ\!\!ステーション）は[JFNC製作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[JFN系列全国ネット](../Page/全国FM放送協議会.md "wikilink")（一部の局を除く場合もある）で放送されているスポーツ日本代表応援番組。
 
 ## 2004年 アテネオリンピック
 

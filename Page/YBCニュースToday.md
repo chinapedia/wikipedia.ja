@@ -1,4 +1,4 @@
-> この記事は[YBCToday](https://ja.wikipedia.org/wiki/YBCToday)から翻訳されています。
+> この記事は[YBCニュースToday](https://ja.wikipedia.org/wiki/YBCニュースToday)から翻訳されています。
 
 
 『**YBCニュースToday**』（ワイビーシー ニューストゥデイ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")（YBCテレビ）で放送された夕方の[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局の夕方枠で放送される番組としては初のローカルニュース専門の番組であった。

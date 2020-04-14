@@ -1,4 +1,4 @@
-> この記事は[Se-!2](https://ja.wikipedia.org/wiki/Se-!2)から翻訳されています。
+> この記事は[Se-女!2](https://ja.wikipedia.org/wiki/Se-女!2)から翻訳されています。
 
 
 『**Se-女\! 2**』（セーじょツー）は、[2004年](../Page/2004年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された[関東ローカル](../Page/関東ローカル.md "wikilink")の[深夜](../Page/深夜番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
@@ -132,5 +132,9 @@ Side-Aには人気の高い[グラビアアイドル](https://ja.wikipedia.org/w
   - [美女-H](../Page/美女-H.md "wikilink")
   - [ダブルH](../Page/ダブルH.md "wikilink")
   - [ミラクルH](../Page/ミラクルH.md "wikilink")
+
+## 外部リンク
+
+\[<https://www.forside.co.jp/pdf/news/2013/03/TVDVD.pdf#search='%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89+se%E5%A5%B3%21>' se-女\!放送告知\] \[<https://www.forside.co.jp/pdf/news/2013/03/DVD_Se-jo2_2.pdf#search='%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89+se%E5%A5%B3%21>' se-女\!2放送告知\]
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビのお色気番組](https://ja.wikipedia.org/wiki/Category:テレビのお色気番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink")

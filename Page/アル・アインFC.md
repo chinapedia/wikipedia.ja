@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アル・アインFC](https://ja.wikipedia.org/wiki/アル・アインFC)から翻訳されています。
 
 
 **アル・アインFC**（[英語](../Page/英語.md "wikilink")：、[アラビア語](../Page/アラビア語.md "wikilink")：）は、[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の首長国[アブダビ](../Page/アブダビ.md "wikilink")の都市[アル・アイン](../Page/アル・アイン.md "wikilink")をホームタウンとする、UAEプロサッカーリーグ（[アラビアン・ガルフ・リーグ](../Page/アラビアン・ガルフ・リーグ.md "wikilink")）に加盟するプロサッカークラブ。

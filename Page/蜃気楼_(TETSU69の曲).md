@@ -1,4 +1,4 @@
-> この記事は[ \(TETSU69\)](https://ja.wikipedia.org/wiki/_\(TETSU69\))から翻訳されています。
+> この記事は[蜃気楼 \(TETSU69の曲\)](https://ja.wikipedia.org/wiki/蜃気楼_\(TETSU69の曲\))から翻訳されています。
 
 
 「**蜃気楼**」（しんきろう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[TETSU69の](https://ja.wikipedia.org/wiki/tetsuya "wikilink")2枚目のシングル。[2002年](../Page/2002年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")の社内レーベルDREAM MACHINE内の自身の主宰レーベルSPROUSE。

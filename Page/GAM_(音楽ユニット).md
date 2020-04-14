@@ -1,4 +1,4 @@
-> この記事は[GAM \(\)](https://ja.wikipedia.org/wiki/GAM_\(\))から翻訳されています。
+> この記事は[GAM \(音楽ユニット\)](https://ja.wikipedia.org/wiki/GAM_\(音楽ユニット\))から翻訳されています。
 
 
 **GAM**（ギャム）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[松浦亜弥](../Page/松浦亜弥.md "wikilink")と[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")による[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[デュオ](../Page/デュオ.md "wikilink")、[女性](../Page/女性.md "wikilink")[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。

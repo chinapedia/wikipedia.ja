@@ -1,4 +1,4 @@
-> この記事は[BREAK OUT ](https://ja.wikipedia.org/wiki/BREAK_OUT_)から翻訳されています。
+> この記事は[今夜もBREAK OUT ラジオバカナリヤ](https://ja.wikipedia.org/wiki/今夜もBREAK_OUT_ラジオバカナリヤ)から翻訳されています。
 
 
 **今夜もBREAK OUT ラジオバカナリヤ**（こんやもブレイクアウト ラジオバカナリヤ）は、[1989年](../Page/1989年.md "wikilink")（平成元年）[10月9日](../Page/10月9日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[10月5日](../Page/10月5日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。通称「ラジバカ」。

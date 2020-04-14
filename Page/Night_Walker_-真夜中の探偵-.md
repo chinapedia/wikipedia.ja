@@ -1,4 +1,4 @@
-> この記事は[Night Walker --](https://ja.wikipedia.org/wiki/Night_Walker_--)から翻訳されています。
+> この記事は[Night Walker -真夜中の探偵-](https://ja.wikipedia.org/wiki/Night_Walker_-真夜中の探偵-)から翻訳されています。
 
 
 『**Night Walker -真夜中の探偵-**』（ナイトウォーカー まよなかのたんてい）は、日本の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")、およびこれを原案として制作された、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")をはじめとする[メディアミックス](../Page/メディアミックス.md "wikilink")作品。

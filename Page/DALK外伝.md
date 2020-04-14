@@ -1,4 +1,4 @@
-> この記事は[DALK](https://ja.wikipedia.org/wiki/DALK)から翻訳されています。
+> この記事は[DALK外伝](https://ja.wikipedia.org/wiki/DALK外伝)から翻訳されています。
 
 
 『**DALK外伝**』（だるくがいでん）は[アリスソフト](../Page/アリスソフト.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。定価2800円。その名の通り[DALK](../Page/DALK.md "wikilink")の外伝作品。

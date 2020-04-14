@@ -1,4 +1,4 @@
-> この記事は[BEAT ](https://ja.wikipedia.org/wiki/BEAT_)から翻訳されています。
+> この記事は[BEAT 時代の鼓動](https://ja.wikipedia.org/wiki/BEAT_時代の鼓動)から翻訳されています。
 
 
 『**BEAT 時代の鼓動**』（ビート・じだいのこどう）は、[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から、[読売テレビ（ytv）で放送されている](../Page/讀賣テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[ミニヒューマン](../Page/ミニ番組.md "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である。

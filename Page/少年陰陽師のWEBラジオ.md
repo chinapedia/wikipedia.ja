@@ -1,4 +1,4 @@
-> この記事は[WEB](https://ja.wikipedia.org/wiki/WEB)から翻訳されています。
+> この記事は[少年陰陽師のWEBラジオ](https://ja.wikipedia.org/wiki/少年陰陽師のWEBラジオ)から翻訳されています。
 
 
 『**少年陰陽師のWEBラジオ**』（しょうねんおんみょうじのウェブラジオ）は、[アニメイト](../Page/アニメイト.md "wikilink")TVにおいて配信されている[少年陰陽師](../Page/少年陰陽師.md "wikilink")のWEBラジオ番組。

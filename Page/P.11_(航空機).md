@@ -1,4 +1,4 @@
-> この記事は[P.11 \(\)](https://ja.wikipedia.org/wiki/P.11_\(\))から翻訳されています。
+> この記事は[P.11 \(航空機\)](https://ja.wikipedia.org/wiki/P.11_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink")  | 画像=<File:PZLP11C_CURRENT.jpg> | キャプション=ポーランド・[クラクフ](../Page/クラクフ.md "wikilink")で展示されるP.11c | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[戦闘機](../Page/戦闘機.md "wikilink")、[攻撃機](../Page/攻撃機.md "wikilink") | 設計者=[ズィグムント・プワフスキ](https://ja.wikipedia.org/wiki/ズィグムント・プワフスキ "wikilink") | 製造者=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink") [PZL社](https://ja.wikipedia.org/wiki/PZL_\(航空機メーカー\) "wikilink") | 運用者= | 運用者 more=：

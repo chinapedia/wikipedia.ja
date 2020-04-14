@@ -1,4 +1,4 @@
-> この記事は[ \(aiko\)](https://ja.wikipedia.org/wiki/_\(aiko\))から翻訳されています。
+> この記事は[キラキラ \(aikoの曲\)](https://ja.wikipedia.org/wiki/キラキラ_\(aikoの曲\))から翻訳されています。
 
 
 「**キラキラ**」は、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")のメジャー通算18作目のシングルで、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から2005年8月3日に発売された。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダービー・カウンティFC](https://ja.wikipedia.org/wiki/ダービー・カウンティFC)から翻訳されています。
 
 
 **ダービー・カウンティ**（**Derby County Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ダービーに本拠地を置く](../Page/ダービー_\(イギリス\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

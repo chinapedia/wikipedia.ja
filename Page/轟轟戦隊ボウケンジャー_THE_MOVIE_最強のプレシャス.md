@@ -1,4 +1,4 @@
-> この記事は[ THE MOVIE ](https://ja.wikipedia.org/wiki/_THE_MOVIE_)から翻訳されています。
+> この記事は[轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス](https://ja.wikipedia.org/wiki/轟轟戦隊ボウケンジャー_THE_MOVIE_最強のプレシャス)から翻訳されています。
 
 
 『**轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス**』（ごうごうせんたいボウケンジャー ザ ムービー さいきょうのプレシャス）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[轟轟戦隊ボウケンジャー](../Page/轟轟戦隊ボウケンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダーカブト GOD SPEED LOVE](../Page/劇場版_仮面ライダーカブト_GOD_SPEED_LOVE.md "wikilink")』。

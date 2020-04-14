@@ -1,4 +1,4 @@
-> この記事は[S\&P ](https://ja.wikipedia.org/wiki/S\&P_)から翻訳されています。
+> この記事は[S\&P グローバル・レーティング](https://ja.wikipedia.org/wiki/S\&P_グローバル・レーティング)から翻訳されています。
 
 
 **S\&P グローバル・レーティング**（）は、[S\&P グローバル](https://ja.wikipedia.org/wiki/S&P_グローバル "wikilink")（）の一部門であり、[金融商品](../Page/金融商品.md "wikilink")または[企業](../Page/企業.md "wikilink")・[政府](../Page/政府.md "wikilink")などにつき、その信用状態に関する意見及び投資情報を提供する、世界最大手の[格付け機関](../Page/格付け機関.md "wikilink")である。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")に本部を置き、世界26ヵ国にオフィスを展開している\[1\]。[企業](../Page/企業.md "wikilink")や銀行等の金融機関（[株式](../Page/株式.md "wikilink")と[債券](../Page/債券.md "wikilink")の発行体）の[信用力](https://ja.wikipedia.org/wiki/信用力 "wikilink")の調査研究を行い、2013年には世界総生産の約5％相当の3.5兆ドル（約357兆円）の債務に[信用格付け](../Page/信用格付け.md "wikilink")を付与している。
@@ -88,6 +88,10 @@
   - [フィッチ・レーティングス](../Page/フィッチ・レーティングス.md "wikilink")
   - [日本格付研究所](https://ja.wikipedia.org/wiki/日本格付研究所 "wikilink")
   - [格付投資情報センター](../Page/格付投資情報センター.md "wikilink")
+
+その他
+
+  - [ヘンリー・ヴァーナム・プアー](https://ja.wikipedia.org/wiki/ヘンリー・ヴァーナム・プアー "wikilink")
 
 ## 外部リンク
 

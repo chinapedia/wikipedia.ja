@@ -1,4 +1,4 @@
-> この記事は[  ENTEI](https://ja.wikipedia.org/wiki/__ENTEI)から翻訳されています。
+> この記事は[劇場版ポケットモンスター 結晶塔の帝王 ENTEI](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_結晶塔の帝王_ENTEI)から翻訳されています。
 
 
 『**劇場版ポケットモンスター 結晶塔の帝王 ENTEI**』（げきじょうばんポケットモンスター けっしょうとうのていおう エンテイ）は、[2000年](../Page/2000年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から公開された[テレビアニメ](../Page/アニメ.md "wikilink")『[ポケットモンスター](../Page/ポケットモンスター_\(アニメ\).md "wikilink")』の[劇場版第](../Page/ポケットモンスター_\(劇場版\).md "wikilink")3作である。同時上映作品は『[ピチューとピカチュウ](../Page/ピチューとピカチュウ.md "wikilink")』。興行収入48億5000万円。

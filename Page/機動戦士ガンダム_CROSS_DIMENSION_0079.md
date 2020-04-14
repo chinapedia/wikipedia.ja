@@ -1,4 +1,4 @@
-> この記事は[ CROSS DIMENSION 0079](https://ja.wikipedia.org/wiki/_CROSS_DIMENSION_0079)から翻訳されています。
+> この記事は[機動戦士ガンダム CROSS DIMENSION 0079](https://ja.wikipedia.org/wiki/機動戦士ガンダム_CROSS_DIMENSION_0079)から翻訳されています。
 
 
 『**機動戦士ガンダム CROSS DIMENSION 0079**』（きどうせんしガンダム クロスディメンション ダブルオーセブンティナイン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月10日](../Page/2月10日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")が発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")（[シミュレーションロールプレイングゲーム](../Page/シミュレーションロールプレイングゲーム.md "wikilink")）。

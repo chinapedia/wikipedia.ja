@@ -1,4 +1,4 @@
-> この記事は[-MSV](https://ja.wikipedia.org/wiki/-MSV)から翻訳されています。
+> この記事は[Ζ-MSV](https://ja.wikipedia.org/wiki/Ζ-MSV)から翻訳されています。
 
 
 **Ζ-MSV**（ゼータエムエスブイ）は、[アニメ](../Page/アニメ.md "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』をベースとしたメカニック・デザイン企画である。作中に登場した人型兵器「[モビルスーツ](../Page/モビルスーツ.md "wikilink")」の試作機、量産検討機、強化型などのバリエーション機が設定された。

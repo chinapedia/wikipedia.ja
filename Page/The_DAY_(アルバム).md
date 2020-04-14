@@ -1,4 +1,4 @@
-> この記事は[The DAY \(\)](https://ja.wikipedia.org/wiki/The_DAY_\(\))から翻訳されています。
+> この記事は[The DAY \(アルバム\)](https://ja.wikipedia.org/wiki/The_DAY_\(アルバム\))から翻訳されています。
 
 
 **The DAY**（ザ・デイ）は、[DEEN](../Page/DEEN.md "wikilink")の4thアルバム。

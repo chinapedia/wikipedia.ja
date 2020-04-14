@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[平成名物TV](https://ja.wikipedia.org/wiki/平成名物TV)から翻訳されています。
 
 
 **平成名物TV**（へいせいめいぶつテレビ）は、[1989年](../Page/1989年.md "wikilink")2月から[1991年](../Page/1991年.md "wikilink")9月に[TBS他で放送されていた土曜深夜](../Page/TBSテレビ.md "wikilink")（日曜未明）の[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")[番組](../Page/番組.md "wikilink")枠の俗称。日本で初めて「[平成](../Page/平成.md "wikilink")」をタイトルに入れた番組と言われている。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCウニヴェルシタテア・クラヨーヴァ](https://ja.wikipedia.org/wiki/FCウニヴェルシタテア・クラヨーヴァ)から翻訳されています。
 
 
 **ウニヴェルシタテア・クライオヴァ** (**Fotbal Club Universitatea Craiova**) は、[ルーマニア](../Page/ルーマニア.md "wikilink")・[クライオヴァ](https://ja.wikipedia.org/wiki/クライオヴァ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーガ1](../Page/リーガ1.md "wikilink")優勝4回、カップ戦優勝6回を誇る古豪。近年は育成を重視し、有望な若手を輩出している。

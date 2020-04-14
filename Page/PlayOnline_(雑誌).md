@@ -1,4 +1,4 @@
-> この記事は[PlayOnline \(\)](https://ja.wikipedia.org/wiki/PlayOnline_\(\))から翻訳されています。
+> この記事は[PlayOnline \(雑誌\)](https://ja.wikipedia.org/wiki/PlayOnline_\(雑誌\))から翻訳されています。
 
 
 『**PlayOnline**』（プレイオンライン）は、かつて[アクセラ並びに](../Page/アクセラ_\(企業\).md "wikilink")[デジキューブ](../Page/デジキューブ.md "wikilink")から発行されていた[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")を専門で取り扱う月刊の雑誌。

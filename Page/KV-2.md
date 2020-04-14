@@ -17,7 +17,7 @@
 
 当初、この戦車は単に「大型砲塔KV（KV s bolshoi bashnei）」として区別されていただけだったが、正式採用に伴いKV-2と名付けられ、ソ連の戦車兵からは親しみを込め、「[ドレッドノート](../Page/ドレッドノート_\(戦艦\).md "wikilink")」と呼ばれた\[2\]。
 
-試作車および3両の増加試作型は、全て平面の装甲板による、平面形が7角形の砲塔を搭載していたが、量産にあたって、装甲板の構成が簡略化され、両側面は途中でカーブした1枚板の装甲を持つ、平面形が6角形の砲塔となった。この量産型砲塔は試作型砲塔に比べてわずかに背が低く、また、後面に近接防御用の[DT機銃も備えていた](../Page/DP28軽機関銃.md "wikilink")。KV-2は、[1940年](../Page/1940年.md "wikilink")-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にかけて、増加試作型を含め202両が生産された。
+試作車および初期生産ロットの車輛は、全て平面の装甲板による、平面形が7角形の砲塔を搭載していたが、後に装甲板の構成が簡略化され、両側面は途中でカーブした1枚板の装甲を持つ、平面形が6角形の砲塔となり、1940年末以降の生産車に搭載された。この主量産型砲塔は初期型砲塔に比べてわずかに背が低く、また、後面に近接防御用の[DT機銃も備えていた](../Page/DP28軽機関銃.md "wikilink")。KV-2は、[1940年](../Page/1940年.md "wikilink")-[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にかけて、増加試作型を含め202両が生産された。
 
 しかし、2名の装填手を要する分離装薬式の砲弾は発射速度は遅く、砲塔も人の背丈ほどもあった。また、砲塔は大幅に大型化しているにも関わらず[ターレット](https://ja.wikipedia.org/wiki/ターレット "wikilink")リング径はKV-1と同じで、数tもある砲塔を支えることに多大な無理を生じさせていた。重い砲塔は、車体が傾いた状態では満足に回転させることもできず、通常のKV-1でさえ難がある[機動](../Page/機動.md "wikilink")性と信頼性はさらに低くなった。
 
@@ -31,7 +31,7 @@
 
 1941年[6月23日](../Page/6月23日.md "wikilink")、[35(t)を装備するドイツ](../Page/LT-35.md "wikilink")[第6装甲師団は](https://ja.wikipedia.org/wiki/第6装甲師団_\(ドイツ国防軍\) "wikilink")、[リトアニア](../Page/リトアニア.md "wikilink")の方面の戦いで、KV-2を保有するソ連第2戦車師団と遭遇、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")40両と多くの[火砲を](../Page/大砲.md "wikilink")[撃破](https://ja.wikipedia.org/wiki/撃破 "wikilink")される大損害を被った。このため、前進していたドイツ第1装甲師団は反転して、第6装甲師団を支援しなければならなくなった。
 
-また、ラシェイニャイ市内の第6装甲師団とドゥビーサ川[橋頭堡](../Page/橋頭堡.md "wikilink")の[歩兵](../Page/歩兵.md "wikilink")[部隊](../Page/部隊.md "wikilink")を分断するために送り込まれた、たった1両のKV-2は橋頭堡に向かう増援部隊の[トラック](../Page/貨物自動車.md "wikilink")12台を撃破し、街道上の分岐点に居座ってドイツ軍を食い止め続けた。これを排除すべく、[5 cm PaK 38](../Page/5_cm_PaK_38.md "wikilink")[対戦車砲](../Page/対戦車砲.md "wikilink")を装備する部隊が送り込まれたが返り討ちにあい2門が破壊され、続く[8.8cm](https://ja.wikipedia.org/wiki/8.8_cm_FlaK_18/36/37 "wikilink")[高射砲](../Page/高射砲.md "wikilink")1門も設置中に[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")を受け、破壊された。夜になって突撃工兵が[爆薬攻撃を仕掛け](../Page/火薬.md "wikilink")、[履帯を破壊して行動不能に追い込んだものの完全撃破には至らなかった](../Page/無限軌道.md "wikilink")。翌日、[軽戦車](../Page/軽戦車.md "wikilink")が囮となっている間に設置された8.8cm高射砲が水平射撃で6発を命中させた。しかし、貫通したのは2発のみで乗員はまだ生きており、[砲塔](../Page/砲塔.md "wikilink")が動き始めたため、[工兵](../Page/工兵.md "wikilink")により被弾孔から[手榴弾](../Page/手榴弾.md "wikilink")が投げ込まれ、ようやく完全に沈黙した\[3\]\[4\]。
+また、ラシェイニャイ市内の第6装甲師団とドゥビーサ川[橋頭堡](../Page/橋頭堡.md "wikilink")の[歩兵](../Page/歩兵.md "wikilink")[部隊](../Page/部隊.md "wikilink")を分断するために送り込まれた、たった1両のKV-2は橋頭堡に向かう増援部隊の[トラック](../Page/貨物自動車.md "wikilink")12台を撃破し、街道上の分岐点に居座ってドイツ軍を食い止め続けた。これを排除すべく、[5 cm PaK 38](../Page/5_cm_PaK_38.md "wikilink")[対戦車砲](../Page/対戦車砲.md "wikilink")を装備する部隊が送り込まれたが返り討ちにあい2門が破壊され、続く[8.8cm](https://ja.wikipedia.org/wiki/8.8_cm_FlaK_18/36/37 "wikilink")[高射砲](../Page/高射砲.md "wikilink")1門も設置中に[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")を受け、破壊された。夜になって突撃工兵が[爆薬攻撃を仕掛け](../Page/火薬.md "wikilink")、[履帯を破壊して行動不能に追い込んだものの完全撃破には至らなかった](../Page/無限軌道.md "wikilink")。翌日、[軽戦車](../Page/軽戦車.md "wikilink")が囮となっている間に設置された8.8cm高射砲が水平射撃で6発を命中させた。しかし、貫通したのは2発のみで乗員はまだ生きており、[砲塔](../Page/砲塔.md "wikilink")が動き始めたため、[工兵](../Page/工兵.md "wikilink")により被弾孔から[手榴弾](../Page/手榴弾.md "wikilink")が投げ込まれ、ようやく完全に沈黙した\[3\]。
 
 なお、ドイツ軍は放棄されたKV-2を少数ながら[鹵獲](../Page/鹵獲.md "wikilink")しており、**Pz. Kpfw.KW-2 754(r)**の名称で使用している。ドイツ軍が鹵獲使用した物には、砲塔天面右前部に[IV号戦車](../Page/IV号戦車.md "wikilink")の[車長用](https://ja.wikipedia.org/wiki/指揮官 "wikilink")[キューポラ](../Page/キューポラ.md "wikilink")を増設した独自改造車が存在した。
 
@@ -39,77 +39,45 @@
 
 ### 映画
 
-:; 『[ガールズ&パンツァー 劇場版](https://ja.wikipedia.org/wiki/ガールズ&パンツァー_劇場版 "wikilink")』
-
-  -
-
-      -
-        プラウダ高校の使用[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")として登場。
+  - 『[ガールズ&パンツァー 劇場版](https://ja.wikipedia.org/wiki/ガールズ&パンツァー_劇場版 "wikilink")』
+    プラウダ高校の使用[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")として登場。
 
 ### アニメ
 
-:; 『[ガールズ&パンツァー](https://ja.wikipedia.org/wiki/ガールズ&パンツァー "wikilink")』
-
-:: [1940年](../Page/1940年.md "wikilink")型がプラウダ高校の使用[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")として登場。同校隊長のカチューシャは､車高が高く､乗った時の眺めが良いからと云う理由で“かーべーたん”乃至“頼れる同志”と呼ぶ程気に入っている。
-
-:; 『[ブレイブウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』
-
-  -
-
-      -
-        第5話で登場。主人公のひかり達が猛吹雪の中で乗り捨てられたKV-2を発見し、車内に入って吹雪をしのいでいた。
+  - 『[ガールズ&パンツァー](https://ja.wikipedia.org/wiki/ガールズ&パンツァー "wikilink")』
+    [1940年](../Page/1940年.md "wikilink")型がプラウダ高校の使用[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")として登場。同校隊長のカチューシャは､車高が高く､乗った時の眺めが良いからと云う理由で“かーべーたん”乃至“頼れる同志”と呼ぶ程気に入っている。
+  - 『[ブレイブウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』
+    第5話で登場。主人公のひかり達が猛吹雪の中で乗り捨てられたKV-2を発見し、車内に入って吹雪をしのいでいた。
 
 ### ゲーム
 
-:; 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
-
-:: [1939年](../Page/1939年.md "wikilink")型と[1940年](../Page/1940年.md "wikilink")型、プレミアムとして[ドイツ軍の](../Page/ドイツ国防軍.md "wikilink")[鹵獲](../Page/鹵獲.md "wikilink")仕様**Pz. Kpfw.KW-2 754(r)**、107mm砲搭載型が登場。プレイヤーが操作可能。
-
-:; 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』
-
-:: [ソ連の](../Page/赤軍.md "wikilink")[重戦車](../Page/重戦車.md "wikilink")として登場。研究を進めることで[砲塔](../Page/砲塔.md "wikilink")が1939年型から1940年型以降のものになる。
-
-:; 『[コンバットチョロQ](https://ja.wikipedia.org/wiki/コンバットチョロQ "wikilink")』
-
-:: アリーナのライトクラスの30番目の他、特定の[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")に登場。
-
-:: 使用できる戦車中、重量が最高に設定されており、被弾時に点滅して挙動が止まる事の無い唯一の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")でもある。
-
-::; 『[新コンバットチョロQ](https://ja.wikipedia.org/wiki/新コンバットチョロQ "wikilink")』
-
-  -
-
-      -
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    [1939年](../Page/1939年.md "wikilink")型と[1940年](../Page/1940年.md "wikilink")型、プレミアムとして[ドイツ軍の](../Page/ドイツ国防軍.md "wikilink")[鹵獲](../Page/鹵獲.md "wikilink")仕様**Pz. Kpfw.KW-2 754(r)**、107mm砲搭載型が登場。プレイヤーが操作可能。
+  - 『[World of Tanks](https://ja.wikipedia.org/wiki/World_of_Tanks "wikilink")』
+    [ソ連の](../Page/赤軍.md "wikilink")[重戦車](../Page/重戦車.md "wikilink")として登場。研究を進めることで[砲塔](../Page/砲塔.md "wikilink")が1939年型から1940年型以降のものになる。
+  - 『[コンバットチョロQ](https://ja.wikipedia.org/wiki/コンバットチョロQ "wikilink")』
+    アリーナのライトクラスの30番目の他、特定の[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")に登場。
+    使用できる戦車中、重量が最高に設定されており、被弾時に点滅して挙動が止まる事の無い唯一の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")でもある。
+      - 『[新コンバットチョロQ](https://ja.wikipedia.org/wiki/新コンバットチョロQ "wikilink")』
         プレイヤーが使用可能な「Qタンク」として登場。
+  - 『[ミリ姫大戦](https://ja.wikipedia.org/wiki/ミリ姫大戦 "wikilink")』
+    ゲーム内のキャラクターが使用する[兵器](../Page/兵器.md "wikilink")として登場。
+  - 『[虫けら戦車](https://ja.wikipedia.org/wiki/GUILD_SERIES#虫けら戦車 "wikilink")』
+    　3DSソフト。「ギガント」の名で登場する。
+  - 『[Tank Troopers](https://ja.wikipedia.org/wiki/Tank_Troopers "wikilink")』
+    3DSソフト。デフォルメ化された戦車で戦うのが特徴である。KV-2として登場し、G(ゲーム内のお金)を55000G支払うと選択可能となる。
 
-:; 『[ミリ姫大戦](https://ja.wikipedia.org/wiki/ミリ姫大戦 "wikilink")』
+## 脚注
 
-:: ゲーム内のキャラクターが使用する[兵器](../Page/兵器.md "wikilink")として登場。
+### 注釈
 
-:; 『[虫けら戦車](https://ja.wikipedia.org/wiki/GUILD_SERIES#虫けら戦車 "wikilink")』
-
-::　3DSソフト。「ギガント」の名で登場する。
-
-:; 『[Tank Troopers](https://ja.wikipedia.org/wiki/Tank_Troopers "wikilink")』
-
-  -
-
-      -
-        3DSソフト。デフォルメ化された戦車で戦うのが特徴である。KV-2として登場し、G(ゲーム内のお金)を55000G支払うと選択可能となる。
+### 出典
 
 ## 参考文献
 
   - 『GROUND POWER OCTOBER.1997(No41) 第2次大戦のソ連軍用車両(下)』、デルタ出版、1997年。
   - 『GROUND POWER AUGUST.2000(No75) ソ連軍重戦車(1)』、デルタ出版、2000年。
   - スティーブン・ザロガ，ジム・キニア『<small>世界の戦車イラストレイテッド10 </small>KV-1\&KV-2重戦車 1939-1945』高田裕久 訳、大日本絵画、2001年、ISBN 4-499-22747-X。
-
-## 脚注・出典
-
-<div class="references-small">
-
-<references/>
-
-</div>
 
 ## 関連項目
 
@@ -123,4 +91,3 @@
 1.  『GROUND POWER AUGUST.2000(No75) ソ連軍重戦車(1)』、p.89
 2.  スティーブン・ザロガ，ジム・キニア『<small>世界の戦車イラストレイテッド10 </small>KV-1\&KV-2重戦車 1939-1945』、p.13
 3.  スティーブン・ザロガ，ジム・キニア『<small>世界の戦車イラストレイテッド10 </small>KV-1\&KV-2重戦車 1939-1945』、pp.20-33
-4.  このエピソードは日本には当初[KV-1](../Page/KV-1.md "wikilink")のものとして誤って伝えられた。このため[小林源文](../Page/小林源文.md "wikilink")はKV-1を主役としてこのエピソードを描写した劇画「街道上の怪物」を書いており、また[ツクダホビー](../Page/ツクダホビー.md "wikilink")のタンクコンバットシリーズの「パンサー」にも同様にKV-1を用いたシナリオがあり、解説文もKV-1となっていた

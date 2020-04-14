@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK京都放送局](https://ja.wikipedia.org/wiki/NHK京都放送局)から翻訳されています。
 
 
 **NHK京都放送局**（エヌエイチケイきょうとほうそうきょく）は、[京都府](../Page/京都府.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で京都府域向けの放送を行っている](../Page/NHK-FM放送.md "wikilink")。
@@ -218,6 +218,7 @@
 ### テレビドラマ
 
   - [鵜飼いに恋した夏](https://ja.wikipedia.org/wiki/鵜飼いに恋した夏 "wikilink")（2014年11月12日） - [地域発ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")として[NHK BSプレミアムで放送](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
+  - 京都発地域ドラマ [ワンダーウォール](https://ja.wikipedia.org/wiki/ワンダーウォール〜京都発地域ドラマ〜 "wikilink")（2018年7月25日、NHK BSプレミアム）
 
 ### 過去の番組
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK奈良放送局](https://ja.wikipedia.org/wiki/NHK奈良放送局)から翻訳されています。
 
 
 **NHK奈良放送局**（エヌエイチケイならほうそうきょく）は、[奈良県](../Page/奈良県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で奈良県域向け放送を行っている](../Page/NHK-FM放送.md "wikilink")。奈良県に所在する奈良県全域を放送対象とする唯一のラジオ局でもある。
@@ -53,6 +53,10 @@
 
 ## 過去に制作した番組
 
+**総合テレビ**
+
+  - [ニュースなら610](../Page/ニュースなら610.md "wikilink")
+
 **FM放送**
 
   - 奈良イブニングジョッキー
@@ -75,18 +79,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大川悠介" title="wikilink">大川悠介</a></p></td>
-<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田真人" title="wikilink">吉田真人</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>|<a href="../Page/ならナビ.md" title="wikilink">ならナビ</a>（キャスター）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/見浪哲史" title="wikilink">見浪哲史</a></p></td>
-<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋鹿真人" title="wikilink">秋鹿真人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/なら845" title="wikilink">なら845</a>など</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秋鹿真人" title="wikilink">秋鹿真人</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/見浪哲史" title="wikilink">見浪哲史</a></p></td>
+<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -95,14 +99,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/新口絢子" title="wikilink">新口 絢子</a></p></td>
-<td></td>
+<td><p>源田愛莉那</p></td>
+<td><p><a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a></p></td>
 <td><p>ならナビ<br />
 <a href="../Page/ぐるっと関西おひるまえ.md" title="wikilink">ぐるっと関西おひるまえ</a>など</p></td>
 </tr>
 <tr class="odd">
-<td><p>源田愛莉那</p></td>
-<td><p><a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a></p></td>
+<td><p>小林加奈恵</p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -116,8 +120,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>小林加奈恵</p></td>
-<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p>柴原優美香</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -126,7 +130,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>佳留耕太</p></td>
+<td><p>山磨香織</p></td>
 <td></td>
 <td><p>ならナビ（気象キャスター）</p></td>
 </tr>

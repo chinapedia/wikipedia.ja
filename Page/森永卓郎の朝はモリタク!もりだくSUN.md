@@ -1,4 +1,4 @@
-> この記事は[!SUN](https://ja.wikipedia.org/wiki/!SUN)から翻訳されています。
+> この記事は[森永卓郎の朝はモリタク!もりだくSUN](https://ja.wikipedia.org/wiki/森永卓郎の朝はモリタク!もりだくSUN)から翻訳されています。
 
 
 **森永卓郎の朝はモリタク\!もりだくSUN**（**もりながたくろうのあさはモリタクもりだくさん）**は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")にて2004年3月22日から2005年3月25日に放送されていた、[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ユリオカ超特Q](https://ja.wikipedia.org/wiki/ユリオカ超特Q)から翻訳されています。
 
 
 **ユリオカ超特Q**（ユリオカ ちょうとっきゅう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、日本の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[漫談家](https://ja.wikipedia.org/wiki/漫談家 "wikilink")。

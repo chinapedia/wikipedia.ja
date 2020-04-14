@@ -1,7 +1,7 @@
 > この記事は[X-SAMPA](https://ja.wikipedia.org/wiki/X-SAMPA)から翻訳されています。
 
 
-**X-SAMPA**（Extended SAM Phonetic Alphabet）、**拡張SAM音声記号**（かくちょうエスエイエムおんせいきごう）は[SAMPA](../Page/SAMPA.md "wikilink")の変種で、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にロンドン大学の[音声学](../Page/音声学.md "wikilink")教授[ジョン・C・ウェルズ](https://ja.wikipedia.org/wiki/ジョン・C・ウェルズ "wikilink")によって開発された。これは総ての[国際音声記号](../Page/国際音声記号.md "wikilink")の文字記号を[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字のみで表すことができる。
+**X-SAMPA**（Extended SAM Phonetic Alphabet）、**拡張SAM音声記号**（かくちょうエスエイエムおんせいきごう）は[発音記号](../Page/発音記号.md "wikilink")のひとつ。[SAMPA](../Page/SAMPA.md "wikilink")の変種で、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にロンドン大学の[音声学](../Page/音声学.md "wikilink")教授[ジョン・C・ウェルズ](https://ja.wikipedia.org/wiki/ジョン・C・ウェルズ "wikilink")によって開発された。すべての[国際音声記号](../Page/国際音声記号.md "wikilink")の文字記号を[ASCII](../Page/ASCII.md "wikilink")文字のみで表すことができる。
 
 ## 文字一覧
 
@@ -52,7 +52,7 @@
 <td><p>c</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Xsampa-c.png" title="wikilink">20x20px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/無声硬口蓋破裂音" title="wikilink">無声硬口蓋破裂音</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンガリー語" title="wikilink">ハンガリー語</a>: <span lang="hu">la<strong>ty</strong>ak</span> [<code>lQcQk</code>]</p></td>
+<td><p><a href="../Page/ハンガリー語.md" title="wikilink">ハンガリー語</a>: <span lang="hu">la<strong>ty</strong>ak</span> [<code>lQcQk</code>]</p></td>
 </tr>
 <tr class="odd">
 <td><p>d</p></td>

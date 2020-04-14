@@ -1,4 +1,4 @@
-> この記事は[FA](https://ja.wikipedia.org/wiki/FA)から翻訳されています。
+> この記事は[FAコミュニティ・シールド](https://ja.wikipedia.org/wiki/FAコミュニティ・シールド)から翻訳されています。
 
 
 **FAコミュニティ・シールド** (**FA Community Shield**) は、[イングランドサッカー協会](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")(FA)が主催する[スーパーカップ](../Page/スーパーカップ.md "wikilink")。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の優勝クラブと[FAカップ](../Page/FAカップ.md "wikilink")の優勝クラブによって、シーズン開幕一週間前の週末に行われる。同一クラブが2冠を達成した場合、そのクラブはプレミアリーグの2位クラブと対戦する。1908年に開始され、かつては**チャリティ・シールド**(Charity Shield)と呼ばれていたが、2002年に現在の名称に改められた。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK和歌山放送局](https://ja.wikipedia.org/wiki/NHK和歌山放送局)から翻訳されています。
 
 
 **NHK和歌山放送局**（エヌエイチケイわかやまほうそうきょく）は、[和歌山県](../Page/和歌山県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。総合テレビ、FM放送で県域放送を行っている。

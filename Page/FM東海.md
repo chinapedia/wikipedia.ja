@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FM東海](https://ja.wikipedia.org/wiki/FM東海)から翻訳されています。
 
 
 **FM東海**（エフエムとうかい）は、[学校法人東海大学](../Page/学校法人東海大学.md "wikilink")が[超短波放送](../Page/超短波放送.md "wikilink")（FMラジオ放送）の実用化を目指して、[1958年](../Page/1958年.md "wikilink")12月から[1970年](../Page/1970年.md "wikilink")4月にかけて開設していた[実験局](https://ja.wikipedia.org/wiki/実験試験局 "wikilink")、[実用化試験局](https://ja.wikipedia.org/wiki/実用化試験局 "wikilink")の通称である。

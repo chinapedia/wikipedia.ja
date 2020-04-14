@@ -1,4 +1,4 @@
-> この記事は[NEC V](https://ja.wikipedia.org/wiki/NEC_V)から翻訳されています。
+> この記事は[NEC Vシリーズ](https://ja.wikipedia.org/wiki/NEC_Vシリーズ)から翻訳されています。
 
 
 **NEC Vシリーズ**は、[日本電気](../Page/日本電気.md "wikilink")（NEC、現在は[ルネサス エレクトロニクスに分離](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")）が製造した[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")・[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")のシリーズである。

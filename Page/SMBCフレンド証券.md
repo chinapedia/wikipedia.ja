@@ -1,4 +1,4 @@
-> この記事は[SMBC](https://ja.wikipedia.org/wiki/SMBC)から翻訳されています。
+> この記事は[SMBCフレンド証券](https://ja.wikipedia.org/wiki/SMBCフレンド証券)から翻訳されています。
 
 
 **SMBCフレンド証券株式会社**（エスエムビーシーフレンドしょうけん、[英称](../Page/英語.md "wikilink")：*SMBC Friend Securities Co.,Ltd.*）は、かつて存在した、[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")(SMFG)傘下の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の準大手[証券会社](../Page/証券会社.md "wikilink")である。

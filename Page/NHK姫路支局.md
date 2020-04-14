@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK姫路支局](https://ja.wikipedia.org/wiki/NHK姫路支局)から翻訳されています。
 
 
 [thumb沿いにあった旧姫路放送会館](https://ja.wikipedia.org/wiki/ファイル:NHK_Himeji.jpg "wikilink")\]\] **NHK姫路支局**（エヌエイチケイひめじしきょく）は、主に兵庫県播磨・但馬地域の報道業務を受け持つ[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")の支局である。2017年の再編前までは受信料収納業務を中心とした営業拠点としての役目も担っていた。

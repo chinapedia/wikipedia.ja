@@ -1,4 +1,4 @@
-> この記事は[Mk-II](https://ja.wikipedia.org/wiki/Mk-II)から翻訳されています。
+> この記事は[ガンダムMk-II](https://ja.wikipedia.org/wiki/ガンダムMk-II)から翻訳されています。
 
 
 **ガンダムMk-II**（ガンダム・マーク・ツー、*GUNDAM Mk-II*）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。[有人操縦式の人型ロボット兵器](../Page/架空のロボット兵器の一覧.md "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」 (MS)のひとつ。初出は、1985年に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。

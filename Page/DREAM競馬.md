@@ -1,4 +1,4 @@
-> この記事は[DREAM](https://ja.wikipedia.org/wiki/DREAM)から翻訳されています。
+> この記事は[DREAM競馬](https://ja.wikipedia.org/wiki/DREAM競馬)から翻訳されています。
 
 
 **DREAM競馬**（ドリームけいば）とは[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")・[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")・[テレビ西日本](../Page/テレビ西日本.md "wikilink")をメインとして中京圏以西の[FNS系列局で放送していた](../Page/フジネットワーク.md "wikilink")[競馬](../Page/競馬.md "wikilink")中継の[テレビ番組](../Page/テレビ番組.md "wikilink")である。[1991年](../Page/1991年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始で、[2006年](../Page/2006年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")までは「**ドリーム競馬**」（読みは同じ）のタイトルだった。[2009年](../Page/2009年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")をもって18年間の歴史に幕を下ろした。尚、後継となる新番組は『[Keiba beat 競馬 × 鼓動→競馬BEAT→KEIBA BEAT](https://ja.wikipedia.org/wiki/KEIBA_BEAT "wikilink")』である。

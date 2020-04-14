@@ -1,4 +1,4 @@
-> この記事は[DNA-DNA](https://ja.wikipedia.org/wiki/DNA-DNA)から翻訳されています。
+> この記事は[DNA-DNA分子交雑法](https://ja.wikipedia.org/wiki/DNA-DNA分子交雑法)から翻訳されています。
 
 
 **DNA-DNA分子交雑法**（DNA-DNAぶんしこうざつほう）とは[DNA配列間の類似性を評価する](../Page/デオキシリボ核酸.md "wikilink")[分子生物学](../Page/分子生物学.md "wikilink")的手法である。この手法は2つの[DNA鎖の塩基配列の](../Page/デオキシリボ核酸.md "wikilink")[相同](../Page/相同.md "wikilink")性を定量的に評価することに使用される。主に生物の[種 (分類学)間の遺伝的な隔たりを用いることに使用され](../Page/種_\(分類学\).md "wikilink")、特に[細菌](../Page/細菌.md "wikilink")と[古細菌](https://ja.wikipedia.org/wiki/古細菌 "wikilink")の分類で重要視される。

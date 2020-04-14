@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK神戸放送局](https://ja.wikipedia.org/wiki/NHK神戸放送局)から翻訳されています。
 
 
 **NHK神戸放送局**（エヌエイチケイこうべほうそうきょく）は、[兵庫県](../Page/兵庫県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で](../Page/NHK-FM放送.md "wikilink")[県域放送](../Page/県域放送.md "wikilink")を行っている。
@@ -139,7 +139,7 @@
 <td><p><a href="../Page/広坂安伸.md" title="wikilink">広坂安伸</a></p></td>
 <td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
 <td><p><a href="../Page/兵庫ニュース845.md" title="wikilink">兵庫ニュース845</a><br />
-スポーツ中継など</p></td>
+各種スポーツ中継</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/北郷三穂子.md" title="wikilink">北郷三穂子</a></p></td>

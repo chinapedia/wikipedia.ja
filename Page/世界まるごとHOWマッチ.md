@@ -1,4 +1,4 @@
-> この記事は[HOW](https://ja.wikipedia.org/wiki/HOW)から翻訳されています。
+> この記事は[世界まるごとHOWマッチ](https://ja.wikipedia.org/wiki/世界まるごとHOWマッチ)から翻訳されています。
 
 
 『**世界まるごとHOWマッチ**』（せかいまるごとハウマッチ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[イースト](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")\[1\]の共同制作により、[TBS](../Page/TBSテレビ.md "wikilink")[系列ほかで放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

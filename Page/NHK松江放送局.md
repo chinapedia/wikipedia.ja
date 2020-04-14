@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK松江放送局](https://ja.wikipedia.org/wiki/NHK松江放送局)から翻訳されています。
 
 
 **NHK松江放送局**（エヌエイチケイまつえほうそうきょく）は、[島根県](../Page/島根県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で[県域放送](../Page/県域放送.md "wikilink")を行っており、島根県のみを放送対象地域とする唯一の放送局であるが、実際のエリアは本拠地である[松江市](../Page/松江市.md "wikilink")周辺の[電波事情の関係上](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")、本来は[鳥取放送局の範疇である](../Page/NHK鳥取放送局.md "wikilink")[鳥取県](../Page/鳥取県.md "wikilink")西部にまで及ぶ。
@@ -160,7 +160,8 @@
 <!-- end list -->
 
   - しまねフレッシュガイド→ひるまえしまねっと
-  - しまね640→しまね630→イブニングネットワークしまね→情報満開\!しまねっとToday
+  - 発進\!島根
+  - しまね640→しまね630→イブニングネットワークしまね→発進\!島根ろくいち丸→発進\!島根ろくまる丸→情報満開\!しまねっとToday
   - しまね845
   - [先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")（開局75周年記念制作のテレビドラマ）
   - ショートドラマ [私の"だんだん"](https://ja.wikipedia.org/wiki/私の"だんだん" "wikilink")
@@ -194,13 +195,13 @@
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/喜多賢治" title="wikilink">喜多賢治</a></p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="../Page/斎康敬.md" title="wikilink">斎康敬</a></p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td><p>島根県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/斎康敬.md" title="wikilink">斎康敬</a></p></td>
-<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中原真吾" title="wikilink">中原真吾</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-> この記事は[FA](https://ja.wikipedia.org/wiki/FA)から翻訳されています。
+> この記事は[FAカップ](https://ja.wikipedia.org/wiki/FAカップ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:The_FA_Cup_Trophy_in_2008.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:England_mai_2007_004.jpg "wikilink") **FAカップ**（The FA Cup、FA杯）は、[1871年](../Page/1871年.md "wikilink")に創設された[イングランド](../Page/イングランド.md "wikilink")で行われる[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。

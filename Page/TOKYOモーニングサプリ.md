@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[TOKYOモーニングサプリ](https://ja.wikipedia.org/wiki/TOKYOモーニングサプリ)から翻訳されています。
 
 
 『**TOKYOモーニングサプリ**』（とうきょう-）は[TOKYO MXで](../Page/東京メトロポリタンテレビジョン.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた朝の番組。[1999年](../Page/1999年.md "wikilink")にスタートした[白沢みき](../Page/白沢みき.md "wikilink")（2003年の番組終了後ニューヨーク在住→2005年帰国）の司会による『[モーニングTOKYO](../Page/白沢みきのモーニングTOKYO.md "wikilink")』を母体に[2003年](../Page/2003年.md "wikilink")4月からリニューアルした。2004年3月までは6:30～8:30だったが、[2004年](../Page/2004年.md "wikilink")4月から7:00スタートの90分番組(祝日を除く)に短縮された。[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")で放送終了。

@@ -1,4 +1,4 @@
-> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+> この記事は[SLばんえつ物語](https://ja.wikipedia.org/wiki/SLばんえつ物語)から翻訳されています。
 
 
 **SLばんえつ物語**（エスエルばんえつものがたり）とは、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[磐越西線](https://ja.wikipedia.org/wiki/磐越西線 "wikilink")[新津駅](https://ja.wikipedia.org/wiki/新津駅 "wikilink") - [会津若松駅](../Page/会津若松駅.md "wikilink")間\[1\]にて運行している[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ONE ](https://ja.wikipedia.org/wiki/ONE_)から翻訳されています。
+> この記事は[ONE 〜輝く季節へ〜](https://ja.wikipedia.org/wiki/ONE_〜輝く季節へ〜)から翻訳されています。
 
 
 『**ONE 〜輝く季節へ〜**』（ワン かがやくきせつへ）は、株式会社[ネクストン](../Page/ネクストン.md "wikilink")の1ブランド[Tacticsから](../Page/Tactics_\(ブランド\).md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")に「心に届くADV第2弾」として発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。

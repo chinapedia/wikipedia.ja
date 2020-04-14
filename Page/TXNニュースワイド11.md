@@ -1,4 +1,4 @@
-> この記事は[TXN11](https://ja.wikipedia.org/wiki/TXN11)から翻訳されています。
+> この記事は[TXNニュースワイド11](https://ja.wikipedia.org/wiki/TXNニュースワイド11)から翻訳されています。
 
 
 『**TXNニュースワイド11**』（ティーエックスエヌ - イレブン）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")）で放送された[平日](../Page/平日.md "wikilink")昼のワイド[ニュース番組である](../Page/報道番組.md "wikilink")。

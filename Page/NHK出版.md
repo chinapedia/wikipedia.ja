@@ -1,7 +1,7 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK出版](https://ja.wikipedia.org/wiki/NHK出版)から翻訳されています。
 
 
-**株式会社NHK出版**（エヌエイチケイしゅっぱん、*NHK Publishing, Inc.*）は、[1931年](../Page/1931年.md "wikilink")（昭和6年）に設立された日本の[出版社](../Page/出版社.md "wikilink")である。[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連会社で、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までの旧社名は**日本放送出版協会**（にっぽんほうそうしゅっぱんきょうかい）であった。
+**株式会社NHK出版**（エヌエイチケイしゅっぱん、*NHK Publishing, Inc.*）は、[1931年](../Page/1931年.md "wikilink")（昭和6年）に設立された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")である。[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連会社で、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までの旧社名は**日本放送出版協会**（にっぽんほうそうしゅっぱんきょうかい）であった。
 
 ## 概要
 
@@ -280,7 +280,7 @@
 
   - [NHK出版](https://www.nhk-book.co.jp/)
 
-[Category:NHK出版](https://ja.wikipedia.org/wiki/Category:NHK出版 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:1931年設立の企業](https://ja.wikipedia.org/wiki/Category:1931年設立の企業 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:日本の音楽関連出版社](https://ja.wikipedia.org/wiki/Category:日本の音楽関連出版社 "wikilink") [Category:放送音楽関連の組織](https://ja.wikipedia.org/wiki/Category:放送音楽関連の組織 "wikilink") [Category:NHKの音楽](https://ja.wikipedia.org/wiki/Category:NHKの音楽 "wikilink")
+[Category:NHK出版](https://ja.wikipedia.org/wiki/Category:NHK出版 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:日本の音楽関連出版社](https://ja.wikipedia.org/wiki/Category:日本の音楽関連出版社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:1931年設立の企業](https://ja.wikipedia.org/wiki/Category:1931年設立の企業 "wikilink") [Category:放送音楽関連の組織](https://ja.wikipedia.org/wiki/Category:放送音楽関連の組織 "wikilink") [Category:NHKの音楽](https://ja.wikipedia.org/wiki/Category:NHKの音楽 "wikilink")
 
 1.  [社名変更のお知らせ](https://www.nhk-book.co.jp/home_files/info/2010/oshirase_34.html)
 2.   - 株式会社NHK出版

@@ -1,4 +1,4 @@
-> この記事は[ON](https://ja.wikipedia.org/wiki/ON)から翻訳されています。
+> この記事は[ニュースONステージ](https://ja.wikipedia.org/wiki/ニュースONステージ)から翻訳されています。
 
 
 『**ニュースONステージ**』（ニュースオンステージ、[英語](../Page/英語.md "wikilink")表記:*NEWS ON STAGE*）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで毎週土曜日の21時台に生放送されていた[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")のワイド[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

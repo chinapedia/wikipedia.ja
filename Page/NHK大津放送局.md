@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK大津放送局](https://ja.wikipedia.org/wiki/NHK大津放送局)から翻訳されています。
 
 
 **NHK大津放送局**（エヌエイチケイおおつほうそうきょく）は、[滋賀県](../Page/滋賀県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")、[第1放送](../Page/NHKラジオ第1放送.md "wikilink")、[FM放送で滋賀県域向けの放送を行っている](../Page/NHK-FM放送.md "wikilink")。

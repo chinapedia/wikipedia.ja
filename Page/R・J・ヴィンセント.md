@@ -1,4 +1,4 @@
-> この記事は[RJ](https://ja.wikipedia.org/wiki/RJ)から翻訳されています。
+> この記事は[R・J・ヴィンセント](https://ja.wikipedia.org/wiki/R・J・ヴィンセント)から翻訳されています。
 
 
 **R・J・ヴィンセント**（*Raymond John Vincent*, [1943年](../Page/1943年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")）は、イギリスの国際政治学者。元[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")(LSE)の[国際関係論](../Page/国際関係論.md "wikilink")教授。[英国学派](../Page/英国学派.md "wikilink")の一人。

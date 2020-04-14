@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[ケーブルテレビ向けCS放送](https://ja.wikipedia.org/wiki/ケーブルテレビ向けCS放送)から翻訳されています。
 
 
 **ケーブルテレビ向けCS放送**（ケーブルテレビむけシーエスほうそう）とは都市型[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で、[地上波](../Page/地上波.md "wikilink")の他に[衛星放送](../Page/衛星放送.md "wikilink")も配信している。

@@ -1,4 +1,4 @@
-> この記事は[TAKE2](https://ja.wikipedia.org/wiki/TAKE2)から翻訳されています。
+> この記事は[代紋TAKE2](https://ja.wikipedia.org/wiki/代紋TAKE2)から翻訳されています。
 
 
 『**代紋TAKE2**』（エンブレム テイクツー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")発売号まで[講談社](../Page/講談社.md "wikilink")の漫画週刊誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』に連載された[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ヤクザ](../Page/ヤクザ.md "wikilink")漫画。原作[木内一雅](../Page/木内一雅.md "wikilink")、作画[渡辺潤](../Page/渡辺潤.md "wikilink")。

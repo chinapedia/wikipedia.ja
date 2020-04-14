@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK名古屋放送局](https://ja.wikipedia.org/wiki/NHK名古屋放送局)から翻訳されています。
 
 
 **NHK名古屋放送局**（エヌエイチケイなごやほうそうきょく）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[東区](../Page/東区_\(名古屋市\).md "wikilink")[東桜](https://ja.wikipedia.org/wiki/東桜 "wikilink")一丁目にある[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。
@@ -429,7 +429,6 @@
 <tr class="header">
 <th><p>氏名</p></th>
 <th><p>前任地</p></th>
-<th><p>主なジャンル</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -440,102 +439,90 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/内山俊哉.md" title="wikilink">内山俊哉</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継など</p></td>
+<td><p><a href="../Page/高山哲哉.md" title="wikilink">高山哲哉</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/まるっと!" title="wikilink">まるっと!</a><br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大坂敏久.md" title="wikilink">大坂敏久</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継など</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/神戸和貴" title="wikilink">神戸和貴</a></p></td>
-<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
+<td><p><a href="../Page/山田大樹_(アナウンサー).md" title="wikilink">山田大樹</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナビゲーション_(NHK)" title="wikilink">ナビゲーション</a><br />
+（キャスター）</p></td>
 <td><p>愛知県出身</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/越塚優" title="wikilink">越塚優</a></p></td>
-<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/熊倉悟.md" title="wikilink">熊倉悟</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/小山径" title="wikilink">小山径</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まるっと!" title="wikilink">まるっと!</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>田中逸人</p></td>
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/ウイークエンド中部.md" title="wikilink">ウイークエンド中部</a></p></td>
+<td><p><a href="../Page/ウイークエンド中部.md" title="wikilink">ウイークエンド中部</a><br />
+（キャスター）</p></td>
 <td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/別井敬之.md" title="wikilink">別井敬之</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継など</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/比留間亮司.md" title="wikilink">比留間亮司</a></p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>アナウンス専任部長</p></td>
-<td><p>ニュースなど</p></td>
 <td><p>管理業務主体</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/酒匂飛翔" title="wikilink">酒匂飛翔</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継など</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/村竹勝司.md" title="wikilink">村竹勝司</a>*</p></td>
 <td><p><a href="../Page/NHK津放送局.md" title="wikilink">津</a></p></td>
-<td><p>地域</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夕刊_ゴジらじ" title="wikilink">夕刊 ゴジらじ</a></p></td>
 <td><p>愛知県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/山田大樹_(アナウンサー).md" title="wikilink">山田大樹</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナビゲーション_(NHK)" title="wikilink">ナビゲーション</a></p></td>
-<td><p>愛知県出身</p></td>
+<td><p><a href="../Page/内山俊哉.md" title="wikilink">内山俊哉</a>*</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
+<td><p>各種スポーツ中継</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大坂敏久.md" title="wikilink">大坂敏久</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/別井敬之.md" title="wikilink">別井敬之</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/酒匂飛翔" title="wikilink">酒匂飛翔</a></p></td>
+<td><p>東京アナウンス室</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/熊倉悟.md" title="wikilink">熊倉悟</a></p></td>
+<td><p>東海北陸のニュース</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸和貴" title="wikilink">神戸和貴</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p>|愛知県出身</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/越塚優" title="wikilink">越塚優</a></p></td>
+<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/若林則康.md" title="wikilink">若林則康</a>*</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td><p>特になし</p></td>
-<td><p>ニュースなど</p></td>
 <td><p>愛知県出身</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>女性</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -543,50 +530,45 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐々木彩" title="wikilink">佐々木彩</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>特になし</p></td>
-<td><p><br />
-</p></td>
 <td><p>産休中</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/西堀裕美.md" title="wikilink">西堀裕美</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
+<td><p>東海北陸のニュース</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三輪秀香" title="wikilink">三輪秀香</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/森山春香.md" title="wikilink">森山春香</a>*</p></td>
+<td><p>東海北陸のニュース<br />
+（ラジオ）</p></td>
+<td><p>愛知県出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/橋詰彩季" title="wikilink">橋詰彩季</a></p></td>
 <td><p><strong><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></strong></p></td>
-<td><p>地域・バラエティ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Uta-Tube" title="wikilink">Uta-Tube</a><br />
-おはよう東海</p></td>
+<a href="https://ja.wikipedia.org/wiki/おはよう東海" title="wikilink">おはよう東海</a><br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三輪秀香" title="wikilink">三輪秀香</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p>東海ピックアップ[4]</p></td>
-<td><p>休職中</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/村上由利子.md" title="wikilink">村上由利子</a></p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td><p>地域</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東海ピックアップ" title="wikilink">東海ピックアップ</a><br />
-おはよう東海</p></td>
+おはよう東海<br />
+（キャスター）</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/森山春香.md" title="wikilink">森山春香</a>*</p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>特になし</p></td>
-<td><p>ラジオニュース</p></td>
-<td><p>愛知県出身</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -597,34 +579,35 @@
 
 ### キャスター
 
-| 氏名                                                                  | 所属・前職等                                                                                                                    | 主な担当番組                                                      | 備考                                   |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------ |
-| CK専属                                                                |                                                                                                                           |                                                             |                                      |
-| [有田早紀](https://ja.wikipedia.org/wiki/有田早紀 "wikilink")               | 元[大阪局](../Page/NHK大阪放送局.md "wikilink")、[仙台局](../Page/NHK仙台放送局.md "wikilink")、[岐阜局契約キャスター](../Page/NHK岐阜放送局.md "wikilink") | [まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")    |                                      |
-| 飯沼祐月                                                                | 元[岐阜局契約キャスター](../Page/NHK岐阜放送局.md "wikilink")                                                                             | まるっと\!                                                      |                                      |
-| 石坂美咲                                                                | 元[CBCラジオ](../Page/CBCラジオ.md "wikilink")レポートドライバー→[津局契約キャスター](../Page/NHK津放送局.md "wikilink")                               | まるっと\!                                                      |                                      |
-| [岡安里美](https://ja.wikipedia.org/wiki/岡安里美 "wikilink")               | 元[徳島局気象情報キャスター](../Page/NHK徳島放送局.md "wikilink")                                                                           | [おはよう東海](https://ja.wikipedia.org/wiki/おはよう東海 "wikilink")   | [気象予報士](../Page/気象予報士.md "wikilink") |
-| 酒井麻利子                                                               | 元[中部ケーブルネットワーク](../Page/中部ケーブルネットワーク.md "wikilink")愛岐局契約キャスター                                                             | まるっと\!                                                      |                                      |
-| [寺尾直樹](../Page/寺尾直樹.md "wikilink")                                  | 元[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")社員                                                          | まるっと\!                                                      | 気象予報士                                |
-| [加藤里奈](https://ja.wikipedia.org/wiki/加藤里奈_\(ファッションモデル\) "wikilink") | [ファッションモデル](../Page/ファッションモデル.md "wikilink")・[セントラルジャパン](../Page/セントラルジャパン.md "wikilink")所属                               | [ウイークエンド中部](../Page/ウイークエンド中部.md "wikilink")                |                                      |
-| 福永美春                                                                | 元[静岡局契約キャスター](../Page/NHK静岡放送局.md "wikilink")                                                                             | まるっと\!                                                      |                                      |
-| 水島奈緒                                                                | 元[静岡局契約キャスター](../Page/NHK静岡放送局.md "wikilink")                                                                             | ウイークエンド中部                                                   |                                      |
-| 大浜扶美野                                                               | 元[沖縄局契約キャスター](../Page/NHK沖縄放送局.md "wikilink")、元[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")アナウンサー                | まるっと\!                                                      |                                      |
-| 新田谷萌                                                                | 元[奈良局契約キャスター](../Page/NHK奈良放送局.md "wikilink")                                                                             | まるっと\!                                                      |                                      |
-| 杉浦史織                                                                | 元[岐阜局契約キャスター](../Page/NHK岐阜放送局.md "wikilink")                                                                             | [夕刊 ゴジらじ](https://ja.wikipedia.org/wiki/夕刊_ゴジらじ "wikilink") |                                      |
-| 則竹佳純                                                                | 元[甲府局契約キャスター](../Page/NHK甲府放送局.md "wikilink")（旧名・二宮佳純）                                                                    | まるっと\!                                                      |                                      |
-| 吉岡麗                                                                 |                                                                                                                           | まるっと\!                                                      |                                      |
-| フリー                                                                 |                                                                                                                           |                                                             |                                      |
-| 西根智彦\[5\]                                                           | フリーアナウンサー・劇団μ代表                                                                                                           | 主に日曜・祝日ラジオニュース                                              |                                      |
-| [小倉理恵](../Page/小倉理恵.md "wikilink")                                  | 元[岐阜放送](../Page/岐阜放送.md "wikilink")アナウンサー・元CBCラジオレポートドライバー                                                                | 主に日曜・祝日ラジオニュース                                              |                                      |
+| 氏名                                                                  | 所属・前職等                                                                                                                    | 主な担当番組                                                    | 備考                                   |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------ |
+| CK専属                                                                |                                                                                                                           |                                                           |                                      |
+| [有田早紀](https://ja.wikipedia.org/wiki/有田早紀 "wikilink")               | 元[大阪局](../Page/NHK大阪放送局.md "wikilink")、[仙台局](../Page/NHK仙台放送局.md "wikilink")、[岐阜局契約キャスター](../Page/NHK岐阜放送局.md "wikilink") | [まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")  |                                      |
+| 浦野莉恵                                                                | 元[金沢局契約キャスター](../Page/NHK金沢放送局.md "wikilink")                                                                             | まるっと\!                                                    |                                      |
+| 石坂窓花                                                                | 元[CBCラジオ](../Page/CBCラジオ.md "wikilink")レポートドライバー→[津局契約キャスター](../Page/NHK津放送局.md "wikilink")                               | まるっと\!                                                    |                                      |
+| [岡安里美](https://ja.wikipedia.org/wiki/岡安里美 "wikilink")               | 元[徳島局気象情報キャスター](../Page/NHK徳島放送局.md "wikilink")                                                                           | [おはよう東海](https://ja.wikipedia.org/wiki/おはよう東海 "wikilink") | [気象予報士](../Page/気象予報士.md "wikilink") |
+| 亀蔦なごみ                                                               |                                                                                                                           |                                                           |                                      |
+| [寺尾直樹](../Page/寺尾直樹.md "wikilink")                                  | 元[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")社員                                                          | まるっと\!                                                    | 気象予報士                                |
+| [加藤里奈](https://ja.wikipedia.org/wiki/加藤里奈_\(ファッションモデル\) "wikilink") | [ファッションモデル](../Page/ファッションモデル.md "wikilink")・[セントラルジャパン](../Page/セントラルジャパン.md "wikilink")所属                               | [ウイークエンド中部](../Page/ウイークエンド中部.md "wikilink")              |                                      |
+| 福田ちづる                                                               |                                                                                                                           | さらさらサラダ                                                   |                                      |
+| 水島奈緒                                                                | 元[静岡局契約キャスター](../Page/NHK静岡放送局.md "wikilink")                                                                             | ウイークエンド中部                                                 |                                      |
+| 大浜扶美野                                                               | 元[沖縄局契約キャスター](../Page/NHK沖縄放送局.md "wikilink")、元[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")アナウンサー                | まるっと\!                                                    |                                      |
+| 新田谷萌                                                                | 元[奈良局契約キャスター](../Page/NHK奈良放送局.md "wikilink")                                                                             | まるっと\!                                                    |                                      |
+| 吉村史織                                                                | 元[長崎局契約キャスター](../Page/NHK長崎放送局.md "wikilink")                                                                             | まるっと！                                                     |                                      |
+| 則竹佳純                                                                | 元[甲府局契約キャスター](../Page/NHK甲府放送局.md "wikilink")（旧名・二宮佳純）                                                                    | まるっと\!                                                    |                                      |
+| 吉岡麗                                                                 |                                                                                                                           | まるっと\!                                                    |                                      |
+| 渡邊晶子                                                                | 元[山形局契約キャスター](../Page/NHK山形放送局.md "wikilink")                                                                             | まるっと\!                                                    |                                      |
+| フリー                                                                 |                                                                                                                           |                                                           |                                      |
+| 西根智彦\[4\]                                                           | フリーアナウンサー・劇団μ代表                                                                                                           | 主に日曜・祝日ラジオニュース                                            |                                      |
+| [小倉理恵](../Page/小倉理恵.md "wikilink")                                  | 元[岐阜放送](../Page/岐阜放送.md "wikilink")アナウンサー・元CBCラジオレポートドライバー                                                                | 主に日曜・祝日ラジオニュース                                            |                                      |
 
 ## 天気予報とお天気カメラ
 
-[名古屋駅](../Page/名古屋駅.md "wikilink")、[名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink")、[中部国際空港](../Page/中部国際空港.md "wikilink")スカイデッキ、[名古屋港](../Page/名古屋港.md "wikilink")、[豊橋](../Page/豊橋市.md "wikilink")、[伊良湖岬](../Page/伊良湖岬.md "wikilink")、[師崎港](../Page/師崎港.md "wikilink")、[津島](../Page/津島市.md "wikilink")、[長久手などに設置されている](https://ja.wikipedia.org/wiki/長久手市 "wikilink")。なお、基本的には常設されているものを使用するが、[ほっとイブニング](../Page/ほっとイブニング.md "wikilink")などで特定の地域から公開生放送を行う場合や、紅葉の時期に[八事山興正寺や](../Page/興正寺_\(名古屋市\).md "wikilink")[香嵐渓](../Page/香嵐渓.md "wikilink")などの観光名所、あるいは公開生放送先の[ランドマーク](../Page/ランドマーク.md "wikilink")の屋上などに一定期間設置される場合もある。かつては、[名古屋空港](../Page/名古屋飛行場.md "wikilink")（現・県営名古屋空港）や[愛知万博会場内にも設置されていた](../Page/2005年日本国際博覧会.md "wikilink")。
+[名古屋駅](../Page/名古屋駅.md "wikilink")、[名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink")、[中部国際空港](../Page/中部国際空港.md "wikilink")スカイデッキ、[名古屋港](../Page/名古屋港.md "wikilink")、[豊橋](../Page/豊橋市.md "wikilink")、[伊良湖岬](../Page/伊良湖岬.md "wikilink")、[師崎港](../Page/師崎港.md "wikilink")、[津島](../Page/津島市.md "wikilink")、[長久手などに設置されている](https://ja.wikipedia.org/wiki/長久手市 "wikilink")。なお、基本的には常設されているものを使用するが、[まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")などで特定の地域から公開生放送を行う場合や、紅葉の時期に[八事山興正寺や](../Page/興正寺_\(名古屋市\).md "wikilink")[香嵐渓](../Page/香嵐渓.md "wikilink")などの観光名所、あるいは公開生放送先の[ランドマーク](../Page/ランドマーク.md "wikilink")の屋上などに一定期間設置される場合もある。かつては、[名古屋空港](../Page/名古屋飛行場.md "wikilink")（現・県営名古屋空港）や[愛知万博会場内にも設置されていた](../Page/2005年日本国際博覧会.md "wikilink")。
 
 ## 放送事故
 
-2013年4月から8月までの間、[津市](../Page/津市.md "wikilink")と[岐阜市](../Page/岐阜市.md "wikilink")の予報を逆に放送していたミスが見つかった。その誤りが公表されたのちにも、2013年4月1日から1年あまりにわたって[長野市](../Page/長野市.md "wikilink")の[降水確率](../Page/降水確率.md "wikilink")を名古屋市と同じ数字で表示していたことが判明した\[6\]。
+2013年4月から8月までの間、[津市](../Page/津市.md "wikilink")と[岐阜市](../Page/岐阜市.md "wikilink")の予報を逆に放送していたミスが見つかった。その誤りが公表されたのちにも、2013年4月1日から1年あまりにわたって[長野市](../Page/長野市.md "wikilink")の[降水確率](../Page/降水確率.md "wikilink")を名古屋市と同じ数字で表示していたことが判明した\[5\]。
 
 ## 関連施設
 
@@ -686,6 +669,5 @@
 1.  [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
 2.  [日曜Tube](http://www4.nhk.or.jp/P3991/) NHK
 3.  [平成２９年度（前半期）放送番組時刻表](http://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1276_houkoku03-2.pdf) NHK　2017年2月17日
-4.
-5.  [西根 智彦 にしね ともひこ NTBタレントプロフィール](http://www.goodntb.co.jp/talent/profile.php?id=97)株式会社NTB
-6.  [「長野に名古屋の降水確率」NHK名古屋放送局が謝罪](http://www.asahi.com/articles/ASG4C0373G4BOIPE03M.html) - （2014年4月11日01時33分） 朝日新聞デジタル。
+4.  [西根 智彦 にしね ともひこ NTBタレントプロフィール](http://www.goodntb.co.jp/talent/profile.php?id=97)株式会社NTB
+5.  [「長野に名古屋の降水確率」NHK名古屋放送局が謝罪](http://www.asahi.com/articles/ASG4C0373G4BOIPE03M.html) - （2014年4月11日01時33分） 朝日新聞デジタル。

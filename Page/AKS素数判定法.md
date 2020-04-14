@@ -1,4 +1,4 @@
-> この記事は[AKS](https://ja.wikipedia.org/wiki/AKS)から翻訳されています。
+> この記事は[AKS素数判定法](https://ja.wikipedia.org/wiki/AKS素数判定法)から翻訳されています。
 
 
 **AKS素数判定法**（AKSそすうはんていほう）は、与えられた[自然数](../Page/自然数.md "wikilink")が[素数](../Page/素数.md "wikilink")であるかどうかを[決定的](../Page/決定的アルゴリズム.md "wikilink")[多項式時間](https://ja.wikipedia.org/wiki/多項式時間 "wikilink")で判定できる、世界初の[アルゴリズム](../Page/アルゴリズム.md "wikilink")である。ここで、素数判定法が多項式時間であるとは、与えられた自然数 \(n\) が素数であるかどうかを判定するのにかかる時間が\(\log(n)\) の[多項式](../Page/多項式.md "wikilink")を[上界](https://ja.wikipedia.org/wiki/上界 "wikilink")とすることをいう。\(n\) の多項式ではないことに注意する必要がある。

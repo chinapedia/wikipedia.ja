@@ -1,7 +1,7 @@
-> この記事は[PL](https://ja.wikipedia.org/wiki/PL)から翻訳されています。
+> この記事は[PL学園中学校・高等学校](https://ja.wikipedia.org/wiki/PL学園中学校・高等学校)から翻訳されています。
 
 
-**PL学園中学校・高等学校**（ピーエルがくえんちゅうがっこう・こうとうがっこう）は、[大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")にある[男女共学](../Page/男女共学.md "wikilink")の[私立](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")で、[パーフェクト リバティー教団本部敷地内に立地しており学校法人PL学園が運営する](../Page/パーフェクト_リバティー教団.md "wikilink")。
+**PL学園中学校・高等学校**(ピエールがくえんちゅうがっこう・こうとうがっこう）は、[大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")にある[男女共学](../Page/男女共学.md "wikilink")の[私立](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")で、[パーフェクト リバティー教団本部敷地内に立地しており学校法人PL学園が運営する](../Page/パーフェクト_リバティー教団.md "wikilink")。
 
 ## 概要
 

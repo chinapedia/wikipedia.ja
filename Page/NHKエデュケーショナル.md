@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKエデュケーショナル](https://ja.wikipedia.org/wiki/NHKエデュケーショナル)から翻訳されています。
 
 
 **NHKエデュケーショナル**（株式会社エヌエイチケイエデュケーショナル\[1\]、）は、[1989年](../Page/1989年.md "wikilink")に設立された、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の教育番組制作専門の[プロダクション会社](../Page/制作プロダクション.md "wikilink")。NEDと略されることがある\[2\]。現在の社長は元NHK制作局長の[掛川治男](https://ja.wikipedia.org/wiki/掛川治男 "wikilink")。

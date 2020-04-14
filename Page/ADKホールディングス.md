@@ -1,4 +1,4 @@
-> この記事は[ADK](https://ja.wikipedia.org/wiki/ADK)から翻訳されています。
+> この記事は[ADKホールディングス](https://ja.wikipedia.org/wiki/ADKホールディングス)から翻訳されています。
 
 
 **株式会社ADKホールディングス**（）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[広告代理店](../Page/広告代理店.md "wikilink")業務を行う企業を統括する純粋[持株会社](../Page/持株会社.md "wikilink")。[1999年](../Page/1999年.md "wikilink")1月1日に旭通信社と第一企画が合併して発足した**株式会社アサツー ディ・ケイ**（略称：ADK（エーディーケー））が2019年1月に持株会社化・商号変更した。

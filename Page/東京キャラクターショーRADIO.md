@@ -1,7 +1,7 @@
-> この記事は[RADIO](https://ja.wikipedia.org/wiki/RADIO)から翻訳されています。
+> この記事は[東京キャラクターショーRADIO](https://ja.wikipedia.org/wiki/東京キャラクターショーRADIO)から翻訳されています。
 
 
-『**東京キャラクターショーRADIO**』（とうきょうキャラクターショーラジオ）は[声優](../Page/声優.md "wikilink")の[田中理恵と](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")[吉田尚記](../Page/吉田尚記.md "wikilink")がパーソナリティーを務めた[アニラジ](../Page/アニラジ.md "wikilink")である。略称は「きゃらしょ」（吉田が初回放送で命名）。
+『**東京キャラクターショーRADIO**』（とうきょうキャラクターショーラジオ）は[声優](../Page/声優.md "wikilink")の[田中理恵と](../Page/田中理恵_\(声優\).md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")[吉田尚記](../Page/吉田尚記.md "wikilink")がパーソナリティーを務めた[アニラジ](../Page/アニラジ.md "wikilink")である。略称は「きゃらしょ」（吉田が初回放送で命名）。
 
 吉田はこの番組がきっかけで『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』にゲスト出演を果たした（詳細後述）。
 
@@ -18,7 +18,7 @@
   - 月曜日：[山本麻里安](../Page/山本麻里安.md "wikilink")（きゃらしょニュースの月曜日）
   - 火曜日：[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")（とらタヌの火曜日）
   - 水曜日：吉田のみ（ゲームの水曜日）※ ゲーム業界関係者などのゲストあり。番組のオープニングとエンディングのみが生放送で、本編は録音放送だった。録音部分は[ラジオ大阪でもネットされた](../Page/大阪放送.md "wikilink")。
-  - 木曜日：[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（[声優](../Page/声優.md "wikilink")の木曜日）
+  - 木曜日：[田中理恵](../Page/田中理恵_\(声優\).md "wikilink")（[声優](../Page/声優.md "wikilink")の木曜日）
 
 [2002年](../Page/2002年.md "wikilink")（平成14年）12月24日には当時の[ニッポン放送](../Page/ニッポン放送.md "wikilink")本社（元々[有楽町](../Page/有楽町.md "wikilink")に入居しているビル建て替え工事に伴い、[台場](../Page/台場.md "wikilink")の[フジテレビ局舎内に一時移転していた時代](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）と目と鼻の先の、台場[STUDIO DREAM MAKERにて](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")、メインパーソナリティー全員集合の公開録音が開催された。
 

@@ -545,6 +545,13 @@ TYCT-30063</p></td>
 <td><p>TYCT-39059</p></td>
 <td><p>32位</p></td>
 </tr>
+<tr class="odd">
+<td><p>28th</p></td>
+<td><p>2020年<a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
+<td><p><strong><a href="../Page/灰色の街.md" title="wikilink">灰色の街</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

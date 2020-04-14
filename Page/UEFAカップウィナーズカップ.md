@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFAカップウィナーズカップ](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ)から翻訳されています。
 
 
 **UEFAカップウィナーズカップ**（ウエファカップウィナーズカップ、）は、かつて[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）の主催で行われていた、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。

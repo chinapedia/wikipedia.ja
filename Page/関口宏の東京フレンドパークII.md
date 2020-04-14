@@ -1,11 +1,11 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[関口宏の東京フレンドパークII](https://ja.wikipedia.org/wiki/関口宏の東京フレンドパークII)から翻訳されています。
 
 
 **関口宏の東京フレンドパークII**（せきぐちひろしのとうきょうフレンドパークツー）は、[1994年](../Page/1994年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、[TBS](../Page/TBSテレビ.md "wikilink")[系列で毎週放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[ゲーム](../Page/ゲーム番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")であり、[関口宏](../Page/関口宏.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であもる。
 
 2009年度以外は、毎週[月曜日](../Page/月曜日.md "wikilink")の19時台に放送された。2010年度の放送時間は、月曜日の19:00 - 19:55 ([JST](../Page/日本標準時.md "wikilink"))。[毎日放送](../Page/毎日放送.md "wikilink")を含めた[JNN各局が指定する](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")「**青少年に見てもらいたい番組**」でもあった\[1\]\[2\]\[3\]\[4\]。
 
-略称は「**フレンドパーク**」、「**フレパ**」\[5\]\[6\]、「**フレパー**」\[7\]\[8\]、「**TFP2**」（**T**okyo **F**riend **P**ark **2**の略で、番組ロゴとしても使用されていた。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")（●年●月から実施。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")放送分からは、アナログ放送は[レターボックス形式で放送](../Page/レターボックス_\(映像技術\).md "wikilink")）、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（2002年4月8日放送分より）。
+略称は「**フレンドパーク**」、「**フレパ**」\[5\]\[6\]、「**フレパー**」\[7\]\[8\]、「**TFP2**」（**T**okyo **F**riend **P**ark **2**の略で、番組ロゴとしても使用されていた。●年●月より[ハイビジョン放送を開始](../Page/ハイビジョン制作.md "wikilink")。●年●月より[画面比16:9のワイドサイズによる放送を開始](../Page/画面アスペクト比.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")放送分からは、アナログ放送は[レターボックス形式で放送](../Page/レターボックス_\(映像技術\).md "wikilink")）、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（2002年4月8日放送分より）。
 
 本番組の前身であり、[1992年](../Page/1992年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[1993年](../Page/1993年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")まで同時間帯で放送されていた『**[ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")・関口宏の東京フレンドパーク**』、そして本番組の放送終了直後に一部放送局で放送されていたミニ番組『**[後のまつり](https://ja.wikipedia.org/wiki/#ミニ番組 "wikilink")**』についても、本項目で併せて記述する。
 

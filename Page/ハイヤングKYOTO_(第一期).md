@@ -1,4 +1,4 @@
-> この記事は[KYOTO \(\)](https://ja.wikipedia.org/wiki/KYOTO_\(\))から翻訳されています。
+> この記事は[ハイヤングKYOTO \(第一期\)](https://ja.wikipedia.org/wiki/ハイヤングKYOTO_\(第一期\))から翻訳されています。
 
 
 本項では、かつて[KBS京都で放送されていた](../Page/京都放送.md "wikilink")[深夜](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[ハイヤングKYOTO](https://ja.wikipedia.org/wiki/ハイヤングKYOTO "wikilink")」の内、[1981年](../Page/1981年.md "wikilink")（昭和56年） - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）に放送されたものを**第一期**として記述していく。

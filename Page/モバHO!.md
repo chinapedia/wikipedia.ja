@@ -1,4 +1,4 @@
-> この記事は[HO!](https://ja.wikipedia.org/wiki/HO!)から翻訳されています。
+> この記事は[モバHO!](https://ja.wikipedia.org/wiki/モバHO!)から翻訳されています。
 
 
 **モバHO\!**（**モバホ\!**）とは、2000年代に日本で放送されていた、放送衛星[MBSat](https://ja.wikipedia.org/wiki/MBSat "wikilink")を利用した移動体向け[マルチメディア放送](https://ja.wikipedia.org/wiki/マルチメディア放送 "wikilink")（2.6GHz帯衛星デジタル音声放送）の愛称である。正式名称及び運営会社名は「[モバイル放送](../Page/モバイル放送.md "wikilink")」\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[H2O \(\)](https://ja.wikipedia.org/wiki/H2O_\(\))から翻訳されています。
+> この記事は[H2O \(日本の歌手グループ\)](https://ja.wikipedia.org/wiki/H2O_\(日本の歌手グループ\))から翻訳されています。
 
 
 **H<sub>2</sub>O**（エイチツーオー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[デュオ](../Page/二人組.md "wikilink")。

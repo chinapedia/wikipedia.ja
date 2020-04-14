@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBSワールドラジオ](https://ja.wikipedia.org/wiki/KBSワールドラジオ)から翻訳されています。
 
 
 **KBSワールドラジオ**（ケイビーエスワールドラジオ、）（旧称:ラジオ韓国）とは、[大韓民国](../Page/大韓民国.md "wikilink")（韓国）の[韓国放送公社](../Page/韓国放送公社.md "wikilink")（KBS）が行っている海外向け[放送](../Page/放送.md "wikilink")（[国際放送](../Page/国際放送.md "wikilink")）である。

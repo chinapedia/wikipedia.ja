@@ -1,4 +1,4 @@
-> この記事は[KYOTO](https://ja.wikipedia.org/wiki/KYOTO)から翻訳されています。
+> この記事は[フリーキャンパスKYOTO](https://ja.wikipedia.org/wiki/フリーキャンパスKYOTO)から翻訳されています。
 
 
 **フリーキャンパスKYOTO**は、[KBS京都で放送された若者向け深夜放送である](../Page/京都放送.md "wikilink")。

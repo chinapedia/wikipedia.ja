@@ -1,4 +1,4 @@
-> この記事は[JRED500](https://ja.wikipedia.org/wiki/JRED500)から翻訳されています。
+> この記事は[JR貨物ED500形電気機関車](https://ja.wikipedia.org/wiki/JR貨物ED500形電気機関車)から翻訳されています。
 
 
 **ED500形電気機関車**（イーディー500がたでんききかんしゃ）は、かつて[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が試用した[交流直流両用](../Page/交直流電車.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。

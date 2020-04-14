@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKジャーナル](https://ja.wikipedia.org/wiki/NHKジャーナル)から翻訳されています。
 
 
 **NHKジャーナル**（エヌエイチケイ・ジャーナル）は、[1982年](../Page/1982年.md "wikilink")から平日の22時台に[NHKラジオ第1で放送されている報道番組である](../Page/NHKラジオ第1放送.md "wikilink")。
@@ -111,7 +111,7 @@
 | 不明         | 1995.03    | [伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")    |                                                                         |                                                         |
 | 1995.04    | 1996.11    | [坪倉善彦](https://ja.wikipedia.org/wiki/坪倉善彦 "wikilink")      |                                                                         |                                                         |
 | 1996.11    | 1997.11.1  | [向坂真弓](https://ja.wikipedia.org/wiki/向坂真弓 "wikilink")      | [小籔加奈子](https://ja.wikipedia.org/wiki/小籔加奈子 "wikilink")                 | [入山秀昭](https://ja.wikipedia.org/wiki/入山秀昭 "wikilink")   |
-| 1997.11.5  | 1998.03.31 | [山下俊文](https://ja.wikipedia.org/wiki/山下俊文 "wikilink")      |                                                                         |                                                         |
+| 1997.11.5  | 1998.03.31 | [山下俊文](../Page/山下俊文.md "wikilink")                         |                                                                         |                                                         |
 | 1998.04.01 | 1999.06.11 | [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")      | [岩井理江](https://ja.wikipedia.org/wiki/岩井理江 "wikilink")                   |                                                         |
 | 1999.06.14 | 2000.03.24 | [佐藤敏彦](https://ja.wikipedia.org/wiki/佐藤敏彦 "wikilink")      |                                                                         |                                                         |
 | 2000.03.27 | 2001.03.30 | [下境博](https://ja.wikipedia.org/wiki/下境博 "wikilink")        |                                                                         |                                                         |

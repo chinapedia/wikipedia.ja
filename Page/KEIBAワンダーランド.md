@@ -1,4 +1,4 @@
-> この記事は[KEIBA](https://ja.wikipedia.org/wiki/KEIBA)から翻訳されています。
+> この記事は[KEIBAワンダーランド](https://ja.wikipedia.org/wiki/KEIBAワンダーランド)から翻訳されています。
 
 
 『**KEIBAワンダーランド**』（ケイバ・ワンダーランド）とは[京都放送](../Page/京都放送.md "wikilink")（KBS京都）が制作し、西日本各地のテレビ局にネットしていた[中央競馬](../Page/中央競馬.md "wikilink")実況テレビ番組。

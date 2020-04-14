@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[SSラツィオ](https://ja.wikipedia.org/wiki/SSラツィオ)から翻訳されています。
 
 
 **ソチエタ・スポルティーヴァ・ラツィオ**（）は、[イタリア](../Page/イタリア.md "wikilink")・[ローマ](../Page/ローマ.md "wikilink")（[ラツィオ州](../Page/ラツィオ州.md "wikilink")）を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

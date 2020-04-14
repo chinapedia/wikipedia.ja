@@ -1,4 +1,4 @@
-> この記事は[Eyef](https://ja.wikipedia.org/wiki/Eyef)から翻訳されています。
+> この記事は[ニュースEyeランドf](https://ja.wikipedia.org/wiki/ニュースEyeランドf)から翻訳されています。
 
 
 『**ニュースEyeランドf**』（ニュースアイランド フォルテ）は、[1996年](../Page/1996年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[サンテレビが放送していた](../Page/サンテレビジョン.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。放送時間は毎週月曜 - 金曜 21:30 - 21:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

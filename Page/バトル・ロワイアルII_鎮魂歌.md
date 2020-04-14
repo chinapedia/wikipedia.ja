@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[バトル・ロワイアルII 鎮魂歌](https://ja.wikipedia.org/wiki/バトル・ロワイアルII_鎮魂歌)から翻訳されています。
 
 
 『**バトル・ロワイアルII 【鎮魂歌】**』（バトル・ロワイアル・ツー レクイエム、略称：**BRII**） は、[2003年](../Page/2003年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。

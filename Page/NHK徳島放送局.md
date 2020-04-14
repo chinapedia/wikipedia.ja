@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK徳島放送局](https://ja.wikipedia.org/wiki/NHK徳島放送局)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:NHK_Tokushima02s3200.jpg "wikilink") **NHK徳島放送局**（エヌエイチケイとくしまほうそうきょく）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。

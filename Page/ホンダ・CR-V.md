@@ -1,4 +1,4 @@
-> この記事は[CR-V](https://ja.wikipedia.org/wiki/CR-V)から翻訳されています。
+> この記事は[ホンダ・CR-V](https://ja.wikipedia.org/wiki/ホンダ・CR-V)から翻訳されています。
 
 
 **CR-V**（シーアール-ブイ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産・販売しているミドルサイズの[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

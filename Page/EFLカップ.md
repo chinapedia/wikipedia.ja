@@ -1,4 +1,4 @@
-> この記事は[EFL](https://ja.wikipedia.org/wiki/EFL)から翻訳されています。
+> この記事は[EFLカップ](https://ja.wikipedia.org/wiki/EFLカップ)から翻訳されています。
 
 
 **EFLカップ** (、略称: **リーグカップ**)は、[イングランド](../Page/イングランド.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[リーグカップである](../Page/カップ戦.md "wikilink")。[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")と[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")の92クラブが参加する。[1960年](../Page/1960年.md "wikilink")シーズンから始まったもので、優勝したクラブには[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")への出場権が与えられる\[1\]。現在は、飲料メーカーのカラバオ社に命名権が買い取られ、**カラバオ・カップ** ()と冠されている。
@@ -660,6 +660,14 @@
 <td><p>81,775</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:2020_EFL_Cup_Final" title="wikilink">2020</a></p></td>
+<td></td>
+<td><p>2–1</p></td>
+<td></td>
+<td><p>82,145</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -953,7 +961,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://cup.efl.com/)
+  - [公式サイト](https://www.efl.com/carabao-cup)
 
 [Category:フットボールリーグ](https://ja.wikipedia.org/wiki/Category:フットボールリーグ "wikilink") [Category:イングランドのサッカー大会](https://ja.wikipedia.org/wiki/Category:イングランドのサッカー大会 "wikilink") [Category:国内のサッカーカップ戦](https://ja.wikipedia.org/wiki/Category:国内のサッカーカップ戦 "wikilink")
 

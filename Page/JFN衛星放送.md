@@ -1,4 +1,4 @@
-> この記事は[JFN](https://ja.wikipedia.org/wiki/JFN)から翻訳されています。
+> この記事は[JFN衛星放送](https://ja.wikipedia.org/wiki/JFN衛星放送)から翻訳されています。
 
 
 **株式会社ジェイエフエヌ衛星放送**（**-えいせいほうそう**）は、かつて存在した日本の[委託放送事業者](../Page/委託放送事業者.md "wikilink")。株式会社[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）の関連会社である。通称：**JFN BS**。

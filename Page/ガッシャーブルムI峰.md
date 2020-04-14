@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[ガッシャーブルムI峰](https://ja.wikipedia.org/wiki/ガッシャーブルムI峰)から翻訳されています。
 
 
 **ガッシャーブルムI峰**（Gasherbrum I, ）は、[中国と](../Page/中華人民共和国.md "wikilink")[パキスタン](../Page/パキスタン.md "wikilink")の国境の[カラコルム山脈](../Page/カラコルム山脈.md "wikilink")にある[山](../Page/山.md "wikilink")。[ガッシャーブルム山塊](https://ja.wikipedia.org/wiki/ガッシャーブルム山塊 "wikilink")の最高峰である。カラコルム山脈の主要なアプローチルートであるバルトロ氷河からはガッシャーブルムII～VI峰に遮られ山体が見えないことから**ヒドゥン・ピーク**（Hidden Peak）とも呼ばれる。

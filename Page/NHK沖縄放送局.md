@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK沖縄放送局](https://ja.wikipedia.org/wiki/NHK沖縄放送局)から翻訳されています。
 
 
 **NHK沖縄放送局**（エヌエイチケイおきなわほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[沖縄県](../Page/沖縄県.md "wikilink")の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。 沖縄県を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[中波放送](../Page/中波放送.md "wikilink")（AM放送）、[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）および[テレビジョン放送](../Page/テレビジョン放送.md "wikilink")の[県域放送](../Page/県域放送.md "wikilink")を行う。
@@ -525,8 +525,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/池間昌人" title="wikilink">池間昌人</a></p></td>
 <td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
-<td><p>沖縄県のニュース<br />
-<a href="../Page/きんくる_〜沖縄金曜クルーズ〜.md" title="wikilink">きんくる 〜沖縄金曜クルーズ〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おきなわHOTeye" title="wikilink">おきなわHOTeye</a><br />
+（キャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/細田史雄.md" title="wikilink">細田史雄</a>*</p></td>
@@ -541,24 +541,24 @@
 各種スポーツ中継</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/竜田理史" title="wikilink">竜田理史</a></p></td>
+<td><p><strong>初任地</strong></p></td>
+<td><p>沖縄県のニュース<br />
+<a href="../Page/きんくる_〜沖縄金曜クルーズ〜.md" title="wikilink">きんくる 〜沖縄金曜クルーズ〜</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/荒木さくら" title="wikilink">荒木さくら</a></p></td>
+<td><p>沖縄県のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀越将伸" title="wikilink">堀越将伸</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おきなわHOTeye" title="wikilink">おきなわHOTeye</a><br />
-（キャスター）</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/土橋大記.md" title="wikilink">土橋大記</a>*</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td><p>沖縄県のニュース</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/竜田理史" title="wikilink">竜田理史</a></p></td>
-<td><p><strong>初任地</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>荒木さくら</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">

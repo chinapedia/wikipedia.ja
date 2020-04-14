@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニュースダッシュ](https://ja.wikipedia.org/wiki/NNNニュースダッシュ)から翻訳されています。
 
 
 『**NNNニュースダッシュ**』（エヌエヌエヌ ニュースダッシュ、英称:*NNN NEWS DASH*）は、[日本テレビをはじめとする](../Page/日本テレビ放送網.md "wikilink")[NNN加盟フルネット](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")28局\[1\]で、[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送されていた[お昼の](../Page/昼.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

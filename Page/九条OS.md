@@ -1,4 +1,4 @@
-> この記事は[OS](https://ja.wikipedia.org/wiki/OS)から翻訳されています。
+> この記事は[九条OS](https://ja.wikipedia.org/wiki/九条OS)から翻訳されています。
 
 
 **九条OS劇場**（くじょうオーエスげきじょう）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西区九条](../Page/西区_\(大阪市\).md "wikilink")2丁目にかつて存在した[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップティーズ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK宇都宮放送局](https://ja.wikipedia.org/wiki/NHK宇都宮放送局)から翻訳されています。
 
 
 **NHK宇都宮放送局**（エヌエイチケイうつのみやほうそうきょく）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。[NHK EテレとAM放送](../Page/NHK教育テレビジョン.md "wikilink")（[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")・[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")）については[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏放送の扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
@@ -85,6 +85,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
   - [とちぎ640](https://ja.wikipedia.org/wiki/とちぎ640 "wikilink")（月～金 18:40 - 18:59）※2012年4月開始
   - [ときめきとちぎ](https://ja.wikipedia.org/wiki/ときめきとちぎ "wikilink")（金 11:30 - 11:59.55）※2012年4月-2018年3月
+  - とちスペ　(金曜不定期 19:30\~19:57)
 
 ### 県域FM
 

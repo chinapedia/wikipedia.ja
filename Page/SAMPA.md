@@ -1,11 +1,11 @@
 > この記事は[SAMPA](https://ja.wikipedia.org/wiki/SAMPA)から翻訳されています。
 
 
-**SAMPA**（**Speech Assessment Methods Phonetic Alphabet**）とは、[国際音声記号](../Page/国際音声記号.md "wikilink")（IPA）を元に作られた、コンピューター画面上に表示可能な7ビットの [ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink") 文字のみで表現された音声記号である。
+**SAMPA**（**Speech Assessment Methods Phonetic Alphabet**）とは、[国際音声記号](../Page/国際音声記号.md "wikilink")（IPA）を元に作られた、コンピューター画面上に表示可能な7ビットの [ASCII](../Page/ASCII.md "wikilink") 文字のみで表現された音声記号である。
 
 **SAMPA** は1980年代後期に[欧州共同体](../Page/欧州共同体.md "wikilink") の「[ESPRIT情報技術研究開発計画](https://ja.wikipedia.org/wiki/w:ESPRIT "wikilink")」により、6つの欧州語のために制定された。IPA からは可能な限り多くの記号が引き継がれたが、それが不可能なものについては、利用可能な別の記号群が使われる。例えば、\[@\] は[あいまい母音](https://ja.wikipedia.org/wiki/あいまい母音 "wikilink")の『ア』、\[2\] はフランス語の *deux* に現れる[母音](../Page/母音.md "wikilink")、そして \[9\] はフランス語の *neuf* の母音に使用することになる。
 
-現在 **SAMPA** は下記の[言語](../Page/言語.md "wikilink")の全ての[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を表現できるよう、公式に改良されている
+現在 **SAMPA** は下記の[言語](../Page/言語.md "wikilink")の全ての[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")を表現できるよう、公式に改良されている。
 
   - [アラビア語](../Page/アラビア語.md "wikilink")
   - [イタリア語](../Page/イタリア語.md "wikilink")
@@ -24,7 +24,7 @@
   - [ドイツ語](../Page/ドイツ語.md "wikilink")
   - [トルコ語](../Page/トルコ語.md "wikilink")
   - [ノルウェー語](../Page/ノルウェー語.md "wikilink")
-  - [ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")
+  - [ハンガリー語](../Page/ハンガリー語.md "wikilink")
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")
   - [ブルガリア語](../Page/ブルガリア語.md "wikilink")
   - [ヘブライ語](../Page/ヘブライ語.md "wikilink")

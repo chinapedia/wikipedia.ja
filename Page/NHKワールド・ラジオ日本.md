@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKワールド・ラジオ日本](https://ja.wikipedia.org/wiki/NHKワールド・ラジオ日本)から翻訳されています。
 
 
 **NHKワールド・ラジオ日本**（エヌエイチケイワールド・ラジオにっぽん、）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）による[地上基幹放送](https://ja.wikipedia.org/wiki/地上基幹放送 "wikilink")の一種で、[短波放送](../Page/短波放送.md "wikilink")かつ[国際放送](../Page/国際放送.md "wikilink")である。**ラジオジャパン**（）（[略称](../Page/略語.md "wikilink")：RJ）とも呼ばれる。

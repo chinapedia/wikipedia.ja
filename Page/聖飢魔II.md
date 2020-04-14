@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[聖飢魔II](https://ja.wikipedia.org/wiki/聖飢魔II)から翻訳されています。
 
 
 **聖飢魔II**（せいきまつ、英表記:*SEIKIMA-II*、*SEIKIMA II*、海外公演の際には*THE END OF THE CENTURY*）は、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。名称は「**聖**なる物に**飢**えている悪**魔**が**II**（ふたた）び蘇る」の略とされている\[1\]。
@@ -137,7 +137,7 @@
 
 ### 期間限定再集結（2020年）
 
-魔暦21年([2019年](../Page/2019年.md "wikilink"))[12月31日](../Page/12月31日.md "wikilink")にZepp Tokyoにて行われた「聖飢魔II 地球征服20周年記念 伝説の解散大黒ミサ3days『THE ULTIMATE BLACK MASS』ヴィデオ黒ミサ」内で、魔暦22年([2020年](../Page/2020年.md "wikilink"))、地球デビュー35周年を記念して、再集結することが決まった\[29\]。
+魔暦21年([2019年](../Page/2019年.md "wikilink"))[12月31日](../Page/12月31日.md "wikilink")にZepp Tokyoにて行われた「聖飢魔II 地球征服20周年記念 伝説の解散大黒ミサ3days『THE ULTIMATE BLACK MASS』ヴィデオ黒ミサ」内で、魔暦22年([2020年](../Page/2020年.md "wikilink"))、地球デビュー35周年を記念して再集結することが発表された\[29\]。
 
 ## 影響
 
@@ -443,6 +443,17 @@
 <td><p>ライデン湯沢殿下</p></td>
 <td><p>石黒彰<sup>[4][5]</sup><br />
 怪人マツザキ様<sup>[4][6]</sup></p></td>
+</tr>
+<tr class="odd">
+<td><p>期間限定<br />
+再集結</p></td>
+<td><p>2020年10月<br />
+- 2021年3月</p></td>
+<td><p>デーモン閣下</p></td>
+<td><p>Sgt. ルーク篁III世参謀、ジェイル大橋代官</p></td>
+<td><p>ゼノン石川和尚</p></td>
+<td><p>ライデン湯沢殿下</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

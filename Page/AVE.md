@@ -70,7 +70,7 @@ AVEは高速長距離線、AVANT（アバント）は高速中距離線に与え
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:AVE.png "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:AVE_Tarragona-Madrid.jpg "wikilink")
 
-当初の目的であった[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")と[LGVペルピニャン・フィゲーラス線との接続は](https://ja.wikipedia.org/wiki/LGVペルピニャン・フィゲラス線 "wikilink")、2013年12月から営業を開始した。これによりスペインとフランスの間では乗り換え無しの直通運転が行われるようにる。当初は1日5便の運行を予定しており、[バルセロナ](../Page/バルセロナ.md "wikilink")‐[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")間が2本（所要約6時間20分），[マドリード](../Page/マドリード.md "wikilink")‐[マルセイユ](../Page/マルセイユ.md "wikilink")間（所要約7時間），バルセロナ‐[リヨン](../Page/リヨン.md "wikilink")間（所要約5時間）、バルセロナ‐[トゥールーズ](../Page/トゥールーズ.md "wikilink")間（所要約3時間）が各1本運転される。
+当初の目的であった[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")と[LGVペルピニャン・フィゲーラス線との接続は](https://ja.wikipedia.org/wiki/LGVペルピニャン・フィゲラス線 "wikilink")、2013年12月から営業を開始した。これによりスペインとフランスの間では乗り換え無しの直通運転が行われるようになる。当初は1日5便の運行を予定しており、[バルセロナ](../Page/バルセロナ.md "wikilink")‐[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")間が2本（所要約6時間20分），[マドリード](../Page/マドリード.md "wikilink")‐[マルセイユ](../Page/マルセイユ.md "wikilink")間（所要約7時間），バルセロナ‐[リヨン](../Page/リヨン.md "wikilink")間（所要約5時間）、バルセロナ‐[トゥールーズ](../Page/トゥールーズ.md "wikilink")間（所要約3時間）が各1本運転される。
 
 スペイン政府は野心的な計画として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までに全ての州都と首都マドリードをわずか4時間、バルセロナと6時間30分で結ぶため7,000kmに及ぶ高速鉄道の建設を構想していた。評論家はこの計画で、スペイン内の列車の速度が大きく向上すれば、少ないコストで世界的に大きなインパクトを与えることが出来ると評した。計画がもし完全に実行されれば他の先進国に例を見ない高速鉄道網が完成する。スペイン国内には現時点でも、平均速度が60km/hを若干上回るだけの低規格な地方路線が存在している。AVEが整備されている都市間とそうでない都市間では、所要時間の点で大きな差が生じている。一例として、[レオン](../Page/レオン_\(スペイン\).md "wikilink")・バルセロナ間は784kmを9時間30分要している。マドリードとの間にAVEが直接的に結ばれていなくても高速新線の整備によって新線を経由することで所要時間が大きく改善されている地域も多くある。
 

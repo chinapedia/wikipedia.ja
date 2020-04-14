@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK大阪ホール](https://ja.wikipedia.org/wiki/NHK大阪ホール)から翻訳されています。
 
 
 **NHK大阪ホール**（エヌエイチケイおおさかホール、*NHK Osaka Hall*）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[大手前](../Page/大手前.md "wikilink")にある[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")系列のコンサートホールである。[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")の新局舎の完成と同時にオープンした。新局舎のあるビルの4階にある。[NHKホール](../Page/NHKホール.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）に次いで2番目のNHK系列のコンサートホールである。

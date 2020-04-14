@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSラジオ番組一覧](https://ja.wikipedia.org/wiki/TBSラジオ番組一覧)から翻訳されています。
 
 
 **TBSラジオ番組一覧**（ティービーエスラジオばんぐみいちらん）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている、もしくは過去に放送された番組の一覧である。**ラジオ東京**（KRT）、分社前の**東京放送**（TBS、現：[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")〈TBSHD〉）、前身の**TBSラジオ&コミュニケーションズ**（TBS R\&C）時代についても扱う。
@@ -17,7 +17,7 @@
 
 ## TBSラジオにおける「アナウンサー」の扱い
 
-[ラテ兼営](../Page/ラテ兼営.md "wikilink")局時代には[久米宏](../Page/久米宏.md "wikilink")や[大沢悠里](../Page/大沢悠里.md "wikilink")・[小島一慶](../Page/小島一慶.md "wikilink")・[松宮一彦](../Page/松宮一彦.md "wikilink")など、同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")から生え抜きのパーソナリティを育成していたが、東京放送（当時）が2000年にラジオ部門などを分社化した影響で、[TBSラジオのアナウンサーとして番組に出演しているパーソナリティは](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")、会社法上、**TBS→TBSテレビからの[在籍出向](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")**という形式を取っている\[1\]。2017年現在、TBSラジオ単独でのアナウンサー採用は行われておらず、『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース#ラジオ "wikilink")』や出演者の休暇などによる代役（主にワイド番組でのアシスタント級）などは、[TBS954情報キャスターや](https://ja.wikipedia.org/wiki/TBSラジオ#TBS954情報キャスター "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")が担当することが多くなっている。
+[ラテ兼営](../Page/ラテ兼営.md "wikilink")局時代には[久米宏](../Page/久米宏.md "wikilink")や[大沢悠里](../Page/大沢悠里.md "wikilink")・[小島一慶](../Page/小島一慶.md "wikilink")・[松宮一彦](../Page/松宮一彦.md "wikilink")など、同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")から生え抜きのパーソナリティを育成していたが、東京放送（当時）が2000年にラジオ部門などを分社化した影響で、[TBSラジオのアナウンサーとして番組に出演しているパーソナリティは](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")、会社法上、**TBS→TBSテレビからの[在籍出向](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")**という形式を取っている\[1\]。{{\#time:Y年Md日H時i分|+9 hours}}現在、TBSラジオ単独でのアナウンサー採用は行われておらず、『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース#ラジオ "wikilink")』や出演者の休暇などによる代役（主にワイド番組でのアシスタント級）などは、[TBS954情報キャスターや](https://ja.wikipedia.org/wiki/TBSラジオ#TBS954情報キャスター "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")が担当することが多くなっている。
 
 上記のような状況に至るには、1990年代前半にまで遡る。その頃のTBS（現：TBSHD）は、主にスポーツ実況を担当していたベテランアナウンサーの退職や引退が相次ぎ、さらには病気で亡くなるアナウンサーもいた。そこで会社はスポーツアナの育成を最優先させることとなり、1993年から3年連続で中途採用を実施したり（[清水大輔](../Page/清水大輔.md "wikilink")・[升田尚宏](../Page/升田尚宏.md "wikilink")・[土井敏之](../Page/土井敏之.md "wikilink")の3人）、採用された新卒の男性アナウンサーには、まず「スポーツ系番組」を優先的に担当させるようにした。一方、[小林豊や](../Page/小林豊_\(アナウンサー\).md "wikilink")[鈴木順](../Page/鈴木順.md "wikilink")らラジオで活躍してきたアナウンサーが、テレビで人気が出た為テレビに軸足を置いたり、他部署に異動したりすることが多く、局アナ担当番組が聴取率で苦戦を強いられるなど、「局アナパーソナリティーの育成」の観点で不幸な環境が続いた。
 
@@ -245,11 +245,13 @@
 <td><p>50 <a href="https://ja.wikipedia.org/wiki/ミヤリサン製薬プレゼンツ_腸から始まる健康ライフ" title="wikilink">ミヤリサン製薬プレゼンツ<br />
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
-<td><p>50 <strong>アフター6ジャンクション</strong><br />
-パーソナリティ：宇多丸<br />
-パートナー：火 <a href="https://ja.wikipedia.org/wiki/宇垣美里" title="wikilink">宇垣美里</a>、水 <a href="https://ja.wikipedia.org/wiki/日比麻音子" title="wikilink">日比麻音子</a>、木 <a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a>、金 <a href="https://ja.wikipedia.org/wiki/山本匠晃" title="wikilink">山本匠晃</a></p></td>
-<td></td>
-<td></td>
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/何かが始まる音がする" title="wikilink">何かが始まる音がする</a></p></td>
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a><br />
+<a href="https://ja.wikipedia.org/wiki/山本恵里伽" title="wikilink">山本恵里伽</a></p></td>
+<td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />
+<a href="https://ja.wikipedia.org/wiki/小森谷徹の「あした話したくなるラジオ」" title="wikilink">小森谷徹の<br />
+「あした話したくなるラジオ」</a><br />
+<a href="../Page/小森谷徹.md" title="wikilink">小森谷徹</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -258,7 +260,7 @@
 <td><p>18</p></td>
 <td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/アフター6ジャンクション" title="wikilink">アフター6ジャンクション</a></strong>[2]<br />
 パーソナリティ：<a href="../Page/宇多丸.md" title="wikilink">宇多丸</a><br />
-パートナー：月 <a href="https://ja.wikipedia.org/wiki/熊崎風斗" title="wikilink">熊崎風斗</a></p></td>
+パートナー：月 <a href="https://ja.wikipedia.org/wiki/熊崎風斗" title="wikilink">熊崎風斗</a>、火 <a href="https://ja.wikipedia.org/wiki/宇垣美里" title="wikilink">宇垣美里</a>、水 <a href="https://ja.wikipedia.org/wiki/日比麻音子" title="wikilink">日比麻音子</a>、木 <a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a>、金 <a href="https://ja.wikipedia.org/wiki/山本匠晃" title="wikilink">山本匠晃</a></p></td>
 <td><p>18</p></td>
 <td></td>
 <td></td>
@@ -301,7 +303,7 @@
 <tr class="odd">
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/かまいたちのヘイ!タクシー!" title="wikilink">かまいたちのヘイ!タクシー!</a><br />
 <a href="../Page/かまいたち_(お笑いコンビ).md" title="wikilink">かまいたち</a></p></td>
-<td><p>30 日本リアライズ presents<br />
+<td><p>30 <a href="https://ja.wikipedia.org/wiki/日本リアライズ" title="wikilink">日本リアライズ</a> presents<br />
 <a href="https://ja.wikipedia.org/wiki/篠田麻里子のGOOD_LIFE_LAB!" title="wikilink">篠田麻里子のGOOD LIFE LAB!</a><br />
 <a href="https://ja.wikipedia.org/wiki/篠田麻里子" title="wikilink">篠田麻里子</a>、宇垣美里、<a href="https://ja.wikipedia.org/wiki/アポロン山崎" title="wikilink">アポロン山崎</a></p></td>
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/イモトアヤコのすっぴんしゃん" title="wikilink">イモトアヤコのすっぴんしゃん</a><br />
@@ -357,7 +359,7 @@
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/ハライチのターン!" title="wikilink">ハライチのターン!</a><br />
 ハライチ</p></td>
 <td><p>00 <a href="../Page/マイナビ.md" title="wikilink">マイナビ</a> <a href="https://ja.wikipedia.org/wiki/Laughter_Night" title="wikilink">Laughter Night</a><br />
-伊東楓<br />
+<a href="https://ja.wikipedia.org/wiki/真空ジェシカ" title="wikilink">真空ジェシカ</a><br />
 ▽0:30 <a href="https://ja.wikipedia.org/wiki/空気階段の踊り場" title="wikilink">空気階段の踊り場</a><br />
 <a href="https://ja.wikipedia.org/wiki/空気階段" title="wikilink">空気階段</a></p></td>
 <td><p>0</p></td>
@@ -483,7 +485,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9:55 <a href="../Page/龍角散.md" title="wikilink">龍角散</a> presents <a href="https://ja.wikipedia.org/wiki/のどの窓" title="wikilink">のどの窓</a> - <a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a></p></td>
+<td><p>9:50 <a href="https://ja.wikipedia.org/wiki/ヨネックスpresents_高島礼子のトーキングウォーキング" title="wikilink">ヨネックスpresents 高島礼子のトーキングウォーキング</a>'''<br />
+パーソナリティ：<a href="../Page/高島礼子.md" title="wikilink">高島礼子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -510,12 +513,12 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/ラジオワールド#RADIO-EX" title="wikilink">RADIO-EX</a></p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/松岡茉優_マチネのまえに" title="wikilink">松岡茉優 マチネのまえに</a> - <a href="https://ja.wikipedia.org/wiki/松岡茉優" title="wikilink">松岡茉優</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>30 <a href="https://ja.wikipedia.org/wiki/千葉ドリーム!もぎたてラジオ" title="wikilink">千葉ドリーム!もぎたてラジオ</a> - <a href="https://ja.wikipedia.org/wiki/森田健作" title="wikilink">森田健作</a>、上村彩子、<a href="https://ja.wikipedia.org/wiki/秋元才加" title="wikilink">秋元才加</a></p></td>
+<td><p>30 <a href="https://ja.wikipedia.org/wiki/新米記者・松本穂香です。" title="wikilink">新米記者・松本穂香です。</a> - <a href="https://ja.wikipedia.org/wiki/松本穂香" title="wikilink">松本穂香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -527,7 +530,7 @@
 アシスタント：堀井美香</p></td>
 <td><p>00 <strong><a href="../Page/爆笑問題の日曜サンデー.md" title="wikilink">爆笑問題の日曜サンデー</a></strong><br />
 パーソナリティ：<a href="../Page/爆笑問題.md" title="wikilink">爆笑問題</a><br />
-アシスタント：<a href="https://ja.wikipedia.org/wiki/江藤愛" title="wikilink">江藤愛</a>（第1 - 4週）、外山惠理（第5週）<br />
+アシスタント：<a href="https://ja.wikipedia.org/wiki/良原安美" title="wikilink">良原安美</a>（第1 - 4週）、外山惠理（第5週）<br />
 ▽16:45 都民ニュース</p></td>
 <td><p>13</p></td>
 </tr>
@@ -620,65 +623,59 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/LOVE_RAINBOW_TRAIN" title="wikilink">LOVE RAINBOW TRAIN</a> - <a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a>、<a href="https://ja.wikipedia.org/wiki/バビ江ノビッチ" title="wikilink">バビ江ノビッチ</a></p></td>
 <td><p>00 <a href="../Page/秋田銘醸.md" title="wikilink">らんまん</a> <a href="../Page/ラジオ寄席.md" title="wikilink">ラジオ寄席</a> - 赤荻歩</p></td>
 <td><p>20</p></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>20:30 chelmicoのでも、まだ土曜日 - <a href="https://ja.wikipedia.org/wiki/chelmico" title="wikilink">chelmico</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>55 TBSニュース</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>21</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/明日へのエール〜ことばにのせて〜" title="wikilink">明日へのエール〜ことばにのせて〜</a> - <a href="https://ja.wikipedia.org/wiki/西村江太郎" title="wikilink">西村江太郎</a></p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/ラジオシアター〜文学の扉" title="wikilink">ラジオシアター〜文学の扉</a> - <a href="../Page/中嶋朋子.md" title="wikilink">中嶋朋子</a></p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/嶌信彦_人生百景「志の人たち」" title="wikilink">嶌信彦 人生百景「志の人たち」</a> - <a href="../Page/嶌信彦.md" title="wikilink">嶌信彦</a>、<a href="../Page/安田佑子.md" title="wikilink">安田佑子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
 <td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/TALK_ABOUT" title="wikilink">TALK ABOUT</a></strong> - 工藤大輝（<a href="https://ja.wikipedia.org/wiki/Da-iCE" title="wikilink">Da-iCE</a>）</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/井上芳雄_by_MYSELF" title="wikilink">井上芳雄 by MYSELF</a> - <a href="../Page/井上芳雄.md" title="wikilink">井上芳雄</a></p></td>
 <td><p>22</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>30 <a href="../Page/今晩は_吉永小百合です.md" title="wikilink">今晩は 吉永小百合です</a> - <a href="../Page/吉永小百合.md" title="wikilink">吉永小百合</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>23</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/サンスター_文化の泉_ラジオで語る昭和の文化" title="wikilink">サンスター 文化の泉 ラジオで語る昭和の文化</a> - <a href="../Page/中村メイコ.md" title="wikilink">中村メイコ</a>、<a href="../Page/内藤裕子.md" title="wikilink">内藤裕子</a></p></td>
 <td><p>23</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>0</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/Sky_presents_藤原竜也のラジオ" title="wikilink">Sky presents 藤原竜也のラジオ</a>（<a href="../Page/朝日放送ラジオ.md" title="wikilink">ABC</a>） - <a href="../Page/藤原竜也.md" title="wikilink">藤原竜也</a></p></td>
 <td><p>00 <a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a> - <a href="https://ja.wikipedia.org/wiki/林原めぐみ" title="wikilink">林原めぐみ</a></p></td>
 <td><p>0</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/鈴木聖奈_LIFE_LAB〜○○のおじ様たち〜" title="wikilink">鈴木聖奈 LIFE LAB〜○○のおじ様たち〜</a> - <a href="https://ja.wikipedia.org/wiki/鈴木聖奈" title="wikilink">鈴木聖奈</a></p></td>
 <td><p>30 <a href="../Page/ROCK_ENTERTAINMENT_高見沢俊彦のロックばん.md" title="wikilink">ROCK ENTERTAINMENT 高見沢俊彦のロックばん</a> - <a href="../Page/高見沢俊彦.md" title="wikilink">高見沢俊彦</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>00 <strong><a href="../Page/JUNK.md" title="wikilink">JUNK</a>サタデー <a href="../Page/エレ片のコント太郎.md" title="wikilink">エレ片のコント太郎</a></strong></p></td>
 <td><p>00 <a href="../Page/放送休止.md" title="wikilink">放送休止</a></p>
@@ -690,19 +687,19 @@
 </dl></td>
 <td><p>1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/ラジオアーカイブ" title="wikilink">ラジオアーカイブ</a> - <a href="https://ja.wikipedia.org/wiki/長岡杏子" title="wikilink">長岡杏子</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/Fine_music" title="wikilink">Fine music</a> - <a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a></p></td>
 <td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/オーディナリーミュージック" title="wikilink">オーディナリーミュージック</a></strong> - <a href="../Page/カジヒデキ.md" title="wikilink">カジヒデキ</a>、<a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></p></td>
@@ -941,7 +938,7 @@
   - [田中雄介](../Page/田中雄介.md "wikilink")・[江藤愛](https://ja.wikipedia.org/wiki/江藤愛 "wikilink")のハートフル・モーニング（2016年4月3日 - 9月25日）
   - [辻よしなり](../Page/辻よしなり.md "wikilink")・保科有里の歌が聴きたい
   - [蟹江一平](../Page/蟹江一平.md "wikilink") One Night TOKYO（2016年4月3日 - 9月25日）
-  - [小森谷徹](../Page/小森谷徹.md "wikilink") 週間\!暮らしの便利帳
+  - 小森谷徹 週間\!暮らしの便利帳
   - 鈴木聖奈のエンタメ バックステージツアー
   - [渡邊剛](../Page/渡邊剛.md "wikilink")のハートカルテ
   - 辻井いつ子の今日の風、なに色?
@@ -951,6 +948,10 @@
   - ハツデンキ
   - Catch UP Music
   - [簡易恋愛プログラム 宮川賢のデートの時間でそ?\!](https://ja.wikipedia.org/wiki/簡易恋愛プログラム_宮川賢のデートの時間でそ?! "wikilink")（2016年4月16日\[7\] - 2019年12月28日）
+  - [chelmicoのでも、まだ土曜日](https://ja.wikipedia.org/wiki/chelmicoのでも、まだ土曜日 "wikilink")
+  - [のどの窓](https://ja.wikipedia.org/wiki/のどの窓 "wikilink")
+  - [RADIO-EX](https://ja.wikipedia.org/wiki/ラジオワールド#RADIO-EX "wikilink")
+  - [千葉ドリーム\!もぎたてラジオ](https://ja.wikipedia.org/wiki/千葉ドリーム!もぎたてラジオ "wikilink")
 
 #### 毎日
 
@@ -1005,7 +1006,7 @@
   - ニューミュージックマインドポップス（[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、日曜23:05 - 24:00 1990年10月 - ）
   - [細川護煕](https://ja.wikipedia.org/wiki/細川護煕 "wikilink")この人に会いたい
   - [五木寛之の夜](../Page/五木寛之の夜.md "wikilink")（日曜23:30 - 24:00 1979年10月 - 2004年9月）
-  - [徳重聡の男ラジオ](https://ja.wikipedia.org/wiki/徳重聡の男ラジオ "wikilink")（[ABCラジオ制作](../Page/朝日放送ラジオ.md "wikilink")）
+  - [徳重聡の男ラジオ](https://ja.wikipedia.org/wiki/徳重聡の男ラジオ "wikilink")（朝日放送ラジオ制作）
   - [立川談志・太田光 今夜はふたりで](../Page/立川談志・太田光_今夜はふたりで.md "wikilink")
   - [人生ゲーム](https://ja.wikipedia.org/wiki/人生ゲーム "wikilink")40周年プレゼンツ [八嶋智人と三津谷葉子の「こんな人だと思わなかった…」](https://ja.wikipedia.org/wiki/八嶋智人と三津谷葉子の「こんな人だと思わなかった…」 "wikilink")
   - [サタケミキオと宅間孝行](../Page/サタケミキオと宅間孝行.md "wikilink")
@@ -1160,7 +1161,9 @@
 ## 関連項目
 
   - [ラジオ番組](../Page/ラジオ番組.md "wikilink")
-  - [TBSテレビ番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ番組一覧 "wikilink")
+  - [TBSテレビ](../Page/TBSテレビ.md "wikilink")
+      - [TBSテレビ番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ番組一覧 "wikilink")
+          - [過去のTBS系列番組の一覧](../Page/過去のTBS系列番組の一覧.md "wikilink")
   - [JRN](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
   - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
 

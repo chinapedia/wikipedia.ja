@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK前橋放送局](https://ja.wikipedia.org/wiki/NHK前橋放送局)から翻訳されています。
 
 
 **NHK前橋放送局**（エヌエイチケイまえばしほうそうきょく）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。[NHK教育テレビとAM放送](../Page/NHK教育テレビジョン.md "wikilink")（[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")・[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")）については[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。

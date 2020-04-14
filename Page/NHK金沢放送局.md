@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK金沢放送局](https://ja.wikipedia.org/wiki/NHK金沢放送局)から翻訳されています。
 
 
 **NHK金沢放送局**（エヌエイチケイかなざわほうそうきょく）は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -388,6 +388,9 @@
   - ニュースかがのと
   - かがのと630
   - イブニングネットワーク金沢
+  - JKニュース1
+  - 山ちゃんの610
+  - 山ちゃんの600
   - みまっしワイド600（ - 2004年3月）
   - いしかわワイド ニュースいしかわ610（2004年4月 - 2006年3月）
   - [デジタル百万石](https://ja.wikipedia.org/wiki/デジタル百万石 "wikilink")（2006年4月 - 2010年3月）
@@ -447,51 +450,44 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>法性亮太</p></td>
-<td><p><strong>初任地</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/山内泉" title="wikilink">山内泉</a></p></td>
+<td><p><strong>初任地</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/かがのとイブニング" title="wikilink">かがのとイブニング</a><br />
 （キャスター）</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>シニアスタッフ</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/二見和男" title="wikilink">二見和男</a>[11]</p></td>
 <td><p>元正職員アナウンサー</p></td>
-<td><p>|石川県のニュース</p></td>
+<td><p>|じわもんラジオ<br />
+石川県のニュース<br />
+（ラジオのみ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>浦野莉恵</p></td>
-<td></td>
-<td><p>かがのとイブニング</p></td>
-</tr>
 <tr class="even">
-<td><p>熊谷彩香</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>石井美江</p></td>
 <td></td>
 <td><p>かがのとイブニング<br />
 じわもんラジオ</p></td>
 </tr>
+<tr class="odd">
+<td><p>熊谷彩香</p></td>
+<td></td>
+<td><p>かがのとイブニング</p></td>
+</tr>
 <tr class="even">
 <td><p>高井桂奈</p></td>
 <td></td>
-<td></td>
+<td><p>かがのとイブニング<br />
+じわもんラジオ</p></td>
 </tr>
 <tr class="odd">
 <td><p>前川夏生</p></td>

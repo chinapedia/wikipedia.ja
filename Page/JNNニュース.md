@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNニュース](https://ja.wikipedia.org/wiki/JNNニュース)から翻訳されています。
 
 
 『**JNN NEWS**』（ジェイエヌエヌニュース）は、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[TBSテレビ](../Page/TBSテレビ.md "wikilink")（旧：ラジオ東京テレビ→東京放送）をはじめとする[TBS系列](../Page/TBS系列.md "wikilink") ([JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")) が放送している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ニュース](../Page/報道番組.md "wikilink")[番組の総称](../Page/テレビ番組.md "wikilink")。
@@ -23,7 +23,7 @@
 
 ## 現在の放送時間
 
-時刻はすべて[JSTで表記する](../Page/日本標準時.md "wikilink")。情報は2020年2月時点のもの。
+時刻はすべて[JSTで表記する](../Page/日本標準時.md "wikilink")。情報は2020年3月時点のもの。
 
 ### 朝
 
@@ -43,7 +43,7 @@
 
   - 平日 11:30 - 11:55（11:49以降はローカル差し替え枠）
   - 土曜日 11:45 - 11:59（※一部地域では、番組末尾のローカルニュース枠の拡大又は縮小を行っているため、11:58や12:00など、終了時刻が異なる。）
-  - 日曜日 11:30 - 11:40
+  - 日曜日 11:30 - 11:45
 
 [リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施。平日は『 [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")・午前』内にて、週末は完全な独立番組として放送。なお、土曜日はTBSほか一部地域において『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』の一時中断番組として放送\[1\]。また、他地域でも自社制作[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の一時中断番組として放送している系列局がある。
 
@@ -55,7 +55,7 @@
 
 平日の地デジEPGでの番組の名称は、以下のように系列局によって異なる。
 
-  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[3\]、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
+  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[3\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - 「ひるおび\!（JNN NEWS）」 - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[4\]、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
@@ -365,7 +365,8 @@
 | 1992.4  | 1996.3 | （放送なし）                                                                  | 11:45 - 12:00（15分） |
 | 1996.4  | 2009.3 | 11:45 - 11:59（14分）                                                      |                    |
 | 2009.4  | 2010.3 | （[放送なし](https://ja.wikipedia.org/wiki/THE_NEWS_\(TBS・JNN\) "wikilink")） |                    |
-| 2010.4  | 現在     | 11:30 - 11:55（25分）                                                      | 11:45 - 11:59（14分） |
+| 2010.4  | 2020.3 | 11:30 - 11:55（25分）                                                      | 11:45 - 11:59（14分） |
+| 2020.3  | 現在     | 11:30 - 11:55（25分）                                                      | 11:45 - 11:59（14分） |
 
 ### 最終版
 

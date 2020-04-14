@@ -1,4 +1,4 @@
-> この記事は[Tactics \(\)](https://ja.wikipedia.org/wiki/Tactics_\(\))から翻訳されています。
+> この記事は[Tactics \(ブランド\)](https://ja.wikipedia.org/wiki/Tactics_\(ブランド\))から翻訳されています。
 
 
 **Tactics**（タクティクス）は、株式会社[ネクストン](../Page/ネクストン.md "wikilink")が運営する[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランド。

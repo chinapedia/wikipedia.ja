@@ -1,4 +1,4 @@
-> この記事は[ \(HTTP\)](https://ja.wikipedia.org/wiki/_\(HTTP\))から翻訳されています。
+> この記事は[リダイレクト \(HTTP\)](https://ja.wikipedia.org/wiki/リダイレクト_\(HTTP\))から翻訳されています。
 
 
 ウェブサイトにおける**リダイレクト**（）とは、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の閲覧において、指定した[ウェブページ](../Page/ウェブページ.md "wikilink")から自動的に他のウェブページに転送されること。**URLリダイレクト**（URL redirection）とも言われる。

@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[K平均法](https://ja.wikipedia.org/wiki/K平均法)から翻訳されています。
 
 
 **k平均法**（kへいきんほう、）は、非階層型[クラスタリングの](https://ja.wikipedia.org/wiki/データ・クラスタリング "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")。クラスタの平均を用い、与えられたクラスタ数k個に分類することから、MacQueen がこのように命名した。**k-平均法**（k-means）、**c-平均法**（c-means）とも呼ばれる。

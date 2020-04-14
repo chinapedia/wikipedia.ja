@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送センター](https://ja.wikipedia.org/wiki/NHK放送センター)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Tokyo.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Broadcasting_Center_Parabola_antenna_3.JPG "wikilink") **NHK放送センター**（エヌエイチケイほうそうセンター）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にある[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の施設である。いわゆる「本部」、[放送法](../Page/放送法.md "wikilink")第17条（旧第8条）における「主たる事務所」である。
@@ -658,7 +658,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 
 茨城県、山梨県、静岡県の一部[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局では、それぞれの地元の[放送局](../Page/放送局.md "wikilink")に加えて、放送センター（首都圏広域放送）と2局の総合テレビ（ケーブルテレビ局によってはEテレも含まれる）を再送信されているところがある。
 
-2020年4月からは「[NHKプラス](../Page/NHKプラス.md "wikilink")」でのインターネット同時常時配信が開始する予定。
+[2020年](../Page/2020年.md "wikilink")3月1日からインターネット常時同時配信の[NHKプラス](../Page/NHKプラス.md "wikilink")の試行サービスを開始した。NHKプラスのサービス開始時は[南関東](../Page/南関東.md "wikilink")エリア（埼玉県・千葉県・東京都・神奈川県）向けを対象とした放送を全国に配信するため、関東・甲信越エリア向けの[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")を含む放送センター制作番組が日本全国で視聴可能となっている\[24\]。
 
 ##### アナログ放送
 
@@ -670,7 +670,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
   - [NHK神津島テレビ中継放送所](https://ja.wikipedia.org/wiki/NHK神津島テレビ中継放送所 "wikilink")
   - 送信地不明
       - [NHK UHFテレビ実験局](../Page/NHK_UHFテレビ実験局.md "wikilink")
-          - アナログ14ch（コールサイン　JO2W-TV）
+          - アナログ14ch（コールサイン JO2W-TV）
         <!-- end list -->
           -
             1970年12月25日より1975年4月7日まで
@@ -681,40 +681,40 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 
   - 中波（AM放送）
       - [第1放送](../Page/NHKラジオ第1放送.md "wikilink")（※放送対象地域は関東広域圏）
-          - 東京（[埼玉県](../Page/埼玉県.md "wikilink")[久喜市](../Page/久喜市.md "wikilink")の[菖蒲久喜ラジオ放送所](../Page/NHK菖蒲久喜ラジオ放送所.md "wikilink")）594[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")（コールサインJOAK、出力300kW 減力放送時は200kWまたは10kW\[24\]）
-          - [父島](../Page/父島.md "wikilink") 82.6MHz（出力3W 2013年3月31日開局）\[25\]
-          - [母島](../Page/母島.md "wikilink") 82.6MHz（出力1W 2013年3月31日開局）\[26\]
+          - 東京（[埼玉県](../Page/埼玉県.md "wikilink")[久喜市](../Page/久喜市.md "wikilink")の[菖蒲久喜ラジオ放送所](../Page/NHK菖蒲久喜ラジオ放送所.md "wikilink")）594[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")（コールサインJOAK、出力300kW 減力放送時は200kWまたは10kW\[25\]）
+          - [父島](../Page/父島.md "wikilink") 82.6MHz（出力3W 2013年3月31日開局）\[26\]
+          - [母島](../Page/母島.md "wikilink") 82.6MHz（出力1W 2013年3月31日開局）\[27\]
       - [第2放送](../Page/NHKラジオ第2放送.md "wikilink") - 全国放送
-          - 東京（菖蒲久喜ラジオ放送所）693kHz（コールサインJOAB、出力500kW 減力放送時は250kWまたは10kW \[27\]）
-          - 父島84.6MHz（出力3W 2013年3月31日開局）\[28\]
-          - 母島84.6MHz（出力1W 2013年3月31日開局）\[29\]
+          - 東京（菖蒲久喜ラジオ放送所）693kHz（コールサインJOAB、出力500kW 減力放送時は250kWまたは10kW \[28\]）
+          - 父島84.6MHz（出力3W 2013年3月31日開局）\[29\]
+          - 母島84.6MHz（出力1W 2013年3月31日開局）\[30\]
 
 <!-- end list -->
 
   -
-    ※東京（菖蒲久喜ラジオ放送所）からの第1放送、第2放送は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の一部から[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の一部まで関東・甲信越を中心に約2000万世帯をカバーする\[30\]。
-    ※出力が高いため、関東では長らく菖蒲久喜ラジオ放送所以外に東京都直轄[離島](../Page/離島.md "wikilink")を含め中継局がなかったが、2013年3月31日に[小笠原諸島](../Page/小笠原諸島.md "wikilink")の父島・母島の両地区にFM波を使用した中継局が設置された。\[31\]\[32\]。これにより、放送センター管轄の中波放送としては初の中継局設置が実現。
-    ※第1放送、第2放送共用の予備送信所が[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")新開（しびらき）にある（[新開ラジオ放送所](https://ja.wikipedia.org/wiki/平野原送信所#新開ラジオ放送所 "wikilink")、出力10kW\[33\]\[34\]）。この施設は菖蒲久喜ラジオ放送所の大掛かりなメンテナンスが行われる際、年数回の減力放送で運用される。
+    ※東京（菖蒲久喜ラジオ放送所）からの第1放送、第2放送は[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の一部から[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の一部まで関東・甲信越を中心に約2000万世帯をカバーする\[31\]。
+    ※出力が高いため、関東では長らく菖蒲久喜ラジオ放送所以外に東京都直轄[離島](../Page/離島.md "wikilink")を含め中継局がなかったが、2013年3月31日に[小笠原諸島](../Page/小笠原諸島.md "wikilink")の父島・母島の両地区にFM波を使用した中継局が設置された。\[32\]\[33\]。これにより、放送センター管轄の中波放送としては初の中継局設置が実現。
+    ※第1放送、第2放送共用の予備送信所が[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[桜区](https://ja.wikipedia.org/wiki/桜区 "wikilink")新開（しびらき）にある（[新開ラジオ放送所](https://ja.wikipedia.org/wiki/平野原送信所#新開ラジオ放送所 "wikilink")、出力10kW\[34\]\[35\]）。この施設は菖蒲久喜ラジオ放送所の大掛かりなメンテナンスが行われる際、年数回の減力放送で運用される。
 
 <!-- end list -->
 
   - [NHK-FM](../Page/NHK-FM放送.md "wikilink")※[都域放送](../Page/県域放送.md "wikilink")
-      - 東京（東京都墨田区押上一丁目の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")\[35\]）82.5[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")（コールサインJOAK-FM、出力7kW）\[36\]
-          - 2012年4月22日までは東京都港区芝公園の東京タワーからの送信（出力10kW 減力放送時は1kW）だったが、移転後も東京スカイツリーの送信設備の点検整備による代替送信および送信が万が一できなくなった際に使用される予備送信所（出力はこれまでの10kwから5kwに半減）として存続される\[37\]。
-      - [新島](../Page/新島.md "wikilink")77.5MHz（出力100W）\[38\]
-      - [八丈島](../Page/八丈島.md "wikilink")82.9MHz（出力10W）\[39\]
-      - 父島79.6MHz（出力3W 2013年3月31日開局）\[40\]
-      - 母島79.6MHz（出力1W 2013年3月31日開局）\[41\]
+      - 東京（東京都墨田区押上一丁目の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")\[36\]）82.5[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")（コールサインJOAK-FM、出力7kW）\[37\]
+          - 2012年4月22日までは東京都港区芝公園の東京タワーからの送信（出力10kW 減力放送時は1kW）だったが、移転後も東京スカイツリーの送信設備の点検整備による代替送信および送信が万が一できなくなった際に使用される予備送信所（出力はこれまでの10kwから5kwに半減）として存続される\[38\]。
+      - [新島](../Page/新島.md "wikilink")77.5MHz（出力100W）\[39\]
+      - [八丈島](../Page/八丈島.md "wikilink")82.9MHz（出力10W）\[40\]
+      - 父島79.6MHz（出力3W 2013年3月31日開局）\[41\]
+      - 母島79.6MHz（出力1W 2013年3月31日開局）\[42\]
 
 <!-- end list -->
 
   -
-    ※[小笠原諸島](../Page/小笠原諸島.md "wikilink")は長らく中継局がなかったためネットラジオを利用しない限り聴取不可となっていたが、2013年3月31日に父島・母島の両地区にもFM放送の中継局を設置した\[42\]\[43\]。
+    ※[小笠原諸島](../Page/小笠原諸島.md "wikilink")は長らく中継局がなかったためネットラジオを利用しない限り聴取不可となっていたが、2013年3月31日に父島・母島の両地区にもFM放送の中継局を設置した\[43\]\[44\]。
 
 ### 関東・甲信越における県域放送の扱い
 
   - 総合、Eテレやラジオ第1・第2放送においては、関東・甲信越向け放送の拠点でもある。そのため、定時ニュースのローカルニュース部分は、関東・甲信越で共通のものを放送。甲信越の3県もラジオ・テレビでそれぞれローカル番組を制作する。それに対し、FM放送に関しては各放送局毎の管轄の制作となり、ローカルニュースは各放送局によって独自の内容、東京はラジオ第1と同一内容となる。ラジオ第1のコールサインは関東では東京の管轄になるが、FMのコールサインは各放送局による。
-      - このため、実質的に「東京都内向け（東京都のみを対象とする番組）」という番組は[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の「[サンセットパーク](../Page/サンセットパーク.md "wikilink")」（FM）の終了をもって事実上なくなった\[44\]。
+      - このため、実質的に「東京都内向け（東京都のみを対象とする番組）」という番組は[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の「[サンセットパーク](../Page/サンセットパーク.md "wikilink")」（FM）の終了をもって事実上なくなった\[45\]。
 
 <!-- end list -->
 
@@ -809,7 +809,7 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 <td><p><a href="../Page/ニュース645_(首都圏センター).md" title="wikilink">ニュース645</a></p></td>
 <td><p>土日祝 18:45 - 18:59</p></td>
 <td><ul>
-<li>甲府：18:55 - 『気象情報（山梨県域）』</li>
+<li>甲府：18:55 - 『ニュース・気象情報（山梨県域）』</li>
 <li>長野：18:55 - 『ニュース・気象情報（長野県域）』</li>
 </ul></td>
 <td><ul>
@@ -1146,7 +1146,7 @@ NHK放送センター管轄のカメラ。
 <!-- end list -->
 
   -
-    ハチ公前広場向かい、[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")を映す\[45\]
+    ハチ公前広場向かい、[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")を映す\[46\]
 
 <!-- end list -->
 
@@ -1301,7 +1301,7 @@ NHK放送センター管轄のカメラ。
 <!-- end list -->
 
   -
-    [横田基地や東京北西部を一望できる](../Page/横田飛行場.md "wikilink")\[46\]
+    [横田基地や東京北西部を一望できる](../Page/横田飛行場.md "wikilink")\[47\]
 
 <!-- end list -->
 
@@ -1328,10 +1328,10 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 ### 補足
 
   - 平日正午のニュースのうち12:15 - 12:20の首都圏ローカルニュースは、BS1で13:00から放送していた『[BS列島ニュース](https://ja.wikipedia.org/wiki/BS列島ニュース "wikilink")』で時差・全国放送しているが、2011年10月以降は短縮版に限らず、通常放送でもリポートを放送するため、他の拠点局1局についてのニュースとともに放送されないことがあり、地デジ難視対策衛星放送のサービスを受けている世帯とNHKワールド・プレミアムのノンスクランブル放送を受信している世帯を除き、首都圏ローカルニュースが視聴できない日もあった。なお、『列島ニュース』開始までは平日12:15からの首都圏ローカルニュースは、正午の全国ニュースのキャスターが引き続き担当していた。ただし、1990年前後頃までは、全国ニュース担当のアナウンサーとは別にローカルニュース担当のアナウンサーが割り当てられていた。土休日は、引き続き正午の全国ニュースのキャスターが、関東ローカルニュースを担当する。
-  - 海外向け国際放送のNHKワールド・プレミアムでは[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")、正午のニュースなどの関東（甲信越）ローカルニュースがそのまま視聴できる。\[47\]
-  - [BS 2（廃止）は首都圏ローカルニュースも一部放送していたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、2006年4月からはローカルニュース枠はすべて番組案内スポットなど別番組に差し替えられたためすべてなくなり、[BShi（廃止）も](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、2006年12月末でニュース番組の同時放送自体が終了したため、首都圏ローカルニュースの同時放送はすべてなくなった\[48\]。また、NHKワールドTVも、英語放送強化による番組改編で首都圏ローカルニュースの同時放送を2008年3月30日をもって全て終了した。ただし、2008年の北京オリンピック期間中はすべて部分的カットを施した時差放送となる関係から、首都圏ローカルニュースも一時的に放送された。
-  - 通常「NHK首都圏」・「NHK東京」は番組等ではあまり使用しないが、毎月1日（1月のみ4日）の正午の時報直前の11:59より[緊急警報放送](../Page/緊急警報放送.md "wikilink")の試験信号発射実施の場合のみ「NHK関東・東京」を使用する（「今から緊急警報放送の試験信号をNHK東京から発射（放送）します」と発する）。なお、首都圏放送センター制作番組についても、制作クレジットは「NHK」（東京制作の全国放送番組と同じ）となる。しかし、地上デジタル放送・ワンセグではEPG番組表では「NHK総合（Eテレ）・東京」を表示する。なお、番組中で「NHK東京」と表示された数少ない実例としては、[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（夏の大会）で1980年代末期から1990年まで各都道府県の放送局から派遣され、応援席リポートや代表校紹介を担当していた「ふるさとリポーター」の西東京・東東京代表担当アナウンサー名のクレジットがある\[49\]。
-  - 東京ラジオ第2放送については、東日本大震災に関連する節電のため、2011年3月19日から同年9月下旬まで、10時から16時の間送信出力を250kWに半減する[減力放送](../Page/減力放送.md "wikilink")が行われていた。\[50\]
+  - 海外向け国際放送のNHKワールド・プレミアムでは[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")、正午のニュースなどの関東（甲信越）ローカルニュースがそのまま視聴できる。\[48\]
+  - [BS 2（廃止）は首都圏ローカルニュースも一部放送していたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、2006年4月からはローカルニュース枠はすべて番組案内スポットなど別番組に差し替えられたためすべてなくなり、[BShi（廃止）も](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、2006年12月末でニュース番組の同時放送自体が終了したため、首都圏ローカルニュースの同時放送はすべてなくなった\[49\]。また、NHKワールドTVも、英語放送強化による番組改編で首都圏ローカルニュースの同時放送を2008年3月30日をもって全て終了した。ただし、2008年の北京オリンピック期間中はすべて部分的カットを施した時差放送となる関係から、首都圏ローカルニュースも一時的に放送された。
+  - 通常「NHK首都圏」・「NHK東京」は番組等ではあまり使用しないが、毎月1日（1月のみ4日）の正午の時報直前の11:59より[緊急警報放送](../Page/緊急警報放送.md "wikilink")の試験信号発射実施の場合のみ「NHK関東・東京」を使用する（「今から緊急警報放送の試験信号をNHK東京から発射（放送）します」と発する）。なお、首都圏放送センター制作番組についても、制作クレジットは「NHK」（東京制作の全国放送番組と同じ）となる。しかし、地上デジタル放送・ワンセグではEPG番組表では「NHK総合（Eテレ）・東京」を表示する。なお、番組中で「NHK東京」と表示された数少ない実例としては、[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（夏の大会）で1980年代末期から1990年まで各都道府県の放送局から派遣され、応援席リポートや代表校紹介を担当していた「ふるさとリポーター」の西東京・東東京代表担当アナウンサー名のクレジットがある\[50\]。
+  - 東京ラジオ第2放送については、東日本大震災に関連する節電のため、2011年3月19日から同年9月下旬まで、10時から16時の間送信出力を250kWに半減する[減力放送](../Page/減力放送.md "wikilink")が行われていた。\[51\]
   - [2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に放送された『テレビのチカラ「あの人が選ぶ“忘れられない名番組”」』（テレビ放送開始60周年記念番組）では、番組の最後に**「JOAK-DTV NHK東京総合デジタルテレビジョンです」**のアナウンスが、関東広域圏を含め**「全国」(注 JOAK-DTVは東京都、埼玉県、千葉県、神奈川県のみの放送)**に放送された。
 
 ## アナウンサー
@@ -1346,12 +1346,11 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 ### 東京アナウンス室
 
-  - （EA）：エグゼクティブ・アナウンサー、（SA）：シニア・アナウンサー
+  - （EA）：エグゼクティブ・アナウンサー、（SA）：シニア・アナウンサー、（CA）：チーフアナウンサー
 
 #### 男性
 
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
-  - [赤松俊理](../Page/赤松俊理.md "wikilink")（あかまつ・しゅんり）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
   - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）（EA）
   - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
@@ -1360,49 +1359,49 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [飯田紀久夫](../Page/飯田紀久夫.md "wikilink")（いいだ・きくお） 副部長
   - [飯塚洋介](../Page/飯塚洋介.md "wikilink")（いいづか・ようすけ）
   - [池田耕一郎](../Page/池田耕一郎.md "wikilink")（いけだ・こういちろう）
+  - [石井隆広](https://ja.wikipedia.org/wiki/石井隆広_\(アナウンサー\) "wikilink")（いしい・たかひろ）
   - [石井裕](https://ja.wikipedia.org/wiki/石井裕_\(アナウンサー\) "wikilink")（いしい・ゆたか）副部長
   - [一橋忠之](../Page/一橋忠之.md "wikilink")（いちはし・ただゆき）
   - [糸井羊司](../Page/糸井羊司.md "wikilink")（いとい・ようじ）
   - [伊藤海彦](https://ja.wikipedia.org/wiki/伊藤海彦 "wikilink")（いとう・うみひこ）
   - [伊藤慶太](../Page/伊藤慶太.md "wikilink")（いとう・けいた）
-  - [稲塚貴一](https://ja.wikipedia.org/wiki/稲塚貴一 "wikilink")（いなつか・きいち）
   - [井上二郎](../Page/井上二郎.md "wikilink")（いのうえ・じろう）
   - [井上裕貴](https://ja.wikipedia.org/wiki/井上裕貴 "wikilink")（いのうえ・ゆうき）
   - [今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")（いまい・しょうま）
   - [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")（いわの・よしき）
-  - [大嶋貴志](https://ja.wikipedia.org/wiki/大嶋貴志 "wikilink")（おおしま・たかし）
   - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）
   - [大槻隆行](https://ja.wikipedia.org/wiki/大槻隆行 "wikilink")（おおつき・たかゆき）
   - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく）
-  - [小澤康喬](../Page/小澤康喬.md "wikilink")（おざわ・やすたか）
   - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）
   - [鏡和臣](https://ja.wikipedia.org/wiki/鏡和臣 "wikilink")（かがみ・かずおみ）
   - [笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink") (かさい・だいすけ)
   - [金子哲也](../Page/金子哲也.md "wikilink")（かねこ・てつや）副部長
-  - [木花牧雄](https://ja.wikipedia.org/wiki/木花牧雄 "wikilink")（きはな・まきお）
   - [栗原望](https://ja.wikipedia.org/wiki/栗原望 "wikilink")（くりはら・のぞむ）
+  - [黒田信哉](../Page/黒田信哉.md "wikilink")（くろだ・しんや）
+  - [小西政親](https://ja.wikipedia.org/wiki/小西政親 "wikilink")（こにし・まさちか）
   - [小林陽広](../Page/小林陽広.md "wikilink")（こばやし・あきひろ）
   - [後藤康之](https://ja.wikipedia.org/wiki/後藤康之_\(アナウンサー\) "wikilink")（ごとう・やすゆき）
   - [小松宏司](../Page/小松宏司.md "wikilink")（こまつ・こうじ）
+  - [小山径](https://ja.wikipedia.org/wiki/小山径 "wikilink")（こやま・けい）
+  - [西東大](../Page/西東大.md "wikilink")（さいとう・だい）（SA）
   - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）
+  - [佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink") (ささお・よしのり)
   - [里匠](../Page/里匠.md "wikilink")（さと・たくみ）副部長
   - [佐藤克樹](https://ja.wikipedia.org/wiki/佐藤克樹 "wikilink")（さとう・かつき）
   - [佐藤誠太](https://ja.wikipedia.org/wiki/佐藤誠太 "wikilink")（さとう・せいた）
+  - [沢田石和樹](https://ja.wikipedia.org/wiki/沢田石和樹 "wikilink") (さわだいし・かずき)
   - [三條雅幸](../Page/三條雅幸.md "wikilink")（さんじょう・まさゆき）
   - [三瓶宏志](../Page/三瓶宏志.md "wikilink")（さんべ・こうし）
-  - [沢田石和樹](https://ja.wikipedia.org/wiki/沢田石和樹 "wikilink")（さわだいし・かずき）
-  - [佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink")（ささお・よしのり）
   - [塩屋紀克](../Page/塩屋紀克.md "wikilink")（しおや・ただよし）（SA）
   - [塩田慎二](https://ja.wikipedia.org/wiki/塩田慎二 "wikilink")（しおだ・しんじ）
+  - [白鳥哲也](https://ja.wikipedia.org/wiki/白鳥哲也_\(アナウンサー\) "wikilink")（しらとり・てつや）
   - [杉浦隆](https://ja.wikipedia.org/wiki/杉浦隆 "wikilink")（すぎうら・たかし）副部長
   - [杉岡英樹](../Page/杉岡英樹.md "wikilink")（すぎおか・ひでき）
   - [杉澤僚](../Page/杉澤僚.md "wikilink")（すぎさわ・りょう）
   - [杉嶋亮作](../Page/杉嶋亮作.md "wikilink")（すぎしま・りょうさく）
   - [高井正智](https://ja.wikipedia.org/wiki/高井正智 "wikilink")（たかい・まさとも）
   - [高鍬亮](https://ja.wikipedia.org/wiki/高鍬亮 "wikilink")（たかくわ・りょう） (SA)
-  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（たかせ・こうぞう）
-  - [高橋篤史](../Page/高橋篤史_\(アナウンサー\).md "wikilink")（たかはし・あつし）
-  - [高山哲哉](../Page/高山哲哉.md "wikilink")（たかやま・てつや）
+  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（たかせ・こうぞう)
   - [瀧川剛史](https://ja.wikipedia.org/wiki/瀧川剛史 "wikilink")（たきがわ・たけし）
   - [武田真一](../Page/武田真一.md "wikilink")（たけた・しんいち）（EA）
   - [武本大樹](https://ja.wikipedia.org/wiki/武本大樹 "wikilink")（たけもと・だいき）
@@ -1415,10 +1414,10 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [内藤雄介](../Page/内藤雄介.md "wikilink")（ないとう・ゆうすけ）
   - [永井伸一](../Page/永井伸一.md "wikilink")（ながい・しんいち）
   - [中野淳](../Page/中野淳.md "wikilink")（なかの・あつし）
-  - [中野純一](../Page/中野純一.md "wikilink")（なかの・じゅんいち） (SA)
-  - [滑川和男](../Page/滑川和男.md "wikilink")（なめかわ・かずお）
+  - [中野純一](../Page/中野純一.md "wikilink")（なかの・じゅんいち）（SA）
+  - [八田知大](https://ja.wikipedia.org/wiki/八田知大 "wikilink")（はった・ともひろ）
   - [原大策](https://ja.wikipedia.org/wiki/原大策 "wikilink")（はら・だいさく）
-  - [原口雅臣](../Page/原口雅臣.md "wikilink")（はらぐち・まさおみ）(SA)
+  - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink")（ひだ・よしひと）
   - [昼間敬仁](../Page/昼間敬仁.md "wikilink")（ひるま・ただよし）（SA）
   - [廣田直敬](../Page/廣田直敬.md "wikilink")（ひろた・なおたか）（SA）
   - [深川仁志](https://ja.wikipedia.org/wiki/深川仁志 "wikilink")（ふかがわ・ひとし）
@@ -1426,56 +1425,60 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [藤井克典](../Page/藤井克典.md "wikilink")（ふじい・かつのり）（SA）
   - [藤崎弘士](../Page/藤崎弘士.md "wikilink")（ふじさき・ひろし）副部長
   - [松岡忠幸](https://ja.wikipedia.org/wiki/松岡忠幸 "wikilink")（まつおか・ただゆき）
-  - [松尾剛](../Page/松尾剛.md "wikilink")（まつお・つよし）（SA）
   - [松田利仁亜](https://ja.wikipedia.org/wiki/松田利仁亜 "wikilink")（まつだ・りにあ）
+  - [松苗竜太郎](https://ja.wikipedia.org/wiki/松苗竜太郎 "wikilink")（まつなえ・りゅうたろう）
   - [松野靖彦](../Page/松野靖彦.md "wikilink")（まつの・やすひこ）
   - [三浦拓実](../Page/三浦拓実.md "wikilink")（みうら・たくみ）スポーツ統括
+  - [宮崎大地](../Page/宮崎大地.md "wikilink")（みやざき・だいち）
   - [森田洋平](https://ja.wikipedia.org/wiki/森田洋平_\(アナウンサー\) "wikilink")（もりた・ようへい）
   - [山田賢治](https://ja.wikipedia.org/wiki/山田賢治 "wikilink")（やまだ・けんじ）（SA）
   - [吉田浩](https://ja.wikipedia.org/wiki/吉田浩_\(アナウンサー\) "wikilink")（よしだ・ひろし）（SA）
-  - [吉田真人](https://ja.wikipedia.org/wiki/吉田真人 "wikilink")（よしだ・まこと）
   - [渡辺憲司](../Page/渡辺憲司.md "wikilink")（わたなべ・けんじ）
+  - [渡辺健太](https://ja.wikipedia.org/wiki/渡辺健太 "wikilink")（わたなべ・けんた）
 
 #### 女性
 
   - [赤木野々花](https://ja.wikipedia.org/wiki/赤木野々花 "wikilink")（あかき・ののか）
+  - [浅野里香](https://ja.wikipedia.org/wiki/浅野里香 "wikilink")（あさの・りか）
   - [安部みちこ](../Page/安部みちこ.md "wikilink")（あべ・みちこ）
   - [池田伸子](https://ja.wikipedia.org/wiki/池田伸子 "wikilink")（いけだ・のぶこ）
   - [石橋亜紗](https://ja.wikipedia.org/wiki/石橋亜紗 "wikilink")（いしばし・あさ）
+  - [礒野佑子](../Page/礒野佑子.md "wikilink")（いその・ゆうこ）
   - [出田奈々](../Page/出田奈々.md "wikilink")（いでた・なな）
   - [井上あさひ](../Page/井上あさひ.md "wikilink")（いのうえ・あさひ）
   - [上原光紀](https://ja.wikipedia.org/wiki/上原光紀 "wikilink")（うえはら・みつき）
   - [近江友里恵](https://ja.wikipedia.org/wiki/近江友里恵 "wikilink")（おうみ・ゆりえ）
-  - [小野文恵](https://ja.wikipedia.org/wiki/小野文恵 "wikilink")（おの・ふみえ）
+  - [小野文恵](https://ja.wikipedia.org/wiki/小野文恵 "wikilink")（おの・ふみえ）（CA）
   - [鹿島綾乃](../Page/鹿島綾乃.md "wikilink")（かしま・あやの）（SA）
-  - [片山千恵子](https://ja.wikipedia.org/wiki/片山千恵子 "wikilink")（かたやま・ちえこ）
-  - [兼清麻美](../Page/兼清麻美.md "wikilink")（かねきよ・あさみ）
+  - [片山千恵子](https://ja.wikipedia.org/wiki/片山千恵子 "wikilink")（かたやま・ちえこ）（産休）
+  - [兼清麻美](../Page/兼清麻美.md "wikilink")（かねきよ・あさみ）（SA）
   - [鎌倉千秋](../Page/鎌倉千秋.md "wikilink")（かまくら・ちあき）
-  - [上條倫子](../Page/上條倫子.md "wikilink")（かみじょう・のりこ）(育前休職中)
-  - [久保田祐佳](../Page/久保田祐佳.md "wikilink")（くぼた・ゆか）(育児休職中)
+  - [上條倫子](../Page/上條倫子.md "wikilink")（かみじょう・のりこ）
+  - [久保田祐佳](../Page/久保田祐佳.md "wikilink")（くぼた・ゆか）
   - [桑子真帆](https://ja.wikipedia.org/wiki/桑子真帆 "wikilink")（くわこ・まほ）
-  - [小郷知子](../Page/小郷知子.md "wikilink")（こごう・ともこ）(育前休職中)
+  - [小郷知子](../Page/小郷知子.md "wikilink")（こごう・ともこ）（産休）
   - [合原明子](https://ja.wikipedia.org/wiki/合原明子 "wikilink")（ごうばる・あきこ）
   - [澤田彩香](https://ja.wikipedia.org/wiki/澤田彩香 "wikilink")（さわだ・あやか）
-  - [柴田祐規子](../Page/柴田祐規子.md "wikilink")（しばた・ゆきこ）
+  - [柴田祐規子](../Page/柴田祐規子.md "wikilink")（しばた・ゆきこ）（SA）
   - [杉浦友紀](../Page/杉浦友紀.md "wikilink")（すぎうら・ゆき）
-  - [鈴木奈穂子](../Page/鈴木奈穂子.md "wikilink")（すずき・なおこ）（育児休職中）
+  - [鈴木奈穂子](../Page/鈴木奈穂子.md "wikilink")（すずき・なおこ）（産休）
   - [副島萌生](https://ja.wikipedia.org/wiki/副島萌生 "wikilink")（そえじま・めい）
-  - [高橋さとみ](../Page/高橋さとみ.md "wikilink")（たかはし・さとみ）(育前休職中)
-  - [千葉美乃梨](https://ja.wikipedia.org/wiki/千葉美乃梨 "wikilink")（ちば・みのり）(育前休職中)
+  - [高橋さとみ](../Page/高橋さとみ.md "wikilink")（たかはし・さとみ）
+  - [千葉美乃梨](https://ja.wikipedia.org/wiki/千葉美乃梨 "wikilink")（ちば・みのり）（産休）
   - [塚原愛](../Page/塚原愛.md "wikilink")（つかはら・あい）
   - [柘植恵水](../Page/柘植恵水.md "wikilink")（つげ・えみ）
-  - [寺門亜衣子](https://ja.wikipedia.org/wiki/寺門亜衣子 "wikilink")（てらかど・あいこ）（育前休職中）
+  - [寺門亜衣子](https://ja.wikipedia.org/wiki/寺門亜衣子 "wikilink")（てらかど・あいこ）（産休）
+  - [中川安奈](https://ja.wikipedia.org/wiki/中川安奈_\(アナウンサー\) "wikilink")（なかがわ・あんな）
   - [中川緑](../Page/中川緑.md "wikilink")（なかがわ・みどり）（SA）
   - [中條誠子](../Page/中條誠子.md "wikilink")（なかじょう・せいこ）
   - [中山果奈](https://ja.wikipedia.org/wiki/中山果奈 "wikilink")（なかやま・かな）
-  - [橋本奈穂子](../Page/橋本奈穂子.md "wikilink")（はしもと・なおこ）
   - [林田理沙](https://ja.wikipedia.org/wiki/林田理沙 "wikilink")（はやしだ・りさ）
   - [廣瀬智美](../Page/廣瀬智美.md "wikilink")（ひろせ・ともみ）
-  - [古野晶子](../Page/古野晶子.md "wikilink")（ふるの・あきこ）（育前休職中）
+  - [藤井彩子](../Page/藤井彩子.md "wikilink") (ふじい・あやこ)
+  - [古野晶子](../Page/古野晶子.md "wikilink")（ふるの・あきこ）
   - [星麻琴](https://ja.wikipedia.org/wiki/星麻琴 "wikilink")（ほし・まこと）
   - [保里小百合](https://ja.wikipedia.org/wiki/保里小百合 "wikilink")（ほり・さゆり）
-  - [松村正代](../Page/松村正代.md "wikilink")（まつむら・まさよ）
+  - [森下絵理香](https://ja.wikipedia.org/wiki/森下絵理香 "wikilink")（もりした・えりか）
   - [守本奈実](../Page/守本奈実.md "wikilink")（もりもと・なみ）
   - [和久田麻由子](https://ja.wikipedia.org/wiki/和久田麻由子 "wikilink")（わくだ・まゆこ）
 
@@ -1491,21 +1494,21 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 ### ラジオセンター
 
-  - ラジオセンター所属のアナウンサーは、基本的にラジオ番組のみ出演・担当する。テレビ番組への出演は原則としてしない。\[51\]
-  - かつて存在した制作業務担当専門のアナウンサーについては、2010年度以降「アナウンサー」ではなく純然たる「制作担当者」として扱われるようになり、公式サイトに掲載されなくなった。\[52\]\[53\]
+  - ラジオセンター所属のアナウンサーは、基本的にラジオ番組のみ出演・担当する。テレビ番組への出演は原則としてしない。\[52\]
+  - かつて存在した制作業務担当専門のアナウンサーについては、2010年度以降「アナウンサー」ではなく純然たる「制作担当者」として扱われるようになり、公式サイトに掲載されなくなった。\[53\]\[54\]
   - ただし、各種ラジオ番組のセレクション版、『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』のリポート、『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』のインタビュアー、特集番組などで出演することがある。
 
 #### 男性
 
   - [吾妻謙](../Page/吾妻謙_\(アナウンサー\).md "wikilink")（あずま・けん）
-  - [小見誠広](../Page/小見誠広.md "wikilink")（おみ・なりひろ）（SA）
   - [田中孝宜](../Page/田中孝宜.md "wikilink")（たなか・たかのぶ）
+  - [三橋大樹](../Page/三橋大樹.md "wikilink")（みつはし・おおき）（SA）
   - [吉松欣史](../Page/吉松欣史.md "wikilink")（よしまつ・よしふみ）（SA）
 
 #### 女性
 
+  - [石井かおる](../Page/石井かおる.md "wikilink")（いしい・かおる）（SA）
   - [武内陶子](../Page/武内陶子.md "wikilink")（たけうち・とうこ）（SA）
-  - [藤井彩子](../Page/藤井彩子.md "wikilink")（ふじい・あやこ）
   - [村上里和](../Page/村上里和.md "wikilink")（むらかみ・さとわ）
   - [山本志保](../Page/山本志保.md "wikilink")（やまもと・しほ）
 
@@ -1519,22 +1522,22 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [明石勇](../Page/明石勇.md "wikilink")
   - [朝妻基祐](https://ja.wikipedia.org/wiki/朝妻基祐 "wikilink")
-  - 新井成吉
+  - [新井成吉](https://ja.wikipedia.org/wiki/新井成吉 "wikilink")
   - [石澤典夫](../Page/石澤典夫.md "wikilink")
   - [石平光男](https://ja.wikipedia.org/wiki/石平光男 "wikilink")
-  - 伊藤征一
+  - [伊藤征一](https://ja.wikipedia.org/wiki/伊藤征一 "wikilink")
   - [小野卓司](../Page/小野卓司.md "wikilink")
   - [加治章](https://ja.wikipedia.org/wiki/加治章 "wikilink")
   - [川野一宇](../Page/川野一宇.md "wikilink")
-  - 岸田高佳司
+  - [岸田高佳司](https://ja.wikipedia.org/wiki/岸田高佳司 "wikilink")
   - [工藤三郎](../Page/工藤三郎.md "wikilink")
-  - 児玉士誠
+  - [児玉士誠](https://ja.wikipedia.org/wiki/児玉士誠 "wikilink")
   - [佐塚元章](../Page/佐塚元章.md "wikilink")
   - [末田正雄](../Page/末田正雄.md "wikilink")
   - [鈴木桂一郎](../Page/鈴木桂一郎.md "wikilink")
-  - 寺田道雄
+  - [寺田道雄](https://ja.wikipedia.org/wiki/寺田道雄 "wikilink")
   - [徳田章](../Page/徳田章.md "wikilink")
-  - 中村昇
+  - [中村昇](https://ja.wikipedia.org/wiki/中村昇 "wikilink")
   - [二宮正博](../Page/二宮正博.md "wikilink")
   - [野口博康](../Page/野口博康.md "wikilink")
   - [松本一路](../Page/松本一路.md "wikilink")
@@ -1557,12 +1560,12 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小林孝司](../Page/小林孝司.md "wikilink")（こばやし・たかし）（SA）
   - [近藤敏之](../Page/近藤敏之.md "wikilink")（こんどう・としゆき）（SA）
   - [鈴木健一](../Page/鈴木健一_\(アナウンサー\).md "wikilink")（すずき・けんいち）（SA）
+  - [武田涼介](../Page/武田涼介.md "wikilink")（たけだ・りょうすけ）
   - [根岸昌史](https://ja.wikipedia.org/wiki/根岸昌史 "wikilink")（ねぎし・まさふみ） (SA)
   - [野村正育](../Page/野村正育.md "wikilink")（のむら・まさいく） (EA)
   - [畠山智之](../Page/畠山智之.md "wikilink")（はたけやま・さとし）(EA)
   - [町田右](../Page/町田右.md "wikilink")（まちだ・ゆう）（SA）
   - [山田貴幸](https://ja.wikipedia.org/wiki/山田貴幸 "wikilink")（やまだ・たかゆき）（SA）
-  - [山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")（やまだ・やすひろ）
 
 #### 女性
 
@@ -1584,7 +1587,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 ### NHKグローバルメディアサービス出向
 
-  - 小野卓哉（おの・たくや）
+  - [小野卓哉](https://ja.wikipedia.org/wiki/小野卓哉_\(アナウンサー\) "wikilink")（おの・たくや）
   - [厚井大樹](../Page/厚井大樹.md "wikilink")（こうい・だいき）
   - [小宮山晃義](../Page/小宮山晃義.md "wikilink")（こみやま・てるよし）
   - [下境秀幸](../Page/下境秀幸.md "wikilink")（しもさかい・ひでゆき）
@@ -1598,17 +1601,17 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [井上朋子](https://ja.wikipedia.org/wiki/井上朋子_\(キャスター\) "wikilink")
   - [角田京子](../Page/角田京子.md "wikilink")
-  - 勝田真季
+  - [勝田真季](https://ja.wikipedia.org/wiki/勝田真季 "wikilink")
   - [上條麻里奈](https://ja.wikipedia.org/wiki/上條麻里奈 "wikilink")
   - [佐伯桃子](https://ja.wikipedia.org/wiki/佐伯桃子 "wikilink")
-  - 清水明花
-  - 菅野真美恵
-  - 竹澤知位子
-  - 田中里香
-  - 内藤真紀
+  - [清水明花](https://ja.wikipedia.org/wiki/清水明花 "wikilink")
+  - [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")
+  - [竹澤知位子](https://ja.wikipedia.org/wiki/竹澤知位子 "wikilink")
+  - [田中里香](https://ja.wikipedia.org/wiki/田中里香 "wikilink")
+  - [内藤真紀](https://ja.wikipedia.org/wiki/内藤真紀 "wikilink")
   - [西村美月](../Page/西村美月.md "wikilink")
-  - 松尾衣里子
-  - 森園有里
+  - [松尾衣里子](https://ja.wikipedia.org/wiki/松尾衣里子 "wikilink")
+  - [森園有里](https://ja.wikipedia.org/wiki/森園有里 "wikilink")
 
 ## 本部直轄のNHK放送局
 
@@ -1632,21 +1635,21 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 [Category:NHK東京](https://ja.wikipedia.org/wiki/Category:NHK東京 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:関東地方のテレビ局](https://ja.wikipedia.org/wiki/Category:関東地方のテレビ局 "wikilink") [Category:関東地方のラジオ局](https://ja.wikipedia.org/wiki/Category:関東地方のラジオ局 "wikilink") [Category:渋谷区の超高層ビル](https://ja.wikipedia.org/wiki/Category:渋谷区の超高層ビル "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink") [Category:第15回BCS賞](https://ja.wikipedia.org/wiki/Category:第15回BCS賞 "wikilink") [Category:1973年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1973年竣工の日本の建築物 "wikilink") [Category:渋谷](https://ja.wikipedia.org/wiki/Category:渋谷 "wikilink")
 
 1.
-2.  鈴木俊一『回想・地方自治五十年』株式会社ぎょうせい、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ISBN4-324-05326-X、p.188
-3.  『東京の都市計画に携わって－－元東京都首都圏整備局長・[山田正男](https://ja.wikipedia.org/wiki/山田正男 "wikilink")氏に聞く－－』財団法人東京都新都市建設公社まちづくり支援センター、[2001年](../Page/2001年.md "wikilink")、pp.104-105
-4.  鈴木俊一『回想・地方自治五十年』株式会社ぎょうせい、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ISBN4-324-05326-X、p.189
-5.  [山田正男](https://ja.wikipedia.org/wiki/山田正男 "wikilink")『時の流れ・都市の流れ』鹿島研究所出版会、[1973年](../Page/1973年.md "wikilink")、p.28
+2.  鈴木俊一『回想・地方自治五十年』株式会社ぎょうせい、1997年、ISBN 9784324053263、p.188
+3.  『東京の都市計画に携わって－－元東京都首都圏整備局長・[山田正男](https://ja.wikipedia.org/wiki/山田正男 "wikilink")氏に聞く－－』財団法人東京都新都市建設公社まちづくり支援センター、2001年、pp.104-105
+4.  鈴木俊一『回想・地方自治五十年』株式会社ぎょうせい、1997年、ISBN 9784324053263、p.189
+5.  [山田正男](https://ja.wikipedia.org/wiki/山田正男 "wikilink")『時の流れ・都市の流れ』鹿島研究所出版会、1973年、p.28
 6.  2008年に『[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")』で自ら認めている。
 7.  放送センターの建物自体は[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")級の地震にも耐えられる設計となっている。
-8.  NHK、放送センター建て替えへ　ホールなどすべて一新 [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2010年1月13日
-9.  [首相「長時間労働是正へ実効的な対策」　衆院予算委](http://www.nikkei.com/article/DGXLASFS15H14_V10C16A2MM0000/) [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2016年2月15日、同3月8日閲覧。
-10. [NHK放送センターの地方移転を！　自民・後藤田氏がびっくり提言　高市総務相「地方創生への貢献も大切だ…」](http://www.sankei.com/politics/news/160215/plt1602150005-n1.html) [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink") 2016年2月15日、同3月8日閲覧。
+8.  NHK、放送センター建て替えへ ホールなどすべて一新 [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2010年1月13日
+9.  [首相「長時間労働是正へ実効的な対策」 衆院予算委](http://www.nikkei.com/article/DGXLASFS15H14_V10C16A2MM0000/) [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2016年2月15日、同3月8日閲覧。
+10. [NHK放送センターの地方移転を！ 自民・後藤田氏がびっくり提言 高市総務相「地方創生への貢献も大切だ…」](http://www.sankei.com/politics/news/160215/plt1602150005-n1.html) [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink") 2016年2月15日、同3月8日閲覧。
 11.
 12.
 13.
 14. 天井近くに、吊り下げられた表札を捉えるように[スキップバックレコーダー](https://ja.wikipedia.org/wiki/スキップバックレコーダー "wikilink")接続のカメラが設置されている他、担当カメラマンが机の下に常備する[カムコーダ](../Page/カムコーダ.md "wikilink")を直ちに引き出して収録する。これは特集番組での重要な映像資料となる。
 15. 災害報道の訓練の様子や選挙開票速報の番組スポットでは映し出されるケースがある。
-16. 「NHK VR　[360°でみるニューススタジオ](https://www.nhk.or.jp/vr/news/ohayou/)」、日本放送協会、2015年12月25日
+16. 「NHK VR [360°でみるニューススタジオ](https://www.nhk.or.jp/vr/news/ohayou/)」、日本放送協会、2015年12月25日
 17. 災害放送は全チャンネル（またはBS1との）同時放送であるが、災害関連以外の特設ニュースでは総合テレビとNHKワールド・プレミアムの同時放送が基本。
 18. ただ、大雨や台風などの異常気象における特設ニュースではNHKワールド・プレミアムでもすべてまたは一部時間帯で放送されず、完全に総合テレビの単独放送となる場合もある。
 19. [2015年](../Page/2015年.md "wikilink")6月12日放送の『[あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink")・プレミアムトーク』にゲストとして出演した[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink")（同年放送の大河ドラマ『[花燃ゆ](https://ja.wikipedia.org/wiki/花燃ゆ "wikilink")』主演）が、当時放送中の朝ドラ『まれ』のヒロインで、[2011年](../Page/2011年.md "wikilink")の朝ドラ『[おひさま](https://ja.wikipedia.org/wiki/おひさま_\(テレビドラマ\) "wikilink")』での共演歴がある[土屋太鳳](../Page/土屋太鳳.md "wikilink")とのエピソードを語っているところからこの様子が伺える。
@@ -1654,33 +1657,34 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 21. [駐日韓国公館・機関](https://www.mindan.org/shokai/map_koukan.html) 在日大韓民国民団
 22.
 23.
-24. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033248&DD=1&styleNumber=01)
-25. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644628&DD=1&styleNumber=01)
-26. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644631&DD=1&styleNumber=01)
-27. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033249&DD=1&styleNumber=01)
-28. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644629&DD=1&styleNumber=01)
-29. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644632&DD=1&styleNumber=01)
-30. [NHK菖蒲久喜ラジオ放送所トップページ](http://www.nhk.or.jp/shobu-kuki/)
-31. 2012年10月2日開催・10月19日公表の日本放送協会理事会議事録より。
-32. 2013年3月1日付の小笠原村民便りより（同年3月3日閲覧）
-33.
+24.
+25. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033248&DD=1&styleNumber=01)
+26. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644628&DD=1&styleNumber=01)
+27. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644631&DD=1&styleNumber=01)
+28. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033249&DD=1&styleNumber=01)
+29. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644629&DD=1&styleNumber=01)
+30. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644632&DD=1&styleNumber=01)
+31. [NHK菖蒲久喜ラジオ放送所トップページ](http://www.nhk.or.jp/shobu-kuki/)
+32. 2012年10月2日開催・10月19日公表の日本放送協会理事会議事録より。
+33. 2013年3月1日付の小笠原村民便りより（同年3月3日閲覧）
 34.
-35. [NHK-FM放送 東京スカイツリーから送信開始](http://www3.nhk.or.jp/pr/keiei/shiryou/kaichou/2012/04/004.pdf) NHK広報局 2012年4月5日
-36. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033407&DD=1&styleNumber=01)
-37.
-38. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033431&DD=1&styleNumber=01)
-39. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033521&DD=1&styleNumber=01)
-40. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644630&DD=1&styleNumber=01)
-41. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644633&DD=1&styleNumber=01)
-42.
+35.
+36. [NHK-FM放送 東京スカイツリーから送信開始](http://www3.nhk.or.jp/pr/keiei/shiryou/kaichou/2012/04/004.pdf) NHK広報局 2012年4月5日
+37. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033407&DD=1&styleNumber=01)
+38.
+39. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033431&DD=1&styleNumber=01)
+40. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000033521&DD=1&styleNumber=01)
+41. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644630&DD=1&styleNumber=01)
+42. [無線局免許状情報（総務省）](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0003644633&DD=1&styleNumber=01)
 43.
-44. FMと地上波の総合テレビので一部時間帯に県別ニュースを編成する時間があるが、東京都内向けのFMは広域放送であるラジオ第1放送と同じ「関東（甲信越）のニュース」の扱いとなるため。また年度によって[NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")（Nコン）東京都予選、[高校野球東東京](../Page/全国高等学校野球選手権東東京大会.md "wikilink")・[西東京両地方大会を都内向けのみで放送する場合もある](../Page/全国高等学校野球選手権西東京大会.md "wikilink")
-45. [R1 blog:NHKブログ | ラジオあさいちばん | 渋谷スクランブル交差点のカメラ](http://www.nhk.or.jp/r1-blog/200/25241.html)
-46. [平成28（2016）年度第3四半期業務報告](http://www.nhk.or.jp/pr/keiei/quarter/pdf/28-003.pdf)
-47. 一部はノンスクランブルで視聴できるため、配信サービス対象外の日本国内でも海外衛星放送チューナーとパラボラアンテナ（BS放送よりも大きめのサイズ）を用意することで視聴可能。
-48. ただし、[1980年代](../Page/1980年代.md "wikilink")末期から[1990年代](../Page/1990年代.md "wikilink")はじめごろに、当時の早朝ニュース番組『[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")』→『[NHKモーニングワイド](../Page/NHKモーニングワイド.md "wikilink")』→『NHKニュース・おはよう日本』で午前7:30から7:45に放送されていた各地の基幹局\<札幌、仙台、東京、名古屋、大阪、広島、松山、福岡\>のローカルニュースを1週間単位の週替わりローテーションで放送したことがあった。
-49. 2018年の第100回大会も「ふるさとリポーター」が派遣されたが、「NHK東京」ではなく、単に「東京」とのみ表示された（東京以外の46道府県は「NHK○○放送局」と表示）。
-50. [菖蒲久喜ラジオ放送所・ラジオ第2放送 減力放送について](http://www.nhk.or.jp/pr/keiei/otherpress/110318-001.html)
-51. 同例は民放の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にもある。
-52. 背景としては、これまで煩わしくなっていた「パーソナリティー」としてのアナウンサーと「制作担当者」としてのアナウンサーを分割させるねらいもあったとみられる。
-53. 2011年度を最終年度とする3か年計画では、「報道・番組制作要員は増やし、技術は増加抑制、ほかは容赦なく削減」することを明確にしていた。
+44.
+45. FMと地上波の総合テレビので一部時間帯に県別ニュースを編成する時間があるが、東京都内向けのFMは広域放送であるラジオ第1放送と同じ「関東（甲信越）のニュース」の扱いとなるため。また年度によって[NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")（Nコン）東京都予選、[高校野球東東京](../Page/全国高等学校野球選手権東東京大会.md "wikilink")・[西東京両地方大会を都内向けのみで放送する場合もある](../Page/全国高等学校野球選手権西東京大会.md "wikilink")
+46. [R1 blog:NHKブログ | ラジオあさいちばん | 渋谷スクランブル交差点のカメラ](http://www.nhk.or.jp/r1-blog/200/25241.html)
+47. [平成28（2016）年度第3四半期業務報告](http://www.nhk.or.jp/pr/keiei/quarter/pdf/28-003.pdf)
+48. 一部はノンスクランブルで視聴できるため、配信サービス対象外の日本国内でも海外衛星放送チューナーとパラボラアンテナ（BS放送よりも大きめのサイズ）を用意することで視聴可能。
+49. ただし、[1980年代](../Page/1980年代.md "wikilink")末期から[1990年代](../Page/1990年代.md "wikilink")はじめごろに、当時の早朝ニュース番組『[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")』→『[NHKモーニングワイド](../Page/NHKモーニングワイド.md "wikilink")』→『NHKニュース・おはよう日本』で午前7:30から7:45に放送されていた各地の基幹局\<札幌、仙台、東京、名古屋、大阪、広島、松山、福岡\>のローカルニュースを1週間単位の週替わりローテーションで放送したことがあった。
+50. 2018年の第100回大会も「ふるさとリポーター」が派遣されたが、「NHK東京」ではなく、単に「東京」とのみ表示された（東京以外の46道府県は「NHK○○放送局」と表示）。
+51. [菖蒲久喜ラジオ放送所・ラジオ第2放送 減力放送について](http://www.nhk.or.jp/pr/keiei/otherpress/110318-001.html)
+52. 同例は民放の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にもある。
+53. 背景としては、これまで煩わしくなっていた「パーソナリティー」としてのアナウンサーと「制作担当者」としてのアナウンサーを分割させるねらいもあったとみられる。
+54. 2011年度を最終年度とする3か年計画では、「報道・番組制作要員は増やし、技術は増加抑制、ほかは容赦なく削減」することを明確にしていた。

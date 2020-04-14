@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[国府町CATV](https://ja.wikipedia.org/wiki/国府町CATV)から翻訳されています。
 
 
 **国府町CATV**（こくふちょうシーエイティーブイ）は、[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")のうち、[国府町](../Page/国府町_\(徳島県\).md "wikilink")（旧名東郡国府町域）を中心とするエリアで[テレビ](../Page/テレビ.md "wikilink")放送配信およびインターネット接続事業を手がける[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
@@ -125,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p>BS151</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>BS161</p></td>

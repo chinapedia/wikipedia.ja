@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFAスーパーカップ](https://ja.wikipedia.org/wiki/UEFAスーパーカップ)から翻訳されています。
 
 
 **UEFAスーパーカップ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）の主催で行われる、[スーパーカップ](../Page/スーパーカップ.md "wikilink")である。欧州の2大カップ戦である[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")と[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の優勝クラブ同士によって、シーズン開幕前の8月に行われる。
@@ -430,6 +430,27 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィンザー・パーク" title="wikilink">ウィンザー・パーク</a>（<a href="../Page/ベルファスト.md" title="wikilink">ベルファスト</a>）</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2022_UEFAスーパーカップ" title="wikilink">2022</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/ヘルシンキ・オリンピックスタジアム.md" title="wikilink">オリンピックスタジアム</a>（<a href="../Page/ヘルシンキ.md" title="wikilink">ヘルシンキ</a>）</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2023_UEFAスーパーカップ" title="wikilink">2023</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カザン・アリーナ" title="wikilink">アク・バルス・アレナ</a>（<a href="../Page/カザン.md" title="wikilink">カザン</a>）</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

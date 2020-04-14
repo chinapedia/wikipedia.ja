@@ -1,4 +1,4 @@
-> この記事は[Eye](https://ja.wikipedia.org/wiki/Eye)から翻訳されています。
+> この記事は[ニュースEyeランド](https://ja.wikipedia.org/wiki/ニュースEyeランド)から翻訳されています。
 
 
 『**ニュースEyeランド**』（ニュースアイランド）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[サンテレビが放送していた](../Page/サンテレビジョン.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[提供クレジット](../Page/提供クレジット.md "wikilink")を出す前に「協力 [神戸新聞](../Page/神戸新聞.md "wikilink")」のクレジットを表示していた。

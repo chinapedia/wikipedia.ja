@@ -1,4 +1,4 @@
-> この記事は[KOBE](https://ja.wikipedia.org/wiki/KOBE)から翻訳されています。
+> この記事は[ニュースKOBE発](https://ja.wikipedia.org/wiki/ニュースKOBE発)から翻訳されています。
 
 
 『**ニュースKOBE発**』（ニュースこうべはつ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[兵庫県](../Page/兵庫県.md "wikilink")内の[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送されていた、[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")制作の[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

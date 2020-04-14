@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[岡本綾子のNECスーパーゴルフ](https://ja.wikipedia.org/wiki/岡本綾子のNECスーパーゴルフ)から翻訳されています。
 
 
 『**岡本綾子のNECスーパーゴルフ**』（おかもとあやこのエヌイーシースーパーゴルフ）は、[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[ゴルフ](../Page/ゴルフ.md "wikilink")番組である。製作局のテレビ東京では[1979年](../Page/1979年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")（東京12チャンネル時代）から[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。

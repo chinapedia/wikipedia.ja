@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK大阪放送局](https://ja.wikipedia.org/wiki/NHK大阪放送局)から翻訳されています。
 
 
 **NHK大阪放送局**（エヌエイチケイおおさかほうそうきょく）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区にある](../Page/中央区_\(大阪市\).md "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[放送局](../Page/放送局.md "wikilink")である。
@@ -501,17 +501,15 @@
 
 ### アナウンサー
 
-  - [東京本局のバックアップ局であるためか](../Page/NHK放送センター.md "wikilink")、大部分が東京本局出身者で構成されている。事実、東京からこの放送局に異動してくるアナウンサーは多く、逆にこの局から東京に異動するアナウンサーも多い。
-  - **\***印は過去に大阪局勤務経験あり。前任地が太字はその局が初任地。担当番組の太字は2019年度の主要担当番組を表す。
-  - 出身地が書かれているアナウンサーは
-    地元要員。
+  - [NHK放送センター](../Page/NHK放送センター.md "wikilink")のバックアップ局であるためか、大部分が東京アナウンス室やラジオセンターの出身者で構成されている。事実、東京からこの放送局に異動してくるアナウンサーは多く、逆にこの局から東京に異動するアナウンサーも多い。
+  - **\***印は過去に大阪放送局に勤務経験があることを示す。前任地が太字の人はその局が初任地。
+  - 出身地が書かれているアナウンサーは地元要員。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>氏名</p></th>
 <th><p>前任地</p></th>
-<th><p>主なジャンル</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -522,161 +520,131 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/二宮直輝" title="wikilink">二宮直輝</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュースほっと関西" title="wikilink">ニュースほっと関西</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/近田雄一.md" title="wikilink">近田雄一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かんさい熱視線" title="wikilink">かんさい熱視線</a><br />
+（キャスター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近田雄一.md" title="wikilink">近田雄一</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/ウイークエンド関西.md" title="wikilink">ウイークエンド関西</a></p></td>
-<td></td>
+<td><p><a href="../Page/伊藤雄彦.md" title="wikilink">伊藤雄彦</a>*</p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
+<td><p><a href="../Page/ウイークエンド関西.md" title="wikilink">ウイークエンド関西</a><br />
+（キャスター）</p></td>
+<td><p>大阪府出身</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/狩野史長" title="wikilink">狩野史長</a></p></td>
 <td><p><a href="../Page/NHK鳥取放送局.md" title="wikilink">鳥取</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/大石真弘.md" title="wikilink">大石真弘</a></p></td>
-<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/斎藤政直.md" title="wikilink">斎藤政直</a></p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/住田功一.md" title="wikilink">住田功一</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/関西ラジオワイド.md" title="wikilink">関西ラジオワイド</a><br />
-<a href="../Page/関西発ラジオ深夜便.md" title="wikilink">関西発ラジオ深夜便</a>（第2週のみ）</p></td>
-<td><p>兵庫県出身</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/伊藤雄彦.md" title="wikilink">伊藤雄彦</a>*</p></td>
-<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かんさい熱視線" title="wikilink">かんさい熱視線</a></p></td>
-<td><p>大阪府出身</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/中村宏_(アナウンサー).md" title="wikilink">中村宏</a>*</p></td>
-<td><p><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a></p></td>
-<td><p>地域</p></td>
-<td><p>関西発ラジオ深夜便（第1・3週）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山路忠生" title="wikilink">山路忠生</a></p></td>
-<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
-<td><p>情報</p></td>
-<td><p>ニュースなど</p></td>
+<td><p><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a><br />
+（キャスター）<br />
+<a href="../Page/新・ルソンの壺.md" title="wikilink">新・ルソンの壺</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大橋信之" title="wikilink">大橋信之</a></p></td>
 <td><p><a href="../Page/NHK京都放送局.md" title="wikilink">京都</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
+<td><p><a href="../Page/関西ラジオワイド.md" title="wikilink">関西ラジオワイド</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/二宮直輝" title="wikilink">二宮直輝</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュースほっと関西" title="wikilink">ニュースほっと関西</a></p></td>
+<td><p><a href="../Page/政野光伯.md" title="wikilink">政野光伯</a>*</p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/松苗竜太郎" title="wikilink">松苗竜太郎</a></p></td>
-<td><p><strong><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></strong></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三輪洋雄" title="wikilink">三輪洋雄</a></p></td>
-<td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/清水敬亮" title="wikilink">清水敬亮</a></p></td>
-<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継など</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/出山知樹.md" title="wikilink">出山知樹</a></p></td>
-<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td><p>兵庫県出身</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/宮田貴行.md" title="wikilink">宮田貴行</a></p></td>
-<td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/冨坂和男.md" title="wikilink">冨坂和男</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/鳥海貴樹.md" title="wikilink">鳥海貴樹</a></p></td>
-<td><p>G-Media出向</p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/筒井亮太郎.md" title="wikilink">筒井亮太郎</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/田村泰崇.md" title="wikilink">田村泰崇</a></p></td>
 <td><p>東京アナウンス室</p></td>
-<td></td>
 <td><p>アナウンス統括</p></td>
+<td><p>管理業務主体</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/住田功一.md" title="wikilink">住田功一</a></p></td>
+<td><p><a href="../Page/関西発ラジオ深夜便.md" title="wikilink">関西発ラジオ深夜便</a>（第2週のみ）</p></td>
+<td><p>兵庫県出身</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/中村宏_(アナウンサー).md" title="wikilink">中村宏</a>*</p></td>
+<td><p><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a></p></td>
+<td><p>関西発ラジオ深夜便（第1・3週）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/政野光伯.md" title="wikilink">政野光伯</a>*</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大川悠介" title="wikilink">大川悠介</a></p></td>
+<td><p>関西のニュース</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大石真弘.md" title="wikilink">大石真弘</a></p></td>
+<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/斎藤政直.md" title="wikilink">斎藤政直</a></p></td>
 <td><p>ラジオセンター</p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/山路忠生" title="wikilink">山路忠生</a></p></td>
+<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/上岡亮.md" title="wikilink">上岡亮</a></p></td>
+<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三輪洋雄" title="wikilink">三輪洋雄</a></p></td>
+<td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
+<td><p>各種スポーツ中継<br />
+関西のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/清水敬亮" title="wikilink">清水敬亮</a></p></td>
+<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宮田貴行.md" title="wikilink">宮田貴行</a></p></td>
+<td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/冨坂和男.md" title="wikilink">冨坂和男</a>*</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-Media出向</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳥海貴樹.md" title="wikilink">鳥海貴樹</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/筒井亮太郎.md" title="wikilink">筒井亮太郎</a></p></td>
+<td><p>東京アナウンス室</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -684,54 +652,55 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/井田香菜子" title="wikilink">井田香菜子</a></p></td>
-<td><p><strong><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></strong></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/一柳亜矢子.md" title="wikilink">一柳亜矢子</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/岩槻里子.md" title="wikilink">岩槻里子</a></p></td>
-<td><p><a href="../Page/NHK京都放送局.md" title="wikilink">京都</a></p></td>
-<td><p>情報</p></td>
-<td><p><a href="../Page/きょうの料理.md" title="wikilink">きょうの料理</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/渡邊佐和子.md" title="wikilink">渡邊佐和子</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>情報</p></td>
-<td><p><a href="../Page/新・ルソンの壺.md" title="wikilink">新・ルソンの壺</a><br />
-<a href="https://ja.wikipedia.org/wiki/すてきにハンドメイド" title="wikilink">すてきにハンドメイド</a><br />
-<a href="../Page/歴史秘話ヒストリア.md" title="wikilink">歴史秘話ヒストリア</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎理加" title="wikilink">川崎理加</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a></strong></p></td>
-<td><p>情報</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュースほっと関西" title="wikilink">ニュースほっと関西</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュースほっと関西" title="wikilink">ニュースほっと関西</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/井田香菜子" title="wikilink">井田香菜子</a></p></td>
+<td><p><strong><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></strong></p></td>
+<td><p><a href="../Page/きょうの料理.md" title="wikilink">きょうの料理</a><br />
+関西のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/畠山衣美" title="wikilink">畠山衣美</a></p></td>
+<td><p><strong><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岩槻里子.md" title="wikilink">岩槻里子</a></p></td>
+<td><p>京都</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ごごナマ" title="wikilink">ごごナマ</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/渡邊佐和子.md" title="wikilink">渡邊佐和子</a></p></td>
+<td><p>東京アナウンス室</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/すてきにハンドメイド" title="wikilink">すてきにハンドメイド</a><br />
+<a href="../Page/歴史秘話ヒストリア.md" title="wikilink">歴史秘話ヒストリア</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/牛田茉友" title="wikilink">牛田茉友</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a></p></td>
+<td><p><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a><br />
+（キャスター）</p></td>
 <td><p>大阪府出身</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/一柳亜矢子.md" title="wikilink">一柳亜矢子</a></p></td>
+<td><p>関西のニュース</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -857,7 +826,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>塩見泰子</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塩見泰子_(気象予報士)" title="wikilink">塩見泰子</a></p></td>
 <td><p>南気象予報士事務所所属<br />
 元<a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビアナウンサー</a></p></td>
 <td><p><strong><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a></strong><br />

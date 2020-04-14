@@ -1,4 +1,4 @@
-> この記事は[BOY](https://ja.wikipedia.org/wiki/BOY)から翻訳されています。
+> この記事は[あそBOY](https://ja.wikipedia.org/wiki/あそBOY)から翻訳されています。
 
 
 **あそBOY**（あそボーイ）とは、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）が[豊肥本線](https://ja.wikipedia.org/wiki/豊肥本線 "wikilink")の[熊本駅](https://ja.wikipedia.org/wiki/熊本駅 "wikilink") - [宮地駅](https://ja.wikipedia.org/wiki/宮地駅 "wikilink")間で、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[8月28日](../Page/8月28日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[11月27日](../Page/11月27日.md "wikilink")まで運行していた[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である。

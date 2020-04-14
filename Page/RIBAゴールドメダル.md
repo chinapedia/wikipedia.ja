@@ -1,4 +1,4 @@
-> この記事は[RIBA](https://ja.wikipedia.org/wiki/RIBA)から翻訳されています。
+> この記事は[RIBAゴールドメダル](https://ja.wikipedia.org/wiki/RIBAゴールドメダル)から翻訳されています。
 
 
 **ロイヤル・ゴールド・メダル**（Royal Gold Medal）は、[王立英国建築家協会](https://ja.wikipedia.org/wiki/王立英国建築家協会 "wikilink")（RIBA）から優れた[建築家](../Page/建築家.md "wikilink")に対して与えられる賞。約150年に及ぶ歴史を持つ。RIBAゴールド・メダル（RIBA Gold Medal）とも通称される。
@@ -331,7 +331,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1911年.md" title="wikilink">1911年</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウィルヘルム・デルプフェルト" title="wikilink">ウィルヘルム・デルプフェルト</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

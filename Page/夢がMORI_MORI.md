@@ -1,4 +1,4 @@
-> この記事は[MORI MORI](https://ja.wikipedia.org/wiki/MORI_MORI)から翻訳されています。
+> この記事は[夢がMORI MORI](https://ja.wikipedia.org/wiki/夢がMORI_MORI)から翻訳されています。
 
 
 『**JOCX-TV PRESENTS 夢がMORI MORI**』（ジェイ・オー・シー・エックス・ティーヴィープレゼンツ ゆめがモリモリ）は、[1992年](../Page/1992年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")まで[フジテレビ系列局で土曜日に放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ制作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。通称「**夢MORI**」、「**MORI MORI**」。松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）の一社提供。放送時間は毎週土曜 23:30 - 翌0:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

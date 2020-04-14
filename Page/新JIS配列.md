@@ -1,4 +1,4 @@
-> この記事は[JIS](https://ja.wikipedia.org/wiki/JIS)から翻訳されています。
+> この記事は[新JIS配列](https://ja.wikipedia.org/wiki/新JIS配列)から翻訳されています。
 
 
 **新JIS配列**は、日本語入力用[キー配列](../Page/キー配列.md "wikilink")の一つ。カナ系。

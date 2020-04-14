@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gスポット](https://ja.wikipedia.org/wiki/Gスポット)から翻訳されています。
 
 
 **Gスポット**（Gräfenberg spot：G-spot）とはドイツの[エルンスト・グレフェンベルク](../Page/エルンスト・グレフェンベルグ.md "wikilink")（Ernst Gräfenberg）にちなんで命名された、[恥骨](https://ja.wikipedia.org/wiki/恥骨 "wikilink")の下にある[膣](../Page/膣.md "wikilink")壁前方上部の小さな領域。女性にとって[クリトリスに次いで有名な](../Page/陰核.md "wikilink")[性感帯](https://ja.wikipedia.org/wiki/性感帯 "wikilink")\[1\]。

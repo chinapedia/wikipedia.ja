@@ -1,4 +1,4 @@
-> この記事は[FNNKANSAI](https://ja.wikipedia.org/wiki/FNNKANSAI)から翻訳されています。
+> この記事は[FNNスーパーニュースほっとKANSAI](https://ja.wikipedia.org/wiki/FNNスーパーニュースほっとKANSAI)から翻訳されています。
 
 
 『**FNNスーパーニュースほっとKANSAI**』（エフエヌエヌスーパーニュースほっとカンサイ）は、[関西テレビで](../Page/関西テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までに放送された[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方の[関西ローカル](../Page/関西ローカル.md "wikilink")[ワイドニュース番組](../Page/報道番組.md "wikilink")。

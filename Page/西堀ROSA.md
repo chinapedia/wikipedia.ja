@@ -1,4 +1,4 @@
-> この記事は[ROSA](https://ja.wikipedia.org/wiki/ROSA)から翻訳されています。
+> この記事は[西堀ROSA](https://ja.wikipedia.org/wiki/西堀ROSA)から翻訳されています。
 
 
 [Map_of_NiigataFurumachi.svg](https://ja.wikipedia.org/wiki/File:Map_of_NiigataFurumachi.svg "fig:Map_of_NiigataFurumachi.svg") **西堀ローサ**（にしぼりろーさ）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区の](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[西堀通](https://ja.wikipedia.org/wiki/西堀通 "wikilink")（新潟市道）地下にある[地下街](../Page/地下街.md "wikilink")\[1\]。新潟市が運営する[第三セクター](../Page/第三セクター.md "wikilink")「新潟地下開発」が運営管理を行っている\[2\]。[都市計画道路](../Page/都市計画道路.md "wikilink")としての名称は「西堀地下道」\[3\]。

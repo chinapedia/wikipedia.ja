@@ -1,4 +1,4 @@
-> この記事は[ORANGE \(\)](https://ja.wikipedia.org/wiki/ORANGE_\(\))から翻訳されています。
+> この記事は[ORANGE \(漫画\)](https://ja.wikipedia.org/wiki/ORANGE_\(漫画\))から翻訳されています。
 
 
 『**ORANGE**』（オレンジ）は、[能田達規](../Page/能田達規.md "wikilink")による[サッカー漫画](../Page/サッカー漫画.md "wikilink")。『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、2001年48号から2004年6号まで連載された。単行本は全13巻が秋田書店から刊行されている。

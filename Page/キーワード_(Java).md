@@ -1,4 +1,4 @@
-> この記事は[ \(Java\)](https://ja.wikipedia.org/wiki/_\(Java\))から翻訳されています。
+> この記事は[キーワード \(Java\)](https://ja.wikipedia.org/wiki/キーワード_\(Java\))から翻訳されています。
 
 
 この項目では[Java](https://ja.wikipedia.org/wiki/Java "wikilink")におけるキーワード（[予約語](../Page/予約語.md "wikilink")の記事を参照）\[1\]に関して説明する。全部で50個ある。

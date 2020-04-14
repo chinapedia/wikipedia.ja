@@ -1,4 +1,4 @@
-> この記事は[W Endless Waltz](https://ja.wikipedia.org/wiki/W_Endless_Waltz)から翻訳されています。
+> この記事は[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz)から翻訳されています。
 
 
 『**新機動戦記ガンダムW Endless Waltz**』（しんきどうせんきガンダムウイング エンドレス ワルツ）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[OVA](../Page/OVA.md "wikilink")（オリジナルビデオアニメ）で、『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』の続編および完結編として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に全3話が制作された。後に再編集され、追加映像を加えた『特別篇』が劇場公開された（後述）。
@@ -31,8 +31,9 @@
   - [ルクレツィア・ノイン](../Page/ルクレツィア・ノイン.md "wikilink")（声 - [横山智佐](../Page/横山智佐.md "wikilink")）
   - [マリーメイア・クシュリナーダ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#マリーメイア・クシュリナーダ "wikilink")（声 - [佐久間レイ](../Page/佐久間レイ.md "wikilink")）
   - [デキム・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#デキム・バートン "wikilink")（声 - [依田英助](../Page/依田英助.md "wikilink")）
-  - [真のトロワ・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#真のトロワ・バートン "wikilink")（声 - [中村秀利](../Page/中村秀利.md "wikilink")）
   - [キャスリン・ブルーム](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#キャスリン・ブルーム "wikilink")（声 - [杉本沙織](../Page/杉本沙織.md "wikilink")）
+  - [真のトロワ・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#真のトロワ・バートン "wikilink")（声 - [中村秀利](../Page/中村秀利.md "wikilink")）
+  - 大統領（声 - [鈴木泰明](../Page/鈴木泰明.md "wikilink")）
   - [ドロシー・カタロニア](../Page/ドロシー・カタロニア.md "wikilink")（声 - [松井菜桜子](../Page/松井菜桜子.md "wikilink")、『特別篇』のみ登場）
 
 （『特別篇』のキャストも同一）
@@ -54,7 +55,7 @@
   - 脚本：[隅沢克之](../Page/隅沢克之.md "wikilink")
   - キャラクターデザイン：[村瀬修功](../Page/村瀬修功.md "wikilink")
   - 衣装デザイン協力：[出渕裕](../Page/出渕裕.md "wikilink")
-  - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink")：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、石垣純哉
+  - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink")：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
   - 音楽：[大谷幸](../Page/大谷幸.md "wikilink")
   - 企画・制作：[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
 

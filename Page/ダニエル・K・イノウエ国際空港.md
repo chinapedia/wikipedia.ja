@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ダニエル・K・イノウエ国際空港](https://ja.wikipedia.org/wiki/ダニエル・K・イノウエ国際空港)から翻訳されています。
 
 
 **ダニエル・K・イノウエ国際空港**（ダニエル・ケー・イノウエこくさいくうこう、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")[オアフ島](../Page/オアフ島.md "wikilink")の[ホノルル](../Page/ホノルル.md "wikilink")近郊にある国際空港。旧名称は**ホノルル国際空港**（）であったが、[2017年](../Page/2017年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")から、正式名称が『ダニエル・K・イノウエ国際空港』と変更になった\[1\]\[2\]。

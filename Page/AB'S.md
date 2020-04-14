@@ -32,6 +32,8 @@
 
 2019年2月3日、オリジナルメンバーである芳野藤丸、松下誠、岡本郭男に加え、目黒郁也(B)、竹越かずゆき(K)を加えた新編成での復活ライブを行った。
 
+2020年3月12日、 芳野藤丸、松下誠、岡本郭男、竹越かずゆき、遠山陽介の5名による新アルバムのレコーディングが進んでいる様子がFacebookで公開された。
+
 ## ディスコグラフィー
 
 ### シングル
@@ -332,6 +334,7 @@
 ## 外部リンク
 
   - [AB'S - ホーム](https://absthe3rd.wixsite.com/website)
+  - [AB'S - ホーム(Facebook)](https://www.facebook.com/absthe3rd/)
   - [Paradigm Shift 公式サイト](http://www.paradigmshift.jp/)
   - [芳野藤丸 on the WEB\!](http://www2u.biglobe.ne.jp/%7Ekrishna/fujimal/) ※BBSがAB'Sの旧公式サイト（既に閉鎖）と兼用
 

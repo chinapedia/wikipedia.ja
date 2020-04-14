@@ -1,4 +1,4 @@
-> この記事は[FANATICCRISIS](https://ja.wikipedia.org/wiki/FANATICCRISIS)から翻訳されています。
+> この記事は[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS)から翻訳されています。
 
 
 **FANATIC◇CRISIS**（ファナティック クライシス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は**FtC**。バンド名の由来については、「FANATIC（狂信的、熱狂的）」と「CRISIS（危機）」という異なる意味の二つの単語を組み合わせ、二つの側面を持つバンドであるようにという意味でつけた説と、適当に[英和辞典](https://ja.wikipedia.org/wiki/英和辞典 "wikilink")をひいて名づけた説の二つがあり、真の理由は不明。間に◇が入るのは、「FANATIC」と「CRISIS」を並べた時に二つの単語の「C」が連続してしまうのを避ける為で、[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")に「画数的には◇がいい」と言われたからである。後にテレビ東京の深夜音楽番組内で姓名判断師の[安斎勝洋](../Page/安斎勝洋.md "wikilink")には「◇を取った方が良い」と言われたが、変更しなかった。結成初期の表記は「×」や「☆」、「†」などこだわりはなかった。また、TV出演の際には◇が表記されない事もあった。

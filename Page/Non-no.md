@@ -38,10 +38,9 @@
   - [武田玲奈](https://ja.wikipedia.org/wiki/武田玲奈 "wikilink")（2016年6月号 - ）\[2\]
   - [金城茉奈](https://ja.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 - ）\[3\]
   - [松川菜々花](https://ja.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 - ）\[4\]
-  - [山田愛奈](https://ja.wikipedia.org/wiki/山田愛奈 "wikilink")（2017年6月号 - ）\[5\]
-  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙3回）\[6\]
-  - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")（2018年11月号 - ）\[7\]
-  - [多屋来夢](https://ja.wikipedia.org/wiki/多屋来夢 "wikilink")（2018年11月号 - ）\[8\]
+  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙4回）\[5\]
+  - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")（2018年11月号 - ）\[6\]
+  - [多屋来夢](https://ja.wikipedia.org/wiki/多屋来夢 "wikilink")（2018年11月号 - ）\[7\]
   - [佐々木美玲](https://ja.wikipedia.org/wiki/佐々木美玲 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、2019年4月号 - ）
   - [堀田真由](https://ja.wikipedia.org/wiki/堀田真由 "wikilink")（2020年3月号 - ）
 
@@ -133,7 +132,7 @@
   - [岸本セシル](https://ja.wikipedia.org/wiki/岸本セシル "wikilink") - 2008年7/20号 - 2015年2月号
   - [波瑠](../Page/波瑠.md "wikilink") - 2012年6月号 - 2015年5月号 (表紙3回）
   - [桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 2012年3月号 - 2015年6月号 (表紙15回）
-  - [二村祥絵](https://ja.wikipedia.org/wiki/二村祥絵 "wikilink") - 2013年6月号 - 2015年6月号\[9\]
+  - [二村祥絵](https://ja.wikipedia.org/wiki/二村祥絵 "wikilink") - 2013年6月号 - 2015年6月号\[8\]
   - [竹富聖花](https://ja.wikipedia.org/wiki/竹富聖花 "wikilink") - 2013年6月号 - 2016年1月号
   - [上田眞央](https://ja.wikipedia.org/wiki/上田眞央 "wikilink") - 2011年3月号 - 2016年5月号
   - [佐藤美希](https://ja.wikipedia.org/wiki/佐藤美希 "wikilink") - 2014年3月号 - 2016年5月号
@@ -143,14 +142,15 @@
   - [久慈暁子](https://ja.wikipedia.org/wiki/久慈暁子 "wikilink") - 2014年11月号 - 2017年4月号
   - [遠藤新菜](https://ja.wikipedia.org/wiki/遠藤新菜 "wikilink") - 2014年11月号 - 2018年3月号
   - [岡田紗佳](https://ja.wikipedia.org/wiki/岡田紗佳 "wikilink") - 2012年2月号 - 2018年5月号
-  - [佐谷戸ミナ](https://ja.wikipedia.org/wiki/佐谷戸ミナ "wikilink") - 2015年6月号 - 2018年5月号\[10\]
+  - [佐谷戸ミナ](https://ja.wikipedia.org/wiki/佐谷戸ミナ "wikilink") - 2015年6月号 - 2018年5月号\[9\]
   - [本田翼](../Page/本田翼.md "wikilink") - 2010年3月号 - 2018年7月号 (表紙23回）
   - [岡本あずさ](../Page/岡本あずさ.md "wikilink") - 2012年8月号 - 2018年8月号
   - [岡本杏理](https://ja.wikipedia.org/wiki/岡本杏理 "wikilink") - 2015年6月号 - 2018年12月号
   - [鈴木友菜](https://ja.wikipedia.org/wiki/鈴木友菜 "wikilink") - 2014年5月号 - 2019年4月号 (表紙2回）
   - [泉はる](https://ja.wikipedia.org/wiki/泉はる "wikilink") - 2013年11月号 - 2019年5月号
   - [高田里穂](https://ja.wikipedia.org/wiki/高田里穂 "wikilink") - 2014年11月号 - 2020年2月号
-  - [佐藤エリ](https://ja.wikipedia.org/wiki/佐藤エリ "wikilink") - 2016年6月号 - 2020年2月号\[11\]
+  - [佐藤エリ](https://ja.wikipedia.org/wiki/佐藤エリ "wikilink") - 2016年6月号 - 2020年2月号\[10\]
+  - [山田愛奈](https://ja.wikipedia.org/wiki/山田愛奈 "wikilink") - 2017年6月号 - 2020年5月号\[11\]
 
 ## 表紙モデル
 
@@ -162,6 +162,7 @@
 | 2020年2月号 | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                            | ー      | ※専属モデル以外 |
 | 2020年3月号 | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                          | 4      |          |
 | 2020年4月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                            | 10     |          |
+| 2020年5月号 | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                     | 4      |          |
 
 2019年
 
@@ -405,9 +406,9 @@
 2.  [武田玲奈、『non-no』専属モデルに「最年少なので、皆さんに食らいつく」](http://www.oricon.co.jp/news/2070196/full/) - 2016年4月19日 オリコン
 3.
 4.
-5.
-6.  [欅坂46渡邉理佐ら新ノンノモデル3人が初お披露目](https://mdpr.jp/news/detail/1672412/) - 2017年3月21日 モデルプレス
-7.  [「non-no」新専属モデルに2人加入 “ドール系美女”多屋来夢＆「ZIP\!」お天気キャスター貴島明日香＜GirlsAward 2018 A／W＞](https://mdpr.jp/news/detail/1793113) - モデルプレス、2018年9月16日
+5.  [欅坂46渡邉理佐ら新ノンノモデル3人が初お披露目](https://mdpr.jp/news/detail/1672412/) - 2017年3月21日 モデルプレス
+6.  [「non-no」新専属モデルに2人加入 “ドール系美女”多屋来夢＆「ZIP\!」お天気キャスター貴島明日香＜GirlsAward 2018 A／W＞](https://mdpr.jp/news/detail/1793113) - モデルプレス、2018年9月16日
+7.
 8.
 9.
 10.

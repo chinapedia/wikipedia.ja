@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[スティーブン・R・コヴィー](https://ja.wikipedia.org/wiki/スティーブン・R・コヴィー)から翻訳されています。
 
 
 **スティーブン・リチャーズ・コヴィー**（**Stephen Richards Covey**, [1932年](../Page/1932年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユタ州](../Page/ユタ州.md "wikilink")[ソルトレイクシティ](../Page/ソルトレイクシティ.md "wikilink")生まれの[作家](../Page/作家.md "wikilink")、[経営コンサルタント](../Page/経営コンサルタント.md "wikilink")。

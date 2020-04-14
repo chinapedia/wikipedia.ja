@@ -1,4 +1,4 @@
-> この記事は[SAY](https://ja.wikipedia.org/wiki/SAY)から翻訳されています。
+> この記事は[SAYスーパータイム](https://ja.wikipedia.org/wiki/SAYスーパータイム)から翻訳されています。
 
 
 『**SAYスーパータイム**』（セイスーパータイム）は、[さくらんぼテレビ開局前の](../Page/さくらんぼテレビジョン.md "wikilink")[サービス放送](../Page/サービス放送.md "wikilink")期間中に放送された夕方の[山形県](../Page/山形県.md "wikilink")向け[ローカルワイドニュース番組](../Page/報道番組.md "wikilink")（=『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の山形県ローカル扱い）である。

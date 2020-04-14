@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン)から翻訳されています。
 
 
 「**LOVEマシーン**」（ラブマシーン）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")に発売された。「ラブマ」と略して呼ばれる場合もある。

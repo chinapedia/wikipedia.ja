@@ -1,4 +1,4 @@
-> この記事は[XTC \(\)](https://ja.wikipedia.org/wiki/XTC_\(\))から翻訳されています。
+> この記事は[XTC \(バンド\)](https://ja.wikipedia.org/wiki/XTC_\(バンド\))から翻訳されています。
 
 
 **XTC (エックス・ティー・シー)** とは、[イングランド](../Page/イングランド.md "wikilink")・[ウィルトシャー](../Page/ウィルトシャー.md "wikilink")州[スウィンドン](../Page/スウィンドン.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。バンド名は[アンディ・パートリッジ](../Page/アンディ・パートリッジ.md "wikilink")が「[Ecstasy](../Page/エクスタシー.md "wikilink")」をもじったもの。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR機](https://ja.wikipedia.org/wiki/CR機)から翻訳されています。
 
 
 **CR機**（シーアールき）とは[プリペイドカード](../Page/プリペイドカード.md "wikilink")に対応した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")遊技機\[1\]。**CR**の意味は**Card Reader**の略という説が定説となっている\[2\]。[1992年](../Page/1992年.md "wikilink")登場当時は**CaRd**の略という説や、**Card Reserve**の略とする説など、はっきりしなかった。その後、一部パチンコ攻略誌などが積極的に唱えた**Card Reader**の略という説が主流となっている。

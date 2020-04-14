@@ -1,4 +1,4 @@
-> この記事は[WiLL VS](https://ja.wikipedia.org/wiki/WiLL_VS)から翻訳されています。
+> この記事は[トヨタ・WiLL VS](https://ja.wikipedia.org/wiki/トヨタ・WiLL_VS)から翻訳されています。
 
 
 **WiLL VS** （ウィル ブイエス）とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")から[WiLLブランド第](../Page/WiLL_\(異業種合同プロジェクト\).md "wikilink")2弾として販売された[自動車](../Page/自動車.md "wikilink")である。

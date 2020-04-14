@@ -1,4 +1,4 @@
-> この記事は[TZR](https://ja.wikipedia.org/wiki/TZR)から翻訳されています。
+> この記事は[ヤマハ・TZR](https://ja.wikipedia.org/wiki/ヤマハ・TZR)から翻訳されています。
 
 
 **ヤマハ・TZR**（ティーゼットアール）は、[RZシリーズの後継機種として](../Page/ヤマハ・RZ.md "wikilink")[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")から発売された[オートバイ](../Page/オートバイ.md "wikilink")である。

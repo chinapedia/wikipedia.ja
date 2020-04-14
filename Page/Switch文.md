@@ -1,4 +1,4 @@
-> この記事は[Switch](https://ja.wikipedia.org/wiki/Switch)から翻訳されています。
+> この記事は[Switch文](https://ja.wikipedia.org/wiki/Switch文)から翻訳されています。
 
 
 **switch文**（スイッチぶん）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")において、ある式の値に応じて多分岐を行なう文である。

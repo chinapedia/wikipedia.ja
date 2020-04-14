@@ -1,4 +1,4 @@
-> この記事は[NAVER](https://ja.wikipedia.org/wiki/NAVER)から翻訳されています。
+> この記事は[NAVERブログ](https://ja.wikipedia.org/wiki/NAVERブログ)から翻訳されています。
 
 
 **NAVERブログ**（ネイバーブログ）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の検索ポータルサイト[ネイバー](../Page/ネイバー.md "wikilink")が提供する[ブログ](../Page/ブログ.md "wikilink")サービス。

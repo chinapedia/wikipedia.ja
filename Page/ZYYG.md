@@ -157,9 +157,9 @@
       - [7月21日](../Page/7月21日.md "wikilink") - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
   - 2019年[12月7日](../Page/12月7日.md "wikilink") - **Trouble Beats Meeting Party vol.01**（2公演）
       - 渋谷 ASTRO LAB.
-  - [2020年](../Page/2020年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [3月7日](../Page/3月7日.md "wikilink") - **LIVE ROCKIN' HIGH 2020 ～ALIVE～**（2公演）
-      - [2月22日](../Page/7月14日.md "wikilink") - 下北沢ReG
-      - [3月7日](../Page/7月21日.md "wikilink") - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [5月30日](../Page/5月30日.md "wikilink")\[3\] - **LIVE ROCKIN' HIGH 2020 ～ALIVE～**（2公演）
+      - [2月22日](../Page/2月22日.md "wikilink") - 下北沢ReG
+      - [5月30日](../Page/5月30日.md "wikilink")\[4\] - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
 
 ## ディスコグラフィ
 
@@ -349,7 +349,7 @@
       - DISC4 M-9.「君が欲しくてたまらない」
   - **[FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink")**2006/3/1
       - DISC1 M-11.「君が欲しくてたまらない」DISC2 M-10.「ぜったいに 誰も」
-  - **[LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")**2012/8/8（DVD）\[3\]\[4\]
+  - **[LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")**2012/8/8（DVD）\[5\]\[6\]
       - DISC2 M-25.「君が欲しくてたまらない」DISC2 M-26.「風にまぶしい」DISC2 M-40「ぜったいに 誰も」
 
 ## 注釈
@@ -375,5 +375,7 @@
 1.  [vocal compilation 90's hits Vol.1〜male〜 at the BEING studio](https://ja.wikipedia.org/wiki/vocal_compilation_90's_hits_Vol.1〜male〜_at_the_BEING_studio "wikilink") B-Gram RECORDS JBCJ-5010のライナーノーツ
     取材：斉田　才　文：鈴木大介（アンダウン編集部）より
 2.
-3.  [T-BOLANが再結成、90年代ビーイング勢と全国ツアー敢行](http://natalie.mu/music/news/71154) *[ナタリー](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")*
-4.  [T-BOLAN、WANDS、90's J-ROCKヒット曲を映像で紡ぐDVDからティーザー映像公開](http://www.barks.jp/news/?id=1000081291) *[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")*
+3.  LIVE ROCKIN' HIGH 2020 ～ALIVE～の[大阪hills パン工場での公演分は](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")、[新型コロナウイルスの感染拡大を避けるため](../Page/2019新型コロナウイルス.md "wikilink")、2020年3月7日から2020年5月30日に延期となった。
+4.
+5.  [T-BOLANが再結成、90年代ビーイング勢と全国ツアー敢行](http://natalie.mu/music/news/71154) *[ナタリー](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")*
+6.  [T-BOLAN、WANDS、90's J-ROCKヒット曲を映像で紡ぐDVDからティーザー映像公開](http://www.barks.jp/news/?id=1000081291) *[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")*

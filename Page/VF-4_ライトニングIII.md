@@ -1,4 +1,4 @@
-> この記事は[VF-4 III](https://ja.wikipedia.org/wiki/VF-4_III)から翻訳されています。
+> この記事は[VF-4 ライトニングIII](https://ja.wikipedia.org/wiki/VF-4_ライトニングIII)から翻訳されています。
 
 
 **VF-4 ライトニングIII**（ブイエフ フォー ライトニング スリー *LIGHTNING* III）は、「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」に登場する架空の兵器。初出は、1987年発売の[OVA](../Page/OVA.md "wikilink")『[超時空要塞マクロス Flash Back 2012](../Page/超時空要塞マクロス_Flash_Back_2012.md "wikilink")』。「バルキリー」の通称で呼ばれる[可変戦闘機](../Page/可変戦闘機_\(マクロスシリーズ\).md "wikilink")（ヴァリアブル・ファイター=VF）の一つで、ファイター（航空機）とバトロイド（人型ロボット）、両者の中間形態である[ガウォーク](../Page/ガウォーク.md "wikilink")の三形態に変形する。

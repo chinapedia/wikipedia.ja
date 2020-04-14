@@ -1,4 +1,4 @@
-> この記事は[FNNKANSAI](https://ja.wikipedia.org/wiki/FNNKANSAI)から翻訳されています。
+> この記事は[FNNスーパーニュースKANSAI](https://ja.wikipedia.org/wiki/FNNスーパーニュースKANSAI)から翻訳されています。
 
 
 『**FNNスーパーニュースKANSAI**』（エフエヌエヌスーパーニュースカンサイ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までに[関西テレビで放送された](../Page/関西テレビ放送.md "wikilink")[夕](../Page/夕.md "wikilink")方の[関西ローカル](../Page/関西ローカル.md "wikilink")[ワイドニュース番組](../Page/報道番組.md "wikilink")。

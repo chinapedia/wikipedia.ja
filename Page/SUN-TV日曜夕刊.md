@@ -1,4 +1,4 @@
-> この記事は[SUN-TV](https://ja.wikipedia.org/wiki/SUN-TV)から翻訳されています。
+> この記事は[SUN-TV日曜夕刊](https://ja.wikipedia.org/wiki/SUN-TV日曜夕刊)から翻訳されています。
 
 
 『**SUN-TV日曜夕刊**』（サンテレビにちようゆうかん）は、[サンテレビが放送していた](../Page/サンテレビジョン.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[JAグループの](../Page/農業協同組合.md "wikilink")[兵庫県](../Page/兵庫県.md "wikilink")内各団体（兵庫県内JA、[JAバンク](../Page/JAバンク.md "wikilink")[兵庫信連](https://ja.wikipedia.org/wiki/兵庫県信用農業協同組合連合会 "wikilink")、[JA共済連兵庫](../Page/全国共済農業協同組合連合会.md "wikilink")）の単独提供。

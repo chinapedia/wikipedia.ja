@@ -1,4 +1,4 @@
-> この記事は[IC](https://ja.wikipedia.org/wiki/IC)から翻訳されています。
+> この記事は[ICビンゴ](https://ja.wikipedia.org/wiki/ICビンゴ)から翻訳されています。
 
 
 **ICビンゴ**(IC-BINGO)は、アーケードゲームでメダルを使用するゲーム（いわゆる[メダルゲーム](../Page/メダルゲーム.md "wikilink")）の一ジャンルである。

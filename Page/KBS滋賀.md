@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS滋賀](https://ja.wikipedia.org/wiki/KBS滋賀)から翻訳されています。
 
 
 [OBPビル.jpg](https://ja.wikipedia.org/wiki/File:OBPビル.jpg "fig:OBPビル.jpg") **KBS滋賀**（ケイビーエスしが）は、株式会社[京都放送](../Page/京都放送.md "wikilink")（KBS京都）の[中波](../Page/中波.md "wikilink")放送の支局である**滋賀放送局**の呼称である。

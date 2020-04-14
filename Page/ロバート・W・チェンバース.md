@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ロバート・W・チェンバース](https://ja.wikipedia.org/wiki/ロバート・W・チェンバース)から翻訳されています。
 
 
 [Robert_William_Chambers.jpg](https://ja.wikipedia.org/wiki/File:Robert_William_Chambers.jpg "fig:Robert_William_Chambers.jpg") **ロバート・W・チェンバース**（**Robert W. Chambers**, [1865年](../Page/1865年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink") - [1933年](../Page/1933年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")ブルックリン生まれの[ホラー小説](../Page/ホラー小説.md "wikilink")家、大衆小説家。[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")ロードアイランドの創設者である[ロジャー・ウィリアムズ](../Page/ロジャー・ウィリアムズ.md "wikilink")の直系の子孫。

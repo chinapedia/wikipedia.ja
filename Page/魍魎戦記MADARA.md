@@ -1,4 +1,4 @@
-> この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
+> この記事は[魍魎戦記MADARA](https://ja.wikipedia.org/wiki/魍魎戦記MADARA)から翻訳されています。
 
 
 『**魍魎戦記MADARA**』（もうりょうせんきまだら）は、MADARA PROJECTによる漫画。1987年から[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[マル勝ファミコン](../Page/マル勝ファミコン.md "wikilink")』に連載された。[魍魎戦記MADARAシリーズ](../Page/魍魎戦記MADARAシリーズ.md "wikilink")の第1作目であり、続編と区別するために『**摩陀羅壱**』とも呼ばれる。小説・コンピュータRPG・OVA・ラジオドラマ等へ幅広く展開した、[メディアミックス](../Page/メディアミックス.md "wikilink")の先駆け的作品である。MADARA PROJECTとはシリーズの制作者集団を指し、連載当時は原作の[大塚英志](../Page/大塚英志.md "wikilink")、作画の[田島昭宇](../Page/田島昭宇.md "wikilink")、世界設定担当の阿賀伸宏（当時は[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")所属）の3人であった。

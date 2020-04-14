@@ -69,6 +69,7 @@
   - [29](https://ja.wikipedia.org/wiki/29_\(アルバム\) "wikilink")（2016年10月26日 ZACL-9094）
   - [Best Of Best 25th Anniversary](https://ja.wikipedia.org/wiki/Best_Of_Best_25th_Anniversary "wikilink")（2017年4月26日 ZACL-9095〜9096）
   - [30](https://ja.wikipedia.org/wiki/30（アルバム） "wikilink")（2017年10月25日 ZACL-9097）
+  - [31](https://ja.wikipedia.org/wiki/31_\(DIMENSIONのアルバム\) "wikilink")（2020年5月6日 ZACL-9116）
 
 ### CD-BOX
 
@@ -77,16 +78,6 @@
 ### DVD
 
   - BEST LIVE SELECTIONS 〜10th Anniversary〜（2003年4月23日 ONBD-7026)
-  - DIMENSION LIVE 2005 IMPRESSIONS TOUR in STB（2006年4月19日 ONBD-7064）
-  - DIMENSION Live 2012 〜20th Anniversary〜（2013年3月20日 ZABL-5016/17）
-
-### CD-BOX
-
-  - [DIMENSION 〜20th Anniversary BOX〜](https://ja.wikipedia.org/wiki/DIMENSION_〜20th_Anniversary_BOX〜 "wikilink")（2012年4月18日 ZACD-1001）
-
-### DVD
-
-  - BEST LIVE SELECTIONS 〜10th Anniversary〜（2003年4月23日 ONBD-7026）
   - DIMENSION LIVE 2005 IMPRESSIONS TOUR in STB（2006年4月19日 ONBD-7064）
   - DIMENSION Live 2012 〜20th Anniversary〜（2013年3月20日 ZABL-5016/17）
 

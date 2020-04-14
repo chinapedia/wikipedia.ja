@@ -1,4 +1,4 @@
-> この記事は[PartII ](https://ja.wikipedia.org/wiki/PartII_)から翻訳されています。
+> この記事は[ファミコン探偵倶楽部PartII うしろに立つ少女](https://ja.wikipedia.org/wiki/ファミコン探偵倶楽部PartII_うしろに立つ少女)から翻訳されています。
 
 
 『**ファミコン探偵倶楽部PARTII うしろに立つ少女**』（ファミコンたんていくらぶパートツー うしろにたつしょうじょ）は、[1989年](../Page/1989年.md "wikilink")に日本の[任天堂](../Page/任天堂.md "wikilink")から発売された[ファミリーコンピュータ ディスクシステム用](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[コマンド選択式アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ MUSIC FIGHTER](https://ja.wikipedia.org/wiki/_MUSIC_FIGHTER)から翻訳されています。
+> この記事は[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER)から翻訳されています。
 
 
 『**音楽戦士 MUSIC FIGHTER**』（おんがくせんし ミュージックファイター） は、[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（一部地域除く）他で深夜に放送された[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

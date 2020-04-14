@@ -1,4 +1,4 @@
-> この記事は[SeptemCharm ](https://ja.wikipedia.org/wiki/SeptemCharm_)から翻訳されています。
+> この記事は[SeptemCharm まじかるカナン](https://ja.wikipedia.org/wiki/SeptemCharm_まじかるカナン)から翻訳されています。
 
 
 『**SeptemCharm まじかるカナン**』（セプティムチャーム まじかるカナン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[Terios](../Page/Terios.md "wikilink")から発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。
@@ -13,7 +13,7 @@
 
 ※各キャラクターの[声優](../Page/声優.md "wikilink")表記は、左から ゲーム / アダルトアニメ / テレビアニメ の順。また、特記のない限り、説明はゲーム版に準拠。
 
-  - ナツキ
+  - ナツキ / 那津樹
     声：[小池竹蔵](../Page/小池竹蔵.md "wikilink") / [菅沼久義](../Page/菅沼久義.md "wikilink")
     ゲーム版の主人公。魔法の国から「種」を取り戻すためにやって来た。ちはやの魔法戦士としての資質を見出し、パートナーに選ぶ。普段は人間の少年の姿をしているが、魔力が不足すると本来の小動物の姿になってしまう。非常にスケベ。
   - 柊 ちはや（ひいらぎ ちはや）
@@ -277,7 +277,7 @@
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 <td><p>2005年<a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p>月曜 26:00 - 26:30</p></td>
 <td><p><a href="../Page/日本における衛星放送.md" title="wikilink">BS放送</a></p></td>

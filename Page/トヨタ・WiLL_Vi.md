@@ -1,4 +1,4 @@
-> この記事は[WiLL Vi](https://ja.wikipedia.org/wiki/WiLL_Vi)から翻訳されています。
+> この記事は[トヨタ・WiLL Vi](https://ja.wikipedia.org/wiki/トヨタ・WiLL_Vi)から翻訳されています。
 
 
 **WiLL Vi** （ウィル ブイアイ）とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[WiLLブランド第](../Page/WiLL_\(異業種合同プロジェクト\).md "wikilink")1弾として[2000年](../Page/2000年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に登場し、[2001年](../Page/2001年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで販売していた[乗用車](../Page/乗用車.md "wikilink")である。製造は[セントラル自動車](../Page/セントラル自動車.md "wikilink")（現・[トヨタ自動車東日本](https://ja.wikipedia.org/wiki/トヨタ自動車東日本 "wikilink")）が担当していた。

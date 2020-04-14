@@ -193,7 +193,7 @@ POD-001</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2017年10月4日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_GIFT_(Hi-STANDARDのアルバム)" title="wikilink">THE GIFT</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_GIFT_(Hi-STANDARDのアルバム).md" title="wikilink">THE GIFT</a></strong></p></td>
 <td><p>PZCA-81</p></td>
 </tr>
 <tr class="even">

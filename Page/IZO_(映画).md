@@ -1,4 +1,4 @@
-> この記事は[IZO \(\)](https://ja.wikipedia.org/wiki/IZO_\(\))から翻訳されています。
+> この記事は[IZO \(映画\)](https://ja.wikipedia.org/wiki/IZO_\(映画\))から翻訳されています。
 
 
 『**IZO**』（イゾウ）は、[2004年](../Page/2004年.md "wikilink")公開の[三池崇史](../Page/三池崇史.md "wikilink")監督による[日本映画](../Page/日本映画.md "wikilink")。[R-15指定](https://ja.wikipedia.org/wiki/映画のレイティングシステム#日本 "wikilink")。

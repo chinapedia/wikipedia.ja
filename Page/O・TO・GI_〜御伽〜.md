@@ -1,4 +1,4 @@
-> この記事は[OTOGI ](https://ja.wikipedia.org/wiki/OTOGI_)から翻訳されています。
+> この記事は[O・TO・GI 〜御伽〜](https://ja.wikipedia.org/wiki/O・TO・GI_〜御伽〜)から翻訳されています。
 
 
 『**O・TO・GI ～御伽～**』（おとぎ）は、[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に定価6800円（税別）で発売された[Xbox向け和風](../Page/Xbox_\(ゲーム機\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

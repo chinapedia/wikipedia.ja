@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSニュースワイドアングル](https://ja.wikipedia.org/wiki/MBSニュースワイドアングル)から翻訳されています。
 
 
 **MBSニュースワイドアングル**は、[毎日放送](../Page/毎日放送.md "wikilink")ラジオ（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）で[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの間放送されたニュース報道および情報系の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

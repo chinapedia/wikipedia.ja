@@ -1,4 +1,4 @@
-> この記事は[ Fighting Evolution](https://ja.wikipedia.org/wiki/_Fighting_Evolution)から翻訳されています。
+> この記事は[ウルトラマン Fighting Evolution](https://ja.wikipedia.org/wiki/ウルトラマン_Fighting_Evolution)から翻訳されています。
 
 
 『**ウルトラマン Fighting Evolution**』（ウルトラマン ファイティング・エボリューション）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")（2008年4月以降は[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")･バンプレストレーベル）から発売されている[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")に登場する[ウルトラマンや](../Page/ウルトラマン一覧.md "wikilink")[ウルトラ怪獣・宇宙人を操って戦う](../Page/ウルトラ怪獣一覧.md "wikilink")3D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズである。

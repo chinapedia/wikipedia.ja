@@ -1,4 +1,4 @@
-> この記事は[NISSAN](https://ja.wikipedia.org/wiki/NISSAN)から翻訳されています。
+> この記事は[NISSANビジネスサポートトピックス](https://ja.wikipedia.org/wiki/NISSANビジネスサポートトピックス)から翻訳されています。
 
 
 '''NISSANビジネスサポートトピックス '''（にっさんビジネスサポートトピックス）は、[日産自動車](../Page/日産自動車.md "wikilink")[単独提供の](../Page/一社提供.md "wikilink")[NRN系列で月](../Page/全国ラジオネットワーク.md "wikilink")～金曜（土曜日は[2006年](../Page/2006年.md "wikilink")4月より日産がスポンサーから撤退）に放送していた10分間の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。（ただし地域によっては同番組を朝ワイド番組の1コーナーとして内包していた。また一部地域ではタイトルも異なった。例:STVラジオ「オハヨー\!ジャーナルタイム」→「日産オハヨー\!ジャーナル」（2007年3月まで、4月以降は全国用タイトルを使用）、ニッポン放送・土曜（土曜時代）のみ「日産モーニングリクエスト」）
@@ -42,7 +42,7 @@
   - [西日本放送](../Page/西日本放送.md "wikilink")（7:45～7:57　[さわやかラジオ きょうも一日きし、快晴\!](../Page/さわやかラジオ_きょうも一日きし、快晴!.md "wikilink")）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（7:34～7:49　[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（7:30～7:40）
-  - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）
+  - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（8:20～8:25　今日も朝からNBC\!）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（7:26～7:35　史郎と扶美の日刊・朝まる）
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（7:25～7:35）

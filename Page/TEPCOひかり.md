@@ -1,4 +1,4 @@
-> この記事は[TEPCO](https://ja.wikipedia.org/wiki/TEPCO)から翻訳されています。
+> この記事は[TEPCOひかり](https://ja.wikipedia.org/wiki/TEPCOひかり)から翻訳されています。
 
 
 [TEPCOひかり_2005_(7360159198).jpg](https://ja.wikipedia.org/wiki/File:TEPCOひかり_2005_\(7360159198\).jpg "fig:TEPCOひかり_2005_(7360159198).jpg")）\]\] **TEPCOひかり**（テプコひかり）とは、

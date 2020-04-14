@@ -1,4 +1,4 @@
-> この記事は[NOVA](https://ja.wikipedia.org/wiki/NOVA)から翻訳されています。
+> この記事は[NOVAうさぎ](https://ja.wikipedia.org/wiki/NOVAうさぎ)から翻訳されています。
 
 
 **NOVAうさぎ**（ノヴァうさぎ）は、英会話スクール企業である[株式会社NOVAの企業](../Page/NOVA.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")である。

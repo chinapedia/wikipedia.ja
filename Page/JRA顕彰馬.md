@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA顕彰馬](https://ja.wikipedia.org/wiki/JRA顕彰馬)から翻訳されています。
 
 
 **JRA顕彰馬**（ジェイアールエーけんしょうば）とは、[中央競馬](../Page/中央競馬.md "wikilink")の発展に多大な貢献のあった[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")の功績を讃え、後世まで[顕彰](../Page/顕彰.md "wikilink")していくために日本中央競馬会30周年記念事業（昭和59年）の一環として制度を発足し[1984年](../Page/1984年.md "wikilink")に制定されたものである。
@@ -62,6 +62,7 @@
 <table>
 <thead>
 <tr class="header">
+<th><p>画像</p></th>
 <th><p>馬名</p></th>
 <th><p>性</p></th>
 <th><p>生年</p></th>
@@ -71,14 +72,16 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:kumohata.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/クモハタ.md" title="wikilink">クモハタ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1936年</p></td>
 <td><p>1984年</p></td>
 <td><p>1939年 - <a href="https://ja.wikipedia.org/wiki/東京優駿" title="wikilink">東京優駿</a>競走<br />
-1952年～1957年 - リーディングサイアー</p></td>
+1952年～1957年 - <a href="../Page/リーディングサイアー.md" title="wikilink">リーディングサイアー</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:StLite1.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/セントライト.md" title="wikilink">セントライト</a></p></td>
 <td><p>牡</p></td>
 <td><p>1938年</p></td>
@@ -86,6 +89,7 @@
 <td><p>1941年 - <a href="../Page/皐月賞.md" title="wikilink">横濱農林省賞典4歳呼馬</a>、東京優駿競走、<a href="../Page/菊花賞.md" title="wikilink">京都農商省賞典4歳呼馬</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Kurifuji.JPG" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/クリフジ.md" title="wikilink">クリフジ</a></p></td>
 <td><p>牝</p></td>
 <td><p>1940年</p></td>
@@ -93,13 +97,15 @@
 <td><p>1943年 - 東京優駿競走、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">阪神優駿牝馬</a>、京都農商省賞典4歳呼馬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/トキツカゼ.md" title="wikilink">トキツカゼ</a></p></td>
+<td><p>|<a href="../Page/トキツカゼ.md" title="wikilink">トキツカゼ</a></p></td>
 <td><p>牝</p></td>
 <td><p>1944年</p></td>
 <td><p>1984年</p></td>
 <td><p>1947年 - <a href="../Page/皐月賞.md" title="wikilink">農林省賞典</a>、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">優駿牝馬</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Tosamidori.jpg" title="fig:Tosamidori.jpg">Tosamidori.jpg</a></p></td>
 <td><p><a href="../Page/トサミドリ.md" title="wikilink">トサミドリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1946年</p></td>
@@ -108,6 +114,7 @@
 <a href="../Page/八大競走.md" title="wikilink">八大競走</a>勝ち馬7頭の父</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:tokino_minoru.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/トキノミノル.md" title="wikilink">トキノミノル</a></p></td>
 <td><p>牡</p></td>
 <td><p>1948年</p></td>
@@ -115,6 +122,7 @@
 <td><p>1951年 - 皐月賞、東京優駿</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Meiji_hikari.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/メイヂヒカリ.md" title="wikilink">メイヂヒカリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1952年</p></td>
@@ -124,6 +132,7 @@
 1956年 - 天皇賞・春、<a href="https://ja.wikipedia.org/wiki/有馬記念" title="wikilink">中山グランプリ</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Hakuchikara.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ハクチカラ.md" title="wikilink">ハクチカラ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1953年</p></td>
@@ -133,21 +142,24 @@
 1959年 - ワシントンバースデーハンデキャップ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/セイユウ.md" title="wikilink">セイユウ</a></p></td>
+<td><p>|<a href="../Page/セイユウ.md" title="wikilink">セイユウ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1954年</p></td>
 <td><p>1985年</p></td>
 <td><p>1957年 - <a href="../Page/読売カップ.md" title="wikilink">読売カップ</a>・春、<a href="../Page/セントライト記念.md" title="wikilink">セントライト記念</a>、読売カップ・秋</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/コダマ_(競走馬).md" title="wikilink">コダマ</a></p></td>
+<td><p>|<a href="../Page/コダマ_(競走馬).md" title="wikilink">コダマ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1957年</p></td>
 <td><p>1990年</p></td>
 <td><p>1960年 - 皐月賞、東京優駿<br />
 1962年 - 宝塚記念</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Shinzan_in_Tanigawa_Farm.JPG" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/シンザン.md" title="wikilink">シンザン</a></p></td>
 <td><p>牡</p></td>
 <td><p>1961年</p></td>
@@ -156,31 +168,35 @@
 1965年 - <a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a>、天皇賞・秋、有馬記念</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/スピードシンボリ.md" title="wikilink">スピードシンボリ</a></p></td>
+<td><p>|<a href="../Page/スピードシンボリ.md" title="wikilink">スピードシンボリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1963年</p></td>
 <td><p>1990年</p></td>
 <td><p>1967年 - 天皇賞・春<br />
 1969年 - 有馬記念<br />
 1970年 - 宝塚記念、有馬記念</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/タケシバオー.md" title="wikilink">タケシバオー</a></p></td>
+<td><p>|<a href="../Page/タケシバオー.md" title="wikilink">タケシバオー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1965年</p></td>
 <td><p>2004年</p></td>
 <td><p>1967年 - 朝日杯3歳ステークス<br />
 1969年 - 天皇賞・春、<a href="../Page/スプリンターズステークス.md" title="wikilink">英国フェア開催記念</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/グランドマーチス.md" title="wikilink">グランドマーチス</a></p></td>
+<td><p>|<a href="../Page/グランドマーチス.md" title="wikilink">グランドマーチス</a></p></td>
 <td><p>牡</p></td>
 <td><p>1969年</p></td>
 <td><p>1985年</p></td>
 <td><p>1974年 - <a href="../Page/中山大障害.md" title="wikilink">中山大障害</a>・春、中山大障害・秋、<a href="../Page/京都大障害.md" title="wikilink">京都大障害</a>・秋<br />
 1975年 - 中山大障害・春、京都大障害・春、中山大障害・秋、京都大障害・秋</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Statue_of_Haiseiko_001ja.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ハイセイコー.md" title="wikilink">ハイセイコー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1970年</p></td>
@@ -189,29 +205,33 @@
 1974年 - 宝塚記念</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/トウショウボーイ.md" title="wikilink">トウショウボーイ</a></p></td>
+<td><p>|<a href="../Page/トウショウボーイ.md" title="wikilink">トウショウボーイ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1973年</p></td>
 <td><p>1984年</p></td>
 <td><p>1976年 - 皐月賞、有馬記念<br />
 1977年 - 宝塚記念</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/テンポイント.md" title="wikilink">テンポイント</a></p></td>
+<td><p>|<a href="../Page/テンポイント.md" title="wikilink">テンポイント</a></p></td>
 <td><p>牡</p></td>
 <td><p>1973年</p></td>
 <td><p>1990年</p></td>
 <td><p>1975年 - <a href="../Page/阪神ジュベナイルフィリーズ.md" title="wikilink">阪神3歳ステークス</a><br />
 1977年 - 天皇賞・春、有馬記念</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/マルゼンスキー.md" title="wikilink">マルゼンスキー</a></p></td>
+<td><p>|<a href="../Page/マルゼンスキー.md" title="wikilink">マルゼンスキー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1974年</p></td>
 <td><p>1990年</p></td>
 <td><p>1976年 - 朝日杯3歳ステークス</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Mrcb19831113.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ミスターシービー.md" title="wikilink">ミスターシービー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1980年</p></td>
@@ -220,6 +240,7 @@
 1984年 - 天皇賞・秋</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Symboli_rudolf.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/シンボリルドルフ.md" title="wikilink">シンボリルドルフ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1981年</p></td>
@@ -228,6 +249,7 @@
 1985年 - 天皇賞・春、<a href="https://ja.wikipedia.org/wiki/ジャパンカップ" title="wikilink">ジャパンカップ</a>、有馬記念</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:mejiro_r.jpg" title="fig:mejiro_r.jpg">mejiro_r.jpg</a></p></td>
 <td><p><a href="../Page/メジロラモーヌ.md" title="wikilink">メジロラモーヌ</a></p></td>
 <td><p>牝</p></td>
 <td><p>1983年</p></td>
@@ -235,6 +257,7 @@
 <td><p>1986年 - <a href="https://ja.wikipedia.org/wiki/桜花賞" title="wikilink">桜花賞</a>、優駿牝馬、<a href="../Page/エリザベス女王杯.md" title="wikilink">エリザベス女王杯</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Oguri_Cap_in_Yushun_Stallion_station.jpg" title="fig:Oguri_Cap_in_Yushun_Stallion_station.jpg">Oguri_Cap_in_Yushun_Stallion_station.jpg</a></p></td>
 <td><p><a href="../Page/オグリキャップ.md" title="wikilink">オグリキャップ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1985年</p></td>
@@ -244,6 +267,7 @@
 1990年 - <a href="https://ja.wikipedia.org/wiki/安田記念" title="wikilink">安田記念</a>、有馬記念</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Mejiromakkui-n.JPG" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/メジロマックイーン.md" title="wikilink">メジロマックイーン</a></p></td>
 <td><p>牡</p></td>
 <td><p>1987年</p></td>
@@ -254,6 +278,7 @@
 1993年 - 宝塚記念</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Tokai_Teio_20000923F01.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/トウカイテイオー.md" title="wikilink">トウカイテイオー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1988年</p></td>
@@ -263,6 +288,7 @@
 1993年 - 有馬記念</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Narita_Brian_19960309R1.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ナリタブライアン.md" title="wikilink">ナリタブライアン</a></p></td>
 <td><p>牡</p></td>
 <td><p>1991年</p></td>
@@ -271,6 +297,7 @@
 1994年 - 皐月賞、東京優駿、菊花賞、有馬記念</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Taiki_Shuttle.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/タイキシャトル.md" title="wikilink">タイキシャトル</a></p></td>
 <td><p>牡</p></td>
 <td><p>1994年</p></td>
@@ -279,6 +306,7 @@
 1998年 - 安田記念、<a href="../Page/ジャック・ル・マロワ賞.md" title="wikilink">ジャック・ル・マロワ賞</a>、マイルチャンピオンシップ</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:El_Condor_Pasa_19991128I1.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エルコンドルパサー" title="wikilink">エルコンドルパサー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1995年</p></td>
@@ -287,6 +315,7 @@
 1999年 - <a href="../Page/サンクルー大賞.md" title="wikilink">サンクルー大賞</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:TM_Opera_O.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/テイエムオペラオー.md" title="wikilink">テイエムオペラオー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1996年</p></td>
@@ -296,14 +325,17 @@
 2001年 - 天皇賞・春</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Deep_Impact(horse)20060430R1.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ディープインパクト_(競走馬).md" title="wikilink">ディープインパクト</a></p></td>
 <td><p>牡</p></td>
 <td><p>2002年</p></td>
 <td><p>2008年</p></td>
 <td><p>2005年 - 皐月賞、東京優駿、菊花賞<br />
-2006年 - 天皇賞・春、宝塚記念、ジャパンカップ、有馬記念</p></td>
+2006年 - 天皇賞・春、宝塚記念、ジャパンカップ、有馬記念<br />
+2012年～ - リーディングサイアー</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Vodka(horse)_20070527R1.jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="../Page/ウオッカ.md" title="wikilink">ウオッカ</a></p></td>
 <td><p>牝</p></td>
 <td><p>2004年</p></td>
@@ -314,6 +346,7 @@
 2009年 - <a href="../Page/ヴィクトリアマイル.md" title="wikilink">ヴィクトリアマイル</a>、安田記念、ジャパンカップ</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg" title="fig:Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg">Lord_Kanaloa_Sprinters_Stakes_2013(IMG1).jpg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロードカナロア" title="wikilink">ロードカナロア</a></p></td>
 <td><p>牡</p></td>
 <td><p>2008年</p></td>
@@ -322,6 +355,7 @@
 2013年 - <a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a>、安田記念、スプリンターズステークス、香港スプリント</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Orfevre20111225(2).jpg" title="wikilink">135px</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オルフェーヴル" title="wikilink">オルフェーヴル</a></p></td>
 <td><p>牡</p></td>
 <td><p>2008年</p></td>
@@ -331,6 +365,7 @@
 2013年 - 有馬記念</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Gentildonna_Arima_Kinen_2014(IMG2).jpg" title="fig:Gentildonna_Arima_Kinen_2014(IMG2).jpg">Gentildonna_Arima_Kinen_2014(IMG2).jpg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェンティルドンナ" title="wikilink">ジェンティルドンナ</a></p></td>
 <td><p>牝</p></td>
 <td><p>2009年</p></td>
@@ -672,10 +707,6 @@
       - モーリス 89 (46.1%)
       - スペシャルウィーク　88 (45.6%)　
       - ヴィクトワールピサ 46 (23.8%)
-
-## ギャラリー
-
-ファイル:kumohata.jpg|[クモハタ](../Page/クモハタ.md "wikilink") ファイル:StLite1.jpg|[セントライト](../Page/セントライト.md "wikilink") ファイル:Kurifuji.JPG|[クリフジ](../Page/クリフジ.md "wikilink") ファイル:tokino_minoru.jpg|[トキノミノル](../Page/トキノミノル.md "wikilink") ファイル:Meiji hikari.jpg|[メイヂヒカリ](../Page/メイヂヒカリ.md "wikilink") ファイル:Hakuchikara.jpg|[ハクチカラ](../Page/ハクチカラ.md "wikilink") ファイル:Shinzan in Tanigawa Farm.JPG|[シンザン](../Page/シンザン.md "wikilink") ファイル:Statue of Haiseiko 001ja.jpg|[ハイセイコー](../Page/ハイセイコー.md "wikilink") ファイル:Mrcb19831113.jpg|[ミスターシービー](../Page/ミスターシービー.md "wikilink") ファイル:Symboli rudolf.jpg|[シンボリルドルフ](../Page/シンボリルドルフ.md "wikilink") <File:mejiro> r.jpg|[メジロラモーヌ](../Page/メジロラモーヌ.md "wikilink") <File:Oguri> Cap in Yushun Stallion station.jpg|[オグリキャップ](../Page/オグリキャップ.md "wikilink") ファイル:Mejiromakkui-n.JPG|[メジロマックイーン](../Page/メジロマックイーン.md "wikilink") ファイル:Tokai_Teio_20000923F01.jpg|[トウカイテイオー](../Page/トウカイテイオー.md "wikilink") ファイル:Narita Brian 19960309R1.jpg|[ナリタブライアン](../Page/ナリタブライアン.md "wikilink") ファイル:Taiki Shuttle.jpg|[タイキシャトル](../Page/タイキシャトル.md "wikilink") ファイル:El_Condor_Pasa_19991128I1.jpg|[エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") ファイル:TM Opera O.jpg|[テイエムオペラオー](../Page/テイエムオペラオー.md "wikilink") ファイル:Deep_Impact(horse)20060430R1.jpg|[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink") ファイル:Vodka(horse)_20070527R1.jpg|[ウオッカ](../Page/ウオッカ.md "wikilink") ファイル:Orfevre20111225(2).jpg|[オルフェーヴル](https://ja.wikipedia.org/wiki/オルフェーヴル "wikilink") <File:Gentildonna> Arima Kinen 2014(IMG2).jpg|[ジェンティルドンナ](https://ja.wikipedia.org/wiki/ジェンティルドンナ "wikilink") <File:Lord> Kanaloa Sprinters Stakes 2013(IMG1).jpg|[ロードカナロア](https://ja.wikipedia.org/wiki/ロードカナロア "wikilink")
 
 ## 追悼競走
 

@@ -1,4 +1,4 @@
-> この記事は[MITSUBISHI MOTORS SPECIAL TALK 2 TALK](https://ja.wikipedia.org/wiki/MITSUBISHI_MOTORS_SPECIAL_TALK_2_TALK)から翻訳されています。
+> この記事は[MITSUBISHI MOTORS SPECIAL 赤坂泰彦・TALK 2 TALK](https://ja.wikipedia.org/wiki/MITSUBISHI_MOTORS_SPECIAL_赤坂泰彦・TALK_2_TALK)から翻訳されています。
 
 
 『**MITSUBISHI MOTORS SPECIAL 赤坂泰彦・TALK 2 TALK**』（**ミツビシ·モータース·スペシャル·あかさかやすひこ·トーク·ツー·トーク**）とは、[TBSラジオ](../Page/TBSラジオ.md "wikilink")などで土曜日の午後に放送されていた[ラジオの](../Page/ラジオ番組.md "wikilink")[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")番組。

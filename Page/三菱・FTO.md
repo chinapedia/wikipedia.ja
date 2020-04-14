@@ -1,4 +1,4 @@
-> この記事は[FTO](https://ja.wikipedia.org/wiki/FTO)から翻訳されています。
+> この記事は[三菱・FTO](https://ja.wikipedia.org/wiki/三菱・FTO)から翻訳されています。
 
 
 **FTO**（エフティーオー）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していた2ドアの[ノッチバックスポーツクーペ](https://ja.wikipedia.org/wiki/ノッチバックスポーツクーペ "wikilink")である。

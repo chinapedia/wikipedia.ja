@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ハロルド・E・パーマー](https://ja.wikipedia.org/wiki/ハロルド・E・パーマー)から翻訳されています。
 
 
 **ハロルド・E・パーマー**（Harold E. Palmer, [1877年](../Page/1877年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - [1949年](../Page/1949年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")）は、[大正](../Page/大正.md "wikilink")・[昭和](../Page/昭和.md "wikilink")期を代表する応用[英語学](../Page/英語学.md "wikilink")者・英語[教育学者](https://ja.wikipedia.org/wiki/教育学者 "wikilink")・[音声学](../Page/音声学.md "wikilink")者。Speechとしての言語（言語運用）と、Codeとしての言語（言語体系）を区別して、これを[言語教育](../Page/言語教育.md "wikilink")に適用し、20世紀の応用言語学の発展に寄与した。またspeechをさらに第一次伝達（Primary Speech）と第二次伝達（Secondary Speech）の二要素に分けている。

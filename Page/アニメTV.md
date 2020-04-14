@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[アニメTV](https://ja.wikipedia.org/wiki/アニメTV)から翻訳されています。
 
 
 『**アニメTV**』（Anime-TV、アニメティーヴィー）は、[2000年](../Page/2000年.md "wikilink")10月から[2015年](../Page/2015年.md "wikilink")9月まで関東圏の[独立放送局](../Page/独立放送局.md "wikilink")である[tvkや](../Page/テレビ神奈川.md "wikilink")[TOKYO MXなどで放送していた](../Page/東京メトロポリタンテレビジョン.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")系[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。制作はエイアンドジー。

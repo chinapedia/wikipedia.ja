@@ -1,4 +1,4 @@
-> この記事は[plus](https://ja.wikipedia.org/wiki/plus)から翻訳されています。
+> この記事は[知識plus](https://ja.wikipedia.org/wiki/知識plus)から翻訳されています。
 
 
 **知識plus**（ちしきぷらす）とは、[インターネット](../Page/インターネット.md "wikilink")上の[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")[サイト](../Page/ウェブサイト.md "wikilink")、[ハンゲーム](../Page/ハンゲーム.md "wikilink")のサービスの一つで、疑問を解決する「知識plus」と意見募集を行う「アンケートplus」の総称である。2003年12月18日から2009年6月24日まで提供されていた。

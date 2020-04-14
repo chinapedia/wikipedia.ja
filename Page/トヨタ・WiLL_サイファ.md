@@ -1,4 +1,4 @@
-> この記事は[WiLL ](https://ja.wikipedia.org/wiki/WiLL_)から翻訳されています。
+> この記事は[トヨタ・WiLL サイファ](https://ja.wikipedia.org/wiki/トヨタ・WiLL_サイファ)から翻訳されています。
 
 
 **WiLL サイファ**（ウィル サイファ、*WiLL Cypha*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")でかつて生産、販売されていた[ハッチバック](../Page/ハッチバック.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
+> この記事は[CPU年表](https://ja.wikipedia.org/wiki/CPU年表)から翻訳されています。
 
 
 **CPU年表**（CPUねんぴょう）の記事では、[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")として実装された[CPU](../Page/CPU.md "wikilink")に関する年表を掲載する。記事名は「CPU年表」となっているが、マイクロプロセッサ以前のCPUについては殆ど全く（まだ）書かれていない。
@@ -397,11 +397,11 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   -
     HPC向け8コアRISCプロセッサ。理化学研究所の「[京](https://ja.wikipedia.org/wiki/京_\(スーパーコンピュータ\) "wikilink")」に搭載するために開発された。
 
-## 2010年代 CPUのSoC化
+## 2010年代前半 CPUのSoC化
 
-2000年代には、クロック周波数当たりの性能を稼ぐために[SIMD](../Page/SIMD.md "wikilink")などCPUに内蔵された命令の複雑化・多様化が進み､並列処理に特化した[GPUなどの専用回路もCPUの一機能として取り込まれつつある](../Page/Graphics_Processing_Unit.md "wikilink")。
+2000年代以降、クロック周波数当たりの性能を稼ぐために[SIMD](../Page/SIMD.md "wikilink")などCPUに内蔵された命令の複雑化・多様化が進み､並列処理に特化した[GPUなどの専用回路もCPUの一機能として取り込まれつつある](../Page/Graphics_Processing_Unit.md "wikilink")。
 
-パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進み、汎用CPUの分野においてはx86の勢力がますます強まった。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")が標準の座を固め、[Atomなどのx](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")86プロセッサの進出は不調に終わった。
+パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進んだ。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")が標準の座を固め、[Atomなどのx](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")86プロセッサの進出は不調に終わった。
 
   - 2010年2月9日 IBM、[POWER7を発表](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")。
 
@@ -493,6 +493,16 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   -
     前年に発表した64ビットのARMv8アーキテクチャに準拠する、初のCPUコア。
     アウトオブオーダー機構を搭載し性能を重視したA57とインオーダー構造で消費電力を重視したA53を組み合わせる（[big.LITTLE](https://ja.wikipedia.org/wiki/big.LITTLE "wikilink")）仕様は、ARMの伝統的な市場であるモバイルを中心ターゲットとしているが、高密度サーバも狙う。
+
+<!-- end list -->
+
+  - 2013年2月18日　 オラクル、[SPARC T5プロセッサを発表](https://ja.wikipedia.org/wiki/SPARC_T5 "wikilink")。
+
+<!-- end list -->
+
+  -
+    64ビットマルチコアCPU。コアは既存製品の[SPARC T4と変わらないS](https://ja.wikipedia.org/wiki/SPARC_T4 "wikilink")3コアだが、16コアで最大128スレッドの実行が可能となった。
+    また同日には[富士通](../Page/富士通.md "wikilink")がSPARC64 Xプロセッサを発表した。16個のCPUコアを内蔵し、最大32のスレッドを実行できる。
 
 <!-- end list -->
 

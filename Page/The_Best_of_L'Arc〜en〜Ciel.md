@@ -1,4 +1,4 @@
-> この記事は[The Best of L\'ArcenCiel](https://ja.wikipedia.org/wiki/The_Best_of_L\'ArcenCiel)から翻訳されています。
+> この記事は[The Best of L\'Arc〜en〜Ciel](https://ja.wikipedia.org/wiki/The_Best_of_L\'Arc〜en〜Ciel)から翻訳されています。
 
 
 『**The Best of L'Arc〜en〜Ciel**』（ザ ベスト オブ ラルク アン シエル）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。活動休止中の[2003年](../Page/2003年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[R1-Z](https://ja.wikipedia.org/wiki/R1-Z)から翻訳されています。
+> この記事は[ヤマハ・R1-Z](https://ja.wikipedia.org/wiki/ヤマハ・R1-Z)から翻訳されています。
 
 
 **R1-Z** （アールワンズィー）とは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が発売した[2ストロークエンジンを搭載する](../Page/2ストローク機関.md "wikilink")[ネイキッド型](../Page/ネイキッド_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

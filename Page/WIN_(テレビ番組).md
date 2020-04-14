@@ -1,4 +1,4 @@
-> この記事は[WIN \(\)](https://ja.wikipedia.org/wiki/WIN_\(\))から翻訳されています。
+> この記事は[WIN \(テレビ番組\)](https://ja.wikipedia.org/wiki/WIN_\(テレビ番組\))から翻訳されています。
 
 
 『**WIN**』（ウィン）は、[1996年](../Page/1996年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組。

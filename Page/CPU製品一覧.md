@@ -1,4 +1,4 @@
-> この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
+> この記事は[CPU製品一覧](https://ja.wikipedia.org/wiki/CPU製品一覧)から翻訳されています。
 
 
 **CPU製品一覧**（CPUせいひんいちらん）は、[CPU](../Page/CPU.md "wikilink") （[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")） 製品（およびそのメーカー等）の一覧である。

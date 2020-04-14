@@ -1,4 +1,4 @@
-> この記事は[ your smiles in my heart](https://ja.wikipedia.org/wiki/_your_smiles_in_my_heart)から翻訳されています。
+> この記事は[あいたくて… 〜your smiles in my heart〜](https://ja.wikipedia.org/wiki/あいたくて…_〜your_smiles_in_my_heart〜)から翻訳されています。
 
 
 『**あいたくて… 〜your smiles in my heart〜**』（あいたくて ユア・スマイルズ・イン・マイ・ハート）は、[2000年](../Page/2000年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から[PlayStation向けに発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")である。「初恋は実らない」というテーマ性を持たせている。

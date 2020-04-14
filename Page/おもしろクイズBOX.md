@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[おもしろクイズBOX](https://ja.wikipedia.org/wiki/おもしろクイズBOX)から翻訳されています。
 
 
 『**おもしろクイズBOX**』（おもしろクイズボックス）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[ロート製薬](../Page/ロート製薬.md "wikilink")の一社提供。放送時間は毎週月曜 19:30 - 20:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

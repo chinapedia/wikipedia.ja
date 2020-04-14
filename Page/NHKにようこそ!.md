@@ -1,4 +1,4 @@
-> この記事は[NHK!](https://ja.wikipedia.org/wiki/NHK!)から翻訳されています。
+> この記事は[NHKにようこそ!](https://ja.wikipedia.org/wiki/NHKにようこそ!)から翻訳されています。
 
 
 『**NHKにようこそ\!**』（エヌエイチケイにようこそ）は、[滝本竜彦](../Page/滝本竜彦.md "wikilink")の小説。[大学](../Page/大学.md "wikilink")を中退した[引きこもり](../Page/引きこもり.md "wikilink")の青年と、それを救うことが目的という少女を軸に、引きこもりの葛藤する姿を描いた作品。
@@ -416,7 +416,7 @@ Kim Jung-Chul</p></td>
 
   - 角川書店による公式配信
 
-[Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:おたくを主題とする作品](https://ja.wikipedia.org/wiki/Category:おたくを主題とする作品 "wikilink") [Category:引きこもりを題材とした作品](https://ja.wikipedia.org/wiki/Category:引きこもりを題材とした作品 "wikilink") [Category:川崎市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:川崎市を舞台とした作品 "wikilink")
+[Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:おたくを主題とする小説](https://ja.wikipedia.org/wiki/Category:おたくを主題とする小説 "wikilink") [Category:おたくを主題とする漫画作品](https://ja.wikipedia.org/wiki/Category:おたくを主題とする漫画作品 "wikilink") [Category:引きこもりを題材とした小説](https://ja.wikipedia.org/wiki/Category:引きこもりを題材とした小説 "wikilink") [Category:川崎市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:川崎市を舞台とした作品 "wikilink") [Category:引きこもりを題材とした漫画](https://ja.wikipedia.org/wiki/Category:引きこもりを題材とした漫画 "wikilink")
 
 1.  [N・H・Kにようこそ！サポーターズクラブ「日本ひ○こ○り協会BEWE支部」](http://web.archive.org/web/20100115183242/http://testbewe.bewe.sc/nhk) BEWE、2009年8月28日 閲覧。（2010年1月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 2.  [ＮＨＫにようこそ！（１）](https://www.kadokawa.co.jp/product/200403000017/)角川書店公式サイト

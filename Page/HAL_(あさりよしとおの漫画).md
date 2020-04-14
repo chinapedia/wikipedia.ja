@@ -1,4 +1,4 @@
-> この記事は[HAL \(\)](https://ja.wikipedia.org/wiki/HAL_\(\))から翻訳されています。
+> この記事は[HAL \(あさりよしとおの漫画\)](https://ja.wikipedia.org/wiki/HAL_\(あさりよしとおの漫画\))から翻訳されています。
 
 
 『**HAL**』（はる）は、[あさりよしとお](../Page/あさりよしとお.md "wikilink")による[科学](../Page/科学.md "wikilink")をテーマにした[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")。全24話が[ワニブックス](../Page/ワニブックス.md "wikilink")刊行の月刊漫画雑誌『[コミックガム](../Page/コミックガム.md "wikilink")』にて1998年vol.12から2001年12月号まで連載された。後に単行本化（全2巻、および新装版全1巻）された。

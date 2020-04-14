@@ -1,4 +1,4 @@
-> この記事は[MS-8](https://ja.wikipedia.org/wiki/MS-8)から翻訳されています。
+> この記事は[マツダ・アンフィニMS-8](https://ja.wikipedia.org/wiki/マツダ・アンフィニMS-8)から翻訳されています。
 
 
 **マツダ・アンフィニMS-8** (εfini MS-8)は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が展開していた販売店ブランド[アンフィニで](../Page/マツダアンフィニ.md "wikilink")、[1992年](../Page/1992年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて販売された、[D](../Page/Dセグメント.md "wikilink")/[Eセグメント](../Page/Eセグメント.md "wikilink")に属する4ドア[ハードトップ](../Page/ハードトップ.md "wikilink")[サルーンである](../Page/セダン.md "wikilink")。

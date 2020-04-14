@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[岸和田BBスタジオ](https://ja.wikipedia.org/wiki/岸和田BBスタジオ)から翻訳されています。
 
 
 **岸和田BBスタジオ**（**きしわだビービースタジオ**）は[2004年](../Page/2004年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[岸和田競輪場](../Page/岸和田競輪場.md "wikilink")における[競輪](../Page/競輪.md "wikilink")の通常開催での開催レースを完全生中継している。

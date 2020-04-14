@@ -1,4 +1,4 @@
-> この記事は[YTS ](https://ja.wikipedia.org/wiki/YTS_)から翻訳されています。
+> この記事は[YTSニュース スーパータイム](https://ja.wikipedia.org/wiki/YTSニュース_スーパータイム)から翻訳されています。
 
 
 『**YTSニュース スーパータイム**』（ワイティーエスニュース スーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[山形テレビ](../Page/山形テレビ.md "wikilink")が[フジテレビ系列時代](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[1993年](../Page/1993年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで）に夕方に放送していた、[山形県](../Page/山形県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[フジテレビ発](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の山形県ローカル扱い）。

@@ -110,15 +110,14 @@ KONTAは、1988年7月2日公開の映画『・ふ・た・り・ぼ・っ・ち
 4.  **[LISTEN\! BARBEE BOYS 4](https://ja.wikipedia.org/wiki/LISTEN!_BARBEE_BOYS_4 "wikilink")**（1987年9月9日）
 5.  **[√5](https://ja.wikipedia.org/wiki/√5_\(アルバム\) "wikilink")**（1989年2月1日）
 6.  **[eeney meeney barbee moe](https://ja.wikipedia.org/wiki/eeney_meeney_barbee_moe "wikilink")**（1990年4月13日）
-7.  **Planbee**　(2019年12月18日)
-
-<!-- end list -->
-
-  - オリコンインディーズ週間2位(2019年12月30日付)
-
-8\. **Playbee**　(2020年1月29日) ※12インチアナログ盤のみ
-
-(配信) **Masterbee** (2020年2月8日)
+7.  **PlanBee**　(2019年12月18日)
+      - オリコンインディーズ週間2位(2019年12月30日付)
+      - 収録曲は5曲
+8.  **PlayBee**　(2020年1月29日)
+      - 12インチアナログ盤のみで発売
+      - 収録曲は6曲中4曲は「PlanBee」と同一
+9.  **MasterBee** (2020年2月8日)
+      - アルバム「PlanBee」「PlayBee」およびライブで配布された曲もすべて収録されている完全版ともいえるアルバム。配信限定。
 
 ### コンピレーション・アルバム
 

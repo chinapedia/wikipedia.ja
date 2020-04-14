@@ -1,4 +1,4 @@
-> この記事は[CD ](https://ja.wikipedia.org/wiki/CD_)から翻訳されています。
+> この記事は[CDシアター ドラゴンクエスト](https://ja.wikipedia.org/wiki/CDシアター_ドラゴンクエスト)から翻訳されています。
 
 
 『**CDシアター ドラゴンクエスト**』（シーディーシアター ドラゴンクエスト）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の[RPG](../Page/コンピュータRPG.md "wikilink")・[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")の二次著作商品である[ドラマCD](../Page/ラジオドラマ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MAIKO \(\)](https://ja.wikipedia.org/wiki/MAIKO_\(\))から翻訳されています。
+> この記事は[MAIKO \(ソロシンガー\)](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\))から翻訳されています。
 
 
 **MAIKO**（まいこ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月24日](../Page/7月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のソロシンガー。

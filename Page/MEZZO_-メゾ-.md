@@ -1,4 +1,4 @@
-> この記事は[MEZZO --](https://ja.wikipedia.org/wiki/MEZZO_--)から翻訳されています。
+> この記事は[MEZZO -メゾ-](https://ja.wikipedia.org/wiki/MEZZO_-メゾ-)から翻訳されています。
 
 
 『**MEZZO -メゾ-**』（メゾ）は、[2004年](../Page/2004年.md "wikilink")に放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。本項では、[2000年](../Page/2000年.md "wikilink")に発売された前作の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")『**MEZZO FORTE**』（メゾ・フォルテ）についても記述する。

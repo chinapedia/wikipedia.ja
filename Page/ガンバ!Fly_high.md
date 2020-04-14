@@ -1,4 +1,4 @@
-> この記事は[!Fly high](https://ja.wikipedia.org/wiki/!Fly_high)から翻訳されています。
+> この記事は[ガンバ!Fly high](https://ja.wikipedia.org/wiki/ガンバ!Fly_high)から翻訳されています。
 
 
 『**ガンバ\! Fly high**』（ガンバ フライハイ）は、原作：[森末慎二](../Page/森末慎二.md "wikilink")、作画：[菊田洋之](../Page/菊田洋之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[体操](../Page/体操競技.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、1994年から2000年まで約6年間連載された。単行本全34巻に短編集を含めた[外伝](../Page/外伝.md "wikilink")が1冊ある。原作担当の森末慎二は、[ロサンゼルスオリンピックの金メダリストである](../Page/1984年ロサンゼルスオリンピック.md "wikilink")。第43回（平成9年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")少年部門受賞作品。中国語や韓国語にも翻訳され、出版されている。

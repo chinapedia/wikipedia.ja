@@ -1,4 +1,4 @@
-> この記事は[GOTTA](https://ja.wikipedia.org/wiki/GOTTA)から翻訳されています。
+> この記事は[コミックGOTTA](https://ja.wikipedia.org/wiki/コミックGOTTA)から翻訳されています。
 
 
 『**コミックGOTTA**』（コミックガッタ）は、[小学館](../Page/小学館.md "wikilink")がかつて発行していた男子[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")・[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")向け[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。前身の『**ハイパーコロコロ**』についても述べる。

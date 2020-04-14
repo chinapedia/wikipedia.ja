@@ -1,4 +1,4 @@
-> この記事は[SHARP](https://ja.wikipedia.org/wiki/SHARP)から翻訳されています。
+> この記事は[SHARPワールドクイズ・カンカンガク学](https://ja.wikipedia.org/wiki/SHARPワールドクイズ・カンカンガク学)から翻訳されています。
 
 
 『**SHARPワールドクイズ・カンカンガク学**』（シャープワールドクイズ・かんかんがくがく）は、[1984年](../Page/1984年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[シャープ](../Page/シャープ.md "wikilink")の一社提供。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

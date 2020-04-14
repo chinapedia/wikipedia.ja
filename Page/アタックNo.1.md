@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[アタックNo.1](https://ja.wikipedia.org/wiki/アタックNo.1)から翻訳されています。
 
 
 『**アタックNo.1**』（アタックナンバーワン）は、[浦野千賀子](../Page/浦野千賀子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[吸血鬼ハンターD](https://ja.wikipedia.org/wiki/吸血鬼ハンターD)から翻訳されています。
 
 
 [Yoshitaka_Amano_Oct_2006.jpg](https://ja.wikipedia.org/wiki/File:Yoshitaka_Amano_Oct_2006.jpg "fig:Yoshitaka_Amano_Oct_2006.jpg")\]\]
@@ -27,6 +27,8 @@
   - 19作以降は出版元変更により朝日文庫ソノラマセレクションより発刊（1〜18作も同時期にソノラマセレクション化）
   - [ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink")は朝日文庫版。
   - また2011年1月には、本シリーズの外伝となる「貴族」と人間の反「貴族」テロ組織と両者共通の敵であるエイリアンとの三つ巴の戦いを描いた『吸血鬼ハンター/アナザー 貴族グレイランサー』（ISBN 978-4022739605）が刊行されている。同年11月には、続編である『吸血鬼ハンター/アナザー 貴族グレイランサー 英傑の血』（ISBN 978-4022739797）が刊行された（両刊とも朝日新聞出版、挿絵・[小島文美](../Page/小島文美.md "wikilink")）。
+  - その他同一の世界観の作品に『貴族泥棒スティール』（ISBN 978-4620210032）がある。（毎日新聞出版、挿絵・[末弥純](../Page/末弥純.md "wikilink")）。
+  - 菊地以外の著者の作品として『ダンピール狩り 吸血鬼ハンター外伝』（ISBN 978-4022683090）（著・朝川ユウキ,監修・菊地秀行）がある。
 
 | 巻数 | 作数         | タイトル       | 初版発行年・月             | ISBN                   |
 | -- | ---------- | ---------- | ------------------- | ---------------------- |
@@ -76,6 +78,9 @@
 | 44 | 31         | D-消えた貴族軍団  | 2016年11月            | ISBN 978-4022648310    |
 | 45 | 32         | D-五人の刺客    | 2017年9月             | ISBN 978-4022648433    |
 | 46 | 33         | D-呪羅鬼飛行    | 2018年4月             | ISBN 978-4022648846    |
+| 47 | 34         | D-死情都市     | 2018年9月             | ISBN 978-4022649003    |
+| 48 | 35         | D-黒い来訪者    | 2019年6月             | ISBN 978-4022649249    |
+| 49 | 36         | D-山嶽鬼      | 2019年10月            | ISBN 978-4022649294    |
 |    |            |            |                     |                        |
 
 （※）『D-魔道衆』は [docomo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](../Page/Au_\(携帯電話\).md "wikilink")・[SoftBankの携帯サイト](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")「MysteryWorld」（ミステリーワールド）にて先行連載配信後、[2007年](../Page/2007年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に朝日文庫より19作目として刊行された。
@@ -370,7 +375,7 @@
 
 ## 外部リンク
 
-  - [菊地秀行公認ファンクラブ](http://homepage2.nifty.com/kikuchi-fanclub/)
+  -
   - [Vampire Hunter D Official Website](http://www.vampire-d.com/)（英語）
 
 [Category:菊地秀行](https://ja.wikipedia.org/wiki/Category:菊地秀行 "wikilink") [Category:日本の小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の小説のシリーズ "wikilink") [Category:ソノラマ文庫](https://ja.wikipedia.org/wiki/Category:ソノラマ文庫 "wikilink") [Category:吸血鬼を題材とした小説](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材とした小説 "wikilink") [Category:文明崩壊後の世界が描かれた小説](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれた小説 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:1985年のOVA](https://ja.wikipedia.org/wiki/Category:1985年のOVA "wikilink") [Category:葦プロダクション](https://ja.wikipedia.org/wiki/Category:葦プロダクション "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:2000年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2000年のアニメ映画 "wikilink") [Category:川尻善昭の監督映画](https://ja.wikipedia.org/wiki/Category:川尻善昭の監督映画 "wikilink") [Category:SMEJのアニメ映画](https://ja.wikipedia.org/wiki/Category:SMEJのアニメ映画 "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:ムービックのアニメ映画](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ映画 "wikilink") [Category:ホラーアニメ](https://ja.wikipedia.org/wiki/Category:ホラーアニメ "wikilink") [Category:吸血鬼ハンターを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼ハンターを題材としたフィクション作品 "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:文明崩壊後の世界が描かれたアニメ映画](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれたアニメ映画 "wikilink")

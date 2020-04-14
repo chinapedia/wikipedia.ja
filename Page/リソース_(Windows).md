@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[リソース \(Windows\)](https://ja.wikipedia.org/wiki/リソース_\(Windows\))から翻訳されています。
 
 
 **リソース** (resource) とは、[計算リソースのことであるが](../Page/計算資源.md "wikilink")、[Microsoft Windowsの用語としては](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、ある種のリソースのことを意味する。

@@ -1,4 +1,4 @@
-> この記事は[VF-1 ](https://ja.wikipedia.org/wiki/VF-1_)から翻訳されています。
+> この記事は[VF-1 バルキリー](https://ja.wikipedia.org/wiki/VF-1_バルキリー)から翻訳されています。
 
 
 <div class="pathnavbox">

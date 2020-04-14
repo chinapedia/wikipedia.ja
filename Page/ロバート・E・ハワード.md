@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ロバート・E・ハワード](https://ja.wikipedia.org/wiki/ロバート・E・ハワード)から翻訳されています。
 
 
 **ロバート・アーヴィン・ハワード**（、[1906年](../Page/1906年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [1936年](../Page/1936年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink"))は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パルプ・フィクション作家](../Page/パルプ・マガジン.md "wikilink")。「[英雄コナン](../Page/英雄コナン.md "wikilink")」シリーズで最もよく知られ、「[剣と魔法](../Page/ヒロイック・ファンタジー.md "wikilink")」ジャンルの創始者と見なされている。

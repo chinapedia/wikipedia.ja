@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOインターネット](https://ja.wikipedia.org/wiki/GMOインターネット)から翻訳されています。
 
 
 | 略称 = GMO Internet | 本社所在地 = [東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町](../Page/桜丘町_\(渋谷区\).md "wikilink")26-1

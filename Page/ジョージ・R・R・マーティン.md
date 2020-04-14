@@ -1,4 +1,4 @@
-> この記事は[RR](https://ja.wikipedia.org/wiki/RR)から翻訳されています。
+> この記事は[ジョージ・R・R・マーティン](https://ja.wikipedia.org/wiki/ジョージ・R・R・マーティン)から翻訳されています。
 
 
 **ジョージ・レイモンド・リチャード・マーティン**（*George Raymond Richard Martin*、[1948年](../Page/1948年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") - ）は [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[ファンタジー作家](https://ja.wikipedia.org/wiki/ファンタジー作家 "wikilink")、[編集者](../Page/編集者.md "wikilink")、[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")。[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[ベイヨン生まれ](../Page/ベイヨン_\(ニュージャージー州\).md "wikilink")。[ノースウェスタン大学](../Page/ノースウェスタン大学.md "wikilink")卒業。SF作家としては[ジョン・ヴァーリイ](../Page/ジョン・ヴァーリイ.md "wikilink")や[マイクル・ビショップ](https://ja.wikipedia.org/wiki/マイクル・ビショップ "wikilink")、[ヴォンダ・マッキンタイア](../Page/ヴォンダ・マッキンタイア.md "wikilink")らと同じく70年代に気を吐いた「レイバー・デイ・グループ」の一員に数えられる。

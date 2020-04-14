@@ -50,18 +50,10 @@
 
 ## 放送時間
 
-''' 2016年10月から '''
-
-  - 毎週土曜日 15:00 - 17:55
-      - 出張公開生放送等の場合、この番組の前に放送されている「[大野勢太郎の楽園ラジオ〜パワー全開\!\!〜](https://ja.wikipedia.org/wiki/大野勢太郎の楽園ラジオ〜パワー全開!!〜 "wikilink")」の放送時間を短縮し、以前の放送時間で放送することがある。
-
-''' 番組開始から2016年9月まで '''
-
   - 毎週土曜日 12:55 - 17:55
       - ただし、特番編成時（[サッカースタジアムライブ](https://ja.wikipedia.org/wiki/サッカースタジアムライブ "wikilink")など）は2部構成になったり、短縮放送になったりと対応が異なる。
       - また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までは[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")の[試合中継を優先するため](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")、ライオンズの試合がデーゲームの場合は「遅番」（中継終了後放送）、ナイトゲームの場合は「早番」（今の放送時間と同じ）で放送していた。[2011年](../Page/2011年.md "wikilink")以降は[西武ドーム](../Page/西武ドーム.md "wikilink")でのナイターのみ[生放送](../Page/生放送.md "wikilink")になったため、今の時間に固定された。[2012年](../Page/2012年.md "wikilink")は17時開始のナイトゲームの場合は16:55までの短縮になる。
-
-## タイムテーブル
+      - 2016年10月から2020年3月まで「[大野勢太郎の楽園ラジオ〜パワー全開\!\!〜](https://ja.wikipedia.org/wiki/大野勢太郎の楽園ラジオ〜パワー全開!!〜 "wikilink")」放送のため15:00開始へと短縮されていたが、出張公開生放送等があった場合12:55から開始することがあった。
 
 2019年11月2日現在
 
@@ -227,7 +219,7 @@
   - 山口と[GOGOMONZ](https://ja.wikipedia.org/wiki/GOGOMONZ "wikilink")の前セカンドパーソナリティ―[横田かおり](https://ja.wikipedia.org/wiki/横田かおり "wikilink")の[天然ボケ](../Page/天然ボケ.md "wikilink")っぷりがよく似ていたため、HITS\! THE TOWN と GOGOMONZ の区別がつきにくいと、リスナーから度々ネタにされていた。
   - 2017年5月13日放送のあまがみ神社で『[エマニュエル・マクロン](https://ja.wikipedia.org/wiki/エマニュエル・マクロン "wikilink")』を読み上げた際に、実際のスタジオでの仮名読みは余分な一文字『[ん](../Page/ん.md "wikilink")』を入れた以外問題なかったにもかかわらず、山口特有の滑舌の悪さで[女性器](../Page/女性器.md "wikilink")の[俗語に聞こえる様な箇所があった](../Page/まんこ.md "wikilink")。直後に鬼塚の必死なフォローが入り「[あっぶねぇ](../Page/放送事故.md "wikilink")。[タイムフリーで聴いてみよう](https://ja.wikipedia.org/wiki/radiko "wikilink")」と言わしめた。
   - [2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）[1月28日](../Page/1月28日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")）には、[NHKさいたま放送局](../Page/NHKさいたま放送局.md "wikilink")とのコラボレーションイベント『NACKに初恋！埼玉ラジオフェス』が[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")の[イオンレイクタウン](../Page/イオンレイクタウン.md "wikilink")で公開生放送で開催され、あまがみ神社のコーナーを、[NHKアナウンサーの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[與芝由三栄](../Page/與芝由三栄.md "wikilink")が読み上げに挑戦した。この時は、與芝が[NHKアナウンサーという事で](../Page/NHKのアナウンサー一覧.md "wikilink")、[早口言葉](../Page/早口言葉.md "wikilink")のお題も出された。
-  - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の放送は、[台風19号の接近による暴風雨に伴い](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")、[埼玉工業大学](../Page/埼玉工業大学.md "wikilink")からの出張公開生放送を中止して、[JACK大宮](https://ja.wikipedia.org/wiki/JACK大宮 "wikilink")のNACK5本社スタジオから放送した（12:55 - 17:55）。
+  - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の放送は、[令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")（台風19号）の接近による暴風雨に伴い、[埼玉工業大学](../Page/埼玉工業大学.md "wikilink")からの出張公開生放送を中止して、[JACK大宮](https://ja.wikipedia.org/wiki/JACK大宮 "wikilink")のNACK5本社スタジオから放送した（12:55 - 17:55）。
 
 <!-- end list -->
 
@@ -237,7 +229,7 @@
 
   - mayleeが「[マグマ大使](../Page/マグマ大使.md "wikilink")」を読み間違えたことをきっかけに、「マグロ大使」なるものが流行った。
   - mayleeの「むぅーむぅー」（[ムームー](https://ja.wikipedia.org/wiki/ムームー "wikilink")）発言がリスナーの間でなぜかウケ、挨拶＝むぅーむぅーになったり、「mayleeさんむぅーむぅーと言って下さい！」とメールが殺到したが、mayleeが飽きた為に誰も言わなくなった。
-  - たまたまスタジオに観覧に来ていた見知らぬ「赤いセーター」を着た人がmayleeの影の[SP](../Page/SP.md "wikilink")だとネタでバカボン鬼塚が言った為に、それ以降リスナーメールの挨拶メッセージに「赤いセーターの人」、「赤い悪魔」、「赤シャツの人」と度々登場。
+  - たまたまスタジオに観覧に来ていた見知らぬ「赤いセーター」を着た人がmayleeの影の[SPだとネタでバカボン鬼塚が言った為に](../Page/ボディーガード.md "wikilink")、それ以降リスナーメールの挨拶メッセージに「赤いセーターの人」「[赤い悪魔](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")」「赤シャツの人」と度々登場。
   - 鬼塚が冷たい[ボンカレー](../Page/ボンカレー.md "wikilink")に食パンを付けて食べる「パンin the カレー」をリスナーに勧めた所、反響が多く流行った。
   - 過去にmayleeが2006年[様ソニ](https://ja.wikipedia.org/wiki/様ソニ "wikilink")に出演した時にゴージャスなティアラを身に付けていた事が年明けの番組で話題になった。
   - バカボン鬼塚の「りなだよ〜」と「にゃんちゃんなの」がリスナーからのメッセージ等によく書かれる。

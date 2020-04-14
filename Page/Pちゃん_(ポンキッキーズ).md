@@ -1,4 +1,4 @@
-> この記事は[P \(\)](https://ja.wikipedia.org/wiki/P_\(\))から翻訳されています。
+> この記事は[Pちゃん \(ポンキッキーズ\)](https://ja.wikipedia.org/wiki/Pちゃん_\(ポンキッキーズ\))から翻訳されています。
 
 
 **Pちゃん**（**ピーちゃん**）は、[フジテレビのは](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[子供番組](../Page/子供番組.md "wikilink")『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』より出演した[キャラクター](../Page/キャラクター.md "wikilink")。

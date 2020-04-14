@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[鉄道の日記念・JR全線乗り放題きっぷ](https://ja.wikipedia.org/wiki/鉄道の日記念・JR全線乗り放題きっぷ)から翻訳されています。
 
 
 [thumb発行](https://ja.wikipedia.org/wiki/ファイル:Ticket_tetudounohi_second.jpg "wikilink")）\]\] **鉄道の日記念・JR全線乗り放題きっぷ**（てつどうのひきねん・ジェイアールぜんせんのりほうだいきっぷ）は、[1996年](../Page/1996年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで発売されていた[JR](../Page/JR.md "wikilink")旅客鉄道会社の[普通列車](../Page/普通列車.md "wikilink")および[JR西日本宮島フェリー](https://ja.wikipedia.org/wiki/JR西日本宮島フェリー "wikilink")の[宮島連絡船](../Page/宮島連絡船.md "wikilink")が1日乗り放題となる、期間限定の[特別企画乗車券](../Page/特別企画乗車券.md "wikilink")（トクトクきっぷ）である。

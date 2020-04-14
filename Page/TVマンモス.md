@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVマンモス](https://ja.wikipedia.org/wiki/TVマンモス)から翻訳されています。
 
 
 『**TVマンモス**』（ティーヴィーマンモス）は、[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。日本テレビ系列局では[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで、毎週月曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

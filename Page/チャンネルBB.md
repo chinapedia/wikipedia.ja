@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[チャンネルBB](https://ja.wikipedia.org/wiki/チャンネルBB)から翻訳されています。
 
 
 **チャンネルBB**は、かつて[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")傘下のビー・ビー・ファクトリー（現在は[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")傘下の[NBCユニバーサルグローバル・ネットワークス・ジャパン](../Page/NBCユニバーサルグローバル・ネットワークス・ジャパン.md "wikilink")）が運営していた[コンピュータ](../Page/コンピュータ.md "wikilink")と[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")の[専門チャンネル](../Page/専門チャンネル.md "wikilink")。

@@ -1,39 +1,21 @@
 > この記事は[NO.](https://ja.wikipedia.org/wiki/NO.)から翻訳されています。
 
 
-『**NO.**』（**エヌオー**）は、[テレビ朝日系列で](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1999年](../Page/1999年.md "wikilink")10月1日まで、毎週月曜日～金曜日に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")・[ミニ番組](../Page/ミニ番組.md "wikilink")である。
+『**NO.**』（**エヌオー**）は、[テレビ朝日系列で](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1999年](../Page/1999年.md "wikilink")10月1日まで、毎週月曜日から金曜日に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")・[ミニ番組](../Page/ミニ番組.md "wikilink")である。
 
 ## 概要
 
   - 音楽制作会社の[ビーイング](../Page/ビーイング.md "wikilink")に所属する、ビーイング系アーティストの新譜情報などを伝える、ミニ音楽番組。
-
-<!-- end list -->
-
   - ビーイング系アーティストの[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が毎日約1分半放映され、普段、あまり見ることが出来ないアーティストのレコーディング作業や、当番組でしか視聴出来ない別バージョンのプロモーションビデオも放映されていた。
   - 当時ヒット曲を多数送り出していたビーイングのマスメディアに対する方針として、93年春頃からメディアへの露出を極力抑えるイメージ戦略があったとされ、当番組の開始時期はZARDやWANDSがテレビに出演しなくなった時期と重なっている。
   - 音楽番組などのテレビに出演しないアーティストの動く映像や、ビデオクリップが多数紹介された。特に金曜日の[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")終了直後のオンエアでは有力アーティストが配置され、自社がスポンサー提供する帯番組を最大限に活用してアーティスト像のイメージコントロールをするという形での宣伝も担っていた。
-
-<!-- end list -->
-
   - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は、元・[Mi-Ke](../Page/Mi-Ke.md "wikilink")の[村上遙](../Page/村上遙.md "wikilink")が担当し、オープニングの「エヌオーッ\!」というタイトルコールの叫びは、ナレーターを務める村上遥が「エヌオーッ\!」のタイトルコールを叫ぶ回と、プロモーションビデオに出演するアーティスト自ら「エヌオーッ\!」のタイトルコールを叫ぶ回があり、オープニングの「エヌオーッ\!」のタイトルコールの声で、今日はどのアーティストのプロモーションビデオが放映されるかが分かる目安にもなっていた。ただし、必ず声とその日に登場するアーティストが一致しているわけではなかった。ちなみに、「エヌオーッ\!」のタイトルコールを収録していたアーティストは、[B'z](../Page/B'z.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")（[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")）・[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")・[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")・[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")（ボーカルの[浅岡雄也](../Page/浅岡雄也.md "wikilink")）・[PAMELAH](../Page/PAMELAH.md "wikilink")（ボーカルの[水原由貴](../Page/水原由貴.md "wikilink")）などであった。
-
-<!-- end list -->
-
-  - [1996年](../Page/1996年.md "wikilink")-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、年末の1時間スペシャル番組として「NO.スペシャル」が一部系列局を除き放送されていた\[1\]。司会は[村上遥](https://ja.wikipedia.org/wiki/村上遥 "wikilink")とUJが担当していた回や、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[高井正憲](../Page/高井正憲.md "wikilink")アナ（当時）が担当していた回もあった。
-
-<!-- end list -->
-
-  - オープニングや放送中に表示されるタイトルロゴは何度か変遷しており、1993年の放送開始～1998年3月まではオープニングで使用された様々なロゴをそのまま使用し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月からは、NO.の文字ロゴ、オープニングのタイトルコール、担当ナレーターが一新され、1998年夏～1999年の1月末までは、当時「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」のナレーターも担当していた[鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")がナレーターを担当、1999年2月～9月24日の最終回まではHIROMIがナレーターを担当した。
+  - [1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には、年末の1時間スペシャル番組として「NO.スペシャル」が一部系列局を除き放送されていた\[1\]。司会は[村上遥](https://ja.wikipedia.org/wiki/村上遥 "wikilink")とUJが担当していた回や、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[高井正憲](../Page/高井正憲.md "wikilink")アナ（当時）が担当していた回もあった。
+  - オープニングや放送中に表示されるタイトルロゴは何度か変遷しており、1993年の放送開始～1998年3月まではオープニングで使用された様々なロゴをそのまま使用し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月からは、NO.の文字ロゴ、オープニングのタイトルコール、担当ナレーターが一新され、1998年夏から1999年の1月末までは、当時「[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」のナレーターも担当していた[鈴木聖子](https://ja.wikipedia.org/wiki/鈴木聖子 "wikilink")がナレーターを担当、1999年2月から9月24日の最終回まではHIROMIがナレーターを担当した。
   - キー局のテレビ朝日では[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")から[金曜](https://ja.wikipedia.org/wiki/金曜 "wikilink")の20:54から20:56までの2分間の放送であったが、放送時間帯は各系列局によって異なっていた。各局の過去の放送時間は、各局の放送時間を参照のこと。
-
-<!-- end list -->
-
-  - 1997年1月には、放送1000回を数え、その1000回目に放送されたのは、[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の初のソロアルバム「[マグマ](../Page/マグマ_\(アルバム\).md "wikilink")」の収録曲「波」のビデオクリップだった。
-
-<!-- end list -->
-
-  - 当番組で放送された多数のビデオクリップは、VHSやDVDでの商品化に至っていない映像も多数存在しているが、2003年7月21日に発売された、アニメ「[スラムダンク](https://ja.wikipedia.org/wiki/スラムダンク "wikilink")」のコンピレーション・アルバム「[THE BEST OF TV ANIMATION SLAM DUNK〜Single Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_TV_ANIMATION_SLAM_DUNK〜Single_Collection〜 "wikilink")」に付属している特典DVDに、ZARD「[マイ フレンド](../Page/マイ_フレンド.md "wikilink")」や大黒摩季「[あなただけ見つめてる](../Page/あなただけ見つめてる.md "wikilink")」などの、当時放送された映像をそのまま収録しており、「NO.」で放送された映像を、唯一公式にDVD化した作品となっている。
-  - 1999年5月27日にZARDの初のベストアルバム「[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")」が発売されるにあたり、当番組ではこのベストアルバムの紹介映像が放送される際には、画面左上にテロップで「発売まであと○日」と表示し、カウントダウンを行っていた。
+  - 1997年1月には、放送1000回を数え、その1000回目に放送されたのは、[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の初のソロアルバム『[マグマ](../Page/マグマ_\(アルバム\).md "wikilink")』の収録曲「波」のビデオクリップだった。
+  - 当番組で放送された多数のビデオクリップは、VHSやDVDでの商品化に至っていない映像も多数存在しているが、2003年7月21日に発売された、アニメ『[スラムダンク](https://ja.wikipedia.org/wiki/スラムダンク "wikilink")』のコンピレーション・アルバム『[THE BEST OF TV ANIMATION SLAM DUNK〜Single Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_TV_ANIMATION_SLAM_DUNK〜Single_Collection〜 "wikilink")』に付属している特典DVDに、ZARD「[マイ フレンド](../Page/マイ_フレンド.md "wikilink")」や大黒摩季「[あなただけ見つめてる](../Page/あなただけ見つめてる.md "wikilink")」などの、当時放送された映像をそのまま収録しており、「NO.」で放送された映像を、唯一公式にDVD化した作品となっている。
+  - 1999年5月27日にZARDの初のベストアルバム『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』が発売されるにあたり、当番組ではこのベストアルバムの紹介映像が放送される際には、画面左上にテロップで「発売まであと○日」と表示し、カウントダウンを行っていた。
   - 1999年8月31日に豪華客船[ぱしふぃっくびーなす](https://ja.wikipedia.org/wiki/ぱしふぃっくびーなす "wikilink")号で行われた、ZARDの初ライブの映像から、「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」が放送された。
 
 ## 主な放送内容
@@ -115,7 +97,7 @@
   - B'z「[ギリギリchop](../Page/ギリギリchop.md "wikilink")」（ビデオクリップのラストの場面で炎をあげて爆発するシーンが一度だけ放送された。CS放送でのフルでのオンエアを除いては、この場面が放送されたのは当番組だけである。）
   - B'z「[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」全曲紹介
   - 小松未歩「[さよならのかけら](../Page/さよならのかけら.md "wikilink")」「[最短距離で](../Page/最短距離で.md "wikilink")」「[風がそよぐ場所](../Page/風がそよぐ場所.md "wikilink")」
-  - ZARD「[MIND GAMES](https://ja.wikipedia.org/wiki/MIND_GAMES "wikilink")」「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」
+  - ZARD「[MIND GAMES](../Page/MIND_GAMES_\(ZARDの曲\).md "wikilink")」「[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")」
   - [New Cinema 蜥蜴](../Page/New_Cinema_蜥蜴.md "wikilink")「[Smashing the good\! Smashing the bad\!](https://ja.wikipedia.org/wiki/Smashing_the_good!_Smashing_the_bad! "wikilink")」
   - [sweet velvet](https://ja.wikipedia.org/wiki/sweet_velvet "wikilink")「[I JUST FEEL SO LOVE AGAIN 〜そばにいるだけで〜](https://ja.wikipedia.org/wiki/I_JUST_FEEL_SO_LOVE_AGAIN_〜そばにいるだけで〜 "wikilink")」
   - [GRASS ARCADE](https://ja.wikipedia.org/wiki/GRASS_ARCADE "wikilink")「[BRAVE](https://ja.wikipedia.org/wiki/BRAVE_\(GRASS_ARCADEの曲\) "wikilink")」
@@ -131,6 +113,7 @@
 | [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink")                              | [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（ABC） | 毎週月曜～木曜 24:24-24:29 金曜 24:19-24:24 | \[6\] |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")（KAB）                | 不明                                 |       |
 | [大分県](../Page/大分県.md "wikilink")                                                     | [大分朝日放送](../Page/大分朝日放送.md "wikilink")（OAB）                | 毎週月曜-金曜 18:57-18:59                |       |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")（HAB）                | 毎週月曜-金曜 18:58-19:00                |       |
 |                                                                                      |                                                            |                                    |       |
 
 ## 関連項目
@@ -139,8 +122,6 @@
   - [MU-GEN](../Page/MU-GEN.md "wikilink") 2004年から2009年まで放送された、音楽番組。千葉テレビ放送制作。
   - [MUSIC FOCUS](https://ja.wikipedia.org/wiki/MUSIC_FOCUS "wikilink") 2009年から2012年まで放送された、音楽番組。千葉テレビ放送制作。
   - [MUSIC LAUNCHER](https://ja.wikipedia.org/wiki/MUSIC_LAUNCHER "wikilink") 2012年から現在放送中の音楽番組。千葉テレビ放送制作。
-  - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
   - [ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")
   - [世界の車窓から](../Page/世界の車窓から.md "wikilink")（同じく、同時期のテレ朝の帯番組）
   - [都のかおり](https://ja.wikipedia.org/wiki/都のかおり "wikilink")（同じく、同時期のテレ朝の帯番組）

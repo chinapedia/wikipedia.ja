@@ -1,4 +1,4 @@
-> この記事は[PlayStation](https://ja.wikipedia.org/wiki/PlayStation)から翻訳されています。
+> この記事は[PlayStationのゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧)から翻訳されています。
 
 
 **PlayStationのゲームタイトル一覧**（プレイステーションのゲームタイトルいちらん）では、日本で[PlayStation対応として発売されたゲームソフトを発売順に列記していたが](../Page/PlayStation_\(ゲーム機\).md "wikilink")、本数（3,290タイトル）が膨大であるため分割した。現在ここにあるのは分割された一覧へのリンクである。

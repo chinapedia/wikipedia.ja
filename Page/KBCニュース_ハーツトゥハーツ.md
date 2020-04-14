@@ -1,4 +1,4 @@
-> この記事は[KBC ](https://ja.wikipedia.org/wiki/KBC_)から翻訳されています。
+> この記事は[KBCニュース ハーツトゥハーツ](https://ja.wikipedia.org/wiki/KBCニュース_ハーツトゥハーツ)から翻訳されています。
 
 
 『**KBCニュース ハーツトゥハーツ**』（ケイビーシーニュース ハーツトゥハーツ）は、[1989年](../Page/1989年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")まで[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBCテレビ）で平日夕方に放送されていた[福岡県](../Page/福岡県.md "wikilink")向けのローカル[ニュース番組](../Page/報道番組.md "wikilink")。『[ニュースシャトル ANN](../Page/ニュースシャトル.md "wikilink")』→『[600ステーション ANN](../Page/600ステーション.md "wikilink")』（後の『ANN 600ステーション』）→『[ANN STATION EYE](../Page/ステーションEYE.md "wikilink")』（後の『ステーションEYE ANN』）の福岡県ローカルパートに相当する。

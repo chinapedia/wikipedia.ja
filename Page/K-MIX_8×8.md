@@ -1,4 +1,4 @@
-> この記事は[K-MIX 88](https://ja.wikipedia.org/wiki/K-MIX_88)から翻訳されています。
+> この記事は[K-MIX 8×8](https://ja.wikipedia.org/wiki/K-MIX_8×8)から翻訳されています。
 
 
 『**K-MIX 8×8**』（ケイミックス・エイト・バイ・エイト）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink") （K-MIX）で月 - 木曜20:00 - 20:50に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")の放送枠である。

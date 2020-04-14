@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ディアブロッサ高田FC](https://ja.wikipedia.org/wiki/ディアブロッサ高田FC)から翻訳されています。
 
 
 **ディアブロッサ高田FC**（ディアブロッサたかだエフシー、）は、[奈良県](../Page/奈良県.md "wikilink")[大和高田市](../Page/大和高田市.md "wikilink")を本拠地とする社会人の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

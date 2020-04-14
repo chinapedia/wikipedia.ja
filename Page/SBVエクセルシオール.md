@@ -1,4 +1,4 @@
-> この記事は[SBV](https://ja.wikipedia.org/wiki/SBV)から翻訳されています。
+> この記事は[SBVエクセルシオール](https://ja.wikipedia.org/wiki/SBVエクセルシオール)から翻訳されています。
 
 
 **SBVエクセルシオール** () 、通称**エクセルシオール** (Excelsior) は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の南西部、[南ホラント州](../Page/南ホラント州.md "wikilink")の都市[ロッテルダム](../Page/ロッテルダム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部相当）に所属している。

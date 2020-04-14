@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグドラフト指名選手一覧](https://ja.wikipedia.org/wiki/Bjリーグドラフト指名選手一覧)から翻訳されています。
 
 
 **bjリーグドラフト指名選手一覧**（ビージェイリーグドラフトしめいせんしゅいちらん）は、[bjリーグで](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[ドラフト指名された選手の](../Page/Bjリーグドラフト会議.md "wikilink")[一覧](https://ja.wikipedia.org/wiki/一覧 "wikilink")。

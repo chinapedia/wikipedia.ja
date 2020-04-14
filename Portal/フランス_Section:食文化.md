@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:食文化](https://ja.wikipedia.org/wiki/Portal:フランス/Section:食文化)から翻訳されています。
 
 
 酒類

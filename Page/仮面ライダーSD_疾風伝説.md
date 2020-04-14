@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[仮面ライダーSD 疾風伝説](https://ja.wikipedia.org/wiki/仮面ライダーSD_疾風伝説)から翻訳されています。
 
 
 『**仮面ライダーSD 疾風伝説**』は、[かとうひろし](../Page/かとうひろし.md "wikilink")の漫画作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に[1992年](../Page/1992年.md "wikilink")1月号から[1993年](../Page/1993年.md "wikilink")4月号まで連載。企画作品[仮面ライダーSD](../Page/仮面ライダーSD.md "wikilink")の一つ。

@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[キルメスAC](https://ja.wikipedia.org/wiki/キルメスAC)から翻訳されています。
 
 
 **キルメスAC**（**Quilmes Atlético Club** ()）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[キルメス](https://ja.wikipedia.org/wiki/キルメス "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）に属している。

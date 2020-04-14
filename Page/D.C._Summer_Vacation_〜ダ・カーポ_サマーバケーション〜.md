@@ -1,4 +1,4 @@
-> この記事は[D.C. Summer Vacation  ](https://ja.wikipedia.org/wiki/D.C._Summer_Vacation__)から翻訳されています。
+> この記事は[D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜](https://ja.wikipedia.org/wiki/D.C._Summer_Vacation_〜ダ・カーポ_サマーバケーション〜)から翻訳されています。
 
 
 『**D.C. Summer Vacation 〜ダ・カーポ サマーバケーション〜**』は、[CIRCUS NORTHERNブランドより発売の](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』のファンディスク第2弾。通称『**D.C.S.V.**』。

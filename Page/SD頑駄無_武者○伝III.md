@@ -1,4 +1,4 @@
-> この記事は[SD III](https://ja.wikipedia.org/wiki/SD_III)から翻訳されています。
+> この記事は[SD頑駄無 武者○伝III](https://ja.wikipedia.org/wiki/SD頑駄無_武者○伝III)から翻訳されています。
 
 
 **SD頑駄無 武者○伝III\[1\]**（エスディーがんだむ むしゃまるでんスリー）は、[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズの第15作である。

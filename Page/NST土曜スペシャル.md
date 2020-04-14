@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NST土曜スペシャル](https://ja.wikipedia.org/wiki/NST土曜スペシャル)から翻訳されています。
 
 
 『**NST土曜スペシャル**』（エヌエスティーどようスペシャル）は、1970年代中期から1982年3月(?)まで[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink") (NST) で毎週[土曜日](../Page/土曜日.md "wikilink")14時30分から放送されていた[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")の名称である。

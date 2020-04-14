@@ -1,7 +1,7 @@
 > この記事は[Nujabes](https://ja.wikipedia.org/wiki/Nujabes)から翻訳されています。
 
 
-**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）\[1\]\[2\] \[3\]）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](../Page/西麻布.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。
+**Nujabes**（ヌジャベス、アーティスト名：**瀬場 潤**（せば じゅん）\[1\]\[2\] \[3\]）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[西麻布](../Page/西麻布.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")のトラックメイカー、音楽プロデューサー。未婚。
 
 ## 来歴
 

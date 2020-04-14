@@ -1,4 +1,4 @@
-> この記事は[ICE \(\)](https://ja.wikipedia.org/wiki/ICE_\(\))から翻訳されています。
+> この記事は[ICE \(音楽グループ\)](https://ja.wikipedia.org/wiki/ICE_\(音楽グループ\))から翻訳されています。
 
 
 **ICE**（アイス）は日本の音楽グループ。

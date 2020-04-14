@@ -1,4 +1,4 @@
-> この記事は[ ZIRIA](https://ja.wikipedia.org/wiki/_ZIRIA)から翻訳されています。
+> この記事は[天外魔境 ZIRIA](https://ja.wikipedia.org/wiki/天外魔境_ZIRIA)から翻訳されています。
 
 
 『**天外魔境 ZIRIA**』（てんがいまきょう じらいあ）は、[1989年](../Page/1989年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink") [CD-ROM<sup>2</sup>用](../Page/CD-ROM2.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム（RPG）](../Page/コンピュータRPG.md "wikilink")。

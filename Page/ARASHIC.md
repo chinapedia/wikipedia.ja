@@ -191,7 +191,7 @@
 
 ## 脚注
 
-[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:ジェイ・ストームのアルバム](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームのアルバム "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  「嵐・JUN STYLE」（2009年3月28日放送分）松本談。
 2.  『嵐 楽曲完全ガイド2016』（鉄人社、2015年11月14日発売、72頁）

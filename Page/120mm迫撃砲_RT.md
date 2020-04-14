@@ -1,4 +1,4 @@
-> この記事は[120mm RT](https://ja.wikipedia.org/wiki/120mm_RT)から翻訳されています。
+> この記事は[120mm迫撃砲 RT](https://ja.wikipedia.org/wiki/120mm迫撃砲_RT)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:富士駐屯地で展示される120mm迫撃砲RT.jpg "wikilink") **120mm迫撃砲 RT**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トムソン](https://ja.wikipedia.org/wiki/トムソン_\(企業\) "wikilink")-ブラーント社が開発した[迫撃砲](../Page/迫撃砲.md "wikilink")。[口径](../Page/口径.md "wikilink")120mmで、従来の[軽榴弾砲に匹敵する射程を備えることで知られている](../Page/榴弾砲.md "wikilink")。射程約10数Km。
@@ -47,13 +47,13 @@
 
 画像:USMC ITV ESS.jpg|[グロウラーITV](https://ja.wikipedia.org/wiki/グロウラーITV "wikilink")で牽引されるM327 EFSS 画像:USMC-110615-M-OO345-210.jpg|[AAV7](../Page/AAV7.md "wikilink")の車内スペースに積載されたM327 EFSS
 
-### 日本
+### 日本（陸上自衛隊）
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:120mm迫撃砲RT_\(8464035959\).jpg "wikilink")
 
-[M2 107mm迫撃砲の後継として](../Page/M2_107mm迫撃砲.md "wikilink")[1992年](../Page/1992年.md "wikilink")（平成4年）度から採用しており、[豊和工業](../Page/豊和工業.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")している。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では、牽引車両として[高機動車](../Page/高機動車.md "wikilink")を改造した重迫牽引車を使用するほか、自走型として、[96式自走120mm迫撃砲](../Page/96式自走120mm迫撃砲.md "wikilink")も開発・配備されている。現在も調達を続けており、24年度は3門調達予定である。調達価格は約3,400万円である。
+[M2 107mm迫撃砲の後継として](../Page/M2_107mm迫撃砲.md "wikilink")[1992年](../Page/1992年.md "wikilink")（平成4年）度から採用しており、[豊和工業](../Page/豊和工業.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")している。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")では、牽引車両として[高機動車](../Page/高機動車.md "wikilink")を改造した重迫牽引車を使用する。現在も調達を続けており、24年度は3門調達予定である。調達価格は約3,400万円である。自走型として、[96式自走120mm迫撃砲](../Page/96式自走120mm迫撃砲.md "wikilink")も開発・配備され第7師団第11普通科連隊の重迫撃砲中隊に集中配備されている。
 
-[普通科の中では最大の火砲で](../Page/普通科_\(陸上自衛隊\).md "wikilink")、[普通科連隊](https://ja.wikipedia.org/wiki/普通科連隊 "wikilink")の[重迫撃砲](../Page/迫撃砲.md "wikilink")[中隊](../Page/中隊.md "wikilink")に配備されているほか、その機動性から[第1空挺団の](../Page/第1空挺団_\(陸上自衛隊\).md "wikilink")[空挺特科大隊](../Page/空挺特科大隊.md "wikilink")が装備している。空輸の際は、重迫牽引車ごと[CH-47Jにより吊り下げられて空輸される](https://ja.wikipedia.org/wiki/CH-47_\(航空機\)#日本 "wikilink")。また、[水陸機動団](https://ja.wikipedia.org/wiki/水陸機動団 "wikilink")の水陸機動連隊の各中隊・および水陸機動団特科大隊にも装備がされている\[1\]\[2\]。
+[普通科の中では最大の火砲で](../Page/普通科_\(陸上自衛隊\).md "wikilink")、師団の[普通科連隊](https://ja.wikipedia.org/wiki/普通科連隊 "wikilink")の[重迫撃砲](../Page/迫撃砲.md "wikilink")[中隊](../Page/中隊.md "wikilink")、旅団の普通科連隊本部管理中隊重迫撃砲小隊、[水陸機動団](https://ja.wikipedia.org/wiki/水陸機動団 "wikilink")の水陸機動連隊の各中隊に配備されているほか、野戦特科部隊でも即応機動連隊の火力支援中隊や水陸機動団特科大隊、またその機動性から[第1空挺団の](../Page/第1空挺団_\(陸上自衛隊\).md "wikilink")[空挺特科大隊](../Page/空挺特科大隊.md "wikilink")にも装備されている\[1\]\[2\]。空輸の際は、[CH-47Jにより吊り下げられて空輸される](https://ja.wikipedia.org/wiki/CH-47_\(航空機\)#日本 "wikilink")。
 
 一般公募で付けられた愛称は「**ヘヴィハンマー**」だが、他の装備と同様に愛称は部隊内では使われず、隊員達からは「**120モーター**」「**120迫（ひゃくにじゅっぱく）**」などと呼ばれている。
 

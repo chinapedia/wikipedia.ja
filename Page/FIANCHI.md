@@ -100,7 +100,7 @@
 ## 外部リンク
 
   - [MOCA STYLE：artists](http://www.moca-style.jp/artists/index.html) - 所属レーベルによるアーティスト情報ページ
-  - [1](http://ameblo.jp/fianchi/page-1.html#main)　-　公式ブログ
+  - [1](https://ameblo.jp/fianchi/page-1.html#main)　-　公式ブログ
   - [Kondo Profile](http://www.toolsjapan.com/aboutus/profile_kondo.html#アンカー) - ツゥールズによる近藤昌プロフィール
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

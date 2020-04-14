@@ -1,4 +1,4 @@
-> この記事は[BE WITH YOU \(GLAY\)](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAY\))から翻訳されています。
+> この記事は[BE WITH YOU \(GLAYの曲\)](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\))から翻訳されています。
 
 
 「**BE WITH YOU**」（ビー ウィズ ユー）は、[GLAY](../Page/GLAY.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。

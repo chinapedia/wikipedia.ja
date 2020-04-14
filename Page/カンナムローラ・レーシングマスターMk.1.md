@@ -1,4 +1,4 @@
-> この記事は[Mk.1](https://ja.wikipedia.org/wiki/Mk.1)から翻訳されています。
+> この記事は[カンナムローラ・レーシングマスターMk.1](https://ja.wikipedia.org/wiki/カンナムローラ・レーシングマスターMk.1)から翻訳されています。
 
 
 **カンナムローラ・レーシングマスターMk.1**は田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）が[レーシングマスターシリーズ](https://ja.wikipedia.org/wiki/レーシングマスターシリーズ "wikilink")の第一作目として生産・販売した1/12スケールの電動[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")カーである。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")発売。

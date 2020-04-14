@@ -1,4 +1,4 @@
-> この記事は[BBN](https://ja.wikipedia.org/wiki/BBN)から翻訳されています。
+> この記事は[BBNテクノロジーズ](https://ja.wikipedia.org/wiki/BBNテクノロジーズ)から翻訳されています。
 
 
 **BBNテクノロジーズ**（）は、受託の[研究開発](../Page/研究開発.md "wikilink")を専門とするハイテク企業である。かつては  と称し、**BBN**社と呼ばれることも多い。所在地は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ケンブリッジ](../Page/ケンブリッジ_\(マサチューセッツ州\).md "wikilink")。（および[インターネット](../Page/インターネット.md "wikilink")を含む）[パケット通信](../Page/パケット通信.md "wikilink")の開発で最もよく知られているが、[民間軍事会社](../Page/民間軍事会社.md "wikilink")でもあり、[国防高等研究計画局](../Page/国防高等研究計画局.md "wikilink")と関わりが深い。

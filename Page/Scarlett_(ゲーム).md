@@ -1,4 +1,4 @@
-> この記事は[Scarlett \(\)](https://ja.wikipedia.org/wiki/Scarlett_\(\))から翻訳されています。
+> この記事は[Scarlett \(ゲーム\)](https://ja.wikipedia.org/wiki/Scarlett_\(ゲーム\))から翻訳されています。
 
 
 『**Scarlett**』（**スカーレット**）は、[ねこねこソフト](../Page/ねこねこソフト.md "wikilink")による[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。初回版は[2006年](../Page/2006年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、通常版は同年[7月21日](../Page/7月21日.md "wikilink")発売。

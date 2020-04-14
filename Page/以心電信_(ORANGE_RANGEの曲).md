@@ -1,4 +1,4 @@
-> この記事は[ \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/_\(ORANGE_RANGE\))から翻訳されています。
+> この記事は[以心電信 \(ORANGE RANGEの曲\)](https://ja.wikipedia.org/wiki/以心電信_\(ORANGE_RANGEの曲\))から翻訳されています。
 
 
 「**以心電信**」（いしんでんしん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。

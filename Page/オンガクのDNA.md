@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[オンガクのDNA](https://ja.wikipedia.org/wiki/オンガクのDNA)から翻訳されています。
 
 
 **オンガクのDNA**（ - ディーエヌエー）は、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")(tvk)で放送していた音楽番組。
@@ -105,7 +105,7 @@ tvkが新社屋移転とVI導入時に開始した新番組（16本）の1本で
 
   - [オンガクのDNA](http://www3.tvk-yokohama.com/dna/)（公式サイト）
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink")
+[Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink")
 
 1.  この日のゲストは[モーモールルギャバン](https://ja.wikipedia.org/wiki/モーモールルギャバン "wikilink")だった。
 2.  ただし[競輪](../Page/競輪.md "wikilink")中継や[神奈川大学野球中継などの特番が組まれた場合は休止](../Page/神奈川大学野球連盟.md "wikilink")。

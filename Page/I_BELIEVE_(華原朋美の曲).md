@@ -1,4 +1,4 @@
-> この記事は[I BELIEVE \(\)](https://ja.wikipedia.org/wiki/I_BELIEVE_\(\))から翻訳されています。
+> この記事は[I BELIEVE \(華原朋美の曲\)](https://ja.wikipedia.org/wiki/I_BELIEVE_\(華原朋美の曲\))から翻訳されています。
 
 
 「**I BELIEVE**」（アイ・ビリーヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手、[華原朋美](../Page/華原朋美.md "wikilink")の2枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。

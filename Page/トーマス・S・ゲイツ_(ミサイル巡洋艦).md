@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[トーマス・S・ゲイツ \(ミサイル巡洋艦\)](https://ja.wikipedia.org/wiki/トーマス・S・ゲイツ_\(ミサイル巡洋艦\))から翻訳されています。
 
 
 **トーマス・S・ゲイツ**(**USS *Thomas S. Gates*, CG-51**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")。[タイコンデロガ級ミサイル巡洋艦](../Page/タイコンデロガ級ミサイル巡洋艦.md "wikilink")の5番艦。艦名は[アイゼンハワー政権で](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[国防長官を務めた](../Page/アメリカ合衆国国防長官.md "wikilink")[トーマス・S・ゲイツ](https://ja.wikipedia.org/wiki/トーマス・S・ゲイツ "wikilink")に因む。

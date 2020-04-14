@@ -1,4 +1,4 @@
-> この記事は[ROOT](https://ja.wikipedia.org/wiki/ROOT)から翻訳されています。
+> この記事は[ROOTねこねこ](https://ja.wikipedia.org/wiki/ROOTねこねこ)から翻訳されています。
 
 
 『**ROOTねこねこ**』（ルートねこねこ）は[小野敏洋](../Page/小野敏洋.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

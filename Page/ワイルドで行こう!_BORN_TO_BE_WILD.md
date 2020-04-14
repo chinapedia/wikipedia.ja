@@ -1,4 +1,4 @@
-> この記事は[! BORN TO BE WILD](https://ja.wikipedia.org/wiki/!_BORN_TO_BE_WILD)から翻訳されています。
+> この記事は[ワイルドで行こう! BORN TO BE WILD](https://ja.wikipedia.org/wiki/ワイルドで行こう!_BORN_TO_BE_WILD)から翻訳されています。
 
 
 『**ワイルドで行こう\! BORN TO BE WILD**』（ワイルドでいこう ボントウビィワイルド）は、[1988年](../Page/1988年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")・[内海光司](../Page/内海光司.md "wikilink")主演の、[狼男](../Page/狼男.md "wikilink")をテーマにした青春ファンタスティック・コメディ[ドラマ](../Page/ドラマ.md "wikilink")。

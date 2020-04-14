@@ -1,4 +1,4 @@
-> この記事は[! DELUXE PACK](https://ja.wikipedia.org/wiki/!_DELUXE_PACK)から翻訳されています。
+> この記事は[出たなツインビーヤッホー! DELUXE PACK](https://ja.wikipedia.org/wiki/出たなツインビーヤッホー!_DELUXE_PACK)から翻訳されています。
 
 
 **出たなツインビーヤッホー\! DELUXE PACK**（でたなツインビーヤッホー\!デラックスパック）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として制作された[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")、『**[出たな\!\!ツインビー](../Page/出たな!!ツインビー.md "wikilink")**』と『**[ツインビーヤッホー\! ふしぎの国で大あばれ\!\!](../Page/ツインビーヤッホー!_ふしぎの国で大あばれ!!.md "wikilink")**』が収録されている。

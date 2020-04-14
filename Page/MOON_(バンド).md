@@ -1,4 +1,4 @@
-> この記事は[MOON \(\)](https://ja.wikipedia.org/wiki/MOON_\(\))から翻訳されています。
+> この記事は[MOON \(バンド\)](https://ja.wikipedia.org/wiki/MOON_\(バンド\))から翻訳されています。
 
 
 **MOON**(ムーン)は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド。

@@ -1,7 +1,7 @@
 > この記事は[DJ OASIS](https://ja.wikipedia.org/wiki/DJ_OASIS)から翻訳されています。
 
 
-**DJ OASIS**（ディージェイ・オアシス、本名：坂上功〈さかがみ いさお〉、[1972年](../Page/1972年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のヒップホップグループ[KGDR](../Page/KGDR.md "wikilink")（キングギドラ）の[DJ兼](../Page/ディスクジョッキー.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。所属レコード会社は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")内アトミックボム・レコーズ。所属[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")はアトミックボム・プロダクションズ。既婚。
+**DJ OASIS**（ディージェイ・オアシス、本名：**坂上 功**〈さかがみ いさお〉、[1972年](../Page/1972年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のヒップホップグループ[KGDR](../Page/KGDR.md "wikilink")（キングギドラ）の[DJ兼](../Page/ディスクジョッキー.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。所属レコード会社は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")内アトミックボム・レコーズ。所属[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")はアトミックボム・プロダクションズ。既婚。
 
 [サンプリング](../Page/サンプリング.md "wikilink")を基本としたトラックをつくるのが特徴。ソロ活動以降はDJ、曲制作のみならずMCとしても活動、自らを「マイク持つDJ」と称している。
 
@@ -154,12 +154,12 @@
 
 ## 外部リンク
 
-  - [DJ OASIS](http://www.sonymusic.co.jp/artist/DJOASIS/) - [Sony Music](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [DJ OASIS](https://www.sonymusic.co.jp/artist/DJOASIS/) - [Sony Music](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
-  - [DJOASIS 自主規制なし](http://ameblo.jp/djoasis/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [DJOASIS 自主規制なし](https://ameblo.jp/djoasis/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  プロフィール | Sony Music <http://www.sonymusic.co.jp/artist/KG/profile/>

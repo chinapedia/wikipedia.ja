@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCシオン](https://ja.wikipedia.org/wiki/FCシオン)から翻訳されています。
 
 
 **フットボール・クラブ・シオン** (**Football Club Sion**) は、[スイス](../Page/スイス.md "wikilink")南部、[ヴァレー州](../Page/ヴァレー州.md "wikilink")の州都[シオンを本拠地とする](https://ja.wikipedia.org/wiki/シオン_\(スイス\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

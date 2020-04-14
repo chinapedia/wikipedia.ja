@@ -1,4 +1,4 @@
-> この記事は[Change my Style ](https://ja.wikipedia.org/wiki/Change_my_Style_)から翻訳されています。
+> この記事は[Change my Style 〜あなた好みの私に〜](https://ja.wikipedia.org/wiki/Change_my_Style_〜あなた好みの私に〜)から翻訳されています。
 
 
 **「Change My Style 〜あなた好みの私に〜」**（チェンジ・マイ・スタイル あなたごのみのわたしに）は、[2001年](../Page/2001年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[BLUE GALEから発売されたゲーム](../Page/ブルーゲイル.md "wikilink")、『コスって\! My Honey』のオープニングテーマ。作詞・作曲：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")、ボーカル：KOTOKO。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[コミックマスターJ](https://ja.wikipedia.org/wiki/コミックマスターJ)から翻訳されています。
 
 
 『**コミックマスターJ**』（コミックマスタージェイ）は、[田畑由秋](../Page/田畑由秋.md "wikilink")（脚本）と[余湖裕輝](../Page/余湖裕輝.md "wikilink")（作画）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[少年画報社](../Page/少年画報社.md "wikilink")刊行『[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")』に[1996年](../Page/1996年.md "wikilink")19号から[2005年](../Page/2005年.md "wikilink")11月号まで連載された。単行本は少年画報社から、全13巻。
@@ -58,6 +58,6 @@ Jの決意の元、ついに出版されたJUDGES、掲載雑誌「CLUB」は瞬
 
 ## 外部リンク
 
-  - [コミックマスターJ 作中作リスト](http://www.geocities.co.jp/Bookend/2133/manga-cj.html)
+  -
 
 [Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:ヤングキングアワーズ](https://ja.wikipedia.org/wiki/Category:ヤングキングアワーズ "wikilink") [Category:漫画を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:漫画を題材にした漫画作品 "wikilink") [Category:田畑由秋](https://ja.wikipedia.org/wiki/Category:田畑由秋 "wikilink")

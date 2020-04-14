@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[なんかいNEWS](https://ja.wikipedia.org/wiki/なんかいNEWS)から翻訳されています。
 
 
 『**なんかいNEWS**』（なんかいニュース）は、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNBテレビ）で放送されている[愛媛県](../Page/愛媛県.md "wikilink")ローカルの[スポットニュース](../Page/スポットニュース.md "wikilink")。RNB[ラジオ](../Page/ラジオ.md "wikilink")のローカルニュースは『[愛媛新聞ニュース](https://ja.wikipedia.org/wiki/愛媛新聞ニュース "wikilink")』（えひめしんぶんニュース）という題名で放送されている。

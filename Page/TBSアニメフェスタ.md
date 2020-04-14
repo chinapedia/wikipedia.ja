@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSアニメフェスタ](https://ja.wikipedia.org/wiki/TBSアニメフェスタ)から翻訳されています。
 
 
 **TBSアニメフェスタ**（ティービーエス アニメフェスタ）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")製作の[アニメ](../Page/アニメ.md "wikilink")作品に関する[イベント](../Page/イベント.md "wikilink")である。

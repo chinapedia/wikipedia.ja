@@ -1,4 +1,4 @@
-> この記事は[SD 2](https://ja.wikipedia.org/wiki/SD_2)から翻訳されています。
+> この記事は[SD頑駄無 武者○伝2](https://ja.wikipedia.org/wiki/SD頑駄無_武者○伝2)から翻訳されています。
 
 
 **SD頑駄無 武者○伝2**（エスディーがんだむ むしゃまるでんツー）は、[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズの第14作である。

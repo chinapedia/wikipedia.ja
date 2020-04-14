@@ -1,4 +1,4 @@
-> この記事は[Mathematica](https://ja.wikipedia.org/wiki/Mathematica)から翻訳されています。
+> この記事は[日本Mathematicaユーザー会](https://ja.wikipedia.org/wiki/日本Mathematicaユーザー会)から翻訳されています。
 
 
 **日本Mathematicaユーザー会**（にっぽんMathematicaユーザーかい）は、[スティーブン・ウルフラム](../Page/スティーブン・ウルフラム.md "wikilink")が考案し広く使われている[数式処理システム](../Page/数式処理システム.md "wikilink")である[Mathematica](../Page/Mathematica.md "wikilink")の日本におけるユーザー組織である。現在のユーザー組織は、2001年6月から活動を行っている。

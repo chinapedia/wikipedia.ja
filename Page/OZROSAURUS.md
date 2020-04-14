@@ -12,7 +12,7 @@
   - [2003年](../Page/2003年.md "wikilink") - 2ndアルバム『JUICE』を発表。この直後にMACCHOが交通事故に遭い、一時は死線を彷徨うも奇跡的に回復\[8\]。
   - [2004年](../Page/2004年.md "wikilink") - DJ TOMOが方向性の違いにより脱退\[9\]。以後、MACCHOのソロユニットとなる。
   - [2005年](../Page/2005年.md "wikilink") - DS455と共に新レーベルBAY BLUES RECORDZを設立\[10\]。
-  - [2006年](../Page/2006年.md "wikilink") - 3rdアルバム『Rhyme\&Blues』を発表。[音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")MUSIC MAGAZINEやBLASTでBEST HIPHOP ALBUM 2006に選ばれる\[11\]。
+  - [2006年](../Page/2006年.md "wikilink") - 3rdアルバム『Rhyme\&Blues』を発表。[音楽雑誌](../Page/音楽雑誌.md "wikilink")MUSIC MAGAZINEやBLASTでBEST HIPHOP ALBUM 2006に選ばれる\[11\]。
   - [2007年](../Page/2007年.md "wikilink") - 所属していた[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")との間で起きた歌詞の表記を巡っての対立をきっかけにインディーズに活動の場を移し\[12\]、4thアルバム『Hysterical』を発表。
   - [2009年](../Page/2009年.md "wikilink") - MACCHOが、ヒップホップ創成期から活躍する大御所DJ、[グランドマスター・フラッシュ](../Page/グランドマスター・フラッシュ.md "wikilink")の20年ぶりの新作『The Bridge: Concept Of A Culture』へ客演で参加\[13\]。
   - [2011年](../Page/2011年.md "wikilink") - [EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")と契約。メジャーでの活動を再開。

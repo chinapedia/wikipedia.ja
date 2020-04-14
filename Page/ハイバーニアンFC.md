@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハイバーニアンFC](https://ja.wikipedia.org/wiki/ハイバーニアンFC)から翻訳されています。
 
 
 **ハイバーニアン・フットボールクラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")東部の都市[エディンバラ](../Page/エディンバラ.md "wikilink")を拠点とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。同じ市内にある[ハーツとともに](https://ja.wikipedia.org/wiki/ハート・オブ・ミドロシアン "wikilink")、[スコティッシュ・プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")に所属する。
@@ -24,6 +24,10 @@
 ## 愛称
 
 ハイバーニアンは、ファンからしばしば「ハイビーズ（Hibees）」という愛称で呼ばれる。世界的には、「ヒブス（Hibs）」という略称が用いられる。一方、ハイバーニアンの[サポーターは](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")「ハイビーズ（Hibbies）」と呼ばれ、あるいはリース町にあるパブ "The Cabbage And Ribs" にちなんで「キャベツ（Cabbage）」と呼ばれることもある。
+
+## エピソード
+
+  - 1996年公開の映画[トレインスポッティング](../Page/トレインスポッティング.md "wikilink")では主人公であるマーク・レントンの応援するクラブとして登場する。
 
 ## 過去の成績
 

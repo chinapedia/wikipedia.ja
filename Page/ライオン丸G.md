@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ライオン丸G](https://ja.wikipedia.org/wiki/ライオン丸G)から翻訳されています。
 
 
 『**ライオン丸G**』（ライオンまるジー）は、[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から同年[12月24日](../Page/12月24日.md "wikilink")まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全13話。

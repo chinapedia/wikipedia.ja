@@ -1,4 +1,4 @@
-> この記事は[D.C. White Season  ](https://ja.wikipedia.org/wiki/D.C._White_Season__)から翻訳されています。
+> この記事は[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](https://ja.wikipedia.org/wiki/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜)から翻訳されています。
 
 
 『**D.C. White Season 〜ダ・カーポ ホワイトシーズン〜**』は、[CIRCUS NORTHERN製作のアダルトゲーム](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")。通称『**D.C.W.S.**』。

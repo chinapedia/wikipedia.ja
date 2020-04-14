@@ -1,4 +1,4 @@
-> この記事は[GOLDENAGE](https://ja.wikipedia.org/wiki/GOLDENAGE)から翻訳されています。
+> この記事は[GOLDEN★AGE](https://ja.wikipedia.org/wiki/GOLDEN★AGE)から翻訳されています。
 
 
 『**GOLDEN★AGE**』（ゴールデン エイジ）は、[寒川一之](../Page/寒川一之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

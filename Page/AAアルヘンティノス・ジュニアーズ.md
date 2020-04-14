@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[AAアルヘンティノス・ジュニアーズ](https://ja.wikipedia.org/wiki/AAアルヘンティノス・ジュニアーズ)から翻訳されています。
 
 
 **アソシアシオン・アトレティカ・アルヘンティノス・ジュニアーズ**（）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の首都[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の[ラ・パテルナル](https://ja.wikipedia.org/wiki/ラ・パテルナル "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[BEATNATURE](https://ja.wikipedia.org/wiki/BEATNATURE)から翻訳されています。
+> この記事は[BEAT★NATURE](https://ja.wikipedia.org/wiki/BEAT★NATURE)から翻訳されています。
 
 
 **BEAT★NATURE**（ビート・ネイチャー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。2001年より活動開始。

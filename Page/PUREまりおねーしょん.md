@@ -1,4 +1,4 @@
-> この記事は[PURE](https://ja.wikipedia.org/wiki/PURE)から翻訳されています。
+> この記事は[PUREまりおねーしょん](https://ja.wikipedia.org/wiki/PUREまりおねーしょん)から翻訳されています。
 
 
 『**PUREまりおねーしょん**』（ピュアまりおねーしょん）は、[髙木信孝](https://ja.wikipedia.org/wiki/髙木信孝 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[メディアワークス](../Page/メディアワークス.md "wikilink")刊行『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』にて、[2003年](../Page/2003年.md "wikilink")1月号から[2004年](../Page/2004年.md "wikilink")7月号まで連載された。単行本は全2巻。
@@ -39,6 +39,5 @@
 
 ## 外部リンク
 
-  - [髙木信孝公式サイト M's GARDEN](http://homepage1.nifty.com/Mblem/index.html)
-
+  -
 [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:ロボットを主人公にした作品](https://ja.wikipedia.org/wiki/Category:ロボットを主人公にした作品 "wikilink") [Category:ロボットを題材とした漫画](https://ja.wikipedia.org/wiki/Category:ロボットを題材とした漫画 "wikilink")

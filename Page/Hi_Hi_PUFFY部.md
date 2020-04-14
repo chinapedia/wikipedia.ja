@@ -1,4 +1,4 @@
-> この記事は[Hi Hi PUFFY](https://ja.wikipedia.org/wiki/Hi_Hi_PUFFY)から翻訳されています。
+> この記事は[Hi Hi PUFFY部](https://ja.wikipedia.org/wiki/Hi_Hi_PUFFY部)から翻訳されています。
 
 
 『**Hi Hi PUFFY部**』（ハイ・ハイ・パフィーぶ）は、[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から同年[9月26日](../Page/9月26日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[『ネオバラエティ』水曜第4部で放送されていた](../Page/ネオバラエティ第4部.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全13回。放送時間は毎週水曜 25:21 - 25:51 （[日本標準時](../Page/日本標準時.md "wikilink")）。

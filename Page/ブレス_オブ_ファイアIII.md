@@ -1,4 +1,4 @@
-> この記事は[  III](https://ja.wikipedia.org/wiki/__III)から翻訳されています。
+> この記事は[ブレス オブ ファイアIII](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアIII)から翻訳されています。
 
 
 『**ブレス オブ ファイアIII**』（ブレス オブ ファイア スリー）は、[カプコン](../Page/カプコン.md "wikilink")が[発売した](../Page/販売.md "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。『[ブレス オブ ファイア](../Page/ブレス_オブ_ファイア.md "wikilink")』[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")の3作目であり、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発売された。シリーズで唯一[サブタイトル](../Page/サブタイトル.md "wikilink")が付与されていない。

@@ -1,4 +1,4 @@
-> この記事は[UP!](https://ja.wikipedia.org/wiki/UP!)から翻訳されています。
+> この記事は[じゃじゃ馬グルーミン★UP!の登場人物](https://ja.wikipedia.org/wiki/じゃじゃ馬グルーミン★UP!の登場人物)から翻訳されています。
 
 
 **じゃじゃ馬グルーミン★UP\!の登場人物**（じゃじゃうまグルーミンアップのとうじょうじんぶつ）では、[ゆうきまさみ](../Page/ゆうきまさみ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[じゃじゃ馬グルーミン★UP\!](../Page/じゃじゃ馬グルーミン★UP!.md "wikilink")』に登場する架空の人物について述べる。

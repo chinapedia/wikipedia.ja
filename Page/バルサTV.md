@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[バルサTV](https://ja.wikipedia.org/wiki/バルサTV)から翻訳されています。
 
 
 **バルサTV**（Barça TV）は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のサッカークラブ・[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")（バルサ）のオフィシャルクラブTV。

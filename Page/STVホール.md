@@ -1,4 +1,4 @@
-> この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
+> この記事は[STVホール](https://ja.wikipedia.org/wiki/STVホール)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:STV-Sapporo-hq-01.jpg "wikilink") **STVホール**（エスティーブイホール）は、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")(STV)・[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")本社に併設されている公開スタジオ。

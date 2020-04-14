@@ -1,4 +1,4 @@
-> この記事は[C\&C](https://ja.wikipedia.org/wiki/C\&C)から翻訳されています。
+> この記事は[C\&Cメディア](https://ja.wikipedia.org/wiki/C\&Cメディア)から翻訳されています。
 
 
 **株式会社シーアンドシーメディア**（[英称](../Page/英語.md "wikilink")：C\&C Media Co., Ltd.）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")運営を行う会社である。

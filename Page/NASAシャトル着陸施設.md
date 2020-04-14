@@ -1,4 +1,4 @@
-> この記事は[NASA](https://ja.wikipedia.org/wiki/NASA)から翻訳されています。
+> この記事は[NASAシャトル着陸施設](https://ja.wikipedia.org/wiki/NASAシャトル着陸施設)から翻訳されています。
 
 
 **NASAシャトル着陸施設**（NASAシャトルちゃくりくしせつ、）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[ブレバード郡](https://ja.wikipedia.org/wiki/ブレバード郡_\(フロリダ州\) "wikilink")[メリット島](https://ja.wikipedia.org/wiki/メリット島 "wikilink")にある大規模滑走路施設である。[スペースシャトル](../Page/スペースシャトル.md "wikilink")の着陸を主目的に建設された。シャトルが退役した2011年までシャトルの帰還時に使われた。この滑走路はそれ以外にも[シャトル輸送機](../Page/シャトル輸送機.md "wikilink") (SCA) や[宇宙飛行士](../Page/宇宙飛行士.md "wikilink")の訓練用の[T-38ジェット練習機](../Page/T-38_\(航空機\).md "wikilink")、[シャトル訓練機](https://ja.wikipedia.org/wiki/スペースシャトル#シャトル訓練機 "wikilink") (STA) 、ロケットやシャトルで打ち上げられる[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")などの空輸に使われる輸送機などが利用している。

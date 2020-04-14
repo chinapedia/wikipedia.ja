@@ -1,4 +1,4 @@
-> この記事は[ a.k.a. Dogggystyle](https://ja.wikipedia.org/wiki/_a.k.a._Dogggystyle)から翻訳されています。
+> この記事は[犬式 a.k.a. Dogggystyle](https://ja.wikipedia.org/wiki/犬式_a.k.a._Dogggystyle)から翻訳されています。
 
 
 *'犬式 a.k.a.Dogggystyle*（いぬしき えーけーえーどぎーすたいる）とは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [2000年](../Page/2000年.md "wikilink")夏、[三宅洋平](https://ja.wikipedia.org/wiki/三宅洋平 "wikilink")を中心に「Dogggystyle」として始動。[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")をベースに様々な音楽要素を取り入れた音楽性を持ち、[吉祥寺](../Page/吉祥寺.md "wikilink")を中心に旺盛なライブ活動を行った。2009年に無期限活動休止\[1\]。2017年に犬式 (INUSHIKI)として再始動\[2\]。

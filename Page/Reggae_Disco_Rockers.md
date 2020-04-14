@@ -478,7 +478,7 @@
 | [小島淳二](../Page/小島淳二.md "wikilink")                    | 「太陽の石」「Bridge Over Troubled Water feat.Mika Arisaka」「Cherry Oh\! Baby feat.Miliyah」「I Feel You」 |
 | [高宮紀徹](https://ja.wikipedia.org/wiki/高宮紀徹 "wikilink") | 「Summer Breeze」                                                                                 |
 | 不明                                                    | 「[I SAW THE LIGHT](https://www.youtube.com/watch?v=cc5rxJz9Qw0)」                                |
-| [倉持大輔](https://ja.wikipedia.org/wiki/倉持大輔 "wikilink") | 「[Saturday Nite feat.YOYO-C](http://www.indiesmusic.com/musicvideo/video.asp?id=10326)」         |
+| [倉持大輔](https://ja.wikipedia.org/wiki/倉持大輔 "wikilink") | 「[Saturday Nite feat.YOYO-C](https://www.indiesmusic.com/musicvideo/video.asp?id=10326)」        |
 |                                                       |                                                                                                 |
 
 ## タイアップ

@@ -1,4 +1,4 @@
-> この記事は[CLUB](https://ja.wikipedia.org/wiki/CLUB)から翻訳されています。
+> この記事は[北野CLUB](https://ja.wikipedia.org/wiki/北野CLUB)から翻訳されています。
 
 
 **北野CLUB**（きたのくらぶ）とは、[CROSS FMが](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

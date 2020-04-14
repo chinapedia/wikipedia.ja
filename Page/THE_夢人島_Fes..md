@@ -1,4 +1,4 @@
-> この記事は[THE  Fes.](https://ja.wikipedia.org/wiki/THE__Fes.)から翻訳されています。
+> この記事は[THE 夢人島 Fes.](https://ja.wikipedia.org/wiki/THE_夢人島_Fes.)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hamanako-gp-02.jpg "wikilink") **THE 夢人島 Fes.**（**ザ・むじんとう・フェス**）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のリーダー[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が提唱した[ロックフェスティバルの名称](../Page/ロック・フェスティバル.md "wikilink")。正式名称は「**THE 夢人島 Fes.2006 WOW\!\!　紅白\! エンタのフレンドパーク Hey Hey ステーション …に泊まろう\!**」。[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")・[8月27日](../Page/8月27日.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[西区](../Page/西区_\(浜松市\).md "wikilink")[村櫛町](https://ja.wikipedia.org/wiki/村櫛町 "wikilink")の[浜名湖ガーデンパーク](../Page/浜名湖ガーデンパーク.md "wikilink")にて開催された。

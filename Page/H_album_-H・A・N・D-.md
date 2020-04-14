@@ -1,4 +1,4 @@
-> この記事は[H album -HAND-](https://ja.wikipedia.org/wiki/H_album_-HAND-)から翻訳されています。
+> この記事は[H album -H・A・N・D-](https://ja.wikipedia.org/wiki/H_album_-H・A・N・D-)から翻訳されています。
 
 
 『**H album -H・A・N・D-**』（エイチ・アルバム ハンド）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")8作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。

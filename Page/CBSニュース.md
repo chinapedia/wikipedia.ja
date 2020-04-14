@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSニュース](https://ja.wikipedia.org/wiki/CBSニュース)から翻訳されています。
 
 
 **CBSニュース**（**CBS News**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の放送ネットワーク[CBS](../Page/CBS.md "wikilink")のニュース制作子会社。

@@ -1,4 +1,4 @@
-> この記事は[HEY!](https://ja.wikipedia.org/wiki/HEY!)から翻訳されています。
+> この記事は[HEY!たくちゃん](https://ja.wikipedia.org/wiki/HEY!たくちゃん)から翻訳されています。
 
 
 **HEY\!たくちゃん**（ヘイたくちゃん、[1981年](../Page/1981年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ものまねタレント](../Page/ものまねタレント.md "wikilink")。本名、**藤谷 拓廊**（ふじや たくろう）。

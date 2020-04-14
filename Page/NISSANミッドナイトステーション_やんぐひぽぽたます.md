@@ -1,4 +1,4 @@
-> この記事は[NISSAN ](https://ja.wikipedia.org/wiki/NISSAN_)から翻訳されています。
+> この記事は[NISSANミッドナイトステーション やんぐひぽぽたます](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_やんぐひぽぽたます)から翻訳されています。
 
 
 **[NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink") やんぐひぽぽたます**（にっさん - ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称「**やんひぽ**」。[日産自動車](../Page/日産自動車.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")の「NISSANミッドナイトステーション」枠内の放送。

@@ -1,4 +1,4 @@
-> この記事は[BLEACH MEMORIES OF NOBODY](https://ja.wikipedia.org/wiki/BLEACH_MEMORIES_OF_NOBODY)から翻訳されています。
+> この記事は[劇場版BLEACH MEMORIES OF NOBODY](https://ja.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY)から翻訳されています。
 
 
 『**劇場版BLEACH MEMORIES OF NOBODY**』（げきじょうばん ブリーチ メモリーズ オブ ノーバディ）は、[2006年](../Page/2006年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[東宝](../Page/東宝.md "wikilink")系で公開された漫画『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")1作。

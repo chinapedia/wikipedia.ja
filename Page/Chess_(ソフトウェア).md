@@ -1,4 +1,4 @@
-> この記事は[Chess \(\)](https://ja.wikipedia.org/wiki/Chess_\(\))から翻訳されています。
+> この記事は[Chess \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Chess_\(ソフトウェア\))から翻訳されています。
 
 
 **Chess**は[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")に標準で付属している[コンピュータチェス](../Page/コンピュータチェス.md "wikilink")ソフトウェア。ライセンスは[GNU General Public Licenseで](../Page/GNU_General_Public_License.md "wikilink")、"About Chess" より[ソースコード](../Page/ソースコード.md "wikilink")を入手できる。一部の[Macintosh](../Page/Macintosh.md "wikilink")ハードウェアを購入すると、[Freeverse Softwareの](https://ja.wikipedia.org/wiki/Freeverse_Software "wikilink")[Big Bang Board Gamesも付属することがあるが](https://ja.wikipedia.org/wiki/Big_Bang_Board_Games "wikilink")、Big Bang Chessよりこちらのほうがシンプルである。[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")の頃から開発環境のDemoソフトとしてバンドルされていた。

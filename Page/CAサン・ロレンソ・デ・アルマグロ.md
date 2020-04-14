@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAサン・ロレンソ・デ・アルマグロ](https://ja.wikipedia.org/wiki/CAサン・ロレンソ・デ・アルマグロ)から翻訳されています。
 
 
 **CAサン・ロレンソ・デ・アルマグロ** () は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の首都[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の[ボエド](https://ja.wikipedia.org/wiki/ボエド "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

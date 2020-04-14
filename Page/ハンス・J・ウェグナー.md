@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ハンス・J・ウェグナー](https://ja.wikipedia.org/wiki/ハンス・J・ウェグナー)から翻訳されています。
 
 
 **ハンス・ヨルゲンセン・ウェグナー**（Hans Jørgensen Wegner、[1914年](../Page/1914年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[家具デザイナー](../Page/家具デザイナー.md "wikilink")である。

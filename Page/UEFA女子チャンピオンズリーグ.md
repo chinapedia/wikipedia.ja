@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFA女子チャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ)から翻訳されています。
 
 
 **UEFA女子チャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[女子サッカー](../Page/女子サッカー.md "wikilink")の大陸選手権大会である。

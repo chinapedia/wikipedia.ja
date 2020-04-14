@@ -1,4 +1,4 @@
-> この記事は[ The Movie music collection](https://ja.wikipedia.org/wiki/_The_Movie_music_collection)から翻訳されています。
+> この記事は[東京フレンズ The Movie music collection](https://ja.wikipedia.org/wiki/東京フレンズ_The_Movie_music_collection)から翻訳されています。
 
 
 『**東京フレンズ The Movie music collection**』（とうきょうフレンズ ザ・ムービー・ミュージック・コレクション）は、映画『[東京フレンズ The Movie](https://ja.wikipedia.org/wiki/東京フレンズ_The_Movie "wikilink")』のサウンドトラックである。劇中に登場するバンド「サバイバル・カンパニー」の楽曲もいくつか収録されている。

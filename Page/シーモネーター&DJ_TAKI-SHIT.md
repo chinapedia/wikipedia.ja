@@ -1,4 +1,4 @@
-> この記事は[\&DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/\&DJ_TAKI-SHIT)から翻訳されています。
+> この記事は[シーモネーター\&DJ TAKI-SHIT](https://ja.wikipedia.org/wiki/シーモネーター\&DJ_TAKI-SHIT)から翻訳されています。
 
 
 **シーモネーター\&DJ TAKI-SHIT**（シーモネーターアンドディージェイ・タキシット）は[名古屋](../Page/名古屋.md "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。2002年[ソニーレコードよりメジャーデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。ライブでは全裸の上に股間に天狗のお面という格好で行う。現在は活動を休止している。

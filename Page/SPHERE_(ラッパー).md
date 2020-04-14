@@ -1,4 +1,4 @@
-> この記事は[SPHERE \(\)](https://ja.wikipedia.org/wiki/SPHERE_\(\))から翻訳されています。
+> この記事は[SPHERE \(ラッパー\)](https://ja.wikipedia.org/wiki/SPHERE_\(ラッパー\))から翻訳されています。
 
 
 **SPHERE**（スフィア、本名：**坂倉友之**（さかくら ともゆき）、[1979年](../Page/1979年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[クリエイティブ・ディレクター](https://ja.wikipedia.org/wiki/クリエイティブ・ディレクター "wikilink")。異父兄は同じくヒップホップMCの[ZEEBRA](../Page/Zeebra.md "wikilink")、父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の祖父は[建築家](../Page/建築家.md "wikilink")の[坂倉準三](../Page/坂倉準三.md "wikilink")、曽祖父は[文化学院](../Page/文化学院.md "wikilink")創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は[実業家](../Page/実業家.md "wikilink")の[横井英樹](../Page/横井英樹.md "wikilink")\[1\]。

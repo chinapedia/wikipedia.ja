@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[ヨウ化銀\(I\)](https://ja.wikipedia.org/wiki/ヨウ化銀\(I\))から翻訳されています。
 
 
 | BoilingPt = 1506 {{℃}} | Viscosity = | pKa =

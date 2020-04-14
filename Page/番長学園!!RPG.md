@@ -1,4 +1,4 @@
-> この記事は[!!RPG](https://ja.wikipedia.org/wiki/!!RPG)から翻訳されています。
+> この記事は[番長学園!!RPG](https://ja.wikipedia.org/wiki/番長学園!!RPG)から翻訳されています。
 
 
 **番長学園\!\!RPG** （ばんちょうがくえんRPG）は学園物[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。作者は[寺田とものり](https://ja.wikipedia.org/wiki/寺田とものり "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")7月に[ホビージャパン](../Page/ホビージャパン.md "wikilink")から出版された。熱血プレイ・アクションプレイを楽しむのに適した、シンプルなルールと独特の世界観が特徴である。

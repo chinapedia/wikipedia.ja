@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ジェイムズ・H・シュミッツ](https://ja.wikipedia.org/wiki/ジェイムズ・H・シュミッツ)から翻訳されています。
 
 
 **ジェイムズ・ヘンリー・シュミッツ**（**James Henry Schmitz**、男性、[1911年](../Page/1911年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1981年](../Page/1981年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")。通常は「ジェイムズ・H・シュミッツ」と表記される。

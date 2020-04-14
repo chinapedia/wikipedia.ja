@@ -31,14 +31,18 @@ macOSやiOSの新バージョンが発表される初日朝の基調講演が注
   - 2012年 - Retinaディスプレイ搭載[MacBook Pro](../Page/MacBook_Pro.md "wikilink")
   - 2013年 - 円筒形デザインの[Mac Pro](https://ja.wikipedia.org/wiki/Mac_Pro#Mac_Pro_.282013.29_.5B6.5D.5B7.5D "wikilink")
   - 2017年 - 10.5インチの[iPad Pro](https://ja.wikipedia.org/wiki/iPad_Pro "wikilink")\[13\]、[iMac Pro](https://ja.wikipedia.org/wiki/iMac_Pro "wikilink")\[14\]、[HomePod](https://ja.wikipedia.org/wiki/HomePod "wikilink")\[15\]
+  - 2018年 - [iOS 12](https://ja.wikipedia.org/wiki/iOS_12 "wikilink"), [macOS Mojave](https://ja.wikipedia.org/wiki/macOS_Mojave "wikilink"), [Apple TV](../Page/Apple_TV.md "wikilink"), [watchOS 5](https://ja.wikipedia.org/wiki/watchOS "wikilink")
+  - 2019年 - [iOS 13](https://ja.wikipedia.org/wiki/iOS_13 "wikilink"), [Mac Pro](../Page/Mac_Pro.md "wikilink"), [Apple Pro Display XDR](https://ja.wikipedia.org/wiki/Apple_Pro_Display_XDR "wikilink"), [macOS Catalina](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink"), [iPadOS 13](https://ja.wikipedia.org/wiki/iPadOS "wikilink"), [tvOS 13](https://ja.wikipedia.org/wiki/tvOS "wikilink")
 
-基調講演と主なセッションの映像はライブ配信が行われており\[16\]、[Safari](../Page/Safari.md "wikilink")での視聴が推奨されている。また、終了の数時間後には公式サイトにてその映像が公開され、[iTunes Storeの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Podcast](https://ja.wikipedia.org/wiki/Podcast "wikilink")、及び[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で無償配信され、誰でも見ることができる状態になる。第三者によるビデオ撮影およびストリーム配信は禁止されている。更に2015年以降は自撮り棒等の持込が全面禁止となった。 なお、一時期ライブ配信が行われていなかったことがある。この時期は、講演を傍聴している報道関係者等によるテキストメモ及び写真撮影にそれらの即時配信だけが許可されていて、講演のリアルタイムの様子は彼らがサイトにアップロードした内容をウォッチすることで把握するスタイルが確立していた（これらはWWDC基調講演に限らずアップルの公式イベント全てで同様であった）が、ライブ配信が再開されたため過去の様式となった。しかし報道関係者の許可内容はそのまま存置されている。
+基調講演と主なセッションの映像はライブ配信が行われており\[16\]、[Safari](../Page/Safari.md "wikilink")での視聴が推奨されている。また、終了の数時間後には公式サイトにてその映像が公開され、[iTunes Storeの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Podcast](https://ja.wikipedia.org/wiki/Podcast "wikilink")、及び[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で無償配信され、誰でも見ることができる状態になる。第三者によるビデオ撮影およびストリーム配信は禁止されている。更に2015年以降は自撮り棒等の持込が全面禁止となった。なお、一時期ライブ配信が行われていなかったことがある。この時期は、講演を傍聴している報道関係者等によるテキストメモ及び写真撮影にそれらの即時配信だけが許可されていて、講演のリアルタイムの様子は彼らがサイトにアップロードした内容をウォッチすることで把握するスタイルが確立していた（これらはWWDC基調講演に限らずアップルの公式イベント全てで同様であった）が、ライブ配信が再開されたため過去の様式となった。しかし報道関係者の許可内容はそのまま存置されている。
 
 ## 脚注
 
 ### 出典
 
 <references/>
+
+17.https://jp.techcrunch.com/2019/06/07/video-article-wwdc-2019/
 
 ## 関連項目
 

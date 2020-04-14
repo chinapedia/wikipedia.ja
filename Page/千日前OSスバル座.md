@@ -1,4 +1,4 @@
-> この記事は[OS](https://ja.wikipedia.org/wiki/OS)から翻訳されています。
+> この記事は[千日前OSスバル座](https://ja.wikipedia.org/wiki/千日前OSスバル座)から翻訳されています。
 
 
 **千日前OSスバル座**（せんにちまえオーエススバルざ）は、かつて存在した日本の[映画館](../Page/映画館.md "wikilink")である。1951年（[昭和](../Page/昭和.md "wikilink")26年）6月以降は、[オーエス](../Page/オーエス.md "wikilink")株式会社が経営した。

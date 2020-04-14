@@ -1,4 +1,4 @@
-> この記事は[ Only Love](https://ja.wikipedia.org/wiki/_Only_Love)から翻訳されています。
+> この記事は[ときめきメモリアル Only Love](https://ja.wikipedia.org/wiki/ときめきメモリアル_Only_Love)から翻訳されています。
 
 
 『**ときめきメモリアル Only Love**』（ときめきメモリアル オンリーラブ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかで放送された[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")製作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品である。同社運営の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")『[ときめきメモリアルONLINE](../Page/ときめきメモリアルONLINE.md "wikilink")』の世界観をベースにしている。

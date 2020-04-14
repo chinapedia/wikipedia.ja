@@ -1,4 +1,4 @@
-> この記事は[La Esperanza--](https://ja.wikipedia.org/wiki/La_Esperanza--)から翻訳されています。
+> この記事は[La Esperanza-いつか叶う-](https://ja.wikipedia.org/wiki/La_Esperanza-いつか叶う-)から翻訳されています。
 
 
 [三井住友VISAシアター](../Page/三井住友カード.md "wikilink") ミュージカル・ロマン 『**La Esperanza**』-**いつか叶う-**（ラ・エスペランサ いつかかなう）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[花組](../Page/花組_\(宝塚歌劇\).md "wikilink")が上演したミュージカル作品。13場。

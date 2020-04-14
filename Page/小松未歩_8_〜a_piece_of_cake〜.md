@@ -1,11 +1,11 @@
-> この記事は[ 8 a piece of cake](https://ja.wikipedia.org/wiki/_8_a_piece_of_cake)から翻訳されています。
+> この記事は[小松未歩 8 〜a piece of cake〜](https://ja.wikipedia.org/wiki/小松未歩_8_〜a_piece_of_cake〜)から翻訳されています。
 
 
 『**小松未歩 8 〜a piece of cake〜**』（こまつみほ エイト ア ピース オブ ケーク）は、[小松未歩](../Page/小松未歩.md "wikilink")の8枚目のアルバム。2006年4月26日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5078。
 
 ## 内容
 
-  - 「[I just wanna hold you tight](../Page/I_just_wanna_hold_you_tight.md "wikilink")」から「[恋になれ...](../Page/恋になれ....md "wikilink")」までの3作のシングル曲、[岩田さゆり](../Page/岩田さゆり.md "wikilink")に楽曲提供した「[不機嫌になる私](../Page/不機嫌になる私.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")などを収録した8枚目のアルバム。
+  - 「[I just wanna hold you tight](../Page/I_just_wanna_hold_you_tight.md "wikilink")」から「[恋になれ...](../Page/恋になれ....md "wikilink")」までの3作のシングル曲、[岩田さゆり](../Page/岩田さゆり.md "wikilink")に楽曲提供した「[不機嫌になる私](../Page/不機嫌になる私.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")などを収録した8枚目のアルバム。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様となっている。
   - サブタイトルのa piece of cakeは、英俗語上の「いとも簡単にできること」\[1\]の意味ではなく、好きな[ケーキ](../Page/ケーキ.md "wikilink")を一切れだけ選んで買う気軽さと、その高揚感がたまらく好きであるという思いから付けられた。\[2\]
   - 『[小松未歩 6th 〜花野〜](../Page/小松未歩_6th_〜花野〜.md "wikilink")』から収録されてきたリミックス楽曲は、この作品では収録されていない。
   - ジャケット写真およびブックレット使用写真は、[大阪取引所](../Page/大阪取引所.md "wikilink")（撮影当時は[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")）の向かい側に建つ、[北浜レトロビルヂング](https://ja.wikipedia.org/wiki/北浜レトロビルヂング "wikilink")1階の[ティールーム](https://ja.wikipedia.org/wiki/ティールーム "wikilink")にあるケーキショーケース前にて撮影された。

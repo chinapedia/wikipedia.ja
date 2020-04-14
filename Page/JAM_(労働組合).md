@@ -1,4 +1,4 @@
-> この記事は[JAM \(\)](https://ja.wikipedia.org/wiki/JAM_\(\))から翻訳されています。
+> この記事は[JAM \(労働組合\)](https://ja.wikipedia.org/wiki/JAM_\(労働組合\))から翻訳されています。
 
 
 **JAM**（ジャム、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[労働組合](../Page/労働組合.md "wikilink")である。[日本労働組合総連合会](../Page/日本労働組合総連合会.md "wikilink")（連合）、[全日本金属産業労働組合協議会](https://ja.wikipedia.org/wiki/全日本金属産業労働組合協議会 "wikilink")（金属労協）に加盟している。

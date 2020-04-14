@@ -1,4 +1,4 @@
-> この記事は[WIND \(\)](https://ja.wikipedia.org/wiki/WIND_\(\))から翻訳されています。
+> この記事は[WIND \(倖田來未の曲\)](https://ja.wikipedia.org/wiki/WIND_\(倖田來未の曲\))から翻訳されています。
 
 
 {{Infobox Single | Name = WIND | Artist = [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") | Album = [BEST〜second session〜](https://ja.wikipedia.org/wiki/BEST〜second_session〜 "wikilink") | A-side = | B-side = | Released = [2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") | Format = | Recorded = 2005年 | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = | Label = [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink") | Writer = 倖田來未、[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink") | Producer = | Certification = | Chart position = \*3位（[オリコン](../Page/オリコンチャート.md "wikilink")） | Last single = [KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")
@@ -30,4 +30,8 @@ Boys 「**WIND**」（ウインド）は、[2006年](../Page/2006年.md "wikilin
 
   - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
 
-[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:森元康介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森元康介が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+## 外部リンク
+
+  - [公式サイト作品紹介ページ WIND](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004187)
+
+[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:森元康介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森元康介が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

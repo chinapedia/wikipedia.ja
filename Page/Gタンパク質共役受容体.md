@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gタンパク質共役受容体](https://ja.wikipedia.org/wiki/Gタンパク質共役受容体)から翻訳されています。
 
 
 [thumbが細胞外に](https://ja.wikipedia.org/wiki/画像:GPCR_in_membrane.png "wikilink")、[C末端](../Page/C末端.md "wikilink")が細胞内にあり、7つの膜貫通ドメインと細胞内と細胞外にそれぞれ3つずつループがある。\]\]

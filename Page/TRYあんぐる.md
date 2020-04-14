@@ -1,4 +1,4 @@
-> この記事は[TRY](https://ja.wikipedia.org/wiki/TRY)から翻訳されています。
+> この記事は[TRYあんぐる](https://ja.wikipedia.org/wiki/TRYあんぐる)から翻訳されています。
 
 
 『**TRYあんぐる**』（トライあんぐる）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[名古屋テレビで放送されていた](../Page/名古屋テレビ放送.md "wikilink")[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。当初は『**ニュースTRYあんぐる**』と題して放送されていた。

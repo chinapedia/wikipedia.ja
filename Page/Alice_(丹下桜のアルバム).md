@@ -1,4 +1,4 @@
-> この記事は[Alice \(\)](https://ja.wikipedia.org/wiki/Alice_\(\))から翻訳されています。
+> この記事は[Alice \(丹下桜のアルバム\)](https://ja.wikipedia.org/wiki/Alice_\(丹下桜のアルバム\))から翻訳されています。
 
 
 『**Alice**』（アリス）は、[丹下桜](../Page/丹下桜.md "wikilink")の企画[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。

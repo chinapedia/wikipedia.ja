@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCテレビジョンセンター](https://ja.wikipedia.org/wiki/BBCテレビジョンセンター)から翻訳されています。
 
 
 **BBCテレビジョンセンター**（BBC Television Centre）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")にかつて存在した[英国放送協会](../Page/英国放送協会.md "wikilink")の施設である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2013年](../Page/2013年.md "wikilink")3月までの間、ここから[BBCニュース](../Page/BBCニュース.md "wikilink")が配信された。

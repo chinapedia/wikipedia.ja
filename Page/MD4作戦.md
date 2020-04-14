@@ -1,4 +1,4 @@
-> この記事は[MD4](https://ja.wikipedia.org/wiki/MD4)から翻訳されています。
+> この記事は[MD4作戦](https://ja.wikipedia.org/wiki/MD4作戦)から翻訳されています。
 
 
 **MD4作戦** (Operation MD4) は1941年5月に[地中海](../Page/地中海.md "wikilink")で行われたイギリス軍の[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")。[エジプト](../Page/エジプト.md "wikilink")のイギリス軍へ戦車などを運ぶタイガー船団を[ジブラルタル](../Page/ジブラルタル.md "wikilink")方面から[アレクサンドリア](../Page/アレクサンドリア.md "wikilink")へ無事に送り届けることが作戦の目的である。タイガー船団と同時にアレクサンドリアから[マルタ](../Page/マルタ.md "wikilink")へも船団が送られた。この作戦が行われた時期は[ギリシャの戦い](https://ja.wikipedia.org/wiki/ギリシャの戦い "wikilink")の後で[クレタ島の戦い](../Page/クレタ島の戦い.md "wikilink")の始まる前である。

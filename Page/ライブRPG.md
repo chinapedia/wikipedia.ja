@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ライブRPG](https://ja.wikipedia.org/wiki/ライブRPG)から翻訳されています。
 
 
 [Agerboern.jpg](https://ja.wikipedia.org/wiki/File:Agerboern.jpg "fig:Agerboern.jpg") **ライブRPG**、または**ライブアクションRPG**（）は[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の1形態で、現実世界で[プレイヤー](https://ja.wikipedia.org/wiki/プレイヤー "wikilink")の身体的行動を大きく伴う。略称として**LARP**（ラープ）とも呼ばれる。

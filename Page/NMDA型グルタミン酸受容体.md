@@ -1,4 +1,4 @@
-> この記事は[NMDA](https://ja.wikipedia.org/wiki/NMDA)から翻訳されています。
+> この記事は[NMDA型グルタミン酸受容体](https://ja.wikipedia.org/wiki/NMDA型グルタミン酸受容体)から翻訳されています。
 
 
 **NMDA型グルタミン酸受容体**（エヌエムディーエーがたグルタミンさんじゅようたい）は[グルタミン酸受容体](https://ja.wikipedia.org/wiki/グルタミン酸受容体 "wikilink")の一種。[記憶](../Page/記憶.md "wikilink")や[学習](../Page/学習.md "wikilink")、また[脳虚血](https://ja.wikipedia.org/wiki/脳虚血 "wikilink")後の神経細胞死などに深く関わる受容体であると考えられている。他のグルタミン酸受容体サブタイプである [AMPA受容体](https://ja.wikipedia.org/wiki/AMPA受容体 "wikilink")や[カイニン酸受容体](https://ja.wikipedia.org/wiki/カイニン酸受容体 "wikilink")と異なり、NMDA（[N-メチル-<small>D</small>-アスパラギン酸](https://ja.wikipedia.org/wiki/N-メチル-D-アスパラギン酸 "wikilink")）が[アゴニスト](../Page/アゴニスト.md "wikilink")として選択的に作用することから分類された。

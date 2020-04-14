@@ -1,4 +1,4 @@
-> この記事は[High1](https://ja.wikipedia.org/wiki/High1)から翻訳されています。
+> この記事は[High1アイスホッケーチーム](https://ja.wikipedia.org/wiki/High1アイスホッケーチーム)から翻訳されています。
 
 
 [High1mascot.JPG](https://ja.wikipedia.org/wiki/File:High1mascot.JPG "fig:High1mascot.JPG") **High1アイスホッケーチーム**（韓国語：하이원 아이스하키단、英語：High1 ice Hockey Team）は、[大韓民国](../Page/大韓民国.md "wikilink")[江原道](../Page/江原道_\(南\).md "wikilink")[春川市](https://ja.wikipedia.org/wiki/春川市 "wikilink")を本拠地とする[アイスホッケー](../Page/アイスホッケー.md "wikilink")チームである。ホームリンクは、衣岩（ウィアム）アイスリンク。旧称は**カンウォンランド**（江原-、）。[アジアリーグアイスホッケー](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")に参加している。

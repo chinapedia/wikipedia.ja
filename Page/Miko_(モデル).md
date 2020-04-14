@@ -1,4 +1,4 @@
-> この記事は[Miko \(\)](https://ja.wikipedia.org/wiki/Miko_\(\))から翻訳されています。
+> この記事は[Miko \(モデル\)](https://ja.wikipedia.org/wiki/Miko_\(モデル\))から翻訳されています。
 
 
 **miko**（みこ、[1981年](../Page/1981年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink") - ）は、[山梨県](../Page/山梨県.md "wikilink")出身の[モデル](../Page/モデル_\(職業\).md "wikilink")、[女優](../Page/俳優.md "wikilink")。[スパイス所属](https://ja.wikipedia.org/wiki/スパイス_\(芸能プロダクション\) "wikilink")。

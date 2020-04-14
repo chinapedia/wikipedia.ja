@@ -1,19 +1,21 @@
-> この記事は[G.55 \(\)](https://ja.wikipedia.org/wiki/G.55_\(\))から翻訳されています。
+> この記事は[G.55 \(航空機\)](https://ja.wikipedia.org/wiki/G.55_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=フィアット G.55 チェンタウロ | 画像=Image:FIAT G-55 Centauro (1).jpg | キャプション=Fiat G.55 Centauro | 用途=戦闘 | 分類=戦闘機 | 設計者=[ジュゼッペ・ガブリエッリ](../Page/ジュゼッペ・ガブリエッリ.md "wikilink") | 製造者=[フィアット](../Page/フィアット.md "wikilink")社 | 運用者= イタリア王立空軍
+{{ Infobox 航空機 | 名称 = G.55 チェンタウロ | 画像 = Image:FIAT G-55 Centauro (1).jpg | キャプション = G.55 チェンタウロ | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = 戦闘機 | 設計者 = [ジュゼッペ・ガブリエッリ](../Page/ジュゼッペ・ガブリエッリ.md "wikilink") | 製造者 = [フィアット](../Page/フィアット.md "wikilink")社 | 運用者 =
+\*\*  [イタリア王立空軍](https://ja.wikipedia.org/wiki/イタリア空軍#戦間期:_王立空軍の創設 "wikilink")
 
-  -   - イタリア共和国空軍
+  -   - [イタリア国家空軍](https://ja.wikipedia.org/wiki/:en:Aeronautica_Nazionale_Repubblicana "wikilink")
 
-      - イタリア軍事空軍（戦後）
+      - [イタリア共和国空軍](https://ja.wikipedia.org/wiki/イタリア空軍#共和国時代 "wikilink")
 
-      - アルゼンチン空軍（戦後）
+      -
+      - [エジプト空軍](https://ja.wikipedia.org/wiki/エジプト軍#エジプト空軍 "wikilink")
 
-      - エジプト空軍（戦後）
+| 初飛行年月日 = [1942年](../Page/1942年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") | 生産数 = 274機 (戦時) 75機 (戦後)\[1\] | 生産開始年月日 = [1943年](../Page/1943年.md "wikilink") | 運用開始年月日 = 1943年[6月](../Page/6月.md "wikilink") | 退役年月日 = [1945年](../Page/1945年.md "wikilink") | 運用状況 = 退役 | ユニットコスト = 535,000[伊リラ](../Page/イタリア・リラ.md "wikilink")\[2\] }}
 
-| 初飛行年月日=1942年4月30日 | 生産数=約300機（大戦中生産分） | 生産開始年月日=1943年 | 運用開始年月日=1943年6月 | 退役年月日= | 運用状況=退役 | ユニットコスト= }}
+**G.55 チェンタウロ**（*Fiat G.55 Centauro* ）は、[イタリア](../Page/イタリア.md "wikilink")の[フィアット](../Page/フィアット.md "wikilink")社が開発し、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中から戦後にかけて主に[イタリア空軍](../Page/イタリア空軍.md "wikilink")で運用された[戦闘機](../Page/戦闘機.md "wikilink")。
 
-**フィアット G.55 チェンタウロ**（Fiat G.55 Centauro、[ケンタウルスの意](../Page/ケンタウロス.md "wikilink")）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[イタリア](../Page/イタリア.md "wikilink")が開発・製造した[戦闘機](../Page/戦闘機.md "wikilink")。
+愛称の「**チェンタウロ** (Centauro)」は、[ケンタウルスの意](../Page/ケンタウロス.md "wikilink")。
 
 ## 概要
 
@@ -96,9 +98,18 @@ G.56はG.55により高出力の[DB603液冷エンジンを搭載した試作機
       -
         G.55 sottoserie 0、G.55 serie 1、G.55sの３種類が存在する。高火力、良好な機動性でイタリア屈指の強機体である。
 
+## 脚注
+
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [ジュゼッペ・ガブリエッリ](../Page/ジュゼッペ・ガブリエッリ.md "wikilink") - 本機の設計者。
   - [戦闘機一覧](../Page/戦闘機一覧.md "wikilink")
 
 [Category:イタリアの戦闘機](https://ja.wikipedia.org/wiki/Category:イタリアの戦闘機 "wikilink") [Category:フィアットの航空機](https://ja.wikipedia.org/wiki/Category:フィアットの航空機 "wikilink")
+
+1.  Mondey 2006, pp. 60–61.
+2.  Nino Arena, *FIAT G 55 "Centauro*, Modena Edizioni Stem Mucchi, 1994

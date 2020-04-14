@@ -1,11 +1,11 @@
-> この記事は[ 7 prime number](https://ja.wikipedia.org/wiki/_7_prime_number)から翻訳されています。
+> この記事は[小松未歩 7 〜prime number〜](https://ja.wikipedia.org/wiki/小松未歩_7_〜prime_number〜)から翻訳されています。
 
 
 『**小松未歩 7 〜prime number〜**』（こまつみほ セブン プライム ナンバー）は、[小松未歩](../Page/小松未歩.md "wikilink")の7枚目のアルバム。2005年1月26日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5062\[1\]。
 
 ## 内容
 
-  - 「[翼はなくても](../Page/翼はなくても.md "wikilink")」から「[I 〜誰か...](../Page/I_〜誰か....md "wikilink")」までの4作のシングル曲などを収録した7枚目のアルバム。
+  - 「[翼はなくても](../Page/翼はなくても.md "wikilink")」から「[I 〜誰か...](../Page/I_〜誰か....md "wikilink")」までの4作のシングル曲などを収録した7枚目のアルバム。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様となっている。
   - サブタイトルのprime number（＝[素数](../Page/素数.md "wikilink")）の意味は、1とその数字でしか割り切ることの出来ない数字のこと。つまり、これまでのアーティスト活動を支えてくれたファンの皆と自分でしか分かち合えないアルバムに仕上がったということを意味し、本人も素数という言葉の響きが気に入ったからであるという。\[2\]
   - ジャケット写真は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[浪速区](../Page/浪速区.md "wikilink")の[フェスティバルゲート](../Page/フェスティバルゲート.md "wikilink")内にて設置されていた、マーメイドカルーセル（メリーゴーランド）前で撮影された。
   - ボーナス・トラックには「涙キラリ飛ばせ」のJAZZ風ヴァージョンが収録予定だった（Music Freak Magazine121号INFORMATIONより）

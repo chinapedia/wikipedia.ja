@@ -1,4 +1,4 @@
-> この記事は[Template Method ](https://ja.wikipedia.org/wiki/Template_Method_)から翻訳されています。
+> この記事は[Template Method パターン](https://ja.wikipedia.org/wiki/Template_Method_パターン)から翻訳されています。
 
 
 **Template Method パターン**（テンプレート・メソッド・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")(Gang of Four; 4人のギャングたち)によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。「振る舞いに関するパターン」に属する。Template Method パターンの目的は、ある処理のおおまかなアルゴリズムをあらかじめ決めておいて、そのアルゴリズムの具体的な設計をサブクラスに任せることである。そのため、システムの[フレームワークを構築するための手段としてよく活用される](../Page/アプリケーションフレームワーク.md "wikilink")。

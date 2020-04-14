@@ -1,4 +1,4 @@
-> この記事は[ALL \(AAA\)](https://ja.wikipedia.org/wiki/ALL_\(AAA\))から翻訳されています。
+> この記事は[ALL \(AAAのアルバム\)](https://ja.wikipedia.org/wiki/ALL_\(AAAのアルバム\))から翻訳されています。
 
 
 『**ALL**』（オール）は、[2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

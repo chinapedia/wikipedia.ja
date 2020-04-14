@@ -1,4 +1,4 @@
-> この記事は[SO3C \(\)](https://ja.wikipedia.org/wiki/SO3C_\(\))から翻訳されています。
+> この記事は[SO3C \(航空機\)](https://ja.wikipedia.org/wiki/SO3C_\(航空機\))から翻訳されています。
 
 
 **SO3C シーミュウ**（*Curtiss-Wright SO3C Seamew* ）は、[カーチス・ライト](../Page/カーチス・ライト.md "wikilink")社が開発し、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が運用した[偵察](../Page/偵察機.md "wikilink")[観測機](../Page/観測機.md "wikilink")。

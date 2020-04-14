@@ -1,4 +1,4 @@
-> この記事は[MC4](https://ja.wikipedia.org/wiki/MC4)から翻訳されています。
+> この記事は[MC4作戦](https://ja.wikipedia.org/wiki/MC4作戦)から翻訳されています。
 
 
 **MC4作戦**は1941年1月にイギリス軍が[地中海](../Page/地中海.md "wikilink")で実行した作戦で、エクセス船団 (Convoy Excess)、MW5 1/2船団、ME5 1/2船団、ME6船団の護衛が含まれる。**エクセス作戦** (Operation Excess) と呼ばれることもある。

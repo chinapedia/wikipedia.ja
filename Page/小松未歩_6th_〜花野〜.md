@@ -1,4 +1,4 @@
-> この記事は[ 6th ](https://ja.wikipedia.org/wiki/_6th_)から翻訳されています。
+> この記事は[小松未歩 6th 〜花野〜](https://ja.wikipedia.org/wiki/小松未歩_6th_〜花野〜)から翻訳されています。
 
 
 『**小松未歩 6th 〜花野〜**』（こまつみほ シックス はなの）は、[小松未歩](../Page/小松未歩.md "wikilink")の6枚目のアルバム。2003年9月25日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5034\[1\]。
@@ -9,7 +9,7 @@
   - 楽曲を秋の野に咲く色とりどりの花に見立てたことからサブタイトルがつけられた。\[2\]
   - サブタイトルが日本語なのは『[小松未歩 2nd 〜未来〜](../Page/小松未歩_2nd_〜未来〜.md "wikilink")』以来で、セルフカバーが収録されるのも前述のアルバム以来である。
   - これまでのアルバム作品は収録曲数が11曲で統一されていたが、この作品以降は収録曲数が増えている（[リミックスアルバムである](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")『[WONDERFUL WORLD](../Page/小松未歩_WONDERFUL_WORLD_〜SINGLE_REMIXES_&_MORE〜.md "wikilink")』を除く）。
-  - この作品よりアルバム作品はデジパックケース仕様となる（スリーブケース仕様である『[lyrics](https://ja.wikipedia.org/wiki/lyrics_\(小松未歩のアルバム\) "wikilink")』を除く）。
+  - この作品よりアルバム作品は[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様となる（スリーブケース仕様である『[lyrics](https://ja.wikipedia.org/wiki/lyrics_\(小松未歩のアルバム\) "wikilink")』を除く）。
 
 ## 収録曲
 

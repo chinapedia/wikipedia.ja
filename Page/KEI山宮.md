@@ -1,4 +1,4 @@
-> この記事は[KEI](https://ja.wikipedia.org/wiki/KEI)から翻訳されています。
+> この記事は[KEI山宮](https://ja.wikipedia.org/wiki/KEI山宮)から翻訳されています。
 
 
 **KEI山宮**（ケイやまみや、[1972年](../Page/1972年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[茅ヶ崎市](../Page/茅ヶ崎市.md "wikilink")出身。[GRABAKA](../Page/GRABAKA.md "wikilink")所属。初代[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")キング・オブ・[パンクラシスト](../Page/パンクラス.md "wikilink")。[神奈川県立茅ヶ崎高等学校](../Page/神奈川県立茅ヶ崎高等学校.md "wikilink")、[国士舘大学](../Page/国士舘大学.md "wikilink")卒業。

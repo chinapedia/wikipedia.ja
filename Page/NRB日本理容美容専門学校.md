@@ -1,4 +1,4 @@
-> この記事は[NRB](https://ja.wikipedia.org/wiki/NRB)から翻訳されています。
+> この記事は[NRB日本理容美容専門学校](https://ja.wikipedia.org/wiki/NRB日本理容美容専門学校)から翻訳されています。
 
 
 **NRB日本理容美容専門学校**（エヌアールビーにほんりようびよう-）は、[学校法人](../Page/学校法人.md "wikilink")岡山学園が運営する[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[生野区](../Page/生野区.md "wikilink")にある[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。

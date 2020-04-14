@@ -1,4 +1,4 @@
-> この記事は[KI](https://ja.wikipedia.org/wiki/KI)から翻訳されています。
+> この記事は[KIホールディングス](https://ja.wikipedia.org/wiki/KIホールディングス)から翻訳されています。
 
 
 **KIホールディングス株式会社**（ケイアイホールディングス）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[戸塚区](https://ja.wikipedia.org/wiki/戸塚区 "wikilink")に本社を置く、航空機シート製造を行う事業[持株会社](../Page/持株会社.md "wikilink")。

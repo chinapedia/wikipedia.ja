@@ -1,4 +1,4 @@
-> この記事は[ ROCK ERIGONOMI 2](https://ja.wikipedia.org/wiki/_ROCK_ERIGONOMI_2)から翻訳されています。
+> この記事は[真行寺恵里 ROCK ERIGONOMI 2](https://ja.wikipedia.org/wiki/真行寺恵里_ROCK_ERIGONOMI_2)から翻訳されています。
 
 
 『**真行寺恵里 ROCK ERIGONOMI 2**』（しんぎょうじえり ロックエリゴノミ ツー）は、[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")の[月曜日](../Page/月曜日.md "wikilink")深夜に放送されていたラジオ番組である。なお、タイトルに「2」が付いているのは、当時同一パーソナリティながら別番組だった『[真行寺恵里 ROCK ERIGONOMI](https://ja.wikipedia.org/wiki/真行寺恵里_ROCK_ERIGONOMI "wikilink")』（[FM愛知](../Page/エフエム愛知.md "wikilink")、[FM大阪](../Page/エフエム大阪.md "wikilink")、[広島FM](../Page/広島エフエム放送.md "wikilink") 他[FM](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")7局ネット）が放送されていたため。

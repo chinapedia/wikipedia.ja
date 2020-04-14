@@ -1,4 +1,4 @@
-> この記事は[EAFF E-1](https://ja.wikipedia.org/wiki/EAFF_E-1)から翻訳されています。
+> この記事は[EAFF E-1サッカー選手権](https://ja.wikipedia.org/wiki/EAFF_E-1サッカー選手権)から翻訳されています。
 
 
 **EAFF E-1サッカー選手権**\[1\]\[2\]（）は、[東アジアサッカー連盟](../Page/東アジアサッカー連盟.md "wikilink")（EAFF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。旧大会名は**東アジアサッカー選手権**、**EAFF東アジアカップ**。前身は、1990年から1998年まで開かれた[ダイナスティカップ](../Page/ダイナスティカップ.md "wikilink")。

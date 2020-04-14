@@ -1,4 +1,4 @@
-> この記事は[GAME KING VS !](https://ja.wikipedia.org/wiki/GAME_KING_VS_!)から翻訳されています。
+> この記事は[GAME KING 高橋名人VS毛利名人 激突!大決戦](https://ja.wikipedia.org/wiki/GAME_KING_高橋名人VS毛利名人_激突!大決戦)から翻訳されています。
 
 
 **GAME KING 高橋名人VS毛利名人 激突\!大決戦**（ゲームキングたかはしめいじんバーサスもうりめいじんげきとつ\!だいけっせん）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に公開された[映画](../Page/映画.md "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[サミュエル・R・ディレイニー](https://ja.wikipedia.org/wiki/サミュエル・R・ディレイニー)から翻訳されています。
 
 
 **サミュエル・レイ・ディレイニー**（**Samuel Ray "Chip" Delany, Jr.** , [1942年](../Page/1942年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。1960年代後半以降のアメリカにおける[ニュー・ウェーブ](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、あるいは[スペキュレーティヴフィクション](https://ja.wikipedia.org/wiki/スペキュレーティヴフィクション "wikilink")の代表的な作家の一人。愛称はチップ(*Chip*)。日本での表記には**ディレイニー**\[1\]ほか**ディレーニイ**\[2\]、**ディレーニ**\[3\]もある。
@@ -109,7 +109,7 @@ Quark（マリリン・ハッカーとの共編）
 
   - [Bread & Wine: An Erotic Tale of New York](http://www.alc.co.jp/eng/hontsu/book/0404/01.html)（[宮脇孝雄](../Page/宮脇孝雄.md "wikilink")による *Bread & Wine* 解説）
 
-[Category:アメリカ合衆国のSF作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF作家 "wikilink") [Category:アフリカ系アメリカ人の小説家](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の小説家 "wikilink") [Category:LGBTの小説家](https://ja.wikipedia.org/wiki/Category:LGBTの小説家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:クィア理論家](https://ja.wikipedia.org/wiki/Category:クィア理論家 "wikilink") [Category:アメリカ合衆国の無神論者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の無神論者 "wikilink") [Category:1942年生](https://ja.wikipedia.org/wiki/Category:1942年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国のSF作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:クィア理論家](https://ja.wikipedia.org/wiki/Category:クィア理論家 "wikilink") [Category:アメリカ合衆国の無神論者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の無神論者 "wikilink") [Category:LGBTの小説家](https://ja.wikipedia.org/wiki/Category:LGBTの小説家 "wikilink") [Category:アフリカ系アメリカ人の小説家](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の小説家 "wikilink") [Category:ニューヨーク市出身の人物](https://ja.wikipedia.org/wiki/Category:ニューヨーク市出身の人物 "wikilink") [Category:1942年生](https://ja.wikipedia.org/wiki/Category:1942年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [早川書房](../Page/早川書房.md "wikilink")、[国書刊行会](../Page/国書刊行会.md "wikilink")において
 2.  [ハヤカワ・SF・シリーズ](../Page/ハヤカワ・SF・シリーズ.md "wikilink")

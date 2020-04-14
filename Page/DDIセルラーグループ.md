@@ -1,4 +1,4 @@
-> この記事は[DDI](https://ja.wikipedia.org/wiki/DDI)から翻訳されています。
+> この記事は[DDIセルラーグループ](https://ja.wikipedia.org/wiki/DDIセルラーグループ)から翻訳されています。
 
 
 **DDIセルラーグループ**（ディーディーアイセルラーグループ）は、現在の[KDDI](../Page/KDDI.md "wikilink")並びに[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[携帯電話](../Page/携帯電話.md "wikilink")事業、**[auブランド](../Page/Au_\(携帯電話\).md "wikilink")**の前身として、[1988年](../Page/1988年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")まで存在した企業グループである。

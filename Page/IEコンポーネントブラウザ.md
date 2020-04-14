@@ -1,4 +1,4 @@
-> この記事は[IE](https://ja.wikipedia.org/wiki/IE)から翻訳されています。
+> この記事は[IEコンポーネントブラウザ](https://ja.wikipedia.org/wiki/IEコンポーネントブラウザ)から翻訳されています。
 
 
 **IEコンポーネントブラウザ**とは、[Microsoft Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Internet Explorerの](../Page/Internet_Explorer.md "wikilink")[Trident](../Page/Trident.md "wikilink")[レンダリングエンジンを基にして](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")、さらに独自の機能を搭載した[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を指す。[コンポーネント](https://ja.wikipedia.org/wiki/コンポーネント "wikilink")とは"部品""構成材"の意味。

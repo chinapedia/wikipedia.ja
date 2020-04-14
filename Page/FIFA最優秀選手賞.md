@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFA最優秀選手賞](https://ja.wikipedia.org/wiki/FIFA最優秀選手賞)から翻訳されています。
 
 
 **FIFA最優秀選手賞**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が[1991年](../Page/1991年.md "wikilink")に創設した[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の世界年間最優秀選手に贈られる賞である。FIFA加盟各国の[代表チームの監督と主将による投票で決定される](../Page/ナショナルチーム.md "wikilink")。

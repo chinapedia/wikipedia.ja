@@ -1,4 +1,4 @@
-> この記事は[TLC \(\)](https://ja.wikipedia.org/wiki/TLC_\(\))から翻訳されています。
+> この記事は[TLC \(バンド\)](https://ja.wikipedia.org/wiki/TLC_\(バンド\))から翻訳されています。
 
 
 **TLC**とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の女性[R\&Bグループ](../Page/リズム・アンド・ブルース.md "wikilink")。オリジナルメンバーは**T-ボズ**、**レフト・アイ**、**チリ**の三名で構成されていたが、2002年のレフト・アイの死により現在は二人組。

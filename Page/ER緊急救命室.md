@@ -1,4 +1,4 @@
-> この記事は[ER](https://ja.wikipedia.org/wiki/ER)から翻訳されています。
+> この記事は[ER緊急救命室](https://ja.wikipedia.org/wiki/ER緊急救命室)から翻訳されています。
 
 
 『**ER緊急救命室**』（イーアール きんきゅうきゅうめいしつ、原題:*ER*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[NBC](../Page/NBC.md "wikilink")で放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。[1994年](../Page/1994年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")にかけて331エピソードが放送された。日本では[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")にかけて[BS2で放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")。日本では[LaLa TV](../Page/LaLa_TV.md "wikilink")、[スーパー\!ドラマTV](../Page/スーパー!ドラマTV.md "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")プライム、[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")にて再放送されている。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[D言語](https://ja.wikipedia.org/wiki/D言語)から翻訳されています。
 
 
 **D言語**（ディーげんご、**D programming language**）は、プログラミング言語のひとつ。[C言語](../Page/C言語.md "wikilink")をベースとし[ABI互換を保ちつつも](../Page/Application_Binary_Interface.md "wikilink")、[テンプレートによる](../Page/テンプレート_\(プログラミング\).md "wikilink")[ジェネリックプログラミング](../Page/ジェネリックプログラミング.md "wikilink")や[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")プログラミング、[関数型プログラミング](https://ja.wikipedia.org/wiki/関数型プログラミング "wikilink")などをサポートする[マルチパラダイムプログラミング言語](https://ja.wikipedia.org/wiki/マルチパラダイムプログラミング言語 "wikilink")である。

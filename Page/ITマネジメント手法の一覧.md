@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[ITマネジメント手法の一覧](https://ja.wikipedia.org/wiki/ITマネジメント手法の一覧)から翻訳されています。
 
 
 __NOTOC__

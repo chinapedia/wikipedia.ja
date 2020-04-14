@@ -1,4 +1,4 @@
-> この記事は[JFK \(\)](https://ja.wikipedia.org/wiki/JFK_\(\))から翻訳されています。
+> この記事は[JFK \(映画\)](https://ja.wikipedia.org/wiki/JFK_\(映画\))から翻訳されています。
 
 
 『**JFK**』（**）は[1991年](../Page/1991年.md "wikilink")の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[ケネディ大統領暗殺事件](../Page/ケネディ大統領暗殺事件.md "wikilink")の捜査に執念を燃やす地方検事[ジム・ギャリソン](https://ja.wikipedia.org/wiki/ジム・ギャリソン "wikilink")（[ケビン・コスナー](../Page/ケビン・コスナー.md "wikilink")）を中心に描いた現代史ミステリー。大統領暗殺をめぐる唯一の訴訟である[クレイ・ショー裁判にいたる捜査を題材として描いている](https://ja.wikipedia.org/wiki/:en:Trial_of_Clay_Shaw "wikilink")。

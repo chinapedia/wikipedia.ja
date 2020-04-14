@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[クリフォード・D・シマック](https://ja.wikipedia.org/wiki/クリフォード・D・シマック)から翻訳されています。
 
 
 [右](https://ja.wikipedia.org/wiki/ファイル:Clifford_Simak_WS_3112.jpg "wikilink")  **クリフォード・ドナルド・シマック**（**Clifford Donald Simak**, [1904年](../Page/1904年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[ファンタジー](../Page/ファンタジー.md "wikilink")作家。[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")を3度、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")を1度受賞し、1977年には[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink") (SFWA) から3人目の[グランド・マスター賞を授与された](https://ja.wikipedia.org/wiki/デーモン・ナイト記念グランド・マスター賞 "wikilink")\[1\]\[2\]。

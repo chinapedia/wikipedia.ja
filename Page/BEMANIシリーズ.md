@@ -1,4 +1,4 @@
-> この記事は[BEMANI](https://ja.wikipedia.org/wiki/BEMANI)から翻訳されています。
+> この記事は[BEMANIシリーズ](https://ja.wikipedia.org/wiki/BEMANIシリーズ)から翻訳されています。
 
 
 [Bemani_series_logo.png](https://ja.wikipedia.org/wiki/File:Bemani_series_logo.png "fig:Bemani_series_logo.png") **BEMANIシリーズ**（ビーマニシリーズ）とは、[コナミ](../Page/コナミホールディングス.md "wikilink")（[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")・ビーマニプロダクション）が製作した音楽ゲームの統一ブランド名、およびシリーズ。
@@ -758,9 +758,10 @@ Hommarju</p></td>
 
 ## 外部リンク
 
-  - [コナミ アーケードゲーム](http://www.konami.jp/am/) - KONAMIアーケードゲーム公式サイト
-  - [BEMANI Fan Site](http://eagate.573.jp/game/bemani/fansite/) - BEMANIシリーズポータルサイト（e-AMUSEMENT GATE内）
+  - [BEMANI Fan Site](http://eagate.573.jp/game/bemani/fansite/)
 
+  -
+  -
 [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:アーケードゲーム作品](https://ja.wikipedia.org/wiki/Category:アーケードゲーム作品 "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:音楽ゲーム](https://ja.wikipedia.org/wiki/Category:音楽ゲーム "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink")
 
 1.  [am-netによるロケテスト情報](http://blog.am-net.jp/article/58093701.html)

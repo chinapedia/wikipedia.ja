@@ -1,9 +1,8 @@
 > この記事は[Glasgow Coma Scale](https://ja.wikipedia.org/wiki/Glasgow_Coma_Scale)から翻訳されています。
 
 
-**Glasgow Coma Scale(GCS)**（グラスゴー・コーマ・スケール）とは、[1974年](../Page/1974年.md "wikilink")に[英国の](https://ja.wikipedia.org/wiki/イギリス "wikilink")[グラスゴー大学](../Page/グラスゴー大学.md "wikilink")によって発表された[意識障害](../Page/意識障害.md "wikilink")の分類で、現在世界的に広く使用される評価分類スケールである。日本では主に[脳神経外科領域で用いられることが多い](../Page/脳神経外科学.md "wikilink")。開眼・言語・運動の3分野に分けて記録し、意識状態を簡潔かつ的確に記録できる。
-
-なお、GCSが発表された後、[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")は対抗してEdinburgh Coma Scaleを発表した。しかしながらそれを使用したのはエディンバラ大学に関係する医師に限られ、結局GCSが世界的に広がることとなった。
+**Glasgow Coma Scale(GCS)**（グラスゴー・コーマ・スケール）とは、[1974年](../Page/1974年.md "wikilink")に[英国の](https://ja.wikipedia.org/wiki/イギリス "wikilink")[グラスゴー大学](../Page/グラスゴー大学.md "wikilink")によって発表された[意識障害](../Page/意識障害.md "wikilink")の分類で、現在世界的に広く使用される評価分類スケールである。日本では主に[脳神経外科領域で用いられることが多い](../Page/脳神経外科学.md "wikilink")。開眼・言語・運動の3分野に分けて記録し、意識状態を記録できる。
+しかし、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[Japan Coma Scale](../Page/Japan_Coma_Scale.md "wikilink")(JCS)が広く用いられている。
 
 ## Glasgow Coma Scale
 

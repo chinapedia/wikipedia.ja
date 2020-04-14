@@ -1,4 +1,4 @@
-> この記事は[QWERTY](https://ja.wikipedia.org/wiki/QWERTY)から翻訳されています。
+> この記事は[QWERTY配列](https://ja.wikipedia.org/wiki/QWERTY配列)から翻訳されています。
 
 
 **QWERTY配列**（**クワーティ**はいれつ、クアーティはいれつ、クウェルティはいれつ）は、[ラテン文字](../Page/ラテン文字.md "wikilink")が刻印された[タイプライター](../Page/タイプライター.md "wikilink")や[コンピュータ](../Page/コンピュータ.md "wikilink")など、文字入力用[キーボードの](../Page/キーボード_\(コンピュータ\).md "wikilink") 多くが採用する（[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")[キーボード](https://ja.wikipedia.org/wiki/キーボード "wikilink")のレイアウトの）[キー配列](../Page/キー配列.md "wikilink")である。英字最上段の左から6文字がQ, W, E, R, T, Yの並び順であることから「QWERTY」と呼ばれる。

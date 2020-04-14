@@ -1,4 +1,4 @@
-> この記事は[MASTER](https://ja.wikipedia.org/wiki/MASTER)から翻訳されています。
+> この記事は[MASTERキートン](https://ja.wikipedia.org/wiki/MASTERキートン)から翻訳されています。
 
 
 『**MASTERキートン**』（マスターキートン）は[浦沢直樹](../Page/浦沢直樹.md "wikilink")・[勝鹿北星](https://ja.wikipedia.org/wiki/勝鹿北星 "wikilink")・[長崎尚志](../Page/長崎尚志.md "wikilink")脚本\[1\]、浦沢直樹作画による漫画。[1988年](../Page/1988年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")にかけて[小学館](../Page/小学館.md "wikilink")『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』に連載された。単行本はビッグコミックスから全18巻。のちにアニメ化もされている。

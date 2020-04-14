@@ -1,4 +1,4 @@
-> この記事は[G-](https://ja.wikipedia.org/wiki/G-)から翻訳されています。
+> この記事は[G-クレフ](https://ja.wikipedia.org/wiki/G-クレフ)から翻訳されています。
 
 
 **G-クレフ**（G-CLEF、ジークレフ）は、日本の[インストゥルメンタル](../Page/器楽曲.md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

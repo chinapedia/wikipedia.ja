@@ -1,9 +1,9 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[OL進化論](https://ja.wikipedia.org/wiki/OL進化論)から翻訳されています。
 
 
 『**OL進化論**』（オーエルしんかろん）は、[秋月りす](../Page/秋月りす.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。漫画雑誌『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において、[1989年](../Page/1989年.md "wikilink")50号より連載中。
 
-単行本は既刊37巻（[2015年](../Page/2015年.md "wikilink")12月現在）。2018年第19号で、連載1300回を達成した。
+単行本は既刊38巻（[2020年](../Page/2020年.md "wikilink")3月現在）。2018年第19号で、連載1300回を達成した。
 
 [スピンオフ](../Page/スピンオフ.md "wikilink")作品で『**OL進化論出張版 中年ポルカ**』が[2001年](../Page/2001年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")までに『[イブニング](../Page/イブニング.md "wikilink")』で掲載されていた。
 

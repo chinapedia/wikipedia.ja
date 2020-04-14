@@ -1,4 +1,4 @@
-> この記事は[Dr. \(\)](https://ja.wikipedia.org/wiki/Dr._\(\))から翻訳されています。
+> この記事は[Dr.コトー診療所 \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Dr.コトー診療所_\(テレビドラマ\))から翻訳されています。
 
 
 『**Dr.コトー診療所**』（ドクターコトーしんりょうじょ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[吉岡秀隆](../Page/吉岡秀隆.md "wikilink")。[山田貴敏](../Page/山田貴敏.md "wikilink")による[同名の漫画を原作とする](../Page/Dr.コトー診療所.md "wikilink")。

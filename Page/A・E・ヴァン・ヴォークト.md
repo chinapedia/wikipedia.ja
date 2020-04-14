@@ -1,4 +1,4 @@
-> この記事は[AE](https://ja.wikipedia.org/wiki/AE)から翻訳されています。
+> この記事は[A・E・ヴァン・ヴォークト](https://ja.wikipedia.org/wiki/A・E・ヴァン・ヴォークト)から翻訳されています。
 
 
 **アルフレッド・エルトン・ヴァン・ヴォークト**（**Alfred Elton van Vogt**, [1912年](../Page/1912年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")出身の[小説家](../Page/小説家.md "wikilink")で、[20世紀](../Page/20世紀.md "wikilink")中頃の[SF黄金期](https://ja.wikipedia.org/wiki/SF黄金期 "wikilink")を代表する[SF作家](../Page/SF作家.md "wikilink")の一人\[1\]。「van Vogt」の発音記号はであり「g」は発音しないが、日本語のカタカナ表記ではヴァン・ヴォークトやヴァン・ヴォクトと表記されることが多い。また「ヴァン」も苗字の一部であり、「ヴォークト」や「ヴォクト」の単独表記は、その意味で誤りである。

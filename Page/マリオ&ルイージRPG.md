@@ -1,4 +1,4 @@
-> この記事は[\&RPG](https://ja.wikipedia.org/wiki/\&RPG)から翻訳されています。
+> この記事は[マリオ\&ルイージRPG](https://ja.wikipedia.org/wiki/マリオ\&ルイージRPG)から翻訳されています。
 
 
 『**マリオ&ルイージRPG**』（マリオ アンド ルイージ アールピージー、*Mario & Luigi: Superstar Saga*）は、[任天堂](../Page/任天堂.md "wikilink")より[2003年](../Page/2003年.md "wikilink")11月に発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。スーパーファミコン版「[スーパーマリオRPG](../Page/スーパーマリオRPG.md "wikilink")」の流れを汲む作品で、[マリオ&ルイージRPGシリーズ](https://ja.wikipedia.org/wiki/マリオ&ルイージRPGシリーズ "wikilink")の第1作。

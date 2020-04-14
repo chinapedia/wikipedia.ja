@@ -1,4 +1,4 @@
-> この記事は[Moo.](https://ja.wikipedia.org/wiki/Moo.)から翻訳されています。
+> この記事は[Moo.念平](https://ja.wikipedia.org/wiki/Moo.念平)から翻訳されています。
 
 
 **Moo.念平**（ムーねんぺい、[1963年](../Page/1963年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。本名、武次 宏城\[2\]。[長崎県](../Page/長崎県.md "wikilink")[西彼杵郡](../Page/西彼杵郡.md "wikilink")出身\[3\]。主に[児童漫画](https://ja.wikipedia.org/wiki/児童漫画 "wikilink")を手がける。 Moo.念平のペンネームは、「[ペンネーム](../Page/ペンネーム.md "wikilink")」を逆さ読みし名前風に仕立てた[アナグラム](../Page/アナグラム.md "wikilink")から。

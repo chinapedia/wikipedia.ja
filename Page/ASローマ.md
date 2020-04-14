@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASローマ](https://ja.wikipedia.org/wiki/ASローマ)から翻訳されています。
 
 
 **アッソチアツィオーネ・スポルティーバ・ローマ**（）は、[イタリア](../Page/イタリア.md "wikilink")・[ローマ](../Page/ローマ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。単に**ローマ**とも表記される。

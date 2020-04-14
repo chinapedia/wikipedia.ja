@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAポリメラーゼ](https://ja.wikipedia.org/wiki/DNAポリメラーゼ)から翻訳されています。
 
 
 **DNA ポリメラーゼ** (DNA polymerase; -ポリメレース) は1本鎖の[核酸](../Page/核酸.md "wikilink")を鋳型として、それに相補的な[塩基配列](../Page/塩基配列.md "wikilink")を持つ [DNA](../Page/デオキシリボ核酸.md "wikilink") 鎖を合成する[酵素](../Page/酵素.md "wikilink")の総称。一部の[ウイルス](../Page/ウイルス.md "wikilink")を除くすべての[生物](../Page/生物.md "wikilink")に幅広く存在する。DNA を鋳型としてDNA を合成する **DNA 依存性 DNA ポリメラーゼ**([EC](https://ja.wikipedia.org/wiki/EC番号 "wikilink") 2.7.7.7)と、[RNA](../Page/リボ核酸.md "wikilink") を鋳型として DNA を合成する **RNA 依存性 DNA ポリメラーゼ**(EC 2.7.7.49)の、2つのタイプに分けられる。前者は[DNA複製](https://ja.wikipedia.org/wiki/DNA複製 "wikilink")や[DNA修復](../Page/DNA修復.md "wikilink")において中核的な役割を担う酵素である。一方後者は[セントラルドグマ](../Page/セントラルドグマ.md "wikilink")の範疇から逸脱する位置にある酵素で、[逆転写酵素](../Page/逆転写酵素.md "wikilink")や[テロメラーゼ](../Page/テロメラーゼ.md "wikilink")を含む。

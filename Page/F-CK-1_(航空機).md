@@ -1,4 +1,4 @@
-> この記事は[F-CK-1 \(\)](https://ja.wikipedia.org/wiki/F-CK-1_\(\))から翻訳されています。
+> この記事は[F-CK-1 \(航空機\)](https://ja.wikipedia.org/wiki/F-CK-1_\(航空機\))から翻訳されています。
 
 
 **F-CK-1** (經國號戰機) (**IDF**) は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の民間企業の技術協力を受け、[中華民国](../Page/中華民国.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）が開発した国産[戦闘機](../Page/戦闘機.md "wikilink")。愛称は**経国**（、、、[英語](../Page/英語.md "wikilink"): Ching-kuo、チンクォ）で、**経国号戦闘機**（****）と呼ばれる。IDFは国産防衛戦闘機（）の略である。
@@ -53,6 +53,8 @@
 
 2011年6月30日、「翔展」改修型F-CK-1の引渡し式典に参加した馬英九総統は、F-CK-1を原型とした高等[練習機](../Page/練習機.md "wikilink")の研究を進めていることを明らかにした。2016年3月28日、台中のAIDCを視察した蔡英文次期総統（当時）は、[AT-3の後継となる空軍の次期練習機として](../Page/AT-3_\(航空機\).md "wikilink")、F-CK-1からアフターバーナーやレーダー等を取り外し、[複合材料](../Page/複合材料.md "wikilink")を一部に使用して軽量化を図った機体を自国で開発・製造する考えを示した\[1\]。
 
+2019年9月24日、F-CK-1の設計を基にして80%を新部品にする次期練習機[AIDC T-5の試作機ロールアウト式典を開催](../Page/AIDC_T-5.md "wikilink")。蔡英文総統が「Brave Eagle」（勇鷹）と命名\[2\]。
+
 ## 配備基地
 
   - 台南飛行場 第1戦術戦闘航空団
@@ -93,3 +95,4 @@
 [Category:戦闘機](https://ja.wikipedia.org/wiki/Category:戦闘機 "wikilink") [Category:台湾の軍用機](https://ja.wikipedia.org/wiki/Category:台湾の軍用機 "wikilink")
 
 1.  [蔡英文次期総統、空軍の次世代練習機は「自国で開発・製造」](http://japan.cna.com.tw/news/aeco/201603290010.aspx)
+2.

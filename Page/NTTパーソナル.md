@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTパーソナル](https://ja.wikipedia.org/wiki/NTTパーソナル)から翻訳されています。
 
 
 **NTTパーソナル**は、過去に存在した[PHS](../Page/PHS.md "wikilink")事業者で「**エヌ・ティ・ティ中央パーソナル通信網株式会社**」を初めとするグループ会社の総称、もしくは提供していたPHSサービスの名称である。かつて北海道・東北・中央・東海・北陸・関西・中国・四国・九州の総計9社の地域会社が存在した。 [NTT_Personal_base_station.jpg](https://ja.wikipedia.org/wiki/File:NTT_Personal_base_station.jpg "fig:NTT_Personal_base_station.jpg")

@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNニュースの森](https://ja.wikipedia.org/wiki/JNNニュースの森)から翻訳されています。
 
 
 『**JNNニュースの森**』（ジェイエヌエヌ ニュースのもり）は、[TBS](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）系列で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までの間にかけて放送していた夕方の[報道番組](../Page/報道番組.md "wikilink")である。通称「**ニュースの森**」。[新聞](../Page/新聞.md "wikilink")[ラ・テ欄ではスペースの都合上](https://ja.wikipedia.org/wiki/番組表 "wikilink")、ニュースを表す\[N\]の記号を用いて「**\[N\]の森**」のように表記することもあった。

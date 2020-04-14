@@ -1,8 +1,6 @@
 > この記事は[IPA](https://ja.wikipedia.org/wiki/IPA)から翻訳されています。
 
 
-**IPA**
-
 ## IPA
 
   - [国際音声記号](../Page/国際音声記号.md "wikilink") ()。

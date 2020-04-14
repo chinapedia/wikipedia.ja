@@ -1,4 +1,4 @@
-> この記事は[II -GOFER-](https://ja.wikipedia.org/wiki/II_-GOFER-)から翻訳されています。
+> この記事は[グラディウスII -GOFERの野望-](https://ja.wikipedia.org/wiki/グラディウスII_-GOFERの野望-)から翻訳されています。
 
 
 『**グラディウスII -GOFERの野望-**』（グラディウスツー ゴーファーのやぼう、*GRADIUS II*）は[コナミ](../Page/コナミホールディングス.md "wikilink")（現:[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")）よりリリースされた、強制横スクロール型の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。オリジナルプラットホーム（原典）は[1988年](../Page/1988年.md "wikilink")にアミューズメント施設（ゲームセンターなど）で稼働させる業務用（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。以下「AC」と略記する場合あり）のシステム基板「[TWIN 16](https://ja.wikipedia.org/wiki/ツイン16システム "wikilink")」第2弾タイトルとしてのものだった。日本国外版の名称は『*VULCAN VENTURE*』（バルカン・ベンチャー。[\#タイトル](https://ja.wikipedia.org/wiki/#タイトル "wikilink")も参照）

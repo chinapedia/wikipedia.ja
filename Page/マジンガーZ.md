@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[マジンガーZ](https://ja.wikipedia.org/wiki/マジンガーZ)から翻訳されています。
 
 
 『**マジンガーZ**』（マジンガーゼット）は、[永井豪](../Page/永井豪.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、原作者を共にする[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")制作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、[桜多吾作](../Page/桜多吾作.md "wikilink")によるコミカライズ作品の題名、またこれら3作品で描かれる主役の巨大ロボットの名称。本項では原作者の漫画とテレビアニメーション、および後世影響等について述べる。桜多吾作によるコミカライズ版については作者の項を参照。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B寝台](https://ja.wikipedia.org/wiki/B寝台)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:B-class_sleeper.jpg "wikilink") **B寝台**（Bしんだい）は、[JR](../Page/JR.md "wikilink")車両の[寝台車の区分の一つである](../Page/寝台車_\(鉄道\).md "wikilink")。なお、JR以外では長距離フェリーの一部にも「B寝台」という名称の設備があるが、本項目では専らJRのB寝台について述べる。

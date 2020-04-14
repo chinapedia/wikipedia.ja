@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[A寝台](https://ja.wikipedia.org/wiki/A寝台)から翻訳されています。
 
 
 **A寝台**（エーしんだい）とは、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）および[JR](../Page/JR.md "wikilink")における[寝台車の区分において](../Page/寝台車_\(鉄道\).md "wikilink")、[B寝台](../Page/B寝台.md "wikilink")の上位に位置する寝台設備である。なお、国鉄・JR以外では長距離フェリーの一部にも「A寝台」という名の設備があるが、本項では専ら国鉄・JRのA寝台について述べる。

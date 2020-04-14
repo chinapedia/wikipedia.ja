@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[ソフトバンクBB](https://ja.wikipedia.org/wiki/ソフトバンクBB)から翻訳されています。
 
 
 **ソフトバンクBB株式会社**（ソフトバンクビービー、英文名称：SOFTBANK BB Corp.）は、かつて存在したソフトバンク（現：[ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")）の[連結子会社](../Page/連結子会社.md "wikilink")で、ソフトバンクグループ内で[ADSL](../Page/ADSL.md "wikilink")や[FTTH](../Page/FTTH.md "wikilink")などの固定通信事業を担っていた。

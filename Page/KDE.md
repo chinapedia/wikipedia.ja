@@ -384,6 +384,7 @@ Image:Kde4alpha1.png|KDE 4.0 Alpha 1 Image:Kde4Beta1.png|KDE 4.0 Beta 1 Image:K
   - [Xfce](../Page/Xfce.md "wikilink")
   - [LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")
   - [freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink")
+  - [FreeBSDでKDE2にパッチをあてるにはどうすればよいですか?](https://ja.wikipedia.org/wiki/FreeBSDでKDE2にパッチをあてるにはどうすればよいですか? "wikilink") - ロシアで流行した[インターネットスラング](../Page/インターネットスラング.md "wikilink")
 
 ## 外部リンク
 

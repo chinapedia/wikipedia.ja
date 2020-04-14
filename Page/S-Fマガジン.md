@@ -1,4 +1,4 @@
-> この記事は[S-F](https://ja.wikipedia.org/wiki/S-F)から翻訳されています。
+> この記事は[S-Fマガジン](https://ja.wikipedia.org/wiki/S-Fマガジン)から翻訳されています。
 
 
 『**S-Fマガジン**』（エスエフマガジン）は、[早川書房](../Page/早川書房.md "wikilink")が発行している[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")専門の雑誌。偶数月25日発売。通称はハイフン抜きの「**SFマガジン**」。SF界では単に「マガジン」と呼称される。

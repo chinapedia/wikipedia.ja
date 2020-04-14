@@ -11,15 +11,15 @@
 
 1997年に3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入りをしてブレイクを果たす。1998年には8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が350万枚を超える大ヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
 
-デビュー以来ハイペースでシングルリリースを続けてきたが、1999年はプロデュースのための十分な時間を確保したいという五十嵐の思いで、3月の11thシングル「[Over and Over](../Page/Over_and_Over.md "wikilink")」、12thシングル「[Someday, Someplace](../Page/Someday,_Someplace.md "wikilink")」とベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』のリリース後はリリースやツアーのない期間を過ごした。
+デビュー以来ハイペースでシングルリリースを続けてきたが、1999年はプロデュースのための十分な時間を確保したいという五十嵐の思いで、1月の11thシングル「[Over and Over](../Page/Over_and_Over.md "wikilink")」、3月の12thシングル「[Someday, Someplace](../Page/Someday,_Someplace.md "wikilink")」とベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』のリリース後はリリースやツアーのない期間を過ごした。
 
 2000年、13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」、14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」と3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』のリリース後、3月をもって五十嵐がプロデュース活動に専念するために脱退し、メンバーは持田と伊藤の2人になった。「五十嵐はフロントメンバーから脱退し、サウンドプロデューサーになる」と発表されたことから、テレビやライブ出演はせずに楽曲提供を続けるものと思われたが、3rdアルバム『eternity』からシングルカットされた15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」で携わっただけで、以降はELTの楽曲に直接的に五十嵐が長らく関与することは無かったが、五十嵐の脱退から約9年後の2009年[9月23日](../Page/9月23日.md "wikilink")発売の36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」、同年[11月18日](../Page/11月18日.md "wikilink")発売の37thシングル「[冷たい雨](https://ja.wikipedia.org/wiki/冷たい雨_\(Every_Little_Thingの曲\) "wikilink")」、2010年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")発売の38thシングル「[Change](https://ja.wikipedia.org/wiki/Change_\(Every_Little_Thingの曲\) "wikilink")」の3枚のシングルで、五十嵐がサウンドプロデューサーとして作曲・編曲を担当した。また、2010年[3月24日](../Page/3月24日.md "wikilink")発売の10thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』でも、上記の3枚のシングル以外の収録曲で作詞、作曲、編曲を担当した。
 
 代表曲のひとつである「[fragile](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")」は2001年オリコン年間カラオケチャートで1位を獲得。その後も3年連続年間TOP10入りを果たした。
 
-音楽番組のみならずバラエティー番組の出演も多く、幅広い世代に親しまれており、[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](../Page/2004年.md "wikilink")）。
+音楽番組のみならずバラエティー番組の出演も多く、幅広い世代に親しまれており、[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")には過去8回連続出場している（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2004年](../Page/2004年.md "wikilink")）。ラジオの出演も多い。
 
-2016年8月7日にデビュー20周年を迎え、同日には代々木第二体育館で記念コンサートを行った。それ以降、ユニットとしては目立った活動(半年に数回の新譜リリース配信のみ)はなく、それぞれソロ活動として拠点を置いている。
+2016年8月7日にデビュー20周年を迎え、同日には代々木第二体育館で記念コンサートを行った。それ以降、ユニットとしては目立った活動(半年に数回の新譜リリース配信のみ)はなく、それぞれソロ活動として拠点を置いている。また、2016年以降もライブ出演はしており、2019年8月28日には単独ライブとしてEvery Little Thing 23rd Anniversary Concertを行った。
 
 ## 楽曲制作
 
@@ -45,6 +45,7 @@
     血液型はA型。愛称はイガちゃん。2000年3月リリースの3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』の発表後に脱退。脱退後は15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」のサウンドプロデュースをしていたのみで、その後はELTの楽曲制作に一切関わっていなかったが、2009年9月リリースの36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」で9年振りにサウンドプロデュースを行い、また2010年発売の9thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』の制作に10年振りに参加した。また、2009年夏のa-nationと、2010年3月27、28日のMEETツアーにゲストミュージシャン（キーボード）としてサプライズ参加。
     2002年 - 2005年までバンド[day after tomorrowのサウンドプロデューサーを務め](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")、その後は男性4人組バンド[RUSHMORE](https://ja.wikipedia.org/wiki/RUSHMORE "wikilink")（活動休止）のリーダー兼サウンドプロデューサーを務める。
     2012年 - 2013年まで[girl next doorのサウンドプロデューサーを務める](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")。
+    2019年には前述のEvery Little Thing 23rd Anniversary Concertに観客として参加し、登壇している。
 
 ### サポートメンバー
 
@@ -515,7 +516,7 @@ AVCD-48163</p></td>
 <tr class="odd">
 <td><p>43rd</p></td>
 <td><p>2011年<a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Landscape" title="wikilink">Landscape</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Landscape_(Every_Little_Thingの曲)" title="wikilink">Landscape</a></p></td>
 <td><p>AVCD-48265/B<br />
 AVCD-48266</p></td>
 <td><p>CD-DA</p></td>

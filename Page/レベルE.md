@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[レベルE](https://ja.wikipedia.org/wiki/レベルE)から翻訳されています。
 
 
 『**レベルE**』（レベルイー、LEVEL E）は、[冨樫義博](https://ja.wikipedia.org/wiki/冨樫義博 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

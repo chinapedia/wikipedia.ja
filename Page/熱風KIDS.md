@@ -1,4 +1,4 @@
-> この記事は[KIDS](https://ja.wikipedia.org/wiki/KIDS)から翻訳されています。
+> この記事は[熱風KIDS](https://ja.wikipedia.org/wiki/熱風KIDS)から翻訳されています。
 
 
 **『熱風KIDS』**(ねっぷうきっず)とは、うちやましゅうぞうによる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画作品](https://ja.wikipedia.org/wiki/漫画作品 "wikilink")

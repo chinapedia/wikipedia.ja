@@ -1,4 +1,4 @@
-> この記事は[SNE](https://ja.wikipedia.org/wiki/SNE)から翻訳されています。
+> この記事は[グループSNE](https://ja.wikipedia.org/wiki/グループSNE)から翻訳されています。
 
 
 **グループSNE**（グループエスエヌイー）は[安田均](../Page/安田均.md "wikilink")が中心になって設立されたクリエーター集団・[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")に本社を置く。[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）・[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")の制作・[翻訳](../Page/翻訳.md "wikilink")などを行っている。日本の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の草分け的存在で、日本国内で最も普及したTRPG『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』や国産[ファンタジー](../Page/ファンタジー.md "wikilink")として有名な『[ロードス島戦記](../Page/ロードス島戦記.md "wikilink")』をはじめとして、多くのゲームや小説作品を世に送り出した。

@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ヘレナ・P・ブラヴァツキー](https://ja.wikipedia.org/wiki/ヘレナ・P・ブラヴァツキー)から翻訳されています。
 
 
 **ヘレナ・ペトロヴナ・ブラヴァツキー** ()、[1831年](../Page/1831年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink") – [1891年](../Page/1891年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")) は、近代[神智学](../Page/神智学.md "wikilink")を創唱した人物で、[神智学協会](../Page/神智学協会.md "wikilink")の設立者のひとりである\[1\]。
@@ -129,7 +129,7 @@
 
   - [ブラヴァツキー夫人の前半生、神智学協会による「公式」年譜](https://web.archive.org/web/20071004224128/http://www.bonkanwa.com/Workshop/2004/0718/13.html)
 
-[Category:神智学者](https://ja.wikipedia.org/wiki/Category:神智学者 "wikilink") [Category:神秘思想家](https://ja.wikipedia.org/wiki/Category:神秘思想家 "wikilink") [Category:19世紀の仏教徒](https://ja.wikipedia.org/wiki/Category:19世紀の仏教徒 "wikilink") [Category:ロシアの仏教徒](https://ja.wikipedia.org/wiki/Category:ロシアの仏教徒 "wikilink") [Category:ヨーロッパの伝説](https://ja.wikipedia.org/wiki/Category:ヨーロッパの伝説 "wikilink") [Category:エカテリノスラフ県出身の人物](https://ja.wikipedia.org/wiki/Category:エカテリノスラフ県出身の人物 "wikilink") [Category:ドニプロペトロウシク出身の人物](https://ja.wikipedia.org/wiki/Category:ドニプロペトロウシク出身の人物 "wikilink") [Category:ドイツ系ロシア人](https://ja.wikipedia.org/wiki/Category:ドイツ系ロシア人 "wikilink") [Category:ドイツ系ウクライナ人](https://ja.wikipedia.org/wiki/Category:ドイツ系ウクライナ人 "wikilink") [Category:ユグノー系ロシア人](https://ja.wikipedia.org/wiki/Category:ユグノー系ロシア人 "wikilink") [Category:1831年生](https://ja.wikipedia.org/wiki/Category:1831年生 "wikilink") [Category:1891年没](https://ja.wikipedia.org/wiki/Category:1891年没 "wikilink")
+[Category:19世紀ロシアの女性著作家](https://ja.wikipedia.org/wiki/Category:19世紀ロシアの女性著作家 "wikilink") [Category:19世紀の仏教徒](https://ja.wikipedia.org/wiki/Category:19世紀の仏教徒 "wikilink") [Category:ロシアの仏教徒](https://ja.wikipedia.org/wiki/Category:ロシアの仏教徒 "wikilink") [Category:神智学者](https://ja.wikipedia.org/wiki/Category:神智学者 "wikilink") [Category:神秘思想家](https://ja.wikipedia.org/wiki/Category:神秘思想家 "wikilink") [Category:ヨーロッパの伝説](https://ja.wikipedia.org/wiki/Category:ヨーロッパの伝説 "wikilink") [Category:エカテリノスラフ県出身の人物](https://ja.wikipedia.org/wiki/Category:エカテリノスラフ県出身の人物 "wikilink") [Category:ドニプロペトロウシク出身の人物](https://ja.wikipedia.org/wiki/Category:ドニプロペトロウシク出身の人物 "wikilink") [Category:ドイツ系ロシア人](https://ja.wikipedia.org/wiki/Category:ドイツ系ロシア人 "wikilink") [Category:ドイツ系ウクライナ人](https://ja.wikipedia.org/wiki/Category:ドイツ系ウクライナ人 "wikilink") [Category:ユグノー系ロシア人](https://ja.wikipedia.org/wiki/Category:ユグノー系ロシア人 "wikilink") [Category:1831年生](https://ja.wikipedia.org/wiki/Category:1831年生 "wikilink") [Category:1891年没](https://ja.wikipedia.org/wiki/Category:1891年没 "wikilink") [Category:インフルエンザで死亡した人物](https://ja.wikipedia.org/wiki/Category:インフルエンザで死亡した人物 "wikilink")
 
 1.  大田俊寛 『現代オカルトの根源』2013年
 2.  杉本良男 [「比較による真理の追求 : マックス・ミュラーとマダム・ブラヴァツキー」](http://ir.minpaku.ac.jp/dspace/handle/10502/4459) 国立民族学博物館調査報告 90, 173-226, 2010-03-31

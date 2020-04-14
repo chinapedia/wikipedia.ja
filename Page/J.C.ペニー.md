@@ -1,4 +1,4 @@
-> この記事は[J.C.](https://ja.wikipedia.org/wiki/J.C.)から翻訳されています。
+> この記事は[J.C.ペニー](https://ja.wikipedia.org/wiki/J.C.ペニー)から翻訳されています。
 
 
 [JCPenney_Great_Falls_MT.JPG](https://ja.wikipedia.org/wiki/File:JCPenney_Great_Falls_MT.JPG "fig:JCPenney_Great_Falls_MT.JPG") [thumb](https://ja.wikipedia.org/wiki/ファイル:JC_Penney_store,_Aventura_Mall_\(Aventura,_Florida,_2006\).jpg "wikilink") **J.C.ペニー**（**J. C. Penney Company, Inc.**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に本社を置く大手[百貨店](../Page/百貨店.md "wikilink")チェーン。[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")上場企業（証券コード：JCP）

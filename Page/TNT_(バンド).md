@@ -1,4 +1,4 @@
-> この記事は[TNT \(\)](https://ja.wikipedia.org/wiki/TNT_\(\))から翻訳されています。
+> この記事は[TNT \(バンド\)](https://ja.wikipedia.org/wiki/TNT_\(バンド\))から翻訳されています。
 
 
 **TNT**（ティー・エヌ・ティー）は、[ノルウェー](../Page/ノルウェー.md "wikilink")出身の[ハードロック](../Page/ハードロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。

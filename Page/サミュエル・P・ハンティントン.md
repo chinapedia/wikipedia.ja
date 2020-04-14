@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[サミュエル・P・ハンティントン](https://ja.wikipedia.org/wiki/サミュエル・P・ハンティントン)から翻訳されています。
 
 
 [300px世界経済フォーラム](https://ja.wikipedia.org/wiki/ファイル:Samuel_P._Huntington_\(2004_World_Economic_Forum\).jpg "wikilink")）\]\] **サミュエル・フィリップス・ハンティントン**（Samuel Phillips Huntington、[1927年](../Page/1927年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")「戦争と平和」研究所副所長を経て[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")教授。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで、[アメリカ政治学会](../Page/アメリカ政治学会.md "wikilink")会長を務めた。政党支持ではアメリカ民主党の右派に属した。

@@ -1,4 +1,4 @@
-> この記事は[HO](https://ja.wikipedia.org/wiki/HO)から翻訳されています。
+> この記事は[HOゲージ](https://ja.wikipedia.org/wiki/HOゲージ)から翻訳されています。
 
 
 [HO_Layout_1.jpg](https://ja.wikipedia.org/wiki/File:HO_Layout_1.jpg "fig:HO_Layout_1.jpg") **HOゲージ** (エイチオーゲージ、エッチオーゲージ) とは、[鉄道模型](../Page/鉄道模型.md "wikilink")の[縮尺と](../Page/スケールモデル.md "wikilink")[軌間](../Page/軌間.md "wikilink")を示す呼称のひとつ。

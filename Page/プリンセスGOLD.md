@@ -1,4 +1,4 @@
-> この記事は[GOLD](https://ja.wikipedia.org/wiki/GOLD)から翻訳されています。
+> この記事は[プリンセスGOLD](https://ja.wikipedia.org/wiki/プリンセスGOLD)から翻訳されています。
 
 
 『**プリンセスGOLD**』（**プリンセスゴールド**）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行していた女性向け月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

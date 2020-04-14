@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[ミトコンドリアDNA](https://ja.wikipedia.org/wiki/ミトコンドリアDNA)から翻訳されています。
 
 
 **ミトコンドリアDNA**（みとこんどりあディーエヌエー、**mtDNA**,**mDNA**）とは、[細胞小器官](../Page/細胞小器官.md "wikilink")である[ミトコンドリア](../Page/ミトコンドリア.md "wikilink")内にある[DNAのこと](../Page/デオキシリボ核酸.md "wikilink")。ミトコンドリアが[細胞内共生由来であるとする立場から](../Page/細胞内共生説.md "wikilink")、**ミトコンドリアゲノム**と呼ぶ場合もある。

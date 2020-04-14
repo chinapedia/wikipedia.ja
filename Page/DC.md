@@ -35,7 +35,7 @@
 
   - [ディベロップメント・コーディネーター](https://ja.wikipedia.org/wiki/ディベロップメント・コーディネーター "wikilink") () - [プロ野球](../Page/プロ野球.md "wikilink")[阪神タイガース](../Page/阪神タイガース.md "wikilink")で[2013年](../Page/2013年.md "wikilink")に新たに創設されたコーチの肩書き。初代DCは[掛布雅之](../Page/掛布雅之.md "wikilink")。若手を中心に指導する助言役という立場であり、正式なコーチではないため背番号もない。正式名称は「[ゼネラルマネジャー](https://ja.wikipedia.org/wiki/ゼネラルマネジャー "wikilink")（GM）付育成＆打撃コーディネーター」。
 
-  - [装置制御](https://ja.wikipedia.org/wiki/装置制御 "wikilink") () - [ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")コードの11h - 14h (DC1 - DC4)。
+  - [装置制御](https://ja.wikipedia.org/wiki/装置制御 "wikilink") () - [ASCII](../Page/ASCII.md "wikilink")コードの11h - 14h (DC1 - DC4)。
 
   - [ディレクターズ・カット](../Page/ディレクターズ・カット.md "wikilink") ()
 

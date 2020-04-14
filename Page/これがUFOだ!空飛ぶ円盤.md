@@ -1,4 +1,4 @@
-> この記事は[UFO!](https://ja.wikipedia.org/wiki/UFO!)から翻訳されています。
+> この記事は[これがUFOだ!空飛ぶ円盤](https://ja.wikipedia.org/wiki/これがUFOだ!空飛ぶ円盤)から翻訳されています。
 
 
 『**これがUFOだ\!空飛ぶ円盤**』（これがユーホー だ\!そらとぶえんばん 英文：*Get That Flying Saucer*）は、[1975年](../Page/1975年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")封切の[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")で上映された[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。有名な円盤事件や、「実際に撮影された」とされる写真を交えて描いた[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")風の作品。16分。

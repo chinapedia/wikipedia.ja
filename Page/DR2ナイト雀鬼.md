@@ -1,4 +1,4 @@
-> この記事は[DR2](https://ja.wikipedia.org/wiki/DR2)から翻訳されています。
+> この記事は[DR2ナイト雀鬼](https://ja.wikipedia.org/wiki/DR2ナイト雀鬼)から翻訳されています。
 
 
 『**DR<sup>2</sup>ナイト雀鬼**』（DR<sup>2</sup> NIGHT JANKI、どらどらないとじゃんき）は、[Leaf](../Page/Leaf.md "wikilink")が企画・製作し[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した、[NEC](../Page/日本電気.md "wikilink")[PC-98シリーズ対応の](../Page/PC-9800シリーズ.md "wikilink")[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")形式で[AVG風の](../Page/アドベンチャーゲーム.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。

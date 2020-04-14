@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCチャンピオンシップゴルフトーナメント](https://ja.wikipedia.org/wiki/ABCチャンピオンシップゴルフトーナメント)から翻訳されています。
 
 
 **マイナビABCチャンピオンシップゴルフトーナメント**は、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）主催（2018年より）、[マイナビ](../Page/マイナビ.md "wikilink")特別協賛、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントで](../Page/トーナメント方式.md "wikilink")、毎年11月第1木曜日から4日間、[朝日放送グループホールディングス](../Page/朝日放送グループホールディングス.md "wikilink")の子会社が出資・運営する[兵庫県](../Page/兵庫県.md "wikilink")加東市永福の[ABCゴルフ倶楽部](https://ja.wikipedia.org/wiki/ABCゴルフ倶楽部 "wikilink")を舞台に行われている。2019年現在、賞金総額1億5000万円、優勝賞金3000万円\[1\]。

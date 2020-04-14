@@ -1,4 +1,4 @@
-> この記事は[IARC](https://ja.wikipedia.org/wiki/IARC)から翻訳されています。
+> この記事は[IARC発がん性リスク一覧](https://ja.wikipedia.org/wiki/IARC発がん性リスク一覧)から翻訳されています。
 
 
 **IARC発がん性リスク一覧**は、[国際がん研究機関](../Page/国際がん研究機関.md "wikilink") (IARC) による[発がん性を有する対象の一覧である](../Page/発癌性.md "wikilink")。この表の見方は項目[発癌性](../Page/発癌性.md "wikilink")を参照のこと。2019年1月に、その名称が**IARC発がん性対象一覧**に変更された。その前文に示されるように、この一覧の分類法が、がんを発現させる蓋然性（probability）に基づくのではなく、その特性（capability）についての根拠の十全さに基づいていることに留意すべきである。\[1\]
@@ -2841,7 +2841,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲムフィブロジル" title="wikilink">ゲムフィブロジル</a> (Gemfibrozil)</p></td>
+<td><p><a href="../Page/ゲムフィブロジル.md" title="wikilink">ゲムフィブロジル</a> (Gemfibrozil)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>

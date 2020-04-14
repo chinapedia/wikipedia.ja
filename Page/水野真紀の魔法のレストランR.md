@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[水野真紀の魔法のレストランR](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストランR)から翻訳されています。
 
 
 『**水野真紀の魔法のレストラン**』（みずのまきのまほうのレストラン）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）で[2001年](../Page/2001年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から放送されている[グルメ](https://ja.wikipedia.org/wiki/グルメ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[水野真紀](../Page/水野真紀.md "wikilink")の冠番組である。放送開始から2009年3月までは毎週[木曜日](../Page/木曜日.md "wikilink")に、2009年から2012年9月までは毎週[水曜日](../Page/水曜日.md "wikilink")に、[2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは毎週[月曜日](../Page/月曜日.md "wikilink")に放送されていたが、[2016年](../Page/2016年.md "wikilink")4月からは再び毎週水曜日に放送されている。[2017年](../Page/2017年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")からの放送時間は、毎週水曜日 19:00 - 20:00（[JST](../Page/日本標準時.md "wikilink")）。

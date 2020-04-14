@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[NSファーファ・ジャパン](https://ja.wikipedia.org/wiki/NSファーファ・ジャパン)から翻訳されています。
 
 
 **NSファーファ・ジャパン株式会社**（エヌ・エス・ファーファ・ジャパン-、英称：NS FaFa Japan Co., Ltd.）は、[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")に本社を置く[洗剤](../Page/洗剤.md "wikilink")、[石鹸](../Page/石鹸.md "wikilink")の製造販売をおこなう企業である。

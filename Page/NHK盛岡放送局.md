@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK盛岡放送局](https://ja.wikipedia.org/wiki/NHK盛岡放送局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Morioka.JPG "wikilink") **NHK盛岡放送局**（エヌエイチケイもりおかほうそうきょく）は、[岩手県](../Page/岩手県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。局舎は[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の中心部からやや離れた盛岡市上田にある。[岩手大学](https://ja.wikipedia.org/wiki/岩手大学 "wikilink")に近接している。
@@ -119,7 +119,7 @@
 
 ## 盛岡放送局制作の主な番組
 
-  - [おはよういわて](https://ja.wikipedia.org/wiki/NHKニュースおはよういわて "wikilink")（平日 7:45 - 8:00、7:54.40 - 7:58までは仙台局から放送）
+  - [おはよういわて](https://ja.wikipedia.org/wiki/NHKニュースおはよういわて "wikilink")（平日 7:45 - 8:00、7:50 - 7:58は仙台局から**東北地方向け放送**）
   - まじぇ5時（ラジオ第1・平日 17:00 - 18:00）
   - [おばんですいわて](../Page/おばんですいわて.md "wikilink")（平日 18:10 - 18:59）
 
@@ -131,7 +131,8 @@
 <!-- end list -->
 
   - [NHKニュース845いわて](https://ja.wikipedia.org/wiki/NHKニュース845いわて "wikilink")（平日 20:45 - 21:00）
-  - [ニュース645](https://ja.wikipedia.org/wiki/ニュース645_\(NHK盛岡放送局\) "wikilink")（土日祝 18:45 - 18:59）
+      - 祝日は20:55 - 21:00に「**東北地方のニュース・気象情報**」を5分間放送。
+  - [ニュース645](https://ja.wikipedia.org/wiki/ニュース645_\(NHK盛岡放送局\) "wikilink")※（土日 18:45 - 18:59、2020年3月29日で終了）
   - [クローズアップいわて](https://ja.wikipedia.org/wiki/クローズアップ東北 "wikilink")（不定期で金曜19:30 - 19:55、毎月最終土曜10:05 - 10:30または日曜8:00 - 8:25に東北ブロックで放送の場合あり）
   - 再発見いわて（不定期 NHK盛岡制作の特番や、総合・BSで全国放送された岩手関連の番組を再放送、もしくは編集して放送する）
   - [いわてみんなのうた](https://ja.wikipedia.org/wiki/いわてみんなのうた "wikilink")（総合テレビとEテレ、ラジオ第1とFMで放送）
@@ -140,7 +141,7 @@
 
   -
     ※当局以外の地域のEテレでは『[ピタゴラスイッチ](../Page/ピタゴラスイッチ.md "wikilink")・ミニ』（8:40 - 8:45）、『[プチプチ・アニメ](../Page/プチプチ・アニメ.md "wikilink")』（16:15 - 16:20）を放送。スポーツ中継以外では珍しくEテレ内での独自編成を行っている。
-    ※[2016年](../Page/2016年.md "wikilink")の[大型連休より](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、祝日のローカルニュース枠・天気はすべて[仙台からの東北ブロックニュースに統一され](../Page/NHK仙台放送局.md "wikilink")、岩手からの祝日ニュース枠と気象情報枠はテレビ・ラジオすべてで全廃した。
+    ※[2016年](../Page/2016年.md "wikilink")の[大型連休より](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、祝日・年末年始のローカルニュース枠・気象情報などはすべて仙台からの東北ブロックニュースに統一され、岩手からの祝日ニュース枠と気象情報枠はテレビ・ラジオ全てで全廃した。また、[2020年](../Page/2020年.md "wikilink")4月の改編から土日のローカルニュース・気象情報などはテレビ・ラジオともに終日仙台発に変更され、岩手からの県域ニュース・気象情報などは平日のみとなる。
 
 ## 過去の制作番組
 
@@ -148,6 +149,7 @@
 
   - モーニングワイドいわて
   - いわてガイド→ゴックンいわて
+  - ママスタGoo\!
   - いわて640→いわて630→イブニングネットワークいわて
   - [ひるっコいわて](https://ja.wikipedia.org/wiki/ひるっコいわて "wikilink")（平日 11:50 - 11:54・ - 2018年3月22日）
 
@@ -179,15 +181,15 @@
 <td><p>岩手県出身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/手嶌真吾" title="wikilink">手嶌真吾</a></p></td>
-<td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/児林大介" title="wikilink">児林大介</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="../Page/おばんですいわて.md" title="wikilink">おばんですいわて</a><br />
 （キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/児林大介" title="wikilink">児林大介</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大嶋貴志" title="wikilink">大嶋貴志</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -216,15 +218,15 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>伊藤歌純</p></td>
-<td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
+<td><p>中條奈菜花</p></td>
+<td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
 <td><p>おばんですいわて<br />
 （キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>渡邉真佑子</p></td>
-<td></td>
+<td><p>畠山彩子</p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td></td>
 <td></td>
 </tr>

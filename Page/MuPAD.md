@@ -29,11 +29,16 @@
 
   - MuPAD解説サイト
       - [MuPAD](http://www.xmath.ous.ac.jp/%7Eshimeno/mupad.html)
+
       - [Documents on MuPAD](http://na-inet.jp/mupad/)
+
       - [Docky's home page](http://www.math.kochi-u.ac.jp/docky/)
+
       - [高校生のためのMuPAD](http://ogose.nendo.net/mupad/)
+
       - [MuPADの研究](http://f28.aaa.livedoor.jp/~kenpei/mupad.html)
-      - [Try MuPAD \!](http://www.geocities.jp/trymupad/index.htm)
+
+      -
       - [Mupad room](http://www.geocities.co.jp/takeki20032000/index)
 
 [Category:数式処理システム](https://ja.wikipedia.org/wiki/Category:数式処理システム "wikilink") [Category:Linux向け数式処理システム](https://ja.wikipedia.org/wiki/Category:Linux向け数式処理システム "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")

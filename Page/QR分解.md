@@ -1,4 +1,4 @@
-> この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
+> この記事は[QR分解](https://ja.wikipedia.org/wiki/QR分解)から翻訳されています。
 
 
 **QR分解**（キューアールぶんかい、）とは、*m* × *n* 実行列 *A*を、 *m* 次[直交行列](../Page/直交行列.md "wikilink") *Q* と *m* × *n* [上三角行列](https://ja.wikipedia.org/wiki/三角行列 "wikilink") *R* との積への分解により表すことまたはそう表した表現をいう。このような分解は常に存在する。

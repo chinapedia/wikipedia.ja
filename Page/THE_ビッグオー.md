@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE ビッグオー](https://ja.wikipedia.org/wiki/THE_ビッグオー)から翻訳されています。
 
 
 『**THEビッグオー**』（ザ ビッグオー）は、[1999年](../Page/1999年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")まで[WOWOW](../Page/WOWOW.md "wikilink")で放送された[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。[2003年](../Page/2003年.md "wikilink")には続編『**THE ビッグオー second season**』が放送された。

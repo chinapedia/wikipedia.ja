@@ -1,4 +1,4 @@
-> この記事は[Unicode 7000-7FFF](https://ja.wikipedia.org/wiki/Unicode_7000-7FFF)から翻訳されています。
+> この記事は[Unicode一覧 7000-7FFF](https://ja.wikipedia.org/wiki/Unicode一覧_7000-7FFF)から翻訳されています。
 
 
 | U+   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |

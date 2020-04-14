@@ -1,4 +1,4 @@
-> この記事は[CBX400F](https://ja.wikipedia.org/wiki/CBX400F)から翻訳されています。
+> この記事は[ホンダ・CBX400F](https://ja.wikipedia.org/wiki/ホンダ・CBX400F)から翻訳されています。
 
 
 **CBX400F**（シービーエックスよんひゃくエフ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。本項では追加設定された**CBX400F INTEGRA\[1\]**（シービーエックスよんひゃくエフ インテグラ）、[姉妹車](../Page/姉妹車.md "wikilink")の**CBX400 CUSTOM**（シービーエックスよんひゃくカスタム）・**CBX550F INTEGRA**（シービーエックスごひゃくごじゅうくエフ インテグラ）についても解説を行う。

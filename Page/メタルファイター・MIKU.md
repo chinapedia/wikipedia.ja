@@ -1,4 +1,4 @@
-> この記事は[MIKU](https://ja.wikipedia.org/wiki/MIKU)から翻訳されています。
+> この記事は[メタルファイター・MIKU](https://ja.wikipedia.org/wiki/メタルファイター・MIKU)から翻訳されています。
 
 
 『**メタルファイター♥MIKU**』（メタルファイター♥ミク）は、[1994年](../Page/1994年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")から[9月30日](../Page/9月30日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で金曜7:35〜8:05に放映された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である（1995年に入ると[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")や[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")でも放送された\[1\] ）。全13話。

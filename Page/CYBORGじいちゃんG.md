@@ -1,4 +1,4 @@
-> この記事は[CYBORGG](https://ja.wikipedia.org/wiki/CYBORGG)から翻訳されています。
+> この記事は[CYBORGじいちゃんG](https://ja.wikipedia.org/wiki/CYBORGじいちゃんG)から翻訳されています。
 
 
 『**CYBORGじいちゃんG**』（サイボーグじいちゃんジー）は、土方茂（現・[小畑健](../Page/小畑健.md "wikilink")）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")と[1988年](../Page/1988年.md "wikilink")の読みきり掲載を経て、[1989年](../Page/1989年.md "wikilink")に『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載された。全31話。単行本は全4巻、復刻版全2巻、文庫版全2巻。

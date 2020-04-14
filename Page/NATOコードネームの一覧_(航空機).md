@@ -1,4 +1,4 @@
-> この記事は[NATO \(\)](https://ja.wikipedia.org/wiki/NATO_\(\))から翻訳されています。
+> この記事は[NATOコードネームの一覧 \(航空機\)](https://ja.wikipedia.org/wiki/NATOコードネームの一覧_\(航空機\))から翻訳されています。
 
 
 これは、**[航空機](../Page/航空機.md "wikilink")の[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")の一覧**である。なお、NATOコードネームでの機種区分は、当該の機体が[NATO](https://ja.wikipedia.org/wiki/NATO "wikilink")側に認知された際に決められたもので、実際の機種区分とはずれているものも少なくない。

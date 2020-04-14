@@ -1,4 +1,4 @@
-> この記事は[YAT!](https://ja.wikipedia.org/wiki/YAT!)から翻訳されています。
+> この記事は[YAT安心!宇宙旅行](https://ja.wikipedia.org/wiki/YAT安心!宇宙旅行)から翻訳されています。
 
 
 『**YAT安心\!宇宙旅行**』（ヤットあんしん うちゅうりょこう）は、[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")[1996年](../Page/1996年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて放送された日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品、およびこれを原作とした[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品（2作品存在する）である。

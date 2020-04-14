@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[イースII](https://ja.wikipedia.org/wiki/イースII)から翻訳されています。
 
 
 『**イースII**』（イースツー、Ys II）は、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈**[イースシリーズ](../Page/イースシリーズ.md "wikilink")**〉の第2作目。前作『[イース](https://ja.wikipedia.org/wiki/イースI "wikilink") (I)』とは密接に繋がっており、後編にあたる。
@@ -25,7 +25,7 @@
   - アートディレクター：桶谷正剛
   - グラフィックスデザイン：大浦孝浩・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")・[山根ともお](https://ja.wikipedia.org/wiki/山根ともお "wikilink")
   - モンスターデザイン：[古代彩乃](../Page/古代彩乃.md "wikilink")
-  - ミュージック：[石川三恵子](../Page/石川三恵子.md "wikilink")・[古代祐三](../Page/古代祐三.md "wikilink")・[永田英哉](../Page/永田英哉.md "wikilink")
+  - ミュージック：[石川三恵子](../Page/石川三恵子.md "wikilink")・[古代祐三](../Page/古代祐三.md "wikilink")\[1\]・[永田英哉](../Page/永田英哉.md "wikilink")
   - グラフィック：[山根ともお](https://ja.wikipedia.org/wiki/山根ともお "wikilink")
   - プロデューサー：加藤正幸
 
@@ -278,7 +278,7 @@
 
 ### OVA
 
-『**イース 天空の神殿〜アドル・クリスティンの冒険〜**』のタイトルで[キングレコード](../Page/キングレコード.md "wikilink")\[1\]と[角川書店](../Page/角川書店.md "wikilink")より[VHS](../Page/VHS.md "wikilink")と[LDでそれぞれ全](../Page/レーザーディスク.md "wikilink")4巻が発売。
+『**イース 天空の神殿〜アドル・クリスティンの冒険〜**』のタイトルで[キングレコード](../Page/キングレコード.md "wikilink")\[2\]と[角川書店](../Page/角川書店.md "wikilink")より[VHS](../Page/VHS.md "wikilink")と[LDでそれぞれ全](../Page/レーザーディスク.md "wikilink")4巻が発売。
 
 ### 音楽メディア
 
@@ -349,4 +349,5 @@
 
 [Category:イースシリーズ](https://ja.wikipedia.org/wiki/Category:イースシリーズ "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:FM-7シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM-7シリーズ用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:1988年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1988年のコンピュータゲーム "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:ビクターエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのゲームソフト "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink")
 
-1.  前作はファルコムレーベルの担当だったが、本作ではファルコムレーベルの担当ではなく別部署の担当であった（現在でいう[第三クリエイティブ本部がそれに相当する](../Page/キングレコード第三クリエイティブ本部.md "wikilink")）。
+1.  PC-88、PC-98、FM77AV、X1turbo、MSX2のオープニングで「古代**裕**三」と誤記されている。
+2.  前作はファルコムレーベルの担当だったが、本作ではファルコムレーベルの担当ではなく別部署の担当であった（現在でいう[第三クリエイティブ本部がそれに相当する](../Page/キングレコード第三クリエイティブ本部.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKアニメ劇場](https://ja.wikipedia.org/wiki/NHKアニメ劇場)から翻訳されています。
 
 
 **NHKアニメ劇場**（エヌエイチケイアニメげきじょう）は、[2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")まで放送されていた[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")番組枠である。

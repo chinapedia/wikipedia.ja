@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKデジタル衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン)から翻訳されています。
 
 
 **NHKデジタル衛星ハイビジョン**（エヌエイチケイデジタルえいせいハイビジョン）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が[2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[3月31日](../Page/3月31日.md "wikilink")まで放送していた[BSデジタル放送向けの](../Page/日本における衛星放送.md "wikilink")[テレビ放送局である](../Page/テレビジョン放送局.md "wikilink")。

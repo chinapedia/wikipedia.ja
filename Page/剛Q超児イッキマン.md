@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[剛Q超児イッキマン](https://ja.wikipedia.org/wiki/剛Q超児イッキマン)から翻訳されています。
 
 
 『**剛Q超児イッキマン**』（ごうきゅうちょうじイッキマン）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から同年[11月23日](../Page/11月23日.md "wikilink")\[1\] まで[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で全](../Page/日本テレビネットワーク協議会.md "wikilink")32話が放送された、[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")製作のSFスポーツ[アニメ](../Page/アニメ.md "wikilink")。
@@ -17,7 +17,7 @@
 
 ### ルールでの相違点
 
-  - 実際の野球では9人で守備を行うのに対して、同作では7人で行う。
+  - 実際の野球では9人で守備を行うのに対して、同作では7人で行う（遊撃手とセンターがいない）。
   - 打撃では、バット以外にもラケットの使用や、素手やキックなど多彩な方法が認められる。実際の野球は木製バット、軟式・硬式野球は金属バット以外の打撃は禁止である。
   - 走者の心臓の位置にボールをタッチするとアウト。これは1塁へ向かう走者にも適用される。そのため、進塁を狙う走者とそれを阻止する守備との間で、格闘を伴うことがある。野球でのルールはタッチアウトで、格闘技を伴う行為は守備妨害行為となる。
 
@@ -32,12 +32,13 @@
 
 地球代表チーム。
 
-  - 沢村一気（イッキマン）
+  - 沢村 一気（さわむら いっき）（イッキマン）
     [声](../Page/声優.md "wikilink") - [堀秀行](../Page/堀秀行.md "wikilink")
-    投手。通称イッキマン。北海道出身。超人的な身体能力を持つ少年。
+    投手。通称イッキマン。北海道出身。超人的な身体能力を持つ少年。実は十数年前にカプセルに乗ってやって来た宇宙人。
+    幼なじみの桃江星子に片思いしていたが、星子が歌手デビューにより上京したために失恋、しかし星子への夢は諦め切れず、有名超人になるべくブループラネッツに入団した。
     ブループラネッツのエースピッチャー。
     名投手[沢村栄治](../Page/沢村栄治.md "wikilink")の子孫の設定。
-  - 天馬宙子
+  - 天馬 宙子（てんま ちゅうこ）
     声 - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
     ブループラネッツのオーナーの娘。
   - メカニクリッヒ
@@ -46,18 +47,21 @@
   - カトリーヌ
     声 - [山本百合子](../Page/山本百合子.md "wikilink")
     二塁手。ブループラネッツの女性選手。金髪の大柄な女性。バッティングにはラケットを使用。
-  - 孫天空
+  - 孫 天空（そん てんくう）
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
     三塁手。ブループラネッツの選手。小柄で身軽。デビルサターンズ戦で深手を負った。
     [孫悟空](../Page/孫悟空.md "wikilink")の子孫の設定。
   - ランボーマン
     声 - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
-    投手・一塁。
+    投手・一塁。実は受刑者で、試合の時だけ刑務所から招聘されている。
     [シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")がモデル。
+  - 縁側 卓二（えんがわ たくじ）
+    投手。一気が入団するまではエースピッチャーだった。
+    当時の[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の投手・[江川卓がモデル](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")。
   - ペラ・ペロー
     投手。
   - イワノフ
-    捕手。
+    捕手。ブループラネッツ一の巨漢。
   - ロング・レッグ
     一塁手。
   - カルイッス
@@ -65,10 +69,10 @@
   - コマネチャクレ
     二塁手。控え。
   - ジョニー・ウォークマン
-    ライト。
+    ライト。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の出身。
   - ドン・ハレンチノ
     レフト。
-  - 養子田監督
+  - 養子田（ようしだ）監督
     声 - [大竹宏](../Page/大竹宏.md "wikilink")
     苗字のモデルは当時、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の監督だった[吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")。
 
@@ -102,9 +106,10 @@
 
 ### その他
 
-  - 桃江星子
+  - 桃江 星子（ももえ せいこ）
     声 - [秋本理央](https://ja.wikipedia.org/wiki/秋本理央 "wikilink")
     沢村一気の幼なじみ。人気アイドル歌手。
+    名前のモデルは[山口百恵](../Page/山口百恵.md "wikilink")と[松田聖子](../Page/松田聖子.md "wikilink")。
   - ソフィー
     声 - [柴田由美子](../Page/柴田由美子_\(声優\).md "wikilink")
   - ドアクスキー
@@ -175,7 +180,8 @@
 <td><p>めざせ! てっぺんヒーロー</p></td>
 <td><p><a href="../Page/山崎晴哉.md" title="wikilink">山崎晴哉</a></p></td>
 <td><p><a href="../Page/西沢信孝.md" title="wikilink">西沢信孝</a></p></td>
-<td><p>今井正彦</p></td>
+<td><p><a href="../Page/西城隆詞.md" title="wikilink">西城隆詞</a><br />
+今井正彦</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -183,8 +189,9 @@
 <td><p>4月20日</p></td>
 <td><p>イッキ投法! ヒグマ殺し</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>石崎すすむ</p></td>
+<td><p>西城隆詞<br />
+<a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -192,8 +199,8 @@
 <td><p>4月27日</p></td>
 <td><p>特訓なんかクソくらえ</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/芹川有吾.md" title="wikilink">芹川有吾</a></p></td>
+<td><p>西城隆詞</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -201,15 +208,16 @@
 <td><p>5月4日</p></td>
 <td><p>地獄のサードつぶし</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/寺田憲史.md" title="wikilink">寺田憲史</a></p></td>
+<td><p>石崎すすむ</p></td>
+<td><p>西城隆詞<br />
+進藤満尾</p></td>
 </tr>
 <tr class="odd">
 <td><p>第5話</p></td>
 <td><p>5月11日</p></td>
 <td><p>ゴルフ超人の逆襲!</p></td>
-<td><p><a href="../Page/寺田憲史.md" title="wikilink">寺田憲史</a></p></td>
+<td><p>笠井由勝</p></td>
 <td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
 <td><p>直井正博</p></td>
 <td></td>
@@ -220,7 +228,7 @@
 <td><p>秘打! ダイヤモンドヘッド</p></td>
 <td></td>
 <td><p>石崎すすむ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a></p></td>
+<td><p>進藤満尾</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -228,9 +236,9 @@
 <td><p>5月25日</p></td>
 <td><p>強敵! サムソン登場</p></td>
 <td></td>
+<td><p><a href="../Page/白土武.md" title="wikilink">白土武</a></p></td>
 <td><p>又野弘道</p></td>
 <td><p>河合静男</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>第8話</p></td>
@@ -335,18 +343,18 @@
 <td><p>第19話</p></td>
 <td><p>8月17日</p></td>
 <td><p>打倒! ピラニア投法</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>菅良幸</p></td>
+<td><p>石崎すすむ</p></td>
+<td><p>進藤満尾</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第20話</p></td>
 <td><p>8月31日[3]（11月30日）</p></td>
 <td><p>熱投復活! 電気ウナギ投法!?</p></td>
-<td><p>菅良幸</p></td>
 <td><p>菊池一仁</p></td>
 <td><p>上村栄司</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -398,8 +406,8 @@
 <td><p>第26話</p></td>
 <td><p>10月12日</p></td>
 <td><p>守れ! チャンピオンフラッグ</p></td>
-<td></td>
-<td></td>
+<td><p>石崎すすむ</p></td>
+<td><p>進藤満尾</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -407,9 +415,9 @@
 <td><p>第27話</p></td>
 <td><p>10月19日</p></td>
 <td><p>殺人軍団の罠</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>山崎晴哉</p></td>
+<td><p>菊池一仁</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">内山正幸</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -417,17 +425,17 @@
 <td><p>10月26日</p></td>
 <td><p>戦慄のデビルサンダース</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>福留政彦</p></td>
+<td><p>進藤満尾</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第29話</p></td>
 <td><p>11月2日</p></td>
 <td><p>死を呼ぶか!? バトル&amp;ラン!</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>寺田憲史</p></td>
+<td><p>芹川有吾</p></td>
+<td><p>河合静男</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -435,8 +443,8 @@
 <td><p>11月9日</p></td>
 <td><p>怒れ! ランボーマン</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>石崎すすむ</p></td>
+<td><p>進藤満尾</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -445,7 +453,7 @@
 <td><p>野獣! コマンドマン現わる</p></td>
 <td></td>
 <td><p>菅良幸</p></td>
-<td><p><a href="../Page/芹川有吾.md" title="wikilink">芹川有吾</a></p></td>
+<td><p>芹川有吾</p></td>
 <td><p>直井正博</p></td>
 </tr>
 <tr class="even">

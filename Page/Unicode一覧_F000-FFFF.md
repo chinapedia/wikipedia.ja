@@ -1,4 +1,4 @@
-> この記事は[Unicode F000-FFFF](https://ja.wikipedia.org/wiki/Unicode_F000-FFFF)から翻訳されています。
+> この記事は[Unicode一覧 F000-FFFF](https://ja.wikipedia.org/wiki/Unicode一覧_F000-FFFF)から翻訳されています。
 
 
 E000〜F8FFは私用領域として予約されている。UnicodeおよびISO/IEC 10646ではこの範囲のコードポイントに文字を割り当てていない。環境により表示が異なる場合がある。
@@ -275,4 +275,4 @@ E000〜F8FFは私用領域として予約されている。UnicodeおよびISO/I
 | FFC0 |     |     | ￂ   | ￃ   | ￄ   | ￅ   | ￆ   | ￇ   |     |      | ￊ    | ￋ    | ￌ    | ￍ    | ￎ    | ￏ    |
 | FFD0 |     |     | ￒ   | ￓ   | ￔ   | ￕ   | ￖ   | ￗ   |     |      | ￚ    | ￛ    | ￜ    |      |      |      |
 | FFE0 | ￠   | ￡   | ￢   | ￣   | ￤   | ￥   | ￦   |     | ￨   | ￩    | ￪    | ￫    | ￬    | ￭    | ￮    |      |
-| FFF0 |     |     |     |     |     |     |     |     |     | IAA  | IAS  | IAT  | ￼    | �    | �    | �    |
+| FFF0 |     |     |     |     |     |     |     |     |     | IAA  | IAS  | IAT  | ￼    | �    |      |      |

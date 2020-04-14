@@ -1,4 +1,4 @@
-> この記事は[Me](https://ja.wikipedia.org/wiki/Me)から翻訳されています。
+> この記事は[Meネット証券](https://ja.wikipedia.org/wiki/Meネット証券)から翻訳されています。
 
 
 **Meネット証券株式会社**（みいねっとしょうけん）とは、かつて存在した三菱証券系[インターネット](../Page/インターネット.md "wikilink")専業[証券会社](../Page/証券会社.md "wikilink")である。

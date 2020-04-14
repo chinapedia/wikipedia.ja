@@ -1,4 +1,4 @@
-> この記事は[WETA](https://ja.wikipedia.org/wiki/WETA)から翻訳されています。
+> この記事は[WETAデジタル](https://ja.wikipedia.org/wiki/WETAデジタル)から翻訳されています。
 
 
 **WETAデジタル**（ウェタ・デジタル、）は、[ニュージーランド](../Page/ニュージーランド.md "wikilink")[ウェリントン](../Page/ウェリントン.md "wikilink")に所在する[VFX](../Page/VFX.md "wikilink")制作会社である。「WETA」は「ウェタ」がもともとの発音にもっとも近い。「」とはニュージーランドに生息する[カマドウマ科](https://ja.wikipedia.org/wiki/カマドウマ科 "wikilink")の大型[昆虫](../Page/昆虫.md "wikilink")の名前である。

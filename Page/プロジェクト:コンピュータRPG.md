@@ -1,4 +1,4 @@
-> この記事は[:RPG](https://ja.wikipedia.org/wiki/:RPG)から翻訳されています。
+> この記事は[プロジェクト:コンピュータRPG](https://ja.wikipedia.org/wiki/プロジェクト:コンピュータRPG)から翻訳されています。
 
 
 まず最初に、心に留めておくべき重要な注意事項をひとつ：
@@ -105,7 +105,7 @@
 
 ### 外部リンク
 
-[Wikipedia:外部リンクの選び方に則って外部リンクを紹介します](https://ja.wikipedia.org/wiki/Wikipedia:外部リンクの選び方 "wikilink")。
+[Wikipedia:外部リンクに則って外部リンクを紹介します](https://ja.wikipedia.org/wiki/Wikipedia:外部リンク "wikilink")。
 
 `*[`*`公式サイト`*`]`
 

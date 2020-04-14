@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ビタミンTV](https://ja.wikipedia.org/wiki/ビタミンTV)から翻訳されています。
 
 
 **ビタミンTV**（**ビタミンてれび**）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBC）で、[2000年](../Page/2000年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の[夕](../Page/夕.md "wikilink")方に放送していた[生活情報番組](../Page/生活情報番組.md "wikilink")である。

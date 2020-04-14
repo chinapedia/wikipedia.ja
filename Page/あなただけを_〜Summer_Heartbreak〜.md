@@ -1,4 +1,4 @@
-> この記事は[ Summer Heartbreak](https://ja.wikipedia.org/wiki/_Summer_Heartbreak)から翻訳されています。
+> この記事は[あなただけを 〜Summer Heartbreak〜](https://ja.wikipedia.org/wiki/あなただけを_〜Summer_Heartbreak〜)から翻訳されています。
 
 
 「**あなただけを 〜Summer Heartbreak〜**」（あなただけを サマー・ハートブレイク）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

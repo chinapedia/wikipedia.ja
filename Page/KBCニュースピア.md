@@ -1,4 +1,4 @@
-> この記事は[KBC](https://ja.wikipedia.org/wiki/KBC)から翻訳されています。
+> この記事は[KBCニュースピア](https://ja.wikipedia.org/wiki/KBCニュースピア)から翻訳されています。
 
 
 『**KBCニュースピア**』（ケイビーシーニュースピア）は、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBCテレビ）で[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで\[1\]\[2\] 毎週月曜日 - 金曜日 18:25 - 19:00\[3\]\[4\] に放送されていた[福岡県](../Page/福岡県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")向けのローカル[ニュース番組](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[!F](https://ja.wikipedia.org/wiki/!F)から翻訳されています。
+> この記事は[おじょママ!F](https://ja.wikipedia.org/wiki/おじょママ!F)から翻訳されています。
 
 
 **おじょママ\!F**（おじょママ\!エフ）は、[関西テレビで毎週](../Page/関西テレビ放送.md "wikilink")[日曜日](../Page/日曜日.md "wikilink")の13:57～14:53に[関西ローカル](../Page/関西ローカル.md "wikilink")向けに放送された[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(WKA\)](https://ja.wikipedia.org/wiki/_\(WKA\))から翻訳されています。
+> この記事は[世界キックボクシング協会 \(WKA\)](https://ja.wikipedia.org/wiki/世界キックボクシング協会_\(WKA\))から翻訳されています。
 
 
 **世界キックボクシング協会**（The **W**orld **K**ickboxing and Karate **A**ssociation\[1\] / **WKA**）はキックボクシングの世界王座認定団体の一つ。1976年にアメリカの[プロ空手協会](../Page/プロ空手協会.md "wikilink")から分離独立した。かつての団体名は「世界空手協会」（"World Karate Association / WKA"）。[全米プロ空手を主に管轄していた](https://ja.wikipedia.org/wiki/プロ空手 "wikilink")。本部は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カールスルーエ](https://ja.wikipedia.org/wiki/カールスルーエ "wikilink")（Nördliche-Uferstr. 4-6 76189 Karlsruhe Germany）に、事務所は[イングランド](../Page/イングランド.md "wikilink")の[バーミンガム](../Page/バーミンガム.md "wikilink")（James Court 63 Gravelly Lane B23 6LX Birmingham England）にある。現会長はドイツ人のKlaus Nonnemacher。

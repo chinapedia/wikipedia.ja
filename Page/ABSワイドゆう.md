@@ -1,4 +1,4 @@
-> この記事は[ABS](https://ja.wikipedia.org/wiki/ABS)から翻訳されています。
+> この記事は[ABSワイドゆう](https://ja.wikipedia.org/wiki/ABSワイドゆう)から翻訳されています。
 
 
 **ABS wideゆう（エイビーエスワイドゆう）**は、かつて[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")で放送されていた夕方のワイド番組である。祝祭日は放送しないことが多い。

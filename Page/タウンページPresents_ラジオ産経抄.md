@@ -1,4 +1,4 @@
-> この記事は[Presents ](https://ja.wikipedia.org/wiki/Presents_)から翻訳されています。
+> この記事は[タウンページPresents ラジオ産経抄](https://ja.wikipedia.org/wiki/タウンページPresents_ラジオ産経抄)から翻訳されています。
 
 
 **タウンページPresents ラジオ産経抄**（タウンページプレゼンツ ラジオさんけいしょう）は[2003年](../Page/2003年.md "wikilink")度と[2004年](../Page/2004年.md "wikilink")度のプロ野球シーズンオフ（10月 - 3月）に[ニッポン放送](../Page/ニッポン放送.md "wikilink")（LF）と[ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）で放送されていた[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")のラジオ番組である。[タウンページ](../Page/タウンページ.md "wikilink")の[単独提供](https://ja.wikipedia.org/wiki/単独提供 "wikilink")。

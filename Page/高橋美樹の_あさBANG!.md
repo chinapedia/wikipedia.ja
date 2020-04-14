@@ -1,4 +1,4 @@
-> この記事は[ BANG!](https://ja.wikipedia.org/wiki/_BANG!)から翻訳されています。
+> この記事は[高橋美樹の あさBANG!](https://ja.wikipedia.org/wiki/高橋美樹の_あさBANG!)から翻訳されています。
 
 
 **高橋美樹の あさBANG！**は、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")の[生放送](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。高橋が不在の時は新聞欄に「○○のるすBANG\!」と紹介されている。

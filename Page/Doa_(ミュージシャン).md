@@ -1,4 +1,4 @@
-> この記事は[Doa \(\)](https://ja.wikipedia.org/wiki/Doa_\(\))から翻訳されています。
+> この記事は[Doa \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Doa_\(ミュージシャン\))から翻訳されています。
 
 
 **doa**（ドア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は『Rock and 3Vocal』。所属レーベルは[GIZA studio](../Page/GIZA_studio.md "wikilink")、所属事務所は[Ading](../Page/Ading.md "wikilink")。公式ファンクラブは『doa rock』。メンバーは全員[大阪府](../Page/大阪府.md "wikilink")在住。

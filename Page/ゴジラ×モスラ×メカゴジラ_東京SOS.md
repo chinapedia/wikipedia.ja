@@ -1,4 +1,4 @@
-> この記事は[ SOS](https://ja.wikipedia.org/wiki/_SOS)から翻訳されています。
+> この記事は[ゴジラ×モスラ×メカゴジラ 東京SOS](https://ja.wikipedia.org/wiki/ゴジラ×モスラ×メカゴジラ_東京SOS)から翻訳されています。
 
 
 『**ゴジラ×モスラ×メカゴジラ 東京SOS**』（ゴジラ モスラ メカゴジラ とうきょうエス・オー・エス）は、[2003年](../Page/2003年.md "wikilink")（平成15年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に公開された日本映画で、「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」の第27作である。併映は『[とっとこハム太郎 ハムハムハグランプリン オーロラ谷の奇跡](https://ja.wikipedia.org/wiki/とっとこハム太郎_\(アニメ\)#劇場版 "wikilink")』。興行収入は13億円で、観客動員数は110万人（平成ゴジラ映画作品の中で観客動員数は次回作の[ゴジラファイナルウォーズ](https://ja.wikipedia.org/wiki/ゴジラファイナルウォーズ "wikilink")に次いで2番目に少ない作品となった）。

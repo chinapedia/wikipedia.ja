@@ -48,7 +48,8 @@
   - [ドライブインシアター](../Page/ドライブインシアター.md "wikilink") (**D**rive-in **T**heater)
   - デュエルターミナル (**D**uel **T**erminal) - [遊☆戯☆王ゼアル デュエルターミナルの略](https://ja.wikipedia.org/wiki/遊☆戯☆王ゼアル_デュエルターミナル "wikilink")。
   - [DT Lords of Genomes](../Page/DT_Lords_of_Genomes.md "wikilink")、[DTエイトロン](../Page/DTエイトロン.md "wikilink")、[DTヴァンパイア](https://ja.wikipedia.org/wiki/DTヴァンパイア "wikilink")の略称、およびそれらに登場する単語の名称。
-  - [デロイト・トーマツ](https://ja.wikipedia.org/wiki/デロイト・トーマツ "wikilink")－[有限責任監査法人トーマツ](../Page/有限責任監査法人トーマツ.md "wikilink")及びそのグループ組織([デロイト・トーマツリスクサービス](https://ja.wikipedia.org/wiki/デロイト・トーマツリスクサービス "wikilink")等)
+  - [デロイト・トーマツ](https://ja.wikipedia.org/wiki/デロイト・トーマツ "wikilink")－[有限責任監査法人トーマツ](../Page/有限責任監査法人トーマツ.md "wikilink")及びそのグループ組織([デロイト・トーマツリスクサービス](https://ja.wikipedia.org/wiki/デロイト・トーマツリスクサービス "wikilink")等)。
+  - [ディズニータウン](https://ja.wikipedia.org/wiki/ディズニータウン "wikilink") (**D**isney **T**own) - [上海ディズニーリゾート](https://ja.wikipedia.org/wiki/上海ディズニーリゾート "wikilink")にある商業施設。
 
 <!-- end list -->
 

@@ -1,4 +1,4 @@
-> この記事は[De!](https://ja.wikipedia.org/wiki/De!)から翻訳されています。
+> この記事は[素敵な気分De!](https://ja.wikipedia.org/wiki/素敵な気分De!)から翻訳されています。
 
 
 『**素敵な気分De\!**』（すてきなきぶんで）は、[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 12:00 - 12:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。

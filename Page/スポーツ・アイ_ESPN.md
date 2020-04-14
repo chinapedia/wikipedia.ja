@@ -1,4 +1,4 @@
-> この記事は[ ESPN](https://ja.wikipedia.org/wiki/_ESPN)から翻訳されています。
+> この記事は[スポーツ・アイ ESPN](https://ja.wikipedia.org/wiki/スポーツ・アイ_ESPN)から翻訳されています。
 
 
 **スポーツ・アイ ESPN**（スポーツ・アイ イーエスピーエヌ、**Sports-i ESPN**）は、[1992年](../Page/1992年.md "wikilink")10月から[2006年](../Page/2006年.md "wikilink")3月まで放送していたスポーツ[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。

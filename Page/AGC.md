@@ -1,11 +1,11 @@
 > この記事は[AGC](https://ja.wikipedia.org/wiki/AGC)から翻訳されています。
 
 
-**AGC株式会社**（エイジーシー、）は、世界最大手の[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")メーカーである。[1907年](../Page/1907年.md "wikilink")創立。[三菱グループ](../Page/三菱グループ.md "wikilink")の一員であり、三菱金曜会\[1\]及び三菱広報委員会\[2\]の会員企業である\[3\]\[4\]。[2016年](../Page/2016年.md "wikilink")現在の主力製品は、建築用ガラス、[フッ素化学製品](https://ja.wikipedia.org/wiki/フルオロカーボン "wikilink")。
+**AGC株式会社**（エイジーシー、）は、世界最大手の[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")メーカーである。[1907年](../Page/1907年.md "wikilink")創立\[1\]。[三菱グループ](../Page/三菱グループ.md "wikilink")の一員であり、三菱金曜会\[2\]及び三菱広報委員会\[3\]の会員企業である\[4\]\[5\]。[2016年](../Page/2016年.md "wikilink")現在の主力製品は、建築用ガラス、[フッ素化学製品](https://ja.wikipedia.org/wiki/フルオロカーボン "wikilink")。
 
 [2018年](../Page/2018年.md "wikilink")7月に商号を**旭硝子株式会社**（あさひがらす）から変更した。
 
-ブランドステートメントは「**Your Dreams, Our Challenge**」\[5\]。
+ブランドステートメントは「**Your Dreams, Our Challenge**」\[6\]。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に創立100周年を迎えた。これを機に、単体の略称であった「AGC」を全世界的な統一ブランドとして定着させる旨を発表、世界的な広告展開を実施中である。社名[ロゴは年初に発表した新しいものへと正式に変更され](../Page/ロゴタイプ.md "wikilink")、大多数の[連結子会社](../Page/連結子会社.md "wikilink")・系列会社がこの新ロゴを用いるようになった（[2018年](../Page/2018年.md "wikilink")の社名変更時にフォントやデザインが若干異なるものに変更されている）。
 
-2016年8月にはドイツのバイオ医薬品会社バイオミーバを買収した、2017年にデンマークのバイオ医薬品会社CMCバイオロジックスを買収\[6\]。
+2016年8月にはドイツのバイオ医薬品会社バイオミーバを買収した、2017年にデンマークのバイオ医薬品会社CMCバイオロジックスを買収\[7\]。
 
 なお、商号の似ていた[旭化成](../Page/旭化成.md "wikilink")および旭化成グループとはまったくの別会社組織であり、資本関係等はない（旭硝子が三菱グループであるのに対し、旭化成は[第一勧銀グループ](../Page/第一勧銀グループ.md "wikilink")）。
 
@@ -36,7 +36,7 @@
   - [2013年](../Page/2013年.md "wikilink") - “南米で最も環境にやさしい”ブラジル工場が竣工。ブラジルの板ガラス市場に参入、東南アジア地域での事業拡大を見込みシンガポールに地域統括拠点を設置。
   - [2015年](../Page/2015年.md "wikilink") - 経営方針*AGC plus*がスタート。
   - [2018年](../Page/2018年.md "wikilink") - **AGC株式会社**に商号変更、シンボルマークをリニューアル。
-      - ブランドステートメント「Your Dreams, Our Challenge」策定\[7\]\[8\]。
+      - ブランドステートメント「Your Dreams, Our Challenge」策定\[8\]\[9\]。
 
 ## 関連会社
 
@@ -125,7 +125,7 @@
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
   - [本田技研工業](../Page/本田技研工業.md "wikilink")
   - [日産自動車](../Page/日産自動車.md "wikilink")
-  - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink") - 旭硝子と同じく三菱金曜会及び三菱広報委員会\[9\]\[10\]の会員企業だったが、現在は日産の傘下となっている。
+  - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink") - 旭硝子と同じく三菱金曜会及び三菱広報委員会\[10\]\[11\]の会員企業だったが、現在は日産の傘下となっている。
   - [スズキ](../Page/スズキ_\(企業\).md "wikilink")
   - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")
   - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")
@@ -144,7 +144,7 @@
 ## 宣伝活動
 
   - 旭硝子の時代からCMを放映している。
-  - 2014年 [FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")（国際サッカー連盟）[ワールドカップ](../Page/ワールドカップ.md "wikilink")[ブラジル大会](https://ja.wikipedia.org/wiki/ブラジル大会 "wikilink")では12の競技場に置かれる「ガラス製ベンチルーフ」を開発・製作しスポンサードした\[11\]。
+  - 2014年 [FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")（国際サッカー連盟）[ワールドカップ](../Page/ワールドカップ.md "wikilink")[ブラジル大会](https://ja.wikipedia.org/wiki/ブラジル大会 "wikilink")では12の競技場に置かれる「ガラス製ベンチルーフ」を開発・製作しスポンサードした\[12\]。
   - [2018年](../Page/2018年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2019年](../Page/2019年.md "wikilink")初頭まで社名変更を知らせるCMを放映。
 
 ### 提供スポンサーであった番組
@@ -158,7 +158,7 @@
 
 ## メディア放送・掲載
 
-  - 2017年5月7日 [Story 〜長寿企業の知恵〜](https://ja.wikipedia.org/wiki/Story_〜長寿企業の知恵〜 "wikilink") \#012 AGC旭硝子 18代目 島村琢哉\[12\]
+  - 2017年5月7日 [Story 〜長寿企業の知恵〜](https://ja.wikipedia.org/wiki/Story_〜長寿企業の知恵〜 "wikilink") \#012 AGC旭硝子 18代目 島村琢哉\[13\]
 
 ## 諸問題
 
@@ -188,15 +188,16 @@
   -
 [Category:AGC](https://ja.wikipedia.org/wiki/Category:AGC "wikilink") [Category:三菱グループ](https://ja.wikipedia.org/wiki/Category:三菱グループ "wikilink") [Category:日本のガラス・土石製品産業](https://ja.wikipedia.org/wiki/Category:日本のガラス・土石製品産業 "wikilink") [Category:ガラスメーカー](https://ja.wikipedia.org/wiki/Category:ガラスメーカー "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1950年上場の企業](https://ja.wikipedia.org/wiki/Category:1950年上場の企業 "wikilink") [Category:老舗企業_(明治創業)](https://ja.wikipedia.org/wiki/Category:老舗企業_\(明治創業\) "wikilink") [Category:1950年設立の企業](https://ja.wikipedia.org/wiki/Category:1950年設立の企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
-1.  [三菱金曜会](http://www.mitsubishi.com/kinyokai/)
-2.  [三菱広報委員会](http://www.mitsubishi.com/mpac/j/)
-3.  [三菱金曜会会員会社紹介](http://www.mitsubishi.com/kinyokai/syoukai.html)
-4.  [三菱広報委員会 - 会員会社紹介](http://www.mitsubishi.com/mpac/j/companies/)
-5.  [ブランドステートメント](https://www.agc.com/company/statement/index.html) - AGC
-6.
+1.
+2.  [三菱金曜会](http://www.mitsubishi.com/kinyokai/)
+3.  [三菱広報委員会](http://www.mitsubishi.com/mpac/j/)
+4.  [三菱金曜会会員会社紹介](http://www.mitsubishi.com/kinyokai/syoukai.html)
+5.  [三菱広報委員会 - 会員会社紹介](http://www.mitsubishi.com/mpac/j/companies/)
+6.  [ブランドステートメント](https://www.agc.com/company/statement/index.html) - AGC
 7.
-8.  [ヒストリー](https://www.agc.com/company/history/index.html) - AGC
-9.
+8.
+9.  [ヒストリー](https://www.agc.com/company/history/index.html) - AGC
 10.
-11. [W杯“初出場”旭硝子製「ガラスベンチ」](https://biz-journal.jp/2014/06/post_5117.html)
-12.
+11.
+12. [W杯“初出場”旭硝子製「ガラスベンチ」](https://biz-journal.jp/2014/06/post_5117.html)
+13.

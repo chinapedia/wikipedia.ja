@@ -1,4 +1,4 @@
-> この記事は[Sugar \(\)](https://ja.wikipedia.org/wiki/Sugar_\(\))から翻訳されています。
+> この記事は[Sugar \(韓国の音楽グループ\)](https://ja.wikipedia.org/wiki/Sugar_\(韓国の音楽グループ\))から翻訳されています。
 
 
 **Sugar**（シュガー）は、かつて存在した[韓国の女性アイドルグループである](../Page/大韓民国.md "wikilink")。[ホリプロ](../Page/ホリプロ.md "wikilink")と契約して[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも進出し、[2004年](../Page/2004年.md "wikilink")度には株式会社[セガ アミューズメント](https://ja.wikipedia.org/wiki/セガ_アミューズメント "wikilink")（後の株式会社[セガ エンタテインメント](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")）のイメージキャラクターとしても活動した。 [2006年](../Page/2006年.md "wikilink")12月31日に解散。

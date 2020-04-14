@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[アークザラッドII](https://ja.wikipedia.org/wiki/アークザラッドII)から翻訳されています。
 
 
 『**アークザラッドII**』（**Arc The Lad II**）は、[ジークラフト](https://ja.wikipedia.org/wiki/ジークラフト "wikilink")制作の[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。[PlayStation専用ソフトとして](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）[11月1日](../Page/11月1日.md "wikilink")に発売された。[アークザラッド](../Page/アークザラッド.md "wikilink")シリーズの第2作目となる。略称は**アーク2**。

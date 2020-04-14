@@ -3,7 +3,7 @@
 
 **Softimage**（ソフトイマージ）は[オートデスク](../Page/オートデスク.md "wikilink")社の[子会社](../Page/子会社.md "wikilink")である**Softimage**社による[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")な[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")の制作用ソフトウェア。
 
-「Softimage」および「SOFTIMAGE」の読み方は「ソフトイマージ」「ソフトイメージ」「ソフトイマージュ」などがある。それぞれの時代において日本での代理店や販売会社で個別に決められた呼び方であり、どれが間違っているということはないが、公式サイトでの呼び名は「ソフトイマージ」となっている。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のSoftimage社では「ソフトイマージュ」と呼ばれているようである。なお、Softimage本社は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を公用語とする[ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")にある。SOFTIMAGE|XSIは単にXSI（エックスエスアイ）と略して呼ぶことが多い。
+「Softimage」および「SOFTIMAGE」の読み方は「ソフティマージュ」「ソフトイマージ」「ソフトイメージ」「ソフトイマージュ」などがある。それぞれの時代において日本での代理店や販売会社で個別に決められた呼び方であり、どれが間違っているということはないが、公式サイトでの呼び名は「ソフトイマージ」となっている。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のSoftimage社では「ソフトイマージュ」と呼ばれているようである。なお、Softimage本社は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を公用語とする[ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")にある。SOFTIMAGE|XSIは単にXSI（エックスエスアイ）と略して呼ぶことが多い。
 
 [映画](../Page/映画.md "wikilink")の[VFX](../Page/VFX.md "wikilink")やゲーム制作などで使用されている。Softimageを全面的に開発ラインに取り入れている会社に[カプコン](../Page/カプコン.md "wikilink")、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")がある。また[ゲーム開発との相性を考慮して設計されており](../Page/コンピュータゲーム.md "wikilink")、Softimage上でつけたアニメーションを即座に開発用[ゲーム機](../Page/ゲーム機.md "wikilink")を通して表示することが可能である。
 

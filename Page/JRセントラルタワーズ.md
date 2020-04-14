@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JRセントラルタワーズ](https://ja.wikipedia.org/wiki/JRセントラルタワーズ)から翻訳されています。
 
 
 [JR_Central_Towers_-_02.JPG](https://ja.wikipedia.org/wiki/File:JR_Central_Towers_-_02.JPG "fig:JR_Central_Towers_-_02.JPG")

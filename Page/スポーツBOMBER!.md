@@ -1,4 +1,4 @@
-> この記事は[BOMBER!](https://ja.wikipedia.org/wiki/BOMBER!)から翻訳されています。
+> この記事は[スポーツBOMBER!](https://ja.wikipedia.org/wiki/スポーツBOMBER!)から翻訳されています。
 
 
 **スポーツBOMBER\!**（**スポーツボンバー**）は、[2000年](../Page/2000年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月にかけて放送されていた[TBSラジオ](../Page/TBSラジオ.md "wikilink")のスポーツ情報番組。前身は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月から2000年3月まで放送された『[清水圭のスポーツKONG\!](https://ja.wikipedia.org/wiki/清水圭のスポーツKONG! "wikilink")』。

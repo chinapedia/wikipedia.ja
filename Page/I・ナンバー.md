@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[I・ナンバー](https://ja.wikipedia.org/wiki/I・ナンバー)から翻訳されています。
 
 
 **i・ナンバー**（あい・ナンバー）は、 「[INSネット64](../Page/ISDN.md "wikilink")」「INSネット64ライト」専用の2番号までの追加（合計3番号使用）が可能な、着信[電話番号](../Page/電話番号.md "wikilink")に応じた符号を[電話交換機](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")から着信先の[加入者線](https://ja.wikipedia.org/wiki/加入者線 "wikilink")に送出する[NTT東日本](../Page/東日本電信電話.md "wikilink")・[西日本の](../Page/西日本電信電話.md "wikilink")[サービスである](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")。[ダイヤルイン](https://ja.wikipedia.org/wiki/ダイヤルイン "wikilink")より月額料金が低いが、代表番号と組み合わせて使用できないため、利用者を小規模商店・二世帯住宅用と想定したサービスである。

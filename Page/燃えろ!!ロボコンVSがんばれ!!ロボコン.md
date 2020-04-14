@@ -1,4 +1,4 @@
-> この記事は[!!VS!!](https://ja.wikipedia.org/wiki/!!VS!!)から翻訳されています。
+> この記事は[燃えろ!!ロボコンVSがんばれ!!ロボコン](https://ja.wikipedia.org/wiki/燃えろ!!ロボコンVSがんばれ!!ロボコン)から翻訳されています。
 
 
 <div class="pathnavbox">

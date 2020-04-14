@@ -1,4 +1,4 @@
-> この記事は[Go!Go!](https://ja.wikipedia.org/wiki/Go!Go!)から翻訳されています。
+> この記事は[アニメでGo!Go!](https://ja.wikipedia.org/wiki/アニメでGo!Go!)から翻訳されています。
 
 
 **アニメでGo\!Go\!**（アニメでゴーゴー）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）制作のローカル[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。毎週火曜日24:30〜25:00に放送されていた。パーソナリティーは同局の[采野吉洋](../Page/采野吉洋.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。

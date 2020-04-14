@@ -1,4 +1,4 @@
-> この記事は[KTV](https://ja.wikipedia.org/wiki/KTV)から翻訳されています。
+> この記事は[KTVワイドニュース](https://ja.wikipedia.org/wiki/KTVワイドニュース)から翻訳されています。
 
 
 『**KTVワイドニュース**』は、[関西テレビにて](../Page/関西テレビ放送.md "wikilink")[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")4月1日まで放送されたお昼の（一部[関西ローカル](../Page/関西ローカル.md "wikilink")）[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』→『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』の関西ローカル差し替えタイトル）。

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[現代の音楽 \(NHK\)](https://ja.wikipedia.org/wiki/現代の音楽_\(NHK\))から翻訳されています。
 
 
 **現代の音楽**（げんだいのおんがく）は、[NHK-FMで](../Page/NHK-FM放送.md "wikilink")[長年放送されている日本国内唯一の](../Page/長寿番組の一覧.md "wikilink")[現代音楽](../Page/現代音楽.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

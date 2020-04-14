@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[ななこSOS](https://ja.wikipedia.org/wiki/ななこSOS)から翻訳されています。
 
 
 『**ななこSOS**』（ななこエスオーエス）は、[吾妻ひでお](../Page/吾妻ひでお.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")には[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")版が放送された。全39話。
@@ -1192,7 +1192,8 @@ Dr.O友/Dr.石川</p></td>
 <td><p>火曜 17:00 - 17:30（第9話まで）→<br />
 土曜 6:17 - 6:45（第10話から）[4]</p></td>
 <td><p>日本テレビ系列</p></td>
-<td><p>1985年に放送。</p></td>
+<td><p>1985年に放送。<br />
+4月9日放送の第9話で一時中断後、6月8日放送の第10話から放送再開。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>

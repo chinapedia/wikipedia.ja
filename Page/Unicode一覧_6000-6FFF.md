@@ -1,4 +1,4 @@
-> この記事は[Unicode 6000-6FFF](https://ja.wikipedia.org/wiki/Unicode_6000-6FFF)から翻訳されています。
+> この記事は[Unicode一覧 6000-6FFF](https://ja.wikipedia.org/wiki/Unicode一覧_6000-6FFF)から翻訳されています。
 
 
 | U+   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |

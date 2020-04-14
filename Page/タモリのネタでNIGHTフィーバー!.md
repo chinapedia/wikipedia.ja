@@ -1,4 +1,4 @@
-> この記事は[NIGHT!](https://ja.wikipedia.org/wiki/NIGHT!)から翻訳されています。
+> この記事は[タモリのネタでNIGHTフィーバー!](https://ja.wikipedia.org/wiki/タモリのネタでNIGHTフィーバー!)から翻訳されています。
 
 
 『**タモリのネタでNIGHTフィーバー\!**』（タモリのネタでないとフィーバー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[フジテレビ系列局で毎週](../Page/フジネットワーク.md "wikilink")[水曜](../Page/水曜日.md "wikilink") 22:00 - 22:54 ([JST](../Page/日本標準時.md "wikilink")) に放送された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](../Page/司会.md "wikilink")を務めた[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。

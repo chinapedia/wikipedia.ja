@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[月刊マガジンZ](https://ja.wikipedia.org/wiki/月刊マガジンZ)から翻訳されています。
 
 
 『**月刊マガジンZ**』（げっかんマガジンゼット）は、[講談社](../Page/講談社.md "wikilink")が[1999年](../Page/1999年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで刊行していた[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。

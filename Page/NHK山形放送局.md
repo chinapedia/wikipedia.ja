@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK山形放送局](https://ja.wikipedia.org/wiki/NHK山形放送局)から翻訳されています。
 
 
 **NHK山形放送局**（エヌエイチケイやまがたほうそうきょく）は、[山形県](../Page/山形県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
@@ -197,7 +197,6 @@
 <td><p><a href="../Page/中谷文彦.md" title="wikilink">中谷文彦</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>放送部副部長<br />
-やままる（キャスター）<br />
 山形県のニュース</p></td>
 <td></td>
 </tr>
@@ -220,14 +219,15 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中原真吾" title="wikilink">中原真吾</a></p></td>
-<td><p><strong>初任地</strong></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金子峻" title="wikilink">金子峻</a></p></td>
+<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
+<td><p>やままる（キャスター）<br />
+山形県のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/野口葵衣" title="wikilink">野口葵衣</a></p></td>
-<td></td>
+<td><p><strong>初任地</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -238,23 +238,22 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>木下愛季子</p></td>
+<td><p>阿部千明</p></td>
 <td></td>
-<td><p>やままる<br />
-（キャスター）</p></td>
+<td><p>やままる</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>畠山彩子</p></td>
+<td><p>石塚綾乃</p></td>
 <td></td>
-<td><p>やままる<br />
-（リポーター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>渡邊晶子</p></td>
+<td><p>木下愛季子</p></td>
 <td></td>
-<td></td>
+<td><p>やままる<br />
+（リポーター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -272,13 +271,20 @@
 <td><p>山形県出身</p></td>
 </tr>
 <tr class="even">
+<td><p>野田奈那</p></td>
+<td></td>
+<td><p>やままる<br />
+山形県のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>福嶋アダム</p></td>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福嶋アダム" title="wikilink">福嶋アダム</a></p></td>
 <td></td>
 <td><p>やままる</p></td>
 <td></td>

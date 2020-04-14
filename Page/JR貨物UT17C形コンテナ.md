@@ -1,4 +1,4 @@
-> この記事は[JRUT17C](https://ja.wikipedia.org/wiki/JRUT17C)から翻訳されています。
+> この記事は[JR貨物UT17C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT17C形コンテナ)から翻訳されています。
 
 
 **UT17C形コンテナ**（UT17Cがたコンテナ）は、[2000年](../Page/2000年.md "wikilink")度に登場した、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。

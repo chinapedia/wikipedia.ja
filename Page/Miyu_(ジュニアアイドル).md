@@ -1,4 +1,4 @@
-> この記事は[Miyu \(\)](https://ja.wikipedia.org/wiki/Miyu_\(\))から翻訳されています。
+> この記事は[Miyu \(ジュニアアイドル\)](https://ja.wikipedia.org/wiki/Miyu_\(ジュニアアイドル\))から翻訳されています。
 
 
 **miyu**（みゆ、[1996年](../Page/1996年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のモデル。[エンジェルプロダクション](../Page/エンジェルプロダクション.md "wikilink")所属。

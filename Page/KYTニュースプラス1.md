@@ -1,4 +1,4 @@
-> この記事は[KYT1](https://ja.wikipedia.org/wiki/KYT1)から翻訳されています。
+> この記事は[KYTニュースプラス1](https://ja.wikipedia.org/wiki/KYTニュースプラス1)から翻訳されています。
 
 
 『**KYTニュースプラス1**』（ケイワイティー ニュースプラスワン）は、[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink") (KYT) が[1994年](../Page/1994年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の開局時から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送していた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。番組終了時の放送時間は月曜 - 木曜 17時25分 - 18時55分、金曜 17時00分 - 18時55分で、ローカルパートの開始時刻は18時17分（[日本標準時](../Page/日本標準時.md "wikilink")、以下同）。

@@ -1,4 +1,4 @@
-> この記事は[KTV](https://ja.wikipedia.org/wiki/KTV)から翻訳されています。
+> この記事は[KTVニュースフラッシュ](https://ja.wikipedia.org/wiki/KTVニュースフラッシュ)から翻訳されています。
 
 
 『**KTVニュースフラッシュ**』（ケイティーブイ ニュースフラッシュ）は、[1977年](../Page/1977年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[関西テレビで放送されていた](../Page/関西テレビ放送.md "wikilink")[スポットニュース](../Page/スポットニュース.md "wikilink")である。番組表上では「**KTVニュースフラッシュ・天気予報**」と表記されていた。

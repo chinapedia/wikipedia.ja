@@ -1,4 +1,4 @@
-> この記事は[Let\'s do it!!](https://ja.wikipedia.org/wiki/Let\'s_do_it!!)から翻訳されています。
+> この記事は[松浦亜弥Let\'s do it!!](https://ja.wikipedia.org/wiki/松浦亜弥Let\'s_do_it!!)から翻訳されています。
 
 
 **松浦亜弥Let's do it\!\!**（まつうらあや れっつ どぅー いっと）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[歌手](../Page/歌手.md "wikilink")の[松浦亜弥](../Page/松浦亜弥.md "wikilink")。

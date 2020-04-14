@@ -41,7 +41,7 @@
   - 22:00 「JUST A RADIO」 [茂木欣一](../Page/茂木欣一.md "wikilink") [TOKYO SKA PARADISE ORCHESTRA](../Page/東京スカパラダイスオーケストラ.md "wikilink")
   - 23:00 「SOUL JAMMIN'」 [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")&[PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")
       -
-        参考：木曜日の両番組は、2004年3月まで[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作の番組として地方のJFN加盟FM局で放送されていた。
+        参考：木曜日の両番組は、2004年3月まで[ジャパンエフエムネットワーク制作の番組として地方のJFN加盟FM局で放送されていた](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
 
 **毎日**
 

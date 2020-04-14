@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ドラマDモード](https://ja.wikipedia.org/wiki/ドラマDモード)から翻訳されています。
 
 
 **ドラマDモード**（ドラマディーモード）は、[2000年](../Page/2000年.md "wikilink")度から[2001年](../Page/2001年.md "wikilink")度の2年間に亘って[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビで](../Page/NHK総合テレビジョン.md "wikilink")、毎週[火曜日](../Page/火曜日.md "wikilink")23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）に放送された[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")[シリーズの総称である](../Page/シリーズ_\(作品\).md "wikilink")。

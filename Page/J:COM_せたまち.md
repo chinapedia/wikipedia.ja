@@ -1,4 +1,4 @@
-> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+> この記事は[J:COM せたまち](https://ja.wikipedia.org/wiki/J:COM_せたまち)から翻訳されています。
 
 
 **J:COM せたまち**（ジェイコム せたまち）とは、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ジェイコムイースト](../Page/ジェイコムイースト.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局施設のひとつ。

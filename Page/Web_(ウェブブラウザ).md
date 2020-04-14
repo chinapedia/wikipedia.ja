@@ -1,4 +1,4 @@
-> この記事は[Web \(\)](https://ja.wikipedia.org/wiki/Web_\(\))から翻訳されています。
+> この記事は[Web \(ウェブブラウザ\)](https://ja.wikipedia.org/wiki/Web_\(ウェブブラウザ\))から翻訳されています。
 
 
 **Web**（ウェブ、旧名**Epiphany** (エピファニー)）は、[レンダリングエンジン](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")に[WebKit](../Page/WebKit.md "wikilink")を使った[GNOME](../Page/GNOME.md "wikilink")の標準[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。シンプルで使いやすいことを念頭に設計されている。[ツールキットに](../Page/ウィジェット・ツールキット.md "wikilink")[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")3を使いGNOMEとよく統合されている。

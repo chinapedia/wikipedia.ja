@@ -1,4 +1,4 @@
-> この記事は[no](https://ja.wikipedia.org/wiki/no)から翻訳されています。
+> この記事は[ムハハnoたかじん](https://ja.wikipedia.org/wiki/ムハハnoたかじん)から翻訳されています。
 
 
 『**ムハハ no たかじん**』（ムハハのたかじん）は、[関西テレビほかで放送されていた](../Page/関西テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の関西テレビでは[2004年](../Page/2004年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 19:29 - 19:57に放送。

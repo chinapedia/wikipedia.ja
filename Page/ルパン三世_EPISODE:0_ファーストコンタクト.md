@@ -1,4 +1,4 @@
-> この記事は[ EPISODE:0 ](https://ja.wikipedia.org/wiki/_EPISODE:0_)から翻訳されています。
+> この記事は[ルパン三世 EPISODE:0 ファーストコンタクト](https://ja.wikipedia.org/wiki/ルパン三世_EPISODE:0_ファーストコンタクト)から翻訳されています。
 
 
 『**ルパン三世 EPISODE：0 ファーストコンタクト**』（ルパンさんせい エピソードゼロ ファーストコンタクト）は、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")原作のアニメ『[ルパン三世](../Page/ルパン三世.md "wikilink")』のTVスペシャルシリーズ第14作。[2002年](../Page/2002年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")『[金曜特別ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")』にて放送された。[視聴率](../Page/視聴率.md "wikilink")は20.6%\[1\]。

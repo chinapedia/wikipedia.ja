@@ -1,4 +1,4 @@
-> この記事は[SIM](https://ja.wikipedia.org/wiki/SIM)から翻訳されています。
+> この記事は[SIMカード](https://ja.wikipedia.org/wiki/SIMカード)から翻訳されています。
 
 
 [thumbのSIMカード](https://ja.wikipedia.org/wiki/ファイル:T-Mobile_SIM_card.jpg "wikilink")。クレジットカードサイズのカードから切り離して使用\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:SIM_Socket2.jpg "wikilink") **SIMカード**（シムカード、）とは、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")や[W-CDMA](../Page/W-CDMA.md "wikilink")などの方式の[携帯電話](../Page/携帯電話.md "wikilink")で使われている、加入者を特定するためのID番号が記録された[ICカード](../Page/ICカード.md "wikilink")\[1\]。なお、[第2.5世代移動通信システムの方式の一つ](../Page/第2世代移動通信システム.md "wikilink")、[IS-95](https://ja.wikipedia.org/wiki/IS-95 "wikilink")で使われるICカードを[CSIMカード](https://ja.wikipedia.org/wiki/CSIMカード "wikilink")と呼ぶ。なお、日本の[cdmaOne](https://ja.wikipedia.org/wiki/cdmaOne "wikilink")ではこの方式は採用されなかった。

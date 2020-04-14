@@ -1,4 +1,4 @@
-> この記事は[Gu-Gu](https://ja.wikipedia.org/wiki/Gu-Gu)から翻訳されています。
+> この記事は[Gu-Guガンモ](https://ja.wikipedia.org/wiki/Gu-Guガンモ)から翻訳されています。
 
 
 『**Gu-Guガンモ**』（グーグーガンモ）は、[細野不二彦](../Page/細野不二彦.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）において、[1982年](../Page/1982年.md "wikilink")19号から1985年16号まで連載された。単行本は全12巻。

@@ -1,4 +1,4 @@
-> この記事は[JJ \(\)](https://ja.wikipedia.org/wiki/JJ_\(\))から翻訳されています。
+> この記事は[JJ \(雑誌\)](https://ja.wikipedia.org/wiki/JJ_\(雑誌\))から翻訳されています。
 
 
 『**JJ**』（ジェイ・ジェイ）は、[光文社](../Page/光文社.md "wikilink")が発売している日本の女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[月刊誌で](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月23日発売。主な対象読者は[女子大生](../Page/女子大生.md "wikilink")で、「[男好みの](../Page/男性.md "wikilink")[コンサバファッション](../Page/コンサバファッション.md "wikilink")」を中心に扱っていることで知られる\[1\]。

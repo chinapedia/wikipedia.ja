@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[JAPANサッカーカレッジ](https://ja.wikipedia.org/wiki/JAPANサッカーカレッジ)から翻訳されています。
 
 
 **JAPANサッカーカレッジ**（ジャパンサッカーカレッジ、）は、[新潟県](../Page/新潟県.md "wikilink")に本社を置く[NSGグループ](../Page/NSGグループ.md "wikilink")の学校法人国際総合学園が運営するサッカー専門学校である。略称はJSC。

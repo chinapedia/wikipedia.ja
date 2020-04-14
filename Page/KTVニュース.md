@@ -1,4 +1,4 @@
-> この記事は[KTV](https://ja.wikipedia.org/wiki/KTV)から翻訳されています。
+> この記事は[KTVニュース](https://ja.wikipedia.org/wiki/KTVニュース)から翻訳されています。
 
 
 『**KTVニュース**』（ケイティーブイニュース）は、かつて、[関西テレビ](../Page/関西テレビ放送.md "wikilink")(KTV現:カンテレ)で放送されていた[ローカル](../Page/ローカル.md "wikilink")[ニュース番組の総称](../Page/報道番組.md "wikilink")。『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』と『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』などの差し替えタイトルとして使用されていたが、すべて[関西ローカル](../Page/関西ローカル.md "wikilink")のニュースを内包して放送していた。

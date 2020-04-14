@@ -1,4 +1,4 @@
-> この記事は[AMP \(\)](https://ja.wikipedia.org/wiki/AMP_\(\))から翻訳されています。
+> この記事は[AMP \(鹿児島讀賣テレビ\)](https://ja.wikipedia.org/wiki/AMP_\(鹿児島讀賣テレビ\))から翻訳されています。
 
 
 『**AMP**』（アンプ）は、[鹿児島読売テレビで放送されている](../Page/鹿児島讀賣テレビ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。

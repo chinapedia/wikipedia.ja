@@ -1,4 +1,4 @@
-> この記事は[LOVE LOVE ](https://ja.wikipedia.org/wiki/LOVE_LOVE_)から翻訳されています。
+> この記事は[LOVE LOVE あいしてる](https://ja.wikipedia.org/wiki/LOVE_LOVE_あいしてる)から翻訳されています。
 
 
 『**LOVE LOVE あいしてる**』（ラブラブあいしてる）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[1996年](../Page/1996年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた。 『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』の前身番組に当たる。
@@ -19,7 +19,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 元々きくちには吉田拓郎のテレビ番組を作りたいという希望があり[1](http://www.musicman-net.com/relay/67-4.html#item-1)、吉田も『[ザ・ヒットパレード](../Page/ザ・ヒットパレード_\(テレビ番組\).md "wikilink")』のような音楽番組をやってみたいという希望があった\[5\]。しかし、吉田にはテレビに対する恐怖心があり、出演交渉は難航した。きくちはそれを除くのに苦心したという。また当時はCDデビューもしていなかった[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のKinKi Kidsと組まされることにも抵抗したが、結局KinKi Kidsありきの番組で、きくちからも「拓郎さんひとりでは数字がとれない」とはっきり言われるなどして説得された。
 
-吉田がこのようなタイプの番組にレギュラー出演するのは珍しいとして話題を呼び、"テレビ出演拒否の本尊"でもあったため大きな批判も受けた。若い世代には吉田の情けないおじさんキャラが受けたが、往年の彼がフォークの神様であった頃を知る[団塊の世代](https://ja.wikipedia.org/wiki/団塊の世代 "wikilink")には、あまりの変貌ぶりに大きな衝撃と晒し者にされたことへの反発も大きかった。ただし、吉田本人は「KinKi Kidsには感謝している」「番組に出演して本当に良かった」と後のインタビューで答えている\[6\]。
+吉田がこのようなタイプの番組にレギュラー出演するのは非常に珍しいとして話題を呼び、一方で吉田は"テレビ出演拒否の本尊"でもあったため大きな批判も受けた。若い世代には吉田の情けないおじさんキャラが受けたが、彼がフォークの神様であった往年の時代を知る[団塊の世代](https://ja.wikipedia.org/wiki/団塊の世代 "wikilink")には、あまりの変貌ぶりに大きな衝撃と晒し者にされたことへの反発も大きかった。ただし、吉田本人は「KinKi Kidsには感謝している」「番組に出演して本当に良かった」と後のインタビューで答えている\[6\]。
 
 番組当初、世間からは「吉田拓郎とKinKi Kidsは違和感がある」、「3ヶ月もてばいい」などと言われていたが、当時『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』『[うたばん](../Page/うたばん.md "wikilink")』等、[当て振り](../Page/当て振り.md "wikilink")の音楽番組が全盛期を迎えていた中、ハウスバンドである「LOVE LOVE ALL STARS」を結成し一流のミュージシャンを揃える等、生演奏に拘った姿勢が好評を得て4年半も続く人気番組となった。
 

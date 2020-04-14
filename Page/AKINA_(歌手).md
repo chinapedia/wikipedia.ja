@@ -1,4 +1,4 @@
-> この記事は[AKINA \(\)](https://ja.wikipedia.org/wiki/AKINA_\(\))から翻訳されています。
+> この記事は[AKINA \(歌手\)](https://ja.wikipedia.org/wiki/AKINA_\(歌手\))から翻訳されています。
 
 
 **AKINA**（アキナ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[振付師](../Page/振付師.md "wikilink")、元アイドル[歌手](../Page/歌手.md "wikilink")。本名、。

@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sガンダム](https://ja.wikipedia.org/wiki/Sガンダム)から翻訳されています。
 
 
 **Sガンダム**（**スペリオルガンダム**、SUPERIOR GUNDAM）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。[有人操縦式の人型ロボット兵器](../Page/架空のロボット兵器の一覧.md "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」(MS)の一つ。初出は、1987年から1990年まで『[モデルグラフィックス](../Page/モデルグラフィックス.md "wikilink")』誌上で連載されていた[小説](../Page/小説.md "wikilink")・フォトストーリー『[ガンダム・センチネル](../Page/ガンダム・センチネル.md "wikilink")』。

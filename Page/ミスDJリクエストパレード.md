@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[ミスDJリクエストパレード](https://ja.wikipedia.org/wiki/ミスDJリクエストパレード)から翻訳されています。
 
 
 **ミスDJリクエストパレード**（ミスディージェイリクエストパレード）は、[1981年](../Page/1981年.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[文化放送](../Page/文化放送.md "wikilink")で放送されたラジオの[深夜放送](../Page/深夜放送.md "wikilink")。[現役](../Page/現役.md "wikilink")の[女子大生](../Page/女子大生.md "wikilink")が[曜日](../Page/曜日.md "wikilink")ごとにDJ（[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")）を務めるもので、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に始まった「[オールナイトフジ](../Page/オールナイトフジ.md "wikilink")」と共に女子大生[ブームの走りになった番組](../Page/流行.md "wikilink")。

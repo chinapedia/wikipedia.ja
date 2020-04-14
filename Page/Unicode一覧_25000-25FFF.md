@@ -1,4 +1,4 @@
-> この記事は[Unicode 25000-25FFF](https://ja.wikipedia.org/wiki/Unicode_25000-25FFF)から翻訳されています。
+> この記事は[Unicode一覧 25000-25FFF](https://ja.wikipedia.org/wiki/Unicode一覧_25000-25FFF)から翻訳されています。
 
 
 | U+    | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |

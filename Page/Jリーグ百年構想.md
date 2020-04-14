@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグ百年構想](https://ja.wikipedia.org/wiki/Jリーグ百年構想)から翻訳されています。
 
 
 **Jリーグ百年構想**（ジェイリーグひゃくねんこうそう）は、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）が提唱および推進する、地域における[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")を核としたスポーツ文化の確立を目指す計画のことである。

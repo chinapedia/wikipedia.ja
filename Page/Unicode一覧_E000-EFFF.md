@@ -1,4 +1,4 @@
-> この記事は[Unicode E000-EFFF](https://ja.wikipedia.org/wiki/Unicode_E000-EFFF)から翻訳されています。
+> この記事は[Unicode一覧 E000-EFFF](https://ja.wikipedia.org/wiki/Unicode一覧_E000-EFFF)から翻訳されています。
 
 
 E000〜F8FF は私用領域として予約されている。Unicode および ISO/IEC 10646 ではこの範囲のコードポイントに文字を割り当てていない。環境により表示が異なる場合がある。

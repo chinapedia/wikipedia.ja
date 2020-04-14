@@ -421,9 +421,9 @@ ST5とST6は、停波の期間を表す。
 
 ## 外部リンク
 
-  - [情報通信研究機構・日本標準時グループ](http://jjy.nict.go.jp/index.html)（[年表 - WebArchive](http://web.archive.org/web/20040228093549/http://jjy.crl.go.jp/Data-room/chrono_table.html)）
+  - [情報通信研究機構・日本標準時グループ](https://jjy.nict.go.jp/index.html)（[年表 - WebArchive](https://web.archive.org/web/20040228093549/http://jjy.crl.go.jp/Data-room/chrono_table.html)）
 
-  - [標準電波](http://www.jarl.org/Japanese/7_Technical/lib1/jjy.htm)（[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")）
+  - [標準電波](https://www.jarl.org/Japanese/7_Technical/lib1/jjy.htm)（[日本アマチュア無線連盟](../Page/日本アマチュア無線連盟.md "wikilink")）
 
   -
   - [標準時報局 JJY](http://ogino.c.ooco.jp/bcl/jjy.htm)（個人サイト）

@@ -1,4 +1,4 @@
-> この記事は[!GO!!](https://ja.wikipedia.org/wiki/!GO!!)から翻訳されています。
+> この記事は[クイズ!家族でGO!!](https://ja.wikipedia.org/wiki/クイズ!家族でGO!!)から翻訳されています。
 
 
 『**クイズ\!家族でGO\!\!**』（クイズ かぞくでゴー）は、2004年10月13日から同年12月15日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[毎日放送制作の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。全7回。放送時間は毎週水曜 18:55 - 19:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

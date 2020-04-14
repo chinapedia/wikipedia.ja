@@ -1,4 +1,4 @@
-> この記事は[U.S.S.](https://ja.wikipedia.org/wiki/U.S.S.)から翻訳されています。
+> この記事は[U.S.S.ディファイアント](https://ja.wikipedia.org/wiki/U.S.S.ディファイアント)から翻訳されています。
 
 
 **U.S.S.ディファイアント**（**U.S.S. Defiant**）は[アメリカのSFドラマ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズに登場する架空の宇宙艦である。

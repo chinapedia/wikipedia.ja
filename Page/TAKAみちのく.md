@@ -1,4 +1,4 @@
-> この記事は[TAKA](https://ja.wikipedia.org/wiki/TAKA)から翻訳されています。
+> この記事は[TAKAみちのく](https://ja.wikipedia.org/wiki/TAKAみちのく)から翻訳されています。
 
 
 **TAKAみちのく**（タカみちのく、[1973年](../Page/1973年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**吉田 貴男**（よしだ たかお）。

@@ -1,4 +1,4 @@
-> この記事は[NTV](https://ja.wikipedia.org/wiki/NTV)から翻訳されています。
+> この記事は[NTVニュース](https://ja.wikipedia.org/wiki/NTVニュース)から翻訳されています。
 
 
 『**NTVニュース**』（エヌティーヴィーニュース）とは、[日本テレビで放送されていた](../Page/日本テレビ放送網.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。

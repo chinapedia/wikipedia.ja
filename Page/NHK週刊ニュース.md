@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK週刊ニュース](https://ja.wikipedia.org/wiki/NHK週刊ニュース)から翻訳されています。
 
 
 『**NHK週刊ニュース**』（エヌエイチケイしゅうかんニュース）は、[NHK総合テレビと海外向けの](../Page/NHK総合テレビジョン.md "wikilink")[NHKワールド・プレミアムで](https://ja.wikipedia.org/wiki/NHKワールド#NHKワールド・プレミアム "wikilink")、[1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")まで放送された総合[報道番組](../Page/報道番組.md "wikilink")である。

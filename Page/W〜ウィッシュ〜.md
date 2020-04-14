@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[W〜ウィッシュ〜](https://ja.wikipedia.org/wiki/W〜ウィッシュ〜)から翻訳されています。
 
 
 『**W〜ウィッシュ〜**』（ダブルウィッシュ）は、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象。[2007年](../Page/2007年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")より[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が[S\!アプリ](../Page/S!アプリ.md "wikilink")版をリリースしている（音声は未収録）。正式なタイトルロゴは「**WWish ダブルウィッシュ**」。

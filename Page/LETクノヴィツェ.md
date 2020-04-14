@@ -1,4 +1,4 @@
-> この記事は[LET](https://ja.wikipedia.org/wiki/LET)から翻訳されています。
+> この記事は[LETクノヴィツェ](https://ja.wikipedia.org/wiki/LETクノヴィツェ)から翻訳されています。
 
 
 [Let_L410UVP-E16_Góraszka_2008_edit2.JPG](https://ja.wikipedia.org/wiki/File:Let_L410UVP-E16_Góraszka_2008_edit2.JPG "fig:Let_L410UVP-E16_Góraszka_2008_edit2.JPG")

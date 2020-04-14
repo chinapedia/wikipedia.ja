@@ -1,4 +1,4 @@
-> この記事は[ATR \(\)](https://ja.wikipedia.org/wiki/ATR_\(\))から翻訳されています。
+> この記事は[ATR \(航空機メーカー\)](https://ja.wikipedia.org/wiki/ATR_\(航空機メーカー\))から翻訳されています。
 
 
 **ATR**（*Avions de Transport Régional* ）は2つの[航空機](../Page/航空機.md "wikilink")メーカー、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[アエロスパシアル](../Page/アエロスパシアル.md "wikilink")と[イタリア](../Page/イタリア.md "wikilink")の[アエリタリア](https://ja.wikipedia.org/wiki/アエリタリア "wikilink")が[1982年](../Page/1982年.md "wikilink")に興した[コンソーシアム](../Page/コンソーシアム.md "wikilink")（共同事業体）である。

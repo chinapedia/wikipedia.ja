@@ -1,4 +1,4 @@
-> この記事は[JRUT11C](https://ja.wikipedia.org/wiki/JRUT11C)から翻訳されています。
+> この記事は[JR貨物UT11C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT11C形コンテナ)から翻訳されています。
 
 
 **UT11C形コンテナ**（UT11Cがたコンテナ）とは、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")・内容積11[m<sup>3</sup>の危険品輸送向け私有](../Page/立方メートル.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。

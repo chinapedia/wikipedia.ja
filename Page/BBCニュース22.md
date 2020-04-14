@@ -1,4 +1,4 @@
-> この記事は[BBC22](https://ja.wikipedia.org/wiki/BBC22)から翻訳されています。
+> この記事は[BBCニュース22](https://ja.wikipedia.org/wiki/BBCニュース22)から翻訳されています。
 
 
 『**BBCニュース22**』 は、[びわ湖放送](../Page/びわ湖放送.md "wikilink")で平日22時台に放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。

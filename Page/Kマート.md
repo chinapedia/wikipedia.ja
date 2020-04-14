@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[Kマート](https://ja.wikipedia.org/wiki/Kマート)から翻訳されています。
 
 
 **Kマート**は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にかつて存在した[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")と[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")のひとつ。[1970年代](../Page/1970年代.md "wikilink")にはNACやUマートと並ぶ、代表的なコンビニエンスストア[チェーンであった](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")\[1\]。コンビニエンスストア部門とスーパーマーケット部門があり、[ボランタリー・チェーン](../Page/ボランタリー・チェーン.md "wikilink")方式を採用していたが、コンビニ部門では[フランチャイズ](../Page/フランチャイズ.md "wikilink")方式で運営していた\[2\]。

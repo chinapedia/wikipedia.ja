@@ -1,4 +1,4 @@
-> この記事は[ vs.DX](https://ja.wikipedia.org/wiki/_vs.DX)から翻訳されています。
+> この記事は[機動戦士Ζガンダム エゥーゴvs.ティターンズDX](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム_エゥーゴvs.ティターンズDX)から翻訳されています。
 
 
 <div class="pathnavbox">

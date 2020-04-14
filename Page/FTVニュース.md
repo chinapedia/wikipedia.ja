@@ -1,4 +1,4 @@
-> この記事は[FTV](https://ja.wikipedia.org/wiki/FTV)から翻訳されています。
+> この記事は[FTVニュース](https://ja.wikipedia.org/wiki/FTVニュース)から翻訳されています。
 
 
 『**FTVニュース**』（エフティーブイニュース）は、[福島テレビ](../Page/福島テレビ.md "wikilink")のローカル[ニュース番組](../Page/報道番組.md "wikilink")。

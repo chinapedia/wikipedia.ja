@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bサンデー](https://ja.wikipedia.org/wiki/Bサンデー)から翻訳されています。
 
 
 **Bサンデー**は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で2002年4月から2004年3月まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。毎週日曜日の16:30〜17:36まで、生放送だった。

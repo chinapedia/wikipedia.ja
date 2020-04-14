@@ -9,7 +9,7 @@
 
 パーソナリティーは公募により選ばれたが、中にはそのまま[ローカルタレント](../Page/ローカルタレント.md "wikilink")に転身した者や、現在もFM山口の別番組でパーソナリティーを務める者もいる。
 
-本番組終了後も、19時台は17時台からの生ワイド番組「[paradise radio](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")」に内包される形でリクエストプログラムが引き継がれるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月の「paradise radio」終了後は[JFNCネット枠に移行している](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")。
+本番組終了後も、19時台は17時台からの生ワイド番組「[paradise radio](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")」に内包される形でリクエストプログラムが引き継がれるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月の「paradise radio」終了後は[JFNCネット枠に移行している](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
 
 番組のオープニングで使用されたBGMは完全オリジナルである。番組開始に当たり、番組スタッフが地元のクリエイターにお願いをしたものである（[だるだる談話室 2008-02-05 「さでこみテーマ -Podcasting-」](http://www.fmy.co.jp/blog/daru.php?blogid=15&archive=2008-02)）。
 

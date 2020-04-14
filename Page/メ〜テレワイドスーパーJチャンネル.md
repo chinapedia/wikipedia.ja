@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[メ〜テレワイドスーパーJチャンネル](https://ja.wikipedia.org/wiki/メ〜テレワイドスーパーJチャンネル)から翻訳されています。
 
 
 『**メ〜テレワイド スーパーJチャンネル**』（メ〜テレワイド スーパージェイチャンネル）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（メ〜テレ）で放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK郡山支局](https://ja.wikipedia.org/wiki/NHK郡山支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_koriyama.jpg "wikilink") **NHK郡山支局**（エヌエイチケイこおりやましきょく）は[福島県](../Page/福島県.md "wikilink")を放送対象地域とする[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")の支局。

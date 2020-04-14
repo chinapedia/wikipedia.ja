@@ -1,4 +1,4 @@
-> この記事は[Unicode 0000-0FFF](https://ja.wikipedia.org/wiki/Unicode_0000-0FFF)から翻訳されています。
+> この記事は[Unicode一覧 0000-0FFF](https://ja.wikipedia.org/wiki/Unicode一覧_0000-0FFF)から翻訳されています。
 
 
 <table style="width:1000%;">
@@ -2852,19 +2852,19 @@
 <td><p>ࢻ</p></td>
 <td><p>ࢼ</p></td>
 <td><p>ࢽ</p></td>
-<td></td>
-<td></td>
+<td><p>ࢾ</p></td>
+<td><p>ࢿ</p></td>
 </tr>
 <tr class="odd">
 <td><p>08C0</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>ࣀ</p></td>
+<td><p>ࣁ</p></td>
+<td><p>ࣂ</p></td>
+<td><p>ࣃ</p></td>
+<td><p>ࣄ</p></td>
+<td><p>ࣅ</p></td>
+<td><p>ࣆ</p></td>
+<td><p>ࣇ</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3698,7 +3698,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>୕</p></td>
 <td><p>ୖ</p></td>
 <td><p>ୗ</p></td>
 <td></td>
@@ -4248,7 +4248,7 @@
 <td><p>ഁ</p></td>
 <td><p>ം</p></td>
 <td><p>ഃ</p></td>
-<td></td>
+<td><p>ഄ</p></td>
 <td><p>അ</p></td>
 <td><p>ആ</p></td>
 <td><p>ഇ</p></td>
@@ -4397,7 +4397,7 @@
 <tr class="even">
 <td><p>0D80</p></td>
 <td></td>
-<td></td>
+<td><p>ඁ</p></td>
 <td><p>ං</p></td>
 <td><p>ඃ</p></td>
 <td></td>

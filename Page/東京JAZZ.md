@@ -1,4 +1,4 @@
-> この記事は[JAZZ](https://ja.wikipedia.org/wiki/JAZZ)から翻訳されています。
+> この記事は[東京JAZZ](https://ja.wikipedia.org/wiki/東京JAZZ)から翻訳されています。
 
 
 **東京JAZZ**（とうきょうじゃず、TOKYO JAZZ）は、毎年夏季に行われている[ジャズ](../Page/ジャズ.md "wikilink")[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")のイベントである。主催は[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")からなる東京JAZZ実行委員会。

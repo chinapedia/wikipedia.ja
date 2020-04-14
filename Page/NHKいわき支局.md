@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKいわき支局](https://ja.wikipedia.org/wiki/NHKいわき支局)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:NHKいわき支局.jpg "wikilink") **NHKいわき支局**（エヌエイチケイいわきしきょく）は、[福島県](../Page/福島県.md "wikilink")[浜通り](../Page/浜通り.md "wikilink")地域を管轄する[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")の支局。

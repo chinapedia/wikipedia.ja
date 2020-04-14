@@ -1,4 +1,4 @@
-> この記事は[J A GOGO!!](https://ja.wikipedia.org/wiki/J_A_GOGO!!)から翻訳されています。
+> この記事は[Jリーグ A GOGO!!](https://ja.wikipedia.org/wiki/Jリーグ_A_GOGO!!)から翻訳されています。
 
 
 『**Jリーグ A GOGO\!\!**』（ジェイリーグ・ア・ゴーゴー）は、[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

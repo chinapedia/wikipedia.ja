@@ -1,4 +1,4 @@
-> この記事は[ LIVESTORM](https://ja.wikipedia.org/wiki/_LIVESTORM)から翻訳されています。
+> この記事は[なまあらし LIVESTORM](https://ja.wikipedia.org/wiki/なまあらし_LIVESTORM)から翻訳されています。
 
 
 『**なまあらし LIVESTORM**』（なまあらし ライブストーム）は[2002年](../Page/2002年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[土曜日](../Page/土曜日.md "wikilink")昼12:00 - 13:00に[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")で[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")から[生放送](../Page/生放送.md "wikilink")されていた[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ**[嵐](../Page/嵐_\(グループ\).md "wikilink")**が[司会の](https://ja.wikipedia.org/wiki/司会者 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

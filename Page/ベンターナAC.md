@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ベンターナAC](https://ja.wikipedia.org/wiki/ベンターナAC)から翻訳されています。
 
 
 **ベンターナアスリートクラブ**は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")を本拠地とする社会人のサッカークラブ。通称は**ベンターナAC**。

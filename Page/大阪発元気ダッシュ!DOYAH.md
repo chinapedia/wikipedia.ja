@@ -1,4 +1,4 @@
-> この記事は[!DOYAH](https://ja.wikipedia.org/wiki/!DOYAH)から翻訳されています。
+> この記事は[大阪発元気ダッシュ!DOYAH](https://ja.wikipedia.org/wiki/大阪発元気ダッシュ!DOYAH)から翻訳されています。
 
 
 『**大阪発元気ダッシュ\!DOYAH**』（おおさかはつ げんきダッシュ ドゥヤー）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")で放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[衛星第二で](../Page/NHK衛星第2テレビジョン.md "wikilink")、原則として月一回放送。

@@ -1,4 +1,4 @@
-> この記事は[KJ](https://ja.wikipedia.org/wiki/KJ)から翻訳されています。
+> この記事は[KJ法](https://ja.wikipedia.org/wiki/KJ法)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Affinity_wall.png "wikilink")\]\] **KJ法**（KJほう）は、[文化人類学](../Page/文化人類学.md "wikilink")者の[川喜田二郎](../Page/川喜田二郎.md "wikilink")（[東京工業大学](../Page/東京工業大学.md "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")）がデータをまとめるために考案した手法である。KJは[考案者のイニシャルに因む](../Page/発明家.md "wikilink")。

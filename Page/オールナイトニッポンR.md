@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR)から翻訳されています。
 
 
 **オールナイトニッポンR**（オールナイトニッポンアール）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに放送されていた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」関連番組の一つである。この記事では、単発で放送されたパーソナリティの時間、いわゆる**週替わり**枠についても、以下で詳述する。
@@ -43,7 +43,7 @@
 
   - <span id="fritime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00\[10\] ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（2010年4月2日までと2011年4月8日から、ただし、2011年4月22日より9月16日まで隔週で28:30まで）
+      - 27:00 - 29:00\[10\] ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[九州朝日放送](../Page/KBCラジオ.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（2010年4月2日までと2011年4月8日から、ただし、2011年4月22日より9月16日まで隔週で28:30まで）
       - 27:00 - 28:30 ： ニッポン放送（2010年4月9日から2011年4月1日まで\[11\]）
       - 27:00 - 28:00 ： [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2010年4月から）、[中部日本放送](../Page/中部日本放送.md "wikilink")（現・[CBCラジオ](../Page/CBCラジオ.md "wikilink")、2010年3月まで）
       - 過去のネット局 ： 中部日本放送（現・CBCラジオ）（2010年3月まで　27:00 - 28:00）
@@ -61,7 +61,7 @@
 
   - <span id="sattime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")\[16\]、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[17\]、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（2013年4月から）
+      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[17\]、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（2013年4月から）
       - 27:00 - 28:30 ： [ニッポン放送](../Page/ニッポン放送.md "wikilink")\[18\]\[19\]
       - 27:00 - 28:00 ： [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")、[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（2010年1月から）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
       - 過去のネット局 ： [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2005年9月で終了 27:00 - 28:30）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")\[20\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2015年3月で終了\[21\] 27:00 - 28:00）、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（2017年4月で終了 27:00 - 28:00）
@@ -91,13 +91,13 @@
   - pee-ka-boo（ピーカーブー）/1998年4月 - 1998年5月
   - [荘口彰久](../Page/荘口彰久のオールナイトニッポンR.md "wikilink")/1998年6月 - 1999年3月
       - 1996年4月 - 1998年3月は土曜2部（27:00 - 29:00）を担当。
-  - 吉本あつい（[ガレッジセール](../Page/ガレッジセール.md "wikilink")、27:00 - 27:30 → 27:30 - 28:00）/1999年3月 - 2001年9月
+  - 吉本あつい（[ガレッジセール](../Page/ガレッジセール.md "wikilink")、27:00 - 27:30 → 27:00 - 28:00）/1999年3月 - 2001年9月
       - 2001年10月 - 2002年3月は月曜com（26:00 - 27:00）を担当。
   - お笑いネクストブレイク（27:30 - 28:00）/1999年3月 - 1999年9月
   - [植田朝日](../Page/植田朝日.md "wikilink")のスポーツ・アルマゲドン（28:00 - 28:30） /1999年3月 - 2000年3月
   - [FEEL](https://ja.wikipedia.org/wiki/FEEL "wikilink") THE BEAT（27:30 - 28:00）/1999年10月 - 2000年3月
       - 金曜日から移動。
-  - GAGナイト（27:00 - 27:30）/2000年4月 - 2001年9月
+  - GAGナイト（27:30 - 28:00）/2000年4月 - 2001年9月
       - 2000年10月からは28:00 - 28:30にも放送していた。
   - 夜明けの[ジャンヌダルク](https://ja.wikipedia.org/wiki/ジャンヌダルク "wikilink")（28:00 - 28:30）/2000年4月 - 2000年9月
       - 金曜日から移動。
@@ -199,7 +199,7 @@
       - レコード2（28:30 - 29:00）/2003年11月 - 2004年3月
       - [グローバー](https://ja.wikipedia.org/wiki/グローバーのオールナイトニッポンR "wikilink")（[Jackson vibe](../Page/Jackson_vibe.md "wikilink")、27:00 - 28:30）/2004年4月 - 2005年3月
       - 週替わり（オールナイトニッポンR スペシャルナイト、27:00 - 28:30）/2005年4月 - 2006年6月
-          - その際、一部ネット局が[TBSラジオの](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「[あなたへモーニングコール](../Page/あなたへモーニングコール.md "wikilink")」の土曜深夜のネットを開始。
+          - その際、一部ネット局が[TBSラジオ](../Page/TBSラジオ.md "wikilink")の「[あなたへモーニングコール](../Page/あなたへモーニングコール.md "wikilink")」の土曜深夜のネットを開始。
           - 「グローバーのオールナイトニッポンR」時代はフル放送としていた局の中には、2005年度から28:00で飛び降りという局が続出した。
       - [有楽町音楽室 コハ・ラ・スマートのオールナイトニッポンR](../Page/オールナイトニッポン_有楽町音楽室.md "wikilink")（最終週のみ、27:00 - 28:30 → 27:00 - 29:00）/2006年4月 - 2007年3月
       - [南海キャンディーズ 山里亮太のオールナイトニッポンR](../Page/南海キャンディーズ_山里亮太のオールナイトニッポンR.md "wikilink")（最終週を除く、27:00 - 28:30）/2006年7月 - 2006年9月
@@ -308,10 +308,10 @@
 
 #### 2003年
 
-| 1月 | 1日 | [ゆず](../Page/ゆずのオールナイトニッポン.md "wikilink")（「[com](../Page/@llnightnippon.com.md "wikilink")」から引き続き出演） | 8日                                                  | [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink") | 15日                                    | 芸人魂〜dead or alive〜 | 22日                                                 | ゆず                                     | 29日 | [サイコ・ル・シェイム](https://ja.wikipedia.org/wiki/Psycho_le_Cému "wikilink") |
-| -- | -- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------------------ | --------------------------------------------------- | -------------------------------------- | --- | --------------------------------------------------------------------- |
-| 2月 |    | 5日                                                                                                   | [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink") | 12日                                                          | [高田馬場文夫](../Page/高田馬場文夫.md "wikilink") | 19日                | 26日                                                 | [DASEIN](../Page/DASEIN.md "wikilink") |     |                                                                       |
-| 3月 | 5日 | [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")                                                     | 12日                                                 | [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")           | 19日                                    | 26日                | [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink") |                                        |     |                                                                       |
+| 1月 | 1日 | [ゆず](../Page/ゆずのオールナイトニッポン.md "wikilink")（「[com](../Page/@llnightnippon.com.md "wikilink")」から引き続き出演） | 8日                                                  | [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")          | 15日                                    | 芸人魂〜dead or alive〜 | 22日                                                 | ゆず                                     | 29日 | [サイコ・ル・シェイム](https://ja.wikipedia.org/wiki/Psycho_le_Cému "wikilink") |
+| -- | -- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- | -------------------------------------- | ------------------ | --------------------------------------------------- | -------------------------------------- | --- | --------------------------------------------------------------------- |
+| 2月 |    | 5日                                                                                                   | [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink") | 12日                                                | [高田馬場文夫](../Page/高田馬場文夫.md "wikilink") | 19日                | 26日                                                 | [DASEIN](../Page/DASEIN.md "wikilink") |     |                                                                       |
+| 3月 | 5日 | [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")                                                     | 12日                                                 | [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink") | 19日                                    | 26日                | [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink") |                                        |     |                                                                       |
 
 ### 金曜日
 
@@ -1970,32 +1970,33 @@ ONLY ONE</a></p></th>
 
 2018年4月から土曜2部のタイトルが平日同様に「オールナイトニッポン0(ZERO)」へ統一された後も放送を継続。同年4月8日（7日深夜）の改題後1回目の放送もこの企画が行われた。9月16日（15日深夜）には「オールナイトニッポン0(ZERO)～決戦\!お笑い有楽城10周年スペシャル\!\!～」が10周年を記念し放送された\[159\]。東貴博、いとうあさこを司会に歴代優勝者13組が集合。バイきんぐらスタジオに来れなかった優勝者もコメント出演した。
 
-尚、第20回（2019年春）より予選・決勝戦ともラジオトークを模した内容へとリニューアルされた\[160\]。
+第20回（2019年春）より予選のネタバトルを廃止し、トークバトルに一本化したうえでリニューアルした\[160\]が、第22回（2020年春）は[Covid-19に伴うイベント自粛規制により無観客で尚且つ審査員増員で開催した](https://ja.wikipedia.org/wiki/2019新型コロナウイルス感染症 "wikilink")。
 
-| nowrap colspan=2|放送回 | nowrap|優勝者    | nowrap|所属事務所(当時)                                                            | nowrap|優勝特典                                                                                  |
-| -------------------- | ------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| nowrap|第1回           | nowrap|2008年春 | nowrap|[マシンガンズ](../Page/マシンガンズ.md "wikilink")                               | nowrap|[太田プロダクション](../Page/太田プロダクション.md "wikilink")                                          |
-| nowrap|第2回           | nowrap|2009年春 | nowrap|[ラバーガール](../Page/ラバーガール.md "wikilink")                               | nowrap|[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")                                        |
-| nowrap|第3回           | nowrap|2009年秋 | nowrap|[いとうあさこ](../Page/いとうあさこ.md "wikilink")                               | nowrap|[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")                                                |
-| nowrap|第4回           | nowrap|2010年春 | nowrap|[フォーリンラブ](../Page/フォーリンラブ.md "wikilink")                             | nowrap|[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")                                |
-| nowrap|第5回           | nowrap|2010年秋 | nowrap|[なすなかにし](../Page/なすなかにし.md "wikilink")\[161\]                        | nowrap|[松竹芸能](../Page/松竹芸能.md "wikilink")                                                    |
-| nowrap|第6回           | nowrap|2011年秋 | nowrap|[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")                          | nowrap|[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")                              |
-| nowrap|第7回           | nowrap|2012年春 | nowrap|[磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")                            | nowrap|[ホリプロコム](../Page/ホリプロコム.md "wikilink")                                                |
-| nowrap|第8回           | nowrap|2012年秋 | nowrap|[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")              | nowrap|[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")                            |
-| nowrap|第9回           | nowrap|2013年春 | nowrap|[モグライダー](https://ja.wikipedia.org/wiki/モグライダー "wikilink")            | nowrap|マセキ芸能社                                                                                |
-| nowrap|第10回          | nowrap|2013年秋 | nowrap|[あばれる君](https://ja.wikipedia.org/wiki/あばれる君 "wikilink")              | nowrap|ワタナベエンターテインメント                                                                        |
-| nowrap|第11回          | nowrap|2014年春 | nowrap|[湘南デストラーデ](https://ja.wikipedia.org/wiki/湘南デストラーデ "wikilink")        | nowrap|[SMA HEET Project](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")         |
-| nowrap|第12回          | nowrap|2014年秋 | nowrap|[ダブルブッキング](../Page/ダブルブッキング_\(お笑いコンビ\).md "wikilink")                | nowrap|ホリプロコム                                                                                |
-| nowrap|第13回          | nowrap|2015年春 | nowrap|[ピスタチオ](https://ja.wikipedia.org/wiki/ピスタチオ_\(お笑い\) "wikilink")      | nowrap|[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")東京 |
-| nowrap|第14回          | nowrap|2015年秋 | nowrap|[メイプル超合金](https://ja.wikipedia.org/wiki/メイプル超合金 "wikilink")          | nowrap|サンミュージックプロダクション                                                                       |
-| nowrap|第15回          | nowrap|2016年春 | nowrap|[笑撃戦隊](https://ja.wikipedia.org/wiki/笑撃戦隊 "wikilink")                | nowrap|ワタナベエンターテインメント                                                                        |
-| nowrap|第16回          | nowrap|2016年秋 | nowrap|[エル・カブキ](https://ja.wikipedia.org/wiki/エル・カブキ "wikilink")            | nowrap|マセキ芸能社                                                                                |
-| nowrap|第17回          | nowrap|2017年春 | nowrap|[ペンギンズ](https://ja.wikipedia.org/wiki/ペンギンズ "wikilink")              | nowrap|サンミュージックプロダクション                                                                       |
-| nowrap|第18回          | nowrap|2017年秋 | nowrap|[卯月](https://ja.wikipedia.org/wiki/卯月_\(お笑い\) "wikilink")            | rowspan=2 nowrap|プロダクション人力舎                                                                  |
-| nowrap|第19回          | nowrap|2018年春 | nowrap|岡野陽一（元・[巨匠](https://ja.wikipedia.org/wiki/巨匠_\(お笑いコンビ\) "wikilink")） | nowrap|2018年6月9日                                                                             |
-| nowrap|番外編           | nowrap|2018年秋 | nowrap colspan=3|10周年スペシャル（MC / 東貴博・いとうあさこ）                                 |                                                                                              |
-| nowrap|第20回          | nowrap|2019年春 | nowrap|[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink")     | nowrap|よしもとクリエイティブ・エージェンシー東京                                                                 |
-| nowrap|第21回          | nowrap|2019年秋 | nowrap|[スタンダップコーギー](https://ja.wikipedia.org/wiki/スタンダップコーギー "wikilink")    | nowrap|マセキ芸能社                                                                                |
+| nowrap colspan=2|放送回 | nowrap|優勝者    | nowrap|所属事務所(当時)                                                            | nowrap|優勝特典                                                                                  | nowrap|司会          |
+| -------------------- | ------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------ |
+| nowrap|第1回           | nowrap|2008年春 | nowrap|[マシンガンズ](../Page/マシンガンズ.md "wikilink")                               | nowrap|[太田プロダクション](../Page/太田プロダクション.md "wikilink")                                          | nowrap|2008年4月26日  |
+| nowrap|第2回           | nowrap|2009年春 | nowrap|[ラバーガール](../Page/ラバーガール.md "wikilink")                               | nowrap|[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")                                        | nowrap|2009年4月4日   |
+| nowrap|第3回           | nowrap|2009年秋 | nowrap|[いとうあさこ](../Page/いとうあさこ.md "wikilink")                               | nowrap|[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")                                                | nowrap|2010年1月8日   |
+| nowrap|第4回           | nowrap|2010年春 | nowrap|[フォーリンラブ](../Page/フォーリンラブ.md "wikilink")                             | nowrap|[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")                                | nowrap|2010年7月2日   |
+| nowrap|第5回           | nowrap|2010年秋 | nowrap|[なすなかにし](../Page/なすなかにし.md "wikilink")\[161\]                        | nowrap|[松竹芸能](../Page/松竹芸能.md "wikilink")                                                    | nowrap|2011年1月28日  |
+| nowrap|第6回           | nowrap|2011年秋 | nowrap|[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")                          | nowrap|[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")                              | nowrap|2011年11月18日 |
+| nowrap|第7回           | nowrap|2012年春 | nowrap|[磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")                            | nowrap|[ホリプロコム](../Page/ホリプロコム.md "wikilink")                                                | nowrap|2012年7月7日   |
+| nowrap|第8回           | nowrap|2012年秋 | nowrap|[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")              | nowrap|[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")                            | nowrap|2012年12月29日 |
+| nowrap|第9回           | nowrap|2013年春 | nowrap|[モグライダー](https://ja.wikipedia.org/wiki/モグライダー "wikilink")            | nowrap|マセキ芸能社                                                                                | nowrap|2013年5月11日  |
+| nowrap|第10回          | nowrap|2013年秋 | nowrap|[あばれる君](https://ja.wikipedia.org/wiki/あばれる君 "wikilink")              | nowrap|ワタナベエンターテインメント                                                                        | nowrap|2014年3月1日   |
+| nowrap|第11回          | nowrap|2014年春 | nowrap|[湘南デストラーデ](https://ja.wikipedia.org/wiki/湘南デストラーデ "wikilink")        | nowrap|[SMA HEET Project](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")         | nowrap|2014年8月23日  |
+| nowrap|第12回          | nowrap|2014年秋 | nowrap|[ダブルブッキング](../Page/ダブルブッキング_\(お笑いコンビ\).md "wikilink")                | nowrap|ホリプロコム                                                                                | nowrap|2014年12月27日 |
+| nowrap|第13回          | nowrap|2015年春 | nowrap|[ピスタチオ](https://ja.wikipedia.org/wiki/ピスタチオ_\(お笑い\) "wikilink")      | nowrap|[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")東京 | nowrap|2015年6月13日  |
+| nowrap|第14回          | nowrap|2015年秋 | nowrap|[メイプル超合金](https://ja.wikipedia.org/wiki/メイプル超合金 "wikilink")          | nowrap|サンミュージックプロダクション                                                                       | nowrap|2016年3月12日  |
+| nowrap|第15回          | nowrap|2016年春 | nowrap|[笑撃戦隊](https://ja.wikipedia.org/wiki/笑撃戦隊 "wikilink")                | nowrap|ワタナベエンターテインメント                                                                        | nowrap|2016年5月7日   |
+| nowrap|第16回          | nowrap|2016年秋 | nowrap|[エル・カブキ](https://ja.wikipedia.org/wiki/エル・カブキ "wikilink")            | nowrap|マセキ芸能社                                                                                | nowrap|2017年2月25日  |
+| nowrap|第17回          | nowrap|2017年春 | nowrap|[ペンギンズ](https://ja.wikipedia.org/wiki/ペンギンズ "wikilink")              | nowrap|サンミュージックプロダクション                                                                       | nowrap|2017年8月26日  |
+| nowrap|第18回          | nowrap|2017年秋 | nowrap|[卯月](https://ja.wikipedia.org/wiki/卯月_\(お笑い\) "wikilink")            | rowspan=2 nowrap|プロダクション人力舎                                                                  | nowrap|2018年3月3日   |
+| nowrap|第19回          | nowrap|2018年春 | nowrap|岡野陽一（元・[巨匠](https://ja.wikipedia.org/wiki/巨匠_\(お笑いコンビ\) "wikilink")） | nowrap|2018年6月9日                                                                             | nowrap|卯月          |
+| nowrap|番外編           | nowrap|2018年秋 | nowrap colspan=4|10周年スペシャル（MC / 東貴博・いとうあさこ）                                 |                                                                                              |                    |
+| nowrap|第20回          | nowrap|2019年春 | nowrap|[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink")     | nowrap|よしもとクリエイティブ・エージェンシー東京                                                                 | nowrap|2019年6月8日   |
+| nowrap|第21回          | nowrap|2019年秋 | nowrap|[スタンダップコーギー](https://ja.wikipedia.org/wiki/スタンダップコーギー "wikilink")    | nowrap|マセキ芸能社                                                                                | nowrap|2019年12月28日 |
+| nowrap|第22回          | nowrap|2020年春 | nowrap|[鬼越トマホーク](https://ja.wikipedia.org/wiki/鬼越トマホーク "wikilink")          | nowrap|[吉本興業ホールディングス](https://ja.wikipedia.org/wiki/吉本興業ホールディングス "wikilink")                 | nowrap|            |
 
 歴代優勝者
 
@@ -2012,7 +2013,7 @@ ONLY ONE</a></p></th>
 
   - [オールナイトニッポンR](http://www.allnightnippon.com/program/annr/)（ニッポン放送）
   - [夜・オールナイトニッポン番組ページ](http://www.allnightnippon.com)（ニッポン放送）
-  - [決戦\!お笑い有楽城](https://ssl.1242.com/form/owarai/)（ニッポン放送）
+  - [決戦\!お笑い有楽城](https://www.allnightnippon.com/yurakujo/?_ga=2.36490976.1340630654.1584995186-1808948268.1583636770)（ニッポン放送）
 
 [Category:オールナイトニッポンR](https://ja.wikipedia.org/wiki/Category:オールナイトニッポンR "wikilink") [Category:LF+R](https://ja.wikipedia.org/wiki/Category:LF+R "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[NATO](https://ja.wikipedia.org/wiki/NATO)から翻訳されています。
+> この記事は[NATOコードネーム](https://ja.wikipedia.org/wiki/NATOコードネーム)から翻訳されています。
 
 
 **NATOコードネーム**（ナトーコードネーム）とは、[NATOが](../Page/北大西洋条約機構.md "wikilink")[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（ソ連）をはじめとする[東側諸国](../Page/東側諸国.md "wikilink")の装備（[兵器](../Page/兵器.md "wikilink")）に付けた[コードネーム](../Page/コードネーム.md "wikilink")である。正式な[英語](../Page/英語.md "wikilink")名は、（NATO報告名）。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")の5ヵ国によって構成される**航空機標準化調整委員会**（ASCC、）によってコードネームが与えられる。

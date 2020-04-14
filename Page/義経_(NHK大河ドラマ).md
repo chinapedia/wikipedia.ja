@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[義経 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/義経_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**義経**』（よしつね）は、[2005年](../Page/2005年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[12月11日](../Page/12月11日.md "wikilink")に放送された44作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")である。原作は[宮尾登美子](../Page/宮尾登美子.md "wikilink")で、脚本は[金子成人](../Page/金子成人.md "wikilink")が手掛けた。
@@ -37,7 +37,7 @@
 
   - 牛若→遮那王→[源義経](../Page/源義経.md "wikilink")：[上井聡一郎](https://ja.wikipedia.org/wiki/上井聡一郎 "wikilink")→[神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")→[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
       -
-        [平治の乱](../Page/平治の乱.md "wikilink")で父・義朝が敗れ、母・常盤が清盛の元に投降したため、幼少期を清盛の元で過ごす。そのため清盛を自分の父親と思い、清盛も牛若に好意的に接していた。後に[鞍馬寺](../Page/鞍馬寺.md "wikilink")に預けられ僧になるべく暮らしていたが、[源行家](../Page/源行家.md "wikilink")から自らの出生の秘密を知らされる。それから武士として生きることを志し、密かに寺を抜け出し[藤原秀衡](../Page/藤原秀衡.md "wikilink")を頼って奥州に向かう。その途上で元服して義経と名乗る。武道に非常に秀でており戦場では獅子奮迅の働きをするが、平素の言動は丁寧で上品である。家来達からは**「御曹司」**、のちに **｢殿｣** と呼ばれる。兄・頼朝の下に参陣。頼朝を主と仰ぎ平家を倒す功労者になったものの、戦後処理の行き違いと弟として自分を扱ってくれない頼朝への不満が募り、価値観の相違で悲劇のヒーローとなってゆく。
+        [平治の乱](../Page/平治の乱.md "wikilink")で父・義朝が敗れ、母・常盤が清盛の元に投降したため、幼少期を清盛の元で過ごす。そのため清盛を自分の父親と思い、清盛も牛若に好意的に接していた。後に[鞍馬寺](../Page/鞍馬寺.md "wikilink")に預けられ僧になるべく暮らしていたが、[源行家](../Page/源行家.md "wikilink")から自らの出生の秘密を知らされる。それから武士として生きることを志し、密かに寺を抜け出し[藤原秀衡](../Page/藤原秀衡.md "wikilink")を頼って奥州に向かう。その途上で元服して義経と名乗る。武道に非常に秀でており戦場では獅子奮迅の働きをするが、平素の言動は丁寧で上品である。家来達からは「**御曹司**」、のちに｢**殿**｣と呼ばれる。兄・頼朝の下に参陣。頼朝を主と仰ぎ平家を倒す功労者になったものの、戦後処理の行き違いと弟として自分を扱ってくれない頼朝への不満が募り、価値観の相違で悲劇のヒーローとなってゆく。
   - [武蔵坊弁慶](../Page/武蔵坊弁慶.md "wikilink")：[松平健](../Page/松平健.md "wikilink")
       -
         無実の罪で寺を追われた事により、その鬱憤を晴らすため道行く人から刀を奪うようになる。あと一本で1,000本になるという時に義経に負けたことで、義経の家来になる。以降は文武の才覚を活かして命懸けで義経を守るようになり、その最期も義経を庇いながら立ったまま亡くなるという壮絶なものだった。
@@ -395,7 +395,7 @@
   - [殺陣](../Page/殺陣.md "wikilink")武術指導：[林邦史朗](https://ja.wikipedia.org/wiki/林邦史朗 "wikilink")（本編にも出演）
   - 馬術指導：[田中光法](https://ja.wikipedia.org/wiki/田中光法 "wikilink")
   - 舞指導：[野村万蔵（九世）](https://ja.wikipedia.org/wiki/野村万蔵#九世野村万蔵 "wikilink")、[小笠原匡](https://ja.wikipedia.org/wiki/小笠原匡 "wikilink")、[松本幸龍](https://ja.wikipedia.org/wiki/松本幸龍 "wikilink")
-  - 笛指導・和楽器指導：[稲葉明徳](https://ja.wikipedia.org/wiki/稲葉明徳 "wikilink")
+  - 笛指導・和楽器指導：[稲葉明徳](../Page/稲葉明徳.md "wikilink")
   - 香指導：[岩本砂重子](https://ja.wikipedia.org/wiki/岩本砂重子 "wikilink")、[鈴木宗卓](https://ja.wikipedia.org/wiki/鈴木宗卓 "wikilink")
   - 書道指導：[望月暁云](https://ja.wikipedia.org/wiki/望月暁云 "wikilink")
   - 仏事指導：[山田亮匡](https://ja.wikipedia.org/wiki/山田亮匡 "wikilink")
@@ -771,7 +771,7 @@
 <td><p>第45回</p></td>
 <td><p>11月13日</p></td>
 <td><p>夢の行く先</p></td>
-<td><p><a href="../Page/静神社.md" title="wikilink">静神社</a>（京都府<a href="../Page/京丹後市.md" title="wikilink">京丹後市</a>）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/静神社_(京丹後市)" title="wikilink">静神社</a>（京都府<a href="../Page/京丹後市.md" title="wikilink">京丹後市</a>）<br />
 <a href="../Page/神泉苑.md" title="wikilink">神泉苑</a>（京都市）</p></td>
 <td></td>
 </tr>

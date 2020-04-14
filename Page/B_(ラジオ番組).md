@@ -1,4 +1,4 @@
-> この記事は[B \(\)](https://ja.wikipedia.org/wiki/B_\(\))から翻訳されています。
+> この記事は[B \(ラジオ番組\)](https://ja.wikipedia.org/wiki/B_\(ラジオ番組\))から翻訳されています。
 
 
 『**B**』（ビー）は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で[2002年](../Page/2002年.md "wikilink")4月2日から同年10月4日深夜まで放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

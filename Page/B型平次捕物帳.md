@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B型平次捕物帳](https://ja.wikipedia.org/wiki/B型平次捕物帳)から翻訳されています。
 
 
 『**B型平次捕物帳**』（ビーがたへいじとりものちょう）は、時代劇『[銭形平次](../Page/銭形平次_捕物控.md "wikilink")』を元にした[いしいひさいち](../Page/いしいひさいち.md "wikilink")作の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[1991年](../Page/1991年.md "wikilink")に[竹書房](../Page/竹書房.md "wikilink")から『B型平次捕物帖』として単行本が出版された。また、[2002年](../Page/2002年.md "wikilink")には『B型平次捕物控』が[東京創元社](../Page/東京創元社.md "wikilink")から出版された。

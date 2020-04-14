@@ -1,4 +1,4 @@
-> この記事は[ IN db 1st ](https://ja.wikipedia.org/wiki/_IN_db_1st_)から翻訳されています。
+> この記事は[三枝夕夏 IN db 1st 〜君と約束した優しいあの場所まで〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db_1st_〜君と約束した優しいあの場所まで〜)から翻訳されています。
 
 
 『**三枝夕夏 IN db 1st 〜君と約束した優しいあの場所まで〜**』（さえぐさゆうか イン デシベル ファースト きみとやくそくしたやさしいあのばしょまで）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")1枚目のアルバム。

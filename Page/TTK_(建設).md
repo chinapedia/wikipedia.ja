@@ -1,4 +1,4 @@
-> この記事は[TTK \(\)](https://ja.wikipedia.org/wiki/TTK_\(\))から翻訳されています。
+> この記事は[TTK \(建設\)](https://ja.wikipedia.org/wiki/TTK_\(建設\))から翻訳されています。
 
 
 **株式会社TTK**（ティーティーケー）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[若林区](../Page/若林区.md "wikilink")に本社を置く建設会社である。中心は[NTT東日本の電気通信設備工事である](../Page/東日本電信電話.md "wikilink")。

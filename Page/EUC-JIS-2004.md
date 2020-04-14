@@ -3,7 +3,7 @@
 
 **EUC-JIS-2004**は、日本の文字を符号化するために使われる[文字コード](../Page/文字コード.md "wikilink")である。[JIS X 0213の符号化方式のひとつである](../Page/JIS_X_0213.md "wikilink")。JIS X 0213:2004の附属書3で定義されている。
 
-以下のようなコード値の割り当てによって、[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")とJIS X 0213、および[JIS X 0201片仮名を混在させる符号化方式である](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。
+以下のようなコード値の割り当てによって、[ASCII](../Page/ASCII.md "wikilink")とJIS X 0213、および[JIS X 0201片仮名を混在させる符号化方式である](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。
 
   - コード値0x20から0x7FまではASCII (厳密には[ISO/IEC 646](https://ja.wikipedia.org/wiki/ISO/IEC_646 "wikilink") 国際基準版) を用いる。
   - コード値0xA1から0xFEまでは、2バイトを用いてJIS X 0213の第1面を表現する。この部分はJIS X 0208の上位互換である。

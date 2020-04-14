@@ -1,4 +1,4 @@
-> この記事は[ \(Fayray\)](https://ja.wikipedia.org/wiki/_\(Fayray\))から翻訳されています。
+> この記事は[願い \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/願い_\(Fayrayの曲\))から翻訳されています。
 
 
 「**願い**」（ねがい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、15枚目のシングル。[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売。発売元は[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。

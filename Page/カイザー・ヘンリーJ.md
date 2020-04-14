@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[カイザー・ヘンリーJ](https://ja.wikipedia.org/wiki/カイザー・ヘンリーJ)から翻訳されています。
 
 
 [1951_Henry_J_sedan_green_2013_AACA-Lakeland-1.jpg](https://ja.wikipedia.org/wiki/File:1951_Henry_J_sedan_green_2013_AACA-Lakeland-1.jpg "fig:1951_Henry_J_sedan_green_2013_AACA-Lakeland-1.jpg") **ヘンリーJ**（*Henry J* ）は米国の自動車。[カイザー＝フレーザー](../Page/カイザー＝フレーザー.md "wikilink")・コーポレーションにより1950年から1951年式モデルとして発売され1953年まで製造販売した。車名は、会長のヘンリー・J・カイザーからつけられた。

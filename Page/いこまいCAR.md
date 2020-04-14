@@ -1,4 +1,4 @@
-> この記事は[CAR](https://ja.wikipedia.org/wiki/CAR)から翻訳されています。
+> この記事は[いこまいCAR](https://ja.wikipedia.org/wiki/いこまいCAR)から翻訳されています。
 
 
 **いこまいCAR**（いこまいかー）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[江南市](../Page/江南市.md "wikilink")が名鉄グループのタクシー（名鉄西部交通）に委託して運行している[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。実際には[乗合タクシー](../Page/乗合タクシー.md "wikilink")で運行されており、正確にはコミュニティバスとは言えないが、全国でもこのような事例は多数ある。 現在は定期便が廃止され予約便のみとなっている。ここでは定期便廃止時のデータとする。

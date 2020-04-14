@@ -1,4 +1,4 @@
-> この記事は[PRIDE](https://ja.wikipedia.org/wiki/PRIDE)から翻訳されています。
+> この記事は[PRIDE選手一覧](https://ja.wikipedia.org/wiki/PRIDE選手一覧)から翻訳されています。
 
 
 **PRIDE選手一覧**は、[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」に参戦経験がある選手の一覧である。階級の分類ができる以前の参戦選手については、それぞれ参戦時の体重をもとに、分類後の階級にカテゴライズする。

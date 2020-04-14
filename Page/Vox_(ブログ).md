@@ -1,4 +1,4 @@
-> この記事は[Vox \(\)](https://ja.wikipedia.org/wiki/Vox_\(\))から翻訳されています。
+> この記事は[Vox \(ブログ\)](https://ja.wikipedia.org/wiki/Vox_\(ブログ\))から翻訳されています。
 
 
 **Vox**（ぼっくす）は、ブログの会社である[シックス・アパート](../Page/シックス・アパート.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に開始したサービス。もとは、コードネームを'Project Comet'といった。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")にサービスを終了した。

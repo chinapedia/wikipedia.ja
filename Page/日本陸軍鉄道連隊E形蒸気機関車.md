@@ -1,11 +1,11 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[日本陸軍鉄道連隊E形蒸気機関車](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊E形蒸気機関車)から翻訳されています。
 
 
 **日本陸軍鉄道連隊E形蒸気機関車**（にほんりくぐんてつどうれんたいEがたじょうききかんしゃ）は、かつて[日本陸軍](../Page/大日本帝国陸軍.md "wikilink")[鉄道連隊](../Page/鉄道連隊.md "wikilink")に所属していた[蒸気機関車](../Page/蒸気機関車.md "wikilink")である。
 
 ## 概要
 
-日本の[陸軍省](https://ja.wikipedia.org/wiki/陸軍省 "wikilink")の発注により、鉄道連隊で使用する[野戦](https://ja.wikipedia.org/wiki/野戦 "wikilink")[軽便鉄道](../Page/軽便鉄道.md "wikilink")用機関車として、[1921年](../Page/1921年.md "wikilink")にE1 - E25\[1\]の25両、[1925年](../Page/1925年.md "wikilink")にE101 - E106\[2\]の6両、と2回に分けて合計31両が発注され、ドイツの[オーレンシュタイン・ウント・コッペル](../Page/オーレンシュタイン・ウント・コッペル.md "wikilink")-アルトゥル・コッペル([Orensteim & Koppel-Arthur Koppel A.-G.](https://ja.wikipedia.org/wiki/:de:Orenstein_&_Koppel "wikilink"))社\[3\]で製造された。
+日本の[陸軍省](../Page/陸軍省.md "wikilink")の発注により、鉄道連隊で使用する[野戦](https://ja.wikipedia.org/wiki/野戦 "wikilink")[軽便鉄道](../Page/軽便鉄道.md "wikilink")用機関車として、[1921年](../Page/1921年.md "wikilink")にE1 - E25\[1\]の25両、[1925年](../Page/1925年.md "wikilink")にE101 - E106\[2\]の6両、と2回に分けて合計31両が発注され、ドイツの[オーレンシュタイン・ウント・コッペル](../Page/オーレンシュタイン・ウント・コッペル.md "wikilink")-アルトゥル・コッペル([Orensteim & Koppel-Arthur Koppel A.-G.](https://ja.wikipedia.org/wiki/:de:Orenstein_&_Koppel "wikilink"))社\[3\]で製造された。
 
 これは、[1901年](../Page/1901年.md "wikilink")より鉄道大隊→鉄道連隊が193セット386両をドイツより輸入した[A/B形双合機関車では勾配区間での取り扱いなどに難があった](https://ja.wikipedia.org/wiki/日本陸軍鉄道連隊A/B形蒸気機関車 "wikilink")\[4\]ことから、1両での牽引力の増大と曲線通過性能の維持の両立を図って5動軸の強力機\[5\]としたもので、元来は双合機関車と同様、ドイツ帝国陸軍の野戦軽便鉄道()向けとして設計されたもの\[6\]である。
 

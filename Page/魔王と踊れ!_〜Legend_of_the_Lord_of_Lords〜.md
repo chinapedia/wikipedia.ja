@@ -1,4 +1,4 @@
-> この記事は[! Legend of the Lord of Lords](https://ja.wikipedia.org/wiki/!_Legend_of_the_Lord_of_Lords)から翻訳されています。
+> この記事は[魔王と踊れ! 〜Legend of the Lord of Lords〜](https://ja.wikipedia.org/wiki/魔王と踊れ!_〜Legend_of_the_Lord_of_Lords〜)から翻訳されています。
 
 
 『**魔王と踊れ\! -Legend of the Lord of Lords-**』（まおうとおどれ レジェンド オブ ザ ロード オブ ローズ）は[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[catwalkより発売された](https://ja.wikipedia.org/wiki/キャットウォーク "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

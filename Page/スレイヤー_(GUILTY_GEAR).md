@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[スレイヤー \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/スレイヤー_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **スレイヤー** (SLAYER) は、2D対戦格闘ゲーム『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。担当声優は初登場のXXからXrd-SIGN-まで[家弓家正](../Page/家弓家正.md "wikilink")。Xrd-REVELATOR-からは[土師孝也](../Page/土師孝也.md "wikilink")。

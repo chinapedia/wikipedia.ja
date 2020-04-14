@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBA最優秀選手賞](https://ja.wikipedia.org/wiki/NBA最優秀選手賞)から翻訳されています。
 
 
 **NBA最優秀選手賞**（さいゆうしゅうせんしゅしょう、）は、[NBA](../Page/NBA.md "wikilink")でレギュラーシーズンに最も活躍した選手 (MVP) に授与される賞。レギュラーシーズン終了直後に[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")ら（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者などの関係者）およびファン投票枠による投票によって選出される\[1\]。プレイオフ以後の最優秀選手には、「[NBAファイナル最優秀選手賞](https://ja.wikipedia.org/wiki/NBAファイナル最優秀選手賞 "wikilink")」が設けられている\[2\]。
@@ -319,16 +319,16 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p><a href="../Page/スティーブ・ナッシュ.md" title="wikilink">スティーブ・ナッシュ</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/スティーブ・ナッシュ.md" title="wikilink">スティーブ・ナッシュ</a></p></td>
 <td><p>フェニックス・サンズ</p></td>
 <td><p>1</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>スティーブ・ナッシュ</p></td>
+<td><p>|style="background-color:#FFFF99"| スティーブ・ナッシュ</p></td>
 <td><p>フェニックス・サンズ</p></td>
 <td><p>2</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>|style="background-color:"| <a href="../Page/ダーク・ノヴィツキー.md" title="wikilink">ダーク・ノヴィツキー</a></p></td>

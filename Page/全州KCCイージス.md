@@ -1,4 +1,4 @@
-> この記事は[KCC](https://ja.wikipedia.org/wiki/KCC)から翻訳されています。
+> この記事は[全州KCCイージス](https://ja.wikipedia.org/wiki/全州KCCイージス)から翻訳されています。
 
 
 **全州KCCイージス**（チョンジュ・ケーシーシー・イージス、韓国語:、英語:Jeonju KCC Egis）は、[大韓民国](../Page/大韓民国.md "wikilink")・[全羅北道](../Page/全羅北道.md "wikilink")[全州市](https://ja.wikipedia.org/wiki/全州市 "wikilink")に本拠地を置くプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。

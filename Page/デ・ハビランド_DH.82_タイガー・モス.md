@@ -1,4 +1,4 @@
-> この記事は[ DH.82 ](https://ja.wikipedia.org/wiki/_DH.82_)から翻訳されています。
+> この記事は[デ・ハビランド DH.82 タイガー・モス](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.82_タイガー・モス)から翻訳されています。
 
 
 [Dehav.dh82a.tigermoth.g-aghy.arp.jpg](https://ja.wikipedia.org/wiki/File:Dehav.dh82a.tigermoth.g-aghy.arp.jpg "fig:Dehav.dh82a.tigermoth.g-aghy.arp.jpg") **デ・ハビランド DH.82 タイガー・モス** (de Havilland DH.82 Tiger Moth) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デ・ハビランド社製の](../Page/デ・ハビランド・エアクラフト.md "wikilink")[練習機](../Page/練習機.md "wikilink")。愛称のタイガー・モスとは[ヒトリガ](../Page/ヒトリガ.md "wikilink")の意である。

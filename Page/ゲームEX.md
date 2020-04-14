@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ゲームEX](https://ja.wikipedia.org/wiki/ゲームEX)から翻訳されています。
 
 
 『**ゲームEX**』（ゲームイーエックス）は、[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[1999年](../Page/1999年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで放送。

@@ -120,6 +120,7 @@
     [坂元裕二](../Page/坂元裕二.md "wikilink")との会話で何気なく出てきた「どこか見えない明日に期待を持っている女の子」を思い描いて作った\[25\]。
     歌詞にブランドの社名を引用しているのは単なる語呂合わせで深い意味はない\[26\]。
     メロディーが前曲から繋がっている為、前の曲の終わりの部分が一瞬聞こえて来る。
+    [ハウス食品](../Page/ハウス食品.md "wikilink")「O'ZACK」[CMソングとして起用された](../Page/コマーシャルソング.md "wikilink")。
 
 **3.OPERA NIGHT**
 
@@ -160,6 +161,7 @@
 
   -
     TM NETWORKのシングル「[DIVE INTO YOUR BODY](../Page/DIVE_INTO_YOUR_BODY.md "wikilink")」と同時に作った曲である\[38\]。
+    [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")『[シティーハンター3](../Page/シティーハンター_\(アニメ\).md "wikilink")』のオープニングテーマ。
 
 **10.[CHRISTMAS CHORUS](https://ja.wikipedia.org/wiki/CHRISTMAS_CHORUS "wikilink")**
 
@@ -240,7 +242,7 @@ ESTB-1013 (CT)</p></td>
 
 ## 外部リンク
 
-  - [ソニーミュージック オフィシャルサイト](http://www.sonymusic.co.jp/artist/TetsuyaKomuro/discography/MHCL-30103)
+  - [ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/TetsuyaKomuro/discography/MHCL-30103)
 
   -
 [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:小室哲哉のアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")

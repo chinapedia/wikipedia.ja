@@ -1,4 +1,4 @@
-> この記事は[Beautiful Songs   ](https://ja.wikipedia.org/wiki/Beautiful_Songs___)から翻訳されています。
+> この記事は[Beautiful Songs〜ココロ デ キク ウタ〜](https://ja.wikipedia.org/wiki/Beautiful_Songs〜ココロ_デ_キク_ウタ〜)から翻訳されています。
 
 
 『**Beautiful Songs〜ココロ デ キク ウタ〜**』（ビューティフル・ソングス　ココロ デ キク ウタ）は、[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のみで発売された[コンピレーション](https://ja.wikipedia.org/wiki/コンピレーション "wikilink")・[アルバム](../Page/アルバム.md "wikilink")である。

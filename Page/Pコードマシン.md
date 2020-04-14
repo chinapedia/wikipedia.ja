@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[Pコードマシン](https://ja.wikipedia.org/wiki/Pコードマシン)から翻訳されています。
 
 
 **pコードマシン**とは、[プロセッサ](../Page/プロセッサ.md "wikilink")の一種であるが、ハードウェアではなくソフトウェアで、すなわち[エミュレータや](../Page/エミュレータ_\(コンピュータ\).md "wikilink")[仮想機械](../Page/仮想機械.md "wikilink")のような[インタプリタ](../Page/インタプリタ.md "wikilink")型の[プログラムで実装されることを目的としたものであり](../Page/プログラム_\(コンピュータ\).md "wikilink")、p-code と呼ばれる[中間コード](https://ja.wikipedia.org/wiki/中間コード "wikilink")を解釈実行する。この用語は、そのような仕様一般を指すこともあるが、多くの仕様はそれぞれ個々の名称を持っている。特に[UCSD Pascalの](../Page/UCSD_Pascal.md "wikilink") p-Machine を指すことが多い。「p」の意味については、[Pascal](../Page/Pascal.md "wikilink")処理系の場合はPascalの頭文字ともされるが、他言語の場合はpseudo（[マイクロソフトのサポート情報](http://support.microsoft.com/kb/229415/en-us)を参照）やportable\[1\]などとされる。

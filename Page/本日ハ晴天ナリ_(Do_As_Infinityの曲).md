@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[本日ハ晴天ナリ \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/本日ハ晴天ナリ_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**本日ハ晴天ナリ**」（ほんじつハせいてんナリ）は、[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。

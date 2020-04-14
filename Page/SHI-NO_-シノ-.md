@@ -1,4 +1,4 @@
-> この記事は[SHI-NO --](https://ja.wikipedia.org/wiki/SHI-NO_--)から翻訳されています。
+> この記事は[SHI-NO -シノ-](https://ja.wikipedia.org/wiki/SHI-NO_-シノ-)から翻訳されています。
 
 
 『**SHI-NO -シノ-**』は、[上月雨音](https://ja.wikipedia.org/wiki/上月雨音 "wikilink")・著、[東条さかな](https://ja.wikipedia.org/wiki/東条さかな "wikilink")・画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")より全10巻が刊行された。[2007年](../Page/2007年.md "wikilink")6月から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月迄『[ドラゴンエイジピュア](../Page/ドラゴンエイジピュア.md "wikilink")』（[富士見書房](../Page/富士見書房.md "wikilink")）にて漫画版が連載された。第5回富士見ヤングミステリー大賞の最終候補作品。

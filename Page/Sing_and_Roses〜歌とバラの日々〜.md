@@ -1,4 +1,4 @@
-> この記事は[Sing and Roses](https://ja.wikipedia.org/wiki/Sing_and_Roses)から翻訳されています。
+> この記事は[Sing and Roses〜歌とバラの日々〜](https://ja.wikipedia.org/wiki/Sing_and_Roses〜歌とバラの日々〜)から翻訳されています。
 
 
 『**Sing and Roses〜歌とバラの日々〜**』（シング・アンド・ローズィズ-うたとばらのひび-）は[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の16枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -36,6 +36,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Sing and Roses](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCL-2741/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Sing and Roses](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCL-2741)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink")

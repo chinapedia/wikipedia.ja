@@ -1,4 +1,4 @@
-> この記事は[ Would you marry me\?](https://ja.wikipedia.org/wiki/_Would_you_marry_me\?)から翻訳されています。
+> この記事は[魔法の言葉 〜Would you marry me\?〜](https://ja.wikipedia.org/wiki/魔法の言葉_〜Would_you_marry_me\?〜)から翻訳されています。
 
 
 「**魔法の言葉 〜Would you marry me?〜**」（まほうのことば ウッド・ユー・マリー・ミー?）は、音楽グループ[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。

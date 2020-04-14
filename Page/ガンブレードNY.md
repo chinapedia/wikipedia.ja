@@ -1,4 +1,4 @@
-> この記事は[NY](https://ja.wikipedia.org/wiki/NY)から翻訳されています。
+> この記事は[ガンブレードNY](https://ja.wikipedia.org/wiki/ガンブレードNY)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Gunbladeny.jpg "wikilink") 『**ガンブレードNY**』（*GUNBLADE NY -Special Air Assault Force-*）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が[1996年](../Page/1996年.md "wikilink")に発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。

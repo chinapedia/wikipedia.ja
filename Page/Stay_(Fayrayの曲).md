@@ -1,4 +1,4 @@
-> この記事は[Stay \(Fayray\)](https://ja.wikipedia.org/wiki/Stay_\(Fayray\))から翻訳されています。
+> この記事は[Stay \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/Stay_\(Fayrayの曲\))から翻訳されています。
 
 
 **stay**（ステイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の12枚目のシングル。

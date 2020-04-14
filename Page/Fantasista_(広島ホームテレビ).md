@@ -1,4 +1,4 @@
-> この記事は[Fantasista \(\)](https://ja.wikipedia.org/wiki/Fantasista_\(\))から翻訳されています。
+> この記事は[Fantasista \(広島ホームテレビ\)](https://ja.wikipedia.org/wiki/Fantasista_\(広島ホームテレビ\))から翻訳されています。
 
 
 『**Fantasista SANFRECCE SUPPORT PROGRAM**』（ファンタジスタ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送された[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")（[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島 "wikilink")応援ミニ番組）である。総放送回数は171回（4年）に及んだ。

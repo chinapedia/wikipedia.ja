@@ -1,4 +1,4 @@
-> この記事は[ \(KiKi\)](https://ja.wikipedia.org/wiki/_\(KiKi\))から翻訳されています。
+> この記事は[レット・ゴー \(KiKiのアルバム\)](https://ja.wikipedia.org/wiki/レット・ゴー_\(KiKiのアルバム\))から翻訳されています。
 
 
 **レット・ゴー(Let Go)**は、アメリカ合衆国のゴスペル・シンガー、[KiKiの日本デビューアルバムである](../Page/キエラ・キキ・シェアード.md "wikilink")。

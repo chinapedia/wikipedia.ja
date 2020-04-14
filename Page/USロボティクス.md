@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[USロボティクス](https://ja.wikipedia.org/wiki/USロボティクス)から翻訳されています。
 
 
 **USロボティクス**（USRobotics、**USR**）は、コンピュータ用[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")およびネットワーク関連機器の製造企業であり、[1976年](../Page/1976年.md "wikilink")、[イリノイ州](../Page/イリノイ州.md "wikilink")[シャンバーグ](../Page/シャンバーグ.md "wikilink")で設立された。

@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[OL蔡桃桂](https://ja.wikipedia.org/wiki/OL蔡桃桂)から翻訳されています。
 
 
 『**OL蔡桃桂**』（オーエルさいとうけい）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[RIVERの](../Page/RIVER_\(漫画家\).md "wikilink")[OL](../Page/OL.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

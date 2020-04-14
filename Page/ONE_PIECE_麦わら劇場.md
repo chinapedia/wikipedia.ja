@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
+> この記事は[ONE PIECE 麦わら劇場](https://ja.wikipedia.org/wiki/ONE_PIECE_麦わら劇場)から翻訳されています。
 
 
 **ONE PIECE 麦わら劇場**（ワンピース むぎわらげきじょう）は、[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』における[番外編](https://ja.wikipedia.org/wiki/番外編 "wikilink")。

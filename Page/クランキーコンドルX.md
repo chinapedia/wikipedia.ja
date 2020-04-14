@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[クランキーコンドルX](https://ja.wikipedia.org/wiki/クランキーコンドルX)から翻訳されています。
 
 
 **クランキーコンドルX**（ -えっくす）は、[2006年](../Page/2006年.md "wikilink")に[エレコが発売した](../Page/ユニバーサルエンターテインメント.md "wikilink")[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。

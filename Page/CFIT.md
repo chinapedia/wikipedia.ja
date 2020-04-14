@@ -21,6 +21,7 @@
   - [1957年](../Page/1957年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - [ノースウエスト航空](https://ja.wikipedia.org/wiki/ノースウェスト航空 "wikilink") 823便 ([:en:Northeast Airlines Flight 823](https://ja.wikipedia.org/wiki/:en:Northeast_Airlines_Flight_823 "wikilink"))
   - [1958年](../Page/1958年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - [英国海外航空](../Page/英国海外航空.md "wikilink")(BOAC) G-AOVD ([:en:Air Crash at Winkton G-AOVD 24th Dec 1958](https://ja.wikipedia.org/wiki/:en:Air_Crash_at_Winkton_G-AOVD_24th_Dec_1958 "wikilink"))
   - [1959年](../Page/1959年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") - [アメリカン航空](../Page/アメリカン航空.md "wikilink") 320便 ([:en:American Airlines Flight 320](https://ja.wikipedia.org/wiki/:en:American_Airlines_Flight_320 "wikilink"))
+  - 1959年2月3日　- アメリカ、[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[クリアレイクにおいて](https://ja.wikipedia.org/wiki/:en:_Clear_Lake,_Iowa "wikilink")、歌手であった[バディ・ホリー](../Page/バディ・ホリー.md "wikilink")、[リッチー・ヴァレンス](../Page/リッチー・ヴァレンス.md "wikilink")、[ビッグ・ボッパーの](https://ja.wikipedia.org/wiki/:en:_The_Big_Bopper "wikilink")3人を乗せた小型機が墜落。詳細は[音楽が死んだ日](https://ja.wikipedia.org/wiki/音楽が死んだ日 "wikilink")を参照。
 
 ### 1960年代
 

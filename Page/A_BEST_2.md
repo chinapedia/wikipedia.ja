@@ -1,22 +1,22 @@
 > この記事は[A BEST 2](https://ja.wikipedia.org/wiki/A_BEST_2)から翻訳されています。
 
 
-『**BEST 2**』（エー・ベスト・ツー）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の一連の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の総称。以下の2タイトルが[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトルの頭文字の「A」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")。
+『**A BEST 2**』（エー・ベスト・ツー）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の一連の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の総称。以下の2タイトルが[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトルの頭文字の「A」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")。
 
   - **A BEST 2 -BLACK-**
   - **A BEST 2 -WHITE-**
 
 ## 概要
 
-ベストアルバムとしては、2001年の『[A BEST](../Page/A_BEST.md "wikilink")』から6年振り、2003年の『[A BALLADS](../Page/A_BALLADS.md "wikilink")』から4年振りに発売された。 2001年から2005年にリリースされたシングル、アルバムの楽曲から選ばれ、『A BEST 2 -WHITE-』には明るい系の楽曲を中心に、『A BEST 2 -BLACK-』は切ない系の楽曲を中心にそれぞれ分けて収録された。本作では[CCCDでリリースされた楽曲が多く収録されており](../Page/コピーコントロールCD.md "wikilink")、シングル曲の多くがCD-DA化された。 しかし、25thシングル「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」、30thシングル「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」、38thシングル「[Bold & Delicious/Pride](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")」は収録されていない。 また、2006年に発表された楽曲もベストアルバムの選曲対象とはなっていない。
+ベストアルバムとしては、2001年の『[A BEST](../Page/A_BEST.md "wikilink")』から6年振り、2003年の『[A BALLADS](../Page/A_BALLADS.md "wikilink")』から4年振りに発売された。2001年から2005年にリリースされたシングル、アルバムの楽曲から選ばれ、『A BEST 2 -WHITE-』には明るい系の楽曲を中心に、『A BEST 2 -BLACK-』は切ない系の楽曲を中心にそれぞれ分けて収録された。本作では[CCCDでリリースされた楽曲が多く収録されており](../Page/コピーコントロールCD.md "wikilink")、シングル曲の多くがCD-DA化された。しかし、25枚目の「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」、30枚目の「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」、38枚目の「[Bold & Delicious/Pride](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")」は収録されていない。 また、2006年に発表された楽曲もベストアルバムの選曲対象とはなっていない。
 
 どちらも「[CDのみ](../Page/コンパクトディスク.md "wikilink")」「CD＋2[DVD](../Page/DVD-Video.md "wikilink")」の2形態（BLACK、WHITEともあわせると計4形態、全てジャケットは異なる）で発売。両作品ともDVDには1枚目に[ビデオクリップ集](../Page/ミュージック・ビデオ.md "wikilink")、2枚目にはカウントダウンライブ「ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A」（BLACKにはドキュメンタリー、WHITEにはライブ本編）を収録。「CD＋2DVD」の初回盤はスリーブケース＋カラーケース仕様、「CDのみ」の初回盤はカラートレイ仕様。また、本作以降はレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")仕様となった。
 
 『A BEST』『A BALLADS』で行った[セルフカバー](../Page/セルフカバー.md "wikilink")や[リミックス](../Page/リミックス.md "wikilink")を一切行わず、全曲オリジナルのまま収録され、リマスタリングも施されている。
 
-2月15日、本作品の発売を記念した[特設サイト](http://abest2.com/)がオープンした（現在は封鎖されている）。 2作品の発売に合わせて、普段はほとんど出ることのない[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[トーク番組](../Page/トーク番組.md "wikilink")にも出演し、発売当日には朝から夕方まで3局6番組に生出演するという大がかりな宣伝を行った。 『A BEST 2』仕様のプロモーション大型トラックが都内を走った。
+2月15日、本作品の発売を記念した特設サイトがオープンした（[1](http://abest2.com/)：現在は封鎖されている）。2作品の発売に合わせて、普段はほとんど出ることのない[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[トーク番組](../Page/トーク番組.md "wikilink")にも出演し、発売当日には朝から夕方まで3局6番組に生出演するという大がかりな宣伝を行った。『A BEST 2』仕様のプロモーション大型トラックが都内を走った。
 
-オリコンデイリーチャートでは、BLACKが初日、1位を獲得した。（2位はWHITE）。2日目以降では、順位が入れ替わりWHITEが1位を獲得（2位はBLACK）。ウィークリーチャートにおいてもWHITEが1位・BLACKが2位となった。オリコン週間総合チャートで女性アーティストによる1・2位は、[1970年](../Page/1970年.md "wikilink")の[藤圭子](../Page/藤圭子.md "wikilink")以来37年ぶりの記録となった（初登場での1・2位独占に関しては史上初）。
+オリコンデイリーチャートでは、『BLACK』が初日、1位を獲得した（2位は『WHITE』）。2日目以降では、順位が入れ替わり『WHITE』が1位を獲得（2位は『BLACK』）。ウィークリーチャートにおいても『WHITE』が1位・『BLACK』が2位となった。オリコン週間総合チャートで女性アーティストによる1・2位は、[1970年](../Page/1970年.md "wikilink")の[藤圭子](../Page/藤圭子.md "wikilink")以来37年ぶりの記録となった（初登場での1・2位独占に関しては史上初）。
 
 ## A BEST 2 -BLACK-
 
@@ -26,7 +26,7 @@
 
 切ない系の楽曲を中心にセレクトされた14曲と、[Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[CMソングとしてオンエアされている新曲](../Page/コマーシャルソング.md "wikilink")「part of Me」との全15曲を収録。さらに、シークレットトラックとして「[Memorial address (take 2 version)](../Page/Memorial_address.md "wikilink")」も収録されており実質16曲。
 
-DVD1には、ベスト・ビデオクリップ集としてCD収録曲のビデオクリップを収録。「[HANABI](../Page/H_\(シングル\).md "wikilink")」「[NEVER EVER](../Page/NEVER_EVER.md "wikilink")」については、PVが存在しないため、それぞれCM用プロモーションクリップが収録された。
+DVD1には、ベスト・ビデオクリップ集としてCD収録曲のビデオクリップを収録。「[HANABI](../Page/H_\(シングル\).md "wikilink")」「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」については、PVが存在しないため、それぞれCM用プロモーションクリップが収録された。
 
 DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")・[12月31日](../Page/12月31日.md "wikilink")に行われた"ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A"のメイキングやリハーサルシーン、さらに浜崎へのインタビューほかカウントダウンライブ完成までの裏側に密着したという90分の[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")映像を収録。
 
@@ -52,7 +52,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
       -
         作曲: CREA + D･A･I / 編曲: CMJK
         27thシングル「H」収録曲
-5.  **[walking proud](../Page/MY_STORY.md "wikilink")**
+5.  **[walking proud](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
       -
         作曲: [Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / 編曲: [HIKARI](../Page/HIKARI.md "wikilink")
         6thアルバム『MY STORY』収録曲
@@ -69,7 +69,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
       -
         作曲: BOUNCEBACK / 編曲: HΛL
         1stミニアルバム『Memorial address』収録曲
-9.  **[About You](../Page/MY_STORY.md "wikilink")**
+9.  **[About You](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
       -
         作曲: [Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / 編曲: tasuku
         6thアルバム『MY STORY』収録曲
@@ -85,7 +85,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
       -
         作曲: CREA + D･A･I / 編曲: [tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
         29thシングル「&」収録曲
-13. **[NEVER EVER](../Page/NEVER_EVER.md "wikilink")**
+13. **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲: CREA / 編曲: [CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         21stシングル
@@ -170,7 +170,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
         作曲:CREA+D.A.I / 編曲:tasuku
         27thシングル「H」収録曲
         完全なオリジナルはアルバム初収録。
-4.  **[Humming 7/4](../Page/MY_STORY.md "wikilink")**
+4.  **[Humming 7/4](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
       -
         作曲:CREA / 編曲:kotaro Kubota
         6thアルバム『MY STORY』収録曲
@@ -182,7 +182,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
       -
         作曲:D.A.I / 編曲:CMJK
         5thアルバム『RAINBOW』収録曲
-7.  **[my name's WOMEN](../Page/MY_STORY.md "wikilink")**
+7.  **[my name's WOMEN](../Page/MY_STORY_\(浜崎あゆみのアルバム\).md "wikilink")**
       -
         作曲:BOUNCEBACK / 編曲:HAL
         6thアルバム『MY STORY』収録曲

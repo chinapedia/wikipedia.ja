@@ -1,7 +1,7 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wモアモア](https://ja.wikipedia.org/wiki/Wモアモア)から翻訳されています。
 
 
-**Wモアモア**（だぶるもあもあ）は[トービック](https://ja.wikipedia.org/wiki/トービック "wikilink")、[漫才協会](../Page/漫才協会.md "wikilink")、[落語芸術協会](../Page/落語芸術協会.md "wikilink")所属（デビュー当初は[太田プロダクション](../Page/太田プロダクション.md "wikilink")） の日本の漫才コンビ。
+**Wモアモア**（だぶるもあもあ）は[トービック](https://ja.wikipedia.org/wiki/トービック "wikilink")、[漫才協会](../Page/漫才協会.md "wikilink")、[落語芸術協会](../Page/落語芸術協会.md "wikilink")所属（デビュー当初は[太田プロダクション](../Page/太田プロダクション.md "wikilink")）の日本の漫才コンビ。
 
 ## 概要
 
@@ -11,8 +11,11 @@
 
 ## メンバー
 
-  - **東城 けん**　本名 菊地 善一 生まれ、[福島県](../Page/福島県.md "wikilink")出身。息子は[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")所属のお笑いタレントの[サミー家安](https://ja.wikipedia.org/wiki/サミー家安 "wikilink")（旧芸名はサミーモアモアJr.）。
-  - **東城 しん**　本名 山下 清 生まれ、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。
+**東城 けん**（本名：**菊地 善一**、[1949年](../Page/1949年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）[福島県](../Page/福島県.md "wikilink")出身。
+
+  - 息子は[オフィス北野](https://ja.wikipedia.org/wiki/オフィス北野 "wikilink")所属のお笑いタレントの[サミー家安](https://ja.wikipedia.org/wiki/サミー家安 "wikilink")（旧芸名はサミーモアモアJr.）。
+
+**東城 しん**（本名：**山下 清**、[1949年](../Page/1949年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink") - ）[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。
 
 ## 代表作
 
@@ -45,4 +48,4 @@
 
 [Category:過去の太田プロ所属者](https://ja.wikipedia.org/wiki/Category:過去の太田プロ所属者 "wikilink")
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink")

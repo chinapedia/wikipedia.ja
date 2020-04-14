@@ -1,4 +1,4 @@
-> この記事は[F \(\)](https://ja.wikipedia.org/wiki/F_\(\))から翻訳されています。
+> この記事は[ビタミンF \(小説\)](https://ja.wikipedia.org/wiki/ビタミンF_\(小説\))から翻訳されています。
 
 
 『**ビタミンF**』は、[重松清](../Page/重松清.md "wikilink")による短編小説集。[新潮社](../Page/新潮社.md "wikilink")より2000年8月に刊行された。

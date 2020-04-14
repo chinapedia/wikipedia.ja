@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[イヴ \(AV女優\)](https://ja.wikipedia.org/wiki/イヴ_\(AV女優\))から翻訳されています。
 
 
 **EVE**（イヴ、[1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポルノ女優](../Page/ポルノ女優.md "wikilink")、[AV女優](../Page/AV女優.md "wikilink")、[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。

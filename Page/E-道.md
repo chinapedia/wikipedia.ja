@@ -1,4 +1,4 @@
-> この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
+> この記事は[E-道](https://ja.wikipedia.org/wiki/E-道)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hkairport_echannel.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:E-channel_01.jpg "wikilink") **e-道**（）とは、[2004年](../Page/2004年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に導入された[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の自動出入境ゲートである。

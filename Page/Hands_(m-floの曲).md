@@ -1,4 +1,4 @@
-> この記事は[Hands \(m-flo\)](https://ja.wikipedia.org/wiki/Hands_\(m-flo\))から翻訳されています。
+> この記事は[Hands \(m-floの曲\)](https://ja.wikipedia.org/wiki/Hands_\(m-floの曲\))から翻訳されています。
 
 
 『**Hands**』（ハンズ）は、[2000年](../Page/2000年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")にリリースされた[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")通算5枚目の[シングル](../Page/シングル.md "wikilink")である。

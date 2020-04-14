@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ポポロクロイス物語II](https://ja.wikipedia.org/wiki/ポポロクロイス物語II)から翻訳されています。
 
 
 『**ポポロクロイス物語II**』（ポポロクロイスものがたりツー）は[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")に[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[PlayStation用の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。「[ポポロクロイス物語](../Page/ポポロクロイス物語.md "wikilink")」ゲームシリーズ第3作目にあたる\[1\]。

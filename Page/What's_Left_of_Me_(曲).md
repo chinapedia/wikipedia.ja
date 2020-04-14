@@ -1,4 +1,4 @@
-> この記事は[What\'s Left of Me \(\)](https://ja.wikipedia.org/wiki/What\'s_Left_of_Me_\(\))から翻訳されています。
+> この記事は[What\'s Left of Me \(曲\)](https://ja.wikipedia.org/wiki/What\'s_Left_of_Me_\(曲\))から翻訳されています。
 
 
 **What's Left Of Me**は[アメリカの人気歌手](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニック・ラシェイ](../Page/ニック・ラシェイ.md "wikilink")のヒット曲。2006年に発売された彼のセカンドアルバム、[What's Left Of Meに収録されている](https://ja.wikipedia.org/wiki/What's_Left_OF_Me_\(アルバム\) "wikilink")。この曲の歌詞は前妻([ジェシカ・シンプソン](../Page/ジェシカ・シンプソン.md "wikilink"))との離婚に対しての思いがつづられている。事実、この曲の歌詞は離婚した次の日にラシェイ自身が書いたものである。いまのところこの曲が彼の最も売れたシングルとなっている。

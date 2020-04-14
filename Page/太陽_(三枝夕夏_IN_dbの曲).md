@@ -1,4 +1,4 @@
-> この記事は[ \( IN db\)](https://ja.wikipedia.org/wiki/_\(_IN_db\))から翻訳されています。
+> この記事は[太陽 \(三枝夕夏 IN dbの曲\)](https://ja.wikipedia.org/wiki/太陽_\(三枝夕夏_IN_dbの曲\))から翻訳されています。
 
 
 『**太陽**』（たいよう）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")17枚目のシングル。2006年9月20日リリース。

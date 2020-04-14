@@ -1,4 +1,4 @@
-> この記事は[CBR400RR](https://ja.wikipedia.org/wiki/CBR400RR)から翻訳されています。
+> この記事は[ホンダ・CBR400RR](https://ja.wikipedia.org/wiki/ホンダ・CBR400RR)から翻訳されています。
 
 
 **CBR400RR**（シービーアールよんひゃくアールアール）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。

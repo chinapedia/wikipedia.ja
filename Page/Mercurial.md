@@ -1,9 +1,21 @@
 > この記事は[Mercurial](https://ja.wikipedia.org/wiki/Mercurial)から翻訳されています。
 
 
-**Mercurial**（マーキュリアル）は、[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")の分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")。 [Python](../Page/Python.md "wikilink")で実装されている（ただし、[バイナリ](../Page/バイナリ.md "wikilink")[diff](https://ja.wikipedia.org/wiki/diff "wikilink")に関しては[C言語](../Page/C言語.md "wikilink")で実装されている）。Mercurialは[コマンドラインプログラムである](../Page/コマンドラインインタプリタ.md "wikilink")。全てのコマンドは `hg`で始まる。これはが[水銀](../Page/水銀.md "wikilink")を意味し、その[元素記号](../Page/元素記号.md "wikilink")がであることに由来する。
+**Mercurial**(マーキュリアル)は、ソフトウェア開発者向けの分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")である。[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[MacOS](../Page/MacOS.md "wikilink")、[Linux](../Page/Linux.md "wikilink")等の[Unix系](../Page/Unix系.md "wikilink")システムでサポートされている。
 
-## 設計目標
+Mercurial の主要な設計目標には、高いパフォーマンスと[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")、分散化、完全分散型の共同開発、[プレーンテキスト](../Page/プレーンテキスト.md "wikilink")ファイルと[バイナリ](../Page/バイナリ.md "wikilink")ファイルの両方の堅牢な処理、高度な分岐およびマージ機能が含まれるが、概念はシンプルである。統合されたWebインターフェイスが含まれている。 Mercurial は、他のバージョン管理システム、特に[Apache Subversionのユーザの移行を容易にする手段も講じている](../Page/Apache_Subversion.md "wikilink")。 Mercurial は主にコマンドライン駆動のプログラムだが、[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")の拡張機能が利用できます。 \[\[TortoiseHg|TortoiseHg\]\]およびいくつかの[IDE](https://ja.wikipedia.org/wiki/IDE "wikilink")は、Mercurial によるバージョン管理のサポートを提供する。 Mercurial のすべての操作は、そのドライバープログラムhg(が[水銀](../Page/水銀.md "wikilink")を意味し、その[元素記号](../Page/元素記号.md "wikilink")がであることに由来)への引数として呼び出される。
+
+Matt Mackallは、Mercurial の創始者であり、2016年後半までリード開発者を務めた。Mercurial は、GNU GPL v2(またはそれ以降のバージョン\[1\])の条件の下で[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")としてリリースされている。主に[Python](../Page/Python.md "wikilink")を使用して実装されているが、[C言語](../Page/C言語.md "wikilink")で記述された[バイナリ](../Page/バイナリ.md "wikilink")[diff](https://ja.wikipedia.org/wiki/diff "wikilink")実装が含まれている。
+
+## 歴史
+
+[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")上旬、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")の開発に利用されていた[BitKeeper](../Page/BitKeeper.md "wikilink")のフリー版の配布停止が発表された（詳細については[BitKeeper\#価格変更](https://ja.wikipedia.org/wiki/BitKeeper#価格変更 "wikilink")参照）。Linuxカーネル開発者の一人でもあったMatt Mackallは[BitKeeper](../Page/BitKeeper.md "wikilink")に代わる分散型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")の開発に乗り出し、[4月19日](../Page/4月19日.md "wikilink")に0.1をリリースした。\[2\] 既に[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")の原著作者である[Linus Torvaldsも同様の目的で](../Page/リーナス・トーバルズ.md "wikilink")[Git](../Page/Git.md "wikilink")の開発を開始していたが、MackallはLinux kernel Mailing List上でMercurial の優位性(データを差分の形式で保持することにより、リポジトリのサイズを節約している等)を訴え、Torvalds と論争を繰り広げたこともあった。[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")プロジェクトはMercurial ではなくGitを使用することを決定したが、現在、Mercurial は他の多くのプロジェクトで使用されている。「Git vs. Mercurial」は[ハッカー文化](../Page/ハッカー文化.md "wikilink")の聖戦の1つになった。
+
+Mercurial メーリングリストの回答で、Mackallは「Mercurial」という名前がどのように選ばれたか説明した。
+
+> 最初のリリースの少し前に、Larry McVoyを(「気まぐれ」の意味で)\[\[水銀性であると説明しています。進行中の\[\[BitKeeper|水銀性であると説明しています。進行中の[BitKeeper](../Page/BitKeeper.md "wikilink")の失敗に関する記事を読みました。複数の意味、便利な略語、および既存の命名スキーム(私の電子メールアドレスを参照)との適合性を考えると、すぐにクリックしました。したがって、Mercurial はLarry の名誉にちなんで名付けられました。同じことが[Git](../Page/Git.md "wikilink")にも当てはまるかどうかはわかりません\[3\]\[4\]。
+
+## 設計
 
 設計目標は、
 
@@ -14,13 +26,68 @@
 
 である。またMercurialは完全なWebインターフェースを含んでいる。 原著作者はMatt Mackallで、現在も主要開発者である。
 
+Mercurial は[SHA-1](https://ja.wikipedia.org/wiki/SHA-1 "wikilink")ハッシュを使用してリビジョンを識別する。ネットワークを介した[リポジトリ](../Page/リポジトリ.md "wikilink")へのアクセスでは、Mercurial は[Hypertext Transfer Protocolベースの](../Page/Hypertext_Transfer_Protocol.md "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")を使用して、往復要求、新しい接続、および転送されるデータを削減しようとします。 Mercurial は、プロトコルが[Hypertext Transfer Protocolベースの](../Page/Hypertext_Transfer_Protocol.md "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")に非常に似ている[SSH](https://ja.wikipedia.org/wiki/SSH "wikilink")でも機能する。デフォルトでは、外部マージツールを呼び出す前に[マージ (バージョン管理システム)を使用する](https://ja.wikipedia.org/wiki/マージ_\(バージョン管理システム\)#3ウェイマージ "wikilink")。
+
 ## 主な機能
 
-0.9.5版から、他の[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")で管理された[ソースコード](../Page/ソースコード.md "wikilink")を、取り込む機能がサポートされている。\[1\]
+0.9.5版から、他の[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")で管理された[ソースコード](../Page/ソースコード.md "wikilink")を、取り込む機能がサポートされている。\[5\]
 
-## 歴史
+## 採用事例
 
-[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")上旬、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")の開発に利用されていた[BitKeeper](../Page/BitKeeper.md "wikilink")のフリー版の配布停止が発表された（詳細については[BitKeeper\#価格変更](https://ja.wikipedia.org/wiki/BitKeeper#価格変更 "wikilink")参照）。Linuxカーネル開発者の一人でもあったMatt MackallはBitKeeperに代わる分散型バージョン管理システムの開発に乗り出し、[4月19日](../Page/4月19日.md "wikilink")に0.1をリリースした。\[2\] 既にLinuxカーネルの原著作者である[Linus Torvaldsも同様の目的で](../Page/リーナス・トーバルズ.md "wikilink")[Git](../Page/Git.md "wikilink")の開発を開始していたが、MackallはLinux kernel Mailing List上でMercurialの優位性（データを差分の形式で保持することにより、リポジトリのサイズを節約している、等）を訴え、Torvaldsと論争を繰り広げたこともあった。その後、Linuxカーネル開発においてはGitが採用されることとなったが、現在ではGitもMercurialも互いの機能を取り入れつつ開発が進んでおり、それぞれ様々なプロジェクトで利用されている。
+Mercurial は[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")ソースの管理に選択されていないが、[Facebook](../Page/Facebook.md "wikilink")\[6\]、[World Wide Web Consortium](../Page/World_Wide_Web_Consortium.md "wikilink")、[Mozilla](../Page/Mozilla.md "wikilink")を含むいくつかの組織に採用されている。[Facebook](../Page/Facebook.md "wikilink")は[Rust (プログラミング言語)を使用してMononoke](https://ja.wikipedia.org/wiki/Rust_\(プログラミング言語\) "wikilink")\[7\]\[8\]を作成している。これは、大規模なマルチプロジェクト[リポジトリ](../Page/リポジトリ.md "wikilink")をサポートするために特別に設計されたMercurial サーバである。
+
+[2013年](../Page/2013年.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")はMercurial を採用し、大規模な統合コード[リポジトリ](../Page/リポジトリ.md "wikilink")を処理するためのスケーリングに取り組み始めた\[9\]。
+
+[Bitbucket](https://ja.wikipedia.org/wiki/Bitbucket "wikilink")は、Webベースのバージョン管理サービスが[2020年6月](https://ja.wikipedia.org/wiki/2020年6月 "wikilink")にMercurial のサポートを終了すると発表し、新しいプロジェクトの1％のみがそれを使用していると説明した\[10\]。
+
+## Mercurial サーバと[リポジトリ](../Page/リポジトリ.md "wikilink")管理
+
+  - RhodeCode Inc. によるRhodeCode
+  - Kallithea(RhodeCodeの[GPLv3](https://ja.wikipedia.org/wiki/GPLv3 "wikilink")[フォーク](../Page/フォーク.md "wikilink"))
+  - Fog Creek Software によるKiln
+  - Phacility による[Phabricator](https://ja.wikipedia.org/wiki/Phabricator "wikilink")
+
+### [ソースコードホスティング](https://ja.wikipedia.org/wiki/ソースコードホスティング "wikilink")
+
+参照: [OSSホスティングサービスの比較](https://ja.wikipedia.org/wiki/OSSホスティングサービスの比較 "wikilink")、[<big>分散バージョン管理Git/Mercurial/Bazaar徹底比較</big>](https://www.atmarkit.co.jp/ait/articles/0901/14/news133.html)
+
+以下の[ウェブサイト](../Page/ウェブサイト.md "wikilink")は、Mercurial [リポジトリ](../Page/リポジトリ.md "wikilink")の無料の[ソースコードホスティング](https://ja.wikipedia.org/wiki/ソースコードホスティング "wikilink")を提供している。
+
+  - [アトラシアン](https://ja.wikipedia.org/wiki/アトラシアン "wikilink")による[Bitbucket](https://ja.wikipedia.org/wiki/Bitbucket "wikilink")(2020年2月から非推奨、2020年6月1日から廃止されるMercurial [リポジトリ](../Page/リポジトリ.md "wikilink")のサポート)
+  - [SourceForge.net](../Page/SourceForge.net.md "wikilink")
+  - [フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")による[Savannah](https://ja.wikipedia.org/wiki/Savannah "wikilink")
+  - Puszcza\[11\]([Savannah](https://ja.wikipedia.org/wiki/Savannah "wikilink")姉妹サイト、ウクライナでホスト)
+  - [OSDN](../Page/OSDN.md "wikilink")\[12\]
+  - Perforce\[13\]
+  - Mozdev
+  - TuxFamily\[14\]
+  - FusionForge
+  - その他\[15\]
+
+### Mercurial を使用した[オープンソース](../Page/オープンソース.md "wikilink")プロジェクト
+
+Mercurial 分散RCSを使用するいくつかのプロジェクト\[16\]
+
+  - [Adium](https://ja.wikipedia.org/wiki/Adium "wikilink")
+  - [GNU Health](https://ja.wikipedia.org/wiki/GNU_Health "wikilink")
+  - [GNU Multi-Precision Library](https://ja.wikipedia.org/wiki/GNU_Multi-Precision_Library "wikilink")
+  - [GNU Octave](../Page/GNU_Octave.md "wikilink")
+  - [IcedTea](https://ja.wikipedia.org/wiki/IcedTea "wikilink")
+  - [LEMON](https://ja.wikipedia.org/wiki/LEMON_\(C++_library\) "wikilink")
+  - [LiquidFeedback](https://ja.wikipedia.org/wiki/LiquidFeedback "wikilink")
+  - [Mozilla](../Page/Mozilla.md "wikilink")\[17\]
+  - [Nginx](https://ja.wikipedia.org/wiki/Nginx "wikilink")
+  - [OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")\[18\]
+  - [Orthanc](https://ja.wikipedia.org/wiki/Orthanc_\(software\) "wikilink")
+  - [Pidgin](https://ja.wikipedia.org/wiki/Pidgin_\(software\) "wikilink")
+  - [RhodeCode](https://ja.wikipedia.org/wiki/RhodeCode "wikilink")
+  - [Roundup](https://ja.wikipedia.org/wiki/Roundup_\(issue_tracker\) "wikilink")
+  - [SDL](https://ja.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")
+  - [Tryton](https://ja.wikipedia.org/wiki/Tryton "wikilink")
+  - [WinDirStat](https://ja.wikipedia.org/wiki/WinDirStat "wikilink")
+  - [wmii](https://ja.wikipedia.org/wiki/wmii "wikilink")
+  - [XEmacs](https://ja.wikipedia.org/wiki/XEmacs "wikilink")
+  - [Xine](../Page/Xine.md "wikilink")
 
 ## 脚注
 
@@ -31,7 +98,31 @@
 
   - [Mercurial 日本語チュートリアル](https://www.mercurial-scm.org/wiki/JapaneseTutorial)
 
+  - [<big>分散バージョン管理Git/Mercurial/Bazaar徹底比較</big>](https://www.atmarkit.co.jp/ait/articles/0901/14/news133.html)
+
+  - [Mercurialではじめる分散構成管理](https://gihyo.jp/dev/feature/01/mercurial)
+
+  - [Mercurial の利用](http://www.lares.dti.ne.jp/~foozy/fujiguruma/scm/mercurial.html)
+
+  - [Mercurialでバージョン管理](http://www.02.246.ne.jp/~torutk/mercurial/intro.html)
+
 [Category:バージョン管理システム](https://ja.wikipedia.org/wiki/Category:バージョン管理システム "wikilink") [Category:Python](https://ja.wikipedia.org/wiki/Category:Python "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:2005年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2005年のソフトウェア "wikilink")
 
-1.  <http://www.selenic.com/mercurial/wiki/index.cgi/ConvertExtension>
+1.  .
 2.
+3.
+4.  Torvalds has said: *"I'm an egotistical bastard, so I name all my projects after myself. First Linux, now git."*
+5.  <http://www.selenic.com/mercurial/wiki/index.cgi/ConvertExtension>
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15. .
+16. .
+17.
+18.

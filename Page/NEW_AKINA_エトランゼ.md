@@ -1,4 +1,4 @@
-> この記事は[NEW AKINA ](https://ja.wikipedia.org/wiki/NEW_AKINA_)から翻訳されています。
+> この記事は[NEW AKINA エトランゼ](https://ja.wikipedia.org/wiki/NEW_AKINA_エトランゼ)から翻訳されています。
 
 
 『**NEW AKINA エトランゼ**』（ニュー・アキナ エトランゼ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の4枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1983年8月10日にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([LP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-12580, [CT](../Page/コンパクトカセット.md "wikilink"): LKF-8080)。

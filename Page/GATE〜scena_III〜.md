@@ -1,4 +1,4 @@
-> この記事は[GATEscena III](https://ja.wikipedia.org/wiki/GATEscena_III)から翻訳されています。
+> この記事は[GATE〜scena III〜](https://ja.wikipedia.org/wiki/GATE〜scena_III〜)から翻訳されています。
 
 
 『**GATE〜scena III〜**』（ゲート シェーナ スリー）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

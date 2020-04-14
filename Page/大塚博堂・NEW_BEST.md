@@ -1,4 +1,4 @@
-> この記事は[NEW BEST](https://ja.wikipedia.org/wiki/NEW_BEST)から翻訳されています。
+> この記事は[大塚博堂・NEW BEST](https://ja.wikipedia.org/wiki/大塚博堂・NEW_BEST)から翻訳されています。
 
 
 **大塚博堂・NEW BEST**（おおつかはくどう　にゅーべすと）は、NEW BESTの一つとして[1993年](../Page/1993年.md "wikilink")に発売されたアルバム。

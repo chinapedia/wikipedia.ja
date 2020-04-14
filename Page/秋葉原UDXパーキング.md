@@ -1,4 +1,4 @@
-> この記事は[UDX](https://ja.wikipedia.org/wiki/UDX)から翻訳されています。
+> この記事は[秋葉原UDXパーキング](https://ja.wikipedia.org/wiki/秋葉原UDXパーキング)から翻訳されています。
 
 
 **秋葉原UDXパーキング**（あきはばらユーディーエックスパーキング）とは、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")・[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")地区の[秋葉原クロスフィールド](../Page/秋葉原クロスフィールド.md "wikilink")内の[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")にある地下立体[駐車場](../Page/駐車場.md "wikilink")。[2006年](../Page/2006年.md "wikilink")1月31日に運営を開始した。

@@ -1,4 +1,4 @@
-> この記事は[ \(Fayray\)](https://ja.wikipedia.org/wiki/_\(Fayray\))から翻訳されています。
+> この記事は[口づけ \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/口づけ_\(Fayrayの曲\))から翻訳されています。
 
 
 「**口づけ**」（くちづけ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の18枚目のシングル。[2004年](../Page/2004年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")に[R and Cよりリリースされた](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。

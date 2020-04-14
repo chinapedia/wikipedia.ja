@@ -1,4 +1,4 @@
-> この記事は[MR.](https://ja.wikipedia.org/wiki/MR.)から翻訳されています。
+> この記事は[MR.レッドゾーン](https://ja.wikipedia.org/wiki/MR.レッドゾーン)から翻訳されています。
 
 
 **MR.レッドゾーン**（みすたーれっどぞーん）は、[2007年](../Page/2007年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")24:55～25:55に[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[特別番組](../Page/特別番組.md "wikilink")。　

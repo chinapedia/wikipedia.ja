@@ -5,15 +5,15 @@
 
 ## 略歴
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - [和光高校在学中に結成](../Page/学校法人和光学園.md "wikilink")。
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 19代目[イカ天キングに輝き](../Page/三宅裕司のいかすバンド天国.md "wikilink")、[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。
-  - [1999年](../Page/1999年.md "wikilink")（平成11年） - [中山美穂](../Page/中山美穂.md "wikilink")のアルバム「[Manifesto](https://ja.wikipedia.org/wiki/Manifesto "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、及びライブツアーに参加。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）- [和光高校在学中に結成](../Page/学校法人和光学園.md "wikilink")。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）- 19代目[イカ天キングに輝き](../Page/三宅裕司のいかすバンド天国.md "wikilink")、[ミディ](https://ja.wikipedia.org/wiki/ミディ "wikilink")からデビュー。
+  - [1999年](../Page/1999年.md "wikilink")（平成11年）- [中山美穂](../Page/中山美穂.md "wikilink")のアルバム「[Manifesto](https://ja.wikipedia.org/wiki/Manifesto "wikilink")」を[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")、およびライブツアーに参加。
 
 ## メンバー
 
-  - **[青柳拓次](https://ja.wikipedia.org/wiki/青柳拓次 "wikilink")** （あおやぎたくじ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。ソロ活動なども行っている。
-  - **[鈴木正人](https://ja.wikipedia.org/wiki/鈴木正人_\(ミュージシャン\) "wikilink")** （すずきまさと、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ） [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
-  - **[栗原務](https://ja.wikipedia.org/wiki/栗原務_\(ドラマー\) "wikilink")** （くりはらつとむ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ） [ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink")。
+  - **青柳拓次**（あおやぎたくじ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月8日](../Page/12月8日.md "wikilink") - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。ソロ活動なども行っている。
+  - **鈴木正人**（すずきまさと、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）- [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
+  - **栗原務**（くりはらつとむ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ）- [ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink")。
 
 ## ディスコグラフィー
 
@@ -22,7 +22,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -77,14 +77,6 @@
 </ol></td>
 <td><p>ミディ</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -93,7 +85,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -157,14 +149,6 @@
 </ol></td>
 <td><p>フェイスレコーズ</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -173,7 +157,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -331,14 +315,6 @@
 <td><p>CHORDIARY<br />
 オリコン最高213位</p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -347,7 +323,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -459,14 +435,6 @@
 </ol></td>
 <td><p>Labels UNITED</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -477,7 +445,6 @@
 | 1st | 1991年6月21日  | **IS THERE MORE?**            | MDVZ-3002:VHS | ミディ       |
 | 2nd | 1999年2月1日   | **A WORLD OF TOO MUCH SOUND** | SCV-001:VHS   | ミディ       |
 | 3rd | 2009年07月24日 | **NIGHT PEOPLE REVIEW**       | TTVL-1:DVD    | CHORDIARY |
-|     |             |                               |               |           |
 
 ### 参加作品
 
@@ -486,7 +453,6 @@
 | 2007年04月25日 | **細野晴臣トリビュートアルバム - Tribute to Haruomi Hosono-**                                                                      | RZCM-45511 | 5\. [ハイスクールララバイ](https://ja.wikipedia.org/wiki/ハイスクールララバイ "wikilink") | commmons                            |
 | 2009年10月21日 | **[くるり鶏びゅ〜と](https://ja.wikipedia.org/wiki/くるり鶏びゅ〜と "wikilink")**                                                    | BNCL-40    | 13\. [ハイウェイ](../Page/ハイウェイ_\(曲\).md "wikilink")                       | SPEEDSTAR / NOISE McCARTNEY RECORDS |
 | 2012年03月21日 | **[Happy Holidays\!〜80's POPS COVERS〜](https://ja.wikipedia.org/wiki/Happy_Holidays!〜80's_POPS_COVERS〜 "wikilink")** | AQCD-50658 | 10\. ハイスクール・ララバイ                                                      | avex infinity                       |
-|             |                                                                                                                      |            |                                                                       |                                     |
 
 ## カバー
 
@@ -501,35 +467,41 @@
 | [山口保幸](../Page/山口保幸.md "wikilink")                    | 「Mosquito Curtain」「NIGHT PEOPLE」「[The Sand Cage](https://www.youtube.com/watch?v=wxNzJQthp8U)」「stray dog is walking」 |
 | [菅谷晋一](https://ja.wikipedia.org/wiki/菅谷晋一 "wikilink") | 「Inner City Life」                                                                                                    |
 | 不明                                                    | 「GIANTS ARE DYING」「NEED YOUR LOVE」「THINGS TO HIDE」「drift」「foolish king」                                              |
-|                                                       |                                                                                                                      |
 
 ## 主なライブ
 
   - 1990年12月31日 - NEW YEAR ROCK FESTIVAL ☆正直者は バカを→→→→→→→見ない☆ 18th 1990-1991
-  - 2002年07月28日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '02
-  - 2002年09月27日 - LIQUIDROOM 8th Anniversary "Final"
-  - 2005年07月17日 - Slow Music Slow LIVE '05
-  - 2005年10月02日 - [朝霧JAM](https://ja.wikipedia.org/wiki/朝霧JAM "wikilink") 2005
+  - 2002年
+      - 07月28日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '02
+      - 09月27日 - LIQUIDROOM 8th Anniversary "Final"
+  - 2005年
+      - 07月17日 - Slow Music Slow LIVE '05
+      - 10月02日 - [朝霧JAM](https://ja.wikipedia.org/wiki/朝霧JAM "wikilink") 2005
   - 2006年07月22日 - Slow Music Slow LIVE '06
   - 2007年05月25日 - [CIRCLE](https://ja.wikipedia.org/wiki/CIRCLE_\(イベント\) "wikilink")
   - 2009年05月05日 - TOKYO M.A.P.S
-  - 2010年10月10日 - 朝霧JAM 2010
-  - 2010年12月17日 - 20th Anniversary LIVE
-  - 2011年07月30日 - FUJI ROCK FESTIVAL '11
-  - 2011年08月07日 - [WORLD HAPPINESS](https://ja.wikipedia.org/wiki/WORLD_HAPPINESS "wikilink") 2011
-  - 2011年08月13日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2011 in EZO
-  - 2011年08月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")11
-  - 2011年09月03日 - [19th Sunset Live 2011–Love & Unity–](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink")
+  - 2010年
+      - 10月10日 - 朝霧JAM 2010
+      - 12月17日 - 20th Anniversary LIVE
+  - 2011年
+      - 07月30日 - FUJI ROCK FESTIVAL '11
+      - 08月07日 - [WORLD HAPPINESS](https://ja.wikipedia.org/wiki/WORLD_HAPPINESS "wikilink") 2011
+      - 08月13日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2011 in EZO
+      - 08月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")11
+      - 09月03日 - [19th Sunset Live 2011–Love & Unity–](https://ja.wikipedia.org/wiki/サンセットライブ "wikilink")
   - 2012年09月16日 - alternative tokyo
-  - 2013年05月11日 - 森、道、市場 2013 ～風薫る、余韻の森へ。～
-  - 2013年05月31日 - clammbon faVS\!\!\!
-  - 2013年11月13日・19日 - TRIPLE FUNK
-  - 2014年07月27日 - 10TONES
-  - 2014年12月30日 - [信藤三雄](../Page/信藤三雄.md "wikilink")と[湯山玲子](https://ja.wikipedia.org/wiki/湯山玲子 "wikilink") 新ニッポン無責任時代 大忘年会1230
-  - 2016年05月14日 - CIRCLE '16
-  - 2016年07月22日 - FUJI ROCK FESTIVAL '16
-  - 2016年08月21日 - LIQUIDROOM12thANNIVERSARY ～カクバリズムの夏祭り～
-  - 2016年09月24日 - OKAYAMA マチノブンカサイ 2016
+  - 2013年
+      - 05月11日 - 森、道、市場 2013 ～風薫る、余韻の森へ。～
+      - 05月31日 - clammbon faVS\!\!\!
+      - 11月13日・19日 - TRIPLE FUNK
+  - 2014年
+      - 07月27日 - 10TONES
+      - 12月30日 - [信藤三雄](../Page/信藤三雄.md "wikilink")と[湯山玲子](https://ja.wikipedia.org/wiki/湯山玲子 "wikilink") 新ニッポン無責任時代 大忘年会1230
+  - 2016年
+      - 05月14日 - CIRCLE '16
+      - 07月22日 - FUJI ROCK FESTIVAL '16
+      - 08月21日 - LIQUIDROOM12thANNIVERSARY ～カクバリズムの夏祭り～
+      - 09月24日 - OKAYAMA マチノブンカサイ 2016
   - 2017年04月??日 - ARABAKI ROCK FEST.17
 
 ## 関連項目

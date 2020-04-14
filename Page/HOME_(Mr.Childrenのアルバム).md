@@ -1,4 +1,4 @@
-> この記事は[HOME \(Mr.Children\)](https://ja.wikipedia.org/wiki/HOME_\(Mr.Children\))から翻訳されています。
+> この記事は[HOME \(Mr.Childrenのアルバム\)](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\))から翻訳されています。
 
 
 {{Infobox Album | Name = HOME | Type = [スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink") | Artist = [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") | Released = [2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") | Recorded = | Genre = [ロック](../Page/ロック_\(音楽\).md "wikilink") | Length = 72分18秒 | Label = [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink") | Producer = [小林武史](../Page/小林武史.md "wikilink") | Reviews = \* *[allmusic](../Page/オールミュージック.md "wikilink")*  [link](http://www.allmusic.com/album/home-mw0001524351) | Chart position = \* 週間1位（2週連続、[オリコン](../Page/オリコンチャート.md "wikilink")）

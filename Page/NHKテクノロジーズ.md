@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKテクノロジーズ](https://ja.wikipedia.org/wiki/NHKテクノロジーズ)から翻訳されています。
 
 
 ''' 2019年4月より、NHKメディアテクノロジーとNHKアイテックが経営統合しNHKテクノロジーズとなる。

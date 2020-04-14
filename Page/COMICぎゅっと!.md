@@ -1,4 +1,4 @@
-> この記事は[COMIC!](https://ja.wikipedia.org/wiki/COMIC!)から翻訳されています。
+> この記事は[COMICぎゅっと!](https://ja.wikipedia.org/wiki/COMICぎゅっと!)から翻訳されています。
 
 
 『**COMICぎゅっと\!**』 （コミックぎゅっと）は、[平和出版](../Page/平和出版.md "wikilink")がかつて発行していた萌え系[4コマ誌](https://ja.wikipedia.org/wiki/4コマ漫画#4コマ誌 "wikilink")（4コマ漫画専門雑誌）。キャッチコピーは**[ぷにぷに萌えたい四齣コミック](../Page/ぷに_\(萌え属性\).md "wikilink")**。第3号で休刊（実質廃刊）となった。B5判、平綴じ、定価450円（税込）。

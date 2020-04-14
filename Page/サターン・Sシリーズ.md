@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[サターン・Sシリーズ](https://ja.wikipedia.org/wiki/サターン・Sシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:2nd-Saturn-SC.jpg "wikilink") **サターン・Sシリーズ**（**Saturn・S-series**）は、アメリカの[自動車](../Page/自動車.md "wikilink")メーカー・[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")(GM)の100％出資会社である、[サターンが製造](../Page/サターン_\(自動車\).md "wikilink")、販売していた自動車シリーズである。

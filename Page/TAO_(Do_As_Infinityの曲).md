@@ -1,4 +1,4 @@
-> この記事は[TAO \(Do As Infinity\)](https://ja.wikipedia.org/wiki/TAO_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[TAO \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/TAO_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**TAO**」（タオ）は[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。Do As Infinityの解散前のラストシングルである。

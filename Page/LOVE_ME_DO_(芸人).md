@@ -1,4 +1,4 @@
-> この記事は[LOVE ME DO \(\)](https://ja.wikipedia.org/wiki/LOVE_ME_DO_\(\))から翻訳されています。
+> この記事は[LOVE ME DO \(芸人\)](https://ja.wikipedia.org/wiki/LOVE_ME_DO_\(芸人\))から翻訳されています。
 
 
 "**Love Me Do**"（ラヴ・ミー・ドゥー、[10月11日](../Page/10月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[占い師](https://ja.wikipedia.org/wiki/占い師 "wikilink")、[風水師](https://ja.wikipedia.org/wiki/風水師 "wikilink")、[占星術](../Page/占星術.md "wikilink")家、[お笑い芸人](../Page/お笑いタレント.md "wikilink")。
@@ -312,9 +312,8 @@
 
   - 本人ブログ
 
-  - [ルミネtheよしもと9周年キャンペーン　Love Me Doラブちゃんのお助け恋愛占い](http://lumine.laff.jp/campaign_9/love_me_do/index.html)
-
-  - [ラブちゃんの占いブログ](http://blog.goo.ne.jp/rutile184) 本人ブログ
+  -
+  - [ラブちゃんの占いブログ](https://blog.goo.ne.jp/rutile184) 本人ブログ
 
   - [Love Me Doのドメネク監督と対談を](http://ameblo.jp/lovemedo-lovechan-uranai/) 本人ブログ
 

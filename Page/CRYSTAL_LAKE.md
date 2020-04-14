@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - Ryo（リョウ、木下遼、*Ryo Kinoshita*） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - Ryo（リョウ、木下遼、*Ryo Kinoshita*）(1990年7月30日-) - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - 元INFECTION。
   - YD（ワイディー、宮本雄大、*Yudai "YD" Miyamoto*） - [ギター](../Page/ギター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - Shinya（シンヤ、*Shinya Hori*） - [ギター](../Page/ギター.md "wikilink")

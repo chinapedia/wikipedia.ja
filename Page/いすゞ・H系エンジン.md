@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[いすゞ・H系エンジン](https://ja.wikipedia.org/wiki/いすゞ・H系エンジン)から翻訳されています。
 
 
 **いすゞ・H系エンジン**は、[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が生産する排気量4 - 8リットルの[直列4気筒](../Page/直列4気筒.md "wikilink")と[直列6気筒](../Page/直列6気筒.md "wikilink")の[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。

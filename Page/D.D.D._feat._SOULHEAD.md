@@ -43,4 +43,8 @@
 
   - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ D.D.D. feat. SOULHEAD](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004179)
+
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2005年のコラボレーション・シングル "wikilink") [Category:SOULHEADが制作した楽曲](https://ja.wikipedia.org/wiki/Category:SOULHEADが制作した楽曲 "wikilink") [Category:シボレー・MWのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:シボレー・MWのコマーシャルソング "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

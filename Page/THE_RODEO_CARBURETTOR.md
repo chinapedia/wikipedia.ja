@@ -299,6 +299,6 @@
 ## 外部リンク
 
   - [公式ウェブサイト](http://www.therodeocarburettor.com/)
-  - [ソニー・ミュージックエンタテインメントによるページ](http://www.sonymusic.co.jp/Music/Arch/ES/therodeocarburettor/)
+  - [ソニー・ミュージックエンタテインメントによるページ](https://www.sonymusic.co.jp/artist/therodeocarburettor/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

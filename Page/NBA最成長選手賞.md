@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBA最成長選手賞](https://ja.wikipedia.org/wiki/NBA最成長選手賞)から翻訳されています。
 
 
 **NBA最成長選手賞**（**NBA Most Improved Player Award** NBA MIP）は、[NBA](../Page/NBA.md "wikilink")において、前年度の成績と今年度の成績を比較して、最も成長した選手に贈られる賞。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者及び放送関係者らの投票によって選出される。1人につき3選手に投票することができ、1位票（5ポイント）、2位票（3ポイント）、3位票（1ポイント）がそれぞれ加算され、最も得票を稼いだ選手の受賞となる。

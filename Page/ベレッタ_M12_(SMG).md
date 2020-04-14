@@ -1,4 +1,4 @@
-> この記事は[ M12 \(SMG\)](https://ja.wikipedia.org/wiki/_M12_\(SMG\))から翻訳されています。
+> この記事は[ベレッタ M12 \(SMG\)](https://ja.wikipedia.org/wiki/ベレッタ_M12_\(SMG\))から翻訳されています。
 
 
 **ベレッタ M12**は、[1959年](../Page/1959年.md "wikilink")に[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社が開発した](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")、[9x19mmパラベラム弾](../Page/9x19mmパラベラム弾.md "wikilink")を使用する[短機関銃](../Page/短機関銃.md "wikilink")である。
@@ -13,7 +13,7 @@
 
 ## 採用状況
 
-ベレッタ M12は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にイタリア政府が制式採用し、[イタリア](../Page/イタリア.md "wikilink")の陸海空軍や[国家憲兵](../Page/国家憲兵.md "wikilink")「[カラビニエリ](../Page/カラビニエリ.md "wikilink")」などに配備された他、[南米や](../Page/南アメリカ.md "wikilink")[アフリカ](../Page/アフリカ.md "wikilink")のいくつかの国でも制式採用され、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")と[インドネシア](../Page/インドネシア.md "wikilink")では[ライセンス生産](../Page/ライセンス生産.md "wikilink")も行われた。 [2015年](../Page/2015年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に発生した[チュニジア博物館襲撃事件では](https://ja.wikipedia.org/wiki/バルド国立博物館での銃乱射事件 "wikilink")、[チュニジア](../Page/チュニジア.md "wikilink")の[警察官](../Page/警察官.md "wikilink")がベレッタ M12を構えながら[市民](../Page/市民.md "wikilink")を保護しているシーンが見られた。
+ベレッタ M12は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にイタリア政府が制式採用し、[イタリア](../Page/イタリア.md "wikilink")の陸海空軍や[国家憲兵](../Page/国家憲兵.md "wikilink")「[カラビニエリ](../Page/カラビニエリ.md "wikilink")」などに配備された他、[南米や](../Page/南アメリカ.md "wikilink")[アフリカ](../Page/アフリカ.md "wikilink")のいくつかの国でも制式採用され、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")と[インドネシア](../Page/インドネシア.md "wikilink")では[ライセンス生産](../Page/ライセンス生産.md "wikilink")も行われた。 ベトナム戦争中の1968年1月31日に生起した[テト攻勢](../Page/テト攻勢.md "wikilink")においては、一時占拠されたアメリカ大使館を巡る戦闘の際に、CIA職員と思しき私服のアメリカ人達がベレッタ M12や[カールグスタフm/45](https://ja.wikipedia.org/wiki/カールグスタフm/45 "wikilink")を使用している写真が撮影されている。 [2015年](../Page/2015年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に発生した[チュニジア博物館襲撃事件では](https://ja.wikipedia.org/wiki/バルド国立博物館での銃乱射事件 "wikilink")、[チュニジア](../Page/チュニジア.md "wikilink")の[警察官](../Page/警察官.md "wikilink")がベレッタ M12を構えながら[市民](../Page/市民.md "wikilink")を保護しているシーンが見られた。
 
 ## 派生型
 

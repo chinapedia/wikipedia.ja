@@ -1,4 +1,4 @@
-> この記事は[KGC](https://ja.wikipedia.org/wiki/KGC)から翻訳されています。
+> この記事は[安養KGC人参公社](https://ja.wikipedia.org/wiki/安養KGC人参公社)から翻訳されています。
 
 
 **安養KGC人参公社**（アニャン・ケージーシーにんじんこうしゃ、韓：、英：Anyang KGC Ginseng Corporation）は、[大韓民国](../Page/大韓民国.md "wikilink")・[京畿道](../Page/京畿道.md "wikilink")[安養市](../Page/安養市.md "wikilink")を本拠地とする[プロバスケットボールチームである](../Page/バスケットボール.md "wikilink")。

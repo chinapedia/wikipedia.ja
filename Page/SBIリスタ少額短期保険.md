@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIリスタ少額短期保険](https://ja.wikipedia.org/wiki/SBIリスタ少額短期保険)から翻訳されています。
 
 
 **SBIリスタ少額短期保険株式会社**（-りすたしょうがくたんきほけん）は、[少額短期保険](../Page/少額短期保険.md "wikilink")制度における日本の保険会社。

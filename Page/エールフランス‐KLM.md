@@ -1,7 +1,7 @@
-> この記事は[KLM](https://ja.wikipedia.org/wiki/KLM)から翻訳されています。
+> この記事は[エールフランス‐KLM](https://ja.wikipedia.org/wiki/エールフランス‐KLM)から翻訳されています。
 
 
-**エールフランス‐KLM**（Air France-KLM、[ユーロネクスト・パリ](https://ja.wikipedia.org/wiki/ユーロネクスト・パリ "wikilink"):AF、[NYSE](../Page/ニューヨーク証券取引所.md "wikilink"):[AKH](http://www.nyse.com/about/listed/lcddata.html?ticker=AKH)）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[エールフランス](../Page/エールフランス.md "wikilink")と、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[KLMオランダ航空](../Page/KLMオランダ航空.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")である。2社の3部門（旅客輸送、貨物輸送、整備事業）から成り立っているヨーロッパ最大の航空会社グループである。
+**エールフランス‐KLM**（Air France-KLM、）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[エールフランス](../Page/エールフランス.md "wikilink")と、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[KLMオランダ航空](../Page/KLMオランダ航空.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")である。2社の3部門（旅客輸送、貨物輸送、整備事業）から成り立っているヨーロッパ最大の航空会社グループである。
 
 ## 概要
 
@@ -60,8 +60,8 @@
 
 ## 外部リンク
 
-  - [公式ウェブサイト](http://www.airfranceklm.com/en)
+  - [公式ウェブサイト](https://www.airfranceklm.com/en)
 
-[Category:ヨーロッパの航空会社](https://ja.wikipedia.org/wiki/Category:ヨーロッパの航空会社 "wikilink") [Category:エールフランス‐KLM](https://ja.wikipedia.org/wiki/Category:エールフランス‐KLM "wikilink") [Category:フランスの多国籍企業](https://ja.wikipedia.org/wiki/Category:フランスの多国籍企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:ユーロネクスト・パリ上場企業](https://ja.wikipedia.org/wiki/Category:ユーロネクスト・パリ上場企業 "wikilink")
+[Category:ヨーロッパの航空会社](https://ja.wikipedia.org/wiki/Category:ヨーロッパの航空会社 "wikilink") [Category:エールフランス‐KLM](https://ja.wikipedia.org/wiki/Category:エールフランス‐KLM "wikilink") [Category:フランスの多国籍企業](https://ja.wikipedia.org/wiki/Category:フランスの多国籍企業 "wikilink") [Category:ユーロネクスト・パリ上場企業](https://ja.wikipedia.org/wiki/Category:ユーロネクスト・パリ上場企業 "wikilink")
 
 1.  [1](http://www.af-klm.com/one/en/index.html) - AF-KLM One

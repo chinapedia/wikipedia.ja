@@ -1,4 +1,4 @@
-> この記事は[Wonder \(\)](https://ja.wikipedia.org/wiki/Wonder_\(\))から翻訳されています。
+> この記事は[Wonder \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/Wonder_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**Wonder**』（ワンダー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[CD限定企画の](../Page/コンパクトディスク.md "wikilink")[ミニ・アルバム](https://ja.wikipedia.org/wiki/アルバム#アルバムの種類 "wikilink")。このアルバムは1988年6月1日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): 28XL-194, [GOLD CD](https://ja.wikipedia.org/wiki/GOLD_CD "wikilink"): 43XL-2001)。

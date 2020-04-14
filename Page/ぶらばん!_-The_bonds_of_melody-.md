@@ -1,4 +1,4 @@
-> この記事は[! -The bonds of melody-](https://ja.wikipedia.org/wiki/!_-The_bonds_of_melody-)から翻訳されています。
+> この記事は[ぶらばん! -The bonds of melody-](https://ja.wikipedia.org/wiki/ぶらばん!_-The_bonds_of_melody-)から翻訳されています。
 
 
 『**ぶらばん\! -The bonds of melody-**』（ぶらばん ザ ボンズ オブ メロディー）は、[ゆずソフト](../Page/ゆずソフト.md "wikilink")の処女作となる[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")であり、[2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に発売された。通称は『**ぶらばん\!**』。存続をかけた戦いに巻き込まれる[ブラスバンド](../Page/ブラスバンド.md "wikilink")部\[1\]の活動が主なモチーフになっている。

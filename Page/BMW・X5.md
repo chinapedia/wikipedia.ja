@@ -1,4 +1,4 @@
-> この記事は[BMWX5](https://ja.wikipedia.org/wiki/BMWX5)から翻訳されています。
+> この記事は[BMW・X5](https://ja.wikipedia.org/wiki/BMW・X5)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_X5_M50d_Automatic_3.0.jpg "wikilink") **X5**（エックスファイブ、クロスファイブ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

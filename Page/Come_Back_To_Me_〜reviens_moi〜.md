@@ -1,4 +1,4 @@
-> この記事は[Come Back To Me reviens moi](https://ja.wikipedia.org/wiki/Come_Back_To_Me_reviens_moi)から翻訳されています。
+> この記事は[Come Back To Me 〜reviens moi〜](https://ja.wikipedia.org/wiki/Come_Back_To_Me_〜reviens_moi〜)から翻訳されています。
 
 
 『**Come Back To Me 〜reviens moi〜** 』（カム・バック・トゥー・ミー 〜ルヴィアン・モワ）は[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にリリースされた[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の6枚目となる[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。

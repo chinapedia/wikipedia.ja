@@ -1,4 +1,4 @@
-> この記事は[NAO](https://ja.wikipedia.org/wiki/NAO)から翻訳されています。
+> この記事は[荻野NAO之](https://ja.wikipedia.org/wiki/荻野NAO之)から翻訳されています。
 
 
 **荻野NAO之**（おぎの なおゆき、Naoyuki OGINO、[1975年](../Page/1975年.md "wikilink") - ）は日本の[写真家](../Page/写真家.md "wikilink")。[東京都](../Page/東京都.md "wikilink")生まれ。
@@ -55,7 +55,7 @@
   - 2011年、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")「Taiwan Photo 2011」
   - 2008年、ウズベキスタン国際写真フェスティバル「2008 Tashkentale Photo Festival」日本代表、個展
   - 2007年、[中国](../Page/中国.md "wikilink")の国際写真フェスティバル「Pingyao Int'l Photo Festival 2007」
-  - 2007年、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[サロン・ドートンヌ](https://ja.wikipedia.org/wiki/サロン・ドートンヌ "wikilink")出品
+  - 2007年、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、出品
   - 2006年、フランス、サロン・ドートンヌ出品
 
 ## 個展

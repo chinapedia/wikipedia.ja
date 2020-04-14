@@ -1,4 +1,4 @@
-> この記事は[!! in TOKYO](https://ja.wikipedia.org/wiki/!!_in_TOKYO)から翻訳されています。
+> この記事は[チェケラッチョ!! in TOKYO](https://ja.wikipedia.org/wiki/チェケラッチョ!!_in_TOKYO)から翻訳されています。
 
 
 『**チェケラッチョ\!\! in TOKYO**』（チェケラッチョインとうきょう）は、[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[青春★ENERGY](../Page/青春★ENERGY.md "wikilink")』で[2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[6月15日](../Page/6月15日.md "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。映画『[チェケラッチョ\!\!](../Page/チェケラッチョ!!.md "wikilink")』の続編。

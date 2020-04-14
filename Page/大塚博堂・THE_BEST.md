@@ -1,4 +1,4 @@
-> この記事は[THE BEST](https://ja.wikipedia.org/wiki/THE_BEST)から翻訳されています。
+> この記事は[大塚博堂・THE BEST](https://ja.wikipedia.org/wiki/大塚博堂・THE_BEST)から翻訳されています。
 
 
 **大塚博堂・THE BEST**（おおつかはくどう ザ ベスト）は、THE BESTシリーズの一つとして[1989年](../Page/1989年.md "wikilink")に発売されたアルバム。 収録曲は、[大塚博堂・ストーリー](../Page/大塚博堂・ストーリー.md "wikilink")と同じである。

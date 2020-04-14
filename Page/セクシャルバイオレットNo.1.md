@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[セクシャルバイオレットNo.1](https://ja.wikipedia.org/wiki/セクシャルバイオレットNo.1)から翻訳されています。
 
 
 「**セクシャルバイオレットNo.1**」（セクシャルバイオレットナンバーワン）は、[桑名正博](../Page/桑名正博.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1979年](../Page/1979年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")にRVC（現:[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）から発売された。

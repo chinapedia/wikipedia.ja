@@ -1,4 +1,4 @@
-> この記事は[AEX](https://ja.wikipedia.org/wiki/AEX)から翻訳されています。
+> この記事は[AEX指数](https://ja.wikipedia.org/wiki/AEX指数)から翻訳されています。
 
 
 **AEX指数**（えいえくすしすう、, ）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ユーロネクスト・アムステルダム](https://ja.wikipedia.org/wiki/ユーロネクスト・アムステルダム "wikilink")（旧・アムステルダム証券取引所）における[株価指数](../Page/株価指数.md "wikilink")。同証券取引所に上場する銘柄のうち、上位25銘柄で構成される、[時価総額加重平均型株価指数](https://ja.wikipedia.org/wiki/時価総額加重平均型株価指数 "wikilink")である。

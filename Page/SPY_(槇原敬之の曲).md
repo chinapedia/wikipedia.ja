@@ -1,4 +1,4 @@
-> この記事は[SPY \(\)](https://ja.wikipedia.org/wiki/SPY_\(\))から翻訳されています。
+> この記事は[SPY \(槇原敬之の曲\)](https://ja.wikipedia.org/wiki/SPY_\(槇原敬之の曲\))から翻訳されています。
 
 
 「**SPY**」（スパイ）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に発売された[槇原敬之](../Page/槇原敬之.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。発売元はwea JAPAN（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）。

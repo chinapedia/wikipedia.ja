@@ -1,4 +1,4 @@
-> この記事は[TOKYO-BAY](https://ja.wikipedia.org/wiki/TOKYO-BAY)から翻訳されています。
+> この記事は[ららぽーとTOKYO-BAY](https://ja.wikipedia.org/wiki/ららぽーとTOKYO-BAY)から翻訳されています。
 
 
 **ららぽーとTOKYO-BAY**（ららぽーとトーキョーベイ）は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")[浜町二丁目にある](../Page/浜町_\(船橋市\).md "wikilink")[三井不動産商業マネジメント](../Page/三井不動産商業マネジメント.md "wikilink")が経営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。

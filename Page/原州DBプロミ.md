@@ -1,4 +1,4 @@
-> この記事は[DB](https://ja.wikipedia.org/wiki/DB)から翻訳されています。
+> この記事は[原州DBプロミ](https://ja.wikipedia.org/wiki/原州DBプロミ)から翻訳されています。
 
 
 **原州DBプロミ**（ウォンジュ・ドンブ・プロミ、韓国語:、英語:Wonju DB Promy）は、[韓国](../Page/大韓民国.md "wikilink")・[江原道](../Page/江原道_\(南\).md "wikilink")[原州市](https://ja.wikipedia.org/wiki/原州市 "wikilink")を本拠地とする[プロバスケットボールチームである](../Page/バスケットボール.md "wikilink")。

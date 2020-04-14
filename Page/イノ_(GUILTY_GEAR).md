@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[イノ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/イノ_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **イノ**(I-no)は、2D対戦格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。担当声優は[井上喜久子](../Page/井上喜久子.md "wikilink")。

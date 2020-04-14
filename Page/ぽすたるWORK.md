@@ -1,4 +1,4 @@
-> この記事は[WORK](https://ja.wikipedia.org/wiki/WORK)から翻訳されています。
+> この記事は[ぽすたるWORK](https://ja.wikipedia.org/wiki/ぽすたるWORK)から翻訳されています。
 
 
 『**ぽすたるWORK**』（ぽすたるわーく）は[依澄れい](../Page/依澄れい.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")増刊 [エース桃組](https://ja.wikipedia.org/wiki/エース桃組 "wikilink")』に2001年から2004年にかけて連載された。全9話で、単行本は全1巻。

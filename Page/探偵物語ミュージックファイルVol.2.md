@@ -1,4 +1,4 @@
-> この記事は[Vol.2](https://ja.wikipedia.org/wiki/Vol.2)から翻訳されています。
+> この記事は[探偵物語ミュージックファイルVol.2](https://ja.wikipedia.org/wiki/探偵物語ミュージックファイルVol.2)から翻訳されています。
 
 
 『**探偵物語 ミュージックファイルVol.2**』（たんていものがたり-ボリューム・ツー）は、[1979年](../Page/1979年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")にかけて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[探偵物語](../Page/探偵物語.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。『[探偵物語ミュージックファイル](../Page/探偵物語ミュージックファイル.md "wikilink")』の続編として、[バップ](../Page/バップ.md "wikilink")/[ミュージックファイルシリーズ](https://ja.wikipedia.org/wiki/ミュージックファイルシリーズ "wikilink")から[1993年](../Page/1993年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売。一旦廃盤になったのち、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")に再発された。廃盤になった理由は不明。

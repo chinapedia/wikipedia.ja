@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[ブリジット \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/ブリジット_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **ブリジット** (Bridget) は、2D対戦型格闘ゲーム「[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")」に登場する架空の人物。声優は[小西寛子](../Page/小西寛子.md "wikilink")(GGXX～SLASH)、[加藤有希子](https://ja.wikipedia.org/wiki/加藤有希子 "wikilink")(ΛC)。

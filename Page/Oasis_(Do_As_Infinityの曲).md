@@ -1,4 +1,4 @@
-> この記事は[Oasis \(Do As Infinity\)](https://ja.wikipedia.org/wiki/Oasis_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[Oasis \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/Oasis_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**Oasis**」（オアシス）は[2000年](../Page/2000年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。

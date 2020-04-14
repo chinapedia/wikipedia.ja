@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[エドワード・A・ディーズ](https://ja.wikipedia.org/wiki/エドワード・A・ディーズ)から翻訳されています。
 
 
 **エドワード・アンドリュー・ディーズ**（*Edward Andrew Deeds* 、[1874年](../Page/1874年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink") – [1960年](../Page/1960年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")）は米国の技術者、発明家、事業家。

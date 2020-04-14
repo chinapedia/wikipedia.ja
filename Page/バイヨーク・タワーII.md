@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[バイヨーク・タワーII](https://ja.wikipedia.org/wiki/バイヨーク・タワーII)から翻訳されています。
 
 
 [Bangkok_Baiyoke_Tower.jpg](https://ja.wikipedia.org/wiki/File:Bangkok_Baiyoke_Tower.jpg "fig:Bangkok_Baiyoke_Tower.jpg") **バイヨーク・タワー2**(,)は、[タイの首都である](../Page/タイ王国.md "wikilink")[バンコク](../Page/バンコク.md "wikilink")にある[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。高さ304m、85階層を誇り、タイでは[マハナコン](https://ja.wikipedia.org/wiki/マハナコン "wikilink")(314m)の次に高く、二番目に高い建造物となる。アメリカの不動産会社[Emporisのランキング](http://www.emporis.com/statistics/worlds-tallest-buildings)では世界第106位。1～2階は衣料品を中心とするショップが並び、3～14階は駐車場スペース、17階より上はバイヨークスカイホテルとなっており、77階に[展望台](../Page/展望台.md "wikilink")が、76階と78階にスカイレストランがある。

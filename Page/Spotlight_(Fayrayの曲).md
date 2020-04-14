@@ -1,4 +1,4 @@
-> この記事は[Spotlight \(Fayray\)](https://ja.wikipedia.org/wiki/Spotlight_\(Fayray\))から翻訳されています。
+> この記事は[Spotlight \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/Spotlight_\(Fayrayの曲\))から翻訳されています。
 
 
 「**Spotlight**」（スポットライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、19枚目のシングル。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に発売。発売元は[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Tears \(Fayray\)](https://ja.wikipedia.org/wiki/Tears_\(Fayray\))から翻訳されています。
+> この記事は[Tears \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/Tears_\(Fayrayの曲\))から翻訳されています。
 
 
 「**tears**」（ティアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の楽曲で、7枚目のシングル。[2000年](../Page/2000年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。

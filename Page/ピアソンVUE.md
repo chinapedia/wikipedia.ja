@@ -1,4 +1,4 @@
-> この記事は[VUE](https://ja.wikipedia.org/wiki/VUE)から翻訳されています。
+> この記事は[ピアソンVUE](https://ja.wikipedia.org/wiki/ピアソンVUE)から翻訳されています。
 
 
 **ピアソンVUE** () は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のメディア企業[ピアソンによって所有されているコンピューターを使用したテスト](../Page/ピアソン_\(企業\).md "wikilink") ([Computer Based Testing](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink"), CBT / Internet-Based Testing, IBT) と高度なアセスメントを提供するサービス会社である。

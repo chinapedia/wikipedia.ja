@@ -1,4 +1,4 @@
-> この記事は[   -TOWER OF MUSIC LOVER-](https://ja.wikipedia.org/wiki/___-TOWER_OF_MUSIC_LOVER-)から翻訳されています。
+> この記事は[ベスト オブ くるり -TOWER OF MUSIC LOVER-](https://ja.wikipedia.org/wiki/ベスト_オブ_くるり_-TOWER_OF_MUSIC_LOVER-)から翻訳されています。
 
 
 『**ベスト オブ くるり / TOWER OF MUSIC LOVER**』（-タワー・オブ・ミュージック・ラヴァー）は、[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に発売された[くるり](../Page/くるり.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。初回盤と通常盤は品番が異なり、初回限定盤はVIZL-195、通常盤はVICL-61985～6となっている。

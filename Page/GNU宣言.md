@@ -1,4 +1,4 @@
-> この記事は[GNU](https://ja.wikipedia.org/wiki/GNU)から翻訳されています。
+> この記事は[GNU宣言](https://ja.wikipedia.org/wiki/GNU宣言)から翻訳されています。
 
 
 [96px](https://ja.wikipedia.org/wiki/ファイル:Heckert_GNU_white.svg "wikilink") **GNU宣言**(**GNU Manifesto**)は、[リチャード・ストールマン](../Page/リチャード・ストールマン.md "wikilink")が書き、1985年の *[Dr. Dobb's Journal of Software Tools](https://ja.wikipedia.org/wiki/Dr._Dobb's_Journal "wikilink")*, Vol. 10, No. 3 に掲載された\[1\]、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink") の目標を定義し説明し、支援と参加を呼びかける文書である。 [フリーソフトウェア運動](../Page/フリーソフトウェア運動.md "wikilink") において大勢の人びとが、基本的な哲学の祖と考えている。 当初は、GNUプロジェクトのプロダクトであった[GNU Emacsなどの](../Page/GNU_Emacs.md "wikilink") GNUソフトウェアに同梱されて広まった。初期の日本語訳に、『GNU Emacsマニュアル』（[共立出版](../Page/共立出版.md "wikilink")）に収められたものがある（pp. 205-213）。現代では全文が、ウェブで閲覧できる\[2\]。 最初の数年間は、開発状況に対応して少しずつ変更があったが、[1993年](../Page/1993年.md "wikilink") 以降、変更はない。

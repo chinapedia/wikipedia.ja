@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[日本CATV技術協会](https://ja.wikipedia.org/wiki/日本CATV技術協会)から翻訳されています。
 
 
 **一般社団法人日本CATV技術協会**（、略称: JCTEA）は、日本のケーブルテレビの業界団体。元[総務省](../Page/総務省.md "wikilink")所管。

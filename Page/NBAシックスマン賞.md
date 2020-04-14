@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAシックスマン賞](https://ja.wikipedia.org/wiki/NBAシックスマン賞)から翻訳されています。
 
 
 **NBAシックスマン賞**（エヌビーエーシックスマンしょう、）は[NBA](../Page/NBA.md "wikilink")において、レギュラーシーズンの間、ベンチ（控え）から出場して好成績を残す「[シックスマン](../Page/シックスマン.md "wikilink")」の最も活躍した選手に贈られる賞。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のスポーツ記者及び放送関係者らの投票によって選出される。

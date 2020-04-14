@@ -1,4 +1,4 @@
-> この記事は[ \( IN db\)](https://ja.wikipedia.org/wiki/_\(_IN_db\))から翻訳されています。
+> この記事は[いつも心に太陽を \(三枝夕夏 IN dbの曲\)](https://ja.wikipedia.org/wiki/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\))から翻訳されています。
 
 
 『**いつも心に太陽を**』（いつもこころにたいようを）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")10枚目のシングル。
@@ -38,4 +38,4 @@
 
   - U-ka saegusa IN db II
 
-[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:三枝夕夏_IN_dbの楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏_IN_dbの楽曲 "wikilink") [Category:三枝夕夏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏が制作した楽曲 "wikilink") [Category:ULTRA_N_PROJECT](https://ja.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:ウルトラシリーズの主題歌](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの主題歌 "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:三枝夕夏_IN_dbの楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏_IN_dbの楽曲 "wikilink") [Category:三枝夕夏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:三枝夕夏が制作した楽曲 "wikilink") [Category:ULTRA_N_PROJECT](https://ja.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:ウルトラシリーズの主題歌](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの主題歌 "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

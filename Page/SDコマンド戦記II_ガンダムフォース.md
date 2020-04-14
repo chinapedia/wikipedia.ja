@@ -1,4 +1,4 @@
-> この記事は[SDII ](https://ja.wikipedia.org/wiki/SDII_)から翻訳されています。
+> この記事は[SDコマンド戦記II ガンダムフォース](https://ja.wikipedia.org/wiki/SDコマンド戦記II_ガンダムフォース)から翻訳されています。
 
 
 |                                                    |

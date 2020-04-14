@@ -1,4 +1,4 @@
-> この記事は[SOUL TREEa musical tribute to toshinobu kubota](https://ja.wikipedia.org/wiki/SOUL_TREEa_musical_tribute_to_toshinobu_kubota)から翻訳されています。
+> この記事は[SOUL TREE〜a musical tribute to toshinobu kubota〜](https://ja.wikipedia.org/wiki/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜)から翻訳されています。
 
 
 『**SOUL TREE〜a musical tribute to toshinobu kubota〜**』（ソウル・ツリー ア・ミュージカル・トリビュート・トゥー・トシノブ・クボタ）は、[久保田利伸](../Page/久保田利伸.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")リリース。発売当初は[レーベルゲートCD (CCCD)仕様だったが](../Page/コピーコントロールCD.md "wikilink")、後に通常のCD-DA盤となった。

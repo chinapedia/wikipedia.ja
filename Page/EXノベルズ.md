@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[EXノベルズ](https://ja.wikipedia.org/wiki/EXノベルズ)から翻訳されています。
 
 
 **EXノベルズ** (*EX NOVELS*) は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")（旧[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")）が[2000年](../Page/2000年.md "wikilink")12月から[2005年](../Page/2005年.md "wikilink")1月まで刊行していた[ホラー](../Page/ホラー小説.md "wikilink")・[ファンタジー](../Page/ファンタジー.md "wikilink")系[小説](../Page/小説.md "wikilink")作品を中心とする[新書](../Page/新書.md "wikilink")レーベル。

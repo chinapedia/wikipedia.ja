@@ -1,4 +1,4 @@
-> この記事は[WE ARE THE CHAMP THE NAME OF THE GAME](https://ja.wikipedia.org/wiki/WE_ARE_THE_CHAMP_THE_NAME_OF_THE_GAME)から翻訳されています。
+> この記事は[WE ARE THE CHAMP 〜THE NAME OF THE GAME〜](https://ja.wikipedia.org/wiki/WE_ARE_THE_CHAMP_〜THE_NAME_OF_THE_GAME〜)から翻訳されています。
 
 
 **WE ARE THE CHAMP 〜THE NAME OF THE GAME〜**（ウィー・アー・ザ・チャンプ 〜ザ・ネーム・オブ・ザ・ゲーム〜）は、[1993年](../Page/1993年.md "wikilink")に発表された楽曲である。

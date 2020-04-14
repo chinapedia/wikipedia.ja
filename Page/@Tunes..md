@@ -243,4 +243,4 @@
   - [キングレコード](../Page/キングレコード.md "wikilink")
   - [ドワンゴ](../Page/ドワンゴ.md "wikilink")
 
-[Category:テレビ神奈川の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の深夜番組 "wikilink") [Category:アニマックスのテレビ番組](https://ja.wikipedia.org/wiki/Category:アニマックスのテレビ番組 "wikilink") [Category:アニメ・ゲーム情報番組](https://ja.wikipedia.org/wiki/Category:アニメ・ゲーム情報番組 "wikilink") [Category:アニメソングのテレビ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのテレビ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
+[Category:テレビ神奈川の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の深夜番組 "wikilink") [Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink") [Category:アニマックスのテレビ番組](https://ja.wikipedia.org/wiki/Category:アニマックスのテレビ番組 "wikilink") [Category:アニメ・ゲーム情報番組](https://ja.wikipedia.org/wiki/Category:アニメ・ゲーム情報番組 "wikilink") [Category:アニメソングのテレビ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのテレビ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

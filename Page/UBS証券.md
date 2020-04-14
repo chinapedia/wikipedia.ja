@@ -1,4 +1,4 @@
-> この記事は[UBS](https://ja.wikipedia.org/wiki/UBS)から翻訳されています。
+> この記事は[UBS証券](https://ja.wikipedia.org/wiki/UBS証券)から翻訳されています。
 
 
 **UBS証券株式会社**は、日本の[証券会社](../Page/証券会社.md "wikilink")。[スイス](../Page/スイス.md "wikilink")の[チューリヒ](https://ja.wikipedia.org/wiki/チューリヒ "wikilink")と[バーゼル](../Page/バーゼル.md "wikilink")に本社をおく[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")グループ（UBS Group AG）の日本法人。

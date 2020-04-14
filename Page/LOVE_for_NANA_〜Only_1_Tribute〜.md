@@ -1,4 +1,4 @@
-> この記事は[LOVE for NANA Only 1 Tribute](https://ja.wikipedia.org/wiki/LOVE_for_NANA_Only_1_Tribute)から翻訳されています。
+> この記事は[LOVE for NANA 〜Only 1 Tribute〜](https://ja.wikipedia.org/wiki/LOVE_for_NANA_〜Only_1_Tribute〜)から翻訳されています。
 
 
 『**LOVE for NANA 〜Only 1 Tribute〜**』（ラヴ･フォー･ナナ・オンリー･ワン･トリビュート）は日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[NANA](../Page/NANA.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。

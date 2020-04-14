@@ -1,4 +1,4 @@
-> この記事は[ORANGE \(\)](https://ja.wikipedia.org/wiki/ORANGE_\(\))から翻訳されています。
+> この記事は[ORANGE \(渡辺美里のアルバム\)](https://ja.wikipedia.org/wiki/ORANGE_\(渡辺美里のアルバム\))から翻訳されています。
 
 
 『**ORANGE**』（オレンジ）は、[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の14枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -35,6 +35,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Orange](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCL-2422/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Orange](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCL-2422)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")

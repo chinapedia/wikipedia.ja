@@ -1,4 +1,4 @@
-> この記事は[TRUE LOVE \(\)](https://ja.wikipedia.org/wiki/TRUE_LOVE_\(\))から翻訳されています。
+> この記事は[TRUE LOVE \(藤井フミヤの曲\)](https://ja.wikipedia.org/wiki/TRUE_LOVE_\(藤井フミヤの曲\))から翻訳されています。
 
 
 「**TRUE LOVE**」（トゥルー・ラヴ）は、[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

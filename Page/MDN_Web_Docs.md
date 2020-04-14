@@ -21,10 +21,6 @@ MDNにはディスカッションフォーラムとMozilla [IRC](../Page/Interne
 
 、MozillaはMDN Web Docsのフロントエンドを[React](https://ja.wikipedia.org/wiki/React "wikilink")で書き換え始めた。貢献者は、引き続きサポートされている古いエディタを使用してサイトのコンテンツを編集することができる\[12\]。
 
-## MDN 学習エリア
-
-MDN Web Docsには素晴らしい学習エリアがある。このガイドは時間を割いて文書を読んだり、自身で1つか2つのサイドプロジェクトを構築しようとしない限り、初心者から仕事の準備まで素早く案内することができる。このガイドは[\[HTML](https://ja.wikipedia.org/wiki/[HTML "wikilink")、CSS、JavaScript、Django及びNode.jsなどの技術をカバーしている。このガイドの存在を知っている人は多くないが、より多くの人がこのガイドを使用した場合、学習の際に数千ドルと時間を節約することができる。
-
 ## 脚注
 
 ### 注釈

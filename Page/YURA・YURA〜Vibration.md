@@ -1,4 +1,4 @@
-> この記事は[YURAYURAVibration](https://ja.wikipedia.org/wiki/YURAYURAVibration)から翻訳されています。
+> この記事は[YURA・YURA〜Vibration](https://ja.wikipedia.org/wiki/YURA・YURA〜Vibration)から翻訳されています。
 
 
 「**YURA・YURA〜Vibration**」（ユラユラ バイブレーション）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月21日にリリースされた[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の2ndシングル。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。

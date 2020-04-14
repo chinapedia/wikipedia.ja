@@ -1,4 +1,4 @@
-> この記事は[Blue Butterfly \(\)](https://ja.wikipedia.org/wiki/Blue_Butterfly_\(\))から翻訳されています。
+> この記事は[Blue Butterfly \(アルバム\)](https://ja.wikipedia.org/wiki/Blue_Butterfly_\(アルバム\))から翻訳されています。
 
 
 『**Blue Butterfly**』（ブルーバタフライ）は、[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")にリリースされた[渡辺美里](../Page/渡辺美里.md "wikilink")の15枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
@@ -34,6 +34,6 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : 渡辺美里 : Blue Butterfly](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESCL-2689/index.html)
+  - [Sony Music Online Japan : 渡辺美里 : Blue Butterfly](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESCL-2689)
 
 [Category:渡辺美里のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美里のアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink")

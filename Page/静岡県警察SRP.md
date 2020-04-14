@@ -1,4 +1,4 @@
-> この記事は[SRP](https://ja.wikipedia.org/wiki/SRP)から翻訳されています。
+> この記事は[静岡県警察SRP](https://ja.wikipedia.org/wiki/静岡県警察SRP)から翻訳されています。
 
 
 **静岡県警察SRP**（しずおかけんけいさつエスアールピー）は、[静岡県警察](../Page/静岡県警察.md "wikilink")[機動隊](https://ja.wikipedia.org/wiki/機動隊 "wikilink")のこと。「Shizuoka Riot Police」の略称である。

@@ -1,4 +1,4 @@
-> この記事は[Fall in Love \( IN db\)](https://ja.wikipedia.org/wiki/Fall_in_Love_\(_IN_db\))から翻訳されています。
+> この記事は[Fall in Love \(三枝夕夏 IN dbの曲\)](https://ja.wikipedia.org/wiki/Fall_in_Love_\(三枝夕夏_IN_dbの曲\))から翻訳されています。
 
 
 『**Fall in Love**』（フォーリン ラブ）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")15枚目のシングル。

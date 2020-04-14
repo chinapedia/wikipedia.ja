@@ -1,4 +1,4 @@
-> この記事は[KT](https://ja.wikipedia.org/wiki/KT)から翻訳されています。
+> この記事は[釜山KTソニックブーム](https://ja.wikipedia.org/wiki/釜山KTソニックブーム)から翻訳されています。
 
 
 **釜山KTソニックブーム**（プサン・ケーティ・ソニックブーム、韓国語: KT 、英語:Busan KT Sonicboom）は、[大韓民国](../Page/大韓民国.md "wikilink")・[釜山広域市](../Page/釜山広域市.md "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。ホームアリーナは[社稷体育館](https://ja.wikipedia.org/wiki/社稷体育館 "wikilink")。
@@ -20,6 +20,9 @@
   - [コートニー・シムズ](https://ja.wikipedia.org/wiki/コートニー・シムズ "wikilink")
   - [チャールズ・ローズ](https://ja.wikipedia.org/wiki/チャールズ・ローズ "wikilink")
   - [ラキーム・ジャクソン](https://ja.wikipedia.org/wiki/ラキーム・ジャクソン "wikilink")
+  - [マーカス・ブレイクリー](https://ja.wikipedia.org/wiki/マーカス・ブレイクリー "wikilink")
+  - [バイロン・ミュレンズ](https://ja.wikipedia.org/wiki/バイロン・ミュレンズ "wikilink")
+  - [アレン・ダーラム](https://ja.wikipedia.org/wiki/アレン・ダーラム "wikilink")
 
 ## 外部リンク
 

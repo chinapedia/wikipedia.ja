@@ -1,4 +1,4 @@
-> この記事は[Remember \(Fayray\)](https://ja.wikipedia.org/wiki/Remember_\(Fayray\))から翻訳されています。
+> この記事は[Remember \(Fayrayの曲\)](https://ja.wikipedia.org/wiki/Remember_\(Fayrayの曲\))から翻訳されています。
 
 
 **Remember**（リメンバー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の11枚目のシングル。

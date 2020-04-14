@@ -1,4 +1,4 @@
-> この記事は[WANTED!\&](https://ja.wikipedia.org/wiki/WANTED!\&)から翻訳されています。
+> この記事は[WANTED!木曜日城咲仁\&猫ひろし](https://ja.wikipedia.org/wiki/WANTED!木曜日城咲仁\&猫ひろし)から翻訳されています。
 
 
 **WANTED\!木曜日城咲仁&猫ひろし**は[TOKYO FMをキー局にJFN系列](../Page/エフエム東京.md "wikilink")（34局ネット）で[WANTED\!](../Page/WANTED!.md "wikilink")木曜日として2005年4月4日から2007年3月29日まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[城咲仁](../Page/城咲仁.md "wikilink")と[猫ひろし](../Page/猫ひろし.md "wikilink")が担当した。

@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBA最優秀コーチ賞](https://ja.wikipedia.org/wiki/NBA最優秀コーチ賞)から翻訳されています。
 
 
 **NBA最優秀コーチ賞**（エヌビーエーさいゆうしゅうコーチしょう、**NBA Coach of the Year Award**）は、[NBA](../Page/NBA.md "wikilink")においてレギュラーシーズンの間に最も優秀だった**[ヘッドコーチ](https://ja.wikipedia.org/wiki/NBAヘッドコーチ "wikilink")**に贈られる賞である。現在、受賞者には[レッド・アワーバック](../Page/レッド・アワーバック.md "wikilink")トロフィーが授与される。NBA発足から12年後の1962-63シーズンに制定された。初受賞者は[ハリー・ギャラティン](https://ja.wikipedia.org/wiki/ハリー・ギャラティン "wikilink")。

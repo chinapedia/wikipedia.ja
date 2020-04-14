@@ -1,4 +1,4 @@
-> この記事は[Cyber Project](https://ja.wikipedia.org/wiki/Cyber_Project)から翻訳されています。
+> この記事は[四ッ谷式Cyber Project](https://ja.wikipedia.org/wiki/四ッ谷式Cyber_Project)から翻訳されています。
 
 
 **四ッ谷式Cyber Project**（よつやしきサイバープロジェクト）は、かつて存在した[AM神戸](../Page/ラジオ関西.md "wikilink")（現 ラジオ関西）の[アニラジ](../Page/アニラジ.md "wikilink")枠、およびかつて存在した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")サイト及びテレビ番組。略称**四ッ谷式**。

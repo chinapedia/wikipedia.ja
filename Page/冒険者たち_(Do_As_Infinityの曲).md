@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[冒険者たち \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/冒険者たち_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**冒険者たち**」（ぼうけんしゃたち）は、[2001年](../Page/2001年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[avex traxより発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。

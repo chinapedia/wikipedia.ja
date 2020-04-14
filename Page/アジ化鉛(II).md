@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[アジ化鉛\(II\)](https://ja.wikipedia.org/wiki/アジ化鉛\(II\))から翻訳されています。
 
 
 )

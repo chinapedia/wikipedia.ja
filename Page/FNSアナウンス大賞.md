@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNSアナウンス大賞](https://ja.wikipedia.org/wiki/FNSアナウンス大賞)から翻訳されています。
 
 
 **FNSアナウンス大賞**（エフエヌエスアナウンスたいしょう）とは、[フジテレビを始めとする](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS系列各局の](../Page/フジネットワーク.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の中で毎年優秀なアナウンサーに対し与えられる賞である。

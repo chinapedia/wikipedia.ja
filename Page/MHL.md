@@ -7,11 +7,11 @@
 
 MHL 1.0は、非圧縮なまま [1080p](https://ja.wikipedia.org/wiki/1080p "wikilink")/30fps の動画データを3端子で伝送でき、実際には5ピンタイプは5端子を持つマイクロ[USBコネクタを流用する](../Page/ユニバーサル・シリアル・バス.md "wikilink")。HDMI 同様、遷移時間最短差動信号伝送方式（[TMDS](https://ja.wikipedia.org/wiki/Transition_Minimized_Differential_Signaling "wikilink")）を使用して1対の信号線により動画映像情報と音声情報を最大2.25Gbit/secで伝送する。また、差動対の片側1本により制御信号を送る。MHL 2.0 は 1080p/60fps の画像転送（HDMI 1.0の帯域）が出来る。MHL 3.0 は [2160p](https://ja.wikipedia.org/wiki/2160p "wikilink")/30fps の転送（HDMI 1.3の帯域）が出来る。
 
-マイクロUSB[コネクタ](../Page/コネクタ.md "wikilink")を使う事で、携帯機器側にMHL専用のレセプタクルを設けずにUSB/MHLの併用とするため小型化を阻害せずに済み、同時にMHL親機からUSB本来の電源端子へ電源を供給する事が出来る。制御信号により[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")のCEC機能\[1\]のような制御の実現が可能になる。
+マイクロUSB[コネクタ](../Page/コネクタ.md "wikilink")を使う事で、携帯機器側に映像出力専用のレセプタクルを設けずにUSBコネクタを共用するため小型化を阻害せずに済み、同時にMHL親機からUSB本来の電源端子へ電源を供給する事が出来る。制御信号により[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")のCEC機能\[1\]のような制御の実現が可能になる。
 
-2012年現在は主に[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")で採用されている。MHLに対応するディスプレイや液晶ハイビジョンテレビは2012年7月現在ではまだ少なく、使用するにはHDMIに変換するアダプターを使用する必要があり、また変換アダプターに電源を接続する必要もある。HDMIに加えMHLにも対応しているディスプレイや液晶ハイビジョンテレビでは、接続にもよるが接続中にそのまま携帯電話を充電する事も出来る。
+2012年現在は主に[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")で採用されている。MHLの直接接続に対応するディスプレイや液晶ハイビジョンテレビは2012年7月現在ではまだ少なく、使用するにはHDMIに変換するアダプターを使用する必要があり、また変換アダプターに電源を接続する必要もある。HDMIに加えMHLにも対応しているディスプレイや液晶ハイビジョンテレビでは、接続にもよるが接続中にそのまま携帯電話を充電する事も出来る。
 
-2015年に[USB Type-CコネクタをサポートしたsuperMHLが追加されている](https://ja.wikipedia.org/wiki/USB_Type-C "wikilink")。superMHLは40Wの電力供給と8K/120fpsをサポートした。MHL 3.0の上位互換規格になっている。
+2015年に[USB Type-CコネクタをサポートしたsuperMHLが追加されている](https://ja.wikipedia.org/wiki/USB_Type-C "wikilink")。superMHLは40Wの電力供給と8K/120fpsをサポートした。MHL 3.0の上位互換規格になっている。しかしUSB Type-CではMHLを使わずともオルタネートモードで[DisplayPort](../Page/DisplayPort.md "wikilink")や[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")を直接伝送出来るようになったため、USB Type-CでMHLに対応する機器は少ない。
 
 ## 技術比較
 

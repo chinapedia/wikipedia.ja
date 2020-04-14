@@ -13,7 +13,7 @@
   - [E.S.T.](../Page/E.S.T..md "wikilink") - スウェーデンのジャズピアニストトリオ。
   - [電気ショック療法](https://ja.wikipedia.org/wiki/電気ショック療法 "wikilink") ()
   - [映像作品のダウンロード販売](https://ja.wikipedia.org/wiki/映像作品のダウンロード販売 "wikilink") ()
-  - [発現配列タグ](https://ja.wikipedia.org/wiki/発現配列タグ "wikilink") () - [相補的DNA\#EST](https://ja.wikipedia.org/wiki/相補的DNA#EST "wikilink")を参照。
+  - [発現配列タグ](../Page/発現配列タグ.md "wikilink") ()
   - [卵黄嚢腫瘍](https://ja.wikipedia.org/wiki/卵黄嚢腫瘍 "wikilink") ()
   - [生態システム理論](https://ja.wikipedia.org/wiki/生態システム理論 "wikilink") ()
   - [拡大時空理論](https://ja.wikipedia.org/wiki/拡大時空理論 "wikilink") () - [ヨーハン・マルリェー](https://ja.wikipedia.org/wiki/ヨーハン・マルリェー "wikilink")が提唱した理論。[スケールで広がる宇宙](https://ja.wikipedia.org/wiki/スケールで広がる宇宙 "wikilink") () に同義。

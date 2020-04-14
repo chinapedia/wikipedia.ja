@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[サーキットの狼II モデナの剣](https://ja.wikipedia.org/wiki/サーキットの狼II_モデナの剣)から翻訳されています。
 
 
 『**サーキットの狼II モデナの剣**』（サーキットのおおかみツー モデナのケン）は、[池沢さとしによる](../Page/池沢早人師.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[OVA](../Page/OVA.md "wikilink")、[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")。

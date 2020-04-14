@@ -30,4 +30,4 @@
 
   - [ヴ](https://ja.wikipedia.org/wiki/ヴ "wikilink")の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")
   - [.vu](https://ja.wikipedia.org/wiki/.vu "wikilink") - [バヌアツ](../Page/バヌアツ.md "wikilink")の[国別トップレベルドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")。
-  - [ミューニュートリノ](../Page/ミューニュートリノ.md "wikilink") () の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")での代用表記。
+  - [ミューニュートリノ](../Page/ミューニュートリノ.md "wikilink") () の[ASCII](../Page/ASCII.md "wikilink")での代用表記。

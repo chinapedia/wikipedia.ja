@@ -1,4 +1,4 @@
-> この記事は[! THOSEAMAZINGKIDS!](https://ja.wikipedia.org/wiki/!_THOSEAMAZINGKIDS!)から翻訳されています。
+> この記事は[スタぴか! THOSE★AMAZING★KIDS!](https://ja.wikipedia.org/wiki/スタぴか!_THOSE★AMAZING★KIDS!)から翻訳されています。
 
 
 『**スタぴか\! THOSE★AMAZING★KIDS\!**』は、一部[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全150回\[1\]。製作局の読売テレビでは[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、毎週日曜 10:54 - 11:24 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

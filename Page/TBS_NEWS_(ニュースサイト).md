@@ -1,4 +1,4 @@
-> この記事は[TBS NEWS \(\)](https://ja.wikipedia.org/wiki/TBS_NEWS_\(\))から翻訳されています。
+> この記事は[TBS NEWS \(ニュースサイト\)](https://ja.wikipedia.org/wiki/TBS_NEWS_\(ニュースサイト\))から翻訳されています。
 
 
 **TBS NEWS**（ティービーエスニュース）は、[1999年](../Page/1999年.md "wikilink")に始まった日本最初の[インターネット](../Page/インターネット.md "wikilink")によるニュース動画配信システム。2017年3月までは**JNN News i**（ジェイエヌエヌ・ニューズ・アイ）という名称であった。

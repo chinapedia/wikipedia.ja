@@ -1,7 +1,7 @@
 > この記事は[SMOOTH STYLE](https://ja.wikipedia.org/wiki/SMOOTH_STYLE)から翻訳されています。
 
 
-**SMOOTH STYLE**（スムース・スタイル）は[JFN製作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")55分番組。放送基準日は毎週日曜 19:00 - 19:55（先送り版は18:00 - 18:55）。
+**SMOOTH STYLE**（スムース・スタイル）は[JFN製作の](../Page/全国FM放送協議会.md "wikilink")55分番組。放送基準日は毎週日曜 19:00 - 19:55（先送り版は18:00 - 18:55）。
 
 ## 概要
 

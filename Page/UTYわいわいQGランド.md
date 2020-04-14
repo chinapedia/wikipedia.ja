@@ -1,4 +1,4 @@
-> この記事は[UTYQG](https://ja.wikipedia.org/wiki/UTYQG)から翻訳されています。
+> この記事は[UTYわいわいQGランド](https://ja.wikipedia.org/wiki/UTYわいわいQGランド)から翻訳されています。
 
 
 **UTYわいわいQGランド**は、[テレビ山梨](../Page/テレビ山梨.md "wikilink")で毎週[日曜日](../Page/日曜日.md "wikilink")10:30～11:00に放映された 、小学生参加の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")・[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。タイトルの"QG"は「クイズ」と「ゲーム」の略。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。2009年3月29日放送分をもって終了。

@@ -1,4 +1,4 @@
-> この記事は[FNNNEWS](https://ja.wikipedia.org/wiki/FNNNEWS)から翻訳されています。
+> この記事は[FNN仙台放送NEWS](https://ja.wikipedia.org/wiki/FNN仙台放送NEWS)から翻訳されています。
 
 
 『**FNN仙台放送NEWS**』（エフエヌエヌせんだいほうそうニュース）及び『**仙台放送NEWS**』（せんだいほうそうニュース）とは[仙台放送](../Page/仙台放送.md "wikilink")で放送されている[ニュース番組である](../Page/報道番組.md "wikilink")。

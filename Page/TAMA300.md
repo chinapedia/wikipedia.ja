@@ -29,7 +29,7 @@
   - [CLIO](https://ja.wikipedia.org/wiki/CLIO "wikilink") - KAGRAのプロトタイプとして岐阜[神岡鉱山](../Page/神岡鉱山.md "wikilink")跡地に建設された低温レーザー干渉計重力波観測装置。
   - [KAGRA](https://ja.wikipedia.org/wiki/KAGRA "wikilink") - 2020年2月に運用が開始された日本の大型重力波検出器。
   - [LIGO](https://ja.wikipedia.org/wiki/LIGO "wikilink")（[カリフォルニア工科大学](../Page/カリフォルニア工科大学.md "wikilink")・[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")） - アメリカ国内の2か所に設置された基線長4キロメートルのレーザー干渉計による重力波検出器。
-  - [VIRGO](https://ja.wikipedia.org/wiki/VIRGO "wikilink")（フランス・イタリア） - 基線長3キロメートルのレーザー干渉計による重力波検出器。
+  - [Virgo](../Page/Virgo.md "wikilink")（フランス・イタリア） - 基線長3キロメートルのレーザー干渉計による重力波検出器。
   - [LISA](../Page/宇宙重力波望遠鏡.md "wikilink") ([NASA](../Page/アメリカ航空宇宙局.md "wikilink")・[ESA](../Page/欧州宇宙機関.md "wikilink")) - LISAは "Laser Inferometer Space Antena" の略称であり、[宇宙重力波望遠鏡](../Page/宇宙重力波望遠鏡.md "wikilink")（アンテナ）である。基線長は500万キロメートルを計画中。現在、国際協力によって開発が進められている。[2034年](../Page/2034年.md "wikilink")に宇宙へ打ち上げられ、[人工惑星](https://ja.wikipedia.org/wiki/人工惑星 "wikilink")軌道へ投入され観測を開始する予定。
   - [DECIGO](https://ja.wikipedia.org/wiki/DECIGO "wikilink") (日本) - 0.1Hzから10Hz程度の重力波を観測できる宇宙重力波望遠鏡で、日本におけるKAGRAの次の将来計画として検討されている。"Deci-hertz Interferometer Gravitational wave Observatory" の略称。
   - [天文学](../Page/天文学.md "wikilink") - [高エネルギー天文学](../Page/高エネルギー天文学.md "wikilink") - [重力波天文学](../Page/重力波天文学.md "wikilink")

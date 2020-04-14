@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[プロジェクトA子](https://ja.wikipedia.org/wiki/プロジェクトA子)から翻訳されています。
 
 
 『**プロジェクトA子**』（プロジェクトエーこ）は、創映新社製作の[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[松竹富士](../Page/松竹富士.md "wikilink")系にて公開された。併映は『旅立ち 亜美・終章』。

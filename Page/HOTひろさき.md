@@ -1,4 +1,4 @@
-> この記事は[HOT](https://ja.wikipedia.org/wiki/HOT)から翻訳されています。
+> この記事は[HOTひろさき](https://ja.wikipedia.org/wiki/HOTひろさき)から翻訳されています。
 
 
 **HOTひろさき**（ホットひろさき）は、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）弘前支社の制作で放送されているラジオ番組。放送時間は毎週土曜 16:50 - 17:45。

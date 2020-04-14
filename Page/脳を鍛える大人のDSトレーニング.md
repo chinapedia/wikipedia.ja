@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/脳を鍛える大人のDSトレーニング)から翻訳されています。
 
 
 『**脳を鍛える大人のDSトレーニング**』（のうをきたえるおとなのディーエストレーニング）は、[任天堂](../Page/任天堂.md "wikilink")開発・発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。略称「**脳トレ**」、「**脳鍛**」。
@@ -32,23 +32,24 @@
   - 文字数え
     画面に表示される文が、“かな”で何文字になるかを数え、解答を記入する。
   - 人数数え
-    画面に表示される家に人が出入りするので、最後に家の中に残っている人数を記入する。
+    画面に表示される家に人が出入りするので、最後に家の中に残っている人数を記入する。「難しい」では煙突からも出入りしてくる。
   - 三角暗算
     画面に表示される3つないし4つの数字の、隣り合うもの同士を足し引きしていき、解答を記入する。
   - 時間計測
     画面に表示される2つの時計の時間差を計算し、解答を記入する。
   - 音声計算
-    簡単な四則計算を自分の声で解答する。
+    簡単な四則計算を口頭で解答する。
 
 ### 脳年齢チェック
 
-以下のチェック項目のうち、ランダムに3つが出題され、自分の脳年齢を診断することができる。
+以下のチェック項目のうち、ランダムに3つが出題され、自分の脳年齢を診断することができる。開始前に声を出せるか否かを問われる。
 
   - 計算20
     「毎日トレーニング」の同名項目と同じ（ハイスコアの保存も共通）。
   - 色彩識別
     画面に「くろ」「あか」「あお」「きいろ」の4種の文字が表示されるが、その文字は読まずに「書かれている文字の色」を声で回答する。
     例：「<span style="color:#00f;">**あか**</span>」の場合は、「**あお**」と答える。
+    開始前に「声を出せる」と回答した場合の1番目の課題としてのみ登場する。
   - 単語記憶
     画面に表示される28個の3文字単語を2分間で記憶し、次の3分間で思い出せる限りの解答を記入する。
   - 高速数え
@@ -130,9 +131,9 @@
 
 ## 外部リンク
 
-  - [脳を鍛える大人のDSトレーニング公式サイト](https://www.nintendo.co.jp/ds/andj/index.html)
+  - [脳を鍛える大人のDSトレーニング公式サイト](https://www.nintendo.co.jp/ds/andj/)
 
-  - [ほぼ日刊イトイ新聞　脳を鍛える大人たち](https://www.1101.com/nintendo/brain/index.html)
+  - [ほぼ日刊イトイ新聞　脳を鍛える大人たち](https://www.1101.com/nintendo/brain/)
 
   -
 [Category:脳トレ](https://ja.wikipedia.org/wiki/Category:脳トレ "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:日本ゲーム大賞受賞ソフト](https://ja.wikipedia.org/wiki/Category:日本ゲーム大賞受賞ソフト "wikilink")

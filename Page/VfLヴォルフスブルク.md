@@ -1,4 +1,4 @@
-> この記事は[VfL](https://ja.wikipedia.org/wiki/VfL)から翻訳されています。
+> この記事は[VfLヴォルフスブルク](https://ja.wikipedia.org/wiki/VfLヴォルフスブルク)から翻訳されています。
 
 
 **フェアアイン・フュル・ライベジュブンゲン・ヴォルフスブルク・フースバル**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ニーダーザクセン州](../Page/ニーダーザクセン州.md "wikilink")・[ヴォルフスブルク](https://ja.wikipedia.org/wiki/ヴォルフスブルク "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。ヴォルフスブルクに本社を置く自動車メーカーの[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")がスポンサーの一つである。
@@ -407,7 +407,7 @@
 <tr class="odd">
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/FCシャフタール・ドネツク.md" title="wikilink">シャフタール・ドネツク</a></p></td>
-<td></td>
+<td><p>1-2</p></td>
 <td></td>
 <td><p>'''</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-> この記事は[FCHV](https://ja.wikipedia.org/wiki/FCHV)から翻訳されています。
+> この記事は[トヨタ・FCHV](https://ja.wikipedia.org/wiki/トヨタ・FCHV)から翻訳されています。
 
 
 **トヨタ・FCHV**は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産する[燃料電池](../Page/燃料電池.md "wikilink")電気自動車である。なお、トヨタはこれを燃料電池と[二次電池](../Page/二次電池.md "wikilink")のハイブリッドシステムであるとし、Fuel Cell Hybrid Vehicle（燃料電池複合型自動車）の略としてFCHVの名を与えている。[2004年](../Page/2004年.md "wikilink")3月時点では、日米で12台が稼働している。

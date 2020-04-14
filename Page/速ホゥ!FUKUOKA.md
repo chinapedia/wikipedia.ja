@@ -1,4 +1,4 @@
-> この記事は[!FUKUOKA](https://ja.wikipedia.org/wiki/!FUKUOKA)から翻訳されています。
+> この記事は[速ホゥ!FUKUOKA](https://ja.wikipedia.org/wiki/速ホゥ!FUKUOKA)から翻訳されています。
 
 
 『**速ホゥ\!FUKUOKA**』（そくホゥ フクオカ）は、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。協力：[西日本新聞社](../Page/西日本新聞社.md "wikilink")、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")。

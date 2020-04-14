@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT東日本船橋グラウンド](https://ja.wikipedia.org/wiki/NTT東日本船橋グラウンド)から翻訳されています。
 
 
 **NTT東日本船橋グラウンド**（エヌティティひがしにほんふなばしグラウンド）は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")にある野球場である。その名のとおり、[NTT東日本硬式野球部](../Page/NTT東日本硬式野球部.md "wikilink")の練習場として利用されているほか、オープン戦が行われている。[公認野球規則](../Page/公認野球規則.md "wikilink")で定められた規格を満たしていないが、当該規定の施行前に竣工した球場であるため、公式戦を開くことも可能であり、実際に第2回[全日本クラブ野球選手権](https://ja.wikipedia.org/wiki/全日本クラブ野球選手権 "wikilink")の会場として使用されたこともある。

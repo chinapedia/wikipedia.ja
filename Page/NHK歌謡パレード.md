@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK歌謡パレード](https://ja.wikipedia.org/wiki/NHK歌謡パレード)から翻訳されています。
 
 
 『**NHK歌謡パレード**』（エヌエイチケイかようパレード）は、[1988年](../Page/1988年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。放送時間は毎週火曜 20時00分 - 20時45分（[JST](../Page/日本標準時.md "wikilink")）。

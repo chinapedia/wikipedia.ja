@@ -1,4 +1,4 @@
-> この記事は[ I](https://ja.wikipedia.org/wiki/_I)から翻訳されています。
+> この記事は[レッド・ツェッペリン I](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_I)から翻訳されています。
 
 
 『**レッド・ツェッペリン I**』（*LED ZEPPELIN*）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のデビュー・アルバム。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月12日](../Page/1月12日.md "wikilink")発売。[プロデューサー](../Page/プロデューサー.md "wikilink")は[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")、レコーディング・エンジニアは[グリン・ジョンズ](https://ja.wikipedia.org/wiki/グリン・ジョンズ "wikilink")。

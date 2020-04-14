@@ -1,4 +1,4 @@
-> この記事は[ IV](https://ja.wikipedia.org/wiki/_IV)から翻訳されています。
+> この記事は[レッド・ツェッペリン IV](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_IV)から翻訳されています。
 
 
 **『レッド・ツェッペリン IV』** （**LED ZEPPELIN IV**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の第4作[アルバム](../Page/アルバム.md "wikilink")。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。[プロデューサー](../Page/プロデューサー.md "wikilink")は[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")。レコーディング・エンジニアは[アンディ・ジョンズ](https://ja.wikipedia.org/wiki/アンディ・ジョンズ "wikilink")。米国だけでもセールスは2,300万枚を超えており、レッド・ツェッペリンの全作品中、最も売れたアルバムである。

@@ -1,4 +1,4 @@
-> この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
+> この記事は[RCランス](https://ja.wikipedia.org/wiki/RCランス)から翻訳されています。
 
 
 **ラシン・クルブ・ドゥ・ランス**（**Racing Club de Lens** ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[パ＝ド＝カレー県](../Page/パ＝ド＝カレー県.md "wikilink")・[ランスに本拠地を置く](../Page/ランス_\(パ＝ド＝カレー県\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。愛称は「**血と黄金**」。

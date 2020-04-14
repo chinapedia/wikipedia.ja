@@ -1,4 +1,4 @@
-> この記事は[nobody](https://ja.wikipedia.org/wiki/nobody)から翻訳されています。
+> この記事は[のどかnobody](https://ja.wikipedia.org/wiki/のどかnobody)から翻訳されています。
 
 
 『**のどかnobody**』（のどかノーバディー）は、[田山りく](https://ja.wikipedia.org/wiki/田山りく "wikilink")原作、[及川雅史](https://ja.wikipedia.org/wiki/及川雅史 "wikilink")作画の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[NINTENDO64](https://ja.wikipedia.org/wiki/NINTENDO64)から翻訳されています。
+> この記事は[NINTENDO64のゲームタイトル一覧](https://ja.wikipedia.org/wiki/NINTENDO64のゲームタイトル一覧)から翻訳されています。
 
 
 **NINTENDO64のゲームタイトル一覧**（ニンテンドウろくじゅうよんのゲームタイトルいちらん）では、[NINTENDO64](../Page/NINTENDO64.md "wikilink")対応として日本国内で発売した全208タイトルのゲームソフトを発売順に列記する。

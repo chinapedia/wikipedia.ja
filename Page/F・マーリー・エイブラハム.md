@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F・マーリー・エイブラハム](https://ja.wikipedia.org/wiki/F・マーリー・エイブラハム)から翻訳されています。
 
 
 **F・マーリー・エイブラハム**（**F. Murray Abraham**、[1939年](../Page/1939年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")。

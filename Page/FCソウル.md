@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCソウル](https://ja.wikipedia.org/wiki/FCソウル)から翻訳されています。
 
 
 **FCソウル**（エフシーソウル、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink")：FC 서울、[英語](../Page/英語.md "wikilink")：FC Seoul）は、[韓国の首都](../Page/大韓民国.md "wikilink")[ソウルをホームタウンとするプロサッカークラブである](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。[Kリーグ1](../Page/Kリーグ1.md "wikilink")に加盟している。

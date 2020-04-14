@@ -1,4 +1,4 @@
-> この記事は[GSX-R](https://ja.wikipedia.org/wiki/GSX-R)から翻訳されています。
+> この記事は[スズキ・GSX-R](https://ja.wikipedia.org/wiki/スズキ・GSX-R)から翻訳されています。
 
 
 **GSX-R**（ジーエスエックス-アール）とは、[スズキが製造している](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")のシリーズである。

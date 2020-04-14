@@ -1,4 +1,4 @@
-> この記事は[ CONDITION GREEN](https://ja.wikipedia.org/wiki/_CONDITION_GREEN)から翻訳されています。
+> この記事は[インフェリウス惑星戦史外伝 CONDITION GREEN](https://ja.wikipedia.org/wiki/インフェリウス惑星戦史外伝_CONDITION_GREEN)から翻訳されています。
 
 
 『**インフェリウス惑星戦史外伝 CONDITION GREEN**』（インフェリウス わくせいせんしがいでん コンディショングリーン）は、[1991年](../Page/1991年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に発売された[OVA](../Page/OVA.md "wikilink")作品。全3巻（全6話）。

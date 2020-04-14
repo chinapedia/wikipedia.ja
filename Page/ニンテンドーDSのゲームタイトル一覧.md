@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ニンテンドーDSのゲームタイトル一覧](https://ja.wikipedia.org/wiki/ニンテンドーDSのゲームタイトル一覧)から翻訳されています。
 
 
 **ニンテンドーDSのゲームタイトル一覧**（ニンテンドーディーエスのゲームタイトルいちらん）では、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ニンテンドーDS Lite](../Page/ニンテンドーDS_Lite.md "wikilink")、[ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")対応として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内で発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")を全1840タイトルのソフト発売順に列記する。ゲームではない実用ソフトも便宜上ここに含める。
@@ -35,10 +35,12 @@
 
 いずれも任天堂。
 
-  - [ゲーム&ウオッチコレクション](../Page/GAME_&_WATCH_COLLECTION.md "wikilink")
-  - [ゲーム&ウオッチコレクション2](https://ja.wikipedia.org/wiki/GAME_&_WATCH_COLLECTION#GAME_&_WATCH_COLLECTION_2 "wikilink")
-  - [チンクルのバルーンファイトDS](../Page/チンクルのバルーンファイトDS.md "wikilink")
-  - [絶叫戦士サケブレイン](https://ja.wikipedia.org/wiki/絶叫戦士サケブレイン "wikilink")
+  - [ゲーム&ウオッチコレクション](../Page/GAME_&_WATCH_COLLECTION.md "wikilink") (DSカード，64MB)
+  - [ゲーム&ウオッチコレクション2](https://ja.wikipedia.org/wiki/GAME_&_WATCH_COLLECTION#GAME_&_WATCH_COLLECTION_2 "wikilink") (DSカード，64MB)
+  - [チンクルのバルーンファイトDS](../Page/チンクルのバルーンファイトDS.md "wikilink") (DSカード，64MB)
+  - [絶叫戦士サケブレイン](https://ja.wikipedia.org/wiki/絶叫戦士サケブレイン "wikilink") (DSカード，128MB)
+  - [任天童子](https://ja.wikipedia.org/wiki/任天童子 "wikilink") (DSiウェア)
+  - [ファミコンウォーズDS 失われた光](https://ja.wikipedia.org/wiki/ファミコンウォーズDS_失われた光 "wikilink") (DSiウェア)
 
 ### その他
 

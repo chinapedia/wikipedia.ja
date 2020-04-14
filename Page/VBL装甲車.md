@@ -1,4 +1,4 @@
-> この記事は[VBL](https://ja.wikipedia.org/wiki/VBL)から翻訳されています。
+> この記事は[VBL装甲車](https://ja.wikipedia.org/wiki/VBL装甲車)から翻訳されています。
 
 
 **VBL装甲車**（Véhicule Blindé Léger）は、[パナール](../Page/パナール.md "wikilink")社が開発した[フランス軍](../Page/フランス軍.md "wikilink")が使用する[軽装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。

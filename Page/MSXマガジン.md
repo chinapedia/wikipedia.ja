@@ -1,4 +1,4 @@
-> この記事は[MSX](https://ja.wikipedia.org/wiki/MSX)から翻訳されています。
+> この記事は[MSXマガジン](https://ja.wikipedia.org/wiki/MSXマガジン)から翻訳されています。
 
 
 **MSXマガジン**（えむえすえっくす - ）は[アスキーより](../Page/アスキー_\(企業\).md "wikilink")1983年から発行されていた月刊の[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")専門の[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")雑誌。2002年から2005年にかけては、「永久保存版」として[ムックとし発行された](../Page/ムック_\(出版\).md "wikilink")。

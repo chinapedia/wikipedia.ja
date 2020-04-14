@@ -1,4 +1,4 @@
-> この記事は[IRIA ZEIRAM THE ANIMATION](https://ja.wikipedia.org/wiki/IRIA_ZEIRAM_THE_ANIMATION)から翻訳されています。
+> この記事は[I・R・I・A ZEIRAM THE ANIMATION](https://ja.wikipedia.org/wiki/I・R・I・A_ZEIRAM_THE_ANIMATION)から翻訳されています。
 
 
 『**I・Я・I・A ZЁIЯAM THE ANIMATION**』（イ・リ・ア ゼイラム ジ アニメーション）は、[1994年](../Page/1994年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に発売された[OVA](../Page/OVA.md "wikilink")作品。全6巻。1991年に公開された映画『[ゼイラム](../Page/ゼイラム.md "wikilink")』をアニメーション化した作品である。

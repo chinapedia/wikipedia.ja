@@ -31,19 +31,19 @@ RoHS指令の施行以前に[EU指令](https://ja.wikipedia.org/wiki/EU指令 "w
 
 ＊規制物質（10物質）
 
-　　1.[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")
+　　1. [鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")
 
-　　2.[水銀](../Page/水銀.md "wikilink")
+　　2. [水銀](../Page/水銀.md "wikilink")
 
-　　3.[六価クロム](../Page/六価クロム.md "wikilink")
+　　3. [六価クロム](../Page/六価クロム.md "wikilink")
 
-　　4.[カドミウム](../Page/カドミウム.md "wikilink")
+　　4. [カドミウム](../Page/カドミウム.md "wikilink")
 
 　　5. [ポリ臭化ビフェニル](../Page/ポリ臭化ビフェニル.md "wikilink")（PBB）
 
 　　6. [ポリ臭化ジフェニルエーテル](../Page/ポリ臭化ジフェニルエーテル.md "wikilink")（PBDE）
 
-　　7.[フタル酸ジ-2-エチルへキシル](https://ja.wikipedia.org/wiki/フタル酸ビス\(2-エチルヘキシル\) "wikilink")（DEHP）
+　　7. [フタル酸ジ-2-エチルへキシル](https://ja.wikipedia.org/wiki/フタル酸ビス\(2-エチルヘキシル\) "wikilink")（DEHP）
 
 　　8. [フタル酸ブチルベンジル](https://ja.wikipedia.org/wiki/フタル酸ブチルベンジル "wikilink")（BBP）
 

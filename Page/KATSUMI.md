@@ -726,7 +726,7 @@ MUSIC JAPAN TV系『BREAK TV』エンディングテーマ</p></td>
   -
   -
   -
-  - [KATSUMIオフィシャルブログ『「Seeds of Love」』powered by Ameba](http://ameblo.jp/katsumi-official/)（2011年3月9日 - 、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
+  - [KATSUMIオフィシャルブログ『「Seeds of Love」』powered by Ameba](https://ameblo.jp/katsumi-official/)（2011年3月9日 - 、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
 
 [Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:1965年生](https://ja.wikipedia.org/wiki/Category:1965年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ビクターミュージックアーツ](https://ja.wikipedia.org/wiki/Category:ビクターミュージックアーツ "wikilink")
 

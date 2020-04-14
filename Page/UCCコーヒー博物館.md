@@ -1,4 +1,4 @@
-> この記事は[UCC](https://ja.wikipedia.org/wiki/UCC)から翻訳されています。
+> この記事は[UCCコーヒー博物館](https://ja.wikipedia.org/wiki/UCCコーヒー博物館)から翻訳されています。
 
 
 [thumb状に展示室が配置されている](https://ja.wikipedia.org/wiki/画像:UCC_Coffee_Museum12s3872.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/画像:UCC_Coffee_Museum03s3872.jpg "wikilink") **UCCコーヒー博物館**（ユーシーシーコーヒーはくぶつかん）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区の](../Page/中央区_\(神戸市\).md "wikilink")[ポートアイランド](../Page/ポートアイランド.md "wikilink")にある[企業博物館](../Page/企業博物館.md "wikilink")。

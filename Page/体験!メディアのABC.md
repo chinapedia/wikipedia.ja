@@ -1,4 +1,4 @@
-> この記事は[!ABC](https://ja.wikipedia.org/wiki/!ABC)から翻訳されています。
+> この記事は[体験!メディアのABC](https://ja.wikipedia.org/wiki/体験!メディアのABC)から翻訳されています。
 
 
 『**体験\!メディアのABC**』（たいけん メディアのエービーシー）は、[2001年](../Page/2001年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[NHK教育テレビで放送されていた小学校高学年向け](../Page/NHK教育テレビジョン.md "wikilink")\[1\]の[学校放送](../Page/学校放送.md "wikilink")（教科：[総合学習](../Page/総合的な学習の時間.md "wikilink")\[2\]）である。

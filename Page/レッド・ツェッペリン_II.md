@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[レッド・ツェッペリン II](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_II)から翻訳されています。
 
 
 **レッド・ツェッペリン II** （**LED ZEPPELIN II**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の2作目となる[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[プロデューサーは](../Page/音楽プロデューサー.md "wikilink")[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")。レコーディング・エンジニアは[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")。

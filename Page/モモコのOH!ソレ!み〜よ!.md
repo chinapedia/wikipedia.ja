@@ -1,4 +1,4 @@
-> この記事は[OH!!!](https://ja.wikipedia.org/wiki/OH!!!)から翻訳されています。
+> この記事は[モモコのOH!ソレ!み〜よ!](https://ja.wikipedia.org/wiki/モモコのOH!ソレ!み〜よ!)から翻訳されています。
 
 
 『**モモコのOH\!ソレ\!み〜よ\!**』（モモコのオー\!ソレ\!み〜よ\!）は、[関西テレビで放送されている](../Page/関西テレビ放送.md "wikilink")[関西ローカル](../Page/関西ローカル.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[大阪ガスの一社提供](https://ja.wikipedia.org/wiki/大阪瓦斯 "wikilink")。（なお、関西テレビが大阪ガスの単独提供番組を放送するのはこの番組が初であり、それまでは関西テレビは在阪局の中で唯一大阪ガス提供番組を持ったことはなかった。）
@@ -184,9 +184,10 @@
   - 2016年7月 - 2017年1月：[SORAMIMI](https://ja.wikipedia.org/wiki/SORAMIMI "wikilink")「禁断症状」
   - 2017年2月 - 6月：[ジャアバーボンズ](https://ja.wikipedia.org/wiki/JaaBourBonz "wikilink")「とべとべ\!」
   - 2017年7月 - 2018年5月 ：[円野きんちゃく](https://ja.wikipedia.org/wiki/円野きんちゃく "wikilink")「鼻唄泥棒」
-  - 2018年5月 - 2018年9月：[chocol8 syndrome](https://ja.wikipedia.org/wiki/chocol8_syndrome "wikilink")「キスで目覚めさせて」
+  - 2018年5月 - 9月：[chocol8 syndrome](https://ja.wikipedia.org/wiki/chocol8_syndrome "wikilink")「キスで目覚めさせて」
   - 2018年10月 - 2019年4月：円野きんちゃく「愛なんです」
-  - 2019年5月 - 現在：[ウインズ平阪](../Page/ウインズ_\(バンド\).md "wikilink")「全力投球」
+  - 2019年5月 - 12月：[ウインズ平阪](../Page/ウインズ_\(バンド\).md "wikilink")「全力投球」
+  - 2020年1月 - 現在：[moon grin](https://ja.wikipedia.org/wiki/moon_grin "wikilink")「シーラカンス」
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[NSR](https://ja.wikipedia.org/wiki/NSR)から翻訳されています。
+> この記事は[ホンダ・NSR](https://ja.wikipedia.org/wiki/ホンダ・NSR)から翻訳されています。
 
 
 **NSR**（エヌエスアール）は[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。

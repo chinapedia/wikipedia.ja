@@ -1,4 +1,4 @@
-> この記事は[SIL](https://ja.wikipedia.org/wiki/SIL)から翻訳されています。
+> この記事は[国際SIL](https://ja.wikipedia.org/wiki/国際SIL)から翻訳されています。
 
 
 **国際SIL**（こくさいえすあいえる、**SILインターナショナル**とも訳される）は、非営利の[キリスト教](../Page/キリスト教.md "wikilink")信仰に基づく[少数言語](https://ja.wikipedia.org/wiki/少数言語 "wikilink")のための組織で、その主たる目的は、言語知識を広げ、世界の[識字](../Page/識字.md "wikilink")能力を促進し、[少数言語](https://ja.wikipedia.org/wiki/少数言語 "wikilink")の発展を援助する目的のために、あまり知られていない言語の研究、開発、記録を行うことである。[エスノローグ](https://ja.wikipedia.org/wiki/エスノローグ "wikilink")（Ethnologue.com, 下記リンク）を運営し、言語研究資源を提供している。国際SILのメンバーは原則的に国際SILの姉妹団体である[ウィクリフ聖書翻訳協会](https://ja.wikipedia.org/wiki/ウィクリフ聖書翻訳協会 "wikilink")のメンバーでもあり、国際SILの学術活動の中に[聖書翻訳](../Page/聖書翻訳.md "wikilink")が大きな位置を占めている。

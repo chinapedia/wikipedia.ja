@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[鈴与清水FCラブリーレディース](https://ja.wikipedia.org/wiki/鈴与清水FCラブリーレディース)から翻訳されています。
 
 
 **鈴与清水FCラブリーレディース**（すずよしみずエフシーラブリーレディース）は、かつて[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（L・リーグ）に所属していたチーム。[静岡県](../Page/静岡県.md "wikilink")[清水市](../Page/清水市.md "wikilink")（現・[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）を拠点として活動していたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズンを最後にL・リーグを脱退。翌年は東海女子リーグで活動したが1年で解散した。

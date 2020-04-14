@@ -1,4 +1,4 @@
-> この記事は[NNS](https://ja.wikipedia.org/wiki/NNS)から翻訳されています。
+> この記事は[NNSアナウンス大賞](https://ja.wikipedia.org/wiki/NNSアナウンス大賞)から翻訳されています。
 
 
 **NNSアナウンス大賞**（エヌエヌエスアナウンスたいしょう）とは、[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")を始めとする[NNS系列各局の](../Page/日本テレビネットワーク協議会.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の中で、毎年優秀なアナウンサーに対し与えられる賞である。

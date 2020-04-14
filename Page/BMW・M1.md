@@ -1,4 +1,4 @@
-> この記事は[BMWM1](https://ja.wikipedia.org/wiki/BMWM1)から翻訳されています。
+> この記事は[BMW・M1](https://ja.wikipedia.org/wiki/BMW・M1)から翻訳されています。
 
 
 **BMW・M1**は、1970年代に[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")での活躍を期待したことに端を発する、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[BMW](../Page/BMW.md "wikilink")の[スーパーカー](../Page/スーパーカー.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[双方向TV 地球ゴーラウンド](https://ja.wikipedia.org/wiki/双方向TV_地球ゴーラウンド)から翻訳されています。
 
 
 **双方向TV 地球ゴーラウンド**（そうほうこうテレビ・ちきゅうゴーラウンド）は、[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")で2006年3月18日まで放送された双方向対応[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

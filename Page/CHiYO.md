@@ -137,7 +137,7 @@
 
 ## 外部リンク
 
-  - [CHiYOブログ](http://ameblo.jp/chiyo0908/)
+  - [CHiYOブログ](https://ameblo.jp/chiyo0908/)
   - [CHiYO STAFF BLOG](http://blog.livedoor.jp/chiyo_0908/)
   - [SOUND-TV(CHiYO PV配信)](http://www.sound-tv.net/artists/chiyo/)
 

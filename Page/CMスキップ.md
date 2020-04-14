@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[CMスキップ](https://ja.wikipedia.org/wiki/CMスキップ)から翻訳されています。
 
 
 **CMスキップ**（シーエムスキップ）もしくは**CMカット**とは、[テレビコマーシャル](../Page/コマーシャルメッセージ.md "wikilink")(テレビCM)を飛ばす機能のこと。CMカットはCMを[録画](../Page/録画.md "wikilink")時に一時停止して録画しないようにする機能であり、CMスキップとは[再生](https://ja.wikipedia.org/wiki/再生 "wikilink")時にCMを早送りする機能である。

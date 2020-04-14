@@ -1,4 +1,4 @@
-> この記事は[!DJ](https://ja.wikipedia.org/wiki/!DJ)から翻訳されています。
+> この記事は[飛び出せ!全国DJ諸君](https://ja.wikipedia.org/wiki/飛び出せ!全国DJ諸君)から翻訳されています。
 
 
 **飛び出せ\!全国DJ諸君**（とびだせ\!ぜんこくディージェイしょくん）は、[1974年](../Page/1974年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")まで[地方民間放送共同制作協議会](../Page/地方民間放送共同制作協議会.md "wikilink")（火曜会）に加盟する民放ラジオ局で、ナイターオフ期に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。また火曜会非加盟の[ニッポン放送](../Page/ニッポン放送.md "wikilink")でも、『[大入りダイヤルまだ宵の口](../Page/大入りダイヤルまだ宵の口.md "wikilink")』に内包される形で放送されていた時期がある。

@@ -1,4 +1,4 @@
-> この記事は[Kissin\' Christmas \(\)](https://ja.wikipedia.org/wiki/Kissin\'_Christmas_\(\))から翻訳されています。
+> この記事は[Kissin\' Christmas \(クリスマスだからじゃない\)](https://ja.wikipedia.org/wiki/Kissin\'_Christmas_\(クリスマスだからじゃない\))から翻訳されています。
 
 
 「**Kissin' Christmas (クリスマスだからじゃない)**」（キッシン・クリスマス-）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink") & His Friendsの楽曲。作詞・[松任谷由実](../Page/松任谷由実.md "wikilink")、作曲・桑田佳祐、編曲・[KUWATA BAND](../Page/KUWATA_BAND.md "wikilink")。

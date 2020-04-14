@@ -1,4 +1,4 @@
-> この記事は[TODAY](https://ja.wikipedia.org/wiki/TODAY)から翻訳されています。
+> この記事は[ドラゴンズTODAY](https://ja.wikipedia.org/wiki/ドラゴンズTODAY)から翻訳されています。
 
 
 『**ドラゴンズTODAY**』（ドラゴンズトゥデイ）は、[東海テレビが放送しているプロ野球チーム](../Page/東海テレビ放送.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に関する[ミニ番組](../Page/ミニ番組.md "wikilink")。
@@ -43,4 +43,4 @@
   - [野球道 (フジテレビ系列)](../Page/野球道_\(フジテレビ系列\).md "wikilink")
   - [FNN東海テレニュース](../Page/FNN東海テレニュース.md "wikilink")
 
-[Category:東海テレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海テレビの帯番組 "wikilink") [Category:東海テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのスポーツ番組 "wikilink") [Category:東海テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海テレビの情報・ワイドショー番組 "wikilink") [Category:東海テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのミニ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink")
+[Category:東海テレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海テレビの帯番組 "wikilink") [Category:東海テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのスポーツ番組 "wikilink") [Category:東海テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海テレビの情報・ワイドショー番組 "wikilink") [Category:東海テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのミニ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink")

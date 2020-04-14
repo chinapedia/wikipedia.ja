@@ -1,4 +1,4 @@
-> この記事は[HLB](https://ja.wikipedia.org/wiki/HLB)から翻訳されています。
+> この記事は[HLB値](https://ja.wikipedia.org/wiki/HLB値)から翻訳されています。
 
 
 **HLB値**(エイチエルビーち)とは[界面活性剤](../Page/界面活性剤.md "wikilink")の[水](../Page/水.md "wikilink")と[油](../Page/油.md "wikilink")(水に不溶性の[有機化合物](../Page/有機化合物.md "wikilink"))への親和性の程度を表す値である。 HLBは**Hydrophilic-Lipophilic Balance**の頭文字を取ったものである。 日本語訳としては**親水親油バランス**という語があるがあまり使用されていない。

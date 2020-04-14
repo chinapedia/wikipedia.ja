@@ -3,7 +3,7 @@
 
 **THE BLUE HEARTS**（ザ・ブルーハーツ）は、日本の[パンク・ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")し、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")前半にかけて活動し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。
 
-ヒット曲は「[リンダリンダ](../Page/リンダリンダ.md "wikilink")」「[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")」「[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")」「[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink") 」など\[1\]。コード進行は3、4コードを主としたシンプルなものが多いにもかかわらず、オリジナリティ溢れる楽曲を多く作り上げた。
+ヒット曲は「[リンダリンダ](../Page/リンダリンダ.md "wikilink")」「[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")」「[情熱の薔薇](../Page/情熱の薔薇.md "wikilink")」「[夢](../Page/夢_\(THE_BLUE_HEARTSの曲\).md "wikilink")」など\[1\]。コード進行は3、4コードを主としたシンプルなものが多いにもかかわらず、オリジナリティ溢れる楽曲を多く作り上げた。
 
 「ブルーハーツ」というバンド名の由来は、[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")によると「意味は無く、誰もが呼びやすい小学生でもわかるような英語で、バンドの音楽性が見えないような名前」だからつけたと言う。他のバンド名候補として「昨日悲ベッツ」等があった。\[2\]
 
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   -
-    愛称はリュースケ。1986年3月に脱退しているが、1985年に無料配布されたソノシート「1985」で彼の演奏を聴く事が可能である(「1985」はベストアルバム『SUPER BEST』に収録されている)。その他、彼が演奏する音源は比較的現存している。また、映像としては「ブルーハーツが聴こえない〜HISTORY OF THE BLUE HEARTS」の1985年の映像は1985年12月24日都立家政スーパーロフト にて行われたTHE BLUE HEARTS初のワンマンライブ「世界一のクリスマス」であり、英がドラムをたたいているのも微かに確認することができる。また、同ライブでは、甲本が「[ブルーハーツより愛をこめて](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」前のМCでは英の名前をあげている。ブルーハーツ脱退後は[中村あゆみ](../Page/中村あゆみ.md "wikilink")や[織田哲郎](../Page/織田哲郎.md "wikilink")のバックバンドやスタジオミュージシャンとして活躍。損害保険の調査員、トラックやタクシーのドライバー等を経験したのちホテルなどで馬車を運行する会社を立ち上げる。2017年1月、白血病にて他界。
+    愛称はリュースケ。1986年3月に脱退しているが、1985年に無料配布されたソノシート「1985」で彼の演奏を聴く事が可能である(「1985」はベストアルバム『SUPER BEST』に収録されている)。その他、彼が演奏する音源は比較的現存している。また、映像としては「ブルーハーツが聴こえない〜HISTORY OF THE BLUE HEARTS」の1985年の映像は1985年12月24日都立家政スーパーロフト にて行われたTHE BLUE HEARTS初のワンマンライブ「世界一のクリスマス」であり、英がドラムをたたいているのも微かに確認することができる。また、同ライブでは、甲本が「[ブルーハーツより愛をこめて](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」前のMCでは英の名前をあげている。ブルーハーツ脱退後は[中村あゆみ](../Page/中村あゆみ.md "wikilink")や[織田哲郎](../Page/織田哲郎.md "wikilink")のバックバンドやスタジオミュージシャンとして活動。損害保険の調査員、トラックやタクシーのドライバー等を経験したのち、ホテルなどで馬車を運行する会社を立ち上げる。2017年1月、白血病にて他界。
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@
 <!-- end list -->
 
   -
-    ON TOUR 1989（1989年5月3日 - 同31日）から解散するまでの間、[ライブと](../Page/演奏会.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")でキーボードを担当。真島の友人であった杉浦逸生の紹介でブルーハーツに参加。サポートでありながら、アルバム『[HIGH KICKS](../Page/HIGH_KICKS.md "wikilink")』の歌詞カードでは顔写真付きで紹介されたり、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』にブルーハーツが出演した際は、演奏のみならずスタジオトークにもメンバーと共に並んで出演していたり、ライブ時には甲本ヒロトから5人目の仲間として紹介されるなど、ブルーハーツの中では正式なメンバーとしての意識があった。伝説のバンド[めんたんぴん](https://ja.wikipedia.org/wiki/めんたんぴん "wikilink")のメンバー（第4期-）で、[浅川マキ](../Page/浅川マキ.md "wikilink")や[南正人](../Page/南正人.md "wikilink")のバックを務めた事もある実力派だが、ピアノは全くの独学で、「ギターコードを鍵盤に乗せただけ」と、ファンクラブの会報で答えている。後の[THE HIGH-LOWSでも正式メンバーとして活躍し](../Page/THE_HIGH-LOWS.md "wikilink")、2003年に同バンドを脱退した。
+    ON TOUR 1989（1989年5月3日 - 同31日）から解散するまでの間、[ライブと](../Page/演奏会.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")でキーボードを担当。真島の友人であった杉浦逸生の紹介でブルーハーツに参加。サポートでありながら、アルバム『[HIGH KICKS](../Page/HIGH_KICKS.md "wikilink")』の歌詞カードでは顔写真付きで紹介されたり、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』にブルーハーツが出演した際は、演奏のみならずスタジオトークにもメンバーと共に並んで出演していたり、ライブ時には甲本ヒロトから5人目の仲間として紹介されるなど、ブルーハーツの中では正式なメンバーとしての意識があった。伝説のバンド[めんたんぴん](https://ja.wikipedia.org/wiki/めんたんぴん "wikilink")のメンバー（第4期-）で、[浅川マキ](../Page/浅川マキ.md "wikilink")や[南正人](../Page/南正人.md "wikilink")のバックを務めた事もある実力派だが、ピアノは全くの独学で、「ギターコードを鍵盤に乗せただけ」と、ファンクラブの会報で答えている。後の[THE HIGH-LOWSでも正式メンバーとして活動し](../Page/THE_HIGH-LOWS.md "wikilink")、2003年に同バンドを脱退した。
 
 ## 来歴
 
@@ -115,11 +115,11 @@
 
 ## 解散
 
-解散当時に発売された音楽誌『バンドやろうぜ』の編集局[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")によると、「河口が宗教（[幸福の科学](../Page/幸福の科学.md "wikilink")）に没頭し、[スタッフ](../Page/スタッフ.md "wikilink")や[ファン](../Page/ファン.md "wikilink")を勧誘したことに甲本と真島が怒ったために解散に至った」とされている。しかし、甲本がのちに音楽誌に語った内容では「バンドを続けるにはある程度の演奏技術が必要。それがあのメンバーでは出せないから解散した」となっている。他にも雑誌『[VIEWS](https://ja.wikipedia.org/wiki/VIEWS "wikilink")』の[インタビュー](../Page/インタビュー.md "wikilink")で、甲本は当初は解散ではなく、自分がバンドを抜けるつもりだったとのこと。その理由に言及していないが、あの時甲本が言い出さなければ自分が抜けていたと、のちに真島が語っている。凸凹ツアー中の宿泊先の[ホテル](../Page/ホテル.md "wikilink")で、メンバーひとりひとりと話し合い、「甲本が抜けるなら解散」→「でもまたあとで再結成というのも恥ずかしいのでひとまず活動休止」ということとなった。
+解散当時に発売された音楽誌『バンドやろうぜ』の編集局[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")によると、「河口が宗教（[幸福の科学](../Page/幸福の科学.md "wikilink")）に没頭し、スタッフやファンを勧誘したことに甲本と真島が怒ったために解散に至った」とされている。しかし、甲本がのちに音楽誌に語った内容では「バンドを続けるにはある程度の演奏技術が必要。それがあのメンバーでは出せないから解散した」となっている。他にも雑誌『[VIEWS](https://ja.wikipedia.org/wiki/VIEWS "wikilink")』の[インタビュー](../Page/インタビュー.md "wikilink")で、甲本は当初は解散ではなく、自分がバンドを抜けるつもりだったとのこと。その理由に言及していないが、あの時甲本が言い出さなければ自分が抜けていたと、のちに真島が語っている。凸凹ツアー中の宿泊先のホテルで、メンバーひとりひとりと話し合い、「甲本が抜けるなら解散」→「でもまたあとで再結成というのも恥ずかしいのでひとまず活動休止」ということとなった。
 
-活動休止中に甲本は別バンド「[ヒューストンズ](../Page/ヒューストンズ.md "wikilink")」、真島はソロ、梶原はドラマーズなどで活動。結局は解散を最終決定するも、[レコード会社](../Page/レコード会社.md "wikilink")との[契約](../Page/契約.md "wikilink")がまだ残っていたために、アルバムを一枚出す必要性に迫られた。ラストアルバム『PAN』がブルーハーツ名義にもかかわらず、中身がブルーハーツではない（ソロの楽曲の寄せ集め）のはそのため。そして[NHK-FMミュージックスクエアで](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")「今後の予定は？」と聞かれて「解散です」と突然の解散発表。それから10年。2005年あたりから、元メンバーが公の場に揃って姿を見せるなど、再び交流が活発化している。
+活動休止中に甲本は別バンド「[ヒューストンズ](../Page/ヒューストンズ.md "wikilink")」、真島はソロ、梶原はドラマーズなどで活動。結局は解散を最終決定するも、レコード会社との契約がまだ残っていたために、アルバムを一枚出す必要性に迫られた。ラストアルバム『PAN』がブルーハーツ名義にもかかわらず、中身がブルーハーツではない（ソロの楽曲の寄せ集め）のはそのため。そして[NHK-FMミュージックスクエアで](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")「今後の予定は？」と聞かれて「解散です」と突然の解散発表。それから10年。2005年あたりから、元メンバーが公の場に揃って姿を見せるなど、再び交流が活発化している。
 
-このラジオ番組で行われた解散宣言の前に届いていたブルーハーツ集団（ファンクラブ）会報誌「BLUE-PARTS」には、号外として今回のラジオ出演の告知があり、「放送内で解散宣言をします」と明記されていた。1995年1月1日号には、「ブルーハーツ集団、解散」の告知があった。甲本はこの時、「ずっと続いているものを一旦リセットしたいと思って」と話していた。
+このラジオ番組で行われた解散宣言の前に届いていたブルーハーツ集団（ファンクラブ）会報誌「BLUE-PARTS」には、号外として今回のラジオ出演の告知があり、「放送内で解散宣言をします」と明記されていた。1995年1月1日号には「ブルーハーツ集団、解散」の告知があった。甲本はこの時に「ずっと続いているものを一旦リセットしたいと思って」と話していた。
 
 ### その後
 
@@ -352,16 +352,16 @@
 
 #### カセットテープ
 
-  - １st～3rdアルバム（正規品）　　　メルダック
+  - 1st～3rdアルバム（正規品）　　　メルダック
   - 4th～8thアルバム（8thは非売品）-イーストウエスト・ジャパン
   - 1st～6th?シングル-メルダック・イーストウエスト・ジャパン
-  - THE BLUE HEARTSオリジナルカラオケⅠ～Ⅳ-メルダック
+  - THE BLUE HEARTSオリジナルカラオケI～IV -メルダック
   - 1stアルバムのプロモーションテープ（非売品）
-  - ＢＬＡＳＴ　ＯＦＦ\!　と　THE BLUE HEARTS
-      - ＵＳＡツアー時に販売したテープ
-  - 　ブルーハーツのしおり
-      - 書籍のブルーハーツのしおりを買い、応募券を送ったら先着１００００名でもらえた。
-  - その他、インディーズ時代にライブ後に自主製作で売っていたものなど
+  - BLAST OFF\!　と　THE BLUE HEARTS
+      - USAツアー時に販売したテープ
+  - ブルーハーツのしおり
+      - 書籍のブルーハーツのしおりを買い、応募券を送ると先着10,000名に贈られた。
+  - その他、インディーズ時代にライブ後に自主製作で売っていたものなど。
 
 ## 関連商品
 
@@ -414,7 +414,7 @@ NONONO(コーツ時代の曲)
 
 僕はここに立っているよ
 
-レストラン |- |6/7 新宿ロフト |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |6/8 原宿クロコダイル |- | rowspan="2" | |6/17 江東区文化センター | rowspan="4" | |- |6/24 渋谷屋根裏 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |7/７ 渋谷屋根裏 |- | rowspan="6" | |7/19 新宿ジャム |- |7/25　新宿ロフト |「レストラン」の間奏時にメンバー紹介をしようとするも、８小節しかなかったので失敗した。 | |- |7/28 [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")小ホール | | rowspan="9" |終わらない歌 パンクロック
+レストラン |- |6/7 新宿ロフト |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |6/8 原宿クロコダイル |- | rowspan="2" | |6/17 江東区文化センター | rowspan="4" | |- |6/24 渋谷屋根裏 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |7/7 渋谷屋根裏 |- | rowspan="6" | |7/19 新宿ジャム |- |7/25　新宿ロフト |「レストラン」の間奏時にメンバー紹介をしようとするも、8小節しかなかったので失敗した。 | |- |7/28 [日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")小ホール | | rowspan="9" |終わらない歌 パンクロック
 
 スクラップ
 
@@ -423,51 +423,45 @@ NONONO(コーツ時代の曲)
 ダンスナンバー
 
 僕はどこへいった
-|- |8/10 新宿ジャム |河口、初ライブ |- |8/17 渋谷屋根裏 | rowspan="4" | |- |9/6 渋谷屋根裏 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") SPECIAL |9/29 新宿ロフト |- | rowspan="2" | |10/17 新宿ロフト |- |10/26　渋谷屋根裏 |GAS、[アールチューカー](https://ja.wikipedia.org/wiki/アールチューカー "wikilink")と対バン。 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |11/3 [早稲田大学](../Page/早稲田大学.md "wikilink") | |- | rowspan="2" | |11/24　[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink") |TRASHと対バン。 |- |11/30　渋谷屋根裏 | rowspan="3" | |街(曲名が決まったのは12/24) |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |12/7 渋谷屋根裏 | rowspan="2" | |- | |12/10 [法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink") |- |**世界一のクリスマス１９８５** |12/24 [都立家政スーパーロフトＫＩＮＤＯ](../Page/ロフト_\(ライブハウス\).md "wikilink") |ブルーハーツ初のワンマンライブ。256人動員。 幻のソノシート、「[１９８５](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」を配布。
+|- |8/10 新宿ジャム |河口、初ライブ |- |8/17 渋谷屋根裏 | rowspan="4" | |- |9/6 渋谷屋根裏 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") SPECIAL |9/29 新宿ロフト |- | rowspan="2" | |10/17 新宿ロフト |- |10/26　渋谷屋根裏 |GAS、[アールチューカー](https://ja.wikipedia.org/wiki/アールチューカー "wikilink")と対バン。 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |11/3 [早稲田大学](../Page/早稲田大学.md "wikilink") | |- | rowspan="2" | |11/24　[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink") |TRASHと対バン。 |- |11/30　渋谷屋根裏 | rowspan="3" | |街(曲名が決まったのは12/24) |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |12/7 渋谷屋根裏 | rowspan="2" | |- | |12/10 [法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink") |- |**世界一のクリスマス1985** |12/24 [都立家政スーパーロフトKINDO](../Page/ロフト_\(ライブハウス\).md "wikilink") |ブルーハーツ初のワンマンライブ。256人動員。 幻のソノシート、「[1985](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」を配布。
 
-「１９８５」はこの日が最後の演奏となった。
+「1985」はこの日が最後の演奏となった。
 
 これまで無題だった「街」に曲名がついた。
 
 ブルーハーツとしては最初で最後のカバー曲を演奏した。 |未来は僕等の手の中 ブルーハーツより愛をこめて
 
-White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |12/31 渋谷屋根裏 |オールナイト。 | rowspan="14" |チェインギャング
+White Xmas |- |ヤネウラ10周年記念[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |12/31 渋谷屋根裏 |オールナイト。 | rowspan="14" |チェインギャング
 
 ほんの少しだけ
 
 窓をあけよう
 
-爆弾が落っこちるとき |- | |不明 結婚式場 |真島の知りあいの結婚式に参加。 「君のため」と「ロマンチック」を演奏した。 |- | rowspan="50" |１９８６年 |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |1/11　　新宿ロフト | rowspan="2" | |- | rowspan="3" | |1/16　　渋谷屋根裏 |- |2/7　　　新宿ロフト |ブルーズ、SHUFFLEと対バン。 |- |2/16　　[都立家政スーパーロフトＫＩＮＤＯ](../Page/ロフト_\(ライブハウス\).md "wikilink") |ドラムの英が脱退。かわりに佐藤シンイチロウが加入。 [GASTUNK](../Page/GASTUNK.md "wikilink")と対バン |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |3/8　　　渋谷屋根裏 |ライブアルバム、[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") の収録があった。 |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |3/20　　渋谷東映 |オールナイト。唯一のアマチュアバンド出演だった。 |- |[BLIGHT LIGHTS BEAT CITY](https://ja.wikipedia.org/wiki/BLIGHT_LIGHTS_BEAT_CITY "wikilink") |3/21　　[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") | rowspan="3" | |- | |4/2　　　渋谷屋根裏 |- |ULTRA　MUSIC SHOW |4/9　　　法政大学 |- | rowspan="2" | |4/19　　都立家政スーパーロフトKINDO |梶原、初ライブ。 テレビ東京の「SUPER MAGAZINE すばらしき人生」の取材がある。 |- |4/28　　新宿ロフト |THE LOODS、UNIONとの対バン。 |- |GANG STAGE |5/8　　　新宿ツバキハウス |ゲスト出演。 |- |**人にやさしく** |6/9　　　目黒鹿鳴館 |ワンマンライブ。489人動員。 特製のブルーハーツバッジがプレゼントされる。
+爆弾が落っこちるとき |- | |不明 結婚式場 |真島の知りあいの結婚式に参加。 「君のため」と「ロマンチック」を演奏した。 |- | rowspan="50" |1986年 |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |1/11　　新宿ロフト | rowspan="2" | |- | rowspan="3" | |1/16　　渋谷屋根裏 |- |2/7　　　新宿ロフト |ブルーズ、SHUFFLEと対バン。 |- |2/16　　[都立家政スーパーロフトKINDO](../Page/ロフト_\(ライブハウス\).md "wikilink") |ドラムの英が脱退。かわりに佐藤シンイチロウが加入。 [GASTUNK](../Page/GASTUNK.md "wikilink")と対バン |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |3/8　　　渋谷屋根裏 |ライブアルバム、[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") の収録があった。 |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル |3/20　　渋谷東映 |オールナイト。唯一のアマチュアバンド出演だった。 |- |[BLIGHT LIGHTS BEAT CITY](https://ja.wikipedia.org/wiki/BLIGHT_LIGHTS_BEAT_CITY "wikilink") |3/21　　[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") | rowspan="3" | |- | |4/2　　　渋谷屋根裏 |- |ULTRA　MUSIC SHOW |4/9　　　法政大学 |- | rowspan="2" | |4/19　　都立家政スーパーロフトKINDO |梶原、初ライブ。 テレビ東京の『SUPER MAGAZINE すばらしき人生』の取材がある。 |- |4/28　　新宿ロフト |THE LOODS、UNIONとの対バン。 |- |GANG STAGE |5/8　　　新宿ツバキハウス |ゲスト出演。 |- |**人にやさしく** |6/9　　　目黒鹿鳴館 |ワンマンライブ。489人動員。 特製のブルーハーツバッジがプレゼントされる。
 
-「僕はどこへいった」、「幸せのブルース」は、この日が最後の演奏となった。 |幸せのブルース |- |BIG BANG CELEBRATION |6/22　　日比谷野外音楽堂 |マル秘ゲストとして[喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")、[じゃがたらが出演](../Page/JAGATARA.md "wikilink")。 | rowspan="18" |裸の王様 |- | rowspan="5" |**韋駄天ロックツアー** |6/24　　名古屋バックフィン | rowspan="5" |[THE LONDON TIMES](https://ja.wikipedia.org/wiki/THE_LONDON_TIMES "wikilink")、TRASHとの３バンドで各地をまわった。 |- |6/25　　京都磔々 |- |6/26　　大阪エッグプラント |- |6/27　　浜松ホットレッグス |- |7/1　　　代々木LAZY-WAYS |- | rowspan="3" | |7/6　　　渋谷LIVE INN | |- |7/12　　ツクバ２９Ｂａｒ |[KENZI](https://ja.wikipedia.org/wiki/KENZI "wikilink")、ルーズとの対バン。 |- |7/13　　新宿ロフト |[THE LONDON TIMESとの対バン](https://ja.wikipedia.org/wiki/THE_LONDON_TIMES "wikilink")。 |- |KNOCK ON THE WAVE |7/23　　新宿ツバキハウス |プライベーツ、[レピッシュ](../Page/レピッシュ.md "wikilink")らとの対バン。 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |7/26　　渋谷LIVE INN | |- | |7/27 原宿歩行者天国 |甲本と真島、ブルーハーツの元メンバーの[山川のりを](https://ja.wikipedia.org/wiki/山川のりを "wikilink")、[コレクターズの](../Page/ザ・コレクターズ.md "wikilink")[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")の4人で「ファミリーマーツ」というバンドで演奏した。 |- |秋田ロックシティカーニバル |8/1　　　[秋田県立野球場](../Page/秋田県立野球場.md "wikilink") |[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")、[UP-BEAT](../Page/UP-BEAT.md "wikilink") 、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、[THE STREET SLIDERSとの対バン](../Page/ECHOES.md "wikilink")。 |- | |8/20　　[近鉄劇場](../Page/近鉄劇場.md "wikilink") |[レピッシュ](../Page/レピッシュ.md "wikilink")、[パパイヤパラノイヤらとの対バン](../Page/パパイヤパラノイア.md "wikilink")。 |- |デュカス セレクション |8/22　　新宿ロフト |ミシン、人生、ベーターズ、ミッキーピクニック、UNIONとの対バン。 |- | rowspan="3" | |8/24　　[渋谷屋根裏](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink") |8月31日の渋谷屋根裏の閉店のためのライブ。
+「僕はどこへいった」、「幸せのブルース」は、この日が最後の演奏となった。 |幸せのブルース |- |BIG BANG CELEBRATION |6/22　　日比谷野外音楽堂 |マル秘ゲストとして[喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")、[じゃがたらが出演](../Page/JAGATARA.md "wikilink")。 | rowspan="18" |裸の王様 |- | rowspan="5" |**韋駄天ロックツアー** |6/24　　名古屋バックフィン | rowspan="5" |[THE LONDON TIMES](https://ja.wikipedia.org/wiki/THE_LONDON_TIMES "wikilink")、TRASHとの3バンドで各地をまわった。 |- |6/25　　京都磔々 |- |6/26　　大阪エッグプラント |- |6/27　　浜松ホットレッグス |- |7/1　　　代々木LAZY-WAYS |- | rowspan="3" | |7/6　　　渋谷LIVE INN | |- |7/12　　ツクバ29Bar |[KENZI](https://ja.wikipedia.org/wiki/KENZI "wikilink")、ルーズとの対バン。 |- |7/13　　新宿ロフト |[THE LONDON TIMESとの対バン](https://ja.wikipedia.org/wiki/THE_LONDON_TIMES "wikilink")。 |- |KNOCK ON THE WAVE |7/23　　新宿ツバキハウス |プライベーツ、[レピッシュ](../Page/レピッシュ.md "wikilink")らとの対バン。 |- |[JUST A BEAT SHOW](../Page/JUST_A_BEAT_SHOW.md "wikilink") |7/26　　渋谷LIVE INN | |- | |7/27 原宿歩行者天国 |甲本と真島、ブルーハーツの元メンバーの[山川のりを](https://ja.wikipedia.org/wiki/山川のりを "wikilink")、[コレクターズの](../Page/ザ・コレクターズ.md "wikilink")[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")の4人で「ファミリーマーツ」というバンドで演奏した。 |- |秋田ロックシティカーニバル |8/1　　　[秋田県立野球場](../Page/秋田県立野球場.md "wikilink") |[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")、[UP-BEAT](../Page/UP-BEAT.md "wikilink")、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、[THE STREET SLIDERSとの対バン](../Page/ECHOES.md "wikilink")。 |- | |8/20　　[近鉄劇場](../Page/近鉄劇場.md "wikilink") |[レピッシュ](../Page/レピッシュ.md "wikilink")、[パパイヤパラノイヤらとの対バン](../Page/パパイヤパラノイア.md "wikilink")。 |- |デュカス セレクション |8/22　　新宿ロフト |ミシン、人生、ベーターズ、ミッキーピクニック、UNIONとの対バン。 |- | rowspan="3" | |8/24　　[渋谷屋根裏](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink") |8月31日の渋谷屋根裏の閉店のためのライブ。
 
-「終わらない歌」の歌詞の一部を「終わらない歌を歌おう　屋根裏のために」と変えて歌った。 |- |9/17　　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") | rowspan="2" | |- |9/29　　ツクバ２９Ｂａｒ |- |**ワン･ツー･パンチ！！** |10/1　　渋谷LIVE INN |ワンマンライブ。711人動員。 |陽のあたる場所 おやすみなさい |- | rowspan="3" | |10/14 　[宮城県民会館](../Page/宮城県民会館.md "wikilink") | | rowspan="15" | |- |10/17 　渋谷ラ･ママ |この日の4曲目の「裸の王様」は、冒頭部分の演奏がなかった。 |- |10/18 　[横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") | |- | rowspan="3" |**東北ツアー(ロックシティスペシャル'８６)** |10/20　 [山形県民会館](../Page/山形県県民会館.md "wikilink") | rowspan="3" |[THE STREET SLIDERS](../Page/ECHOES.md "wikilink")、[UP-BEAT](../Page/UP-BEAT.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、[LAUGHIN' NOSEらとの対バン](../Page/LAUGHIN'_NOSE.md "wikilink")。 |- |10/21 　[秋田県民会館](../Page/秋田県民会館.md "wikilink") |- |10/22 　[郡山市民センター](https://ja.wikipedia.org/wiki/郡山市民センター "wikilink") |- | |10/25　 [栃木会館](https://ja.wikipedia.org/wiki/栃木会館 "wikilink") |[THE STREET SLIDERS](../Page/ECHOES.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、SHAKES、[湯江健幸](https://ja.wikipedia.org/wiki/湯江健幸 "wikilink")との対バン。 |- |むつめ祭 |11/1　 　[埼玉大学](../Page/埼玉大学.md "wikilink") | rowspan="2" | |- |WORST CHOICE／ROCK OUT FES |11/2　　 [駒澤大学](../Page/駒澤大学.md "wikilink")/[明治大学](../Page/明治大学.md "wikilink") |- |勇気ある子供たちのクーデター宣言／ぶっとばせ豆電球 |11/3　　[早稲田大学](../Page/早稲田大学.md "wikilink") |当時の写真などによるとイベント名は、「○○のない子供達のクーデター宣言！」となっている。\[7\](○○は、読み取り不可) |- | |11/8　　[横浜国立大学](../Page/横浜国立大学.md "wikilink") | rowspan="2" | |- |ULTRA　MUSIC SHOW |11/9 　[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink") |- |**ワン･ツー･パンチ！！第二弾** |11/27　 [豊島公会堂](../Page/豊島公会堂.md "wikilink") |ワンマンライブ。979人動員。 オープニングは[365歩のマーチ](https://ja.wikipedia.org/wiki/365歩のマーチ "wikilink")。 |- | rowspan="2" | |12/1　 横浜セブンスアベニュー | rowspan="2" | |- |12/23　 大宮フリークス |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル･ファイナル'８６ |12/28 　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") |「１９８５」がオープニングで流される。 |ロクデナシ 世界のまん中 |- | rowspan="2" | |12/30　 豊橋かごやホール | rowspan="8" | | rowspan="9" | |- |12/31　 名古屋ハートホール |- | rowspan="105" |１９８７年 | rowspan="32" |**ハンマーツアー'８７** |1/6　　　横浜セブンスアベニュー |- |1/30　　大宮フリークス |- |2/1 水戸サントピア |- |2/2 前橋ラタン |- |2/4　　　筑波２９BAR |- |2/7　　　千葉ダンシングマザー |- |2/11　　[横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") |「街」を演奏中にギターアンプが外れるというトラブルがあり、一時ギター抜きでの演奏となった。 |- |2/13　　豊川かごやハウス | rowspan="23" | | rowspan="23" |チューイングガムをかみながら |- |2/15　　静岡モッキンバード |- |2/16　　[名古屋ハートランド](https://ja.wikipedia.org/wiki/名古屋ハートランド "wikilink") |- |2/17　　大阪バーボンハウス |- |2/18　　京都ビッグバン |- |2/20 博多ビブレホール |- |2/21 広島WOODY STREET |- |2/22　　岡山ロフト |- |2/25　　山形昭和ホール |- |2/26　　仙台ダックシティ |- |2/27　　[福島県文化センター](https://ja.wikipedia.org/wiki/福島県文化センター "wikilink") |- |2/28　　秋田文化会館 |- |3/1 青森1/3 |- |3/3　　　札幌ペニーレイン |- |3/14 藤沢ボウ　 |- |3/17　 　豊橋かごやホール |- |3/18　　[梅田バナナホール](https://ja.wikipedia.org/wiki/大阪バナナホール "wikilink") |- |3/19　　名古屋雲竜ホール |- |3/20　　浦和市民会館 |- |3/22　　[福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |3/23　　熊本マツモトレコードホール |- |4/6 [横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") |- |4/13 札幌道新ホール |- |4/21　　[豊島公会堂](../Page/豊島公会堂.md "wikilink") | rowspan="2" |イベント名は「花祭」。 この2daysライブの初日は885人、2日目は1014人動員。
+「終わらない歌」の歌詞の一部を「終わらない歌を歌おう　屋根裏のために」と変えて歌った。 |- |9/17　　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") | rowspan="2" | |- |9/29　　ツクバ29Bar |- |**ワン･ツー･パンチ！！** |10/1　　渋谷LIVE INN |ワンマンライブ。711人動員。 |陽のあたる場所 おやすみなさい |- | rowspan="3" | |10/14 　[宮城県民会館](../Page/宮城県民会館.md "wikilink") | | rowspan="15" | |- |10/17 　渋谷ラ･ママ |この日の4曲目の「裸の王様」は、冒頭部分の演奏がなかった。 |- |10/18 　[横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") | |- | rowspan="3" |**東北ツアー(ロックシティスペシャル'86)** |10/20　 [山形県民会館](../Page/山形県県民会館.md "wikilink") | rowspan="3" |[THE STREET SLIDERS](../Page/ECHOES.md "wikilink")、[UP-BEAT](../Page/UP-BEAT.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、[LAUGHIN' NOSEらとの対バン](../Page/LAUGHIN'_NOSE.md "wikilink")。 |- |10/21 　[秋田県民会館](../Page/秋田県民会館.md "wikilink") |- |10/22 　[郡山市民センター](https://ja.wikipedia.org/wiki/郡山市民センター "wikilink") |- | |10/25　 [栃木会館](https://ja.wikipedia.org/wiki/栃木会館 "wikilink") |[THE STREET SLIDERS](../Page/ECHOES.md "wikilink")、[ECHOES](../Page/ECHOES.md "wikilink")、SHAKES、[湯江健幸](https://ja.wikipedia.org/wiki/湯江健幸 "wikilink")との対バン。 |- |むつめ祭 |11/1　 　[埼玉大学](../Page/埼玉大学.md "wikilink") | rowspan="2" | |- |WORST CHOICE／ROCK OUT FES |11/2　　 [駒澤大学](../Page/駒澤大学.md "wikilink")/[明治大学](../Page/明治大学.md "wikilink") |- |勇気ある子供たちのクーデター宣言／ぶっとばせ豆電球 |11/3　　[早稲田大学](../Page/早稲田大学.md "wikilink") |当時の写真などによるとイベント名は、「○○のない子供達のクーデター宣言！」となっている\[7\](○○は、読み取り不可)。 |- | |11/8　　[横浜国立大学](../Page/横浜国立大学.md "wikilink") | rowspan="2" | |- |ULTRA　MUSIC SHOW |11/9 　[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink") |- |**ワン･ツー･パンチ！！第二弾** |11/27　 [豊島公会堂](../Page/豊島公会堂.md "wikilink") |ワンマンライブ。979人動員。 オープニングは[365歩のマーチ](https://ja.wikipedia.org/wiki/365歩のマーチ "wikilink")。 |- | rowspan="2" | |12/1　 横浜セブンスアベニュー | rowspan="2" | |- |12/23　 大宮フリークス |- |[アトミック・カフェ](../Page/アトミック・カフェ.md "wikilink")・フェスティバル･ファイナル'86 |12/28 　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") |「1985」がオープニングで流される。 |ロクデナシ 世界のまん中 |- | rowspan="2" | |12/30　 豊橋かごやホール | rowspan="8" | | rowspan="9" | |- |12/31　 名古屋ハートホール |- | rowspan="105" |1987年 | rowspan="32" |**ハンマーツアー'87** |1/6　　　横浜セブンスアベニュー |- |1/30　　大宮フリークス |- |2/1 水戸サントピア |- |2/2 前橋ラタン |- |2/4　　　筑波29BAR |- |2/7　　　千葉ダンシングマザー |- |2/11　　[横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") |「街」を演奏中にギターアンプが外れるというトラブルがあり、一時ギター抜きでの演奏となった。 |- |2/13　　豊川かごやハウス | rowspan="23" | | rowspan="23" |チューイングガムをかみながら |- |2/15　　静岡モッキンバード |- |2/16　　[名古屋ハートランド](https://ja.wikipedia.org/wiki/名古屋ハートランド "wikilink") |- |2/17　　大阪バーボンハウス |- |2/18　　京都ビッグバン |- |2/20 博多ビブレホール |- |2/21 広島WOODY STREET |- |2/22　　岡山ロフト |- |2/25　　山形昭和ホール |- |2/26　　仙台ダックシティ |- |2/27　　[福島県文化センター](https://ja.wikipedia.org/wiki/福島県文化センター "wikilink") |- |2/28　　秋田文化会館 |- |3/1 青森1/3 |- |3/3　　　札幌ペニーレイン |- |3/14 藤沢ボウ　 |- |3/17　 　豊橋かごやホール |- |3/18　　[梅田バナナホール](https://ja.wikipedia.org/wiki/大阪バナナホール "wikilink") |- |3/19　　名古屋雲竜ホール |- |3/20　　浦和市民会館 |- |3/22　　[福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |3/23　　熊本マツモトレコードホール |- |4/6 [横浜市教育会館](https://ja.wikipedia.org/wiki/横浜市教育会館 "wikilink") |- |4/13 札幌道新ホール |- |4/21　　[豊島公会堂](../Page/豊島公会堂.md "wikilink") | rowspan="2" |イベント名は「花祭」。 この2daysライブの初日は885人、2日目は1,014人動員。
 
 初日は[The 5.6.7.8's](../Page/The_5.6.7.8's.md "wikilink")、元気バカ組、2日目は[ニューロティカ](../Page/ニューロティカ.md "wikilink")とUNIONがゲストに呼ばれた。
 
 豊島公会堂では9時までしか演奏できないのだが、[セットリスト](https://ja.wikipedia.org/wiki/セットリスト "wikilink")を変更し、アンコールを5曲歌った。
 
-ブルーハーツのファンクラブの会報第1号のトップには、このライブのフォトレポートが掲載された。 | |- |4/22　　[豊島公会堂](../Page/豊島公会堂.md "wikilink") |ラインを越えて キスしてほしい |- | rowspan="2" | |4/24　　神戸チキンジョージ | | rowspan="6" | |- |5/1　　　大阪バーボンハウス |シングル「リンダリンダ」発売日。 |- |BEAT UP THIS AGE |5/17　　[千葉市文化会館](../Page/千葉県文化会館.md "wikilink") |[ARB](https://ja.wikipedia.org/wiki/ARB "wikilink")などが出演。 |- | rowspan="10" | |6/4　横浜市西公会堂 | |- |6/22　　大阪御堂会館 | rowspan="2" | |- |6/23　　[京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink") |- |7/4　　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |ブルーハーツ、初めての野音でのワンマンライブ。 3382人動員。
+ブルーハーツのファンクラブの会報第1号のトップには、このライブのフォトレポートが掲載された。 | |- |4/22　　[豊島公会堂](../Page/豊島公会堂.md "wikilink") |ラインを越えて キスしてほしい |- | rowspan="2" | |4/24　　神戸チキンジョージ | | rowspan="6" | |- |5/1　　　大阪バーボンハウス |シングル「リンダリンダ」発売日。 |- |BEAT UP THIS AGE |5/17　　[千葉市文化会館](../Page/千葉県文化会館.md "wikilink") |[ARB](https://ja.wikipedia.org/wiki/ARB "wikilink")などが出演。 |- | rowspan="10" | |6/4　横浜市西公会堂 | |- |6/22　　大阪御堂会館 | rowspan="2" | |- |6/23　　[京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink") |- |7/4　　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |ブルーハーツ、初めての野音でのワンマンライブ。 3,382人動員。
 
-3ヶ月前に野音でおきた[ラフィンノーズのライブでの事故により](../Page/LAUGHIN'_NOSE.md "wikilink")、客の前におかれた柵や、大量に配置された警備員について
+3ヶ月前に野音でおきた[ラフィンノーズのライブでの事故により](../Page/LAUGHIN'_NOSE.md "wikilink")、客の前におかれた柵や、大量に配置された警備員について甲本が「動物園の柵」や「表には機動隊も待ってるから安心して騒げる」と批判し、リンダリンダの演奏前には、「どうやらこの鉄の檻は人の心までも縛れんようじゃな！ ざまあみろ！」と言った。この日が最初で最後の演奏となった涙の男は、この事故についての歌である。 |涙の男 ロクデナシII |- |7/10　　[名古屋芸術創造センター](https://ja.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink") | rowspan="23" | | rowspan="23" |遠くまで 英雄にあこがれて |- |7/12　　大宮フリークス |- |7/14　　岡山ロフト |- |7/14　　高知チャオホール |- |7/18　　松山ニューグランドビル |- |7/19 広島WOODY STREET |- |新潟NTTライブスペシャル VILING ROCK |7/21 　新潟 |- |？ |7/25　　札幌 |- |？ |7/26　　京都 |- |Beat Brast '87 |8/1 [大阪城公園](../Page/大阪城公園.md "wikilink")運動場 |- |New Kids on the Rocks |8/2　　　[名古屋城](../Page/名古屋城.md "wikilink")深井丸 |- |広島ピースコンサート(HIROSHIMA　87－97) |8/5　　　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |- |広島ピースコンサート(HIROSHIMA　87－97) |8/6　　　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |- |Rock'n Roll Olympic 1987 |8/9　　 スポーツランド菅生 |- |盛岡ロックシティカーニバル |8/15　　[岩手産業文化センター](https://ja.wikipedia.org/wiki/岩手産業文化センター "wikilink") |- |秋田ロックシティカーニバル |8/16　　秋田向浜県営サッカー・ラグビー場 |- |青森ロックシティカーニバル |8/18　　青森浅虫海岸ヨットハーバー |- |仙台ロックシティカーニバル |8/20　　仙台・泉パークタウンスポーツガーデン |- |[BEATCHILD1987](https://ja.wikipedia.org/wiki/BEAT_CHILD "wikilink") |8/22 熊本野外劇場アスペクタ |- | |9/18　　浦和市民会館 |- | |9/22　　沖縄スクランブル？ |- |沖縄うるま祭り |9/23　　？ |- | rowspan="3" | |9/26　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |- |9/27　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |「窓をあけよう」、「ほんの少しだけ」、「ブルーハーツより愛をこめて」は、この日の演奏が最後となった。 |星をください |- |9/30　　川崎産業会館 | rowspan="11" | | rowspan="31" | |- | rowspan="40" |**ドブネズミツアー** |10/1　　[前橋市民文化会館](../Page/前橋市民文化会館.md "wikilink") |- |10/2 平塚市民文化センター |- |10/10　 大阪御堂会館 |- |10/15　 京都勤労会館 |- |10/16　 [浜松福祉文化会館](https://ja.wikipedia.org/wiki/浜松市福祉文化会館 "wikilink") |- |10/20　 福岡都久志会館 |- |10/21　 長崎平和会館 |- |10/23　 [鹿児島市民文化小ホール](../Page/鹿児島市民文化ホール.md "wikilink") |- |10/24　 大分農業会館 |- |10/26 　熊本郵便貯金会館 |- |11/1 [早稲田大学](../Page/早稲田大学.md "wikilink") |学園祭。 |- |11/2　　[明治大学](../Page/明治大学.md "wikilink") |学園祭。 |- |11/3　　[駒澤大学](../Page/駒澤大学.md "wikilink") |学園祭。 |- |11/5 [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink") | rowspan="17" | |- |11/7　　[津田塾大学](../Page/津田塾大学.md "wikilink") |- |11/9　　新潟県民小ホール |- |11/10　 新潟県民小ホール |- |11/12　 福井県民会館 |- |11/13 　石川県教育会館 |- |11/18 　藤沢市民会館 |- |11/19　 [愛知勤労会館](https://ja.wikipedia.org/wiki/愛知県勤労会館 "wikilink") |- |11/20 　広島見真講堂 |- |11/24 　仙台電力ホール |- |11/30 　水戸市民会館 |- |12/1 [八王子市民会館](../Page/八王子市民会館.md "wikilink") |- |12/3 帯広市勤労者福祉センター |- |12/4　　 旭川市studio9 |- |12/5 北海道新ホール |- |12/8 秋田産業会館 |- |12/9 [青森市民ホール](../Page/青森市民ホール.md "wikilink") |- |12/10　　弘前市文化センター |「「ブルーハーツの友」スペシャル第二弾」によればこの日、「星空」という新曲が披露された\[8\]。 |青空
 
-甲本が「動物園の柵」や「表には機動隊も待ってるから安心して騒げる」と批判し、リンダリンダの演奏前には、
-
-「どうやらこの鉄の檻は人の心までも縛れんようじゃな！ざまあみろ！」と言った。
-
-この日が最初で最後の演奏となった涙の男は、この事故についての歌である。 |涙の男 ロクデナシⅡ |- |7/10　　[名古屋芸術創造センター](https://ja.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink") | rowspan="23" | | rowspan="23" |遠くまで 英雄にあこがれて |- |7/12　　大宮フリークス |- |7/14　　岡山ロフト |- |7/14　　高知チャオホール |- |7/18　　松山ニューグランドビル |- |7/19 広島WOODY STREET |- |新潟ＮＴＴライブスペシャル　ＶＩＬＩＮＧ　ＲＯＣＫ |7/21 　新潟 |- |？ |7/25　　札幌 |- |？ |7/26　　京都 |- |Beat Brast '87 |8/1 [大阪城公園](../Page/大阪城公園.md "wikilink")運動場 |- |New Kids on the Rocks |8/2　　　[名古屋城](../Page/名古屋城.md "wikilink")深井丸 |- |広島ピースコンサート(HIROSHIMA　87－97) |8/5　　　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |- |広島ピースコンサート(HIROSHIMA　87－97) |8/6　　　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |- |Rock'n Roll Olympic 1987 |8/9　　 スポーツランド菅生 |- |盛岡ロックシティカーニバル |8/15　　[岩手産業文化センター](https://ja.wikipedia.org/wiki/岩手産業文化センター "wikilink") |- |秋田ロックシティカーニバル |8/16　　秋田向浜県営サッカー・ラグビー場 |- |青森ロックシティカーニバル |8/18　　青森浅虫海岸ヨットハーバー |- |仙台ロックシティカーニバル |8/20　　仙台・泉パークタウンスポーツガーデン |- |[BEATCHILD1987](https://ja.wikipedia.org/wiki/BEAT_CHILD "wikilink") |8/22 熊本野外劇場アスペクタ |- | |9/18　　浦和市民会館 |- | |9/22　　沖縄スクランブル？ |- |沖縄うるま祭り |9/23　　？ |- | rowspan="3" | |9/26　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |- |9/27　　[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink") |「窓をあけよう」、「ほんの少しだけ」、「ブルーハーツより愛をこめて」は、この日の演奏が最後となった。 |星をください |- |9/30　　川崎産業会館 | rowspan="11" | | rowspan="31" | |- | rowspan="40" |**ドブネズミツアー** |10/1　　[前橋市民文化会館](../Page/前橋市民文化会館.md "wikilink") |- |10/2 平塚市民文化センター |- |10/10　 大阪御堂会館 |- |10/15　 京都勤労会館 |- |10/16　 [浜松福祉文化会館](https://ja.wikipedia.org/wiki/浜松市福祉文化会館 "wikilink") |- |10/20　 福岡都久志会館 |- |10/21　 長崎平和会館 |- |10/23　 [鹿児島市民文化小ホール](../Page/鹿児島市民文化ホール.md "wikilink") |- |10/24　 大分農業会館 |- |10/26 　熊本郵便貯金会館 |- |11/1 [早稲田大学](../Page/早稲田大学.md "wikilink") |学園祭。 |- |11/2　　[明治大学](../Page/明治大学.md "wikilink") |学園祭。 |- |11/3　　[駒澤大学](../Page/駒澤大学.md "wikilink") |学園祭。 |- |11/5 [宇都宮市文化会館](../Page/宇都宮市文化会館.md "wikilink") | rowspan="17" | |- |11/7　　[津田塾大学](../Page/津田塾大学.md "wikilink") |- |11/9　　新潟県民小ホール |- |11/10　 新潟県民小ホール |- |11/12　 福井県民会館 |- |11/13 　石川県教育会館 |- |11/18 　藤沢市民会館 |- |11/19　 [愛知勤労会館](https://ja.wikipedia.org/wiki/愛知県勤労会館 "wikilink") |- |11/20 　広島見真講堂 |- |11/24 　仙台電力ホール |- |11/30 　水戸市民会館 |- |12/1 [八王子市民会館](../Page/八王子市民会館.md "wikilink") |- |12/3 帯広市勤労者福祉センター |- |12/4　　 旭川市studio９ |- |12/5 北海道新ホール |- |12/8 秋田産業会館 |- |12/9 [青森市民ホール](../Page/青森市民ホール.md "wikilink") |- |12/10　　弘前市文化センター |「「ブルーハーツの友」スペシャル第二弾」によればこの日、「星空」という新曲が披露された。\[8\](おそらく「青空」のこと。) |青空
-
-チェルノブイリ(86年6/22？) |- |12/12 [新庄市民文化会館](https://ja.wikipedia.org/wiki/新庄市民文化会館 "wikilink") | rowspan="12" | | rowspan="10" | |- |12/14 岩手教育会館 |- |12/15　　[郡山市民文化センター](../Page/郡山市民文化センター.md "wikilink") |- |12/16　　[山形県民会館](../Page/山形県県民会館.md "wikilink") |- |12/19 [大宮市民会館](https://ja.wikipedia.org/wiki/大宮市民会館 "wikilink") |- |12/22　　横浜市西公会堂 |- |12/23 横浜市西公会堂 |- |12/24 横浜市西公会堂 |- |12/27　　[千葉県文化課会館](../Page/千葉県文化会館.md "wikilink") |- |ロックンロールバンドスタンド |12/31　　[福岡国際センター](../Page/福岡国際センター.md "wikilink") |- | rowspan="114" |１９８８年 | rowspan="67" |**TOUR'88 PRETTY PINEAPPLE** |2/8　　　 [岡山市立市民文化ホール](https://ja.wikipedia.org/wiki/岡山市立市民文化ホール "wikilink") |僕の右手 お前を離さない |- |2/9　　　 [京都会館第一ホール](../Page/ロームシアター京都.md "wikilink") | rowspan="66" | |- |2/12　　 [日本武道館](../Page/日本武道館.md "wikilink") |ブルーハーツ初の武道館。 TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライブの映像である。
+チェルノブイリ(86年6/22？) |- |12/12 [新庄市民文化会館](https://ja.wikipedia.org/wiki/新庄市民文化会館 "wikilink") | rowspan="12" | | rowspan="10" | |- |12/14 岩手教育会館 |- |12/15　　[郡山市民文化センター](../Page/郡山市民文化センター.md "wikilink") |- |12/16　　[山形県民会館](../Page/山形県県民会館.md "wikilink") |- |12/19 [大宮市民会館](https://ja.wikipedia.org/wiki/大宮市民会館 "wikilink") |- |12/22　　横浜市西公会堂 |- |12/23 横浜市西公会堂 |- |12/24 横浜市西公会堂 |- |12/27　　[千葉県文化課会館](../Page/千葉県文化会館.md "wikilink") |- |ロックンロールバンドスタンド |12/31　　[福岡国際センター](../Page/福岡国際センター.md "wikilink") |- | rowspan="114" |1988年 | rowspan="67" |**TOUR'88 PRETTY PINEAPPLE** |2/8　　　 [岡山市立市民文化ホール](https://ja.wikipedia.org/wiki/岡山市立市民文化ホール "wikilink") |僕の右手 お前を離さない |- |2/9　　　 [京都会館第一ホール](../Page/ロームシアター京都.md "wikilink") | rowspan="66" | |- |2/12　　 [日本武道館](../Page/日本武道館.md "wikilink") |ブルーハーツ初の武道館。 TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライブの映像である。
 
 この日、演奏した「青空」をその日のうちにラジオで劇作家の[鴻上尚人が自分で録音したものを流していた](../Page/鴻上尚史.md "wikilink")。
 
-この日の晩、甲本が弟の[甲本雅裕](../Page/甲本雅裕.md "wikilink")と下北沢の銭湯に行くと、この日のライブに来ていた少年に出くわしたというエピソードがある。。\[9\] |- |2/16 山口教育会館 | rowspan="12" | |- |2/18　　 [島根県民会館](https://ja.wikipedia.org/wiki/島根県民会館 "wikilink")中ホール |- |2/19 鳥取市文化ホール |- |3/3　　　 [姫路市民文化センター小ホール](https://ja.wikipedia.org/wiki/姫路市文化センター "wikilink") |- |3/4 [和歌山市民会館](../Page/和歌山市民会館.md "wikilink")小ホール |- |3/5 [神戸国際会館](../Page/神戸国際会館.md "wikilink") |- |3/9 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |3/10 [熊本市民会館](../Page/熊本市民会館.md "wikilink") |- |3/11 [鹿児島県文化センター](../Page/鹿児島県文化センター.md "wikilink") |- |3/13 [大分文化会館](../Page/大分文化会館.md "wikilink") |- |3/14 [岐阜市民会館](../Page/岐阜市民会館.md "wikilink") |- |3/15 桑名市民会館 |- |3/22 [日清パワーステーション](../Page/日清パワーステーション.md "wikilink") | rowspan="2" |[TOKYO FMによる公開録音が行われた](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")。(４月３日放送) この日演奏された「ダンスナンバー」は甲本が二番と三番の歌詞を逆に歌ってしまい、「ダンスナンバー カップヌードル バージョン」と紹介した。 |- |3/23 [日清パワーステーション](../Page/日清パワーステーション.md "wikilink") |- |3/28 [長崎市公会堂](../Page/長崎市公会堂.md "wikilink") | rowspan="50" | |- |3/29 久留米市民会館 |- |3/30 小倉市民会館 |- |4/1 大牟田市文化会館 |- |4/20　 　[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")中ホール |- |4/21 浜松福祉会館 |- |4/24　 　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |4/25 [広島郵便貯金会館](https://ja.wikipedia.org/wiki/広島郵便貯金会館 "wikilink") |- |4/27 丹後文化会館 |- |4/29 舞鶴市総合文化会館 |- |4/30 [名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink") |- |5/2 　 [宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |5/3 石巻市民会館 |- |5/9　　　 [札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") |- |5/11 山形市民会館 |- |5/12 [新庄市文化会館](https://ja.wikipedia.org/wiki/新庄市民文化会館 "wikilink") |- |5/13 　[酒田市民会館](../Page/酒田市民会館「希望ホール」.md "wikilink") |- |5/15 [福島市公会堂](https://ja.wikipedia.org/wiki/福島市公会堂 "wikilink") |- |5/17 [岩手県民会館](../Page/岩手県民会館.md "wikilink") |- |5/18 [青森市文化会館](../Page/青森市文化会館.md "wikilink") |- |5/19 秋田市文化会館 |- |5/23 　 [栃木会館](https://ja.wikipedia.org/wiki/栃木会館 "wikilink") |- |5/24 [八王子市民会館](../Page/八王子市民会館.md "wikilink") |- |5/25 [神奈川県立青少年センター](../Page/神奈川県立青少年センター.md "wikilink") |- |5/27　　 [埼玉会館](https://ja.wikipedia.org/wiki/埼玉会館 "wikilink")大ホール |- |5/30 水戸市民会館 |- |5/31　　 小田原市民会館 |- |6/2　　　 [前橋市民文化会館](../Page/前橋市民文化会館.md "wikilink") |- |6/3 [千葉県文化会館](../Page/千葉県文化会館.md "wikilink") |- |6/7 会津若松市民会館 |- |6/8　　 郡山市民文化会館中ホール |- |6/10　　 平市民会館(アリオス) |- |6/11　　 相馬市民文化会館 |- |6/13　　 大館市民文化会館 |- |6/14　 　[弘前市民会館](https://ja.wikipedia.org/wiki/弘前市民会館 "wikilink") |- |6/15 　　[八戸市公会堂](https://ja.wikipedia.org/wiki/八戸市公会堂 "wikilink") |- |6/20　　 [徳島文化センター](https://ja.wikipedia.org/wiki/徳島文化センター "wikilink") |- |6/21　 　高知オレンジホール |- |6/22　 　[高松市民会館](https://ja.wikipedia.org/wiki/高松市民会館 "wikilink") |- |6/24　 　[愛媛県県民文化会館](../Page/愛媛県県民文化会館.md "wikilink")サブホール |- |6/28　 　新潟県公会堂 |- |6/30 　　[金沢市観光会館(金沢歌劇座)](../Page/金沢歌劇座.md "wikilink") |- |7/1　　　[富山県民会館](../Page/富山県民会館.md "wikilink") |- |7/8　　　[大津市民会館](https://ja.wikipedia.org/wiki/大津市民会館 "wikilink") |- |7/9 　　[福井市文化会館](../Page/福井市文化会館.md "wikilink") |- |7/12　 [山梨県民文化ホール小ホール](../Page/山梨県立県民文化ホール.md "wikilink") |- |7/13　 [長野県民文化会館中ホール](../Page/長野県県民文化会館.md "wikilink") |- |7/18　 [旭川市公会堂](https://ja.wikipedia.org/wiki/旭川市公会堂 "wikilink") |- |7/19　　帯広市文化会館 |- |7/20　 釧路市民会館大ホール |- | rowspan="2" |WONDER LAND ROCK FES |8/1　　　[よみうりランド](../Page/よみうりランド.md "wikilink")ＥＡＳＴ |「シャララ」はこの日のみの演奏となった。(一部サイトで87年6月22日の御堂会館でのライブで初披露とあるが、それは間違いである。) |ミサイル ブルースをけとばせ
+この日の晩、甲本が弟の[甲本雅裕](../Page/甲本雅裕.md "wikilink")と下北沢の銭湯に行くと、この日のライブに来ていた少年に出くわしたというエピソードがある\[9\]。 |- |2/16 山口教育会館 | rowspan="12" | |- |2/18　　 [島根県民会館](https://ja.wikipedia.org/wiki/島根県民会館 "wikilink")中ホール |- |2/19 鳥取市文化ホール |- |3/3　　　 [姫路市民文化センター小ホール](https://ja.wikipedia.org/wiki/姫路市文化センター "wikilink") |- |3/4 [和歌山市民会館](../Page/和歌山市民会館.md "wikilink")小ホール |- |3/5 [神戸国際会館](../Page/神戸国際会館.md "wikilink") |- |3/9 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |3/10 [熊本市民会館](../Page/熊本市民会館.md "wikilink") |- |3/11 [鹿児島県文化センター](../Page/鹿児島県文化センター.md "wikilink") |- |3/13 [大分文化会館](../Page/大分文化会館.md "wikilink") |- |3/14 [岐阜市民会館](../Page/岐阜市民会館.md "wikilink") |- |3/15 桑名市民会館 |- |3/22 [日清パワーステーション](../Page/日清パワーステーション.md "wikilink") | rowspan="2" |[TOKYO FMによる公開録音が行われた](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")。(4月3日放送) この日演奏された「ダンスナンバー」は甲本が二番と三番の歌詞を逆に歌ってしまい、「ダンスナンバー カップヌードル バージョン」と紹介した。 |- |3/23 [日清パワーステーション](../Page/日清パワーステーション.md "wikilink") |- |3/28 [長崎市公会堂](../Page/長崎市公会堂.md "wikilink") | rowspan="50" | |- |3/29 久留米市民会館 |- |3/30 小倉市民会館 |- |4/1 大牟田市文化会館 |- |4/20　 　[静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")中ホール |- |4/21 浜松福祉会館 |- |4/24　 　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |4/25 [広島郵便貯金会館](https://ja.wikipedia.org/wiki/広島郵便貯金会館 "wikilink") |- |4/27 丹後文化会館 |- |4/29 舞鶴市総合文化会館 |- |4/30 [名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink") |- |5/2 　 [宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |5/3 石巻市民会館 |- |5/9　　　 [札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") |- |5/11 山形市民会館 |- |5/12 [新庄市文化会館](https://ja.wikipedia.org/wiki/新庄市民文化会館 "wikilink") |- |5/13 　[酒田市民会館](../Page/酒田市民会館「希望ホール」.md "wikilink") |- |5/15 [福島市公会堂](https://ja.wikipedia.org/wiki/福島市公会堂 "wikilink") |- |5/17 [岩手県民会館](../Page/岩手県民会館.md "wikilink") |- |5/18 [青森市文化会館](../Page/青森市文化会館.md "wikilink") |- |5/19 秋田市文化会館 |- |5/23 　 [栃木会館](https://ja.wikipedia.org/wiki/栃木会館 "wikilink") |- |5/24 [八王子市民会館](../Page/八王子市民会館.md "wikilink") |- |5/25 [神奈川県立青少年センター](../Page/神奈川県立青少年センター.md "wikilink") |- |5/27　　 [埼玉会館](https://ja.wikipedia.org/wiki/埼玉会館 "wikilink")大ホール |- |5/30 水戸市民会館 |- |5/31　　 小田原市民会館 |- |6/2　　　 [前橋市民文化会館](../Page/前橋市民文化会館.md "wikilink") |- |6/3 [千葉県文化会館](../Page/千葉県文化会館.md "wikilink") |- |6/7 会津若松市民会館 |- |6/8　　 郡山市民文化会館中ホール |- |6/10　　 平市民会館(アリオス) |- |6/11　　 相馬市民文化会館 |- |6/13　　 大館市民文化会館 |- |6/14　 　[弘前市民会館](https://ja.wikipedia.org/wiki/弘前市民会館 "wikilink") |- |6/15 　　[八戸市公会堂](https://ja.wikipedia.org/wiki/八戸市公会堂 "wikilink") |- |6/20　　 [徳島文化センター](https://ja.wikipedia.org/wiki/徳島文化センター "wikilink") |- |6/21　 　高知オレンジホール |- |6/22　 　[高松市民会館](https://ja.wikipedia.org/wiki/高松市民会館 "wikilink") |- |6/24　 　[愛媛県県民文化会館](../Page/愛媛県県民文化会館.md "wikilink")サブホール |- |6/28　 　新潟県公会堂 |- |6/30 　　[金沢市観光会館(金沢歌劇座)](../Page/金沢歌劇座.md "wikilink") |- |7/1　　　[富山県民会館](../Page/富山県民会館.md "wikilink") |- |7/8　　　[大津市民会館](https://ja.wikipedia.org/wiki/大津市民会館 "wikilink") |- |7/9 　　[福井市文化会館](../Page/福井市文化会館.md "wikilink") |- |7/12　 [山梨県民文化ホール小ホール](../Page/山梨県立県民文化ホール.md "wikilink") |- |7/13　 [長野県民文化会館中ホール](../Page/長野県県民文化会館.md "wikilink") |- |7/18　 [旭川市公会堂](https://ja.wikipedia.org/wiki/旭川市公会堂 "wikilink") |- |7/19　　帯広市文化会館 |- |7/20　 釧路市民会館大ホール |- | rowspan="2" |WONDER LAND ROCK FES |8/1　　　[よみうりランド](../Page/よみうりランド.md "wikilink")EAST |「シャララ」はこの日のみの演奏となった(一部サイトで87年6月22日の御堂会館でのライブで初披露とあるが、それは間違いである)。 |ミサイル ブルースをけとばせ
 
-シャララ |- |8/2　 　[よみうりランド](../Page/よみうりランド.md "wikilink")ＥＡＳＴ |「僕はここに立っているよ」はこの日の演奏が最後となった。 |無言電話のブルース |- |８８'SUPER JAM |8/5　　 [大阪南港フェリーターミナル](https://ja.wikipedia.org/wiki/大阪南港フェリーターミナル "wikilink")前広場 |[RCサクセション](../Page/RCサクセション.md "wikilink")との対バン。ゲストに[泉谷しげる with LOSER](../Page/泉谷しげる.md "wikilink") とインディーズ時代から交友のある [ECHOES](../Page/ECHOES.md "wikilink")が呼ばれた。 ブルーハーツの次に演奏した泉谷しげるは、ブルーハーツの演奏を「ヘッタクソ！」と評してから圧倒的に上手い演奏をした。 | rowspan="4" | |- |広島ピース・コンサート(HIROSHIMA　87－97) |8/6　 　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |原子爆弾に因んでか、チェルノブイリ→NONONO→爆弾が落っこちるときの順番で歌った。 |- |DOKKIN LIVE TSUSHIMA SOUND SPARK '88 |8/7 　 津島町南レクグランド |[RCサクセション](../Page/RCサクセション.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[米米CLUB](../Page/米米CLUB.md "wikilink")、[武田鉄矢](../Page/武田鉄矢.md "wikilink")、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")も参加。 |- |ALL NIGHT ROCK'88 |8/9　　 名古屋城深井丸 |「スクラップ」はこの日が最後の演奏となった。 公開録音。
+シャララ |- |8/2　 　[よみうりランド](../Page/よみうりランド.md "wikilink")EAST |「僕はここに立っているよ」はこの日の演奏が最後となった。 |無言電話のブルース |- |88'SUPER JAM |8/5　　 [大阪南港フェリーターミナル](https://ja.wikipedia.org/wiki/大阪南港フェリーターミナル "wikilink")前広場 |[RCサクセション](../Page/RCサクセション.md "wikilink")との対バン。ゲストに[泉谷しげる with LOSER](../Page/泉谷しげる.md "wikilink") とインディーズ時代から交友のある [ECHOES](../Page/ECHOES.md "wikilink")が呼ばれた。 ブルーハーツの次に演奏した泉谷しげるは、ブルーハーツの演奏を「ヘッタクソ！」と評してから圧倒的に上手い演奏をした。 | rowspan="4" | |- |広島ピース・コンサート(HIROSHIMA　87－97) |8/6　 　[広島サンプラザ](../Page/広島サンプラザ.md "wikilink") |原子爆弾に因んでか、チェルノブイリ→NONONO→爆弾が落っこちるときの順番で歌った。 |- |DOKKIN LIVE TSUSHIMA SOUND SPARK '88 |8/7 　 津島町南レクグランド |[RCサクセション](../Page/RCサクセション.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[米米CLUB](../Page/米米CLUB.md "wikilink")、[武田鉄矢](../Page/武田鉄矢.md "wikilink")、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")も参加。 |- |ALL NIGHT ROCK'88 |8/9　　 名古屋城深井丸 |「スクラップ」はこの日が最後の演奏となった。 公開録音。
 
 一部のサイトでTOUR'88 PRETTY PINEAPPLEのライブと書かれているが間違い。 |- | rowspan="28" |**パイナップルの逆襲ツアー** |10/3　 [山形県民会館](../Page/山形県県民会館.md "wikilink") | rowspan="28" | |ながれもの メリーゴーランド
 
-ラブレター |- |10/4　 郡山市民文化会館 | rowspan="43" | |- |10/5　　[宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |10/7 [宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |10/11　 [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink") |- |10/13　 静岡文化市民会館 |- |10/14 神戸文化会館 |- |10/16　 [広島郵便貯金会館](https://ja.wikipedia.org/wiki/広島郵便貯金会館 "wikilink") |- |10/17　 [下関市民会館](https://ja.wikipedia.org/wiki/下関市民会館 "wikilink") |- |10/18　 [岡山市民会館](../Page/岡山市民会館.md "wikilink") |- |10/23　 [長崎市公会堂](../Page/長崎市公会堂.md "wikilink") |- |10/25　 [福岡サンパレス](../Page/福岡サンパレス.md "wikilink") |- |10/26　 [鹿児島県文化センター](../Page/鹿児島県文化センター.md "wikilink") |- |10/27　 [熊本市民会館](../Page/熊本市民会館.md "wikilink") |- |11/3 　　高知県民文化オレンジホール |- |11/4　　 [松山市民会館](../Page/松山市民会館.md "wikilink")大ホール |- |11/7 [高松市民会館](https://ja.wikipedia.org/wiki/高松市民会館 "wikilink") |- |11/9　　 鳥栖市民会館大ホール |- |11/10　 宮崎市民会館 |- |11/13　　[名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink") |- |11/14　　[名古屋公会堂](../Page/名古屋市公会堂.md "wikilink") |- |11/16　　[沖縄市民会館](https://ja.wikipedia.org/wiki/沖縄市民会館 "wikilink") |- |11/21　　[金沢観光会館](../Page/金沢歌劇座.md "wikilink") |- |11/22　　[福井フェニックスプラザ](https://ja.wikipedia.org/wiki/福井フェニックスプラザ "wikilink") |- |11/24　　[新潟県民会館](../Page/新潟県民会館.md "wikilink") |- |11/25　　[長野県民会館大ホール](https://ja.wikipedia.org/wiki/長野市民会館 "wikilink") |- |11/28　　[札幌厚生年金会館](https://ja.wikipedia.org/wiki/札幌厚生年金会館 "wikilink") |- |12/2　 　[山梨県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink") |- |初心にかえろうライブ |12/3　　　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") |[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[HITS](https://ja.wikipedia.org/wiki/HITS "wikilink")の取材が来ていた。 |- | rowspan="9" |**パイナップルの逆襲ツアー** |12/5　　　川越市民会館 | rowspan="27" | |- |12/6　　　[群馬市民会館](../Page/群馬県民会館.md "wikilink") |- |12/9　　　[青森市文化会館](../Page/青森市文化会館.md "wikilink") |- |12/10　　[秋田県民会館](../Page/秋田県民会館.md "wikilink") |- |12/13　　[千葉県文化会館](../Page/千葉県文化会館.md "wikilink") |- |12/15　　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |12/16　　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |12/19　　茨城県民文化会館 |- |12/21　　[横浜文化体育館](../Page/横浜文化体育館.md "wikilink") |- | rowspan="2" |X'MAS SPECIAL |12/23　　[クラブチッタ川崎](https://ja.wikipedia.org/wiki/クラブチッタ川崎 "wikilink") |- |12/24　　[クラブチッタ川崎](https://ja.wikipedia.org/wiki/クラブチッタ川崎 "wikilink") |- |ロックンロールバンドスタンド ＩＮ岡山 |12/31　　岡山浦安体育館 |- | rowspan="72" |1989年 | rowspan="3" |**パイナップルの逆襲ツアー** |1/24　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- |1/25　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- |1/26　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- | rowspan="13" |**ON TOUR 1989** |5/3　　 　[札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") |イメージ 平成のブルース |- |5/4　　　 [札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") | rowspan="18" | |- |5/8　　　 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/9　　　 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/10　　　[福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/18　　　[宮崎県民会館](../Page/宮城県民会館.md "wikilink") |- |5/19　　　[宮崎県民会館](../Page/宮城県民会館.md "wikilink") |- |5/22　　　[大阪城ホール](../Page/大阪城ホール.md "wikilink") |- |5/23　　　[大阪城ホール](../Page/大阪城ホール.md "wikilink") |- |5/26　　　[名古屋レインボーホール](https://ja.wikipedia.org/wiki/名古屋レインボーホール "wikilink") |- |5/29　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |- |5/30　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |- |5/31　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |甲本と真島の二人で演奏するTOO MUCH PAINはこの日が最後となった。 |- |海のフェスティバル |7/28　　　長崎　 | rowspan="4" | |- |スーパージャム |8/4　　　　名古屋 |- |フレッシュサウンドコンテスト |8/6　　　　長野 |- |FMロックサーキット |8/8　　　　福岡 |- |**PORTLAND TOUR'89** |8/19　　　Starry Night Club |ブルーハーツ初の海外ツアー(一か所だけだが) ナパーム・ビーチ、ザ･ジャッカルズ、ビー・トゥルーとの対バン。 |- |ラウンドコンサート |8/26　　　高知 | |- | rowspan="46" |**ON TOUR 1989-1990 全国版** |9/6　　　　[京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")第一ホール | |お前の宇宙に入れてくれ 悲しいうわさ
+ラブレター |- |10/4　 郡山市民文化会館 | rowspan="43" | |- |10/5　　[宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |10/7 [宮城県民会館](../Page/宮城県民会館.md "wikilink") |- |10/11　 [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink") |- |10/13　 静岡文化市民会館 |- |10/14 神戸文化会館 |- |10/16　 [広島郵便貯金会館](https://ja.wikipedia.org/wiki/広島郵便貯金会館 "wikilink") |- |10/17　 [下関市民会館](https://ja.wikipedia.org/wiki/下関市民会館 "wikilink") |- |10/18　 [岡山市民会館](../Page/岡山市民会館.md "wikilink") |- |10/23　 [長崎市公会堂](../Page/長崎市公会堂.md "wikilink") |- |10/25　 [福岡サンパレス](../Page/福岡サンパレス.md "wikilink") |- |10/26　 [鹿児島県文化センター](../Page/鹿児島県文化センター.md "wikilink") |- |10/27　 [熊本市民会館](../Page/熊本市民会館.md "wikilink") |- |11/3 　　高知県民文化オレンジホール |- |11/4　　 [松山市民会館](../Page/松山市民会館.md "wikilink")大ホール |- |11/7 [高松市民会館](https://ja.wikipedia.org/wiki/高松市民会館 "wikilink") |- |11/9　　 鳥栖市民会館大ホール |- |11/10　 宮崎市民会館 |- |11/13　　[名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink") |- |11/14　　[名古屋公会堂](../Page/名古屋市公会堂.md "wikilink") |- |11/16　　[沖縄市民会館](https://ja.wikipedia.org/wiki/沖縄市民会館 "wikilink") |- |11/21　　[金沢観光会館](../Page/金沢歌劇座.md "wikilink") |- |11/22　　[福井フェニックスプラザ](https://ja.wikipedia.org/wiki/福井フェニックスプラザ "wikilink") |- |11/24　　[新潟県民会館](../Page/新潟県民会館.md "wikilink") |- |11/25　　[長野県民会館大ホール](https://ja.wikipedia.org/wiki/長野市民会館 "wikilink") |- |11/28　　[札幌厚生年金会館](https://ja.wikipedia.org/wiki/札幌厚生年金会館 "wikilink") |- |12/2　 　[山梨県民文化ホール](../Page/山梨県立県民文化ホール.md "wikilink") |- |初心にかえろうライブ |12/3　　　[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink") |[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[HITS](https://ja.wikipedia.org/wiki/HITS "wikilink")の取材が来ていた。 |- | rowspan="9" |**パイナップルの逆襲ツアー** |12/5　　　川越市民会館 | rowspan="27" | |- |12/6　　　[群馬市民会館](../Page/群馬県民会館.md "wikilink") |- |12/9　　　[青森市文化会館](../Page/青森市文化会館.md "wikilink") |- |12/10　　[秋田県民会館](../Page/秋田県民会館.md "wikilink") |- |12/13　　[千葉県文化会館](../Page/千葉県文化会館.md "wikilink") |- |12/15　　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |12/16　　[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink") |- |12/19　　茨城県民文化会館 |- |12/21　　[横浜文化体育館](../Page/横浜文化体育館.md "wikilink") |- | rowspan="2" |X'MAS SPECIAL |12/23　　[クラブチッタ川崎](https://ja.wikipedia.org/wiki/クラブチッタ川崎 "wikilink") |- |12/24　　[クラブチッタ川崎](https://ja.wikipedia.org/wiki/クラブチッタ川崎 "wikilink") |- |ロックンロールバンドスタンド IN岡山 |12/31　　岡山浦安体育館 |- | rowspan="72" |1989年 | rowspan="3" |**パイナップルの逆襲ツアー** |1/24　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- |1/25　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- |1/26　　　[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") |- | rowspan="13" |**ON TOUR 1989** |5/3　　 　[札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") |イメージ 平成のブルース |- |5/4　　　 [札幌市民会館](https://ja.wikipedia.org/wiki/札幌市民会館 "wikilink") | rowspan="18" | |- |5/8　　　 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/9　　　 [福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/10　　　[福岡市民会館](../Page/福岡市民会館.md "wikilink") |- |5/18　　　[宮崎県民会館](../Page/宮城県民会館.md "wikilink") |- |5/19　　　[宮崎県民会館](../Page/宮城県民会館.md "wikilink") |- |5/22　　　[大阪城ホール](../Page/大阪城ホール.md "wikilink") |- |5/23　　　[大阪城ホール](../Page/大阪城ホール.md "wikilink") |- |5/26　　　[名古屋レインボーホール](https://ja.wikipedia.org/wiki/名古屋レインボーホール "wikilink") |- |5/29　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |- |5/30　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |- |5/31　　　[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink") |甲本と真島の二人で演奏するTOO MUCH PAINはこの日が最後となった。 |- |海のフェスティバル |7/28　　　長崎　 | rowspan="4" | |- |スーパージャム |8/4　　　　名古屋 |- |フレッシュサウンドコンテスト |8/6　　　　長野 |- |FMロックサーキット |8/8　　　　福岡 |- |**PORTLAND TOUR'89** |8/19　　　Starry Night Club |ブルーハーツ初の海外ツアー(一か所だけだが) ナパーム・ビーチ、ザ･ジャッカルズ、ビー・トゥルーとの対バン。 |- |ラウンドコンサート |8/26　　　高知 | |- | rowspan="46" |**ON TOUR 1989-1990 全国版** |9/6　　　　[京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")第一ホール | |お前の宇宙に入れてくれ 悲しいうわさ
 
 殺しのライセンス
 
@@ -524,7 +518,7 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
 
   - ボーカルは真島。
   - 89年の全国ツアー「ON TOUR全国版」にて初披露、アンコールのラストに演奏された。このツアー以降演奏されず。
-  - ライブによって歌詞が変化し、「[LSD](../Page/LSD_\(薬物\).md "wikilink")」や「[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")」など、89年12月の[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")、[平塚市民センター](https://ja.wikipedia.org/wiki/平塚市民センター "wikilink")のライブでは「[宮崎勤](../Page/宮崎勤.md "wikilink")」といった名も登場する。
+  - ライブによって歌詞が変化し、「[LSD](../Page/LSD_\(薬物\).md "wikilink")」や「[ドラッグ](../Page/ドラッグ.md "wikilink")」など、89年12月の[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")、[平塚市民センター](https://ja.wikipedia.org/wiki/平塚市民センター "wikilink")のライブでは「[宮崎勤](../Page/宮崎勤.md "wikilink")」といった名も登場する。
 
 **おまえの宇宙にいれてくれ**
 
@@ -559,7 +553,7 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
 
 <!-- end list -->
 
-  - 4ｔｈシングル「ラブレター」のケースの内側に「今だって　ホラ　ホラ　ホラ\!　幸せになりかけているじゃあないか　ヒロト」と幸せのブルースの「今も幸せになりかけているじゃないか」という歌詞に似たフレーズがある。
+  - 4thシングル「ラブレター」のケースの内側に「今だって　ホラ　ホラ　ホラ\!　幸せになりかけているじゃあないか　ヒロト」と幸せのブルースの「今も幸せになりかけているじゃないか」という歌詞に似たフレーズがある。
 
 **ごみ捨て場**
 
@@ -567,7 +561,7 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
 
   - この曲の存在すら不明だが一部のサイトでは歌詞を全文公開している。
 
-く**たばった夢**
+**くたばった夢**
 
 （作詞・作曲：真島昌利 / 編曲：THE BLUE HEARTS）
 
@@ -581,70 +575,44 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
 
 ### 未発表歌詞などを含むもの
 
-**電光石火**
-
-  - 88年の「PRETTY PINEAPPLE TOUR」中に発表された当初は音源化分の後の歌詞「水平線に隠された　宝の地図が幽かに見える　立ち止まってばかり　振り向いてばかり　それじゃデタラメも夢も叶わない」や歌詞を繰り返す部分があったが、ステージを重ねる内に歌詞が削られた。　　
-  - デモ音源では未発表バージョンで演奏されている。また、未発表バージョンにおいての2回目と3回目のサビの歌詞が同じになっている。　　　　　　　
-
-**チェインギャング**
-
-  - 最初の数回のライブでは最後の「一人ぼっちが怖いからもうからハンパに成長してきた」が「ゴマカシはもうたくさんだ、くだらない嘘はゴメンだ」となっている。
-
-**ブルーハーツより愛をこめて**
-
-  - 1985年に初披露したときには後半の歌詞がなかった。
-
-**ほんの少しだけ**
-
-  - 「今、何が見える」が「今、みんなが見える」となっているライブ音源が存在する。
-
-**風船爆弾**
-
-  - アルバム収録版より歌詞が少なく、「あなたの胸の奥に当たれよ風船爆弾」が「今夜はその場所で爆発するんだ」となっているライブ音源がある。
-  - 88年の「PRETTY PINEAPPLE TOUR」中のものと思われる。
+  - 電光石火
+    88年の「PRETTY PINEAPPLE TOUR」中に発表された当初は音源化分の後の歌詞「水平線に隠された　宝の地図が幽かに見える　立ち止まってばかり　振り向いてばかり　それじゃデタラメも夢も叶わない」や歌詞を繰り返す部分があったが、ステージを重ねる内に歌詞が削られた。　　
+    デモ音源では未発表バージョンで演奏されている。また、未発表バージョンにおいての2回目と3回目のサビの歌詞が同じになっている。
+  - チェインギャング
+    最初の数回のライブでは最後の「一人ぼっちが怖いからもうからハンパに成長してきた」が「ゴマカシはもうたくさんだ、くだらない嘘はゴメンだ」となっている。
+  - ブルーハーツより愛をこめて
+    1985年に初披露したときには後半の歌詞がなかった。
+  - ほんの少しだけ
+    「今、何が見える」が「今、みんなが見える」となっているライブ音源が存在する。
+  - 風船爆弾
+    アルバム収録版より歌詞が少なく、「あなたの胸の奥に当たれよ風船爆弾」が「今夜はその場所で爆発するんだ」となっているライブ音源がある。
+    88年の「PRETTY PINEAPPLE TOUR」中のものと思われる。
 
 ### ライブによって歌詞が変わる曲
 
-**ブルースをけとばせ**
-
-  - アルバムに収録される前は毎回歌詞を変えて歌っていた。「[宮崎勤](../Page/宮崎勤.md "wikilink")」、「[永山則夫](../Page/永山則夫.md "wikilink")」、「[川俣軍司](https://ja.wikipedia.org/wiki/深川通り魔殺人事件 "wikilink")」や「[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")」といった歌詞が登場したりもした。
-
-**平成のブルース**
-
-  - 毎回歌詞を変えて歌っていた。「[宮崎勤](../Page/宮崎勤.md "wikilink")」や「[一杯のかけそば](../Page/一杯のかけそば.md "wikilink")」などといった歌詞も登場した。
-
-**ロックの豚野郎**
-
-  - 上記のとおり。
-
-
+  - ブルースをけとばせ
+    アルバムに収録される前は毎回歌詞を変えて歌っていた。「[宮崎勤](../Page/宮崎勤.md "wikilink")」、「[永山則夫](../Page/永山則夫.md "wikilink")」、「[川俣軍司](https://ja.wikipedia.org/wiki/深川通り魔殺人事件 "wikilink")」や「[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")」といった歌詞が登場したりもした。
+  - 平成のブルース
+    毎回歌詞を変えて歌っていた。「宮崎勤」や「[一杯のかけそば](../Page/一杯のかけそば.md "wikilink")」などといった歌詞も登場した。
+  - ロックの豚野郎
+    上記と同じ。
 
 ### 未発表バージョン
 
-**リンダリンダ**（alternative versionもしくは、remix-version）
-
-  - シングル・アルバム収録のものよりキーが１つ高く、かなりロック風なアレンジがかかっている。
+  - リンダリンダ（alternative versionもしくは、remix-version）
+    シングル・アルバム収録のものよりキーが1つ高く、かなりロック風なアレンジがかかっている。
 
 ### その他
 
-  - 少年の詩、ハンマー（ハンマーは1991年のライブで一度のみ「外は春の雨が降って僕は部屋で一人ぼっち　外は夏の雨が降って僕は部屋で一人ぼっち」と歌われてる）や2種類のメドレー（厳密には4種類）がある。
+少年の詩、ハンマー（ハンマーは1991年のライブで一度のみ「外は春の雨が降って僕は部屋で一人ぼっち 外は夏の雨が降って僕は部屋で一人ぼっち」と歌われてる）や2種類のメドレー（厳密には4種類）がある。
 
-<!-- end list -->
+終わらない歌は1988年～1989年にかけてのライブでは最後のサビを三回演奏(二回歌唱)した。
 
-  - 終わらない歌は1988年～1989年にかけてのライブでは最後のサビを三回演奏(二回歌唱)した。
+1993年から1994年にかけて行われた凸凹ツアーでは、風船爆弾が河口ボーカル（普段は甲本ボーカル）でメドレーの五曲目として歌われた。
 
-<!-- end list -->
+1988年に日清パワーステーションで行われたライブでは甲本がダンスナンバーの2番と3番の歌詞を間違えて歌い、「これからは2番と3番を逆に歌ったらカップヌードルバージョンと呼ぼう」とMCで釈明していた。
 
-  - 風船爆弾が1993年から1994年にかけて行われた凸凹ツアーでは、河口ボーカル（普段は甲本ボーカル）でメドレーの五曲目として歌われた。
-  - 1988年に日清パワーステーションで行われたライブでは甲本がダンスナンバーの2番と3番の歌詞を間違えて歌い、「これからは2番と3番を逆に歌ったらカップヌードルバージョンと呼ぼう」とMCで釈明していた。
-
-<!-- end list -->
-
-  - 真島が[友部正人](../Page/友部正人.md "wikilink")のライブにゲスト出演したときには、終わらない歌、青空（一部、歌詞を変えて）、手紙、能天気を歌い、ソロライブでは、青空、さすらいのニコチン野郎を歌った。
-
-<!-- end list -->
-
-  - さらに河口は、SUMMER SONICで[間寛平](../Page/間寛平.md "wikilink")らと共に「リンダリンダ」を歌った。
+真島が[友部正人](../Page/友部正人.md "wikilink")のライブにゲスト出演したときには、終わらない歌、青空（一部、歌詞を変えて）、手紙、能天気を歌い、ソロライブでは、青空、さすらいのニコチン野郎を歌った。さらに河口は、SUMMER SONICで[間寛平](../Page/間寛平.md "wikilink")らと共に「リンダリンダ」を歌った。
 
 ## 影響
 
@@ -652,7 +620,7 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
 
 <!-- end list -->
 
-  - 劇団 [第三舞台](../Page/第三舞台.md "wikilink")の主宰・[鴻上尚史](../Page/鴻上尚史.md "wikilink")は、自身がパーソナリティを務めた「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」内で、幾度となくブルーハーツ好きを公言しており、ライブにも度々足を運び、感想を語っていた。「1985」（鴻上曰くソノシート音源）をフルで流したり、88年2月12日の武道館ライブを見に行った日の深夜の放送では、その日披露されたばかりの新曲「青空」のライブ音源を流したりと、この番組でしか聴けない音源も多かった。後に自身の映画に「青空」を挿入歌として使用している。
+  - 劇団 [第三舞台](../Page/第三舞台.md "wikilink")の主宰・[鴻上尚史](../Page/鴻上尚史.md "wikilink")は、自身がパーソナリティを務めた『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』内で、幾度となくブルーハーツ好きを公言しており、ライブにも度々足を運び、感想を語っていた。「1985」（鴻上曰くソノシート音源）をフルで流したり、88年2月12日の武道館ライブを見に行った日の深夜の放送では、その日披露されたばかりの新曲「青空」のライブ音源を流したりと、この番組でしか聴けない音源も多かった。後に自身の映画に「青空」を挿入歌として使用している。
   - 1989年、作家の[吉本ばなならが](https://ja.wikipedia.org/wiki/よしもとばなな "wikilink")『僕の話を聞いてくれ』という、ブルーハーツを絶賛する本を出した。吉本ばななは、「I Love ザ・ブルーハーツ」というタイトルで寄稿し、本の帯に「ブルーハーツは全員、丸ごとの自分をきちんと大事にしている。これは大変贅沢で、かなり素晴らしいことに違いない」と書いた。
   - 漫画家の[森田まさのり](../Page/森田まさのり.md "wikilink")は、メンバーをモデルとしたキャラを『[ろくでなしBLUES](../Page/ろくでなしBLUES.md "wikilink")』（[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")連載）に登場させた。また、「英雄にあこがれて」と題された回では、同タイトルのブルーハーツの楽曲（『YOUNG AND PRETTY』収録）の歌詞を作中で引用している。また、ヒロインの初恋の思い出の曲として、「リンダリンダ」を作中で引用し、1話作っている。
   - 2002年、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")主演の[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[人にやさしく](../Page/人にやさしく_\(テレビドラマ\).md "wikilink")』の主題歌と挿入歌に起用され、CDが再発。ブルーハーツをリアルタイムで聴いていない世代も多く聴くきっかけとなった。
@@ -663,7 +631,7 @@ White Xmas |- |ヤネウラ１０周年記念[JUST A BEAT SHOW](../Page/JUST_A_B
   - 2006年　プロ野球中日ドラゴンズ藤井淳志選手が入団時、入場曲を中日スポーツで公募してブルーハーツの『TRAIN-TRAIN』に決めた。また、2009年からはブルーハーツの『キスしてほしい』を入場曲に使用している。
   - 2015年　テレビアニメ『[ローリング☆ガールズ](https://ja.wikipedia.org/wiki/ローリング☆ガールズ "wikilink")』が放映。各話のサブタイトルがブルーハーツの楽曲名となっている。また、[主題歌や挿入歌では](https://ja.wikipedia.org/wiki/ローリング☆ガールズ#主題歌 "wikilink")、主要キャストによりブルーハーツの数多くの[カバー](../Page/カバー.md "wikilink")曲が歌われている。
   - 5月28日放送の[関ジャム完全燃SHOWの](https://ja.wikipedia.org/wiki/関ジャム_完全燃SHOW "wikilink")「日本のギタリスト列伝」というコーナーで真島が選出される。「[月の爆撃機](../Page/STICK_OUT.md "wikilink")」のライブ映像の一部が放送された。
-  - [ザ・カセットテープ・ミュージック](https://ja.wikipedia.org/wiki/ザ・カセットテープ・ミュージック "wikilink")では今までに、「[1985](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」、「[青空](../Page/青空_\(THE_BLUE_HEARTSの曲\).md "wikilink")」、「[未来は僕等の手の中](../Page/THE_BLUE_HEARTS_\(アルバム\).md "wikilink")」「[月の爆撃機](../Page/STICK_OUT.md "wikilink")」が放送された。
+  - 『[ザ・カセットテープ・ミュージック](https://ja.wikipedia.org/wiki/ザ・カセットテープ・ミュージック "wikilink")』では今までに、「[1985](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")」、「[青空](../Page/青空_\(THE_BLUE_HEARTSの曲\).md "wikilink")」、「[未来は僕等の手の中](../Page/THE_BLUE_HEARTS_\(アルバム\).md "wikilink")」「[月の爆撃機](../Page/STICK_OUT.md "wikilink")」が放送された。
 
 ## 受賞歴
 

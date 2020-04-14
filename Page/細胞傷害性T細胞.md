@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[細胞傷害性T細胞](https://ja.wikipedia.org/wiki/細胞傷害性T細胞)から翻訳されています。
 
 
 **細胞傷害性T細胞**(さいぼうしょうがいせいTさいぼう、cytotoxic T lymphocyte; TcまたはCTL)とは、リンパ球[T細胞](../Page/T細胞.md "wikilink")のうちの一種で、宿主にとって異物になる細胞([移植細胞](../Page/移植_\(医療\).md "wikilink")、[ウイルス](../Page/ウイルス.md "wikilink")感染細胞、[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")細胞など)を認識して破壊する。**キラーT細胞**とも呼ばれる\[1\]。キラーと呼ばれる由縁は、病原体を殺す[殺し屋](../Page/殺し屋.md "wikilink")ということであるからと、よく言われる。

@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCフライブルク](https://ja.wikipedia.org/wiki/SCフライブルク)から翻訳されています。
 
 
 **シュポルト・クルプ・フライブルク**（**Sport Club Freiburg**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")南西部、[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")、[フライブルク・イム・ブライスガウ](../Page/フライブルク・イム・ブライスガウ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

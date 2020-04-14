@@ -211,12 +211,14 @@
 | 金色の風景                             | 『“文学少女”と夢現の旋律』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")                                                                        |       |
 | Heavenly Days                     | 実写映画『[マリア様がみてる](../Page/マリア様がみてる.md "wikilink")』主題歌                                                                                              |       |
 | All is Love for you               | パソコンゲーム『[D.C.III 〜ダ・カーポIII〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")』エンディングテーマ                                              | 2012年 |
+| ひらり涙                              | パソコンゲーム『[D.C.III 〜ダ・カーポIII〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")』挿入歌                                                    |       |
 | 秘密                                | OVA『[乙女はお姉さまに恋してる 2人のエルダー THE ANIMATION](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる#OVA "wikilink")』エンディングテーマ                                    |       |
 | メグル                               | テレビアニメ『D.C.III 〜ダ・カーポIII〜』エンディングテーマ                                                                                                              | 2013年 |
 | 君に咲く日々                            | テレビアニメ『D.C.III 〜ダ・カーポIII〜』第4話挿入歌                                                                                                                 |       |
 | 君が好き                              | テレビアニメ『D.C.III 〜ダ・カーポIII〜』第12話挿入歌                                                                                                                |       |
 | 僕らのセカイ                            | アニメ映画『[AURA 〜魔竜院光牙最後の闘い〜](https://ja.wikipedia.org/wiki/AURA_〜魔竜院光牙最後の闘い〜 "wikilink")』主題歌                                                        |       |
 | キミとMUSIC                          | iOS『CROSS☓BEATS』、アーケードゲーム『crossbeats REV.』収録                                                                                                     |       |
+| 桜色の願い                             | パソコンゲーム『D.C.III P.P. ～ダ・カーポIII プラチナパートナー～』エンディングテーマ                                                                                              | 2014年 |
 | BON-BON                           | テレビアニメ『[田中くんはいつもけだるげ](https://ja.wikipedia.org/wiki/田中くんはいつもけだるげ "wikilink")』エンディングテーマ                                                           | 2016年 |
 | Rearhythm                         | アーケードゲーム『crossbeats REV. SUNRISE』収録                                                                                                              |       |
 

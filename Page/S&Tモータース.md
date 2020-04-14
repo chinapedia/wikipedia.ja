@@ -1,4 +1,4 @@
-> この記事は[S\&T](https://ja.wikipedia.org/wiki/S\&T)から翻訳されています。
+> この記事は[S\&Tモータース](https://ja.wikipedia.org/wiki/S\&Tモータース)から翻訳されています。
 
 
 **KRモータース**（KR、KR Motors Co., Ltd.）とは、[大韓民国](../Page/大韓民国.md "wikilink")[慶尚南道](../Page/慶尚南道.md "wikilink")[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")に本社を置く[オートバイ](../Page/オートバイ.md "wikilink")メーカーである。

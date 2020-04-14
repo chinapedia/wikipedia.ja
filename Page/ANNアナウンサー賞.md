@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANNアナウンサー賞](https://ja.wikipedia.org/wiki/ANNアナウンサー賞)から翻訳されています。
 
 
 **ANNアナウンサー賞**（エーエヌエヌアナウンサーしょう）とは、[テレビ朝日](../Page/テレビ朝日.md "wikilink")を始めとする[ANN系列各局の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の中で毎年優秀なアナウンサーに対し与えられる賞である。[2002年](../Page/2002年.md "wikilink")にスタートしたため、他局の同様の賞に比べると歴史が浅い。
@@ -183,7 +183,7 @@
 <td><p>第18回<br />
 （<a href="../Page/2019年.md" title="wikilink">2019年</a>）</p></td>
 <td></td>
-<td><p><strong>古川昌希</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/古川昌希" title="wikilink">古川昌希</a></strong><br />
 （朝日放送テレビ）</p></td>
 <td></td>
 </tr>

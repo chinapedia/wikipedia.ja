@@ -1,4 +1,4 @@
-> この記事は[AR](https://ja.wikipedia.org/wiki/AR)から翻訳されています。
+> この記事は[コードフリークAR](https://ja.wikipedia.org/wiki/コードフリークAR)から翻訳されています。
 
 
 『**コードフリークAR**』（コードフリークエーアール、Code Freak AR）は、かつて[ブレイン・ストーム](../Page/ブレイン・ストーム.md "wikilink")が発行していた[隔月刊の](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。偶数月24日発売。

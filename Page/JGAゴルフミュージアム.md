@@ -1,4 +1,4 @@
-> この記事は[JGA](https://ja.wikipedia.org/wiki/JGA)から翻訳されています。
+> この記事は[JGAゴルフミュージアム](https://ja.wikipedia.org/wiki/JGAゴルフミュージアム)から翻訳されています。
 
 
 **JGAゴルフミュージアム**（ジェイジーエーゴルフミュージアム）は[兵庫県](../Page/兵庫県.md "wikilink")[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")にある[博物館](../Page/博物館.md "wikilink")。

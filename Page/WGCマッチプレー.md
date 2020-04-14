@@ -1,4 +1,4 @@
-> この記事は[WGC](https://ja.wikipedia.org/wiki/WGC)から翻訳されています。
+> この記事は[WGCマッチプレー](https://ja.wikipedia.org/wiki/WGCマッチプレー)から翻訳されています。
 
 
 **WGCデルテクノロジーズ・マッチプレー**（WGC-Dell Technologies Match Play）は、[1999年](../Page/1999年.md "wikilink")に創設された[世界ゴルフ選手権](../Page/世界ゴルフ選手権.md "wikilink")の一戦として、毎年3月下旬に開かれる[ゴルフ](../Page/ゴルフ.md "wikilink")の大会である。
@@ -97,6 +97,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルス感染拡大の影響で中止</a>[5]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ケビン・キスナー" title="wikilink">ケビン・キスナー</a></p></td>
 <td></td>
@@ -109,7 +122,7 @@
 <td><p>1,745,000</p></td>
 <td><p>10,250,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バッバ・ワトソン" title="wikilink">バッバ・ワトソン</a></p></td>
 <td></td>
@@ -122,7 +135,7 @@
 <td><p>1,700,000</p></td>
 <td><p>10,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダスティン・ジョンソン" title="wikilink">ダスティン・ジョンソン</a></p></td>
 <td></td>
@@ -135,7 +148,7 @@
 <td><p>1,660,000</p></td>
 <td><p>9,750,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>WGC-Dell Match Play</p></td>
 <td></td>
 <td></td>
@@ -148,7 +161,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・デイ_(ゴルファー)" title="wikilink">ジェイソン・デイ</a> <small>(2)</small></p></td>
 <td></td>
@@ -161,7 +174,7 @@
 <td><p>1,620,000</p></td>
 <td><p>9,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>WGC-Cadillac Match Play</p></td>
 <td></td>
 <td></td>
@@ -174,7 +187,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ローリー・マキロイ" title="wikilink">ローリー・マキロイ</a></p></td>
 <td></td>
@@ -187,7 +200,7 @@
 <td><p>1,570,000</p></td>
 <td><p>9,250,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>WGC-Accenture Match Play Championship</p></td>
 <td></td>
 <td></td>
@@ -200,7 +213,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・デイ_(ゴルファー)" title="wikilink">ジェイソン・デイ</a></p></td>
 <td></td>
@@ -213,7 +226,7 @@
 <td><p>1,530,000</p></td>
 <td><p>9,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td></td>
 <td></td>
@@ -226,7 +239,7 @@
 <td><p>1,500,000</p></td>
 <td><p>8,750,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
 <td></td>
 <td></td>
@@ -239,7 +252,7 @@
 <td><p>1,400,000</p></td>
 <td><p>8,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
 <td><p><a href="../Page/ルーク・ドナルド.md" title="wikilink">ルーク・ドナルド</a></p></td>
 <td></td>
@@ -252,7 +265,7 @@
 <td><p>1,400,000</p></td>
 <td><p>8,500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 <td><p><a href="../Page/イアン・ポールター.md" title="wikilink">イアン・ポールター</a></p></td>
 <td></td>
@@ -265,7 +278,7 @@
 <td><p>1,400,000</p></td>
 <td><p>8,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td><p>ジェフ・オギルビー (2)</p></td>
 <td></td>
@@ -278,7 +291,7 @@
 <td><p>1,400,000</p></td>
 <td><p>8,500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p>タイガー・ウッズ (3)</p></td>
 <td></td>
@@ -291,7 +304,7 @@
 <td><p>1,350,000</p></td>
 <td><p>8,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p><a href="../Page/ヘンリク・ステンソン.md" title="wikilink">ヘンリク・ステンソン</a></p></td>
 <td></td>
@@ -304,7 +317,7 @@
 <td><p>1,350,000</p></td>
 <td><p>8,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="../Page/ジェフ・オギルビー.md" title="wikilink">ジェフ・オギルビー</a></p></td>
 <td></td>
@@ -317,7 +330,7 @@
 <td><p>1,300,000</p></td>
 <td><p>7,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>デビッド・トムズ</p></td>
 <td></td>
@@ -330,7 +343,7 @@
 <td><p>1,300,000</p></td>
 <td><p>7,500,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
 <td><p>タイガー・ウッズ (2)</p></td>
 <td></td>
@@ -343,7 +356,7 @@
 <td><p>1,200,000</p></td>
 <td><p>7,000,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td><p>タイガー・ウッズ</p></td>
 <td></td>
@@ -356,7 +369,7 @@
 <td><p>1,050,000</p></td>
 <td><p>6,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 <td></td>
@@ -369,7 +382,7 @@
 <td><p>1,000,000</p></td>
 <td><p>5,500,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td><p><a href="../Page/スティーブ・ストリッカー.md" title="wikilink">スティーブ・ストリッカー</a></p></td>
 <td></td>
@@ -382,7 +395,7 @@
 <td><p>1,000,000</p></td>
 <td><p>5,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>WGC-Andersen Consulting Match Play Championship'''</p></td>
 <td></td>
 <td></td>
@@ -395,7 +408,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td><p><a href="../Page/ダレン・クラーク.md" title="wikilink">ダレン・クラーク</a></p></td>
 <td></td>
@@ -408,7 +421,7 @@
 <td><p>1,000,000</p></td>
 <td><p>5,000,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a></p></td>
 <td></td>
 <td></td>
@@ -440,3 +453,4 @@
 2.
 3.
 4.
+5.  [PGA TOUR statement regarding cancellation of THE PLAYERS Championship and upcoming PGA TOUR events](https://www.pgatour.com/company/2020/03/12/pga-tour-statement-regarding-cancellation-of-the-players-championship-and-upcoming-pga-tour-events.amp.html)

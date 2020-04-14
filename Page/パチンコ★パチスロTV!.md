@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[パチンコ★パチスロTV!](https://ja.wikipedia.org/wiki/パチンコ★パチスロTV!)から翻訳されています。
 
 
 **パチンコ★パチスロTV\!**（ぱちんこぱちすろティーヴィー）は、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")などで放送している、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")の情報を扱う有料放送チャンネルである。通称「**パチテレ\!**」。

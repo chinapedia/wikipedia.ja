@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・ウィリアム・フルブライト](https://ja.wikipedia.org/wiki/J・ウィリアム・フルブライト)から翻訳されています。
 
 
 **ジェームズ・ウィリアム・フルブライト**（**James William Fulbright**, [1905年](../Page/1905年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。

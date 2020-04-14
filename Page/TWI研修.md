@@ -1,4 +1,4 @@
-> この記事は[TWI](https://ja.wikipedia.org/wiki/TWI)から翻訳されています。
+> この記事は[TWI研修](https://ja.wikipedia.org/wiki/TWI研修)から翻訳されています。
 
 
 **TWI研修**(ティーダブルアイけんしゅう、)とは、職場教育（[企業内教育](../Page/企業内教育.md "wikilink")）の手法の一つで、主に、[監督](../Page/監督.md "wikilink")者向けのものである。

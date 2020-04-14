@@ -1,4 +1,4 @@
-> この記事は[Magazine](https://ja.wikipedia.org/wiki/Magazine)から翻訳されています。
+> この記事は[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine)から翻訳されています。
 
 
 『**ファミリーコンピュータMagazine**』（ファミリーコンピュータマガジン）は、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下ファミコン）専門[ゲーム情報誌](../Page/ゲーム雑誌.md "wikilink")。略称は「**ファミマガ**」。

@@ -1,4 +1,4 @@
-> この記事は[JCB](https://ja.wikipedia.org/wiki/JCB)から翻訳されています。
+> この記事は[JCBクラシック](https://ja.wikipedia.org/wiki/JCBクラシック)から翻訳されています。
 
 
 **JCBクラシック**は、かつて[仙台放送](../Page/仙台放送.md "wikilink")主催、[JCBの特別協賛で毎年](../Page/ジェーシービー.md "wikilink")6月初旬に開催されていた[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")公認の男子プロゴルフツアーの大会。[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）シーズンをもって男子ツアー日程から外れ、大会も閉じられることとなった。

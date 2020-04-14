@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBCラジオ番組一覧](https://ja.wikipedia.org/wiki/CBCラジオ番組一覧)から翻訳されています。
 
 
 **CBCラジオ番組一覧**（シービーシーラジオばんぐみいちらん）は、[ラジオ放送局の](../Page/日本のラジオ放送局.md "wikilink")[CBCラジオ](../Page/CBCラジオ.md "wikilink")で現在放送されている主な番組と編成の解説である。
@@ -500,7 +500,7 @@ P:高橋佳延、<a href="../Page/成田香織.md" title="wikilink">成田香織
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/板東サンデー" title="wikilink">板東サンデー</a></strong><br />
+<td><p>00 <strong><a href="../Page/板東サンデー.md" title="wikilink">板東サンデー</a></strong><br />
 P:<a href="../Page/板東英二.md" title="wikilink">板東英二</a> A:加藤由香</p></td>
 <td></td>
 </tr>
@@ -588,7 +588,7 @@ P:<a href="../Page/中嶋朋子.md" title="wikilink">中嶋朋子</a></p></td>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>21:00 <strong><a href="../Page/工作太朗のジョブナイ.md" title="wikilink">工作太朗のジョブナイ</a></strong><br />
-P:工作太朗<br />
+P:工作太朗、大塚南（<a href="https://ja.wikipedia.org/wiki/らじお女子" title="wikilink">らじお女子</a>）<br />
 ▽21:40 <a href="https://ja.wikipedia.org/wiki/ふぉーゆー" title="wikilink">ふぉーゆー</a>のぴたラジ!</p></td>
 <td><p>00 <strong><a href="../Page/CBC歌謡ベストテン.md" title="wikilink">CBC歌謡ベストテン</a></strong><br />
 P:<a href="../Page/井上小百合_(ラジオパーソナリティ).md" title="wikilink">さゆりん</a></p></td>

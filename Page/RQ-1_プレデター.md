@@ -1,4 +1,4 @@
-> この記事は[RQ-1 ](https://ja.wikipedia.org/wiki/RQ-1_)から翻訳されています。
+> この記事は[RQ-1 プレデター](https://ja.wikipedia.org/wiki/RQ-1_プレデター)から翻訳されています。
 
 
 {{ Infobox 航空機 |名称=RQ-1/MQ-1 プレデター |画像=<File:MQ-1> Predator unmanned aircraft.jpg |キャプション=MQ-1B |用途=[無人航空機](../Page/無人航空機.md "wikilink")（UAV） |分類=[偵察機](../Page/偵察機.md "wikilink") |設計者= |製造者=[ジェネラル・アトミックス・エアロノーティカル・システムズ](https://ja.wikipedia.org/wiki/ジェネラル・アトミックス・エアロノーティカル・システムズ "wikilink") |運用者 more=

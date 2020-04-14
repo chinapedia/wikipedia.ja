@@ -1,4 +1,4 @@
-> この記事は[MSV](https://ja.wikipedia.org/wiki/MSV)から翻訳されています。
+> この記事は[MSVデュースブルク](https://ja.wikipedia.org/wiki/MSVデュースブルク)から翻訳されています。
 
 
 **MSVデュースブルク**（**Meidericher Spielverein Duisburg 02 e.V**、**デュイスブルク**とも）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")・[デュースブルク](../Page/デュースブルク.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

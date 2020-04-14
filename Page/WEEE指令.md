@@ -1,4 +1,4 @@
-> この記事は[WEEE](https://ja.wikipedia.org/wiki/WEEE)から翻訳されています。
+> この記事は[WEEE指令](https://ja.wikipedia.org/wiki/WEEE指令)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:WEEE_symbol_vectors.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:WEEE.svg "wikilink")

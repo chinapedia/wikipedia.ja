@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ウィリアム・H・メイシー](https://ja.wikipedia.org/wiki/ウィリアム・H・メイシー)から翻訳されています。
 
 
 **ウィリアム・H・メイシー**（、本名はWilliam Hall Macy、[1950年](../Page/1950年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[舞台監督](../Page/舞台監督.md "wikilink")である。映画をはじめ、舞台やテレビでも活躍し、演出や脚本も手がけている。

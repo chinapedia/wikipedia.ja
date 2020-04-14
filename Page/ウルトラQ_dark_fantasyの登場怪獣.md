@@ -1,4 +1,4 @@
-> この記事は[Q dark fantasy](https://ja.wikipedia.org/wiki/Q_dark_fantasy)から翻訳されています。
+> この記事は[ウルトラQ dark fantasyの登場怪獣](https://ja.wikipedia.org/wiki/ウルトラQ_dark_fantasyの登場怪獣)から翻訳されています。
 
 
 <div class="pathnavbox">

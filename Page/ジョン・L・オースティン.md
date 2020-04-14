@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ジョン・L・オースティン](https://ja.wikipedia.org/wiki/ジョン・L・オースティン)から翻訳されています。
 
 
 **ジョン・ラングショー・オースティン**（**John Langshaw Austin**, [1911年](../Page/1911年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [1960年](../Page/1960年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[哲学者](https://ja.wikipedia.org/wiki/哲学者 "wikilink")、[日常言語学派](https://ja.wikipedia.org/wiki/日常言語学派 "wikilink")の主要人物の一人であり、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")教授を務めた。[発話行為](https://ja.wikipedia.org/wiki/発話行為 "wikilink")（[言語行為](../Page/言語行為.md "wikilink")）についての先駆的な研究で知られ、[ルートヴィヒ・ウィトゲンシュタイン](../Page/ルートヴィヒ・ウィトゲンシュタイン.md "wikilink")と並んでイギリスの[言語哲学](../Page/言語哲学.md "wikilink")の重要な位置を占めた。

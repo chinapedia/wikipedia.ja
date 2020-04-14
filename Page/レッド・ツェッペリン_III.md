@@ -1,4 +1,4 @@
-> この記事は[ III](https://ja.wikipedia.org/wiki/_III)から翻訳されています。
+> この記事は[レッド・ツェッペリン III](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_III)から翻訳されています。
 
 
 『**レッド・ツェッペリン III**』 （**Led Zeppelin III**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックグループ](../Page/ロック_\(音楽\).md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")の第3作[アルバム](../Page/アルバム.md "wikilink")。[1970年](../Page/1970年.md "wikilink")10月発表。[プロデューサー](../Page/プロデューサー.md "wikilink")は[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")。レコーディング・エンジニアは[アンディ・ジョンズ](https://ja.wikipedia.org/wiki/アンディ・ジョンズ "wikilink")。

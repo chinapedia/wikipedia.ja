@@ -1,4 +1,4 @@
-> この記事は[Opa](https://ja.wikipedia.org/wiki/Opa)から翻訳されています。
+> この記事は[トヨタ・Opa](https://ja.wikipedia.org/wiki/トヨタ・Opa)から翻訳されています。
 
 
 **Opa**（オーパ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産していた[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")（厳密には5ドア[ハッチバック](../Page/ハッチバック.md "wikilink")）型の乗用車である。

@@ -1,4 +1,4 @@
-> この記事は[ RUNAWAY](https://ja.wikipedia.org/wiki/_RUNAWAY)から翻訳されています。
+> この記事は[逃亡者 RUNAWAY](https://ja.wikipedia.org/wiki/逃亡者_RUNAWAY)から翻訳されています。
 
 
 『**逃亡者 RUNAWAY**』（とうぼうしゃ ランナウェイ）は、[2004年](../Page/2004年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")より[9月26日](../Page/9月26日.md "wikilink")まで毎週日曜日21:00 - 21:54\[1\]に、[TBS](../Page/TBSテレビ.md "wikilink")[系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")」枠で放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
+> この記事は[サイエンスZERO](https://ja.wikipedia.org/wiki/サイエンスZERO)から翻訳されています。
 
 
 『**サイエンスZERO**』（サイエンスゼロ）は、[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（NHK Eテレ）で[2003年](../Page/2003年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")\[1\]から放送されている[科学](../Page/科学.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")3月まで放送された『[サイエンスアイ](https://ja.wikipedia.org/wiki/サイエンスアイ "wikilink")』の後継番組にあたる。かつては国際放送（[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")）でも2003年度から放送された\[2\]2004年度には英日2か国語放送を行った\[3\]。 2005年度よりハイビジョン放送を開始。

@@ -1,4 +1,4 @@
-> この記事は[VIA](https://ja.wikipedia.org/wiki/VIA)から翻訳されています。
+> この記事は[VIA鉄道](https://ja.wikipedia.org/wiki/VIA鉄道)から翻訳されています。
 
 
 **VIA鉄道**（**VIA Rail Canada**, 略称**VIA Rail**または**VIA**：発音「ヴィア」）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")国内の都市間[旅客鉄道サービスを提供する](../Page/旅客列車.md "wikilink")[国営企業である](https://ja.wikipedia.org/wiki/国有企業 "wikilink")。

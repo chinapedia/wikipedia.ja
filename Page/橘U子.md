@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[橘U子](https://ja.wikipedia.org/wiki/橘U子)から翻訳されています。
 
 
 **橘 U子**（たちばな ゆーこ、[1973年](../Page/1973年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身\[2\]。[ケンユウオフィス](../Page/ケンユウオフィス.md "wikilink")所属\[3\]。旧芸名は**合志 真理**（こうし まり）。
@@ -39,7 +39,7 @@
   - [チェイス\!](https://ja.wikipedia.org/wiki/チェイス! "wikilink")（ワイリー）
   - [爆走\!\!トムキャッツ](https://ja.wikipedia.org/wiki/爆走!!トムキャッツ "wikilink")（トリシア）
   - [ビジター](https://ja.wikipedia.org/wiki/ビジター_\(映画\) "wikilink")（ジネット）
-  - [ビトウィーン・トゥ・ファーンズ: ザ・ムービー](https://ja.wikipedia.org/wiki/ビトウィーン・トゥ・ファーンズ:_ザ・ムービー "wikilink")（本人役〈[ティファニー・ハディッシュ](https://ja.wikipedia.org/wiki/ティファニー・ハディッシュ "wikilink")〉）
+  - [ビトウィーン・トゥ・ファーンズ: ザ・ムービー](../Page/ビトウィーン・トゥ・ファーンズ:_ザ・ムービー.md "wikilink")（本人役〈[ティファニー・ハディッシュ](https://ja.wikipedia.org/wiki/ティファニー・ハディッシュ "wikilink")〉）
   - [マイ・ワンダフル・ライフ](https://ja.wikipedia.org/wiki/マイ・ワンダフル・ライフ "wikilink")（精神科医）
   - [Mr.ウッドコック -史上最悪の体育教師-](https://ja.wikipedia.org/wiki/Mr.ウッドコック_-史上最悪の体育教師- "wikilink")（サリー）
   - [めぐり逢う大地](https://ja.wikipedia.org/wiki/めぐり逢う大地 "wikilink")（スー）

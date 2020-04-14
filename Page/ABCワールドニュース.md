@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCワールドニュース](https://ja.wikipedia.org/wiki/ABCワールドニュース)から翻訳されています。
 
 
 『**ABCワールド・ニュース**』（*ABC World News*）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ABCニュースが制作し](../Page/ABCニュース_\(アメリカ\).md "wikilink")、[ABCのネットワークで放送されている](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")放送開始の『ワールド・ニュース・トゥナイト』（*World News Tonight*、略称**WNT**）を[2006年](../Page/2006年.md "wikilink")7月に『**ABCワールド・ニュース**』に改称したが2014年9月に『ワールド・ニュース・トゥナイト』に戻した。放送時間は18:30-19:00（[東部標準時](../Page/東部標準時.md "wikilink")/[太平洋標準時](../Page/太平洋標準時.md "wikilink")）。
@@ -117,8 +117,11 @@ NHKではこのほかに[ABCニュースシャワー](../Page/ABCニュースシ
 ## 外部リンク
 
   - [ABC News: World News](http://abcnews.go.com/WN/)（番組公式サイト）
+
   - [The World Newser](http://abcnews.blogs.com/theworldnewser/)（番組ブログ）
-  - [アメリカTV番組観賞ノーツ「ワールド・ニューズ・トゥナイト」](http://www.geocities.co.jp/Hollywood-Miyuki/2064/tvs/06/wnt.htm)（アメリカのイブニングニュース事情や、番組の変遷・舞台裏についての詳しい考察）
+
+  - （アメリカのイブニングニュース事情や、番組の変遷・舞台裏についての詳しい考察）
+
   - [〈JN現場報告〉 BS1「おはよう世界」を刷新](http://www.nhk-jn.co.jp/012chideji/topics/2006/053/053.htm)（[NHK情報ネットワーク](../Page/NHK情報ネットワーク.md "wikilink")による「おはよう世界」リニューアルのレポート。同時通訳放送の事情や仕組みを報告）
 
 [Category:アメリカ合衆国のニュース番組](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のニュース番組 "wikilink") [Category:ABC](https://ja.wikipedia.org/wiki/Category:ABC "wikilink")

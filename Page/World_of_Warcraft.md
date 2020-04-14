@@ -1,7 +1,7 @@
 > この記事は[World of Warcraft](https://ja.wikipedia.org/wiki/World_of_Warcraft)から翻訳されています。
 
 
-『**World of Warcraft**』（ワールド オブ ウォークラフト）は[ディアブロを開発した米](../Page/ディアブロ_\(ゲーム\).md "wikilink")[Blizzard Entertainment社が開発し運営している](https://ja.wikipedia.org/wiki/Blizzard_Entertainment "wikilink")[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")である。同社が開発販売している[ウォークラフト](../Page/ウォークラフト.md "wikilink")シリーズの世界観を受け継いだ[MMORPG](../Page/MMORPG.md "wikilink")。[Windowsのほか](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS Xでも動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")。グラフィックは3Dだが、要求スペックが低めに抑えられているのが特徴。2010年には、登録ユーザ数が1000万人を突破しており\[1\]、「最多登録者数のMMORPG」として[ギネスブック](https://ja.wikipedia.org/wiki/ギネスブック "wikilink")に登録されている\[2\]。「**WoW**」と略記されるのが一般的である。
+『**World of Warcraft**』（ワールド オブ ウォークラフト）は[ディアブロを開発した米](../Page/ディアブロ_\(ゲーム\).md "wikilink")[Blizzard Entertainment社が開発し運営している](https://ja.wikipedia.org/wiki/Blizzard_Entertainment "wikilink")[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")である。同社が開発販売している[ウォークラフト](../Page/ウォークラフト.md "wikilink")シリーズの世界観を受け継いだ[MMORPG](../Page/MMORPG.md "wikilink")。[Windowsのほか](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS Xでも動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")。グラフィックは3Dだが、要求スペックが低めに抑えられているのが特徴。2010年には、登録ユーザ数が1000万人を突破しており\[1\]、「最多登録者数のMMORPG」として[ギネスブック](https://ja.wikipedia.org/wiki/ギネスブック "wikilink")に登録されている\[2\]。
 
 ## ゲームの特徴
 

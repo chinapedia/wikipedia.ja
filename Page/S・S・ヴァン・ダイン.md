@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[S・S・ヴァン・ダイン](https://ja.wikipedia.org/wiki/S・S・ヴァン・ダイン)から翻訳されています。
 
 
 **S・S・ヴァン・ダイン**（S. S. Van Dine, [1888年](../Page/1888年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - [1939年](../Page/1939年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[推理作家](../Page/推理作家.md "wikilink")・美術評論家。本名は**ウィラード・ハンティントン・ライト** (Willard Huntington Wright)。[名探偵](../Page/名探偵.md "wikilink")**ファイロ・ヴァンス** (Philo Vance) を生み出した。

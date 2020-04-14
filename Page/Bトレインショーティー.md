@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bトレインショーティー](https://ja.wikipedia.org/wiki/Bトレインショーティー)から翻訳されています。
 
 
 [205_B-train_and_N-gauge.jpg](https://ja.wikipedia.org/wiki/File:205_B-train_and_N-gauge.jpg "fig:205_B-train_and_N-gauge.jpg") **Bトレインショーティー**（ビートレインショーティー、B TRAIN SHORTY）とは、[2002年](../Page/2002年.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売され現在の[BANDAI SPIRITSが継承して販売していた](https://ja.wikipedia.org/wiki/BANDAI_SPIRITS "wikilink")[鉄道車両](../Page/鉄道車両.md "wikilink")の模型である。以下の本文では、Bトレインショーティーを「**Bトレ**」と略して記す。

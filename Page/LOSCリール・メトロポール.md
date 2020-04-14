@@ -1,4 +1,4 @@
-> この記事は[LOSC](https://ja.wikipedia.org/wiki/LOSC)から翻訳されています。
+> この記事は[LOSCリール・メトロポール](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール)から翻訳されています。
 
 
 **リール・オリンピック・スポルティング・クラブ・リール・メトロポール**（**Lille Olympique Sporting Club Lille Métropole**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[リールに本拠地を置く](../Page/リール_\(フランス\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -185,7 +185,7 @@ Baratte、Lechantre、Sommerlynck、1950年に獲得したCor van der Hartなど
 
 ## 現所属メンバー
 
-  - 2019-20年 基本フォーメーション
+  - 2019-20シーズン 基本フォーメーション
 
 <div style="position: relative;">
 

@@ -1,4 +1,4 @@
-> この記事は[The!](https://ja.wikipedia.org/wiki/The!)から翻訳されています。
+> この記事は[The!少女マンガ](https://ja.wikipedia.org/wiki/The!少女マンガ)から翻訳されています。
 
 
 『**The\!少女マンガ**』（ザしょうじょマンガ）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[BS2にて不定期で放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。

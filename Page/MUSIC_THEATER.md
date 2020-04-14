@@ -1,7 +1,7 @@
 > この記事は[MUSIC THEATER](https://ja.wikipedia.org/wiki/MUSIC_THEATER)から翻訳されています。
 
 
-**MUSIC THEATER**（ミュージック・シアター）は、[JFN系列で毎週土曜日に放送れているラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")。
+**MUSIC THEATER**（ミュージック・シアター）は、[JFN系列で毎週土曜日に放送れているラジオ番組](../Page/全国FM放送協議会.md "wikilink")。
 
 ## 概要
 

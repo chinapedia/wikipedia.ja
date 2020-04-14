@@ -1,4 +1,4 @@
-> この記事は[ \(Hilcrhyme\)](https://ja.wikipedia.org/wiki/_\(Hilcrhyme\))から翻訳されています。
+> この記事は[蛍 \(Hilcrhymeの曲\)](https://ja.wikipedia.org/wiki/蛍_\(Hilcrhymeの曲\))から翻訳されています。
 
 
 「**蛍**」（ほたる）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット・[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")の通算10枚目の[シングル](../Page/シングル.md "wikilink")。[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[ユニバーサルJから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

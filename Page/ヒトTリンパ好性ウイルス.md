@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[ヒトTリンパ好性ウイルス](https://ja.wikipedia.org/wiki/ヒトTリンパ好性ウイルス)から翻訳されています。
 
 
 **ヒトTリンパ好性ウイルス**（ヒトティーリンパこうせいウイルス、*Human T-lymphotropic Virus*、*Human T-cell Leukemia Virus*、**HTLV**）は、[レトロウイルスの一種](../Page/レトロウイルス科.md "wikilink")。HTLV-I, II, III, IVがある。

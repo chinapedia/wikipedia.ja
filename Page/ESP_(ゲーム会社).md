@@ -1,4 +1,4 @@
-> この記事は[ESP \(\)](https://ja.wikipedia.org/wiki/ESP_\(\))から翻訳されています。
+> この記事は[ESP \(ゲーム会社\)](https://ja.wikipedia.org/wiki/ESP_\(ゲーム会社\))から翻訳されています。
 
 
 **ESP**（イーエスピー）はかつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")会社。**Entertainment Software Publishing**の略。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、中堅ゲーム会社の技術交換ネットワーク「[GD-NET](https://ja.wikipedia.org/wiki/GD-NET "wikilink")」を母体にして設立された。

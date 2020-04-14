@@ -1,4 +1,4 @@
-> この記事は[Edy](https://ja.wikipedia.org/wiki/Edy)から翻訳されています。
+> この記事は[楽天Edy](https://ja.wikipedia.org/wiki/楽天Edy)から翻訳されています。
 
 
 **楽天Edy**（らくてんエディ）とは、[楽天Edy株式会社が提供するプリペイド](../Page/楽天Edy_\(企業\).md "wikilink")（前払い）方式の[電子マネー](../Page/電子マネー.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[J-I](https://ja.wikipedia.org/wiki/J-I)から翻訳されています。
+> この記事は[J-Iロケット](https://ja.wikipedia.org/wiki/J-Iロケット)から翻訳されています。
 
 
 **J-Iロケット**（ジェイワンロケット、ジェイイチロケット）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA）と[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（ISAS）が[石川島播磨重工業と](../Page/IHI.md "wikilink")[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部と共同開発した全段固体燃料の[ロケット](../Page/ロケット.md "wikilink")である。

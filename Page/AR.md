@@ -52,7 +52,7 @@
   - 行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
       - アメリカ合衆国の[アーカンソー州](../Page/アーカンソー州.md "wikilink")（[ISO 3166-2:US](../Page/ISO_3166-2:US.md "wikilink")）
       - イタリアの[アレッツォ県](../Page/アレッツォ県.md "wikilink")（[イタリア県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")・[ISO 3166-2:IT](../Page/ISO_3166-2:IT.md "wikilink")）
-      - スイスの[アッペンツェル・アウサーローデン準州](https://ja.wikipedia.org/wiki/アッペンツェル・アウサーローデン準州 "wikilink")（[ISO 3166-2:CH](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")）
+      - スイスの[アッペンツェル・アウサーローデン準州](../Page/アッペンツェル・アウサーローデン準州.md "wikilink")（[ISO 3166-2:CH](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")）
   - [言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、[アラビア語](../Page/アラビア語.md "wikilink")を示す。
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、[アルゼンチン航空](../Page/アルゼンチン航空.md "wikilink")を示す。
 

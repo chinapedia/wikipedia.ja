@@ -31,7 +31,7 @@ __NOTOC__  **RC**
 
   - [rcファイル](https://ja.wikipedia.org/wiki/rcファイル "wikilink") () - UNIXの起動情報ファイル。
 
-  - \- Plan 9などの既定コマンドラインインタプリタ。[Bourne shellに似た設計と構文であるが](https://ja.wikipedia.org/wiki/Bourne_shell "wikilink")，後発ということもありより洗練されている。
+  - [rc (シェル)](https://ja.wikipedia.org/wiki/rc_\(シェル\) "wikilink") - Plan 9などの既定コマンドラインインタプリタ。[Bourne shellに似た設計と構文であるが](https://ja.wikipedia.org/wiki/Bourne_shell "wikilink")，後発ということもありより洗練されている。
 
   - [リッチー・クレチアン望遠鏡](https://ja.wikipedia.org/wiki/リッチー・クレチアン望遠鏡 "wikilink") () - [カセグレン望遠鏡](https://ja.wikipedia.org/wiki/カセグレン望遠鏡 "wikilink")の方式。
 

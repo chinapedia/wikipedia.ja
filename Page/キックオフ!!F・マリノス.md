@@ -1,4 +1,4 @@
-> この記事は[!!F](https://ja.wikipedia.org/wiki/!!F)から翻訳されています。
+> この記事は[キックオフ!!F・マリノス](https://ja.wikipedia.org/wiki/キックオフ!!F・マリノス)から翻訳されています。
 
 
 『**キックオフ\!\!F・マリノス**』は[tvkで放送されている](../Page/テレビ神奈川.md "wikilink")[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")応援番組。
@@ -40,4 +40,4 @@
 
   - [キックオフ\!\!F・マリノス](http://www.tvk-yokohama.com/f-marinos/)
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:横浜F・マリノス](https://ja.wikipedia.org/wiki/Category:横浜F・マリノス "wikilink")
+[Category:テレビ神奈川のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川のスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組‎](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組‎ "wikilink") [Category:横浜F・マリノス](https://ja.wikipedia.org/wiki/Category:横浜F・マリノス "wikilink")

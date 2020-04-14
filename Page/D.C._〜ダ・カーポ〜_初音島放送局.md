@@ -1,4 +1,4 @@
-> この記事は[D.C.  ](https://ja.wikipedia.org/wiki/D.C.__)から翻訳されています。
+> この記事は[D.C. 〜ダ・カーポ〜 初音島放送局](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_初音島放送局)から翻訳されています。
 
 
 **D.C. 〜ダ・カーポ〜 初音島放送局**（ダ・カーポ はつねじまほうそうきょく）は、「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」内で放送されていた、テレビアニメ『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\) "wikilink")』の関連[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）である。

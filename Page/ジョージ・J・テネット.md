@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ジョージ・J・テネット](https://ja.wikipedia.org/wiki/ジョージ・J・テネット)から翻訳されています。
 
 
 **ジョージ・ジョン・テネット**（, [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[1月5日](../Page/1月5日.md "wikilink") - ）は、[中央情報局](../Page/中央情報局.md "wikilink")（CIA）第18代長官。

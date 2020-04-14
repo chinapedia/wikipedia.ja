@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[コスモ石油四日市FC](https://ja.wikipedia.org/wiki/コスモ石油四日市FC)から翻訳されています。
 
 
 **コスモ石油四日市FC**（コスモせきゆよっかいちエフシー）は、[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）、[ジャパンフットボールリーグ](../Page/ジャパンフットボールリーグ.md "wikilink")（旧JFL）にかつて在籍していた社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[6VS](https://ja.wikipedia.org/wiki/6VS)から翻訳されています。
+> この記事は[ウルトラ6兄弟VS怪獣軍団](https://ja.wikipedia.org/wiki/ウルトラ6兄弟VS怪獣軍団)から翻訳されています。
 
 
 『**ウルトラ6兄弟VS怪獣軍団**』（**ウルトラろくきょうだいたいかいじゅうぐんだん**、タイ語原題：หนุมาน พบ 7 ยอดมนุษย์＝Hanuman pob Jed Yodmanud）は、[1974年](../Page/1974年.md "wikilink")に制作された[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[チャイヨー・プロダクション](../Page/チャイヨー・プロダクション.md "wikilink")合作の劇場映画\[1\]。ただし、チャイヨープロはこの作品の著作権を主張しており、円谷プロはそれを否定も肯定もしていないため、現在は「合作」と主張している当事者はいない\[2\]。
@@ -90,10 +90,10 @@
 詳細は各リンク先を参照。
 
   - 古代怪獣[ゴモラ](https://ja.wikipedia.org/wiki/ゴモラ_\(ウルトラ怪獣\)#『ウルトラ6兄弟VS怪獣軍団』に登場するゴモラ "wikilink")
-  - 宇宙大怪獣[アストロモンス](https://ja.wikipedia.org/wiki/ウルトラマンタロウの登場怪獣#『ウルトラ6兄弟VS怪獣軍団』に登場するアストロモンス "wikilink")
-  - 妖怪怪獣[ダストパン](https://ja.wikipedia.org/wiki/ミラーマン#怪獣 "wikilink")
-  - 暴君怪獣[タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\)#『ウルトラ6兄弟VS怪獣軍団』に登場するタイラント "wikilink")
   - 泥棒怪獣[ドロボン](https://ja.wikipedia.org/wiki/ウルトラマンタロウの登場怪獣#映画『ウルトラ6兄弟VS怪獣軍団』に登場するドロボン "wikilink")
+  - 暴君怪獣[タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\)#『ウルトラ6兄弟VS怪獣軍団』に登場するタイラント "wikilink")
+  - 宇宙大怪獣[アストロモンス](https://ja.wikipedia.org/wiki/ウルトラマンタロウの登場怪獣#『ウルトラ6兄弟VS怪獣軍団』に登場するアストロモンス "wikilink")
+  - 妖怪怪獣[ダストパン](https://ja.wikipedia.org/wiki/ミラーマン#怪獣 "wikilink") - これのみウルトラ怪獣ではなく、公開当時のチラシでの紹介文にも「『[ミラーマン](../Page/ミラーマン.md "wikilink")』からの特別ゲスト」と明記されている。
 
 ## キャスト
 
@@ -126,6 +126,7 @@
   - 助監督 - 中島俊彦
   - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
   - 特殊技術 - [佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
+  - 効果 - 小川勝男（E\&M）
 
 ## 主題歌
 

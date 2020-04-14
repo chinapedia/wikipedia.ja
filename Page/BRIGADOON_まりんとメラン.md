@@ -1,4 +1,4 @@
-> この記事は[BRIGADOON ](https://ja.wikipedia.org/wiki/BRIGADOON_)から翻訳されています。
+> この記事は[BRIGADOON まりんとメラン](https://ja.wikipedia.org/wiki/BRIGADOON_まりんとメラン)から翻訳されています。
 
 
 『**BRIGADOON まりんとメラン**』（ブリガドーン まりんとメラン）は、[WOWOW](../Page/WOWOW.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")まで放送された、[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")。全26話。

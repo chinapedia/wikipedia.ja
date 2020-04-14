@@ -1,4 +1,4 @@
-> この記事は[ LOVE](https://ja.wikipedia.org/wiki/_LOVE)から翻訳されています。
+> この記事は[美鳥の日々 美鳥のLOVEダイアリー](https://ja.wikipedia.org/wiki/美鳥の日々_美鳥のLOVEダイアリー)から翻訳されています。
 
 
 『**美鳥の日々 美鳥のLOVEダイアリー**』（みどりのひび みどりのらぶダイアリー）は、TV[アニメ](../Page/アニメ.md "wikilink")作品『[美鳥の日々](../Page/美鳥の日々.md "wikilink")』と連動し、「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠内で放送されたラジオ番組（[アニラジ](../Page/アニラジ.md "wikilink")）である。この番組のラジオCDも発売された。

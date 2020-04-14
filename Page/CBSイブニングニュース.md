@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSイブニングニュース](https://ja.wikipedia.org/wiki/CBSイブニングニュース)から翻訳されています。
 
 
 『**CBSイブニングニュース**』（**CBS Evening News**）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[CBSニュース](../Page/CBSニュース.md "wikilink")が製作し、[CBS](../Page/CBS.md "wikilink")ネットワークで放送されている[ニュース番組](../Page/報道番組.md "wikilink")。[1948年](../Page/1948年.md "wikilink")に放送を開始した。放送時間は、平日版は午後6時30分から午後7時00分（ET/PT）、日曜版は午後6時00分から午後6時30分（ET/PT）。[Podcastで無料配信されている](../Page/ポッドキャスト.md "wikilink")。

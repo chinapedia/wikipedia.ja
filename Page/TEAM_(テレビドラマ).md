@@ -1,4 +1,4 @@
-> この記事は[TEAM \(\)](https://ja.wikipedia.org/wiki/TEAM_\(\))から翻訳されています。
+> この記事は[TEAM \(テレビドラマ\)](https://ja.wikipedia.org/wiki/TEAM_\(テレビドラマ\))から翻訳されています。
 
 
 『**TEAM**』（チーム）は、[1999年](../Page/1999年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで毎週水曜日21:00 - 21:54に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[水曜劇場](../Page/水曜劇場_\(フジテレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。その後、[2003年](../Page/2003年.md "wikilink")までスペシャルドラマが4回放送された。主演は[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。

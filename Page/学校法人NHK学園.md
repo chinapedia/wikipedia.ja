@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[学校法人NHK学園](https://ja.wikipedia.org/wiki/学校法人NHK学園)から翻訳されています。
 
 
 **学校法人NHK学園**（がっこうほうじんえぬえいちけいがくえん）は、[特殊法人](../Page/特殊法人.md "wikilink")である[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）によって、[1962年](../Page/1962年.md "wikilink")（昭和37年）に創設された[学校法人](../Page/学校法人.md "wikilink")である。

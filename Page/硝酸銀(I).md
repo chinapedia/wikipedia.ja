@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[硝酸銀\(I\)](https://ja.wikipedia.org/wiki/硝酸銀\(I\))から翻訳されています。
 
 
 ) | MeltingPtC = 212 | Melting_notes = 159.6 {{℃}}で[六方晶系](https://ja.wikipedia.org/wiki/六方晶系 "wikilink")へ転移 | BoilingPtC = 444 | Boiling_notes = 分解 | Viscosity = | pKa =

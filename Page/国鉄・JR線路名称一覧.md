@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[国鉄・JR線路名称一覧](https://ja.wikipedia.org/wiki/国鉄・JR線路名称一覧)から翻訳されています。
 
 
 **国鉄・JR線路名称一覧**（こくてつ・JRせんろめいしょういちらん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[国有鉄道及び](../Page/日本国有鉄道.md "wikilink")[JR](../Page/JR.md "wikilink")に所属する、あるいは所属していた[鉄道路線](../Page/鉄道路線.md "wikilink")[名称の一覧である](../Page/鉄道路線の名称.md "wikilink")。

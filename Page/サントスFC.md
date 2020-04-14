@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サントスFC](https://ja.wikipedia.org/wiki/サントスFC)から翻訳されています。
 
 
 **サントスFC**（）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サントス](../Page/サントス.md "wikilink")をホームタウンとする、ブラジルプロサッカーリーグ（ブラジルリーグ）に加盟するプロサッカークラブ。

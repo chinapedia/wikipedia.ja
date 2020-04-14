@@ -1,9 +1,9 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ジョン・F・ケネディ国際空港](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ国際空港)から翻訳されています。
 
 
 [FAA_JFK_Airport_map_2013.svg](https://ja.wikipedia.org/wiki/File:FAA_JFK_Airport_map_2013.svg "fig:FAA_JFK_Airport_map_2013.svg")
 
-**ジョン・F・ケネディ国際空港**（ジョン・F・ケネディこくさいくうこう、**John F. Kennedy International Airport**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[クイーンズ区](../Page/クイーンズ区.md "wikilink")にある[国際空港](../Page/国際空港.md "wikilink")。
+**ジョン・F・ケネディ国際空港**（ジョン・F・ケネディこくさいくうこう、**John F. Kennedy International Airport**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[クイーンズ区](../Page/クイーンズ区.md "wikilink")にある[国際空港](../Page/国際空港.md "wikilink")。
 
 略称として**JFK空港**（JFK Airport）と呼ばれる。旧名**アイドルワイルド空港**（Idlewild Airport）。
 
@@ -16,6 +16,8 @@
 ターミナル数は9つで空港施設の規模としては全米一、面積は約20平方キロメートル（[成田国際空港](../Page/成田国際空港.md "wikilink")の約2倍）で、[マンハッタン](../Page/マンハッタン.md "wikilink")の[42丁目通り以南の面積に匹敵する](https://ja.wikipedia.org/wiki/42丁目_\(マンハッタン\) "wikilink")。なお、アメリカ以外の航空会社として[ブリティッシュエアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュエアウェイズ "wikilink")の専用ターミナルが存在していた。
 
 ジョン・F・ケネディ国際空港は[デルタ航空](../Page/デルタ航空.md "wikilink")と[ジェットブルー航空](../Page/ジェットブルー航空.md "wikilink")が[ハブ空港](../Page/ハブ空港.md "wikilink")にしているほか、[アメリカン航空](../Page/アメリカン航空.md "wikilink")も準ハブ空港の一つとしており、その混雑はますます進んでいる（かつては[イースタン航空](../Page/イースタン航空.md "wikilink")、[ナショナル航空](https://ja.wikipedia.org/wiki/ナショナル航空 "wikilink")、[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")、タワーエアー、[トランスワールド航空](https://ja.wikipedia.org/wiki/トランスワールド航空 "wikilink")などもハブ空港としていた）。
+
+日本では通称「JFK」とされているが、現地ではJFK AirportもしくはKennedy Airportといわないと通じないことが多い（単にJFKではなく）。
 
 ## 歴史
 
@@ -62,7 +64,7 @@
 
 ### 第5ターミナル
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Jfkairport.jpg "wikilink") [エーロ・サーリネン](https://ja.wikipedia.org/wiki/エーロ・サーリネン "wikilink")の設計で1962年に完成し、[旧トランスワールド航空のターミナルとして使用されていた](https://ja.wikipedia.org/wiki/トランスワールド航空 "wikilink")。「サーリネンのターミナルビル」としても知られる優美なデザインは、第3ターミナルとともにケネディ空港を代表する建築物となっている。また、歴史的建造物にも指定されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Jfkairport.jpg "wikilink")  [エーロ・サーリネン](https://ja.wikipedia.org/wiki/エーロ・サーリネン "wikilink")の設計で1962年に完成し、[旧トランスワールド航空のターミナルとして使用されていた](https://ja.wikipedia.org/wiki/トランスワールド航空 "wikilink")。[TWAフライトセンター](../Page/TWAフライトセンター.md "wikilink")とも呼ばれる。「サーリネンのターミナルビル」としても知られる優美なデザインは、第3ターミナルとともにケネディ空港を代表する建築物となっている。また、歴史的建造物にも指定されている。
 
 ### 第7ターミナル
 
@@ -316,7 +318,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Airtrain_jfk.jpg "wikilink")
 
-1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、そのまま南は[地下鉄のハワードビーチ駅に](../Page/ニューヨーク市地下鉄.md "wikilink")、北は地下鉄／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅に接続する](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")。ターミナル間の移動は無料、両駅まではそれぞれ[運賃](../Page/運賃.md "wikilink")5[ドルがかかる](../Page/アメリカ合衆国ドル.md "wikilink")。
+1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、[地下鉄A線のハワードビーチ駅行き](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄A系統 "wikilink")、[地下鉄E,J,Z線の](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")[Sutphin Boulevard駅](https://ja.wikipedia.org/wiki/サットフィン・ブールバード-アーチャー・アベニュー-JFKエアポート駅 "wikilink")／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅行き](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")、そして空港内環状線（ターミナル１→３→4・・8→1の順の一方運行）の三つの運行系統がある。ターミナル間の移動は無料、地下鉄接続駅利用の際は[運賃](../Page/運賃.md "wikilink")7.50ドル\[3\]がかかる。
 
 エアトレインを計画建設したのは、ニューヨークの空港を管理運営するニューヨーク・ニュージャージー港湾公社だが、同公社は崩壊した[ワールドトレードセンターをはじめ](../Page/ワールドトレードセンター_\(ニューヨーク\).md "wikilink")、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")被害により一部使用が不能になった[パストレイン](../Page/パストレイン.md "wikilink")や、被災現場に近いことから通行規制が1年近く続いた[ホランドトンネルなども運営しており](https://ja.wikipedia.org/wiki/ホランド・トンネル "wikilink")、これらの施設からの[賃貸](../Page/賃貸.md "wikilink")料、運賃、通行料などが途絶えたことや、観光客の激減で定期便のキャンセルが相次ぎ空港発着料をはじめとするさまざまな空港関連[収益](../Page/収益.md "wikilink")が減少したことで、深刻な[財政](../Page/財政.md "wikilink")難に直面することになった。そのため当初計画されていたジャマイカ駅から[ラガーディア空港](../Page/ラガーディア空港.md "wikilink")を経由してマンハッタンの三番街59丁目通りの新駅に至る2期[工事](https://ja.wikipedia.org/wiki/工事 "wikilink")は中止となってしまった。
 
@@ -338,7 +340,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 ## 事件
 
-  - [アップルは](../Page/アップル_\(企業\).md "wikilink")[2012年](../Page/2012年.md "wikilink")に発売を開始した[iPad miniについて](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[中国から到着した約](../Page/中華人民共和国.md "wikilink")3,600台（約150万ドル相当）を、発送のため同空港の貨物ビル内に保管していたが、[11月12日](../Page/11月12日.md "wikilink")[深夜](../Page/深夜.md "wikilink")（[東部標準時](../Page/東部標準時.md "wikilink")）に、全て盗まれているのが発見された。事件の舞台となった貨物ビルは、[映画](../Page/映画.md "wikilink")「[グッドフェローズ](../Page/グッドフェローズ.md "wikilink")」のモデルとなった[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[現金](../Page/現金.md "wikilink")[強奪](../Page/強奪.md "wikilink")事件が発生した場所でもある\[3\]。
+  - [アップルは](../Page/アップル_\(企業\).md "wikilink")[2012年](../Page/2012年.md "wikilink")に発売を開始した[iPad miniについて](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[中国から到着した約](../Page/中華人民共和国.md "wikilink")3,600台（約150万ドル相当）を、発送のため同空港の貨物ビル内に保管していたが、[11月12日](../Page/11月12日.md "wikilink")[深夜](../Page/深夜.md "wikilink")（[東部標準時](../Page/東部標準時.md "wikilink")）に、全て盗まれているのが発見された。事件の舞台となった貨物ビルは、[映画](../Page/映画.md "wikilink")「[グッドフェローズ](../Page/グッドフェローズ.md "wikilink")」のモデルとなった[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[現金](../Page/現金.md "wikilink")[強奪](../Page/強奪.md "wikilink")事件が発生した場所でもある\[4\]。
 
 ## 脚注
 
@@ -361,8 +363,9 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
   - [ケネディー空港ターミナル案内とエアラインコード](http://www.at-newyork.com/map/kennedy-airport.htm) - [周辺地図](http://www.at-newyork.com/map/queens.htm)
   - [OpenNav: JFK / KJFK 空域と航空地図](http://www.opennav.jp/kuukou/KJFK)
 
-[Category:ニューヨーク州の空港](https://ja.wikipedia.org/wiki/Category:ニューヨーク州の空港 "wikilink") [Category:ニューヨーク市の交通](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の交通 "wikilink") [Category:ニューヨーク市の航空](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の航空 "wikilink") [Category:ニューヨーク市の観光](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の観光 "wikilink") [Category:クイーンズ](https://ja.wikipedia.org/wiki/Category:クイーンズ "wikilink") [Category:クラスBの空港](https://ja.wikipedia.org/wiki/Category:クラスBの空港 "wikilink") [Category:人名空港](https://ja.wikipedia.org/wiki/Category:人名空港 "wikilink") [Category:ジョン・F・ケネディ](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ "wikilink") [Category:ニューヨーク＝ニュージャージー港湾公社](https://ja.wikipedia.org/wiki/Category:ニューヨーク＝ニュージャージー港湾公社 "wikilink")
+[Category:ジョン・F・ケネディ国際空港](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ国際空港 "wikilink") [Category:ニューヨーク州の空港](https://ja.wikipedia.org/wiki/Category:ニューヨーク州の空港 "wikilink") [Category:ニューヨーク市の交通](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の交通 "wikilink") [Category:ニューヨーク市の航空](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の航空 "wikilink") [Category:ニューヨーク市の観光](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の観光 "wikilink") [Category:クイーンズ](https://ja.wikipedia.org/wiki/Category:クイーンズ "wikilink") [Category:クラスBの空港](https://ja.wikipedia.org/wiki/Category:クラスBの空港 "wikilink") [Category:人名空港](https://ja.wikipedia.org/wiki/Category:人名空港 "wikilink") [Category:ジョン・F・ケネディ](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ "wikilink") [Category:ニューヨーク＝ニュージャージー港湾公社](https://ja.wikipedia.org/wiki/Category:ニューヨーク＝ニュージャージー港湾公社 "wikilink")
 
 1.  [Firstラウンジ](http://www.britishairways.com/ja-jp/information/lounges/first-lounges) - ブリティッシュ・エアウェイズ
 2.
-3.  [アイパッドミニ３６００台盗難…ＪＦＫ国際空港](http://www.yomiuri.co.jp/world/news/20121116-OYT1T00470.htm) 読売新聞 2012年11月16日
+3.
+4.  [アイパッドミニ３６００台盗難…ＪＦＫ国際空港](http://www.yomiuri.co.jp/world/news/20121116-OYT1T00470.htm) 読売新聞 2012年11月16日

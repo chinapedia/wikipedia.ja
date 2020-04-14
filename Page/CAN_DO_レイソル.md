@@ -1,4 +1,4 @@
-> この記事は[CAN DO ](https://ja.wikipedia.org/wiki/CAN_DO_)から翻訳されています。
+> この記事は[CAN DO レイソル](https://ja.wikipedia.org/wiki/CAN_DO_レイソル)から翻訳されています。
 
 
 **CAN DO レイソル**は[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")の[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")応援番組。毎月偶数週（第2、4週目）の日曜日に放送されていた。[ジェフ千葉の](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")[応援番組は月](https://ja.wikipedia.org/wiki/ジェフスタ "wikilink")1回であるので、レイソルの方が広報活動に力を入れているといえる。

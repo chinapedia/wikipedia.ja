@@ -1,4 +1,4 @@
-> この記事は[Today](https://ja.wikipedia.org/wiki/Today)から翻訳されています。
+> この記事は[情報デスクToday](https://ja.wikipedia.org/wiki/情報デスクToday)から翻訳されています。
 
 
 『**情報デスクToday**』（じょうほうデスクトゥディ）は、[TBSほかで放送された](../Page/TBSテレビ.md "wikilink")[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。製作局のTBSでは[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送。

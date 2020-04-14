@@ -1,4 +1,4 @@
-> この記事は[CTC](https://ja.wikipedia.org/wiki/CTC)から翻訳されています。
+> この記事は[CTCマリーンズナイター](https://ja.wikipedia.org/wiki/CTCマリーンズナイター)から翻訳されています。
 
 
 **CTCマリーンズナイター**（*CTC Marines Nighter*）は、[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（チバテレ）の[プロ野球ナイター中継の題名](../Page/プロ野球中継.md "wikilink")。主に[ZOZOマリンスタジアムで開催される](../Page/千葉マリンスタジアム.md "wikilink")[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")の主催試合を放送する。
@@ -47,7 +47,7 @@
   - [初芝清](../Page/初芝清.md "wikilink")（2006年 - 、[セガサミー硬式野球部](../Page/セガサミー硬式野球部.md "wikilink")監督兼）※かつてはニッポン放送の解説者も兼任していた。
   - [立川隆史](../Page/立川隆史.md "wikilink")（2011年 - 、ロッテ球団制作中継解説者兼）
   - [薮田安彦](../Page/薮田安彦.md "wikilink")（2014年 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・ロッテ球団制作中継・[TBSラジオ](../Page/TBSラジオ.md "wikilink")（裏送り）・[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[J SPORTS](../Page/J_SPORTS.md "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")解説者兼）
-  - [里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")（2015年 - 、テレビ東京（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・ロッテ球団制作中継・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
+  - [里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")（2015年 - 、テレビ東京（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・ロッテ球団制作中継・[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
   - [小林雅英](../Page/小林雅英.md "wikilink")（2019年 - ）
 
 ## ゲスト解説者
@@ -113,7 +113,7 @@
   - [テレビ北海道](../Page/テレビ北海道.md "wikilink")\[8\]（[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦の一部）
   - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")\[9\]（[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦の一部）
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")\[10\]（テレビ朝日系列、1996年開幕戦の[福岡ダイエーホークス戦をチバテレビ制作で同時ネットした](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
-  - [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")）『マリーンズライヴ』（2007年度までで供給終了）
+  - [BS朝日](../Page/ビーエス朝日.md "wikilink")（[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")）『マリーンズライヴ』（2007年度までで供給終了）
 
 ## 脚注
 

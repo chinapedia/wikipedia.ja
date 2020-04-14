@@ -7,18 +7,17 @@
 
 [全日空 (ANA)を舞台に](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")演じる若手の旅客機[パイロット](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")・新海元を中心に、恋愛と仕事に生きる人達を描く青春ドラマ。[ヒロイン](../Page/ヒロイン.md "wikilink")は[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")。共演に[堤真一](../Page/堤真一.md "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")、[竹中直人](../Page/竹中直人.md "wikilink")、[いかりや長介](../Page/いかりや長介.md "wikilink")など。
 
-第1話放送後から、撮影に全面協力していた[ANAの株価が上昇](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。ドラマ放送後、ANAはもとより、[JALなど含めた航空業界への就職希望者が急増する現象が起きた](../Page/日本航空.md "wikilink")。この航空業界への就職ブームについては、放送を担当した当時のTBSのニュース番組の中で取り上げられた。
+第1話放送後から、撮影に全面協力していた[ANAの株価が上昇](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。ドラマ放送後、ANAはもとより、[JALなど含めた航空業界への就職希望者が急増する現象が起きた](../Page/日本航空.md "wikilink")。この航空業界への就職ブームについては、当時のTBS系の報道番組の中で取り上げられた。
 
-放送時間は[日曜日](../Page/日曜日.md "wikilink")21:00 - 21:54（第1話は21:00 - 22:09、第9話は21:00 - 21:59、最終話は21:03 - 22:09\[2\]、すべて[JST](../Page/日本標準時.md "wikilink")）。全10回。平均視聴率30.6%、最高視聴率37.6%、瞬間最高視聴率は41.6%を記録した。
+全話平均視聴率は30.6%、最高視聴率は最終回の37.6%、瞬間最高視聴率は41.6%を記録した（いずれも[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区）。
 
 ## キャスト
 
 ### 主要人物
 
-  - 新海 元（しんかい はじめ）〈29〉\[3\]
+  - 新海 元（しんかい はじめ）〈29〉\[2\]
     演 - [木村拓哉](../Page/木村拓哉.md "wikilink")
-    [副操縦士](../Page/副操縦士.md "wikilink")。物事に対して熱く向かっていき、純粋でまっすぐな性格。物語序盤では規律主義の香田とは衝突していたが、物語が進むに連れ、お互いに打ち解け合い、師弟のように信頼し合う仲となる。熱くなりやすい性格ではあるが、序盤にて香田と衝突しつつも香田を仲間と思っていたり、香田の判断力を尊敬する一面もある\[4\]。歩実とも最初は衝突することがあったが、徐々に打ち解け合い、後半にて恋人の関係となる。愛車は[トヨタランドクルーザー40系](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")
-    。
+    [副操縦士](../Page/副操縦士.md "wikilink")。物事に対して熱く向かっていき、純粋でまっすぐな性格。物語序盤では規律主義の香田とは衝突していたが、物語が進むに連れ、お互いに打ち解け合い、師弟のように信頼し合う仲となる。熱くなりやすい性格ではあるが、序盤にて香田と衝突しつつも香田を仲間と思っていたり、香田の判断力を尊敬する一面もある\[3\]。歩実とも最初は衝突することがあったが、徐々に打ち解け合い、後半にて恋人の関係となる。愛車は[トヨタランドクルーザー40系](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー "wikilink")。
   - 香田 一樹（こうだ かずき）〈40〉
     演 - [堤真一](../Page/堤真一.md "wikilink")
     元の上司。元外資系航空会社グランシェア航空のパイロットであり、12年前の[航空機事故](https://ja.wikipedia.org/wiki/航空機事故 "wikilink")が原因でパイロットを引退するつもりであったが、ANAに[ヘッドハンティング](https://ja.wikipedia.org/wiki/ヘッドハンティング "wikilink")され、研修後に[機長](../Page/機長.md "wikilink")及び運航監査官となる。厳格な性格であり、決して感情に流されることはなく、冷静な判断力を常に持ち、失態を犯した者に対しては誰であろうと容赦なく制裁する。そのような特徴から元に「サイボーグ」と呼ばれる。また公明正大な人物であり、乗客を座席クラス関係なく同等のものとして扱う。責任感も非常に強く、異動や謹慎処分にしつつも解雇にはしなかったり、前述の事故によって両親を亡くした歩実に毎年送金を続けていたり、後半にて自身を庇い事故に至った元に対する責任からパイロットを引退しようとしている。元々は元と似た性格で熱くなりやすかったが、前述の事故により厳格な性格へと変わってしまう。富樫とは元々恋人であり、前述の事故によって別れてしまうが、後半にて復縁する。
@@ -38,7 +37,7 @@
     演 - [内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")
     元にやたら言い寄ってくる[キャビンアテンダント](../Page/客室乗務員.md "wikilink")。同じく元が気にかけている歩実にライバル心を燃やす。CAとしての腕は乏しく、ミスを仕出かすこともある。香田の態度に苛立ちを覚え、香田を名誉毀損で訴えようとし、果てには彼女に同情した他のCAを巻き込んでボイコットを起こしたこともある（第5話）。
   - 内藤 ジェーン（ないとう - ）〈45〉
-    演 - [竹中直人](../Page/竹中直人.md "wikilink")（特別出演）\[5\]
+    演 - [竹中直人](../Page/竹中直人.md "wikilink")（特別出演）\[4\]
     機長。女癖が悪く人間的にもだらしなく見えるが、パイロットとしての腕はよく、後輩想いでもある。
   - 安住 龍二郎（あずみ りゅうじろう）〈29〉
     演 - [安住紳一郎](../Page/安住紳一郎.md "wikilink")（TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
@@ -135,7 +134,7 @@
   - 牛島 ミサ（うしじま みさ）
     演 - [石田えり](../Page/石田えり.md "wikilink")
     医師。日本で手術を待っている少女を救うため、北京からの一刻も早い帰国を希望する。
-    元に滞在先のホテルで帰国便のチケットを電話でとってもらい\[6\]、元の操縦する飛行機に搭乗する。
+    元に滞在先のホテルで帰国便のチケットを電話でとってもらい\[5\]、元の操縦する飛行機に搭乗する。
 
 #### 第七話「さらば空」
 
@@ -284,7 +283,7 @@
 <td><p>2003年3月23日</p></td>
 <td><p>ラストフライト</p></td>
 <td><p>土井裕泰</p></td>
-<td><p>[7]</p></td>
+<td><p>[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>平均視聴率 30.6%（視聴率は<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ、<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・世帯）</p></td>
@@ -304,7 +303,7 @@
   - [成田空港](https://ja.wikipedia.org/wiki/成田空港 "wikilink")周辺にある機体撮影スポットとして航空機マニアに人気の「[三里塚さくらの丘](https://ja.wikipedia.org/wiki/三里塚さくらの丘 "wikilink")」の展望台が舞台として使用された。
   - ドラマの最終回に登場する元と緒川のキスシーンは、設定上はハワイとされているが、実際の撮影場所はワイキキビーチの友好姉妹浜となっている[和歌山県](../Page/和歌山県.md "wikilink")の[白良浜](../Page/白良浜.md "wikilink")である。
   - ドラマ本編では元（木村拓哉）が複数機種の操縦を行っているが、実際は機種ごとの免許が必要である。機種によって操縦が異なるため、操縦する際はその都度機種変更訓練を受け機種変更試験に合格しなければならない。そのため、[747-400と](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink")[767](../Page/ボーイング767.md "wikilink")（第1話）を掛け持ちをすることはありえない（ベテランパイロットであれば機種変更の描写を割愛したという解釈も不可能ではないが、副操縦士になりたての元が機種変更を行っているとは考えにくい）。
-  - 第6話｢夜間飛行｣では話の設定上成田への到着時刻は1:30となっているが、近隣住民への騒音被害を最小限に抑える為、実際は当時の成田空港は22:00以降は条例により離着陸禁止となっており、この話の内容のようなことは実際にはありえない。2013年7月現在は基本的に23:00まで、悪天候などやむを得ない場合に限り離着陸を午前0時までに離着となっている\[8\]。
+  - 第6話｢夜間飛行｣では話の設定上成田への到着時刻は1:30となっているが、近隣住民への騒音被害を最小限に抑える為、実際は当時の成田空港は22:00以降は条例により離着陸禁止となっており、この話の内容のようなことは実際にはありえない。2013年7月現在は基本的に23:00まで、悪天候などやむを得ない場合に限り離着陸を午前0時までに離着となっている\[7\]。
   - 放送から10年後の[2013年](../Page/2013年.md "wikilink")12月末にDVDより映像が高画質かつリマスター化された[ブルーレイ](https://ja.wikipedia.org/wiki/ブルーレイ "wikilink")BOXが復刻発売された。また、木村・柴咲が再共演した『[安堂ロイド〜A.I. knows LOVE?〜](https://ja.wikipedia.org/wiki/安堂ロイド〜A.I._knows_LOVE?〜 "wikilink")』の放送にあわせ、TBSほか一部系列局においてBOX発売前に再放送が実施された。
   - オープニング曲の「Departure」は、プロボクサーの[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")の入場テーマ曲として使用されている。
 
@@ -325,13 +324,12 @@
 ## 外部リンク
 
   -
-[Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:日曜劇場](https://ja.wikipedia.org/wiki/Category:日曜劇場 "wikilink") [Category:井上由美子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:井上由美子脚本のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:航空を題材とした作品](https://ja.wikipedia.org/wiki/Category:航空を題材とした作品 "wikilink") [Category:客室乗務員を題材とした作品](https://ja.wikipedia.org/wiki/Category:客室乗務員を題材とした作品 "wikilink") [Category:全日本空輸の歴史](https://ja.wikipedia.org/wiki/Category:全日本空輸の歴史 "wikilink") [Category:成田国際空港を舞台にした作品](https://ja.wikipedia.org/wiki/Category:成田国際空港を舞台にした作品 "wikilink") [Category:東京国際空港を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京国際空港を舞台とした作品 "wikilink") [Category:木村拓哉](https://ja.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
+[Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:日曜劇場](https://ja.wikipedia.org/wiki/Category:日曜劇場 "wikilink") [Category:井上由美子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:井上由美子脚本のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:航空を題材とした作品](https://ja.wikipedia.org/wiki/Category:航空を題材とした作品 "wikilink") [Category:客室乗務員を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:客室乗務員を題材としたテレビドラマ "wikilink") [Category:全日本空輸の歴史](https://ja.wikipedia.org/wiki/Category:全日本空輸の歴史 "wikilink") [Category:成田国際空港を舞台にした作品](https://ja.wikipedia.org/wiki/Category:成田国際空港を舞台にした作品 "wikilink") [Category:東京国際空港を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京国際空港を舞台とした作品 "wikilink") [Category:木村拓哉](https://ja.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
 
 1.  \[<https://kotobank.jp/word/GOOD+LUCK>\!\!-707110 GOOD LUCK\!\!とは\]コトバンク
-2.  [公式ホームページのあらすじ・最終話](http://web.archive.org/web/20040604110432/http://www.tbs.co.jp:80/goodluck/story10.html)
-3.  [公式ホームページのキャストにて](http://web.archive.org/web/20040603152544/http://www.tbs.co.jp:80/goodluck/cast.html)
-4.  3話では急病人の為に成田に引き返した香田の判断を後々考えたり、5話では香田と深浦との間でのトラブルにおいて香田を庇ったり、同じく5話で香田の「他人への心配よりも自分のことをまず考える」という考えに理解を示す
-5.  竹中自身は、[TBSで](../Page/TBSテレビ.md "wikilink")[2005年](../Page/2005年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に放送された「ボイスレコーダー〜残された声の記録〜ジャンボ機墜落20年目の真実」で、[日本航空123便墜落事故](../Page/日本航空123便墜落事故.md "wikilink")の調査に関わった[日本航空](../Page/日本航空.md "wikilink")のパイロットである[藤田日出男](https://ja.wikipedia.org/wiki/藤田日出男 "wikilink")役を演じている。
-6.  当時は、[インターネット](../Page/インターネット.md "wikilink")による航空券購入は一般的でなかった。
-7.
-8.  例外として、[2009年](../Page/2009年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に成田空港A滑走路で[FedExの](https://ja.wikipedia.org/wiki/フェデックス・エクスプレス "wikilink")[MD-11F貨物機が](../Page/マクドネル・ダグラス_MD-11.md "wikilink")[着陸に失敗する事故が発生した際は](https://ja.wikipedia.org/wiki/フェデックス80便着陸失敗事故 "wikilink")、A滑走路が事故機によって封鎖された事から、少しでも多くの航空機を発着させるべく、B滑走路の運用を24日午前3時まで延長している。
+2.  [公式ホームページのキャストにて](http://web.archive.org/web/20040603152544/http://www.tbs.co.jp:80/goodluck/cast.html)
+3.  3話では急病人の為に成田に引き返した香田の判断を後々考えたり、5話では香田と深浦との間でのトラブルにおいて香田を庇ったり、同じく5話で香田の「他人への心配よりも自分のことをまず考える」という考えに理解を示す
+4.  竹中自身は、[TBSで](../Page/TBSテレビ.md "wikilink")[2005年](../Page/2005年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に放送された「ボイスレコーダー〜残された声の記録〜ジャンボ機墜落20年目の真実」で、[日本航空123便墜落事故](../Page/日本航空123便墜落事故.md "wikilink")の調査に関わった[日本航空](../Page/日本航空.md "wikilink")のパイロットである[藤田日出男](https://ja.wikipedia.org/wiki/藤田日出男 "wikilink")役を演じている。
+5.  当時は、[インターネット](../Page/インターネット.md "wikilink")による航空券購入は一般的でなかった。
+6.
+7.  例外として、[2009年](../Page/2009年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に成田空港A滑走路で[FedExの](https://ja.wikipedia.org/wiki/フェデックス・エクスプレス "wikilink")[MD-11F貨物機が](../Page/マクドネル・ダグラス_MD-11.md "wikilink")[着陸に失敗する事故が発生した際は](https://ja.wikipedia.org/wiki/フェデックス80便着陸失敗事故 "wikilink")、A滑走路が事故機によって封鎖された事から、少しでも多くの航空機を発着させるべく、B滑走路の運用を24日午前3時まで延長している。

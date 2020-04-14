@@ -1,4 +1,4 @@
-> この記事は[MOA](https://ja.wikipedia.org/wiki/MOA)から翻訳されています。
+> この記事は[MOA美術館](https://ja.wikipedia.org/wiki/MOA美術館)から翻訳されています。
 
 
 **MOA美術館** （エムオーエーびじゅつかん\[1\]、MOA Museum of Art、旧：熱海美術館） は、[静岡県](../Page/静岡県.md "wikilink")[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")にある私立[美術館](../Page/美術館.md "wikilink")である。
@@ -11,7 +11,7 @@
 
 公益財団法人 岡田茂吉美術文化財団が運営し、美術品の展観をはじめ、いけばな、茶の湯、芸能、児童作品展など幅広い文化活動を展開し、美による情操教育など美術教育にも力をいれている。
 
-館名は「Mokichi Okada Association」の頭文字をとったものである\[3\]。
+館名は「Mokichi Okada Association」の頭文字を取ったものである\[3\]。
 
 ### 開館の経緯
 
@@ -24,7 +24,7 @@
 ## 歴代館長
 
   - 1982‐2006　吉岡庸治（1921－2006年4月18日\[8\]）徳島県出身。
-  - 2006‐2014　岡田斎（世界救世教第三代教主）
+  - 2006‐2014　岡田斎
   - 2014‐ [内田篤呉](https://ja.wikipedia.org/wiki/内田篤呉 "wikilink")
 
 ## 施設
@@ -80,7 +80,7 @@
   - 山水図〔楼閣山水図〕 紙本墨画 海北友松 六曲屏風一双
   - 花見鷹狩図 紙本著色 伝 [雲谷等顔](https://ja.wikipedia.org/wiki/雲谷等顔 "wikilink") 六曲屏風一双
   - 洋人奏楽図 紙本著色 六曲屏風一双
-  - 人麿貫之図〔[柿本人麿](https://ja.wikipedia.org/wiki/柿本人麿 "wikilink")・[紀貫之](../Page/紀貫之.md "wikilink")図〕 紙本墨画 [岩佐又兵衛](../Page/岩佐又兵衛.md "wikilink")勝以 2幅
+  - 人麿貫之図〔[柿本人麿](../Page/柿本人麻呂.md "wikilink")・[紀貫之](../Page/紀貫之.md "wikilink")図〕 紙本墨画 [岩佐又兵衛](../Page/岩佐又兵衛.md "wikilink")勝以 2幅
   - 岩佐勝以像〔自画像〕 岩佐又兵衛勝以 紙本著色1幅（附 紙本墨書岩佐勝以書状1幅、紙本墨書岩佐家系図1巻）
   - 山中常盤絵〔山中常盤物語絵巻〕 紙本著色 伝 岩佐又兵衛 12巻
   - 浄瑠璃絵〔浄瑠璃物語絵巻〕 紙本著色 伝 岩佐又兵衛 12巻
@@ -183,7 +183,7 @@
 
 典拠：2000年（平成12年）までの指定物件については、『国宝・重要文化財大全 別巻』（所有者別総合目録・名称総索引・統計資料）（[毎日新聞社](../Page/毎日新聞社.md "wikilink")、2000）による。
 
-<File:E-INGAKYO> (ILLUSTRATED SUTRA OF PAST AND PRESENT KARMA) - Google Art Project.jpg|絵因果経断簡（重要文化財） <File:Aizen> Myoo (MOA Museum of Art).jpg|愛染明王像（重要文化財） <File:Shinkaku> - BUDDHIST DIVINITIES IN TWO VOLUMES - Google Art Project.jpg|諸尊図像（重要文化財） <File:POET> AND HIS POEM - MINAMOTO-NO-SHIGEYUKI - Google Art Project.jpg|[源重之](../Page/源重之.md "wikilink")像（上畳本三十六歌仙絵巻断簡）（重要文化財） <File:PORTRAIT> OF THE POET TAIRA-NO-KANEMORI AND HIS POEM - Google Art Project.jpg|平兼盛像（[佐竹本三十六歌仙絵巻](https://ja.wikipedia.org/wiki/佐竹本三十六歌仙絵巻 "wikilink")断簡）（重要文化財） <File:Kichizan> Mincho - KANNON (AVALOKITESVARA) IN WHITE ROBES - Google Art Project.jpg|明兆 白衣観音図（重要文化財） <File:YUNA> ( SERVICE WOMEN IN BATHHOUSE ) - Google Art Project.jpg|湯女図（重要文化財） <File:Katsukawa> Shunsho - WOMEN IN SEASONS OF SNOW, MOON AND FLOWER - Google Art Project.jpg|[勝川春章](../Page/勝川春章.md "wikilink") 雪月花図（重要文化財） <File:Katsukawa> Shunsho - WOMEN AND EVENTS OF THE 12 MONTHS - Google Art Project.jpg|勝川春章 婦女風俗十二ヶ月図のうち五月（蛍火）（重要文化財） <File:Sakai> Hoitsu - SNOW, MOON AND FLOWERS - Google Art Project.jpg|[酒井抱一](../Page/酒井抱一.md "wikilink") 雪月花図 <File:Katsushika> Hokusai - TWO BEAUTIES - Google Art Project.jpg|[葛飾北斎](../Page/葛飾北斎.md "wikilink") 二美人図（重要文化財） <File:LADY> UNDER A TREE - Google Art Project.jpg|樹下美人図 伝トルファン出土 唐時代（重要文化財） <File:Attributed> to Ma Yuan - GENTLEMAN VIEWING THE MOON - Google Art Project.jpg|伝馬遠 高士観月図（重要文化財） <File:Honami> Koetsu - CALLIGRAPHY OF POEMS from the Shinkokin-wakashu on Paper Decorated with Deer - Google Art Project.jpg|鹿下絵古今集和歌巻断簡 下絵：[俵屋宗達](../Page/俵屋宗達.md "wikilink")、書：[本阿弥光悦](../Page/本阿弥光悦.md "wikilink") <File:Attributed> to Ono-no-Michikaze - FRAGMENT TSUGI-SHIKISHI - Google Art Project.jpg|継色紙（わたつみの）（重要文化財） <File:MYOHORENGE-KYO> SUTRA - Google Art Project.jpg|法華経授記品（重要文化財） <File:Priest> Shuho Myocho - ZEN CALLIGRAPHY- SERMON - Google Art Project.jpg|宗峰妙超墨蹟 秋風偈 <File:King> and Queen by Henry Moore in the MOA Museum, Japan.jpg|[ヘンリー・ムーア](../Page/ヘンリー・ムーア.md "wikilink")『王と王妃』（屋外展示）
+<File:E-INGAKYO> (ILLUSTRATED SUTRA OF PAST AND PRESENT KARMA) - Google Art Project.jpg|絵因果経断簡（重要文化財） <File:Aizen> Myoo (MOA Museum of Art).jpg|愛染明王像（重要文化財） <File:Shinkaku> - BUDDHIST DIVINITIES IN TWO VOLUMES - Google Art Project.jpg|諸尊図像（重要文化財） <File:POET> AND HIS POEM - MINAMOTO-NO-SHIGEYUKI - Google Art Project.jpg|[源重之](../Page/源重之.md "wikilink")像（上畳本三十六歌仙絵巻断簡）（重要文化財） <File:PORTRAIT> OF THE POET TAIRA-NO-KANEMORI AND HIS POEM - Google Art Project.jpg|平兼盛像（[佐竹本三十六歌仙絵巻](https://ja.wikipedia.org/wiki/佐竹本三十六歌仙絵巻 "wikilink")断簡）（重要文化財） <File:Kichizan> Mincho - KANNON (AVALOKITESVARA) IN WHITE ROBES - Google Art Project.jpg|明兆 白衣観音図（重要文化財） <File:YUNA> ( SERVICE WOMEN IN BATHHOUSE ) - Google Art Project.jpg|湯女図（重要文化財） <File:Katsukawa> Shunsho - WOMEN IN SEASONS OF SNOW, MOON AND FLOWER - Google Art Project.jpg|[勝川春章](../Page/勝川春章.md "wikilink") 雪月花図（重要文化財） <File:Katsukawa> Shunsho - WOMEN AND EVENTS OF THE 12 MONTHS - Google Art Project.jpg|勝川春章 婦女風俗十二ヶ月図のうち五月（蛍火）（重要文化財） <File:Sakai> Hoitsu - SNOW, MOON AND FLOWERS - Google Art Project.jpg|[酒井抱一](../Page/酒井抱一.md "wikilink") 雪月花図 <File:Katsushika> Hokusai - TWO BEAUTIES - Google Art Project.jpg|[葛飾北斎](../Page/葛飾北斎.md "wikilink") 二美人図（重要文化財） <File:LADY> UNDER A TREE - Google Art Project.jpg|樹下美人図 伝トルファン出土 唐時代（重要文化財） <File:Attributed> to Ma Yuan - GENTLEMAN VIEWING THE MOON - Google Art Project.jpg|伝馬遠 高士観月図（重要文化財） <File:Honami> Koetsu - CALLIGRAPHY OF POEMS from the Shinkokin-wakashu on Paper Decorated with Deer - Google Art Project.jpg|鹿下絵古今集和歌巻断簡 下絵：[俵屋宗達](../Page/俵屋宗達.md "wikilink")、書：[本阿弥光悦](../Page/本阿弥光悦.md "wikilink") <File:Attributed> to Ono-no-Michikaze - FRAGMENT TSUGI-SHIKISHI - Google Art Project.jpg|継色紙（わたつみの）（重要文化財） <File:MYOHORENGE-KYO> SUTRA - Google Art Project.jpg|法華経授記品（重要文化財） <File:Priest> Shuho Myocho - ZEN CALLIGRAPHY- SERMON - Google Art Project.jpg|宗峰妙超墨蹟 秋風偈 |[ヘンリー・ムーア](../Page/ヘンリー・ムーア.md "wikilink")『王と王妃』（屋外展示）
 
 ## 脚注
 

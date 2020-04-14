@@ -1,4 +1,4 @@
-> この記事は[COM](https://ja.wikipedia.org/wiki/COM)から翻訳されています。
+> この記事は[ちゅピCOMふれあい](https://ja.wikipedia.org/wiki/ちゅピCOMふれあい)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Chugoku_Shimbun_Headquarters_2.jpg "wikilink") **株式会社ちゅピCOMふれあい**は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の一部、[廿日市市](../Page/廿日市市.md "wikilink")の一部、[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[海田町](../Page/海田町.md "wikilink")の一部、[大竹市](../Page/大竹市.md "wikilink")をサービスエリアとする[中国新聞](../Page/中国新聞.md "wikilink")グループの[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
@@ -78,7 +78,7 @@
 | 60   | BS101     | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                             |
 | 61   | BS103     | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")                  |
 | 64   | BS141-143 | [BS日テレ](../Page/BS日本.md "wikilink")                                                  |
-| 65   | BS151-153 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                              |
+| 65   | BS151-153 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                 |
 | 66   | BS161-163 | [BS-TBS](../Page/BS-TBS.md "wikilink")                                               |
 | 67   | BS171-173 | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                            |
 | 68   | BS181-183 | [BSフジ](../Page/BSフジ.md "wikilink")                                                   |

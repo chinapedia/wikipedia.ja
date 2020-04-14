@@ -1,7 +1,7 @@
 > この記事は[ICE](https://ja.wikipedia.org/wiki/ICE)から翻訳されています。
 
 
-[ICE-Logo.svg](https://ja.wikipedia.org/wiki/File:ICE-Logo.svg "fig:ICE-Logo.svg") [ICE3_Cologne.jpg](https://ja.wikipedia.org/wiki/File:ICE3_Cologne.jpg "fig:ICE3_Cologne.jpg")に停車中のICE 3\]\] [Innotrans_407.jpg](https://ja.wikipedia.org/wiki/File:Innotrans_407.jpg "fig:Innotrans_407.jpg")\]\] **インターシティエクスプレス**（Intercity-Express、通称：**ICE** イーツェーエー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を中心に運行されている[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[高速列車である](../Page/高速鉄道.md "wikilink")。また、[ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")の旅客列車における最上位の[列車種別](https://ja.wikipedia.org/wiki/列車種別 "wikilink")であり、[インターシティの上位にあたる](https://ja.wikipedia.org/wiki/インターシティ_\(ドイツ\) "wikilink")。 [thumbにて](https://ja.wikipedia.org/wiki/ファイル:ICEtrain-Germany-December2015.ogv "wikilink")\]\]
+[ICE-Logo.svg](https://ja.wikipedia.org/wiki/File:ICE-Logo.svg "fig:ICE-Logo.svg") [ICE3_Cologne.jpg](https://ja.wikipedia.org/wiki/File:ICE3_Cologne.jpg "fig:ICE3_Cologne.jpg")に停車中のICE 3\]\] [Innotrans_407.jpg](https://ja.wikipedia.org/wiki/File:Innotrans_407.jpg "fig:Innotrans_407.jpg")\]\] **インターシティエクスプレス**（Intercity-Express、通称：**ICE** イーツェーエー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")を中心に運行されている[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[高速列車である](../Page/高速鉄道.md "wikilink")。また、[ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")の旅客列車における最上位の[列車種別](../Page/列車種別.md "wikilink")であり、[インターシティの上位にあたる](https://ja.wikipedia.org/wiki/インターシティ_\(ドイツ\) "wikilink")。 [thumbにて](https://ja.wikipedia.org/wiki/ファイル:ICEtrain-Germany-December2015.ogv "wikilink")\]\]
 
 ## 歴史
 

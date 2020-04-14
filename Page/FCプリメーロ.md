@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCプリメーロ](https://ja.wikipedia.org/wiki/FCプリメーロ)から翻訳されています。
 
 
 **FCプリメーロ** ()は、[福島県](../Page/福島県.md "wikilink")[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -37,7 +37,7 @@
 | [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\)#東北 "wikilink") | 4位                                                                                    | 30     | 18 | 9  | 3  | 6  | 38 | 33 | 5    |      |     |
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\)#東北 "wikilink") | 6位                                                                                    | 21     | 18 | 6  | 3  | 9  | 26 | 34 | \-8  |      |     |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\)#東北 "wikilink") | 6位                                                                                    | 23     | 18 | 7  | 2  | 9  | 34 | 38 | \-4  | 鈴木茂雄 |     |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\)#東北 "wikilink") | 位                                                                                     |        | 18 |    |    |    |    |    |      |      |     |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\)#東北 "wikilink") | 8位                                                                                    | 16     | 18 | 5  | 1  | 12 | 24 | 70 | \-46 |      |     |
 
 ## タイトル
 

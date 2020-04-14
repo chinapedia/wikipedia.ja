@@ -1,4 +1,4 @@
-> この記事は[Express](https://ja.wikipedia.org/wiki/Express)から翻訳されています。
+> この記事は[グランパスExpress](https://ja.wikipedia.org/wiki/グランパスExpress)から翻訳されています。
 
 
 『**グランパスExpress**』（グランパスエクスプレス）は、[1993年](../Page/1993年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[東海テレビで放送された](../Page/東海テレビ放送.md "wikilink")[名古屋グランパスの応援番組](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")。通称「**GEX**」（ゲックス）。

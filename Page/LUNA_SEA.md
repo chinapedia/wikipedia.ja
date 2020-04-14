@@ -745,6 +745,8 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   - [2月1日](../Page/2月1日.md "wikilink")：ライブツアー「LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE-」が、[三郷市文化会館](https://ja.wikipedia.org/wiki/三郷市文化会館 "wikilink")にてスタート。13カ所全26公演。
+  - [2月26日](../Page/2月26日.md "wikilink")、政府から新型コロナウイルス感染拡大防止の為の、イベント中止要請があり、[2月27日](../Page/2月27日.md "wikilink")、28日の宇都宮市文化会館での公演、[3月7日](../Page/3月7日.md "wikilink")、8日の本多の森ホールでの公演が延期となった\[49\]\[50\]。
+  - [3月7日](../Page/3月7日.md "wikilink")、新型コロナウイルスの終息が見通せない為、3月の公演を全て延期にすることが発表された\[51\]。
   - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定。
 
 ## ディスコグラフィ
@@ -1634,7 +1636,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 
   - DREAM IS OVER
   - PERIOD
-  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[49\]。）
+  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[52\]。）
   - 第三の言葉（「PRECIOUS...」の原曲）
   - Feeling（「VAMPIRE'S TALK」の原曲）
   - CONCLUSION（「A.I.」の原曲）
@@ -1704,30 +1706,30 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <p>10会場全28公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>1月8日 町田PLAY HOUSE[50]<br />
-1月11日 目黒鹿鳴館[51]<br />
+<p>1月8日 町田PLAY HOUSE[53]<br />
+1月11日 目黒鹿鳴館[54]<br />
 1月18日 目黒LIVE STATION<br />
-2月18日 厚木cafe AMI[52]<br />
+2月18日 厚木cafe AMI[55]<br />
 2月18日 四谷FOUR VALLEY<br />
-2月24日 町田PLAY HOUSE[53]<br />
-3月26日 目黒鹿鳴館[54]<br />
-4月14日 目黒LIVE STATION[55]<br />
-4月17日 町田PLAY HOUSE[56]<br />
-4月28日 平塚中央公民館[57]<br />
-5月3日 渋谷YAMAHA EPICURUS[58]<br />
-5月14日 目黒LIVE STATION[59]<br />
+2月24日 町田PLAY HOUSE[56]<br />
+3月26日 目黒鹿鳴館[57]<br />
+4月14日 目黒LIVE STATION[58]<br />
+4月17日 町田PLAY HOUSE[59]<br />
+4月28日 平塚中央公民館[60]<br />
+5月3日 渋谷YAMAHA EPICURUS[61]<br />
+5月14日 目黒LIVE STATION[62]<br />
 5月24日 目黒鹿鳴館<br />
-6月23日 目黒LIVE STATION[60]<br />
+6月23日 目黒LIVE STATION[63]<br />
 6月30日 目黒鹿鳴館<br />
-7月23日 目黒LIVE STATION[61]<br />
-7月25日 目黒鹿鳴館[62]<br />
-8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[63]<br />
-8月16日 目黒鹿鳴館 [64]<br />
-8月30日 目黒LIVE STATION[65]<br />
-9月4日 町田PLAY HOUSE[66]<br />
+7月23日 目黒LIVE STATION[64]<br />
+7月25日 目黒鹿鳴館[65]<br />
+8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[66]<br />
+8月16日 目黒鹿鳴館 [67]<br />
+8月30日 目黒LIVE STATION[68]<br />
+9月4日 町田PLAY HOUSE[69]<br />
 9月16日 目黒LIVE STATION<br />
 10月1日 目黒鹿鳴館<br />
-10月13日 大宮FREAKS[67]<br />
+10月13日 大宮FREAKS[70]<br />
 10月14日 目黒LIVE STATION<br />
 11月1日 目黒鹿鳴館<br />
 11月8日 横浜7th AVENUE<br />
@@ -1739,43 +1741,43 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small>関西初LIVE</small> 爆獣 BAY AREA SHOCK</p></td>
-<td><p>4月3日 大阪MODA HALL[68]</p></td>
+<td><p>4月3日 大阪MODA HALL[71]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>LUNA SEA 1周年記念ワンマン</small> 黒服限定GIG</p></td>
-<td><p>6月10日 町田PLAY HOUSE[69]</p></td>
+<td><p>6月10日 町田PLAY HOUSE[72]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>BAND EXPROSION</p></td>
-<td><p>6月24日 厚木cafe AMI[70]</p></td>
+<td><p>6月24日 厚木cafe AMI[73]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>Gilles de Rais ワンマン</small> キリギリス症候群</p></td>
-<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[71]</p></td>
+<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[74]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>HARD ROLLING NIGHT</p></td>
-<td><p>7月15日 大阪MODA HALL[72]</p></td>
+<td><p>7月15日 大阪MODA HALL[75]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>ALL YOUNG ROCKERS</p></td>
-<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[73]</p></td>
+<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[76]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>黒服限定GIG</p></td>
-<td><p>11月24日 目黒LIVE STATION[74]</p></td>
+<td><p>11月24日 目黒LIVE STATION[77]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1799,7 +1801,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>年越しALL NIGHT LIVE</p></td>
-<td><p>12月31日 横浜7th AVENUE[75]</p></td>
+<td><p>12月31日 横浜7th AVENUE[78]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1833,19 +1835,19 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>オールナイトイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION</p></td>
-<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[76]</p></td>
+<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[79]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>ONEMAN GIG</p></td>
-<td><p>2月11日 目黒鹿鳴館[77]</p></td>
+<td><p>2月11日 目黒鹿鳴館[80]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><small>Rockin' f presents</small> Tokyo Guerrilla Warfare</p></td>
-<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[78]</p></td>
+<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[81]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1860,7 +1862,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 3月14日 <a href="../Page/難波ロケッツ.md" title="wikilink">難波ROCKETS</a><br />
 3月17日 京都BIG BANG<br />
 3月18日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋HeartLand STUDIO</a><br />
-3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[79]</p>
+3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[82]</p>
 </div>
 </div></td>
 <td></td>
@@ -1868,7 +1870,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SOUND FILE OF LIVE STATION</p></td>
-<td><p>3月27日 CLUB CITTA'川崎[80]</p></td>
+<td><p>3月27日 CLUB CITTA'川崎[83]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1888,13 +1890,13 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SHOXX 師弟突撃LIVE</p></td>
-<td><p>5月5日 目黒鹿鳴館[81]</p></td>
+<td><p>5月5日 目黒鹿鳴館[84]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>LUNA SEA 結成2周年記念 セッション大会</p></td>
-<td><p>5月18日 町田PLAY HOUSE[82]</p></td>
+<td><p>5月18日 町田PLAY HOUSE[85]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1919,7 +1921,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION VOL.2</p></td>
-<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[83]</p></td>
+<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[86]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1998,7 +2000,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>MONSTER CLUB II</p></td>
-<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[84]</p></td>
+<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[87]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2055,7 +2057,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/5時SATマガジン#番組イベント" title="wikilink">5時SAT LOVE ROCKS '92</a></p></td>
-<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[85]</p></td>
+<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[88]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2115,7 +2117,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><a href="../Page/東日本旅客鉄道.md" title="wikilink">JR東日本</a> POP ROCKETS '92</p></td>
-<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[86]</p></td>
+<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[89]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2127,13 +2129,13 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small><a href="../Page/麒麟麦酒.md" title="wikilink">KIRIN</a> SOUND TOGETHER</small> <a href="https://ja.wikipedia.org/wiki/POP_HILL" title="wikilink">POP HILL</a> 92</p></td>
-<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[87]</p></td>
+<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[90]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>BSヤングバトル '92 東北ブロック大会</p></td>
-<td><p>8月20日 仙台イズミティ21大ホール[88]</p></td>
+<td><p>8月20日 仙台イズミティ21大ホール[91]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2176,7 +2178,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <p>2会場全2公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[89]<br />
+<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[92]<br />
 10月31日 日本武道館</p>
 </div>
 </div></td>
@@ -2974,7 +2976,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <tr class="odd">
 <td><p><del>単発コンサート</del></p></td>
 <td><p><del>LUNA SEA The 30th Anniversary Special Live in Bangkok</del></p></td>
-<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [90]</p></td>
+<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [93]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3011,7 +3013,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <del>2月27日 宇都宮市文化会館大ホール<br />
 2月28日 宇都宮市文化会館大ホール<br />
 3月7日 本多の森ホール(旧石川厚生年金会館)<br />
-3月8日 本多の森ホール(旧石川厚生年金会館)</del><br />
+3月8日 本多の森ホール(旧石川厚生年金会館)<br />
 3月14日 南相馬市民文化会館ゆめはっと大ホール<br />
 3月15日 南相馬市民文化会館ゆめはっと大ホール<br />
 3月21日 福岡サンパレス<br />
@@ -3025,7 +3027,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 4月18日 新潟県民会館大ホール<br />
 4月19日 新潟県民会館大ホール<br />
 4月25日 仙台サンプラザホール<br />
-4月26日 仙台サンプラザホール<br />
+4月26日 仙台サンプラザホール</del><br />
 5月2日 神戸国際会館こくさいホール<br />
 5月3日 神戸国際会館こくさいホール<br />
 5月9日 札幌文化芸術劇場 hitaru<br />
@@ -3313,45 +3315,48 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 46. [ホンダの燃料電池自動車がLUNA SEAのライブで電力供給](https://f1-gate.com/honda/lunasea_37086.html) - F1-Gate.com（2017年6月16日）
 47. [LUNA SEA「愛」がテーマの新作アルバム発表、年明けからホールツアー](http://natalie.mu/music/news/251594) - ナタリー・2017年10月5日
 48. [LUNA SEAニューアルバム「CROSS」発売、2月から全国ツアー](https://natalie.mu/music/news/351274) - ナタリー・2019年10月11日
-49. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
-50. with DOLLS/WOOD PECKER etc
-51. vs BILLY & THE SLUTS etc
-52. vs JOLLY PICKLES etc
-53. vs WOOD PECKER/CRACKER JACK
-54. vs DELIGHTS/東京ヤンキース
-55. vs SALAMANDER/VILE/マダムロシャス
-56. JOLLY PICKLES/SCHOOL DAZE etc
-57.
-58. 夜叉/DK POLICE etc
-59. vs DANTE
-60. vs BURN TRASH/オルフェス
-61. vs Girltipue
-62. vs SALAMANDER etc
-63. vs VOICE BLUE
-64. vs CRACKER JACK etc
-65. Gilles de Rais/DANTE etc
-66. vs VILE/SIGHS OF LOVE POTION
-67. vs SHADOW/The HAREM Q
-68. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
-69. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
-70. ゲスト出演
-71.
-72. vs CUTY-CUTE/RATE GREEK etc
-73. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
-74. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
-75. シークレット
-76. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
-77. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
-78. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
-79. vs Gilles de Rais/SIGHS OF LOVE POTION
-80. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
-81. vs AION
-82. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
-83. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
-84. vs AION/DECAMERON
-85. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
-86. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
-87. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
-88.
-89. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
-90.
+49. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 宇都宮、石川(金沢)公演に関する延期のお知らせ](https://www.lunasea.jp/news/LUN_news_3e9a0d6126641bb28129f09c99736d64) LUNA SEA OFFICIAL WEBSITE NEWS 2020年2月26日
+50. [ＬＵＮＡ　ＳＥＡも４公演延期…主な音楽ライブの中止・延期・自粛](https://hochi.news/articles/20200226-OHT1T50215.html) スポーツ報知 2020年2月16日
+51. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 3月公演延期のお知らせ](https://www.lunasea.jp/news/LUN_news_f519ccf73c968ac404ed8bed3a61bf97) LUNA SEA OFFICIAL WEBSITE NEWS 2020年3月7日
+52. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
+53. with DOLLS/WOOD PECKER etc
+54. vs BILLY & THE SLUTS etc
+55. vs JOLLY PICKLES etc
+56. vs WOOD PECKER/CRACKER JACK
+57. vs DELIGHTS/東京ヤンキース
+58. vs SALAMANDER/VILE/マダムロシャス
+59. JOLLY PICKLES/SCHOOL DAZE etc
+60.
+61. 夜叉/DK POLICE etc
+62. vs DANTE
+63. vs BURN TRASH/オルフェス
+64. vs Girltipue
+65. vs SALAMANDER etc
+66. vs VOICE BLUE
+67. vs CRACKER JACK etc
+68. Gilles de Rais/DANTE etc
+69. vs VILE/SIGHS OF LOVE POTION
+70. vs SHADOW/The HAREM Q
+71. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
+72. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
+73. ゲスト出演
+74.
+75. vs CUTY-CUTE/RATE GREEK etc
+76. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
+77. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
+78. シークレット
+79. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
+80. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
+81. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
+82. vs Gilles de Rais/SIGHS OF LOVE POTION
+83. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
+84. vs AION
+85. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
+86. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
+87. vs AION/DECAMERON
+88. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
+89. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
+90. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
+91.
+92. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
+93.

@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDガンダムフォース](https://ja.wikipedia.org/wiki/SDガンダムフォース)から翻訳されています。
 
 
 『**SDガンダムフォース**』（エスディーガンダムフォース、***Superior Defender Gundam Force***）は、[2003年](../Page/2003年.md "wikilink")に[アメリカで先行放送され](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2004年](../Page/2004年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。同時期に[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")でも時差放送された。通称『SDGF』\[1\]。

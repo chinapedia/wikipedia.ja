@@ -1,4 +1,4 @@
-> この記事は[JREH500](https://ja.wikipedia.org/wiki/JREH500)から翻訳されています。
+> この記事は[JR貨物EH500形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EH500形電気機関車)から翻訳されています。
 
 
 **EH500形電気機関車**（イーエイチ500かたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）から製造する三電源方式[交流直流両用](../Page/交直流電車.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。

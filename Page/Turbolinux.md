@@ -15,7 +15,9 @@
 
 2008年の8月には、多くのユーザーへの体験を目的として有償のフォントやソフトウェアを除いた無償のTurbolinux Client 2008 Live Editionが公開された。ダウンロードや雑誌への添付などを含めて累計出荷本数は15万本を超えた\[3\]。
 
-日本国内ではTurbolinux Client 12.5以降新たな発表がないが、中国国内ではTurbolinux13の中国版にあたるGreatTurbo Enterprise Server 13を2014年12月1日に発売しており、その後の2016年には13.2へのアップデートを提供している。現在はGreatOpenSourceによって開発が続けられている。
+日本国内ではTurbolinux Client 12.5以降新たな発表がないが、中国国内ではTurbolinux13の中国版にあたるGreatTurbo Enterprise Server 13を2014年12月1日に発売しており、その後の2016年には13.2へのアップデートを提供している。Turbolinux13まではGreatOpenSourceによって開発が行われていた。
+
+その後はHUAWEIと共同で開発を継続、2020年にOpen Eulerとコアを共通化したTurbolinux EnterpriseServer 15を発売している。中国 拓林思のホームページはページ内の至る箇所に「建設中」と称してループリンクを設置しており、「立即下载」のボタンを押しても同OSのダウンロードは不可能となっているが、Turbolinux15のプロモーションビデオを確認する事が出来る。また、同ビデオはHUAWEIのページにも存在する。
 
 ## 歴史
 
@@ -63,6 +65,7 @@
   - [Turbolinux Client 2008 アプリケーションガイド](http://www.turbolinux.co.jp/products/tlc2008/application_guide/)
   - [DistroWatch.com: Turbolinux](http://distrowatch.com/table.php?distribution=turbolinux)
   - [北京万里开源软件有限公司](http://www.greatopensource.com/)
+  - <https://developer.huaweicloud.com/exhibition/TurboLinux.html>
 
 [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:日本のLinux開発](https://ja.wikipedia.org/wiki/Category:日本のLinux開発 "wikilink")
 

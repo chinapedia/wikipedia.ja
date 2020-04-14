@@ -1,4 +1,4 @@
-> この記事は[QED \(\)](https://ja.wikipedia.org/wiki/QED_\(\))から翻訳されています。
+> この記事は[QED \(テキストエディタ\)](https://ja.wikipedia.org/wiki/QED_\(テキストエディタ\))から翻訳されています。
 
 
 **QED**は[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")オペレーティングシステムの[テキストエディタ](../Page/テキストエディタ.md "wikilink") [ed](https://ja.wikipedia.org/wiki/ed "wikilink")やexの祖となった[ラインエディタ](https://ja.wikipedia.org/wiki/ラインエディタ "wikilink")である。

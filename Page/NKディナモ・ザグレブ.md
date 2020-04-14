@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKディナモ・ザグレブ](https://ja.wikipedia.org/wiki/NKディナモ・ザグレブ)から翻訳されています。
 
 
 **グラジャンスキ・ノゴメトニ・クルブ・ディナモ・ザグレブ**（）\[1\]\[2\]\[3\] は、[クロアチア](../Page/クロアチア.md "wikilink")共和国の首都[ザグレブ](../Page/ザグレブ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。略字表記は「DZG」

@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECプラットフォームズ](https://ja.wikipedia.org/wiki/NECプラットフォームズ)から翻訳されています。
 
 
 **NECプラットフォームズ株式会社**（*NEC Platforms, Ltd.*）は、[NECグループ](../Page/NECグループ.md "wikilink")の主要子会社である。[企業](../Page/企業.md "wikilink")向けの[電話](../Page/電話.md "wikilink")機器、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[通信](../Page/通信.md "wikilink")機器の製造販売事業を主に手がけている。旧社名は**日通工株式会社**（にっつうこう、*Nitsuko* 2001年まで）、**NECインフロンティア株式会社**（*NEC Infrontia, Ltd.* 2014年6月まで）。

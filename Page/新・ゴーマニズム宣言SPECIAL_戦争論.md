@@ -1,4 +1,4 @@
-> この記事は[SPECIAL ](https://ja.wikipedia.org/wiki/SPECIAL_)から翻訳されています。
+> この記事は[新・ゴーマニズム宣言SPECIAL 戦争論](https://ja.wikipedia.org/wiki/新・ゴーマニズム宣言SPECIAL_戦争論)から翻訳されています。
 
 
 『**新・ゴーマニズム宣言SPECIAL 戦争論**』（しんゴーマニズムせんげんスペシャル せんそうろん）は、[小林よしのり](../Page/小林よしのり.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月より、雑誌『[SAPIO](../Page/SAPIO.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されている『[新・ゴーマニズム宣言](https://ja.wikipedia.org/wiki/新・ゴーマニズム宣言 "wikilink")』の別冊版という体裁を取っている。

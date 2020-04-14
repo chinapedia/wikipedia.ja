@@ -1,4 +1,4 @@
-> この記事は[ DH.108](https://ja.wikipedia.org/wiki/_DH.108)から翻訳されています。
+> この記事は[デ・ハビランド DH.108](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.108)から翻訳されています。
 
 
 [DeHavilland_Swallow_VW120_NAN7-49.jpg](https://ja.wikipedia.org/wiki/File:DeHavilland_Swallow_VW120_NAN7-49.jpg "fig:DeHavilland_Swallow_VW120_NAN7-49.jpg") **デ・ハビランド DH.108** スワロー (de Havilland DH.108 Swallow) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")による高速飛行研究を目的とした試験機である。後退翼と垂直安定板の組み合わせで水平尾翼はなかった。音速を突破する成果を挙げたものの複数のパイロットを事故で失っている。

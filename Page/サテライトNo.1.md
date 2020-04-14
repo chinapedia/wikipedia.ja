@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[サテライトNo.1](https://ja.wikipedia.org/wiki/サテライトNo.1)から翻訳されています。
 
 
 『**サテライトNo.1**』（サテライトナンバーワン）は、[中国放送](../Page/中国放送.md "wikilink")（RCCラジオ）制作で放送されていた公開[ラジオ番組](../Page/ラジオ番組.md "wikilink")。提供元でもある家電販売店の第一産業本店（現・[エディオン広島本店](https://ja.wikipedia.org/wiki/エディオン広島本店 "wikilink")\[1\]）の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")より公開生放送が行われた。司会は[柏村武昭](../Page/柏村武昭.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JREF200](https://ja.wikipedia.org/wiki/JREF200)から翻訳されています。
+> この記事は[JR貨物EF200形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EF200形電気機関車)から翻訳されています。
 
 
 **EF200形電気機関車**（EF200がたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）から製作した[直流](../Page/直流電化.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。

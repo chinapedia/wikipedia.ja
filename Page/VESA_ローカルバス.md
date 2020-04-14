@@ -1,4 +1,4 @@
-> この記事は[VESA ](https://ja.wikipedia.org/wiki/VESA_)から翻訳されています。
+> この記事は[VESA ローカルバス](https://ja.wikipedia.org/wiki/VESA_ローカルバス)から翻訳されています。
 
 
 **VESA ローカルバス**は、**VLバス**とも呼ばれ、当時乱立していた[グラフィックアクセラレータ](../Page/グラフィックアクセラレータ.md "wikilink")接続用[ローカルバス](https://ja.wikipedia.org/wiki/ローカルバス "wikilink")を統一すべく、[パソコン向けグラフィックス機器メーカーの業界団体](../Page/パーソナルコンピュータ.md "wikilink")[VESA](../Page/VESA.md "wikilink")によって[1992年](../Page/1992年.md "wikilink")[8月](../Page/8月.md "wikilink")に策定されたローカルバス規格である。

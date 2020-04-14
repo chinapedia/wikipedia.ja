@@ -1,7 +1,7 @@
-> この記事は[ist](https://ja.wikipedia.org/wiki/ist)から翻訳されています。
+> この記事は[トヨタ・ist](https://ja.wikipedia.org/wiki/トヨタ・ist)から翻訳されています。
 
 
-**ist**（イスト）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産している[乗用車](../Page/乗用車.md "wikilink")である。
+**ist**（イスト）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が製造・販売していた[乗用車](../Page/乗用車.md "wikilink")である。
 
 ## 概要
 

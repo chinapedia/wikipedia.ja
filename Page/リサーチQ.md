@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[リサーチQ](https://ja.wikipedia.org/wiki/リサーチQ)から翻訳されています。
 
 
 **リサーチQ**は、[インターネット](../Page/インターネット.md "wikilink")を用いた[テレビ番組](../Page/テレビ番組.md "wikilink")[視聴質](../Page/視聴質.md "wikilink")調査システムの名称であり、[パソコンと](../Page/パーソナルコンピュータ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")から参加することができる。

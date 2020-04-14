@@ -1,4 +1,4 @@
-> この記事は[COM](https://ja.wikipedia.org/wiki/COM)から翻訳されています。
+> この記事は[ちゅピCOMひろしま](https://ja.wikipedia.org/wiki/ちゅピCOMひろしま)から翻訳されています。
 
 
 株式会社**ちゅピCOMひろしま**は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の一部、[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[府中町](../Page/府中町.md "wikilink")の一部をサービスエリアとする[中国新聞](../Page/中国新聞.md "wikilink")グループの[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。旧社名は株式会社**ひろしまケーブルテレビ**。通称は元々「**HICAT**（ハイキャット）」だったが、2015年から同じく中国新聞グループの[ちゅピCOMふれあい](../Page/ちゅピCOMふれあい.md "wikilink")や[ちゅピCOMおのみち](../Page/ちゅピCOMおのみち.md "wikilink")と共に「**ちゅぴcom**（ちゅぴコム）」の愛称も使用し、本局は「ちゅぴcomひろしま」と呼称している。

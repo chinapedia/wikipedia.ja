@@ -1,4 +1,4 @@
-> この記事は[J \(NHK\)](https://ja.wikipedia.org/wiki/J_\(NHK\))から翻訳されています。
+> この記事は[Jリーグ中継 \(NHK\)](https://ja.wikipedia.org/wiki/Jリーグ中継_\(NHK\))から翻訳されています。
 
 
 この項目では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") (NHK) が[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の試合を中継して放送する[テレビ番組](../Page/テレビ番組.md "wikilink")（[スポーツ中継](../Page/スポーツ中継.md "wikilink")）について述べる。

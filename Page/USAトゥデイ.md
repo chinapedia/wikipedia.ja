@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[USAトゥデイ](https://ja.wikipedia.org/wiki/USAトゥデイ)から翻訳されています。
 
 
 **USAトゥデイ**（*USA Today*）は、[ガネット・カンパニー](https://ja.wikipedia.org/wiki/ガネット・カンパニー "wikilink")が発行する[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で初めての一般大衆紙で、[1982年](../Page/1982年.md "wikilink")に創刊された。米国における発行部数は近年まで首位であり（211万部）\[1\]\[2\]、全米50州すべてで販売されている、"National newspaper"（全国的な新聞）の一つである。しかし、昨今の新聞不況により190万部まで減少し、部数首位を[ウォール・ストリート・ジャーナル](../Page/ウォール・ストリート・ジャーナル.md "wikilink")に譲った\[3\]。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[産経新聞社が販売代理店契約を結んでおり](../Page/産業経済新聞社.md "wikilink")、衛星版（英語）を販売していたが、2009年で取り扱いは終了した模様。産経新聞社ホームページでの紹介もリンク切れとなっている。創業者は[アレン・ニューハース](https://ja.wikipedia.org/wiki/アレン・ニューハース "wikilink")。

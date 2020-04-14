@@ -1,4 +1,4 @@
-> この記事は[ZX](https://ja.wikipedia.org/wiki/ZX)から翻訳されています。
+> この記事は[仮面ライダーZX](https://ja.wikipedia.org/wiki/仮面ライダーZX)から翻訳されています。
 
 
 『**仮面ライダーZX**』（かめんライダーゼクロス）は、[1982年](../Page/1982年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")57年）から[1984年](../Page/1984年.md "wikilink")（昭和59年）まで、主に[雑誌](../Page/雑誌.md "wikilink")にて展開された特撮作品、および作中で主人公が変身する[ヒーロー](../Page/ヒーロー.md "wikilink")の名称。「[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")」第8作である。

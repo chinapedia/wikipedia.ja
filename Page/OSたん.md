@@ -1,4 +1,4 @@
-> この記事は[OS](https://ja.wikipedia.org/wiki/OS)から翻訳されています。
+> この記事は[OSたん](https://ja.wikipedia.org/wiki/OSたん)から翻訳されています。
 
 
 **OSたん**とは、[コンピュータで使用されるOS](../Page/パーソナルコンピュータ.md "wikilink")（[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")）や関連[ソフトウェア](../Page/ソフトウェア.md "wikilink")製品を人の姿に[擬人化した](../Page/擬人観.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")である。女性を模したものはOSたんのほかにOS少女、OS娘、OS-tanなど、男性を模したものはOS息子などと呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCお笑い新人グランプリ](https://ja.wikipedia.org/wiki/ABCお笑い新人グランプリ)から翻訳されています。
 
 
 **ABCお笑い新人グランプリ**（エービーシーおわらいしんじんグランプリ）とは、毎年1月に[朝日放送主催で行われていた](../Page/朝日放送テレビ.md "wikilink")、関西の若手[芸人](../Page/芸人.md "wikilink")の登竜門的コンクールの名称。後継番組は、[ABCお笑いグランプリ](https://ja.wikipedia.org/wiki/ABCお笑いグランプリ "wikilink")。

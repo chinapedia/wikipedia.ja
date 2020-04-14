@@ -1,4 +1,4 @@
-> この記事は[PSYCHO \(\)](https://ja.wikipedia.org/wiki/PSYCHO_\(\))から翻訳されています。
+> この記事は[PSYCHO \(ブランド\)](https://ja.wikipedia.org/wiki/PSYCHO_\(ブランド\))から翻訳されています。
 
 
 **PSYCHO**（サイコ）は、[ネクストン](../Page/ネクストン.md "wikilink")系列の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドのひとつ。第2作『巫女みこナース』では主題歌が[ドワンゴ](../Page/ドワンゴ.md "wikilink")の[TVCMに採用されるほどの話題になった](../Page/コマーシャルメッセージ.md "wikilink")。

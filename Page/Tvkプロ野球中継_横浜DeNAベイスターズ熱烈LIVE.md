@@ -1,4 +1,4 @@
-> この記事は[Tvk DeNALIVE](https://ja.wikipedia.org/wiki/Tvk_DeNALIVE)から翻訳されています。
+> この記事は[Tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE](https://ja.wikipedia.org/wiki/Tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE)から翻訳されています。
 
 
 **『tvkプロ野球中継 横浜DeNAベイスターズ熱烈LIVE』**（ティー・ブイ・ケイ・プロやきゅうちゅけい よこはまディー・エヌ・エー・ベイスターズねつれつライブ）は、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で放送される[プロ野球中継](../Page/プロ野球中継.md "wikilink")。[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の主催ゲームを中心に年30～40試合ほど放送される。
@@ -113,6 +113,7 @@ tvkは自社でHD対応の大型中継車を所有していないため、球団
   - 2017年もベイスターズがCSに進出したことで、10月15日に甲子園で行われたファーストステージ第2戦(対阪神)を放送。解説は遠藤、実況は吉井で現地（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")）からの映像を用い、テロップを差し替える形でカラ出張にて中継を行った。前年同様、横浜スタジアムからのパブリックビューイングリポートを長澤が、現地甲子園からの電話リポートを根岸が担当した。また、ファイナルステージに進出したことで10月22日にマツダスタジアムで行われる予定だった第4戦(対広島)を平松の解説、吉井の実況で現地（広島ホームテレビ）からの映像を用いカラ出張で中継予定も、台風に伴う悪天候のため試合中止になり中継は幻に終わった。さらに、10月24日に行われる予定だった第6戦を第4戦のスタッフと同じ体制で放送する予定だったが、前日23日の第5戦でベイスターズの日本シリーズ出場が決まったため、こちらの中継も幻となった。
   - 2018年の中継数は41試合と前年より7試合増えた。巨人戦も9試合と他の対戦カードと同等の扱いになった。土日のナイター中継が復活し8月と9月で合計6試合中継予定。
   - 2019年の中継数は昨年と変わらず41試合を予定。巨人戦は昨年より2試合少ない7試合、土日のナイター中継は6月と8月に計7試合中継予定。またCSファーストステージに進出したことから10月6日に横浜スタジアムで行われるファーストステージ第2戦を放送する予定である。
+  - 2020年の中継数は昨年と同様41試合を予定。巨人戦は昨年より3試合少ない4試合、土日のナイターは9月と10月の2試合のみの予定。また東京ドームでの主催試合も放送する。
 
 <!-- end list -->
 
@@ -166,10 +167,12 @@ tvkは自社でHD対応の大型中継車を所有していないため、球団
   - [齊藤明雄](../Page/齊藤明雄.md "wikilink")（2001年 - 2006年、2009年 - 2012年、2015年 - 。フジテレビ・[J SPORTS解説者兼](../Page/J_SPORTS.md "wikilink")）
   - [遠藤一彦](../Page/遠藤一彦.md "wikilink")（[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")解説者兼）●
   - [野村弘樹](../Page/野村弘樹.md "wikilink")（2006年、2011年 - 。フジテレビ・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・J SPORTS・TBSチャンネル・[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
+  - [駒田徳広](../Page/駒田徳広.md "wikilink") (2006年 - 2008年、2010年 - 2015年、2020年 - 。[BSテレ東](../Page/BSテレビ東京.md "wikilink")・TBSチャンネル・[文化放送](../Page/文化放送.md "wikilink")解説者兼) ※2019年まで[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")・[高知ファイティングドッグス](../Page/高知ファイティングドッグス.md "wikilink")の監督であったが退任し、2020年から復帰。
   - [森本稀哲](../Page/森本稀哲.md "wikilink")（2016年 - \[22\]。在札各局・[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・TBSチャンネル・[テレ玉ゲスト解説兼](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
-  - [谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（2017年 -。フジテレビ・[メ～テレ](https://ja.wikipedia.org/wiki/メ～テレ "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")ゲスト・[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")解説者兼）
+  - [谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（2017年 -。フジテレビ・[メ～テレ](../Page/名古屋テレビ放送.md "wikilink")・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")ゲスト・[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[東海ラジオ](https://ja.wikipedia.org/wiki/東海ラジオ "wikilink")・[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")解説者兼）
   - [佐伯貴弘](https://ja.wikipedia.org/wiki/佐伯貴弘 "wikilink")（2018年 -。TBSチャンネル・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")ゲスト解説者兼）
   - [多村仁志](https://ja.wikipedia.org/wiki/多村仁志 "wikilink")（2018年 -。TBSチャンネル・J SPORTS解説者兼）
+  - [荒波翔](https://ja.wikipedia.org/wiki/荒波翔 "wikilink")（2020年 - 。）
 
 tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定してキャスティングしている。また、TBSチャンネルの中継とは差別化を図り、[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")の放送局（フジテレビ、ニッポン放送、文化放送）と契約する解説者が多く担当している（TBSが親会社になる以前のベイスターズのテレビ放映権をフジテレビが持っていたり、ラジオ放映権がニッポン放送、文化放送の所属するNRN独占だったため、ベイスターズOBでTBS解説者でない人物は必然的にフジサンケイグループ所属が多いという事情もある）。
 
@@ -193,7 +196,7 @@ tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定
   - [鈴木隆](../Page/鈴木隆_\(投手\).md "wikilink")（1977年 - 1984年、1989年 - 2005年）
   - [高木豊](../Page/高木豊.md "wikilink")
   - [田代照勝](https://ja.wikipedia.org/wiki/田代照勝 "wikilink")
-  - [田代富雄](../Page/田代富雄.md "wikilink")（1992年 - 1996年。ニッポン放送解説者兼。現・DeNA1軍打撃コーチ）
+  - [田代富雄](../Page/田代富雄.md "wikilink")（1992年 - 1996年。ニッポン放送解説者兼。現・DeNA1軍打撃チーフコーチ）
   - [高橋雅裕](../Page/高橋雅裕.md "wikilink")（2006年 - 2007年。J SPORTS解説者兼）
   - [辻恭彦](../Page/辻恭彦.md "wikilink")（2000年 - 2007年 ）
   - [土井淳](../Page/土井淳.md "wikilink")（2001年 - ?）
@@ -201,9 +204,9 @@ tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定
   - [中塚政幸](../Page/中塚政幸.md "wikilink")
   - [野村収](../Page/野村収.md "wikilink")（1996年 - 2003年。J SPORTSと兼任していた時期あり）
   - [畠山準](../Page/畠山準.md "wikilink")（2001年? - 2006年頃 。年数回のゲスト\[25\]、のちに準レギュラー\[26\]）●
-  - [波留敏夫](../Page/波留敏夫.md "wikilink")（2005年。現・中日1軍打撃コーチ）
+  - [波留敏夫](../Page/波留敏夫.md "wikilink")（2005年。現・中日2軍打撃コーチ）
   - [別所毅彦](../Page/別所毅彦.md "wikilink")（1970年代初めに出演。フジテレビ・文化放送解説者兼）
-  - [三浦大輔](../Page/三浦大輔.md "wikilink")（2017年 - 2018年。現・DeNA1軍投手コーチ）
+  - [三浦大輔](../Page/三浦大輔.md "wikilink")（2017年 - 2018年。現・DeNA2軍監督）
   - [基満男](../Page/基満男.md "wikilink")（1989年。RKB解説者兼）
   - [盛田幸妃](../Page/盛田幸妃.md "wikilink")（2003年 - 2007年。[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")解説者兼。2008年以降はTBSニュースバード制作中継に出演）●
   - [森中千香良](../Page/森中千香良.md "wikilink")（1976年 - 1995年。ニッポン放送解説者兼）
@@ -221,7 +224,7 @@ tvk自社制作中継ではホエールズ・ベイスターズOBにほぼ限定
   - [槙原寛己](../Page/槙原寛己.md "wikilink")（TBSテレビ・ラジオ解説者兼）
   - [佐々木主浩](../Page/佐々木主浩.md "wikilink")（TBSテレビ・ラジオ解説者兼）
   - [牛島和彦](../Page/牛島和彦.md "wikilink")（TBSラジオ・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[CBCラジオ](../Page/CBCラジオ.md "wikilink")解説者兼）
-  - [佐々岡真司](../Page/佐々岡真司.md "wikilink")（対広島戦のみ出演。[中国放送](../Page/中国放送.md "wikilink")・TBSラジオ解説者兼。現・広島1軍投手コーチ）
+  - [佐々岡真司](../Page/佐々岡真司.md "wikilink")（対広島戦のみ出演。[中国放送](../Page/中国放送.md "wikilink")・TBSラジオ解説者兼。現・広島1軍監督）
   - [田淵幸一](../Page/田淵幸一.md "wikilink")
   - [川口和久](../Page/川口和久.md "wikilink")
 
@@ -391,7 +394,7 @@ TBSニュースバード制作中継を放送する際、
   - [（2001年 - 2006年）](https://web.archive.org/web/*/http://www.tvk42.co.jp/baystars/)
   - [1997 TVKベイスターズナイター パ・リーグナイター放送予定](http://web.archive.org/web/19970710140400/http://www.tvk42.co.jp/yb.htm) - 1997年7月10日付保存キャッシュ
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink") [Category:1972年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のテレビ番組_\(日本\) "wikilink") [Category:2011年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2011年のテレビ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:テレビ神奈川のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川のスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink") [Category:1972年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のテレビ番組_\(日本\) "wikilink") [Category:2011年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2011年のテレビ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  [tvk40年の歩み｜tvk開局40周年記念サイト](http://wayback.archive.org/web/20121004125842/http://www.tvk-yokohama.com/40th/history.html) - リンク先は、インターネットアーカイブ2012年10月4日付保存キャッシュ。
 2.

@@ -1,4 +1,4 @@
-> この記事は[U.S.S.R.](https://ja.wikipedia.org/wiki/U.S.S.R.)から翻訳されています。
+> この記事は[バック・イン・ザ・U.S.S.R.](https://ja.wikipedia.org/wiki/バック・イン・ザ・U.S.S.R.)から翻訳されています。
 
 
 「**バック・イン・ザ・U.S.S.R.**」 (*Back in the U.S.S.R.*) は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に発表された[ビートルズ](../Page/ビートルズ.md "wikilink")のアルバム『[ザ・ビートルズ](../Page/ザ・ビートルズ_\(アルバム\).md "wikilink")』（通称、『ホワイト・アルバム』）の収録曲である。同アルバムのオープニング曲。

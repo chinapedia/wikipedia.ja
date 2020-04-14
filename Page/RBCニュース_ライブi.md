@@ -1,4 +1,4 @@
-> この記事は[RBC i](https://ja.wikipedia.org/wiki/RBC_i)から翻訳されています。
+> この記事は[RBCニュース ライブi](https://ja.wikipedia.org/wiki/RBCニュース_ライブi)から翻訳されています。
 
 
 『**RBC NEWS ライブi**』（アールビーシー ニュース ライブアイ）は、[2004年](../Page/2004年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[琉球放送](../Page/琉球放送.md "wikilink")（RBCテレビ）で放送されていた[報道番組](../Page/報道番組.md "wikilink")・[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。放送開始から2005年3月25日放送分までは、番組タイトルに「NEWS」が無い『**RBCライブi**』を用いていた。

@@ -395,7 +395,7 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 
 **2020年**
 
-  - 3月1日、ライヴ「TETSUYA "LIVE 2020 SPRING"」を[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")で開催予定。
+  - 7月19日、ライヴ「TETSUYA "LIVE 2020 SPRING"」を[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")で開催予定。当初同年3月1日に開催される予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、2月26日に公演延期が発表された。また、ツアータイトルは当初のまま変更せず、「季節の"春"を意味する"SPRING"」から「"[ばね](../Page/ばね.md "wikilink")"を意味する"SPRING"」に意味が変更され、ツアーロゴやグッズもそれに合わせ制作される予定。
 
 ## 作品
 
@@ -1018,7 +1018,7 @@ Zepp Nagoya<br />
 <p><a href="https://ja.wikipedia.org/wiki/舞浜アンフィシアター" title="wikilink">舞浜アンフィシアター</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2020年3月1日</p></td>
+<td><p>2020年7月19日</p></td>
 <td><p>単発ライヴ</p></td>
 <td><p>TETSUYA "LIVE 2020 SPRING"</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dブロック元素](https://ja.wikipedia.org/wiki/Dブロック元素)から翻訳されています。
 
 
 **Dブロック元素**とは、[鉄族](https://ja.wikipedia.org/wiki/第8族元素 "wikilink")、[銅族などの](https://ja.wikipedia.org/wiki/第11族元素 "wikilink")[遷移元素](../Page/遷移元素.md "wikilink")の総称。DブロックのDは、英語のdiffuseに由来する。[亜鉛族元素は](https://ja.wikipedia.org/wiki/第12族元素 "wikilink")[典型元素](https://ja.wikipedia.org/wiki/典型元素 "wikilink")であるが、このブロックに含まれている。[d軌道](https://ja.wikipedia.org/wiki/d軌道 "wikilink")にどのように電子が配置されるかがDブロック元素の物性を決定している。

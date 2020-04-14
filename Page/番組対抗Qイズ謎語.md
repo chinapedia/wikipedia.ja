@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[番組対抗Qイズ謎語](https://ja.wikipedia.org/wiki/番組対抗Qイズ謎語)から翻訳されています。
 
 
 『**番組対抗Qイズ謎語**』（ばんぐみたいこうクイズクイズ）は、[1992年](../Page/1992年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")であり、[番組宣伝](../Page/番組宣伝.md "wikilink")用の広報番組。放送時間は毎週金曜 15:00 - 15:55 ([JST](../Page/日本標準時.md "wikilink")) 。

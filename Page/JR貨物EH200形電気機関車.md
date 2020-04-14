@@ -1,4 +1,4 @@
-> この記事は[JREH200](https://ja.wikipedia.org/wiki/JREH200)から翻訳されています。
+> この記事は[JR貨物EH200形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EH200形電気機関車)から翻訳されています。
 
 
 サービスご案内（仕組みと特長） {{\!}} JR貨物 |publisher=[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink") |accessdate=2019-05-03}}</ref> |設計最高速度 = 120 km/h |定格出力 = 4,520 kW（1時間定格）

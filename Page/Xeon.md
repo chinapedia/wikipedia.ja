@@ -6759,6 +6759,17 @@ EU数</p></th>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>E5-2689A v4</p></td>
+<td><p>2</p></td>
+<td><p>3.4</p></td>
+<td></td>
+<td><p>20</p></td>
+<td><p>8/16</p></td>
+<td><p>DDR4-2400 x 4</p></td>
+<td><p>145</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="http://ark.intel.com/ja/products/91750">E5-2687W v4</a></p></td>
 <td><p>2</p></td>
 <td><p>3.0</p></td>
@@ -6769,7 +6780,7 @@ EU数</p></th>
 <td><p>160</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>E5-2686 v4</p></td>
 <td><p>2</p></td>
 <td><p>2.3</p></td>
@@ -6780,7 +6791,7 @@ EU数</p></th>
 <td><p>145</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://ark.intel.com/ja/products/91766">E5-2683 v4</a></p></td>
 <td><p>2</p></td>
 <td><p>2.1</p></td>
@@ -6791,7 +6802,7 @@ EU数</p></th>
 <td><p>120</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>E5-2682 v4</p></td>
 <td><p>2</p></td>
 <td><p>2.5</p></td>
@@ -6802,7 +6813,7 @@ EU数</p></th>
 <td><p>120</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://ark.intel.com/ja/products/91754">E5-2680 v4</a></p></td>
 <td><p>2</p></td>
 <td><p>2.4</p></td>
@@ -6813,7 +6824,7 @@ EU数</p></th>
 <td><p>120</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ark.intel.com/ja/products/91751">E5-2679 v4</a></p></td>
 <td><p>2</p></td>
 <td><p>2.5</p></td>
@@ -6824,13 +6835,24 @@ EU数</p></th>
 <td><p>200</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>E5-2673 v4</p></td>
 <td><p>2</p></td>
 <td><p>2.3</p></td>
 <td><p>3.3</p></td>
 <td><p>50</p></td>
 <td><p>20/40</p></td>
+<td><p>DDR4-2400 x 4</p></td>
+<td><p>135</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>E5-2670 v4</p></td>
+<td><p>2</p></td>
+<td><p>3.1</p></td>
+<td></td>
+<td><p>35</p></td>
+<td><p>14/28</p></td>
 <td><p>DDR4-2400 x 4</p></td>
 <td><p>135</p></td>
 <td></td>

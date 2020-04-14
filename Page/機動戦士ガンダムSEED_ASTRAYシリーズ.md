@@ -1,4 +1,4 @@
-> この記事は[SEED ASTRAY](https://ja.wikipedia.org/wiki/SEED_ASTRAY)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED ASTRAYシリーズ](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズ)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED ASTRAY**』（きどうせんしガンダムシード アストレイ）は、テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の[サンライズ公式の外伝作品である](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")。「ASTRAY」とは作中に登場する主役[モビルスーツ](../Page/モビルスーツ.md "wikilink") (MS) の名称で、「王道ではない」という意味が込められている。
@@ -288,6 +288,16 @@
 **機動戦士ガンダムSEED ASTRAY 天空の皇女**（きどうせんしガンダムシード アストレイ てんくうのプリンセス）は、『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』2015年10月号から2019年3月号まで連載された漫画作品で、現時点での『ASTRAY』シリーズ最新作。ときた洸一が作画を担当するが、ときたは同誌にて既に『[ガンダムEXA VS](https://ja.wikipedia.org/wiki/ガンダムEXA "wikilink")』を連載しており、2作同時連載となったため、本作は不定期連載の形をとっていたが、『ガンダムEXA VS』完結後の2017年8月号より通常連載に昇格している。
 
 『SEED DESTINY』終了後のC.E.を舞台に、ロンド・ミナ・サハクが自らの後継者候補に選んだ2人の少女[風花・アジャーと](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#風花・アジャー "wikilink")[ラス・ウィンスレットの成長物語を描く](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#ラス・ウィンスレット "wikilink")。物語の中で、[ウィンスレット・ワールド・コンツェルン社という企業や](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#ウィンスレット・ワールド・コンツェルン社 "wikilink")[商業組合という組織が登場している](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#商業組合 "wikilink")。
+
+  - 漫画「機動戦士ガンダムSEED ASTRAY 天空の皇女」ときた洸一
+    ガンダムエースで引き続き連載。単行本は全4巻。
+
+<!-- end list -->
+
+1.  ISBN 978-4041046722
+2.  ISBN 978-4041064849
+3.  ISBN 978-4041071458
+4.  ISBN 978-4041078907
 
 ## 脚注
 

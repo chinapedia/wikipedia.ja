@@ -310,9 +310,7 @@ Wolfdale（ウルフデール）はLGA775のCeleronで初めて仮想化技術 (
 | E3400       | 2.60 GHz (200x13)   |     |
 | E3500       | 2.70 GHz (200x13.5) |     |
 
-
-<big> *' Nehalem 世代以降にリリースされた製品は、[Intel_Celeron_(2010%E5%B9%B4)](https://ja.wikipedia.org/wiki/Intel_Celeron_\(2010%E5%B9%B4\) "wikilink") をご覧ください。*'
-</big>
+*' Nehalem 世代以降にリリースされた製品は、[Intel Celeron (2010年)を参照](https://ja.wikipedia.org/wiki/Intel_Celeron_\(2010年\) "wikilink")。*'
 
 ## モバイル Celeron
 

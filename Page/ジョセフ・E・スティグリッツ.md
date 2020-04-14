@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ジョセフ・E・スティグリッツ](https://ja.wikipedia.org/wiki/ジョセフ・E・スティグリッツ)から翻訳されています。
 
 
 **ジョセフ・ユージン・スティグリッツ**（、[1943年](../Page/1943年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[経済学者](../Page/経済学者.md "wikilink")、[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")教授。1979年に[ジョン・ベーツ・クラーク賞](https://ja.wikipedia.org/wiki/ジョン・ベーツ・クラーク賞 "wikilink")、[2001年](../Page/2001年.md "wikilink")に[ノーベル経済学賞](../Page/ノーベル経済学賞.md "wikilink")を受賞。[IMFの経済政策を厳しく批判している](../Page/国際通貨基金.md "wikilink")\[1\]。

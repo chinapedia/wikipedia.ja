@@ -1,4 +1,4 @@
-> この記事は[CROSSCHANNEL](https://ja.wikipedia.org/wiki/CROSSCHANNEL)から翻訳されています。
+> この記事は[CROSS†CHANNEL](https://ja.wikipedia.org/wiki/CROSS†CHANNEL)から翻訳されています。
 
 
 『**CROSS†CHANNEL**』（クロスチャンネル）は、[FlyingShine制作の](../Page/フライングシャイン.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。群青学院の放送部を舞台とした学園モノ。劇中で同じ時間を何度も繰り返す「[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")」に該当する。
@@ -21,19 +21,13 @@
 
 ## あらすじ
 
-主人公の黒須太一は、群青学院の放送部に所属し、そこで得た仲間たちとの楽しい時を送っていた。
+主人公の黒須太一は、群青学院の放送部に所属し、そこで得た仲間たちとの楽しい時を送っていた。しかし、ともに時間を過ごす中、それぞれ心に歪みを抱えたメンバーたちの間には亀裂が生まれ、あるときを境にそれは決定的な破綻となり、放送部は断絶してしまう。
 
-しかし、ともに時間を過ごす中、それぞれ心に歪みを抱えたメンバーたちの間には亀裂が生まれ、あるときを境にそれは決定的な破綻となり、「放送部」は断絶してしまう。
+太一が起死回生を賭けて臨んだ合宿も失敗に終わり、仲を違えた状態で彼らは帰路に就くが、到着した先は生物の存在が消えて静まり返った街だった。「世界で8人だけの人類」になるという異常な状況下で、メンバーはそれぞれの歪みを顕にして迷走し始め、もはや部活などできる状態ではなくなり、部長の宮澄見里だけが夏休みの課題であるラジオ放送用アンテナを組み立てる活動を行っている状態であった。
 
-太一が起死回生を賭けて臨んだ合宿も失敗に終わり、心中がバラバラの状態で街に帰還する放送部メンバー。しかし、そんな彼らを迎えたのは、生物の存在が消え、常軌を逸して静かになった街だった。
+そんなある日、町はずれの祠にあった「ノート」を発見した太一は、この世界が週単位でループしていることを知る。1週間を繰り返しながらメンバーと触れ合い、衝突し、そして和解していった太一は、ついにメンバーを元の世界へ送還する手段を発見するが、1週間では全員と良好な関係を築くだけの余裕がない。そこで太一は、1週間ごとにメンバーと個別に時間を過ごして送還する手段をとり、その完了とともに永遠に独りきりの世界に閉じ込められる。
 
-「世界で8人だけの人類」になるという異常な状況下で、それぞれの歪みを顕にし始める部活メンバー。バラバラの心中はそのまま彼らを迷走させ、もはや部活などできる状態ではなく、唯一部長の宮澄見里だけが夏休みの課題であるラジオ放送用のアンテナを組み立てる活動を行っている状態であった。
-
-そんなある日、ひょんなことから町はずれの祠にあった「ノート」を発見した太一は、人類の存在しないこの世界が週単位でループしていることを知る。閉じた世界と繰り返す一週間の中、太一は仲間たちとふれあい、衝突し、そして和解していく。
-
-その果てで彼は、仲間たちを元の世界へと送り返す手段を発見するが、一週間という限られた期間では全員と良好な関係を築くだけの余裕がない。そこで彼は、一週間ごとに仲間ひとりひとりと時間を過ごし、個別に送還する手段をとる。最後に支倉曜子を送り返すとともに世界をつなぐ門は失われ、太一は永遠に独りきりの世界に閉じ込められる。
-
-その後、人があふれる元の世界でそれぞれの暮らしを送る群青学院放送部の面々の下に、ある時から世界を超えて太一からのラジオ放送が届くようになった。彼は無人の街で、二度と会えない仲間たちや顔も知れない誰かに向けて、今も放送を続けているのだった。
+その後、元の世界で暮らすメンバーのもとに、世界を超えて太一からのラジオ放送が届くようになる。太一は、無人の街で二度と会えない仲間たちや顔も知れない誰かに向け、今も放送を続けるのだった。
 
 ## 舞台背景
 
@@ -160,8 +154,8 @@
 
 ### 書籍
 
-  - CROSS†CHANNEL公式設定資料集（2003年12月） ISBN 978-4-89613-943-3
-  - 小説版CROSS†CHANNEL（2004年4月、[パラダイム刊](../Page/パラダイム_\(出版社\).md "wikilink")、田中ロミオ監修/伊藤イツキ著） ISBN 978-4-89490-722-5
+  - CROSS†CHANNEL公式設定資料集（2003年12月）
+  - 小説版CROSS†CHANNEL（2004年4月、[パラダイム刊](../Page/パラダイム_\(出版社\).md "wikilink")、田中ロミオ監修/伊藤イツキ著）
 
 ### 音楽
 
@@ -185,22 +179,15 @@
 ## 外部リンク
 
   - Windows
+      -
+      - [CROSS†CHANNEL 復刻版](http://www.crosschannel-game.com/#/top/)
 
-:\* [CROSS†CHANNEL](https://web.archive.org/web/20141226013854/http://www.flyingshine.com/product/crosschannel/)（2014年12月26日時点のアーカイブ）
-
-:\* [CROSS†CHANNEL 復刻版](http://www.crosschannel-game.com/#/top/)
-
-:\* [CROSS†CHANNEL -FINAL COMPLETE-](http://www.crosschannel-game.com/)
-
+      - [CROSS†CHANNEL -FINAL COMPLETE-](http://www.crosschannel-game.com/)
   - コンシューマー
-
-:\* PS2版 - [CROSS†CHANNEL 〜To all people〜](https://web.archive.org/web/20081023151723/http://www.kid-game.co.jp/kid/game/cross/)（2008年10月23日時点のアーカイブ）
-
-:\* PSP版 - [CROSS†CHANNEL 〜To all people〜](https://web.archive.org/web/20140516055912/http://www.cyberfront.co.jp/title/crosschannel/)（2014年5月16日時点のアーカイブ）
-
-:\* Xbox360版 - [CROSS†CHANNEL 〜In memory of all people〜](https://web.archive.org/web/20140516055826/http://www.cyberfront.co.jp/title/crosschannel_x360/)（2014年5月16日時点のアーカイブ）
-
-:\* PS3 / PS Vita版 - [CROSS†CHANNEL 〜For all people〜](http://5pb.jp/games/crosschannel/)
+      - PS2版 -
+      - PSP版 -
+      - Xbox360版 -
+      - PS3 / PS Vita版 - [CROSS†CHANNEL 〜For all people〜](http://5pb.jp/games/crosschannel/)
 
 [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:2003年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2003年のアダルトゲーム "wikilink") [Category:ループもの](https://ja.wikipedia.org/wiki/Category:ループもの "wikilink") [Category:パラレルワールドを題材にしたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材にしたコンピュータゲーム "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink")
 

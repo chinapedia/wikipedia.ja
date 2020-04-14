@@ -22,7 +22,7 @@
   - [徐放錠](https://ja.wikipedia.org/wiki/徐放錠 "wikilink") (controlled release) - [錠剤](../Page/錠剤.md "wikilink")の一種。[アダラート](https://ja.wikipedia.org/wiki/アダラート "wikilink")CR錠など
   - [絶滅寸前](https://ja.wikipedia.org/wiki/絶滅寸前 "wikilink") (critically endangered) - [IUCNレッドリスト](https://ja.wikipedia.org/wiki/IUCNレッドリスト "wikilink")のカテゴリ
   - [認知ロボット工学](https://ja.wikipedia.org/wiki/認知ロボット工学 "wikilink") (cognitive robotics)
-  - 復帰 ([carriage return](https://ja.wikipedia.org/wiki/キャリッジ・リターン "wikilink")) - 印字位置を現在行の先頭に移動するコード。広義の[改行コード](../Page/改行コード.md "wikilink")の1つ。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")では0D、[Unicode](../Page/Unicode.md "wikilink")では000D
+  - 復帰 ([carriage return](https://ja.wikipedia.org/wiki/キャリッジ・リターン "wikilink")) - 印字位置を現在行の先頭に移動するコード。広義の[改行コード](../Page/改行コード.md "wikilink")の1つ。[ASCII](../Page/ASCII.md "wikilink")では0D、[Unicode](../Page/Unicode.md "wikilink")では000D
   - チャイルド・レジスタンス(Child Resistance)機構 - 有害な器具等の誤使用を防止する機構。一例は、[ライター](../Page/ライター.md "wikilink")の項を参照のこと。また、[医薬品](../Page/医薬品.md "wikilink")の容器にも用いられる。
   - 大会記録 (competition record)
   - 変更依頼（[Change Request](https://ja.wikipedia.org/wiki/:en:Change_request "wikilink")）
@@ -61,13 +61,3 @@
 
   - [クリー語](../Page/クリー語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
   - [.cr](https://ja.wikipedia.org/wiki/.cr "wikilink") - コスタリカの[国別ドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")
-
-## 略氏のCR.CRに似たもの
-
-  - プロゲーマーチーム[クレイジーラクーン](../Page/クレイジーラクーン.md "wikilink")Crazy raccoonの略氏
-  - [プリペイドカード](../Page/プリペイドカード.md "wikilink")に適したパチンコ遊技機[CR機](../Page/CR機.md "wikilink")
-  - [キャリッジリターン](https://ja.wikipedia.org/wiki/キャリッジリターン "wikilink")の専門用語[CR](../Page/CR.md "wikilink")
-  - [CR-Z](https://ja.wikipedia.org/wiki/CR-Z "wikilink")自動車会社[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")の自動車
-  - [コンシューマーレポート](https://ja.wikipedia.org/wiki/コンシューマーレポート "wikilink")CRと略されているが本来の略しは[COR](https://ja.wikipedia.org/wiki/COR "wikilink")
-  - [CR-X](https://ja.wikipedia.org/wiki/CR-X "wikilink")自動車会社[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")の自動車
-  - [CR-V](https://ja.wikipedia.org/wiki/CR-V "wikilink")自動車会社[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")のバイク

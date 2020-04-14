@@ -1,4 +1,4 @@
-> この記事は[HOT](https://ja.wikipedia.org/wiki/HOT)から翻訳されています。
+> この記事は[ドラゴンズHOTスタジオ](https://ja.wikipedia.org/wiki/ドラゴンズHOTスタジオ)から翻訳されています。
 
 
 『**ドラゴンズHOTスタジオ**』（ドラゴンズホットスタジオ）は、[東海テレビ製作の](../Page/東海テレビ放送.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")応援番組。通称：**ドラHOT**（ドラホット）。この項では2013年3月30日開始の『**ドラHOTプラス**』にも触れる。
@@ -155,7 +155,7 @@
   -
   - [スーパーサタデー](http://www.tokai-tv.com/supasata/)
 
-[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:東海テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海テレビの番組の歴史 "wikilink") [Category:東海テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海テレビの情報・ワイドショー番組 "wikilink") [Category:東海テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
+[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:東海テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海テレビの番組の歴史 "wikilink") [Category:東海テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東海テレビの情報・ワイドショー番組 "wikilink") [Category:東海テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 
 1.  [ナゴヤドームグルメ 球弁キャンペーン](http://dragons.jp/nagoyadome/gourmet/lunch/lunch-campaign.html)（中日ドラゴンズ公式サイトより）
 2.  画像募集は13時まで。サイト開設は3月28日まで。

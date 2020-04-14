@@ -13,7 +13,7 @@
 
   - 定型業務の自動化、省力化。例えば、毎日更新されるデータを出社してからいちいち手入力し、手順を入力して計算させていた業務を、夜の間に自動でソフトウェアを起動し、データを読み込ませ、朝までに処理させておける。またOfficeアプリケーションでは[マクロ記録](../Page/マクロ言語.md "wikilink")/再生という操作手順の記録/再生機能を使って、プログラムに関する知識が少ないユーザーでも、ある程度の定型業務の自動化を行なえる。マクロはVBAコードの自動生成により実現されている。
   - 特定の使用目的への最適化。例えばある会社で、社員の一覧名簿を作成し、自社独自の給与体系に従い、各自の給与を自動で計算できる。またその場合、考慮する数字を自動で参照して集計するなど、目的に応じた特殊な[関数を作成することもできる](../Page/サブルーチン.md "wikilink")（ユーザー定義関数という）。また、ユーザー独自の[フォーム](https://ja.wikipedia.org/wiki/フォーム "wikilink")を作成でき、様々な[プラグイン](../Page/プラグイン.md "wikilink")を組み込むことなども可能である。
-  - Officeの使用に特化しMicrosoft Office専用という印象が強いが、限定的ながら[Internet ExplorerなどOffice以外のソフトウェアを制御する機能が与えられている](../Page/Internet_Explorer.md "wikilink")。またマイクロソフト社からしかるべき[ライセンス](../Page/ライセンス.md "wikilink")を取得することで他の[アプリケーションに組み込むことも可能である](../Page/アプリケーションソフトウェア.md "wikilink")。実際、マイクロソフト社に買収される前の[Visioにも搭載されていた](../Page/Microsoft_Visio.md "wikilink")。[CAD](../Page/CAD.md "wikilink")ソフトの[AutoCAD](../Page/AutoCAD.md "wikilink")や[MicroStation V8等にも搭載されている](../Page/MicroStation.md "wikilink")。
+  - Officeの使用に特化しMicrosoft Office専用という印象が強いが、限定的ながら[Internet ExplorerなどOffice以外のソフトウェアを制御する機能が与えられているほか](../Page/Internet_Explorer.md "wikilink")、フォルダを作成する、ファイル名を変更するといったOS上の操作も行うことができる。またマイクロソフト社からしかるべき[ライセンス](../Page/ライセンス.md "wikilink")を取得することで他の[アプリケーションに組み込むことも可能である](../Page/アプリケーションソフトウェア.md "wikilink")。実際、マイクロソフト社に買収される前の[Visioにも搭載されていた](../Page/Microsoft_Visio.md "wikilink")。[CAD](../Page/CAD.md "wikilink")ソフトの[AutoCAD](../Page/AutoCAD.md "wikilink")や[MicroStation V8等にも搭載されている](../Page/MicroStation.md "wikilink")。
 
 ## VBAの歴史
 

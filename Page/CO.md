@@ -19,7 +19,7 @@
   - [カミングアウト](../Page/カミングアウト.md "wikilink") (coming out), [カムアウト](https://ja.wikipedia.org/wiki/カムアウト "wikilink")(come out)
   - [コメントアウト](https://ja.wikipedia.org/wiki/コメントアウト "wikilink") (comment out)
       - [Wikipedia:常に要約欄に記入する\#要約欄でよく使われる略語](https://ja.wikipedia.org/wiki/Wikipedia:常に要約欄に記入する#要約欄でよく使われる略語 "wikilink")
-  - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")の[大月駅](https://ja.wikipedia.org/wiki/大月駅 "wikilink")～[韮崎駅](../Page/韮崎駅.md "wikilink")の区間で使われている[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")における同線の路線記号。
+  - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")の[初狩駅](../Page/初狩駅.md "wikilink")～[小淵沢駅](https://ja.wikipedia.org/wiki/小淵沢駅 "wikilink")の区間で使われている[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")における同線の路線記号。
 
 ## Co
 

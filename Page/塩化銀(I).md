@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[塩化銀\(I\)](https://ja.wikipedia.org/wiki/塩化銀\(I\))から翻訳されています。
 
 
 | Section3 =  | Section4 =  | Section7 =  | Section8 =  }} **塩化銀(I)**（えんかぎん いち、）は、[化学式](../Page/化学式.md "wikilink")が AgCl と表される[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")の[塩化物](../Page/塩化物.md "wikilink")である。通常、単に「塩化銀」と言った場合はこの塩化銀(I)を指す。天然には[角銀鉱](https://ja.wikipedia.org/wiki/角銀鉱 "wikilink")という[鉱物](../Page/鉱物.md "wikilink")として産する。

@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[Lモード](https://ja.wikipedia.org/wiki/Lモード)から翻訳されています。
 
 
 **Lモード**（エルモード）とは、かつて[東日本電信電話](../Page/東日本電信電話.md "wikilink")および[西日本電信電話](../Page/西日本電信電話.md "wikilink")（以下、東西NTT）が提供していた[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")（アナログおよび[ISDN](../Page/ISDN.md "wikilink")）に接続された[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")などの対応する通信機器を利用して、[インターネット](../Page/インターネット.md "wikilink")へ接続する[電気通信サービス](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[WAHAHA](https://ja.wikipedia.org/wiki/WAHAHA)から翻訳されています。
+> この記事は[WAHAHA本舗](https://ja.wikipedia.org/wiki/WAHAHA本舗)から翻訳されています。
 
 
 **WAHAHA本舗株式会社**（ワハハほんぽ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[劇団](../Page/劇団.md "wikilink")兼[芸能事務所](../Page/芸能事務所.md "wikilink")。所在地は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")渋谷二丁目。英表記はWAHAHA-HOMPO。
@@ -109,8 +109,8 @@
   - [吹越満](../Page/吹越満.md "wikilink")
   - [渡辺信子](../Page/渡辺信子.md "wikilink")
   - てるやひろし
-  - 元氣安
-  - 勝栄（～2016年8月28日）
+  - [元氣安](https://ja.wikipedia.org/wiki/元氣安 "wikilink")
+  - 勝栄（2016年8月28日まで）
   - 岩谷健司
   - 古賀清
   - 大地倫子

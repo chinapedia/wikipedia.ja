@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[日産ディーゼル・スペースランナーA](https://ja.wikipedia.org/wiki/日産ディーゼル・スペースランナーA)から翻訳されています。
 
 
 **スペースランナーA**（*SPACE RUNNER A* ）は、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧：日産ディーゼル工業）が製造していた10～12m級の[路線](../Page/路線バス.md "wikilink")・自家用大型[バス](../Page/バス_\(交通機関\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+> この記事は[ZERO \(ブランド\)](https://ja.wikipedia.org/wiki/ZERO_\(ブランド\))から翻訳されています。
 
 
 **ZERO**（ゼロ）は、[株式会社ビジュアルアーツ傘下の](../Page/ビジュアルアーツ.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のブランド。

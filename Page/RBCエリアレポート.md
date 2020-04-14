@@ -1,4 +1,4 @@
-> この記事は[RBC](https://ja.wikipedia.org/wiki/RBC)から翻訳されています。
+> この記事は[RBCエリアレポート](https://ja.wikipedia.org/wiki/RBCエリアレポート)から翻訳されています。
 
 
 『**RBCエリアレポート**』（アールビーシーエリアレポート）は、[1976年](../Page/1976年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[琉球放送](../Page/琉球放送.md "wikilink")（RBCテレビ）で平日夕方に放送されていた[報道番組](../Page/報道番組.md "wikilink")。1993年12月にRBCテレビが[先島諸島](../Page/先島諸島.md "wikilink")での放送を開始するまでは、[宮古テレビ](../Page/宮古テレビ.md "wikilink")と[石垣ケーブルテレビ](../Page/石垣ケーブルテレビ.md "wikilink")でも翌日の昼前に時差ネットされていた\[1\]。

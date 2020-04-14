@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[カルトQ](https://ja.wikipedia.org/wiki/カルトQ)から翻訳されています。
 
 
 『**カルトQ**』（カルトキュー）は、[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。製作局のフジテレビでは[1991年](../Page/1991年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送。
@@ -501,7 +501,7 @@
 ## 外部リンク
 
   - [広報ページ：カルトQ](http://www.fujitv.co.jp/cs/program/7395_006.html)  - フジテレビ721+739
-  - [ニューカマーズ 2005年10月17日放送 カルトQ2005〜誇り〜](http://www.fujitv.co.jp/b_hp/newcomer/backnumber/703000010-86.html) - フジテレビ
+  - [ニューカマーズ 2005年10月17日放送 カルトQ2005〜誇り〜](https://www.fujitv.co.jp/b_hp/newcomer/backnumber/703000010-86.html) - フジテレビ
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:サブカルチャー](https://ja.wikipedia.org/wiki/Category:サブカルチャー "wikilink")
 

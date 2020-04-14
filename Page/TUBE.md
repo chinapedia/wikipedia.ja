@@ -1,7 +1,7 @@
 > この記事は[TUBE](https://ja.wikipedia.org/wiki/TUBE)から翻訳されています。
 
 
-**TUBE**（チューブ）は、[2019年](../Page/2019年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2020年頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
+**TUBE**（チューブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2020年頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
 
 ## 概要
 

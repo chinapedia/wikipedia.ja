@@ -1,4 +1,4 @@
-> この記事は[Sakura \(\)](https://ja.wikipedia.org/wiki/Sakura_\(\))から翻訳されています。
+> この記事は[Sakura \(ドラマー\)](https://ja.wikipedia.org/wiki/Sakura_\(ドラマー\))から翻訳されています。
 
 
 **Sakura**（サクラ、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月20日](../Page/11月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身。本名は**櫻澤 泰徳**（さくらざわ やすのり）で、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")時代から時々本名を名乗っていたほか、この名義で活動することもある。

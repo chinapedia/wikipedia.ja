@@ -1,4 +1,4 @@
-> この記事は[BTTB](https://ja.wikipedia.org/wiki/BTTB)から翻訳されています。
+> この記事は[ウラBTTB](https://ja.wikipedia.org/wiki/ウラBTTB)から翻訳されています。
 
 
 『**ウラBTTB**』（ウラビーティーティービー）は、[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")にリリースされた[坂本龍一](../Page/坂本龍一.md "wikilink")のマキシ[シングル](../Page/シングル.md "wikilink")。
@@ -35,7 +35,7 @@
 
 ## 脚注
 
-[Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:1999年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のトリプルA面シングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
+[Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:1999年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:1999年のトリプルA面シングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink")
 
 1.  「坂本龍一氏のピアノCD 詞のない曲で初の1位 オリコンのシングル部門」『[日本経済新聞](../Page/日本経済新聞.md "wikilink")』1999年6月27日付、7頁。
 2.  「SATURDAY “X” NIKKEI 急降下する『瞬間消費』」『日本経済新聞』1999年7月3日付、31頁。

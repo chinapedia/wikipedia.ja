@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.マリック](https://ja.wikipedia.org/wiki/Mr.マリック)から翻訳されています。
 
 
 **Mr.マリック**（ミスターマリック、本名: **松尾 昭**〈まつお あきら〉、[1949年](../Page/1949年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")〈戸籍上。実際の日付は[1948年](../Page/1948年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")〉- ）は、マリックエンターテイメント所属の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[マジシャン](https://ja.wikipedia.org/wiki/マジシャン_\(奇術\) "wikilink")。
@@ -73,7 +73,7 @@
   - [2015年](../Page/2015年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[しくじり先生 俺みたいになるな\!\!](https://ja.wikipedia.org/wiki/しくじり先生_俺みたいになるな!! "wikilink")』3時間SPに「本当のことを言えず、詐欺師呼ばわりされちゃった先生」として出演。
   - [2017年](../Page/2017年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")、『しくじり先生 俺みたいになるな\!\!』の「しくじりPTA相談会」に、娘・LUNAとともに出演。
   - [2017年](../Page/2017年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")、『しくじり先生 俺みたいになるな\!\!』娘・LUNAと共に出演し、自らの家庭への無関心により家庭崩壊していたことを明かす。
-  - [2018年](../Page/2018年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")のシチュエーションバラエティードラマ『[東京BTH〜TOKYO BLOOD TYPE HOUSE〜](https://ja.wikipedia.org/wiki/東京BTH〜TOKYO_BLOOD_TYPE_HOUSE〜 "wikilink")』第7話に娘・LUNAと共に出演\[6\]。
+  - [2018年](../Page/2018年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")のシチュエーションバラエティードラマ『[東京BTH〜TOKYO BLOOD TYPE HOUSE〜](../Page/東京BTH〜TOKYO_BLOOD_TYPE_HOUSE〜.md "wikilink")』第7話に娘・LUNAと共に出演\[6\]。
   - [2019年](../Page/2019年.md "wikilink")12月、[運転免許証](../Page/運転免許証.md "wikilink")の返納を[Twitter](../Page/Twitter.md "wikilink")で告白し、話題を呼ぶ。返納の理由として、進化していく車の機能についていけなくなったこと、孫や妻が自身の運転を怖がるようになったこと、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")の返納報道で[運転経歴証明書](https://ja.wikipedia.org/wiki/運転経歴証明書 "wikilink")の存在を知ったことの3点を挙げた\[7\]。
 
 ## CM出演
@@ -105,6 +105,7 @@
   - [Mr.マリック 公式ブログ](http://gree.jp/mr_maric/)
   - \[<https://twitter.com/Mr31481542>　Mr.マリック 公式Twitter\]
   - [マリックチャンネル 公式Twitter](https://twitter.com/maric_ch)
+  - [マリックがきた\!\!Mr.マリック公式チャンネル](https://m.youtube.com/channel/UCdiP7y6qJ-NR3XZt5V0aYVg) (youtube)
 
 [Category:日本の奇術師](https://ja.wikipedia.org/wiki/Category:日本の奇術師 "wikilink") [Category:岐阜県出身の人物](https://ja.wikipedia.org/wiki/Category:岐阜県出身の人物 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

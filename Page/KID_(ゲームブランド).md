@@ -1,4 +1,4 @@
-> この記事は[KID \(\)](https://ja.wikipedia.org/wiki/KID_\(\))から翻訳されています。
+> この記事は[KID \(ゲームブランド\)](https://ja.wikipedia.org/wiki/KID_\(ゲームブランド\))から翻訳されています。
 
 
 **KID**（キッド）は、[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から[2012年](../Page/2012年.md "wikilink")まで[サイバーフロント](../Page/サイバーフロント.md "wikilink")により運営されていた[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")のブランド。また、**株式会社キッド**は、[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")末までこれを運営していた企業。同社の自己破産、倒産によりサイバーフロントへと継承されることとなった。KIDとは「**K**indle **I**magine **D**evelop」の略。
@@ -33,7 +33,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")、[サイバーフロント](../Page/サイバーフロント.md "wikilink")が破産管財人から旧キッドが保有していたゲーム関連の一切の権利および[ソースコード](../Page/ソースコード.md "wikilink")などの資産を取得し、KIDのブランドを継承することを発表した\[7\]\[8\]。同日にサイバーフロント、KIDの両公式サイトのトップページでも同じ発表がなされている\[9\]\[10\]。旧キッド倒産後、ゲーム開発の主要スタッフはほぼそのまま[5pb.](../Page/5pb..md "wikilink")に移籍した。倒産発表前に新作として発売が予定されながら中止となっていた『[Memories Off \#5 encore](../Page/Memories_Off_5_encore.md "wikilink")』は、同社がサイバーフロントからの委託を受けて開発、サイバーフロントが発売することとなった。同じく倒産発表前に新作として発売が予定されながら中止となっていた『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』は、サイバーフロントが開発を行い発売されることとなった。
 
-2007年[11月30日](../Page/11月30日.md "wikilink")、5pb.がサイバーフロントより[『Memories Off』シリーズを独占的](../Page/Memories_Offシリーズ.md "wikilink")・排他的に利用する権利を取得したことが発表された\[11\]。これにより、今後の同シリーズに関する企画・開発・販売に係わる全ての業務は5pb.が請負うこととなった。それ以降も『[My Merry May with be](https://ja.wikipedia.org/wiki/My_Merry_May_with_be "wikilink")』『[Monochrome](../Page/Monochrome.md "wikilink")』など、『メモオフ』以外の旧キッド作品はサイバーフロントから発売されている。また、『[家族計画](../Page/家族計画_\(ゲーム\).md "wikilink")』『[魂響〜御霊送りの詩〜](https://ja.wikipedia.org/wiki/魂響〜御霊送りの詩〜 "wikilink")』のように株式会社時代のキッドがかかわらなかった作品や、『[code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")』のような完全新作にもKIDロゴが施されており、サイバーフロントのギャルゲー用総合ブランドとして活用されていた。ただし美少女キャラクターが中心となるゲームでも、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")や[戯画の作品のようにキッドに含まれないものもある](../Page/戯画_\(ブランド\).md "wikilink")。
+2007年[11月30日](../Page/11月30日.md "wikilink")、5pb.がサイバーフロントより[『Memories Off』シリーズを独占的](../Page/Memories_Offシリーズ.md "wikilink")・排他的に利用する権利を取得したことが発表された\[11\]。これにより、今後の同シリーズに関する企画・開発・販売に係わる全ての業務は5pb.が請負うこととなった。それ以降も『[My Merry May with be](https://ja.wikipedia.org/wiki/My_Merry_May_with_be "wikilink")』『[Monochrome](../Page/Monochrome_\(ゲーム\).md "wikilink")』など、『メモオフ』以外の旧キッド作品はサイバーフロントから発売されている。また、『[家族計画](../Page/家族計画_\(ゲーム\).md "wikilink")』『[魂響〜御霊送りの詩〜](https://ja.wikipedia.org/wiki/魂響〜御霊送りの詩〜 "wikilink")』のように株式会社時代のキッドがかかわらなかった作品や、『[code_18](https://ja.wikipedia.org/wiki/code_18 "wikilink")』のような完全新作にもKIDロゴが施されており、サイバーフロントのギャルゲー用総合ブランドとして活用されていた。ただし美少女キャラクターが中心となるゲームでも、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")や[戯画の作品のようにキッドに含まれないものもある](../Page/戯画_\(ブランド\).md "wikilink")。
 
 サイバーフロントでのブランド使用は、2012年で終了した。同社が解散した2013年にもギャルゲーは発売されているが、発売日が2012年内から年をまたいで延期された『黄昏のシンセミア portable』を例外として、KIDロゴは施されていない。
 
@@ -160,7 +160,7 @@
   - PIZZICATO POLKA 〜縁鎖現夜〜*（ぱじゃまソフト『[PIZZICATO POLKA 〜彗星幻夜〜](https://ja.wikipedia.org/wiki/PIZZICATO_POLKA_〜彗星幻夜〜 "wikilink")』）*
   - [Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")
   - 解決\! オサバキーナ
-  - [Monochrome](../Page/Monochrome.md "wikilink")
+  - [Monochrome](../Page/Monochrome_\(ゲーム\).md "wikilink")
   - 水月 〜迷心〜''（[F\&C FC01](../Page/F&C.md "wikilink")『[水月](../Page/水月_\(ゲーム\).md "wikilink")』）
   - メンアットワーク\!3 愛と青春のハンター学園*（[Studio e.go\!](../Page/Studio_e.go!.md "wikilink")『[メンアットワーク\! ハンター達の青春](../Page/メンアットワーク!.md "wikilink")3』）*
 

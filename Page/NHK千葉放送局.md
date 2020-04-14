@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK千葉放送局](https://ja.wikipedia.org/wiki/NHK千葉放送局)から翻訳されています。
 
 
 **NHK千葉放送局**（エヌエイチケイちばほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")内向けに[FM放送を行っている](../Page/超短波放送.md "wikilink")。AM放送・地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域局扱いとして](../Page/広域放送.md "wikilink")[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
@@ -202,22 +202,20 @@ FM放送以外は県域放送を実施していないことから、それを補
 <a href="https://ja.wikipedia.org/wiki/ひるどき情報ちば" title="wikilink">ひるどき情報ちば</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/田中洋行" title="wikilink">田中洋行</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>ひるまえほっと<br />
-ひるどき情報ちば<br />
-田中ヨーコーちば自転車旅</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/喜多賢治" title="wikilink">喜多賢治</a></p></td>
+<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>契約キャスター</p></td>
+<td><p>キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>松田玲奈</p></td>
 <td></td>
-<td><p>ひるどき情報ちば<br />
-ひるまえほっと</p></td>
+<td><p>ひるまえほっと<br />
+ひるどき情報ちば</p></td>
 </tr>
 <tr class="even">
 <td><p>中村香織</p></td>

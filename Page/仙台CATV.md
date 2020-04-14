@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[仙台CATV](https://ja.wikipedia.org/wiki/仙台CATV)から翻訳されています。
 
 
 **仙台CATV株式会社**（せんだいシーエーティーヴィー）は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")の[錦町公園の向かいに本社を構える](../Page/錦町公園_\(仙台市\).md "wikilink")[テレビ](../Page/テレビ.md "wikilink")放送、[インターネット](../Page/インターネット.md "wikilink")の他に[ホームセキュリティ業務も行う](../Page/機械警備.md "wikilink")[第三セクター](../Page/第三セクター.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。愛称は、**CAT-V**（キャット・ヴィ）。
@@ -48,7 +48,7 @@
 | 14   | 101   | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink")         |
 |      | 103   | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink") |
 |      | 141   | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                  |
-|      | 151   | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                              |
+|      | 151   | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                 |
 |      | 161   | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                               |
 |      | 171   | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                                                                               |
 |      | 181   | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                   |

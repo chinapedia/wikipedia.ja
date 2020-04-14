@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNテレビ静岡ニュース](https://ja.wikipedia.org/wiki/FNNテレビ静岡ニュース)から翻訳されています。
 
 
 『**FNNテレビ静岡ニュース**』（エフフエヌエヌ テレビしずおかニュース）は、[テレビ静岡](../Page/テレビ静岡.md "wikilink")で放送される[静岡県](../Page/静岡県.md "wikilink")内のローカル[ニュース番組の総称である](../Page/報道番組.md "wikilink")。

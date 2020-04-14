@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[A・S・ニイル](https://ja.wikipedia.org/wiki/A・S・ニイル)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Neill_birthday.jpg "wikilink") **アレクサンダー・サザーランド・ニイル**（**ニール**、Alexander Sutherland Neill、[1883年](../Page/1883年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[新教育運動](../Page/新教育運動.md "wikilink")の教育家。[エディンバラ大学](../Page/エディンバラ大学.md "wikilink")に学び、[1912年](../Page/1912年.md "wikilink")、修士号を取得。[1914年](../Page/1914年.md "wikilink")、[スコットランド](../Page/スコットランド.md "wikilink")のグレトナ・グリーンスクールの校長になる。

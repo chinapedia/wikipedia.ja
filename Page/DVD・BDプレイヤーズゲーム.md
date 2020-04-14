@@ -1,4 +1,4 @@
-> この記事は[DVDBD](https://ja.wikipedia.org/wiki/DVDBD)から翻訳されています。
+> この記事は[DVD・BDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVD・BDプレイヤーズゲーム)から翻訳されています。
 
 
 **DVD・BDプレイヤーズゲーム** (DVD・BD Players Game, DVD・BDPG) は、[メディアプレイヤー](https://ja.wikipedia.org/wiki/メディアプレイヤー "wikilink")やDVD・BD再生機能を備えたゲーム機などで動作する[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の総称。

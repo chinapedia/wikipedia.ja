@@ -1,4 +1,4 @@
-> この記事は[TXN](https://ja.wikipedia.org/wiki/TXN)から翻訳されています。
+> この記事は[TXNニュース](https://ja.wikipedia.org/wiki/TXNニュース)から翻訳されています。
 
 
 『**TXNニュース**』（ティーエックスエヌニュース、英称:*TXN NEWS*）とは、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（旧・東京12チャンネル）をはじめとする[TXNネットワーク](../Page/TXNネットワーク.md "wikilink")（旧・メガTONネットワーク）各加盟局で放送されている定時[ニュース番組](../Page/報道番組.md "wikilink")。

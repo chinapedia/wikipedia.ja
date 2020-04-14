@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジェームズ・W・マッコード・ジュニア](https://ja.wikipedia.org/wiki/ジェームズ・W・マッコード・ジュニア)から翻訳されています。
 
 
 **ジェームズ・W・マッコード・ジュニア**（[英](../Page/英語.md "wikilink")：James Walter McCord, Jr.、 [1924年](../Page/1924年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")）は、[ウォーターゲート事件](../Page/ウォーターゲート事件.md "wikilink")で有罪とされた侵入犯のうちの一人。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK熊本放送局](https://ja.wikipedia.org/wiki/NHK熊本放送局)から翻訳されています。
 
 
 **NHK熊本放送局**（エヌエイチケイくまもとほうそうきょく）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
@@ -121,93 +121,87 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/石井隆広" title="wikilink">石井隆広</a></p></td>
-<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クマロク!" title="wikilink">クマロク!</a>（キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/稲塚貴一" title="wikilink">稲塚貴一</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クマロク!" title="wikilink">クマロク!</a><br />
+（キャスター）</p></td>
 <td><p>熊本県出身</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/上野速人.md" title="wikilink">上野速人</a>*</p></td>
+<td><p>熊本県のニュース<br />
+各種スポーツ中継</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>法性亮太</p></td>
+<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>米澤太郎</p></td>
+<td><p><strong>初任地</strong></p></td>
+<td><p>熊本県のニュース</p></td>
+<td><p>熊本県出身</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a>*</p></td>
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/上野速人.md" title="wikilink">上野速人</a>*</p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>熊本県のニュース<br />
-スポーツ中継など</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><a href="../Page/西東大.md" title="wikilink">西東大</a></p></td>
-<td><p>熊本県のニュース<br />
-放送部副部長</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>畠山衣美</p></td>
-<td><p><strong>初任地</strong></p></td>
-<td><p>熊本県のニュース・中継・リポート</p></td>
-<td><p>熊本県出身</p></td>
-</tr>
-<tr class="odd">
-<td><p>米澤太郎</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金子紗也</p></td>
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>クマロク!（キャスター）</p></td>
 <td><p>熊本県出身</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>辻田桃子</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>新島麻生</p></td>
 <td></td>
 <td><p>クマロク!（スポーツキャスター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>野方美郷</p></td>
-<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
+<tr class="odd">
+<td><p>猪崎那紗</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレメッセくまもと" title="wikilink">テレメッセくまもと</a>（キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/村上史" title="wikilink">村上史</a></p></td>
 <td></td>
 <td><p>熊本県出身</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>松永貢</p></td>
 <td></td>
 <td><p>クマロク!（気象キャスター）<br />
 マッスル天気</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

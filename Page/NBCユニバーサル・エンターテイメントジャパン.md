@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCユニバーサル・エンターテイメントジャパン](https://ja.wikipedia.org/wiki/NBCユニバーサル・エンターテイメントジャパン)から翻訳されています。
 
 
 **NBCユニバーサル・エンターテイメントジャパン合同会社**（エヌビーシー ユニバーサル・エンターテイメントジャパン、）は、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")傘下の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")ソフト会社。
@@ -9,7 +9,7 @@
 
 前身は、[1981年](../Page/1981年.md "wikilink")に[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")が[レーザーディスク](../Page/レーザーディスク.md "wikilink")（LD）の製作を目的として設立された**レーザーディスク株式会社**。しかし、パイオニアが[ワーナー・パイオニアから資本を引き上げて](../Page/ワーナーミュージック・ジャパン.md "wikilink")（同社との販売元としての契約はその後も継続）自前で音楽製作にも乗り出す方針に転換したことから、[1989年](../Page/1989年.md "wikilink")に**パイオニア エル・ディー・シー株式会社**（パイオニアLDC）に商号変更し、音楽事業や映画配給事業、アニメ作品の製作も手がけるようになる。
 
-その後、親会社パイオニアは[プラズマディスプレイ](../Page/プラズマディスプレイ.md "wikilink")事業に社運を賭ける方針に傾いたことにより \[1\]、[2003年](../Page/2003年.md "wikilink")10月に子会社パイオニアLDCの全株式を[電通](../Page/電通.md "wikilink")に譲渡し、**ジェネオン エンタテインメント株式会社**（ジェネオン）に商号変更した。本レーベル名での初陣の作品が『[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")』であり、『ジェネオン|geneon』の商号は公式サイト『小麦っ子くらぶ』中の[インターネットラジオ内で初公開されている](../Page/中原小麦のまじかるナースステーション.md "wikilink")。
+その後、親会社パイオニアは[プラズマディスプレイ](../Page/プラズマディスプレイ.md "wikilink")事業に社運を賭ける方針に傾いたことにより \[1\]、[2003年](../Page/2003年.md "wikilink")10月に子会社パイオニアLDCの全株式を[電通](../Page/電通.md "wikilink")に譲渡し、**ジェネオン エンタテインメント株式会社**（ジェネオン）に商号変更した。本レーベル名での初陣の作品が『[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")』であり、『ジェネオン』の商号は公式サイト『小麦っ子くらぶ』中の[インターネットラジオ内で初公開されている](../Page/中原小麦のまじかるナースステーション.md "wikilink")。
 
 その当時の商号の「ジェネオン」は、"**gen**erate"（創造）と"**eon**"（永遠）を組み合わせた造語。
 
@@ -77,6 +77,7 @@
   - [やなぎなぎ](https://ja.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年 - )
   - [山崎はるか](https://ja.wikipedia.org/wiki/山崎はるか "wikilink") (2011年 - 2013年、2018年 - )
   - [Luce Twinkle Wink☆](https://ja.wikipedia.org/wiki/Luce_Twinkle_Wink☆ "wikilink") (2015年 - )
+  - [H-el-ical](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru）（2020年 -）
 
 ### 過去の所属者
 
@@ -132,7 +133,7 @@
   - [ダウト](https://ja.wikipedia.org/wiki/ダウト_\(バンド\) "wikilink") (2008年 - 2010年)（徳間ジャパンコミュニケーションズに移籍）
   - [高橋直純](../Page/高橋直純.md "wikilink") (2006年)
   - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[6\]）
-  - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink") (2010年)
+  - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink") (2010年)
   - [たま](../Page/たま_\(バンド\).md "wikilink") (1996年 - 1997年)（立ち上げていたプライベート[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の[地球レコード](../Page/地球レコード.md "wikilink")に再び戻った後、2003年解散）
   - [田村直美](../Page/田村直美.md "wikilink") (2002年)（[アップフロント/ゼティマを経て](../Page/アップフロントワークス.md "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")および[Faith（フェイス）の両社合弁によるインディーズレーベルへ移籍](../Page/フェイス_\(企業\).md "wikilink")）
   - [鶴田加茂](https://ja.wikipedia.org/wiki/鶴田加茂 "wikilink") (2012年 - 2013年)
@@ -322,11 +323,9 @@
 
 ## 脚注
 
-  - 注釈
+### 注釈
 
-<!-- end list -->
-
-  - 出典
+### 出典
 
 ## 関連項目
 

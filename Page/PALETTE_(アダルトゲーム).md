@@ -1,4 +1,4 @@
-> この記事は[PALETTE \(\)](https://ja.wikipedia.org/wiki/PALETTE_\(\))から翻訳されています。
+> この記事は[PALETTE \(アダルトゲーム\)](https://ja.wikipedia.org/wiki/PALETTE_\(アダルトゲーム\))から翻訳されています。
 
 
 『**PALETTE**』（パレット）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月20日](../Page/11月20日.md "wikilink")に[フェアリーテールより発売された](../Page/フェアリーテール_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

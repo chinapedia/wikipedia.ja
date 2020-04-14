@@ -1,4 +1,4 @@
-> この記事は[KCV](https://ja.wikipedia.org/wiki/KCV)から翻訳されています。
+> この記事は[KCVコミュニケーションズ](https://ja.wikipedia.org/wiki/KCVコミュニケーションズ)から翻訳されています。
 
 
 **KCVコミュニケーションズ**株式会社は、大分県日田市に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。略称：KCV。
@@ -33,10 +33,12 @@ b-netというインターネット接続サービスも行っている。
 <tr class="header">
 <th><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK-G</a></p></th>
 <th><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK-E</a></p></th>
+<th><p><a href="../Page/日本ニュースネットワーク.md" title="wikilink">NNN</a></p></th>
 <th><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">NNS</a></p></th>
 <th><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">ANN</a></p></th>
 <th><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">JNN</a></p></th>
 <th><p><a href="../Page/TXNネットワーク.md" title="wikilink">TXN</a></p></th>
+<th><p><a href="../Page/フジニュースネットワーク.md" title="wikilink">FNN</a></p></th>
 <th><p><a href="../Page/フジネットワーク.md" title="wikilink">FNS</a></p></th>
 <th><p><a href="../Page/全国独立放送協議会.md" title="wikilink">JAITS</a></p></th>
 </tr>
@@ -44,7 +46,6 @@ b-netというインターネット接続サービスも行っている。
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">NHK大分</a></p></td>
-<td><p>NHK大分</p></td>
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a><br />
 <a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a><br />
@@ -54,6 +55,9 @@ b-netというインターネット接続サービスも行っている。
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>テレビ大分<br />
 <a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -81,7 +85,7 @@ b-netというインターネット接続サービスも行っている。
 |        | BS101      | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](../Page/NHK_BS1.md "wikilink") |
 |        | BS103      | NHK[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")                         |
 |        | BS141      | [BS日テレ](../Page/BS日本.md "wikilink")                                                        |
-|        | BS151      | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                    |
+|        | BS151      | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                       |
 |        | BS161      | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                     |
 |        | BS171      | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                                                     |
 |        | BS181      | [BSフジ](../Page/BSフジ.md "wikilink")                                                         |

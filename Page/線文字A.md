@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[線文字A](https://ja.wikipedia.org/wiki/線文字A)から翻訳されています。
 
 
 **線文字A**（せんもじA、Linear A）は、およそ[紀元前18世紀](../Page/紀元前18世紀.md "wikilink")から[紀元前15世紀](../Page/紀元前15世紀.md "wikilink")頃まで[クレタ島](https://ja.wikipedia.org/wiki/クレタ島 "wikilink")で用いられていた[文字](../Page/文字.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[TIM \(\)](https://ja.wikipedia.org/wiki/TIM_\(\))から翻訳されています。
+> この記事は[TIM \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/TIM_\(お笑いコンビ\))から翻訳されています。
 
 
 **TIM**（ティーアイエム）は、レッド吉田とゴルゴ松本からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。コンビ名の由来は「タイム・イズ・マネー」から。

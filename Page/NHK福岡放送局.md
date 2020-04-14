@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK福岡放送局](https://ja.wikipedia.org/wiki/NHK福岡放送局)から翻訳されています。
 
 
 **NHK福岡放送局**（エヌエイチケイふくおかほうそうきょく）は、[福岡県](../Page/福岡県.md "wikilink")の西部（[福岡地方](../Page/福岡地方.md "wikilink")・[筑後地方](../Page/筑後地方.md "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。
@@ -197,7 +197,7 @@
   - [実感ドドド\!](https://ja.wikipedia.org/wiki/実感ドドド! "wikilink")（金曜 19:30-19:55）
       -
         2018年度からは月一回を福岡県域枠で『実感ドドド@福岡』として放送。
-  - 土・日・祝日の645ニュース（18:45-18:58.55）
+  - 九州沖縄のニュース（土・日・祝日 18:45-18:58.55）
   - [アサタビ\!](https://ja.wikipedia.org/wiki/アサタビ! "wikilink")（年数回 土曜7:35-8:00）
   - 九州沖縄特集（随時）
   - [いちおし\!九州沖縄](https://ja.wikipedia.org/wiki/いちおし!九州沖縄 "wikilink")（土曜午前地域枠）
@@ -230,6 +230,7 @@
   - [アジア人間街道](../Page/アジア人間街道.md "wikilink")（全国向け。2001年4月-2003年3月）
   - [ASIAN PASSION〜アジアを駆ける日本人〜](https://ja.wikipedia.org/wiki/ASIAN_PASSION〜アジアを駆ける日本人〜 "wikilink")（2012年度終了）
   - [イブニングネットワークふくおか](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")
+  - LKくらしのチャンネル
   - [おっしょい\!福岡](https://ja.wikipedia.org/wiki/おっしょい!福岡 "wikilink")（福岡局エリア。1997年度-2003年度）
   - 知っとお?ふくおか
   - [九州沖縄インサイド](../Page/九州沖縄インサイド.md "wikilink")（九州・沖縄。2007年度-2010年度）
@@ -237,14 +238,16 @@
   - [九州沖縄アンコールアワー](https://ja.wikipedia.org/wiki/九州沖縄アンコールアワー "wikilink")（九州・沖縄。事実上2008年度で終了）
   - 九州沖縄一本勝負（九州・沖縄）
   - [九州沖縄スペシャル](../Page/九州沖縄スペシャル.md "wikilink")（九州・沖縄。2010年度終了）
+  - 九州22:00
   - [ぐるっと8県 九州沖縄](../Page/ぐるっと8県_九州沖縄.md "wikilink")（一部県域・地域放送。2003年度後半-2012年度）
+  - こんばんは九州
   - [情報ワイド福岡いちばん星](../Page/情報ワイド福岡いちばん星.md "wikilink")（福岡県域。2004年度-2006年度）
   - [ニュースいちばん星](../Page/ニュースいちばん星.md "wikilink")（福岡局エリア。2007年度）
   - [NEWSなっとく福岡](https://ja.wikipedia.org/wiki/ニュースなっとく福岡 "wikilink")（福岡局エリア。2008年度-2010年度）
   - [熱烈発信\!福岡NOW](https://ja.wikipedia.org/wiki/熱烈発信!福岡NOW "wikilink")（福岡局エリア。2011年度-2014年度）
   - [福岡国際マラソン](../Page/福岡国際マラソン.md "wikilink")（全国向け。1959年の第13回大会から1962年の第16回大会まで及び1964年の第18回大会から1991年の第45回大会まで。1992年の第46回大会から[テレビ朝日系列へ移行](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - [福岡にんげん交差点](../Page/福岡にんげん交差点.md "wikilink")（福岡県域。2010年度終了）
-  - ニューススタジオ（福岡局エリア）
+  - ニューススタジオ福岡（福岡局エリア）
   - [まるごと福岡トクテレ](../Page/まるごと福岡トクテレ.md "wikilink")（福岡県域。2007年度）
   - 6時半です\!ニュースセンター福岡（福岡局エリア。1996年度）
   - ワンダーランド九州（九州・沖縄）
@@ -351,7 +354,6 @@
 <tr class="header">
 <th><p>氏名</p></th>
 <th><p>前任地</p></th>
-<th><p>主なジャンル</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -362,100 +364,92 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岩元良介" title="wikilink">岩元良介</a></p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a>（ディレクター業務）</p></td>
-<td><p>地域</p></td>
-<td><p>ニュース・中継・リポートなど</p></td>
-<td><p>北九州市出身</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/魚住優" title="wikilink">魚住優</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>地域</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/実感ドドド!" title="wikilink">実感ドドド!</a></strong><br />
-ニュース・中継リポートなど</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山下清貴" title="wikilink">山下清貴</a></p></td>
-<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
-<td><p>アナウンス専任部長</p></td>
-<td><p>ニュース・中継・リポートなど</p></td>
-<td><p>管理業務主体</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/伊奈正高.md" title="wikilink">伊奈正高</a></p></td>
-<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/猪原智紀" title="wikilink">猪原智紀</a>*</p></td>
-<td><p>北九州</p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/戸部眞輔" title="wikilink">戸部眞輔</a></p></td>
-<td><p>北九州</p></td>
-<td><p>スポーツ</p></td>
-<td><p><strong>大相撲九州場所中継統括</strong><br />
-各種スポーツ中継</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中山庸介.md" title="wikilink">中山庸介</a></p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロクいち!福岡" title="wikilink">ロクいち!福岡</a></strong>キャスター<br />
-ニュース</p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロクいち!福岡" title="wikilink">ロクいち!福岡</a><br />
+（キャスター）<br />
+九州沖縄のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/魚住優" title="wikilink">魚住優</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/実感ドドド!" title="wikilink">実感ドドド!</a><br />
+（キャスター）<br />
+九州沖縄のニュース</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/藤澤義貴.md" title="wikilink">藤澤義貴</a></p></td>
+<td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a></p></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）<br />
+九州沖縄のニュース</p></td>
+<td><p>太宰府市出身</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山下清貴" title="wikilink">山下清貴</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p>アナウンス専任部長</p></td>
+<td><p>管理業務主体</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/戸部眞輔" title="wikilink">戸部眞輔</a></p></td>
+<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
+<td><p>大相撲九州場所中継統括<br />
+各種スポーツ中継<br />
+九州沖縄のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川順一" title="wikilink">西川順一</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
-<td><p>主にスポーツ</p></td>
-<td><p>ニュースなど</p></td>
+<td><p>各種スポーツ中継<br />
+九州沖縄のニュース</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/原田徹.md" title="wikilink">原田徹</a>*</p></td>
-<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
-<td><p>北九州市出身<br />
-<strong>嘱託職</strong></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/早瀬雄一.md" title="wikilink">早瀬雄一</a>*</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-media出向</a></p></td>
-<td><p>地域・スポーツ</p></td>
-<td><p>ニュース・スポーツ中継など</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/森田哲意" title="wikilink">森田哲意</a></p></td>
+<td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/岩元良介" title="wikilink">岩元良介</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a>（ディレクター業務）</p></td>
+<td><p>九州沖縄のニュース</p></td>
+<td><p>北九州市出身</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/伊奈正高.md" title="wikilink">伊奈正高</a></p></td>
+<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/猪原智紀" title="wikilink">猪原智紀</a>*</p></td>
+<td><p>北九州</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/原田徹.md" title="wikilink">原田徹</a>*</p></td>
+<td><p>北九州市出身<br />
+<strong>嘱託職</strong></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/田中秀喜.md" title="wikilink">田中秀喜</a>*</p></td>
-<td><p>山口</p></td>
-<td><p>地域</p></td>
-<td><p>ニュース・中継・リポートなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/藤澤義貴.md" title="wikilink">藤澤義貴</a></p></td>
-<td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュース・中継・リポートなど</p></td>
-<td><p>太宰府市出身</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/森田哲意" title="wikilink">森田哲意</a></p></td>
-<td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
-<td></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -464,18 +458,16 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/庭木櫻子" title="wikilink">庭木櫻子</a></p></td>
 <td><p><strong><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></strong></p></td>
-<td><p>地域</p></td>
-<td><p><strong>ロクいち!福岡</strong>リポーター<br />
-ニュースなど</p></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）<br />
+九州沖縄のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -490,7 +482,7 @@
 <thead>
 <tr class="header">
 <th><p>氏名</p></th>
-<th><p>所属・前職等</p></th>
+<th><p>所属・前職・前任地など</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -499,72 +491,76 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡野唯" title="wikilink">岡野唯</a></p></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>アナウンサー</p></td>
-<td><p><strong>ロクいち!福岡</strong>スポーツ担当</p></td>
+<td><p>ロクいち!福岡<br />
+（スポーツキャスター）</p></td>
 <td><p>2019年入局</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐々木理恵_(NHK福岡)" title="wikilink">佐々木理恵</a></p></td>
 <td></td>
-<td><p><strong><a href="../Page/おはよう九州沖縄.md" title="wikilink">おはよう九州沖縄</a></strong><br />
-<strong>ふく!なび</strong></p></td>
+<td><p><a href="../Page/おはよう九州沖縄.md" title="wikilink">おはよう九州沖縄</a><br />
+ふく!なび</p></td>
 <td><p>ふっくの「お守り」役のひとり</p></td>
 </tr>
 <tr class="odd">
 <td><p>柴田文子</p></td>
 <td><p>元<a href="../Page/東北放送.md" title="wikilink">東北放送</a>スポーツ記者</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a></strong> 県域枠担当</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a><br />
+（福岡県域枠担当）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>辻本彩乃</p></td>
 <td><p>元<a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ放送</a>契約タレント</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>中尾友香</p></td>
 <td></td>
-<td><p>ニュースなど</p></td>
+<td><p>九州沖縄のニュース</p></td>
 <td><p>2017年入局</p></td>
 </tr>
 <tr class="even">
 <td><p>中田理奈</p></td>
 <td></td>
-<td><p><strong>ロクいち!福岡</strong>レポーター</p></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）</p></td>
 <td><p>2019年入局</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長安智子.md" title="wikilink">長安智子</a></p></td>
-<td><p>元<a href="../Page/NHK山口放送局.md" title="wikilink">山口局など契約キャスター</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/はっけんラジオ" title="wikilink">はっけんラジオ</a></strong></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/はっけんラジオ" title="wikilink">はっけんラジオ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>福地礼奈</p></td>
 <td></td>
-<td><p><strong>ロクいち!福岡</strong>レポーター</p></td>
-<td><p>2019年入局、元AKB48チーム8佐賀県代表</p></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）</p></td>
+<td><p>2019年入局<br />
+元AKB48チーム8佐賀県代表</p></td>
 </tr>
 <tr class="odd">
 <td><p>松崎洋子</p></td>
-<td><p>元<a href="../Page/NHK広島放送局.md" title="wikilink">広島局など契約キャスター</a></p></td>
-<td><p><strong>ロクいち!福岡</strong>キャスター</p></td>
+<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
+<td><p>ロクいち!福岡<br />
+（キャスター）</p></td>
 <td><p>2017年入局</p></td>
 </tr>
 <tr class="even">
-<td><p>松井渉<br />
-（まつい・わたる）</p></td>
+<td><p>松井渉|松井<ruby>渉<rt>わたる</rt></ruby></p></td>
 <td><p><a href="../Page/日本気象協会.md" title="wikilink">日本気象協会</a>九州支社所属<br />
 <a href="../Page/気象予報士.md" title="wikilink">気象予報士</a><br />
 （福岡局公式サイト非掲載）</p></td>
-<td><p><strong>はっけんTV</strong><br />
-<strong>はっけんラジオ</strong></p></td>
-<td><p>気象情報以外の県域コーナーにも出演</p></td>
+<td><p>はっけんTV<br />
+はっけんラジオ</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>吉竹顕彰<br />
-（よしたけ・あきら）</p></td>
-<td><p><strong>ロクいち!福岡</strong></p></td>
+<td><p>吉竹顕彰|吉竹<ruby>顕彰<rt>あきら</rt></ruby></p></td>
+<td><p>ロクいち!福岡</p></td>
 <td><p>NHK出演歴20年以上</p></td>
 <td></td>
 </tr>
@@ -573,88 +569,6 @@
 
   - ラジオの列島リレーニュースは、キャスター担当の日が少なくない（東京を除くと福岡局のみ）。
   - 気象予報士はこのほかにも気象協会九州支社に「出演登録」（契約）している人物が交替で随時ラジオの気象情報を担当している。
-
-### 過去のキャスター・リポーター
-
-<table>
-<thead>
-<tr class="header">
-<th><p>氏名</p></th>
-<th><p>所属・前職等</p></th>
-<th><p>主な担当番組</p></th>
-<th><p>在籍期間</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>FK専属</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秋山千鶴" title="wikilink">秋山千鶴</a></p></td>
-<td><p>2004年4月から2008年3月まで<a href="../Page/NHK徳島放送局.md" title="wikilink">徳島局契約キャスター</a></p></td>
-<td><p>ニュースなっとく福岡 キャスターなど</p></td>
-<td><p>2008年4月-2012年3月</p></td>
-<td><p>2012年4月から<a href="../Page/NHKラジオセンター.md" title="wikilink">NHKラジオセンター</a>契約キャスター</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/えがわさゆり" title="wikilink">江河小百合</a></p></td>
-<td><p>2014年4月から2016年3月まで<a href="../Page/NHK高知放送局.md" title="wikilink">高知局契約キャスター</a></p></td>
-<td><p>ロクいち!福岡 リポーター</p></td>
-<td><p>2016年4月-2018年2月</p></td>
-<td><p>2018年3月から<a href="../Page/セント・フォース.md" title="wikilink">セント・フォース</a>所属<br />
-同時期に異動した<a href="../Page/井上二郎.md" title="wikilink">井上二郎</a>メイン進行の<br />
-『<a href="https://ja.wikipedia.org/wiki/週刊まるわかりニュース" title="wikilink">週刊まるわかりニュース</a>』を担当</p></td>
-</tr>
-<tr class="even">
-<td><p>居石友夏子</p></td>
-<td></td>
-<td><p><strong>ロクいち!福岡</strong>スポーツ担当</p></td>
-<td><p>2015年4月-2019年3月</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>水越理恵</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/CRCCメディア" title="wikilink">CRCCメディア</a>アナウンサー</p></td>
-<td><p>各種リポート</p></td>
-<td><p>不明-2018年9月</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>宮脇美咲</p></td>
-<td></td>
-<td><p><strong>ロクいち!福岡</strong><br />
-<strong>がめにラジオ</strong></p></td>
-<td><p>2016年4月-2019年3月</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/武藤麻美.md" title="wikilink">武藤麻美</a></p></td>
-<td><p>元『<a href="../Page/KBCニュースピア.md" title="wikilink">KBCニュースピア</a>』キャスター</p></td>
-<td><p><strong>はっけんTV</strong></p></td>
-<td><p>2013年4月-2019年3月</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>森美奈子</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a>アナウンサー</p></td>
-<td><p>ニュースなど</p></td>
-<td><p>2014年9月-2019年3月</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## 福岡放送局管轄のNHK放送局
 

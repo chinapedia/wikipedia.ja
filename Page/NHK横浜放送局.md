@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK横浜放送局](https://ja.wikipedia.org/wiki/NHK横浜放送局)から翻訳されています。
 
 
 **NHK横浜放送局**（エヌエイチケイよこはまほうそうきょく）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。神奈川県内向けに[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")を行っており、ほかのAM放送・地上テレビ放送は全て[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域圏扱いとして](../Page/広域放送.md "wikilink")[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
@@ -459,7 +459,7 @@
     <!-- end list -->
       -
         ※金曜は「サウンドクルーズ」の枠内に内包。
-  - その他に随時神奈川県勢が絡むスポーツチームの中継（[全国高校選手権神奈川県大会](../Page/全国高等学校野球選手権神奈川大会.md "wikilink")、[プロ野球](../Page/日本プロ野球.md "wikilink")[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")公式戦、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[JFL所属神奈川勢の試合など](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")）を放送する場合がある。
+  - その他に随時神奈川県勢が絡むスポーツチームの中継（[全国高校選手権神奈川県大会](../Page/全国高等学校野球選手権神奈川大会.md "wikilink")、[プロ野球](../Page/日本プロ野球.md "wikilink")[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")公式戦、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[JFL所属神奈川勢の試合など](../Page/日本フットボールリーグ.md "wikilink")）を放送する場合がある。
 
 ### 制作参加
 

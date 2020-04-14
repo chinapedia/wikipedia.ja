@@ -1,4 +1,4 @@
-> この記事は[Dream \(\)](https://ja.wikipedia.org/wiki/Dream_\(\))から翻訳されています。
+> この記事は[Dream \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Dream_\(音楽ユニット\))から翻訳されています。
 
 
 **Dream**（ドリーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性ダンス＆ボーカルグループ。[LDH所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。レーベルは[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

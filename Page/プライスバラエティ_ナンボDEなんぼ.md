@@ -1,4 +1,4 @@
-> この記事は[ DE](https://ja.wikipedia.org/wiki/_DE)から翻訳されています。
+> この記事は[プライスバラエティ ナンボDEなんぼ](https://ja.wikipedia.org/wiki/プライスバラエティ_ナンボDEなんぼ)から翻訳されています。
 
 
 『**プライスバラエティ ナンボDEなんぼ**』（プライスバラエティ ナンボでなんぼ）は、2000年から2010年にかけて放送されていた[関西テレビ制作の](../Page/関西テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。 通称は「**ナンボDEなんぼ**」で、正式タイトルで呼ばれることはほとんど無い。司会は、[メッセンジャーの](../Page/メッセンジャー_\(お笑いコンビ\).md "wikilink")[黒田有と](https://ja.wikipedia.org/wiki/メッセンジャー黒田 "wikilink")[関西テレビ](../Page/関西テレビ放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[山本浩之](../Page/山本浩之_\(アナウンサー\).md "wikilink")。

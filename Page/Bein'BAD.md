@@ -10,6 +10,6 @@
 ## 外部リンク
 
   - [FM-FUJI Bein'BAD](http://web.archive.org/web/20081104100934/http://bad.fmfuji.co.jp/) - 閉鎖。（2008年11月4日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [aroMaria★香るDJ](http://ameblo.jp/maria-kelly/) - DJマリア袈里のブログ
+  - [aroMaria★香るDJ](https://ameblo.jp/maria-kelly/) - DJマリア袈里のブログ
 
 [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink")

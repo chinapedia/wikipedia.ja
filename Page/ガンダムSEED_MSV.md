@@ -1,4 +1,4 @@
-> この記事は[SEED MSV](https://ja.wikipedia.org/wiki/SEED_MSV)から翻訳されています。
+> この記事は[ガンダムSEED MSV](https://ja.wikipedia.org/wiki/ガンダムSEED_MSV)から翻訳されています。
 
 
 **ガンダムSEED MSV**（ガンダムシード エムエスブイ）とは、[アニメ](../Page/アニメ.md "wikilink")『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』に関連した企画の一つ。

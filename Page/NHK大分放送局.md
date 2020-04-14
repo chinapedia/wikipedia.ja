@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK大分放送局](https://ja.wikipedia.org/wiki/NHK大分放送局)から翻訳されています。
 
 
 [thumb全景](https://ja.wikipedia.org/wiki/ファイル:Oita_Oasis_Hiroba_21_1.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK大分放送局入口.JPG "wikilink") **NHK大分放送局**（エヌエイチケイおおいたほうそうきょく）は、[大分県](../Page/大分県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
@@ -165,8 +165,10 @@
 
   - NHKニュースおはよう大分
   - ひるまえスタジオおおいた
-  - おおいた640→おおいた630→イブニングネットワークおおいた→オアシスTVおおいた→おおいたホットニュース→ニュースTodayおおいた→[しんけんワイド大分](https://ja.wikipedia.org/wiki/しんけんワイド大分 "wikilink")
+  - ゆうどき5おおいた
+  - おおいた640→おおいた630→イブニングネットワークおおいた→新鮮\!おおいた情報広場→情報ボックスおおいた→オアシスTVおおいた→[おおいたホットニュース](https://ja.wikipedia.org/wiki/おおいたホットニュース "wikilink")→[ニュースTodayおおいた](https://ja.wikipedia.org/wiki/ニュースTodayおおいた "wikilink")→[しんけんワイド大分](https://ja.wikipedia.org/wiki/しんけんワイド大分 "wikilink")
   - ニュース645おおいた
+  - おおいた熱討キャンバス
 
 ## アナウンサー・キャスター
 

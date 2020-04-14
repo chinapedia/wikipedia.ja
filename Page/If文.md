@@ -1,4 +1,4 @@
-> この記事は[If](https://ja.wikipedia.org/wiki/If)から翻訳されています。
+> この記事は[If文](https://ja.wikipedia.org/wiki/If文)から翻訳されています。
 
 
 **if文**（イフぶん）は[プログラミング言語](../Page/プログラミング言語.md "wikilink")において、[真理値](https://ja.wikipedia.org/wiki/真理値 "wikilink")に従って「もしXならば、Yせよ、さもなくばZせよ」というような条件実行の「[文 (プログラミング)](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink") 」で、[制御構造](../Page/制御構造.md "wikilink")のひとつである。**if else文**と呼ばれることもある。

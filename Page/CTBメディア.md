@@ -1,4 +1,4 @@
-> この記事は[CTB](https://ja.wikipedia.org/wiki/CTB)から翻訳されています。
+> この記事は[CTBメディア](https://ja.wikipedia.org/wiki/CTBメディア)から翻訳されています。
 
 
 **CTBメディア**株式会社（シーティービーメディア）は、[大分県](../Page/大分県.md "wikilink")[別府市](../Page/別府市.md "wikilink")に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。旧社名は、ケーブルテレビジョン別府。
@@ -19,23 +19,26 @@
 
 ## 主な放送チャンネル
 
+### 地上波系列別再送信局
+
 <table>
 <thead>
 <tr class="header">
-<th><p>NHK-G</p></th>
-<th><p>NHK-E</p></th>
-<th><p>NNS</p></th>
-<th><p>ANN</p></th>
-<th><p>JNN</p></th>
-<th><p>TXN</p></th>
-<th><p>FNS</p></th>
-<th><p>JAITS</p></th>
+<th><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK-G</a></p></th>
+<th><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK-E</a></p></th>
+<th><p><a href="../Page/日本ニュースネットワーク.md" title="wikilink">NNN</a></p></th>
+<th><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">NNS</a></p></th>
+<th><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">ANN</a></p></th>
+<th><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">JNN</a></p></th>
+<th><p><a href="../Page/TXNネットワーク.md" title="wikilink">TXN</a></p></th>
+<th><p><a href="../Page/フジニュースネットワーク.md" title="wikilink">FNN</a></p></th>
+<th><p><a href="../Page/フジネットワーク.md" title="wikilink">FNS</a></p></th>
+<th><p><a href="../Page/全国独立放送協議会.md" title="wikilink">JAITS</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">NHK大分</a></p></td>
-<td><p>NHK大分</p></td>
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a><br />
 <a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a></p></td>
@@ -43,6 +46,9 @@
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>テレビ大分<br />
 <a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -127,7 +133,7 @@
 <tr class="even">
 <td></td>
 <td><p>BS151</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -1,4 +1,4 @@
-> この記事は[!CNN](https://ja.wikipedia.org/wiki/!CNN)から翻訳されています。
+> この記事は[おはよう!CNN](https://ja.wikipedia.org/wiki/おはよう!CNN)から翻訳されています。
 
 
 「**おはよう\!CNN**」は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（ただし一部系列局は除く）で放送されていた[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

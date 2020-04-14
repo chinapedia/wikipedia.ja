@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[杉作J太郎](https://ja.wikipedia.org/wiki/杉作J太郎)から翻訳されています。
 
 
 **杉作 J太郎**（すぎさく じぇいたろう、本名：**杉恭介**、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[俳優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[ライター](../Page/著作家.md "wikilink")・[映画監督](../Page/映画監督.md "wikilink")。[男の墓場プロダクション](https://ja.wikipedia.org/wiki/男の墓場プロダクション "wikilink")代表。
@@ -35,7 +35,7 @@
 
 [2018年](../Page/2018年.md "wikilink")、『センチメンタルコリーダ映画祭』を改題、『どっきり文化祭』を同じくシネマルナティックで主催。飯島洋一、内田名人、なっちゃん各氏をゲストに迎える。[東映](../Page/東映.md "wikilink")映画のオールナイト企画が大好評。
 
-2019年現在、故郷愛媛の南海放送にて『痛快！杉作J太郎のどっきりナイト７』（[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオ2019年４月〜(月/21:30～,火水木金/19:00～, 土/21:00～, 日/21:00～))のメインパーソナリティ、[もぎたてテレビ](../Page/もぎたてテレビ70.md "wikilink") ([南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")テレビ) 2019年4月〜　毎週日曜昼)\[3\]のレギュラー出演者を務めている。
+2019年現在、故郷愛媛の南海放送にて『[痛快\!杉作J太郎のどっきりナイト7](https://ja.wikipedia.org/wiki/痛快!杉作J太郎のどっきりナイト7 "wikilink") 』（[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオ2019年４月〜(月/21:30～,火水木金/19:00～, 土/21:00～, 日/21:00～))のメインパーソナリティ、[もぎたてテレビ](../Page/もぎたてテレビ70.md "wikilink") ([南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")テレビ) 2019年4月〜　毎週日曜昼)\[3\]のレギュラー出演者を務めている。
 
 ## 作品
 
@@ -127,7 +127,7 @@
   - [水道橋博士の80年代伝説](https://ja.wikipedia.org/wiki/水道橋博士の80年代伝説 "wikilink")　（[歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")）
   - [アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink") （2014年3月14日、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")）「アグレッシブ人生学部〜中年うつ学〜」
   - [MOTTO！！](https://ja.wikipedia.org/wiki/MOTTO!! "wikilink") 痛快！ 杉作J太郎のどっきりナイトナイトナイト（RNB 南海放送、2017年10月7日〜2019年3月末　毎週土曜日21:00-23:00）
-  - [痛快！杉作J太郎のどっきりナイト７](https://ja.wikipedia.org/wiki/痛快！杉作J太郎のどっきりナイト７ "wikilink") （[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオ2019年４月〜(月/21:30～,火水木金/19:00～, 土/21:00～, 日/21:00～))
+  - [痛快\!杉作J太郎のどっきりナイト7](https://ja.wikipedia.org/wiki/痛快!杉作J太郎のどっきりナイト7 "wikilink") （[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオ2019年４月〜(月/21:30～,火水木金/19:00～, 土/21:00～, 日/21:00～))
   - [中四国ライブネット](../Page/中四国ライブネット.md "wikilink")（[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")）
       - 「春うらら運転手はＪ太郎！」（2018年3月18日）
       - 「アニメは世代を超えるのか？杉作J太郎×[井上音生](https://ja.wikipedia.org/wiki/井上音生 "wikilink")～アニメまつり～」（2018年9月23日）

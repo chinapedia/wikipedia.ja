@@ -1,4 +1,4 @@
-> この記事は[Black](https://ja.wikipedia.org/wiki/Black)から翻訳されています。
+> この記事は[仮面ライダーBlack](https://ja.wikipedia.org/wiki/仮面ライダーBlack)から翻訳されています。
 
 
 『**仮面ライダーBlack**』（かめんライダーブラック）は、[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品とその作中で主人公が変身するヒーローの名称。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1988年](../Page/1988年.md "wikilink")にかけて連載された。

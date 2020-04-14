@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[TVクルーズ となりのパパイヤ](https://ja.wikipedia.org/wiki/TVクルーズ_となりのパパイヤ)から翻訳されています。
 
 
 『**TVクルーズ となりのパパイヤ**』（テレビクルーズ となりのパパイヤ）は、[1994年](../Page/1994年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")制作の平日午後の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[愛媛CATV](https://ja.wikipedia.org/wiki/愛媛CATV)から翻訳されています。
 
 
 **株式会社愛媛CATV**（えひめシーエーティヴィ）は、テレビ放送、インターネット、IP電話を業務とする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。 また、[エリア放送](https://ja.wikipedia.org/wiki/エリア放送 "wikilink")の[地上一般放送事業者](https://ja.wikipedia.org/wiki/地上一般放送事業者 "wikilink")でもある。
@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>B151～153</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>B161～163</p></td>

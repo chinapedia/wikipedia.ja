@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNS歌謡祭](https://ja.wikipedia.org/wiki/FNS歌謡祭)から翻訳されています。
 
 
 [280pxの](https://ja.wikipedia.org/wiki/ファイル:Grand_Prince_Hotel_New_Takanawa.jpg "wikilink")[生放送](../Page/生放送.md "wikilink")が行われている[グランドプリンスホテル新高輪](../Page/グランドプリンスホテル新高輪.md "wikilink")「飛天」（2015年から「第1夜」で使用されている）\]\] [280px](https://ja.wikipedia.org/wiki/ファイル:Fuji_TV_headquarters_and_Aqua_City_Odaiba_-_2006-05-03-2009-25-01.jpg "wikilink")」（2014年までは中継先の会場として使用されていた）\]\] 『**FNS歌謡祭**』（エフエヌエスかようさい、[英](../Page/英語.md "wikilink"):*FNS MUSIC FESTIVAL*）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")（FNS）で[1974年](../Page/1974年.md "wikilink")から毎年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")[上旬](https://ja.wikipedia.org/wiki/上旬 "wikilink")\[1\]（[冬](../Page/冬.md "wikilink")）の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")・[プライムタイム](../Page/プライムタイム.md "wikilink")（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")されている[年末大型](../Page/年末年始.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。公式な通称は特にないが、主に『**FNS**』と呼ばれることが多い\[2\]。
@@ -416,7 +416,7 @@
 
 第44回（2015年）からは、前年の『僕らの音楽』放送終了\<ref group="注\>ただし、第43回の放送時にはすでに終了していた。</ref>に伴い草彅が司会を降板し、同年から始まった『[水曜歌謡祭](https://ja.wikipedia.org/wiki/Love_music "wikilink")』MCの[森高千里](../Page/森高千里.md "wikilink")と[渡部建](https://ja.wikipedia.org/wiki/渡部建 "wikilink")（[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")）が抜擢された。更に、同年から**2DAYS**方式を採用し、例年通りの演出での放送の1週間後に、スタジオライブ方式の「第2夜」が放送されるようになった。
 
-第48回（2019年）からは、放送開始45周年を機にリニューアル。第47回（2018年）までの基本的なコンセプトやフォーマットなどはそのままに、司会は、森高と渡部に代わり、[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）と[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（フジテレビアナウンサー）が抜擢された。2DAYS方式も、引き続き採用する予定である。
+第48回（2019年）からは、放送開始45周年を機にリニューアル。第47回（2018年）までの基本的なコンセプトやフォーマットなどはそのままに、司会は森高と渡部に代わり、[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）と[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（フジテレビアナウンサー）が抜擢された。2DAYS方式も引き続き採用。
 
 #### 番組の進行
 
@@ -1396,6 +1396,7 @@
   - 系列局でも、[テレビ大分](../Page/テレビ大分.md "wikilink")では[クロスネットの都合で](../Page/クロスネット局.md "wikilink")、放送日時を差し替えることがある。また、[テレビ山口](../Page/テレビ山口.md "wikilink")は、1987年9月30日限りでフジテレビ系列から脱退（[TBS系列のニュース・番組の関係で](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")であった[TBS系列に](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[フルネット完全移行](../Page/ネットチェンジ.md "wikilink")）したため、遡っての1986年度限りでの放送終了を余儀なくされた。[広島テレビ](../Page/広島テレビ放送.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）では、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")開局まで放送されていたが、木曜に放送の第1回から3回までの本選は、21:00からの日本テレビ番組の関係で20:55まで同時ネット・20:55以降の内容を同日深夜の『[11PM](../Page/11PM.md "wikilink")』放送後に録画時差ネット、となる場合があった。[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")では、[テレビ新潟開局まで](../Page/テレビ新潟放送網.md "wikilink")[NST土曜スペシャル](../Page/NST土曜スペシャル.md "wikilink")内で放送されたことがある。山形県では当初から1992年までは[山形テレビ](../Page/山形テレビ.md "wikilink")で放送されたが、1993年4月の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列へのネットチェンジの影響でしばらく放送されなかった\[41\]が、1997年4月に[さくらんぼテレビが開局したため](../Page/さくらんぼテレビジョン.md "wikilink")、4年ぶりに山形県での放送が復活した。
   - 2012年12月5日と2013年6月19日には、『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』において、[タカ](https://ja.wikipedia.org/wiki/タカ_\(お笑い芸人\) "wikilink")（[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")）と当日担当のテレフォンアナウンサー（2012年12月は[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")、2013年6月は[生田竜聖](https://ja.wikipedia.org/wiki/生田竜聖 "wikilink")（いずれも放送時点のフジテレビアナウンサー））のMCで「（年号）FNSタ歌謡祭」という企画が行われた。2012年12月放送回は「2012FNS歌謡祭」放送当日に行われ1980 - 1990年代前半にヒットした曲を歌手が生歌唱する内容。2013年6月放送回は当日の「テレフォンショッキング」ゲストの[田原俊彦](../Page/田原俊彦.md "wikilink")が代表曲を歌唱する内容だった。なおCM前後のジングルなどのは本家のものがそのまま使用された。
   - 2015年7月26日放送の『[FNS27時間テレビ めちゃ<sup>2</sup>ピンチってるッ\! 1億2500万人の本気になれなきゃテレビじゃないじゃ〜ん\!\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2015年\) "wikilink")』では、本番組のメインステージに似せたセットを使用し「FNSドリームカバー歌謡祭」というパロディコーナーが行われた。
+  - 2020年3月21日には[新型コロナウイルスの感染拡大によって](../Page/2019新型コロナウイルス.md "wikilink")『[2020年世界フィギュアスケート選手権](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")』の開催が延期になったことに伴い、開いた放送枠を利用して本番組の特別編『**[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")**』が19:00 - 22:00（[JST](../Page/日本標準時.md "wikilink")）\[42\]にて放送され、司会は[榎並大二郎](https://ja.wikipedia.org/wiki/榎並大二郎 "wikilink")と[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")（どちらもフジテレビアナウンサー）が担当した。\[43\]
 
 ## ネット局
 
@@ -1735,9 +1736,12 @@
   - [Love music](https://ja.wikipedia.org/wiki/Love_music "wikilink") - 2015年10月16日から同局で毎週金曜日23:30 - 23:58にレギュラー放送される音楽番組で『水曜歌謡祭』の後継番組。『水曜-』司会の森高、渡部はそのまま続投となる。2017年4月17日より毎週月曜日0:30 - 1:25に移動・拡大。
   - [FNS27時間テレビ](../Page/FNSの日.md "wikilink") - 同局で、毎年9月上旬に放送されている[長時間特別番組](../Page/日本の長時間特別番組一覧.md "wikilink")。当番組同様の年1回放送のスペシャル番組。[2011年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2011年\) "wikilink")・[2015年の同番組では](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2015年\) "wikilink")、当番組のパロディコーナーも行われた。
   - [ボーカロイド歌謡祭](https://ja.wikipedia.org/wiki/ボーカロイド歌謡祭 "wikilink") - 同局で、2013年に2回放送された[ボーカロイド専門の音楽番組](../Page/VOCALOID.md "wikilink")。当番組と番組構成や一部のスタッフが共通。司会は[吉田尚記](../Page/吉田尚記.md "wikilink")、[杏梨ルネ](https://ja.wikipedia.org/wiki/杏梨ルネ "wikilink")。
+  - [FNS音楽特別番組 上を向いて歩こう 〜うたでひとつになろう日本〜](https://ja.wikipedia.org/wiki/FNS音楽特別番組_上を向いて歩こう_〜うたでひとつになろう日本〜 "wikilink") - 同局で、2011年3月27日に放送された大型音楽番組。[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で中止となった[世界フィギュアスケート選手権2011の代替として放送されたチャリティ音楽特別番組](https://ja.wikipedia.org/wiki/2011年世界フィギュアスケート選手権 "wikilink")。司会は司会は草彅剛、高島彩。
+  - [FNS歌謡祭 うたの夏まつり2011](https://ja.wikipedia.org/wiki/FNS歌謡祭_うたの夏まつり2011 "wikilink") - 同局で、2011年8月6日に放送された大型音楽番組。過去の当番組や『SMAP×SMAP』で披露されたコラボレーションを中心に振り返る総集編やトークを展開する特別番組。『FNSうたの夏まつり』の前身となる番組。司会は司会は草彅剛、高島彩。
   - [とんねるずが生放送\! 音楽番組全部見せます\!\! -名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink") - 同局で、2012年3月21日に放送された大型音楽番組。当番組を含めた過去のフジテレビの音楽番組を振り返る総集編やライブを展開する特別番組。司会は[とんねるず](../Page/とんねるず.md "wikilink")。
   - [FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink") - 同局で、2013年11月2日に放送された大型音楽番組。当番組を含めた過去のフジテレビの音楽番組を振り返る総集編やトークを展開する特別番組。司会は草彅剛、加藤綾子。
   - [スカパー\!音楽祭](https://ja.wikipedia.org/wiki/スカパー!音楽祭 "wikilink") - [BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")で、2015年から毎年2月又は3月に放送されている大型音楽番組。当番組と番組構成や一部のスタッフが共通。司会は[ベッキー](../Page/ベッキー.md "wikilink")、[ハマ・オカモト](https://ja.wikipedia.org/wiki/ハマ・オカモト "wikilink")（2018年現在）。2015年2月25日から放送開始。
+  - [緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink") - 同局で、2020年3月21日に放送された大型音楽番組。[新型コロナウイルスの影響で中止となった](../Page/2019新型コロナウイルス.md "wikilink")[世界フィギュアスケート選手権2020の代替として放送された音楽特別番組](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")。司会は司会は[榎並大二郎](https://ja.wikipedia.org/wiki/榎並大二郎 "wikilink")、[永島優美](https://ja.wikipedia.org/wiki/永島優美 "wikilink")。
 
 ## 各局の年末音楽特番
 
@@ -1746,7 +1750,7 @@
   - [ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")、日本テレビ系列）
   - [ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")（[テレビ朝日系列](https://ja.wikipedia.org/wiki/オールニッポン・ニュース・ネットワーク "wikilink")）
   - [日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")（[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
-  - [CDTVスペシャル\!クリスマス音楽祭](https://ja.wikipedia.org/wiki/クリスマス音楽祭 "wikilink")（TBS系列）
+  - [CDTVスペシャル\! クリスマス音楽祭](https://ja.wikipedia.org/wiki/クリスマス音楽祭 "wikilink")（TBS系列）
   - [年忘れにっぽんの歌](../Page/にっぽんの歌.md "wikilink")（[テレビ東京系列ほか](../Page/TXNネットワーク.md "wikilink")）
 
 ## 外部リンク
@@ -1832,3 +1836,5 @@
 39. [番組公式サイトより](http://www.fujitv.co.jp/FNS/index.html)
 40. 『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』1994年11月24日付東京夕刊。
 41. ただし、近隣のフジテレビ系列局を[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")などで（仙台放送・秋田テレビ・福島テレビ・新潟総合テレビ）受信できた場合は引き続き視聴可能だった。
+42. 一部地域では21:54（[JST](../Page/日本標準時.md "wikilink")）飛び降り
+43.

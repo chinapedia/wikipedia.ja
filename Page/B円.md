@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B円](https://ja.wikipedia.org/wiki/B円)から翻訳されています。
 
 
 [Various_types_of_B_Notes_1945_1958.jpg](https://ja.wikipedia.org/wiki/File:Various_types_of_B_Notes_1945_1958.jpg "fig:Various_types_of_B_Notes_1945_1958.jpg") **B円**（ビーえん）は、[1945年](../Page/1945年.md "wikilink")から[1958年](../Page/1958年.md "wikilink")9月まで、[米軍占領下の](../Page/アメリカ合衆国による沖縄統治.md "wikilink")[沖縄県](../Page/沖縄県.md "wikilink")や[鹿児島県](../Page/鹿児島県.md "wikilink")[奄美群島](../Page/奄美群島.md "wikilink")（[トカラ列島](../Page/トカラ列島.md "wikilink")含む）で、[通貨](../Page/通貨.md "wikilink")として流通したアメリカ軍発行の[軍票](https://ja.wikipedia.org/wiki/軍票 "wikilink")。[1948年](../Page/1948年.md "wikilink")から1958年までは、唯一の[法定通貨](../Page/法定通貨.md "wikilink")だった。日本国内で法定通貨とされた唯一の外国軍票であり、本土地域でも短期間少量流通している。正式名は**B型軍票**\[1\]。英語表記は、**Type "B" Military Yen**で、**Yen B type**、**B-yen**などとも表記される。

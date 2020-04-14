@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK宮崎放送局](https://ja.wikipedia.org/wiki/NHK宮崎放送局)から翻訳されています。
 
 
 **NHK宮崎放送局**（エヌエイチケイみやざきほうそうきょく）は、[宮崎県](../Page/宮崎県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -144,6 +144,8 @@
 
 ## アナウンサー・キャスター
 
+  - 氏名の後の\*は、過去に宮崎局勤務経験があるアナウンサー。
+
 <table>
 <thead>
 <tr class="header">
@@ -159,7 +161,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/白鳥哲也_(アナウンサー)" title="wikilink">白鳥哲也</a></p></td>
+<td><p><a href="../Page/滑川和男.md" title="wikilink">滑川和男</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース_イブニング宮崎" title="wikilink">NHKニュース イブニング宮崎</a>（キャスター）</p></td>
 </tr>
@@ -184,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/古賀一.md" title="wikilink">古賀一</a></p></td>
+<td><p><a href="../Page/古賀一.md" title="wikilink">古賀一</a>*</p></td>
 <td><p><a href="../Page/NHK横浜放送局.md" title="wikilink">横浜</a></p></td>
 <td><p>放送部副部長<br />
 宮崎県のニュース</p></td>

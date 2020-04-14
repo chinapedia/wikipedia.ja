@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ロバート・L・フォワード](https://ja.wikipedia.org/wiki/ロバート・L・フォワード)から翻訳されています。
 
 
 **ロバート・ラル・フォワード**（Robert Lull Forward, [1932年](../Page/1932年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")）は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")、[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")。[重力工学](https://ja.wikipedia.org/wiki/重力工学 "wikilink")を専攻。SF作家としては、[航空宇宙工学](../Page/航空宇宙工学.md "wikilink")に関する専門知識を駆使したアイデアを使った作品が特徴である。代表作は『竜の卵』、『ロシュワールド』。

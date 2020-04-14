@@ -1,4 +1,4 @@
-> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+> この記事は[伊集院光のOh!デカナイト](https://ja.wikipedia.org/wiki/伊集院光のOh!デカナイト)から翻訳されています。
 
 
 『**伊集院光のOh\!デカナイト**』（いじゅういんひかるのおーデカナイト）は、[1991年](../Page/1991年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")にかけて[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[ブロックワイド](https://ja.wikipedia.org/wiki/ブロックワイド "wikilink")）。放送時間帯は月曜 - 金曜（[1994年](../Page/1994年.md "wikilink")4月以降、月曜 - 木曜）の22:00 - 25:00。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[伊集院光](../Page/伊集院光.md "wikilink")。通称**Oh\!デカ**。

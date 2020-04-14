@@ -1,4 +1,4 @@
-> この記事は[ Our Music](https://ja.wikipedia.org/wiki/_Our_Music)から翻訳されています。
+> この記事は[僕らの音楽 Our Music](https://ja.wikipedia.org/wiki/僕らの音楽_Our_Music)から翻訳されています。
 
 
 『**僕らの音楽**』（ぼくらのおんがく）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")まで放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。2004年4月3日から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までは毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[JST](../Page/日本標準時.md "wikilink")）に、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から2014年9月19日までは毎週[金曜日](../Page/金曜日.md "wikilink") 23:30 - 23:58（JST）に放送された。[2015年](../Page/2015年.md "wikilink")以降は不定期[特別番組](../Page/特別番組.md "wikilink")として放送されている。
@@ -273,7 +273,7 @@
 
 ## 外部リンク
 
-  - [僕らの音楽（フジテレビ）](http://www.fujitv.co.jp/ourmusic/index.html)
+  - [僕らの音楽（フジテレビ）](https://www.fujitv.co.jp/ourmusic/index.html)
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink") [Category:キリングループ単独提供番組](https://ja.wikipedia.org/wiki/Category:キリングループ単独提供番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:草彅剛](https://ja.wikipedia.org/wiki/Category:草彅剛 "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink")
 

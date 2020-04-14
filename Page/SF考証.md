@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF考証](https://ja.wikipedia.org/wiki/SF考証)から翻訳されています。
 
 
 **SF考証**（エスエフこうしょう）は、[SF作品で描写されている内容が](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、SFにおける約束事や、科学の基本的な原則に従っているかを検証する作業である。科学考証と違い、科学的には嘘であってもそれらしく辻褄を合わせるなどすることから、「考証」の語を避け、「SF設定」とすることもある（『[機動戦艦ナデシコ](../Page/機動戦艦ナデシコ.md "wikilink")』など）。[時代劇](../Page/時代劇.md "wikilink")における[時代考証](../Page/時代考証.md "wikilink")に似ている。

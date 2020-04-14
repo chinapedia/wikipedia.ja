@@ -1,4 +1,4 @@
-> この記事は[GOYODA](https://ja.wikipedia.org/wiki/GOYODA)から翻訳されています。
+> この記事は[よしもとエンタテイメントステーションGOYODA](https://ja.wikipedia.org/wiki/よしもとエンタテイメントステーションGOYODA)から翻訳されています。
 
 
 **よしもとエンタテイメントステーションGOYŌDA**（よしもとエンタテイメントステーションごようだ）は、[OBCラジオ大阪と](../Page/大阪放送.md "wikilink")[YES・fmの](../Page/エフエムちゅうおう.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")による[ラジオ番組](../Page/ラジオ番組.md "wikilink")（製作は[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")で、YES・fmがその番組を同時ネットしている）。月曜～金曜の夜22:00～24:00放送。

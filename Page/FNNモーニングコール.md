@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNモーニングコール](https://ja.wikipedia.org/wiki/FNNモーニングコール)から翻訳されています。
 
 
 『**FNNモーニングコール**』（エフエヌエヌモーニングコール）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（[昭和](../Page/昭和.md "wikilink")61年）[4月1日](../Page/4月1日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）[3月30日](../Page/3月30日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で放送された[朝のニュース・情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
@@ -259,12 +259,7 @@ FNN初の大型ニュースワイド番組『[FNNモーニングワイド ニュ
 
 ## 関連項目
 
-同時期にスタートした情報番組
-
   - [美味しんぼ倶楽部](../Page/美味しんぼ倶楽部.md "wikilink")
-
-[この番組の事前に放送された番組](https://ja.wikipedia.org/wiki/フジテレビ系列早朝の情報番組枠 "wikilink")
-
   - [朝のプロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")（1986年4月 - 1986年9月、6:00 - 6:30）
   - [黄金世代\!](https://ja.wikipedia.org/wiki/黄金世代! "wikilink")（1986年10月 - 1987年3月、同上）
   - [早起きチャンネル520](https://ja.wikipedia.org/wiki/早起きチャンネル520 "wikilink")（1987年7月 - 1988年9月、5:20 - 6:00→5:20 - 5:57）

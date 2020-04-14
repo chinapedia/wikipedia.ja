@@ -1,4 +1,4 @@
-> この記事は[CS-PCM](https://ja.wikipedia.org/wiki/CS-PCM)から翻訳されています。
+> この記事は[CS-PCM音声放送](https://ja.wikipedia.org/wiki/CS-PCM音声放送)から翻訳されています。
 
 
 **CS-PCM音声放送**は、かつて[通信衛星](../Page/通信衛星.md "wikilink")を使用して放送されていた[デジタル音声放送のことであり](../Page/デジタルラジオ.md "wikilink")、衛星デジタルラジオの一種であった。

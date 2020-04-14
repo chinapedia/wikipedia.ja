@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[アリアンロッドRPG](https://ja.wikipedia.org/wiki/アリアンロッドRPG)から翻訳されています。
 
 
 **アリアンロッドRPG**は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")製の[ファンタジー](../Page/ファンタジー.md "wikilink")[TRPG](../Page/テーブルトークRPG.md "wikilink")。[菊池たけし](../Page/菊池たけし.md "wikilink")／[F.E.A.R.著](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")、[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売。

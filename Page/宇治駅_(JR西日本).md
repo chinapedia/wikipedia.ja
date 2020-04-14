@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[宇治駅 \(JR西日本\)](https://ja.wikipedia.org/wiki/宇治駅_\(JR西日本\))から翻訳されています。
 
 
 **宇治駅**（うじえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")宇治宇文字にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D09**。
@@ -126,6 +126,10 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>8,548</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>8,562</p></td>
 </tr>
 </tbody>
 </table>

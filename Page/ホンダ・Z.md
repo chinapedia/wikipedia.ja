@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[ホンダ・Z](https://ja.wikipedia.org/wiki/ホンダ・Z)から翻訳されています。
 
 
 **Z**（ゼット） は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")である。

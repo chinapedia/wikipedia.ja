@@ -1,4 +1,4 @@
-> この記事は[MPV](https://ja.wikipedia.org/wiki/MPV)から翻訳されています。
+> この記事は[マツダ・MPV](https://ja.wikipedia.org/wiki/マツダ・MPV)から翻訳されています。
 
 
 **MPV**（エムピーブイ） は[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造・販売していた[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。

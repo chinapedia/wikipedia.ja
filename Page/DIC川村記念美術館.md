@@ -1,4 +1,4 @@
-> この記事は[DIC](https://ja.wikipedia.org/wiki/DIC)から翻訳されています。
+> この記事は[DIC川村記念美術館](https://ja.wikipedia.org/wiki/DIC川村記念美術館)から翻訳されています。
 
 
 **DIC川村記念美術館**（DICかわむらきねんびじゅつかん、英表記：Kawamura Memorial DIC Museum of Art）は、[千葉県](../Page/千葉県.md "wikilink")[佐倉市](../Page/佐倉市.md "wikilink")にある私立[美術館](../Page/美術館.md "wikilink")である。印刷インキ、顔料、ポリマー材などの製造・販売を行う[DIC株式会社が運営を行っている](../Page/DIC_\(企業\).md "wikilink")。DICと関連会社が収集した美術品を公開するために、DICの総合研究所敷地内に設立され、1990年5月2日に開館した\[1\]。以前の名称は**川村記念美術館**で、2011年4月1日から現在の名称となっている\[2\]。

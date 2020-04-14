@@ -1,4 +1,4 @@
-> この記事は[ TRPG](https://ja.wikipedia.org/wiki/_TRPG)から翻訳されています。
+> この記事は[エンゼルギア 天使大戦TRPG](https://ja.wikipedia.org/wiki/エンゼルギア_天使大戦TRPG)から翻訳されています。
 
 
 『**エンゼルギア 天使大戦TRPG**』（エンゼルギア てんしたいせんTRPG）は主に[F.E.A.R.が製作したミリタリー](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")・ファンタジー[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")。[2003年](../Page/2003年.md "wikilink")にエンターブレインから書籍版で発売された。[2009年](../Page/2009年.md "wikilink")にはルール第二版が発売されている。

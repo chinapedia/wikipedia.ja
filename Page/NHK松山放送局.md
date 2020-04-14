@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK松山放送局](https://ja.wikipedia.org/wiki/NHK松山放送局)から翻訳されています。
 
 
 **NHK松山放送局**（エヌエイチケイまつやまほうそうきょく）は、[愛媛県](../Page/愛媛県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）[6月14日](../Page/6月14日.md "wikilink")付けで「松山拠点放送局」に改称された\[1\]。
@@ -323,8 +323,9 @@
 
 <!-- end list -->
 
-  - [四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")（平日11:30 - 12:00）\[6\]
+  - [ひるどき四国](../Page/ひるどき四国.md "wikilink")（月曜日～木曜日11:45 - 12:00）
   - [四国らしんばん](../Page/四国らしんばん.md "wikilink")（金曜日19:30 - 19:55）
+  - [ギュッと\!四国](../Page/ギュッと!四国.md "wikilink")（土曜日7:30 - 8:00）
 
 ※土日祝のお昼のニュース（12:10）、夕方のニュース・気象情報（18:45）も2011年度までは各県ごとの放送だったが、2012年度からは原則四国ブロック放送となる。なお台風や地震などの災害関連や、選挙関係において各県ごとの放送になる場合もある。
 
@@ -337,10 +338,11 @@
 <!-- end list -->
 
   -
-    ※7:50〜7:58までは四国ブロック放送。
+    ※7:51以降は四国ブロック放送。
 
 <!-- end list -->
 
+  - ひるどき愛媛 （金曜日11:45 - 12:00）
   - [ひめポン\!](https://ja.wikipedia.org/wiki/ひめポン! "wikilink")（平日18:10 - 19:00、祝日は休止され、18:45 - 18:59に[四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")のニュース・気象情報を放送）
   - [えひめ845](https://ja.wikipedia.org/wiki/えひめ845 "wikilink")（平日20:45 - 21:00）
   - ひめDON\! （金曜日19:30 - 19:58、月1回）
@@ -351,24 +353,27 @@
 
 ### ラジオ第1放送
 
-  - 四国防災ネットワーク（月曜日7:40 - 7:50、四国ブロック放送）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　※祝日は特集・四国を読む（四国にゆかりがある作品を、NHK四国地方各局のアナウンサーが朗読する。)
+  - 四国防災ネットワーク（月曜日7:40 - 7:50、四国ブロック放送）
+
+※祝日は特集・四国を読む（四国にゆかりがある作品を、NHK四国地方各局のアナウンサーが朗読する。)
+
   - ラジオまどんな（月曜～木曜17:00 - 17:55、愛媛県域放送）
-  - [四国だ\!ゴーゴー](https://ja.wikipedia.org/wiki/四国だ!ゴーゴー "wikilink")（金曜日17:05 - 17:58、四国ブロック放送\[7\]）
+  - ホッと\!四国（金曜日17:00 - 17:58、四国ブロック放送）
 
 #### 交通情報（ラジオ第1放送）
 
-  - 月〜金曜日\[8\]
+  - 月〜金曜日\[6\]
 
 <!-- end list -->
 
   - 7:58（祝日を除く）
   - 11:50（FMでも放送、祝日を除く）
   - 17:58（祝日、大相撲期間中を除く）
-  - 19:58 (四国ブロック全域で放送。祝日を除く)
+  - 19:58（四国ブロック全域で放送。祝日を除く）
 
 <!-- end list -->
 
-  - 土曜日\[9\]
+  - 土曜日\[7\]
 
 <!-- end list -->
 
@@ -380,6 +385,7 @@
 
   - ニュースワイドえひめ→モーニングワイドえひめ
   - まつやまハロースタジオ→いよ路情報→ふれスタえひめ→えひめ おひるのたまご
+  - [四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")（平日11:30 - 12:00）\[8\]
   - [てれごじ。](../Page/てれごじ。.md "wikilink")→だんだん5
   - 愛媛ダンランテレビ
   - 640えひめ→630えひめ→イブニングネットワークえひめ→えひめイブニングニュース→NHKイブニングえひめ→[いよかんワイド](../Page/いよかんワイド.md "wikilink")
@@ -392,6 +398,7 @@
   - [こんにちはラジオセンター](https://ja.wikipedia.org/wiki/こんにちはラジオセンター "wikilink") ネットワーク四国
   - 土曜サロン四国
   - [四国おはようネットワーク](https://ja.wikipedia.org/wiki/四国おはようネットワーク "wikilink")
+  - [四国だ\!ゴーゴー](https://ja.wikipedia.org/wiki/四国だ!ゴーゴー "wikilink")
 
 ### FM放送
 
@@ -409,7 +416,6 @@
 <tr class="header">
 <th><p>氏名</p></th>
 <th><p>前任地</p></th>
-<th><p>主なジャンル</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -420,10 +426,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -432,74 +436,69 @@
 <tr class="odd">
 <td><p><a href="../Page/伊藤源太.md" title="wikilink">伊藤源太</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>アナウンス専任部長</p></td>
-<td><p>ニュースなど</p></td>
+<td><p>アナウンス専任部長<br />
+四国地方のニュース</p></td>
 <td><p>管理業務主体</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中澤輝" title="wikilink">中澤輝</a>*</p></td>
-<td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ひめポン!" title="wikilink">ひめポン!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ひめポン!" title="wikilink">ひめポン!</a><br />
+（キャスター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/金子峻" title="wikilink">金子峻</a></p></td>
-<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
-<td><p>地域</p></td>
-<td><p>ニュースなど</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野文明" title="wikilink">小野文明</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p><a href="../Page/ギュッと!四国.md" title="wikilink">ギュッと!四国</a><br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小西政親" title="wikilink">小西政親</a></p></td>
-<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おはようえひめ" title="wikilink">おはようえひめ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/酒井博司.md" title="wikilink">酒井博司</a></p></td>
 <td><p><a href="../Page/NHK大阪放送局.md" title="wikilink">大阪</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継<br />
-ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/武田涼介.md" title="wikilink">武田涼介</a></p></td>
-<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター（出向）</a></p></td>
-<td><p>特になし</p></td>
-<td><p>おはようえひめ<br />
-四国だ!ゴーゴー</p></td>
+<td><p>各種スポーツ中継<br />
+四国地方のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口寛明" title="wikilink">山口寛明</a></p></td>
-<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
-<td><p>特になし</p></td>
-<td><p>おはようえひめ</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/深澤健太" title="wikilink">深澤健太</a></p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td><p>スポーツ</p></td>
-<td><p>スポーツ中継<br />
-ニュースなど</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/谷地健吾.md" title="wikilink">谷地健吾</a></p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td><p>地域</p></td>
-<td><p><a href="../Page/四国らしんばん.md" title="wikilink">四国らしんばん</a></p></td>
+<td><p>各種スポーツ中継<br />
+<a href="https://ja.wikipedia.org/wiki/おはようえひめ" title="wikilink">おはようえひめ</a><br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/山口寛明" title="wikilink">山口寛明</a></p></td>
+<td><p><a href="../Page/NHK松江放送局.md" title="wikilink">松江</a></p></td>
+<td><p>おはようえひめ<br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/小見誠広.md" title="wikilink">小見誠広</a>*</p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/谷地健吾.md" title="wikilink">谷地健吾</a></p></td>
+<td><p><a href="../Page/四国らしんばん.md" title="wikilink">四国らしんばん</a><br />
+（キャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/武藤友樹.md" title="wikilink">武藤友樹</a></p></td>
 <td><p><a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a></p></td>
-<td><p>特になし</p></td>
-<td><p>ニュースなど</p></td>
+<td><p>四国地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/瀬戸秀夫.md" title="wikilink">瀬戸秀夫</a>*</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -507,20 +506,18 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/首藤奈知子.md" title="wikilink">首藤奈知子</a>*</p></td>
 <td><p>東京アナウンス室</p></td>
-<td><p>地域</p></td>
 <td><p>ひめDON!<br />
-ずっとしこく</p></td>
-<td><p>地元要員<br />
-（愛媛県出身）</p></td>
+（キャスター）<br />
+ずっとしこく<br />
+（キャスター）</p></td>
+<td><p>愛媛県出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>シニアスタッフ</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -528,18 +525,14 @@
 <tr class="even">
 <td><p>板倉卓人</p></td>
 <td><p>元正職員アナウンサー</p></td>
-<td><p>特になし</p></td>
-<td><p>ラジオニュースなど</p></td>
-<td><p>1999年に名古屋放送局から異動。<br />
-愛媛県を終の棲家としている[10]</p></td>
+<td><p>四国地方のニュース</p></td>
+<td><p>愛媛県を終の棲家としている[9]</p></td>
 </tr>
 <tr class="odd">
-<td><p>掛川雅夫</p></td>
-<td><p>元正職員アナウンサー</p></td>
-<td><p>特になし</p></td>
-<td><p>ラジオニュースなど</p></td>
-<td><p>地元要員<br />
-（愛媛県出身）</p></td>
+<td><p><a href="../Page/掛川雅夫.md" title="wikilink">掛川雅夫</a>*</p></td>
+<td><p>愛媛県出身</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -565,80 +558,76 @@
 <tr class="even">
 <td><p>岡田留美</p></td>
 <td></td>
-<td><p>ラジオまどんな</p></td>
+<td><p>ラジオまどんな<br />
+ホッと!四国</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>北野由美</p></td>
-<td></td>
-<td><p>ラジオニュース、お知らせ</p></td>
+<td><p>岸本南奈</p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p>ひめポン!<br />
+（サブキャスター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>近江由佳</p></td>
+<td><p>北野由美</p></td>
 <td></td>
-<td><p>四国 おひるのクローバー<br />
-四国だ!ゴーゴー</p></td>
+<td><p>四国地方のニュース<br />
+（ラジオ）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>近江由佳</p></td>
+<td></td>
+<td><p>ひるどき四国</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>菅美可子</p></td>
 <td></td>
 <td><p>ひめポン!（サブキャスター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>屋野愛音</p></td>
 <td></td>
-<td><p>四国 おひるのクローバー<br />
-四国だ!ゴーゴー</p></td>
+<td><p>ひるどき四国</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/丹友美.md" title="wikilink">丹友美</a></p></td>
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td><p>ひめポン!（リポーター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>高須啓睦</p></td>
-<td></td>
-<td><p>ひめポン!（リポーター）</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>平野和子</p></td>
+<td><p>鈴村奈美</p></td>
 <td></td>
-<td><p>四国 おひるのクローバー</p></td>
-<td><p>過去に在籍経験あり</p></td>
+<td><p>ひめポン!<br />
+（リポーター）</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>高橋京香</p></td>
-<td></td>
-<td><p>ひめポン!（サブキャスター）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>野口琢矢</p></td>
 <td></td>
 <td><p>おはようえひめ<br />
-四国 おひるのクローバー</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>佐藤万里奈</p></td>
-<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
-<td><p>ひめポン!（気象情報）<br />
-えひめ845（気象情報）</p></td>
+ひるどき四国</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>佐藤万里奈</p></td>
+<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
+<td><p>ひめポン!<br />
+<a href="https://ja.wikipedia.org/wiki/えひめ845" title="wikilink">えひめ845</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -650,13 +639,13 @@
 ## その他
 
   - ブロック別ニュースポータルサイトの開設はNHKの拠点局の中では最も遅く、全拠点局の中で唯一、ブロック別ニュースポータルサイトのバナーが貼られていない。
-  - 2012年4月7日からは、土曜・日曜・祝日・年末年始のローカルニュースはすべて四国ブロックの放送になり、高知・[徳島](../Page/NHK徳島放送局.md "wikilink")・[香川の各県域放送は原則平日のみの放送となっている](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")\[11\]。ただし、[台風](../Page/台風.md "wikilink")等の[自然災害](../Page/自然災害.md "wikilink")や日曜日については国政・県政関係の選挙の投票日の場合は各々の県域になることもある（4局とも県域になるケースもあれば特定の県だけ差し替えるケースもある）。
-  - NHKの拠点局で唯一、平日（祝日を除く）の11:30から『[テレビ体操](https://ja.wikipedia.org/wiki/ラジオ体操 "wikilink")』を、11:35から『[NHKプレマップ](../Page/NHKプレマップ.md "wikilink")』（いずれも東京からの裏送り）を放送していたが、2017年4月3日に『[四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")』が11:30-12:00にスタートしたことで解消した。全国の気象情報では拠点局が所在する地域では唯一予報が非表示である\[12\]。
+  - 2012年4月7日からは、土曜・日曜・祝日・年末年始のローカルニュースはすべて四国ブロックの放送になり、高知・[徳島](../Page/NHK徳島放送局.md "wikilink")・[香川の各県域放送は原則平日のみの放送となっている](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")\[10\]。ただし、[台風](../Page/台風.md "wikilink")等の[自然災害](../Page/自然災害.md "wikilink")や日曜日については国政・県政関係の選挙の投票日の場合は各々の県域になることもある（4局とも県域になるケースもあれば特定の県だけ差し替えるケースもある）。
+  - NHKの拠点局で唯一、平日（祝日を除く）の11:30から『[テレビ体操](https://ja.wikipedia.org/wiki/ラジオ体操 "wikilink")』を、11:35から『[NHKプレマップ](../Page/NHKプレマップ.md "wikilink")』（いずれも東京からの裏送り）を放送していたが、2017年4月3日に『[四国 おひるのクローバー](https://ja.wikipedia.org/wiki/四国_おひるのクローバー "wikilink")』が11:30-12:00にスタートしたことで解消した。全国の気象情報では拠点局が所在する地域では唯一予報が非表示である\[11\]。
   - NHKの拠点局で唯一、祝日を除く平日18時台の地域向け番組終了時に「終」マークを表示していない。
   - アナログ放送については教育テレビの親局が2chの放送局で唯一総合テレビを9chを親局としていない放送局であり、総合テレビについては拠点局で唯一1～3chを親局としていない局でもあった。
   - 全国のNHK各局と同じく朝の番組（『[おはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』や『[あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink")』など）で天気ループを表示しているが、デジタル放送では、『おはよう日本』内での表示に連動データ放送、『あさイチ』での表示にはアナログで使われているものと同一（2012年夏よりフォントのみ変更）のループと2種類を使い分けていた。これは、『あさイチ』内では一部の曜日で番組連動データ放送で双方向サービスなどを行っており、データ放送での天気ループ表示は技術的に難しいが、気象情報も生活に欠かせない情報だからというわけであり、アナログと同じループを『あさイチ』に限りデジタルでも使用していた。2014年度以降はデータ放送型を廃して、旧来の方式のものに統一している。
-  - NHKが拠点局を中心として全国各地に配備している取材用ヘリコプターが、拠点局では唯一配備されておらず、四国管内では高松局に配備されている。\[13\]
-  - 2016年9月1日から『らじる★らじる』を始める局（本局と札幌局、広島局、福岡局）で唯一、応援スポット動画を開始後の9月1日午前7時以降に制作した\[14\]。
+  - NHKが拠点局を中心として全国各地に配備している取材用ヘリコプターが、拠点局では唯一配備されておらず、四国管内では高松局に配備されている。\[12\]
+  - 2016年9月1日から『らじる★らじる』を始める局（本局と札幌局、広島局、福岡局）で唯一、応援スポット動画を開始後の9月1日午前7時以降に制作した\[13\]。
 
 ## 脚注
 
@@ -673,12 +662,11 @@
 3.  但し、ラジオ第2放送は、「**JOAB、NHK東京第2放送です**」とアナウンスされる。
 4.  [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](http://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
 5.  [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
-6.  金曜日は11:40 - 11:53は各県ごとの放送。
-7.  不定期で、『[にっぽん列島夕方ラジオ](https://ja.wikipedia.org/wiki/にっぽん列島夕方ラジオ "wikilink")』の冠付きで関東地方など四国以外の一部地域でも放送される場合がある（その場合、四国地方以外は17:55飛び降り）。
-8.   - 日本道路交通情報センター
-9.
-10. [アナZONE　板倉卓人](https://www.nhk.or.jp/matsuyama/caster/itakura.html)
-11. 稀にではあるが、高松・徳島・高知のアナウンサーが松山で土曜日の夜から日曜日の朝にかけて四国ローカルニュースを担当することがある。
-12. 四国4県では高松と高知の予報が表示される。
-13. 放送技術2012年9月号より。
-14. 他の地域では9月1日午前7時より前に制作。
+6.   - 日本道路交通情報センター
+7.
+8.  金曜日は11:40 - 11:53は各県ごとの放送。
+9.  [アナZONE　板倉卓人](https://www.nhk.or.jp/matsuyama/caster/itakura.html)
+10. 稀にではあるが、高松・徳島・高知のアナウンサーが松山で土曜日の夜から日曜日の朝にかけて四国ローカルニュースを担当することがある。
+11. 四国4県では高松と高知の予報が表示される。
+12. 放送技術2012年9月号より。
+13. 他の地域では9月1日午前7時より前に制作。

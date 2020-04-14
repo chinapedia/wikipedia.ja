@@ -1,4 +1,4 @@
-> この記事は[Seventeen \(\)](https://ja.wikipedia.org/wiki/Seventeen_\(\))から翻訳されています。
+> この記事は[Seventeen \(日本の雑誌\)](https://ja.wikipedia.org/wiki/Seventeen_\(日本の雑誌\))から翻訳されています。
 
 
 『**Seventeen**』（セブンティーン、略称：**ST**）は[集英社](../Page/集英社.md "wikilink")が発売している女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")、[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")。
@@ -781,8 +781,8 @@
 **（4月号卒業）**
 
   - [杉本愛里](https://ja.wikipedia.org/wiki/杉本愛里 "wikilink") (ミスセブンティーン2016。在籍40か月)
-  - [佐々木莉佳子](https://ja.wikipedia.org/wiki/佐々木莉佳子 "wikilink")
-  - [松岡花佳](https://ja.wikipedia.org/wiki/松岡花佳 "wikilink") (ミスセブンティーン2015。)
+  - [佐々木莉佳子](https://ja.wikipedia.org/wiki/佐々木莉佳子 "wikilink")(在籍49か月)
+  - [松岡花佳](https://ja.wikipedia.org/wiki/松岡花佳 "wikilink") (ミスセブンティーン2015。在籍55か月)
   - [木内舞留](https://ja.wikipedia.org/wiki/木内舞留 "wikilink")（ミスセブンティーン2016。在籍40か月）
 
 </div>

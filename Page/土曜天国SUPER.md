@@ -1,4 +1,4 @@
-> この記事は[SUPER](https://ja.wikipedia.org/wiki/SUPER)から翻訳されています。
+> この記事は[土曜天国SUPER](https://ja.wikipedia.org/wiki/土曜天国SUPER)から翻訳されています。
 
 
 『**土曜天国SUPER**』（どようてんごくスーパー）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で[2000年](../Page/2000年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された午後の[ワイド番組](../Page/ワイド番組.md "wikilink")。毎週土曜13:00～16:30放送。

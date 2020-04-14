@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK山口放送局](https://ja.wikipedia.org/wiki/NHK山口放送局)から翻訳されています。
 
 
 **NHK山口放送局**（エヌエイチケイやまぐちほうそうきょく）は、[山口県](../Page/山口県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局である](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -327,7 +327,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/北野剛寛" title="wikilink">北野剛寛</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/情報維新!やまぐち" title="wikilink">情報維新!やまぐち</a><br />
-（キャスター）</p></td>
+（メインキャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/荻山恭平.md" title="wikilink">荻山恭平</a></p></td>
@@ -361,22 +361,22 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本珠美" title="wikilink">藤本珠美</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大西結依" title="wikilink">大西結依</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/情報維新!やまぐち" title="wikilink">情報維新!やまぐち</a>（メインキャスター）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/後藤麻希子" title="wikilink">後藤麻希子</a></p></td>
 <td></td>
 <td><p>情報維新!やまぐち</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/安森彩紀" title="wikilink">安森彩紀</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤麻希子" title="wikilink">後藤麻希子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤本珠美" title="wikilink">藤本珠美</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/キム・サンウン" title="wikilink">キム・サンウン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/下鶴琴音" title="wikilink">下鶴琴音</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -386,7 +386,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大平真理子_(気象予報士)" title="wikilink">大平真理子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山崎貴裕_(気象予報士)" title="wikilink">山崎貴裕</a></p></td>
 <td></td>
 <td><p>情報維新!やまぐち</p></td>
 </tr>

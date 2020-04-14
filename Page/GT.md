@@ -48,6 +48,7 @@
   - [サトーカメラ Presents GT](https://ja.wikipedia.org/wiki/サトーカメラ_Presents_GT "wikilink") - [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")のラジオ番組。
   - [GT書体](../Page/GT書体.md "wikilink")、およびこれを中心とするプロジェクト
   - GT管 - [真空管](../Page/真空管.md "wikilink")の一種。グラスチューブの略。
+  - GeForce GT NVIDIAのGPUのシリーズの一種。
 
 ### 作品名
 

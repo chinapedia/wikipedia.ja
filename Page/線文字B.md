@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[線文字B](https://ja.wikipedia.org/wiki/線文字B)から翻訳されています。
 
 
 [Clay_Tablet_inscribed_with_Linear_B_script.jpg](https://ja.wikipedia.org/wiki/File:Clay_Tablet_inscribed_with_Linear_B_script.jpg "fig:Clay_Tablet_inscribed_with_Linear_B_script.jpg")によって発見された、線文字Bが刻まれた粘土板\]\] [Linear_B_(Mycenaean_Greek)_NAMA_Tablette_7671.jpg](https://ja.wikipedia.org/wiki/File:Linear_B_\(Mycenaean_Greek\)_NAMA_Tablette_7671.jpg "fig:Linear_B_(Mycenaean_Greek)_NAMA_Tablette_7671.jpg") **線文字B**（せんもじB、Linear B）は、紀元前1550年から紀元前1200年頃まで、[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")本土および[クレタ島](https://ja.wikipedia.org/wiki/クレタ島 "wikilink")で使われていた文字である\[1\]。古い[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")の方言を表記するのに用いられた。

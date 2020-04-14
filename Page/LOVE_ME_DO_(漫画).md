@@ -1,4 +1,4 @@
-> この記事は[LOVE ME DO \(\)](https://ja.wikipedia.org/wiki/LOVE_ME_DO_\(\))から翻訳されています。
+> この記事は[LOVE ME DO \(漫画\)](https://ja.wikipedia.org/wiki/LOVE_ME_DO_\(漫画\))から翻訳されています。
 
 
 『**LOVE ME DO**』（らぶみーどぅ）は[新条るる](https://ja.wikipedia.org/wiki/新条るる "wikilink")の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[芳文社](../Page/芳文社.md "wikilink")の雑誌『[まんがタイムきらら](../Page/まんがタイムきらら.md "wikilink")』（月刊）で[2002年](../Page/2002年.md "wikilink")の創刊号（7月号）から2005年9月号まで連載された。 また、[メディアックス](../Page/メディアックス.md "wikilink")の雑誌『[まんがドカン小町](https://ja.wikipedia.org/wiki/まんがドカン小町 "wikilink")』（創刊号のみで廃刊）に[スピンオフ](../Page/スピンオフ.md "wikilink")作品の『[metal friends](https://ja.wikipedia.org/wiki/metal_friends "wikilink")』が掲載された。
@@ -44,4 +44,4 @@
     1.  第1巻（2004年4月10日発行） ISBN 4-8322-7506-2
     2.  第2巻（2005年8月10日発行） ISBN 4-8322-7543-7
 
-[Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink") [Category:自律ロボットを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:自律ロボットを題材とした漫画作品 "wikilink") [Category:メイドを題材とした作品](https://ja.wikipedia.org/wiki/Category:メイドを題材とした作品 "wikilink")
+[Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:2002年の漫画](https://ja.wikipedia.org/wiki/Category:2002年の漫画 "wikilink") [Category:まんがタイムきららの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムきららの4コマ漫画作品 "wikilink") [Category:自律ロボットを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:自律ロボットを題材とした漫画作品 "wikilink") [Category:メイドを題材とした作品](https://ja.wikipedia.org/wiki/Category:メイドを題材とした作品 "wikilink")

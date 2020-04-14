@@ -1,14 +1,13 @@
 > この記事は[TOS](https://ja.wikipedia.org/wiki/TOS)から翻訳されています。
 
 
-**TOS**, **ToS**, **Tos**
-
-以下の略称。
+**TOS**, **ToS**, **Tos**は、以下の略称。
 
 ## 組織
 
   - [テレビ大分](../Page/テレビ大分.md "wikilink")（**T**elevision **O**ita **S**ystem）
   - 東北オー・エー・サービス株式会社（現在は、合併によって[東北インフォメーション・システムズ](../Page/東北インフォメーション・システムズ.md "wikilink")となったため、法人は消滅）
+  - 株式会社ティー・オー・エス - [魔法のiらんど](../Page/魔法のiらんど.md "wikilink")（現在は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")のブランド）の旧社名、また旧子会社。
   - [東京矯正歯科学会](https://ja.wikipedia.org/wiki/東京矯正歯科学会 "wikilink")（**T**okyo **O**rthodontic **S**ociety）
   - [台湾口腔矯正医学会](https://ja.wikipedia.org/wiki/台湾口腔矯正医学会 "wikilink")（**T**aiwan **O**rthodontic **S**ociety）
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK佐賀放送局](https://ja.wikipedia.org/wiki/NHK佐賀放送局)から翻訳されています。
 
 
 **NHK佐賀放送局**（エヌエイチケイさがほうそうきょく）は、[佐賀県](../Page/佐賀県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
@@ -147,9 +147,10 @@
 ## 過去の制作番組
 
   - おはよう佐賀
-  - くらしのチャンネル佐賀→さがん情報ひるまえてれび
+  - くらしのチャンネル佐賀→さがん情報ひるまえてれび→はぴはぴテレビ
   - ゆうどき5佐賀
-  - NHKニューススタジオ佐賀→イブニングネットワーク佐賀→ニュース630佐賀→ニュース6佐賀
+  - NHKニューススタジオ佐賀→イブニングネットワーク佐賀→ニュース630佐賀→600情報どっかん\!→ニュース6佐賀
+  - とれたて\!さがん情報市
 
 ## アナウンサー・キャスター
 
@@ -193,53 +194,37 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/上岡亮.md" title="wikilink">上岡亮</a></p></td>
-<td><p><a href="../Page/NHK岡山放送局.md" title="wikilink">岡山</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>保田一成</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>馬見塚琴音</p></td>
+<tr class="even">
+<td><p>田中愛理</p></td>
 <td></td>
 <td><p>ニュースただいま佐賀<br />
 （キャスター）</p></td>
 </tr>
-<tr class="even">
-<td><p>寺田美穂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>古賀華那</p></td>
-<td></td>
-<td><p>ひるまえ情報便<br />
-（キャスター）</p></td>
-</tr>
-<tr class="even">
-<td><p>田中愛理</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>時松仁美</p></td>
 <td></td>
-<td></td>
+<td><p>ニュースただいま佐賀</p></td>
 </tr>
 <tr class="even">
+<td><p>山﨑優里</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>石掛貴人</p></td>
 <td></td>
 <td><p>ニュースただいま佐賀</p></td>

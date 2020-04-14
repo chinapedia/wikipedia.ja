@@ -224,7 +224,7 @@
   - [](http://www.sonymusic.co.jp/Music/Info/NOPLAN/)（ソニー・ミュージック）
   - [](https://www.sonymusic.co.jp/artist/NOPLAN/)（ソニー・ミュージック）
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:テレビ朝日の番組発のグループ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組発のグループ "wikilink") [Category:内村プロデュース](https://ja.wikipedia.org/wiki/Category:内村プロデュース "wikilink") [Category:内村光良](https://ja.wikipedia.org/wiki/Category:内村光良 "wikilink") [Category:さまぁ〜ず](https://ja.wikipedia.org/wiki/Category:さまぁ〜ず "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:テレビ朝日の番組発のグループ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組発のグループ "wikilink") [Category:内村プロデュース](https://ja.wikipedia.org/wiki/Category:内村プロデュース "wikilink") [Category:内村光良](https://ja.wikipedia.org/wiki/Category:内村光良 "wikilink") [Category:さまぁ〜ず](https://ja.wikipedia.org/wiki/Category:さまぁ〜ず "wikilink")
 
 1.
 2.  この部分は後にDVD『内村プロデュース 〜創世紀〜』でも映像化されている。

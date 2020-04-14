@@ -1,4 +1,4 @@
-> この記事は[FTV](https://ja.wikipedia.org/wiki/FTV)から翻訳されています。
+> この記事は[FTVテレポート](https://ja.wikipedia.org/wiki/FTVテレポート)から翻訳されています。
 
 
 『**FTVテレポート**』 （エフ・ティー・ブイ テレポート） は、[福島テレビ](../Page/福島テレビ.md "wikilink")で夕方に放送されていた[福島県](../Page/福島県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1976年](../Page/1976年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まではローカルワイド[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。

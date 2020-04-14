@@ -33,6 +33,8 @@
 
   - [集団討論](https://ja.wikipedia.org/wiki/グループ・ディスカッション "wikilink") ()
 
+  - [平成10年アイドリング規制に適合した軽貨物車を意味する記号](https://ja.wikipedia.org/wiki/1998年 "wikilink")。車両型式の前に付与。（例：GD-[TT1](../Page/スバル・サンバー.md "wikilink")）
+
   - [性別違和症候群](https://ja.wikipedia.org/wiki/性別違和症候群 "wikilink") () - DSM-4まで使われてた[性同一性障害](../Page/性同一性障害.md "wikilink") ()に代わりに、DSM-5から採用され名称。
 
   - [株式投資](https://ja.wikipedia.org/wiki/株式投資 "wikilink")の用語で、**Gap Down** の略。ローソク足チャートで、窓開けしての下落を意味する。対義語は [GU](https://ja.wikipedia.org/wiki/GU "wikilink") (Gap Up)。

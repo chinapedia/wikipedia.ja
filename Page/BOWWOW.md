@@ -84,6 +84,8 @@
 
 ### 与えた影響
 
+[METALLICA](https://ja.wikipedia.org/wiki/METALLICA "wikilink")のドラマーの[ラーズ・ウルリッヒ](../Page/ラーズ・ウルリッヒ.md "wikilink")はBOWWOWの熱狂的なファンである。 ラーズは『ROLLING STONE』誌の企画での「ハードロック/ヘヴィメタル10選」にBOWWOWの曲「Silver Lightning」を選んでおり、日本のバンドがここに入ることは快挙と言える。
+
 [Laputa](../Page/Laputa.md "wikilink")のギタリスト[Kouichi](../Page/Kouichi.md "wikilink")が特に好きなバンドとしており\[6\]、高校時代にはコピーバンドもしていたと語っている\[7\]。
 
 ## ディスコグラフィ

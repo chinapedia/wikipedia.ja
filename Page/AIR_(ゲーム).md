@@ -1,4 +1,4 @@
-> この記事は[AIR \(\)](https://ja.wikipedia.org/wiki/AIR_\(\))から翻訳されています。
+> この記事は[AIR \(ゲーム\)](https://ja.wikipedia.org/wiki/AIR_\(ゲーム\))から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

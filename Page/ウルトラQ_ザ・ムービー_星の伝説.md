@@ -1,4 +1,4 @@
-> この記事は[Q  ](https://ja.wikipedia.org/wiki/Q__)から翻訳されています。
+> この記事は[ウルトラQ ザ・ムービー 星の伝説](https://ja.wikipedia.org/wiki/ウルトラQ_ザ・ムービー_星の伝説)から翻訳されています。
 
 
 『**ウルトラQ ザ・ムービー 星の伝説**』（ウルトラキュー ザ ムービー ほしのでんせつ）は、[松竹](../Page/松竹.md "wikilink")、[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")、[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、[円谷映像](https://ja.wikipedia.org/wiki/円谷映像 "wikilink")により共同製作され、松竹系で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")に封切りされた[特撮映画](../Page/映画.md "wikilink")。

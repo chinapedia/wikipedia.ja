@@ -1,4 +1,4 @@
-> この記事は[AVL](https://ja.wikipedia.org/wiki/AVL)から翻訳されています。
+> この記事は[AVL木](https://ja.wikipedia.org/wiki/AVL木)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AVLtreef.svg "wikilink")

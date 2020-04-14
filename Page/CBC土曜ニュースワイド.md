@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBC土曜ニュースワイド](https://ja.wikipedia.org/wiki/CBC土曜ニュースワイド)から翻訳されています。
 
 
 『**CBC土曜ニュースワイド**』（シービーシーどようニュースワイド）は、[1999年](../Page/1999年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC) で放送されていた[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は毎週土曜 18:00 - 18:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

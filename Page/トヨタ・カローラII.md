@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[トヨタ・カローラII](https://ja.wikipedia.org/wiki/トヨタ・カローラII)から翻訳されています。
 
 
 **カローラII** （COROLLA II　カローラツー） は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")で生産されていた小型[乗用車](../Page/乗用車.md "wikilink")である。

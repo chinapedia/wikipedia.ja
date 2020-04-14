@@ -1,4 +1,4 @@
-> この記事は[! V](https://ja.wikipedia.org/wiki/!_V)から翻訳されています。
+> この記事は[戦え!超ロボット生命体 トランスフォーマーV](https://ja.wikipedia.org/wiki/戦え!超ロボット生命体_トランスフォーマーV)から翻訳されています。
 
 
 『**戦え\!超ロボット生命体 トランスフォーマーV**』（たたかえ\!ちょうロボットせいめいたい トランスフォーマービクトリー）は、[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")シリーズの[アニメ](../Page/アニメ.md "wikilink")作品第5弾。[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")制作。[1989年](../Page/1989年.md "wikilink")（平成元年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")から同年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")まで[日本テレビ系列で放映](../Page/日本テレビ放送網.md "wikilink")。全44話。日本テレビが制作に携わった最後のトランスフォーマーシリーズである。

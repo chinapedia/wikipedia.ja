@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[カロッツェリア \(AV機器\)](https://ja.wikipedia.org/wiki/カロッツェリア_\(AV機器\))から翻訳されています。
 
 
 [Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg](https://ja.wikipedia.org/wiki/File:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg "fig:Pioneer_Carrozzeria_automotive_navigation_system_Raku_Navi_AVIC-RZ03.jpg") **カロッツェリア**（**carrozzeria**）は、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")の車載用AV機器（[カーオーディオ](../Page/カーオーディオ.md "wikilink")、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")）事業のブランド名であり、日本国内のみで使用されている。

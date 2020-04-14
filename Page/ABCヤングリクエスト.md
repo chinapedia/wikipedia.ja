@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCヤングリクエスト](https://ja.wikipedia.org/wiki/ABCヤングリクエスト)から翻訳されています。
 
 
 『**ABCヤングリクエスト**』は、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[1966年](../Page/1966年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")41年）[4月1日](../Page/4月1日.md "wikilink")から、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月3日](../Page/10月3日.md "wikilink")まで放送された、リスナー参加のリクエスト音楽番組である。通称**"ヤンリク"**。

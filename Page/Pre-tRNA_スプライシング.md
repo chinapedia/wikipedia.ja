@@ -1,4 +1,4 @@
-> この記事は[Pre-tRNA ](https://ja.wikipedia.org/wiki/Pre-tRNA_)から翻訳されています。
+> この記事は[Pre-tRNA スプライシング](https://ja.wikipedia.org/wiki/Pre-tRNA_スプライシング)から翻訳されています。
 
 
 **pre-tRNAスプライシング**は、[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")前駆体の受ける[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink")反応である。広範囲な生物種に認められる。反応基質がpre-tRNAであることからpre-tRNAスプライシングと呼ばれるが、それを支配するいくつかの異なった機構が存在すると考えられている。

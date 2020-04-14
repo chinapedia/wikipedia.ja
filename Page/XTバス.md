@@ -1,4 +1,4 @@
-> この記事は[XT](https://ja.wikipedia.org/wiki/XT)から翻訳されています。
+> この記事は[XTバス](https://ja.wikipedia.org/wiki/XTバス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG "wikilink"), [EISA](../Page/Extended_Industry_Standard_Architecture.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:XT_Bus_pins.svg "wikilink") **XTバス**（エックスティー バス、XT bus architecture）は、[1981年](../Page/1981年.md "wikilink")発売の[IBM PC](../Page/IBM_PC.md "wikilink") 及び、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")発売の [PC XT](https://ja.wikipedia.org/wiki/PC/AT#PC_XT "wikilink") に搭載された、8ビット[バスである](../Page/バス_\(コンピュータ\).md "wikilink")。

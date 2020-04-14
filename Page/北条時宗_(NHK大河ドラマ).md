@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[北条時宗 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/北条時宗_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**北条時宗**』（ほうじょうときむね）は、[2001年](../Page/2001年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月9日](../Page/12月9日.md "wikilink")に[NHKで放送された第](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")40作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全49回。[12月16日](../Page/12月16日.md "wikilink")・[23日に総集編が放送された](../Page/12月23日.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Princess Holiday ](https://ja.wikipedia.org/wiki/Princess_Holiday_)から翻訳されています。
+> この記事は[Princess Holiday 〜転がるりんご亭千夜一夜〜](https://ja.wikipedia.org/wiki/Princess_Holiday_〜転がるりんご亭千夜一夜〜)から翻訳されています。
 
 
 『**Princess Holiday 〜転がるりんご亭千夜一夜〜**』（プリンセス・ホリデー ころがるりんごていせんやいちや）は、パソコンソフトブランドの[オーガストが](../Page/オーガスト_\(ブランド\).md "wikilink")[2002年](../Page/2002年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に発売した、[18禁の](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。通称**プリホリ**。

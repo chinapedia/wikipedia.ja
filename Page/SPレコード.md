@@ -1,4 +1,4 @@
-> この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
+> この記事は[SPレコード](https://ja.wikipedia.org/wiki/SPレコード)から翻訳されています。
 
 
 **SPレコード**（78 [rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink") disc）は、[1948年](../Page/1948年.md "wikilink")頃に[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")を材料に[micro grooveで溝を刻んだ](https://ja.wikipedia.org/wiki/micro_groove "wikilink")[LPレコード](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")（long playing：LP）が登場して以降、それ以前の[蓄音機](../Page/蓄音機.md "wikilink")用レコードを “standard playing” と呼んで区別するようになり、これを略した呼び名で、[レトロニム](../Page/レトロニム.md "wikilink")である。
@@ -12,6 +12,8 @@ SPレコードという呼称は日本ではよく通用する言い方だが、
 大きさは、直径がほぼ12インチ（吋）のものとほぼ10インチのものが最も一般的である。LPレコードのように直径の規格が精密に守られているわけではなく、わずかながらばらつきがある。
 
 12インチ盤の片面の最大収録時間はおよそ5分前後で、[テープ録音をもとにした](https://ja.wikipedia.org/wiki/磁気テープ#用途 "wikilink")[カッティング技術](https://ja.wikipedia.org/wiki/カッティング技術 "wikilink")であるvariable-pitch groove（VG）が[1950年](../Page/1950年.md "wikilink")頃に導入されて以降は、片面6分以上の収録も可能となった。
+
+また、10インチ盤の最大収録時間は約3分であり、[童謡](../Page/童謡.md "wikilink")など、[児童](../Page/児童.md "wikilink")向けに使われていることが多かった。
 
 国際的には “78s” または “78rpm record” と呼ばれることが多いが、これは多くのSPレコードが78 rpmを標準の回転速度としているからである。しかし、SPレコードの回転速度は厳密には標準化されておらず80 rpmのものも多い。また、VG導入以前に、収録時間を伸ばす目的で回転速度を76 rpm以下まで落としている例も多く見られる。このため再生音を聞いて速度を調整する必要があり、これがSPレコードの規格上の大きな問題である（LPレコードでは、[RIAA](https://ja.wikipedia.org/wiki/RIAA "wikilink")により例外なく rpmに統一されている）。
 

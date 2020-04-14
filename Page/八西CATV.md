@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[八西CATV](https://ja.wikipedia.org/wiki/八西CATV)から翻訳されています。
 
 
 **八西CATV**は、愛媛県西宇和郡伊方町に本部のある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
@@ -41,7 +41,7 @@
 | BS101 | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink") |
 | BS103 | NHK[BSプレミアム](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")                                                                 |
 | BS141 | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                 |
-| BS151 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                             |
+| BS151 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                |
 | BS161 | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                              |
 | BS171 | [BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")                                                             |
 | BS181 | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                  |

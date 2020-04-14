@@ -1,4 +1,4 @@
-> この記事は[F-ZERO ](https://ja.wikipedia.org/wiki/F-ZERO_)から翻訳されています。
+> この記事は[F-ZERO ファルコン伝説](https://ja.wikipedia.org/wiki/F-ZERO_ファルコン伝説)から翻訳されています。
 
 
 『**F-ZERO ファルコン伝説**』（エフゼロ ファルコンでんせつ、英名：*F-ZERO The Legend of Falcon*）は、[任天堂](../Page/任天堂.md "wikilink")の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")『[F-ZERO](https://ja.wikipedia.org/wiki/F-ZEROシリーズ "wikilink")』シリーズを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")と[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ゲーム、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、及び[玩具](../Page/玩具.md "wikilink")からなる[メディアミックス](../Page/メディアミックス.md "wikilink")作品。
@@ -673,7 +673,7 @@ DVD版は[マーベラスエンターテイメント](https://ja.wikipedia.org/w
 
 ## 外部リンク
 
-  - [アニメ公式サイト](http://www.tv-tokyo.co.jp/anime/f-zero/)（テレビ東京）
+  - [アニメ公式サイト](https://www.tv-tokyo.co.jp/anime/f-zero/)（テレビ東京）
 
   - [アニメ公式サイト](http://www.mxtv.co.jp/fzero/) (TOKYO MX)
 

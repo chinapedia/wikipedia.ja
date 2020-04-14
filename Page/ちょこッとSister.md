@@ -1,4 +1,4 @@
-> この記事は[Sister](https://ja.wikipedia.org/wiki/Sister)から翻訳されています。
+> この記事は[ちょこッとSister](https://ja.wikipedia.org/wiki/ちょこッとSister)から翻訳されています。
 
 
 『**ちょこッとSister**』（ちょこっとシスター）は、[雑破業](../Page/雑破業.md "wikilink")原作、[竹内桜](../Page/竹内桜.md "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）にて連載されていた。『ヤングアニマル』に読み切りで掲載されたものが好評となり連載を開始した。この読み切り作品は単行本1巻で0話として掲載されているが、読み切り掲載から連載開始まで時間差があるため、0話と1話で若干キャラの造形が異なる。

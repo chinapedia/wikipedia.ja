@@ -22,6 +22,7 @@
       - [魔少年ビーティー](../Page/魔少年ビーティー.md "wikilink") - [荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")の漫画、および主人公B.T.
       - [BT (BEST TRACKS)](https://ja.wikipedia.org/wiki/BT_\(BEST_TRACKS\) "wikilink") - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の1999年の音楽[アルバム](../Page/アルバム.md "wikilink").
       - [タイタンフォール2](https://ja.wikipedia.org/wiki/タイタンフォール2 "wikilink") - キャンペーンモードに登場するバンガード級タイタン、BT-7274
+      - BT(Beached Things)-[DEATH STRANDINGに登場する敵](https://ja.wikipedia.org/wiki/DEATH_STRANDING "wikilink")。
   - 情報
       - [Bluetooth](../Page/Bluetooth.md "wikilink") - 無線通信規格.
       - [BitTorrent](../Page/BitTorrent.md "wikilink") - [P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")[プロトコル](../Page/プロトコル.md "wikilink").

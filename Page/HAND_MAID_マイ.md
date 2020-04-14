@@ -1,4 +1,4 @@
-> この記事は[HAND MAID ](https://ja.wikipedia.org/wiki/HAND_MAID_)から翻訳されています。
+> この記事は[HAND MAID マイ](https://ja.wikipedia.org/wiki/HAND_MAID_マイ)から翻訳されています。
 
 
 『**HAND MAID マイ**』（ハンド メイド マイ）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[HAND MAID メイ](../Page/HAND_MAID_メイ.md "wikilink")』のサイバドールの設定のみを引き継いだ\[1\]、[OVA](../Page/OVA.md "wikilink")作品。

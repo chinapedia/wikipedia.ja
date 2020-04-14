@@ -1,4 +1,4 @@
-> この記事は[AH-1 ](https://ja.wikipedia.org/wiki/AH-1_)から翻訳されています。
+> この記事は[AH-1 コブラ](https://ja.wikipedia.org/wiki/AH-1_コブラ)から翻訳されています。
 
 
 **AH-1 コブラ**（AH-1 Cobra）は、[ベル・ヘリコプター](https://ja.wikipedia.org/wiki/ベル・ヘリコプター "wikilink")・テキストロン（[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")）社が開発した、世界初の[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")である。
@@ -290,7 +290,12 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
 
   - ベル 249
     AH-1Sの改良型でメインローターを4枚にし、エンジンを[ゼネラル・エレクトリック T700に換装したもの](../Page/ゼネラル・エレクトリック_T700.md "wikilink")。
-  - [ベル 309 キングコブラ](https://ja.wikipedia.org/wiki/:en:Bell_309 "wikilink")
+
+  - ベル 309 キングコブラ
+
+<!-- end list -->
+
+  -
     AH-1の実験機。エンジンは「T-55-L-7C」を搭載。
 
 <!-- end list -->

@@ -1,4 +1,4 @@
-> この記事は[KAME](https://ja.wikipedia.org/wiki/KAME)から翻訳されています。
+> この記事は[KAMEプロジェクト](https://ja.wikipedia.org/wiki/KAMEプロジェクト)から翻訳されています。
 
 
 **KAMEプロジェクト**（かめぷろじぇくと）は、[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")、[NEC](../Page/日本電気.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[日立](../Page/日立製作所.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[横河電機](https://ja.wikipedia.org/wiki/横河電機 "wikilink")(五十音順)各社による共同研究プロジェクト。[BSD](../Page/BSD.md "wikilink")系OS([FreeBSD](../Page/FreeBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"))上に[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")を中心としたインターネット技術の標準コードを実装することを目的として、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に始まった。

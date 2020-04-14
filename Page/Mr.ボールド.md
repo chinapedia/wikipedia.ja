@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.ボールド](https://ja.wikipedia.org/wiki/Mr.ボールド)から翻訳されています。
 
 
 **Mr.ボールド**（ミスターボールド、[1942年](../Page/1942年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")）は、[一輪車](../Page/一輪車.md "wikilink")を用いた芸を行う[芸人](../Page/芸人.md "wikilink")である。[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[津山市](../Page/津山市.md "wikilink")出身。本名は**高取 宏輔**（たかとり こうすけ）。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属。

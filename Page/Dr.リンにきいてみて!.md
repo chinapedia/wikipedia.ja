@@ -1,4 +1,4 @@
-> この記事は[Dr.!](https://ja.wikipedia.org/wiki/Dr.!)から翻訳されています。
+> この記事は[Dr.リンにきいてみて!](https://ja.wikipedia.org/wiki/Dr.リンにきいてみて!)から翻訳されています。
 
 
 『**Dr.リンにきいてみて\!**』（ドクターリンにきいてみて）は、[あらいきよこ](../Page/あらいきよこ.md "wikilink")原作の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

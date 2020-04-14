@@ -29,7 +29,7 @@
 
   - [ギガビット](https://ja.wikipedia.org/wiki/ギガビット "wikilink") (gigabit) - 情報量を表す単位の略称。2<sup>30</sup>または10億[ビット](../Page/ビット.md "wikilink")
   - [ギルバート (単位)](https://ja.wikipedia.org/wiki/ギルバート_\(単位\) "wikilink") - [磁位](https://ja.wikipedia.org/wiki/磁位 "wikilink")・[起磁力](https://ja.wikipedia.org/wiki/起磁力 "wikilink")の単位。
-  - [ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink") - [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")発行の[音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")。
+  - [ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink") - [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")発行の[音楽雑誌](../Page/音楽雑誌.md "wikilink")。
 
 **gb**
 

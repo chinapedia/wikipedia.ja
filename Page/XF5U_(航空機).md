@@ -1,7 +1,7 @@
-> この記事は[XF5U \(\)](https://ja.wikipedia.org/wiki/XF5U_\(\))から翻訳されています。
+> この記事は[XF5U \(航空機\)](https://ja.wikipedia.org/wiki/XF5U_\(航空機\))から翻訳されています。
 
 
-**XF5U**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の依頼で[ヴォート社とその技師](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[:en:Charles H. Zimmermanが設計](https://ja.wikipedia.org/wiki/:en:Charles_H._Zimmerman "wikilink")・[試作した](../Page/プロトタイプ.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。
+**XF5U**は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の依頼で[ヴォート社とその技師](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")[Charles H. Zimmermanが設計](https://ja.wikipedia.org/wiki/:en:Charles_H._Zimmerman "wikilink")・[試作した](../Page/プロトタイプ.md "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。
 
 円盤状の形状から**フライング・[パンケーキ](../Page/ホットケーキ.md "wikilink")**（）または**フライング・[フラップジャック](https://ja.wikipedia.org/wiki/ホットケーキ#各国のホットケーキ "wikilink")**（）の愛称がつけられている。
 
@@ -93,6 +93,11 @@ XF5Uは"フライング・[パンケーキ](../Page/ホットケーキ.md "wikil
       -
         機体名F-5Uフライングパンケーキとして登場。武装は実機とはまるで異なっている。
 
+    『[荒野のコトブキ飛行隊 大空のテイクオフガールズ！](https://ja.wikipedia.org/wiki/荒野のコトブキ飛行隊#ゲーム "wikilink")』
+
+      -
+        主人公キリエの好物がパンケーキであることにちなみ、2020年4月1日にこの機体と機体がパンケーキのように見える塗装が支給された。
+
 ## 脚注・出典
 
 ## 関連項目
@@ -103,10 +108,8 @@ XF5Uは"フライング・[パンケーキ](../Page/ホットケーキ.md "wikil
 ## 外部リンク
 
   - [V-173](http://www.vought.org/products/html/v-173.html) - ヴォート・エアクラフト公式。
-
   - [XF5U-1](http://www.vought.org/products/html/xf5u-1.html) - ヴォート・エアクラフト公式。
 
-  -
 [Category:アメリカ合衆国の戦闘機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戦闘機 "wikilink") [Category:アメリカ合衆国の試作機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の試作機 "wikilink") [Category:ヴォートの航空機](https://ja.wikipedia.org/wiki/Category:ヴォートの航空機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink")
 
 1.  樹脂を挟んだ[バルサ材](https://ja.wikipedia.org/wiki/バルサ材 "wikilink")を[ハニカム構造](../Page/ハニカム構造.md "wikilink")とし外部にアルミ板を張ることで強度と軽量性を両立させた素材。強度が高いため[F6Uにも使われている](../Page/F6U_\(航空機\).md "wikilink")。

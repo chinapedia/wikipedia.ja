@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[パラダイス・フリートRPG](https://ja.wikipedia.org/wiki/パラダイス・フリートRPG)から翻訳されています。
 
 
 **パラダイス・フリートRPG**は、[朱鷺田祐介](../Page/朱鷺田祐介.md "wikilink")がデザインした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のルールシステムである。**パラフリ**と略される。1994年に[富士見ドラゴンブック](../Page/富士見ドラゴンブック.md "wikilink")より基本ルールブックが発売されたが後に絶版。1996年には[スザク・ゲームズ](../Page/スザク・ゲームズ.md "wikilink")から独立型[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")「極楽艦隊・逆襲篇」が発売された。

@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[パラノイア \(TRPG\)](https://ja.wikipedia.org/wiki/パラノイア_\(TRPG\))から翻訳されています。
 
 
 **パラノイア** (*PARANOIA*) は、[ディストピア](../Page/ディストピア.md "wikilink")社会を舞台にした[サイエンスフィクション](https://ja.wikipedia.org/wiki/サイエンスフィクション "wikilink")・[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。[グレッグ・コスティキャン](https://ja.wikipedia.org/wiki/グレッグ・コスティキャン "wikilink")、Dan Gelber、Eric Goldbergの三名によってデザイン・執筆され、1984年に[West End Gamesから出版された](https://ja.wikipedia.org/wiki/w:West_End_Games "wikilink")。2004年以降は、[Mongoose Publishingによるライセンスの下に出版されている](https://ja.wikipedia.org/wiki/w:Mongoose_Publishing "wikilink")。このゲームは1984年の[オリジン賞](https://ja.wikipedia.org/wiki/オリジン賞 "wikilink")を最優秀ロールプレイングゲーム部門で受賞し \[1\]、2007年に[オリジン賞](https://ja.wikipedia.org/wiki/オリジン賞 "wikilink")の殿堂入りとなった\[2\]。

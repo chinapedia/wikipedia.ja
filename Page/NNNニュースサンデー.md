@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニュースサンデー](https://ja.wikipedia.org/wiki/NNNニュースサンデー)から翻訳されています。
 
 
 『**NNNニュースサンデー**』（エヌエヌエヌ ニュースサンデー）とは、[1996年](../Page/1996年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送されている[ニュース番組](../Page/報道番組.md "wikilink")（[手話ニュース](../Page/手話ニュース.md "wikilink")）である。放送時間は毎週日曜日 6:15 - 6:30 （[JST](../Page/日本標準時.md "wikilink")）。民放の全国ニュースとしては、[2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送分まで唯一の手話ニュース番組となっていた（[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から土日朝の「[JNNニュース](../Page/JNNニュース.md "wikilink")」においても手話通訳が導入された為、現在は2番組となっている（土曜朝の手話通訳はJNNのみ））。
@@ -460,4 +460,4 @@
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:三菱グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:三菱グループ単独提供番組 "wikilink") [Category:明治安田生命保険](https://ja.wikipedia.org/wiki/Category:明治安田生命保険 "wikilink") [Category:24時間テレビ](https://ja.wikipedia.org/wiki/Category:24時間テレビ "wikilink")
 
 1.  かつては[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")でも、『**ABSニュース・サンデー〜NNN〜**』とタイトルを差し替えていた。
-2.  フジテレビ系の国際的スポーツ中継が当番組の放送時間と重なった場合、そちらを優先しネットを返上する場合がある。
+2.  フジテレビ系の国際的スポーツ中継が当番組の放送時間と重なった場合は当番組のネットを返上しそちらを優先する場合がある。

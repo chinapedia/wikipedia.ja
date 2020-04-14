@@ -1,7 +1,7 @@
 > この記事は[BSQR489](https://ja.wikipedia.org/wiki/BSQR489)から翻訳されています。
 
 
-**BSQR489**（**ビーエスキューアールよんはちきゅう**）は、[BSフジ](../Page/BSフジ.md "wikilink")の超短波放送チャンネル（[BSデジタル音声放送](../Page/BSデジタル音声放送.md "wikilink")）の一つ。
+**BSQR489**（**ビーエスキューアールよんはちきゅう**）は、[BSフジ](../Page/BSフジ.md "wikilink")の超短波放送チャンネル（[BSデジタル音声放送](../Page/BSデジタル音声放送.md "wikilink")）の一つ。リモコンＩＤは10チャンネル
 
 ## 概要
 

@@ -1,4 +1,4 @@
-> この記事は[Guilty \(\)](https://ja.wikipedia.org/wiki/Guilty_\(\))から翻訳されています。
+> この記事は[Guilty \(ゲームブランド\)](https://ja.wikipedia.org/wiki/Guilty_\(ゲームブランド\))から翻訳されています。
 
 
 **Guilty**（ギルティ）は、株式会社[ウィルの](../Page/ウィルプラス.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。

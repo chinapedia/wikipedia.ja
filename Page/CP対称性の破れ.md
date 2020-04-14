@@ -1,4 +1,4 @@
-> この記事は[CP](https://ja.wikipedia.org/wiki/CP)から翻訳されています。
+> この記事は[CP対称性の破れ](https://ja.wikipedia.org/wiki/CP対称性の破れ)から翻訳されています。
 
 
 **CP対称性の破れ**(英：CP violation、CP-symmetry、charge conjugation parity symmetry)とは、[物理学](../Page/物理学.md "wikilink")、特に[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")において、**CP対称性**に**従わない**[事象](https://ja.wikipedia.org/wiki/事象 "wikilink")のことである。 CP対称性の破れは[1964年](../Page/1964年.md "wikilink")に中性[K中間子](../Page/K中間子.md "wikilink")の崩壊の観測から発見され、[ジェイムズ・クローニン](../Page/ジェイムズ・クローニン.md "wikilink")と[ヴァル・フィッチ](../Page/ヴァル・フィッチ.md "wikilink")はその功績により1980年に[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を受賞した。現在も、理論物理及び実験物理で積極的な研究が行なわれている分野の一つとなっている。 現在の[宇宙](../Page/宇宙.md "wikilink")では、[物質](../Page/物質.md "wikilink")が[反物質](../Page/反物質.md "wikilink")よりもはるかに多い。 宇宙の歴史の中でこの非対称性を生成するためにはCP対称性の破れが必要条件であり、 [サハロフの三条件のひとつとして知られている](https://ja.wikipedia.org/wiki/:en:Baryogenesis#GUT_Baryogenesis_under_Sakharov_conditions "wikilink")。

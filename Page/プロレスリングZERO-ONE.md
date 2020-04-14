@@ -1,4 +1,4 @@
-> この記事は[ZERO-ONE](https://ja.wikipedia.org/wiki/ZERO-ONE)から翻訳されています。
+> この記事は[プロレスリングZERO-ONE](https://ja.wikipedia.org/wiki/プロレスリングZERO-ONE)から翻訳されています。
 
 
 **プロレスリングZERO-ONE**（プロレスリング・ゼロ-ワン）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。

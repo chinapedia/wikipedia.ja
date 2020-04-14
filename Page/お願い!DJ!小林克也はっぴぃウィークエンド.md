@@ -1,4 +1,4 @@
-> この記事は[!DJ!](https://ja.wikipedia.org/wiki/!DJ!)から翻訳されています。
+> この記事は[お願い!DJ!小林克也はっぴぃウィークエンド](https://ja.wikipedia.org/wiki/お願い!DJ!小林克也はっぴぃウィークエンド)から翻訳されています。
 
 
 **お願い\!DJ\!小林克也はっぴぃウィークエンド**（おねがい\!ディージェイ\!こばやしかつやはっぴぃウィークエンド）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、**お願い\!DJ\!**シリーズのひとつ。

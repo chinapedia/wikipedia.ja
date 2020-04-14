@@ -1,4 +1,4 @@
-> この記事は[PHP](https://ja.wikipedia.org/wiki/PHP)から翻訳されています。
+> この記事は[PHP研究所](https://ja.wikipedia.org/wiki/PHP研究所)から翻訳されています。
 
 
 **株式会社PHP研究所**（ピーエイチピーけんきゅうしょ、）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の創業者である[松下幸之助](../Page/松下幸之助.md "wikilink")によって創設され、出版事業を主体に行っている[出版社](../Page/出版社.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")、[政策](../Page/政策.md "wikilink")[シンクタンク](../Page/シンクタンク.md "wikilink")を標榜する株式会社[PHP総合研究所](../Page/PHP総合研究所.md "wikilink")を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")した\[1\]。
@@ -103,12 +103,21 @@
 ## 外部リンク
 
   - [PHP研究所 PHP INTERFACE](https://www.php.co.jp/)
+
   - [PHPビジネスオンライン衆知](https://shuchi.php.co.jp/)
+
   - [松下幸之助ドットコム](https://konosuke-matsushita.com/)
+
   - [PHP人材開発｜社員教育/経営者研修](https://hrd.php.co.jp/)
+
   - [PHPファミリー｜子育てママ・パパを応援](https://family.php.co.jp/)
+
   - [PHP友の会　PHP FRIENDSHIP CLUB](https://www.php-fc.jp/)
+
   - [PHP研究所](https://www.facebook.com/pages/PHP-yan-jiu-suo/144515598923857/) - [Facebook](../Page/Facebook.md "wikilink")ページ
+
+  -
+  -
   - [松下幸之助経営塾](https://www.php.co.jp/seminar/m-keieijuku/)
 
 [Category:PHP研究所](https://ja.wikipedia.org/wiki/Category:PHP研究所 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:宗教に関する出版社](https://ja.wikipedia.org/wiki/Category:宗教に関する出版社 "wikilink") [Category:京都市南区の企業](https://ja.wikipedia.org/wiki/Category:京都市南区の企業 "wikilink") [Category:江東区の企業](https://ja.wikipedia.org/wiki/Category:江東区の企業 "wikilink") [Category:1946年設立の企業](https://ja.wikipedia.org/wiki/Category:1946年設立の企業 "wikilink") [Category:日本の研究所](https://ja.wikipedia.org/wiki/Category:日本の研究所 "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:パナソニック](https://ja.wikipedia.org/wiki/Category:パナソニック "wikilink")

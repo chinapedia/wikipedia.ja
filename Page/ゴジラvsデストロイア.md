@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[ゴジラvsデストロイア](https://ja.wikipedia.org/wiki/ゴジラvsデストロイア)から翻訳されています。
 
 
 『**ゴジラvsデストロイア**』（ゴジラたいデストロイア、または、ゴジラ ブイエス デストロイア）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")で、「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」の第22作である。観客動員数は400万人。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は20億円。キャッチコピーは「**ゴジラ死す**」。

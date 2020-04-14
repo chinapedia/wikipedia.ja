@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[ゴジラvsメカゴジラ](https://ja.wikipedia.org/wiki/ゴジラvsメカゴジラ)から翻訳されています。
 
 
 『**ゴジラvsメカゴジラ**』（ゴジラたいメカゴジラ、または、ゴジラ ブイエス メカゴジラ）は、[1993年](../Page/1993年.md "wikilink")（平成5年）[12月11日](../Page/12月11日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")で、[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズの第20作である。観客動員数は380万人。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は18億7000万円。

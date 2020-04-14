@@ -1,4 +1,4 @@
-> この記事は[LempelZivWelch](https://ja.wikipedia.org/wiki/LempelZivWelch)から翻訳されています。
+> この記事は[Lempel–Ziv–Welch](https://ja.wikipedia.org/wiki/Lempel–Ziv–Welch)から翻訳されています。
 
 
 **Lempel–Ziv–Welch**は、1984年に[辞書式圧縮](https://ja.wikipedia.org/wiki/辞書式圧縮 "wikilink")である Lempel-Ziv法 ([LZ78](../Page/LZ78.md "wikilink")) を、[スペリー](../Page/スペリー.md "wikilink")社のテリー・ウェルチが改良したアルゴリズムで、開発者のLempel、Ziv、Welchの頭文字を取って命名された。略称は**LZW**。

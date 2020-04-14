@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKBニュースワイド](https://ja.wikipedia.org/wiki/RKBニュースワイド)から翻訳されています。
 
 
 『**RKBニュースワイド**』（アールケービーニュースワイド）は、[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[RKBテレビが](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")[夕](../Page/夕.md "wikilink")方に放送していた[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。協力:[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")。

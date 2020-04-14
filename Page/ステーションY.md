@@ -1,4 +1,4 @@
-> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+> この記事は[ステーションY](https://ja.wikipedia.org/wiki/ステーションY)から翻訳されています。
 
 
 『**ステーションY**』（Station Y、STATION Y、ステーションy）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab) で月曜 - 金曜 18:17（当初は18:18） - 18:54に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

@@ -1,7 +1,7 @@
-> この記事は[EH](https://ja.wikipedia.org/wiki/EH)から翻訳されています。
+> この記事は[E・H・エリック](https://ja.wikipedia.org/wiki/E・H・エリック)から翻訳されています。
 
 
-**E・H・エリック**（**E. H. Erick**, [1929年](../Page/1929年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した男性[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名、**岡田 泰美**（おかだ たいび）。日本人の父とデンマーク人の母をもつ、[ハーフタレント](https://ja.wikipedia.org/wiki/ハーフタレント "wikilink")。弟は俳優・タレントの[岡田眞澄](../Page/岡田眞澄.md "wikilink")。次女はタレントの[岡田美里](../Page/岡田美里.md "wikilink")、長女・三女はいずれも一般人。
+**E・H・エリック**（**E. H. Erick**, [1929年](../Page/1929年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した男性[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。本名、岡田 泰美（おかだ たいび）。日本人の父とデンマーク人の母をもつ、[ハーフタレント](https://ja.wikipedia.org/wiki/ハーフタレント "wikilink")。弟は俳優・タレントの[岡田眞澄](../Page/岡田眞澄.md "wikilink")。次女はタレントの[岡田美里](../Page/岡田美里.md "wikilink")、長女・三女はいずれも一般人。
 
 ## 芸風
 
@@ -9,7 +9,7 @@
 
 ## 来歴
 
-父親が日本人の画家の[岡田穀](https://ja.wikipedia.org/wiki/岡田穀 "wikilink")（おかだ・みのる）、母親が[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")人のインゲボルグ・シーヴァルセン。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ニース](../Page/ニース.md "wikilink")にて誕生。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に帰国し、終戦（[1945年](../Page/1945年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で迎える。
+父親は日本人の画家の[岡田穀](https://ja.wikipedia.org/wiki/岡田穀 "wikilink")（おかだ・みのる）、母親は[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")人のインゲボルグ・シーヴァルセン。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ニース](../Page/ニース.md "wikilink")にて誕生。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")に帰国し、終戦（[1945年](../Page/1945年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")）は[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で迎える。
 
 その後、[青山学院高等部から](../Page/学校法人青山学院.md "wikilink")[インターナショナルスクールの横浜](https://ja.wikipedia.org/wiki/インターナショナル・スクール "wikilink")[セント・ジョセフ・カレッジを卒業](../Page/セント・ジョセフ・インターナショナル・カレッジ.md "wikilink")。卒業後、外資系の舞台音響設備会社に入社、音響機器の仕事に従事し、[日劇ミュージックホール](../Page/日劇ミュージックホール.md "wikilink")の楽屋に出入りした際、日劇の関係者に誘われ、[トニー谷](../Page/トニー谷.md "wikilink")と[泉和助](../Page/泉和助.md "wikilink")と組んで1953年に24歳で日劇ミュージックホールでデビューする。[トニー谷](../Page/トニー谷.md "wikilink")に「外人の顔をしているくせに、べらんめえの日本語が喋れて面白い。舞台でやってみないか」と気に入られ、日劇ミュージックホールの座長格だった[泉和助](../Page/泉和助.md "wikilink")の弟子を師匠と仰いで芸を学んだ。戦後の一時期には[南道郎](../Page/南道郎.md "wikilink")と漫才コンビも組むほどであった。日劇や大阪ミュージックホール、[新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")などで芸能活動をしながら、映画やテレビ出演をこなし、[NHKの看板番組であった](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[夢で逢いましょう](../Page/夢であいましょう.md "wikilink")」へのレギュラー出演をきっかけに、日本人離れした外見と日本のことに詳しい”へんな外人”として、E・H・エリックの名は日本中に知られることとなった。（[NHKアーカイブス参照](https://www2.nhk.or.jp/archives/search/special/detail/?d=history005)）
 
@@ -68,12 +68,12 @@
   - 我が青春（1965年） - テレビ司会者 役
   - 調子のいい奴 いたずらの天才（1965年） - マナセプロ、レッド社長 役
   - 大日本殺し屋伝（1965年、日活） - 006 役
-  - 陸軍中野学校（1966年、大映） - オスカー・ダビドソン 役
+  - [陸軍中野学校](https://ja.wikipedia.org/wiki/陸軍中野学校_\(映画\) "wikilink")（1966年、大映） - オスカー・ダビドソン 役
   - 九ちゃんのでっかい夢（1967年、松竹大船） - 殺し屋カルダン 役
   - [クレージー黄金作戦](../Page/クレージー黄金作戦.md "wikilink")（1967年、東宝・渡辺プロ） - 神父 役
-  - 関東刑務所帰り（1967年、日活） - シカゴのジョー 役
+  - [関東刑務所帰り](https://ja.wikipedia.org/wiki/関東刑務所帰り "wikilink")（1967年、日活） - シカゴのジョー 役
   - 温泉ゲリラ 大笑撃（1968年） - 安西社長役
-  - 青春の風（1968年、日活） - クーパー氏役
+  - [青春の風](https://ja.wikipedia.org/wiki/青春の風 "wikilink")（1968年、日活） - クーパー氏役
   - コント55号と水前寺清子の神様の恋人（1968年）
   - 性犯罪法入門（1969年） - ガシオラ役
   - 喜劇 新宿広場（1969年） - ジョージ二等衛生兵役
@@ -132,4 +132,4 @@
 ## 外部リンク
 
   -
-[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:デンマーク系日本人](https://ja.wikipedia.org/wiki/Category:デンマーク系日本人 "wikilink") [Category:ニース出身の人物](https://ja.wikipedia.org/wiki/Category:ニース出身の人物 "wikilink") [Category:1929年生](https://ja.wikipedia.org/wiki/Category:1929年生 "wikilink") [Category:2000年没](https://ja.wikipedia.org/wiki/Category:2000年没 "wikilink")
+[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:岡田穀家](https://ja.wikipedia.org/wiki/Category:岡田穀家 "wikilink") [Category:デンマーク系日本人](https://ja.wikipedia.org/wiki/Category:デンマーク系日本人 "wikilink") [Category:ニース出身の人物](https://ja.wikipedia.org/wiki/Category:ニース出身の人物 "wikilink") [Category:1929年生](https://ja.wikipedia.org/wiki/Category:1929年生 "wikilink") [Category:2000年没](https://ja.wikipedia.org/wiki/Category:2000年没 "wikilink")

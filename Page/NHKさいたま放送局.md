@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKさいたま放送局](https://ja.wikipedia.org/wiki/NHKさいたま放送局)から翻訳されています。
 
 
 [NHK_Saitama_Broadcasting_Station.JPG](https://ja.wikipedia.org/wiki/File:NHK_Saitama_Broadcasting_Station.JPG "fig:NHK_Saitama_Broadcasting_Station.JPG") **NHKさいたま放送局**（エヌエイチケイさいたまほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局のひとつである](../Page/日本放送協会放送局の一覧.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")内向けにFM放送を行っている。AM放送および地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域扱いとして](../Page/広域放送.md "wikilink")、管轄の[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
@@ -183,13 +183,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="../Page/泉浩司.md" title="wikilink">泉浩司</a></p></td>
+<td><p><a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日刊!さいたま〜ず" title="wikilink">日刊!さいたま〜ず</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/與芝由三栄.md" title="wikilink">與芝由三栄</a></p></td>
-<td></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -204,7 +204,7 @@
 ひるまえほっと</p></td>
 </tr>
 <tr class="even">
-<td><p>松山理穂</p></td>
+<td><p>岸田祥子</p></td>
 <td></td>
 <td></td>
 </tr>

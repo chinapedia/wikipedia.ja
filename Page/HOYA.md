@@ -17,21 +17,21 @@
 
 ## 沿革
 
-  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")11月 - 愛知県出身の[山中正一](https://ja.wikipedia.org/wiki/山中正一 "wikilink")、[山中茂](https://ja.wikipedia.org/wiki/山中茂 "wikilink")の兄弟が[東京府](../Page/東京府.md "wikilink")[保谷町で東洋光学硝子製造所を創業](../Page/保谷市.md "wikilink")。[光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")製造に着手。
+  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")11月 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身の[山中正一](https://ja.wikipedia.org/wiki/山中正一 "wikilink")、[山中茂](https://ja.wikipedia.org/wiki/山中茂 "wikilink")の兄弟が[東京府](../Page/東京府.md "wikilink")[北多摩郡](../Page/北多摩郡.md "wikilink")[保谷町](../Page/保谷市.md "wikilink")（現在の[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")）で東洋光学硝子製造所を創業。[光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")製造に着手。
   - [1944年](../Page/1944年.md "wikilink")8月 - [資本金](../Page/資本金.md "wikilink")120万円の株式会社に改組。商号を株式会社東洋光学硝子製造所に変更。
   - [1945年](../Page/1945年.md "wikilink")10月 - クリスタルガラス食器製造開始。
   - [1947年](../Page/1947年.md "wikilink")8月 - 商号を株式会社保谷クリスタル硝子製造所に変更。
   - [1952年](../Page/1952年.md "wikilink")2月 - [光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")BK7製造再開。
-  - [1960年](../Page/1960年.md "wikilink")11月 - 昭和工場（東京都昭島市、現在の昭島工場）を新設。保谷光学工業株式会社、山中光学工業株式会社および保谷光学硝子販売株式会社を合併し、商号を株式会社保谷硝子に変更。
+  - [1960年](../Page/1960年.md "wikilink")11月 - 昭和工場（東京都[昭島市](../Page/昭島市.md "wikilink")、現在の昭島工場）を新設。保谷光学工業株式会社、山中光学工業株式会社および保谷光学硝子販売株式会社を合併し、商号を株式会社保谷硝子に変更。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")10月 - 東京証券取引所市場第二部へ上場。
   - [1962年](../Page/1962年.md "wikilink")
       - 5月 - メガネ用レンズ製造開始。
       - 10月 - [名古屋証券取引所](../Page/名古屋証券取引所.md "wikilink")市場第二部へ上場。
-  - [1963年](../Page/1963年.md "wikilink")5月 - 武蔵工場を埼玉県[入間市](../Page/入間市.md "wikilink")に新設。
+  - [1963年](../Page/1963年.md "wikilink")5月 - 武蔵工場を[埼玉県](../Page/埼玉県.md "wikilink")[入間郡](../Page/入間郡.md "wikilink")武蔵町（現在の[入間市](../Page/入間市.md "wikilink")）に新設。
   - [1967年](../Page/1967年.md "wikilink")4月 - 累進焦点メガネレンズを発売。
   - [1972年](../Page/1972年.md "wikilink")12月 - ソフトコンタクトレンズ製造開始。
   - [1973年](../Page/1973年.md "wikilink")2月 - 東京証券取引所および名古屋証券取引所の市場第一部へ指定替え。
-  - [1974年](../Page/1974年.md "wikilink")1月 - 長坂工場を山梨県[長坂町](../Page/長坂町.md "wikilink")に新設し、ICマスクサブストレート製造開始。HOYAオンラインシステム（メガネレンズの受発注）を発表。
+  - [1974年](../Page/1974年.md "wikilink")1月 - 長坂工場を[山梨県](../Page/山梨県.md "wikilink")[北巨摩郡](../Page/北巨摩郡.md "wikilink")[長坂町](../Page/長坂町.md "wikilink")に新設し、ICマスクサブストレート製造開始。HOYAオンラインシステム（メガネレンズの受発注）を発表。
   - [1976年](../Page/1976年.md "wikilink") 世界初、高品質クリスタルガラス量産に成功する。
   - [1982年](../Page/1982年.md "wikilink")10月 - 子会社の株式会社保谷電子を合併。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")1月 - 八王子工場を東京都[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")に新設し、ICフォトマスク製造開始。
@@ -39,7 +39,7 @@
       - 8月 - 新本社ビルを現在地に竣工。
       - 10月 - 子会社の株式会社保谷レンズおよび株式会社保谷クリスタルを吸収合併し、商号をホーヤ株式会社に変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")4月 - 児玉開発研究所を埼玉県児玉町に新設。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月 - R\&Dを東京都[昭島市](../Page/昭島市.md "wikilink")にセンター竣工。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月 - R\&Dを東京都昭島市にセンター竣工。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
       - 6月 - [白内障](../Page/白内障.md "wikilink")術後用[眼内レンズ](../Page/眼内レンズ.md "wikilink")を製造開始。
       - 11月 - [光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")による[非球面モールドレンズ製造開始](../Page/非球面レンズ.md "wikilink")。
@@ -50,7 +50,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月 - [社外取締役](../Page/社外取締役.md "wikilink")制度を導入。
   - [1996年](../Page/1996年.md "wikilink")
       - 8月 - 米国IBM社とHDD用次世代ガラスディスク開発の技術協力開始。
-      - 11月 - 熊本工場を熊本県[菊池郡](../Page/菊池郡.md "wikilink")[大津町](../Page/大津町.md "wikilink")に新設。
+      - 11月 - 熊本工場を[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊池郡](../Page/菊池郡.md "wikilink")[大津町](../Page/大津町.md "wikilink")に新設。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
       - 4月 - [カンパニー制を導入し](../Page/社内カンパニー.md "wikilink")、エレクトロオプティクス、ビジョンケアの2カンパニーと、HOYA PHOTONICS, INC.、ホーヤヘルスケア株式会社、ホーヤクリスタル株式会社の3事業会社へ機構改革。SAP社のERP（統合業務パッケージソフト）R/3を導入。
       - 5月 - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にエリア持株会社としてHOYA HOLDINGS ASIAPACIFIC PTE. LTD.を設け、先に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")および[アメリカにそれぞれ設置したHOYA](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") HOLDINGS N.V.とHOYA HOLDINGS INC.の2社と合わせて欧州、北米、[アジア](../Page/アジア.md "wikilink")各地域のエリア持株会社体制が整う。

@@ -1,4 +1,4 @@
-> この記事は[JR18D](https://ja.wikipedia.org/wiki/JR18D)から翻訳されています。
+> この記事は[JR貨物18D形コンテナ](https://ja.wikipedia.org/wiki/JR貨物18D形コンテナ)から翻訳されています。
 
 
 **JR貨物18D形コンテナ**（JRかもつ18Dがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[国鉄形](../Page/日本国有鉄道.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")を置き換える目的で[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）から[1991年](../Page/1991年.md "wikilink")（平成3年）までに23,600個を配備した、12[ft型の](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")である。 [right](https://ja.wikipedia.org/wiki/ファイル:18D-19999_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "wikilink") [18D-5717_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:18D-5717_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:18D-5717_【JR貨物】Containers_of_Japan_Rail_Freight.jpg") [W18D-9000----①_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:W18D-9000----①_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:W18D-9000----①_【JR貨物】Containers_of_Japan_Rail_Freight.jpg")

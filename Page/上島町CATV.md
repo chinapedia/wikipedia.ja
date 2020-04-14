@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[上島町CATV](https://ja.wikipedia.org/wiki/上島町CATV)から翻訳されています。
 
 
 **上島町CATV**（かみじまちょうシーエーティーブイ）は、[愛媛県](../Page/愛媛県.md "wikilink")[越智郡](../Page/越智郡.md "wikilink")[上島町](https://ja.wikipedia.org/wiki/上島町 "wikilink")町営の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
@@ -111,7 +111,7 @@ NHK広島</p></td>
 </tr>
 <tr class="even">
 <td><p>151</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>161</p></td>

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[イブニングネットワーク \(NHK総合\)](https://ja.wikipedia.org/wiki/イブニングネットワーク_\(NHK総合\))から翻訳されています。
 
 
 『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
@@ -160,7 +160,8 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワークしずおか" title="wikilink">イブニングネットワークしずおか</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワークしずおか" title="wikilink">イブニングネットワークしずおか</a><br />
+ニュースいちばん静岡</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
@@ -173,7 +174,8 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
-<td><p>イブニングネットワーク金沢</p></td>
+<td><p>イブニングネットワーク金沢<br />
+JKニュース1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>

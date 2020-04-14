@@ -1,10 +1,10 @@
 > この記事は[INAX](https://ja.wikipedia.org/wiki/INAX)から翻訳されています。
 
 
-**INAX**（イナックス）とは、日本の住宅設備のブランド・企業である。
+**INAX**（イナックス）は、
 
 1.  日本の企業グループ・[LIXILグループ](../Page/LIXILグループ.md "wikilink")の株式会社[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（リクシル）が展開する[衛生陶器](https://ja.wikipedia.org/wiki/衛生陶器 "wikilink")・住宅設備機器・[建材](https://ja.wikipedia.org/wiki/建材 "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名。
-2.  LIXILの前身の一つである**株式会社INAX**（*INAX Corporation*）は、[2011年](../Page/2011年.md "wikilink")3月まで上記の事業を展開していた企業。
+2.  **株式会社INAX**（）は、[2011年](../Page/2011年.md "wikilink")3月まで上記の事業を展開していた企業。LIXILの前身の一つである。
 
 ## 概要
 
@@ -25,6 +25,8 @@
 [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[4月1日](../Page/4月1日.md "wikilink")には、住宅用洋風便器に大洗浄6リットルの「ECO6トイレ」を発売\[1\]。大洗浄8リットルタイプが主力としていたライバルのTOTOに一歩先行していたが、TOTOも2006年（平成18年）8月に「ネオレスト」をモデルチェンジし、6リットル洗浄を実現した。その後、2009年（平成21年）4月1日にINAXが「サティス」で大洗浄5リットル・小洗浄4リットルの「ECO5」を発売すると、TOTOは2010年（平成22年）4月に大洗浄4.8リットルの「GREEN MAX 4.8」シリーズを発売。対するINAXは2011年（平成23年）4月に大洗浄4リットル・小洗浄3.3リットルの「ECO4」を「サティス」で実現したが、TOTOのGREENMAX3.8が登場し、結果的に競争に負けてしまった。
 
 ## 沿革
+
+[Ina_seto_logo.svg](https://ja.wikipedia.org/wiki/File:Ina_seto_logo.svg "fig:Ina_seto_logo.svg") [Inax_old_logo.svg](https://ja.wikipedia.org/wiki/File:Inax_old_logo.svg "fig:Inax_old_logo.svg")
 
 ### 伊奈製陶・INAX時代
 
@@ -116,12 +118,12 @@
   - アーストン（[岐阜県](../Page/岐阜県.md "wikilink")[大垣市](../Page/大垣市.md "wikilink")） - 石材加工
   - 蘇州伊奈建材（[中国](../Page/中華人民共和国.md "wikilink")・[蘇州市](../Page/蘇州市.md "wikilink")） - 建材製造
   - 蘇州伊奈衛生潔具（中国・蘇州市） - 水栓金具製造
-  - 台湾INAX（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")） - 建材製造
+  - 台湾伊奈（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")） - 建材製造
   - VINAX（[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")） - 衛生陶器製造
   - [祖父江工業](https://ja.wikipedia.org/wiki/祖父江工業 "wikilink")（愛知県[名古屋市](../Page/名古屋市.md "wikilink")[中川区](../Page/中川区.md "wikilink")） - 住宅設備機器販売
   - テムズ（東京都[台東区](../Page/台東区.md "wikilink")） - 建材・住宅設備機器販売
   - ダイナワン（DINAONE、東京都中央区） - 商業施設向けタイル・石材の輸入・販売、タイル販売特約店2社との共同出資。海外の個性的なタイルを多数仕入れている
-  - INAXCOM - 建材販売・モザイクタイル中心
+  - INAXCOM - 建材販売・[モザイクタイル](https://ja.wikipedia.org/wiki/モザイクタイル "wikilink")中心
   - ジャクソン エス.ピー.アイ（[JAXSON](https://ja.wikipedia.org/wiki/JAXSON "wikilink")、東京都港区） - 高級浴槽及び浴槽回り品を製造・販売・輸出入
 
 経営統合以前は、INAX出版が書籍出版事業として存在していた（下記に[後述](https://ja.wikipedia.org/wiki/INAX#その他 "wikilink")）。
@@ -142,18 +144,18 @@
 
 ## 提供番組（全て過去）
 
+  - [美味しんぼ](../Page/美味しんぼ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [クイズ どんなMONだい?\!](../Page/クイズ_どんなMONだい?!.md "wikilink")（日本テレビ）
   - [JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")・平日の隔日）※1980年代に[日本生命と共にナショナルスポンサー](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。
   - [大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")（[ABC制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）※競合会社の[TOTOと提供](../Page/TOTO_\(企業\).md "wikilink")（現在も）。同じLIXILブランドである[TOEXもスポンサーだった](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink")。
   - [トイレの神様](https://ja.wikipedia.org/wiki/トイレの神様 "wikilink")（[MBS制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系列、冠スポンサー） ほか
 
 ## 脚注
 
-<references />
-
 ## 関連項目
 
   - [TOTO (企業)](../Page/TOTO_\(企業\).md "wikilink")
-  - [ジャニス工業](../Page/ジャニス工業.md "wikilink") - 同じ常滑市にある同業の企業で、INAX→LiXILが株主
+  - [ジャニス工業](../Page/ジャニス工業.md "wikilink") - 同じ常滑市にある同業の企業で、INAX→LIXILが株主
   - [宮本工業所 (富山市)](https://ja.wikipedia.org/wiki/宮本工業所_\(富山市\) "wikilink")
   - [森村グループ](../Page/森村グループ.md "wikilink") - かつて所属した陶業を主軸とした企業集団
   - [佐賀LIXIL FC](../Page/佐賀LIXIL_FC.md "wikilink")（旧称・九州INAXサッカー部）
@@ -162,6 +164,7 @@
 
   - [INAX公式サイト｜LIXILのトイレ・浴室・洗面化粧台・タイル・外壁の製品ブランド](https://inax.lixil.co.jp/)
 
+  -
 [Category:日本のブランド](https://ja.wikipedia.org/wiki/Category:日本のブランド "wikilink") [Category:LIXILグループ](https://ja.wikipedia.org/wiki/Category:LIXILグループ "wikilink") [Category:日本のガラス・土石製品産業](https://ja.wikipedia.org/wiki/Category:日本のガラス・土石製品産業 "wikilink") [Category:住宅関連企業](https://ja.wikipedia.org/wiki/Category:住宅関連企業 "wikilink") [Category:常滑市の企業](https://ja.wikipedia.org/wiki/Category:常滑市の企業 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:森村グループ](https://ja.wikipedia.org/wiki/Category:森村グループ "wikilink") [Category:かつて存在した愛知県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した愛知県の企業 "wikilink") [Category:1924年設立の企業](https://ja.wikipedia.org/wiki/Category:1924年設立の企業 "wikilink")
 
 1.  [News Release 日本のトイレが変わる\!\!超節水6リットル洗浄『eco6（エコシックス）』トイレ 4月1日、住宅用主力便器に一挙展開](http://inax.lixil.co.jp/company/news/2006/010_equipment_0126_22.html) INAX

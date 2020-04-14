@@ -19,7 +19,7 @@
 
 #### 2003年9月29日 - 2010年4月2日
 
-[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは27時台に兄弟番組の『[B-JUNK](../Page/B-JUNK.md "wikilink")』が新設され、この番組からTBSラジオとネット局との同時ネットに変更された。そして[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")からリニューアルされ[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『[JUNK2](../Page/JUNK2.md "wikilink")』を放送、この日をもってTBSラジオとネット局との同時ネットは廃止となり、代わって2008年9月29日からは再リニューアルされ『Be@t B@by\!\!』同様TBSラジオのみ24時スタート、ネット局は27時スタートの『[JUNK ZERO](https://ja.wikipedia.org/wiki/JUNK_ZERO "wikilink")』となり2010年4月2日まで続いた。
+[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは27時台に兄弟番組の『[B-JUNK](../Page/B-JUNK.md "wikilink")』が新設され、この番組からネット局がTBSラジオとの同時ネットに変更された。そして[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")からリニューアルされ[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『[JUNK2](../Page/JUNK2.md "wikilink")』を放送、この日をもってTBSラジオとネット局との同時ネットは廃止となり、代わって2008年9月29日からは再リニューアルされ『Be@t B@by\!\!』同様TBSラジオのみ24時スタート、ネット局は27時スタートの『[JUNK ZERO](https://ja.wikipedia.org/wiki/JUNK_ZERO "wikilink")』となり2010年4月2日まで続いた。
 
 2006年4月4日より放送中のJUNK全番組で[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")配信を開始した（[後述参照](https://ja.wikipedia.org/wiki/#ポッドキャスト "wikilink")）。2007年2月には、番組内の企画で動画共有サービス[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を使いスタジオ映像を配信するなど、新たな試みが行われている。
 

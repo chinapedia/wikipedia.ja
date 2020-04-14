@@ -1,4 +1,4 @@
-> この記事は[EM](https://ja.wikipedia.org/wiki/EM)から翻訳されています。
+> この記事は[E・M・フォースター](https://ja.wikipedia.org/wiki/E・M・フォースター)から翻訳されています。
 
 
 **エドワード・モーガン・フォースター**（**Edward Morgan Forster** [OM](../Page/メリット勲章.md "wikilink"), [1879年](../Page/1879年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [1970年](../Page/1970年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[小説家](../Page/小説家.md "wikilink")。主な作品に『[ハワーズ・エンド](../Page/ハワーズ・エンド.md "wikilink")』、『[インドへの道](https://ja.wikipedia.org/wiki/インドへの道 "wikilink")』、短編 *"The Road From Coronus"* などがある。

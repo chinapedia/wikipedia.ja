@@ -1,4 +1,4 @@
-> この記事は[ \(Sibley\)](https://ja.wikipedia.org/wiki/_\(Sibley\))から翻訳されています。
+> この記事は[ヤブモズ亜科 \(Sibley\)](https://ja.wikipedia.org/wiki/ヤブモズ亜科_\(Sibley\))から翻訳されています。
 
 
 {{生物分類表 |名称 = ヤブモズ亜科  |画像=[Laniarius_barbarus.jpg](https://ja.wikipedia.org/wiki/File:Laniarius_barbarus.jpg "fig:Laniarius_barbarus.jpg") |画像キャプション = [アカハラヤブモズ](https://ja.wikipedia.org/wiki/アカハラヤブモズ "wikilink")  |省略 = 鳥綱 |目 = [スズメ目](../Page/スズメ目.md "wikilink")  |亜目 = [スズメ亜目](../Page/スズメ亜目.md "wikilink")  |上科 = [カラス上科](../Page/カラス上科.md "wikilink")  |亜科 = **ヤブモズ亜科**  |学名 = |下位分類名 = 系統 |下位分類 =

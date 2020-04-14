@@ -1,4 +1,4 @@
-> この記事は[FIFA U-20](https://ja.wikipedia.org/wiki/FIFA_U-20)から翻訳されています。
+> この記事は[FIFA U-20ワールドカップ](https://ja.wikipedia.org/wiki/FIFA_U-20ワールドカップ)から翻訳されています。
 
 
 **FIFA U-20ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。[2005年大会までは](../Page/2005_FIFAワールドユース選手権.md "wikilink")**FIFAワールドユース選手権**（）という大会名であったが、「ワールドカップ」ブランドを向上させるため、[2006年](../Page/2006年.md "wikilink")に[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")を除く全てのFIFA主催の世界大会に「ワールドカップ」の名前をつけることが決定したのに伴い、[2007年大会から現在の大会名に変更された](../Page/2007_FIFA_U-20ワールドカップ.md "wikilink")。

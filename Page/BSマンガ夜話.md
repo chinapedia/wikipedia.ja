@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSマンガ夜話](https://ja.wikipedia.org/wiki/BSマンガ夜話)から翻訳されています。
 
 
 『**BSマンガ夜話**』（ビーエス マンガやわ）は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[BS2で](../Page/NHK衛星第2テレビジョン.md "wikilink")[1996年](../Page/1996年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで不定期に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。全144回(全37段)。

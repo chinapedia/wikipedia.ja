@@ -1,4 +1,4 @@
-> この記事は[Be2!](https://ja.wikipedia.org/wiki/Be2!)から翻訳されています。
+> この記事は[Beアップル2時!](https://ja.wikipedia.org/wiki/Beアップル2時!)から翻訳されています。
 
 
 『**Beアップル2時\!**』（ビーアップルにじ）は、[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

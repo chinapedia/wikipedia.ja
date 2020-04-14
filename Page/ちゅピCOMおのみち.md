@@ -1,4 +1,4 @@
-> この記事は[COM](https://ja.wikipedia.org/wiki/COM)から翻訳されています。
+> この記事は[ちゅピCOMおのみち](https://ja.wikipedia.org/wiki/ちゅピCOMおのみち)から翻訳されています。
 
 
 **株式会社ちゅピCOMおのみち**は、[広島県](../Page/広島県.md "wikilink")[尾道市](../Page/尾道市.md "wikilink")を放送エリアとする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。その他、[インターネット](../Page/インターネット.md "wikilink")接続サービス等を運営している。通称は「**OCTV**」。[中国新聞](../Page/中国新聞.md "wikilink")グループに属する。
@@ -52,7 +52,7 @@
 | BS101     | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                                                                   |
 | BS103     | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")                                                        |
 | BS141-143 | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                        |
-| BS151-153 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                                    |
+| BS151-153 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                       |
 | BS161-163 | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                                     |
 | BS171-173 | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                                                                  |
 | BS181-183 | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                         |

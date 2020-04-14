@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ダイハツ・ミゼットII](https://ja.wikipedia.org/wiki/ダイハツ・ミゼットII)から翻訳されています。
 
 
 **ミゼットII**（*Midget II*）は、[1996年](../Page/1996年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")まで[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")から製造・販売されていた軽[貨物自動車](../Page/貨物自動車.md "wikilink")である。

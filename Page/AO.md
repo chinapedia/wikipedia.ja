@@ -5,7 +5,7 @@
 
 ## 一般名詞
 
-  - [原子軌道](https://ja.wikipedia.org/wiki/原子軌道 "wikilink") ()
+  - [原子軌道](../Page/原子軌道.md "wikilink") ()
   - [北極振動](../Page/北極振動.md "wikilink") ()
   - [大動脈](../Page/大動脈.md "wikilink") ()
   - [補償光学](../Page/補償光学.md "wikilink") () - 望遠鏡技術。

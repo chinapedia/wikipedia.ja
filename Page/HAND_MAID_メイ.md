@@ -1,4 +1,4 @@
-> この記事は[HAND MAID ](https://ja.wikipedia.org/wiki/HAND_MAID_)から翻訳されています。
+> この記事は[HAND MAID メイ](https://ja.wikipedia.org/wiki/HAND_MAID_メイ)から翻訳されています。
 
 
 『**HAND MAID メイ**』（ハンドメイドメイ）は、[2000年](../Page/2000年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")から同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[WOWOW](../Page/WOWOW.md "wikilink")ノンスクランブル枠（18:30 - 19:00）で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。テレビ放送10話＋1話（DVD&ビデオ）の全11話。

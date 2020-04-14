@@ -1,4 +1,4 @@
-> この記事は[HERTZ IIKey Station](https://ja.wikipedia.org/wiki/HERTZ_IIKey_Station)から翻訳されています。
+> この記事は[HERTZ II〜ハートのKey Station〜](https://ja.wikipedia.org/wiki/HERTZ_II〜ハートのKey_Station〜)から翻訳されています。
 
 
 『**HERTZ II〜ハートのKey Station〜**』（ヘルツセカンド ハートのキーステーション）は、[小森まなみ](../Page/小森まなみ.md "wikilink")2作目のアルバムである。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。[1993年](../Page/1993年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に再発売されている。

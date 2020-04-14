@@ -1,4 +1,4 @@
-> この記事は[LEVEL 4 \(\)](https://ja.wikipedia.org/wiki/LEVEL_4_\(\))から翻訳されています。
+> この記事は[LEVEL 4 \(曲\)](https://ja.wikipedia.org/wiki/LEVEL_4_\(曲\))から翻訳されています。
 
 
 「**LEVEL 4**」（レベル・フォー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の4枚目のシングル。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[IC \(\)](https://ja.wikipedia.org/wiki/IC_\(\))から翻訳されています。
+> この記事は[バスICカード \(山梨交通\)](https://ja.wikipedia.org/wiki/バスICカード_\(山梨交通\))から翻訳されています。
 
 
 [Yamanashikotsu-BusICcard.JPG](https://ja.wikipedia.org/wiki/File:Yamanashikotsu-BusICcard.JPG "fig:Yamanashikotsu-BusICcard.JPG") **バスICカード**は[山梨交通](../Page/山梨交通.md "wikilink")グループで発売していた[乗車カード](../Page/乗車カード.md "wikilink")で、非接触型[ICカード](../Page/ICカード.md "wikilink")である。[PASMO](../Page/PASMO.md "wikilink")導入により廃止された。それまでも他社において地域や路線を限定してバス用のICカードが導入された例はあったが、導入当初からほぼ全社的な展開を前提に導入したのは、日本のバス事業者においては山梨交通が初めてである。また本項では、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")よりサービス開始した[クレジットカード](../Page/クレジットカード.md "wikilink")一体型の**山梨交通OMCカード**についても記述する。同社ではこれを「世界初の交通系ICカード一体型クレジットカード」としている。以下本項では「山梨交通OMCカード」については、愛称である「バスOMCカード」と記述する。

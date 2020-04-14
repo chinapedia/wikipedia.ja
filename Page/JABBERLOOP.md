@@ -75,7 +75,7 @@
 
 :\* 4月、Shibuya PLUGにて隔月イベントを開催。JABBERLOOPとPLUGがコラボレーションした「INFINITE」となる。
 
-:\* 5月、ロンドンのMukatsuku Records（Nik Weston主宰）より12inch [EP](https://ja.wikipedia.org/wiki/EP "wikilink")『UGETSU』をリリース。デビュー前から国内はもとより[Gilles Peterson](../Page/ジャイルス・ピーターソン.md "wikilink")、Juergen(Jazzanova)、Patrick Forge(Da Lata)など、海外のトップDJがプレイ。[BS朝日にて](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「Groovin' Jazz Night」放送。須永辰緒と共にゲスト出演する。
+:\* 5月、ロンドンのMukatsuku Records（Nik Weston主宰）より12inch [EP](https://ja.wikipedia.org/wiki/EP "wikilink")『UGETSU』をリリース。デビュー前から国内はもとより[Gilles Peterson](../Page/ジャイルス・ピーターソン.md "wikilink")、Juergen(Jazzanova)、Patrick Forge(Da Lata)など、海外のトップDJがプレイ。[BS朝日にて](../Page/ビーエス朝日.md "wikilink")「Groovin' Jazz Night」放送。須永辰緒と共にゲスト出演する。
 
 :\* 6月、京都CLUB METROにてThe Five Corners QuintetのトランペッターJukka Eskolaと共演。須永辰緒の夜ジャズにてNicola Conte Bandと共演。
 
@@ -241,125 +241,287 @@
 
 ### アルバム
 
-1.  **and infinite jazz...**（コロムビアミュージックエンタテインメント 2007年7月）
-    1.  INTO THE INFINITE JAZZ
-    2.  ATMOSPHERE ENTRY
-    3.  IN:GROOVE
-    4.  UGETSU
-    5.  MISSING MY BIRD
-    6.  THE ART OF BLAKEY
-    7.  RE:LOOP
-    8.  HOCK ME UP
-    9.  SOURCE OF SPRING
-    10. Q-TRACK
-    11. LOOK TO THE SKY
-2.  **INFINITE WORKS**（コロムビアミュージックエンタテインメント 2008年7月）
-    1.  Into The Infinite Jazz (Live Reconstructed Mix)
-    2.  Behind The Wind
-    3.  Because, It Is There.
-    4.  Smells Like Teens Spirit Feat.karen Aoki
-    5.  6th Continent
-    6.  Red Bath (JABBERLOOP Remix)
-    7.  Atmosphere Entry (Live Reconstructed Mix)
-    8.  In: Groove (Studio Live Take)
-    9.  My Favorite Things Feat.karen Aoki
-    10. Spartacus (JABBERLOOP Remix)
-    11. Interlude Feat.masami Watanabe (The Fascinations)
-    12. Ugetsu (DJShinsuke Remix)
-3.  **CHECK THIS OUT\!\!**（コロムビアミュージックエンタテインメント 2009年3月）
-    1.  PIANO de B ダッシュ
-    2.  With all my love,
-    3.  スペース大怪獣の逆襲
-    4.  Synesthesia～神の悪戯～
-    5.  FLY WITH THE WIND
-    6.  LowbitFUNK
-    7.  Emozione
-    8.  シロクマ
-    9.  雪が解ける日に...
-    10. HERE WE GO\!\!
-    11. WHITE OUT
-    12. 軌跡の果て
-    13. 荘厳伝説
-4.  **Live At Motion Blue Yokohama**（HEI GLOBAL ENTERTAINMENT 2009年11月）
-    1.  Re loop
-    2.  スペース大怪獣の逆襲
-    3.  The art of blakey
-    4.  荘厳伝説
-    5.  Synesthesia ～神の悪戯～
-    6.  EMOZIONE
-    7.  LowbitFUNK
-    8.  Ugetsu
-    9.  雪が解ける日に…
-    10. With all my love,
-    11. Fly with the wind
-    12. Missing my bird
-5.  **攻め燃える**（Vithmic 2010年10月）
-    1.  Round Mirror Moon feat. Yoshika (SOULHEAD参加)
-    2.  Red
-    3.  ソレソレ
-    4.  Hot Guys
-    5.  Natural High feat. Tsugumi (SOULHEAD参加)
-    6.  センキュー\!
-    7.  Shake Bossa Groovy
-    8.  本日モ晴天ナリ
-    9.  森people
-    10. SASURAI
-    11. 攻め燃える
-    12. シロクマ / JABEBRLOOP吹奏楽団
-    13. 荘厳伝説 / JABEBRLOOP吹奏楽団
-6.  **経典\!**（Vithmic 2010年12月）
-    1.  経典！
-    2.  We Got JAZZ
-    3.  I Want You
-    4.  Dental Driller
-    5.  月光
-    6.  過程（Missing My Bird）
-    7.  Night Cruse
-    8.  彼女は時間とワルツを踊る
-    9.  I Want You（RUDEJACK Remix）
-    10. 経典！（Blu-Swing Remix）
-    11. 経典！（DJ Mitsu the Beats Remix）
-7.  **5**（INFINITE RECORDS 2012年7月）
-    1.  ヤングスター
-    2.  イナズマ
-    3.  GO\!\!
-    4.  BADストリート
-    5.  愛の鼓動
-    6.  労働の唄
-    7.  MONSTER MOUSE
-    8.  HEAVY
-    9.  Sato
-    10. 母乳
-    11. 西小山サマーアイランド
-    12. Virtual Reality
-    13. 2tone Soul
-8.  **魂**（INFINITE RECORDS 2014年1月）
-    1.  タマシイ
-    2.  ミラクルハート
-    3.  蒼天を突き抜けて
-    4.  Like a girl
-    5.  HITMAN
-    6.  涙の屑
-    7.  希求
-    8.  ブルーライト
-    9.  全ての旅人たちへ
-    10. Jaguar
-    11. ナナナ
-    12. うそつき
-    13. 参々七
-9.  **feat.**（selective records 2015年4月）
-    1.  IT’SALLABOUTYOU(JABBERLOOPRemix)/COLDFEET
-    2.  UNTOLD feat. Deeizm (JABBERLOOP Remix)/MAKOTO
-    3.  KEY OF LOVE (JABBERLOOP Remix) / M-SWIFT
-    4.  DENTAL DRILLER / JABBERLOOP x SOFT LIPA
-    5.  ROUND & ROUND (JABBERLOOP Remix) / real
-    6.  DISCO CO CO (JABBERLOOP Remix) / UNFAMILIAR FRIENDS PARTY
-    7.  TAKE YOU HIGHER feat. SATORU KURIHARA(Jazzin’park) (JABBERLOOP Remix) / AYUMi\*
-    8.  DON’TBEAFRAID(JABBERLOOPRemix)/ANGELAJOHNSON
-    9.  I CAN’T LOVE YOU (IF YOU DON’T LOVE YOU) (JABBERLOOP Remix) / GORDON CHAMBERS
-    10. ARE YOU GONNA GO MY WAY feat. JABBERLOOP / 青木カレン
-    11. ROUND-MIRROR MOON (Original Ver.) / JABBERLOOP feat. YOSHIKA (from SOULHEAD)
-    12. 恍惚 / JABBERLOOP x SOFT LIPA
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p><small>リリース年</small></p></th>
+<th><p><small>タイトル</small></p></th>
+<th><p><small>収録曲</small></p></th>
+<th><p><small>規格</small></p></th>
+<th><p><small>レーベル</small></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><small>1st</small></p></td>
+<td><p><small>2007年7月</small></p></td>
+<td><p><strong><small>and infinite jazz...</small></strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>INTO THE INFINITE JAZZ</small></li>
+<li><small>ATMOSPHERE ENTRY</small></li>
+<li><small>IN:GROOVE</small></li>
+<li><small>UGETSU</small></li>
+<li><small>MISSING MY BIRD</small></li>
+<li><small>THE ART OF BLAKEY</small></li>
+<li><small>RE:LOOP</small></li>
+<li><small>HOCK ME UP</small></li>
+<li><small>SOURCE OF SPRING</small></li>
+<li><small>Q-TRACK</small></li>
+<li><small>LOOK TO THE SKY</small></li>
+</ol></td>
+<td><p><small><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></small></p></td>
+<td><p><a href="../Page/日本コロムビア.md" title="wikilink"><small>コロムビアミュージックエンターテイメント</small></a></p></td>
+</tr>
+<tr class="even">
+<td><p><small>2nd</small></p></td>
+<td><p><small>2008年7月</small></p></td>
+<td><p><strong><small>INFINITE WORKS</small></strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>Into The Infinite Jazz (Live Reconstructed Mix)</small></li>
+<li><small>Behind The Wind</small></li>
+<li><small>Because, It Is There.</small></li>
+<li><small>Smells Like Teens Spirit Feat.karen Aoki</small></li>
+<li><small>6th Continent</small></li>
+<li><small>Red Bath (JABBERLOOP Remix)</small></li>
+<li><small>Atmosphere Entry (Live Reconstructed Mix)</small></li>
+<li><small>In: Groove (Studio Live Take)</small></li>
+<li><small>My Favorite Things Feat.karen Aoki</small></li>
+<li><small>Spartacus (JABBERLOOP Remix)</small></li>
+<li><small>Interlude Feat.masami Watanabe (The Fascinations)</small></li>
+<li><small>Ugetsu (DJShinsuke Remix)</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><small>3rd</small></p></td>
+<td><p><small>2009年3月</small></p></td>
+<td><p>'''<small>CHECK THIS OUT</p></td>
+<td><p></small>'''</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>PIANO de B ダッシュ</small></li>
+<li><small>With all my love,</small></li>
+<li><small>スペース大怪獣の逆襲</small></li>
+<li><small>Synesthesia～神の悪戯～</small></li>
+<li><small>FLY WITH THE WIND</small></li>
+<li><small>LowbitFUNK</small></li>
+<li><small>Emozione</small></li>
+<li><small>シロクマ</small></li>
+<li><small>雪が解ける日に...</small></li>
+</ol>
+<p>#<small>HERE WE GO</p></td>
+<td><p></small></p>
+<ol>
+<li><small>WHITE OUT</small></li>
+<li><small>軌跡の果て</small></li>
+<li><small>荘厳伝説</small></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><small>4th</small></p></td>
+<td><p>! style="white-space:nowrap" | <small>2009年11月</small></p></td>
+<td><p><strong><small>Live At Motion Blue Yokohama</small></strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>Re:loop</small></li>
+<li><small>スペース大怪獣の逆襲</small></li>
+<li><small>The art of blakey</small></li>
+<li><small>荘厳伝説</small></li>
+<li><small>Synesthesia ～神の悪戯～</small></li>
+<li><small>EMOZIONE</small></li>
+<li><small>LowbitFUNK</small></li>
+<li><small>Ugetsu</small></li>
+<li><small>雪が解ける日に…</small></li>
+<li><small>With all my love,</small></li>
+<li><small>Fly with the wind</small></li>
+<li><small>Missing my bird</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td><p><small>HEI GLOBAL ENTERTAINMENT</small></p></td>
+</tr>
+<tr class="odd">
+<td><p><small>5th</small></p></td>
+<td><p>! style="white-space:nowrap" | <small>2010年10月</small></p></td>
+<td><p><strong><small>攻め燃える</small></strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>Round Mirror Moon feat. Yoshika (SOULHEAD参加)</small></li>
+<li><small>Red</small></li>
+<li><small>ソレソレ</small></li>
+<li><small>Hot Guys</small></li>
+<li><small>Natural High feat. Tsugumi (SOULHEAD参加)</small></li>
+<li><small>センキュー!</small></li>
+<li><small>Shake Bossa Groovy</small></li>
+<li><small>本日モ晴天ナリ</small></li>
+<li><small>森people</small></li>
+<li><small>SASURAI</small></li>
+<li><small>攻め燃える</small></li>
+<li><small>シロクマ / JABEBRLOOP吹奏楽団</small></li>
+<li><small>荘厳伝説 / JABEBRLOOP吹奏楽団</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td><p><small>Vithmic</small></p></td>
+</tr>
+<tr class="even">
+<td><p><small>6th</small></p></td>
+<td><p>! style="white-space:nowrap" | <small>2010年12月</small></p></td>
+<td><p><small><strong>経典！</strong></small></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>経典！</small></li>
+<li><small>We Got JAZZ</small></li>
+<li><small>I Want You</small></li>
+<li><small>Dental Driller</small></li>
+<li><small>月光</small></li>
+<li><small>過程（Missing My Bird）</small></li>
+<li><small>Night Cruse</small></li>
+<li><small>彼女は時間とワルツを踊る</small></li>
+<li><small>I Want You（RUDEJACK Remix）</small></li>
+<li><small>経典！（Blu-Swing Remix）</small></li>
+<li><small>経典！（DJ Mitsu the Beats Remix）</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><small>7th</small></p></td>
+<td><p><small>2012年7月</small></p></td>
+<td><p><small><strong>5</strong></small></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>ヤングスター</small></li>
+<li><small>イナズマ</small></li>
+</ol>
+<p>#<small>GO</p></td>
+<td><p></small></p>
+<ol>
+<li><small>BADストリート</small></li>
+<li><small>愛の鼓動</small></li>
+<li><small>労働の唄</small></li>
+<li><small>MONSTER MOUSE</small></li>
+<li><small>HEAVY</small></li>
+<li><small>Sato</small></li>
+<li><small>母乳</small></li>
+<li><small>西小山サマーアイランド</small></li>
+<li><small>Virtual Reality</small></li>
+<li><small>2tone Soul</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+</tr>
+<tr class="even">
+<td><p><small>8th</small></p></td>
+<td><p><small>2014年1月</small></p></td>
+<td><p><small><strong>魂</strong></small></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>タマシイ</small></li>
+<li><small>ミラクルハート</small></li>
+<li><small>蒼天を突き抜けて</small></li>
+<li><small>Like a girl</small></li>
+<li><small>HITMAN</small></li>
+<li><small>涙の屑</small></li>
+<li><small>希求</small></li>
+<li><small>ブルーライト</small></li>
+<li><small>全ての旅人たちへ</small></li>
+<li><small>Jaguar</small></li>
+<li><small>ナナナ</small></li>
+<li><small>うそつき</small></li>
+<li><small>参々七</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><small>9th</small></p></td>
+<td><p><small>2015年4月</small></p></td>
+<td><p><small><strong>feat.</strong></small></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>IT’SALLABOUTYOU(JABBERLOOPRemix)/COLDFEET</small></li>
+<li><small>UNTOLD feat. Deeizm (JABBERLOOP Remix)/MAKOTO</small></li>
+<li><small>KEY OF LOVE (JABBERLOOP Remix) / M-SWIFT</small></li>
+<li><small>DENTAL DRILLER / JABBERLOOP x SOFT LIPA</small></li>
+<li><small>ROUND &amp; ROUND (JABBERLOOP Remix) / real</small></li>
+<li><small>DISCO CO CO (JABBERLOOP Remix) / UNFAMILIAR FRIENDS PARTY</small></li>
+<li><small>TAKE YOU HIGHER feat. SATORU KURIHARA(Jazzin’park) (JABBERLOOP Remix) / AYUMi*</small></li>
+<li><small>DON’TBEAFRAID(JABBERLOOPRemix)/ANGELAJOHNSON</small></li>
+<li><small>I CAN’T LOVE YOU (IF YOU DON’T LOVE YOU) (JABBERLOOP Remix) / GORDON CHAMBERS</small></li>
+<li><small>ARE YOU GONNA GO MY WAY feat. JABBERLOOP / 青木カレン</small></li>
+<li><small>ROUND-MIRROR MOON (Original Ver.) / JABBERLOOP feat. YOSHIKA (from SOULHEAD)</small></li>
+<li><small>恍惚 / JABBERLOOP x SOFT LIPA</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td><p><small>selective records</small></p></td>
+</tr>
+<tr class="even">
+<td><p><small>10th</small></p></td>
+<td><p><small>2017年9月</small></p></td>
+<td><p><small><strong>NEW</strong></small></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><small>Invisible</small></li>
+<li><small>Beginning of Life</small></li>
+<li><small>130PM</small></li>
+<li><small>Acid Break</small></li>
+<li><small>TAKACHIHO -Dance of the Gods-</small></li>
+<li><small>Logical Monks</small></li>
+<li><small>Honest Word</small></li>
+<li><small>Red Ocean</small></li>
+<li><small>Private eyes</small></li>
+<li><small>Movin' on</small></li>
+<li><small>恋のゆくえ</small></li>
+<li><small>Mother Lake</small></li>
+<li><small>Bird is Alive</small></li>
+</ol></td>
+<td><p><small>CD</small></p></td>
+<td><p><small>JUNONSAISAI RECORDS</small></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 海外リリース
 

@@ -104,7 +104,7 @@
   -
   - [アドリブブログ カシオペア／ 4x4](http://adliblog.livedoor.biz/archives/51667219.html)
 
-  - [茶屋町吾郎の趣味シュミtapestry CASIOPEA　『4×4』 （1982）](http://ameblo.jp/goro-chayamachi/entry-10939169832.html)
+  - [茶屋町吾郎の趣味シュミtapestry CASIOPEA　『4×4』 （1982）](https://ameblo.jp/goro-chayamachi/entry-10939169832.html)
 
 ## 出典・脚注
 

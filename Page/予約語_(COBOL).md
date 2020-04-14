@@ -1,4 +1,4 @@
-> この記事は[ \(COBOL\)](https://ja.wikipedia.org/wiki/_\(COBOL\))から翻訳されています。
+> この記事は[予約語 \(COBOL\)](https://ja.wikipedia.org/wiki/予約語_\(COBOL\))から翻訳されています。
 
 
 **予約語（COBOL）**では、プログラミング言語の1つである[COBOL](../Page/COBOL.md "wikilink")の予約語に関して説明する。そのため、他の言語の[予約語](../Page/予約語.md "wikilink")と比較できるような説明を目的とし、プログラムの細かい説明には立ち入らない。

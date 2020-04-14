@@ -1,4 +1,4 @@
-> この記事は[DBS](https://ja.wikipedia.org/wiki/DBS)から翻訳されています。
+> この記事は[アストンマーティン・DBS](https://ja.wikipedia.org/wiki/アストンマーティン・DBS)から翻訳されています。
 
 
 **DBS**とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[アストンマーティン](../Page/アストンマーティン.md "wikilink")が開発した[スポーツカー](../Page/スポーツカー.md "wikilink")。この記事では1967年-1972年モデルと2007年 - 2012年モデルを解説する。[DBS スーパーレッジェーラについてはリンクを参照](../Page/アストンマーティン・DBS_スーパーレッジェーラ.md "wikilink")。

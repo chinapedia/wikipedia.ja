@@ -1,4 +1,4 @@
-> この記事は[! -Street Basketball-](https://ja.wikipedia.org/wiki/!_-Street_Basketball-)から翻訳されています。
+> この記事は[フリスタ! -Street Basketball-](https://ja.wikipedia.org/wiki/フリスタ!_-Street_Basketball-)から翻訳されています。
 
 
 **フリスタ\!プラス -Street Basketball-**とは、JC Globalが運営している[オンライン](../Page/オンライン.md "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。一部有料。主な略称は「フリスタ」「FS」。[ハンゲーム](../Page/ハンゲーム.md "wikilink")が運営していた*Freestyle*はこのゲームの前身。

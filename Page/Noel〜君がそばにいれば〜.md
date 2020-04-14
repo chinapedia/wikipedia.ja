@@ -1,4 +1,4 @@
-> この記事は[Noel](https://ja.wikipedia.org/wiki/Noel)から翻訳されています。
+> この記事は[Noel〜君がそばにいれば〜](https://ja.wikipedia.org/wiki/Noel〜君がそばにいれば〜)から翻訳されています。
 
 
 『**Noël〜君がそばにいれば〜**』（ノエルきみがそばにいれば）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の企画ミニ[アルバム](../Page/アルバム.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。

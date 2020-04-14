@@ -1,4 +1,4 @@
-> この記事は[HBC](https://ja.wikipedia.org/wiki/HBC)から翻訳されています。
+> この記事は[HBC函館ラジオ送信所](https://ja.wikipedia.org/wiki/HBC函館ラジオ送信所)から翻訳されています。
 
 
 **HBC函館ラジオ送信所**（エイチビーシーはこだてラジオそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北斗市](../Page/北斗市.md "wikilink")の旧[亀田郡](../Page/亀田郡.md "wikilink")[大野町にある](../Page/大野町_\(北海道\).md "wikilink")[北海道放送](../Page/北海道放送.md "wikilink")（[HBCラジオ](../Page/HBCラジオ.md "wikilink")）の[中波放送](../Page/中波放送.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。

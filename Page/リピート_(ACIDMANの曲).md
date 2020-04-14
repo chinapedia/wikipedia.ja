@@ -1,4 +1,4 @@
-> この記事は[ \(ACIDMAN\)](https://ja.wikipedia.org/wiki/_\(ACIDMAN\))から翻訳されています。
+> この記事は[リピート \(ACIDMANの曲\)](https://ja.wikipedia.org/wiki/リピート_\(ACIDMANの曲\))から翻訳されています。
 
 
 「**リピート**」（Repeat）は、日本のロックバンド、[ACIDMAN](../Page/ACIDMAN.md "wikilink")の5thシングル。[2003年](../Page/2003年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")発売

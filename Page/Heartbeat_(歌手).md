@@ -1,4 +1,4 @@
-> この記事は[Heartbeat \(\)](https://ja.wikipedia.org/wiki/Heartbeat_\(\))から翻訳されています。
+> この記事は[Heartbeat \(歌手\)](https://ja.wikipedia.org/wiki/Heartbeat_\(歌手\))から翻訳されています。
 
 
 **Heartbeat**（ハービー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月5日](../Page/11月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。本名は**勝又 亜依子**（かつまた あいこ）。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。
@@ -111,6 +111,6 @@
 ## 外部リンク
 
   - [ユニバーサルミュージック](http://www.universal-music.co.jp/heartbeat/)
-  - [ハービー オフィシャルブログ](http://ameblo.jp/heartbeat-blog/)
+  - [ハービー オフィシャルブログ](https://ameblo.jp/heartbeat-blog/)
 
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[  THE LORD OF ELEMENTAL](https://ja.wikipedia.org/wiki/__THE_LORD_OF_ELEMENTAL)から翻訳されています。
+> この記事は[スーパーロボット大戦外伝 魔装機神 THE LORD OF ELEMENTAL](https://ja.wikipedia.org/wiki/スーパーロボット大戦外伝_魔装機神_THE_LORD_OF_ELEMENTAL)から翻訳されています。
 
 
 『**スーパーロボット大戦外伝 魔装機神 THE LORD OF ELEMENTAL**』（スーパーロボットたいせんがいでん まそうきしん ザ ロード オブ エレメンタル）は、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")の一つ。

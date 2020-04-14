@@ -1,4 +1,4 @@
-> この記事は[PAG](https://ja.wikipedia.org/wiki/PAG)から翻訳されています。
+> この記事は[PAGインベストメント·マネジメント](https://ja.wikipedia.org/wiki/PAGインベストメント·マネジメント)から翻訳されています。
 
 
 **PAGインベストメント·マネジメント株式会社**は、本社を[東京都](../Page/東京都.md "wikilink")[港区に置く会社](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。

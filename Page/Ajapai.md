@@ -21,7 +21,7 @@
 
 ### アルバム
 
-1.  **Planetary Folklore**（[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）イーストウエスト・ジャパン
+1.  **Planetary Folklore**（[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")／Toshihiko Mori名義\[1\]）イーストウエスト・ジャパン
     1.  Transcendental Introduction
     2.  Spontaneous Planet
     3.  Planetary Forklore
@@ -108,6 +108,8 @@
       -
         3.1000%SOざくね?(dj ajapai remix)
 
+## 脚注
+
 ## 関連項目
 
   - [テイ・トウワ](../Page/テイ・トウワ.md "wikilink")
@@ -122,3 +124,5 @@
   - [公式サイト](http://www.ajapai.com/)
 
 [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.   ソニーミュージック オフィシャルサイト|url=[https://www.sonymusic.co.jp/artist/ajapai/profile/|website=www.sonymusic.co.jp|accessdate=2020-03-28|language=ja](https://www.sonymusic.co.jp/artist/ajapai/profile/%7Cwebsite=www.sonymusic.co.jp%7Caccessdate=2020-03-28%7Clanguage=ja)}}

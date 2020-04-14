@@ -1,4 +1,4 @@
-> この記事は[KEC](https://ja.wikipedia.org/wiki/KEC)から翻訳されています。
+> この記事は[KECゼミナール](https://ja.wikipedia.org/wiki/KECゼミナール)から翻訳されています。
 
 
 **KECゼミナール**は[奈良県](../Page/奈良県.md "wikilink")を本拠とする、小中向け学習塾。運営会社は株式会社ケーイーシー。本部は奈良県[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に所在する。なお本稿では便宜上、KEC志学館ゼミナール、KEC個別・KEC志学館個別、KEC志学館manavi、志学館予備校、やまと西大寺KEC保育園についても触れる。

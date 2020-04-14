@@ -1,4 +1,4 @@
-> この記事は[HAL \(\)](https://ja.wikipedia.org/wiki/HAL_\(\))から翻訳されています。
+> この記事は[HAL \(ソフトウェア\)](https://ja.wikipedia.org/wiki/HAL_\(ソフトウェア\))から翻訳されています。
 
 
 **HAL**（ハル）は [デーモン型の](../Page/デーモン_\(ソフトウェア\).md "wikilink")[Hardware Abstract Layerの一種であり](https://ja.wikipedia.org/wiki/Hardware_Abstract_Layer "wikilink")、[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")[アプリケーションがハードウェア情報に容易にアクセスできるようにすることで](../Page/アプリケーションソフトウェア.md "wikilink")[バスやデバイスの種類に寄らずに各種デバイスを利用できるようにする](../Page/バス_\(コンピュータ\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトである。これにより、[GUIが一貫した形式で全ての](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[リソースをユーザーに提示できる](../Page/計算資源.md "wikilink")。

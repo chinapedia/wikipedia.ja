@@ -1,4 +1,4 @@
-> この記事は[Voice of A\&G Digital !](https://ja.wikipedia.org/wiki/Voice_of_A\&G_Digital_!)から翻訳されています。
+> この記事は[Voice of A\&G Digital 超ラジ!](https://ja.wikipedia.org/wiki/Voice_of_A\&G_Digital_超ラジ!)から翻訳されています。
 
 
 『**Voice of A\&G Digital 超ラジ\!**』（ボイスオブエーアンドジーデジタル ちょうラジ）は、[デジタルラジオ推進協会](../Page/デジタルラジオ推進協会.md "wikilink")が放送し[文化放送](../Page/文化放送.md "wikilink")が制作するデジタルラジオサービス[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")で放送されていた[アニラジ](../Page/アニラジ.md "wikilink")の帯番組である。

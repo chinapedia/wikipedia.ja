@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK熱海ラジオ中継局](https://ja.wikipedia.org/wiki/NHK熱海ラジオ中継局)から翻訳されています。
 
 
 **NHK熱海ラジオ中継局**（エヌエイチケイあたみラジオちゅうけいきょく）は、[静岡県](../Page/静岡県.md "wikilink")[熱海市](https://ja.wikipedia.org/wiki/熱海市 "wikilink")に置かれている[NHK静岡放送局](../Page/NHK静岡放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")。

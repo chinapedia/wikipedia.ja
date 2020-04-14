@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCメディアコム](https://ja.wikipedia.org/wiki/SCメディアコム)から翻訳されています。
 
 
 **SCメディアコム株式会社**（）は、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")株式会社の[子会社](../Page/子会社.md "wikilink")で、[放送](../Page/放送.md "wikilink")に関する事業を営む[会社](../Page/会社.md "wikilink")を傘下としていた[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Pop\'n music -! -](https://ja.wikipedia.org/wiki/Pop\'n_music_-!_-)から翻訳されています。
+> この記事は[Pop\'n music -わくわく! ポップンマンガ-](https://ja.wikipedia.org/wiki/Pop\'n_music_-わくわく!_ポップンマンガ-)から翻訳されています。
 
 
 『**pop'n music -わくわく\! ポップンマンガ-**』（ポップンミュージック - ）は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")向け有料コミックサイト「週刊コナミ（旧・デジタルコミックス）」内で、[2006年](../Page/2006年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで連載・配信されていた[デジタルコミック](../Page/デジタルコミック.md "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")。同社の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")」の1つである『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』を題材としている。

@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[次長課長のオールナイトニッポンR](https://ja.wikipedia.org/wiki/次長課長のオールナイトニッポンR)から翻訳されています。
 
 
 **次長課長のオールナイトニッポンR**（**じちょうかちょうのおーるないとにっぽんあーる**）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気深夜枠[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](../Page/井上聡.md "wikilink")）。[2007年](../Page/2007年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")放送開始。
@@ -184,7 +184,7 @@
 **27:00 - 29:00**
 
   -
-    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[九州朝日放送](../Page/KBCラジオ.md "wikilink")
 
 **27:00 - 28:30**
 

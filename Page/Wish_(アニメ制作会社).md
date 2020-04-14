@@ -1,4 +1,4 @@
-> この記事は[Wish \(\)](https://ja.wikipedia.org/wiki/Wish_\(\))から翻訳されています。
+> この記事は[Wish \(アニメ制作会社\)](https://ja.wikipedia.org/wiki/Wish_\(アニメ制作会社\))から翻訳されています。
 
 
 **有限会社Wish**（ウィッシュ）は、アニメーション製作を主な事業内容とする日本の企業。

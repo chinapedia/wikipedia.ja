@@ -1,13 +1,13 @@
 > この記事は[LADY NAVIGATION](https://ja.wikipedia.org/wiki/LADY_NAVIGATION)から翻訳されています。
 
 
-「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の8作目の[シングル](../Page/シングル.md "wikilink")。
+「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲で、[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
-前作「[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")」より約5ヶ月ぶりのリリースで、デビューの頃より使用していた初代B'zロゴが使用された最後のシングル。発売日の[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")は松本の30歳の誕生日であり、当時のインタビューで松本は「僕の生誕30周年記念シングル」と冗談めかして語っていた\[1\]。
+前作『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』より約5ヶ月ぶりのリリースで、デビューの頃より使用していた初代B'zロゴが使用された最後のシングル。発売日の[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")は松本の30歳の誕生日であり、当時のインタビューで松本は「僕の生誕30周年記念シングル」と冗談めかして語っていた\[1\]。
 
-オリコン集計では、B'z初のシングル[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成したシングルである\[2\]\[3\]。そして本作より、20thシングル「[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")」まで13作連続ミリオンセラーの記録を作ることとなる。チャートインは計56週 (再発盤含む) を記録し、B'zのシングルとしては最多である。オリコン集計による累計売上はミリオンを突破したが、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からはミリオンセラー認定を受けていない。
+オリコン集計では、B'z初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成したシングルである\[2\]\[3\]。そして本作より、20thシングル『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』まで13作連続ミリオンセラーの記録を作ることとなる。チャートインは計56週 (再発盤含む) を記録し、B'zのシングルとしては最多である。オリコン集計による累計売上はミリオンを突破したが、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からはミリオンセラー認定を受けていない。
 
 この曲で、1991年の第24回[日本有線大賞](../Page/日本有線大賞.md "wikilink")で「最多リクエスト歌手賞」を前年に続き2年連続で受賞した\[4\]。
 
@@ -17,7 +17,7 @@
 
 1.  **LADY NAVIGATION** (4:22)
       -
-        カネボウ化粧品 '91夏のイメージソングのために書き下ろされた楽曲。そのため、歌詞の中では当時のカネボウの商品だった「NAVI」がフレーズとして使われた\[5\]。
+        カネボウ化粧品 '91夏のイメージソングのために書き下ろされた楽曲で、歌詞の中では当時のカネボウの商品だった「NAVI」がフレーズとして使われた\[5\]。
         前2作とは異なり、再びデジタル・ナンバーとなっている。
         原曲は[オリジナル・アルバムには収録されておらず](../Page/スタジオ・アルバム.md "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で収録された。バージョン違いも存在する(後述)。
         ライブでは滅多に[演奏](../Page/演奏.md "wikilink")されることがなく、[2003年](../Page/2003年.md "wikilink")のシークレットライブ『B'z SHOWCASE 2003 "IT'S SHOWCASE\!\!"』のオープニングナンバーとして9年ぶり (オリジナルバージョンとしては『B'z LIVE-GYM '91〜'92 "IN THE LIFE"』以来11年ぶり) に演奏され、「(演奏したのは) イントロで皆がビックリすると思ったから、SHOWCASEっぽい曲だよね。」と述べている。その後2013年まで一切演奏されず、ファンクラブ会報内のインタビューでスタッフから「LADY NAVIGATIONは何でライブでやらないのですか？」と聞かれた際にメンバーは、「(ファンレター等に) LADY NAVIGATIONを演奏してくださいと書かれていないから」と返答していたが、2013年のデビュー25周年記念に開催されたツアー『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』で (レギュラーメニューとしては) 21年ぶりにオリジナルバージョンで演奏された。
@@ -37,7 +37,7 @@
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")
   - [明石昌夫](../Page/明石昌夫.md "wikilink"):全曲編曲
-  - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラムス](../Page/ドラムセット.md "wikilink")
   - [増田隆宣](../Page/増田隆宣.md "wikilink"):[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [B+U+M](https://ja.wikipedia.org/wiki/B'z#B+U+M "wikilink")
 
@@ -135,7 +135,7 @@
 
 ### 出典
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
 
 1.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P49より
 2.

@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[ミュウ \(AV女優\)](https://ja.wikipedia.org/wiki/ミュウ_\(AV女優\))から翻訳されています。
 
 
 **ミュウ** (みゅう、女性、[1977年](../Page/1977年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ) \[1\]は、主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動する実業家、[AV女優](../Page/AV女優.md "wikilink")（企画単体女優）、[AV監督](../Page/AV監督.md "wikilink")、元[ストリッパーである](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ミスターX](https://ja.wikipedia.org/wiki/ミスターX)から翻訳されています。
 
 
 **ミスターX**（ミスターエックス、Mister X、Mr. X）は、[正体](https://ja.wikipedia.org/wiki/正体 "wikilink")が明らかでない人物に対して用いられる[あだ名](../Page/愛称.md "wikilink")。自らミスターXを名乗る場合もある。

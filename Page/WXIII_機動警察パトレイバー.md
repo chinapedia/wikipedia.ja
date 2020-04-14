@@ -1,4 +1,4 @@
-> この記事は[WXIII ](https://ja.wikipedia.org/wiki/WXIII_)から翻訳されています。
+> この記事は[WXIII 機動警察パトレイバー](https://ja.wikipedia.org/wiki/WXIII_機動警察パトレイバー)から翻訳されています。
 
 
 『**WXIII 機動警察パトレイバー**』（ウェイステッドサーティーン きどうけいさつパトレイバー）は、『[機動警察パトレイバー](../Page/機動警察パトレイバー.md "wikilink")』の劇場公開アニメ作品第3弾である。[2001年](../Page/2001年.md "wikilink")製作の日本映画。上映時間100分。日本公開は[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")。同時上映は『[ミニパト](../Page/ミニパト.md "wikilink")』のシャッフル上映（1〜3話の内のどれか一作）。

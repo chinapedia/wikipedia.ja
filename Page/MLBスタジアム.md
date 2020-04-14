@@ -1,4 +1,4 @@
-> この記事は[MLB](https://ja.wikipedia.org/wiki/MLB)から翻訳されています。
+> この記事は[MLBスタジアム](https://ja.wikipedia.org/wiki/MLBスタジアム)から翻訳されています。
 
 
 **MLBスタジアム**は、[TBS系の](../Page/TBSテレビ.md "wikilink")[メジャーリーグ中継タイトルである](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。正確には「**MLBスタジアム2012**」のように後ろに西暦が入る。

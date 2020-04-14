@@ -1,4 +1,4 @@
-> この記事は[TSA](https://ja.wikipedia.org/wiki/TSA)から翻訳されています。
+> この記事は[TSAロック](https://ja.wikipedia.org/wiki/TSAロック)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Suitcase2.jpg "wikilink") **TSAロック**（ティーエスエーロック）とは、[アメリカ合衆国国土安全保障省](../Page/アメリカ合衆国国土安全保障省.md "wikilink")の[運輸保安庁](https://ja.wikipedia.org/wiki/運輸保安庁 "wikilink")から認定を受けた、旅具等に備えられた[施錠機構の総称である](https://ja.wikipedia.org/wiki/鍵 "wikilink")。「赤い[菱形](../Page/菱形.md "wikilink")（[TravelSentry](http://www.travelsentry.org/jp/) 社製）」または「赤い[松明](../Page/たいまつ.md "wikilink")（[SafeSkies](http://www.safeskieslocks.com/) 社製）」のマークが付いている。

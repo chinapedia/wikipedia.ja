@@ -1,4 +1,4 @@
-> この記事は[Please \(\)](https://ja.wikipedia.org/wiki/Please_\(\))から翻訳されています。
+> この記事は[Please \(工藤静香の曲\)](https://ja.wikipedia.org/wiki/Please_\(工藤静香の曲\))から翻訳されています。
 
 
 「**Please**」（プリーズ）は、[工藤静香](../Page/工藤静香.md "wikilink")通算13枚目の[シングル](../Page/シングル.md "wikilink")。1991年5月15日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

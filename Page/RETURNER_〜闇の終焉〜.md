@@ -1,4 +1,4 @@
-> この記事は[RETURNER ](https://ja.wikipedia.org/wiki/RETURNER_)から翻訳されています。
+> この記事は[RETURNER 〜闇の終焉〜](https://ja.wikipedia.org/wiki/RETURNER_〜闇の終焉〜)から翻訳されています。
 
 
 「**RETURNER 〜闇の終焉〜**」（リターナー やみのしゅうえん）は、[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")が発表した楽曲、及び同曲を収録したシングル。通算27枚目のシングルである。発売元は[日本クラウン](../Page/日本クラウン.md "wikilink")。

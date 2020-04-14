@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[タイムクロスA](https://ja.wikipedia.org/wiki/タイムクロスA)から翻訳されています。
 
 
 **タイムクロスA**は、[2000年](../Page/2000年.md "wikilink")7月に[山佐](../Page/山佐.md "wikilink")が開発・販売したパチスロ機。

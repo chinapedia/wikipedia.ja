@@ -1,4 +1,4 @@
-> この記事は[BWF](https://ja.wikipedia.org/wiki/BWF)から翻訳されています。
+> この記事は[BWFスーパーシリーズ](https://ja.wikipedia.org/wiki/BWFスーパーシリーズ)から翻訳されています。
 
 
 [Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg](https://ja.wikipedia.org/wiki/File:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg "fig:Yonex_IFB_2013_-_Eightfinal_-_Chan_Peng_Soon_-_Goh_Liu_Ying_—_Chris_Langridge_-_Heather_Olver_26.jpg") **BWFスーパーシリーズ**（BWF Super Series）は[世界バドミントン連盟](../Page/世界バドミントン連盟.md "wikilink")（BWF）が2007年から2017年まで実施していた年間[バドミントン](../Page/バドミントン.md "wikilink")トーナメントシリーズの名称\[1\]。世界ランキングの上位に位置していないと予選にすらエントリーが難しい、オリンピックや世界選手権に次ぐ最高峰の大会である。

@@ -50,7 +50,7 @@ Cy-Rim rev.の活動休止から1週間後、2010年6月25日に発売されたP
 
 ## 外部リンク
 
-  -   - [公式ブログ](http://ameblo.jp/cy-rim/)
+  -   - [公式ブログ](https://ameblo.jp/cy-rim/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:ドワンゴのアーティスト](https://ja.wikipedia.org/wiki/Category:ドワンゴのアーティスト "wikilink")
 

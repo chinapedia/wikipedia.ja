@@ -1,4 +1,4 @@
-> この記事は[W-inds.1st message](https://ja.wikipedia.org/wiki/W-inds.1st_message)から翻訳されています。
+> この記事は[W-inds.〜1st message〜](https://ja.wikipedia.org/wiki/W-inds.〜1st_message〜)から翻訳されています。
 
 
 『**w-inds. 〜1st message〜**』（ウィンズ ファースト・メッセージ）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[パッケージ](../Page/パッケージ.md "wikilink")、[ジャケット](../Page/ジャケット.md "wikilink")違いの通常盤、初回盤（共にCDのみ）の2形態で[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売。

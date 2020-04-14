@@ -1,4 +1,4 @@
-> この記事は[KDE](https://ja.wikipedia.org/wiki/KDE)から翻訳されています。
+> この記事は[昭和KDE](https://ja.wikipedia.org/wiki/昭和KDE)から翻訳されています。
 
 
 **昭和KDE株式会社**（しょうわケーディーイー、）は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ガラス繊維](../Page/ガラス繊維.md "wikilink")、[煉瓦](../Page/煉瓦.md "wikilink")などの工業材料を製造、販売する企業である。[キョウデン](../Page/キョウデン.md "wikilink")グループに属する。

@@ -1,4 +1,4 @@
-> この記事は[AT4 \(\)](https://ja.wikipedia.org/wiki/AT4_\(\))から翻訳されています。
+> この記事は[AT4 \(携行対戦車弾\)](https://ja.wikipedia.org/wiki/AT4_\(携行対戦車弾\))から翻訳されています。
 
 
 **AT-4**は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[サーブAB社が開発した単発使い捨ての](../Page/SAAB.md "wikilink")[滑腔式](../Page/滑腔砲.md "wikilink")[無反動砲](../Page/無反動砲.md "wikilink")である。[アメリカ軍](../Page/アメリカ軍.md "wikilink")など[NATO加盟国の間で](../Page/北大西洋条約機構.md "wikilink")[M72 LAWの後継装備品として採用されている](../Page/M72_LAW.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[ワンダーJAPAN](https://ja.wikipedia.org/wiki/ワンダーJAPAN)から翻訳されています。
 
 
 **ワンダーJAPAN**（ワンダージャパン）は、2005年12月に創刊された[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")が発行した[雑誌](../Page/雑誌.md "wikilink")。三才ムックの中での発行。発売は当初3・6・9・12月の17日だったが、17号（2010年12月刊行）より6月と12月の年2回刊行となった。20号（2012年6月）の刊行を最後に休刊。現在、復刊に向け準備中。

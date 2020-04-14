@@ -1,4 +1,4 @@
-> この記事は[HOWLING \(abingdon boys school\)](https://ja.wikipedia.org/wiki/HOWLING_\(abingdon_boys_school\))から翻訳されています。
+> この記事は[HOWLING \(abingdon boys schoolの曲\)](https://ja.wikipedia.org/wiki/HOWLING_\(abingdon_boys_schoolの曲\))から翻訳されています。
 
 
 「**HOWLING**」（ハウリング）は、[abingdon boys schoolの](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")2枚目のシングル。

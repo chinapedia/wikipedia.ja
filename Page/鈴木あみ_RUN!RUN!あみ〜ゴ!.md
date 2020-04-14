@@ -1,4 +1,4 @@
-> この記事は[ RUN!RUN!!](https://ja.wikipedia.org/wiki/_RUN!RUN!!)から翻訳されています。
+> この記事は[鈴木あみ RUN!RUN!あみ〜ゴ!](https://ja.wikipedia.org/wiki/鈴木あみ_RUN!RUN!あみ〜ゴ!)から翻訳されています。
 
 
 **鈴木あみ RUN\!RUN\!あみ〜ゴ\!**（すずきあみ らんらんあみーご）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")でかつて放送されたラジオ番組。歌手の鈴木あみ（現:[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")放送開始、[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")最終回。

@@ -1,4 +1,4 @@
-> この記事は[Courage](https://ja.wikipedia.org/wiki/Courage)から翻訳されています。
+> この記事は[Courage〜クゥ・ラージュ〜](https://ja.wikipedia.org/wiki/Courage〜クゥ・ラージュ〜)から翻訳されています。
 
 
 『**Courage〜クゥ・ラージュ〜**』は、[小森まなみ](../Page/小森まなみ.md "wikilink")の5作目の[アルバム](../Page/アルバム.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に、[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より発売された。

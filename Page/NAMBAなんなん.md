@@ -1,4 +1,4 @@
-> この記事は[NAMBA](https://ja.wikipedia.org/wiki/NAMBA)から翻訳されています。
+> この記事は[NAMBAなんなん](https://ja.wikipedia.org/wiki/NAMBAなんなん)から翻訳されています。
 
 
 **NAMBAなんなん**（なんばなんなん）は、[大阪市](../Page/大阪市.md "wikilink")の[第三セクター](../Page/第三セクター.md "wikilink")から2018年4月1日の民間会社化によって[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")の子会社となった[大阪地下街](../Page/大阪地下街.md "wikilink")株式会社の運営管理する[地下街](../Page/地下街.md "wikilink")のひとつ\[1\]。
@@ -6,7 +6,7 @@
 ## 最寄駅
 
   - [南海電気鉄道](../Page/南海電気鉄道.md "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(南海\) "wikilink")
-  - [Osaka Metro](https://ja.wikipedia.org/wiki/Osaka_Metro "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(大阪市高速電気軌道\) "wikilink")
+  - [Osaka Metro](https://ja.wikipedia.org/wiki/Osaka_Metro "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")
   - [近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")・[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink") [大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")
   - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[JR難波駅](https://ja.wikipedia.org/wiki/JR難波駅 "wikilink")
 

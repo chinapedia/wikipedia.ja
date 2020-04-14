@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE テーブルゲーム](https://ja.wikipedia.org/wiki/THE_テーブルゲーム)から翻訳されています。
 
 
 **THE テーブルゲーム**は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より発売されている[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")のコンピュータ[テーブルゲーム](../Page/テーブルゲーム.md "wikilink")のシリーズ。主な開発メーカーは[悠紀エンタープライズ](../Page/悠紀エンタープライズ.md "wikilink")\[1\]。

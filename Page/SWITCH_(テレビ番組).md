@@ -1,4 +1,4 @@
-> この記事は[SWITCH \(\)](https://ja.wikipedia.org/wiki/SWITCH_\(\))から翻訳されています。
+> この記事は[SWITCH \(テレビ番組\)](https://ja.wikipedia.org/wiki/SWITCH_\(テレビ番組\))から翻訳されています。
 
 
 『**SWITCH**』（スイッチ）は、[1994年](../Page/1994年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで、[フジテレビで放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")。

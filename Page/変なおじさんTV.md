@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[変なおじさんTV](https://ja.wikipedia.org/wiki/変なおじさんTV)から翻訳されています。
 
 
 『**変なおじさんTV**』（へんなおじさんティービー）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2000年](../Page/2000年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで毎週[水曜日](../Page/水曜日.md "wikilink")深夜に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[イザワオフィス](../Page/イザワオフィス.md "wikilink")制作。全89回。
@@ -502,22 +502,22 @@
 
 曲名、アーティスト名、レーベル等がクレジットされ、[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が[スタッフロールとともに流れる](../Page/クレジットタイトル.md "wikilink")。
 
-|    | 使用期間                                  | 曲名                                                                              | アーティスト名                                                                | レーベル等                                                                   |
-| -- | ------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1  | 第1回（2000年10月11日） - 第8回（2000年11月29日）   | Fake                                                                            | [VIRUS](https://ja.wikipedia.org/wiki/VIRUS_\(バンド\) "wikilink")        | [BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")         |
-| 2  | 第9回（2000年12月6日） - 第15回（2001年1月31日）    | 真冬の月                                                                            | [河口恭吾](../Page/河口恭吾.md "wikilink")                                     | [ワイズビジョナリー](https://ja.wikipedia.org/wiki/ワイズビジョナリー "wikilink")         |
-| 3  | 第16回（2001年2月7日） - 第19回（2001年2月28日）    | 壊れてしまう前に                                                                        | [奈津子](https://ja.wikipedia.org/wiki/大阪パフォーマンスドール#第2次追加メンバー "wikilink") | [徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")               |
-| 4  | 第20回（2001年3月7日） - 第26回（2001年4月25日）    | 時代                                                                              |                                                                        |                                                                         |
-| 5  | 第27回（2001年5月2日） - 第35回（2001年6月27日）    | 鳥カゴ                                                                             |                                                                        |                                                                         |
-| 6  | 第36回（2001年7月4日） - 第44回（2001年8月29日）    | i 〜crossin' the star〜                                                           | [木村由姫](https://ja.wikipedia.org/wiki/木村由姫 "wikilink")                  | [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")           |
-| 7  | 第45回（2001年9月5日） - 第47回（2001年9月26日）    | イッテコイノチャラ                                                                       | [THE ヒロミと茶番](../Page/ヒロミ.md "wikilink")                                | [ジェイ・ワンレコード](https://ja.wikipedia.org/wiki/ジェイ・ワンレコード "wikilink")       |
-| 8  | 第48回（2001年10月10日） - 第55回（2001年11月28日） | 恋のホラーショー                                                                        | [ピカピカ](https://ja.wikipedia.org/wiki/ピカピカ_\(音楽グループ\) "wikilink")       | [日本クラウン](../Page/日本クラウン.md "wikilink")                                  |
-| 9  | 第56回（2001年12月5日） - 第58回（2001年12月19日）  | [Victory](https://ja.wikipedia.org/wiki/:en:Victory_\(Bond_single\) "wikilink") | [bond](../Page/ボンド_\(バンド\).md "wikilink")                              | [ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")              |
-| 10 | 第59回（2002年1月9日） - 第66回（2002年2月27日）    | [銀座あたりでギン\!ギン\!ギン\!](https://ja.wikipedia.org/wiki/銀座あたりでギン!ギン!ギン! "wikilink")  | [けん♀](../Page/研ナオコ.md "wikilink")[♂けん](../Page/志村けん.md "wikilink")     | PRODUCED BY [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")       |
-| 11 | 第67回（2002年3月13日） - 第69回（2002年3月27日）   | 林檎のうさぎ                                                                          | [山田千鶴](../Page/山田千鶴.md "wikilink")                                     | [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink") |
-| 12 | 第70回（2002年4月10日） - 第80回（2002年6月26日）   | [アイ〜ン体操](https://ja.wikipedia.org/wiki/アイ〜ン体操/アイ〜ン!ダンスの唄 "wikilink")            | [バカ殿様とミニモニ姫。](../Page/ミニモニ。.md "wikilink")                             | [zetima](https://ja.wikipedia.org/wiki/zetima "wikilink")               |
-| 13 | 第81回（2002年7月3日） - 第84回（2002年8月7日）     | 席替え                                                                             | [推定少女](../Page/推定少女.md "wikilink")                                     | [Epic レコードジャパン](../Page/エピックレコードジャパン.md "wikilink")                     |
-| 14 | 第85回（2002年8月14日） - 第89回（2002年9月25日）   | Be-u                                                                            | Bu-Lingery\[2\]                                                        | ANGEL LIP RECORDS                                                       |
+|    | 使用期間                                  | 曲名                                                                              | アーティスト名                                                                | レーベル等                                                                  |
+| -- | ------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 1  | 第1回（2000年10月11日） - 第8回（2000年11月29日）   | Fake                                                                            | [VIRUS](https://ja.wikipedia.org/wiki/VIRUS_\(バンド\) "wikilink")        | [BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")        |
+| 2  | 第9回（2000年12月6日） - 第15回（2001年1月31日）    | 真冬の月                                                                            | [河口恭吾](../Page/河口恭吾.md "wikilink")                                     | [ワイズビジョナリー](https://ja.wikipedia.org/wiki/ワイズビジョナリー "wikilink")        |
+| 3  | 第16回（2001年2月7日） - 第19回（2001年2月28日）    | 壊れてしまう前に                                                                        | [奈津子](https://ja.wikipedia.org/wiki/大阪パフォーマンスドール#第2次追加メンバー "wikilink") | [徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")              |
+| 4  | 第20回（2001年3月7日） - 第26回（2001年4月25日）    | 時代                                                                              |                                                                        |                                                                        |
+| 5  | 第27回（2001年5月2日） - 第35回（2001年6月27日）    | 鳥カゴ                                                                             |                                                                        |                                                                        |
+| 6  | 第36回（2001年7月4日） - 第44回（2001年8月29日）    | i 〜crossin' the star〜                                                           | [木村由姫](https://ja.wikipedia.org/wiki/木村由姫 "wikilink")                  | [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")          |
+| 7  | 第45回（2001年9月5日） - 第47回（2001年9月26日）    | イッテコイノチャラ                                                                       | [THE ヒロミと茶番](../Page/ヒロミ.md "wikilink")                                | [ジェイ・ワンレコード](https://ja.wikipedia.org/wiki/ジェイ・ワンレコード "wikilink")      |
+| 8  | 第48回（2001年10月10日） - 第55回（2001年11月28日） | 恋のホラーショー                                                                        | [ピカピカ](https://ja.wikipedia.org/wiki/ピカピカ_\(音楽グループ\) "wikilink")       | [日本クラウン](../Page/日本クラウン.md "wikilink")                                 |
+| 9  | 第56回（2001年12月5日） - 第58回（2001年12月19日）  | [Victory](https://ja.wikipedia.org/wiki/:en:Victory_\(Bond_single\) "wikilink") | [bond](../Page/ボンド_\(バンド\).md "wikilink")                              | [ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")             |
+| 10 | 第59回（2002年1月9日） - 第66回（2002年2月27日）    | [銀座あたりでギン\!ギン\!ギン\!](https://ja.wikipedia.org/wiki/銀座あたりでギン!ギン!ギン! "wikilink")  | [けん♀](../Page/研ナオコ.md "wikilink")[♂けん](../Page/志村けん.md "wikilink")     | PRODUCED BY [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")\[2\] |
+| 11 | 第67回（2002年3月13日） - 第69回（2002年3月27日）   | 林檎のうさぎ                                                                          | [山田千鶴](../Page/山田千鶴.md "wikilink")                                     | [ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")          |
+| 12 | 第70回（2002年4月10日） - 第80回（2002年6月26日）   | [アイ〜ン体操](https://ja.wikipedia.org/wiki/アイ〜ン体操/アイ〜ン!ダンスの唄 "wikilink")            | [バカ殿様とミニモニ姫。](../Page/ミニモニ。.md "wikilink")                             | [zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")  |
+| 13 | 第81回（2002年7月3日） - 第84回（2002年8月7日）     | 席替え                                                                             | [推定少女](../Page/推定少女.md "wikilink")                                     | [Epic レコードジャパン](../Page/エピックレコードジャパン.md "wikilink")                    |
+| 14 | 第85回（2002年8月14日） - 第89回（2002年9月25日）   | Be-u                                                                            | Bu-Lingery\[3\]                                                        | ANGEL LIP RECORDS                                                      |
 
 ## スタッフ
 
@@ -564,4 +564,5 @@
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:志村けんのだいじょうぶだぁ](https://ja.wikipedia.org/wiki/Category:志村けんのだいじょうぶだぁ "wikilink")
 
 1.  ゲストは西山喜久恵・千野志麻（\#29）田代まさし（\#44）。第29回のゲスト出演部分は第69回の総集編で一部放送された。第44回は第43回の次回予告映像でも出演部分はカット。また、第37回でゲストトークの話題に登場した[押尾学](https://ja.wikipedia.org/wiki/押尾学 "wikilink")の画像にもボカシが施された。
-2.  クレジットでは「Bū-Lingely」と表示された。
+2.  レーベルは番組内ではクレジットされなかったが実際は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
+3.  クレジットでは「Bū-Lingely」と表示された。

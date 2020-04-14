@@ -1,4 +1,4 @@
-> この記事は[HERTZ IIIDJ BEAT](https://ja.wikipedia.org/wiki/HERTZ_IIIDJ_BEAT)から翻訳されています。
+> この記事は[HERTZ III〜DJ BEAT〜](https://ja.wikipedia.org/wiki/HERTZ_III〜DJ_BEAT〜)から翻訳されています。
 
 
 『**HERTZ III〜DJ BEAT〜**』（ヘルツ サード ディージェー ビート）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の3作目の[アルバム](../Page/アルバム.md "wikilink")である。[1989年](../Page/1989年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。

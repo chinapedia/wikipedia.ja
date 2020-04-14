@@ -1,4 +1,4 @@
-> この記事は[EAR](https://ja.wikipedia.org/wiki/EAR)から翻訳されています。
+> この記事は[EARステーション〜耳の穴](https://ja.wikipedia.org/wiki/EARステーション〜耳の穴)から翻訳されています。
 
 
 **EARステーション〜耳の穴**（えあすてーしょん〜みみのあな）は[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")〜[1993年](../Page/1993年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFN系列で毎週](../Page/全国FM放送協議会.md "wikilink")[月曜](../Page/月曜日.md "wikilink")〜[木曜の](../Page/木曜日.md "wikilink")22:00〜23:25に放送された[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")。

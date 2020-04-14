@@ -1,4 +1,4 @@
-> この記事は[!miyazaki](https://ja.wikipedia.org/wiki/!miyazaki)から翻訳されています。
+> この記事は[アッパレ!miyazaki](https://ja.wikipedia.org/wiki/アッパレ!miyazaki)から翻訳されています。
 
 
 『**アッパレ\!miyazaki**』（アッパレ\!みやざき）は、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRTテレビ）で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。

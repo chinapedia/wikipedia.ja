@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK亀田ラジオ放送所](https://ja.wikipedia.org/wiki/NHK亀田ラジオ放送所)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-03.jpg "wikilink") **NHK亀田ラジオ放送所**（エヌエイチケイかめだラジオほうそうじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")にある[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")の[AMラジオ放送の](../Page/中波放送.md "wikilink")[送信施設](../Page/送信所.md "wikilink")。

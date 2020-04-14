@@ -57,4 +57,8 @@ DVDには、タイトル曲の[ビデオクリップ](https://ja.wikipedia.org/w
 
   - 『[secret](https://ja.wikipedia.org/wiki/secret_\(倖田來未のアルバム\) "wikilink")』
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ Hot Stuff feat. KM-MARKIT](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004168)
+
 [Category:2005年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2005年のコラボレーション・シングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")

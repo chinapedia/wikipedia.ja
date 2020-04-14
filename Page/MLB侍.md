@@ -1,4 +1,4 @@
-> この記事は[MLB](https://ja.wikipedia.org/wiki/MLB)から翻訳されています。
+> この記事は[MLB侍](https://ja.wikipedia.org/wiki/MLB侍)から翻訳されています。
 
 
 『**MLB侍**』（エムエルビーざむらい）は、[2007年](../Page/2007年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")（14日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")（27日深夜）まで[TBSで放送された](../Page/TBSテレビ.md "wikilink")[野球](../Page/野球.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

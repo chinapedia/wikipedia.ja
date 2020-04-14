@@ -1,4 +1,4 @@
-> この記事は[THANKS \(w-inds.\)](https://ja.wikipedia.org/wiki/THANKS_\(w-inds.\))から翻訳されています。
+> この記事は[THANKS \(w-inds.のアルバム\)](https://ja.wikipedia.org/wiki/THANKS_\(w-inds.のアルバム\))から翻訳されています。
 
 
 『**THANKS**』（サンクス）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の5枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[ジャケット](../Page/ジャケット.md "wikilink")・色違いの初回盤・通常盤（共にCDのみ）の2形態で[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。

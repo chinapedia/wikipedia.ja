@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[淡路三原テレビ・FM中継局](https://ja.wikipedia.org/wiki/淡路三原テレビ・FM中継局)から翻訳されています。
 
 
 **淡路三原テレビ・FM中継局**（あわじみはらテレビ・エフエムちゅうけいきょく）は、[兵庫県](../Page/兵庫県.md "wikilink")[南あわじ市](../Page/南あわじ市.md "wikilink")中条広田にある[テレビ](../Page/テレビ.md "wikilink")および[ラジオ](../Page/ラジオ.md "wikilink")放送の[中継局](../Page/中継局.md "wikilink")である。

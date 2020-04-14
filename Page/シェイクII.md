@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[シェイクII](https://ja.wikipedia.org/wiki/シェイクII)から翻訳されています。
 
 
 **シェイクII**（シェイクツー）は[2007年](../Page/2007年.md "wikilink")に[大都技研](https://ja.wikipedia.org/wiki/大都技研 "wikilink")が販売した[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。4号機の『[シェイク](../Page/シェイク_\(パチスロ\).md "wikilink")』の後継機で、大都技研初の5号機。『[吉宗](../Page/吉宗_\(パチスロ\).md "wikilink")』、『[押忍\!番長](../Page/押忍!番長.md "wikilink")』、『[秘宝伝](../Page/秘宝伝.md "wikilink")』でおなじみのシャッター付き[液晶](../Page/液晶.md "wikilink")機。新筐体の液晶演出には「スゴビ」（凄い+ビジョンを掛け合わせた[造語](../Page/造語.md "wikilink")）と呼ばれるものがあり、チャンスステージ及びそこから発展したボーナス時に液晶画面に奥行きが生じる。[保通協における形式名は](../Page/保安通信協会.md "wikilink")「シェイクII2」。

@@ -1,4 +1,4 @@
-> この記事は[VX](https://ja.wikipedia.org/wiki/VX)から翻訳されています。
+> この記事は[駐車場経営者VX襲撃事件](https://ja.wikipedia.org/wiki/駐車場経営者VX襲撃事件)から翻訳されています。
 
 
 **駐車場経営者VX襲撃事件**（ちゅうしゃじょうけいえいしゃVXしゅうげきじけん）とは、[1994年](../Page/1994年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")で発生した[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")信者による[殺人未遂](https://ja.wikipedia.org/wiki/殺人未遂 "wikilink")[事件](../Page/事件.md "wikilink")。

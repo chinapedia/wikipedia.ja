@@ -1,4 +1,4 @@
-> この記事は[CW](https://ja.wikipedia.org/wiki/CW)から翻訳されています。
+> この記事は[CWテレビジョンネットワーク](https://ja.wikipedia.org/wiki/CWテレビジョンネットワーク)から翻訳されています。
 
 
 **CWテレビジョンネットワーク**（The CW Television Network）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[地上波](../Page/地上波.md "wikilink")[テレビ・ネットワーク](../Page/ネットワーク_\(放送\).md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に開局。[CBSコーポレーション](../Page/CBSコーポレーション.md "wikilink")（**C**BS Corporation）と[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")（**W**arner Bros.）の合弁企業である。[ニールセン社の視聴者数ランキングなどのネットワーク部門の対象である各社のうち](https://ja.wikipedia.org/wiki/:en:Nielsen_Company "wikilink")、「The」付で表記される唯一のテレビ・ネットワークである（旧「The WB」と同様）。

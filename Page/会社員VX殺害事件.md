@@ -1,4 +1,4 @@
-> この記事は[VX](https://ja.wikipedia.org/wiki/VX)から翻訳されています。
+> この記事は[会社員VX殺害事件](https://ja.wikipedia.org/wiki/会社員VX殺害事件)から翻訳されています。
 
 
 **会社員VX殺害事件**（かいしゃいんVXさつがいじけん）とは、[1994年](../Page/1994年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発生した[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")信者による[殺人事件](https://ja.wikipedia.org/wiki/殺人事件 "wikilink")。本事件の犠牲者は世界で初の[VXによる記録された死者とされている](../Page/VXガス.md "wikilink")\[1\]。

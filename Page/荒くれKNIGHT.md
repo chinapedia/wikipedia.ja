@@ -1,4 +1,4 @@
-> この記事は[KNIGHT](https://ja.wikipedia.org/wiki/KNIGHT)から翻訳されています。
+> この記事は[荒くれKNIGHT](https://ja.wikipedia.org/wiki/荒くれKNIGHT)から翻訳されています。
 
 
 『**荒くれKNIGHT**』（あらくれナイト）は、[吉田聡](../Page/吉田聡.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

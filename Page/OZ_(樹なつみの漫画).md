@@ -1,4 +1,4 @@
-> この記事は[OZ \(\)](https://ja.wikipedia.org/wiki/OZ_\(\))から翻訳されています。
+> この記事は[OZ \(樹なつみの漫画\)](https://ja.wikipedia.org/wiki/OZ_\(樹なつみの漫画\))から翻訳されています。
 
 
 『**OZ**』（オズ）は、[樹なつみ](../Page/樹なつみ.md "wikilink")原作のSFコミック作品。またそれを原作とするOVA、ラジオドラマ、舞台作品である。

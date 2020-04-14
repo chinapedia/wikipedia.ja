@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[C・R・ボクサー](https://ja.wikipedia.org/wiki/C・R・ボクサー)から翻訳されています。
 
 
 **チャールズ・ラルフ・ボクサー**（**Charles Ralph Boxer**、[1904年](../Page/1904年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、[ワイト島](../Page/ワイト島.md "wikilink")[サンダウン](https://ja.wikipedia.org/wiki/サンダウン "wikilink")-[2000年](../Page/2000年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、[ハートフォードシャー州](https://ja.wikipedia.org/wiki/ハートフォードシャー州 "wikilink")[セント・オールバンズ](https://ja.wikipedia.org/wiki/セント・オールバンズ "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史学者](https://ja.wikipedia.org/wiki/歴史学者 "wikilink")。[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")と[ポルトガル](../Page/ポルトガル.md "wikilink")の海上貿易・帝国支配に関して著名。

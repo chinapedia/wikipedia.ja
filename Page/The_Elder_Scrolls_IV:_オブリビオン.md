@@ -1,4 +1,4 @@
-> この記事は[The Elder Scrolls IV: ](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_IV:_)から翻訳されています。
+> この記事は[The Elder Scrolls IV: オブリビオン](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_IV:_オブリビオン)から翻訳されています。
 
 
 『**The Elder Scrolls IV: Oblivion**』（ジ・エルダー・スクロールズ・フォー・オブリビオン）は、[Bethesda Game Studioが開発した](https://ja.wikipedia.org/wiki/ベセスダ・ソフトワークス "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。

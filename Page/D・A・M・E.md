@@ -1,4 +1,4 @@
-> この記事は[DAME](https://ja.wikipedia.org/wiki/DAME)から翻訳されています。
+> この記事は[D・A・M・E](https://ja.wikipedia.org/wiki/D・A・M・E)から翻訳されています。
 
 
 『**D・A・M・E**』(だめ)は、[前田亘輝](../Page/前田亘輝.md "wikilink")の1枚目のシングル。CDコードはCSDL-3208。

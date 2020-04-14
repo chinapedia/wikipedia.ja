@@ -1,4 +1,4 @@
-> この記事は[SHF](https://ja.wikipedia.org/wiki/SHF)から翻訳されています。
+> この記事は[垂水区内SHFテレビ中継局](https://ja.wikipedia.org/wiki/垂水区内SHFテレビ中継局)から翻訳されています。
 
 
 **垂水区内SHFテレビ中継局**（たるみくないSHFテレビちゅうけいきょく）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[垂水区](../Page/垂水区.md "wikilink")に置かれていた[SHF](../Page/センチメートル波.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[CRV](https://ja.wikipedia.org/wiki/CRV)から翻訳されています。
+> この記事は[CRサンダーV](https://ja.wikipedia.org/wiki/CRサンダーV)から翻訳されています。
 
 
 **CRサンダーV**（シーアールサンダーブイ）は、[2007年](../Page/2007年.md "wikilink")7月に[アルゼがメーシーブランドで発売した](../Page/ユニバーサルエンターテインメント.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機（[CR機](../Page/CR機.md "wikilink")）。業界初の「スロパチンコ」である。

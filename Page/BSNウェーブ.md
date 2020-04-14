@@ -1,4 +1,4 @@
-> この記事は[BSN](https://ja.wikipedia.org/wiki/BSN)から翻訳されています。
+> この記事は[BSNウェーブ](https://ja.wikipedia.org/wiki/BSNウェーブ)から翻訳されています。
 
 
 **株式会社BSNウェーブ**は、不動産、建築物管理、ラジオ・テレビ番組制作などを手掛ける[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の全額出資による企業である。

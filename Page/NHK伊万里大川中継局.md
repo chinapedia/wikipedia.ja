@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK伊万里大川中継局](https://ja.wikipedia.org/wiki/NHK伊万里大川中継局)から翻訳されています。
 
 
 **NHK伊万里大川中継局**（えぬえいちけいいまりおおかわちゅうけいきょく）は、[佐賀県](../Page/佐賀県.md "wikilink")[伊万里市](../Page/伊万里市.md "wikilink")に置かれていた[NHK佐賀放送局](../Page/NHK佐賀放送局.md "wikilink")の[地上アナログテレビジョン放送の](../Page/NTSC.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

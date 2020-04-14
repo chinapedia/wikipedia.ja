@@ -1,4 +1,4 @@
-> この記事は[OEL](https://ja.wikipedia.org/wiki/OEL)から翻訳されています。
+> この記事は[OELマンガ](https://ja.wikipedia.org/wiki/OELマンガ)から翻訳されています。
 
 
 **OELマンガ**（オーイーエルマンガ）とは、最初から英語で書かれた日本式の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のこと。OELは「Original English-language」の略。日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を英語に翻訳したMangaと区別して用いられる語。ただし、mangaスタイルの画風やコマ割等を取り入れた[アメリカンコミックス](https://ja.wikipedia.org/wiki/アメリカンコミックス "wikilink")との境界線はあいまいであり、厳密な定義は難しい。

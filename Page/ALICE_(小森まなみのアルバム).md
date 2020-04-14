@@ -1,4 +1,4 @@
-> この記事は[ALICE \(\)](https://ja.wikipedia.org/wiki/ALICE_\(\))から翻訳されています。
+> この記事は[ALICE \(小森まなみのアルバム\)](https://ja.wikipedia.org/wiki/ALICE_\(小森まなみのアルバム\))から翻訳されています。
 
 
 『**ALICE**』（アリス）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の4作目の[アルバム](../Page/アルバム.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。

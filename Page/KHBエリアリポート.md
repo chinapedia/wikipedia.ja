@@ -1,4 +1,4 @@
-> この記事は[KHB](https://ja.wikipedia.org/wiki/KHB)から翻訳されています。
+> この記事は[KHBエリアリポート](https://ja.wikipedia.org/wiki/KHBエリアリポート)から翻訳されています。
 
 
 『**KHBエリアリポート**』（ケイエイチビーエリアリポート）は、[1992年](../Page/1992年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で平日夕方に放送されていた[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

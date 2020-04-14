@@ -1,7 +1,7 @@
 > この記事は[DAISHI DANCE](https://ja.wikipedia.org/wiki/DAISHI_DANCE)から翻訳されています。
 
 
-**DAISHI DANCE**（ダイシ・ダンス、[1976年](../Page/1976年.md "wikilink")-）は、日本の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、リミキサー。
+**DAISHI DANCE**（ダイシ・ダンス、[1976年](../Page/1976年.md "wikilink") - ）は、日本の男性[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、リミキサー。
 
 ## 概要
 
@@ -936,4 +936,4 @@ AVCD-23907</p></td>
   - [SOUND FINDER Interview with DAISHI DANCE](http://blog.soundfinder.jp/soundfinder/2009/09/interview.html)
   - [SAPPORO MUSIC NAKED　インタビュー](http://www.sapporo-mn.com/m/naked/naked.php?naked_id=227_1)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[KEIRIN\'85](https://ja.wikipedia.org/wiki/KEIRIN\'85)から翻訳されています。
+> この記事は[KEIRINグランプリ\'85](https://ja.wikipedia.org/wiki/KEIRINグランプリ\'85)から翻訳されています。
 
 
 **KEIRINグランプリ'85**（けいりんぐらんぷりはちじゅうご）は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](../Page/立川競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金1000万円。

@@ -1,11 +1,11 @@
-> この記事は[VX](https://ja.wikipedia.org/wiki/VX)から翻訳されています。
+> この記事は[オウム真理教被害者の会会長VX襲撃事件](https://ja.wikipedia.org/wiki/オウム真理教被害者の会会長VX襲撃事件)から翻訳されています。
 
 
 **オウム真理教被害者の会会長VX襲撃事件**（オウムしんりきょうひがいしゃのかいかいちょうVXしゅうげきじけん）とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[港区で発生した](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")信者による[殺人未遂](https://ja.wikipedia.org/wiki/殺人罪_\(日本\)#未遂 "wikilink")[事件](../Page/事件.md "wikilink")。
 
 ## 概要
 
-この事件の[被害者](../Page/被害者.md "wikilink")[永岡弘行](https://ja.wikipedia.org/wiki/永岡弘行 "wikilink")（当時56歳）は、[長男がオウム真理教に出家して以来](https://ja.wikipedia.org/wiki/永岡辰哉 "wikilink")、[出家信者の親と](https://ja.wikipedia.org/wiki/サマナ "wikilink")[弁護士](../Page/弁護士.md "wikilink")[坂本堤](../Page/坂本堤.md "wikilink")によって結成された「オウム真理教被害者の会」の会長を務め、長男の脱会後や坂本堤の「失踪」後も被害者の会会長として引き続き活動を継続していたため、教団にとって主要な敵対的人物であった。オウムは連日永岡に無言電話や[梵字](https://ja.wikipedia.org/wiki/梵字 "wikilink")による仄めかしなどの嫌がらせを行い、永岡の会社にも「取引先に抗議する」などと脅し退職を余儀なくさせた\[1\]。
+この事件の[被害者](../Page/被害者.md "wikilink")[永岡弘行](https://ja.wikipedia.org/wiki/永岡弘行 "wikilink")（当時56歳）は、[長男がオウム真理教に出家して以来](https://ja.wikipedia.org/wiki/永岡辰哉 "wikilink")、[出家信者の親と](https://ja.wikipedia.org/wiki/サマナ "wikilink")[弁護士](../Page/弁護士.md "wikilink")[坂本堤](../Page/坂本堤.md "wikilink")によって結成された「オウム真理教被害者の会」の会長を務め、長男の脱会後や坂本堤の「[失踪](https://ja.wikipedia.org/wiki/坂本弁護士一家殺人事件 "wikilink")」後も被害者の会会長として引き続き活動を継続していたため、教団にとって主要な敵対的人物であった。オウムは連日永岡に無言電話や[梵字](https://ja.wikipedia.org/wiki/梵字 "wikilink")による仄めかしなどの嫌がらせを行い、永岡の会社にも「取引先に抗議する」などと脅し退職を余儀なくさせた\[1\]。
 
 1994年12月、[飯田エリ子](../Page/飯田エリ子.md "wikilink")が脱会信者の家に永岡\[2\]がいることを目撃。永岡親子が脱会信者を増やしていることに怒った[麻原彰晃](https://ja.wikipedia.org/wiki/麻原彰晃 "wikilink")は、「どんな方法でもいいから永岡に[VXを掛けろ](../Page/VXガス.md "wikilink")。幾らお金を使ってもいい。VXを掛けるためにはマンションを借りてもいい。」として永岡弘行か長男のどちらかに「ほっほっぴゅ」\[3\]と[VXをかけて殺害するよう指示した](../Page/VXガス.md "wikilink")\[4\]。
 

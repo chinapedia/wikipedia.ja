@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ドランクドラゴンのオールナイトニッポンR](https://ja.wikipedia.org/wiki/ドランクドラゴンのオールナイトニッポンR)から翻訳されています。
 
 
 **ドランクドラゴンのオールナイトニッポンR**（**どらんくどらごんのおーるないとにっぽんあーる**）とは[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")（[塚地武雅](../Page/塚地武雅.md "wikilink")、[鈴木拓](../Page/鈴木拓.md "wikilink")）。
@@ -43,7 +43,7 @@
 ※全国21局ネットで放送
 
   - 27:00 - 29:00
-    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](../Page/茨城放送.md "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・ [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") ・ [茨城放送](../Page/茨城放送.md "wikilink") ・ [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") ・ [KBS京都](../Page/京都放送.md "wikilink") ・ [九州朝日放送](../Page/KBCラジオ.md "wikilink")
   - 27:00 - 28:30
     ニッポン放送
   - 27:00 - 28:00

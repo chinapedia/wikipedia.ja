@@ -1,4 +1,4 @@
-> この記事は[YBR](https://ja.wikipedia.org/wiki/YBR)から翻訳されています。
+> この記事は[ヤマハ・YBR](https://ja.wikipedia.org/wiki/ヤマハ・YBR)から翻訳されています。
 
 
 **YBR**（ワイビーアール）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が日本国外で生産を行っている[オートバイ](../Page/オートバイ.md "wikilink")である。2011年現在は125ccと250ccの2車種がある。

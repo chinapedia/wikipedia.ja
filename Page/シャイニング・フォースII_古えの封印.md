@@ -1,13 +1,17 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[シャイニング・フォースII 古えの封印](https://ja.wikipedia.org/wiki/シャイニング・フォースII_古えの封印)から翻訳されています。
 
 
-『**シャイニング・フォースII 古えの封印**』（シャイニング・フォースツー いにしえのふういん、*Shining Force II*）は、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の子会社であった[SONIC（現：キャメロット](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[ソニックチーム](../Page/ソニックチーム.md "wikilink")では無い）が[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に販売した[メガドライブ](../Page/メガドライブ.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
+『**シャイニング・フォースII 古えの封印**』（シャイニング・フォースツー いにしえのふういん、*Shining Force II*）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 ## 概要
 
-前作『[シャイニング・フォース 神々の遺産](../Page/シャイニング・フォース_神々の遺産.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）とほぼ同じシステムであるため、詳しくは同項目も参照。
+同社が展開している『[シャイニング・シリーズ](../Page/シャイニング・シリーズ.md "wikilink")』（[1991年](../Page/1991年.md "wikilink") - ）第6作目。プレイヤーは主人公「ボウイ」を操作し、封印を解かれた魔王ゼオンを倒しグランシール王国を救出する事を主な目的としてプレイすることになる。
 
-前作とは舞台、登場キャラクターは一新され、同一世界の異大陸での物語とされるが、関連性についてはほとんど触れられておらず、小説版『シャイニング・フォース 神竜の血脈』において、前作と今作の登場人物が登場し関連性が描かれ前作のその後の物語であることが記述されている\[1\]。
+前作『[シャイニング・フォース 神々の遺産](../Page/シャイニング・フォース_神々の遺産.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")。以下「前作」と記載する場合あり）とほぼ同じシステムであるが、登場キャラクターを一新。物語については前作と同一世界だが異なる大陸を舞台としているとされる。前作との詳しい関連性についてはゲーム本編では殆ど触れられないが、のちに刊行された小説版『シャイニング・フォース 神竜の血脈』では、前作と今作の登場人物が登場し関連性が書かれ、前作のその後の物語であることが明記されている\[1\]。
+
+開発は[クライマックスおよび](../Page/クライマックス_\(ゲーム会社\).md "wikilink")[ソニック](../Page/キャメロット_\(ゲーム会社\).md "wikilink")（現：キャメロット）\[2\]が行い、プロデューサーは前作に続き[高橋宏之](../Page/高橋宏之.md "wikilink")、ディレクターは前作を手掛けた田口泰宏および[ゲームギア](../Page/ゲームギア.md "wikilink")用ソフト『[シャイニング・フォース外伝 遠征・邪神の国へ](https://ja.wikipedia.org/wiki/シャイニング・フォース外伝_遠征・邪神の国へ "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた[高橋秀五](../Page/高橋秀五.md "wikilink")、音楽は『シャイニング・フォース外伝 遠征・邪神の国へ』を手掛けた武内基朗、キャラクター・デザインはイラストレーターの[SUEZEN](../Page/SUEZEN.md "wikilink")が担当している。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2019年](../Page/2019年.md "wikilink")まで[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。欧米では[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Xbox 360用ソフト](../Page/Xbox_360.md "wikilink")『*Sonic's Ultimate Genesis Collection*』（[2009年](../Page/2009年.md "wikilink")）などのオムニバスソフトに収録された。（より細かい他機種展開については、本項の副節「[\#移植版](https://ja.wikipedia.org/wiki/#移植版 "wikilink")」を参照）
 
 ## ゲーム内容
 
@@ -22,14 +26,6 @@
 また、本シリーズはレベルが一定の値を超えると教会で「転職」してより強くなることができる。この転職はどの職業になれるか固定で決まっていて、転職することでレベルが1に戻ってしまうが、元の職業のレベル20より転職した後のレベル20のほうが強く、ゲームの後半に登場する武器の装備条件などにもなっている。
 
 その他、特徴的な点として、操作システムの行動選択が基本的に全て十字キーの上、下、左、右に割り振られていることが挙げられる（例：戦闘時移動後は攻撃、道具、待機、魔法が表示され、魔法を選択した場合は更にブレイズLv1、スリープ、ブレイズLv2、ブレイズLv3、など。状況に応じて適宜自動変化する）。
-
-### 世界観
-
-『シャイニング・フォース』の世界は一般的な剣と魔法の中世西洋ファンタジーである。
-
-主に登場する種族は一般的な「[人間](../Page/人間.md "wikilink")」のほか、上半身が人間で下半身が馬の「[ケンタウロス](../Page/ケンタウロス.md "wikilink")」、小柄な体格の「[ホビット](../Page/ホビット.md "wikilink")」、強い力を持つ「[ドワーフ](../Page/ドワーフ.md "wikilink")」、不死鳥の「[フェニックス](../Page/フェニックス.md "wikilink")」、空を飛び人語も扱う「[鳥人](https://ja.wikipedia.org/wiki/鳥人 "wikilink")」、特殊な鎧に身を包んだ「[みどりがめ](https://ja.wikipedia.org/wiki/みどりがめ "wikilink")」など。
-
-敵ユニットとしては「[ゴブリン](../Page/ゴブリン.md "wikilink")」、「[ゾンビ](../Page/ゾンビ.md "wikilink")」、「[ペガサス](../Page/ペガサス.md "wikilink")ナイト（ケンタウロスに羽が生えた者）」、「[ドラゴン](../Page/ドラゴン.md "wikilink")」など一般的な ファンタジー系モンスターが登場する。
 
 ### 職業
 
@@ -125,13 +121,23 @@
 
 地形効果が高いほど敵から受けるダメージは緩和されるが、一般的に高い地形効果を持つ場所は山脈地帯や岩場、森林などの足場が悪い場所で、特定の職業のユニットがそれらの場所に侵入すると移動範囲が著しく狭くなる。
 
-## ストーリー
+## 設定
+
+### ストーリー
 
 前作の舞台より遥か北方に位置するグランス島。盗賊のジッポはとある古代遺跡の探索中、何かの封印を誤って解いてしまう。それは遥か古の時代に封印された魔王ゼオンとその軍団の復活に関わるものだった。
 
 一方、グランシール王国に暮らす少年ボウイは、一人前の剣士を目指し賢者アストラルの下で修行に励む日々を送っていた。ある日、グランシール王に異変があったとの報を受け、城へ急行するアストラル。興味本位でその後をつけたボウイ達はそこで偶然魔王軍の尖兵の復活を目撃してしまう。
 
 その後、友好関係にあった隣国ガラムが突如としてグランシールへの侵攻を決定。ボウイ達はガラム軍との、そして魔王の軍勢との戦いに巻き込まれていくこととなる‥‥。
+
+### 世界観
+
+『シャイニング・フォース』の世界は一般的な剣と魔法の中世西洋ファンタジーである。
+
+主に登場する種族は一般的な「[人間](../Page/人間.md "wikilink")」のほか、上半身が人間で下半身が馬の「[ケンタウロス](../Page/ケンタウロス.md "wikilink")」、小柄な体格の「[ホビット](../Page/ホビット.md "wikilink")」、強い力を持つ「[ドワーフ](../Page/ドワーフ.md "wikilink")」、不死鳥の「[フェニックス](../Page/フェニックス.md "wikilink")」、空を飛び人語も扱う「[鳥人](https://ja.wikipedia.org/wiki/鳥人 "wikilink")」、特殊な鎧に身を包んだ「[みどりがめ](https://ja.wikipedia.org/wiki/みどりがめ "wikilink")」など。
+
+敵ユニットとしては「[ゴブリン](../Page/ゴブリン.md "wikilink")」、「[ゾンビ](../Page/ゾンビ.md "wikilink")」、「[ペガサス](../Page/ペガサス.md "wikilink")ナイト（ケンタウロスに羽が生えた者）」、「[ドラゴン](../Page/ドラゴン.md "wikilink")」など一般的な ファンタジー系モンスターが登場する。
 
 ## 登場人物
 
@@ -256,7 +262,128 @@
   - レッドバロン
     悪魔軍の幹部。その鎧は殺した相手の返り血で赤く染まったとされる。その正体はガラム国のレモン。
 
-## 他機種版
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>シャイニング・フォースII 古えの封印</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>クライマックス<br />
+ソニック</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>)</p></td>
+<td></td>
+<td><p>2019年1月31日 配信・販売終了</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Backbone_Entertainment" title="wikilink">Backbone Entertainment</a></p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray Disc</a><br />
+<a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>
+<td><p><strong>PS3:</strong><strong>XB360:</strong></p></td>
+<td><p>日本国内未発売、日本用機器でも動作は可能</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>Shining Force II</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
+<td><p>クライマックス<br />
+ソニック</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>Sega Mega Drive Classics Collection Vol.4</p></td>
+<td></td>
+<td><p>Windows</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td><p>Windows</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>DVD-ROM</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>Sega Genesis Classic Collection</p></td>
+<td></td>
+<td><p>Windows</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(Steam)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>Shining Force II</p></td>
+<td></td>
+<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a><br />
+<a href="../Page/Macintosh.md" title="wikilink">Macintosh</a></p></td>
+<td><p>SONIC</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(Steam)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>光明與黑暗續戰篇II 古代的封印</p></td>
+<td><p>日本を除く東アジア圏<br />
+2019年9月19日<br />
+</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/メガドライブ_ミニ" title="wikilink">メガドライブ ミニ</a>[3]）</p></td>
+<td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">エムツー</a><br />
+（移植担当）</p></td>
+<td><p>カプコン<br />
+（本体自体の発売は<a href="https://ja.wikipedia.org/wiki/セガゲームス" title="wikilink">セガゲームス</a>）</p></td>
+<td><p><a href="../Page/プリインストール.md" title="wikilink">プリインストール</a></p></td>
+<td><p>-</p></td>
+<td><p>メガドライブ版の移植（本体にあらかじめ収録された42作品の1つ）</p></td>
+</tr>
+</tbody>
+</table>
+
+※ メガドライブ ミニ版は本来、東アジア圏発売版にのみ収録されていたが、日本でも翌年にコレをベースとした\[4\]機種が「メガドライブ ミニ アジアエディション」と名付けられて特定ECサイトにて限定発売された。
 
 ## スタッフ
 
@@ -274,33 +401,51 @@
 
 ## 評価
 
-  - ゲーム誌「[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")」の「クロスレビュー」では8・7・7・6の合計28点（満40点）になっている\[2\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では8・7・7・6の合計28点（満40点）になっている\[5\]。
 
 <!-- end list -->
 
-  - ゲーム誌「[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")」の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.8点（満30点）となっている\[3\]。また、1998年に刊行されたゲーム誌『超絶 大技林 '98年春版』（[徳間書店](../Page/徳間書店.md "wikilink")）では、「前作よりも魔法が増えて多彩な攻撃が可能になったり、コマンドが増えて遊びやすくなった。戦闘シーンのグラフィックもパワーアップ」と紹介されている\[4\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.8点（満30点）となっている\[6\]。また、1998年に刊行されたゲーム誌『超絶 大技林 '98年春版』（[徳間書店](../Page/徳間書店.md "wikilink")）では、前作よりも魔法が増加し攻撃方法が多彩になった事やコマンドが増えた事を指摘した上で「遊びやすくなった」と肯定的に評価、さらに戦闘シーンのグラフィックが強化された事も肯定的に評価した\[7\]。
 
 | 項目 | キャラクタ | 音楽  | お買得度 | 操作性 | 熱中度 | オリジナリティ | 総合   |
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 4.4   | 4.2 | 4.2  | 4.4 | 4.5 | 4.0     | 25.8 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「キャラクターデザインが玉木美孝からSUEZENに交代し、前作の印象はソフトに一新」、「キャラがすぐに強くなり、後半の敵が弱くて話にならないバランスも修正、敵も思考ルーチンが改善され、より戦略性が強化された」、「ファンタジー世界の設定が奥深くなったのは好評」と評している\[5\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、キャラクター・デザイン担当が玉木美孝からSUEZENに変更された事に触れた上で「前作の印象はソフトに一新」と指摘、また前作でのキャラクターが強くなりすぎてゲーム後半の敵キャラクターが弱くなるというバランスが本作では修正された事や、敵キャラクターの思考ルーチンが改善された事を指摘し「より戦略性が強化された」と肯定的に評価、さらに「ファンタジー世界の設定が奥深くなったのは好評」と称賛した\[8\]。
+
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連項目
 
   - [シャイニング・シリーズ](../Page/シャイニング・シリーズ.md "wikilink")
 
-## 脚注
-
 ## 外部リンク
 
   - [シャイニング・シリーズ 公式ポータルサイト](http://shining-world.jp/)
+
+      - トップページ \> シリーズ一覧 \> ページ下の「レトロ シャイニングシリーズ」に本作の簡単な概要記述あり。
+
+  - [Wii版（バーチャルコンソール） 本作紹介ページ](http://vc.sega.jp/vc_shiningforce2/)
+
+  -   - 掲載されている説明書は日本版。
+
+※ 下記リンクはファンによる非公式サイト。一応閲覧注意。（すべて英語表記）
+
   - [SHINING FORCE CENTRAL](http://www.shiningforcecentral.com/)
 
-[Category:シャイニング・シリーズ](https://ja.wikipedia.org/wiki/Category:シャイニング・シリーズ "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink")
+  - （英語）
+
+[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:シャイニング・シリーズ](https://ja.wikipedia.org/wiki/Category:シャイニング・シリーズ "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  同小説の設定については作者のHPも参照[シャイニングフォース神竜の血脈](http://homepage2.nifty.com/SAMI/work/sf.htm)
-2.
-3.
-4.
+2.  [ソニックチーム](../Page/ソニックチーム.md "wikilink")では無い。
+3.  日本発売版は「メガドライブ ミニ アジアエディション」。
+4.  一部外装の印刷および特典としてスペシャルポストカードが同梱されている以外は、アジア圏発売版と同じもの。
 5.
+6.
+7.
+8.

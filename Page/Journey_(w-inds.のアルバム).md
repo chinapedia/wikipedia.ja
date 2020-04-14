@@ -1,4 +1,4 @@
-> この記事は[Journey \(w-inds.\)](https://ja.wikipedia.org/wiki/Journey_\(w-inds.\))から翻訳されています。
+> この記事は[Journey \(w-inds.のアルバム\)](https://ja.wikipedia.org/wiki/Journey_\(w-inds.のアルバム\))から翻訳されています。
 
 
 『**Journey**』（ジャーニー）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。DVD付属の1形態で[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売。

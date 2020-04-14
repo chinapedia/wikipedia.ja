@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[トーマス・B・カトロン](https://ja.wikipedia.org/wiki/トーマス・B・カトロン)から翻訳されています。
 
 
 **トーマス・ベントン・カトロン** (**Thomas Benton Catron**, [1840年](../Page/1840年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") – [1921年](../Page/1921年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink"))は、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")の創設に影響力を持った、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家・法律家。後に[アメリカ合衆国上院議員](https://ja.wikipedia.org/wiki/アメリカ合衆国上院議員 "wikilink")となる。

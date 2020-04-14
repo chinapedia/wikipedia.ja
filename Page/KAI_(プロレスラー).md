@@ -1,7 +1,7 @@
-> この記事は[KAI \(\)](https://ja.wikipedia.org/wiki/KAI_\(\))から翻訳されています。
+> この記事は[KAI \(プロレスラー\)](https://ja.wikipedia.org/wiki/KAI_\(プロレスラー\))から翻訳されています。
 
 
-**KAI**（カイ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月20日](../Page/5月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。 本名：**境 敦史**（さかい あつし）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。[横浜市立桜丘高等学校](../Page/横浜市立桜丘高等学校.md "wikilink")卒業\[1\]。
+**KAI**（カイ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月20日](../Page/5月20日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。 本名：**境 敦史**（さかい あつし）。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。[横浜市立桜丘高等学校](../Page/横浜市立桜丘高等学校.md "wikilink")卒業\[1\]。血液型B型。
 
 ## 経歴
 
@@ -131,7 +131,8 @@
 
 ## 得意技
 
-  - [メテオインパクト](../Page/みちのくドライバーII.md "wikilink")
+  - フィニッシュホールド
+    [メテオインパクト](../Page/みちのくドライバーII.md "wikilink")
     相手をファイヤーマンズキャリーの要領で両肩に担ぎ上げて下半身を下から押し上げて相手の体を軽く宙に浮き上がらせて落下する相手の方に体を向けながら尻餅をつき、相手の背中を自身の両足の間へ叩きつける。
 
   - [ジャンピングサンダーファイヤーパワーボム](https://ja.wikipedia.org/wiki/サンダーファイヤーパワーボム "wikilink")
@@ -146,7 +147,8 @@
   - 本家公認・雁之助クラッチ
     共闘中の翔太に半ば強引に公認させた[ミスター雁之助](../Page/ミスター雁之助.md "wikilink")の必殺技。しかし翔太は公認しているが雁之助は未公認であり、本家である雁之助から公認を得ることを目標としていた。その後KAIが[ガッツワールドプロレスリング](https://ja.wikipedia.org/wiki/ガッツワールドプロレスリング "wikilink")に参戦した際に本家から公認された。旧名は「翔太公認雁之助クラッチ」。
 
-  - [パワーボム](../Page/パワーボム.md "wikilink")
+  - その他得意技
+    [パワーボム](../Page/パワーボム.md "wikilink")
     ライガーボムなどの変形も見せる。
 
   - KAIクラッチ
@@ -172,7 +174,7 @@
 
   - [トラースキック](https://ja.wikipedia.org/wiki/トラースキック "wikilink")
 
-## タイトル歴
+## タイトル履歴
 
   - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
 
@@ -253,7 +255,7 @@
 ## 外部リンク
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:WRESTLE-1所属のプロレスラー](https://ja.wikipedia.org/wiki/Category:WRESTLE-1所属のプロレスラー "wikilink") [Category:全日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:全日本プロレスに所属したプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:WRESTLE-1に所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:WRESTLE-1に所属したプロレスラー "wikilink") [Category:全日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:全日本プロレスに所属したプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [桜丘高校出身のプロレスラーとして王座につくなど活躍を見せる ＫＡＩさん（本名・境 敦史）市内在住　31歳｜タウンニュース 保土ヶ谷区版](http://www.townnews.co.jp/0115/i/2015/03/26/276724.html)2017年2月閲覧
 2.

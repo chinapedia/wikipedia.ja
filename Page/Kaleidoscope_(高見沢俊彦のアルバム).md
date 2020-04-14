@@ -1,4 +1,4 @@
-> この記事は[Kaleidoscope \(\)](https://ja.wikipedia.org/wiki/Kaleidoscope_\(\))から翻訳されています。
+> この記事は[Kaleidoscope \(高見沢俊彦のアルバム\)](https://ja.wikipedia.org/wiki/Kaleidoscope_\(高見沢俊彦のアルバム\))から翻訳されています。
 
 
 『**Kaléidoscope**』（カレイドスコープ）は、2007年7月18日にリリースされた[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")の2枚目のフルアルバム。

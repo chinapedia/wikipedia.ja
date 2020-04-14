@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[IT戦略](https://ja.wikipedia.org/wiki/IT戦略)から翻訳されています。
 
 
 **IT戦略**（アイティーせんりゃく）とは、[情報技術](../Page/情報技術.md "wikilink")(IT)を企業の[経営戦略](../Page/経営戦略.md "wikilink")の一部としていかに利用するかに関する、企業の中長期的かつ具体的な方針・計画・[戦略](../Page/戦略.md "wikilink")のことである。英語の[Technology Strategyとほぼ同義だが](https://ja.wikipedia.org/wiki/:en:Technology_strategy "wikilink")、日本では意味や定義がやや曖昧な用語であり、話者や書き手によって意味が多少変わることがある。

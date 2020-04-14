@@ -1,4 +1,4 @@
-> この記事は[H. ](https://ja.wikipedia.org/wiki/H._)から翻訳されています。
+> この記事は[H. デビッド・ポリツァー](https://ja.wikipedia.org/wiki/H._デビッド・ポリツァー)から翻訳されています。
 
 
 **ヒュー・デビッド・ポリツァー**（Hugh David Politzer, [1949年](../Page/1949年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") – ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[理論物理学者](../Page/理論物理学者.md "wikilink")。[デイビッド・グロス](../Page/デイビッド・グロス.md "wikilink")、[フランク・ウィルチェック](../Page/フランク・ウィルチェック.md "wikilink")とともに、[強い相互作用](https://ja.wikipedia.org/wiki/強い相互作用 "wikilink")の理論における[漸近的自由性](https://ja.wikipedia.org/wiki/漸近的自由性 "wikilink")の発見によって2004年度の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を授与された。

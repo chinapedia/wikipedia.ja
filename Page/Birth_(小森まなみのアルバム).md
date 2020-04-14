@@ -1,4 +1,4 @@
-> この記事は[Birth \(\)](https://ja.wikipedia.org/wiki/Birth_\(\))から翻訳されています。
+> この記事は[Birth \(小森まなみのアルバム\)](https://ja.wikipedia.org/wiki/Birth_\(小森まなみのアルバム\))から翻訳されています。
 
 
 『**Birth**』（バース）は、[小森まなみ](../Page/小森まなみ.md "wikilink")の1作目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。[1994年](../Page/1994年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売された。

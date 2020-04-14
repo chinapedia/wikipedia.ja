@@ -1,4 +1,4 @@
-> この記事は[ \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/_\(ALI_PROJECT\))から翻訳されています。
+> この記事は[月下の一群 \(ALI PROJECTのアルバム\)](https://ja.wikipedia.org/wiki/月下の一群_\(ALI_PROJECTのアルバム\))から翻訳されています。
 
 
 『**月下の一群**』（げっかのいちぐん）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による[音楽ユニット](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Marionette \(BOOWY\)](https://ja.wikipedia.org/wiki/Marionette_\(BOOWY\))から翻訳されています。
+> この記事は[Marionette \(BOOWYの曲\)](https://ja.wikipedia.org/wiki/Marionette_\(BOOWYの曲\))から翻訳されています。
 
 
 『**Marionette -マリオネット-**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。

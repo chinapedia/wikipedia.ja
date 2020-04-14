@@ -1,4 +1,4 @@
-> この記事は[BMO](https://ja.wikipedia.org/wiki/BMO)から翻訳されています。
+> この記事は[BMOフィールド](https://ja.wikipedia.org/wiki/BMOフィールド)から翻訳されています。
 
 
 **BMOフィールド**（ビモフィールド、[英](../Page/英語.md "wikilink")：BMO Field）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")にある[エキシビション・プレイス内のフットボール専用スタジアムであり](https://ja.wikipedia.org/wiki/:en:Exhibition_Place "wikilink")、[トロントFC](../Page/トロントFC.md "wikilink")とカナダのナショナルチームが本拠地としている。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[トロント](../Page/トロント.md "wikilink")市所有で、[メイプルリーフ・スポーツ&エンタテーメントによって運営されている](https://ja.wikipedia.org/wiki/:en:Maple_Leaf_Sports_&_Entertainment "wikilink")。

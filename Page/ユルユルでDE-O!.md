@@ -1,4 +1,4 @@
-> この記事は[DE-O!](https://ja.wikipedia.org/wiki/DE-O!)から翻訳されています。
+> この記事は[ユルユルでDE-O!](https://ja.wikipedia.org/wiki/ユルユルでDE-O!)から翻訳されています。
 
 
 「**ユルユルでDE-O\!**」（ユルユルでデーオ）は、「[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")」の主人公、[野原しんのすけ](../Page/野原しんのすけ.md "wikilink")（CDジャケットの表記では「のはらしんのすけ」。声：[矢島晶子](../Page/矢島晶子.md "wikilink")）のシングル。[2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")。

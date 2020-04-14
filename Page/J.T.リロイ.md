@@ -1,4 +1,4 @@
-> この記事は[J.T.](https://ja.wikipedia.org/wiki/J.T.)から翻訳されています。
+> この記事は[J.T.リロイ](https://ja.wikipedia.org/wiki/J.T.リロイ)から翻訳されています。
 
 
 **“ターミネーター”ジェレミア・リロイ**(Jeremiah "Terminator" LeRoy) は、アメリカ合衆国の女性作家[ローラ・アルバート](https://ja.wikipedia.org/wiki/ローラ・アルバート "wikilink")の[ペンネーム](../Page/ペンネーム.md "wikilink")及び、彼女の作りだした架空の人物である。

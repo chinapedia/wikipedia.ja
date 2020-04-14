@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジャガー・Cタイプ](https://ja.wikipedia.org/wiki/ジャガー・Cタイプ)から翻訳されています。
 
 
 **ジャガー・C-Type**（*Jaguar C-Type* ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の高級車メーカー[ジャガーが](../Page/ジャガー_\(自動車\).md "wikilink")[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")から[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")の間製作した[スポーツカーである](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")。

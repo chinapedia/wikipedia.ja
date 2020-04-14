@@ -1,4 +1,4 @@
-> この記事は[PARADISE LOST \(\)](https://ja.wikipedia.org/wiki/PARADISE_LOST_\(\))から翻訳されています。
+> この記事は[PARADISE LOST \(アルバム\)](https://ja.wikipedia.org/wiki/PARADISE_LOST_\(アルバム\))から翻訳されています。
 
 
 『**PARADISE LOST**』（パラダイスロスト）は[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の3作目となるオリジナル・アルバムである。[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")発売。

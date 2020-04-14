@@ -1,4 +1,4 @@
-> この記事は[ZTT](https://ja.wikipedia.org/wiki/ZTT)から翻訳されています。
+> この記事は[ZTTレコーズ](https://ja.wikipedia.org/wiki/ZTTレコーズ)から翻訳されています。
 
 
 **ZTTレコーズ（ZTT Records）**とは、ジャーナリストのポール・モーレイ（Paul Morley）、音楽プロデューサーの[トレヴァー・ホーン](../Page/トレヴァー・ホーン.md "wikilink")（Trevor Horn）、プロデューサー・エンジニアのゲイリィ・ランガン（Gary Langan）、そしてトレヴァーの妻でありビジネス・ウーマンのジル・シンクレア（Jill Sinclair）らが共同で1983年に設立したレコード・レーベル。その設立初期からイギリスのヒット・チャートを賑わすアーティストを多く輩出していて、最も有名なところでは1983年に[Frankie Goes To Hollywoodの大ヒット曲](../Page/フランキー・ゴーズ・トゥ・ハリウッド.md "wikilink")「Relax」などがある。1980年代に、実験的なポピュラー音楽を次々とリリースし、後の音楽に大きな影響を与えたとされる。

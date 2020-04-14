@@ -1,4 +1,4 @@
-> この記事は[BMWE90](https://ja.wikipedia.org/wiki/BMWE90)から翻訳されています。
+> この記事は[BMW・E90](https://ja.wikipedia.org/wiki/BMW・E90)から翻訳されています。
 
 
 **E90**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[BMW](../Page/BMW.md "wikilink")が生産する[スモール・ラグジュアリー・カー](../Page/高級車.md "wikilink")、**[3シリーズ](../Page/BMW・3シリーズ.md "wikilink")**の第5世代に付けられたコードネームである。**E90**は[セダン](../Page/セダン.md "wikilink")、**E91**は[ツーリングワゴン](../Page/ステーションワゴン.md "wikilink")、**E92**は[クーペ](../Page/クーペ.md "wikilink")、**E93**は[クーペカブリオレ](../Page/クーペカブリオレ.md "wikilink")のモデルコードである。

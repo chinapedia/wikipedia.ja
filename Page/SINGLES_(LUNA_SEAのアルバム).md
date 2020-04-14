@@ -1,4 +1,4 @@
-> この記事は[SINGLES \(LUNA SEA\)](https://ja.wikipedia.org/wiki/SINGLES_\(LUNA_SEA\))から翻訳されています。
+> この記事は[SINGLES \(LUNA SEAのアルバム\)](https://ja.wikipedia.org/wiki/SINGLES_\(LUNA_SEAのアルバム\))から翻訳されています。
 
 
 **SINGLES**（シングルス）は、[LUNA SEAの初の](../Page/LUNA_SEA.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")発売。
@@ -7,7 +7,7 @@
 
 タイトルにある通り、バンドのこれまでの[シングル](../Page/シングル.md "wikilink")8作品を[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め、全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")して網羅した内容である。Disc1にはA面、Disc2にはカップリングが収録されている。ただし、「[MOTHER (Single Version)](../Page/MOTHER_\(Single_Version\).md "wikilink")」のカップリングである「Dejavu (Live Version)」は未収録。オリジナルアルバムに異なる[ミックスで収録されていた曲もすべてシングル](../Page/ミキシング.md "wikilink")・ヴァージョンで収録されている。
 
-LUNA SEAの全作品で最大の売上を記録しており、オリコンでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。
+LUNA SEAの全作品で最大の売上を記録しており、オリコンでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

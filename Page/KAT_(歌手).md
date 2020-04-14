@@ -1,4 +1,4 @@
-> この記事は[KAT \(\)](https://ja.wikipedia.org/wiki/KAT_\(\))から翻訳されています。
+> この記事は[KAT \(歌手\)](https://ja.wikipedia.org/wiki/KAT_\(歌手\))から翻訳されています。
 
 
 **KAT**（キャット、[1984年](../Page/1984年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動中の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。

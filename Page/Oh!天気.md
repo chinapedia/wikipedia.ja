@@ -1,4 +1,4 @@
-> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+> この記事は[Oh!天気](https://ja.wikipedia.org/wiki/Oh!天気)から翻訳されています。
 
 
 『**Oh\!天気**』（オー てんき）は、[1992年](../Page/1992年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[朝日放送で放送された](../Page/朝日放送テレビ.md "wikilink")[気象](../Page/気象.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

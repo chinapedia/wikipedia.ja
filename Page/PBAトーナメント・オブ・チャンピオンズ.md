@@ -1,4 +1,4 @@
-> この記事は[PBA](https://ja.wikipedia.org/wiki/PBA)から翻訳されています。
+> この記事は[PBAトーナメント・オブ・チャンピオンズ](https://ja.wikipedia.org/wiki/PBAトーナメント・オブ・チャンピオンズ)から翻訳されています。
 
 
 **PBAトーナメント・オブ・チャンピオンズ**（**PBA Tournament of Champions**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")「PBAツアー」の4大メジャートーナメント（公式戦）の1つ。ファイアストン社（Firestone Tire and Rubber Company）が冠スポンサーとなり、破格の賞金を争うPBAツアー第2のメジャートーナメントとして、1965年に創設された。当時の優勝賞金は、通常のトーナメントが5,000ドル程度、もう1つのメジャートーナメントであるPBA全米選手権が10,000ドルであったのに対し、25,000ドルであった。なお、2009年の優勝賞金は50,000ドルで、全米オープンの100,000ドルよりも低い。

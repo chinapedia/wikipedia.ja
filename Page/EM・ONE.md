@@ -1,4 +1,4 @@
-> この記事は[EMONE](https://ja.wikipedia.org/wiki/EMONE)から翻訳されています。
+> この記事は[EM・ONE](https://ja.wikipedia.org/wiki/EM・ONE)から翻訳されています。
 
 
 **EM・ONE**（エムワン）は、2007年3月31日に提供開始された[イー・モバイル](../Page/イー・モバイル.md "wikilink")の無線通信サービス向けに供給される[携帯情報端末](../Page/携帯情報端末.md "wikilink") (PDA) である。EM・ONEは愛称であり、製品としての型番は**S01SH**（エス ぜろいち エスエイチ） 、後継にあたる**EM・ONE α**（エムワン アルファ）は型番が**S01SH2**（エス ぜろいち エスエイチ ツー）となる。

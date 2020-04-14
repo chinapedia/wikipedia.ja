@@ -1,4 +1,4 @@
-> この記事は[Everlasting \(BoA\)](https://ja.wikipedia.org/wiki/Everlasting_\(BoA\))から翻訳されています。
+> この記事は[Everlasting \(BoAの曲\)](https://ja.wikipedia.org/wiki/Everlasting_\(BoAの曲\))から翻訳されています。
 
 
 「**Everlasting**」（エヴァーラスティング）は、[BoA](../Page/BoA.md "wikilink")の19枚目のシングル。[2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

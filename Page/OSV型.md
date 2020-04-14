@@ -1,4 +1,4 @@
-> この記事は[OSV](https://ja.wikipedia.org/wiki/OSV)から翻訳されています。
+> この記事は[OSV型](https://ja.wikipedia.org/wiki/OSV型)から翻訳されています。
 
 
 **OSV型**（OSVがた）とは、文を作るときに[目的語](../Page/目的語.md "wikilink") (Object) - [主語](../Page/主語.md "wikilink") (Subject) - [動詞](../Page/動詞.md "wikilink") (Verb) の[語順](../Page/語順.md "wikilink")を取る言語を表す[言語類型学](https://ja.wikipedia.org/wiki/言語類型学 "wikilink")の用語である。自然な表現において、次のような三つの構成素からなる言語類型を示す。例：「オレンジ サム 食べた」（サムはオレンジを食べた）。これらの構成の支配的語順によって言語を分類するときに使用される表記法である。

@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[野村祐希 \(AV女優\)](https://ja.wikipedia.org/wiki/野村祐希_\(AV女優\))から翻訳されています。
 
 
 **野村 祐希**（のむら ゆうき、[1979年](../Page/1979年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

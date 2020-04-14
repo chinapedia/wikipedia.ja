@@ -1,4 +1,4 @@
-> この記事は[RADWIMPS 3](https://ja.wikipedia.org/wiki/RADWIMPS_3)から翻訳されています。
+> この記事は[RADWIMPS 3〜無人島に持っていき忘れた一枚〜](https://ja.wikipedia.org/wiki/RADWIMPS_3〜無人島に持っていき忘れた一枚〜)から翻訳されています。
 
 
 『**RADWIMPS 3〜無人島に持っていき忘れた一枚〜**』（ラッドウィンプス・スリー 〜むじんとうにもっていきわすれたいちまい〜）は、[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")のメジャー1枚目、通算3枚目の[アルバム](../Page/アルバム.md "wikilink")である。
@@ -45,6 +45,6 @@
 
 <references />
 
-[Category:RADWIMPSのアルバム](https://ja.wikipedia.org/wiki/Category:RADWIMPSのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
+[Category:RADWIMPSのアルバム](https://ja.wikipedia.org/wiki/Category:RADWIMPSのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
 1.

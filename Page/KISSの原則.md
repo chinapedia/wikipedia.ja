@@ -1,4 +1,4 @@
-> この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
+> この記事は[KISSの原則](https://ja.wikipedia.org/wiki/KISSの原則)から翻訳されています。
 
 
 **KISS の原則** () とは、「」（シンプルで愚鈍にする）、もしくは「」（シンプルにしておけ！この間抜け）、もしくは「」（簡潔に単純にしておけ）という内容の、[1960年代](../Page/1960年代.md "wikilink")の[米国海軍](https://ja.wikipedia.org/wiki/米国海軍 "wikilink")において言われた、経験的な原理・原則\[1\]の[略語](../Page/略語.md "wikilink")。その意味するところは、[設計](../Page/設計.md "wikilink")の単純性（簡潔性）は成功への鍵だということと、不必要な[複雑性](https://ja.wikipedia.org/wiki/複雑性 "wikilink")は避けるべきだ、ということである。

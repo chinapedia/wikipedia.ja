@@ -1,4 +1,4 @@
-> この記事は[Builder ](https://ja.wikipedia.org/wiki/Builder_)から翻訳されています。
+> この記事は[Builder パターン](https://ja.wikipedia.org/wiki/Builder_パターン)から翻訳されています。
 
 
 **Builder パターン**（ビルダー・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")（Gang of Four; 4人のギャングたち）によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。 [オブジェクトの生成過程を](../Page/オブジェクト_\(プログラミング\).md "wikilink")[抽象化することによって](../Page/抽象化_\(計算機科学\).md "wikilink")、動的なオブジェクトの生成を可能にする。

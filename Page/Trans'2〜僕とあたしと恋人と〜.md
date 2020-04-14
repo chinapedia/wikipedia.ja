@@ -1,4 +1,4 @@
-> この記事は[Trans\'2](https://ja.wikipedia.org/wiki/Trans\'2)から翻訳されています。
+> この記事は[Trans\'2〜僕とあたしと恋人と〜](https://ja.wikipedia.org/wiki/Trans\'2〜僕とあたしと恋人と〜)から翻訳されています。
 
 
 **Trans'2〜僕とあたしと恋人と〜**は[2005年](../Page/2005年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[Catear](../Page/Catear.md "wikilink")より発売された[女装](../Page/異性装.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。

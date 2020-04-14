@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化チタン\(II\)](https://ja.wikipedia.org/wiki/塩化チタン\(II\))から翻訳されています。
 
 
 **塩化チタン(II)**（えんかチタン、titanium(II) chloride）とは、組成式が TiCl<sub>2</sub> と表される[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")で、[チタン](../Page/チタン.md "wikilink")の塩化物の一種。**二塩化チタン**とも呼ばれる。水で容易に分解し、空気中で加熱すると発火する黒色の固体\[1\]。

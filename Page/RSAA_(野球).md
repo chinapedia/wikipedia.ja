@@ -1,4 +1,4 @@
-> この記事は[RSAA \(\)](https://ja.wikipedia.org/wiki/RSAA_\(\))から翻訳されています。
+> この記事は[RSAA \(野球\)](https://ja.wikipedia.org/wiki/RSAA_\(野球\))から翻訳されています。
 
 
 **RSAA**（あーるえすえーえー、Runs Saved Above Average）とは、[野球](../Page/野球.md "wikilink")において、特定の[投手](../Page/投手.md "wikilink")が登板時に平均的な投手に比べてどの程度[失点](../Page/失点.md "wikilink")を防いでいるかを示す[指標](https://ja.wikipedia.org/wiki/指標 "wikilink")である。

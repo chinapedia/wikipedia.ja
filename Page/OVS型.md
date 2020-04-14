@@ -1,4 +1,4 @@
-> この記事は[OVS](https://ja.wikipedia.org/wiki/OVS)から翻訳されています。
+> この記事は[OVS型](https://ja.wikipedia.org/wiki/OVS型)から翻訳されています。
 
 
 **OVS型**（OVSがた）とは、基本文法が「[目的語](../Page/目的語.md "wikilink") - [動詞](../Page/動詞.md "wikilink") - [主語](../Page/主語.md "wikilink")」の[語順](../Page/語順.md "wikilink")である言語類型を表す[用語](../Page/用語.md "wikilink")。OVA型（Agent）はOVS型と同じ類型である。
@@ -9,7 +9,7 @@
 
 目的語-動詞-主語の語順が支配的に取られる言語の多くは[南アメリカ](../Page/南アメリカ.md "wikilink")のものが占めている。具体例としては[ヒシュカリヤナ語](https://ja.wikipedia.org/wiki/ヒシュカリヤナ語 "wikilink")\[1\]\[2\]、\[3\]\[4\]、\[5\]\[6\]等が挙げられる。また、OVS文型と[主語-目的語-動詞順の文型とが併存している言語の例としては](../Page/SOV型.md "wikilink")\[7\]、\[8\]等が存在する。この内ヒシュカリヤナ語、アパライ語、マクシー語の三者は[カリブ語族](https://ja.wikipedia.org/wiki/カリブ語族 "wikilink")に属するものである。
 
-またこの語順は、格標識があるため比較的自由な語順が許される言語において、目的語を強調するときにも使われる（支配的ではない）。[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[バスク語](../Page/バスク語.md "wikilink")、[エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")、[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、そしてある程度は[ドイツ語](../Page/ドイツ語.md "wikilink")がその例である。さらに[スウェーデン語](../Page/スウェーデン語.md "wikilink")など、通常は広範な格標識のない言語でも、格標識を持つ[代名詞](../Page/代名詞.md "wikilink")が含まれる際にはこの語順が許容される。
+またこの語順は、格標識があるため比較的自由な語順が許される言語において、目的語を強調するときにも使われる（支配的ではない）。[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[バスク語](../Page/バスク語.md "wikilink")、[エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、そしてある程度は[ドイツ語](../Page/ドイツ語.md "wikilink")がその例である。さらに[スウェーデン語](../Page/スウェーデン語.md "wikilink")など、通常は広範な格標識のない言語でも、格標識を持つ[代名詞](../Page/代名詞.md "wikilink")が含まれる際にはこの語順が許容される。
 
 ## 人工言語での例
 

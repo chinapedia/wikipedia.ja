@@ -1,4 +1,4 @@
-> この記事は[UBV](https://ja.wikipedia.org/wiki/UBV)から翻訳されています。
+> この記事は[ジョンソンのUBVシステム](https://ja.wikipedia.org/wiki/ジョンソンのUBVシステム)から翻訳されています。
 
 
 **ジョンソンの UBV システム**、または**ジョンソン・モーガン・システム** （UBV photometric systemまたはJohnson systemまたはJohnson-Morgan system）は広く用いられている[恒星](../Page/恒星.md "wikilink")の[測光システム](https://ja.wikipedia.org/wiki/測光システム "wikilink")で、紫外域（U:ultraviolet）、青色域（B:blue）、実視域（V:visual）の3色の[フィルター](../Page/フィルター.md "wikilink")と検出器としてRCA製1P21光電子増倍管の組をもちいて[天体](../Page/天体.md "wikilink")の明るさを測定した標準星カタログで定義した測光システムである。[1950年代](../Page/1950年代.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[天文学者](../Page/天文学者.md "wikilink")、[ハロルド・レスター・ジョンソン](https://ja.wikipedia.org/wiki/ハロルド・レスター・ジョンソン "wikilink")と[ウィリアム・ウィルソン・モーガン](https://ja.wikipedia.org/wiki/ウィリアム・ウィルソン・モーガン "wikilink")によって導入された。

@@ -1,4 +1,4 @@
-> この記事は[UAG](https://ja.wikipedia.org/wiki/UAG)から翻訳されています。
+> この記事は[特殊部隊UAG](https://ja.wikipedia.org/wiki/特殊部隊UAG)から翻訳されています。
 
 
 **『特殊部隊UAG**』（**un attached grenadier**）は1987年にリリースされた[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[ジャンル](../Page/ジャンル.md "wikilink")は[武装](../Page/武装.md "wikilink")したバイクを操作する縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。販売は[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、開発は[セタ](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")。海外名はTHUNDERCADE。[海外](../Page/海外.md "wikilink")では[サミー](../Page/サミー.md "wikilink")が[NESに移植しているが](../Page/Nintendo_Entertainment_System.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では現在、どの機種にも移植されていない。

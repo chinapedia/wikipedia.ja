@@ -1,4 +1,4 @@
-> この記事は[The Last Live \(X JAPAN\)](https://ja.wikipedia.org/wiki/The_Last_Live_\(X_JAPAN\))から翻訳されています。
+> この記事は[The Last Live \(X JAPANのアルバム\)](https://ja.wikipedia.org/wiki/The_Last_Live_\(X_JAPANのアルバム\))から翻訳されています。
 
 
 『**The Last Live**』（ザ・ラスト・ライブ）はロック・バンド[X JAPANが](../Page/X_JAPAN.md "wikilink")2001年5月30日に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")よりリリースした3枚組のライブアルバム。

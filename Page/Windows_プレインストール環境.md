@@ -1,4 +1,4 @@
-> この記事は[Windows ](https://ja.wikipedia.org/wiki/Windows_)から翻訳されています。
+> この記事は[Windows プレインストール環境](https://ja.wikipedia.org/wiki/Windows_プレインストール環境)から翻訳されています。
 
 
 **Microsoft Windows プレインストール環境** (Windows Preinstallation Environment, **Windows PE**, **WinPE**) は、大手企業などが多数台の[ワークステーション](../Page/ワークステーション.md "wikilink")や[サーバ](../Page/サーバ.md "wikilink")へ[Windowsをインストールするための](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、軽量版Windowsである。またPCメーカーが製造過程で自社製PCに[OEM](../Page/OEM.md "wikilink")版Windowsをプレインストールするためにも利用される。

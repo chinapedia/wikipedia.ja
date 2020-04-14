@@ -1,4 +1,4 @@
-> この記事は[LIFE \(LITTLE\)](https://ja.wikipedia.org/wiki/LIFE_\(LITTLE\))から翻訳されています。
+> この記事は[LIFE \(LITTLEのアルバム\)](https://ja.wikipedia.org/wiki/LIFE_\(LITTLEのアルバム\))から翻訳されています。
 
 
 『**LIFE**』（ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[LITTLE](../Page/LITTLE.md "wikilink")のメジャー2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

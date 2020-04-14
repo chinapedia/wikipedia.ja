@@ -1,4 +1,4 @@
-> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+> この記事は[多賀SLパーク](https://ja.wikipedia.org/wiki/多賀SLパーク)から翻訳されています。
 
 
 [D51_1149.JPG](https://ja.wikipedia.org/wiki/File:D51_1149.JPG "fig:D51_1149.JPG") **多賀SLパーク**（たがSLパーク）は、かつて[滋賀県](../Page/滋賀県.md "wikilink")[犬上郡](../Page/犬上郡.md "wikilink")[多賀町](https://ja.wikipedia.org/wiki/多賀町 "wikilink")敏満寺にあった[SLホテル](../Page/SLホテル.md "wikilink")である。

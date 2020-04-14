@@ -1,4 +1,4 @@
-> この記事は[Save the ](https://ja.wikipedia.org/wiki/Save_the_)から翻訳されています。
+> この記事は[Save the 下北沢](https://ja.wikipedia.org/wiki/Save_the_下北沢)から翻訳されています。
 
 
 **Save the 下北沢**は、[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")の[下北沢駅](https://ja.wikipedia.org/wiki/下北沢駅 "wikilink")周辺における[都市計画道路](../Page/都市計画道路.md "wikilink")を含む[再開発](../Page/再開発.md "wikilink")の見直しを求め、“歩いて楽しめる街”として下北沢の良さを守ろうとする運動団体である。

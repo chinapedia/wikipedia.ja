@@ -1,4 +1,4 @@
-> この記事は[ D.VIII](https://ja.wikipedia.org/wiki/_D.VIII)から翻訳されています。
+> この記事は[フォッカー D.VIII](https://ja.wikipedia.org/wiki/フォッカー_D.VIII)から翻訳されています。
 
 
 {{ Infobox 航空機

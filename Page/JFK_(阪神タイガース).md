@@ -1,4 +1,4 @@
-> この記事は[JFK \(\)](https://ja.wikipedia.org/wiki/JFK_\(\))から翻訳されています。
+> この記事は[JFK \(阪神タイガース\)](https://ja.wikipedia.org/wiki/JFK_\(阪神タイガース\))から翻訳されています。
 
 
 **JFK**とは、[岡田彰布](https://ja.wikipedia.org/wiki/岡田彰布 "wikilink")監督時代の[阪神タイガース](../Page/阪神タイガース.md "wikilink")における、**[ジェフ・ウィリアムス](https://ja.wikipedia.org/wiki/ジェフ・ウィリアムス "wikilink")（J）**、**[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")（F）**、**[久保田智之](../Page/久保田智之.md "wikilink")（K）**の3人の[リリーフ](../Page/リリーフ.md "wikilink")投手の組み合わせを指す用語である。

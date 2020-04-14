@@ -1,4 +1,4 @@
-> この記事は[Crescent \(Wink\)](https://ja.wikipedia.org/wiki/Crescent_\(Wink\))から翻訳されています。
+> この記事は[Crescent \(Winkのアルバム\)](https://ja.wikipedia.org/wiki/Crescent_\(Winkのアルバム\))から翻訳されています。
 
 
 『**Crescent**』（クレセント）は、[Wink](../Page/Wink.md "wikilink")の5枚目のオリジナル・アルバム。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[ポリスター](../Page/ポリスター.md "wikilink")より発売された。

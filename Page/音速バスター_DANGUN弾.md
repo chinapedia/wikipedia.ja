@@ -1,4 +1,4 @@
-> この記事は[ DANGUN](https://ja.wikipedia.org/wiki/_DANGUN)から翻訳されています。
+> この記事は[音速バスター DANGUN弾](https://ja.wikipedia.org/wiki/音速バスター_DANGUN弾)から翻訳されています。
 
 
 『**音速バスターDANGUN弾**』（おんそくばすたーだんがんだん）は、[2000年](../Page/2000年.md "wikilink")6月号 - [2004年](../Page/2004年.md "wikilink")2月号まで「[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")」で連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。原作は[てしろぎたかし](../Page/てしろぎたかし.md "wikilink")。[タミヤ](../Page/タミヤ.md "wikilink")の[ダンガンレーサー](../Page/ダンガンレーサー.md "wikilink")を主題としている。単行本全8巻。

@@ -1,4 +1,4 @@
-> この記事は[Nocturne ](https://ja.wikipedia.org/wiki/Nocturne_)から翻訳されています。
+> この記事は[Nocturne 〜夜想曲〜](https://ja.wikipedia.org/wiki/Nocturne_〜夜想曲〜)から翻訳されています。
 
 
 『**Nocturne 〜夜想曲〜**』（ノクターン やそうきょく）は、[Wink](../Page/Wink.md "wikilink")の9枚目のオリジナル・アルバム。[1992年](../Page/1992年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[ポリスター](../Page/ポリスター.md "wikilink")より発売された。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKオンライン](https://ja.wikipedia.org/wiki/NHKオンライン)から翻訳されています。
 
 
 **NHKオンライン**（エヌエイチケイオンライン）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が[インターネット](../Page/インターネット.md "wikilink")の[ウェブ上で運営している](../Page/World_Wide_Web.md "wikilink")、公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")の名称である。

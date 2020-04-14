@@ -1,4 +1,4 @@
-> この記事は[HERO \(EXILE\)](https://ja.wikipedia.org/wiki/HERO_\(EXILE\))から翻訳されています。
+> この記事は[HERO \(EXILEの曲\)](https://ja.wikipedia.org/wiki/HERO_\(EXILEの曲\))から翻訳されています。
 
 
 「**HERO**」（ヒーロー）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

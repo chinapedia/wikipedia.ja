@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UDアルメリア](https://ja.wikipedia.org/wiki/UDアルメリア)から翻訳されています。
 
 
 **ウニオン・デポルティーバ・アルメリア**（**Unión Deportiva Almería, S.A.D.** ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[アルメリア県](../Page/アルメリア県.md "wikilink")[アルメリア](../Page/アルメリア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。1989年7月26日にアルメリアCF（*Almería Club de Fútbol*）として設立された。15,000人収容の*[エスタディオ・デ・ロス・フエゴス・メディテラネオス](https://ja.wikipedia.org/wiki/エスタディオ・デ・ロス・フエゴス・メディテラネオス "wikilink")*をホームスタジアムとする。

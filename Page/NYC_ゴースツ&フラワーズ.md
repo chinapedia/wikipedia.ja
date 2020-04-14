@@ -1,4 +1,4 @@
-> この記事は[NYC \&](https://ja.wikipedia.org/wiki/NYC_\&)から翻訳されています。
+> この記事は[NYC ゴースツ\&フラワーズ](https://ja.wikipedia.org/wiki/NYC_ゴースツ\&フラワーズ)から翻訳されています。
 
 
 『**NYC ゴースツ&フラワーズ**』（NYC Ghosts & Flowers）は、2000年に発売された[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")のアルバムである。

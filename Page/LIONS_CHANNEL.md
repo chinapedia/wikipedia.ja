@@ -199,7 +199,7 @@
 
   -
   -
-[Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
+[Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:関東・甲信越地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのスポーツ番組 "wikilink") [Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/Category:埼玉西武ライオンズ "wikilink")
 
 1.  2015年はコーナーレギュラー、2016年1月11日からMC。
 2.

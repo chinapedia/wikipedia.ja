@@ -1,4 +1,4 @@
-> この記事は[Z GT Jr.](https://ja.wikipedia.org/wiki/Z_GT_Jr.)から翻訳されています。
+> この記事は[ストリームZ GT Jr.](https://ja.wikipedia.org/wiki/ストリームZ_GT_Jr.)から翻訳されています。
 
 
 **ストリームZ GT Jr.**（ストリームゼット ジーティー ジュニア）は、[日産・180SX](../Page/日産・180SX.md "wikilink")をベースに作られたコンプリートカー。

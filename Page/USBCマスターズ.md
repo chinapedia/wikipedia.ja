@@ -1,4 +1,4 @@
-> この記事は[USBC](https://ja.wikipedia.org/wiki/USBC)から翻訳されています。
+> この記事は[USBCマスターズ](https://ja.wikipedia.org/wiki/USBCマスターズ)から翻訳されています。
 
 
 **USBCマスターズ**（**USBC Masters**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")「PBAツアー」の4大メジャートーナメント（公式戦）の1つ。全米ボウリング評議会（The United States Bowling Congress：USBC）が主催する。長い間PBAツアーには含まれていなかったが、1998年からPBAツアーのトーナメントになっている。2004年以前の名称はABCマスターズ。これは、旧全米ボウリング評議会（The American Bowling Congress：ABC）が2005年に他団体と合併し、USBCと改称したため。

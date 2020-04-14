@@ -1,4 +1,4 @@
-> この記事は[BET](https://ja.wikipedia.org/wiki/BET)から翻訳されています。
+> この記事は[BETアワード](https://ja.wikipedia.org/wiki/BETアワード)から翻訳されています。
 
 
 **BETアワード**（*the BET Awards*）は、毎年、[音楽](../Page/音楽.md "wikilink")、[演劇](../Page/演劇.md "wikilink")、[スポーツ](../Page/スポーツ.md "wikilink")などを含む、あらゆる[エンタテインメント](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")業界で活躍している[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")や他の[マイノリティ](https://ja.wikipedia.org/wiki/マイノリティ "wikilink")の人々に対して贈られる[アメリカの文化賞](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

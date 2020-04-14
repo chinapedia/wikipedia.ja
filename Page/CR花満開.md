@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR花満開](https://ja.wikipedia.org/wiki/CR花満開)から翻訳されています。
 
 
 **CR花満開**（シーアールはなまんかい）は、[1993年](../Page/1993年.md "wikilink")6月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が販売したCR](../Page/西陣_\(企業\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[CR機](../Page/CR機.md "wikilink")の黎明期の機種で、西陣のCR機としては『[CRうちどめくん](https://ja.wikipedia.org/wiki/CRうちどめくん "wikilink")』、『[CR一気](https://ja.wikipedia.org/wiki/CR一気 "wikilink")』に続く3作目にあたり、CR機の普及に大きく貢献した。

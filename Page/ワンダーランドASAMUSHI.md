@@ -1,4 +1,4 @@
-> この記事は[ASAMUSHI](https://ja.wikipedia.org/wiki/ASAMUSHI)から翻訳されています。
+> この記事は[ワンダーランドASAMUSHI](https://ja.wikipedia.org/wiki/ワンダーランドASAMUSHI)から翻訳されています。
 
 
 **ワンダーランドASAMUSHI**（ - あさむし）は、かつて[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")にあった[遊園地](../Page/遊園地.md "wikilink")である。

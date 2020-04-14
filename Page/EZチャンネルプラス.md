@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZチャンネルプラス](https://ja.wikipedia.org/wiki/EZチャンネルプラス)から翻訳されています。
 
 
 **EZチャンネルプラス**（イージーチャンネルプラス）は、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")が提供していた、[BCMCSを使用した](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")向け動画コンテンツ配信サービス。

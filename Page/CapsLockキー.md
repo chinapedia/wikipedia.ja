@@ -1,4 +1,4 @@
-> この記事は[CapsLock](https://ja.wikipedia.org/wiki/CapsLock)から翻訳されています。
+> この記事は[CapsLockキー](https://ja.wikipedia.org/wiki/CapsLockキー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Modelm-capslockkey.jpg "wikilink") **CapsLockキー**（キャプスロックキー、キャップス-）または**Capital Lockキー**（キャピタルロックキー）は、[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink") のキーの一つである。キーを押すことで状態の有効・無効を入れ替えられる。有効になっている時、[アルファベットキーの打鍵が](../Page/ラテン文字.md "wikilink")[大文字](../Page/大文字.md "wikilink")の入力となる。

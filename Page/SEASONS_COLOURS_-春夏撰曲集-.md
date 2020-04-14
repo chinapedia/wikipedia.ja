@@ -1,4 +1,4 @@
-> この記事は[SEASONS COLOURS --](https://ja.wikipedia.org/wiki/SEASONS_COLOURS_--)から翻訳されています。
+> この記事は[SEASONS COLOURS -春夏撰曲集-](https://ja.wikipedia.org/wiki/SEASONS_COLOURS_-春夏撰曲集-)から翻訳されています。
 
 
 『**SEASONS COLOURS-春夏撰曲集-**』（シーズンズ・カラーズ‐はるなつせんきょくしゅう‐）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の「四季」をテーマにした[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")第1弾。2007年3月7日[東芝EMIより発売された](../Page/EMIミュージック・ジャパン.md "wikilink")（TOCT-26231/26232）。

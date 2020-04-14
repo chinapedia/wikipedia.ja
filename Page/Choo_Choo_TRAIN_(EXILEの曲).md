@@ -1,4 +1,4 @@
-> この記事は[Choo Choo TRAIN \(EXILE\)](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILE\))から翻訳されています。
+> この記事は[Choo Choo TRAIN \(EXILEの曲\)](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILEの曲\))から翻訳されています。
 
 
 「**Choo Choo TRAIN**」（チュー チュー トレイン）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

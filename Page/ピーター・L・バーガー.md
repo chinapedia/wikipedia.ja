@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ピーター・L・バーガー](https://ja.wikipedia.org/wiki/ピーター・L・バーガー)から翻訳されています。
 
 
 **ピーター・ラドウィグ・バーガー**（Peter Ludwig Berger、[1929年](../Page/1929年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")\[1\]）は、アメリカの[社会学](../Page/社会学.md "wikilink")者・[神学者](../Page/神学者.md "wikilink")。ボストン大学名誉教授。[トーマス・ルックマン](../Page/トーマス・ルックマン.md "wikilink")との共著『現実の社会的構成』（1966年）で知られる。

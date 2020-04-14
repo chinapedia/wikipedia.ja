@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZニュースフラッシュ](https://ja.wikipedia.org/wiki/EZニュースフラッシュ)から翻訳されています。
 
 
 **EZニュースフラッシュ**（イージーニュースフラッシュ）とは[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")及び[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink") が[BCMCS技術を利用してau携帯電話に最新ニュース](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")・天気などを配信するサービス。

@@ -1,4 +1,4 @@
-> この記事は[COBRA \(\)](https://ja.wikipedia.org/wiki/COBRA_\(\))から翻訳されています。
+> この記事は[COBRA \(バンド\)](https://ja.wikipedia.org/wiki/COBRA_\(バンド\))から翻訳されています。
 
 
 **COBRA**（コブラ）は、日本の[オイ\!](https://ja.wikipedia.org/wiki/オイ! "wikilink")[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[ホンダ・N型エンジン](https://ja.wikipedia.org/wiki/ホンダ・N型エンジン)から翻訳されています。
 
 
 **N型エンジン**（Nがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[中型車種用](../Page/Dセグメント.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。

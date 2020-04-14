@@ -1,4 +1,4 @@
-> この記事は[WANTED! ](https://ja.wikipedia.org/wiki/WANTED!_)から翻訳されています。
+> この記事は[WANTED! 尾田栄一郎短編集](https://ja.wikipedia.org/wiki/WANTED!_尾田栄一郎短編集)から翻訳されています。
 
 
 『**WANTED\! 尾田栄一郎短編集**』（ウォンテッド おだえいいちろうたんぺんしゅう）は、[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[短編集](https://ja.wikipedia.org/wiki/短編集 "wikilink")。

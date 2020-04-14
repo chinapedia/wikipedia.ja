@@ -1,4 +1,4 @@
-> この記事は[SUMMER](https://ja.wikipedia.org/wiki/SUMMER)から翻訳されています。
+> この記事は[イカSUMMER](https://ja.wikipedia.org/wiki/イカSUMMER)から翻訳されています。
 
 
 「**イカSUMMER**」（イカサマー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。

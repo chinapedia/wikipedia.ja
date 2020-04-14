@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR奇跡の電役キャプテンロバート](https://ja.wikipedia.org/wiki/CR奇跡の電役キャプテンロバート)から翻訳されています。
 
 
 『**CR奇跡の電役キャプテンロバート**』（シーアールきせきのぱちんこキャプテンロバート）は、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[豊丸産業](../Page/豊丸産業.md "wikilink")から販売された[一般電役](https://ja.wikipedia.org/wiki/一般電役 "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協への登録名は](../Page/保安通信協会.md "wikilink")「**CR奇跡の電役キャプテンロバートZ**」。

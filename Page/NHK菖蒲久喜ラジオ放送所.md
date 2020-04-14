@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK菖蒲久喜ラジオ放送所](https://ja.wikipedia.org/wiki/NHK菖蒲久喜ラジオ放送所)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kuki_NHK_Shobu-Kuki_Radio_Station_1.JPG "wikilink") [thumbを挟み第](https://ja.wikipedia.org/wiki/ファイル:Kuki_Bizenhori_River_1.JPG "wikilink")2放送送信アンテナを望む\]\]  **NHK菖蒲久喜ラジオ放送所**（エヌエイチケイしょうぶくきらじおほうそうじょ）は、[埼玉県](../Page/埼玉県.md "wikilink")[久喜市](../Page/久喜市.md "wikilink")[菖蒲町](../Page/菖蒲町.md "wikilink")に所在する[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が所有する[送信所](../Page/送信所.md "wikilink")である。

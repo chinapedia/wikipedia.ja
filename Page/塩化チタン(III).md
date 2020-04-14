@@ -1,4 +1,4 @@
-> この記事は[\(III\)](https://ja.wikipedia.org/wiki/\(III\))から翻訳されています。
+> この記事は[塩化チタン\(III\)](https://ja.wikipedia.org/wiki/塩化チタン\(III\))から翻訳されています。
 
 
 **塩化チタン(III)**（えんかチタン さん、titanium(III) chloride）は化学式 TiCl<sub>3</sub> で表される化合物である。**三塩化チタン**とも呼ばれる。[水和物](../Page/水和物.md "wikilink")も単に塩化チタン(III) と呼ばれることが多い。3種類知られる[チタン](../Page/チタン.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")のうち、最も一般的なものである。[ポリオレフィン](../Page/ポリオレフィン.md "wikilink")の製造において重要な[触媒](../Page/触媒.md "wikilink")である。毒物及び劇物取締法により劇物に指定されている\[1\]。

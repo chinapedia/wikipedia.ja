@@ -1,4 +1,4 @@
-> この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
+> この記事は[道の駅YOU・遊・もり](https://ja.wikipedia.org/wiki/道の駅YOU・遊・もり)から翻訳されています。
 
 
 **道の駅YOU・遊・もり**（みちのえき ゆうゆうもり）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[茅部郡](../Page/茅部郡.md "wikilink")[森町上台町にある](../Page/森町_\(北海道\).md "wikilink")[国道5号](../Page/国道5号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[DBS](https://ja.wikipedia.org/wiki/DBS)から翻訳されています。
+> この記事は[DBS銀行](https://ja.wikipedia.org/wiki/DBS銀行)から翻訳されています。
 
 
 **DBS銀行**（、）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[銀行](../Page/銀行.md "wikilink")である。現在の名前になる前の[2003年](../Page/2003年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")までは、**シンガポール開発銀行**（、）として知られており、日本語では、改名後もこの名前で呼ばれている場合が多い。

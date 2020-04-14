@@ -1,4 +1,4 @@
-> この記事は[Still life \(\)](https://ja.wikipedia.org/wiki/Still_life_\(\))から翻訳されています。
+> この記事は[Still life \(遊佐未森のアルバム\)](https://ja.wikipedia.org/wiki/Still_life_\(遊佐未森のアルバム\))から翻訳されています。
 
 
 『**still life**』（スティル　ライフ）は[遊佐未森](../Page/遊佐未森.md "wikilink")の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink") から発売された。

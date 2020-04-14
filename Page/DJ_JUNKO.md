@@ -1,7 +1,7 @@
 > この記事は[DJ JUNKO](https://ja.wikipedia.org/wiki/DJ_JUNKO)から翻訳されています。
 
 
-**DJ JUNKO**（ディージェー　ジュンコ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、日本の女性[DJ](../Page/ディスクジョッキー.md "wikilink")。
+**DJ JUNKO**（ディージェイ・ジュンコ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、日本の女性[DJ](../Page/ディスクジョッキー.md "wikilink")。
 
 ## 来歴
 

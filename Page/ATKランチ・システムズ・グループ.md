@@ -1,4 +1,4 @@
-> この記事は[ATK](https://ja.wikipedia.org/wiki/ATK)から翻訳されています。
+> この記事は[ATKランチ・システムズ・グループ](https://ja.wikipedia.org/wiki/ATKランチ・システムズ・グループ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Trident_II_missile_image.jpg "wikilink")。サイオコール製の第1段固体燃料ロケット・エンジンを点火している。\]\]

@@ -1,4 +1,4 @@
-> この記事は[SLAC](https://ja.wikipedia.org/wiki/SLAC)から翻訳されています。
+> この記事は[SLAC国立加速器研究所](https://ja.wikipedia.org/wiki/SLAC国立加速器研究所)から翻訳されています。
 
 
 [240px](https://ja.wikipedia.org/wiki/image:SLAC_Entrance.jpg "wikilink") **SLAC国立加速器研究所**（スラックこくりつかそくきけんきゅうじょ、SLAC National Accelerator Laboratory）は、[1962年](../Page/1962年.md "wikilink")に[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")により[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[メンローパークに設立された国立研究所](https://ja.wikipedia.org/wiki/メンローパーク_\(カリフォルニア州\) "wikilink")。[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[線形加速器によって](https://ja.wikipedia.org/wiki/加速器#加速方式から見た加速器の種類 "wikilink")[高エネルギー物理学](../Page/高エネルギー物理学.md "wikilink")（high-energy physics）の実験を行っている。[アメリカ合衆国エネルギー省](../Page/アメリカ合衆国エネルギー省.md "wikilink")（DOE）が所有し、同省との契約のもとスタンフォード大学が運営する、GOCO（Government Owned, Contractor Operated）形式の国立研究所である。

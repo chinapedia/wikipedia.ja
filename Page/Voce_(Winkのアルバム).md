@@ -1,4 +1,4 @@
-> この記事は[Voce \(Wink\)](https://ja.wikipedia.org/wiki/Voce_\(Wink\))から翻訳されています。
+> この記事は[Voce \(Winkのアルバム\)](https://ja.wikipedia.org/wiki/Voce_\(Winkのアルバム\))から翻訳されています。
 
 
 『**voce**』（ヴォーチェ）は、[Wink](../Page/Wink.md "wikilink")の13枚目のオリジナル・アルバム。[1994年](../Page/1994年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[ポリスター](../Page/ポリスター.md "wikilink")より発売された。

@@ -1,4 +1,4 @@
-> この記事は[ \(DJ\)](https://ja.wikipedia.org/wiki/_\(DJ\))から翻訳されています。
+> この記事は[みゆき \(DJ\)](https://ja.wikipedia.org/wiki/みゆき_\(DJ\))から翻訳されています。
 
 
 **みゆき**（本名未公表、[1979年](../Page/1979年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活躍する[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[大阪府](../Page/大阪府.md "wikilink")出身、[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[セイ](../Page/セイ.md "wikilink")所属。愛称は「**みゆきちゃん**」。
@@ -39,4 +39,4 @@
 
   - [所属事務所プロフィール](http://www.say.co.jp/profile/miyuki.html)
 
-[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:FM_OSAKAのDJ](https://ja.wikipedia.org/wiki/Category:FM_OSAKAのDJ "wikilink") [Category:近畿地方のローカルタレント‎](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルタレント‎ "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:FM_OSAKAのDJ](https://ja.wikipedia.org/wiki/Category:FM_OSAKAのDJ "wikilink") [Category:近畿地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルタレント "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

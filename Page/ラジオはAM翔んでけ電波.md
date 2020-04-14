@@ -1,14 +1,14 @@
-> この記事は[AM](https://ja.wikipedia.org/wiki/AM)から翻訳されています。
+> この記事は[ラジオはAM翔んでけ電波](https://ja.wikipedia.org/wiki/ラジオはAM翔んでけ電波)から翻訳されています。
 
 
 **ラジオはAM翔んでけ電波**（らじおはえいえむ とんでけでんぱ）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")までの4年半にわたり[TBCラジオ（東北放送）で放送された](../Page/東北放送.md "wikilink")、夜の若者向けワイド番組である。「**ラジ電**」の愛称で親しまれた。
 
 ## パーソナリティ
 
-  - [福井弘文](https://ja.wikipedia.org/wiki/福井弘文 "wikilink")
+  - [福井弘文](https://ja.wikipedia.org/wiki/福井弘文 "wikilink")（1983年4月 - 1987年4月）
   - [石川太郎](../Page/石川太郎.md "wikilink")
-  - [長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(東北放送\) "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink")）
-  - [渡辺敏之](https://ja.wikipedia.org/wiki/渡辺敏之 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")）
+  - [長谷川恵子](https://ja.wikipedia.org/wiki/長谷川恵子_\(東北放送\) "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[9月](../Page/9月.md "wikilink")）
+  - [渡辺敏之](https://ja.wikipedia.org/wiki/渡辺敏之 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月](../Page/9月.md "wikilink")）
 
 ※全員、TBCのアナウンサー（当時）
 
@@ -39,17 +39,17 @@
 
 ### 放送時間
 
-  - ナイターシーズンは、火曜～金曜21:00～22:20
+  - ナイターシーズンは火曜～金曜 21:00 - 22:20
 
 <!-- end list -->
 
   -
-    月曜は放送無し（「わが町バンザイ」のみ放送された時期がある）。
-    ナイター中継が延長されると21:04から5分刻みで放送開始が遅れる。それを逆手に取った「放送開始時刻当てクイズ」があった。（上述のナイター中継シーズンの「毎日毎日クイズ」のことである。）22:14までにナイターが終わらないと番組休止となる。
+    月曜は放送無し\[3\]。
+    ナイター中継が延長されると21時04分から5分刻みで放送開始が遅れる。それを逆手に取った放送開始時刻当てクイズがあった\[4\]。ナイター中継が22時14分までに終了しないと番組休止となる。
 
 <!-- end list -->
 
-  - ナイターシーズンオフは、月曜～金曜21:00～22:00
+  - ナイターシーズンオフは、月曜～金曜 21:00 - 22:00
 
 ## 脚注
 
@@ -57,3 +57,5 @@
 
 1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1987年7月号「中波47局全国行脚　第8回東北放送の巻」
 2.  月刊ラジオパラダイス 1986年5月号 p.77 - 78にて紹介
+3.  わが町バンザイのみ放送された時期がある。
+4.  上述のナイター中継シーズンの毎日毎日クイズのこと。

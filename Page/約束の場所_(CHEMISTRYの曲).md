@@ -1,4 +1,4 @@
-> この記事は[ \(CHEMISTRY\)](https://ja.wikipedia.org/wiki/_\(CHEMISTRY\))から翻訳されています。
+> この記事は[約束の場所 \(CHEMISTRYの曲\)](https://ja.wikipedia.org/wiki/約束の場所_\(CHEMISTRYの曲\))から翻訳されています。
 
 
 「**約束の場所**」（やくそくのばしょ）は、[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算17枚目の[シングル](../Page/シングル.md "wikilink")。発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。初回盤にはCHEMISTRY 5th Anniversary ロゴ・ステッカー封入。

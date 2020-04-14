@@ -1,4 +1,4 @@
-> この記事は[RADWIMPS 4](https://ja.wikipedia.org/wiki/RADWIMPS_4)から翻訳されています。
+> この記事は[RADWIMPS 4〜おかずのごはん〜](https://ja.wikipedia.org/wiki/RADWIMPS_4〜おかずのごはん〜)から翻訳されています。
 
 
 『**RADWIMPS 4 〜おかずのごはん〜**』（ラッドウインプス よん 〜おかずのごはん〜）は、[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")のメジャー2枚目、通算4枚目の[アルバム](../Page/アルバム.md "wikilink")である。
@@ -116,7 +116,7 @@
 
 ## 出典
 
-[Category:RADWIMPSのアルバム](https://ja.wikipedia.org/wiki/Category:RADWIMPSのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink")
+[Category:RADWIMPSのアルバム](https://ja.wikipedia.org/wiki/Category:RADWIMPSのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
 1.  雑誌「[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")」2007年1月号 p62
 2.  [「RADWIMPS4.5」](http://www.billboard-japan.com/goods/detail/257851)（Billboard JAPAN）

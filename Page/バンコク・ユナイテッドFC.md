@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バンコク・ユナイテッドFC](https://ja.wikipedia.org/wiki/バンコク・ユナイテッドFC)から翻訳されています。
 
 
 **トゥルー・バンコク・ユナイテッド・フットボール・クラブ**（, ）は、[タイ王国](../Page/タイ王国.md "wikilink")の[パトゥムターニー県](../Page/パトゥムターニー県.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[タイ・リーグ](https://ja.wikipedia.org/wiki/タイ・リーグ "wikilink")1に所属している。
@@ -379,7 +379,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")現在
 
-★    [12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")  ★   ★  ★                    ★
+★    [12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")  ★   ★  ★                   ★
 
 ※星印は外国人選手を示す。
 

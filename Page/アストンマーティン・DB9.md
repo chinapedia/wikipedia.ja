@@ -1,4 +1,4 @@
-> この記事は[DB9](https://ja.wikipedia.org/wiki/DB9)から翻訳されています。
+> この記事は[アストンマーティン・DB9](https://ja.wikipedia.org/wiki/アストンマーティン・DB9)から翻訳されています。
 
 
 **DB9**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカーである[アストンマーティン](../Page/アストンマーティン.md "wikilink")が製造する、[クーペ](../Page/クーペ.md "wikilink")または[ドロップヘッド・クーペタイプの](../Page/オープンカー.md "wikilink")[高級車](../Page/高級車.md "wikilink")である。

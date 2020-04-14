@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[仮面ライダーDX](https://ja.wikipedia.org/wiki/仮面ライダーDX)から翻訳されています。
 
 
 **仮面ライダーDX**（かめんらいだーでぃーえっくす）は、[サミー](../Page/サミー.md "wikilink")が[2007年](../Page/2007年.md "wikilink")に開発、発売した[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。

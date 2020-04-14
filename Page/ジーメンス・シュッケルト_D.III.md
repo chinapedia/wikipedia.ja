@@ -1,4 +1,4 @@
-> この記事は[ D.III](https://ja.wikipedia.org/wiki/_D.III)から翻訳されています。
+> この記事は[ジーメンス・シュッケルト D.III](https://ja.wikipedia.org/wiki/ジーメンス・シュッケルト_D.III)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Luftwaffenmuseum_der_Bundeswehr_-_Siemens_Schuckert_III.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:_Siemens-Schuckert_D.III.jpg "wikilink") **ジーメンス・シュッケルト D.III**（Siemens-Schuckert D.III）は[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")末期に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ジーメンス・シュッケルト社で開発された単発の](https://ja.wikipedia.org/wiki/:de:Siemens-Schuckertwerke "wikilink")[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。上昇力に優れた機体だったが、登場した時期が遅すぎて戦局に寄与することなく終わった。

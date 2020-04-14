@@ -1,4 +1,4 @@
-> この記事は[ FM](https://ja.wikipedia.org/wiki/_FM)から翻訳されています。
+> この記事は[松江・米子 テレビ・FM放送所](https://ja.wikipedia.org/wiki/松江・米子_テレビ・FM放送所)から翻訳されています。
 
 
 **松江・米子 テレビ・FM放送所**（まつえ・よなご テレビ・エフエムほうそうじょ）は、[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")の[枕木山](https://ja.wikipedia.org/wiki/枕木山 "wikilink")（まくらぎさん）と[澄水山](https://ja.wikipedia.org/wiki/澄水山 "wikilink")（しんじさん）に置かれているテレビ・FM放送の送信所である。枕木山の[NHK鳥取米子中継局は域外中継局である](../Page/NHK鳥取放送局.md "wikilink")。

@@ -7,7 +7,7 @@
 
 ## メンバー
 
-  - [YOW-ROW](https://ja.wikipedia.org/wiki/YOW-ROW "wikilink")＜ヨウイチロウ＞（ボーカル・プログラミング・作詞・作曲・編曲）
+  - [YOW-ROW](https://ja.wikipedia.org/wiki/YOW-ROW "wikilink")＜ヨウイチロウ＞ 愛知県出身（ボーカル・プログラミング・作詞・作曲・編曲）
 
 <!-- end list -->
 
@@ -17,13 +17,13 @@
     2015年、藤井麻輝とのシークレットユニット「Jugendgedenken」に参加。
     2016年、[今井寿](../Page/今井寿.md "wikilink")、藤井麻輝によるユニット[SCHAFT](../Page/SCHAFT.md "wikilink")のアルバム「ULTRA」レコーディングおよびツアーに、[上田剛士](../Page/上田剛士.md "wikilink")([AA=](https://ja.wikipedia.org/wiki/AA= "wikilink"))、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")、([L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink"))らと参加。
     2018年、 [HISASHI](../Page/HISASHI.md "wikilink")([GLAY](../Page/GLAY.md "wikilink"))と[hide](https://ja.wikipedia.org/wiki/hide "wikilink")トリビュートアルバム「hide TRIBUTE IMPULSE」（楽曲はDOUBT）に参加。
-    2019年、[斎藤工](../Page/斎藤工.md "wikilink")の姉の夫と遠い遠い親戚であることが判明する。
+    2019年、[斎藤工](../Page/斎藤工.md "wikilink")と遠い遠い親戚であることがテレビ番組によって判明する。
 
 <!-- end list -->
 
-  - **獨古豊**（ギター）
-  - **藤本直樹**（ベース）
-  - **日下部圭**（ドラム）
+  - **獨古豊** 福島県出身（ギター）
+  - **藤本直樹** 北海道出身（ベース）
+  - **日下部圭** 福島県出身（ドラム）
 
 ## ディスコグラフィー
 
@@ -258,6 +258,41 @@
 </tbody>
 </table>
 
+### デジタルシングル
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2020年2月20日</p></td>
+<td><p><strong>UNCENSORED</strong></p></td>
+<td></td>
+<td><ol>
+<li>UNCENSORED</li>
+</ol></td>
+<td><p>ideO/log/iE</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### その他
 
 [櫻井敦司](../Page/櫻井敦司.md "wikilink")『[惑星 -Rebirth-](https://ja.wikipedia.org/wiki/惑星_-Rebirth- "wikilink")』（2005年2月23日）3.愛の讃歌＜越路吹雪カバー＞ （アレンジ・演奏）
@@ -297,6 +332,8 @@ STAR GUiTAR『Traveller』（2012年6月6日）06. Orbital Sync feat. YOW-ROW fr
 STAR GUiTAR『Planetary Folkore』（2013年11月13日）09. World is mine feat. YOW-ROW from GARI
 
 [minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink") 『R』（2017年9月27日） 03.Spell-Subtraction 05.Spell-ver.1.0
+
+[浅倉大介](../Page/浅倉大介.md "wikilink")『DA METAVERSE M28』（2020年2月29日）Meme crack-growth20
 
 ### 楽曲提供、その他
 

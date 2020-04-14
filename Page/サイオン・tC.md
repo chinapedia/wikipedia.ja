@@ -1,4 +1,4 @@
-> この記事は[tC](https://ja.wikipedia.org/wiki/tC)から翻訳されています。
+> この記事は[サイオン・tC](https://ja.wikipedia.org/wiki/サイオン・tC)から翻訳されています。
 
 
 [The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg](https://ja.wikipedia.org/wiki/File:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg "fig:The_Rockstar_Energy_Drink_Scion_tC_brushes_the_wall_in_FD_competition.jpeg")に参戦するtC（2015年）\]\] **サイオン・tC**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて北米で若年層（[ジェネレーションY](../Page/ジェネレーションY.md "wikilink")）をターゲットとして展開していたブランド「[サイオン](../Page/サイオン.md "wikilink")（SCION）」にて販売していた[クーペ](../Page/クーペ.md "wikilink")である。

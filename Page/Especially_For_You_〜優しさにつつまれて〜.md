@@ -1,4 +1,4 @@
-> この記事は[Especially For You ](https://ja.wikipedia.org/wiki/Especially_For_You_)から翻訳されています。
+> この記事は[Especially For You 〜優しさにつつまれて〜](https://ja.wikipedia.org/wiki/Especially_For_You_〜優しさにつつまれて〜)から翻訳されています。
 
 
 『**Especially For You 〜優しさにつつまれて〜**』（エスペシャリー・フォー・ユー やさしさにつつまれて）は、[Wink](../Page/Wink.md "wikilink")の2枚目のオリジナル・アルバム。

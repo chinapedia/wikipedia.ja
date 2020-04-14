@@ -1,4 +1,4 @@
-> この記事は[AI-REN](https://ja.wikipedia.org/wiki/AI-REN)から翻訳されています。
+> この記事は[愛人［AI-REN］](https://ja.wikipedia.org/wiki/愛人［AI-REN］)から翻訳されています。
 
 
 『**愛人\[AI-REN\]**』（あいれん）は、[田中ユタカ](../Page/田中ユタカ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）において、[1999年](../Page/1999年.md "wikilink")11号から[2002年](../Page/2002年.md "wikilink")10号まで連載された。単行本は全5巻。2009年1月には愛蔵版（A5版）上下2巻が作者へのインタビューも収録して刊行された。

@@ -1,4 +1,4 @@
-> この記事は[DB7](https://ja.wikipedia.org/wiki/DB7)から翻訳されています。
+> この記事は[アストンマーティン・DB7](https://ja.wikipedia.org/wiki/アストンマーティン・DB7)から翻訳されています。
 
 
 **DB7**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー、[アストン・マーティン・ラゴンダ・リミテッドが](../Page/アストンマーティン.md "wikilink")[1994年](../Page/1994年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて製造していた、[クーペ](../Page/クーペ.md "wikilink")または[オープンタイプの](../Page/オープンカー.md "wikilink")[高級車](../Page/高級車.md "wikilink")である。

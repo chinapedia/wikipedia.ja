@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[ミスUSA](https://ja.wikipedia.org/wiki/ミスUSA)から翻訳されています。
 
 
 [Alyssa_Campanella_2010.jpg](https://ja.wikipedia.org/wiki/File:Alyssa_Campanella_2010.jpg "fig:Alyssa_Campanella_2010.jpg")

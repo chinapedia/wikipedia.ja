@@ -1,4 +1,4 @@
-> この記事は[PBA](https://ja.wikipedia.org/wiki/PBA)から翻訳されています。
+> この記事は[PBA世界選手権](https://ja.wikipedia.org/wiki/PBA世界選手権)から翻訳されています。
 
 
 **PBA世界選手権**（**PBA World Championship**）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")[ボウリング](../Page/ボウリング.md "wikilink")「PBAツアー」の4大メジャートーナメント（公式戦）の1つ。1958年に設立され、翌年からツアーを開始した[全米プロボウラーズ協会](../Page/全米プロボウラーズ協会.md "wikilink")（The Professional Bowlers Association：PBA）が、1960年に初のメジャートーナメントとしてPBA全米選手権（PBA National Championship）を創設。2001年のツアー改革により2002年大会から改称した。

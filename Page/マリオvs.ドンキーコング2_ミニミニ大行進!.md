@@ -1,4 +1,4 @@
-> この記事は[vs.2 !](https://ja.wikipedia.org/wiki/vs.2_!)から翻訳されています。
+> この記事は[マリオvs.ドンキーコング2 ミニミニ大行進!](https://ja.wikipedia.org/wiki/マリオvs.ドンキーコング2_ミニミニ大行進!)から翻訳されています。
 
 
 <div class="pathnavbox">

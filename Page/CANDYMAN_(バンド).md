@@ -1,4 +1,4 @@
-> この記事は[CANDYMAN \(\)](https://ja.wikipedia.org/wiki/CANDYMAN_\(\))から翻訳されています。
+> この記事は[CANDYMAN \(バンド\)](https://ja.wikipedia.org/wiki/CANDYMAN_\(バンド\))から翻訳されています。
 
 
 **CANDYMAN**（キャンディマン）は[2005年](../Page/2005年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽バンド](../Page/バンド_\(音楽\).md "wikilink")。[flow-war](https://ja.wikipedia.org/wiki/flow-war "wikilink")のメンバーだった[安保"Suginho"一生](../Page/安保"Suginho"一生.md "wikilink")（杉元一生）と及位"CANDY"平（[及崎森平](https://ja.wikipedia.org/wiki/及崎森平 "wikilink")）、および[小本"P"克也](https://ja.wikipedia.org/wiki/小本"P"克也 "wikilink")の3人によって構成されていた。 2009年3月28日の新宿MARZでの「**LAST LIVE**」を以て解散\[1\]。のち及位によって後継バンドである[NumberClub](https://ja.wikipedia.org/wiki/NumberClub "wikilink")が結成される。

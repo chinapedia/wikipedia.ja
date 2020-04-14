@@ -1,4 +1,4 @@
-> この記事は[NIRS](https://ja.wikipedia.org/wiki/NIRS)から翻訳されています。
+> この記事は[NIRS脳計測装置](https://ja.wikipedia.org/wiki/NIRS脳計測装置)から翻訳されています。
 
 
 **NIRS脳計測装置**とは、[近赤外光を用いて頭皮上から非侵襲的に](https://ja.wikipedia.org/wiki/近赤外線 "wikilink")[脳機能マッピング](../Page/脳機能マッピング.md "wikilink")する、「光機能画像法」の原理を応用した装置のことである。「NIRS」（ニルス）、「きんせき」などと略称される。\[1\]

@@ -1,4 +1,4 @@
-> この記事は[7 \(L\'ArcenCielDVD\)](https://ja.wikipedia.org/wiki/7_\(L\'ArcenCielDVD\))から翻訳されています。
+> この記事は[7 \(L\'Arc〜en〜CielのDVD\)](https://ja.wikipedia.org/wiki/7_\(L\'Arc〜en〜CielのDVD\))から翻訳されています。
 
 
 『**7**』（セブン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

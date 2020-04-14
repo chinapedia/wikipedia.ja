@@ -1,4 +1,4 @@
-> この記事は[BMWZ8](https://ja.wikipedia.org/wiki/BMWZ8)から翻訳されています。
+> この記事は[BMW・Z8](https://ja.wikipedia.org/wiki/BMW・Z8)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bmwz8.JPG "wikilink")[BMW_Z8_(12957998815).jpg](https://ja.wikipedia.org/wiki/File:BMW_Z8_\(12957998815\).jpg "fig:BMW_Z8_(12957998815).jpg")[BMW_Z8_(4639731219).jpg](https://ja.wikipedia.org/wiki/File:BMW_Z8_\(4639731219\).jpg "fig:BMW_Z8_(4639731219).jpg") **Z8**（ズィー・エイト、ツェット・アハト）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[BMW](../Page/BMW.md "wikilink")が2000年から2003年まで製造・販売していた[オープンカー](../Page/オープンカー.md "wikilink")（ロードスター）である。コードネーム（モデルコード）は、**E52**。一代限りで生産が終了された。

@@ -1,4 +1,4 @@
-> この記事は[MORUE](https://ja.wikipedia.org/wiki/MORUE)から翻訳されています。
+> この記事は[MORUE中島](https://ja.wikipedia.org/wiki/MORUE中島)から翻訳されています。
 
 
 **MORUE中島**（モルエなかじま）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[室蘭市](../Page/室蘭市.md "wikilink")にある[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
@@ -26,7 +26,7 @@
   - [メガネサロンルック](https://ja.wikipedia.org/wiki/メガネサロンルック "wikilink")
   - [サンマルクカフェ](../Page/サンマルクホールディングス.md "wikilink")
   - [クールカレアン](https://ja.wikipedia.org/wiki/クールカレアン "wikilink")
-  - [ラーメン鉄塔](https://ja.wikipedia.org/wiki/ラーメン鉄塔 "wikilink")
+  - [ラーメン鉄灯(TETTO)](https://ja.wikipedia.org/wiki/ラーメン鉄灯\(TETTO\) "wikilink")
   - [いたがき](https://ja.wikipedia.org/wiki/いたがき "wikilink")
   - [ラパックスワールド](https://ja.wikipedia.org/wiki/ラパックスワールド "wikilink")
   - [TUTUMIつつみ](https://ja.wikipedia.org/wiki/TUTUMIつつみ "wikilink")

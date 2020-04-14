@@ -1,4 +1,4 @@
-> この記事は[REFLEX](https://ja.wikipedia.org/wiki/REFLEX)から翻訳されています。
+> この記事は[ミラーマンREFLEX](https://ja.wikipedia.org/wiki/ミラーマンREFLEX)から翻訳されています。
 
 
 **ミラーマンREFLEX**（ミラーマンリフレックス）は、[2006年に発売された特撮オリジナルビデオ](../Page/2006年の映画.md "wikilink")\[1\]。全3話。先行して劇場公開されたことから映画作品として扱われることもある\[2\]\[3\]。

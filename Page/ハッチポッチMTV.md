@@ -1,4 +1,4 @@
-> この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
+> この記事は[ハッチポッチMTV](https://ja.wikipedia.org/wiki/ハッチポッチMTV)から翻訳されています。
 
 
 「**ハッチポッチMTV**」は、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[教育テレビで放送されたテレビ番組](../Page/NHK教育テレビジョン.md "wikilink")『[ハッチポッチステーション](../Page/ハッチポッチステーション.md "wikilink")』にて放送された音楽コーナーの名称である。

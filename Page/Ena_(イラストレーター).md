@@ -1,4 +1,4 @@
-> この記事は[Ena \(\)](https://ja.wikipedia.org/wiki/Ena_\(\))から翻訳されています。
+> この記事は[Ena \(イラストレーター\)](https://ja.wikipedia.org/wiki/Ena_\(イラストレーター\))から翻訳されています。
 
 
 **ena**（エナ、女性、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")。FEMME所属。[大阪府](../Page/大阪府.md "wikilink")出身。

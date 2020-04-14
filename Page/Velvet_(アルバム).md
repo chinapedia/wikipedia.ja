@@ -1,4 +1,4 @@
-> この記事は[Velvet \(\)](https://ja.wikipedia.org/wiki/Velvet_\(\))から翻訳されています。
+> この記事は[Velvet \(アルバム\)](https://ja.wikipedia.org/wiki/Velvet_\(アルバム\))から翻訳されています。
 
 
 『**Velvet**』（ベルベット）は、[Wink](../Page/Wink.md "wikilink")の4枚目のオリジナル・アルバム。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[ポリスター](../Page/ポリスター.md "wikilink")より発売された。

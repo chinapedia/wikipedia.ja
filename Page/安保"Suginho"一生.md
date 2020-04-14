@@ -1,4 +1,4 @@
-> この記事は[Suginho](https://ja.wikipedia.org/wiki/Suginho)から翻訳されています。
+> この記事は[安保Suginho一生](https://ja.wikipedia.org/wiki/安保Suginho一生)から翻訳されています。
 
 
 **安保 一生**（あんぼ いっせい、[1972年](../Page/1972年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧芸名は**杉元 一生**（すぎもと いっせい）。本名同じ。**安保 "Suginho" 一生**（あんぼ すぎーにょ いっせい）と名乗る事もある。

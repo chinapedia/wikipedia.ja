@@ -1,4 +1,4 @@
-> この記事は[ \(GLAY\)](https://ja.wikipedia.org/wiki/_\(GLAY\))から翻訳されています。
+> この記事は[鼓動 \(GLAYの曲\)](https://ja.wikipedia.org/wiki/鼓動_\(GLAYの曲\))から翻訳されています。
 
 
 「**鼓動**」（こどう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[GLAY](../Page/GLAY.md "wikilink")の通算36作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")にリリースされた。発売元は[Capitol Records](../Page/キャピトル・レコード.md "wikilink")。

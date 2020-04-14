@@ -1,4 +1,4 @@
-> この記事は[SC \(\)](https://ja.wikipedia.org/wiki/SC_\(\))から翻訳されています。
+> この記事は[SC \(航空機\)](https://ja.wikipedia.org/wiki/SC_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=SC シーホーク | 画像=Image:Curtiss_SC-1_Seahawk.jpg | キャプション=Curtiss　SC Seahawk | 用途=[観測機](../Page/観測機.md "wikilink") | 分類=[水上機](../Page/水上機.md "wikilink") | 設計者= | 製造者=[カーチス・ライト](../Page/カーチス・ライト.md "wikilink") | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 初飛行年月日=[1944年](../Page/1944年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") | 生産開始年月日= | 運用開始年月日=[1944年](../Page/1944年.md "wikilink") | 退役年月日=[1949年](../Page/1949年.md "wikilink") | 運用状況= | 生産数=577機 | ユニットコスト= }}

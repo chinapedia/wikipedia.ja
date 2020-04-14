@@ -1,4 +1,4 @@
-> この記事は[OZ \(\)](https://ja.wikipedia.org/wiki/OZ_\(\))から翻訳されています。
+> この記事は[OZ \(アルバム\)](https://ja.wikipedia.org/wiki/OZ_\(アルバム\))から翻訳されています。
 
 
 『**OZ**』（オズ）は、[100s](../Page/100s.md "wikilink")のファースト[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。

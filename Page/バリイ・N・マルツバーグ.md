@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[バリイ・N・マルツバーグ](https://ja.wikipedia.org/wiki/バリイ・N・マルツバーグ)から翻訳されています。
 
 
 '''バリイ・ナサニエル・マルツバーグ '''（Barry Nathaniel Malzberg，[1939年](../Page/1939年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、[推理作家](../Page/推理作家.md "wikilink")、アンソロジスト。K・M・オドネル、マイク・バリー、ハワード・リーなどのペンネームを使って普通小説からポルノまで多くの作品を書き上げた。

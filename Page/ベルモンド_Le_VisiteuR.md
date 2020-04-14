@@ -1,4 +1,4 @@
-> この記事は[ Le VisiteuR](https://ja.wikipedia.org/wiki/_Le_VisiteuR)から翻訳されています。
+> この記事は[ベルモンド Le VisiteuR](https://ja.wikipedia.org/wiki/ベルモンド_Le_VisiteuR)から翻訳されています。
 
 
 『**ベルモンド Le VisiteuR**』（ベルモンド ル・ヴィジトゥール）は、[石岡ショウエイ](../Page/石岡ショウエイ.md "wikilink")によるファンタジー[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）[2007年](../Page/2007年.md "wikilink")32号から51号まで連載された。

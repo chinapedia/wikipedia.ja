@@ -1,4 +1,4 @@
-> この記事は[R\&D](https://ja.wikipedia.org/wiki/R\&D)から翻訳されています。
+> この記事は[パーソルR\&D](https://ja.wikipedia.org/wiki/パーソルR\&D)から翻訳されています。
 
 
 **パーソルR\&D株式会社**（）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")に本社を置く[設計](../Page/設計.md "wikilink")・[研究開発](../Page/研究開発.md "wikilink")専門企業。

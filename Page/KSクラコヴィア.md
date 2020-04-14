@@ -1,4 +1,4 @@
-> この記事は[KS](https://ja.wikipedia.org/wiki/KS)から翻訳されています。
+> この記事は[KSクラコヴィア](https://ja.wikipedia.org/wiki/KSクラコヴィア)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Krakow_Cracovia_1.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kongres_2011_Kraków_\(Cracovia\).jpg "wikilink")

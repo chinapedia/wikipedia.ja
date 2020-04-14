@@ -1,4 +1,4 @@
-> この記事は[Around The World \(MONKEY MAJIK\)](https://ja.wikipedia.org/wiki/Around_The_World_\(MONKEY_MAJIK\))から翻訳されています。
+> この記事は[Around The World \(MONKEY MAJIKの曲\)](https://ja.wikipedia.org/wiki/Around_The_World_\(MONKEY_MAJIKの曲\))から翻訳されています。
 
 
 「**Around The World**」（アラウンド・ザ・ワールド）は日本のポップ・ロックバンド、[MONKEY MAJIKの](../Page/MONKEY_MAJIK.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

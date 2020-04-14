@@ -1,4 +1,4 @@
-> この記事は[!4 YOU! ](https://ja.wikipedia.org/wiki/!4_YOU!_)から翻訳されています。
+> この記事は[バカヤロー!4 YOU! お前のことだよ](https://ja.wikipedia.org/wiki/バカヤロー!4_YOU!_お前のことだよ)から翻訳されています。
 
 
 『**バカヤロー\!4 YOU\! お前のことだよ**』（バカヤロー\!フォー ユー\! おまえのことだよ）は、[1991年](../Page/1991年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。

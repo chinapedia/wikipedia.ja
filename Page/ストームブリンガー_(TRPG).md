@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[ストームブリンガー \(TRPG\)](https://ja.wikipedia.org/wiki/ストームブリンガー_\(TRPG\))から翻訳されています。
 
 
 『**ストームブリンガー**』（*Stormbringer*）は、米国の[ケイオシアム](https://ja.wikipedia.org/wiki/ケイオシアム "wikilink")社が製作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のタイトル。[マイケル・ムアコック](../Page/マイケル・ムアコック.md "wikilink")の『[エターナル・チャンピオンシリーズ](../Page/エターナル・チャンピオンシリーズ.md "wikilink")』の世界観を原作としたゲームで、日本語版も[ホビージャパン](../Page/ホビージャパン.md "wikilink")と[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から出版されている。『ストームブリンガー』と同じ世界観を持つ『エルリック\!』『Hawkmoon』（未訳）についてもこの項目で併せて扱う。

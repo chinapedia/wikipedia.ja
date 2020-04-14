@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTドコモの主な携帯電話端末納入メーカー](https://ja.wikipedia.org/wiki/NTTドコモの主な携帯電話端末納入メーカー)から翻訳されています。
 
 
 **NTTドコモの主な携帯電話端末納入メーカー**（NTTドコモのおもなけいたいでんわたんまつのうにゅうめーかー）では、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の主な[携帯電話](../Page/携帯電話.md "wikilink")端末納入メーカーについて詳細に説明する。

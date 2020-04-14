@@ -1,4 +1,4 @@
-> この記事は[T-](https://ja.wikipedia.org/wiki/T-)から翻訳されています。
+> この記事は[T-ボーン・ウォーカー](https://ja.wikipedia.org/wiki/T-ボーン・ウォーカー)から翻訳されています。
 
 
 **T-ボーン・ウォーカー** (**T-Bone Walker**, [1910年](../Page/1910年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")出身の[ブルース](../Page/ブルース.md "wikilink")・[ギタリスト](../Page/ギタリスト.md "wikilink")、[シンガー](../Page/歌手.md "wikilink")。本名は、アーロン・ティーボー・ウォーカー。ブルースに[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を持ち込んだ最初の人物と言われており、モダン・ブルース・ギターの父とも称される。彼の代表曲"Stormy Monday"はブルースのスタンダードとして知られるようになった。

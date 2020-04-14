@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[マッドTV!](https://ja.wikipedia.org/wiki/マッドTV!)から翻訳されています。
 
 
 『**マッドTV\!**』（*MADtv*）は、[風刺](../Page/風刺.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")『[MAD](../Page/MAD_\(雑誌\).md "wikilink")』から派生した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[コメディ](../Page/喜劇.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")の配給により、[FOXテレビで毎週土曜日午後](../Page/フォックス放送.md "wikilink")11時（『[サタデー・ナイト・ライブ](../Page/サタデー・ナイト・ライブ.md "wikilink")』と同時間帯）から放送された。初回放送は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ EOS-1V](https://ja.wikipedia.org/wiki/_EOS-1V)から翻訳されています。
+> この記事は[キヤノン EOS-1V](https://ja.wikipedia.org/wiki/キヤノン_EOS-1V)から翻訳されています。
 
 
 **キヤノンEOS-1V**は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が開発、2000年から2018年まで販売していた[EOSシリーズの](https://ja.wikipedia.org/wiki/キヤノン・EOSシリーズ "wikilink")[フラグシップ機](../Page/フラグシップ機.md "wikilink")である。 35mmフィルムを用いるキヤノンのカメラでは最後まで販売されていた機種である\[1\]\[2\] 。

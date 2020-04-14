@@ -1,4 +1,4 @@
-> この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
+> この記事は[見る力を実践で鍛える DS眼力トレーニング](https://ja.wikipedia.org/wiki/見る力を実践で鍛える_DS眼力トレーニング)から翻訳されています。
 
 
 **見る力を実践で鍛える DS眼力トレーニング**（みるちからをじっせんできたえる ディーエスめぢからトレーニング）は、[任天堂](../Page/任天堂.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用「見る力」トレーニングソフト。[Touch\! Generationsシリーズの一つ](../Page/Touch!_Generations.md "wikilink")。

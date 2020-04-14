@@ -1,4 +1,4 @@
-> この記事は[WS](https://ja.wikipedia.org/wiki/WS)から翻訳されています。
+> この記事は[W・S](https://ja.wikipedia.org/wiki/W・S)から翻訳されています。
 
 
 **W・S**（ダブル・エス）は、[2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売された[WEST SIDEの](../Page/WEST_SIDE.md "wikilink")1stアルバムであり、ラストアルバム。

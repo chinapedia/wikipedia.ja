@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTドコモのイメージキャラクター](https://ja.wikipedia.org/wiki/NTTドコモのイメージキャラクター)から翻訳されています。
 
 
 本記事では、**[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のイメージキャラクター**について各地域分社時代を含めて詳細に説明する。
@@ -69,7 +69,7 @@
   - [レイザーラモンRG](../Page/レイザーラモンRG.md "wikilink")
   - [平野ノラ](https://ja.wikipedia.org/wiki/平野ノラ "wikilink")
   - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")
-  - [佐藤健](../Page/佐藤健_\(俳優\).md "wikilink")\[10\] Style 20
+  - [佐藤健](../Page/佐藤健_\(俳優\).md "wikilink")\[10\] Style 20、5G
   - ポインコ兄弟：dポイント（2015年12月 - ）
       - ポインコ兄弟：dポイントのマスコットキャラクター（[インコ](../Page/インコ.md "wikilink")）。声は[ロッチ](../Page/ロッチ.md "wikilink")（[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")、[コカドケンタロウ](https://ja.wikipedia.org/wiki/コカドケンタロウ "wikilink")）が担当\[11\]
       - 他に、ゴールドポインコ様（声は[平泉成](../Page/平泉成.md "wikilink")が担当）や、ポインコ師匠、ポインコハカセ、ポインコネェさん、ポインコプリンス、ポインコぼうや、ポインコ番長もいる\[12\]
@@ -144,7 +144,7 @@
 
   - [ランディ・バース](../Page/ランディ・バース.md "wikilink")
   - [掛布雅之](../Page/掛布雅之.md "wikilink") ([白戸彩の変声役として](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")の[白戸家](https://ja.wikipedia.org/wiki/白戸家 "wikilink")に声の出演経験がある)
-  - [岡田彰布](https://ja.wikipedia.org/wiki/岡田彰布 "wikilink")（59歳以下）
+  - [岡田彰布](https://ja.wikipedia.org/wiki/岡田彰布 "wikilink")（放映当時59歳以下）
 
 #### 2014年5月からのCM
 

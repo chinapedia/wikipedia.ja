@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[FCバルセロナ \(ハンドボール\)](https://ja.wikipedia.org/wiki/FCバルセロナ_\(ハンドボール\))から翻訳されています。
 
 
 [2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg](https://ja.wikipedia.org/wiki/File:2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg "fig:2012_2013_-_Aitor_Ariño_-_Flickr_-_Castroquini-FCB.jpg")と同じ、青とえんじのユニフォーム（2012年）\]\] **フットボール・クラブ・バルセロナ・ハンドボール**（）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バルセロナ](../Page/バルセロナ.md "wikilink")に本拠地を置く[ハンドボール](../Page/ハンドボール.md "wikilink")クラブである。[トルコ](../Page/トルコ.md "wikilink")のタイヤメーカーであるラッサ（Lassa）が命名権を取得しており、**FCバルセロナ・ラッサ**（）として活動している。

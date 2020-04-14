@@ -1,4 +1,4 @@
-> この記事は[SURUGA VISA](https://ja.wikipedia.org/wiki/SURUGA_VISA)から翻訳されています。
+> この記事は[SURUGA VISAデビットカード](https://ja.wikipedia.org/wiki/SURUGA_VISAデビットカード)から翻訳されています。
 
 
 [SURUGA_IC_Cash_Card.jpg](https://ja.wikipedia.org/wiki/File:SURUGA_IC_Cash_Card.jpg "fig:SURUGA_IC_Cash_Card.jpg") **SURUGA VISAデビットカード**（スルガビザデビットカード）は、[スルガ銀行](../Page/スルガ銀行.md "wikilink")が発行する[Visa](../Page/Visa.md "wikilink")ブランドの[デビットカード](../Page/デビットカード.md "wikilink")である。

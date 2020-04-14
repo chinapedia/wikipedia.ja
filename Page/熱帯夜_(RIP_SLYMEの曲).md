@@ -1,4 +1,4 @@
-> この記事は[ \(RIP SLYME\)](https://ja.wikipedia.org/wiki/_\(RIP_SLYME\))から翻訳されています。
+> この記事は[熱帯夜 \(RIP SLYMEの曲\)](https://ja.wikipedia.org/wiki/熱帯夜_\(RIP_SLYMEの曲\))から翻訳されています。
 
 
 「**熱帯夜**」（ねったいや）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")発売。

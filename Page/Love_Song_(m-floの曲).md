@@ -1,4 +1,4 @@
-> この記事は[Love Song \(m-flo\)](https://ja.wikipedia.org/wiki/Love_Song_\(m-flo\))から翻訳されています。
+> この記事は[Love Song \(m-floの曲\)](https://ja.wikipedia.org/wiki/Love_Song_\(m-floの曲\))から翻訳されています。
 
 
 『**Love Song**』（ラヴ・ソング）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の21st[シングル](../Page/シングル.md "wikilink")（m-flo loves [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") 名義）。[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。

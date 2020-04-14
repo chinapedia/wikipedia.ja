@@ -260,15 +260,15 @@
 
 ## ミュージックビデオ
 
-|                                                           |                                                                                         |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **監督**                                                    | **曲名**                                                                                  |
-| [壱](https://ja.wikipedia.org/wiki/壱 "wikilink")           | 「[Fantasy Of Life](http://www.indiesmusic.com/musicvideo/video.asp?id=10563)」           |
-| [佐藤晋一](https://ja.wikipedia.org/wiki/佐藤晋一 "wikilink")     | 「[High Fidelity](http://www.indiesmusic.com/musicvideo/video.asp?id=10318)」             |
-| [高梨喜芳](https://ja.wikipedia.org/wiki/高梨喜芳 "wikilink")     | 「[Until I Die](http://www.indiesmusic.com/musicvideo/video.asp?id=10295)」「the last cut」 |
-| [長沼将樹](https://ja.wikipedia.org/wiki/長沼将樹 "wikilink") & 壱 | 「[Short Drama](http://www.indiesmusic.com/musicvideo/video.asp?id=10585)」               |
-| 不明                                                        | 「Sentimental Dream」                                                                     |
-|                                                           |                                                                                         |
+|                                                           |                                                                                          |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **監督**                                                    | **曲名**                                                                                   |
+| [壱](https://ja.wikipedia.org/wiki/壱 "wikilink")           | 「[Fantasy Of Life](https://www.indiesmusic.com/musicvideo/video.asp?id=10563)」           |
+| [佐藤晋一](https://ja.wikipedia.org/wiki/佐藤晋一 "wikilink")     | 「[High Fidelity](https://www.indiesmusic.com/musicvideo/video.asp?id=10318)」             |
+| [高梨喜芳](https://ja.wikipedia.org/wiki/高梨喜芳 "wikilink")     | 「[Until I Die](https://www.indiesmusic.com/musicvideo/video.asp?id=10295)」「the last cut」 |
+| [長沼将樹](https://ja.wikipedia.org/wiki/長沼将樹 "wikilink") & 壱 | 「[Short Drama](https://www.indiesmusic.com/musicvideo/video.asp?id=10585)」               |
+| 不明                                                        | 「Sentimental Dream」                                                                      |
+|                                                           |                                                                                          |
 
 ## 関連項目
 

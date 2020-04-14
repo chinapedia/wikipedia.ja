@@ -1,4 +1,4 @@
-> この記事は[ VOL.1](https://ja.wikipedia.org/wiki/_VOL.1)から翻訳されています。
+> この記事は[キューティークイーン VOL.1](https://ja.wikipedia.org/wiki/キューティークイーン_VOL.1)から翻訳されています。
 
 
 『**キューティークイーン VOL.1**』（キューティークイーン ボリュームワン）は、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink") の1stアルバム。

@@ -1,4 +1,4 @@
-> この記事は[S\&M](https://ja.wikipedia.org/wiki/S\&M)から翻訳されています。
+> この記事は[S\&Mシリーズ](https://ja.wikipedia.org/wiki/S\&Mシリーズ)から翻訳されています。
 
 
 『**S\&Mシリーズ**』\[1\]（S\&M series）は、[講談社](../Page/講談社.md "wikilink")より発行されている[森博嗣](../Page/森博嗣.md "wikilink")による[推理小説](../Page/推理小説.md "wikilink")のシリーズ。

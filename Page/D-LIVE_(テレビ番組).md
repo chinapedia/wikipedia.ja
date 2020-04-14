@@ -1,4 +1,4 @@
-> この記事は[D-LIVE \(\)](https://ja.wikipedia.org/wiki/D-LIVE_\(\))から翻訳されています。
+> この記事は[D-LIVE \(テレビ番組\)](https://ja.wikipedia.org/wiki/D-LIVE_\(テレビ番組\))から翻訳されています。
 
 
 『**D-LIVE**』（ドライブ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で火曜深夜（正確には水曜）に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")である。[車載カメラ](https://ja.wikipedia.org/wiki/車載カメラ "wikilink")で収録した[ドライブ](../Page/ドライブ.md "wikilink")の走行シーンを[クラブミュージック](https://ja.wikipedia.org/wiki/クラブミュージック "wikilink")に乗せてそのまま放送するという深夜放送ならではの企画番組であった。

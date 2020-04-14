@@ -1,4 +1,4 @@
-> この記事は[GPS](https://ja.wikipedia.org/wiki/GPS)から翻訳されています。
+> この記事は[ハンドヘルドGPS](https://ja.wikipedia.org/wiki/ハンドヘルドGPS)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GPS_Receivers.jpg "wikilink") **ハンドヘルドGPS**は、[電池](../Page/電池.md "wikilink")で駆動し手に持って携帯しながら使える[GPS受信機である](../Page/グローバル・ポジショニング・システム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[M.E.M. ](https://ja.wikipedia.org/wiki/M.E.M._)から翻訳されています。
+> この記事は[M.E.M. 〜汚された純潔〜](https://ja.wikipedia.org/wiki/M.E.M._〜汚された純潔〜)から翻訳されています。
 
 
 『**M.E.M. 〜汚された純潔〜**』（エム.イー.エム. 〜よごされたじゅんけつ〜）は、[1999年](../Page/1999年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[アイルより発売された](../Page/アイル_\(ゲームブランド\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。

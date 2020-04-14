@@ -1,4 +1,4 @@
-> この記事は[PR](https://ja.wikipedia.org/wiki/PR)から翻訳されています。
+> この記事は[PR誌](https://ja.wikipedia.org/wiki/PR誌)から翻訳されています。
 
 
 **PR誌**（ピーアールし）は、[企業](../Page/企業.md "wikilink")や各種団体などが、自社製品の販売促進や存在や主張の宣伝などを目的として発行する[定期刊行物](https://ja.wikipedia.org/wiki/定期刊行物 "wikilink")である。[出版社](../Page/出版社.md "wikilink")が発行するものは、特に**出版社PR誌**と呼ばれる。

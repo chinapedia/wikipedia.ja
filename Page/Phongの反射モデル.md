@@ -1,4 +1,4 @@
-> この記事は[Phong](https://ja.wikipedia.org/wiki/Phong)から翻訳されています。
+> この記事は[Phongの反射モデル](https://ja.wikipedia.org/wiki/Phongの反射モデル)から翻訳されています。
 
 
 **Phongの反射モデル**（フォンのはんしゃモデル; ）とは、[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")において、モデリングされた面 (surface) 上の点に影をつけるための照明と陰影（[シェーディング](https://ja.wikipedia.org/wiki/シェーディング "wikilink")）モデルである。**Phong照明**、**Phongライティング**とも。

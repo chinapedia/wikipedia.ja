@@ -1,4 +1,4 @@
-> この記事は[OSCA \(\)](https://ja.wikipedia.org/wiki/OSCA_\(\))から翻訳されています。
+> この記事は[OSCA \(曲\)](https://ja.wikipedia.org/wiki/OSCA_\(曲\))から翻訳されています。
 
 
 「**OSCA**」（オスカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[東京事変](../Page/東京事変.md "wikilink")による[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")より発売された4枚目の[シングル](../Page/シングル.md "wikilink")の表題曲として発表された。

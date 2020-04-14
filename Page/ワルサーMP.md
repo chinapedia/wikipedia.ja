@@ -1,4 +1,4 @@
-> この記事は[MP](https://ja.wikipedia.org/wiki/MP)から翻訳されています。
+> この記事は[ワルサーMP](https://ja.wikipedia.org/wiki/ワルサーMP)から翻訳されています。
 
 
 [Portuguese_Navy_Walther_MPL.JPEG](https://ja.wikipedia.org/wiki/File:Portuguese_Navy_Walther_MPL.JPEG "fig:Portuguese_Navy_Walther_MPL.JPEG")の[兵士](../Page/兵士.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）\]\] [Admiral_Howard_reviewing_the_Portuguese_troops,_13_October,_2017.jpg](https://ja.wikipedia.org/wiki/File:Admiral_Howard_reviewing_the_Portuguese_troops,_13_October,_2017.jpg "fig:Admiral_Howard_reviewing_the_Portuguese_troops,_13_October,_2017.jpg") **ワルサーMP**（[ドイツ語](../Page/ドイツ語.md "wikilink")：）は、[ワルサー](../Page/ワルサー.md "wikilink")社が設計した[短機関銃](../Page/短機関銃.md "wikilink")である。[長銃身モデルの](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")**MPL**と短銃身モデルの**MPK**の2種が存在する。LとKはそれぞれドイツ語で長（Lang）、短（Kurz）を意味する。

@@ -1,4 +1,4 @@
-> この記事は[ \(S\)](https://ja.wikipedia.org/wiki/_\(S\))から翻訳されています。
+> この記事は[大地 \(パール・S・バック\)](https://ja.wikipedia.org/wiki/大地_\(パール・S・バック\))から翻訳されています。
 
 
 『**大地**』（だいち、*The Good Earth*）は、[パール・S・バック](../Page/パール・S・バック.md "wikilink")の長編小説（1931年）。続編の『[息子たち](https://ja.wikipedia.org/wiki/息子たち "wikilink")』（1932年）、『[分裂せる家](../Page/分裂せる家.md "wikilink")』（1935年）とあわせて三部作 *"The House of Earth"* を形成する。一般にこの三部作が『大地』として出版される（そのときは『大地』が第1部となる）。この作品でバックは[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")を受賞した。

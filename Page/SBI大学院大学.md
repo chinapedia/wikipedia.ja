@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBI大学院大学](https://ja.wikipedia.org/wiki/SBI大学院大学)から翻訳されています。
 
 
 [通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")の[大学院大学](../Page/大学院大学.md "wikilink")である。初代[学長](https://ja.wikipedia.org/wiki/学長 "wikilink")は[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")代表取締役執行役員[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")の[北尾吉孝](../Page/北尾吉孝.md "wikilink")。

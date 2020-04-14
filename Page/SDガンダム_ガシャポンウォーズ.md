@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム ガシャポンウォーズ](https://ja.wikipedia.org/wiki/SDガンダム_ガシャポンウォーズ)から翻訳されています。
 
 
 『**SDガンダム ガシャポンウォーズ**』（*SD GUNDAM GASHAPONWARS*）は、[2005年](../Page/2005年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（バンダイレーベル）から発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")専用ソフト。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")には[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")移植版が発売された。

@@ -1,4 +1,4 @@
-> この記事は[Mk.II](https://ja.wikipedia.org/wiki/Mk.II)から翻訳されています。
+> この記事は[アバンテMk.II](https://ja.wikipedia.org/wiki/アバンテMk.II)から翻訳されています。
 
 
 **アバンテMk.Ⅱ**(アバンテ・マークツー-AVANTE　Mk.Ⅱ)は、[タミヤ](../Page/タミヤ.md "wikilink")の[ラジオコントロールカー](https://ja.wikipedia.org/wiki/ラジオコントロールカー "wikilink")および同名の[ミニ四駆](../Page/ミニ四駆.md "wikilink")である。

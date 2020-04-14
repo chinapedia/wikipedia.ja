@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCファドゥーツ](https://ja.wikipedia.org/wiki/FCファドゥーツ)から翻訳されています。
 
 
 **FCファドゥーツ** (**Fußball Club Vaduz**) は、[リヒテンシュタイン](../Page/リヒテンシュタイン.md "wikilink")・[ファドゥーツ](../Page/ファドゥーツ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。リヒテンシュタインには全国リーグが存在しない為、越境してスイスリーグに参加している。
@@ -7,32 +7,30 @@
 
 リヒテンシュタインカップ勝者として出場した1991-1992シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で、ヨーロッパの大会にデビューした。1996-1997シーズンの同大会では、予選ラウンドでラトビアの[FCウニヴェルシタテ・リガ](https://ja.wikipedia.org/wiki/FCウニヴェルシタテ・リガ "wikilink")をPK戦の末に下して第1ラウンドに駒を進めたが、[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")に敗れた。カップウィナーズカップ終了後の1999-2000シーズンからは[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に参加しているが、予選ラウンドを突破出来ずにいる。
 
+[Haupttribüne_mit_Gebirge.JPG](https://ja.wikipedia.org/wiki/File:Haupttribüne_mit_Gebirge.JPG "fig:Haupttribüne_mit_Gebirge.JPG")\]\]
+
+[Rheinpark-Stadion-Main_stand_and_castle.JPG](https://ja.wikipedia.org/wiki/File:Rheinpark-Stadion-Main_stand_and_castle.JPG "fig:Rheinpark-Stadion-Main_stand_and_castle.JPG")\]\]
+
 ## タイトル
 
 ### 国内タイトル
 
-  - **[リヒテンシュタインリーグ](https://ja.wikipedia.org/wiki/リヒテンシュタインリーグ "wikilink")：1回**
+  - **[リヒテンシュタインリーグ](https://ja.wikipedia.org/wiki/:en:Liechtenstein_Football_Championship "wikilink")：1回**
       - 1936
 
 <!-- end list -->
 
-  - **[リヒテンシュタイン・カップ](https://ja.wikipedia.org/wiki/リヒテンシュタイン・カップ "wikilink")：46回**
-      - 1949, 1952, 1953, 1954, 1956, 1957, 1958, 1959, 1960, 1961
-        1962, 1966, 1967, 1968, 1969, 1970, 1971, 1974, 1980, 1985
-        1986, 1988, 1989-90, 1991-92, 1994-95, 1995-96, 1997-98, 1998-99, 1999-00, 2000-01
-        2001-02, 2002-03, 2003-04, 2004-05, 2005-06, 2006-07, 2007-08, 2008-09, 2009-10, 2010-11
-        2012-13, 2013-14, 2014-15, 2015-16, 2016-17, 2017-18
+  - **[リヒテンシュタイン・カップ](https://ja.wikipedia.org/wiki/リヒテンシュタイン・カップ "wikilink")：47回**
+      - 1949, 1952, 1953, 1954, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1966, 1967, 1968, 1969, 1970, 1971, 1974, 1980, 1985, 1986, 1988, 1989-90, 1991-92, 1994-95, 1995-96, 1997-98, 1998-99, 1999-00, 2000-01, 2001-02, 2002-03, 2003-04, 2004-05, 2005-06, 2006-07, 2007-08, 2008-09, 2009-10, 2010-11, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17, 2017-18, 2018-19
 
 <!-- end list -->
 
-  - **[チャレンジリーグ](https://ja.wikipedia.org/wiki/チャレンジリーグ_\(スイス\) "wikilink")：3回**
+  - **[スイス・チャレンジリーグ](https://ja.wikipedia.org/wiki/チャレンジリーグ_\(スイス\) "wikilink")：3回**
       - 2002-03, 2008-09, 2013-14
 
 ### 国際タイトル
 
 なし
-
-[Haupttribüne_mit_Gebirge.JPG](https://ja.wikipedia.org/wiki/File:Haupttribüne_mit_Gebirge.JPG "fig:Haupttribüne_mit_Gebirge.JPG")
 
 ## 過去の成績
 
@@ -251,15 +249,15 @@
 <tr class="even">
 <td><p>2018-19</p></td>
 <td><p>スイス・チャレンジリーグ</p></td>
-<td><p>'''位</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>'''</p></td>
+<td><p>'''6位</p></td>
+<td><p>36</p></td>
+<td><p>11</p></td>
+<td><p>9</p></td>
+<td><p>16</p></td>
+<td><p>48</p></td>
+<td><p>70</p></td>
+<td><p>−22</p></td>
+<td><p>'''42</p></td>
 </tr>
 </tbody>
 </table>
@@ -628,6 +626,36 @@
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019–20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>予選1回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレイザブリクUBK" title="wikilink">ブレイザブリクUBK</a></p></td>
+<td><p>2–1</p></td>
+<td><p>0–0</p></td>
+<td><p>'''2–1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>予選2回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヴィデオトンFC" title="wikilink">ヴィデオトン</a></p></td>
+<td><p>2–0</p></td>
+<td><p>0–1</p></td>
+<td><p>'''2–1 (a)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>予選3回戦</p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
+<td><p>0–5</p></td>
+<td><p>0–1</p></td>
+<td><p>'''0–6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>

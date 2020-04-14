@@ -1,4 +1,4 @@
-> この記事は[LGV-](https://ja.wikipedia.org/wiki/LGV-)から翻訳されています。
+> この記事は[LGVペルピニャン-フィゲラス線](https://ja.wikipedia.org/wiki/LGVペルピニャン-フィゲラス線)から翻訳されています。
 
 
 [TGV_i_la_Muga_001.jpg](https://ja.wikipedia.org/wiki/File:TGV_i_la_Muga_001.jpg "fig:TGV_i_la_Muga_001.jpg") [Estació-Figueres-Vilafant-construction.jpg](https://ja.wikipedia.org/wiki/File:Estació-Figueres-Vilafant-construction.jpg "fig:Estació-Figueres-Vilafant-construction.jpg") **LGVペルピニャン-フィゲラス線**（）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")を結ぶ[高速鉄道](../Page/高速鉄道.md "wikilink")[路線である](../Page/鉄道路線.md "wikilink")。当路線は国境を挟みフランス、[ルシヨン](../Page/ルシヨン.md "wikilink")地方[ピレネー＝オリアンタル県](../Page/ピレネー＝オリアンタル県.md "wikilink")の[ペルピニャン](../Page/ペルピニャン.md "wikilink")とスペイン、[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")の[フィゲラス](../Page/フィゲラス.md "wikilink")間44.4kmを結ぶ路線でペルトゥス峠（Perthus）に位置する全長8.3kmのペルトゥストンネル内で国境を越える。\[1\][2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")の冬期ダイヤより[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")よりペルピニャン経由でフィゲラスまでの[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")の運行が開始された。

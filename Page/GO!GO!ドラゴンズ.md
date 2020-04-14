@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[GO!GO!ドラゴンズ](https://ja.wikipedia.org/wiki/GO!GO!ドラゴンズ)から翻訳されています。
 
 
 『**GO\!GO\!ドラゴンズ**』（ゴーゴー ドラゴンズ）とは、
@@ -47,6 +47,6 @@
   - [MYドラゴンズ](https://ja.wikipedia.org/wiki/MYドラゴンズ "wikilink")（テレビ愛知） - 当番組と同様に、80年代の平日22:50-57に放送されていた番組。本番組のCBC版の裏番組でもある。
   - [ちびっこ展](https://ja.wikipedia.org/wiki/ちびっこ展 "wikilink") - この番組と同じく、途中で放送局がCBCテレビからテレビ愛知に変わったミニ番組。
 
-[Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:CBCテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCテレビの番組の歴史 "wikilink") [Category:CBCテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CBCテレビのスポーツ番組 "wikilink") [Category:CBCテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:CBCテレビの情報・ワイドショー番組 "wikilink") [Category:CBCテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:CBCテレビのミニ番組 "wikilink") [Category:テレビ愛知の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の情報・ワイドショー番組 "wikilink") [Category:テレビ愛知のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のスポーツ番組 "wikilink") [Category:テレビ愛知のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のミニ番組 "wikilink") [Category:1977年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1977年のテレビ番組_\(日本\) "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")
+[Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:CBCテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCテレビの番組の歴史 "wikilink") [Category:CBCテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CBCテレビのスポーツ番組 "wikilink") [Category:CBCテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:CBCテレビの情報・ワイドショー番組 "wikilink") [Category:CBCテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:CBCテレビのミニ番組 "wikilink") [Category:テレビ愛知の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の情報・ワイドショー番組 "wikilink") [Category:テレビ愛知のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のスポーツ番組 "wikilink") [Category:テレビ愛知のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知のミニ番組 "wikilink") [Category:1977年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1977年のテレビ番組_\(日本\) "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")
 
 1.  54分ちょうどではなく、1 - 2分ほど遅れて放送されている。

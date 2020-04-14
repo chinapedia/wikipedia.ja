@@ -1,4 +1,4 @@
-> この記事は[TSUKASA \(\)](https://ja.wikipedia.org/wiki/TSUKASA_\(\))から翻訳されています。
+> この記事は[TSUKASA \(歌手\)](https://ja.wikipedia.org/wiki/TSUKASA_\(歌手\))から翻訳されています。
 
 
 **TSUKASA**（ツカサ、 19??年[6月6日](../Page/6月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")より[歌舞伎町](../Page/歌舞伎町.md "wikilink")のキャバクラで働きながら歌手活動をスタート。[2007年](../Page/2007年.md "wikilink")[コロムビアミュージックエンタテインメントよりメジャーデビュー](../Page/日本コロムビア.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")または、[東京都](../Page/東京都.md "wikilink")出身。

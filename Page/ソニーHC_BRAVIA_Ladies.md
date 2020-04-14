@@ -1,4 +1,4 @@
-> この記事は[HC BRAVIA Ladies](https://ja.wikipedia.org/wiki/HC_BRAVIA_Ladies)から翻訳されています。
+> この記事は[ソニーHC BRAVIA Ladies](https://ja.wikipedia.org/wiki/ソニーHC_BRAVIA_Ladies)から翻訳されています。
 
 
 **ソニーHC BRAVIA Ladies**（ソニー・ホッケークラブ\<エイチ・シーとも\>・ブラビア・レディース）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[稲沢市](../Page/稲沢市.md "wikilink")にある女子[フィールドホッケー](../Page/フィールドホッケー.md "wikilink")チームである。母体は[ソニーグローバルマニュファクチャリング&オペレーションズ](../Page/ソニーグローバルマニュファクチャリング&オペレーションズ.md "wikilink")株式会社。「[BRAVIA](https://ja.wikipedia.org/wiki/BRAVIA "wikilink")」はソニーの[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")のブランド名。2009年までのチーム名は「ソニー一宮BRAVIA Ladies」。

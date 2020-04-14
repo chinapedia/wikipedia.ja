@@ -1,4 +1,4 @@
-> この記事は[ On The Street](https://ja.wikipedia.org/wiki/_On_The_Street)から翻訳されています。
+> この記事は[川嶋あい On The Street](https://ja.wikipedia.org/wiki/川嶋あい_On_The_Street)から翻訳されています。
 
 
 **川嶋あい On The Street**（かわしまあいオン・ザ・ストリート）は、[かしわプロダクション](../Page/かしわプロダクション.md "wikilink")が製作している[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。
@@ -92,7 +92,7 @@
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")\[10\]
-  - [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")\[11\]
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink")\[11\]
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[GAHAHA](https://ja.wikipedia.org/wiki/GAHAHA)から翻訳されています。
+> この記事は[GAHAHA王国](https://ja.wikipedia.org/wiki/GAHAHA王国)から翻訳されています。
 
 
 『**GAHAHA王国**』（ガハハおうこく）は、一部[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。製作局のテレビ朝日では[1994年](../Page/1994年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで、毎週土曜 25:30 - 25:30＝日曜 1:00 - 1:30 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

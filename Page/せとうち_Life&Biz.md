@@ -1,4 +1,4 @@
-> この記事は[ Life\&Biz](https://ja.wikipedia.org/wiki/_Life\&Biz)から翻訳されています。
+> この記事は[せとうち Life\&Biz](https://ja.wikipedia.org/wiki/せとうち_Life\&Biz)から翻訳されています。
 
 
 『**せとうち Life\&Biz**』（せとうち ライフ・ビズ）は、[2007年](../Page/2007年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[テレビせとうち](../Page/テレビせとうち.md "wikilink")で放送された[経済](../Page/経済.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。タイトルに&（アンド）が付いているが、読まないのが正式。また、[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[EPGでは](../Page/電子番組ガイド.md "wikilink")「せとうちライフ&ビズ」と表記されていた。

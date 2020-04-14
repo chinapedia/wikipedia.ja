@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/FNN夕方ローカルニュース一覧)から翻訳されています。
 
 
 **FNN夕方ローカルニュース一覧**（エフエヌエヌゆうがたローカルニュースいちらん）は、[フジテレビ系列の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN各局で現在放送中の](../Page/フジニュースネットワーク.md "wikilink")[夕](../Page/夕.md "wikilink")方[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
@@ -14,7 +14,7 @@
 ## 北海道・東北
 
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")（uhb）
-      - [みんテレ](../Page/みんテレ.md "wikilink")■（月 - 金曜 15:50 - 19:00【ローカルニュース枠は18:14 - 19:00 ※プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
+      - [みんテレ](../Page/みんテレ.md "wikilink")■（月 - 金曜 16:48 - 19:00【ローカルニュース枠は18:14 - 19:00 ※プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
           -
             キャスター：[八木隆太郎](https://ja.wikipedia.org/wiki/八木隆太郎 "wikilink")、お天気キャスター：[菅井貴子](https://ja.wikipedia.org/wiki/菅井貴子 "wikilink")
       - FNN Live News it\!■（土・日曜 17:30 - 18:00【ローカルニュース枠は土・日 17:48頃 - 18:00】）
@@ -58,9 +58,9 @@
 ## 甲信越・北陸・東海
 
   - [NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")（NST）
-      - [NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（月 - 金曜 16:50 - 19:00【ローカルニュース枠は18:14 - 19:00】）
+      - [NST News タッチ](../Page/NST_Newsタッチ.md "wikilink")（月 - 金曜 18:14 - 19:00）
           -
-            キャスター：[杉本一機](https://ja.wikipedia.org/wiki/杉本一機 "wikilink")・[杉山萌奈](https://ja.wikipedia.org/wiki/杉山萌奈 "wikilink")、お天気キャスター：[清水祥太](https://ja.wikipedia.org/wiki/清水祥太 "wikilink")
+            キャスター：[杉本一機](https://ja.wikipedia.org/wiki/杉本一機 "wikilink")・[松村道子](../Page/松村道子.md "wikilink")、お天気キャスター：[清水祥太](https://ja.wikipedia.org/wiki/清水祥太 "wikilink")
       - FNN・NST Live News it\!（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
             キャスター：シフト勤務
@@ -82,7 +82,7 @@
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")（BBT）
       - [報道ライブBBT](https://ja.wikipedia.org/wiki/報道ライブBBT "wikilink")■ （月 - 金曜 16:25 - 18:55【ローカルニュース枠は、16:25 - 16:50（ライブBBT）、18:14 - 18:55（報道ライブBBT）】、土曜 17:30 - 18:00【ローカルニュース枠は17:48 - 18:00】）
           -
-            キャスター：谷優子・四津谷裕昭、矢野美沙（月 - 水曜）・岡部里香（木・金）
+            キャスター：谷優子・伊藤恵祐、矢野美沙（月 - 水曜）・岡部里香（木・金）
             キャスター：シフト勤務（土曜）
       - [北陸中日新聞 日曜夕刊](../Page/中日新聞テレビ日曜夕刊.md "wikilink")■（[日曜日](../Page/日曜日.md "wikilink") 17:30 - 18:00【ローカルニュース枠は、17:48頃 - 18:00】）
           -
@@ -90,13 +90,13 @@
   - [石川テレビ](../Page/石川テレビ放送.md "wikilink")（ITC）
       - [石川さん Live News it\!](https://ja.wikipedia.org/wiki/石川さん_Live_News_it! "wikilink")（月 - 金曜 16:50 - 19:00【ローカルニュース枠は、18:14\[3\] - 18:50】、土曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
-            キャスター：[塩野利明](https://ja.wikipedia.org/wiki/塩野利明 "wikilink")・[河合莉菜](https://ja.wikipedia.org/wiki/河合莉菜 "wikilink")（月 - 金曜）
+            キャスター：[稲垣真一](../Page/稲垣真一.md "wikilink")・[河合莉菜](https://ja.wikipedia.org/wiki/河合莉菜 "wikilink")（月 - 金曜）
             キャスター：シフト勤務（土曜）
       - [FNN北陸中日新聞 日曜夕刊](../Page/中日新聞テレビ日曜夕刊.md "wikilink")（日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
             キャスター：シフト勤務
   - [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（FTB）
-      - [福井テレビLive News](https://ja.wikipedia.org/wiki/福井テレビLive_News "wikilink")＆[おかえりなさ～い](https://ja.wikipedia.org/wiki/おかえりなさ～い "wikilink")（月 - 金曜 17:53 - 19:00【ローカルニュース枠は18:14 - 19:00】）
+      - [福井テレビLive News](https://ja.wikipedia.org/wiki/福井テレビLive_News "wikilink")＆[おかえりなさ～い](https://ja.wikipedia.org/wiki/おかえりなさ～い "wikilink")（月 - 金曜 16:50 - 19:00【ローカルニュース枠は18:14 - 19:00】）
           -
             キャスター：[丸山勝義](https://ja.wikipedia.org/wiki/丸山勝義 "wikilink")、[井上愛梨](https://ja.wikipedia.org/wiki/井上愛梨 "wikilink")（月 - 水曜）・[今野真帆](https://ja.wikipedia.org/wiki/今野真帆 "wikilink")（水 - 金曜）
       - FNN福井テレビLive News（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48 - 18:00】）

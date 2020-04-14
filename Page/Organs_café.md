@@ -1,4 +1,4 @@
-> この記事は[Organs caf](https://ja.wikipedia.org/wiki/Organs_caf)から翻訳されています。
+> この記事は[Organs café](https://ja.wikipedia.org/wiki/Organs_café)から翻訳されています。
 
 
 **organs café**（オルガンズ・カフェ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ](../Page/ポップ・ミュージック.md "wikilink")[ジャズ](../Page/ジャズ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。

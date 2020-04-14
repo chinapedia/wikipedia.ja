@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTアドバンステクノロジ](https://ja.wikipedia.org/wiki/NTTアドバンステクノロジ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shinjuku_Mitsui_Building_2009_02.jpg "wikilink")

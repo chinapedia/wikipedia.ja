@@ -1,4 +1,4 @@
-> この記事は[Su-27UBM1 \(\)](https://ja.wikipedia.org/wiki/Su-27UBM1_\(\))から翻訳されています。
+> この記事は[Su-27UBM1 \(航空機\)](https://ja.wikipedia.org/wiki/Su-27UBM1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belarus.svg "wikilink")  | 画像=<File:Su-27UBM> Radom 2009 e.JPG | キャプション= | 用途=[多目的戦闘機](../Page/マルチロール機.md "wikilink") | 分類=[練習戦闘機](../Page/練習機.md "wikilink") | 設計者= | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belarus.svg "wikilink")  | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belarus.svg "wikilink") [ベラルーシ空軍及び防空軍](../Page/ベラルーシ空軍及び防空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[2005年](../Page/2005年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日=2005年 | 退役年月日= | 運用状況=現役 | ユニットコスト= }} **Su-27UBM1**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>スー・ドヴァーッツァチ・スィェーミ・ウーベーエーム・アヂーン</small>)は、[ベラルーシ](../Page/ベラルーシ.md "wikilink")共和国のが[ロシア](../Page/ロシア.md "wikilink")連邦と共同で開発したSu-27UBのアップグレード型である。

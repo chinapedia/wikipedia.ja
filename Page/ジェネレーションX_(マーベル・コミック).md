@@ -1,4 +1,4 @@
-> この記事は[X \(\)](https://ja.wikipedia.org/wiki/X_\(\))から翻訳されています。
+> この記事は[ジェネレーションX \(マーベル・コミック\)](https://ja.wikipedia.org/wiki/ジェネレーションX_\(マーベル・コミック\))から翻訳されています。
 
 
 **ジェネレーションX**は、[マーベル・コミックのスーパーヒーローチームで](https://ja.wikipedia.org/wiki/マーベルコミックス "wikilink")、1990年代の[X-メン](../Page/X-メン.md "wikilink")の若年チームである。作者のスコット・ロブデルと画家の[クリス・バチャロ](https://ja.wikipedia.org/wiki/クリス・バチャロ "wikilink")によって創られ、初出は1994年11月の「*ジェネレーションX*」\#1。

@@ -1,4 +1,4 @@
-> この記事は[O \(\)](https://ja.wikipedia.org/wiki/O_\(\))から翻訳されています。
+> この記事は[O \(島みやえい子のアルバム\)](https://ja.wikipedia.org/wiki/O_\(島みやえい子のアルバム\))から翻訳されています。
 
 
 『**O**』（オー）は、[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[島みやえい子](../Page/島みやえい子.md "wikilink")の1枚目の[フルアルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。

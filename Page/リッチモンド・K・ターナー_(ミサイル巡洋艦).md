@@ -1,4 +1,4 @@
-> この記事は[K \(\)](https://ja.wikipedia.org/wiki/K_\(\))から翻訳されています。
+> この記事は[リッチモンド・K・ターナー \(ミサイル巡洋艦\)](https://ja.wikipedia.org/wiki/リッチモンド・K・ターナー_\(ミサイル巡洋艦\))から翻訳されています。
 
 
 <div class="thumb tright">

@@ -1,4 +1,4 @@
-> この記事は[YOSHIMOTO DIRECTOR\'S 100 100](https://ja.wikipedia.org/wiki/YOSHIMOTO_DIRECTOR\'S_100_100)から翻訳されています。
+> この記事は[YOSHIMOTO DIRECTOR\'S 100 〜100人が映画撮りました〜](https://ja.wikipedia.org/wiki/YOSHIMOTO_DIRECTOR\'S_100_〜100人が映画撮りました〜)から翻訳されています。
 
 
 『**YOSHIMOTO DIRECTOR'S 100 〜100人が映画撮りました〜**』（ヨシモトディレクターズひゃく ひゃくにんがえいがとりました）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属の[タレント](../Page/タレント.md "wikilink")や[お笑い芸人たちが](../Page/お笑いタレント.md "wikilink")30分程度の短編[映画](../Page/映画.md "wikilink")100本を作っていた企画のタイトル、および同名の[テレビ番組](../Page/テレビ番組.md "wikilink")。

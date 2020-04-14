@@ -485,7 +485,7 @@
 
 ### 2010年
 
-{{ external media | align = right | width = 280px | topic = [Car@Nifty](https://ja.wikipedia.org/wiki/ニフティ "wikilink") | video1 = [【東京オートサロン2010】イメージガール「A-class」ラストライブ](https://www.youtube.com/watch?v=eZo3_ZPjM4w) （2010年1月17日） | video2 = [【夢の共演】angelic\&A-class（東京オートサロン）](https://www.youtube.com/watch?v=YMw05zzBeRw)（2010年3月26日） }} 曲名『Get Ready\!?』『BABY GET MY FIRE TONITE』
+曲名『Get Ready\!?』『BABY GET MY FIRE TONITE』
 
 <table>
 <thead>

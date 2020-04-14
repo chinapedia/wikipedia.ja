@@ -1,9 +1,9 @@
-> この記事は[APOEL](https://ja.wikipedia.org/wiki/APOEL)から翻訳されています。
+> この記事は[APOELニコシア](https://ja.wikipedia.org/wiki/APOELニコシア)から翻訳されています。
 
 
 **APOEL**（、スポーツサッカークラブ・ギリシャ・ニコシア\[1\]）は、[キプロス](../Page/キプロス.md "wikilink")・[ニコシア](../Page/ニコシア.md "wikilink")の[スポーツクラブである](../Page/クラブチーム.md "wikilink")。
 
-**APOEL**（）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の植民地支配にあった1926年11月8日に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ**POEL** () として創設され、1928年に[陸上部門を加えて](../Page/陸上競技.md "wikilink")**APOEL**となった\[2\]。サッカー部門の**APOEL FC**は、2010-11シーズン終了現在において[キプロス国内リーグ](https://ja.wikipedia.org/wiki/キプロス・ファーストディビジョン "wikilink")21回と[カップ](https://ja.wikipedia.org/wiki/キプロス・カップ_\(男子サッカー\) "wikilink")19回の双方で最多優勝を誇る\[3\]。サッカーの他にも、バスケットボール、バレーボール、フットサル、卓球、ボーリング、サイクリング、アーチェリー、水泳、水球部門などがあり、多くのタイトルを獲得している\[4\]。
+**APOEL**（）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の植民地支配にあった1926年11月8日に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ**POEL** () として創設され、1928年に[陸上部門を加えて](../Page/陸上競技.md "wikilink")**APOEL**となった\[2\]。サッカー部門の**APOEL FC**は、2018-19シーズン終了現在において[キプロス国内リーグ](https://ja.wikipedia.org/wiki/キプロス・ファーストディビジョン "wikilink")28回と[カップ](https://ja.wikipedia.org/wiki/キプロス・カップ_\(男子サッカー\) "wikilink")21回の双方で最多優勝を誇る\[3\]。サッカーの他にも、バスケットボール、バレーボール、フットサル、卓球、ボーリング、サイクリング、アーチェリー、水泳、水球部門などがあり、多くのタイトルを獲得している\[4\]。
 
 ## 歴史
 
@@ -56,7 +56,7 @@
 | 1997-98                                                                             | **1部**                                                              | 26                                                                       | 8                                                            |
 | [UEFAカップウィナーズカップ](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1997-98 "wikilink") | 1回戦敗退                                                               |                                                                          |                                                              |
 | 1998-99                                                                             | **1部**                                                              | 26                                                                       | 19                                                           |
-| 1999-00                                                                             | **1部**                                                              | 26                                                                       | 14                                                           |
+| 1999-2000                                                                           | **1部**                                                              | 26                                                                       | 14                                                           |
 | [UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ_1999-2000 "wikilink")               | 予選敗退                                                                |                                                                          |                                                              |
 | 2000-01                                                                             | **1部**                                                              | 26                                                                       | 12                                                           |
 | 2001-02                                                                             | **1部**                                                              | 26                                                                       | 18                                                           |
@@ -96,7 +96,7 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")現在
+\[7\]
 
 ### ローン移籍
 
@@ -138,77 +138,235 @@
 
   - [トーマス・ドル](../Page/トーマス・ドル.md "wikilink") 2019
 
-  - [コーレ・インゲブリグトセン](https://ja.wikipedia.org/wiki/コーレ・インゲブリグトセン "wikilink") 2019-
+  - [コーレ・インゲブリグトセン](https://ja.wikipedia.org/wiki/コーレ・インゲブリグトセン "wikilink") 2019-2020
+
+  - [マリノス・ウズニディス](https://ja.wikipedia.org/wiki/マリノス・ウズニディス "wikilink") 2020-
 
 ## 歴代在籍選手
 
-### GK
+  - [タキス・アントニウ](https://ja.wikipedia.org/wiki/タキス・アントニウ "wikilink") (1972–1986)
 
-  - [ミハリス・モルフィス](https://ja.wikipedia.org/wiki/ミハリス・モルフィス "wikilink") 1999-2010
+  - [アリストス・アリストクレウス](https://ja.wikipedia.org/wiki/アリストス・アリストクレウス "wikilink") (1990–2001)
 
-  - [ディオニシス・ヒオティス](https://ja.wikipedia.org/wiki/ディオニシス・ヒオティス "wikilink") 2008-
+  - [コンスタンティノス・ハラランビデス](https://ja.wikipedia.org/wiki/コンスタンティノス・ハラランビディス "wikilink") (1997–2004, 2008–2016)
 
-### DF
+  - [ザハリアス・ハラランブス](https://ja.wikipedia.org/wiki/ザハリアス・ハラランブス "wikilink") (2001–2005)
 
-  - [デメトリス・ダスカラキス](https://ja.wikipedia.org/wiki/デメトリス・ダスカラキス "wikilink") 2000-2008
+  - [アンドレアス・フリストドゥル](https://ja.wikipedia.org/wiki/アンドレアス・フリストドゥル "wikilink") (1966–1970)
 
-  - [ミハリス・カプシス](../Page/ミハリス・カプシス.md "wikilink") 2006-2008
+  - [ゲオルギオス・フリストドゥル](https://ja.wikipedia.org/wiki/ゲオルギオス・フリストドゥル "wikilink") (1995–2002)
 
-  - [ヌーノ・モライス](../Page/ヌーノ・モライス.md "wikilink") 2007-
+  - [コスタス・コスタ](https://ja.wikipedia.org/wiki/コスタス・コスタ "wikilink") (1989–1999)
 
-### MF
+  - [コスタス・ファスリオティス](https://ja.wikipedia.org/wiki/コスタス・ファスリオティス "wikilink") (1990–2000)
 
-  - [コスタス・コスタ](https://ja.wikipedia.org/wiki/コスタス・コスタ "wikilink") 1989-1999
+  - [デメトリス・ダスカラキス](https://ja.wikipedia.org/wiki/デメトリス・ダスカラキス "wikilink") (2000–2008)
 
-  - [ポール・オコン](https://ja.wikipedia.org/wiki/ポール・オコン "wikilink") 2005-2006
+  - [マリオス・エリア](https://ja.wikipedia.org/wiki/マリオス・エリア "wikilink") (1998–2014)
 
-  - [コンスタンティノス・ハラランピディス](https://ja.wikipedia.org/wiki/コンスタンティノス・ハラランピディス "wikilink") 2008-
+  - [スタヴロス・ゲオルギウ](https://ja.wikipedia.org/wiki/スタヴロス・ゲオルギウ "wikilink") (2002–2007)
 
-  - [レナン・ブレッサン](https://ja.wikipedia.org/wiki/レナン・バルディーニ・ブレッサン "wikilink") 2016-
+  - [ニカキス・カンツィリエリス](https://ja.wikipedia.org/wiki/ニカキス・カンツィリエリス "wikilink") (1961–1972)
 
-### FW
+  - [コンスタンティノス・マクリデス](https://ja.wikipedia.org/wiki/コンスタンティノス・マクリデス "wikilink") (2004–2008, 2015)
 
-  - [アンドレアス・スティリアヌ](https://ja.wikipedia.org/wiki/アンドレアス・スティリアヌ "wikilink") 1963-1977
+  - [コスタス・マレコス](https://ja.wikipedia.org/wiki/コスタス・マレコス "wikilink") (2001–2005)
 
-  - [ドラギシャ・ビニッチ](../Page/ドラギシャ・ビニッチ.md "wikilink") 1993-1994
+  - [マルコス・マルク](https://ja.wikipedia.org/wiki/マルコス・マルク "wikilink") (1973–1978)
 
-  - [ジョン・ファンルーン](../Page/ジョン・ファンルーン.md "wikilink") 1998
+  - [コスタス・ミアミリオティス](https://ja.wikipedia.org/wiki/コスタス・ミアミリオティス "wikilink") (1977–1989, 1992–1994)
 
-  - [マイケル・オビク](../Page/マイケル・オビク.md "wikilink") 2000-2001
+  - [フリシス・ミハエル](https://ja.wikipedia.org/wiki/フリシス・ミハエル "wikilink") (2003–2011)
 
-  - [ハミルトン・リカルド](../Page/ハミルトン・リカルド.md "wikilink") 2004-2005
+  - [ミハリス・モルフィス](https://ja.wikipedia.org/wiki/ミハリス・モルフィス "wikilink") (1999–2010)
 
-  - [ニコス・マフラス](https://ja.wikipedia.org/wiki/ニコス・マフラス "wikilink") 2006-2008
+  - [ステリオス・オカリデス](https://ja.wikipedia.org/wiki/ステリオス・オカリデス "wikilink") (1997–1998, 2001–2007)
 
-  - [ロナルド・ゴメス](https://ja.wikipedia.org/wiki/ロナルド・ゴメス "wikilink") 2006-2007
+  - [ニコディモス・パパヴァシリウ](https://ja.wikipedia.org/wiki/ニコディモス・パパヴァシリウ "wikilink") (2002–2003)
 
-  - [エステバン・ソラーリ](https://ja.wikipedia.org/wiki/エステバン・ソラーリ "wikilink") 2010-2013
+  - [ギオルゴス・パンツィアラス](https://ja.wikipedia.org/wiki/ギオルゴス・パンツィアラス "wikilink") (1971–1978, 1985–1987)
 
-  - [フェルナンド・カベナギ](../Page/フェルナンド・カベナギ.md "wikilink") 2015-2016
+  - [ニコス・パンツィアラス](https://ja.wikipedia.org/wiki/ニコス・パンツィアラス "wikilink") (1972–1987)
+
+  - [アンドロス・ペトリデス](https://ja.wikipedia.org/wiki/アンドロス・ペトリデス "wikilink") (1984–2000)
+
+  - [マリノス・サツィアス](https://ja.wikipedia.org/wiki/マリノス・サツィアス "wikilink") (1995–2014)
+
+  - [ゲオルギオス・サヴァ](https://ja.wikipedia.org/wiki/サヴァ・ゲオルギウ "wikilink") (1949–1955, 1956–1961)
+
+  - [アソス・ソロム](https://ja.wikipedia.org/wiki/アソス・ソロム "wikilink") (2009–2014)
+
+  - [アンドレアス・ソティリウ](https://ja.wikipedia.org/wiki/アンドレアス・ソティリウ "wikilink") (1986–1998, 2001)
+
+  - [ピエロス・ソティリウ](https://ja.wikipedia.org/wiki/ピエロス・ソティリウ "wikilink") (2013–2017)
+
+  - [イアスミス・イアスミ](https://ja.wikipedia.org/wiki/イアスミス・イアスミ "wikilink") (1998–2001)
+
+  - [アルティン・ハジ](https://ja.wikipedia.org/wiki/アルティン・ハジ "wikilink") (2008–2010)
+
+  - [ラフィク・ジェブール](https://ja.wikipedia.org/wiki/ラフィク・ジェブール "wikilink") (2014–2015)
+
+  - [フェルナンド・カベナギ](../Page/フェルナンド・カベナギ.md "wikilink") (2015–2016)
+
+  - [エステバン・ソラーリ](https://ja.wikipedia.org/wiki/エステバン・ソラーリ "wikilink") (2005–2007, 2010–2012)
+
+  - [トマス・デ・ビンセンティ](https://ja.wikipedia.org/wiki/トマス・デ・ビンセンティ "wikilink") (2014–2016)
+
+  - [ロミク・ハチャトゥリアン](https://ja.wikipedia.org/wiki/ロミク・ハチャトゥリアン "wikilink") (2002–2003)
+
+  - [ポール・オコン](https://ja.wikipedia.org/wiki/ポール・オコン "wikilink") (2005–2006)
+
+  -  [レナン・ブレッサン](https://ja.wikipedia.org/wiki/レナン・バルディーニ・ブレッサン "wikilink") (2016–2017)
+
+  -  [サネル・ヤヒッチ](https://ja.wikipedia.org/wiki/サネル・ヤヒッチ "wikilink")
+
+  - [アイウトン・アウメイダ](https://ja.wikipedia.org/wiki/アイウトン・ジョゼ・アウメイダ "wikilink") (2010–2012)
+
+  - [ヴィリアン・ボアヴェントゥーラ](https://ja.wikipedia.org/wiki/ヴィリアン・ボアヴェントゥーラ "wikilink") (2010–2012)
+
+  - [カルロン](https://ja.wikipedia.org/wiki/カルロン_\(1986年1月生のサッカー選手\) "wikilink") (2014–2017)
+
+  - [ゼ・カルロス](https://ja.wikipedia.org/wiki/ジョゼ・カルロス・サントス・ダ・シウヴァ "wikilink") (2007–2008)
+
+  - [ジョアン・ギリェルメ](https://ja.wikipedia.org/wiki/ジョアン・ギリェルメ・レメ・アモリン "wikilink") (2013–2016)
+
+  - [カカ](https://ja.wikipedia.org/wiki/カカ_\(1981年生のサッカー選手\) "wikilink") (2011–2012, 2014–2015)
+
+  - [グスタヴォ・マンドゥーカ](https://ja.wikipedia.org/wiki/グスタヴォ・マンドゥーカ "wikilink") (2010–2015)
+
+  - [マルシーニョ](https://ja.wikipedia.org/wiki/マルシオ・イヴァニウド・ダ・シウヴァ "wikilink") (2010–2012)
+
+  - [エメルソン・モイゼス・コスタ](https://ja.wikipedia.org/wiki/エメルソン・モイゼス・コスタ "wikilink") (2007)
+
+  - [マルセロ・オリヴェイラ](https://ja.wikipedia.org/wiki/マルセロ・ジョゼ・オリヴェイラ "wikilink") (2011–2014)
+
+  - [マルコス・タヴァレス](https://ja.wikipedia.org/wiki/マルコス・タヴァレス "wikilink") (2007)
+
+  - [ハミルトン・リカルド](../Page/ハミルトン・リカルド.md "wikilink") (2004–2005)
+
+  - [ロナルド・ゴメス](https://ja.wikipedia.org/wiki/ロナルド・ゴメス "wikilink") (2006–2007)
+
+  - [アルディアン・コズニク](https://ja.wikipedia.org/wiki/アルディアン・コズニク "wikilink") (1997)
+
+  - [トマーシュ・ヴォタヴァ](https://ja.wikipedia.org/wiki/トマーシュ・ヴォタヴァ "wikilink") (2003–2004)
+
+  - [ミケル・ベックマン](https://ja.wikipedia.org/wiki/ミケル・ベックマン "wikilink") (2013)
+
+  -  [クリス・バート＝ウィリアムズ](https://ja.wikipedia.org/wiki/クリス・バート＝ウィリアムズ "wikilink") (2004–2005)
+
+  - [テリー・マクダーモット](../Page/テリー・マクダーモット.md "wikilink") (1985–1987)
+
+  - [ゲオルギオス・アマナティディス](https://ja.wikipedia.org/wiki/ゲオルギオス・アマナティディス "wikilink") (2003–2004)
+
+  - [ディオニシス・ヒオティス](https://ja.wikipedia.org/wiki/ディオニシス・ヒオティス "wikilink") (2008–2015)
+
+  - [ヤニス・ヤニオタス](https://ja.wikipedia.org/wiki/ヤニス・ヤニオタス "wikilink") (2016–2017)
+
+  - [アレクサンドロス・カクラマノス](https://ja.wikipedia.org/wiki/アレクサンドロス・カクラマノス "wikilink") (2005–2006)
+
+  - [ミハリス・カプシス](../Page/ミハリス・カプシス.md "wikilink") (2007–2008)
+
+  - [フリストス・カリピディス](https://ja.wikipedia.org/wiki/フリストス・カリピディス "wikilink") (2012–2013)
+
+  - [フリストス・コンティス](https://ja.wikipedia.org/wiki/フリストス・コンティス "wikilink") (2006–2011)
+
+  - [ニコス・マフラス](https://ja.wikipedia.org/wiki/ニコス・マフラス "wikilink") (2006–2008)
+
+  - [スピロス・マランゴス](https://ja.wikipedia.org/wiki/スピロス・マランゴス "wikilink") (2000–2002)
+
+  - [マリノス・ウズニディス](https://ja.wikipedia.org/wiki/マリノス・ウズニディス "wikilink") (2001–2003)
+
+  - [アナスタシオス・パパゾグル](https://ja.wikipedia.org/wiki/アナスタシオス・パパゾグル "wikilink") (2014–2015)
+
+  - [アレクサンドロス・ツィオリス](https://ja.wikipedia.org/wiki/アレクサンドロス・ツィオリス "wikilink") (2012–2013)
+
+  - [ゲオルギオス・ヴァクフツィス](https://ja.wikipedia.org/wiki/ゲオルギオス・ヴァクフツィス "wikilink") (2002–2005)
+
+  - [キプリッチ・ヨージェフ](https://ja.wikipedia.org/wiki/キプリッチ・ヨージェフ "wikilink") (1995–1997)
+
+  - [コヴァーチ・カールマーン](https://ja.wikipedia.org/wiki/コヴァーチ・カールマーン_\(1965年生のサッカー選手\) "wikilink") (1995–1996)
+
+  - [コズマ・イシュトヴァーン](https://ja.wikipedia.org/wiki/コズマ・イシュトヴァーン_\(サッカー選手\) "wikilink") (1995–1997)
+
+  - [シリアン・シェリダン](https://ja.wikipedia.org/wiki/シリアン・シェリダン "wikilink") (2013–2015)
+
+  - [ドゥドゥ・ビトン](https://ja.wikipedia.org/wiki/ドゥドゥ・ビトン "wikilink") (2013)
+
+  - [ボバン・グルンチャロフ](https://ja.wikipedia.org/wiki/ボバン・グルンチャロフ "wikilink") (2009–2011)
+
+  - [ゴラン・ラザレフスキ](https://ja.wikipedia.org/wiki/ゴラン・ラザレフスキ "wikilink") (2000–2001)
+
+  - [ヤネ・ニコロフスキ](https://ja.wikipedia.org/wiki/ヤネ・ニコロフスキ "wikilink") (2007–2008)
+
+  - [ミラン・ストヤノフスキ](https://ja.wikipedia.org/wiki/ミラン・ストヤノフスキ "wikilink") (2004–2005)
+
+  - [イヴァン・トリチコフスキ](https://ja.wikipedia.org/wiki/イヴァン・トリチコフスキ "wikilink") (2010–2012)
+
+  - [ヨースト・ブルールセ](https://ja.wikipedia.org/wiki/ヨースト・ブルールセ "wikilink") (2008–2011)
+
+  - [ジョン・ファンルーン](../Page/ジョン・ファンルーン.md "wikilink") (1998)
+
+  - [マイケル・オビク](../Page/マイケル・オビク.md "wikilink") (2000)
+
+  - [ベンジャミン・オンウアチ](https://ja.wikipedia.org/wiki/ベンジャミン・オンウアチ "wikilink") (2008–2009)
+
+  - [トミー・キャシディ](https://ja.wikipedia.org/wiki/トミー・キャシディ "wikilink") (1983–1985)
+
+  - [ヨン・アルネ・リーセ](../Page/ヨン・アルネ・リーセ.md "wikilink") (2014–2015)
+
+  - [アルド・アドルノ](https://ja.wikipedia.org/wiki/アルド・アドルノ "wikilink") (2011–2014)
+
+  - [アルフォンソ・ドゥラント](https://ja.wikipedia.org/wiki/アルフォンソ・ドゥラント "wikilink") (1997–1998)
+
+  - [カミル・コソフスキ](https://ja.wikipedia.org/wiki/カミル・コソフスキ "wikilink") (2008–2010)
+
+  - [ヴォイチェフ・コヴァルチック](https://ja.wikipedia.org/wiki/ヴォイチェフ・コヴァルチック "wikilink") (2003–2004)
+
+  - [マルチン・ジェヴワコフ](https://ja.wikipedia.org/wiki/マルチン・ジェヴワコフ "wikilink") (2008–2010)
+
+  - [パウロ・コスタ](https://ja.wikipedia.org/wiki/パウロ・コスタ_\(サッカー選手\) "wikilink") (2009)
+
+  - [リカルド・フェルナンデス](https://ja.wikipedia.org/wiki/リカルド・リベイロ・フェルナンデス "wikilink") (2005–2008)
+
+  - [ティアゴ・ゴメス](https://ja.wikipedia.org/wiki/ティアゴ・ゴメス_\(1985年生のサッカー選手\) "wikilink") (2013–2015)
+
+  - [パウロ・ジョルジェ](https://ja.wikipedia.org/wiki/パウロ・ジョルジェ・ソアレス・ゴメス "wikilink") (2009–2012)
+
+  - [ダニエル・ケネディ](https://ja.wikipedia.org/wiki/ダニエル・ケネディ "wikilink") (2005)
+
+  - [エリオ・ピント](https://ja.wikipedia.org/wiki/エリオ・ピント "wikilink") (2006–2013)
+
+  - [マリオ・セルジオ](https://ja.wikipedia.org/wiki/マリオ・セルジオ "wikilink") (2012–2016)
+
+  - [ダニエル・フローレア](https://ja.wikipedia.org/wiki/ダニエル・フローレア_\(サッカー選手\) "wikilink") (2006–2009)
+
+  - [ドラギシャ・ビニッチ](../Page/ドラギシャ・ビニッチ.md "wikilink") (1993–1994)
+
+  -  [シニシャ・ゴギッチ](https://ja.wikipedia.org/wiki/シニシャ・ゴギッチ "wikilink") (1989–1993, 2000–2002)
+
+  - [サシャ・ヨヴァノヴィッチ](https://ja.wikipedia.org/wiki/サシャ・ヨヴァノヴィッチ_\(1974年生のサッカー選手\) "wikilink") (2005–2006)
+
+  - [ヴェスコ・ミハイロヴィッチ](https://ja.wikipedia.org/wiki/ヴェスコ・ミハイロヴィッチ "wikilink") (1993–1994)
+
+  - [ネナド・ミロサヴリェヴィッチ](https://ja.wikipedia.org/wiki/ネナド・ミロサヴリェヴィッチ "wikilink") (2008–2011)
+
+  - [スヴェトザル・シャプリッチ](https://ja.wikipedia.org/wiki/スヴェトザル・シャプリッチ "wikilink") (1989–1993, 1995–1996)
+
+  - [マーリオ・ブレシュカ](https://ja.wikipedia.org/wiki/マーリオ・ブレシュカ "wikilink") (2009–2010)
+
+  - [アルフレド・イェルマニシュ](https://ja.wikipedia.org/wiki/アルフレド・イェルマニシュ "wikilink") (1996–1997)
+
+  - [ミラン・パフリン](https://ja.wikipedia.org/wiki/ミラン・パフリン "wikilink") (2004–2005)
+
+  - [ジャン＝ポール・アバロ](https://ja.wikipedia.org/wiki/ジャン＝ポール・アバロ "wikilink") (2006)
+
+  - [ティジャニ・ベライド](https://ja.wikipedia.org/wiki/ティジャニ・ベライド "wikilink") (2011–2012)
+
+  -  [セリム・ベナシュール](https://ja.wikipedia.org/wiki/セリム・ベナシュール "wikilink") (2012–2014)
 
 ## エンブレム
 
-エンブレムは白地の盾に、左上に青と右下に黄色を配し、その間に青い文字でと書かれている。その上に金色の星が2つあり、これはリーグ優勝数（星1つで10回）を示す。青はギリシアの、黄色は[東ローマ帝国](../Page/東ローマ帝国.md "wikilink")の国旗から取られている。なお、アウェーユニフォームの赤も東ローマ帝国国旗の色が由来。デザインは基本的にクラブ創設から変わっていないが、1970年代には背景が暗い黄色地だった時期もある\[7\]。
-
-## バスケットボール
-
-### タイトル
-
-  - **リーグ：11回**
-      - 1975-76, 1978-79, 1980-81, 1994-95, 1995-96, 1997-98, 1998-99, 2001-02, 2008-09, 2009-10, 2013-14
-  - **カップ：11回**
-      - 1972-73, 1978-79, 1983-84, 1985-86, 1990-91, 1992-93, 1993-94, 1994-95, 1995-96, 2001-02, 2002-03
-  - **スーパーカップ：11回**
-      - 1972, 1976, 1986, 1994, 1995, 1996, 1998, 2001, 2002, 2010, 2014
-
-## バレーボール
-
-### タイトル
-
-  - **リーグ：10回**
-      - 1968-69, 1969-70, 1970-71, 1971-72, 1978-79, 1979-80, 1980-81, 1982-83, 1983-84, 1984-85
-  - **カップ：5回**
-      - 1978-79, 1980-81, 1981-82, 1983-84, 1984-85
+エンブレムは白地の盾に、左上に青と右下に黄色を配し、その間に青い文字でと書かれている。その上に金色の星が2つあり、これはリーグ優勝数（星1つで10回）を示す。青はギリシアの、黄色は[東ローマ帝国](../Page/東ローマ帝国.md "wikilink")の国旗から取られている。なお、アウェーユニフォームの赤も東ローマ帝国国旗の色が由来。デザインは基本的にクラブ創設から変わっていないが、1970年代には背景が暗い黄色地だった時期もある\[8\]。
 
 ## 脚注
 
@@ -227,3 +385,4 @@
 5.
 6.
 7.
+8.

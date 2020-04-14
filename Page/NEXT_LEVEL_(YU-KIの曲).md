@@ -1,4 +1,4 @@
-> この記事は[NEXT LEVEL \(YU-KI\)](https://ja.wikipedia.org/wiki/NEXT_LEVEL_\(YU-KI\))から翻訳されています。
+> この記事は[NEXT LEVEL \(YU-KIの曲\)](https://ja.wikipedia.org/wiki/NEXT_LEVEL_\(YU-KIの曲\))から翻訳されています。
 
 
 「**NEXT LEVEL**」（ネクスト・レベル）は、[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に発売された[YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")の2枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[Niu \(\)](https://ja.wikipedia.org/wiki/Niu_\(\))から翻訳されています。
+> この記事は[Niu \(モデル\)](https://ja.wikipedia.org/wiki/Niu_\(モデル\))から翻訳されています。
 
 
 **niu**（ニュウ、正式な表記は**niŭ**、1972年 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モデル](../Page/モデル_\(職業\).md "wikilink")。

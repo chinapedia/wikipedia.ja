@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ウィリアム・P・マーフィ](https://ja.wikipedia.org/wiki/ウィリアム・P・マーフィ)から翻訳されています。
 
 
 **ウィリアム・パリー・マーフィ**（William Parry Murphy、[1892年](../Page/1892年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")）は[ウィスコンシン州](../Page/ウィスコンシン州.md "wikilink")ストートン生まれの[アメリカ人の](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")[内科医](https://ja.wikipedia.org/wiki/内科医 "wikilink")。大球性[貧血](../Page/貧血.md "wikilink")の治療法の考案により、[ジョージ・H・ウィップル](../Page/ジョージ・H・ウィップル.md "wikilink")、[ジョージ・リチャーズ・マイノット](../Page/ジョージ・リチャーズ・マイノット.md "wikilink")とともに1934年度の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。

@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/NNN夕方ローカルニュース一覧)から翻訳されています。
 
 
 **NNN夕方ローカルニュース一覧**（エヌエヌエヌゆうがたローカルニュースいちらん）は、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[NNN各局で現在放送中の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。

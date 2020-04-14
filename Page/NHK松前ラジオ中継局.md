@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK松前ラジオ中継局](https://ja.wikipedia.org/wiki/NHK松前ラジオ中継局)から翻訳されています。
 
 
 **NHK松前ラジオ中継局**（えぬえいちけいまつまえらじおちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[松前郡](../Page/松前郡.md "wikilink")[松前町建石にある](../Page/松前町_\(北海道\).md "wikilink")[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")。正式な名称は、放送局としてはNHK松前放送局（中継局は通称）、送信施設としては松前ラジオ中継放送所である。

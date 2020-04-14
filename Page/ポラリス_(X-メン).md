@@ -1,4 +1,4 @@
-> この記事は[ \(X-\)](https://ja.wikipedia.org/wiki/_\(X-\))から翻訳されています。
+> この記事は[ポラリス \(X-メン\)](https://ja.wikipedia.org/wiki/ポラリス_\(X-メン\))から翻訳されています。
 
 
 **ポラリス**（ローナ・デイン（Lorna Dane））は[マーベル・コミック](../Page/マーベル・コミック.md "wikilink")の[スーパーヒロインで](../Page/スーパーヒーロー.md "wikilink")、[X-メン](../Page/X-メン.md "wikilink")のメンバーの一員である。作家[アーノルド・ドレイク](https://ja.wikipedia.org/wiki/アーノルド・ドレイク "wikilink")と画家[ジム・ステランコ](https://ja.wikipedia.org/wiki/ジム・ステランコ "wikilink")によって創られ、X-メン \#49（1968年10月）で初登場した。ポラリスは[磁力](../Page/磁力.md "wikilink")をコントロールすることが出来る[ミュータント](https://ja.wikipedia.org/wiki/ミュータント "wikilink")である。このため、彼女には当初から[マグニート](https://ja.wikipedia.org/wiki/マグニート "wikilink")が実の父親ではないかという疑いが長い間もたれていた。そして、それは最近になって確実なものとなった。彼女のオリジンについての問題はポラリスの精神的な不安定要素のひとつであり、これがX-メンの[ハボック](../Page/ハボック.md "wikilink")との恋愛関係をより複雑なものにした。ポラリスはマグニートの娘であり、[クイックシルバーと](https://ja.wikipedia.org/wiki/クイックシルバー_\(マーベル・コミック\) "wikilink")[スカーレット・ウィッチ](https://ja.wikipedia.org/wiki/スカーレット・ウィッチ "wikilink")の異母姉妹に当たる。

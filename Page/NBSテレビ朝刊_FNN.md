@@ -1,4 +1,4 @@
-> この記事は[NBS FNN](https://ja.wikipedia.org/wiki/NBS_FNN)から翻訳されています。
+> この記事は[NBSテレビ朝刊 FNN](https://ja.wikipedia.org/wiki/NBSテレビ朝刊_FNN)から翻訳されています。
 
 
 『**NBSテレビ朝刊 FNN**』（エヌビーエステレビちょうかん エフエヌエヌ）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1975年](../Page/1975年.md "wikilink")[9月](../Page/9月.md "wikilink")までと[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までの2期にわたって[長野放送](../Page/長野放送.md "wikilink")で放送されていた、[フジテレビ発の全国ニュース番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")』の差し替えタイトルである。

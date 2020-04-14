@@ -1,4 +1,4 @@
-> この記事は[MARIONETTE --](https://ja.wikipedia.org/wiki/MARIONETTE_--)から翻訳されています。
+> この記事は[MARIONETTE -糸使い-](https://ja.wikipedia.org/wiki/MARIONETTE_-糸使い-)から翻訳されています。
 
 
 『**MARIONETTE -糸使い-**』（まりおねっと　いとつかい）はt-kunによるWeb小説、およびそれを原作とした[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。

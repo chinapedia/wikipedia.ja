@@ -1,4 +1,4 @@
-> この記事は[ \(SF\)](https://ja.wikipedia.org/wiki/_\(SF\))から翻訳されています。
+> この記事は[井上剛 \(SF作家\)](https://ja.wikipedia.org/wiki/井上剛_\(SF作家\))から翻訳されています。
 
 
 **井上剛**（いのうえ つよし、[1964年](../Page/1964年.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作家](../Page/作家.md "wikilink")。[日本SF作家クラブ](../Page/日本SF作家クラブ.md "wikilink")会員。

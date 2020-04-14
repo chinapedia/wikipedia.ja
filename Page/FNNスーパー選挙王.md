@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNスーパー選挙王](https://ja.wikipedia.org/wiki/FNNスーパー選挙王)から翻訳されています。
 
 
 『**FNNスーパー選挙王**』（エフエヌエヌ スーパーせんきょおう）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN系列](../Page/フジニュースネットワーク.md "wikilink")）で[2007年](../Page/2007年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に放送された[第21回参議院議員通常選挙](../Page/第21回参議院議員通常選挙.md "wikilink")の[選挙特別番組](../Page/選挙特別番組.md "wikilink")。

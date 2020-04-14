@@ -1,4 +1,4 @@
-> この記事は[2mini](https://ja.wikipedia.org/wiki/2mini)から翻訳されています。
+> この記事は[2mini〜生きるという力〜](https://ja.wikipedia.org/wiki/2mini〜生きるという力〜)から翻訳されています。
 
 
 『**②mini〜生きるという力〜**』（ツーミニ いきるというちから）は、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink") の2ndアルバム\[1\]。

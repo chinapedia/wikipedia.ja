@@ -1,4 +1,4 @@
-> この記事は[THE GREATEST HITS \(\)](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_\(\))から翻訳されています。
+> この記事は[THE GREATEST HITS \(アルバム\)](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_\(アルバム\))から翻訳されています。
 
 
 『**THE GREATEST HITS**』（ザ・グレイテスト・ヒッツ）は、[LOVE PSYCHEDELICOによる最初の](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

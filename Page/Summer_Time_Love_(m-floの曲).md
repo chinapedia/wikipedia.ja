@@ -1,4 +1,4 @@
-> この記事は[Summer Time Love \(m-flo\)](https://ja.wikipedia.org/wiki/Summer_Time_Love_\(m-flo\))から翻訳されています。
+> この記事は[Summer Time Love \(m-floの曲\)](https://ja.wikipedia.org/wiki/Summer_Time_Love_\(m-floの曲\))から翻訳されています。
 
 
 『**Summer Time Love**』（サマー・タイム・ラヴ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の20th[シングル](../Page/シングル.md "wikilink")（m-flo loves [日之内絵美](https://ja.wikipedia.org/wiki/日之内エミ "wikilink") & [Ryohei](../Page/Ryohei.md "wikilink") 名義）。[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")発売。

@@ -1,4 +1,4 @@
-> この記事は[ September Love](https://ja.wikipedia.org/wiki/_September_Love)から翻訳されています。
+> この記事は[すみれ September Love](https://ja.wikipedia.org/wiki/すみれ_September_Love)から翻訳されています。
 
 
 「**すみれ September Love**」（すみれ セプテンバー ラヴ）は、[1982年](../Page/1982年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[一風堂の](../Page/一風堂_\(バンド\).md "wikilink")6枚目のシングルである。ここでは、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された[SHAZNA](../Page/SHAZNA.md "wikilink")のカバーヴァージョンについても記述する。

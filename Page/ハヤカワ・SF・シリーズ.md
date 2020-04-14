@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[ハヤカワ・SF・シリーズ](https://ja.wikipedia.org/wiki/ハヤカワ・SF・シリーズ)から翻訳されています。
 
 
 **ハヤカワ・SF・シリーズ**は、[早川書房](../Page/早川書房.md "wikilink")が[1957年](../Page/1957年.md "wikilink")12月から[1974年](../Page/1974年.md "wikilink")11月までに318冊刊行した[SF小説](https://ja.wikipedia.org/wiki/SF小説 "wikilink")の[叢書](../Page/叢書.md "wikilink")。日本におけるSF小説の普及に重要な役割を果たした。1975年以降も増刷されたものもある。ファンからの愛称は「銀背」。

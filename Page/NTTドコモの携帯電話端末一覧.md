@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTドコモの携帯電話端末一覧](https://ja.wikipedia.org/wiki/NTTドコモの携帯電話端末一覧)から翻訳されています。
 
 
 本記事では、**[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（各地域分社時代を含む）の[携帯電話](../Page/携帯電話.md "wikilink")端末**について詳細に説明する。
@@ -1319,8 +1319,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/P-01J" title="wikilink">P-01J</a></em></p></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/SH-01J" title="wikilink">SH-01J</a></em></p></td>
+<td><p><em><a href="../Page/P-01J.md" title="wikilink">P-01J</a></em></p></td>
+<td><p><em><a href="../Page/SH-01J.md" title="wikilink">SH-01J</a></em></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1332,7 +1332,7 @@
 <tr class="even">
 <td><p>その他</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/らくらくホン_F-02J" title="wikilink">F-02J</a></em><br />
-<em><a href="https://ja.wikipedia.org/wiki/F-03J" title="wikilink">F-03J</a></em><br />
+<em><a href="../Page/F-03J.md" title="wikilink">F-03J</a></em><br />
 <em><a href="https://ja.wikipedia.org/wiki/らくらくスマートフォン4" title="wikilink">F-04J</a></em></p></td>
 <td></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/N-01J" title="wikilink">N-01J</a></em></p></td>

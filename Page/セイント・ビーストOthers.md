@@ -1,4 +1,4 @@
-> この記事は[Others](https://ja.wikipedia.org/wiki/Others)から翻訳されています。
+> この記事は[セイント・ビーストOthers](https://ja.wikipedia.org/wiki/セイント・ビーストOthers)から翻訳されています。
 
 
 『**セイント・ビーストOthers**』（セイント・ビースト アザーズ）とは、『**[セイント・ビースト](../Page/セイント・ビースト.md "wikilink")**』の外伝として制作された作品。

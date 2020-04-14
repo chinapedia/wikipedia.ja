@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[シャルルロワSC](https://ja.wikipedia.org/wiki/シャルルロワSC)から翻訳されています。
 
 
 **ロワイヤル・シャルルロワ・スポルティング・クラブ**（）は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[エノー州](../Page/エノー州.md "wikilink")[シャルルロワ](../Page/シャルルロワ.md "wikilink")にホームを置くサッカークラブである。**スポルティング・シャルルロワ**（）または**RCSC**と呼ばれることもある。2015-16シーズンは[ジュピラー・プロ・リーグ](../Page/ベルギー・ファースト・ディビジョンA.md "wikilink")（1部）所属。

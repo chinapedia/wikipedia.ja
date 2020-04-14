@@ -1,4 +1,4 @@
-> この記事は[KS](https://ja.wikipedia.org/wiki/KS)から翻訳されています。
+> この記事は[KSディナモ・ティラナ](https://ja.wikipedia.org/wiki/KSディナモ・ティラナ)から翻訳されています。
 
 
 **クルビ・スポルティヴ・ディナモ・ティラナ**（**Klubi Sportiv Dinamo Tirana**）は、[アルバニア](../Page/アルバニア.md "wikilink")の首都[ティラナ](../Page/ティラナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[カテゴリア・エ・パラ](https://ja.wikipedia.org/wiki/カテゴリア・エ・パラ "wikilink")（2部リーグ）に所属する。

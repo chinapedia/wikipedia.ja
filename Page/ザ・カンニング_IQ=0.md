@@ -1,4 +1,4 @@
-> この記事は[ IQ=0](https://ja.wikipedia.org/wiki/_IQ=0)から翻訳されています。
+> この記事は[ザ・カンニング IQ=0](https://ja.wikipedia.org/wiki/ザ・カンニング_IQ=0)から翻訳されています。
 
 
 『**ザ・カンニング\[IQ=0\]**』（ザ・カンニング アイキューゼロ、仏題：**、英題：**）は[1980年に製作された](../Page/1980年の映画.md "wikilink")[フランスの](../Page/フランスの映画.md "wikilink")[コメディ映画](../Page/コメディ映画.md "wikilink")。フランスの[大学入学資格検定](../Page/大学入学資格検定.md "wikilink")「[バカロレア](https://ja.wikipedia.org/wiki/バカロレア資格 "wikilink")」の[予備校](../Page/予備校.md "wikilink")生たちが[カンニング](../Page/カンニング.md "wikilink")を駆使して[合格](https://ja.wikipedia.org/wiki/合格 "wikilink")を目指すまでを面白おかしく描いた物語。フィンランドとノルウェーではK-12（12歳未満は視聴不可）規制を受けている。

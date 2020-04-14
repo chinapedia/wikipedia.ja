@@ -1,4 +1,4 @@
-> この記事は[AT\&T](https://ja.wikipedia.org/wiki/AT\&T)から翻訳されています。
+> この記事は[AT\&Tセンター](https://ja.wikipedia.org/wiki/AT\&Tセンター)から翻訳されています。
 
 
 **AT\&Tセンター**（AT\&T Center）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[テキサス州](../Page/テキサス州.md "wikilink")[サンアントニオ](https://ja.wikipedia.org/wiki/サンアントニオ "wikilink")に所在する屋内競技場。[NBA](../Page/NBA.md "wikilink")の[サンアントニオ・スパーズ](https://ja.wikipedia.org/wiki/サンアントニオ・スパーズ "wikilink")、[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")の[サンアントニオ・スターズ](https://ja.wikipedia.org/wiki/サンアントニオ・スターズ "wikilink")の本拠地としても使用されている。

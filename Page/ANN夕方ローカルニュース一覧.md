@@ -1,4 +1,4 @@
-> この記事は[ANN](https://ja.wikipedia.org/wiki/ANN)から翻訳されています。
+> この記事は[ANN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/ANN夕方ローカルニュース一覧)から翻訳されています。
 
 
 **ANN夕方ローカルニュース一覧**（エイエヌエヌゆうがたローカルニュースいちらん）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）各局で現在放送中夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
@@ -25,7 +25,8 @@
       - 放送時間：平日18:15 - 18:55（毎年5月上旬～7月上旬は[夏の高校野球岩手大会注目校紹介番組](../Page/夏の高校野球岩手大会実況中継.md "wikilink")「[純情応援歌](../Page/純情応援歌.md "wikilink")」放送のため18:48までに枠小）
   - KHB [東日本放送](../Page/東日本放送.md "wikilink")
       - 『[チャージ\!](https://ja.wikipedia.org/wiki/チャージ! "wikilink")』■
-      - キャスター：[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")（月曜 - 水曜）、[野口ちひろ](https://ja.wikipedia.org/wiki/野口ちひろ "wikilink")（木曜・金曜）、[上野比呂企](https://ja.wikipedia.org/wiki/上野比呂企 "wikilink")
+      - キャスター：[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")（月曜 - 水曜）、[野口ちひろ](https://ja.wikipedia.org/wiki/野口ちひろ "wikilink")（木曜・金曜）
+      - フィールドキャスター：[上野比呂企](https://ja.wikipedia.org/wiki/上野比呂企 "wikilink")
       - 放送時間：平日16:45 - 19:00（ローカルニュース枠は16:45 - 16:50、17:36 - 17:53、18:15 - 19:00）
   - AAB [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
       - 『[スーパーJチャンネルトレタテ\!](https://ja.wikipedia.org/wiki/スーパーJチャンネルトレタテ! "wikilink")』■

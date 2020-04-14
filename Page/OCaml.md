@@ -5,7 +5,7 @@
 
 ## 概要
 
-もとはCamlという名前の、MLの方言の処理系実装、および言語であった。この名前はcategorical abstract machine languageの頭字語である。クラスや[継承など](../Page/継承_\(プログラミング\).md "wikilink")[クラスベース](../Page/クラスベース.md "wikilink")[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の言語機能が追加され Objective Camlという名前になり、その後、略称だったOCamlを正式な名前とした。ウェブサイトの概要説明では「OCamlはCaml派生の言語の中で最も知られたものである」\[2\]としている。もとの処理系も配布され続けており、Caml Lightという名前になっている。英語ではCamlはcamel（ラクダ）と同様に発音されており、アイコン等にもラクダを使っている。
+もとはCamlという名前の、MLの方言の処理系実装、および言語であった。この名前はcategorical abstract machine languageの頭字語に由来する（[:en:Categorical abstract machineも参照](https://ja.wikipedia.org/wiki/:en:Categorical_abstract_machine "wikilink")）。やがて、categorical abstract machineよりも効率の良い抽象機械ベースに書き直され、クラスや[継承など](../Page/継承_\(プログラミング\).md "wikilink")[クラスベース](../Page/クラスベース.md "wikilink")[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の言語機能が追加され Objective Camlという名前になり、その後、略称だったOCamlを正式な名前とした。ウェブサイトの概要説明では「OCamlはCaml派生の言語の中で最も知られたものである」\[2\]としている。もとの処理系も配布され続けており、Caml Lightという名前になっている。英語ではCamlはcamel（ラクダ）と同様に発音されており、アイコン等にもラクダを使っている。
 
 MLの特徴の他に、関数型とオブジェクト指向の両方を併せもつことが特徴的である。ただしそのため、オブジェクト指向を利用した破壊的操作を伴うプログラムがかなり容易に書けてしまう。また、多相バリアント型という特殊なバリアント型により（通常のバリアント型については[代数的データ型](../Page/代数的データ型.md "wikilink")を参照のこと）、サブセットとスーパーセットの関係になっているバリアント型などを記述できるなどといった特徴もある。
 

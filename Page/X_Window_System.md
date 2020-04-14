@@ -136,7 +136,7 @@ Unix系システムでは、グラフィックス表示にはXが使われるの
 
 Quartz開発者の1人であるMike Paquetteは、アップルがDisplay PostScriptからXに移行せずに独自のウィンドウサーバを開発した理由として、アップルが必要とする全ての機能をX11に追加してみたら、X11とは似ても似つかないものになり、他のXサーバとの互換性も失ってしまったと説明した\[9\]。
 
-他にも、FrescoやY Window SystemといったXを置換することを意図したシステムもある。しかしXとの互換性を無視したこれらのシステムは、今のところ広く受けいれられてはいない。
+他にも、FrescoやY Window SystemといったXを置換することを意図したシステムもある。しかしXとの互換性を無視したこれらのシステムは、今のところ広く受けいれられてはいない。[Mir (ディスプレイサーバ)や](https://ja.wikipedia.org/wiki/Mir_\(ディスプレイサーバ\) "wikilink")[Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink")は互換性を重視している事もあって一応Linuxディストリビューションやプレインストールでの採用実績があるが、大きな流れには至っていない。
 
 ハードウェアを直接操作することでXのオーバーヘッドに対処しようとした競合システムもある（例えば、DirectFBやFrameBuffer UI）。[ダイレクト・レンダリング・インフラストラクチャ](https://ja.wikipedia.org/wiki/ダイレクト・レンダリング・インフラストラクチャ "wikilink") (DRI) は、ほぼ同等の機能をX内で[モジュール](../Page/モジュール.md "wikilink")化したものと言え、それら競合システムの努力が無駄になる可能性もある。しかし、（[RTAI](https://ja.wikipedia.org/wiki/RTAI "wikilink")などを使った）[組み込みシステム](../Page/組み込みシステム.md "wikilink")用LinuxではDRIのリアルタイム性は思わしくなく、そのような応用にXは今のところ不向きと言える。
 

@@ -1,4 +1,4 @@
-> この記事は[TBS \(\)](https://ja.wikipedia.org/wiki/TBS_\(\))から翻訳されています。
+> この記事は[TBS \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/TBS_\(曖昧さ回避\))から翻訳されています。
 
 
 **TBS**

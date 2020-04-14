@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[DVDフォーラム](https://ja.wikipedia.org/wiki/DVDフォーラム)から翻訳されています。
 
 
 **DVDフォーラム**(**DVD Forum**)は、[DVD](../Page/DVD.md "wikilink")規格の普及促進や新たな[規格](https://ja.wikipedia.org/wiki/規格 "wikilink")の策定を主な目的とする組織である。

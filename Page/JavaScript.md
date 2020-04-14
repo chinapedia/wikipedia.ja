@@ -1,11 +1,11 @@
 > この記事は[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)から翻訳されています。
 
 
-**JavaScript**（ジャバスクリプト）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")のひとつである。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")と名前が似ているが、全く異なるプログラミング言語である（後述の[\#歴史](https://ja.wikipedia.org/wiki/#歴史 "wikilink")を参照）。
+**JavaScript**（ジャバスクリプト）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")のひとつである。JavaScriptは[プロトタイプベース](../Page/プロトタイプベース.md "wikilink")の[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")[スクリプト言語](../Page/スクリプト言語.md "wikilink")であるが、[クラス](../Page/クラス.md "wikilink")などの[クラスベース](../Page/クラスベース.md "wikilink")に見られる機能も取り込んでいる。
 
-JavaScriptは[プロトタイプベース](../Page/プロトタイプベース.md "wikilink")の[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")[スクリプト言語](../Page/スクリプト言語.md "wikilink")であるが、[クラス](../Page/クラス.md "wikilink")などの[クラスベース](../Page/クラスベース.md "wikilink")に見られる機能も取り込んでいる。
+利用される場面は[Webサイト](../Page/ウェブサイト.md "wikilink")・[Webアプリ](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")・バックエンド・[デスクトップアプリ](https://ja.wikipedia.org/wiki/デスクトップアプリケーション "wikilink")・[モバイルアプリなど](https://ja.wikipedia.org/wiki/モバイルアプリケーション "wikilink")、ブラウザからサーバー、デスクトップからスマートフォンまで多岐にわたっている。
 
-[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")上で動作し動的な[ウェブサイト](../Page/ウェブサイト.md "wikilink")構築や[リッチインターネットアプリケーション](../Page/リッチインターネットアプリケーション.md "wikilink")の開発に用いられる。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")以降は[node.js](https://ja.wikipedia.org/wiki/node.js "wikilink")などのサーバサイドJavaScript実行環境や各種ライブラリの充実により、。
+[Java](https://ja.wikipedia.org/wiki/Java "wikilink")と似た名称を持つが、異なるプログラミング言語である（[\#歴史](https://ja.wikipedia.org/wiki/#歴史 "wikilink")を参照）。
 
 ## 概要
 
@@ -224,7 +224,14 @@ LCMCalculator: a = 25, b = 55, gcd = 5, lcm = 275
 LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 ```
 
-## JavaScriptの利用
+## 利用
+
+[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")における[HTML操作を目的として作られたJavaScriptは](https://ja.wikipedia.org/wiki/Html "wikilink")、2020年現在幅広い領域で利用されている。
+
+  - [Webページ](https://ja.wikipedia.org/wiki/Webページ "wikilink")・[ウェブサイト](../Page/ウェブサイト.md "wikilink")・[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")（ブラウザクライアント上での動作）
+  - ウェブバックエンドサーバー（[Node.js](https://ja.wikipedia.org/wiki/Node.js "wikilink")）
+  - [デスクトップアプリケーション](https://ja.wikipedia.org/wiki/デスクトップアプリケーション "wikilink")（例: [Electron (ソフトウェア)](https://ja.wikipedia.org/wiki/Electron_\(ソフトウェア\) "wikilink")）
+  - [モバイルアプリケーション](https://ja.wikipedia.org/wiki/モバイルアプリケーション "wikilink")（例: [React Native](https://ja.wikipedia.org/wiki/React_Native "wikilink")）
 
 ### Webページでの利用
 
@@ -242,7 +249,7 @@ JavaScriptの使用例としては、以下のようなものがある。
 
 JavaScriptはユーザーのブラウザ上で動作できることから、ユーザーの操作に対して素早く反応することができ、アプリケーションをよりレスポンシブにすることができる。さらにJavaScriptはHTML単独では対応できない操作、例えばキー入力などにも応答することができる。[Gmail](../Page/Gmail.md "wikilink")のようなアプリケーションでは、JavaScriptでUIロジックを実装し、さらにJavaScriptでサーバーから情報（例えばeメールのメッセージ）を取得することで、こうしたメリットを享受している。このような利点から[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")は大きなトレンドとなった。
 
-JavaScriptは主要ウェブブラウザの大半でサポートされている唯一の言語であることから、意図されたことではなかったが、様々な言語やフレームワークの[コンパイル先の出力言語となっている](../Page/コンパイラ.md "wikilink")\[21\]。動的な言語であることからパフォーマンスが制限されるにも関わらず、JavaScriptエンジンの性能向上によりこうした言語は予想外の発展を見せている。
+様々な言語やフレームワークをウェブブラウザ上で動作させるために、JavaScriptはそれらの[コンパイル先出力言語となっている](../Page/コンパイラ.md "wikilink")（例: [TypeScript](https://ja.wikipedia.org/wiki/TypeScript "wikilink")）。
 
 #### 例
 
@@ -401,7 +408,7 @@ Server</p></td>
 <tr class="odd">
 <td><p>1.9</p></td>
 <td></td>
-<td><p>1.8.1 + <a href="../Page/ECMAScript.md" title="wikilink">ECMAScript</a> 5[22] Compliance</p></td>
+<td><p>1.8.1 + <a href="../Page/ECMAScript.md" title="wikilink">ECMAScript</a> 5[21] Compliance</p></td>
 <td></td>
 <td><p>4.0-11.0</p></td>
 <td></td>
@@ -411,9 +418,9 @@ Server</p></td>
 </tbody>
 </table>
 
-\[23\]
+\[22\]
 
-## JavaScriptライブラリ
+## ライブラリ
 
 代表的なJavaScriptライブラリは以下のとおり。
 
@@ -502,4 +509,3 @@ Server</p></td>
 20.
 21.
 22.
-23.

@@ -1,4 +1,4 @@
-> この記事は[Pulay](https://ja.wikipedia.org/wiki/Pulay)から翻訳されています。
+> この記事は[Pulay補正](https://ja.wikipedia.org/wiki/Pulay補正)から翻訳されています。
 
 
 **Pulay 補正**（）は[バンド計算](../Page/バンド計算.md "wikilink")における[波動関数](../Page/波動関数.md "wikilink")の補正で、以下の3つがある。

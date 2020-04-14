@@ -69,6 +69,7 @@ IBM [Watsonは](https://ja.wikipedia.org/wiki/ワトソン_\(コンピュータ\
 
 ### 過去の事業
 
+  - [サービス・ビューロー](../Page/サービス・ビューロー.md "wikilink")社
   - [プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")事業 - [1991年](../Page/1991年.md "wikilink")に[レックスマーク](../Page/レックスマーク.md "wikilink")として分社化。
   - [ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink") (HDD) 事業 - [2003年](../Page/2003年.md "wikilink")に[日立製作所](../Page/日立製作所.md "wikilink")に売却。
   - [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink") (PC) 事業 - [2005年](../Page/2005年.md "wikilink")に[联想集团（レノボ）に売却](../Page/レノボ.md "wikilink")。

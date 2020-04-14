@@ -1,4 +1,4 @@
-> この記事は[GW](https://ja.wikipedia.org/wiki/GW)から翻訳されています。
+> この記事は[GW近似](https://ja.wikipedia.org/wiki/GW近似)から翻訳されています。
 
 
 **GW近似**（ジー・ダブルきんじ、）とは[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")の近似法の一つで、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[グリーン関数](../Page/グリーン関数.md "wikilink")  と遮蔽されたクーロンポテンシャル  の積を電子の[自己エネルギー](https://ja.wikipedia.org/wiki/自己エネルギー "wikilink")  とする近似方法。

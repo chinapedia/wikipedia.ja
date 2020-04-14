@@ -10,7 +10,7 @@
 ## 記号・単位
 
   - **Au** - **[金](../Page/金.md "wikilink")**の[元素記号](../Page/元素記号.md "wikilink")。
-  - **AU**, **au** - 天文学で用いる長さの単位「**[天文単位](../Page/天文単位.md "wikilink")**」 () の単位記号。
+  - **au** - 天文学で用いる長さの単位「**[天文単位](../Page/天文単位.md "wikilink")**」 () の単位記号。
   - **AU**, **au** - 0.1 nm に等しい長さの単位「**[オングストローム](../Page/オングストローム.md "wikilink")**」() の単位記号。通常は **Å** で示す。
   - **Au** - [臭いの計測値](../Page/におい.md "wikilink")「アラバスター単位」の単位記号。
       - [若林商店](https://ja.wikipedia.org/wiki/若林商店 "wikilink")が開発し、[B\&Hラボ](https://ja.wikipedia.org/wiki/B&Hラボ "wikilink")が販売した、におい濃度測定用ガス検知器「[アラバスター](https://ja.wikipedia.org/wiki/アラバスター_\(曖昧さ回避\) "wikilink")」で計測した数値。この装置の開発にも関わった発酵学者[小泉武夫](../Page/小泉武夫.md "wikilink")が、臭い食べ物の臭さを比較するための計測に用い、著書等で紹介している（[Template:臭い食べ物](https://ja.wikipedia.org/wiki/Template:臭い食べ物 "wikilink")参照）。国際的に広く認められた「においの単位」ではない。

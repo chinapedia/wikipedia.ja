@@ -1,4 +1,4 @@
-> この記事は[LDA](https://ja.wikipedia.org/wiki/LDA)から翻訳されています。
+> この記事は[LDAを越える試み](https://ja.wikipedia.org/wiki/LDAを越える試み)から翻訳されています。
 
 
 **LDAを越える試み**()とは、[局所密度近似](../Page/局所密度近似.md "wikilink")(LDA)の問題点を解消する新たな手法を見出す試みの総称である。

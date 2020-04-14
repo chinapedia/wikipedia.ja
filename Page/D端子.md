@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[D端子](https://ja.wikipedia.org/wiki/D端子)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:D4_video_connector.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:D-Terminal_jack.JPG "wikilink") **D端子**（ディーたんし）とは[映像機器](../Page/映像機器.md "wikilink")のアナログ映像信号を伝送するために規格された[日本独自の接続端子である](https://ja.wikipedia.org/wiki/ガラパゴス化 "wikilink")。

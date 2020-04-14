@@ -1,4 +1,4 @@
-> この記事は[PCM](https://ja.wikipedia.org/wiki/PCM)から翻訳されています。
+> この記事は[PCM音源](https://ja.wikipedia.org/wiki/PCM音源)から翻訳されています。
 
 
 **PCM音源**（ピーシーエムおんげん）は、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")などで扱われる[パルス符号変調](../Page/パルス符号変調.md "wikilink") (pulse code modulation、**PCM**) 技術を用いた[デジタルシンセサイザー](https://ja.wikipedia.org/wiki/デジタルシンセサイザー "wikilink")の[音源](../Page/音源.md "wikilink")方式のひとつ。

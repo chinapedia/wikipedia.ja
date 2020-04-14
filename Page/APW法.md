@@ -1,4 +1,4 @@
-> この記事は[APW](https://ja.wikipedia.org/wiki/APW)から翻訳されています。
+> この記事は[APW法](https://ja.wikipedia.org/wiki/APW法)から翻訳されています。
 
 
 **APW法** () は、[1937年](../Page/1937年.md "wikilink")に[ジョン・クラーク・スレイター](../Page/ジョン・クラーク・スレイター.md "wikilink")によって発明された[バンド計算](../Page/バンド計算.md "wikilink")手法\[1\]で、[マフィンティンポテンシャル](https://ja.wikipedia.org/wiki/マフィンティンポテンシャル "wikilink")を用いて[電子状態計算](https://ja.wikipedia.org/wiki/電子状態計算 "wikilink")を行う。それまでのセルラー法の難点を改良した。[日本語](../Page/日本語.md "wikilink")の直訳で、補強された[平面波](../Page/平面波.md "wikilink")による方法、補強された平面波法などと言われることもある。

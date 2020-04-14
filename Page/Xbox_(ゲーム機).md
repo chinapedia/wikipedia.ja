@@ -1,4 +1,4 @@
-> この記事は[Xbox \(\)](https://ja.wikipedia.org/wiki/Xbox_\(\))から翻訳されています。
+> この記事は[Xbox \(ゲーム機\)](https://ja.wikipedia.org/wiki/Xbox_\(ゲーム機\))から翻訳されています。
 
 
 **Xbox**（エックスボックス）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発および販売を行った[家庭用ゲーム機である](../Page/ゲーム機.md "wikilink")。「Xbox」と小文字で表記されることが多いが、ロゴ等は「XBOX」とすべて大文字で表記されている。

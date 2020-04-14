@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF漫画](https://ja.wikipedia.org/wiki/SF漫画)から翻訳されています。
 
 
 [Planet_Comics_42.jpg](https://ja.wikipedia.org/wiki/File:Planet_Comics_42.jpg "fig:Planet_Comics_42.jpg") **SF漫画**（えすえふまんが）とは[科学](../Page/科学.md "wikilink")、もしくは空想（擬似）科学をテーマとしたり、あるいは舞台背景や小道具に用いた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を指す。ここでいう「SF」とは小説の[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")（*science fiction*）のことであり、そういう小説に書かれるような内容を描いた漫画をSF漫画という。

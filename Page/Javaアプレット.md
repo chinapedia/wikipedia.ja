@@ -1,4 +1,4 @@
-> この記事は[Java](https://ja.wikipedia.org/wiki/Java)から翻訳されています。
+> この記事は[Javaアプレット](https://ja.wikipedia.org/wiki/Javaアプレット)から翻訳されています。
 
 
 **Javaアプレット**（Java Applet）は、ネットワークを通して[Webブラウザに読み込まれ実行される](../Page/ウェブブラウザ.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の[アプリケーションの一形態](../Page/アプリケーションソフトウェア.md "wikilink")。Java 10までは[Java Runtime Environmentに搭載されていて](../Page/Java_Runtime_Environment.md "wikilink")、Java 9より非推奨になり、Java 11で廃止\[1\]。

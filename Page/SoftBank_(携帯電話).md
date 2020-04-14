@@ -1,4 +1,4 @@
-> この記事は[SoftBank \(\)](https://ja.wikipedia.org/wiki/SoftBank_\(\))から翻訳されています。
+> この記事は[SoftBank \(携帯電話\)](https://ja.wikipedia.org/wiki/SoftBank_\(携帯電話\))から翻訳されています。
 
 
 **SoftBank**（ソフトバンク）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が展開する[携帯電話](../Page/携帯電話.md "wikilink")のサービスブランドの一つである。

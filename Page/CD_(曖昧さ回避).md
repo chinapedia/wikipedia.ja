@@ -1,4 +1,4 @@
-> この記事は[CD \(\)](https://ja.wikipedia.org/wiki/CD_\(\))から翻訳されています。
+> この記事は[CD \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/CD_\(曖昧さ回避\))から翻訳されています。
 
 
 **CD**、**Cd**、**cd**、**ČD**

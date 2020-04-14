@@ -1,4 +1,4 @@
-> この記事は[GNU](https://ja.wikipedia.org/wiki/GNU)から翻訳されています。
+> この記事は[GNUプロジェクト](https://ja.wikipedia.org/wiki/GNUプロジェクト)から翻訳されています。
 
 
 **GNUプロジェクト**（グヌープロジェクト、\[1\]）とは、[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")[マス・コラボレーション](../Page/マス・コラボレーション.md "wikilink")プロジェクトである。

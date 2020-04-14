@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IPアドレス枯渇問題](https://ja.wikipedia.org/wiki/IPアドレス枯渇問題)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:IANA_IPv4_Address_Space_Registry.png "wikilink"): 一部北米、カリブ海、大西洋、南極大陸周辺}} 未割当\]\]

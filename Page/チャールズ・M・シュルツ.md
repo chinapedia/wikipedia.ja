@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[チャールズ・M・シュルツ](https://ja.wikipedia.org/wiki/チャールズ・M・シュルツ)から翻訳されています。
 
 
 **チャールズ・モンロー・シュルツ**（*Charles Monroe Schulz*, [1922年](../Page/1922年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [2000年](../Page/2000年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。代表作である『[ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")』でよく知られている。

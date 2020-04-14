@@ -1,7 +1,7 @@
 > この記事は[Safari](https://ja.wikipedia.org/wiki/Safari)から翻訳されています。
 
 
-| スクリーンショット = [Safari_12_on_Mojave.png](https://ja.wikipedia.org/wiki/File:Safari_12_on_Mojave.png "fig:Safari_12_on_Mojave.png") | 説明文 = [macOS Mojave上で動作するSafari](https://ja.wikipedia.org/wiki/macOS_Mojave "wikilink") 12 | 開発元 =
+| スクリーンショット = [350px](https://ja.wikipedia.org/wiki/ファイル:Safari_12_on_Mojave.png "wikilink") | 説明文 = [macOS Mojave上で動作するSafari](https://ja.wikipedia.org/wiki/macOS_Mojave "wikilink") 12 | 開発元 =
 [アップル](../Page/アップル_\(企業\).md "wikilink") | 初版 = [2003年](../Page/2003年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") | frequently updated = Yes | 対応OS = [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")<small>（[バージョン履歴参照](https://ja.wikipedia.org/wiki/#macOS "wikilink")）</small>
 [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（3.0 - ） | エンジン = [WebKit](../Page/WebKit.md "wikilink")（HTML レンダリング）
 [Nitro](https://ja.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")（JavaScript） | 対応プラットフォーム = [Macintosh](../Page/Macintosh.md "wikilink"), [iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink"), [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink"), [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink") | 種別 = [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink") | ライセンス = [EULA](../Page/ライセンス.md "wikilink")
@@ -22,8 +22,6 @@
 [HTTPレスポンスヘッダ](../Page/Hypertext_Transfer_Protocol.md "wikilink")（あるいは[HTMLのmeta要素](../Page/HyperText_Markup_Language.md "wikilink")）のContent-Type: フィールドのcharset指定（無指定時は [ISO-8859-1](https://ja.wikipedia.org/wiki/ISO/IEC_8859-1#ISO-8859-1 "wikilink")）と実際のHTMLの[文字コード](../Page/文字コード.md "wikilink")が異なっている場合、正確な動作を行うSafariでは指定に忠実に解釈するため[文字化け](../Page/文字化け.md "wikilink")する。
 
 [Mac OS X v10.6](../Page/Mac_OS_X_v10.6.md "wikilink")/Safari 5.1以降では、[プラグイン](../Page/プラグイン.md "wikilink")を個別プロセスで実行する仕様となり、プラグインがクラッシュしてもブラウザ全体が落ちることはなくなった。iOS版Safariは、[Flashなどのプラグインをサポートしない](../Page/Adobe_Flash.md "wikilink")。
-
-ウェブ情報を更新ボタンを長押しすると、pc版サイトにできる。
 
 ## Windows版
 

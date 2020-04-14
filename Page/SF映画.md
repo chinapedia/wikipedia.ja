@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF映画](https://ja.wikipedia.org/wiki/SF映画)から翻訳されています。
 
 
 **SF映画**（エスエフえいが）は、**SF**（[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")）をモチーフにした[映画](../Page/映画.md "wikilink")。[宇宙人](../Page/宇宙人.md "wikilink")の襲来、[宇宙旅行](../Page/宇宙旅行.md "wikilink")、[宇宙戦争](../Page/宇宙戦争_\(フィクション\).md "wikilink")、海底探検、[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")などの題材がよく扱われる。

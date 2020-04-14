@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[K点](https://ja.wikipedia.org/wiki/K点)から翻訳されています。
 
 
 **K点** (ケイてん) とは、[スキー](../Page/スキー.md "wikilink")の[ジャンプ競技における](../Page/スキージャンプ.md "wikilink")[ジャンプ台](https://ja.wikipedia.org/wiki/ジャンプ台 "wikilink")の**建築基準点**のこと。[ドイツ語](../Page/ドイツ語.md "wikilink")で建築基準点を意味するKonstruktionspunkt (英: construction point) に由来する。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sprungschanze_Sapporo.JPG "wikilink")。赤い線 (K点) と青い線 (P点) が分かる\]\]

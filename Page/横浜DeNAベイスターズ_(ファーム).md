@@ -1,4 +1,4 @@
-> この記事は[DeNA \(\)](https://ja.wikipedia.org/wiki/DeNA_\(\))から翻訳されています。
+> この記事は[横浜DeNAベイスターズ \(ファーム\)](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ_\(ファーム\))から翻訳されています。
 
 
 **横浜DeNAベイスターズ**（よこはまディー・エヌ・エー・ベイスターズ、*Yokohama DeNA BayStars*）の**ファーム**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロ野球球団](../Page/日本プロ野球.md "wikilink")・[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の下部組織として設置されている[ファームチーム](https://ja.wikipedia.org/wiki/ファームチーム "wikilink")である。[イースタン・リーグ](../Page/イースタン・リーグ.md "wikilink")の球団のひとつ。2000年から2010年のシーズン終了までは「**湘南シーレックス**」（しょうなんシーレックス、*Shonan Searex*）という名称だった（詳細は後述）。

@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ジョン・H・ワトスン](https://ja.wikipedia.org/wiki/ジョン・H・ワトスン)から翻訳されています。
 
 
 **ジョン・H・ワトスン**  は、[アーサー・コナン・ドイル](../Page/アーサー・コナン・ドイル.md "wikilink")の[推理小説](../Page/推理小説.md "wikilink")『[シャーロック・ホームズシリーズ](../Page/シャーロック・ホームズシリーズ.md "wikilink")』の登場人物。[軍医](https://ja.wikipedia.org/wiki/軍医 "wikilink")を経た後[開業医](../Page/開業医.md "wikilink")となった。名探偵[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")の友人であり、[伝記](../Page/伝記.md "wikilink")作家。ホームズシリーズのほとんどの作品は彼を[語り手](../Page/語り手.md "wikilink")としており、その物語を綴ったことにもなっている。日本語では**ワトソン**と表記されることも多い。

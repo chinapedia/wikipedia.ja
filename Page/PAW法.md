@@ -1,4 +1,4 @@
-> この記事は[PAW](https://ja.wikipedia.org/wiki/PAW)から翻訳されています。
+> この記事は[PAW法](https://ja.wikipedia.org/wiki/PAW法)から翻訳されています。
 
 
 **PAW法** () は[第一原理電子構造計算](https://ja.wikipedia.org/wiki/第一原理電子構造計算 "wikilink")の手法の一つ。[擬ポテンシャル](../Page/擬ポテンシャル.md "wikilink")法と[LAPW法](https://ja.wikipedia.org/wiki/LAPW法 "wikilink")を一般化した手法であり、より効率的に[密度汎関数計算を行うことを可能とする](../Page/密度汎関数理論.md "wikilink")。P. E. Blöchlが1994年に発表した手法で、数ある全電子計算手法の中でも新しい。

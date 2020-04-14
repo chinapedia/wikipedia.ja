@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII)から翻訳されています。
 
 
 **セガ・マークIII\[1\]**（セガ・マークスリー、SEGA MarkIII）とは、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")にセガ・エンタープライゼス（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が発売した[家庭用ゲーム機である](../Page/ゲーム機.md "wikilink")。流通用の型番はSG-1000M3。

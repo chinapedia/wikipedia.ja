@@ -1,4 +1,4 @@
-> この記事は[EU \(\)](https://ja.wikipedia.org/wiki/EU_\(\))から翻訳されています。
+> この記事は[EU \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/EU_\(曖昧さ回避\))から翻訳されています。
 
 
 **EU**

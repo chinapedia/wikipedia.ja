@@ -1,4 +1,4 @@
-> この記事は[Netscape](https://ja.wikipedia.org/wiki/Netscape)から翻訳されています。
+> この記事は[Netscapeシリーズ](https://ja.wikipedia.org/wiki/Netscapeシリーズ)から翻訳されています。
 
 
 **Netscapeシリーズ**（ネットスケープ シリーズ）とは、[ジム・クラークと](https://ja.wikipedia.org/wiki/ジム・クラーク_\(事業家\) "wikilink")[NCSA Mosaicの開発を抜けた](../Page/NCSA_Mosaic.md "wikilink")[マーク・アンドリーセン](../Page/マーク・アンドリーセン.md "wikilink")、[ジェイミー・ザヴィンスキー](https://ja.wikipedia.org/wiki/ジェイミー・ザヴィンスキー "wikilink")らによって開発された[ネットスケープコミュニケーションズ](../Page/ネットスケープコミュニケーションズ.md "wikilink")の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である**Netscape Navigator**\[1\]を起源とするウェブブラウザシリーズである。日本では「ネスケ」や「NN」といった略称でも呼ばれた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月をもってサポートを終了した。

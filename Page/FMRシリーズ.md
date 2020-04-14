@@ -1,4 +1,4 @@
-> この記事は[FMR](https://ja.wikipedia.org/wiki/FMR)から翻訳されています。
+> この記事は[FMRシリーズ](https://ja.wikipedia.org/wiki/FMRシリーズ)から翻訳されています。
 
 
 **FMRシリーズ**（エフエムアールシリーズ） は、[富士通](../Page/富士通.md "wikilink")が販売していた独自仕様のビジネス向け[パーソナルコンピューター](https://ja.wikipedia.org/wiki/パーソナルコンピューター "wikilink")（パソコン）のシリーズ名である。

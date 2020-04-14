@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ビデオCD](https://ja.wikipedia.org/wiki/ビデオCD)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:VCDlogo.svg "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[LAN](https://ja.wikipedia.org/wiki/LAN)から翻訳されています。
+> この記事は[無線LAN](https://ja.wikipedia.org/wiki/無線LAN)から翻訳されています。
 
 
 [Wireless_network.jpg](https://ja.wikipedia.org/wiki/File:Wireless_network.jpg "fig:Wireless_network.jpg") **無線LAN**（むせんラン）とは、[無線通信](../Page/無線通信.md "wikilink")を利用して[データ](../Page/データ.md "wikilink")の送受信を行う[LANシステムのことである](../Page/Local_Area_Network.md "wikilink")。**ワイヤレスLAN**（, \[1\]）、もしくはそれを略して****とも呼ばれる。無線LANの通信方式には様々なものがあるが、著名な無線LANの規格として[IEEE 802.11があり](../Page/IEEE_802.11.md "wikilink")、**[Wi-Fi](../Page/Wi-Fi.md "wikilink")**（ワイファイ）は、その規格を使用する無線LANに関する登録商標である。

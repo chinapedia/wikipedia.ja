@@ -39,6 +39,8 @@
   - 数値演算[コプロセッサ](../Page/コプロセッサ.md "wikilink")
     486SXと組み合わせ486DX相当を実現する [487SX](https://ja.wikipedia.org/wiki/Intel487 "wikilink")
     486SX2と組み合わせ486DX2相当を実現する 487SX2
+  -
+    80386ピン互換の486DX相当プロセッサ。486コアはFPUを内蔵しているため、[80387のソケットにはダミーを挿して使う](https://ja.wikipedia.org/wiki/x87#Intel_80387 "wikilink")\[1\]。
 
 ## 発売履歴
 
@@ -95,3 +97,5 @@
   - [- インテルミュージアム - 486画像](http://www.intel.com/jp/intel/museum/hof/486.htm)
 
 [Category:インテルのマイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:インテルのマイクロプロセッサ "wikilink")
+
+1.

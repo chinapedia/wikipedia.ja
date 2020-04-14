@@ -75,7 +75,7 @@ f(a,b)=\int_a^b \frac{1+x}{a+x^2 +x^3} \, dx
 
 ##  の日本語化
 
-[日本語](../Page/日本語.md "wikilink")組版処理のできる日本語版の  および  には、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")による [](../Page/Publishing_TeX.md "wikilink") および  と、[NTT](../Page/日本電信電話.md "wikilink") の斉藤康己による [NTT ](https://ja.wikipedia.org/wiki/NTT_JTeX "wikilink")\[12\]および磯崎秀樹による NTT  などがある。
+[日本語](../Page/日本語.md "wikilink")組版処理のできる日本語版の  および  には、[アスキーによる](../Page/アスキー_\(企業\).md "wikilink") [](../Page/Publishing_TeX.md "wikilink") および  と、[NTT](../Page/日本電信電話.md "wikilink") の斉藤康己による [NTT ](https://ja.wikipedia.org/wiki/NTT_JTeX "wikilink")\[12\]および磯崎秀樹による NTT  などがある。
 
 の日本語対応において技術的に最も大きな課題は、[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")への対応である。（および前身の日本語 ）は、[JIS X 0208](../Page/JIS_X_0208.md "wikilink") を[文字集合](../Page/文字集合.md "wikilink")とした[文字コード](../Page/文字コード.md "wikilink")（[ISO-2022-JP](../Page/ISO-2022-JP.md "wikilink")、[EUC-JP](../Page/EUC-JP.md "wikilink")、および [Shift_JIS](../Page/Shift_JIS.md "wikilink")）を直接扱う。DVI フォーマットは元々16[ビット](../Page/ビット.md "wikilink")以上の文字コードを格納できる仕様が含まれていた。しかしオリジナルの英語版では使われていなかったため、既存プログラムの多くは  が出力する DVI ファイルを処理できない。また[フォント](../Page/フォント.md "wikilink")に関係するファイルフォーマットが拡張されている。これに対して NTT  は、複数の1[バイト文字セットに分割することで対応している](../Page/バイト_\(情報\).md "wikilink")。たとえば、ひらがなとカタカナは内部的には別々の1バイト文字セットとして扱われる。このためにオリジナルの英語版からの変更が小さく、移植も比較的容易である。ファイルフォーマットが同じなので英語版のプログラムで DVI ファイル等を処理することもできる。しかし後述するフォントのマッピングの問題があるため、実際には多くの使用者が NTT  用に拡張されたプログラムを使っている。
 

@@ -1,4 +1,4 @@
-> この記事は[Mind \(\)](https://ja.wikipedia.org/wiki/Mind_\(\))から翻訳されています。
+> この記事は[Mind \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Mind_\(プログラミング言語\))から翻訳されています。
 
 
 **Mind**（**マインド**）は、[Forth](../Page/Forth.md "wikilink")の影響を受けた、（[プログラミング言語](../Page/プログラミング言語.md "wikilink")としては）[日本語](../Page/日本語.md "wikilink")っぽい自然な見掛け（と主張されている）が特徴であるプログラミング言語で、**いわゆる**[日本語プログラミング言語](https://ja.wikipedia.org/wiki/日本語プログラミング言語 "wikilink")のひとつである。しかしあくまで「プログラミング言語としては日本語っぽい」ということであり、（時折誤解されているが）**[自然言語](../Page/自然言語.md "wikilink")プログラミング**（[w:en:Natural language programming](https://ja.wikipedia.org/wiki/w:en:Natural_language_programming "wikilink")）言語**ではない**。

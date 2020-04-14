@@ -1,4 +1,4 @@
-> この記事は[ML \(\)](https://ja.wikipedia.org/wiki/ML_\(\))から翻訳されています。
+> この記事は[ML \(プログラミング言語\)](https://ja.wikipedia.org/wiki/ML_\(プログラミング言語\))から翻訳されています。
 
 
 **ML**（えむえる、Meta-Language）は、[関数型言語](../Page/関数型言語.md "wikilink")のひとつである。現代風の関数型言語としては歴史が古いほうで、[型推論](../Page/型推論.md "wikilink")機能などを持つが、デフォルトの[評価戦略](https://ja.wikipedia.org/wiki/評価戦略 "wikilink")は[遅延評価](../Page/遅延評価.md "wikilink")ではなく[先行評価](https://ja.wikipedia.org/wiki/先行評価 "wikilink")で、書き換えが可能なレコード型を持つなど、いわゆる「純粋関数型」でない特徴や機能を持つ。
@@ -78,4 +78,4 @@ Edinburgh LCFとMLは、1975～76年に[エディンバラ大学](../Page/エデ
 [Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink") [Category:関数型言語](https://ja.wikipedia.org/wiki/Category:関数型言語 "wikilink")
 
 1.  [SML＃プロジェクト](http://www.pllab.riec.tohoku.ac.jp/smlsharp/ja/)
-2.  OCamlは、表層文法 (surface grammar) すなわち綴りや字句的構文 (lexical syntax) の違いが目立つので差異が大きいと思われやすいが、表層以外の言語の本体はそう違うわけではない。
+2.  OCamlは、表層文法 (surface grammar) すなわち綴りや字句的構文 (lexical syntax) の違いが目立つので差異が大きいと思われやすいが、

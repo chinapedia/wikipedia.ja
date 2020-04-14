@@ -1,4 +1,4 @@
-> この記事は[Kleinman-Bylander](https://ja.wikipedia.org/wiki/Kleinman-Bylander)から翻訳されています。
+> この記事は[Kleinman-Bylander近似](https://ja.wikipedia.org/wiki/Kleinman-Bylander近似)から翻訳されています。
 
 
 **Kleinman-Bylander近似**（クレインマン・バイランダーきんじ）は、[擬ポテンシャル](../Page/擬ポテンシャル.md "wikilink")の[非局所部分](https://ja.wikipedia.org/wiki/非局所部分 "wikilink")の計算量を*N*の２乗のオーダーから*N*のオーダーまで減らす近似\[1\]。ここで*N*は、[平面波](../Page/平面波.md "wikilink")基底の数（通常、*N*<sup>2</sup>のオーダーでの計算量は扱う系が大きくなれば膨大なものになる）。Kleinman-Bylanderの分離形とも言う。

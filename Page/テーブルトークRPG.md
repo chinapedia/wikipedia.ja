@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[テーブルトークRPG](https://ja.wikipedia.org/wiki/テーブルトークRPG)から翻訳されています。
 
 
 **テーブルトークRPG**、あるいは**テーブルトーク・ロールプレイングゲーム**（、）とは、[テーブルゲーム](../Page/テーブルゲーム.md "wikilink")の[ジャンル](../Page/ジャンル.md "wikilink")のひとつ。[ゲーム機](../Page/ゲーム機.md "wikilink")などの[コンピュータ](../Page/コンピュータ.md "wikilink")を使わずに、[紙](../Page/紙.md "wikilink")や[鉛筆](../Page/鉛筆.md "wikilink")、[サイコロ](../Page/サイコロ.md "wikilink")などの道具を用いて、人間同士の会話とルールブックに記載されたルールに従って遊ぶ“対話型”の[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")（RPG）を指す言葉である\[1\]。

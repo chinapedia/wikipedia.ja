@@ -1,4 +1,4 @@
-> この記事は[LCAO](https://ja.wikipedia.org/wiki/LCAO)から翻訳されています。
+> この記事は[LCAO法](https://ja.wikipedia.org/wiki/LCAO法)から翻訳されています。
 
 
 **LCAO法**（LCAOほう、）あるいは**原子軌道による線形結合法**とは、[原子軌道](https://ja.wikipedia.org/wiki/原子軌道 "wikilink")の[線形結合](https://ja.wikipedia.org/wiki/線形結合 "wikilink")（[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")的[重ね合わせ](../Page/重ね合わせ.md "wikilink")）によって[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[波動関数](../Page/波動関数.md "wikilink")を記述し、その電子状態（[分子軌道](../Page/分子軌道.md "wikilink")）を求める計算手法のことである\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[バトルフィーバーJ](https://ja.wikipedia.org/wiki/バトルフィーバーJ)から翻訳されています。
 
 
 |                                                                       |

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[コンピュータRPG](https://ja.wikipedia.org/wiki/コンピュータRPG)から翻訳されています。
 
 
 **コンピュータRPG**（コンピュータ・アールピージー）は、[コンピュータゲームのジャンル](../Page/コンピュータゲームのジャンル.md "wikilink")の一つ。

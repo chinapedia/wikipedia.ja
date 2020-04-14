@@ -10,7 +10,7 @@
 ## 規格
 
   - [2003年](../Page/2003年.md "wikilink")現在、最新のバージョンはPCI 3.0である。
-  - 一般のパソコンではPCI 2.3準拠の 32ビットの33MHz、5VのPCIバスが採用されている。
+  - 一般のパソコンではPCI 2.3準拠の 32ビットの33MHz、帯域幅133.33 MB/s、5VのPCIバスが採用されていた。64ビット/66MHz PCIやさらに高速な[PCI-X](../Page/PCI-X.md "wikilink")は高価で、一部の[Power Macなどに搭載された以外は](../Page/Power_Mac.md "wikilink")、[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")や[1000BASE-Tの登場で](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")32ビット/33MHz PCI帯域幅の限界が目立つようになって[PCI Expressへの移行に至るまで](../Page/PCI_Express.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")、[ワークステーション](../Page/ワークステーション.md "wikilink")などでの採用にとどまった。
   - 動作[クロック](../Page/クロック.md "wikilink")は最大33MHzまたは最大66MHzで下限クロック数は規定されていない。
       - これはPCIの動作単位がクロックではなく実時間（例:Output Delayはクロック立ち上がりより12ns後）で規定されている為である。
   - [バス幅](https://ja.wikipedia.org/wiki/バス幅 "wikilink")は32ビットまたは64ビットで、1バスセグメント内で10デバイスをサポートする。それ以上の数のデバイスを接続する場合は、PCIバス-PCIバスブリッジを使用しバスセグメントを拡張するか、バスコントローラそのものを増設しセグメント数を増やす。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C言語](https://ja.wikipedia.org/wiki/C言語)から翻訳されています。
 
 
 **C言語**（シーげんご、）は、[1972年](../Page/1972年.md "wikilink")に[AT\&Tベル研究所の](../Page/ベル研究所.md "wikilink")[デニス・リッチー](../Page/デニス・リッチー.md "wikilink")が主体となって開発した汎用[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。英語圏では「C language」または単に「C」と呼ばれることが多い。日本でも文書や文脈によっては同様に「C」と呼ぶことがある。[制御構文](https://ja.wikipedia.org/wiki/制御構文 "wikilink")などに[高水準言語](../Page/高水準言語.md "wikilink")の特徴を持ちながら、ハードウェア寄りの記述も可能な[低水準言語](../Page/低水準言語.md "wikilink")の特徴も併せ持つ。基幹系システムや、動作環境の資源制約が厳しい、あるいは実行速度性能が要求されるソフトウェアの開発に用いられることが多い。後発の[C++](../Page/C++.md "wikilink")や[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[C\#など](../Page/C_Sharp.md "wikilink")、「C系」と呼ばれる派生言語の始祖でもある。[ANSI](../Page/米国国家規格協会.md "wikilink")、[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")、また[JISにより言語仕様が標準規格化されている](../Page/日本産業規格.md "wikilink")。

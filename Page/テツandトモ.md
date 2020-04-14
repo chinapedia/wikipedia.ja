@@ -1,4 +1,4 @@
-> この記事は[and](https://ja.wikipedia.org/wiki/and)から翻訳されています。
+> この記事は[テツandトモ](https://ja.wikipedia.org/wiki/テツandトモ)から翻訳されています。
 
 
 **テツandトモ**（テツアンドトモ）は、[ニチエンプロダクション](https://ja.wikipedia.org/wiki/ニチエンプロダクション "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。流行語大賞となった頃は『テツ&トモ』という表記もあったが、現在は『テツandトモ』と表記するのが普通である（[姓名判断](../Page/姓名判断.md "wikilink")の結果を受けて変更したとされる）。
@@ -192,7 +192,7 @@
 <!-- end list -->
 
   - [0655](https://ja.wikipedia.org/wiki/Eテレ0655&2355 "wikilink")（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、おはようソング「これを知ってるといばれるの唄　時事経済用語編」をトモが歌う）
-  - [ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")（[テレビ山梨](../Page/テレビ山梨.md "wikilink")、2016年1月-）月曜レギュラー
+  - [ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")（[テレビ山梨](../Page/テレビ山梨.md "wikilink")、2016年1月-2020年3月まで）月曜レギュラー
 
 ### 過去・単発出演
 

@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webサーバ](https://ja.wikipedia.org/wiki/Webサーバ)から翻訳されています。
 
 
 **Webサーバ**（ウェブサーバ、英:）は、[HTTPに則り](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")に対して、[HTMLやオブジェクト](../Page/HyperText_Markup_Language.md "wikilink")（[画像](../Page/画像.md "wikilink")など）の表示を提供するサービスプログラム及び、そのサービスが動作する[サーバ](../Page/サーバ.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")を指す。 広義には、クライアントソフトウェアとHTTPによる通信を行うプログラム及びコンピュータ。

@@ -1,4 +1,4 @@
-> この記事は[OSI](https://ja.wikipedia.org/wiki/OSI)から翻訳されています。
+> この記事は[OSI参照モデル](https://ja.wikipedia.org/wiki/OSI参照モデル)から翻訳されています。
 
 
 **OSI参照モデル**（OSIさんしょうモデル、）は、[コンピュータ](../Page/コンピュータ.md "wikilink")の持つべき[通信](../Page/通信.md "wikilink")機能を[階層構造](../Page/階層構造.md "wikilink")に分割した[モデルである](../Page/モデル_\(自然科学\).md "wikilink")。[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")(ISO)によって策定された。 **OSI基本参照モデル**、**OSIモデル**などとも呼ばれ、通信機能（[通信プロトコル](../Page/通信プロトコル.md "wikilink")）を7つの階層に分けて定義している。

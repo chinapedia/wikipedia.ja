@@ -118,7 +118,7 @@ CLIO（6SC800HF103）
 
 3DOでは実写の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の発売が認容された。海外タイトルでは[ポルノ女優](../Page/ポルノ女優.md "wikilink")の静止画や動画を再生するもの、国産では[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")ものや[野球拳](../Page/野球拳.md "wikilink")による[脱衣ゲーム](https://ja.wikipedia.org/wiki/脱衣ゲーム "wikilink")類、[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")が発売されている。再生対応としていた[ビデオCD](../Page/ビデオCD.md "wikilink")はLDと比べ画質が劣ることもあり、日本では専ら[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")系統の正規タイトルが多かったため、これを逆手に取り、ナイステックの[ROBOが発売されラブホテルのサービス機器として実用化された](https://ja.wikipedia.org/wiki/#日本における3DO端末 "wikilink")。
 
-松下電器は1995年末に3DO規格の権利を買収し、名実共に松下電機のマルチメディア規格となったものの、規格提唱社の撤退はサードパーティーをひるませてしまった。松下電器は3DOが市場から淘汰され始めた1996年になってようやくゲーム機としての3DOの展開に本腰を入れ始め、松下自身がゲーム部門の子会社を設立し、3DOの上位互換を持った後継機「[Panasonic M2](../Page/3DO_M2.md "wikilink")」の開発を公言した。しかし、確固たるユーザー層を積み上げてしのぎを削り合う状態になったSSとPSの勢いに追いつくことができず、6月には[任天堂](../Page/任天堂.md "wikilink")の「[NINTENDO64](../Page/NINTENDO64.md "wikilink")」（N64）が発売されたことでユーザーの興味はほぼ完全にSS・PS・N64の3機種に絞られ、ユーザーを3DOに振り返らせる術を失い、同年末ころまでには淘汰され店頭から消えていった。
+松下電器は1995年末に3DO規格の権利を買収し、名実共に松下電器のマルチメディア規格となったものの、規格提唱社の撤退はサードパーティーをひるませてしまった。松下電器は3DOが市場から淘汰され始めた1996年になってようやくゲーム機としての3DOの展開に本腰を入れ始め、松下自身がゲーム部門の子会社を設立し、3DOの上位互換を持った後継機「[Panasonic M2](../Page/3DO_M2.md "wikilink")」の開発を公言した。しかし、確固たるユーザー層を積み上げてしのぎを削り合う状態になったSSとPSの勢いに追いつくことができず、6月には[任天堂](../Page/任天堂.md "wikilink")の「[NINTENDO64](../Page/NINTENDO64.md "wikilink")」（N64）が発売されたことでユーザーの興味はほぼ完全にSS・PS・N64の3機種に絞られ、ユーザーを3DOに振り返らせる術を失い、同年末ころまでには淘汰され店頭から消えていった。
 
 3DO M2のローンチタイトルとしてワープが『[Dの食卓2](../Page/Dの食卓2.md "wikilink")』の開発を表明し、プロモーションビデオも公開され1996年夏に発売予定とされたが、3DOの終息により開発は放棄された。その後、ストーリー構成から作り直し「[D2](../Page/Dの食卓2.md "wikilink")」として1999年12月に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")で発売されている。
 
@@ -223,7 +223,7 @@ CLIO（6SC800HF103）
   - [3DO BLASTER](https://web.archive.org/web/20080923154024/http://assembler.roarvgm.com/3do_blaster/3do_blaster.html) - Internetアーカイブ保管。
   - [3DO SOFT MUSEUM](http://ysw.digi2.jp/3do/)
 
-[Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink") [Category:パナソニックの製品](https://ja.wikipedia.org/wiki/Category:パナソニックの製品 "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:かつて存在したアメリカ合衆国の企業](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国の企業 "wikilink") [Category:LGグループ](https://ja.wikipedia.org/wiki/Category:LGグループ "wikilink")
+[Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink") [Category:パナソニックの製品](https://ja.wikipedia.org/wiki/Category:パナソニックの製品 "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:かつて存在したアメリカ合衆国の企業](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国の企業 "wikilink") [Category:経営破綻した企業](https://ja.wikipedia.org/wiki/Category:経営破綻した企業 "wikilink") [Category:LGグループ](https://ja.wikipedia.org/wiki/Category:LGグループ "wikilink")
 
 1.
 2.  [小島秀夫が](../Page/小島秀夫_\(ゲームデザイナー\).md "wikilink")「[HIDECHAN\! ラジオ](../Page/HIDECHAN!_ラジオ.md "wikilink")」にて発言している。

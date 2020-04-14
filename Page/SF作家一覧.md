@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF作家一覧](https://ja.wikipedia.org/wiki/SF作家一覧)から翻訳されています。
 
 
 **[SF作家](../Page/SF作家.md "wikilink")一覧**（エスエフさっかいちらん）

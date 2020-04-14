@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxディストリビューション](https://ja.wikipedia.org/wiki/Linuxディストリビューション)から翻訳されています。
 
 
 **Linuxディストリビューション**とは、[Linux](../Page/Linux.md "wikilink")を一般利用者が[インストール](../Page/インストール.md "wikilink")したり、利用できる形にまとめ上げたもの（distribution＝配布・流通・頒布形態）。
@@ -66,6 +66,8 @@
       - [Ubuntu](../Page/Ubuntu.md "wikilink") : 6ヶ月ごとのリリースと商用サポートを掲げる。デスクトップ環境として[Unityを採用している](https://ja.wikipedia.org/wiki/Unity_\(ユーザインタフェース\) "wikilink")。
           - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink") : ユーザーのカスタマイズを前提としたディストリビューション。
           - [elementary OS](https://ja.wikipedia.org/wiki/elementary_OS "wikilink") : Pantheonという独自のデスクトップ環境を採用している。
+          - [Caramel OS](../Page/Caramel_OS.md "wikilink") : 美味しくて可愛いOS。
+          - [Nusy Linux](https://ja.wikipedia.org/wiki/Nusy_Linux "wikilink") : xfceを採用し、モダンな外観ながらも軽量なディストリビューション。
           - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink") : 教育用にカスタマイズされている。
           - [Elbuntu](https://ja.wikipedia.org/wiki/Elbuntu "wikilink") : [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")として[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")を採用している。
           - [Gobuntu](https://ja.wikipedia.org/wiki/Gobuntu "wikilink") : [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のみを利用している。
@@ -78,6 +80,7 @@
           - [Trisquel GNU/Linux](https://ja.wikipedia.org/wiki/Trisquel_GNU/Linux "wikilink") : GNU FSDGに適合し、フリーソフトウェア財団のサーバーで使用される。ファームウェアのレベルまで100%自由ソフトで構成される。
           - [Ubuntu Christian Edition](https://ja.wikipedia.org/wiki/Ubuntu_Christian_Edition "wikilink") : 聖書全文とURLフィルタリングを搭載している。
           - [Ubuntu Lite](https://ja.wikipedia.org/wiki/Ubuntu_Lite "wikilink") : [レガシーデバイス](../Page/レガシーデバイス.md "wikilink")を備えた古いコンピュータ用。
+          - [Ubuntu Pico](https://ja.wikipedia.org/wiki/Ubuntu_Pico "wikilink") : [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継。さらに軽く、安定した環境を追い求める。
           - [Ubuntu Studio](https://ja.wikipedia.org/wiki/Ubuntu_Studio "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
           - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用している。
           - [zUbuntu](https://ja.wikipedia.org/wiki/zUbuntu "wikilink") : [IBM eServer zSeries](../Page/System_z.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")用。

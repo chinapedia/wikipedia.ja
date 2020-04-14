@@ -1,4 +1,4 @@
-> この記事は[MZ \(\)](https://ja.wikipedia.org/wiki/MZ_\(\))から翻訳されています。
+> この記事は[MZ \(コンピュータ\)](https://ja.wikipedia.org/wiki/MZ_\(コンピュータ\))から翻訳されています。
 
 
 **MZ**（エムゼット）は、[1970年代](../Page/1970年代.md "wikilink")から[1980年代](../Page/1980年代.md "wikilink")にかけて[シャープ](../Page/シャープ.md "wikilink")が販売していた[パソコンのシリーズ名](../Page/パーソナルコンピュータ.md "wikilink")。

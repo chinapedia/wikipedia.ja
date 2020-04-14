@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxカーネル](https://ja.wikipedia.org/wiki/Linuxカーネル)から翻訳されています。
 
 
 **Linuxカーネル**は、[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である[Linux](../Page/Linux.md "wikilink")の[カーネル](../Page/カーネル.md "wikilink")。[リーナス・トーバルズ](../Page/リーナス・トーバルズ.md "wikilink")によって開発が開始された。ライセンスに[GPL](../Page/GNU_General_Public_License.md "wikilink")（バージョン2）を採用する[自由なソフトウェアである](../Page/フリーソフトウェア.md "wikilink")。

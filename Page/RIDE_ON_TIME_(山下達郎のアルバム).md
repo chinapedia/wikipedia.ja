@@ -1,7 +1,7 @@
-> この記事は[RIDE ON TIME \(\)](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(\))から翻訳されています。
+> この記事は[RIDE ON TIME \(山下達郎のアルバム\)](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(山下達郎のアルバム\))から翻訳されています。
 
 
-『**RIDE ON TIME**』（ライド・オン・タイム）は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算5作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**RIDE ON TIME**』（ライド・オン・タイム）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算5作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -51,7 +51,7 @@
 3.  **RAINY DAY**
       -
         吉田美奈子 作詞, 山下達郎 作曲・編曲
-        吉田美奈子のアルバム『[MONOCHROME](https://ja.wikipedia.org/wiki/MONOCHROME "wikilink")』\[17\]のために書き下ろされた曲だが、山下のヴァージョンが先にリリースされた。後にライブ・アルバム『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[18\]にはライヴ・ヴァージョンが収録された。
+        吉田美奈子のアルバム『[MONOCHROME](https://ja.wikipedia.org/wiki/MONOCHROME_\(吉田美奈子のアルバム\) "wikilink")』\[17\]のために書き下ろされた曲だが、山下のヴァージョンが先にリリースされた。後にライブ・アルバム『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』\[18\]にはライヴ・ヴァージョンが収録された。
 4.  **雲のゆくえに**
       -
         吉田美奈子 作詞, 山下達郎 作曲・編曲
@@ -535,7 +535,7 @@ Track 11, 12 &amp; 13 Mixed at PLANET KINGDOM in Sep. 2001</p></td>
 
   -  Discography ALBUM
 
-[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1980年のアルバム](https://ja.wikipedia.org/wiki/Category:1980年のアルバム "wikilink") [Category:1980年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1980年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:AIRのアルバム](https://ja.wikipedia.org/wiki/Category:AIRのアルバム "wikilink")
+[Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1980年のアルバム](https://ja.wikipedia.org/wiki/Category:1980年のアルバム "wikilink") [Category:1980年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1980年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:AIRのアルバム](https://ja.wikipedia.org/wiki/Category:AIRのアルバム "wikilink") [Category:山下達郎がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎がプロデュースしたアルバム "wikilink")
 
 1.  『[MOONGLOW](https://ja.wikipedia.org/wiki/MOONGLOW "wikilink")』 [1979年](../Page/1979年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売 AIR ⁄ [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink") LP:AIR-8001
 2.  [Don Lewis Biography](http://www.donlewismusic.com/don.html)
@@ -553,7 +553,7 @@ Track 11, 12 &amp; 13 Mixed at PLANET KINGDOM in Sep. 2001</p></td>
 14. [難波弘之](../Page/難波弘之.md "wikilink")『SENSE OF WONDER』 [1979年](../Page/1979年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売 [KING](../Page/キングレコード.md "wikilink") LP:SKS(S)-1032
 15. 『[GREATEST HITS\! OF TATSURO YAMASHITA](https://ja.wikipedia.org/wiki/GREATEST_HITS!_OF_TATSURO_YAMASHITA "wikilink")』 1982年[7月21日](../Page/7月21日.md "wikilink")発売 AIR ⁄ RVC LP:RAL-8803
 16.
-17. [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")『[MONOCHROME](https://ja.wikipedia.org/wiki/MONOCHROME "wikilink")』 1980年[10月21日](../Page/10月21日.md "wikilink")発売 [ALFA](../Page/アルファレコード.md "wikilink") LP:ALR-28006
+17. [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink")『[MONOCHROME](https://ja.wikipedia.org/wiki/MONOCHROME_\(吉田美奈子のアルバム\) "wikilink")』 1980年[10月21日](../Page/10月21日.md "wikilink")発売 [ALFA](../Page/アルファレコード.md "wikilink") LP:ALR-28006
 18. 『[JOY](https://ja.wikipedia.org/wiki/JOY_\(山下達郎のアルバム\) "wikilink")』 [1989年](../Page/1989年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")発売 MOON ⁄ [ALFA MOON](../Page/MOON_RECORDS.md "wikilink") 2CD:50MX-95/6
 19. 吉田美奈子『[LET'S DO IT -愛は思うまま-](https://ja.wikipedia.org/wiki/LET'S_DO_IT_-愛は思うまま- "wikilink")』 1978年[10月25日](../Page/10月25日.md "wikilink")発売 ALFA LP:ALR-6011
 20. 『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 [1976年](../Page/1976年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")発売 RCA ⁄ RVC LP:RVL-8004

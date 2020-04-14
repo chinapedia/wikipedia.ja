@@ -1,4 +1,4 @@
-> この記事は[M-4S](https://ja.wikipedia.org/wiki/M-4S)から翻訳されています。
+> この記事は[M-4Sロケット](https://ja.wikipedia.org/wiki/M-4Sロケット)から翻訳されています。
 
 
 **M-4Sロケット**（ミュー4エスロケット）は、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[宇宙航空研究所](https://ja.wikipedia.org/wiki/宇宙航空研究所 "wikilink")（以下、東大）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（以下、日産）と共同開発、日産が製造、東大が運用した4段式[固体燃料ロケットである](https://ja.wikipedia.org/wiki/ロケットエンジンの推進剤#固体燃料ロケット "wikilink")。[内之浦宇宙空間観測所](../Page/内之浦宇宙空間観測所.md "wikilink")から4基打ち上げられ、3基が成功。M-4Sの実機大予備試験機であるM-1,M-3Dについてもこの項で記述する。

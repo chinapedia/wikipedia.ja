@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FK理論](https://ja.wikipedia.org/wiki/FK理論)から翻訳されています。
 
 
 **FK理論**（エフケーりろん、「FK」はFrank-Kamenetskiiの略）とは[1939年](../Page/1939年.md "wikilink")に Frank Kamenetskii（[:en:David A. Frank-Kamenetskii](https://ja.wikipedia.org/wiki/:en:David_A._Frank-Kamenetskii "wikilink")）が考案した[物質](../Page/物質.md "wikilink")の[発火](https://ja.wikipedia.org/wiki/発火 "wikilink")に関する[理論](../Page/理論.md "wikilink")である。

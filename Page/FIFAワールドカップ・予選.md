@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAワールドカップ・予選](https://ja.wikipedia.org/wiki/FIFAワールドカップ・予選)から翻訳されています。
 
 
 **FIFAワールドカップ・予選**は、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")にエントリーした[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")から本大会に出場できるチームを決めるための大会である。

@@ -1,4 +1,4 @@
-> この記事は[ALICE IN WONDELAND](https://ja.wikipedia.org/wiki/ALICE_IN_WONDELAND)から翻訳されています。
+> この記事は[ALICE IN WONDEЯLAND](https://ja.wikipedia.org/wiki/ALICE_IN_WONDEЯLAND)から翻訳されています。
 
 
 『**ALICE IN WONDEЯLAND**』（アリス・イン・ワンダーランド）は、[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[アリス九號.](../Page/アリス九號..md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TOKIO \(\)](https://ja.wikipedia.org/wiki/TOKIO_\(\))から翻訳されています。
+> この記事は[TOKIO \(沢田研二の曲\)](https://ja.wikipedia.org/wiki/TOKIO_\(沢田研二の曲\))から翻訳されています。
 
 
 「**TOKIO**」（トキオ）は、[沢田研二](../Page/沢田研二.md "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")(現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"))より販売された。
@@ -56,7 +56,7 @@
 ## 外部リンク
 
   -
-[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が制作した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が制作した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink")
+[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[GALAXY \(RIP SLYME\)](https://ja.wikipedia.org/wiki/GALAXY_\(RIP_SLYME\))から翻訳されています。
+> この記事は[GALAXY \(RIP SLYMEの曲\)](https://ja.wikipedia.org/wiki/GALAXY_\(RIP_SLYMEの曲\))から翻訳されています。
 
 
 「**GALAXY**」（ギャラクシー）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")9枚目のシングル。[2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")発売。

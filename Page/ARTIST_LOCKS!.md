@@ -1,11 +1,9 @@
 > この記事は[ARTIST LOCKS!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!)から翻訳されています。
 
 
-**ARTIST LOCKS\!**（アーティスト・ロックス）\[1\]\[2\]とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!のコーナーの](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")1つである。放送時間は、月曜日 - 木曜日は23:10ごろから約20分間、金曜日は23:00ごろから約20分間と23:23ごろから約20分間、1週目 - 2週目は22:15ごろから約10分間。
+**ARTIST LOCKS\!**（アーティスト・ロックス）\[1\]\[2\]とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!のコーナーの](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")1つである。放送時間は、月曜日 - 木曜日は23:10ごろから約20分間、金曜日は23:00ごろから約20分間と23:23ごろから約20分間、月曜日 - 金曜日は22:55ごろから約5分間。
 
 ## 現在放送中のもの
-
-### 曜日別担当
 
 <table>
 <thead>
@@ -20,93 +18,69 @@
 <tr class="odd">
 <td><p><a href="../Page/月曜日.md" title="wikilink">月曜日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Perfume_LOCKS!" title="wikilink">Perfume LOCKS！</a></p></td>
-<td><p>「ヒミツの研究員」<a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
-<td><p>放送期間：<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/12月4日.md" title="wikilink">12月4日</a> - [3]<br />
-詳細は該当記事を参照</p></td>
+<td><p>「ヒミツの研究員」<strong><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></strong></p></td>
+<td><p>放送期間：<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a> -<br />
+<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/12月4日.md" title="wikilink">12月4日</a>までは毎週月～木曜日22時55分から5分枠で担当。詳細は該当記事を参照</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/火曜日.md" title="wikilink">火曜日</a></p></td>
-<td><p>アレキサンドLOCKS！</p></td>
-<td><p>「進路室の大王」川上洋平（<a href="https://ja.wikipedia.org/wiki/［ALEXANDROS］" title="wikilink">［Alexandros］</a>）</p></td>
-<td><p>放送期間：<a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a> -<br />
-同年<a href="../Page/9月29日.md" title="wikilink">9月29日</a>をもって休講となった<a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a>の後任として開始</p></td>
+<td><p>ミセスLOCKS！</p></td>
+<td><p>「超現代史の講師」<br />
+<strong><a href="https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE" title="wikilink">Mrs. GREEN APPLE</a></strong></p></td>
+<td><p>放送期間：<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a> -<br />
+<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a>までは水曜日担当。同年<a href="../Page/3月31日.md" title="wikilink">3月31日</a>より川上洋平（<a href="https://ja.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a>の後任として枠移動。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/水曜日.md" title="wikilink">水曜日</a></p></td>
-<td><p>ミセスLOCKS！</p></td>
-<td><p>「超現代史の講師」<a href="https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE" title="wikilink">Mrs. GREEN APPLE</a></p></td>
-<td><p>放送期間：<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a> -<br />
-同年<a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a>をもって休講となった<a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDENの後任として開始</a></p></td>
+<td><p>ヒゲダンLOCKS！</p></td>
+<td><p>「公式の講師」<br />
+<strong><a href="https://ja.wikipedia.org/wiki/Official髭男dism" title="wikilink">Official髭男dism</a></strong></p></td>
+<td><p>放送期間：<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> -<br />
+同年<a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a>を以て曜日を移動した<a href="https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE" title="wikilink">Mrs. GREEN APPLEの後任として開始</a>。<br />
+<a href="https://ja.wikipedia.org/wiki/カルピスウォーター" title="wikilink">カルピスウォーター</a>が提供。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/木曜日.md" title="wikilink">木曜日</a></p></td>
 <td><p>Eve LOCKS！</p></td>
-<td><p>「異文化の講師」<a href="https://ja.wikipedia.org/wiki/Eve_(歌手)" title="wikilink">Eve</a></p></td>
+<td><p>「異文化の講師」<strong><a href="https://ja.wikipedia.org/wiki/Eve_(歌手)" title="wikilink">Eve</a></strong></p></td>
 <td><p>放送期間：<a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> -<br />
-同年<a href="../Page/3月28日.md" title="wikilink">3月28日</a>をもって放送枠を移動した<a href="https://ja.wikipedia.org/wiki/山口一郎_(歌手)" title="wikilink">山口一郎</a> (<a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>) の後任として開始</p></td>
+同年<a href="../Page/3月28日.md" title="wikilink">3月28日</a>を以て曜日・コーナーを移動した<a href="https://ja.wikipedia.org/wiki/山口一郎_(歌手)" title="wikilink">山口一郎</a>（<a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>）の後任として開始。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金曜日.md" title="wikilink">金曜日</a></p></td>
-<td><p>ブルエンLOCKS!</p></td>
-<td><p>「青学の講師」<a href="https://ja.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNT</a></p></td>
-<td><p>放送期間:<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月7日.md" title="wikilink">2月7日</a>　- <a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a>末<br />
-<a href="https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#SCHOOL_OF_LOCK!_キズナ感謝祭" title="wikilink">SCHOOL OF LOCK! 親子のキズナプロジェクトの企画で期間限定復活</a>。</p></td>
+<td><p>アレキサンドLOCKS！</p></td>
+<td><p>「進路室の大王」<br />
+<strong>川上洋平（<a href="https://ja.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a>）</strong></p></td>
+<td><p>放送期間：<a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/10月6日.md" title="wikilink">10月6日</a> -<br />
+<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a>までは火曜日担当。同年<a href="../Page/4月3日.md" title="wikilink">4月3日</a>より<a href="https://ja.wikipedia.org/wiki/BLUE_ENCOUNT" title="wikilink">BLUE ENCOUNTの後任として放送枠を移動</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セカオワLOCKS!" title="wikilink">セカオワLOCKS！</a></p></td>
-<td><p>「世界始の講師」<a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a></p></td>
-<td><p>放送期間：<a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a> - [4]<br />
-詳細は該当記事を参照</p></td>
+<td><p>LiSA LOCKS！</p></td>
+<td><p>「LL教室の講師」<strong><a href="https://ja.wikipedia.org/wiki/LiSA" title="wikilink">LiSA</a></strong></p></td>
+<td><p>放送期間：<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/4月10日.md" title="wikilink">4月10日</a> -<br />
+<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a>までは毎月2週目の月～木曜日22時15分から10分枠で担当。同年4月3日より<a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARIの後任として枠移動</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/サカナLOCKS!" title="wikilink">サカナLOCKS！</a></p></td>
-<td><p>「音学の講師」<a href="https://ja.wikipedia.org/wiki/山口一郎_(歌手)" title="wikilink">山口一郎</a>（<a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>）</p></td>
+<td><p>「音学の講師」<br />
+<strong><a href="https://ja.wikipedia.org/wiki/山口一郎_(歌手)" title="wikilink">山口一郎</a>（<a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a>）</strong></p></td>
 <td><p>放送期間：<a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> -<br />
-「SCHOOL OF LOCK! UNIVERSITY → SCHOOL OF LOCK! FRYDAY!」内のコーナー。<a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a>までは<a href="../Page/木曜日.md" title="wikilink">木曜日</a>。詳細は該当記事を参照</p></td>
+<a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a>までは月曜日、<a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a>までは木曜日担当。他にも別パーソナリティの“開講”に合わせて何度か休校している。詳細は該当記事を参照</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 週別担当
-
-<table>
-<thead>
-<tr class="header">
-<th><p>週</p></th>
-<th><p>番組名</p></th>
-<th><p>パーソナリティ</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>第1週</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Aqours_LOCKS!" title="wikilink">Aqours LOCKS！</a></p></td>
-<td><p>「スクールアイドルの講師」<a href="https://ja.wikipedia.org/wiki/Aqours" title="wikilink">Aqours</a></p></td>
-<td><p>放送期間：<a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月2日.md" title="wikilink">4月2日</a> -<br />
-毎月1週目の月～木曜日22：15頃から10分間担当<br />
-詳細は該当記事を参照</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>―</p></td>
+<td><p>豆柴LOCKS！</p></td>
+<td><p>「飼育小屋の子犬」<strong><a href="../Page/豆柴の大群.md" title="wikilink">豆柴の大群</a></strong></p></td>
+<td><p>放送期間：<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> -<br />
+毎週月～金曜日22時55分から5分間担当。</p></td>
 </tr>
 <tr class="odd">
-<td><p>第2週</p></td>
-<td><p>LiSA LOCKS！</p></td>
-<td><p>「LL教室の講師」<a href="https://ja.wikipedia.org/wiki/LiSA" title="wikilink">LiSA</a></p></td>
-<td><p>放送期間：<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/4月10日.md" title="wikilink">4月10日</a> -<br />
-毎月2週目の月～木曜日22：15頃から10分間担当</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -187,12 +161,12 @@
 
 ### くるりLOCKS\!
 
-  - [くるり](../Page/くるり.md "wikilink")が講師。「春の集中講座」として2008年3月限定で放送。
+  - [くるり](../Page/くるり.md "wikilink")が担当。「春の集中講座」として2008年3月限定で放送。
 
 ### カエラLOCKS\!
 
   - “魔法実習”[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")が担当。
-  - 2009年6月3日から2009年7月29日までの期間限定で放送されていた。
+  - 2009年6月3日から2009年7月29日までの期間限定で放送された。
 
 ### 氣志團LOCKS\!
 
@@ -227,7 +201,7 @@
 
 ### YUI LOCKS\!
 
-  - “「◇◇◇◇」\[5\]の講師”女性シンガーソングライターの[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
+  - “「◇◇◇◇」\[3\]の講師”女性シンガーソングライターの[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
   - メイン授業は「紙ヒコーキダイアリー」である。決心の日記を書き、それが実行できたら実現の日記に書く。期間が決まっていないことから「明日こそは〜をたべるぞ！」を始め「絶対〜に合格する！」など様々なものがある。
   - 2006年10月から2007年3月までは[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")4週目の時間を担当し、4月から木曜日のレギュラー講師となった。
   - 毎放送の挨拶の際、「こんばんわんこ」など「今晩は」のあとに言葉をつけていた。
@@ -252,7 +226,7 @@
   - 2011年1月18日より、3ヶ月の期間限定でチャボベLOCKS\!と称して、[チャットモンチー](../Page/チャットモンチー.md "wikilink")とBase Ball Bearで合同授業を行っていた。この間、ベボベLOCKS\!は休みの扱いとなった。2011年3月29日まで。
   - チャボベLOCKS\!終了後は、2011年4月5日より、再びベボベLOCKS\!が再開。以後、2014年3月25日まで放送された。
   - [閃光ライオット](https://ja.wikipedia.org/wiki/閃光ライオット "wikilink")にも2013年まで毎年、特別審査員として出演しており、非常にこの番組と結びつきが強かった。そのため、
-  - 最後の放送で、ベボベLOCKS\!のメンバー4人の声はすべてGt.湯浅将平がメンバーの録音音声を[サンプラー](../Page/サンプラー.md "wikilink")で繋ぎ合わせ、放送していたことが明らかとなった。\[6\]
+  - 最後の放送で、ベボベLOCKS\!のメンバー4人の声はすべてGt.湯浅将平がメンバーの録音音声を[サンプラー](../Page/サンプラー.md "wikilink")で繋ぎ合わせ、放送していたことが明らかとなった。\[4\]
 
 ### 長渕LOCKS\!
 
@@ -268,7 +242,7 @@
 
 #### THE TURTLE JAPAN LOCKS\!
 
-  - [THE TURTLES JAPANが担当](https://ja.wikipedia.org/wiki/THE_TURTLES_JAPAN "wikilink")。**flumpool LOCKS\!のジャック**\[7\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。メインメンバーの[KAMEDA](../Page/亀田誠治.md "wikilink")、[YAMAMURA](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、[SAKAIが進行を行う](https://ja.wikipedia.org/wiki/阪井一生 "wikilink")。
+  - [THE TURTLES JAPANが担当](https://ja.wikipedia.org/wiki/THE_TURTLES_JAPAN "wikilink")。**flumpool LOCKS\!のジャック**\[5\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。メインメンバーの[KAMEDA](../Page/亀田誠治.md "wikilink")、[YAMAMURA](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、[SAKAIが進行を行う](https://ja.wikipedia.org/wiki/阪井一生 "wikilink")。
 
 ### クリープLOCKS\!
 
@@ -298,7 +272,7 @@
   - 2007年9月25日で「無期休講」という形で終了。
   - 2009年3月11日から5月27日まで、[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")「一旦休講」に伴い、期間限定で水曜日枠に復活した。ただし、“おかずの講師”ではなく“かずのお講師”として担当。
   - 2011年4月4日から、[BUMP OF CHICKENの休講に伴い](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、期間限定で月曜日枠に復活する。ただし、“かずのお講師”ではなく“おマスの講師”として担当。
-  - 2016年10月5日より、前任の[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")を引き継いで、5年半ぶりに水曜日担当の講師として期間限定で復帰した。ただし、“おマスの講師”ではなくSCHOOL OF LOCK\!の“先先先生”（せんせんせんせい）として担当\[8\]。
+  - 2016年10月5日より、前任の[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")を引き継いで、5年半ぶりに水曜日担当の講師として期間限定で復帰した。ただし、“おマスの講師”ではなくSCHOOL OF LOCK\!の“先先先生”（せんせんせんせい）として担当\[6\]。
 
 ### ブルエンLOCKS\!
 
@@ -306,7 +280,7 @@
 
 #### 親子のキズナプロジェクト
 
-  - [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末まで担当。生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作する\[9\]。
+  - [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。金曜日の22：30頃から約20分間。生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
 
 ### ユニゾンLOCKS\!
 
@@ -314,17 +288,25 @@
 
 ### きゃりーLOCKS\!
 
-  - “鍵の遊園地の園長”[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が担当。[2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")　毎月1週目の月～木曜日22：15頃から10分間放送された\[10\]
+  - “鍵の遊園地の園長”[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が担当。[2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間放送された\[8\]
   - [GIRLS LOCKS！の枠を割いて放送されていたが](../Page/GIRLS_LOCKS!.md "wikilink")、公式サイトは独立している。
 
 ### SHISHAMO LOCKS！
 
   - “美術の講師”[SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")が担当。[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、金曜日の22：15頃から10分間放送された。
 
+### [Aqours LOCKS！](https://ja.wikipedia.org/wiki/Aqours_LOCKS! "wikilink")
+
+  - “スクールアイドルの講師“ [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")が担当。[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間担当していた。詳細は該当記事を参照
+
+### [セカオワLOCKS！](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")
+
+  - “世界始の講師“ [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") が担当[2012年](../Page/2012年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")\[9\]。詳細は該当記事を参照。
+
 ## 特別出演
 
   - Aqua LOCKS\!（[Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")/2007年5月7日-5月10日）
-  - カンパネラLOCKS\!（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")/2017年1月30日-2月2日）\[11\]
+  - カンパネラLOCKS\!（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")/2017年1月30日-2月2日）\[10\]
 
 ## 関連項目
 
@@ -343,12 +325,11 @@
 
 1.  「[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")」等と異なり「ARTIST LOCKS\!」という名称は正式ではなく、公式サイト上では、使われることもあるが、通常は「**LOCKS\!**」とまとめられている。また、後記出典のように『ARTIST』ではなく、「アーティスト」と記載される場合もしばしば見られる。
 2.
-3.  番組自体は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から開始され、毎週月～木曜日に放送されていたが、12月4日からこの時間帯に移動になった。
-4.  番組自体は[2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")から開始され、3ヶ月限定で毎週月曜日を担当し一旦は終了したが、2012年4月6日からレギュラー講師に昇格し再開された。
-5.  「◇◇◇◇」は効果音。キラキラ・ワクワク・ドキドキ等、「一概に言葉に表すことができない気持ち」を意味する。
-6.  [ベボベLOCKS\!『 最終回 』](http://www.tfm.co.jp/lock/bbb/index.php?itemid=2265&catid=19&catid=19)
+3.  「◇◇◇◇」は効果音。キラキラ・ワクワク・ドキドキ等、「一概に言葉に表すことができない気持ち」を意味する。
+4.  [ベボベLOCKS\!『 最終回 』](http://www.tfm.co.jp/lock/bbb/index.php?itemid=2265&catid=19&catid=19)
+5.
+6.
 7.
-8.
-9.
-10. 開始から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは第4週を担当しており、3月の最終週と4月の第1週は連続放送となった。
-11. 5週目のGIRLS LOCKS\!の枠を用いて放送。
+8.  開始から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは第4週を担当しており、3月の最終週と4月の第1週は連続放送となった。
+9.  番組自体は[2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")から開始され、3ヶ月限定で毎週月曜日を担当し一旦は終了したが、2012年4月6日からレギュラー講師に昇格し再開された。
+10. 5週目のGIRLS LOCKS\!の枠を用いて放送。

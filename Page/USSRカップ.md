@@ -1,4 +1,4 @@
-> この記事は[USSR](https://ja.wikipedia.org/wiki/USSR)から翻訳されています。
+> この記事は[USSRカップ](https://ja.wikipedia.org/wiki/USSRカップ)から翻訳されています。
 
 
 **USSRカップ**（****）は、[ソビエト社会主義共和国連邦で行われていた](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。

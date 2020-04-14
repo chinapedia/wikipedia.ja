@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT東日本-神奈川](https://ja.wikipedia.org/wiki/NTT東日本-神奈川)から翻訳されています。
 
 
 [NTT_EAST_Minato.JPG](https://ja.wikipedia.org/wiki/File:NTT_EAST_Minato.JPG "fig:NTT_EAST_Minato.JPG") **株式会社NTT東日本-神奈川**（エヌティティひがしにほんかながわ）は、かつて存在した[東日本電信電話](../Page/東日本電信電話.md "wikilink")株式会社（NTT東日本）の支店が担当していた業務をアウトソーシングした、都道県域会社のうちの1社である。

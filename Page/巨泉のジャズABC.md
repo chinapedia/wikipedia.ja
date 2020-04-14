@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[巨泉のジャズABC](https://ja.wikipedia.org/wiki/巨泉のジャズABC)から翻訳されています。
 
 
 『**巨泉のジャズABC**』（きょせんのジャズエービーシー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ S.A.C. 2nd GIG](https://ja.wikipedia.org/wiki/_S.A.C._2nd_GIG)から翻訳されています。
+> この記事は[攻殻機動隊 S.A.C. 2nd GIG](https://ja.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG)から翻訳されています。
 
 
 『**攻殻機動隊 S.A.C. 2nd GIG**』（こうかくきどうたい スタンドアローンコンプレックス セカンドギグ）は、『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』の続編となる[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")・[TVアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[スカパーの](../Page/スカパー・ブロードキャスティング.md "wikilink")[パーフェクト・チョイスでは](../Page/スカチャン.md "wikilink")[2004年](../Page/2004年.md "wikilink")より放送された。前作で解散に追い込まれた公安9課が再結成してからの物語となっている。

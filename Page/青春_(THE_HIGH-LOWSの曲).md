@@ -1,4 +1,4 @@
-> この記事は[ \(THE HIGH-LOWS\)](https://ja.wikipedia.org/wiki/_\(THE_HIGH-LOWS\))から翻訳されています。
+> この記事は[青春 \(THE HIGH-LOWSの曲\)](https://ja.wikipedia.org/wiki/青春_\(THE_HIGH-LOWSの曲\))から翻訳されています。
 
 
 「**青春**」（せいしゅん）は[THE HIGH-LOWSの](../Page/THE_HIGH-LOWS.md "wikilink")14枚目のシングル。[2000年](../Page/2000年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[キティから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

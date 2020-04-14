@@ -30,6 +30,14 @@
 
 2010年7月30日、FUJI ROCK FESTIVALに出演。
 
+2015年12月25日、“SxOxBxSxJxM”ライブ(w/ [SxOxB](https://ja.wikipedia.org/wiki/SxOxB "wikilink")、WRENCH)をLiquid Roomで行う。
+
+2019年6月19日、未発表テイク4曲を含む3枚組「SUPER JUNKY MONKEY is the BEST」、DVD「SUPER JUNKY MONKEY Christmas Live 2015 at LIQUIDROOM」発売。
+
+2019年6月22・23日、高橋睦の死から20年のメモリアルに、“Super Mother Of Meatloaf 2019”ライブを下北沢Club251で行う。
+
+2020年2月20日、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて 「SUPER JUNKY MONKEY 25th ANNIVERSARY SPECIAL」放送。
+
 ## ディスコグラフィー
 
 ### アルバム
@@ -106,6 +114,8 @@
 
 "SUPER JUNKY MONKEY LIVE - WE'RE THE MOTHER of MEATLOAF\! HYPER COLLECTION"（2010年6月23日）
 
+"SUPER JUNKY MONKEY Christmas Live 2015 at LIQUIDROOM"（2019年6月19日）
+
 ## 外部リンク
 
   - [公式ウェブサイト](https://www.facebook.com/superjunkymonkey/)
@@ -115,6 +125,6 @@
 
   - [所属事務所の公式ウェブサイト](https://www.facebook.com/9totheUniverse/)
 
-  - [ソニーミュージックによる公式ページ](http://www.sonymusic.co.jp/Music/Arch/SR/SuperJunkyMonkey/)
+  - [ソニーミュージックによる公式ページ](https://www.sonymusic.co.jp/artist/SuperJunkyMonkey/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")

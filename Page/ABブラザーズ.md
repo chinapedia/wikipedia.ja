@@ -1,4 +1,4 @@
-> この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
+> この記事は[ABブラザーズ](https://ja.wikipedia.org/wiki/ABブラザーズ)から翻訳されています。
 
 
 **ABブラザーズ**（エービーブラザーズ）は、1980年代に活動していた[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")[コンビ](https://ja.wikipedia.org/wiki/コンビ "wikilink")。1985年結成、1992年頃にコンビ自然消滅（事実上解散）。

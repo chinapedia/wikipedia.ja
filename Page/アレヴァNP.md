@@ -1,4 +1,4 @@
-> この記事は[NP](https://ja.wikipedia.org/wiki/NP)から翻訳されています。
+> この記事は[アレヴァNP](https://ja.wikipedia.org/wiki/アレヴァNP)から翻訳されています。
 
 
 **フラマトム** (Framatome) は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[原子炉](../Page/原子炉.md "wikilink")メーカー。旧フラマトムを母体にシーメンスの原子力部門が統合され**フラマトムANP** (Framatome ANP)となり、[アレヴァ](https://ja.wikipedia.org/wiki/アレヴァ "wikilink")に買収された後は**アレヴァNP**となったが、再びフラマトムに改称された。

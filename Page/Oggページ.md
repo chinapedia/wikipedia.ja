@@ -1,4 +1,4 @@
-> この記事は[Ogg](https://ja.wikipedia.org/wiki/Ogg)から翻訳されています。
+> この記事は[Oggページ](https://ja.wikipedia.org/wiki/Oggページ)から翻訳されています。
 
 
 **Oggページ**は [Ogg](../Page/Ogg.md "wikilink") [ビットストリーム](https://ja.wikipedia.org/wiki/ビットストリーム "wikilink")に含まれるデータのサイズ可変なユニットである。

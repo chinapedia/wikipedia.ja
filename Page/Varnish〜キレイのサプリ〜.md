@@ -1,4 +1,4 @@
-> この記事は[Varnish](https://ja.wikipedia.org/wiki/Varnish)から翻訳されています。
+> この記事は[Varnish〜キレイのサプリ〜](https://ja.wikipedia.org/wiki/Varnish〜キレイのサプリ〜)から翻訳されています。
 
 
 **varnish〜キレイのサプリ〜**（ヴァーニッシュ）は、「varnish」と言う架空の男性専用の[エステティックサロン](../Page/エステティックサロン.md "wikilink")を舞台にそこに勤める従業員（[エステティシャン](https://ja.wikipedia.org/wiki/エステティシャン "wikilink")）が繰り広げるエステティックコメディーで、ドラマCDとコミックで展開されている、メディアミックス作品である。

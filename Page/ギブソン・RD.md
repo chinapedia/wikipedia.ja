@@ -1,4 +1,4 @@
-> この記事は[RD](https://ja.wikipedia.org/wiki/RD)から翻訳されています。
+> この記事は[ギブソン・RD](https://ja.wikipedia.org/wiki/ギブソン・RD)から翻訳されています。
 
 
 **ギブソン・RD**（ギブソン・アールディー）は、[ギブソンによって製作されていた](../Page/ギブソン_\(楽器メーカー\).md "wikilink")、[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。

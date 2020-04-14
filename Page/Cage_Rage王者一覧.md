@@ -1,4 +1,4 @@
-> この記事は[Cage Rage](https://ja.wikipedia.org/wiki/Cage_Rage)から翻訳されています。
+> この記事は[Cage Rage王者一覧](https://ja.wikipedia.org/wiki/Cage_Rage王者一覧)から翻訳されています。
 
 
 **Cage Rage王者一覧**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[Cage Rage](../Page/Cage_Rage.md "wikilink")」の王座変遷表である。世界王座と英国王座を認定していた\[1\]\[2\]。

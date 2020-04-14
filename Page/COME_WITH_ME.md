@@ -5,7 +5,7 @@
 
 ## 解説
 
-カップリングには、「[real Emotion](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」と、「[1000の言葉](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」の英語で歌われたものが収録されている。
+カップリングには、「[real Emotion](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」と「[1000の言葉](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」の、それぞれ英語で歌ったバージョンが収録されている。
 
 ## 収録曲
 
@@ -23,4 +23,8 @@
   - 『[feel my mind](https://ja.wikipedia.org/wiki/feel_my_mind "wikilink")』
   - 『[BEST〜first things〜](https://ja.wikipedia.org/wiki/BEST〜first_things〜 "wikilink")』
 
-[Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:h-wonderが制作した楽曲](https://ja.wikipedia.org/wiki/Category:h-wonderが制作した楽曲 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
+## 外部リンク
+
+  - [公式サイト作品紹介ページ COME WITH ME](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004151)
+
+[Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:h-wonderが制作した楽曲](https://ja.wikipedia.org/wiki/Category:h-wonderが制作した楽曲 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink") [Category:酒のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:酒のコマーシャルソング "wikilink")

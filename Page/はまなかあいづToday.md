@@ -1,4 +1,4 @@
-> この記事は[Today](https://ja.wikipedia.org/wiki/Today)から翻訳されています。
+> この記事は[はまなかあいづToday](https://ja.wikipedia.org/wiki/はまなかあいづToday)から翻訳されています。
 
 
 『**はまなかあいづToday**』（はまなかあいづトゥデイ）は、[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")より放送している[ローカルニュース番組である](../Page/ニュース.md "wikilink")。
@@ -12,7 +12,8 @@
 ## 放送日時
 
   - 平日 18:10 - 19:00（[JST](../Page/日本標準時.md "wikilink")）
-      - 祝日は休止され、18:50 - 19:00に県内ニュース・気象情報を放送\[1\]。
+      - 祝日は休止され、18:45 - 19:00に県内ニュース・気象情報を放送\[1\]。
+      - 2020年3月11日は、当日で[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")および[東京電力・福島第一原発の事故の発生から](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")9年となることに合わせた特別報道のため、18時の『[ニュース](../Page/NHKニュース_\(テレビ番組\).md "wikilink")（全国向け）』をネット返上\[2\]の上10分前拡大（18:00 - 19:00）し放送する予定。
 
 ## 出演者
 
@@ -25,21 +26,21 @@
 | 2009 |  | [片山智彦](../Page/片山智彦.md "wikilink")                      |                                                                  |
 | 2010 |  | [柏原愛里](https://ja.wikipedia.org/wiki/柏原愛里 "wikilink")   |                                                                  |
 | 2011 |  | [若月弘一郎](https://ja.wikipedia.org/wiki/若月弘一郎 "wikilink") | [丸井汐里](https://ja.wikipedia.org/wiki/丸井汐里 "wikilink")            |
-| 2012 |  | [伊藤博英](../Page/伊藤博英.md "wikilink")\[2\]\[3\]\[4\]       | [小荒井幾子](https://ja.wikipedia.org/wiki/小荒井幾子 "wikilink")\[5\]     |
+| 2012 |  | [伊藤博英](../Page/伊藤博英.md "wikilink")\[3\]\[4\]\[5\]       | [小荒井幾子](https://ja.wikipedia.org/wiki/小荒井幾子 "wikilink")\[6\]     |
 | 2013 |  | [宮澤結花](https://ja.wikipedia.org/wiki/宮澤結花 "wikilink")   | [杉本麻紀](https://ja.wikipedia.org/wiki/杉本麻紀_\(アナウンサー\) "wikilink") |
 | 2014 |  | 伊藤博英                                                    | [本田俊介](../Page/本田俊介.md "wikilink")                               |
-| 2015 |  | 吾妻謙\[6\]                                                |                                                                  |
+| 2015 |  | 吾妻謙\[7\]                                                |                                                                  |
 | 2016 |  | [荒響子](https://ja.wikipedia.org/wiki/荒響子 "wikilink")     |                                                                  |
 | 2017 |  | [岩間瞳](https://ja.wikipedia.org/wiki/岩間瞳 "wikilink")     | [平川沙英](https://ja.wikipedia.org/wiki/平川沙英 "wikilink")            |
 | 2018 |  |                                                         |                                                                  |
-| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[7\]               | 高石桃子 浅川理沙                                                        |
+| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[8\]               | 高石桃子 浅川理沙                                                        |
 |      |  |                                                         |                                                                  |
 
 　　　　　　　　　　　　　　　　　　　　
 
   - 女性キャスターは隔週交替で出演。このほかに『ふくみみ <sub>福島耳より情報</sub>』のキャスターやアナウンサーが交替で生活関連情報・中継担当などの形で出演する。
   - 丸山・今野・柏原・丸井は退局後にNHK他放送局でこの枠の番組を担当。
-  - 伊藤の福島異動は全国新年度ラインナップとともに発表されたが、当初は報道特番の担当として紹介された。この発表によって、同時に東京アナウンス室から異動すると発表された伊藤を含む3人の報道系アナウンサー\[8\]は、全員がこの枠の担当となることが決まった。また、東北の被災3県にそれぞれEA（エグゼクティブアナウンサー）\[9\]が所属することとなった。
+  - 伊藤の福島異動は全国新年度ラインナップとともに発表されたが、当初は報道特番の担当として紹介された。この発表によって、同時に東京アナウンス室から異動すると発表された伊藤を含む3人の報道系アナウンサー\[9\]は、全員がこの枠の担当となることが決まった。また、東北の被災3県にそれぞれEA（エグゼクティブアナウンサー）\[10\]が所属することとなった。
 
 ## 主なコーナー
 
@@ -98,11 +99,12 @@
 [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:NHK福島](https://ja.wikipedia.org/wiki/Category:NHK福島 "wikilink")
 
 1.  2019年現在、一部の祝日は仙台局発東北地方向けのニュース・気象情報を放送。
-2.  『[630きょうの福島](https://ja.wikipedia.org/wiki/630きょうの福島 "wikilink")』以来、約30年ぶりの登板。伊藤が担当した期間のみ、番組の締めの挨拶が**「今日も**（金曜日は**「今週も」**）**ご覧いただきまして、ありがとうございました。」**という挨拶に替わっていた（片山、若月、本田、芳賀は**「今日（今週）はこの辺で失礼します。」**という挨拶をしていた。一方吾妻は、伊藤と同じように**「今日もご覧頂きありがとうございました。」**で締めくくる事がある。）
-3.
-4.  不在時は[芳賀健太郎](../Page/芳賀健太郎.md "wikilink")・若月弘一郎（いずれも当時福島局）が担当。
-5.  年度途中より担当せず。
-6.  不在時は[今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")・本田俊介（いずれも当時福島局）・[川崎寛司](../Page/川崎寛司.md "wikilink")・[山岡裕明](https://ja.wikipedia.org/wiki/山岡裕明 "wikilink")が担当。
-7.  不在時は山岡裕明・[田中朋樹](../Page/田中朋樹.md "wikilink")・[塩澤大輔](../Page/塩澤大輔.md "wikilink")が担当。
-8.  伊藤以外では[仙台の](../Page/NHK仙台放送局.md "wikilink")[畠山智之](../Page/畠山智之.md "wikilink")、[大阪の](../Page/NHK大阪放送局.md "wikilink")[横尾泰輔](../Page/横尾泰輔.md "wikilink")が該当。
-9.  伊藤（福島局）、畠山（仙台局）、[上原康樹](../Page/上原康樹.md "wikilink")（[盛岡局](../Page/NHK盛岡放送局.md "wikilink")）の3人。
+2.  なお、本来なら本番組の前座番組は『[ニュース シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時 "wikilink")』であるが、この日同番組は[大相撲春場所](https://ja.wikipedia.org/wiki/大相撲春場所 "wikilink")中継のため休止となっている。
+3.  『[630きょうの福島](https://ja.wikipedia.org/wiki/630きょうの福島 "wikilink")』以来、約30年ぶりの登板。伊藤が担当した期間のみ、番組の締めの挨拶が**「今日も**（金曜日は**「今週も」**）**ご覧いただきまして、ありがとうございました。」**という挨拶に替わっていた（片山、若月、本田、芳賀は**「今日（今週）はこの辺で失礼します。」**という挨拶をしていた。一方吾妻は、伊藤と同じように**「今日もご覧頂きありがとうございました。」**で締めくくる事がある。）
+4.
+5.  不在時は[芳賀健太郎](../Page/芳賀健太郎.md "wikilink")・若月弘一郎（いずれも当時福島局）が担当。
+6.  年度途中より担当せず。
+7.  不在時は[今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")・本田俊介（いずれも当時福島局）・[川崎寛司](../Page/川崎寛司.md "wikilink")・[山岡裕明](https://ja.wikipedia.org/wiki/山岡裕明 "wikilink")が担当。
+8.  不在時は山岡裕明・[田中朋樹](../Page/田中朋樹.md "wikilink")・[塩澤大輔](../Page/塩澤大輔.md "wikilink")が担当。
+9.  伊藤以外では[仙台の](../Page/NHK仙台放送局.md "wikilink")[畠山智之](../Page/畠山智之.md "wikilink")、[大阪の](../Page/NHK大阪放送局.md "wikilink")[横尾泰輔](../Page/横尾泰輔.md "wikilink")が該当。
+10. 伊藤（福島局）、畠山（仙台局）、[上原康樹](../Page/上原康樹.md "wikilink")（[盛岡局](../Page/NHK盛岡放送局.md "wikilink")）の3人。

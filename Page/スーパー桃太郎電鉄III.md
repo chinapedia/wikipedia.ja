@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[スーパー桃太郎電鉄III](https://ja.wikipedia.org/wiki/スーパー桃太郎電鉄III)から翻訳されています。
 
 
 **スーパー桃太郎電鉄III**（スーパーももたろうでんてつスリー）は、[ハドソン](../Page/ハドソン.md "wikilink")が発売したボードゲーム。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")の第4作である。 __TOC__

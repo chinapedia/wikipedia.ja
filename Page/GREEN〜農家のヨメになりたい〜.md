@@ -1,4 +1,4 @@
-> この記事は[GREEN](https://ja.wikipedia.org/wiki/GREEN)から翻訳されています。
+> この記事は[GREEN〜農家のヨメになりたい〜](https://ja.wikipedia.org/wiki/GREEN〜農家のヨメになりたい〜)から翻訳されています。
 
 
 『**GREEN〜農家のヨメになりたい〜**』（グリーン のうかのヨメになりたい）は、[二ノ宮知子](../Page/二ノ宮知子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2001年](../Page/2001年.md "wikilink")まで『[Kiss Carnival](../Page/Kiss_\(雑誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で連載された。

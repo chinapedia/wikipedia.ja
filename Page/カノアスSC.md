@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[カノアスSC](https://ja.wikipedia.org/wiki/カノアスSC)から翻訳されています。
 
 
 **カノアスSC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")[カノアス](https://ja.wikipedia.org/wiki/カノアス "wikilink")にある総合[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[バレーボール](../Page/バレーボール.md "wikilink")、[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")、[柔道](../Page/柔道.md "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")、[テニス](../Page/テニス.md "wikilink")、[陸上競技](../Page/陸上競技.md "wikilink")、[トランポリン](../Page/トランポリン.md "wikilink")部門がある\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[ELLE \(\)](https://ja.wikipedia.org/wiki/ELLE_\(\))から翻訳されています。
+> この記事は[ELLE \(アダルトゲーム\)](https://ja.wikipedia.org/wiki/ELLE_\(アダルトゲーム\))から翻訳されています。
 
 
 『**ELLE**』（エル）は、[1991年](../Page/1991年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に[エルフより発売された](../Page/エルフ_\(ブランド\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。なお、本項では[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に発売された[リメイク](../Page/リメイク.md "wikilink")作『**〔él〕**』、及びそれを原作として[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[グリーンバニー](../Page/グリーンバニー.md "wikilink")より発売された同名の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")についても記述する。

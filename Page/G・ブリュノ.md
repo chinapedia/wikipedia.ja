@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G・ブリュノ](https://ja.wikipedia.org/wiki/G・ブリュノ)から翻訳されています。
 
 
 **G・ブリュノ**（G. Bruno）、本名**オーギュスティヌ・テュイルリ**（Augustine Tuillerie、[1833年](../Page/1833年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - [1923年](../Page/1923年.md "wikilink")）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の女性小説家。なお、オーギュスティヌ・テュイルリは結婚前の姓名であり、結婚してギュイヨー（Guyau）夫人、後に再婚してフイエ（Fouillée）夫人となった。G・ブリュノは執筆時のペンネームで、[イタリア](../Page/イタリア.md "wikilink")出身の哲学者[ジョルダーノ・ブルーノ](../Page/ジョルダーノ・ブルーノ.md "wikilink")へのオマージュである。

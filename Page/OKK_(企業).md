@@ -1,4 +1,4 @@
-> この記事は[OKK \(\)](https://ja.wikipedia.org/wiki/OKK_\(\))から翻訳されています。
+> この記事は[OKK \(企業\)](https://ja.wikipedia.org/wiki/OKK_\(企業\))から翻訳されています。
 
 
 **OKK株式会社**（オーケーケー、*OKK CORPORATION*）は、[兵庫県](../Page/兵庫県.md "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")に本社を置く[マシニングセンタ](../Page/マシニングセンタ.md "wikilink")などの老舗[工作機械](../Page/工作機械.md "wikilink")メーカーである。

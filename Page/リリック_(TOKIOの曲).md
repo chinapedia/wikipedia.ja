@@ -1,4 +1,4 @@
-> この記事は[ \(TOKIO\)](https://ja.wikipedia.org/wiki/_\(TOKIO\))から翻訳されています。
+> この記事は[リリック \(TOKIOの曲\)](https://ja.wikipedia.org/wiki/リリック_\(TOKIOの曲\))から翻訳されています。
 
 
 「**リリック**」は、[TOKIO](../Page/TOKIO.md "wikilink")の46枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。

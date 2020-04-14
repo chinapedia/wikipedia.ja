@@ -1,4 +1,4 @@
-> この記事は[MIM-72 \(\)](https://ja.wikipedia.org/wiki/MIM-72_\(\))から翻訳されています。
+> この記事は[MIM-72 \(ミサイル\)](https://ja.wikipedia.org/wiki/MIM-72_\(ミサイル\))から翻訳されています。
 
 
 **MIM-72**（M48）**チャパラル**（）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")が運用していた[短距離防空ミサイル](https://ja.wikipedia.org/wiki/地対空ミサイル#短距離防空ミサイル "wikilink")・システム。MIM-72は[ミサイル](../Page/ミサイル.md "wikilink")本体の型式名であり、ミサイルシステム全体の型式名はM48である。
@@ -17,7 +17,7 @@
 
 ## 設計
 
-[thumbに搭載されたM](https://ja.wikipedia.org/wiki/ファイル:MIM-72_Chaparral_01.jpg "wikilink")54から発射されるMIM-72\]\] **MIM-72A** [ミサイル](../Page/ミサイル.md "wikilink")は、[AIM-9D サイドワインダーを基にしていた](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\)#アメリカ海軍_\(-9C/D/G/H\) "wikilink")。主な違いは空気抵抗を減らすために、MIM-72Aの尾翼のうちの2枚だけにローレロン（rolleron：スリップ気流駆動フライホイール）を持つということである。他の2枚は非可動の薄い尾翼と取り替えられた。MIM-72のMK 50固形燃料ロケット・モーターは、AIM-9D サイドワインダーで使われるMK 36 Mod 5と基本的に同様のものであった。
+[thumbに搭載されたM](https://ja.wikipedia.org/wiki/ファイル:MIM-72_Chaparral_01.jpg "wikilink")54から発射されるMIM-72\]\] **MIM-72A** [ミサイル](../Page/ミサイル.md "wikilink")は、[AIM-9D サイドワインダーを基にしていた](https://ja.wikipedia.org/wiki/サイドワインダー_\(ミサイル\)#アメリカ海軍_\(-9C/D/G/H\) "wikilink")。主な違いは空気抵抗を減らすために、MIM-72Aの尾翼のうちの2枚だけに[ローレロン](https://ja.wikipedia.org/wiki/ローレロン "wikilink")（rolleron：スリップ気流駆動フライホイール）を持つということである。他の2枚は非可動の薄い尾翼と取り替えられた。MIM-72のMK 50固形燃料ロケット・モーターは、AIM-9D サイドワインダーで使われるMK 36 Mod 5と基本的に同様のものであった。
 
 MIM-72 ミサイルは、M48 発射装置（ミサイルを左右に片側2基ずつ4基保持するM54 ミサイル発射機とM730 装軌車輌からなる）から発射される。M48には渡河能力がある。
 

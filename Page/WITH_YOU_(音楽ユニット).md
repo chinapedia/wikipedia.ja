@@ -1,4 +1,4 @@
-> この記事は[WITH YOU \(\)](https://ja.wikipedia.org/wiki/WITH_YOU_\(\))から翻訳されています。
+> この記事は[WITH YOU \(音楽ユニット\)](https://ja.wikipedia.org/wiki/WITH_YOU_\(音楽ユニット\))から翻訳されています。
 
 
 **WITH YOU**（ウィズ・ユー）は、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の復興支援チャリティとして、[声優](../Page/声優.md "wikilink")の[神谷明](../Page/神谷明.md "wikilink")の呼びかけで声優・漫画家などの有志によって結成された音楽ユニット。震災のあった[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から4年間活動し、多くのチャリティイベントを行った。

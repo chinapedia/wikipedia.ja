@@ -1,4 +1,4 @@
-> この記事は[BOYS](https://ja.wikipedia.org/wiki/BOYS)から翻訳されています。
+> この記事は[BOYSエステ](https://ja.wikipedia.org/wiki/BOYSエステ)から翻訳されています。
 
 
 『**BOYSエステ**』（ボーイズエステ）は、2004年から[講談社](../Page/講談社.md "wikilink")の女性漫画雑誌[デザート](../Page/デザート.md "wikilink")に連載された[真崎総子](https://ja.wikipedia.org/wiki/真崎総子 "wikilink")の漫画作品。コミック単行本全7巻。

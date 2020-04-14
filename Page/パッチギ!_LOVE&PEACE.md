@@ -1,4 +1,4 @@
-> この記事は[! LOVE\&PEACE](https://ja.wikipedia.org/wiki/!_LOVE\&PEACE)から翻訳されています。
+> この記事は[パッチギ! LOVE\&PEACE](https://ja.wikipedia.org/wiki/パッチギ!_LOVE\&PEACE)から翻訳されています。
 
 
 『**パッチギ\! LOVE\&PEACE**』（ ラブアンドピース）は、[2007年](../Page/2007年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。

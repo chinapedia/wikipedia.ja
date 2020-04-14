@@ -1,4 +1,4 @@
-> この記事は[Pieces \(\)](https://ja.wikipedia.org/wiki/Pieces_\(\))から翻訳されています。
+> この記事は[Pieces \(アルバム\)](https://ja.wikipedia.org/wiki/Pieces_\(アルバム\))から翻訳されています。
 
 
 『**pieces**』（ピーシーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[小池徹平](../Page/小池徹平.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")に[A\&M RECORDSから発売した](../Page/A&Mレコード.md "wikilink")1枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

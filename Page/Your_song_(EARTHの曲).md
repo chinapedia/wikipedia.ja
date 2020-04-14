@@ -1,4 +1,4 @@
-> この記事は[Your song \(EARTH\)](https://ja.wikipedia.org/wiki/Your_song_\(EARTH\))から翻訳されています。
+> この記事は[Your song \(EARTHの曲\)](https://ja.wikipedia.org/wiki/Your_song_\(EARTHの曲\))から翻訳されています。
 
 
 「**Your song**」（ユア・ソング）は、日本の歌手グループ、[EARTHの](../Page/EARTH_\(歌手グループ\).md "wikilink")3枚目のシングル。[2000年](../Page/2000年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。

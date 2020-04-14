@@ -1,4 +1,4 @@
-> この記事は[WILD CATS \(\)](https://ja.wikipedia.org/wiki/WILD_CATS_\(\))から翻訳されています。
+> この記事は[WILD CATS \(漫画\)](https://ja.wikipedia.org/wiki/WILD_CATS_\(漫画\))から翻訳されています。
 
 
 『**WILD CATS**』（ワイルド キャッツ）は、[清水玲子](../Page/清水玲子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[白泉社](../Page/白泉社.md "wikilink")の『[LaLa](../Page/LaLa.md "wikilink")』にて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月号に初掲載された。その後、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")9月号、[2000年](../Page/2000年.md "wikilink")2月号に掲載され、全3話で完結した。

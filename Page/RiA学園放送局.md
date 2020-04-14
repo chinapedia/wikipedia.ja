@@ -1,4 +1,4 @@
-> この記事は[RiA](https://ja.wikipedia.org/wiki/RiA)から翻訳されています。
+> この記事は[RiA学園放送局](https://ja.wikipedia.org/wiki/RiA学園放送局)から翻訳されています。
 
 
 『**RiA学園放送局**』（リアがくせんほうそうきょく）は、[RiA学園](https://ja.wikipedia.org/wiki/RiA学園 "wikilink")の公式サイトで配信中のインターネットラジオ番組である。

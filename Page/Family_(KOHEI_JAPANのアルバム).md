@@ -1,4 +1,4 @@
-> この記事は[Family \(KOHEI JAPAN\)](https://ja.wikipedia.org/wiki/Family_\(KOHEI_JAPAN\))から翻訳されています。
+> この記事は[Family \(KOHEI JAPANのアルバム\)](https://ja.wikipedia.org/wiki/Family_\(KOHEI_JAPANのアルバム\))から翻訳されています。
 
 
 『**Family**』（ファミリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループである[MELLOW YELLOWの](../Page/MELLOW_YELLOW.md "wikilink")[MCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[KOHEI JAPANの](../Page/KOHEI_JAPAN.md "wikilink")3枚目のソロ[アルバム](../Page/アルバム.md "wikilink")である。メジャー進出第1弾と銘打っている。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

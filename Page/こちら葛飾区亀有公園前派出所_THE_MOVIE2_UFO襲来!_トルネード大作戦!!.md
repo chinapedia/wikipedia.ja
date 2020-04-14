@@ -1,7 +1,9 @@
-> この記事は[ THE MOVIE2 UFO! !!](https://ja.wikipedia.org/wiki/_THE_MOVIE2_UFO!_!!)から翻訳されています。
+> この記事は[こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来! トルネード大作戦!!](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_THE_MOVIE2_UFO襲来!_トルネード大作戦!!)から翻訳されています。
 
 
-『**こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来\! トルネード大作戦\!\!**』（こちらかつしかくかめありこうえんまえはしゅつじょ ザ ムービー2 ユーフォーしゅうらい\! トルネードだいさくせん\!\!）は[2003年](../Page/2003年.md "wikilink")12月20日に公開された『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の[アニメーション映画](../Page/アニメーション映画.md "wikilink")第2作である。エンディング曲は[SEX MACHINEGUN](../Page/SEX_MACHINEGUNS.md "wikilink")「語れ\! 涙\!」。
+『**こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来\! トルネード大作戦\!\!**』（こちらかつしかくかめありこうえんまえはしゅつじょ ザ ムービー2 ユーフォーしゅうらい\! トルネードだいさくせん\!\!）は[2003年](../Page/2003年.md "wikilink")12月20日に公開された『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の[アニメーション映画](../Page/アニメーション映画.md "wikilink")第2作である。
+
+エンディング曲は\[\[SEXMACHINEGUNS|SEX MACHINEGUN\]「語れ\! 涙\!」。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月19日](../Page/8月19日.md "wikilink")（金曜日）2:00 - 4:07（[JST](../Page/日本標準時.md "wikilink")）には、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列でテレビ初放送された](../Page/フジネットワーク.md "wikilink")。
 

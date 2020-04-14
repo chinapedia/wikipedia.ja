@@ -78,7 +78,7 @@
 4.  Sweets Magic（2009年[10月14日](../Page/10月14日.md "wikilink")）
       - [ローソン](../Page/ローソン.md "wikilink")『Uchi Cafe SWEETS』キャンペーンソング
 5.  風のかおり（2011年[4月27日](../Page/4月27日.md "wikilink")）
-      - [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")『[百年名家](https://ja.wikipedia.org/wiki/百年名家 "wikilink")～築100年の家を訪ねる旅～』エンディング・テーマ
+      - [BS朝日](../Page/ビーエス朝日.md "wikilink")『[百年名家](https://ja.wikipedia.org/wiki/百年名家 "wikilink")～築100年の家を訪ねる旅～』エンディング・テーマ
 
 ### 参加作品
 

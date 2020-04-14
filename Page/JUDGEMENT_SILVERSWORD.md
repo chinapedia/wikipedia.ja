@@ -44,7 +44,8 @@
 ## 外部リンク
 
   - [JUDGEMENT SILVERSWORD -Rebirth Edition-（ジャッジメント・シルバーソード リバースエディション）製品情報](http://wwgp.qute.co.jp/products/jss_rebirth/)
-  - [JUDGEMENT SILVERSWORD -Rebirth Edition- / CARDINAL SINS](http://members2.jcom.home.ne.jp/jss2/)
-  - [－ M-KAI's Shell －](http://www.geocities.co.jp/SiliconValley-Bay/8572/)
 
+  - [JUDGEMENT SILVERSWORD -Rebirth Edition- / CARDINAL SINS](http://members2.jcom.home.ne.jp/jss2/)
+
+  -
 [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:フリーゲーム](https://ja.wikipedia.org/wiki/Category:フリーゲーム "wikilink")

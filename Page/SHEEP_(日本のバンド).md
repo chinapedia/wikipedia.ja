@@ -1,4 +1,4 @@
-> この記事は[SHEEP \(\)](https://ja.wikipedia.org/wiki/SHEEP_\(\))から翻訳されています。
+> この記事は[SHEEP \(日本のバンド\)](https://ja.wikipedia.org/wiki/SHEEP_\(日本のバンド\))から翻訳されています。
 
 
 **SHEEP**（シープ）は[1996年](../Page/1996年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。結成以降何度もバンド名を変え、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に『SHEEP』に落ち着く。2000年12月に解散。メンバーの一人である鈴木羊は、解散後もソロ活動などで作品を発表している。

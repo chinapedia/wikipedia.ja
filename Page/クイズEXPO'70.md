@@ -1,4 +1,4 @@
-> この記事は[EXPO\'70](https://ja.wikipedia.org/wiki/EXPO\'70)から翻訳されています。
+> この記事は[クイズEXPO\'70](https://ja.wikipedia.org/wiki/クイズEXPO\'70)から翻訳されています。
 
 
 『**クイズEXPO'70**』（クイズエキスポななじゅう）は、1969年10月3日から1970年3月まで[日本テレビ系列局で放送されていた](../Page/日本テレビ放送網.md "wikilink")[読売テレビ製作の](../Page/讀賣テレビ放送.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[久光製薬](../Page/久光製薬.md "wikilink")（[サロンパス](https://ja.wikipedia.org/wiki/サロンパス "wikilink")名義）の一社提供。放送時間は毎週金曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

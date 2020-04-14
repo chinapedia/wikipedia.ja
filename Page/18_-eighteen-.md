@@ -53,6 +53,6 @@ SECL-216, ¥3,059
 
 ## 外部リンク
 
-  - [18 -eighteen-](http://www.sonymusic.co.jp/Music/Arch/SMER/NanaKitade/SECL-216/index.html)
+  - [18 -eighteen-](https://www.sonymusic.co.jp/artist/NanaKitade/discography/SECL-216)
 
 [Category:エスエムイーレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:北出菜奈のアルバム](https://ja.wikipedia.org/wiki/Category:北出菜奈のアルバム "wikilink")

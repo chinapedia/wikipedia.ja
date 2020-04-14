@@ -1,4 +1,4 @@
-> この記事は[EZ Today\'S](https://ja.wikipedia.org/wiki/EZ_Today\'S)から翻訳されています。
+> この記事は[EZ Today\'Sウォッチ](https://ja.wikipedia.org/wiki/EZ_Today\'Sウォッチ)から翻訳されています。
 
 
 **EZ Today'Sウォッチ**とは、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")と[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[携帯電話](../Page/携帯電話.md "wikilink")のサービスである[EZチャンネル](../Page/EZチャンネル.md "wikilink")、[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")で配信されていた無料番組。[2007年](../Page/2007年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")をもってリニューアルという形で事実上の番組終了。新たに、電子書籍を紹介する番組『[au one](https://ja.wikipedia.org/wiki/au_one "wikilink") ブック チャンネル』としてスタートされた。

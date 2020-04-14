@@ -454,15 +454,15 @@ TKCA-73442:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                             |                                                                                                                                                          |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                      | **曲名**                                                                                                                                                   |
-| [菊池元淑](https://ja.wikipedia.org/wiki/菊池元淑 "wikilink")       | 「[Love Smile](https://www.youtube.com/watch?v=drgCJFaNzJk)」                                                                                              |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")       | 「[Starlight](https://www.youtube.com/watch?v=rI4ala4ngAA)」                                                                                               |
-| [野田竜司](https://ja.wikipedia.org/wiki/野田竜司 "wikilink")       | 「[By your side](http://www.indiesmusic.com/musicvideo/video.asp?id=10200)」「[Kiss Me, Darling](http://www.indiesmusic.com/musicvideo/video.asp?id=10345)」 |
-| [みやざきなおや](https://ja.wikipedia.org/wiki/みやざきなおや "wikilink") | 「[More Than Now](https://www.youtube.com/watch?v=Nw2b7MV9EXE)」                                                                                           |
-| 不明                                                          | 「WAIT FOR YOU」「WHAT YOU WANT」                                                                                                                            |
-|                                                             |                                                                                                                                                          |
+|                                                             |                                                                                                                                                            |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                      | **曲名**                                                                                                                                                     |
+| [菊池元淑](https://ja.wikipedia.org/wiki/菊池元淑 "wikilink")       | 「[Love Smile](https://www.youtube.com/watch?v=drgCJFaNzJk)」                                                                                                |
+| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")       | 「[Starlight](https://www.youtube.com/watch?v=rI4ala4ngAA)」                                                                                                 |
+| [野田竜司](https://ja.wikipedia.org/wiki/野田竜司 "wikilink")       | 「[By your side](https://www.indiesmusic.com/musicvideo/video.asp?id=10200)」「[Kiss Me, Darling](https://www.indiesmusic.com/musicvideo/video.asp?id=10345)」 |
+| [みやざきなおや](https://ja.wikipedia.org/wiki/みやざきなおや "wikilink") | 「[More Than Now](https://www.youtube.com/watch?v=Nw2b7MV9EXE)」                                                                                             |
+| 不明                                                          | 「WAIT FOR YOU」「WHAT YOU WANT」                                                                                                                              |
+|                                                             |                                                                                                                                                            |
 
 ## タイアップ
 

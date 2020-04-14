@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[トンコツTV](https://ja.wikipedia.org/wiki/トンコツTV)から翻訳されています。
 
 
 『**トンコツTV**』（トンコツテレビ）は、[九州](../Page/九州.md "wikilink")・[沖縄地域の](../Page/沖縄県.md "wikilink")[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で[2007年](../Page/2007年.md "wikilink")から4年度に跨って放送された[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[NHK福岡放送局](../Page/NHK福岡放送局.md "wikilink")・[NHK九州メディス→NHKプラネット九州支社制作](https://ja.wikipedia.org/wiki/NHKプラネット "wikilink")。

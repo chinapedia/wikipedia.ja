@@ -1,4 +1,4 @@
-> この記事は[Chercher ](https://ja.wikipedia.org/wiki/Chercher_)から翻訳されています。
+> この記事は[Chercher 〜シャルシェ〜](https://ja.wikipedia.org/wiki/Chercher_〜シャルシェ〜)から翻訳されています。
 
 
 『**Chercher 〜シャルシェ〜**』（シャルシェ-）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の6作目のシングル。[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。

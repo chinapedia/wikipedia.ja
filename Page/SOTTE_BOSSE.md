@@ -246,7 +246,7 @@ UPCI-1092:通常盤</p></td>
 <ol>
 <li>Intro MEGA MIX</li>
 <li>ハナミズキ</li>
-<li>未来予想図</li>
+<li>未来予想図II</li>
 <li>遠く遠く</li>
 <li>やさしさに包まれたなら</li>
 <li>どんなときも</li>

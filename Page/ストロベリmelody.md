@@ -1,4 +1,4 @@
-> この記事は[melody](https://ja.wikipedia.org/wiki/melody)から翻訳されています。
+> この記事は[ストロベリmelody](https://ja.wikipedia.org/wiki/ストロベリmelody)から翻訳されています。
 
 
 『**ストロベリmelody**』（ストロベリメロディ）は、[2007年](../Page/2007年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")にリリースされた[中川翔子](../Page/中川翔子.md "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。

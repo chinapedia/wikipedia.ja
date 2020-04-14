@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[いわき古河FC](https://ja.wikipedia.org/wiki/いわき古河FC)から翻訳されています。
 
 
 **いわき古河F.C**（いわきふるかわえふしー）は[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チームである。
@@ -40,7 +40,7 @@
 | [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 10位                                                                                   | 6      | 18 | 2  | 0  | 16 | 20 | 84 | \-64 |      |
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 東北2部南                                                                                 | **優勝** | 42 | 18 | 13 | 3  | 2  | 63 | 23   | 40   |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                                                                  | 10位    | 0  | 18 | 0  | 0  | 18 | 14 | 73   | \-59 |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 東北2部南                                                                                 |        |    | 18 |    |    |    |    |      |      |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 東北2部南                                                                                 | 9位     | 13 | 18 | 4  | 1  | 13 | 23 | 57   | \-34 |
 
 ## 所属選手・スタッフ
 

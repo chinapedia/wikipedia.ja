@@ -1,4 +1,4 @@
-> この記事は[PFLP](https://ja.wikipedia.org/wiki/PFLP)から翻訳されています。
+> この記事は[PFLP旅客機同時ハイジャック事件](https://ja.wikipedia.org/wiki/PFLP旅客機同時ハイジャック事件)から翻訳されています。
 
 
 **PFLP旅客機同時ハイジャック事件**（PFLPりょかくきどうじハイジャックじけん）は、[パレスチナ解放機構](../Page/パレスチナ解放機構.md "wikilink")（PLO）の下部組織である[パレスチナ解放人民戦線](../Page/パレスチナ解放人民戦線.md "wikilink")（PFLP）が[1970年](../Page/1970年.md "wikilink")9月に起こした5機の[旅客機](../Page/旅客機.md "wikilink")に対する同時[ハイジャック](../Page/ハイジャック.md "wikilink")事件である｡

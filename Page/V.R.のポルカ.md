@@ -1,4 +1,4 @@
-> この記事は[V.R.](https://ja.wikipedia.org/wiki/V.R.)から翻訳されています。
+> この記事は[V.R.のポルカ](https://ja.wikipedia.org/wiki/V.R.のポルカ)から翻訳されています。
 
 
 **V.R.のポルカ**（[仏語](https://ja.wikipedia.org/wiki/仏語 "wikilink")：***Polka de V.R.***）は[セルゲイ・ラフマニノフ](../Page/セルゲイ・ラフマニノフ.md "wikilink")の[ピアノ曲](../Page/ピアノ曲.md "wikilink")。[クセヴィツキーが経営していた楽譜出版社](https://ja.wikipedia.org/wiki/セルゲイ・クセヴィツキー "wikilink")（仏語：Edition Russe de Musique）の[1911年](../Page/1911年.md "wikilink")のピアノ曲集“Nouvelle Collection de Musique”において、[カトワールや](../Page/ゲオルギー・カトゥアール.md "wikilink")[ゲディケ](../Page/アレクサンドル・ゲディケ.md "wikilink")、[スクリャービン](../Page/アレクサンドル・スクリャービン.md "wikilink")、[メトネル](../Page/ニコライ・メトネル.md "wikilink")、[セルゲイ・タネーエフ](../Page/セルゲイ・タネーエフ.md "wikilink")の作品と一緒に発表された。現在は[ブージー&ホークス社より刊行されている](https://ja.wikipedia.org/wiki/ブージー・アンド・ホークス "wikilink")。初版では *Polka de **W.R.*** と題されており、ブージー&ホークス社の現行版もこれを踏襲している。題名にあるV.R.（もしくはW.R.）とは、ラフマニノフの父ワシーリー（・アルカディエヴィチ）・ラフマニノフの名の頭文字にほかならない。「[レオポルド・ゴドフスキー](../Page/レオポルド・ゴドフスキー.md "wikilink")氏に（A Monsieur Lopold Godowsky）」献呈されている。

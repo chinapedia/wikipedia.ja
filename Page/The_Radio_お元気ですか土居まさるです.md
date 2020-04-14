@@ -1,4 +1,4 @@
-> この記事は[The Radio ](https://ja.wikipedia.org/wiki/The_Radio_)から翻訳されています。
+> この記事は[The Radio お元気ですか土居まさるです](https://ja.wikipedia.org/wiki/The_Radio_お元気ですか土居まさるです)から翻訳されています。
 
 
 **The Radio お元気ですか土居まさるです**（ザ レディオ おげんきですかどい - ）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")の[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の8:00～11:00の時間帯で放送されていた朝の情報[ワイド番組](../Page/ワイド番組.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")までの放送だった。

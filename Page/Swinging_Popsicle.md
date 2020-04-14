@@ -582,7 +582,7 @@
 |                                                               |                                                                                             |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | **監督**                                                        | **曲名**                                                                                      |
-| [MEISEI'S](https://ja.wikipedia.org/wiki/MEISEI'S "wikilink") | 「[I just wanna kiss you](http://www.indiesmusic.com/musicvideo/video.asp?id=10030)」         |
+| [MEISEI'S](https://ja.wikipedia.org/wiki/MEISEI'S "wikilink") | 「[I just wanna kiss you](https://www.indiesmusic.com/musicvideo/video.asp?id=10030)」        |
 | 不明                                                            | 「HEAVEN」「I Love Your Smile」「JOY OF LIVING」「PARADE」「Wonder in their dreams」「remember」「サテツの塔」 |
 |                                                               |                                                                                             |
 

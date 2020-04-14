@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[東京Qチャンネル](https://ja.wikipedia.org/wiki/東京Qチャンネル)から翻訳されています。
 
 
 **東京Qチャンネル**（とうきょうキュウチャンネル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")。

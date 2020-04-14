@@ -1,9 +1,9 @@
-> この記事は[H.I.T. --](https://ja.wikipedia.org/wiki/H.I.T._--)から翻訳されています。
+> この記事は[H.I.T. -女性特別捜査官-](https://ja.wikipedia.org/wiki/H.I.T._-女性特別捜査官-)から翻訳されています。
 
 
 『**ヒット**』（*H.I.T*: *H*omicide *I*nvestigation *T*eam、）は、[2007年](../Page/2007年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")から同年[5月22日](../Page/5月22日.md "wikilink")まで韓国[MBCで放送された](../Page/文化放送_\(韓国\).md "wikilink")、キム・ジョンハクプロダクション（[:ko:김종학 프로덕션](https://ja.wikipedia.org/wiki/:ko:김종학_프로덕션 "wikilink")）演出の**犯罪捜査ドラマ**である（タイトルの意味は「強力犯罪捜査隊」）。
 
-日本では、[サンテレビや](../Page/サンテレビジョン.md "wikilink")[BS朝日などで放送された](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")。
+日本では、[サンテレビや](../Page/サンテレビジョン.md "wikilink")[BS朝日などで放送された](../Page/ビーエス朝日.md "wikilink")。
 
 ## 概要
 

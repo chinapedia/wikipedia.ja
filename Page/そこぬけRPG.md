@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[そこぬけRPG](https://ja.wikipedia.org/wiki/そこぬけRPG)から翻訳されています。
 
 
 『**そこぬけRPG**』（そこぬけアールピージー）は、[佐藤両々](../Page/佐藤両々.md "wikilink")によるゲーム会社を舞台にした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。『[まんがタイムオリジナル](../Page/まんがタイムオリジナル.md "wikilink")』（[芳文社](../Page/芳文社.md "wikilink")）2005年10月号から2012年10月号まで、平行して『[まんがタイム](../Page/まんがタイム.md "wikilink")』（同）にも2008年1月号から2009年1月号まで連載された。
@@ -164,7 +164,7 @@
 
   - [そこぬけＲＰＧ｜漫画の殿堂・芳文社](http://houbunsha.co.jp/comics/detail.php?p=%A4%BD%A4%B3%A4%CC%A4%B1%A3%D2%A3%D0%A3%C7) - 芳文社の作品紹介ページ
 
-[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:まんがタイム](https://ja.wikipedia.org/wiki/Category:まんがタイム "wikilink") [Category:複数誌並行連載の漫画作品](https://ja.wikipedia.org/wiki/Category:複数誌並行連載の漫画作品 "wikilink")
+[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:まんがタイムの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムの4コマ漫画作品 "wikilink") [Category:複数誌並行連載の漫画作品](https://ja.wikipedia.org/wiki/Category:複数誌並行連載の漫画作品 "wikilink")
 
 1.  ディレクターは小鳥遊。
 2.  後に描かれた同作者の『ちまりエンプティ』という作品の主人公と同姓名。

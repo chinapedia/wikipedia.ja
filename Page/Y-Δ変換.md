@@ -1,4 +1,4 @@
-> この記事は[Y-](https://ja.wikipedia.org/wiki/Y-)から翻訳されています。
+> この記事は[Y-Δ変換](https://ja.wikipedia.org/wiki/Y-Δ変換)から翻訳されています。
 
 
 [Delta-Star_Transformation.svg](https://ja.wikipedia.org/wiki/File:Delta-Star_Transformation.svg "fig:Delta-Star_Transformation.svg") **Y-Δ変換**（ワイ-デルタへんかん、*Y-Δ transform*)、**スターデルタ変換**(*star-delta transform*)、**T-Π変換**(ティ-パイへんかん、*T-Π transform*)とは、Y字型に接続したY接続（Y diagram）[回路](https://ja.wikipedia.org/wiki/回路 "wikilink")と、三角形に接続したΔ接続（Δ diagram）回路が、[等価](https://ja.wikipedia.org/wiki/等価 "wikilink")の回路になるように変換する手法である。回路の形状が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")のY・Tや[ギリシア文字](../Page/ギリシア文字.md "wikilink")のΔに見えることからこの名前がつけられた。なお、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")ではY接続回路をスター接続(star diagram)回路と呼ぶ。

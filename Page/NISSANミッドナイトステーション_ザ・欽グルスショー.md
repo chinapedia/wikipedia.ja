@@ -1,4 +1,4 @@
-> この記事は[NISSAN ](https://ja.wikipedia.org/wiki/NISSAN_)から翻訳されています。
+> この記事は[NISSANミッドナイトステーション ザ・欽グルスショー](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション_ザ・欽グルスショー)から翻訳されています。
 
 
 『**[NISSANミッドナイトステーション](../Page/NISSANミッドナイトステーション.md "wikilink") ザ・欽グルスショー**』（にっさんミッドナイトステーション ザ・きんグルスショー、英字表記：*NISSAN Midnight Station The Kingles Show*\[1\]）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で月曜日から金曜日（[1984年](../Page/1984年.md "wikilink")4月から1985年3月まで月曜日から土曜日）の、24:00から25:00まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

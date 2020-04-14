@@ -1,4 +1,4 @@
-> この記事は[ WEEKEND SPECIAL](https://ja.wikipedia.org/wiki/_WEEKEND_SPECIAL)から翻訳されています。
+> この記事は[若狭敬一のドラゴンズワールド WEEKEND SPECIAL](https://ja.wikipedia.org/wiki/若狭敬一のドラゴンズワールド_WEEKEND_SPECIAL)から翻訳されています。
 
 
 '''若狭敬一のドラゴンズワールド '''（わかさけいいちのどらごんずわーるど）とは、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で毎週金曜日に放送されているドラゴンズ応援番組。
@@ -67,4 +67,4 @@
   - [久野誠のドラゴンズワールド](../Page/久野誠のドラゴンズワールド.md "wikilink")
   - [CBCドラゴンズナイター](../Page/CBCドラゴンズナイター.md "wikilink")
 
-[Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

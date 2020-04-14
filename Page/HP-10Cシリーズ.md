@@ -1,4 +1,4 @@
-> この記事は[HP-10C](https://ja.wikipedia.org/wiki/HP-10C)から翻訳されています。
+> この記事は[HP-10Cシリーズ](https://ja.wikipedia.org/wiki/HP-10Cシリーズ)から翻訳されています。
 
 
 **HP-10C シリーズ**は[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")(HP)が[1981年](../Page/1981年.md "wikilink")\[1\]から製造している[電卓](../Page/電卓.md "wikilink")。"Voyager"シリーズとしても知られる。[プログラム電卓](https://ja.wikipedia.org/wiki/プログラム電卓 "wikilink")であり、[逆ポーランド記法](../Page/逆ポーランド記法.md "wikilink")が採用されている。シリーズで外装は似ているが、機能や対象となる市場はそれぞれの機種で大きく異なる。

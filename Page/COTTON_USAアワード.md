@@ -1,4 +1,4 @@
-> この記事は[COTTON USA](https://ja.wikipedia.org/wiki/COTTON_USA)から翻訳されています。
+> この記事は[COTTON USAアワード](https://ja.wikipedia.org/wiki/COTTON_USAアワード)から翻訳されています。
 
 
 **COTTON USAアワード**（コットンユーエスエーアワード）は財団法人[日本綿業振興会](https://ja.wikipedia.org/wiki/日本綿業振興会 "wikilink")が[コットン](https://ja.wikipedia.org/wiki/コットン "wikilink")のイメージにふさわしいとした著名人に贈る賞。受賞者はその授与された受賞部門に従い、**Miss COTTON USA**、**Mr.COTTON USA**、**Mrs.COTTON USA**と呼ばれる。

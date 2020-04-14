@@ -1,4 +1,4 @@
-> この記事は[PINK](https://ja.wikipedia.org/wiki/PINK)から翻訳されています。
+> この記事は[PINKちゃんねるの板の一覧](https://ja.wikipedia.org/wiki/PINKちゃんねるの板の一覧)から翻訳されています。
 
 
 **PINKちゃんねるの板の一覧**（ピンクちゃんねるのいたのいちらん）とは、大手電子掲示板群[PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")内にある板をカテゴリ別に並べた一覧である。 カテゴリは[PINKちゃんねるの掲示板メニュー](http://www.bbspink.com/pinkmenu.html)に準ずる。

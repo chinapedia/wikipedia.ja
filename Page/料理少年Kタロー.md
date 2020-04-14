@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[料理少年Kタロー](https://ja.wikipedia.org/wiki/料理少年Kタロー)から翻訳されています。
 
 
 『**料理少年Kタロー**』（りょうりしょうねんケータロー）は[令丈ヒロ子](../Page/令丈ヒロ子.md "wikilink")の[児童文学](../Page/児童文学.md "wikilink")作品。[1991年](../Page/1991年.md "wikilink")には[関西テレビ](../Page/関西テレビ放送.md "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の[阪急ドラマシリーズ](../Page/阪急ドラマシリーズ.md "wikilink")枠で、[2001年](../Page/2001年.md "wikilink")には[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[ドラマ愛の詩](../Page/ドラマ愛の詩.md "wikilink")枠で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化された。

@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT健康保険組合](https://ja.wikipedia.org/wiki/NTT健康保険組合)から翻訳されています。
 
 
 **NTT健康保険組合**（エヌ・ティ・ティ健康保険組合）とは、[NTTグループ](../Page/NTTグループ.md "wikilink")の[健康保険組合](../Page/健康保険組合.md "wikilink")である。健康保険の運営や[保養所](https://ja.wikipedia.org/wiki/保養所 "wikilink")や[会館](https://ja.wikipedia.org/wiki/会館 "wikilink")などを経営・管理している。

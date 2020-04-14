@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ロマンスX](https://ja.wikipedia.org/wiki/ロマンスX)から翻訳されています。
 
 
 『**ロマンスX**』（原題：*Romance X*）は、[1999年の](../Page/1999年の映画.md "wikilink")[フランス映画](https://ja.wikipedia.org/wiki/フランス映画 "wikilink")。

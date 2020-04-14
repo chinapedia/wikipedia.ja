@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCチョルノモレツ・オデッサ](https://ja.wikipedia.org/wiki/FCチョルノモレツ・オデッサ)から翻訳されています。
 
 
 **FCチョルノモレツ・オデッサ**（, ）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の都市[オデッサ](../Page/オデッサ.md "wikilink")を本拠地とするプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

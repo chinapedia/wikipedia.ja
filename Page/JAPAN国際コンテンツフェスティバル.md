@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[JAPAN国際コンテンツフェスティバル](https://ja.wikipedia.org/wiki/JAPAN国際コンテンツフェスティバル)から翻訳されています。
 
 
 **JAPAN国際コンテンツフェスティバル**（ジャパンこくさいコンテンツフェスティバル、Japan International Contents Festival）は、[2007年](../Page/2007年.md "wikilink")より毎年秋に開催されている、[経済産業省](../Page/経済産業省.md "wikilink")及び日本のコンテンツ関連企業6団体などによる、世界最大規模の[エンタテインメント](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")[コンテンツ](../Page/コンテンツ.md "wikilink")の総合イベント。通称**コ・フェスタ**（CoFesta）。当初は「国際コンテンツ・カーニバル」という名称で計画されていた。

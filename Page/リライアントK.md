@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[リライアントK](https://ja.wikipedia.org/wiki/リライアントK)から翻訳されています。
 
 
 **リライアントK** (**Relient K**)は、[オハイオ州](../Page/オハイオ州.md "wikilink")[カントン出身の](https://ja.wikipedia.org/wiki/カントン_\(オハイオ州\) "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。名前の由来はマット・フープスの Reliant K車（[Plymouth Reliant](https://ja.wikipedia.org/wiki/:en:Plymouth_Reliant "wikilink")）で、つづりの一部を変えてある。ジャンルは[オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、[ポップ・パンク](../Page/ポップ・パンク.md "wikilink")、[ピアノ・ロック](../Page/ピアノ・ロック.md "wikilink")、[クリスチャン・ロック](../Page/クリスチャン・ロック.md "wikilink")など。

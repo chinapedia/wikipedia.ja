@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアララト・エレバン](https://ja.wikipedia.org/wiki/FCアララト・エレバン)から翻訳されています。
 
 
 **FCアララト・エレバン**（[アルメニア語](../Page/アルメニア語.md "wikilink"): <span lang=ar>Ֆուտբոլային Ակումբ Արարատ Երեւան</span>、[英語](../Page/英語.md "wikilink"): Football Club Ararat Yerevan）は、[アルメニア](../Page/アルメニア.md "wikilink")の首都[エレバン](../Page/エレバン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

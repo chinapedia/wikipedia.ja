@@ -1,4 +1,4 @@
-> この記事は[GSX-R750](https://ja.wikipedia.org/wiki/GSX-R750)から翻訳されています。
+> この記事は[スズキ・GSX-R750](https://ja.wikipedia.org/wiki/スズキ・GSX-R750)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:2006_gsxr750.jpg "wikilink") **GSX-R750**（ジーエスエックスアールななひゃくごじゅう）は、[スズキが製造している](../Page/スズキ_\(企業\).md "wikilink")[スーパースポーツ](../Page/スーパースポーツ.md "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。

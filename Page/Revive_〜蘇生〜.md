@@ -1,7 +1,9 @@
-> この記事は[Revive ](https://ja.wikipedia.org/wiki/Revive_)から翻訳されています。
+> この記事は[Revive 〜蘇生〜](https://ja.wikipedia.org/wiki/Revive_〜蘇生〜)から翻訳されています。
 
 
-『**REVIVE... 〜蘇生〜**』（リバイブ そせい）は、[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[慟哭 そして…](../Page/慟哭_そして….md "wikilink")』の続編。後に[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。開発中の仮題は『慟哭2』。
+『**REVIVE... 〜蘇生〜**』（リバイヴ そせい）は、[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に[データイースト](../Page/データイースト.md "wikilink")より発売された[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
+
+『[慟哭 そして…](../Page/慟哭_そして….md "wikilink")』の続編。後に[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 基本的なシステムは前作と同様であるが、前作よりも難易度が相当高くグロテスクなシーンも存在する。
 
@@ -24,7 +26,7 @@
   - 秋月 実（あきつき みのる）
     本作の主人公でありプレイヤー。姓名変更可。星ヶ丘高校の3年生。
   - 小川 希春（おがわ きはる）
-    声：[雪乃五月](../Page/ゆきのさつき.md "wikilink")
+    [声](../Page/声優.md "wikilink")：[雪乃五月](../Page/ゆきのさつき.md "wikilink")
     誕生日：[7月6日](../Page/7月6日.md "wikilink")。血液型：A型。星座：かに座。
     主人公の義理の妹。主人公や菜緒と学年が一緒だが別クラス。幼い頃に母親を亡くしている。菜緒とは親友。
   - 水谷 菜緒（みずたに なお）
@@ -62,6 +64,6 @@
 
 ## 外部リンク
 
-  - [REVIVE... 〜蘇生〜（セガ）](http://web.archive.org/web/20140806101319/http://sega.jp/dc/990806/)（インターネットアーカイブ2014年8月6日分キャッシュ）
-
-[Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:脱出ゲーム](https://ja.wikipedia.org/wiki/Category:脱出ゲーム "wikilink") [Category:データイーストのゲームソフト](https://ja.wikipedia.org/wiki/Category:データイーストのゲームソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")
+  -
+  -
+[Category:脱出ゲーム](https://ja.wikipedia.org/wiki/Category:脱出ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:データイーストのゲームソフト](https://ja.wikipedia.org/wiki/Category:データイーストのゲームソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink")

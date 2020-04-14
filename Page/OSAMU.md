@@ -447,7 +447,8 @@
 ## 外部リンク
 
   - [TEAM LeyJunホームページ](http://www.leyjun.net/)
-  - [osamuホームページ](http://www.geocities.co.jp/MotorCity/2325/)
+
+  -
   - [TEAM LeyJunホームページ](http://leyjun.tripod.com/)
 
 [Category:日本のドライバー](https://ja.wikipedia.org/wiki/Category:日本のドライバー "wikilink") [Category:全日本F3000選手権のドライバー](https://ja.wikipedia.org/wiki/Category:全日本F3000選手権のドライバー "wikilink") [Category:フォーミュラ・ニッポンのドライバー](https://ja.wikipedia.org/wiki/Category:フォーミュラ・ニッポンのドライバー "wikilink") [Category:全日本F3選手権のドライバー](https://ja.wikipedia.org/wiki/Category:全日本F3選手権のドライバー "wikilink") [Category:全日本GT選手権のドライバー](https://ja.wikipedia.org/wiki/Category:全日本GT選手権のドライバー "wikilink") [Category:SUPER_GTのドライバー](https://ja.wikipedia.org/wiki/Category:SUPER_GTのドライバー "wikilink") [Category:競技中に死亡したモータースポーツ選手](https://ja.wikipedia.org/wiki/Category:競技中に死亡したモータースポーツ選手 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:2012年没](https://ja.wikipedia.org/wiki/Category:2012年没 "wikilink") [Category:レーシングチームのオーナー](https://ja.wikipedia.org/wiki/Category:レーシングチームのオーナー "wikilink")

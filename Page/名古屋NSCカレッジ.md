@@ -1,4 +1,4 @@
-> この記事は[NSC](https://ja.wikipedia.org/wiki/NSC)から翻訳されています。
+> この記事は[名古屋NSCカレッジ](https://ja.wikipedia.org/wiki/名古屋NSCカレッジ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nagoya_NSC_College_20150426.JPG "wikilink") **名古屋NSCカレッジ**（なごやエヌエスシーカレッジ）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区新栄にある私立](../Page/中区_\(名古屋市\).md "wikilink")[専門学校の総称](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。[学校法人](../Page/学校法人.md "wikilink")[中西学園](https://ja.wikipedia.org/wiki/中西学園 "wikilink")が運営する。名古屋[ファッション](../Page/ファッション.md "wikilink")専門学校、名古屋[栄養](../Page/栄養.md "wikilink")専門学校、名古屋[製菓](https://ja.wikipedia.org/wiki/製菓 "wikilink")専門学校がある。

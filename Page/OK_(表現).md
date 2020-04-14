@@ -1,4 +1,4 @@
-> この記事は[OK \(\)](https://ja.wikipedia.org/wiki/OK_\(\))から翻訳されています。
+> この記事は[OK \(表現\)](https://ja.wikipedia.org/wiki/OK_\(表現\))から翻訳されています。
 
 
 **OK** (, , <small>オーケー</small>) は、賛成・同意・承認や好調 (approved, all right, favorable)・正しい (correct) を表す[英語](../Page/英語.md "wikilink")の単語\[1\]。**O.K.** とも表記される。[日本語](../Page/日本語.md "wikilink")を含めた様々な言語で用いられている。

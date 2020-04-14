@@ -1,4 +1,4 @@
-> この記事は[Guts](https://ja.wikipedia.org/wiki/Guts)から翻訳されています。
+> この記事は[Guts城内](https://ja.wikipedia.org/wiki/Guts城内)から翻訳されています。
 
 
 **Guts城内**（がっつ じょうない、[1962年](../Page/1962年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - ）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーシングドライバー "wikilink")である。本名は**城内 政樹**（じょうない まさき）。

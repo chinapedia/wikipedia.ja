@@ -3,7 +3,7 @@
 
 **SWEET LOVE SHOWER**（スウィート・ラヴ・シャワー）は、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")および[FM802](../Page/FM802.md "wikilink")（大阪のみ、東京は2007年以降後援）が主催する野外音楽イベントである。略称は「SLS」「ラブシャ」など。
 
-東京では[1996年](../Page/1996年.md "wikilink")より[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で毎年開催されていたが、[2007年](../Page/2007年.md "wikilink")以降は[山中湖](../Page/山中湖.md "wikilink")交流プラザきららで開催されている。
+東京では[1996年](../Page/1996年.md "wikilink")より[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")で毎年開催されていたが、[2007年](../Page/2007年.md "wikilink")以降は[山中湖交流プラザ きららで開催されている](../Page/山中湖交流プラザ_きらら.md "wikilink")。
 
 大阪では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2012年](../Page/2012年.md "wikilink")まで春に[大阪城音楽堂](https://ja.wikipedia.org/wiki/大阪城音楽堂 "wikilink")で開催され、近年は本公演の前日に行われるEXTRA-FREE（無料招待）と合わせて2日間公演が通例であった。
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - SPACE SHOWER SWEET LOVE SHOWER 2007
-    9月1日・2日　[山梨県](../Page/山梨県.md "wikilink")・[山中湖](../Page/山中湖.md "wikilink")交流プラザきらら
+    9月1日・2日　[山梨県](../Page/山梨県.md "wikilink")・[山中湖交流プラザ きらら](../Page/山中湖交流プラザ_きらら.md "wikilink")
     出演者
 
 <table>
@@ -176,7 +176,7 @@
 </table>
 
   - SPACE SHOWER SWEET LOVE SHOWER 2009
-    8月28日・29日・30日 山中湖交流プラザきらら
+    8月28日・29日・30日 山中湖交流プラザ きらら
     出演者
 
 <table>

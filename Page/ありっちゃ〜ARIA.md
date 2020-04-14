@@ -1,4 +1,4 @@
-> この記事は[ARIA](https://ja.wikipedia.org/wiki/ARIA)から翻訳されています。
+> この記事は[ありっちゃ〜ARIA](https://ja.wikipedia.org/wiki/ありっちゃ〜ARIA)から翻訳されています。
 
 
 『**ありっちゃ〜ARIA**』（ありっちゃ〜ありあ）は、[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から同年[5月30日](../Page/5月30日.md "wikilink")まで[GyaOの](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")枠『[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")』で放送されていた[音楽](../Page/音楽番組.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。2007年4月末までは毎週水曜日22時 - 23時に、同年5月からは隔週水曜日22時 - 23時に[生放送](../Page/生放送.md "wikilink")されていた。

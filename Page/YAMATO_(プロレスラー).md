@@ -1,7 +1,7 @@
-> この記事は[YAMATO \(\)](https://ja.wikipedia.org/wiki/YAMATO_\(\))から翻訳されています。
+> この記事は[YAMATO \(プロレスラー\)](https://ja.wikipedia.org/wiki/YAMATO_\(プロレスラー\))から翻訳されています。
 
 
-**YAMATO**（ヤマト、[1981年](../Page/1981年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**小野寺 正人**（おのでら まさと）。
+**YAMATO**（ヤマト、[1981年](../Page/1981年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**小野寺 正人**（おのでら まさと）。血液型B型。[DRAGON GATE所属](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
 
 ## 経歴
 

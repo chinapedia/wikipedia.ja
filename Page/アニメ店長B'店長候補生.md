@@ -1,4 +1,4 @@
-> この記事は[B\'](https://ja.wikipedia.org/wiki/B\')から翻訳されています。
+> この記事は[アニメ店長B\'店長候補生](https://ja.wikipedia.org/wiki/アニメ店長B\'店長候補生)から翻訳されています。
 
 
 『**アニメ店長B'店長候補生**』は、『[アニメ店長](../Page/アニメ店長.md "wikilink")』からのスピンオフ作品。漫画版は[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")（[一迅社](../Page/一迅社.md "wikilink")）2003年8月号-2007年7月号にて連載

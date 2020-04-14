@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ダライアスII](https://ja.wikipedia.org/wiki/ダライアスII)から翻訳されています。
 
 
 『**ダライアスII**』 (**DARIUS II**) は、[1989年](../Page/1989年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。横スクロールの[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、アーケードゲームとしては[ダライアス](../Page/ダライアス.md "wikilink")シリーズの第2作目。

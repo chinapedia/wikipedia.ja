@@ -1,4 +1,4 @@
-> この記事は[TCS](https://ja.wikipedia.org/wiki/TCS)から翻訳されています。
+> この記事は[TCSホールディングス](https://ja.wikipedia.org/wiki/TCSホールディングス)から翻訳されています。
 
 
 **TCSホールディングス株式会社**（[英文社名](../Page/英語.md "wikilink")：*TCS HOLDINGS CO.,LTD.* / 略称：**TCS-HD**は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置き](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、[東京コンピュータサービス](https://ja.wikipedia.org/wiki/東京コンピュータサービス "wikilink")を中心としたTCSグループの持株会社である。

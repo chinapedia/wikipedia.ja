@@ -1,7 +1,7 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[Kダブシャイン](https://ja.wikipedia.org/wiki/Kダブシャイン)から翻訳されています。
 
 
-**Kダブシャイン**（ケーダブシャイン、本名：各務 貢太〈かがみ こうた〉\[1\]、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")\[2\] - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[タレント](../Page/タレント.md "wikilink")。ヒップホップグループ[KGDR](../Page/KGDR.md "wikilink")（キングギドラ）のメンバー。所属事務所は[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")\[3\]。旧表記は**K DUB SHINE**。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")出身\[4\]。
+**Kダブシャイン**（ケーダブシャイン、本名：各務 貢太〈かがみ こうた〉\[1\]、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")\[2\] - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[タレント](../Page/タレント.md "wikilink")。ヒップホップグループ[KGDR](../Page/KGDR.md "wikilink")（キングギドラ）のメンバー。所属事務所は[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")\[3\]。旧表記は**K DUB SHINE**。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")出身\[4\]。独身。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[キングギドラ](../Page/KGDR.md "wikilink")（現：KGDR）のメンバー及びリーダーとしてアルバム『[空からの力](https://ja.wikipedia.org/wiki/空からの力 "wikilink")』でデビュー。1997年にアルバム『現在時刻』でソロデビューし、2006年12月には[radio aktive projectを結成](../Page/Radio_Aktive_Project.md "wikilink")\[5\]\[6\]。
 

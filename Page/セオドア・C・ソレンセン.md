@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[セオドア・C・ソレンセン](https://ja.wikipedia.org/wiki/セオドア・C・ソレンセン)から翻訳されています。
 
 
 [Ted_Sorensen.jpg](https://ja.wikipedia.org/wiki/File:Ted_Sorensen.jpg "fig:Ted_Sorensen.jpg")）\]\] **セオドア・チェイキン“テッド”ソレンセン**（**Theodore Chaikin "Ted" Sorensen**、[1928年](../Page/1928年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")\[1\]）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[弁護士](../Page/弁護士.md "wikilink")、[作家](../Page/作家.md "wikilink")。[ケネディ政権の大統領特別顧問を務め](../Page/ジョン・F・ケネディ.md "wikilink")、同大統領の[スピーチライター](https://ja.wikipedia.org/wiki/スピーチライター "wikilink")としての功績が有名である。「ケネディの分身」といわれた。

@@ -1,4 +1,4 @@
-> この記事は[TBS8](https://ja.wikipedia.org/wiki/TBS8)から翻訳されています。
+> この記事は[TBS金曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS金曜8時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS金曜8時枠の連続ドラマ**（てぃーびーえすきんようはちじわくのれんぞくどらま）は、[KRT→TBS系列で過去](../Page/TBSテレビ.md "wikilink")4期にわたって、毎週金曜日の20時台に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。
@@ -60,7 +60,7 @@
   - [お姉ちゃん](https://ja.wikipedia.org/wiki/お姉ちゃん_\(テレビドラマ\) "wikilink")
   - [青葉繁れる](https://ja.wikipedia.org/wiki/青葉繁れる "wikilink")
   - [ヨイショ](https://ja.wikipedia.org/wiki/ヨイショ "wikilink")
-  - [あたしのものよ](https://ja.wikipedia.org/wiki/あたしのものよ "wikilink")
+  - [あたしのものよ](../Page/あたしのものよ.md "wikilink")
   - [あこがれ共同隊](https://ja.wikipedia.org/wiki/あこがれ共同隊 "wikilink")
   - [ばあちゃんの星](../Page/ばあちゃんの星.md "wikilink")
   - [結婚前夜シリーズ](https://ja.wikipedia.org/wiki/結婚前夜シリーズ "wikilink")
@@ -277,7 +277,7 @@
 
 ## ネット局に関する備考
 
-  - 「[あたしのものよ](https://ja.wikipedia.org/wiki/あたしのものよ "wikilink")」の放送期間中に、 [関西地区のネット局が](https://ja.wikipedia.org/wiki/関西地方 "wikilink")[腸捻転解消により](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")[朝日放送から](../Page/朝日放送テレビ.md "wikilink")[毎日放送に変更されている](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。
+  - 「[あたしのものよ](../Page/あたしのものよ.md "wikilink")」の放送期間中に、 [関西地区のネット局が](https://ja.wikipedia.org/wiki/関西地方 "wikilink")[腸捻転解消により](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")[朝日放送から](../Page/朝日放送テレビ.md "wikilink")[毎日放送に変更されている](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。
   - スポンサーセールスの都合上、[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")（『[三菱ダイヤモンド・アワー](https://ja.wikipedia.org/wiki/三菱ダイヤモンド・アワー "wikilink")』→『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』）を優先して放送していたJNN単独加盟局は、一部作品の番組販売扱いでの遅れネットまたは本放送終了後の集中放送を実施する対応が取られていた。
       -
         [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")は1973年7月に『太陽にほえろ\!』を遅れネットに変更した上で同時ネットに移行した他、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")開局に伴い、1982年4月から同時ネットに移行している。

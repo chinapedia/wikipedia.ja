@@ -1,4 +1,4 @@
-> この記事は[SIGNAL \(KAT-TUN\)](https://ja.wikipedia.org/wiki/SIGNAL_\(KAT-TUN\))から翻訳されています。
+> この記事は[SIGNAL \(KAT-TUNの曲\)](https://ja.wikipedia.org/wiki/SIGNAL_\(KAT-TUNの曲\))から翻訳されています。
 
 
 「**SIGNAL**」（シグナル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の2枚目のシングル。
@@ -34,4 +34,4 @@
 
 1.  『Making of "**SIGNAL**"』
 
-[Category:KAT-TUNの楽曲](https://ja.wikipedia.org/wiki/Category:KAT-TUNの楽曲 "wikilink") [Category:ジョーイ・カーボーンが制作した楽曲](https://ja.wikipedia.org/wiki/Category:ジョーイ・カーボーンが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:NTTドコモのCMソング](https://ja.wikipedia.org/wiki/Category:NTTドコモのCMソング "wikilink") [Category:楽曲_しくなる](https://ja.wikipedia.org/wiki/Category:楽曲_しくなる "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:KAT-TUNの楽曲](https://ja.wikipedia.org/wiki/Category:KAT-TUNの楽曲 "wikilink") [Category:ジョーイ・カーボーンが制作した楽曲](https://ja.wikipedia.org/wiki/Category:ジョーイ・カーボーンが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:NTTドコモのCMソング](https://ja.wikipedia.org/wiki/Category:NTTドコモのCMソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")

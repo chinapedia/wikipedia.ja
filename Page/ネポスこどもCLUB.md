@@ -1,4 +1,4 @@
-> この記事は[CLUB](https://ja.wikipedia.org/wiki/CLUB)から翻訳されています。
+> この記事は[ネポスこどもCLUB](https://ja.wikipedia.org/wiki/ネポスこどもCLUB)から翻訳されています。
 
 
 『**ネポスこどもCLUB**』（ネポスこどもクラブ）は、[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")の関連会社、[OLC・ライツ・エンタテインメント](../Page/OLC・ライツ・エンタテインメント.md "wikilink")が制作し、[BSフジ](../Page/BSフジ.md "wikilink")・[キッズステーション](../Page/キッズステーション.md "wikilink")で放送されていた子供向け番組。

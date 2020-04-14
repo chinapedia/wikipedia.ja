@@ -1,4 +1,4 @@
-> この記事は[D \(\)](https://ja.wikipedia.org/wiki/D_\(\))から翻訳されています。
+> この記事は[フランクリン・D・ルーズベルト \(空母\)](https://ja.wikipedia.org/wiki/フランクリン・D・ルーズベルト_\(空母\))から翻訳されています。
 
 
 <div class="thumb tright">

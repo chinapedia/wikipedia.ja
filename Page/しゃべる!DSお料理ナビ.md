@@ -1,4 +1,4 @@
-> この記事は[!DS](https://ja.wikipedia.org/wiki/!DS)から翻訳されています。
+> この記事は[しゃべる!DSお料理ナビ](https://ja.wikipedia.org/wiki/しゃべる!DSお料理ナビ)から翻訳されています。
 
 
 『**しゃべる\!DSお料理ナビ**』（しゃべる ディーエスおりょうりナビ）は、[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[料理](../Page/料理.md "wikilink")ナビゲーションソフトである。

@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOクリック証券](https://ja.wikipedia.org/wiki/GMOクリック証券)から翻訳されています。
 
 
 **GMOクリック証券株式会社**（ジーエムオークリックしょうけん、GMO CLICK Securities, Inc.）は、日本のインターネット[証券会社](../Page/証券会社.md "wikilink")である。

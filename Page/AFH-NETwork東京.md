@@ -1,4 +1,4 @@
-> この記事は[AFH-NETwork](https://ja.wikipedia.org/wiki/AFH-NETwork)から翻訳されています。
+> この記事は[AFH-NETwork東京](https://ja.wikipedia.org/wiki/AFH-NETwork東京)から翻訳されています。
 
 
 **AFH-NETwork東京**は、東京を本拠として活動していた伝説的な[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。創設者はシスオペあっぷること[AFH-APPLE68k](https://ja.wikipedia.org/wiki/AFH-APPLE68k "wikilink")。

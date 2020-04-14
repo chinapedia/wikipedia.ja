@@ -1,4 +1,4 @@
-> この記事は[JFA](https://ja.wikipedia.org/wiki/JFA)から翻訳されています。
+> この記事は[JFAアカデミー福島](https://ja.wikipedia.org/wiki/JFAアカデミー福島)から翻訳されています。
 
 
 **JFAアカデミー福島**（ジェイエフエーアカデミーふくしま）は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")（JFA）が[福島県](../Page/福島県.md "wikilink")・[広野町](../Page/広野町.md "wikilink")・[楢葉町](../Page/楢葉町.md "wikilink")・[富岡町](../Page/富岡町.md "wikilink")と連携して推進する中学・高校の6年間を対象とした[エリート](../Page/エリート.md "wikilink")教育機関・養成システムである。[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[4月8日](../Page/4月8日.md "wikilink")開校。スクールマスターはJFAの[布啓一郎](../Page/布啓一郎.md "wikilink")。
@@ -249,16 +249,6 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 </tr>
 <tr class="even">
 <td><center>
-<p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久司勇二" title="wikilink">久司勇二</a></p></td>
-<td><p>2006</p></td>
-<td><p>2011</p></td>
-<td><p><a href="../Page/東京学芸大学.md" title="wikilink">東京学芸大学</a></p></td>
-<td><p>未定</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
 <p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松本昌也" title="wikilink">松本昌也</a></p></td>
 <td><p>2007</p></td>
@@ -267,7 +257,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">ジュビロ磐田</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/幡野貴紀" title="wikilink">幡野貴紀</a></p></td>
@@ -277,7 +267,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">ブリオベッカ浦安</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金子翔太" title="wikilink">金子翔太</a></p></td>
@@ -287,7 +277,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安東輝" title="wikilink">安東輝</a></p></td>
@@ -297,7 +287,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平岡将豪" title="wikilink">平岡将豪</a></p></td>
@@ -307,7 +297,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小池龍太" title="wikilink">小池龍太</a></p></td>
@@ -317,7 +307,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/スポルティング・ロケレン.md" title="wikilink">スポルティング・ロケレン</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木下諒" title="wikilink">木下諒</a></p></td>
@@ -327,7 +317,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/東京武蔵野シティFC" title="wikilink">東京武蔵野シティFC</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/似鳥康太" title="wikilink">似鳥康太</a></p></td>
@@ -337,7 +327,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金城ジャスティン俊樹" title="wikilink">金城ジャスティン俊樹</a></p></td>
@@ -347,7 +337,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p><a href="../Page/フォルトゥナ・デュッセルドルフ.md" title="wikilink">デュッセルドルフ</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/下口稚葉" title="wikilink">下口稚葉</a></p></td>
@@ -355,6 +345,26 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2016</p></td>
 <td><p>ファジアーノ岡山</p></td>
 <td><p>ファジアーノ岡山</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>9</p></td>
+<td><p><a href="../Page/植中朝日.md" title="wikilink">植中朝日</a></p></td>
+<td><p>2014</p></td>
+<td><p>2019</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
+<td><p>V・ファーレン長崎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>9</p></td>
+<td><p><a href="../Page/加藤聖_(サッカー選手).md" title="wikilink">加藤聖</a></p></td>
+<td><p>2014</p></td>
+<td><p>2019</p></td>
+<td><p>V・ファーレン長崎</p></td>
+<td><p>V・ファーレン長崎</p></td>
 <td></td>
 </tr>
 </tbody>

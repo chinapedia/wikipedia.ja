@@ -1,4 +1,4 @@
-> この記事は[ CoolSweet](https://ja.wikipedia.org/wiki/_CoolSweet)から翻訳されています。
+> この記事は[つよきす Cool×Sweet](https://ja.wikipedia.org/wiki/つよきす_Cool×Sweet)から翻訳されています。
 
 
 『**つよきす Cool×Sweet**』（つよきす クールスイート）は、『[つよきす](../Page/つよきす.md "wikilink")』を原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

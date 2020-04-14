@@ -1,4 +1,4 @@
-> この記事は[ -ZOIDS GENERATIONS-](https://ja.wikipedia.org/wiki/_-ZOIDS_GENERATIONS-)から翻訳されています。
+> この記事は[ゾイドジェネレイションズ -ZOIDS GENERATIONS-](https://ja.wikipedia.org/wiki/ゾイドジェネレイションズ_-ZOIDS_GENERATIONS-)から翻訳されています。
 
 
 『**ゾイドジェネレイションズ -ZOIDS GENERATIONS-**』は、2005年4月から2006年9月まで[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")誌上で連載された[ライトノベル](../Page/ライトノベル.md "wikilink")作品である。

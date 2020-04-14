@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[マギー・Q](https://ja.wikipedia.org/wiki/マギー・Q)から翻訳されています。
 
 
 **マギー・Q**（**Maggie Q**、[本名](https://ja.wikipedia.org/wiki/本名 "wikilink"):**Margaret Denise Quigley**、[漢字](../Page/漢字.md "wikilink")：**李 美琪** *り びき*/*リ・メイチ*/*Lǐ Měiqí*、[ベトナム語](../Page/ベトナム語.md "wikilink")：**Lý Mỹ Kỳ** *リメイケイ*、[1979年](../Page/1979年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")出身の[モデル](../Page/モデル_\(職業\).md "wikilink")・[女優](../Page/俳優.md "wikilink")。先述の通りハワイ出身だが、香港で本格的にキャリアをスタートさせたことから香港女優として紹介されることが多い。身長166cm。

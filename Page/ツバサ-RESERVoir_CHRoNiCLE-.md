@@ -1,4 +1,4 @@
-> この記事は[-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/-RESERVoir_CHRoNiCLE-)から翻訳されています。
+> この記事は[ツバサ-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-)から翻訳されています。
 
 
 『**ツバサ-RESERVoir CHRoNiCLE-**』（ツバサ レザヴォア クロニクル）は、『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』にて2003年から2009年まで連載された[CLAMP](../Page/CLAMP.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。続編である『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』についてはそちらを参照のこと。

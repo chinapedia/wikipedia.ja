@@ -1,4 +1,4 @@
-> この記事は[KVLY-TV](https://ja.wikipedia.org/wiki/KVLY-TV)から翻訳されています。
+> この記事は[KVLY-TV塔](https://ja.wikipedia.org/wiki/KVLY-TV塔)から翻訳されています。
 
 
 **KVLY-TV塔**（[英語](../Page/英語.md "wikilink"):、KVLY-TVとう）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")中西部の[ノースダコタ州](../Page/ノースダコタ州.md "wikilink")ブランシャールにある、高さ**628.8m**の[KVLY-TV](https://ja.wikipedia.org/wiki/KVLY-TV "wikilink")専用の支線式[アンテナ](../Page/アンテナ.md "wikilink")塔である。

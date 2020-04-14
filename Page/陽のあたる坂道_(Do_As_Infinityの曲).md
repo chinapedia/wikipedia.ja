@@ -1,4 +1,4 @@
-> この記事は[ \(Do As Infinity\)](https://ja.wikipedia.org/wiki/_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[陽のあたる坂道 \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/陽のあたる坂道_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**陽のあたる坂道**」（ひのあたるさかみち）は、[2002年](../Page/2002年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。

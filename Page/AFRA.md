@@ -436,7 +436,7 @@ RZCD-59064</p></td>
 | **監督**                                                                     | **曲名**                                                  |
 | [ANI FROM SDP](https://ja.wikipedia.org/wiki/ANI_FROM_SDP "wikilink")      | 「SINCE MY BEAT NICE\!」                                  |
 | [イーズバック](https://ja.wikipedia.org/wiki/イーズバック "wikilink")                  | 「Spring Bounce」「TOKYO KAKOKYU CLUB feat.太華,SharLee,櫻井響」 |
-| [エリザベス宮地](https://ja.wikipedia.org/wiki/エリザベス宮地 "wikilink")                | 「listen 2 my・beat」                                      |
+| [エリザベス宮地](../Page/エリザベス宮地.md "wikilink")                                   | 「listen 2 my・beat」                                      |
 | [SHASHAMIN](https://ja.wikipedia.org/wiki/SHASHAMIN "wikilink") & easeback | 「MOUTH MUSIC feat.TAKKYU ISHINO,SHINCO」                 |
 | [+CRUZ](https://ja.wikipedia.org/wiki/+CRUZ "wikilink")                    | 「DIGITAL BREATH」                                        |
 | 不明                                                                         | 「Live at Sonar」「Seven Nation Army feat.Chara」           |

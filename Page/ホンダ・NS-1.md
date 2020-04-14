@@ -1,4 +1,4 @@
-> この記事は[NS-1](https://ja.wikipedia.org/wiki/NS-1)から翻訳されています。
+> この記事は[ホンダ・NS-1](https://ja.wikipedia.org/wiki/ホンダ・NS-1)から翻訳されています。
 
 
 **NS-1**（エヌエス-ワン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[排気量](../Page/排気量.md "wikilink")49㏄の[オートバイ](../Page/オートバイ.md "wikilink")（[原動機付自転車](../Page/原動機付自転車.md "wikilink")）である。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK正月時代劇](https://ja.wikipedia.org/wiki/NHK正月時代劇)から翻訳されています。
 
 
 **NHK正月時代劇**（えぬえいちけいしょうがつじだいげき）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「正月時代劇」として[NHK総合テレビにて](../Page/NHK総合テレビジョン.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から毎年[1月1日](../Page/1月1日.md "wikilink")から[1月4日](../Page/1月4日.md "wikilink")の4日間のうちに放送している単発の時代劇[特別番組](../Page/特別番組.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

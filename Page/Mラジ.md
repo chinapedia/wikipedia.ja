@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[Mラジ](https://ja.wikipedia.org/wiki/Mラジ)から翻訳されています。
 
 
 **Mラジ**（エムラジ）は、[エフエム山陰](../Page/エフエム山陰.md "wikilink")で放送されていたラジオ番組である。放送時間は毎週月～木曜日の17:15～18:55（開始当初は17:15～19:55）。『[V-air EVENING RADIO SHOW PLEASURE×PLEASURE](../Page/V-air_EVENING_RADIO_SHOW_PLEASURE×PLEASURE.md "wikilink")』に代わって2004年10月4日放送開始、2006年3月30日終了。後続番組は「[evening Navigator"e-Na"](https://ja.wikipedia.org/wiki/evening_Navigator"e-Na" "wikilink")」。 正式名称は「**V-air EVENING Live THE MUSIC RADIO\!\!**」であり、番組開始当初はこのタイトルが用いられ、略称を「Mラジ」としていたが、2005年7月から、完全に「Mラジ」となった。同時に放送時間が短縮された。

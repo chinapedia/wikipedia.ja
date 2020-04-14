@@ -1,4 +1,4 @@
-> この記事は[Infinity](https://ja.wikipedia.org/wiki/Infinity)から翻訳されています。
+> この記事は[∞Infinity∞](https://ja.wikipedia.org/wiki/∞Infinity∞)から翻訳されています。
 
 
 『**∞Infinity∞**』（インフニティー）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の8枚目の[オリジナルアルバムおよびそれに収録されている楽曲のタイトル](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。

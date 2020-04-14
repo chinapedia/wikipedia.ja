@@ -1,4 +1,4 @@
-> この記事は[TBS8](https://ja.wikipedia.org/wiki/TBS8)から翻訳されています。
+> この記事は[TBS木曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS木曜8時枠の連続ドラマ)から翻訳されています。
 
 
 **TBS木曜8時枠の連続ドラマ**（ティービーエスもくようはちじわくのれんぞくドラマ）は、[KRT→TBS系列で](../Page/TBSテレビ.md "wikilink")、[1956年](../Page/1956年.md "wikilink")[11月](../Page/11月.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[9月](../Page/9月.md "wikilink")まで、[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで[MBS制作で毎週木曜日の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")20時台に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。
@@ -7,7 +7,8 @@
 
 当放送枠は、[1960年代](../Page/1960年代.md "wikilink")後半から[1980年代](../Page/1980年代.md "wikilink")前半にかけて『[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")』や『[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")』などと共に“ドラマのTBS”を代表する看板ドラマ枠として、視聴者に長年親しまれた。主に[テレパック](../Page/テレパック.md "wikilink")制作の作品がこの枠で多く放送され、なかでも、『[肝っ玉かあさん](../Page/肝っ玉かあさん.md "wikilink")』や『[ありがとう](../Page/ありがとう_\(テレビドラマ\).md "wikilink")』といった、[石井ふく子](../Page/石井ふく子.md "wikilink")プロデュースによる作品は[ホームドラマ](../Page/ホームドラマ.md "wikilink")黄金期を象徴する名作として日本のテレビの歴史に語り継がれる。 当枠での歴代[視聴率](../Page/視聴率.md "wikilink")1位は、[1972年](../Page/1972年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に放送された『ありがとう』（第2シリーズ）の56.3%（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")関東地区調べ）。この数字は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")深夜に放送された『[2010 FIFAワールドカップ南アフリカ大会中継](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink") [日本対](../Page/サッカー日本代表.md "wikilink")[パラグアイ戦](../Page/サッカーパラグアイ代表.md "wikilink")』で記録した57.3% に抜かれるまでTBSとしての歴代視聴率でも首位の座を守り続けていた。
 
-しかし末期は『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）などに苦戦を強いられるようになり、1984年の『[ビートたけしの学問ノススメ](../Page/ビートたけしの学問ノススメ.md "wikilink")』を最後に一時撤退。9年後の[1993年](../Page/1993年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をテーマにした『[オレたちのオーレ\!](../Page/オレたちのオーレ!.md "wikilink")』（[MBS制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）でドラマを復活させるも低視聴率により3カ月で終了、この時間帯でのドラマは消滅した。
+しかし、末期は『[木曜スペシャル](../Page/木曜スペシャル.md "wikilink")』（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）などに苦戦を強いられるようになり、1984年の『[ビートたけしの学問ノススメ](../Page/ビートたけしの学問ノススメ.md "wikilink")』を最後にTBSは木曜20時台の制作から一時撤退した。
+木曜20時枠を引き継いだ[毎日放送が](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、9年後の[1993年](../Page/1993年.md "wikilink")に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をテーマにした『[オレたちのオーレ\!](../Page/オレたちのオーレ!.md "wikilink")』でテレビドラマを手がけるも低視聴率により3カ月で終了、この時間帯のドラマは消滅し、毎日放送も1980年代前半に持っていたゴールデンタイムのドラマ枠復活はならなかった。
 
 ## 放送時間
 

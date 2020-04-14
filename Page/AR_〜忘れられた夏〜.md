@@ -1,4 +1,4 @@
-> この記事は[AR ](https://ja.wikipedia.org/wiki/AR_)から翻訳されています。
+> この記事は[AR 〜忘れられた夏〜](https://ja.wikipedia.org/wiki/AR_〜忘れられた夏〜)から翻訳されています。
 
 
 『**AR 〜忘れられた夏〜**』（**エーアール わすれられたなつ**、**AR Forgotten summer**）は、[2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[金曜日](../Page/金曜日.md "wikilink")）に[CIRCUSより発売された](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[18禁の](../Page/レイティング.md "wikilink")[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")）[ソフト](../Page/ソフトウェア.md "wikilink")。CIRCUSと[TOPCATとの共同開発](../Page/TOPCAT_\(ブランド\).md "wikilink")。対応[OSは](../Page/オペレーティングシステム.md "wikilink")[日本語](../Page/日本語.md "wikilink")版[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 98/Me/2000/XP。[DVD](../Page/DVD.md "wikilink")-ROM版と限定生産の[CD](../Page/コンパクトディスク.md "wikilink")-ROM版の同時発売で共に定価10290円（本体価格9800円+[消費税](../Page/消費税.md "wikilink")）。初回限定版封入特典は『白河家秘伝掛け軸』およびアレンジ[サウンドトラック](../Page/サウンドトラック.md "wikilink")。予約特典はオリジナルミニドラマCD。

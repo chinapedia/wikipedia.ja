@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[トヨタ・マークIIクオリス](https://ja.wikipedia.org/wiki/トヨタ・マークIIクオリス)から翻訳されています。
 
 
 **トヨタ・マークIIクオリス**（*MARK Ⅱ QUALIS*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて製造していた[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")タイプの[乗用車](../Page/乗用車.md "wikilink")である。なお、[インド](../Page/インド.md "wikilink")で現地生産・発売されていた多目的乗用車「[トヨタ・クオリス](../Page/トヨタ・キジャン.md "wikilink")」、及び[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の自動車メーカー・[起亜](https://ja.wikipedia.org/wiki/起亜 "wikilink")が海外市場にて発売する「[キア・クオリス](https://ja.wikipedia.org/wiki/キア・K9 "wikilink")」との関連性はない。

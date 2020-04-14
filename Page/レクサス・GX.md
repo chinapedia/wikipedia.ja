@@ -1,4 +1,4 @@
-> この記事は[GX](https://ja.wikipedia.org/wiki/GX)から翻訳されています。
+> この記事は[レクサス・GX](https://ja.wikipedia.org/wiki/レクサス・GX)から翻訳されています。
 
 
 [2015_Lexus_GX_460_(URJ150R)_wagon_(2015-12-26)_01.jpg](https://ja.wikipedia.org/wiki/File:2015_Lexus_GX_460_\(URJ150R\)_wagon_\(2015-12-26\)_01.jpg "fig:2015_Lexus_GX_460_(URJ150R)_wagon_(2015-12-26)_01.jpg") **GX**（ジーエックス, Lexus GX）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」から販売されている大型[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

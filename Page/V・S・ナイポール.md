@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[V・S・ナイポール](https://ja.wikipedia.org/wiki/V・S・ナイポール)から翻訳されています。
 
 
 **ヴィディアダハル・スラヤプラサド・ナイポール**（**Vidiadhar Surajprasad Naipaul**、[1932年](../Page/1932年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の作家。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送技術研究所](https://ja.wikipedia.org/wiki/NHK放送技術研究所)から翻訳されています。
 
 
 **NHK放送技術研究所**（エヌエイチケイほうそうぎじゅつけんきゅうしょ、）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（以下、NHK）が[1930年](../Page/1930年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")5年）に設立した[研究所](../Page/研究所.md "wikilink")で、放送技術の開発を行っている。所在地は[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[砧](../Page/砧_\(世田谷区\).md "wikilink")。[通称](../Page/通称.md "wikilink")は**「NHK技研」**。

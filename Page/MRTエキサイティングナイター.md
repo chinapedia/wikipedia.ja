@@ -1,4 +1,4 @@
-> この記事は[MRT](https://ja.wikipedia.org/wiki/MRT)から翻訳されています。
+> この記事は[MRTエキサイティングナイター](https://ja.wikipedia.org/wiki/MRTエキサイティングナイター)から翻訳されています。
 
 
 **MRTエキサイティングナイター**は、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (MRT) [ラジオ](../Page/ラジオ.md "wikilink")の[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組の名称。
@@ -181,7 +181,7 @@
 
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:宮崎放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:宮崎放送のラジオ帯番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:宮崎放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:宮崎放送のラジオ帯番組 "wikilink")
 
 1.  『[政策情報 官邸発](https://ja.wikipedia.org/wiki/政策情報_官邸発 "wikilink")』放送開始のため10分繰り下げ。
 2.  JRN（TBSラジオ）ネットの時はヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

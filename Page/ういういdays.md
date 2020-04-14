@@ -1,4 +1,4 @@
-> この記事は[days](https://ja.wikipedia.org/wiki/days)から翻訳されています。
+> この記事は[ういういdays](https://ja.wikipedia.org/wiki/ういういdays)から翻訳されています。
 
 
 『**ういうい♥days**』（ういういでいず、*Oui Oui♥days*）は、[犬上すくね](../Page/犬上すくね.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[竹書房](../Page/竹書房.md "wikilink")の月刊雑誌『[まんがライフオリジナル](../Page/まんがライフオリジナル.md "wikilink")』に2003年から2012年まで連載された。

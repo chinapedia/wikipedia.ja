@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[どんなモンダイQテレビ](https://ja.wikipedia.org/wiki/どんなモンダイQテレビ)から翻訳されています。
 
 
 『**どんなモンダイQテレビ**』（どんなモンダイキューテレビ）は、[1984年](../Page/1984年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。番組内では「**どんQ**」と略されていた。

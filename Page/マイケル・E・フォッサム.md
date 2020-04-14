@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[マイケル・E・フォッサム](https://ja.wikipedia.org/wiki/マイケル・E・フォッサム)から翻訳されています。
 
 
 **マイケル・エドワード・フォッサム**（Michael Edward Fossum、[1957年](../Page/1957年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")-）は、[アメリカの宇宙飛行士](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、空軍軍人。

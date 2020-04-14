@@ -1,4 +1,4 @@
-> この記事は[PK](https://ja.wikipedia.org/wiki/PK)から翻訳されています。
+> この記事は[PK戦の記録](https://ja.wikipedia.org/wiki/PK戦の記録)から翻訳されています。
 
 
 **PK戦の記録**（ピーケーせんのきろく）では、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")など、多くの大会の[PK戦](../Page/PK戦.md "wikilink")の記録を表記する。

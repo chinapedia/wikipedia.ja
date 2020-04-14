@@ -1,4 +1,4 @@
-> この記事は[-HiME \(\)](https://ja.wikipedia.org/wiki/-HiME_\(\))から翻訳されています。
+> この記事は[舞-乙HiME \(漫画\)](https://ja.wikipedia.org/wiki/舞-乙HiME_\(漫画\))から翻訳されています。
 
 
 『**舞-乙HiME**』（マイオトメ）は、[サンライズが中心となって展開している](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")、[舞-HiMEプロジェクト](../Page/舞-HiMEプロジェクト.md "wikilink")によって制作された『**舞-乙HiME**』の[コミック作品である](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
@@ -483,4 +483,4 @@
   - [舞-HiME](../Page/舞-HiME.md "wikilink")
   - [舞-乙HiME](https://ja.wikipedia.org/wiki/舞-乙HiME "wikilink")
 
-[Category:舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/Category:舞-HiMEプロジェクト "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:アニメを原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:アニメを原作とする漫画作品 "wikilink") [Category:王女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王女を主人公とした漫画作品 "wikilink") [Category:人物の入れ代わりを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:架空の養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:架空の養成学校を舞台とした作品 "wikilink")
+[Category:舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/Category:舞-HiMEプロジェクト "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:アニメを原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:アニメを原作とする漫画作品 "wikilink") [Category:王女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:王女を主人公とした漫画作品 "wikilink") [Category:人物の入れ代わりを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:架空の養成学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:架空の養成学校を舞台とした作品 "wikilink")

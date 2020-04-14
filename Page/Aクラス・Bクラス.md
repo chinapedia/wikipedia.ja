@@ -1,4 +1,4 @@
-> この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
+> この記事は[Aクラス・Bクラス](https://ja.wikipedia.org/wiki/Aクラス・Bクラス)から翻訳されています。
 
 
 **Aクラス・Bクラス**とは、[日本プロ野球](../Page/日本プロ野球.md "wikilink")において、シーズン順位の上位と下位を格付けしたものである。

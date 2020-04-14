@@ -84,34 +84,35 @@
 
 ユニット名義
 
-| 発売日         | タイトル                                                            | レーベル                                                            | ユニット名                                                                                                        | 備考                                                                                                               |
-| ----------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 2006年5月31日  | [手を出すな\!](../Page/手を出すな!.md "wikilink")                         | [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink") | [GAKU-MC/桜井和寿 (Mr.Children)](https://ja.wikipedia.org/wiki/桜井和寿#GAKU-MC_/_桜井和寿（Mr.Children） "wikilink")      | オリコン最高2位                                                                                                         |
-| 2009年10月21日 | 今日からみんなともだち 〜NO MUSIC,NO LIFE.〜                                 | [烏龍舎](../Page/烏龍舎.md "wikilink")                                | GAKU-MC、[ナイス橋本](../Page/ナイス橋本.md "wikilink")、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink") | オリコン最高189位                                                                                                       |
-| 2013年3月20日  | でも、手を出すな\!                                                      | トイズファクトリー                                                       | [UKASUKA-G](https://ja.wikipedia.org/wiki/ウカスカジー "wikilink")（ウカスカジー）（GAKU-MC&桜井和寿）                           | 配信限定                                                                                                             |
-| 2014年5月22日  | [勝利の笑みを 君と](https://ja.wikipedia.org/wiki/勝利の笑みを_君と "wikilink") | トイズファクトリー                                                       | UKASUKA-G（ウカスカジー）（GAKU-MC&桜井和寿）                                                                              | 配信限定。[2014 FIFAワールドカップ](../Page/2014_FIFAワールドカップ.md "wikilink")[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")公式応援ソング |
+| 発売日         | タイトル                                                            | レーベル                                                            | ユニット名                                                                                                                  | 備考         |
+| ----------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 2006年5月31日  | [手を出すな\!](../Page/手を出すな!.md "wikilink")                         | [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink") | GAKU-MC / [桜井和寿](../Page/桜井和寿.md "wikilink") ([Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink"))\]\] | オリコン最高2位   |
+| 2009年10月21日 | 今日からみんなともだち 〜NO MUSIC, NO LIFE.〜                                | [烏龍舎](../Page/烏龍舎.md "wikilink")                                | GAKU-MC、[ナイス橋本](../Page/ナイス橋本.md "wikilink")、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")           | オリコン最高189位 |
+| 2013年3月20日  | [でも、手を出すな\!](../Page/でも、手を出すな!.md "wikilink")                   | トイズファクトリー                                                       | [UKASUKA-G](https://ja.wikipedia.org/wiki/ウカスカジー "wikilink")（ウカスカジー）                                                   | 配信限定       |
+| 2014年5月22日  | [勝利の笑みを 君と](https://ja.wikipedia.org/wiki/勝利の笑みを_君と "wikilink") | トイズファクトリー                                                       | ウカスカジー                                                                                                                 | 配信限定       |
 
 ### アルバム
 
-|      | 発売日         | タイトル                                                                                  | レーベル                                                              | 備考                                    |
-| ---- | ----------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------- |
-| 1st  | 2000年2月19日  | [word music](https://ja.wikipedia.org/wiki/word_music "wikilink")                     | [アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink") | オリコン最高77位                             |
-| 2nd  | 2001年5月16日  | [word music 2](https://ja.wikipedia.org/wiki/word_music_2 "wikilink")                 | アンティノスレコード                                                        | オリコン最高50位                             |
-| 3rd  | 2002年6月26日  | [a day in the life](https://ja.wikipedia.org/wiki/a_day_in_the_life "wikilink")       | [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")          | オリコン最高48位                             |
-| 4th  | 2009年10月21日 | [世界が明日も続くなら](https://ja.wikipedia.org/wiki/世界が明日も続くなら "wikilink")                     | トイズファクトリー                                                         | オリコン最高177位                            |
-| 5th  | 2011年11月25日 | [キュウキョク](https://ja.wikipedia.org/wiki/キュウキョク "wikilink")                             | ラップラスエンターテインメント                                                   | 配信、ライブ会場限定版                           |
-| 5th' | 2012年6月6日   | [キュウキョク2（ジジョウ）](https://ja.wikipedia.org/wiki/キュウキョク2（ジジョウ） "wikilink")               | ラップラスエンターテインメント                                                   | 前作「キュウキョク」に全曲PV収録のDVDを加えた2枚組セット。全国流通版 |
-| 6th  | 2013年5月1日   | [ALL YOU NEED IS RAP](https://ja.wikipedia.org/wiki/ALL_YOU_NEED_IS_RAP "wikilink")   | ラップラスエンターテインメント                                                   | オリコン圏外                                |
-| BEST | 2014年4月23日  | [THE BEST "GRADATION"](https://ja.wikipedia.org/wiki/THE_BEST_"GRADATION" "wikilink") | ラップラスエンターテインメント                                                   | ベスト盤。オリコン最高240位                       |
-| 7th  | 2016年6月15日  | [ついてない1日の終わりに](https://ja.wikipedia.org/wiki/ついてない1日の終わりに "wikilink")                 | トイズファクトリー                                                         |                                       |
-| 8th  | 2018年6月6日   | Rappuccino                                                                            | トイズファクトリー                                                         |                                       |
+|      | 発売日         | タイトル                                                                                | レーベル            | 備考                                    |
+| ---- | ----------- | ----------------------------------------------------------------------------------- | --------------- | ------------------------------------- |
+| 1st  | 2000年2月19日  | word music                                                                          | アンティノスレコード      | オリコン最高77位                             |
+| 2nd  | 2001年5月16日  | word music 2                                                                        | アンティノスレコード      | オリコン最高50位                             |
+| 3rd  | 2002年6月26日  | a day in the life                                                                   | ワーナーミュージック・ジャパン | オリコン最高48位                             |
+| 4th  | 2009年10月21日 | 世界が明日も続くなら                                                                          | トイズファクトリー       | オリコン最高177位                            |
+| 5th  | 2011年11月25日 | キュウキョク                                                                              | ラップラスエンターテインメント | 配信、ライブ会場限定版                           |
+| 5th' | 2012年6月6日   | キュウキョク2（ジジョウ）                                                                       | ラップラスエンターテインメント | 前作「キュウキョク」に全曲PV収録のDVDを加えた2枚組セット。全国流通版 |
+| 6th  | 2013年5月1日   | [ALL YOU NEED IS RAP](https://ja.wikipedia.org/wiki/ALL_YOU_NEED_IS_RAP "wikilink") | ラップラスエンターテインメント | オリコン圏外                                |
+| BEST | 2014年4月23日  | THE BEST "GRADATION"                                                                | ラップラスエンターテインメント | ベスト盤。オリコン最高240位                       |
+| 7th  | 2016年6月15日  | ついてない1日の終わりに                                                                        | トイズファクトリー       |                                       |
+| 8th  | 2018年6月6日   | Rappuccino                                                                          | トイズファクトリー       |                                       |
 
-名義
+ユニット名義
 
-| 発売日        | タイトル                                                             | レーベル      | ユニット名             | 備考       |
-| ---------- | ---------------------------------------------------------------- | --------- | ----------------- | -------- |
-| 2014年6月11日 | [AMIGO](https://ja.wikipedia.org/wiki/AMIGO_\(アルバム\) "wikilink") | トイズファクトリー | UKASUKA-G（ウカスカジー） | オリコン最高2位 |
-| 2016年7月13日 | [Tシャツと私たち](https://ja.wikipedia.org/wiki/Tシャツと私たち "wikilink")    | トイズファクトリー | UKASUKA-G（ウカスカジー） |          |
+| 発売日        | タイトル                                                             | レーベル      | ユニット名  | 備考       |
+| ---------- | ---------------------------------------------------------------- | --------- | ------ | -------- |
+| 2014年6月11日 | [AMIGO](https://ja.wikipedia.org/wiki/AMIGO_\(アルバム\) "wikilink") | トイズファクトリー | ウカスカジー | オリコン最高2位 |
+| 2016年7月13日 | [Tシャツと私たち](https://ja.wikipedia.org/wiki/Tシャツと私たち "wikilink")    | トイズファクトリー | ウカスカジー |          |
+| 2019年8月19日 | [金色BITTER](https://ja.wikipedia.org/wiki/金色BITTER "wikilink")    | トイズファクトリー | ウカスカジー | 配信限定     |
 
 ### DVD
 
@@ -122,48 +123,59 @@
 ### その他・客演
 
   - [Key of life](https://ja.wikipedia.org/wiki/Key_of_life "wikilink") featuring YUKI MORI & GAKU「[ASAYAKEの中で](../Page/ASAYAKEの中で.md "wikilink")」（1995年4月21日）
-  - [有里知花](https://ja.wikipedia.org/wiki/有里知花 "wikilink")「それぞれの浜辺で同じ月を見ている（アルバムTreasure The World）」（2003年9月3日）
-  - [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink")「ユタカナリズム（アルバムEpsode1）」（2004年1月28日）
+  - [有里知花](https://ja.wikipedia.org/wiki/有里知花 "wikilink")『Treasure The World』（2003年9月3日）
       -
-        9.ユタカナリズム(feat.GAKU-MC)
-  - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")「DYNAMITE」（2005年5月）
+        7\. それぞれの浜辺で同じ月を見ている
+  - [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink")『EPISODE 1』（2004年1月28日）
       -
-        16.メルシーテレメカシーアリガトオブリガード(DJ TATSUTA feat.GAKU-MC from EASTEND)
-  - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")「[Fo(u)r](../Page/Fo\(u\)r.md "wikilink")」（2005年11月16日）
+        9\. ユタカナリズム (feat. GAKU-MC)
+  - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")『DYNAMITE』（2005年5月）
       -
-        12.Dance With Me (feat.GAKU-MC)
-  - オムニバス「横浜LOGOS presents JOYRIDE produced by DJ KOHNO ([ケツメイシ](../Page/ケツメイシ.md "wikilink")) & DJ TATSUTA」（2005年9月7日）
+        16\. メルシーテレメカシーアリガトオブリガード (DJ TATSUTA feat. GAKU-MC from EASTEND)
+  - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")『[Fo(u)r](../Page/Fo\(u\)r.md "wikilink")』（2005年11月16日）
       -
-        12.お客様が神様です / DJ KOHNO(fromケツメイシ) feat. GAKU MC
-  - オムニバス「MATCHY TRIBUTE 25th anniversary」（2006年1月1日）
+        12\. Dance With Me (feat. GAKU-MC)
+  - オムニバス『横浜LOGOS presents JOYRIDE produced by DJ KOHNO（[ケツメイシ](../Page/ケツメイシ.md "wikilink")） & DJ TATSUTA』（2005年9月7日）
       -
-        3.情熱☆熱風せれなーで - Low-Cuts feat. Lori Fine （COLDFEET） and GAKU-MC （from EASTEND）
-  - [RHYMESTER](../Page/RHYMESTER.md "wikilink") 「[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")」（2006年3月9日）
+        12\. お客様が神様です / DJ KOHNO（from ケツメイシ） feat. GAKU MC
+  - [Bank Band](../Page/Bank_Band.md "wikilink") with Great Artists & Mr.Children『[ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")』（2005年12月21日）
+  - オムニバス『MATCHY TRIBUTE 25th anniversary』（2006年1月1日）
       -
-        18\. ウィークエンド・シャッフル feat.MCU, RYO-Z, KREVA, CUEZERO, CHANNEL, KOHEI JAPAN, SU, LITTLE, ILMARI, GAKU-MC, SONOMI, PES, KIN, 童子-T
+        3\. 情熱☆熱風せれなーで - Low-Cuts feat. Lori Fine (COLDFEET) and GAKU-MC (from EASTEND)
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink") 『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』（2006年3月9日）
+      -
+        18\. ウィークエンド・シャッフル feat. MCU, RYO-Z, KREVA, CUEZERO, CHANNEL, KOHEI JAPAN, SU, LITTLE, ILMARI, GAKU-MC, SONOMI, PES, KIN, 童子-T
   - [Ukatrats FC](../Page/Ukatrats_FC.md "wikilink")「Win and Shine」（2006年5月24日）
-  - [Ap bank](../Page/Ap_bank.md "wikilink")「ap bank fes'06／Bank Band with Great Artists」（2006年12月20日）※2006年7月15日 - 17日の3日間。[つま恋で行なわれた](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")"ap bank fes'06"のDVD。
-  - CHEMISTRY「All THE BEST / CHEMISTRY」（2006年11月22日）※初回限定の特典のDVDに出演。
-  - [登坂亮太](https://ja.wikipedia.org/wiki/登坂亮太 "wikilink")「hopes」（2006年12月20日）
+  - CHEMISTRY『[ALL THE BEST](../Page/ALL_THE_BEST.md "wikilink")』（2006年11月22日）
       -
-        5.ミドリノトリ(feat. GAKU-MC)
-  - [SOFFet](../Page/SOFFet.md "wikilink")「NEW STANDARD」（2008年2月27日）
+        初回限定の特典のDVDに出演。
+  - 登坂亮太『hopes』（2006年12月20日）
       -
-        12.あなたのおかげです with GAKU-MC
-  - [ユナイトバス](https://ja.wikipedia.org/wiki/ユナイトバス "wikilink")「Get On Bus」（2008年3月12日）
+        5\. ミドリノトリ (feat. GAKU-MC)
+  - Bank Band with Great Artists『[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")』（2006年12月20日）
+  - Bank Band『[沿志奏逢2](../Page/沿志奏逢2.md "wikilink")』（2008年1月16日）
       -
-        5.きっと我が人生最悪の時 feat.GAKU-MC
-  - [サカノウエヨースケ](https://ja.wikipedia.org/wiki/サカノウエヨースケ "wikilink")「[AND](https://ja.wikipedia.org/wiki/AND_\(サカノウエヨースケのアルバム\) "wikilink")」（2012年6月20日）
+        3\. 昨日のNo, 明日のYes
+  - Bank Band with Great Artists『[ap bank fes '07](https://ja.wikipedia.org/wiki/ap_bank_fes_'07 "wikilink")』（2008年1月16日）
+  - [SOFFet](../Page/SOFFet.md "wikilink")『NEW STANDARD』（2008年2月27日）
       -
-        6.スーパーノヴァ feat.GAKU-MC
-  - [A.F.R.O](https://ja.wikipedia.org/wiki/A.F.R.O "wikilink")「7th」（2015年8月26日）
+        12\. あなたのおかげです with GAKU-MC
+  - ユナイトバス『Get On Bus』（2008年3月12日）
       -
-        12.トライ＆エラー feat.GAKU-MC
+        5\. きっと我が人生最悪の時 feat. GAKU-MC
+  - Bank Band with Great Artists『[ap bank fes '08](https://ja.wikipedia.org/wiki/ap_bank_fes_'08 "wikilink")』（2009年2月16日）
+  - Bank Band with Great Artists『[ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")』（2010年4月21日）
+  - Bank Band with Great Artists『[ap bank fes '10](https://ja.wikipedia.org/wiki/ap_bank_fes_'10 "wikilink")』（2011年7月6日）
+  - [サカノウエヨースケ](https://ja.wikipedia.org/wiki/サカノウエヨースケ "wikilink")『[AND](https://ja.wikipedia.org/wiki/AND_\(サカノウエヨースケのアルバム\) "wikilink")』（2012年6月20日）
+      -
+        6\. スーパーノヴァ feat. GAKU-MC
+  - [A.F.R.O](https://ja.wikipedia.org/wiki/A.F.R.O "wikilink")『7th』（2015年8月26日）
+      -
+        12\. トライ＆エラー feat. GAKU-MC
 
 ### 作詞提供
 
-  - [藤井隆](../Page/藤井隆.md "wikilink")
-      - デビュー曲「[ナンダカンダ](https://ja.wikipedia.org/wiki/ナンダカンダ "wikilink")」、2ndシングル「アイモカワラズ」
+  - [藤井隆](../Page/藤井隆.md "wikilink")「[ナンダカンダ](https://ja.wikipedia.org/wiki/ナンダカンダ "wikilink")」「アイモカワラズ」
   - [大山百合香](../Page/大山百合香.md "wikilink")「春色」※作詞提供
   - [メロフロート](https://ja.wikipedia.org/wiki/メロフロート "wikilink")「夢のカケラ」
 
@@ -180,6 +192,10 @@
 | [春山DAVID祥一](https://ja.wikipedia.org/wiki/春山DAVID祥一 "wikilink")                        | 「スタートライン」                                                                                                                                                                                                                                     |
 | [ふじまるとあかね](https://ja.wikipedia.org/wiki/ふじまるとあかね "wikilink")                          | 「夢の叶え方」                                                                                                                                                                                                                                       |
 | [吉岡天平](https://ja.wikipedia.org/wiki/吉岡天平 "wikilink")                                  | 「ラッシュアワー」                                                                                                                                                                                                                                     |
+| [戸塚富士丸](https://ja.wikipedia.org/wiki/戸塚富士丸 "wikilink")                                | 「LIFE IS A JOURNEY」                                                                                                                                                                                                                           |
+| [松永エイゾー](https://ja.wikipedia.org/wiki/松永エイゾー "wikilink")                              | 「トラベラーズソング」                                                                                                                                                                                                                                   |
+| [松永光明](https://ja.wikipedia.org/wiki/松永光明 "wikilink")                                  | 「ついてない１日の終わりに」「オクスルコトナク」「家族日和」「その先へ行こう feat. KEI (きっとラット)」                                                                                                                                                                                    |
+| [チェンコ塚越](https://ja.wikipedia.org/wiki/塚越規 "wikilink")                                 | 「グッジョブ」                                                                                                                                                                                                                                       |
 | 不明                                                                                     | 「[クロール](https://www.youtube.com/watch?v=lH9vCZd2HEI)」「[ハタラコウ](https://www.youtube.com/watch?v=HiLwc2Eii3c)」「[昨日のNo,明日のYes](https://www.youtube.com/watch?v=8GfIEw7a_os)」「僕は僕でだれかじゃない」「[スタートライン](https://www.youtube.com/watch?v=xc-o1t2mO7M)」 |
 |                                                                                        |                                                                                                                                                                                                                                               |
 

@@ -1,4 +1,4 @@
-> この記事は[COMIC](https://ja.wikipedia.org/wiki/COMIC)から翻訳されています。
+> この記事は[COMICパピポ](https://ja.wikipedia.org/wiki/COMICパピポ)から翻訳されています。
 
 
 『**COMICパピポ**』（コミックパピポ）は、かつて[フランス書院](../Page/フランス書院.md "wikilink")が発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[成人向け](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")。

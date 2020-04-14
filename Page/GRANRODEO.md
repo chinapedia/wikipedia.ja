@@ -59,7 +59,7 @@
 | 初回限定盤 | 通常盤                                        | アニメ盤                                                                                        |              |            |
 | 1st   | 2005年11月23日                                | **[Go For It\!](../Page/Go_For_It!.md "wikilink")**                                         |              | LACM-4230  |
 | 2nd   | 2006年7月26日                                 | **[Infinite Love](../Page/Infinite_Love.md "wikilink")**                                    | LACM-4765    | 43位        |
-| 3rd   | 2006年8月23日                                 | **[DECADENCE](../Page/DECADENCE.md "wikilink")**                                            | LACM-4285    | 83位        |
+| 3rd   | 2006年8月23日                                 | **[DECADENCE](https://ja.wikipedia.org/wiki/DECADENCE_\(GRANRODEOの曲\) "wikilink")**         | LACM-4285    | 83位        |
 | 4th   | 2007年1月24日                                 | **[慟哭ノ雨](../Page/慟哭ノ雨.md "wikilink")**                                                      | LACM-4336    | 33位        |
 | 5th   | 2007年5月23日                                 | **[HEAVEN](../Page/HEAVEN_\(GRANRODEOの曲\).md "wikilink")**                                  | LACM-4369    | 36位        |
 | 6th   | 2007年12月26日                                | **[delight song](https://ja.wikipedia.org/wiki/delight_song "wikilink")**                   | LACM-4446    | 34位        |
@@ -90,11 +90,11 @@
 
 #### コラボシングル
 
-| 発売日         | タイトル                                                                | 名義                                           | 規格品番        | 最高位         |
-| ----------- | ------------------------------------------------------------------- | -------------------------------------------- | ----------- | ----------- |
-| 初回限定盤       | 通常盤                                                                 | アニメ盤                                         |             |             |
-| 2014年11月26日 | **[7 -seven-](https://ja.wikipedia.org/wiki/7_-seven- "wikilink")** | [FLOW](../Page/FLOW.md "wikilink")×GRANRODEO | KSCL-2513/4 | KSCL-2515   |
-| 2018年1月24日  | **Howling**                                                         | KSCL-3013/4                                  | KSCL-3015   | KSCL-3016/7 |
+| 発売日         | タイトル                                                                      | 名義                                           | 規格品番        | 最高位         |
+| ----------- | ------------------------------------------------------------------------- | -------------------------------------------- | ----------- | ----------- |
+| 初回限定盤       | 通常盤                                                                       | アニメ盤                                         |             |             |
+| 2014年11月26日 | **[7 -seven-](https://ja.wikipedia.org/wiki/7_-seven-_\(曲\) "wikilink")** | [FLOW](../Page/FLOW.md "wikilink")×GRANRODEO | KSCL-2513/4 | KSCL-2515   |
+| 2018年1月24日  | **Howling**                                                               | KSCL-3013/4                                  | KSCL-3015   | KSCL-3016/7 |
 
 ### アルバム
 
@@ -1025,7 +1025,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2008〜2018
+  - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2008〜2018,2020
   - [ANIMAX MUSIX](https://ja.wikipedia.org/wiki/ANIMAX_MUSIX "wikilink") FALL 2010,2011,2012,2013,2014,2016,2018 OSAKA, 2018 YOKOHAMA
   - [FLOW](../Page/FLOW.md "wikilink") THE PARTY 2013,2014
   - [ランティス祭り](https://ja.wikipedia.org/wiki/ランティス祭り "wikilink") 2009,2014,2019
@@ -1148,7 +1148,7 @@
   - [GRANRODEO | Artist | Lantis web site](https://www.lantis.jp/artist/granrodeo/)
   - [GRANRODEO オフィシャルブログ | LINE公式ブログ](https://lineblog.me/granrodeo/)
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:声優バンド](https://ja.wikipedia.org/wiki/Category:声優バンド "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink")
 
 1.  サブレーベルを含む。
 2.

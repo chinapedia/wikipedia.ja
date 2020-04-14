@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOペイメントゲートウェイ](https://ja.wikipedia.org/wiki/GMOペイメントゲートウェイ)から翻訳されています。
 
 
 |略称 = GMO-PG |国籍 =  |郵便番号 = 150-0043 |本社所在地 = [東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")道玄坂1-14-6

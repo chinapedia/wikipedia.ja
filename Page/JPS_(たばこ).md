@@ -1,4 +1,4 @@
-> この記事は[JPS \(\)](https://ja.wikipedia.org/wiki/JPS_\(\))から翻訳されています。
+> この記事は[JPS \(たばこ\)](https://ja.wikipedia.org/wiki/JPS_\(たばこ\))から翻訳されています。
 
 
 **ジョン・プレイヤー・スペシャル** (**John Player Special**) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インペリアル・ブランズ](https://ja.wikipedia.org/wiki/インペリアル・ブランズ "wikilink")が生産・販売する[たばこ](../Page/たばこ.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である\[1\]\[2\]。略称は**JPS**（ジェー・ピー・エス）。その他[香水](../Page/香水.md "wikilink")、[シャンプー](../Page/シャンプー.md "wikilink")、[洋服](../Page/洋服.md "wikilink")、[腕時計](../Page/腕時計.md "wikilink")、[ウイスキー](../Page/ウイスキー.md "wikilink")なども販売されている。

@@ -1,4 +1,4 @@
-> この記事は[Birthday eve ](https://ja.wikipedia.org/wiki/Birthday_eve_)から翻訳されています。
+> この記事は[Birthday eve 〜誰よりも早い愛の歌〜](https://ja.wikipedia.org/wiki/Birthday_eve_〜誰よりも早い愛の歌〜)から翻訳されています。
 
 
 「**Birthday eve〜誰よりも早い愛の歌〜**」（バースデイ・イヴ だれよりもはやいあいのうた）は、[DEEN](../Page/DEEN.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。PVには麻生久美子が出演している。

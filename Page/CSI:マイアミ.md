@@ -1,4 +1,4 @@
-> この記事は[CSI:](https://ja.wikipedia.org/wiki/CSI:)から翻訳されています。
+> この記事は[CSI:マイアミ](https://ja.wikipedia.org/wiki/CSI:マイアミ)から翻訳されています。
 
 
 『**CSI:マイアミ**』（） は[2002年](../Page/2002年.md "wikilink")から2012年まで[CBS](../Page/CBS.md "wikilink")で放映されていた[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）シリーズ。日本では、BSチャンネル[WOWOW](../Page/WOWOW.md "wikilink")とCSチャンネル[AXN](../Page/AXN.md "wikilink")が放送している。[CSI:科学捜査班](../Page/CSI:科学捜査班.md "wikilink")からの[スピンオフ作品](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")であり、[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[マイアミ](../Page/マイアミ.md "wikilink")を舞台に、最新[科学](../Page/科学.md "wikilink")を駆使した[鑑識捜査を用いて凶悪](https://ja.wikipedia.org/wiki/鑑識課 "wikilink")[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")に挑む、・科学捜査班\[1\]の活躍を描く。

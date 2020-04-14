@@ -244,6 +244,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.nintendo.co.jp/n08/bit_g/)
+  - [公式サイト](https://www.nintendo.co.jp/n08/bit_g/)
 
 [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")

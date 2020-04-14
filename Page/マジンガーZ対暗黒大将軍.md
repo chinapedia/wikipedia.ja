@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[マジンガーZ対暗黒大将軍](https://ja.wikipedia.org/wiki/マジンガーZ対暗黒大将軍)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -220,7 +220,7 @@
   - [ロボットガールズZ](https://ja.wikipedia.org/wiki/ロボットガールズZ "wikilink") - 第8・9話に暗黒大将軍をイメージした「暗黒大将軍子」が登場。また第7 - 9話ではゴーゴン大公と獣魔将軍も少女キャラクターになって登場。
   - [飛び出す立体映画イナズマン](https://ja.wikipedia.org/wiki/イナズマン#劇場版 "wikilink") - 同年春の『まんがまつり』で公開。本作同様TVシリーズに先駆けて、新たな敵の登場と、それに伴うヒーロー側のパワーアップが行われている。
 
-[Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:1974年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1974年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink")
+[Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:1974年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1974年のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink")
 
 1.
 2.  TV版『グレートマジンガー』では、ヌケは加藤修、ムチャは[緒方賢一](../Page/緒方賢一.md "wikilink")がそれぞれ担当。この後『[UFOロボ グレンダイザー](../Page/UFOロボ_グレンダイザー.md "wikilink")』第14・31話でボスと共に再登場した際、ヌケとムチャの担当はそれぞれ富田と田の中に戻るが、映画ではムチャは『決戦\! 大海獣』まで緒方が担当、ヌケは『グレート対ゲッター』まで加藤が担当後、『決戦\! 大海獣』では[鈴木泰明](../Page/鈴木泰明.md "wikilink")が担当する。

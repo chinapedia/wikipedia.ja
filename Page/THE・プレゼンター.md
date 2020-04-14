@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THE・プレゼンター](https://ja.wikipedia.org/wiki/THE・プレゼンター)から翻訳されています。
 
 
 『**THE・プレゼンター**』（ザ・プレゼンター）は、[1992年](../Page/1992年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")まで[TBS系列局が編成していた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。編成時間は毎週日曜 19:30 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

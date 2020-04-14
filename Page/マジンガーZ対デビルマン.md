@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[マジンガーZ対デビルマン](https://ja.wikipedia.org/wiki/マジンガーZ対デビルマン)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -165,7 +165,7 @@
 
   - [デビルマン対ゲッターロボ](https://ja.wikipedia.org/wiki/デビルマン対ゲッターロボ "wikilink") - 永井豪の漫画作品。雑誌掲載時、本作の前日談とされていた。
 
-[Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:デビルマン](https://ja.wikipedia.org/wiki/Category:デビルマン "wikilink") [Category:1973年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1973年のアニメ映画 "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:テレビ朝日系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:悪魔を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした映画作品 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink")
+[Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:デビルマン](https://ja.wikipedia.org/wiki/Category:デビルマン "wikilink") [Category:1973年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1973年のアニメ映画 "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:テレビ朝日系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:悪魔を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:悪魔を題材とした映画作品 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink")
 
 1.
 2.

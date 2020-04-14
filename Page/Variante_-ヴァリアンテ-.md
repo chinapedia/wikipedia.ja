@@ -1,4 +1,4 @@
-> この記事は[Variante --](https://ja.wikipedia.org/wiki/Variante_--)から翻訳されています。
+> この記事は[Variante -ヴァリアンテ-](https://ja.wikipedia.org/wiki/Variante_-ヴァリアンテ-)から翻訳されています。
 
 
 『**Variante-ヴァリアンテ-**』は、[杉基イクラ](../Page/杉基イクラ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。2004年から2006年まで、『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）で連載されていた。単行本は全4巻。

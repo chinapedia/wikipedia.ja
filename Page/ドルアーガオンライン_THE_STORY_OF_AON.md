@@ -1,4 +1,4 @@
-> この記事は[ THE STORY OF AON](https://ja.wikipedia.org/wiki/_THE_STORY_OF_AON)から翻訳されています。
+> この記事は[ドルアーガオンライン THE STORY OF AON](https://ja.wikipedia.org/wiki/ドルアーガオンライン_THE_STORY_OF_AON)から翻訳されています。
 
 
 『**ドルアーガオンライン ザ・ストーリー・オブ・オーン**』(*DRUAGA ONLINE THE STORY OF AON*) は、日本で2006年4月4日から正式稼働した[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（ナムコレーベル）の[業務用](../Page/アーケードゲーム.md "wikilink")[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。「[バビロニアン・キャッスル・サーガ](../Page/バビロニアン・キャッスル・サーガ.md "wikilink")」を題材とし、ネットワークを通じて最大4人による協力プレイが可能な[MORPG](../Page/MORPG.md "wikilink")である。

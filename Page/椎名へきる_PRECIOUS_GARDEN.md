@@ -1,7 +1,7 @@
-> この記事は[ PRECIOUS GARDEN](https://ja.wikipedia.org/wiki/_PRECIOUS_GARDEN)から翻訳されています。
+> この記事は[椎名へきる PRECIOUS GARDEN](https://ja.wikipedia.org/wiki/椎名へきる_PRECIOUS_GARDEN)から翻訳されています。
 
 
-**椎名へきる PRECIOUS GARDEN**（しいなへきるプレシャスガーデン）は[JFNが制作し](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、JFN系列29局でネットされていたラジオ番組。パーソナリティは[椎名へきる](../Page/椎名へきる.md "wikilink")。
+**椎名へきる PRECIOUS GARDEN**（しいなへきるプレシャスガーデン）は[JFNが制作し](../Page/全国FM放送協議会.md "wikilink")、JFN系列29局でネットされていたラジオ番組。パーソナリティは[椎名へきる](../Page/椎名へきる.md "wikilink")。
 
 ## パーソナリティ
 

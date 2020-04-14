@@ -1,4 +1,4 @@
-> この記事は[EVE](https://ja.wikipedia.org/wiki/EVE)から翻訳されています。
+> この記事は[EVE★少女のたまご★](https://ja.wikipedia.org/wiki/EVE★少女のたまご★)から翻訳されています。
 
 
 『**EVE★少女のたまご★**』（イブ・しょうじょのたまご）は、[やぶうち優](../Page/やぶうち優.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

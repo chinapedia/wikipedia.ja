@@ -1,4 +1,4 @@
-> この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
+> この記事は[USBハブ](https://ja.wikipedia.org/wiki/USBハブ)から翻訳されています。
 
 
 [Sanwa_supply_USB-HUB217BK.png](https://ja.wikipedia.org/wiki/File:Sanwa_supply_USB-HUB217BK.png "fig:Sanwa_supply_USB-HUB217BK.png")製）\]\] **USBハブ**（ユーエスビー ハブ）とは、[USB機器を複数接続するための](../Page/ユニバーサル・シリアル・バス.md "wikilink")[ハブである](../Page/ハブ_\(ネットワーク機器\).md "wikilink")。

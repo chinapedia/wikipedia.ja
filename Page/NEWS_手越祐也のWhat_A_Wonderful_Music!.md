@@ -1,4 +1,4 @@
-> この記事は[NEWS What A Wonderful Music!](https://ja.wikipedia.org/wiki/NEWS_What_A_Wonderful_Music!)から翻訳されています。
+> この記事は[NEWS 手越祐也のWhat A Wonderful Music!](https://ja.wikipedia.org/wiki/NEWS_手越祐也のWhat_A_Wonderful_Music!)から翻訳されています。
 
 
 『**NEWS 手越祐也のWhat A Wonderful Music\!**』（ニュース てごしゆうやのワット・ア・ワンダフル・ミュージック）は、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[手越祐也](../Page/手越祐也.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[FM NACK5の](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2005年](../Page/2005年.md "wikilink")4月4日に開始し[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に終了するまで、毎週月曜日夜11時30分 - 0時00分に放送された。

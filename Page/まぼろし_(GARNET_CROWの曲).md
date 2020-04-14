@@ -1,4 +1,4 @@
-> この記事は[ \(GARNET CROW\)](https://ja.wikipedia.org/wiki/_\(GARNET_CROW\))から翻訳されています。
+> この記事は[まぼろし \(GARNET CROWの曲\)](https://ja.wikipedia.org/wiki/まぼろし_\(GARNET_CROWの曲\))から翻訳されています。
 
 
 『**まぼろし**』は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に発売された。

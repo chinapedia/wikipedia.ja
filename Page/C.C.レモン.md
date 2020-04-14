@@ -1,4 +1,4 @@
-> この記事は[C.C.](https://ja.wikipedia.org/wiki/C.C.)から翻訳されています。
+> この記事は[C.C.レモン](https://ja.wikipedia.org/wiki/C.C.レモン)から翻訳されています。
 
 
 **C.C.レモン**（C.C. Lemon）は、[サントリーフーズ](../Page/サントリーフーズ.md "wikilink")（[サントリー食品インターナショナル](https://ja.wikipedia.org/wiki/サントリー食品インターナショナル "wikilink")）が販売する[ソフトドリンク](../Page/ソフトドリンク.md "wikilink")である。

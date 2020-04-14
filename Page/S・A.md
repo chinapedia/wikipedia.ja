@@ -1,4 +1,4 @@
-> この記事は[SA](https://ja.wikipedia.org/wiki/SA)から翻訳されています。
+> この記事は[S・A](https://ja.wikipedia.org/wiki/S・A)から翻訳されています。
 
 
 『**S・A**』（スペシャル・エー）は、[南マキ](../Page/南マキ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品。

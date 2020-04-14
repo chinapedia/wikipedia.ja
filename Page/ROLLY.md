@@ -294,6 +294,7 @@
 <!-- end list -->
 
   - 木村の兄さん（[UMEZZ](../Page/楳図かずお.md "wikilink")）
+  - 僕等のセンチュリー ([ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink"))
 
 ### 著書
 

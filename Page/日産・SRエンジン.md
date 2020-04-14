@@ -1,4 +1,4 @@
-> この記事は[SR](https://ja.wikipedia.org/wiki/SR)から翻訳されています。
+> この記事は[日産・SRエンジン](https://ja.wikipedia.org/wiki/日産・SRエンジン)から翻訳されています。
 
 
 **SRエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[自動車](../Page/自動車.md "wikilink")用[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。現在は、[排出ガス規制等の関係で](../Page/自動車排出ガス規制.md "wikilink")、後継の[QRエンジンへと切り替わっている](../Page/日産・QRエンジン.md "wikilink")。

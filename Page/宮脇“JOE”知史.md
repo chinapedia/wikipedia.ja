@@ -1,4 +1,4 @@
-> この記事は[JOE](https://ja.wikipedia.org/wiki/JOE)から翻訳されています。
+> この記事は[宮脇“JOE”知史](https://ja.wikipedia.org/wiki/宮脇“JOE”知史)から翻訳されています。
 
 
 **宮脇“JOE”知史**（みやわき ジョー さとし、[1964年](../Page/1964年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")（[ドラマー](../Page/ドラマー.md "wikilink")）。[京都府](../Page/京都府.md "wikilink")出身。既婚。

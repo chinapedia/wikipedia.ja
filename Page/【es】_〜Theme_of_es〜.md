@@ -1,4 +1,4 @@
-> この記事は[es Theme of es](https://ja.wikipedia.org/wiki/es_Theme_of_es)から翻訳されています。
+> この記事は[【es】 〜Theme of es〜](https://ja.wikipedia.org/wiki/【es】_〜Theme_of_es〜)から翻訳されています。
 
 
 「**【es】 〜Theme of es〜**」（エス テーマ オブ エス）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売\[1\]。
@@ -6,8 +6,11 @@
 ## 概要
 
 前作から約5ヶ月ぶりのシングルとなるが、この間に[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と[桑田佳祐\&Mr.Children](../Page/桑田佳祐&Mr.Children.md "wikilink")名義でコラボレーションシングル「[奇跡の地球](../Page/奇跡の地球.md "wikilink")」をリリースしている。
+
 4thシングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」から5作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。初週で52.1万枚。累計売上は157.2万枚。
+
 本作の発売日がデビュー3周年であった。
+
 アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
 ## 収録曲
@@ -30,10 +33,6 @@
         このバージョンは映画『【es】Mr.Children in FILM』でも確認できるように、『Mr.Children '94 tour innocent world』でのライヴバージョンとして製作されたもので、元々音源化する予定はなかったが、映画内で使用されていることや、このバージョンが好評であったことなどから収録された。
         ライヴでは寸劇スタイルを取り、実際に生演奏されるのは最後の2分半ほどで、それまではほぼテープ演奏によるものである。寸劇内容は歌詞の内容をそのまま表現したもの。
 
-## 脚注
-
-<references />
-
 ## カバー
 
   - [マリエ・ディグビー](https://ja.wikipedia.org/wiki/マリエ・ディグビー "wikilink") - 『[Second Home](https://ja.wikipedia.org/wiki/Second_Home "wikilink")』（2009年）の11曲目に収録。
@@ -47,6 +46,8 @@
   - 『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』(\#2、原曲)
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』(\#2)
 
-[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+## 脚注
+
+[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  英文社名の頭文字「**t**」を図案化した現在のロゴマークになってから初のシングル。

@@ -1,4 +1,4 @@
-> この記事は[COMPACT](https://ja.wikipedia.org/wiki/COMPACT)から翻訳されています。
+> この記事は[スーパーロボット大戦COMPACT](https://ja.wikipedia.org/wiki/スーパーロボット大戦COMPACT)から翻訳されています。
 
 
 『**スーパーロボット大戦COMPACT**』（スーパーロボットたいせんコンパクト）、『**スーパーロボット大戦COMPACT for WonderSwanColor**』は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

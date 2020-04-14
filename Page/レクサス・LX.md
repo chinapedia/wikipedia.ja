@@ -1,4 +1,4 @@
-> この記事は[LX](https://ja.wikipedia.org/wiki/LX)から翻訳されています。
+> この記事は[レクサス・LX](https://ja.wikipedia.org/wiki/レクサス・LX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Lexus_LX_570_IMG_0467.jpg "wikilink") **LX**（エルエックス, Lexus LX）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売するフラッグシップSUVである。

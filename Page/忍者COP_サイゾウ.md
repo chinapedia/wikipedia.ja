@@ -1,4 +1,4 @@
-> この記事は[COP ](https://ja.wikipedia.org/wiki/COP_)から翻訳されています。
+> この記事は[忍者COP サイゾウ](https://ja.wikipedia.org/wiki/忍者COP_サイゾウ)から翻訳されています。
 
 
 『**忍者COP サイゾウ**』（にんじゃコップ サイゾウ）は、[1989年](../Page/1989年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に九娯貿易より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用の[アクションゲーム](../Page/アクションゲーム.md "wikilink")。日本国外でも発売されており、日本国外版のタイトルは『*Wrath of the Black Manta*』。

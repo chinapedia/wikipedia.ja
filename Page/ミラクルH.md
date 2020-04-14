@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ミラクルH](https://ja.wikipedia.org/wiki/ミラクルH)から翻訳されています。
 
 
 『**ミラクルH**』（ミラクルヒロイン）は、[2006年](../Page/2006年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された[深夜](../Page/深夜番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で、『ヒロインシリーズ』の第4弾。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組。製作協力は[MAGMA](https://ja.wikipedia.org/wiki/MAGMA_\(テレビ製作会社\) "wikilink")。

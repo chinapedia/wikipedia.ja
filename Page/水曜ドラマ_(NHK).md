@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[水曜ドラマ \(NHK\)](https://ja.wikipedia.org/wiki/水曜ドラマ_\(NHK\))から翻訳されています。
 
 
 『**水曜ドラマ**』（すいようドラマ）は、かつて[NHK総合テレビが編成していた連続](../Page/NHK総合テレビジョン.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠である。

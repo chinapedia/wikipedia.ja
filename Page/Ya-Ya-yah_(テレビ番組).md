@@ -1,4 +1,4 @@
-> この記事は[Ya-Ya-yah \(\)](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(\))から翻訳されています。
+> この記事は[Ya-Ya-yah \(テレビ番組\)](https://ja.wikipedia.org/wiki/Ya-Ya-yah_\(テレビ番組\))から翻訳されています。
 
 
 『**Ya-Ya-yah**』（ヤーヤーヤー）は、[テレビ東京系列局と一部](https://ja.wikipedia.org/wiki/TXN "wikilink")[独立UHF局で放送された](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[1\]。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[2003年](../Page/2003年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")まで放送。

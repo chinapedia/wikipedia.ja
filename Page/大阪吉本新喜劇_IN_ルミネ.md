@@ -1,4 +1,4 @@
-> この記事は[ IN ](https://ja.wikipedia.org/wiki/_IN_)から翻訳されています。
+> この記事は[大阪吉本新喜劇 IN ルミネ](https://ja.wikipedia.org/wiki/大阪吉本新喜劇_IN_ルミネ)から翻訳されています。
 
 
 **大阪吉本新喜劇 IN ルミネ**（おおさかよしもとしんきげき イン ルミネ）は、[ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")の番組。[ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")で上演される大阪メンバーによる[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")の舞台中継である。月1本程度新作が放送される。放送日は不定。
@@ -374,7 +374,8 @@
 ## 外部リンク
 
   - [ヨシモトファンダンゴTV](https://web.archive.org/web/20051127013356/http://www.fandango.co.jp/yftv/)
-  - [吉本新喜劇オフィシャルサイト](http://www.yoshimoto.co.jp/shinkigeki/) - オリジナル版の情報がある。
-  - [ルミネtheよしもと 公式サイト](http://www.fandango.co.jp/lumine/)
 
+  - [吉本新喜劇オフィシャルサイト](http://www.yoshimoto.co.jp/shinkigeki/) - オリジナル版の情報がある。
+
+  -
 [Category:ヨシモトファンダンゴTVの番組](https://ja.wikipedia.org/wiki/Category:ヨシモトファンダンゴTVの番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink")

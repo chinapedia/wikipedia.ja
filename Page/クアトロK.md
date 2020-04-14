@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[クアトロK](https://ja.wikipedia.org/wiki/クアトロK)から翻訳されています。
 
 
 **クアトロK**（**Quattro K**）は、[2006年](../Page/2006年.md "wikilink")の[横浜ベイスターズにおける](../Page/横浜DeNAベイスターズ.md "wikilink")4名の救援投手（木塚・川村・加藤・クルーン）を指す総称。「クアトロ」は「**4**」を意味する[イタリア語](../Page/イタリア語.md "wikilink")（quattro）で、「クワトロ」とも呼ばれるが、球団公式の表記は「クアトロ」である\[1\]。

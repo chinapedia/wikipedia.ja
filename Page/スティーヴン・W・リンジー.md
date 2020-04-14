@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[スティーヴン・W・リンジー](https://ja.wikipedia.org/wiki/スティーヴン・W・リンジー)から翻訳されています。
 
 
 **スティーヴン・ウェイン・リンジー**（Steven Wayne Lindsey、[1960年](../Page/1960年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")-）は、[アメリカの宇宙飛行士](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

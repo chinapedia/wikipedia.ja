@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[リッジレーサーV](https://ja.wikipedia.org/wiki/リッジレーサーV)から翻訳されています。
 
 
 『**リッジレーサーV**』（リッジレーサーファイブ、*RIDGE RACER V*）とは、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から発売された[レースゲーム](../Page/レースゲーム.md "wikilink")。単に『**リッジV**』とも\[1\]、『**RRV**』とも\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[23degrees](https://ja.wikipedia.org/wiki/23degrees)から翻訳されています。
+> この記事は[23degrees。](https://ja.wikipedia.org/wiki/23degrees。)から翻訳されています。
 
 
 『**23degrees。**』（トゥエンティースリーディグリース）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の2枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。

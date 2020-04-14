@@ -1,4 +1,4 @@
-> この記事は[ minapita](https://ja.wikipedia.org/wiki/_minapita)から翻訳されています。
+> この記事は[南海グループカード minapita](https://ja.wikipedia.org/wiki/南海グループカード_minapita)から翻訳されています。
 
 
 **南海グループカード minapita**（なんかいグループカード ミナピタ）は、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）が発行している[PiTaPa](../Page/PiTaPa.md "wikilink")対応の2枚セットの[ICカード](../Page/ICカード.md "wikilink")である。単に**ミナピタカード**や**ミナピタ**と呼ばれていることが多いが、[NATTS](../Page/NATTS.md "wikilink")内の「南海ニュース」とHPのプレスリリース上では「南海グループカード minapita」と、正式名で表記されている。以下、minapitaと表記する。本利用開始は[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")。ロゴはminapitaの文字と後述の[minamoと同色の丸を採用している](https://ja.wikipedia.org/wiki/#イメージキャラクター "wikilink")。キャッチフレーズは「ミナミで買う+PiTaPaで乗る＝minapita」と「ミナミで『買う』+『乗る』=『得する』」。[泉北高速鉄道](../Page/泉北高速鉄道.md "wikilink")の各駅にも、同カードの発行手続き用紙を設置している。姉妹カードとして[KANKU CLUBカードがある](../Page/KANKU_CLUBカード.md "wikilink")。

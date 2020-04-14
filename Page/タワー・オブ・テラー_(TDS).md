@@ -1,4 +1,4 @@
-> この記事は[ \(TDS\)](https://ja.wikipedia.org/wiki/_\(TDS\))から翻訳されています。
+> この記事は[タワー・オブ・テラー \(TDS\)](https://ja.wikipedia.org/wiki/タワー・オブ・テラー_\(TDS\))から翻訳されています。
 
 
 <div class="pathnavbox">

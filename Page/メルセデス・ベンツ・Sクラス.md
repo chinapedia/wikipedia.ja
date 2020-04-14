@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Sクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Sクラス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_W_222_S_350_Bluetec.JPG "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:S-Klasse_S63_AMG_\(11211092905\).jpg "wikilink") **メルセデス・ベンツ・Sクラス**（*Mercedes-Benz S-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[高級](../Page/高級車.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。[Fセグメント](../Page/Fセグメント.md "wikilink")に属し、同ブランドの[フラグシップモデルである](../Page/フラグシップ機.md "wikilink")。現行モデルにおいては、[セダン](../Page/セダン.md "wikilink")および[クーペ](../Page/クーペ.md "wikilink")（[Sクラスクーペ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Sクラスクーペ "wikilink")）、[リムジン](../Page/リムジン.md "wikilink")（[メルセデス・マイバッハ・Sクラス](https://ja.wikipedia.org/wiki/マイバッハ_#2代目モデル "wikilink")）を用意し、さらに、メルセデス・ベンツとしては44年ぶりとなるラグジュアリー4シーターオープンモデルとして[カブリオレ](../Page/オープンカー.md "wikilink")（Sクラスカブリオレ）が2016年6月2日に発表された\[1\]。

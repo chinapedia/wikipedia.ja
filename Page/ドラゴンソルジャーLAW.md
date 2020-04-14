@@ -1,4 +1,4 @@
-> この記事は[LAW](https://ja.wikipedia.org/wiki/LAW)から翻訳されています。
+> この記事は[ドラゴンソルジャーLAW](https://ja.wikipedia.org/wiki/ドラゴンソルジャーLAW)から翻訳されています。
 
 
 **ドラゴンソルジャーLAW**（[1974年](../Page/1974年.md "wikilink")（昭和49年）[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")生まれの元プロレスラー。

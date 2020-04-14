@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOメディア](https://ja.wikipedia.org/wiki/GMOメディア)から翻訳されています。
 
 
 **GMOメディア株式会社**（ジーエムオーメディア、英名：GMO Media Inc.）は、インターネットメディア事業、デジタルコンテンツ提供事業を行う、[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの企業である。ポイント評議会 (JIPC)（2007年2月15日設立）理事。
@@ -137,7 +137,7 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
   - [teacup.ブログ AutoPage](https://autopage.teacup.com/)
   - [ヤプログ](https://www.yaplog.jp/)
 
-[Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:東証マザーズ上場企業](https://ja.wikipedia.org/wiki/Category:東証マザーズ上場企業 "wikilink") [Category:2015年上場の企業](https://ja.wikipedia.org/wiki/Category:2015年上場の企業 "wikilink")
+[Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:日本のインターネット企業‎](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業‎ "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:東証マザーズ上場企業](https://ja.wikipedia.org/wiki/Category:東証マザーズ上場企業 "wikilink") [Category:2015年上場の企業](https://ja.wikipedia.org/wiki/Category:2015年上場の企業 "wikilink")
 
 1.  [teacup.ブログ AutoPage](https://autopage.teacup.com/)
 2.

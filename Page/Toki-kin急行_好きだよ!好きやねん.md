@@ -1,4 +1,4 @@
-> この記事は[Toki-kin !](https://ja.wikipedia.org/wiki/Toki-kin_!)から翻訳されています。
+> この記事は[Toki-kin急行 好きだよ!好きやねん](https://ja.wikipedia.org/wiki/Toki-kin急行_好きだよ!好きやねん)から翻訳されています。
 
 
 『**Toki-Kin急行 好きだよ\!好きやねん**』（トキキンきゅうこう すきだよ すきやねん）は、[1996年](../Page/1996年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[水曜](../Page/水曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

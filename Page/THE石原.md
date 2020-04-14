@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THE石原](https://ja.wikipedia.org/wiki/THE石原)から翻訳されています。
 
 
 **THE石原**（ザ・いしはら、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピン芸人](../Page/ピン芸人.md "wikilink")。本名、**石原 正**（いしはら ただし）。旧芸名は**ハイテンション石原**（ハイテンションいしはら）。

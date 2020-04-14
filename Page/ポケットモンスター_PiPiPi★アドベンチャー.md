@@ -1,4 +1,4 @@
-> この記事は[ PiPiPi](https://ja.wikipedia.org/wiki/_PiPiPi)から翻訳されています。
+> この記事は[ポケットモンスター PiPiPi★アドベンチャー](https://ja.wikipedia.org/wiki/ポケットモンスター_PiPiPi★アドベンチャー)から翻訳されています。
 
 
 『**ポケットモンスター PiPiPi★アドベンチャー**』（ポケットモンスター ぴぴぴ・アドベンチャー）は、「[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")」からの[スピンオフ](../Page/スピンオフ.md "wikilink")作品（[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")）。[小学館](../Page/小学館.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』に連載された。[月梨野ゆみ作画](../Page/つきりのゆみ.md "wikilink")。全10巻。

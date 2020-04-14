@@ -1,4 +1,4 @@
-> この記事は[Akiba](https://ja.wikipedia.org/wiki/Akiba)から翻訳されています。
+> この記事は[ヨドバシAkiba](https://ja.wikipedia.org/wiki/ヨドバシAkiba)から翻訳されています。
 
 
 **ヨドバシAkiba**（ヨドバシアキバ、[英称](../Page/英語.md "wikilink")：*Yodobashi-Akiba*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田花岡町](../Page/神田花岡町.md "wikilink")1番地1\[1\]（[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")前）にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。

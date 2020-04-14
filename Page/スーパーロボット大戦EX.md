@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[スーパーロボット大戦EX](https://ja.wikipedia.org/wiki/スーパーロボット大戦EX)から翻訳されています。
 
 
 『**スーパーロボット大戦EX**』（スーパーロボットたいせんイーエックス）は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

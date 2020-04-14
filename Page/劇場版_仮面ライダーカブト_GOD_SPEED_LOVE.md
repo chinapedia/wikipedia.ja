@@ -1,4 +1,4 @@
-> この記事は[  GOD SPEED LOVE](https://ja.wikipedia.org/wiki/__GOD_SPEED_LOVE)から翻訳されています。
+> この記事は[劇場版 仮面ライダーカブト GOD SPEED LOVE](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーカブト_GOD_SPEED_LOVE)から翻訳されています。
 
 
 『**劇場版 仮面ライダーカブト GOD SPEED LOVE**』（げきじょうばん かめんライダーカブト ゴッド スピード ラブ）は、[2006年](../Page/2006年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された、日本の映画作品。[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ『[平成](../Page/平成.md "wikilink")[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』の『[仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")』の劇場版作品にあたる。同時上映は『[轟轟戦隊ボウケンジャー THE MOVIE 最強のプレシャス](../Page/轟轟戦隊ボウケンジャー_THE_MOVIE_最強のプレシャス.md "wikilink")』。
@@ -96,7 +96,7 @@ PS2版『仮面ライダーカブト』では[塩野勝美](../Page/塩野勝美
   - ゼクトクナイガン
     ヘラクスとケタロスが標準携行している、3形態（ガン・アックス・クナイ）に変形する万能武器。ZECTにより開発され、カラーリング以外の外見や機能は[カブトクナイガンに準じたものとなっている](https://ja.wikipedia.org/wiki/仮面ライダーカブト#ツール "wikilink")。
   - ハイパーゼクター
-    バックルの左腰に装着するカブトムシ型昆虫コア。時間を自由に操る**ハイパークロックアップ**や、時空内の[タキオン粒子](https://ja.wikipedia.org/wiki/タキオン粒子 "wikilink")を無尽蔵に吸収し発動することでキック力を強化する**マキシマムライダーパワー**の発動を可能とする。劇中ではZECT本部直轄の切り札であるコーカサスにのみ支給されていた。その他の詳細は[仮面ライダーカブト\#ツール](https://ja.wikipedia.org/wiki/仮面ライダーカブト#ツール "wikilink")を参照。
+    バックルの左腰に装着するカブトムシ型昆虫コア。時間を自由に操る**ハイパークロックアップ**や、時空内の[タキオン粒子](https://ja.wikipedia.org/wiki/タキオン粒子 "wikilink")を無尽蔵に吸収し発動することでキック力を強化する**マキシマムライダーパワー**の発動を可能とする。劇中ではZECT本部直轄の切り札であるコーカサスにのみ支給されていた。その他の詳細は[仮面ライダーカブト\#仮面ライダーカブト](https://ja.wikipedia.org/wiki/仮面ライダーカブト#仮面ライダーカブト "wikilink")を参照。
   - マシンゼクトロン
     マスクドライダー専用の量産型バイク。劇中ではヘラクスとドレイクが使用する。基本スペックは[仮面ライダーカブト\#仮面ライダーザビー](https://ja.wikipedia.org/wiki/仮面ライダーカブト#仮面ライダーザビー "wikilink")を参照。
 
@@ -166,6 +166,20 @@ PS2版『仮面ライダーカブト』では[塩野勝美](../Page/塩野勝美
   - 山崎圭太
   - 飯澤友規
 
+#### ノンクレジット
+
+  - [佐藤賢一](../Page/佐藤賢一_\(俳優\).md "wikilink")
+  - [杉口秀樹](https://ja.wikipedia.org/wiki/杉口秀樹 "wikilink")
+  - [縄田雄哉](../Page/縄田雄哉.md "wikilink")
+  - 小林勇介
+  - [小野友紀](../Page/小野友紀.md "wikilink")
+  - [花川仁教](https://ja.wikipedia.org/wiki/花川仁教 "wikilink")
+  - 山口喜生
+  - 澤江晃史
+  - 渡邉昌宏
+  - [小倉敏博](../Page/おぐらとしひろ.md "wikilink")
+  - [佐藤義夫](https://ja.wikipedia.org/wiki/佐藤義夫 "wikilink")
+
 ## スタッフ
 
   - 原作 - [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
@@ -192,7 +206,7 @@ PS2版『仮面ライダーカブト』では[塩野勝美](../Page/塩野勝美
   - プロデュース - [白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")、[梶淳](../Page/梶淳.md "wikilink")（テレビ朝日）
   - 制作 - 劇場版『カブト・ボウケンジャー』製作委員会（東映、東映アニメーション、テレビ朝日、東映ビデオ、アサツー ディ・ケイ、東映エージエンシー、バンダイ）
   - 監督 - [石田秀範](../Page/石田秀範.md "wikilink")
-  - 配給 - 東映（ノンクレジット）
+  - 配給 - 東映
 
 ## 主題歌
 
@@ -266,7 +280,7 @@ PS2版『仮面ライダーカブト』では[塩野勝美](../Page/塩野勝美
   -
 ## 外部リンク
 
-  - [劇場版 仮面ライダーカブト GOD SPEED LOVE](https://web.archive.org/web/20060903115251/http://www.tv-asahi.co.jp:80/kabuto-movie/) (公式サイト、2006年9月3日アーカイブ分)
+  - （2006年9月3日アーカイブ分）
 
 [Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/Category:平成仮面ライダーシリーズ "wikilink") [Category:仮面ライダーカブト](https://ja.wikipedia.org/wiki/Category:仮面ライダーカブト "wikilink") [Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:テレビ朝日製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作の映画 "wikilink") [Category:東映アニメーションの映画作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションの映画作品 "wikilink") [Category:米村正二の脚本映画](https://ja.wikipedia.org/wiki/Category:米村正二の脚本映画 "wikilink") [Category:昆虫を題材とした映画](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした映画 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink") [Category:タイムトラベルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした映画作品 "wikilink") [Category:隕石を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:隕石を題材とした映画作品 "wikilink") [Category:宇宙を舞台としたSF映画](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF映画 "wikilink") [Category:ディストピア映画](https://ja.wikipedia.org/wiki/Category:ディストピア映画 "wikilink")
 

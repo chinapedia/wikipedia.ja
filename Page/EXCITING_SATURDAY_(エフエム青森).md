@@ -1,4 +1,4 @@
-> この記事は[EXCITING SATURDAY \(\)](https://ja.wikipedia.org/wiki/EXCITING_SATURDAY_\(\))から翻訳されています。
+> この記事は[EXCITING SATURDAY \(エフエム青森\)](https://ja.wikipedia.org/wiki/EXCITING_SATURDAY_\(エフエム青森\))から翻訳されています。
 
 
 **EXCITING SATURDAY**（エキサイティングサタデー、略称：エキサタ）は、[エフエム青森](../Page/エフエム青森.md "wikilink")で土曜夕方に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ここでは、「EXCITING SATURDAY」のほかに、この番組の続編といえる「エキサタ」関連の番組についても取り上げる。

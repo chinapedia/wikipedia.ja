@@ -1,4 +1,4 @@
-> この記事は[SUN](https://ja.wikipedia.org/wiki/SUN)から翻訳されています。
+> この記事は[ワンダブルSUNでぃ](https://ja.wikipedia.org/wiki/ワンダブルSUNでぃ)から翻訳されています。
 
 
 **ワンダブルSUNでぃ**（ワンダブルさんでぃ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元はSony Records（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

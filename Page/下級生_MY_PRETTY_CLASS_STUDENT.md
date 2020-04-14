@@ -1,4 +1,4 @@
-> この記事は[ MY PRETTY CLASS STUDENT](https://ja.wikipedia.org/wiki/_MY_PRETTY_CLASS_STUDENT)から翻訳されています。
+> この記事は[下級生 MY PRETTY CLASS STUDENT](https://ja.wikipedia.org/wiki/下級生_MY_PRETTY_CLASS_STUDENT)から翻訳されています。
 
 
 『**下級生 MY PRETTY CLASS STUDENT**』（かきゅうせい マイ・プリティ・クラス・スチューデント）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[ピンクパイナップル](../Page/ピンクパイナップル.md "wikilink")が発売した15禁[OVA](../Page/OVA.md "wikilink")（全4巻）、および同名の[ドラマCD](../Page/ドラマCD.md "wikilink")である。

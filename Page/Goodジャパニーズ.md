@@ -1,4 +1,4 @@
-> この記事は[Good](https://ja.wikipedia.org/wiki/Good)から翻訳されています。
+> この記事は[Goodジャパニーズ](https://ja.wikipedia.org/wiki/Goodジャパニーズ)から翻訳されています。
 
 
 『**Goodジャパニーズ**』（グッドジャパニーズ）は、[1992年](../Page/1992年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から同年[9月20日](../Page/9月20日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 19:30 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

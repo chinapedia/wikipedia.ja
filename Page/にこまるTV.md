@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[にこまるTV](https://ja.wikipedia.org/wiki/にこまるTV)から翻訳されています。
 
 
 『**にこまるTV**』（にこまるテレビ）は、[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送された[高松本社制作の](https://ja.wikipedia.org/wiki/高松市 "wikilink")[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。ただし、2000年4月から同年6月までは放送を休止していた（理由は後述）。通称『**にこテレ**』。タイトルは旧放送開始時間の「2時50分」にかけたもの。2006年12月1日から[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

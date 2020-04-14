@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[マーク・E・ケリー](https://ja.wikipedia.org/wiki/マーク・E・ケリー)から翻訳されています。
 
 
 **マーク・エドワード・ケリー**（Mark Edward Kelly、[1964年](../Page/1964年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - ）は、[アメリカの宇宙飛行士](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、海軍軍人。妻は[民主党所属の下院議員](../Page/民主党_\(アメリカ\).md "wikilink")[ガブリエル・ギフォーズ](https://ja.wikipedia.org/wiki/ガブリエル・ギフォーズ "wikilink")。双子の兄弟の[スコット・ケリー](https://ja.wikipedia.org/wiki/スコット・ケリー "wikilink")もNASAの宇宙飛行士である。

@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[メッセージ〜伝説のCMディレクター・杉山登志〜](https://ja.wikipedia.org/wiki/メッセージ〜伝説のCMディレクター・杉山登志〜)から翻訳されています。
 
 
 『**SHISEIDO PRESENTS テレビCMの日 スペシャルドラマ メッセージ〜伝説のCMディレクター・杉山登志〜**』（しせいどう プレゼンツ テレビシーエムのひ スペシャルドラマ メッセージ でんせつのシーエムディレクター すぎやまとし）は、[2006年](../Page/2006年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")（[月曜日](../Page/月曜日.md "wikilink")）の21:00 - 22:54に[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）の制作により[TBS系列で放送された単発の](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

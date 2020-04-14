@@ -1,4 +1,4 @@
-> この記事は[HANOKA](https://ja.wikipedia.org/wiki/HANOKA)から翻訳されています。
+> この記事は[HANOKA〜葉ノ香〜](https://ja.wikipedia.org/wiki/HANOKA〜葉ノ香〜)から翻訳されています。
 
 
 『**HANOKA〜葉ノ香〜**』（はのか）は、[2006年](../Page/2006年.md "wikilink")からCS放送局[キッズステーション](../Page/キッズステーション.md "wikilink")のアニメ情報番組[アニメぱらだいす\!](https://ja.wikipedia.org/wiki/アニメぱらだいす! "wikilink")内の一コーナーとして放送されていた[Flash](../Page/Adobe_Flash.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")作品。全12話。

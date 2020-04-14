@@ -1,4 +1,4 @@
-> この記事は[StrikerS](https://ja.wikipedia.org/wiki/StrikerS)から翻訳されています。
+> この記事は[魔法少女リリカルなのはStrikerS](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはStrikerS)から翻訳されています。
 
 
 『**魔法少女リリカルなのはStrikerS**』（まほうしょうじょリリカルなのはストライカーズ、英:*Magical girl lyrical Nanoha StrikerS*）は、[独立UHF系各局および](../Page/全国独立放送協議会.md "wikilink")[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で[2007年](../Page/2007年.md "wikilink")4月から9月にかけて全26話が放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品で、『[魔法少女リリカルなのはシリーズ](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")』の第3期作品。略称は『**StrikerS**』（ストライカーズ）。

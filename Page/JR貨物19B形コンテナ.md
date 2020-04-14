@@ -1,4 +1,4 @@
-> この記事は[JR19B](https://ja.wikipedia.org/wiki/JR19B)から翻訳されています。
+> この記事は[JR貨物19B形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19B形コンテナ)から翻訳されています。
 
 
 **JR貨物19B形コンテナ**（JRかもつ19Bがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が国鉄形コンテナを置き換える目的で[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）から配備した、12[ft](../Page/フィート.md "wikilink")[汎用](https://ja.wikipedia.org/wiki/汎用 "wikilink")コンテナである。

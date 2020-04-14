@@ -1,4 +1,4 @@
-> この記事は[GPZ1000RX](https://ja.wikipedia.org/wiki/GPZ1000RX)から翻訳されています。
+> この記事は[カワサキ・GPZ1000RX](https://ja.wikipedia.org/wiki/カワサキ・GPZ1000RX)から翻訳されています。
 
 
 **カワサキ・GPZ1000RX**（ジーピーゼットせんアールエックス）は、1986年から1988年までの間市販された[カワサキ](../Page/川崎重工業.md "wikilink")（[川崎重工業](../Page/川崎重工業.md "wikilink")）の[オートバイ](../Page/オートバイ.md "wikilink")、新世代[スポーツツアラーである](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\) "wikilink")。北米仕様は**NINJA1000R**。

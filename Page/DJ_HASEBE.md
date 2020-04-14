@@ -1,7 +1,7 @@
 > この記事は[DJ HASEBE](https://ja.wikipedia.org/wiki/DJ_HASEBE)から翻訳されています。
 
 
-**DJ HASEBE**（ディージェー・ハセベ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月](../Page/6月.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。OLD NICK名義でも活動。本名、長谷部 大助（はせべだいすけ）。
+**DJ HASEBE**（ディージェイ・ハセベ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月](../Page/6月.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。OLD NICK名義でも活動。本名、**長谷部 大助**（はせべ だいすけ）。
 
 ## ディスコグラフィ
 
@@ -315,7 +315,7 @@ LEXCD-12012</p></td>
 <li>natsuco</li>
 <li>サーファーガール feat. PES</li>
 <li>はじけてSunshine feat. bird</li>
-<li>サマデイ feat. SUSHIBOYS</li>
+<li>サマデイ feat. <a href="../Page/SUSHIBOYS.md" title="wikilink">SUSHIBOYS</a></li>
 <li>Lovely Day feat. FUKI</li>
 <li>Merry X’mas in Summer feat. PONY(SIS.LINC)</li>
 <li>Be My Baby feat. Yo-Sea</li>
@@ -622,8 +622,8 @@ LEXCD-12012</p></td>
 
 ## 外部リンク
 
-  - [DJ HASEBEのブログ](http://ameblo.jp/djhasebe/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [DJ HASEBEのブログ](https://ameblo.jp/djhasebe/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -
-[Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

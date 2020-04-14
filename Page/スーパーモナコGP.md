@@ -1,4 +1,4 @@
-> この記事は[GP](https://ja.wikipedia.org/wiki/GP)から翻訳されています。
+> この記事は[スーパーモナコGP](https://ja.wikipedia.org/wiki/スーパーモナコGP)から翻訳されています。
 
 
 『**スーパーモナコGP**』は、[1989年](../Page/1989年.md "wikilink")に[セガから稼働された](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")[アーケード用の](../Page/アーケードゲーム.md "wikilink")[F1をモチーフにした](../Page/フォーミュラ1.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。

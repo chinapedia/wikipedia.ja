@@ -1,4 +1,4 @@
-> この記事は[LINK \(\)](https://ja.wikipedia.org/wiki/LINK_\(\))から翻訳されています。
+> この記事は[LINK \(バンド\)](https://ja.wikipedia.org/wiki/LINK_\(バンド\))から翻訳されています。
 
 
 **LINK**（リンク）は[横浜市](../Page/横浜市.md "wikilink")出身の[ロックンロール](../Page/ロックンロール.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2006年[R and Cよりメジャーデビュー](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
@@ -25,6 +25,7 @@
 
 ### シングル
 
+  - SENSE OF JUSTICE
   - 6 SOUND MINDS IN 6 SOUND BODIES（2000年6月7日）[FROTRIP](https://ja.wikipedia.org/wiki/FROTRIP "wikilink")とのスプリットシングル
   - FLOWER OF THE SUN（2001年6月6日）
   - EARTHSICK（2002年1月10日）

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[源義経 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/源義経_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**源義経**』（みなもとのよしつね）は、[1966年](../Page/1966年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")にかけて[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")4作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。

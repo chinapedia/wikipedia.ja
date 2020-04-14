@@ -1,4 +1,4 @@
-> この記事は[ECW ](https://ja.wikipedia.org/wiki/ECW_)から翻訳されています。
+> この記事は[ECW ディセンバー・トゥ・ディスメンバー](https://ja.wikipedia.org/wiki/ECW_ディセンバー・トゥ・ディスメンバー)から翻訳されています。
 
 
 **ECW ディセンバー・トゥ・ディスメンバー**(*ECW December to Dismember*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が主宰する、プロレス興行の名称。また、同興行を扱う[PPVの名称でもある](../Page/ペイ・パー・ビュー.md "wikilink")。開催は1年に1回。

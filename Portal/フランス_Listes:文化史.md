@@ -1,4 +1,4 @@
-> この記事は[Portal:/Listes:](https://ja.wikipedia.org/wiki/Portal:/Listes:)から翻訳されています。
+> この記事は[Portal:フランス/Listes:文化史](https://ja.wikipedia.org/wiki/Portal:フランス/Listes:文化史)から翻訳されています。
 
 
   -

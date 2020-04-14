@@ -1,4 +1,4 @@
-> この記事は[JR20B](https://ja.wikipedia.org/wiki/JR20B)から翻訳されています。
+> この記事は[JR貨物20B形コンテナ](https://ja.wikipedia.org/wiki/JR貨物20B形コンテナ)から翻訳されています。
 
 
 **JR貨物20B形コンテナ**（JRかもつ20Bがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が224個を配備し、[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）2月に運用が開始された12[ft](../Page/フィート.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")である。
@@ -21,7 +21,7 @@
 
 2007年（平成19年）以降はエコレールマークのシールを順次貼り付けた。
 
-2019年（平成31年）1月5日現在、50個を使用している。
+[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、34個を使用している。
 
 [2013年](../Page/2013年.md "wikilink")度（平成25年度）以降、[20D形](https://ja.wikipedia.org/wiki/JR貨物20D形コンテナ "wikilink")･[20E形への置き換えにより](https://ja.wikipedia.org/wiki/JR貨物20E形コンテナ "wikilink")[廃棄](https://ja.wikipedia.org/wiki/廃棄 "wikilink")が進められている。
 

@@ -1,4 +1,4 @@
-> この記事は[Me](https://ja.wikipedia.org/wiki/Me)から翻訳されています。
+> この記事は[なぎさMe公認](https://ja.wikipedia.org/wiki/なぎさMe公認)から翻訳されています。
 
 
 **なぎさMe公認**（なぎさ みこうにん）は、[北崎拓](../Page/北崎拓.md "wikilink")作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1996年](../Page/1996年.md "wikilink")（平成8年）16号から[小学館](../Page/小学館.md "wikilink")の[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")に連載された。[単行本](../Page/単行本.md "wikilink")は全18巻。

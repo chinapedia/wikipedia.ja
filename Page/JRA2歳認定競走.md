@@ -1,4 +1,4 @@
-> この記事は[JRA2](https://ja.wikipedia.org/wiki/JRA2)から翻訳されています。
+> この記事は[JRA2歳認定競走](https://ja.wikipedia.org/wiki/JRA2歳認定競走)から翻訳されています。
 
 
 **JRA2歳認定競走**（ジェイアールエーにさいにんていきょうそう）は、[地方競馬](../Page/地方競馬.md "wikilink")における[サラブレッド](../Page/サラブレッド.md "wikilink")系2歳馬による[競走のうち](../Page/競馬の競走.md "wikilink")、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が主催する[中央競馬](../Page/中央競馬.md "wikilink")における特定の競走の出走権が付与されるものである。

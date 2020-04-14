@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[フランクリン・D・ルーズベルト・イースト・リバー・ドライブ](https://ja.wikipedia.org/wiki/フランクリン・D・ルーズベルト・イースト・リバー・ドライブ)から翻訳されています。
 
 
 **FDRドライブ**（フランクリン・D・ルーズベルト・イースト・リバー・ドライブ、英語:Franklin D. Roosevelt East River Drive）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[マンハッタンを走る](https://ja.wikipedia.org/wiki/マンハッタン区 "wikilink")[高速道路](../Page/高速道路.md "wikilink")である。北は[125丁目](https://ja.wikipedia.org/wiki/125丁目 "wikilink") ([en](https://ja.wikipedia.org/wiki/:en:125th_Street_\(Manhattan\) "wikilink")) で[ハーレム・リバー・ドライブ](https://ja.wikipedia.org/wiki/ハーレム・リバー・ドライブ "wikilink") ([en](https://ja.wikipedia.org/wiki/:en:Harlem_River_Drive "wikilink")) と接続し、南は[バッテリー・パーク](https://ja.wikipedia.org/wiki/バッテリー・パーク "wikilink")で[バッテリー・パーク・アンダーパス](https://ja.wikipedia.org/wiki/バッテリー・パーク・アンダーパス "wikilink")と接続しており、その間の区間を[イースト川](https://ja.wikipedia.org/wiki/イースト川 "wikilink")沿いに走っている。道路のほとんどは高架道路になっている。完成当時の名前は**イースト・リバー・ドライブ**だった。マンハッタンの中では一番長い距離を走る高速である。渋滞はあまり起きない。片道2車線である。全区間は**New York State Route 907L (NY 907L)**に指定されている。

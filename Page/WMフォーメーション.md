@@ -1,4 +1,4 @@
-> この記事は[WM](https://ja.wikipedia.org/wiki/WM)から翻訳されています。
+> この記事は[WMフォーメーション](https://ja.wikipedia.org/wiki/WMフォーメーション)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/画像:Football_Formation_-_WM.png "wikilink") **WMフォーメーション**は、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[フォーメーションの](../Page/サッカーのフォーメーション.md "wikilink")1つである。

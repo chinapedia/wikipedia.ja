@@ -1,4 +1,4 @@
-> この記事は[AT\&T](https://ja.wikipedia.org/wiki/AT\&T)から翻訳されています。
+> この記事は[AT\&T・コーポレートセンター](https://ja.wikipedia.org/wiki/AT\&T・コーポレートセンター)から翻訳されています。
 
 
 **フランクリン・センター** (*Franklin Center*)とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")のダウンタウン・ループ地区にある、高さ307m(アンテナ部含む)、地上60階建ての[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。2015年現在、全米で11番目、シカゴで5番目に高い。

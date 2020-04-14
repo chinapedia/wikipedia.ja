@@ -1,4 +1,4 @@
-> この記事は[JR19G](https://ja.wikipedia.org/wiki/JR19G)から翻訳されています。
+> この記事は[JR貨物19G形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19G形コンテナ)から翻訳されています。
 
 
 [JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--⑯.jpg](https://ja.wikipedia.org/wiki/File:JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--⑯.jpg "fig:JR貨物【_鉄道代行船舶輸送_】岡山新港高島埠頭--⑯.jpg") **JR貨物19G形コンテナ**（JRかもつ19Gがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が配備している、鉄道輸送用長さ12[ftの](../Page/フィート.md "wikilink")5[トン](../Page/トン.md "wikilink")積み[有蓋コンテナである](https://ja.wikipedia.org/wiki/コンテナ#ドライ・コンテナ "wikilink")。
@@ -7,11 +7,11 @@
 
 本形式は[19F形の改良型であり](../Page/JR貨物19F形コンテナ.md "wikilink")、相違点は上部四隅に船積用の[ツイストロック式の簡易形隅金具が付属したことである](https://ja.wikipedia.org/wiki/緊締装置#ツイストロック "wikilink")。
 
-2019年（[平成](../Page/平成.md "wikilink")31年）1月5日現在、14,762個を使用している。製造は、[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")\[1\]→[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")[中国国際海運集装箱](https://ja.wikipedia.org/wiki/中国国際海運集装箱 "wikilink")（CIMC）が担当。
+2020年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、13,402個を使用している。製造は、[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")\[1\]→[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")[中国国際海運集装箱](https://ja.wikipedia.org/wiki/中国国際海運集装箱 "wikilink")（CIMC）が担当。
 
 登場時は旧型の国鉄コンテナや[18C形などのJR初期に製造されたコンテナの老朽取換用として製造していたが](../Page/JR貨物18C形コンテナ.md "wikilink")、JR貨物になってから製造した[19F形も置き換えている](../Page/JR貨物19F形コンテナ.md "wikilink")。以後も仕様変更を重ねながら、JR貨物の主力コンテナ形式として2017年度までは[19D形と共に増備が続いていたが](../Page/JR貨物19D形コンテナ.md "wikilink")、[2018年](../Page/2018年.md "wikilink")3月17日のダイヤ改正でコキ50000形の営業運転が終了することにより、背高コンテナの運用上の制限がなくなったため、2018年度より[20G形へ製造が移行した](https://ja.wikipedia.org/wiki/JR貨物20G形コンテナ "wikilink")。
 
-初期に製造された個体は老朽化が進んでおり、内張りを張り替えて塗装変更する更新工事を施して使用されている。しかし近年、新たに製造された本形式によって、初期製造の個体にも置き換えが進み、廃棄したり、[死重用途の](https://ja.wikipedia.org/wiki/重し#死重 "wikilink")[ZD19G形に改造したりしている](https://ja.wikipedia.org/wiki/JR貨物ZD19G形コンテナ "wikilink")。
+初期に製造された個体は老朽化が進んでおり、内張りを張り替えて塗装変更する更新工事を施して使用されている。しかし近年、新たに製造された本形式や20G形によって、初期製造の個体にも置き換えが進み、廃棄したり、[死重用途の](https://ja.wikipedia.org/wiki/重し#死重 "wikilink")[ZD19G形に改造したりしている](https://ja.wikipedia.org/wiki/JR貨物ZD19G形コンテナ "wikilink")。
 
 ## 構造
 

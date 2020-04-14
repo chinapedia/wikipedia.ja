@@ -1,4 +1,4 @@
-> この記事は[KENJI \(\)](https://ja.wikipedia.org/wiki/KENJI_\(\))から翻訳されています。
+> この記事は[KENJI \(加古隆のアルバム\)](https://ja.wikipedia.org/wiki/KENJI_\(加古隆のアルバム\))から翻訳されています。
 
 
 『**KENJI**』は[加古隆](../Page/加古隆.md "wikilink")のアルバム。

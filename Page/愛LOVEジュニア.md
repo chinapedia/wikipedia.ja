@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[愛LOVEジュニア](https://ja.wikipedia.org/wiki/愛LOVEジュニア)から翻訳されています。
 
 
 『**愛LOVEジュニア**』（あいラブジュニア）は、1996年4月8日から1998年9月28日まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全128回。

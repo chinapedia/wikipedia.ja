@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ロンドン指令X](https://ja.wikipedia.org/wiki/ロンドン指令X)から翻訳されています。
 
 
 『**ロンドン指令X**』（ロンドンしれいエックス、原題：*The Secret Service* ）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が作った[特撮](../Page/特撮.md "wikilink")ドラマである。

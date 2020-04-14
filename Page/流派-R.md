@@ -1,4 +1,4 @@
-> この記事は[-R](https://ja.wikipedia.org/wiki/-R)から翻訳されています。
+> この記事は[流派-R](https://ja.wikipedia.org/wiki/流派-R)から翻訳されています。
 
 
 『**流派-R SINCE2001**』（りゅうはアール シンスにせんいち）は、[テレビせとうち](../Page/テレビせとうち.md "wikilink")を除く[テレビ東京系列局で放送している](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[情報回遊TV うるとらマンボウ](https://ja.wikipedia.org/wiki/情報回遊TV_うるとらマンボウ)から翻訳されています。
 
 
 『**情報回遊TV うるとらマンボウ**』（じょうほうかいゆうテレビ うるとらマンボウ）は、[1992年](../Page/1992年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")（前身番組期間含む）まで[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（KBCテレビ）で月曜 - 木曜 9:55 - 10:45に放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

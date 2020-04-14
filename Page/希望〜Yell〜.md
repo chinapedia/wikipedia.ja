@@ -1,4 +1,4 @@
-> この記事は[Yell](https://ja.wikipedia.org/wiki/Yell)から翻訳されています。
+> この記事は[希望〜Yell〜](https://ja.wikipedia.org/wiki/希望〜Yell〜)から翻訳されています。
 
 
 「**希望〜Yell〜**」（きぼう〜エール〜）は、[2004年](../Page/2004年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")\[1\]。

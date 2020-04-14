@@ -38,8 +38,7 @@
   - 2017年 - 卓上セパレート型の15インチタッチパネル式セルフ決済機[**RMC-15T**](https://bostec.jp/product/1449/)の販売を開始。
   - 2017年 - 27インチタッチパネル式のセルフ決済機[**FMC-27VA**](https://bostec.jp/product/1420/)（主要[電子マネー](../Page/電子マネー.md "wikilink")、[WeChat Pay payment](https://ja.wikipedia.org/wiki/微信 "wikilink"),[Alipay](https://ja.wikipedia.org/wiki/Alipay "wikilink"),valuecard,[クレジットカード](../Page/クレジットカード.md "wikilink")など対応）と[**FMC-27VB**](https://bostec.jp/product/1593/)の販売を開始。
   - 2017年 - 27インチタッチパネル式[キャッシュレス決済専用端末](https://ja.wikipedia.org/wiki/キャッシュレス社会 "wikilink")**[FCL-27V](https://bostec.jp/product/639/)**の販売を開始。
-  - 2019年 - [動画](../Page/動画.md "wikilink")再生機能付きのセルフ決済機の開発、販売を開始。[4](https://www.tenpo.biz/tentsu/entry/2019/03/28/100000#content02)
-  - 2019年 - セットメニューの購入を容易にした券売機及びセルフ決済機の[特許](../Page/特許.md "wikilink")を出願。[5](https://bostec.jp/#03)
+  - 2019年 - セットメニューの購入を容易にした券売機及びセルフ決済機の[特許](../Page/特許.md "wikilink")を出願。[4](https://bostec.jp/#03)
   - 2019年 - [レセプトコンピュータ](../Page/レセプトコンピュータ.md "wikilink")と自動精算機を連動させたシステムを開発。
   - 2019年 - ECサイトをリニューアルオープン。[\[7\]](https://bostec.official.ec)
 

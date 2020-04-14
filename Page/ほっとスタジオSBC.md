@@ -1,4 +1,4 @@
-> この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
+> この記事は[ほっとスタジオSBC](https://ja.wikipedia.org/wiki/ほっとスタジオSBC)から翻訳されています。
 
 
 『**ほっとスタジオSBC**』（ほっとスタジオエスビーシー）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で平日夕方に[生放送](../Page/生放送.md "wikilink")されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。

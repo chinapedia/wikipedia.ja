@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[チェルシーTV](https://ja.wikipedia.org/wiki/チェルシーTV)から翻訳されています。
 
 
 **チェルシーTV**（Chelsea TV）は[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に所属する[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")が運営しているオフィシャルクラブTV。2001年8月に開局した。

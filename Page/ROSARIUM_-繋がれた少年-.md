@@ -1,4 +1,4 @@
-> この記事は[ROSARIUM --](https://ja.wikipedia.org/wiki/ROSARIUM_--)から翻訳されています。
+> この記事は[ROSARIUM -繋がれた少年-](https://ja.wikipedia.org/wiki/ROSARIUM_-繋がれた少年-)から翻訳されています。
 
 
 『**ROSARIUM -繋がれた少年-**』（ローザリウム つながれたしょうねん）は[OPTiM](https://ja.wikipedia.org/wiki/OPTiM "wikilink")（おぷてぃむ）制作著作、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")販売の[ショタゲー](../Page/ショタゲー.md "wikilink")である。

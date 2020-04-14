@@ -1,4 +1,4 @@
-> この記事は[JR30A](https://ja.wikipedia.org/wiki/JR30A)から翻訳されています。
+> この記事は[JR貨物30A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物30A形コンテナ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:30A-1058+181.JPG "wikilink") **JR貨物30A形コンテナ**（JRかもつ30Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[ワキ5000形](../Page/国鉄ワキ5000形貨車.md "wikilink")[有蓋車](../Page/有蓋車.md "wikilink")を使用していた[紙](../Page/紙.md "wikilink")輸送の置き換え用として開発し、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）から製造された20[ft](../Page/フィート.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")である。
@@ -13,7 +13,7 @@
 
 ## 現状
 
-[2019年](../Page/2019年.md "wikilink")（平成31年）1月5日現在、47個使用されている。
+[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、38個が使用されている。
 
 <File:30A-221----①> 【JR貨物】Containers of Japan Rail Freight.jpg|荷主とタイアップしたラッピング事例。 <File:30A-221----②> 【JR貨物】Containers of Japan Rail Freight.jpg|荷主とタイアップしたラッピング事例。 <File:30A-226> 【JR貨物】Containers of Japan Rail Freight.jpg|荷主とタイアップしたラッピング事例。 <File:30A-240> 【JR貨物】Containers of Japan Rail Freight.jpg|荷主とタイアップしたラッピング事例。 <File:30A-1144> 【JR貨物】Containers of Japan Rail Freight.jpg|1000番台仕様と、ラッピング事例。 [File:30A-235.jpg|青一色に変更された事例](File:30A-235.jpg%7C青一色に変更された事例)。
 

@@ -1,4 +1,4 @@
-> この記事は[Ezplus](https://ja.wikipedia.org/wiki/Ezplus)から翻訳されています。
+> この記事は[Ezplusコントローラ](https://ja.wikipedia.org/wiki/Ezplusコントローラ)から翻訳されています。
 
 
 **ezplusコントローラ**（イージープラスコントローラ）は[HORI](../Page/HORI.md "wikilink")が[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[auブランドの](../Page/Au_\(携帯電話\).md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")端末向けに開発した[ゲームコントローラ](../Page/ゲームコントローラ.md "wikilink")である。

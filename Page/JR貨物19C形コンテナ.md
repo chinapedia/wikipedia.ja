@@ -1,4 +1,4 @@
-> この記事は[JR19C](https://ja.wikipedia.org/wiki/JR19C)から翻訳されています。
+> この記事は[JR貨物19C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19C形コンテナ)から翻訳されています。
 
 
 **JR貨物19C形[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")**（JRかもつ19Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）に400個配備した12[ft形](../Page/フィート.md "wikilink")[ドライ・コンテナ](https://ja.wikipedia.org/wiki/ドライ・コンテナ "wikilink")である。

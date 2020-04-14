@@ -1,4 +1,4 @@
-> この記事は[Departures](https://ja.wikipedia.org/wiki/Departures)から翻訳されています。
+> この記事は[最終試験くじら〜Departures〜](https://ja.wikipedia.org/wiki/最終試験くじら〜Departures〜)から翻訳されています。
 
 
 **最終試験くじら〜Departures〜**（さいしゅうしけんくじら デパーチャーズ\[1\]）は[CIRCUSより発売された](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")『[最終試験くじら](https://ja.wikipedia.org/wiki/最終試験くじら "wikilink")』のファンディスクである。[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")、[かどつかさ](https://ja.wikipedia.org/wiki/かどつかさ "wikilink")、[秋蕎麦](https://ja.wikipedia.org/wiki/秋蕎麦 "wikilink")原画。[鷹取兵馬](https://ja.wikipedia.org/wiki/鷹取兵馬 "wikilink")、[釧路洋](https://ja.wikipedia.org/wiki/釧路洋 "wikilink")、[愛羽](https://ja.wikipedia.org/wiki/愛羽 "wikilink")シナリオ。『最終試験くじら』の発売した[2004年](../Page/2004年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")の丁度1年後に発売された。

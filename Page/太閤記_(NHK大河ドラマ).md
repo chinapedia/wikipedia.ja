@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[太閤記 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/太閤記_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**太閤記**』（たいこうき）は、[1965年](../Page/1965年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")3作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
@@ -19,7 +19,7 @@
 
 ### 羽柴・豊臣家
 
-  - さる→日吉→木下藤吉郎→羽柴秀吉→[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")：[石川秀樹](https://ja.wikipedia.org/wiki/石川秀樹 "wikilink")→**[緒形拳](../Page/緒形拳.md "wikilink")**\[20\]
+  - さる→日吉→木下藤吉郎→羽柴秀吉→[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")：石川秀樹→**[緒形拳](../Page/緒形拳.md "wikilink")**\[20\]
   - [ねね](../Page/高台院.md "wikilink")：**[藤村志保](../Page/藤村志保.md "wikilink")**
       -
         秀吉の正室
@@ -360,7 +360,7 @@
 17.
 18.
 19.
-20. 1978年度大河ドラマ『[黄金の日日](../Page/黄金の日日.md "wikilink")』でも豊臣秀吉を演じた。
+20. 緒形は1978年度大河ドラマ『[黄金の日日](../Page/黄金の日日.md "wikilink")』でも豊臣秀吉を演じた。
 21. 高橋は1978年度大河ドラマ『[黄金の日日](../Page/黄金の日日.md "wikilink")』でも織田信長を演じた。
 22. 12話から13話までは特別編成による時間帯での放送のため、本来の時間は不明。それ以外でも通常放送時間外の再放送は行われている。
 23.

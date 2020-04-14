@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[Uパレード](https://ja.wikipedia.org/wiki/Uパレード)から翻訳されています。
 
 
 『**Uパレード**』（ユーパレード）は、[2001年](../Page/2001年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で[生放送](../Page/生放送.md "wikilink")されていた平日夕方の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ウラ関根TV](https://ja.wikipedia.org/wiki/ウラ関根TV)から翻訳されています。
 
 
 『**ウラ関根TV**』（うらせきねティーヴィー）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全51回。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[ホリプロ](../Page/ホリプロ.md "wikilink")の共同製作。テレビ東京では[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 25:30 - 26:00 （[土曜](../Page/土曜日.md "wikilink") 1:30 - 2:00）に放送されていた。

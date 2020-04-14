@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[コンピュータX線撮影](https://ja.wikipedia.org/wiki/コンピュータX線撮影)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/image:Crapared.jpg "wikilink") **コンピュータX線撮影**（コンピュータエックスせんさつえい、）とは、広義にはコンピュータでの画像処理を前提としたX線撮影法を指し、狭義にはX線フィルムの代わりに[イメージングプレート](https://ja.wikipedia.org/wiki/イメージングプレート "wikilink")(IP)を用いたX線撮影法を指す。

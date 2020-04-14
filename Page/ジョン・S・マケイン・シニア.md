@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ジョン・S・マケイン・シニア](https://ja.wikipedia.org/wiki/ジョン・S・マケイン・シニア)から翻訳されています。
 
 
 **ジョン・シドニー・マケイン・シニア** (**John Sidney McCain, Sr.**, [1884年](../Page/1884年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink") - [1945年](../Page/1945年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[軍人](../Page/軍人.md "wikilink")。最終階級は[大将](../Page/大将.md "wikilink")。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の高速[空母機動部隊](https://ja.wikipedia.org/wiki/空母機動部隊 "wikilink")指揮官として知られる。

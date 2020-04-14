@@ -1,4 +1,4 @@
-> この記事は[JR30D](https://ja.wikipedia.org/wiki/JR30D)から翻訳されています。
+> この記事は[JR貨物30D形コンテナ](https://ja.wikipedia.org/wiki/JR貨物30D形コンテナ)から翻訳されています。
 
 
 **JR貨物30D形コンテナ**（JRかもつ30Dがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が製造した20[ft](../Page/フィート.md "wikilink")[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ eine falsche Beschuldi-gung](https://ja.wikipedia.org/wiki/_eine_falsche_Beschuldi-gung)から翻訳されています。
+> この記事は[冤罪 eine falsche Beschuldi-gung](https://ja.wikipedia.org/wiki/冤罪_eine_falsche_Beschuldi-gung)から翻訳されています。
 
 
 『**冤罪**』（えんざい）は[ウィル開発](../Page/ウィルプラス.md "wikilink")・販売のアダルト[ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")で、[郎猫儿](https://ja.wikipedia.org/wiki/ウィルプラス#郎猫儿 "wikilink")（ランマール）ブランドからリリースされている。本項では海外版やアニメ版といった派生作品についても扱う。

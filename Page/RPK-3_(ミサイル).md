@@ -1,4 +1,4 @@
-> この記事は[RPK-3 \(\)](https://ja.wikipedia.org/wiki/RPK-3_\(\))から翻訳されています。
+> この記事は[RPK-3 \(ミサイル\)](https://ja.wikipedia.org/wiki/RPK-3_\(ミサイル\))から翻訳されています。
 
 
 **URPK-3「メテル」**（）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")で開発された[対潜ミサイル](../Page/対潜ミサイル.md "wikilink")・システム。後に派生型の**URPK-4**、また[艦対艦ミサイル](../Page/艦対艦ミサイル.md "wikilink")を兼用できるようになった**URPK-5「ラストルブ」**に発展した。なお愛称の「メテル」とは「[吹雪](https://ja.wikipedia.org/wiki/地吹雪 "wikilink")」の意味。

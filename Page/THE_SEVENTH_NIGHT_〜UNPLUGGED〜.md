@@ -1,4 +1,4 @@
-> この記事は[THE SEVENTH NIGHT UNPLUGGED](https://ja.wikipedia.org/wiki/THE_SEVENTH_NIGHT_UNPLUGGED)から翻訳されています。
+> この記事は[THE SEVENTH NIGHT 〜UNPLUGGED〜](https://ja.wikipedia.org/wiki/THE_SEVENTH_NIGHT_〜UNPLUGGED〜)から翻訳されています。
 
 
 『**THE SEVENTH NIGHT 〜UNPLUGGED〜**』（ザ セヴンス ナイト アンプラグド）は、[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")のベストアルバム。発売元は日本クラウン。

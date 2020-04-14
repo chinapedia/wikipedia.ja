@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[決死圏SOS宇宙船](https://ja.wikipedia.org/wiki/決死圏SOS宇宙船)から翻訳されています。
 
 
 『**決死圏SOS宇宙船**』（原題: *Doppelgänger*、米題: *Journey to the Far Side of the Sun*）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が作った[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")であり、それまで[スーパーマリオネーション](https://ja.wikipedia.org/wiki/スーパーマリオネーション "wikilink")を用いていたアンダーソンが、初めて人間の俳優を使った（これを[ライブアクション](https://ja.wikipedia.org/wiki/ライブアクション "wikilink")と呼ぶ）作品である。日本では劇場公開されず、[1972年](../Page/1972年.md "wikilink")8月6日に[NETテレビ](../Page/テレビ朝日.md "wikilink")「[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")」でテレビ放映された。尚、当時の録音台本では『宇宙太陽系大征服』となっている\[1\]。 また、日曜洋画劇場の公式HPでは『太陽系宇宙大征服』とも書かれているが\[2\]、この題名が使われた記録はない\[3\]。

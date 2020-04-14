@@ -1,8 +1,8 @@
-> この記事は[JR19F](https://ja.wikipedia.org/wiki/JR19F)から翻訳されています。
+> この記事は[JR貨物19F形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19F形コンテナ)から翻訳されています。
 
 
 [外観上の扉のない面にはリブ（コルゲート・波板ともいう）が復活している。
-5000番台飛番付与の19F-5624 ](https://ja.wikipedia.org/wiki/File:19F5000container.jpg "fig:外観上の扉のない面にはリブ（コルゲート・波板ともいう）が復活している。 5000番台飛番付与の19F-5624 ") **JR貨物19F形コンテナ**（JRかもつ19Fがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が旧型コンテナの老朽取換用として、4,925個を配備した12[ft](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")である。
+5000番台飛番付与の19F-5624 ](https://ja.wikipedia.org/wiki/File:19F5000container.jpg "fig:外観上の扉のない面にはリブ（コルゲート・波板ともいう）が復活している。 5000番台飛番付与の19F-5624 ") **JR貨物19F形コンテナ**（JRかもつ19Fがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が旧型の国鉄コンテナや[18C形などのJR初期に製造されたコンテナの老朽取換用として](../Page/JR貨物18C形コンテナ.md "wikilink")、4,925個を配備した12[ft](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")である。
 
 ## 構造
 

@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ラジオCD](https://ja.wikipedia.org/wiki/ラジオCD)から翻訳されています。
 
 
 **ラジオCD**（ラジオシーディー）ないし**DJCD**（ディージェーシーディー）とは、[ラジオ番組](../Page/ラジオ番組.md "wikilink")の総集編ないしラジオ番組調に[パーソナリティがトークと音楽を交えながら進行する内容を収録した](../Page/ラジオパーソナリティ.md "wikilink")[CDのことである](../Page/コンパクトディスク.md "wikilink")。

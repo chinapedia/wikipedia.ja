@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[首都高バトルX](https://ja.wikipedia.org/wiki/首都高バトルX)から翻訳されています。
 
 
 『**首都高バトルX**』（しゅとこうバトルテン\[1\]）は、[元気が](../Page/元気_\(ゲーム会社\).md "wikilink")[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した[Xbox 360用](../Page/Xbox_360.md "wikilink")[レーシングゲーム](https://ja.wikipedia.org/wiki/レーシングゲーム "wikilink")で、[首都高バトルシリーズ](../Page/首都高バトルシリーズ.md "wikilink")の1作。

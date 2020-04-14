@@ -1,7 +1,7 @@
 > この記事は[DJ MASTERKEY](https://ja.wikipedia.org/wiki/DJ_MASTERKEY)から翻訳されています。
 
 
-**DJ MASTERKEY**（ディージェイ・マスターキー、本名：矢沢 正樹〔やざわ まさき〕）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのDJとして活動](../Page/BUDDHA_BRAND.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[蒲田](../Page/蒲田.md "wikilink")出身。
+**DJ MASTERKEY**（ディージェイ・マスターキー、本名：**矢沢 正樹**〔やざわ まさき〕）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[BUDDHA BRANDのDJとして活動](../Page/BUDDHA_BRAND.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[蒲田](../Page/蒲田.md "wikilink")出身。
 
 ## 略歴
 
@@ -491,4 +491,4 @@
   -
   -
   -
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[フェルナンド・E・ソラナス](https://ja.wikipedia.org/wiki/フェルナンド・E・ソラナス)から翻訳されています。
 
 
 **フェルナンド・E・ソラナス** （**Fernando E. Solanas**, [1936年](../Page/1936年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - ） は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[政治家](../Page/政治家.md "wikilink")。

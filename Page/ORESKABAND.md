@@ -20,7 +20,7 @@
 
 ### 活動休止中
 
-  - **SAKI　**[トランペット](../Page/トランペット.md "wikilink")（2003-2018）1989年1月12日　[DUBFORCE](https://ja.wikipedia.org/wiki/DUBFORCE "wikilink")のメンバーとしても活動。2018年をもってアニメ音楽の作家活動に専念するためORESKABANDでの活動を休止。現在はMAYSON's PARTYのメンバーとして活動中。\[1\]
+  - **SAKI　**[トランペット](../Page/トランペット.md "wikilink")（2003-2018）1989年1月12日　[DUBFORCE](https://ja.wikipedia.org/wiki/DUBFORCE "wikilink")のメンバーとしても活動。2018年をもってアニメ音楽の作家活動に専念するためORESKABANDでの活動を休止。現在はMAYSON's PARTYのサポートメンバーとして活動中。\[1\]
 
 ### 元メンバー
 

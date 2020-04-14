@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[週刊お宝TV](https://ja.wikipedia.org/wiki/週刊お宝TV)から翻訳されています。
 
 
 『**週刊お宝TV**』（しゅうかんおたからてれび）は、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")で放送していた[テレビ番組](../Page/テレビ番組.md "wikilink")。

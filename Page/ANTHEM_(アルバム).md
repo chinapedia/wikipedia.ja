@@ -1,4 +1,4 @@
-> この記事は[ANTHEM \(\)](https://ja.wikipedia.org/wiki/ANTHEM_\(\))から翻訳されています。
+> この記事は[ANTHEM \(アルバム\)](https://ja.wikipedia.org/wiki/ANTHEM_\(アルバム\))から翻訳されています。
 
 
 『**ANTHEM〜パワーメタル戒厳令〜**』（アンセム パワーメタルかいげんれい）は、1985年に[ANTHEM](../Page/ANTHEM.md "wikilink")がリリースしたデビューアルバムである。

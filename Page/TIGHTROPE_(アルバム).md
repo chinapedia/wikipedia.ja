@@ -1,4 +1,4 @@
-> この記事は[TIGHTROPE \(\)](https://ja.wikipedia.org/wiki/TIGHTROPE_\(\))から翻訳されています。
+> この記事は[TIGHTROPE \(アルバム\)](https://ja.wikipedia.org/wiki/TIGHTROPE_\(アルバム\))から翻訳されています。
 
 
 『**TIGHTROPE**』（タイトロープ）は、1986年に[ANTHEM](../Page/ANTHEM.md "wikilink")がリリースした2枚目のアルバムである。バンドとして初となる外国人プロデューサーを起用して制作され、前作から9ヶ月でリリースされた。

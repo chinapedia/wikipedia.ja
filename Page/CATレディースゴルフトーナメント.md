@@ -1,4 +1,4 @@
-> この記事は[CAT](https://ja.wikipedia.org/wiki/CAT)から翻訳されています。
+> この記事は[CATレディースゴルフトーナメント](https://ja.wikipedia.org/wiki/CATレディースゴルフトーナメント)から翻訳されています。
 
 
 **CATレディースゴルフトーナメント（CAT Ladies Golf Tournament）**は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")より毎年8月第3週から第4週にかけて行われている建設機械大手の[キャタピラー](../Page/キャタピラージャパン.md "wikilink")（旧・新キャタピラー三菱）の主催、[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2007年](../Page/2007年.md "wikilink")までは「新キャタピラー三菱レディース」の名称で行われていた。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースおはよう青森](https://ja.wikipedia.org/wiki/NHKニュースおはよう青森)から翻訳されています。
 
 
 **NHKニュースおはよう青森**（エヌエイチケイニュースおはようあおもり）は、[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")で平日朝に放送される[ローカルニュース番組である](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。なお、[EPG上のタイトルは](../Page/電子番組ガイド.md "wikilink")、「おはよう青森」\[1\]である。

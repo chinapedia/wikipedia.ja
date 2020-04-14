@@ -1,4 +1,4 @@
-> この記事は[-T](https://ja.wikipedia.org/wiki/-T)から翻訳されています。
+> この記事は[童子-T](https://ja.wikipedia.org/wiki/童子-T)から翻訳されています。
 
 
 **童子-T**（**DOHZI-T**、どうじティー、本名：竹末 充（たけすえ みつる）、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のヒップホップ[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")出身。

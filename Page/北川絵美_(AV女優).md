@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[北川絵美 \(AV女優\)](https://ja.wikipedia.org/wiki/北川絵美_\(AV女優\))から翻訳されています。
 
 
 **北川 絵美**（きたがわ えみ、[1982年](../Page/1982年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")・元[女優](../Page/俳優.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Bj-KBL ](https://ja.wikipedia.org/wiki/Bj-KBL_)から翻訳されています。
+> この記事は[Bj-KBL チャンピオンシップゲームズ](https://ja.wikipedia.org/wiki/Bj-KBL_チャンピオンシップゲームズ)から翻訳されています。
 
 
 **bj-KBL チャンピオンシップゲームズ**（bj-KBL Championship Games）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[bjリーグと](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[韓国の](../Page/大韓民国.md "wikilink")[KBL双方の王者同士が対戦する](../Page/韓国バスケットボールリーグ.md "wikilink")、プロ[バスケットボール](../Page/バスケットボール.md "wikilink")の日韓王者決定戦である。

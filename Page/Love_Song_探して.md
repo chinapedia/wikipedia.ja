@@ -1,4 +1,4 @@
-> この記事は[Love Song ](https://ja.wikipedia.org/wiki/Love_Song_)から翻訳されています。
+> この記事は[Love Song 探して](https://ja.wikipedia.org/wiki/Love_Song_探して)から翻訳されています。
 
 
 「**Love Song 探して**」（ラブソングさがして）は、[作詞](../Page/作詞.md "wikilink")・[三浦徳子](../Page/三浦徳子.md "wikilink")、[作曲](../Page/作曲.md "wikilink")・[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、[編曲](../Page/編曲.md "wikilink")・[大村雅朗](../Page/大村雅朗.md "wikilink")による[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")から発売された[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")『[ドラゴンクエストII 悪霊の神々](../Page/ドラゴンクエストII_悪霊の神々.md "wikilink")』の[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。英題は「Only Lonely Boy」。

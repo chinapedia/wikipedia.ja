@@ -1,4 +1,4 @@
-> この記事は[Google ](https://ja.wikipedia.org/wiki/Google_)から翻訳されています。
+> この記事は[Google ドキュメント](https://ja.wikipedia.org/wiki/Google_ドキュメント)から翻訳されています。
 
 
 **Google ドキュメント**（グーグル ドキュメント）、旧名 **Google Docs & Spreadsheets**（グーグル ドックス アンド スプレッドシーツ、2007年まで）は、[Google](../Page/Google.md "wikilink")が無料提供する、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")内で動く[オフィスソフト](https://ja.wikipedia.org/wiki/オフィスソフト "wikilink")。従来は記憶容量を提供するストレージサービスと一体だったが、

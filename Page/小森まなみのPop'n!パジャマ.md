@@ -1,4 +1,4 @@
-> この記事は[Pop\'n!](https://ja.wikipedia.org/wiki/Pop\'n!)から翻訳されています。
+> この記事は[小森まなみのPop\'n!パジャマ](https://ja.wikipedia.org/wiki/小森まなみのPop\'n!パジャマ)から翻訳されています。
 
 
 **小森まなみのPop'n\!パジャマ**（こもりまなみのポップン\!パジャマ）は、[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")まで、[東北放送](../Page/東北放送.md "wikilink")（TBCラジオ）・[山形放送](../Page/山形放送.md "wikilink")（YBCラジオ）などでラジオ放送された、[桑の実プロ](../Page/桑の実プロ.md "wikilink")制作のトーク・バラエティ番組である。

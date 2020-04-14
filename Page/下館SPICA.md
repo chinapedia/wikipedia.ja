@@ -1,4 +1,4 @@
-> この記事は[SPICA](https://ja.wikipedia.org/wiki/SPICA)から翻訳されています。
+> この記事は[下館SPICA](https://ja.wikipedia.org/wiki/下館SPICA)から翻訳されています。
 
 
 **下館SPICA**（しもだてスピカ）は、[茨城県](../Page/茨城県.md "wikilink")[筑西市](../Page/筑西市.md "wikilink")丙360番地の通称田中町にある複合[ビル](../Page/ビル.md "wikilink")の名称である。[下館駅](../Page/下館駅.md "wikilink")北口に立地する。管理運営は[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[下館都市開発](https://ja.wikipedia.org/wiki/下館都市開発 "wikilink")。かつては下館[サティが核店舗であったが](https://ja.wikipedia.org/wiki/サティ_\(チェーンストア\) "wikilink")、現在は筑西市役所本庁舎ともなっている。

@@ -326,7 +326,7 @@ Carrot -6曲目に収録-</p></td>
 
   - [公式ウェブサイト](http://utc-web.com/) ※リンク切れ
 
-  - [UNDER THE COUNTER official blog](http://underthecounter.laff.jp/) ※リンク切れ
+  - ※リンク切れ
 
   -   -
       -

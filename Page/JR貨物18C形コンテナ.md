@@ -1,4 +1,4 @@
-> この記事は[JR18C](https://ja.wikipedia.org/wiki/JR18C)から翻訳されています。
+> この記事は[JR貨物18C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物18C形コンテナ)から翻訳されています。
 
 
 **JR貨物18C形コンテナ**（JRかもつ18Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）に製造した、鉄道輸送用長さ12[ftの](../Page/フィート.md "wikilink")5[トン](../Page/トン.md "wikilink")積み[有蓋コンテナである](https://ja.wikipedia.org/wiki/コンテナ#ドライ・コンテナ "wikilink")。

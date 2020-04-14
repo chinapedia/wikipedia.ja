@@ -1,11 +1,11 @@
-> この記事は[PART2](https://ja.wikipedia.org/wiki/PART2)から翻訳されています。
+> この記事は[サスペリアPART2](https://ja.wikipedia.org/wiki/サスペリアPART2)から翻訳されています。
 
 
 『**サスペリアPART2**』（原題：*Profondo Rosso*、英題：*Deep Red*）は、1975年公開の[イタリア](../Page/イタリア.md "wikilink")の[ダリオ・アルジェント](../Page/ダリオ・アルジェント.md "wikilink")監督による[サスペンス映画](../Page/サスペンス映画.md "wikilink")である。日本公開は1978年9月15日。また現在日本で販売されているDVDは「サスペリアPART2/紅い深淵」というタイトルとなっている。
 
 ## 概要
 
-前作『ビッグ・ファイブ・デイ』でコメディ映画という異色のジャンルに挑戦した監督が、再び[ジャッロ映画](https://ja.wikipedia.org/wiki/ジャッロ映画 "wikilink")に戻り創り上げたのが本作である。本作はアルジェント独自のカメラワーク、演出、そして酷い殺人シーンがサスペンスとしての雰囲気を表すとともに[ホラー映画](../Page/ホラー映画.md "wikilink")のような恐怖を伝えるのが特徴的。また本作の最大の特徴でもある“**重要なものを見ているのにもかかわらず見過ごしている**”という監督の初監督作品『[歓びの毒牙](https://ja.wikipedia.org/wiki/歓びの毒牙 "wikilink")』のオマージュとされる映像トリックはラストで真実を知った際、犯人とは別の驚きを与える。音楽はのちにアルジェント作品の常連となる[ゴブリンが初めて手掛ける](https://ja.wikipedia.org/wiki/ゴブリン_\(バンド\) "wikilink")。 日本公開版ではピアノの連弾シーンやより詳細な人間関係描写などがカットされていたが完全版には収録されている。
+前作『ビッグ・ファイブ・デイ』でコメディ映画という異色のジャンルに挑戦した監督が、再び[ジャッロ映画](https://ja.wikipedia.org/wiki/ジャッロ映画 "wikilink")に戻り創り上げたのが本作である。本作はアルジェント独自のカメラワーク、演出、そして酷い殺人シーンがサスペンスとしての雰囲気を表すとともに[ホラー映画](../Page/ホラー映画.md "wikilink")のような恐怖を伝えるのが特徴的。また本作の最大の特徴でもある“**重要なものを見ているのにもかかわらず見過ごしている**”という監督の初監督作品『[歓びの毒牙](https://ja.wikipedia.org/wiki/歓びの毒牙 "wikilink")』のオマージュとされる映像トリックはラストで真実を知った際、犯人とは別の驚きを与える。音楽はのちにアルジェント作品の常連となる[ゴブリンが初めて手掛ける](https://ja.wikipedia.org/wiki/ゴブリン_\(バンド\) "wikilink")。日本公開版ではピアノの連弾シーンやより詳細な人間関係描写などがカットされていたが、完全版には収録されている。
 
 ## ストーリー
 
@@ -201,6 +201,6 @@
 
   -
   -
-  - [movie location on google earth](http://www.movie-sat.com/index.php?option=com_content&task=view&id=157&Itemid=9)
+  - [movie location on google earth](http://www.movie-sat.com/?option=com_content&task=view&id=157&Itemid=9)
 
 [Category:1975年の映画](https://ja.wikipedia.org/wiki/Category:1975年の映画 "wikilink") [Category:イタリアのサスペンス映画](https://ja.wikipedia.org/wiki/Category:イタリアのサスペンス映画 "wikilink") [Category:スリラー映画](https://ja.wikipedia.org/wiki/Category:スリラー映画 "wikilink") [Category:ジャッロ映画](https://ja.wikipedia.org/wiki/Category:ジャッロ映画 "wikilink") [Category:ローマを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ローマを舞台とした映画作品 "wikilink") [Category:集合住宅を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:集合住宅を舞台とした映画作品 "wikilink") [Category:ピアノやピアニストを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ピアノやピアニストを題材とした映画作品 "wikilink") [Category:音楽家を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:音楽家を主人公とした映画作品 "wikilink") [Category:ダリオ・アルジェントの監督映画](https://ja.wikipedia.org/wiki/Category:ダリオ・アルジェントの監督映画 "wikilink") [Category:ゴブリン_(バンド)の作曲映画](https://ja.wikipedia.org/wiki/Category:ゴブリン_\(バンド\)の作曲映画 "wikilink")

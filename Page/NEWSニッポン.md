@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSニッポン](https://ja.wikipedia.org/wiki/NEWSニッポン)から翻訳されています。
 
 
 「**NEWSニッポン**」（ニュースニッポン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")\[1\]。

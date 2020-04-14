@@ -1,4 +1,4 @@
-> この記事は[AX \(\)](https://ja.wikipedia.org/wiki/AX_\(\))から翻訳されています。
+> この記事は[AX \(アニメ雑誌\)](https://ja.wikipedia.org/wiki/AX_\(アニメ雑誌\))から翻訳されています。
 
 
 **AX**は、かつて[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")（現[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")）から刊行されていた[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")。

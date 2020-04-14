@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[遊星よりの物体X](https://ja.wikipedia.org/wiki/遊星よりの物体X)から翻訳されています。
 
 
 『**遊星よりの物体X**』（ゆうせいよりのぶったいエックス、原題*The Thing from Another World*）は、[1951年の](https://ja.wikipedia.org/wiki/1951年の映画 "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[SF](../Page/SF映画.md "wikilink")[ホラー映画](../Page/ホラー映画.md "wikilink")。 監督は、出演は[マーガレット・シェリダン](https://ja.wikipedia.org/wiki/マーガレット・シェリダン "wikilink")と[ケネス・トビー](https://ja.wikipedia.org/wiki/ケネス・トビー "wikilink")など。

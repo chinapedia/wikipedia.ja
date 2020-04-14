@@ -1,4 +1,4 @@
-> この記事は[U \(\)](https://ja.wikipedia.org/wiki/U_\(\))から翻訳されています。
+> この記事は[U \(歌手\)](https://ja.wikipedia.org/wiki/U_\(歌手\))から翻訳されています。
 
 
 **U**(ゆう)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ALPG](https://ja.wikipedia.org/wiki/ALPG)から翻訳されています。
+> この記事は[ALPGツアー](https://ja.wikipedia.org/wiki/ALPGツアー)から翻訳されています。
 
 
 **ALPG**（**Australian Ladies Professional Golf**） **ツアー**（**ALPG Tour**）は[オーストラリア](../Page/オーストラリア.md "wikilink")の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")ツアー。シーズンは11月から翌年3月まで。

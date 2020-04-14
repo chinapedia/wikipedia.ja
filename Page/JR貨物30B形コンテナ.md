@@ -1,4 +1,4 @@
-> この記事は[JR30B](https://ja.wikipedia.org/wiki/JR30B)から翻訳されています。
+> この記事は[JR貨物30B形コンテナ](https://ja.wikipedia.org/wiki/JR貨物30B形コンテナ)から翻訳されています。
 
 
 **JR貨物30B形コンテナ**（JRかもつ30Bがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[30A形コンテナの後継として製造した](../Page/JR貨物30A形コンテナ.md "wikilink")20[ftコンテナである](../Page/フィート.md "wikilink")。
@@ -11,7 +11,7 @@
 
 ## 現状
 
-2019年（[平成](../Page/平成.md "wikilink")31年）1月5日現在、45個使用されている。
+2020年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、43個使用されている。
 
 ## 参考文献
 

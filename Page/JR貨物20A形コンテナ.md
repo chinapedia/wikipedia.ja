@@ -1,4 +1,4 @@
-> この記事は[JR20A](https://ja.wikipedia.org/wiki/JR20A)から翻訳されています。
+> この記事は[JR貨物20A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物20A形コンテナ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:20A-1.jpg "wikilink")

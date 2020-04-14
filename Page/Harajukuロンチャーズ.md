@@ -1,4 +1,4 @@
-> この記事は[Harajuku](https://ja.wikipedia.org/wiki/Harajuku)から翻訳されています。
+> この記事は[Harajukuロンチャーズ](https://ja.wikipedia.org/wiki/Harajukuロンチャーズ)から翻訳されています。
 
 
 **Harajukuロンチャーズ**(はらじゅくロンチャーズ)は、[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")開始直後の[2000年](../Page/2000年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[BS朝日で放送された](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

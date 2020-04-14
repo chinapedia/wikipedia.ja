@@ -1,4 +1,4 @@
-> この記事は[JR19A](https://ja.wikipedia.org/wiki/JR19A)から翻訳されています。
+> この記事は[JR貨物19A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19A形コンテナ)から翻訳されています。
 
 
 **JR貨物19A形[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")**（JRかもつ19Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）から[1994年](../Page/1994年.md "wikilink")（平成6年）までに1,001個を配備した12[ft](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")である。 [19A-118_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:19A-118_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:19A-118_【JR貨物】Containers_of_Japan_Rail_Freight.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:19A-188+918.JPG "wikilink")

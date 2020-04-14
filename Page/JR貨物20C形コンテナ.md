@@ -1,4 +1,4 @@
-> この記事は[JR20C](https://ja.wikipedia.org/wiki/JR20C)から翻訳されています。
+> この記事は[JR貨物20C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物20C形コンテナ)から翻訳されています。
 
 
 **JR貨物20C形コンテナ**（20Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が従来の内容積と比較して、積荷の総重量が軽量になりやすい[自動車](../Page/自動車.md "wikilink")[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")輸送を、更に多くの内容積で輸送する為に新たに配備した、12[ft](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")の一種である。
@@ -19,7 +19,7 @@
 
 [2018年](../Page/2018年.md "wikilink")度（平成30年度）以降、[20D形への置き換えにより](https://ja.wikipedia.org/wiki/JR貨物20D形コンテナ "wikilink")[廃棄](https://ja.wikipedia.org/wiki/廃棄 "wikilink")が進められている。
 
-2019年（平成31年）1月5日現在、432個使用されている。
+[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、399個使用されている。
 
 ## 出典
 

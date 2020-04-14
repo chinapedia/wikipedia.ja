@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCサンデーナイトフットボール](https://ja.wikipedia.org/wiki/NBCサンデーナイトフットボール)から翻訳されています。
 
 
 **NBCサンデーナイトフットボール**（NBC Sunday Night Football、SNF）は[NBC](../Page/NBC.md "wikilink")が[2006年](../Page/2006年.md "wikilink")より、フットボール・シーズン（9月-12月）の日曜日の夜「サンデーナイト」に放送している[NFL](../Page/NFL.md "wikilink")中継番組である。[2014年](../Page/2014年.md "wikilink")より[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")放送局である[NBCウニベルソ](https://ja.wikipedia.org/wiki/NBCウニベルソ "wikilink")でも放送されている。

@@ -1,4 +1,4 @@
-> この記事は[KK](https://ja.wikipedia.org/wiki/KK)から翻訳されています。
+> この記事は[KK戦争](https://ja.wikipedia.org/wiki/KK戦争)から翻訳されています。
 
 
 **KK戦争**（けいけいせんそう）は、1990年代に[自由民主党](../Page/自由民主党_\(日本\).md "wikilink")（以下、自民党）の[宏池会](https://ja.wikipedia.org/wiki/宏池会 "wikilink")の領袖だった[宮澤喜一](../Page/宮澤喜一.md "wikilink")会長の跡目を巡り、宮澤内閣の[内閣官房長官](../Page/内閣官房長官.md "wikilink")を務めた[加藤紘一](../Page/加藤紘一.md "wikilink")と[河野洋平](https://ja.wikipedia.org/wiki/河野洋平 "wikilink")との間で繰り広げられた権力闘争である。派内の支持基盤としては、加藤は中堅・若手の支持が強く、河野はベテラン・中堅の支持が強いといわれた。

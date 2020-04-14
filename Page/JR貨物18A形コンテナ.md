@@ -1,4 +1,4 @@
-> この記事は[JR18A](https://ja.wikipedia.org/wiki/JR18A)から翻訳されています。
+> この記事は[JR貨物18A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物18A形コンテナ)から翻訳されています。
 
 
 **JR貨物18A形コンテナ**（JRかもつ18Aがた[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）から2,500個製造した、鉄道輸送用12[ft型の](../Page/フィート.md "wikilink")5[トン](../Page/トン.md "wikilink")積み[ドライコンテナである](https://ja.wikipedia.org/wiki/コンテナ#ドライコンテナ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SMAP!](https://ja.wikipedia.org/wiki/SMAP!)から翻訳されています。
+> この記事は[愛ラブSMAP!](https://ja.wikipedia.org/wiki/愛ラブSMAP!)から翻訳されています。
 
 
 『**愛ラブSMAP\!**』（あいラブスマップ）は、1991年10月6日から1996年3月25日まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。途中、『**愛ラブSMAP\!電撃キッズ隊**』（ - でんげきキッズたい）と題して放送されていた時期もある。

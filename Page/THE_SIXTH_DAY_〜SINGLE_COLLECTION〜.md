@@ -1,4 +1,4 @@
-> この記事は[THE SIXTH DAY SINGLE COLLECTION](https://ja.wikipedia.org/wiki/THE_SIXTH_DAY_SINGLE_COLLECTION)から翻訳されています。
+> この記事は[THE SIXTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_SIXTH_DAY_〜SINGLE_COLLECTION〜)から翻訳されています。
 
 
 『**THE SIXTH DAY 〜SINGLE COLLECTION〜**』（ザ シックス デイ シングル コレクション）は、[2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。

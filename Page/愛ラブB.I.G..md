@@ -1,4 +1,4 @@
-> この記事は[B.I.G.](https://ja.wikipedia.org/wiki/B.I.G.)から翻訳されています。
+> この記事は[愛ラブB.I.G.](https://ja.wikipedia.org/wiki/愛ラブB.I.G.)から翻訳されています。
 
 
 『**愛ラブB.I.G.**』（あいラブビッグ）は、1998年10月5日から\[1\]1999年3月29日まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全25回。放送時間は毎週月曜 18:30 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）、当時テレビ東京が編成していた[ロッテ](../Page/ロッテ.md "wikilink")の一社提供枠『**ロッテスーパーコミュニケーション**』で放送。

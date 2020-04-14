@@ -1,4 +1,4 @@
-> この記事は[ \(NEWS\)](https://ja.wikipedia.org/wiki/_\(NEWS\))から翻訳されています。
+> この記事は[チェリッシュ \(NEWSの曲\)](https://ja.wikipedia.org/wiki/チェリッシュ_\(NEWSの曲\))から翻訳されています。
 
 
 「**チェリッシュ**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。

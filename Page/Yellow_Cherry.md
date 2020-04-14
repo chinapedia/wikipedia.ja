@@ -13,10 +13,8 @@
       - 音楽性で影響を受けたミュージシャンは[ビートルズ](../Page/ビートルズ.md "wikilink")と[BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")\[2\]。
   - **YAMA**（やま、[1979年](../Page/1979年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - ）DJ。リーダー
       - 青森県下北郡大間町出身。
-
       - 音楽性で影響を受けたミュージシャンは[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")\[3\]。
 
-      -
 ## 来歴
 
 青森のクラブ「M'otive」で出会い、2002年10月結成\[4\]。インディーズで発売した3枚のアルバムがどれも好セールスを記録し、2006年[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")よりメジャーデビュー。
@@ -333,7 +331,7 @@
 
 ## 外部リンク
 
-  - [sonymusic](http://www.sonymusic.co.jp/artist/YellowCherry/) (2008年11月更新停止)
+  - [sonymusic](https://www.sonymusic.co.jp/artist/YellowCherry/) (2008年11月更新停止)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 

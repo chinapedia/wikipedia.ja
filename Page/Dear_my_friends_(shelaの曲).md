@@ -1,4 +1,4 @@
-> この記事は[Dear my friends \(shela\)](https://ja.wikipedia.org/wiki/Dear_my_friends_\(shela\))から翻訳されています。
+> この記事は[Dear my friends \(shelaの曲\)](https://ja.wikipedia.org/wiki/Dear_my_friends_\(shelaの曲\))から翻訳されています。
 
 
 「**Dear my friends**」（ディア・マイ・フレンズ）は、[shela](https://ja.wikipedia.org/wiki/shela "wikilink")の通算13枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

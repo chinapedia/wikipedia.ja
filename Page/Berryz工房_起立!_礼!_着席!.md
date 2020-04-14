@@ -1,4 +1,4 @@
-> この記事は[Berryz ! ! !](https://ja.wikipedia.org/wiki/Berryz_!_!_!)から翻訳されています。
+> この記事は[Berryz工房 起立! 礼! 着席!](https://ja.wikipedia.org/wiki/Berryz工房_起立!_礼!_着席!)から翻訳されています。
 
 
 **Berryz工房 起立\!礼\!着席\!**（ベリーズこうぼう きりつれいちゃくせき）は、[Berryz工房](../Page/Berryz工房.md "wikilink")と[K太郎が](../Page/砂山圭大郎.md "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[K太郎のレコメン\!](https://ja.wikipedia.org/wiki/レコメン!#K太郎のレコメン!（月_-_水） "wikilink")』内の[フロート番組](../Page/フロート番組.md "wikilink")で、毎週[火曜日](../Page/火曜日.md "wikilink")23:35〜23:50[JST](../Page/日本標準時.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")に放送開始、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送終了。2009年4月7日から2012年3月までこの枠で[Berryz工房 嗣永桃子のぷりぷりプリンセスが放送された](https://ja.wikipedia.org/wiki/Berryz工房_嗣永桃子のぷりぷりプリンセス "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Bois ](https://ja.wikipedia.org/wiki/Bois_)から翻訳されています。
+> この記事は[Bois 〜機械仕掛けの街〜](https://ja.wikipedia.org/wiki/Bois_〜機械仕掛けの街〜)から翻訳されています。
 
 
 『**bois ～機械仕掛けの街～**』（ボイズ・きかいじかけのまち）は[花梨エンターテイメント](https://ja.wikipedia.org/wiki/花梨エンターテイメント "wikilink")がリリースする[ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")、[ショタゲー](../Page/ショタゲー.md "wikilink")。もともとは[同人ソフト](../Page/同人ソフト.md "wikilink")として発表されたが市販化された。発売前の[ポスター](../Page/ポスター.md "wikilink")では市販ソフトであるにもかかわらず、[キャラクター](../Page/キャラクター.md "wikilink")の年齢設定が[小学生](https://ja.wikipedia.org/wiki/小学生 "wikilink")と明記されており、事実上、[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")発足普及後における唯一、小学生年齢の性的描写のある市販ゲームソフトといえる。

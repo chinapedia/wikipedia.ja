@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[リヒャルト・R・エルンスト](https://ja.wikipedia.org/wiki/リヒャルト・R・エルンスト)から翻訳されています。
 
 
 **リヒャルト・ローベルト・エルンスト**（Richard Robert Ernst, [1933年](../Page/1933年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）は[スイス](../Page/スイス.md "wikilink")の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")である。[1991年](../Page/1991年.md "wikilink")に[ノーベル化学賞](../Page/ノーベル化学賞.md "wikilink")を受賞した。

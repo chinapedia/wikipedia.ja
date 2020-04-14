@@ -1,27 +1,27 @@
-> この記事は[First Love \(\)](https://ja.wikipedia.org/wiki/First_Love_\(\))から翻訳されています。
+> この記事は[First Love \(テレビドラマ\)](https://ja.wikipedia.org/wiki/First_Love_\(テレビドラマ\))から翻訳されています。
 
 
 『**First Love**』（ファーストラブ）は[TBS系列で](../Page/TBSテレビ.md "wikilink")[2002年](../Page/2002年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - [6月26日](../Page/6月26日.md "wikilink")に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。平均視聴率10.2%。
 
 ## キャスト
 
-  - 藤堂直：[渡部篤郎](../Page/渡部篤郎.md "wikilink")　
-  - 江沢夏澄：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")　
-  - 木葉清一：[池内博之](../Page/池内博之.md "wikilink")　
-  - 五味妙子：[久我陽子](../Page/久我陽子.md "wikilink")　
-  - 浜田万里子：[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")　
-  - 青木千春：[内藤陽子](../Page/内藤陽子.md "wikilink")　
-  - 小峰幸彦：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")　
+  - 藤堂直：[渡部篤郎](../Page/渡部篤郎.md "wikilink")
+  - 江沢夏澄：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")
+  - 木葉清一：[池内博之](../Page/池内博之.md "wikilink")
+  - 五味妙子：[久我陽子](../Page/久我陽子.md "wikilink")
+  - 浜田万里子：[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")
+  - 青木千春：[内藤陽子](../Page/内藤陽子.md "wikilink")
+  - 小峰幸彦：[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")
   - 二岡孝作：[天野浩成](../Page/天野浩成.md "wikilink")
-  - 真鍋周子 : [上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")　
+  - 真鍋周子 : [上原美佐](https://ja.wikipedia.org/wiki/上原美佐_\(1983年生\) "wikilink")
   - 松原亜矢 : [眞野裕子](../Page/眞野裕子.md "wikilink")
   - 横倉仁 : [芹沢名人](https://ja.wikipedia.org/wiki/芹沢名人 "wikilink")
   - 有賀裕子 : [西山繭子](../Page/西山繭子.md "wikilink")
   - 堀井仙太郎 : [近藤芳正](../Page/近藤芳正.md "wikilink")
   - 前園もみじ : [三田篤子](../Page/三田篤子.md "wikilink")
   - 妹尾弘文 : [佐藤二朗](../Page/佐藤二朗.md "wikilink")
-  - 江沢あかり：[大森暁美](../Page/大森暁美.md "wikilink")　
-  - 江沢守：[小野武彦](../Page/小野武彦.md "wikilink")　
+  - 江沢あかり：[大森暁美](../Page/大森暁美.md "wikilink")
+  - 江沢守：[小野武彦](../Page/小野武彦.md "wikilink")
   - 江沢朋子：[和久井映見](../Page/和久井映見.md "wikilink")
 
 ## スタッフ

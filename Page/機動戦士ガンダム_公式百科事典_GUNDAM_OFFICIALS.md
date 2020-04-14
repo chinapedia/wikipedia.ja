@@ -1,4 +1,4 @@
-> この記事は[  GUNDAM OFFICIALS](https://ja.wikipedia.org/wiki/__GUNDAM_OFFICIALS)から翻訳されています。
+> この記事は[機動戦士ガンダム 公式百科事典 GUNDAM OFFICIALS](https://ja.wikipedia.org/wiki/機動戦士ガンダム_公式百科事典_GUNDAM_OFFICIALS)から翻訳されています。
 
 
 『**機動戦士ガンダム 公式百科事典 GUNDAM OFFICIALS**』は、アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』に関する設定資料を集めた刊行物である。[一年戦争](../Page/一年戦争.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』）から[デラーズ紛争](../Page/デラーズ紛争.md "wikilink")（『[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")』）までの設定情報を集大成し、「[ガンダム](../Page/ガンダムシリーズ一覧.md "wikilink")」20年の歴史を俯瞰するという視点で叙述されている。[2001年](../Page/2001年.md "wikilink")3月に[講談社](../Page/講談社.md "wikilink")より発行された。監修は[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")、編著は[皆川ゆか](../Page/皆河有伽.md "wikilink")。

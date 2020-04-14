@@ -1,4 +1,4 @@
-> この記事は[Mr.FULLSWING](https://ja.wikipedia.org/wiki/Mr.FULLSWING)から翻訳されています。
+> この記事は[Mr.FULLSWINGの登場人物](https://ja.wikipedia.org/wiki/Mr.FULLSWINGの登場人物)から翻訳されています。
 
 
 **Mr.FULLSWINGの登場人物**（ミスターフルスイングのとうじょうじんぶつ）は、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）に連載されていた[鈴木信也](../Page/鈴木信也.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[Mr.FULLSWING](../Page/Mr.FULLSWING.md "wikilink")』に登場する架空の人物及び学校の一覧である。

@@ -1,4 +1,4 @@
-> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+> この記事は[WOWOWの海外ドラマ一覧](https://ja.wikipedia.org/wiki/WOWOWの海外ドラマ一覧)から翻訳されています。
 
 
 **WOWOWの海外ドラマ一覧**（ワウワウのかいがいドラマいちらん）は、日本の民間[衛星放送](../Page/衛星放送.md "wikilink")局である[WOWOW](../Page/WOWOW.md "wikilink")で放送された、もしくは予定のある[海外ドラマ](../Page/海外ドラマ.md "wikilink")を記した一覧である。

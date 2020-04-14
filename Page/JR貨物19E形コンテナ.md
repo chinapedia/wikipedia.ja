@@ -1,4 +1,4 @@
-> この記事は[JR19E](https://ja.wikipedia.org/wiki/JR19E)から翻訳されています。
+> この記事は[JR貨物19E形コンテナ](https://ja.wikipedia.org/wiki/JR貨物19E形コンテナ)から翻訳されています。
 
 
 **JR貨物19E形コンテナ**（JRかもつ19Eがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が計500個を配備した12[ft](../Page/フィート.md "wikilink")[ドライコンテナ](https://ja.wikipedia.org/wiki/ドライコンテナ "wikilink")である。

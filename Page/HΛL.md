@@ -1,4 +1,4 @@
-> この記事は[HL](https://ja.wikipedia.org/wiki/HL)から翻訳されています。
+> この記事は[HΛL](https://ja.wikipedia.org/wiki/HΛL)から翻訳されています。
 
 
 **HΛL**（ハル）は、日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")。
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - [HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")（ハルナ、本名：濱田 春菜（はまだ はるな）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）
+  - [HΛLNA](../Page/HΛLNA.md "wikilink")（ハルナ、本名：濱田 春菜（はまだ はるな）、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）
       -
         [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")座間市出身、血液型はA型。ボーカル担当。
   - [佐藤あつし](../Page/Ats-.md "wikilink")（さとう あつし、本名：佐藤 厚、[1966年](../Page/1966年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）
@@ -58,9 +58,9 @@
 
   - 1996年、佐藤あつしと梅崎俊春によってHΛLを結成。派手なデジタル[ビートや](../Page/ビート_\(音楽\).md "wikilink")[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を使ったエッジの効いたサウンドを主軸にした音楽を武器に活動を開始。
   - 1999年から[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")を中心に、[エイベックスに所属するアーティストの楽曲に多く携わるようになる](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。（佐藤がHΛL在籍時にエイベックスからリリースされた楽曲の基本アレンジは全て彼が行っていた。）
-  - 2000年、オーディションで選ばれた女性ボーカリスト**[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")**を加入させ、HΛL名義で[avex traxからデビューする](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+  - 2000年、オーディションで選ばれた女性ボーカリスト**[HΛLNA](../Page/HΛLNA.md "wikilink")**を加入させ、HΛL名義で[avex traxからデビューする](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - 2002年、浜崎あゆみの「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」で[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")の編曲賞を獲得した。
-  - 2003年2月、レコード会社からの公式的な発表は一切なかったものの、佐藤あつしとボーカルの[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")が脱退し、同時にバンドユニットとしての活動休止状態に。佐藤は[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")名義でアレンジャーとして活動を開始し、[tearbridge productionに所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。HΛLNAの脱退後の活動は現在も不明であり、芸能活動からの事実上の引退状態にあると思われる。引き続き梅崎は、これまでサポートギタリストであった[清水武仁](../Page/清水武仁.md "wikilink")（しみず たけひと）と[中野雄太](../Page/中野雄太.md "wikilink")（なかの ゆうた）を迎え入れてサウンドプロデューサーユニットとして再編成し、浜崎あゆみ、[玉置成実](../Page/玉置成実.md "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")等の楽曲に携わるようになる。
+  - 2003年2月、レコード会社からの公式的な発表は一切なかったものの、佐藤あつしとボーカルの[HΛLNA](../Page/HΛLNA.md "wikilink")が脱退し、同時にバンドユニットとしての活動休止状態に。佐藤は[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")名義でアレンジャーとして活動を開始し、[tearbridge productionに所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。HΛLNAの脱退後の活動は現在も不明であり、芸能活動からの事実上の引退状態にあると思われる。引き続き梅崎は、これまでサポートギタリストであった[清水武仁](../Page/清水武仁.md "wikilink")（しみず たけひと）と[中野雄太](../Page/中野雄太.md "wikilink")（なかの ゆうた）を迎え入れてサウンドプロデューサーユニットとして再編成し、浜崎あゆみ、[玉置成実](../Page/玉置成実.md "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")等の楽曲に携わるようになる。
   - 2004年以降は梅崎と清水で、[HIGH and MIGHTY COLORや](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")[右手愛美](../Page/右手愛美.md "wikilink")等のアーティストのプロデューサーとしても活動を開始する。
   - 2005年、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売のレースゲームの[エンスージア プロフェッショナル レーシングのオープニングを製作した](../Page/エンスージア_プロフェッショナル_レーシング.md "wikilink")。
   - 2006年、コナミの音楽ゲーム「[BeatmaniaIIDX14 GOLD](../Page/Beatmania_IIDX.md "wikilink")」にて「[TЁЯRA](https://ja.wikipedia.org/wiki/TЁЯRA "wikilink")」の楽曲「STARS☆☆☆」をリミックスした。

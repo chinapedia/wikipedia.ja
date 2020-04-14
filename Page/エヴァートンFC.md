@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[エヴァートンFC](https://ja.wikipedia.org/wiki/エヴァートンFC)から翻訳されています。
 
 
 **エヴァートン・フットボール・クラブ**（*Everton Football Club*, <small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>：）は、[イングランド](../Page/イングランド.md "wikilink")・[リヴァプール](../Page/リヴァプール.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/赤.md "wikilink")。愛称は**トフィーズ**（*The Toffees，*）。

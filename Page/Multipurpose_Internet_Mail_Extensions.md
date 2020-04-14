@@ -1,7 +1,7 @@
 > この記事は[Multipurpose Internet Mail Extensions](https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions)から翻訳されています。
 
 
-（**多目的インターネットメール拡張**）は、規格上[US-ASCIIの](https://ja.wikipedia.org/wiki/ASCII "wikilink")[テキストしか使用できない](../Page/プレーンテキスト.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")の[電子メール](../Page/電子メール.md "wikilink")でさまざまなフォーマット（書式）を扱えるようにする規格である。通常は**MIME**（マイム）と略される。RFC 2045、RFC 2046、RFC 2047、RFC 4288、RFC 4289\[1\]、RFC 2049 で規定されている。
+（**多目的インターネットメール拡張**）は、規格上[US-ASCIIの](../Page/ASCII.md "wikilink")[テキストしか使用できない](../Page/プレーンテキスト.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")の[電子メール](../Page/電子メール.md "wikilink")でさまざまなフォーマット（書式）を扱えるようにする規格である。通常は**MIME**（マイム）と略される。RFC 2045、RFC 2046、RFC 2047、RFC 4288、RFC 4289\[1\]、RFC 2049 で規定されている。
 
 ## 概要
 

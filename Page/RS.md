@@ -16,7 +16,7 @@
       - [ライディングスピリッツ](https://ja.wikipedia.org/wiki/ライディングスピリッツ "wikilink") - レースゲーム
       - [ポケットモンスター ルビー・サファイア](../Page/ポケットモンスター_ルビー・サファイア.md "wikilink") - RPG
   - [鉄道](../Page/鉄道.md "wikilink")
-      - [ひかりレールスター](../Page/ひかりレールスター.md "wikilink") - [JR西日本が運行する](../Page/西日本旅客鉄道.md "wikilink")[新幹線](../Page/新幹線.md "wikilink")[種別](https://ja.wikipedia.org/wiki/列車種別 "wikilink")
+      - [ひかりレールスター](../Page/ひかりレールスター.md "wikilink") - [JR西日本が運行する](../Page/西日本旅客鉄道.md "wikilink")[新幹線](../Page/新幹線.md "wikilink")[種別](../Page/列車種別.md "wikilink")
       - [国鉄](../Page/日本国有鉄道.md "wikilink")・[JR](../Page/JR.md "wikilink")の主[整流器](../Page/整流器.md "wikilink")の形式名に冠される記号。
   - [自動車](../Page/自動車.md "wikilink")・[オートバイ](../Page/オートバイ.md "wikilink")の車種名またはグレード名。主にモータースポーツを意識したグレードに命名される。（レーシングスポーツ又はロードセーリングの略）
       - [アウディ](https://ja.wikipedia.org/wiki/Audi "wikilink")

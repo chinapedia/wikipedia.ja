@@ -1,4 +1,4 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[トヨタ・カローラFX](https://ja.wikipedia.org/wiki/トヨタ・カローラFX)から翻訳されています。
 
 
 **カローラFX**（カローラエフエックス）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産していた3ドア・5ドア[ハッチバック](../Page/ハッチバック.md "wikilink")の[前輪駆動](../Page/前輪駆動.md "wikilink")方式を採用した[乗用車](../Page/乗用車.md "wikilink")である。

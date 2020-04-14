@@ -1,7 +1,7 @@
-> この記事は[RCD](https://ja.wikipedia.org/wiki/RCD)から翻訳されています。
+> この記事は[RCDエスパニョール](https://ja.wikipedia.org/wiki/RCDエスパニョール)から翻訳されています。
 
 
-**レイアル・クルブ・デポルティウ・エスパニョール・デ・バルセロナ** (  <small>ライアル クルブ ダプルティウ アスパニョール ダ バルサローナ</small>) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")[バルセロナ県](../Page/バルセロナ県.md "wikilink")[バルセロナ](../Page/バルセロナ.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[ラ・リーガ](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属する。
+**レイアル・クルブ・デポルティウ・エスパニョール・デ・バルセロナ** (  <small>ライアル クルブ ダプルティウ アスパニョール ダ バルサローナ</small>) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")[バルセロナ県](../Page/バルセロナ県.md "wikilink")[バルセロナ](../Page/バルセロナ.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属する。
 
 ## 歴史
 

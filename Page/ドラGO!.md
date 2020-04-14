@@ -1,4 +1,4 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[ドラGO!](https://ja.wikipedia.org/wiki/ドラGO!)から翻訳されています。
 
 
 『**ドラGO\! -DRIVE A GOGO\!-**』（ドラゴー\!）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2016年](../Page/2016年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほか系列局で放送されていた[旅行](../Page/旅番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。開始当初から[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までは『**ドライブ A GO\!GO\!**』（ドライブ・ア・ゴー\!ゴー\!）のタイトルで放送され、2013年[4月7日](../Page/4月7日.md "wikilink")から「ドラGO\!」に改題された。
@@ -289,7 +289,7 @@
 
 ## 外部リンク
 
-  - [ドラGO！](http://www.tv-tokyo.co.jp/drive/)
+  - [ドラGO！](https://www.tv-tokyo.co.jp/drive/)
 
 [Category:2013年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2013年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の紀行・旅番組 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:トヨタグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:トヨタグループ単独提供番組 "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 

@@ -738,6 +738,10 @@
 
   - 「とりぷるトラブル」（編曲）
 
+**[恋する小惑星](https://ja.wikipedia.org/wiki/恋する小惑星 "wikilink")**
+
+  - 「夜空」（作曲・編曲）
+
 **[最弱無敗の神装機竜](https://ja.wikipedia.org/wiki/最弱無敗の神装機竜 "wikilink")**
 
   - 「リトルラブ・リトルキス」（作曲・編曲）

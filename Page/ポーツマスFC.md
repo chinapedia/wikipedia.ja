@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ポーツマスFC](https://ja.wikipedia.org/wiki/ポーツマスFC)から翻訳されています。
 
 
 **ポーツマス・フットボール・クラブ** (**Portsmouth Football Club** ) は、[イングランド](../Page/イングランド.md "wikilink")・[ハンプシャー](../Page/ハンプシャー.md "wikilink")州[ポーツマスに本拠地を置く](../Page/ポーツマス_\(イングランド\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。現在は[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")に所属。愛称は「ポンペイ」。ポーツマスからわずか17マイルの位置に本拠地を構える[サウサンプトンとの一戦は](../Page/サウサンプトンFC.md "wikilink")[サウスコースト・ダービー](https://ja.wikipedia.org/wiki/サウスコースト・ダービー "wikilink") (South Coast derby) と呼ばれ、一層の盛り上がりをみせる。

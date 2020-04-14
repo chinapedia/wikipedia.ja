@@ -1,4 +1,4 @@
-> この記事は[SL](https://ja.wikipedia.org/wiki/SL)から翻訳されています。
+> この記事は[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ)から翻訳されています。
 
 
 **スポルト・リジュボア・イ・ベンフィカ**（）は、[ポルトガル](../Page/ポルトガル.md "wikilink")・[リスボン](../Page/リスボン.md "wikilink")に本拠地を置く総合[スポーツクラブ](../Page/クラブチーム.md "wikilink")。特に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チームが有名であるため、この項ではサッカーチームを中心に記述する。

@@ -1,4 +1,4 @@
-> この記事は[GOGO! ](https://ja.wikipedia.org/wiki/GOGO!_)から翻訳されています。
+> この記事は[GOGO! チアガール](https://ja.wikipedia.org/wiki/GOGO!_チアガール)から翻訳されています。
 
 
 『**GOGO\! チアガール**』（ゴーゴー チアガール）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[TBSと](../Page/TBSテレビ.md "wikilink")[東宝](../Page/東宝.md "wikilink")が制作した[三原順子主演の青春もの](../Page/三原じゅん子.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

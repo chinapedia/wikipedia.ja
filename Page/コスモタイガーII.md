@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[コスモタイガーII](https://ja.wikipedia.org/wiki/コスモタイガーII)から翻訳されています。
 
 
 **コスモタイガーII**（コスモタイガー ツー）は、[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")「[宇宙戦艦ヤマトシリーズ](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ "wikilink")」に登場する、架空の[宇宙戦闘機](../Page/宇宙戦闘機.md "wikilink")。デザイン担当は[松本零士](../Page/松本零士.md "wikilink")（原案デザイン）、[宮武一貴](../Page/宮武一貴.md "wikilink")（単座タイプと三座タイプ）、[板橋克己](../Page/板橋克己.md "wikilink")（雷撃機と新コスモゼロ）\[1\]。本記事では、『[宇宙戦艦ヤマト2202 愛の戦士たち](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2202_愛の戦士たち "wikilink")』に登場する**[コスモタイガーI](https://ja.wikipedia.org/wiki/#コスモタイガーI "wikilink")**についても記述する。

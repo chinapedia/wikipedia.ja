@@ -1,4 +1,4 @@
-> この記事は[VDT](https://ja.wikipedia.org/wiki/VDT)から翻訳されています。
+> この記事は[VDT症候群](https://ja.wikipedia.org/wiki/VDT症候群)から翻訳されています。
 
 
 [Woman-typing-on-laptop.jpg](https://ja.wikipedia.org/wiki/File:Woman-typing-on-laptop.jpg "fig:Woman-typing-on-laptop.jpg") **VDT症候群**（ブイ・ディー・ティーしょうこうぐん、英語:Visual Display Terminal Syndrome）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")の[ディスプレイなど表示機器](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")（総称して Visual Display Terminal、[VDT](https://ja.wikipedia.org/wiki/VDT "wikilink") と呼ばれる）を使用した作業（[VDT作業](../Page/VDT作業.md "wikilink")ともいう）を長時間続けたことにより、[目](../Page/目.md "wikilink")や[体](../Page/体.md "wikilink")、[心](../Page/心.md "wikilink")に生じる症状。別名は**[テクノストレス](../Page/テクノストレス.md "wikilink")眼症**、**IT眼症**\[1\]。

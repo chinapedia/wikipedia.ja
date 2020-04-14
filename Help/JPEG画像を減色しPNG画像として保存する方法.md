@@ -1,4 +1,4 @@
-> この記事は[Help:JPEGPNG](https://ja.wikipedia.org/wiki/Help:JPEGPNG)から翻訳されています。
+> この記事は[Help:JPEG画像を減色しPNG画像として保存する方法](https://ja.wikipedia.org/wiki/Help:JPEG画像を減色しPNG画像として保存する方法)から翻訳されています。
 
 
 ウィキペディアの記事内で使用されている有益な図や画像のなかには、実際は[PNGフォーマットの方が適しているのですが](../Page/Portable_Network_Graphics.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")フォーマットで保存されているものが時々あります。JPEG形式は色が流動的に変化し多段階の色調で表現される写真のような画像に適しています。それに対し、PNGは比較的色数が少なく、色の変化や色の境界がはっきりした国旗・表・地図等の画像に適しています。

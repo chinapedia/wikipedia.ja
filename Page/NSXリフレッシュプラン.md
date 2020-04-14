@@ -1,4 +1,4 @@
-> この記事は[NSX](https://ja.wikipedia.org/wiki/NSX)から翻訳されています。
+> この記事は[NSXリフレッシュプラン](https://ja.wikipedia.org/wiki/NSXリフレッシュプラン)から翻訳されています。
 
 
 **NSXリフレッシュプラン** (NSX Refresh Plan)とは、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産していた[NSXのオーナーに対する有償のサービスメニューの一つで](../Page/ホンダ・NSX.md "wikilink")、経年車にメーカーによる機能修復作業を行って新車時の性能を蘇らせるものである。

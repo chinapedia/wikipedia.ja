@@ -1,4 +1,4 @@
-> この記事は[TKU](https://ja.wikipedia.org/wiki/TKU)から翻訳されています。
+> この記事は[TKUスーパーニュース](https://ja.wikipedia.org/wiki/TKUスーパーニュース)から翻訳されています。
 
 
 『**TKUスーパーニュース**』（ティーケーユースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*TKU Super NEWS*）は、[テレビ熊本](../Page/テレビ熊本.md "wikilink")で夕方に放送されていた[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

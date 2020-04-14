@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAオサスナ](https://ja.wikipedia.org/wiki/CAオサスナ)から翻訳されています。
 
 
 **CAオサスナ**（、）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[ナバラ州](../Page/ナバラ州.md "wikilink")の州都[パンプローナ](../Page/パンプローナ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。

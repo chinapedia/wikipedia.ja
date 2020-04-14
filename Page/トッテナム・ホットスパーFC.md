@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トッテナム・ホットスパーFC](https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC)から翻訳されています。
 
 
 **トッテナム・ホットスパー・フットボール・クラブ**（**Tottenham Hotspur Football Club**、: ）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")北部をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。トットナム・ホットスパーと表記されることもある。愛称は**スパーズ**（Spurs）。
@@ -33,37 +33,37 @@
 
 ### 2010年代
 
-#### 2010-2011シーズン
+#### 2010-11シーズン
 
 2010年にENICが前オーナーの[アラン・シュガー](https://ja.wikipedia.org/wiki/アラン・シュガー "wikilink")や[イージーグループ](../Page/イージーグループ.md "wikilink")の総帥[ステリオス・ハジ＝イオアヌ](https://ja.wikipedia.org/wiki/ステリオス・ハジ＝イオアヌ "wikilink")が持つ株式を買収し、クラブ株式の85％を持つに至る。2010-11シーズンの夏の移籍市場では[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から[ラファエル・ファン・デル・ファールト](../Page/ラファエル・ファン・デル・ファールト.md "wikilink")を獲得するなどをして注目を浴びた。初のチャンピオンズリーグでは、イタリアの強豪[インテルを抑えてグループリーグを](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")1位通過するとベスト16では同じくイタリアの強豪[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")を破ってベスト8に進出して健闘した。一方、プレミアリーグではフォワード陣の得点不足やキーパーの凡ミスなどが問題となって5位となり、2年連続のチャンピオンズリーグ出場はならず[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")に出場することになった。
 
-#### 2011-2012シーズン
+#### 2011-12シーズン
 
 2011-12シーズンは得点不足を解消するために[マンチェスター・シティから](../Page/マンチェスター・シティFC.md "wikilink")[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")をレンタルで、加えて[ブラッド・フリーデル](../Page/ブラッド・フリーデル.md "wikilink")や[スコット・パーカー](../Page/スコット・パーカー.md "wikilink")なども獲得し、前シーズンの不安要素を中心とした補強がされた。また冬の移籍市場では元[マンチェスター・ユナイテッドの](../Page/マンチェスター・ユナイテッドFC.md "wikilink")[ルイ・サハ](../Page/ルイ・サハ.md "wikilink")なども獲得した。ヨーロッパリーグでは[ターンオーバー](https://ja.wikipedia.org/wiki/ターンオーバー "wikilink")に徹して主力を温存したこともあり、[PAOKテッサロニキ](../Page/PAOKテッサロニキ.md "wikilink")、[FCルビン・カザン](https://ja.wikipedia.org/wiki/FCルビン・カザン "wikilink")に次ぐ3位でグループステージ敗退。プレミアリーグでは4位となり、チャンピオンズリーグ出場権を獲得したが、プレミアリーグを6位で終えたチェルシーがUEFAチャンピオンズリーグで優勝し前年優勝クラブ枠を手にしたため、トッテナムはUEFAヨーロッパリーグへ回ることとなった。2012年1月には、収容人数が4万人に満たない[ホワイト・ハート・レーン](../Page/ホワイト・ハート・レーン.md "wikilink")に代わる新たなスタジアムの建設に向け、クラブの非上場化の手続きを完了した。
 
-#### 2012-2013シーズン
+#### 2012-13シーズン
 
-[2012年](../Page/2012年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")、レドナップの退任が発表された。[7月3日](../Page/7月3日.md "wikilink")に新監督として[アンドレ・ビラス・ボアス](https://ja.wikipedia.org/wiki/アンドレ・ビラス・ボアス "wikilink")就任を発表した。それに続いて[ギルフィ・シグルズソン](https://ja.wikipedia.org/wiki/ギルフィ・シグルズソン "wikilink")と[ヤン・フェルトンゲン](https://ja.wikipedia.org/wiki/ヤン・フェルトンゲン "wikilink")を獲得した。さらには[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")を買い取り、[フラムFC](../Page/フラムFC.md "wikilink")から[ムサ・デンベレ](https://ja.wikipedia.org/wiki/ムサ・デンベレ "wikilink")と[クリント・デンプシー](../Page/クリント・デンプシー.md "wikilink")を獲得し、フリーデルの後継者として[ウーゴ・ロリス](../Page/ウーゴ・ロリス.md "wikilink")も獲得した。一方でモドリッチを移籍金3330万ポンドでレアル・マドリードに売却し、同時にRマドリーと業務提携を結んでいる\[7\]。さらに冬の移籍市場では、[シャルケ04](../Page/シャルケ04.md "wikilink")から、[サッカードイツ代表](../Page/サッカードイツ代表.md "wikilink")である、[ルイス・ホルトビー](https://ja.wikipedia.org/wiki/ルイス・ホルトビー "wikilink")を獲得した。
+2012年6月14日、レドナップの退任が発表された。7月3日に新監督として[アンドレ・ビラス・ボアス](https://ja.wikipedia.org/wiki/アンドレ・ビラス・ボアス "wikilink")就任を発表した。それに続いて[ギルフィ・シグルズソン](https://ja.wikipedia.org/wiki/ギルフィ・シグルズソン "wikilink")と[ヤン・フェルトンゲン](https://ja.wikipedia.org/wiki/ヤン・フェルトンゲン "wikilink")を獲得した。さらには[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")を買い取り、[フラムFC](../Page/フラムFC.md "wikilink")から[ムサ・デンベレ](https://ja.wikipedia.org/wiki/ムサ・デンベレ "wikilink")と[クリント・デンプシー](../Page/クリント・デンプシー.md "wikilink")を獲得し、フリーデルの後継者として[ウーゴ・ロリス](../Page/ウーゴ・ロリス.md "wikilink")も獲得した。一方でモドリッチを移籍金3330万ポンドでレアル・マドリードに売却し、同時にレアル・マドリーと業務提携を結んでいる\[7\]。さらに冬の移籍市場では、[シャルケ04](../Page/シャルケ04.md "wikilink")から[ドイツ代表の](../Page/サッカードイツ代表.md "wikilink")[ルイス・ホルトビー](https://ja.wikipedia.org/wiki/ルイス・ホルトビー "wikilink")を獲得した。
 
-#### 2013-2014シーズン
+#### 2013-14シーズン
 
-2013年夏、チームの顔である[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")移籍の噂が大きく報道される中、移籍市場では積極的に動き、チームを強化するためこれまで主力選手だった、クリント・デンプシー、[トム・ハドルストーン](../Page/トム・ハドルストーン.md "wikilink")、[ジェイク・リヴァーモア](https://ja.wikipedia.org/wiki/ジェイク・リバモア "wikilink")、前主将の[ウィリアム・ギャラス](../Page/ウィリアム・ギャラス.md "wikilink")、さらには副主将のスコット・パーカーまでもを放出し、巨額の資金を投じてブラジル代表[パウリーニョやクラブ史上最高額の移籍金となる約](https://ja.wikipedia.org/wiki/ジョゼ・パウロ・ベセーラ・マシエル・ジュニオール "wikilink")3000万ユーロで、スペイン代表[ロベルト・ソルダード](../Page/ロベルト・ソルダード.md "wikilink")、ベルギー代表[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")、フランス代表[エティエンヌ・カプエ](https://ja.wikipedia.org/wiki/エティエンヌ・カプエ "wikilink")を獲得するなど大型補強を敢行した。13-14シーズン開幕戦[クリスタル・パレス](https://ja.wikipedia.org/wiki/クリスタル・パレス "wikilink")戦、第2節の[スウォンジ・シティAFC](https://ja.wikipedia.org/wiki/スウォンジ・シティAFC "wikilink")戦共に、新加入のソルダードのPKでどちらも1－0で勝利し、幸先の良いスタートを切った。さらに補強の手を緩めず[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")、[クリスティアン・エリクセン](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")、[ヴラド・キリケシュ](https://ja.wikipedia.org/wiki/ヴラド・キリケシュ "wikilink")といった各国の代表クラスの選手を獲得し、この移籍市場での投資額は、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")に次ぐと見られる約160億円に上った。特にエリクセンの獲得はチームの攻撃に大きなオプションを与えた。そして9月1日にベイルを史上最高額の8500万ポンドでレアル・マドリードに売却することを発表\[8\]、背番号**11**は[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")が受け継いだ\[9\]。
+2013年夏、チームの顔である[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")移籍の噂が大きく報道される中、移籍市場では積極的に動き、チームを強化するためこれまで主力選手だった、クリント・デンプシー、[トム・ハドルストーン](../Page/トム・ハドルストーン.md "wikilink")、[ジェイク・リヴァーモア](https://ja.wikipedia.org/wiki/ジェイク・リバモア "wikilink")、前主将の[ウィリアム・ギャラス](../Page/ウィリアム・ギャラス.md "wikilink")、さらには副主将のスコット・パーカーまでもを放出し、巨額の資金を投じてブラジル代表[パウリーニョやクラブ史上最高額の移籍金となる約](https://ja.wikipedia.org/wiki/ジョゼ・パウロ・ベセーラ・マシエル・ジュニオール "wikilink")3000万ユーロで、スペイン代表[ロベルト・ソルダード](../Page/ロベルト・ソルダード.md "wikilink")、ベルギー代表[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")、フランス代表[エティエンヌ・カプエ](https://ja.wikipedia.org/wiki/エティエンヌ・カプエ "wikilink")を獲得するなど大型補強を敢行した。2013-14シーズン開幕戦[クリスタル・パレス](https://ja.wikipedia.org/wiki/クリスタル・パレス "wikilink")戦、第2節の[スウォンジ・シティAFC](https://ja.wikipedia.org/wiki/スウォンジ・シティAFC "wikilink")戦共に、新加入のソルダードのPKでどちらも1-0で勝利し、幸先の良いスタートを切った。さらに補強の手を緩めず[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")、[クリスティアン・エリクセン](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")、[ヴラド・キリケシュ](https://ja.wikipedia.org/wiki/ヴラド・キリケシュ "wikilink")といった各国の代表クラスの選手を獲得し、この移籍市場での投資額は、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")に次ぐと見られる約160億円に上った。特にエリクセンの獲得はチームの攻撃に大きなオプションを与えた。そして9月1日にベイルを史上最高額の8500万ポンドでレアル・マドリードに売却することを発表\[8\]、背番号11番は[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")が受け継いだ\[9\]。
 
 2013-14シーズンは前述の大型補強にも拘らず11月24日のマンチェスター・シティ戦で0-6の大敗、12月15日のリヴァプール戦で0-5の大敗を喫するなど調子が上がらず、12月16日にビラス・ボアスは解任された。後任として、[ティム・シャーウッド](https://ja.wikipedia.org/wiki/ティム・シャーウッド "wikilink")がアシスタントコーチから暫定監督を経て正式に監督に就任、ビラスボアス時代に冷遇されていた[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")を起用して、彼が再びエースの地位を取り戻すチャンスを与えた。輝きを取り戻したアデバヨールに加え、エリクセン、レノンのコンディションも順調に整い、元日の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")戦で勝利するなどして短期間で一気に順位を上げる事に成功したが、その後も優勝争いには絡むことなく6位に終わりCL出場権を逃した。
 
-#### 2014-2015シーズン
+#### 2014-15シーズン
 
-2013-14シーズン終了後にシャーウッドは解任され、新監督に[サウサンプトンFC](../Page/サウサンプトンFC.md "wikilink")で好成績を残した[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")を招聘した。[2014年](../Page/2014年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にはベテラン[GK](https://ja.wikipedia.org/wiki/GK "wikilink")[ブラッド・フリーデル](../Page/ブラッド・フリーデル.md "wikilink")が1年間の契約延長発表と同時にクラブのアンバサダーに就任した。
+2013-14シーズン終了後にシャーウッドは解任され、新監督に[サウサンプトンFC](../Page/サウサンプトンFC.md "wikilink")で好成績を残した[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")を招聘した。2014年6月9日にはベテラン[GK](https://ja.wikipedia.org/wiki/GK "wikilink")[ブラッド・フリーデル](../Page/ブラッド・フリーデル.md "wikilink")が1年間の契約延長発表と同時にクラブのアンバサダーに就任した。
 
 2014-15シーズンは、[ベンジャミン・スタンブリ](https://ja.wikipedia.org/wiki/ベンジャミン・スタンブリ "wikilink")、[フェデリコ・ファシオ](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")、[ミシェル・フォルム](https://ja.wikipedia.org/wiki/ミシェル・フォルム "wikilink")、[ベン・デイヴィス](https://ja.wikipedia.org/wiki/ベン・デイヴィス_\(1993年生のサッカー選手\) "wikilink")、[エリック・ダイアー](https://ja.wikipedia.org/wiki/エリック・ダイアー "wikilink")、[デアンドレ・イェドリン](https://ja.wikipedia.org/wiki/デアンドレ・イェドリン "wikilink")など守備に重きを置いた補強を展開した。[ベルギー代表](../Page/サッカーベルギー代表.md "wikilink")[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")が開幕から5試合で4得点を決めるなど、前シーズンに「失敗」の格印を押された選手達が活躍を始めた\[10\]。
 
-#### 2015-2016シーズン
+#### 2015-16シーズン
 
 夏の移籍市場では[パウリーニョ](https://ja.wikipedia.org/wiki/ジョゼ・パウロ・ベセーラ・マシエル・ジュニオール "wikilink")、[エティエンヌ・カプエ](https://ja.wikipedia.org/wiki/エティエンヌ・カプエ "wikilink")、[ユネス・カブール](../Page/ユネス・カブール.md "wikilink")、[ルイス・ホルトビー](https://ja.wikipedia.org/wiki/ルイス・ホルトビー "wikilink")、[アーロン・レノン](../Page/アーロン・レノン.md "wikilink")、[ロベルト・ソルダード](../Page/ロベルト・ソルダード.md "wikilink")らが移籍した一方、[ケヴィン・ヴィマー](https://ja.wikipedia.org/wiki/ケヴィン・ヴィマー "wikilink")、[キーラン・トリッピアー](https://ja.wikipedia.org/wiki/キーラン・トリッピアー "wikilink")、[トビー・アルデルヴェイレルト](https://ja.wikipedia.org/wiki/トビー・アルデルヴェイレルト "wikilink")、[クリントン・エンジ](https://ja.wikipedia.org/wiki/クリントン・エンジ "wikilink")、[ソン・フンミン](https://ja.wikipedia.org/wiki/ソン・フンミン "wikilink")を獲得した。
 
 [プレミアリーグ](../Page/プレミアリーグ.md "wikilink")では[レスター・シティ](https://ja.wikipedia.org/wiki/レスター・シティ "wikilink")と優勝争いを演じ、終盤に失速したものの3位でフィニッシュした。これにより[UEFAチャンピオンズリーグの出場権を得た](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink")。[トビー・アルデルヴァイレルト](https://ja.wikipedia.org/wiki/トビー・アルデルヴァイレルト "wikilink")、[ダニー・ローズ](https://ja.wikipedia.org/wiki/ダニー・ローズ "wikilink")、[ハリー・ケイン](https://ja.wikipedia.org/wiki/ハリー・ケイン "wikilink")、[デレ・アリ](https://ja.wikipedia.org/wiki/デレ・アリ "wikilink")が[PFA年間ベストイレブン](../Page/PFA年間ベストイレブン.md "wikilink")に選出された。ケインはリーグ得点王と、アリは[PFA年間最優秀若手選手賞](../Page/PFA年間最優秀若手選手賞.md "wikilink")とのダブル受賞であった。
 
-#### 2016-2017シーズン
+#### 2016-17シーズン
 
 夏の移籍市場では[ケニア代表MF](../Page/サッカーケニア代表.md "wikilink")[ビクター・ワニアマ](https://ja.wikipedia.org/wiki/ビクター・ワニアマ "wikilink")、[フランス代表MF](../Page/サッカーフランス代表.md "wikilink")[ムサ・シソコ](https://ja.wikipedia.org/wiki/ムサ・シソコ "wikilink")、[ベルギー代表FW](../Page/サッカーオランダ代表.md "wikilink")[フィンチェント・ヤンセン](https://ja.wikipedia.org/wiki/フィンチェント・ヤンセン "wikilink")、フランスU-21代表FW[ジョルジュ＝ケヴィン・エンクドゥ](https://ja.wikipedia.org/wiki/ジョルジュ＝ケヴィン・エンクドゥ "wikilink")を獲得。
 
@@ -71,19 +71,17 @@
 
 1899年から本拠地であった[ホワイト・ハート・レーン](../Page/ホワイト・ハート・レーン.md "wikilink")最後のシーズンであった。最終戦はマンチェスターユナイテッドとの試合で[ビクター・ワニアマ](https://ja.wikipedia.org/wiki/ビクター・ワニアマ "wikilink")、[ハリー・ケイン](https://ja.wikipedia.org/wiki/ハリー・ケイン "wikilink")のゴールで2－1で勝利し、最終戦に華を添えた。終了後には最後の勝利を祝うサポーターがピッチになだれ込み空には虹が現れた。なお、リーグ戦におけるホーム戦では無敗を記録した。
 
-[UEFAチャンピオンズリーグ 2016-17ではグループリーグで](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink")[ASモナコ](../Page/ASモナコ.md "wikilink")、[バイエル・レバークーゼン](../Page/バイエル・レバークーゼン.md "wikilink")、[CSKAモスクワ](https://ja.wikipedia.org/wiki/CSKAモスクワ "wikilink")と同組になり、決勝トーナメント進出は確実かと思われていたが、2勝1分3敗のグループ3位で敗退した。[ヨーロッパリーグに回ったが](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17 "wikilink")、ラウンド32で[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")に敗れた。
+[UEFAチャンピオンズリーグ 2016-17ではグループリーグで](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17 "wikilink")[ASモナコ](../Page/ASモナコ.md "wikilink")、[バイエル・レバークーゼン](../Page/バイエル・レバークーゼン.md "wikilink")、[CSKAモスクワと同組になり](../Page/PFC_CSKAモスクワ.md "wikilink")、決勝トーナメント進出は確実かと思われていたが、2勝1分3敗のグループ3位で敗退した。[ヨーロッパリーグに回ったが](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17 "wikilink")、ラウンド32で[KAAヘント](https://ja.wikipedia.org/wiki/KAAヘント "wikilink")に敗れた。
 
-#### 2017-2018シーズン
+#### 2017-18シーズン
 
 当シーズンは[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")を本拠地として使用した\[11\]。
 
-[カイル・ウォーカー](https://ja.wikipedia.org/wiki/カイル・ウォーカー "wikilink")が[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")へ、[ケヴィン・ヴィマー](https://ja.wikipedia.org/wiki/ケヴィン・ヴィマー "wikilink")が[ストーク・シティFC](../Page/ストーク・シティFC.md "wikilink")へ完全移籍、レンタル移籍中の[ファシオは](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")[ローマ](../Page/ASローマ.md "wikilink")、[ベンタレブは](https://ja.wikipedia.org/wiki/ナビル・ベンタレブ "wikilink")[シャルケへ完全移籍した](../Page/シャルケ04.md "wikilink")。
-
-一方で[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[コロンビア代表DF](../Page/サッカーコロンビア代表.md "wikilink")[ダビンソン・サンチェス](https://ja.wikipedia.org/wiki/ダビンソン・サンチェス "wikilink")、[サウサンプトンからGK](../Page/サウサンプトンFC.md "wikilink")[パウロ・ガッサニーガ](https://ja.wikipedia.org/wiki/パウロ・ガッサニーガ "wikilink")、[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")から[コートジボワール代表DF](../Page/サッカーコートジボワール代表.md "wikilink")[セルジュ・オーリエ](https://ja.wikipedia.org/wiki/セルジュ・オーリエ "wikilink")、[エストゥディアンテス](https://ja.wikipedia.org/wiki/エストゥディアンテス "wikilink")からU-20アルゼンチン代表[フアン・フォイス](https://ja.wikipedia.org/wiki/フアン・フォイス "wikilink")、[スウォンジーから元スペイン代表FW](../Page/スウォンジー・シティAFC.md "wikilink")[フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")を獲得した。1月の移籍市場では[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")から[ブラジル代表MF](https://ja.wikipedia.org/wiki/サッカーブラジル代表 "wikilink")[ルーカス・モウラを獲得](https://ja.wikipedia.org/wiki/ルーカス・ロドリゲス・モウラ・ダ・シルヴァ "wikilink")。
+[カイル・ウォーカー](https://ja.wikipedia.org/wiki/カイル・ウォーカー "wikilink")が[マンチェスター・シティ](https://ja.wikipedia.org/wiki/マンチェスター・シティ "wikilink")へ、[ケヴィン・ヴィマー](https://ja.wikipedia.org/wiki/ケヴィン・ヴィマー "wikilink")が[ストーク・シティFC](../Page/ストーク・シティFC.md "wikilink")へ完全移籍、レンタル移籍中の[ファシオは](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")[ローマ](../Page/ASローマ.md "wikilink")、[ベンタレブは](https://ja.wikipedia.org/wiki/ナビル・ベンタレブ "wikilink")[シャルケへ完全移籍した](../Page/シャルケ04.md "wikilink")。一方で[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[コロンビア代表DF](../Page/サッカーコロンビア代表.md "wikilink")[ダビンソン・サンチェス](https://ja.wikipedia.org/wiki/ダビンソン・サンチェス "wikilink")、[サウサンプトンからGK](../Page/サウサンプトンFC.md "wikilink")[パウロ・ガッサニーガ](https://ja.wikipedia.org/wiki/パウロ・ガッサニーガ "wikilink")、[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")から[コートジボワール代表DF](../Page/サッカーコートジボワール代表.md "wikilink")[セルジュ・オーリエ](https://ja.wikipedia.org/wiki/セルジュ・オーリエ "wikilink")、[エストゥディアンテス](https://ja.wikipedia.org/wiki/エストゥディアンテス "wikilink")からU-20アルゼンチン代表[フアン・フォイス](https://ja.wikipedia.org/wiki/フアン・フォイス "wikilink")、[スウォンジーから元スペイン代表FW](../Page/スウォンジー・シティAFC.md "wikilink")[フェルナンド・ジョレンテ](../Page/フェルナンド・ジョレンテ.md "wikilink")を獲得した。1月の移籍市場では[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")から[ブラジル代表MF](https://ja.wikipedia.org/wiki/サッカーブラジル代表 "wikilink")[ルーカス・モウラを獲得](https://ja.wikipedia.org/wiki/ルーカス・ロドリゲス・モウラ・ダ・シルヴァ "wikilink")。
 
 [UEFAチャンピオンズリーグ 2017-18ではグループリーグで前回王者の](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink")[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")に勝利するなどして首位通過を果たした。ラウンド16では前回準優勝の[ユベントスFC](https://ja.wikipedia.org/wiki/ユベントスFC "wikilink")と対戦。敵地での1stレグでは序盤に2点を失うも[ハリー・ケイン](https://ja.wikipedia.org/wiki/ハリー・ケイン "wikilink")と[クリスティアン・エリクセン](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")のゴールで追いついて2-2で終了。貴重なアウェイゴールを2つ奪い、優位な状況で迎えた本拠地での2ndレグでも前半に[ソン・フンミン](https://ja.wikipedia.org/wiki/ソン・フンミン "wikilink")のゴールで先制したが、後半に[ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")と[パウロ・ディバラ](https://ja.wikipedia.org/wiki/パウロ・ディバラ "wikilink")に連続でゴールを許し1-2で逆転負け、2戦合計3-4で敗退した。
 
-#### 2018-2019シーズン
+#### 2018-19シーズン
 
 このシーズンから[トッテナム・ホットスパースタジアムを本拠地として使用する予定だったが工事が間に合わず](https://ja.wikipedia.org/wiki/ノーサンバーランド開発計画 "wikilink")、シーズン前半戦は[ウェンブリー](https://ja.wikipedia.org/wiki/ウェンブリー "wikilink")で試合が行われた。新スタジアム建設費がかさんだことにより夏の移籍市場では補強を一切行わなかった。シーズン前に補強を行わなかったのは全チームを通じて[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")史上初であった。冬の移籍市場でも補強は行われなかった。
 
@@ -93,9 +91,9 @@
 
 2019年4月には新本拠地[トッテナム・ホットスパースタジアムが完成した](https://ja.wikipedia.org/wiki/ノーサンバーランド開発計画 "wikilink")。新スタジアムの初戦となった[クリスタル・パレスFC](../Page/クリスタル・パレスFC.md "wikilink")戦ではソンがファーストゴールを記録し勝利した。
 
-#### 2019-2020シーズン
+#### 2019-20シーズン
 
-[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていたエリクセンは残留した。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグ](https://ja.wikipedia.org/wiki/チャンピオンズリーグ "wikilink")では[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[12\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[13\]｡モウリーニョ監督の初戦となったウェストハム戦は3-2でアウェイで勝利した。そして、チャンピオンズリーグのオリンピアコス戦では2点を先制されるも、4点とって逆転勝利して、トッテナムでのチャンピオンズリーグ初勝利をおさめた。 冬の移籍市場では、第一にジェジソン・フェルナンデスを獲得した。また、案の定エリクセンはインテル・ミラノへ移籍し、その代わりのようにPSVからステーフェン・ベルフワインを獲得した。ほかに、ダニーローズがニューカッスル・ユナイテッドへ、カイル・ウォーカー・ピータースはサウサンプトンに移籍した。ロ・チェルソは、ベティスとのレンタル関係を完全移籍とした。
+[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていたエリクセンは残留した。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグ](https://ja.wikipedia.org/wiki/チャンピオンズリーグ "wikilink")では[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[12\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[13\]｡モウリーニョ監督の初戦となったウェストハム戦は3-2でアウェイで勝利した。そして、チャンピオンズリーグのオリンピアコス戦では2点を先制されるも、4点とって逆転勝利して、トッテナムでのチャンピオンズリーグ初勝利をおさめた。冬の移籍市場では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")から[ジェドソン・フェルナンデス](https://ja.wikipedia.org/wiki/ジェドソン・フェルナンデス "wikilink")、PSVから[ステーフェン・ベルフワイン](https://ja.wikipedia.org/wiki/ステーフェン・ベルフワイン "wikilink")を獲得し、レンタル加入していたロ・チェルソを完全移籍で獲得した。一方で、エリクセンはインテル・ミラノに、ダニー・ローズがニューカッスル・ユナイテッドに、カイル・ウォーカー・ピータースがサウサンプトンに移籍した。
 
 ## ユニフォーム
 
@@ -249,9 +247,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★ ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink")) ★ ★  ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★ ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink")) ★ ★  ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

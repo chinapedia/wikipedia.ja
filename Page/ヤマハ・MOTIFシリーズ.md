@@ -1,4 +1,4 @@
-> この記事は[MOTIF](https://ja.wikipedia.org/wiki/MOTIF)から翻訳されています。
+> この記事は[ヤマハ・MOTIFシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・MOTIFシリーズ)から翻訳されています。
 
 
 **MOTIF**（モチーフ）とは[ヤマハ](../Page/ヤマハ.md "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の商品名である。

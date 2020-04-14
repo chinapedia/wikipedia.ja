@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASモナコ](https://ja.wikipedia.org/wiki/ASモナコ)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:Stadion_von_Monaco_Seitenansicht.jpg "wikilink")

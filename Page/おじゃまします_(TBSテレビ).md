@@ -1,4 +1,4 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[おじゃまします \(TBSテレビ\)](https://ja.wikipedia.org/wiki/おじゃまします_\(TBSテレビ\))から翻訳されています。
 
 
 『**おじゃまします**』は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")から同年[11月1日](../Page/11月1日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。正式名称は『**コント山口君と竹田君のおじゃまします**』。全34回。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 12:00 - 12:40 （[日本標準時](../Page/日本標準時.md "wikilink")）。

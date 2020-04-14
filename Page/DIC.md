@@ -13,9 +13,9 @@
 
   - [ディック (ファイナンス)](../Page/ディック_\(ファイナンス\).md "wikilink") - [CFJが](../Page/CFJ_\(企業\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内で展開する[消費者金融](../Page/消費者金融.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")。
 
-  - \- [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のアニメーション制作会社。『[宇宙伝説ユリシーズ31](../Page/宇宙伝説ユリシーズ31.md "wikilink")』等で知られる。2008年にに吸収合併された。（[公式サイト](http://www.dicentertainment.com/main.php)）
+  - \- [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のアニメーション制作会社。『[宇宙伝説ユリシーズ31](../Page/宇宙伝説ユリシーズ31.md "wikilink")』などで知られる。2008年にはに吸収合併された。
 
-      - ディック・ジャパン - 上記が[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")に[東京ムービー](../Page/東京ムービー.md "wikilink")（[現：トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")）と設立した合弁会社。
+      - ディック・ジャパン - 上記会社が[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")に[東京ムービー](../Page/東京ムービー.md "wikilink")（[現：トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")）と設立した合弁会社。
 
   - [播種性血管内凝固症候群](../Page/播種性血管内凝固症候群.md "wikilink") - [血液疾患](https://ja.wikipedia.org/wiki/血液疾患 "wikilink")の一種。Disseminated Intravascular Coagulation
 

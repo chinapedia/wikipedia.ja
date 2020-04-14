@@ -1,4 +1,4 @@
-> この記事は[  PROJECT G4](https://ja.wikipedia.org/wiki/__PROJECT_G4)から翻訳されています。
+> この記事は[劇場版 仮面ライダーアギト PROJECT G4](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーアギト_PROJECT_G4)から翻訳されています。
 
 
 『**劇場版 仮面ライダーアギト PROJECT G4**』（げきじょうばん かめんライダーアギト プロジェクト ジーフォー）は、[2001年](../Page/2001年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された、日本の映画作品。

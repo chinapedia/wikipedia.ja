@@ -1,4 +1,4 @@
-> この記事は[ \(YouTuber\)](https://ja.wikipedia.org/wiki/_\(YouTuber\))から翻訳されています。
+> この記事は[虫眼鏡 \(YouTuber\)](https://ja.wikipedia.org/wiki/虫眼鏡_\(YouTuber\))から翻訳されています。
 
 
 **虫眼鏡**（むしめがね、[1992年](../Page/1992年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")\[1\] - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[YouTubeクリエイター](https://ja.wikipedia.org/wiki/YouTubeクリエイター "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[作家](../Page/作家.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[岡崎市](../Page/岡崎市.md "wikilink")を拠点に活動するYouTuberグループ「[東海オンエア](https://ja.wikipedia.org/wiki/東海オンエア "wikilink")」のメンバーである。メンバーカラーは茶色。
@@ -11,24 +11,25 @@
 
 自身が編集した動画の概要欄に綴られた文章が、ファンの間で好評となり、書籍化したことがある\[5\]。
 
-### 個人チャンネル
+### 個人チャンネルでの活動
 
-「虫眼鏡の放送部」という個人チャンネルを所有しており、こちらではラジオ形式でリスナーから送られてきたメールに答えるチャンネルになっている\[6\]。
+「虫眼鏡の放送部」という個人チャンネルを有しており、ラジオ形式でリスナーから送られてきたメールに答える「虫も殺さないラジオ」を投稿している\[6\]。
 
-### ラジオパーソナリティ
+### ラジオパーソナリティとして
 
 2018年10月より、ラジオパーソナリティとしての活動を開始。
 
   - 番組歴
-    [2018年](../Page/2018年.md "wikilink")10月、東海ラジオで『[東海オンエアラジオ](https://ja.wikipedia.org/wiki/東海オンエアラジオ "wikilink")』開始。
+    [2018年](../Page/2018年.md "wikilink")10月、[東海ラジオで](../Page/東海ラジオ放送.md "wikilink")『[東海オンエアラジオ](https://ja.wikipedia.org/wiki/東海オンエアラジオ "wikilink")』開始。
 
 ## 人物
 
-  - 東海オンエアの経理担当。
+  - 東海オンエアの[経理](https://ja.wikipedia.org/wiki/経理 "wikilink")担当。
   - 愛車は[レクサス・LS](../Page/レクサス・LS.md "wikilink")\[7\]。
   - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のファンで、[堂上直倫](../Page/堂上直倫.md "wikilink")選手を応援している。
-  - 動画の企画で始球式を[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")で行った\[8\]。
+  - 動画の企画で[始球式](../Page/始球式.md "wikilink")を[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")で行った\[8\]。
   - 他のメンバーより1歳年上で、てつやとはバイト先の先輩として知り合い\[9\]、動画のアドバイスや出演をしていた。
+  - [でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のファンで、度々ライブ会場に足を運んでいる。自身が出演するラジオ番組｢東海オンエアラジオ｣では、でんぱ組.incのメンバーからサプライズを受ける場面もあった。1度名古屋でライブがあった際メンバーと囲み写真\[[https://twitter.com/TO_ZAWAKUN/status/1147473220070596608?s=19\]を撮るなど、メンバーとの交流もある](https://twitter.com/TO_ZAWAKUN/status/1147473220070596608?s=19%5Dを撮るなど、メンバーとの交流もある)。
 
 ## 出演作品
 
@@ -63,13 +64,19 @@
 ## 著書
 
   - 東海オンエアの動画が6.4倍楽しくなる本 : 虫眼鏡の概要欄. 2018年7月. [講談社](../Page/講談社.md "wikilink"). . .
-  - 東海オンエアの動画が6.4倍楽しくなる本 : 虫眼鏡の概要欄 続. 2019年6月. 講談社. . .
+  - 続・東海オンエアの動画が6.4倍楽しくなる本 : 虫眼鏡の概要欄 平成ノスタルジー編. 2019年6月. 講談社. . .
 
 ## 脚注 
 
 ## 外部リンク
 
+  - YouTube
+      -
+      -
+      -
   - Twitter
+      -
+  - Instagram
       -
 [Category:UUUMのYouTuber](https://ja.wikipedia.org/wiki/Category:UUUMのYouTuber "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
 

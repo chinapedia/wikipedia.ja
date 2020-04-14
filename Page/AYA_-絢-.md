@@ -1,4 +1,4 @@
-> この記事は[AYA --](https://ja.wikipedia.org/wiki/AYA_--)から翻訳されています。
+> この記事は[AYA -絢-](https://ja.wikipedia.org/wiki/AYA_-絢-)から翻訳されています。
 
 
 **AYA‐絢‐**（アヤ、[9月4日](../Page/9月4日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")である。
@@ -109,11 +109,16 @@ BeForUの楽曲は[BeForU](../Page/BeForU.md "wikilink")を参照
 ## 外部リンク
 
   - [infolink](https://www.on-ei.com/aya/)
+
   - [Twitter](https://twitter.com/aya_music)
+
   - [豪華絢爛　ＡＹＡ‐絢‐　公式ブログ](https://ameblo.jp/aya-music-94/)
+
   - [ＡＹＡｐｅｄｉａ　公式ブログ内](https://ameblo.jp/aya-music-94/)
-  - [旧公式ブログ](http://blog.oricon.co.jp/aya_cgs/)
+
+  -
   - [ニコニコミュニティ　★ＡＹＡ－絢－を生暖かい目で見守る会★](https://com.nicovideo.jp/community/co408060)
+
   - [Pinkbeatz Myspaceプロフィール・試聴ページ](https://myspace.com/pinkbeatzaya)
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:BeForU](https://ja.wikipedia.org/wiki/Category:BeForU "wikilink")

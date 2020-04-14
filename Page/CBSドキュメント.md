@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSドキュメント](https://ja.wikipedia.org/wiki/CBSドキュメント)から翻訳されています。
 
 
 『**CBSドキュメント**』（シービーエス・ドキュメント）は、かつては[TBSなどで放送されていた](../Page/TBSテレビ.md "wikilink")、海外放送を中心とした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。

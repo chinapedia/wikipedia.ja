@@ -1,4 +1,4 @@
-> この記事は[FTV](https://ja.wikipedia.org/wiki/FTV)から翻訳されています。
+> この記事は[FTVスーパーニュース](https://ja.wikipedia.org/wiki/FTVスーパーニュース)から翻訳されています。
 
 
 『**FTVスーパーニュース**』（エフティーブイ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*FTV Super NEWS*）は、[福島テレビ](../Page/福島テレビ.md "wikilink")で放送されていた[夕](../Page/夕.md "wikilink")方の[福島県](../Page/福島県.md "wikilink")向け[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")（全国ニュース「[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")」を内包）。

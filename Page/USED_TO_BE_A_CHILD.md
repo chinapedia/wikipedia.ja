@@ -9,13 +9,15 @@
 
 以下の7人から成る。メンバー名の表記及び所属レコード会社は当時のもの。
 
-  - [飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink") ([CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")：[PONY CANYON INC.](../Page/ポニーキャニオン.md "wikilink"))
-  - [小田和正](../Page/小田和正.md "wikilink") (元[Off Course](https://ja.wikipedia.org/wiki/オフコース "wikilink")：[FUN HOUSE INC.](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink"))
-  - [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink") ([米米CLUB](../Page/米米CLUB.md "wikilink")：[Sony Records](../Page/ソニー・ミュージックレコーズ.md "wikilink"))
-  - [玉置浩二](../Page/玉置浩二.md "wikilink") ([安全地帯](../Page/安全地帯_\(ロックバンド\).md "wikilink")：[Kitty Records Inc.](../Page/キティ・フィルム.md "wikilink"))
-  - [徳永英明](../Page/徳永英明.md "wikilink") ([APOLLON INC.](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント#株式会社アポロン "wikilink"))
-  - [浜田麻里](../Page/浜田麻里.md "wikilink") ([MCA VICTOR](https://ja.wikipedia.org/wiki/MCAレコード#MCAビクター/ユニバーサルビクター "wikilink"))
-  - [山本潤子](../Page/山本潤子.md "wikilink") (元[赤い鳥](https://ja.wikipedia.org/wiki/赤い鳥_\(フォークグループ\) "wikilink")、元[Hi-Fi SET](../Page/ハイ・ファイ・セット.md "wikilink")：Sony Records)
+| 名前                                                          | 所属グループ                                                                                                           | 所属レコード                                                                                 |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")        | [CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")                                                              | [PONY CANYON INC.](../Page/ポニーキャニオン.md "wikilink")                                     |
+| [小田和正](../Page/小田和正.md "wikilink")                          | 元[Off Course](https://ja.wikipedia.org/wiki/オフコース "wikilink")                                                    | [FUN HOUSE INC.](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")            |
+| [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink") | [米米CLUB](../Page/米米CLUB.md "wikilink")                                                                           | [Sony Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")                                   |
+| [玉置浩二](../Page/玉置浩二.md "wikilink")                          | [安全地帯](../Page/安全地帯_\(ロックバンド\).md "wikilink")                                                                    | [Kitty Records Inc.](../Page/キティ・フィルム.md "wikilink")                                   |
+| [徳永英明](../Page/徳永英明.md "wikilink")                          | \-                                                                                                               | [APOLLON INC.](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント#株式会社アポロン "wikilink") |
+| [浜田麻里](../Page/浜田麻里.md "wikilink")                          | \-                                                                                                               | [MCA VICTOR](https://ja.wikipedia.org/wiki/MCAレコード#MCAビクター/ユニバーサルビクター "wikilink")      |
+| [山本潤子](../Page/山本潤子.md "wikilink")                          | 元[赤い鳥](https://ja.wikipedia.org/wiki/赤い鳥_\(フォークグループ\) "wikilink")、元[Hi-Fi SET](../Page/ハイ・ファイ・セット.md "wikilink") | Sony Records                                                                           |
 
 ## 僕らが生まれた あの日のように
 

@@ -1,4 +1,4 @@
-> この記事は[Ole! ](https://ja.wikipedia.org/wiki/Ole!_)から翻訳されています。
+> この記事は[Ole! アルディージャ](https://ja.wikipedia.org/wiki/Ole!_アルディージャ)から翻訳されています。
 
 
 **Ole\! アルディージャ**（おーれ\!アルディージャ）は、[テレ玉で放送している](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の応援情報テレビ番組。[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")放送開始。

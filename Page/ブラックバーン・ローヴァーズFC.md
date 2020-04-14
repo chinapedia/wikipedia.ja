@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブラックバーン・ローヴァーズFC](https://ja.wikipedia.org/wiki/ブラックバーン・ローヴァーズFC)から翻訳されています。
 
 
 **ブラックバーン・ローヴァーズ・フットボール・クラブ** (Blackburn Rovers Football Club) は、[イングランド](../Page/イングランド.md "wikilink")・[ブラックバーンに本拠地を置くプロ](https://ja.wikipedia.org/wiki/ブラックバーン_\(イングランド\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。愛称は**ブルー・アンド・ホワイツ** (*Blue and Whites*)。 エンブレムには、「技術と努力」を意味するラテン語「ARTE ET LABORE」が刻まれている。
@@ -7,7 +7,7 @@
 
 ## 歴史
 
-[1875年](../Page/1875年.md "wikilink")に地区の私立中学出身者が中心となり設立。古くは[スコットランド](../Page/スコットランド.md "wikilink")より多く選手を集めていた。[1888年](../Page/1888年.md "wikilink")に始まった世界最古のサッカーリーグ、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")に最初から参加した12クラブのうちの一つである。今は消滅した[ダーウェン](https://ja.wikipedia.org/wiki/ダーウェン "wikilink")とライバル関係にあった。現在は、13kmほどしか離れていない[バーンリーFC](../Page/バーンリーFC.md "wikilink")を一番のライバルとしている。攻撃的なチームが多いプレミアリーグの中でも、伝統的にボディ・コンタクトを躊躇しない激しいチームの一つ。 [第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の頃に二度のリーグ優勝を果たして以来、長い間低迷していたが、1994-95シーズンに当時[イングランド代表だった](../Page/サッカーイングランド代表.md "wikilink")[FWの](../Page/フォワード_\(サッカー\).md "wikilink")[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")らを擁して初のプレミアリーグ優勝（81年ぶりのトップリーグ制覇）を達成。その後1998-99シーズンに降格するものの(※1992年のプレミアリーグ設立以来、同リーグ優勝経験チームとしては初めての降格。)、2シーズンでプレミアリーグに復帰し、中堅クラブとして一定の存在感を保っていた。
+[1875年](../Page/1875年.md "wikilink")に地区の私立中学出身者が中心となり設立。古くは[スコットランド](../Page/スコットランド.md "wikilink")より多く選手を集めていた。[1888年](../Page/1888年.md "wikilink")に始まった世界最古のサッカーリーグ、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")に最初から参加した12クラブのうちの一つである。今は消滅した[ダーウェンFC](https://ja.wikipedia.org/wiki/ダーウェンFC "wikilink")とライバル関係にあった。現在は、13kmほどしか離れていない[バーンリーFC](../Page/バーンリーFC.md "wikilink")を一番のライバルとしている。攻撃的なチームが多いプレミアリーグの中でも、伝統的にボディ・コンタクトを躊躇しない激しいチームの一つ。 [第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の頃に二度のリーグ優勝を果たして以来、長い間低迷していたが、1994-95シーズンに当時[イングランド代表だった](../Page/サッカーイングランド代表.md "wikilink")[FWの](../Page/フォワード_\(サッカー\).md "wikilink")[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")らを擁して初のプレミアリーグ優勝（81年ぶりのトップリーグ制覇）を達成。その後1998-99シーズンに降格するものの(※1992年のプレミアリーグ設立以来、同リーグ優勝経験チームとしては初めての降格。)、2シーズンでプレミアリーグに復帰し、中堅クラブとして一定の存在感を保っていた。
 
 2008-09シーズンから[ポール・インス](../Page/ポール・インス.md "wikilink")が監督に就任。イングランドの黒人がプレミアリーグのチームを率いるのは初めてのことで注目を集めた(成績不振により2008年12月16日に解任)。
 
@@ -19,7 +19,7 @@
 
   - **[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")**/**[プレミアリーグ](../Page/プレミアリーグ.md "wikilink") 3回**[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")
       -
-        1911-12, 1913-14 1994-95
+        1911-12, 1913-14, 1994-95
 
 <!-- end list -->
 
@@ -441,7 +441,7 @@
 
 ## 現所属メンバー
 
-  - 2019年9月22日現在\[1\]
+  - 2020年3月21日現在\[1\]
 
 ### ローン移籍
 

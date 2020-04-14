@@ -1,4 +1,4 @@
-> この記事は[BASF](https://ja.wikipedia.org/wiki/BASF)から翻訳されています。
+> この記事は[BASFジャパン](https://ja.wikipedia.org/wiki/BASFジャパン)から翻訳されています。
 
 
 **BASFジャパン株式会社**（ビーエーエスエフジャパン）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に本拠を置く世界最大の総合化学メーカー「[BASF](../Page/BASF.md "wikilink")」の日本法人である。

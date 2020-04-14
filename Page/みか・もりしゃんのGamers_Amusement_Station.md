@@ -1,4 +1,4 @@
-> この記事は[Gamers Amusement Station](https://ja.wikipedia.org/wiki/Gamers_Amusement_Station)から翻訳されています。
+> この記事は[みか・もりしゃんのGamers Amusement Station](https://ja.wikipedia.org/wiki/みか・もりしゃんのGamers_Amusement_Station)から翻訳されています。
 
 
 **みか・もりしゃんのGamers Amusement Station**（みか・もりしゃんのゲーマーズ アミューズメント ステーション）は[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送（[音泉](../Page/音泉.md "wikilink")では再配信）された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

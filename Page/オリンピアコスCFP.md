@@ -1,4 +1,4 @@
-> この記事は[CFP](https://ja.wikipedia.org/wiki/CFP)から翻訳されています。
+> この記事は[オリンピアコスCFP](https://ja.wikipedia.org/wiki/オリンピアコスCFP)から翻訳されています。
 
 
 **オリンピアコスCFP**（**Olympiacos Sindesmos Filathlon Pireos** (, Olympic Club of Fans of Piraeus)）は、[ギリシャ](../Page/ギリシャ.md "wikilink")・[ピレウス](../Page/ピレウス.md "wikilink")に本拠地を置く総合スポーツクラブ。

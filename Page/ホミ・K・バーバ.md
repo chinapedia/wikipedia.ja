@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ホミ・K・バーバ](https://ja.wikipedia.org/wiki/ホミ・K・バーバ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Homi_K._Bhabha-cropd.jpg "wikilink") **ホミ・K・バーバ**（ホーミー・K・バーバー, होमी के.भाभा, Homi K. Bhabha, [1949年](../Page/1949年.md "wikilink") - ）は、[インド](../Page/インド.md "wikilink")出身の[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[文学者](https://ja.wikipedia.org/wiki/文学者 "wikilink")。専門は英米文学、[ポストコロニアル理論](../Page/ポストコロニアル理論.md "wikilink")。

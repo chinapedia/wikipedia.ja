@@ -1,4 +1,4 @@
-> この記事は[HAUNTED](https://ja.wikipedia.org/wiki/HAUNTED)から翻訳されています。
+> この記事は[HAUNTEDじゃんくしょん](https://ja.wikipedia.org/wiki/HAUNTEDじゃんくしょん)から翻訳されています。
 
 
 『**HAUNTEDじゃんくしょん**』（**ホーンテッドじゃんくしょん**）は[夢来鳥ねむ](../Page/夢来鳥ねむ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品（[電撃コミックガオ\!連載](../Page/月刊電撃コミックガオ!.md "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")刊）、及びそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。

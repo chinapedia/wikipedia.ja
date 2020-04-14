@@ -1,4 +1,4 @@
-> この記事は[SHIHO \(\)](https://ja.wikipedia.org/wiki/SHIHO_\(\))から翻訳されています。
+> この記事は[SHIHO \(ファッションモデル\)](https://ja.wikipedia.org/wiki/SHIHO_\(ファッションモデル\))から翻訳されています。
 
 
 **SHIHO**（しほ、[1976年](../Page/1976年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink") - ）は日本の女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")出身。サトルジャパン、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")を経てshiho\&styleに所属。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dレーション](https://ja.wikipedia.org/wiki/Dレーション)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/画像:D_ration_chocolate_bar.jpg "wikilink") **Dレーション** (*D-Ration*) とは、[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")・[カカオ](../Page/カカオ.md "wikilink")油脂をベースとして栄養（特に[カロリー](../Page/カロリー.md "wikilink")面）を強化した個人携帯用非常食で、主に[第二次大戦中に](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")[米軍で使用された特殊](../Page/アメリカ軍.md "wikilink")[レーション](../Page/レーション.md "wikilink")である。

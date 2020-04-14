@@ -1,4 +1,4 @@
-> この記事は[VI ](https://ja.wikipedia.org/wiki/VI_)から翻訳されています。
+> この記事は[スタートレックVI 未知の世界](https://ja.wikipedia.org/wiki/スタートレックVI_未知の世界)から翻訳されています。
 
 
 『**スタートレックVI 未知の世界**』（スタートレックシックス みちのせかい、*Star Trek VI: The Undiscovered Country*）は、[1991年の](../Page/1991年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』（TOS）のレギュラーを中心とした『[スタートレック](../Page/スタートレック.md "wikilink")』の映画（オリジナルシリーズ）全6作中6作目であり、TOSの事実上の完結編。

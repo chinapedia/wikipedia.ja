@@ -1,4 +1,4 @@
-> この記事は[V ](https://ja.wikipedia.org/wiki/V_)から翻訳されています。
+> この記事は[スタートレックV 新たなる未知へ](https://ja.wikipedia.org/wiki/スタートレックV_新たなる未知へ)から翻訳されています。
 
 
 『**スタートレックV 新たなる未知へ**』（スタートレックファイブ あらたなるみちへ、*Star Trek V: The Final Frontier*）は、[1989年](../Page/1989年.md "wikilink")の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』のレギュラーを中心とした『[スタートレック](../Page/スタートレック.md "wikilink")』映画（オリジナルシリーズ）全6作中5作目。

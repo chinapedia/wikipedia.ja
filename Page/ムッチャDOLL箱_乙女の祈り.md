@@ -1,4 +1,4 @@
-> この記事は[DOLL ](https://ja.wikipedia.org/wiki/DOLL_)から翻訳されています。
+> この記事は[ムッチャDOLL箱 乙女の祈り](https://ja.wikipedia.org/wiki/ムッチャDOLL箱_乙女の祈り)から翻訳されています。
 
 
 『**ムッチャDOLL箱 乙女の祈り**』（ムッチャドールばこ おとめのいのり）は、[2005年](../Page/2005年.md "wikilink")に[よみうりテレビと](../Page/讀賣テレビ放送.md "wikilink")[中京テレビの](../Page/中京テレビ放送.md "wikilink")2局で放送された[特別番組](../Page/特別番組.md "wikilink")。番組の製作はよみうりテレビが担当。

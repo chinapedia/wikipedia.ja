@@ -1,4 +1,4 @@
-> この記事は[BSN](https://ja.wikipedia.org/wiki/BSN)から翻訳されています。
+> この記事は[BSNラジオ競馬中継](https://ja.wikipedia.org/wiki/BSNラジオ競馬中継)から翻訳されています。
 
 
 『**BSNラジオ競馬中継**』（ビーエスエヌラジオけいばちゅうけい）は、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）が放送する[競馬](../Page/競馬.md "wikilink")中継[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[新潟競馬場](../Page/新潟競馬場.md "wikilink")の開催期間中は自社製作で放送されている。

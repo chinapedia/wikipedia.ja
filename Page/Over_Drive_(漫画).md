@@ -1,4 +1,4 @@
-> この記事は[Over Drive \(\)](https://ja.wikipedia.org/wiki/Over_Drive_\(\))から翻訳されています。
+> この記事は[Over Drive \(漫画\)](https://ja.wikipedia.org/wiki/Over_Drive_\(漫画\))から翻訳されています。
 
 
 『**Over Drive**』（オーバードライヴ）は、[安田剛士](../Page/安田剛士.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』で2005年24号から2008年24号まで連載。[自転車ロードレースを舞台としている](../Page/ロードレース_\(自転車競技\).md "wikilink")。話数カウントは「○rpm」。タイトルの由来は[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[同名の曲から](../Page/Over_Drive_\(JUDY_AND_MARYの曲\).md "wikilink")。略称は**オバドラ**。単行本は[マガジンKC（少年マガジンコミックス）レーベルから全](../Page/講談社の漫画レーベル.md "wikilink")17巻が刊行されている。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化されたほか、原作漫画の後日談に当たるストーリーの[小説化](../Page/小説化.md "wikilink")もされた。
@@ -494,7 +494,7 @@
 ## 外部リンク
 
   - [マガジン内紹介ページ](http://kc.kodansha.co.jp/content/top.php/02065/1000001059)
-  - [アニメ公式サイト](http://www.tv-tokyo.co.jp/anime/overdrive/)
+  - [アニメ公式サイト](https://www.tv-tokyo.co.jp/anime/overdrive/)
 
 {{前後番組 |放送局=[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") |放送枠=[火曜25:30枠](https://ja.wikipedia.org/wiki/テレビ東京の深夜アニメ枠 "wikilink") |前番組=\[\[ヤマトナデシコ七変化_(漫画)|ヤマトナデシコ七変化
 

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バーミンガム・シティFC](https://ja.wikipedia.org/wiki/バーミンガム・シティFC)から翻訳されています。
 
 
 **バーミンガム・シティ・フットボール・クラブ**（*Birmingham City Football Club*、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>：）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ウェスト・ミッドランズ州](https://ja.wikipedia.org/wiki/ウェスト・ミッドランズ州 "wikilink")、[バーミンガム](../Page/バーミンガム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。同じバーミンガムを本拠地とする[アストン・ヴィラFC](../Page/アストン・ヴィラFC.md "wikilink")との対決は[バーミンガム・ダービー](https://ja.wikipedia.org/wiki/バーミンガム・ダービー "wikilink")として盛り上がりを見せる。
@@ -75,7 +75,7 @@
 
 ### 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")現在\[4\]
+  - [2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")現在\[4\]
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - [ペップ・クロテート](https://ja.wikipedia.org/wiki/ペップ・クロテート "wikilink")（暫定）
+  - [ペップ・クロテート](https://ja.wikipedia.org/wiki/ペップ・クロテート "wikilink")
 
 ### ローン移籍選手
 

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サウサンプトンFC](https://ja.wikipedia.org/wiki/サウサンプトンFC)から翻訳されています。
 
 
 **サウサンプトン・フットボール・クラブ**（[英語](../Page/英語.md "wikilink"): ）は、[イングランド](../Page/イングランド.md "wikilink")南部・[ハンプシャー](../Page/ハンプシャー.md "wikilink")州[サウサンプトン](../Page/サウサンプトン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[赤](../Page/赤.md "wikilink")と[白](../Page/白.md "wikilink")。愛称は**セインツ**（The Saints）\[1\]。

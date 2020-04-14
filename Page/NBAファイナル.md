@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル)から翻訳されています。
 
 
 **NBAファイナル**（）とは北米で行われている男子プロバスケットボールリーグ「[NBA](../Page/NBA.md "wikilink")」で、そのシーズンの[イースタン・カンファレンスと](../Page/NBA.md "wikilink")[ウェスタン・カンファレンスの王者が対決してチャンピオンを決定するシリーズの事](../Page/NBA.md "wikilink")。[プレーオフの締めくくりであり](../Page/NBAプレーオフ.md "wikilink")、シーズン最後のイベントでもある。通常は毎年6月に行われる。1986年までは**NBAワールドチャンピオンシップ・シリーズ**と呼ばれていた。

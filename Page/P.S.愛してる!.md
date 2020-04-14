@@ -1,4 +1,4 @@
-> この記事は[P.S.!](https://ja.wikipedia.org/wiki/P.S.!)から翻訳されています。
+> この記事は[P.S.愛してる!](https://ja.wikipedia.org/wiki/P.S.愛してる!)から翻訳されています。
 
 
 『**P.S.愛してる\!**』（ピーエスあいしてる）は、[1994年](../Page/1994年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[グルメ](https://ja.wikipedia.org/wiki/グルメ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

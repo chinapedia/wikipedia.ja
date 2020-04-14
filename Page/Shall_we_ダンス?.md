@@ -1,4 +1,4 @@
-> この記事は[Shall we \?](https://ja.wikipedia.org/wiki/Shall_we_\?)から翻訳されています。
+> この記事は[Shall we ダンス\?](https://ja.wikipedia.org/wiki/Shall_we_ダンス\?)から翻訳されています。
 
 
 『**Shall we ダンス?**』（シャル ウィ ダンス？）は、[1996年](../Page/1996年.md "wikilink")（平成8年）[1月27日](../Page/1月27日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。主演は[役所広司](../Page/役所広司.md "wikilink")と[草刈民代](../Page/草刈民代.md "wikilink")。[大映](../Page/大映.md "wikilink")（現・[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）製作。

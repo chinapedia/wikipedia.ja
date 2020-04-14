@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チャールトン・アスレティックFC](https://ja.wikipedia.org/wiki/チャールトン・アスレティックFC)から翻訳されています。
 
 
 **チャールトン・アスレティック・フットボール・クラブ**（**Charlton Athletic Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")南東の[グリニッジ・ロンドン特別区](https://ja.wikipedia.org/wiki/グリニッジ・ロンドン特別区 "wikilink")の[チャールトン](https://ja.wikipedia.org/wiki/チャールトン "wikilink")に本拠地を置くプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。同地域内には[The O2も存在する](../Page/The_O2.md "wikilink")。一時期、[三都主アレサンドロ](../Page/三都主アレサンドロ.md "wikilink")の獲得に動いたこともある。2008-09シーズンにチャンピオンシップで最下位となり降格、2009-10シーズンは3部にあたるリーグ1に属した。2011-12シーズンにリーグ1で優勝し、2012-13シーズンにチャンピオンシップに復帰した。

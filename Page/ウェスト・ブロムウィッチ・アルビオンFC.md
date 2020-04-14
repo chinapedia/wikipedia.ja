@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウェスト・ブロムウィッチ・アルビオンFC](https://ja.wikipedia.org/wiki/ウェスト・ブロムウィッチ・アルビオンFC)から翻訳されています。
 
 
 **ウェスト・ブロムウィッチ・アルビオン・フットボール・クラブ**（**West Bromwich Albion Football Club** ）は、[イングランド](../Page/イングランド.md "wikilink")、[ウェスト・ミッドランズ州](https://ja.wikipedia.org/wiki/ウェスト・ミッドランズ州 "wikilink")、[ウェスト・ブロムウィッチ](https://ja.wikipedia.org/wiki/ウェスト・ブロムウィッチ "wikilink")に本拠地を置くプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。**WBA**は略称。英国では主に**West Brom**と表記される。

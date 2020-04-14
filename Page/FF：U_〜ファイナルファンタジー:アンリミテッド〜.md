@@ -1,4 +1,4 @@
-> この記事は[FFU :](https://ja.wikipedia.org/wiki/FFU_:)から翻訳されています。
+> この記事は[FF：U 〜ファイナルファンタジー:アンリミテッド〜](https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜)から翻訳されています。
 
 
 『**FF:U 〜ファイナルファンタジー:アンリミテッド〜**』（FF:U 〜FINAL FANTASY: Unlimited〜）は、[GONZO制作の](../Page/ゴンゾ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")シリーズ作品。[テレビ東京系列で](https://ja.wikipedia.org/wiki/TXN "wikilink")、[2001年](../Page/2001年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された。

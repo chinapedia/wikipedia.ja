@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[エリク・H・エリクソン](https://ja.wikipedia.org/wiki/エリク・H・エリクソン)から翻訳されています。
 
 
 **エリク・ホーンブルガー・エリクソン**（, [1902年](../Page/1902年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[発達心理学](../Page/発達心理学.md "wikilink")者で、[精神分析家](../Page/精神分析家.md "wikilink")\[1\]。「[アイデンティティ](../Page/自己同一性.md "wikilink")」の概念、[エリクソンの心理社会的発達理論を提唱し](../Page/発達課題.md "wikilink")、米国で最も影響力のあった精神分析家の一人とされる\[2\]。

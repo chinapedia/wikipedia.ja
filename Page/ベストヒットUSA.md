@@ -1,7 +1,7 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[ベストヒットUSA](https://ja.wikipedia.org/wiki/ベストヒットUSA)から翻訳されています。
 
 
-『**ベストヒットUSA**』（ベストヒット ユーエスエイ）は、[ラジオ&レコーズ](../Page/ラジオ&レコーズ.md "wikilink")及び[ビルボード](../Page/ビルボード.md "wikilink")のデータを元にしたアメリカのヒットチャートを紹介する番組である。[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")ほかでも放送）、および[NACK5などで放送されている](../Page/エフエムナックファイブ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。また、過去に幾度か放送局を変えて放送されていた番組の総称である。また、2014年に[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（TOKYO MX、092ch）でも放送開始。BS朝日の放送をベースに30分に縮小し、2コーナーもしくは3コーナーの放送である。
+『**ベストヒットUSA**』（ベストヒット ユーエスエイ）は、[ラジオ&レコーズ](../Page/ラジオ&レコーズ.md "wikilink")及び[ビルボード](../Page/ビルボード.md "wikilink")のデータを元にしたアメリカのヒットチャートを紹介する番組である。[BS朝日](../Page/ビーエス朝日.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")ほかでも放送）、および[NACK5などで放送されている](../Page/エフエムナックファイブ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。また、過去に幾度か放送局を変えて放送されていた番組の総称である。また、2014年に[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（TOKYO MX、092ch）でも放送開始。BS朝日の放送をベースに30分に縮小し、2コーナーもしくは3コーナーの放送である。
 
 司会（[VJ](../Page/ビデオジョッキー.md "wikilink")）は第1回から現在に至るまで一貫して[小林克也](../Page/小林克也.md "wikilink")が務めている。
 
@@ -17,9 +17,9 @@
 
 2000年4月、今度はVIBE（現：[MTVジャパン](../Page/MTVジャパン.md "wikilink")）で『THE ベストヒットUSA』として放送されるも、同チャンネルがMTVジャパンとして新装を図った際にいったん放送終了。しかし[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")（独立局）で30分番組として復活した（CBCテレビ他一部地方局でも放送）。
 
-[2002年](../Page/2002年.md "wikilink")の正月、テレビ朝日の単発特番として以前放送していたテレビ局で復活する（この際はスポンサーもブリヂストンだった）。[2003年](../Page/2003年.md "wikilink")からは[BS朝日で本格的に復活](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[2005年](../Page/2005年.md "wikilink")からは『ベストヒットUSA 2005』にタイトルを改め、最新のヒット曲はもちろん、第1期世代向けに往年の曲にもスポットを当てている（番組名の[西暦](../Page/西暦.md "wikilink")表記は改まると変わる。よって2017年現在の番組名は『ベストヒットUSA 2017』）。基本的に以前と[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")は変わらない\[14\]。
+[2002年](../Page/2002年.md "wikilink")の正月、テレビ朝日の単発特番として以前放送していたテレビ局で復活する（この際はスポンサーもブリヂストンだった）。[2003年](../Page/2003年.md "wikilink")からは[BS朝日で本格的に復活](../Page/ビーエス朝日.md "wikilink")、[2005年](../Page/2005年.md "wikilink")からは『ベストヒットUSA 2005』にタイトルを改め、最新のヒット曲はもちろん、第1期世代向けに往年の曲にもスポットを当てている（番組名の[西暦](../Page/西暦.md "wikilink")表記は改まると変わる。よって2017年現在の番組名は『ベストヒットUSA 2017』）。基本的に以前と[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")は変わらない\[14\]。
 
-また、テレビとは別にFM局の[NACK5では](../Page/エフエムナックファイブ.md "wikilink")、毎週木曜日0:00（水曜日深夜）から『小林克也 Best Hit USA』のタイトルで放送されている。音声のみの放送であり、一部コーナーが異なる。元々は金曜日の番組『[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")』の1コーナーであった。
+また、テレビとは別にFM局の[NACK5では](../Page/エフエムナックファイブ.md "wikilink")、『小林克也 Best Hit USA』のタイトルで放送されている。音声のみの放送であり、一部コーナーが異なる。元々は金曜日の番組『[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")』の1コーナーであった。2020年3月25日の放送にて、4月より、木曜日0:00（水曜日深夜）から土曜12:00への放送時間変更となることが発表された。
 
 ## 番組開始の経緯
 
@@ -66,9 +66,9 @@
 
 ### 現在
 
-| 放送対象地域                             | 放送局                                                     | 系列                                                                    | 放送日時                       |
-| ---------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------- |
-| [日本全域](../Page/全国放送.md "wikilink") | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink") | [BS放送](https://ja.wikipedia.org/wiki/日本における衛星放送_#BSデジタル放送 "wikilink") | 土曜 0:00 - 0:30（金曜深夜）\[58\] |
+| 放送対象地域                             | 放送局                                  | 系列                                                                    | 放送日時                       |
+| ---------------------------------- | ------------------------------------ | --------------------------------------------------------------------- | -------------------------- |
+| [日本全域](../Page/全国放送.md "wikilink") | [BS朝日](../Page/ビーエス朝日.md "wikilink") | [BS放送](https://ja.wikipedia.org/wiki/日本における衛星放送_#BSデジタル放送 "wikilink") | 土曜 0:00 - 0:30（金曜深夜）\[58\] |
 
 ### 過去（2003年の復活以降）
 
@@ -182,13 +182,20 @@
 ## 外部リンク
 
   - [ベストヒットUSA携帯サイト](http://hitusa.tv/) ※携帯からのみアクセス可能
+
   - [BS朝日・ベストヒットUSA](http://www.bs-asahi.co.jp/usa/)
+
   - [テレビ朝日・ベストヒットUSA](http://www.tv-asahi.co.jp/besthitusa/)
+
   - [小林克也インタビュー](http://www.musicman-net.com/relay/16.html)
+
   - [NACK5番組詳細・小林克也 Best Hit USA](http://www.nack5.co.jp/timetable/program31.shtml)
+
   - [メディアアベニューのコラム (当番組の裏話が載っている)](http://www.media-ave.com/column.htm)
-  - [ベストヒットUSA](https://twitter.com/besthitusa_bs5)- 公式Twitter
-  - [ベストヒットUSA](https://www.facebook.com/besthitusa)- 公式Facebookページ（日本語）
+
+  - 公式アカウント
+
+  - 公式ページ（日本語）
 
 [Category:BS朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:BS朝日の深夜番組 "wikilink") [Category:BS朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:BS朝日の音楽番組 "wikilink") [Category:テレビ朝日の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の音楽番組 "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:ブリヂストン](https://ja.wikipedia.org/wiki/Category:ブリヂストン "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

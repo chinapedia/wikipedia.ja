@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[新潟アルビレックスBB](https://ja.wikipedia.org/wiki/新潟アルビレックスBB)から翻訳されています。
 
 
 **新潟アルビレックスBB**（にいがたアルビレックスビービー、）は、[新潟県](../Page/新潟県.md "wikilink")の[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")を本拠地として[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")・[上越市](../Page/上越市.md "wikilink")といった新潟県全域で活動する[B.LEAGUEに所属するプロ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")チーム。

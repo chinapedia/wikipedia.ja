@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ラリーX](https://ja.wikipedia.org/wiki/ラリーX)から翻訳されています。
 
 
 『'''ラリーX *'』（ラリーエックス、*RALLY X''）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月](../Page/11月.md "wikilink")にナムコ (後の[バンダイナムコアミューズメント](../Page/バンダイナムコアミューズメント.md "wikilink")) から稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[固定画面アクションゲーム](../Page/アクションゲーム.md "wikilink")\[1\]。北米では[ミッドウェイから稼働された](../Page/ミッドウェイゲームズ.md "wikilink")。

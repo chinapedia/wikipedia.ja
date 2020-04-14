@@ -1,7 +1,7 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF)から翻訳されています。
 
 
-**ビジャレアル・クルブ・デ・フトボル**(Villarreal Club de Fútbol) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2018-19シーズンは[ラ・リーガ](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エル・マドリガル](https://ja.wikipedia.org/wiki/エル・マドリガル "wikilink")をホームスタジアムとしている。
+**ビジャレアル・クルブ・デ・フトボル**(Villarreal Club de Fútbol) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エル・マドリガル](https://ja.wikipedia.org/wiki/エル・マドリガル "wikilink")をホームスタジアムとしている。
 
 ビジャレアルとはスペイン語で「王の町」という意味であり、その名の通りチームのエンブレムには王冠があしらわれている。ただし、この場合の王とは[アラゴン王国](../Page/アラゴン王国.md "wikilink")の王を指し、現在のスペイン王室ではない。そのため王冠のデザインも他のレアルを冠するチームのものとは異なっている\[1\]。しばしば、成功したスモールクラブの例として引き合いに出される\[2\]。
 

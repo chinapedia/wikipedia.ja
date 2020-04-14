@@ -1,4 +1,4 @@
-> この記事は[VNC \(\)](https://ja.wikipedia.org/wiki/VNC_\(\))から翻訳されています。
+> この記事は[VNC \(微生物学\)](https://ja.wikipedia.org/wiki/VNC_\(微生物学\))から翻訳されています。
 
 
 [微生物学](../Page/微生物学.md "wikilink")分野において**VNC**とは、viable but non-culturableの略語でありVBNCともいう。微生物（特に[細菌](../Page/細菌.md "wikilink")）が「生きているけれども[培養](../Page/培養.md "wikilink")できない」状態にあることを指す概念。この状態を**VNC状態**、またこの状態にある細菌を**VNC菌**と呼ぶ。日本語として、培養不能状態や培養不能菌などの訳語があてられることもあるが、VNCという英語での略称がそのまま用いられる場合が多い。

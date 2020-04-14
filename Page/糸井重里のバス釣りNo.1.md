@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[糸井重里のバス釣りNo.1](https://ja.wikipedia.org/wiki/糸井重里のバス釣りNo.1)から翻訳されています。
 
 
 『**糸井重里のバス釣りNo.1**』（いといしげさとのバスつりナンバーワン）は、[バス](https://ja.wikipedia.org/wiki/ブラックバス "wikilink")[釣り](../Page/釣り.md "wikilink")をテーマとした[任天堂](../Page/任天堂.md "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。開発は[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が担当。

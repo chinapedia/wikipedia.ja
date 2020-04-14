@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アストン・ヴィラFC](https://ja.wikipedia.org/wiki/アストン・ヴィラFC)から翻訳されています。
 
 
 **アストン・ヴィラ・フットボール・クラブ**（**Aston Villa Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ウェスト・ミッドランズ州](https://ja.wikipedia.org/wiki/ウェスト・ミッドランズ州 "wikilink")[バーミンガム](../Page/バーミンガム.md "wikilink")に本拠地を置くプロサッカークラブ。愛称は**ヴィラ**（**Villa**）。\[1\]
@@ -149,7 +149,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") 現在
 
-★    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))  ★    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))      ★
+★    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))  ★     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))      ★
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

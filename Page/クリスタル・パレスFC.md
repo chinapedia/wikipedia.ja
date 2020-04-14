@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[クリスタル・パレスFC](https://ja.wikipedia.org/wiki/クリスタル・パレスFC)から翻訳されています。
 
 
 **クリスタル・パレス・フットボール・クラブ**（）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")南部をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[赤](../Page/赤.md "wikilink")と[青](../Page/青.md "wikilink")。愛称は**イーグルス**（Eagles）。

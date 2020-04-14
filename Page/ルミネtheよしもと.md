@@ -1,4 +1,4 @@
-> この記事は[the](https://ja.wikipedia.org/wiki/the)から翻訳されています。
+> この記事は[ルミネtheよしもと](https://ja.wikipedia.org/wiki/ルミネtheよしもと)から翻訳されています。
 
 
 **ルミネtheよしもと**（ルミネザよしもと、[英語](../Page/英語.md "wikilink")：*LUMINE the YOSHIMOTO*）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")が運営する[お笑い専門の](../Page/演芸.md "wikilink")[劇場](../Page/劇場.md "wikilink")である。[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")に隣接する商業ビル「[LUMINE2](https://ja.wikipedia.org/wiki/ルミネ新宿 "wikilink")」の7階にある。通称「**ルミネ**」。ルミネの無い関東以外、また吉本所属の芸人の発言で「ルミネ」といえば、この劇場のことを指すことが多い。

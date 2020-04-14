@@ -1,4 +1,4 @@
-> この記事は[No.1!](https://ja.wikipedia.org/wiki/No.1!)から翻訳されています。
+> この記事は[プロ野球No.1決定戦!バトルスタジアム](https://ja.wikipedia.org/wiki/プロ野球No.1決定戦!バトルスタジアム)から翻訳されています。
 
 
 『**プロ野球No.1決定戦\!バトルスタジアム**』（プロやきゅうナンバーワンけっていせんバトルスタジアム）は、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[プロ野球選手会主催で毎年](../Page/日本プロ野球選手会.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")上旬に[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて開かれる有料[イベント](../Page/イベント.md "wikilink")。イベントの模様は、翌年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")制作の特別番組として[日本テレビ系列で放送されている](../Page/日本テレビネットワーク協議会.md "wikilink")。

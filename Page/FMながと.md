@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMながと](https://ja.wikipedia.org/wiki/FMながと)から翻訳されています。
 
 
 **FMながと**（エフエムながと）は、[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")全域及びその周辺地域をサービスエリアとする[コミュニティFM局である](../Page/コミュニティ放送.md "wikilink")。ステーションネームは "**FM AQUA**"（エフエム・アクア）。

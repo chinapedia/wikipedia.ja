@@ -1,4 +1,4 @@
-> この記事は[Angela \(\)](https://ja.wikipedia.org/wiki/Angela_\(\))から翻訳されています。
+> この記事は[Angela \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Angela_\(音楽ユニット\))から翻訳されています。
 
 
 **angela**（アンジェラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のatsukoとKATSUによる[音楽ユニット](../Page/音楽ユニット.md "wikilink")。music wonder circus、[KING AMUSEMENT CREATIVEに所属している](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")。
@@ -290,6 +290,8 @@
 
 | 楽曲                                  | タイアップ                                                                                                                         | 時期    |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----- |
+| memories                            | テレビアニメ『[神八剣伝](../Page/神八剣伝.md "wikilink")』オープニングテーマ                                                                           | 1999年 |
+| 笑顔をみせて                              | [TXN九州](../Page/TVQ九州放送.md "wikilink")『C\!』エンディングテーマ                                                                          |       |
 | 明日へのbrilliant road                  | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[宇宙のステルヴィア](../Page/宇宙のステルヴィア.md "wikilink")』オープニングテーマ              | 2003年 |
 | 綺麗な夜空                               | テレビアニメ『宇宙のステルヴィア』前期エンディングテーマ                                                                                                  |       |
 | The end of the world                | テレビアニメ『宇宙のステルヴィア』後期エンディングテーマ                                                                                                  |       |

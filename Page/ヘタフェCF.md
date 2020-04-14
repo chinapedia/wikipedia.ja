@@ -1,7 +1,7 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[ヘタフェCF](https://ja.wikipedia.org/wiki/ヘタフェCF)から翻訳されています。
 
 
-**ヘタフェ・クルブ・デ・フトボル**（**Getafe Club de Fútbol S.A.D.**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[マドリード州](../Page/マドリード州.md "wikilink")[ヘタフェ](https://ja.wikipedia.org/wiki/ヘタフェ "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
+**ヘタフェ・クルブ・デ・フトボル**（**Getafe Club de Fútbol S.A.D.**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[マドリード州](../Page/マドリード州.md "wikilink")[ヘタフェ](https://ja.wikipedia.org/wiki/ヘタフェ "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
 
 ## 概要
 

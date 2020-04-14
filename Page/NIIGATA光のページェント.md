@@ -1,4 +1,4 @@
-> この記事は[NIIGATA](https://ja.wikipedia.org/wiki/NIIGATA)から翻訳されています。
+> この記事は[NIIGATA光のページェント](https://ja.wikipedia.org/wiki/NIIGATA光のページェント)から翻訳されています。
 
 
 **NIIGATA光のページェント**（にいがたひかりのページェント）とは、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区で](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、毎年[年末年始](../Page/年末年始.md "wikilink")に行われる[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")[イベント](../Page/イベント.md "wikilink")のことである。新潟における冬の[風物詩](../Page/風物詩.md "wikilink")として定着している。

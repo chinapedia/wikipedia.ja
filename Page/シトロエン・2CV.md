@@ -1,4 +1,4 @@
-> この記事は[2CV](https://ja.wikipedia.org/wiki/2CV)から翻訳されています。
+> この記事は[シトロエン・2CV](https://ja.wikipedia.org/wiki/シトロエン・2CV)から翻訳されています。
 
 
 **シトロエン・2CV**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が[1948年](../Page/1948年.md "wikilink")に発表した、[前輪駆動方式の](../Page/二輪駆動.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[MEN\'S](https://ja.wikipedia.org/wiki/MEN\'S)から翻訳されています。
+> この記事は[MEN\'Sテイオー](https://ja.wikipedia.org/wiki/MEN\'Sテイオー)から翻訳されています。
 
 
 **MEN'Sテイオー**（メンズ・テイオー、[1966年](../Page/1966年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**大塚 武生**（おおつか たけお）。

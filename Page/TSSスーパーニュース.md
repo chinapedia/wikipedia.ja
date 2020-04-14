@@ -1,4 +1,4 @@
-> この記事は[TSS](https://ja.wikipedia.org/wiki/TSS)から翻訳されています。
+> この記事は[TSSスーパーニュース](https://ja.wikipedia.org/wiki/TSSスーパーニュース)から翻訳されています。
 
 
 『**tssスーパーニュース**』（ティーエスエススーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*tss Super NEWS*）は、かつて[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")が放送していた[夕](../Page/夕.md "wikilink")方の[広島県](../Page/広島県.md "wikilink")向け[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

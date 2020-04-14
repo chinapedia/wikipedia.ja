@@ -1,4 +1,4 @@
-> この記事は[Hikaru \(\)](https://ja.wikipedia.org/wiki/Hikaru_\(\))から翻訳されています。
+> この記事は[Hikaru \(プロレスラー\)](https://ja.wikipedia.org/wiki/Hikaru_\(プロレスラー\))から翻訳されています。
 
 
 **Hikaru**（ヒカル、[1981年](../Page/1981年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**塩谷 良美**（しおや よしみ）。[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身。

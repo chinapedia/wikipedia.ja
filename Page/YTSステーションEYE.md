@@ -1,4 +1,4 @@
-> この記事は[YTSEYE](https://ja.wikipedia.org/wiki/YTSEYE)から翻訳されています。
+> この記事は[YTSステーションEYE](https://ja.wikipedia.org/wiki/YTSステーションEYE)から翻訳されています。
 
 
 『**YTSステーションEYE**』（ワイティーエス ステーション アイ）は、[1993年](../Page/1993年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで（週末版は1993年[4月3日](../Page/4月3日.md "wikilink")から1997年[9月28日](../Page/9月28日.md "wikilink")までの土曜・日曜に）[山形テレビ](../Page/山形テレビ.md "wikilink")で放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[山形県](../Page/山形県.md "wikilink")ローカル）。番組前半は東京（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）からの全国のニュースを、後半は山形のニュースを中心とする構成になっていた。

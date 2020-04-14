@@ -1,4 +1,4 @@
-> この記事は[JGA](https://ja.wikipedia.org/wiki/JGA)から翻訳されています。
+> この記事は[J・G・A・ポーコック](https://ja.wikipedia.org/wiki/J・G・A・ポーコック)から翻訳されています。
 
 
 **ジョン・グレヴィル・アガード・ポーコック**（**John Greville Agard Pocock**、[1924年](../Page/1924年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[歴史家](../Page/歴史家.md "wikilink")、[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")。専門は、[英米](https://ja.wikipedia.org/wiki/英米 "wikilink")の[共和主義](../Page/共和主義.md "wikilink")思想、歴史叙述をめぐる[政治思想史](https://ja.wikipedia.org/wiki/政治思想史 "wikilink")。

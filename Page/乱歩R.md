@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[乱歩R](https://ja.wikipedia.org/wiki/乱歩R)から翻訳されています。
 
 
 『**乱歩R**』（らんぽアール）は、[2004年](../Page/2004年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")から[3月15日](../Page/3月15日.md "wikilink")まで毎週月曜日22:00 - 22:54\[1\]に、[よみうりテレビ制作](https://ja.wikipedia.org/wiki/読売テレビ放送 "wikilink")・[日本テレビ系で放送された日本の](../Page/日本テレビ放送網.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[藤井隆](../Page/藤井隆.md "wikilink")。

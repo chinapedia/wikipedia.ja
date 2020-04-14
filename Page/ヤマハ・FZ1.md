@@ -1,4 +1,4 @@
-> この記事は[FZ1](https://ja.wikipedia.org/wiki/FZ1)から翻訳されています。
+> この記事は[ヤマハ・FZ1](https://ja.wikipedia.org/wiki/ヤマハ・FZ1)から翻訳されています。
 
 
 **FZ1**（エフゼットワン）は、[2001年](../Page/2001年.md "wikilink")より[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売している1000ccクラスの[オートバイ](../Page/オートバイ.md "wikilink")（[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")）である。

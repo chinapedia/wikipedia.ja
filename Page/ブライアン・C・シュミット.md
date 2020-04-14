@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ブライアン・C・シュミット](https://ja.wikipedia.org/wiki/ブライアン・C・シュミット)から翻訳されています。
 
 
 **ブライアン・C・シュミット**（*Brian C. Schmidt*, [1966年](../Page/1966年.md "wikilink") - ）は、カナダのカールトン大学政治学部助教授。

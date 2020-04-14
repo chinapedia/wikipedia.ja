@@ -1,4 +1,4 @@
-> この記事は[RG](https://ja.wikipedia.org/wiki/RG)から翻訳されています。
+> この記事は[レイザーラモンRG](https://ja.wikipedia.org/wiki/レイザーラモンRG)から翻訳されています。
 
 
 **レイザーラモンRG**（レイザーラモンアールジー、[1974年](../Page/1974年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属。本名および旧芸名は**出渕 誠**（いずぶち まこと）。[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")（住谷正樹）とお笑いコンビ「[レイザーラモン](../Page/レイザーラモン.md "wikilink")」を組んでいる。
@@ -13,7 +13,7 @@
 
 立命館大学でも軽音楽部に所属し「A.O.D」というバンドを結成、ベースを務めた。しかしあまり刺激を感じず、他のサークル活動を見学していたところ、立命館[プロレス](../Page/プロレス.md "wikilink")同好会（RWF）のメンバーに魅かれるものがあり、入部した。[学生プロレス](../Page/学生プロレス.md "wikilink")中心の生活となる中で、[同志社大学](../Page/同志社大学.md "wikilink")の住谷正樹（後の[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")）と出会う。また、「[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」「[COMIC CUE](https://ja.wikipedia.org/wiki/COMIC_CUE "wikilink")」といったサブカルチャー系の漫画にものめり込み、自ら漫画を描いて出版社に持ち込むまでにもなった。一方で学業にも真面目に取り組み、3回生の頃には就職の内定を決めていた\[5\]。
 
-立命館在学中の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に、住谷とお笑いコンビ「**[レイザーラモン](../Page/レイザーラモン.md "wikilink")**」を結成。当時、大阪で[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")が人気となっていたため、卒業記念に2丁目劇場のオーディションライブ「SABIKI」を受けてみたところ合格し、同劇場へ出演するようになる。さらにはその勢いで参加した「[今宮子供えびすマンザイ新人コンクール](../Page/今宮子供えびすマンザイ新人コンクール.md "wikilink")」では福笑い大賞を受賞した。また、卒業後はカーディーラー（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売店）に就職し、営業職などを務めつつお笑いも続けていたが、仕事になじめず3ヵ月ほどで脱サラし、[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")に入社。アルバイトを掛け持ちしつつ、本格的にお笑い芸人としての活動を始める\[6\]。
+立命館在学中の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に、住谷とお笑いコンビ「**[レイザーラモン](../Page/レイザーラモン.md "wikilink")**」を結成。当時、大阪で[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")が人気となっていたため、卒業記念に2丁目劇場のオーディションライブ「SABIKI」を受けてみたところ合格し、同劇場へ出演するようになる。さらに、その勢いで参加した「[今宮子供えびすマンザイ新人コンクール](../Page/今宮子供えびすマンザイ新人コンクール.md "wikilink")」では福笑い大賞を受賞した。卒業後はカーディーラー（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の販売店）に就職し、営業職などを務めつつお笑いも続けていたが、仕事になじめず3ヵ月ほどで退職し、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に入社。アルバイトを掛け持ちしつつ、本格的にお笑い芸人としての活動を始める\[6\]。
 
 [1999年](../Page/1999年.md "wikilink")、[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")プロデュースの「爆笑新ネタ逆転満塁ホームラン寄席」に初出演。同年10月、初のレギュラー番組となる毎日放送『[クヮンガクッ](../Page/クヮンガクッ.md "wikilink")』がスタート（翌3月までレギュラー）。[2000年](../Page/2000年.md "wikilink")、「[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")」で審査員特別賞を受賞。
 
@@ -257,6 +257,7 @@ RWFの先輩には芸人の[ユリオカ超特Q](../Page/ユリオカ超特Q.md 
   - [21世紀グループ](../Page/21世紀グループ.md "wikilink")（熊本のパチンコチェーン店のCM。HGと共演）
   - [モンスターストライク](https://ja.wikipedia.org/wiki/モンスターストライク "wikilink")「映画[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")あるある」（2017年）
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「docomo with」（2019年、「スマホ料金見直しまショー」篇。細川たかしと共演）
+  - モンスターストライク「モンストあるある発表！」（2020年、[FAIRY TAILコラボ](../Page/FAIRY_TAIL.md "wikilink")）
 
 ### PV
 
@@ -286,7 +287,7 @@ RWFの先輩には芸人の[ユリオカ超特Q](../Page/ユリオカ超特Q.md 
 
   - [ビッグポルノ](http://koyabubaby.fc2web.com/)
 
-  - [レイザーラモンRGの『まさかのTRUE LOVE』](http://silverwolf.laff.jp/blog/)（本人によるブログ）
+  - （本人によるブログ）
 
   -
   -

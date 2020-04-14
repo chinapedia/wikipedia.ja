@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ミドルズブラFC](https://ja.wikipedia.org/wiki/ミドルズブラFC)から翻訳されています。
 
 
 **ミドルズブラ・フットボール・クラブ**（**Middlesbrough Football Club** )）は、[イングランド](../Page/イングランド.md "wikilink")・[ミドルズブラ](https://ja.wikipedia.org/wiki/ミドルズブラ "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

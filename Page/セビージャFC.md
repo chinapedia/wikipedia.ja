@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[セビージャFC](https://ja.wikipedia.org/wiki/セビージャFC)から翻訳されています。
 
 
-**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2019-20シーズンは[ラ・リーガ1部に所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
+**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2019-20シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
 
 1890年10月14日に設立された。[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")で優勝1度、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で優勝5度、[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝1度、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")で優勝5度を数える。セビージャFCのサポーターはセビジスタと呼ばれ、富裕層を中心にファンが多いとされる。同じセビリアを本拠地とし、労働者階級に強い支持基盤を持つ[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")との対戦はセビリア・ダービーと呼ばれ、スペインで最も熱いダービーと言われている\[2\]。
 

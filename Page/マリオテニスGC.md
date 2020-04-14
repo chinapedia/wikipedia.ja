@@ -1,4 +1,4 @@
-> この記事は[GC](https://ja.wikipedia.org/wiki/GC)から翻訳されています。
+> この記事は[マリオテニスGC](https://ja.wikipedia.org/wiki/マリオテニスGC)から翻訳されています。
 
 
 **マリオテニスGC**（マリオテニスジーシー、*Mario Power Tennis*）は、[キャメロット製作](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")発売の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションスポーツゲーム](../Page/アクションゲーム.md "wikilink")。[マリオテニス](../Page/マリオテニス.md "wikilink")の第3作目。

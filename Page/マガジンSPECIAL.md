@@ -1,4 +1,4 @@
-> この記事は[SPECIAL](https://ja.wikipedia.org/wiki/SPECIAL)から翻訳されています。
+> この記事は[マガジンSPECIAL](https://ja.wikipedia.org/wiki/マガジンSPECIAL)から翻訳されています。
 
 
 『**マガジンSPECIAL**』（マガジンスペシャル）は、[講談社](../Page/講談社.md "wikilink")発行の月刊の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")で『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』の[増刊](https://ja.wikipedia.org/wiki/増刊 "wikilink")誌である。通称「マガスペ」。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")創刊。

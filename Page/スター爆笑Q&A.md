@@ -1,4 +1,4 @@
-> この記事は[Q\&A](https://ja.wikipedia.org/wiki/Q\&A)から翻訳されています。
+> この記事は[スター爆笑Q\&A](https://ja.wikipedia.org/wiki/スター爆笑Q\&A)から翻訳されています。
 
 
 『**スター爆笑Q\&A**』（スターばくしょうキューアンドエー）は、[1982年](../Page/1982年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")、[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")を交えた[トーク番組](../Page/トーク番組.md "wikilink")。[よみうりテレビの製作番組であるが](../Page/讀賣テレビ放送.md "wikilink")、[IVSテレビ制作](../Page/IVSテレビ制作.md "wikilink")も製作に携わっていた。放送時間は毎週月曜 22:00 - 22:52\[1\]([JST](../Page/日本標準時.md "wikilink")) 。

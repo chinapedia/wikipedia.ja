@@ -1,4 +1,4 @@
-> この記事は[CoCo \(\)](https://ja.wikipedia.org/wiki/CoCo_\(\))から翻訳されています。
+> この記事は[CoCo \(アイドルグループ\)](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\))から翻訳されています。
 
 
 **CoCo**（ココ）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』内の[乙女塾](../Page/乙女塾.md "wikilink")から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。当初メンバーは5人だったが、[1992年](../Page/1992年.md "wikilink")に[瀬能あづさ](https://ja.wikipedia.org/wiki/瀬能あづさ "wikilink")が脱退\[1\]し、その後は4人で活動を続け、[1994年](../Page/1994年.md "wikilink")に解散。

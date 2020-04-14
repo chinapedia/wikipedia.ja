@@ -1,4 +1,4 @@
-> この記事は[TOTO ](https://ja.wikipedia.org/wiki/TOTO_)から翻訳されています。
+> この記事は[TOTOリモデル 住まいの何でも大事典](https://ja.wikipedia.org/wiki/TOTOリモデル_住まいの何でも大事典)から翻訳されています。
 
 
 **TOTOリモデル 住まいの何でも大事典**（トートーリモデルすまいのなんでもだいじてん）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキーステーションに[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")全国12局ネットで放送されていたラジオ番組。パーソナリティは[柳井麻希](../Page/柳井麻希.md "wikilink")。提供は[TOTO](../Page/TOTO_\(企業\).md "wikilink")。

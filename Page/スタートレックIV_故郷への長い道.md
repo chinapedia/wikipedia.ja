@@ -1,4 +1,4 @@
-> この記事は[IV ](https://ja.wikipedia.org/wiki/IV_)から翻訳されています。
+> この記事は[スタートレックIV 故郷への長い道](https://ja.wikipedia.org/wiki/スタートレックIV_故郷への長い道)から翻訳されています。
 
 
 『**スタートレックIV 故郷への長い道**』（スタートレックフォー ふるさとへのながいみち、*Star Trek IV: The Voyage Home*）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")。『[スタートレック](../Page/スタートレック.md "wikilink")』映画（オリジナルシリーズ）全6作中4作目。日本での公開は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")3月。劇場公開時の邦題は『故郷への長い道 スター・トレック4』。

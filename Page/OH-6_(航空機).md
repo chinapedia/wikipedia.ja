@@ -1,4 +1,4 @@
-> この記事は[OH-6 \(\)](https://ja.wikipedia.org/wiki/OH-6_\(\))から翻訳されています。
+> この記事は[OH-6 \(航空機\)](https://ja.wikipedia.org/wiki/OH-6_\(航空機\))から翻訳されています。
 
 
 **OH-6**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の航空機メーカー、[ヒューズ・ヘリコプターズ](../Page/ヒューズ・ヘリコプターズ.md "wikilink")社が開発した小型[ヘリコプター](../Page/ヘリコプター.md "wikilink")。[アメリカ軍](../Page/アメリカ軍.md "wikilink")における愛称は「**カイユース**」（Cayuse：[アメリカ先住民](https://ja.wikipedia.org/wiki/アメリカ先住民 "wikilink")の[カイユース族](https://ja.wikipedia.org/wiki/カイユース族 "wikilink")から」）。機体形状から「**フライングエッグ（空飛ぶ卵）**」、開発計画名LOHから転じた「**ローチ（[ドジョウ](../Page/ドジョウ.md "wikilink")）**」の別名でも呼ばれている。

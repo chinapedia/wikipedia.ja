@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ボルトン・ワンダラーズFC](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC)から翻訳されています。
 
 
 **ボルトン・ワンダラーズ・フットボール・クラブ**（**Bolton Wanderers Football Club** ()）は、[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター州](https://ja.wikipedia.org/wiki/グレーター・マンチェスター州 "wikilink")、[ボルトン](../Page/ボルトン.md "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[EFLリーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。

@@ -1,4 +1,4 @@
-> この記事は[KinKi Kids !](https://ja.wikipedia.org/wiki/KinKi_Kids_!)から翻訳されています。
+> この記事は[KinKi Kids どんなもんヤ!](https://ja.wikipedia.org/wiki/KinKi_Kids_どんなもんヤ!)から翻訳されています。
 
 
 『**KinKi Kids どんなもんヤ\!**』（キンキキッズ - ）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")2人がパーソナリティを務めるラジオ番組。[文化放送](../Page/文化放送.md "wikilink")をキーステーションに放送中。

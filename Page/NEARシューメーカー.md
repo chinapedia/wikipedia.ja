@@ -1,4 +1,4 @@
-> この記事は[NEAR](https://ja.wikipedia.org/wiki/NEAR)から翻訳されています。
+> この記事は[NEARシューメーカー](https://ja.wikipedia.org/wiki/NEARシューメーカー)から翻訳されています。
 
 
 **NEARシューメーカー**（ニア シューメーカー） (**NEAR Shoemaker**) は、[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")(NASA)の[ディスカバリー計画](../Page/ディスカバリー計画.md "wikilink")の一環として行われた、[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")・(433)[エロスを探査するミッション](../Page/エロス_\(小惑星\).md "wikilink")、または探査機の名前である。

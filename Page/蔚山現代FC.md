@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[蔚山現代FC](https://ja.wikipedia.org/wiki/蔚山現代FC)から翻訳されています。
 
 
 **蔚山現代FC**（ウルサンヒョンデエフシー、、）は、[韓国の南東部の](../Page/大韓民国.md "wikilink")[蔚山広域市](https://ja.wikipedia.org/wiki/蔚山広域市 "wikilink")をホームタウンとするプロサッカークラブである。韓国プロサッカーリーグ・[Kリーグ1](../Page/Kリーグ1.md "wikilink")に加盟している。

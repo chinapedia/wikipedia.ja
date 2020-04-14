@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKテレコム](https://ja.wikipedia.org/wiki/SKテレコム)から翻訳されています。
 
 
 **SKテレコム**は[大韓民国](../Page/大韓民国.md "wikilink")最大の[携帯電話](../Page/携帯電話.md "wikilink")事業者。[SKグループ](../Page/SKグループ.md "wikilink")の中核企業である。

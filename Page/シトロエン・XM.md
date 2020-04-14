@@ -1,4 +1,4 @@
-> この記事は[XM](https://ja.wikipedia.org/wiki/XM)から翻訳されています。
+> この記事は[シトロエン・XM](https://ja.wikipedia.org/wiki/シトロエン・XM)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Citroen_xm_compo.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Citroen61.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Shokigata-XM-2.JPG "wikilink")

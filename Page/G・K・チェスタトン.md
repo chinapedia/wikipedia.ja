@@ -1,7 +1,7 @@
-> この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
+> この記事は[G・K・チェスタトン](https://ja.wikipedia.org/wiki/G・K・チェスタトン)から翻訳されています。
 
 
-**ギルバート・キース・チェスタトン**（、[1874年](../Page/1874年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1936年](../Page/1936年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[作家](../Page/作家.md "wikilink")、[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[詩人](../Page/詩人.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")。[ロンドン](../Page/ロンドン.md "wikilink")・[ケンジントン](../Page/ケンジントン.md "wikilink")に生まれ。[セント・ポール](https://ja.wikipedia.org/wiki/セント・ポール "wikilink")校、[スレード美術学校](https://ja.wikipedia.org/wiki/スレード美術学校 "wikilink")に学ぶ。[推理作家](../Page/推理作家.md "wikilink")としても有名で、[カトリック教会](../Page/カトリック教会.md "wikilink")に属する[ブラウン神父](../Page/ブラウン神父.md "wikilink")が遭遇した事件を解明するシリーズが[探偵小説](https://ja.wikipedia.org/wiki/探偵小説 "wikilink")の古典として知られている。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")初代会長。
+**ギルバート・キース・チェスタトン**（、[1874年](../Page/1874年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1936年](../Page/1936年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[作家](../Page/作家.md "wikilink")、[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[詩人](../Page/詩人.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")。[ロンドン](../Page/ロンドン.md "wikilink")・[ケンジントン](../Page/ケンジントン.md "wikilink")に生まれ。[セント・ポール校](https://ja.wikipedia.org/wiki/セント・ポールズ・スクール_\(ロンドン\) "wikilink")、[スレード美術学校](https://ja.wikipedia.org/wiki/スレード美術学校 "wikilink")に学ぶ。[推理作家](../Page/推理作家.md "wikilink")としても有名で、[カトリック教会](../Page/カトリック教会.md "wikilink")に属する[ブラウン神父](../Page/ブラウン神父.md "wikilink")が遭遇した事件を解明するシリーズが[探偵小説](https://ja.wikipedia.org/wiki/探偵小説 "wikilink")の古典として知られている。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")初代会長。
 
 ## 生涯
 

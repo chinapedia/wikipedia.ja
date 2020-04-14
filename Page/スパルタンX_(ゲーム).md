@@ -1,4 +1,4 @@
-> この記事は[X \(\)](https://ja.wikipedia.org/wiki/X_\(\))から翻訳されています。
+> この記事は[スパルタンX \(ゲーム\)](https://ja.wikipedia.org/wiki/スパルタンX_\(ゲーム\))から翻訳されています。
 
 
 『**スパルタンX**』（スパルタンエックス）は、[1984年](../Page/1984年.md "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用の任意スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")として稼動されたタイトルである。

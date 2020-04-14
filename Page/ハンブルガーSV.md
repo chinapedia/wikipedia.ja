@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[ハンブルガーSV](https://ja.wikipedia.org/wiki/ハンブルガーSV)から翻訳されています。
 
 
 **ハンブルガー・シュポルト＝フェアアイン**（**Hamburger Sport-Verein**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハンブルク](../Page/ハンブルク.md "wikilink")に本拠地を置く総合[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")。通称：**ハンブルガーSV**（ハンブルガー・エス・ファウ）、略称：**HSV**（ハー・エス・ファウ）。「Sport-Verein」（シュポルト＝フェアアイン）とは英語で「スポーツクラブ」と訳せる言葉である。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部門が特に知られており、トップチームは2017-18シーズンまでは[ブンデスリーガから降格した経験がないことでも知られていた](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")\[1\]。この他にも[バドミントン](../Page/バドミントン.md "wikilink")、[バスケットボール](../Page/バスケットボール.md "wikilink")、[野球](../Page/野球.md "wikilink")、[ハンドボール](../Page/ハンドボール.md "wikilink")をはじめ様々な種目のスポーツ部門を傘下に持つ\[2\]。

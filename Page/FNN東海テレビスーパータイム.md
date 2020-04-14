@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN東海テレビスーパータイム](https://ja.wikipedia.org/wiki/FNN東海テレビスーパータイム)から翻訳されています。
 
 
 『**FNN東海テレビスーパータイム**』（エフエヌエヌとうかいテレビスーパータイム）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[東海テレビで放送された夕方の](../Page/東海テレビ放送.md "wikilink")[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の中京ローカル扱い）。

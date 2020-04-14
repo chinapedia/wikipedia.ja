@@ -1,4 +1,4 @@
-> この記事は[Talk](https://ja.wikipedia.org/wiki/Talk)から翻訳されています。
+> この記事は[漢字Talk](https://ja.wikipedia.org/wiki/漢字Talk)から翻訳されています。
 
 
 **漢字Talk**（かんじトーク）は、[アップルが](../Page/アップル_\(企業\).md "wikilink")[1996年](../Page/1996年.md "wikilink")（平成8年）まで使用していた[Macintosh](../Page/Macintosh.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である[Classic Mac OSの日本語版につけた名前](../Page/Classic_Mac_OS.md "wikilink")。翻訳されたアプリケーションで構成されており、[日本語](../Page/日本語.md "wikilink")[フォント](../Page/フォント.md "wikilink")が設定され、[ことえり](../Page/ことえり.md "wikilink")と呼ばれる[日本語入力システム](../Page/日本語入力システム.md "wikilink")が搭載されていた\[1\]。このソフトウエアは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でのみ発売され、サポートも日本でのみ。[アメリカでも転売者によって購入され利用されたが](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アップルは日本以外ではサポートをしなかった\[2\]。

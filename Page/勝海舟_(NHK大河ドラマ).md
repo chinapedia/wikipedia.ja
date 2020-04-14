@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[勝海舟 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/勝海舟_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**勝海舟**』（かつかいしゅう）は、[NHKが制作し](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1974年](../Page/1974年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")に[総合テレビジョンで放送した](../Page/NHK総合テレビジョン.md "wikilink")12作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全52回。[子母沢寛の同名小説を原作に](../Page/子母澤寛.md "wikilink")[勝海舟](../Page/勝海舟.md "wikilink")の生涯を、海舟を取り巻く人々の人間模様を織り交ぜて描いた。

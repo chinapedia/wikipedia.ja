@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ホンダ・C型エンジン](https://ja.wikipedia.org/wiki/ホンダ・C型エンジン)から翻訳されています。
 
 
 **C型エンジン**（Cがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[大型車種及び](../Page/Eセグメント.md "wikilink")[NSX用の](../Page/ホンダ・NSX.md "wikilink")[V型6気筒](../Page/V型6気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")である。

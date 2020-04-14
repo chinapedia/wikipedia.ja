@@ -150,4 +150,4 @@ TSUTCHIE：Manipulator
 
 ## 外部リンク
 
-[Category:CHEMISTRYのアルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのアルバム "wikilink") [Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")
+[Category:CHEMISTRYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのベスト・アルバム "wikilink") [Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")

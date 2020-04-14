@@ -1,4 +1,4 @@
-> この記事は[AI](https://ja.wikipedia.org/wiki/AI)から翻訳されています。
+> この記事は[AI将棋](https://ja.wikipedia.org/wiki/AI将棋)から翻訳されています。
 
 
 **AI将棋**（エーアイしょうぎ）は、[コンピュータ将棋](https://ja.wikipedia.org/wiki/コンピュータ将棋 "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")。製品ラインナップは[Microsoft Windows版を中心に展開されているが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、バージョンによっては[Macintosh](../Page/Macintosh.md "wikilink")版・[PlayStation 2版も販売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

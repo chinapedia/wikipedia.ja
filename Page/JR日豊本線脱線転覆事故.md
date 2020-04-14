@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR日豊本線脱線転覆事故](https://ja.wikipedia.org/wiki/JR日豊本線脱線転覆事故)から翻訳されています。
 
 
 **JR日豊本線脱線転覆事故**（JRにっぽうほんせんだっせんてんぷくじこ）は、[2006年](../Page/2006年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")13時50分頃、[宮崎県](../Page/宮崎県.md "wikilink")の[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）[日豊本線](https://ja.wikipedia.org/wiki/日豊本線 "wikilink")の[南延岡駅](https://ja.wikipedia.org/wiki/南延岡駅 "wikilink")付近で発生した[竜巻](../Page/竜巻.md "wikilink")により列車脱線・転覆した事故である。

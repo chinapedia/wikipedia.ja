@@ -1,4 +1,4 @@
-> この記事は[ G.IV](https://ja.wikipedia.org/wiki/_G.IV)から翻訳されています。
+> この記事は[ゴータ G.IV](https://ja.wikipedia.org/wiki/ゴータ_G.IV)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Gothg4.jpg "wikilink")

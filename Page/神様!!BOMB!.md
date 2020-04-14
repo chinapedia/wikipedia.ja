@@ -1,4 +1,4 @@
-> この記事は[!!BOMB!](https://ja.wikipedia.org/wiki/!!BOMB!)から翻訳されています。
+> この記事は[神様!!BOMB!](https://ja.wikipedia.org/wiki/神様!!BOMB!)から翻訳されています。
 
 
 『**神様\!\!BOMB\!**』（かみさま ボム）は、[1996年](../Page/1996年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[中京テレビ製作の](../Page/中京テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。日本テレビ系全国ネットの[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[TVじゃん\!\!](../Page/どんまい!!_VARIETYSHOW&SPORTS.md "wikilink")』木曜の番組として放送。

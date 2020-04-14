@@ -1,4 +1,4 @@
-> この記事は[GET LOVE!!](https://ja.wikipedia.org/wiki/GET_LOVE!!)から翻訳されています。
+> この記事は[GET LOVE!!〜フィールドの王子さま〜](https://ja.wikipedia.org/wiki/GET_LOVE!!〜フィールドの王子さま〜)から翻訳されています。
 
 
 『**GET LOVE\!\!〜フィールドの王子さま〜**』（ゲットラブ\!\!〜フィールドのおうじさま〜）は、[池山田剛](../Page/池山田剛.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[少女コミック](../Page/少女コミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[2003年](../Page/2003年.md "wikilink")16号から[2004年](../Page/2004年.md "wikilink")23号まで掲載された。[単行本](../Page/単行本.md "wikilink")は全7巻。

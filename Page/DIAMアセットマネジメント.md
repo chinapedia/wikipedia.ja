@@ -1,4 +1,4 @@
-> この記事は[DIAM](https://ja.wikipedia.org/wiki/DIAM)から翻訳されています。
+> この記事は[DIAMアセットマネジメント](https://ja.wikipedia.org/wiki/DIAMアセットマネジメント)から翻訳されています。
 
 
 **DIAMアセットマネジメント株式会社**（ダイアムアセットマネジメント、*DIAM Co., Ltd.*）は、かつて存在した日本の大手資産[運用会社](https://ja.wikipedia.org/wiki/運用会社 "wikilink")で、現在の[アセットマネジメントOne](https://ja.wikipedia.org/wiki/アセットマネジメントOne "wikilink")株式会社の前身。[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置いていた。

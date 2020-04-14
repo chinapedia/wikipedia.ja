@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJチャンネルみやぎ](https://ja.wikipedia.org/wiki/スーパーJチャンネルみやぎ)から翻訳されています。
 
 
 『**スーパーJチャンネルみやぎ**』（スーパージェイチャンネルみやぎ）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[東日本放送](../Page/東日本放送.md "wikilink")で放送されている平日夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")（『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパート）。

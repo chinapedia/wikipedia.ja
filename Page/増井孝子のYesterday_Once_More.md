@@ -1,4 +1,4 @@
-> この記事は[Yesterday Once More](https://ja.wikipedia.org/wiki/Yesterday_Once_More)から翻訳されています。
+> この記事は[増井孝子のYesterday Once More](https://ja.wikipedia.org/wiki/増井孝子のYesterday_Once_More)から翻訳されています。
 
 
 **増井孝子のYesterday Once More**（ますいたかこのイエスタデイワンモア）は2006年10月8日から2007年4月1日まで放送された[ラジオ関西](../Page/ラジオ関西.md "wikilink")の番組である。

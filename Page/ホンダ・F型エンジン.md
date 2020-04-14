@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ホンダ・F型エンジン](https://ja.wikipedia.org/wiki/ホンダ・F型エンジン)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Honda_F22C_Engine.JPG "wikilink") **F型エンジン**（Fがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[中型車種及び](../Page/Dセグメント.md "wikilink")[S2000用の](../Page/ホンダ・S2000.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

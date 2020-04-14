@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
+> この記事は[ONE PIECE 珍獣島のチョッパー王国](https://ja.wikipedia.org/wiki/ONE_PIECE_珍獣島のチョッパー王国)から翻訳されています。
 
 
 『**ONE PIECE 珍獣島のチョッパー王国**』（ワンピース ちんじゅうじまのチョッパーおうこく）は、[2002年](../Page/2002年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")3作目。短編作品「**夢のサッカー王\!**」が同時上映。

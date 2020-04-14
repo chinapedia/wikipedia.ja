@@ -1,4 +1,4 @@
-> この記事は[ALIVE](https://ja.wikipedia.org/wiki/ALIVE)から翻訳されています。
+> この記事は[機動戦士ガンダムALIVE](https://ja.wikipedia.org/wiki/機動戦士ガンダムALIVE)から翻訳されています。
 
 
 『**機動戦士ガンダムALIVE**』（きどうせんしガンダムアライブ）は、[講談社](../Page/講談社.md "wikilink")『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』2006年11月号より2007年12月号まで連載された[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。作者は[高山瑞穂](../Page/高山瑞穂.md "wikilink")（[シナリオ担当は](../Page/漫画原作者.md "wikilink")[皆川ゆか](../Page/皆河有伽.md "wikilink")）。

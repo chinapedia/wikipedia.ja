@@ -1,4 +1,4 @@
-> この記事は[JAM \(\)](https://ja.wikipedia.org/wiki/JAM_\(\))から翻訳されています。
+> この記事は[JAM \(アイドルグループ\)](https://ja.wikipedia.org/wiki/JAM_\(アイドルグループ\))から翻訳されています。
 
 
 **JAM**（ジャム）は、かつて関西地方を中心に活動していた3人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/アイドルグループ "wikilink")である。
@@ -46,8 +46,8 @@
 
 ## 外部リンク
 
-  - [奥田順子オフィシャルブログ『オクジュン日記』](http://ameblo.jp/junko-okuda/)
-  - [DOWN with AMI](http://ameblo.jp/ami-musee/) (春名亜美のブログ：GiRLSGATE)
-  - [Misako's Room](http://ameblo.jp/misako-littleberry/) (村上実沙子のブログ：GiRLSGATE)
+  - [奥田順子オフィシャルブログ『オクジュン日記』](https://ameblo.jp/junko-okuda/)
+  - [DOWN with AMI](https://ameblo.jp/ami-musee/) (春名亜美のブログ：GiRLSGATE)
+  - [Misako's Room](https://ameblo.jp/misako-littleberry/) (村上実沙子のブログ：GiRLSGATE)
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:ViViモデルズ](https://ja.wikipedia.org/wiki/Category:ViViモデルズ "wikilink") [Category:近畿地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:近畿地方のローカルアイドル "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink")

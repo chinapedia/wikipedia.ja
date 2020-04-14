@@ -1,4 +1,4 @@
-> この記事は[IZUMI](https://ja.wikipedia.org/wiki/IZUMI)から翻訳されています。
+> この記事は[少女コマンドーIZUMI](https://ja.wikipedia.org/wiki/少女コマンドーIZUMI)から翻訳されています。
 
 
 『**少女コマンドーIZUMI**』（しょうじょコマンドーいづみ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")より[1988年](../Page/1988年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")まで毎週木曜日19:30 - 20:00に、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた日本の](../Page/フジネットワーク.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[東映](../Page/東映.md "wikilink")制作。主演は[五十嵐いづみ](../Page/五十嵐いづみ.md "wikilink")。

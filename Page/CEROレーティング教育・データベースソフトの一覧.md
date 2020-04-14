@@ -1,4 +1,4 @@
-> この記事は[CERO](https://ja.wikipedia.org/wiki/CERO)から翻訳されています。
+> この記事は[CEROレーティング教育・データベースソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング教育・データベースソフトの一覧)から翻訳されています。
 
 
 [CERO_Kyouiku_Deitabeisu.svg](https://ja.wikipedia.org/wiki/File:CERO_Kyouiku_Deitabeisu.svg "fig:CERO_Kyouiku_Deitabeisu.svg") [コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") (CERO) によるレーティングで、**教育・データベース**に指定されているソフトの一覧。

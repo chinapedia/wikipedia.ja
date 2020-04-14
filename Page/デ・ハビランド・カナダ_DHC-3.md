@@ -1,4 +1,4 @@
-> この記事は[ DHC-3](https://ja.wikipedia.org/wiki/_DHC-3)から翻訳されています。
+> この記事は[デ・ハビランド・カナダ DHC-3](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-3)から翻訳されています。
 
 
 [C-FUKN-Northway-Aviation-DHC-3-Otter-2.jpg](https://ja.wikipedia.org/wiki/File:C-FUKN-Northway-Aviation-DHC-3-Otter-2.jpg "fig:C-FUKN-Northway-Aviation-DHC-3-Otter-2.jpg") **デ・ハビランド・カナダ DHC-3 オッター** (de Havilland Canada DHC-3 Otter) は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")社が開発した単発[STOL](https://ja.wikipedia.org/wiki/航空機の離着陸方法#短距離離着陸機 "wikilink")[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")機。愛称のオッターとは[カワウソ](https://ja.wikipedia.org/wiki/カワウソ "wikilink")の意である。

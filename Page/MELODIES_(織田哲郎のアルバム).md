@@ -1,4 +1,4 @@
-> この記事は[MELODIES \(\)](https://ja.wikipedia.org/wiki/MELODIES_\(\))から翻訳されています。
+> この記事は[MELODIES \(織田哲郎のアルバム\)](https://ja.wikipedia.org/wiki/MELODIES_\(織田哲郎のアルバム\))から翻訳されています。
 
 
 『**MELODIES**』（メロディーズ）は、[織田哲郎](../Page/織田哲郎.md "wikilink")のセルフカバーアルバム。

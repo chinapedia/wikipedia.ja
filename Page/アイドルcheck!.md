@@ -1,4 +1,4 @@
-> この記事は[check!](https://ja.wikipedia.org/wiki/check!)から翻訳されています。
+> この記事は[アイドルcheck!](https://ja.wikipedia.org/wiki/アイドルcheck!)から翻訳されています。
 
 
 「**アイドルcheck\!**」（アイドルチェック）は、「21世紀の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")は[ネットから生まれる](../Page/インターネット.md "wikilink")」を旗印に、アイドルの魅力を引き出し、“未来のトップアイドル”を[ファン](../Page/ファン.md "wikilink")の方たちと一緒に誕生させようというアイドルの[ポータルサイト](../Page/ポータルサイト.md "wikilink")。運営主体は有限会社キッチュ。

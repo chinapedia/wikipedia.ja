@@ -1,4 +1,4 @@
-> この記事は[ \(HIGH and MIGHTY COLOR\)](https://ja.wikipedia.org/wiki/_\(HIGH_and_MIGHTY_COLOR\))から翻訳されています。
+> この記事は[一輪の花 \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/一輪の花_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
 「**一輪の花**」（いちりんのはな）は、[HIGH and MIGHTY COLORの楽曲で](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、6枚目の[シングル](../Page/シングル.md "wikilink")。 [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")から発売された。
@@ -51,7 +51,7 @@
 
 ## 外部リンク
 
-  - [ソニー・ミュージックエンタテインメントによる紹介ページ](http://www.sonymusic.co.jp/Music/Arch/SMER/HandMC/SECL-278)
+  - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://www.sonymusic.co.jp/artist/HandMC/discography/SECL-278)
 
 [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink")
 

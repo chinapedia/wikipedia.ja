@@ -1,4 +1,4 @@
-> この記事は[UR](https://ja.wikipedia.org/wiki/UR)から翻訳されています。
+> この記事は[トヨタ・URエンジン](https://ja.wikipedia.org/wiki/トヨタ・URエンジン)から翻訳されています。
 
 
 **URエンジン**は、[UZエンジンの後継機として](../Page/トヨタ・UZエンジン.md "wikilink")17年振りに新開発された[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")エンジンである。

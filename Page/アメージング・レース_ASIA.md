@@ -1,4 +1,4 @@
-> この記事は[ ASIA](https://ja.wikipedia.org/wiki/_ASIA)から翻訳されています。
+> この記事は[アメージング・レース ASIA](https://ja.wikipedia.org/wiki/アメージング・レース_ASIA)から翻訳されています。
 
 
 **アメージング・レース ASIA**（アメージング・レース アジア、*The Amazing Race Asia*）は、[AXN](../Page/AXN.md "wikilink")で放送される[アメージング・レース](../Page/アメージング・レース.md "wikilink")の[アジア](../Page/アジア.md "wikilink")版。

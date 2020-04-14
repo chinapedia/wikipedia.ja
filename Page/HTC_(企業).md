@@ -1,4 +1,4 @@
-> この記事は[HTC \(\)](https://ja.wikipedia.org/wiki/HTC_\(\))から翻訳されています。
+> この記事は[HTC \(企業\)](https://ja.wikipedia.org/wiki/HTC_\(企業\))から翻訳されています。
 
 
 [Htc_new_logo.svg](https://ja.wikipedia.org/wiki/File:Htc_new_logo.svg "fig:Htc_new_logo.svg") [HTC_台北新店總部大樓.jpg](https://ja.wikipedia.org/wiki/File:HTC_台北新店總部大樓.jpg "fig:HTC_台北新店總部大樓.jpg") [220px](https://ja.wikipedia.org/wiki/ファイル:HT-01A.jpg "wikilink")

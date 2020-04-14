@@ -1,4 +1,4 @@
-> この記事は[BBS](https://ja.wikipedia.org/wiki/BBS)から翻訳されています。
+> この記事は[東京BBS](https://ja.wikipedia.org/wiki/東京BBS)から翻訳されています。
 
 
 **東京BBS**（とうきょうびーびーえす）とは、かつて存在した[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")をもって閉局した。

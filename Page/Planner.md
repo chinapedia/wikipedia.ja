@@ -38,22 +38,22 @@
 ## 参考文献
 
   - Carl Hewitt. **PLANNER: A Language for Proving Theorems in Robots** IJCAI 1969
-  - Gerry Sussman and Terry Winograd. **[Micro-planner Reference Manual](http://hdl.handle.net/1721.1/5833)** AI Memo No, 203, MIT Project MAC, July 1970.
-  - Terry Winograd. **[Procedures as a Representation for Data in a Computer Program for Understanding Natural Language](http://hdl.handle.net/1721.1/7095)** MIT AI TR-235. January 1971.
+  - Gerry Sussman and Terry Winograd. **[Micro-planner Reference Manual](https://hdl.handle.net/1721.1/5833)** AI Memo No, 203, MIT Project MAC, July 1970.
+  - Terry Winograd. **[Procedures as a Representation for Data in a Computer Program for Understanding Natural Language](https://hdl.handle.net/1721.1/7095)** MIT AI TR-235. January 1971.
   - Carl Hewitt. **Procedural Embedding of Knowledge In Planner** IJCAI 1971.
-  - Gerry Sussman, Terry Winograd and Eugene Charniak. **[Micro-Planner Reference Manual (Update)](http://hdl.handle.net/1721.1/6184)** AI Memo 203A, MIT AI Lab, December 1971
-  - Carl Hewitt. **[Description and Theoretical Analysis (Using Schemata) of Planner, A Language for Proving Theorems and Manipulating Models in a Robot](http://hdl.handle.net/1721.1/6916)** AI Memo No. 251, MIT Project MAC, April 1972.
+  - Gerry Sussman, Terry Winograd and Eugene Charniak. **[Micro-Planner Reference Manual (Update)](https://hdl.handle.net/1721.1/6184)** AI Memo 203A, MIT AI Lab, December 1971
+  - Carl Hewitt. **[Description and Theoretical Analysis (Using Schemata) of Planner, A Language for Proving Theorems and Manipulating Models in a Robot](https://hdl.handle.net/1721.1/6916)** AI Memo No. 251, MIT Project MAC, April 1972.
   - Bruce Anderson. **Documentation for LIB PICO-PLANNER** School of Artificial Intelligence, Edinburgh University. 1972
   - Bruce Baumgart. **Micro-Planner Alternate Reference Manual** Stanford AI Lab Operating Note No. 67, April 1972.
-  - Eugene Charniak. **[Toward a Model of Children's Story Comprehension](http://hdl.handle.net/1721.1/6892)** MIT AI TR-266. December 1972.
+  - Eugene Charniak. **[Toward a Model of Children's Story Comprehension](https://hdl.handle.net/1721.1/6892)** MIT AI TR-266. December 1972.
   - Julian Davies. **Popler 1.6 Reference Manual** University of Edinburgh, TPU Report No. 1, May 1973.
   - Jeff Rulifson, Jan Derksen, and Richard Waldinger. **QA4, A Procedural Calculus for Intuitive Reasoning** SRI AI Center Technical Note 73, November 1973.
   - Robert Kowalski **Predicate Logic as Programming Language** Memo 70, Department of Artificial Intelligence, Edinburgh University. 1973
   - Pat Hayes. **Computation and Deduction** Mathematical Foundations of Computer Science: Proceedings of Symposium and Summer School, Štrbské Pleso, High Tatras, Czechoslovakia, September 3-8, 1973.
   - Carl Hewitt, Peter Bishop and Richard Steiger. **A Universal Modular Actor Formalism for Artificial Intelligence** IJCAI 1973.
-  - Drew McDermott and Gerry Sussman. **[The Conniver Reference Manual](http://hdl.handle.net/1721.1/6204)** MIT AI Memo 259A. January 1974.
+  - Drew McDermott and Gerry Sussman. **[The Conniver Reference Manual](https://hdl.handle.net/1721.1/6204)** MIT AI Memo 259A. January 1974.
   - Earl Sacerdoti, et. al., **QLISP A Language for the Interactive Development of Complex Systems** AFIPS. 1976
-  - William Kornfeld and Carl Hewitt. **[The Scientific Community Metaphor](http://hdl.handle.net/1721.1/5693)** MIT AI Memo 641. January 1981.
+  - William Kornfeld and Carl Hewitt. **[The Scientific Community Metaphor](https://hdl.handle.net/1721.1/5693)** MIT AI Memo 641. January 1981.
   - Carl Hewitt. **The Challenge of Open Systems** Byte Magazine. April 1985
   - Robert Kowalski. **The limitation of logic** Proceedings of the 1986 ACM fourteenth annual conference on Computer science.
   - Robert Kowalski. **The Early Years of Logic Programming** CACM January 1988.

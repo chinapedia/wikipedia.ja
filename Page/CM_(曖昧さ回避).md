@@ -1,4 +1,4 @@
-> この記事は[CM \(\)](https://ja.wikipedia.org/wiki/CM_\(\))から翻訳されています。
+> この記事は[CM \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/CM_\(曖昧さ回避\))から翻訳されています。
 
 
 **CM**、**Cm**、**cm**

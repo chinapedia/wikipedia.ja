@@ -1,4 +1,4 @@
-> この記事は[XII ](https://ja.wikipedia.org/wiki/XII_)から翻訳されています。
+> この記事は[ファイナルファンタジーXII レヴァナント・ウイング](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII_レヴァナント・ウイング)から翻訳されています。
 
 
 『**ファイナルファンタジーXII レヴァナント・ウイング**』（ファイナルファンタジートゥエルブ レヴァナントウイング、FINAL FANTASY XII REVENANT WINGS、略称：**FFXIIRW**、**FF12RW**） は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内で[2007年](../Page/2007年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に発売された。[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。『[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")』の派生作品。
@@ -16,6 +16,10 @@
 本作はキャラクター・[召喚獣はドット絵やイラスト](../Page/ファイナルファンタジーシリーズの召喚獣.md "wikilink")、背景・マップ・[飛空艇](../Page/飛空艇.md "wikilink")などは3Dグラフィックで表現されている。
 
 開発は、GBAソフト「[モンスターサマナー](https://ja.wikipedia.org/wiki/モンスターサマナー "wikilink")」を出した[シンク・アンド・フィール](https://ja.wikipedia.org/wiki/シンク・アンド・フィール "wikilink")。
+
+### 商品展開
+
+2007年4月26日には、限定仕様のニンテンドーDS Liteを同梱した「ファイナルファンタジーXII レヴァナント・ウイング スカイパイレーツエディション」を発売。
 
 ## ゲームシステム
 

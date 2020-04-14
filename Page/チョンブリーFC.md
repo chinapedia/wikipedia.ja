@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チョンブリーFC](https://ja.wikipedia.org/wiki/チョンブリーFC)から翻訳されています。
 
 
 **チョンブリー・フットボール・クラブ**（, ）は、[タイ中部](../Page/タイ王国.md "wikilink")、[チョンブリー県](../Page/チョンブリー県.md "wikilink")の県都チョンブリーをホームタウンとする、タイプロサッカーリーグ（[タイ・リーグ1](https://ja.wikipedia.org/wiki/タイ・リーグ1 "wikilink")）に加盟するプロサッカークラブ。

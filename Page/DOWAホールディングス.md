@@ -1,4 +1,4 @@
-> この記事は[DOWA](https://ja.wikipedia.org/wiki/DOWA)から翻訳されています。
+> この記事は[DOWAホールディングス](https://ja.wikipedia.org/wiki/DOWAホールディングス)から翻訳されています。
 
 
 **DOWAホールディングス株式会社**（どうわホールディングス、[英社名](../Page/英語.md "wikilink")：*DOWA Holdings Co., Ltd.*）は、[非鉄金属](../Page/非鉄金属.md "wikilink")の[製錬](../Page/製錬.md "wikilink")、[加工](../Page/金属加工.md "wikilink")、[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")を主たる業務とする\[1\][DOWAグループの](https://ja.wikipedia.org/wiki/#DOWAグループ "wikilink")[持株会社](../Page/持株会社.md "wikilink")\[2\]。旧社名**同和鉱業**。かつては「**藤田組**（ふじたぐみ）」と呼ばれて[藤田財閥](../Page/藤田財閥.md "wikilink")の中核企業であった。なお、かつて同じく「藤田組」と称していた[準大手](https://ja.wikipedia.org/wiki/準大手 "wikilink")[ゼネコン](../Page/ゼネコン.md "wikilink")の[フジタ](../Page/フジタ.md "wikilink")とは資本関係はない。

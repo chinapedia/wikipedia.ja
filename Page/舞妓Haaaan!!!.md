@@ -1,4 +1,4 @@
-> この記事は[Haaaan!!!](https://ja.wikipedia.org/wiki/Haaaan!!!)から翻訳されています。
+> この記事は[舞妓Haaaan!!!](https://ja.wikipedia.org/wiki/舞妓Haaaan!!!)から翻訳されています。
 
 
 『**舞妓Haaaan\!\!\!**』（まいこはーん）は、[2007年](../Page/2007年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。興行収入20.8億円。

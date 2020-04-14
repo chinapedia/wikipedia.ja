@@ -1,4 +1,4 @@
-> この記事は[GREEN ](https://ja.wikipedia.org/wiki/GREEN_)から翻訳されています。
+> この記事は[GREEN 〜秋空のスクリーン〜](https://ja.wikipedia.org/wiki/GREEN_〜秋空のスクリーン〜)から翻訳されています。
 
 
 『**GREEN 〜秋空のスクリーン〜**』（グリーン あきぞらのスクリーン）は、[1999年](../Page/1999年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[ジェリーフィッシュより発売された](../Page/ジェリーフィッシュ_\(ゲームメーカー\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。略称は『GREEN』。

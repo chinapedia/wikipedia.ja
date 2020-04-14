@@ -1,4 +1,4 @@
-> この記事は[TBC](https://ja.wikipedia.org/wiki/TBC)から翻訳されています。
+> この記事は[TBCニュースウェーブ](https://ja.wikipedia.org/wiki/TBCニュースウェーブ)から翻訳されています。
 
 
 『**TBCニュースウェーブ**』（ティービーシーニュースウェーブ）は、[1996年](../Page/1996年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[東北放送](../Page/東北放送.md "wikilink")（TBCテレビ）で放送された平日夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

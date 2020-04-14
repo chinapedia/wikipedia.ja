@@ -1,4 +1,4 @@
-> この記事は[ \(D.C.\)](https://ja.wikipedia.org/wiki/_\(D.C.\))から翻訳されています。
+> この記事は[ジョージタウン \(ワシントンD.C.\)](https://ja.wikipedia.org/wiki/ジョージタウン_\(ワシントンD.C.\))から翻訳されています。
 
 
 [Bank_on_m_st_in_DC.JPG](https://ja.wikipedia.org/wiki/File:Bank_on_m_st_in_DC.JPG "fig:Bank_on_m_st_in_DC.JPG") **ジョージタウン**（英語:Georgetown）は、[ポトマック川](../Page/ポトマック川.md "wikilink")河岸沿いの、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")首都[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")北西部近郊の名称。ワシントンD.C.が設立する以前は独立した都市であった。

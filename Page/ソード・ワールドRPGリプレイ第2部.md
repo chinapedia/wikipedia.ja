@@ -1,4 +1,4 @@
-> この記事は[RPG2](https://ja.wikipedia.org/wiki/RPG2)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイ第2部](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイ第2部)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイ第2部**（ソード・ワールドアールピージーリプレイだいにぶ）は[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")に[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1992年](../Page/1992年.md "wikilink")まで連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")のリプレイ作品。リプレイ第2部とも略称される。[GMは](../Page/ゲームマスター.md "wikilink")[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[幡池裕行](https://ja.wikipedia.org/wiki/幡池裕行 "wikilink")。 [PCはライ](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink")、ベリナス、アラシャ、フィリアン、キドマン、リンの6人。うちキドマンとリンは劇中で死亡し、[NPCだったシアと新キャラのベルモットが代わりにパーティーに加入した](../Page/ノンプレイヤーキャラクター.md "wikilink")。

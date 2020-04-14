@@ -1,4 +1,4 @@
-> この記事は[Diamonds \(DEEN\)](https://ja.wikipedia.org/wiki/Diamonds_\(DEEN\))から翻訳されています。
+> この記事は[Diamonds \(DEENのアルバム\)](https://ja.wikipedia.org/wiki/Diamonds_\(DEENのアルバム\))から翻訳されています。
 
 
 **Diamonds**（ダイヤモンド）は[DEEN](../Page/DEEN.md "wikilink")の8作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。「DEEN's ROCK」が今作品のテーマ。

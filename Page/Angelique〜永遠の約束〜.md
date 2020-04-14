@@ -1,4 +1,4 @@
-> この記事は[Angelique](https://ja.wikipedia.org/wiki/Angelique)から翻訳されています。
+> この記事は[Angelique〜永遠の約束〜](https://ja.wikipedia.org/wiki/Angelique〜永遠の約束〜)から翻訳されています。
 
 
 「**Angelique〜永遠の約束〜**」（アンジェリーク えいえんのやくそく）は、[2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に発売された[レイジー](../Page/レイジー.md "wikilink")の[シングル](../Page/シングル.md "wikilink")。

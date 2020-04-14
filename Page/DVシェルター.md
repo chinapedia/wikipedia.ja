@@ -1,4 +1,4 @@
-> この記事は[DV](https://ja.wikipedia.org/wiki/DV)から翻訳されています。
+> この記事は[DVシェルター](https://ja.wikipedia.org/wiki/DVシェルター)から翻訳されています。
 
 
 **DVシェルター**とは、[ドメスティックバイオレンス](../Page/ドメスティックバイオレンス.md "wikilink")（DV）または[ジェンダーバイオレンス](https://ja.wikipedia.org/wiki/ジェンダーバイオレンス "wikilink")（GV）に遭った[被害者](../Page/被害者.md "wikilink")を、加害者である[配偶者](../Page/配偶者.md "wikilink")等から[隔離](../Page/隔離.md "wikilink")し、保護する[施設](../Page/シェルター.md "wikilink")。狭義には児童福祉法に定められた母子生活支援施設以外の女性向けの民間居住施設を指し、DV被害者以外にも経済的事情から[ホームレス化](https://ja.wikipedia.org/wiki/ホームレス化 "wikilink")した女性等も居住していることもある｡

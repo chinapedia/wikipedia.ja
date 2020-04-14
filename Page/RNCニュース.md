@@ -1,4 +1,4 @@
-> この記事は[RNC](https://ja.wikipedia.org/wiki/RNC)から翻訳されています。
+> この記事は[RNCニュース](https://ja.wikipedia.org/wiki/RNCニュース)から翻訳されています。
 
 
 『**RNCニュース**』（アールエヌシーニュース）は、[西日本放送](../Page/西日本放送.md "wikilink")（[テレビ](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")：[NNN系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・[ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")：[NRN](../Page/全国ラジオネットワーク.md "wikilink")/[JRNクロス](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")）で放送されているローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[DRIVE \(\)](https://ja.wikipedia.org/wiki/DRIVE_\(\))から翻訳されています。
+> この記事は[DRIVE \(映画\)](https://ja.wikipedia.org/wiki/DRIVE_\(映画\))から翻訳されています。
 
 
 『**DRIVE**』（ドライブ）は、[2002年に公開された](https://ja.wikipedia.org/wiki/2002年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[高岡市](https://ja.wikipedia.org/wiki/高岡市 "wikilink")で撮影が行われた。

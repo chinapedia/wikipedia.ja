@@ -1,4 +1,4 @@
-> この記事は[RPG3](https://ja.wikipedia.org/wiki/RPG3)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイ第3部](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイ第3部)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイ第3部**（ソード・ワールドアールピージーリプレイだいさんぶ）は、『[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")』[1992年](../Page/1992年.md "wikilink")11月号から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月号まで連載された、『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。単行本は全4巻14話。他に『リプレイ・アンソロジー』収録の1話。**リプレイ第3部**、バブリーズ編とも称される。新装版は**バブリーズ編**と正式に銘打たれた。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[清松みゆき](../Page/清松みゆき.md "wikilink")。イラストレーターは[中村博文](../Page/中村博文_\(イラストレーター\).md "wikilink")。

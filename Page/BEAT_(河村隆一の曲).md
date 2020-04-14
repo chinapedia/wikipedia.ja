@@ -1,4 +1,4 @@
-> この記事は[BEAT \(\)](https://ja.wikipedia.org/wiki/BEAT_\(\))から翻訳されています。
+> この記事は[BEAT \(河村隆一の曲\)](https://ja.wikipedia.org/wiki/BEAT_\(河村隆一の曲\))から翻訳されています。
 
 
 『**BEAT**』（ビート）は、[河村隆一](../Page/河村隆一.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RPG1](https://ja.wikipedia.org/wiki/RPG1)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイ第1部](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイ第1部)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイ第1部**（ソード・ワールドアールピージーリプレイだいいちぶ）は、『[月刊ドラゴンマガジン](../Page/ドラゴンマガジン_\(富士見書房\).md "wikilink")』[1988年](../Page/1988年.md "wikilink")11月号に初出し[1989年](../Page/1989年.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで連載された、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) 『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。全3巻9話。リプレイ第1部、**スチャラカ冒険隊編**とも称される。新装版は**スチャラカ編**と正式に銘打たれた。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[草彅琢仁](../Page/草なぎ琢仁.md "wikilink")。

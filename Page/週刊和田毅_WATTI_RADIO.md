@@ -1,4 +1,4 @@
-> この記事は[ WATTI RADIO](https://ja.wikipedia.org/wiki/_WATTI_RADIO)から翻訳されています。
+> この記事は[週刊和田毅 WATTI RADIO](https://ja.wikipedia.org/wiki/週刊和田毅_WATTI_RADIO)から翻訳されています。
 
 
 **週刊和田毅 WATTI RADIO**（しゅうかんわだつよし・ワッチレディオ）は、[福岡](../Page/福岡県.md "wikilink")・[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")が[2005年](../Page/2005年.md "wikilink")度よりナイターオフ期に編成しているコーナー番組。
@@ -26,4 +26,4 @@
 
   - [週刊　和田毅　WATTI RADIO｜KBC九州朝日放送](http://www.kbc.co.jp/radio/watti/index.shtml)
 
-[Category:九州朝日放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:九州朝日放送のラジオ番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/Category:福岡ソフトバンクホークス "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
+[Category:九州朝日放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:九州朝日放送のラジオ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/Category:福岡ソフトバンクホークス "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

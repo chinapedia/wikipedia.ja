@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ソード・ワールドRPGシアター](https://ja.wikipedia.org/wiki/ソード・ワールドRPGシアター)から翻訳されています。
 
 
 「**ソード・ワールドRPG 西部諸国シアター**」（ソードワールドアールピージー せいぶしょこくシアター）は、『[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")』に[1996年](../Page/1996年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")まで連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の読者参加企画。および小説全3巻の題名。シアターとも略される。

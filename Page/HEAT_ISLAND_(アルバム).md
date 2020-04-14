@@ -1,4 +1,4 @@
-> この記事は[HEAT ISLAND \(\)](https://ja.wikipedia.org/wiki/HEAT_ISLAND_\(\))から翻訳されています。
+> この記事は[HEAT ISLAND \(アルバム\)](https://ja.wikipedia.org/wiki/HEAT_ISLAND_\(アルバム\))から翻訳されています。
 
 
 『**HEAT ISLAND**』（ヒートアイランド）は、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売の[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")4枚目（[インディーズ](../Page/インディーズ.md "wikilink")を含めると7枚目）の[アルバム](../Page/アルバム.md "wikilink")である。

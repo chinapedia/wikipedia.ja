@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ホンダ・H型エンジン](https://ja.wikipedia.org/wiki/ホンダ・H型エンジン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Honda_h23a.JPG "wikilink") **H型エンジン**（Hがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[中型車種の](../Page/Dセグメント.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")。全機種が[DOHC](../Page/DOHC.md "wikilink")仕様である。

@@ -1,4 +1,4 @@
-> この記事は[GUILTY GEAR](https://ja.wikipedia.org/wiki/GUILTY_GEAR)から翻訳されています。
+> この記事は[GUILTY GEARの用語集](https://ja.wikipedia.org/wiki/GUILTY_GEARの用語集)から翻訳されています。
 
 
 **GUILTY GEARの用語集**は、『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』の用語を「作品用語」と「関連ゲーム用語」に分けて解説する。関連ゲーム用語は、格闘ゲームとしてリリースされたタイトルのみをピックアップしてあるので『[GUILTY GEAR 2 OVERTURE](../Page/GUILTY_GEAR_2_OVERTURE.md "wikilink")』など従来の作品と大きく異なる操作性を持つ作品は個別記事を参照のこと。

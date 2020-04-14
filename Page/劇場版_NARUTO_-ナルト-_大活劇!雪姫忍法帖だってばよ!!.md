@@ -1,4 +1,4 @@
-> この記事は[ NARUTO -- !!!](https://ja.wikipedia.org/wiki/_NARUTO_--_!!!)から翻訳されています。
+> この記事は[劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大活劇!雪姫忍法帖だってばよ!!)から翻訳されています。
 
 
 『**劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!**』（げきじょうばん ナルト だいかつげき\!ゆきひめにんぽうちょうだってばよ\!\!）は、[2004年](../Page/2004年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")1作目。同時上映は、『劇場版 NARUTO -ナルト- 木ノ葉の里の大うん動会』。本作のゲスト声優として[石塚英彦](../Page/石塚英彦.md "wikilink")と[美山加恋](../Page/美山加恋.md "wikilink")と[YUKIが出演した](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")開局40周年記念作品。

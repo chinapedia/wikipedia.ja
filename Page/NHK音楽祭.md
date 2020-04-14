@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK音楽祭](https://ja.wikipedia.org/wiki/NHK音楽祭)から翻訳されています。
 
 
 『**NHK音楽祭**』（エヌエイチケイおんがくさい）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）と[NHKプロモーション](https://ja.wikipedia.org/wiki/NHKプロモーション "wikilink")が企画制作する[音楽祭](../Page/音楽祭.md "wikilink")である。

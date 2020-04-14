@@ -1,4 +1,4 @@
-> この記事は[COM ](https://ja.wikipedia.org/wiki/COM_)から翻訳されています。
+> この記事は[攻めCOMダンジョン ドルルルアーガ](https://ja.wikipedia.org/wiki/攻めCOMダンジョン_ドルルルアーガ)から翻訳されています。
 
 
 『**攻めCOMダンジョン ドルルルアーガ**』（せめこみダンジョン ドルルルアーガ）は、[2000年](../Page/2000年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）から発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ゲームソフト。「[バビロニアン・キャッスル・サーガ](../Page/バビロニアン・キャッスル・サーガ.md "wikilink")」の一つで、『[ドルアーガの塔](../Page/ドルアーガの塔.md "wikilink")』の時代から百年後を舞台にした外伝作品である\[1\]。

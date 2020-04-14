@@ -1,4 +1,4 @@
-> この記事は[SEEK ](https://ja.wikipedia.org/wiki/SEEK_)から翻訳されています。
+> この記事は[SEEK 〜地下室の牝奴隷達〜](https://ja.wikipedia.org/wiki/SEEK_〜地下室の牝奴隷達〜)から翻訳されています。
 
 
 『**SEEK 〜地下室の牝奴隷達〜**』（シーク ちかしつのめすどれいたち）とは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")より[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")向けに発売された[18禁](../Page/アダルトゲーム.md "wikilink")[SM調教シミュレーションゲームである](../Page/SM_\(性風俗\).md "wikilink")。[1996年](../Page/1996年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")にはWindows版も発売されている。

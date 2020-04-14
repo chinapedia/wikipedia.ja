@@ -1,4 +1,4 @@
-> この記事は[BLOOD+](https://ja.wikipedia.org/wiki/BLOOD+)から翻訳されています。
+> この記事は[BLOOD+の登場人物](https://ja.wikipedia.org/wiki/BLOOD+の登場人物)から翻訳されています。
 
 
 **BLOOD+の登場人物**（ブラッドプラスのとうじょうじんぶつ）は、アニメ『[BLOOD+](../Page/BLOOD+.md "wikilink")』および関連作品の登場人物を解説する。

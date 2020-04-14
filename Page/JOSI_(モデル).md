@@ -1,4 +1,4 @@
-> この記事は[JOSI \(\)](https://ja.wikipedia.org/wiki/JOSI_\(\))から翻訳されています。
+> この記事は[JOSI \(モデル\)](https://ja.wikipedia.org/wiki/JOSI_\(モデル\))から翻訳されています。
 
 
 **JOSI**（ジョジィ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）は、神奈川県出身でブラジル育ちの女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。**ジョジィー**と表記されることもある。

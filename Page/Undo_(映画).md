@@ -1,4 +1,4 @@
-> この記事は[Undo \(\)](https://ja.wikipedia.org/wiki/Undo_\(\))から翻訳されています。
+> この記事は[Undo \(映画\)](https://ja.wikipedia.org/wiki/Undo_\(映画\))から翻訳されています。
 
 
 『**undo**』（アンドゥー）は、[1994年](../Page/1994年.md "wikilink")に公開された[岩井俊二](../Page/岩井俊二.md "wikilink")監督の[映画](../Page/映画.md "wikilink")作品である。

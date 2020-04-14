@@ -1,4 +1,4 @@
-> この記事は[Wrestling with ](https://ja.wikipedia.org/wiki/Wrestling_with_)から翻訳されています。
+> この記事は[Wrestling with もも子](https://ja.wikipedia.org/wiki/Wrestling_with_もも子)から翻訳されています。
 
 
 『**Wrestling with もも子**』（レスリング ウィズ ももこ）は[徳弘正也](../Page/徳弘正也.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[レスリング](https://ja.wikipedia.org/wiki/レスリング "wikilink")を題材としている。

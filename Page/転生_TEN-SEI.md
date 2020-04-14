@@ -1,4 +1,4 @@
-> この記事は[ TEN-SEI](https://ja.wikipedia.org/wiki/_TEN-SEI)から翻訳されています。
+> この記事は[転生 TEN-SEI](https://ja.wikipedia.org/wiki/転生_TEN-SEI)から翻訳されています。
 
 
 『**転生 TEN-SEI**』（てんせい）は、[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の33作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

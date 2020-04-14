@@ -1,4 +1,4 @@
-> この記事は[CIS](https://ja.wikipedia.org/wiki/CIS)から翻訳されています。
+> この記事は[サッカーCIS代表](https://ja.wikipedia.org/wiki/サッカーCIS代表)から翻訳されています。
 
 
 **サッカーCIS代表**（サッカーシーアイエスだいひょう、）は、[独立国家共同体](../Page/独立国家共同体.md "wikilink")（略称:**CIS**）におけるサッカーのナショナルチームである。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")崩壊後、[1992年](../Page/1992年.md "wikilink")に存在した。

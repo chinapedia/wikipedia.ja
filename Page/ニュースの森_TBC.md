@@ -1,4 +1,4 @@
-> この記事は[ TBC](https://ja.wikipedia.org/wiki/_TBC)から翻訳されています。
+> この記事は[ニュースの森 TBC](https://ja.wikipedia.org/wiki/ニュースの森_TBC)から翻訳されています。
 
 
 『**ニュースの森 TBC**』（ニュースのもり ティービーシー）は、[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[東北放送](../Page/東北放送.md "wikilink")（TBCテレビ）で月曜から金曜の夕方に放送された[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組で](../Page/報道番組.md "wikilink")、『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパートに相当する。正式タイトルは『**JNNニュースの森 TBC**』で、**[その番組枠の第](../Page/TBCニュースの森.md "wikilink")2期放送シリーズ群**に当たる。 　

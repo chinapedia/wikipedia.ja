@@ -1,4 +1,4 @@
-> この記事は[Shakespeare \(\)](https://ja.wikipedia.org/wiki/Shakespeare_\(\))から翻訳されています。
+> この記事は[Shakespeare \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Shakespeare_\(プログラミング言語\))から翻訳されています。
 
 
 **Shakespeare Programming Language** (**SPL**) は、ヨン・オースルンド (Jon Åslund) とカール・ハッセルストローム (Karl Hasselström) によって創られた[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。[Chef言語と同じように](https://ja.wikipedia.org/wiki/:en:Chef_\(programming_language\) "wikilink")、Shakespeare言語はあたかもプログラムではないもの（この場合は[シェイクスピアの演劇](../Page/ウィリアム・シェイクスピア.md "wikilink")）に見えるよう設計されている。

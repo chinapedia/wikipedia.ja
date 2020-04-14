@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[チャールズ・F・アダムズ級ミサイル駆逐艦](https://ja.wikipedia.org/wiki/チャールズ・F・アダムズ級ミサイル駆逐艦)から翻訳されています。
 
 
 <table>

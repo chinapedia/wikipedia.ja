@@ -1,7 +1,7 @@
 > この記事は[SKY \(fm osaka\)](https://ja.wikipedia.org/wiki/SKY_\(fm_osaka\))から翻訳されています。
 
 
-**SKY**（スカイ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』の[エフエム大阪](../Page/エフエム大阪.md "wikilink")ローカル枠。
+**SKY**（スカイ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNC共同制作のラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")『[SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")』の[エフエム大阪](../Page/エフエム大阪.md "wikilink")ローカル枠。
 
 ## 概要
 

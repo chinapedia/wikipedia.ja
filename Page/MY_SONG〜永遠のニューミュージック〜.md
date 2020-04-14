@@ -1,4 +1,4 @@
-> この記事は[MY SONG](https://ja.wikipedia.org/wiki/MY_SONG)から翻訳されています。
+> この記事は[MY SONG〜永遠のニューミュージック〜](https://ja.wikipedia.org/wiki/MY_SONG〜永遠のニューミュージック〜)から翻訳されています。
 
 
 『**MY SONG〜永遠のニューミュージック〜**』（マイ・ソング えいえんのニューミュージック）は、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")企画・制作・発売元と[東京テレビランド](../Page/東京テレビランド.md "wikilink")販売元で、[2006年](../Page/2006年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")リリースのオリジナル・[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。

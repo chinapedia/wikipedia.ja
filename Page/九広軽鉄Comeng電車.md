@@ -1,4 +1,4 @@
-> この記事は[Comeng](https://ja.wikipedia.org/wiki/Comeng)から翻訳されています。
+> この記事は[九広軽鉄Comeng電車](https://ja.wikipedia.org/wiki/九広軽鉄Comeng電車)から翻訳されています。
 
 
 **Comeng電車**（コメンジでんしゃ）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の[九広鉄路](../Page/九広鉄路.md "wikilink")（KCR）が保有する[直流](../Page/直流電化.md "wikilink")[電車](../Page/通勤形車両_\(鉄道\).md "wikilink")。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から、[香港鉄路](https://ja.wikipedia.org/wiki/香港鉄路有限公司 "wikilink")（[港鉄](../Page/香港MTR.md "wikilink") MTR）に貸し出す形をとっている。[オーストラリア](../Page/オーストラリア.md "wikilink")の[コメンジ](https://ja.wikipedia.org/wiki/コメンジ "wikilink")社製。

@@ -1,4 +1,4 @@
-> この記事は[ Re:](https://ja.wikipedia.org/wiki/_Re:)から翻訳されています。
+> この記事は[おしえて Re:メイド](https://ja.wikipedia.org/wiki/おしえて_Re:メイド)から翻訳されています。
 
 
 『**おしえて Re:メイド**』は、[2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ユニゾンシフト・アクセントより発売された](../Page/ソフパル.md "wikilink")[18禁ダメッコメイドさん再教育アドベンチャーである](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、同封されていた冊子「メイドのたしなみBook」をPDFファイルに変更した廉価版Memorial Editionが発売された。また、OVAは2007年[10月25日](../Page/10月25日.md "wikilink")に『おしえて Re:メイド（れっすん1）』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には『おしえて Re:メイド（れっすん2）』がそれぞれ発売された。

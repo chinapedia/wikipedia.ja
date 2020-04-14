@@ -1,4 +1,4 @@
-> この記事は[You!](https://ja.wikipedia.org/wiki/You!)から翻訳されています。
+> この記事は[Youドキッ!たいむ](https://ja.wikipedia.org/wiki/Youドキッ!たいむ)から翻訳されています。
 
 
 『**Youドキッ\!たいむ**』（ユードキッ\!たいむ） は、[富山テレビで](../Page/富山テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた[夕方ワイドである](../Page/夕方ワイド番組.md "wikilink")。最終金曜日は16時からの拡大放送となっていた。

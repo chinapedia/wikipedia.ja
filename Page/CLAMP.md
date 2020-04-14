@@ -94,7 +94,7 @@
   - [破軍星戦記](https://ja.wikipedia.org/wiki/破軍星戦記 "wikilink")（ふゅーじょんぷろだくと）（KID's連載 1989年-1990年 未完）
   - **[聖伝-RG VEDA-](../Page/聖伝-RG_VEDA-.md "wikilink")**（[新書館](../Page/新書館.md "wikilink") 1989年-1996年）
   - **[20面相におねがい\!\!](../Page/20面相におねがい!!.md "wikilink")**（[角川書店](../Page/角川書店.md "wikilink") 1989年-1991年）
-  - [CLUSTER](https://ja.wikipedia.org/wiki/CLUSTER "wikilink") （新紀元社 1991年-2002年） - 初版では作者名にCLAMPとも記されていたが、その後[秋山たまよ](https://ja.wikipedia.org/wiki/秋山たまよ "wikilink")のみの名義となる 。
+  - [CLUSTER](https://ja.wikipedia.org/wiki/CLUSTER_\(漫画\) "wikilink") （新紀元社 1991年-2002年） - 初版では作者名にCLAMPとも記されていたが、その後[秋山たまよ](https://ja.wikipedia.org/wiki/秋山たまよ "wikilink")のみの名義となる 。
   - **[COMBINATION](../Page/COMBINATION.md "wikilink")**（[光文社](../Page/光文社.md "wikilink") 1991年-1992年） - 後に[聖りいざ](https://ja.wikipedia.org/wiki/聖りいざ "wikilink")のみの名義となり続編も現在6巻まで刊行されている。
   - **[東京BABYLON](../Page/東京BABYLON.md "wikilink")**（新書館 1990年-1993年）
   - **[学園特警デュカリオン](../Page/学園特警デュカリオン.md "wikilink")**（角川書店 1991年-1993年）

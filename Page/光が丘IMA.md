@@ -1,4 +1,4 @@
-> この記事は[IMA](https://ja.wikipedia.org/wiki/IMA)から翻訳されています。
+> この記事は[光が丘IMA](https://ja.wikipedia.org/wiki/光が丘IMA)から翻訳されています。
 
 
 **光が丘IMA**（ひかりがおかイマ）は、[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")[光が丘にある区内最大規模の](../Page/光が丘_\(練馬区\).md "wikilink")[多機能複合型](../Page/複合商業施設.md "wikilink")[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。開設当初は**光が丘ライフステーションIMA**と呼ばれていた。近隣の住民は単に**IMA**と呼んでいる。

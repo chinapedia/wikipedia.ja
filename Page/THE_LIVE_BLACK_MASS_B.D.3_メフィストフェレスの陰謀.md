@@ -1,4 +1,4 @@
-> この記事は[THE LIVE BLACK MASS B.D.3 ](https://ja.wikipedia.org/wiki/THE_LIVE_BLACK_MASS_B.D.3_)から翻訳されています。
+> この記事は[THE LIVE BLACK MASS B.D.3 メフィストフェレスの陰謀](https://ja.wikipedia.org/wiki/THE_LIVE_BLACK_MASS_B.D.3_メフィストフェレスの陰謀)から翻訳されています。
 
 
 『**THE LIVE BLACK MASS B.D.3 メフィストフェレスの陰謀**』（ザ ライブ ブラック マス ビーディースリー メフィストフェレスのいんぼう）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十一教典で[D.C.](../Page/魔暦.md "wikilink")7年（西暦[2005年](../Page/2005年.md "wikilink")）[7月6日](../Page/7月6日.md "wikilink")に発布されたミサ教典（ライブ盤）。

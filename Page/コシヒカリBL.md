@@ -1,4 +1,4 @@
-> この記事は[BL](https://ja.wikipedia.org/wiki/BL)から翻訳されています。
+> この記事は[コシヒカリBL](https://ja.wikipedia.org/wiki/コシヒカリBL)から翻訳されています。
 
 
 **コシヒカリBL**（コシヒカリビーエル）とは、[いもち病](../Page/いもち病.md "wikilink")に抵抗性を持つように改良された、「[コシヒカリ](../Page/コシヒカリ.md "wikilink")」を親とする[品種](../Page/品種.md "wikilink")群のことで、科学的にも[種苗法](../Page/種苗法.md "wikilink")上でも\[1\]いずれも「コシヒカリ」とは異なる品種である。BLは「いもち病抵抗性系統」（、ブラスト・レジスタンス・ラインズ）の略であり、[連続戻し交配で](../Page/戻し交配.md "wikilink")[育種して](../Page/育種学.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を導入している（[遺伝子組み換え](https://ja.wikipedia.org/wiki/遺伝子組み換え "wikilink")ではない）。

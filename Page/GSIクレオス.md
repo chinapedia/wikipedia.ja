@@ -1,4 +1,4 @@
-> この記事は[GSI](https://ja.wikipedia.org/wiki/GSI)から翻訳されています。
+> この記事は[GSIクレオス](https://ja.wikipedia.org/wiki/GSIクレオス)から翻訳されています。
 
 
 **株式会社GSIクレオス**（ジーエスアイクレオス）は、繊維商材、工業製品、模型関連製品の販売や輸出入を行う商社である。

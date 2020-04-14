@@ -213,7 +213,7 @@
 
   - [IKUO Official Website](http://ikuo190.com/)
 
-  - [Ikuoオフィシャルブログ「IKUO Official Blog」](http://ameblo.jp/grooving-myself/)
+  - [Ikuoオフィシャルブログ「IKUO Official Blog」](https://ameblo.jp/grooving-myself/)
 
   - [Grooving Myself\! @ blog](http://blog.livedoor.jp/ikuo_190/)
 

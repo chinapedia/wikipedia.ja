@@ -1,4 +1,4 @@
-> この記事は[MAGIC \(DREAMS COME TRUE\)](https://ja.wikipedia.org/wiki/MAGIC_\(DREAMS_COME_TRUE\))から翻訳されています。
+> この記事は[MAGIC \(DREAMS COME TRUEのアルバム\)](https://ja.wikipedia.org/wiki/MAGIC_\(DREAMS_COME_TRUEのアルバム\))から翻訳されています。
 
 
 『**MAGIC**』（マジック）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")にEpic/Sony Records（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）よりリリースされた。
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-全作詞：吉田美和（\#1を除く）、全編曲：中村正人
+全作詩：吉田美和（\#1を除く）、全編曲：中村正人
 
 1.  **…AND THEN?**
       - 作曲：中村正人

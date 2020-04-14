@@ -1,4 +1,4 @@
-> この記事は[:Rainbow plasma ball.jpg](https://ja.wikipedia.org/wiki/:Rainbow_plasma_ball.jpg)から翻訳されています。
+> この記事は[ファイル:Rainbow plasma ball.jpg](https://ja.wikipedia.org/wiki/ファイル:Rainbow_plasma_ball.jpg)から翻訳されています。
 
 
 レインボー プラズマ ボール 実験装置

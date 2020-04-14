@@ -1,4 +1,4 @@
-> この記事は[IBM](https://ja.wikipedia.org/wiki/IBM)から翻訳されています。
+> この記事は[IBM漢字システム](https://ja.wikipedia.org/wiki/IBM漢字システム)から翻訳されています。
 
 
 **IBM漢字情報処理システム**（アイビーエムかんじじょうほうしょりシステム）は[IBM](../Page/IBM.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")で日本語を処理するためのシステム。初版は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")に発表され、その後中型機IBM [System/34](https://ja.wikipedia.org/wiki/System/34 "wikilink")や、[IBM 5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")、[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")などに拡張された。IBM漢字コードはIBMのメインフレームで使われる[漢字コード](https://ja.wikipedia.org/wiki/漢字コード "wikilink")で、後にIBM 5550、DOS/Vでも使用された。

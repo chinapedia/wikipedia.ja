@@ -1,4 +1,4 @@
-> この記事は[VM](https://ja.wikipedia.org/wiki/VM)から翻訳されています。
+> この記事は[V・M・ペトリャコーフ記念試作設計局](https://ja.wikipedia.org/wiki/V・M・ペトリャコーフ記念試作設計局)から翻訳されています。
 
 
 **V・M・ペトリャコーフ記念試作設計局**(**ペトリャコフ**、**ピェトリャコーフ**；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>オープィトナイェ・カンストルークタルスコイェ・ビュロー・イーミェニ・ヴラジーミラ・ミハーイラヴィチャ・ピトリコーヴァ</small>、****<small>オーカーベー・ピトリコーヴァ</small>)は、[ソ連時代に存在した](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")メーカーのひとつである。**ペトリャコフ設計局**などと略称される。

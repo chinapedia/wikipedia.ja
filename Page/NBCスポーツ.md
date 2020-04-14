@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCスポーツ](https://ja.wikipedia.org/wiki/NBCスポーツ)から翻訳されています。
 
 
 [NBC_Sports_logo_2012.png](https://ja.wikipedia.org/wiki/File:NBC_Sports_logo_2012.png "fig:NBC_Sports_logo_2012.png") **NBCスポーツ** (NBC Sports) は、[National Broadcasting Company](../Page/NBC.md "wikilink") (NBC) の[スポーツ中継](../Page/スポーツ中継.md "wikilink")製作部門。

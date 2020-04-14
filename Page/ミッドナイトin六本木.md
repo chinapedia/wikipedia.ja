@@ -1,4 +1,4 @@
-> この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
+> この記事は[ミッドナイトin六本木](https://ja.wikipedia.org/wiki/ミッドナイトin六本木)から翻訳されています。
 
 
 『**ミッドナイトin六本木**』（ミッドナイト・インろっぽんぎ）は、[テレビ朝日系列で](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[1984年](../Page/1984年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで毎週土曜深夜（日曜午前 0:10 - 2:10）に[生放送](../Page/生放送.md "wikilink")\[1\]されていた、[深夜の](../Page/深夜番組.md "wikilink")[お色気番組](../Page/お色気番組.md "wikilink")である。

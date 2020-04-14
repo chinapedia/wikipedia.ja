@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCバスティア](https://ja.wikipedia.org/wiki/SCバスティア)から翻訳されています。
 
 
 **スポルタン・クルブ・ドゥ・バスティア**（**Sporting Club Bastiais** ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[コルシカ島](../Page/コルシカ島.md "wikilink")・[バスティア](../Page/バスティア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

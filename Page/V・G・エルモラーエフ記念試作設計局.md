@@ -1,4 +1,4 @@
-> この記事は[VG](https://ja.wikipedia.org/wiki/VG)から翻訳されています。
+> この記事は[V・G・エルモラーエフ記念試作設計局](https://ja.wikipedia.org/wiki/V・G・エルモラーエフ記念試作設計局)から翻訳されています。
 
 
 **V・G・エルモラーエフ記念試作設計局**(**イェルモラーイェフ**；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>イルマラーイェフ</small>、****<small>オープィトナイェ・カンストルークタルスコイェ・ビュロー・イルマラーイェヴァ</small>、****<small>オーカーベー・イルマラーイェヴァ</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")メーカーのひとつ。代表者は[ヴラジーミル・グリゴーリエヴィチ・エルモラーエフ](https://ja.wikipedia.org/wiki/ヴラジーミル・エルモラーエフ "wikilink")(イェルモラーイェフ；)。

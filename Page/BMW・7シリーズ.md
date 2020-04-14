@@ -1,4 +1,4 @@
-> この記事は[BMW7](https://ja.wikipedia.org/wiki/BMW7)から翻訳されています。
+> この記事は[BMW・7シリーズ](https://ja.wikipedia.org/wiki/BMW・7シリーズ)から翻訳されています。
 
 
 **7シリーズ**（[英語](../Page/英語.md "wikilink")名: **7 Series**、[ドイツ語](../Page/ドイツ語.md "wikilink")名: **7er**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[BMW](../Page/BMW.md "wikilink")が製造・販売している大型[高級](../Page/高級車.md "wikilink")[セダン](../Page/セダン.md "wikilink")である。
@@ -52,7 +52,7 @@
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:BMW_E32_740iL.JPG "wikilink") [200px](https://ja.wikipedia.org/wiki/ファイル:BMW_E32_735i.JPG "wikilink")
 
-2代目7シリーズ。更に洗練されスマートになったボディが特徴。[空気抵抗係数（Cd値）は](../Page/抗力.md "wikilink")0.32を達成。また、従来モデルで達成できなかった[V型12気筒](../Page/V型12気筒.md "wikilink")エンジンを遂に完成させる。750i/iLは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[ドイツ車](../Page/ドイツ車.md "wikilink")で初のV12エンジン搭載車である。
+2代目7シリーズ。更に洗練されスマートになったボディが特徴。[空気抵抗係数（Cd値）は](../Page/抗力.md "wikilink")0.32を達成。また、従来モデルで達成できなかった[V型12気筒](../Page/V型12気筒.md "wikilink")エンジンを遂に完成させ、W126に脅威を与える。750i/iLは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[ドイツ車](../Page/ドイツ車.md "wikilink")で初のV12エンジン搭載車である。750iLによりW140の開発がずれ込むことになる
 変速機は、4速もしくは5速ATに加え、5速MTも存在したが、日本にはAT車のみが正規輸入された。
 
 <table>

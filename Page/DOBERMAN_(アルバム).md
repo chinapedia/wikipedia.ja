@@ -1,4 +1,4 @@
-> この記事は[DOBERMAN \(\)](https://ja.wikipedia.org/wiki/DOBERMAN_\(\))から翻訳されています。
+> この記事は[DOBERMAN \(アルバム\)](https://ja.wikipedia.org/wiki/DOBERMAN_\(アルバム\))から翻訳されています。
 
 
 『**DOBERMAN**』（ドーベルマン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")の9枚目のアルバムである。

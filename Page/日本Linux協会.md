@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[日本Linux協会](https://ja.wikipedia.org/wiki/日本Linux協会)から翻訳されています。
 
 
 **日本Linux協会**（にほんリ**ヌ**ックスきょうかい\[1\]、Japan Linux Association、JLA）は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に設立された日本の[一般社団法人](https://ja.wikipedia.org/wiki/一般社団法人 "wikilink")\[2\]。2010年[6月30日](../Page/6月30日.md "wikilink")に解散した同名の[任意団体の残余財産と会員を引き継いで設立された](../Page/権利能力なき社団.md "wikilink")\[3\]。

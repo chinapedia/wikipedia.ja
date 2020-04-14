@@ -7,8 +7,6 @@
 
 ## 種類
 
-## 種類
-
 ### ibisBrowser
 
 [2005年](../Page/2005年.md "wikilink")6月に[β版](https://ja.wikipedia.org/wiki/β版 "wikilink")がリリースされた。通常版で、無料で利用できた。画面の中央にマウスポインタが現れ、スクロールする際は、表示領域全体が移動する。対応機種は、FOMA90Xi、70Xiシリーズ。ibisBrowserLTのリリースに伴い、[2006年](../Page/2006年.md "wikilink")8月上旬に提供が終了している。

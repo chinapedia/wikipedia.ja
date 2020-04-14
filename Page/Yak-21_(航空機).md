@@ -1,4 +1,4 @@
-> この記事は[Yak-21 \(\)](https://ja.wikipedia.org/wiki/Yak-21_\(\))から翻訳されています。
+> この記事は[Yak-21 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-21_\(航空機\))から翻訳されています。
 
 
 **Yak-21**(Jak-21；ヤク21；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ドヴァーッツァチ・アヂーン</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[教育訓練機](../Page/練習機.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRヤッターマン](https://ja.wikipedia.org/wiki/CRヤッターマン)から翻訳されています。
 
 
 **CRヤッターマン**は、[平和が](../Page/平和_\(パチンコ\).md "wikilink")2001年および2009年に開発・発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

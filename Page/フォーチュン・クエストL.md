@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[フォーチュン・クエストL](https://ja.wikipedia.org/wiki/フォーチュン・クエストL)から翻訳されています。
 
 
 『**フォーチュン・クエストL**』（フォーチュン・クエスト エル\[1\]） は、[深沢美潮](../Page/深沢美潮.md "wikilink")の小説『[フォーチュン・クエスト](../Page/フォーチュン・クエスト.md "wikilink")』シリーズを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
@@ -142,7 +142,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <td><p>2</p></td>
 <td><p>盗まれたトラップ?</p></td>
 <td><p><a href="../Page/松井亜弥.md" title="wikilink">松井亜弥</a></p></td>
-<td><p>渡辺純央</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渡辺純央" title="wikilink">渡辺純央</a></p></td>
 <td><p>松下純子</p></td>
 <td><p>10月25日</p></td>
 <td></td>
@@ -179,7 +179,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 <td><p>キットンとの再会</p></td>
 <td><p>影山由美</p></td>
 <td><p>小林一三</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td><p>小田仁</p></td>
 <td><p>11月29日</p></td>
 </tr>

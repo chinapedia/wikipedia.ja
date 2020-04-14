@@ -1,4 +1,4 @@
-> この記事は[Project BLUE SOS](https://ja.wikipedia.org/wiki/Project_BLUE_SOS)から翻訳されています。
+> この記事は[Project BLUE 地球SOS](https://ja.wikipedia.org/wiki/Project_BLUE_地球SOS)から翻訳されています。
 
 
 『**Project BLUE 地球SOS**』（プロジェクトブルー ちきゅうエスオーエス）は、[AT-Xにて](../Page/アニメシアターX.md "wikilink")[2006年](../Page/2006年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")より同年[12月2日](../Page/12月2日.md "wikilink")まで月1回放送していた[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")。全6話。

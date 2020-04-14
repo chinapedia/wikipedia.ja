@@ -153,6 +153,6 @@ ROCK WAVE（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink"
   -
   - [morinagalika.com](http://morinagalika.com/)
 
-  - [le;ka モノクロニクス ダイアリー](http://ameblo.jp/leka-m/)
+  - [le;ka モノクロニクス ダイアリー](https://ameblo.jp/leka-m/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

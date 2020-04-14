@@ -1,4 +1,4 @@
-> この記事は[Yak-23 \(\)](https://ja.wikipedia.org/wiki/Yak-23_\(\))から翻訳されています。
+> この記事は[Yak-23 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-23_\(航空機\))から翻訳されています。
 
 
 [Jak23_yak23.jpg](https://ja.wikipedia.org/wiki/File:Jak23_yak23.jpg "fig:Jak23_yak23.jpg") **Yak-23**(Jak-23；ヤク23；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ドヴァーッツァチ・トリー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された多用途](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 28**。

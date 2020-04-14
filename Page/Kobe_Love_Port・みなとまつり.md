@@ -1,4 +1,4 @@
-> この記事は[Kobe Love Port](https://ja.wikipedia.org/wiki/Kobe_Love_Port)から翻訳されています。
+> この記事は[Kobe Love Port・みなとまつり](https://ja.wikipedia.org/wiki/Kobe_Love_Port・みなとまつり)から翻訳されています。
 
 
 **Kobe Love Port・みなとまつり**（こうべらぶぽーと・みなとまつり）は、2002年7月より毎年[海の日](../Page/海の日.md "wikilink")（7月20日前後）に[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区の](../Page/中央区_\(神戸市\).md "wikilink")[メリケンパーク](../Page/メリケンパーク.md "wikilink")にて開催される[イベント](../Page/イベント.md "wikilink")。

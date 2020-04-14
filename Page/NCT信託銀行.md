@@ -1,4 +1,4 @@
-> この記事は[NCT](https://ja.wikipedia.org/wiki/NCT)から翻訳されています。
+> この記事は[NCT信託銀行](https://ja.wikipedia.org/wiki/NCT信託銀行)から翻訳されています。
 
 
 **NCT信託銀行株式会社**（エヌシーティーしんたくぎんこう、*NCT Trust and Banking Corporation*）は、かつて存在した[東京都](../Page/東京都.md "wikilink")に本店を置く[信託銀行](../Page/信託銀行.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[EH](https://ja.wikipedia.org/wiki/EH)から翻訳されています。
+> この記事は[黒部峡谷鉄道EH形電気機関車](https://ja.wikipedia.org/wiki/黒部峡谷鉄道EH形電気機関車)から翻訳されています。
 
 
 **黒部峡谷鉄道EH形電気機関車**（くろべきょうこくてつどうEHがたでんききかんしゃ）は、[黒部峡谷鉄道](../Page/黒部峡谷鉄道.md "wikilink")が[1974年](../Page/1974年.md "wikilink")に導入した[直流用](../Page/直流電化.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。その後の改造により現在は**EHR形電気機関車**となっている。

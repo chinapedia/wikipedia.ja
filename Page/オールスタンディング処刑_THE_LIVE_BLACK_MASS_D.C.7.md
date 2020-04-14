@@ -1,4 +1,4 @@
-> この記事は[ THE LIVE BLACK MASS D.C.7](https://ja.wikipedia.org/wiki/_THE_LIVE_BLACK_MASS_D.C.7)から翻訳されています。
+> この記事は[オールスタンディング処刑 THE LIVE BLACK MASS D.C.7](https://ja.wikipedia.org/wiki/オールスタンディング処刑_THE_LIVE_BLACK_MASS_D.C.7)から翻訳されています。
 
 
 『**オールスタンディング処刑 THE LIVE BLACK MASS D.C.7**』（オールスタンディングしょけい ザ ライブ ブラック マス ディーシーセブン）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十二教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](../Page/2006年.md "wikilink")）[3月29日](../Page/3月29日.md "wikilink")に発布されたミサ教典（ライブ盤）。 英語表記では、*ALL STANDING EXECUTION THE LIVE BLACK MASS D.C.7*。

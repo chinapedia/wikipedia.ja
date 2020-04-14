@@ -1,4 +1,4 @@
-> この記事は[ \(DEEN\)](https://ja.wikipedia.org/wiki/_\(DEEN\))から翻訳されています。
+> この記事は[君さえいれば \(DEENの曲\)](https://ja.wikipedia.org/wiki/君さえいれば_\(DEENの曲\))から翻訳されています。
 
 
 『**君さえいれば**』は、[DEEN](../Page/DEEN.md "wikilink")の15thシングル。

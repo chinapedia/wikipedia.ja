@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTネオメイト](https://ja.wikipedia.org/wiki/NTTネオメイト)から翻訳されています。
 
 
 **株式会社エヌ・ティ・ティネオメイト**（NTTネオメイト）は、西日本電信電話の通信設備のメンテナンス、オペレーション、[ITに関する企画](../Page/情報技術.md "wikilink")・開発・販売等を事業とする会社である。

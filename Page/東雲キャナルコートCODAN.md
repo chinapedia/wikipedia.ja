@@ -1,4 +1,4 @@
-> この記事は[CODAN](https://ja.wikipedia.org/wiki/CODAN)から翻訳されています。
+> この記事は[東雲キャナルコートCODAN](https://ja.wikipedia.org/wiki/東雲キャナルコートCODAN)から翻訳されています。
 
 
 **東雲キャナルコートCODAN**（しののめキャナルコートCODAN）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")の[東雲キャナルコート](../Page/東雲キャナルコート.md "wikilink")中央ゾーンにある[都市再生機構](../Page/都市再生機構.md "wikilink")（UR）が整備した賃貸型[集合住宅](../Page/集合住宅.md "wikilink")（1,712戸）の総称である。[2004年](../Page/2004年.md "wikilink")照明普及賞・優秀施設賞、[2005年](../Page/2005年.md "wikilink")度[グッドデザイン金賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")、[2006年](../Page/2006年.md "wikilink")第47回[BCS賞](../Page/BCS賞.md "wikilink")（建築業協会賞）、[2013年](../Page/2013年.md "wikilink")都市住宅学会賞・業績賞を受賞。

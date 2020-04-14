@@ -1,4 +1,4 @@
-> この記事は[EI](https://ja.wikipedia.org/wiki/EI)から翻訳されています。
+> この記事は[EI法](https://ja.wikipedia.org/wiki/EI法)から翻訳されています。
 
 
 **EI法**（EIほう）とは、[質量分析法](../Page/質量分析法.md "wikilink")において、[フラグメントイオン](https://ja.wikipedia.org/wiki/フラグメントイオン "wikilink")を発生させる方法の一つ。とは、（電子衝撃）または（電子イオン化）の略とされ、[フィラメント](../Page/フィラメント.md "wikilink")から発生する[熱電子](https://ja.wikipedia.org/wiki/熱電子 "wikilink")を試料に照射してフラグメントイオンを発生させる方法である。他の[イオン化法](https://ja.wikipedia.org/wiki/イオン化法 "wikilink")と比べて[原理](https://ja.wikipedia.org/wiki/原理 "wikilink")や[装置](https://ja.wikipedia.org/wiki/装置 "wikilink")が単純であることから、広い範囲に適用されている。

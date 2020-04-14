@@ -1,4 +1,4 @@
-> この記事は[LOVE GOES ON](https://ja.wikipedia.org/wiki/LOVE_GOES_ON)から翻訳されています。
+> この記事は[LOVE GOES ON…](https://ja.wikipedia.org/wiki/LOVE_GOES_ON…)から翻訳されています。
 
 
 『**LOVE GOES ON…**』（ラヴ・ゴーズ・オン…）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")であり、本作9曲目に収録されている楽曲名でもある。
@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-全曲 作詞：吉田美和、編曲：中村正人
+全曲 作詩：吉田美和、編曲：中村正人
 
 1.  **[うれしい\!たのしい\!大好き\!](../Page/うれしはずかし朝帰り.md "wikilink") ('EVERLASTING'VERSION)**
       - 作曲：吉田美和
@@ -44,7 +44,7 @@
 7.  **星空が映る海**
       - 作曲：吉田美和
 8.  **[サンタと天使が笑う夜](https://ja.wikipedia.org/wiki/LAT.43°N〜forty-three_degrees_north_latitude〜 "wikilink")**
-      - 作曲：吉田美和・中村正人
+      - 作曲：中村正人・吉田美和
     <!-- end list -->
       -
         4thシングル「LAT.43°N〜forty-three degrees north latitude〜」のカップリング曲。

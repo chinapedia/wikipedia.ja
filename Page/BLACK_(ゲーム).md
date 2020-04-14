@@ -1,4 +1,4 @@
-> この記事は[BLACK \(\)](https://ja.wikipedia.org/wiki/BLACK_\(\))から翻訳されています。
+> この記事は[BLACK \(ゲーム\)](https://ja.wikipedia.org/wiki/BLACK_\(ゲーム\))から翻訳されています。
 
 
 『**BLACK**』（**ブラック**）は、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")より発売されている一人称視点シューティング（[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")）ゲーム。 海外ではXboxでも発売されている。

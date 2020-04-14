@@ -1,4 +1,4 @@
-> この記事は[XI  ](https://ja.wikipedia.org/wiki/XI__)から翻訳されています。
+> この記事は[ファイナルファンタジーXI アトルガンの秘宝 オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI_アトルガンの秘宝_オリジナル・サウンドトラック)から翻訳されています。
 
 
 **ファイナルファンタジーXI アトルガンの秘宝 オリジナル・サウンドトラック**（ファイナルファンタジーイレブン アトルガンのひほう オリジナル・サウンドトラック、Final Fantasy XI: Treasures of Aht Urhgan Original Soundtrack）は、[MMORPG](../Page/MMORPG.md "wikilink")、[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")の拡張版「ファイナルファンタジーXI アトルガンの秘宝」の[サウンドトラック](../Page/サウンドトラック.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")よりリリースされた。

@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAペニャロール](https://ja.wikipedia.org/wiki/CAペニャロール)から翻訳されています。
 
 
 **CAペニャロール**（、, **）は、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")の首都[モンテビデオ](../Page/モンテビデオ.md "wikilink")のペニャロール地区を本拠地とするスポーツクラブである。特に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブが有名である。ウルグアイ最大のスタジアムである[エスタディオ・センテナリオ](../Page/エスタディオ・センテナリオ.md "wikilink")をホームスタジアムとしているが、[エスタディオ・コンタドール・ダミアーニ](https://ja.wikipedia.org/wiki/エスタディオ・コンタドール・ダミアーニ "wikilink")も所有している。

@@ -1,4 +1,4 @@
-> この記事は[CMCM](https://ja.wikipedia.org/wiki/CMCM)から翻訳されています。
+> この記事は[CMのCMキャンペーン](https://ja.wikipedia.org/wiki/CMのCMキャンペーン)から翻訳されています。
 
 
 **CMのCMキャンペーン**（シーエムのシーエムキャンペーン）とは、[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")（民放連）が[2005年](../Page/2005年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から実施している[民間放送](../Page/民間放送.md "wikilink")[テレビ局](https://ja.wikipedia.org/wiki/テレビ局 "wikilink")の[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")である。民放連が2005年度から毎年[8月28日](../Page/8月28日.md "wikilink")を「**テレビCMの日**」と定めた一環として、これに合わせる形で始めた。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")8月28日に[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で初の民放テレビ局として開局、同日に日本初のテレビCMを放送したことにちなむ。

@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAテクノロジーズ](https://ja.wikipedia.org/wiki/CAテクノロジーズ)から翻訳されています。
 
 
 
@@ -105,6 +105,6 @@ CAはソフトウェア業界と市場の変革に対応するため、様々な
   - [CA セキュリティナビ](http://www.ca-security.jp/)
   - [CA セキュリティブログ](http://blog.ca-security.jp/)
 
-[Category:アメリカ合衆国のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のソフトウェア会社 "wikilink") [Category:ニューヨーク市の企業](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の企業 "wikilink") [Category:1976年設立の企業](https://ja.wikipedia.org/wiki/Category:1976年設立の企業 "wikilink")
+[Category:ソリューション企業](https://ja.wikipedia.org/wiki/Category:ソリューション企業 "wikilink") [Category:アメリカ合衆国のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のソフトウェア会社 "wikilink") [Category:ニューヨーク市の企業](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の企業 "wikilink") [Category:1976年設立の企業](https://ja.wikipedia.org/wiki/Category:1976年設立の企業 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[三國志V](https://ja.wikipedia.org/wiki/三國志V)から翻訳されています。
 
 
 『**三國志V**』（さんごくし・ファイブ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第5作である。音楽は[服部隆之](../Page/服部隆之.md "wikilink")が担当\[1\]。

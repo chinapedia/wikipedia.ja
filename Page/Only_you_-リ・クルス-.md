@@ -1,4 +1,4 @@
-> この記事は[Only you --](https://ja.wikipedia.org/wiki/Only_you_--)から翻訳されています。
+> この記事は[Only you -リ・クルス-](https://ja.wikipedia.org/wiki/Only_you_-リ・クルス-)から翻訳されています。
 
 
 『**Only you -リ・クルス-**』（オンリーユー リ クルス）は[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

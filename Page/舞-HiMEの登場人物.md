@@ -1,4 +1,4 @@
-> この記事は[-HiME](https://ja.wikipedia.org/wiki/-HiME)から翻訳されています。
+> この記事は[舞-HiMEの登場人物](https://ja.wikipedia.org/wiki/舞-HiMEの登場人物)から翻訳されています。
 
 
 **舞-HiMEの登場人物**（まいひめのとうじょうじんぶつ）は、サンライズが中心となって展開している、テレビアニメ、漫画、ラジオなどからなるメディアミックス作品『[舞-HiME](../Page/舞-HiME.md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の人物について解説する。

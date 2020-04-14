@@ -1,4 +1,4 @@
-> この記事は[Xbox360](https://ja.wikipedia.org/wiki/Xbox360)から翻訳されています。
+> この記事は[ファミ通Xbox360](https://ja.wikipedia.org/wiki/ファミ通Xbox360)から翻訳されています。
 
 
 『**ファミ通Xbox360**』（ファミつうエックスボックスさんろくまる）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発行されていた[Xbox及び](../Page/Xbox_\(ゲーム機\).md "wikilink")[Xbox 360専門](../Page/Xbox_360.md "wikilink")[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")（唯一の専門誌でもあった）。

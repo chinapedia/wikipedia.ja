@@ -1,4 +1,4 @@
-> この記事は[DELICIOUS \(DREAMS COME TRUE\)](https://ja.wikipedia.org/wiki/DELICIOUS_\(DREAMS_COME_TRUE\))から翻訳されています。
+> この記事は[DELICIOUS \(DREAMS COME TRUEのアルバム\)](https://ja.wikipedia.org/wiki/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\))から翻訳されています。
 
 
 『**DELICIOUS**』（デリシャス）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")7枚目の[アルバム](../Page/アルバム.md "wikilink")である。
@@ -20,42 +20,42 @@
       - 作曲・編曲：中村正人
       - 前作『[MAGIC](../Page/MAGIC_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』収録の「a little waltz」および、ブックレットのクレジット下部のspecial thanksにあるコメントがモチーフになっている\[1\]。
 2.  **いつもいつでも 〜[WHEREVER YOU ARE](../Page/WHEREVER_YOU_ARE.md "wikilink") "DELICIOUS" VERSION〜**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 15thシングル「[WHEREVER YOU ARE](../Page/WHEREVER_YOU_ARE.md "wikilink")」の日本語バージョン。
 3.  **[きづいてよ](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 16thシングル。
       - シングルバージョンよりもイントロが長い。
 4.  **TORIDGE＆LISBAH**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
 5.  **i think you do**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
 6.  **[す　き](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink") 〜ALBUM VERSION〜**
-      - 作詞・作曲：吉田美和、編曲：中村正人
+      - 作詩・作曲：吉田美和、編曲：中村正人
       - 16thシングル。
       - 新たにストリングスの音が収録されている。
 7.  **The signs of LOVE 〜ETERNITY "DELICIOUS" VERSION+〜**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 17thシングル「[サンキュ.](../Page/サンキュ..md "wikilink")」のカップリング。
       - シングルバージョンよりもアウトロが長い。
       - 人気曲であるが、ライブではあまり披露されていない。
 8.  **沈没船のモンキーガール**
-      - 作詞・作曲・編曲：吉田美和
+      - 作詩・作曲・編曲：吉田美和
       - 「モンキーガール」シリーズの第1作。以降続編となる楽曲が続々と制作されている。
       - 吉田美和が初めて編曲を手がけている。
 9.  **たかが恋や愛**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
 10. **琥珀の月**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - [オカリナ](../Page/オカリナ.md "wikilink")は吉田美和による演奏。
 11. **IT'S SO DELICIOUS**
-      - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
+      - 作詩：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
 12. **[サンキュ.](../Page/サンキュ..md "wikilink")**
-      - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
+      - 作詩：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
       - 17thシングル。
       - シングルバージョンよりもイントロが長い。
 13. **おやすみのうた**
-      - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
+      - 作詩：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
 
 ## 脚注
 

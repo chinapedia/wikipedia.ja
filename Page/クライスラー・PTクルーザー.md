@@ -1,4 +1,4 @@
-> この記事は[PT](https://ja.wikipedia.org/wiki/PT)から翻訳されています。
+> この記事は[クライスラー・PTクルーザー](https://ja.wikipedia.org/wiki/クライスラー・PTクルーザー)から翻訳されています。
 
 
 **PTクルーザー**(PT Cruiser)\[1\]は[アメリカの自動車メーカーである](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")社が製造・販売していた[ハッチバック](../Page/ハッチバック.md "wikilink")型の自動車である。

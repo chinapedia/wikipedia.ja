@@ -1,4 +1,4 @@
-> この記事は[ THE MIRACLE OF THE ZONE](https://ja.wikipedia.org/wiki/_THE_MIRACLE_OF_THE_ZONE)から翻訳されています。
+> この記事は[大貝獣物語 THE MIRACLE OF THE ZONE](https://ja.wikipedia.org/wiki/大貝獣物語_THE_MIRACLE_OF_THE_ZONE)から翻訳されています。
 
 
 『**大貝獣物語 THE MIRACLE OF THE ZONE**』（だいかいじゅうものがたり ザ・ミラクル オブ ザ・ゾーン、略称、**MOZ**）は、[天田印刷加工](../Page/天田印刷加工.md "wikilink")から発売されていた[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")。販売元は[フューチャー・ビー](https://ja.wikipedia.org/wiki/未来蜂歌留多商会 "wikilink")。[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）&[ハドソン](../Page/ハドソン.md "wikilink")から発売されていた[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")、『[貝獣物語](../Page/貝獣物語.md "wikilink")』から『[大貝獣物語](../Page/大貝獣物語.md "wikilink")』の流れを汲んだカードゲームである。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")頃から発売されていた。

@@ -1,4 +1,4 @@
-> この記事は[KSK \(\)](https://ja.wikipedia.org/wiki/KSK_\(\))から翻訳されています。
+> この記事は[KSK \(ドイツ陸軍\)](https://ja.wikipedia.org/wiki/KSK_\(ドイツ陸軍\))から翻訳されています。
 
 
 [KSK_1_retouched.jpg](https://ja.wikipedia.org/wiki/File:KSK_1_retouched.jpg "fig:KSK_1_retouched.jpg") **KSK**（[ドイツ語](../Page/ドイツ語.md "wikilink")：**Kommando Spezialkräfte**）とは、[ドイツ連邦陸軍](https://ja.wikipedia.org/wiki/ドイツ連邦陸軍 "wikilink")[特殊作戦師団隷下の](https://ja.wikipedia.org/wiki/特殊作戦師団_\(ドイツ連邦陸軍\) "wikilink")[旅団](../Page/旅団.md "wikilink")級[特殊部隊](../Page/特殊部隊.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")に編成される。日本語では**特殊戦団**と訳される場合もある。

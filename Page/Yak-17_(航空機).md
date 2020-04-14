@@ -1,4 +1,4 @@
-> この記事は[Yak-17 \(\)](https://ja.wikipedia.org/wiki/Yak-17_\(\))から翻訳されています。
+> この記事は[Yak-17 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-17_\(航空機\))から翻訳されています。
 
 
 [Yakovlev_Yak-17.jpg](https://ja.wikipedia.org/wiki/File:Yakovlev_Yak-17.jpg "fig:Yakovlev_Yak-17.jpg") [Jak-17UTI.JPG](https://ja.wikipedia.org/wiki/File:Jak-17UTI.JPG "fig:Jak-17UTI.JPG") **Yak-17**(Jak-17；ヤク17；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・スィムナーッツァチ</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された多用途](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[DoDが割り当てたコードネームはYak](../Page/アメリカ国防総省.md "wikilink")-17が**Type 16**、Yak-17UTIが**Type 26**。

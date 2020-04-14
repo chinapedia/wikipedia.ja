@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!インターネット検定](https://ja.wikipedia.org/wiki/Yahoo!インターネット検定)から翻訳されています。
 
 
 **Yahoo\!インターネット検定**（ヤフー！インターネットけんてい）は、[インターネット](../Page/インターネット.md "wikilink")上で[受験](https://ja.wikipedia.org/wiki/受験 "wikilink")や受講できる、[Yahoo\! JAPAN公認の有料](../Page/Yahoo!_JAPAN.md "wikilink")（一部[無料](../Page/無料.md "wikilink")）の[検定](https://ja.wikipedia.org/wiki/検定 "wikilink")[試験](https://ja.wikipedia.org/wiki/試験 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Boost C++](https://ja.wikipedia.org/wiki/Boost_C++)から翻訳されています。
+> この記事は[Boost C++ライブラリ](https://ja.wikipedia.org/wiki/Boost_C++ライブラリ)から翻訳されています。
 
 
 **Boost** （**ブースト**）とは、[C++](../Page/C++.md "wikilink")の先駆的な開発者のコミュニティ、およびそのコミュニティによって公開されている[オープンソース](../Page/オープンソース.md "wikilink")のソフトウェア[ライブラリ](../Page/ライブラリ.md "wikilink")のことを指す。コミュニティとしてのBoostはC++標準化委員会の委員により設立されており、現在でもその多くが構成員として留まっている。このような経緯もあり、BoostコミュニティはC++の標準化において大きな影響力を有している。実際に標準化委員会が発表した「[TR1](../Page/C++_Technical_Report_1.md "wikilink")」の2/3以上がBoostライブラリを基にしている。Random, Regex, Threadなどはいずれも[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格の標準ライブラリとして正式に導入・標準化されている。このことから、Boostは考案された新機能を標準化させる前の試験運用の場であるとも言える。

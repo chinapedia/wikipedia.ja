@@ -1,4 +1,4 @@
-> この記事は[AAAA](https://ja.wikipedia.org/wiki/AAAA)から翻訳されています。
+> この記事は[AAAのA〜お話](https://ja.wikipedia.org/wiki/AAAのA〜お話)から翻訳されています。
 
 
 **AAAのA〜お話**（トリプルエーのえーおはなし）は、[AAAのメンバーが](../Page/AAA_\(音楽グループ\).md "wikilink")[DJを務めていた](../Page/ディスクジョッキー.md "wikilink")[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

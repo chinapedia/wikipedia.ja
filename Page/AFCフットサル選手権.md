@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFCフットサル選手権](https://ja.wikipedia.org/wiki/AFCフットサル選手権)から翻訳されています。
 
 
 **AFCフットサル選手権**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink") (AFC) が主催する、[アジア](../Page/アジア.md "wikilink")地域のナショナルチームによる[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")大会である。[1999年](../Page/1999年.md "wikilink")に第1回大会が[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")で行われて以来、毎年行われていたが、2008年より隔年の開催となっている。[FIFAフットサルワールドカップ](../Page/FIFAフットサルワールドカップ.md "wikilink")と同年の大会は、フットサルワールドカップのアジア予選を兼ねる。

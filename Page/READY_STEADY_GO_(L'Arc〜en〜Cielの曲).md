@@ -1,4 +1,4 @@
-> この記事は[READY STEADY GO \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/READY_STEADY_GO_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[READY STEADY GO \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/READY_STEADY_GO_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**READY STEADY GO**」（レディ・ステディ・ゴー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の22作目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Link \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/Link_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[Link \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/Link_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**Link**」（リンク）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の28作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

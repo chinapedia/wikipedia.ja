@@ -1,4 +1,4 @@
-> この記事は[MUSASHI -GUN-](https://ja.wikipedia.org/wiki/MUSASHI_-GUN-)から翻訳されています。
+> この記事は[MUSASHI -GUN道-](https://ja.wikipedia.org/wiki/MUSASHI_-GUN道-)から翻訳されています。
 
 
 『**MUSASHI -GUN道-**』（ムサシ ガンどう）は、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")原作の時代劇ガンアクション[アニメ](../Page/アニメ.md "wikilink")作品。[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[10月29日](../Page/10月29日.md "wikilink")（本編は[10月8日](../Page/10月8日.md "wikilink")）まで[BS-iで毎週](../Page/BS-TBS.md "wikilink")[日曜日](../Page/日曜日.md "wikilink")9時30分 - 10時00分に放送された。全26話。また、BS-iではその他に総集編が4回分放送された。
@@ -206,7 +206,7 @@
   - [1500年代](https://ja.wikipedia.org/wiki/1500年代 "wikilink")初期 [レオナルド・ダ・ヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")死亡
   - [1573年](../Page/1573年.md "wikilink") [武田信玄](../Page/武田信玄.md "wikilink")死亡
   - [1582年](../Page/1582年.md "wikilink") [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")が[本能寺の変](../Page/本能寺の変.md "wikilink")を起こす。光秀と[織田信長](../Page/織田信長.md "wikilink")死亡。
-  - [1597年](../Page/1597年.md "wikilink") - [慶長の役](https://ja.wikipedia.org/wiki/慶長の役 "wikilink")で豊臣軍が勝利。朝鮮出兵に反対していた徳川家康はこの頃から力を失っていく。
+  - [1597年](../Page/1597年.md "wikilink") - [慶長の役で豊臣軍が勝利](https://ja.wikipedia.org/wiki/文禄・慶長の役#慶長の役 "wikilink")。朝鮮出兵に反対していた徳川家康はこの頃から力を失っていく。
   - [1600年](../Page/1600年.md "wikilink")7月 石田三成挙兵。アヤカシが千年の眠りから目覚める。
   - 1600年9月 関ヶ原の戦いが起こる。小早川秀秋の活躍により西軍が勝利。
   - 豊臣秀頼が征夷大将軍になる。

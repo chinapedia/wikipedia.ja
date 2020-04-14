@@ -1,4 +1,4 @@
-> この記事は[DanceDrill](https://ja.wikipedia.org/wiki/DanceDrill)から翻訳されています。
+> この記事は[ダンドリ。〜Dance☆Drill〜](https://ja.wikipedia.org/wiki/ダンドリ。〜Dance☆Drill〜)から翻訳されています。
 
 
 『**ダンドリ。〜Dance☆Drill〜**』は、[2006年](../Page/2006年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")から[9月19日](../Page/9月19日.md "wikilink")まで毎週火曜日の21:00 - 21:54（初回は15分拡大）に、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜21時枠](../Page/フジテレビ火曜9時枠の連続ドラマ.md "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")のドラマ初主演作品。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TuS](https://ja.wikipedia.org/wiki/TuS)から翻訳されています。
+> この記事は[TuSコブレンツ](https://ja.wikipedia.org/wiki/TuSコブレンツ)から翻訳されています。
 
 
 **TuSコブレンツ**（**Turn- und Spielvereinigung Koblenz 1911 e.V.**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ラインラント＝プファルツ州](../Page/ラインラント＝プファルツ州.md "wikilink")の[コブレンツ](https://ja.wikipedia.org/wiki/コブレンツ "wikilink")を本拠地とするサッカークラブ。

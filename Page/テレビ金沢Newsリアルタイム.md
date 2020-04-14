@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[テレビ金沢Newsリアルタイム](https://ja.wikipedia.org/wiki/テレビ金沢Newsリアルタイム)から翻訳されています。
 
 
 『**テレビ金沢Newsリアルタイム**』（テレビかなざわニュースリアルタイム）は、[テレビ金沢](../Page/テレビ金沢.md "wikilink")で[土曜日](../Page/土曜日.md "wikilink")に放送されていた[ニュース番組](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[Tカード](https://ja.wikipedia.org/wiki/Tカード)から翻訳されています。
 
 
 **Tカード**（ティーカード）は、[東京都交通局](../Page/東京都交通局.md "wikilink")が発行していた[乗車カード](../Page/乗車カード.md "wikilink")である。

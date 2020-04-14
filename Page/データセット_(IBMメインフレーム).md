@@ -1,4 +1,4 @@
-> この記事は[ \(IBM\)](https://ja.wikipedia.org/wiki/_\(IBM\))から翻訳されています。
+> この記事は[データセット \(IBMメインフレーム\)](https://ja.wikipedia.org/wiki/データセット_\(IBMメインフレーム\))から翻訳されています。
 
 
 **データセット** (data set, dataset) という言葉は、[IBM](../Page/IBM.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")で扱う[ファイルについて言及するときに使われる言葉である](../Page/ファイル_\(コンピュータ\).md "wikilink")。

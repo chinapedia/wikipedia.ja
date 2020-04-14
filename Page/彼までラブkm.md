@@ -1,4 +1,4 @@
-> この記事は[km](https://ja.wikipedia.org/wiki/km)から翻訳されています。
+> この記事は[彼までラブkm](https://ja.wikipedia.org/wiki/彼までラブkm)から翻訳されています。
 
 
 『**彼まで♥km**』（かれまでラブキロメートル）は、[原田妙子](../Page/原田妙子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）2000年7号から2003年9号まで連載された。

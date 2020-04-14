@@ -1,4 +1,4 @@
-> この記事は[System4 \(\)](https://ja.wikipedia.org/wiki/System4_\(\))から翻訳されています。
+> この記事は[System4 \(アリスソフト\)](https://ja.wikipedia.org/wiki/System4_\(アリスソフト\))から翻訳されています。
 
 
 **System4** は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")を手がける[アリスソフト](../Page/アリスソフト.md "wikilink")が製作した、[Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")であり、アリスソフトが販売するゲームに使用されている。随時バージョンアップが行われていることから System4.xという表現がとられる場合もある。開発環境であるSystem4[SDKと共にウェブ上で配布されており](../Page/ソフトウェア開発キット.md "wikilink")（現在は公開を中止）、System4という単語が開発環境を指している場合もある。

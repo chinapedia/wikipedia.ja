@@ -1,4 +1,4 @@
-> この記事は[Wonderland \(\)](https://ja.wikipedia.org/wiki/Wonderland_\(\))から翻訳されています。
+> この記事は[Wonderland \(稲葉浩志の曲\)](https://ja.wikipedia.org/wiki/Wonderland_\(稲葉浩志の曲\))から翻訳されています。
 
 
 「**Wonderland**」（ワンダーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")にリリースした、3作目の[シングル](../Page/シングル.md "wikilink")。
@@ -29,7 +29,7 @@
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")（\#2）、[スカイセンサー](../Page/スカイセンサー_\(ラジオ\).md "wikilink")（\#2）、[ブルースハープ](../Page/ハーモニカ.md "wikilink")（\#3）、[アコースティックギター](../Page/アコースティック・ギター.md "wikilink")（\#3）
   - [大賀好修](../Page/大賀好修.md "wikilink")：編曲（\#1）、[スライドギター](../Page/スライドギター.md "wikilink")（\#1）、アコースティックギター（\#1）
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")：編曲（\#2.3）
-  - [グレッグ・アップチャーチ](../Page/パドル・オブ・マッド.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1）
+  - [グレッグ・アプチャーチ](../Page/パドル・オブ・マッド.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1）
   - [山木秀夫](../Page/山木秀夫.md "wikilink")：ドラム（\#2）
   - ケニー・アロノフ：ドラム（\#3）
   - [徳永暁人](../Page/徳永暁人.md "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1.2）

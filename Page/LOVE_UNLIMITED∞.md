@@ -1,4 +1,4 @@
-> この記事は[LOVE UNLIMITED](https://ja.wikipedia.org/wiki/LOVE_UNLIMITED)から翻訳されています。
+> この記事は[LOVE UNLIMITED∞](https://ja.wikipedia.org/wiki/LOVE_UNLIMITED∞)から翻訳されています。
 
 
 『**LOVE UNLIMITED∞**』（ラヴ・アンリミテッド）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")8枚目の[アルバム](../Page/アルバム.md "wikilink")である。
@@ -22,41 +22,41 @@
 ## 収録曲
 
 1.  **LOVE UNLIMITED**
-      - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
+      - 作詩：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
       - 前アルバム収録曲「[サンキュ.](../Page/サンキュ..md "wikilink")」のコーラス部分が引き継がれている。
 2.  **SWEET REVENGE**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - ミュージックビデオが作られた（「[そうだよ](https://ja.wikipedia.org/wiki/そうだよ "wikilink")」のCD-EXTRA、「DO YOU REMEMBER 20 YEARS WITH DREAMS COME TRUE?」に収録）。
 3.  **誓い**
-      - 作詞・作曲：吉田美和、編曲：中村正人
+      - 作詩・作曲：吉田美和、編曲：中村正人
 4.  **[ROMANCE](https://ja.wikipedia.org/wiki/ROMANCE/家へ帰ろ "wikilink")～∞ VERSION**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 19thシングル。
       - 曲のアウトロに前アルバム収録曲「WHEATHER FORECAST」のコーラスが使用されている。
 5.  **[嵐が来る](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る "wikilink")～ALBUM VERSION**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 18thシングル。
       - シングルバージョンよりもイントロが長い。
 6.  **思い出は胸に秘めたまま**
-      - 作詞：吉田美和、作曲：中村正人・西川隆宏、編曲：中村正人
+      - 作詩：吉田美和、作曲：西川隆宏・中村正人、編曲：中村正人
 7.  **モンキーガール 豪華客船の旅**
-      - 作詞・作曲：吉田美和、編曲：中村正人
+      - 作詩・作曲：吉田美和、編曲：中村正人
       - 「[沈没船のモンキーガール](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")」の続編であり、「モンキーガール」シリーズ第2作。ミュージックビデオが作られた（「[そうだよ](https://ja.wikipedia.org/wiki/そうだよ "wikilink")」のCD-EXTRA、「DO YOU REMEMBER 20 YEARS WITH DREAMS COME TRUE?」に収録）。
 8.  **[家へ帰ろ](https://ja.wikipedia.org/wiki/ROMANCE/家へ帰ろ "wikilink")**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 19thシングル。
 9.  **7月7日、晴れ**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 映画『7月7日、晴れ』主題歌。
       - ミュージックビデオが作られたが、商品化はされていない。
 10. **どうやって忘れよう?**
-      - 作詞：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
+      - 作詩：吉田美和、作曲：吉田美和・中村正人、編曲：中村正人
 11. **[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る "wikilink")**
-      - 作詞：吉田美和、作曲・編曲：中村正人
+      - 作詩：吉田美和、作曲・編曲：中村正人
       - 18thシングル。
       - シングルバージョンよりもイントロが長い。
 12. **しあわせなからだ**
-      - 作詞・作曲：吉田美和、編曲：中村正人
+      - 作詩・作曲：吉田美和、編曲：中村正人
       - 2016年7月7日に発売された裏ベストアルバム『[DREAMS COME TRUE THE ウラBEST\! 私だけのドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_ウラBEST!_私だけのドリカム "wikilink")』には、ボーカルを再録し直したバージョンが収録される。
 
 ## EXTRA TRACK

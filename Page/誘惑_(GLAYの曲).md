@@ -1,4 +1,4 @@
-> この記事は[ \(GLAY\)](https://ja.wikipedia.org/wiki/_\(GLAY\))から翻訳されています。
+> この記事は[誘惑 \(GLAYの曲\)](https://ja.wikipedia.org/wiki/誘惑_\(GLAYの曲\))から翻訳されています。
 
 
 「**誘惑**」（ゆうわく）は、[GLAY](../Page/GLAY.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")である。

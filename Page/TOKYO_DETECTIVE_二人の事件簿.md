@@ -1,4 +1,4 @@
-> この記事は[TOKYO DETECTIVE ](https://ja.wikipedia.org/wiki/TOKYO_DETECTIVE_)から翻訳されています。
+> この記事は[TOKYO DETECTIVE 二人の事件簿](https://ja.wikipedia.org/wiki/TOKYO_DETECTIVE_二人の事件簿)から翻訳されています。
 
 
 『**TOKYO DETECTIVE 二人の事件簿**』（トーキョー ディテクティヴ ふたりのじけんぼ）は、ドラマの題名。全35話。

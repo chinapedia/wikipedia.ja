@@ -1,4 +1,4 @@
-> この記事は[System3 \(\)](https://ja.wikipedia.org/wiki/System3_\(\))から翻訳されています。
+> この記事は[System3 \(アリスソフト\)](https://ja.wikipedia.org/wiki/System3_\(アリスソフト\))から翻訳されています。
 
 
 **System3**は[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")を手がける[アリスソフト](../Page/アリスソフト.md "wikilink")が製作した[ゲームエンジン](../Page/ゲームエンジン.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[GG](https://ja.wikipedia.org/wiki/GG)から翻訳されています。
+> この記事は[GGアリン](https://ja.wikipedia.org/wiki/GGアリン)から翻訳されています。
 
 
 **GG アリン**（**GG Allin**、[1956年](../Page/1956年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")歌手。音楽情報サイトの権威である[オールミュージック](../Page/オールミュージック.md "wikilink")は、彼をして「ロック史上もっとも見事な変質者」と評している\[1\]。

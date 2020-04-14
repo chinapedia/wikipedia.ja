@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE イナズマ戦隊](https://ja.wikipedia.org/wiki/THE_イナズマ戦隊)から翻訳されています。
 
 
 **THE イナズマ戦隊**（ザ・イナズマせんたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックンロール](../Page/ロックンロール.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。

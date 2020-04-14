@@ -1,4 +1,4 @@
-> この記事は[KI \(\)](https://ja.wikipedia.org/wiki/KI_\(\))から翻訳されています。
+> この記事は[KI \(稲葉浩志のシングル\)](https://ja.wikipedia.org/wiki/KI_\(稲葉浩志のシングル\))から翻訳されています。
 
 
 「**KI**」（ケイアイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")にリリースした、2作目の[シングル](../Page/シングル.md "wikilink")。

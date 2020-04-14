@@ -1,4 +1,4 @@
-> この記事は[RAS](https://ja.wikipedia.org/wiki/RAS)から翻訳されています。
+> この記事は[RAS症候群](https://ja.wikipedia.org/wiki/RAS症候群)から翻訳されています。
 
 
 **RAS症候群**（）とは、[頭字語](../Page/頭字語.md "wikilink")などの[略語](../Page/略語.md "wikilink")や熟語を使うときに、元の言葉の一部である単語を重ねて使ってしまうことを指す。[症候群](../Page/症候群.md "wikilink")と付くが、何らかの[病気](../Page/病気.md "wikilink")を表す言葉ではない。

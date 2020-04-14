@@ -1,4 +1,4 @@
-> この記事は[Mi-6 \(\)](https://ja.wikipedia.org/wiki/Mi-6_\(\))から翻訳されています。
+> この記事は[Mi-6 \(航空機\)](https://ja.wikipedia.org/wiki/Mi-6_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機

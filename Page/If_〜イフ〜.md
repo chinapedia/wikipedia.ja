@@ -1,4 +1,4 @@
-> この記事は[If ](https://ja.wikipedia.org/wiki/If_)から翻訳されています。
+> この記事は[If 〜イフ〜](https://ja.wikipedia.org/wiki/If_〜イフ〜)から翻訳されています。
 
 
 『**if 〜イフ〜**』は[1993年](../Page/1993年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に[Active](https://ja.wikipedia.org/wiki/Active "wikilink")より発売されたオムニバス形式の[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。

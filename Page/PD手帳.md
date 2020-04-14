@@ -1,4 +1,4 @@
-> この記事は[PD](https://ja.wikipedia.org/wiki/PD)から翻訳されています。
+> この記事は[PD手帳](https://ja.wikipedia.org/wiki/PD手帳)から翻訳されています。
 
 
 **PD手帳**（ピーディーてちょう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から放送が開始された[文化放送](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink") (MBC) の[調査報道](../Page/調査報道.md "wikilink")番組。“PD”は*ProDucer*で「プロデューサー」のこと（日本でも使われる省略形）。2007年11月3日からそれまでの録画放送が生放送になったが、2008年8月から再び録画放送になった。過去に視聴者からの抗議や政府からの中止要請で放送が中断されたり、休止することもあった。

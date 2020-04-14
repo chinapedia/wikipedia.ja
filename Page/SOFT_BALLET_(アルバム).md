@@ -1,4 +1,4 @@
-> この記事は[SOFT BALLET \(\)](https://ja.wikipedia.org/wiki/SOFT_BALLET_\(\))から翻訳されています。
+> この記事は[SOFT BALLET \(アルバム\)](https://ja.wikipedia.org/wiki/SOFT_BALLET_\(アルバム\))から翻訳されています。
 
 
 『**SOFT BALLET**』は、[SOFT BALLETのベストアルバム](../Page/SOFT_BALLET.md "wikilink")。

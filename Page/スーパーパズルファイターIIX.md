@@ -1,4 +1,4 @@
-> この記事は[IIX](https://ja.wikipedia.org/wiki/IIX)から翻訳されています。
+> この記事は[スーパーパズルファイターIIX](https://ja.wikipedia.org/wiki/スーパーパズルファイターIIX)から翻訳されています。
 
 
 『**スーパーパズルファイターIIX**』（スーパーパズルファイターツーエックス、*Super Puzzle Fighter II X*）は、[カプコン](../Page/カプコン.md "wikilink")の対戦型[落ち物パズル](../Page/落ち物パズル.md "wikilink")ゲーム。[1996年](../Page/1996年.md "wikilink")に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として登場した。公式の略称は「**スパズル**」だが、「スパズルX」や「パズルファイター（パズファイ）」などとも呼ばれる。

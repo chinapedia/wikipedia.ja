@@ -1,4 +1,4 @@
-> この記事は[ Beautiful Energy](https://ja.wikipedia.org/wiki/_Beautiful_Energy)から翻訳されています。
+> この記事は[女子十二楽坊 〜Beautiful Energy〜](https://ja.wikipedia.org/wiki/女子十二楽坊_〜Beautiful_Energy〜)から翻訳されています。
 
 
 『**女子十二楽坊 〜Beautiful Energy〜**』（じょしじゅうにがくぼう ビューティフル・エナジー）は、[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[プラティア・エンタテインメント](https://ja.wikipedia.org/wiki/プラティア・エンタテインメント "wikilink")（当時は[キングレコード](../Page/キングレコード.md "wikilink")が配給していた。現在は[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")に発売元が移行している）よりリリースされた[女子十二楽坊](../Page/女子十二楽坊.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")デビューアルバム。

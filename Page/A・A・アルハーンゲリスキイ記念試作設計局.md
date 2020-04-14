@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[A・A・アルハーンゲリスキイ記念試作設計局](https://ja.wikipedia.org/wiki/A・A・アルハーンゲリスキイ記念試作設計局)から翻訳されています。
 
 
 **A・A・アルハーンゲリスキイ記念試作設計局**(アルハンゲリスキー；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>アルハーンギェリスキイ</small>、****<small>オープィトナヤ・カンストルークタルスカヤ・ビュロー・イーミェニ・アリクサーンドラ・アリクサーンドラヴィチャ・アルハーンゲリスカヴァ</small>；略称:****)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")試作[設計局](../Page/設計局.md "wikilink")である。ソ連軍主力[爆撃機](../Page/爆撃機.md "wikilink")となった[SBを開発した実績をもつ](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink")[アレクサンドル・アレクサンドロヴィチ・アルハーンゲリスキイ](https://ja.wikipedia.org/wiki/アレクサンドル・アルハーンゲリスキイ "wikilink")()が開設した。

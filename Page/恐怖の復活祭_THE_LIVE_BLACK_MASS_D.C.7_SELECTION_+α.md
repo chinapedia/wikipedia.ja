@@ -1,4 +1,4 @@
-> この記事は[ THE LIVE BLACK MASS D.C.7 SELECTION +](https://ja.wikipedia.org/wiki/_THE_LIVE_BLACK_MASS_D.C.7_SELECTION_+)から翻訳されています。
+> この記事は[恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α](https://ja.wikipedia.org/wiki/恐怖の復活祭_THE_LIVE_BLACK_MASS_D.C.7_SELECTION_+α)から翻訳されています。
 
 
 『**恐怖の復活祭 THE LIVE BLACK MASS D.C.7 SELECTION +α**』（きょうふのふっかつさい ザ ライブ ブラック マス ディーシーセブン セレクション プラスアルファ）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十三教典で[D.C.](../Page/魔暦.md "wikilink")8年（西暦[2006年](../Page/2006年.md "wikilink")）[5月24日](../Page/5月24日.md "wikilink")に発布されたミサ教典（ライブ盤）。

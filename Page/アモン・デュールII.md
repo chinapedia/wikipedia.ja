@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[アモン・デュールII](https://ja.wikipedia.org/wiki/アモン・デュールII)から翻訳されています。
 
 
 **アモン・デュールII**（アモン・デュール・ツー、**Amon Düül II**）は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結成された[西ドイツ](../Page/西ドイツ.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[クラウトロック](https://ja.wikipedia.org/wiki/クラウトロック "wikilink")の代表的なバンドとして有名である。

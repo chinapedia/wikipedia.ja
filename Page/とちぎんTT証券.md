@@ -1,4 +1,4 @@
-> この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
+> この記事は[とちぎんTT証券](https://ja.wikipedia.org/wiki/とちぎんTT証券)から翻訳されています。
 
 
 **とちぎんTT証券株式会社**（とちぎんてぃてぃしょうけん、）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")に本店を置く日本の[証券会社](../Page/証券会社.md "wikilink")。[栃木銀行](../Page/栃木銀行.md "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")。

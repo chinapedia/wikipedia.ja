@@ -1,4 +1,4 @@
-> この記事は[CH-53E \(\)](https://ja.wikipedia.org/wiki/CH-53E_\(\))から翻訳されています。
+> この記事は[CH-53E \(航空機\)](https://ja.wikipedia.org/wiki/CH-53E_\(航空機\))から翻訳されています。
 
 
 **CH-53E**は、[シコルスキー・エアクラフト](../Page/シコルスキー・エアクラフト.md "wikilink")・ディビジョン社が[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")の要望によって開発した、[重輸送を目的とした](https://ja.wikipedia.org/wiki/輸送 "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")。愛称はスーパースタリオン（Super Stallion）、スタリオンは[種牡馬](../Page/種牡馬.md "wikilink")の意。社内呼称はS-80E。

@@ -1,4 +1,4 @@
-> この記事は[PL](https://ja.wikipedia.org/wiki/PL)から翻訳されています。
+> この記事は[PL学園女子短期大学](https://ja.wikipedia.org/wiki/PL学園女子短期大学)から翻訳されています。
 
 
 学生募集は[2000年](../Page/2000年.md "wikilink")度まで\[1\]\[2\]、[2009年](../Page/2009年.md "wikilink")10月30日廃校\[3\]。現在は[PL学園中学校・高等学校](../Page/PL学園中学校・高等学校.md "wikilink")の校舎の一部に転用されている。
@@ -166,7 +166,7 @@
 
   - [PL学園・沿革](http://www.pl-gakuen.ac.jp/history.html)
 
-[Category:日本の私立短期大学_(廃校)](https://ja.wikipedia.org/wiki/Category:日本の私立短期大学_\(廃校\) "wikilink") [Category:日本の女子短期大学_(廃校)](https://ja.wikipedia.org/wiki/Category:日本の女子短期大学_\(廃校\) "wikilink") [Category:PL学園](https://ja.wikipedia.org/wiki/Category:PL学園 "wikilink") [Category:大阪府の大学](https://ja.wikipedia.org/wiki/Category:大阪府の大学 "wikilink") [Category:日本の新宗教系短期大学](https://ja.wikipedia.org/wiki/Category:日本の新宗教系短期大学 "wikilink") [Category:過去の指定保育士養成施設_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去の指定保育士養成施設_\(短期大学\) "wikilink") [Category:過去にあった日本の幼稚園教員養成機関_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去にあった日本の幼稚園教員養成機関_\(短期大学\) "wikilink") [Category:過去にあった日本の小学校教員養成機関_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去にあった日本の小学校教員養成機関_\(短期大学\) "wikilink") [Category:富田林市の歴史](https://ja.wikipedia.org/wiki/Category:富田林市の歴史 "wikilink") [Category:1974年設立の教育機関](https://ja.wikipedia.org/wiki/Category:1974年設立の教育機関 "wikilink") [Category:2009年廃止の教育機関](https://ja.wikipedia.org/wiki/Category:2009年廃止の教育機関 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")
+[Category:日本の私立短期大学_(廃校)](https://ja.wikipedia.org/wiki/Category:日本の私立短期大学_\(廃校\) "wikilink") [Category:日本の女子短期大学_(廃校)](https://ja.wikipedia.org/wiki/Category:日本の女子短期大学_\(廃校\) "wikilink") [Category:PL学園](https://ja.wikipedia.org/wiki/Category:PL学園 "wikilink") [Category:現存しない大阪府の大学](https://ja.wikipedia.org/wiki/Category:現存しない大阪府の大学 "wikilink") [Category:日本の新宗教系短期大学](https://ja.wikipedia.org/wiki/Category:日本の新宗教系短期大学 "wikilink") [Category:過去の指定保育士養成施設_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去の指定保育士養成施設_\(短期大学\) "wikilink") [Category:過去にあった日本の幼稚園教員養成機関_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去にあった日本の幼稚園教員養成機関_\(短期大学\) "wikilink") [Category:過去にあった日本の小学校教員養成機関_(短期大学)](https://ja.wikipedia.org/wiki/Category:過去にあった日本の小学校教員養成機関_\(短期大学\) "wikilink") [Category:富田林市の歴史](https://ja.wikipedia.org/wiki/Category:富田林市の歴史 "wikilink") [Category:1974年設立の教育機関](https://ja.wikipedia.org/wiki/Category:1974年設立の教育機関 "wikilink") [Category:2009年廃止の教育機関](https://ja.wikipedia.org/wiki/Category:2009年廃止の教育機関 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")
 
 1.  [平成23年度](../Page/2011年.md "wikilink")『[全国短期大学高等専門学校一覧](../Page/全国短期大学高等専門学校一覧.md "wikilink")』285頁。
 2.  『短大螢雪5月臨時増刊 短大・学科内容案内号』（旺文社。2000年5月）351ページにはまだ記載がある。

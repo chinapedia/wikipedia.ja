@@ -1,4 +1,4 @@
-> この記事は[Yak-5 \(\)](https://ja.wikipedia.org/wiki/Yak-5_\(\))から翻訳されています。
+> この記事は[Yak-5 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-5_\(航空機\))から翻訳されています。
 
 
 **Yak-5**(Jak-5、ヤク5；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ピャーチ</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された高高度](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[迎撃戦闘機](https://ja.wikipedia.org/wiki/迎撃戦闘機 "wikilink")(<small>ヴィソートヌィイ・イストリビーチェリ・ピリフヴァーチク</small>)である。[1940年](../Page/1940年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に初飛行した。

@@ -1,4 +1,4 @@
-> この記事は[FNB](https://ja.wikipedia.org/wiki/FNB)から翻訳されています。
+> この記事は[FNBスタジアム](https://ja.wikipedia.org/wiki/FNBスタジアム)から翻訳されています。
 
 
 **ファースト・ナショナル・バンク・スタジアム**（、**サッカー・シティ・スタジアム**、英語:）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[ハウテン州](../Page/ハウテン州.md "wikilink")[ヨハネスブルグ](../Page/ヨハネスブルグ.md "wikilink")にある[球技場](https://ja.wikipedia.org/wiki/球技場 "wikilink")。

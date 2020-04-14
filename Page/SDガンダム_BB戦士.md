@@ -1,4 +1,4 @@
-> この記事は[SD BB](https://ja.wikipedia.org/wiki/SD_BB)から翻訳されています。
+> この記事は[SDガンダム BB戦士](https://ja.wikipedia.org/wiki/SDガンダム_BB戦士)から翻訳されています。
 
 
 **SDガンダム BB戦士**（エスディーガンダム ビービーせんし）は、[BANDAI SPIRITSホビー事業部](https://ja.wikipedia.org/wiki/BANDAI_SPIRITS "wikilink")\[1\]が発売している[SDガンダム](../Page/SDガンダム.md "wikilink")のプラモデルシリーズ。 他の**SDガンダム**プラモデルシリーズについてもついでに記載する。

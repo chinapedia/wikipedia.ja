@@ -1,15 +1,15 @@
-> この記事は[BLUE BIRD \(\)](https://ja.wikipedia.org/wiki/BLUE_BIRD_\(\))から翻訳されています。
+> この記事は[BLUE BIRD \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/BLUE_BIRD_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**BLUE BIRD**」（ブルー・バード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の40th[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**BLUE BIRD**」（ブルー・バード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[Startin'/Born To Be...](https://ja.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")」より、約3ヶ月振りのリリース。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、2種の「CD+[DVD](../Page/DVD.md "wikilink")」のジャケットが異なる3形態で発売された。2種の「CD+DVD」は、DVDに収録されるメイキング映像が異なる。
+前作「[Startin'/Born To Be...](https://ja.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")」より、約3か月振りのリリース。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、2種の「CD+[DVD](../Page/DVD.md "wikilink")」のジャケットが異なる3形態で発売された。2種の「CD+DVD」は、DVDに収録されるメイキング映像が異なる。
 
-「Ladies Night 〜another night〜」は同年発売の7thアルバム『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』に収録されていた同楽曲をアレンジしたもの。
+「Ladies Night 〜another night〜」は同年発売の7枚目のアルバム『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』に収録されていた同楽曲をアレンジしたもの。
 
-今作で自身の持つシングル首位獲得数記録は27作に更新され、女性アーティスト部門では歴代1位の記録を更新、総合では[B'z](../Page/B'z.md "wikilink")の38作に次ぐ歴代2位となった。また、シングルの総売り上げ枚数が2,000万枚を突破。これまでシングルの総売り上げが2,000万枚を突破したのはB'z・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4組のみで、ソロ歌手および女性歌手としては史上初の快挙となった\[1\]。
+本作で自身の持つシングル首位獲得数記録は27作に更新され、女性アーティスト部門では歴代1位の記録を更新、総合では[B'z](../Page/B'z.md "wikilink")の38作に次ぐ歴代2位となった。また、シングルの総売り上げ枚数が2,000万枚を突破した。それまでシングルの総売り上げが2,000万枚を突破したのはB'z・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4組のみで、ソロ歌手および女性歌手としては史上初の快挙となった\[1\]。
 
 ## 収録曲
 
@@ -70,6 +70,6 @@
   - [DISCOGRAPHY - ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003412)
 
   -
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ゼスプリ・インターナショナルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ゼスプリ・インターナショナルのコマーシャルソング "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:鳥を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:鳥を題材とした楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ゼスプリ・インターナショナルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ゼスプリ・インターナショナルのコマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.

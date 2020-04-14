@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSスポーツ](https://ja.wikipedia.org/wiki/CBSスポーツ)から翻訳されています。
 
 
 [CBS_Sports_2016_logo.svg](https://ja.wikipedia.org/wiki/File:CBS_Sports_2016_logo.svg "fig:CBS_Sports_2016_logo.svg") **CBSスポーツ**（CBS Sports）は、[CBS](../Page/CBS.md "wikilink")の[スポーツ中継](../Page/スポーツ中継.md "wikilink")などを扱う製作部門。

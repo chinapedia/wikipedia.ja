@@ -1,4 +1,4 @@
-> この記事は[PLANET](https://ja.wikipedia.org/wiki/PLANET)から翻訳されています。
+> この記事は[PLANET計画](https://ja.wikipedia.org/wiki/PLANET計画)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:UDSC_Palabo.JPG "wikilink") パラボラアンテナ正面俯瞰\]\] **PLANET計画**（プラネットけいかく）は、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙航空研究所（後の[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink") (ISAS)、現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) 宇宙科学研究所）による[太陽系探査計画](https://ja.wikipedia.org/wiki/宇宙探査 "wikilink")、及び計画された[宇宙探査機](../Page/宇宙探査機.md "wikilink")シリーズの名称である。

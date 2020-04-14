@@ -1,4 +1,4 @@
-> この記事は[Dancing Blade !](https://ja.wikipedia.org/wiki/Dancing_Blade_!)から翻訳されています。
+> この記事は[Dancing Blade かってに桃天使!](https://ja.wikipedia.org/wiki/Dancing_Blade_かってに桃天使!)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|   『**dancing blade かってに桃天使\!**』（ダンシングブレード かってにももてんし）は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売されたインタラクティブアニメ。

@@ -1,7 +1,7 @@
-> この記事は[IAAF](https://ja.wikipedia.org/wiki/IAAF)から翻訳されています。
+> この記事は[IAAFゴールデンリーグ](https://ja.wikipedia.org/wiki/IAAFゴールデンリーグ)から翻訳されています。
 
 
-**IAAF ゴールデンリーグ**（IAAF Golden League）は[IAAFが](https://ja.wikipedia.org/wiki/国際陸上競技連盟 "wikilink")2009年まで運営していた[陸上競技](../Page/陸上競技.md "wikilink")大会。
+**IAAF ゴールデンリーグ**（IAAF Golden League）は[IAAFが](../Page/ワールドアスレティックス.md "wikilink")2009年まで運営していた[陸上競技](../Page/陸上競技.md "wikilink")大会。
 
 大会は当初、[オスロ](../Page/オスロ.md "wikilink")、[ローマ](../Page/ローマ.md "wikilink")、[モナコ](../Page/モナコ.md "wikilink")、[チューリッヒ](../Page/チューリッヒ.md "wikilink")、[ブリュッセル](../Page/ブリュッセル.md "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で行われたが、[1999年](../Page/1999年.md "wikilink")からは[サン=ドニが加わり](../Page/サン＝ドニ.md "wikilink")、[2000年](../Page/2000年.md "wikilink")と[2001年](../Page/2001年.md "wikilink")には7戦中5勝した選手に50kgのゴールドバーが贈呈したが、[2003年](../Page/2003年.md "wikilink")にはモナコが撤退した。
 
@@ -238,4 +238,4 @@
 
   - [IAAFゴールデンリーグ2008公式サイト](http://www.iaaf.org/gle08/index.html)
 
-[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink")
+[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink") [Category:IAAFゴールデンリーグ](https://ja.wikipedia.org/wiki/Category:IAAFゴールデンリーグ "wikilink")

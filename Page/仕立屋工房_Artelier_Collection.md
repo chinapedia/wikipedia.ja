@@ -1,4 +1,4 @@
-> この記事は[ Artelier Collection](https://ja.wikipedia.org/wiki/_Artelier_Collection)から翻訳されています。
+> この記事は[仕立屋工房 Artelier Collection](https://ja.wikipedia.org/wiki/仕立屋工房_Artelier_Collection)から翻訳されています。
 
 
 『**仕立屋工房 Artelier Collection**』（したてやこうぼう アルトリエコレクション）は[日丘円](https://ja.wikipedia.org/wiki/日丘円 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")作品。『[ガンガンパワード](../Page/ガンガンパワード.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊）に掲載された同名の読切作品を連載化。[2009年](../Page/2009年.md "wikilink")のパワード休刊後は『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（同）に移籍し、同年5月号から2011年6月号まで連載された。

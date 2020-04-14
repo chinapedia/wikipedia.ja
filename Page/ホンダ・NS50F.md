@@ -1,4 +1,4 @@
-> この記事は[NS50F](https://ja.wikipedia.org/wiki/NS50F)から翻訳されています。
+> この記事は[ホンダ・NS50F](https://ja.wikipedia.org/wiki/ホンダ・NS50F)から翻訳されています。
 
 
 **NS50F**（エヌエスごじゅうエフ）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造発売した[オートバイ](../Page/オートバイ.md "wikilink")である。本項ではNS50Fをベースに競技専用車種とした**NS50R**（エヌエスごじゅうアール）についても解説を行う。

@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[EZテレビ](https://ja.wikipedia.org/wiki/EZテレビ)から翻訳されています。
 
 
 **EZテレビ**は[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）および[ナノ・メディア](../Page/ナノ・メディア.md "wikilink")が提供する、[携帯電話](../Page/携帯電話.md "wikilink")端末にて[テレビ](../Page/テレビ.md "wikilink")を視聴するための[EZアプリ（BREW）または](../Page/BREW.md "wikilink")、[EZWeb](https://ja.wikipedia.org/wiki/EZWeb "wikilink")のサイト。

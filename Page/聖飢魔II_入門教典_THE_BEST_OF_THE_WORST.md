@@ -1,4 +1,4 @@
-> この記事は[II  THE BEST OF THE WORST](https://ja.wikipedia.org/wiki/II__THE_BEST_OF_THE_WORST)から翻訳されています。
+> この記事は[聖飢魔II 入門教典 THE BEST OF THE WORST](https://ja.wikipedia.org/wiki/聖飢魔II_入門教典_THE_BEST_OF_THE_WORST)から翻訳されています。
 
 
 『**聖飢魔II 入門教典 THE BEST OF THE WORST**』（せいきまつ にゅうもんきょうてん ザ・ベスト・オブ・ザ・ワースト）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第二十教典で[D.C.](../Page/魔暦.md "wikilink")5年（[2003年](../Page/2003年.md "wikilink")）[6月25日](../Page/6月25日.md "wikilink")に発布された2枚組ベスト盤。

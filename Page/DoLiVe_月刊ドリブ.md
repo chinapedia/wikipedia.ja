@@ -1,4 +1,4 @@
-> この記事は[DoLiVe ](https://ja.wikipedia.org/wiki/DoLiVe_)から翻訳されています。
+> この記事は[DoLiVe 月刊ドリブ](https://ja.wikipedia.org/wiki/DoLiVe_月刊ドリブ)から翻訳されています。
 
 
 **DoLive 月刊ドリブ**（げっかんどりぶ）は、[1982年](../Page/1982年.md "wikilink")5月[青人社](../Page/青人社.md "wikilink")より創刊された雑誌。「カネとオンナに強くなる雑誌」を基幹コンセプトとしていた。

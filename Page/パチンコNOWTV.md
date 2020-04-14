@@ -1,4 +1,4 @@
-> この記事は[NOWTV](https://ja.wikipedia.org/wiki/NOWTV)から翻訳されています。
+> この記事は[パチンコNOWTV](https://ja.wikipedia.org/wiki/パチンコNOWTV)から翻訳されています。
 
 
 「**パチンコNOW**」シリーズは、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）他一部地域で（後述）[1991年](../Page/1991年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")まで放送していた地上波[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")情報番組。

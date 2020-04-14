@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCディナモ・トビリシ](https://ja.wikipedia.org/wiki/FCディナモ・トビリシ)から翻訳されています。
 
 
 **FCディナモ・トビリシ**（、）は、[ジョージアの首都](../Page/ジョージア_\(国\).md "wikilink")[トビリシ](../Page/トビリシ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAバンフィエルド](https://ja.wikipedia.org/wiki/CAバンフィエルド)から翻訳されています。
 
 
 **クルブ・アトレティコ・バンフィエルド**（）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")の都市[バンフィエルド](../Page/バンフィエルド.md "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。1896年1月21日、イギリス系住民によって創立された。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブが有名だが、ホッケー、体操、武道、ローラースケート、テニス、バレーボールの競技チームも抱えている。

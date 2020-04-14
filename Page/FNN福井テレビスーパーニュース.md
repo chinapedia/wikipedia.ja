@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN福井テレビスーパーニュース](https://ja.wikipedia.org/wiki/FNN福井テレビスーパーニュース)から翻訳されています。
 
 
 『**FNN福井テレビスーパーニュース**』（エフエヌエヌ　ふくいテレビ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*FNN 福井テレビ Super NEWS*）は、[福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")で放送された[ニュース番組である](../Page/報道番組.md "wikilink")。通称『**スーパーニュース**』\[1\]。

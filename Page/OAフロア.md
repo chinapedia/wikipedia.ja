@@ -1,4 +1,4 @@
-> この記事は[OA](https://ja.wikipedia.org/wiki/OA)から翻訳されています。
+> この記事は[OAフロア](https://ja.wikipedia.org/wiki/OAフロア)から翻訳されています。
 
 
 [240px](https://ja.wikipedia.org/wiki/ファイル:Tile-lifter-in-use-raised-floor.jpg "wikilink") **OAフロア**（）は、床の上に[ネットワーク配線などのための一定の高さの空間をとり](../Page/コンピュータネットワーク.md "wikilink")、その上の別の床を設け二重化したものである。

@@ -1,4 +1,4 @@
-> この記事は[KT](https://ja.wikipedia.org/wiki/KT)から翻訳されています。
+> この記事は[KTタンストール](https://ja.wikipedia.org/wiki/KTタンストール)から翻訳されています。
 
 
 **KTタンストール**\[1\]（**KT Tunstall**\[2\]\[3\]、[1975年](../Page/1975年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - ）は、[スコットランド](../Page/スコットランド.md "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。

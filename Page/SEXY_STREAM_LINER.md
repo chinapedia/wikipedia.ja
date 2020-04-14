@@ -11,7 +11,7 @@
 
 [ギタリスト](../Page/ギタリスト.md "wikilink")の[今井寿](../Page/今井寿.md "wikilink")曰く、タイトルの「SEXY」には[スラング](../Page/スラング.md "wikilink")で「最新型の」と言う意味もあるらしく、「最新型の流線形」ということらしい。
 
-後に「[囁き](https://ja.wikipedia.org/wiki/囁き "wikilink")」（1998年）が[シングルカットされ](../Page/リカット.md "wikilink")、これに「SEXY STREAM LINER」・「キミガシン..ダラ」を追加収録したアナログ盤『[LTD](../Page/LTD_\(アルバム\).md "wikilink")』（1998年）がリリースされた。これらのジャケットはどれも本作のジャケットのモチーフが使われている。
+後に「[囁き](https://ja.wikipedia.org/wiki/囁き "wikilink")」（1998年）が[シングルカットされ](../Page/リカット.md "wikilink")、これに「SEXY STREAM LINER」・「キミガシン..ダラ」を追加収録したアナログ盤『[LTD](../Page/LTD_\(アルバム\).md "wikilink")』（1998年）がリリースされた。これらのジャケットはどれも本作のジャケットのモチーフが使われている。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## リリース履歴
 

@@ -1,4 +1,4 @@
-> この記事は[NASCAR](https://ja.wikipedia.org/wiki/NASCAR)から翻訳されています。
+> この記事は[モンスターエナジー・NASCARオールスターレース](https://ja.wikipedia.org/wiki/モンスターエナジー・NASCARオールスターレース)から翻訳されています。
 
 
 **モンスターエナジー・NASCARオールスターレース** (Monster Energy NASCAR All-Star Race) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で人気No.1の[ストックカー](../Page/ストックカー.md "wikilink")レース「[NASCAR](../Page/NASCAR.md "wikilink")」の[オールスター戦である](../Page/オールスターゲーム.md "wikilink")。

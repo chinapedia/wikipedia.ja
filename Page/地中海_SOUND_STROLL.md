@@ -1,4 +1,4 @@
-> この記事は[ SOUND STROLL](https://ja.wikipedia.org/wiki/_SOUND_STROLL)から翻訳されています。
+> この記事は[地中海 SOUND STROLL](https://ja.wikipedia.org/wiki/地中海_SOUND_STROLL)から翻訳されています。
 
 
 **地中海 SOUND STROLL**（ちちゅうかい さうんど すとろーる）は、土曜9:30～10:00に[NACK5で放送されていた](../Page/エフエムナックファイブ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送期間は[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[2011年](../Page/2011年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")。なお、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分より番組タイトル名が**相田翔子 SOUND STROLL**（あいだしょうこ さうんど すとろーる）に改題された。

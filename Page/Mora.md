@@ -98,7 +98,8 @@
   - 2015年10月22日 - Media Goでダウンロードした際の拡張子を変更（.mp4 → .m4a / .m4v）。
   - 2015年11月12日 - moraダウンローダーが[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")に対応。
   - 2016年6月30日 - Windowsストアアプリでのサービスを終了。
-  - 2019年11月 - 高音質ストリーミング配信サービスmora qualitasを開始。日本国内でのCD音質ストリーミング配信サービスはDeezer HiFi、Amazon Music HDに続いて3番目、ハイレゾ音源対応のストリーミング配信サービスに限ってはAmazon Music HDに続いて2番目のサービス開始となる。
+  - 2019年11月 - 高音質ストリーミング配信サービスmora qualitasを開始。日本国内でのCD音質ストリーミング配信サービスはDeezer HiFi、Amazon Music HDに続いて3番目、ハイレゾ音源対応のストリーミング配信サービスに限ってはAmazon Music HDに続いて2番目のサービス開始となる。mora qualitasアプリはWindows/macOSのみ対応。
+  - 2020年2月 - mora qualitasアプリがiOS/Androidに対応。
 
 ## 利用方法
 

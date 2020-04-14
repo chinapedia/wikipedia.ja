@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[サターンV](https://ja.wikipedia.org/wiki/サターンV)から翻訳されています。
 
 
 | サターンV                                                                                 |

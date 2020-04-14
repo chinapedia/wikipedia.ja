@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[イプスウィッチ・タウンFC](https://ja.wikipedia.org/wiki/イプスウィッチ・タウンFC)から翻訳されています。
 
 
 **イプスウィッチ・タウン**（**Ipswich Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[サフォーク](../Page/サフォーク.md "wikilink")州・[イプスウィッチ](../Page/イプスウィッチ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは[リーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属。1878年10月16日に創立。1938年にフットボールリーグに加盟した。

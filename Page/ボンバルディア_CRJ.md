@@ -1,4 +1,4 @@
-> この記事は[ CRJ](https://ja.wikipedia.org/wiki/_CRJ)から翻訳されています。
+> この記事は[ボンバルディア CRJ](https://ja.wikipedia.org/wiki/ボンバルディア_CRJ)から翻訳されています。
 
 
 {{ Infobox 航空機

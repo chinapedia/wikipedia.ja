@@ -1,7 +1,7 @@
-> この記事は[SATURDAY KICK OFF!30](https://ja.wikipedia.org/wiki/SATURDAY_KICK_OFF!30)から翻訳されています。
+> この記事は[SATURDAY KICK OFF!〜歌ってお出かけベスト30〜](https://ja.wikipedia.org/wiki/SATURDAY_KICK_OFF!〜歌ってお出かけベスト30〜)から翻訳されています。
 
 
-**SATURDAY KICK OFF\!〜歌ってお出かけベスト30〜**（サタデー・キック・オフ\!～うたっておでかけベストサーティー～）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列の](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")7局をネットして放送されていた、週末土曜朝の[生放送](../Page/生放送.md "wikilink")のワイド番組である。
+**SATURDAY KICK OFF\!〜歌ってお出かけベスト30〜**（サタデー・キック・オフ\!～うたっておでかけベストサーティー～）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列の](../Page/全国FM放送協議会.md "wikilink")7局をネットして放送されていた、週末土曜朝の[生放送](../Page/生放送.md "wikilink")のワイド番組である。
 
 ## 概要
 
@@ -91,5 +91,5 @@
 [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
 1.  [広島FMも同番組のネットを希望したが](../Page/広島エフエム放送.md "wikilink")、関東及び隣接県のみの[ブロックネット](../Page/ブロックネット.md "wikilink")という性格上、関東に隣接していないという地理的事情もあり断られたといわれている。
-2.  8:00から[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")『[さわやかスタジオ](https://ja.wikipedia.org/wiki/さわやかスタジオ "wikilink")』→『[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")』をネットしていた。
+2.  8:00から[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")『[さわやかスタジオ](https://ja.wikipedia.org/wiki/さわやかスタジオ "wikilink")』→『[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")』をネットしていた。
 3.  8:00からJFNC制作の『さわやかスタジオ』→『MORNING CUBE〜SATURDAY NETWORK〜』をネットしていた（一時期、自社番組「ウェークアップ\!サタデー」を放送していた）。

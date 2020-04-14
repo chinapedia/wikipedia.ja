@@ -1,4 +1,4 @@
-> この記事は[My!](https://ja.wikipedia.org/wiki/My!)から翻訳されています。
+> この記事は[いつだってMyサンタ!](https://ja.wikipedia.org/wiki/いつだってMyサンタ!)から翻訳されています。
 
 
 『**いつだってMyサンタ\!**』（いつだってまいサンタ\!）は、[赤松健](../Page/赤松健.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

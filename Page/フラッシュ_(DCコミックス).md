@@ -1,4 +1,4 @@
-> この記事は[ \(DC\)](https://ja.wikipedia.org/wiki/_\(DC\))から翻訳されています。
+> この記事は[フラッシュ \(DCコミックス\)](https://ja.wikipedia.org/wiki/フラッシュ_\(DCコミックス\))から翻訳されています。
 
 
 **ザ・フラッシュ**（）は、[DCコミックス](../Page/DCコミックス.md "wikilink")の出版する[アメリカン・コミックス](../Page/アメリカン・コミックス.md "wikilink")に登場する架空の[スーパーヒーロー](../Page/スーパーヒーロー.md "wikilink")、及びコミックのタイトル。胸に[稲妻のマークのついた真紅のコスチュームを身にまとい](https://ja.wikipedia.org/wiki/雷#稲妻 "wikilink")、超スピードで疾走する。
@@ -385,7 +385,7 @@
   - [フラッシュ](https://warnerbros.co.jp/dccomics/characters/the-flash.html) - ワーナー公式
   - [The Flash](http://www.dccomics.com/characters/the-flash) - DCコミックス公式
 
-[Category:DCコミックス](https://ja.wikipedia.org/wiki/Category:DCコミックス "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:DCコミックスの登場人物](https://ja.wikipedia.org/wiki/Category:DCコミックスの登場人物 "wikilink") [Category:ジャスティス・リーグ](https://ja.wikipedia.org/wiki/Category:ジャスティス・リーグ "wikilink") [Category:DCコミックスのテレビドラマ](https://ja.wikipedia.org/wiki/Category:DCコミックスのテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:映画の登場人物](https://ja.wikipedia.org/wiki/Category:映画の登場人物 "wikilink") [Category:テレビドラマの登場人物](https://ja.wikipedia.org/wiki/Category:テレビドラマの登場人物 "wikilink") [Category:アニメの登場人物](https://ja.wikipedia.org/wiki/Category:アニメの登場人物 "wikilink")
+[Category:DCコミックスの漫画作品](https://ja.wikipedia.org/wiki/Category:DCコミックスの漫画作品 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:1940年の漫画](https://ja.wikipedia.org/wiki/Category:1940年の漫画 "wikilink") [Category:DCコミックスの登場人物](https://ja.wikipedia.org/wiki/Category:DCコミックスの登場人物 "wikilink") [Category:ジャスティス・リーグ](https://ja.wikipedia.org/wiki/Category:ジャスティス・リーグ "wikilink") [Category:DCコミックスのテレビドラマ](https://ja.wikipedia.org/wiki/Category:DCコミックスのテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:映画の登場人物](https://ja.wikipedia.org/wiki/Category:映画の登場人物 "wikilink") [Category:テレビドラマの登場人物](https://ja.wikipedia.org/wiki/Category:テレビドラマの登場人物 "wikilink") [Category:アニメの登場人物](https://ja.wikipedia.org/wiki/Category:アニメの登場人物 "wikilink")
 
 1.
 2.

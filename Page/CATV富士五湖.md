@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[CATV富士五湖](https://ja.wikipedia.org/wiki/CATV富士五湖)から翻訳されています。
 
 
 株式会社**CATV富士五湖**（シーエーティーブイふじごこ）\[1\] は、山梨県富士吉田市をサービスエリアとし、[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")、[インターネット](../Page/インターネット.md "wikilink")、音楽放送を業務とする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。 なお、同じFBCの略称を使う地元山梨放送も所属する日本テレビ系列の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")とは関係無い。

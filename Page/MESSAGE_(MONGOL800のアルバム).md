@@ -1,4 +1,4 @@
-> この記事は[MESSAGE \(MONGOL800\)](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800\))から翻訳されています。
+> この記事は[MESSAGE \(MONGOL800のアルバム\)](https://ja.wikipedia.org/wiki/MESSAGE_\(MONGOL800のアルバム\))から翻訳されています。
 
 
 『**MESSAGE**』（メッセージ）は[MONGOL800](../Page/MONGOL800.md "wikilink")のインディーズデビュー後2枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")にリリース。
@@ -9,8 +9,8 @@
 
   - 前作『[GO ON AS YOU ARE](../Page/GO_ON_AS_YOU_ARE.md "wikilink")』から約1年の時を経てリリース。
   - 当初は[沖縄県](../Page/沖縄県.md "wikilink")以外では大して話題になっていなかったが、収録曲の｢あなたに｣がCM曲に抜擢され一躍注目を浴びる。
-  - インディーズアルバム史上初となるオリコン1位を獲得し、2002年度年間売り上げ3位となる。
-  - また、インディーズアルバム史上で初のミリオンセラーを達成し、現在までに売り上げは278万枚にも達している。[2000年代](../Page/2000年代.md "wikilink")に男性アーティストが発売したオリジナルアルバムの中では、最高の売り上げを記録している作品である。
+  - インディーズアルバム史上初となるオリコン1位を獲得し、2002年度年間売り上げ3位となる。\[1\]
+  - また、インディーズアルバム史上で初のミリオンセラーを達成し、現在までに売り上げは278万枚にも達している。\[2\][2000年代](../Page/2000年代.md "wikilink")に男性アーティストが発売したオリジナルアルバムの中では、最高の売り上げを記録している作品である。
   - ほとんどメンバーがプロモーション活動をしていないにもかかわらず大半の楽曲が有線をはじめさまざまな媒体で使用されている。
   - 本作のヒットで全国的には全く売れていなかった前作『GO ON AS YOU ARE』もオリコンチャートで上位を記録している。
   - アルバムの大ヒットがきっかけで[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")への参加依頼が舞い込むも、メンバーはそれを拒否している。その後発売から5年の時を経てようやく全国ネット番組に出演し2007年9月にツアードキュメントが[NHKのスペシャル番組として放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
@@ -45,4 +45,9 @@
 
 and Secret Track ｢**MESSAGE**｣
 
+## 出典
+
 [Category:MONGOL800のアルバム](https://ja.wikipedia.org/wiki/Category:MONGOL800のアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+
+1.
+2.

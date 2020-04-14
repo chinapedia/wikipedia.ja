@@ -1,4 +1,4 @@
-> この記事は[BMG](https://ja.wikipedia.org/wiki/BMG)から翻訳されています。
+> この記事は[ソニーBMG](https://ja.wikipedia.org/wiki/ソニーBMG)から翻訳されています。
 
 
 **Sony BMG Music Entertainment**（ソニーBMGミュージックエンタテインメント）は、[ソニー・ミュージックエンタテインメントと](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")（[BMG](../Page/BMG.md "wikilink")）の合弁により誕生した音楽事業会社。ソニーによる完全子会社化により、現在はソニー・ミュージックエンタテインメント（Sony Music Entertainment）を名乗っている。

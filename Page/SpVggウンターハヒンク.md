@@ -1,4 +1,4 @@
-> この記事は[SpVgg](https://ja.wikipedia.org/wiki/SpVgg)から翻訳されています。
+> この記事は[SpVggウンターハヒンク](https://ja.wikipedia.org/wiki/SpVggウンターハヒンク)から翻訳されています。
 
 
 **SpVggウンターハヒンク**（**SpVgg Unterhaching**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ウンターハヒンク](https://ja.wikipedia.org/wiki/ウンターハヒンク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。クラブの最高成績は、1999年から2000年のシーズンにおける[ブンデスリーガ](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")1部10位。

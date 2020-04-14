@@ -1,4 +1,4 @@
-> この記事は[REC \(\)](https://ja.wikipedia.org/wiki/REC_\(\))から翻訳されています。
+> この記事は[REC \(漫画\)](https://ja.wikipedia.org/wiki/REC_\(漫画\))から翻訳されています。
 
 
 『**REC**』（レック）は、[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

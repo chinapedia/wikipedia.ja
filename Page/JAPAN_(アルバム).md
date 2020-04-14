@@ -1,4 +1,4 @@
-> この記事は[JAPAN \(\)](https://ja.wikipedia.org/wiki/JAPAN_\(\))から翻訳されています。
+> この記事は[JAPAN \(アルバム\)](https://ja.wikipedia.org/wiki/JAPAN_\(アルバム\))から翻訳されています。
 
 
 『**JAPAN**』（ジャパン）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の13枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")、およびアルバムの一曲目に収録されている楽曲である。

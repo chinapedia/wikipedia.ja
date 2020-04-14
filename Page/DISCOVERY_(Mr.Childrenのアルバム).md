@@ -1,4 +1,4 @@
-> この記事は[DISCOVERY \(Mr.Children\)](https://ja.wikipedia.org/wiki/DISCOVERY_\(Mr.Children\))から翻訳されています。
+> この記事は[DISCOVERY \(Mr.Childrenのアルバム\)](https://ja.wikipedia.org/wiki/DISCOVERY_\(Mr.Childrenのアルバム\))から翻訳されています。
 
 
 『**DISCOVERY**』（ディスカバリー）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の7枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。

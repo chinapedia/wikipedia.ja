@@ -1,4 +1,4 @@
-> この記事は[4A-GE](https://ja.wikipedia.org/wiki/4A-GE)から翻訳されています。
+> この記事は[トヨタ・4A-GE](https://ja.wikipedia.org/wiki/トヨタ・4A-GE)から翻訳されています。
 
 
 **4A-GE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")のスポーツ[ツインカム系列のエンジンの一つであり](../Page/DOHC.md "wikilink")、[トヨタ・A型エンジン (2代目)系列である](../Page/トヨタ・A型エンジン_\(2代目\).md "wikilink")。

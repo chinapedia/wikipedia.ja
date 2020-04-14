@@ -1,4 +1,4 @@
-> この記事は[69TRIBE ](https://ja.wikipedia.org/wiki/69TRIBE_)から翻訳されています。
+> この記事は[69★TRIBE ロック族](https://ja.wikipedia.org/wiki/69★TRIBE_ロック族)から翻訳されています。
 
 
 『**69★TRIBE ロック族**』（ロックトライブ）は、[2005年](../Page/2005年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで毎週水曜 25:58～26:28に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。通称「**69★TRIBE**」。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")であるが過去2回のスペシャル放送時は番組の前半だけ提供し、後半は複数のスポンサーが提供していた（ただし、テロップは同社のみ表示されている）。

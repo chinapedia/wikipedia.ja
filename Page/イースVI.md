@@ -1,4 +1,4 @@
-> この記事は[VI](https://ja.wikipedia.org/wiki/VI)から翻訳されています。
+> この記事は[イースVI](https://ja.wikipedia.org/wiki/イースVI)から翻訳されています。
 
 
 『**イースVI**』（イースシックス、Ys VI）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、**[イースシリーズ](../Page/イースシリーズ.md "wikilink")**の第6作目。

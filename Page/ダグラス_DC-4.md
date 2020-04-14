@@ -1,4 +1,4 @@
-> この記事は[ DC-4](https://ja.wikipedia.org/wiki/_DC-4)から翻訳されています。
+> この記事は[ダグラス DC-4](https://ja.wikipedia.org/wiki/ダグラス_DC-4)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ダグラス DC-4 | 画像=<File:EI-APK> DC-4 Alitalia (Aer Turas) LPL 05OCT67 (5562373158).jpg | キャプション=アリタリア航空のDC-4B | 用途=[旅客機](../Page/旅客機.md "wikilink") | 分類= | 設計者= | 製造者=[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink") | 運用者 more=

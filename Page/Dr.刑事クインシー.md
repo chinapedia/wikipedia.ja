@@ -1,4 +1,4 @@
-> この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
+> この記事は[Dr.刑事クインシー](https://ja.wikipedia.org/wiki/Dr.刑事クインシー)から翻訳されています。
 
 
 **Dr.刑事クインシー**（英語タイトル:**Quincy, M.E.**）は[1976年](../Page/1976年.md "wikilink")10月から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月（9月とも）まで[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](../Page/NBC.md "wikilink")で放送されたテレビドラマ。当初は90分枠の "[NBCサンデー・ミステリー・ムービー](../Page/NBCミステリー・ムービー.md "wikilink")" 枠で「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」、「[警部マクロード](../Page/警部マクロード.md "wikilink")」、「[署長マクミラン](../Page/署長マクミラン.md "wikilink")」と週替わりで4本が放映され、[1977年](../Page/1977年.md "wikilink")2月から低視聴率で打ち切られた「[アウトロー刑事・セルピコ](../Page/セルピコ.md "wikilink")」の後番組として、金曜22時からの60分枠に移動した。

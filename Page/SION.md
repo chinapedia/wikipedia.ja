@@ -196,7 +196,7 @@
   - [オフィシャルFacebookページ](https://www.facebook.com/SIONofficial)
   - [オフィシャルTwitter](https://twitter.com/SIONofficial_jp)
   - [テイチク旧公式ページ](http://www.teichiku.co.jp/artist/baidis/sion/)
-  - [ソニーミュージック（旧BMG）公式ページ](http://www.sonymusic.co.jp/Music/Arch/ARI/SION/index.html)
+  - [ソニーミュージック（旧BMG）公式ページ](https://www.sonymusic.co.jp/artist/SION/)
 
 ## 脚注
 

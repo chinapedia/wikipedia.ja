@@ -1,4 +1,4 @@
-> この記事は[ONE3](https://ja.wikipedia.org/wiki/ONE3)から翻訳されています。
+> この記事は[ONE×3](https://ja.wikipedia.org/wiki/ONE×3)から翻訳されています。
 
 
 『**ONE×3**』（わんわんわん）は[雪リコ](https://ja.wikipedia.org/wiki/雪リコ "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[月刊ASUKA](../Page/月刊Asuka.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）にて連載されていて、一時は休載していたが、2008年12月号にて連載を再開する。コミックスは2巻まで、[ドラマCDが](../Page/ラジオドラマ.md "wikilink")[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")から発売されている。

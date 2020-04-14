@@ -664,6 +664,15 @@ MSHN-057:通常盤<br />
 MSHN-058:カセット</p></td>
 <td><p>オリコン週間アルバムチャート初登場16位</p></td>
 </tr>
+<tr class="odd">
+<td><p>15th</p></td>
+<td><p>2020年5月20日</p></td>
+<td><p><strong>惡</strong></p></td>
+<td><p>MSHN-076:朱ゥノ吐VIP会員限定受注生産盤<br />
+MSHN-077～8:初回生産限定盤<br />
+MSHN-079:通常盤</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2490,7 +2499,7 @@ VIZL-1684</p></td>
 | **監督**                                                               | **曲名**                                                                                                                                                                                                                             |
 | [柿本ケンサク](https://ja.wikipedia.org/wiki/柿本ケンサク "wikilink")            | 「[G.G.](https://www.youtube.com/watch?v=JhFeZ6ikBKs)」                                                                                                                                                                              |
 | [川村ケンスケ](../Page/川村ケンスケ.md "wikilink")                               | 「[ニルヴァーナ](https://www.youtube.com/watch?v=NlB6fmRce_g)」                                                                                                                                                                            |
-| [喜田夏記](https://ja.wikipedia.org/wiki/喜田夏記 "wikilink")                | 「[故に、摩天楼](https://www.youtube.com/watch?v=HOGv2rGXIfs)」                                                                                                                                                                            |
+| [喜田夏記](../Page/喜田夏記.md "wikilink")                                   | 「[故に、摩天楼](https://www.youtube.com/watch?v=HOGv2rGXIfs)」                                                                                                                                                                            |
 | [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")                | 「[フリージア](https://www.youtube.com/watch?v=yNsCwkX3SJc)」「[約束](https://www.youtube.com/watch?v=5CrYDqF-yLA)」                                                                                                                          |
 | [後藤信吾](https://ja.wikipedia.org/wiki/後藤信吾 "wikilink")                | 「[ENDER ENDER feat.ガチャピン&ムック LIVE ver.](https://www.youtube.com/watch?v=oxy7THAE3Rk)」「[フライト](https://www.youtube.com/watch?v=6AzbZSsTHgk)」                                                                                         |
 | [近藤廣行](https://ja.wikipedia.org/wiki/近藤廣行 "wikilink")                | 「[空と糸](https://www.youtube.com/watch?v=ELNlRaNozXA)」                                                                                                                                                                               |

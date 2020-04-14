@@ -1,4 +1,4 @@
-> この記事は[BOLERO \(Mr.Children\)](https://ja.wikipedia.org/wiki/BOLERO_\(Mr.Children\))から翻訳されています。
+> この記事は[BOLERO \(Mr.Childrenのアルバム\)](https://ja.wikipedia.org/wiki/BOLERO_\(Mr.Childrenのアルバム\))から翻訳されています。
 
 
 『**BOLERO**』（ボレロ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の6枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。

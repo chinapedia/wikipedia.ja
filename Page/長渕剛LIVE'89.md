@@ -1,4 +1,4 @@
-> この記事は[LIVE\'89](https://ja.wikipedia.org/wiki/LIVE\'89)から翻訳されています。
+> この記事は[長渕剛LIVE\'89](https://ja.wikipedia.org/wiki/長渕剛LIVE\'89)から翻訳されています。
 
 
 『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

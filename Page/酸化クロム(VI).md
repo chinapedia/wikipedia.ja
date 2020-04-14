@@ -1,4 +1,4 @@
-> この記事は[\(VI\)](https://ja.wikipedia.org/wiki/\(VI\))から翻訳されています。
+> この記事は[酸化クロム\(VI\)](https://ja.wikipedia.org/wiki/酸化クロム\(VI\))から翻訳されています。
 
 
 )

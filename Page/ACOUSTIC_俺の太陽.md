@@ -1,4 +1,4 @@
-> この記事は[ACOUSTIC ](https://ja.wikipedia.org/wiki/ACOUSTIC_)から翻訳されています。
+> この記事は[ACOUSTIC 俺の太陽](https://ja.wikipedia.org/wiki/ACOUSTIC_俺の太陽)から翻訳されています。
 
 
 『**ACOUSTIC 俺の太陽**』（アコースティック・おれのたいよう）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[セルフカバー](../Page/セルフカバー.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")である。
@@ -51,7 +51,7 @@
 
 ## 曲解説
 
-1.  **勇次**
+1.  **勇次 - 歌ではなく全編語りで収録されている**
 2.  **HOLD YOUR LAST CHANCE**
 3.  **涙のセレナーデ**
 4.  **素顔**
@@ -59,7 +59,7 @@
 6.  **[ひまわり](https://ja.wikipedia.org/wiki/ひまわり_\(長渕剛の曲\) "wikilink")**
 7.  **[RUN](../Page/RUN_\(長渕剛の曲\).md "wikilink")**
 8.  **真っすぐな瞳のかあちゃん**
-9.  **交差点'99**
+9.  **交差点'99 - 大幅なアレンジの変更と歌詞が一部変更されている**
 10. **俺の太陽**
 11. **[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")**
 

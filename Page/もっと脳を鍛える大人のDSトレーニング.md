@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[もっと脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/もっと脳を鍛える大人のDSトレーニング)から翻訳されています。
 
 
 『**もっと脳を鍛える大人のDSトレーニング**』（もっとのうをきたえるおとなのディーエストレーニング）は、[2005年](../Page/2005年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフトである。一般には『**もっと脳トレ**』などの略称が用いられる事が多い。正式名称は『**東北大学未来科学技術共同研究センター川島隆太教授監修 もっと脳を鍛える大人のDSトレーニング**』（とうほくだいがくみらいかがくぎじゅつきょうどうけんきゅうセンターかわしまりゅうたきょうじゅかんしゅう もっとのうをきたえるおとなのディーエストレーニング、）。
@@ -140,7 +140,7 @@
 
 ## 外部リンク
 
-  - [もっと脳を鍛える大人のDSトレーニング公式サイト](http://www.nintendo.co.jp/ds/anmj/index.html)
+  - [もっと脳を鍛える大人のDSトレーニング公式サイト](https://www.nintendo.co.jp/ds/anmj/)
 
 [de:Dr. Kawashimas Gehirn-Jogging\#Dr. Kawashima: Mehr Gehirn-Jogging](https://ja.wikipedia.org/wiki/de:Dr._Kawashimas_Gehirn-Jogging#Dr._Kawashima:_Mehr_Gehirn-Jogging "wikilink")
 

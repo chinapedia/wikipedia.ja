@@ -1,4 +1,4 @@
-> この記事は[H-IIB](https://ja.wikipedia.org/wiki/H-IIB)から翻訳されています。
+> この記事は[H-IIBロケット](https://ja.wikipedia.org/wiki/H-IIBロケット)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:H-II_series.png "wikilink") **H-IIBロケット**（エイチツービーロケット 、エイチにビーロケット、H2Bロケット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")（JAXA）と[三菱重工業](../Page/三菱重工業.md "wikilink")が共同開発し三菱重工が製造及び打ち上げを行う\[1\]、日本で最大の能力を持つ[宇宙ステーション補給機](../Page/宇宙ステーション補給機.md "wikilink")打ち上げ用[液体燃料ロケット](../Page/液体燃料ロケット.md "wikilink")で[使い捨て型の](../Page/使い捨て型ロケット.md "wikilink")[ローンチ・ヴィークル](https://ja.wikipedia.org/wiki/ローンチ・ヴィークル "wikilink")。日本の衛星打ち上げの自律性をになうロケットとして基幹ロケットに位置づけられる\[2\]。[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の設備と技術を使い、H-IIA以上の能力を持つロケットとして日本で初めて官民が対等な関係で開発したロケットで、第1段エンジンを2基束ねた日本初の[クラスターロケット](../Page/クラスターロケット.md "wikilink")でもある。
@@ -323,9 +323,9 @@ HTV軌道に16.95トンの打ち上げ能力確認[65]。</p></td>
 
 ### 打ち上げ予定
 
-  - 2020年度
+  - 2020年5月21日午前2時30分 (JST)頃<ref>{{Cite pressrelease|url=[http://www.jaxa.jp/press/2020/03/20200324-1_j.html|title=JAXA](http://www.jaxa.jp/press/2020/03/20200324-1_j.html%7Ctitle=JAXA) | 宇宙ステーション補給機「こうのとり」9号機（HTV9）の
 
-<!-- end list -->
+打上げについて|publisher=JAXA|date=2020-03-24|accessdate=2020-03-25}}</ref>
 
   - 宇宙ステーション補給機「こうのとり」9号機（HTV9）\[81\]
 

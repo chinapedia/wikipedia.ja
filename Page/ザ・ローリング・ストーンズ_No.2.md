@@ -1,4 +1,4 @@
-> この記事は[ No.2](https://ja.wikipedia.org/wiki/_No.2)から翻訳されています。
+> この記事は[ザ・ローリング・ストーンズ No.2](https://ja.wikipedia.org/wiki/ザ・ローリング・ストーンズ_No.2)から翻訳されています。
 
 
 『**ザ・ローリング・ストーンズ No.2**』(***The Rolling Stones No. 2***)は、[1965年](../Page/1965年.md "wikilink")にリリースされた[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では2作目となる[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。

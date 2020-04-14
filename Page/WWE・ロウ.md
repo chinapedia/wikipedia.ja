@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・ロウ](https://ja.wikipedia.org/wiki/WWE・ロウ)から翻訳されています。
 
 
 **ロウ**（*RAW*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")が毎週放送する[テレビ番組](../Page/テレビ番組.md "wikilink")の1つである。[SmackDown Liveと共にWWEの看板レギュラー番組である](../Page/スマックダウン.md "wikilink")。
@@ -27,13 +27,15 @@
 
 [2016年](../Page/2016年.md "wikilink")7月より再びSmackDown（分割後は「SmackDown LIVE」）とブランド分割され、[ヒース・スレイター](https://ja.wikipedia.org/wiki/ヒース・スレイター "wikilink")ら無所属の数名を除いてそれぞれのスターがもう片方のブランドに登場することはなくなった。ただし、SmackDown LIVEと同日に放送されている「[WWE 205 Live](https://ja.wikipedia.org/wiki/WWE_205_Live "wikilink")」のスターはRAWへも出演している。
 
+2020年3月16日は当初ピッツバーグから生中継の予定だったが、新型コロナウイルスの世界的大流行によりオーランドのWWEパフォーマンスセンターで無観客で放送される予定。
+
 USAネットワークで放送されている『ロウ』は2023年まで放映権契約を更新している。
 
 ## タイトル
 
   - [WWE王座](../Page/WWE王座_\(世界ヘビー級\).md "wikilink") : [ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")
-  - [WWE US王座](../Page/WWE・ユナイテッドステイツ王座.md "wikilink") : [アンドラーデ](https://ja.wikipedia.org/wiki/アンドラーデ "wikilink")
-  - [WWEロウ・タッグ王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink") : [セス・ロリンズ](https://ja.wikipedia.org/wiki/コルビー・ロペス "wikilink") & [マーフィー](https://ja.wikipedia.org/wiki/マット・シルバ "wikilink")
+  - [WWE US王座](../Page/WWE・ユナイテッドステイツ王座.md "wikilink") : [アンドラーデ](https://ja.wikipedia.org/wiki/ラ・ソンブラ "wikilink")
+  - [WWEロウ・タッグ王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink") : [アンジェロ・ドーキンス](https://ja.wikipedia.org/wiki/アンジェロ・ドーキンス "wikilink") & [モンテス・フォード](https://ja.wikipedia.org/wiki/ケネス・クロフォード "wikilink")/ストリート・プロフイッツ
   - [WWEロウ女子王座](https://ja.wikipedia.org/wiki/WWE・ロウ女子王座 "wikilink") : [ベッキー・リンチ](https://ja.wikipedia.org/wiki/レベッカ・ノックス "wikilink")
 
 ## GM

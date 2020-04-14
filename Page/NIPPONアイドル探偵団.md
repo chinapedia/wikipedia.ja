@@ -1,4 +1,4 @@
-> この記事は[NIPPON](https://ja.wikipedia.org/wiki/NIPPON)から翻訳されています。
+> この記事は[NIPPONアイドル探偵団](https://ja.wikipedia.org/wiki/NIPPONアイドル探偵団)から翻訳されています。
 
 
 『**NIPPONアイドル探偵団**』（にっぽんアイドルたんていだん）は、[1988年](../Page/1988年.md "wikilink")から発売されていた日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[名鑑](https://ja.wikipedia.org/wiki/名鑑 "wikilink")。ランキング形式を採っていた。

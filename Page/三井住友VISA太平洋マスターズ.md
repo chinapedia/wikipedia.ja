@@ -1,4 +1,4 @@
-> この記事は[VISA](https://ja.wikipedia.org/wiki/VISA)から翻訳されています。
+> この記事は[三井住友VISA太平洋マスターズ](https://ja.wikipedia.org/wiki/三井住友VISA太平洋マスターズ)から翻訳されています。
 
 
 **三井住友VISA太平洋マスターズ**（みついすみともビザたいへいようマスターズ）は、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")公認による[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[三井住友カード](../Page/三井住友カード.md "wikilink")、[太平洋クラブ](../Page/太平洋クラブ.md "wikilink")（2011年で一時撤退後、2016年に復帰）\[1\]、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が主催、[VJA](../Page/VJA.md "wikilink")、[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")が特別協賛する。

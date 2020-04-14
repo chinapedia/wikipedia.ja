@@ -1,4 +1,4 @@
-> この記事は[53NHK](https://ja.wikipedia.org/wiki/53NHK)から翻訳されています。
+> この記事は[第53回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第53回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第53回NHK紅白歌合戦**』（だいごじゅうさんかいエヌエイチケイこうはくうたがっせん）は、[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算53回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。19時30分 - 21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
@@ -30,7 +30,7 @@
   - [第46回](../Page/第46回NHK紅白歌合戦.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）以来7年ぶりとなる[小林幸子](../Page/小林幸子.md "wikilink")と[美川憲一](../Page/美川憲一.md "wikilink")の豪華衣装対決は美川が先行で推定3億円といわれる宝石をちりばめた衣装で登場。一方、小林は「氷の女王」と呼ばれる白を基調とした絢爛豪華な衣装での登場だった。２人の豪華衣装対決の後、感想を聞かれた審査員の[市川海老蔵](../Page/市川海老蔵.md "wikilink")は「今まで白だったんですが、今の見たら…」と小林の圧倒的なパフォーマンスに驚きを隠せなかった。
   - [小林幸子](../Page/小林幸子.md "wikilink")と[美川憲一](../Page/美川憲一.md "wikilink")の豪華衣装対決の後は、[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") → [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") → 中森明菜 → [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と白白紅紅の順で歌った。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")は「[大きな古時計](../Page/大きな古時計.md "wikilink")」のモデルになった時計のある・[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")から中継で歌った。
-  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")がこの年に彫った[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")を[ノースリーブ](../Page/ノースリーブ.md "wikilink")姿で露出させて歌ったところ、視聴者から抗議が殺到した。これを受けて、翌年の第54回以降、刺青のある出演者は刺青が露出しない服装にするか、化粧などで刺青箇所を塗り隠さなくてはならなくなった。安室は第54回も出場したが、この時はノースリーブ姿で刺青を[ファンデーションで塗り隠して歌った](../Page/ファンデーション_\(化粧品\).md "wikilink")。
+  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")がこの年に彫った[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")を[ノースリーブ](../Page/ノースリーブ.md "wikilink")姿で露出させて歌ったところ、視聴者から苦情が殺到した。これを受けて、翌年の第54回以降、刺青のある出演者は刺青が露出しない服装にするか、化粧などで刺青箇所を塗り隠さなくてはならなくなった。安室は第54回も出場したが、この時はノースリーブ姿で刺青を[ファンデーションで塗り隠して歌った](../Page/ファンデーション_\(化粧品\).md "wikilink")。
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は同リーダー・[中居正広](../Page/中居正広.md "wikilink")のソロから入る特別アレンジの「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」に「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のサビを入れたSPメドレー「freebird '02」を披露した。
   - [谷村新司](../Page/谷村新司.md "wikilink")の「[昴-すばる-](../Page/昴_\(谷村新司の曲\).md "wikilink")」の歌唱時には、出身の[二胡](../Page/二胡.md "wikilink")奏者[チェン・ミン](../Page/チェン・ミン.md "wikilink")が参加した。
   - ショーコーナーでは、特別ゲストの[柴矢裕美](https://ja.wikipedia.org/wiki/柴矢裕美 "wikilink")が「[おさかな天国](../Page/おさかな天国.md "wikilink")」を、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")が『[おじゃる丸](../Page/おじゃる丸.md "wikilink")』の主題歌「[詠人](https://ja.wikipedia.org/wiki/詠人 "wikilink")」を歌った。

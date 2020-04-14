@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR九州高速船](https://ja.wikipedia.org/wiki/JR九州高速船)から翻訳されています。
 
 
 **JR九州高速船株式会社**（ジェイアールきゅうしゅうこうそくせん）は、[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")に本社を置く日本の[海運会社](https://ja.wikipedia.org/wiki/海運会社 "wikilink")。

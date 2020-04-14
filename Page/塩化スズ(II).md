@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化スズ\(II\)](https://ja.wikipedia.org/wiki/塩化スズ\(II\))から翻訳されています。
 
 
 **塩化スズ(II)**（えんかスズ、tin(II) chloride または stannous chloride）は、化学式 SnCl<sub>2</sub> で表される+2価の[スズ](../Page/スズ.md "wikilink")の塩化物で、無水物、2水和物がある。無水物は常温常圧において無色〜白色の結晶性粉末で、[潮解](https://ja.wikipedia.org/wiki/潮解 "wikilink")性がある。2水和物は常圧において融点 37.7 ℃ の白色結晶で強力な還元剤であり、酸化剤や強塩基と激しく反応する。硝酸塩とは非常に激しく反応し、[爆発](../Page/爆発.md "wikilink")の危険がある。空気中の[酸素](../Page/酸素.md "wikilink")と反応して不溶性のオキシ塩化物を生じる。[水](../Page/水.md "wikilink")、[メタノール](../Page/メタノール.md "wikilink")、[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")、[酢酸](../Page/酢酸.md "wikilink")、[酒石酸](../Page/酒石酸.md "wikilink")などに可溶。

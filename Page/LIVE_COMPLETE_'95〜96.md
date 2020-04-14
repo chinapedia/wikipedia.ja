@@ -1,4 +1,4 @@
-> この記事は[LIVE COMPLETE \'9596](https://ja.wikipedia.org/wiki/LIVE_COMPLETE_\'9596)から翻訳されています。
+> この記事は[LIVE COMPLETE \'95〜96](https://ja.wikipedia.org/wiki/LIVE_COMPLETE_\'95〜96)から翻訳されています。
 
 
 **LIVE COMPLETE '95〜'96**（ライブ・コンプリート・ナインティーンナインティファイブ〜ナインティーンナインティシックス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

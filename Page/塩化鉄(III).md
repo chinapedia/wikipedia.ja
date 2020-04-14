@@ -1,4 +1,4 @@
-> この記事は[\(III\)](https://ja.wikipedia.org/wiki/\(III\))から翻訳されています。
+> この記事は[塩化鉄\(III\)](https://ja.wikipedia.org/wiki/塩化鉄\(III\))から翻訳されています。
 
 
 {{ Infobox 化合物 | name=塩化鉄(III) | 画像=[Iron(III)_chloride_hexahydrate.jpg](https://ja.wikipedia.org/wiki/File:Iron\(III\)_chloride_hexahydrate.jpg "fig:Iron(III)_chloride_hexahydrate.jpg")

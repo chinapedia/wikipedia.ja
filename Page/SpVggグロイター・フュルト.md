@@ -1,4 +1,4 @@
-> この記事は[SpVgg](https://ja.wikipedia.org/wiki/SpVgg)から翻訳されています。
+> この記事は[SpVggグロイター・フュルト](https://ja.wikipedia.org/wiki/SpVggグロイター・フュルト)から翻訳されています。
 
 
 **SpVggグロイター・フュルト**（**SpVgg Greuther Fürth**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")・[フュルト](../Page/フュルト.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前には三度の優勝を果たした古豪だが、ブンデスリーガ発足後はもっぱらブンデスリーガ2部か[レギオナルリーガ](https://ja.wikipedia.org/wiki/レギオナルリーガ "wikilink")に所属している。ユニフォームは緑と白。すぐ近くに[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")（南東約7km程）があるため、[1.FCニュルンベルク](../Page/1.FCニュルンベルク.md "wikilink")とはライバル関係にある。

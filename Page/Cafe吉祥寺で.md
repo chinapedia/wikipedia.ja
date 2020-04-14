@@ -1,4 +1,4 @@
-> この記事は[Cafe](https://ja.wikipedia.org/wiki/Cafe)から翻訳されています。
+> この記事は[Cafe吉祥寺で](https://ja.wikipedia.org/wiki/Cafe吉祥寺で)から翻訳されています。
 
 
 『**Café吉祥寺で**』（カフェきちじょうじで）は、日本のドラマCDおよび[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[東京](../Page/東京.md "wikilink")の[武蔵野にあるカフェを舞台に](../Page/武蔵野市.md "wikilink")5人の美形の店員と40代のマスターがいろいろ騒動を起こす[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・ユナイテッドステイツ王座](https://ja.wikipedia.org/wiki/WWE・ユナイテッドステイツ王座)から翻訳されています。
 
 
 **WWEユナイテッド・ステイツ王座**（*WWE United States Championship*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座の一つ](../Page/チャンピオンベルト.md "wikilink")。英語の頭文字をとってUS王座という略称で表現される。団体の中堅クラスの王座であり、扱いは[インターコンチネンタル王座とほぼ同じである](../Page/WWE・インターコンチネンタル王座.md "wikilink")。

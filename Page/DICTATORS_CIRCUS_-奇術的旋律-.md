@@ -1,4 +1,4 @@
-> この記事は[DICTATORS CIRCUS --](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_--)から翻訳されています。
+> この記事は[DICTATORS CIRCUS -奇術的旋律-](https://ja.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律-)から翻訳されています。
 
 
 『**DICTATORS CIRCUS -奇術的旋律-**』（ディクティターズ・サーカス -きじゅつてきせんりつ-）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後5枚目に発売されたアルバム。PIERROT初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

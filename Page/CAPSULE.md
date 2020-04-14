@@ -520,6 +520,7 @@ B1.the Time is Now</p></td>
   -
   -
   -
+  -
 [Category:エレクトロニック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ミュージシャン "wikilink") [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:エレクトロニック・ダンス・ミュージック](https://ja.wikipedia.org/wiki/Category:エレクトロニック・ダンス・ミュージック "wikilink") [Category:テクノポップ](https://ja.wikipedia.org/wiki/Category:テクノポップ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  [CAPSULE|ASOBISYSTEM](http://asobisystem.com/capsule/)（ASOBISYSTEM）

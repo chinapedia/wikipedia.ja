@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[PCエンジンのゲームタイトル一覧](https://ja.wikipedia.org/wiki/PCエンジンのゲームタイトル一覧)から翻訳されています。
 
 
 **PCエンジンのゲームタイトル一覧**（ピーシーエンジンのゲームタイトルいちらん）では、[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")（NECホームエレクトロニクス）が発売した[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")である[PCエンジン](../Page/PCエンジン.md "wikilink")対応として発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")を一覧としてまとめる。

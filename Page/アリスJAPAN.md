@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[アリスJAPAN](https://ja.wikipedia.org/wiki/アリスJAPAN)から翻訳されています。
 
 
 **アリスJAPAN**（アリスジャパン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアダルトビデオメーカーである。JHVグループ内メーカーの**EROTICA**についてもここにまとめる。

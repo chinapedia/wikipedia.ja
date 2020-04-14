@@ -1,4 +1,4 @@
-> この記事は[NIKKEI](https://ja.wikipedia.org/wiki/NIKKEI)から翻訳されています。
+> この記事は[ラジオNIKKEI賞](https://ja.wikipedia.org/wiki/ラジオNIKKEI賞)から翻訳されています。
 
 
 **ラジオNIKKEI賞**（ラジオニッケイしょう）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")（JRA）が[福島競馬場](../Page/福島競馬場.md "wikilink")で施行する[中央競馬](../Page/中央競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[GIII](../Page/競馬の競走格付け.md "wikilink")）である。

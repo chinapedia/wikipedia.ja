@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iネット飯山](https://ja.wikipedia.org/wiki/Iネット飯山)から翻訳されています。
 
 
 **iネット飯山**（あいネットいいやま）は、長野県飯山市が運営している[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。

@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJニラ](https://ja.wikipedia.org/wiki/DJニラ)から翻訳されています。
 
 
 **DJニラ**（ディー・ジェー・ニラ、[1月14日](../Page/1月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")。生年非公開。出身地は2012年5月3日のDDT新潟大会で新潟出身と暴露された。

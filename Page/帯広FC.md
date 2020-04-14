@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[帯広FC](https://ja.wikipedia.org/wiki/帯広FC)から翻訳されています。
 
 
 **帯広フットボールクラブ**（おびひろフットボールクラブ）とは、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")を本拠地とするサッカークラブ。[第3種(U-15)](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第3種 "wikilink")・[第4種(U-12)チームを運営する](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第4種 "wikilink")。かつては[第1種(社会人)](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第1種 "wikilink")・[第2種(U-18)チームも有していたものの休止している](https://ja.wikipedia.org/wiki/日本サッカー協会チーム登録種別#第2種 "wikilink")\[1\]。

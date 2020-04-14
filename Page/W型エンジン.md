@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[W型エンジン](https://ja.wikipedia.org/wiki/W型エンジン)から翻訳されています。
 
 
 [Napier_Lion_W12_@_Brooklands_Museum.JPG](https://ja.wikipedia.org/wiki/File:Napier_Lion_W12_@_Brooklands_Museum.JPG "fig:Napier_Lion_W12_@_Brooklands_Museum.JPG")エンジン\]\] [W-Engine_with_60_Degree_angle.gif](https://ja.wikipedia.org/wiki/File:W-Engine_with_60_Degree_angle.gif "fig:W-Engine_with_60_Degree_angle.gif") **W型エンジン**（ダブリューがたエンジン）とは、一本の[クランクシャフト](../Page/クランクシャフト.md "wikilink")に対し、3バンクまたは4バンクの[シリンダー](../Page/シリンダー.md "wikilink")をW字状（[扇状](../Page/扇子.md "wikilink")）に配置した[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。4列で放射状に配列したものは[X型エンジン](https://ja.wikipedia.org/wiki/X型エンジン "wikilink")、それ以上は[星型エンジン](../Page/星型エンジン.md "wikilink")となる。3バンクのものは 英国政府支給品のマークに似ているため**[ブロードアロー](https://ja.wikipedia.org/wiki/ブロードアロー "wikilink")**型とも呼ばれる。\[1\]\[2\]

@@ -1,7 +1,7 @@
 > この記事は[MEGAMI](https://ja.wikipedia.org/wiki/MEGAMI)から翻訳されています。
 
 
-**MEGAMI**は、株式会社[ピックス](https://ja.wikipedia.org/wiki/ピックス "wikilink")及び株式会社[スタジオオフサイド](https://ja.wikipedia.org/wiki/スタジオオフサイド "wikilink")の過去に存在した[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
+**MEGAMI**は、ポニーテールソフトから分裂した会社で、[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")です。
 
 なお、ブランド名の表記が時代により様々であるが（Megami、megamiと表記されている作品がある）、最後の作品である『はなきゅ〜』及び最終的に[ウェブページ](../Page/ウェブページ.md "wikilink")で表記されていた「**MEGAMI**」と表記する。
 

@@ -1,4 +1,4 @@
-> この記事は[DoS](https://ja.wikipedia.org/wiki/DoS)から翻訳されています。
+> この記事は[DoS攻撃](https://ja.wikipedia.org/wiki/DoS攻撃)から翻訳されています。
 
 
 **DoS攻撃**（ドスこうげき）（英：Denial of Service attack）は、[情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")における[可用性](../Page/可用性.md "wikilink")を侵害する攻撃手法のひとつ。
@@ -27,7 +27,7 @@ DDoS攻撃の類型は2つあり、第一のものは攻撃者が大量のマシ
 
 DRDoS攻撃に使える主なプロトコルとして、 がある\[9\]。
 
-NetBIOSネームサーバやRPCポートマップなどへのリクエストを利用する攻撃も観測されてる\[10\]。 協調分散型DDoS攻撃とDRDoS攻撃が組み合わされることもある\[11\]。
+NetBIOSネームサーバやRPCポートマップなどへのリクエストを利用する攻撃も観測されている\[10\]。 協調分散型DDoS攻撃とDRDoS攻撃が組み合わされることもある\[11\]。
 
 ## 攻撃手法
 
@@ -76,7 +76,7 @@ UDPベース増幅攻撃の中でも[NTP](https://ja.wikipedia.org/wiki/NTP "wik
 ## 攻撃ツール
 
   - 荒らしプログラムとは、主に[Web](../Page/World_Wide_Web.md "wikilink")[掲示板を荒らすために作られたプログラムを指すが](../Page/電子掲示板.md "wikilink")、内容としては[HTMLの解析やHTMLFORMの送信機能を備え](../Page/HyperText_Markup_Language.md "wikilink")、連続投稿を可能とした[HTTPクライアントで](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[DoS](https://ja.wikipedia.org/wiki/DoS "wikilink")攻撃プログラムに準じている。**F5アタック**が[WebブラウザからのGETメソッドによるhttpアクセスしか出来ないのに対し荒らしプログラムは様々なメソッドにおいてのアクセスを可能としている](../Page/ウェブブラウザ.md "wikilink")。また前述した**DDoS**に準じ、**踏み台**となったサーバからの一斉攻撃を行うものもある。少しHTMLの知識があれば使える物や、アドレスを入力するだけで使えるようになる(自動解析)ツールも存在する。主に[Perl](../Page/Perl.md "wikilink")によって記述されるが、これも**踏み台**とされたサーバでの利便性を考えたものである。
-  - [LOIC](https://ja.wikipedia.org/wiki/LOIC "wikilink")は、[アノニマスの常とう手段となっていた](https://ja.wikipedia.org/wiki/アノニマス_\(集団\) "wikilink")。例えば[2010年ペイバック作戦](https://ja.wikipedia.org/wiki/2010年ペイバック作戦 "wikilink")においても使われた。
+  - [LOIC](https://ja.wikipedia.org/wiki/LOIC "wikilink")は、[アノニマスの常套手段となっていた](https://ja.wikipedia.org/wiki/アノニマス_\(集団\) "wikilink")。例えば[2010年ペイバック作戦](https://ja.wikipedia.org/wiki/2010年ペイバック作戦 "wikilink")においても使われた。
   - HOIC（[High Orbit IonCanon](https://ja.wikipedia.org/wiki/:en:High_Orbit_Ion_Cannon "wikilink")）は、[LOIC](https://ja.wikipedia.org/wiki/LOIC "wikilink")の後継として[2010年ペイバック作戦](https://ja.wikipedia.org/wiki/2010年ペイバック作戦 "wikilink")の時期に開発された。
   - [Slowlorisは](https://ja.wikipedia.org/wiki/:en:Slowloris_\(software\) "wikilink")、Slow HTTP Headers攻撃を再現する。
   - [Stacheldraht](https://ja.wikipedia.org/wiki/:en:Stacheldraht "wikilink")（独：「有刺鉄線」の意）は図に示すように、踏み台側のエージェントと、エージェントを操るハンドラーと、攻撃者がハンドラーを操るクライアントから成るDDoS攻撃ツールである。

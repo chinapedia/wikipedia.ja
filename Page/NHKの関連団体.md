@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKの関連団体](https://ja.wikipedia.org/wiki/NHKの関連団体)から翻訳されています。
 
 
 **NHKの関連団体**（エヌエイチケイのかんれんだんたい）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)の[子会社](../Page/子会社.md "wikilink")・[公益法人](../Page/公益法人.md "wikilink")・[関連会社](../Page/関連会社.md "wikilink")について記載する。

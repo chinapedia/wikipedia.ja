@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[酸化銅\(II\)](https://ja.wikipedia.org/wiki/酸化銅\(II\))から翻訳されています。
 
 
 | Solubility1 = 不溶 | Solvent1 = アルコール | Solubility2 = 可溶 | Solvent2 = アンモニア水 | BandGap = 1.2 [eV](https://ja.wikipedia.org/wiki/eV "wikilink") | pKa = | pKb =

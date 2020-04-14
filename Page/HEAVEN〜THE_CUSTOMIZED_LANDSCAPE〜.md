@@ -1,4 +1,4 @@
-> この記事は[HEAVENTHE CUSTOMIZED LANDSCAPE](https://ja.wikipedia.org/wiki/HEAVENTHE_CUSTOMIZED_LANDSCAPE)から翻訳されています。
+> この記事は[HEAVEN〜THE CUSTOMIZED LANDSCAPE〜](https://ja.wikipedia.org/wiki/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜)から翻訳されています。
 
 
 『**HEAVEN 〜THE CUSTOMIZED LANDSCAPE〜**』（ヘヴン ザ・カスタマイズド・ランドスケープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")のメジャーデビュー後、3枚目に発売されたアルバム。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に発売される。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ALL REQUEST PROGRAM !](https://ja.wikipedia.org/wiki/ALL_REQUEST_PROGRAM_!)から翻訳されています。
+> この記事は[ALL REQUEST PROGRAM オーレオーレ!](https://ja.wikipedia.org/wiki/ALL_REQUEST_PROGRAM_オーレオーレ!)から翻訳されています。
 
 
 **ALL REQUEST PROGRAM オーレオーレ\!**（オール・リクエスト・プログラム オーレオーレ\!）は、[YBCラジオで土曜](../Page/山形放送.md "wikilink") 12:10 - 15:00まで放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

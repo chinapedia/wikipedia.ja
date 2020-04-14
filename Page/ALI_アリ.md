@@ -1,4 +1,4 @@
-> この記事は[ALI ](https://ja.wikipedia.org/wiki/ALI_)から翻訳されています。
+> この記事は[ALI アリ](https://ja.wikipedia.org/wiki/ALI_アリ)から翻訳されています。
 
 
 『**ALI アリ**』（*Ali*）は、[2001年公開の](../Page/2001年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。

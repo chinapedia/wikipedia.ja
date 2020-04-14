@@ -1,4 +1,4 @@
-> この記事は[First Love \(\)](https://ja.wikipedia.org/wiki/First_Love_\(\))から翻訳されています。
+> この記事は[First Love \(宇多田ヒカルのアルバム\)](https://ja.wikipedia.org/wiki/First_Love_\(宇多田ヒカルのアルバム\))から翻訳されています。
 
 
 『**First Love**』（ファースト・ラヴ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")発売。

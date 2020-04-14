@@ -1,4 +1,4 @@
-> この記事は[JEEP \(\)](https://ja.wikipedia.org/wiki/JEEP_\(\))から翻訳されています。
+> この記事は[JEEP \(アルバム\)](https://ja.wikipedia.org/wiki/JEEP_\(アルバム\))から翻訳されています。
 
 
 『**JEEP**』（ジープ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の12枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。

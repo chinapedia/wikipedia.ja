@@ -1,4 +1,4 @@
-> この記事は[SWAN \(\)](https://ja.wikipedia.org/wiki/SWAN_\(\))から翻訳されています。
+> この記事は[SWAN \(漫画\)](https://ja.wikipedia.org/wiki/SWAN_\(漫画\))から翻訳されています。
 
 
 『**SWAN**』（スワン）は、[有吉京子](../Page/有吉京子.md "wikilink")の漫画。[1976年](../Page/1976年.md "wikilink")から[1981年](../Page/1981年.md "wikilink")まで『[週刊マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』に連載された。のち、続編が『**Maia まいあ—SWAN act II**』（2005年 - 2009年）、『**SWAN モスクワ編**』（2010年 - 2013年）、『**SWAN ドイツ編**』（2014年 - 2018年）として、[平凡社](../Page/平凡社.md "wikilink")の『SWAN MAGAZINE』にて連載された。また、姉妹編として『**SWAN -白鳥の祈り-**』が1982年から1983年にかけて『週刊マーガレット』に連載された。

@@ -1,4 +1,4 @@
-> この記事は[NHK \(\)](https://ja.wikipedia.org/wiki/NHK_\(\))から翻訳されています。
+> この記事は[NHK杯 \(競馬\)](https://ja.wikipedia.org/wiki/NHK杯_\(競馬\))から翻訳されています。
 
 
 **NHK杯**（エヌエイチケイはい）は、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink")が[東京競馬場](../Page/東京競馬場.md "wikilink")で施行していた[中央競馬](../Page/中央競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[GII](../Page/競馬の競走格付け.md "wikilink")）である。[東京優駿](https://ja.wikipedia.org/wiki/東京優駿 "wikilink")（日本ダービー）の[トライアル競走](../Page/トライアル競走.md "wikilink")として行われ\[1\]、上位入着馬に東京優駿の優先出走権が与えられていた。

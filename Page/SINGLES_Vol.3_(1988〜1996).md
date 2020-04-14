@@ -1,4 +1,4 @@
-> この記事は[SINGLES Vol.3 \(19881996\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.3_\(19881996\))から翻訳されています。
+> この記事は[SINGLES Vol.3 \(1988〜1996\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.3_\(1988〜1996\))から翻訳されています。
 
 
 『**SINGLES Vol.3 (1988〜1996)**』（シングルス・ボリューム・スリー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

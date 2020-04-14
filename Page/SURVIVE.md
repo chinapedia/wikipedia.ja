@@ -35,7 +35,7 @@ B'zの結成10周年を迎える直前の作品であり、これまでの集大
         タイトルは、雑誌「[鳩よ\!](https://ja.wikipedia.org/wiki/鳩よ! "wikilink")」が元になっているらしい。
         [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体の楽曲で、編曲を担当した[徳永暁人](../Page/徳永暁人.md "wikilink")のテイストが色濃く出ている。
         沖縄で制作され、元々は大人っぽい雰囲気のメロウな曲だったという。
-        31stシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」の[2nd beatには一部の歌詞を変更](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")・追加してアレンジしたものが収録された。
+        31stシングル『[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")』の[2nd beatには一部の歌詞を変更](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")・追加してアレンジしたものが収録された。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』の収録曲を決めるファン投票では15位に入った。『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』のファン投票でも15位となり初のベスト・アルバム収録を果たした\[6\]。
         1997年の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』出演時には、「Calling」と共に披露された。その際、間奏の[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音を松本のギターソロに、その後の打ち込み音は[ベースの](../Page/ベース_\(弦楽器\).md "wikilink")[スラップに変更されるなど](../Page/スラップ奏法.md "wikilink")、多少アレンジが加えられた状態で演奏された。
         2000年に発売されたライブ映像作品『[once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』の発売前に「映像化して欲しいライブ映像」のリクエストを募集したところ1位を獲得し、同作では[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")として『B'z LIVE-GYM '98 "SURVIVE"』で演奏された模様が収録されている。

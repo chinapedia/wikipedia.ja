@@ -1,4 +1,4 @@
-> この記事は[CBX](https://ja.wikipedia.org/wiki/CBX)から翻訳されています。
+> この記事は[ヤマハ・CBXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・CBXシリーズ)から翻訳されています。
 
 
 **CBXシリーズ**（シービーエックス・シリーズ）とは[ヤマハ](../Page/ヤマハ.md "wikilink")の[DTM用の商品群の名称](../Page/デスクトップミュージック.md "wikilink")。

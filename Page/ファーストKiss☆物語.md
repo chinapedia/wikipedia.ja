@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[ファーストKiss☆物語](https://ja.wikipedia.org/wiki/ファーストKiss☆物語)から翻訳されています。
 
 
 『**ファーストKiss☆物語**』（ファーストキッスストーリー）は、1998年4月24日に[NECホームエレクトロニクスより発売された](../Page/日本電気ホームエレクトロニクス.md "wikilink")[PC-FX](../Page/PC-FX.md "wikilink")用[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。PC-FX最後のタイトルとなった。

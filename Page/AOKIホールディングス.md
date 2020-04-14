@@ -1,4 +1,4 @@
-> この記事は[AOKI](https://ja.wikipedia.org/wiki/AOKI)から翻訳されています。
+> この記事は[AOKIホールディングス](https://ja.wikipedia.org/wiki/AOKIホールディングス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Aoki_Nagoya-Joshin-Souhonten.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AOKI.jpg "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[旭川市](../Page/旭川市.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AOKI4434.jpg "wikilink")[枚方市](../Page/枚方市.md "wikilink")）\]\] [thumbの店舗の例](https://ja.wikipedia.org/wiki/ファイル:AOKI-Tatomi-Rivercity.JPG "wikilink") メンズプラザアオキ田富リバーシティ店（[山梨県](../Page/山梨県.md "wikilink")[昭和町](../Page/昭和町.md "wikilink")・2006年12月25日撮影）\]\] **株式会社AOKIホールディングス**（アオキホールディングス、英：*AOKI Holdings Inc.*）は、メンズ・レディスの衣料品及び服飾品の企画販売を主軸事業とする[持株会社](../Page/持株会社.md "wikilink")である。

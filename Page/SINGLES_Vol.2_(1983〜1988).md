@@ -1,4 +1,4 @@
-> この記事は[SINGLES Vol.2 \(19831988\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.2_\(19831988\))から翻訳されています。
+> この記事は[SINGLES Vol.2 \(1983〜1988\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.2_\(1983〜1988\))から翻訳されています。
 
 
 『**SINGLES Vol.2 (1983〜1988)**』（シングルス・ボリューム・ツー－）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

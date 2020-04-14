@@ -1,15 +1,15 @@
 > この記事は[Tera Term](https://ja.wikipedia.org/wiki/Tera_Term)から翻訳されています。
 
 
-**Tera Term**（テラターム）は、元々は物理学者の寺西 高（てらにし たかし）によって開発・公開され、現在ではTeraTerm Projectによって[修正BSDライセンス](../Page/BSDライセンス.md "wikilink")（[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")）でサポートされているリモートログオン[クライアントである](../Page/クライアント_\(コンピュータ\).md "wikilink")。
+**Tera Term**（テラターム）は、寺西 高（てらにし たかし）により開発されたリモートログオン[クライアントである](../Page/クライアント_\(コンピュータ\).md "wikilink")。現在では**TeraTerm Project**により[オープンソース](../Page/オープンソース.md "wikilink")（[修正BSDライセンス](../Page/BSDライセンス.md "wikilink")）として開発されている。
 
-本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")・[シリアルの各](../Page/シリアルポート.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応し、[Microsoft Windowsで使用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")・[シリアルの各](../Page/シリアルポート.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応し、[Microsoft Windowsで使用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 沿革
 
 ### オリジナルの開発・公開
 
-寺西高によるオリジナルは、1994年から1998年にかけて開発された。 [16ビット](../Page/16ビット.md "wikilink")版の**Tera Term**と[32ビット](../Page/32ビット.md "wikilink")版の**Tera Term Pro**が有り（以降では明記しない限りは16ビット版と32ビット版を明確に区別せずに**Tera Term**と記述する）、telnetによる[リモートホスト](../Page/リモートホスト.md "wikilink")への接続と、シリアルポートでの接続を可能とし、[マクロを備えているのが特徴であった](../Page/マクロ言語.md "wikilink")。
+物理学者の寺西高によるオリジナルは、1994年から1998年にかけて開発された。 [16ビット](../Page/16ビット.md "wikilink")版の**Tera Term**と[32ビット](../Page/32ビット.md "wikilink")版の**Tera Term Pro**が有り（以降では明記しない限りは16ビット版と32ビット版を明確に区別せずに**Tera Term**と記述する）、telnetによる[リモートホスト](../Page/リモートホスト.md "wikilink")への接続と、シリアルポートでの接続を可能とし、[マクロを備えているのが特徴であった](../Page/マクロ言語.md "wikilink")。
 
 [XMODEM](../Page/XMODEM.md "wikilink")や[ZMODEM](https://ja.wikipedia.org/wiki/ZMODEM "wikilink")などの[バイナリ転送プロトコル](../Page/バイナリ転送プロトコル.md "wikilink")もサポートしており、[パソコン通信](../Page/パソコン通信.md "wikilink")や[UNIX](../Page/UNIX.md "wikilink")への[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")に好く使われていた。 [組み込み分野では](../Page/組み込みシステム.md "wikilink")[ハードウェア](../Page/ハードウェア.md "wikilink")に[シリアルポート](../Page/シリアルポート.md "wikilink")で接続し、機器の試験のためにマクロ機能が利用されることも多かった。
 

@@ -1,4 +1,4 @@
-> この記事は[LOVE SONGS \(\)](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(\))から翻訳されています。
+> この記事は[LOVE SONGS \(長渕剛のアルバム\)](https://ja.wikipedia.org/wiki/LOVE_SONGS_\(長渕剛のアルバム\))から翻訳されています。
 
 
 『**LOVE SONGS**』（ラブ・ソングス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

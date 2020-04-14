@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[アルバート・O・ハーシュマン](https://ja.wikipedia.org/wiki/アルバート・O・ハーシュマン)から翻訳されています。
 
 
 [thumb将軍の軍事裁判にて通訳を務めるハーシュマン](https://ja.wikipedia.org/wiki/ファイル:Dostlertrial.jpg "wikilink")。（1945年）\]\] **アルバート・O・ハーシュマン**（Albert Otto Hirschman, [1915年](../Page/1915年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身の[経済学者](../Page/経済学者.md "wikilink")。専門は[政治経済学](../Page/政治経済学.md "wikilink")、[開発経済学](../Page/開発経済学.md "wikilink")。

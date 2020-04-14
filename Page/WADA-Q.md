@@ -153,6 +153,164 @@
 </tbody>
 </table>
 
+### 全日本ツーリングカー選手権 (JTC)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>チーム</p></th>
+<th><p>使用車両</p></th>
+<th><p>クラス</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1991年の全日本ツーリングカー選手権" title="wikilink">1991年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Object_T" title="wikilink">Object T</a></p></td>
+<td><p><a href="../Page/トヨタ・カローラレビン.md" title="wikilink">トヨタ・カローラレビン</a></p></td>
+<td><p>JTC-3</p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/筑波サーキット.md" title="wikilink">TSU</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN</a><br />
+<small>6</small></p></td>
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a><br />
+<small>7</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1992年の全日本ツーリングカー選手権" title="wikilink">1992年</a></p></td>
+<td><p>JTC-3</p></td>
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TIA</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/オートポリス.md" title="wikilink">AUT</a><br />
+<small>2</small></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
+<small>1</small></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/筑波サーキット.md" title="wikilink">TSU</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW</a><br />
+<small>Ret</small></p></td>
+<td><p>8位</p></td>
+<td><p>57</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 全日本ツーリングカー選手権 (JTCC)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>チーム</p></th>
+<th><p>使用車両</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>11</p></th>
+<th><p>12</p></th>
+<th><p>13</p></th>
+<th><p>14</p></th>
+<th><p>15</p></th>
+<th><p>16</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年の全日本ツーリングカー選手権" title="wikilink">1995年</a></p></td>
+<td></td>
+<td><p><a href="../Page/フォード・モンデオ.md" title="wikilink">フォード・モンデオ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW1</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW2</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG1</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG2</a></p></td>
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK1</a></p></td>
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK2</a></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ1</a></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ2</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN1</a></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN2</a></p></td>
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI1</a></p></td>
+<td><p><a href="../Page/岡山国際サーキット.md" title="wikilink">TAI2</a></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN1</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN2</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW1</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW2</a><br />
+<small>17</small></p></td>
+<td><p>NC</p></td>
+<td><p>0</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1996年の全日本ツーリングカー選手権" title="wikilink">1996年</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW1</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW2</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG1</a></p></td>
+<td><p><a href="../Page/スポーツランドSUGO.md" title="wikilink">SUG2</a></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ1</a><br />
+<small>16</small></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ2</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN1</a><br />
+<small>9</small></p></td>
+<td><p><a href="../Page/MINEサーキット.md" title="wikilink">MIN2</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN1</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/仙台ハイランド.md" title="wikilink">SEN2</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK1</a></p></td>
+<td><p><a href="../Page/十勝スピードウェイ.md" title="wikilink">TOK2</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW1</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/富士スピードウェイ" title="wikilink">FSW2</a></p></td>
+<td></td>
+<td></td>
+<td><p>18位</p></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 全日本GT選手権/SUPER GT
 
 <table>

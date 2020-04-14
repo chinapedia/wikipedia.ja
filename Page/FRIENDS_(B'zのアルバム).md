@@ -1,4 +1,4 @@
-> この記事は[FRIENDS \(B\'z\)](https://ja.wikipedia.org/wiki/FRIENDS_\(B\'z\))から翻訳されています。
+> この記事は[FRIENDS \(B\'zのアルバム\)](https://ja.wikipedia.org/wiki/FRIENDS_\(B\'zのアルバム\))から翻訳されています。
 
 
 『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[BMGルームスからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")4作目のミニ・アルバムである。また[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")には、このアルバムの続編である『[FRIENDS II](../Page/FRIENDS_II.md "wikilink")』が発売された。
@@ -7,17 +7,17 @@
 
 ジャケットには、[イングランド](../Page/イングランド.md "wikilink")の写真家Michael Kennaの作品「Deckchairs, Bournemouth, Dorset, England」が使用されている\[1\]。初回盤のみCDケースを入れる紙製のスリーブケースが付属している。
 
-9thシングル「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」からの「B'z」ロゴマークが使用された最後のアルバム(シングルでは13thシングル「[裸足の女神](../Page/裸足の女神.md "wikilink")」まで)。
+9thシングル『[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")』からの「B'z」ロゴマークが使用された最後のアルバム\[2\]。
 
 本作より、クレジットにて[ベースが表記されるようになった](../Page/ベース_\(弦楽器\).md "wikilink")。
 
-本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")となっており\[2\]、内容は『回想』『再会』『葛藤』『解決』のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
+本作は全楽曲で1つのストーリー性を持たせた[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")となっており\[3\]、内容は『回想』『再会』『葛藤』『解決』のシーンからなるラブストーリーで、アルバムタイトル『**FRIENDS**』はストーリーのテーマにあたる。本作について[松本孝弘](../Page/松本孝弘.md "wikilink")は、「映画のサウンドトラックのようなアルバムを作りたかった」と述べている。
 
 作詞について[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")は「全ての楽曲の歌詞は飛行機での移動中に4曲同時進行で書いた」と語っている。
 
 曲順表記は「\#1」などではなく、「**SCENE1**」など独特の表記になっているのも特徴。
 
-1999年8月に[日本レコード協会](../Page/日本レコード協会.md "wikilink")より、2ミリオン認定を受けた\[3\]。
+1999年8月に[日本レコード協会](../Page/日本レコード協会.md "wikilink")より、2ミリオン認定を受けた\[4\]。
 
 ## 収録曲
 
@@ -36,11 +36,11 @@
 4.  2-2. **Love is ...** (1:26)
       -
         インストゥルメンタル。
-        [オルゴール](../Page/オルゴール.md "wikilink")のような雰囲気で[キーボードで演奏されている](../Page/キーボード_\(楽器\).md "wikilink")。メロディは次曲「恋じゃなくなる日」と同様\[4\]。
+        [オルゴール](../Page/オルゴール.md "wikilink")のような雰囲気で[キーボードで演奏されている](../Page/キーボード_\(楽器\).md "wikilink")。メロディは次曲「恋じゃなくなる日」と同様\[5\]。
 5.  SCENE3. **恋じゃなくなる日** (4:51)
       -
         一転して激しいギターによるイントロから始まる。
-        ファンの人気が高く、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』のファン投票で10位にランクインして収録された\[5\]。
+        ファンの人気が高く、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』のファン投票で10位にランクインして収録された\[6\]。
         2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで3位、2017年に行われた同会報の「LIVE-GYMで聴きたいB'zナンバー」のアンケートでも3位に選ばれたが、『[B'z LIVE-GYM'93 "RUN"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降は演奏されていない。
 6.  SCENE4. **SEASONS** (1:14)
       -
@@ -48,7 +48,7 @@
         松本の[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")のみの演奏。
 7.  SCENE5. **どうしても君を失いたくない** (6:07)
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』のエンディングテーマとして1992年4月10日から2002年2月22日までこの曲のインストゥルメンタル「どうしても君を失いたくない -Instrumental-」が使用されていたが、このバージョンは音源化されていない\[6\]。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』のエンディングテーマとして1992年4月10日から2002年2月22日までこの曲のインストゥルメンタル「どうしても君を失いたくない -Instrumental-」が使用されていたが、このバージョンは音源化されていない\[7\]。
 8.  6\. **いつかのメリークリスマス (Reprise)** (1:23)
       -
         SCENE1「いつかのメリークリスマス」のメロディを流用したインストゥルメンタル。[ピアノ](../Page/ピアノ.md "wikilink")の[独奏](https://ja.wikipedia.org/wiki/独奏 "wikilink")。
@@ -83,8 +83,9 @@
 [Category:B'zのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:B'zのミニ・アルバム "wikilink") [Category:1992年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1992年のミニ・アルバム "wikilink") [Category:BMGルームスのアルバム](https://ja.wikipedia.org/wiki/Category:BMGルームスのアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink") [Category:1992年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1992年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.
-2.
+2.  シングルでは13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』まで。
 3.
 4.
 5.
-6.  歌は入っていないが、曲と[コーラスは原曲からそのままインストゥルメンタルへ流用している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、歌っている部分は歌の代わりにギター音が入っている
+6.
+7.  歌は入っていないが、曲と[コーラスは原曲からそのままインストゥルメンタルへ流用している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、歌っている部分は歌の代わりにギター音が入っている

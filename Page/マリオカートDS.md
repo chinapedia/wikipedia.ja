@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[マリオカートDS](https://ja.wikipedia.org/wiki/マリオカートDS)から翻訳されています。
 
 
 『**マリオカートDS**』（マリオカートディーエス、**Mario Kart DS**)は、[マリオカートシリーズ](../Page/マリオカートシリーズ.md "wikilink")5作目で、[任天堂](../Page/任天堂.md "wikilink")開発・発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
@@ -442,7 +442,7 @@
 
 ## 外部リンク
 
-  - [マリオカートDS](http://www.nintendo.co.jp/ds/amcj/index.html)
+  - [マリオカートDS](https://www.nintendo.co.jp/ds/amcj/)
   - [マリオカートDS](https://www.nintendo.co.jp/titles/20010000011949) - Wii Uバーチャルコンソール
 
 [Category:マリオカート](https://ja.wikipedia.org/wiki/Category:マリオカート "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink")

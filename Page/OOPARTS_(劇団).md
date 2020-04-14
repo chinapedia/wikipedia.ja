@@ -1,19 +1,36 @@
-> この記事は[OOPARTS \(\)](https://ja.wikipedia.org/wiki/OOPARTS_\(\))から翻訳されています。
+> この記事は[OOPARTS \(劇団\)](https://ja.wikipedia.org/wiki/OOPARTS_\(劇団\))から翻訳されています。
 
 
-**OOPARTS**（**オーパーツ**）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のかつての[劇団](../Page/劇団.md "wikilink")で現在は鈴井貴之による演劇プロジェクトである。劇団時の主宰は[鈴井貴之](../Page/鈴井貴之.md "wikilink")。
+**OOPARTS**（**オーパーツ**）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のかつてあった[劇団](../Page/劇団.md "wikilink")で、現在は[鈴井貴之](../Page/鈴井貴之.md "wikilink")による演劇プロジェクトである。劇団時の主宰は[鈴井貴之](../Page/鈴井貴之.md "wikilink")。
 
 ## 概要（旗揚げ～完全消滅）
 
-鈴井が、それまで率いていた487パラシュートを解散した後、自らを中心として、487パラシュートの役者や[北海道大学](../Page/北海道大学.md "wikilink")、[北星学園大学](../Page/北星学園大学.md "wikilink")などの演劇研究会出身など札幌で活躍中の役者達を集め、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月「LIFE」（作、演出・鈴井貴之）で旗揚げする。旗揚げ公演には現・[劇団イナダ組](../Page/劇団イナダ組.md "wikilink")の[稲田博](https://ja.wikipedia.org/wiki/稲田博 "wikilink")が出演していたことはあまり知られていない。
+鈴井が、それまで率いていた487パラシュートを解散した後、自らを中心として、487パラシュートの役者や[北海道大学](../Page/北海道大学.md "wikilink")、[北星学園大学](../Page/北星学園大学.md "wikilink")などの演劇研究会出身など札幌で活躍中の役者達を集め、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月「LIFE」（作、演出・鈴井貴之）で旗揚げする。
 
 その後、同年オープンした[札幌西武のオープニングアクトや](../Page/西武百貨店.md "wikilink")[札幌学院大学](../Page/札幌学院大学.md "wikilink")の学校祭へのゲスト出演などを果たし、注目が集まる。この年の冬上演した「LIFE3ストーリーズ」はその後映像化され、[ゆうばり国際ファンタスティック映画祭](../Page/ゆうばり国際ファンタスティック映画祭.md "wikilink")にも出展された。
 
 劇団コンセプトは「ストーリー性のあるドリフターズ」であり、劇団名のOOPARTSとは「アウト・オブ・プレイス・アーティスツ」の略としていたが、これは[オーパーツ](../Page/オーパーツ.md "wikilink")に考古学上の「場違いな工芸品」という意味があることから、そこからもじって「場違いな芸人達」というコンセプトで札幌演劇界に新しい風を送り込んだ。
 
-一度解散し再結成されたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月、「完全消滅」という形で札幌演劇界から姿を消した。
+1992年、[CREATIVE OFFICE CUEの設立に伴い](../Page/CREATIVE_OFFICE_CUE.md "wikilink")、メンバー全員が同社にタレントとして所属。道内の情報・バラエティ番組『にっぽんPUCA²』（[北海道文化放送](../Page/北海道文化放送.md "wikilink")）『[週刊Nanだ\!Canだ\!](../Page/週刊Nanだ!Canだ!.md "wikilink")』『[モザイクな夜](../Page/モザイクな夜V3.md "wikilink")』（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）などの出演を斡旋した。
+
+1995年ごろになると劇団の人気に反して鈴井とメンバーにモチベーションの差が生まれ、フリースペース経営の失敗なども重なって、運営基盤が不安定になっていく。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月の『RYOMA ～蒼き妄想の果て』を最後に「完全消滅」という形で札幌演劇界から姿を消し、メンバーの殆どがCUEからも離脱した。
 
 全公演が鈴井の作・演出だったことからもわかるように鈴井の完全ワンマン劇団だったため、当時、劇団に参加していた[安田顕](../Page/安田顕.md "wikilink")でさえもこの劇団においては際だって目立つこともなく、まさに鈴井が作った鈴井のためだけにある劇団と言っても過言ではなかった。
+
+### 劇団時代の主な所属メンバー
+
+  - 鈴井貴之 - 主宰
+  - [伊藤亜由美](../Page/伊藤亜由美.md "wikilink") - 487パラシュートより参加。鈴井との結婚・出産後はマネジメント業務や飲食店経営で劇団を支える。
+  - [稲田博](https://ja.wikipedia.org/wiki/稲田博 "wikilink") - 旗揚げ後まもなく脱退し、[劇団イナダ組](../Page/劇団イナダ組.md "wikilink")を主宰。
+  - [武田晋](https://ja.wikipedia.org/wiki/武田晋 "wikilink") - 劇団イナダ組より移籍加入。解散前に脱退。
+  - [田中護](https://ja.wikipedia.org/wiki/田中護 "wikilink") - 『モザイクな夜』の初代元気くん。東京進出のため脱退するが、最終公演には凱旋。
+  - [森崎博之](../Page/森崎博之.md "wikilink") - 劇団イナダ組との掛け持ちで加入したものの、本公演に出演しないまま脱退。後に安田らと[TEAM NACSを結成](../Page/TEAM_NACS.md "wikilink")。
+  - 安田顕 - 森崎の紹介（身代わり）で加入。OOPARTS解散後、唯一CUEに残留した。後述の長谷川、金山と「upspeak」を結成。
+  - 伝野隆介 - 鈴井夫妻（当時）と結成した期間限定ユニット「NORTH END × AYUMI」のメンバーでもあった。
+  - 岩村真人
+  - 長谷川首司
+  - 金山幸意
+  - [川島直樹 -](../Page/川島直樹.md "wikilink") 末期に加入し、後年の『[river](../Page/River_\(2003年の映画\).md "wikilink")』スタッフ参加をきっかけにCUEに所属していた時期がある。
 
 ## 復活
 
@@ -27,7 +44,7 @@
 
 2016年2月、プロジェクトの第三弾として舞台公演『HAUNTED HOUSE』を上演\[2\]。
 
-2017年7\~8月、プロジェクトの第四弾として舞台公演『天国への階段』を上演\[3\]。
+2017年7～8月、プロジェクトの第四弾として舞台公演『天国への階段』を上演\[3\]。
 
 ## 公演
 
@@ -80,7 +97,7 @@
 
   - [Out of Place ARTiSt「OOPARTS」（公式ホームページ）](http://ooparts-hokkaido.net/index.php)
 
-[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink")
+[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
 
 1.
 2.

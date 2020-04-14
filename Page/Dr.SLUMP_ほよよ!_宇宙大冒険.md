@@ -1,4 +1,4 @@
-> この記事は[Dr.SLUMP ! ](https://ja.wikipedia.org/wiki/Dr.SLUMP_!_)から翻訳されています。
+> この記事は[Dr.SLUMP ほよよ! 宇宙大冒険](https://ja.wikipedia.org/wiki/Dr.SLUMP_ほよよ!_宇宙大冒険)から翻訳されています。
 
 
 『**Dr.SLUMP “ほよよ\!”宇宙大冒険』**（ドクタースランプほよよスペース・アドベンチャー）は、[1982年](../Page/1982年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[東映](../Page/東映.md "wikilink")系で公開された[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")製作の[長編](https://ja.wikipedia.org/wiki/長編 "wikilink")[アニメーション映画](../Page/アニメーション映画.md "wikilink")作品。鳥山明の漫画『[Dr.スランプ アラレちゃん](../Page/Dr.スランプ_アラレちゃん.md "wikilink")』の劇場版2作。

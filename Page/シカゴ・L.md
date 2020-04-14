@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[シカゴ・L](https://ja.wikipedia.org/wiki/シカゴ・L)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:CTA_red_line_rerouted.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Chicago-Loop-SEcorner.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:UCB050034.JPG "wikilink") **シカゴ・L**（**Chicago 'L**'）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")市の[ダウンタウンを走る](https://ja.wikipedia.org/wiki/ダウンタウン_\(曖昧さ回避\) "wikilink")[高架鉄道](https://ja.wikipedia.org/wiki/高架鉄道 "wikilink")及び[地下鉄](../Page/地下鉄.md "wikilink")である。[シカゴ交通局 (CTA)が路線を保有](https://ja.wikipedia.org/wiki/シカゴ交通局 "wikilink")・運営している。

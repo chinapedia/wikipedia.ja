@@ -1,4 +1,4 @@
-> この記事は[SINGLES Vol.1 \(19781982\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.1_\(19781982\))から翻訳されています。
+> この記事は[SINGLES Vol.1 \(1978〜1982\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.1_\(1978〜1982\))から翻訳されています。
 
 
 『**SINGLES Vol.1 (1978〜1982)**』（シングルス・ボリューム・ワン）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

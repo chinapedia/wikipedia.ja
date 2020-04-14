@@ -1,4 +1,4 @@
-> この記事は[EMD F](https://ja.wikipedia.org/wiki/EMD_F)から翻訳されています。
+> この記事は[EMD Fシリーズ](https://ja.wikipedia.org/wiki/EMD_Fシリーズ)から翻訳されています。
 
 
 [thumbの](https://ja.wikipedia.org/wiki/ファイル:ATSF_DL_in_Kansas.jpg "wikilink")[アッチソン・トピカ・アンド・サンタフェ鉄道](../Page/アッチソン・トピカ・アンド・サンタフェ鉄道.md "wikilink")所属車。貨物用であるがかなり鮮やかな塗装。\]\]

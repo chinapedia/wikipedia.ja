@@ -1,4 +1,4 @@
-> この記事は[VASP](https://ja.wikipedia.org/wiki/VASP)から翻訳されています。
+> この記事は[VASP航空](https://ja.wikipedia.org/wiki/VASP航空)から翻訳されています。
 
 
 **VASP航空**（ヴァスピこうくう、Viação Aérea São Paulo）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[サンパウロ市](https://ja.wikipedia.org/wiki/サンパウロ市 "wikilink")を拠点にする[航空会社](../Page/航空会社.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に運航を停止した。

@@ -1,4 +1,4 @@
-> この記事は[Eo](https://ja.wikipedia.org/wiki/Eo)から翻訳されています。
+> この記事は[Eo光テレビ](https://ja.wikipedia.org/wiki/Eo光テレビ)から翻訳されています。
 
 
 **eo光テレビ**（イオ・ひかりテレビ）は、[関西電力](../Page/関西電力.md "wikilink")グループの[オプテージ](../Page/オプテージ.md "wikilink")が提供している[光放送](../Page/光放送.md "wikilink")（光[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")）のサービス名称である。

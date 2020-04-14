@@ -1,4 +1,4 @@
-> この記事は[CFL](https://ja.wikipedia.org/wiki/CFL)から翻訳されています。
+> この記事は[CFL条件](https://ja.wikipedia.org/wiki/CFL条件)から翻訳されています。
 
 
 **CFL条件**（シーエフエルじょうけん、）または**クーラン条件**とは、[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")によるコンピュータ[シミュレーション](../Page/シミュレーション.md "wikilink")において、「情報が伝播する速さ」は「実際の現象で波や物理量が伝播する速さ」よりも速くなければならないという必要条件のことである。1928年に、Richard Courant、Kurt Friedrichs、Hans Lewyによって提唱された\[1\]。

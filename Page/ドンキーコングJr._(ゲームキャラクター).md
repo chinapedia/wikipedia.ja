@@ -1,4 +1,4 @@
-> この記事は[Jr. \(\)](https://ja.wikipedia.org/wiki/Jr._\(\))から翻訳されています。
+> この記事は[ドンキーコングJr. \(ゲームキャラクター\)](https://ja.wikipedia.org/wiki/ドンキーコングJr._\(ゲームキャラクター\))から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[LICENSE \(\)](https://ja.wikipedia.org/wiki/LICENSE_\(\))から翻訳されています。
+> この記事は[LICENSE \(長渕剛のアルバム\)](https://ja.wikipedia.org/wiki/LICENSE_\(長渕剛のアルバム\))から翻訳されています。
 
 
 『**LICENSE**』（ライセンス）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の10枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")、およびアルバムの8曲目に収録された楽曲である。

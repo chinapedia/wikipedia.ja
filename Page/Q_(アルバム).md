@@ -1,4 +1,4 @@
-> この記事は[Q \(\)](https://ja.wikipedia.org/wiki/Q_\(\))から翻訳されています。
+> この記事は[Q \(アルバム\)](https://ja.wikipedia.org/wiki/Q_\(アルバム\))から翻訳されています。
 
 
 『**Q**』（キュー）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の9枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。

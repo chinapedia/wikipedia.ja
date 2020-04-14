@@ -1,4 +1,4 @@
-> この記事は[WHO](https://ja.wikipedia.org/wiki/WHO)から翻訳されています。
+> この記事は[WHO分類](https://ja.wikipedia.org/wiki/WHO分類)から翻訳されています。
 
 
 **WHO分類**（ダブリューエイチオーぶんるい）とは、ヒトの[腫瘍](../Page/腫瘍.md "wikilink")の[組織型](../Page/組織型.md "wikilink")分類のための国際的な標準規約である。正式には[世界保健機関](../Page/世界保健機関.md "wikilink") (**WHO**)の下部組織である[国際がん研究機関](../Page/国際がん研究機関.md "wikilink")（The International Agency for Research on Cancer、略称IARC）が定めた腫瘍分類の規約である。

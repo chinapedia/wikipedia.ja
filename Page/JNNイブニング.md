@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNイブニング](https://ja.wikipedia.org/wiki/JNNイブニング)から翻訳されています。
 
 
 **JNNイブニング**（**ジェイエヌエヌ -**）は、東京放送（現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")）の[CS](../Page/衛星放送.md "wikilink")[放送局](../Page/放送局.md "wikilink")である[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")にて、平日に[生放送](../Page/生放送.md "wikilink")されていた[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[BBT](https://ja.wikipedia.org/wiki/BBT)から翻訳されています。
+> この記事は[BBTニュース](https://ja.wikipedia.org/wiki/BBTニュース)から翻訳されています。
 
 
 『**BBTニュース**』（ビービーティーニュース）は、[富山テレビで放送されている](../Page/富山テレビ放送.md "wikilink")[ローカルニュース番組である](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。
@@ -7,7 +7,7 @@
 
   - [フジテレビ制作の全国ニュース番組のタイトルを差し替える場合は](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『**BBTニュース**』という名称が使われる。なお、全国ニュースであっても[FNNの表記はつかない](../Page/フジニュースネットワーク.md "wikilink")。
   - [1994年](../Page/1994年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にBBTという[CIを導入する前は](../Page/コーポレートアイデンティティ.md "wikilink")『富山テレビニュース』または『富山テレニュース』として放送されていた。
-  - ローカルニュースの場合は[1974年](../Page/1974年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に新設された当時は別の番組タイトルを使用していた。当初は『**T34ニュースフラッシュ**』（ティーさんじゅうよんニュースフラッシュ）\[1\]で、[1981年](../Page/1981年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から『**富山テレビニュースフラッシュ**』に、[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に『**BBTニュースフラッシュ**』、[2018年](../Page/2018年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に『**プライムニュース富山**』という名称に改題され\[2\]、[2019年](../Page/2019年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")で終了した\[3\]。同年4月2日以降、ローカルニュースについても『**BBTニュース**』というタイトルで放送されるようになった。
+  - ローカルニュースの場合は[1974年](../Page/1974年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に新設された当時は別の番組タイトルを使用していた。当初は『**T34ニュースフラッシュ**』（ティーさんじゅうよんニュースフラッシュ）\[1\]で、[1981年](../Page/1981年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から『**富山テレビニュースフラッシュ**』に、[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に『**BBTニュースフラッシュ**』、[2018年](../Page/2018年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に『**プライムニュース富山**』という名称に改題され\[2\]、[2019年](../Page/2019年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")で終了した\[3\]。同年4月2日以降、ローカルニュースについても『**BBTニュース**』というタイトルで放送されるようになった。OPは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[スーパーニュース](https://ja.wikipedia.org/wiki/スーパーニュース "wikilink")』で使用されていた曲。
 
 ## 放送時間
 

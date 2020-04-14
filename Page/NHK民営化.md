@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK民営化](https://ja.wikipedia.org/wiki/NHK民営化)から翻訳されています。
 
 
 **NHK民営化**（エヌエイチケーみんえいか）とは、日本の[公共放送](../Page/公共放送.md "wikilink")「[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")」（NHK）の[民営化](../Page/民営化.md "wikilink")を目指して活動を行った一連の動向を指す。なお、世界の一部の国の公共放送の運営方法についても参考として記す。

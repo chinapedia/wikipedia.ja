@@ -1,7 +1,7 @@
-> この記事は[Z Ultimate Battle 22](https://ja.wikipedia.org/wiki/Z_Ultimate_Battle_22)から翻訳されています。
+> この記事は[ドラゴンボールZ Ultimate Battle 22](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Ultimate_Battle_22)から翻訳されています。
 
 
-『**ドラゴンボールZ Ultimate Battle 22**』（ドラゴンボールゼット アルティメットバトル トゥエンティツー）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
+『**ドラゴンボールZ Ultimate Battle 22**』（ドラゴンボールゼット アルティメットバトル トゥエンティツー）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
 
 ## 概要
 

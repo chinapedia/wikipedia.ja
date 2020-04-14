@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[ドラゴンズNo.1ジョッキー](https://ja.wikipedia.org/wiki/ドラゴンズNo.1ジョッキー)から翻訳されています。
 
 
 **ドラゴンズNo.1ジョッキー**（ドラゴンズナンバーワンジョッキー）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で2004年～2007度のナイターオフシーズンに放送していた[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")を題材にした[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -106,4 +106,4 @@
 
   - [ドラゴンズ情報](https://ja.wikipedia.org/wiki/ドラゴンズ情報 "wikilink")
 
-[Category:東海ラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")
+[Category:東海ラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:中日ドラゴンズの歴史](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズの歴史 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[G!](https://ja.wikipedia.org/wiki/G!)から翻訳されています。
+> この記事は[Gの嵐!](https://ja.wikipedia.org/wiki/Gの嵐!)から翻訳されています。
 
 
 『**Gの嵐\!**』（ジーのあらし\!）は、2005年10月5日から2006年9月27日まで、[日本テレビ系列で毎週水曜日](../Page/日本テレビ放送網.md "wikilink")24:50 - 25:20に放送された[嵐の](../Page/嵐_\(グループ\).md "wikilink")[深夜](../Page/深夜番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[特別番組](../Page/特別番組.md "wikilink")として『[驚きの嵐\!世紀の実験 学者も予測不可能SP](../Page/驚きの嵐!世紀の実験_学者も予測不可能SP.md "wikilink")』が放送された。

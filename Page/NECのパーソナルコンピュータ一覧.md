@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NECのパーソナルコンピュータ一覧](https://ja.wikipedia.org/wiki/NECのパーソナルコンピュータ一覧)から翻訳されています。
 
 
 **NECのパーソナルコンピュータ一覧**（エヌイーシーのパーソナルコンピュータいちらん）

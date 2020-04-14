@@ -178,11 +178,11 @@
 
 <!-- end list -->
 
-  - [Hi-Hi上田浩二郎オフィシャルブログ「Hi-Hi上田のブログもどーもねっ\!」](http://ameblo.jp/hihi-ueda/)
+  - [Hi-Hi上田浩二郎オフィシャルブログ「Hi-Hi上田のブログもどーもねっ\!」](https://ameblo.jp/hihi-ueda/)
 
   -
   -
-  - [ハミングー0](http://www.geocities.co.jp/Milkyway-Vega/1044/haming.htm) - ハミングステッチ時代の公認サイト（メンバーのコメントあり）
+  - \- ハミングステッチ時代の公認サイト（メンバーのコメントあり）
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:さいたま市出身の人物](https://ja.wikipedia.org/wiki/Category:さいたま市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ニコジョッキー](https://ja.wikipedia.org/wiki/Category:ニコジョッキー "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink")
 

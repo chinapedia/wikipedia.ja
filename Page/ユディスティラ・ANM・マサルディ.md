@@ -1,4 +1,4 @@
-> この記事は[ANM](https://ja.wikipedia.org/wiki/ANM)から翻訳されています。
+> この記事は[ユディスティラ・ANM・マサルディ](https://ja.wikipedia.org/wiki/ユディスティラ・ANM・マサルディ)から翻訳されています。
 
 
 **ユディスティラ・ANM・マサルディ**（**Yudhistira ANM Massardi**, [1954年](../Page/1954年.md "wikilink") - ）は[インドネシア](../Page/インドネシア.md "wikilink")の[作家](../Page/作家.md "wikilink")。

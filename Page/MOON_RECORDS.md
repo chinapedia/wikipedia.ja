@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）のディレクター[小杉理宇造](../Page/小杉理宇造.md "wikilink")が総勢16名で独立。[アルファレコード](../Page/アルファレコード.md "wikilink")創立者（当時・社長）[村井邦彦](../Page/村井邦彦.md "wikilink")、[ヤナセ](../Page/ヤナセ.md "wikilink")会長・[梁瀬次郎](../Page/梁瀬次郎.md "wikilink")の支援を受け、アルファレコードの関連会社、「**アルファ・ムーン**株式会社」として創業。山下達郎は役員兼・所属ミュージシャンとして、設立に深く関わっている。
+  - [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現：[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）のディレクター[小杉理宇造](../Page/小杉理宇造.md "wikilink")が総勢16名で独立。[アルファレコード](../Page/アルファレコード.md "wikilink")創立者（当時・社長）[村井邦彦](../Page/村井邦彦.md "wikilink")、[ヤナセ](../Page/ヤナセ.md "wikilink")会長・[梁瀬次郎](../Page/梁瀬次郎.md "wikilink")の支援を受け、アルファレコードの関連会社、「**アルファ・ムーン**株式会社」として創業。山下達郎は役員兼・所属ミュージシャンとして、設立に深く関わっている。
 
 <!-- end list -->
 
@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - 米[ワーナー・ミュージック・グループ](../Page/ワーナー・ミュージック・グループ.md "wikilink")傘下となり、同時に[尾崎豊](../Page/尾崎豊.md "wikilink")や[HOUND DOGが所属する](../Page/HOUND_DOG.md "wikilink")、[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")傘下のレコード会社「**マザーアンドチルドレン**」と合併し、新たにGARLANDレーベルを社内に発足（[THE BLUE HEARTS等が所属](../Page/THE_BLUE_HEARTS.md "wikilink")）、この三つのレーベル名（Moon・Mother\&Children・Garland）の頭文字を取って社名を**エム・エム・ジー株式会社**(**MMG**) とする。同時にMMGは[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")の日本盤の発売権を獲得。ムーン・レコードはMMGのレーベルの一つとなる。
+  - 米[ワーナー・ミュージック・グループ](../Page/ワーナー・ミュージック・グループ.md "wikilink")傘下となり、同時に[尾崎豊](../Page/尾崎豊.md "wikilink")や[HOUND DOGが所属する](../Page/HOUND_DOG.md "wikilink")、[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")傘下のレコード会社「**マザーアンドチルドレン**」と合併し、新たにGARLANDレーベルを社内に発足（[THE BLUE HEARTS等が所属](../Page/THE_BLUE_HEARTS.md "wikilink")）、この三つのレーベル名（Moon・Mother\&Children・Garland）の頭文字を取って社名を**エム・エム・ジー株式会社**（**MMG**）とする。同時にMMGは[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")の日本盤の発売権を獲得。ムーン・レコードはMMGのレーベルの一つとなる。
 
 <!-- end list -->
 

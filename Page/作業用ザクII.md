@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[作業用ザクII](https://ja.wikipedia.org/wiki/作業用ザクII)から翻訳されています。
 
 
 **作業用ザクII**（さぎょうようザクツー、*WORKING TYPE ZAKU II*）は、[アニメ](../Page/アニメ.md "wikilink")『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』に登場する架空の兵器または作業用機器。

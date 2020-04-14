@@ -1,4 +1,4 @@
-> この記事は[A.J.](https://ja.wikipedia.org/wiki/A.J.)から翻訳されています。
+> この記事は[A.J.バーネット](https://ja.wikipedia.org/wiki/A.J.バーネット)から翻訳されています。
 
 
 **アラン・ジェームズ・バーネット**（**Allan James Burnett**, [1977年](../Page/1977年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アーカンソー州](../Page/アーカンソー州.md "wikilink")[リトルロック出身の元](../Page/リトルロック_\(アーカンソー州\).md "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。右投右打。

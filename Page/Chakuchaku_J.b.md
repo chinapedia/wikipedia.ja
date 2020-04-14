@@ -204,7 +204,7 @@ L.A.Angel、HbG等も含む。
 
 ## 外部リンク
 
-  - [chakuchaku J.bオフィシャルブログ](http://ameblo.jp/chakuchaku-jb)
+  - [chakuchaku J.bオフィシャルブログ](https://ameblo.jp/chakuchaku-jb)
   - [chakuchaku J.b応援日記](http://d.hatena.ne.jp/chakuchakuJb/)
   - [chakuchaku J.b Fan Club](http://www2.odn.ne.jp/hirocafe/Jbclub/)
 

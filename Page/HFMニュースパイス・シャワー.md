@@ -1,4 +1,4 @@
-> この記事は[HFM](https://ja.wikipedia.org/wiki/HFM)から翻訳されています。
+> この記事は[HFMニュースパイス・シャワー](https://ja.wikipedia.org/wiki/HFMニュースパイス・シャワー)から翻訳されています。
 
 
 **HFMニュースパイス・シャワー**（エイチエフエム - ）は、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[広島FMで放送された](../Page/広島エフエム放送.md "wikilink")、朝のワイド[番組](../Page/ラジオ番組.md "wikilink")。

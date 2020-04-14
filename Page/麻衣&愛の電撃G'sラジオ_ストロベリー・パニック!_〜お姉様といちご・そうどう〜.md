@@ -1,4 +1,4 @@
-> この記事は[\&G\'s ! ](https://ja.wikipedia.org/wiki/\&G\'s_!_)から翻訳されています。
+> この記事は[麻衣\&愛の電撃G\'sラジオ ストロベリー・パニック! 〜お姉様といちご・そうどう〜](https://ja.wikipedia.org/wiki/麻衣\&愛の電撃G\'sラジオ_ストロベリー・パニック!_〜お姉様といちご・そうどう〜)から翻訳されています。
 
 
 「**麻衣&愛の電撃G'sラジオ ストロベリー・パニック\! 〜お姉様といちご♥そうどう〜**」（まいとあいのでんげきジーズラジオ ストロベリー・パニック\! おねえさまといちご そうどう）は、「[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")」（[メディアワークス](../Page/メディアワークス.md "wikilink")）連載の[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")『[Strawberry Panic\!](../Page/Strawberry_Panic!.md "wikilink")』を題材にした[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。略称は「ストパニラジオ」。[2005年](../Page/2005年.md "wikilink")11月から[2006年](../Page/2006年.md "wikilink")12月まで放送されていた。全61回。

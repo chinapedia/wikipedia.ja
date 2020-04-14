@@ -5,9 +5,13 @@
 
 創刊時は[富士見書房](../Page/富士見書房.md "wikilink")から発行されていた。その後、同誌の編集を手がけていた[飛鳥新社](../Page/飛鳥新社.md "wikilink")が2億円で買い取り、さらに[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）になって6億円で角川春樹事務所へ譲渡。
 
-## 概説
+## 概要
 
-[1990年代](../Page/1990年代.md "wikilink")前半まで、『[パステルティーン](https://ja.wikipedia.org/wiki/パステルティーン "wikilink")』や『[エルティーン](https://ja.wikipedia.org/wiki/エルティーン "wikilink")』等と並ぶティーンエイジャーの過激な[セックスの体験談やテクニック等の情報](https://ja.wikipedia.org/wiki/性行為 "wikilink")、また[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")問題の人生相談等メインコンテンツとした雑誌であった。[女子高生](../Page/女子高生.md "wikilink")ブームの人気の訪れとともに、[猥褻](https://ja.wikipedia.org/wiki/猥褻 "wikilink")・[バイオレンス](https://ja.wikipedia.org/wiki/バイオレンス "wikilink")要素を払拭した[ギャル](../Page/ギャル.md "wikilink")向けファッション雑誌へとリニューアルした。
+Popteenは発行会社の変遷や編集長の方針により紙面構成やターゲット層が大きく異なっており、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")時代となった現在では[Seventeenと並ぶティーンズファッション雑誌となっている](../Page/Seventeen_\(日本の雑誌\).md "wikilink")。競合雑誌と比較して[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")などの動画配信に積極的であり、在籍モデルの中には[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")として活躍する者も多い。
+
+[平成](../Page/平成.md "wikilink")初期においては、『[パステルティーン](https://ja.wikipedia.org/wiki/パステルティーン "wikilink")』や『[エルティーン](https://ja.wikipedia.org/wiki/エルティーン "wikilink")』等と並ぶティーンエイジャーの過激な[セックスの体験談やテクニック等の情報](https://ja.wikipedia.org/wiki/性行為 "wikilink")、また[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")問題の人生相談等メインコンテンツとした雑誌であった。
+
+平成中期から後期においては、[女子高生](../Page/女子高生.md "wikilink")ブームの人気の訪れとともに、[猥褻](https://ja.wikipedia.org/wiki/猥褻 "wikilink")・[バイオレンス](https://ja.wikipedia.org/wiki/バイオレンス "wikilink")要素を払拭した[ギャル](../Page/ギャル.md "wikilink")向けファッション雑誌であった。
 
 [1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）頃から多数の芸能人を表紙に起用しており、表紙に登場した事のある人物は[神田うの](../Page/神田うの.md "wikilink")、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")、[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")、[梅宮アンナ](../Page/梅宮アンナ.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[ブリトニー・スピアーズ](../Page/ブリトニー・スピアーズ.md "wikilink")、[Avril Lavigne](https://ja.wikipedia.org/wiki/Avril_Lavigne "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[松浦亜弥](../Page/松浦亜弥.md "wikilink")、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")、[市原隼人](https://ja.wikipedia.org/wiki/市原隼人 "wikilink")、[BoA](../Page/BoA.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")、[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")、[ゴリエ](https://ja.wikipedia.org/wiki/ゴリエ "wikilink")、[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")、[EXO-CBX](https://ja.wikipedia.org/wiki/EXO-CBX "wikilink")\[1\]、など。その中でも浜崎あゆみは表紙に19回登場し、[舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")と並びカバークイーンとなっている。EXO-CBXは海外男性グループ初の単独表紙を飾った\[2\]。
 
@@ -21,22 +25,120 @@
 
 ### 専属モデル
 
-  - [浪花ほのか](https://ja.wikipedia.org/wiki/浪花ほのか "wikilink") ほのばび
-  - [土屋玲菜](https://ja.wikipedia.org/wiki/土屋玲菜 "wikilink") れいぽよ
-  - [中野恵那](https://ja.wikipedia.org/wiki/中野恵那 "wikilink") ちゃんえな
-  - [鶴嶋乃愛](https://ja.wikipedia.org/wiki/鶴嶋乃愛 "wikilink") のあにゃん
-  - [生見愛瑠](https://ja.wikipedia.org/wiki/生見愛瑠 "wikilink") めるる
-  - [莉子](https://ja.wikipedia.org/wiki/莉子_\(モデル\) "wikilink") リコリコ
-  - [ちぃたん☆](https://ja.wikipedia.org/wiki/ちぃたん☆ "wikilink")
-  - [平野夢来](https://ja.wikipedia.org/wiki/平野夢来 "wikilink") ゆぴぴ
-  - [古田愛理](https://ja.wikipedia.org/wiki/古田愛理 "wikilink") あいりる
-  - [筒井結愛](https://ja.wikipedia.org/wiki/筒井結愛 "wikilink") ゆあてぃー
-  - [香音](https://ja.wikipedia.org/wiki/香音 "wikilink") のんのん
-  - [福山絢水](https://ja.wikipedia.org/wiki/福山絢水 "wikilink") あやみん
-  - [ゆな](https://ja.wikipedia.org/wiki/ゆな "wikilink") ゆなたこ
-  - [湯上響花](../Page/湯上響花.md "wikilink") きょうきょう
-  - [福富つき](https://ja.wikipedia.org/wiki/福富つき "wikilink") タルちゃん
-  - [権隨玲](../Page/権隨玲.md "wikilink") れあぱぴ
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th></th>
+<th><p>生年月日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/浪花ほのか.md" title="wikilink">浪花ほのか</a></p></td>
+<td><p>ほのばび</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/土屋玲菜" title="wikilink">土屋玲菜</a></p></td>
+<td><p>れいぽよ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/中野恵那" title="wikilink">中野恵那</a></p></td>
+<td><p>ちゃんえな</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鶴嶋乃愛" title="wikilink">鶴嶋乃愛</a></p></td>
+<td><p>のあにゃん</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/生見愛瑠" title="wikilink">生見愛瑠</a></p></td>
+<td><p>めるる</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/莉子_(モデル)" title="wikilink">莉子</a></p></td>
+<td><p>リコリコ</p></td>
+<td><p>jk3</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ちぃたん☆" title="wikilink">ちぃたん☆</a></p></td>
+<td><p>ちぃたん</p></td>
+<td><p>0歳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/平野夢来" title="wikilink">平野夢来</a></p></td>
+<td><p>ゆぴぴ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/古田愛理" title="wikilink">古田愛理</a></p></td>
+<td><p>あいりる</p></td>
+<td><p>jk3</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/筒井結愛" title="wikilink">筒井結愛</a></p></td>
+<td><p>ゆあてぃー</p></td>
+<td><p>jk2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/香音" title="wikilink">香音</a></p></td>
+<td><p>のんのん</p></td>
+<td><p>jd1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/福山絢水" title="wikilink">福山絢水</a></p></td>
+<td><p>あやみん</p></td>
+<td><p>jk3</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ゆな" title="wikilink">ゆな</a></p></td>
+<td><p>ゆなたこ</p></td>
+<td><p>jk1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/湯上響花.md" title="wikilink">湯上響花</a></p></td>
+<td><p>きょうきょう</p></td>
+<td><p>jd1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/福富つき" title="wikilink">福富つき</a></p></td>
+<td><p>タルちゃん</p></td>
+<td><p>jk3</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/権隨玲.md" title="wikilink">権隨玲</a></p></td>
+<td><p>れあぱぴ</p></td>
+<td><p>jk1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### メンズモデル
 
@@ -44,9 +146,12 @@
   - 本田響矢 きょーちゃん
   - 伊藤広基 ぴろきち
   - 黒田昊夢 ひろむん
-  - 大島海
-  - 大岡泰三
-  - 佐藤颯
+  - はだしん
+  - たいぽん
+  - はーくん
+  - りゅーくん
+  - らいつん
+  - うみくん
 
 ### レギュラーモデル
 
@@ -72,6 +177,18 @@
   - 長谷川美月 みちゅ
   - 黒江心温 こはるん
   - 菅井純愛 ありぽん
+
+#### 6期生
+
+  - こあさひまり こあきゅん
+  - 佐藤楓恋 れんれん
+
+### トップティーンズ
+
+  - こあきゅん
+  - ひめ
+  - みいちゃ
+  - れんれん
 
 ## 歴代モデル
 

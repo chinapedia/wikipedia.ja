@@ -1,4 +1,4 @@
-> この記事は[52NHK](https://ja.wikipedia.org/wiki/52NHK)から翻訳されています。
+> この記事は[第52回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第52回NHK紅白歌合戦**』（だいごじゅうにかいエヌエイチケイこうはくうたがっせん）は、[2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算52回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。19時30分 - 21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
@@ -40,20 +40,20 @@
   - 人気アンケートで上位にランクインした[キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")が復帰出場し、過去に発売中止になったこともある「[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")」を、翌年の[2002 FIFAワールドカップにちなんで歌った](../Page/2002_FIFAワールドカップ.md "wikilink")。曲目発表時ではキムが「トリ内定」との推測も流れた\[11\]。
   - [堀内孝雄](../Page/堀内孝雄.md "wikilink")は同じ[大阪府](../Page/大阪府.md "wikilink")出身で親友であり、この年亡くなった[河島英五](../Page/河島英五.md "wikilink")の代表曲「[酒と泪と男と女](https://ja.wikipedia.org/wiki/酒と泪と男と女 "wikilink")」を本人の映像と一緒に歌った（なお、河島本人は紅白に1回出場（[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")）したが、同曲は歌唱していない\[12\]）。客席で観覧していた河島の息子から「堀内さん、ありがとう\!」の大声が上がると、堀内は男泣きしながら「英五…酒は飲んでるか? 声を高らかに歌っているか? そしてお前が好きだった、[龍馬には逢えたか](../Page/坂本龍馬.md "wikilink")? もう何も言うまい。さらば、英五…」と言い残し、涙の熱唱となる。歌唱終了後の堀内は「英五、有難う\!\!」と右手を挙げ叫びながら締め括ったが、その光景を見続けていた阿部も、思わずもらい泣きする場面があった。
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は[郷ひろみ](../Page/郷ひろみ.md "wikilink")のバックコーラスとしても歌い、事実上2曲歌ったことになった。「[この世界のどこかに](../Page/この世界のどこかに.md "wikilink")」をゴスペラーズが楽曲提供し、実際にコーラス参加していたため。また、郷は本紅白出場を最後に[2005年](../Page/2005年.md "wikilink")（平成17年）まで活動休止となった。
-  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんずと](https://ja.wikipedia.org/wiki/とっとこハム太郎の登場人物#ハムちゃんず "wikilink")[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")と共に「ハム太郎とっとこうた」を歌った。
+  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")と[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")と共に「ハム太郎とっとこうた」を歌った\[13\]。
   - 紅組トリは25回出場を果たした[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の「[夢](../Page/夢_\(和田アキ子の曲\).md "wikilink")」。
   - 白組トリおよび大トリは[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")の「[山](https://ja.wikipedia.org/wiki/山_\(北島三郎の曲\) "wikilink")」。
   - 優勝は白組。優勝旗を受け取った阿部は号泣した。一方、有働は紅組歌手に励ましを受け「来年頑張りましょうね」と述べた。なお、有働は翌年の紅組司会の際にリベンジを果たしている。
-  - 歌手別の最高視聴率（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）は[関東地区では](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")と[氷川きよし](../Page/氷川きよし.md "wikilink")の52.4%、[関西地区では](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[吉幾三](../Page/吉幾三.md "wikilink")の56.6%\[13\]。
+  - 歌手別の最高視聴率（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）は[関東地区では](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")と[氷川きよし](../Page/氷川きよし.md "wikilink")の52.4%、[関西地区では](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[吉幾三](../Page/吉幾三.md "wikilink")の56.6%\[14\]。
 
 ### エピソード
 
-  - 審査員として[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")（前回の審査員）、[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")らに出演を打診したが、スケジュールの都合で辞退した\[14\]。
-  - [キャイ～ン](https://ja.wikipedia.org/wiki/キャイ～ン "wikilink")が応援ゲストとして出演しており、[ウド鈴木](../Page/ウド鈴木.md "wikilink")が有働に扮装して登場する場面があった。その際、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")は有働に「有働さんも変装はお得意だとお聞きしておりますが」と言った\[15\]。
-  - この年はザ・ドリフターズやRe:Japanの歌手としての出場や、『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の「少年少女合唱隊」の復活、コロッケ・ウド鈴木・爆笑問題のゲスト出演など、お笑い・バラエティ色の強さが目立った\[16\]。
-  - この年下期の連続テレビ小説『[ほんまもん](../Page/ほんまもん.md "wikilink")』に触れた演出は特に行われなかった。ただし、同作出演者の小林幸子、[花紀京](../Page/花紀京.md "wikilink")（[Re:Japan](../Page/Re:Japan.md "wikilink")）が出場歌手に選ばれている\[17\]。
-  - 有働は本番直前に本番で失敗するという夢ばかり見たという。当日は緊張感と寝不足でわけの分からない状態で迎えたとし、本番終了後は担当者と抱き合い泣いたと話す。本人曰く 「紅白はやるものではなく、見るものである」「今回の司会で5歳老けた」\[18\]。また、有働は本番中舞台袖の布をカーテンとしたスペースで着替えをしていた際、[谷村新司](../Page/谷村新司.md "wikilink")が「うどちゃん頑張ってね」と布をめくって覗いていったことを明かしている。着替えに集中していて「ありがとうございます」と普通に返したが、その時は[Tバック](../Page/Tバック.md "wikilink")の[下着](../Page/下着.md "wikilink")以外一糸纏わぬ姿だったという\[19\]。
-  - 本番終了後に開かれた出演者の打ち上げ会の後、有働やスタッフは[カラオケボックス](../Page/カラオケボックス.md "wikilink")に行き、1曲目から本紅白の全曲を入れて司会者が紹介するということを行った\[20\]。
+  - 審査員として[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")（前回の審査員）、[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")らに出演を打診したが、スケジュールの都合で辞退した\[15\]。
+  - [キャイ～ン](https://ja.wikipedia.org/wiki/キャイ～ン "wikilink")が応援ゲストとして出演しており、[ウド鈴木](../Page/ウド鈴木.md "wikilink")が有働に扮装して登場する場面があった。その際、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")は有働に「有働さんも変装はお得意だとお聞きしておりますが」と言った\[16\]。
+  - この年はザ・ドリフターズやRe:Japanの歌手としての出場や、『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の「少年少女合唱隊」の復活、コロッケ・ウド鈴木・爆笑問題のゲスト出演など、お笑い・バラエティ色の強さが目立った\[17\]。
+  - この年下期の連続テレビ小説『[ほんまもん](../Page/ほんまもん.md "wikilink")』に触れた演出は特に行われなかった。ただし、同作出演者の小林幸子、[花紀京](../Page/花紀京.md "wikilink")（[Re:Japan](../Page/Re:Japan.md "wikilink")）が出場歌手に選ばれている\[18\]。
+  - 有働は本番直前に本番で失敗するという夢ばかり見たという。当日は緊張感と寝不足でわけの分からない状態で迎えたとし、本番終了後は担当者と抱き合い泣いたと話す。本人曰く 「紅白はやるものではなく、見るものである」「今回の司会で5歳老けた」\[19\]。また、有働は本番中舞台袖の布をカーテンとしたスペースで着替えをしていた際、[谷村新司](../Page/谷村新司.md "wikilink")が「うどちゃん頑張ってね」と布をめくって覗いていったことを明かしている。着替えに集中していて「ありがとうございます」と普通に返したが、その時は[Tバック](../Page/Tバック.md "wikilink")の[下着](../Page/下着.md "wikilink")以外一糸纏わぬ姿だったという\[20\]。
+  - 本番終了後に開かれた出演者の打ち上げ会の後、有働やスタッフは[カラオケボックス](../Page/カラオケボックス.md "wikilink")に行き、1曲目から本紅白の全曲を入れて司会者が紹介するということを行った\[21\]。
   - 今回の司会陣の評判について、「聴き取りやすい」「安定感がある」と好評意見が多く寄せられた。そして、これが要因となり翌年の第53回も3人揃って司会続投となった。
 
 ## 司会者
@@ -135,15 +135,15 @@
 ### 選考を巡って
 
   - [島津亜矢](../Page/島津亜矢.md "wikilink")が初出場。なお、翌年以降出場から遠ざかったが、[第66回](https://ja.wikipedia.org/wiki/第66回NHK紅白歌合戦 "wikilink")（[2015年](../Page/2015年.md "wikilink")）で復帰を果たした。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）に結婚を機に芸能界を引退していた[森昌子](../Page/森昌子.md "wikilink")（この間もテレビにゲスト出演することはあった。本紅白出場を機に翌年より芸能活動を限定的に再開していき、離婚後の[2006年](../Page/2006年.md "wikilink")（平成18年）4月に正式復帰した）が、紅組司会を兼任した[第36回](../Page/第36回NHK紅白歌合戦.md "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）以来16年ぶり14回目の復帰出場を果たす\[21\]。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）に結婚を機に芸能界を引退していた[森昌子](../Page/森昌子.md "wikilink")（この間もテレビにゲスト出演することはあった。本紅白出場を機に翌年より芸能活動を限定的に再開していき、離婚後の[2006年](../Page/2006年.md "wikilink")（平成18年）4月に正式復帰した）が、紅組司会を兼任した[第36回](../Page/第36回NHK紅白歌合戦.md "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）以来16年ぶり14回目の復帰出場を果たす\[22\]。
   - [キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")が[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")）以来7年ぶりに復帰。今回のキムのケースを皮切りに[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")（[2009年](../Page/2009年.md "wikilink")）まで9年連続で[韓国出身アーティストの選出が行われた](../Page/大韓民国.md "wikilink")。
-  - 前回落選した[Kiroro](../Page/Kiroro.md "wikilink")が[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink")（[1999年](../Page/1999年.md "wikilink")）以来2年ぶりに復帰。同[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の玉城千春が喉を痛めていたので、本紅白への出演を最後に活動休止となった\[22\]。その後、グループとしての再出場は実現していないが、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")（平成19年））にて金城綾乃が同回初出場した[馬場俊英](../Page/馬場俊英.md "wikilink")のキーボード演奏として紅白に出演した。
+  - 前回落選した[Kiroro](../Page/Kiroro.md "wikilink")が[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink")（[1999年](../Page/1999年.md "wikilink")）以来2年ぶりに復帰。同[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の玉城千春が喉を痛めていたので、本紅白への出演を最後に活動休止となった\[23\]。その後、グループとしての再出場は実現していないが、[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")（平成19年））にて金城綾乃が同回初出場した[馬場俊英](../Page/馬場俊英.md "wikilink")のキーボード演奏として紅白に出演した。
   - [谷村新司](../Page/谷村新司.md "wikilink")と[堀内孝雄](../Page/堀内孝雄.md "wikilink")が揃って2年ぶりの出場を果たす。前回2人は[アリスとして出場](../Page/アリス_\(フォークグループ\).md "wikilink")（初出場）していた。
-  - 『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』の主題歌「[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")」を担当していた[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")にも出演打診が行われていたが、本人が「（本紅白に）興味はあるがふっ切れない」として辞退した\[23\]\[24\]。ただし、翌年の第53回に同曲を持っての初出場が実現している。
-  - この年恒例のカウントダウンコンサートを開催しなかった[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")に対し、番組側は出場並びにいずれもこの年のヒット曲である「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」と「[白い恋人達](../Page/白い恋人達.md "wikilink")」のメドレー歌唱を粘りの交渉で要請したが辞退される。その他、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")や[井上陽水](../Page/井上陽水.md "wikilink")も辞退した\[25\]\[26\]。
-  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")はレコーディング活動を行うため辞退。[B'z](../Page/B'z.md "wikilink")も辞退した。[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")や[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")も他の活動があるためNHKは出演交渉を断念している\[27\]。
-  - 実際の出場歌手以外に、『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』は[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")、[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[hiro](../Page/島袋寛子.md "wikilink")、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")の初出場が有力と報じた。同じく初出場が有力と報じられた[木村弓](../Page/木村弓.md "wikilink")は紅組歌手としてではなく、コーナーゲストとして出演した\[28\]。
-  - この年デビュー10周年を迎え、[前回までデビューから](../Page/第51回NHK紅白歌合戦.md "wikilink")10年連続出場中だった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")はメンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により出場を辞退した\[29\]（翌年の第53回は2年ぶり11回目の復帰出場を果たしている）。稲垣の紅白出演に関して、当時のNHK会長・[海老沢勝二](../Page/海老沢勝二.md "wikilink")は「個人的には問題ないのでは」という見解を示していた\[30\]。またSMAPが辞退したため、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からの出場は[TOKIO](../Page/TOKIO.md "wikilink")のみとなった。
+  - 『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』の主題歌「[地上の星](https://ja.wikipedia.org/wiki/地上の星/ヘッドライト・テールライト "wikilink")」を担当していた[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")にも出演打診が行われていたが、本人が「（本紅白に）興味はあるがふっ切れない」として辞退した\[24\]\[25\]。ただし、翌年の第53回に同曲を持っての初出場が実現している。
+  - この年恒例のカウントダウンコンサートを開催しなかった[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")に対し、番組側は出場並びにいずれもこの年のヒット曲である「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」と「[白い恋人達](../Page/白い恋人達.md "wikilink")」のメドレー歌唱を粘りの交渉で要請したが辞退される。その他、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")や[井上陽水](../Page/井上陽水.md "wikilink")も辞退した\[26\]\[27\]。
+  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")はレコーディング活動を行うため辞退。[B'z](../Page/B'z.md "wikilink")も辞退した。[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")や[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")も他の活動があるためNHKは出演交渉を断念している\[28\]。
+  - 実際の出場歌手以外に、『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』は[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")、[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[hiro](../Page/島袋寛子.md "wikilink")、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")の初出場が有力と報じた。同じく初出場が有力と報じられた[木村弓](../Page/木村弓.md "wikilink")は紅組歌手としてではなく、コーナーゲストとして出演した\[29\]。
+  - この年デビュー10周年を迎え、[前回までデビューから](../Page/第51回NHK紅白歌合戦.md "wikilink")10年連続出場中だった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")はメンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により出場を辞退した\[30\]（翌年の第53回は2年ぶり11回目の復帰出場を果たしている）。稲垣の紅白出演に関して、当時のNHK会長・[海老沢勝二](../Page/海老沢勝二.md "wikilink")は「個人的には問題ないのでは」という見解を示していた\[31\]。またSMAPが辞退したため、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からの出場は[TOKIO](../Page/TOKIO.md "wikilink")のみとなった。
 
 ### その他
 
@@ -207,21 +207,22 @@
 10. [2019年](../Page/2019年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")『[激レアさんを連れてきた。](https://ja.wikipedia.org/wiki/激レアさんを連れてきた。 "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）。
 11. 合田『紅白歌合戦の真実』
 12. この時歌ったのは、同じく河島の代表曲の一つでもある「[時代おくれ](https://ja.wikipedia.org/wiki/時代おくれ "wikilink")」。
-13. [紅白視聴率最高は氷川\&CHEMISTRY](http://web.archive.org/web/20030620140231/http://www.sponichi.co.jp/entertainment/kiji/2002/01/05/06.html)、スポニチアネックス、2002年1月5日。（インターネット・アーカイブのキャッシュ）。
-14. [唐沢寿明、室伏広治ら｢紅白」審査員](http://web.archive.org/web/20021014235757/http://www.sponichi.co.jp/entertainment/kiji/2001/12/20/08.html)、スポニチアネックス、2001年12月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）。
-15. この前年に[石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")と交際していた有働が、変装（巻き髪のカツラを被ってサングラスも着用）して合鍵を手に石井の自宅に入る様子をカメラに撮られ、両者の交際が発覚したという逸話をネタにした。
-16. [今年の紅白は歌よりお笑い… ドリフ、吉本、コロッケも](https://web.archive.org/web/20020217061843/http://www.zakzak.co.jp/geino/n-2001_12/g2001122105.html)、ZAKZAK、2001年12月21日。（インターネットアーカイブのキャッシュ）。
-17. 小林は同作挿入歌「[誰かがそばにいる](https://ja.wikipedia.org/wiki/雪泣夜_\(SEセリフ入り）/誰かがそばにいる〜「ほんまもん」より〜 "wikilink")」（当時未発売）を担当していたが、本紅白では「[夢の涯て〜子午線の夢〜](https://ja.wikipedia.org/wiki/夢の涯て〜子午線の夢〜 "wikilink")」を歌唱。
-18. [1](http://www.dailyshincho.jp/article/2014/11261830/?all=),デイリー新潮
-19. [紅白の裏側も暴露！ 有働アナがNHK、視聴者に愛される理由は？](http://ddnavi.com/news/214655/a/),ダ・ヴィンチニュース,2014年11月15日
-20. 有働『ウドウロク』、79頁。
-21. なお『紅白歌合戦の真実』によれば、前回も番組側は昌子に出演打診を行ったが、本人が辞退したという。
-22. [Kiroro 紅白最後に活動休止](http://web.archive.org/web/20030203075142/http://www.sponichi.co.jp/entertainment/kiji/2001/12/10/01.html)、スポニチアネックス、2001年12月10日。（インターネット・アーカイブのキャッシュ）
-23. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』
-24. [中島みゆき、桑田…大物が紅白振ったワケ 選考の裏事情](http://web.archive.org/web/20030620103024/http://www.zakzak.co.jp/geino/n-2001_11/g2001113004.html)、ZAKZAK、2001年11月30日。（インターネット・アーカイブのキャッシュ）
-25. 合田『紅白歌合戦の真実』、352頁。
-26.
+13. 『ミニハムずおともだちブック』小学館、2002年、48頁。ISBN 4-09-295071-3。
+14. [紅白視聴率最高は氷川\&CHEMISTRY](http://web.archive.org/web/20030620140231/http://www.sponichi.co.jp/entertainment/kiji/2002/01/05/06.html)、スポニチアネックス、2002年1月5日。（インターネット・アーカイブのキャッシュ）。
+15. [唐沢寿明、室伏広治ら｢紅白」審査員](http://web.archive.org/web/20021014235757/http://www.sponichi.co.jp/entertainment/kiji/2001/12/20/08.html)、スポニチアネックス、2001年12月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）。
+16. この前年に[石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")と交際していた有働が、変装（巻き髪のカツラを被ってサングラスも着用）して合鍵を手に石井の自宅に入る様子をカメラに撮られ、両者の交際が発覚したという逸話をネタにした。
+17. [今年の紅白は歌よりお笑い… ドリフ、吉本、コロッケも](https://web.archive.org/web/20020217061843/http://www.zakzak.co.jp/geino/n-2001_12/g2001122105.html)、ZAKZAK、2001年12月21日。（インターネットアーカイブのキャッシュ）。
+18. 小林は同作挿入歌「[誰かがそばにいる](https://ja.wikipedia.org/wiki/雪泣夜_\(SEセリフ入り）/誰かがそばにいる〜「ほんまもん」より〜 "wikilink")」（当時未発売）を担当していたが、本紅白では「[夢の涯て〜子午線の夢〜](https://ja.wikipedia.org/wiki/夢の涯て〜子午線の夢〜 "wikilink")」を歌唱。
+19. [1](http://www.dailyshincho.jp/article/2014/11261830/?all=),デイリー新潮
+20. [紅白の裏側も暴露！ 有働アナがNHK、視聴者に愛される理由は？](http://ddnavi.com/news/214655/a/),ダ・ヴィンチニュース,2014年11月15日
+21. 有働『ウドウロク』、79頁。
+22. なお『紅白歌合戦の真実』によれば、前回も番組側は昌子に出演打診を行ったが、本人が辞退したという。
+23. [Kiroro 紅白最後に活動休止](http://web.archive.org/web/20030203075142/http://www.sponichi.co.jp/entertainment/kiji/2001/12/10/01.html)、スポニチアネックス、2001年12月10日。（インターネット・アーカイブのキャッシュ）
+24. [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の舞台裏』
+25. [中島みゆき、桑田…大物が紅白振ったワケ 選考の裏事情](http://web.archive.org/web/20030620103024/http://www.zakzak.co.jp/geino/n-2001_11/g2001113004.html)、ZAKZAK、2001年11月30日。（インターネット・アーカイブのキャッシュ）
+26. 合田『紅白歌合戦の真実』、352頁。
 27.
-28. [ゴスペラーズ紅白初出場当確](http://web.archive.org/web/20011102013221/http://www.yomiuri.co.jp/hochi/geinou/oct/o20011030_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年11月3日。（インターネット・アーカイブのキャッシュ）
-29. [稲垣謹慎中…SMAP紅白出場辞退](http://web.archive.org/web/20030410173127/http://www.sponichi.co.jp/entertainment/kiji/2001/11/30/01.html)、スポニチアネックス、2001年11月30日。（インターネット・アーカイブのキャッシュ）
-30. [NHK会長「SMAP稲垣は紅白出場OK」](http://web.archive.org/web/20011031212958/http://www.sanspo.com/geino/shock/s0110/g_top2001100503.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2001年10月4日。（インターネット・アーカイブのキャッシュ）
+28.
+29. [ゴスペラーズ紅白初出場当確](http://web.archive.org/web/20011102013221/http://www.yomiuri.co.jp/hochi/geinou/oct/o20011030_10.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2001年11月3日。（インターネット・アーカイブのキャッシュ）
+30. [稲垣謹慎中…SMAP紅白出場辞退](http://web.archive.org/web/20030410173127/http://www.sponichi.co.jp/entertainment/kiji/2001/11/30/01.html)、スポニチアネックス、2001年11月30日。（インターネット・アーカイブのキャッシュ）
+31. [NHK会長「SMAP稲垣は紅白出場OK」](http://web.archive.org/web/20011031212958/http://www.sanspo.com/geino/shock/s0110/g_top2001100503.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2001年10月4日。（インターネット・アーカイブのキャッシュ）

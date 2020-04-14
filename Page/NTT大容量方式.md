@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT大容量方式](https://ja.wikipedia.org/wiki/NTT大容量方式)から翻訳されています。
 
 
 **NTT大容量方式**（NTTだいようりょうほうしき）は、[1988年](../Page/1988年.md "wikilink")から[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内のみで使用されていた、[FDD](https://ja.wikipedia.org/wiki/周波数分割複信 "wikilink")-[FDMA](https://ja.wikipedia.org/wiki/周波数分割多元接続 "wikilink")-[FMの](../Page/周波数変調.md "wikilink")[アナログ](../Page/アナログ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。HiCAP（ハイキャップ）とも呼ばれる。

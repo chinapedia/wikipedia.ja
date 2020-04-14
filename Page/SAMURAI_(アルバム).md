@@ -1,4 +1,4 @@
-> この記事は[SAMURAI \(\)](https://ja.wikipedia.org/wiki/SAMURAI_\(\))から翻訳されています。
+> この記事は[SAMURAI \(アルバム\)](https://ja.wikipedia.org/wiki/SAMURAI_\(アルバム\))から翻訳されています。
 
 
 『**SAMURAI**』（サムライ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の17枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。

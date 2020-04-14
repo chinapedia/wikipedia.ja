@@ -1,4 +1,4 @@
-> この記事は[FUKUI](https://ja.wikipedia.org/wiki/FUKUI)から翻訳されています。
+> この記事は[FUKUIスーパーレディス駅伝](https://ja.wikipedia.org/wiki/FUKUIスーパーレディス駅伝)から翻訳されています。
 
 
 **FUKUIスーパーレディス駅伝**（フクイスーパーレディスえきでん）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から[2017年](../Page/2017年.md "wikilink")まで、毎年11月の第2日曜日に、[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")で開催されていた[駅伝競走](../Page/駅伝競走.md "wikilink")大会。正式名称は「スーパーレディス駅伝競走大会」。

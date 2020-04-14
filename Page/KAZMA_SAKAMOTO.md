@@ -183,10 +183,10 @@
 
 <!-- end list -->
 
-  - [CHAMPION OF STRONGEST-K王座](../Page/CHAMPION_OF_STRONGEST-K.md "wikilink")
-  - [STRONGEST-K TAG王座](../Page/STRONGEST-K_TAG王座.md "wikilink")
-  - [UWA\&UWF認定インターコンチネンタルタッグ王座](../Page/インターコンチネンタルタッグ王座.md "wikilink")
-  - [KAIENTAI DOJOという名のタッグリーグ戦優勝](../Page/BO-SO_ゴールデンタッグトーナメント.md "wikilink")
+  - [CHAMPION OF STRONGEST-K王座](../Page/CHAMPION_OF_STRONGEST-K.md "wikilink")（第9代）
+  - [STRONGEST-K TAG王座](../Page/STRONGEST-K_TAG王座.md "wikilink")（初代、パートナーは[真霜拳號](../Page/真霜拳號.md "wikilink")）
+  - [UWA\&UWF認定インターコンチネンタルタッグ王座](../Page/インターコンチネンタルタッグ王座.md "wikilink")（第15代、パートナーは真霜拳號）
+  - [KAIENTAI DOJOという名のタッグリーグ戦優勝](../Page/BO-SO_ゴールデンタッグトーナメント.md "wikilink")（2005年、パートナーは真霜拳號）
   - [K-AWARD](../Page/K-AWARD.md "wikilink")（年間最高試合賞シングルマッチ部門、年間最高試合賞タッグマッチ部門）
 
 <!-- end list -->
@@ -195,8 +195,8 @@
 
 <!-- end list -->
 
-  - [WRESTLE-1タッグチャンピオンシップ](https://ja.wikipedia.org/wiki/WRESTLE-1タッグチャンピオンシップ "wikilink")
-  - [UWA世界6人タッグ王座](https://ja.wikipedia.org/wiki/UWA世界6人タッグ王座 "wikilink")
+  - [WRESTLE-1タッグチャンピオンシップ](https://ja.wikipedia.org/wiki/WRESTLE-1タッグチャンピオンシップ "wikilink")（第4代、パートナーは[火野裕士](../Page/火野裕士.md "wikilink")）
+  - [UWA世界6人タッグ王座](https://ja.wikipedia.org/wiki/UWA世界6人タッグ王座 "wikilink")（第48代、パートナーは[土肥孝司](https://ja.wikipedia.org/wiki/土肥孝司 "wikilink")、[NOSAWA論外](../Page/NOSAWA論外.md "wikilink")）
 
 <!-- end list -->
 
@@ -204,8 +204,8 @@
 
 <!-- end list -->
 
-  - [オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink")
-  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")
+  - [オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink")（第48代、パートナーは[B×Bハルク](../Page/B×Bハルク.md "wikilink")）
+  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")（第64代、パートナーは[吉田隆司](../Page/吉田隆司.md "wikilink")、[神田裕之](../Page/神田裕之.md "wikilink")）
 
 <!-- end list -->
 
@@ -213,8 +213,8 @@
 
 <!-- end list -->
 
-  - [GHCタッグ王座](https://ja.wikipedia.org/wiki/GHCタッグ王座 "wikilink")
-  - [GLOBAL TAG LEAGUE優勝](https://ja.wikipedia.org/wiki/グローバル・タッグ・リーグ戦 "wikilink")
+  - [GHCタッグ王座](https://ja.wikipedia.org/wiki/GHCタッグ王座 "wikilink")（第50代、パートナーは[杉浦貴](../Page/杉浦貴.md "wikilink")）
+  - [グローバル・タッグ・リーグ優勝](https://ja.wikipedia.org/wiki/グローバル・タッグ・リーグ戦 "wikilink")（2019年、パートナーは杉浦貴）
 
 ## テレビ出演
 

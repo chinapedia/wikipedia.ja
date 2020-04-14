@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[オズワルド \(KOF\)](https://ja.wikipedia.org/wiki/オズワルド_\(KOF\))から翻訳されています。
 
 
 **オズワルド** (Oswald) は、[SNKの対戦型格闘ゲーム](../Page/SNK_\(2001年設立の企業\).md "wikilink")『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空の人物。担当声優は[重塚利弘](https://ja.wikipedia.org/wiki/重塚利弘 "wikilink")。

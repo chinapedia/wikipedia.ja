@@ -1,4 +1,4 @@
-> この記事は[GM](https://ja.wikipedia.org/wiki/GM)から翻訳されています。
+> この記事は[GM大宇・マティス](https://ja.wikipedia.org/wiki/GM大宇・マティス)から翻訳されています。
 
 
 [Matiz_first_generation_VS_Matiz_second_generation.jpg](https://ja.wikipedia.org/wiki/File:Matiz_first_generation_VS_Matiz_second_generation.jpg "fig:Matiz_first_generation_VS_Matiz_second_generation.jpg") **マティス**（*Matiz*）は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink") (GM) 傘下にある韓国の自動車メーカー[韓国GM](../Page/韓国GM.md "wikilink")（旧称：GM大宇）が製造・販売する欧州[Aセグメント](../Page/Aセグメント.md "wikilink")級の小型車の旧車名で、2011年3月以降の社名変更に伴ってシボレーブランドに置換され、韓国内における車名も**「シボレー・スパーク」**となった。韓国国内では日本の軽自動車に相当する軽車（キョンチャ）というカテゴリーに属する。

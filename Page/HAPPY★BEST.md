@@ -1,4 +1,4 @@
-> この記事は[HAPPYBEST](https://ja.wikipedia.org/wiki/HAPPYBEST)から翻訳されています。
+> この記事は[HAPPY★BEST](https://ja.wikipedia.org/wiki/HAPPY★BEST)から翻訳されています。
 
 
 『**HAPPY★BEST**』（ハッピーベスト）は[HAPPY DRUG STOREのファースト](../Page/HAPPY_DRUG_STORE.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")であり、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。

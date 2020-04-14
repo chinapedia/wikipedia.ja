@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[スーザン・B・アンソニー](https://ja.wikipedia.org/wiki/スーザン・B・アンソニー)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/画像:Elizabeth_Cady_Stanton_and_Susan_B._Anthony.jpg "wikilink") **スーザン・ブローネル・アンソニー**（**Susan Brownell Anthony**, [1820年](../Page/1820年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [1906年](../Page/1906年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")）は、アメリカの[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")の指導者で、と共に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[女性参政権](../Page/女性参政権.md "wikilink")獲得のために活動した人物。

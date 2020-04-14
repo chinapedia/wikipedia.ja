@@ -1,4 +1,4 @@
-> この記事は[WEED](https://ja.wikipedia.org/wiki/WEED)から翻訳されています。
+> この記事は[銀牙伝説WEED](https://ja.wikipedia.org/wiki/銀牙伝説WEED)から翻訳されています。
 
 
 『**銀牙伝説WEED**』（ぎんがでんせつウィード）は、[高橋よしひろ](../Page/高橋よしひろ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")』（[日本文芸社](../Page/日本文芸社.md "wikilink")）において、[1999年](../Page/1999年.md "wikilink")より[2009年](../Page/2009年.md "wikilink")7月まで連載された。全60巻。発行数は2000万部を超え\[1\]、1-39巻までの合計発行部数は1500万部を超える\[2\]。『[銀牙 -流れ星 銀-](../Page/銀牙_-流れ星_銀-.md "wikilink")』の[続編](../Page/続編.md "wikilink")である。続編に『[銀牙伝説WEEDオリオン](https://ja.wikipedia.org/wiki/銀牙伝説WEEDオリオン "wikilink")』がある。

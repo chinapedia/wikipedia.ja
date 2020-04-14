@@ -1,4 +1,4 @@
-> この記事は[Xbox](https://ja.wikipedia.org/wiki/Xbox)から翻訳されています。
+> この記事は[Xboxのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xboxのゲームタイトル一覧)から翻訳されています。
 
 
 **Xboxのゲームタイトル一覧**（エックスボックスのゲームタイトルいちらん）では、[Xbox対応として日本国内で発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する（全223タイトル）。
@@ -75,7 +75,7 @@
 | 12月12日 | [峠R](https://ja.wikipedia.org/wiki/峠R "wikilink")                                                                   | アトラス                                                               |    |
 | 12月12日 | [紅の海 Crimson Sea](https://ja.wikipedia.org/wiki/紅の海_Crimson_Sea "wikilink")                                         | コーエー                                                               |    |
 | 12月12日 | [O・TO・GI 〜御伽〜](../Page/O・TO・GI_〜御伽〜.md "wikilink")                                                                  | フロム・ソフトウェア                                                         |    |
-| 12月12日 | [ブリンクス・ザ・タイムスイーパー](https://ja.wikipedia.org/wiki/ブリンクス・ザ・タイムスイーパー "wikilink")                                       | マイクロソフト                                                            |    |
+| 12月12日 | [ブリンクス・ザ・タイムスイーパー](https://ja.wikipedia.org/wiki/ブリンクス・ザ・タイムスイーパー "wikilink")                                       | マイクロソフト                                                            | ★  |
 | 12月19日 | [トライアングルアゲイン2](https://ja.wikipedia.org/wiki/トライアングルアゲイン2 "wikilink")                                               | キキ                                                                 |    |
 | 12月19日 | [式神の城 藍](../Page/式神の城.md "wikilink")EVOLUTION                                                                       | キッズステーション                                                          |    |
 | 12月19日 | [式神の城 紅](../Page/式神の城.md "wikilink")EVOLUTION                                                                       | キッズステーション                                                          |    |

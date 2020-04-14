@@ -1,4 +1,4 @@
-> この記事は[No.1](https://ja.wikipedia.org/wiki/No.1)から翻訳されています。
+> この記事は[コメディNo.1](https://ja.wikipedia.org/wiki/コメディNo.1)から翻訳されています。
 
 
 **コメディNo.1**（コメディナンバーワン）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫才](../Page/漫才.md "wikilink")コンビである。[1967年](../Page/1967年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで活動した。所属[事務所は全期間を通じ](../Page/芸能事務所.md "wikilink")、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")大阪本部。略称は「コメワン」。コンビ名は[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")の作家[壇上茂](https://ja.wikipedia.org/wiki/壇上茂 "wikilink")が命名した。

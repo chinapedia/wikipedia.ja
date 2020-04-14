@@ -1,4 +1,4 @@
-> この記事は[Cookie \(\)](https://ja.wikipedia.org/wiki/Cookie_\(\))から翻訳されています。
+> この記事は[Cookie \(雑誌\)](https://ja.wikipedia.org/wiki/Cookie_\(雑誌\))から翻訳されています。
 
 
 『**Cookie**』（クッキー）は、[集英社](../Page/集英社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")。[1999年](../Page/1999年.md "wikilink")に『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』と『[ぶ〜け](../Page/ぶ〜け.md "wikilink")』の合同増刊として創刊後、[2000年](../Page/2000年.md "wikilink")に独立。奇数月26日発売。
@@ -13,29 +13,30 @@
 
 ## 現在の連載中の作品
 
-※ 2020年1月24日（2020年3月号）現在。作品名五十音順。
+※ 2020年3月26日（2020年5月号）現在。作品名五十音順。
 
   - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（原作:[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、漫画:[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2019年1月号 -
-  - [会社やめてくのいちに転職しました](https://ja.wikipedia.org/wiki/会社やめてくのいちに転職しました "wikilink")（[柴なつみ](https://ja.wikipedia.org/wiki/柴なつみ "wikilink")）：2019年11月号 -
   - [きのう、きょう、あした](https://ja.wikipedia.org/wiki/きのう、きょう、あした "wikilink")（[如月園](https://ja.wikipedia.org/wiki/如月園 "wikilink")）：2018年7月号 -
   - [グッドモーニング・キス](../Page/グッドモーニング・コール.md "wikilink")（[高須賀由枝](../Page/高須賀由枝.md "wikilink")）※『Cookie BOX』2006年初夏号 - 2008年秋号を経て本誌へ移動：2009年3月号 -
   - [孤食ロボット](https://ja.wikipedia.org/wiki/孤食ロボット "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）※『[ジャンプ改](https://ja.wikipedia.org/wiki/ジャンプ改 "wikilink")』（集英社）より移籍：2015年1月号 -
   - [これは経費で落ちません\!](https://ja.wikipedia.org/wiki/これは経費で落ちません! "wikilink")（原作:[青木祐子](../Page/青木祐子.md "wikilink")、漫画:[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
   - [サロン・ド・ディスコ](https://ja.wikipedia.org/wiki/サロン・ド・ディスコ "wikilink")（[碧](https://ja.wikipedia.org/wiki/碧（漫画家） "wikilink")）：2020年3月号 -
   - [好いも甘いも](https://ja.wikipedia.org/wiki/好いも甘いも "wikilink")（[小藤まつ](https://ja.wikipedia.org/wiki/小藤まつ "wikilink")）：2019年7月号 -
+  - [長森くんの結婚](https://ja.wikipedia.org/wiki/長森くんの結婚 "wikilink")（[あいざわ遥](../Page/あいざわ遥.md "wikilink")）：2020年5月号 -
   - [ハイヒールをはいた猫 ルブたん](https://ja.wikipedia.org/wiki/ハイヒールをはいた猫_ルブたん "wikilink")（[鳥海りさこ](https://ja.wikipedia.org/wiki/鳥海りさこ "wikilink")）：2016年7月号 -
   - [ハコイリのムスメ](https://ja.wikipedia.org/wiki/ハコイリのムスメ "wikilink")（[池谷理香子](https://ja.wikipedia.org/wiki/池谷理香子 "wikilink")）：2015年5月号 -
   - [初めて恋をした日に読む話](https://ja.wikipedia.org/wiki/初めて恋をした日に読む話 "wikilink")（[持田あき](../Page/持田あき.md "wikilink")）：2016年7月号 -
   - [陽あたり前線](https://ja.wikipedia.org/wiki/陽あたり前線 "wikilink")（[杉原涼子](../Page/杉原涼子.md "wikilink")）：2013年1月号 -
   - [日に流れて橋に行く](https://ja.wikipedia.org/wiki/日に流れて橋に行く "wikilink")（[日高ショーコ](https://ja.wikipedia.org/wiki/日高ショーコ "wikilink")）：2019年3月号 -
+  - [ブラッディ・ブライド-吸血鬼の婚活-](https://ja.wikipedia.org/wiki/ブラッディ・ブライド-吸血鬼の婚活- "wikilink")：（[池野恋](../Page/池野恋.md "wikilink")）：2020年5月号 -
   - [ボードレールの猫](https://ja.wikipedia.org/wiki/ボードレールの猫 "wikilink")（[生藤由美](https://ja.wikipedia.org/wiki/生藤由美 "wikilink")）：2020年1月号 -
   - [僕の家においで Wedding](https://ja.wikipedia.org/wiki/僕の家においで_Wedding "wikilink")（[優木なち](../Page/優木なち.md "wikilink")）：2017年7月号 -
   - [まゆみ\!\!2020〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2020〜再婚〜 "wikilink")（[田辺真由美](../Page/田辺真由美.md "wikilink")）：2020年1月号 -
   - [まんだん\!](https://ja.wikipedia.org/wiki/まんだん! "wikilink")（[櫻井リヤ](https://ja.wikipedia.org/wiki/櫻井リヤ "wikilink")）：2017年9月号 -
   - [三日月と流れ星](https://ja.wikipedia.org/wiki/三日月と流れ星 "wikilink")（[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")）※2014年9月号読切を経て連載：2015年1月号 -
-  - [『未』成熟](https://ja.wikipedia.org/wiki/『未』成熟 "wikilink")（[Maria](../Page/Maria_\(漫画家\).md "wikilink")）：2016年3月号 - 2020年3月号
-  - [もしもしカメさん](https://ja.wikipedia.org/wiki/もしもしカメさん "wikilink")（[山本カエル](https://ja.wikipedia.org/wiki/山本カエル "wikilink")）：2017年9月号 -
+  - [もしもしカメさん](https://ja.wikipedia.org/wiki/もしもしカメさん "wikilink")（[山本カエル](https://ja.wikipedia.org/wiki/山本カエル "wikilink")）：2017年9月号 - 2020年5月号
   - [林檎と蜂蜜walk](../Page/林檎と蜂蜜_\(漫画\).md "wikilink")（[宮川匡代](../Page/宮川匡代.md "wikilink")）：2009年6月号 -
+  - [レポまんが なんかおもしろいことして](https://ja.wikipedia.org/wiki/レポまんが_なんかおもしろいことして "wikilink")（櫻井リヤ）：2019年7月号 -
 
 ### 不定期連載
 
@@ -83,6 +84,7 @@
   - [ガールズートーク](https://ja.wikipedia.org/wiki/ガールズートーク "wikilink")（[トヨタトヨ](https://ja.wikipedia.org/wiki/トヨタトヨ "wikilink")\[3\]）：2017年11月号 - 2019年5月号
   - ガールズ・ブラヴォー?（ひうらさとる）
   - [怪盗ロワイヤル](https://ja.wikipedia.org/wiki/怪盗ロワイヤル "wikilink")（[菅野紗由](https://ja.wikipedia.org/wiki/菅野紗由 "wikilink")、原案：[DeNA](../Page/ディー・エヌ・エー.md "wikilink")/[ワカマツカオリ](https://ja.wikipedia.org/wiki/ワカマツカオリ "wikilink")）：2011年8月号 - 2012年4月号
+  - [会社やめてくのいちに転職しました](https://ja.wikipedia.org/wiki/会社やめてくのいちに転職しました "wikilink")（[柴なつみ](https://ja.wikipedia.org/wiki/柴なつみ "wikilink")）：2019年11月号 - 2020年3月号
   - 学園恋愛者\!（[栗原まもる](../Page/栗原まもる.md "wikilink")）
   - [神様のオルゴール](../Page/神様のオルゴール.md "wikilink")（[水沢めぐみ](../Page/水沢めぐみ.md "wikilink")）
   - [カラフル・パレット](https://ja.wikipedia.org/wiki/カラフル・パレット "wikilink")（あいざわ遥）：2000年7月号 - 2005年1月号
@@ -118,7 +120,7 @@
   - [刹那の青二才](https://ja.wikipedia.org/wiki/刹那の青二才 "wikilink")（[高梨みつば](../Page/高梨みつば.md "wikilink")）：2013年7月号 - 2014年9月号
   - zen zen（[槙ようこ](../Page/槙ようこ.md "wikilink")×[持田あき](../Page/持田あき.md "wikilink")）：2010年10月号 - 2011年4月号
   - ゾッチャの日常（[生藤由美](https://ja.wikipedia.org/wiki/生藤由美 "wikilink")）
-  - [空色のりんた](https://ja.wikipedia.org/wiki/空色のりんた "wikilink")（[柴なつみ](https://ja.wikipedia.org/wiki/柴なつみ "wikilink")）：2015年7月号 - 2016年1月号
+  - [空色のりんた](https://ja.wikipedia.org/wiki/空色のりんた "wikilink")（柴なつみ）：2015年7月号 - 2016年1月号
 
 <!-- end list -->
 
@@ -182,9 +184,10 @@
   - [まゆみ\!\!2016〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2016〜再婚〜 "wikilink")（[田辺真由美](../Page/田辺真由美.md "wikilink")）：2016年9月号 - 2017年3月号
   - [まゆみ\!\!2017〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2017〜再婚〜 "wikilink")（田辺真由美）：2017年5月号 - 2017年11月号
   - [まゆみ\!\!2018〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2018〜再婚〜 "wikilink")（田辺真由美）：2018年1月号 - 2018年11月号
-  - [まゆみ\!\!2019〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2019〜再婚〜 "wikilink")（[田辺真由美](../Page/田辺真由美.md "wikilink")）：2019年1月号 - 2019年11月号
+  - [まゆみ\!\!2019〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2019〜再婚〜 "wikilink")（田辺真由美）：2019年1月号 - 2019年11月号
   - [まわれ\!白川さん](https://ja.wikipedia.org/wiki/まわれ!白川さん "wikilink")（[ままかり](https://ja.wikipedia.org/wiki/ままかり_\(漫画家\) "wikilink")）※2015年7月号読切掲載を経て連載：2015年11月号 - 2017年5月号
   - [未完成ベイビーズ\!](https://ja.wikipedia.org/wiki/未完成ベイビーズ! "wikilink")（[山本カエル](https://ja.wikipedia.org/wiki/山本カエル "wikilink")）：2015年5月号 - 11月号
+  - [『未』成熟](https://ja.wikipedia.org/wiki/『未』成熟 "wikilink")（Maria）：2016年3月号 - 2020年3月号
   - [妙齢ですから](https://ja.wikipedia.org/wiki/妙齢ですから "wikilink")（[田島ハル](https://ja.wikipedia.org/wiki/田島ハル "wikilink")）：2013年1月 - 2016年7月号
   - モザイクの魚（あいざわ遥）
   - モロッコ100丁目（田島ハル）
@@ -227,6 +230,7 @@
   - 2015年10月1日 - 2016年9月30日、50,333部\[19\]
   - 2016年10月1日 - 2017年9月30日、45,000部\[20\]
   - 2017年10月1日 - 2018年9月30日、34,833部\[21\]
+  - 2018年10月1日 - 2019年9月30日、28,000部\[22\]
 
 ## 脚注
 
@@ -258,3 +262,4 @@
 19.
 20.
 21.
+22.

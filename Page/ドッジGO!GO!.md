@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[ドッジGO!GO!](https://ja.wikipedia.org/wiki/ドッジGO!GO!)から翻訳されています。
 
 
 『**ドッジGO\!GO\!**』（ドッジゴー！ゴー！）は、[2002年](../Page/2002年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")公開（同年[7月20日](../Page/7月20日.md "wikilink")に大阪、山梨、宮城、福岡で先行公開）の日韓合作映画で、[ドッジボール](../Page/ドッジボール.md "wikilink")を題材にした映画である。[文部科学省](../Page/文部科学省.md "wikilink")選定、[東京都知事](../Page/東京都知事.md "wikilink")推奨、[大阪市教育委員会](../Page/大阪市教育委員会.md "wikilink")推薦、青少年映画審議会推薦作品。

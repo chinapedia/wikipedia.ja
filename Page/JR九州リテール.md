@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR九州リテール](https://ja.wikipedia.org/wiki/JR九州リテール)から翻訳されています。
 
 
 **JR九州リテール株式会社**（ジェイアールきゅうしゅうリテール）は、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）の物販部門を担当する[子会社](../Page/子会社.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[SVヴァッカー・ブルクハウゼン](https://ja.wikipedia.org/wiki/SVヴァッカー・ブルクハウゼン)から翻訳されています。
 
 
 **SVヴァッカー・ブルクハウゼン**（**SV Wacker Burghausen**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のスポーツクラブ。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のほか、[テニス](../Page/テニス.md "wikilink")、[水泳](../Page/水泳.md "wikilink")などのチームを有しており、クラブ員の数は約6000人ほど。この項目ではサッカーについて述べる。

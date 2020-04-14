@@ -1,4 +1,4 @@
-> この記事は[ZOIDS SAGA](https://ja.wikipedia.org/wiki/ZOIDS_SAGA)から翻訳されています。
+> この記事は[ZOIDS SAGAシリーズ](https://ja.wikipedia.org/wiki/ZOIDS_SAGAシリーズ)から翻訳されています。
 
 
 **ZOIDS SAGA シリーズ**（ゾイドサーガシリーズ）は、[ゾイド](../Page/ゾイド.md "wikilink")を題材にした[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")および[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフトのシリーズ。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")（ZOIDS SAGA DSのみ[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")）で発売された[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")で、ゾイドの世界観（主にアニメ）を基本としたオリジナルストーリーが展開する。

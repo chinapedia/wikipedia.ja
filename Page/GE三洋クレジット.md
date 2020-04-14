@@ -1,4 +1,4 @@
-> この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
+> この記事は[GE三洋クレジット](https://ja.wikipedia.org/wiki/GE三洋クレジット)から翻訳されています。
 
 
 **GE三洋クレジット**（ジーイーさんようクレジット）は、かつて存在した米[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")（GE）系の法人金融会社・[GEフィナンシャルサービス](https://ja.wikipedia.org/wiki/GEフィナンシャルサービス "wikilink")株式会社の一事業部門。[リース](../Page/リース.md "wikilink")・[割賦販売](../Page/割賦販売.md "wikilink")などの事業を行う。現在は[日本GE](https://ja.wikipedia.org/wiki/日本GE "wikilink")株式会社の法人金融部門「GEキャピタル」に統合。

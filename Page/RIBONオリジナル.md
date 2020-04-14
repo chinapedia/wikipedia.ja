@@ -1,4 +1,4 @@
-> この記事は[RIBON](https://ja.wikipedia.org/wiki/RIBON)から翻訳されています。
+> この記事は[RIBONオリジナル](https://ja.wikipedia.org/wiki/RIBONオリジナル)から翻訳されています。
 
 
 『**RIBONオリジナル**』（りぼんオリジナル）は、[集英社](../Page/集英社.md "wikilink")が発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[雑誌](../Page/日本の漫画雑誌.md "wikilink")。1981年春の号から2006年6月号まで発行されていた。当初は季刊だったが、後に隔月刊誌に移行した。

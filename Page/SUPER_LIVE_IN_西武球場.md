@@ -1,4 +1,4 @@
-> この記事は[SUPER LIVE IN ](https://ja.wikipedia.org/wiki/SUPER_LIVE_IN_)から翻訳されています。
+> この記事は[SUPER LIVE IN 西武球場](https://ja.wikipedia.org/wiki/SUPER_LIVE_IN_西武球場)から翻訳されています。
 
 
 『**SUPER LIVE IN 西武球場**』（スーパー・ライブ・イン・せいぶきゅうじょう）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

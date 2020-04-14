@@ -1,4 +1,4 @@
-> この記事は[NEVER CHANGE \(\)](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(\))から翻訳されています。
+> この記事は[NEVER CHANGE \(アルバム\)](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(アルバム\))から翻訳されています。
 
 
 『**NEVER CHANGE**』（ネバー・チェンジ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[セルフカバー](../Page/セルフカバー.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")である。

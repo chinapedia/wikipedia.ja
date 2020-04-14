@@ -1,4 +1,4 @@
-> この記事は[3 the album of LOVE](https://ja.wikipedia.org/wiki/3_the_album_of_LOVE)から翻訳されています。
+> この記事は[バラッド3 〜the album of LOVE〜](https://ja.wikipedia.org/wiki/バラッド3_〜the_album_of_LOVE〜)から翻訳されています。
 
 
 『**バラッド3 〜the album of LOVE〜**』（バラッド・スリー ジ・アルバム・オブ・ラヴ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の3枚目の[バラード](../Page/バラード.md "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
@@ -23,7 +23,7 @@
 
 歌詞カードに掲載されている写真はメンバーが[七五三](../Page/七五三.md "wikilink")の写真をパロディーにしたようなものとなっていて、6人構成のサザンで発売した作品は本作が最後である（その後発売された再発などは除く）。
 
-## 受賞
+## 受賞歴
 
   - 第15回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")
       - [ロック](../Page/ロック_\(音楽\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")・オブ・ザ・イヤー\[4\]

@@ -1,4 +1,4 @@
-> この記事は[ THE MOVIE ](https://ja.wikipedia.org/wiki/_THE_MOVIE_)から翻訳されています。
+> この記事は[ケータイ刑事 THE MOVIE バベルの塔の秘密〜銭形姉妹への挑戦状](https://ja.wikipedia.org/wiki/ケータイ刑事_THE_MOVIE_バベルの塔の秘密〜銭形姉妹への挑戦状)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Zenigatafamily.PNG "wikilink") 『**ケータイ刑事 THE MOVIE バベルの塔の秘密〜銭形姉妹への挑戦状**』（ケータイでか ザ・ムービー バベルのとうのひみつ ぜにがたしまいへのちょうせんじょう）は、[2002年](../Page/2002年.md "wikilink")より[BS-TBS](../Page/BS-TBS.md "wikilink")（旧 BS-i）で放送されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ『[ケータイ刑事 銭形シリーズ](../Page/ケータイ刑事_銭形シリーズ.md "wikilink")』の劇場版作品。[2006年](../Page/2006年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")、池袋[シネマサンシャイン](../Page/シネマサンシャイン.md "wikilink")他で公開。2007年12月31日にBS-TBSでBS初放送。

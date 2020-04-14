@@ -1,4 +1,4 @@
-> この記事は[\(IV\)](https://ja.wikipedia.org/wiki/\(IV\))から翻訳されています。
+> この記事は[塩化チタン\(IV\)](https://ja.wikipedia.org/wiki/塩化チタン\(IV\))から翻訳されています。
 
 
 **塩化チタン(IV)**（えんかチタン、titanium(IV) chloride）は化学式 TiCl<sub>4</sub> で表される[チタン](../Page/チタン.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")で、融点 −24 ℃、沸点 136.4 ℃ の無色から淡黄色の液体。**四塩化チタン**とも呼ばれる。[CAS登録番号](../Page/CAS登録番号.md "wikilink")は \[7550-45-0\]。[水](../Page/水.md "wikilink")と反応して[酸化チタン(IV)](https://ja.wikipedia.org/wiki/酸化チタン\(IV\) "wikilink") と[塩化水素](../Page/塩化水素.md "wikilink")を生じる。空気中の水分とも反応して[塩化水素](../Page/塩化水素.md "wikilink")の白煙を生じる。

@@ -1,4 +1,4 @@
-> この記事は[HEAVY GAUGE \(\)](https://ja.wikipedia.org/wiki/HEAVY_GAUGE_\(\))から翻訳されています。
+> この記事は[HEAVY GAUGE \(長渕剛のアルバム\)](https://ja.wikipedia.org/wiki/HEAVY_GAUGE_\(長渕剛のアルバム\))から翻訳されています。
 
 
 『**HEAVY GAUGE**』（ヘビー・ゲージ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の6枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。

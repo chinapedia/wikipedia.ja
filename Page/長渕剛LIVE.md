@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[長渕剛LIVE](https://ja.wikipedia.org/wiki/長渕剛LIVE)から翻訳されています。
 
 
 『**長渕剛LIVE**』（ながぶちつよし・ライブ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の初の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

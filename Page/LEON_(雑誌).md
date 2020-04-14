@@ -1,4 +1,4 @@
-> この記事は[LEON \(\)](https://ja.wikipedia.org/wiki/LEON_\(\))から翻訳されています。
+> この記事は[LEON \(雑誌\)](https://ja.wikipedia.org/wiki/LEON_\(雑誌\))から翻訳されています。
 
 
 **LEON**（レオン）は、[主婦と生活社](../Page/主婦と生活社.md "wikilink")が発売している男性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")である。毎月24日発売。

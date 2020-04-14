@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[U字ロック](https://ja.wikipedia.org/wiki/U字ロック)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Велосипедный_замок_VS-130U.jpg "wikilink") **U字ロック**（ユーじロック）\[1\]・**Uロック**（[U-lock](https://ja.wikipedia.org/wiki/w:U-lock "wikilink")）は、[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")や[オートバイ](../Page/オートバイ.md "wikilink")の[盗難](https://ja.wikipedia.org/wiki/盗難 "wikilink")を防ぐ防犯用具で[バイシクルロック](https://ja.wikipedia.org/wiki/バイシクルロック "wikilink")（[Bicycle lock](https://ja.wikipedia.org/wiki/w:Bicycle_lock "wikilink")）の一種である。形状が[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の「**U**」の字に似ていることからのこのように呼ばれる。D字ロックまたは、Dロック（[D-lock](https://ja.wikipedia.org/wiki/w:D-lock "wikilink")）とも呼ばれる。また、工業用や登山用の金具「シャックル」と同様の形状・構造を持つ事から**シャックルロック**と呼ばれる事もある\[2\]\[3\]。

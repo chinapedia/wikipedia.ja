@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[ジョン・N・ガーナー](https://ja.wikipedia.org/wiki/ジョン・N・ガーナー)から翻訳されています。
 
 
 **ジョン・ナンス**「**サボテン・ジャック**」**・ガーナー**（**John Nance "Cactus Jack" Garner**, [1868年](../Page/1868年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - [1967年](../Page/1967年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")）は、第32代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。[テキサス州](../Page/テキサス州.md "wikilink")下院議員および[連邦下院議長も務めた](https://ja.wikipedia.org/wiki/アメリカ合衆国下院議長 "wikilink")。ガーナーは最も長寿だった副大統領で（99歳の[誕生日](../Page/誕生日.md "wikilink")の15日前に没）、その記録はまだ更新されていない。

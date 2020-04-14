@@ -1,4 +1,4 @@
-> この記事は[EH](https://ja.wikipedia.org/wiki/EH)から翻訳されています。
+> この記事は[E・H・カー](https://ja.wikipedia.org/wiki/E・H・カー)から翻訳されています。
 
 
 **エドワード・ハレット・カー**（Edward Hallett Carr、[1892年](../Page/1892年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - [1982年](../Page/1982年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史家](../Page/歴史家.md "wikilink")、[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")、[外交官](../Page/外交官.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・ステニス](https://ja.wikipedia.org/wiki/ジョン・C・ステニス)から翻訳されています。
 
 
 [250pxと密談するステニス](https://ja.wikipedia.org/wiki/画像:StennisVonBraun.jpg "wikilink")（左）\]\] **ジョン・コーネリアス・ステニス**（**John Cornelius Stennis**, [1901年](../Page/1901年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")）は、アメリカ合衆国の政治家。[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")選出の連邦議会上院議員などをつとめた。

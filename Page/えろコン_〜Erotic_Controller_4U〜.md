@@ -1,4 +1,4 @@
-> この記事は[ Erotic Controller 4U](https://ja.wikipedia.org/wiki/_Erotic_Controller_4U)から翻訳されています。
+> この記事は[えろコン 〜Erotic Controller 4U〜](https://ja.wikipedia.org/wiki/えろコン_〜Erotic_Controller_4U〜)から翻訳されています。
 
 
 『**えろコン 〜Erotic Controller 4U〜**』（**えろこん えろてぃっく こんとろーらー ふぉーゆー**）は、[ZEROから](../Page/ZERO_\(ブランド\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛制御アドベンチャーゲームである](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Special2](https://ja.wikipedia.org/wiki/Special2)から翻訳されています。
+> この記事は[アンジェリークSpecial2](https://ja.wikipedia.org/wiki/アンジェリークSpecial2)から翻訳されています。
 
 
 『**アンジェリークSpecial2**』（アンジェリークスペシャル2）は、[NECホームエレクトロニクスから](../Page/日本電気ホームエレクトロニクス.md "wikilink")1996年12月6日に発売された女性向け[恋愛シミュレーションゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。

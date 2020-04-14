@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[グッデイCBC](https://ja.wikipedia.org/wiki/グッデイCBC)から翻訳されています。
 
 
 『**グッデイCBC**』（グッデイシービーシー）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。放送時間は毎週月曜 - 金曜 7時46分頃 - 8時22分（[JST](../Page/日本標準時.md "wikilink")） 。[TBS系全国ネットの朝の情報番組](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[おはよう\!グッデイ](../Page/おはよう!グッデイ.md "wikilink")』のCBCローカルパートに相当する。

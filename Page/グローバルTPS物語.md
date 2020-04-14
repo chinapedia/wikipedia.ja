@@ -1,4 +1,4 @@
-> この記事は[TPS](https://ja.wikipedia.org/wiki/TPS)から翻訳されています。
+> この記事は[グローバルTPS物語](https://ja.wikipedia.org/wiki/グローバルTPS物語)から翻訳されています。
 
 
 『**グローバルTPS物語**』（グローバルTPSものがたり）とは[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『**[はねるのトびら](../Page/はねるのトびら.md "wikilink")**』で放送されていた代表的人気[コント](../Page/コント.md "wikilink")である。

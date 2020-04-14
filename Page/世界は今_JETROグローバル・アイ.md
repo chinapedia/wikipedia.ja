@@ -1,4 +1,4 @@
-> この記事は[ JETRO](https://ja.wikipedia.org/wiki/_JETRO)から翻訳されています。
+> この記事は[世界は今 JETROグローバル・アイ](https://ja.wikipedia.org/wiki/世界は今_JETROグローバル・アイ)から翻訳されています。
 
 
 『**世界は今 JETROグローバル・アイ**』（せかいはいま ジェトロ グローバル アイ）は、[日本貿易振興機構](../Page/日本貿易振興機構.md "wikilink")（JETRO）が制作する経済[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

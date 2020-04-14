@@ -1,4 +1,4 @@
-> この記事は[AE](https://ja.wikipedia.org/wiki/AE)から翻訳されています。
+> この記事は[A女E女](https://ja.wikipedia.org/wiki/A女E女)から翻訳されています。
 
 
 『**A女E女**』（エーおんなイーおんな）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月18日](../Page/10月18日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[お色気番組](../Page/お色気番組.md "wikilink")）である。全21回。

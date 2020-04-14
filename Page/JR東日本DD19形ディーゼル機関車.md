@@ -1,4 +1,4 @@
-> この記事は[JRDD19](https://ja.wikipedia.org/wiki/JRDD19)から翻訳されています。
+> この記事は[JR東日本DD19形ディーゼル機関車](https://ja.wikipedia.org/wiki/JR東日本DD19形ディーゼル機関車)から翻訳されています。
 
 
 **DD19形ディーゼル機関車**（DD19がたディーゼルきかんしゃ）は、かつて[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）に在籍した[ロータリー式](../Page/ロータリー車.md "wikilink")[除雪](../Page/除雪.md "wikilink")用[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である。

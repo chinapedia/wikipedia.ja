@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[V型エンジン](https://ja.wikipedia.org/wiki/V型エンジン)から翻訳されています。
 
 
 [thumb製のV](https://ja.wikipedia.org/wiki/ファイル:Mercedes_V6_DTM_Rennmotor_1996.jpg "wikilink")6エンジン\]\] **V型エンジン**（Vがたエンジン）は、[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の形式の一つで、[シリンダー](../Page/シリンダー.md "wikilink")を左右交互に[V](../Page/V.md "wikilink")字型に配置したエンジン。シリンダーを水平に配置した180°V型エンジンも存在する。

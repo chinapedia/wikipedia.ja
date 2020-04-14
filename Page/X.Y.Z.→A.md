@@ -1,4 +1,4 @@
-> この記事は[X.Y.Z.A](https://ja.wikipedia.org/wiki/X.Y.Z.A)から翻訳されています。
+> この記事は[X.Y.Z.→A](https://ja.wikipedia.org/wiki/X.Y.Z.→A)から翻訳されています。
 
 
 **X.Y.Z.→A**（エックス・ワイ・ズィー・トゥ・エー、[1999年](../Page/1999年.md "wikilink") - ）は、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドである。

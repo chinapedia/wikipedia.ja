@@ -1,4 +1,4 @@
-> この記事は[RKB50](https://ja.wikipedia.org/wiki/RKB50)から翻訳されています。
+> この記事は[RKBベスト歌謡50](https://ja.wikipedia.org/wiki/RKBベスト歌謡50)から翻訳されています。
 
 
 **RKBベスト歌謡50**（アールケービーベストかよう50）は、[RKBラジオ](../Page/RKBラジオ.md "wikilink")で[1974年](../Page/1974年.md "wikilink")（昭和49年）[4月14日](../Page/4月14日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[12月31日](../Page/12月31日.md "wikilink")まで毎週日曜日に放送された[歌謡曲](../Page/歌謡曲.md "wikilink")のランキングカウントダウン番組。

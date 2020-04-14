@@ -51,7 +51,7 @@ NESAバスメモリ・SCSIボード・LANボードなどが存在した。H98用
 
   - PC-H98-B03 (NEC)
   - PC-H98-B12 (NEC)
-  - PSB-H9310 (日本マイクロコンピュータ)
+  - PSB-H9310 (日本マイクロコンピュータ)\[1\]
 
 <!-- end list -->
 
@@ -77,6 +77,12 @@ NESAバスメモリ・SCSIボード・LANボードなどが存在した。H98用
   - SV-H98-B01 (NEC) - プリンタボード
   - PC-H98-U02 (NEC) - NESAバス増設ボックス
 
+## 脚注
+
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [PC-H98シリーズ](../Page/PC-H98シリーズ.md "wikilink")
@@ -85,3 +91,5 @@ NESAバスメモリ・SCSIボード・LANボードなどが存在した。H98用
   - [APバス](../Page/APバス.md "wikilink")
 
 [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")
+
+1.  畑 陽一郎 「98が抱える三つの弱点 バスが遅い, NESAが遅い, そしてSCSIも遅い」 [日経バイト](https://ja.wikipedia.org/wiki/バイト_\(雑誌\) "wikilink")（1992年3月号） pp246-257

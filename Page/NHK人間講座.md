@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK人間講座](https://ja.wikipedia.org/wiki/NHK人間講座)から翻訳されています。
 
 
 **NHK人間講座**（エヌエイチケイにんげんこうざ）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")から[水曜日](../Page/水曜日.md "wikilink")の23:00 - 23:30（のちに22:25 - 22:50）に放送された[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。再放送は翌週の同じ[曜日](../Page/曜日.md "wikilink")の5:05 - 5:30、1か月後の[火曜日](../Page/火曜日.md "wikilink") -（[木曜日](../Page/木曜日.md "wikilink")の26:00 - 26:25（[水曜日](../Page/水曜日.md "wikilink") -（[金曜日](../Page/金曜日.md "wikilink")の2:00 - 2:25）である。以前は、『[NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")』、『[NHK人間大学](../Page/NHK人間大学.md "wikilink")』という番組名で放送された（副音声[解説放送](../Page/解説放送.md "wikilink")実施）。

@@ -1,4 +1,4 @@
-> この記事は[B.B.](https://ja.wikipedia.org/wiki/B.B.)から翻訳されています。
+> この記事は[B.B.クィーンズ](https://ja.wikipedia.org/wiki/B.B.クィーンズ)から翻訳されています。
 
 
 **B.B.クィーンズ**（ビービークィーンズ、B.B.QUEENS）は、[ビーイング](../Page/ビーイング.md "wikilink")が企画した[音楽グループ](../Page/音楽ユニット.md "wikilink")\[1\]。

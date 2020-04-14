@@ -1,4 +1,4 @@
-> この記事は[NDR](https://ja.wikipedia.org/wiki/NDR)から翻訳されています。
+> この記事は[NDRエルプフィルハーモニー管弦楽団](https://ja.wikipedia.org/wiki/NDRエルプフィルハーモニー管弦楽団)から翻訳されています。
 
 
 **NDRエルプフィルハーモニー管弦楽団**（）は、1945年に結成された、北[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハンブルク](../Page/ハンブルク.md "wikilink")に本拠を置く[オーケストラ](../Page/オーケストラ.md "wikilink")。旧称は、**ハンブルク北ドイツ放送交響楽団**（）。

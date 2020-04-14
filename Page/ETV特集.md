@@ -1,4 +1,4 @@
-> この記事は[ETV](https://ja.wikipedia.org/wiki/ETV)から翻訳されています。
+> この記事は[ETV特集](https://ja.wikipedia.org/wiki/ETV特集)から翻訳されています。
 
 
 **ETV特集**（ETVとくしゅう）は日本の[NHK教育テレビで放送されている](../Page/NHK教育テレビジョン.md "wikilink")[教養情報番組](../Page/教養番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CVD](https://ja.wikipedia.org/wiki/CVD)から翻訳されています。
+> この記事は[熱CVD](https://ja.wikipedia.org/wiki/熱CVD)から翻訳されています。
 
 
 **熱CVD**（ねつシーブイディー、）は、熱分解による生成物や化学反応によって、薄膜を形成する手法である\[1\]。[化学気相成長](../Page/化学気相成長.md "wikilink")（CVD: chemical vapor deposition、化学蒸着）の一種であり、熱エネルギーによる原料ガスの分解生成物や化学反応を利用することが特徴である。

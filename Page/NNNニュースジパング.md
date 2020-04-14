@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニュースジパング](https://ja.wikipedia.org/wiki/NNNニュースジパング)から翻訳されています。
 
 
 『**NNNニュースジパング**』（エヌエヌエヌニュースジパング）は、[1992年](../Page/1992年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")にかけて放送された[NNN](../Page/日本ニュースネットワーク.md "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）の[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[While](https://ja.wikipedia.org/wiki/While)から翻訳されています。
+> この記事は[While文](https://ja.wikipedia.org/wiki/While文)から翻訳されています。
 
 
 **while文** () は[プログラミング言語](../Page/プログラミング言語.md "wikilink")において繰り返し（[ループ](../Page/ループ_\(プログラミング\).md "wikilink")）の[制御構造](../Page/制御構造.md "wikilink")を記述するための[文](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink") (statement) である。英語の接続詞  の意味「〜である間」の通り、継続条件として指定された[式](../Page/式_\(プログラミング\).md "wikilink")（制御式）を評価した値が真である間、ループ本体 (loop body) \[1\]の処理を繰り返し実行する。

@@ -1,4 +1,4 @@
-> この記事は[ \(TV2\)](https://ja.wikipedia.org/wiki/_\(TV2\))から翻訳されています。
+> この記事は[ルパン三世 \(TV第2シリーズ\)](https://ja.wikipedia.org/wiki/ルパン三世_\(TV第2シリーズ\))から翻訳されています。
 
 
 『**ルパン三世（TV第2シリーズ）**』は、アニメ『[ルパン三世](../Page/ルパン三世.md "wikilink")』の作品群のうち、[1977年](../Page/1977年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")まで放送されたテレビアニメシリーズを指す。映像上の題名は『ルパン三世』。本項では便宜上『TV第2シリーズ』と表記する。
@@ -211,7 +211,7 @@
 10月3日</p></td>
 <td><p>ルパン三世颯爽登場</p></td>
 <td><p><a href="../Page/山崎忠昭.md" title="wikilink">山崎忠昭</a></p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td><p><a href="../Page/北原健雄.md" title="wikilink">北原健雄</a></p></td>
 <td></td>
 </tr>
@@ -265,7 +265,7 @@
 <td><p>11月14日</p></td>
 <td><p>ツタンカーメン三千年の呪い</p></td>
 <td><p>佐々木正広</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -302,7 +302,7 @@
 <td><p>モナコGPに賭けろ</p></td>
 <td><p>今野鑲</p></td>
 <td><p><a href="../Page/こだま兼嗣.md" title="wikilink">宮本清司</a></p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -347,7 +347,7 @@
 <td><p>1月23日</p></td>
 <td><p>二つの顔のルパン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田上雄" title="wikilink">田上雄</a></p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -613,8 +613,8 @@
 <td><p>8月7日</p></td>
 <td><p>消えた特別装甲車</p></td>
 <td><p>今野鑲</p></td>
-<td><p>御厨恭輔</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -701,7 +701,7 @@
 <td><p>狂気のファントマ・マークIII</p></td>
 <td><p>金子裕<br />
 掛川正幸</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -768,7 +768,7 @@
 <td><p>11月27日</p></td>
 <td><p>インドに自殺の花が咲く</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大原清秀" title="wikilink">大原清秀</a></p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -806,7 +806,7 @@
 <td><p>12月25日</p></td>
 <td><p>クリスマスは女神の手に</p></td>
 <td><p>高階秋成</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -837,7 +837,7 @@
 <td><p>ルパンの大西遊記</p></td>
 <td><p>大原清秀</p></td>
 <td><p>奥田誠二</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -884,7 +884,7 @@
 <td><p>スケートボード殺人事件</p></td>
 <td><p>宮田雪</p></td>
 <td><p>奥田誠二</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -901,7 +901,7 @@
 <td><p>3月12日</p></td>
 <td><p>恐怖のカメレオン人間</p></td>
 <td><p>大原清秀</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -940,7 +940,7 @@
 <td><p>ロボットの瞳にダイヤが光る</p></td>
 <td><p>浦沢義雄</p></td>
 <td><p>青木悠三</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -966,7 +966,7 @@
 <td><p>4月30日</p></td>
 <td><p>不二子! 男はつらいぜ</p></td>
 <td><p>高階秋成</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -995,7 +995,7 @@
 <td><p>復讐はルパンにまかせろ</p></td>
 <td><p>高階秋成</p></td>
 <td><p>奥田誠二</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td><p>北原健雄<br />
 児玉兼嗣</p></td>
 </tr>
@@ -1022,7 +1022,7 @@
 <td><p>6月11日</p></td>
 <td><p>悪魔がルパンを招くとき</p></td>
 <td><p>杉村のぼる</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1109,7 +1109,7 @@
 <td><p>ルパンのお料理天国</p></td>
 <td><p>金子裕</p></td>
 <td><p>青木悠三</p></td>
-<td><p>御厨恭輔</p></td>
+<td><p><a href="../Page/御厨恭輔.md" title="wikilink">御厨恭輔</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2054,7 +2054,7 @@
   - [トムス・エンタテインメントによる作品紹介](http://www.tms-e.co.jp/search/introduction.php?pdt_no=53)
 
   -
-[Category:ルパン三世TVシリーズ](https://ja.wikipedia.org/wiki/Category:ルパン三世TVシリーズ "wikilink") [Category:ルパン三世_(TV第2シリーズ)](https://ja.wikipedia.org/wiki/Category:ルパン三世_\(TV第2シリーズ\) "wikilink") [Category:1977年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1977年のテレビアニメ "wikilink") [Category:日本テレビ系アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビ系アニメ "wikilink") [Category:東京ムービーのアニメ作品](https://ja.wikipedia.org/wiki/Category:東京ムービーのアニメ作品 "wikilink") [Category:宮崎駿](https://ja.wikipedia.org/wiki/Category:宮崎駿 "wikilink") [Category:リメイクアニメ](https://ja.wikipedia.org/wiki/Category:リメイクアニメ "wikilink")
+[Category:ルパン三世TVシリーズ](https://ja.wikipedia.org/wiki/Category:ルパン三世TVシリーズ "wikilink") [Category:ルパン三世_(TV第2シリーズ)](https://ja.wikipedia.org/wiki/Category:ルパン三世_\(TV第2シリーズ\) "wikilink") [Category:1977年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1977年のテレビアニメ "wikilink") [Category:日本テレビ系アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビ系アニメ "wikilink") [Category:東京ムービーのアニメ作品](https://ja.wikipedia.org/wiki/Category:東京ムービーのアニメ作品 "wikilink") [Category:宮崎駿](https://ja.wikipedia.org/wiki/Category:宮崎駿 "wikilink") [Category:リメイクアニメ](https://ja.wikipedia.org/wiki/Category:リメイクアニメ "wikilink") [Category:ルパン三世_Part2](https://ja.wikipedia.org/wiki/Category:ルパン三世_Part2 "wikilink")
 
 1.
 2.  東京ムービーアニメ全史

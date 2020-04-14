@@ -1,4 +1,4 @@
-> この記事は[!CBC](https://ja.wikipedia.org/wiki/!CBC)から翻訳されています。
+> この記事は[ユーガッタ!CBC](https://ja.wikipedia.org/wiki/ユーガッタ!CBC)から翻訳されています。
 
 
 『**ユーガッタ\!CBC**』（ユーガッタ シービーシー）は、[1999年](../Page/1999年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC) で放送されていた[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")向けの[ローカル](../Page/ローカル.md "wikilink")[ワイドニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。協力：[中日新聞](../Page/中日新聞.md "wikilink")。

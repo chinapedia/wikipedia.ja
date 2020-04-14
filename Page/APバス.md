@@ -1,4 +1,4 @@
-> この記事は[AP](https://ja.wikipedia.org/wiki/AP)から翻訳されています。
+> この記事は[APバス](https://ja.wikipedia.org/wiki/APバス)から翻訳されています。
 
 
 **APバス**は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された、[NECの](../Page/日本電気.md "wikilink")[EWS4800](../Page/EWS4800.md "wikilink")、[UP4800](../Page/UP4800.md "wikilink")シリーズに搭載された[RISC](../Page/RISC.md "wikilink")型[MPU](../Page/CPU.md "wikilink") [R4000](https://ja.wikipedia.org/wiki/R4000 "wikilink")シリーズ、[R4400](https://ja.wikipedia.org/wiki/R4400 "wikilink")シリーズ向けに開発された32bit高速[バスである](../Page/バス_\(コンピュータ\).md "wikilink")。

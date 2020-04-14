@@ -1,4 +1,4 @@
-> この記事は[CQ](https://ja.wikipedia.org/wiki/CQ)から翻訳されています。
+> この記事は[CQ出版](https://ja.wikipedia.org/wiki/CQ出版)から翻訳されています。
 
 
 **CQ出版株式会社**（シーキューしゅっぱん）は、[東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")に本社を置く[出版社](../Page/出版社.md "wikilink")。[アマチュア無線](https://ja.wikipedia.org/wiki/アマチュア無線 "wikilink")・[電子工学](../Page/電子工学.md "wikilink")関連の雑誌、書籍を発行する。

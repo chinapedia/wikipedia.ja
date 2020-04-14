@@ -1,4 +1,4 @@
-> この記事は[JNN\&](https://ja.wikipedia.org/wiki/JNN\&)から翻訳されています。
+> この記事は[JNNスポーツ\&ニュース](https://ja.wikipedia.org/wiki/JNNスポーツ\&ニュース)から翻訳されています。
 
 
 **JNNスポーツ&ニュース**（ジェイエヌエヌスポーツアンドニュース）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")（[3月31日](../Page/3月31日.md "wikilink")深夜）まで、[JNN系列で放送されていた毎週](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")の最終[ニュース](../Page/ニュース.md "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")[番組](../Page/テレビ番組.md "wikilink")。2000年から2002年にかけて放送の『**SPO LOVE**』（スポラブ）、さらに2013年から2016年まで同一タイトルで放送されていた単発番組についても併せて述べる。

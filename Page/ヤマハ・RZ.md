@@ -1,4 +1,4 @@
-> この記事は[RZ](https://ja.wikipedia.org/wiki/RZ)から翻訳されています。
+> この記事は[ヤマハ・RZ](https://ja.wikipedia.org/wiki/ヤマハ・RZ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_RZ250_2.jpg "wikilink") **RZ**（アールゼット）とは、かつて[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造していた[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に生産されていた。

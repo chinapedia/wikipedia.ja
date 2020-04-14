@@ -1,4 +1,4 @@
-> この記事は[!SPEED!](https://ja.wikipedia.org/wiki/!SPEED!)から翻訳されています。
+> この記事は[ハイ!SPEEDで行こう!](https://ja.wikipedia.org/wiki/ハイ!SPEEDで行こう!)から翻訳されています。
 
 
 『**ハイ\!SPEEDで行こう\!**』（ハイ スピードでいこう）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で[1996年](../Page/1996年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[放送](../Page/放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[歌手](../Page/歌手.md "wikilink")の[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")。

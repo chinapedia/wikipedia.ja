@@ -1,4 +1,4 @@
-> この記事は[UN](https://ja.wikipedia.org/wiki/UN)から翻訳されています。
+> この記事は[UN街](https://ja.wikipedia.org/wiki/UN街)から翻訳されています。
 
 
 『**UN街**』（ウンナンタウン）は、[2004年](../Page/2004年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで一部[TBS系列局で放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 23:55 - 翌0:35 ([JST](../Page/日本標準時.md "wikilink")) 、『[Pooh\!](../Page/Pooh!.md "wikilink")』火曜第1部の番組として放送。

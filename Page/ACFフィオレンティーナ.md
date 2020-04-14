@@ -1,4 +1,4 @@
-> この記事は[ACF](https://ja.wikipedia.org/wiki/ACF)から翻訳されています。
+> この記事は[ACFフィオレンティーナ](https://ja.wikipedia.org/wiki/ACFフィオレンティーナ)から翻訳されています。
 
 
 **ACFフィオレンティーナ** () は、[イタリア](../Page/イタリア.md "wikilink")の[トスカーナ州](../Page/トスカーナ州.md "wikilink")[フィレンツェ](../Page/フィレンツェ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである\[1\]。

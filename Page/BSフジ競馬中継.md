@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSフジ競馬中継](https://ja.wikipedia.org/wiki/BSフジ競馬中継)から翻訳されています。
 
 
 **BSフジ競馬中継**（ビーエスフジけいばちゅうけい）とは[BSフジ](../Page/BSフジ.md "wikilink")で日曜日に放送する[中央競馬](../Page/中央競馬.md "wikilink")中継の番組である。初期の『**[競馬大王](https://ja.wikipedia.org/wiki/#競馬大王 "wikilink")**』（けいばだいおう）や[2018年](../Page/2018年.md "wikilink")から放送している『**[BSスーパーKEIBA](https://ja.wikipedia.org/wiki/#BSスーパーKEIBA "wikilink")**』（ビーエススーパーケイバ）についても後半で扱う。
@@ -3834,7 +3834,7 @@ KTV[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月8日</p></td>
-<td><p><a href="../Page/弥生賞.md" title="wikilink">弥生賞</a>ディープインパクト記念</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/弥生賞ディープインパクト記念" title="wikilink">弥生賞ディープインパクト記念</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3860,6 +3860,50 @@ KTV[13]</p></td>
 <td><p>3月29日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a><br />
 <a href="../Page/マーチステークス.md" title="wikilink">マーチステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月5日</p></td>
+<td><p><a href="../Page/大阪杯.md" title="wikilink">大阪杯</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月17日</p></td>
+<td><p><a href="../Page/ヴィクトリアマイル.md" title="wikilink">ヴィクトリアマイル</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月7日</p></td>
+<td><p>安田記念</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月14日</p></td>
+<td><p><a href="../Page/エプソムカップ.md" title="wikilink">エプソムカップ</a><br />
+<a href="../Page/マーメイドステークス.md" title="wikilink">マーメイドステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月21日</p></td>
+<td><p><a href="../Page/函館スプリントステークス.md" title="wikilink">函館スプリントステークス</a><br />
+<a href="../Page/ユニコーンステークス.md" title="wikilink">ユニコーンステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3896,7 +3940,7 @@ KTV[13]</p></td>
 
 ## 関連項目
 
-  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） - 2011年開始の競馬番組。これにより、当番組を含めて午後の競馬が視聴可能だった。
+  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） - 2011年開始の競馬番組。これにより、当番組を含めて午後の競馬が視聴可能になった。
 
 ## 外部リンク
 

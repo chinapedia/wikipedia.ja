@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[中央競馬LIVE](https://ja.wikipedia.org/wiki/中央競馬LIVE)から翻訳されています。
 
 
 『**中央競馬LIVE**』（ちゅうおうけいばライブ）とは、[2000年](../Page/2000年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")の毎週[土曜日](../Page/土曜日.md "wikilink")14:30 - 16:00にBS-i（現・[BS-TBS](../Page/BS-TBS.md "wikilink")）で放送されていた、[中央競馬](../Page/中央競馬.md "wikilink")のレースを実況中継する[テレビ番組](../Page/テレビ番組.md "wikilink")である。

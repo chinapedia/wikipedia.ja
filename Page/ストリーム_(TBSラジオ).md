@@ -1,4 +1,4 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[ストリーム \(TBSラジオ\)](https://ja.wikipedia.org/wiki/ストリーム_\(TBSラジオ\))から翻訳されています。
 
 
 『**ストリーム**』は、[2001年](../Page/2001年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[生放送](../Page/生放送.md "wikilink")の[ワイド番組](../Page/ワイド番組.md "wikilink")。

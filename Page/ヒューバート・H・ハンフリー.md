@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ヒューバート・H・ハンフリー](https://ja.wikipedia.org/wiki/ヒューバート・H・ハンフリー)から翻訳されています。
 
 
 **ヒューバート・ホレイショー・ハンフリー・ジュニア**（、[1911年](../Page/1911年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") – [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家である。

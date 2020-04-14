@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FM情報誌](https://ja.wikipedia.org/wiki/FM情報誌)から翻訳されています。
 
 
 **FM情報誌**（エフエムじょうほうし）とは、[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")の[番組確認や](https://ja.wikipedia.org/wiki/放送番組 "wikilink")[エアチェック](../Page/エアチェック.md "wikilink")に便利なように演奏曲目を情報提供することを基本とし、[CDの新譜案内や](../Page/コンパクトディスク.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の情報などさまざまな情報により構成されている[雑誌](../Page/雑誌.md "wikilink")である。

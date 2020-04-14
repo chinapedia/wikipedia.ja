@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[IT人材育成センター国家資格・試験部](https://ja.wikipedia.org/wiki/IT人材育成センター国家資格・試験部)から翻訳されています。
 
 
 **IT人材育成センター国家資格・試験部**（アイティーじんざいいくせいセンターこっかしかく・しけんぶ）は、[情報処理安全確保支援士](https://ja.wikipedia.org/wiki/情報処理安全確保支援士 "wikilink")制度の登録事務（取消事務・命令事務を除く）と講習事務、[情報処理安全確保支援士試験](https://ja.wikipedia.org/wiki/情報処理安全確保支援士試験 "wikilink")・[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の試験事務を行うために[独立行政法人](../Page/独立行政法人.md "wikilink")[情報処理推進機構](../Page/情報処理推進機構.md "wikilink")に設置される組織のことである。 [東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の同機構に本部がある。

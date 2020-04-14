@@ -1,4 +1,4 @@
-> この記事は[HW \(\)](https://ja.wikipedia.org/wiki/HW_\(\))から翻訳されています。
+> この記事は[ジョージ・H・W・ブッシュ \(空母\)](https://ja.wikipedia.org/wiki/ジョージ・H・W・ブッシュ_\(空母\))から翻訳されています。
 
 
 [CVN-77_insignia.png](https://ja.wikipedia.org/wiki/File:CVN-77_insignia.png "fig:CVN-77_insignia.png") **ジョージ・H・W・ブッシュ**（USS George H. W. Bush, CVN-77）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[ニミッツ級航空母艦](../Page/ニミッツ級航空母艦.md "wikilink")第10番艦で、ニミッツ級の最終艦となる。艦名は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中海軍[パイロットだった](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[ジョージ・H・W・ブッシュ](../Page/ジョージ・H・W・ブッシュ.md "wikilink")第41代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")に因む。

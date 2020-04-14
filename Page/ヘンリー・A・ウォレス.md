@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ヘンリー・A・ウォレス](https://ja.wikipedia.org/wiki/ヘンリー・A・ウォレス)から翻訳されています。
 
 
 **ヘンリー・アガード・ウォレス**（**Henry Agard Wallace**, [1888年](../Page/1888年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") – [1965年](../Page/1965年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")）は、33代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")（1941年から45年）。[アメリカ合衆国農務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国農務長官 "wikilink")（1933年から40年）・[アメリカ合衆国商務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国商務長官 "wikilink")（1945年から46年）。[1948年の大統領選挙に二大政党の指名を受けず立候補した](https://ja.wikipedia.org/wiki/1948年アメリカ合衆国大統領選挙 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[If ](https://ja.wikipedia.org/wiki/If_)から翻訳されています。
+> この記事は[If もしも](https://ja.wikipedia.org/wiki/If_もしも)から翻訳されています。
 
 
 『**if もしも**』（イフ もしも）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")（フジテレビ・[共同テレビ](../Page/共同テレビジョン.md "wikilink")・[日活撮影所](../Page/日活撮影所.md "wikilink")）製作で、[1993年](../Page/1993年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")から同年[9月16日](../Page/9月16日.md "wikilink")まで、毎週[木曜日](../Page/木曜日.md "wikilink") 20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に半年間放送されていた[オムニバス](../Page/オムニバス.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。**『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』**同様に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")がストーリーテラーを担当し、[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。

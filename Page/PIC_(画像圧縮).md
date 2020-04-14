@@ -1,4 +1,4 @@
-> この記事は[PIC \(\)](https://ja.wikipedia.org/wiki/PIC_\(\))から翻訳されています。
+> この記事は[PIC \(画像圧縮\)](https://ja.wikipedia.org/wiki/PIC_\(画像圧縮\))から翻訳されています。
 
 
 **PIC**（ピック）は、日本で使われていた画像圧縮フォーマットの一つ。やなぎさわ考案による[可逆圧縮](../Page/可逆圧縮.md "wikilink")の画像圧縮形式である。

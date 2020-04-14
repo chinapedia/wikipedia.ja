@@ -1,4 +1,4 @@
-> この記事は[WAKUWAKU](https://ja.wikipedia.org/wiki/WAKUWAKU)から翻訳されています。
+> この記事は[WAKU★WAKU](https://ja.wikipedia.org/wiki/WAKU★WAKU)から翻訳されています。
 
 
 『**WAKU★WAKU**』（ワクワク）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[中京テレビで放送された](../Page/中京テレビ放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。全77回。放送時間は毎週[土曜](../Page/土曜日.md "wikilink") 11:40 - 12:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

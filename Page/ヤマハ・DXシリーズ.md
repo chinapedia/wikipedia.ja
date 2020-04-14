@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[ヤマハ・DXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・DXシリーズ)から翻訳されています。
 
 
 **DXシリーズ**（ディーエックス・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")から発売されていた**[シンセサイザー](../Page/シンセサイザー.md "wikilink")**の型番・商品名。

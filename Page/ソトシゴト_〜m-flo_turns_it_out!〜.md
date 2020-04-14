@@ -1,4 +1,4 @@
-> この記事は[ m-flo turns it out!](https://ja.wikipedia.org/wiki/_m-flo_turns_it_out!)から翻訳されています。
+> この記事は[ソトシゴト 〜m-flo turns it out!〜](https://ja.wikipedia.org/wiki/ソトシゴト_〜m-flo_turns_it_out!〜)から翻訳されています。
 
 
 『**ソトシゴト 〜m-flo turns it out\!〜**』（ソトシゴト エム・フロウ ターンズ・イット・アウト\!）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")である[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")による企画アルバム。 [2002年](../Page/2002年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売。メンバーによる客演・[リミックス](../Page/リミックス.md "wikilink")などの他、アーティストとのコラボレーション楽曲を中心に構成されている。

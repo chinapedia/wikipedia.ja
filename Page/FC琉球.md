@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FC琉球](https://ja.wikipedia.org/wiki/FC琉球)から翻訳されています。
 
 
 **FC琉球**（エフシーりゅうきゅう、） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[沖縄市](../Page/沖縄市.md "wikilink")を中心とする[沖縄県](../Page/沖縄県.md "wikilink")全県を[ホームタウン](../Page/ホームタウン.md "wikilink")とする\[1\][日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟するサッカークラブである。
@@ -21,7 +21,7 @@
 
 2004年、沖縄県サッカー協会社会人連盟の推薦により県リーグ1部へ飛び級での参入が認められた\[13\]\[14\]。監督に元[日本代表の](../Page/サッカー日本代表.md "wikilink")[与那城ジョージ](../Page/与那城ジョージ.md "wikilink")が就任、県リーグ1部で優勝を果たす。[九州各県リーグ決勝大会](../Page/九州各県リーグ決勝大会.md "wikilink")は決勝で有明SC（現：[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")）を破って優勝した。さらに天皇杯に初めて出場し、初勝利も挙げた。
 
-2005年、[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")は2位。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")は2回戦で敗れたが、[第29回全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/第29回全国地域リーグ決勝大会 "wikilink")で優勝。その後、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）入会が承認され、沖縄県のサッカークラブとして初の全国リーグ参戦となった\[15\]。
+2005年、[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")は2位。[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")は2回戦で敗れたが、[第29回全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/第29回全国地域リーグ決勝大会 "wikilink")で優勝。その後、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）入会が承認され、沖縄県のサッカークラブとして初の全国リーグ参戦となった\[15\]。
 
 ### 2006年 - 2013年 (JFL)
 
@@ -121,7 +121,7 @@
 <!-- end list -->
 
   -
-    金が新体制発表会で「3対1で勝つサッカーを追求し、[J2に昇格することを目標に掲げる](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")」と述べた新チームの開幕戦・アウェイ[栃木戦は](../Page/栃木SC.md "wikilink")0-0の引き分けスタート\[23\]。第7節以降は、引き分けを挟み、第18節の[長野戦で敗れるまで](../Page/AC長野パルセイロ.md "wikilink")、10試合連続の負けなしを記録した。リーグ前半終了地点での成績は、6勝7分4敗。8位で折り返すこととなった\[24\]。天皇杯は1回戦で[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた。
+    金が新体制発表会で「3対1で勝つサッカーを追求し、[J2に昇格することを目標に掲げる](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")」と述べた新チームの開幕戦・アウェイ[栃木戦は](../Page/栃木SC.md "wikilink")0-0の引き分けスタート\[23\]。第7節以降は、引き分けを挟み、第18節の[長野戦で敗れるまで](../Page/AC長野パルセイロ.md "wikilink")、10試合連続の負けなしを記録した。リーグ前半終了地点での成績は、6勝7分4敗。8位で折り返すこととなった\[24\]。天皇杯は1回戦で[JFLの](../Page/日本フットボールリーグ.md "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた。
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   -
-    開幕戦は、ホームで[富山と対戦し](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")、4-3で白星でのスタートとなった\[41\]。序盤はアウェイ中心の日程で第5節から4戦勝ち無し（1分3敗）など停滞するものの、第9節のホーム・[G大阪U-23で](https://ja.wikipedia.org/wiki/ガンバ大阪#ガンバ大阪U-23 "wikilink")5試合ぶりの勝ち星を挙げると、そこから10試合を負け無し（7勝3分）の快進撃を続け、第17節には首位に浮上。第19節終了時点で10勝5分け3敗の勝ち点35で、首位をキープして夏場の一ヶ月の中断期間へ入ることになった\[42\]。天皇杯は、2017年と同じく1回戦で[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた\[43\]。7月22日には、[e-Sportsチーム](../Page/エレクトロニック・スポーツ.md "wikilink")「FC琉球」の発足が発表された\[44\]。
+    開幕戦は、ホームで[富山と対戦し](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")、4-3で白星でのスタートとなった\[41\]。序盤はアウェイ中心の日程で第5節から4戦勝ち無し（1分3敗）など停滞するものの、第9節のホーム・[G大阪U-23で](https://ja.wikipedia.org/wiki/ガンバ大阪#ガンバ大阪U-23 "wikilink")5試合ぶりの勝ち星を挙げると、そこから10試合を負け無し（7勝3分）の快進撃を続け、第17節には首位に浮上。第19節終了時点で10勝5分け3敗の勝ち点35で、首位をキープして夏場の一ヶ月の中断期間へ入ることになった\[42\]。天皇杯は、2017年と同じく1回戦で[JFLの](../Page/日本フットボールリーグ.md "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた\[43\]。7月22日には、[e-Sportsチーム](../Page/エレクトロニック・スポーツ.md "wikilink")「FC琉球」の発足が発表された\[44\]。
 
 <!-- end list -->
 
@@ -712,7 +712,7 @@ Team Fumitake</p></td>
 60. [J2所属の沖縄のクラブチーム「FC琉球」と資本業務提携](https://www.evolableasia.com/news/1667?c=&y=&m=) 2019年6月27日配信 株式会社エボラブルアジア
 61.
 62.
-63. Jリーグ以外のカテゴリでは、[FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink")（[JFL所属](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")）が先んじて同様の学校「FC大阪高等学院」を開設している。
+63. Jリーグ以外のカテゴリでは、[FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink")（[JFL所属](../Page/日本フットボールリーグ.md "wikilink")）が先んじて同様の学校「FC大阪高等学院」を開設している。
 64.
 65.
 66.

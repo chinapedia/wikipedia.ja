@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKナイトニュース](https://ja.wikipedia.org/wiki/NHKナイトニュース)から翻訳されています。
 
 
 **NHKナイトニュース**（エヌエイチケイ ナイトニュース）は、[1988年](../Page/1988年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にかけてNHK総合テレビで放送された最終ニュース番組。毎日24:00終了だが、番組本編は正式には23時57分30秒で終了する。

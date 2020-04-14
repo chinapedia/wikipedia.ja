@@ -1,4 +1,4 @@
-> この記事は[SOHLA](https://ja.wikipedia.org/wiki/SOHLA)から翻訳されています。
+> この記事は[宇宙開発協同組合SOHLA](https://ja.wikipedia.org/wiki/宇宙開発協同組合SOHLA)から翻訳されています。
 
 
 **宇宙開発協同組合SOHLA**（うちゅうかいはつきょうどうくみあいソーラ）は、日本の民間[宇宙開発](https://ja.wikipedia.org/wiki/宇宙開発 "wikilink")組織である[事業協同組合](https://ja.wikipedia.org/wiki/事業協同組合 "wikilink")。2012年11月1日までの旧称は「**東大阪宇宙開発協同組合**」\[1\]。

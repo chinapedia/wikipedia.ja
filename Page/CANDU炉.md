@@ -1,4 +1,4 @@
-> この記事は[CANDU](https://ja.wikipedia.org/wiki/CANDU)から翻訳されています。
+> この記事は[CANDU炉](https://ja.wikipedia.org/wiki/CANDU炉)から翻訳されています。
 
 
 \[\[<File:CANDU> Reactor Schematic.svg|thumb|right|300px| CANDU炉の模式図。一次冷却水系は黄色と橙色、二次冷却水系は赤色と青色で描かれている。減速用の重水はピンク色

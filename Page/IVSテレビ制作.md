@@ -1,4 +1,4 @@
-> この記事は[IVS](https://ja.wikipedia.org/wiki/IVS)から翻訳されています。
+> この記事は[IVSテレビ制作](https://ja.wikipedia.org/wiki/IVSテレビ制作)から翻訳されています。
 
 
 **IVSテレビ制作**（アイ・ヴィ・エス テレビせいさく、**IVS Television Co.,ltd.**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[港区と](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に[本社](../Page/本社.md "wikilink")（大阪は登記上[本店](../Page/本店.md "wikilink")でもある）を置く、[テレビ番組](../Page/テレビ番組.md "wikilink")の[制作プロダクション](../Page/制作プロダクション.md "wikilink")。「**IVS**」は"**International Vision System**"の略。

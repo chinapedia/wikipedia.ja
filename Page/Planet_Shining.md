@@ -3,7 +3,7 @@
 
 『**Planet Shining**』（プラネット・シャイニング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")である[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")による1st[アルバム](../Page/アルバム.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売。初回盤にはDJ HORIIによるミックスCD付き。「[2012年](../Page/2012年.md "wikilink")のGlobal Astro Liner号での宇宙旅行」という設定。ファーストシングルより「[flo jack](https://ja.wikipedia.org/wiki/the_tripod_e.p.#flo_jack "wikilink")』」やセカンドシングル「[Mirrorball Satellite 2012](../Page/Mirrorball_Satellite_2012.md "wikilink")」は未収録となっている。
+[2000年](../Page/2000年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売。初回盤にはDJ HORIIによるミックスCD付き。「[2012年](../Page/2012年.md "wikilink")のGlobal Astro Liner号での宇宙旅行」という設定。ファーストシングル収録曲「[flo jack](https://ja.wikipedia.org/wiki/the_tripod_e.p.#flo_jack "wikilink")」やセカンドシングル『[Mirrorball Satellite 2012](../Page/Mirrorball_Satellite_2012.md "wikilink")』収録曲は未収録となっている。
 
 ## 収録曲
 
@@ -13,6 +13,10 @@
       - 松竹系全国ロードショー 「[黒い家](../Page/黒い家.md "wikilink")」主題歌
   - [L.O.T. (Love Or Truth)](../Page/L.O.T._\(Love_Or_Truth\).md "wikilink")
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 [月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink") 「[ベストフレンド](../Page/ベストフレンド_\(1999年のテレビドラマ\).md "wikilink")」主題歌
+
+## 関連項目
+
+  - [The Replacement Percussionists](../Page/The_Replacement_Percussionists.md "wikilink")
 
 ## 外部リンク
 

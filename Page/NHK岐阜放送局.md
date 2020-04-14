@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK岐阜放送局](https://ja.wikipedia.org/wiki/NHK岐阜放送局)から翻訳されています。
 
 
 **NHK岐阜放送局**（エヌエイチケイぎふほうそうきょく）は、[岐阜県](../Page/岐阜県.md "wikilink")を放送対象地域とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
@@ -258,19 +258,19 @@
 
 ## アナウンサー・キャスター
 
-| 氏名                                                      | 前任地                                         | 担当番組                                                        |
-| ------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------- |
-| アナウンサー                                                  |                                             |                                                             |
-| [岡崎太希](https://ja.wikipedia.org/wiki/岡崎太希 "wikilink")   | [宮崎](../Page/NHK宮崎放送局.md "wikilink")        | [まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")ぎふ  |
-| [望月豊](../Page/望月豊.md "wikilink")                        | [ラジオセンター](../Page/NHKラジオセンター.md "wikilink") |                                                             |
-| [浅野正紀](../Page/浅野正紀.md "wikilink")                      | [名古屋](../Page/NHK名古屋放送局.md "wikilink")      | |放送部副部長                                                     |
-| 契約キャスター                                                 |                                             |                                                             |
-| [住谷明日香](https://ja.wikipedia.org/wiki/住谷明日香 "wikilink") |                                             | まるっと\!ぎふ                                                    |
-| 浅野夏実                                                    |                                             |                                                             |
-| 坂田奈央                                                    |                                             | [みのひだ情報局](https://ja.wikipedia.org/wiki/みのひだ情報局 "wikilink") |
-| 渡邉美希                                                    |                                             |                                                             |
-| 気象予報士                                                   |                                             |                                                             |
-| 橋本祐佳                                                    |                                             | まるっと\!ぎふ                                                    |
+| 氏名                                                    | 前任地                                         | 担当番組                                                        |
+| ----------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------- |
+| アナウンサー                                                |                                             |                                                             |
+| [岡崎太希](https://ja.wikipedia.org/wiki/岡崎太希 "wikilink") | [宮崎](../Page/NHK宮崎放送局.md "wikilink")        | [まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")ぎふ  |
+| [望月豊](../Page/望月豊.md "wikilink")                      | [ラジオセンター](../Page/NHKラジオセンター.md "wikilink") |                                                             |
+| [浅野正紀](../Page/浅野正紀.md "wikilink")                    | [名古屋](../Page/NHK名古屋放送局.md "wikilink")      | |放送部副部長                                                     |
+| 契約キャスター                                               |                                             |                                                             |
+| 中村顕子                                                  |                                             | まるっと\!ぎふ                                                    |
+| 渡邉美希                                                  |                                             | [みのひだ情報局](https://ja.wikipedia.org/wiki/みのひだ情報局 "wikilink") |
+| 坂田奈央                                                  |                                             |                                                             |
+| 竹下梨帆                                                  |                                             |                                                             |
+| 気象予報士                                                 |                                             |                                                             |
+| 橋本祐佳                                                  |                                             | まるっと\!ぎふ                                                    |
 
 ## 脚注
 

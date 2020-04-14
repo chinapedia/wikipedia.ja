@@ -1,4 +1,4 @@
-> この記事は[NNNSUPER](https://ja.wikipedia.org/wiki/NNNSUPER)から翻訳されています。
+> この記事は[NNNニュースSUPER](https://ja.wikipedia.org/wiki/NNNニュースSUPER)から翻訳されています。
 
 
 『**NNNニュースSUPER**』\[1\]（エヌエヌエヌ ニュース・スーパー）は、[2001年](../Page/2001年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[日本テレビなど](../Page/日本テレビ放送網.md "wikilink")[NNN加盟局のうち](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除く29局で平日朝に生放送されていたニュース番組である。

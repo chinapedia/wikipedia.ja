@@ -1,4 +1,4 @@
-> この記事は[ DC-9](https://ja.wikipedia.org/wiki/_DC-9)から翻訳されています。
+> この記事は[マクドネル・ダグラス DC-9](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-9)から翻訳されています。
 
 
 {{ Infobox 航空機

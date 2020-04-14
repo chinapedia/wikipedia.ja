@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAマイクロアレイ](https://ja.wikipedia.org/wiki/DNAマイクロアレイ)から翻訳されています。
 
 
 **DNAマイクロアレイ**（DNA microarray）は**DNAチップ**（DNA chip）とも呼ばれ、[細胞](../Page/細胞.md "wikilink")内の[遺伝子発現](../Page/遺伝子発現.md "wikilink")量を測定するために、多数の[DNA断片を](../Page/デオキシリボ核酸.md "wikilink")[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")や[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")等の基板上に高密度に配置した分析器具のこと。

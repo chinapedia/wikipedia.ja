@@ -1,4 +1,4 @@
-> この記事は[NHK ](https://ja.wikipedia.org/wiki/NHK_)から翻訳されています。
+> この記事は[NHK特集 シルクロード](https://ja.wikipedia.org/wiki/NHK特集_シルクロード)から翻訳されています。
 
 
 『**NHK特集 シルクロード**』（エヌエイチケイとくしゅう シルクロード）は、[1980年代](../Page/1980年代.md "wikilink")前半と[1988年](../Page/1988年.md "wikilink")から[1989年](../Page/1989年.md "wikilink")に、[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")『[NHK特集](../Page/NHKスペシャル.md "wikilink")』で、毎月1回放送されたシリーズ・ドキュメンタリー。

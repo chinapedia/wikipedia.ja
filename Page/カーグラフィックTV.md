@@ -1,17 +1,17 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[カーグラフィックTV](https://ja.wikipedia.org/wiki/カーグラフィックTV)から翻訳されています。
 
 
 『**カーグラフィックTV**』 （カーグラフィックティービー、Car Graphic TV）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")であり、[自動車](../Page/自動車.md "wikilink")に関する話題を扱っている。
 
 「[自動車雑誌](../Page/自動車雑誌.md "wikilink")『[カーグラフィック](../Page/カーグラフィック.md "wikilink")』 （2010年7月号より発行が[二玄社](../Page/二玄社.md "wikilink")→株式会社カーグラフィックとなった）の世界を[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")で表現している\[1\]」とされる。映像と共にBGMにもこだわりがみられ、インストゥルメンタルを中心に洋楽ポップスやロック、[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")、[フュージョンなどから選曲されている](../Page/フュージョン_\(音楽\).md "wikilink")。
 
-音楽プロデューサーであり、かつ自動車評論家でもある[松任谷正隆](../Page/松任谷正隆.md "wikilink")と『カーグラフィック』誌元編集部員の[田辺憲一](https://ja.wikipedia.org/wiki/田辺憲一 "wikilink")がレギュラー出演している。現在の番組は2001年から[独立放送局で放送開始され](../Page/全国独立放送協議会.md "wikilink")、2002年からは[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")でも配信されている\[2\]。番組の制作は、[BS朝日と](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")[ウインズモーメント](https://ja.wikipedia.org/wiki/ウインズモーメント "wikilink")社\[3\]。
+音楽プロデューサーであり、かつ自動車評論家でもある[松任谷正隆](../Page/松任谷正隆.md "wikilink")と『カーグラフィック』誌元編集部員の[田辺憲一](https://ja.wikipedia.org/wiki/田辺憲一 "wikilink")がレギュラー出演している。現在の番組は2001年から[独立放送局で放送開始され](../Page/全国独立放送協議会.md "wikilink")、2002年からは[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")でも配信されている\[2\]。番組の制作は、[BS朝日と](../Page/ビーエス朝日.md "wikilink")[ウインズモーメント](https://ja.wikipedia.org/wiki/ウインズモーメント "wikilink")社\[3\]。
 
 ## 概要
 
 1984年10月5日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")の番組として放送が開始されたが、2001年3月31日をもって16年間に及ぶ放送を終了した\[4\]。同年10月、テレビ朝日による制作が再開され、一部のテレビ朝日系列局や[首都圏などのUHF局での放送となった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。2002年からはブロードバンドによる配信も開始された\[5\]。
 
-2005年、テレビ朝日に代わり[BS朝日が制作を行うようになった](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")。2006年には放送回数が通算1000回、2013年10月9日に放送通算1400回を迎えている\[6\]。
+2005年、テレビ朝日に代わり[BS朝日が制作を行うようになった](../Page/ビーエス朝日.md "wikilink")。2006年には放送回数が通算1000回、2013年10月9日に放送通算1400回を迎えている\[6\]。
 
 [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に番組公式チャンネルが開設されており、一部の放送分が公開されている。
 
@@ -43,7 +43,7 @@
 
 ### 現在の番組スタイル （2001年10月-）
 
-半年間の充電期間を経て復活するが、[テレビ朝日](../Page/テレビ朝日.md "wikilink")では放送されず、首都圏では独立UHF局での放送となる。2002年3月10日からは[BS朝日でも放送されるようになり](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、2005年4月から制作がBS朝日に移行すると同時に[ハイビジョン](../Page/ハイビジョン.md "wikilink")収録となるが一部地域では打ち切りとなった。番組スポンサーの意向により、[ディーゼル乗用車](../Page/ディーゼル自動車.md "wikilink") （[ボッシュ](https://ja.wikipedia.org/wiki/ボッシュ_\(企業\) "wikilink")）や[東京オートサロン](../Page/東京オートサロン.md "wikilink") （[ブリヂストン](../Page/ブリヂストン.md "wikilink")、[コクピット](https://ja.wikipedia.org/wiki/コクピット_\(カー用品店\) "wikilink")）、[水素自動車](../Page/水素自動車.md "wikilink") （[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")）など、これまで取り上げることのなかったテーマも紹介するようになった。
+半年間の充電期間を経て復活するが、[テレビ朝日](../Page/テレビ朝日.md "wikilink")では放送されず、首都圏では独立UHF局での放送となる。2002年3月10日からは[BS朝日でも放送されるようになり](../Page/ビーエス朝日.md "wikilink")、2005年4月から制作がBS朝日に移行すると同時に[ハイビジョン](../Page/ハイビジョン.md "wikilink")収録となるが一部地域では打ち切りとなった。番組スポンサーの意向により、[ディーゼル乗用車](../Page/ディーゼル自動車.md "wikilink") （[ボッシュ](https://ja.wikipedia.org/wiki/ボッシュ_\(企業\) "wikilink")）や[東京オートサロン](../Page/東京オートサロン.md "wikilink") （[ブリヂストン](../Page/ブリヂストン.md "wikilink")、[コクピット](https://ja.wikipedia.org/wiki/コクピット_\(カー用品店\) "wikilink")）、[水素自動車](../Page/水素自動車.md "wikilink") （[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")）など、これまで取り上げることのなかったテーマも紹介するようになった。
 
 第2期に多かった海外ロケは消滅 （[モーターショー](../Page/モーターショー.md "wikilink")などのイベントはVTRにて取り上げられる）し、新型車のロケは、[箱根ターンパイク](../Page/箱根ターンパイク.md "wikilink")、[西湘バイパス](../Page/西湘バイパス.md "wikilink")、大磯プリンスホテル、箱根ホテルなどで行われている。自動車の紹介時はテロップで価格が表示されるようになった他、番組中でも松任谷、田辺らが車の価格に対する満足度などをコメントする。輸入車の割合が多いことには変わりないが、日本車でも高級車だけではなく大衆車や軽自動車を取り上げるなど、より幅広い視聴者の自動車生活に寄り添ったものが見受けられるようになっている。また、過去の放送回を再編集し、ほぼ丸ごと取り上げる「メモワール」と称した回も放送されている。
 
@@ -168,7 +168,7 @@
   - [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")
   - [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink") （ - 2012年12月18日）
   - [名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")
-  - [朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")\[10\]
+  - [朝日放送](../Page/朝日放送テレビ.md "wikilink")\[10\]
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink") （ - 2011年9月29日）
   - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink") （ - 2010年3月）
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") （ - 2009年3月30日）

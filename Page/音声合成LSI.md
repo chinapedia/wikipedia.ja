@@ -1,4 +1,4 @@
-> この記事は[LSI](https://ja.wikipedia.org/wiki/LSI)から翻訳されています。
+> この記事は[音声合成LSI](https://ja.wikipedia.org/wiki/音声合成LSI)から翻訳されています。
 
 
 **音声合成LSI**（おんせいごうせいエルエスアイ）とは、[自然言語](../Page/自然言語.md "wikilink")による[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")出力の処理を行う[LSIである](../Page/集積回路.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MAG](https://ja.wikipedia.org/wiki/MAG)から翻訳されています。
+> この記事は[MAGフォーマット](https://ja.wikipedia.org/wiki/MAGフォーマット)から翻訳されています。
 
 
 **MAGフォーマット**（マグフォーマット）は、[MS-DOS](../Page/MS-DOS.md "wikilink")時代の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パソコン通信](../Page/パソコン通信.md "wikilink")での[画像ファイルフォーマット](https://ja.wikipedia.org/wiki/画像ファイルフォーマット "wikilink")のひとつ。[ファイル拡張子は](../Page/拡張子.md "wikilink")、**.MAG**。

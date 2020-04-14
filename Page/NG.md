@@ -27,6 +27,7 @@
   - [ネクストジェネレーション](https://ja.wikipedia.org/wiki/ネクストジェネレーション "wikilink") ()
       - [ボーイング737](../Page/ボーイング737.md "wikilink") NGシリーズ ()
       - [Next Generation Network](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")
+  - [日南学園高等学校](https://ja.wikipedia.org/wiki/日南学園高等学校 "wikilink")
 
 ## ng
 

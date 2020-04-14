@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK豊橋支局](https://ja.wikipedia.org/wiki/NHK豊橋支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Toyohashi_Branch_Office.jpg "wikilink") **NHK豊橋支局**（エヌエイチケイとよはししきょく）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")に所在する[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")の支局。

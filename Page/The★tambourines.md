@@ -1,4 +1,4 @@
-> この記事は[Thetambourines](https://ja.wikipedia.org/wiki/Thetambourines)から翻訳されています。
+> この記事は[The★tambourines](https://ja.wikipedia.org/wiki/The★tambourines)から翻訳されています。
 
 
 **the★tambourines**（**ザ★タンバリンズ**）は、[GIZA studio](../Page/GIZA_studio.md "wikilink")、[Ading](../Page/Ading.md "wikilink")所属の[バンド](../Page/バンド_\(音楽\).md "wikilink")。 [2001年](../Page/2001年.md "wikilink")に「easy game」でデビュー。2009年に活動休止。公式サイトも削除されている。

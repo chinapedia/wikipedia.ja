@@ -1,4 +1,4 @@
-> この記事は[NY ](https://ja.wikipedia.org/wiki/NY_)から翻訳されています。
+> この記事は[NY市警緊急出動部隊 トゥルー・ブルー](https://ja.wikipedia.org/wiki/NY市警緊急出動部隊_トゥルー・ブルー)から翻訳されています。
 
 
 『**NY市警緊急出動部隊 トゥルー・ブルー**』（ニューヨークしけいきんきゅうしゅつどうぶたい トゥルー・ブルー、*True Blue*）は[1989年](../Page/1989年.md "wikilink")、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](../Page/NBC.md "wikilink")ネットワークにて制作された[ドラマ](../Page/ドラマ.md "wikilink")。[ニューヨーク市警察](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")の第8分署（管轄は[マンハッタン島](https://ja.wikipedia.org/wiki/マンハッタン島 "wikilink")東半分?）に拠点を置く緊急出動部隊（ESU;*Emergency Service Unit*）、トラック・ワンの活躍を描くポリス・アクション。

@@ -188,7 +188,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 1984年4月20日から5月6日まで2度目のヨーロッパ・ツアーを行い、このツアーの模様は8月1日にライブビデオ『EUROBOUNDS』としてリリース、7月には歌詞を全て英語に翻訳した『[DISILLUSION English Version](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』をリリースした。
 
-#### 本格的な海外進出〜二井原実の脱退
+#### 本格的な海外進出
 
 1983年のヨーロッパツアー及び『撃剣霊化』のレコーディング中の間にアメリカの[RCAレコード](../Page/RCAレコード.md "wikilink")や[ゾンバ・ミュージック・グループ](../Page/ゾンバ・ミュージック・グループ.md "wikilink")からのオファーが事務所宛に届く\[33\]。この時点で中下は「RCAと契約した方が良いのではないか？」とメンバーと打ち合わせをしていたが、1984年5月のヨーロッパツアー中\[34\]に[ワーナー・パイオニアを通じで](../Page/ワーナーミュージック・ジャパン.md "wikilink")[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より「LOUDNESSに興味がある」との一報が所属事務所に入った\[35\]。中下はこの時点でアトランティック・レコードの存在を知らなかったが、メンバーにとっては憧れの[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")らを輩出した大手レーベルであった事から協議の結果アトランティックと契約\[36\]。契約内容も7年間にアルバム7枚をリリースするという日本人アーティストとしても前例のない契約であった\[37\]。
 
@@ -203,6 +203,8 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 モトリー・クルーとのツアーは9月18日まで続き、ツアー終了後に帰国。12月には再びノーマンを迎えて六本木のセディック・スタジオでレコーディングを開始\[48\]。レコード会社も日本コロムビアからワーナー・パイオニアに移籍、1986年3月には『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』がリリースされる。同時に[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに日本ツアーを開始。4月3日、4日に行われた[代々木オリンピックプール公演の模様は同年](../Page/国立代々木競技場.md "wikilink")9月に映像作品『LIVE IN TOKYO〜LIGHTNING STRIKES』、11月には2枚組みライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』として発売された。
 
 7月25日には前出の『SHADOWS OF WAR』のUSミックス盤『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")』が全米で発売。ビルボード総合チャート64位と前作『THUNDER IN THE EAST』を上回る記録を残した\[49\]。8月には全米ツアー、10月にはヨーロッパツアーを行う。このツアーの間にアメリカでは前半に[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")\[50\]、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")\[51\]を前座に、後半は[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")\[52\]の前座として、ヨーロッパでは[サクソン](../Page/サクソン.md "wikilink")\[53\]と共に行っていた。全米ツアー終了後の9月25日には[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用した[ディスコ](../Page/ディスコ.md "wikilink")的な『[RISKY WOMAN](https://ja.wikipedia.org/wiki/RISKY_WOMAN "wikilink")』をリリース。12月28日、29日にはバンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行っている。
+
+#### アトコ・レコードへの移籍〜二井原実への解雇通告
 
 1987年2月から3月にかけて新作のためのリハーサルや制作を開始。4月にはプロデューサーに[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")を迎え日本とアメリカでレコーディングを開始。7月31日には[ストライパー](../Page/ストライパー.md "wikilink")を前座に迎えて全米ツアーを開始。8月25日には『[HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")』がリリースされ、第1期LOUDNESSのバンドサウンドは完成の域に達した。日本のオリコンチャートでは4位を記録したものの\[54\]、ビルボードでは190位と前作よりも大きく下回った\[55\]。また、この時期より高崎の愛器が[ESPのランダムスターから荒木一三が設立した](../Page/イーエスピー.md "wikilink")[キラーギターズ](../Page/キラーギターズ.md "wikilink")のプライムを使用するようになる\[56\]。1988年には日本のみで長期ツアーを行い、5月にはミニアルバム『JEALOUSY』をリリース。しかし、『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』レコーディング中の[1988年](../Page/1988年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に二井原が脱退（事実上の解雇）し、第1期LOUDNESSは終了する。
 
@@ -234,7 +236,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 [1994年](../Page/1994年.md "wikilink")、MASAKI（山田）の誘いによりドラムに元[E・Z・OのHIROこと](../Page/FLATBACKER.md "wikilink")[本間大嗣](../Page/本間大嗣.md "wikilink")が加入。この当時、正式メンバーのベースがおらず、高崎がギターと兼任した『[HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")』発表後、12月のツアーのサポートを経て[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にはベースに元[ANTHEM](../Page/ANTHEM.md "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")が加入し、第4期LOUDNESSが本格的に始動する。柴田は「余計な事を考えずベースプレイにだけ集中出来たので、LOUDNESSは楽しかった」と近年語っている。
 
-[ドゥームメタル](../Page/ドゥームメタル.md "wikilink")寄りのスローテンポの曲が多くなり、[Rooms RECORDS移籍後に製作されたブッダ](../Page/VERMILLION_RECORDS.md "wikilink")・ロックと高崎が称する3枚のアルバム『[GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")』（1997年）『[DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")』（1998年）『[ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")』（1999年、以下通称「インド3部作」）をリリース。第4期では高崎のルックスにも極端な変化があり、それまでのトレードマークであったロングヘアーから坊主頭になり、衣装もインドの民族的なものとなる。MASAKIは第三期の加入当時は本名の山田雅樹で参加したが、FLATBACKER/E・Z・O時代の[隈取り](https://ja.wikipedia.org/wiki/隈取り "wikilink")メイクを再び施す事も多くなり、芸名も当時と同じMASAKIに戻した。
+[ドゥームメタル](../Page/ドゥームメタル.md "wikilink")寄りのスローテンポの曲が多くなり、[Rooms RECORDS移籍後に製作されたブッダ](../Page/VERMILLION_RECORDS.md "wikilink")・ロックと高崎が称する3枚のアルバム『[GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")』（1997年）『[DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")』（1998年）『[ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")』（1999年、以下通称「インド3部作」）をリリース。第1期から応援を続けているファンらにはこの音楽性、方向性はとても許容できる代物ではなく、バンドの人気は著しく低迷した。第4期では高崎のルックスにも極端な変化があり、それまでのトレードマークであったロングヘアーから坊主頭になり、衣装もインドの民族的なものとなる。MASAKIは第三期の加入当時は本名の山田雅樹で参加したが、FLATBACKER/E・Z・O時代の[隈取り](https://ja.wikipedia.org/wiki/隈取り "wikilink")メイクを再び施す事も多くなり、芸名も当時と同じMASAKIに戻した。ライヴでも高崎が泥酔し粗いパフォーマンスを見せたり、第1～2期の楽曲をMASAKIがまともに歌わなかったりと、第1期からのファンを失望させるような内容がほとんどで、ファン離れを加速させた。
 
 しかしこの頃、[レイジー](../Page/レイジー.md "wikilink")が再結成し高崎と樋口のコンビが復活。また樋口プロデュースによる[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のカバーアルバム「SUPER ROCK SUMMIT 〜天国への階段〜」（1999年）では第1期LOUDNESSメンバーが全員参加するなど、後のオリジナルメンバー復活に繋がる活動が見られるようになる。
 

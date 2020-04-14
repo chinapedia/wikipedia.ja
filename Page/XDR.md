@@ -15,7 +15,7 @@
 
   - 整数（32/64bit）はネットワークバイトオーダー（[ビッグエンディアン](https://ja.wikipedia.org/wiki/ビッグエンディアン "wikilink")）に正規化。（DCE/NDRではビッグエンディアンと[リトルエンディアン](https://ja.wikipedia.org/wiki/リトルエンディアン "wikilink")の両形式をサポート）
   - [浮動小数点数](../Page/浮動小数点数.md "wikilink")（32/64/128bit）は[IEEE形式に正規化](../Page/IEEE_754.md "wikilink")。（DCE/NDRではIEEE/VAX/Cray/IBM形式）
-  - 文字列は[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")に正規化。（DCE/NDRではASCII/[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")の2形式、MS RPC/NDRでは[UTF16もサポート](../Page/UTF-16.md "wikilink")）
+  - 文字列は[ASCII](../Page/ASCII.md "wikilink")に正規化。（DCE/NDRではASCII/[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")の2形式、MS RPC/NDRでは[UTF16もサポート](../Page/UTF-16.md "wikilink")）
   - 32bit単位にアラインされるよう、必要に応じてパディングされる。
 
 上記の特徴のため、個々の環境では内部形式と統一された正規化形式との変換ルーチンのみ用意すればよい。（DCE/NDRでは各サポート形式と内部形式との変換ルーチンが必要）

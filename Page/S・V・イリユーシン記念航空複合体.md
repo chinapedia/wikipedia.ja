@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[S・V・イリユーシン記念航空複合体](https://ja.wikipedia.org/wiki/S・V・イリユーシン記念航空複合体)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Aeroflot-Il-96.png "wikilink") **公共株式会社S・V・イリユーシン記念航空複合体**（ ）は、[ロシア](../Page/ロシア.md "wikilink")連邦の[航空機](../Page/航空機.md "wikilink")メーカーである。[セルゲイ・イリユーシン](https://ja.wikipedia.org/wiki/セルゲイ・イリユーシン "wikilink")（[1894年](../Page/1894年.md "wikilink") - [1977年](../Page/1977年.md "wikilink")）によって創設された。[ソ連時代には同国を代表する航空機](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[設計局](../Page/設計局.md "wikilink")のひとつで、**S・V・イリユーシン記念試作設計局」**（ ）と称した。そのため、[日本語](../Page/日本語.md "wikilink")文献では**イリューシン設計局**の通称で知られていた。旧称は**公開株式会社S・V・イリユーシン記念航空複合体**（）で、[2014年](../Page/2014年.md "wikilink")の法改正\[1\]を受けて公開株式会社から公共株式会社に移行し、現在の名称になっている。

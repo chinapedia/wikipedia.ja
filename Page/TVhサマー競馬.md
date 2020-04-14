@@ -1,4 +1,4 @@
-> この記事は[TVh](https://ja.wikipedia.org/wiki/TVh)から翻訳されています。
+> この記事は[TVhサマー競馬](https://ja.wikipedia.org/wiki/TVhサマー競馬)から翻訳されています。
 
 
 **TVhサマー競馬**（ティーブイエイチ サマーけいば）は、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）が[中央競馬](../Page/中央競馬.md "wikilink")の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内（[函館競馬場](../Page/函館競馬場.md "wikilink")、[札幌競馬場](../Page/札幌競馬場.md "wikilink")）開催期間中に放送する競馬中継番組である{{\#tag:ref|参考：

@@ -1,4 +1,4 @@
-> この記事は[UP](https://ja.wikipedia.org/wiki/UP)から翻訳されています。
+> この記事は[シェイプUPガールズ](https://ja.wikipedia.org/wiki/シェイプUPガールズ)から翻訳されています。
 
 
 **シェイプUPガールズ**（シェイプアップガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[タレント](../Page/タレント.md "wikilink")グループ。[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")所属。

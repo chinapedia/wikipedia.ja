@@ -1,4 +1,4 @@
-> この記事は[UC](https://ja.wikipedia.org/wiki/UC)から翻訳されています。
+> この記事は[UCカード](https://ja.wikipedia.org/wiki/UCカード)から翻訳されています。
 
 
 **UCカード**（ユーシーカード）は、[ユーシーカード](../Page/ユーシーカード.md "wikilink")株式会社・[UCカードグループ各社](https://ja.wikipedia.org/wiki/#UCカードグループ "wikilink")・株式会社[クレディセゾン](../Page/クレディセゾン.md "wikilink")が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。

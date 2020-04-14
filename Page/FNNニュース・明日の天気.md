@@ -1,13 +1,13 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNニュース・明日の天気](https://ja.wikipedia.org/wiki/FNNニュース・明日の天気)から翻訳されています。
 
 
-『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域によってはこのタイトルが伏せられており、この状況はこの枠のスポットニュース『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』⇒『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』⇒『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』 ⇒ 『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』 ⇒ 『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』 に変更されても続いている\[1\]。
+『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域（ネット局）によっては番組名が改題されており、この状況はこの枠の番組名が変更されても（『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』→『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』→『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』→『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』）続いていた。しかし2018年春改編によって『THE NEWSα Pick』が終了し、フジテレビにおけるこの時間のスポットニュースは廃止されたが、一部地域の系列局ではローカルニュースや天気予報番組が継続されている。
 
 ## 概要
 
 フジテレビでは、[1963年](../Page/1963年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から20時台のスポットタイムを導入したが、当初はニュースを編成せず日替わりで世相を斬る『[一刀両断](https://ja.wikipedia.org/wiki/一刀両断 "wikilink")』や、様々な芸能人が社会風刺コントを繰り広げる『[待ッテマシタ\!](https://ja.wikipedia.org/wiki/待ッテマシタ! "wikilink")』（[1972年](../Page/1972年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")のみの出演となり、『[クレージーの待ッテマシタ\!](https://ja.wikipedia.org/wiki/待ッテマシタ! "wikilink")』と改題）を放送、そして[1965年](../Page/1965年.md "wikilink")10月より『待ッテマシタ\!』の[日曜日](../Page/日曜日.md "wikilink")放送を廃止し、日曜日20:56 - 21:00に『ニュース・シャッター』を開始した。
 
-[1967年](../Page/1967年.md "wikilink")4月に日曜20時台が45分時代劇『[ひばり・与一の花と剣](https://ja.wikipedia.org/wiki/ひばり・与一の花と剣 "wikilink")』と15分番組『[リレー寄席](https://ja.wikipedia.org/wiki/リレー寄席 "wikilink")』の2本立てとなって放送枠が消滅し、1967年10月以降は放送枠は復活したものの『芸能トピックス』が放送されたため一時中断したが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から『**FNNニュース**』として復活（これに伴い『芸能トピックス』は19:56へ繰上げ）、[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からフジテレビが[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")・[NET（現：テレビ朝日）に](../Page/テレビ朝日.md "wikilink")1年遅れて、夜のスポットタイムを4分から5分に拡大\[2\]するのを機に、『（クレージーの）待ッテマシタ\!』を終了して毎日放送に移行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは『**明日の天気**』がスタートした。
+[1967年](../Page/1967年.md "wikilink")4月に日曜20時台が45分時代劇『[ひばり・与一の花と剣](https://ja.wikipedia.org/wiki/ひばり・与一の花と剣 "wikilink")』と15分番組『[リレー寄席](https://ja.wikipedia.org/wiki/リレー寄席 "wikilink")』の2本立てとなって放送枠が消滅し、1967年10月以降は放送枠は復活したものの『芸能トピックス』が放送されたため一時中断したが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から『**FNNニュース**』として復活（これに伴い『芸能トピックス』は19:56へ繰上げ）、[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からフジテレビが[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")・[NET（現：テレビ朝日）に](../Page/テレビ朝日.md "wikilink")1年遅れて、夜のスポットタイムを4分から5分に拡大\[1\]するのを機に、『（クレージーの）待ッテマシタ\!』を終了して毎日放送に移行、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")からは『**明日の天気**』がスタートした。
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")（音声多重放送開始）から[1990年代](../Page/1990年代.md "wikilink")前半には、[英語](../Page/英語.md "wikilink")の[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")が実施されていた（ニュース・天気共に）。
 
@@ -17,27 +17,19 @@
 
 ## 放送時間
 
-| 期間        | 月曜日       | 火曜日         | 水曜日         | 木曜日   | 金曜日 | 土曜日 | 日曜日 | 放送分 |
-| --------- | --------- | ----------- | ----------- | ----- | --- | --- | --- | --- |
-| 1968.10.6 | 1973.9.30 | （放送なし）      | 20:56       | 4分    |     |     |     |     |
-| 1973.10.1 | 1975.9.28 | 20:55       | 21:25\[3\]  | 20:55 | 5分  |     |     |     |
-| 1975.9.29 | 1980.9.28 | 20:54\[4\]  | 21:24\[5\]  | 20:54 | 6分  |     |     |     |
-| 1980.9.29 | 1981.3.29 | 3分\[6\]     |             |       |     |     |     |     |
-| 1981.3.30 | 1981.10.4 | 20:54       | 21:48\[7\]  | 20:54 |     |     |     |     |
-| 1981.10.5 | 1982.10.3 | 20:54       |             |       |     |     |     |     |
-| 1982.10.4 | 1983.10.2 | 20:54       | 21:48\[8\]  |       |     |     |     |     |
-| 1983.10.3 | 1984.4.1  | 20:54       | 21:48\[9\]  |       |     |     |     |     |
-| 1984.4.2  | 1984.9.30 | 20:54       | 21:48\[10\] |       |     |     |     |     |
-| 1984.10.1 | 1986.9.28 | 21:48\[11\] | 20:54       |       |     |     |     |     |
-| 1986.9.29 | 1998.3.29 | 20:54\[12\] |             |       |     |     |     |     |
-
-## ネット局と提供クレジット
-
-[FNNの冠がつくネットニュースだが](../Page/フジニュースネットワーク.md "wikilink")、系列局によってタイトルやオープニング映像が異なっていたり、またローカルニュースに差し替えて全国ニュースを放送しないFNN系列局もあり原題で放送されることは全くない。ただ[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は日曜日のみ、[鹿児島テレビは](../Page/鹿児島テレビ放送.md "wikilink")[クロスネット時代の特定の曜日にはこのタイトル](../Page/クロスネット局.md "wikilink")・オープニング映像で放送されていた。
-
-[1992年](../Page/1992年.md "wikilink")ごろがら、提供スポンサーは曜日ごとに異なる形式となった。
-
-ローカルニュース放送の[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[福島テレビ](../Page/福島テレビ.md "wikilink")、[山陰中央テレビなどでもタイトルを差し替えて土日祝祭日](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、年末年始などの条件を満たした日に放送していた。反対に、クロスネットの[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では日曜の放送が『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』のため放送なし。前出の鹿児島テレビも曜日によっては『[NNNニュース](../Page/NNNニュース.md "wikilink")』を優先していた。
+| 期間        | 月曜日       | 火曜日         | 水曜日        | 木曜日   | 金曜日 | 土曜日 | 日曜日 | 放送分 |
+| --------- | --------- | ----------- | ---------- | ----- | --- | --- | --- | --- |
+| 1968.10.6 | 1973.9.30 | （放送なし）      | 20:56      | 4分    |     |     |     |     |
+| 1973.10.1 | 1975.9.28 | 20:55       | 21:25\[2\] | 20:55 | 5分  |     |     |     |
+| 1975.9.29 | 1980.9.28 | 20:54\[3\]  | 21:24\[4\] | 20:54 | 6分  |     |     |     |
+| 1980.9.29 | 1981.3.29 | 3分\[5\]     |            |       |     |     |     |     |
+| 1981.3.30 | 1981.10.4 | 20:54       | 21:48\[6\] | 20:54 |     |     |     |     |
+| 1981.10.5 | 1982.10.3 | 20:54       |            |       |     |     |     |     |
+| 1982.10.4 | 1983.10.2 | 20:54       | 21:48\[7\] |       |     |     |     |     |
+| 1983.10.3 | 1984.4.1  | 20:54       | 21:48\[8\] |       |     |     |     |     |
+| 1984.4.2  | 1984.9.30 | 20:54       | 21:48\[9\] |       |     |     |     |     |
+| 1984.10.1 | 1986.9.28 | 21:48\[10\] | 20:54      |       |     |     |     |     |
+| 1986.9.29 | 1998.3.29 | 20:54\[11\] |            |       |     |     |     |     |
 
 ## 担当アナウンサー
 
@@ -149,7 +141,7 @@
 <tr class="even">
 <td><p>1988.3.28</p></td>
 <td><p>1990.4.8</p></td>
-<td><p>（シフト勤務）[13]</p></td>
+<td><p>（シフト勤務）[12]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -268,6 +260,14 @@
 平日は主に男性アナウンサーがシフト勤務で担当。例外として『[FNN NEWSCOM](../Page/FNN_NEWSCOM.md "wikilink")』が放送されていた1990年4月から1994年3月までは全曜日にわたって同番組担当の男性アナウンサーが兼務していた。しかし、1994年4月に開始された『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』のニュースキャスター全員フリーだったため、シフト勤務に戻った。
 
 週末は『[FNNニュースレポート23:30](../Page/FNNニュースレポート23:30.md "wikilink")』の担当アナウンサーが固定された1980年4月以降、[最終ニュースを担当する男性アナウンサーが兼務した](https://ja.wikipedia.org/wiki/フジテレビ系列深夜ニュース枠 "wikilink")。当時は報道番組を担当するアナウンサーの人数自体が現在より少なく、一部のアナウンサーは[夕方ニュースも含めた](../Page/フジテレビ系列夕方ニュース枠.md "wikilink")3番組を兼務した。例外として1997年4月以降は『[ニュースJAPAN WEEKEND](../Page/ニュースJAPAN_WEEKEND.md "wikilink")』のキャスターをフリーの[松山香織](../Page/松山香織.md "wikilink")が務めたため、シフト勤務であった。
+
+## ネット局と提供クレジット
+
+[FNNの冠がつくネットニュースだが](../Page/フジニュースネットワーク.md "wikilink")、系列局によって番組名の改題やオープニング映像の差し替え（番組名の改題によるものが多い）、またローカルニュースに差し替えて全国ニュースを放送しない系列局もあり、フジテレビと全く同じタイトルで放送していた系列局はほぼなかった。ただ[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は日曜日のみ、[鹿児島テレビは](../Page/鹿児島テレビ放送.md "wikilink")[クロスネット時代の特定の曜日にはこのタイトル](../Page/クロスネット局.md "wikilink")・オープニング映像で放送されていた。
+
+[1992年](../Page/1992年.md "wikilink")ごろがら、提供スポンサーは曜日ごとに異なる形式となった。
+
+フジテレビを除く全ての[基幹局](../Page/基幹局.md "wikilink")\[13\]のほか、[福島テレビ](../Page/福島テレビ.md "wikilink")、[山陰中央テレビなど基幹局以外の一部でも独自タイトルに改題した上で基本的にローカルニュースを放送していたが](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、土日祝祭日、年末年始などの特定の日に限ってはローカルニュースではなくこちらの番組を放送していた（ただし、突発的事象などで急遽ローカルニュースからこちらの番組に変更するケースも稀にあった）。クロスネット局では番組自体が変則放送となっており、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では日曜の放送が『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』のため放送なし。前出の鹿児島テレビも（クロスネット時代）曜日によっては『[NNNニュース](../Page/NNNニュース.md "wikilink")』を優先していた。
 
 ## FNN系列局での差し替えタイトル
 
@@ -414,16 +414,16 @@
 
 [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:1968年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1968年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:みずほフィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:みずほフィナンシャルグループ "wikilink") [Category:フジパン](https://ja.wikipedia.org/wiki/Category:フジパン "wikilink")
 
-1.  『THE NEWSα Pick』終了後、フジテレビのこの時間のスポットニュースは廃止したが、一部地域を除いた系列局ではニュース・天気予報が継続されている。
-2.  [東京12チャンネル（現：テレビ東京）が夜のスポットタイムを](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")5分に拡大するのはもっと遅れて、[1974年](../Page/1974年.md "wikilink")10月に行った。
-3.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
-4.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](../Page/打ち切り.md "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
-5.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
-6.  『FNNニュース』と『明日の天気』の各3分枠。
-7.  『[時代劇スペシャル](../Page/時代劇スペシャル_\(フジテレビ\).md "wikilink")』放送のため。
-8.  『[木曜ファミリーワイド](../Page/ファミリーワイド.md "wikilink")』放送のため。
-9.  『金曜ファミリーワイド』放送のため。
-10. 『[木曜おもしろバラエティ](../Page/おもしろバラエティ.md "wikilink")』『金曜ファミリーワイド』放送のため。
-11.
-12. 1995年10月から1996年9月までの間の土曜日は、『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』が20:59開始になったため、20:59までの放送となった。
-13. 主に新人だった[境鶴丸](../Page/境鶴丸.md "wikilink")らが担当していた。
+1.  [東京12チャンネル（現：テレビ東京）が夜のスポットタイムを](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")5分に拡大するのはもっと遅れて、[1974年](../Page/1974年.md "wikilink")10月に行った。
+2.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
+3.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](../Page/打ち切り.md "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
+4.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
+5.  『FNNニュース』と『明日の天気』の各3分枠。
+6.  『[時代劇スペシャル](../Page/時代劇スペシャル_\(フジテレビ\).md "wikilink")』放送のため。
+7.  『[木曜ファミリーワイド](../Page/ファミリーワイド.md "wikilink")』放送のため。
+8.  『金曜ファミリーワイド』放送のため。
+9.  『[木曜おもしろバラエティ](../Page/おもしろバラエティ.md "wikilink")』『金曜ファミリーワイド』放送のため。
+10.
+11. 1995年10月から1996年9月までの間の土曜日は、『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』が20:59開始になったため、20:59までの放送となった。
+12. 主に新人だった[境鶴丸](../Page/境鶴丸.md "wikilink")らが担当していた。
+13. [北海道文化放送](../Page/北海道文化放送.md "wikilink")、[仙台放送](../Page/仙台放送.md "wikilink")、[テレビ静岡](../Page/テレビ静岡.md "wikilink")、[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")、[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")、[テレビ西日本](../Page/テレビ西日本.md "wikilink")の各局。

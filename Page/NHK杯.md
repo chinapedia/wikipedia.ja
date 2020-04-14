@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯](https://ja.wikipedia.org/wiki/NHK杯)から翻訳されています。
 
 
 **NHK杯**（エヌエイチケイはい）は[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が主催・共催する大会、あるいは賞杯のこと。これらの大会は、[中央競馬](../Page/中央競馬.md "wikilink")の[きさらぎ賞](../Page/きさらぎ賞.md "wikilink")を除きすべてNHK（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")、[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHK-BS](../Page/NHK-BS.md "wikilink")、[NHKラジオ](../Page/NHKラジオ.md "wikilink")のうち1つ以上の[チャンネル](https://ja.wikipedia.org/wiki/チャンネル "wikilink")）で放送されている。英語圏では"NHK Cup"と呼ばれる。

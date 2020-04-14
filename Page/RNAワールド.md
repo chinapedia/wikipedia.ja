@@ -1,4 +1,4 @@
-> この記事は[RNA](https://ja.wikipedia.org/wiki/RNA)から翻訳されています。
+> この記事は[RNAワールド](https://ja.wikipedia.org/wiki/RNAワールド)から翻訳されています。
 
 
 **RNA ワールド**とは原始地球上に存在したと仮定される、[RNA](../Page/リボ核酸.md "wikilink") からなる自己複製系のこと。また、これがかつて存在し、現生[生物](../Page/生物.md "wikilink")へと[進化](../Page/進化.md "wikilink")したという仮説を RNA ワールド仮説と呼ぶ。これに対し、まず[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")ができ、重合して[ポリペプチド](https://ja.wikipedia.org/wiki/ポリペプチド "wikilink")、さらにタンパク質が作り出され、これが触媒として働いて生命を作り出したという仮説を[プロテインワールド](https://ja.wikipedia.org/wiki/プロテインワールド "wikilink")仮説という。RNAワールドという学名は1986年、ウォルター・ギルバートによって提唱された。

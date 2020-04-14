@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[アドレー・E・スティーブンソン](https://ja.wikipedia.org/wiki/アドレー・E・スティーブンソン)から翻訳されています。
 
 
 **アドレー・ユーイング・スティーブンソン一世**(**Adlai Ewing Stevenson I**, 1835年10月23日 - 1914年6月14日)は、[イリノイ州](../Page/イリノイ州.md "wikilink")選出[下院議員および](../Page/アメリカ合衆国下院.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")第23代[副大統領](../Page/副大統領.md "wikilink")。

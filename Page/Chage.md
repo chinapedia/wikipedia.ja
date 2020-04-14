@@ -1816,8 +1816,8 @@ Chage ライブステージ</strong></p></td>
 「Graduation」</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p>2020年5月10日</p></td>
+<td><p><strong>川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～</strong></p></td>
 <td></td>
 </tr>
 </tbody>

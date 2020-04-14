@@ -1,7 +1,7 @@
-> この記事は[M.c.AT](https://ja.wikipedia.org/wiki/M.c.AT)から翻訳されています。
+> この記事は[M.c.A・T](https://ja.wikipedia.org/wiki/M.c.A・T)から翻訳されています。
 
 
-**m.c.A・T**（エムシーエーティー、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。
+**m.c.A・T**（エムシーエーティー、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")に[DA PUMPの](../Page/DA_PUMP.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")として数多くのヒット曲を送り出してきた。
 
 本名及び旧芸名は**富樫 明生**（とがし あきお）で、作曲・編曲は本名名義で行っている（作詞のみm.c.A・T名義）。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。個人事務所であるアキオワンダー（aquio wonder）所属。
 

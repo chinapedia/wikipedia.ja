@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ビタミンB群](https://ja.wikipedia.org/wiki/ビタミンB群)から翻訳されています。
 
 
 **ビタミンB群**とは、[水溶性ビタミン](https://ja.wikipedia.org/wiki/水溶性ビタミン "wikilink")のうち、[ビタミンB<sub>1</sub>](../Page/チアミン.md "wikilink")、[ビタミンB<sub>2</sub>](../Page/リボフラビン.md "wikilink")、[ナイアシン](../Page/ナイアシン.md "wikilink")、[パントテン酸](../Page/パントテン酸.md "wikilink")、[ビタミンB<sub>6</sub>](../Page/ビタミンB6.md "wikilink")、[ビタミンB<sub>12</sub>](https://ja.wikipedia.org/wiki/ビタミンB12 "wikilink")、[葉酸](https://ja.wikipedia.org/wiki/葉酸 "wikilink")、[ビオチン](https://ja.wikipedia.org/wiki/ビオチン "wikilink")の8種の総称で、**ビタミンB複合体**とも呼ばれる。発見当初[ラット](../Page/ラット.md "wikilink")の発育に必須の単一の水溶性因子として知られていたが、後の研究で複数種の物質からなる混合物であることが突き止められた。ビタミンB群に含まれている8種の物質は、いずれも生体内において、[補酵素](../Page/補酵素.md "wikilink")として機能することが知られている。

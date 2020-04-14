@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK浜松支局](https://ja.wikipedia.org/wiki/NHK浜松支局)から翻訳されています。
 
 
 **NHK浜松支局**（エヌエイチケイはままつしきょく）は[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[中区に所在する](../Page/中区_\(浜松市\).md "wikilink")、[NHK静岡放送局](../Page/NHK静岡放送局.md "wikilink")の支局である。同県西部（[遠州](../Page/遠江国.md "wikilink")）の報道取材業務を担当している。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ジムII](https://ja.wikipedia.org/wiki/ジムII)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[SBS \(\)](https://ja.wikipedia.org/wiki/SBS_\(\))から翻訳されています。
+> この記事は[SBS \(韓国\)](https://ja.wikipedia.org/wiki/SBS_\(韓国\))から翻訳されています。
 
 
 **株式会社SBS**（エスビーエス）は、[韓国の](../Page/大韓民国.md "wikilink")[ソウル首都圏を放送エリアとする](https://ja.wikipedia.org/wiki/首都圏_\(韓国\) "wikilink")[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")[兼営の](../Page/ラテ兼営.md "wikilink")[放送局](../Page/放送局.md "wikilink")である。純粋な[民間放送](../Page/民間放送.md "wikilink")局「**ソウル放送**」として[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に設立、2000年に現社名に変更した。本社を[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[陽川区](../Page/陽川区.md "wikilink")に置く。
@@ -17,7 +17,7 @@
 
 プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チーム、安養SBSスターズを保有し、[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink") (KBL) に創設時から参加させてきたが、元[国営の](https://ja.wikipedia.org/wiki/国営企業 "wikilink")[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")会社 [KT\&G](../Page/KT&G.md "wikilink")に譲渡、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")となった。また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[PGAツアー](../Page/PGAツアー.md "wikilink")、[LPGAツアー](https://ja.wikipedia.org/wiki/LPGAツアー "wikilink")ともかかわりが深く、2005-2009年には女子の[SBSオープン](https://ja.wikipedia.org/wiki/SBSオープン "wikilink")、2011年と2017年には男子の[SBSトーナメント・オブ・チャンピオンズ大会の協賛スポンサーにも就任している](../Page/ヒュンダイ・トーナメント・オブ・チャンピオンズ.md "wikilink")。
 
-ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBS ESPN(※アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携、旧SBSスポーツ)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBS ESPNでは、SBSスポーツ時代の2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承ヨプ_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](../Page/朴賛浩.md "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主催ゲームの放映権を獲得している。
+ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBSスポーツ(※一時期アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携し「SBS ESPN」と名乗っていた)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBSスポーツでは、2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承ヨプ_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](../Page/朴賛浩.md "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主催ゲームの放映権を獲得し放送していた。
 
 ### 日本との関係
 

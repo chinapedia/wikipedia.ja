@@ -1,4 +1,4 @@
-> この記事は[JVC](https://ja.wikipedia.org/wiki/JVC)から翻訳されています。
+> この記事は[JVCケンウッド・ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント)から翻訳されています。
 
 
 **株式会社JVCケンウッド・ビクターエンタテインメント**（ジェーブイシーケンウッド・ビクターエンタテインメント、）は、音楽ソフト発売・販売業務を 行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")[企業](../Page/企業.md "wikilink")であり、[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")の完全子会社である。
@@ -9,7 +9,7 @@
 
 ## 概要
 
-[日本ビクター](../Page/日本ビクター.md "wikilink")が1927年より展開していた[レコード盤](https://ja.wikipedia.org/wiki/レコード盤 "wikilink")（メディア）製造部門を除く[レコード](../Page/レコード.md "wikilink")音源制作・販売事業、および[出版](../Page/出版.md "wikilink")事業（**ビクター出版**株式会社）を含め、1972年4月25日に分社化し**ビクター音楽産業**株式会社として設立。[日本コロムビア](../Page/日本コロムビア.md "wikilink")や[ポリドール](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")（現：[ユニバーサル ミュージックLLC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に次ぐ歴史を有する日本のレコード会社であり、多種多様なアーティストが所属する。
+[日本ビクター](../Page/日本ビクター.md "wikilink")が1927年より展開していた[レコード盤](https://ja.wikipedia.org/wiki/レコード盤 "wikilink")（メディア）製造部門を除く[レコード](../Page/レコード.md "wikilink")音源制作・販売事業、および[出版](../Page/出版.md "wikilink")事業（**ビクター出版**株式会社）を含め、1972年4月25日に分社化し**ビクター音楽産業**株式会社として設立。[日本コロムビア](../Page/日本コロムビア.md "wikilink")や[ポリドールK.K.](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")（現：[ユニバーサル ミュージックLLC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に次ぐ歴史を有する日本のレコード会社であり、多種多様なアーティストが所属する。
 
 1993年4月に分社化していた販売部門（日本エイ・ブイ・シー株式会社）を吸収合併し**ビクターエンタテインメント**へ社名変更。2014年4月1日に親会社名に揃えた現社名へ変更する。メディア製造部門は2007年に日本ビクターからビクタークリエイティブメディア（現：JVCケンウッド・クリエイティブメディア）株式会社へ分社化した。
 
@@ -42,7 +42,7 @@
   - [1927年](../Page/1927年.md "wikilink") - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ビクター社の日本法人として](../Page/ビクタートーキングマシン.md "wikilink")、**日本ビクター蓄音器株式会社**（にほんビクターちくおんき）設立する。
   - [1929年](../Page/1929年.md "wikilink") - 親会社のアメリカビクター社が[RCA](../Page/RCA.md "wikilink")に吸収合併された事に伴い、[東芝](../Page/東芝.md "wikilink")・[三井財閥](https://ja.wikipedia.org/wiki/三井財閥 "wikilink")の出資を受ける様になる。
   - [1938年](../Page/1938年.md "wikilink") - [満州事変](../Page/満州事変.md "wikilink")に伴い日米関係が悪化する。アメリカRCA社は資本提携を解消し、株式を[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")に譲渡する。 直後に日産コンツェルンのグループ会社だった[日産自動車](../Page/日産自動車.md "wikilink")が[東京芝浦電気に株式を売却し](../Page/東芝.md "wikilink")、東芝傘下に入る。
-  - [1943年](../Page/1943年.md "wikilink") - 戦争開戦の為[陸軍省](https://ja.wikipedia.org/wiki/陸軍省 "wikilink")の指導（[敵性用語](https://ja.wikipedia.org/wiki/敵性用語 "wikilink")の排除の指導）を受け、社名を日本音響株式会社に変更する。 レーベル名は[英語](../Page/英語.md "wikilink")の『VICTOR』のままだったが、[ニッパー](https://ja.wikipedia.org/wiki/ニッパー "wikilink")の下に書いてあった"His Master's Voice"の文言を消すなどをしている。
+  - [1943年](../Page/1943年.md "wikilink") - 戦争開戦の為[陸軍省](../Page/陸軍省.md "wikilink")の指導（[敵性用語](https://ja.wikipedia.org/wiki/敵性用語 "wikilink")の排除の指導）を受け、社名を日本音響株式会社に変更する。 レーベル名は[英語](../Page/英語.md "wikilink")の『VICTOR』のままだったが、[ニッパー](https://ja.wikipedia.org/wiki/ニッパー "wikilink")の下に書いてあった"His Master's Voice"の文言を消すなどをしている。
   - [1946年](../Page/1946年.md "wikilink") - 終戦（敗戦）に伴い、社名を日本音響株式会社より日本ビクター株式会社に変更する。
   - [1970年](../Page/1970年.md "wikilink") - [フィリップスレーベル部門](../Page/フィリップス・レコード.md "wikilink")（邦楽、洋楽）が「日本フォノグラム株式会社」（後のマーキュリーミュージックエンタテインメント株式会社\[1\]）として分離・独立する。
   - [1972年](../Page/1972年.md "wikilink") - 日本ビクターの音楽ソフト部門のうち、製造部門を除く制作・営業・宣伝、および出版事業などの 部門を「**ビクター音楽産業株式会社**」（英文社名：Victor Musical Industries, Inc.）として分離・独立する\[2\]。
@@ -63,7 +63,7 @@
   - [2012年](../Page/2012年.md "wikilink")7月 - ロゴマークを一新。ただし旧・日本ビクター時代のシンボルマーク、「ニッパー」（His Master's Voice）は継承されている。
   - [2014年](../Page/2014年.md "wikilink")4月1日 - 社名を**株式会社JVCケンウッド・ビクターエンタテインメント**に変更。
   - [2015年](../Page/2015年.md "wikilink")6月10日 - デジタル部門が新レーベル「[AndRec](https://ja.wikipedia.org/wiki/AndRec "wikilink")」（アンドレック）を設立し、第1弾アーティストとして[丸本莉子](https://ja.wikipedia.org/wiki/丸本莉子 "wikilink")を国内初の[ハイレゾ](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")[配信でデビューさせた](../Page/音楽配信.md "wikilink")\[15\]。
-  - [2019年](../Page/2019年.md "wikilink")6月 - ゲームレーベル**ビクターエンタテインメント・ゲームズ**を設立。第1弾プロジェクトとして『[THE KING OF FIGHTERS for GIRLS](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_for_GIRLS "wikilink")』の始動を発表した\[16\]。
+  - [2019年](../Page/2019年.md "wikilink")6月 - [社内カンパニー](../Page/社内カンパニー.md "wikilink")兼ゲームレーベル**ビクターエンタテインメント・ゲームズ**を設立。第1弾プロジェクトとして『[THE KING OF FIGHTERS for GIRLS](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_for_GIRLS "wikilink")』の始動を発表した\[16\]。
 
 ## 関連会社・団体
 
@@ -170,7 +170,7 @@
   - [神戸兄弟](https://ja.wikipedia.org/wiki/神戸兄弟 "wikilink") (2019年〜)
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink") (1997年〜)
   - [KOKIA](../Page/KOKIA.md "wikilink") (1998年〜)
-  - [琴音](https://ja.wikipedia.org/wiki/琴音_\(歌手\) "wikilink") (2019年〜)
+  - [琴音](../Page/琴音_\(歌手\).md "wikilink") (2019年〜)
   - [小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink") (2018年〜)
 
 ### さ・た行
@@ -217,7 +217,6 @@
 ### な - わ行
 
   - [長山洋子](../Page/長山洋子.md "wikilink") (1984年〜)
-  - [中居正広](../Page/中居正広.md "wikilink") (2017年〜)
   - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink") (1987年〜1996年、2016年〜)（[マーキュリー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[BMG JAPAN、徳間ジャパン所属を経て](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、2016年自主レーベル「Lingua Sounda」をビクターエンタテインメント内に移し、今後の作品リリースを同社から行うことを発表した）
   - [夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink") (1999年〜)
   - [nanoCUNE](https://ja.wikipedia.org/wiki/nanoCUNE "wikilink") (2015年〜)
@@ -463,6 +462,7 @@
 
   - [ナイス橋本](../Page/ナイス橋本.md "wikilink") (2006年〜2009年)
   - [仲雅美](https://ja.wikipedia.org/wiki/仲雅美 "wikilink") (1970年〜1974年)
+  - [中居正広](../Page/中居正広.md "wikilink") (1991年〜2016年、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")として)
   - [中尾ミエ](../Page/中尾ミエ.md "wikilink") (1962年〜1989年)
   - [中島愛](../Page/中島愛_\(声優\).md "wikilink") (2009年〜2014年)
   - [中坪健](https://ja.wikipedia.org/wiki/中坪健 "wikilink")
@@ -1308,7 +1308,7 @@ Getting Better Records×Speedstar Records presents MUSIC TAGS vol.3<br />
 <li><a href="https://ja.wikipedia.org/wiki/キイチビール&amp;ザ・ホーリーティッツ" title="wikilink">キイチビール&amp;ザ・ホーリーティッツ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/VELDE" title="wikilink">VELDE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/セプテンバーミー" title="wikilink">セプテンバーミー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SUSHIBOYS" title="wikilink">SUSHIBOYS</a></li>
+<li><a href="../Page/SUSHIBOYS.md" title="wikilink">SUSHIBOYS</a></li>
 <li>むぎ(猫)</li>
 </ul>
 <p>THREE</p>

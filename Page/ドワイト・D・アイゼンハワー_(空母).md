@@ -1,4 +1,4 @@
-> この記事は[D \(\)](https://ja.wikipedia.org/wiki/D_\(\))から翻訳されています。
+> この記事は[ドワイト・D・アイゼンハワー \(空母\)](https://ja.wikipedia.org/wiki/ドワイト・D・アイゼンハワー_\(空母\))から翻訳されています。
 
 
 [CVN-69_insignia.jpg](https://ja.wikipedia.org/wiki/File:CVN-69_insignia.jpg "fig:CVN-69_insignia.jpg") **ドワイト・D・アイゼンハワー** (**USS Dwight D. Eisenhower**, **CVAN-69/CVN-69**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。[ニミッツ級航空母艦](../Page/ニミッツ級航空母艦.md "wikilink")の2番艦。艦名は第34代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ドワイト・D・アイゼンハワー](../Page/ドワイト・D・アイゼンハワー.md "wikilink")にちなんで命名された。当初は単に「アイゼンハワー」であったが、[1970年](../Page/1970年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に「ドワイト・D・アイゼンハワー」に変更された。
@@ -68,10 +68,10 @@
 
 | 飛行隊名                                                                                              | 通称名                        | 使用機種                                                                                    |
 | ------------------------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------------------------------- |
-| 第32戦闘攻撃飛行隊 ([VFA-32](https://ja.wikipedia.org/wiki/第32戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))             | 「スォーズメン」 "Swordsmen"       | [F/A-18F Block2-(AESA非搭載型)](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
-| 第86戦闘攻撃飛行隊 ([VFA-86](https://ja.wikipedia.org/wiki/第86戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))             | 「サイドワインダーズ」 "Sidewinders"  | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")            |
-| 第131戦闘攻撃飛行隊 ([VFA-131](https://ja.wikipedia.org/wiki/第131戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))          | 「ワイルドキャッツ」 "Wildcats"      | [F/A-18C(N)](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")                   |
-| 第105戦闘攻撃飛行隊 ([VFA-105](https://ja.wikipedia.org/wiki/第105戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))          | 「ガンスリンガーズ」 "Gunslingers"   | [F/A-18E Block2-(AESA非搭載型)](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第32戦闘攻撃飛行隊 ([VFA-32](https://ja.wikipedia.org/wiki/第32戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))             | 「スォーズメン」 "Swordsmen"       | [F/A-18F Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")            |
+| 第83戦闘攻撃飛行隊 ([VFA-83](https://ja.wikipedia.org/wiki/第86戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))             | 「ラムペイジャーズ」 "Rampagers"     | [F/A-18E Block2-(AESA非搭載型)](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第131戦闘攻撃飛行隊 ([VFA-131](https://ja.wikipedia.org/wiki/第131戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))          | 「ワイルドキャッツ」 "Wildcats"      | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")               |
+| 第105戦闘攻撃飛行隊 ([VFA-105](https://ja.wikipedia.org/wiki/第105戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))          | 「ガンスリンガーズ」 "Gunslingers"   | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink")            |
 | 第130電子攻撃飛行隊 ([VAQ-130](https://ja.wikipedia.org/wiki/第130電子攻撃飛行隊_\(アメリカ海軍\) "wikilink"))          | 「ザッパーズ」 "Zappers"          | [EA-18G](https://ja.wikipedia.org/wiki/EA-18G_\(航空機\) "wikilink")                       |
 | 第123早期警戒飛行隊 ([VAW-123](https://ja.wikipedia.org/wiki/第123早期警戒飛行隊_\(アメリカ海軍\) "wikilink"))          | 「スクリュートップズ」 "Screwtops"    | [E-2C](../Page/E-2_\(航空機\).md "wikilink")                                               |
 | 第7ヘリコプター海上作戦飛行隊 ([HSC-7](https://ja.wikipedia.org/wiki/第7ヘリコプター海上作戦飛行隊_\(アメリカ海軍\) "wikilink"))    | 「ダスティ・ドッグズ」 "Dusty Dogs"   | MH-60S                                                                                  |

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK仙台放送局](https://ja.wikipedia.org/wiki/NHK仙台放送局)から翻訳されています。
 
 
 **NHK仙台放送局**（エヌエイチケイせんだいほうそうきょく）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。所在地は[仙台市](../Page/仙台市.md "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")[本町](../Page/本町_\(仙台市\).md "wikilink")。[東北6県を管轄するNHK東北ブロックの](https://ja.wikipedia.org/wiki/東北地方 "wikilink")**[拠点局](../Page/基幹局.md "wikilink")**でもある。
@@ -192,6 +192,8 @@
 
 ## 主な仙台局制作番組
 
+  - 2020年4月現在
+
 ### 総合テレビ
 
   - 東北ブロック放送
@@ -200,9 +202,9 @@
 
   - ニュース・気象情報
       - 平日 6:55 - 7:00・15:05 - 15:08
-      - 土曜 6:55 - 7:00・12:10 - 12:15・20:55 - 21:00
-      - 日曜 6:55 - 7:00・7:40 - 7:45・12:10 - 12:15・20:55 - 21:00
-      - 祝日 6:55 - 6:59・7:25 - 7:30・12:10 - 12:15・18:45 - 19:00・20:55 - 21:00
+      - 土曜 6:55 - 7:00・12:10 - 12:15・18:45 - 19:00（※[山形局](../Page/NHK山形放送局.md "wikilink")・[福島局を除く](../Page/NHK福島放送局.md "wikilink")）・20:55 - 21:00
+      - 日曜 6:55 - 7:00・7:40 - 7:45・12:10 - 12:15・18:45 - 19:00（※山形局・福島局を除く）・20:55 - 21:00
+      - 祝日 6:55 - 6:59・7:25 - 7:30・12:10 - 12:15・18:45 - 19:00（※福島局を除く）・20:55 - 21:00
       - 年末年始 7:15 - 7:20・12:10 - 12:15・18:50 - 19:00・20:55 - 21:00\[34\]
   - [震災関連ニュース](https://ja.wikipedia.org/wiki/情報パレット "wikilink")（震災ニュース、2012年3月30日で終了）（平日12:20 - 12:43）当該時間に放送されていた「[ひるブラ](https://ja.wikipedia.org/wiki/ひるブラ "wikilink")」「[金曜バラエティ](https://ja.wikipedia.org/wiki/金曜バラエティ "wikilink")（2012年3月30日で終了）」はデジタル総合2で放送されていた。
   - 気象情報
@@ -227,7 +229,6 @@
   - [おはよう宮城](../Page/おはよう宮城.md "wikilink")（平日 7:45 - 8:00、7:50 - 7:58は**東北ブロック放送**扱い）
   - [てれまさむね](https://ja.wikipedia.org/wiki/てれまさむね "wikilink")（平日 18:10 - 18:58、番組内容・NHK総合の番組予告により18:59までの放送もあり）
   - [ニュースてれまさ845](https://ja.wikipedia.org/wiki/NHKニュースみやぎ845 "wikilink")（平日 20:45 - 21:00）
-  - [ニュース645](https://ja.wikipedia.org/wiki/NHKニュース645 "wikilink")（土日 18:45 - 18:59、18:53 - 18:55に全国の気象情報あり）
   - [クローズアップみやぎ](https://ja.wikipedia.org/wiki/クローズアップ東北 "wikilink")（毎月第1金曜日 19:30 - 19:55、2日後の日曜日 8:00 - 8:25に再放送）
   - だてもの（深夜に5分間放送）
 
@@ -272,14 +273,13 @@
 ### ラジオ第1放送
 
   - [ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")（月曜 - 金曜 17:00 - 18:00）
-  - [東北ラジオ朝一番](https://ja.wikipedia.org/wiki/東北ラジオ朝一番 "wikilink")（月曜 - 土曜 7:40 - 8:00、東北ブロック放送）
-  - [民謡をどうぞ](../Page/民謡をどうぞ.md "wikilink")（金曜日 12:30 - 12:55、東北ブロック放送。FM放送でも同時放送）
+  - [民謡をどうぞ](../Page/民謡をどうぞ.md "wikilink")（金曜日 12:30 - 12:55、東北ブロック放送）
 
 #### ラジオのローカル枠
 
   -
-    ※無印は東北ブロック放送、☆印は平日、土日宮城ローカル、★印は平日は宮城ローカル。
-    ※祝日・年末年始は、**終日東北ブロック放送**のため宮城ローカルなし。
+    ※無印は東北ブロック放送、★印は平日のみ宮城ローカル。
+    ※土日（※2020年4月より）・祝日・年末年始は、**終日東北ブロック放送**のため宮城ローカルなし。
     ※時間が余ったときには「おしらせ」と称した地域イベントやNHKからの告知を行う。
 
 <!-- end list -->
@@ -295,9 +295,9 @@
   - 13:55
   - 14:55　★
   - 16:55
-  - 17:55 - 平日は[ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")のワンコーナー。☆\[39\]
+  - 17:55 - 平日は[ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")のワンコーナー。★\[39\]
   - 18:50（FMサイマル）★
-  - 19:15（FMサイマル）（土日・祝日・年末年始「[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")」）☆
+  - 19:15（FMサイマル）（土日・祝日・年末年始「[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")」）
   - 19:55 - 日曜日は放送なし（「[音の風景](../Page/音の風景.md "wikilink")」を放送）
   - 21:55
   - 22:55
@@ -307,8 +307,6 @@
   - [MONKEY MAJIKのオンバク](https://ja.wikipedia.org/wiki/MONKEY_MAJIKのオンバク "wikilink")（月曜日 18:00 - 18:50） - 東北6県ブロックネット。祝日は特番で休止あり。\[40\]
   - [NHK全国学校音楽コンクール 東北ブロック](../Page/NHK全国学校音楽コンクール.md "wikilink")（毎年9月下旬 16:00 - 18:50、東北ブロック放送）
   - [東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")開幕戦中継（13:00 - 試合終了 本来はAMでの放送であるが、高校野球中継を優先させるためFMで放送。2005 - 2007年の3年間はいずれも、東北ブロックで放送。2009年はラジオ第1で全国放送）
-
------
 
 ※一連の東北6県または宮城県域放送のラジオ番組は『[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")・仙台』にて全国で聴取することが可能。ラジオ第1放送の番組は『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』でも東北6県で聴取することが可能。
 
@@ -397,49 +395,159 @@
 
   - **\***印は過去に仙台局勤務経験あり。前任地が太字はその局が初任地。
 
-| 氏名                                                      | 前任地                                                                    | 主なジャンル    | 主な担当番組                                                       | 備考     |
-| ------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------------------------------------ | ------ |
-| 男性                                                      |                                                                        |           |                                                              |        |
-| [池野健](https://ja.wikipedia.org/wiki/池野健 "wikilink")     | [横浜](../Page/NHK横浜放送局.md "wikilink")                                   | 地域・スポーツ   | スポーツ中継                                                       |        |
-| [勝呂恭佑](https://ja.wikipedia.org/wiki/勝呂恭佑 "wikilink")   | [高知](../Page/NHK高知放送局.md "wikilink")                                   | 地域        | [ウィークエンド東北](../Page/ウィークエンド東北.md "wikilink")                 |        |
-| [金城均](https://ja.wikipedia.org/wiki/金城均 "wikilink")     | [京都](../Page/NHK京都放送局.md "wikilink")                                   | 地域・スポーツ   | スポーツ中継                                                       |        |
-| [打越裕樹](https://ja.wikipedia.org/wiki/打越裕樹 "wikilink")   | [長野](../Page/NHK長野放送局.md "wikilink")                                   | 地域        | ニュース                                                         |        |
-| [高木優吾](https://ja.wikipedia.org/wiki/高木優吾 "wikilink")   | [大津](../Page/NHK大津放送局.md "wikilink")                                   | 地域        | ニュース・スポーツ中継                                                  |        |
-| [杉尾宗紀](https://ja.wikipedia.org/wiki/杉尾宗紀 "wikilink")\* | [宮崎](../Page/NHK宮崎放送局.md "wikilink")                                   | 地域        | [ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink") |        |
-|                                                         |                                                                        |           |                                                              |        |
-| [津田喜章](https://ja.wikipedia.org/wiki/津田喜章 "wikilink")   | [秋田](../Page/NHK秋田放送局.md "wikilink")                                   | 地域        | [被災地からの声](https://ja.wikipedia.org/wiki/被災地からの声 "wikilink")  | 宮城県出身  |
-|                                                         |                                                                        |           |                                                              |        |
-| [塚本貴之](../Page/塚本貴之.md "wikilink")                      | [G-media出向](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink") | スポーツ      | ニュース・スポーツ中継                                                  |        |
-| [阿部悌](https://ja.wikipedia.org/wiki/阿部悌 "wikilink")\*   | [ラジオセンター](../Page/NHK放送センター.md "wikilink")                             | 特になし      | ニュースなど                                                       |        |
-| [真下貴](../Page/真下貴.md "wikilink")                        | [日本語センター出向](../Page/NHK放送研修センター・日本語センター.md "wikilink")                 | 地域情報・ニュース | [てれまさむね](https://ja.wikipedia.org/wiki/てれまさむね "wikilink")    |        |
-| [小寺康雄](../Page/小寺康雄.md "wikilink")                      | 東京アナウンス室                                                               | アナウンス専任部長 | ニュースなど                                                       | 管理業務主体 |
-| 女性                                                      |                                                                        |           |                                                              |        |
-| [石井かおる](../Page/石井かおる.md "wikilink")\*                  | 東京アナウンス室                                                               | 地域        |                                                              |        |
-| [大沼ひろみ](../Page/大沼ひろみ.md "wikilink")\*                  | [日本語センター出向](../Page/NHK放送研修センター・日本語センター.md "wikilink")                 | 地域        |                                                              |        |
-| [森下絵理香](https://ja.wikipedia.org/wiki/森下絵理香 "wikilink") | [福井](../Page/NHK福井放送局.md "wikilink")                                   | 地域        | [大好き東北 定禅寺しゃべり亭](https://www4.nhk.or.jp/P5560/)司会・進行         |        |
-| シニアスタッフ                                                 |                                                                        |           |                                                              |        |
-| [相馬宏男](https://ja.wikipedia.org/wiki/相馬宏男 "wikilink")   | 元正職員アナウンサー                                                             | 特になし      | ニュースなど                                                       |        |
-|                                                         |                                                                        |           |                                                              |        |
+<table>
+<thead>
+<tr class="header">
+<th><p>氏名</p></th>
+<th><p>前任地</p></th>
+<th><p>主な担当番組</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>男性</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/打越裕樹" title="wikilink">打越裕樹</a></p></td>
+<td><p><a href="../Page/NHK長野放送局.md" title="wikilink">長野</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/てれまさむね" title="wikilink">てれまさむね</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/手嶌真吾" title="wikilink">手嶌真吾</a></p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
+<td><p><a href="../Page/ウィークエンド東北.md" title="wikilink">ウィークエンド東北</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/池野健" title="wikilink">池野健</a></p></td>
+<td><p><a href="../Page/NHK横浜放送局.md" title="wikilink">横浜</a></p></td>
+<td><p>各種スポーツ中継<br />
+東北地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/金城均" title="wikilink">金城均</a></p></td>
+<td><p><a href="../Page/NHK京都放送局.md" title="wikilink">京都</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/高木優吾" title="wikilink">高木優吾</a></p></td>
+<td><p><a href="../Page/NHK大津放送局.md" title="wikilink">大津</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/塚本貴之.md" title="wikilink">塚本貴之</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-media出向</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/杉尾宗紀" title="wikilink">杉尾宗紀</a>*</p></td>
+<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴジだっちゃ!" title="wikilink">ゴジだっちゃ!</a></p></td>
+<td><p>　</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/津田喜章" title="wikilink">津田喜章</a></p></td>
+<td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/被災地からの声" title="wikilink">被災地からの声</a><br />
+（キャスター）</p></td>
+<td><p>宮城県出身</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/阿部悌" title="wikilink">阿部悌</a>*</p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p>東北地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/勝呂恭佑" title="wikilink">勝呂恭佑</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/真下貴.md" title="wikilink">真下貴</a></p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/小寺康雄.md" title="wikilink">小寺康雄</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p>アナウンス専任部長<br />
+東北地方のニュース</p></td>
+<td><p>管理業務主体</p></td>
+</tr>
+<tr class="even">
+<td><p>女性</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/大沼ひろみ.md" title="wikilink">大沼ひろみ</a>*</p></td>
+<td><p>日本語センター出向</p></td>
+<td><p>東北地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/森田茉里恵" title="wikilink">森田茉里恵</a></p></td>
+<td><p><strong><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></strong></p></td>
+<td><p><a href="../Page/大好き東北_定禅寺しゃべり亭.md" title="wikilink">大好き東北 定禅寺しゃべり亭</a><br />
+（司会進行）<br />
+東北地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>シニアスタッフ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/相馬宏男" title="wikilink">相馬宏男</a></p></td>
+<td><p>元正職員アナウンサー</p></td>
+<td><p>東北地方のニュース</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### キャスター
 
-| 氏名                                                              | 所属・前職等                                          | 主な担当番組                                                         | 備考    |
-| --------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------- | ----- |
-| HK専属                                                            |                                                 |                                                                |       |
-| [伊藤友見](https://ja.wikipedia.org/wiki/伊藤友見 "wikilink")           | 元[徳島局契約キャスター](../Page/NHK徳島放送局.md "wikilink")   | おはよう宮城                                                         |       |
-| 猪股真衣                                                            | 2017 せんだい・杜の都親善大使                               | てれまさむね・[大好き東北 定禅寺しゃべり亭](https://www4.nhk.or.jp/P5560/)         | 宮城県出身 |
-| 島影咲織                                                            | 元[宇都宮局契約キャスター](../Page/NHK宇都宮放送局.md "wikilink") | てれまさむね スポーツ                                                    |       |
-| 関口元朝                                                            | [気象予報士](../Page/気象予報士.md "wikilink")            | [おはよう宮城](../Page/おはよう宮城.md "wikilink")                         |       |
-| 谷崎すずな                                                           | 元[熊本局契約キャスター](../Page/NHK熊本放送局.md "wikilink")   | [ウィークエンド東北](../Page/ウィークエンド東北.md "wikilink")                   |       |
-| 中條奈菜花                                                           | 元[函館局契約キャスター](../Page/NHK函館放送局.md "wikilink")   | てれまさむね                                                         |       |
-| 藤原由佳                                                            |                                                 | てれまさむね スポーツ                                                    |       |
-| 星川幸                                                             | 元[旭川局契約キャスター](../Page/NHK旭川放送局.md "wikilink")   | [ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")   |       |
-| 松井佐祐里                                                           | 元[津局契約キャスター](../Page/NHK津放送局.md "wikilink")     | てれまさむね                                                         |       |
-| 村田奈央                                                            |                                                 | [もりすた\!](https://ja.wikipedia.org/wiki/もりすた! "wikilink")\[46\] |       |
-| 森本万里奈                                                           | 元[奈良局契約キャスター](../Page/NHK奈良放送局.md "wikilink")   | おはよう宮城・てれまさむね                                                  |       |
-| [吉田晴香](https://ja.wikipedia.org/wiki/吉田晴香_\(キャスター\) "wikilink") | [気象予報士](../Page/気象予報士.md "wikilink")            | てれまさむね お天気キャスター、リポーター                                          |       |
-| 出演者契約（外部プロダクション所属）                                              |                                                 |                                                                |       |
-|                                                                 |                                                 |                                                                |       |
+| 氏名                                                    | 所属・前職等                                          | 主な担当番組                                                         | 備考    |
+| ----------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------- | ----- |
+| HK専属                                                  |                                                 |                                                                |       |
+| [伊藤友見](https://ja.wikipedia.org/wiki/伊藤友見 "wikilink") | 元[徳島局契約キャスター](../Page/NHK徳島放送局.md "wikilink")   | おはよう宮城                                                         |       |
+| 猪股真衣                                                  | 2017 せんだい・杜の都親善大使                               | てれまさむね・[大好き東北 定禅寺しゃべり亭](https://www4.nhk.or.jp/P5560/)         | 宮城県出身 |
+| 島影咲織                                                  | 元[宇都宮局契約キャスター](../Page/NHK宇都宮放送局.md "wikilink") | てれまさむねスポーツ                                                     |       |
+| 関口元朝                                                  | [気象予報士](../Page/気象予報士.md "wikilink")            | [おはよう宮城](../Page/おはよう宮城.md "wikilink")                         |       |
+| 谷崎すずな                                                 | 元[熊本局契約キャスター](../Page/NHK熊本放送局.md "wikilink")   | [おはよう宮城](../Page/おはよう宮城.md "wikilink")                         |       |
+| 岩間瞳                                                   |                                                 | てれまさむね                                                         |       |
+| 藤原由佳                                                  |                                                 | てれまさむね スポーツ                                                    |       |
+| 星川幸                                                   | 元[旭川局契約キャスター](../Page/NHK旭川放送局.md "wikilink")   | [ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")   |       |
+| 内藤美穂                                                  | 元[函館局契約キャスター](../Page/NHK函館放送局.md "wikilink")   | てれまさむね リポーター                                                   |       |
+| 村田奈央                                                  |                                                 | [もりすた\!](https://ja.wikipedia.org/wiki/もりすた! "wikilink")\[46\] |       |
+| 深堀遙菜                                                  | 元[新潟局契約キャスター](../Page/NHK新潟放送局.md "wikilink")   | [ウィークエンド東北](../Page/ウィークエンド東北.md "wikilink")                   | 宮城県出身 |
+| 篠原正\*                                                 | [気象予報士](../Page/気象予報士.md "wikilink")            | てれまさむね                                                         |       |
+| 出演者契約（外部プロダクション所属）                                    |                                                 |                                                                |       |
+|                                                       |                                                 |                                                                |       |
 
 ## 専属の音楽部門
 
@@ -503,7 +611,7 @@
 36. [ひるはぴ](https://ja.wikipedia.org/wiki/ひるはぴ "wikilink")までは、後半部は各県ローカル枠。
 37. 2009年10月16日金曜日の｢クライマックスシリーズ 第1ステージ 第1戦｣の[ソフトバンク戦と球団創設初のリーグ優勝決定試合となった](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")2013年9月26日の[埼玉西武戦はBS](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")-1と同時放送（ただし、実況と解説は別）。なお、後者については、楽天の優勝が決定した瞬間（21時52分頃）は、「ニュースウオッチ9」のスポーツコーナーを通じて実質全国放送となった。2013年10月17日の｢クライマックスシリーズ ファイナルステージ第1戦 楽天対ロッテ｣は東北地方の総合テレビのみで放送。
 38. 2017年3月31日をもって放送終了
-39. 祝日・年末年始は、東北地方の気象情報・交通情報を放送（福島局を除く）
+39. 土日・祝日・年末年始は、東北地方の気象情報・交通情報を放送（尚、土日は山形局・福島局ともに各県域ローカル。祝日は福島局のみ県域ローカル。）
 40. 2018年3月までは、土曜日18:00に放送していたが、「[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")定期演奏会中継」等、特別番組で休止あり。
 41. [NHKニュース 地震発生時のNHK仙台放送局](http://www.youtube.com/watch?v=UH1mh7Xuccw) NHK Online
 42. 通常の18時台は18:10-19:00に[てれまさむね](https://ja.wikipedia.org/wiki/てれまさむね "wikilink")が放送されている時間帯であるが、3月一杯は18:45まで全国のニュースを拡大しており、ローカルニュースは土・日・祝日を含め18:45-19:00のみとなっている。

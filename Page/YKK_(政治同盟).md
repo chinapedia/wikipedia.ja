@@ -1,4 +1,4 @@
-> この記事は[YKK \(\)](https://ja.wikipedia.org/wiki/YKK_\(\))から翻訳されています。
+> この記事は[YKK \(政治同盟\)](https://ja.wikipedia.org/wiki/YKK_\(政治同盟\))から翻訳されています。
 
 
 **YKK**（ワイケーケー）は、[自由民主党所属の](../Page/自由民主党_\(日本\).md "wikilink")[衆議院議員](https://ja.wikipedia.org/wiki/衆議院議員 "wikilink")であった[山崎拓](../Page/山崎拓.md "wikilink")、[加藤紘一](../Page/加藤紘一.md "wikilink")、[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")による盟友関係。**YKKトリオ**とも呼ばれる。ローマ字表記した際の3人の頭文字 (Yamasaki, Katô, Koizumi) を[ジッパー](https://ja.wikipedia.org/wiki/ジッパー "wikilink")の製造で有名な大手非鉄金属メーカー[YKK](../Page/YKK.md "wikilink")に掛けて、このように呼ばれるようになった。山崎によると、「YKK」のネーミングは加藤が発案したという\[1\]。

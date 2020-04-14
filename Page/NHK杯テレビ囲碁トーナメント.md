@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯テレビ囲碁トーナメント](https://ja.wikipedia.org/wiki/NHK杯テレビ囲碁トーナメント)から翻訳されています。
 
 
 **NHK杯テレビ囲碁トーナメント**（NHKはいテレビいごトーナメント）とは[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が主催する[囲碁](../Page/囲碁.md "wikilink")の[棋戦である](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[トーナメント方式](../Page/トーナメント方式.md "wikilink")で、優勝者には「**NHK杯選手権者**」（略して「**NHK杯**」）の称号が贈られ、次期の優勝者にその称号が贈られるまで主にNHKの囲碁番組内などで呼称される。対局はNHKのテレビスタジオで行われ、その模様は[NHK教育テレビで毎週](../Page/NHK教育テレビジョン.md "wikilink")1局ずつ放送される（当初は[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")）。年度始めの4月に本選の放送がスタートし、年度末の翌年3月に決勝戦が行われる。
@@ -39,7 +39,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 
 ## 優勝記録
 
-第66回（2018年度）までの最多優勝は[坂田栄男](https://ja.wikipedia.org/wiki/坂田栄男 "wikilink")の11回であり、次いで[大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink")、[依田紀基](../Page/依田紀基.md "wikilink")、[結城聡](../Page/結城聡.md "wikilink")が5回優勝している。
+第67回（2019年度）までの最多優勝は[坂田栄男](https://ja.wikipedia.org/wiki/坂田栄男 "wikilink")の11回であり、次いで[大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink")、[依田紀基](../Page/依田紀基.md "wikilink")、[結城聡](../Page/結城聡.md "wikilink")が5回優勝している。
 
 連覇したのは坂田栄男、依田紀基、結城聡、井山裕太の4人。また井山裕太を除く3人は三連覇も達成している。（坂田は第4～6回、依田は第45～47回、結城は第59～61回で三連覇を達成）。
 
@@ -117,7 +117,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 64 | [2016年](../Page/2016年.md "wikilink")                    | [井山裕太](https://ja.wikipedia.org/wiki/井山裕太 "wikilink") | 一力遼                                                   |
 | 65 | [2017年](../Page/2017年.md "wikilink")                    | 井山裕太(2)                                               | 志田達哉                                                  |
 | 66 | [2018年](../Page/2018年.md "wikilink")                    | 一力遼                                                   | 井山裕太                                                  |
-| 67 | [2019年](../Page/2019年.md "wikilink")                    |                                                       |                                                       |
+| 67 | [2019年](../Page/2019年.md "wikilink")                    | 井山裕太(3)                                               | 一力遼                                                   |
 
 ### 優勝回数
 

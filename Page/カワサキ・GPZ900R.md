@@ -1,4 +1,4 @@
-> この記事は[GPZ900R](https://ja.wikipedia.org/wiki/GPZ900R)から翻訳されています。
+> この記事は[カワサキ・GPZ900R](https://ja.wikipedia.org/wiki/カワサキ・GPZ900R)から翻訳されています。
 
 
 [1984_Kawasaki_GPz900R.jpg](https://ja.wikipedia.org/wiki/File:1984_Kawasaki_GPz900R.jpg "fig:1984_Kawasaki_GPz900R.jpg") [GPZ900R_A16Ninja.jpg](https://ja.wikipedia.org/wiki/File:GPZ900R_A16Ninja.jpg "fig:GPZ900R_A16Ninja.jpg") **カワサキ・GPZ900R**（ジーピーゼットきゅうひゃくアール）は、[1984年](../Page/1984年.md "wikilink")に市販された[川崎重工業](../Page/川崎重工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")、新世代[スポーツツアラーである](https://ja.wikipedia.org/wiki/ツアラー_\(オートバイ\) "wikilink")。[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")市場むけの仕様には**Ninja**（ニンジャ）の[ペットネームが付けられた](../Page/愛称.md "wikilink")。

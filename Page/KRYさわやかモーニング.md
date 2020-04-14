@@ -1,4 +1,4 @@
-> この記事は[KRY](https://ja.wikipedia.org/wiki/KRY)から翻訳されています。
+> この記事は[KRYさわやかモーニング](https://ja.wikipedia.org/wiki/KRYさわやかモーニング)から翻訳されています。
 
 
 『**KRYさわやかモーニング**』（ケイアールワイさわやかモーニング）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")で月曜 - 金曜の5:20 - 6:30に放送されている自社制作の[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。通称「**さわやか**」。
@@ -54,10 +54,11 @@
   - [2017年](../Page/2017年.md "wikilink")4月3日：放送開始から満25年。キャスター陣総入れ替え。男性キャスターが[長井紀幸](https://ja.wikipedia.org/wiki/長井紀幸 "wikilink")、女性キャスターが[丹黒香奈子](https://ja.wikipedia.org/wiki/丹黒香奈子 "wikilink")。共に（月曜 - 金曜）の担当。同時に番組ロゴも刷新される。
       - 『Oha\!4』の差し替えポイントも変更され、最新ニュースに代えて5:31頃 - 5:44頃のおはにゃん・スポーツ・エンタメをネットする。
   - [2017年](../Page/2017年.md "wikilink")10月30日、キャスター陣総入れ替え。男性キャスターが[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")、女性キャスターが[八木美佐子](https://ja.wikipedia.org/wiki/八木美佐子 "wikilink")。共に（月曜 - 金曜）の担当。番組セットもリニューアルされる。\[7\]
+  - [2020年](../Page/2020年.md "wikilink")3月30日：女性キャスターを入れ替え、新人の上田奈央アナウンサーを抜擢。
 
 ## 出演者
 
-  - 【月曜 - 金曜】：[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")・[八木美佐子](https://ja.wikipedia.org/wiki/八木美佐子 "wikilink")（共に山口放送アナウンサー、[2017年](../Page/2017年.md "wikilink")10月30日～）
+  - 【月曜 - 金曜】：[成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")・[上田奈央](https://ja.wikipedia.org/wiki/上田奈央 "wikilink")（共に山口放送アナウンサー、[2020年](../Page/2020年.md "wikilink")3月30日～）
   - 【金曜】：[山本昇治](../Page/山本昇治.md "wikilink")（山口放送気象予報士）
 
 <!-- end list -->
@@ -78,7 +79,7 @@
 | 2010.03.29 | 2011.03.31 | [大河原あゆみ](https://ja.wikipedia.org/wiki/大河原あゆみ "wikilink") |
 | 2011.04.01 | 2017.03.31 | [鎌田友里](https://ja.wikipedia.org/wiki/鎌田友里 "wikilink")     |
 | 2017.04.03 | 2017.10.27 | [長井紀幸](https://ja.wikipedia.org/wiki/長井紀幸 "wikilink")     |
-| 2017.10.30 | 現在         | [成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")     |
+| 2017.10.30 | 2020.03.27 | [成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")     |
 
 ## キャラクター
 

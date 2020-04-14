@@ -984,7 +984,7 @@
         **Sing a Song**（本須和秀樹（[杉田智和](../Page/杉田智和.md "wikilink")）） - 作詞・作曲：伊藤利恵子 / 編曲：ROUND TABLE
           -
             『ちょびっツ キャラクターソング・コレクション』収録
-        **Let Me Be With You〜ちぃVer.〜**（[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")） - 作詞・作曲
+        **Let Me Be With You〜ちぃVer.〜**（[田中理恵](../Page/田中理恵_\(声優\).md "wikilink")） - 作詞・作曲
           -
             田中理恵ミニアルバム『Chara de Rie』収録
 

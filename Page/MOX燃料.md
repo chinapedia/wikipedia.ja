@@ -1,4 +1,4 @@
-> この記事は[MOX](https://ja.wikipedia.org/wiki/MOX)から翻訳されています。
+> この記事は[MOX燃料](https://ja.wikipedia.org/wiki/MOX燃料)から翻訳されています。
 
 
 **MOX燃料**（モックスねんりょう）とは混合酸化物燃料の略称であり、[原子炉](../Page/原子炉.md "wikilink")の[使用済み核燃料](../Page/使用済み核燃料.md "wikilink")中に1%程度含まれる[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")を[再処理により取り出し](../Page/再処理工場.md "wikilink")、[二酸化プルトニウム](https://ja.wikipedia.org/wiki/酸化プルトニウム\(IV\) "wikilink")（PuO<sub>2</sub>）と[二酸化ウラン](../Page/酸化ウラン\(IV\).md "wikilink")（UO<sub>2</sub>）とを混ぜてプルトニウム濃度を4-9%に高めた核燃料である\[1\]。主として[高速増殖炉](../Page/高速増殖炉.md "wikilink")の燃料に用いられるが、既存の[軽水炉](../Page/軽水炉.md "wikilink")用[燃料ペレット](../Page/燃料ペレット.md "wikilink")と同一の形状に加工し、適切な核設計を行ったうえで適切な位置に配置することにより、[軽水炉](../Page/軽水炉.md "wikilink")のウラン燃料の代替として用いることができる。これを[プルサーマル](../Page/プルサーマル.md "wikilink")利用と呼ぶ。MOXとは（Mixed OXide 「混合された酸化物」の意）の頭文字を採ったものである。

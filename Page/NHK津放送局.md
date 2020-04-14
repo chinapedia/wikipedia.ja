@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK津放送局](https://ja.wikipedia.org/wiki/NHK津放送局)から翻訳されています。
 
 
 **NHK津放送局**（エヌエイチケイつほうそうきょく）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
@@ -154,12 +154,12 @@
 
 いずれも祝日は放送休止となる。
 
-  - みえーるくん情報（平日 11：50～12：00）
+  - ちょこっと\!みえ（平日 11：50～12：00）
 
 <!-- end list -->
 
   -
-    ※NHK名古屋放送局では『[東海北陸フレッシュ便 さらさらサラダ](https://ja.wikipedia.org/wiki/東海北陸フレッシュ便_さらさらサラダ "wikilink")』を引き続き放送（平日 11：30～12：00）。
+    ※NHK名古屋放送局では『[さらさらサラダ](https://ja.wikipedia.org/wiki/東海北陸フレッシュ便_さらさらサラダ "wikilink")』を引き続き放送（平日 11：30～12：00）。
     ※11:54～11:57は、[東京発の全国の気象情報を内包して放送](../Page/NHK放送センター.md "wikilink")。
 
 <!-- end list -->
@@ -173,7 +173,7 @@
 
 <!-- end list -->
 
-  - 本音で\!みえ投句 みえDE川柳（FM 最終金曜日 18：00〜18：50）
+  - みえDE川柳（FM 毎月最終金曜日 18：00〜18：50）
 
 <!-- end list -->
 

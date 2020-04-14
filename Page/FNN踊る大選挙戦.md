@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN踊る大選挙戦](https://ja.wikipedia.org/wiki/FNN踊る大選挙戦)から翻訳されています。
 
 
 『**FNN踊る大選挙戦**』（エフエヌエヌ おどるだいせんきょせん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN系列](../Page/フジニュースネットワーク.md "wikilink")）の[選挙特別番組](../Page/選挙特別番組.md "wikilink")。
@@ -7,7 +7,7 @@
 
 [フジテレビの大ヒット](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")『[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")』風の演出を施している。同作品の名台詞「事件は会議室で起きてるんじゃない。現場で起きてるんだ」から拝借した「**選挙は現場で起きている\!**」をキャッチフレーズに、[FNNの各ニュース番組取材陣が現場に赴き](../Page/フジニュースネットワーク.md "wikilink")、選挙の様子を的確に伝えた。
 
-2003年11月9日の[第43回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第43回衆議院議員総選挙 "wikilink")時には、21:24（以下、すべて[JST](../Page/日本標準時.md "wikilink")）に番組の放送が開始された（バレー中継延長で予定より30分遅れて放送）。『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』の選挙版「選挙トリビア」（ナレーター・[伊武雅刀](../Page/伊武雅刀.md "wikilink")）が登場し、民放1位の12.4%の高視聴率を獲得した。
+2003年11月9日の[第43回衆議院議員総選挙](../Page/第43回衆議院議員総選挙.md "wikilink")時には、21:24（以下、すべて[JST](../Page/日本標準時.md "wikilink")）に番組の放送が開始された（バレー中継延長で予定より30分遅れて放送）。『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』の選挙版「選挙トリビア」（ナレーター・[伊武雅刀](../Page/伊武雅刀.md "wikilink")）が登場し、民放1位の12.4%の高視聴率を獲得した。
 
 2004年7月11日の[第20回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第20回参議院議員通常選挙 "wikilink")時からは、一部地域を除き[FNSネットで放送されている](../Page/フジネットワーク.md "wikilink")『[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")』さながらのデジタル時計を携えた多画面分割中継にも挑戦、[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")による[データ放送](../Page/データ放送.md "wikilink")も開始される。12.3%という民放随一の高視聴率をまらも叩き出した。
 

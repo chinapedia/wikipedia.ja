@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK米子支局](https://ja.wikipedia.org/wiki/NHK米子支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:NHK_yonago.JPG "wikilink") **NHK米子支局**（エヌエイチケイよなごしきょく）は、[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")にある[NHK鳥取放送局](../Page/NHK鳥取放送局.md "wikilink")の支局。

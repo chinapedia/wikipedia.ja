@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK高山支局](https://ja.wikipedia.org/wiki/NHK高山支局)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK高山.JPG "wikilink") **NHK高山支局**（エヌエイチケイたかやましきょく）は、[岐阜県](../Page/岐阜県.md "wikilink")[高山市](../Page/高山市.md "wikilink")に所在する[NHK岐阜放送局](../Page/NHK岐阜放送局.md "wikilink")の支局。

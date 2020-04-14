@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ)から翻訳されています。
 
 
 『**THE夜もヒッパレ**』（ザ・よるもヒッパレ、英称:*THE NIGHT OF HIT PARADE*）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[日本テレビ系列で毎週](../Page/日本テレビ放送網.md "wikilink")[土曜](../Page/土曜日.md "wikilink")22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[1996年](../Page/1996年.md "wikilink")10月から[2000年](../Page/2000年.md "wikilink")9月までの間は[CS★日テレ](../Page/CS★日テレ.md "wikilink")でも放送されていた。
@@ -48,16 +48,14 @@
 
 <!-- end list -->
 
-  - 男性
-      - **[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")**（1995.4 - 2002.9.21）
-  - 女性
+  -   - **[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")**（1995.4 - 2002.9.21）
       - 初代：**[マルシア](../Page/マルシア.md "wikilink")**（1995.4 - 1997.4、出産のため休業）
-          - 代理司会：[西田ひかる](../Page/西田ひかる.md "wikilink")・[森口博子](../Page/森口博子.md "wikilink")・[松本明子](../Page/松本明子.md "wikilink")のローテーション制（1997.5 - 9）→マルシア復帰後も舞台出演などの関係から、西田・マルシア・松本・[ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")によるローテーション制を継続。（1997.10 - 1998.12）
+          - 代理司会：[西田ひかる](../Page/西田ひかる.md "wikilink")・[森口博子](../Page/森口博子.md "wikilink")・[松本明子](../Page/松本明子.md "wikilink")の交代制（1997.5 - 9）→マルシア復帰後も舞台出演などの関係から、西田・マルシア・松本・[ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")による交代制を継続。（1997.10 - 1998.12）
       - 2代目：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")（1999.1 - 3、3カ月限定でMCを担当）
       - 3代目：[工藤静香](../Page/工藤静香.md "wikilink")（1999.4 - 6、3カ月限定でMCを担当）
       - 4代目：[NOKKO](../Page/NOKKO.md "wikilink")（1999.6 - 9、3カ月限定でMCを担当）
       - 5代目：[中村江里子](../Page/中村江里子.md "wikilink")（1999.10 - 2000.9、結婚のため降板）
-      - 6代目：[柴田倫世](../Page/柴田倫世.md "wikilink")（当時日本テレビアナウンサー、2000.10 - 2001.12）
+      - 6代目：[柴田倫世](../Page/柴田倫世.md "wikilink")（2000.10 - 2001.12）
       - 7代目：[米倉涼子](https://ja.wikipedia.org/wiki/米倉涼子 "wikilink")（2002.1 - 9.21）
 
 ※三宅・赤坂・マルシアは『夜もヒッパレ』からの続投。
@@ -132,9 +130,9 @@
 <li><a href="../Page/ダチョウ倶楽部.md" title="wikilink">ダチョウ倶楽部</a></li>
 <li><a href="../Page/田原俊彦.md" title="wikilink">田原俊彦</a></li>
 <li><a href="../Page/つのだ☆ひろ.md" title="wikilink">つのだ☆ひろ</a></li>
+<li><a href="../Page/妻夫木聡.md" title="wikilink">妻夫木聡</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/妻夫木聡.md" title="wikilink">妻夫木聡</a></li>
 <li><a href="../Page/鶴久政治.md" title="wikilink">鶴久政治</a></li>
 <li><a href="../Page/TIM_(お笑いコンビ).md" title="wikilink">TIM</a></li>
 <li><a href="../Page/デンジャラス.md" title="wikilink">デンジャラス</a></li>
@@ -172,6 +170,7 @@
 <li><a href="../Page/森口博子.md" title="wikilink">森口博子</a></li>
 <li><a href="../Page/森公美子.md" title="wikilink">森公美子</a></li>
 <li><a href="../Page/森光子.md" title="wikilink">森光子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/もんたよしのり" title="wikilink">もんたよしのり</a></li>
 <li><a href="../Page/薬丸裕英.md" title="wikilink">薬丸裕英</a></li>
 <li><a href="../Page/山咲トオル.md" title="wikilink">山咲トオル</a></li>
 <li><a href="../Page/月亭方正.md" title="wikilink">山崎邦正</a></li>
@@ -193,6 +192,7 @@
   - [ミニスカパン](https://ja.wikipedia.org/wiki/ミニスカパン "wikilink")（三浦理恵子&[来栖あつこ](https://ja.wikipedia.org/wiki/来栖あつこ "wikilink")&[上良早紀](../Page/上良早紀.md "wikilink")）
   - オンセンズ（庄野真代、麻倉未稀）
   - オーナーズ（[白竜](https://ja.wikipedia.org/wiki/白竜 "wikilink")&[美木良介](../Page/美木良介.md "wikilink")）
+  - マンピーズ([つのだ☆ひろ](../Page/つのだ☆ひろ.md "wikilink")・[早坂好恵](../Page/早坂好恵.md "wikilink"))
 
 ## 年間ランキング・特番での第1位獲得曲
 
@@ -216,7 +216,7 @@
 | 1999年秋スペシャル | [フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")                                                       | KinKi Kids                                                                                   |
 | 1999年年間     | [だんご3兄弟](../Page/だんご3兄弟.md "wikilink")                                                                    | [速水けんたろう](../Page/速水けんたろう.md "wikilink")、[茂森あゆみ](../Page/茂森あゆみ.md "wikilink")、ひまわりキッズ、だんご合唱団 |
 | 2000年春スペシャル | [TSUNAMI](../Page/TSUNAMI.md "wikilink")                                                                  | サザンオールスターズ                                                                                   |
-| 2000年秋スペシャル | [桜坂](../Page/桜坂_\(曲\).md "wikilink")                                                                      | [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")                                        |
+| 2000年秋スペシャル | [桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")                                              | [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")                                        |
 | 2000年年間     | TSUNAMI                                                                                                   | サザンオールスターズ                                                                                   |
 | 2001年春スペシャル | [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")                                    | 宇多田ヒカル                                                                                       |
 | 2001年秋スペシャル | [PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink")                                              | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")                                                 |

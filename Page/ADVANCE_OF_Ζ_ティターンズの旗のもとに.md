@@ -1,4 +1,4 @@
-> この記事は[ADVANCE OF  ](https://ja.wikipedia.org/wiki/ADVANCE_OF__)から翻訳されています。
+> この記事は[ADVANCE OF Ζ ティターンズの旗のもとに](https://ja.wikipedia.org/wiki/ADVANCE_OF_Ζ_ティターンズの旗のもとに)から翻訳されています。
 
 
 『**ADVANCE OF Ζ ティターンズの旗のもとに**』（アドバンス オブ ゼータ ティターンズのはたのもとに、**ADVANCE OF Ζ THE FLAG OF TITANS**、**AOZ**とも略される）は、[模型](../Page/模型.md "wikilink")と[小説](../Page/小説.md "wikilink")によるフォトストーリー作品および、同名の漫画作品。

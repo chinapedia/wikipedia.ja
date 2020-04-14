@@ -1,4 +1,4 @@
-> この記事は[Missing \(\)](https://ja.wikipedia.org/wiki/Missing_\(\))から翻訳されています。
+> この記事は[Missing \(小説\)](https://ja.wikipedia.org/wiki/Missing_\(小説\))から翻訳されています。
 
 
 『**Missing**』（ミッシング）は、[甲田学人](../Page/甲田学人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")。[電撃文庫](../Page/電撃文庫.md "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より、[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")にかけて刊行された。番外編として『夜魔』が刊行されている。

@@ -1,4 +1,4 @@
-> この記事は[C.C.](https://ja.wikipedia.org/wiki/C.C.)から翻訳されています。
+> この記事は[C.C.ガールズ](https://ja.wikipedia.org/wiki/C.C.ガールズ)から翻訳されています。
 
 
 **C.C.ガールズ**（シーシーガールズ）は、[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")所属女性による女性セクシー・グループである。初期は4人組、2019年より5人組で活動。
@@ -190,7 +190,7 @@
 
   - [c.c.ガールズオフィシャルウェブサイト](https://ccgirls3.jp/)
 
-[Category:C.C.ガールズ](https://ja.wikipedia.org/wiki/Category:C.C.ガールズ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:キャンペーンガール](https://ja.wikipedia.org/wiki/Category:キャンペーンガール "wikilink") [Category:サッポロビールイメージガール](https://ja.wikipedia.org/wiki/Category:サッポロビールイメージガール "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink")
+[Category:C.C.ガールズ](https://ja.wikipedia.org/wiki/Category:C.C.ガールズ "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:サッポロビールイメージガール](https://ja.wikipedia.org/wiki/Category:サッポロビールイメージガール "wikilink") [Category:オスカープロモーション所属者のグループ](https://ja.wikipedia.org/wiki/Category:オスカープロモーション所属者のグループ "wikilink")
 
 1.
 2.

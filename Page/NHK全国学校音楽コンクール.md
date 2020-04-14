@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK全国学校音楽コンクール](https://ja.wikipedia.org/wiki/NHK全国学校音楽コンクール)から翻訳されています。
 
 
 **NHK全国学校音楽コンクール**（エヌエイチケイぜんこくがっこうおんがくコンクール、英文名称; ）は、[NHKと全日本音楽教育研究会が主催する](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[合唱コンクール](../Page/合唱コンクール.md "wikilink")。通称は**Nコン**\[1\]、**音コン**\[2\]。
@@ -27,7 +27,7 @@
   - [1962年](../Page/1962年.md "wikilink")（昭和37年、第29回） - **NHK全国学校音楽コンクール**と名称変更。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年、第51回） - 新たに全日本音楽教育研究会が共同主催に加わる。
   - [2001年](../Page/2001年.md "wikilink")（[平成](../Page/平成.md "wikilink")13年、第68回） - テーマが決められるようになる。
-  - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年、第86回） - [台風19号上陸に伴い](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")、[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の高等学校の部の全国大会が史上初めて開催中止となり\[4\]、同年[11月28日](../Page/11月28日.md "wikilink")に振り替え開催することが決定した\[5\]。[13日の小学校の部](../Page/10月13日.md "wikilink")、[14日の中学校の部は予定通り開催した](../Page/10月14日.md "wikilink")。
+  - [2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年、第86回） - [令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")（台風19号）上陸に伴い、[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")の高等学校の部の全国大会が史上初めて開催中止となり\[4\]、同年[11月28日](../Page/11月28日.md "wikilink")に振り替え開催することが決定した\[5\]。[13日の小学校の部](../Page/10月13日.md "wikilink")、[14日の中学校の部は予定通り開催した](../Page/10月14日.md "wikilink")。
 
 ## 参加規程
 
@@ -1067,7 +1067,7 @@
 
 ### その他
 
-[2019年](../Page/2019年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に開催予定であった第86回全国コンクール高等学校の部が、[台風19号の接近にともなって中止となり](https://ja.wikipedia.org/wiki/令和元年台風第19号 "wikilink")\[15\]、同年[11月28日](../Page/11月28日.md "wikilink")に開催された\[16\]。延期は開催86回目にして初めてのこととなった\[17\]。
+[2019年](../Page/2019年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に開催予定であった第86回全国コンクール高等学校の部が、[令和元年東日本台風](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")（台風19号）の接近にともなって中止となり\[15\]、同年[11月28日](../Page/11月28日.md "wikilink")に開催された\[16\]。延期は開催86回目にして初めてのこととなった\[17\]。
 
 ## 関連番組
 

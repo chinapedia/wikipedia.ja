@@ -1,4 +1,4 @@
-> この記事は[MSN ](https://ja.wikipedia.org/wiki/MSN_)から翻訳されています。
+> この記事は[MSN メッセンジャー](https://ja.wikipedia.org/wiki/MSN_メッセンジャー)から翻訳されています。
 
 
 **MSN メッセンジャー**は[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")のひとつで、[Windowsおよび](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")上で作動する[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。MSN メッセンジャーを使用できない環境を想定して、[Internet Explorerなどの](../Page/Internet_Explorer.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")上で動作する[MSN Web Messengerもあった](../Page/MSN_Web_Messenger.md "wikilink")。中国を除く全世界では2013年3月31日に、中国では2014年10月31日に[Skype](../Page/Skype.md "wikilink")に統合されるかたちでサービスを終了している。

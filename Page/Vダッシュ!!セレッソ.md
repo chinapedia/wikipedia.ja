@@ -1,4 +1,4 @@
-> この記事は[V!!](https://ja.wikipedia.org/wiki/V!!)から翻訳されています。
+> この記事は[Vダッシュ!!セレッソ](https://ja.wikipedia.org/wiki/Vダッシュ!!セレッソ)から翻訳されています。
 
 
 『**Vダッシュ\!\!セレッソ**』（ブイダッシュ セレッソ）は、[1994年](../Page/1994年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ大阪](../Page/テレビ大阪.md "wikilink")で毎週火曜 21:54 - 22:00 （実際には[CMなどの関係で放送されるのは](../Page/コマーシャルメッセージ.md "wikilink")3分程度）に放送されていた[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[応援番組](https://ja.wikipedia.org/wiki/応援番組 "wikilink")である。チーム法人（大阪サッカークラブ）の筆頭株主である[日本ハム](../Page/日本ハム.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")だった。

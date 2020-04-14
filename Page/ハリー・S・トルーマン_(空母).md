@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[ハリー・S・トルーマン \(空母\)](https://ja.wikipedia.org/wiki/ハリー・S・トルーマン_\(空母\))から翻訳されています。
 
 
 **ハリー・S・トルーマン** (**USS Harry S. Truman, CVN-75**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。[ニミッツ級航空母艦](../Page/ニミッツ級航空母艦.md "wikilink")の8番艦である。当初の艦名は**ユナイテッド・ステーツ** (**USS United States**) であったが、起工前に第33代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ハリー・S・トルーマン](../Page/ハリー・S・トルーマン.md "wikilink")にちなんで改名された。

@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NSTスーパー競馬](https://ja.wikipedia.org/wiki/NSTスーパー競馬)から翻訳されています。
 
 
 『**NSTスーパー競馬**』（エヌエスティースーパーけいば）は、[新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")（NST）が制作・放送していた[競馬](../Page/競馬.md "wikilink")中継番組。

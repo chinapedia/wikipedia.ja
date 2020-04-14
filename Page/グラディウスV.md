@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[グラディウスV](https://ja.wikipedia.org/wiki/グラディウスV)から翻訳されています。
 
 
 『**グラディウスV**』（グラディウスファイブ、*GRADIUS V*）は、[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。

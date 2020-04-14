@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[ティーンズTV](https://ja.wikipedia.org/wiki/ティーンズTV)から翻訳されています。
 
 
 **ティーンズTV**は、2000年4月10日から2008年3月まで[NHK教育テレビで放送されていた中学校](../Page/NHK教育テレビジョン.md "wikilink")・高等学校向けの[教育番組](../Page/教育番組.md "wikilink")。

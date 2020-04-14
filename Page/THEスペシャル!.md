@@ -1,4 +1,4 @@
-> この記事は[THE!](https://ja.wikipedia.org/wiki/THE!)から翻訳されています。
+> この記事は[THEスペシャル!](https://ja.wikipedia.org/wiki/THEスペシャル!)から翻訳されています。
 
 
 『**THEスペシャル\!**』（ザ スペシャル）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局が編成していた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。編成時間は毎週土曜 19:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

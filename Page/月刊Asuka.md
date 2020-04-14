@@ -1,4 +1,4 @@
-> この記事は[Asuka](https://ja.wikipedia.org/wiki/Asuka)から翻訳されています。
+> この記事は[月刊Asuka](https://ja.wikipedia.org/wiki/月刊Asuka)から翻訳されています。
 
 
 『**月刊Asuka**』（げっかんあすか）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（2013年までは[角川書店](../Page/角川書店.md "wikilink")）から発行されている月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に創刊。毎月24日（日曜日の場合は23日）に翌々月号が発売される。
@@ -15,7 +15,6 @@
   - こはる日和とアニマルボイス（加藤えりこ）
   - 断罪のドラグネット（原作・脚本：[椹野道流](../Page/椹野道流.md "wikilink") / 作画：小田すずか）
   - 月華国奇医伝（ひむか透留）
-  - モンスターとペアレント　（紗与イチ）
   - プロメテウスの枷鎖（[藤也卓巳](https://ja.wikipedia.org/wiki/藤也卓巳 "wikilink")）
   - 美しビルの解かない探偵（緒崎カホ）
   - [D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")（[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")）
@@ -130,6 +129,7 @@
   - [明治東亰恋伽 朧ノ刻の戯曲](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink")（作画：[陽向ひより](https://ja.wikipedia.org/wiki/陽向ひより "wikilink") / 原案・監修：[ドワンゴ](../Page/ドワンゴ.md "wikilink")・[魚住ユキコ](https://ja.wikipedia.org/wiki/魚住ユキコ "wikilink") / キャラクターデザイン：[かる](https://ja.wikipedia.org/wiki/かる "wikilink")）
   - 百千さん家のあやかし王子（[硝音あや](../Page/硝音あや.md "wikilink")）
   - [ももへの手紙](https://ja.wikipedia.org/wiki/ももへの手紙 "wikilink")（作画：[北見明子](https://ja.wikipedia.org/wiki/北見明子 "wikilink") /原案：[沖浦啓之](../Page/沖浦啓之.md "wikilink")）
+  - モンスターとペアレント（紗与イチ）
 
 ### や行
 

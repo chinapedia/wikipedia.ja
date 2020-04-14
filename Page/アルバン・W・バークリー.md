@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[アルバン・W・バークリー](https://ja.wikipedia.org/wiki/アルバン・W・バークリー)から翻訳されています。
 
 
 **アルバン・ウィリアム・バークリー**（、[1877年](../Page/1877年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は、[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")選出[下院および](../Page/アメリカ合衆国下院.md "wikilink")[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、第35代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。

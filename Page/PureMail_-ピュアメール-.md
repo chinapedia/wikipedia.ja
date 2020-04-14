@@ -1,4 +1,4 @@
-> この記事は[PureMail --](https://ja.wikipedia.org/wiki/PureMail_--)から翻訳されています。
+> この記事は[PureMail -ピュアメール-](https://ja.wikipedia.org/wiki/PureMail_-ピュアメール-)から翻訳されています。
 
 
 『**Pure Mail**』（ピュアメール）は、[2000年](../Page/2000年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")（CD版。DVD版は[2001年](../Page/2001年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）に[オーバーフローより発売された](../Page/オーバーフロー_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。
@@ -77,12 +77,12 @@ PC内に『ら〜じ・PonPon』がインストール済みでセーブデータ
 
 ### アダルトアニメ
 
-  - [グリーンバニー](../Page/グリーンバニー.md "wikilink")制作の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。全2巻。
+[グリーンバニー](../Page/グリーンバニー.md "wikilink")制作の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。全2巻。
 
-アダルトアニメ版はストーリーに重きを置いているため、Hシーンは物語の演出上に必要な場面のみに限られており、各巻で2箇所ずつあるのみである\[1\]。 また、原作では隠れキャラクターだった悠美がメインキャラクターとして登場している\[2\]。
+ストーリーに重きを置いているため、Hシーンは物語の演出上に必要な場面のみに限られており、各巻で2箇所ずつあるのみである\[1\]。また、原作では隠れキャラクターだった悠美がメインキャラクターとして登場している\[2\]。
 
-  -   - 第一話『Twisted mind』 - 2001年[9月25日](../Page/9月25日.md "wikilink")発売
-      - 第二話『Revert to mine』 - 2001年[12月21日](../Page/12月21日.md "wikilink")発売
+  - 第一話『Twisted mind』 - 2001年[9月25日](../Page/9月25日.md "wikilink")発売
+  - 第二話『Revert to mine』 - 2001年[12月21日](../Page/12月21日.md "wikilink")発売
 
 ## 反響
 
@@ -96,11 +96,15 @@ PC内に『ら〜じ・PonPon』がインストール済みでセーブデータ
 
 ## 脚注
 
+## 参考文献
+
+### 書籍
+
 ## 外部リンク
 
   - [Overflow OFFICIAL WEB SITE](http://www.0verflow.com/)（18歳未満閲覧禁止）
 
-[Category:2000年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアダルトゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2001年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2001年の成人向けOVA "wikilink") [Category:コンピュータを題材とした作品](https://ja.wikipedia.org/wiki/Category:コンピュータを題材とした作品 "wikilink") [Category:社会問題を題材とした作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材とした作品 "wikilink")
+[Category:2000年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアダルトゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2001年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2001年の成人向けOVA "wikilink") [Category:コンピュータを題材とした作品](https://ja.wikipedia.org/wiki/Category:コンピュータを題材とした作品 "wikilink") [Category:社会問題を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:社会問題を題材としたコンピュータゲーム "wikilink") [Category:社会問題を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材としたアニメ作品 "wikilink")
 
 1.
 2.

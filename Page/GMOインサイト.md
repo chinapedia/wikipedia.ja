@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOインサイト](https://ja.wikipedia.org/wiki/GMOインサイト)から翻訳されています。
 
 
 **GMOインサイト株式会社**（ジーエムオーインサイト、GMO insight Inc.）は、JWord（日本語キーワード）事業やテクノロジーライセンス事業を行う[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの企業である。

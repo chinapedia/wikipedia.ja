@@ -1,4 +1,4 @@
-> この記事は[!Weekend](https://ja.wikipedia.org/wiki/!Weekend)から翻訳されています。
+> この記事は[ユーガッタ!Weekend](https://ja.wikipedia.org/wiki/ユーガッタ!Weekend)から翻訳されています。
 
 
 『**ユーガッタ\!Weekend**』（ユーガッタ ウィークエンド）は、[2002年](../Page/2002年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC) で放送されていた[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は毎週土曜 18:00 - 18:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

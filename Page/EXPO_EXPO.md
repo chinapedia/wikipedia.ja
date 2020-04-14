@@ -37,6 +37,10 @@
 15. アリガトウ (Interlude)
 16. The Bandwagon
 
+## 関連項目
+
+  - [EXPO防衛ロボット GRAN SONIK](../Page/EXPO防衛ロボット_GRAN_SONIK.md "wikilink")
+
 ## 外部リンク
 
   - [m-flo.com](http://www.m-flo.com/) - オフィシャルサイト

@@ -1,4 +1,4 @@
-> この記事は[GO](https://ja.wikipedia.org/wiki/GO)から翻訳されています。
+> この記事は[しゃにむにGO](https://ja.wikipedia.org/wiki/しゃにむにGO)から翻訳されています。
 
 
 『**しゃにむにGO**』（ - ゴー）は、[羅川真里茂](../Page/羅川真里茂.md "wikilink")による[少女漫画](../Page/少女漫画.md "wikilink")。

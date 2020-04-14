@@ -1,4 +1,4 @@
-> この記事は[GM](https://ja.wikipedia.org/wiki/GM)から翻訳されています。
+> この記事は[韓国GM](https://ja.wikipedia.org/wiki/韓国GM)から翻訳されています。
 
 
 **韓国GM**（かんこくジーエム, GM Korea）は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")子会社の[韓国の](../Page/大韓民国.md "wikilink")[自動車](../Page/自動車.md "wikilink")メーカーで、主に[シボレー](../Page/シボレー.md "wikilink")ブランドを使用する。[2011年](../Page/2011年.md "wikilink")第一四半期に**GM大宇自動車技術** (GM Daewoo Auto and Technology) から当社名へ変更すると発表され\[1\]\[2\]、2011年3月1日より正式に現在の社名での展開をスタートした。
@@ -61,12 +61,11 @@
 
 ## 車種一覧
 
-2020年1月現在。★はアメリカからの輸入車。
+2020年3月現在。★はアメリカからの輸入車。
 
   - [スパーク](../Page/GM大宇・マティス.md "wikilink")（コンパクトカー。旧車名：マティスクリエイティブ）
   - [マリブ](https://ja.wikipedia.org/wiki/シボレー・マリブ "wikilink")（中型セダン）
   - [トレイルブレイザー](../Page/シボレー・トレイルブレイザー.md "wikilink")　
-  - [インパラ](../Page/シボレー・インパラ.md "wikilink")　★
   - [トラックス](https://ja.wikipedia.org/wiki/シボレー・トラックス "wikilink")（小型[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")。[オペル・モッカ](https://ja.wikipedia.org/wiki/オペル・モッカ "wikilink")/[ビュイック・アンコール](https://ja.wikipedia.org/wiki/ビュイック・アンコール "wikilink")のシボレー版）
   - [エクイノックス](https://ja.wikipedia.org/wiki/シボレー・エクイノックス "wikilink")　★
   - [トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")　★
@@ -230,6 +229,7 @@
   - [オーランド](https://ja.wikipedia.org/wiki/シボレー・オーランド "wikilink")（クルーズがベースの[ミニバン](../Page/ミニバン.md "wikilink")）
   - [カマロ](../Page/シボレー・カマロ.md "wikilink")　★
   - [ボルト](https://ja.wikipedia.org/wiki/シボレー・ボルト_\(ハイブリッドカー\) "wikilink")　★
+  - [インパラ](../Page/シボレー・インパラ.md "wikilink")　★
 
 ### 雙龍自動車の生産車種
 

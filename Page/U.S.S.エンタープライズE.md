@@ -1,4 +1,4 @@
-> この記事は[U.S.S.E](https://ja.wikipedia.org/wiki/U.S.S.E)から翻訳されています。
+> この記事は[U.S.S.エンタープライズE](https://ja.wikipedia.org/wiki/U.S.S.エンタープライズE)から翻訳されています。
 
 
 **U.S.S.エンタープライズE**(*U.S.S.Enterprise-E*)は[SFドラマ](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズの映画である『[スタートレック ファーストコンタクト](../Page/スタートレック_ファーストコンタクト.md "wikilink")』(Star Trek: First Contact)、『[スタートレック 叛乱](../Page/スタートレック_叛乱.md "wikilink")』(Star Trek: Insurrection)、『[ネメシス/S.T.X](https://ja.wikipedia.org/wiki/ネメシス/S.T.X "wikilink")』 (Star Trek: Nemesis)に登場する架空の宇宙船である。本来の艦名は**U.S.S.エンタープライズ**(*U.S.S.Enterprise*）だが、同名の艦と区別するために登録番号の末尾記号をつけて呼ばれることが多い。

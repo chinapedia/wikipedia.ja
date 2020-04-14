@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[トヨタ・N型エンジン](https://ja.wikipedia.org/wiki/トヨタ・N型エンジン)から翻訳されています。
 
 
 **トヨタ・N型エンジン**（トヨタ・Nがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。

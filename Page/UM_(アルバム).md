@@ -1,4 +1,4 @@
-> この記事は[UM \(\)](https://ja.wikipedia.org/wiki/UM_\(\))から翻訳されています。
+> この記事は[UM \(アルバム\)](https://ja.wikipedia.org/wiki/UM_\(アルバム\))から翻訳されています。
 
 
 **UM**（ウム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[GANGA ZUMBAが](../Page/GANGA_ZUMBA.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売した、1stオリジナル・フルアルバムである。

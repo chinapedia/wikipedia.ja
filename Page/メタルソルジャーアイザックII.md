@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[メタルソルジャーアイザックII](https://ja.wikipedia.org/wiki/メタルソルジャーアイザックII)から翻訳されています。
 
 
 『**メタルソルジャーアイザックII**』（*MetalSoldier Isaac II*、メタルソルジャーアイザックツー）は、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")2月にリリースされた[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")で、ジャンルはアクションシューティングゲーム。難易度は至って高め。

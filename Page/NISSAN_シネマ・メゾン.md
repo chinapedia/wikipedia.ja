@@ -1,4 +1,4 @@
-> この記事は[NISSAN ](https://ja.wikipedia.org/wiki/NISSAN_)から翻訳されています。
+> この記事は[NISSAN シネマ・メゾン](https://ja.wikipedia.org/wiki/NISSAN_シネマ・メゾン)から翻訳されています。
 
 
 **[NISSAN](../Page/日産自動車.md "wikilink") シネマ・メゾン**（にっさん シネマ・メゾン）は、2007年4月2日から同年9月24日の間、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[日産自動車](../Page/日産自動車.md "wikilink")の一社提供。

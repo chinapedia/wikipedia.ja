@@ -1,4 +1,4 @@
-> この記事は[MiG-1 \(\)](https://ja.wikipedia.org/wiki/MiG-1_\(\))から翻訳されています。
+> この記事は[MiG-1 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-1_\(航空機\))から翻訳されています。
 
 
 **MiG-1**(ミグ1；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：****<small>ミーグ・アヂーン</small>)は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。[アルチョム・ミコヤン](https://ja.wikipedia.org/wiki/アルテム・ミコヤン "wikilink")、[ミハイル・グレヴィッチの両人が設計し](https://ja.wikipedia.org/wiki/ミハイル・グレーヴィチ "wikilink")、[MiG](../Page/MiG.md "wikilink")の名を最初に冠した機体である。

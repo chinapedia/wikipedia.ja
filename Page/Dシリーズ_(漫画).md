@@ -1,4 +1,4 @@
-> この記事は[D \(\)](https://ja.wikipedia.org/wiki/D_\(\))から翻訳されています。
+> この記事は[Dシリーズ \(漫画\)](https://ja.wikipedia.org/wiki/Dシリーズ_\(漫画\))から翻訳されています。
 
 
 『**Dシリーズ**』（ドラゴンシリーズ）では、[喜多尚江](../Page/喜多尚江.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品「*DEAR D*」「*D絵巻*」「*聖獣D*」番外編の「*鬼がふり返った刻*」の4つの[短編](https://ja.wikipedia.org/wiki/短編 "wikilink")について説明する。

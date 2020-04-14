@@ -1,4 +1,4 @@
-> この記事は[TAIYO \(\)](https://ja.wikipedia.org/wiki/TAIYO_\(\))から翻訳されています。
+> この記事は[TAIYO \(企業\)](https://ja.wikipedia.org/wiki/TAIYO_\(企業\))から翻訳されています。
 
 
 **株式会社TAIYO**（タイヨー、）は、油圧・空気圧機器の製造を行う企業。本社は[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東淀川区](../Page/東淀川区.md "wikilink")に所在。

@@ -1,4 +1,4 @@
-> この記事は[B \(\)](https://ja.wikipedia.org/wiki/B_\(\))から翻訳されています。
+> この記事は[トヨタ・B型エンジン \(初代\)](https://ja.wikipedia.org/wiki/トヨタ・B型エンジン_\(初代\))から翻訳されています。
 
 
 **トヨタ・B型エンジン**（トヨタ・Bがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

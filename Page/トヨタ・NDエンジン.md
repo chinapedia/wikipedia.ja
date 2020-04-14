@@ -1,4 +1,4 @@
-> この記事は[ND](https://ja.wikipedia.org/wiki/ND)から翻訳されています。
+> この記事は[トヨタ・NDエンジン](https://ja.wikipedia.org/wiki/トヨタ・NDエンジン)から翻訳されています。
 
 
 **トヨタ・NDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。[2000年](../Page/2000年.md "wikilink")4月に初代[ヤリスの欧州市場向け仕様車に搭載されたのが初出となる](../Page/トヨタ・ヤリス.md "wikilink")。

@@ -1,7 +1,7 @@
-> この記事は[BSS](https://ja.wikipedia.org/wiki/BSS)から翻訳されています。
+> この記事は[BSSダイナミックナイター](https://ja.wikipedia.org/wiki/BSSダイナミックナイター)から翻訳されています。
 
 
-**BSSダイナミックナイター**（ビーエスエスダイナミックナイター）は、[日本プロ野球（NPB）レギュラーシーズン](https://ja.wikipedia.org/wiki/NPB "wikilink")（基本として4 - 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）ラジオで放送されるNPB公式戦の[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継。デーゲームを中継する場合にも、この名称を用いる。
+**BSSダイナミックナイター**（ビーエスエスダイナミックナイター）は、[日本プロ野球（NPB）レギュラーシーズン](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（基本として4 - 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）ラジオで放送されるNPB公式戦の[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継。デーゲームを中継する場合にも、この名称を用いる。
 
 ## 放送時間
 
@@ -10,7 +10,7 @@
       - テーマソングは、[ジョン・フィリップ・スーザ](../Page/ジョン・フィリップ・スーザ.md "wikilink")作曲の行進曲「士官候補生」（The High School Cadets） 。かつては、自社制作による[全国高等学校野球選手権鳥取大会](../Page/全国高等学校野球選手権鳥取大会.md "wikilink")の中継にも使われていた。
       - BSSの放送対象地域内にある[鳥取県](../Page/鳥取県.md "wikilink")の[米子市民球場](../Page/米子市民球場.md "wikilink")でNPBの公式戦（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")か[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主管試合）を開催する場合には、広島戦を[中国放送](../Page/中国放送.md "wikilink")（RCC）制作分中継の同時ネット、オリックス戦中継を自社制作で放送する。
       - 中継対象のカードが中止の場合や、NPBのナイトゲームが最初から予定されていない場合には、中継担当のキー局が制作する[雨傘番組](../Page/雨傘番組.md "wikilink")の同時ネットを実施する。
-      - 2017年までは、上記と同じ時間帯で、他の曜日に「[JRNナイター](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")」（キー局：[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を編成。2009年度までは日曜、2012年までは土曜、2017年度までは火曜にも放送していた。同局が土・日曜のJRNナイター中継を終了した2009年度限りで、土・日曜の放送枠を廃止した。
+      - 2017年までは、上記と同じ時間帯で、他の曜日に「[JRNナイター](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")」（キー局：[TBSラジオ](../Page/TBSラジオ.md "wikilink")）を編成。2009年度までは日曜、2012年までは土曜、2017年度までは火曜にも放送していた。同局が土・日曜のJRNナイター中継を終了した2009年度限りで、土・日曜の放送枠を廃止した。
       - 2017年限りでTBSラジオがプロ野球中継から完全に撤退したことに伴って、2018年から火曜の放送枠も廃止。廃枠後は、月・火曜の18:30 - 21:00に『[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")』（同局制作の生ワイド番組）の同時ネットを実施する。
       - [日本シリーズについては](../Page/日本選手権シリーズ.md "wikilink")、少なくとも2007年まで放送。2006年には、全試合JRNネットで中継した。
 
@@ -29,10 +29,10 @@
 
 ## 関連項目
 
-  - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（BSSテレビ）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（BSSテレビ）
 
 ## 脚注
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:山陰放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山陰放送のラジオ番組 "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:山陰放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:山陰放送のラジオ番組 "wikilink")
 
 1.  JRN（TBSラジオ）ネットの時はヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

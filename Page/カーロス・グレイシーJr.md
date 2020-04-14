@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[カーロス・グレイシーJr](https://ja.wikipedia.org/wiki/カーロス・グレイシーJr)から翻訳されています。
 
 
 **カーロス・グレイシーJr**（**Carlos Gracie Jr.**、[1956年](../Page/1956年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - ）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[リオデジャネイロ市](https://ja.wikipedia.org/wiki/リオデジャネイロ市 "wikilink")出身の[男性](../Page/男性.md "wikilink")[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")家。[国際ブラジリアン柔術連盟](https://ja.wikipedia.org/wiki/国際ブラジリアン柔術連盟 "wikilink")の会長であり、[グレイシーバッハ](https://ja.wikipedia.org/wiki/グレイシーバッハ "wikilink")主宰。[ブラジリアン柔術](../Page/ブラジリアン柔術.md "wikilink")七段。ブラジリアン柔術創始者[カーロス・グレイシー](../Page/カーロス・グレイシー.md "wikilink")の五男。通称「**カーリーニョス**（**Carlinhos**）」。

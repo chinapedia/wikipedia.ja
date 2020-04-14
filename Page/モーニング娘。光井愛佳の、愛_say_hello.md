@@ -1,4 +1,4 @@
-> この記事は[ say hello](https://ja.wikipedia.org/wiki/_say_hello)から翻訳されています。
+> この記事は[モーニング娘。光井愛佳の、愛 say hello](https://ja.wikipedia.org/wiki/モーニング娘。光井愛佳の、愛_say_hello)から翻訳されています。
 
 
 **モーニング娘。光井愛佳の、愛 say hello**（モーニングむすめ みついあいかの あい セイ ハロー）は、[e-radioの](../Page/エフエム滋賀.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[ワイド帯番組](../Page/ワイド番組.md "wikilink")『[radio drive plus](https://ja.wikipedia.org/wiki/radio_drive_plus "wikilink")』木曜日の[内包番組](https://ja.wikipedia.org/wiki/内包番組 "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")放送終了。

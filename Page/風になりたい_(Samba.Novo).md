@@ -1,4 +1,4 @@
-> この記事は[ \(Samba.Novo\)](https://ja.wikipedia.org/wiki/_\(Samba.Novo\))から翻訳されています。
+> この記事は[風になりたい \(Samba.Novo\)](https://ja.wikipedia.org/wiki/風になりたい_\(Samba.Novo\))から翻訳されています。
 
 
 「**風になりたい (Samba.Novo)**」（かぜになりたい サンバ・ノヴォ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に発表した29枚目の[シングル](../Page/シングル.md "wikilink")。

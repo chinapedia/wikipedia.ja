@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[トヨタ・P型エンジン](https://ja.wikipedia.org/wiki/トヨタ・P型エンジン)から翻訳されています。
 
 
 [Toyota_3P_engine.jpg](https://ja.wikipedia.org/wiki/File:Toyota_3P_engine.jpg "fig:Toyota_3P_engine.jpg")用）\]\] **トヨタ・P型エンジン**（トヨタ・Pがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

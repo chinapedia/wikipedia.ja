@@ -1,4 +1,4 @@
-> この記事は[ZND](https://ja.wikipedia.org/wiki/ZND)から翻訳されています。
+> この記事は[ZND理論](https://ja.wikipedia.org/wiki/ZND理論)から翻訳されています。
 
 
 **ZND理論**（ZNDりろん、Zeldovich von Neumann Doering detonation model）とは、1940年代に[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")によって考え出された[火薬](../Page/火薬.md "wikilink")の[爆轟](https://ja.wikipedia.org/wiki/爆轟 "wikilink")現象を予測する理論である。 同年代に[ソビエト](../Page/ソビエト.md "wikilink")の[ヤーコフ・ゼルドビッチ](../Page/ヤーコフ・ゼルドビッチ.md "wikilink")も同様の理論を考え出し、ソビエトの[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")開発に役立てたと言われている。

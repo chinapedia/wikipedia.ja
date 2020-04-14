@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[トヨタ・E型エンジン](https://ja.wikipedia.org/wiki/トヨタ・E型エンジン)から翻訳されています。
 
 
 **トヨタ・E型エンジン**（トヨタ・Eがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。

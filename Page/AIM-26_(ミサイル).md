@@ -1,4 +1,4 @@
-> この記事は[AIM-26 \(\)](https://ja.wikipedia.org/wiki/AIM-26_\(\))から翻訳されています。
+> この記事は[AIM-26 \(ミサイル\)](https://ja.wikipedia.org/wiki/AIM-26_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AIM-26 ファルコン | 画像=Image:AIM-26A 1.jpg | キャプション=[国立海軍航空博物館](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")に展示されているAIM-26A | 用途=重爆撃機の撃墜 | 分類=[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink") | 設計者= | 製造者=ヒューズ | 運用者 more=

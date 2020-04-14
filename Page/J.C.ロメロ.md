@@ -1,4 +1,4 @@
-> この記事は[J.C.](https://ja.wikipedia.org/wiki/J.C.)から翻訳されています。
+> この記事は[J.C.ロメロ](https://ja.wikipedia.org/wiki/J.C.ロメロ)から翻訳されています。
 
 
 **フアン・カルロス・ロメロ**（**Juan Carlos Romero**, [1976年](../Page/1976年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[プエルトリコ](../Page/プエルトリコ.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。左投両打。

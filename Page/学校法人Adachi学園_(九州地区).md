@@ -1,4 +1,4 @@
-> この記事は[Adachi \(\)](https://ja.wikipedia.org/wiki/Adachi_\(\))から翻訳されています。
+> この記事は[学校法人Adachi学園 \(九州地区\)](https://ja.wikipedia.org/wiki/学校法人Adachi学園_\(九州地区\))から翻訳されています。
 
 
 **学校法人Adachi学園**（がっこうほうじんあだちがくえん）は、東京都認可の[学校法人](../Page/学校法人.md "wikilink")。

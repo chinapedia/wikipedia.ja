@@ -1,4 +1,4 @@
-> この記事は[ DELUXE !](https://ja.wikipedia.org/wiki/_DELUXE_!)から翻訳されています。
+> この記事は[爆竜戦隊アバレンジャー DELUXE アバレサマーはキンキン中!](https://ja.wikipedia.org/wiki/爆竜戦隊アバレンジャー_DELUXE_アバレサマーはキンキン中!)から翻訳されています。
 
 
 『**爆竜戦隊アバレンジャー DELUXE アバレサマーはキンキン中\!**』（ばくりゅうせんたいアバレンジャー デラックス アバレサマーはキンキンちゅう）は、[2003年](../Page/2003年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[爆竜戦隊アバレンジャー](../Page/爆竜戦隊アバレンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダー555 パラダイス・ロスト](https://ja.wikipedia.org/wiki/劇場版_仮面ライダー555_パラダイス・ロスト "wikilink")』。

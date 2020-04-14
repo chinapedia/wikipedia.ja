@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[笑点Jr.](https://ja.wikipedia.org/wiki/笑点Jr.)から翻訳されています。
 
 
 **笑点Jr.**（しょうてんじゅにあ）は、[CS放送](../Page/衛星放送.md "wikilink")[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")まで毎月第2日曜日夕方に放送していた[寄席](../Page/寄席.md "wikilink")風の[演芸](../Page/演芸.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[日本テレビの長寿番組](../Page/日本テレビ放送網.md "wikilink")『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』の兄弟番組である。

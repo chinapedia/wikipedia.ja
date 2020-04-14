@@ -1,4 +1,4 @@
-> この記事は[-Human Being-](https://ja.wikipedia.org/wiki/-Human_Being-)から翻訳されています。
+> この記事は[生命あるものはみな-Human Being-](https://ja.wikipedia.org/wiki/生命あるものはみな-Human_Being-)から翻訳されています。
 
 
 『**生命あるものはみな-Human Being-**』（いのちあるものはみな-Human Being-）は、[モンゴル出身の](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")[歌手](../Page/歌手.md "wikilink")[オユンナ](../Page/オユンナ.md "wikilink")の4th[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。

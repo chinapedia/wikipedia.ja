@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[トヨタ・F型エンジン](https://ja.wikipedia.org/wiki/トヨタ・F型エンジン)から翻訳されています。
 
 
 **トヨタ・F型エンジン**（トヨタ・Fがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（[1981年](../Page/1981年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")56年〉以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")名義）がかつて製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列6気筒](../Page/直列6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

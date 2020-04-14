@@ -1,4 +1,4 @@
-> この記事は[FXX](https://ja.wikipedia.org/wiki/FXX)から翻訳されています。
+> この記事は[フェラーリ・FXX](https://ja.wikipedia.org/wiki/フェラーリ・FXX)から翻訳されています。
 
 
 **フェラーリ・FXX**（エフエックスエックス）Ferrari FXXとは、[イタリア](../Page/イタリア.md "wikilink")の自動車メーカー、[フェラーリ](../Page/フェラーリ.md "wikilink")が[エンツォフェラーリをベースに開発した](../Page/フェラーリ・エンツォフェラーリ.md "wikilink")[サーキット走行専用車](https://ja.wikipedia.org/wiki/サーキット走行専用車 "wikilink")。レースへの参加や公道走行はできない。

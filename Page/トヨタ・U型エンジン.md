@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[トヨタ・U型エンジン](https://ja.wikipedia.org/wiki/トヨタ・U型エンジン)から翻訳されています。
 
 
 **トヨタ・U型エンジン**（トヨタ・Uがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）で製造されていた0.7L〜0.8L級の空冷水平対向2気筒ガソリンエンジンの系列である。

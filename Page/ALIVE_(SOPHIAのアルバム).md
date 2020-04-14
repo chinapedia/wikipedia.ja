@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(SOPHIA\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOPHIA\))から翻訳されています。
+> この記事は[ALIVE \(SOPHIAのアルバム\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOPHIAのアルバム\))から翻訳されています。
 
 
 『**ALIVE**』（アライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[SOPHIA](../Page/SOPHIA.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。

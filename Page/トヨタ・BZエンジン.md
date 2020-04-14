@@ -1,4 +1,4 @@
-> この記事は[BZ](https://ja.wikipedia.org/wiki/BZ)から翻訳されています。
+> この記事は[トヨタ・BZエンジン](https://ja.wikipedia.org/wiki/トヨタ・BZエンジン)から翻訳されています。
 
 
 **トヨタ・BZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[エンジンの系列である](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。

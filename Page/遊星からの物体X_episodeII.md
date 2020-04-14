@@ -1,4 +1,4 @@
-> この記事は[X episodeII](https://ja.wikipedia.org/wiki/X_episodeII)から翻訳されています。
+> この記事は[遊星からの物体X episodeII](https://ja.wikipedia.org/wiki/遊星からの物体X_episodeII)から翻訳されています。
 
 
 『**遊星からの物体X episodeII**』（ゆうせいからのぶったいエックス エピソード2）は、映画『[遊星からの物体X](../Page/遊星からの物体X.md "wikilink")』の続編として発売されたゲーム。プラットフォームは[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")。

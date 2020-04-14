@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBS大型時代劇スペシャル](https://ja.wikipedia.org/wiki/TBS大型時代劇スペシャル)から翻訳されています。
 
 
 『**大型時代劇スペシャル**』（おおがたじだいげきスペシャル）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の[時代劇](../Page/時代劇.md "wikilink")[テレビ映画](../Page/テレビ映画.md "wikilink")。[TBSテレビ系列で](https://ja.wikipedia.org/wiki/Japan_News_Network#TBSネットワークとJNN "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）の間、元日や改編期に放送された。それぞれの作品に映画やテレビドラマなどで活躍する俳優・監督・スタッフが結集している。『[坂本龍馬](../Page/坂本龍馬_\(テレビドラマ\).md "wikilink")』を除き、[JNNニュース](../Page/JNNニュース.md "wikilink")が放送中に差し込まれた。『[大忠臣蔵](https://ja.wikipedia.org/wiki/大忠臣蔵_\(1994年のテレビドラマ\) "wikilink")』『[愛と野望の独眼竜 伊達政宗](https://ja.wikipedia.org/wiki/愛と野望の独眼竜_伊達政宗 "wikilink")』以外の各作品はDVDで販売されている。

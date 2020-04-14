@@ -1,4 +1,4 @@
-> この記事は[Happy!!](https://ja.wikipedia.org/wiki/Happy!!)から翻訳されています。
+> この記事は[栗村智のHappy!ニッポン!](https://ja.wikipedia.org/wiki/栗村智のHappy!ニッポン!)から翻訳されています。
 
 
 **栗村智のHappy\!ニッポン\!**（くりむらさとるのハッピィーニッポン）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")等[全国ラジオネットワーク](../Page/全国ラジオネットワーク.md "wikilink")（NRN）で全国放送された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")[政府](../Page/政府.md "wikilink")広報番組である。[内閣府](../Page/内閣府.md "wikilink")提供。

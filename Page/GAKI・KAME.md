@@ -1,4 +1,4 @@
-> この記事は[GAKIKAME](https://ja.wikipedia.org/wiki/GAKIKAME)から翻訳されています。
+> この記事は[GAKI・KAME](https://ja.wikipedia.org/wiki/GAKI・KAME)から翻訳されています。
 
 
 **GAKI・KAME**（ガキカメ）は、[FM-FUJIの](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")\[1\]。毎週土曜23:00～24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の後半23:30～24:00に放送されていた\[2\]。[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送開始。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送終了。

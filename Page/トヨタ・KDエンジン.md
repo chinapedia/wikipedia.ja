@@ -1,4 +1,4 @@
-> この記事は[KD](https://ja.wikipedia.org/wiki/KD)から翻訳されています。
+> この記事は[トヨタ・KDエンジン](https://ja.wikipedia.org/wiki/トヨタ・KDエンジン)から翻訳されています。
 
 
 [Toyota_1KD-FTV_Engine_01.JPG](https://ja.wikipedia.org/wiki/File:Toyota_1KD-FTV_Engine_01.JPG "fig:Toyota_1KD-FTV_Engine_01.JPG") **トヨタ・KDエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[そのまんま東のバーチャルZ](https://ja.wikipedia.org/wiki/そのまんま東のバーチャルZ)から翻訳されています。
 
 
 『**そのまんま東のバーチャルZ**』（そのまんまひがしのバーチャルゼット）は、[テレビ東京系列局ほかで放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）。テレビ東京系列局では[1993年](../Page/1993年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで、毎週火曜 18:00 - 18:30 ([JST](../Page/日本標準時.md "wikilink")) に放送。

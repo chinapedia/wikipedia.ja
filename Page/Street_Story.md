@@ -3,10 +3,16 @@
 
 『**Street Story**』(ストリート・ストーリー) は、[HYのインディーズ](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")にリリース。
 
-## 内容
+## 概要
 
   - 前作『[Departure](../Page/Departure_\(HYのアルバム\).md "wikilink")』から約1年半ぶりのリリース。
   - 前年に同じく沖縄出身のバンド[MONGOL800](../Page/MONGOL800.md "wikilink")の『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』の大ヒットを受け、インディーズシーン (特に[沖縄](../Page/沖縄県.md "wikilink")) が注目された中でのリリースということもあり、本作でバンド初のオリコン1位を獲得。また初登場から4週連続1位を獲得し続け、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の『[Duty](../Page/Duty.md "wikilink")』以来約3年半ぶりの快挙となった。最終的に[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、インディーズアルバムとしてはMONGOL800以来のミリオンとなった。
+
+## エピソード
+
+当時メンバーは売れた喜びよりもそれに伴う苦しみを強く感じていたようであり、仲宗根は「ファーストアルバムがランキングで99位に入った時はメンバー全員喜んだが、セカンドが1位になった時は正直全く興味がなかった。ミリオンセラーになったと言われても理解できず、実感が湧かなかった」「当時はツアーが終わるまで帰れなかった。ファイナルの沖縄公演は帰れるうれしさにいつも泣いていた。あの頃に比べたら今は本当に幸せ」、名嘉は「セカンドの後、急に全国ツアー54公演が決まり、なかなか沖縄に帰れず、苦しかった」と[琉球新報](../Page/琉球新報.md "wikilink")のインタビューで語っている\[1\]。
+
+許田によると、ツアーでは長い間沖縄に帰れないストレスからメンバー同士のコミュニケーションもうまく取れなくなり、些細なことで衝突するようになっていたという\[2\]。
 
 ## 収録曲
 
@@ -75,3 +81,6 @@
 ## カバー
 
 [Category:HYのアルバム](https://ja.wikipedia.org/wiki/Category:HYのアルバム "wikilink") [Category:HYの映像作品](https://ja.wikipedia.org/wiki/Category:HYの映像作品 "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2003年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+
+1.
+2.

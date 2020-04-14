@@ -1,4 +1,4 @@
-> この記事は[ Shima Uta](https://ja.wikipedia.org/wiki/_Shima_Uta)から翻訳されています。
+> この記事は[島唄 Shima Uta](https://ja.wikipedia.org/wiki/島唄_Shima_Uta)から翻訳されています。
 
 
 「**島唄 Shima Uta**」（しまうた）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")グループである[THE BOOMが](../Page/THE_BOOM.md "wikilink")[2002年](../Page/2002年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に発表した26枚目の[シングル](../Page/シングル.md "wikilink")。

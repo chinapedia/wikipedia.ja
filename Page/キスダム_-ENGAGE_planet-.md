@@ -1,4 +1,4 @@
-> この記事は[ -ENGAGE planet-](https://ja.wikipedia.org/wiki/_-ENGAGE_planet-)から翻訳されています。
+> この記事は[キスダム -ENGAGE planet-](https://ja.wikipedia.org/wiki/キスダム_-ENGAGE_planet-)から翻訳されています。
 
 
 『**キスダム KISSDUM -ENGAGE planet-**』（キスダム エンゲージプラネット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ほかで、[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[9月25日](../Page/9月25日.md "wikilink")まで放送された。放送開始から約4年半後の[2011年](../Page/2011年.md "wikilink")に初[映像ソフト化されるという](https://ja.wikipedia.org/wiki/パッケージソフト "wikilink")、近年のテレビアニメ作品としては非常に珍しいケースの作品となった。

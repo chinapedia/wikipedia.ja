@@ -1,4 +1,4 @@
-> この記事は[ I Love you](https://ja.wikipedia.org/wiki/_I_Love_you)から翻訳されています。
+> この記事は[ミセカケの I Love you](https://ja.wikipedia.org/wiki/ミセカケの_I_Love_you)から翻訳されています。
 
 
 『**ミセカケの I Love you**』（みせかけの アイ ラブ ユー）は、[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")の5枚目のシングル。

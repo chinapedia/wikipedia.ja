@@ -45,7 +45,7 @@
 
   - [SU-EN Butoh Company](http://www.suenbutohcompany.net/)
 
-[Category:スウェーデンのダンサー](https://ja.wikipedia.org/wiki/Category:スウェーデンのダンサー "wikilink") [Category:スウェーデンの振付家](https://ja.wikipedia.org/wiki/Category:スウェーデンの振付家 "wikilink") [Category:スウェーデン出身の人物](https://ja.wikipedia.org/wiki/Category:スウェーデン出身の人物 "wikilink") [Category:スウェーデンの人物](https://ja.wikipedia.org/wiki/Category:スウェーデンの人物 "wikilink") [Category:舞踏家](https://ja.wikipedia.org/wiki/Category:舞踏家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink")
+[Category:スウェーデンのダンサー](https://ja.wikipedia.org/wiki/Category:スウェーデンのダンサー "wikilink") [Category:スウェーデンの振付家](https://ja.wikipedia.org/wiki/Category:スウェーデンの振付家 "wikilink") [Category:舞踏家](https://ja.wikipedia.org/wiki/Category:舞踏家 "wikilink") [Category:スウェーデン出身の人物](https://ja.wikipedia.org/wiki/Category:スウェーデン出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [MODERNA DANSTEATERN Pressmeddelande](http://www.pressbild.com/modernadansteatern/05v/SU-EN/se-en_text.html)
 2.  [Avantgardistisk lovsång med kollektiv kropp.](http://www.uppsalafria.se/artikel/80705)

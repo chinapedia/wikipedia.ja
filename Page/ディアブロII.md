@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ディアブロII](https://ja.wikipedia.org/wiki/ディアブロII)から翻訳されています。
 
 
 『**ディアブロII**』（**Diablo II**）は、『[ディアブロ](../Page/ディアブロ_\(ゲーム\).md "wikilink")』の続編としてアメリカのBlizzard Northで開発され、Blizzard Entertainment社から2000年に発売された、PC用の[ハックアンドスラッシュ](../Page/ハックアンドスラッシュ.md "wikilink")系[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")である。日本では同年に[カプコン](../Page/カプコン.md "wikilink")から発売された。「剣と魔法」のファンタジー世界を背景とし、見下ろし型視点でマウス操作を多用するユーザインタフェース、ランダムに生成・配置されるダンジョンとアイテム、インターネット経由での協力・対戦プレイといった前作の特徴はそのままに、スピードやグラフィックスの向上、ゲーム内容の拡充といった改良が加えられている。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用と[Macintosh](../Page/Macintosh.md "wikilink")用がある。2001年には拡張パック『**Lord of Destruction**』が発売された。

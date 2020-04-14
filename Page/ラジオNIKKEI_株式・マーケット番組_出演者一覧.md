@@ -1,4 +1,4 @@
-> この記事は[NIKKEI  ](https://ja.wikipedia.org/wiki/NIKKEI__)から翻訳されています。
+> この記事は[ラジオNIKKEI 株式・マーケット番組 出演者一覧](https://ja.wikipedia.org/wiki/ラジオNIKKEI_株式・マーケット番組_出演者一覧)から翻訳されています。
 
 
 **ラジオNIKKEI 株式・マーケット番組 出演者一覧**（らじおにっけい かぶしき・まーけっとばんぐみ しゅつえんしゃいちらん）

@@ -1,4 +1,4 @@
-> この記事は[NZ](https://ja.wikipedia.org/wiki/NZ)から翻訳されています。
+> この記事は[トヨタ・NZエンジン](https://ja.wikipedia.org/wiki/トヨタ・NZエンジン)から翻訳されています。
 
 
 **NZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")・[アルミ](../Page/アルミニウム.md "wikilink")[ダイキャスト製](../Page/ダイカスト.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

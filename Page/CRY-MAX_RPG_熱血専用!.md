@@ -1,4 +1,4 @@
-> この記事は[CRY-MAX RPG !](https://ja.wikipedia.org/wiki/CRY-MAX_RPG_!)から翻訳されています。
+> この記事は[CRY-MAX RPG 熱血専用!](https://ja.wikipedia.org/wiki/CRY-MAX_RPG_熱血専用!)から翻訳されています。
 
 
 '''CRY-MAX RPG 熱血専用\! '''（クライマックスRPG ねっけつせんよう）は、[オーアールジー](../Page/オーアールジー.md "wikilink")の福田弦によって製作された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。[1996年](../Page/1996年.md "wikilink")に[ホビージャパン](../Page/ホビージャパン.md "wikilink")からA4変形判書籍として発売された。

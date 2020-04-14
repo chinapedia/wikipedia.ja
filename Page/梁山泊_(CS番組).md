@@ -1,4 +1,4 @@
-> この記事は[ \(CS\)](https://ja.wikipedia.org/wiki/_\(CS\))から翻訳されています。
+> この記事は[梁山泊 \(CS番組\)](https://ja.wikipedia.org/wiki/梁山泊_\(CS番組\))から翻訳されています。
 
 
 **梁山泊**（りょうざんぱく）とは、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送した、音楽クイズ番組である。スペースシャワーTVと[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")との合同製作で、新宿アルタで公開収録し、アルタビジョンで見ることができた。

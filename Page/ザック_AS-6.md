@@ -1,4 +1,4 @@
-> この記事は[ AS-6](https://ja.wikipedia.org/wiki/_AS-6)から翻訳されています。
+> この記事は[ザック AS-6](https://ja.wikipedia.org/wiki/ザック_AS-6)から翻訳されています。
 
 
 [KN_Sack_AS6_1944.jpg](https://ja.wikipedia.org/wiki/File:KN_Sack_AS6_1944.jpg "fig:KN_Sack_AS6_1944.jpg") **ザック AS-6** (Sack AS-6) は[1940年代](../Page/1940年代.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")で試作された[円盤翼](https://ja.wikipedia.org/wiki/円盤翼 "wikilink")の飛行機である。

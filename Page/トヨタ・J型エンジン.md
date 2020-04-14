@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[トヨタ・J型エンジン](https://ja.wikipedia.org/wiki/トヨタ・J型エンジン)から翻訳されています。
 
 
 **トヨタ・J型エンジン**（トヨタ・Jがたエンジン）は、かつて[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

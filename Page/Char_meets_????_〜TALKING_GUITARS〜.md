@@ -1,4 +1,4 @@
-> この記事は[Char meets \?\?\?\? TALKING GUITARS](https://ja.wikipedia.org/wiki/Char_meets_\?\?\?\?_TALKING_GUITARS)から翻訳されています。
+> この記事は[Char meets \?\?\?\? 〜TALKING GUITARS〜](https://ja.wikipedia.org/wiki/Char_meets_\?\?\?\?_〜TALKING_GUITARS〜)から翻訳されています。
 
 
 **Char meets ???? 〜TALKING GUITARS〜**（**チャー・ミーツ ???? 〜トーキング・ギターズ〜**）は、[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")で放送されている[音楽番組](../Page/音楽番組.md "wikilink")。2003年12月13日放送開始。 [ギタリスト](../Page/ギタリスト.md "wikilink")[Char](../Page/Char.md "wikilink")がホスト役を務め、毎回1人のゲストギタリストを招きギター共演が行われる。

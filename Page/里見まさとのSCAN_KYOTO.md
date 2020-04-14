@@ -1,4 +1,4 @@
-> この記事は[SCAN KYOTO](https://ja.wikipedia.org/wiki/SCAN_KYOTO)から翻訳されています。
+> この記事は[里見まさとのSCAN KYOTO](https://ja.wikipedia.org/wiki/里見まさとのSCAN_KYOTO)から翻訳されています。
 
 
 『**里見まさとのSCAN KYOTO**』（さとみまさとのスキャンきょうと）は、[KBS京都ラジオで](../Page/京都放送.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送時間は毎週[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")の15:00～16:40・17:15～17:40。

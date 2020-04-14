@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[フィーバーキングII](https://ja.wikipedia.org/wiki/フィーバーキングII)から翻訳されています。
 
 
 **フィーバーキングII**は、[1992年](../Page/1992年.md "wikilink")10月に[SANKYOが開発](../Page/三共_\(パチンコ\).md "wikilink")、発売したドラム型[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。保留[連荘](../Page/連荘.md "wikilink")機。後の『[フィーバークィーンII](../Page/フィーバークィーンII.md "wikilink")』に影響を与えた。

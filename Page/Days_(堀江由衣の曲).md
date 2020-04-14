@@ -1,4 +1,4 @@
-> この記事は[Days \(\)](https://ja.wikipedia.org/wiki/Days_\(\))から翻訳されています。
+> この記事は[Days \(堀江由衣の曲\)](https://ja.wikipedia.org/wiki/Days_\(堀江由衣の曲\))から翻訳されています。
 
 
 『**Days**』（デイズ）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の7作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より発売。初回限定盤は[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様・「Days」のPVを収録した[DVD](../Page/DVD.md "wikilink")付き。

@@ -1,4 +1,4 @@
-> この記事は[ Seventeen\'s Map](https://ja.wikipedia.org/wiki/_Seventeen\'s_Map)から翻訳されています。
+> この記事は[上戸彩 Seventeen\'s Map](https://ja.wikipedia.org/wiki/上戸彩_Seventeen\'s_Map)から翻訳されています。
 
 
 **上戸彩 Seventeen’s map**（うえとあや セブンティーンズマップ）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組 。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")。番組タイトルは何度か変更されたが、ここではシリーズ全体について述べる。シリーズ全体の放送期間は2002年[10月8日](../Page/10月8日.md "wikilink")～2007年[4月1日](../Page/4月1日.md "wikilink")。

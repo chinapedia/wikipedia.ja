@@ -1,7 +1,7 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ホンダ・E型エンジン](https://ja.wikipedia.org/wiki/ホンダ・E型エンジン)から翻訳されています。
 
 
-**E型エンジン**（Eがたエンジン）は、1988年（[昭和](../Page/昭和.md "wikilink")63年）1月より[本田技研工業](../Page/本田技研工業.md "wikilink")で[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")されている[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")及び[初代インサイト用の](../Page/ホンダ・インサイト.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")[元年](https://ja.wikipedia.org/wiki/元年 "wikilink")）6月現在は4代目[アクティトラック用のE](../Page/ホンダ・アクティ.md "wikilink")07Z型エンジンのみが製造されている。
+**E型エンジン**（Eがたエンジン）は、1988年（[昭和](../Page/昭和.md "wikilink")63年）1月より[本田技研工業](../Page/本田技研工業.md "wikilink")で[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")されている[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")及び[初代インサイト用の](../Page/ホンダ・インサイト.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）3月現在は4代目[アクティトラック用のE](../Page/ホンダ・アクティ.md "wikilink")07Z型エンジンのみが製造されている。
 
 ## 機構
 
@@ -52,7 +52,7 @@
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[5月15日](../Page/5月15日.md "wikilink")に発表されたビートに、多連スロットルシステムの[MTREC](../Page/MTREC.md "wikilink")を採用したE07Aが初めて採用された。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[10月8日](../Page/10月8日.md "wikilink")に発表された新軽規格対応の3代目[ライフと](../Page/ホンダ・ライフ.md "wikilink")2代目[Zに](../Page/ホンダ・Z.md "wikilink")、自然吸気仕様と[ターボ過給仕様との](../Page/ターボチャージャー.md "wikilink")**E07Z**が初めて採用された。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）[9月6日](../Page/9月6日.md "wikilink")に発表されたインサイトに、リーンバーンVTEC仕様の**ECA**が初めて採用され、[IMA](../Page/Honda_IMAシステム.md "wikilink")（ハイブリッド・システム）と組合わされた。
-  - 2019年（令和元年）6月現在、アクティトラック（HA8/9）のみに自然吸気仕様の**E07Z**が継続して搭載されている。また、既存のホンダの自動車用エンジンとしては唯一、**昭和・平成・令和と三代続くエンジンの系譜**でもある。
+  - 2020年（令和2年）3月現在、アクティトラック（HA8/9）のみに自然吸気仕様の**E07Z**が継続して搭載されている。また、既存のホンダの自動車用エンジンとしては唯一、**昭和・平成・令和と三代続くエンジンの系譜**でもある。
 
 ## バリエーション
 

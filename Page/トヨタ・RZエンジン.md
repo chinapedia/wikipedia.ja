@@ -1,4 +1,4 @@
-> この記事は[RZ](https://ja.wikipedia.org/wiki/RZ)から翻訳されています。
+> この記事は[トヨタ・RZエンジン](https://ja.wikipedia.org/wiki/トヨタ・RZエンジン)から翻訳されています。
 
 
 **トヨタ・RZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。
@@ -99,6 +99,7 @@
 
   -
     [ハイラックスサーフ](../Page/トヨタ・ハイラックスサーフ.md "wikilink")（RZN180系/210系）
+    [ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")(RZN169H系/174H系)
     [ランドクルーザープラド](../Page/トヨタ・ランドクルーザープラド.md "wikilink")（RZJ90系/120系）
     [タコマ](../Page/トヨタ・タコマ.md "wikilink")（初代）
 

@@ -1,4 +1,4 @@
-> この記事は[Wish](https://ja.wikipedia.org/wiki/Wish)から翻訳されています。
+> この記事は[Wish〜ねがい〜](https://ja.wikipedia.org/wiki/Wish〜ねがい〜)から翻訳されています。
 
 
 『**Wish〜ねがい〜**』（ういっしゅ　ねがい）は、[モンゴル出身の](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")[歌手](../Page/歌手.md "wikilink")[オユンナ](../Page/オユンナ.md "wikilink")の5th[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")にプライベートレーベルであるイーストウイングよりリリースされた。

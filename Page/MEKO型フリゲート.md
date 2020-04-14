@@ -1,4 +1,4 @@
-> この記事は[MEKO](https://ja.wikipedia.org/wiki/MEKO)から翻訳されています。
+> この記事は[MEKO型フリゲート](https://ja.wikipedia.org/wiki/MEKO型フリゲート)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:HMAS_Stuart_FFH_153.jpg "wikilink")」。MEKO 200 ANZAC型。もっとも多数艦が建造された艦級である。\]\] **MEKO型フリゲート**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ブローム・ウント・フォス](https://ja.wikipedia.org/wiki/ブローム・ウント・フォス "wikilink")社（[Blohm + Voss GmbH: B+V](https://ja.wikipedia.org/wiki/:de:Blohm_+_Voss "wikilink")）によって設計された[軍艦](../Page/軍艦.md "wikilink")ファミリー。

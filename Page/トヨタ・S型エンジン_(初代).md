@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[トヨタ・S型エンジン \(初代\)](https://ja.wikipedia.org/wiki/トヨタ・S型エンジン_\(初代\))から翻訳されています。
 
 
 **トヨタ・S型エンジン**（トヨタ・Sがたエンジン）は、[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

@@ -1,4 +1,4 @@
-> この記事は[FMK!](https://ja.wikipedia.org/wiki/FMK!)から翻訳されています。
+> この記事は[FMKパンゲア!](https://ja.wikipedia.org/wiki/FMKパンゲア!)から翻訳されています。
 
 
 **FMK パンゲア\!**（エフエムケイ パンゲア\!）は、FMK[エフエム熊本](../Page/エフエム熊本.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から、毎週月曜 - 木曜の11:30 - 14:35（[JST](../Page/日本標準時.md "wikilink")）に放送している午後の[ワイド番組](../Page/ワイド番組.md "wikilink")である。

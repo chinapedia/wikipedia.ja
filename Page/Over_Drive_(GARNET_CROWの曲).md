@@ -1,4 +1,4 @@
-> この記事は[Over Drive \(GARNET CROW\)](https://ja.wikipedia.org/wiki/Over_Drive_\(GARNET_CROW\))から翻訳されています。
+> この記事は[Over Drive \(GARNET CROWの曲\)](https://ja.wikipedia.org/wiki/Over_Drive_\(GARNET_CROWの曲\))から翻訳されています。
 
 
 『**Over Drive**』（オーヴァー・ドライヴ）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")31枚目の[シングル](../Page/シングル.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TNT](https://ja.wikipedia.org/wiki/TNT)から翻訳されています。
+> この記事は[TNT換算](https://ja.wikipedia.org/wiki/TNT換算)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Upshot-Knothole_GRABLE.jpg "wikilink")
@@ -25,7 +25,7 @@ TNT換算で得られる質量を**TNT当量**という。TNT当量が1[トン](
 
 ## 例
 
-広島に落とされた[原子爆弾](../Page/原子爆弾.md "wikilink")（[リトルボーイ](../Page/リトルボーイ.md "wikilink")）は、TNT換算で約15キロトンである。これは
+[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")に落とされた[原子爆弾](../Page/原子爆弾.md "wikilink")（[リトルボーイ](../Page/リトルボーイ.md "wikilink")）は、TNT換算で約15キロトンである。これは
 
   -
     4.184×10<sup>9</sup> J × 15×10<sup>3</sup> = 6.276×10<sup>13</sup> J
@@ -45,7 +45,7 @@ TNT換算で得られる質量を**TNT当量**という。TNT当量が1[トン](
 
 ## その他
 
-長崎に落とされた[原子爆弾](../Page/原子爆弾.md "wikilink")（[ファットマン](../Page/ファットマン.md "wikilink")）は、TNT換算で約22キロトンである。
+[長崎市](../Page/長崎市.md "wikilink")に落とされた[原子爆弾](../Page/原子爆弾.md "wikilink")（[ファットマン](../Page/ファットマン.md "wikilink")）は、TNT換算で約22キロトンである。
 
 ## 出典
 

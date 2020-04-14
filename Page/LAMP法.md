@@ -1,4 +1,4 @@
-> この記事は[LAMP](https://ja.wikipedia.org/wiki/LAMP)から翻訳されています。
+> この記事は[LAMP法](https://ja.wikipedia.org/wiki/LAMP法)から翻訳されています。
 
 
 **LAMP法**（らんぷほう、Loop-Mediated Isothermal Amplificationの略）とは、標的遺伝子の配列から6つの領域を選んで組み合わせた4種類の[プライマー](https://ja.wikipedia.org/wiki/プライマー "wikilink")を用いて、鎖置換反応を利用して増幅させる方法である。
@@ -36,6 +36,8 @@
 ## 文献
 
 <references />
+
+  - [高野弘、酒井栄一、佐々木泰治：「LAMP(Loop-mediated isothermal amplification)法の原理と応用」，モダンメディア、60巻、7号 (2014年) 【医学検査のあゆみ】，pp.211-231.](http://www.eiken.co.jp/modern_media/backnumber/pdf/MM1407_01.pdf)
 
 ## 関連項目
 

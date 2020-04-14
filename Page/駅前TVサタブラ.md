@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[駅前TVサタブラ](https://ja.wikipedia.org/wiki/駅前TVサタブラ)から翻訳されています。
 
 
 『**駅前TVサタブラ**』（えきまえテレビサタブラ、通称「**サタブラ**」）は、KAB[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から、[2018年](../Page/2018年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")9:30 - 10:40（[JST](../Page/日本標準時.md "wikilink")）に放送されていたローカル[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

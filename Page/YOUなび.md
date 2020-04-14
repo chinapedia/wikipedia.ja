@@ -1,4 +1,4 @@
-> この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
+> この記事は[YOUなび](https://ja.wikipedia.org/wiki/YOUなび)から翻訳されています。
 
 
 『**YOUなび**』（ユーなび）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[広島テレビで](../Page/広島テレビ放送.md "wikilink")[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 16:19 - 16:48 （[JST](../Page/日本標準時.md "wikilink")）に放送されていた[生活情報番組](../Page/生活情報番組.md "wikilink")である。

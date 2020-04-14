@@ -1,4 +1,4 @@
-> この記事は[C++](https://ja.wikipedia.org/wiki/C++)から翻訳されています。
+> この記事は[標準C++ライブラリ](https://ja.wikipedia.org/wiki/標準C++ライブラリ)から翻訳されています。
 
 
 **標準C++ライブラリ**は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[C++](../Page/C++.md "wikilink")の標準規格で定められた[ライブラリ](../Page/ライブラリ.md "wikilink")である。これは[クラスと](../Page/クラス_\(コンピュータ\).md "wikilink")[関数などの集合であり](../Page/サブルーチン.md "wikilink")、汎用的な[コンテナとそれを操作する関数](../Page/コンテナ_\(データ型\).md "wikilink")、[関数オブジェクト](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")、汎用的な[文字列](../Page/文字列.md "wikilink")と[ストリーム](../Page/ストリーム_\(プログラミング\).md "wikilink")（コンソールや[ファイルとの](../Page/ファイル_\(コンピュータ\).md "wikilink")[入出力](../Page/入出力.md "wikilink")）、言語機能サポート、数学関数ライブラリ（[超越関数](../Page/超越関数.md "wikilink")の近似を含む）などといった一般的かつ汎用的な関数などから構成される。また、ISO C90規格の[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")も含んでいる（[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")で[C99](../Page/C99.md "wikilink")互換のライブラリも追加された）。標準C++ライブラリはそのほとんどが[名前空間](../Page/名前空間.md "wikilink")**`std`**内にある。[C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")規格以降では標準ライブラリに大幅な拡張や機能追加が行なわれた。
@@ -31,7 +31,7 @@ C言語と異なり、標準C++ライブラリの[ヘッダには末尾に](../P
   - <any> ([C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink"))
   - \<[bitset](https://ja.wikipedia.org/wiki/ビット配列 "wikilink")\>
   - <chrono> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
-  - <codecvt> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink"))
+  - <codecvt> ([C++11](https://ja.wikipedia.org/wiki/C++11 "wikilink")、C++17で非推奨化)
   - \<[functional](https://ja.wikipedia.org/wiki/関数オブジェクト "wikilink")\>
   - \<[iterator](../Page/イテレータ.md "wikilink")\>
   - \<[locale](https://ja.wikipedia.org/wiki/ロケール "wikilink")\>

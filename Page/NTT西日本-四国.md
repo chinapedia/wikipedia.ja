@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-四国](https://ja.wikipedia.org/wiki/NTT西日本-四国)から翻訳されています。
 
 
 **株式会社NTT西日本-四国**（エヌティティにしにほん-しこく）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")に本社を置き、主にNTT西日本の業務を受託していた。電気通信設備関係や工事関係などで主に四国四県（[愛媛県](../Page/愛媛県.md "wikilink")・[香川県](../Page/香川県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")･[高知県](../Page/高知県.md "wikilink")）を管轄していた。

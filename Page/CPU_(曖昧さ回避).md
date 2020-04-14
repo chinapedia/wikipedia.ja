@@ -1,4 +1,4 @@
-> この記事は[CPU \(\)](https://ja.wikipedia.org/wiki/CPU_\(\))から翻訳されています。
+> この記事は[CPU \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/CPU_\(曖昧さ回避\))から翻訳されています。
 
 
 **CPU**

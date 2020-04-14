@@ -1,4 +1,4 @@
-> この記事は[THE NEWS \(\)](https://ja.wikipedia.org/wiki/THE_NEWS_\(\))から翻訳されています。
+> この記事は[THE NEWS \(日本のバンド\)](https://ja.wikipedia.org/wiki/THE_NEWS_\(日本のバンド\))から翻訳されています。
 
 
 **THE NEWS**（**ザ・ニュース**）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から活躍する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。

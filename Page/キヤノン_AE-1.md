@@ -1,4 +1,4 @@
-> この記事は[ AE-1](https://ja.wikipedia.org/wiki/_AE-1)から翻訳されています。
+> この記事は[キヤノン AE-1](https://ja.wikipedia.org/wiki/キヤノン_AE-1)から翻訳されています。
 
 
 [Canon_AE-1_with_FD50mm_F1.4.jpg](https://ja.wikipedia.org/wiki/File:Canon_AE-1_with_FD50mm_F1.4.jpg "fig:Canon_AE-1_with_FD50mm_F1.4.jpg")

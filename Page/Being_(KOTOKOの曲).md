@@ -1,4 +1,4 @@
-> この記事は[Being \(KOTOKO\)](https://ja.wikipedia.org/wiki/Being_\(KOTOKO\))から翻訳されています。
+> この記事は[Being \(KOTOKOの曲\)](https://ja.wikipedia.org/wiki/Being_\(KOTOKOの曲\))から翻訳されています。
 
 
 『**being**』（ビーイング）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")の5作目のシングル。 [ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")より、2006年3月23日に発売された。

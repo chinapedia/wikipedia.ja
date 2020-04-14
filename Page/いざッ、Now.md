@@ -1,4 +1,4 @@
-> この記事は[Now](https://ja.wikipedia.org/wiki/Now)から翻訳されています。
+> この記事は[いざッ、Now](https://ja.wikipedia.org/wiki/いざッ、Now)から翻訳されています。
 
 
 『**いざッ、Now**』（いざッ、ナウ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。

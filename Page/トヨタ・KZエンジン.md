@@ -1,4 +1,4 @@
-> この記事は[KZ](https://ja.wikipedia.org/wiki/KZ)から翻訳されています。
+> この記事は[トヨタ・KZエンジン](https://ja.wikipedia.org/wiki/トヨタ・KZエンジン)から翻訳されています。
 
 
 **トヨタ・KZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

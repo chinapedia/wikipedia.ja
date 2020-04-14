@@ -1,4 +1,4 @@
-> この記事は[COOLPIX](https://ja.wikipedia.org/wiki/COOLPIX)から翻訳されています。
+> この記事は[ニコン・COOLPIX](https://ja.wikipedia.org/wiki/ニコン・COOLPIX)から翻訳されています。
 
 
 [Nikon_Coolpix_L2_back_side.JPG](https://ja.wikipedia.org/wiki/File:Nikon_Coolpix_L2_back_side.JPG "fig:Nikon_Coolpix_L2_back_side.JPG")

@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[トヨタ・K型エンジン](https://ja.wikipedia.org/wiki/トヨタ・K型エンジン)から翻訳されています。
 
 
 **トヨタ・K型エンジン**（トヨタ・Kがたエンジン）は、[1966年](../Page/1966年.md "wikilink")（昭和41年）から[2013年](../Page/2013年.md "wikilink")（平成25年）まで製造されていた[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。

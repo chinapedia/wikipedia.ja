@@ -1,4 +1,4 @@
-> この記事は[Love \(\)](https://ja.wikipedia.org/wiki/Love_\(\))から翻訳されています。
+> この記事は[Love \(河村隆一のアルバム\)](https://ja.wikipedia.org/wiki/Love_\(河村隆一のアルバム\))から翻訳されています。
 
 
 『**Love**』（ラヴ）は、日本の男性[歌手](../Page/歌手.md "wikilink")、[河村隆一](../Page/河村隆一.md "wikilink")の1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")にリリースされた。

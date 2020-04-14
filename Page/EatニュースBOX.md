@@ -1,4 +1,4 @@
-> この記事は[EatBOX](https://ja.wikipedia.org/wiki/EatBOX)から翻訳されています。
+> この記事は[EatニュースBOX](https://ja.wikipedia.org/wiki/EatニュースBOX)から翻訳されています。
 
 
 『**eatニュースBOX**』（イーエーティーニュースボックス（2005年3月まで）、イートニュースボックス（2005年4月以降））は、1995年3月27日から2011年3月31日まで[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")で放送されていた夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

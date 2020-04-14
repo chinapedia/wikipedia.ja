@@ -1,4 +1,4 @@
-> この記事は[J.J.](https://ja.wikipedia.org/wiki/J.J.)から翻訳されています。
+> この記事は[J.J.ハーディ](https://ja.wikipedia.org/wiki/J.J.ハーディ)から翻訳されています。
 
 
 **ジェームズ・ジェリー・ハーディ**（**James Jerry Hardy**, [1982年](../Page/1982年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[ツーソン](../Page/ツーソン.md "wikilink")出身の[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[遊撃手](../Page/遊撃手.md "wikilink")）。右投右打。現在は[フリーエージェント](../Page/フリーエージェント_\(プロスポーツ\).md "wikilink")。

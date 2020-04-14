@@ -1,4 +1,4 @@
-> この記事は[ROM](https://ja.wikipedia.org/wiki/ROM)から翻訳されています。
+> この記事は[マスクROM](https://ja.wikipedia.org/wiki/マスクROM)から翻訳されています。
 
 
 **マスクROM**（マスクロム、Mask ROM）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")システムで使用される[記憶装置](../Page/記憶装置.md "wikilink")の一種で、記録されている内容を書き換えることができない[不揮発性メモリ](../Page/不揮発性メモリ.md "wikilink")のことを指す。

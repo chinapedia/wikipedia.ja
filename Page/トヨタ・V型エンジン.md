@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[トヨタ・V型エンジン](https://ja.wikipedia.org/wiki/トヨタ・V型エンジン)から翻訳されています。
 
 
 **トヨタ・V型エンジン**（トヨタ・Vがたエンジン）は、[1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）まで[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（1981年以前は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")）が製造していた[水冷](../Page/水冷エンジン.md "wikilink")[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

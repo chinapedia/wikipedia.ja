@@ -1,4 +1,4 @@
-> この記事は[Spica](https://ja.wikipedia.org/wiki/Spica)から翻訳されています。
+> この記事は[星空のSpica](https://ja.wikipedia.org/wiki/星空のSpica)から翻訳されています。
 
 
 「**星空のSpica**」（ほしぞらのスピカ）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[キングレコードから発売された](https://ja.wikipedia.org/wiki/キングレコードMM制作部 "wikilink")。

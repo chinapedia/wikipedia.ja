@@ -160,7 +160,7 @@
   - Love our Bay（[ベイエフエム](../Page/ベイエフエム.md "wikilink") 開局 - 2011年9月）
   - Dr.月尾 地球の方程式（[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")のTV番組。5回にわたりLOHASを取り上げた）
   - ロハスな生活（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"): 2005年7月 - 9月、ナレーター: [大橋マキ](https://ja.wikipedia.org/wiki/大橋マキ "wikilink")、企画構成：[わぐりたかし](../Page/わぐりたかし.md "wikilink")）
-  - Happy\! LOHAS（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink"): 2006年4月 - 2007年9月、ナビゲーター: 大橋マキ、企画構成: わぐりたかし　「ソトコト」のTV版）
+  - Happy\! LOHAS（[BS朝日](../Page/ビーエス朝日.md "wikilink"): 2006年4月 - 2007年9月、ナビゲーター: 大橋マキ、企画構成: わぐりたかし　「ソトコト」のTV版）
   - しあわせロハス（BS朝日: 2007年10月 -、ナビゲーター: [SHIHO](../Page/SHIHO_\(ファッションモデル\).md "wikilink")）
 
 ## 風刺作品

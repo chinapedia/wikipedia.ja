@@ -1,4 +1,4 @@
-> この記事は[AGM-62 \(\)](https://ja.wikipedia.org/wiki/AGM-62_\(\))から翻訳されています。
+> この記事は[AGM-62 \(ミサイル\)](https://ja.wikipedia.org/wiki/AGM-62_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 |名称=AGM-62 ウォールアイ |画像=Image:AGM-62 Walleye.jpg |キャプション=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")に展示されているAGM-62 |用途=発電所、橋梁等重要目標の破壊 |分類=[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")（テレビ誘導滑空爆弾） |設計者= |製造者=[マーティン・マリエッタ](../Page/マーティン・マリエッタ.md "wikilink") |運用者 more=:

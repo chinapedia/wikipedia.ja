@@ -30,13 +30,18 @@
   - [題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")21（2007年・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [坂の上の雲](https://ja.wikipedia.org/wiki/坂の上の雲_\(テレビドラマ\) "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")・NHK）…女学生役
 
+## ラジオ
+
+  - OTTAVA Gioia（2015年10月 - 2020年3月・[OTTAVA](../Page/OTTAVA.md "wikilink")） - 週替わりでの出演
+  - [OTTAVA Salone](https://ja.wikipedia.org/wiki/OTTAVA_Salone "wikilink")（2020年4月 - ・OTTAVA） - 週替わりでの出演
+
 ## 脚注
 
 ## 外部リンク
 
   - [yumi official website](http://yumi-flute.net/)（フルート奏者yumi公式サイト）
   - <http://blog.yumi-flute.net/>（フルート奏者yumiのオフィシャルブログ）
-  - [ソニーミュージックによるyumi情報](http://www.sonymusic.co.jp/Music/Arch/SR/yumi/)（Sony Music Online Japan）
+  - [ソニーミュージックによるyumi情報](https://www.sonymusic.co.jp/artist/yumi/)（Sony Music Online Japan）
   - [提携している株式会社Dry Beatによるyumi情報](https://www.dry-beat.com/yumi-%E6%8F%90%E6%90%BA%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88/)
 
 

@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[トヨタ・L型エンジン](https://ja.wikipedia.org/wiki/トヨタ・L型エンジン)から翻訳されています。
 
 
 **トヨタ・L型エンジン**（トヨタ・Lがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。

@@ -1,4 +1,4 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[いぐさひできの自転車でGO!](https://ja.wikipedia.org/wiki/いぐさひできの自転車でGO!)から翻訳されています。
 
 
 **いぐさひできの自転車でGO\!**（いぐさひできのじてんしゃでゴー\!）は[福島県](../Page/福島県.md "wikilink")の[ローカル番組](../Page/ローカル番組.md "wikilink")「**[サタふく](../Page/サタふく.md "wikilink")**」内で放送されたコーナーである。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[チャールズ・W・ナッシュ](https://ja.wikipedia.org/wiki/チャールズ・W・ナッシュ)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:Charles_Williams_Nash.jpg "wikilink") **チャールズ・W・ナッシュ**（Charles Williams Nash, [1864年](../Page/1864年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - [1948年](../Page/1948年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の自動車企業家。[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")の5代目社長、[ナッシュ・モーターズ](https://ja.wikipedia.org/wiki/ナッシュ・モーターズ "wikilink")の創業者として知られる。

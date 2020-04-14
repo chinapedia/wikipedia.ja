@@ -1,4 +1,4 @@
-> この記事は[G ](https://ja.wikipedia.org/wiki/G_)から翻訳されています。
+> この記事は[Gガール 破壊的な彼女](https://ja.wikipedia.org/wiki/Gガール_破壊的な彼女)から翻訳されています。
 
 
 『**Gガール 破壊的な彼女**』（原題: *My Super Ex-Girlfriend*）は、[2006年の](../Page/2006年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[ドン・ペイン](https://ja.wikipedia.org/wiki/ドン・ペイン "wikilink")脚本、[アイヴァン・ライトマン](../Page/アイヴァン・ライトマン.md "wikilink")監督によるSF系[お色気](https://ja.wikipedia.org/wiki/お色気 "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")。

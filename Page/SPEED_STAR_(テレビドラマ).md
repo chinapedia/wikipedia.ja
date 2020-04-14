@@ -1,4 +1,4 @@
-> この記事は[SPEED STAR \(\)](https://ja.wikipedia.org/wiki/SPEED_STAR_\(\))から翻訳されています。
+> この記事は[SPEED STAR \(テレビドラマ\)](https://ja.wikipedia.org/wiki/SPEED_STAR_\(テレビドラマ\))から翻訳されています。
 
 
 『**SPEED STAR**』（スピードスター）とは、[2001年](../Page/2001年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[日本テレビ系列にて放映された単発の](../Page/日本テレビ放送網.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")\[1\]。

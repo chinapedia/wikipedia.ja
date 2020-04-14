@@ -1,4 +1,4 @@
-> この記事は[papipo!](https://ja.wikipedia.org/wiki/papipo!)から翻訳されています。
+> この記事は[キッズケータイpapipo!](https://ja.wikipedia.org/wiki/キッズケータイpapipo!)から翻訳されています。
 
 
 **キッズケータイpapipo\!**（キッズケータイ パピポ）とは、[バンダイ](../Page/バンダイ.md "wikilink")と[ウィルコム](../Page/ウィルコム.md "wikilink")の共同開発により[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")に正式に販売が開始された[W-SIM](../Page/W-SIM.md "wikilink")に対応した[PHS](../Page/PHS.md "wikilink")音声端末。ウィルコム向けに供給するだけではなく、バンダイからも直接販売される[サードパーティー](../Page/サードパーティー.md "wikilink")製端末である。

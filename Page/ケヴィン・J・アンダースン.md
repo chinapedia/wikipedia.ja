@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ケヴィン・J・アンダースン](https://ja.wikipedia.org/wiki/ケヴィン・J・アンダースン)から翻訳されています。
 
 
 '''ケヴィン・J・アンダースン '''（Kevin J. Anderson，[1962年](../Page/1962年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。

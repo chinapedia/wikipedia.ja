@@ -1,4 +1,4 @@
-> この記事は[TZ](https://ja.wikipedia.org/wiki/TZ)から翻訳されています。
+> この記事は[トヨタ・TZエンジン](https://ja.wikipedia.org/wiki/トヨタ・TZエンジン)から翻訳されています。
 
 
 **トヨタ・TZエンジン**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。初代エスティマ系専用としてアンダーフロア型[ミッドシップ](../Page/ミッドシップ.md "wikilink")レイアウトを実現するために[２RZ型](../Page/トヨタ・RZエンジン.md "wikilink") をベースに造られた。初代エスティマ系の販売終了に伴い [AZ型](../Page/トヨタ・AZエンジン.md "wikilink") に統括。形式的な後継は [TR型となる](../Page/トヨタ・TRエンジン.md "wikilink")。

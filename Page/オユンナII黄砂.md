@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[オユンナII黄砂](https://ja.wikipedia.org/wiki/オユンナII黄砂)から翻訳されています。
 
 
 『**オユンナII黄砂**』（オユンナIIこうさ）は、[モンゴル出身の](https://ja.wikipedia.org/wiki/モンゴル国 "wikilink")[歌手](../Page/歌手.md "wikilink")[オユンナ](../Page/オユンナ.md "wikilink")の2nd[アルバム](../Page/アルバム.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。
@@ -29,6 +29,6 @@
 9.  [浜辺の歌](https://ja.wikipedia.org/wiki/浜辺の歌 "wikilink")
       - 作詞: [林古渓](../Page/林古渓.md "wikilink")、作曲: [成田為三](../Page/成田為三.md "wikilink")、編曲: 宮崎信治
 10. [空に星があるように](../Page/空に星があるように.md "wikilink")
-      - 作詞/作曲: [荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")、編曲: 宮崎信治
+      - 作詞/作曲: [荒木一郎](../Page/荒木一郎.md "wikilink")、編曲: 宮崎信治
 
 [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:オユンナのアルバム](https://ja.wikipedia.org/wiki/Category:オユンナのアルバム "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink")

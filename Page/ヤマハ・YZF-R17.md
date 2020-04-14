@@ -1,4 +1,4 @@
-> この記事は[YZF-R17](https://ja.wikipedia.org/wiki/YZF-R17)から翻訳されています。
+> この記事は[ヤマハ・YZF-R17](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R17)から翻訳されています。
 
 
 **クラブ-ヤマハ・YZF-R17**（ワイゼットエフ-アールじゅうなな）は、SUGOのYZF-R17キットを装着したYZF-R7の車体に[YZF-R1](https://ja.wikipedia.org/wiki/YZF-R1 "wikilink")のエンジンを換装した、[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")のXX-FおよびDiv.1クラス（共に当時）への参戦用の[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")（競技用車両）である。

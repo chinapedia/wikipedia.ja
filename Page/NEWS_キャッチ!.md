@@ -1,4 +1,4 @@
-> この記事は[NEWS !](https://ja.wikipedia.org/wiki/NEWS_!)から翻訳されています。
+> この記事は[NEWS キャッチ!](https://ja.wikipedia.org/wiki/NEWS_キャッチ!)から翻訳されています。
 
 
 『**NEWS キャッチ\!**』（ニュース キャッチ）は、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で平日夕方に[生放送](../Page/生放送.md "wikilink")されていた[報道番組](../Page/報道番組.md "wikilink")である。

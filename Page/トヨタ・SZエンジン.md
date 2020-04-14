@@ -1,4 +1,4 @@
-> この記事は[SZ](https://ja.wikipedia.org/wiki/SZ)から翻訳されています。
+> この記事は[トヨタ・SZエンジン](https://ja.wikipedia.org/wiki/トヨタ・SZエンジン)から翻訳されています。
 
 
 **トヨタ・SZエンジン**、および**ダイハツ・SZ型エンジン**（エスゼットがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、および[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")の[鋳鉄](../Page/鋳鉄.md "wikilink")ブロックを用いた[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

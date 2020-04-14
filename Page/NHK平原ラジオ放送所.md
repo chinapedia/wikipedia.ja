@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK平原ラジオ放送所](https://ja.wikipedia.org/wiki/NHK平原ラジオ放送所)から翻訳されています。
 
 
 **NHK平原ラジオ放送所**（えぬえいちけいひらばるらじおほうそうじょ）は、[NHK大分放送局](../Page/NHK大分放送局.md "wikilink")の[ラジオ第1放送と](../Page/NHKラジオ第1放送.md "wikilink")[ラジオ第2放送の送信施設の名称である](../Page/NHKラジオ第2放送.md "wikilink")。なお、本項では**NHK大分平原テレビ中継局（総合テレビのみ/季節混信対策局）**についても記す。

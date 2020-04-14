@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G検定](https://ja.wikipedia.org/wiki/G検定)から翻訳されています。
 
 
 **G検定**（ジーけんてい）は[統計学的検定法](https://ja.wikipedia.org/wiki/統計学的検定法 "wikilink")で、[尤度比検定](../Page/尤度比検定.md "wikilink")の一種である。これまで[カイ二乗検定](../Page/カイ二乗検定.md "wikilink")が用いられていた場面で広く用いられつつある。

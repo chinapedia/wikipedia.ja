@@ -1,4 +1,4 @@
-> この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
+> この記事は[MC企画](https://ja.wikipedia.org/wiki/MC企画)から翻訳されています。
 
 
 **株式会社MC企画**（エムシーきかく）は、[大阪市](../Page/大阪市.md "wikilink")[北区にある](../Page/北区_\(大阪市\).md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。設立は[1977年](../Page/1977年.md "wikilink")
@@ -9,34 +9,37 @@
 
 近畿地区を拠点に活躍する[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")や[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[俳優](../Page/俳優.md "wikilink")らが在籍しているほか、放送局に人材を派遣している。また、[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")「[千里ニュータウンFM放送](../Page/千里ニュータウンFM放送.md "wikilink")（FM千里）」を運営している。「[キャストプラン](https://ja.wikipedia.org/wiki/キャストプラン "wikilink")」や「[日本ペットモデル協会](https://ja.wikipedia.org/wiki/日本ペットモデル協会 "wikilink")」も運営している。
 
-## 主な所属タレント・アナウンサー
+## 主な所属タレント
+
+**アクター部門**
 
   - [三島ゆり子](../Page/三島ゆり子.md "wikilink")
-  - [草川祐馬](../Page/草川祐馬.md "wikilink")
   - [雪代敬子](../Page/雪代敬子.md "wikilink")
-  - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
-  - [南条好輝](https://ja.wikipedia.org/wiki/南条好輝 "wikilink")
   - [紅壱子](../Page/紅壱子.md "wikilink")
   - [麻生えりか](https://ja.wikipedia.org/wiki/麻生えりか "wikilink")
-  - [鍋島浩](https://ja.wikipedia.org/wiki/鍋島浩 "wikilink")
-  - [藤本幸広](https://ja.wikipedia.org/wiki/藤本幸広 "wikilink")
-  - [駒田真紀](https://ja.wikipedia.org/wiki/駒田真紀 "wikilink")
-  - [松尾明子](https://ja.wikipedia.org/wiki/松尾明子 "wikilink")
-  - [宇野ひろみ](../Page/宇野ひろみ.md "wikilink")
-  - 塩田えみ
-  - [武村陽子](https://ja.wikipedia.org/wiki/武村陽子 "wikilink")
-  - [熊本麻美](../Page/熊本麻美.md "wikilink")
-  - [三嶋真路](https://ja.wikipedia.org/wiki/三嶋真路 "wikilink")
+  - [葦笛るか](../Page/葦笛るか.md "wikilink")
+  - [草川祐馬](../Page/草川祐馬.md "wikilink")
+  - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+  - [西園寺章雄](../Page/西園寺章雄.md "wikilink")
+  - [南条好輝](https://ja.wikipedia.org/wiki/南条好輝 "wikilink")
+  - [旭堂南陵](../Page/旭堂南陵.md "wikilink")
+  - [大竹修造](../Page/大竹修造.md "wikilink")
   - [桂勢朝](../Page/桂勢朝.md "wikilink")
-  - 旭堂南陵
-  - ミスマッチ（[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")）
-  - 露の団姫
-  - 玉田玉秀斎
-  - 石田鮎美
-  - 大竹修造
-  - 板倉令子
-  - 井川茉代
-  - 森本彩幸未
+
+**タレント部門**
+
+  - [松尾明子](https://ja.wikipedia.org/wiki/松尾明子 "wikilink")
+  - [紫峰七海](https://ja.wikipedia.org/wiki/紫峰七海 "wikilink")
+  - [宇野ひろみ](../Page/宇野ひろみ.md "wikilink")
+  - [高岡美樹](https://ja.wikipedia.org/wiki/高岡美樹 "wikilink")
+  - [塩田えみ](../Page/塩田えみ.md "wikilink")
+  - [熊本麻美](../Page/熊本麻美.md "wikilink")
+  - [村田千弥](https://ja.wikipedia.org/wiki/村田千弥 "wikilink")
+  - [露のききょう](https://ja.wikipedia.org/wiki/露のききょう "wikilink")
+  - [露の団姫](https://ja.wikipedia.org/wiki/露の団姫 "wikilink")
+  - [三嶋真路](https://ja.wikipedia.org/wiki/三嶋真路 "wikilink")
+  - [玉田玉秀斎](../Page/玉田玉秀斎.md "wikilink")
+  - [豊来家大治朗](https://ja.wikipedia.org/wiki/豊来家大治朗 "wikilink")
 
 ## 以前に所属していた主なタレント・アナウンサー
 

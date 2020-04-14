@@ -1,4 +1,4 @@
-> この記事は[SOMPO](https://ja.wikipedia.org/wiki/SOMPO)から翻訳されています。
+> この記事は[SOMPOクレジット](https://ja.wikipedia.org/wiki/SOMPOクレジット)から翻訳されています。
 
 
 **SOMPOクレジット株式会社**（そんぽクレジット）は、[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")の系列会社であり、[UCカード](../Page/UCカード.md "wikilink")のブラザーズカンパニーである。

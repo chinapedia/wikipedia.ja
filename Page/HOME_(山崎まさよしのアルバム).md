@@ -1,4 +1,4 @@
-> この記事は[HOME \(\)](https://ja.wikipedia.org/wiki/HOME_\(\))から翻訳されています。
+> この記事は[HOME \(山崎まさよしのアルバム\)](https://ja.wikipedia.org/wiki/HOME_\(山崎まさよしのアルバム\))から翻訳されています。
 
 
 『**HOME**』（ホーム）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算2枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1997年5月21日発売。発売元は[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")。

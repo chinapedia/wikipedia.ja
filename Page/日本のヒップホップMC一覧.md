@@ -1,4 +1,4 @@
-> この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
+> この記事は[日本のヒップホップMC一覧](https://ja.wikipedia.org/wiki/日本のヒップホップMC一覧)から翻訳されています。
 
 
 **日本のヒップホップMC一覧**（にほんのヒップホップエムシーいちらん）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動している主な[ヒップホップMCの一覧である](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
@@ -39,6 +39,7 @@
   - [いとうせいこう](../Page/いとうせいこう.md "wikilink") (THE DUB FLOWER, [□□□](../Page/□□□.md "wikilink"))
   - ILL-BOSSTINO ([THA BLUE HERB](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink"))
   - [ILMARI](../Page/ILMARI.md "wikilink") ([RIP SLYME](../Page/RIP_SLYME.md "wikilink"), [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink"), [The Beatmoss](https://ja.wikipedia.org/wiki/The_Beatmoss "wikilink"), ex. [Steady\&Co.](../Page/Steady&Co..md "wikilink"))
+  - [imiga](https://ja.wikipedia.org/wiki/imiga "wikilink")（[カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink")）
   - ILLMURA
   - [イルリメ](../Page/イルリメ.md "wikilink") ([カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink"))
   - INHA (JUNK BEAT TOKYO)
@@ -95,6 +96,7 @@
   - オロカモノポテチ
   - 怨念JAP
   - ONO-D
+  - OｰmeGa
   - OZworld a.k.a R'kuma
 
 ## か行
@@ -117,6 +119,7 @@
   - KAME ([KAME\&L.N.K](../Page/KAME&L.N.K.md "wikilink"))
   - カルデラビスタ (RURBAN RECORDS)
   - [川村壱馬](https://ja.wikipedia.org/wiki/川村壱馬 "wikilink") ([THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink"))
+  - [カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink") ([ワタナベマホト](https://ja.wikipedia.org/wiki/ワタナベマホト "wikilink")、[imiga](https://ja.wikipedia.org/wiki/imiga "wikilink"))
   - [漢 a.k.a. GAMI](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink") ([MSC](../Page/MSC_\(音楽グループ\).md "wikilink"))
   - がーどまん(チャンネルがーどまん)
 
@@ -250,7 +253,6 @@
   - じょう (NA3TY)
   - [Shing02](../Page/Shing02.md "wikilink")
   - [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink") (LIBRA WEST)
-  - [SHINNOSK8](https://ja.wikipedia.org/wiki/SHINNOSK8 "wikilink") ([KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink"))
   - [晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")
   - [SHO](https://ja.wikipedia.org/wiki/SHO_\(ラッパー\) "wikilink")
   - JP THE WAVY
@@ -281,7 +283,7 @@
 ### そ
 
   - 創人 (SEAL)
-  - ZORN THE DARKNESS
+  - ZORN
   - ZORRO (ex. Gas Crackerz, [妄走族](../Page/妄走族.md "wikilink"))
   - 早雲
 
@@ -414,6 +416,7 @@
   - BALA a.k.a SBKN
   - HUNGER ([GAGLE](../Page/GAGLE.md "wikilink"))
   - BURNER（NIGHT STALKER CLIK）
+  - Buddy
   - [般若](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink") (ex. [妄走族](../Page/妄走族.md "wikilink"))
   - [PUNPEE](https://ja.wikipedia.org/wiki/PUNPEE "wikilink") ([PSG](https://ja.wikipedia.org/wiki/PSG_\(ヒップホップユニット\) "wikilink"))
   - HI-KING TAKASE
@@ -519,7 +522,6 @@
   - [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") ([JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink"))
   - MEKOLI (GAKUDAN, LABEL HITOLI)
   - メシアTHEフライ a.k.a MESS ([JUSWANNA](https://ja.wikipedia.org/wiki/JUSWANNA "wikilink"))
-  - METEOR (Samurai Troops, [Da.Me.Records](../Page/Da.Me.Records.md "wikilink"))
 
 ### も
 
@@ -552,6 +554,8 @@
   - Yuki (Bennie K)
   - YUKI ([MADKID](https://ja.wikipedia.org/wiki/MADKID "wikilink"))
   - [YURINO](https://ja.wikipedia.org/wiki/YURINO "wikilink")（[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink"),[Happiness](../Page/Happiness_\(グループ\).md "wikilink"),[スダンナユズユリー](https://ja.wikipedia.org/wiki/スダンナユズユリー "wikilink")）
+  - ゆうま
+  - U-mallow
 
 ### よ
 
@@ -615,6 +619,7 @@
   - [YZERR](https://ja.wikipedia.org/wiki/YZERR "wikilink") ([BAD HOP](https://ja.wikipedia.org/wiki/BAD_HOP "wikilink")、[2WIN](https://ja.wikipedia.org/wiki/2WIN_\(音楽ユニット\) "wikilink"))
   - [WISE](../Page/WISE.md "wikilink") (風の人, WISE'N'SONPUB, [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink"))
   - [WADA](https://ja.wikipedia.org/wiki/WADA "wikilink") ([アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink"))
+  - [ワタナベマホト](https://ja.wikipedia.org/wiki/ワタナベマホト "wikilink")（[カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink")）
   - WATT (韻部)
   - WATT (BALLERS, ex. ENDLESS FILE)
   - 輪入道

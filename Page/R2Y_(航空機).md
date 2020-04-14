@@ -1,4 +1,4 @@
-> この記事は[R2Y \(\)](https://ja.wikipedia.org/wiki/R2Y_\(\))から翻訳されています。
+> この記事は[R2Y \(航空機\)](https://ja.wikipedia.org/wiki/R2Y_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=コンソリデーテッド R2Y

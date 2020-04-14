@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[特別指定選手としてJリーグクラブに登録された選手一覧](https://ja.wikipedia.org/wiki/特別指定選手としてJリーグクラブに登録された選手一覧)から翻訳されています。
 
 
 この項目は[JFA](../Page/日本サッカー協会.md "wikilink")・[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[特別指定選手](../Page/特別指定選手.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2002年](../Page/2002年.md "wikilink")までの名称は強化指定選手）によってJリーグクラブに登録された選手の一覧である。
@@ -2093,48 +2093,300 @@
 
 ## 2019年
 
-| 名前                                                                           | 所属チーム                                                                 | 派遣先                                                                    | 公式戦出場 | 進路 (加入年)                             |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----- | ------------------------------------ |
-| [矢村健](https://ja.wikipedia.org/wiki/矢村健 "wikilink")\[370\]                   | [新潟医療福祉大学](../Page/新潟医療福祉大学.md "wikilink")                            | [アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")                           |       | アルビレックス新潟(2020)\[371\]               |
-| [黒川圭介](https://ja.wikipedia.org/wiki/黒川圭介 "wikilink")\[372\]                 | [関西大学](https://ja.wikipedia.org/wiki/関西大学体育会サッカー部 "wikilink")         | [ガンバ大阪](../Page/ガンバ大阪.md "wikilink")                                   |       | ガンバ大阪 (2020)\[373\]                  |
-| [上田綺世](https://ja.wikipedia.org/wiki/上田綺世 "wikilink")\[374\]                 | [法政大学](https://ja.wikipedia.org/wiki/法政大学体育会サッカー部 "wikilink")         | [鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")                             |       | 鹿島アントラーズ (2021→2019.7)\[375\]\[376\] |
-| [児玉駿斗](https://ja.wikipedia.org/wiki/児玉駿斗 "wikilink")\[377\]                 | [東海学園大学](../Page/東海学園大学.md "wikilink")                                | [名古屋グランパス](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")       |       | 名古屋グランパス (2021)\[378\]               |
-| [金子拓郎](https://ja.wikipedia.org/wiki/金子拓郎 "wikilink")\[379\]                 | [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")                 | [北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")    |       | 北海道コンサドーレ札幌 (2020)\[380\]            |
-| [若月大和](https://ja.wikipedia.org/wiki/若月大和 "wikilink")\[381\]                 | [桐生第一高校](https://ja.wikipedia.org/wiki/桐生大学附属中学校・桐生第一高等学校 "wikilink") | [湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")            |       | 湘南ベルマーレ(2020)\[382\]                 |
-| [西川潤](https://ja.wikipedia.org/wiki/西川潤_\(サッカー選手\) "wikilink")\[383\]        | [桐光学園高校](https://ja.wikipedia.org/wiki/桐光学園中学校・高等学校 "wikilink")       | [セレッソ大阪](../Page/セレッソ大阪.md "wikilink")                                 |       | セレッソ大阪(2020)\[384\]                  |
-| [紺野和也](https://ja.wikipedia.org/wiki/紺野和也 "wikilink")\[385\]                 | 法政大学                                                                  | [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")                  |       | FC東京(2020)\[386\]                    |
-| [高嶺朋樹](https://ja.wikipedia.org/wiki/高嶺朋樹 "wikilink")\[387\]                 | [筑波大学](https://ja.wikipedia.org/wiki/筑波大学蹴球部 "wikilink")              | |北海道コンサドーレ札幌                                                           |       | 北海道コンサドーレ札幌(2020)\[388\]             |
-| [三ッ田啓希](https://ja.wikipedia.org/wiki/三ッ田啓希 "wikilink")\[389\]               | [中央大学](https://ja.wikipedia.org/wiki/中央大学学友会サッカー部 "wikilink")         | |[松本山雅FC](../Page/松本山雅FC.md "wikilink")                                |       | 松本山雅FC(2020)\[390\]                  |
-| [山川哲史](https://ja.wikipedia.org/wiki/山川哲史 "wikilink")\[391\]                 | 筑波大学                                                                  | |[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")                              |       | ヴィッセル神戸(2020)\[392\]                 |
-| [三笘薫](https://ja.wikipedia.org/wiki/三笘薫 "wikilink")\[393\]                   | 筑波大学                                                                  | [川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")          |       | 川崎フロンターレ (2020)\[394\]               |
-| [旗手怜央](https://ja.wikipedia.org/wiki/旗手怜央 "wikilink")\[395\]                 | [順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学蹴球部 "wikilink")            | 川崎フロンターレ                                                               |       | 川崎フロンターレ (2020)\[396\]               |
-| [羽田健人](../Page/羽田健人.md "wikilink")\[397\]                                    | 関西大学                                                                  | |大分トリニータ                                                               |       | 大分トリニータ(2020)\[398\]                 |
-| [中塩大貴](../Page/中塩大貴.md "wikilink")\[399\]                                    | [立正大学](../Page/立正大学.md "wikilink")                                    | |[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")       |       | ヴァンフォーレ甲府(2020)\[400\]               |
-| [中村亮太朗](https://ja.wikipedia.org/wiki/中村亮太朗 "wikilink")\[401\]               | 中央大学                                                                  | |ヴァンフォーレ甲府                                                             |       | ヴァンフォーレ甲府(2020)\[402\]               |
-| [安部柊斗](https://ja.wikipedia.org/wiki/安部柊斗 "wikilink")\[403\]                 | [明治大学](https://ja.wikipedia.org/wiki/明治大学サッカー部 "wikilink")            | |FC東京                                                                  |       | FC東京(2020)\[404\]                    |
-| [高橋潤哉](https://ja.wikipedia.org/wiki/高橋潤哉 "wikilink")\[405\]                 | [駒澤大学](https://ja.wikipedia.org/wiki/駒澤大学サッカー部 "wikilink")            | [モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")          |       | モンテディオ山形(2020)\[406\]                |
-| [イサカ・ゼイン](../Page/イサカ・ゼイン.md "wikilink")\[407\]                              | [桐蔭横浜大学](https://ja.wikipedia.org/wiki/桐蔭横浜大学サッカー部 "wikilink")        | 川崎フロンターレ                                                               |       | 川崎フロンターレ(2020)\[408\]                |
-| [舘幸希](../Page/舘幸希.md "wikilink")\[409\]                                      | 日本大学                                                                  | 湘南ベルマーレ                                                                |       | 湘南ベルマーレ(2020)\[410\]                 |
-| [松尾佑介](https://ja.wikipedia.org/wiki/松尾佑介 "wikilink")\[411\]                 | [仙台大学](https://ja.wikipedia.org/wiki/仙台大学サッカー部 "wikilink")            | [横浜FC](../Page/横浜FC.md "wikilink")                                     |       | 横浜FC(2020)\[412\]                    |
-| [見木友哉](https://ja.wikipedia.org/wiki/見木友哉 "wikilink")\[413\]                 | [関東学院大学](../Page/関東学院大学.md "wikilink")                                | [ジェフユナイテッド千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink") |       | ジェフユナイテッド千葉(2020)\[414\]             |
-| [田中駿汰](https://ja.wikipedia.org/wiki/田中駿汰 "wikilink")\[415\]                 | [大阪体育大学](../Page/大阪体育大学.md "wikilink")                                | 北海道コンサドーレ札幌                                                            |       | 北海道コンサドーレ札幌(2020)\[416\]             |
-| [西村慧祐](../Page/西村慧祐.md "wikilink")\[417\]                                    | [専修大学](https://ja.wikipedia.org/wiki/専修大学体育会サッカー部 "wikilink")         | 大宮アルディージャ                                                              |       | 大宮アルディージャ(2020)\[418\]               |
-| [本村武揚](https://ja.wikipedia.org/wiki/本村武揚 "wikilink")\[419\]                 | [流通経済大学](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")        | ジェフユナイテッド千葉                                                            |       | ジェフユナイテッド千葉(2020)\[420\]             |
-| [瀬古樹](../Page/瀬古樹.md "wikilink")\[421\]                                      | 明治大学                                                                  | 横浜FC                                                                   |       | 横浜FC(2020)\[422\]                    |
-| [糸原紘史郎](https://ja.wikipedia.org/wiki/糸原紘史郎 "wikilink")\[423\]               | [びわこ成蹊スポーツ大学](../Page/びわこ成蹊スポーツ大学.md "wikilink")                      | [ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")                               |       | ガイナーレ鳥取(2020)\[424\]                 |
-| [大久保智明](https://ja.wikipedia.org/wiki/大久保智明 "wikilink")\[425\]               | 中央大学                                                                  | [浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")          |       | 浦和レッズ(2021)\[426\]                   |
-| [林大地](https://ja.wikipedia.org/wiki/林大地_\(サッカー選手\) "wikilink")\[427\]        | 大阪体育大学                                                                | [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")                |       | サガン鳥栖(2020)\[428\]                   |
-| [本塚聖也](../Page/本塚聖也.md "wikilink")\[429\]                                    | [金沢星稜大学](../Page/金沢星稜大学.md "wikilink")                                | [ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")            |       | ツエーゲン金沢(2020)\[430\]                 |
-| [オビ・パウエル・オビンナ](https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ "wikilink")\[431\] | 流通経済大学                                                                | [横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")          |       | 横浜F・マリノス(2020)\[432\]                |
-| [谷内田哲平](../Page/谷内田哲平.md "wikilink")\[433\]                                  | [帝京長岡高校](../Page/帝京長岡高等学校.md "wikilink")                              | [京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")                           |       | 京都サンガF.C.(2020)\[434\]               |
-| [中村帆高](https://ja.wikipedia.org/wiki/中村帆高 "wikilink")\[435\]                 | 明治大学                                                                  | FC東京                                                                   |       | FC東京(2020)\[436\]                    |
-| [吉田伊吹](https://ja.wikipedia.org/wiki/吉田伊吹 "wikilink")\[437\]                 | [産業能率大学](../Page/産業能率大学.md "wikilink")                                | [AC長野パルセイロ](../Page/AC長野パルセイロ.md "wikilink")                           |       | AC長野パルセイロ(2020)\[438\]               |
-| [眞鍋旭輝](../Page/眞鍋旭輝.md "wikilink")\[439\]                                    | 桐蔭横浜大学                                                                | [レノファ山口FC](../Page/レノファ山口FC.md "wikilink")                             |       | レノファ山口FC(2020)\[440\]                |
-| [松本健太](../Page/松本健太_\(サッカー選手\).md "wikilink")\[441\]                         | [東洋大学](../Page/東洋大学.md "wikilink")                                    | [柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")                |       | 柏レイソル(2020)\[442\]                   |
-| [山本悠樹](https://ja.wikipedia.org/wiki/山本悠樹 "wikilink")\[443\]                 | [関西学院大学](../Page/関西学院大学.md "wikilink")                                | ガンバ大阪                                                                  |       | ガンバ大阪(2020)\[444\]                   |
-| [忽那喬司](../Page/忽那喬司.md "wikilink")\[445\]                                    | びわこ成蹊スポーツ大学                                                           | 愛媛FC                                                                   |       | 愛媛FC(2020)\[446\]                    |
-| [田平起也](../Page/田平起也.md "wikilink")\[447\]                                    | [神戸弘陵学園高校](../Page/神戸弘陵学園高等学校.md "wikilink")                          | セレッソ大阪                                                                 |       | セレッソ大阪(2020)\[448\]                  |
-| [高安孝幸](../Page/高安孝幸.md "wikilink")\[449\]                                    | [興国高校](https://ja.wikipedia.org/wiki/興国高等学校 "wikilink")               | ツエーゲン金沢                                                                |       | ツエーゲン金沢(2020)\[450\]                 |
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>所属チーム</p></th>
+<th><p>派遣先</p></th>
+<th><p>公式戦出場</p></th>
+<th><p>進路 (加入年)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/矢村健" title="wikilink">矢村健</a>[370]</p></td>
+<td><p><a href="../Page/新潟医療福祉大学.md" title="wikilink">新潟医療福祉大学</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟.md" title="wikilink">アルビレックス新潟</a></p></td>
+<td></td>
+<td><p>アルビレックス新潟(2020)[371]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/黒川圭介" title="wikilink">黒川圭介</a>[372]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/関西大学体育会サッカー部" title="wikilink">関西大学</a></p></td>
+<td><p><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a></p></td>
+<td></td>
+<td><p>ガンバ大阪 (2020)[373]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/上田綺世" title="wikilink">上田綺世</a>[374]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/法政大学体育会サッカー部" title="wikilink">法政大学</a></p></td>
+<td><p><a href="../Page/鹿島アントラーズ.md" title="wikilink">鹿島アントラーズ</a></p></td>
+<td></td>
+<td><p>鹿島アントラーズ (2021→2019.7)[375][376]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/児玉駿斗" title="wikilink">児玉駿斗</a>[377]</p></td>
+<td><p><a href="../Page/東海学園大学.md" title="wikilink">東海学園大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/名古屋グランパスエイト" title="wikilink">名古屋グランパス</a></p></td>
+<td></td>
+<td><p>名古屋グランパス (2021)[378]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/金子拓郎" title="wikilink">金子拓郎</a>[379]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本大学" title="wikilink">日本大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌" title="wikilink">北海道コンサドーレ札幌</a></p></td>
+<td></td>
+<td><p>北海道コンサドーレ札幌 (2020)[380]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/若月大和" title="wikilink">若月大和</a>[381]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桐生大学附属中学校・桐生第一高等学校" title="wikilink">桐生第一高校</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
+<td></td>
+<td><p>湘南ベルマーレ(2020)[382]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/西川潤_(サッカー選手)" title="wikilink">西川潤</a>[383]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桐光学園中学校・高等学校" title="wikilink">桐光学園高校</a></p></td>
+<td><p><a href="../Page/セレッソ大阪.md" title="wikilink">セレッソ大阪</a></p></td>
+<td></td>
+<td><p>セレッソ大阪(2020)[384]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/紺野和也" title="wikilink">紺野和也</a>[385]</p></td>
+<td><p>法政大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC東京" title="wikilink">FC東京</a></p></td>
+<td></td>
+<td><p>FC東京(2020)[386]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/高嶺朋樹" title="wikilink">高嶺朋樹</a>[387]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/筑波大学蹴球部" title="wikilink">筑波大学</a></p></td>
+<td><p>|北海道コンサドーレ札幌</p></td>
+<td></td>
+<td><p>北海道コンサドーレ札幌(2020)[388]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三ッ田啓希" title="wikilink">三ッ田啓希</a>[389]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中央大学学友会サッカー部" title="wikilink">中央大学</a></p></td>
+<td><p>|<a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
+<td></td>
+<td><p>松本山雅FC(2020)[390]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山川哲史" title="wikilink">山川哲史</a>[391]</p></td>
+<td><p>筑波大学</p></td>
+<td><p>|<a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
+<td></td>
+<td><p>ヴィッセル神戸(2020)[392]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/三笘薫" title="wikilink">三笘薫</a>[393]</p></td>
+<td><p>筑波大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a></p></td>
+<td></td>
+<td><p>川崎フロンターレ (2020)[394]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/旗手怜央" title="wikilink">旗手怜央</a>[395]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/順天堂大学蹴球部" title="wikilink">順天堂大学</a></p></td>
+<td><p>川崎フロンターレ</p></td>
+<td></td>
+<td><p>川崎フロンターレ (2020)[396]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/羽田健人.md" title="wikilink">羽田健人</a>[397]</p></td>
+<td><p>関西大学</p></td>
+<td><p>|大分トリニータ</p></td>
+<td><p>J1:1試合0点</p></td>
+<td><p>大分トリニータ(2020)[398]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/中塩大貴.md" title="wikilink">中塩大貴</a>[399]</p></td>
+<td><p><a href="../Page/立正大学.md" title="wikilink">立正大学</a></p></td>
+<td><p>|<a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">ヴァンフォーレ甲府</a></p></td>
+<td></td>
+<td><p>ヴァンフォーレ甲府(2020)[400]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/中村亮太朗.md" title="wikilink">中村亮太朗</a>[401]</p></td>
+<td><p>中央大学</p></td>
+<td><p>|ヴァンフォーレ甲府</p></td>
+<td></td>
+<td><p>ヴァンフォーレ甲府(2020)[402]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/安部柊斗" title="wikilink">安部柊斗</a>[403]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/明治大学サッカー部" title="wikilink">明治大学</a></p></td>
+<td><p>|FC東京</p></td>
+<td><p>J1:1試合0点<br />
+ルヴァン:1試合0点</p></td>
+<td><p>FC東京(2020)[404]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/高橋潤哉.md" title="wikilink">高橋潤哉</a>[405]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学サッカー部" title="wikilink">駒澤大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
+<td></td>
+<td><p>モンテディオ山形(2020)[406]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/イサカ・ゼイン.md" title="wikilink">イサカ・ゼイン</a>[407]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桐蔭横浜大学サッカー部" title="wikilink">桐蔭横浜大学</a></p></td>
+<td><p>川崎フロンターレ</p></td>
+<td></td>
+<td><p>川崎フロンターレ(2020)[408]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/舘幸希.md" title="wikilink">舘幸希</a>[409]</p></td>
+<td><p>日本大学</p></td>
+<td><p>湘南ベルマーレ</p></td>
+<td></td>
+<td><p>湘南ベルマーレ(2020)[410]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/松尾佑介" title="wikilink">松尾佑介</a>[411]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
+<td><p><a href="../Page/横浜FC.md" title="wikilink">横浜FC</a></p></td>
+<td><p>J2:21試合6得点</p></td>
+<td><p>横浜FC(2020)[412]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/見木友哉" title="wikilink">見木友哉</a>[413]</p></td>
+<td><p><a href="../Page/関東学院大学.md" title="wikilink">関東学院大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉" title="wikilink">ジェフユナイテッド千葉</a></p></td>
+<td></td>
+<td><p>ジェフユナイテッド千葉(2020)[414]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/田中駿汰" title="wikilink">田中駿汰</a>[415]</p></td>
+<td><p><a href="../Page/大阪体育大学.md" title="wikilink">大阪体育大学</a></p></td>
+<td><p>北海道コンサドーレ札幌</p></td>
+<td></td>
+<td><p>北海道コンサドーレ札幌(2020)[416]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/西村慧祐.md" title="wikilink">西村慧祐</a>[417]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/専修大学体育会サッカー部" title="wikilink">専修大学</a></p></td>
+<td><p>大宮アルディージャ</p></td>
+<td></td>
+<td><p>大宮アルディージャ(2020)[418]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/本村武揚" title="wikilink">本村武揚</a>[419]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部" title="wikilink">流通経済大学</a></p></td>
+<td><p>ジェフユナイテッド千葉</p></td>
+<td></td>
+<td><p>ジェフユナイテッド千葉(2020)[420]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/瀬古樹.md" title="wikilink">瀬古樹</a>[421]</p></td>
+<td><p>明治大学</p></td>
+<td><p>横浜FC</p></td>
+<td></td>
+<td><p>横浜FC(2020)[422]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/糸原紘史郎" title="wikilink">糸原紘史郎</a>[423]</p></td>
+<td><p><a href="../Page/びわこ成蹊スポーツ大学.md" title="wikilink">びわこ成蹊スポーツ大学</a></p></td>
+<td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">ガイナーレ鳥取</a></p></td>
+<td></td>
+<td><p>ガイナーレ鳥取(2020)[424]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/大久保智明" title="wikilink">大久保智明</a>[425]</p></td>
+<td><p>中央大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ" title="wikilink">浦和レッズ</a></p></td>
+<td></td>
+<td><p>浦和レッズ(2021)[426]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/林大地_(サッカー選手)" title="wikilink">林大地</a>[427]</p></td>
+<td><p>大阪体育大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガン鳥栖" title="wikilink">サガン鳥栖</a></p></td>
+<td></td>
+<td><p>サガン鳥栖(2020)[428]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/本塚聖也.md" title="wikilink">本塚聖也</a>[429]</p></td>
+<td><p><a href="../Page/金沢星稜大学.md" title="wikilink">金沢星稜大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">ツエーゲン金沢</a></p></td>
+<td></td>
+<td><p>ツエーゲン金沢(2020)[430]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/オビ・パウエル・オビンナ" title="wikilink">オビ・パウエル・オビンナ</a>[431]</p></td>
+<td><p>流通経済大学</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス</a></p></td>
+<td></td>
+<td><p>横浜F・マリノス(2020)[432]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/谷内田哲平.md" title="wikilink">谷内田哲平</a>[433]</p></td>
+<td><p><a href="../Page/帝京長岡高等学校.md" title="wikilink">帝京長岡高校</a></p></td>
+<td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都サンガF.C.</a></p></td>
+<td></td>
+<td><p>京都サンガF.C.(2020)[434]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/中村帆高" title="wikilink">中村帆高</a>[435]</p></td>
+<td><p>明治大学</p></td>
+<td><p>FC東京</p></td>
+<td></td>
+<td><p>FC東京(2020)[436]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/吉田伊吹" title="wikilink">吉田伊吹</a>[437]</p></td>
+<td><p><a href="../Page/産業能率大学.md" title="wikilink">産業能率大学</a></p></td>
+<td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a></p></td>
+<td></td>
+<td><p>AC長野パルセイロ(2020)[438]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/眞鍋旭輝.md" title="wikilink">眞鍋旭輝</a>[439]</p></td>
+<td><p>桐蔭横浜大学</p></td>
+<td><p><a href="../Page/レノファ山口FC.md" title="wikilink">レノファ山口FC</a></p></td>
+<td></td>
+<td><p>レノファ山口FC(2020)[440]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/松本健太_(サッカー選手).md" title="wikilink">松本健太</a>[441]</p></td>
+<td><p><a href="../Page/東洋大学.md" title="wikilink">東洋大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
+<td></td>
+<td><p>柏レイソル(2020)[442]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山本悠樹" title="wikilink">山本悠樹</a>[443]</p></td>
+<td><p><a href="../Page/関西学院大学.md" title="wikilink">関西学院大学</a></p></td>
+<td><p>ガンバ大阪</p></td>
+<td></td>
+<td><p>ガンバ大阪(2020)[444]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/忽那喬司.md" title="wikilink">忽那喬司</a>[445]</p></td>
+<td><p>びわこ成蹊スポーツ大学</p></td>
+<td><p>愛媛FC</p></td>
+<td></td>
+<td><p>愛媛FC(2020)[446]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/田平起也.md" title="wikilink">田平起也</a>[447]</p></td>
+<td><p><a href="../Page/神戸弘陵学園高等学校.md" title="wikilink">神戸弘陵学園高校</a></p></td>
+<td><p>セレッソ大阪</p></td>
+<td></td>
+<td><p>セレッソ大阪(2020)[448]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/高安孝幸.md" title="wikilink">高安孝幸</a>[449]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/興国高等学校" title="wikilink">興国高校</a></p></td>
+<td><p>ツエーゲン金沢</p></td>
+<td></td>
+<td><p>ツエーゲン金沢(2020)[450]</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 2020年
 
@@ -2145,6 +2397,12 @@
 | [井上健太](https://ja.wikipedia.org/wiki/井上健太 "wikilink")\[455\]            | [福岡大学](https://ja.wikipedia.org/wiki/福岡大学サッカー部 "wikilink")      | [大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")         |       | 大分トリニータ(2021)\[456\]     |
 | [松本大輔](https://ja.wikipedia.org/wiki/松本大輔_\(サッカー選手\) "wikilink")\[457\] | [中央大学](https://ja.wikipedia.org/wiki/中央大学学友会サッカー部 "wikilink")   | [サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")             |       | サガン鳥栖(2021)\[458\]       |
 | [深澤大輝](https://ja.wikipedia.org/wiki/深澤大輝 "wikilink")\[459\]            | 中央大学                                                            | [東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")     |       | 東京ヴェルディ(2021)\[460\]     |
+| [樺山諒乃介](https://ja.wikipedia.org/wiki/樺山諒乃介 "wikilink")\[461\]          | [興國高校](../Page/興國高等学校.md "wikilink")                            | [横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")       |       | 横浜F・マリノス(2021)\[462\]    |
+| [田川知樹](https://ja.wikipedia.org/wiki/田川知樹 "wikilink")\[463\]            | 興國高校                                                            | 横浜F・マリノス                                                            |       | 横浜F・マリノス(2021)\[464\]    |
+| [真瀬拓海](https://ja.wikipedia.org/wiki/真瀬拓海 "wikilink")\[465\]            | [阪南大学](https://ja.wikipedia.org/wiki/阪南大学サッカー部 "wikilink")      | [ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")                              |       | ベガルタ仙台(2021)\[466\]      |
+| [青木義孝](https://ja.wikipedia.org/wiki/青木義孝 "wikilink")\[467\]            | [拓殖大学](../Page/拓殖大学.md "wikilink")                              | [FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")       |       | FC町田ゼルビア(2021)\[468\]    |
+| [アピアタウィア久](https://ja.wikipedia.org/wiki/アピアタウィア久 "wikilink")\[469\]    | [流通経済大学](https://ja.wikipedia.org/wiki/流通経済大学サッカー部 "wikilink")  | ベガルタ仙台                                                              |       | ベガルタ仙台(2021)\[470\]      |
+| [大久保智明](https://ja.wikipedia.org/wiki/大久保智明 "wikilink")\[471\]          | 中央大学                                                            | [浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")       |       | 浦和レッズ(2021)\[472\]       |
 
 ## 脚注
 
@@ -2610,3 +2868,15 @@
 458.
 459.
 460.
+461.
+462.
+463.
+464.
+465.
+466.
+467.
+468.
+469.
+470.
+471.
+472.

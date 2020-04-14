@@ -1,4 +1,4 @@
-> この記事は[TIME](https://ja.wikipedia.org/wiki/TIME)から翻訳されています。
+> この記事は[卒業TIME〜僕らのはじまり〜](https://ja.wikipedia.org/wiki/卒業TIME〜僕らのはじまり〜)から翻訳されています。
 
 
 『**卒業TIME〜僕らのはじまり〜**』（そつぎょうタイム・ぼくらのはじまり）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[A\&M RECORDSから発売した](../Page/A&Mレコード.md "wikilink")1枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

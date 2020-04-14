@@ -1,4 +1,4 @@
-> この記事は[Carrara \(\)](https://ja.wikipedia.org/wiki/Carrara_\(\))から翻訳されています。
+> この記事は[Carrara \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Carrara_\(ソフトウェア\))から翻訳されています。
 
 
 **Carrara（カラーラ）**は、[DAZ Productions社が所有し開発をしている統合型](https://ja.wikipedia.org/wiki/DAZ_Productions "wikilink")[3DCGソフトウェア](https://ja.wikipedia.org/wiki/3DCGソフトウェア "wikilink")である。[RayDream](https://ja.wikipedia.org/wiki/RayDream "wikilink")と[Infini-D](https://ja.wikipedia.org/wiki/Infini-D "wikilink")の両3DCGソフトウェア後継製品と位置付けられ、当初[MetaCreations](https://ja.wikipedia.org/wiki/MetaCreations "wikilink")社によって開発・販売された後に同社から分離独立した[Eovia](https://ja.wikipedia.org/wiki/Eovia "wikilink")社に移ったが、DAZ Productions社によるEovia社買収のため現在の体制に至る。日本語版の[ローカライズおよび販売元は](../Page/国際化と地域化.md "wikilink")[イーフロンティア](../Page/イーフロンティア.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GTX](https://ja.wikipedia.org/wiki/GTX)から翻訳されています。
+> この記事は[プリムス・GTX](https://ja.wikipedia.org/wiki/プリムス・GTX)から翻訳されています。
 
 
 **プリムス・GTX**は、「紳士のマッスル・カー」とするために開発された車である。

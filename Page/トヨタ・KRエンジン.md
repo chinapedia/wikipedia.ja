@@ -1,4 +1,4 @@
-> この記事は[KR](https://ja.wikipedia.org/wiki/KR)から翻訳されています。
+> この記事は[トヨタ・KRエンジン](https://ja.wikipedia.org/wiki/トヨタ・KRエンジン)から翻訳されています。
 
 
 **トヨタ・KRエンジン**、および**ダイハツ・KR型エンジン**（ケイアールがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、並びに[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")、[SUBARU](../Page/SUBARU.md "wikilink")（旧・富士重工業、以下スバル）、[プロドゥア](../Page/プロドゥア.md "wikilink")等の[水冷](../Page/水冷エンジン.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。 トヨタ名義のエンジンとしては史上初の直列3気筒エンジンとなる\[1\]。

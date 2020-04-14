@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[GO!GO!ワイド](https://ja.wikipedia.org/wiki/GO!GO!ワイド)から翻訳されています。
 
 
 **GO\!GO\!ワイド**（ゴーゴーワイド）は、(日本時間)平日13:00　-　16:20　に[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")ラジオで放送されている平日昼のワイド番組。TBSラジオ「[ラジオクラウド](https://ja.wikipedia.org/wiki/ラジオクラウド "wikilink")」にて一部コーナーを配信している。
@@ -34,7 +34,7 @@
 
 ## 放送時間
 
-  - [月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 13:00 - 16:10
+  - [月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 13:00 - 16:20
 
 ## タイムテーブル
 

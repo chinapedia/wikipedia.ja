@@ -1,4 +1,4 @@
-> この記事は[AG](https://ja.wikipedia.org/wiki/AG)から翻訳されています。
+> この記事は[AGスクエア](https://ja.wikipedia.org/wiki/AGスクエア)から翻訳されています。
 
 
 **株式会社AGスクエア**（エイ・ジー・スクエア）は、[セガサミーホールディングス](../Page/セガサミーホールディングス.md "wikilink")傘下で郊外型[アミューズメント施設の管理](../Page/ゲームセンター.md "wikilink")・運営を行っていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。株式会社セガ（後の株式会社[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の100%子会社。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[スーパーC](https://ja.wikipedia.org/wiki/スーパーC)から翻訳されています。
 
 
 **スーパーC**は[アッチソン・トピカ・アンド・サンタフェ鉄道](../Page/アッチソン・トピカ・アンド・サンタフェ鉄道.md "wikilink")(ATSF)で活躍していた高速[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")の名称。[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")と[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")を40時間で結んだ。Cはカーゴ(Cargo)のCと同社の高速[旅客列車](../Page/旅客列車.md "wikilink")のスーパーチーフのチーフ(Chief)のCにちなんでつけられた。

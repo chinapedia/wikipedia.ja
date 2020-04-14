@@ -1,4 +1,4 @@
-> この記事は[Ya-Ya-yah!](https://ja.wikipedia.org/wiki/Ya-Ya-yah!)から翻訳されています。
+> この記事は[Ya-Ya-yahがやってくる!](https://ja.wikipedia.org/wiki/Ya-Ya-yahがやってくる!)から翻訳されています。
 
 
 『**Ya-Ya-yahがやってくる\!**』（ヤーヤーヤーがやってくる\!）は、少女漫画雑誌「[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")」（[集英社](../Page/集英社.md "wikilink")）で[2005年](../Page/2005年.md "wikilink")8月号から[2006年](../Page/2006年.md "wikilink")5月号まで連載された[北沢薫](../Page/北沢薫.md "wikilink")の漫画作品。[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")とのタイアップ作。

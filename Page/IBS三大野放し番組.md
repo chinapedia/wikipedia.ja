@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBS三大野放し番組](https://ja.wikipedia.org/wiki/IBS三大野放し番組)から翻訳されています。
 
 
 。

@@ -1,7 +1,9 @@
-> この記事は[AICJ](https://ja.wikipedia.org/wiki/AICJ)から翻訳されています。
+> この記事は[AICJ中学校・高等学校](https://ja.wikipedia.org/wiki/AICJ中学校・高等学校)から翻訳されています。
 
 
-**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")に[2006年](../Page/2006年.md "wikilink")に開校した[私立の](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")である。[国際バカロレア](../Page/国際バカロレア.md "wikilink")認定校。
+**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")にある[私立](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")。
+
+[国際バカロレア](../Page/国際バカロレア.md "wikilink")認定校。
 
 ## 概要
 
@@ -12,20 +14,6 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 生徒数は中高6学年で約700名で、寮生は60名程度。
 
 学校の運営は広島で「鴎州塾」を展開する[鴎州コーポレーション](../Page/鴎州コーポレーション.md "wikilink")傘下の「学校法人AICJ鴎州学園」が行っている。 理事長は薗部明史。顧問は[竹村健一](../Page/竹村健一.md "wikilink")。
-
-## コース
-
-≪中学≫
-
-  - 東医Hコース
-  - 早慶/国立大コース
-
-≪高校≫
-
-  - 東医Hコース
-  - 早慶/国立大コース
-  - IB（国際バカロレア）ディプロマコース
-  - Auckland International College
 
 ## 特徴
 
@@ -68,10 +56,23 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
   - [AIC高校ニュージーランド校](https://ja.wikipedia.org/wiki/:en:Auckland_International_College "wikilink")
 
+## コース
+
+≪中学≫
+
+  - 東医Hコース
+  - 早慶/国立大コース
+
+≪高校≫
+
+  - 東医Hコース
+  - 早慶/国立大コース
+  - IB（国際バカロレア）ディプロマコース
+  - Auckland International College
+
 ## 主な出身者
 
-  - [安宅晃樹](https://ja.wikipedia.org/wiki/安宅晃樹 "wikilink") - [フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビアナウンサー "wikilink")
-  - [寺本莉緒](https://ja.wikipedia.org/wiki/寺本莉緒 "wikilink")(中退) - [女優](https://ja.wikipedia.org/wiki/女優 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")
+  - [安宅晃樹](https://ja.wikipedia.org/wiki/安宅晃樹 "wikilink") - [フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビのアナウンサー一覧 "wikilink")
 
 ## 脚注
 

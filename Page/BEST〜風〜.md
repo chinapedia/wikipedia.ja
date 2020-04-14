@@ -1,4 +1,4 @@
-> この記事は[BEST](https://ja.wikipedia.org/wiki/BEST)から翻訳されています。
+> この記事は[BEST〜風〜](https://ja.wikipedia.org/wiki/BEST〜風〜)から翻訳されています。
 
 
 『**BEST〜風〜**』（ベスト・かぜ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。2枚組。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブレントフォードFC](https://ja.wikipedia.org/wiki/ブレントフォードFC)から翻訳されています。
 
 
 **ブレントフォードFC** (Brentford Football Club) は、[ロンドン](../Page/ロンドン.md "wikilink")の[ハウンズロー地区](https://ja.wikipedia.org/wiki/ハウンズロー・ロンドン特別区 "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")を本拠地とするサッカークラブ。
@@ -258,7 +258,7 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")現在\[10\]
+  - [2020年](../Page/2020年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")現在\[10\]
 
 <!-- end list -->
 

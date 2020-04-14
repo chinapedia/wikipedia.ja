@@ -1,4 +1,4 @@
-> この記事は[ERI](https://ja.wikipedia.org/wiki/ERI)から翻訳されています。
+> この記事は[ERIホールディングス](https://ja.wikipedia.org/wiki/ERIホールディングス)から翻訳されています。
 
 
 **ERIホールディングス株式会社**は検査機関として唯一[株式市場](https://ja.wikipedia.org/wiki/株式市場 "wikilink")に上場している企業である。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部に上場。設立は1999年。[持株会社](../Page/持株会社.md "wikilink")制をとっており、子会社の**日本ERI株式会社**（にっぽんイーアールアイ）が[建築確認・検査機関として営業する企業である](../Page/指定確認検査機関.md "wikilink")。

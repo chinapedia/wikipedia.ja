@@ -1,4 +1,4 @@
-> この記事は[ \(UNICORN\)](https://ja.wikipedia.org/wiki/_\(UNICORN\))から翻訳されています。
+> この記事は[ハヴァナイスデー \(UNICORNのアルバム\)](https://ja.wikipedia.org/wiki/ハヴァナイスデー_\(UNICORNのアルバム\))から翻訳されています。
 
 
 『**ハヴァナイスデー**』 (Have A Nice Day) は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[UNICORN](../Page/UNICORN.md "wikilink")のミニアルバム（公式には6枚目のアルバムとしてカウントされている）。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

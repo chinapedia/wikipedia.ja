@@ -1,4 +1,4 @@
-> この記事は[FG](https://ja.wikipedia.org/wiki/FG)から翻訳されています。
+> この記事は[や座FG星](https://ja.wikipedia.org/wiki/や座FG星)から翻訳されています。
 
 
 **や座FG星**（やざえふじーせい）は[や座](../Page/や座.md "wikilink")にある[変光星](../Page/変光星.md "wikilink")で、学名はFG Sagittae（略称はFG Sge）。

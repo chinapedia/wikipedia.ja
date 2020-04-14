@@ -1,4 +1,4 @@
-> この記事は[ GYNOIDS-SADSTORY-](https://ja.wikipedia.org/wiki/_GYNOIDS-SADSTORY-)から翻訳されています。
+> この記事は[ガイノイド GYNOIDS-SADSTORY-](https://ja.wikipedia.org/wiki/ガイノイド_GYNOIDS-SADSTORY-)から翻訳されています。
 
 
 『**ガイノイド GYNOIDS-SADSTORY-**』（ガイノイド サッドストーリー）は2005年3月25日に発売された、日本の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[特撮](../Page/特撮.md "wikilink")オリジナルDVDドラマ。1話約45分、全2話完結の2部作。

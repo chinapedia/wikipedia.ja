@@ -1,4 +1,4 @@
-> この記事は[JBS](https://ja.wikipedia.org/wiki/JBS)から翻訳されています。
+> この記事は[J・B・S・ホールデン](https://ja.wikipedia.org/wiki/J・B・S・ホールデン)から翻訳されています。
 
 
 **ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](../Page/ロナルド・フィッシャー.md "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、[酵素](../Page/酵素.md "wikilink")[反応速度論](../Page/反応速度論.md "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](../Page/トランスヒューマニズム.md "wikilink")の先駆者とされ\[2\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[3\]。

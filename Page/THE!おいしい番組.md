@@ -1,4 +1,4 @@
-> この記事は[THE!](https://ja.wikipedia.org/wiki/THE!)から翻訳されています。
+> この記事は[THE!おいしい番組](https://ja.wikipedia.org/wiki/THE!おいしい番組)から翻訳されています。
 
 
 『**THE\!おいしい番組**』（ザ おいしいばんぐみ）は、2000年4月12日から2001年3月14日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[料理](../Page/料理番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ハウフルス](../Page/ハウフルス.md "wikilink")と[毎日放送の共同製作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。全36回。放送時間は毎週水曜 19:00 - 19:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

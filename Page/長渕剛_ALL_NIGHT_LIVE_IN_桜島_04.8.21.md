@@ -1,4 +1,4 @@
-> この記事は[ ALL NIGHT LIVE IN  04.8.21](https://ja.wikipedia.org/wiki/_ALL_NIGHT_LIVE_IN__04.8.21)から翻訳されています。
+> この記事は[長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21](https://ja.wikipedia.org/wiki/長渕剛_ALL_NIGHT_LIVE_IN_桜島_04.8.21)から翻訳されています。
 
 
 『**長渕剛 ALL NIGHT LIVE IN 桜島 04.8.21**』（ながぶちつよし・オール・ナイト・ライブ・イン・さくらじま-）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。

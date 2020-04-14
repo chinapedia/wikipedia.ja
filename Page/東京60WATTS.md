@@ -1,4 +1,4 @@
-> この記事は[60WATTS](https://ja.wikipedia.org/wiki/60WATTS)から翻訳されています。
+> この記事は[東京60WATTS](https://ja.wikipedia.org/wiki/東京60WATTS)から翻訳されています。
 
 
 **東京60WATTS**（とうきょうろくじゅうワッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")グループ。 1999年ごろ、[立教大学](../Page/立教大学.md "wikilink")の音楽サークルで知り合った大川、杉浦、佃を中心に結成。 [2004年](../Page/2004年.md "wikilink")に「外は寒いから/ふわふわ」で[東芝EMIからメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シドニーFC](https://ja.wikipedia.org/wiki/シドニーFC)から翻訳されています。
 
 
 **シドニー・フットボール・クラブ**（[英語](../Page/英語.md "wikilink")：Sydney Football Club）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の南東部、[ニューサウスウェールズ州](../Page/ニューサウスウェールズ州.md "wikilink")の州都[シドニー](../Page/シドニー.md "wikilink")をホームタウンとする、オーストラリアプロサッカーリーグ（[Aリーグ](../Page/Aリーグ.md "wikilink")）に加盟するプロサッカークラブ。

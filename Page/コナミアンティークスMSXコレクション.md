@@ -1,4 +1,4 @@
-> この記事は[MSX](https://ja.wikipedia.org/wiki/MSX)から翻訳されています。
+> この記事は[コナミアンティークスMSXコレクション](https://ja.wikipedia.org/wiki/コナミアンティークスMSXコレクション)から翻訳されています。
 
 
 『**コナミアンティークスMSXコレクション**』は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から発売されたオムニバス形式のゲームソフトシリーズである。

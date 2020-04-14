@@ -1,4 +1,4 @@
-> この記事は[KNB](https://ja.wikipedia.org/wiki/KNB)から翻訳されています。
+> この記事は[KNBニュース](https://ja.wikipedia.org/wiki/KNBニュース)から翻訳されています。
 
 
 『**KNBニュース**』（ケイエヌビーニュース）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）のテレビ・ラジオで放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組である（テレビ放送での表記は**KNB NEWS**）。
@@ -16,9 +16,8 @@
 <!-- end list -->
 
   - 11:39 - 11:45
-  - 15:50 - 15:55
 
-<!-- end list -->
+2020年3月までは、15:50 - 15:55の枠でも放送されていた。
 
   - 土曜
 

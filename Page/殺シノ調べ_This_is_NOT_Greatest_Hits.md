@@ -1,4 +1,4 @@
-> この記事は[ This is NOT Greatest Hits](https://ja.wikipedia.org/wiki/_This_is_NOT_Greatest_Hits)から翻訳されています。
+> この記事は[殺シノ調べ This is NOT Greatest Hits](https://ja.wikipedia.org/wiki/殺シノ調べ_This_is_NOT_Greatest_Hits)から翻訳されています。
 
 
 『**殺シノ調べ This is NOT Greatest Hits**』（ころシノしらべ ディス・イズ・ノット・グレイテスト・ヒッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の[セルフカバー](../Page/カバー.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")\[1\]。[1992年](../Page/1992年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に[ビクター音楽産業の](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
@@ -10,7 +10,7 @@
   - シングル「M・A・D」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「[ANGELIC CONVERSATION](../Page/TABOO_\(アルバム\).md "wikilink")」を再録音し、その完成度にメンバーが予想以上の手応えを感じたことが本作制作の切っ掛けとなった\[3\]。
   - タイトルの「殺シノ調ベ」とは[インディーズ](../Page/インディーズ.md "wikilink")時代のアルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』のサブタイトルでもある。
   - 本作リリース以降のライブでは本作収録曲が演奏される場合、いわゆる「殺シノ調ベVer.」であることが殆どだが、「[LOVE ME](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")」は旧バージョンでも演奏されている。
-  - ジャケットに使われている建物は、埼玉県にある[東野高等学校](https://ja.wikipedia.org/wiki/東野高等学校 "wikilink")の大講堂である。
+  - ジャケットに使われている建物は、埼玉県にある[東野高等学校](https://ja.wikipedia.org/wiki/東野高等学校 "wikilink")の大講堂である。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
   - レコーディング時間は約1217時間に及ぶ\[4\]。
   - 今井寿はレコーディングで15本のギターを使用した\[5\]。
 

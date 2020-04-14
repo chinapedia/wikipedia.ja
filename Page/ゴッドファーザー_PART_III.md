@@ -1,4 +1,4 @@
-> この記事は[ PART III](https://ja.wikipedia.org/wiki/_PART_III)から翻訳されています。
+> この記事は[ゴッドファーザー PART III](https://ja.wikipedia.org/wiki/ゴッドファーザー_PART_III)から翻訳されています。
 
 
 『**ゴッドファーザー PART III**』（ゴッドファーザー パート スリー、原題: *The Godfather Part III*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に公開された[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。監督は[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")。前作より16年を経て製作された。

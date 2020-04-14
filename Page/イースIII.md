@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[イースIII](https://ja.wikipedia.org/wiki/イースIII)から翻訳されています。
 
 
 『**イースIII**』（イーススリー、Ys-III）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、[イースシリーズ](../Page/イースシリーズ.md "wikilink")の第3作目。
@@ -40,11 +40,11 @@ PC88オリジナル版スタッフ
   - ゲームデザイン：[橋本昌哉](../Page/橋本昌哉.md "wikilink")
   - プログラミング：[橋本昌哉](../Page/橋本昌哉.md "wikilink")
   - シナリオ：[宮崎友好](../Page/宮崎友好.md "wikilink")
-  - グラフィックデザイン：[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")・[松室剛](https://ja.wikipedia.org/wiki/松室剛 "wikilink")・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")
-  - モンスターデザイン:[佐藤善美](https://ja.wikipedia.org/wiki/佐藤善美 "wikilink")・[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")・[松室剛](https://ja.wikipedia.org/wiki/松室剛 "wikilink")
+  - グラフィックデザイン：[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")
+  - モンスターデザイン:[佐藤善美](https://ja.wikipedia.org/wiki/佐藤善美 "wikilink")
   - ミュージックコンポーズ：[石川三恵子](../Page/石川三恵子.md "wikilink")
-  - マップデザイン：[桶谷正剛](https://ja.wikipedia.org/wiki/桶谷正剛 "wikilink")・[倉田佳彦](https://ja.wikipedia.org/wiki/倉田佳彦 "wikilink")・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")
-  - ビジュアル・グラフィック：[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")・[松室剛](https://ja.wikipedia.org/wiki/松室剛 "wikilink")
+  - マップデザイン：[桶谷正剛](https://ja.wikipedia.org/wiki/桶谷正剛 "wikilink")・[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")
+  - ビジュアル・グラフィック：[横田幸次](https://ja.wikipedia.org/wiki/横田幸次 "wikilink")
   - プロデュース：[加藤正幸](https://ja.wikipedia.org/wiki/加藤正幸 "wikilink")
 
 ### PCE版
@@ -128,7 +128,7 @@ PC88オリジナル版スタッフ
 
 #### 主な開発スタッフ
 
-タイトー、アクセス
+[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")、[アクセス](https://ja.wikipedia.org/wiki/アクセス_\(ゲーム会社\) "wikilink")
 
   - エグゼクティブプロデューサー：西垣保男 / 下高重雄
   - プロデューサー：神村武

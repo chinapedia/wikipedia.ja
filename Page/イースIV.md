@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[イースIV](https://ja.wikipedia.org/wiki/イースIV)から翻訳されています。
 
 
 『**イースIV**』（イース4、Ys IV）では、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG) 、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第4作目となる[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")とその派生作品を総合的に扱う。〈イースシリーズ〉の全体像や『IV』各作品の詳細については、「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」・「[イースIV MASK OF THE SUN](../Page/イースIV_MASK_OF_THE_SUN.md "wikilink")」・「[イースIV The Dawn of Ys](../Page/イースIV_The_Dawn_of_Ys.md "wikilink")」・「[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink")」・「[イース セルセタの樹海](https://ja.wikipedia.org/wiki/イース_セルセタの樹海 "wikilink")」の各項を参照。

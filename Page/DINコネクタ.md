@@ -1,4 +1,4 @@
-> この記事は[DIN](https://ja.wikipedia.org/wiki/DIN)から翻訳されています。
+> この記事は[DINコネクタ](https://ja.wikipedia.org/wiki/DINコネクタ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:DIN_Keyboard_Connector.jpg "wikilink") **DINコネクタ**（ダインコネクタ、あるいは、ディンコネクタ）とはドイツ工業品標準規格 ([DIN](../Page/ドイツ工業規格.md "wikilink")) により規格化された[コネクタ](../Page/コネクタ.md "wikilink")一般のことで、[丸形コネクタを指すことが多いが](https://ja.wikipedia.org/wiki/#丸形コネクタ "wikilink")、[VMEバス](../Page/VMEバス.md "wikilink")のような電子基板同士を接続する[ツーピースコネクタもある](https://ja.wikipedia.org/wiki/#ツーピースコネクタ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジョン・W・クリスティー](https://ja.wikipedia.org/wiki/ジョン・W・クリスティー)から翻訳されています。
 
 
 [John_Walter_Christie_195_circa.jpg](https://ja.wikipedia.org/wiki/File:John_Walter_Christie_195_circa.jpg "fig:John_Walter_Christie_195_circa.jpg") **ジョン・ウォルター・クリスティー**（John Walter Christie、[1865年](../Page/1865年.md "wikilink")5月6日 - [1944年](../Page/1944年.md "wikilink")1月11日）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のエンジニア、発明家である。

@@ -1,4 +1,4 @@
-> この記事は[ LEGEND OF DAIKU-MARYU](https://ja.wikipedia.org/wiki/_LEGEND_OF_DAIKU-MARYU)から翻訳されています。
+> この記事は[ガイキング LEGEND OF DAIKU-MARYU](https://ja.wikipedia.org/wiki/ガイキング_LEGEND_OF_DAIKU-MARYU)から翻訳されています。
 
 
 『**ガイキング LEGEND OF DAIKU-MARYU**』（ガイキング レジェンド オブ ダイクウマリュウ）は、[2005年](../Page/2005年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")において放送された[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。「**ガイキングL.O.D.**」や「**ガイキングLOD**」等（いずれも発音は「**ガイキング エル・オー・ディー**」）と略称される。制作は[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。2006年4月からは[BS朝日などで放送開始](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（詳細なデータは[別項を参照の事](https://ja.wikipedia.org/wiki/#放送局 "wikilink")）。
@@ -1281,11 +1281,7 @@
 
 ## 脚注
 
-<div class="references-small">
-
 <references />
-
-</div>
 
 ## 関連項目
 

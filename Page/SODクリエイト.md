@@ -1,4 +1,4 @@
-> この記事は[SOD](https://ja.wikipedia.org/wiki/SOD)から翻訳されています。
+> この記事は[SODクリエイト](https://ja.wikipedia.org/wiki/SODクリエイト)から翻訳されています。
 
 
 **SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当する[ソフト・オン・デマンド株式会社](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド株式会社 "wikilink")と直接的な資本関係は無い。
@@ -33,16 +33,17 @@
 
   - SOD(2005.1 - )
   - SENZ(2005.4 - )
-  - SODstar(2007.5 - )
-  - 本物人妻（旦那に内緒でAV体験）(2013.7 - )
+  - SODstar(2007.5 - )\[3\]
+  - 本物人妻（旦那に内緒でAV体験）(2013.7 - )\[4\]
   - MM号(2014.6 - )
   - 本職(2015.6 - )
   - SOD女子社員(2015.6 - )
-  - 青春時代(2015.12 - )
+  - 青春時代(2015.12 - )\[5\]
   - [GIRL'S CH](https://ja.wikipedia.org/wiki/GIRL'S_CH "wikilink")（女性向けAV）（2015.12-）
   - 青春時代ぷらす(2016.12 - )
   - エントリー(2017.5 -)
-  - [キミホレ](../Page/キミホレ.md "wikilink")(2017.6 -)
+  - [キミホレ](../Page/キミホレ.md "wikilink")(2017.6 -)\[6\]
+  - Ms.SOD（2019/12/12 -）
 
 ### 停止
 
@@ -675,7 +676,7 @@
 <tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松岡ちな" title="wikilink">松岡ちな</a></p></td>
-<td><p>松岡ちな AVデビュー(2014-12-6)[3]</p></td>
+<td><p>松岡ちな AVデビュー(2014-12-6)[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -760,12 +761,14 @@
 | 2019年 |                                                           |                                                                                                                  |
 |       | [成宮りか](https://ja.wikipedia.org/wiki/成宮りか "wikilink")     | 成宮りか SODstar DEBUT\! 中出し解禁 計6発 (2018-11-22)                                                                      |
 | ☆     | [石田カレン](https://ja.wikipedia.org/wiki/石田カレン "wikilink")   | 石田カレン AV Debut (2018-12-6)                                                                                       |
-| ☆     | [みながわ千遥](https://ja.wikipedia.org/wiki/みながわ千遥 "wikilink") | 新人デビュー みながわ千遥（ちはる）21歳\[4\] (2019-2-7)                                                                            |
+| ☆     | [みながわ千遥](https://ja.wikipedia.org/wiki/みながわ千遥 "wikilink") | 新人デビュー みながわ千遥（ちはる）21歳\[8\] (2019-2-7)                                                                            |
 |       | [小泉ひなた](https://ja.wikipedia.org/wiki/小泉ひなた "wikilink")   | 小泉ひなた SODstar DEBUT\!＆中出し解禁 (2019-2-21)                                                                          |
 | 2020年 |                                                           |                                                                                                                  |
 | ☆     | [白石茉莉奈](https://ja.wikipedia.org/wiki/白石茉莉奈 "wikilink")   | 芸能人 白石茉莉奈 AV Debut(2013-6-6)                                                                                     |
 | ☆     | [石原める](https://ja.wikipedia.org/wiki/石原める "wikilink")     | 石原める 絶対的アイドル AV DEBUT (2019-8-1)                                                                                 |
+| ☆     | [七海ティナ](https://ja.wikipedia.org/wiki/七海ティナ "wikilink")   | 凛として儚い 七海ティナ AV DEBUT (2019-1-10)                                                                                |
 |       | [西野翔](../Page/西野翔.md "wikilink")                          | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
+|       |                                                           |                                                                                                                  |
 
 </div>
 
@@ -773,26 +776,26 @@
 
 ### 現在の専属女優
 
-| 女優      | デビュー作                                                     | 備考                                                                                                               |
-| ------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| SODstar |                                                           |                                                                                                                  |
-| ☆       | [紗倉まな](https://ja.wikipedia.org/wiki/紗倉まな "wikilink")     | 紗倉まな AV Debut(2012-2-9)                                                                                          |
-| ☆       | [古川いおり](https://ja.wikipedia.org/wiki/古川いおり "wikilink")   | 古川いおり AV Debut(2012-11-8)                                                                                        |
-|         | [市川まさみ](https://ja.wikipedia.org/wiki/市川まさみ "wikilink")   | 市川まさみ SODstar debut(2016-3-5)                                                                                    |
-|         | [戸田真琴](https://ja.wikipedia.org/wiki/戸田真琴 "wikilink")     | 戸田真琴 SODstar DEBUT\!(2016-11-23)                                                                                 |
-| ☆       | [竹田ゆめ](https://ja.wikipedia.org/wiki/竹田ゆめ "wikilink")     | 竹田ゆめ AV Debut (2017-10-5)                                                                                        |
-| ☆       | [小倉由菜](https://ja.wikipedia.org/wiki/小倉由菜 "wikilink")     | AV Debut ボクらの彼女 小倉由菜 (2017-12-7)                                                                                 |
-| ☆       | [本庄鈴](https://ja.wikipedia.org/wiki/本庄鈴 "wikilink")       | 本庄鈴 みなさまのおかげです。AV DEBUT 初回特別版(2018-4-26)                                                                         |
-| ☆       | [唯井まひろ](https://ja.wikipedia.org/wiki/唯井まひろ "wikilink")   | SOD Star 唯井まひろ 18歳 AV DEBUT (2018-6-7)                                                                           |
-| ☆       | [羽田あい](https://ja.wikipedia.org/wiki/羽田あい "wikilink")     | 芸能人 羽田あい AV Debut (2010-2-18)                                                                                    |
-| ☆       | [七海ティナ](https://ja.wikipedia.org/wiki/七海ティナ "wikilink")   | 凛として儚い 七海ティナ AV DEBUT (2019-1-10)                                                                                |
-| ☆       | [永野いち夏](https://ja.wikipedia.org/wiki/永野いち夏 "wikilink")   | 永野いち夏 AV DEBUT (2019-6-20)                                                                                       |
-| ☆       | [和久井まりあ](https://ja.wikipedia.org/wiki/和久井まりあ "wikilink") | 和久井まりあ SOD Star AVデビュー (2019-7-25)                                                                               |
-|         | [西野翔](../Page/西野翔.md "wikilink")                          | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
-| ☆       | [青空ひかり](https://ja.wikipedia.org/wiki/青空ひかり "wikilink")   | 青空ひかり AV DEBUT (2019-10-10)                                                                                      |
-| ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)                                                                                   |
-| ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12予定)                                                                                    |
-|         |                                                           |                                                                                                                  |
+| 女優      | デビュー作                                                     | 備考                                       |
+| ------- | --------------------------------------------------------- | ---------------------------------------- |
+| SODstar |                                                           |                                          |
+| ☆       | [紗倉まな](https://ja.wikipedia.org/wiki/紗倉まな "wikilink")     | 紗倉まな AV Debut(2012-2-9)                  |
+| ☆       | [古川いおり](https://ja.wikipedia.org/wiki/古川いおり "wikilink")   | 古川いおり AV Debut(2012-11-8)                |
+|         | [市川まさみ](https://ja.wikipedia.org/wiki/市川まさみ "wikilink")   | 市川まさみ SODstar debut(2016-3-5)            |
+|         | [戸田真琴](https://ja.wikipedia.org/wiki/戸田真琴 "wikilink")     | 戸田真琴 SODstar DEBUT\!(2016-11-23)         |
+| ☆       | [竹田ゆめ](https://ja.wikipedia.org/wiki/竹田ゆめ "wikilink")     | 竹田ゆめ AV Debut (2017-10-5)                |
+| ☆       | [小倉由菜](https://ja.wikipedia.org/wiki/小倉由菜 "wikilink")     | AV Debut ボクらの彼女 小倉由菜 (2017-12-7)         |
+| ☆       | [本庄鈴](https://ja.wikipedia.org/wiki/本庄鈴 "wikilink")       | 本庄鈴 みなさまのおかげです。AV DEBUT 初回特別版(2018-4-26) |
+| ☆       | [唯井まひろ](https://ja.wikipedia.org/wiki/唯井まひろ "wikilink")   | SOD Star 唯井まひろ 18歳 AV DEBUT (2018-6-7)   |
+| ☆       | [羽田あい](https://ja.wikipedia.org/wiki/羽田あい "wikilink")     | 芸能人 羽田あい AV Debut (2010-2-18)            |
+| ☆       | [永野いち夏](https://ja.wikipedia.org/wiki/永野いち夏 "wikilink")   | 永野いち夏 AV DEBUT (2019-6-20)               |
+| ☆       | [和久井まりあ](https://ja.wikipedia.org/wiki/和久井まりあ "wikilink") | 和久井まりあ SOD Star AVデビュー (2019-7-25)       |
+| ☆       | [青空ひかり](https://ja.wikipedia.org/wiki/青空ひかり "wikilink")   | 青空ひかり AV DEBUT (2019-10-10)              |
+| ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)           |
+| ☆       | [楠木あず](https://ja.wikipedia.org/wiki/楠木あず "wikilink")     | 楠木あず AV DEBUT（2020-2-20）※同年1月17日配信開始     |
+| ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12)              |
+| ☆       | \----                                                     | 名前はまだない。 緊急発売 AV出演（2020-4-23予定)          |
+|         |                                                           |                                          |
 
 ### SODstarシンデレラオーディション
 
@@ -877,7 +880,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>グランプリ[5]</p></td>
+<td><p>グランプリ[9]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海老原ひとみ" title="wikilink">海老原ひとみ</a></p></td>
 <td><p>第3回シンデレラオーディショングランプリ 海老原ひとみ×AVDebut<br />
 (2010-10-7)</p></td>
@@ -895,7 +898,7 @@
 
 ### SOD国民的アイドルユニット
 
-()内は総選挙の順位\[6\]
+()内は総選挙の順位\[10\]
 
   - チームS：[琥珀うた](https://ja.wikipedia.org/wiki/琥珀うた "wikilink")（3位）、[穂積マヤ](https://ja.wikipedia.org/wiki/穂積マヤ "wikilink")（5位）、[七瀬あさ美](https://ja.wikipedia.org/wiki/七瀬あさ美 "wikilink")（6位）
   - チームO：[友田彩也香](https://ja.wikipedia.org/wiki/友田彩也香 "wikilink")（1位）、[愛心](https://ja.wikipedia.org/wiki/愛心 "wikilink")（8位）、[和希さやか](https://ja.wikipedia.org/wiki/和希さやか "wikilink")（9位）
@@ -910,17 +913,17 @@
 
   - [Keita★No.1](https://ja.wikipedia.org/wiki/Keita★No.1 "wikilink")
   - GORI
-  - 新保英之\[7\]
+  - 新保英之\[11\]
   - [菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")
-  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[8\]
+  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[12\]
   - [溜池ゴロー](../Page/溜池ゴロー.md "wikilink")（社外取締役顧問）
-  - CHAIN宗\[9\]
+  - CHAIN宗\[13\]
   - 土屋幸嗣
   - 豊田和家
   - [野本義明](https://ja.wikipedia.org/wiki/野本義明 "wikilink")
   - 林龍太朗
   - 宮門良輔
-  - 宮瀬博教\[10\]
+  - 宮瀬博教\[14\]
 
 <!-- end list -->
 
@@ -981,11 +984,15 @@
 
 1.  [本気で面白いお祭りをぶちかましたいだけ\!\! 「アリスJAPANとソフトオンデマンド」がまさかのコラボ\!? 二大メーカー・プロデューサー対談\!](http://www.menscyzo.com/2012/06/post_4200.html)メンズサイゾー 2012年6月21日
 2.
-3.  JAE2014(2014-11-14・15)にて先行発売。
-4.  【はにかみ版】、【なでしこ版】の2枚同時発売。
-5.  第3回はグランプリが2名。
-6.  [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
-7.  [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
-8.  [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
-9.  [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
-10. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）
+3.
+4.
+5.
+6.
+7.  JAE2014(2014-11-14・15)にて先行発売。
+8.  【はにかみ版】、【なでしこ版】の2枚同時発売。
+9.  第3回はグランプリが2名。
+10. [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
+11. [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
+12. [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
+13. [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
+14. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）

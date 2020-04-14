@@ -1,4 +1,4 @@
-> この記事は[BLITZ](https://ja.wikipedia.org/wiki/BLITZ)から翻訳されています。
+> この記事は[横浜BLITZ](https://ja.wikipedia.org/wiki/横浜BLITZ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yokohama_BLITZ.JPG "wikilink") **横浜BLITZ**（よこはまブリッツ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[西区](https://ja.wikipedia.org/wiki/西区_\(横浜市\) "wikilink")[みなとみらい](../Page/みなとみらい.md "wikilink")五丁目の[GENTO YOKOHAMA内でかつて運営されていた](https://ja.wikipedia.org/wiki/GENTO_YOKOHAMA "wikilink")、主に音楽[ライブを開催する](../Page/演奏会.md "wikilink")[TBSテレビ](../Page/TBSテレビ.md "wikilink")運営の[ライブハウス](../Page/ライブハウス.md "wikilink")である。[2013年](../Page/2013年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")をもって閉鎖となった\[1\]。

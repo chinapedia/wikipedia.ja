@@ -1,4 +1,4 @@
-> この記事は[COACH](https://ja.wikipedia.org/wiki/COACH)から翻訳されています。
+> この記事は[COACH☆](https://ja.wikipedia.org/wiki/COACH☆)から翻訳されています。
 
 
 **COACH☆**（コーチ）は、日本の女性5人組歌手（女優・声優）グループである。[2005年](../Page/2005年.md "wikilink")結成。同年[8月13日](../Page/8月13日.md "wikilink")、[マキシシングル](../Page/シングル.md "wikilink")「スタートライン」でメジャーデビュー。[2006年](../Page/2006年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に解散。

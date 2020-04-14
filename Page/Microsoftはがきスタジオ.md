@@ -1,4 +1,4 @@
-> この記事は[Microsoft](https://ja.wikipedia.org/wiki/Microsoft)から翻訳されています。
+> この記事は[Microsoftはがきスタジオ](https://ja.wikipedia.org/wiki/Microsoftはがきスタジオ)から翻訳されています。
 
 
 **Microsoftはがきスタジオ**（まいくろそふと- ）は、マイクロソフト株式会社（現:[日本マイクロソフト](https://ja.wikipedia.org/wiki/日本マイクロソフト "wikilink")株式会社）がかつて開発・販売した、[はがき作成ソフトウェア](../Page/はがき作成ソフトウェア.md "wikilink")である。

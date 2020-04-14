@@ -1,4 +1,4 @@
-> この記事は[FH \(\)](https://ja.wikipedia.org/wiki/FH_\(\))から翻訳されています。
+> この記事は[FH \(航空機\)](https://ja.wikipedia.org/wiki/FH_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=FH ファントム | 画像=<File:FH-1> Phantom in flight in February 1948.jpg | キャプション=飛行するFH-1 111793号機

@@ -1,4 +1,4 @@
-> この記事は[USA \(\)](https://ja.wikipedia.org/wiki/USA_\(\))から翻訳されています。
+> この記事は[USA \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/USA_\(曖昧さ回避\))から翻訳されています。
 
 
 **USA**（ユーエスエー、うさ）

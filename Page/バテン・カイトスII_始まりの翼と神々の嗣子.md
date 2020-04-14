@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[バテン・カイトスII 始まりの翼と神々の嗣子](https://ja.wikipedia.org/wiki/バテン・カイトスII_始まりの翼と神々の嗣子)から翻訳されています。
 
 
 『**バテン・カイトスII 始まりの翼と神々の嗣子**』（バテン・カイトスツー はじまりのつばさとかみがみのしし、Baten Kaitos II）は、[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

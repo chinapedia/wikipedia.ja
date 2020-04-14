@@ -1,4 +1,4 @@
-> この記事は[ONI](https://ja.wikipedia.org/wiki/ONI)から翻訳されています。
+> この記事は[闘魔鬼神伝ONI](https://ja.wikipedia.org/wiki/闘魔鬼神伝ONI)から翻訳されています。
 
 
 『**闘魔鬼神伝ONI**』（とうまきしんでん オニ）は、1995年10月5日から1996年3月21日まで、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")木曜日朝7:35 - 8:05の**あにめあさいち**の枠内の一つとして放送されたテレビアニメ。全25話で、1話あたり約10分。和風[RPG](../Page/コンピュータRPG.md "wikilink")『[ONIシリーズ](../Page/ONIシリーズ.md "wikilink")』の世界観を元にしている。

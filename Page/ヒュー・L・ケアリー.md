@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ヒュー・L・ケアリー](https://ja.wikipedia.org/wiki/ヒュー・L・ケアリー)から翻訳されています。
 
 
 [Hugh_Carey_-_1977_NFTA_Report.jpg](https://ja.wikipedia.org/wiki/File:Hugh_Carey_-_1977_NFTA_Report.jpg "fig:Hugh_Carey_-_1977_NFTA_Report.jpg") **ヒュー・レオ・ケアリー**（*Hugh Leo Carey*, [1919年](../Page/1919年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。第51代[ニューヨーク州知事](https://ja.wikipedia.org/wiki/ニューヨーク州知事 "wikilink")（在任期間[1975年](../Page/1975年.md "wikilink") - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）。

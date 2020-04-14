@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯全国高校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国高校放送コンテスト)から翻訳されています。
 
 
 **NHK杯全国高校放送コンテスト**（エヌエイチケイはいぜんこくこうこうほうそうコンテスト）は、[全国放送教育研究会連盟](https://ja.wikipedia.org/wiki/全国放送教育研究会連盟 "wikilink")と[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が主催する高等学校の生徒を対象とした放送のコンテスト。大きく分けて、[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")・[朗読](../Page/朗読.md "wikilink")・[テレビ](../Page/テレビ.md "wikilink")番組・[ラジオ](../Page/ラジオ.md "wikilink")番組の各部門で審査が行われる。また、審査はないが校内放送研究発表会として、研究発表が行われる。（かつては研究発表部門として審査を行っていたが、現在は発表のみですべての学校に研究奨励が贈られる）通称**Nコン**

@@ -1,4 +1,4 @@
-> この記事は[DSK](https://ja.wikipedia.org/wiki/DSK)から翻訳されています。
+> この記事は[DSKパーソナルスクール](https://ja.wikipedia.org/wiki/DSKパーソナルスクール)から翻訳されています。
 
 
 **DSKパーソナルスクール**は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社をおくディーエスケー株式会社が、全国16校を展開する大学受験の[学習塾](../Page/学習塾.md "wikilink")・[予備校](../Page/予備校.md "wikilink")である。1987年1月設立\[1\]。

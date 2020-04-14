@@ -1,4 +1,4 @@
-> この記事は[YBS](https://ja.wikipedia.org/wiki/YBS)から翻訳されています。
+> この記事は[YBSニュース](https://ja.wikipedia.org/wiki/YBSニュース)から翻訳されています。
 
 
 『**YBSニュース**』（ワイビーエスニュース）は、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBSテレビ）で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")。[山梨県](../Page/山梨県.md "wikilink")内のニュースを取り扱っている。

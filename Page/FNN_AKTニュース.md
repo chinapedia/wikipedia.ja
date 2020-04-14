@@ -1,4 +1,4 @@
-> この記事は[FNN AKT](https://ja.wikipedia.org/wiki/FNN_AKT)から翻訳されています。
+> この記事は[FNN AKTニュース](https://ja.wikipedia.org/wiki/FNN_AKTニュース)から翻訳されています。
 
 
 『**FNN AKTニュース**』（エフエヌエヌエイケイティーニュース）は、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されている[ローカルニュース](../Page/報道番組.md "wikilink")。内容は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")（日曜朝）』\[1\]。

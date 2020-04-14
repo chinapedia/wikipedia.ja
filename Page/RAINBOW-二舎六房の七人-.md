@@ -1,4 +1,4 @@
-> この記事は[RAINBOW--](https://ja.wikipedia.org/wiki/RAINBOW--)から翻訳されています。
+> この記事は[RAINBOW-二舎六房の七人-](https://ja.wikipedia.org/wiki/RAINBOW-二舎六房の七人-)から翻訳されています。
 
 
 『**RAINBOW -二舎六房の七人-**』（レインボー にしゃろくぼうのしちにん）は、[安部譲二](../Page/安部譲二.md "wikilink")原作・[柿崎正澄](../Page/柿崎正澄.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。

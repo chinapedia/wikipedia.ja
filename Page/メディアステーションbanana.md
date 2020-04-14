@@ -1,4 +1,4 @@
-> この記事は[banana](https://ja.wikipedia.org/wiki/banana)から翻訳されています。
+> この記事は[メディアステーションbanana](https://ja.wikipedia.org/wiki/メディアステーションbanana)から翻訳されています。
 
 
 **メディアステーションbanana**（メディアステーション バナナ）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区の](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")万代口1階にある多機能待合室。

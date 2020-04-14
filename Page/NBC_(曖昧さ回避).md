@@ -1,4 +1,4 @@
-> この記事は[NBC \(\)](https://ja.wikipedia.org/wiki/NBC_\(\))から翻訳されています。
+> この記事は[NBC \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/NBC_\(曖昧さ回避\))から翻訳されています。
 
 
 **NBC**は以下の略称または名称を指す。

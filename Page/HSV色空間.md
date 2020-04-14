@@ -1,4 +1,4 @@
-> この記事は[HSV](https://ja.wikipedia.org/wiki/HSV)から翻訳されています。
+> この記事は[HSV色空間](https://ja.wikipedia.org/wiki/HSV色空間)から翻訳されています。
 
 
 **HSVモデル**()は[色相](https://ja.wikipedia.org/wiki/色相 "wikilink")()、[彩度](https://ja.wikipedia.org/wiki/彩度 "wikilink")()、[明度](https://ja.wikipedia.org/wiki/明度 "wikilink")()の三つの成分からなる[色空間](../Page/色空間.md "wikilink")。**HSB色空間**()とも言われる。[HLS色空間](../Page/HLS色空間.md "wikilink")()とよく似ている。

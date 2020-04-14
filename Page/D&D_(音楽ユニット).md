@@ -1,4 +1,4 @@
-> この記事は[D\&D \(\)](https://ja.wikipedia.org/wiki/D\&D_\(\))から翻訳されています。
+> この記事は[D\&D \(音楽ユニット\)](https://ja.wikipedia.org/wiki/D\&D_\(音楽ユニット\))から翻訳されています。
 
 
 **D\&D**（ディー・アンド・ディー）は、日本の3人組の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて活動。[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")出身。活動当時は[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")に所属。

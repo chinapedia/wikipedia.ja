@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ぴたぴたエンジェル♪A](https://ja.wikipedia.org/wiki/ぴたぴたエンジェル♪A)から翻訳されています。
 
 
 『**ぴたぴたエンジェル♪A**』（ぴたぴたエンジェルエース）は、[2002年](../Page/2002年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までで全25回放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ぴたテン](../Page/ぴたテン.md "wikilink")』と『[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")』をフィーチャーした[ラジオ番組](../Page/ラジオ番組.md "wikilink")、および当番組のテーマソングを歌う[声優ユニット](../Page/声優ユニット.md "wikilink")の名称である。

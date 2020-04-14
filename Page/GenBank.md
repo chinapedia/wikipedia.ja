@@ -15,7 +15,7 @@ GenBank のデータは、指数関数的に増加しており（10ヵ月で2倍
 
 GenBankに[インターネット](../Page/インターネット.md "wikilink")を介して直接データを登録するには、BankItという[WWWのフォームを使って登録する方法や](../Page/World_Wide_Web.md "wikilink")、Sequinというスタンドアロンの登録用[ソフトウェア](../Page/ソフトウェア.md "wikilink")を使って登録する方法などがある。GenBankに塩基配列のデータが登録されると、GenBankのスタッフがその配列に登録番号を振って、配列データの質の検査を行う。その後、登録されたデータが、実際にデータベースに反映される。
 
-[発現シーケンスタグ](https://ja.wikipedia.org/wiki/相補的DNA#EST "wikilink")（EST; Expressed Sequence Tag）、STS（Sequence Tagged Site）、GSS（Genome Survey Sequence）、HTGS（High-Throughput Genome Sequence）のデータの一括登録は、通常、大規模な配列センターによって行われることが多い。完全な[微生物](../Page/微生物.md "wikilink")[ゲノム](../Page/ゲノム.md "wikilink")配列の場合は、GenBankに直接データを登録する方法が採られる。
+[発現シーケンスタグ](../Page/発現配列タグ.md "wikilink")（EST; Expressed Sequence Tag）、STS（Sequence Tagged Site）、GSS（Genome Survey Sequence）、HTGS（High-Throughput Genome Sequence）のデータの一括登録は、通常、大規模な配列センターによって行われることが多い。完全な[微生物](../Page/微生物.md "wikilink")[ゲノム](../Page/ゲノム.md "wikilink")配列の場合は、GenBankに直接データを登録する方法が採られる。
 
 GenbankデータベースのデータはEntrezという検索エンジンで検索したり、[FTPでダウンロードすることができる](../Page/File_Transfer_Protocol.md "wikilink")。
 

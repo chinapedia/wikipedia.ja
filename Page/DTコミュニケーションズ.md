@@ -1,4 +1,4 @@
-> この記事は[DT](https://ja.wikipedia.org/wiki/DT)から翻訳されています。
+> この記事は[DTコミュニケーションズ](https://ja.wikipedia.org/wiki/DTコミュニケーションズ)から翻訳されています。
 
 
 [Ebisu_Prime_Square_Tower.JPG](https://ja.wikipedia.org/wiki/File:Ebisu_Prime_Square_Tower.JPG "fig:Ebisu_Prime_Square_Tower.JPG") **DTコミュニケーションズ株式会社**（英文表記：*DT COMMUNICATIONS Co., Ltd.*）は、[2000年](../Page/2000年.md "wikilink")に設立された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気通信事業者](../Page/電気通信事業者.md "wikilink")で、[中継電話](../Page/中継電話.md "wikilink")事業（[マイライン](../Page/マイライン.md "wikilink")）が主力業務であった。[トライアイズ](../Page/トライアイズ.md "wikilink")（旧ドリームテクノロジーズ、[ヘラクレス上場企業](https://ja.wikipedia.org/wiki/ヘラクレス_\(有価証券市場\) "wikilink")）の子会社である。旧社名は、「平成電電コミュニケーションズ株式会社」。

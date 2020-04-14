@@ -1,4 +1,4 @@
-> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+> この記事は[シネフィルWOWOW](https://ja.wikipedia.org/wiki/シネフィルWOWOW)から翻訳されています。
 
 
 **シネフィルWOWOW**（シネフィルワウワウ）は、株式会社[WOWOWプラス](https://ja.wikipedia.org/wiki/WOWOWプラス "wikilink")が運営する映画専門チャンネル。

@@ -1,4 +1,4 @@
-> この記事は[DAWN --](https://ja.wikipedia.org/wiki/DAWN_--)から翻訳されています。
+> この記事は[DAWN -陽はまた昇る-](https://ja.wikipedia.org/wiki/DAWN_-陽はまた昇る-)から翻訳されています。
 
 
 『**DAWN -陽はまた昇る-**』（ドーン ひはまたのぼる）は、原作：[倉科遼](../Page/倉科遼.md "wikilink")、作画：[ナカタニD.](../Page/ナカタニD..md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて2006年7月15日発売号まで連載された。

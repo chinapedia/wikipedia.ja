@@ -1,4 +1,4 @@
-> この記事は[F.60 \(\)](https://ja.wikipedia.org/wiki/F.60_\(\))から翻訳されています。
+> この記事は[F.60 \(航空機\)](https://ja.wikipedia.org/wiki/F.60_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Farman_goliath.jpg "wikilink") **ファルマンF.60ゴリアト**（F.60 Goliath）は[1925年](../Page/1925年.md "wikilink")に開発された[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[旅客機](../Page/旅客機.md "wikilink")、[爆撃機](../Page/爆撃機.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[土曜ドラマ \(NHK\)](https://ja.wikipedia.org/wiki/土曜ドラマ_\(NHK\))から翻訳されています。
 
 
 『**土曜ドラマ**』（どようドラマ）は、[NHK総合テレビで](../Page/NHK総合テレビジョン.md "wikilink")[1975年](../Page/1975年.md "wikilink")10月に開始され、終了と再開を繰り返しつつ断続的に放送されている[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")枠のタイトル。
@@ -743,6 +743,8 @@
 
 :\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路_\(小説\)#テレビドラマ "wikilink")（5月 -、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")）
 
+:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（6月6日 -、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
+
 ## 脚注
 
   - 注釈
@@ -762,7 +764,7 @@
 {{-}}
 
   - 以下は私設サイトである。
-      - [ドラマの歴史](http://homepage1.nifty.com/drama/indexf.htm) - 「シリーズもの」→「土曜ドラマ」に作品一覧
+      - \- 「シリーズもの」→「土曜ドラマ」に作品一覧
 
 [Category:土曜ドラマ_(NHK)](https://ja.wikipedia.org/wiki/Category:土曜ドラマ_\(NHK\) "wikilink") [Category:土曜ドラマスペシャル](https://ja.wikipedia.org/wiki/Category:土曜ドラマスペシャル "wikilink") [Category:1975年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のテレビ番組_\(日本\) "wikilink")
 

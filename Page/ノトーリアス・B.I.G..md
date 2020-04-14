@@ -1,4 +1,4 @@
-> この記事は[B.I.G.](https://ja.wikipedia.org/wiki/B.I.G.)から翻訳されています。
+> この記事は[ノトーリアス・B.I.G.](https://ja.wikipedia.org/wiki/ノトーリアス・B.I.G.)から翻訳されています。
 
 
 **ノトーリアス・B.I.G.**（The Notorious B.I.G.、[1972年](../Page/1972年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市出身。

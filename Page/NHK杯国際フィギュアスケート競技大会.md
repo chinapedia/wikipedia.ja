@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯国際フィギュアスケート競技大会](https://ja.wikipedia.org/wiki/NHK杯国際フィギュアスケート競技大会)から翻訳されています。
 
 
 **NHK杯国際フィギュアスケート競技大会**（エヌエイチケーはいこくさいフィギュアスケートきょうぎたいかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行われる[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")の国際競技会。[ISUグランプリシリーズ](../Page/ISUグランプリシリーズ.md "wikilink")を構成する[フィギュアスケート競技会](../Page/フィギュアスケート競技会.md "wikilink")のひとつ。

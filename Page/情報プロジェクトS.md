@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[情報プロジェクトS](https://ja.wikipedia.org/wiki/情報プロジェクトS)から翻訳されています。
 
 
 『**情報プロジェクトS**』（じょうほうプロジェクトスーパー）は、[2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジニュースネットワーク.md "wikilink")（一部系列局を除く）で放送された[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は毎週[土曜](../Page/土曜日.md "wikilink")10:00 - 12:55（[JST](../Page/日本標準時.md "wikilink")）。途中、11:30 - 11:45に『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』を内包。

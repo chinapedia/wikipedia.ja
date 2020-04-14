@@ -5,7 +5,7 @@
 
 ## 概要
 
-2003年4月、14年続いた情報番組「[SUNSET-STUDIO FMY EVENING TERMINAL](../Page/SUNSET-STUDIO_FMY_EVENING_TERMINAL.md "wikilink")」（16:00 - 18:55）と[電リク](../Page/電リク.md "wikilink")番組「[S@DE Communication（さでこみ）](../Page/S@DE_Communication.md "wikilink")」（19:00 - 19:55）の枠を統合して17:00 - 19:55の枠にて放送を開始（16時台は「[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")・[JUNGLE Hotline](https://ja.wikipedia.org/wiki/JUNGLE_Hotline "wikilink")」のネットを再開）。当初17時台と18時台はEVENING TERMINALの流れを継ぐ、ニュースや地域情報を中心とした情報ゾーン、19時台はさでこみの流れを継ぐ、リクエストを中心とした音楽ゾーンとして放送した（ただし、電話での受け付けは終了した）。
+2003年4月、14年続いた情報番組「[SUNSET-STUDIO FMY EVENING TERMINAL](../Page/SUNSET-STUDIO_FMY_EVENING_TERMINAL.md "wikilink")」（16:00 - 18:55）と[電リク](../Page/電リク.md "wikilink")番組「[S@DE Communication（さでこみ）](../Page/S@DE_Communication.md "wikilink")」（19:00 - 19:55）の枠を統合して17:00 - 19:55の枠にて放送を開始（16時台は「[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")・[JUNGLE Hotline](https://ja.wikipedia.org/wiki/JUNGLE_Hotline "wikilink")」のネットを再開）。当初17時台と18時台はEVENING TERMINALの流れを継ぐ、ニュースや地域情報を中心とした情報ゾーン、19時台はさでこみの流れを継ぐ、リクエストを中心とした音楽ゾーンとして放送した（ただし、電話での受け付けは終了した）。
 
 鈴木晶久・金光一昭が登板する2005年4月4日に番組をリニューアル。一部コーナーはそのままに情報バラエティ番組となり、リクエストの受付を全時間帯に拡大した。
 

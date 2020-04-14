@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCシャフタール・ドネツク](https://ja.wikipedia.org/wiki/FCシャフタール・ドネツク)から翻訳されています。
 
 
 **FCシャフタール・ドネツク**（ ,）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の都市[ドネツク](../Page/ドネツィク.md "wikilink")\[1\]を本拠地とするプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -1493,7 +1493,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg" title="wikilink">25px</a></p></td>
 <td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td></td>
-<td></td>
+<td><p>2-1</p></td>
 <td><p>'''</p></td>
 <td></td>
 <td></td>

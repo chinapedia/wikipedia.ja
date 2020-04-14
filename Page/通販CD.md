@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[通販CD](https://ja.wikipedia.org/wiki/通販CD)から翻訳されています。
 
 
 **通販CD**（つうはんシーディー）とは主にレコード店では売っておらず、[通信販売](../Page/通信販売.md "wikilink")のみで発売されている[コンパクトディスクのセット](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")（多くの場合5枚組以上が多い）のことである。商品の性質上、多くの場合[テレビショッピング](../Page/テレビショッピング.md "wikilink")や[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")などで販売されるケースが多いが、会社によっては雑誌・新聞広告の紙媒体を通じて販売されることもある。

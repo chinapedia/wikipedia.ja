@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dマート](https://ja.wikipedia.org/wiki/Dマート)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Dマート足利店.jpg "wikilink") **Dマート**（ディーマート）は、かつて株式会社[ダイエー](../Page/ダイエー.md "wikilink")及び前身の株式会社ダイエーマートが運営していた[ディスカウントストア](../Page/ディスカウントストア.md "wikilink")である。

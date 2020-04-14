@@ -1,4 +1,4 @@
-> この記事は[RCC6](https://ja.wikipedia.org/wiki/RCC6)から翻訳されています。
+> この記事は[RCCニュース6](https://ja.wikipedia.org/wiki/RCCニュース6)から翻訳されています。
 
 
 『**RCCニュース6**』（アールシーシーニュースシックス）は、[中国放送](../Page/中国放送.md "wikilink")テレビで放送されていた平日夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GDH \(\)](https://ja.wikipedia.org/wiki/GDH_\(\))から翻訳されています。
+> この記事は[GDH \(企業\)](https://ja.wikipedia.org/wiki/GDH_\(企業\))から翻訳されています。
 
 
 **株式会社GDH** () は、かつて存在した[アニメーション](../Page/アニメーション.md "wikilink")会社の株式会社[ゴンゾ](../Page/ゴンゾ.md "wikilink")を中心とする[持株会社](../Page/持株会社.md "wikilink")。2009年4月にGDHを存続会社としてゴンゾと合併し、株式会社ゴンゾに社名変更した。そのため、会社組織上は存続している。

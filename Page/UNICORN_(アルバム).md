@@ -1,4 +1,4 @@
-> この記事は[UNICORN \(\)](https://ja.wikipedia.org/wiki/UNICORN_\(\))から翻訳されています。
+> この記事は[UNICORN \(アルバム\)](https://ja.wikipedia.org/wiki/UNICORN_\(アルバム\))から翻訳されています。
 
 
 『**UNICORN**』（ユニコーン）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")のメンバーのソロ作品を収録した[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。アーティスト名は「ユニコーン」ではなく「**EBI奥田阿部西川手島**」となっている。[1993年](../Page/1993年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。完全生産限定版。

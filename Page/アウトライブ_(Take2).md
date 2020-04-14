@@ -1,4 +1,4 @@
-> この記事は[ \(Take2\)](https://ja.wikipedia.org/wiki/_\(Take2\))から翻訳されています。
+> この記事は[アウトライブ \(Take2\)](https://ja.wikipedia.org/wiki/アウトライブ_\(Take2\))から翻訳されています。
 
 
 『**アウトライブ**』は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")のゲーム開発スタジオ[Continuum Entertainmentが開発し](https://ja.wikipedia.org/wiki/Continuum_Entertainment "wikilink")[テイクツー・インタラクティブ](https://ja.wikipedia.org/wiki/テイクツー・インタラクティブ "wikilink")より[2001年](../Page/2001年.md "wikilink")に発売された[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")ゲーム。人間とロボットが戦う、一風変わったゲーム。体験版は無料でダウンロードすることができる。ただしキャンペーンエディタがない、ロボット陣営がない、ヘヴィタンクとファイターを生産することができない、ICBM発射不可、建設中止をすることができない。

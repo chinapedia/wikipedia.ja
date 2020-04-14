@@ -1,4 +1,4 @@
-> この記事は[SINGLE COLLECTION \(\)](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(\))から翻訳されています。
+> この記事は[SINGLE COLLECTION \(長渕剛のアルバム\)](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(長渕剛のアルバム\))から翻訳されています。
 
 
 『**SINGLE COLLECTION**』（シングル・コレクション）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")のベスト[アルバム](../Page/アルバム.md "wikilink")である。

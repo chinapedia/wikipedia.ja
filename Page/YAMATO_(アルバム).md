@@ -1,4 +1,4 @@
-> この記事は[YAMATO \(\)](https://ja.wikipedia.org/wiki/YAMATO_\(\))から翻訳されています。
+> この記事は[YAMATO \(アルバム\)](https://ja.wikipedia.org/wiki/YAMATO_\(アルバム\))から翻訳されています。
 
 
 『**YAMATO**』（やまと）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

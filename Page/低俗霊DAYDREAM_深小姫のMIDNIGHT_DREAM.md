@@ -1,4 +1,4 @@
-> この記事は[DAYDREAM MIDNIGHT DREAM](https://ja.wikipedia.org/wiki/DAYDREAM_MIDNIGHT_DREAM)から翻訳されています。
+> この記事は[低俗霊DAYDREAM 深小姫のMIDNIGHT DREAM](https://ja.wikipedia.org/wiki/低俗霊DAYDREAM_深小姫のMIDNIGHT_DREAM)から翻訳されています。
 
 
 『**低俗霊DAYDREAM 深小姫のMIDNIGHT DREAM**』（ていぞくれいデイドリーム みさきのミッドナイトドリーム）は、[奥瀬サキ](../Page/奥瀬サキ.md "wikilink")原作のコミック『[低俗霊DAYDREAM](../Page/低俗霊DAYDREAM.md "wikilink")』が[OVA](../Page/OVA.md "wikilink")化されたことを機にスタートした[アニラジ](../Page/アニラジ.md "wikilink")。[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[ラジオ大阪の](../Page/大阪放送.md "wikilink")「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠で2004年4月から2004年7月まで放送された。また、「Net版」（地上波との相違点はCMカットと最後まで流れるエンディングテーマ）として[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")の「[BEAT Net Radio](https://ja.wikipedia.org/wiki/BEAT_Net_Radio "wikilink")」で配信された。

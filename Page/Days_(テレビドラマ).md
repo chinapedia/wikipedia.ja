@@ -1,4 +1,4 @@
-> この記事は[Days \(\)](https://ja.wikipedia.org/wiki/Days_\(\))から翻訳されています。
+> この記事は[Days \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Days_\(テレビドラマ\))から翻訳されています。
 
 
 『**Days**』（デイズ）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[1月12日](../Page/1月12日.md "wikilink")から[3月23日](../Page/3月23日.md "wikilink")まで放送された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全10回。放送時間は[月曜日](../Page/月曜日.md "wikilink")21時から21時54分（第1話は21時から22時9分、最終回は21時から22時24分）。

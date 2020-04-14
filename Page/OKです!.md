@@ -1,4 +1,4 @@
-> この記事は[OK!](https://ja.wikipedia.org/wiki/OK!)から翻訳されています。
+> この記事は[OKです!](https://ja.wikipedia.org/wiki/OKです!)から翻訳されています。
 
 
 **OKです\!** **おーけーです\!**は、[茨城放送](../Page/茨城放送.md "wikilink")で[2001年](../Page/2001年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

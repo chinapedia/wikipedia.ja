@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[マイトマイシンC](https://ja.wikipedia.org/wiki/マイトマイシンC)から翻訳されています。
 
 
 **マイトマイシンC**（Mitomycin C、**MMC**）とは、抗腫瘍性抗生物質に分類される抗悪性腫瘍剤（[抗がん剤](../Page/抗がん剤.md "wikilink")）である。[世界保健機関](../Page/世界保健機関.md "wikilink")の下部組織による[IARC発がん性リスク一覧](../Page/IARC発がん性リスク一覧.md "wikilink")の[グループ2Bに属する](https://ja.wikipedia.org/wiki/発癌性#発癌性リスクの分類 "wikilink")。ヒトに対する[発癌性](../Page/発癌性.md "wikilink")の限られた証拠、動物実験での十分な証拠がある。

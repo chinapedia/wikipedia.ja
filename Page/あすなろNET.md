@@ -1,4 +1,4 @@
-> この記事は[NET](https://ja.wikipedia.org/wiki/NET)から翻訳されています。
+> この記事は[あすなろNET](https://ja.wikipedia.org/wiki/あすなろNET)から翻訳されています。
 
 
 **あすなろNET**（あすなろネット）は、[青森銀行](../Page/青森銀行.md "wikilink")が[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内の[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")・[青森県信用組合](../Page/青森県信用組合.md "wikilink")・[JAバンク](../Page/JAバンク.md "wikilink")青森（青森県内の農協）・[東北労働金庫](../Page/東北労働金庫.md "wikilink")と個別に提携した[ATM・CD利用手数料無料サービスの名称である](../Page/現金自動預け払い機.md "wikilink")。

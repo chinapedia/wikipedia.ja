@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・世界タッグチーム王座](https://ja.wikipedia.org/wiki/WWE・世界タッグチーム王座)から翻訳されています。
 
 
 **WWE世界タッグチーム王座**(*World Tag-Team Championship*)は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[タッグ](../Page/タッグチーム.md "wikilink")[王座である](../Page/チャンピオンベルト.md "wikilink")。

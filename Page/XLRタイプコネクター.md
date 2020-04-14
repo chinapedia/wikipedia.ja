@@ -1,4 +1,4 @@
-> この記事は[XLR](https://ja.wikipedia.org/wiki/XLR)から翻訳されています。
+> この記事は[XLRタイプコネクター](https://ja.wikipedia.org/wiki/XLRタイプコネクター)から翻訳されています。
 
 
 **XLRタイプコネクター**とは、（Cannon社）が開発したXLR型オーディオコネクター及びその互換品を指す。一般に**キャノンコネクター**とも呼ばれる。米キャノン社は[光学機器](../Page/光学機器.md "wikilink")製造企業の[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")とは無関係である。本製品を得意とする（NEUTRIK社）の社名をとって**ノイトリックコネクター**とも呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[Help:MediaWiki](https://ja.wikipedia.org/wiki/Help:MediaWiki)から翻訳されています。
+> この記事は[Help:MediaWikiに適応するブラウザ](https://ja.wikipedia.org/wiki/Help:MediaWikiに適応するブラウザ)から翻訳されています。
 
 
 ウィキペディアで使われているシステムの[MediaWikiに適応したパソコンの環境を説明していきます](https://ja.wikipedia.org/wiki/Help:MediaWiki "wikilink")。主にMediaWikiが対応しているのは、デスクトップとモバイル・スマートフォンの両環境における主要なブラウザの最近から現在のバージョンです。ページを閲覧するのに、どのブラウザにどのような問題があるかも紹介します。

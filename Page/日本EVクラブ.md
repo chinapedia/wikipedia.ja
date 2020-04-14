@@ -1,4 +1,4 @@
-> この記事は[EV](https://ja.wikipedia.org/wiki/EV)から翻訳されています。
+> この記事は[日本EVクラブ](https://ja.wikipedia.org/wiki/日本EVクラブ)から翻訳されています。
 
 
 **日本EVクラブ**（にほんイーブイクラブ）は、[1994年](../Page/1994年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で設立された[市民団体](../Page/市民団体.md "wikilink")。**[EV](../Page/電気自動車.md "wikilink")**普及活動などを通じて、次世代の[モータリゼーション](../Page/モータリゼーション.md "wikilink")を模索している。

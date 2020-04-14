@@ -1,4 +1,4 @@
-> この記事は[CityFM](https://ja.wikipedia.org/wiki/CityFM)から翻訳されています。
+> この記事は[CityFMさいたま](https://ja.wikipedia.org/wiki/CityFMさいたま)から翻訳されています。
 
 
 **CityFMさいたま**は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")に本社を置く[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に開局。愛称は**「REDS WAVE」**。
@@ -265,7 +265,7 @@
 <tr class="even">
 <td><p>19</p></td>
 <td><p>00【L】 <strong>You're The REDS</strong><br />
-齋藤裕一（月）・岬あきら（火）・布施貴美子（水）・北条ふとし（木）</p></td>
+<a href="../Page/齋藤裕一.md" title="wikilink">齋藤裕一</a>（月）・岬あきら（火）・布施貴美子（水）・北条ふとし（木）</p></td>
 <td><p>00【L】 <strong>You're The REDS Friday</strong><br />
 パーソナリティ：吉沢康一・出口直寛</p></td>
 <td></td>

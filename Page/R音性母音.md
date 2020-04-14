@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[R音性母音](https://ja.wikipedia.org/wiki/R音性母音)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Rhoticity_spectrogram.png "wikilink")[ファイル:Loudspeaker.png](https://ja.wikipedia.org/wiki/ファイル:Loudspeaker.png "wikilink") [Listen](https://ja.wikipedia.org/wiki/メディア:Regular_and_r-colored_vowels.ogg "wikilink")\]\]

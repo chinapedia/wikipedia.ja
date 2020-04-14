@@ -1,4 +1,4 @@
-> この記事は[Happy Together \(\)](https://ja.wikipedia.org/wiki/Happy_Together_\(\))から翻訳されています。
+> この記事は[Happy Together \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Happy_Together_\(テレビドラマ\))から翻訳されています。
 
 
 **Happy Together**（ハッピー・トゥギャザー）は[1999年](../Page/1999年.md "wikilink")6月16日から8月5日にかけて[韓国の](../Page/大韓民国.md "wikilink")[SBSで放送されたファミリー](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全16話。韓国で平均35％、最高40%近い[視聴率](../Page/視聴率.md "wikilink")を記録した。

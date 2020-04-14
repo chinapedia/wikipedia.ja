@@ -1,4 +1,4 @@
-> この記事は[DASH32](https://ja.wikipedia.org/wiki/DASH32)から翻訳されています。
+> この記事は[三菱・シリウスDASH3×2](https://ja.wikipedia.org/wiki/三菱・シリウスDASH3×2)から翻訳されています。
 
 
 [5代目ギャランΣG63BDASH.jpg](https://ja.wikipedia.org/wiki/File:5代目ギャランΣG63BDASH.jpg "fig:5代目ギャランΣG63BDASH.jpg") **三菱・シリウスDASH3x2**（みつびし・シリウス ダッシュ スリー バイ ツー）とは、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が開発した[可変バルブ機構](../Page/可変バルブ機構.md "wikilink")を搭載したエンジンの名称である。後に[サイクロンDash3x2に改名した](https://ja.wikipedia.org/wiki/三菱・サイクロンDash3x2 "wikilink")。

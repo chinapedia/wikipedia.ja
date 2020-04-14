@@ -744,7 +744,7 @@ TFCC-86267:通常盤</p></td>
 <li>What's Wrong With Groovin'</li>
 <li>ZIGGY STARDUST</li>
 <li>By This River</li>
-<li><a href="../Page/さよなら人類.md" title="wikilink">さよなら人類</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/さよなら人類/らんちう" title="wikilink">さよなら人類</a></li>
 </ol></td>
 <td><p>オリコン最高9位、登場回数12回</p></td>
 </tr>
@@ -1187,7 +1187,7 @@ SWEET MEMORIES feat.中納良恵</p></td>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p>縦書きの雨 feat.中納良恵</p></td>
-<td><p><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>『<a href="https://ja.wikipedia.org/wiki/Walkin&#39;" title="wikilink">Walkin'</a>』</p></td>
+<td><p><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>『<a href="https://ja.wikipedia.org/wiki/Walkin&#39;_(東京スカパラダイスオーケストラのアルバム)" title="wikilink">Walkin'</a>』</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1438,7 +1438,7 @@ SWEET MEMORIES feat.中納良恵</p></td>
 | [UGICHIN](../Page/UGICHIN.md "wikilink")                          | 「カサヴェテス」                                                                                                                                                                                                                           |
 | [ELECROTNIK](https://ja.wikipedia.org/wiki/ELECROTNIK "wikilink") | 「[天国と白いピエロ](https://www.youtube.com/watch?v=QG_m9Ri1jSo)」                                                                                                                                                                          |
 | [甲斐田祐輔](https://ja.wikipedia.org/wiki/甲斐田祐輔 "wikilink")           | 「[ソレイユ（中納良恵）](https://www.youtube.com/watch?v=zYE7yCZTtuI)」「あしながのサルヴァドール」                                                                                                                                                          |
-| [喜田夏記](https://ja.wikipedia.org/wiki/喜田夏記 "wikilink")             | 「ヴェルモット・フラワーズ（勝手にしやがれ＋EGO-WRAPPIN'）」                                                                                                                                                                                               |
+| [喜田夏記](../Page/喜田夏記.md "wikilink")                                | 「ヴェルモット・フラワーズ（勝手にしやがれ＋EGO-WRAPPIN'）」                                                                                                                                                                                               |
 | [北岡一哉](https://ja.wikipedia.org/wiki/北岡一哉 "wikilink")             | 「[BRAND NEW DAY](https://www.youtube.com/watch?v=7ZPfsh_ZAsc)」「NERVOUS BREAK DOWN」「Wherever You May Be」「サイコアナルシス」「[女根の月](https://www.youtube.com/watch?v=y0rrIOH_iW0)」「色彩のブルース」「[方舟](https://www.youtube.com/watch?v=pAouP5CaVhw)」 |
 | [園田俊郎](https://ja.wikipedia.org/wiki/園田俊郎 "wikilink")             | 「〜Midnight Dejavu〜色彩のブルース」                                                                                                                                                                                                         |
 | [丹下紘希](../Page/丹下紘希.md "wikilink")                                | 「[WE ARE HERE](https://www.youtube.com/watch?v=cftjXmyD3Sw)（BRAHMAN / EGO-WRAPPIN'）」                                                                                                                                               |

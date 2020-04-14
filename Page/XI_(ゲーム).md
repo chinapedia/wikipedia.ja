@@ -1,4 +1,4 @@
-> この記事は[XI \(\)](https://ja.wikipedia.org/wiki/XI_\(\))から翻訳されています。
+> この記事は[XI \(ゲーム\)](https://ja.wikipedia.org/wiki/XI_\(ゲーム\))から翻訳されています。
 
 
 **XI**（サイ）は、1998年に発売されたソニー・コンピュータエンタテインメント（現・[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の[アクションパズル](../Page/アクションパズル.md "wikilink")ゲーム、およびそのシリーズ。開発は[シフト](https://ja.wikipedia.org/wiki/シフト_\(ゲーム会社\) "wikilink")。 タイトルの「XI」は発音、アクセントを含めてXI\[sái\]、もしくは表記上の都合で「XI\[sai\]」と書かれる。 北米、EUでは「Devil DICE」のタイトルで販売された。同様に、シリーズの「XIゴ」は北米、EUでは「Bombastic」にタイトルを変更している。 第一回[ゲームやろうぜ\!](https://ja.wikipedia.org/wiki/ゲームやろうぜ! "wikilink")に採用されて制作された作品で、日本では百万本以上を販売し、シリーズ続編や携帯ゲーム機への移植作も作られた。

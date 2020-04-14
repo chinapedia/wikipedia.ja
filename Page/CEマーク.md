@@ -1,4 +1,4 @@
-> この記事は[CE](https://ja.wikipedia.org/wiki/CE)から翻訳されています。
+> この記事は[CEマーク](https://ja.wikipedia.org/wiki/CEマーク)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Conformité_Européenne_\(logo\).svg "wikilink") **CEマーク**は、商品がすべてのEU ([欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")) 加盟国の基準を満たすものに付けられる基準適合マーク。表示することをCEマーキングという。

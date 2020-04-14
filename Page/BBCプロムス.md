@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCプロムス](https://ja.wikipedia.org/wiki/BBCプロムス)から翻訳されています。
 
 
 **BBCプロムス**（**The Proms**、**BBCプロムナードコンサート**）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")で毎年夏開催される、8週間に及ぶ一連の[クラシック音楽](../Page/クラシック音楽.md "wikilink")コンサート・シリーズである。

@@ -1,4 +1,4 @@
-> この記事は[Nitro](https://ja.wikipedia.org/wiki/Nitro)から翻訳されています。
+> この記事は[クラッシュギアNitro](https://ja.wikipedia.org/wiki/クラッシュギアNitro)から翻訳されています。
 
 
 『**クラッシュギアNitro**』（クラッシュギアにとろ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されたバトル玩具『[クラッシュギア](../Page/クラッシュギア.md "wikilink")』をモチーフとした[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[名古屋テレビ→メ～テレ](../Page/名古屋テレビ放送.md "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")まで放送された。全50話。

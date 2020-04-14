@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[イースV](https://ja.wikipedia.org/wiki/イースV)から翻訳されています。
 
 
 『**イースV**』（イース5、Ys V）では、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG) 、〈[イースシリーズ](../Page/イースシリーズ.md "wikilink")〉の第5作目となるコンピュータゲームとその派生作品を総合的に扱う。〈イースシリーズ〉の全体像ついては「[イースシリーズ](../Page/イースシリーズ.md "wikilink")」を参照。
@@ -179,7 +179,7 @@
 
 ## イースV -Lost Kefin, Kingdom of Sand-
 
-タイトーによる[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 向け[リメイク](../Page/リメイク.md "wikilink")作品。開発はアクセス。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
+タイトーによる[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 向け[リメイク](../Page/リメイク.md "wikilink")作品。開発は[アクセス](https://ja.wikipedia.org/wiki/アクセス_\(ゲーム会社\) "wikilink")。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
 
 ### キャスト
 

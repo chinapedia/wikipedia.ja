@@ -1,4 +1,4 @@
-> この記事は[BMWR75](https://ja.wikipedia.org/wiki/BMWR75)から翻訳されています。
+> この記事は[BMW・R75](https://ja.wikipedia.org/wiki/BMW・R75)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_R75.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_R75_back.jpg "wikilink") **BMW・R75**は、[BMW](../Page/BMW.md "wikilink")製の[サイドカー](../Page/サイドカー.md "wikilink")付き[オートバイ](../Page/オートバイ.md "wikilink")である。

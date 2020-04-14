@@ -1,4 +1,4 @@
-> この記事は[SPLASH \(\)](https://ja.wikipedia.org/wiki/SPLASH_\(\))から翻訳されています。
+> この記事は[SPLASH \(砂岡事務所\)](https://ja.wikipedia.org/wiki/SPLASH_\(砂岡事務所\))から翻訳されています。
 
 
 **SPLASH**（スプラッシュ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に活動した4人組[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手グループ。所属[事務所は](../Page/芸能事務所.md "wikilink")[砂岡事務所](../Page/砂岡事務所.md "wikilink")、[レコード会社](../Page/レコード会社.md "wikilink")は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

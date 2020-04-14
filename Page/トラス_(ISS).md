@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[トラス \(ISS\)](https://ja.wikipedia.org/wiki/トラス_\(ISS\))から翻訳されています。
 
 
 [ISS_configuration_2017-06_en.svg](https://ja.wikipedia.org/wiki/File:ISS_configuration_2017-06_en.svg "fig:ISS_configuration_2017-06_en.svg") **トラス**（truss）とは、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) の背骨にあたる基幹構造で、非与圧の物資、[ラジエータ](../Page/ラジエーター.md "wikilink")、[太陽電池パドル](https://ja.wikipedia.org/wiki/#太陽電池パドル "wikilink")（Solar Array Wing：SAW）、その他の機器が取り付けられている。

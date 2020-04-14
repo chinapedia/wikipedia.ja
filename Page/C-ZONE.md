@@ -616,7 +616,7 @@ tvk<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</
 
 ## 外部リンク
 
-  - [C-ZONE7 オフィシャルブログ](http://ameblo.jp/c-zone/)（旧：C-ZONE☆BABY）
+  - [C-ZONE7 オフィシャルブログ](https://ameblo.jp/c-zone/)（旧：C-ZONE☆BABY）
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:千葉テレビ放送](https://ja.wikipedia.org/wiki/Category:千葉テレビ放送 "wikilink") [Category:関東地方のローカルアイドル](https://ja.wikipedia.org/wiki/Category:関東地方のローカルアイドル "wikilink")
 

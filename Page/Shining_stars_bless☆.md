@@ -1,4 +1,4 @@
-> この記事は[Shining stars bless](https://ja.wikipedia.org/wiki/Shining_stars_bless)から翻訳されています。
+> この記事は[Shining stars bless☆](https://ja.wikipedia.org/wiki/Shining_stars_bless☆)から翻訳されています。
 
 
 「**Shining stars bless☆**」（シャイニング スターズ ブレス）は、[詩月カオリ](../Page/詩月カオリ.md "wikilink")の楽曲。彼女のメジャーデビューシングルとして[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")から発売された。販売形態は通常盤と初回限定盤の2種リリースで、初回限定盤には「Shining stars bless☆」の[プロモーションビデオを収録したDVDが封入されている](../Page/ミュージック・ビデオ.md "wikilink")。当初、楽曲タイトルは「☆Shining stars bless☆」にする予定であった。

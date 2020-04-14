@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRガス](https://ja.wikipedia.org/wiki/CRガス)から翻訳されています。
 
 
 **CRガス** (ジベンゾ-1,4-オキサゼピン、dibenzoxazepine）は、[催涙ガス](https://ja.wikipedia.org/wiki/催涙ガス "wikilink")の一種である\[1\]。1950年代後期～1960年代初期にかけて、[暴動鎮圧](https://ja.wikipedia.org/wiki/暴動鎮圧 "wikilink")剤として[イギリス国防省](https://ja.wikipedia.org/wiki/イギリス国防省 "wikilink")により開発された。

@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[CFベレネンセス](https://ja.wikipedia.org/wiki/CFベレネンセス)から翻訳されています。
 
 
 **ベレネンセスSAD** () は、2018年6月30日に独立企業として創設された[ポルトガル](../Page/ポルトガル.md "wikilink")・[リスボン](../Page/リスボン.md "wikilink")・[ベレン](https://ja.wikipedia.org/wiki/ベレン "wikilink")地区の[スポーツクラブである](../Page/クラブチーム.md "wikilink")\[1\]。

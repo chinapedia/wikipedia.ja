@@ -1,9 +1,9 @@
 > この記事は[Digicas](https://ja.wikipedia.org/wiki/Digicas)から翻訳されています。
 
 
-**デジキャス**（**Digicas**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")局、[BS朝日の関連会社](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")デジタル・キャスト・インターナショナル（現：株式会社[テレビ朝日メディアプレックス](../Page/テレビ朝日メディアプレックス.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")の子会社））などが経営して行っていた、[BSデジタルデータ放送局](../Page/衛星放送.md "wikilink")。
+**デジキャス**（**Digicas**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")局、[BS朝日の関連会社](../Page/ビーエス朝日.md "wikilink")、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")デジタル・キャスト・インターナショナル（現：株式会社[テレビ朝日メディアプレックス](../Page/テレビ朝日メディアプレックス.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")の子会社））などが経営して行っていた、[BSデジタルデータ放送局](../Page/衛星放送.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に開局し、[ビーエス朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")とともに双方向サービス「**クラブA\&D**」（**A**はBS朝日から、**D**はデジキャスから取った）を展開するなどしたが、[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")政府の方針によるBSデジタルテレビ放送への特化などを理由として放送終了し、データ放送事業から撤退した。
+[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に開局し、[ビーエス朝日](../Page/ビーエス朝日.md "wikilink")とともに双方向サービス「**クラブA\&D**」（**A**はBS朝日から、**D**はデジキャスから取った）を展開するなどしたが、[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")政府の方針によるBSデジタルテレビ放送への特化などを理由として放送終了し、データ放送事業から撤退した。
 
 デジタル・キャスト・インターナショナルはその後テレビ朝日の子会社となり、2007年7月1日、社名を「株式会社テレビ朝日メディアプレックス」に変更した。
 

@@ -1,4 +1,4 @@
-> この記事は[NISSAN](https://ja.wikipedia.org/wiki/NISSAN)から翻訳されています。
+> この記事は[NISSANミッドナイトステーション](https://ja.wikipedia.org/wiki/NISSANミッドナイトステーション)から翻訳されています。
 
 
 『**NISSANミッドナイトステーション**』（にっさんミッドナイトステーション、*NISSAN Midnight Station*）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")（[土曜日](../Page/土曜日.md "wikilink")）の24時台を中心に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")放送枠のタイトル。タイトルの通り、[日産自動車](../Page/日産自動車.md "wikilink")（NISSAN）の[一社提供](../Page/一社提供.md "wikilink")だった。

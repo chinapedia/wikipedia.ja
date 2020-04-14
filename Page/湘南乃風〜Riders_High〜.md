@@ -1,4 +1,4 @@
-> この記事は[Riders High](https://ja.wikipedia.org/wiki/Riders_High)から翻訳されています。
+> この記事は[湘南乃風〜Riders High〜](https://ja.wikipedia.org/wiki/湘南乃風〜Riders_High〜)から翻訳されています。
 
 
 **湘南乃風〜Riders High〜**（しょうなんのかぜ・ライダーズ・ハイ）は、[2006年](../Page/2006年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に発売された[湘南乃風](../Page/湘南乃風.md "wikilink")の3作目のアルバム。

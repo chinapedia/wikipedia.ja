@@ -1,4 +1,4 @@
-> この記事は[J.J.](https://ja.wikipedia.org/wiki/J.J.)から翻訳されています。
+> この記事は[J.J.プッツ](https://ja.wikipedia.org/wiki/J.J.プッツ)から翻訳されています。
 
 
 **ジョセフ・ジェイソン・プッツ**（**Joseph Jason "J.J." Putz**, [1977年](../Page/1977年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[ウェイン郡](https://ja.wikipedia.org/wiki/ウェイン郡_\(ミシガン州\) "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。右投右打。

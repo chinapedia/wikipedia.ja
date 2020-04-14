@@ -1,4 +1,4 @@
-> この記事は[WA](https://ja.wikipedia.org/wiki/WA)から翻訳されています。
+> この記事は[WAになっておどろう](https://ja.wikipedia.org/wiki/WAになっておどろう)から翻訳されています。
 
 
 「**WAになっておどろう**」（わになっておどろう）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で放送された歌である。
@@ -44,7 +44,9 @@
 
 それによると、この楽曲では[リズム](../Page/リズム.md "wikilink")を重要視して作られたことが伺える。「みんなのうた」という番組の特質にあわせて、子供からお年寄りまで幅広い世代の人々に親しんでもらえるよう、「どんなテンポでも踊れるようにした(テキストから引用)」。ゆったりしたテンポの[16ビート](https://ja.wikipedia.org/wiki/16ビート "wikilink")をリズムの基礎に据えることで、速い踊り・遅い踊りのどちらでも曲にあわせられるような工夫がなされている。
 
-また、視聴者から質問の多かった、サブタイトルの「イレ アイエ」については、アフリカの[ヨルバ語](../Page/ヨルバ語.md "wikilink")で「魂の家」という意味であることを明かしている。また、「それは無理に分からせるものではなく、ふと疑問に思った人が、『イレ アイエって何ですか』、と聞いてくれるだけで意味がある」とも語っている。
+また、視聴者から質問の多かった、サブタイトルの「イレ アイエ」については、[アフリカ](../Page/アフリカ.md "wikilink")の[ヨルバ語](../Page/ヨルバ語.md "wikilink")で「魂の家」という意味であることを明かしている。また、「それは無理に分からせるものではなく、ふと疑問に思った人が、『イレ アイエって何ですか』、と聞いてくれるだけで意味がある」とも語っている。
+
+歌詞の冒頭にある「うじゃけた」とは、態度や身なりがだらしなく崩れている様を指す言葉だが、一部の[国語辞典](../Page/国語辞典.md "wikilink")にしか載っていない。『精選版[日本国語大辞典](../Page/日本国語大辞典.md "wikilink")』では「うじゃじゃける」として載っており、[江戸時代](../Page/江戸時代.md "wikilink")から用例のある古い語であることが判る\[2\]。
 
 ## AGHARTA版
 
@@ -64,7 +66,7 @@
 
 ### 解説
 
-[オリコン調べにおいて](../Page/オリコンチャート.md "wikilink")、[V6のシングルとしては](../Page/V6_\(グループ\).md "wikilink")「[愛なんだ](../Page/愛なんだ.md "wikilink")」・「[MUSIC FOR THE PEOPLE](../Page/MUSIC_FOR_THE_PEOPLE.md "wikilink")」に次ぐ3番目の売り上げである\[2\]。5作ぶりに[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を逃した。
+[オリコン調べにおいて](../Page/オリコンチャート.md "wikilink")、[V6のシングルとしては](../Page/V6_\(グループ\).md "wikilink")「[愛なんだ](../Page/愛なんだ.md "wikilink")」・「[MUSIC FOR THE PEOPLE](../Page/MUSIC_FOR_THE_PEOPLE.md "wikilink")」に次ぐ3番目の売り上げである\[3\]。5作ぶりに[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を逃した。
 
 [坂本昌行](../Page/坂本昌行.md "wikilink")と[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")のソロパートがある。2014年には、V6が『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出演しこの楽曲を披露した。
 
@@ -134,7 +136,7 @@
 
 ### CMへの起用
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月28日から2011年4月11日まで、[トヨタ・ノア](../Page/トヨタ・ノア.md "wikilink")のCM「カピバラの家族観察篇」「忘れモノ篇」にカバーが使われた\[3\]。タイトルは「WAになって踊ろう」である。歌手は非公開、演奏は「デイブレイク」とされているが詳細は公開されていない。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月28日から2011年4月11日まで、[トヨタ・ノア](../Page/トヨタ・ノア.md "wikilink")のCM「カピバラの家族観察篇」「忘れモノ篇」にカバーが使われた\[4\]。タイトルは「WAになって踊ろう」である。歌手は非公開、演奏は「デイブレイク」とされているが詳細は公開されていない。
 
 ## 出典
 
@@ -147,5 +149,6 @@
 [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:みんなのうたの楽曲](https://ja.wikipedia.org/wiki/Category:みんなのうたの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:1998年長野オリンピック](https://ja.wikipedia.org/wiki/Category:1998年長野オリンピック "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
 
 1.  「ベスト盤も大人気 NHK『みんなのうた』37年目の曲作り」『[東京新聞](../Page/東京新聞.md "wikilink")』1997年12月16日付朝刊、13面。
-2.  [V6のシングル売上ランキング](https://www.oricon.co.jp/prof/25517/rank/single/)、ORICON NEWS - 2019年6月25日閲覧。
-3.  [ノア TV-CF](http://toyota.jp/noah/tvcf/)
+2.  [新・ことば事情４４０２「ウジャジャケる」](http://www.ytv.co.jp/michiura/time/2011/07/post-810.html)
+3.  [V6のシングル売上ランキング](https://www.oricon.co.jp/prof/25517/rank/single/)、ORICON NEWS - 2019年6月25日閲覧。
+4.  [ノア TV-CF](http://toyota.jp/noah/tvcf/)

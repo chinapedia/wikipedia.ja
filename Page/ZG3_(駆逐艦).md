@@ -1,4 +1,4 @@
-> この記事は[ZG3 \(\)](https://ja.wikipedia.org/wiki/ZG3_\(\))から翻訳されています。
+> この記事は[ZG3 \(駆逐艦\)](https://ja.wikipedia.org/wiki/ZG3_\(駆逐艦\))から翻訳されています。
 
 
 |                                   |

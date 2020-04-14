@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[上海III](https://ja.wikipedia.org/wiki/上海III)から翻訳されています。
 
 
 『**上海III**』は、1993年11月に[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")より稼働された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。サンソフトの[上海シリーズでは](../Page/上海_\(ゲーム\).md "wikilink")3作目となる。1994年9月には[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")にも移植され、1998年8月には[ニンテンドウパワー](../Page/ニンテンドウパワー.md "wikilink")でも配信された。また、2015年7月3日からは[PlayStation 4の](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")でアーケード版が配信されている。

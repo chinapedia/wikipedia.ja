@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKゼタ・ゴルボヴツィ](https://ja.wikipedia.org/wiki/FKゼタ・ゴルボヴツィ)から翻訳されています。
 
 
 **FKゼタ・ゴルボヴツィ**（[キリル文字](../Page/キリル文字.md "wikilink")表記: , [ラテン文字](../Page/ラテン文字.md "wikilink")表記: ）は、[モンテネグロ](../Page/モンテネグロ.md "wikilink")・[ポドゴリツァ](../Page/ポドゴリツァ.md "wikilink")郊外の[ゴルボヴツィ](https://ja.wikipedia.org/wiki/ゴルボヴツィ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -37,6 +37,7 @@
   - [早川航太](https://ja.wikipedia.org/wiki/早川航太 "wikilink")
   - [久保田賢治](https://ja.wikipedia.org/wiki/久保田賢治 "wikilink")
   - [醍醐虎汰朗](https://ja.wikipedia.org/wiki/醍醐虎汰朗 "wikilink")
+  - [三谷眞由](https://ja.wikipedia.org/wiki/三谷眞由 "wikilink")
   - [黄升炫](https://ja.wikipedia.org/wiki/黄升ゲン "wikilink")
   - [三谷麟太郎](https://ja.wikipedia.org/wiki/三谷麟太郎 "wikilink")
   - 土屋慶太
@@ -46,7 +47,7 @@
   - [山田紗椰](https://ja.wikipedia.org/wiki/山田紗椰 "wikilink")
   - [岩垂桃香](https://ja.wikipedia.org/wiki/岩垂桃香 "wikilink")
   - [宮本莉子](https://ja.wikipedia.org/wiki/宮本莉子 "wikilink")
-  - 荒井大介
+  - [荒井大介](https://ja.wikipedia.org/wiki/荒井大介 "wikilink")
   - [喜多よしか](https://ja.wikipedia.org/wiki/喜多よしか "wikilink")（北海道オフィス）
 
 ### 営業2部

@@ -1,4 +1,4 @@
-> この記事は[ Tanz Walzer](https://ja.wikipedia.org/wiki/_Tanz_Walzer)から翻訳されています。
+> この記事は[ワルツを踊れ Tanz Walzer](https://ja.wikipedia.org/wiki/ワルツを踊れ_Tanz_Walzer)から翻訳されています。
 
 
 『**ワルツを踊れ Tanz Walzer**』（ワルツをおどれ タンツ・ワルツァー）は、[くるり](../Page/くるり.md "wikilink")の7枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。

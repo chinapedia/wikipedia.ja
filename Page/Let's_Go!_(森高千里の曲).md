@@ -1,4 +1,4 @@
-> この記事は[Let\'s Go! \(\)](https://ja.wikipedia.org/wiki/Let\'s_Go!_\(\))から翻訳されています。
+> この記事は[Let\'s Go! \(森高千里の曲\)](https://ja.wikipedia.org/wiki/Let\'s_Go!_\(森高千里の曲\))から翻訳されています。
 
 
 「**Let's Go\!**」（レッツ・ゴー\!）は、1997年2月25日に[森高千里](../Page/森高千里.md "wikilink")が発表した楽曲、及び 31枚目のシングル。CDコードはEPDA-38。

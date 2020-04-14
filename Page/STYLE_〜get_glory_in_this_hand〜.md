@@ -1,4 +1,4 @@
-> この記事は[STYLE get glory in this hand](https://ja.wikipedia.org/wiki/STYLE_get_glory_in_this_hand)から翻訳されています。
+> この記事は[STYLE 〜get glory in this hand〜](https://ja.wikipedia.org/wiki/STYLE_〜get_glory_in_this_hand〜)から翻訳されています。
 
 
 「**STYLE 〜get glory in this hand〜**」（スタイル　ゲット･グローリー･イン･ディス･ハンド）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")5枚目のシングルである。

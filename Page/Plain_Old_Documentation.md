@@ -169,7 +169,7 @@ no Front-Cover Texts, and with no Back-Cover Texts.
 
 ## POD における書式の詳細
 
-PODファイルは [ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")互換の[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")（例えば [Latin-1](https://ja.wikipedia.org/wiki/Latin-1 "wikilink") や [UTF-8](../Page/UTF-8.md "wikilink")）で書かれる。POD の構文解析器はファイルの先頭から POD 形式であるとは見なさず、最初に POD の[ディレクティブ](../Page/ディレクティブ.md "wikilink")が出て来るところまでは無視する。POD のディレクティブは行の先頭に書かれ、必ず先頭に等号(=)がつく。構文解析器はその後の行がPOD形式であると見なし、"=cut" ディレクティブが先頭にある行までをPOD形式として[解釈](../Page/解釈.md "wikilink")する。その後、再び別のPODディレクティブが出現するまでは無視する。このため、実行可能なコードを解釈するインタプリタが POD 形式部分を無視するなら、POD 形式と実行可能コードを混在させることができる。
+PODファイルは [ASCII](../Page/ASCII.md "wikilink")互換の[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")（例えば [Latin-1](https://ja.wikipedia.org/wiki/Latin-1 "wikilink") や [UTF-8](../Page/UTF-8.md "wikilink")）で書かれる。POD の構文解析器はファイルの先頭から POD 形式であるとは見なさず、最初に POD の[ディレクティブ](../Page/ディレクティブ.md "wikilink")が出て来るところまでは無視する。POD のディレクティブは行の先頭に書かれ、必ず先頭に等号(=)がつく。構文解析器はその後の行がPOD形式であると見なし、"=cut" ディレクティブが先頭にある行までをPOD形式として[解釈](../Page/解釈.md "wikilink")する。その後、再び別のPODディレクティブが出現するまでは無視する。このため、実行可能なコードを解釈するインタプリタが POD 形式部分を無視するなら、POD 形式と実行可能コードを混在させることができる。
 
 POD の内容は空行で段落分けされる。段落の先頭に空白文字（スペースやタブ）がある場合、その段落は "verbatim paragraphs" として解釈され、中身を整形しない。これはサンプルコードや[アスキーアート](../Page/アスキーアート.md "wikilink")に使われる。等号記号で始まる段落は "command paragraphs" である。等号の直後に続く文字列が POD ディレクティブとして解釈され、残りの部分はディレクティブに従って整形される。ディレクティブによってはその後の段落にも影響を与える。等号や空白以外で始まる段落は "ordinary paragraphs" として[解釈](../Page/解釈.md "wikilink")される。
 
@@ -199,13 +199,15 @@ POD 内のコマンド（ディレクティブ）には、4段階の節、番号
 
 ## 外部リンク
 
-  - [Perlの小技](http://homepage3.nifty.com/hippo2000/perltips/)
-      - \[<http://homepage3.nifty.com/hippo2000/perltips/podread.htm#2>. Perlドキュメントの読み方\]
+  -   -
   - [氷魚.jp](http://hio.jp/)
+
       - [perlpod](http://hio.jp/tips/perl/perldoc-5.8.0-old/pod/perlpod.html) - <span style="font-size:90%;">Perlに標準インストールされているPODの書き方マニュアル（和訳）</span>
       - [pod2html](http://hio.jp/tips/perl/perldoc-5.8.0-old/pod/pod2html.html) - <span style="font-size:90%;">POD→HTMLに変換するツールのマニュアル（和訳）</span>
       - [index of /Pod](http://hio.jp/tips/perl/perldoc-5.8.0/lib/Pod/) - <span style="font-size:90%;">Perlに標準搭載されているPOD関連のモジュールマニュアル。Pod::××なので該当する配下モジュールをクリック。(Pod::)Htmlなどを参照。（和訳）</span>
+
   - [The CPAN search site](http://search.cpan.org/) - <span style="font-size:90%;">Perlで一番信頼のおけるモジュール配布サイト。 (英語)</span>
+
       - [perlpod](http://search.cpan.org/~nwclark/perl-5.8.8/pod/perlpod.pod) - <span style="font-size:90%;">POD形式の<span style="text-decoration:underline;">文書</span>を書く人向けの説明。</span>
       - [perlpodspec](http://search.cpan.org/~nwclark/perl-5.8.8/pod/perlpodspec.pod) - <span style="font-size:90%;">POD形式の<span style="text-decoration:underline;">構文解析器</span>を書く人向けの説明。</span>
       - [pod2html](http://search.cpan.org/~rgarcia/perl-5.10.0/pod/pod2html.PL) - <span style="font-size:90%;">POD→HTMLに変換するツールのマニュアル</span>

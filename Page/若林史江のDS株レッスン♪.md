@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[若林史江のDS株レッスン♪](https://ja.wikipedia.org/wiki/若林史江のDS株レッスン♪)から翻訳されています。
 
 
 『**若林史江のDS株レッスン♪**』（わかばやしふみえのでぃーえすかぶれっすん）は、株初心者を対象に作られた株シミュレーターゲームソフトである。 著名女性トレーダーの[若林史江](https://ja.wikipedia.org/wiki/若林史江 "wikilink")と、ネット証券会社[イー・トレード証券](https://ja.wikipedia.org/wiki/イー・トレード証券 "wikilink")、[松井証券](../Page/松井証券.md "wikilink")、[楽天証券](https://ja.wikipedia.org/wiki/楽天証券 "wikilink")、[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")、オリックス証券が監修した。 若林史江のアドバイスを受けながら、ネット証券会社5社のトレーディングツールを使ってリアルな株トレーディングを楽しく実践的に学べる。

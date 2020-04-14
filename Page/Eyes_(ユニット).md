@@ -1,4 +1,4 @@
-> この記事は[Eyes \(\)](https://ja.wikipedia.org/wiki/Eyes_\(\))から翻訳されています。
+> この記事は[Eyes \(ユニット\)](https://ja.wikipedia.org/wiki/Eyes_\(ユニット\))から翻訳されています。
 
 
 **eyes**（アイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[LUVandSOUL](../Page/LUVandSOUL.md "wikilink")活動休止後にKENTAを中心に結成され、2005年[ユニバーサルミュージックよりデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2009年12月24日、25日のワンマンライブ2daysをもって解散。

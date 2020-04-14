@@ -1,4 +1,4 @@
-> この記事は[ASO \(\)](https://ja.wikipedia.org/wiki/ASO_\(\))から翻訳されています。
+> この記事は[ASO \(ゲーム\)](https://ja.wikipedia.org/wiki/ASO_\(ゲーム\))から翻訳されています。
 
 
 『**ASO**(**Armored Scrum Object**)』（エー・エス・オー - アーマード・スクラム・オブジェクト）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日本の[SNKから稼働された](../Page/SNK_\(1978年設立の企業\).md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[縦スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外では『*Alpha Mission*』のタイトルで稼働されていた。

@@ -9,9 +9,9 @@
 
 ## 外部リンク
 
-  - [マグナムトリオ公式サイト](http://magnumtrio.webcrow.jp/index.html)
-  - [多久潤一朗公式ブログ](http://ameblo.jp/magnumtrio/)
-  - [神田勇哉のブログ](http://ameblo.jp/yuyakanda/)
+  - [マグナムトリオ公式サイト](http://magnumtrio.webcrow.jp/)
+  - [多久潤一朗公式ブログ](https://ameblo.jp/magnumtrio/)
+  - [神田勇哉のブログ](https://ameblo.jp/yuyakanda/)
   - [梶原一紘公式サイト](http://kazuhirokajihara.wixsite.com/siriusmusic)
 
 [Category:室内楽団](https://ja.wikipedia.org/wiki/Category:室内楽団 "wikilink") [Category:日本のフルート奏者](https://ja.wikipedia.org/wiki/Category:日本のフルート奏者 "wikilink") [Category:2006年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に結成した音楽グループ "wikilink")

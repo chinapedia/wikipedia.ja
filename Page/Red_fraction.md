@@ -14,10 +14,18 @@
 2.  Red fraction（instrumental） \[3:42\]
 3.  Red fraction（G.M.S. remix） \[6:03\]
 
+## カバー
+
+  - [Roselia](https://ja.wikipedia.org/wiki/BanG_Dream!#Roselia（声優ユニット） "wikilink")［湊友希那（[相羽あいな](https://ja.wikipedia.org/wiki/相羽あいな "wikilink")）］ - ゲーム『[バンドリ\! ガールズバンドパーティ\!](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ! "wikilink")』に収録（2017年9月25日追加）\[1\]。
+
+## 脚注
+
 ## 外部リンク
 
   - [GENEON OFFICIAL WEB SITE](http://www.geneon-ent.co.jp)
   - [MELL GENEON OFFICIAL WEB SITE](http://www.geneon-ent.co.jp/rondorobe/music/ive/mell/)
   - [テレビアニメ「BLACK LAGOON」オフィシャルサイト](http://www.blacklagoon.jp/)
 
-[Category:I've](https://ja.wikipedia.org/wiki/Category:I've "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:NBCユニバーサル・ジャパンの楽曲](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+[Category:I've](https://ja.wikipedia.org/wiki/Category:I've "wikilink") [Category:2006年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2006年のデビュー・シングル "wikilink") [Category:NBCユニバーサル・ジャパンの楽曲](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+
+1.

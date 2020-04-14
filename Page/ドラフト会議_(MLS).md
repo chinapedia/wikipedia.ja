@@ -1,4 +1,4 @@
-> この記事は[ \(MLS\)](https://ja.wikipedia.org/wiki/_\(MLS\))から翻訳されています。
+> この記事は[ドラフト会議 \(MLS\)](https://ja.wikipedia.org/wiki/ドラフト会議_\(MLS\))から翻訳されています。
 
 
 **[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")**の**[ドラフト会議](../Page/ドラフト会議.md "wikilink")**(**MLS Draft**)は、メジャーリーグサッカー（MLS）の各クラブが新人戦選手のために行う会議である。

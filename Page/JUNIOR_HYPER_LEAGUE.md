@@ -3,9 +3,9 @@
 
 **JUNIOR HYPER LEAGUE**（ジュニア・ハイパー・リーグ）は、かつて[全日本プロレス](../Page/全日本プロレス.md "wikilink")主催のジュニアヘビー級選手によるシングルリーグ戦。
 
-2006年から2011年までは**ジュニアヘビー級リーグ戦**（ジュニアヘビーきゅうリーグせん）の名称で開催されて2012年に現在の名称に改称された。
+[2006年](../Page/2006年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")までは**ジュニアヘビー級リーグ戦**（ジュニアヘビーきゅうリーグせん）の名称で開催されて2012年に現在の名称に改称された。
 
-2003年に**[ジュニアヘビー・チャンピオン・カーニバル](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")**が開催されたが、あくまでヘビー級選手による[チャンピオン・カーニバルのジュニアヘビー級部門としての位置づけであり](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")、開催された時期もチャンピオン・カーニバルのシリーズ内であった。
+[2003年](../Page/2003年.md "wikilink")に**[ジュニアヘビー・チャンピオン・カーニバル](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")**が開催されたが、あくまでヘビー級選手による[チャンピオン・カーニバルのジュニアヘビー級部門としての位置づけであり](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")、開催された時期もチャンピオン・カーニバルのシリーズ内であった。
 
 ## 概要
 
@@ -19,12 +19,11 @@
 
 ### 2006年
 
-  - 参加人数8人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
-  - [カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink") 6点 ※優勝
+  - [カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink") 6点 優勝
   - [TAKAみちのく](../Page/TAKAみちのく.md "wikilink") 4点
   - [土方隆司](../Page/土方隆司.md "wikilink") 2点
   - ["brother"YASSHI](../Page/"brother"YASSHI.md "wikilink") 0点
@@ -35,7 +34,7 @@
 
 <!-- end list -->
 
-  - [中嶋勝彦](../Page/中嶋勝彦.md "wikilink") 5点 ※準優勝
+  - [中嶋勝彦](../Page/中嶋勝彦.md "wikilink") 5点 準優勝
   - [竹村豪氏](../Page/竹村豪氏.md "wikilink") 4点
   - [ヴィールス](https://ja.wikipedia.org/wiki/ヴィールス "wikilink") 2点
   - [MAZADA](../Page/MAZADA.md "wikilink") 1点
@@ -47,15 +46,14 @@
 
 ### 2007年
 
-  - 参加人数10人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
-  - [近藤修司](../Page/近藤修司.md "wikilink") 6点 ※準優勝
-  - 中嶋勝彦 4点
-  - 土方隆司 4点
+  - [近藤修司](../Page/近藤修司.md "wikilink") 6点 準優勝
   - [ペペ・みちのく](../Page/TAKAみちのく.md "wikilink") 4点
+  - 土方隆司 4点
+  - 中嶋勝彦 4点
   - [エル・ノサワ・メンドーサ](../Page/NOSAWA論外.md "wikilink") 2点
 
 <!-- end list -->
@@ -64,10 +62,10 @@
 
 <!-- end list -->
 
-  - [クリス・セイビン](../Page/クリス・セイビン.md "wikilink") 6点 ※優勝
+  - [クリス・セイビン](../Page/クリス・セイビン.md "wikilink") 6点 優勝
+  - [ディック東郷](../Page/ディック東郷.md "wikilink") 5点
   - [ミゲル・ハヤシJr.](../Page/カズ・ハヤシ.md "wikilink") 4点
   - [AKIRA](../Page/AKIRA_\(プロレスラー\).md "wikilink") 3点
-  - [ディック東郷](../Page/ディック東郷.md "wikilink") 5点
   - "brother"YASSHI 2点
 
 <!-- end list -->
@@ -77,12 +75,11 @@
 
 ### 2008年
 
-  - 参加人数10人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
-  - [KAI](https://ja.wikipedia.org/wiki/境敦史 "wikilink") 5点 ※優勝
+  - [KAI](https://ja.wikipedia.org/wiki/境敦史 "wikilink") 5点 優勝
   - [エル・サムライ](../Page/エル・サムライ.md "wikilink") 4点
   - 近藤修司 4点
   - MAZADA 4点
@@ -94,7 +91,7 @@
 
 <!-- end list -->
 
-  - [シルバー・キング](../Page/シルバー・キング.md "wikilink") 6点 ※準優勝
+  - [シルバー・キング](../Page/シルバー・キング.md "wikilink") 6点 準優勝
   - カズ・ハヤシ 4点
   - TAKEMURA 4点
   - [T28](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink") 3点
@@ -107,15 +104,14 @@
 
 ### 2009年
 
-  - 参加人数10人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
   - KAI 6点
-  - [スペル・クレイジー](https://ja.wikipedia.org/wiki/フランシスコ・イスラス "wikilink") 5点 ※準優勝
+  - [スペル・クレイジー](https://ja.wikipedia.org/wiki/フランシスコ・イスラス "wikilink") 5点 準優勝
   - カズ・ハヤシ 3点
-  - [NOSAWA](https://ja.wikipedia.org/wiki/NOSAWA "wikilink")論外 2点
+  - [NOSAWA論外](../Page/NOSAWA論外.md "wikilink") 2点
   - [歳三](../Page/土方隆司.md "wikilink") 0点
 
 <!-- end list -->
@@ -124,16 +120,15 @@
 
 <!-- end list -->
 
-  - [稔](https://ja.wikipedia.org/wiki/稔 "wikilink") 8点
-  - 近藤修司 6点 ※優勝
-  - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink") 2点
+  - [稔](../Page/田中稔_\(プロレスラー\).md "wikilink") 8点
+  - [近藤修司](../Page/近藤修司.md "wikilink") 6点 優勝
   - MAZADA 2点
+  - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink") 2点
   - [ピーティー・ウィリアムズ](../Page/ピーティー・ウィリアムズ.md "wikilink") 2点
 
 ### 2010年
 
-  - 参加人数12人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
@@ -150,21 +145,20 @@
 
 <!-- end list -->
 
-  - KAI 8点 ※準優勝
-  - [ジミー・ヤン](../Page/ジミー・ヤン.md "wikilink") 6点 ※優勝
+  - KAI 8点 準優勝
+  - [ジミー・ヤン](../Page/ジミー・ヤン.md "wikilink") 6点 優勝
   - 近藤修司 4点
-  - [BUSHI](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink") 4点
-  - MAZADA 4点
   - TAKAみちのく 4点
+  - MAZADA 4点
+  - [BUSHI](https://ja.wikipedia.org/wiki/T28_\(プロレスラー\) "wikilink") 4点
 
 ### 2011年
 
-  - 参加人数12人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
-  - KAI 7点 ※優勝
+  - KAI 7点 優勝
   - [ケニー・オメガ](https://ja.wikipedia.org/wiki/ケニー・オメガ "wikilink") 6点
   - 稔 5点
   - カズ・ハヤシ 4点
@@ -177,11 +171,11 @@
 
 <!-- end list -->
 
-  - [金本浩二](../Page/金本浩二.md "wikilink") 8点 ※準優勝
+  - [金本浩二](../Page/金本浩二.md "wikilink") 8点 準優勝
   - 近藤修司 6点
   - ジミー・ヤン 6点
-  - 大和ヒロシ 4点
   - 佐藤光留 4点
+  - 大和ヒロシ 4点
   - MAZADA 2点
 
 <!-- end list -->
@@ -193,8 +187,7 @@
 
 ### 2012年
 
-  - 参加人数12人
-    Aブロック
+  - Aブロック
 
 <!-- end list -->
 
@@ -211,11 +204,11 @@
 
 <!-- end list -->
 
-  - 近藤修司 9点※準優勝
-  - 大和ヒロシ 7点※優勝
+  - 近藤修司 9点 準優勝
+  - 大和ヒロシ 7点 優勝
   - カズ・ハヤシ 6点
   - [SUSHI](../Page/雷陣明.md "wikilink") 6点
-  - [gillette](https://ja.wikipedia.org/wiki/gillette_\(プロレスラー\) "wikilink") 2点
+  - [ジレット](https://ja.wikipedia.org/wiki/ジレット_\(プロレスラー\) "wikilink") 2点
   - [アンディ・ウー](https://ja.wikipedia.org/wiki/アンディ・ウー "wikilink") 0点
 
 ## 主な大会記録

@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[文字コード表 \(Windows\)](https://ja.wikipedia.org/wiki/文字コード表_\(Windows\))から翻訳されています。
 
 
 **文字コード表**（もじ - ひょう）は、[Microsoft Windowsに付属する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[文字コード表](https://ja.wikipedia.org/wiki/文字コード表 "wikilink")を表示するソフトウェアの名称である。通常の入力では入力できない文字や、どの文字を入力すればよいかが不明な場合に、一覧から選択して入力するためのツールとして使用される。Windows 3の時代から存在したが、Windows 2000から大きな機能の変更があった。

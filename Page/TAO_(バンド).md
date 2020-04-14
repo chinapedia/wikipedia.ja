@@ -1,4 +1,4 @@
-> この記事は[TAO \(\)](https://ja.wikipedia.org/wiki/TAO_\(\))から翻訳されています。
+> この記事は[TAO \(バンド\)](https://ja.wikipedia.org/wiki/TAO_\(バンド\))から翻訳されています。
 
 
 **TAO**（タオ）は、かつて活動していた日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

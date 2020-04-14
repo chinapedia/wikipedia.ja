@@ -33,27 +33,27 @@
 
 ### シングル
 
-1.  **[サンディー（本名はヨシヲ）](https://ja.wikipedia.org/wiki/サンディー（本名はヨシヲ） "wikilink")** （1991年12月4日発売）
-2.  **[誰に教わったの？](https://ja.wikipedia.org/wiki/誰に教わったの？ "wikilink")** （1992年5月21日発売）
+1.  **サンディー（本名はヨシヲ）** （1991年12月4日発売）
+2.  **誰に教わったの？** （1992年5月21日発売）
 3.  **[“ヘーコキ”ましたね](https://ja.wikipedia.org/wiki/“ヘーコキ”ましたね "wikilink")** （1994年7月21日発売）
-4.  **[やってます](https://ja.wikipedia.org/wiki/やってます "wikilink")** （1995年3月17日発売）
-5.  **[ミス貞子](https://ja.wikipedia.org/wiki/ミス貞子 "wikilink")** （1995年8月19日発売）
-6.  **[本当の僕じゃない\!\!](https://ja.wikipedia.org/wiki/本当の僕じゃない!! "wikilink")** （1995年11月17日発売）
-7.  **[恋のブランニュー・ラーゲ](https://ja.wikipedia.org/wiki/恋のブランニュー・ラーゲ "wikilink")** （1996年11月21日発売）
-8.  **[アッパレですね！](https://ja.wikipedia.org/wiki/アッパレですね！ "wikilink")** （1997年8月8日発売）
+4.  **やってます** （1995年3月17日発売）
+5.  **ミス貞子** （1995年8月19日発売）
+6.  **本当の僕じゃない\!\!** （1995年11月17日発売）
+7.  **恋のブランニュー・ラーゲ** （1996年11月21日発売）
+8.  **アッパレですね！** （1997年8月8日発売）
 9.  **[ハッピーライフ](../Page/ハッピーライフ.md "wikilink")** （1998年7月29日発売）
-10. **[才能の証明](https://ja.wikipedia.org/wiki/才能の証明 "wikilink")** （1998年11月26日発売）
-11. **[安定のバラード](https://ja.wikipedia.org/wiki/安定のバラード "wikilink")** （2001年3月23日発売）
+10. **才能の証明** （1998年11月26日発売）
+11. **安定のバラード** （2001年3月23日発売）
 
 ### アルバム
 
 1.  **[裏メンズ5](https://ja.wikipedia.org/wiki/裏メンズ5 "wikilink")** （1991年5月25日発売）
-2.  **[NAKED MEN -まる出し男-](https://ja.wikipedia.org/wiki/NAKED_MEN_-まる出し男- "wikilink")** （1992年6月19日発売）
-3.  **[SOUL SKINSHIP](https://ja.wikipedia.org/wiki/SOUL_SKINSHIP "wikilink")** （1994年7月21日発売）
-4.  **[COSMIC LOVE MOTION](https://ja.wikipedia.org/wiki/COSMIC_LOVE_MOTION "wikilink")** （1995年9月21日発売）
-5.  **[音楽銀座](https://ja.wikipedia.org/wiki/音楽銀座 "wikilink")** （1996年12月4日発売）
-6.  **[ORIGINAL SOUNDTRACK](https://ja.wikipedia.org/wiki/ORIGINAL_SOUNDTRACK "wikilink")** （1999年2月10日発売）
-7.  **[MAXI ALBOM](https://ja.wikipedia.org/wiki/MAXI_ALBOM "wikilink")** （2003年12月6日発売）
+2.  **NAKED MEN -まる出し男-** （1992年6月19日発売）
+3.  **SOUL SKINSHIP** （1994年7月21日発売）
+4.  **COSMIC LOVE MOTION** （1995年9月21日発売）
+5.  **音楽銀座** （1996年12月4日発売）
+6.  **ORIGINAL SOUNDTRACK** （1999年2月10日発売）
+7.  **MAXI ALBOM** （2003年12月6日発売）
 
 ### ミニアルバム
 

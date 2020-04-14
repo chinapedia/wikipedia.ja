@@ -1,4 +1,4 @@
-> この記事は[HBCSTV](https://ja.wikipedia.org/wiki/HBCSTV)から翻訳されています。
+> この記事は[HBC・STV東旭川テレビ・ラジオ放送所](https://ja.wikipedia.org/wiki/HBC・STV東旭川テレビ・ラジオ放送所)から翻訳されています。
 
 
 **HBC・STV東旭川テレビ・ラジオ放送所**（エイチビーシー・エスティーブイひがしあさひかわテレビ・ラジオほうそうじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道_\(地方公共団体\) "wikilink")[旭川市](../Page/旭川市.md "wikilink")東旭川町に[北海道放送](../Page/北海道放送.md "wikilink")、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")がそれぞれ個別に設置しているアナログテレビとAMラジオ放送局の基幹送信所の1つ。[旭山](../Page/旭山.md "wikilink")とともに上川・留萌・宗谷・北空知地方の基幹送信所に位置づけられている。

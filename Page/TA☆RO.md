@@ -1,4 +1,4 @@
-> この記事は[TARO](https://ja.wikipedia.org/wiki/TARO)から翻訳されています。
+> この記事は[TA☆RO](https://ja.wikipedia.org/wiki/TA☆RO)から翻訳されています。
 
 
 『**TA☆RO**』（タロウ）は、[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")（7日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")（27日深夜）まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。京楽産業（現・[京楽産業.](../Page/京楽産業..md "wikilink")）グループの単独提供。全117回\[1\]。

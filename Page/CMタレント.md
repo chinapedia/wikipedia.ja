@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[CMタレント](https://ja.wikipedia.org/wiki/CMタレント)から翻訳されています。
 
 
 **CMタレント**（シーエムタレント）とは、テレビコマーシャルや広告などで活躍する[役者](https://ja.wikipedia.org/wiki/役者 "wikilink")・[タレント](../Page/タレント.md "wikilink")を指す呼称・肩書きのひとつである。

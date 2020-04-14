@@ -1,4 +1,4 @@
-> この記事は[WEB](https://ja.wikipedia.org/wiki/WEB)から翻訳されています。
+> この記事は[WEBラジ☆ショッピングマスター](https://ja.wikipedia.org/wiki/WEBラジ☆ショッピングマスター)から翻訳されています。
 
 
 **WEBラジ☆ショッピングマスター**（ウェブラジ ショッピングマスター）は、[Xbox 360版](../Page/Xbox_360.md "wikilink")[THE IDOLM@STERから派生した](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")まで更新されていた。\[\[THE IDOLM@STER (Xbox 360)|THE

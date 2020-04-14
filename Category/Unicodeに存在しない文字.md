@@ -1,4 +1,4 @@
-> この記事は[Category:Unicode](https://ja.wikipedia.org/wiki/Category:Unicode)から翻訳されています。
+> この記事は[Category:Unicodeに存在しない文字](https://ja.wikipedia.org/wiki/Category:Unicodeに存在しない文字)から翻訳されています。
 
 
 [Unicode](../Page/Unicode.md "wikilink")に存在しない[文字](../Page/文字.md "wikilink")に関するカテゴリ。

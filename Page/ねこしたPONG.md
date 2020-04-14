@@ -1,4 +1,4 @@
-> この記事は[PONG](https://ja.wikipedia.org/wiki/PONG)から翻訳されています。
+> この記事は[ねこしたPONG](https://ja.wikipedia.org/wiki/ねこしたPONG)から翻訳されています。
 
 
 **ねこしたPONG**（ねこした ぽん）は[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")を執筆する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")であり、代表作は『[魔法少女メルル](../Page/魔法少女メルル.md "wikilink")』である。別に、[犬上利一](https://ja.wikipedia.org/wiki/犬上利一 "wikilink")（いぬがみ りいち）の名義を持つ。[滋賀県](../Page/滋賀県.md "wikilink")出身、[東京都](../Page/東京都.md "wikilink")在住。男性。

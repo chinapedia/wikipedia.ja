@@ -1,4 +1,4 @@
-> この記事は[ORANGE RANGE \(2007\)](https://ja.wikipedia.org/wiki/ORANGE_RANGE_\(2007\))から翻訳されています。
+> この記事は[ORANGE RANGE \(2007年のアルバム\)](https://ja.wikipedia.org/wiki/ORANGE_RANGE_\(2007年のアルバム\))から翻訳されています。
 
 
 『**ORANGE RANGE**』（オレンジレンジ）は、日本の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")バンド、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")2枚の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")の総称。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に『**ORANGE**』『**RANGE**』の2枚が[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")のgr8\!Recordsより同時発売された。

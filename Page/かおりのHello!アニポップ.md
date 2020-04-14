@@ -1,4 +1,4 @@
-> この記事は[Hello!](https://ja.wikipedia.org/wiki/Hello!)から翻訳されています。
+> この記事は[かおりのHello!アニポップ](https://ja.wikipedia.org/wiki/かおりのHello!アニポップ)から翻訳されています。
 
 
 **かおりのHello\!アニポップ**（かおりのハローあにぽっぷ）とは、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9月.md "wikilink")まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されたラジオ番組。

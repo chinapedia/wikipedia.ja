@@ -39,7 +39,7 @@
 ## 外部リンク
 
   - [Flat Three公式サイト](http://www.flat-three.org/)（英語）
-  - [Flat Three公式ブログ](http://ameblo.jp/flatthree-blog/)
+  - [Flat Three公式ブログ](https://ameblo.jp/flatthree-blog/)
   - [Twitter(Flat Three公式)](https://twitter.com/flat_three)
   - [Twitter(岩田幸也)](http://twitter.com/yukinary)
   - [Twitter(五十嵐郁)](http://twitter.com/IkuIgarashi)

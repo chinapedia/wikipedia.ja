@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・タスミン](https://ja.wikipedia.org/wiki/TVR・タスミン)から翻訳されています。
 
 
 **TVR・タスミン**とは、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[TVR](../Page/TVR.md "wikilink")が発売していた[クーペ](../Page/クーペ.md "wikilink")のこと。

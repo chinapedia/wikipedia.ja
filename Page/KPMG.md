@@ -1,11 +1,11 @@
 > この記事は[KPMG](https://ja.wikipedia.org/wiki/KPMG)から翻訳されています。
 
 
-**KPMG**は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")を本部とする[世界](../Page/世界.md "wikilink")154か国にわたるグローバルネットワークに、200,000人のスタッフを擁するプロフェッショナル・サービスファーム（知的専門家集団）\[1\]。
+**KPMG**は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")を本部とする[世界](../Page/世界.md "wikilink")154か国にわたるグローバルネットワークに、200,000人のスタッフを擁するプロフェッショナル・サービスファーム（知的専門家集団）\[1\]。[世界4大監査法人](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")（[Big4](https://ja.wikipedia.org/wiki/Big4 "wikilink")）の一角。
 
 ## 概要
 
-KPMGは1870年にイギリスで設立されたWilliam Barclay Peat＆Co.をはじめに、154カ国に20万人の専門家を持ち、会計と経営コンサルティングを主力とする多国籍企業。
+KPMGは1870年に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で設立されたWilliam Barclay Peat＆Co.をはじめに、154カ国に20万人の専門家を持ち、[会計](../Page/会計.md "wikilink")と[経営](https://ja.wikipedia.org/wiki/経営 "wikilink")[コンサルティング](../Page/コンサルティング.md "wikilink")を主力とする[多国籍企業](../Page/多国籍企業.md "wikilink")。
 
 [プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")、[アーンスト・アンド・ヤング](../Page/アーンスト・アンド・ヤング.md "wikilink")、[デロイト トウシュ トーマツと並び](../Page/デロイト_トウシュ_トーマツ.md "wikilink")、[世界4大会計事務所 (Big 4)の一角を占める](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")。
 

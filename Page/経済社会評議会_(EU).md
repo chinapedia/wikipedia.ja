@@ -1,4 +1,4 @@
-> この記事は[ \(EU\)](https://ja.wikipedia.org/wiki/_\(EU\))から翻訳されています。
+> この記事は[経済社会評議会 \(EU\)](https://ja.wikipedia.org/wiki/経済社会評議会_\(EU\))から翻訳されています。
 
 
 [欧州連合](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")における**経済社会評議会**（けいざいしゃかいひょうぎかい）とは、欧州連合の経済・社会政策における共同参加者 "social and economic partners" と位置づけられる諮問会議体。なお "social and economic partners" という語句は主に企業団体や使用者団体、労働組織の代表をさすものとされている。

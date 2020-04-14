@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKゼムン](https://ja.wikipedia.org/wiki/FKゼムン)から翻訳されています。
 
 
 **FKゼムン**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](../Page/ベオグラード.md "wikilink")近郊の都市[ゼムン](../Page/ゼムン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[セルビア・プルヴァ・リーガ](https://ja.wikipedia.org/wiki/セルビア・プルヴァ・リーガ "wikilink")（2部）に所属。

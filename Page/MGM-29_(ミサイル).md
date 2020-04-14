@@ -1,4 +1,4 @@
-> この記事は[MGM-29 \(\)](https://ja.wikipedia.org/wiki/MGM-29_\(\))から翻訳されています。
+> この記事は[MGM-29 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-29_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGM-29 サージェント | 画像=Image:MGM-29 Sergeant 04.jpg | キャプション=発射態勢のMGM-29A サージェント | 用途=地対地戦域攻撃 | 分類=[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink")、[核ミサイル](../Page/核ミサイル.md "wikilink") | 設計者=[ジェット推進研究所](../Page/ジェット推進研究所.md "wikilink") (JPL) | 製造者=[スペリー](../Page/スペリー.md "wikilink") | 運用者=（[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")） | 初飛行年月日= | 生産数=約500基 | 生産開始年月日=[1956年](../Page/1956年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")（製造契約） | 運用開始年月日=[1962年](../Page/1962年.md "wikilink")[6月](../Page/6月.md "wikilink")（アメリカ合衆国内） | 退役年月日=[1977年](../Page/1977年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")（アメリカ合衆国内） | 運用状況=退役 | ユニットコスト= }}

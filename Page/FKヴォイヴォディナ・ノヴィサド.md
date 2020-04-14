@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKヴォイヴォディナ・ノヴィサド](https://ja.wikipedia.org/wiki/FKヴォイヴォディナ・ノヴィサド)から翻訳されています。
 
 
 **フドバルスキ・クルブ・ヴォイヴォディナ**（, ）は、[セルビア](../Page/セルビア.md "wikilink")北部の都市[ノヴィ・サド](../Page/ノヴィ・サド.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

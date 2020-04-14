@@ -1,4 +1,4 @@
-> この記事は[MGM-5 \(\)](https://ja.wikipedia.org/wiki/MGM-5_\(\))から翻訳されています。
+> この記事は[MGM-5 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-5_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGM-5 コーポラル | 画像=Image:MGM-5 Corporal 02.jpg | キャプション=MGM-5 コーポラル | 用途=地対地戦域攻撃 | 分類=[短距離弾道ミサイル](../Page/短距離弾道ミサイル.md "wikilink") | 設計者=[ジェット推進研究所](../Page/ジェット推進研究所.md "wikilink") (JPL) | 製造者=[ファイアストン](../Page/ファイアストン.md "wikilink")・タイヤ・アンド・ラバー | 運用者 more=

@@ -1,4 +1,4 @@
-> この記事は[EMS \(\)](https://ja.wikipedia.org/wiki/EMS_\(\))から翻訳されています。
+> この記事は[EMS \(製造業\)](https://ja.wikipedia.org/wiki/EMS_\(製造業\))から翻訳されています。
 
 
 [製造業](../Page/製造業.md "wikilink")における**EMS**（イーエムエス）とは、英語の  の略であり、[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")の受託生産を行う[サービス](../Page/サービス.md "wikilink")のことである。

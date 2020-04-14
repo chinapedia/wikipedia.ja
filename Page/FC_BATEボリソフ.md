@@ -1,4 +1,4 @@
-> この記事は[FC BATE](https://ja.wikipedia.org/wiki/FC_BATE)から翻訳されています。
+> この記事は[FC BATEボリソフ](https://ja.wikipedia.org/wiki/FC_BATEボリソフ)から翻訳されています。
 
 
 **FC BATE**（FCバテ、）は、[ベラルーシ](../Page/ベラルーシ.md "wikilink")中央部の都市[ボリソフ](https://ja.wikipedia.org/wiki/ボリソフ "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。とは、クラブの母体企業であるボリソフ自動車トラクター電装品工場（）の事である。[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")のグループリーグ（2008-09シーズンと2011-12シーズン）と[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")のグループリーグ（2009-10シーズンと2010-11シーズン）に出場したことのあるベラルーシ唯一のクラブである。

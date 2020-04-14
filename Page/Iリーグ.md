@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iリーグ](https://ja.wikipedia.org/wiki/Iリーグ)から翻訳されています。
 
 
 **Iリーグ**（）は、[2007年](../Page/2007年.md "wikilink")に発足した[インド](../Page/インド.md "wikilink")のプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグである。[インディアン・スーパーリーグ](https://ja.wikipedia.org/wiki/インディアン・スーパーリーグ "wikilink")とは別組織。

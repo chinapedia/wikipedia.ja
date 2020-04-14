@@ -1,4 +1,4 @@
-> この記事は[ IN d-best Smile\&Tears](https://ja.wikipedia.org/wiki/_IN_d-best_Smile\&Tears)から翻訳されています。
+> この記事は[三枝夕夏 IN d-best 〜Smile\&Tears〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_d-best_〜Smile\&Tears〜)から翻訳されています。
 
 
 『**三枝夕夏 IN d-best 〜Smile & Tears〜**』（さえぐさゆうか・イン・デシベスト・スマイル・アンド・ティアーズ）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")1枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。

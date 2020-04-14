@@ -1,4 +1,4 @@
-> この記事は[Typhoon \(\)](https://ja.wikipedia.org/wiki/Typhoon_\(\))から翻訳されています。
+> この記事は[Typhoon \(プロレス\)](https://ja.wikipedia.org/wiki/Typhoon_\(プロレス\))から翻訳されています。
 
 
 **Typhoon**（タイフーン）は、日本のプロレス団体[DRAGON GATEに所属するユニットの名称](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。

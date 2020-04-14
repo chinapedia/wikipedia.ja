@@ -1,4 +1,4 @@
-> この記事は[Ns\'](https://ja.wikipedia.org/wiki/Ns\')から翻訳されています。
+> この記事は[Ns\'あおい](https://ja.wikipedia.org/wiki/Ns\'あおい)から翻訳されています。
 
 
 『**Ns'あおい**』（ナースあおい）は、[こしのりょう](https://ja.wikipedia.org/wiki/こしのりょう "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。**N's**は誤表記。『[モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて連載された。単行本は全32巻（講談社[モーニングKC](https://ja.wikipedia.org/wiki/講談社コミックス "wikilink")）。前日譚としてNs’あおい those days上下巻がある。

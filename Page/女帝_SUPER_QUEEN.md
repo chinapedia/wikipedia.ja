@@ -1,4 +1,4 @@
-> この記事は[ SUPER QUEEN](https://ja.wikipedia.org/wiki/_SUPER_QUEEN)から翻訳されています。
+> この記事は[女帝 SUPER QUEEN](https://ja.wikipedia.org/wiki/女帝_SUPER_QUEEN)から翻訳されています。
 
 
 『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](../Page/倉科遼.md "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](../Page/芳文社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[週刊漫画TIMES](../Page/週刊漫画TIMES.md "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。

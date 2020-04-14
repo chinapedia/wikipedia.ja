@@ -1,4 +1,4 @@
-> この記事は[BBT](https://ja.wikipedia.org/wiki/BBT)から翻訳されています。
+> この記事は[BBTスペシャル](https://ja.wikipedia.org/wiki/BBTスペシャル)から翻訳されています。
 
 
 『**BBTスペシャル**』（ビービーティースペシャル）は、[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")（BBT）で放送しているローカル番組である。[1999年](../Page/1999年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に放送開始。

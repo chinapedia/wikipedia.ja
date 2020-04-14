@@ -1,7 +1,7 @@
 > この記事は[Dj KENTARO](https://ja.wikipedia.org/wiki/Dj_KENTARO)から翻訳されています。
 
 
-**DJ KENTARO**（ディージェイ ケンタロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ターンテーブリスト](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。13歳（1995年）の頃からDJを始め、2002年に世界最大のDJバトルイベント「[DMC World Final](https://ja.wikipedia.org/wiki/Disco_Mix_Club "wikilink")」で、日本人およびアジア人としては初のワールドチャンピオンとなる。2004年にミックスCD『ON THE WHEELS OF Solid Steel』、2005年には欧州ソロツアーのライブを収録したDVD『National Geoscratch』を発売。
+**DJ KENTARO**（ディージェイ・ケンタロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ターンテーブリスト](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。13歳（1995年）の頃からDJを始め、2002年に世界最大のDJバトルイベント「[DMC World Final](https://ja.wikipedia.org/wiki/Disco_Mix_Club "wikilink")」で、日本人およびアジア人としては初のワールドチャンピオンとなる。2004年にミックスCD『ON THE WHEELS OF Solid Steel』、2005年には欧州ソロツアーのライブを収録したDVD『National Geoscratch』を発売。
 
 ## ディスコグラフィー
 
@@ -149,4 +149,4 @@
   -
   - [dj KENTARO DJ紹介・インタビュー](http://musicshelf.jp/?mode=static&html=special_d04/page2) - [MUSICSHELF](https://ja.wikipedia.org/wiki/金羊社 "wikilink")
 
-[Category:仙台市出身の人物](https://ja.wikipedia.org/wiki/Category:仙台市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:仙台市出身の人物](https://ja.wikipedia.org/wiki/Category:仙台市出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

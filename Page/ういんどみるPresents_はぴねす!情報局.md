@@ -1,4 +1,4 @@
-> この記事は[Presents !](https://ja.wikipedia.org/wiki/Presents_!)から翻訳されています。
+> この記事は[ういんどみるPresents はぴねす!情報局](https://ja.wikipedia.org/wiki/ういんどみるPresents_はぴねす!情報局)から翻訳されています。
 
 
 『**ういんどみるPresents はぴねす\!情報局**』（ういんどみるプレゼンツ はぴねすじょうほうきょく）は、[音泉](../Page/音泉.md "wikilink")より隔週で配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。『[はぴねす\!](../Page/はぴねす!.md "wikilink")』や[ういんどみる](../Page/ういんどみる.md "wikilink")作品の情報を取り扱っている。

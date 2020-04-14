@@ -1,4 +1,4 @@
-> この記事は[Bitter Sweet \(\)](https://ja.wikipedia.org/wiki/Bitter_Sweet_\(\))から翻訳されています。
+> この記事は[Bitter Sweet \(後藤沙緒里のアルバム\)](https://ja.wikipedia.org/wiki/Bitter_Sweet_\(後藤沙緒里のアルバム\))から翻訳されています。
 
 
 **Biteer Sweet**（ビタースイート）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。2007年3月14日、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。

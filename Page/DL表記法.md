@@ -1,4 +1,4 @@
-> この記事は[DL](https://ja.wikipedia.org/wiki/DL)から翻訳されています。
+> この記事は[DL表記法](https://ja.wikipedia.org/wiki/DL表記法)から翻訳されています。
 
 
 **D/L表記法**（ディーエルひょうきほう）とは、主に[IUPAC命名法](https://ja.wikipedia.org/wiki/IUPAC命名法 "wikilink")に基づいて、[化合物](../Page/化合物.md "wikilink")の[立体配置](../Page/立体配置.md "wikilink")の絶対配置を示す際に使用される表記法である。

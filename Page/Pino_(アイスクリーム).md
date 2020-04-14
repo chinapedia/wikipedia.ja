@@ -1,4 +1,4 @@
-> この記事は[Pino \(\)](https://ja.wikipedia.org/wiki/Pino_\(\))から翻訳されています。
+> この記事は[Pino \(アイスクリーム\)](https://ja.wikipedia.org/wiki/Pino_\(アイスクリーム\))から翻訳されています。
 
 
 [Morinaga_Pino_2.jpg](https://ja.wikipedia.org/wiki/File:Morinaga_Pino_2.jpg "fig:Morinaga_Pino_2.jpg") **森永pino**（もりながピノ）は、[森永乳業](../Page/森永乳業.md "wikilink")が[1976年](../Page/1976年.md "wikilink")から発売している[アイスクリーム](../Page/アイスクリーム.md "wikilink")。1979年から30年以上にわたって『**エスキモーpino**』と呼ばれていたが、エスキモーブランドの廃止に伴い、2010年10月から順次置き換えられている。

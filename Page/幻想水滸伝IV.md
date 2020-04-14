@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[幻想水滸伝IV](https://ja.wikipedia.org/wiki/幻想水滸伝IV)から翻訳されています。
 
 
 『**幻想水滸伝IV**』（げんそうすいこでんフォー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2004年](../Page/2004年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第4作目である。キャッチコピーは「**108人の待つ海へ。それは、冒険か。出会いか。**」。

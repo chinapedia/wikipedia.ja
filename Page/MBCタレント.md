@@ -1,4 +1,4 @@
-> この記事は[MBC](https://ja.wikipedia.org/wiki/MBC)から翻訳されています。
+> この記事は[MBCタレント](https://ja.wikipedia.org/wiki/MBCタレント)から翻訳されています。
 
 
 **MBCタレント**（エムビーシータレント）とは、[鹿児島市](../Page/鹿児島市.md "wikilink")に本社を持つ[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")の契約[パーソナリティの呼称である](../Page/タレント.md "wikilink")。

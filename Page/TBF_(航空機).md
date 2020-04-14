@@ -1,4 +1,4 @@
-> この記事は[TBF \(\)](https://ja.wikipedia.org/wiki/TBF_\(\))から翻訳されています。
+> この記事は[TBF \(航空機\)](https://ja.wikipedia.org/wiki/TBF_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 |名称=TBF / TBM アヴェンジャー |画像=<File:Grumman> TBM-3R VR-23 over Korea 1953.jpg |キャプション=飛行するTBF-3R 85905号機
@@ -343,7 +343,7 @@ NZ2505<br />
 (Classic Flyers)</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.classicflyersnz.com/Aviation+Museum/Aircraft+Exhibits.html?__utma=1.835891568.1557136733.1557136733.1557136733.1&amp;__utmb=1&amp;__utmc=1&amp;__utmx=-&amp;__utmz=1.1557136733.1.1.utmccn%253D(referral)%257Cutmcsr%253Dgoogle.com%257Cutmcct%253D%252F%257Cutmcmd%253Dreferral&amp;__utmv=-&amp;__utmk=3365809">10</a><a href="https://aeroantique.com/products/tbf-1-avenger-instrument-panel-buno-24337-nz2305">11</a></p></td>
+<td><p><a href="https://www.classicflyersnz.com/Aviation+Museum/Aircraft+Exhibits.html">10</a><a href="https://aeroantique.com/products/tbf-1-avenger-instrument-panel-buno-24337-nz2305">11</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBF-1</p></td>

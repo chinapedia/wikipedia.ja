@@ -1,4 +1,4 @@
-> この記事は[!HOMO LUDENS](https://ja.wikipedia.org/wiki/!HOMO_LUDENS)から翻訳されています。
+> この記事は[それ行け!HOMO LUDENS](https://ja.wikipedia.org/wiki/それ行け!HOMO_LUDENS)から翻訳されています。
 
 
 **それ行け\!HOMO LUDENS**（それゆけホモルーデンス）は、[NACK5が開局した翌日の](../Page/エフエムナックファイブ.md "wikilink")[1988年](../Page/1988年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")3月末まで放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。

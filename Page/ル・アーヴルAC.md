@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ル・アーヴルAC](https://ja.wikipedia.org/wiki/ル・アーヴルAC)から翻訳されています。
 
 
 **ル・アーヴル・アトレティック・クルブ・フットボール・アソシアシヨン**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ル・アーヴル](../Page/ル・アーヴル.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

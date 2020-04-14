@@ -1,4 +1,4 @@
-> この記事は[ THE MOVIE](https://ja.wikipedia.org/wiki/_THE_MOVIE)から翻訳されています。
+> この記事は[ねとらん者 THE MOVIE](https://ja.wikipedia.org/wiki/ねとらん者_THE_MOVIE)から翻訳されています。
 
 
 『**ねとらん者 THE MOVIE**』（ねとらんもん・ザ・ムービー）は、[2004年](../Page/2004年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")にソフトバンクパブリッシング（現・[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）より発売された[OVA](../Page/OVA.md "wikilink")作品。同社刊の雑誌『[ネットランナー](../Page/ネトラン.md "wikilink")』創刊5周年記念企画。付録として「[任意たん](../Page/伺か.md "wikilink")[フィギュア](../Page/フィギュア.md "wikilink")」が同梱されている。

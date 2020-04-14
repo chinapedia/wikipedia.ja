@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSドクホン](https://ja.wikipedia.org/wiki/MBSドクホン)から翻訳されています。
 
 
 **MBSドクホン**（エムビーエスドクホン）は、[毎日放送](../Page/毎日放送.md "wikilink")が発行していた[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")（[フリーペーパー](../Page/フリーペーパー.md "wikilink")）。

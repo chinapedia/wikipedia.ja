@@ -1,4 +1,4 @@
-> この記事は[MISS \(\)](https://ja.wikipedia.org/wiki/MISS_\(\))から翻訳されています。
+> この記事は[MISS \(雑誌\)](https://ja.wikipedia.org/wiki/MISS_\(雑誌\))から翻訳されています。
 
 
 『**MISS**』（ミス）は、[世界文化社](../Page/世界文化社.md "wikilink")が1988年から2013年にかけて発売していた女性[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")である。毎月28日に発売されていた。

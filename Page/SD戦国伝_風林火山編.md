@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SD戦国伝 風林火山編](https://ja.wikipedia.org/wiki/SD戦国伝_風林火山編)から翻訳されています。
 
 
 **SD戦国伝 風林火山編**（エスディーせんごくでん ふうりんかざんへん）は、[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズの第2作である。

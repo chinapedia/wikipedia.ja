@@ -1,4 +1,4 @@
-> この記事は[THE LEGEND \(TM NETWORK\)](https://ja.wikipedia.org/wiki/THE_LEGEND_\(TM_NETWORK\))から翻訳されています。
+> この記事は[THE LEGEND \(TM NETWORKのアルバム\)](https://ja.wikipedia.org/wiki/THE_LEGEND_\(TM_NETWORKのアルバム\))から翻訳されています。
 
 
 **THE LEGEND**（ザ・レジェンド）は[2003年](../Page/2003年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にリリースされた[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。

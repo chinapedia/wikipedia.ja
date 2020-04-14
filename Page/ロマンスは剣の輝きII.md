@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ロマンスは剣の輝きII](https://ja.wikipedia.org/wiki/ロマンスは剣の輝きII)から翻訳されています。
 
 
 『**ロマンスは剣の輝きII**』（ロマンスはつるぎのかがやきツー）は、[1999年](../Page/1999年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[フェアリーテールよりWindows](../Page/フェアリーテール_\(ブランド\).md "wikilink")95/98/NT4.0用に発売された[R指定](../Page/コンピュータゲームのレイティングシステム.md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")\[1\]。

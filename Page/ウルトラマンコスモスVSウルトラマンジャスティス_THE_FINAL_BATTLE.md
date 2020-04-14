@@ -1,4 +1,4 @@
-> この記事は[VS THE FINAL BATTLE](https://ja.wikipedia.org/wiki/VS_THE_FINAL_BATTLE)から翻訳されています。
+> この記事は[ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE](https://ja.wikipedia.org/wiki/ウルトラマンコスモスVSウルトラマンジャスティス_THE_FINAL_BATTLE)から翻訳されています。
 
 
 『**ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE**』（ウルトラマンコスモス ブイエス ウルトラマンジャスティス ザ・ファイナルバトル）は、[2003年](../Page/2003年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")に全国[松竹](../Page/松竹.md "wikilink")系映画館にて公開された[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")製作の[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")。

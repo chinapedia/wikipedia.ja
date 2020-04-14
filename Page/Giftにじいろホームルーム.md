@@ -1,4 +1,4 @@
-> この記事は[Gift](https://ja.wikipedia.org/wiki/Gift)から翻訳されています。
+> この記事は[Giftにじいろホームルーム](https://ja.wikipedia.org/wiki/Giftにじいろホームルーム)から翻訳されています。
 
 
 **Giftにじいろホームルーム**（ギフトにじいろホールルーム）は、テレビアニメ『[Gift 〜eternal rainbow〜](https://ja.wikipedia.org/wiki/Gift_〜eternal_rainbow〜 "wikilink")』に関する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
@@ -53,6 +53,5 @@
 
 ## 外部リンク
 
-  - [番組配信サイト（メディファクラジオ）](http://www.mediafactory.co.jp/anime/radio/index.html)
-
+  -
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink") [Category:ランティスウェブラジオ](https://ja.wikipedia.org/wiki/Category:ランティスウェブラジオ "wikilink") [Category:メディファクラジオ](https://ja.wikipedia.org/wiki/Category:メディファクラジオ "wikilink")

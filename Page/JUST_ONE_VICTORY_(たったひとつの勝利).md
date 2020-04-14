@@ -1,4 +1,4 @@
-> この記事は[JUST ONE VICTORY \(\)](https://ja.wikipedia.org/wiki/JUST_ONE_VICTORY_\(\))から翻訳されています。
+> この記事は[JUST ONE VICTORY \(たったひとつの勝利\)](https://ja.wikipedia.org/wiki/JUST_ONE_VICTORY_\(たったひとつの勝利\))から翻訳されています。
 
 
 「**JUST ONE VICTORY（たったひとつの勝利）\[Remix Version\]**」（ジャスト・ワン・ビクトリー たったひとつのしょうり リミックスヴァージョン）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")16枚目のシングル。
@@ -21,14 +21,17 @@
 
 また2009年9月30日にリリースされたベストアルバム『**[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")**』の初回限定版に『**JUST ONE VICTORY（LONG No Breakdown）**』が収録されており、基本的には『CLASSIX 2』収録バージョンと殆ど同じであるが、 間奏の途中の「Chase In～」がボーカルの無い**[インストバージョン](https://ja.wikipedia.org/wiki/インストルメンタル "wikilink")**となっている他、フェードにならずリフレインと完全に繋がっている点が異なる。また「SINGLE BACK TRACKS 1984-1999」や「CAROL DELUXE EDITION」に各々収録されているオリカラ版・インスト版共「Chase In～」のボーカルが入っており、この部分がインストになっているのは本バージョンのみとなっている。
 
+2019年実施の TM NETWORK 35周年 FanksからのTOP100曲カウントダウンSP～Gift from Fanks～では本曲が第58位に、また同曲のオリジナル版が第44位にそれぞれ選ばれた\[2\]。
+
 ### 原曲版との顕著な差異
 
 1.  アウトロがフェードアウトとなって4分台とショートバージョンとなっている。
       - 本シングル以外のバージョンは全てカットアウト。（「オリジナル」版、「single 7' version」版、「LONG No Breakdown」版）
-2.  イントロのフレーズの左(L)チャンネル側にディレイ処理が掛けられている。
-3.  ボーカルにエコー処理が施されている。
-4.  ドラム音が差し替えられている。
-5.  間奏途中「Chase In～」からのリフレインが完全にフェードアウトしてから入る。
+2.  ラストの「In The Forest (君の声が聞こえる)」のインストピアノ伴奏はオリジナル版のみ。
+3.  イントロのフレーズの左(L)チャンネル側にディレイ処理が掛けられている。
+4.  ボーカルにエコー処理が施されている。
+5.  ドラム音が差し替えられている。
+6.  間奏途中「Chase In～」からのリフレインが完全にフェードアウトしてから入る。
       - （「オリジナル」版はクロスフェードで、「LONG No Breakdown」版はフェードしない。）
 
 ## 収録曲
@@ -74,3 +77,4 @@
 [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink")
 
 1.  「TM NETWORK 30th Anniversary Special Issue 小室哲哉ぴあ TM編 (ぴあMOOK)」49ページの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") のインタビュー
+2.  2020年1月18日、ニコニコ生放送

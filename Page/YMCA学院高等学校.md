@@ -1,4 +1,4 @@
-> この記事は[YMCA](https://ja.wikipedia.org/wiki/YMCA)から翻訳されています。
+> この記事は[YMCA学院高等学校](https://ja.wikipedia.org/wiki/YMCA学院高等学校)から翻訳されています。
 
 
 **YMCA学院高等学校**（ワイエムシーエーがくいんこうとうがっこう）は、[大阪市](../Page/大阪市.md "wikilink")[天王寺区](../Page/天王寺区.md "wikilink")にある[通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")・[単位制](https://ja.wikipedia.org/wiki/単位制 "wikilink")の[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")である。[学校法人大阪YMCA](https://ja.wikipedia.org/wiki/学校法人大阪YMCA "wikilink")（大阪[キリスト教青年会](../Page/キリスト教青年会.md "wikilink")）が運営している[私立](../Page/私立学校.md "wikilink")[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[G\&U](https://ja.wikipedia.org/wiki/G\&U)から翻訳されています。
+> この記事は[G\&Uシステムサービス](https://ja.wikipedia.org/wiki/G\&Uシステムサービス)から翻訳されています。
 
 
 **G\&Uシステムサービス株式会社** ( *G\&U System Service, Ltd.* ) は、[大阪市](../Page/大阪市.md "wikilink")[福島区](../Page/福島区.md "wikilink")に本社を置く企業。

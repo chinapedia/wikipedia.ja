@@ -1,4 +1,4 @@
-> この記事は[MRO](https://ja.wikipedia.org/wiki/MRO)から翻訳されています。
+> この記事は[MRO金賞](https://ja.wikipedia.org/wiki/MRO金賞)から翻訳されています。
 
 
 **MRO金賞**（エムアールオーきんしょう）は、[金沢競馬場](../Page/金沢競馬場.md "wikilink")で施行される[地方競馬](../Page/地方競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")競走（[平地競走](../Page/平地競走.md "wikilink")）である。優勝杯を提供する[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の[民間放送](../Page/民間放送.md "wikilink")局[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")の略称である「**MRO**」から冠名が取られている。

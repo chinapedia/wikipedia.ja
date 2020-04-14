@@ -1,4 +1,4 @@
-> この記事は[HYPER ANISON WEB](https://ja.wikipedia.org/wiki/HYPER_ANISON_WEB)から翻訳されています。
+> この記事は[石田燿子のHYPER ANISON WEB♪](https://ja.wikipedia.org/wiki/石田燿子のHYPER_ANISON_WEB♪)から翻訳されています。
 
 
 『**石田燿子のHYPER ANISON WEB♪**』（いしだようこのハイパーアニソンウェブ）は、[石田燿子](../Page/石田燿子.md "wikilink")がパーソナリティーの[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

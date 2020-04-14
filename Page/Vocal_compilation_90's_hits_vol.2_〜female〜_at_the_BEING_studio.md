@@ -1,4 +1,4 @@
-> この記事は[Vocal compilation 90\'s hits vol.2 female at the BEING studio](https://ja.wikipedia.org/wiki/Vocal_compilation_90\'s_hits_vol.2_female_at_the_BEING_studio)から翻訳されています。
+> この記事は[Vocal compilation 90\'s hits vol.2 〜female〜 at the BEING studio](https://ja.wikipedia.org/wiki/Vocal_compilation_90\'s_hits_vol.2_〜female〜_at_the_BEING_studio)から翻訳されています。
 
 
 『**vocal compilation 90's hits Vol.2 〜female〜 at the BEING studio**』（ヴォーカル・コンピレーション・ナインティーズ・ヒッツ・ボリュームツー フィメール アト・ザ・ビーイング・ステューディオ）は[ビーイング](../Page/ビーイング.md "wikilink")側がリリースしたコンピレーションアルバム。

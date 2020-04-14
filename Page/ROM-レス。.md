@@ -1,4 +1,4 @@
-> この記事は[ROM-](https://ja.wikipedia.org/wiki/ROM-)から翻訳されています。
+> この記事は[ROM-レス。](https://ja.wikipedia.org/wiki/ROM-レス。)から翻訳されています。
 
 
 『**ROM-レス。**』（ろむれす）は、[白雪しおん](https://ja.wikipedia.org/wiki/白雪しおん "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。
@@ -35,4 +35,4 @@
 1.  第1巻（2006年09月12日発行） ISBN 4-8322-7590-9
 2.  第2巻（最終巻）（2007年05月27日発行）ISBN：978-4-8322-7632-1
 
-[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink")
+[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:まんがタイムきららの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムきららの4コマ漫画作品 "wikilink")

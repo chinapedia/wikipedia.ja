@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[裏モノJAPAN](https://ja.wikipedia.org/wiki/裏モノJAPAN)から翻訳されています。
 
 
 **裏モノJAPAN**（うらものジャパン）は、株式会社[鉄人社](https://ja.wikipedia.org/wiki/鉄人社 "wikilink")が発行する[月刊誌](../Page/雑誌.md "wikilink")。発売は毎月24日。世の中の[アンダーグラウンド](../Page/アンダーグラウンド.md "wikilink")な世界・世間の裏ネタ、業界裏ネタに暴露情報を中心に、アダルト系の巻頭グラビアカラーページなどで構成する。
@@ -22,12 +22,25 @@
 
 ## 連載記事
 
+特記なき場合は「裏モノJAPAN編集部」名義。
+
+  - クレイジーナンパ大作戦20\[1\]（2016年10月、仙頭正教）
+  - 目からウロコのSEXテクニック（2018年に書籍化）
+  - 日本の危険地帯をゆく（2019年3月に書籍化）
+  - ドキュメント 逮捕 \!（2019年5月に書籍化）\[2\]
+  - 一家心中があった春日部の4DKに家族全員で暮らす（2019年7月に書籍化、建部博）\[3\]
+  - リアル精神疾患ルポ 僕らはみんな病んでいる（2019年11月に書籍化）
+
 ## 関連項目
 
   - [おざわゆたか](https://ja.wikipedia.org/wiki/おざわゆたか "wikilink")
   - [北尾トロ](https://ja.wikipedia.org/wiki/北尾トロ "wikilink")
   - [石川英治](../Page/石川英治.md "wikilink")
   - [夏原剛](https://ja.wikipedia.org/wiki/夏原剛 "wikilink")
+
+## 脚注
+
+### 出典
 
 ## 外部リンク
 
@@ -36,3 +49,7 @@
   - [下関マグロ](http://ameblo.jp/maguro1958/)
 
 [Category:日本のアダルト雑誌](https://ja.wikipedia.org/wiki/Category:日本のアダルト雑誌 "wikilink") [Category:サブカルチャー雑誌](https://ja.wikipedia.org/wiki/Category:サブカルチャー雑誌 "wikilink") [Category:1998年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1998年創刊の雑誌 "wikilink")
+
+1.
+2.
+3.

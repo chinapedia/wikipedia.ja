@@ -1,4 +1,4 @@
-> この記事は[JRU18A](https://ja.wikipedia.org/wiki/JRU18A)から翻訳されています。
+> この記事は[JR貨物U18A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物U18A形コンテナ)から翻訳されています。
 
 
 **U18A形コンテナ**（U18Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している、12[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（有蓋[コンテナ\#ドライ・コンテナ](https://ja.wikipedia.org/wiki/コンテナ#ドライ・コンテナ "wikilink")）である。

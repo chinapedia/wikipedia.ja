@@ -1,4 +1,4 @@
-> この記事は[R90CK](https://ja.wikipedia.org/wiki/R90CK)から翻訳されています。
+> この記事は[日産・R90CK](https://ja.wikipedia.org/wiki/日産・R90CK)から翻訳されています。
 
 
 **日産・R90CK**は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[世界スポーツプロトタイプカー選手権](../Page/スポーツカー世界選手権.md "wikilink")（WSPC）、および[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")参戦用の[日産自動車](../Page/日産自動車.md "wikilink")の[グループC](../Page/グループC.md "wikilink")カー。前年型[R89Cと同じく](../Page/日産・R89C.md "wikilink")[ローラカーズの製作](../Page/ローラ・カーズ.md "wikilink")。

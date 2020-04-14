@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[超ドラゴンボールZ](https://ja.wikipedia.org/wiki/超ドラゴンボールZ)から翻訳されています。
 
 
 『**超ドラゴンボールZ**』（スーパードラゴンボールゼット、**超DRAGON BALL Z**）は、[鳥山明](../Page/鳥山明.md "wikilink")原作のアニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』を原作とした[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。

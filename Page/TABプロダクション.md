@@ -1,4 +1,4 @@
-> この記事は[TAB](https://ja.wikipedia.org/wiki/TAB)から翻訳されています。
+> この記事は[TABプロダクション](https://ja.wikipedia.org/wiki/TABプロダクション)から翻訳されています。
 
 
 **有限会社TABプロダクション**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。[俳優](../Page/俳優.md "wikilink")・[声優](../Page/声優.md "wikilink")のマネージメントを行っている。付属の俳優（声優）養成所もある。TABは「タブ」ではなく、「ティーエービー」と読む。
@@ -37,7 +37,6 @@
 
 ### 男性
 
-  - [穴井佑典](https://ja.wikipedia.org/wiki/穴井佑典 "wikilink")
   - [有川裕也](https://ja.wikipedia.org/wiki/有川裕也 "wikilink")
   - [伊尾槙紀](https://ja.wikipedia.org/wiki/伊尾槙紀 "wikilink")
   - [伊藤拓海](https://ja.wikipedia.org/wiki/伊藤拓海 "wikilink")
@@ -51,16 +50,12 @@
   - [堤卓也](https://ja.wikipedia.org/wiki/堤卓也 "wikilink")
   - [中平迅](https://ja.wikipedia.org/wiki/中平迅 "wikilink")
   - [中山征俊](https://ja.wikipedia.org/wiki/中山征俊 "wikilink")
-  - [濵惠祐](https://ja.wikipedia.org/wiki/濵惠祐 "wikilink")
-  - [平川大介](https://ja.wikipedia.org/wiki/平川大介 "wikilink")
   - [室谷悟](https://ja.wikipedia.org/wiki/室谷悟 "wikilink")
-  - [渡邊空雅](https://ja.wikipedia.org/wiki/渡邊空雅 "wikilink")
 
 ### 女性
 
   - [藍羽海帆](https://ja.wikipedia.org/wiki/藍羽海帆 "wikilink")
   - [阿部穂乃香](https://ja.wikipedia.org/wiki/阿部穂乃香 "wikilink")
-  - [大咲茉菜](https://ja.wikipedia.org/wiki/大咲茉菜 "wikilink")
   - [大城幸子](https://ja.wikipedia.org/wiki/大城幸子 "wikilink")
   - [川村みのり](https://ja.wikipedia.org/wiki/川村みのり "wikilink")
   - [小磯里奈](https://ja.wikipedia.org/wiki/小磯里奈 "wikilink")
@@ -69,7 +64,6 @@
   - [庄司智子](https://ja.wikipedia.org/wiki/庄司智子 "wikilink")
   - [鈴木美咲](https://ja.wikipedia.org/wiki/鈴木美咲_\(TABプロダクション\) "wikilink")
   - [関谷美奈子](https://ja.wikipedia.org/wiki/関谷美奈子 "wikilink")
-  - [武田真奈](https://ja.wikipedia.org/wiki/武田真奈 "wikilink")
   - [田染夏希](https://ja.wikipedia.org/wiki/田染夏希 "wikilink")
   - [田山佳枝](https://ja.wikipedia.org/wiki/田山佳枝 "wikilink")
   - [二宮梨乃](https://ja.wikipedia.org/wiki/二宮梨乃 "wikilink")

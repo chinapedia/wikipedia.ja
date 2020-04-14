@@ -1,4 +1,4 @@
-> この記事は[ PANZER WARFARE](https://ja.wikipedia.org/wiki/_PANZER_WARFARE)から翻訳されています。
+> この記事は[真・魔装機神 PANZER WARFARE](https://ja.wikipedia.org/wiki/真・魔装機神_PANZER_WARFARE)から翻訳されています。
 
 
 『**真・魔装機神 PANZER WARFARE**』（しん・まそうきしん パンツァー ウォーフェア）とは[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

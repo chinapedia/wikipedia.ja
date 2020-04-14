@@ -50,7 +50,7 @@
 
 ## 外部リンク
 
-  - [公式ブログ「JILL'S SALON」](http://ameblo.jp/jill-personz/)
+  - [公式ブログ「JILL'S SALON」](https://ameblo.jp/jill-personz/)
       - [旧公式ブログ「JILL'S SALON」](http://personz.jugem.jp/)
   - [PERSONZ OFFICIAL WEBSITE](http://www.personz.net/)
 

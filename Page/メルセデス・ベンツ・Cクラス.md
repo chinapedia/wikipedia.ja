@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Cクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Cクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・Cクラス**（*Mercedes-Benz C-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している、[Dセグメント](../Page/Dセグメント.md "wikilink")の乗用車である。[セダン](../Page/セダン.md "wikilink")、[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")、2ドア[クーペ](../Page/クーペ.md "wikilink")の各車種を用意し、現行モデル（[W205](https://ja.wikipedia.org/wiki/#4代目（2014年-）W205 "wikilink")）においては[カブリオレの生産も開始された](../Page/オープンカー.md "wikilink")。

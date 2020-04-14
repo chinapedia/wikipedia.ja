@@ -1,4 +1,4 @@
-> この記事は[Overnight Sensation ](https://ja.wikipedia.org/wiki/Overnight_Sensation_)から翻訳されています。
+> この記事は[Overnight Sensation 〜時代はあなたに委ねてる〜](https://ja.wikipedia.org/wiki/Overnight_Sensation_〜時代はあなたに委ねてる〜)から翻訳されています。
 
 
 「**Overnight Sensation 〜時代はあなたに委ねてる〜**」（オーバーナイト・センセーション じだいはあなたにゆだねてる）は、[trfの](../Page/TRF.md "wikilink")10枚目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。（[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に廉価版12cmシングルとして再発売。）発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

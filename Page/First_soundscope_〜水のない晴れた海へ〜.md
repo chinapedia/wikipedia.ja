@@ -1,4 +1,4 @@
-> この記事は[First soundscope ](https://ja.wikipedia.org/wiki/First_soundscope_)から翻訳されています。
+> この記事は[First soundscope 〜水のない晴れた海へ〜](https://ja.wikipedia.org/wiki/First_soundscope_〜水のない晴れた海へ〜)から翻訳されています。
 
 
 『**first soundscope 〜水のない晴れた海へ〜**』（ファースト サウンドスコープ みずのないはれたうみへ）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")1枚目のアルバム。[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に発売された。

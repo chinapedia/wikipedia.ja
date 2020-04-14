@@ -1,4 +1,4 @@
-> この記事は[ \(GARNET CROW\)](https://ja.wikipedia.org/wiki/_\(GARNET_CROW\))から翻訳されています。
+> この記事は[スパイラル \(GARNET CROWの曲\)](https://ja.wikipedia.org/wiki/スパイラル_\(GARNET_CROWの曲\))から翻訳されています。
 
 
 『**スパイラル**』は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")に発売された。

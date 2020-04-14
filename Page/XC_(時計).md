@@ -1,4 +1,4 @@
-> この記事は[XC \(\)](https://ja.wikipedia.org/wiki/XC_\(\))から翻訳されています。
+> この記事は[XC \(時計\)](https://ja.wikipedia.org/wiki/XC_\(時計\))から翻訳されています。
 
 
 **xC**（**クロスシー**）とは、[シチズン時計](../Page/シチズン時計.md "wikilink")の発売する[腕時計](../Page/腕時計.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")に最初のモデルが発売された\[1\]。

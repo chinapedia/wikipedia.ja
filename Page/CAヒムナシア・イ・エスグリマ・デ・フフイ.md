@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAヒムナシア・イ・エスグリマ・デ・フフイ](https://ja.wikipedia.org/wiki/CAヒムナシア・イ・エスグリマ・デ・フフイ)から翻訳されています。
 
 
 **CAヒムナシア・イ・エスグリマ・デ・フフイ** () 、通称**ヒムナシア・デ・フフイ** (Gimnasia de Jujuy) は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[フフイ州](https://ja.wikipedia.org/wiki/フフイ州 "wikilink")の州都[サン・サルバドール・デ・フフイ](https://ja.wikipedia.org/wiki/サン・サルバドール・デ・フフイ "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。1931年に創立され、サッカー部門が最もよく知られている。2016-17シーズンは[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）に所属している。

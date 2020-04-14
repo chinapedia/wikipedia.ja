@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[幻想水滸伝V](https://ja.wikipedia.org/wiki/幻想水滸伝V)から翻訳されています。
 
 
 『**幻想水滸伝V**』（げんそうすいこでんファイブ）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第5作目である。キャッチコピーは「**すべてを、奪還する。**」。

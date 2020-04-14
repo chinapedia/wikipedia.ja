@@ -1,4 +1,4 @@
-> この記事は[Vocal compilation 90\'s hits Vol.1male at the BEING studio](https://ja.wikipedia.org/wiki/Vocal_compilation_90\'s_hits_Vol.1male_at_the_BEING_studio)から翻訳されています。
+> この記事は[Vocal compilation 90\'s hits Vol.1〜male〜 at the BEING studio](https://ja.wikipedia.org/wiki/Vocal_compilation_90\'s_hits_Vol.1〜male〜_at_the_BEING_studio)から翻訳されています。
 
 
 『**vocal compilation 90's hits Vol.1 〜male〜 at the BEING studio**』（ヴォーカル・コンピレーション・ナインティーズ・ヒッツ・ボリュームワン メール アト・ザ・ビーイング・ステューディオ）は[ビーイング](../Page/ビーイング.md "wikilink")側がリリースしたコンピレーションアルバム。

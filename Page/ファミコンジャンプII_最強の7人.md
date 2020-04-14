@@ -1,4 +1,4 @@
-> この記事は[II 7](https://ja.wikipedia.org/wiki/II_7)から翻訳されています。
+> この記事は[ファミコンジャンプII 最強の7人](https://ja.wikipedia.org/wiki/ファミコンジャンプII_最強の7人)から翻訳されています。
 
 
 『**ファミコンジャンプII 最強の7人**』（ファミコンジャンプツー さいきょうのしちにん）は、[バンダイ](../Page/バンダイ.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")\[1\]\[2\] に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用のゲームソフト。

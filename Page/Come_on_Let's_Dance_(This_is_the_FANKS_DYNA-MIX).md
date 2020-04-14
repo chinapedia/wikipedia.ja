@@ -57,6 +57,6 @@
 
 ## 出典
 
-[Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink")
+[Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1997年1月号11Pより。

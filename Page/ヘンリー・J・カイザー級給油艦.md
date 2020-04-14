@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ヘンリー・J・カイザー級給油艦](https://ja.wikipedia.org/wiki/ヘンリー・J・カイザー級給油艦)から翻訳されています。
 
 
 **ヘンリー・J・カイザー級給油艦**（）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の艦隊給油艦（[補給艦](../Page/補給艦.md "wikilink")）。

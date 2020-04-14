@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCニュース・オンライン](https://ja.wikipedia.org/wiki/BBCニュース・オンライン)から翻訳されています。
 
 
 {{ infobox Website | name = BBC News Online | url = <https://www.bbc.co.uk/news> | alexa = | commercial = 非営利\[1\] | type = ニュース | language = 32言語\[2\] | registration = Required for some services | owner = [英国放送協会](../Page/英国放送協会.md "wikilink") | author = | launch date = 1997年11月 | current status = Online | revenue = | slogan = *"Whenever you need to know"* }} **BBCニュース・オンライン** (BBC News Online) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[公共放送](../Page/公共放送.md "wikilink")局である[英国放送協会](../Page/英国放送協会.md "wikilink")（以下、BBC）が[インターネット](../Page/インターネット.md "wikilink")を通して提供している[ニュースサイト](../Page/ニュースサイト.md "wikilink")。[BBCニュース](../Page/BBCニュース.md "wikilink")のオンライン版と位置づけられている。

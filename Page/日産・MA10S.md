@@ -1,4 +1,4 @@
-> この記事は[MA10S](https://ja.wikipedia.org/wiki/MA10S)から翻訳されています。
+> この記事は[日産・MA10S](https://ja.wikipedia.org/wiki/日産・MA10S)から翻訳されています。
 
 
 **MA10S**はかつて[日産自動車](../Page/日産自動車.md "wikilink")が製造していた[直列4気筒](../Page/直列4気筒.md "wikilink")[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")の型式名である。

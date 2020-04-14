@@ -1,4 +1,4 @@
-> この記事は[BEST TRACKS A message to the next generation](https://ja.wikipedia.org/wiki/BEST_TRACKS_A_message_to_the_next_generation)から翻訳されています。
+> この記事は[BEST TRACKS 〜A message to the next generation〜](https://ja.wikipedia.org/wiki/BEST_TRACKS_〜A_message_to_the_next_generation〜)から翻訳されています。
 
 
 『**BEST TRACKS 〜A message to the next generation〜**』（ベストトラックス ア・メッセージ・トゥ・ザ・ネクスト・ジェネレーション）は、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にリリースされた[TM NETWORK](../Page/TM_NETWORK.md "wikilink")（TMN）の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

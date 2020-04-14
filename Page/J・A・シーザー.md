@@ -1,4 +1,4 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[J・A・シーザー](https://ja.wikipedia.org/wiki/J・A・シーザー)から翻訳されています。
 
 
 **J・A・シーザー**こと**ジュリアス・アーネスト・シーザー**（Julious Arnest Seazer、本名：**寺原 孝明**、[1948年](../Page/1948年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[演出家](../Page/演出家.md "wikilink")。[演劇実験室◎万有引力](https://ja.wikipedia.org/wiki/演劇実験室◎万有引力 "wikilink")主宰者。[宮崎県](../Page/宮崎県.md "wikilink")生まれ、[静岡県](../Page/静岡県.md "wikilink")育ち。

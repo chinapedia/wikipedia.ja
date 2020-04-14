@@ -1,4 +1,4 @@
-> この記事は[Sign \(\)](https://ja.wikipedia.org/wiki/Sign_\(\))から翻訳されています。
+> この記事は[Sign \(鬼束ちひろの曲\)](https://ja.wikipedia.org/wiki/Sign_\(鬼束ちひろの曲\))から翻訳されています。
 
 
 「**Sign**」（サイン）は、[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。

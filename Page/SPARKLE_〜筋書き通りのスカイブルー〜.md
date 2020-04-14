@@ -1,4 +1,4 @@
-> この記事は[SPARKLE ](https://ja.wikipedia.org/wiki/SPARKLE_)から翻訳されています。
+> この記事は[SPARKLE 〜筋書き通りのスカイブルー〜](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜)から翻訳されています。
 
 
 『**SPARKLE 〜筋書き通りのスカイブルー〜**』（スパークル すじがきどおりのスカイブルー）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")2枚目のアルバム。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に発売された。

@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCブラガ](https://ja.wikipedia.org/wiki/SCブラガ)から翻訳されています。
 
 
 **スポルティング・クルーベ・デ・ブラガ**（, ）は、[ポルトガル](../Page/ポルトガル.md "wikilink")北西部の都市[ブラガ](../Page/ブラガ.md "wikilink")に本拠地を置く総合[スポーツ](../Page/スポーツ.md "wikilink")クラブである。特に[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チームが有名であり、ポルトガルで開催された[UEFA EURO 2004開幕前に建設された](../Page/UEFA_EURO_2004.md "wikilink")[エスタディオ・アクサ](https://ja.wikipedia.org/wiki/エスタディオ・ムニシパル・デ・ブラガ "wikilink")（愛称は「石切り場」）をホームスタジアムとしている。[マクロン](https://ja.wikipedia.org/wiki/マクロン_\(スポーツウェア\) "wikilink")（スポーツ衣料品、イタリア）や[アクサ](../Page/アクサ.md "wikilink")（保険会社、フランス）がスポンサーを務めている。**スポルティング・ブラガ**と表記される場合もある。
@@ -935,11 +935,97 @@
 
 ### GK
 
+  - [キム](../Page/ジョアキン・シルヴァ.md "wikilink") 1994-2004, 2010-2013
+
+  - [パウロ・サントス](../Page/パウロ・サントス.md "wikilink") 2004-2008
+
+  - [エドゥアルド](https://ja.wikipedia.org/wiki/エドゥアルド・ドス・レイス・カルヴァーリョ "wikilink") 2005-2010, 2013-2014, 2019-
+
+  - [アルトゥール](https://ja.wikipedia.org/wiki/アルトゥール・モラエス "wikilink") 2010-2011
+
+  - [ベト](https://ja.wikipedia.org/wiki/アントニオ・アルベルト・バストス・ピンパレル "wikilink") 2012-2013
+
+  - [マテウス](https://ja.wikipedia.org/wiki/マテウス・リマ・マガリャンイス "wikilink") 2014-
+
+  - [ジョゼ・マラフォナ](https://ja.wikipedia.org/wiki/ジョゼ・マラフォナ "wikilink") 2016-2019
+
 ### DF
+
+  - [カルロス・カルヴァリャル](https://ja.wikipedia.org/wiki/カルロス・カルヴァリャル "wikilink") 1983-1985, 1986-1988, 1990-1992
+
+  - [カルロス・セクレタリオ](../Page/カルロス・セクレタリオ.md "wikilink") 1992-1993
+
+  - [リカルド・ローシャ](https://ja.wikipedia.org/wiki/リカルド・セルジオ・ローシャ・アゼヴェード "wikilink") 2000-2001
+
+  - [アベル](https://ja.wikipedia.org/wiki/アベル・フェレイラ "wikilink") 2004-2005
+
+  - [ヌーノ・フレシャウト](https://ja.wikipedia.org/wiki/ヌーノ・フレシャウト "wikilink") 2006-2009
+
+  - [ジョアン・ペレイラ](https://ja.wikipedia.org/wiki/ジョアン・ペレイラ "wikilink") 2007-2009
+
+  - [アルベルト・フニオール・ロドリゲス](https://ja.wikipedia.org/wiki/アルベルト・フニオール・ロドリゲス "wikilink") 2007-2011
+
+  - [パブロ・コントレラス](https://ja.wikipedia.org/wiki/パブロ・コントレラス "wikilink") 2008
+
+  - [アンドレ・ピント](https://ja.wikipedia.org/wiki/アンドレ・ピント "wikilink") 2014-2017
+
+  - [マルセロ・ゴイアーノ](https://ja.wikipedia.org/wiki/マルセロ・アウグスト・フェレイラ・テイシェイラ "wikilink") 2014-2019
 
 ### MF
 
+  - [ティアゴ・メンデス](../Page/ティアゴ・メンデス.md "wikilink") 1999-2002
+
+  - [廣山望](../Page/廣山望.md "wikilink") 2002-2003
+
+  - [フセイン・ヤセル](https://ja.wikipedia.org/wiki/フセイン・ヤセル "wikilink") 2007-2008
+
+  - [ルイス・アギアル](https://ja.wikipedia.org/wiki/ルイス・アギアル "wikilink") 2008-2009, 2010-2011
+
+  - [ウーゴ・ヴィアナ](../Page/ウーゴ・ヴィアナ.md "wikilink") 2010-2013
+
+  - [クストディオ](https://ja.wikipedia.org/wiki/クストディオ・カストロ "wikilink") 2010-2015
+
+  - [ルベン・アモリム](https://ja.wikipedia.org/wiki/ルベン・アモリム "wikilink") 2012-2013
+
+  - [ルベン・ミカエル](https://ja.wikipedia.org/wiki/ルベン・ミカエル "wikilink") 2012-2015
+
+  - [ラファ・シウバ](https://ja.wikipedia.org/wiki/ラファ・シウバ "wikilink") 2013-2016
+
+  - [ニコラ・ヴクチェヴィッチ](https://ja.wikipedia.org/wiki/ニコラ・ヴクチェヴィッチ "wikilink") 2013-2018
+
+  - [リカルド・オルタ](https://ja.wikipedia.org/wiki/リカルド・オルタ "wikilink") 2017-
+
 ### FW
+
+  - [エウピジオ・シルバ](../Page/エウピジオ・ペレイラ・ダ・シルバ・フィーリョ.md "wikilink") 1998-2000
+
+  - [フェヘール・ミクローシュ](../Page/フェヘール・ミクローシュ.md "wikilink") 2000-2001
+
+  - [ジョアン・トマス](https://ja.wikipedia.org/wiki/ジョアン・トマス "wikilink") 2004-2006, 2007-2008
+
+  - [ジョアン・ピント](../Page/ジョアン・ヴィエイラ・ピント.md "wikilink") 2006-2008
+
+  - [マテウス](https://ja.wikipedia.org/wiki/マテウス・レイテ・ナシメント "wikilink") 2006-2011
+
+  - [ジエゴ・コスタ](https://ja.wikipedia.org/wiki/ジエゴ・ダ・シウヴァ・コスタ "wikilink") 2006-2007
+
+  - [ローランド・リンツ](../Page/ローランド・リンツ.md "wikilink") 2007-2009
+
+  - [アルベール・メヨン・ゼ](../Page/アルベール・メヨン・ゼ.md "wikilink") 2008-2011
+
+  - [エルデル・バルボーザ](https://ja.wikipedia.org/wiki/エルデル・バルボーザ "wikilink") 2010-2014
+
+  - [リマ](https://ja.wikipedia.org/wiki/ロドリゴ・ジョゼ・リマ・ドス・サントス "wikilink") 2010-2012
+
+  - [ヌーノ・ゴメス](../Page/ヌーノ・ゴメス.md "wikilink") 2011-2012
+
+  - [エデル](https://ja.wikipedia.org/wiki/エデルジト・アントニオ・マセド・ロペス "wikilink") 2012-2015
+
+  - [ウィルソン・エドゥアルド](https://ja.wikipedia.org/wiki/ウィルソン・エドゥアルド "wikilink") 2015-
+
+  - [ジエゴ・ソウザ](https://ja.wikipedia.org/wiki/ジエゴ・ヴィウヴェルソン・フェレイラ・ソウザ "wikilink") 2017-2019
+
+  - [パウリーニョ](https://ja.wikipedia.org/wiki/ジョアン・パウロ・ディアス・フェルナンデス "wikilink") 2017-
 
 ## 脚注
 

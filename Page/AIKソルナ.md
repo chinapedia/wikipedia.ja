@@ -1,4 +1,4 @@
-> この記事は[AIK](https://ja.wikipedia.org/wiki/AIK)から翻訳されています。
+> この記事は[AIKソルナ](https://ja.wikipedia.org/wiki/AIKソルナ)から翻訳されています。
 
 
 **アルメンナ・イドロッツクルッベン**（**Allmänna Idrottsklubben**）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の首都、[ストックホルム](../Page/ストックホルム.md "wikilink")近郊、北部に位置する[ソルナ](https://ja.wikipedia.org/wiki/ソルナ "wikilink")に本拠地を置く総合スポーツクラブであり、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブも併せ持つ。他に[アイスホッケー](../Page/アイスホッケー.md "wikilink")クラブもある。

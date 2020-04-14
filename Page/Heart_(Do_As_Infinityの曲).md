@@ -1,4 +1,4 @@
-> この記事は[Heart \(Do As Infinity\)](https://ja.wikipedia.org/wiki/Heart_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[Heart \(Do As Infinityの曲\)](https://ja.wikipedia.org/wiki/Heart_\(Do_As_Infinityの曲\))から翻訳されています。
 
 
 「**Heart**」（ハート）は1999年12月8日に発売された[Do As Infinityの](../Page/Do_As_Infinity.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

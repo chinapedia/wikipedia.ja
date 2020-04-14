@@ -1,4 +1,4 @@
-> この記事は[Little Non](https://ja.wikipedia.org/wiki/Little_Non)から翻訳されています。
+> この記事は[Little Nonのレッツゴーハッピー](https://ja.wikipedia.org/wiki/Little_Nonのレッツゴーハッピー)から翻訳されています。
 
 
 **Little Nonのレッツゴーハッピー**（'りとるのんのれっつごーはっぴー）は、[Three Fat Samurai](https://ja.wikipedia.org/wiki/Three_Fat_Samurai "wikilink")、[音泉](../Page/音泉.md "wikilink")（[BEWE](../Page/BEWE.md "wikilink")）で配信されていた[Little Non関連の](../Page/Little_Non.md "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2007年4月からは、**レッツゴー★ハッピー ～秋葉原万歳編～**となり、地上波ラジオ（[ラジオ関西](../Page/ラジオ関西.md "wikilink")）での放送を開始した。 ラジオ関西で放送の**「レッツゴーハッピー～秋葉原万歳編～」**は、2009年10月1日の放送をもって終了した。

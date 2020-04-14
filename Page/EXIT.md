@@ -27,7 +27,7 @@
 
       - \- [2014年](../Page/2014年.md "wikilink")に公開された[台湾映画](../Page/台湾映画.md "wikilink")。主演。
 
-      - \- [2019年](../Page/2019年.md "wikilink")に公開された[韓国のサバイバルパニック映画](../Page/韓国映画.md "wikilink")。[チョ・ジョンソク](https://ja.wikipedia.org/wiki/チョ・ジョンソク "wikilink")、[ユナ](https://ja.wikipedia.org/wiki/ユナ_\(少女時代\) "wikilink")（[少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")）主演。
+      - [EXIT イグジット (2019年の映画)](../Page/EXIT_イグジット_\(2019年の映画\).md "wikilink") - [2019年](../Page/2019年.md "wikilink")に公開された[韓国のサバイバルパニック映画](../Page/韓国映画.md "wikilink")。[チョ・ジョンソク](https://ja.wikipedia.org/wiki/チョ・ジョンソク "wikilink")、[ユナ](https://ja.wikipedia.org/wiki/ユナ_\(少女時代\) "wikilink")（[少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")）主演。
 
   - [EXIT (お笑いコンビ)](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink") - [よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
 

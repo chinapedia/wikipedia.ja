@@ -1,4 +1,4 @@
-> この記事は[ONI](https://ja.wikipedia.org/wiki/ONI)から翻訳されています。
+> この記事は[ONIシリーズ](https://ja.wikipedia.org/wiki/ONIシリーズ)から翻訳されています。
 
 
 『**ONIシリーズ**』（おにシリーズ）は[パンドラボックスと](../Page/パンドラボックス_\(ゲーム会社\).md "wikilink")[ウィンキーソフト](https://ja.wikipedia.org/wiki/ウィンキーソフト "wikilink")が制作し[バンプレスト](../Page/バンプレスト.md "wikilink")（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）から発売された[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")の[シリーズ](../Page/シリーズ_\(作品\).md "wikilink")。
@@ -646,6 +646,7 @@ PlayStationで『[パンドラMAXシリーズ](https://ja.wikipedia.org/wiki/パ
   - [パンドラMAXシリーズ](https://ja.wikipedia.org/wiki/パンドラMAXシリーズ "wikilink")
   - [GENE Project](https://ja.wikipedia.org/wiki/GENE_Project "wikilink")
   - [コンパイルハート](../Page/コンパイルハート.md "wikilink")
+  - [天下五剣](../Page/天下五剣.md "wikilink")
 
 ## 外部リンク
 

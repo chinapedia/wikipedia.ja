@@ -1,4 +1,4 @@
-> この記事は[KKB96](https://ja.wikipedia.org/wiki/KKB96)から翻訳されています。
+> この記事は[KKBワイド96](https://ja.wikipedia.org/wiki/KKBワイド96)から翻訳されています。
 
 
 『**KKBワイド96**』（ケーケービーワイドきゅうじゅうろく）は、[1991年](../Page/1991年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[鹿児島放送](../Page/鹿児島放送.md "wikilink")で[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方に放送されていた[鹿児島県](../Page/鹿児島県.md "wikilink")向けのローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

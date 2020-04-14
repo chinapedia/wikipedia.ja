@@ -1,4 +1,4 @@
-> この記事は[EXIT \(\)](https://ja.wikipedia.org/wiki/EXIT_\(\))から翻訳されています。
+> この記事は[EXIT \(ゲーム\)](https://ja.wikipedia.org/wiki/EXIT_\(ゲーム\))から翻訳されています。
 
 
 『**EXIT**』（イグジット）とは、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[パズルゲーム](../Page/パズルゲーム.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")には続編である『**[カンガエル EXIT](https://ja.wikipedia.org/wiki/#カンガエル_EXIT "wikilink")**』が発売された。[Xbox 360の](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeとして配信されたほか](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（**非常口 -EXIT DS-**）や[Windowsにも移植されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。

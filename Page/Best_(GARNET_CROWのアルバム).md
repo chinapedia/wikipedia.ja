@@ -1,4 +1,4 @@
-> この記事は[Best \(GARNET CROW\)](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROW\))から翻訳されています。
+> この記事は[Best \(GARNET CROWのアルバム\)](https://ja.wikipedia.org/wiki/Best_\(GARNET_CROWのアルバム\))から翻訳されています。
 
 
 『**Best**』（ベスト）は、[GARNET CROW初の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。

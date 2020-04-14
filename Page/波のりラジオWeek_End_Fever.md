@@ -1,4 +1,4 @@
-> この記事は[Week End Fever](https://ja.wikipedia.org/wiki/Week_End_Fever)から翻訳されています。
+> この記事は[波のりラジオWeek End Fever](https://ja.wikipedia.org/wiki/波のりラジオWeek_End_Fever)から翻訳されています。
 
 
 **波のりラジオ Week End Fever**（なみのりらじお ウィークエンドフィーバー）は[RNCラジオの週末ワイド番組](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")放送開始。放送時間は毎週土曜 8:30 - 15:30（パート1「パリパリタイプ」は8:30 - 11:00、パート2「まんぷくタイプ」は12:00 - 15:30）。

@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[今治市波方CATV](https://ja.wikipedia.org/wiki/今治市波方CATV)から翻訳されています。
 
 
 '''今治市波方CATV '''（いまばりしなみかたシーエーティーヴィ）は、[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。 経営の効率化を図るため[今治CATV株式会社に事業全体を移行する](../Page/今治シーエーティーブィ.md "wikilink")。2016年(平成28年)3月末を持って事業を終了した。

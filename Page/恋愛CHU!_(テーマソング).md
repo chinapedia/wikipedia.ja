@@ -1,4 +1,4 @@
-> この記事は[CHU! \(\)](https://ja.wikipedia.org/wiki/CHU!_\(\))から翻訳されています。
+> この記事は[恋愛CHU! \(テーマソング\)](https://ja.wikipedia.org/wiki/恋愛CHU!_\(テーマソング\))から翻訳されています。
 
 
 「**恋愛CHU\!**」は、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に発売されたPCゲーム『[恋愛CHU\! -彼女のヒミツはオトコのコ?-](../Page/恋愛CHU!_-彼女のヒミツはオトコのコ?-.md "wikilink")』（[SAGA PLANETS](../Page/SAGA_PLANETS.md "wikilink")）のオープニングテーマである。作詞は[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、作曲・編曲は[中沢伴行](../Page/中沢伴行.md "wikilink")\[1\]、ボーカルはKOTOKO to AKIがそれぞれ担当。

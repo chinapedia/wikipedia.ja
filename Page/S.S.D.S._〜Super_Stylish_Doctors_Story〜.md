@@ -1,4 +1,4 @@
-> この記事は[S.S.D.S. Super Stylish Doctors Story](https://ja.wikipedia.org/wiki/S.S.D.S._Super_Stylish_Doctors_Story)から翻訳されています。
+> この記事は[S.S.D.S. 〜Super Stylish Doctors Story〜](https://ja.wikipedia.org/wiki/S.S.D.S._〜Super_Stylish_Doctors_Story〜)から翻訳されています。
 
 
 **『S.S.D.S. 〜Super Stylish Doctors Story〜』（エスエスディーエス 〜スーパースタイリッシュドクターズストーリー〜）**とは、[声優](../Page/声優.md "wikilink")の[速水奨](../Page/速水奨.md "wikilink")[原作](../Page/原作.md "wikilink")・[脚本](../Page/脚本.md "wikilink")による[病院](../Page/病院.md "wikilink")を舞台とした[SF](../Page/SF.md "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")作品。

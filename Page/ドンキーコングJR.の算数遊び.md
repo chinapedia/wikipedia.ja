@@ -1,4 +1,4 @@
-> この記事は[JR.](https://ja.wikipedia.org/wiki/JR.)から翻訳されています。
+> この記事は[ドンキーコングJR.の算数遊び](https://ja.wikipedia.org/wiki/ドンキーコングJR.の算数遊び)から翻訳されています。
 
 
 『**ドンキーコングJR.の算数遊び**』（ドンキーコングジュニアのさんすうあそび）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ゲームソフトである。ゲーム中のタイトル表記は「**さんすうあそび**」。公称ジャンルは「算数アクション」で、固定画面型の[アクションゲーム](../Page/アクションゲーム.md "wikilink")をベースにした[教育ソフトウェア](https://ja.wikipedia.org/wiki/教育ソフトウェア "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[GIRL \(TM NETWORK\)](https://ja.wikipedia.org/wiki/GIRL_\(TM_NETWORK\))から翻訳されています。
+> この記事は[GIRL \(TM NETWORKの曲\)](https://ja.wikipedia.org/wiki/GIRL_\(TM_NETWORKの曲\))から翻訳されています。
 
 
 **GIRL**（ガール）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")7枚目のシングル。

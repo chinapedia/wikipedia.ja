@@ -1,4 +1,4 @@
-> この記事は[  Major Turn-Round](https://ja.wikipedia.org/wiki/__Major_Turn-Round)から翻訳されています。
+> この記事は[キヲクトキロク 〜 Major Turn-Round](https://ja.wikipedia.org/wiki/キヲクトキロク_〜_Major_Turn-Round)から翻訳されています。
 
 
 『**キヲクトキロク 〜 Major Turn-Round**』(キヲクトキロク メジャー・ターン・ラウンド)は[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")にリリースされた[TM NETWORKの蔵出し音源集](../Page/TM_NETWORK.md "wikilink")。

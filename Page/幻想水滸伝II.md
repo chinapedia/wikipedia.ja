@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[幻想水滸伝II](https://ja.wikipedia.org/wiki/幻想水滸伝II)から翻訳されています。
 
 
 『**幻想水滸伝II**』（げんそうすいこでんツー）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") に発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")作品である。『[幻想水滸伝シリーズ](../Page/幻想水滸伝シリーズ.md "wikilink")』の第2作目である。キャッチコピーは「**その強さがあれば、全てを守れると思った**」。

@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[N響アワー](https://ja.wikipedia.org/wiki/N響アワー)から翻訳されています。
 
 
 『**N響アワー**』（エヌきょうアワー）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から[2012年](../Page/2012年.md "wikilink")まで[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")で放送されていた[クラシック音楽](../Page/クラシック音楽.md "wikilink")番組。原則として[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")の演奏を放送した。

@@ -1,4 +1,4 @@
-> この記事は[Li-2 \(\)](https://ja.wikipedia.org/wiki/Li-2_\(\))から翻訳されています。
+> この記事は[Li-2 \(航空機\)](https://ja.wikipedia.org/wiki/Li-2_\(航空機\))から翻訳されています。
 
 
 [thumbの](https://ja.wikipedia.org/wiki/ファイル:Belarus-Minsk-Museum_of_GPW_Exhibition-3.jpg "wikilink")[ミンスク](../Page/ミンスク.md "wikilink")で展示されているLi-2\]\] **Li-2**(リスノフ2；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>リー・ドヴァー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[リスノーフ](https://ja.wikipedia.org/wiki/リスノーフ "wikilink")[設計局](../Page/設計局.md "wikilink")の開発した[航空機](../Page/航空機.md "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス DC-3の生産ライセンスを取得](../Page/ダグラス_DC-3.md "wikilink")、部品点数を減らし機体強度を高め、固定武装を追加するなど改設計し、軍用[輸送機](../Page/輸送機.md "wikilink")として生産された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)は、この航空機に対し「キャブ（Cab）」という[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")を用いた。[1940年](../Page/1940年.md "wikilink")から[1945年](../Page/1945年.md "wikilink")までおよそ2000機が生産されたが、輸送だけでなく爆撃も可能なよう改造された事例もあった。

@@ -1,4 +1,4 @@
-> この記事は[Crystallize ](https://ja.wikipedia.org/wiki/Crystallize_)から翻訳されています。
+> この記事は[Crystallize 〜君という光〜](https://ja.wikipedia.org/wiki/Crystallize_〜君という光〜)から翻訳されています。
 
 
 『**Crystallize 〜君という光〜**』（クリスタライズ きみというひかり）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")3枚目のアルバム。[2003年](../Page/2003年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")に発売された。

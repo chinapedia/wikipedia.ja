@@ -1,4 +1,4 @@
-> この記事は[Sea of Dreams Tokyo DisneySea 5th Anniversary Theme Song](https://ja.wikipedia.org/wiki/Sea_of_Dreams_Tokyo_DisneySea_5th_Anniversary_Theme_Song)から翻訳されています。
+> この記事は[Sea of Dreams 〜Tokyo DisneySea 5th Anniversary Theme Song〜](https://ja.wikipedia.org/wiki/Sea_of_Dreams_〜Tokyo_DisneySea_5th_Anniversary_Theme_Song〜)から翻訳されています。
 
 
 「**Sea of Dreams 〜Tokyo DisneySea 5th Anniversary Theme Song〜**」（シー オブ ドリームス トーキョー ディズニーシー フィフス アニバーサリー テーマ ソング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")である。ここでは合わせて、同曲をモチーフにつくられたドラマについても解説する。

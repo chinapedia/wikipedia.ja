@@ -1,4 +1,4 @@
-> この記事は[LLR \(\)](https://ja.wikipedia.org/wiki/LLR_\(\))から翻訳されています。
+> この記事は[LLR \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/LLR_\(お笑いコンビ\))から翻訳されています。
 
 
 **LLR**（エルエルアール）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社（[東京吉本](../Page/東京吉本.md "wikilink")）所属の[お笑いコンビ](../Page/お笑いタレント.md "wikilink")。[2001年](../Page/2001年.md "wikilink")結成。主に[漫才](../Page/漫才.md "wikilink")を行う。

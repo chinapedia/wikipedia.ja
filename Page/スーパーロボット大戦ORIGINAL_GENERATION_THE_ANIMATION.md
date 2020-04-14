@@ -1,4 +1,4 @@
-> この記事は[ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION_THE_ANIMATION)から翻訳されています。
+> この記事は[スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION)から翻訳されています。
 
 
 『**スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION**』（スーパーロボットたいせん オリジナルジェネレーション ジ アニメーション）は、[バンプレスト](../Page/バンプレスト.md "wikilink")の[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")を題材とした[OVA](../Page/OVA.md "wikilink")作品。本項では、OVAから派生したドラマCDや、OVAのコミカライズ作品についても記述する。

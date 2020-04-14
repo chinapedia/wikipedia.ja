@@ -1,4 +1,4 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[JA高崎ハム](https://ja.wikipedia.org/wiki/JA高崎ハム)から翻訳されています。
 
 
 **JA高崎ハム株式会社**（じぇいえいたかさきはむ、英名JA Takasakiham co.,ltd.）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")に本社を持つ、[全農全額出資の](../Page/全国農業協同組合連合会.md "wikilink")[農業協同組合](../Page/農業協同組合.md "wikilink")系[食品](../Page/食品.md "wikilink")加工メーカー。[1937年](../Page/1937年.md "wikilink")創業、[2006年](../Page/2006年.md "wikilink")設立。

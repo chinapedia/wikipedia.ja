@@ -1,4 +1,4 @@
-> この記事は[Call my name \(GARNET CROW\)](https://ja.wikipedia.org/wiki/Call_my_name_\(GARNET_CROW\))から翻訳されています。
+> この記事は[Call my name \(GARNET CROWの曲\)](https://ja.wikipedia.org/wiki/Call_my_name_\(GARNET_CROWの曲\))から翻訳されています。
 
 
 「**call my name**」（コール マイ ネーム）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")8枚目のシングル。
@@ -34,4 +34,4 @@
   - [GARNET CROW REQUEST BEST](https://ja.wikipedia.org/wiki/GARNET_CROW_REQUEST_BEST "wikilink")（\#1）
   - [GARNET CROW BEST OF BALLADS](https://ja.wikipedia.org/wiki/GARNET_CROW_BEST_OF_BALLADS "wikilink")（\#1）
 
-[Category:GARNET_CROWの楽曲](https://ja.wikipedia.org/wiki/Category:GARNET_CROWの楽曲 "wikilink") [Category:AZUKI七が制作した楽曲](https://ja.wikipedia.org/wiki/Category:AZUKI七が制作した楽曲 "wikilink") [Category:中村由利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中村由利が制作した楽曲 "wikilink") [Category:ARMS](https://ja.wikipedia.org/wiki/Category:ARMS "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:GARNET_CROWの楽曲](https://ja.wikipedia.org/wiki/Category:GARNET_CROWの楽曲 "wikilink") [Category:AZUKI七が制作した楽曲](https://ja.wikipedia.org/wiki/Category:AZUKI七が制作した楽曲 "wikilink") [Category:中村由利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中村由利が制作した楽曲 "wikilink") [Category:ARMS](https://ja.wikipedia.org/wiki/Category:ARMS "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")

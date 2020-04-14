@@ -1,4 +1,4 @@
-> この記事は[An-2 \(\)](https://ja.wikipedia.org/wiki/An-2_\(\))から翻訳されています。
+> この記事は[An-2 \(航空機\)](https://ja.wikipedia.org/wiki/An-2_\(航空機\))から翻訳されています。
 
 
 **An-2**（アントノフ2；[ウクライナ語](../Page/ウクライナ語.md "wikilink")・[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：<small>アーン・ドヴァー</small>）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[1947年](../Page/1947年.md "wikilink")に[ソ連のアントーノフ設計局](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現在はウクライナの[ANTK アントーノウ](../Page/O・K・アントーノウ記念航空科学技術複合体.md "wikilink")）で開発された[複葉機](../Page/複葉機.md "wikilink")である。

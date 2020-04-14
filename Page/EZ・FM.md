@@ -1,4 +1,4 @@
-> この記事は[EZFM](https://ja.wikipedia.org/wiki/EZFM)から翻訳されています。
+> この記事は[EZ・FM](https://ja.wikipedia.org/wiki/EZ・FM)から翻訳されています。
 
 
 **EZ-FM**(イージー・エフエム)は、[auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")、[ナノ・メディア](../Page/ナノ・メディア.md "wikilink")が提供する、[FM](https://ja.wikipedia.org/wiki/FM放送 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")チューナー内蔵携帯電話端末にてFMラジオを受信するための[EZアプリ(BREW)](../Page/BREW.md "wikilink")。

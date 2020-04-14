@@ -1,4 +1,4 @@
-> この記事は[ DIRTY CHALLENGER](https://ja.wikipedia.org/wiki/_DIRTY_CHALLENGER)から翻訳されています。
+> この記事は[キン肉マン DIRTY CHALLENGER](https://ja.wikipedia.org/wiki/キン肉マン_DIRTY_CHALLENGER)から翻訳されています。
 
 
 『**キン肉マン DIRTY CHALLENGER**』（キンにくマン ダーティ チャレンジャー）は、[1992年](../Page/1992年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[ユタカから発売された](https://ja.wikipedia.org/wiki/ユタカ_\(企業\) "wikilink")[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。ジャンルは[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。

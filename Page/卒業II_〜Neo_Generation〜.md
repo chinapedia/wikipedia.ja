@@ -1,4 +1,4 @@
-> この記事は[II Neo Generation](https://ja.wikipedia.org/wiki/II_Neo_Generation)から翻訳されています。
+> この記事は[卒業II 〜Neo Generation〜](https://ja.wikipedia.org/wiki/卒業II_〜Neo_Generation〜)から翻訳されています。
 
 
 『**卒業II 〜Neo Generation〜**』（そつぎょうツー ネオ・ジェネレーション）は、[1994年](../Page/1994年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[ジャパンホームビデオ](../Page/ジャパンホームビデオ.md "wikilink")（JHV）より発売された[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")対応の[育成シミュレーションゲーム](../Page/育成シミュレーションゲーム.md "wikilink")。1992年発売の前作『[卒業 〜Graduation〜](../Page/卒業_〜Graduation〜.md "wikilink")』同様に、多数の家庭用ゲーム機に移植され32ビットゲーム機黎明期の代表的な[ギャルゲー](../Page/ギャルゲー.md "wikilink")となったことで知られる。

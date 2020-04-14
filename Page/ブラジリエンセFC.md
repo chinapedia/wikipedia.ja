@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブラジリエンセFC](https://ja.wikipedia.org/wiki/ブラジリエンセFC)から翻訳されています。
 
 
 **ブラジリエンセFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")・[タグアチンガを本拠地とする](https://ja.wikipedia.org/wiki/タグアチンガ_\(ブラジリア連邦直轄区\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

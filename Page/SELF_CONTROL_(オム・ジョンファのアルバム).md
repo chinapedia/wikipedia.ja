@@ -1,4 +1,4 @@
-> この記事は[SELF CONTROL \(\)](https://ja.wikipedia.org/wiki/SELF_CONTROL_\(\))から翻訳されています。
+> この記事は[SELF CONTROL \(オム・ジョンファのアルバム\)](https://ja.wikipedia.org/wiki/SELF_CONTROL_\(オム・ジョンファのアルバム\))から翻訳されています。
 
 
 '''SELF CONTROL '''（セルフ コントロール）は[オム・ジョンファ](../Page/オム・ジョンファ.md "wikilink") の8枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")に[Sony Musicよりリリースされた](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

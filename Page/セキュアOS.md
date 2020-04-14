@@ -1,4 +1,4 @@
-> この記事は[OS](https://ja.wikipedia.org/wiki/OS)から翻訳されています。
+> この記事は[セキュアOS](https://ja.wikipedia.org/wiki/セキュアOS)から翻訳されています。
 
 
 **セキュアOS**（Secure OS）とは、[セキュリティを強化した](../Page/コンピュータセキュリティ.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のことである。厳密な定義は存在していないが、[強制アクセス制御](https://ja.wikipedia.org/wiki/強制アクセス制御 "wikilink")(Mandatory Access Control:MAC)機能及び、[最小特権](https://ja.wikipedia.org/wiki/最小特権 "wikilink")を実現する機能を備えたものをそう呼ぶことが一般的である。

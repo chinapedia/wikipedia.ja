@@ -1,4 +1,4 @@
-> この記事は[PEAK](https://ja.wikipedia.org/wiki/PEAK)から翻訳されています。
+> この記事は[なっちゃんPEAK](https://ja.wikipedia.org/wiki/なっちゃんPEAK)から翻訳されています。
 
 
 **なっちゃんPEAK**（なっちゃんぴーく）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。漢字では*捺子頂上*。2001年10月結成、2005年10月[avex tuneよりメジャーデビュー](https://ja.wikipedia.org/wiki/avex_tune "wikilink")、2006年9月解散。

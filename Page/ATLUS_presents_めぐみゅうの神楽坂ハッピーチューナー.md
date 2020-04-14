@@ -1,4 +1,4 @@
-> この記事は[ATLUS presents ](https://ja.wikipedia.org/wiki/ATLUS_presents_)から翻訳されています。
+> この記事は[ATLUS presents めぐみゅうの神楽坂ハッピーチューナー](https://ja.wikipedia.org/wiki/ATLUS_presents_めぐみゅうの神楽坂ハッピーチューナー)から翻訳されています。
 
 
 **ATLUS presents めぐみゅうの神楽坂ハッピーチューナー**（あとらすぷれぜんつ めぐみゅうのかぐらざかはっぴーちゅうなー）は[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")-[2005年](../Page/2005年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティーは[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")と[松来未祐](../Page/松来未祐.md "wikilink")。提供は[アトラスで同社のゲームの紹介やパーソナリティーによるトークがオンエアされていた](../Page/アトラス_\(ゲーム会社\).md "wikilink")。

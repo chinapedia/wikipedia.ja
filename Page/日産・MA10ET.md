@@ -1,4 +1,4 @@
-> この記事は[MA10ET](https://ja.wikipedia.org/wiki/MA10ET)から翻訳されています。
+> この記事は[日産・MA10ET](https://ja.wikipedia.org/wiki/日産・MA10ET)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Figaro-bay.JPG "wikilink") **日産・MA10ET**はかつて[日産自動車](../Page/日産自動車.md "wikilink")が製造していた[直列4気筒](../Page/直列4気筒.md "wikilink")[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")である。

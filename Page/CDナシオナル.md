@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDナシオナル](https://ja.wikipedia.org/wiki/CDナシオナル)から翻訳されています。
 
 
 **クルーベ・デスポルティーヴォ・ナシオナル** () は、[ポルトガル](../Page/ポルトガル.md "wikilink")領[マデイラ諸島](https://ja.wikipedia.org/wiki/マデイラ諸島 "wikilink")の都市[フンシャル](../Page/フンシャル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。**ナシオナル・ダ・マデイラ** (Nacional da Madeira)、又は**ナシオナル** (Nacional) とも呼ばれる。\[1\]

@@ -1,4 +1,4 @@
-> この記事は[ \(Take it to the Lucky\)](https://ja.wikipedia.org/wiki/_\(Take_it_to_the_Lucky\))から翻訳されています。
+> この記事は[金曜日のライオン \(Take it to the Lucky\)](https://ja.wikipedia.org/wiki/金曜日のライオン_\(Take_it_to_the_Lucky\))から翻訳されています。
 
 
 「**金曜日のライオン (Take it to the Lucky)**」（きんようびのライオン - テイク･イット･トゥ･ザ･ラッキー）は、[TM NETWORKの楽曲](../Page/TM_NETWORK.md "wikilink")。1枚目のシングル（デビューシングル）としてリリースされた。

@@ -1,4 +1,4 @@
-> この記事は[First kaleidscope ](https://ja.wikipedia.org/wiki/First_kaleidscope_)から翻訳されています。
+> この記事は[First kaleidscope 〜君の家に着くまでずっと走ってゆく〜](https://ja.wikipedia.org/wiki/First_kaleidscope_〜君の家に着くまでずっと走ってゆく〜)から翻訳されています。
 
 
 『**first kaleidscope 〜君の家に着くまでずっと走ってゆく〜**』（ファースト カレイドスコープ きみのうちにつくまでずっとはしってゆく）は、[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")ミニアルバム。

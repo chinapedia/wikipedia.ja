@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SD戦国伝 天下統一編](https://ja.wikipedia.org/wiki/SD戦国伝_天下統一編)から翻訳されています。
 
 
 **SD戦国伝 天下統一編**（エスディーせんごくでん てんかとういつへん）は、[武者ガンダム](../Page/武者ガンダム.md "wikilink")シリーズの第3作である。

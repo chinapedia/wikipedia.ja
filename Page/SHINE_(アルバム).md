@@ -1,4 +1,4 @@
-> この記事は[SHINE \(\)](https://ja.wikipedia.org/wiki/SHINE_\(\))から翻訳されています。
+> この記事は[SHINE \(アルバム\)](https://ja.wikipedia.org/wiki/SHINE_\(アルバム\))から翻訳されています。
 
 
 『**SHINE**』（シャイン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")6枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。2007年12月5日に、最新[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源、「STORM」「SHINE」「I for You」の[PVが収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")との2枚組で、[ユニバーサルミュージックより再発された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
@@ -8,6 +8,7 @@
   - 全13曲・70分超と、LUNA SEAのオリジナル・アルバムの中では最も曲数が多く、収録時間が長い。
   - オリジナルアルバムでは最大の売上を記録している作品。
   - リリース後のインタビューでSUGIZOは「『SHINE』は全体的に[グルーヴ](../Page/グルーヴ.md "wikilink")不足」と評している。曲のクオリティは素晴らしいのに、レコーディングでそれに見合う表現が出来なかった。ツアーと共に曲も成長していったので、ツアー終了後にレコーディングした方が良かったかも知れない、などと語っている\[1\]。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

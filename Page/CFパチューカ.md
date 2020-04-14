@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[CFパチューカ](https://ja.wikipedia.org/wiki/CFパチューカ)から翻訳されています。
 
 
 **CFパチューカ**（）は、[メキシコ](../Page/メキシコ.md "wikilink")中央部、[イダルゴ州](../Page/イダルゴ州.md "wikilink")の州都[パチューカ](https://ja.wikipedia.org/wiki/パチューカ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。メキシコ最古のサッカークラブである。

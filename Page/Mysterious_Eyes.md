@@ -34,6 +34,7 @@
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")
   - [THE ONE 〜ALL SINGLES BEST〜](https://ja.wikipedia.org/wiki/THE_ONE_〜ALL_SINGLES_BEST〜 "wikilink")
   - [GARNET CROW REQUEST BEST](https://ja.wikipedia.org/wiki/GARNET_CROW_REQUEST_BEST "wikilink")
+  - [キミが好きだと叫びたい 〜Love & Yell〜](../Page/キミが好きだと叫びたい_〜Love_&_Yell〜.md "wikilink")
 
 <table>
 <tbody>

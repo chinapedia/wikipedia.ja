@@ -1,4 +1,4 @@
-> この記事は[HNK](https://ja.wikipedia.org/wiki/HNK)から翻訳されています。
+> この記事は[HNKリエカ](https://ja.wikipedia.org/wiki/HNKリエカ)から翻訳されています。
 
 
 **フルヴァツキ・ノゴメトニ・クルブ・リエカ**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の都市[リエカ](../Page/リエカ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -266,6 +266,8 @@
 ### [MF](../Page/ミッドフィールダー.md "wikilink")
 
   - [財前宣之](../Page/財前宣之.md "wikilink") 1999
+
+  - [ダミル・クレイラチ](../Page/ダミル・クレイラチ.md "wikilink") 2007-2013
 
 ### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 

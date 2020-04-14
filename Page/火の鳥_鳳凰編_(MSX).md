@@ -1,4 +1,4 @@
-> この記事は[  \(MSX\)](https://ja.wikipedia.org/wiki/__\(MSX\))から翻訳されています。
+> この記事は[火の鳥 鳳凰編 \(MSX\)](https://ja.wikipedia.org/wiki/火の鳥_鳳凰編_\(MSX\))から翻訳されています。
 
 
 『**火の鳥 鳳凰編**』（ひのとり ほうおうへん）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

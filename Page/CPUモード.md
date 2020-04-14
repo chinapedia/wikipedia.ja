@@ -1,4 +1,4 @@
-> この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
+> この記事は[CPUモード](https://ja.wikipedia.org/wiki/CPUモード)から翻訳されています。
 
 
 **CPUモード**（**プロセッサモード**、**特権レベル**）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")の[CPU](../Page/CPU.md "wikilink")の動作モードであり、CPUが実行できる操作を制限するものである\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FM鳥取](https://ja.wikipedia.org/wiki/FM鳥取)から翻訳されています。
 
 
 **株式会社FM鳥取**（エフエムとっとり）は、[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")に所在する[第三セクター](../Page/第三セクター.md "wikilink")の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局。愛称は「**RADIO BIRD**」（レディオバード）。

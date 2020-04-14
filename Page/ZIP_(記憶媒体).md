@@ -1,4 +1,4 @@
-> この記事は[ZIP \(\)](https://ja.wikipedia.org/wiki/ZIP_\(\))から翻訳されています。
+> この記事は[ZIP \(記憶媒体\)](https://ja.wikipedia.org/wiki/ZIP_\(記憶媒体\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Iomega_100MB_Zip_Drive_\(external_blue\)_1.jpg "wikilink")
@@ -85,7 +85,6 @@ ZipドライブとZipディスクの売り上げは[1999年](../Page/1999年.md 
 ## 外部リンク
 
   -
-
 [Category:磁気ディスク](https://ja.wikipedia.org/wiki/Category:磁気ディスク "wikilink") [Category:補助記憶装置](https://ja.wikipedia.org/wiki/Category:補助記憶装置 "wikilink")
 
 1.  [Zipディスク（100MB・250MB）販売終了のご案内](http://fujifilm.jp/information/20050909/) 2004年9月12日

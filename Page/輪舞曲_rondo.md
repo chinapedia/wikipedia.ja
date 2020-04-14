@@ -1,4 +1,4 @@
-> この記事は[ rondo](https://ja.wikipedia.org/wiki/_rondo)から翻訳されています。
+> この記事は[輪舞曲 rondo](https://ja.wikipedia.org/wiki/輪舞曲_rondo)から翻訳されています。
 
 
 『**輪舞曲 〜ロンド〜**』は、[2003年](../Page/2003年.md "wikilink")に公開された[喜屋武靖](../Page/喜屋武靖.md "wikilink")監督による[日本映画](../Page/日本映画.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SPIRITS](https://ja.wikipedia.org/wiki/SPIRITS)から翻訳されています。
+> この記事は[仮面ライダーSPIRITS](https://ja.wikipedia.org/wiki/仮面ライダーSPIRITS)から翻訳されています。
 
 
 『**仮面ライダーSPIRITS**』（かめんライダースピリッツ）は、原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")、漫画：[村枝賢一](../Page/村枝賢一.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[講談社](../Page/講談社.md "wikilink")の漫画雑誌「[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")」にて[2001年](../Page/2001年.md "wikilink")1月号より連載を開始。同誌の休刊後は『[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")』に移籍し、2009年8月号から新たに『**新 仮面ライダーSPIRITS**』として連載中。

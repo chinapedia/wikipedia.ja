@@ -74,7 +74,7 @@
 
 ## 外部リンク
 
-  - [GO\!GO\!HEAVEN](http://www.tv-tokyo.co.jp/ggh/) - テレビ東京
+  - [GO\!GO\!HEAVEN](https://www.tv-tokyo.co.jp/ggh/) - テレビ東京
   - [GO\! GO\! HEAVEN\! 自決少女隊 - ドラマ詳細データ](http://www.tvdrama-db.com/drama_info/p/id-38051) - ◇[テレビドラマデータベース](https://ja.wikipedia.org/wiki/テレビドラマデータベース "wikilink")◇
 
 [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:ビッグコミックスピリッツの漫画作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックスピリッツの漫画作品 "wikilink") [Category:自殺を扱った作品](https://ja.wikipedia.org/wiki/Category:自殺を扱った作品 "wikilink") [Category:いじめを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:いじめを題材とした漫画作品 "wikilink") [Category:ポピュラー音楽を題材とした漫画](https://ja.wikipedia.org/wiki/Category:ポピュラー音楽を題材とした漫画 "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:テレビ東京月曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京月曜未明の深夜ドラマ "wikilink") [Category:オフィスクレッシェンド製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:オフィスクレッシェンド製作のテレビ作品 "wikilink") [Category:いじめを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:いじめを題材としたテレビドラマ "wikilink") [Category:ポピュラー音楽を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ポピュラー音楽を題材としたテレビドラマ "wikilink")

@@ -1421,7 +1421,7 @@
 
   - [Brand-new Generations BBS](http://brand-new.bbs.fc2.com/) - ファンBBS
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:1990年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に解散した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1987年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1987年に結成した音楽グループ "wikilink") [Category:1990年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に解散した音楽グループ "wikilink")
 
 1.  『[週刊明星](../Page/週刊明星.md "wikilink")』1987年2月5日号p.20。
 2.  『[明星](../Page/Myojo.md "wikilink")』1987年5月号p.228。

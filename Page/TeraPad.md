@@ -22,7 +22,7 @@
   - [ドラッグ・アンド・ドロップ](../Page/ドラッグ・アンド・ドロップ.md "wikilink") (D\&D) 編集
   - [禁則処理](../Page/禁則処理.md "wikilink")
   - [IMEでの再変換](../Page/Microsoft_IME.md "wikilink")
-  - タブ・空白文字・改行・[EOF](https://ja.wikipedia.org/wiki/End_Of_File "wikilink")[マーク](../Page/マーク.md "wikilink")などの[エスケープシーケンス](../Page/エスケープシーケンス.md "wikilink")の可視化表示
+  - タブ・空白文字・改行・[EOF](../Page/End_Of_File.md "wikilink")[マーク](../Page/マーク.md "wikilink")などの[エスケープシーケンス](../Page/エスケープシーケンス.md "wikilink")の可視化表示
   - 編集モード（"標準"・[INI](https://ja.wikipedia.org/wiki/INIファイル "wikilink")・[Delphi](../Page/Delphi.md "wikilink")・[Visual Basic](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic "wikilink")・[HTML](../Page/HyperText_Markup_Language.md "wikilink")・[CSS](../Page/Cascading_Style_Sheets.md "wikilink")・[JavaScript](../Page/JavaScript.md "wikilink")・[Perl](../Page/Perl.md "wikilink")・[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")・[Ruby](../Page/Ruby.md "wikilink")・[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")・[Java](https://ja.wikipedia.org/wiki/Java "wikilink")・[HSP](../Page/Hot_Soup_Processor.md "wikilink")・[BAT](../Page/バッチファイル.md "wikilink")）による構文[色](../Page/色.md "wikilink")分け表示\[3\]
   - 引用行の色分け表示(引用符を任意に設定できる)
   - [URLや](../Page/Uniform_Resource_Locator.md "wikilink")[メールアドレス](../Page/メールアドレス.md "wikilink")の自動認識(認識する文字を任意に設定できる)および関連付けされた[アプリケーションの起動](../Page/アプリケーションソフトウェア.md "wikilink")

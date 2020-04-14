@@ -1,4 +1,4 @@
-> この記事は[JOMO ](https://ja.wikipedia.org/wiki/JOMO_)から翻訳されています。
+> この記事は[JOMO あの人の物語](https://ja.wikipedia.org/wiki/JOMO_あの人の物語)から翻訳されています。
 
 
 『**JOMO あの人の物語**』（**ジョモ あのひとのものがたり**）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列各局で放送されていた[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")(JOMO)提供の10分間の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。

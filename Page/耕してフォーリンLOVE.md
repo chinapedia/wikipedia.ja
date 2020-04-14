@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[耕してフォーリンLOVE](https://ja.wikipedia.org/wiki/耕してフォーリンLOVE)から翻訳されています。
 
 
 『**耕して♥フォーリンLOVE**』（たがやしてフォーリンラブ）は、[後藤羽矢子](../Page/後藤羽矢子.md "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。「[まんがライフ](https://ja.wikipedia.org/wiki/まんがライフ "wikilink")」（[竹書房](../Page/竹書房.md "wikilink")）で[2003年](../Page/2003年.md "wikilink")6月号から[2006年](../Page/2006年.md "wikilink")9月号まで、「[まんがライフオリジナル](../Page/まんがライフオリジナル.md "wikilink")」（同）で2003年6月号から2006年8月号まで連載された。

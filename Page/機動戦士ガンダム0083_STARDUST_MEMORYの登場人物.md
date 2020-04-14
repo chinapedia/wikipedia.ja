@@ -1,4 +1,4 @@
-> この記事は[0083 STARDUST MEMORY](https://ja.wikipedia.org/wiki/0083_STARDUST_MEMORY)から翻訳されています。
+> この記事は[機動戦士ガンダム0083 STARDUST MEMORYの登場人物](https://ja.wikipedia.org/wiki/機動戦士ガンダム0083_STARDUST_MEMORYの登場人物)から翻訳されています。
 
 
 **機動戦士ガンダム0083 STARDUST MEMORYの登場人物**（きどうせんしガンダムダブルオーエイティースリースターダストメモリーのとうじょうじんぶつ）では、[OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム0083 STARDUST MEMORY](../Page/機動戦士ガンダム0083_STARDUST_MEMORY.md "wikilink")』及びこれに付随した作品に登場する、[架空](../Page/架空.md "wikilink")の人物について記述する。

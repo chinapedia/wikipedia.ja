@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[チャールズ・W・フェアバンクス](https://ja.wikipedia.org/wiki/チャールズ・W・フェアバンクス)から翻訳されています。
 
 
 **チャールズ・ウォレン・フェアバンクス**(**Charles Warren Fairbanks**, [1852年](../Page/1852年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") - [1918年](../Page/1918年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[インディアナ州](../Page/インディアナ州.md "wikilink")選出[上院議員および第](../Page/アメリカ合衆国上院.md "wikilink")26代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。

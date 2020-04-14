@@ -25,7 +25,7 @@ iQue Playerでは、[ゲームソフト](../Page/ゲームソフト.md "wikilink
 
 ## その他の情報
 
-[2016年](../Page/2016年.md "wikilink")現在、神游科技は、「**iQue 3DS XL**」（[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")）、を中国で販売している\[10\]。
+[2012年](../Page/2012年.md "wikilink")、神游科技は、「**iQue 3DS XL**」（[ニンテンドー3DS LL](https://ja.wikipedia.org/wiki/ニンテンドー3DS_LL "wikilink")）、を中国で販売している\[10\]。
 
 しかしながら、「Nintendo」のライセンス品であることを表示していないせいか、多くの割合の現地の人々からはコピー商品のように思われているようである\[11\]。
 

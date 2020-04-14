@@ -1,4 +1,4 @@
-> この記事は[MW \(\)](https://ja.wikipedia.org/wiki/MW_\(\))から翻訳されています。
+> この記事は[MW \(漫画\)](https://ja.wikipedia.org/wiki/MW_\(漫画\))から翻訳されています。
 
 
 『**MW**』（ムウ）とは[手塚治虫](../Page/手塚治虫.md "wikilink")の漫画作品。「[ビッグコミック](../Page/ビッグコミック.md "wikilink")」（[小学館](../Page/小学館.md "wikilink")）[1976年](../Page/1976年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")号 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")号に連載された。同作品を[原作](../Page/原作.md "wikilink")とした[日本映画](../Page/日本映画.md "wikilink")が[2009年](../Page/2009年.md "wikilink")7月4日より公開された。また同年6月30日には、映画連動企画の[テレビドラマ](../Page/テレビドラマ.md "wikilink")も放映された。

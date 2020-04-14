@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[トーマス・R・マーシャル](https://ja.wikipedia.org/wiki/トーマス・R・マーシャル)から翻訳されています。
 
 
 **トーマス・ライリー・マーシャル**（**Thomas Riley Marshall**, [1854年](../Page/1854年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - [1925年](../Page/1925年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。1913年から1921年まで[ウッドロウ・ウィルソン](../Page/ウッドロウ・ウィルソン.md "wikilink")の下、第28代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")を務めた。

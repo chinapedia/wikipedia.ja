@@ -1,4 +1,4 @@
-> この記事は[ET](https://ja.wikipedia.org/wiki/ET)から翻訳されています。
+> この記事は[ETカード](https://ja.wikipedia.org/wiki/ETカード)から翻訳されています。
 
 
 **ETカード**（**イーティーカード**）は、[遠州鉄道](../Page/遠州鉄道.md "wikilink")が[電車](https://ja.wikipedia.org/wiki/遠州鉄道鉄道線 "wikilink")・[バスに導入した磁気ストライプ式のプリペイド方式](https://ja.wikipedia.org/wiki/遠鉄バス "wikilink")[乗車カード](../Page/乗車カード.md "wikilink")である。

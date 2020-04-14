@@ -1,4 +1,4 @@
-> この記事は[That\'s ! \?](https://ja.wikipedia.org/wiki/That\'s_!_\?)から翻訳されています。
+> この記事は[That\'s カンニング! 史上最大の作戦\?](https://ja.wikipedia.org/wiki/That\'s_カンニング!_史上最大の作戦\?)から翻訳されています。
 
 
 **『That'sカンニング\! 史上最大の作戦?』**（ザッツカンニング しじょうさいだいのさくせん）は、[1996年](../Page/1996年.md "wikilink")8月10日に「[ぼくたちの映画シリーズ](../Page/ぼくたちの映画シリーズ.md "wikilink")'96」として公開された[日本映画](../Page/日本映画.md "wikilink")である。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は4.5億円\[1\]。

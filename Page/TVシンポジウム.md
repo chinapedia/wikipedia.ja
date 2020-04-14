@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVシンポジウム](https://ja.wikipedia.org/wiki/TVシンポジウム)から翻訳されています。
 
 
 **TVシンポジウム**（テレビ- ）は、[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。

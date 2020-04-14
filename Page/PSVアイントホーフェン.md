@@ -1,4 +1,4 @@
-> この記事は[PSV](https://ja.wikipedia.org/wiki/PSV)から翻訳されています。
+> この記事は[PSVアイントホーフェン](https://ja.wikipedia.org/wiki/PSVアイントホーフェン)から翻訳されています。
 
 
 **フィリップス・スポルト・フェレニヒング** (, ) は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アイントホーフェン](../Page/アイントホーフェン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")（1部）に所属している。正式名称はEindhovense Voetbalvereniging **P**hilips **S**port **V**ereniging。PSVは現地の発音をカタカナ表記すると、**ペーエスフェー**となる。PSVはフィリップス・スポーツクラブを意味し、その名の通りサッカー以外にも多くのスポーツチームを所有している。アイントホーフェンに本社を持つ[フィリップス](../Page/フィリップス.md "wikilink")（電機メーカー）の企業クラブとして創設され、2016年までメインスポンサーだったが経営面には立ち入らなかった\[1\]。株式公開会社(NV)だが上場せず、匿名の出資者に支えられている\[2\]。

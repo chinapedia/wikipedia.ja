@@ -1,4 +1,4 @@
-> この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
+> この記事は[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP)から翻訳されています。
 
 
 **ガガガSP**（ガガガスペシャル）は、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。同じ系統の[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")、[サンボマスター](../Page/サンボマスター.md "wikilink")、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")などとは交流が深い。また、自身らのHPにおいて、[四星球](../Page/四星球.md "wikilink")を後輩バンドと公言している。[神戸市](../Page/神戸市.md "wikilink")（[長田区](../Page/長田区.md "wikilink")、[須磨区](../Page/須磨区.md "wikilink")）出身。[LD\&K](https://ja.wikipedia.org/wiki/LD&K "wikilink")所属。以前、本人らは青春パンクに分類されることを嫌っていたが、現在コザック前田は青春パンクを90歳まで続けると宣言している。バンド名の由来は、[忌野清志郎](../Page/忌野清志郎.md "wikilink")がライブパフォーマンスとして楽曲の間奏中などに「ガッ\! ガッ\!」と叫んでいたことからとされる。2002年1月から2006年11月まで[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")(MASTERSIX FOUNDATION)に所属していたが、2007年1月以降はLD\&Kに所属していて、自主レーベル「俺様レコード」で活動している。

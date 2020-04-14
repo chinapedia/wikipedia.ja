@@ -1,4 +1,4 @@
-> この記事は[F4U \(\)](https://ja.wikipedia.org/wiki/F4U_\(\))から翻訳されています。
+> この記事は[F4U \(航空機\)](https://ja.wikipedia.org/wiki/F4U_\(航空機\))から翻訳されています。
 
 
 **F4U コルセア**（*Chance Vought F4U Corsair*）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[チャンス・ヴォート社が開発し](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")と[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")で[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")と[海兵隊が運用した](../Page/アメリカ海兵隊.md "wikilink")[レシプロ単発単座](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。愛称の「**コルセア** (Corsair、コーセア)」は、[バルバリア海賊](https://ja.wikipedia.org/wiki/バルバリア海賊 "wikilink")の意。

@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[スマイルスタジアムNST](https://ja.wikipedia.org/wiki/スマイルスタジアムNST)から翻訳されています。
 
 
 『**スマイルスタジアムNST**』（スマイルスタジアム エヌエスティー、略称：**スマスタ**）は、[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")\[1\]で[生放送](../Page/生放送.md "wikilink")されている[新潟](../Page/新潟県.md "wikilink")[ローカルの](../Page/ローカル番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に放送開始。
@@ -20,7 +20,6 @@
   - [中田エミリー](../Page/中田エミリー.md "wikilink")（元NSTアナウンサー、2003年10月4日 - 2008年3月29日、2010年4月3日 - ）- 2008年4月から2010年3月までは『[NSTスーパーニュース](../Page/NSTスーパーニュース.md "wikilink")』キャスターを担当していたため、当番組を一旦卒業。[フリーアナウンサーとなった](../Page/フリーランス.md "wikilink")2010年4月3日から再登板。2019年11月23日の放送を最後に産休入り。
   - [飛田厚史](https://ja.wikipedia.org/wiki/飛田厚史 "wikilink")（2010年10月2日 - ）
   - [真保恵理](https://ja.wikipedia.org/wiki/真保恵理 "wikilink")（2015年8月8日 - 2016年3月26日、2018年4月7日 - ）初出演から当時は隔週レギュラーとして出演し、その後スポーツ担当を経て2018年4月7日より毎週レギュラーで再登板。
-  - [井上綾夏](https://ja.wikipedia.org/wiki/井上綾夏 "wikilink")（2017年7月1日 - ）
   - [山脇充](https://ja.wikipedia.org/wiki/ザ☆忍者 "wikilink")（2019年4月6日 -）よしもと新潟住みます芸人。中継リポーター
 
 ### レギュラーゲスト
@@ -56,6 +55,7 @@
   - [横内美紗](https://ja.wikipedia.org/wiki/横内美紗 "wikilink")（2011年10月22日 - 2016年12月24日）
   - [杉山萌奈](https://ja.wikipedia.org/wiki/杉山萌奈 "wikilink")（スタジオレギュラー(隔週):2015年8月8日 - 2016年3月26日）
   - [堀井七絵](https://ja.wikipedia.org/wiki/堀井七絵 "wikilink")（VTR不定期:2015年7月18日 -2016年3月26日 スタジオレギュラー:2016年4月2日 - 2018年3月31日）
+  - [井上綾夏](https://ja.wikipedia.org/wiki/井上綾夏 "wikilink")（2017年7月1日 - 2020年3月28日）
 
 #### NSTアナウンサー以外でのナビゲーター
 

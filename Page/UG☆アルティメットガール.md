@@ -1,4 +1,4 @@
-> この記事は[UG](https://ja.wikipedia.org/wiki/UG)から翻訳されています。
+> この記事は[UG☆アルティメットガール](https://ja.wikipedia.org/wiki/UG☆アルティメットガール)から翻訳されています。
 
 
 『**UG☆アルティメットガール**』（アルティメットガール）は、[2005年](../Page/2005年.md "wikilink")1月から3月にかけて『[A15](../Page/A15.md "wikilink")』枠内で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）である。

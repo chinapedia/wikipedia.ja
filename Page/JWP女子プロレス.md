@@ -1,4 +1,4 @@
-> この記事は[JWP](https://ja.wikipedia.org/wiki/JWP)から翻訳されています。
+> この記事は[JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス)から翻訳されています。
 
 
 **JWP女子プロレス**（ジェイ・ダブリュー・ピー・じょしプロレス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子プロレス](../Page/女子プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。キャッチフレーズは「ピュアハート・ピュアレスリング」。

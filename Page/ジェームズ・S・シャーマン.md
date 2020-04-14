@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ジェームズ・S・シャーマン](https://ja.wikipedia.org/wiki/ジェームズ・S・シャーマン)から翻訳されています。
 
 
 **ジェームズ・スクールクラフト・シャーマン**(**James Schoolcraft Sherman**, [1855年](../Page/1855年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - [1912年](../Page/1912年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")選出下院議員および第27代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。

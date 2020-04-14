@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[トーマス・A・ヘンドリックス](https://ja.wikipedia.org/wiki/トーマス・A・ヘンドリックス)から翻訳されています。
 
 
 **トマス・アンドリュース・ヘンドリックス**（**Thomas Andrews Hendricks**, [1819年](../Page/1819年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - [1885年](../Page/1885年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[インディアナ州](../Page/インディアナ州.md "wikilink")選出の[下院および](../Page/アメリカ合衆国下院.md "wikilink")[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、第21代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。

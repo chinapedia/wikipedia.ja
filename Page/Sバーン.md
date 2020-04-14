@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sバーン](https://ja.wikipedia.org/wiki/Sバーン)から翻訳されています。
 
 
 **Sバーン**（エスバーン、*S-Bahn*）は[ドイツ語圏](https://ja.wikipedia.org/wiki/ドイツ語圏 "wikilink")において、各国の国有鉄道、国営鉄道、またはこれに準ずる公的機関などが運行している都市内・都市近郊鉄道のことであり、地上鉄道の形態を指す\[1\]。

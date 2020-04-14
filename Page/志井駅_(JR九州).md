@@ -1,9 +1,11 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[志井駅 \(JR九州\)](https://ja.wikipedia.org/wiki/志井駅_\(JR九州\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Shii_Station_platform.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Shii_Station_plaza.jpg "wikilink")
 
 **志井駅**（しいえき）は、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉南区](../Page/小倉南区.md "wikilink")大字志井にある、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）[日田彦山線](https://ja.wikipedia.org/wiki/日田彦山線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")\[1\]。駅番号は**JI07**。
+
+小倉南区志井一丁目に所在する[北九州高速鉄道](../Page/北九州高速鉄道.md "wikilink")（北九州モノレール）[小倉線の](https://ja.wikipedia.org/wiki/北九州高速鉄道小倉線 "wikilink")[志井駅へは](https://ja.wikipedia.org/wiki/志井駅_\(北九州高速鉄道\) "wikilink")、直線距離で2km以上の距離がある。日田彦山線とモノレールは、隣の[志井公園駅](https://ja.wikipedia.org/wiki/志井公園駅 "wikilink")とモノレール[企救丘駅](https://ja.wikipedia.org/wiki/企救丘駅 "wikilink")が約200mと近接している。
 
 ## 歴史
 
@@ -75,19 +77,11 @@
 
 ## 駅周辺
 
-志井鷹羽台などの住宅街が広がり、駅の北側を[九州自動車道](../Page/九州自動車道.md "wikilink")が通る。
+駅前後では概ね[福岡県道257号井手浦徳力線](https://ja.wikipedia.org/wiki/福岡県道257号井手浦徳力線 "wikilink")と並行し、この県道の周辺に集落が形成されている。また、[九州自動車道](../Page/九州自動車道.md "wikilink")を挟んだ北側には住宅地の志井鷹羽台がある。
 
-小倉南区志井一丁目に所在する[北九州高速鉄道](../Page/北九州高速鉄道.md "wikilink")（北九州モノレール）[小倉線の](https://ja.wikipedia.org/wiki/北九州高速鉄道小倉線 "wikilink")[志井駅へは](https://ja.wikipedia.org/wiki/志井駅_\(北九州高速鉄道\) "wikilink")、直線距離で2km以上の距離がある。モノレールへの[徒歩連絡](https://ja.wikipedia.org/wiki/徒歩連絡 "wikilink")は隣の[志井公園駅](https://ja.wikipedia.org/wiki/志井公園駅 "wikilink")とモノレール[企救丘駅](https://ja.wikipedia.org/wiki/企救丘駅 "wikilink")が約200mと近い（制度上の[乗換駅](../Page/乗換駅.md "wikilink")ではない）。
+県道を挟んだ東側には志井鉱山跡を整備した志井の森公園がある。
 
-  - [西鉄バス北九州](../Page/西鉄バス北九州.md "wikilink")[中谷自動車営業所志井車庫](https://ja.wikipedia.org/wiki/西鉄バス北九州中谷自動車営業所 "wikilink")
-  - [セブンイレブン](https://ja.wikipedia.org/wiki/セブンイレブン "wikilink")小倉志井店
-  - 志井の森公園
-
-•志井鷹羽台
-
-  - 有料[老人ホーム](../Page/老人ホーム.md "wikilink") わらべの里
-  - 五十部畳店
-  - [九州職業能力開発大学校](https://ja.wikipedia.org/wiki/九州職業能力開発大学校 "wikilink")（九州ポリテックカレッジ）
+県道には[西鉄バス北九州 志井線が通り](https://ja.wikipedia.org/wiki/西鉄バス北九州・中谷自動車営業所#志井線 "wikilink")、小倉駅方面と新道寺方面へ通じているが、志井駅から最寄りの停留所までは徒歩6分程度離れている。
 
 ## 隣の駅
 

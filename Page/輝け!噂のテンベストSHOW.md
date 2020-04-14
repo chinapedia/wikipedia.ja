@@ -1,4 +1,4 @@
-> この記事は[!SHOW](https://ja.wikipedia.org/wiki/!SHOW)から翻訳されています。
+> この記事は[輝け!噂のテンベストSHOW](https://ja.wikipedia.org/wiki/輝け!噂のテンベストSHOW)から翻訳されています。
 
 
 『**輝け\!噂のテンベストSHOW**』(かがやけ\!うわさのテンベストショー)とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[ハウフルス](../Page/ハウフルス.md "wikilink")の共同制作、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で毎週木曜21:00 ‐ 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送され、[関口宏](../Page/関口宏.md "wikilink")と[三宅裕司](../Page/三宅裕司.md "wikilink")が[司会](../Page/司会.md "wikilink")を務めてきた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")のシリーズ。『**テンベストSHOW**』とも称される。

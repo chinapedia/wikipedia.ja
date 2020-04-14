@@ -1,9 +1,9 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gメン](https://ja.wikipedia.org/wiki/Gメン)から翻訳されています。
 
 
 **Gマン**（**G-man**、**ジーマン**）、**Gメン**（**G-men**、**ジーメン**）とは
 
-  - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[連邦捜査局](../Page/連邦捜査局.md "wikilink") (FBI) [特別捜査官](https://ja.wikipedia.org/wiki/特別捜査官 "wikilink")の[通称](../Page/通称.md "wikilink")（Government Man、「政府の役人」の略）。政府役人を指す俗語だったこの言葉をFBI捜査官の意味で最初に使ったのは1933年に逮捕された[マシンガン・ケリー](../Page/マシンガン・ケリー.md "wikilink")だったと言われる。なおFBI所属に限らず、[麻薬取締局](../Page/麻薬取締局.md "wikilink")取締官や[連邦保安官](../Page/連邦保安官.md "wikilink")、連邦税務調査官など全ての『連邦』捜査官は地方[警察官](../Page/警察官.md "wikilink")ではなく「Gメン」である。日本では『Gメン（複数形）』として定着しているが、本来は連邦捜査官の俗称は単数形の『Gマン』であり複数の場合にだけ『Gメン』になる。（MenはManの複数形）
+  - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[連邦捜査局](../Page/連邦捜査局.md "wikilink") (FBI) [特別捜査官](https://ja.wikipedia.org/wiki/特別捜査官 "wikilink")の[通称](../Page/通称.md "wikilink")（Government Man、「政府の役人」の略）。全ての政府役人を指す俗語だったこの言葉を”FBI捜査官”の意味で最初に使った人物については諸説あり、1933年に逮捕された[ギャング](../Page/ギャング.md "wikilink")の[マシンガン・ケリー](../Page/マシンガン・ケリー.md "wikilink")だったとも、”Public Enemy No.1”として知られた[ジョン・デリンジャー](../Page/ジョン・デリンジャー.md "wikilink")が1934年7月に射殺される直前に言ったとも言われる。なおFBI所属に限らず、[麻薬取締局](../Page/麻薬取締局.md "wikilink")取締官や[連邦保安官](../Page/連邦保安官.md "wikilink")、連邦税務調査官など全ての『連邦』捜査官は地方[警察官](../Page/警察官.md "wikilink")ではなく「Gメン」である。日本では『Gメン（複数形）』として定着しているが、本来は連邦捜査官の俗称は単数形の『Gマン』であり複数の場合にだけ『Gメン』になる。（MenはManの複数形）
 
 これから後述のように日本で多くの派生語が誕生している。
 

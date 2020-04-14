@@ -1,4 +1,4 @@
-> この記事は[FIRESTORM \(\)](https://ja.wikipedia.org/wiki/FIRESTORM_\(\))から翻訳されています。
+> この記事は[FIRESTORM \(アニメ\)](https://ja.wikipedia.org/wiki/FIRESTORM_\(アニメ\))から翻訳されています。
 
 
 『**FIRESTORM**』（ファイアーストーム）とは、[2003年](../Page/2003年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[9月28日](../Page/9月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系にて放送された[アニメ](../Page/アニメ.md "wikilink")作品。全26話。

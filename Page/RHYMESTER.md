@@ -1648,11 +1648,18 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 ## 外部リンク
 
   - [RHYMESTER](http://www.rhymester.jp/) - 公式サイト
+
   - [スタープレイヤーズ](http://starplayers.jp/) - プロダクション・サイト
+
   - [ライムスター・オフィシャル・ブログ](http://starplayers.jp/rhymester-blog/) - 公式ブログ 2011年4月から
+
   - [ライムスター・オフィシャル・ブログ](http://6109.jp/rhymester/) - 公式ブログ 2011年4月まで
+
+  -
   - [WANTED\!](http://www2.jfn.co.jp/wanted/) - WANTED\!公式サイト
+
   - [第三会議室](http://www.spaceshowertv.com/blackfile/) - SPACE SHOWER TV 第三会議室公式サイト
+
   - [映画廃人 | MTVJAPAN.com : SPECIAL](http://www.mtvjapan.com/special/eigahaijin/) - 映画廃人特設サイト
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")

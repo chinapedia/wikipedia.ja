@@ -1,4 +1,4 @@
-> この記事は[RADIO2](https://ja.wikipedia.org/wiki/RADIO2)から翻訳されています。
+> この記事は[松来未祐と金田朋子のRADIOデコピンないと2](https://ja.wikipedia.org/wiki/松来未祐と金田朋子のRADIOデコピンないと2)から翻訳されています。
 
 
 『**松来未祐と金田朋子のRADIOデコピンないと2**』（まつきみゆと かねだともこの ラジオデコピンないと に）は[2004年](../Page/2004年.md "wikilink")10月から[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")にかけて、[文化放送](../Page/文化放送.md "wikilink")で放送されていたラジオ番組（[アニラジ](../Page/アニラジ.md "wikilink")）。パーソナリティは[声優](../Page/声優.md "wikilink")の[松来未祐](../Page/松来未祐.md "wikilink")と[金田朋子](../Page/金田朋子.md "wikilink")。放送時間は毎週木曜26:00 - 27:00。挨拶は「こんばんに」「ばいに〜」。

@@ -1,4 +1,4 @@
-> この記事は[ZOIDS](https://ja.wikipedia.org/wiki/ZOIDS)から翻訳されています。
+> この記事は[機獣新世紀ZOIDS](https://ja.wikipedia.org/wiki/機獣新世紀ZOIDS)から翻訳されています。
 
 
 『**機獣新世紀ZOIDS**』（きじゅうしんせいきゾイド）は、[上山道郎](../Page/上山道郎.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

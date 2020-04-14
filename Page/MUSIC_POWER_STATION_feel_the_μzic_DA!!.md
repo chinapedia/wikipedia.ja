@@ -1,4 +1,4 @@
-> この記事は[MUSIC POWER STATION feel the zic DA!!](https://ja.wikipedia.org/wiki/MUSIC_POWER_STATION_feel_the_zic_DA!!)から翻訳されています。
+> この記事は[MUSIC POWER STATION feel the μzic DA!!](https://ja.wikipedia.org/wiki/MUSIC_POWER_STATION_feel_the_μzic_DA!!)から翻訳されています。
 
 
 **MUSIC POWER STATION feel the μzic DA\!\!**（ミュージック・パワーステーション・フィール・ザ・ミュージック・ダ\!\!）は、[エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink") (μFM) で2001年5月から2009年3月までの7年11か月間放送されていた夕方の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組終了時の放送時間は月曜 - 木曜の16:00 - 18:55。

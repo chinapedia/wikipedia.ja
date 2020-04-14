@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ジェームズ・R・シュレシンジャー](https://ja.wikipedia.org/wiki/ジェームズ・R・シュレシンジャー)から翻訳されています。
 
 
 **ジェームズ・ロドニー・シュレシンジャー**（**James Rodney Schlesinger**, [1929年](../Page/1929年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[ニクソン政権およびフォード政権下の](../Page/リチャード・ニクソン.md "wikilink")[国防長官](../Page/アメリカ合衆国国防長官.md "wikilink")。

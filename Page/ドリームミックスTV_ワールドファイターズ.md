@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[ドリームミックスTV ワールドファイターズ](https://ja.wikipedia.org/wiki/ドリームミックスTV_ワールドファイターズ)から翻訳されています。
 
 
 『**ドリームミックスTV ワールドファイターズ**』 （- ティーヴィー - \[1\]、*DREAMMIX TV WORLD FIGHTERS*） は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[KDE](../Page/コナミデジタルエンタテインメント.md "wikilink")）、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）、[ハドソン](../Page/ハドソン.md "wikilink")の3社が共同制作し、[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")にハドソンが[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）と[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")（GC）で発売した[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。略称は「**DMTV**」、「**WF**」など。本作は日本国内のみ発売された。

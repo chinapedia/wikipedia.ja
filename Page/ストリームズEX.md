@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ストリームズEX](https://ja.wikipedia.org/wiki/ストリームズEX)から翻訳されています。
 
 
 **株式会社ストリームズEX**（英名 : **STREAM EX CO.,LTD**）は、かつて存在した[テレビ番組](../Page/テレビ番組.md "wikilink")の[制作プロダクション](../Page/制作プロダクション.md "wikilink")会社。本社所在地は[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[南麻布](../Page/南麻布.md "wikilink")2丁目8番21号。

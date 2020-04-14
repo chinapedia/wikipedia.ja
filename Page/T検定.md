@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[T検定](https://ja.wikipedia.org/wiki/T検定)から翻訳されています。
 
 
 **t検定**（ティーけんてい）とは、[帰無仮説](https://ja.wikipedia.org/wiki/帰無仮説 "wikilink")が正しいと仮定した場合に、統計量が[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")に従うことを利用する[統計学](../Page/統計学.md "wikilink")的[検定法](https://ja.wikipedia.org/wiki/検定法 "wikilink")の総称である。[母集団](../Page/母集団.md "wikilink")が[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")に従うと仮定する[パラメトリック検定法](https://ja.wikipedia.org/wiki/パラメトリック検定法 "wikilink")であり、t分布が直接、もとの[平均](../Page/平均.md "wikilink")や[標準偏差](../Page/標準偏差.md "wikilink")にはよらない（ただし[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")による）ことを利用している。2組の[標本について平均に有意差があるかどうかの検定などに用いられる](../Page/標本_\(統計学\).md "wikilink")。統計的仮説検定の一つ。[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")では、「検定統計量が，帰無仮説の下でt分布に従うことを仮定して行う統計的検定。」と定義している\[1\]。

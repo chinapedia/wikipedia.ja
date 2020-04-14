@@ -1,4 +1,4 @@
-> この記事は[TG](https://ja.wikipedia.org/wiki/TG)から翻訳されています。
+> この記事は[ヤマハ・TGシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TGシリーズ)から翻訳されています。
 
 
 **TGシリーズ**（ティージー・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。

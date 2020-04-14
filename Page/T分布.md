@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[T分布](https://ja.wikipedia.org/wiki/T分布)から翻訳されています。
 
 
 *t*検定}}  {\\Gamma (\\nu /2)2^{\\nu /2-1}}</math>

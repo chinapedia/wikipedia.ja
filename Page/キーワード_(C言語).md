@@ -1,4 +1,4 @@
-> この記事は[ \(C\)](https://ja.wikipedia.org/wiki/_\(C\))から翻訳されています。
+> この記事は[キーワード \(C言語\)](https://ja.wikipedia.org/wiki/キーワード_\(C言語\))から翻訳されています。
 
 
 この項では、[C言語](../Page/C言語.md "wikilink")の**キーワード**に関して説明する。

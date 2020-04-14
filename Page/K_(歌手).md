@@ -1,4 +1,4 @@
-> この記事は[K \(\)](https://ja.wikipedia.org/wiki/K_\(\))から翻訳されています。
+> この記事は[K \(歌手\)](https://ja.wikipedia.org/wiki/K_\(歌手\))から翻訳されています。
 
 
 **K**（ケイ、本名：カン・ユンソン（강윤성/姜潤成）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[韓国](../Page/大韓民国.md "wikilink")・[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")在住）の[J-POP](../Page/J-POP.md "wikilink")\[1\][シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")で、所属事務所は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")である。
@@ -526,7 +526,7 @@
 
 ### ラジオ
 
-  - [JFN系列](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")「[Beyond the K...](../Page/Beyond_the_K....md "wikilink")」（2006年4月 - 2009年9月） - レギュラー。
+  - [JFN系列](../Page/全国FM放送協議会.md "wikilink")「[Beyond the K...](../Page/Beyond_the_K....md "wikilink")」（2006年4月 - 2009年9月） - レギュラー。
   - [FM横浜](https://ja.wikipedia.org/wiki/FM横浜 "wikilink")「[K-style](https://ja.wikipedia.org/wiki/K-style "wikilink")」（2012年10月4日 - ） - レギュラー。
 
 ### ライブ

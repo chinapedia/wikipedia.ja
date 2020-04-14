@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ウルトラQの登場怪獣](https://ja.wikipedia.org/wiki/ウルトラQの登場怪獣)から翻訳されています。
 
 
 <div class="pathnavbox">

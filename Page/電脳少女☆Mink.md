@@ -1,4 +1,4 @@
-> この記事は[Mink](https://ja.wikipedia.org/wiki/Mink)から翻訳されています。
+> この記事は[電脳少女☆Mink](https://ja.wikipedia.org/wiki/電脳少女☆Mink)から翻訳されています。
 
 
 『**電脳少女☆Mink**』（**サイバーアイドル ミンク**）は、[立川恵](../Page/立川恵.md "wikilink")作の[少女漫画](../Page/少女漫画.md "wikilink")で、立川の代表作の一つ。

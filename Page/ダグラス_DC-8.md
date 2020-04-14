@@ -1,4 +1,4 @@
-> この記事は[ DC-8](https://ja.wikipedia.org/wiki/_DC-8)から翻訳されています。
+> この記事は[ダグラス DC-8](https://ja.wikipedia.org/wiki/ダグラス_DC-8)から翻訳されています。
 
 
 **ダグラス DC-8**（）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社が開発した大型[ジェット](../Page/ジェット機.md "wikilink")[旅客機](../Page/旅客機.md "wikilink")である。[ボーイング707](../Page/ボーイング707.md "wikilink")や[コンベア880](../Page/コンベア880.md "wikilink")と並んで第一世代ジェット機を代表する旅客機で、世界で初めて超音速飛行を行った旅客機でもあった\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[プロレスLOVE](https://ja.wikipedia.org/wiki/プロレスLOVE)から翻訳されています。
 
 
 **プロレスLOVE**（プロレスラブ）は、[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")が掲げる[スローガン](../Page/スローガン.md "wikilink")。

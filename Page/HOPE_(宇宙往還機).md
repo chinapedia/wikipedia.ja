@@ -1,4 +1,4 @@
-> この記事は[HOPE \(\)](https://ja.wikipedia.org/wiki/HOPE_\(\))から翻訳されています。
+> この記事は[HOPE \(宇宙往還機\)](https://ja.wikipedia.org/wiki/HOPE_\(宇宙往還機\))から翻訳されています。
 
 
 **HOPE**（ホープ、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA) と[航空宇宙技術研究所](../Page/航空宇宙技術研究所.md "wikilink") (NAL) が研究開発していた、[再利用](https://ja.wikipedia.org/wiki/再利用 "wikilink")可能な無人[宇宙往還機である](../Page/再使用型宇宙往還機.md "wikilink")。

@@ -1,13 +1,11 @@
-> この記事は[TARO](https://ja.wikipedia.org/wiki/TARO)から翻訳されています。
+> この記事は[TAROかまやつ](https://ja.wikipedia.org/wiki/TAROかまやつ)から翻訳されています。
 
 
 **TAROかまやつ**（本名：**釜萢 太郎**、かまやつ たろう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）は、 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山生まれの](../Page/青山_\(東京都港区\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の元社員。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
 
 ## 来歴・人物
 
-[父](https://ja.wikipedia.org/wiki/父 "wikilink")に「**ムッシュかまやつ**」こと、元[スパイダース](https://ja.wikipedia.org/wiki/スパイダース "wikilink")中心人物の[かまやつひろし](../Page/かまやつひろし.md "wikilink")を、[祖父](https://ja.wikipedia.org/wiki/祖父 "wikilink")に日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](../Page/ティーブ・釜萢.md "wikilink")を持つという音楽一家に生まれた。
-
-3歳よりクラシックピアノ、音楽理論、作曲法を、日本を代表する[クラシック](../Page/クラシック音楽.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")である[黛敏郎](../Page/黛敏郎.md "wikilink")に14年間師事する。初めての作曲は6歳の時作った「春」であるとライブのMCで語った}}。
+[父](https://ja.wikipedia.org/wiki/父 "wikilink")に[かまやつひろし](../Page/かまやつひろし.md "wikilink")を、[祖父](https://ja.wikipedia.org/wiki/祖父 "wikilink")に[ティーブ・釜萢](../Page/ティーブ・釜萢.md "wikilink")を持つ音楽一家に生まれた。
 
 ### 学生時代
 
@@ -56,9 +54,7 @@
 ## 音楽一家
 
   - 祖父（父方）は日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](../Page/ティーブ・釜萢.md "wikilink")。父の「**ムッシュかまやつ**」こと[かまやつひろし](../Page/かまやつひろし.md "wikilink")も、音楽界から[カリスマ](../Page/カリスマ.md "wikilink")的な尊敬を集めるミュージシャン・シンガーである。また、父方祖父方の親戚には、ジャズ奏者の森山久は大叔父（祖父の弟）、歌手の[森山良子](../Page/森山良子.md "wikilink")はいとこ叔母（祖父の弟の娘）、若手人気ミュージシャンの[森山直太朗](../Page/森山直太朗.md "wikilink")は[はとこ](../Page/はとこ.md "wikilink")（祖父の弟の孫息子）らがいる。
-      - TAROは[森山良子](../Page/森山良子.md "wikilink")のコンサート、イベントなどで良子の代表曲「あなたが好きで」のピアノ伴奏などで親族共演を果たしている。7月にはTAROのラジオ番組にゲスト出演し、親戚ならではのリラックスしたムードで軽快なトークを繰り広げた。2006年8月にはJZBratで行われたTAROのライブにムッシュと共に飛入りし2曲を共演した。
-  - 2006年5月末に放送されたフジテレビ「僕らの音楽」ではムッシュかまやつ50周年記念特集回として[森山直太朗](../Page/森山直太朗.md "wikilink")と出演。父作曲の「あの時君は若かった」をTAROのピアノアレンジで父と二人で歌唱しTV初共演を果たした。
-  - [森山直太朗](../Page/森山直太朗.md "wikilink")は自身のラジオ番組の中で進路に悩むリスナーの相談にTAROを引き合いに出したことがある\[2\]。
+      - TAROは[森山良子](../Page/森山良子.md "wikilink")のコンサート、イベントなどで良子の代表曲「あなたが好きで」のピアノ伴奏などで親族共演を果たしている。2006年8月にはJZBratで行われたTAROのライブにムッシュと共に飛入りし2曲を共演した。
   - 2017年2月末 に母、同年3月1日に父を亡くした。
 
 ## ラジオ番組
@@ -115,4 +111,3 @@
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フジテレビの人物](https://ja.wikipedia.org/wiki/Category:フジテレビの人物 "wikilink") [Category:慶應義塾高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾高等学校出身の人物 "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  ムッシュかまやつはスパイダース解散後の最初のアルバムとなる1970年発売の『ムッシュ〜かまやつひろしの世界』の収録曲「ムッシュ&タロー」で生まれたばかりのTAROと共演している。TAROは泣き声だけだが。ちなみにムッシュかまやつとその父のティーブ釜萢も、1971年に「ファザー&マッドサン」というコラレーションアルバムをリリースしている。
-2.  「俺の親戚にかまやつ太郎ってのがいてムッシュかまやつの息子ね。俺が物心ついた時からバリバリにピアノ上手くて、俺なんかよりも全然ミュージシャンになるだろうって親戚皆からも言われてたの。ホント凄くてさ。だけど、きっと彼も隠してる事じゃないから言うけどすごくお父さんに反対とかされて、俺もある種反対は受けなかったけど音楽で食ってくって事はすごい事だったりするのね、まぁ、よく母親に俺も言われたけど、センスだけじゃ乗り越えられないわよと、ないセンス振り絞ったってその感性を活かすのも技術とか知識なんだからコテ先でやってたら痛い目に会うわよってよく言われてたし。で、かまやつ太郎もそれこそTV局に就職したりして、でも今35にして仕事する傍らミュージシャン始めてるよ。絶対ある\!自分のやりたい事だったら、そこと追求する季節が遅いとか早いじゃなく、ホントに好きならそういう日が絶対くると思うから〜」と。

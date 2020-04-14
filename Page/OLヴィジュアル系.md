@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[OLヴィジュアル系](https://ja.wikipedia.org/wiki/OLヴィジュアル系)から翻訳されています。
 
 
 『**OLヴィジュアル系**』（オーエルヴィジュアルけい）は[かなつ久美](https://ja.wikipedia.org/wiki/かなつ久美 "wikilink")による[レディース](https://ja.wikipedia.org/wiki/レディース "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

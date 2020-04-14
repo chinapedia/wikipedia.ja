@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[アンジオテンシンII受容体拮抗薬](https://ja.wikipedia.org/wiki/アンジオテンシンII受容体拮抗薬)から翻訳されています。
 
 
 **アンジオテンシンII受容体拮抗薬**（アンジオテンシンツーじゅようたいきっこうやく、, **ARB**）は、[アンジオテンシン](../Page/アンジオテンシン.md "wikilink")II（以下、「AII」と略す）と拮抗し、AIIがAII[受容体](../Page/受容体.md "wikilink")への結合を阻害することにより[血圧](../Page/血圧.md "wikilink")の降下作用を示す薬物である。

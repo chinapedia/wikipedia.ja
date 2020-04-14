@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[デイヴィッド・T・ウォーカー](https://ja.wikipedia.org/wiki/デイヴィッド・T・ウォーカー)から翻訳されています。
 
 
 **デイヴィッド・T・ウォーカー**（David T. Walker, [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[6月25日](../Page/6月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")、[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")などのジャンルにクロスオーバーしたギタリストである。ボビー・ウーマックのアルバム「ザ・ポエト」\[1\](1981)、マイケル・ジャクソンの「ガット・トゥ・ビー・ゼア」、ニック・デカロの「アンダー・ザ・ジャマイカン・ムーン」(1974)などでの名演でも知られている。
@@ -55,7 +55,7 @@
 
   -
   -
-  - [ueb page](http://homepage2.nifty.com/ueb/index.html)（日本における公認サイト）
+  - （日本における公認サイト）
 
   - [David T. Walker](http://www.dctgarden.com/Artists/DTW/)（DCTガーデンによるアーティストサイト）
 

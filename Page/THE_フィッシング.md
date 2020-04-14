@@ -1,7 +1,7 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE フィッシング](https://ja.wikipedia.org/wiki/THE_フィッシング)から翻訳されています。
 
 
-『**THE フィッシング**』 （ザふぃっしんぐ）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・[テレビ東京系列ほかで放送されている](https://ja.wikipedia.org/wiki/TXN "wikilink")[釣り](../Page/釣り.md "wikilink")を題材にした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組（[釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink")）である。
+『**THE フィッシング**』 （ザ フィッシング）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・[テレビ東京系列ほかで放送されている](../Page/TXNネットワーク.md "wikilink")[釣り](../Page/釣り.md "wikilink")を題材にした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組（[釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink")）である。
 
 ## 来歴
 
@@ -296,7 +296,7 @@
 
 ## 外部リンク
 
-  - [THEフィッシング](http://www.tv-osaka.co.jp/the-fishing/)
+  - [THEフィッシング](https://www.tv-osaka.co.jp/ip4/the_fishing/)
   - [DAIWA:FISHING ch.](http://www.fishingch.jp/index.html)
 
 [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:テレビ大阪番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪番組 "wikilink") [Category:テレビ東京のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のドキュメンタリー番組 "wikilink") [Category:釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

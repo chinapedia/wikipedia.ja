@@ -1,4 +1,4 @@
-> この記事は[SY](https://ja.wikipedia.org/wiki/SY)から翻訳されています。
+> この記事は[ヤマハ・SYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SYシリーズ)から翻訳されています。
 
 
 **SYシリーズ**（エスワイシリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の機種の型番・商品名。同社のシンセサイザーにはSY-1、SY-2という1970年代に発売された[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")もあるが、ここでは1980年代末から1990年代前半にかけて発売された[デジタルシンセサイザー](https://ja.wikipedia.org/wiki/デジタルシンセサイザー "wikilink")について記述する。

@@ -1,4 +1,4 @@
-> この記事は[YOU \(\)](https://ja.wikipedia.org/wiki/YOU_\(\))から翻訳されています。
+> この記事は[YOU \(テレビ番組\)](https://ja.wikipedia.org/wiki/YOU_\(テレビ番組\))から翻訳されています。
 
 
 『**YOU**』（ユー）は、[1982年](../Page/1982年.md "wikilink")4月から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月まで[NHK教育テレビで土曜日の深夜に放送されていた若者向けの](../Page/NHK教育テレビジョン.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。

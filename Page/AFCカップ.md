@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFCカップ](https://ja.wikipedia.org/wiki/AFCカップ)から翻訳されています。
 
 
 **AFCカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。 大抵は年度を付加して“AFCカップ \[年度\]”（**）などのように呼称される。

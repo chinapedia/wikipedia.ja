@@ -1,4 +1,4 @@
-> この記事は[KR](https://ja.wikipedia.org/wiki/KR)から翻訳されています。
+> この記事は[カワサキ・KR](https://ja.wikipedia.org/wiki/カワサキ・KR)から翻訳されています。
 
 
 **カワサキ・KR**（ケイアール）は、[川崎重工業](../Page/川崎重工業.md "wikilink")が製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種で、カワサキ唯一の250cc[2サイクルロード](../Page/2ストローク機関.md "wikilink")[レーサーレプリカ](https://ja.wikipedia.org/wiki/レーサーレプリカ "wikilink")である。KR250→KR250S→KR-1→KR-1S/Rの順で発売されていた。

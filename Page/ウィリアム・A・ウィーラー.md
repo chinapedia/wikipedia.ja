@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・ウィーラー](https://ja.wikipedia.org/wiki/ウィリアム・A・ウィーラー)から翻訳されています。
 
 
 **ウィリアム・アルモン・ウィーラー**(**William Almon Wheeler**, [1819年](../Page/1819年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - [1887年](../Page/1887年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink"))は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")選出[下院議員および第](../Page/アメリカ合衆国下院.md "wikilink")19代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。

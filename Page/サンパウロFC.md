@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サンパウロFC](https://ja.wikipedia.org/wiki/サンパウロFC)から翻訳されています。
 
 
 **サンパウロFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンパウロ](../Page/サンパウロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -104,7 +104,7 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")現在
 
 ※括弧内の国旗はその他の保有国籍を示す。
 

@@ -1,4 +1,4 @@
-> この記事は[IBF](https://ja.wikipedia.org/wiki/IBF)から翻訳されています。
+> この記事は[IBF日本](https://ja.wikipedia.org/wiki/IBF日本)から翻訳されています。
 
 
 **IBF日本**（別称 **IBF JAPAN**）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロボクシングの団体](../Page/ボクシング.md "wikilink")。当初は[国際ボクシング連盟](../Page/国際ボクシング連盟.md "wikilink")（IBF）の日本支部として設立された。

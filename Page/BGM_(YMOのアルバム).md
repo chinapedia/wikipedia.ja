@@ -1,4 +1,4 @@
-> この記事は[BGM \(YMO\)](https://ja.wikipedia.org/wiki/BGM_\(YMO\))から翻訳されています。
+> この記事は[BGM \(YMOのアルバム\)](https://ja.wikipedia.org/wiki/BGM_\(YMOのアルバム\))から翻訳されています。
 
 
 『**BGM**』（ビー・ジー・エム）は、日本の音楽グループである[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")5作目のアルバム。

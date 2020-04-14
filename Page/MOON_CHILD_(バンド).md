@@ -1,4 +1,4 @@
-> この記事は[MOON CHILD \(\)](https://ja.wikipedia.org/wiki/MOON_CHILD_\(\))から翻訳されています。
+> この記事は[MOON CHILD \(バンド\)](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\))から翻訳されています。
 
 
 **MOON CHILD**（ムーンチャイルド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

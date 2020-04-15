@@ -1,4 +1,4 @@
-> この記事は[Prius \(\)](https://ja.wikipedia.org/wiki/Prius_\(\))から翻訳されています。
+> この記事は[Prius \(日立製作所\)](https://ja.wikipedia.org/wiki/Prius_\(日立製作所\))から翻訳されています。
 
 
 **Prius**（プリウス）は、[日立製作所](../Page/日立製作所.md "wikilink")がかつて販売していたコンシューマ向けの[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に[フローラ](../Page/日立フローラ.md "wikilink")（FLORA）のサブブランドとして**FLORA Prius**（フローラ・プリウス）ブランドが誕生し、[1999年](../Page/1999年.md "wikilink")より独立ブランドとなった。

@@ -388,7 +388,7 @@ Happy Tree Friendsの成功に感動させられたMondo Mediaは、[DVD](../Pag
     放送期間: [2007年](../Page/2007年.md "wikilink")〜[2013年](../Page/2013年.md "wikilink")
   - [シーズン4](https://ja.wikipedia.org/wiki/Happy_Tree_Friends_シーズン4のエピソード一覧 "wikilink")
     エピソード:
-    放送期間: [2013年](../Page/2013年.md "wikilink")〜現在製作中
+    放送期間: [2013年](../Page/2013年.md "wikilink")〜[2016年](../Page/2016年.md "wikilink")
 
 ## 視聴方法
 

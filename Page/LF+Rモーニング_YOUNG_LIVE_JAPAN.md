@@ -1,4 +1,4 @@
-> この記事は[LF+R YOUNG LIVE JAPAN](https://ja.wikipedia.org/wiki/LF+R_YOUNG_LIVE_JAPAN)から翻訳されています。
+> この記事は[LF+Rモーニング YOUNG LIVE JAPAN](https://ja.wikipedia.org/wiki/LF+Rモーニング_YOUNG_LIVE_JAPAN)から翻訳されています。
 
 
 **LF+Rモーニング YOUNG LIVE JAPAN**（エルエフアールモーニング ヤングライフジャパン）は[BSフジ](../Page/BSフジ.md "wikilink")と[フジテレビ739にて](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")[2000年](../Page/2000年.md "wikilink")12月に[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")が開始されたと同時に始まった番組。放送時間は月〜金の6:30〜7:55（再放送16:30〜17:55）。当時[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](../Page/台場.md "wikilink")にあった[ニッポン放送](../Page/ニッポン放送.md "wikilink")第3スタジオから[生放送](../Page/生放送.md "wikilink")されていた。制作は[ニッポン放送](../Page/ニッポン放送.md "wikilink")事業開発局と[BSフジ](../Page/BSフジ.md "wikilink")。この番組は後に一部出演者の変更から『**[ヤングライブニッポンLF+RミュージックTV](../Page/ヤングライブニッポンLF+RミュージックTV.md "wikilink")**』と改められた。詳しくはそちらも参考にされたい。

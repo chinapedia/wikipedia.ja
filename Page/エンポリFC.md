@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[エンポリFC](https://ja.wikipedia.org/wiki/エンポリFC)から翻訳されています。
 
 
 **エンポリFC**（**Empoli Football Club**）は、[イタリア](../Page/イタリア.md "wikilink")・[エンポリ](../Page/エンポリ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。

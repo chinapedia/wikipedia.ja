@@ -1,4 +1,4 @@
-> この記事は[IZUWORLD Hawaiians](https://ja.wikipedia.org/wiki/IZUWORLD_Hawaiians)から翻訳されています。
+> この記事は[IZU・WORLD みんなのHawaiians](https://ja.wikipedia.org/wiki/IZU・WORLD_みんなのHawaiians)から翻訳されています。
 
 
 [IZU-WORLD_MINNANO_Hawaiians_20120910.jpg](https://ja.wikipedia.org/wiki/File:IZU-WORLD_MINNANO_Hawaiians_20120910.jpg "fig:IZU-WORLD_MINNANO_Hawaiians_20120910.jpg") [IZU-WORLD_MINNANO_Hawaiians_20120519.jpg](https://ja.wikipedia.org/wiki/File:IZU-WORLD_MINNANO_Hawaiians_20120519.jpg "fig:IZU-WORLD_MINNANO_Hawaiians_20120519.jpg")

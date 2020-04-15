@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊)から翻訳されています。
 
 
 『**FNNテレビ朝刊**』（エフエヌエヌテレビちょうかん）は、平日は[FNNが発足した](../Page/フジニュースネットワーク.md "wikilink")[1966年](../Page/1966年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1975年](../Page/1975年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")までと[1977年](../Page/1977年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、週末は1966年[10月8日](../Page/10月8日.md "wikilink")から1982年[3月28日](../Page/3月28日.md "wikilink")まで、[フジテレビ系列で放映されていた朝の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[報道番組](../Page/報道番組.md "wikilink")。

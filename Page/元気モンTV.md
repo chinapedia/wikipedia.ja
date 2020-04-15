@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[元気モンTV](https://ja.wikipedia.org/wiki/元気モンTV)から翻訳されています。
 
 
 『**元気モンTV**』（げんきモンてれび）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")まで[読売テレビで](../Page/讀賣テレビ放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[近畿広域圏向けの](../Page/広域放送.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

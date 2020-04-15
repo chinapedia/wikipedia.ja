@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[徳川慶喜 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/徳川慶喜_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**徳川慶喜**』（とくがわよしのぶ）は、[NHKにおいて](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第37作。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")作の『[最後の将軍 徳川慶喜](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』、脚本を[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")が担当、主演は[本木雅弘](../Page/本木雅弘.md "wikilink")。
@@ -139,14 +139,14 @@
 
   - [松平慶永](../Page/松平春嶽.md "wikilink")：[林隆三](../Page/林隆三.md "wikilink")
   - [松平容保](../Page/松平容保.md "wikilink")：[畠中洋](../Page/畠中洋.md "wikilink")
-  - [松平定敬](../Page/松平定敬.md "wikilink")：[渡辺穣](https://ja.wikipedia.org/wiki/渡辺穣_\(俳優\) "wikilink")　
+  - [松平定敬](../Page/松平定敬.md "wikilink")：[渡辺穣](https://ja.wikipedia.org/wiki/渡辺穣 "wikilink")　
   - [松平乗全](../Page/松平乗全.md "wikilink")：[内山森彦](https://ja.wikipedia.org/wiki/内山森彦 "wikilink")
   - [伊達宗城](../Page/伊達宗城.md "wikilink")：[大門正明](../Page/大門正明.md "wikilink")
   - [徳川慶勝](../Page/徳川慶勝.md "wikilink")：[野村祐人](../Page/野村祐人.md "wikilink")
   - [徳川茂栄](https://ja.wikipedia.org/wiki/徳川茂栄 "wikilink")：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
   - [山内容堂](../Page/山内容堂.md "wikilink")：[塩屋俊](../Page/塩屋俊.md "wikilink")
   - [島津斉彬](../Page/島津斉彬.md "wikilink")：[立川三貴](../Page/立川三貴.md "wikilink")
-  - [島津忠義](../Page/島津忠義.md "wikilink")：[田代泰司](https://ja.wikipedia.org/wiki/田代泰司 "wikilink")→[佐藤旭](https://ja.wikipedia.org/wiki/佐藤旭 "wikilink")
+  - [島津忠義](../Page/島津忠義.md "wikilink")：[田代泰司](https://ja.wikipedia.org/wiki/田代泰司 "wikilink")→[佐藤旭](https://ja.wikipedia.org/wiki/佐藤旭_\(俳優\) "wikilink")
   - [島津久光](../Page/島津久光.md "wikilink")：[江守徹](../Page/江守徹.md "wikilink")
   - [酒井忠義](../Page/酒井忠義_\(若狭国小浜藩主\).md "wikilink")：[矢島健一](../Page/矢島健一.md "wikilink")
   - [立花種恭](../Page/立花種恭.md "wikilink")：[伊丹幸雄](../Page/伊丹幸雄.md "wikilink")
@@ -474,7 +474,7 @@
   - [大河ドラマ　徳川慶喜（よしのぶ） - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010459_00000)
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga038>　番組エピソード　大河ドラマ『徳川慶喜』 NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした作品 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした作品 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
 
 1.  同じ東洋文庫には『昔夢会筆記　徳川慶喜公回想談』（[渋沢栄一](../Page/渋沢栄一.md "wikilink")編・[大久保利謙](../Page/大久保利謙.md "wikilink")校訂）がある。
 2.  慶喜を「けいき」と読むのは当作品のオリジナルではなく歴史的に根拠がある。

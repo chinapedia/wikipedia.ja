@@ -1,4 +1,4 @@
-> この記事は[HIRO \(\)](https://ja.wikipedia.org/wiki/HIRO_\(\))から翻訳されています。
+> この記事は[HIRO \(お笑い芸人\)](https://ja.wikipedia.org/wiki/HIRO_\(お笑い芸人\))から翻訳されています。
 
 
 **HIRO**（ひろ、[1977年](../Page/1977年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[タレント](../Page/タレント.md "wikilink")、[中村部屋](../Page/中村部屋.md "wikilink")(現:東関部屋)所属の元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。[お笑いトリオ](../Page/お笑いタレント.md "wikilink")・[安田大サーカス](../Page/安田大サーカス.md "wikilink")で[ボケを担当する](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。本名、**廣瀬 康幸**（ひろせ やすゆき）。
@@ -24,14 +24,14 @@
   - [逃走中](https://ja.wikipedia.org/wiki/run_for_money_逃走中 "wikilink")（第19回「激動明治の大事変」、第34回「最後のサムライ」）（2010年11月23日、2013年9月29日、フジテレビ）- [人力車](../Page/人力車.md "wikilink")の乗客 役、ヒロ太郎 役
   - [所さんの目がテン\!](../Page/所さんの目がテン!.md "wikilink") 「ゲゲゲ\!\!妖怪が居た\!\!」（2010年12月11日、日本テレビ） - 冒頭の小コントで[子泣きじじい](https://ja.wikipedia.org/wiki/子泣き爺_\(ゲゲゲの鬼太郎\) "wikilink") 役
   - [いきなり\!黄金伝説。](../Page/いきなり!黄金伝説。.md "wikilink") 5時間半スペシャル（2010年12月30日、テレビ朝日） - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")の助っ人
-  - [ヤング ブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(実写版\)#単発ドラマ（2011年・岡田将生版） "wikilink")（2011年4月23日、日本テレビ） -BJの患者 役
+  - [ヤング ブラック・ジャック](https://ja.wikipedia.org/wiki/ブラック・ジャック_\(実写版\)#単発ドラマ（2011年・岡田将生版） "wikilink")（2011年4月23日、日本テレビ）- BJの患者 役　
   - [仮面ライダードライブ](https://ja.wikipedia.org/wiki/仮面ライダードライブ "wikilink")（2014年10月26日・11月16日、テレビ朝日）- クラッシュ / クラッシュロイミュード（声）役
   - [ボク、運命の人です。](https://ja.wikipedia.org/wiki/ボク、運命の人です。 "wikilink")（2017年） ‐ 大寒山関 役
   - [スペシャルドラマ必殺仕事人](https://ja.wikipedia.org/wiki/必殺仕事人_\(2018年のテレビドラマ\) "wikilink")（2018年） ‐ 越前屋 役
 
 ### 映画
 
-  - [クラッシャーカズヨシ](../Page/クラッシャーカズヨシ.md "wikilink")（2005年9月25日）‐ クチビールげ 役
+  - [クラッシャーカズヨシ](../Page/クラッシャーカズヨシ.md "wikilink")（2005年9月25日）- クチビールげ 役
   - [トミカヒーロー レスキューフォース 爆裂MOVIE マッハトレインをレスキューせよ\!](https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース_爆裂MOVIE_マッハトレインをレスキューせよ! "wikilink")（2008年12月20日） - 3大幹部シーカ（声）役
   - [爆走\!トミカヒーローグランプリ](https://ja.wikipedia.org/wiki/トミカヒーロー_レスキューフォース_爆裂MOVIE_マッハトレインをレスキューせよ!#爆走!トミカヒーローグランプリ "wikilink")（2008年12月20日）- 3大幹部シーカ（声）役
   - [アウトサイダー](https://ja.wikipedia.org/wiki/アウトサイダー_\(2018年の映画\) "wikilink")（2018年3月9日）‐ サトル 役\[4\]

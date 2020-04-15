@@ -1,4 +1,4 @@
-> この記事は[BIG WINGS](https://ja.wikipedia.org/wiki/BIG_WINGS)から翻訳されています。
+> この記事は[BIG WINGS印西](https://ja.wikipedia.org/wiki/BIG_WINGS印西)から翻訳されています。
 
 
 **BIG WINGS印西**（びっぐ うぃんぐすいんざい）は、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチーム](../Page/クラブチーム_\(社会人野球\).md "wikilink")。

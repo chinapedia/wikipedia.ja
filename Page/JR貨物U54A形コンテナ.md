@@ -1,4 +1,4 @@
-> この記事は[JRU54A](https://ja.wikipedia.org/wiki/JRU54A)から翻訳されています。
+> この記事は[JR貨物U54A形コンテナ](https://ja.wikipedia.org/wiki/JR貨物U54A形コンテナ)から翻訳されています。
 
 
 **JR貨物U54A形コンテナ**（JRかもつU54Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している30[ft](../Page/フィート.md "wikilink")・31ft[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[有蓋コンテナ](https://ja.wikipedia.org/wiki/有蓋コンテナ "wikilink")）である。製造は[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")（以下東急、現・[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")）の大阪製作所（後に和歌山に移転）及び和歌山製作所（現・和歌山事業所）と[中国国際海運集装箱](https://ja.wikipedia.org/wiki/中国国際海運集装箱 "wikilink")（以下CIMC）。

@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ジョーゼフ・L・マンキーウィッツ](https://ja.wikipedia.org/wiki/ジョーゼフ・L・マンキーウィッツ)から翻訳されています。
 
 
 **ジョーゼフ・リーオ・マンキーウィッツ**（**Joseph Leo Mankiewicz**, [1909年](../Page/1909年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")である。日本語では、ジョセフ・L・マンキーウィッツ、ジョセフ・L・マンキウィッツとも表記される。
@@ -33,7 +33,7 @@
 
 『クレオパトラ』の失敗以来、撮影所の重役たちからは敬遠され、仕事の依頼は激減。マンキーウィッツ唯一のオリジナル脚本による[1966年](../Page/1966年.md "wikilink")の『三人の女性への招待状』が監督と脚本の両方を手掛けた最後の作品となる。
 
-[1970年](../Page/1970年.md "wikilink")にはコメディ西部劇『大脱獄』を演出した後、[1972年](../Page/1972年.md "wikilink")に[ローレンス・オリヴィエ](../Page/ローレンス・オリヴィエ.md "wikilink")と[マイケル・ケイン](../Page/マイケル・ケイン.md "wikilink")を主演に迎えた『[探偵スルース](https://ja.wikipedia.org/wiki/探偵スルース "wikilink")』を発表。本作は高く評価され、[アカデミー監督賞](../Page/アカデミー監督賞.md "wikilink")に再びノミネートされ、復活を印象付けた。しかし、結局、本作が遺作となり、以降は映画製作に携わることはなく、1993年に[心不全](../Page/心不全.md "wikilink")で死亡。
+[1970年](../Page/1970年.md "wikilink")にはコメディ西部劇『大脱獄』を演出した後、[1972年](../Page/1972年.md "wikilink")に[ローレンス・オリヴィエ](../Page/ローレンス・オリヴィエ.md "wikilink")と[マイケル・ケイン](../Page/マイケル・ケイン.md "wikilink")を主演に迎えた『[探偵スルース](https://ja.wikipedia.org/wiki/探偵スルース "wikilink")』を発表。往年の演出と主演二人の演技により、本作は高く評価され、[アカデミー監督賞](../Page/アカデミー監督賞.md "wikilink")に再びノミネート。復活を印象付けた。しかし、結局、本作が遺作となり、以降は映画製作に携わることはなく、1993年に[心不全](../Page/心不全.md "wikilink")で死亡。
 
 兄の[ハーマン・J・マンキーウィッツ](https://ja.wikipedia.org/wiki/ハーマン・J・マンキーウィッツ "wikilink")（1897 - 1953）は映画製作者・脚本家。息子のクリストファー・マンキーウィッツは（1940 - ）『[ダイヤルM](https://ja.wikipedia.org/wiki/ダイヤルM "wikilink")』などを製作。もう1人の息子[トム・マンキーウィッツ](https://ja.wikipedia.org/wiki/トム・マンキーウィッツ "wikilink")（1942 - 2010）は脚本家・映画監督・映画プロデューサーで[007シリーズの脚本家として知られる](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")。
 

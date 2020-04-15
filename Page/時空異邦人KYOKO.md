@@ -1,4 +1,4 @@
-> この記事は[KYOKO](https://ja.wikipedia.org/wiki/KYOKO)から翻訳されています。
+> この記事は[時空異邦人KYOKO](https://ja.wikipedia.org/wiki/時空異邦人KYOKO)から翻訳されています。
 
 
 『**時空異邦人KYOKO**』（タイムストレンジャーキョーコ）は、[種村有菜](../Page/種村有菜.md "wikilink")が執筆した[少女漫画](../Page/少女漫画.md "wikilink")である。

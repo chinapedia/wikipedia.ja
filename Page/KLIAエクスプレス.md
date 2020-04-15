@@ -1,4 +1,4 @@
-> この記事は[KLIA](https://ja.wikipedia.org/wiki/KLIA)から翻訳されています。
+> この記事は[KLIAエクスプレス](https://ja.wikipedia.org/wiki/KLIAエクスプレス)から翻訳されています。
 
 
 **KLIAエクスプレス**（ケイエルアイエー-エクスプレス、）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")にある[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")と[クアラルンプール国際空港](../Page/クアラルンプール国際空港.md "wikilink")を結ぶ路線、列車の名称である。

@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G・スペンサー＝ブラウン](https://ja.wikipedia.org/wiki/G・スペンサー＝ブラウン)から翻訳されています。
 
 
 **G・スペンサー＝ブラウン**（**G. Spencer-Brown**、[1923年](../Page/1923年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[リンカンシャー](../Page/リンカンシャー.md "wikilink")生まれの[数学者](../Page/数学者.md "wikilink")。フルネームは**ジョージ・スペンサー＝ブラウン**（**George Spencer-Brown**）であるが、著書ではすべてファーストネームはイニシャルのみで表記している。

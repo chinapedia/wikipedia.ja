@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スパイダーマンJ](https://ja.wikipedia.org/wiki/スパイダーマンJ)から翻訳されています。
 
 
 『**スパイダーマンJ**』（スパイダーマンジェイ）は、『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』において[2004年](../Page/2004年.md "wikilink")9月号から[2005年](../Page/2005年.md "wikilink")11月号まで連載された[山中あきら](../Page/山中あきら.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

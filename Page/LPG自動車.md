@@ -1,8 +1,8 @@
-> この記事は[LPG](https://ja.wikipedia.org/wiki/LPG)から翻訳されています。
+> この記事は[LPG自動車](https://ja.wikipedia.org/wiki/LPG自動車)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_ABA-YXS10_3Y-PE.jpg "wikilink")（YXS10型）、[トヨタ・クラウンコンフォート](../Page/トヨタ・クラウンコンフォート.md "wikilink")（YXS10型）、[トヨタ・コンフォート](../Page/トヨタ・コンフォート.md "wikilink")（YXS11型）用ガスミキサー式LPGエンジン
-（[トヨタ・3Y-PE型](../Page/トヨタ・Y型エンジン.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_DBA-TSS10_1TR-FPE.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:In-vehicle_LPG_bottle_001.JPG "wikilink") LPI に搭載されるLPG[タンク](../Page/タンク.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:LPG_tank_equipped_on_Honda_Accord_CF4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:autogastank_in_japan.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:LPI_011.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:F1000065.JPG "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:1NZ-FXP_Engine_TOYOTA_JPN_TAXI_NTP10_01.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_DBA-TSS10_1TR-FPE.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_ABA-YXS10_3Y-PE.jpg "wikilink")（YXS10型）、[トヨタ・クラウンコンフォート](../Page/トヨタ・クラウンコンフォート.md "wikilink")（YXS10型）、[トヨタ・コンフォート](../Page/トヨタ・コンフォート.md "wikilink")（YXS11型）用ガスミキサー式LPGエンジン
+（[トヨタ・3Y-PE型](../Page/トヨタ・Y型エンジン.md "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:In-vehicle_LPG_bottle_001.JPG "wikilink") LPI に搭載されるLPG[タンク](../Page/タンク.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:LPG_tank_equipped_on_Honda_Accord_CF4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:autogastank_in_japan.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:LPI_011.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:F1000065.JPG "wikilink")
 
 **LPG自動車**（エルピージーじどうしゃ）は、LPG（[液化石油ガス](../Page/液化石油ガス.md "wikilink")、）を[燃料](../Page/燃料.md "wikilink")とする[オットーサイクル](../Page/オットーサイクル.md "wikilink")[エンジンを](../Page/内燃機関.md "wikilink")[原動機](../Page/原動機.md "wikilink")とした[自動車](../Page/自動車.md "wikilink")である。**LPG車**、**プロパン車**、**LPガス自動車**とも呼ばれる。
 

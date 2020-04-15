@@ -1,4 +1,4 @@
-> この記事は[MiG-27 \(\)](https://ja.wikipedia.org/wiki/MiG-27_\(\))から翻訳されています。
+> この記事は[MiG-27 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-27_\(航空機\))から翻訳されています。
 
 
 **MiG-27**（ミグ27；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミグ](../Page/MiG.md "wikilink")[設計局](../Page/設計局.md "wikilink")の開発した[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")である。[MiG-23](../Page/MiG-23_\(航空機\).md "wikilink")[前線戦闘機](https://ja.wikipedia.org/wiki/前線戦闘機 "wikilink")のソ連国内向け戦闘爆撃機型として製作された。[1980年代](../Page/1980年代.md "wikilink")、[スホーイ](../Page/スホーイ.md "wikilink")設計局の[Su-17M3/4とともにソ連空軍戦闘爆撃機部隊の中核を担った](../Page/Su-17_\(航空機\).md "wikilink")。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**[フロッガー](../Page/フロッガー.md "wikilink")D/F/H/J/J-2** (Flogger D/F/H/J/J-2)。

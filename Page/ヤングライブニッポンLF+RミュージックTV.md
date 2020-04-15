@@ -1,4 +1,4 @@
-> この記事は[LF+RTV](https://ja.wikipedia.org/wiki/LF+RTV)から翻訳されています。
+> この記事は[ヤングライブニッポンLF+RミュージックTV](https://ja.wikipedia.org/wiki/ヤングライブニッポンLF+RミュージックTV)から翻訳されています。
 
 
 **ヤングライブニッポンLF+RミュージックTV**（ヤングライブニッポン エルエフアールミュージックティービー）は、[BSフジ](../Page/BSフジ.md "wikilink")と[フジテレビ721にて月](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")-金曜日の6:30-7:55→7:00-8:30（再放送16:30-17:55→18:30-20:00）に当時[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](../Page/台場.md "wikilink")にあった[ニッポン放送](../Page/ニッポン放送.md "wikilink")第3スタジオから[生放送](../Page/生放送.md "wikilink")されていた番組。**学校忘れて叩き込め！**が合言葉であった。制作は[ニッポン放送](../Page/ニッポン放送.md "wikilink")事業開発局と[BSフジ](../Page/BSフジ.md "wikilink")。[2000年](../Page/2000年.md "wikilink")12月に[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")が開始されたと同時に始まった『**[LF+Rモーニング YOUNG LIVE JAPAN](../Page/LF+Rモーニング_YOUNG_LIVE_JAPAN.md "wikilink")**』の後番組である。ニッポン放送[LF+R](../Page/LF+R.md "wikilink")のレーベルを使った番組で、当時はまださほど売れていない頃の[青木さやか](../Page/青木さやか.md "wikilink")と、現[東京ダイナマイト](../Page/東京ダイナマイト.md "wikilink")の[松田大輔](../Page/松田大輔.md "wikilink")が「温泉こんにゃくアクロバットショー」というコンビを作っていた時のレギュラー番組の1つである。

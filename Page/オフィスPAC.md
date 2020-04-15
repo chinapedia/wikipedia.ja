@@ -1,4 +1,4 @@
-> この記事は[PAC](https://ja.wikipedia.org/wiki/PAC)から翻訳されています。
+> この記事は[オフィスPAC](https://ja.wikipedia.org/wiki/オフィスPAC)から翻訳されています。
 
 
 **株式会社 オフィスPAC**（オフィスパック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。主に[声優](../Page/声優.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[翻訳者](https://ja.wikipedia.org/wiki/翻訳者 "wikilink")のマネージメントを行っている。

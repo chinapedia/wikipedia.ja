@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR千葉硬式野球部](https://ja.wikipedia.org/wiki/JR千葉硬式野球部)から翻訳されています。
 
 
 **JR千葉硬式野球部**（ジェイアールちばこうしきやきゅうぶ）は、[千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。

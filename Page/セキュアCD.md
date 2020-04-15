@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[セキュアCD](https://ja.wikipedia.org/wiki/セキュアCD)から翻訳されています。
 
 
 **セキュアCD** ([英記](../Page/英語.md "wikilink"): *Secure CD*) とは、当時の[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")\[1\]が[2005年](../Page/2005年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")より導入した新規格の[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")(CCCD)の通称である。

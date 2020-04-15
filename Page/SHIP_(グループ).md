@@ -1,4 +1,4 @@
-> この記事は[SHIP \(\)](https://ja.wikipedia.org/wiki/SHIP_\(\))から翻訳されています。
+> この記事は[SHIP \(グループ\)](https://ja.wikipedia.org/wiki/SHIP_\(グループ\))から翻訳されています。
 
 
 **SHIP**（シップ）は、[山形県](../Page/山形県.md "wikilink")[酒田市](../Page/酒田市.md "wikilink")の中町商店街の活性化の為に結成された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。[地方](../Page/地方.md "wikilink")を拠点として活動する[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")の代表的存在でもあった。

@@ -1,4 +1,4 @@
-> この記事は[YTS60](https://ja.wikipedia.org/wiki/YTS60)から翻訳されています。
+> この記事は[YTSニュースワイド60](https://ja.wikipedia.org/wiki/YTSニュースワイド60)から翻訳されています。
 
 
 『**YTSニュースワイド60**』（ワイティーエスニュースワイドろくまる\[1\]）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[山形テレビ](../Page/山形テレビ.md "wikilink")が[フジテレビ系列時代に夕方に放送していた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[山形県](../Page/山形県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の山形県ローカルパート）。

@@ -1,4 +1,4 @@
-> この記事は[JTB](https://ja.wikipedia.org/wiki/JTB)から翻訳されています。
+> この記事は[JTBパブリッシング](https://ja.wikipedia.org/wiki/JTBパブリッシング)から翻訳されています。
 
 
 **株式会社JTBパブリッシング**（JTB Publishing Inc.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")で、[持株会社](../Page/持株会社.md "wikilink")である[JTB](../Page/JTB.md "wikilink")の完全[子会社](../Page/子会社.md "wikilink")である。本社を[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に置く。

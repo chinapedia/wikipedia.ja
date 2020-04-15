@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本アートセンター自由劇場](https://ja.wikipedia.org/wiki/JR東日本アートセンター自由劇場)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Ziyuu_2.jpg "wikilink") **JR東日本アートセンター自由劇場**（ジェイアールひがしにほんアートセンターじゆうげきじょう、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, JIYU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇団四季](../Page/劇団四季.md "wikilink")の専用劇場である。

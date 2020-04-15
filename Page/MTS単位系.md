@@ -1,4 +1,4 @@
-> この記事は[MTS](https://ja.wikipedia.org/wiki/MTS)から翻訳されています。
+> この記事は[MTS単位系](https://ja.wikipedia.org/wiki/MTS単位系)から翻訳されています。
 
 
 **MTS単位系**（MTSたんいけい）は、[メートル](../Page/メートル.md "wikilink")、[トン](../Page/トン.md "wikilink")、[秒](../Page/秒.md "wikilink")を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。

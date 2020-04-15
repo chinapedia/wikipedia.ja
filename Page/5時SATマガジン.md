@@ -1,4 +1,4 @@
-> この記事は[5SAT](https://ja.wikipedia.org/wiki/5SAT)から翻訳されています。
+> この記事は[5時SATマガジン](https://ja.wikipedia.org/wiki/5時SATマガジン)から翻訳されています。
 
 
 『**5時SATマガジン**』（ごじサタマガジン）は、[1981年](../Page/1981年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[音楽番組](../Page/音楽番組.md "wikilink")である。放送時間は毎週土曜 17:00 - 18:00 （[日本標準時](../Page/日本標準時.md "wikilink")）、中京テレビ旧本社Bスタジオからの[生放送](../Page/生放送.md "wikilink")\[1\]。ただし、1990年代には事前収録による放送も幾度となく行われていた。

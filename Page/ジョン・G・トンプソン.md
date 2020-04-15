@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ジョン・G・トンプソン](https://ja.wikipedia.org/wiki/ジョン・G・トンプソン)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:John_Griggs_Thompson.jpg "wikilink") **ジョン・グリッグス・トンプソン**（John Griggs Thompson, [1932年](../Page/1932年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）は、[アメリカの数学者](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。[フロリダ大学](../Page/フロリダ大学.md "wikilink")名誉教授。有限群論の研究で名がある。

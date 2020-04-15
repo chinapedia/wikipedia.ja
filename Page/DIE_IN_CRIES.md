@@ -14,9 +14,9 @@
 
 [1991年](../Page/1991年.md "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")解散後、KYOのソロプロジェクトとして始動。 ソロプロジェクト第一弾のリリースとなった『NOTHINGNESS TO REVOLUTION』には、YUKIHIROと室姫深のユニット"OPTIC NERVE"が参加、そこにTAKASHIが加わりバンドとしての活動が始まった。
 
-当初、KYOは「喜怒哀楽」の足りない部分を表現する事をテーマとして、ドイツ語で「3つの表情」と言う意味を持つバンド名にする予定であったが、最終的には[Rain Tree Crow](https://ja.wikipedia.org/wiki/Rain_Tree_Crow "wikilink")（[ジャパン再結成時のバンド](../Page/ジャパン_\(バンド\).md "wikilink")）の歌詞中にある"DIE IN CRIES"をバンド名とする。
+当初、KYOは「喜怒哀楽」の足りない部分を表現する事をテーマとして、ドイツ語で「3つの表情」と言う意味を持つバンド名にする予定であったが、最終的には[Rain Tree Crow](https://ja.wikipedia.org/wiki/Rain_Tree_Crow "wikilink")（[ジャパン再結成時のバンド](../Page/ジャパン_\(バンド\).md "wikilink")）の楽曲、"Cries And Whispers"の歌詞から"DIE IN CRIES"をバンド名とした。
 
-[1993年](../Page/1993年.md "wikilink")には日本武道館公演を成功させる。1994年、活動休止。1995年、活動再開もラストアルバム『Seeds』発表後、同年7月2日、[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")でのライヴを最後に解散した。
+D'ERLANGERやZI:KILLでの知名度もあり、[1993年](../Page/1993年.md "wikilink")には日本武道館公演を成功させるほどの人気を獲得したが、翌年の一時的な活動休止を挟んだ1995年、『Seeds』発表後の7月2日に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")でのライヴを最後に解散した。
 
 ## その他
 

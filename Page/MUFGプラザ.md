@@ -1,4 +1,4 @@
-> この記事は[MUFG](https://ja.wikipedia.org/wiki/MUFG)から翻訳されています。
+> この記事は[MUFGプラザ](https://ja.wikipedia.org/wiki/MUFGプラザ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:MTFG1088.jpg "wikilink") **MUFGプラザ**（旧称MTFGプラザ及びUFJプラス）とは、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")傘下の[商業銀行](https://ja.wikipedia.org/wiki/商業銀行 "wikilink")・[信託銀行](../Page/信託銀行.md "wikilink")・[リテール](../Page/リテール.md "wikilink")[証券の窓口を集約し](../Page/証券会社.md "wikilink")、ワンストップチャネルで提供できる共同店舗の形態である。

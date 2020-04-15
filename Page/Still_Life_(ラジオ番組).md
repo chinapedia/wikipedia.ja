@@ -1,4 +1,4 @@
-> この記事は[Still Life \(\)](https://ja.wikipedia.org/wiki/Still_Life_\(\))から翻訳されています。
+> この記事は[Still Life \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Still_Life_\(ラジオ番組\))から翻訳されています。
 
 
 **Still Life**（スティル・ライフ）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で1988年10月から2002年3月まで放送されていたノンストップ・ミュージックプログラム。正式開局前の試験放送時の['AZ'-STATION J-WAVEでも放送されていた](../Page/'AZ'-STATION_J-WAVE.md "wikilink")。

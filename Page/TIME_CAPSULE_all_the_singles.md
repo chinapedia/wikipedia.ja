@@ -13,7 +13,7 @@
 
 アルバムの初回盤はBOXケース仕様、ジャケットには[時計](../Page/時計.md "wikilink")が埋め込まれている。
 
-後に、内容が重複する『[THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")』『[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")』がリリースされるが、本作収録の「Detour」はこの作品及び、2020年3月にリリース予定の「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」のみの収録となっている。
+後に、内容が重複する『[THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")』『[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")』がリリースされるが、本作収録の「Detour」はこの作品及び、[2020年](../Page/2020年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にリリースされた「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」のみの収録となっている。
 
 ## 収録曲
 

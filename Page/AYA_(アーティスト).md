@@ -1,4 +1,4 @@
-> この記事は[AYA \(\)](https://ja.wikipedia.org/wiki/AYA_\(\))から翻訳されています。
+> この記事は[AYA \(アーティスト\)](https://ja.wikipedia.org/wiki/AYA_\(アーティスト\))から翻訳されています。
 
 
 **AYA**（あや、[1975年](../Page/1975年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、日本の[歌手](../Page/歌手.md "wikilink")、[ラジオDJ](../Page/ラジオパーソナリティ.md "wikilink")、元[女優](../Page/俳優.md "wikilink")。以前は**AYA**（あや）としても活動。歌手としては**しずく**、**SIZKU**とも。本名は小川彩（おがわ あや）。

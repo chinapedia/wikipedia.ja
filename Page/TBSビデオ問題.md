@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題)から翻訳されています。
 
 
 **TBSビデオ問題**（TBSビデオもんだい）は、[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[10月26日](../Page/10月26日.md "wikilink")に、東京放送(TBS。現在の[TBSテレビ](../Page/TBSテレビ.md "wikilink"))の[ワイドショー](../Page/ワイドショー.md "wikilink")番組『[3時にあいましょう](../Page/3時にあいましょう.md "wikilink")』のスタッフが、[弁護士](../Page/弁護士.md "wikilink")の[坂本堤](../Page/坂本堤.md "wikilink")が[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")を批判するインタビュー映像を放送前にオウム真理教幹部に見せたことで、9日後の[11月4日](../Page/11月4日.md "wikilink")に起きた[坂本堤弁護士一家殺害事件](../Page/坂本堤弁護士一家殺害事件.md "wikilink")の発端となったのではと指摘された、[マスコミ不祥事](../Page/マスコミ不祥事.md "wikilink")・[報道被害](../Page/報道被害.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(BB-4\)](https://ja.wikipedia.org/wiki/_\(BB-4\))から翻訳されています。
+> この記事は[アイオワ \(BB-4\)](https://ja.wikipedia.org/wiki/アイオワ_\(BB-4\))から翻訳されています。
 
 
 |                                                                                                                         |

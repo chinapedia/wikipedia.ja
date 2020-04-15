@@ -1,4 +1,4 @@
-> この記事は[ABU](https://ja.wikipedia.org/wiki/ABU)から翻訳されています。
+> この記事は[ABUロボコン](https://ja.wikipedia.org/wiki/ABUロボコン)から翻訳されています。
 
 
 [Robocom_Vietnam_2.jpg](https://ja.wikipedia.org/wiki/File:Robocom_Vietnam_2.jpg "fig:Robocom_Vietnam_2.jpg") [Robocon_India_2010.jpg](https://ja.wikipedia.org/wiki/File:Robocon_India_2010.jpg "fig:Robocon_India_2010.jpg")

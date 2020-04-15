@@ -79,7 +79,7 @@
 <!-- end list -->
 
   - [北部方面混成団](https://ja.wikipedia.org/wiki/北部方面混成団 "wikilink")
-      - 第1陸曹教育隊 - 特科教育中隊
+      - [第1陸曹教育隊](../Page/第1陸曹教育隊.md "wikilink") - 特科教育中隊
 
 [23x23ピクセル](https://ja.wikipedia.org/wiki/ファイル:JGSDF_Western_Army.svg "wikilink")[西部方面隊](../Page/西部方面隊.md "wikilink")
 

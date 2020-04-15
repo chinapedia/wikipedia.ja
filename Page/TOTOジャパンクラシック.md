@@ -1,4 +1,4 @@
-> この記事は[TOTO](https://ja.wikipedia.org/wiki/TOTO)から翻訳されています。
+> この記事は[TOTOジャパンクラシック](https://ja.wikipedia.org/wiki/TOTOジャパンクラシック)から翻訳されています。
 
 
 **TOTOジャパンクラシック（TOTO JAPAN CLASSIC）**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントで](../Page/トーナメント方式.md "wikilink")、日本で唯一行われる[全米女子プロゴルフ協会](../Page/全米女子プロゴルフ協会.md "wikilink")（LPGA）の公式戦でもある。

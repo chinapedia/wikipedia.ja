@@ -1,4 +1,4 @@
-> この記事は[ZERO-SUM](https://ja.wikipedia.org/wiki/ZERO-SUM)から翻訳されています。
+> この記事は[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM)から翻訳されています。
 
 
 『**コミックZERO-SUM**』（コミックゼロサム）は、[一迅社](../Page/一迅社.md "wikilink")（旧：一賽舎）発行の月刊[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")雑誌。
@@ -11,7 +11,7 @@
 
   - 峰倉かずや作「最遊記RELOAD」をメイン作品として据える一方、新人発掘、他社作家の引き抜きなどにも精力的。またしばしば誌上で連載作品のオリジナルDVD、ドラマCDなどのグッズも発売される。
   - 他社・他誌の連載作品の続編を掲載するケースも多い（例：「コーセルテルの竜術士物語」、「最遊記」、「嵐雪記」など）。
-  - "Radio ZERO-SUM"というラジオ番組を放送していた。
+  - "Radio ZERO-SUM"というラジオ番組を放送していた。（後述）
   - [コミックマーケット](../Page/コミックマーケット.md "wikilink")に小冊子「zero-sum」（コゼロサム）、ドラマCD、その他オリジナルグッズを出展している。
   - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化作品としては「最遊記RELOAD」（「最遊記RELOAD GUNLOCK」）、「LOVELESS」、「破天荒遊戯」、「あまつき」、「07-GHOST」、「カーニヴァル」、「魔界王子 devils and realist」、「ストレンジ・プラス」（以上放映終了）がある。[テレビドラマ](../Page/テレビドラマ.md "wikilink")化作品は「拝み屋横丁顛末記」のみである。
   - 掲載作品の単行本は「ゼロサムコミックス」として毎月25日に発売される。
@@ -19,11 +19,9 @@
 ## 主な現在連載中の作品
 
   - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")（[ひだかなみ](../Page/ひだかなみ.md "wikilink")、原作：[山口悟](https://ja.wikipedia.org/wiki/山口悟_\(小説家\) "wikilink")）
-  - [カーストヘイト](https://ja.wikipedia.org/wiki/カーストヘイト "wikilink")（[夏野ゆぞ](https://ja.wikipedia.org/wiki/夏野ゆぞ "wikilink")）
   - [カーニヴァル](https://ja.wikipedia.org/wiki/カーニヴァル_\(漫画\) "wikilink")（[御巫桃也](https://ja.wikipedia.org/wiki/御巫桃也 "wikilink")）
   - [彼に依頼にしてはいけません](https://ja.wikipedia.org/wiki/彼に依頼にしてはいけません "wikilink")（[雪広うたこ](https://ja.wikipedia.org/wiki/雪広うたこ "wikilink")）
   - [騎士団長 島耕作](https://ja.wikipedia.org/wiki/島耕作 "wikilink")（[宮本福助](../Page/宮本福助.md "wikilink")、原案：[弘兼憲史](../Page/弘兼憲史.md "wikilink")、協力：[別府マコト](https://ja.wikipedia.org/wiki/別府マコト "wikilink")）
-  - [荒野に煙るは死の香り](https://ja.wikipedia.org/wiki/荒野に煙るは死の香り "wikilink")（[ザキコ](https://ja.wikipedia.org/wiki/ザキコ "wikilink")、原作：[牧野圭祐](https://ja.wikipedia.org/wiki/牧野圭祐 "wikilink")）
   - [コーセルテルの竜術士〜子竜物語〜](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
   - [災禍の神は願わない](https://ja.wikipedia.org/wiki/災禍の神は願わない "wikilink")（[尾羊英](https://ja.wikipedia.org/wiki/尾羊英 "wikilink")）
   - [最遊記RELOAD BLAST](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）
@@ -31,12 +29,10 @@
   - [先生もネット世代](https://ja.wikipedia.org/wiki/先生もネット世代 "wikilink")（[那多ここね](https://ja.wikipedia.org/wiki/那多ここね "wikilink")）
   - [転生したら悪い国の娘でした。](https://ja.wikipedia.org/wiki/転生したら悪い国の娘でした。 "wikilink")（[月煮ゆう](https://ja.wikipedia.org/wiki/月煮ゆう "wikilink")）
   - [破天荒遊戯](../Page/破天荒遊戯.md "wikilink")（[遠藤海成](../Page/遠藤海成.md "wikilink")）
-  - [ヒプノシスマイク -Division Rap Battle- side F.P & M](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")（[城キイコ](https://ja.wikipedia.org/wiki/城キイコ "wikilink")、シナリオ：[百瀬祐一郎](https://ja.wikipedia.org/wiki/百瀬祐一郎 "wikilink")、原作：[EVIL LINE RECORDS](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink")）
   - [Fate/Grand Order -mortalis:stella-](https://ja.wikipedia.org/wiki/Fate/Grand_Order "wikilink")（[白峰](https://ja.wikipedia.org/wiki/白峰 "wikilink")、原作：[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")）
   - [宝石商リチャード氏の謎鑑定](https://ja.wikipedia.org/wiki/宝石商リチャード氏の謎鑑定 "wikilink")（[あかつき三日](https://ja.wikipedia.org/wiki/あかつき三日 "wikilink")、原作：[辻村七子](https://ja.wikipedia.org/wiki/辻村七子 "wikilink")）
   - [ボクラノキセキ](https://ja.wikipedia.org/wiki/ボクラノキセキ "wikilink")（[久米田夏緒](https://ja.wikipedia.org/wiki/久米田夏緒 "wikilink")）
   - [マリエル・クララックの婚約](https://ja.wikipedia.org/wiki/マリエル・クララックの婚約 "wikilink")（[アラスカぱん](https://ja.wikipedia.org/wiki/アラスカぱん "wikilink")、原作：[桃春花](https://ja.wikipedia.org/wiki/桃春花 "wikilink")、キャラクラー原案：[まろ](https://ja.wikipedia.org/wiki/まろ_\(イラストレーター\) "wikilink")）
-  - [未完成サイコロトニクス](https://ja.wikipedia.org/wiki/未完成サイコロトニクス "wikilink")（[高山しのぶ](https://ja.wikipedia.org/wiki/高山しのぶ "wikilink")）
   - [虫かぶり姫](https://ja.wikipedia.org/wiki/虫かぶり姫 "wikilink")（[喜久田ゆい](../Page/喜久田ゆい.md "wikilink")、原作：[由唯](https://ja.wikipedia.org/wiki/由唯 "wikilink")、キャラクター原案：[椎名咲月](https://ja.wikipedia.org/wiki/椎名咲月 "wikilink")）
   - [LOVELESS](../Page/LOVELESS_\(高河ゆんの漫画\).md "wikilink")（[高河ゆん](../Page/高河ゆん.md "wikilink")）
   - [Landreaall](../Page/Landreaall.md "wikilink")（[おがきちか](../Page/おがきちか.md "wikilink")）
@@ -70,6 +66,7 @@
 
 ### か行
 
+  - [カーストヘイト](https://ja.wikipedia.org/wiki/カーストヘイト "wikilink")（[夏野ゆぞ](https://ja.wikipedia.org/wiki/夏野ゆぞ "wikilink")）
   - [骸盗アリス](https://ja.wikipedia.org/wiki/骸盗アリス "wikilink")（[くらげ壱](https://ja.wikipedia.org/wiki/くらげ壱 "wikilink")）
   - [学天の嵐](https://ja.wikipedia.org/wiki/学天の嵐 "wikilink")（[神堂あらし](https://ja.wikipedia.org/wiki/神堂あらし "wikilink")）
   - [楽屋裏](../Page/楽屋裏.md "wikilink")-貧乏暇なし編-（[魔神ぐり子](https://ja.wikipedia.org/wiki/魔神ぐり子 "wikilink")）
@@ -86,6 +83,7 @@
   - [グラール騎士団](https://ja.wikipedia.org/wiki/グラール騎士団 "wikilink")（[sion](https://ja.wikipedia.org/wiki/sion "wikilink")、原作：[実弥島巧](../Page/実弥島巧.md "wikilink")）
   - [CLAY・LORD －土の王－](https://ja.wikipedia.org/wiki/CLAY・LORD_－土の王－ "wikilink")（[鈴本純](https://ja.wikipedia.org/wiki/鈴本純 "wikilink")）
   - [Gemeinschaft](../Page/Gemeinschaft.md "wikilink")（[佐伯弥四郎](https://ja.wikipedia.org/wiki/佐伯弥四郎 "wikilink")）
+  - [荒野に煙るは死の香り](https://ja.wikipedia.org/wiki/荒野に煙るは死の香り "wikilink")（[ザキコ](https://ja.wikipedia.org/wiki/ザキコ "wikilink")、原作：[牧野圭祐](https://ja.wikipedia.org/wiki/牧野圭祐 "wikilink")）
   - [コーセルテルの竜術士物語](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
 
 ### さ行
@@ -154,6 +152,7 @@
   - [光](https://ja.wikipedia.org/wiki/光_\(漫画\) "wikilink")（[凛野ミキ](https://ja.wikipedia.org/wiki/凛野ミキ "wikilink")）
   - [ヒトキリシェアハウス](https://ja.wikipedia.org/wiki/ヒトキリシェアハウス "wikilink")（[片桐いくみ](https://ja.wikipedia.org/wiki/片桐いくみ "wikilink")、原作：[二宮愛](https://ja.wikipedia.org/wiki/二宮愛 "wikilink")）
   - [ひとでなしの恋恋口](https://ja.wikipedia.org/wiki/ひとでなしの恋恋口 "wikilink")（[ぺぷ](https://ja.wikipedia.org/wiki/ぺぷ "wikilink")）
+  - [ヒプノシスマイク -Division Rap Battle- side F.P & M](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")（[城キイコ](https://ja.wikipedia.org/wiki/城キイコ "wikilink")、シナリオ：[百瀬祐一郎](https://ja.wikipedia.org/wiki/百瀬祐一郎 "wikilink")、原作：[EVIL LINE RECORDS](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink")）
   - [百花繚乱録](https://ja.wikipedia.org/wiki/百花繚乱録 "wikilink")（[蒔原櫻子](https://ja.wikipedia.org/wiki/蒔原櫻子 "wikilink")、原作：[高殿円](../Page/高殿円.md "wikilink")）
   - [ファイアーエムブレムif ニーベルングの宝冠](https://ja.wikipedia.org/wiki/ファイアーエムブレムif "wikilink")（[遊行寺たま](https://ja.wikipedia.org/wiki/遊行寺たま "wikilink")、原案協力：[任天堂](../Page/任天堂.md "wikilink")株式会社・[株式会社インテリジェントシステムズ](../Page/インテリジェントシステムズ.md "wikilink")）
   - [+C sword and cornett](https://ja.wikipedia.org/wiki/+C_sword_and_cornett "wikilink")（[遊行寺たま](https://ja.wikipedia.org/wiki/遊行寺たま "wikilink")）
@@ -172,6 +171,7 @@
   - [マジョリン](https://ja.wikipedia.org/wiki/マジョリン "wikilink")（[よねやませつこ](https://ja.wikipedia.org/wiki/よねやませつこ "wikilink")）
   - [魔法使いの猫](https://ja.wikipedia.org/wiki/魔法使いの猫 "wikilink")（[喜久田ゆい](../Page/喜久田ゆい.md "wikilink")）
   - [魔法使い養成専門 マジックスター学院★★★](../Page/魔法使い養成専門_マジック★スター学院.md "wikilink")（[南澤久佳](https://ja.wikipedia.org/wiki/南澤久佳 "wikilink")）
+  - [未完成サイコロトニクス](https://ja.wikipedia.org/wiki/未完成サイコロトニクス "wikilink")（[高山しのぶ](https://ja.wikipedia.org/wiki/高山しのぶ "wikilink")）
   - [水の旋律 幻沫謡](https://ja.wikipedia.org/wiki/水の旋律 "wikilink")（[如月芳規](https://ja.wikipedia.org/wiki/如月芳規 "wikilink")、原作：[株式会社キッド](../Page/KID_\(ゲームブランド\).md "wikilink")）
   - [冥界噺](https://ja.wikipedia.org/wiki/冥界噺 "wikilink")（[凛野ミキ](https://ja.wikipedia.org/wiki/凛野ミキ "wikilink")）
   - [メメント†モリ](https://ja.wikipedia.org/wiki/メメント†モリ "wikilink")（[くさなぎ俊祈](../Page/くさなぎ俊祈.md "wikilink")）
@@ -190,6 +190,17 @@
 ### わ行
 
   - [ワールドエンド：デバッガー](https://ja.wikipedia.org/wiki/ワールドエンド：デバッガー "wikilink")（[御守リツヒロ](https://ja.wikipedia.org/wiki/御守リツヒロ "wikilink")）
+
+## ラジオ
+
+2003年10月から2005年9月まで放送。パーソナリティは声優の[高橋広樹](../Page/高橋広樹.md "wikilink")と[鈴村健一](../Page/鈴村健一.md "wikilink")で、コミックZERO-SUMの情報提供だけでなく連載中の作品をラジオドラマ（一部）として演じるなどをしていた。このラジオドラマはコミックZERO-SUMのプレゼントクイズとなっていた。
+
+  - 放送時間
+      -
+        2003年10月から2004年3月まで　毎週月曜日　21:00-21:30
+        2004年 4月から2004年 9月まで 毎週火曜日　25:30-26:00（枠移動）
+        2004年10月から2005年3月まで　毎週金曜日　21:00-21:30（枠移動）
+        2005年 4月から2005年 9月まで 毎週木曜日 20:30-21:00（枠移動）
 
 ## 脚注
 

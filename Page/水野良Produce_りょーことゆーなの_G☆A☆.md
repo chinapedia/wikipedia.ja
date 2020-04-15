@@ -1,4 +1,4 @@
-> この記事は[Produce  GA](https://ja.wikipedia.org/wiki/Produce__GA)から翻訳されています。
+> この記事は[水野良Produce りょーことゆーなの G☆A☆](https://ja.wikipedia.org/wiki/水野良Produce_りょーことゆーなの_G☆A☆)から翻訳されています。
 
 
 **Broccoli The Night 水野良Produce りょーことゆーなの G☆A☆**（ブロッコリーザナイト みずのりょうプロデュース りょーことゆーなの ジーエー）は、[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")（本放送）と[音泉](../Page/音泉.md "wikilink")（再配信）で放送・配信されていたラジオ番組。全35回。前番組の[かないみか](../Page/かないみか.md "wikilink")と[森訓久](../Page/森訓久.md "wikilink")が担当していた「[Broccoli The Night みか・もりしゃんのGamers Amusement Station](https://ja.wikipedia.org/wiki/Broccoli_The_Night_みか・もりしゃんのGamers_Amusement_Station "wikilink")」とは一転した[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")関連の番組に変わった。

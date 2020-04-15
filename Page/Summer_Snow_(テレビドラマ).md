@@ -1,4 +1,4 @@
-> この記事は[Summer Snow \(\)](https://ja.wikipedia.org/wiki/Summer_Snow_\(\))から翻訳されています。
+> この記事は[Summer Snow \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Summer_Snow_\(テレビドラマ\))から翻訳されています。
 
 
 『**Summer Snow**』（サマー・スノー）は、[2000年](../Page/2000年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[9月15日](../Page/9月15日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜21時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は18.1%。

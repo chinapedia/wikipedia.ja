@@ -1,4 +1,4 @@
-> この記事は[IQ](https://ja.wikipedia.org/wiki/IQ)から翻訳されています。
+> この記事は[IQエンジン](https://ja.wikipedia.org/wiki/IQエンジン)から翻訳されています。
 
 
 『**IQエンジン**』（アイキューエンジン）は、[1989年](../Page/1989年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")から同年[9月26日](../Page/9月26日.md "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[JOCX-TV+](../Page/JOCX-TV2.md "wikilink")』で放送された[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。

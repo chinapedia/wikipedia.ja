@@ -1,4 +1,4 @@
-> この記事は[ and](https://ja.wikipedia.org/wiki/_and)から翻訳されています。
+> この記事は[オシャレ魔女 ラブandベリー](https://ja.wikipedia.org/wiki/オシャレ魔女_ラブandベリー)から翻訳されています。
 
 
 『**オシャレ魔女♥ラブandベリー**』（おしゃれまじょ ラブアンドベリー、英語表記：*Fashionable Witches Love and Berry*）は、かつて[アミューズメントパーク](https://ja.wikipedia.org/wiki/アミューズメントパーク "wikilink")などで稼動していた、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が開発した[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")方式の女の子向け[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")からアミューズメント施設に登場。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月19日](../Page/9月19日.md "wikilink")までの間稼動していた。『[甲虫王者ムシキング](../Page/甲虫王者ムシキング.md "wikilink")』の女の子版として開発され、筐体も『甲虫王者ムシキング』と同じものを使用していた。

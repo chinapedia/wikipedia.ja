@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABC東京野球クラブ](https://ja.wikipedia.org/wiki/ABC東京野球クラブ)から翻訳されています。
 
 
 **ABC東京野球クラブ**（エービーシーとうきょうやきゅうクラブ）は、[東京都](../Page/東京都.md "wikilink")[昭島市](../Page/昭島市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟していた[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。

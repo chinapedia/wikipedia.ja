@@ -1,4 +1,4 @@
-> この記事は[OASYS](https://ja.wikipedia.org/wiki/OASYS)から翻訳されています。
+> この記事は[コルグ・OASYS](https://ja.wikipedia.org/wiki/コルグ・OASYS)から翻訳されています。
 
 
 **OASYS**（オアシス）とは[2005年](../Page/2005年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")発売の[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")。 [thumb](https://ja.wikipedia.org/wiki/ファイル:KORG_OASYS.jpg "wikilink") [ミュージックワークステーション](../Page/ミュージックワークステーション.md "wikilink")と呼ばれる、シンセサイザー1台だけで音楽制作のほとんどの作業を行える多機能型シンセサイザーで、演奏の他に[MIDI](../Page/MIDI.md "wikilink")データの作成、生音の録音、CDの書き込みまで行える。外部から音を取り込むサンプリング、[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")のモデリング機能を持ち、音色合成可能である。最大同時発音数は172音。88鍵タイプが定価882,000円、76鍵タイプが定価840,000円のプロユース用のシンセサイザーである。現在は生産完了しているが、この機種の流れを組む[KRONOS(クロノス)が](https://ja.wikipedia.org/wiki/コルグ・KRONOS "wikilink")[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売されている。 {{-}}

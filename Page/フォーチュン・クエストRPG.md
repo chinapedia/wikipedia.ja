@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[フォーチュン・クエストRPG](https://ja.wikipedia.org/wiki/フォーチュン・クエストRPG)から翻訳されています。
 
 
 『**フォーチュン・クエストRPG**』は、[深沢美潮](../Page/深沢美潮.md "wikilink")著の[ファンタジー](../Page/ファンタジー.md "wikilink")小説『[フォーチュン・クエスト](../Page/フォーチュン・クエスト.md "wikilink")』の世界を舞台とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）である。

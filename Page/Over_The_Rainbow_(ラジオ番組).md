@@ -1,4 +1,4 @@
-> この記事は[Over The Rainbow \(\)](https://ja.wikipedia.org/wiki/Over_The_Rainbow_\(\))から翻訳されています。
+> この記事は[Over The Rainbow \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Over_The_Rainbow_\(ラジオ番組\))から翻訳されています。
 
 
 '''Over The Rainbow '''（オーバーザレインボー）は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")が放送しているお昼の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称：オバレボ、一部地元では：オバレ

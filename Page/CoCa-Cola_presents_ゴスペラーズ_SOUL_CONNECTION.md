@@ -1,7 +1,7 @@
-> この記事は[CoCa-Cola presents  SOUL CONNECTION](https://ja.wikipedia.org/wiki/CoCa-Cola_presents__SOUL_CONNECTION)から翻訳されています。
+> この記事は[CoCa-Cola presents ゴスペラーズ SOUL CONNECTION](https://ja.wikipedia.org/wiki/CoCa-Cola_presents_ゴスペラーズ_SOUL_CONNECTION)から翻訳されています。
 
 
-『**CoCa-Cola presents ゴスペラーズ SOUL CONNECTION**』（コカコーラ プレゼンツ ゴスペラース ソウル コネクション）は、[TOKYO FMがメインの](../Page/エフエム東京.md "wikilink")[JFN](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38局で、毎週[土曜日](../Page/土曜日.md "wikilink")の22:00〜22:55に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")の1社提供で、番組タイトルにも冠している。
+『**CoCa-Cola presents ゴスペラーズ SOUL CONNECTION**』（コカコーラ プレゼンツ ゴスペラース ソウル コネクション）は、[TOKYO FMがメインの](../Page/エフエム東京.md "wikilink")[JFN](../Page/全国FM放送協議会.md "wikilink")38局で、毎週[土曜日](../Page/土曜日.md "wikilink")の22:00〜22:55に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")の1社提供で、番組タイトルにも冠している。
 
 放送内容は、番組タイトルの通り、[ソウルビートの音楽ネタが中心](../Page/ソウルミュージック.md "wikilink")（ゴスペラーズの楽曲も毎週かけるが、かけない週もあったり、洋楽一色の週もあったりする。）。
 
@@ -90,6 +90,6 @@
 
 ## 備考
 
-  - 2002年4月にfeel'n soulがスタートした当初、ゴスペラーズは1990年代半ばあたりから開始の[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")「**GO'S MAGA STORE**」（ゴーズメガストア）も担当しており、JFN系列局によっては週に2回ゴスペラーズの担当するラジオ番組が放送されていたが、feel'n soul開始後1ヶ月でGO'S MAGA STOREは終了した。
+  - 2002年4月にfeel'n soulがスタートした当初、ゴスペラーズは1990年代半ばあたりから開始の[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")「**GO'S MAGA STORE**」（ゴーズメガストア）も担当しており、JFN系列局によっては週に2回ゴスペラーズの担当するラジオ番組が放送されていたが、feel'n soul開始後1ヶ月でGO'S MAGA STOREは終了した。
 
 [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:日本コカ・コーラ一社提供番組](https://ja.wikipedia.org/wiki/Category:日本コカ・コーラ一社提供番組 "wikilink") [Category:ゴスペラーズ](https://ja.wikipedia.org/wiki/Category:ゴスペラーズ "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

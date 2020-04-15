@@ -1,4 +1,4 @@
-> この記事は[TYS](https://ja.wikipedia.org/wiki/TYS)から翻訳されています。
+> この記事は[TYSナウ](https://ja.wikipedia.org/wiki/TYSナウ)から翻訳されています。
 
 
 『**TYSナウ**』（ティーワイエス ナウ）は、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていた[山口県](../Page/山口県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

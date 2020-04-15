@@ -8,7 +8,7 @@
 ### ユキ
 
   - [YUKI (歌手)](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink") - 日本の女性歌手で元[JUDY AND MARYのヴォーカル](../Page/JUDY_AND_MARY.md "wikilink")。
-  - [YUKI](../Page/YUKI.md "wikilink") - [BENNIE Kのシンガー](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")。
+  - YUKI - [BENNIE Kのシンガー](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")。
   - YUKI - [大阪パフォーマンスドール](../Page/大阪パフォーマンスドール.md "wikilink")の[武内由紀子](../Page/武内由紀子.md "wikilink")がソロ活動に際し使用した呼称。
   - YUKI - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")の初代ヴォーカル。
   - ユキ または YUKI - 元[YeLLOW Generationのメンバー](../Page/YeLLOW_Generation.md "wikilink")。

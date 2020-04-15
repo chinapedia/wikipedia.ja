@@ -1,4 +1,4 @@
-> この記事は[SAM \(\)](https://ja.wikipedia.org/wiki/SAM_\(\))から翻訳されています。
+> この記事は[SAM \(ダンサー\)](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\))から翻訳されています。
 
 
 **SAM**（サム、[1962年](../Page/1962年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）本名、**丸山 正温**（まるやま まさはる）は、日本の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")で、[TRF](../Page/TRF.md "wikilink")のメンバーである。[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[岩槻区](https://ja.wikipedia.org/wiki/岩槻区 "wikilink")出身。[獨協中学校](https://ja.wikipedia.org/wiki/獨協中学校 "wikilink")、[獨協高等学校](https://ja.wikipedia.org/wiki/獨協高等学校 "wikilink")卒業。身長176cm。血液型B型。
@@ -52,32 +52,10 @@
 
   - 丸山家
 
-埼玉県さいたま市岩槻区
+埼玉県さいたま市岩槻区の丸山家の初代龍八は[勝浦藩](../Page/勝浦藩.md "wikilink")所属の[武士](../Page/武士.md "wikilink")だったが、大岡という殿様（藩主忠光は[大岡忠相](../Page/大岡忠相.md "wikilink")の親戚）が移封（いほう）してきて、勝浦から龍八が呼ばれて岩槻に来て丸山家が始まった\[10\]。 [Maruyama_Goro.jpg](https://ja.wikipedia.org/wiki/File:Maruyama_Goro.jpg "fig:Maruyama_Goro.jpg")
 
-  -
-    丸山家の初代龍八は[勝浦藩](../Page/勝浦藩.md "wikilink")所属の[武士](../Page/武士.md "wikilink")だったが、大岡という殿様（藩主忠光は[大岡忠相](../Page/大岡忠相.md "wikilink")の親戚）が移封（いほう）してきて、勝浦から龍八が呼ばれて岩槻に来て丸山家が始まった\[10\]。
-
-<!-- end list -->
-
-  - 高祖父・**吉正**（旧岩槻[藩士](../Page/藩士.md "wikilink")、御徒目付）\[11\]
-
-<!-- end list -->
-
-  -
-    藩士の監督とか、不正を働かないように目をつける仕事をしていた\[12\]。
-
-<!-- end list -->
-
-  - 曽祖父・**[五郎](https://ja.wikipedia.org/wiki/丸山五郎 "wikilink")**（医師、[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員）\[13\]
-
-<!-- end list -->
-
-  -
-    [1872年](../Page/1872年.md "wikilink") - [1963年](../Page/1963年.md "wikilink")
-    岩槻に丸山医院を開業\[14\]。
-
-<!-- end list -->
-
+  - 高祖父・**吉正**（旧岩槻[藩士](../Page/藩士.md "wikilink")、御徒目付） - 藩士の監督とか、不正を働かないように目をつける仕事をしていた\[11\]。
+  - 曽祖父・**[五郎](https://ja.wikipedia.org/wiki/丸山五郎 "wikilink")**（[1872年](../Page/1872年.md "wikilink") - [1963年](../Page/1963年.md "wikilink")、医師、[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員）\[12\] - 埼玉県[士族](../Page/士族.md "wikilink")・横田半十郎の二男で、丸山吉正の養子\[13\]。岩槻に丸山医院を開業\[14\]。
   - 祖父・**正**\[15\]
   - 父・**正義**（産婦人科医）\[16\]
   - 兄（歯科医）\[17\]
@@ -85,11 +63,11 @@
 
 <!-- end list -->
 
-  - 古川家
+  - 親戚
 
 <!-- end list -->
 
-  - 従兄弟・[古川俊治](../Page/古川俊治.md "wikilink")（[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")）
+  - 従兄弟・**[古川俊治](../Page/古川俊治.md "wikilink")**（[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")）
 
 ## 出演
 
@@ -107,6 +85,10 @@
 <references/>
 
 </div>
+
+## 参考文献
+
+  - 帝国秘密探偵社編『大衆人事録 第3版』帝国秘密探偵社、1930年。
 
 ## 外部リンク
 
@@ -128,7 +110,7 @@
 9.
 10.
 11.
-12.
+12. \[ 『大衆人事録 第3版』\]マ之部101頁（国立国会図書館デジタルコレクション）。2020年3月2日閲覧。
 13.
 14.
 15.

@@ -1,4 +1,4 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[インフィニティ・FX](https://ja.wikipedia.org/wiki/インフィニティ・FX)から翻訳されています。
 
 
 **インフィニティ・FX** (INFINITI FX) は、[日産自動車](../Page/日産自動車.md "wikilink")の[高級車](../Page/高級車.md "wikilink")ブランド、[インフィニティで](../Page/インフィニティ_\(日産自動車\).md "wikilink")[北米](../Page/北アメリカ.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中東](../Page/中東.md "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[欧州などで販売されている](../Page/ヨーロッパ.md "wikilink")[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")である。

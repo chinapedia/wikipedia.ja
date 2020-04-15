@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[アークザラッドIII](https://ja.wikipedia.org/wiki/アークザラッドIII)から翻訳されています。
 
 
 『**アークザラッドIII**』（*Arc The Lad III*）は、[アーク・エンタテインメント](https://ja.wikipedia.org/wiki/アーク・エンタテインメント_\(ゲーム会社\) "wikilink")（Arc Entertainment）&ダイナマイト制作の[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。[PlayStation専用ソフトとして](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から[1999年](../Page/1999年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された。[アークザラッド](../Page/アークザラッド.md "wikilink")シリーズの第3作目となる。略称は**アーク3**。

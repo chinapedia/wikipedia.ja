@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iチャネル](https://ja.wikipedia.org/wiki/Iチャネル)から翻訳されています。
 
 
 **iチャネル**（アイチャネル、*i-channel*、*i.ch*）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")端末向け情報配信サービスである。2009年12月末時点での利用者は約1700万人。

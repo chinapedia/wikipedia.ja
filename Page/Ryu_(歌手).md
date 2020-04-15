@@ -1,4 +1,4 @@
-> この記事は[Ryu \(\)](https://ja.wikipedia.org/wiki/Ryu_\(\))から翻訳されています。
+> この記事は[Ryu \(歌手\)](https://ja.wikipedia.org/wiki/Ryu_\(歌手\))から翻訳されています。
 
 
 **Ryu**（りゅう、[1974年](../Page/1974年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink") - ）は、[大韓民国](../Page/大韓民国.md "wikilink")の[忠清南道](../Page/忠清南道.md "wikilink")出身の歌手。[ビーイング](../Page/ビーイング.md "wikilink")所属。本名は**ミン・グァノン**（）。身長178cm、体重65kg。100mを10秒台で走った。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[レオナード・E・ディクソン](https://ja.wikipedia.org/wiki/レオナード・E・ディクソン)から翻訳されています。
 
 
 **レオナード・ユージーン・ディクソン**（*Leonard Eugene Dickson*, [1874年](../Page/1874年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - [1954年](../Page/1954年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")）は、アメリカの[数学者](../Page/数学者.md "wikilink")。

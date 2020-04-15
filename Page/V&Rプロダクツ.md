@@ -1,4 +1,4 @@
-> この記事は[V\&R](https://ja.wikipedia.org/wiki/V\&R)から翻訳されています。
+> この記事は[V\&Rプロダクツ](https://ja.wikipedia.org/wiki/V\&Rプロダクツ)から翻訳されています。
 
 
 有限会社**V\&R PRODUCTS**（ブイアンドアールプロダクツ）は、[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")。[代表取締役](../Page/代表取締役.md "wikilink")は[佐井ゆき](https://ja.wikipedia.org/wiki/さいゆ〜き "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[央華封神RPG](https://ja.wikipedia.org/wiki/央華封神RPG)から翻訳されています。
 
 
 『**央華封神RPG**』（おうかほうしんRPG）は、古代中国風の[ファンタジー](../Page/ファンタジー.md "wikilink")世界・央華（おうか）において[仙人](../Page/仙人.md "wikilink")となって遊ぶ、日本の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており、世界デザインは[友野詳](../Page/友野詳.md "wikilink")、システムデザインは[清松みゆき](../Page/清松みゆき.md "wikilink")が担当している。初版は1994年7月25日に[メディアワークス](../Page/メディアワークス.md "wikilink")から出版された。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ル・マンFC](https://ja.wikipedia.org/wiki/ル・マンFC)から翻訳されています。
 
 
 **ル・マン・フットボール・クルブ**（**Le Mans Football Club**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ル・マン](../Page/ル・マン.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。旧称は**ル・マンUC72** (**Le Mans Union Club 72**) 。

@@ -1,4 +1,4 @@
-> この記事は[!Wide ](https://ja.wikipedia.org/wiki/!Wide_)から翻訳されています。
+> この記事は[小堀勝啓のわ!Wide とにかく今夜がパラダイス](https://ja.wikipedia.org/wiki/小堀勝啓のわ!Wide_とにかく今夜がパラダイス)から翻訳されています。
 
 
 『**小堀勝啓のわ\! Wide とにかく今夜がパラダイス**』（こぼりかつひろのわ\!ワイド とにかくこんやがパラダイス）は、[1982年](../Page/1982年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1989年](../Page/1989年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[CBCラジオ](../Page/CBCラジオ.md "wikilink")（[中部日本放送](../Page/中部日本放送.md "wikilink")）で放送された、夜の若者向け[ワイド番組](../Page/ワイド番組.md "wikilink")。通称は「**わ\! WIDE**」「**とに今**（サブタイトル『とにかく今夜がパラダイス』に由来）」「**ワイド**（より簡略的な場合）」。

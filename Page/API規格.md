@@ -1,4 +1,4 @@
-> この記事は[API](https://ja.wikipedia.org/wiki/API)から翻訳されています。
+> この記事は[API規格](https://ja.wikipedia.org/wiki/API規格)から翻訳されています。
 
 
 **API規格**（エーピーアイきかく）とは、[アメリカ石油協会](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")(American Petroleum Institute) が定めた[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")に関する規格の総称のことである。日本国内では一般には[エンジンオイル](../Page/エンジンオイル.md "wikilink")のグレードを定めていることで知られているが、これは[油田](../Page/油田.md "wikilink")における[原油](../Page/原油.md "wikilink")生産設備から[パイプライン輸送](../Page/パイプライン輸送.md "wikilink")、石油製品の製造まで、数多くの規格が定められているものの中のごく一部である。[エンジンオイル](../Page/エンジンオイル.md "wikilink")の規格の認証・ライセンスの発行は[Eolcs](https://ja.wikipedia.org/wiki/Eolcs "wikilink")が行う。

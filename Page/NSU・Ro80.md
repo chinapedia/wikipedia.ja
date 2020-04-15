@@ -1,4 +1,4 @@
-> この記事は[NSURo80](https://ja.wikipedia.org/wiki/NSURo80)から翻訳されています。
+> この記事は[NSU・Ro80](https://ja.wikipedia.org/wiki/NSU・Ro80)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NSU_Ro_80_in_hellblau.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NSU-ro-80-arriere-04-11-06.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Stamp_50_Jahre_Wankelmotor.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Schnittmodell_des_NSU_Ro_80.JPG "wikilink")) オートビジョン自動車博物館\]\] **Ro 80**（ローエイティ、アールオーはちじゅう）は、1967年から1977年までドイツ・[NSU](../Page/NSU.md "wikilink")が[製造](../Page/製造業.md "wikilink")・[販売](../Page/販売.md "wikilink")していた中型[自動車](../Page/自動車.md "wikilink")。

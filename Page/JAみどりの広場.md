@@ -1,4 +1,4 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[JAみどりの広場](https://ja.wikipedia.org/wiki/JAみどりの広場)から翻訳されています。
 
 
 『**JAみどりの広場**』（ジェイエーみどりのひろば）は、[1974年](../Page/1974年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")から[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されている[農業](https://ja.wikipedia.org/wiki/農業 "wikilink")関係の[ローカル](../Page/ローカル番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

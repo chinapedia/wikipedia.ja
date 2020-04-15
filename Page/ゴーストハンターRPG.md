@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ゴーストハンターRPG](https://ja.wikipedia.org/wiki/ゴーストハンターRPG)から翻訳されています。
 
 
 『**ゴーストハンターRPG**』は1930年代の欧米を舞台にした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホラーもの](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。

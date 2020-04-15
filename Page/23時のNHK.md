@@ -1,4 +1,4 @@
-> この記事は[23NHK](https://ja.wikipedia.org/wiki/23NHK)から翻訳されています。
+> この記事は[23時のNHK](https://ja.wikipedia.org/wiki/23時のNHK)から翻訳されています。
 
 
 **23時のNHK**（にじゅうさんじのエヌエイチケイ）は、[2002年](../Page/2002年.md "wikilink")度から[2005年](../Page/2005年.md "wikilink")度までの4年間、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の夜11時（23時）台の[深夜](../Page/深夜番組.md "wikilink")[番組枠に付けた](../Page/テレビ番組.md "wikilink")[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")である。

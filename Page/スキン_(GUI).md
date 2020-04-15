@@ -1,4 +1,4 @@
-> この記事は[ \(GUI\)](https://ja.wikipedia.org/wiki/_\(GUI\))から翻訳されています。
+> この記事は[スキン \(GUI\)](https://ja.wikipedia.org/wiki/スキン_\(GUI\))から翻訳されています。
 
 
 **スキン**（[英語](../Page/英語.md "wikilink")：）とは、[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")などで[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の外観表示を変更できる機能をいう。

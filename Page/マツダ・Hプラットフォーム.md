@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[マツダ・Hプラットフォーム](https://ja.wikipedia.org/wiki/マツダ・Hプラットフォーム)から翻訳されています。
 
 
 **マツダ・Hプラットフォーム**とは、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[FR駆動の大型高級](../Page/二輪駆動.md "wikilink")[自動車](../Page/自動車.md "wikilink")用[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**H**から始まる。

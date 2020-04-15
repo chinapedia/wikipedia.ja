@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE殿堂](https://ja.wikipedia.org/wiki/WWE殿堂)から翻訳されています。
 
 
 [Halloffame.jpg](https://ja.wikipedia.org/wiki/File:Halloffame.jpg "fig:Halloffame.jpg") [WWE_Hall_of_Fame_2009_Ceremony.jpg](https://ja.wikipedia.org/wiki/File:WWE_Hall_of_Fame_2009_Ceremony.jpg "fig:WWE_Hall_of_Fame_2009_Ceremony.jpg") **WWE殿堂**（ダブリュー・ダブリュー・イーでんどう、*WWE Hall of Fame* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")が主催する、WWEを中心にプロレス界において顕著な活躍をした人物を表彰する制度である。対象は[プロレスラー](../Page/プロレスラー.md "wikilink")に限らず、[マネージャーやプロモーターなどの関係者](../Page/マネージャー_\(プロレス\).md "wikilink")、更にWWEに度々登場した著名人なども表彰されている。
@@ -9,9 +9,11 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 
 [2004年](../Page/2004年.md "wikilink")に入り、1996年以降行われていなかった殿堂入りが復活する。団体の名称がWWEに変更していたので、殿堂の名称もWWE殿堂となった。また、殿堂入りの表彰は[レッスルマニア](../Page/レッスルマニア.md "wikilink")前日に行われるイベントとして、一連のレッスルマニアの行事に組み込まれ、式典も盛大に行われることとなった。レッスルマニアの当日にも、開催会場において殿堂者が紹介される時間が設けられている。
 
-[2006年](../Page/2006年.md "wikilink")に[バーン・ガニア](../Page/バーン・ガニア.md "wikilink")が殿堂入りして以降は、[NWAや](../Page/NWA_\(プロレス\).md "wikilink")[AWAなど他団体で活動していたレスラーや関係者の殿堂入りも相次いでいる](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")。日本を本拠としていたレスラーでは、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、[藤波辰爾](../Page/藤波辰爾.md "wikilink")が[2015年](../Page/2015年.md "wikilink")に殿堂入りしており、[2017年](../Page/2017年.md "wikilink")には[力道山](../Page/力道山.md "wikilink")がレガシー部門の殿堂者に迎えられた。
+[2006年](../Page/2006年.md "wikilink")に[バーン・ガニア](../Page/バーン・ガニア.md "wikilink")が殿堂入りして以降は、[NWAや](../Page/NWA_\(プロレス\).md "wikilink")[AWAなど他団体で活動していたレスラーや関係者の殿堂入りも相次いでいる](../Page/アメリカン・レスリング・アソシエーション.md "wikilink")。日本を本拠としていたレスラーでは[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、[藤波辰爾](../Page/藤波辰爾.md "wikilink")（[2015年](../Page/2015年.md "wikilink")）、[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")（[2020年](../Page/2020年.md "wikilink")）が殿堂入りしており、[2017年](../Page/2017年.md "wikilink")には[力道山](../Page/力道山.md "wikilink")がレガシー部門の殿堂者に迎えられた。
 
 [2015年](../Page/2015年.md "wikilink")からは障害や病気に立ち向かう人々に向けて、[アルティメット・ウォリアー](../Page/アルティメット・ウォリアー.md "wikilink")の名前を冠した**ウォリアー賞**（*Warrior Award*）が新設された。
+
+なお藤波辰爾によれば、殿堂入りしたプロレスラーに対してはWWEから「3ヶ月に一度、映像等のロイヤリティの分配が生涯に渡って行われる」ため\[1\]、単なる名誉にとどまらない一面もある。
 
 ## 表彰者一覧
 
@@ -732,7 +734,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tbody>
 </table>
 
-\[1\]
+\[2\]
 
 ## ウォリアー賞
 
@@ -789,4 +791,5 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 
 [Category:WWE殿堂](https://ja.wikipedia.org/wiki/Category:WWE殿堂 "wikilink")
 
-1.  [WrestleTalk:WWE Hall Of Fame 2019 Live Coverage](https://wrestletalk.com/news/live-coverage-wwe-hall-of-fame-2019/)
+1.  [【龍魂激論】天龍ＶＳ藤波対談　かませ犬事件、名勝負数え歌、鼻骨骨折…](https://www.tokyo-sports.co.jp/prores/1766730/) - 東京スポーツ・2020年3月6日
+2.  [WrestleTalk:WWE Hall Of Fame 2019 Live Coverage](https://wrestletalk.com/news/live-coverage-wwe-hall-of-fame-2019/)

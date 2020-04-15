@@ -152,7 +152,7 @@ UMCK-9852</p></td>
   -
   - [YEN TOWN BAND](http://www.universal-music.co.jp/yen-town-band) - ユニバーサルミュージックジャパン
 
-  - [YEN TOWN BAND](http://www.sonymusic.co.jp/Music/Arch/ES/YenTownBand/index.html) - ソニーミュージック
+  - [YEN TOWN BAND](https://www.sonymusic.co.jp/artist/YenTownBand/) - ソニーミュージック
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:映画の登場人物](https://ja.wikipedia.org/wiki/Category:映画の登場人物 "wikilink") [Category:架空の音楽グループ](https://ja.wikipedia.org/wiki/Category:架空の音楽グループ "wikilink")
 

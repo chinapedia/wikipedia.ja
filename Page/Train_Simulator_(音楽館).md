@@ -1,4 +1,4 @@
-> この記事は[Train Simulator \(\)](https://ja.wikipedia.org/wiki/Train_Simulator_\(\))から翻訳されています。
+> この記事は[Train Simulator \(音楽館\)](https://ja.wikipedia.org/wiki/Train_Simulator_\(音楽館\))から翻訳されています。
 
 
 『**Train Simulator**』（トレインシミュレーター、略称：*TS*）は、[音楽館](../Page/音楽館.md "wikilink")より発売された[鉄道運転シミュレーションゲームのシリーズである](https://ja.wikipedia.org/wiki/鉄道シミュレーター "wikilink")。第一作目の『Train Simulator [中央線](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")』は[Macintosh](../Page/Macintosh.md "wikilink")用として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された。
@@ -50,7 +50,7 @@
   - Train Simulator [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")[本線](https://ja.wikipedia.org/wiki/相鉄本線 "wikilink")9000系（横浜 - 海老名）
       - 1996年11月21日発売（mac） /1996年12月4日発売（win）
           - この作品以降の国内作品は、すべてノンストップの撮影専用列車で撮影されている。
-  - Train Simulator [ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")ライン川左岸線（ビンゲン - コブレンツ）
+  - Train Simulator [ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")[ライン川左岸線](https://ja.wikipedia.org/wiki/ライン川左岸線 "wikilink")（ビンゲン - コブレンツ）
       - 1997年3月21日発売
   - Train Simulator [南部縦貫鉄道](https://ja.wikipedia.org/wiki/南部縦貫鉄道 "wikilink")（七戸 - 野辺地）1997年5月16日発売
       - ビデオつきの愛蔵版も発売。
@@ -64,6 +64,7 @@
       - 1998年4月17日発売
   - Train Simulator [阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")（阪神梅田 - 高速神戸）
       - 1998年7月17日発売
+          - 発売前の1998年7月12日に[ハービスOSAKA](../Page/ハービスOSAKA.md "wikilink")で操作体験イベントが開催され、[9000系を使用した貸切イベント列車](../Page/阪神9000系電車.md "wikilink")「トレイン・シミュレーター号」が[梅田](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink") - [高速神戸間で運転された](https://ja.wikipedia.org/wiki/高速神戸駅 "wikilink")\[1\]。
   - Train Simulator [JR北海道](../Page/北海道旅客鉄道.md "wikilink")（余市 - 札幌）
       - 1998年9月17日発売
           - 電車と気動車の協調運転を再現。
@@ -119,9 +120,13 @@
   - [Railfan](../Page/Railfan.md "wikilink")（「[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")」三鷹 - 東京、「[京阪本線](../Page/京阪本線.md "wikilink")[鴨東線](../Page/京阪鴨東線.md "wikilink")」出町柳 - 淀屋橋、「[シカゴ・L](../Page/シカゴ・L.md "wikilink")」ブラウンライン フラートン - Loop - フラートン）[参考](http://www.watch.impress.co.jp/game/docs/20060922/railfan.htm)
   - [Railfan 台湾高鉄](../Page/Railfan_台湾高鉄.md "wikilink")（台北 - 左營（高雄）） [参考1](http://gnn.gamer.com.tw/4/26424.html) [参考2](http://news.gamebase.com.tw/news/count.jsp?news_no=27326&category=ps2)
 
+## 脚注
+
 ## 外部リンク
 
   - [音楽館](http://www.ongakukan.co.jp/)
   - [レールファン音楽館](http://www.railfan.ne.jp/ongakukan/)
 
 [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:音楽館](https://ja.wikipedia.org/wiki/Category:音楽館 "wikilink") [Category:鉄道シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:鉄道シミュレーションゲーム "wikilink") [Category:実機シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:実機シミュレーションゲーム "wikilink")
+
+1.  [「トレイン・シミュレーター号」走る](https://web.archive.org/web/19990223210138/http://www.hanshin.co.jp/railfan/9018.htm) まにあっく・阪神 1998年8月（ウェブアーカイブ）

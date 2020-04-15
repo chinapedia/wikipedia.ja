@@ -1,4 +1,4 @@
-> この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
+> この記事は[三菱・i](https://ja.wikipedia.org/wiki/三菱・i)から翻訳されています。
 
 
 **i**（アイ）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が[2006年](../Page/2006年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")にかけて製造・販売していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")である。[2003年](../Page/2003年.md "wikilink")の[フランクフルトモーターショー](https://ja.wikipedia.org/wiki/フランクフルトモーターショー "wikilink")に出展した同社の[コンセプトカー](../Page/コンセプトカー.md "wikilink")が原型となっている。

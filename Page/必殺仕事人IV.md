@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[必殺仕事人IV](https://ja.wikipedia.org/wiki/必殺仕事人IV)から翻訳されています。
 
 
 『**必殺仕事人IV**』（ひっさつしごとにんフォー）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")まで、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で毎週金曜日22:00 - 22:54に放送された、[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）共同製作のテレビ[時代劇](../Page/時代劇.md "wikilink")。全43話。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。

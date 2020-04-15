@@ -1,4 +1,4 @@
-> この記事は[TS CUBIC](https://ja.wikipedia.org/wiki/TS_CUBIC)から翻訳されています。
+> この記事は[TS CUBICカード](https://ja.wikipedia.org/wiki/TS_CUBICカード)から翻訳されています。
 
 
 **TS CUBIC CARD**（ティーエス キュービックカード）は、[トヨタファイナンス](../Page/トヨタファイナンス.md "wikilink")が発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[SAE](https://ja.wikipedia.org/wiki/SAE)から翻訳されています。
+> この記事は[SAE規格](https://ja.wikipedia.org/wiki/SAE規格)から翻訳されています。
 
 
 **SAE規格**（SAEきかく）とは、米国の技術者団体である[SAE Internationalが定める](../Page/SAE_International.md "wikilink")[規格](../Page/工業規格.md "wikilink")。[鋼](../Page/鋼.md "wikilink")材、[潤滑油](../Page/潤滑油.md "wikilink")、[バッテリー](../Page/二次電池.md "wikilink")、[前照灯](../Page/前照灯.md "wikilink")などの規格がある。

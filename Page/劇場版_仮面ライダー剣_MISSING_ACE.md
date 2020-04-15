@@ -1,4 +1,4 @@
-> この記事は[  MISSING ACE](https://ja.wikipedia.org/wiki/__MISSING_ACE)から翻訳されています。
+> この記事は[劇場版 仮面ライダー剣 MISSING ACE](https://ja.wikipedia.org/wiki/劇場版_仮面ライダー剣_MISSING_ACE)から翻訳されています。
 
 
 『**劇場版 仮面ライダー剣 MISSING ACE**』（げきじょうばん かめんライダーブレイド ミッシングエース）は、[2004年](../Page/2004年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")テレビドラマ「[平成](../Page/平成.md "wikilink")[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")」『[仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")』の映画化作品である。同時上映は『[特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション](../Page/特捜戦隊デカレンジャー_THE_MOVIE_フルブラスト・アクション.md "wikilink")』。
@@ -442,7 +442,28 @@
   - [矢部敬三](https://ja.wikipedia.org/wiki/矢部敬三 "wikilink")
   - 山口喜生
   - [佐々木俊宜](../Page/佐々木俊宜.md "wikilink")
-  - アルビローチ - [おぐらとしひろ](../Page/おぐらとしひろ.md "wikilink")
+
+#### ノンクレジット
+
+  - アルビローチ - [小倉敏博](../Page/おぐらとしひろ.md "wikilink")
+  - [中川素州](../Page/中川素州.md "wikilink")
+  - 小倉敏史
+  - 中島俊介
+  - 坂手透浩
+  - 宮川康裕
+  - [大岩永徳](../Page/永徳_\(俳優\).md "wikilink")
+  - 山崎広嗣
+  - 高田瞳
+  - 金森規郎
+  - [竹内康博](../Page/竹内康博.md "wikilink")
+  - [佐藤賢一](../Page/佐藤賢一_\(俳優\).md "wikilink")
+  - [杉口秀樹](https://ja.wikipedia.org/wiki/杉口秀樹 "wikilink")
+  - 斉藤英長
+  - [藤榮史哉](../Page/藤榮史哉.md "wikilink")
+  - 宇田卓也
+  - [縄田雄哉](../Page/縄田雄哉.md "wikilink")
+  - 金子佳代
+  - [平木ひとみ](https://ja.wikipedia.org/wiki/平木ひとみ "wikilink")
 
 ## スタッフ
 

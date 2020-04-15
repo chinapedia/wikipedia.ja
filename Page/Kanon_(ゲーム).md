@@ -1,4 +1,4 @@
-> この記事は[Kanon \(\)](https://ja.wikipedia.org/wiki/Kanon_\(\))から翻訳されています。
+> この記事は[Kanon \(ゲーム\)](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\))から翻訳されています。
 
 
 『**Kanon**』（カノン）は、ゲームブランド・[Keyが](../Page/Key_\(ゲームブランド\).md "wikilink")1作目に制作した[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")、およびそれを[原作](../Page/原作.md "wikilink")として[メディアミックス](../Page/メディアミックス.md "wikilink")的展開がなされた[アニメ](../Page/アニメ.md "wikilink")や[コミックなどの作品群のことをいう](https://ja.wikipedia.org/wiki/漫画 "wikilink")。少年少女の恋愛劇にファンタジーなどを絡めたアドベンチャーゲームであり、シナリオが感動に特化した[泣きゲー](../Page/泣きゲー.md "wikilink")として支持を集めた。

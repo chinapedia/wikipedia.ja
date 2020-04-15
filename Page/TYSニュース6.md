@@ -1,4 +1,4 @@
-> この記事は[TYS6](https://ja.wikipedia.org/wiki/TYS6)から翻訳されています。
+> この記事は[TYSニュース6](https://ja.wikipedia.org/wiki/TYSニュース6)から翻訳されています。
 
 
 『**TYSニュース6**』（ティーワイエス ニュースシックス）は、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。1975年3月から10年半にわたって放送された『[TYS夕やけニュース（ショー）](../Page/TYS夕やけニュースショー.md "wikilink")』の後継番組として、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")にスタートし、[1992年](../Page/1992年.md "wikilink")秋まで続いた。

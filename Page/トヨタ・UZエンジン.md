@@ -1,4 +1,4 @@
-> この記事は[UZ](https://ja.wikipedia.org/wiki/UZ)から翻訳されています。
+> この記事は[トヨタ・UZエンジン](https://ja.wikipedia.org/wiki/トヨタ・UZエンジン)から翻訳されています。
 
 
 **UZエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[V型8気筒](../Page/V型8気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/トヨタ・エンジン系列名 "wikilink")。[バンク角](https://ja.wikipedia.org/wiki/バンク角 "wikilink")は、90度。[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")の製造にトヨタ独自の「吸引鋳造法」が初めて使われた\[1\]。

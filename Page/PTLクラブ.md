@@ -1,4 +1,4 @@
-> この記事は[PTL](https://ja.wikipedia.org/wiki/PTL)から翻訳されています。
+> この記事は[PTLクラブ](https://ja.wikipedia.org/wiki/PTLクラブ)から翻訳されています。
 
 
 **PTLクラブ・主をほめよ**（PTLクラブ・しゅをほめよ、The PTL Club別称 "People That Love", "Preachers Taking Loot"）[1976](../Page/1976年.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink"))の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にあったキリスト教テレビ番組。日本語版も存在した。

@@ -122,7 +122,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）</p></td>
+<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）★</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -194,7 +194,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
-<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>（FM OH!）★</p></td>
+<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a>（FM大阪）★</p></td>
 <td><p>[17]</p></td>
 <td></td>
 </tr>
@@ -224,13 +224,13 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）</p></td>
+<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）★</p></td>
 <td><p>[20]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">エフエム岡山</a>（FM OKAYAMA）</p></td>
+<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）★</p></td>
 <td><p>[21]</p></td>
 <td></td>
 </tr>
@@ -290,7 +290,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）</p></td>
+<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）★</p></td>
 <td><p>[27]</p></td>
 <td></td>
 </tr>
@@ -302,7 +302,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）</p></td>
+<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）★</p></td>
 <td><p>13:55 - 14:00</p></td>
 <td><p>[28][29]</p></td>
 </tr>

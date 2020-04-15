@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ドラゴンハーフRPG](https://ja.wikipedia.org/wiki/ドラゴンハーフRPG)から翻訳されています。
 
 
 **ドラゴンハーフRPG**は、[見田竜介](../Page/見田竜介.md "wikilink")著の[マンガ](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ドラゴンハーフ](../Page/ドラゴンハーフ.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）の世界を舞台とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。システムデザインは[グループSNE](../Page/グループSNE.md "wikilink")の[清松みゆき](../Page/清松みゆき.md "wikilink")で、1991年に[富士見書房](../Page/富士見書房.md "wikilink")から出版された（発売日は9月25日）。判型は文庫判。

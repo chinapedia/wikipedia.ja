@@ -1,4 +1,4 @@
-> この記事は[KAT-TUN3](https://ja.wikipedia.org/wiki/KAT-TUN3)から翻訳されています。
+> この記事は[KAT-TUN×3](https://ja.wikipedia.org/wiki/KAT-TUN×3)から翻訳されています。
 
 
 『**KAT-TUN<sup>3</sup>**』（カトゥーン カトゥーン カトゥーン）は、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")「[バリューナイトフィーバー](../Page/バリューナイトフィーバー.md "wikilink")」枠(現[サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink"))で2回にわたり放送された[ジャニーズグループ](../Page/ジャニーズ事務所.md "wikilink") [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の初[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")および[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

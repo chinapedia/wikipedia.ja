@@ -1,4 +1,4 @@
-> この記事は[ZENKAI ](https://ja.wikipedia.org/wiki/ZENKAI_)から翻訳されています。
+> この記事は[お昼はZENKAI ラヂオな時間](https://ja.wikipedia.org/wiki/お昼はZENKAI_ラヂオな時間)から翻訳されています。
 
 
 **お昼はZENKAI ラヂオな時間**（おひるはゼンカイ ラヂオなじかん）は[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")にスタートした[KRYラジオの昼のワイド番組](https://ja.wikipedia.org/wiki/山口放送 "wikilink")。
@@ -24,18 +24,171 @@
 
 ## 出演者
 
-### パーソナリティ
+### パーソナリティの変遷
 
-2009年3月まではパーソナリティは原則1人で担当していたが、同年4月以降は2人で担当するようになった。
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>月曜日</p></th>
+<th><p>火曜日</p></th>
+<th><p>水曜日</p></th>
+<th><p>木曜日</p></th>
+<th><p>金曜日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2003.04 - 2006.09</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/原田かおり_(アナウンサー)" title="wikilink">原田かおり</a></p></td>
+<td><p><a href="../Page/福谷貞夫.md" title="wikilink">福谷貞夫</a></p></td>
+<td><p>福谷貞夫</p></td>
+<td><p><a href="../Page/高橋裕_(アナウンサー).md" title="wikilink">高橋裕</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006.09 - 2007.03</p></td>
+<td><p>鈴木久美</p></td>
+<td><p>原田かおり</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007.04 - 2009.03</p></td>
+<td><p>原田かおり</p></td>
+<td><p>福谷貞夫</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009.04 - 2011.03</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋良" title="wikilink">高橋良</a><br />
+原田かおり</p></td>
+<td><p><a href="../Page/渡辺三千彦.md" title="wikilink">渡辺三千彦</a><br />
+原田かおり</p></td>
+<td><p>高橋良<br />
+<a href="https://ja.wikipedia.org/wiki/青木京子" title="wikilink">青木京子</a></p></td>
+<td><p><a href="../Page/竹重雅則.md" title="wikilink">竹重雅則</a><br />
+鈴木久美</p></td>
+<td><p>福谷貞夫<br />
+青木京子</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011.04 - 2011.07</p></td>
+<td><p>山根由紀夫<br />
+原田かおり</p></td>
+<td><p>山根由紀夫<br />
+原田かおり</p></td>
+<td><p>福屋利信<br />
+青木京子</p></td>
+<td><p>渡辺三千彦<br />
+鈴木久美</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011.08 - 2012.03</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本博子" title="wikilink">山本博子</a><br />
+鈴木久美</p></td>
+<td><p>渡辺三千彦<br />
+青木京子</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012.04 - 2014.03</p></td>
+<td><p>渡辺三千彦<br />
+鈴木久美</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014.04 - 2014.09</p></td>
+<td><p>高井信義<br />
+青木京子</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014.10 - 2015.03</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/成田弘毅" title="wikilink">成田弘毅</a><br />
+青木京子</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015.04 - 2016.09</p></td>
+<td><p>成田弘毅<br />
+<a href="../Page/竹島知江.md" title="wikilink">竹島知江</a></p></td>
+<td><p>渡辺三千彦<br />
+<a href="https://ja.wikipedia.org/wiki/河野康子" title="wikilink">河野康子</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016.10 - 2017.03</p></td>
+<td><p>山根由紀夫<br />
+<a href="https://ja.wikipedia.org/wiki/丹黒香奈子" title="wikilink">丹黒香奈子</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017.04 - 2017.10</p></td>
+<td><p>山根由紀夫<br />
+山本博子</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017.11 - 2020.02</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/力石舜久" title="wikilink">力石舜久</a><br />
+竹島知江</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020.03 -</p></td>
+<td><p>藤澤達弥<br />
+竹島知江</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - [山根由紀夫](https://ja.wikipedia.org/wiki/山根由紀夫 "wikilink")（月曜・火曜、2011年4月〜、以前は火曜）※金曜担当の渡辺アナとは、10年来、音楽番組を担当してきた地元タレント、[徳山大学](../Page/徳山大学.md "wikilink")客員教授。
-  - [原田かおり](https://ja.wikipedia.org/wiki/原田かおり_\(アナウンサー\) "wikilink")（火曜、番組開始〜、以前は月曜・火曜→月曜・火曜・金曜→月曜〜水曜→月曜・火曜）
-  - [青木京子](https://ja.wikipedia.org/wiki/青木京子 "wikilink")（金曜、2007年4月〜、2009年4月ごろ〜2015年3月までは水曜も担当していた。）
-  - [渡辺三千彦](../Page/渡辺三千彦.md "wikilink")（木曜・金曜、2009年4月〜、以前は火曜）
-  - [力石舜久](https://ja.wikipedia.org/wiki/力石舜久 "wikilink")（水曜、2017年11月〜）[1](https://twitter.com/kryradio/status/923089220259815424)
-  - [竹島知江](../Page/竹島知江.md "wikilink")（水曜、2015年4月〜）
-  - [河野康子](https://ja.wikipedia.org/wiki/河野康子 "wikilink")（木曜、2015年4月〜）
   - [山本博子](https://ja.wikipedia.org/wiki/山本博子 "wikilink")（月曜、2017年4月〜。以前は2011年8月〜2012年3月に木曜を担当）
+  - [原田かおり](https://ja.wikipedia.org/wiki/原田かおり_\(アナウンサー\) "wikilink")（火曜、番組開始〜、以前は月曜・火曜→月曜・火曜・金曜→月曜〜水曜→月曜・火曜）
+  - [藤澤達弥](https://ja.wikipedia.org/wiki/藤澤達弥 "wikilink")（水曜、2020年3月〜）
+  - [竹島知江](../Page/竹島知江.md "wikilink")（水曜、2015年4月〜）
+  - [渡辺三千彦](../Page/渡辺三千彦.md "wikilink")（木曜・金曜、2009年4月〜、以前は火曜）
+  - [河野康子](https://ja.wikipedia.org/wiki/河野康子 "wikilink")（木曜、2015年4月〜）
+  - [青木京子](https://ja.wikipedia.org/wiki/青木京子 "wikilink")（金曜、2007年4月〜、2009年4月ごろ〜2015年3月までは水曜も担当していた。）
 
 公式サイトでは一部のコンビに愛称をつけている。
 旧月曜の山根＆丹黑は「ごくさん＆かぐせん」、月曜の山根＆山本は「やまやま」、火曜の原田＆山根は「かおり＆かぐせん」、金曜の渡辺＆青木は「ひるきん」としている。
@@ -60,6 +213,7 @@
       - センクンバ・ジャコブ（水曜、2013年4月〜2014年3月まで1年間）
   - [丹黒香奈子](https://ja.wikipedia.org/wiki/丹黒香奈子 "wikilink")（月曜、2016年10月〜2017年3月）卒業後[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")8代目女性キャスターへ
   - [成田弘毅](https://ja.wikipedia.org/wiki/成田弘毅 "wikilink")（水曜、2014年10月〜2017年10月）卒業後KRYさわやかモーニング6代目男性キャスターへ
+  - [力石舜久](https://ja.wikipedia.org/wiki/力石舜久 "wikilink")（水曜、2017年11月〜2020年2月）
 
 ## 番組内容
 
@@ -94,7 +248,6 @@
   - 14:30 ラジオショッピング（月〜木）
   - 14:50 [全日本トラック協会presents ドライバーズ・リクエスト](../Page/ドライバーズ・リクエスト.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")製作）
   - 15:00 マルキュウ・アルクこだわり情報
-  - 15:30 アーサー・ビナード 午後の三枚おろし（[文化放送](../Page/文化放送.md "wikilink")制作）
   - 15:45 並べて〜よござんす
   - 15:55 エンディング
 

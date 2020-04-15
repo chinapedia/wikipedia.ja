@@ -285,7 +285,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="../Page/コールドプレイ.md" title="wikilink">コールドプレイ</a> — "Speed of Sound"</li>
 <li><a href="../Page/スヌープ・ドッグ.md" title="wikilink">スヌープ・ドッグ</a> (featuring <a href="../Page/ファレル・ウィリアムス.md" title="wikilink">ファレル</a>) — "Drop It Like It's Hot"</li>
 <li><a href="../Page/グウェン・ステファニー.md" title="wikilink">グウェン・ステファニー</a> — "Hollaback Girl"</li>
-<li><a href="https://ja.wikipedia.org/wiki/カニエ・ウェスト" title="wikilink">カニエ・ウェスト</a> — "Jesus Walks"</small></li>
+<li><a href="../Page/カニエ・ウェスト.md" title="wikilink">カニエ・ウェスト</a> — "Jesus Walks"</small></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -308,7 +308,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="../Page/ビヨンセ.md" title="wikilink">ビヨンセ</a> — "Irreplaceable"</li>
 <li><a href="https://ja.wikipedia.org/wiki/ジャスティス_(バンド)" title="wikilink">ジャスティス</a> — "D.A.N.C.E."</li>
 <li><a href="../Page/ジャスティン・ティンバーレイク.md" title="wikilink">ジャスティン・ティンバーレイク</a> — "What Goes Around.../...Comes Around"</li>
-<li><a href="https://ja.wikipedia.org/wiki/カニエ・ウェスト" title="wikilink">カニエ・ウェスト</a> — "Stronger"</li>
+<li><a href="../Page/カニエ・ウェスト.md" title="wikilink">カニエ・ウェスト</a> — "Stronger"</li>
 <li><a href="../Page/エイミー・ワインハウス.md" title="wikilink">エイミー・ワインハウス</a> — "Rehab"</small></li>
 </ul></td>
 </tr>
@@ -331,7 +331,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="https://ja.wikipedia.org/wiki/エミネム" title="wikilink">エミネム</a> — "We Made You"</li>
 <li><a href="https://ja.wikipedia.org/wiki/レディー・ガガ" title="wikilink">レディー・ガガ</a> — "<a href="https://ja.wikipedia.org/wiki/ポーカー・フェイス_(レディー・ガガの曲)" title="wikilink">Poker Face</a>"</li>
 <li><a href="../Page/ブリトニー・スピアーズ.md" title="wikilink">ブリトニー・スピアーズ</a> — "Womanizer"</li>
-<li><a href="https://ja.wikipedia.org/wiki/カニエ・ウェスト" title="wikilink">カニエ・ウェスト</a> — "Love Lockdown"</small></li>
+<li><a href="../Page/カニエ・ウェスト.md" title="wikilink">カニエ・ウェスト</a> — "Love Lockdown"</small></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -359,10 +359,10 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
-<td><p><a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>(featuring <a href="https://ja.wikipedia.org/wiki/カルヴィン・ハリス" title="wikilink">カルヴィン・ハリス</a>) — <a href="https://ja.wikipedia.org/wiki/ウィ・ファウンド・ラヴ" title="wikilink">ウィ・ファウンド・ラヴ</a></p></td>
+<td><p><a href="../Page/リアーナ.md" title="wikilink">リアーナ</a> (featuring <a href="https://ja.wikipedia.org/wiki/カルヴィン・ハリス" title="wikilink">カルヴィン・ハリス</a>) — <a href="https://ja.wikipedia.org/wiki/ウィ・ファウンド・ラヴ" title="wikilink">ウィ・ファウンド・ラヴ</a></p></td>
 <td><p><small></p>
 <ul>
-<li><a href="../Page/ドレイク.md" title="wikilink">ドレイク</a>(featuring <a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Take_Care_(song)" title="wikilink">Take Care</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ドレイク_(ラッパー)" title="wikilink">ドレイク</a> (featuring <a href="../Page/リアーナ.md" title="wikilink">リアーナ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Take_Care_(song)" title="wikilink">Take Care</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゴティエ" title="wikilink">ゴティエ</a>(featuring <a href="https://ja.wikipedia.org/wiki/キンブラ" title="wikilink">キンブラ</a>) — <a href="https://ja.wikipedia.org/wiki/:en:Somebody_That_I_Used_to_Know_(song)" title="wikilink">Somebody That I Used to Know</a></li>
 <li><a href="../Page/ケイティ・ペリー.md" title="wikilink">ケイティ・ペリー</a> — <a href="https://ja.wikipedia.org/wiki/:en:Wide_Awake_(Katy_Perry_song)" title="wikilink">Wide Awake</a></li>
 <li><a href="../Page/M.I.A._(歌手).md" title="wikilink">M.I.A. (歌手)</a> — <a href="https://ja.wikipedia.org/wiki/:en:Bad_Girls_(M.I.A._song)" title="wikilink">Bad Girls</a> </small></li>
@@ -374,8 +374,8 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <td><p><small></p>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">ブルーノ・マーズ</a> - <a href="https://ja.wikipedia.org/wiki/:en:Locked_Out_of_Heaven" title="wikilink">Locked Out of Heaven</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/マックルモアー" title="wikilink">マックルモアー</a>&amp;<a href="https://ja.wikipedia.org/wiki/ライアン・ルイス" title="wikilink">ライアン・ルイス</a>(featuring <a href="https://ja.wikipedia.org/wiki/:en:Wanz" title="wikilink">Wanz</a>) - <a href="https://ja.wikipedia.org/wiki/:en:Thrift_Shop" title="wikilink">Thrift Shop</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ロビン・シック" title="wikilink">ロビン・シック</a>(featuring <a href="../Page/T.I..md" title="wikilink">T.I.</a> and <a href="../Page/ファレル・ウィリアムス.md" title="wikilink">ファレル・ウィリアムス</a>) - <a href="https://ja.wikipedia.org/wiki/ブラード・ラインズ_(曲)" title="wikilink">Blurred Lines</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/マックルモアー" title="wikilink">マックルモアー</a>&amp;<a href="https://ja.wikipedia.org/wiki/ライアン・ルイス" title="wikilink">ライアン・ルイス</a> (featuring <a href="https://ja.wikipedia.org/wiki/:en:Wanz" title="wikilink">Wanz</a>) - <a href="https://ja.wikipedia.org/wiki/:en:Thrift_Shop" title="wikilink">Thrift Shop</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ロビン・シック" title="wikilink">ロビン・シック</a> (featuring <a href="../Page/T.I..md" title="wikilink">T.I.</a> and <a href="../Page/ファレル・ウィリアムス.md" title="wikilink">ファレル・ウィリアムス</a>) - <a href="https://ja.wikipedia.org/wiki/ブラード・ラインズ_(曲)" title="wikilink">Blurred Lines</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/テイラー・スウィフト" title="wikilink">テイラー・スウィフト</a> - <a href="https://ja.wikipedia.org/wiki/:en:I_Knew_You_Were_Trouble" title="wikilink">I Knew You Were Trouble</a> </small></li>
 </ul></td>
 </tr>
@@ -384,10 +384,67 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <td><p><a href="../Page/マイリー・サイラス.md" title="wikilink">マイリー・サイラス</a> - <a href="https://ja.wikipedia.org/wiki/:en:Wrecking_Ball_(Miley_Cyrus_song)" title="wikilink">Wrecking Ball</a></p></td>
 <td><p><small></p>
 <ul>
-<li><a href="../Page/ビヨンセ.md" title="wikilink">ビヨンセ</a>(featuring <a href="../Page/ジェイ・Z.md" title="wikilink">ジェイ・Z</a>) - <a href="https://ja.wikipedia.org/wiki/:en:Drunk_in_Love" title="wikilink">Drunk in Love</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/イギー・アゼリア" title="wikilink">イギー・アゼリア</a>(featuring <a href="https://ja.wikipedia.org/wiki/チャーリーXCX" title="wikilink">チャーリーXCX</a>) - <a href="https://ja.wikipedia.org/wiki/ファンシー_(イギー・アゼリアの曲)" title="wikilink">Fancy</a></li>
+<li><a href="../Page/ビヨンセ.md" title="wikilink">ビヨンセ</a> (featuring <a href="../Page/ジェイ・Z.md" title="wikilink">ジェイ・Z</a>) - <a href="https://ja.wikipedia.org/wiki/:en:Drunk_in_Love" title="wikilink">Drunk in Love</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/イギー・アゼリア" title="wikilink">イギー・アゼリア</a> (featuring <a href="https://ja.wikipedia.org/wiki/チャーリーXCX" title="wikilink">チャーリーXCX</a>) - <a href="https://ja.wikipedia.org/wiki/ファンシー_(イギー・アゼリアの曲)" title="wikilink">Fancy</a></li>
 <li><a href="../Page/ファレル・ウィリアムス.md" title="wikilink">ファレル・ウィリアムス</a> - <a href="https://ja.wikipedia.org/wiki/Happy_(ファレル・ウィリアムスの曲)" title="wikilink">Happy</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/シーア" title="wikilink">シーア</a> - <a href="https://ja.wikipedia.org/wiki/シャンデリア_(シーアの曲)" title="wikilink">Chandelier</a> </small></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テイラー・スウィフト" title="wikilink">テイラー・スウィフト</a> (featuring <a href="https://ja.wikipedia.org/wiki/ケンドリック・ラマー" title="wikilink">ケンドリック・ラマー</a>) - <a href="https://ja.wikipedia.org/wiki/バッド・ブラッド_(テイラー・スウィフトの曲)" title="wikilink">バッド・ブラッド</a></p></td>
+<td><p><small></p>
+<ul>
+<li><a href="../Page/ビヨンセ.md" title="wikilink">ビヨンセ</a> - 7/11</li>
+<li><a href="https://ja.wikipedia.org/wiki/ケンドリック・ラマー" title="wikilink">ケンドリック・ラマー</a> - オールライト</li>
+<li><a href="https://ja.wikipedia.org/wiki/エド・シーラン" title="wikilink">エド・シーラン</a> - <a href="https://ja.wikipedia.org/wiki/シンキング・アウト・ラウド" title="wikilink">シンキング・アウト・ラウド</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/マーク・ロンソン" title="wikilink">マーク・ロンソン</a> (featuring <a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">ブルーノ・マーズ</a>) - <a href="https://ja.wikipedia.org/wiki/アップタウン・ファンク" title="wikilink">アップタウン・ファンク</a></small></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
+<td><p><a href="../Page/ビヨンセ.md" title="wikilink">ビヨンセ</a> - </p></td>
+<td><p><small></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/アデル" title="wikilink">アデル</a> - <a href="https://ja.wikipedia.org/wiki/ハロー_(アデルの曲)" title="wikilink">ハロー</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ドレイク_(ラッパー)" title="wikilink">ドレイク</a> - ホットライン・ブリング</li>
+<li><a href="https://ja.wikipedia.org/wiki/カニエ・ウエスト" title="wikilink">カニエ・ウエスト</a> - フェイマス</li>
+<li><a href="https://ja.wikipedia.org/wiki/ジャスティン・ビーバー" title="wikilink">ジャスティン・ビーバー</a> - ソーリー </small></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケンドリック・ラマー" title="wikilink">ケンドリック・ラマー</a> - </p></td>
+<td><p><small></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">ブルーノ・マーズ</a> - 24K・マジック</li>
+<li><a href="https://ja.wikipedia.org/wiki/ザ・ウィークエンド" title="wikilink">ザ・ウィークエンド</a> - リマインダー</li>
+<li><a href="https://ja.wikipedia.org/wiki/アレッシア・カーラ" title="wikilink">アレッシア・カーラ</a> - スカーズ・トゥ・ユア・ビューティフル</li>
+<li><a href="https://ja.wikipedia.org/wiki/DJキャレド" title="wikilink">DJキャレド</a> (featuring <a href="../Page/リアーナ.md" title="wikilink">リアーナ</a> and <a href="https://ja.wikipedia.org/wiki/ブライソン・ティラー" title="wikilink">ブライソン・ティラー</a>) - ワイルド・ソーツ</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カミラ・カベロ" title="wikilink">カミラ・カベロ</a> (featuring <a href="https://ja.wikipedia.org/wiki/ヤング・サグ" title="wikilink">ヤング・サグ</a>) - </p></td>
+<td><p><small></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ザ・カーターズ" title="wikilink">ザ・カーターズ</a> - エイプシット</li>
+<li><a href="https://ja.wikipedia.org/wiki/ドナルド・グローヴァー" title="wikilink">ドナルド・グローヴァー</a> - <a href="https://ja.wikipedia.org/wiki/ディス・イズ・アメリカ" title="wikilink">ディス・イズ・アメリカ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ドレイク_(ラッパー)" title="wikilink">ドレイク</a> - ゴッズ・プラン</li>
+<li><a href="https://ja.wikipedia.org/wiki/アリアナ・グランデ" title="wikilink">アリアナ・グランデ</a> - ノー・ティアーズ・レフト・トゥ・クライ</li>
+<li><a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">ブルーノ・マーズ</a> (featuring <a href="https://ja.wikipedia.org/wiki/カーディ・B" title="wikilink">カーディ・B</a>) - フィネス (Remix) </small></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テイラー・スウィフト" title="wikilink">テイラー・スウィフト</a> - </p></td>
+<td><p><small></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/21サヴェージ" title="wikilink">21サヴェージ</a> (featuring <a href="https://ja.wikipedia.org/wiki/J・コール" title="wikilink">J・コール</a>) - ア・ロット</li>
+<li><a href="https://ja.wikipedia.org/wiki/ビリー・アイリッシュ" title="wikilink">ビリー・アイリッシュ</a> - <a href="https://ja.wikipedia.org/wiki/bad_guy" title="wikilink">バッド・ガイ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/アリアナ・グランデ" title="wikilink">アリアナ・グランデ</a> - サンキュー・ネクスト</li>
+<li><a href="../Page/ジョナス・ブラザーズ.md" title="wikilink">ジョナス・ブラザーズ</a> - サッカー</li>
+<li><a href="https://ja.wikipedia.org/wiki/リル・ナズ・X" title="wikilink">リル・ナズ・X</a> (featuring <a href="https://ja.wikipedia.org/wiki/ビリー・レイ・サイラス" title="wikilink">ビリー・レイ・サイラス</a>) - オールド・タウン・ロード (Remix) </small></li>
 </ul></td>
 </tr>
 </tbody>

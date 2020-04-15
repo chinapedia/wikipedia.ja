@@ -1,4 +1,4 @@
-> この記事は[Touch \(NEWS\)](https://ja.wikipedia.org/wiki/Touch_\(NEWS\))から翻訳されています。
+> この記事は[Touch \(NEWSのアルバム\)](https://ja.wikipedia.org/wiki/Touch_\(NEWSのアルバム\))から翻訳されています。
 
 
 『**touch**』（タッチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSのファースト](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[アルバム](../Page/アルバム.md "wikilink")である。

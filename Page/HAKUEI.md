@@ -285,7 +285,7 @@ CROWN BOOKS</p></td>
 
 ## 外部リンク
 
-  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](http://ameblo.jp/hakuei-blog/)（2009年4月23日〜、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
+  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](https://ameblo.jp/hakuei-blog/)（2009年4月23日〜、[アメーバブログ](../Page/アメーバブログ.md "wikilink")）
 
   -
   - [machine Official Website](http://www.machineproject.jp/)

@@ -1,4 +1,4 @@
-> この記事は[STN](https://ja.wikipedia.org/wiki/STN)から翻訳されています。
+> この記事は[STN液晶](https://ja.wikipedia.org/wiki/STN液晶)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ThinkPad_530CS.jpg "wikilink") **STN液晶**（ - えきしょう、）は[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")の表示方式の一つで、単純マトリクス方式を用いたものである。STN自体は液晶のモードの一つであるが、一般には表示方式と理解されている。

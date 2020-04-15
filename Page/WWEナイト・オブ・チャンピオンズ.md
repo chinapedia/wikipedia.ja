@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWEナイト・オブ・チャンピオンズ](https://ja.wikipedia.org/wiki/WWEナイト・オブ・チャンピオンズ)から翻訳されています。
 
 
 **ナイト・オブ・チャンピオンズ**(*Night of Champions*)は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のプロレス団体[WWE](../Page/WWE.md "wikilink")の主催するプロレス興行及びそれを扱った[PPV](../Page/ペイ・パー・ビュー.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ヴェンジェンスに替わって開催され](https://ja.wikipedia.org/wiki/WWEヴェンジェンス "wikilink")、現在に至っている。このPPVでは全ての王座戦が行われる。

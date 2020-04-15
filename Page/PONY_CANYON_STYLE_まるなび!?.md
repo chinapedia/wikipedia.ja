@@ -1,4 +1,4 @@
-> この記事は[PONY CANYON STYLE !\?](https://ja.wikipedia.org/wiki/PONY_CANYON_STYLE_!\?)から翻訳されています。
+> この記事は[PONY CANYON STYLE まるなび!\?](https://ja.wikipedia.org/wiki/PONY_CANYON_STYLE_まるなび!\?)から翻訳されています。
 
 
 *'PONY CANYON STYLE まるなび\!? **は、[2004年](../Page/2004年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")（同月22日公録の第157回放送）まで[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。[PONY CANYONが制作](../Page/ポニーキャニオン.md "wikilink")・販売に関わっている[アニメ](../Page/アニメ.md "wikilink")作品を**まる**ごと**ナビ*'ゲーションする。パーソナリティは[声優](../Page/声優.md "wikilink")の[川澄綾子](../Page/川澄綾子.md "wikilink")と[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")。 文化放送と平行して[BSQR489](../Page/BSQR489.md "wikilink")にて映像つきで放送を行っていたが、[2006年](../Page/2006年.md "wikilink")3月の閉局により終了となっている。
@@ -8,7 +8,7 @@
   - 文化放送 火曜日 25:00 - 25:30
   - [超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")（[DRP東京](../Page/デジタルラジオ推進協会.md "wikilink")9302ch） 金曜日 17:00 - 17:30、土曜日 7:00 - 7:30 （2007年9月）、土曜日 18:00 - 19:00（2007年10月）
   - [UNIQue the RADIO](../Page/UNIQue_the_RADIO.md "wikilink")（[DRP東京](../Page/デジタルラジオ推進協会.md "wikilink")9301ch） 金曜日 17:00 - 17:30、月曜日 10:00 - 10:30 （2007年4月 - 2007年8月）
-  - BSQR489 金曜日 （2004年10月 - 2006年3月）
+  - BSQR489 金曜日 21：30 - 22：00 （2004年10月 - 2006年3月）
 
 ## 概要
 

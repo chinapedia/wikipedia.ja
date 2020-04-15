@@ -1,4 +1,4 @@
-> この記事は[LF+RNIGHT!](https://ja.wikipedia.org/wiki/LF+RNIGHT!)から翻訳されています。
+> この記事は[LF+RフライングNIGHT!](https://ja.wikipedia.org/wiki/LF+RフライングNIGHT!)から翻訳されています。
 
 
 **LF+RフライングNIGHT\!**（エルエフアール フライングナイト）とは[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで2年半にわたり[ニッポン放送](../Page/ニッポン放送.md "wikilink")[LF+R](../Page/LF+R.md "wikilink")枠で毎週月曜～木曜の24:00～25:00まで放送されていた[生放送](../Page/生放送.md "wikilink")の[深夜放送](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。MCは[荘口彰久](../Page/荘口彰久.md "wikilink")（[2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")からは木曜は[LF+R RECORD SPECIALとして](../Page/オールナイトニッポンレコード.md "wikilink")[吉田尚記](../Page/吉田尚記.md "wikilink")）。終了後の同枠は「[グローバー義和のウラナイ\!](https://ja.wikipedia.org/wiki/グローバーのウラナイ! "wikilink")（当時）」に引き継がれている。

@@ -1,4 +1,4 @@
-> この記事は[TYS](https://ja.wikipedia.org/wiki/TYS)から翻訳されています。
+> この記事は[TYS夕やけニュースショー](https://ja.wikipedia.org/wiki/TYS夕やけニュースショー)から翻訳されています。
 
 
 『**TYS夕やけニュースショー**』（ティーワイエス ゆうやけニュースショー）は、[テレビ山口](../Page/テレビ山口.md "wikilink")が月曜から金曜の18:00から18:30に放送していた[山口県](../Page/山口県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

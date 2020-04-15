@@ -1,4 +1,4 @@
-> この記事は[White Princess OK!!](https://ja.wikipedia.org/wiki/White_Princess_OK!!)から翻訳されています。
+> この記事は[White Princess 〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー!!〜](https://ja.wikipedia.org/wiki/White_Princess_〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー!!〜)から翻訳されています。
 
 
 『**White Princess 〜一途にイっても浮気してもOKなご都合主義学園恋愛アドベンチャー\!\!〜**』（ホワイトプリンセス いちずにイってもうわきしてもオーケーなごつごうしゅぎがくえんれんあいアドベンチャー）は[2003年](../Page/2003年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[feng](https://ja.wikipedia.org/wiki/feng "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。略称は「**ホワプリ**」。

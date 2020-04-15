@@ -1,4 +1,4 @@
-> この記事は[MKSA](https://ja.wikipedia.org/wiki/MKSA)から翻訳されています。
+> この記事は[MKSA単位系](https://ja.wikipedia.org/wiki/MKSA単位系)から翻訳されています。
 
 
 **MKSA単位系**（エムケーエスエーたんいけい、）は、[メートル](../Page/メートル.md "wikilink") (metre = M)・[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink") (kilogram = K)・[秒](../Page/秒.md "wikilink") (second = S)・[アンペア](../Page/アンペア.md "wikilink") (ampere = A) の4つの単位を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。

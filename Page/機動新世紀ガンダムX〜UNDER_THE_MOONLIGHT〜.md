@@ -1,4 +1,4 @@
-> この記事は[XUNDER THE MOONLIGHT](https://ja.wikipedia.org/wiki/XUNDER_THE_MOONLIGHT)から翻訳されています。
+> この記事は[機動新世紀ガンダムX〜UNDER THE MOONLIGHT〜](https://ja.wikipedia.org/wiki/機動新世紀ガンダムX〜UNDER_THE_MOONLIGHT〜)から翻訳されています。
 
 
 『**機動新世紀ガンダムX〜UNDER THE MOONLIGHT〜**』（きどうしんせいきガンダムエックス アンダー ザ ムーンライト）は、[角川書店](../Page/角川書店.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『月刊[ガンダムエース](../Page/ガンダムエース.md "wikilink")』で掲載された脚本・[大島千歳](https://ja.wikipedia.org/wiki/大島千歳 "wikilink")、原画・[赤津豊](https://ja.wikipedia.org/wiki/赤津豊 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[アニメ](../Page/アニメ.md "wikilink")『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』を題材にした外伝作品である。

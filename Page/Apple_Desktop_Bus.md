@@ -5,7 +5,7 @@
 
 ## 概要
 
-[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")・[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・筆圧タブレットなど[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")を接続する。Macintosh及びその互換機のほか、[Apple II](../Page/Apple_II.md "wikilink") GS、[ピピンアットマーク](../Page/ピピンアットマーク.md "wikilink")、[NeXT](../Page/NeXT.md "wikilink")のハードウェアなどにも採用されていた。端子の形状は[S端子](../Page/S端子.md "wikilink")とほぼ同様の[mini DIN 4pinである](https://ja.wikipedia.org/wiki/ミニDINコネクタ "wikilink")。しかし日本ではADBケーブルをS端子ケーブルで、あるいはS端子ケーブルをADBケーブルで代用することは避けたほうがよい。日本のS端子ケーブルとADBケーブルの端子は出っ張りが異なるためである。（詳しくは[S端子\#S端子形状](https://ja.wikipedia.org/wiki/S端子#S端子形状 "wikilink")の項を参照。ADBコネクタは海外のS端子コネクタと同形状）
+[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")・[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")・筆圧タブレットなど[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")を接続する。Macintosh及びその互換機のほか、[Apple II](../Page/Apple_II.md "wikilink") GS、[ピピンアットマーク](../Page/ピピンアットマーク.md "wikilink")、[NeXT](../Page/NeXT.md "wikilink")のハードウェアなどにも採用されていた。端子の形状は[S端子](../Page/S端子.md "wikilink")とほぼ同様の[mini DIN 4pinである](https://ja.wikipedia.org/wiki/ミニDINコネクタ "wikilink")（ピピンアットマークは[P-ADB](https://retrostuff.org/2019/11/24/pippin-atmark-adb-adapter-dongles/)という独自形状）。しかし日本ではADBケーブルをS端子ケーブルで、あるいはS端子ケーブルをADBケーブルで代用することは避けたほうがよい。日本のS端子ケーブルとADBケーブルの端子は出っ張りが異なるためである。（詳しくは[S端子\#S端子形状](https://ja.wikipedia.org/wiki/S端子#S端子形状 "wikilink")の項を参照。ADBコネクタは海外のS端子コネクタと同形状）
 
 バスパワーで電力を供給できる、世界初の汎用シリアル・バス接続システムで、ひとつのバスから周辺機器を3台まで数珠繋ぎに接続でき、一部のモデルを除きキーボードの電源ボタンでシステムの電源を入れることが可能である。
 

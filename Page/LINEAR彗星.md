@@ -1,4 +1,4 @@
-> この記事は[LINEAR](https://ja.wikipedia.org/wiki/LINEAR)から翻訳されています。
+> この記事は[LINEAR彗星](https://ja.wikipedia.org/wiki/LINEAR彗星)から翻訳されています。
 
 
 **LINEAR彗星**（リニア彗星、リニアすいせい）は、[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")と[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink") (NASA) が[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink") (MIT) に設立した[リンカーン研究所](https://ja.wikipedia.org/wiki/リンカーン研究所 "wikilink")による[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、[リンカーン地球近傍小惑星探査](../Page/リンカーン地球近傍小惑星探査.md "wikilink") (LINEAR) で発見された[彗星](../Page/彗星.md "wikilink")。約145個（2006年8月現在、連名を除く）あるが、次のものが代表的である。

@@ -1,4 +1,4 @@
-> この記事は[NEAT](https://ja.wikipedia.org/wiki/NEAT)から翻訳されています。
+> この記事は[NEAT彗星](https://ja.wikipedia.org/wiki/NEAT彗星)から翻訳されています。
 
 
 **NEAT彗星**（ニート彗星、ニートすいせい）は、[NASAが](../Page/アメリカ航空宇宙局.md "wikilink")[パロマー天文台](../Page/パロマー天文台.md "wikilink")でおこなっている[地球近傍小惑星](../Page/地球近傍小惑星.md "wikilink")サーベイ、Near-Earth Asteroid Tracking ([NEAT](https://ja.wikipedia.org/wiki/地球近傍小惑星追跡 "wikilink")）で発見された[彗星](../Page/彗星.md "wikilink")である。約40個（2006年8月現在、連名を除く）あるが、次のものが代表的である。

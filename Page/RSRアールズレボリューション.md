@@ -1,4 +1,4 @@
-> この記事は[RSR](https://ja.wikipedia.org/wiki/RSR)から翻訳されています。
+> この記事は[RSRアールズレボリューション](https://ja.wikipedia.org/wiki/RSRアールズレボリューション)から翻訳されています。
 
 
 『**RSRアールズレボリューション**』は、[えぬえけい](../Page/えぬえけい.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画](../Page/少女漫画.md "wikilink")作品。『[なかよし](../Page/なかよし.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月号から11月号まで連載。全6話。単行本は全1巻。

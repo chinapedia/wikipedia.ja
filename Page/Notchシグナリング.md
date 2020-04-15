@@ -1,4 +1,4 @@
-> この記事は[Notch](https://ja.wikipedia.org/wiki/Notch)から翻訳されています。
+> この記事は[Notchシグナリング](https://ja.wikipedia.org/wiki/Notchシグナリング)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:NOTCH-1_ligand_binding_region.png "wikilink")**Notch経路**（ノッチけいろ；Notch pathway）は[神経](https://ja.wikipedia.org/wiki/神経 "wikilink")、[造血](https://ja.wikipedia.org/wiki/造血 "wikilink")、[血管](../Page/血管.md "wikilink")、[体節](https://ja.wikipedia.org/wiki/体節 "wikilink")などの様々な[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")過程に関係する、[ヒト](../Page/ヒト.md "wikilink")を含め[脊椎動物](../Page/脊椎動物.md "wikilink")から[節足動物](https://ja.wikipedia.org/wiki/節足動物 "wikilink")まで多くの[後生動物](../Page/後生動物.md "wikilink")でよく保存された[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")調節（[シグナル伝達](../Page/シグナル伝達.md "wikilink")）経路である。 Notch[カスケード](../Page/カスケード.md "wikilink")はNotchとNotch受容体、それと[核へNotchシグナルを伝える細胞内](https://ja.wikipedia.org/wiki/細胞核 "wikilink")[タンパク質](../Page/タンパク質.md "wikilink")から成る。 Notch/Lin-12/Glp-1受容体ファミリーは[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")と[C.elegans](https://ja.wikipedia.org/wiki/C.elegans "wikilink")の発生で細胞運命の特異化に関連している事が判明した。

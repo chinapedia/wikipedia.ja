@@ -1,4 +1,4 @@
-> この記事は[NOTHING ](https://ja.wikipedia.org/wiki/NOTHING_)から翻訳されています。
+> この記事は[NOTHING ナッシング](https://ja.wikipedia.org/wiki/NOTHING_ナッシング)から翻訳されています。
 
 
 『**NOTHING ナッシング**』（*Nothing*）は、[2003年製作の](../Page/2003年の映画.md "wikilink")[カナダ映画](../Page/カナダの映画.md "wikilink")。[ヴィンチェンゾ・ナタリ](../Page/ヴィンチェンゾ・ナタリ.md "wikilink")監督。

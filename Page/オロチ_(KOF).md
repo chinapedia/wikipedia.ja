@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[オロチ \(KOF\)](https://ja.wikipedia.org/wiki/オロチ_\(KOF\))から翻訳されています。
 
 
 **オロチ**は、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の対戦型格闘ゲーム『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空のキャラクター。

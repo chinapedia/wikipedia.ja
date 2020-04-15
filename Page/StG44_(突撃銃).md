@@ -1,4 +1,4 @@
-> この記事は[StG44 \(\)](https://ja.wikipedia.org/wiki/StG44_\(\))から翻訳されています。
+> この記事は[StG44 \(突撃銃\)](https://ja.wikipedia.org/wiki/StG44_\(突撃銃\))から翻訳されています。
 
 
 [Mémorial_du_Souvenir_20.JPG](https://ja.wikipedia.org/wiki/File:Mémorial_du_Souvenir_20.JPG "fig:Mémorial_du_Souvenir_20.JPG")\]\] **StG44**（ シュトゥルムゲヴェーア・フィーアウントフィアツィヒ）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")により量産された軽量[自動小銃](../Page/自動小銃.md "wikilink")である。現代的な[アサルトライフル](../Page/アサルトライフル.md "wikilink")の原形とみなされている。製造時期により**MP43**、**MP44**の名称が存在する。
@@ -95,7 +95,7 @@ krummer Lauf（クルマー ラウフ）または Krummlauf（クルムラウフ
 
 ## レプリカ
 
-[Gsg_44_gsg.jpg](https://ja.wikipedia.org/wiki/File:Gsg_44_gsg.jpg "fig:Gsg_44_gsg.jpg") [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のSport-Systeme Dittrich社（SSD）では、MKb42(H)とMP43、StG44のレプリカを、それぞれBD42(H)、BD43/1、BD44の名称で販売している\[22\]。また、同社は[2009年](../Page/2009年.md "wikilink")ので[MP40](../Page/MP40.md "wikilink")風の折りたたみ[ストックを装備したMP](../Page/銃床.md "wikilink")44や、[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")を装備した現代風MP44を公開した\[23\]。
+[Gsg_44_gsg.jpg](https://ja.wikipedia.org/wiki/File:Gsg_44_gsg.jpg "fig:Gsg_44_gsg.jpg") [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のSport-Systeme Dittrich社（SSD）では、MKb42(H)とMP43、StG44のレプリカを、それぞれBD42(H)、BD43/1、BD44の名称で販売している\[22\]。また、同社は[2009年](../Page/2009年.md "wikilink")の[IWA ガンショーで](../Page/IWA_アウトドアクラシックス.md "wikilink")[MP40](../Page/MP40.md "wikilink")風の折りたたみ[ストックを装備したMP](../Page/銃床.md "wikilink")44や、[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")を装備した現代風MP44を公開した\[23\]。
 
 2012年、ドイツの[ジャーマン・スポーツ・ガンズ](https://ja.wikipedia.org/wiki/ジャーマン・スポーツ・ガンズ "wikilink")社（German Sport Guns, GSG）は、StG44のレプリカを**GSG-StG44**の製品名で発売した\[24\]。GSG-StG44は小口径の[.22ロングライフル弾](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")を使用する半自動小銃である\[25\]。
 

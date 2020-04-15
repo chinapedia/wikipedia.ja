@@ -37,7 +37,7 @@
     2.  レスキュー('BLUESBREAKER MIX' featuring SHIGEO from [スケボーキング](../Page/スケボーキング.md "wikilink")）
     3.  DOG FOOD
     <!-- end list -->
-      - 八王子少年～春よ、来い～feat.RYOJI
+      - 八王子少年～春よ、来い～feat.RYOJI　fromケツメイシ(2020年3月1日)
 
 (2020年3月1日)配信シングル
 

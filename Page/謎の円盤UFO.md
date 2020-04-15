@@ -1,4 +1,4 @@
-> この記事は[UFO](https://ja.wikipedia.org/wiki/UFO)から翻訳されています。
+> この記事は[謎の円盤UFO](https://ja.wikipedia.org/wiki/謎の円盤UFO)から翻訳されています。
 
 
 『**謎の円盤UFO**』（なぞのえんばん ユー・エフ・オー、原題**UFO**）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[APフィルムズ](https://ja.wikipedia.org/wiki/APフィルムズ "wikilink")（後の21世紀プロダクション）が製作した[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[特撮](../Page/特撮.md "wikilink")ドラマである。

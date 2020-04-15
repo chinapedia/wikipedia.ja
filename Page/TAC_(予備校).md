@@ -1,4 +1,4 @@
-> この記事は[TAC \(\)](https://ja.wikipedia.org/wiki/TAC_\(\))から翻訳されています。
+> この記事は[TAC \(予備校\)](https://ja.wikipedia.org/wiki/TAC_\(予備校\))から翻訳されています。
 
 
 **TAC**（タック、[英称](../Page/英語.md "wikilink")：*Tokyo Accounting Center*）は、資格取得の専門[予備校](../Page/予備校.md "wikilink")、およびその運営会社である「**TAC株式会社**（英称：*TAC Co., Ltd.*）」。各種国家試験合格を目指す（講座としては[公認会計士](../Page/公認会計士試験.md "wikilink")・[税理士](../Page/税理士試験.md "wikilink")・[日商簿記検定](../Page/日商簿記検定.md "wikilink")等幅広く開講）。

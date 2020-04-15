@@ -1,4 +1,4 @@
-> この記事は[YTS](https://ja.wikipedia.org/wiki/YTS)から翻訳されています。
+> この記事は[YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊)から翻訳されています。
 
 
 『**YTSテレビ夕刊**』（ワイティーエス テレビゆうかん）は、[山形テレビ](../Page/山形テレビ.md "wikilink")が[FNN・フジテレビ系列時代](https://ja.wikipedia.org/wiki/FUJI_NEWS_NETWORK "wikilink")（[1981年](../Page/1981年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")）に放送していた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

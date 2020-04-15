@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCエルツゲビルゲ・アウエ](https://ja.wikipedia.org/wiki/FCエルツゲビルゲ・アウエ)から翻訳されています。
 
 
 **FCエルツゲビルゲ・アウエ** (**FC Erzgebirge Aue**) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ザクセン州](../Page/ザクセン州.md "wikilink")・[アウエ](../Page/アウエ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。旧東ドイツの1部リーグ（[DDRオーバーリーガ](../Page/DDRオーバーリーガ.md "wikilink")）では**SCヴィスムート・[カール＝マルクス＝シュタット](https://ja.wikipedia.org/wiki/カール＝マルクス＝シュタット "wikilink")** (**SC Wismut Karl-Marx-Stadt**) として3度の優勝を果たした名門チームであった。

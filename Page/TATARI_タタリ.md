@@ -1,4 +1,4 @@
-> この記事は[TATARI ](https://ja.wikipedia.org/wiki/TATARI_)から翻訳されています。
+> この記事は[TATARI タタリ](https://ja.wikipedia.org/wiki/TATARI_タタリ)から翻訳されています。
 
 
 『**TATARI タタリ**』（原題：*House on Haunted Hill*）は、[ウィリアム・キャッスル](../Page/ウィリアム・キャッスル.md "wikilink")監督の[ホラー映画](../Page/ホラー映画.md "wikilink")『[地獄へつゞく部屋](../Page/地獄へつゞく部屋.md "wikilink")』(1959年)の[リメイク](../Page/リメイク.md "wikilink")作品。1999年に制作された。

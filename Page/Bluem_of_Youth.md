@@ -5,21 +5,19 @@
 
 ## メンバー
 
-  - **別所悠二（べっしょ ゆうじ）**
-      -
-        [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、作詞。
-        [1973年](../Page/1973年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")生まれ。O型。[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身。
-        ソロ活動時のアーティストネームは「別所ユージ」。映画、舞台、ミュージカル等俳優としても活躍している。
-        趣味は車の運転・マラソン・料理・カメラ。
+  - 別所悠二（べっしょ ゆうじ）
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、作詞。
+    [1973年](../Page/1973年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")生まれ。O型。[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身。
+    ソロ活動時のアーティストネームは「別所ユージ」。映画、舞台、ミュージカル等俳優としても活躍している。
+    趣味は車の運転・マラソン・料理・カメラ。
 
 <!-- end list -->
 
-  - **[松ヶ下宏之](https://ja.wikipedia.org/wiki/松ヶ下宏之 "wikilink")（まつがした ひろゆき）**
-      -
-        ギター、[ピアノ](../Page/ピアノ.md "wikilink")、作曲。
-        [1973年](../Page/1973年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。O型。広島県広島市出身。
-        ブルームの活動休止後は[HAPPY DRUG STOREや](../Page/HAPPY_DRUG_STORE.md "wikilink")[千綿ヒデノリ](https://ja.wikipedia.org/wiki/千綿ヒデノリ "wikilink")、[広沢タダシ](../Page/広沢タダシ.md "wikilink")等のサポートメンバーとして参加しながら、自らもソロアーティストとして活動中。また、2009年[中川翔子](../Page/中川翔子.md "wikilink")のコンサートツアー及び2012,2013年[柏木由紀](../Page/柏木由紀.md "wikilink")のコンサートのバンドマスターを務める。趣味は釣り。
-        最近は[NapsaQ](../Page/NapsaQ.md "wikilink")のメンバーとしても活躍している。
+  - [松ヶ下宏之](https://ja.wikipedia.org/wiki/松ヶ下宏之 "wikilink")（まつがした ひろゆき）
+    ギター、[ピアノ](../Page/ピアノ.md "wikilink")、作曲。
+    [1973年](../Page/1973年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。O型。広島県広島市出身。
+    ブルームの活動休止後は[HAPPY DRUG STOREや](../Page/HAPPY_DRUG_STORE.md "wikilink")[千綿ヒデノリ](https://ja.wikipedia.org/wiki/千綿ヒデノリ "wikilink")、[広沢タダシ](../Page/広沢タダシ.md "wikilink")等のサポートメンバーとして参加しながら、自らもソロアーティストとして活動中。また、2009年[中川翔子](../Page/中川翔子.md "wikilink")のコンサートツアー及び2012,2013年[柏木由紀](../Page/柏木由紀.md "wikilink")のコンサートのバンドマスターを務める。趣味は釣り。
+    最近は[NapsaQ](../Page/NapsaQ.md "wikilink")のメンバーとしても活躍している。
 
 ## 来歴
 
@@ -29,12 +27,13 @@
   - [2002年](../Page/2002年.md "wikilink")末をもってBluem of Youthとしての活動を無期限休止。
   - [2005年](../Page/2005年.md "wikilink")10月、デビュー10周年を記念して、[東京](../Page/東京.md "wikilink")（10月4日）、[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")（10月9日）、[大阪](../Page/大阪.md "wikilink")（10月10日）において3日間限定復活ライブを行った。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月31日 広島でのカウントダウンライブを皮切りに、Bluem of Youthとして活動再開。
+  - 2020年4月4日に東京都南青山MANDALAで公演予定だったが、[新型コロナウィルスの影響により延期となった](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")\[1\]。代替イベントとして、無観客ライブを有料配信予定である。
 
 ## 歴史
 
 2人が初めて出会ったのは広島の中学時代で、当時は2人とも悪ガキだったらしい。すでにその頃から他の仲間も含めて別々のバンド活動をはじめていた。2人とも別の高校へ行きいったんは別れる。その後松ヶ下は東京の大学へ通うために上京。一方あてもなく上京した別所が何気なく松ヶ下のもとを訪ねたことから再会、ユニットを組む運びとなる。ライブハウスなどでアマチュアバンド活動を経験後、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")にシングル『最後の願い』でデビューする。その後、8枚のシングルと2枚のアルバムを出したが、曲がヒットせずに8枚目のシングル「声」を最後に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月当時のレコード会社（現[EPIC Records](../Page/エピックレコードジャパン.md "wikilink"))との契約を打ち切られてしまう。
 
-ちなみにブレイク前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に、[1999年](../Page/1999年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に『[MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")』に出演している。後者は「声」が『MUSIC HAMMER』のリクエストランキングで1位を獲得した\[1\]ことを記念しての出演だった。
+ちなみにブレイク前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に、[1999年](../Page/1999年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に『[MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")』に出演している。後者は「声」が『MUSIC HAMMER』のリクエストランキングで1位を獲得した\[2\]ことを記念しての出演だった。
 
 1998年[NHK BS-2での](../Page/NHK衛星第2テレビジョン.md "wikilink")150分に及ぶ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")特集番組『BOØWY ANTHOLOGY』において「MEMORY」を演奏する（別所は学生時代[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部に在籍。朝練の時、部員から「凄ぇ、良いアルバムあるから、聴いてみな！」と[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の5枚目のアルバム『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』を借りて聴いてみた。その後、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のファンになったらしい）。
 
@@ -614,4 +613,5 @@ SRBL-1160:DVD</p></td>
   -
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink")
 
-1.  [MUSIC HAMMER リクエストランキング 【99/02/21 放送分】](https://web.archive.org/web/20010713075200/http://www.fujiint.co.jp/HAMMER/chart/990221/request.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.
+2.  [MUSIC HAMMER リクエストランキング 【99/02/21 放送分】](https://web.archive.org/web/20010713075200/http://www.fujiint.co.jp/HAMMER/chart/990221/request.html)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

@@ -1,4 +1,4 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[浜松ケイ・スポーツBC](https://ja.wikipedia.org/wiki/浜松ケイ・スポーツBC)から翻訳されています。
 
 
 **浜松ケイ・スポーツBC**（はままつケイ・スポーツBC）は、[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。チーム名は支援者である「ケイ・スポーツ」というスポーツ用品店に因む\[1\]。クラブチームでは珍しく、女子部を有している。

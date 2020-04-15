@@ -1,4 +1,4 @@
-> この記事は[Image \(\)](https://ja.wikipedia.org/wiki/Image_\(\))から翻訳されています。
+> この記事は[Image \(アルバムのシリーズ\)](https://ja.wikipedia.org/wiki/Image_\(アルバムのシリーズ\))から翻訳されています。
 
 
 『**image**』（イマージュ）は、[ソニー・ミュージックジャパン インターナショナルから発売されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")、[イージーリスニング](../Page/イージーリスニング.md "wikilink")音楽の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")と[DVDのシリーズ名である](../Page/DVD-Video.md "wikilink")。

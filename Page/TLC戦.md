@@ -1,4 +1,4 @@
-> この記事は[TLC](https://ja.wikipedia.org/wiki/TLC)から翻訳されています。
+> この記事は[TLC戦](https://ja.wikipedia.org/wiki/TLC戦)から翻訳されています。
 
 
 **TLC戦**（ - せん）は、[プロレス](../Page/プロレス.md "wikilink")における[試合](../Page/試合.md "wikilink")形式の一種である。[ラダー・マッチ](https://ja.wikipedia.org/wiki/ラダー・マッチ "wikilink")に公認[凶器として組み立て](../Page/凶器_\(プロレス\).md "wikilink")[机](../Page/机.md "wikilink")、パイプ[椅子](../Page/椅子.md "wikilink")を付加したものである。TLC戦の名称も、**T**ables（机）、**L**adders（[梯子](../Page/梯子.md "wikilink")）、**C**hairs（椅子）の3つの凶器の頭文字に由来する。

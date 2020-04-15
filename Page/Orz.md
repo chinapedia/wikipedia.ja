@@ -133,8 +133,7 @@
 
 ## 外部リンク
 
-  - [MY・くずおれる男コレクション](http://www.geocities.co.jp/HeartLand-Poplar/7890/kuzuoreru/kuzuoreru.html)
-
+  -
 [en:Emoticon\#Posture emoticons](https://ja.wikipedia.org/wiki/en:Emoticon#Posture_emoticons "wikilink")
 
 [Category:アスキーアート作品](https://ja.wikipedia.org/wiki/Category:アスキーアート作品 "wikilink")

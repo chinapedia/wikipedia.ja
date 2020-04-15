@@ -1,4 +1,4 @@
-> この記事は[OHK](https://ja.wikipedia.org/wiki/OHK)から翻訳されています。
+> この記事は[OHKスーパータイム](https://ja.wikipedia.org/wiki/OHKスーパータイム)から翻訳されています。
 
 
 『**OHKスーパータイム**』（オーエイチケイ スーパータイム）は、[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[岡山放送](../Page/岡山放送.md "wikilink")で放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")ローカルパート）。正式タイトルは『**FNN OHKスーパータイム→OHKスーパータイム FNN**』。

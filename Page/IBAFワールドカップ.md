@@ -1,4 +1,4 @@
-> この記事は[IBAF](https://ja.wikipedia.org/wiki/IBAF)から翻訳されています。
+> この記事は[IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ)から翻訳されています。
 
 
 **IBAFワールドカップ**（**Baseball World Cup**）は、[1938年](../Page/1938年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで開催されていた[野球](../Page/野球.md "wikilink")の国際大会。[国際野球連盟](../Page/国際野球連盟.md "wikilink")（IBAF）が主催していた。出場選手は[1994年大会までは](https://ja.wikipedia.org/wiki/第32回IBAFワールドカップ "wikilink")[アマチュア](../Page/アマチュア.md "wikilink")限定で、続く[1998年大会からプロ選手の参加が解禁になって以降は](https://ja.wikipedia.org/wiki/第33回IBAFワールドカップ "wikilink")[マイナーリーグ](../Page/マイナーリーグ.md "wikilink")や[日本プロ野球](../Page/日本プロ野球.md "wikilink")の選手らも出場するようになった。ただ、強豪国である[アメリカ合衆国や](../Page/野球アメリカ合衆国代表.md "wikilink")[日本のナショナルチームにトッププロ選手が参加することはほとんどなく](../Page/野球日本代表.md "wikilink")、大会は事実上のアマチュア世界一決定戦という位置づけだった。また、日本の大学野球は国内リーグを優先し参加は消極的で、社会人野球の選手が中心となってチームが編成されていた\[1\]\[2\]\[3\]。開催頻度は時代によってまちまちで、[2001年大会からは](https://ja.wikipedia.org/wiki/第34回IBAFワールドカップ "wikilink")2年に一度、奇数年に開催されていた。

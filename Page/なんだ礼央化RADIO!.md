@@ -1,7 +1,7 @@
-> この記事は[RADIO!](https://ja.wikipedia.org/wiki/RADIO!)から翻訳されています。
+> この記事は[なんだ礼央化RADIO!](https://ja.wikipedia.org/wiki/なんだ礼央化RADIO!)から翻訳されています。
 
 
-**なんだ礼央化RADIO\!**（ - れおかれでぃお\!、 - れおからじお\!）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")2005年08月16日～2006年03月28日に放送（配信）されたインターネットラジオ番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[ズボンドズボン](../Page/ズボンドズボン.md "wikilink")の[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")。コンセプトは「世界を礼央化すること」である。[ウィキペディア](../Page/ウィキペディア.md "wikilink")と[はてなダイアリー](https://ja.wikipedia.org/wiki/はてなダイアリー "wikilink")を「オフィシャルだ」と公言した。[2005年](../Page/2005年.md "wikilink")6月で終了した[ニッポン放送](../Page/ニッポン放送.md "wikilink")系[土屋礼央のオールナイトニッポン](../Page/土屋礼央のオールナイトニッポン.md "wikilink")のリスナーの多くもこの番組が始まると共にこちらのリスナーとなった。かつて土屋礼央のオールナイトニッポンで名を連ねた[ハガキ職人](../Page/ハガキ職人.md "wikilink")達もこちらへメールを送るなどして、過去の栄華を留めている。このオールナイトを意識してか、ポッドキャスティング放送では、「お耳のお供（オールナイトニッポンでは、お耳の恋人）」と発言する。
+**なんだ礼央化RADIO\!**（ - れおかれでぃお\!、 - れおからじお\!）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")2005年08月16日～2006年03月28日に放送（配信）されたインターネットラジオ番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[ズボンドズボン](../Page/ズボンドズボン.md "wikilink")の[土屋礼央](https://ja.wikipedia.org/wiki/土屋礼央 "wikilink")。コンセプトは「世界を礼央化すること」である。[ウィキペディア](../Page/ウィキペディア.md "wikilink")と[はてなダイアリー](https://ja.wikipedia.org/wiki/はてなダイアリー "wikilink")を「オフィシャルだ」と公言した。[2005年](../Page/2005年.md "wikilink")6月で終了した[ニッポン放送](../Page/ニッポン放送.md "wikilink")系[土屋礼央のオールナイトニッポン](../Page/土屋礼央のオールナイトニッポン.md "wikilink")のリスナーの多くもこの番組が始まると共にこちらのリスナーとなった。かつて土屋礼央のオールナイトニッポンで名を連ねた[ハガキ職人](../Page/ハガキ職人.md "wikilink")達もこちらへメールを送るなどして、過去の栄華を留めている。このオールナイトを意識してか、ポッドキャスティング放送では、「お耳のお供（オールナイトニッポンでは、お耳の恋人）」と発言する。
 
 ## 放送時間
 

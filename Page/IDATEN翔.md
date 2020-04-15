@@ -1,4 +1,4 @@
-> この記事は[IDATEN](https://ja.wikipedia.org/wiki/IDATEN)から翻訳されています。
+> この記事は[IDATEN翔](https://ja.wikipedia.org/wiki/IDATEN翔)から翻訳されています。
 
 
 『**IDATEN翔**』（いだてんじゃんぷ）は、[藤原としひろ](https://ja.wikipedia.org/wiki/藤原としひろ "wikilink")による漫画作品。[コミックボンボン](../Page/コミックボンボン.md "wikilink")にて連載された。

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X線天文学](https://ja.wikipedia.org/wiki/X線天文学)から翻訳されています。
 
 
 **X線天文学**（エックスせんてんもんがく、）は、観測[天文学](../Page/天文学.md "wikilink")の一分野で、[天体](../Page/天体.md "wikilink")から放射される[X線](../Page/X線.md "wikilink")の研究を行なう。X線放射は[地球](https://ja.wikipedia.org/wiki/地球 "wikilink")の[大気](https://ja.wikipedia.org/wiki/大気 "wikilink")によって吸収されるため、X線の観測装置は高い高度へ運ばなければならない。そのためにかつては[気球](../Page/気球.md "wikilink")や[ロケット](../Page/ロケット.md "wikilink")が用いられた。現在ではX線天文学は宇宙探査の一分野となっており、X線検出器は[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")に搭載されるのが普通である。

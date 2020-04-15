@@ -1,4 +1,4 @@
-> この記事は[FH](https://ja.wikipedia.org/wiki/FH)から翻訳されています。
+> この記事は[ゴールFH](https://ja.wikipedia.org/wiki/ゴールFH)から翻訳されています。
 
 
 『**ゴールFH**』（ゴールフィールドハンター）は、[寺島優](https://ja.wikipedia.org/wiki/寺島優 "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[清水エスパルス](../Page/清水エスパルス.md "wikilink")のサテライト（二軍）チームに所属する若手選手たちを描く。

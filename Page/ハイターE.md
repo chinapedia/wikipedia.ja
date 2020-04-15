@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ハイターE](https://ja.wikipedia.org/wiki/ハイターE)から翻訳されています。
 
 
 **ハイターE**（ハイター・イー）は、かつて[花王](../Page/花王.md "wikilink")株式会社が販売していた、一般用[塩素](../Page/塩素.md "wikilink")系[漂白剤](../Page/漂白剤.md "wikilink")である。[ハイター](../Page/ハイター.md "wikilink")シリーズのひとつで、塩素臭がしない漂白剤として発売されていた。

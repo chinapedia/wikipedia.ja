@@ -1,4 +1,4 @@
-> この記事は[SI](https://ja.wikipedia.org/wiki/SI)から翻訳されています。
+> この記事は[非SI接頭辞](https://ja.wikipedia.org/wiki/非SI接頭辞)から翻訳されています。
 
 
 [国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink") (SI) の正式な[接頭辞ではないが](../Page/SI接頭辞.md "wikilink")、SI接頭辞のように扱われる（または扱われた）接頭辞がいくつかある。ここでは、便宜上それらを**非SI接頭辞**（ひエスアイせっとうじ）と総称する。

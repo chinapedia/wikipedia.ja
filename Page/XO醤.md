@@ -1,4 +1,4 @@
-> この記事は[XO](https://ja.wikipedia.org/wiki/XO)から翻訳されています。
+> この記事は[XO醤](https://ja.wikipedia.org/wiki/XO醤)から翻訳されています。
 
 
 [XO_sauce.jpg](https://ja.wikipedia.org/wiki/File:XO_sauce.jpg "fig:XO_sauce.jpg") **XO醤**（エックスオージャン、広東語 XO醬 エクシーオウジョン）は[1980年代](../Page/1980年代.md "wikilink")後半に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で考案されたあわせ[調味料](../Page/調味料.md "wikilink")である。

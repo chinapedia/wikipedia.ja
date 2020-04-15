@@ -1,4 +1,4 @@
-> この記事は[ -THE SUNDAY-](https://ja.wikipedia.org/wiki/_-THE_SUNDAY-)から翻訳されています。
+> この記事は[ザ・サンデー -THE SUNDAY-](https://ja.wikipedia.org/wiki/ザ・サンデー_-THE_SUNDAY-)から翻訳されています。
 
 
 『**ザ・サンデー -THE SUNDAY-**』は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[歌謡番組である](../Page/音楽番組.md "wikilink")。放送時間は毎週日曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

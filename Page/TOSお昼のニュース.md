@@ -1,4 +1,4 @@
-> この記事は[TOS](https://ja.wikipedia.org/wiki/TOS)から翻訳されています。
+> この記事は[TOSお昼のニュース](https://ja.wikipedia.org/wiki/TOSお昼のニュース)から翻訳されています。
 
 
 『**TOSお昼のニュース**』（ティーオーエスおひるのニュース）は、[1991年](../Page/1991年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[テレビ大分](../Page/テレビ大分.md "wikilink")で平日昼に放送されていた[ニュース番組である](../Page/報道番組.md "wikilink")。放送時間は毎週月曜 - 金曜 11:35 - 11:40 （[日本標準時](../Page/日本標準時.md "wikilink")）。

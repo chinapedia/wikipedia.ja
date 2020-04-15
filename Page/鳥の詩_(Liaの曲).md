@@ -1,4 +1,4 @@
-> この記事は[ \(Lia\)](https://ja.wikipedia.org/wiki/_\(Lia\))から翻訳されています。
+> この記事は[鳥の詩 \(Liaの曲\)](https://ja.wikipedia.org/wiki/鳥の詩_\(Liaの曲\))から翻訳されています。
 
 
 「**鳥の詩**」（とりのうた）は、[2000年](../Page/2000年.md "wikilink")に[Keyから発売された](../Page/Key_\(ゲームブランド\).md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")である。

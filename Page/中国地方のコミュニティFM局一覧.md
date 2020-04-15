@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[中国地方のコミュニティFM局一覧](https://ja.wikipedia.org/wiki/中国地方のコミュニティFM局一覧)から翻訳されています。
 
 
 **[中国地方](../Page/中国地方.md "wikilink")**にある[コミュニティFM放送局の一覧である](../Page/コミュニティ放送.md "wikilink")。

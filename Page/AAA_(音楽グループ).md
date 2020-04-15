@@ -1,4 +1,4 @@
-> この記事は[AAA \(\)](https://ja.wikipedia.org/wiki/AAA_\(\))から翻訳されています。
+> この記事は[AAA \(音楽グループ\)](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\))から翻訳されています。
 
 
 **AAA**（トリプルエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混合パフォーマンスグループ。2005年9月14日にシングル「BLOOD on FIRE」でデビュー。 所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**AAA Party**」（トリエーパーティ）。
@@ -1470,7 +1470,7 @@ AVBD-91576</p></td>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2010年3月3日<br />
-2012年12月12日</p></td>
+</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_4th_Anniversary_LIVE_090922_at_Yokohama_Arena" title="wikilink">AAA 4th Anniversary LIVE 090922 at Yokohama Arena</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>2DVD<br />
@@ -1481,7 +1481,7 @@ AVXD-91654</p></td>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2010年9月29日<br />
-2012年12月12日</p></td>
+</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_Heart_to_♥_TOUR_2010" title="wikilink">AAA Heart to ♥ TOUR 2010</a></strong></p></td>
 <td><p>7位</p></td>
 <td><p>2DVD<br />
@@ -1668,6 +1668,20 @@ Blu-ray</p></td>
 AVXD-92864</p></td>
 </tr>
 <tr class="odd">
+<td><p>23</p></td>
+<td><p>2020年3月25日</p></td>
+<td><p><strong><a href="../Page/AAA_DOME_TOUR_2019_+PLUS.md" title="wikilink">AAA DOME TOUR 2019 +PLUS</a></strong></p></td>
+<td></td>
+<td><p>3DVD+GOODS<br />
+2Blu-ray+GOODS<br />
+3DVD<br />
+2Blu-ray</p></td>
+<td><p>AVZD-92918～20<br />
+AVZD-92921～2<br />
+AVBD-92923～5<br />
+AVXD-92926～7</p></td>
+</tr>
+<tr class="even">
 <td><p>ミュージック・ビデオ映像</p></td>
 <td></td>
 <td></td>
@@ -1675,17 +1689,17 @@ AVXD-92864</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
-<td><p>2020年2月19日(予定)</p></td>
+<td><p>2020年2月19日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot-" title="wikilink">AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-</a></strong></p></td>
-<td></td>
+<td><p>1位</p></td>
 <td><p>3DVD<br />
 2Blu-ray</p></td>
 <td><p>AVBD-92892～4<br />
 AVXD-92895～6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ドキュメンタリー映像</p></td>
 <td></td>
 <td></td>
@@ -1693,7 +1707,7 @@ AVXD-92895～6</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2016年3月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_Documentary_〜Road_of_10th_ANNIVERSARY〜" title="wikilink">AAA 10th ANNIVERSARY Documentary 〜Road of 10th ANNIVERSARY〜</a></strong></p></td>
@@ -1707,7 +1721,7 @@ AVXD-92304～5<br />
 AVBD-92306<br />
 AVXD-92307</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>バラエティ番組</p></td>
 <td></td>
 <td></td>
@@ -1715,7 +1729,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2007年3月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Channel@×AAA" title="wikilink">Channel@×AAA</a></strong></p></td>
@@ -1723,7 +1737,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91464</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2009年3月4日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Channel@×AAA_-其の弐-" title="wikilink">Channel@×AAA -其の弐-</a></strong></p></td>
@@ -1731,7 +1745,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91578</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>2010年6月23日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/二匹目のどじょう" title="wikilink">二匹目のどじょう -第一巻-</a></strong></p></td>
@@ -1739,7 +1753,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91802</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td><p>2010年7月14日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/二匹目のどじょう" title="wikilink">二匹目のどじょう -第二巻-</a></strong></p></td>
@@ -1747,7 +1761,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91803</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>2010年8月4日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/二匹目のどじょう" title="wikilink">二匹目のどじょう -第三巻-</a></strong></p></td>
@@ -1755,7 +1769,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91804</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ドラマ</p></td>
 <td></td>
 <td></td>
@@ -1763,7 +1777,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2009年1月23日</p></td>
 <td><p><strong>AAA meets「未来世紀シェイクスピア」ナビゲート DVD</strong></p></td>
@@ -1771,7 +1785,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVB1-29050</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2009年2月27日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/未来世紀シェイクスピア" title="wikilink">未来世紀シェイクスピア</a> #01 ヴェニスの商人</strong></p></td>
@@ -1779,23 +1793,23 @@ AVXD-92307</p></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29120</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
-<td><p>2009年2月27日</p></td>
 <td><p><strong>未来世紀シェイクスピア #02 ロミオとジュリエット</strong></p></td>
 <td></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29122</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
-<td><p>2009年2月27日</p></td>
 <td><p><strong>未来世紀シェイクスピア #03 オセロー</strong></p></td>
 <td></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29124</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>2009年3月27日</p></td>
 <td><p><strong>未来世紀シェイクスピア #04 真夏の夜の夢</strong></p></td>
@@ -1803,15 +1817,15 @@ AVXD-92307</p></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29126</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
-<td><p>2009年3月27日</p></td>
 <td><p><strong>未来世紀シェイクスピア #05 リア王</strong></p></td>
 <td></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29128</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p>2009年4月24日</p></td>
 <td><p><strong>未来世紀シェイクスピア #06 テンペスト</strong></p></td>
@@ -1819,7 +1833,7 @@ AVXD-92307</p></td>
 <td><p>2DVD</p></td>
 <td><p>AVBF-29130</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>舞台</p></td>
 <td></td>
 <td></td>
@@ -1827,7 +1841,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2007年6月20日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜" title="wikilink">Theater of AAA 〜ボクラノテ〜</a></strong></p></td>
@@ -1835,7 +1849,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AVB1-91474</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ファンクラブイベント</p></td>
 <td></td>
 <td></td>
@@ -1843,7 +1857,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1</p></td>
 <td><p>2008年3月15日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PPP_-Premium_Performance_Party-" title="wikilink">PPP -Premium Performance Party-</a></strong></p></td>
@@ -1851,7 +1865,7 @@ AVXD-92307</p></td>
 <td><p>2DVD</p></td>
 <td><p>AVB1-91532</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2011年1月12日</p></td>
 <td><p><strong>AAA Party 秋の大運動会ツアー in 静岡 2010.9.25〜9.26</strong></p></td>
@@ -1859,7 +1873,7 @@ AVXD-92307</p></td>
 <td><p>DVD</p></td>
 <td><p>AQB1-50578</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ベスト映像</p></td>
 <td></td>
 <td></td>
@@ -1867,7 +1881,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1</p></td>
 <td><p>2012年7月13日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/AAA_BEST_LIVE_SELECTION" title="wikilink">AAA BEST LIVE SELECTION</a></strong></p></td>
@@ -1875,7 +1889,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2015年12月4日</p></td>
 <td><p><strong>AAA 10th Anniversary! ULTRA BEST LIVE DVD BOOK</strong></p></td>
@@ -1883,7 +1897,7 @@ AVXD-92307</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -2284,6 +2298,7 @@ AVXD-92307</p></td>
 <th><p>年</p></th>
 <th><p>タイトル</p></th>
 <th><p>規模・月日・会場</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -2291,6 +2306,14 @@ AVXD-92307</p></td>
 <td><p>2005年</p></td>
 <td><p>Larger|<nowiki>プレミアムイベント「明日はFriday Party</p></td>
 <td><p>」</nowiki></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>1会場1公演</p>
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>11月3日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">Shibuya O-EAST</a></p>
+</div>
+</div></td>
 </tr>
 <tr class="even">
 <td><p>2006年</p></td>
@@ -2306,6 +2329,7 @@ AVXD-92307</p></td>
 1月28日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
@@ -2323,6 +2347,7 @@ AVXD-92307</p></td>
 4月15日 <a href="../Page/横浜BLITZ.md" title="wikilink">横浜BLITZ</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2006年</p></td>
@@ -2342,6 +2367,7 @@ AVXD-92307</p></td>
 6月29日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
@@ -2354,6 +2380,7 @@ AVXD-92307</p></td>
 <p>9月13日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -2374,6 +2401,7 @@ AVXD-92307</p></td>
 4月15日 Zepp Sapporo</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
@@ -2391,6 +2419,7 @@ AVXD-92307</p></td>
 6月27日 <a href="../Page/Zepp.md" title="wikilink">Zepp Fukuoka</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -2403,6 +2432,7 @@ AVXD-92307</p></td>
 <p>9月22日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
@@ -2417,6 +2447,7 @@ AVXD-92307</p></td>
 12月6日 川崎クラブチッタ</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
@@ -2438,6 +2469,7 @@ AVXD-92307</p></td>
 4月12日 Zepp Sapporo</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
@@ -2451,6 +2483,7 @@ AVXD-92307</p></td>
 9月23日 日本武道館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
@@ -2482,6 +2515,7 @@ AVXD-92307</p></td>
 4月29日 渋谷C.C.Lemonホール</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
@@ -2494,6 +2528,7 @@ AVXD-92307</p></td>
 <p>9月22日 <a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
@@ -2531,6 +2566,7 @@ AVXD-92307</p></td>
 5月22日 <a href="../Page/名古屋国際会議場.md" title="wikilink">名古屋国際会議場</a>センチュリーホール</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
@@ -2544,6 +2580,7 @@ AVXD-92307</p></td>
 9月19日 <a href="../Page/ワールド記念ホール.md" title="wikilink">神戸ワールド記念ホール</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
@@ -2557,6 +2594,7 @@ AVXD-92307</p></td>
 9月20日 神戸ワールド記念ホール</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -2599,6 +2637,7 @@ AVXD-92307</p></td>
 7月7日 伊勢原市民文化会館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
@@ -2621,6 +2660,7 @@ AVXD-92307</p></td>
 10月4日 Zepp Osaka</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
@@ -2671,6 +2711,7 @@ AVXD-92307</p></td>
 10月8日 <a href="../Page/沖縄コンベンションセンター.md" title="wikilink">沖縄コンベンションセンター</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -2723,6 +2764,7 @@ AVXD-92307</p></td>
 10月19日 <a href="../Page/真駒内屋内競技場.md" title="wikilink">真駒内セキスイハイムアイスアリーナ</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013年-2014年</p></td>
@@ -2735,6 +2777,7 @@ AVXD-92307</p></td>
 <p>12月31日-1月1日 <a href="../Page/東京体育館.md" title="wikilink">東京体育館</a></p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
@@ -2771,6 +2814,7 @@ AVXD-92307</p></td>
 10月18日 真駒内セキスイハイムアイスアリーナ</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年-2015年</p></td>
@@ -2783,6 +2827,7 @@ AVXD-92307</p></td>
 <p>12月31日-1月1日 東京体育館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -2799,6 +2844,7 @@ AVXD-92307</p></td>
 </p>
 </div>
 </div></td>
+<td><p>グループ初のアジアツアー</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -2826,6 +2872,7 @@ AVXD-92307</p></td>
 7月23日 日本武道館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -2839,6 +2886,7 @@ AVXD-92307</p></td>
 9月14日 国立代々木競技場第一体育館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -2853,6 +2901,7 @@ AVXD-92307</p></td>
 9月23日 富士急ハイランド</p>
 </div>
 </div></td>
+<td><p>グループ初の野外live</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年-2016年</p></td>
@@ -2865,6 +2914,7 @@ AVXD-92307</p></td>
 <p>12月31日-1月1日 東京体育館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -2898,6 +2948,7 @@ AVXD-92307</p></td>
 7月24日 宮城 セキスイハイムスーパーアリーナ</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
@@ -2914,6 +2965,7 @@ AVXD-92307</p></td>
 9月4日 SCAPE (シンガポール)</p>
 </div>
 </div></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -2928,10 +2980,23 @@ AVXD-92307</p></td>
 11月15日 <a href="../Page/東京ドーム.md" title="wikilink">東京ドーム</a><br />
 11月16日 東京ドーム</p>
 </div>
-</div>
-<p>|- AAA初の単独ドームツアー公演となる。</p></td>
+</div></td>
+<td><p>グループ初の単独ドームツアー公演</p></td>
 </tr>
 <tr class="even">
+<td><p>2016年-2017年</p></td>
+<td><p>Larger|AAA New Year Party 2017</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>1会場1公演</p>
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>12月31日-1月1日 東京体育館</p>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2017年</p></td>
 <td><p>Larger|AAA ARENA TOUR 2017 - WAY OF GLORY -</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2951,8 +3016,9 @@ AVXD-92307</p></td>
 7月16日 真駒内セキスイハイムアイスアリーナ</p>
 </div>
 </div></td>
+<td><p>6人体制になって初めての全国ツアー</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年</p></td>
 <td><p>Larger|AAA DOME TOUR 2017 - WAY OF GLORY -</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2969,10 +3035,10 @@ AVXD-92307</p></td>
 9月30日 <a href="../Page/福岡ドーム.md" title="wikilink">福岡ヤフオク！ドーム</a><br />
 10月1日 福岡ヤフオク！ドーム</p>
 </div>
-</div>
-<p>グループ初の4大ドームツアーとなる</p></td>
+</div></td>
+<td><p>グループ初となる4ドームツアー</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年-2018年</p></td>
 <td><p>Larger|AAA New Year Party 2018</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2983,8 +3049,9 @@ AVXD-92307</p></td>
 <p>12月31日-1月1日 東京体育館</p>
 </div>
 </div></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p>Larger|AAA FAN MEETING ARENA TOUR 2018 ～FAN FUN FAN～</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3005,8 +3072,9 @@ AVXD-92307</p></td>
 <strong>※</strong>印は1日2回公演</p>
 </div>
 </div></td>
+<td><p>グループ初のファンミーティングツアー</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年</p></td>
 <td><p>Larger|AAA DOME TOUR 2018 - COLOR A LIFE -</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3025,8 +3093,9 @@ AVXD-92307</p></td>
 11月24日 福岡ヤフオク！ドーム</p>
 </div>
 </div></td>
+<td><p>昨年に続き2度目の4大ドームツアー</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p>Larger|AAA C.A.L After Party 2018</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3038,8 +3107,9 @@ AVXD-92307</p></td>
 12月27日 パシフィコ横浜</p>
 </div>
 </div></td>
+<td><p>プレミアムイベント『AAA DOME TOUR 2018 COLOR A LIFE』のAfter Party</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 <td><p>Larger|AAA FAN MEETING ARENA TOUR 2019 ～FAN FUN FAN～</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3061,8 +3131,9 @@ AVXD-92307</p></td>
 <strong>※</strong>印は1日2回公演</p>
 </div>
 </div></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p>Larger|AAA DOME TOUR 2019 +PLUS</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3081,8 +3152,9 @@ AVXD-92307</p></td>
 12月22日 福岡ヤフオク！ドーム</p>
 </div>
 </div></td>
+<td><p>前年に続き3度目の4大ドームツアー</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年</p></td>
 <td><p>Larger|AAA DOME TOUR 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -3106,14 +3178,12 @@ AVXD-92307</p></td>
 <strong>※</strong>印は追加公演</p>
 </div>
 </div></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>日本の男女混合パフォーマンスグループ初の6大ドームツアー</p></td>
 </tr>
 </tbody>
 </table>
+
+
 
 ## タイアップ一覧
 
@@ -3735,7 +3805,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
       - 西島隆弘と末吉秀太のA〜お話
           - 色々なトークやリスナーからのメールに答える（火・日）</ref>
   - [イキナリ\!](../Page/イキナリ!.md "wikilink")木曜日「AAAのRadio'n Fire」（[東北放送](../Page/東北放送.md "wikilink")、2006年4月6日〜2008年3月20日）※パーソナリティ\[156\]
-  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「AAA TALKING ATTACK」（[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、2007年2月〜2009年3月）※パーソナリティ\[157\]
+  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「AAA TALKING ATTACK」（[JFN](../Page/全国FM放送協議会.md "wikilink")、2007年2月〜2009年3月）※パーソナリティ\[157\]
 
 ### 舞台
 

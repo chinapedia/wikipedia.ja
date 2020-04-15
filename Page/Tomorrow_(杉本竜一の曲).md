@@ -1,4 +1,4 @@
-> この記事は[Tomorrow \(\)](https://ja.wikipedia.org/wiki/Tomorrow_\(\))から翻訳されています。
+> この記事は[Tomorrow \(杉本竜一の曲\)](https://ja.wikipedia.org/wiki/Tomorrow_\(杉本竜一の曲\))から翻訳されています。
 
 
 『**Tomorrow**』（トゥモロー）は、[杉本竜一](../Page/杉本竜一.md "wikilink")が作詞・作曲した楽曲で、小中学校でも歌われる定番[合唱曲](https://ja.wikipedia.org/wiki/合唱曲 "wikilink")として人気がある。

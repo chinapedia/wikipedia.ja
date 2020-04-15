@@ -1,4 +1,4 @@
-> この記事は[-WEEKLY PARTY- !](https://ja.wikipedia.org/wiki/-WEEKLY_PARTY-_!)から翻訳されています。
+> この記事は[-WEEKLY PARTY- 週末オトナ計画ワイド!](https://ja.wikipedia.org/wiki/-WEEKLY_PARTY-_週末オトナ計画ワイド!)から翻訳されています。
 
 
 『**-WEEKLY PARTY- 週末オトナ計画ワイド！**』（ウィークリーパーティ しゅうまつオトナけいかくワイド）は[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")のワイド番組。[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に金曜日の12:00から放送されている『[-WEEKLY PARTY- 週末オトナ計画](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")』を朝（モーニングサイド：前枠は『[田中宏之のウィークエンドパッションひろしま](https://ja.wikipedia.org/wiki/田中宏之のウィークエンドパッションひろしま "wikilink")』）と昼（アフターヌーンサイド）の2部構成とする形でスタートしたが、2003年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にモーニングサイドが終了し、アフタヌーンサイドのみ継続となり、タイトルも『[-WEEKLY PARTY- 週末オトナ計画](../Page/-WEEKLY_PARTY-_週末オトナ計画.md "wikilink")』に戻った。アフタヌーンサイドも2006年3月24日を以って終了した。

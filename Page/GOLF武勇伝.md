@@ -1,4 +1,4 @@
-> この記事は[GOLF](https://ja.wikipedia.org/wiki/GOLF)から翻訳されています。
+> この記事は[GOLF武勇伝](https://ja.wikipedia.org/wiki/GOLF武勇伝)から翻訳されています。
 
 
 『**GOLF武勇伝**』（ゴルフぶゆうでん）は、[2004年](../Page/2004年.md "wikilink")7月から[2018年](../Page/2018年.md "wikilink")3月まで放送されていたテレビのゴルフバラエティー番組。スポンサー及び制作著作は[GMAジャパン](https://ja.wikipedia.org/wiki/GMAジャパン "wikilink")。

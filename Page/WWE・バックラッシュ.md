@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・バックラッシュ](https://ja.wikipedia.org/wiki/WWE・バックラッシュ)から翻訳されています。
 
 
 **バックラッシュ**(*Backlash*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")の主催するプロレス興行。およびそれを扱った[PPV](../Page/ペイ・パー・ビュー.md "wikilink")。開催は年に1回で、毎年4月 - 5月に行われる。初開催は[1999年](../Page/1999年.md "wikilink")。

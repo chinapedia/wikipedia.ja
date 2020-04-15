@@ -1,4 +1,4 @@
-> この記事は[E\&M](https://ja.wikipedia.org/wiki/E\&M)から翻訳されています。
+> この記事は[E\&Mプランニングセンター](https://ja.wikipedia.org/wiki/E\&Mプランニングセンター)から翻訳されています。
 
 
 **E\&Mプランニングセンター**（イー・アンド・エムプランニングセンター）は、かつて存在した映画・アニメの[音響効果制作を主な事業内容とする](../Page/効果音.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業である。

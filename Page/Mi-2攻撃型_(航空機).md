@@ -1,4 +1,4 @@
-> この記事は[Mi-2 \(\)](https://ja.wikipedia.org/wiki/Mi-2_\(\))から翻訳されています。
+> この記事は[Mi-2攻撃型 \(航空機\)](https://ja.wikipedia.org/wiki/Mi-2攻撃型_\(航空機\))から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:Mi-2URP-G_0a.jpg "wikilink") **Mi-2**（[ポーランド語](../Page/ポーランド語.md "wikilink")： ミー・ドヴァー）は、[ソ連で開発され](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")の[PZL-シフィドニク](https://ja.wikipedia.org/wiki/PZL_\(航空機メーカー\) "wikilink")（ ポールスキェ・ザクワードィ・ロトニーチェ・シフィードニク）で生産されている小型の[ヘリコプター](../Page/ヘリコプター.md "wikilink")である。このページでは、そのうちの[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")型を扱うこととする。

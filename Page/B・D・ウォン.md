@@ -1,4 +1,4 @@
-> この記事は[BD](https://ja.wikipedia.org/wiki/BD)から翻訳されています。
+> この記事は[B・D・ウォン](https://ja.wikipedia.org/wiki/B・D・ウォン)から翻訳されています。
 
 
 **B・D・ウォン**（B.D. Wong, 中国語名: 黃榮亮, [1960年](../Page/1960年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、中国系[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国#国民 "wikilink")[俳優](../Page/俳優.md "wikilink")である。本名**ブラッドリー・ダリル・ウォン**（Bradley Darryl Wong）。
@@ -302,11 +302,11 @@
 <td><p>計16話出演</p></td>
 </tr>
 <tr class="even">
-<td><p>2016-2017</p></td>
+<td><p>2016-2019</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GOTHAM/ゴッサム" title="wikilink">GOTHAM/ゴッサム</a><br />
 <em>Gotham</em></p></td>
 <td><p>ヒューゴ・ストレンジ教授</p></td>
-<td><p>計13話出演</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

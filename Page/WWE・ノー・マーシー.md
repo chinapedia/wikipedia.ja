@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・ノー・マーシー](https://ja.wikipedia.org/wiki/WWE・ノー・マーシー)から翻訳されています。
 
 
 **ノー・マーシー**(*No Mercy*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が主宰するプロレスの興行、および同興行のテレビ番組（[PPV](../Page/ペイ・パー・ビュー.md "wikilink")）である。開催は1年に1回。

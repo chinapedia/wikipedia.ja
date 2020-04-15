@@ -1,4 +1,4 @@
-> この記事は[YRV](https://ja.wikipedia.org/wiki/YRV)から翻訳されています。
+> この記事は[ダイハツ・YRV](https://ja.wikipedia.org/wiki/ダイハツ・YRV)から翻訳されています。
 
 
 **YRV**（ワイアールブイ）は、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた5ドア・[セミトールワゴン型の](../Page/トールワゴン.md "wikilink")[小型乗用車である](../Page/小型自動車.md "wikilink")。

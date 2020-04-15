@@ -1,4 +1,4 @@
-> この記事は[Yeah!!](https://ja.wikipedia.org/wiki/Yeah!!)から翻訳されています。
+> この記事は[海のYeah!!](https://ja.wikipedia.org/wiki/海のYeah!!)から翻訳されています。
 
 
 『**海のYeah\!\!**』（うみのイェー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。ちょうどデビュー20周年となる[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")に発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

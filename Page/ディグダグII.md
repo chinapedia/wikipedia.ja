@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ディグダグII](https://ja.wikipedia.org/wiki/ディグダグII)から翻訳されています。
 
 
 『**ディグダグII**』（ディグダグ・ツー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")に日本の[ナムコから稼働された](../Page/バンダイナムコエンターテインメント.md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[固定画面アクションゲーム](../Page/アクションゲーム.md "wikilink")。

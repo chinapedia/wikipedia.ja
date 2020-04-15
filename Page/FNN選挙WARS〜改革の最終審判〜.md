@@ -1,4 +1,4 @@
-> この記事は[FNNWARS](https://ja.wikipedia.org/wiki/FNNWARS)から翻訳されています。
+> この記事は[FNN選挙WARS〜改革の最終審判〜](https://ja.wikipedia.org/wiki/FNN選挙WARS〜改革の最終審判〜)から翻訳されています。
 
 
 『**FNN選挙WARS〜改革の最終審判〜**』（エフエヌエヌ せんきょウォーズ かいかくのさいしゅうしんぱん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN系列](../Page/フジニュースネットワーク.md "wikilink")）で[2005年](../Page/2005年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に放送された[選挙特別番組](../Page/選挙特別番組.md "wikilink")。タイトルは『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』をもじっている。

@@ -1,4 +1,4 @@
-> この記事は[ROUND3](https://ja.wikipedia.org/wiki/ROUND3)から翻訳されています。
+> この記事は[局アナバトルROUND3](https://ja.wikipedia.org/wiki/局アナバトルROUND3)から翻訳されています。
 
 
 **局アナバトルROUND3**（きょくアナバトル ラウンド スリー）は、[2004年](../Page/2004年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に放送された[中国](../Page/中国地方.md "wikilink")・[四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")の[JFN系列の民間](../Page/全国FM放送協議会.md "wikilink")[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")局8社共同制作・ネットの[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

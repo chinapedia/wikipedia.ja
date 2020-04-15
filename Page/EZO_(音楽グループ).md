@@ -1,4 +1,4 @@
-> この記事は[EZO \(\)](https://ja.wikipedia.org/wiki/EZO_\(\))から翻訳されています。
+> この記事は[EZO \(音楽グループ\)](https://ja.wikipedia.org/wiki/EZO_\(音楽グループ\))から翻訳されています。
 
 
 **EZO**（エゾ）は、[星野裕矢](https://ja.wikipedia.org/wiki/星野裕矢 "wikilink")と[矢萩渉](../Page/矢萩渉.md "wikilink")と[武沢侑昂の](../Page/武沢豊.md "wikilink")3人によって結成された音楽ユニット。

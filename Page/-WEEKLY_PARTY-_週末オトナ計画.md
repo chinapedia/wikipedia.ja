@@ -1,4 +1,4 @@
-> この記事は[-WEEKLY PARTY- ](https://ja.wikipedia.org/wiki/-WEEKLY_PARTY-_)から翻訳されています。
+> この記事は[-WEEKLY PARTY- 週末オトナ計画](https://ja.wikipedia.org/wiki/-WEEKLY_PARTY-_週末オトナ計画)から翻訳されています。
 
 
 **-WEEKLY PARTY- 週末オトナ計画**（ウィークリー パーティ しゅうまつおとなけいかく）は、[広島FMで金曜昼に放送されていたワイド](../Page/広島エフエム放送.md "wikilink")[番組である](../Page/ラジオ番組.md "wikilink")。

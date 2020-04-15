@@ -1,4 +1,4 @@
-> この記事は[Ed \(\)](https://ja.wikipedia.org/wiki/Ed_\(\))から翻訳されています。
+> この記事は[Ed \(イラストレーター\)](https://ja.wikipedia.org/wiki/Ed_\(イラストレーター\))から翻訳されています。
 
 
 **Ed**（エド、[1966年](../Page/1966年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") - ）は、日本の[イラストレーター](../Page/イラストレーター.md "wikilink")、[アートディレクター](../Page/アートディレクター.md "wikilink")、[画家](../Page/画家.md "wikilink")。旧名：**Ed TSUWAKI、エドツワキ、**エドワード津脇\[1\]。2019年1月よりEdに改名。

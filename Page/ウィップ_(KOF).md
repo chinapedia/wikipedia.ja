@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[ウィップ \(KOF\)](https://ja.wikipedia.org/wiki/ウィップ_\(KOF\))から翻訳されています。
 
 
 **ウィップ**（Whip）は、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](../Page/SNK_\(2001年設立の企業\).md "wikilink")）の対戦型格闘ゲーム『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空の人物。担当声優は[菊池志穂](../Page/菊池志穂.md "wikilink")。

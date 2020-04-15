@@ -1,4 +1,4 @@
-> この記事は[LR](https://ja.wikipedia.org/wiki/LR)から翻訳されています。
+> この記事は[LRアーレン](https://ja.wikipedia.org/wiki/LRアーレン)から翻訳されています。
 
 
 **LRアーレン**（**LR Ahlen**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")・[アーレンに本拠地を置く](../Page/アーレン_\(ノルトライン＝ヴェストファーレン\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

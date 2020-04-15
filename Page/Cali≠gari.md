@@ -1,4 +1,4 @@
-> この記事は[Caligari](https://ja.wikipedia.org/wiki/Caligari)から翻訳されています。
+> この記事は[Cali≠gari](https://ja.wikipedia.org/wiki/Cali≠gari)から翻訳されています。
 
 
 **cali≠gari\[1\]**（カリガリ）は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MAZE](https://ja.wikipedia.org/wiki/MAZE)から翻訳されています。
+> この記事は[MAZE☆爆熱時空](https://ja.wikipedia.org/wiki/MAZE☆爆熱時空)から翻訳されています。
 
 
 『**MAZE☆爆熱時空**』（メイズばくねつじくう）は、[あかほりさとる](../Page/あかほりさとる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")シリーズ。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")より発刊された\[1\]。のちに[アニメ](../Page/アニメ.md "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、音声ドラマ化もされる。あかほりによると、『[オズの魔法使い](../Page/オズの魔法使い.md "wikilink")』をもとにした作品とされている\[2\]。

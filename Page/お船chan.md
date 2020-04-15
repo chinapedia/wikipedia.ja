@@ -1,4 +1,4 @@
-> この記事は[chan](https://ja.wikipedia.org/wiki/chan)から翻訳されています。
+> この記事は[お船chan](https://ja.wikipedia.org/wiki/お船chan)から翻訳されています。
 
 
 **お船**（おふね、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月18日](../Page/3月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女子[プロレスラー](../Page/プロレスラー.md "wikilink")。[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")（手作り村）出身。現役時代は[KAIENTAI DOJO所属](../Page/KAIENTAI_DOJO.md "wikilink")。『お船』は[リングネーム](../Page/リングネーム.md "wikilink")で、本名は非公開であった。

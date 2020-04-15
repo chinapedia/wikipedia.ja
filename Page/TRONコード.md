@@ -1,4 +1,4 @@
-> この記事は[TRON](https://ja.wikipedia.org/wiki/TRON)から翻訳されています。
+> この記事は[TRONコード](https://ja.wikipedia.org/wiki/TRONコード)から翻訳されています。
 
 
 **TRONコード**（トロンコード）とは、[TRONプロジェクト](../Page/TRONプロジェクト.md "wikilink")で使用されている[文字コード](../Page/文字コード.md "wikilink")である。TRON多国語言語環境の初期論文は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表され（「TAD言語環境と多国語対応」）、以来主に[BTRON](../Page/BTRON.md "wikilink")で利用されてきた。

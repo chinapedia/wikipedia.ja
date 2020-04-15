@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THEランク](https://ja.wikipedia.org/wiki/THEランク)から翻訳されています。
 
 
 『**THEランク**』（ザ・ランク）は、[2005年](../Page/2005年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")（火曜） 19:00 - 19:54に[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）で放送された単発の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

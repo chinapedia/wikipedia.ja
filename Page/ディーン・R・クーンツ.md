@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ディーン・R・クーンツ](https://ja.wikipedia.org/wiki/ディーン・R・クーンツ)から翻訳されています。
 
 
 **ディーン・レイ・クーンツ**（Dean Ray Koontz、[1945年](../Page/1945年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")出身の[作家](../Page/作家.md "wikilink")。[SF小説](https://ja.wikipedia.org/wiki/SF小説 "wikilink")から[ホラー](../Page/ホラー小説.md "wikilink")、[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")、[サスペンス](../Page/サスペンス.md "wikilink")などジャンルミックスした手法で80年代から現在に至るまでベストセラー作家であり続けている。また小説家としてだけではなく、詩作や児童向け書籍の執筆、[映画](../Page/映画.md "wikilink")の[脚本](../Page/脚本.md "wikilink")なども手がけている。

@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTファシリティーズ](https://ja.wikipedia.org/wiki/NTTファシリティーズ)から翻訳されています。
 
 
 [324px](https://ja.wikipedia.org/wiki/ファイル:Haneda_Airport_Terminal2_MarketPlace.jpg "wikilink")

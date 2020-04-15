@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKにおける選挙報道](https://ja.wikipedia.org/wiki/NHKにおける選挙報道)から翻訳されています。
 
 
 NHK（[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）における**選挙報道**（せんきょほうどう）は、国政選挙ならびに都道府県知事選挙といった、注目される選挙の開票状況を伝える報道体制を記す。

@@ -1,4 +1,4 @@
-> この記事は[BELIEVE \(\)](https://ja.wikipedia.org/wiki/BELIEVE_\(\))から翻訳されています。
+> この記事は[BELIEVE \(杉本竜一の曲\)](https://ja.wikipedia.org/wiki/BELIEVE_\(杉本竜一の曲\))から翻訳されています。
 
 
 『**BELIEVE**』（ビリーヴ）は、[杉本竜一](../Page/杉本竜一.md "wikilink")が作詞・作曲した楽曲。[NHK番組](../Page/NHK総合テレビジョン.md "wikilink")「[生きもの地球紀行](../Page/生きもの地球紀行.md "wikilink")」の3代目エンディングテーマとして、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表された。歌はエンジェルスハーモニー。学校の合唱、特に[卒園式・卒業式の歌として歌われる](../Page/卒業式.md "wikilink")\[1\]。
@@ -15,7 +15,9 @@
 
 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ、[V6がカバーしたものが出演する](../Page/V6_\(グループ\).md "wikilink")『[学校へ行こう\!MAX](../Page/学校へ行こう!MAX.md "wikilink")』のエンディングテーマとして使用され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")発売のシングル『[LIGHT IN YOUR HEART/Swing\!](https://ja.wikipedia.org/wiki/LIGHT_IN_YOUR_HEART/Swing! "wikilink")』の通常盤に収録された。
 
-[2017年](../Page/2017年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")から[1月15日](../Page/1月15日.md "wikilink")に[味の素](../Page/味の素.md "wikilink")の[クノールカップスープのプロモーションの一環としてセンター試験を控える受験生への応援テレビCM](../Page/クノール_\(食品ブランド\).md "wikilink")「スープは応援歌篇」として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列で1月14日9時より放送された\[2\]\[3\]。
+[May J.のカバー版は](https://ja.wikipedia.org/wiki/May_J. "wikilink")[2014年](../Page/2014年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")付の「週間 [USEN](../Page/USEN.md "wikilink") HIT J-POPランキング」で1位を獲得している\[2\]。
+
+[2017年](../Page/2017年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")から[1月15日](../Page/1月15日.md "wikilink")に[味の素](../Page/味の素.md "wikilink")の[クノールカップスープのプロモーションの一環としてセンター試験を控える受験生への応援テレビCM](../Page/クノール_\(食品ブランド\).md "wikilink")「スープは応援歌篇」として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列で1月14日9時より放送された\[3\]\[4\]。
 
 ## テレビドラマ、テレビアニメ等での使用
 
@@ -41,8 +43,13 @@
 
   - 教育芸術社発行　小学生の音楽5
 
+## 外部リンク
+
+  - \- May J.のカバー
+
 [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:学校唱歌](https://ja.wikipedia.org/wiki/Category:学校唱歌 "wikilink") [Category:日本の合唱曲](https://ja.wikipedia.org/wiki/Category:日本の合唱曲 "wikilink") [Category:1998年の楽曲](https://ja.wikipedia.org/wiki/Category:1998年の楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.  「100年の音楽【Believe】」　[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系　2013年3月15日放送
-2.  [センター試験当日限定！受験生応援TV-CM放映“スープは応援歌。”「60万人の応援歌」篇(60秒)｜プレスリリース配信サービス【＠Press：アットプレス】](https://www.atpress.ne.jp/news/119686)
-3.  [頑張る受験生を温朝食で応援！ Knorr® クノール 味の素株式会社](https://www.ajinomoto.co.jp/knorr/campaign/onchoshoku/jyuken_ouen/)
+2.  [May J.、合唱曲カバー「Believe」がUSEN1位](https://www.barks.jp/news/?id=1000101170)、BARKS、2014年3月7日 23時48分。
+3.  [センター試験当日限定！受験生応援TV-CM放映“スープは応援歌。”「60万人の応援歌」篇(60秒)｜プレスリリース配信サービス【＠Press：アットプレス】](https://www.atpress.ne.jp/news/119686)
+4.  [頑張る受験生を温朝食で応援！ Knorr® クノール 味の素株式会社](https://www.ajinomoto.co.jp/knorr/campaign/onchoshoku/jyuken_ouen/)

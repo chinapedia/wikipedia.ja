@@ -1,4 +1,4 @@
-> この記事は[DOORS \(\)](https://ja.wikipedia.org/wiki/DOORS_\(\))から翻訳されています。
+> この記事は[DOORS \(テレビ番組\)](https://ja.wikipedia.org/wiki/DOORS_\(テレビ番組\))から翻訳されています。
 
 
 『**DOORS**』（**ドアーズ**）は、かつて[TBSで放送されていた](../Page/TBSテレビ.md "wikilink")[ゲームアトラクション](../Page/ゲーム番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。本項では[2005年](../Page/2005年.md "wikilink")に放送された第1回を取り上げる。

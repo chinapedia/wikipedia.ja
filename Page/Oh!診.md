@@ -1,4 +1,4 @@
-> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+> この記事は[Oh!診](https://ja.wikipedia.org/wiki/Oh!診)から翻訳されています。
 
 
 『**Oh\!診**』（オー\! しん）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")まで[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）で毎週[金曜日](../Page/金曜日.md "wikilink")午前11時から放送されていた[日本テレビ報道局番組制作部による医療](../Page/日本テレビ放送網.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[日本医師会](../Page/日本医師会.md "wikilink")と[製薬](../Page/製薬.md "wikilink")メーカー各社の協賛・提供。CS放送の[ncn日本テレビケーブルニュースでも時差ネットで放送されていた](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")。

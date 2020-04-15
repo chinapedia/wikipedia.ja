@@ -1,4 +1,4 @@
-> この記事は[AKT](https://ja.wikipedia.org/wiki/AKT)から翻訳されています。
+> この記事は[AKTスーパーニュース](https://ja.wikipedia.org/wiki/AKTスーパーニュース)から翻訳されています。
 
 
 『**AKTスーパーニュース**』（エイケイティースーパーニュース）は、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")で放送されていた[夕](../Page/夕.md "wikilink")方の[秋田県](../Page/秋田県.md "wikilink")向け[ローカルワイドニュース番組](../Page/報道番組.md "wikilink")。

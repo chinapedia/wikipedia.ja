@@ -1,4 +1,4 @@
-> この記事は[YTS](https://ja.wikipedia.org/wiki/YTS)から翻訳されています。
+> この記事は[YTSイブニングワイド](https://ja.wikipedia.org/wiki/YTSイブニングワイド)から翻訳されています。
 
 
 『**YTSイブニングワイド**』は、[山形テレビ](../Page/山形テレビ.md "wikilink")が[1979年](../Page/1979年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送していた、（[ニュース](../Page/ニュース.md "wikilink")を包含した）平日夕方の[山形県](../Page/山形県.md "wikilink")向け[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

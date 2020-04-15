@@ -1,4 +1,4 @@
-> この記事は[YB](https://ja.wikipedia.org/wiki/YB)から翻訳されています。
+> この記事は[ヤマハ・YB](https://ja.wikipedia.org/wiki/ヤマハ・YB)から翻訳されています。
 
 
 **ヤマハ・YB**（ワイビー）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売している[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種である。

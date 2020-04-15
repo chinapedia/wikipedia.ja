@@ -1,4 +1,4 @@
-> この記事は[FIVE \(\)](https://ja.wikipedia.org/wiki/FIVE_\(\))から翻訳されています。
+> この記事は[FIVE \(バンド\)](https://ja.wikipedia.org/wiki/FIVE_\(バンド\))から翻訳されています。
 
 
 **Fi<span style="font-size:120%;">Ⅴ</span>e**（ファイブ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の4人編成[バンドで](../Page/バンド_\(音楽\).md "wikilink")、[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内のユニットの一つ。

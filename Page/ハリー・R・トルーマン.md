@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ハリー・R・トルーマン](https://ja.wikipedia.org/wiki/ハリー・R・トルーマン)から翻訳されています。
 
 
 [Sthelensharrytruman.jpg](https://ja.wikipedia.org/wiki/File:Sthelensharrytruman.jpg "fig:Sthelensharrytruman.jpg") **ハリー・ランダル・トルーマン**（Harry Randall Truman, [1896年](../Page/1896年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月18日](../Page/5月18日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ワシントン州](../Page/ワシントン州.md "wikilink")[セント・ヘレンズ山](../Page/セント・ヘレンズ山.md "wikilink")近郊の湖畔に居住していた[旅館](../Page/旅館.md "wikilink")『スピリットレイク・ロッジ』のオーナーである。

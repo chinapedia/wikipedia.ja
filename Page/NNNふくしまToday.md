@@ -1,4 +1,4 @@
-> この記事は[NNNToday](https://ja.wikipedia.org/wiki/NNNToday)から翻訳されています。
+> この記事は[NNNふくしまToday](https://ja.wikipedia.org/wiki/NNNふくしまToday)から翻訳されています。
 
 
 『**ふくしまToday**』（ふくしまトゥデイ）は、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")で[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで放送されたローカルワイド[ニュース番組](../Page/報道番組.md "wikilink")。後に「[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")」の冠が付く。

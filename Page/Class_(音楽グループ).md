@@ -1,4 +1,4 @@
-> この記事は[Class \(\)](https://ja.wikipedia.org/wiki/Class_\(\))から翻訳されています。
+> この記事は[Class \(音楽グループ\)](https://ja.wikipedia.org/wiki/Class_\(音楽グループ\))から翻訳されています。
 
 
 **class**（**クラス**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[デュオ](../Page/デュオ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")。デビュー曲の「[夏の日の1993](../Page/夏の日の1993.md "wikilink")」は販売枚数170万枚を超える[ミリオンヒットを記録した](../Page/ミリオンセラー.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に解散したが、[2003年](../Page/2003年.md "wikilink")に再結成。さらに[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より、[日浦孝則](../Page/日浦孝則.md "wikilink")に代わり、class所属の[GMAエンタープライズ](https://ja.wikipedia.org/wiki/GMAエンタープライズ "wikilink")代表取締役である[岡崎公聡](../Page/岡崎公聡.md "wikilink")がメンバーとなり再始動したが、[2009年](../Page/2009年.md "wikilink")に[津久井克行](../Page/津久井克行.md "wikilink")が死去したことにより活動休止となった。

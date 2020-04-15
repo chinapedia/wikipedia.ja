@@ -38,4 +38,4 @@
 
   - [アメリカ航空宇宙局広報課によるSTS-1の紹介ページ](http://www-pao.ksc.nasa.gov/kscpao/chron/sts-1.htm)（英語）
 
-[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1981年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1981年の宇宙飛行 "wikilink") [Category:1981年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1981年のアメリカ合衆国 "wikilink") [Category:1981年4月](https://ja.wikipedia.org/wiki/Category:1981年4月 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:1981年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1981年の宇宙飛行 "wikilink") [Category:1981年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1981年のアメリカ合衆国 "wikilink") [Category:1981年4月](https://ja.wikipedia.org/wiki/Category:1981年4月 "wikilink")

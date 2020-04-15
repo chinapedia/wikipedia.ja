@@ -1,4 +1,4 @@
-> この記事は[120 \120Stories](https://ja.wikipedia.org/wiki/120_\120Stories)から翻訳されています。
+> この記事は[120円の春 \120Stories](https://ja.wikipedia.org/wiki/120円の春_\120Stories)から翻訳されています。
 
 
 『**120円の春 ¥120Stories**』（ひゃくにじゅうえんのはる ひゃくにじゅうえんストーリーズ）は、[インターチャネルが](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")2005年2月24日に[PlayStation 2用として発売したハートフルミニノベルである](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象。

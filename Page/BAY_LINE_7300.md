@@ -23,7 +23,7 @@
 
 通常の放送の他に年数回スペシャルプログラムとして、[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")の「STUDIO K・WEST」から『BAY LINE 7300 from K・WEST』として公開生放送を行っていた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月で競合番組である、[FM-FUJIの](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")『[RADIO-izm](../Page/RADIO-izm.md "wikilink")』や[J-WAVE](../Page/J-WAVE.md "wikilink")の『[GROOVE LINE](../Page/GROOVE_LINE.md "wikilink")』が電リクを廃止し、当番組が関東FM局の平日夕方枠で唯一の電リク番組となった。しかし当番組も[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって番組を終了することとなり『オール電リク』時代から18年にわたる電リクの歴史に終止符を打った。これで関東FM各局から、夕方の電リク番組がすべて姿を消したことになった。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月で競合番組である、[FM-FUJIの](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")『[RADIO-izm](../Page/RADIO-izm.md "wikilink")』や[J-WAVE](../Page/J-WAVE.md "wikilink")の『[GROOVE LINE](../Page/GROOVE_LINE.md "wikilink")』が電リクを廃止し、当番組が関東FM局の平日夕方枠で唯一の電リク番組となった。しかし当番組も[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって番組を終了することとなり『オール電リク』時代から18年にわたる7300シリーズの歴史に終止符を打った。これで関東FM各局から、夕方の電リク番組がすべて姿を消したことになった。
 
 2009年[4月1日](../Page/4月1日.md "wikilink")より、番組タイトル・形態を一新し、『**BAY LINE GO\!GO\!**』（ベイライン ゴー ゴー）として装いも新たに再出発。なお、『7300』時代のパーソナリティは金曜日担当だった[高橋正純](../Page/高橋正純.md "wikilink")を除き『GO\!GO\!』で続投している\[3\]。
 

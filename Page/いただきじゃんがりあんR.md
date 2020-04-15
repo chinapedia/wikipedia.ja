@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[いただきじゃんがりあんR](https://ja.wikipedia.org/wiki/いただきじゃんがりあんR)から翻訳されています。
 
 
 『**いただきじゃんがりあんR**』（いただきじゃんがりあんアール）は、[すたじおみりす](../Page/すたじおみりす.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[麻雀](../Page/麻雀.md "wikilink")ゲームである。

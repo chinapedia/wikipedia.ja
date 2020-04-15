@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[Iモーション](https://ja.wikipedia.org/wiki/Iモーション)から翻訳されています。
 
 
 **iモーション**（アイモーション、*i-motion*）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の第3世代携帯電話 [FOMA](../Page/FOMA.md "wikilink")で利用での動画再生機能、および動画配信サービスの名称である。

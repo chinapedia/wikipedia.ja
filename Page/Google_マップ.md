@@ -1,4 +1,4 @@
-> この記事は[Google ](https://ja.wikipedia.org/wiki/Google_)から翻訳されています。
+> この記事は[Google マップ](https://ja.wikipedia.org/wiki/Google_マップ)から翻訳されています。
 
 
 **Google マップ**（グーグル マップ、）は、[Google](../Page/Google.md "wikilink")がインターネットを通して提供している地図、ローカル（地域）検索サービス。広義で「[GIS](../Page/地理情報システム.md "wikilink")」という分野のソフト・サービスであり、その中のWebGISにあたる。

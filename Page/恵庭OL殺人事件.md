@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[恵庭OL殺人事件](https://ja.wikipedia.org/wiki/恵庭OL殺人事件)から翻訳されています。
 
 
 **恵庭OL殺人事件**（えにわオーエルさつじんじけん）は、[2000年](../Page/2000年.md "wikilink")3月に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[恵庭市](../Page/恵庭市.md "wikilink")で発生した殺人事件。

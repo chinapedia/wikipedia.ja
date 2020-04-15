@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ホンダ・K型エンジン](https://ja.wikipedia.org/wiki/ホンダ・K型エンジン)から翻訳されています。
 
 
 [Honda_K24A_engine_001.JPG](https://ja.wikipedia.org/wiki/File:Honda_K24A_engine_001.JPG "fig:Honda_K24A_engine_001.JPG") **K型エンジン**（Kがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[中型車種用の](../Page/Dセグメント.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

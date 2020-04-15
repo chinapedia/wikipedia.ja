@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[レクサス・SC](https://ja.wikipedia.org/wiki/レクサス・SC)から翻訳されています。
 
 
 [代替文=](https://ja.wikipedia.org/wiki/ファイル:Lexus_SC430_\(UZZ40\)_front.JPG "wikilink") **SC**（エスシー、Lexus SC ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」から、[1991年](../Page/1991年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にかけて販売されていた[クーペ](../Page/クーペ.md "wikilink")（初代モデル）、もしくは[コンバーチブル](../Page/オープンカー.md "wikilink")（2代目モデル）である。

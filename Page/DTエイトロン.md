@@ -1,4 +1,4 @@
-> この記事は[DT](https://ja.wikipedia.org/wiki/DT)から翻訳されています。
+> この記事は[DTエイトロン](https://ja.wikipedia.org/wiki/DTエイトロン)から翻訳されています。
 
 
 『**DTエイトロン**』（ディーティーエイトロン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")から[11月6日](../Page/11月6日.md "wikilink")まで[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全26話。ラジオドラマ『[DTヴァンパイア](https://ja.wikipedia.org/wiki/DTヴァンパイア "wikilink")』の設定に基づき製作された\[1\]。

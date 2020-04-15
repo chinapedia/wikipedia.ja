@@ -1,4 +1,4 @@
-> この記事は[NARUTO --](https://ja.wikipedia.org/wiki/NARUTO_--)から翻訳されています。
+> この記事は[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-)から翻訳されています。
 
 
 『**NARUTO -ナルト-**』（ナルト）は、[岸本斉史](../Page/岸本斉史.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。またこれを原作とする[アニメ](../Page/アニメ.md "wikilink")、[ゲーム](../Page/ゲーム.md "wikilink")などの作品。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて[1999年](../Page/1999年.md "wikilink")43号から[2014年](../Page/2014年.md "wikilink")50号まで連載された。全700話で、[単行本](../Page/単行本.md "wikilink")は全72巻と外伝1巻。

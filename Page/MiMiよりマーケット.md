@@ -1,4 +1,4 @@
-> この記事は[MiMi](https://ja.wikipedia.org/wiki/MiMi)から翻訳されています。
+> この記事は[MiMiよりマーケット](https://ja.wikipedia.org/wiki/MiMiよりマーケット)から翻訳されています。
 
 
 『**MiMiよりマーケット**』（ミミよりマーケット）は、[仙台放送](../Page/仙台放送.md "wikilink")で放送されている[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")番組である。

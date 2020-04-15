@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNS大感謝祭](https://ja.wikipedia.org/wiki/FNS大感謝祭)から翻訳されています。
 
 
 **FNS大感謝祭**（えふえぬえすだいかんしゃさい）は、[1991年](../Page/1991年.md "wikilink")～[1993年](../Page/1993年.md "wikilink")の[大晦日](../Page/大晦日.md "wikilink")に[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で[生放送](../Page/生放送.md "wikilink")された[特別番組](../Page/特別番組.md "wikilink")。正式タイトルは『**'××総決算\! 全部見せますFNS大感謝祭**』（ - そうけっさん\! ぜんぶみせます - ）で、『**'××**』には西暦下2桁の数字が入る。
@@ -122,6 +122,5 @@
 
 ## 外部リンク
 
-  - [FNS大感謝祭](http://www.geocities.co.jp/Hollywood/3182/fns.html)
-
+  -
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink") [Category:かつて存在したフジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したフジテレビの年末年始特番 "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink")

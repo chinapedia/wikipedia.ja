@@ -1,4 +1,4 @@
-> この記事は[WEED](https://ja.wikipedia.org/wiki/WEED)から翻訳されています。
+> この記事は[WEEDしらおい](https://ja.wikipedia.org/wiki/WEEDしらおい)から翻訳されています。
 
 
 **WEEDしらおい**（ウィードしらおい）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[白老郡](../Page/白老郡.md "wikilink")[白老町](../Page/白老町.md "wikilink")に本拠を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球の](../Page/日本野球連盟.md "wikilink")[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。[ヴィガしらおい](../Page/ヴィガしらおい.md "wikilink")も参照。

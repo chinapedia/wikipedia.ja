@@ -1,4 +1,4 @@
-> この記事は[Mr.\&Mrs. ](https://ja.wikipedia.org/wiki/Mr.\&Mrs._)から翻訳されています。
+> この記事は[Mr.\&Mrs. スミス](https://ja.wikipedia.org/wiki/Mr.\&Mrs._スミス)から翻訳されています。
 
 
 『**Mr.\&Mrs. スミス**』（ミスターアンドミセス・スミス、原題: *Mr. & Mrs. Smith*）は、[2005年の](../Page/2005年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。

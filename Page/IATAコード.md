@@ -1,4 +1,4 @@
-> この記事は[IATA](https://ja.wikipedia.org/wiki/IATA)から翻訳されています。
+> この記事は[IATAコード](https://ja.wikipedia.org/wiki/IATAコード)から翻訳されています。
 
 
 **IATAコード**は[国際航空運送協会](../Page/国際航空運送協会.md "wikilink")（IATA）の規定している空運に関わる1文字から4文字のコード。コードが付けられているのは空港や航空会社、航空機の機種など多岐にわたる。以下はその一部。

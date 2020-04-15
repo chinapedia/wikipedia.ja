@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ホンダ・J型エンジン](https://ja.wikipedia.org/wiki/ホンダ・J型エンジン)から翻訳されています。
 
 
 **J型エンジン**（Jがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されている[大型車種用の](../Page/Eセグメント.md "wikilink")[V型6気筒](../Page/V型6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[PL](https://ja.wikipedia.org/wiki/PL)から翻訳されています。
+> この記事は[逆転のPL](https://ja.wikipedia.org/wiki/逆転のPL)から翻訳されています。
 
 
 **逆転のPL**（ぎゃくてんのPL）とは、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）の[第60回全国高等学校野球選手権大会](../Page/第60回全国高等学校野球選手権大会.md "wikilink")で、当時大阪府の[私学7強](https://ja.wikipedia.org/wiki/私学7強 "wikilink")の一角であった[PL学園高等学校が](../Page/PL学園中学校・高等学校.md "wikilink")2試合続けて奇跡的な逆転劇を起こし、初優勝した時についた異名である。

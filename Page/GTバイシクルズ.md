@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[GTバイシクルズ](https://ja.wikipedia.org/wiki/GTバイシクルズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_Bicycles_Logo.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_Zaskar_Pro_Carbon_2008.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2011_GT_GTR_SERIES_4.0_Tx-re.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2013_GT_Karakolam3.0_red.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_PERFORMER_26_2012.JPG "wikilink")

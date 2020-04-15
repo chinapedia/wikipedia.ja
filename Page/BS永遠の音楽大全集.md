@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS永遠の音楽大全集](https://ja.wikipedia.org/wiki/BS永遠の音楽大全集)から翻訳されています。
 
 
 『**BS永遠の音楽大全集**』（ビーエスえいえんの おんがく だいぜんしゅう）は、[NHK-BSハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、[BS2で](../Page/NHK衛星第2テレビジョン.md "wikilink")2005年度から放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。

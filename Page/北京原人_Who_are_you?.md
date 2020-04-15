@@ -1,4 +1,4 @@
-> この記事は[ Who are you\?](https://ja.wikipedia.org/wiki/_Who_are_you\?)から翻訳されています。
+> この記事は[北京原人 Who are you\?](https://ja.wikipedia.org/wiki/北京原人_Who_are_you\?)から翻訳されています。
 
 
 『**北京原人 Who are you?**』（ペキンげんじん フーアーユー?）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。[東映](../Page/東映.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")、[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")が共同製作し、東映系で配給された。
@@ -13,7 +13,7 @@
 
 「Who are you?」というサブタイトルでもあるキャッチコピーには、北京原人を演じた俳優はいったい誰だろうというシークレットの意味も込められている。北京原人役の俳優が誰であるかは映画公開まで秘密とされてきたが、映画に出演している俳優の一人が（公開前に）トーク番組で本田であることを暴露してしまった。後に本田は『[笑っていいとも](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")に出演したときに「（北京原人の）鳴き声が『ウパー』になったのは監督の一存なんです」としみじみと[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")に語った。
 
-同時期に公開された『[タイタニック](../Page/タイタニック_\(1997年の映画\).md "wikilink")』、『[メン・イン・ブラック](../Page/メン・イン・ブラック_\(映画\).md "wikilink")』などの強力な競合作の前に、興行成績も芳しいものではなく、採算割れが発生した。当初より上映日数が縮小され、当作品上映期間終了後の2月公開予定だった『[極道の妻たち 決着](https://ja.wikipedia.org/wiki/極道の妻たち_決着 "wikilink")』が1月17日公開に繰り上げになるなどの東映系の上映スケジュール変更が発生した。角川春樹によれば、監督の佐藤純彌が失敗の責任を負わされて、干された状態になったという\[3\]。
+同時期に公開された『[タイタニック](../Page/タイタニック_\(1997年の映画\).md "wikilink")』、『[メン・イン・ブラック](../Page/メン・イン・ブラック_\(映画\).md "wikilink")』などの強力な競合作の前に、興行成績も芳しいものではなく、採算割れが発生した。当初より上映日数が縮小され、当作品上映期間終了後の2月公開予定だった『[極道の妻たち 決着](https://ja.wikipedia.org/wiki/極道の妻たち_決着 "wikilink")』が1月17日公開に繰り上げになるなどの東映系の上映スケジュール変更が発生した。角川春樹によれば、監督の佐藤純彌が失敗の責任を負わされて、その後映画業界から「佐藤は監督として終わった人間」という烙印を押される事となった\[3\]。
 
 地上波では、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』で[1999年](../Page/1999年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に初放映され、視聴率は11.5%であった。
 
@@ -89,7 +89,7 @@
 
   -
   -
-[Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:テレビ朝日製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作の映画 "wikilink") [Category:東映製作の映画作品](https://ja.wikipedia.org/wiki/Category:東映製作の映画作品 "wikilink") [Category:東北新社製作の映画](https://ja.wikipedia.org/wiki/Category:東北新社製作の映画 "wikilink") [Category:佐藤純彌の監督映画](https://ja.wikipedia.org/wiki/Category:佐藤純彌の監督映画 "wikilink") [Category:早坂暁の脚本映画](https://ja.wikipedia.org/wiki/Category:早坂暁の脚本映画 "wikilink") [Category:原始人を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:原始人を題材とした映画作品 "wikilink")
+[Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:東映特撮映画](https://ja.wikipedia.org/wiki/Category:東映特撮映画 "wikilink") [Category:テレビ朝日製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作の映画 "wikilink") [Category:東北新社製作の映画](https://ja.wikipedia.org/wiki/Category:東北新社製作の映画 "wikilink") [Category:佐藤純彌の監督映画](https://ja.wikipedia.org/wiki/Category:佐藤純彌の監督映画 "wikilink") [Category:早坂暁の脚本映画](https://ja.wikipedia.org/wiki/Category:早坂暁の脚本映画 "wikilink") [Category:原始人を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:原始人を題材とした映画作品 "wikilink")
 
 1.  北京原人の骨が太平洋戦争開戦の日に紛失するというミステリー
 2.  本作から9年後の[2006年](../Page/2006年.md "wikilink")に[DJ OZMAが](../Page/DJ_OZMA.md "wikilink")[紅白歌合戦でのパフォーマンスで露わにしたものと雰囲気は同じである](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦#DJ_OZMAのパフォーマンス "wikilink")。

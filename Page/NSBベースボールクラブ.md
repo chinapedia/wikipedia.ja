@@ -1,4 +1,4 @@
-> この記事は[NSB](https://ja.wikipedia.org/wiki/NSB)から翻訳されています。
+> この記事は[NSBベースボールクラブ](https://ja.wikipedia.org/wiki/NSBベースボールクラブ)から翻訳されています。
 
 
 **NSBベースボールクラブ**は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームである](../Page/クラブチーム_\(社会人野球\).md "wikilink")。戦前の創立で、近畿社会人野球の生き証人とも言える存在の名門チームである。

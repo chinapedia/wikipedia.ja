@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[アメリカン・ヒストリーX](https://ja.wikipedia.org/wiki/アメリカン・ヒストリーX)から翻訳されています。
 
 
 『**アメリカン・ヒストリーX**』（*American History X*）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に制作された[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。

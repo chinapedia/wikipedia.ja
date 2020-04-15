@@ -1,4 +1,4 @@
-> この記事は[Pascal](https://ja.wikipedia.org/wiki/Pascal)から翻訳されています。
+> この記事は[本物のプログラマはPascalを使わない](https://ja.wikipedia.org/wiki/本物のプログラマはPascalを使わない)から翻訳されています。
 
 
 『**本物のプログラマはPascalを使わない**』（ほんもののプログラマはパスカルをつかわない。原題: ）は、1982年に執筆された[プログラマ](../Page/プログラマ.md "wikilink")に関する[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")。
@@ -21,7 +21,7 @@
   - 本物のプログラマは、そのことにより**20 ナノ秒も**ループ実行時間が改善されるならば、自己書き換えプログラミング・コードを記述する。
   - ソース[デバッガ](../Page/デバッガ.md "wikilink")？ - 「本物のプログラマは[コアダンプ](../Page/コアダンプ.md "wikilink")を読むものである」
   - 「プログラム全部を、本物のプログラマは印字するものである」そして、彼のオフィスの平らなところは全て年代順になるようにリストを積み上げておく。
-  - 「本物のプログラマは」妻の名前は覚えていなくとも、「[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")コードや[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")コードは忘れない」
+  - 「本物のプログラマは」妻の名前は覚えていなくとも、「[ASCII](../Page/ASCII.md "wikilink")コードや[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")コードは忘れない」
 
 これらのうちのいくつかは、こんにちでは古びてしまっているが、変わらず重要なこともいくつかある。たとえば、デバッガは使うとしても、クラッシュを再現する方法がわからなければ、唯一残されたコアダンプを使って問題を突き止めなければならない、ということは変わっていない。
 

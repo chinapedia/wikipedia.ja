@@ -1,4 +1,4 @@
-> この記事は[Ena \(\)](https://ja.wikipedia.org/wiki/Ena_\(\))から翻訳されています。
+> この記事は[Ena \(音響効果\)](https://ja.wikipedia.org/wiki/Ena_\(音響効果\))から翻訳されています。
 
 
 **eNa**（いいな）は、音響マン山田稔が起こした[音響効果制作および音響制作を主な事業内容とする](../Page/効果音.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業である。

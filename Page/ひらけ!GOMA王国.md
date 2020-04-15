@@ -1,4 +1,4 @@
-> この記事は[!GOMA](https://ja.wikipedia.org/wiki/!GOMA)から翻訳されています。
+> この記事は[ひらけ!GOMA王国](https://ja.wikipedia.org/wiki/ひらけ!GOMA王国)から翻訳されています。
 
 
 『**ひらけ\!GOMA王国**』（ひらけ ゴマおうこく）は、[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局の関西テレビでは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで、毎週火曜 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

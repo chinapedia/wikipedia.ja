@@ -1,4 +1,4 @@
-> この記事は[YIVO](https://ja.wikipedia.org/wiki/YIVO)から翻訳されています。
+> この記事は[YIVOユダヤ調査研究所](https://ja.wikipedia.org/wiki/YIVOユダヤ調査研究所)から翻訳されています。
 
 
 **YIVO**（イーヴォ）は[1925年](../Page/1925年.md "wikilink")、[ユダヤ教](../Page/ユダヤ教.md "wikilink")文化の一大中心地であった[ポーランド](../Page/ポーランド.md "wikilink")の[ヴィルノ](../Page/ヴィリニュス.md "wikilink")（現[リトアニア](../Page/リトアニア.md "wikilink")領ヴィリニュス）において、[マックス・ヴァインライヒ](../Page/マックス・ヴァインライヒ.md "wikilink")らにより**イディッシュ科学研究所**（ユダヤ学研究所） ***Yiddisher Visnshaftlikher Institut*** として設立された。[ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の蛮行を逃れて[1940年](../Page/1940年.md "wikilink")に[アメリカに移ってからは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") **(YIVO)ユダヤ調査研究所** **Institute for Jewish Research** を正式な名称とする組織である。**YIVO**という[イニシャル](../Page/イニシャル.md "wikilink")によってよく知られている。

@@ -1,4 +1,4 @@
-> この記事は[RW](https://ja.wikipedia.org/wiki/RW)から翻訳されています。
+> この記事は[R・W・デイヴィス](https://ja.wikipedia.org/wiki/R・W・デイヴィス)から翻訳されています。
 
 
 **R・W・デイヴィス**（Robert William Davies, [1925年](../Page/1925年.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史学者](https://ja.wikipedia.org/wiki/歴史学者 "wikilink")。専門は、[ロシア](../Page/ロシア.md "wikilink")経済史。[バーミンガム大学](../Page/バーミンガム大学.md "wikilink")ロシア・東欧研究センター名誉教授。

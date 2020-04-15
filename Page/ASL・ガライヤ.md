@@ -1,4 +1,4 @@
-> この記事は[ASL](https://ja.wikipedia.org/wiki/ASL)から翻訳されています。
+> この記事は[ASL・ガライヤ](https://ja.wikipedia.org/wiki/ASL・ガライヤ)から翻訳されています。
 
 
 **ガライヤ**（*Garaiya* ）は[オートバックス・スポーツカー研究所](../Page/オートバックス・スポーツカー研究所.md "wikilink")（ASL）が開発した2ドア[スポーツカー](../Page/スポーツカー.md "wikilink")。

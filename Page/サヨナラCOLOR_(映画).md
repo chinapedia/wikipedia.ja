@@ -1,4 +1,4 @@
-> この記事は[COLOR \(\)](https://ja.wikipedia.org/wiki/COLOR_\(\))から翻訳されています。
+> この記事は[サヨナラCOLOR \(映画\)](https://ja.wikipedia.org/wiki/サヨナラCOLOR_\(映画\))から翻訳されています。
 
 
 『**サヨナラCOLOR**』（サヨナラカラー）は、[竹中直人](../Page/竹中直人.md "wikilink")監督による[2005年の](../Page/2005年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。

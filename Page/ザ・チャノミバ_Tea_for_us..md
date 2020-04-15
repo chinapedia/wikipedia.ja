@@ -1,4 +1,4 @@
-> この記事は[ Tea for us.](https://ja.wikipedia.org/wiki/_Tea_for_us.)から翻訳されています。
+> この記事は[ザ・チャノミバ Tea for us.](https://ja.wikipedia.org/wiki/ザ・チャノミバ_Tea_for_us.)から翻訳されています。
 
 
 『**ザ・チャノミバ Tea for us.**』（ザ・チャノミバ ティー・フォー・アス）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[トーク番組](../Page/トーク番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[コピーライター](../Page/コピーライター.md "wikilink")の[糸井重里](../Page/糸井重里.md "wikilink")。

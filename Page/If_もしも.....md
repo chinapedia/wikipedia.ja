@@ -1,4 +1,4 @@
-> この記事は[If ....](https://ja.wikipedia.org/wiki/If_....)から翻訳されています。
+> この記事は[If もしも....](https://ja.wikipedia.org/wiki/If_もしも....)から翻訳されています。
 
 
 『**If もしも....**』（*If....*）は、[リンゼイ・アンダーソン](../Page/リンゼイ・アンダーソン.md "wikilink")監督による[1968年製作の](../Page/1968年の映画.md "wikilink")[イギリス映画](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")。

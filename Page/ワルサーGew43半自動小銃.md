@@ -1,4 +1,4 @@
-> この記事は[Gew43](https://ja.wikipedia.org/wiki/Gew43)から翻訳されています。
+> この記事は[ワルサーGew43半自動小銃](https://ja.wikipedia.org/wiki/ワルサーGew43半自動小銃)から翻訳されています。
 
 
 **ワルサーGew43半自動小銃**（ワルサーGew43はんじどうしょうじゅう）、**Gewehr 43**（ゲヴェーア・ドライウントフィーアツィヒ、G43, Gew 43）あるいは **Karabiner 43**（カラビーナー・ドライウントフィーアツィヒ、K43, Kar 43）は、[1943年](../Page/1943年.md "wikilink")に[ドイツで採用された](../Page/ナチス・ドイツ.md "wikilink")[ワルサー](../Page/ワルサー.md "wikilink")社の[半自動小銃](https://ja.wikipedia.org/wiki/半自動小銃 "wikilink")である。

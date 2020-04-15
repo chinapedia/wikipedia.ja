@@ -1,4 +1,4 @@
-> この記事は[LEGACIAM](https://ja.wikipedia.org/wiki/LEGACIAM)から翻訳されています。
+> この記事は[レリックアーマーLEGACIAM](https://ja.wikipedia.org/wiki/レリックアーマーLEGACIAM)から翻訳されています。
 
 
 『**レリックアーマーLEGACIAM**』（レリックアーマー レガシアム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された[OVA](../Page/OVA.md "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[JAGAJAGA](https://ja.wikipedia.org/wiki/JAGAJAGA)から翻訳されています。
+> この記事は[JAGAJAGA天国](https://ja.wikipedia.org/wiki/JAGAJAGA天国)から翻訳されています。
 
 
 『**UMKスーパーサタデー JAGA<sup>2</sup>天国**』（ユーエムケースーパーサタデー ジャガジャガてんごく／通称：**JAGA天**）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")で毎週[土曜](../Page/土曜日.md "wikilink") 12時00分 - 12時55分に放送されていた[宮崎県](../Page/宮崎県.md "wikilink")の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。全841回。

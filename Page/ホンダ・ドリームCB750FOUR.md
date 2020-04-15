@@ -1,4 +1,4 @@
-> この記事は[CB750FOUR](https://ja.wikipedia.org/wiki/CB750FOUR)から翻訳されています。
+> この記事は[ホンダ・ドリームCB750FOUR](https://ja.wikipedia.org/wiki/ホンダ・ドリームCB750FOUR)から翻訳されています。
 
 
 **DREAM CB750FOUR**（ドリーム シービーななひゃくごじゅうフォア）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")である。

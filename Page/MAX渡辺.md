@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[MAX渡辺](https://ja.wikipedia.org/wiki/MAX渡辺)から翻訳されています。
 
 
 **MAX渡辺**（マックスわたなべ、本名：**渡辺 誠**、[1962年](../Page/1962年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")\[1\] - ）は日本のプロ[モデラー](../Page/モデラー_\(模型\).md "wikilink")。おもに[ガンプラ](../Page/ガンプラ.md "wikilink")などのロボットキャラクター製作を行う。[ガレージキット](../Page/ガレージキット.md "wikilink")メーカー「[マックスファクトリー](https://ja.wikipedia.org/wiki/マックスファクトリー "wikilink")」代表。[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")卒。
@@ -56,6 +56,8 @@ MAX渡辺が考案し提唱している、[アルコール](https://ja.wikipedia
   - [MAX FACTORY](http://maxfactory.cms.drecom.jp/)
 
   -
+  - [MAX渡辺、ポートレイトドキュメンタリー](https://www.youtube.com/watch?v=CVbefw0fuW4) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
+
 [Category:日本の模型技術者](https://ja.wikipedia.org/wiki/Category:日本の模型技術者 "wikilink")
 
 [Category:モデラー](https://ja.wikipedia.org/wiki/Category:モデラー "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

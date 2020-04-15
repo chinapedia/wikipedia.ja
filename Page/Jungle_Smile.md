@@ -106,7 +106,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
 
   - [MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
       - 高木のみ。[ぜんじろう](../Page/ぜんじろう.md "wikilink")、[高山トモヒロ](../Page/高山トモヒロ.md "wikilink")（当時は[ベイブルース](../Page/ベイブルース.md "wikilink")高山）と共に日曜担当
-  - Jungle Smileのほほん喫茶（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - Jungle Smileのほほん喫茶（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - Jungle Smileちょっとそこまで （[TOKYO FM](../Page/エフエム東京.md "wikilink")）
 
 ## 外部リンク

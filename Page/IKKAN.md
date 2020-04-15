@@ -67,7 +67,7 @@
 
   - [ざわざわ森のがんこちゃん](../Page/ざわざわ森のがんこちゃん.md "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")） - カッパのラッパー
   - [ぞうのババール 〜バドゥのだいぼうけん〜](https://ja.wikipedia.org/wiki/ぞうのババール_〜バドゥのだいぼうけん〜 "wikilink")（[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")） - クロコディルス、ポム、アンディ、オープニング主題歌リードボーカル担当
-  - [青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")）
+  - [青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")）
       - 「[サバイバル](../Page/サバイバル.md "wikilink")」 - ロバート曹長
       - 「[太陽の簒奪者](https://ja.wikipedia.org/wiki/太陽の簒奪者 "wikilink")」 - ラウル
       - 「[闇の守り人](../Page/守り人シリーズ.md "wikilink")」 - ラダール王、物売り

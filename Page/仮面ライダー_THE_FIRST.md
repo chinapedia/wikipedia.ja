@@ -1,4 +1,4 @@
-> この記事は[ THE FIRST](https://ja.wikipedia.org/wiki/_THE_FIRST)から翻訳されています。
+> この記事は[仮面ライダー THE FIRST](https://ja.wikipedia.org/wiki/仮面ライダー_THE_FIRST)から翻訳されています。
 
 
 『**仮面ライダー THE FIRST**』（かめんライダー ザ ファースト）は、[2005年](../Page/2005年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に公開された[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")の[映画](../Page/映画.md "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[A重油](https://ja.wikipedia.org/wiki/A重油)から翻訳されています。
 
 
 **A重油**（Aじゅうゆ）は[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")の一種である。日本独自の税制上の油種区分では、**A重油**とは[重油](../Page/重油.md "wikilink")の一種とされているが、化学組成的、世界標準的には、軽油の一種である。

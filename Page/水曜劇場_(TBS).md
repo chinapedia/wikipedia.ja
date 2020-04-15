@@ -1,9 +1,11 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[水曜劇場 \(TBS\)](https://ja.wikipedia.org/wiki/水曜劇場_\(TBS\))から翻訳されています。
 
 
-『**水曜劇場**』（すいようげきじょう）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/JNN "wikilink")、[水曜日](../Page/水曜日.md "wikilink")の21:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠である。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[1982年](../Page/1982年.md "wikilink")（昭和57年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで放送されたのち休止され、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）4月に27年ぶりに復活、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）9月まで放送された。
+『**水曜劇場**』（すいようげきじょう）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/JNN "wikilink")、[水曜日](../Page/水曜日.md "wikilink")の21:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）に2期にわたって放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")枠。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[1982年](../Page/1982年.md "wikilink")（昭和57年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")まで第1期として放送された\[1\]。その後、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）4月に[木曜21時枠からの移行で](../Page/TBS木曜9時枠の連続ドラマ.md "wikilink")27年ぶりに第2期として復活、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）9月まで放送された。
 
-なお、水曜劇場のタイトルの下で放映された最初の作品は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")スタートの『[甘柿しぶ柿つるし柿](https://ja.wikipedia.org/wiki/甘柿しぶ柿つるし柿 "wikilink")』とされている\[1\]が、本項ではこれ以前の作品についても紹介する。
+ちなみに、水曜劇場のタイトルの下で放映された最初の作品は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")スタートの『[甘柿しぶ柿つるし柿](https://ja.wikipedia.org/wiki/甘柿しぶ柿つるし柿 "wikilink")』とされている\[2\]が、本項ではこれ以前の作品についても紹介する。
+
+なお、1980年代後半の2年間、水曜21時台に設定されていたドラマ枠は「[水曜ドラマ (TBS)](../Page/水曜ドラマ_\(TBS\).md "wikilink")」を参照。
 
 ## 略歴・概要
 
@@ -21,7 +23,7 @@
 
 2009年4月期は[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 6月に木曜21時枠で放送した[ホームドラマ](../Page/ホームドラマ.md "wikilink")『[夫婦道](../Page/夫婦道.md "wikilink")』の第2シリーズ。2009年7月期は[橋田壽賀子](https://ja.wikipedia.org/wiki/橋田壽賀子 "wikilink")の脚本で1976年に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[となりの芝生](https://ja.wikipedia.org/wiki/となりの芝生#TBS版（2009年） "wikilink")』のリメイク版。2009年10月期の『[浅見光彦〜最終章〜](https://ja.wikipedia.org/wiki/浅見光彦〜最終章〜 "wikilink")』と2010年1月期の『[赤かぶ検事京都篇](https://ja.wikipedia.org/wiki/赤かぶ検事奮戦記#水曜劇場版 "wikilink")』は2時間サスペンス出身の作品であり水曜劇場初のサスペンスドラマである。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月期からは初の[韓国ドラマ](../Page/韓国ドラマ.md "wikilink")を放送することになり、[日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[秋田県](../Page/秋田県.md "wikilink")も舞台の1つとなっているサスペンス『[アイリス](https://ja.wikipedia.org/wiki/IRIS-アイリス- "wikilink")』が放送されることになった。[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")を含む特番などでの休止を含めて9月までの2クールとなった\[2\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月期からは初の[韓国ドラマ](../Page/韓国ドラマ.md "wikilink")を放送することになり、[日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[秋田県](../Page/秋田県.md "wikilink")も舞台の1つとなっているサスペンス『[アイリス](https://ja.wikipedia.org/wiki/IRIS-アイリス- "wikilink")』が放送されることになった。[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")を含む特番などでの休止を含めて9月までの2クールとなった\[3\]。
 
 2010年10月改編で[木曜21時枠の連続ドラマが](../Page/TBS木曜9時枠の連続ドラマ.md "wikilink")1年半ぶりの復活に伴い、『アイリス』を最後にこのドラマ枠は終了する。11月より[MBS制作のバラエティ番組](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[くらべるくらべらー](https://ja.wikipedia.org/wiki/くらべるくらべらー "wikilink")』がスタートされ、これにより水曜10時枠と並んで、TBS系水曜21～22時枠はMBS制作番組が2時間連続で放送されることになる。なお『くらべるくらべらー』の開始までの2ヶ月間は単発特番でつなげる。
 
@@ -299,7 +301,7 @@
 
 <!-- end list -->
 
-  - [おはよう](../Page/おはよう_\(テレビドラマ\).md "wikilink")\[3\]
+  - [おはよう](../Page/おはよう_\(テレビドラマ\).md "wikilink")\[4\]
 
 <!-- end list -->
 
@@ -326,7 +328,7 @@
 
 <!-- end list -->
 
-  - [娘はむすめ](https://ja.wikipedia.org/wiki/娘はむすめ "wikilink")\[4\]
+  - [娘はむすめ](https://ja.wikipedia.org/wiki/娘はむすめ "wikilink")\[5\]
 
 <!-- end list -->
 
@@ -344,7 +346,7 @@
 
 <!-- end list -->
 
-  - [時間ですよ 昭和元年](https://ja.wikipedia.org/wiki/時間ですよ#時間ですよ_昭和元年（全26回） "wikilink")\[5\]
+  - [時間ですよ 昭和元年](https://ja.wikipedia.org/wiki/時間ですよ#時間ですよ_昭和元年（全26回） "wikilink")\[6\]
 
 <!-- end list -->
 
@@ -572,7 +574,7 @@
 
   - 制作：[松竹](../Page/松竹.md "wikilink")
   - 放送期間：2010年1月13日 - 2010年3月10日
-  - 主な出演者：[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")、[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")、[小野武彦](../Page/小野武彦.md "wikilink")、[古手川祐子](../Page/古手川祐子.md "wikilink") ほか
+  - 主な出演者：[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")、[菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")、[原沙知絵](https://ja.wikipedia.org/wiki/原沙知絵 "wikilink")、[小野武彦](../Page/小野武彦.md "wikilink")、[古手川祐子](../Page/古手川祐子.md "wikilink") ほか
 
 <!-- end list -->
 
@@ -586,10 +588,13 @@
 
 ## 備考
 
-  - 山口県では、[テレビ山口](../Page/テレビ山口.md "wikilink")（TYS）がTBS系列局として開局した後も、編成やスポンサーの関係等の諸事情から作品によって[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRY・[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")）が引き続き放送する場合があったが（『時間ですよ』などTYSで放送された作品もあった）、1978年10月から1979年4月にかけてテレビ朝日系列番組の相当数がKRYに移動した際、本来の系列局であるTYSに一本化されたが、TYSは開局時から第1期末期までは、フジテレビ制作の『[水曜ドラマシリーズ](https://ja.wikipedia.org/wiki/水曜ドラマシリーズ "wikilink")』 → 『[平岩弓枝ドラマシリーズ](../Page/平岩弓枝ドラマシリーズ.md "wikilink")』を同時ネットで放送していたため、特に第1期の末期の頃は遅れネットで対応していた。なお、TYSは第2期は同時ネットで放送されるようになった。
+  - [山口県](../Page/山口県.md "wikilink")では、[テレビ山口](../Page/テレビ山口.md "wikilink")（TYS）で開局時から第1期末期までは、フジテレビ制作の『[水曜ドラマシリーズ](https://ja.wikipedia.org/wiki/水曜ドラマシリーズ "wikilink")』 → 『[平岩弓枝ドラマシリーズ](../Page/平岩弓枝ドラマシリーズ.md "wikilink")』を同時ネットで放送していたため、特に第1期の末期の頃は遅れネットで対応していた\[7\]。
+    なお、TYSがTBS系列局として開局後、1978年10月から1979年4月にかけて[テレビ朝日系列番組の相当数がKRYに移動する前までは](https://ja.wikipedia.org/wiki/オールニッポン・ニュース・ネットワーク "wikilink")、本来の系列局であるTYSでなく、編成やスポンサーの関係等の諸事情から作品によって[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRY・[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）で引き続き放送する場合があった（『時間ですよ』などTYSで放送された作品もあった）。
+  - [愛媛県](../Page/愛媛県.md "wikilink")では、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB・日本テレビ系列）が系列外ながら第1期\[8\]に同時ネットで放送していた。
+  - [フジテレビ系列の](../Page/フジネットワーク.md "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")（AKT）、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）、[富山テレビ](../Page/富山テレビ放送.md "wikilink")（T34、現・BBT）、[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（FTB）では1時間遅れの水曜22:00から第1期\[9\]の作品を放送していた（山形テレビは1980年3月まで\[10\]）。
   - 『しあわせ戦争』から『結婚』を放送中の[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月 - [1982年](../Page/1982年.md "wikilink")3月の間は、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[水曜20時ドラマ枠も](../Page/日本テレビ水曜8時枠連続ドラマ.md "wikilink")『水曜劇場』と名乗っていたため、2局で同名のドラマ枠が存在していた。なお第1期終了後は『水曜劇場』の枠名は日本テレビのみとなるが、これも半年で廃枠となった。
-  - 本枠終了から5年半後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月 - [1989年](../Page/1989年.md "wikilink")9月にかけては同じ水曜21時台に『[水曜ドラマ](../Page/水曜ドラマ_\(TBS\).md "wikilink")』を設けていた。これは平日の22時台に[報道番組](../Page/報道番組.md "wikilink")『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を新設したことに伴い、金曜22時に放送されていた『[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")』を移行させたものである。（その後、[1989年](../Page/1989年.md "wikilink")10月に再び金曜ドラマに戻る）
-  - その後は[水曜ロードショー](../Page/水曜ロードショー_\(TBS\).md "wikilink")→報道情報番組枠→バラエティ枠→ドキュメント枠となり、2009年3月まで『[水曜ノンフィクション](https://ja.wikipedia.org/wiki/水曜ノンフィクション "wikilink")』を放送していた。
+  - 第1期終了から5年半後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月には、同じ水曜21時台に『水曜ドラマ』が設けられた。これは平日の22時台に[報道番組](../Page/報道番組.md "wikilink")『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を新設したことに伴い、金曜22時に放送されていた『[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")』を移行させたものである。その後、[1989年](../Page/1989年.md "wikilink")10月に再び金曜ドラマに戻った。
+  - 『水曜ドラマ』終了後は[水曜ロードショー](../Page/水曜ロードショー_\(TBS\).md "wikilink")→報道情報番組枠→バラエティ枠→ドキュメント枠となり、2009年3月まで『[水曜ノンフィクション](https://ja.wikipedia.org/wiki/水曜ノンフィクション "wikilink")』を放送していた。
 
 ## 脚注
 
@@ -599,8 +604,13 @@
 
 [Category:水曜劇場_(TBS)](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(TBS\) "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
 
-1.  1969年10月15日 [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")テレビ欄（11面）による『甘柿しぶ柿つるし柿』の紹介記事より。
-2.  [YOMIURI ONLINE：ゴールデンタイムに韓流ドラマ…TBSテレビが4月放映](http://www.yomiuri.co.jp/entertainment/news/20100129-OYT1T00143.html)
-3.  放送途中の10月より、終了時刻が22:26から22:25へ変更（『[お天気メモ](https://ja.wikipedia.org/wiki/関東地方あしたのお天気 "wikilink")』拡大のため）。
-4.  放送途中の10月3日、放送時間が21:30-22:25から21:00-21:55と30分繰り上がった。
-5.  関西地区ではこの作品まで[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）にネットされていたが、放送途中の1975年3月31日に[腸捻転の影響による東京-大阪間のネットチェンジで](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")、最後の2話のみ[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）にネット。以降の作品はすべてMBSにネットされた。
+1.  後枠は現在の「[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")」まで続く日立製作所一社提供枠。
+2.  1969年10月15日 [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")テレビ欄（11面）による『甘柿しぶ柿つるし柿』の紹介記事より。
+3.  [YOMIURI ONLINE：ゴールデンタイムに韓流ドラマ…TBSテレビが4月放映](http://www.yomiuri.co.jp/entertainment/news/20100129-OYT1T00143.html)
+4.  放送途中の10月より、終了時刻が22:26から22:25へ変更（『[お天気メモ](https://ja.wikipedia.org/wiki/関東地方あしたのお天気 "wikilink")』拡大のため）。
+5.  放送途中の10月3日、放送時間が21:30-22:25から21:00-21:55と30分繰り上がった。
+6.  関西地区ではこの作品まで[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）にネットされていたが、放送途中の1975年3月31日に[腸捻転の影響による東京-大阪間のネットチェンジで](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")、最後の2話のみ[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）にネット。以降の作品はすべてMBSにネットされた。
+7.  第2期はTYSも同時ネット
+8.  第2期は系列の[あいテレビ](../Page/あいテレビ.md "wikilink")で同時ネット
+9.  第1期当時のフジ系列の水曜22時台は『[相性診断\!あなたと私はピッタンコ](../Page/相性診断!あなたと私はピッタンコ.md "wikilink")』など、[関西テレビ制作のバラエティ枠だったがローカルセールス枠で全国同時ネットではなかった](../Page/関西テレビ放送.md "wikilink")。第2期は『[爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")』の同時ネット枠につき放送日中の時差ネットを行っていない。
+10. 山形テレビ（YTS）は、第1期終了後の1993年4月1日に[テレビ朝日系列に](https://ja.wikipedia.org/wiki/オールニッポン・ニュース・ネットワーク "wikilink")[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")している

@@ -1,4 +1,4 @@
-> この記事は[Foreach](https://ja.wikipedia.org/wiki/Foreach)から翻訳されています。
+> この記事は[Foreach文](https://ja.wikipedia.org/wiki/Foreach文)から翻訳されています。
 
 
 **foreach文**（フォーイーチぶん）とは[プログラミング言語](../Page/プログラミング言語.md "wikilink")において[リストや](https://ja.wikipedia.org/wiki/線形リスト "wikilink")[連想配列](../Page/連想配列.md "wikilink")などの「コレクション」と呼ばれる[データ構造](../Page/データ構造.md "wikilink")の各[要素](https://ja.wikipedia.org/wiki/要素 "wikilink")に対して与えられた[文の実行を繰り返すという](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")[ループを記述するための文である](../Page/ループ_\(プログラミング\).md "wikilink")。foreach文はしばしば[for文](https://ja.wikipedia.org/wiki/for文 "wikilink")の一部という位置付けにある。for文と異なり要素の参照順序が定義されないこともある。

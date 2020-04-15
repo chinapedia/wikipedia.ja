@@ -1,4 +1,4 @@
-> この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
+> この記事は[USB延長ケーブル](https://ja.wikipedia.org/wiki/USB延長ケーブル)から翻訳されています。
 
 
 **USB延長ケーブル**（USBえんちょうケーブル、*USB extension cable*）は[周辺機器](../Page/周辺機器.md "wikilink")の一つであり、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")や[NASなどのハードウェアのUSBポートと](../Page/ネットワークアタッチトストレージ.md "wikilink")、[USBに対応した](../Page/ユニバーサル・シリアル・バス.md "wikilink")[USBメモリや](../Page/USBフラッシュドライブ.md "wikilink")、[外付けHDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")など周辺機器のUSBポートを接続する際に、パソコンと機器がはなれていて、付属ケーブルでは届かない時に、長さを補うために使われるケーブルのこと。また、USB A端子が直接本体に直付けされているUSBメモリなどを容易に接続できるようにするために使う。

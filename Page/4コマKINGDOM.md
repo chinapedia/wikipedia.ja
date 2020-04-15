@@ -1,4 +1,4 @@
-> この記事は[4KINGDOM](https://ja.wikipedia.org/wiki/4KINGDOM)から翻訳されています。
+> この記事は[4コマKINGDOM](https://ja.wikipedia.org/wiki/4コマKINGDOM)から翻訳されています。
 
 
 **4コマKINGDOM**（4こまキングダム）は、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")が発行する、主に[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")に関する[パロディー](https://ja.wikipedia.org/wiki/パロディー "wikilink")・ギャグ[4コマ漫画](../Page/4コマ漫画.md "wikilink")のレーベルで、双葉社アクションコミックスのシリーズ。

@@ -1534,7 +1534,7 @@ NEW TATTOO JAPAN TOUR 2000 OPENING ACT</p></td>
 
   - [SIAM SHADE OFFICIAL SITE](http://siamshade.jp/)
 
-  - [SIAM SHADE](http://www.sonymusic.co.jp/Music/Arch/SMER/SiamShade/) ソニーミュージック公式
+  - [SIAM SHADE](https://www.sonymusic.co.jp/artist/SiamShade/) ソニーミュージック公式
 
   -
 [Category:SIAM_SHADE](https://ja.wikipedia.org/wiki/Category:SIAM_SHADE "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink") [Category:2007年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に再結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2013年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に再結成した音楽グループ "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[IF](https://ja.wikipedia.org/wiki/IF)から翻訳されています。
+> この記事は[IFデザイン賞](https://ja.wikipedia.org/wiki/IFデザイン賞)から翻訳されています。
 
 
 **iFデザイン賞**（アイエフデザインしょう、iF design award）は、、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハノーファー](../Page/ハノーファー.md "wikilink")を拠点とする、[デザイン](../Page/デザイン.md "wikilink")振興のための国際的な組織[インダストリー・フォーラム・デザイン・ハノーファー](https://ja.wikipedia.org/wiki/インダストリー・フォーラム・デザイン・ハノーファー "wikilink")（iF）が1953年から主催し、毎年全世界の[工業製品](https://ja.wikipedia.org/wiki/工業製品 "wikilink")等を対象に優れたデザインを選定する。

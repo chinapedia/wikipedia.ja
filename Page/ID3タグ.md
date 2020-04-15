@@ -1,4 +1,4 @@
-> この記事は[ID3](https://ja.wikipedia.org/wiki/ID3)から翻訳されています。
+> この記事は[ID3タグ](https://ja.wikipedia.org/wiki/ID3タグ)から翻訳されています。
 
 
 **ID3タグ**（アイディースリータグ、*ID3 tag*）は、[MP3](../Page/MP3.md "wikilink")[ファイルの中に](../Page/音声ファイルフォーマット.md "wikilink")、アーティスト・作成年・曲名等の情報を書き込むための規格である。

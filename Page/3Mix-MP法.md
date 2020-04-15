@@ -1,4 +1,4 @@
-> この記事は[3Mix-MP](https://ja.wikipedia.org/wiki/3Mix-MP)から翻訳されています。
+> この記事は[3Mix-MP法](https://ja.wikipedia.org/wiki/3Mix-MP法)から翻訳されています。
 
 
 **3Mix-MP法**（スリーミックス-エムピーほう）は、[う蝕](../Page/う蝕.md "wikilink")の治療法の一つである。病巣無菌化組織修復療法や病巣無菌化組織修復療法3Mix-MP療法、3Mix-MP療法などとも呼ばれる。[細菌](../Page/細菌.md "wikilink")を殺す三種の[抗菌剤](https://ja.wikipedia.org/wiki/抗菌剤 "wikilink") (3Mix) とマクロゴール (M)・[プロピレングリコール](../Page/プロピレングリコール.md "wikilink") (P) の軟膏を混合することからこの名がついた。

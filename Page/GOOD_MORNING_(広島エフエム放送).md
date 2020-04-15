@@ -1,4 +1,4 @@
-> この記事は[GOOD MORNING \(\)](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(\))から翻訳されています。
+> この記事は[GOOD MORNING \(広島エフエム放送\)](https://ja.wikipedia.org/wiki/GOOD_MORNING_\(広島エフエム放送\))から翻訳されています。
 
 
 『**GOOD MORNING**』（グッド モーニング）は、[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送されていた朝の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。前身番組は『[HFMニュースパイス・シャワー](../Page/HFMニュースパイス・シャワー.md "wikilink")』。

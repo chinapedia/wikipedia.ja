@@ -1,4 +1,4 @@
-> この記事は[ADFGVX](https://ja.wikipedia.org/wiki/ADFGVX)から翻訳されています。
+> この記事は[ADFGVX暗号](https://ja.wikipedia.org/wiki/ADFGVX暗号)から翻訳されています。
 
 
 **ADFGVX暗号**（ADFGVXあんごう、**ADFGVX cipher**）は、[ポリュビオスの暗号表](../Page/ポリュビオスの暗号表.md "wikilink")と鍵を使った[転置式暗号](../Page/転置式暗号.md "wikilink")を組み合わせた[暗号](../Page/暗号.md "wikilink")の一つ。[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中にドイツ軍が使用した。

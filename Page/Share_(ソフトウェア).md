@@ -1,4 +1,4 @@
-> この記事は[Share \(\)](https://ja.wikipedia.org/wiki/Share_\(\))から翻訳されています。
+> この記事は[Share \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Share_\(ソフトウェア\))から翻訳されています。
 
 
 **Share**（シェア しゃれ、洒落）とは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2000/XP/Vista/7上で動作する[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-1986年に結成。1989年から[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪.md "wikilink")を中心にライヴ活動し、同年にはシングル「[エヴリデイ](https://ja.wikipedia.org/wiki/エヴリデイ "wikilink")」で[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、アルバム『DOKI DOKI』を発表。デビュー前の1989年5月20日には、人気オーディション番組『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場。その独特の[2ビートが新鮮で高い評価を得て](../Page/ドラム・ビート.md "wikilink")、5代目イカ天キングとなっていた[RABBIT](../Page/RABBIT.md "wikilink")を倒して6代目キングとなった。しかし翌週には[セメントミキサーズ](../Page/セメントミキサーズ.md "wikilink")に倒され、キングに在位したのは1週だけだった。 その後も、2ビートを主体としたポップな曲調でコアな人気を獲得していった。
+1986年に結成。1989年から[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[大阪](../Page/大阪.md "wikilink")を中心にライヴ活動し、同年にはシングル「[エヴリデイ](https://ja.wikipedia.org/wiki/エヴリデイ "wikilink")」で[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、アルバム『DOKI DOKI』を発表。デビュー前の1989年5月20日には、人気オーディション番組『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場。その独特の[2ビートが新鮮で高い評価を得て](../Page/ドラム・ビート.md "wikilink")、5代目イカ天キングとなっていた[RABBIT](../Page/RABBIT.md "wikilink")を倒して6代目キングとなった。しかし翌週には[セメントミキサーズ](../Page/セメントミキサーズ.md "wikilink")に倒され、キングに在位したのは1週だけだった。その後も、2ビートを主体としたポップな曲調でコアな人気を獲得していった。
 
 1990年、「[プレゼント](https://ja.wikipedia.org/wiki/プレゼント_\(JITTERIN'JINNの曲\) "wikilink")」「[にちようび](https://ja.wikipedia.org/wiki/にちようび "wikilink")」「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\) "wikilink")」が、立て続けに[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")する。特に「にちようび」は週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")において初登場1位を記録し、最大の[ヒット](https://ja.wikipedia.org/wiki/ヒット "wikilink")曲と成った。その後、[ベースパートのメンバーの脱退](../Page/ベース_\(弦楽器\).md "wikilink")、加入を繰り返し、現在はベースにサポートメンバーを迎え、[インディーズ](../Page/インディーズ.md "wikilink")で活動している。
 
@@ -13,7 +13,7 @@
 
 2008年には、同年秋公開予定の映画『[青空ポンチ](https://ja.wikipedia.org/wiki/青空ポンチ "wikilink")』の挿入歌と主題歌に『夏祭り』と『恋のルアー』が起用され、「青空ポンチの本」に春川と破矢のインタビューが掲載された。また、2008年6月頃からオンエアされている「[SANKYOフィーバー大夏祭り](../Page/三共_\(パチンコ\).md "wikilink")」のCM曲に『夏祭り』『にちようび』が起用され、7月21日から[着うた](../Page/着うた.md "wikilink")と[着うたフル](../Page/着うたフル.md "wikilink")が配信されている。レコ直ランキング、着うたWeeklyチャートで10位を獲得した（7月30日付け）\[2\]。
 
-2010年には、1990年に発表された『夏祭り』の“ペアソング”となる曲『[なつまつり](https://ja.wikipedia.org/wiki/なつまつり "wikilink")』を、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")・[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・[mora](https://ja.wikipedia.org/wiki/mora "wikilink")など[音楽配信](../Page/音楽配信.md "wikilink")限定でリリース\[3\]。『夏祭り』が夏のお祭りに一緒に出掛けた女の子に抱く、男の子の淡く切ない恋慕の気持ちを綴った唄であったのに対して、この曲はその相手となる女の子のその時の気持ちにスポットライトを宛てた、いわば[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")的存在の曲である。 [ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")は、元々親交があるメンバーからの篤い依頼を受けた漫画家の[松本大洋](../Page/松本大洋.md "wikilink")が手がけている。松本にとって、描き下ろしの作画をミュージックビデオとして提供するのはこの曲が初となった\[4\]。
+2010年には、1990年に発表された『夏祭り』の“ペアソング”となる曲『[なつまつり](https://ja.wikipedia.org/wiki/なつまつり "wikilink")』を、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")・[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・[mora](https://ja.wikipedia.org/wiki/mora "wikilink")など[音楽配信](../Page/音楽配信.md "wikilink")限定でリリース\[3\]。『夏祭り』が夏のお祭りに一緒に出掛けた女の子に抱く、男の子の淡く切ない恋慕の気持ちを綴った唄であったのに対して、この曲はその相手となる女の子のその時の気持ちにスポットライトを宛てた、いわば[アンサーソング](https://ja.wikipedia.org/wiki/アンサーソング "wikilink")的存在の曲である。[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")は、元々親交があるメンバーからの篤い依頼を受けた漫画家の[松本大洋](../Page/松本大洋.md "wikilink")が手がけている。松本にとって、描き下ろしの作画をミュージックビデオとして提供するのはこの曲が初となった\[4\]。
 
 その後はライブ\[5\]や新譜のリリースも行っておらず、活動休止状態が続いている。一部では解散の噂もあるが、公式に解散を宣言したという事実は一切ない。しかし公式ホームページの更新も一切なく(トップページのみ存置された状態となっている)、メンバーの活動や動向などについては一切明らかにされていない状態となっている。
 
@@ -66,7 +66,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -210,14 +210,6 @@
 </ol></td>
 <td><p>2013年5月現在、音楽配信のみ。CD未発表</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -288,7 +280,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -453,14 +445,6 @@ COCP-31366</p></td>
 </ol></td>
 <td><p>通常版(収録曲はツアー会場・ファンクラブ限定販売と同内容）</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -478,7 +462,7 @@ COCP-31366</p></td>
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
@@ -532,7 +516,7 @@ COCP-31366</p></td>
 <li>夏祭り</li>
 <li>くわえたばこのブルース</li>
 <li>帰っておいで</li>
-<li>相合傘(シングル・ミックス)</li>
+<li>相合傘（シングル・ミックス）</li>
 </ol></td>
 <td><p>コロムビア時代の楽曲のベスト盤</p></td>
 </tr>
@@ -595,7 +579,7 @@ COCP-31366</p></td>
 <td><p>5th</p></td>
 <td><p>2007年3月21日</p></td>
 <td><p>'''8-9-10</p></td>
-<td><p>（Ver.2）'''</p></td>
+<td><p>(Ver.2)'''</p></td>
 <td><p>COCP-53977</p></td>
 <td><ol>
 <li>エヴリデイ</li>
@@ -619,14 +603,6 @@ COCP-31366</p></td>
 <li>アスタ・ラ・ビスタ!</li>
 <li>こいのぼり (Bonus Track)</li>
 </ol></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -657,7 +633,6 @@ COCP-31366</p></td>
 | 2014年03月26日 | J-ロッカー伝説2\[DJ和 in No.1 J-ROCK MIX\]          | AICL-2656  |
 | 2014年07月30日 | みんなで踊ろう\!盆踊り                                 | COCJ-38662 |
 | 2016年05月11日 | Around 40'S SURE THINGS メランコリック ラブソングス 3     | TKCA-74368 |
-|             |                                              |            |
 
 ## ミュージックビデオ
 
@@ -667,7 +642,6 @@ COCP-31366</p></td>
 | [イシバシミツユキ](../Page/イシバシミツユキ.md "wikilink")            | 「こいのぼり」                                                          |
 | [木原明志](https://ja.wikipedia.org/wiki/木原明志 "wikilink") | 「青いカナリア」                                                         |
 | 不明                                                    | 「SINKY-YORK」「にちようび」「やけっぱちのドンチャラミー」「エブリデイ」「サムライガール」「プレゼント」「夏祭り」「」 |
-|                                                       |                                                                  |
 
 ## 楽曲提供
 
@@ -744,40 +718,47 @@ COCP-31366</p></td>
 ### ワンマンライブ・主催イベント
 
   - 1995年 - TOUR "Chick-A-Biddy"
-  - 1998年 - 1998 春のツアー
-  - 1998年 - TOUR "here,rattler,here\!"
-  - 1999年 - 1999 春のツアー
-  - 1999年 - TOUR "TENTASTIC\!"
+  - 1998年
+      - 1998 春のツアー
+      - TOUR "here,rattler,here\!"
+  - 1999年
+      - 1999 春のツアー
+      - TOUR "TENTASTIC\!"
   - 2000年 - TOUR "BANZAI ATTACK"
   - 2001年 - TOUR "BANZAI ATTACK" FINAL
   - 2002年 - TOUR "WangDang Doodle"
   - 2003年 - TOUR "CARAMBA\!"
   - 2006年 - TOUR "GECKO STRUT TOUR"
-  - 2009年 - TOUR "Hotti Yetti"
-  - 2009年 - Jinngri-La Tour
+  - 2009年
+      - TOUR "Hotti Yetti"
+      - Jinngri-La Tour
 
 ### 出演イベント
 
   - 1997年11月09日 - [愛知淑徳大学](https://ja.wikipedia.org/wiki/愛知淑徳大学 "wikilink") 学園祭
   - 1999年07月03日 - 第17回 PEACEFUL LOVE ROCK FESTIVAL 1999
-  - 2000年05月13日 - FM802 & SPACE SHOWER TV presents [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2000 SPRING
-  - 2000年11月04日 - [神戸商科大学](../Page/神戸商科大学.md "wikilink")（現・[兵庫県立大学](../Page/兵庫県立大学.md "wikilink")）学園祭
-  - 2001年08月01日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2001
-  - 2001年08月04日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")01 in Sendai Bay 08042001
-  - 2001年08月11日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2001
-  - 2001年08月18日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2001
-  - 2001年11月04日 - [徳島医科大学](https://ja.wikipedia.org/wiki/徳島医科大学 "wikilink") 学園祭
+  - 2000年
+      - 05月13日 - FM802 & SPACE SHOWER TV presents [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2000 SPRING
+      - 11月04日 - [神戸商科大学](../Page/神戸商科大学.md "wikilink")（現・[兵庫県立大学](../Page/兵庫県立大学.md "wikilink")）学園祭
+  - 2001年
+      - 08月01日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2001
+      - 08月04日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")01 in Sendai Bay 08042001
+      - 08月11日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2001
+      - 08月18日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2001
+      - 11月04日 - [徳島医科大学](https://ja.wikipedia.org/wiki/徳島医科大学 "wikilink") 学園祭
   - 2006年07月29日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '06 ～夏の魔物～
-  - 2008年05月03日 - GOING KOBE 08
-  - 2008年05月21日 - ジッタリン・ジン×[MONGOL800](../Page/MONGOL800.md "wikilink")
-  - 2008年09月21日 - AOMORI ROCK FESTIVAL '08 ～夏の魔物～
-  - 2009年04月25日 - ARABAKI ROCK FEST.09
-  - 2009年04月29日 - GOING KOBE 09
-  - 2009年10月03日 - [MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink")
-  - 2009年10月15日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
-  - 2009年11月06日〜11月12日 - ジッタリン・ジン×GO\!GO\!7188
-  - 2009年11月10日 - 千葉LOOK 20th ANNIVERSARY～6×9=53days～
-  - 2009年11月19日 - ジッタリン・ジン×[ガガガSP](../Page/ガガガSP.md "wikilink")
+  - 2008年
+      - 05月03日 - GOING KOBE 08
+      - 05月21日 - ジッタリン・ジン×[MONGOL800](../Page/MONGOL800.md "wikilink")
+      - 09月21日 - AOMORI ROCK FESTIVAL '08 ～夏の魔物～
+  - 2009年
+      - 04月25日 - ARABAKI ROCK FEST.09
+      - 04月29日 - GOING KOBE 09
+      - 10月03日 - [MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink")
+      - 10月15日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
+      - 11月06日〜11月12日 - ジッタリン・ジン×GO\!GO\!7188
+      - 11月10日 - 千葉LOOK 20th ANNIVERSARY～6×9=53days～
+      - 11月19日 - ジッタリン・ジン×[ガガガSP](../Page/ガガガSP.md "wikilink")
 
 ## 関連項目
 

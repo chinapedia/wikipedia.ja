@@ -1,4 +1,4 @@
-> この記事は[FOMA](https://ja.wikipedia.org/wiki/FOMA)から翻訳されています。
+> この記事は[FOMAプラスエリア](https://ja.wikipedia.org/wiki/FOMAプラスエリア)から翻訳されています。
 
 
 **FOMAプラスエリア**（ふぉーま ぷらすえりあ）とは、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")携帯電話・[FOMA](../Page/FOMA.md "wikilink")の一部機種で利用できる、[800MHz帯](https://ja.wikipedia.org/wiki/800MHz帯 "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")方式によるサービスエリアのこと。[2005年](../Page/2005年.md "wikilink")に、**FOMAサービスエリア**（[2GHz帯](../Page/2GHz帯.md "wikilink")）では[電波](../Page/電波.md "wikilink")が届きにくかった山間部などでの電波状況の改善を目的に開始されたが、現在は、都市部とその周辺部での2GHz帯を補完する目的でも使われている。

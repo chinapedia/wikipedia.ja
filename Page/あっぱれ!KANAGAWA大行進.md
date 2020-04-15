@@ -1,4 +1,4 @@
-> この記事は[!KANAGAWA](https://ja.wikipedia.org/wiki/!KANAGAWA)から翻訳されています。
+> この記事は[あっぱれ!KANAGAWA大行進](https://ja.wikipedia.org/wiki/あっぱれ!KANAGAWA大行進)から翻訳されています。
 
 
 『**あっぱれ\!KANAGAWA大行進**』（**あっぱれ かながわだいこうしん**）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で放送されている情報バラエティ番組である。番組内通称**「あっぱれ\!」**。

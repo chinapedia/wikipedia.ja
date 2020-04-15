@@ -1,4 +1,4 @@
-> この記事は[MTR](https://ja.wikipedia.org/wiki/MTR)から翻訳されています。
+> この記事は[香港MTR](https://ja.wikipedia.org/wiki/香港MTR)から翻訳されています。
 
 
 **MTR**（エムティーアール、**M**ass **T**ransit **R**ailway）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")最大の[鉄道路線](../Page/鉄道路線.md "wikilink")システムである。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")では**港鉄**（[繁体字](../Page/繁体字.md "wikilink")：（こうてつ））。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に香港地鉄公司へ[九広鉄路](../Page/九広鉄路.md "wikilink")公司の運営権が譲渡、統合されて誕生した[香港鉄路有限公司が運営している](https://ja.wikipedia.org/wiki/香港鉄路_\(企業\) "wikilink")。
@@ -265,10 +265,10 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 <tbody>
 <tr class="odd">
 <td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沙田至中環線" title="wikilink">屯馬線</a>（Tuen Ma Line）</p></td>
+<td><p><a href="../Page/屯馬線.md" title="wikilink">屯馬線</a>（Tuen Ma Line）</p></td>
 <td><p>（Tuen Mun）〜（Wu Kai Sha）</p></td>
 <td><p>57km</p></td>
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>開業予定</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>開業予定</p></td>
 </tr>
 <tr class="even">
 <td><p> </p></td>

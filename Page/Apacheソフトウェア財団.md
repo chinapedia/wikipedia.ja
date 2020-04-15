@@ -1,4 +1,4 @@
-> この記事は[Apache](https://ja.wikipedia.org/wiki/Apache)から翻訳されています。
+> この記事は[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団)から翻訳されています。
 
 
 **Apacheソフトウェア財団**（アパッチ ソフトウェアざいだん、；以下**ASF**）は、[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")プロジェクトを支援する団体であり、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で登録された[非営利団体](../Page/非営利団体.md "wikilink")である。当初は[Webサーバ](../Page/Webサーバ.md "wikilink")ソフトウェアである[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink") (Apache httpd) の開発のために発足したが、現在は多くのプロジェクトを抱え、[ソフトウェア](../Page/ソフトウェア.md "wikilink")ブランドとしてのApacheを保持している。名実ともに世界で成功している[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")・[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")の一つである。

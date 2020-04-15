@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・ハードコア王座](https://ja.wikipedia.org/wiki/WWE・ハードコア王座)から翻訳されています。
 
 
 **WWEハードコア王座**（*Hardcore Championship*）は、[WWE](../Page/WWE.md "wikilink")にかつてあった[王座](https://ja.wikipedia.org/wiki/王座 "wikilink")。このベルトが賭けられた試合は基本的に、凶器攻撃などの反則裁定が一切無く、さらにリング上でなくても、会場外であろうと、観客席であろうとどこでも決着を付けられるというルールで行われるが、レフェリーがジャッジして3カウントしないと正式には認められない。

@@ -1,4 +1,4 @@
-> この記事は[Talbo](https://ja.wikipedia.org/wiki/Talbo)から翻訳されています。
+> この記事は[東海楽器・Talbo](https://ja.wikipedia.org/wiki/東海楽器・Talbo)から翻訳されています。
 
 
 **Talbo**（**タルボ**）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[東海楽器製造](../Page/東海楽器製造.md "wikilink")が製造・販売を行う[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")の機種。名称は「**T**-**AL**LOY-**BO**DY」の略で、ボディが[アルミニウム合金](../Page/アルミニウム合金.md "wikilink")製であることが特徴。

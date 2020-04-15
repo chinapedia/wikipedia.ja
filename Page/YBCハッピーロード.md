@@ -1,4 +1,4 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBCハッピーロード](https://ja.wikipedia.org/wiki/YBCハッピーロード)から翻訳されています。
 
 
 『**YBCハッピーロード**』（ワイビーシーハッピーロード）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。番組終了時の放送時間は毎週月曜 - 金曜 13:00 - 15:40\[1\]（[日本標準時](../Page/日本標準時.md "wikilink")）。

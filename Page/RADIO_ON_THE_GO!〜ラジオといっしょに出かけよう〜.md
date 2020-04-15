@@ -1,4 +1,4 @@
-> この記事は[RADIO ON THE GO!](https://ja.wikipedia.org/wiki/RADIO_ON_THE_GO!)から翻訳されています。
+> この記事は[RADIO ON THE GO!〜ラジオといっしょに出かけよう〜](https://ja.wikipedia.org/wiki/RADIO_ON_THE_GO!〜ラジオといっしょに出かけよう〜)から翻訳されています。
 
 
 **RADIO ON THE GO\! 〜ラジオといっしょに出かけよう〜**（レディオ・オン・ザ・ゴー ラジオといっしょにでかけよう）は、[名古屋市](../Page/名古屋市.md "wikilink")に拠点を構える[民放](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")4局（[CBCラジオ](../Page/CBCラジオ.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[FM AICHI](../Page/エフエム愛知.md "wikilink")・[ZIP-FM](../Page/ZIP-FM.md "wikilink")）と[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")の計5局が共同で展開するキャンペーン。

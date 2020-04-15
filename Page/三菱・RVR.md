@@ -1,4 +1,4 @@
-> この記事は[RVR](https://ja.wikipedia.org/wiki/RVR)から翻訳されています。
+> この記事は[三菱・RVR](https://ja.wikipedia.org/wiki/三菱・RVR)から翻訳されています。
 
 
 **RVR**（アールブイアール\[1\]）は、[1991年](../Page/1991年.md "wikilink")から[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")・[販売](../Page/販売.md "wikilink")していた[トールワゴン](../Page/トールワゴン.md "wikilink")型[乗用車](../Page/乗用車.md "wikilink")もしくは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から生産・販売している[CUVである](../Page/クロスオーバーSUV.md "wikilink")。

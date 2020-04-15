@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[サスカトゥーン・ジョン・G・ディーフェンベーカー国際空港](https://ja.wikipedia.org/wiki/サスカトゥーン・ジョン・G・ディーフェンベーカー国際空港)から翻訳されています。
 
 
 **サスカトゥーン・ジョン・G・ディーフェンベーカー国際空港**（）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[サスカチュワン州](../Page/サスカチュワン州.md "wikilink")最大の都市[サスカトゥーン](../Page/サスカトゥーン.md "wikilink")に位置する[空港](../Page/空港.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[OCB](https://ja.wikipedia.org/wiki/OCB)から翻訳されています。
+> この記事は[OCBプロ](https://ja.wikipedia.org/wiki/OCBプロ)から翻訳されています。
 
 
 **OCBプロ**は、[テレビ番組](../Page/テレビ番組.md "wikilink")・[映画](../Page/映画.md "wikilink")・[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")などの音楽制作・選曲・[音響効果](https://ja.wikipedia.org/wiki/音響効果 "wikilink")の業務を行う[制作プロダクション](../Page/制作プロダクション.md "wikilink")。

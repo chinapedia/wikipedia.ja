@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X星人](https://ja.wikipedia.org/wiki/X星人)から翻訳されています。
 
 
 **X星人**（エックスせいじん）は、東宝の[特撮映画](../Page/特撮映画.md "wikilink")「[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズ」に登場する架空の[宇宙人](../Page/宇宙人.md "wikilink")。**統制官**と呼ばれる指導者のもと、綿密な計算にもとづいて地球を侵略しようとする。

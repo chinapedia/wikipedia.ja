@@ -1,4 +1,4 @@
-> この記事は[RADIO](https://ja.wikipedia.org/wiki/RADIO)から翻訳されています。
+> この記事は[前頭のぶちかましRADIO](https://ja.wikipedia.org/wiki/前頭のぶちかましRADIO)から翻訳されています。
 
 
 **前頭のぶちかましRADIO**（**まえがしらのぶちかましラジオ**）は、2002年10月から2007年3月まで[中国放送](../Page/中国放送.md "wikilink")で放送されていた夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。 毎週[月曜](https://ja.wikipedia.org/wiki/月曜 "wikilink")21:50～24:00に[生放送](../Page/生放送.md "wikilink")されていた。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[maegashira](https://ja.wikipedia.org/wiki/maegashira "wikilink")の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")野上智行と[HIPPY](https://ja.wikipedia.org/wiki/HIPPY "wikilink")（[イシカワヒロキ](https://ja.wikipedia.org/wiki/HIPPY "wikilink")）。

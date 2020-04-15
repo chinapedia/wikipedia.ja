@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[広島瓦斯電軌G形電車](https://ja.wikipedia.org/wiki/広島瓦斯電軌G形電車)から翻訳されています。
 
 
 ''' **広島瓦斯電軌G形電車**（ひろしまがすでんきGがたでんしゃ）は、[1930年](../Page/1930年.md "wikilink")に広島瓦斯電軌（後の[広島電鉄](../Page/広島電鉄.md "wikilink")）が新製した[電車](../Page/電車.md "wikilink")（[路面電車](../Page/路面電車.md "wikilink")車両）である。[広島市への原子爆弾投下](../Page/広島市への原子爆弾投下.md "wikilink")で被災したことより[被爆電車](../Page/被爆電車.md "wikilink")でもある。

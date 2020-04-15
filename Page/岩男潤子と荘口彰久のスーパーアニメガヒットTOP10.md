@@ -1,4 +1,4 @@
-> この記事は[TOP10](https://ja.wikipedia.org/wiki/TOP10)から翻訳されています。
+> この記事は[岩男潤子と荘口彰久のスーパーアニメガヒットTOP10](https://ja.wikipedia.org/wiki/岩男潤子と荘口彰久のスーパーアニメガヒットTOP10)から翻訳されています。
 
 
 **岩男潤子と荘口彰久のスーパーアニメガヒットTOP10**（いわおじゅんことそうぐちあきひさのスーパーアニメガヒットトップテン）は、[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）[10月17日](../Page/10月17日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[3月27日](../Page/3月27日.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")をキーステーションに3局ネットで放送されていた、生放送の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称はアニメガ。

@@ -1,4 +1,4 @@
-> この記事は[Yak-7 \(\)](https://ja.wikipedia.org/wiki/Yak-7_\(\))から翻訳されています。
+> この記事は[Yak-7 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-7_\(航空機\))から翻訳されています。
 
 
 **Yak-7**(Jak-7；ヤク7；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・スィェーミ</small>)は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時、[ヤコヴレフ設計局が開発した](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[ソ連空軍の主力](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")・[練習機](../Page/練習機.md "wikilink")のひとつ。

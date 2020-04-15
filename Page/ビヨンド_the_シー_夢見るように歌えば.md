@@ -1,4 +1,4 @@
-> この記事は[ the  ](https://ja.wikipedia.org/wiki/_the__)から翻訳されています。
+> この記事は[ビヨンド the シー 夢見るように歌えば](https://ja.wikipedia.org/wiki/ビヨンド_the_シー_夢見るように歌えば)から翻訳されています。
 
 
 『'''ビヨンド the シー 夢見るように歌えば *'』（*Beyond the Sea''）は、[2004年製作の](../Page/2004年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[ケヴィン・スペイシー](../Page/ケヴィン・スペイシー.md "wikilink")の監督・脚本・主演で、往年の歌手[ボビー・ダーリン](https://ja.wikipedia.org/wiki/ボビー・ダーリン "wikilink")の半生を描いている。劇中の楽曲は主演のスペイシー本人が実際に歌っている。

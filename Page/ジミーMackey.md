@@ -1,4 +1,4 @@
-> この記事は[Mackey](https://ja.wikipedia.org/wiki/Mackey)から翻訳されています。
+> この記事は[ジミーMackey](https://ja.wikipedia.org/wiki/ジミーMackey)から翻訳されています。
 
 
 **ジミー Mackey**（ジミー マッキー、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[実業家](../Page/実業家.md "wikilink")、元[タレント](../Page/タレント.md "wikilink")。
@@ -38,7 +38,7 @@
 
 ### 雑誌
 
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")（2000年 - 2006年、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")） - モデル\[14\]
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")（2000年 - 2006年、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")） - モデル\[14\]
   - [POPEYE](../Page/POPEYE.md "wikilink") - モデル\[15\]
 
 ## 脚注

@@ -1,4 +1,4 @@
-> この記事は[ZZ](https://ja.wikipedia.org/wiki/ZZ)から翻訳されています。
+> この記事は[トミーカイラ・ZZ](https://ja.wikipedia.org/wiki/トミーカイラ・ZZ)から翻訳されています。
 
 
 **トミーカイラZZ**（ズィーズィー）とは、[京都府](../Page/京都府.md "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[トミーカイラ](../Page/トミーカイラ.md "wikilink")から販売された[自動車](../Page/自動車.md "wikilink")。

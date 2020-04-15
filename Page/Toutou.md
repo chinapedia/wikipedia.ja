@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")9月から[2004年](../Page/2004年.md "wikilink")3月まで[BS朝日の](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")「[15-0](https://ja.wikipedia.org/wiki/15-0 "wikilink")」にレギュラー出演。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「わんわん」（[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")の[幼児語](../Page/幼児語.md "wikilink")）を意味するグループ名はこの番組で仮につけられたものだったが、その後も変更されることなく正式なものとなった。
+[2003年](../Page/2003年.md "wikilink")9月から[2004年](../Page/2004年.md "wikilink")3月まで[BS朝日の](../Page/ビーエス朝日.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")「[15-0](https://ja.wikipedia.org/wiki/15-0 "wikilink")」にレギュラー出演。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「わんわん」（[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")の[幼児語](../Page/幼児語.md "wikilink")）を意味するグループ名はこの番組で仮につけられたものだったが、その後も変更されることなく正式なものとなった。
 
 [2005年](../Page/2005年.md "wikilink")4月〜9月に、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")で放送のテレビ番組『[ガチャガチャポン\!](../Page/ガチャガチャポン!.md "wikilink")』のエンディング「歌う[星占い](../Page/星座占い.md "wikilink")」のコーナーで、毎週[歌詞](../Page/歌詞.md "wikilink")の異なる歌を披露。同年[7月6日](../Page/7月6日.md "wikilink")に同曲を収録したシングル「星占いの歌」でCDデビュー。なお、各週の放送終了後からは、その週のエンディングで使用されたヴァージョンの「星占いの歌」が[公式HP](http://www.sonymusic.co.jp/Music/Info/toutou/index.html)で試聴可能となっている\[1\]。
 
@@ -94,7 +94,7 @@
 
 ### テレビ
 
-  - [15-0](https://ja.wikipedia.org/wiki/15-0 "wikilink")（フィフティーン・ラヴ）（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）
+  - [15-0](https://ja.wikipedia.org/wiki/15-0 "wikilink")（フィフティーン・ラヴ）（[BS朝日](../Page/ビーエス朝日.md "wikilink")）
   - 「[ヒミツの花園](../Page/ヒミツの花園.md "wikilink")」第3話
   - [きょうから英会話](../Page/きょうから英会話.md "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）
 

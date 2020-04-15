@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[必殺仕事人III](https://ja.wikipedia.org/wiki/必殺仕事人III)から翻訳されています。
 
 
 『**必殺仕事人III**』（ひっさつしごとにんスリー）は、[1982年](../Page/1982年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")まで、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で毎週金曜日22:00 - 22:54に放送された、[朝日放送と](../Page/朝日放送テレビ.md "wikilink")[松竹](../Page/松竹.md "wikilink")（京都映画撮影所、現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）共同製作のテレビ[時代劇](../Page/時代劇.md "wikilink")。全38話。主演は[藤田まこと](../Page/藤田まこと.md "wikilink")。

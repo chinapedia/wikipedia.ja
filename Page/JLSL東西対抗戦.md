@@ -1,4 +1,4 @@
-> この記事は[JLSL](https://ja.wikipedia.org/wiki/JLSL)から翻訳されています。
+> この記事は[JLSL東西対抗戦](https://ja.wikipedia.org/wiki/JLSL東西対抗戦)から翻訳されています。
 
 
 **JLSL東西対抗戦**（JLSLとうざいたいこうせん）は[1993年](../Page/1993年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")までの4年間、[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（JLSL：のちのL・リーグ、なでしこリーグ） が行っていた大会。

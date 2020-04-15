@@ -1,4 +1,4 @@
-> この記事は[Yak-11 \(\)](https://ja.wikipedia.org/wiki/Yak-11_\(\))から翻訳されています。
+> この記事は[Yak-11 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-11_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機

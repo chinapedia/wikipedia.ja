@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[広島瓦斯電軌B形電車](https://ja.wikipedia.org/wiki/広島瓦斯電軌B形電車)から翻訳されています。
 
 
 **広島瓦斯電軌B形電車**（ひろしまがすでんきBがたでんしゃ）は、広島瓦斯電軌（後の[広島電鉄](../Page/広島電鉄.md "wikilink")）が[1921年](../Page/1921年.md "wikilink")（[大正](../Page/大正.md "wikilink")10年）と[1927年](../Page/1927年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")2年）の二度にわたって計30両導入した[電車](../Page/電車.md "wikilink")（[路面電車](../Page/路面電車.md "wikilink")車両）である。

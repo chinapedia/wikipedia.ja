@@ -1,4 +1,4 @@
-> この記事は[MuseScore \(Muse\)](https://ja.wikipedia.org/wiki/MuseScore_\(Muse\))から翻訳されています。
+> この記事は[MuseScore \(Museデータ作成支援ソフト\)](https://ja.wikipedia.org/wiki/MuseScore_\(Museデータ作成支援ソフト\))から翻訳されています。
 
 
 **MuseScore**（ミューズスコア）は、西野直幸が開発した[Muse](../Page/Muse.md "wikilink")データ作成用[フリーソフト](https://ja.wikipedia.org/wiki/フリーソフト "wikilink")である。このソフトを使用するには別途Museが必要となり、初めて使用する際にはMuseへの[パス](../Page/パス.md "wikilink")を設定しなければいけない。

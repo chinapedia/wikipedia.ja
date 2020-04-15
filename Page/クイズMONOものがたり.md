@@ -1,4 +1,4 @@
-> この記事は[MONO](https://ja.wikipedia.org/wiki/MONO)から翻訳されています。
+> この記事は[クイズMONOものがたり](https://ja.wikipedia.org/wiki/クイズMONOものがたり)から翻訳されています。
 
 
 『**クイズMONOものがたり**』（クイズものものがたり）は、[1988年](../Page/1988年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[イーストの共同製作](https://ja.wikipedia.org/wiki/イースト_\(テレビ制作会社\) "wikilink")。番組タイトルロゴの左上には「**ドラマチック・バラエティ**」と表示されていた。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。

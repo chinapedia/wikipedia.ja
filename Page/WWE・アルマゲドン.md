@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・アルマゲドン](https://ja.wikipedia.org/wiki/WWE・アルマゲドン)から翻訳されています。
 
 
 **アルマゲドン**(*Armageddon*)は、[アメリカのプロレス団体](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[WWE](../Page/WWE.md "wikilink")が主宰する、プロレス興行の名称。また、同興行を扱う[PPVの名称でもある](../Page/ペイ・パー・ビュー.md "wikilink")。開催は1年に1回。12月に開催されるため、WWEのPPV大会としては年間最後の大会となった。[2001年](../Page/2001年.md "wikilink")は[同時多発テロの影響で](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")「[ヴェンジェンス](../Page/WWEナイト・オブ・チャンピオンズ.md "wikilink")」として開催された。2リーグ分裂後は主にSmackDown\!主催の大会となっていた。

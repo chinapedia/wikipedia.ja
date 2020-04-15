@@ -1,4 +1,4 @@
-> この記事は[MG-M](https://ja.wikipedia.org/wiki/MG-M)から翻訳されています。
+> この記事は[ヤマハ・MG-M](https://ja.wikipedia.org/wiki/ヤマハ・MG-M)から翻訳されています。
 
 
 **MG-M**（エムジー・エム）は、[ヤマハ](../Page/ヤマハ.md "wikilink")が開発・発売した、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")のギタリスト、[松本孝弘](../Page/松本孝弘.md "wikilink")モデルの[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")である。

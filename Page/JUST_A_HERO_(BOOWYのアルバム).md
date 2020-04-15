@@ -1,4 +1,4 @@
-> この記事は[JUST A HERO \(BOOWY\)](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOOWY\))から翻訳されています。
+> この記事は[JUST A HERO \(BOOWYのアルバム\)](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOOWYのアルバム\))から翻訳されています。
 
 
 『**JUST A HERO**』（ジャスト・ア・ヒーロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")4枚目のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[FNS!](https://ja.wikipedia.org/wiki/FNS!)から翻訳されています。
+> この記事は[FNS番組対抗!春秋の祭典スペシャル](https://ja.wikipedia.org/wiki/FNS番組対抗!春秋の祭典スペシャル)から翻訳されています。
 
 
 『**FNS番組対抗\!春秋の祭典スペシャル**』（エフエヌエスばんぐみたいこう はる あきのさいてんスペシャル）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2000年](../Page/2000年.md "wikilink")まで[フジテレビ系列で毎年](../Page/フジネットワーク.md "wikilink")[春](../Page/春.md "wikilink")と[秋](../Page/秋.md "wikilink")の改編期に放送されていた番組対抗形式の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")の総称。このタイトルは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")春までであるが、『[笑っていいとも\!春の祭典★スペシャル](../Page/笑っていいとも!春・秋の祭典スペシャル.md "wikilink")』（2001年）が始まる前まで、2000年秋まで扱う。
@@ -138,4 +138,4 @@
 
 ## 脚注
 
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink") [Category:改編期特番](https://ja.wikipedia.org/wiki/Category:改編期特番 "wikilink") [Category:とんねるず](https://ja.wikipedia.org/wiki/Category:とんねるず "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのクイズ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのクイズ番組の歴史 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink") [Category:改編期特番](https://ja.wikipedia.org/wiki/Category:改編期特番 "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:草彅剛](https://ja.wikipedia.org/wiki/Category:草彅剛 "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:とんねるず](https://ja.wikipedia.org/wiki/Category:とんねるず "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[Z!](https://ja.wikipedia.org/wiki/Z!)から翻訳されています。
+> この記事は[南パラZ!](https://ja.wikipedia.org/wiki/南パラZ!)から翻訳されています。
 
 
 『**南海パラダイス\!**』（なんかいパラダイス）およびその後継番組『**南パラZ\!**』（なんパラゼット）は、[関西テレビほかで放送されていた](../Page/関西テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である\[1\]。製作局の関西テレビでは[2005年](../Page/2005年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで放送。

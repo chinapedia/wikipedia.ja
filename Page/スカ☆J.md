@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スカ☆J](https://ja.wikipedia.org/wiki/スカ☆J)から翻訳されています。
 
 
 『**スカ☆J 一番星**』（すかジェイ いちばんぼし）は、[2005年](../Page/2005年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。「スカ☆J」は「**スカッとJAPANプロジェクト**」の略。

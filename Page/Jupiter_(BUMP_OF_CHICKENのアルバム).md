@@ -1,4 +1,4 @@
-> この記事は[Jupiter \(BUMP OF CHICKEN\)](https://ja.wikipedia.org/wiki/Jupiter_\(BUMP_OF_CHICKEN\))から翻訳されています。
+> この記事は[Jupiter \(BUMP OF CHICKENのアルバム\)](https://ja.wikipedia.org/wiki/Jupiter_\(BUMP_OF_CHICKENのアルバム\))から翻訳されています。
 
 
 『**jupiter**』（ジュピター）は、[BUMP OF CHICKENのメジャー](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")1枚目、通算3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。

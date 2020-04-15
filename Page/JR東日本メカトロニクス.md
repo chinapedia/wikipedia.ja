@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本メカトロニクス](https://ja.wikipedia.org/wiki/JR東日本メカトロニクス)から翻訳されています。
 
 
 **JR東日本メカトロニクス株式会社**（ジェイアールひがしにほんメカトロニクス、JREM）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く、[システムインテグレータ](https://ja.wikipedia.org/wiki/システムインテグレータ "wikilink")および[駅務機器](https://ja.wikipedia.org/wiki/駅務機器 "wikilink")製造メーカーで、メンテナンス会社である。

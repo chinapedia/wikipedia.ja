@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSマンスリーリポート](https://ja.wikipedia.org/wiki/MBSマンスリーリポート)から翻訳されています。
 
 
 **MBSマンスリーリポート**（エムビーエスマンスリーリポート）とは、[大阪](../Page/大阪.md "wikilink")の[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）で毎月第1日曜日の午前5:15〜5:30（[JST](../Page/日本標準時.md "wikilink")）に放送されている、MBSテレビ・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の広報・[自己批評番組](../Page/自己批評番組.md "wikilink")である。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")・[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[いて座A](https://ja.wikipedia.org/wiki/いて座A)から翻訳されています。
 
 
 **いて座A**（いてざえー、Sagittarius A, Sgr A）は我々の[銀河系](../Page/銀河系.md "wikilink")の中心に存在する[電波源](https://ja.wikipedia.org/wiki/電波源 "wikilink")の複合体である。[天球](../Page/天球.md "wikilink")上では[いて座](../Page/いて座.md "wikilink")に位置する。

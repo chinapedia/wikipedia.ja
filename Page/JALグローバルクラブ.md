@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALグローバルクラブ](https://ja.wikipedia.org/wiki/JALグローバルクラブ)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:JGC_VISA01s.jpg "wikilink") **JALグローバルクラブ**（ジャルグローバルクラブ、、[略称](../Page/略語.md "wikilink"): ）とは、[JALカード](../Page/JALカード.md "wikilink")（[日本航空](../Page/日本航空.md "wikilink")の[クレジットカード](../Page/クレジットカード_\(日本\).md "wikilink")）に付帯される[JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink")の上級会員組織のことである。

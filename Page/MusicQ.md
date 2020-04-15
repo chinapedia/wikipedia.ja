@@ -36,7 +36,7 @@
 <!-- end list -->
 
   - ウエノコウジ（2005年4月 - 2005年12月、MUSIC9時代含む。）
-  - [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")「birdwatch」（2006年1月・[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")「birdwatch」（2006年1月・[JFNC制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - [Mi](../Page/Mi_\(バンド\).md "wikilink")（2006年2月 - 2007年1月）
 
 <!-- end list -->

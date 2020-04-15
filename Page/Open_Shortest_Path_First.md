@@ -30,7 +30,8 @@ OSPFv2は[IPv4](../Page/IPv4.md "wikilink")、OSPFv3は[IPv6](https://ja.wikiped
 
 <references />
 
-  - \== 関連項目 ==
+## 関連項目
+
   - [ルーティングプロトコル](https://ja.wikipedia.org/wiki/ルーティングプロトコル "wikilink")
   - [IS-IS](../Page/IS-IS.md "wikilink")
   - [IEEE 802.1aq](https://ja.wikipedia.org/wiki/IEEE_802.1aq "wikilink") - [Shortest Path Bridging (SPB)](https://ja.wikipedia.org/wiki/Shortest_Path_Bridging "wikilink")

@@ -81,7 +81,7 @@ UPnP、DLNA、Viiv、Plays For Sureは、それぞれベースとしている規
 
 ## 関連項目
 
-  - [Intelligent Grouping and Resource Sharing](https://ja.wikipedia.org/wiki/Intelligent_Grouping_and_Resource_Sharing "wikilink") (IGRS)
+  - [VLC media player](https://ja.wikipedia.org/wiki/VLC_media_player "wikilink")
 
 ## 脚注
 

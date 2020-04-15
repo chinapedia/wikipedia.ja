@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNさくらんぼテレビニュース](https://ja.wikipedia.org/wiki/FNNさくらんぼテレビニュース)から翻訳されています。
 
 
 『**FNNさくらんぼテレビニュース**』（**エフエヌエヌ さくらんぼテレビニュース**）は、[さくらんぼテレビで放送されている日曜朝の](../Page/さくらんぼテレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

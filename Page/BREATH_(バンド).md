@@ -1,4 +1,4 @@
-> この記事は[BREATH \(\)](https://ja.wikipedia.org/wiki/BREATH_\(\))から翻訳されています。
+> この記事は[BREATH \(バンド\)](https://ja.wikipedia.org/wiki/BREATH_\(バンド\))から翻訳されています。
 
 
 **BREATH**（ブレス）は、[エイベックスに所属する](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")2人組の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。
@@ -403,13 +403,13 @@
 
   - [金築卓也のサイト - Takuya Kanatsuki Official Website](http://www.takuya-kanatsuki.com/)
 
-  - [金築卓也のブログ](http://ameblo.jp/takuya-kanatsuki/)
+  - [金築卓也のブログ](https://ameblo.jp/takuya-kanatsuki/)
 
   -
   -
   - [菊池一仁 Oficial web -KZB-](http://kazuhito-kikuchi.com/)
 
-  - [UNTITLED BALLADS - アメーバブログ](http://ameblo.jp/kzbreath/)
+  - [UNTITLED BALLADS - アメーバブログ](https://ameblo.jp/kzbreath/)
 
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

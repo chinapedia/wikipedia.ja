@@ -1,4 +1,4 @@
-> この記事は[\'S](https://ja.wikipedia.org/wiki/\'S)から翻訳されています。
+> この記事は[ひろしま菜\'S](https://ja.wikipedia.org/wiki/ひろしま菜\'S)から翻訳されています。
 
 
 『**ひろしま菜's**』（ヒロシマサイズ）は、[2005年](../Page/2005年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で毎月1回のペースで放送されていた[ローカル番組](../Page/ローカル番組.md "wikilink")。[JAグループ広島の単独提供](../Page/農業協同組合.md "wikilink")。

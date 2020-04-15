@@ -1,4 +1,4 @@
-> この記事は[M.I.U. ](https://ja.wikipedia.org/wiki/M.I.U._)から翻訳されています。
+> この記事は[M.I.U. アルバム](https://ja.wikipedia.org/wiki/M.I.U._アルバム)から翻訳されています。
 
 
 『**M.I.U. アルバム**』(***M.I.U. Album***)は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")にリリースされた[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")のアルバム。

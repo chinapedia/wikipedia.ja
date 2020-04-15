@@ -1,4 +1,4 @@
-> この記事は[ Going](https://ja.wikipedia.org/wiki/_Going)から翻訳されています。
+> この記事は[黒木瞳 ホッとGoing](https://ja.wikipedia.org/wiki/黒木瞳_ホッとGoing)から翻訳されています。
 
 
 **[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")プレゼンツ・黒木瞳 ホッとGoing**（くろきひとみホッとゴーイング）は[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")で月曜～金曜の5分間放送されていた番組。[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までは「**ダイハツシンプル・ビューティ 黒木瞳 ホッとGoing**」として放送していた。

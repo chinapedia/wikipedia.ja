@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[スーパードクターK](https://ja.wikipedia.org/wiki/スーパードクターK)から翻訳されています。
 
 
 『**スーパードクターK**』は、[真船一雄](../Page/真船一雄.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ドクトル・ノンベ](https://ja.wikipedia.org/wiki/ドクトル・ノンベ "wikilink")』の著者として知られる医師兼漫画家の[中原とほる](https://ja.wikipedia.org/wiki/中原とほる "wikilink")\[1\]が原案協力、万丈目喜介(まんじょうめ きすけ)が取材協力を担当している。[講談社](../Page/講談社.md "wikilink")の『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』にて[1988年](../Page/1988年.md "wikilink")17号から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")45号まで連載された。

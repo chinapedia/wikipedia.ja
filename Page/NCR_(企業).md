@@ -1,4 +1,4 @@
-> この記事は[NCR \(\)](https://ja.wikipedia.org/wiki/NCR_\(\))から翻訳されています。
+> この記事は[NCR \(企業\)](https://ja.wikipedia.org/wiki/NCR_\(企業\))から翻訳されています。
 
 
 **NCR**（NCR Corporation）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の総合情報システム企業。

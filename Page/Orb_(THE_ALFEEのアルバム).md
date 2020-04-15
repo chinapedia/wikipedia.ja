@@ -1,4 +1,4 @@
-> この記事は[Orb \(THE ALFEE\)](https://ja.wikipedia.org/wiki/Orb_\(THE_ALFEE\))から翻訳されています。
+> この記事は[Orb \(THE ALFEEのアルバム\)](https://ja.wikipedia.org/wiki/Orb_\(THE_ALFEEのアルバム\))から翻訳されています。
 
 
 『**örb**』（オーブ）は、[1999年](../Page/1999年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")にリリースされた[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")19枚目の[アルバム](../Page/アルバム.md "wikilink")。

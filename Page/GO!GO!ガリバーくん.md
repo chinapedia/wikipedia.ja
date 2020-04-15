@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[GO!GO!ガリバーくん](https://ja.wikipedia.org/wiki/GO!GO!ガリバーくん)から翻訳されています。
 
 
 『**GO\!GO\!ガリバーくん**』（ゴーゴーガリバーくん）は、[関西テレビほかで放送されていた](../Page/関西テレビ放送.md "wikilink")[旅番組](../Page/旅番組.md "wikilink")である。関西テレビでは[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送。

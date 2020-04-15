@@ -1,4 +1,4 @@
-> この記事は[EDEN It\'s an Endless World!](https://ja.wikipedia.org/wiki/EDEN_It\'s_an_Endless_World!)から翻訳されています。
+> この記事は[EDEN 〜It\'s an Endless World!〜](https://ja.wikipedia.org/wiki/EDEN_〜It\'s_an_Endless_World!〜)から翻訳されています。
 
 
 『**EDEN 〜It's an Endless World\!〜**』（エデン イッツ・アン・エンドレス・ワールド）は、[遠藤浩輝](../Page/遠藤浩輝.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF漫画](../Page/SF漫画.md "wikilink")作品。[講談社](../Page/講談社.md "wikilink")『[月刊アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")』にて1997年11月号より連載され、2008年8月号にて完結している。作者の初連載作品であり代表作。単行本は全18巻。

@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[N線](https://ja.wikipedia.org/wiki/N線)から翻訳されています。
 
 
 『**N線**』（エヌせん、）は、[1903年](../Page/1903年.md "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の科学者[ルネ・ブロンロ](../Page/ルネ・ブロンロ.md "wikilink")により報告された現象であるが、後にそれは錯誤によるものであることが明らかになった。[病的科学](../Page/病的科学.md "wikilink")の一例として示されることが多い。

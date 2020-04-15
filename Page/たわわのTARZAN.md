@@ -1,4 +1,4 @@
-> この記事は[TARZAN](https://ja.wikipedia.org/wiki/TARZAN)から翻訳されています。
+> この記事は[たわわのTARZAN](https://ja.wikipedia.org/wiki/たわわのTARZAN)から翻訳されています。
 
 
 『**たわわのTARZAN**』（たわわのターザン）は、[1991年](../Page/1991年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")まで[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で放送された若者向けの[深夜番組](../Page/深夜番組.md "wikilink")。司会は[竹井輝彦](https://ja.wikipedia.org/wiki/竹井輝彦 "wikilink")と[山田真理子](https://ja.wikipedia.org/wiki/山田真理子 "wikilink")。

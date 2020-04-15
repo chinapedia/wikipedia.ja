@@ -1,4 +1,4 @@
-> この記事は[01 THE ANIMATION](https://ja.wikipedia.org/wiki/01_THE_ANIMATION)から翻訳されています。
+> この記事は[キカイダー01 THE ANIMATION](https://ja.wikipedia.org/wiki/キカイダー01_THE_ANIMATION)から翻訳されています。
 
 
 『**キカイダー01 THE ANIMATION**』（キカイダーゼロワン ジ アニメーション）は2001年に製作された日本の[OVA](../Page/OVA.md "wikilink")作品。[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の漫画『[人造人間キカイダー](https://ja.wikipedia.org/wiki/人造人間キカイダー_\(漫画\) "wikilink")』の後半部分のアニメ化作品であり、2000年に製作された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[人造人間キカイダー THE ANIMATION](../Page/人造人間キカイダー_THE_ANIMATION.md "wikilink")』の続編。

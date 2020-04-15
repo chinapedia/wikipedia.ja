@@ -1,4 +1,4 @@
-> この記事は[SKY](https://ja.wikipedia.org/wiki/SKY)から翻訳されています。
+> この記事は[SKY配列](https://ja.wikipedia.org/wiki/SKY配列)から翻訳されています。
 
 
 **SKY配列**（すかいはいれつ）とは、[コンピュータ](../Page/コンピュータ.md "wikilink")への日本語入力を行うための、ローマ字入力用[キー配列](../Page/キー配列.md "wikilink")のひとつ。

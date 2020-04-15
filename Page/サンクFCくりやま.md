@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サンクFCくりやま](https://ja.wikipedia.org/wiki/サンクFCくりやま)から翻訳されています。
 
 
 **サンクFCくりやま**（サンクエフシーくりやま、**Thank FC Kuriyama**）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")夕張郡[栗山町](../Page/栗山町.md "wikilink")をホームタウンとするサッカークラブチーム。

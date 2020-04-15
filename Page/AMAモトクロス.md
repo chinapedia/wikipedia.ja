@@ -1,4 +1,4 @@
-> この記事は[AMA](https://ja.wikipedia.org/wiki/AMA)から翻訳されています。
+> この記事は[AMAモトクロス](https://ja.wikipedia.org/wiki/AMAモトクロス)から翻訳されています。
 
 
 **AMAモトクロスは**（エーエムエー－、**AMA Motocross**）は、AMA（アメリカモーターサイクル協会）が主催する[モトクロス](../Page/モトクロス.md "wikilink")全米選手権。

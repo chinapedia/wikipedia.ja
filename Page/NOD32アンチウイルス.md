@@ -1,4 +1,4 @@
-> この記事は[NOD32](https://ja.wikipedia.org/wiki/NOD32)から翻訳されています。
+> この記事は[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス)から翻訳されています。
 
 
 **NOD32アンチウイルス**（エヌオーディーさんじゅうにアンチウイルス）とは、[スロバキア](../Page/スロバキア.md "wikilink")の[ESET](https://ja.wikipedia.org/wiki/ESET "wikilink")社が開発した[アンチウイルスソフト](https://ja.wikipedia.org/wiki/アンチウイルスソフト "wikilink")。

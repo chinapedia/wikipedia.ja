@@ -1,4 +1,4 @@
-> この記事は[ THE ANIMATION](https://ja.wikipedia.org/wiki/_THE_ANIMATION)から翻訳されています。
+> この記事は[人造人間キカイダー THE ANIMATION](https://ja.wikipedia.org/wiki/人造人間キカイダー_THE_ANIMATION)から翻訳されています。
 
 
 『**人造人間キカイダー THE ANIMATION**』（じんぞうにんげんキカイダー ジ アニメーション）は、[2000年](../Page/2000年.md "wikilink")10月から[2001年](../Page/2001年.md "wikilink")1月まで[キッズステーション](../Page/キッズステーション.md "wikilink")で放送されたテレビアニメ。2003年に[WOWOW](../Page/WOWOW.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")10月から[TOKYO MXで](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2010年7月から[NHK BS2で放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")。[特撮](../Page/特撮.md "wikilink")版のリメイクではなく[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")の漫画『[人造人間キカイダー](https://ja.wikipedia.org/wiki/人造人間キカイダー_\(漫画\) "wikilink")』を原作としている。2001年には続編の[OVA](../Page/OVA.md "wikilink")『[キカイダー01 THE ANIMATION](../Page/キカイダー01_THE_ANIMATION.md "wikilink")』が製作されている。

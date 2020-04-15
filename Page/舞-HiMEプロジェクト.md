@@ -1,4 +1,4 @@
-> この記事は[-HiME](https://ja.wikipedia.org/wiki/-HiME)から翻訳されています。
+> この記事は[舞-HiMEプロジェクト](https://ja.wikipedia.org/wiki/舞-HiMEプロジェクト)から翻訳されています。
 
 
 **舞-HiMEプロジェクト**（まいひめプロジェクト）とは、[2004年](../Page/2004年.md "wikilink")から開始された、アニメ制作会社[サンライズの](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[アニメ](../Page/アニメ.md "wikilink")シリーズとその[メディアミックス](../Page/メディアミックス.md "wikilink")の呼称。

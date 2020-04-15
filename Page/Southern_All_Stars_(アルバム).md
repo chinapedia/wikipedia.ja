@@ -1,4 +1,4 @@
-> この記事は[Southern All Stars \(\)](https://ja.wikipedia.org/wiki/Southern_All_Stars_\(\))から翻訳されています。
+> この記事は[Southern All Stars \(アルバム\)](https://ja.wikipedia.org/wiki/Southern_All_Stars_\(アルバム\))から翻訳されています。
 
 
 『**Southern All Stars**』（サザンオールスターズ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の9枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

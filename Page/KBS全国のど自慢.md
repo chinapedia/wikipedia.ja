@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS全国のど自慢](https://ja.wikipedia.org/wiki/KBS全国のど自慢)から翻訳されています。
 
 
 **KBS全国のど自慢**（ケービーエスぜんこくのどじまん 、韓国語表記：）は、韓国[KBS第1テレビで毎週日曜日午後](../Page/韓国放送公社.md "wikilink")0時10分から放送中の公開視聴者参加&長寿番組である。

@@ -1,4 +1,4 @@
-> この記事は[BX](https://ja.wikipedia.org/wiki/BX)から翻訳されています。
+> この記事は[シトロエン・BX](https://ja.wikipedia.org/wiki/シトロエン・BX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Citbx.jpg "wikilink") **シトロエン BX**（*Citroën BX*）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の自動車会社[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が製造、販売した[ハッチバック](../Page/ハッチバック.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")。

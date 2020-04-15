@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NST新潟総合テレビ番組一覧](https://ja.wikipedia.org/wiki/NST新潟総合テレビ番組一覧)から翻訳されています。
 
 
 **NST新潟総合テレビ番組一覧**（エヌエスティーにいがたそうごうテレビばんぐみいちらん）は、[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")において現在放送されている番組ならびに過去に放送された番組の一覧である。
@@ -8,9 +8,9 @@
 ### 自社制作番組
 
   - [スマイルナビゲーション](https://ja.wikipedia.org/wiki/NSTくらしの情報 "wikilink")（月 - 金曜 11:20 - 11:25、日曜 14:55 - 15:00）
-  - [NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（月曜 - 金曜 16:50 - 19:00）
+  - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:14 - 19:00）
   - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50）
-  - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00）
+  - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00、2015年3月までは『NSTニュース』）
   - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00　八千代コースターの姉妹番組）
   - [八千代コースター](https://ja.wikipedia.org/wiki/八千代コースター "wikilink")（土曜 10:25 - 11:15）
   - [シネマスタジアム](https://ja.wikipedia.org/wiki/シネマスタジアム "wikilink")（第2土曜 11:35 - 11:40、第4土曜 11:40 - 11:45 ※時間変更の場合あり）
@@ -264,14 +264,14 @@
   - [ANNニュースファイナル](../Page/ANNニュースファイナル.md "wikilink") ※
   - [アフタヌーンショー](../Page/アフタヌーンショー.md "wikilink")
   - [モーニングショー](../Page/モーニングショー.md "wikilink") ※
-  - [河童の三平 妖怪大作戦](../Page/河童の三平_妖怪大作戦.md "wikilink")(第12話より。第11話まではBSNで放映)
+  - [河童の三平 妖怪大作戦](../Page/河童の三平_妖怪大作戦.md "wikilink")（第12話より。第11話まではBSNで放送）
   - [西部警察](../Page/西部警察.md "wikilink")
   - [暴れん坊将軍](../Page/暴れん坊将軍.md "wikilink")
   - [メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")
   - [土曜映画劇場](../Page/土曜映画劇場.md "wikilink")
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")
   - [日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink") ※
-  - [水曜スペシャル](../Page/水曜スペシャル.md "wikilink")(同時ネットとなった[1981年](../Page/1981年.md "wikilink")4月以前は、「NST土曜スペシャル」枠にて一部の番組のみ放送された。)
+  - [水曜スペシャル](../Page/水曜スペシャル.md "wikilink")（同時ネットとなった[1981年](../Page/1981年.md "wikilink")4月以前は、「NST土曜スペシャル」枠にて一部の番組のみ放送された）
   - [欽ちゃんのどこまでやるの\!?](https://ja.wikipedia.org/wiki/欽ちゃんのどこまでやるの!? "wikilink")
   - [特別機動捜査隊](https://ja.wikipedia.org/wiki/特別機動捜査隊 "wikilink")（開局時にBSNよりネット移行）
   - [特捜最前線](../Page/特捜最前線.md "wikilink")
@@ -300,14 +300,15 @@
   - [世なおし奉行](https://ja.wikipedia.org/wiki/世なおし奉行 "wikilink")
   - [ナショナルゴールデン劇場](../Page/ナショナルゴールデン劇場.md "wikilink")
   - [ポーラ名作劇場](../Page/ポーラ名作劇場.md "wikilink")
-  - [火曜21時時代劇枠](https://ja.wikipedia.org/wiki/テレビ朝日火曜9時枠の連続ドラマ#第1期（1966年10月_-_1983年4月） "wikilink")（[1974年](../Page/1974年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは月曜22時に6日遅れで放送。[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは火曜21時に同時ネットで放送。[1981年](../Page/1981年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』が終了するまでは土曜20時に4日遅れで放送。）※
+  - [火曜21時時代劇枠](https://ja.wikipedia.org/wiki/テレビ朝日火曜9時枠の連続ドラマ#第1期（1966年10月_-_1983年4月） "wikilink")（[1974年](../Page/1974年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは月曜22時に放送。[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは火曜21時に同時ネットで放送。[1981年](../Page/1981年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』が終了するまでは土曜20時に放送）※
       - [鬼平犯科帳](https://ja.wikipedia.org/wiki/鬼平犯科帳_\(松本幸四郎\) "wikilink")（NET版第1シリーズ）→[大忠臣蔵](../Page/大忠臣蔵_\(1971年のテレビドラマ\).md "wikilink")→[荒野の素浪人](../Page/荒野の素浪人.md "wikilink")→[荒野の用心棒](https://ja.wikipedia.org/wiki/荒野の用心棒_\(テレビドラマ\) "wikilink")→[破れ傘刀舟悪人狩り](../Page/破れ傘刀舟悪人狩り.md "wikilink")→[破れ奉行](../Page/破れ奉行.md "wikilink")→[江戸の鷹 御用部屋犯科帖](../Page/江戸の鷹_御用部屋犯科帖.md "wikilink")→[破れ新九郎](../Page/破れ新九郎.md "wikilink")→[半七捕物帳](https://ja.wikipedia.org/wiki/半七捕物帳_\(1979年のテレビドラマ\) "wikilink")→[江戸の牙](../Page/江戸の牙.md "wikilink")→[鬼平犯科帳（萬屋錦之介主演）](https://ja.wikipedia.org/wiki/鬼平犯科帳_\(萬屋錦之介\) "wikilink")→[柳生あばれ旅](https://ja.wikipedia.org/wiki/柳生あばれ旅 "wikilink")→[文吾捕物帳](https://ja.wikipedia.org/wiki/文吾捕物帳 "wikilink")→[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")
   - [土曜ショー](../Page/土曜ショー.md "wikilink")
   - [激走\!ルーベンカイザー](../Page/激走!ルーベンカイザー.md "wikilink")
   - [パンポロリン](https://ja.wikipedia.org/wiki/パンポロリン "wikilink")
   - [題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")
   - [宮田輝の日本縦断 ふるさと](https://ja.wikipedia.org/wiki/宮田輝の日本縦断_ふるさと "wikilink")
-  - [新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")（[ABC制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、[腸捻転解消後](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")）
+  - [忍者ハットリくん](https://ja.wikipedia.org/wiki/忍者ハットリくん#テレビアニメ "wikilink")（30分版のみ、月曜 16:55 - 17:25に放送\[3\]）※
+  - [新婚さんいらっしゃい\!](../Page/新婚さんいらっしゃい!.md "wikilink")（[ABC制作](../Page/朝日放送テレビ.md "wikilink")、[腸捻転解消後](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")）
   - [必殺シリーズ](../Page/必殺シリーズ.md "wikilink")（ABC制作、『[必殺仕置屋稼業](../Page/必殺仕置屋稼業.md "wikilink")』から。BSNでは『[必殺必中仕事屋稼業](../Page/必殺必中仕事屋稼業.md "wikilink")』まで放送されたため、一時期は2局で並行放送となった）
   - [霊感ヤマカン第六感](../Page/霊感ヤマカン第六感.md "wikilink")（ABC制作、腸捻転解消後）
   - [おはようワイド・土曜の朝に](../Page/おはようワイド・土曜の朝に.md "wikilink")（ABC制作） ※
@@ -365,7 +366,7 @@
   - [細うで繁盛記](https://ja.wikipedia.org/wiki/細うで繁盛記#よみうりテレビ版 "wikilink")（[よみうりテレビ制作](../Page/讀賣テレビ放送.md "wikilink")）
   - [宇宙戦艦ヤマト](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト "wikilink")（よみうりテレビ制作、第1シリーズは30分先行ネット、『[――III](../Page/宇宙戦艦ヤマトIII.md "wikilink")』第24話まで放送）
   - [新・巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\)#新・巨人の星 "wikilink")（よみうりテレビ制作）
-  - [ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink") - 14:45 - 15:00に時差ネット\[3\]。
+  - [ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink") - 14:45 - 15:00に時差ネット\[4\]。
 
 ほか多数
 
@@ -390,4 +391,5 @@
 
 1.  同番組が「NST土曜スペシャル」枠にて番組一本買いという形で放送されていた時の主な番組は、『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』『[ドリフ大爆笑](../Page/ドリフ大爆笑.md "wikilink")』などであった。
 2.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")からHD放送。それまではNSTのフジテレビ系列外のハイビジョンデジタルネット回線の受け入れ整備がなかったため、地上デジタル放送でもSD放送([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")まで4:3、同年[7月5日](../Page/7月5日.md "wikilink")〜[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")まで16:9)のままであった。
-3.  「[新潟日報](../Page/新潟日報.md "wikilink")」1981年3月31日、20面テレビ欄、朝刊。
+3.
+4.  「[新潟日報](../Page/新潟日報.md "wikilink")」1981年3月31日、20面テレビ欄、朝刊。

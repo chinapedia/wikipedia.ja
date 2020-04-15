@@ -1,4 +1,4 @@
-> この記事は[YBC](https://ja.wikipedia.org/wiki/YBC)から翻訳されています。
+> この記事は[YBCイブニング・スコープ](https://ja.wikipedia.org/wiki/YBCイブニング・スコープ)から翻訳されています。
 
 
 『**YBCイブニング・スコープ**』（ワイビーシーイブニング・スコープ）は、2005年4月4日から[山形放送](../Page/山形放送.md "wikilink")ラジオ (YBC) で放送されている[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。略称は「**イブ・スコ**」または「**E・スコープ**」。

@@ -1,4 +1,4 @@
-> この記事は[RUN AWAY GIRL ](https://ja.wikipedia.org/wiki/RUN_AWAY_GIRL_)から翻訳されています。
+> この記事は[RUN AWAY GIRL 流れる女](https://ja.wikipedia.org/wiki/RUN_AWAY_GIRL_流れる女)から翻訳されています。
 
 
 『**RUN AWAY GIRL 流れる女**』（ランナウェイガール・ながれるおんな）は、2005年5月から[BSフジ](../Page/BSフジ.md "wikilink")で放映されていた[コメディーシチュエーション](../Page/シチュエーション・コメディ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")（ドラマのシーンが1ヵ所だけに集中した物語）である。

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[天と地と \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/天と地と_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**天と地と**』（てんとちと）は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")に放送した7作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全52回。

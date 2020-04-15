@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z変換](https://ja.wikipedia.org/wiki/Z変換)から翻訳されています。
 
 
 [関数解析学](../Page/関数解析学.md "wikilink")において、**Z変換**（ゼッドへんかん、Z-transform）とは、離散群上で定義される、[ローラン展開](https://ja.wikipedia.org/wiki/ローラン展開 "wikilink")をベースにした[関数空間](../Page/関数空間.md "wikilink")の間の[線形](https://ja.wikipedia.org/wiki/線形写像 "wikilink")[作用素](https://ja.wikipedia.org/wiki/作用素 "wikilink")。関数変換。

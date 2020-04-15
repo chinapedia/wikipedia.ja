@@ -1,4 +1,4 @@
-> この記事は[IA Prep School ](https://ja.wikipedia.org/wiki/IA_Prep_School_)から翻訳されています。
+> この記事は[IA Prep School 平岡](https://ja.wikipedia.org/wiki/IA_Prep_School_平岡)から翻訳されています。
 
 
 **I.A. Prep School 平岡**（アイ・エイ・プレップスクールひらおか）は、[英語](../Page/英語.md "wikilink")専門の[学習塾](../Page/学習塾.md "wikilink")である。旧称は平岡塾（ひらおかじゅく）\[1\]。現在でも通称はヒラオカ。

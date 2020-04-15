@@ -1,4 +1,4 @@
-> この記事は[JIS](https://ja.wikipedia.org/wiki/JIS)から翻訳されています。
+> この記事は[JIS慣用色名](https://ja.wikipedia.org/wiki/JIS慣用色名)から翻訳されています。
 
 
 **JIS慣用色名**（ジスかんようしきめい）は、[日本産業規格](../Page/日本産業規格.md "wikilink")『JIS Z 8102:2001 物体色の色名』付表1に示す慣用色名を指す。\[1\]
@@ -301,8 +301,7 @@
 
 ## 外部リンク
 
-  - [JIS規格・物体色の色名とRGB数値についての覚書](http://homepage3.nifty.com/mezala/pc/jiscolor/jiscolor.html)
-
+  -
 [Category:色](https://ja.wikipedia.org/wiki/Category:色 "wikilink") [Category:色名](https://ja.wikipedia.org/wiki/Category:色名 "wikilink") [Category:色名一覧](https://ja.wikipedia.org/wiki/Category:色名一覧 "wikilink") [Category:JIS](https://ja.wikipedia.org/wiki/Category:JIS "wikilink")
 
 1.

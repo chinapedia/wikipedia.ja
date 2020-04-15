@@ -1,4 +1,4 @@
-> この記事は[HG](https://ja.wikipedia.org/wiki/HG)から翻訳されています。
+> この記事は[ガシャポンHGシリーズ](https://ja.wikipedia.org/wiki/ガシャポンHGシリーズ)から翻訳されています。
 
 
 **ガシャポンHGシリーズ**（ガシャポンエイチジーシリーズ）とは、[バンダイ](../Page/バンダイ.md "wikilink")が[カプセル](https://ja.wikipedia.org/wiki/カプセル "wikilink")[自動販売機](../Page/自動販売機.md "wikilink")にて販売するカプセルトイ（[ガシャポン](../Page/ガシャポン.md "wikilink")）の商品群のシリーズ名である。なお、HGとは**H**IGH **G**RADE REAL FIGUREの略であり、[ガンプラHGシリーズに由来する](https://ja.wikipedia.org/wiki/ガンプラ#HG（ハイグレード） "wikilink")。「HGシリーズ」あるいは単に「HG」と略されることもある。現在は、このHGシリーズを更に発展させた「H.G.C.O.R.E（エイチジーコア）シリーズ」「HG（エイチジー）ヒーローズシリーズ」も展開している。
@@ -257,11 +257,14 @@
       - HG D+ EX01 ゴジラ モスラ＆ラドン＆モスラ幼虫セット
       - HGシリーズ 映画ドラゴンボール超　戦いの結末編
       - HG GIRLS [おジャ魔女どれみ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ "wikilink")【単品ver./セットver.】
-      - HGドラゴンボールGT　究極のドラゴンボール編
+      - HGシリーズ ドラゴンボールGT　究極のドラゴンボール編
       - HG GIRLS [アイカツ\!](https://ja.wikipedia.org/wiki/アイカツ! "wikilink")フォト on ステージ！！「青い苺」
       - HGシリーズ　ドラゴンボール 集結！バーダック軍団
       - HGシリーズ　[忍者戦隊カクレンジャー](../Page/忍者戦隊カクレンジャー.md "wikilink")
       - HGシリーズ ドラゴンボールGT 大猿覚醒編
+      - HGシリーズ ドラゴンボールZ フリーザ軍襲来編
+      - HG[あひるの空](../Page/あひるの空.md "wikilink") 車谷空
+      - HGあひるの空 夏目健二
 
 ## 関連書籍（バンダイ公認のみ）
 

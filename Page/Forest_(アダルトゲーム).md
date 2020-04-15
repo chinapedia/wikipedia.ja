@@ -1,4 +1,4 @@
-> この記事は[Forest \(\)](https://ja.wikipedia.org/wiki/Forest_\(\))から翻訳されています。
+> この記事は[Forest \(アダルトゲーム\)](https://ja.wikipedia.org/wiki/Forest_\(アダルトゲーム\))から翻訳されています。
 
 
 『**Forest**』（**フォレスト**）は、[2004年](../Page/2004年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に[ライアーソフト](../Page/ライアーソフト.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。パッケージ版は既に生産・販売終了となっているが、[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[DL販売で購入可能となっている](../Page/ダウンロード販売.md "wikilink")。

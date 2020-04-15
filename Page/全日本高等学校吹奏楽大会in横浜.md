@@ -1,4 +1,4 @@
-> この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
+> この記事は[全日本高等学校吹奏楽大会in横浜](https://ja.wikipedia.org/wiki/全日本高等学校吹奏楽大会in横浜)から翻訳されています。
 
 
 **全日本高等学校吹奏楽大会in横浜**（ぜんにほんこうとうがっこうすいそうがくたいかいいんよこはま）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")で毎年開催されている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[高校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[吹奏楽](../Page/吹奏楽.md "wikilink")の大会である。

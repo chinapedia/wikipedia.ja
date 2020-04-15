@@ -1,4 +1,4 @@
-> この記事は[TOYOTA Presents Shall We Drive\?!](https://ja.wikipedia.org/wiki/TOYOTA_Presents_Shall_We_Drive\?!)から翻訳されています。
+> この記事は[TOYOTA Presents 片山右京のShall We Drive\?〜ドライブしようよ!〜](https://ja.wikipedia.org/wiki/TOYOTA_Presents_片山右京のShall_We_Drive\?〜ドライブしようよ!〜)から翻訳されています。
 
 
 **TOYOTA Presents 片山右京のShall We Drive?〜ドライブしようよ\!〜**（トヨタプレゼンツ かたやまうきょうのシャル ウィ ドライブ?ドライブしようよ\!）は、[2005年](../Page/2005年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")より[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[JRN系列で毎週土曜日もしくは日曜日に](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")15分間放送されていた番組。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。

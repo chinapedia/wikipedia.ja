@@ -1,4 +1,4 @@
-> この記事は[SH-5 \(\)](https://ja.wikipedia.org/wiki/SH-5_\(\))から翻訳されています。
+> この記事は[SH-5 \(航空機\)](https://ja.wikipedia.org/wiki/SH-5_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=SH-5 | 画像=ファイル:DATANSHAN_AVIATION_MUSEUM_BEIJING_CHINA_OCT_2012_(8162326573).jpg|300px | キャプション=水轟五型（SH-5）

@@ -53,4 +53,4 @@
   - 2008年3月上旬、管理人が仕事を首になる。
   - 2008年3月上旬から、オリジナル掲示板スクリプトの作成が再開される。
 
-[Category:電子掲示板](https://ja.wikipedia.org/wiki/Category:電子掲示板 "wikilink")
+[Category:電子掲示板](https://ja.wikipedia.org/wiki/Category:電子掲示板 "wikilink") [Category:2005年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2005年開設のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink")

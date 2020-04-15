@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ヴィクター・L・バーガー](https://ja.wikipedia.org/wiki/ヴィクター・L・バーガー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Victor_Berger_International_news.jpg "wikilink") **ヴィクター・ルイス・バーガー**（****, [1860年](../Page/1860年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") - [1929年](../Page/1929年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")）は、[オーストリア帝国](../Page/オーストリア帝国.md "wikilink")（の内現在の[ハンガリー](../Page/ハンガリー.md "wikilink")にあたる地方）出身の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[社会主義](../Page/社会主義.md "wikilink")者・[政治家](../Page/政治家.md "wikilink")、編集者。[アメリカ社会党](../Page/アメリカ社会党.md "wikilink")創設者の一人。[防諜法](https://ja.wikipedia.org/wiki/防諜法 "wikilink")の暴力性を指摘し、また[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")の立場であったために[アメリカ合衆国下院](../Page/アメリカ合衆国下院.md "wikilink")を追われたとされる政治家である。

@@ -1,4 +1,4 @@
-> この記事は[OH](https://ja.wikipedia.org/wiki/OH)から翻訳されています。
+> この記事は[OH砲](https://ja.wikipedia.org/wiki/OH砲)から翻訳されています。
 
 
 **OH砲**（OHほう）とは、主に[王貞治](../Page/王貞治.md "wikilink")と[張本勲](../Page/張本勲.md "wikilink")が[日本プロ野球](../Page/日本プロ野球.md "wikilink")の[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に在籍していた当時のコンビを指す[愛称](../Page/愛称.md "wikilink")である。

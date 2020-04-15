@@ -1,4 +1,4 @@
-> この記事は[ It\'s a Wonderful Life](https://ja.wikipedia.org/wiki/_It\'s_a_Wonderful_Life)から翻訳されています。
+> この記事は[智代アフター 〜It\'s a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It\'s_a_Wonderful_Life〜)から翻訳されています。
 
 
 『**智代アフター 〜It's a Wonderful Life〜**』（ともよアフター - イッツ ア ワンダフル ライフ）は、ゲームブランド・[Keyが制作した](../Page/Key_\(ゲームブランド\).md "wikilink")5作目の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")、およびそれを原作として[メディアミックス](../Page/メディアミックス.md "wikilink")展開された作品群である。

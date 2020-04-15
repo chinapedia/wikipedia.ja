@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCメス](https://ja.wikipedia.org/wiki/FCメス)から翻訳されています。
 
 
 **フットボール・クルブ・ドゥ・メス**（）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[メスに本拠地を置く](https://ja.wikipedia.org/wiki/メス_\(都市\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[ローランド・SCシリーズ](https://ja.wikipedia.org/wiki/ローランド・SCシリーズ)から翻訳されています。
 
 
 **SCシリーズ**とは[ローランド](../Page/ローランド.md "wikilink")の[DTM用](../Page/デスクトップミュージック.md "wikilink")[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。総称はサウンド・キャンバス (*SoundCanvas*) 。なお、SCシリーズの音源部にキーボードを取り付け作業の利便性向上を図ったモデルである、SKシリーズについても本稿に掲載している。2015年に発売された「SOUND Canvas for iOS」と「SOUND Canvas VA」についても本稿に掲載する。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Roland_SC-88Pro.jpg "wikilink")
@@ -104,7 +104,7 @@
   - SOUND Canvas for iOS
     2015年01月29日に発売された、SCシリーズを再現したiOS用[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")。1600音色、音色マップ7（SC-8820、SC-88Pro、SC-88、SC-55、GM2、CM-64 Map(PCM)、CM-64 Map(LA)）\[1\]。
   - SOUND Canvas VA
-    2015年12月24日に発売された、SCシリーズを再現したWindows/Mac対応のソフトウェア・シンセサイザー。[Virtual Studio Technology](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（VST）と[Audio Units](../Page/Audio_Units.md "wikilink")（AU）の両方に対応している。iOS版と同一のものが使われている\[2\]。エフェクトやフィルタの掛かり方のニュアンスが異なるため完全な再現はできない。
+    2015年12月24日に発売された、SCシリーズを再現したWindows/Mac対応のソフトウェア・シンセサイザー。[Virtual Studio Technology](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")（VST）と[Audio Units](../Page/Audio_Units.md "wikilink")（AU）の両方に対応している。iOS版と同一のものが使われている\[2\]。エフェクトやフィルタの掛かり方のニュアンスが異なるため完全な再現はできず、バグも多い。フィルタもSC-88Pro等ではアタック音が潰れないように作られているデータでもアタック音が潰れたりと癖が強く、SC-88Pro互換としてはあまりに残念だが、上手く扱えばそれなりに使えるのでGSデータ再生用と思わない方がいい。エクスクルーシブメッセージに対応していない場合の対策としてImport SMF EXCというMIDIデータを読み込んでエクスクルーシブメッセージを受信させる機能があるが、Format1に対応しておらず、マニュアルにも一切書かれていない上、エラーメッセージすら出ない。SC-88ProやSC-8850等と同様に、非公式でXGフォーマットの互換モードに対応しているが、Import SMF EXCからXGデータを読み込ませないとXGモードにならない上、GMリセット等があるとXGモードが解除されてしまうので再生に使うプレイヤー等からGMリセットを消すかフィルタでGMリセットを弾く必要がある。
 
 ## その他の機種
 

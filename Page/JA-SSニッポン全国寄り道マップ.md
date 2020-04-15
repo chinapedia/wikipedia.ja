@@ -1,9 +1,9 @@
-> この記事は[JA-SS](https://ja.wikipedia.org/wiki/JA-SS)から翻訳されています。
+> この記事は[JA-SSニッポン全国寄り道マップ](https://ja.wikipedia.org/wiki/JA-SSニッポン全国寄り道マップ)から翻訳されています。
 
 
 **JA-SSニッポン全国寄り道マップ**（ ジェイエーエスエス ニッポンぜんこくよりみちマップ）は、[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より[ナイター](../Page/ナイター.md "wikilink")シーズンオフに放送されていた[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[NRN系列の](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。月曜から金曜の19時10分～19時20分に放送。提供は[JA-SS](../Page/JA-SS.md "wikilink")。日本全国からの[ニュース](../Page/ニュース.md "wikilink")を紹介する「日本全国寄り道ニュース」と、全国のJA-SSのメンバーが毎回出演し、ご当地情報や[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")情報を紹介するコーナーが編成されている。
 
-[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[九州朝日放送以外の局は](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")『[ショウアップナイターストライク\!](../Page/ショウアップナイターストライク!.md "wikilink")』([2005年](../Page/2005年.md "wikilink")ナイターオフから「[松本ひでおのショウアップナイターストライク\!](../Page/松本ひでおのショウアップナイターストライク!.md "wikilink")」)に内包（上記3局はニッポン放送からの裏送りオンエア。またJA-SSのない北海道（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）では放送されていない→北海道は[ホクレン系が](../Page/ホクレン農業協同組合連合会.md "wikilink")[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")事業を行っている）。
+[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[九州朝日放送以外の局は](../Page/KBCラジオ.md "wikilink")『[ショウアップナイターストライク\!](../Page/ショウアップナイターストライク!.md "wikilink")』([2005年](../Page/2005年.md "wikilink")ナイターオフから「[松本ひでおのショウアップナイターストライク\!](../Page/松本ひでおのショウアップナイターストライク!.md "wikilink")」)に内包（上記3局はニッポン放送からの裏送りオンエア。またJA-SSのない北海道（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）では放送されていない→北海道は[ホクレン系が](../Page/ホクレン農業協同組合連合会.md "wikilink")[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")事業を行っている）。
 
 ## ネット局
 

@@ -1,4 +1,4 @@
-> この記事は[TOW \(\)](https://ja.wikipedia.org/wiki/TOW_\(\))から翻訳されています。
+> この記事は[TOW \(ミサイル\)](https://ja.wikipedia.org/wiki/TOW_\(ミサイル\))から翻訳されています。
 
 
 **BGM-71 TOW**（トウ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で開発された[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")。名称は （発射筒で発射され、光学的に追跡され、有線で誘導される）の頭文字に由来する。[アメリカ軍](../Page/アメリカ軍.md "wikilink")における制式名称は**BGM-71**。

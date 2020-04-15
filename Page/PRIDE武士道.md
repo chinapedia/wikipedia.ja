@@ -1,4 +1,4 @@
-> この記事は[PRIDE](https://ja.wikipedia.org/wiki/PRIDE)から翻訳されています。
+> この記事は[PRIDE武士道](https://ja.wikipedia.org/wiki/PRIDE武士道)から翻訳されています。
 
 
 **PRIDE武士道**（プライドぶしどう）は、[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")が運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")[イベント](../Page/イベント.md "wikilink")「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の新たな[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")。

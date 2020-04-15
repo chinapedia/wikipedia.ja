@@ -1,4 +1,4 @@
-> この記事は[Friday](https://ja.wikipedia.org/wiki/Friday)から翻訳されています。
+> この記事は[じゃじゃじゃFriday](https://ja.wikipedia.org/wiki/じゃじゃじゃFriday)から翻訳されています。
 
 
 『**じゃじゃじゃFriday**』（じゃじゃじゃフライデー）は、[2005年](../Page/2005年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2014年](../Page/2014年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")までの毎週金曜日に[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")で放送されていた[テレビ番組](../Page/テレビ番組.md "wikilink")。通称「**じゃじゃ金（きん）**」。

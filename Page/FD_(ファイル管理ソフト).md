@@ -1,4 +1,4 @@
-> この記事は[FD \(\)](https://ja.wikipedia.org/wiki/FD_\(\))から翻訳されています。
+> この記事は[FD \(ファイル管理ソフト\)](https://ja.wikipedia.org/wiki/FD_\(ファイル管理ソフト\))から翻訳されています。
 
 
 **FD**は、[MS-DOS](../Page/MS-DOS.md "wikilink")上で動作する[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")である。[フリーウェア](../Page/フリーウェア.md "wikilink")。

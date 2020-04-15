@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[いっかくじゅう座U星](https://ja.wikipedia.org/wiki/いっかくじゅう座U星)から翻訳されています。
 
 
 **いっかくじゅう座U星**（いっかくじゅうざゆーせい）は、[いっかくじゅう座](../Page/いっかくじゅう座.md "wikilink")にある[おうし座](../Page/おうし座.md "wikilink")RV型の[脈動変光星](../Page/脈動変光星.md "wikilink")である。学名はU Monocerotis（略称はU Mon）。

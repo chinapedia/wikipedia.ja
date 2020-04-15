@@ -1,4 +1,4 @@
-> この記事は[KRY](https://ja.wikipedia.org/wiki/KRY)から翻訳されています。
+> この記事は[ほっとゾーンおはようKRY](https://ja.wikipedia.org/wiki/ほっとゾーンおはようKRY)から翻訳されています。
 
 
 **おはようKRY**（おはようケーアールワイ）は、KRY[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで放送している平日早朝の大型ワイド・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[2002年](../Page/2002年.md "wikilink")4月に放送開始。

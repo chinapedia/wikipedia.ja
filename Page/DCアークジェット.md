@@ -1,4 +1,4 @@
-> この記事は[DC](https://ja.wikipedia.org/wiki/DC)から翻訳されています。
+> この記事は[DCアークジェット](https://ja.wikipedia.org/wiki/DCアークジェット)から翻訳されています。
 
 
 **DCアークジェット**（DC arcjet）とは[電気推進](../Page/電気推進.md "wikilink")の一種であり、電熱加速型に分類される。DCはDirect Current（直流）を表す。単にアークジェットと呼ばれる場合もある。同軸状に配された中心軸上の[カソード](../Page/カソード.md "wikilink")それを囲う[アノード](https://ja.wikipedia.org/wiki/アノード "wikilink")との間に[直流](../Page/直流.md "wikilink")電源により[アーク放電柱を生成し](https://ja.wikipedia.org/wiki/電弧 "wikilink")、それにより推進剤を加熱する。加熱され一部が電離した高[エンタルピ](https://ja.wikipedia.org/wiki/エンタルピ "wikilink")の推進剤は、ノズルの役割も兼ねる陽極により空気力学的に加速され、推力が生み出される。始動は一般に数kVの高[電圧](../Page/電圧.md "wikilink")の[パルス](../Page/パルス.md "wikilink")放電により行われ、その後数百Vの直流アーク放電による定常モードに移行する。

@@ -1,4 +1,4 @@
-> この記事は[F6U \(\)](https://ja.wikipedia.org/wiki/F6U_\(\))から翻訳されています。
+> この記事は[F6U \(航空機\)](https://ja.wikipedia.org/wiki/F6U_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:F6U-1_Pirate_NATC_in_flight.jpg "wikilink") **F6U**は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに製造された艦載ジェット[戦闘機](../Page/戦闘機.md "wikilink")。[ヴォート社が製造した初のジェット戦闘機になる](../Page/ヴォート・エアクラフト・インダストリーズ.md "wikilink")。愛称は**パイレート** (Pirate) 。アメリカ製ジェット戦闘機として初めて[アフターバーナー](../Page/アフターバーナー.md "wikilink")を搭載した機体であり、[1946年](../Page/1946年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に初飛行したが、低性能であったために30機前後しか生産されなかった。

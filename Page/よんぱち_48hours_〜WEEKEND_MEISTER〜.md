@@ -1,4 +1,4 @@
-> この記事は[ 48hours WEEKEND MEISTER](https://ja.wikipedia.org/wiki/_48hours_WEEKEND_MEISTER)から翻訳されています。
+> この記事は[よんぱち 48hours 〜WEEKEND MEISTER〜](https://ja.wikipedia.org/wiki/よんぱち_48hours_〜WEEKEND_MEISTER〜)から翻訳されています。
 
 
 『**よんぱち 48hours 〜WEEKEND MEISTER〜**』（よんぱち フォーティエイトアワーズ・ウィークエンドマイスター）は、[2004年](../Page/2004年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")まで[TOKYO FMで毎週金曜](../Page/エフエム東京.md "wikilink") 13:00 - 16:30に[生放送](../Page/生放送.md "wikilink")していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

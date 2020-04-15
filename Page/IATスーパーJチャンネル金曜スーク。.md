@@ -1,4 +1,4 @@
-> この記事は[IATJ](https://ja.wikipedia.org/wiki/IATJ)から翻訳されています。
+> この記事は[IATスーパーJチャンネル金曜スーク。](https://ja.wikipedia.org/wiki/IATスーパーJチャンネル金曜スーク。)から翻訳されています。
 
 
 『**IATスーパーJチャンネル金曜スーク。**』（アイエイティー スーパージェイチャンネルきんようスーク）は、[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")で放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[フェネルバフチェSK](https://ja.wikipedia.org/wiki/フェネルバフチェSK)から翻訳されています。
 
 
 **フェネルバフチェ・スポル・クリュビュ**（）は、[トルコ](../Page/トルコ.md "wikilink")の[イスタンブール](../Page/イスタンブール.md "wikilink")を本拠地とする総合スポーツクラブ。

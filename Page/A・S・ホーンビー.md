@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[A・S・ホーンビー](https://ja.wikipedia.org/wiki/A・S・ホーンビー)から翻訳されています。
 
 
 **A・S・ホーンビー**（Albert Sidney Hornby、[1898年](../Page/1898年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[英語学者](https://ja.wikipedia.org/wiki/英語学者 "wikilink")で辞書編集者。[イングランド](../Page/イングランド.md "wikilink")の[チェスター](../Page/チェスター.md "wikilink")の生まれ。[ロンドン大学](../Page/ロンドン大学.md "wikilink")で学び、[1924年](../Page/1924年.md "wikilink")4月に来日し[大分高等商業学校](../Page/大分高等商業学校.md "wikilink")で英語を教える。[ハロルド・E・パーマー](../Page/ハロルド・E・パーマー.md "wikilink")に共鳴し、語彙選定など彼の仕事を手伝っていたが、[1933年](../Page/1933年.md "wikilink")にパーマーの後継者として東京に招かれた。[東京外国語学校](../Page/東京外国語学校_\(旧制\).md "wikilink")（現在の[東京外国語大学](../Page/東京外国語大学.md "wikilink")）、[東京高等師範学校](../Page/東京高等師範学校.md "wikilink")でも英語を教えた。愛煙家でよく帽子をかぶっていた。

@@ -1,4 +1,4 @@
-> この記事は[BAND](https://ja.wikipedia.org/wiki/BAND)から翻訳されています。
+> この記事は[中ノ森BAND](https://ja.wikipedia.org/wiki/中ノ森BAND)から翻訳されています。
 
 
 **中ノ森BAND**（なかのもりバンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ガールズバンド](../Page/ガールズバンド.md "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[インペリアルレコード](../Page/インペリアルレコード_\(日本\).md "wikilink")。2008年6月に解散した。

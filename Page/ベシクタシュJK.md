@@ -1,4 +1,4 @@
-> この記事は[JK](https://ja.wikipedia.org/wiki/JK)から翻訳されています。
+> この記事は[ベシクタシュJK](https://ja.wikipedia.org/wiki/ベシクタシュJK)から翻訳されています。
 
 
 **ベシクタシュ・ジムナスティック・クリュビュ**（ , **）は、[トルコ](../Page/トルコ.md "wikilink")の[イスタンブール](../Page/イスタンブール.md "wikilink")市を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。クラブ名はホームスタジアムのある[ベシクタシュ](../Page/ベシクタシュ.md "wikilink")区の地名に由来している。

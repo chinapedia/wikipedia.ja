@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[北近畿ビッグXネットワーク](https://ja.wikipedia.org/wiki/北近畿ビッグXネットワーク)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kitakinki_big-x-Network_2011.png "wikilink") **北近畿ビッグXネットワーク**（きたきんきビッグエックスネットワーク）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）と[京都丹後鉄道](https://ja.wikipedia.org/wiki/京都丹後鉄道 "wikilink")による[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[北部の特急ネットワークの愛称である](../Page/北近畿.md "wikilink")。
@@ -52,7 +52,7 @@
 
 ## 今後の課題
 
-1990年代に入り、[舞鶴若狭自動車道](../Page/舞鶴若狭自動車道.md "wikilink")（当初は舞鶴自動車道）の開通や[播但連絡道路](../Page/播但連絡道路.md "wikilink")の延長が行われたほか、2000年以降においても、[北近畿豊岡自動車道](../Page/北近畿豊岡自動車道.md "wikilink")・[京都縦貫自動車道](../Page/京都縦貫自動車道.md "wikilink")・[山陰近畿自動車道](../Page/山陰近畿自動車道.md "wikilink")などの高規格道路や、従来からの国道などの整備が進められている。それらの一部は既に供用を開始している。このことは道路整備が比較的遅れていた[北近畿](../Page/北近畿.md "wikilink")地方において自動車への移行が急速に進むことをも意味し、それによる鉄道利用者の減少への対応も迫られている。特に舞鶴若狭自動車道、京都縦貫自動車道に関しては2010年から始まった[高速料金無料化の](https://ja.wikipedia.org/wiki/高速道路無料化 "wikilink")[社会実験](../Page/社会実験.md "wikilink")の対象区間になり鉄道にとっては最大の脅威となっていたが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の発生によって、[高速道路無料化社会実験そのものが](https://ja.wikipedia.org/wiki/高速道路無料化#高速道路無料化社会実験 "wikilink")[2011年](../Page/2011年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")限りで打ち切りとなっている。
+1990年代に入り、[舞鶴若狭自動車道](../Page/舞鶴若狭自動車道.md "wikilink")（当初は舞鶴自動車道）の開通や[播但連絡道路](../Page/播但連絡道路.md "wikilink")の延長が行われたほか、2000年以降においても、[北近畿豊岡自動車道](../Page/北近畿豊岡自動車道.md "wikilink")・[京都縦貫自動車道](../Page/京都縦貫自動車道.md "wikilink")・[山陰近畿自動車道](../Page/山陰近畿自動車道.md "wikilink")などの高規格道路や、従来からの国道などの整備が進められている。それらの一部は既に供用を開始している。このことは道路整備が比較的遅れていた[北近畿](../Page/北近畿.md "wikilink")地方において自動車への移行が急速に進むことをも意味し、それによる鉄道利用者の減少への対応も迫られている。特に舞鶴若狭自動車道、京都縦貫自動車道に関しては2010年から始まった[高速料金無料化の](https://ja.wikipedia.org/wiki/高速道路無料化 "wikilink")[社会実験](../Page/社会実験.md "wikilink")の対象区間になり鉄道にとっては最大の脅威となっていたが、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の発生によって、[高速道路無料化社会実験そのものが](https://ja.wikipedia.org/wiki/高速道路無料化#高速道路無料化社会実験 "wikilink")[2011年](../Page/2011年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")限りで打ち切りとなっている。
 
 近年では福知山地区では社会実験として、[パークアンドライド](../Page/パークアンドライド.md "wikilink")を促進するべく、駅の駐車場の利用者に特急料金を割引するなど、利用者の確保を行っている。
 

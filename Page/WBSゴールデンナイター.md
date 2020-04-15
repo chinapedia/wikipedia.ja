@@ -1,4 +1,4 @@
-> この記事は[WBS](https://ja.wikipedia.org/wiki/WBS)から翻訳されています。
+> この記事は[WBSゴールデンナイター](https://ja.wikipedia.org/wiki/WBSゴールデンナイター)から翻訳されています。
 
 
 **WBSゴールデンナイター**（ダブルビーエスゴールデンナイター）は、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）で放送される[ラジオの](../Page/ラジオ番組.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
@@ -24,6 +24,10 @@
       - 中継を途中で打ち切る際は、2017年シーズンまでは、お断りのアナウンス等は一切なく、所定の時刻になると直ちに中継音声を遮断しCMに入った。2018年シーズンからは、平井理弘（和歌山放送アナウンサー）による事前収録の音源で、中継を終了する旨のアナウンスを流してCMに入る。
       - 日曜日に中継を行っていた時代は、[和歌山県](../Page/和歌山県.md "wikilink")内の各市町村で大規模な選挙が行われる場合、開票速報のためにナイター中継を途中で打ち切ることがあった。
 
+## 解説者
+
+  - [島本講平](../Page/島本講平.md "wikilink")
+
 ## テーマソング
 
 下記は過去に使用していた曲で、2017年現在は別の曲を使用。
@@ -32,7 +36,7 @@
 
 ## 脚注
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:和歌山放送の帯番組](https://ja.wikipedia.org/wiki/Category:和歌山放送の帯番組 "wikilink") [Category:南海ホークス](https://ja.wikipedia.org/wiki/Category:南海ホークス "wikilink") [Category:南海グループ](https://ja.wikipedia.org/wiki/Category:南海グループ "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:和歌山放送の帯番組](https://ja.wikipedia.org/wiki/Category:和歌山放送の帯番組 "wikilink") [Category:南海ホークス](https://ja.wikipedia.org/wiki/Category:南海ホークス "wikilink") [Category:南海グループ](https://ja.wikipedia.org/wiki/Category:南海グループ "wikilink")
 
 1.  但し、近年は[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")・[徳島インディゴソックス](../Page/徳島インディゴソックス.md "wikilink")のホームゲーム中継に差し替えるケースも存在する。
 2.  ニッポン放送では、日本シリーズ・クライマックスシリーズ共に、中継を行う（クライマックスシリーズは、基本的にセ・リーグの試合）。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ポーター・J・ゴス](https://ja.wikipedia.org/wiki/ポーター・J・ゴス)から翻訳されています。
 
 
 **ポーター・ジョンストン・ゴス**（、[1938年](../Page/1938年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[中央情報局](../Page/中央情報局.md "wikilink")第19代長官。

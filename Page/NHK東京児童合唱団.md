@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK東京児童合唱団](https://ja.wikipedia.org/wiki/NHK東京児童合唱団)から翻訳されています。
 
 
 **NHK東京児童合唱団**（エヌエイチケーとうきょうじどうがっしょうだん）は、東京・[渋谷](../Page/渋谷.md "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")を拠点に活動する児童[合唱団](https://ja.wikipedia.org/wiki/合唱団 "wikilink")である。通称「N児」。

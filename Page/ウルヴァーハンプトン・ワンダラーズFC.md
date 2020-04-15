@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウルヴァーハンプトン・ワンダラーズFC](https://ja.wikipedia.org/wiki/ウルヴァーハンプトン・ワンダラーズFC)から翻訳されています。
 
 
 **ウルヴァーハンプトン・ワンダラーズ・フットボール・クラブ**（**Wolverhampton Wanderers Football Club**、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> ）は、[イングランド](../Page/イングランド.md "wikilink")中部・[ウェスト・ミッドランズ](../Page/ウェスト・ミッドランズ.md "wikilink")州[ウルヴァーハンプトン](../Page/ウルヴァーハンプトン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。愛称は**ウルブス**（**Wolves**）\[1\]。
@@ -361,7 +361,7 @@
 <td><p>ラウンド16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
 <td></td>
-<td></td>
+<td><p>1-1</p></td>
 <td><p>'''</p></td>
 <td></td>
 <td></td>

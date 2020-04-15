@@ -1,7 +1,7 @@
-> この記事は[SMILES](https://ja.wikipedia.org/wiki/SMILES)から翻訳されています。
+> この記事は[SMILES記法](https://ja.wikipedia.org/wiki/SMILES記法)から翻訳されています。
 
 
-**SMILES記法**（[スマイルスきほう](https://ja.wikipedia.org/wiki/アクロニム "wikilink")、）とは、[分子](../Page/分子.md "wikilink")の[化学構造を](https://ja.wikipedia.org/wiki/化学式#構造式 "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")符号の[英数字](https://ja.wikipedia.org/wiki/英数字 "wikilink")で[文字列](../Page/文字列.md "wikilink")化した、構造の[曖昧性](https://ja.wikipedia.org/wiki/曖昧性 "wikilink")の無い表記方法である。SMILES[文字列](../Page/文字列.md "wikilink")は多くの種類の[分子エディタ](https://ja.wikipedia.org/wiki/分子エディタ "wikilink")においてインポート可能で、二次元の図表あるいは三次元のモデルとして表示することができる。
+**SMILES記法**（[スマイルスきほう](https://ja.wikipedia.org/wiki/アクロニム "wikilink")、）とは、[分子](../Page/分子.md "wikilink")の[化学構造を](https://ja.wikipedia.org/wiki/化学式#構造式 "wikilink")[ASCII](../Page/ASCII.md "wikilink")符号の[英数字](https://ja.wikipedia.org/wiki/英数字 "wikilink")で[文字列](../Page/文字列.md "wikilink")化した、構造の[曖昧性](https://ja.wikipedia.org/wiki/曖昧性 "wikilink")の無い表記方法である。SMILES[文字列](../Page/文字列.md "wikilink")は多くの種類の[分子エディタ](https://ja.wikipedia.org/wiki/分子エディタ "wikilink")においてインポート可能で、二次元の図表あるいは三次元のモデルとして表示することができる。
 
 SMILES表記は[1980年代](../Page/1980年代.md "wikilink")の終わりにDavid Weiningerにより開発され、その後に多数の人の手で変更あるいは拡張がなされてきた。中でもDaylight Chemical Information Systems社の貢献が大きい。他の線形な同様な表記法としてはWiswesser Line Notation (WLN), ROSDAL そして SLN (Tripos社)が挙げられる。
 

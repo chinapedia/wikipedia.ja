@@ -1,4 +1,4 @@
-> この記事は[Su-7 \(\)](https://ja.wikipedia.org/wiki/Su-7_\(\))から翻訳されています。
+> この記事は[Su-7 \(航空機\)](https://ja.wikipedia.org/wiki/Su-7_\(航空機\))から翻訳されています。
 
 
 **Su-7**（スホーイ7、スホイ7；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>スー・スィェーミ</small>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[スホーイ](../Page/スホーイ.md "wikilink")[設計局](../Page/設計局.md "wikilink")が開発した[後退翼](https://ja.wikipedia.org/wiki/後退翼 "wikilink")の[ターボジェット](https://ja.wikipedia.org/wiki/ターボジェット "wikilink")機。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）が用いた[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")では「[フィッター](../Page/フィッター.md "wikilink")」(Fitter)と呼ばれた。

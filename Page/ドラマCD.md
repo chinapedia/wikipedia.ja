@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD)から翻訳されています。
 
 
 **ドラマCD**とは、[CDに](../Page/コンパクトディスク.md "wikilink")[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")のみの[ドラマ](../Page/ドラマ.md "wikilink")を収録した物である。「**CDドラマ**」と題されることもある。

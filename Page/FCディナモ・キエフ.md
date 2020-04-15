@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCディナモ・キエフ](https://ja.wikipedia.org/wiki/FCディナモ・キエフ)から翻訳されています。
 
 
 **FCディナモ・キエフ**（[ウクライナ語](../Page/ウクライナ語.md "wikilink"):**Футбольний клуб «Динамо» Київ**, [英語](../Page/英語.md "wikilink"):**FC Dynamo Kyiv**）は、[ウクライナ](../Page/ウクライナ.md "wikilink")の首都[キエフ](../Page/キエフ.md "wikilink")を本拠地とする[プロ](../Page/プロフェッショナル.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[クラブ](../Page/クラブ.md "wikilink")である。

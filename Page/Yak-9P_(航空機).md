@@ -1,4 +1,4 @@
-> この記事は[Yak-9P \(\)](https://ja.wikipedia.org/wiki/Yak-9P_\(\))から翻訳されています。
+> この記事は[Yak-9P \(航空機\)](https://ja.wikipedia.org/wiki/Yak-9P_\(航空機\))から翻訳されています。
 
 
 [PL_MWP_Yak-9P.JPG](https://ja.wikipedia.org/wiki/File:PL_MWP_Yak-9P.JPG "fig:PL_MWP_Yak-9P.JPG") **Yak-9P**（Jak-9P；ヤク9P；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ヂェーヴャチ・ペー</small>）は、ソ連最後のレシプロ戦闘機のひとつである。[ヤコヴレフ設計局が開発し](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")、戦後[1946年](../Page/1946年.md "wikilink")から生産が始められ、[1950年代](../Page/1950年代.md "wikilink")を通じて多く[東側諸国](../Page/東側諸国.md "wikilink")の主力戦闘機となった。

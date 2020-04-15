@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[新宿NSビル](https://ja.wikipedia.org/wiki/新宿NSビル)から翻訳されています。
 
 
 **新宿NSビル**（しんじゅくエヌエスビル）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")二丁目の新宿新都心の一角にある[超高層ビル](../Page/超高層建築物.md "wikilink")。略称「NSビル」としても知られる。

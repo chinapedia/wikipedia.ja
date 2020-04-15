@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F検定](https://ja.wikipedia.org/wiki/F検定)から翻訳されています。
 
 
 **F検定**（エフけんてい、）とは、[帰無仮説](https://ja.wikipedia.org/wiki/帰無仮説 "wikilink")が正しければ統計量が[F分布](../Page/F分布.md "wikilink")に従うような[統計学的検定](https://ja.wikipedia.org/wiki/統計学的検定 "wikilink")の総称である。この名称は、[ロナルド・A・フィッシャーに敬意を表して](../Page/ロナルド・フィッシャー.md "wikilink")によって命名された。フィッシャーは1920年代に分散比による統計を最初に開発した\[1\]。

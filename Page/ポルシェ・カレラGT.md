@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[ポルシェ・カレラGT](https://ja.wikipedia.org/wiki/ポルシェ・カレラGT)から翻訳されています。
 
 
 </ref> | 先代= | 後継= | 姉妹車= | 同車台= }} **カレラGT**（*Carrera GT* ）は、[ポルシェ](../Page/ポルシェ.md "wikilink")の[スーパーカー](../Page/スーパーカー.md "wikilink")である。製品コードは980。 [Porsche_Carrera_GT_engine_front-left_Porsche_Museum.jpg](https://ja.wikipedia.org/wiki/File:Porsche_Carrera_GT_engine_front-left_Porsche_Museum.jpg "fig:Porsche_Carrera_GT_engine_front-left_Porsche_Museum.jpg")

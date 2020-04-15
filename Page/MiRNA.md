@@ -106,7 +106,7 @@
 
 ### pri-miRNAの生成
 
-miRNA遺伝子が[RNAポリメラーゼ](https://ja.wikipedia.org/wiki/RNAポリメラーゼ "wikilink")IIによって1本鎖RNAに[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")されると、転写されたRNA配列内で相補な部分は、内在的に結合して2本鎖になる\[15\]。そうして最終的な構造はヘアピンループ型の構造（[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")に類似した形状）となる\[16\]。この構造をとったmiRNAはpri-miRNA (primary miRNA, 初期転写産物) と呼ばれている\[17\]。pri-miRNAは数百～数千塩基長の長鎖RNAであり、5’末端側にキャップ構造 (5'-cap: 7mGppp, 7-methyl guanosine) が形成されており、3'末端側に[ポリAテール](https://ja.wikipedia.org/wiki/ポリアデニル化 "wikilink") (3'-poly-A tail: AA...A, polyadenosine) が付与されている\[18\]。
+miRNA遺伝子が[RNAポリメラーゼII](../Page/RNAポリメラーゼII.md "wikilink")によって1本鎖RNAに[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")されると、転写されたRNA配列内で相補な部分は、内在的に結合して2本鎖になる\[15\]。そうして最終的な構造はヘアピンループ型の構造（[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")に類似した形状）となる\[16\]。この構造をとったmiRNAはpri-miRNA (primary miRNA, 初期転写産物) と呼ばれている\[17\]。pri-miRNAは数百～数千塩基長の長鎖RNAであり、5’末端側にキャップ構造 (5'-cap: 7mGppp, 7-methyl guanosine) が形成されており、3'末端側に[ポリAテール](https://ja.wikipedia.org/wiki/ポリアデニル化 "wikilink") (3'-poly-A tail: AA...A, polyadenosine) が付与されている\[18\]。
 
 通常、ヘアピンループ型の構造をとる部分以外については配列がミスマッチになっており、この構造はスターフォームと呼ばれている\[19\]\[20\]。
 

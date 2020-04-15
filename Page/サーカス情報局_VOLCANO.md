@@ -1,4 +1,4 @@
-> この記事は[ VOLCANO](https://ja.wikipedia.org/wiki/_VOLCANO)から翻訳されています。
+> この記事は[サーカス情報局 VOLCANO](https://ja.wikipedia.org/wiki/サーカス情報局_VOLCANO)から翻訳されています。
 
 
 **サーカス情報局 VOLCANO**（サーカスじょうほうきょくボルケーノ）は、[音泉](../Page/音泉.md "wikilink")で[2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")より配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[CIRCUSの広報らまマン](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")（[くま坂らま男](https://ja.wikipedia.org/wiki/くま坂らま男 "wikilink")）とS・O・F・Tの原画家[かゆらゆか](https://ja.wikipedia.org/wiki/かゆらゆか "wikilink")の二人である。

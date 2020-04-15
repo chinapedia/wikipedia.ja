@@ -1,4 +1,4 @@
-> この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
+> この記事は[KDDIビル](https://ja.wikipedia.org/wiki/KDDIビル)から翻訳されています。
 
 
 **KDDIビル**（ケイディーディーアイビル）は、新宿[高層ビル街の一群を担う](../Page/高層建築物.md "wikilink")[超高層ビルの一つ](../Page/超高層建築物.md "wikilink")。旧[ケイディディ](https://ja.wikipedia.org/wiki/ケイディディ "wikilink")・[国際電信電話](../Page/国際電信電話.md "wikilink")の本社ビルであり、現在も[KDDI](../Page/KDDI.md "wikilink")の[登記](../Page/登記.md "wikilink")上の本店である。旧称は**国際通信センタービル**（**KDD本社ビル**）。

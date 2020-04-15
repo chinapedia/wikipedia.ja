@@ -1,4 +1,4 @@
-> この記事は[TAKARAZUKA1000days](https://ja.wikipedia.org/wiki/TAKARAZUKA1000days)から翻訳されています。
+> この記事は[TAKARAZUKA1000days劇場](https://ja.wikipedia.org/wiki/TAKARAZUKA1000days劇場)から翻訳されています。
 
 
 **TAKARAZUKA1000days劇場**（たからづかせんデイズげきじょう）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")5月30日から[2000年](../Page/2000年.md "wikilink")12月13日まで[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")3-8-3（東京都旧丸の内庁舎跡地）に開設された[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")専用の仮設[劇場](../Page/劇場.md "wikilink")。

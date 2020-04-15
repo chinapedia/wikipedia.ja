@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヴェネツィアFC](https://ja.wikipedia.org/wiki/ヴェネツィアFC)から翻訳されています。
 
 
 **ヴェネツィア・フットボール・クラブ**（**Venezia Football Club S.r.l.d.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[セリエBに所属](../Page/セリエB_\(サッカー\).md "wikilink")。

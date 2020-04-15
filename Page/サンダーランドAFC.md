@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[サンダーランドAFC](https://ja.wikipedia.org/wiki/サンダーランドAFC)から翻訳されています。
 
 
 **サンダーランド・アソシエーション・フットボール・クラブ**（Sunderland Association Football Club、<small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音:</small> <small>、</small>）は、[イングランド](../Page/イングランド.md "wikilink")北東部・[タイン・アンド・ウィア](../Page/タイン・アンド・ウィア.md "wikilink")州[サンダーランドをホームタウンとする](../Page/サンダーランド_\(イングランド\).md "wikilink")、イングランドプロサッカーリーグ（[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")）に加盟するプロサッカークラブ。愛称は**ブラック・キャッツ**（Black Cats）。

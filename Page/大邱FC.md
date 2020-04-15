@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[大邱FC](https://ja.wikipedia.org/wiki/大邱FC)から翻訳されています。
 
 
 **大邱FC**（テグFC、、）は、[韓国の東南部の](../Page/大韓民国.md "wikilink")[広域市](../Page/広域市.md "wikilink")の[大邱を本拠地とする韓国プロサッカークラブである](../Page/大邱広域市.md "wikilink")。[Kリーグ1](../Page/Kリーグ1.md "wikilink")に所属している。

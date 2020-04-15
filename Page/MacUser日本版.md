@@ -1,4 +1,4 @@
-> この記事は[MacUser](https://ja.wikipedia.org/wiki/MacUser)から翻訳されています。
+> この記事は[MacUser日本版](https://ja.wikipedia.org/wiki/MacUser日本版)から翻訳されています。
 
 
 『**MacUser日本版**』（マックユーザーにほんばん）は、かつて[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が発行していた、[Macintosh](../Page/Macintosh.md "wikilink")専門のコンピュータ雑誌。編集長は松尾公也。[1993年](../Page/1993年.md "wikilink")10月創刊、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月休刊。

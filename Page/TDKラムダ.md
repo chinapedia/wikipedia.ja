@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDKラムダ](https://ja.wikipedia.org/wiki/TDKラムダ)から翻訳されています。
 
 
 **TDKラムダ株式会社**（**TDK-Lambda Corporation**）は、[スイッチング電源](../Page/スイッチング電源.md "wikilink")と[ノイズフィルタ](https://ja.wikipedia.org/wiki/ノイズフィルタ "wikilink")、その周辺機器の開発製造販売を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の電機メーカー。[TDK](../Page/TDK.md "wikilink")株式会社のグループ企業である。

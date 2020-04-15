@@ -1,4 +1,4 @@
-> この記事は[XYZ](https://ja.wikipedia.org/wiki/XYZ)から翻訳されています。
+> この記事は[XYZ事件](https://ja.wikipedia.org/wiki/XYZ事件)から翻訳されています。
 
 
 **XYZ事件**（**XYZ Affair**）とは、[1797年](../Page/1797年.md "wikilink")から[1798年](../Page/1798年.md "wikilink")にかけての、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")間における外交上の衝突事件である。フランス側の示した[賄賂](../Page/賄賂.md "wikilink")の要求がアメリカの威信を傷つけ、米仏同盟の破棄にまで発展した。

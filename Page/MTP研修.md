@@ -1,4 +1,4 @@
-> この記事は[MTP](https://ja.wikipedia.org/wiki/MTP)から翻訳されています。
+> この記事は[MTP研修](https://ja.wikipedia.org/wiki/MTP研修)から翻訳されています。
 
 
 **MTP研修**（エムティーピーけんしゅう、Management Training Progra 研修）とは、一般社団法人[日本産業訓練協会](https://ja.wikipedia.org/wiki/日本産業訓練協会 "wikilink")（日産訓）が実施している監督者・管理者養成プログラムのことである。[TWI研修](../Page/TWI研修.md "wikilink")も[管理職](../Page/管理職.md "wikilink")を対象とした研修であるが、MTPはさらにその上席にあたる人たちを対象とする研修である。TWIと同様、日産訓により広く実施されており、。

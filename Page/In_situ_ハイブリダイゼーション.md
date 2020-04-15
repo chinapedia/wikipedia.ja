@@ -1,4 +1,4 @@
-> この記事は[In situ ](https://ja.wikipedia.org/wiki/In_situ_)から翻訳されています。
+> この記事は[In situ ハイブリダイゼーション](https://ja.wikipedia.org/wiki/In_situ_ハイブリダイゼーション)から翻訳されています。
 
 
 **in situ ハイブリダイゼーション**（インサイチュー ハイブリダイゼーション、*in situ* hybridization、ISH）は、[組織や](../Page/組織_\(生物学\).md "wikilink")[細胞](../Page/細胞.md "wikilink")において、特定の[DNAや](../Page/デオキシリボ核酸.md "wikilink")[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")の分布や量を検出する方法。[ウイルス](../Page/ウイルス.md "wikilink")感染、[腫瘍](../Page/腫瘍.md "wikilink")など診断に用いられるほか、[分子生物学](../Page/分子生物学.md "wikilink")でも細胞や組織中の遺伝子発現を研究する上で重要な方法。遺伝子発現を調べる場合に、[免疫染色](../Page/免疫染色.md "wikilink")は主に[タンパク質の検出を目的とするが](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")、ISH では [mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink") の検出を目的とする。

@@ -11,7 +11,7 @@
 
 また、放送開始当初は番組後半に約15分間の[ドラマコーナーを内包していた](../Page/テレビドラマ.md "wikilink")。このコーナーには毎回様々な新人[女優たちが出演し](../Page/俳優.md "wikilink")、各々が配役をこなしていたが、これに関しては番組本編のレギュラー陣はノータッチだった。
 
-毎回の[CM入り前に表示される](../Page/コマーシャルメッセージ.md "wikilink")[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")には、[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、[辺見えみり](../Page/辺見えみり.md "wikilink")といった当時の若手女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")たちが出演していた。彼女たちが「DAISUKI\!」とタイトルコールをするこの番組のアイキャッチは、アイドルのイメージビデオとしての役割も果たしていた。
+毎回の[CM入り前に表示される](../Page/コマーシャルメッセージ.md "wikilink")[アイキャッチ](../Page/アイキャッチ.md "wikilink")には、[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、[辺見えみり](../Page/辺見えみり.md "wikilink")といった当時の若手女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")たちが出演していた。彼女たちが「DAISUKI\!」とタイトルコールをするこの番組のアイキャッチは、アイドルのイメージビデオとしての役割も果たしていた。
 
 テーマソングには、初期の関東ローカル時代においては[シックの](../Page/シック_\(バンド\).md "wikilink")「[シック・ミスティーク](https://ja.wikipedia.org/wiki/:en:Chic_Mystique "wikilink")」を起用していたが、系列地方局でも放送されるようになってからは[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")の「[SHOW](https://ja.wikipedia.org/wiki/DAWN_IN_NIAGARA "wikilink")」を起用していた。エンディングテーマには、当初は[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")の「自転車に乗って」（[高田渡](../Page/高田渡.md "wikilink")の同名曲のカバー）を起用していたが、後にシュガー・ベイブの「今日はなんだか」を起用するようになった。
 

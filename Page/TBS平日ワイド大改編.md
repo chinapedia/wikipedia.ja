@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBS平日ワイド大改編](https://ja.wikipedia.org/wiki/TBS平日ワイド大改編)から翻訳されています。
 
 
 **TBS平日ワイド大改編**（ティービーエスへいじつワイドだいかいへん）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が系列局を巻き込んで行なった[平日](../Page/平日.md "wikilink")の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")の大半を[改編](../Page/改編.md "wikilink")させた出来事。[2005年](../Page/2005年.md "wikilink")[春](../Page/春.md "wikilink")と[2009年](../Page/2009年.md "wikilink")春と[2014年](../Page/2014年.md "wikilink")春について述べる。

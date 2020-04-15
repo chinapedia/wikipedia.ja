@@ -1,4 +1,4 @@
-> この記事は[PJ](https://ja.wikipedia.org/wiki/PJ)から翻訳されています。
+> この記事は[銀河パトロールPJ](https://ja.wikipedia.org/wiki/銀河パトロールPJ)から翻訳されています。
 
 
 **銀河パトロールPJ** (ぎんがパトロールピージェー、仏文：**Il était une fois... l'Espace**) は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[Procidisと日本の](https://ja.wikipedia.org/wiki/:fr:Procidis "wikilink")[エイケンの共同制作による](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。

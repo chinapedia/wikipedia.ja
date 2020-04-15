@@ -1,4 +1,4 @@
-> この記事は[CBR1100XX](https://ja.wikipedia.org/wiki/CBR1100XX)から翻訳されています。
+> この記事は[ホンダ・CBR1100XXスーパーブラックバード](https://ja.wikipedia.org/wiki/ホンダ・CBR1100XXスーパーブラックバード)から翻訳されています。
 
 
 **CBR1100XX SuperBlackbird**（シービーアールせんひゃくダブルエックス スーパーブラックバード）は[本田技研工業](../Page/本田技研工業.md "wikilink")が製造していた[4ストローク](../Page/4ストローク機関.md "wikilink")、[排気量](../Page/排気量.md "wikilink")1,137ccの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")である。

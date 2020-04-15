@@ -1,4 +1,4 @@
-> この記事は[EXPO \(\)](https://ja.wikipedia.org/wiki/EXPO_\(\))から翻訳されています。
+> この記事は[EXPO \(アルバム\)](https://ja.wikipedia.org/wiki/EXPO_\(アルバム\))から翻訳されています。
 
 
 『**EXPO**』（エクスポ）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[TMNの](../Page/TM_NETWORK.md "wikilink")2作目のアルバム（[TM NETWORKからの通算では](../Page/TM_NETWORK.md "wikilink")8作目のアルバム）。

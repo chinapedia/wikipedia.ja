@@ -1,4 +1,4 @@
-> この記事は[GORILLA \(\)](https://ja.wikipedia.org/wiki/GORILLA_\(\))から翻訳されています。
+> この記事は[GORILLA \(アルバム\)](https://ja.wikipedia.org/wiki/GORILLA_\(アルバム\))から翻訳されています。
 
 
 『**GORILLA**』（ゴリラ）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")3枚目のスタジオ・アルバム。

@@ -99,7 +99,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>2012年<a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
 <td></td>
 <td><p>住所：<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/浪速区.md" title="wikilink">浪速区</a>敷津東2-1-39<br />
-最寄駅：<a href="https://ja.wikipedia.org/wiki/恵美須町駅" title="wikilink">恵美須町駅</a>（<a href="../Page/大阪市高速電気軌道堺筋線.md" title="wikilink">地下鉄堺筋線</a>）、<a href="https://ja.wikipedia.org/wiki/今宮戎駅" title="wikilink">今宮戎駅</a>（<a href="https://ja.wikipedia.org/wiki/南海高野線" title="wikilink">南海高野線</a>）、<a href="https://ja.wikipedia.org/wiki/大国町駅" title="wikilink">大国町駅</a>（<a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線" title="wikilink">地下鉄御堂筋線</a>・<a href="../Page/大阪市高速電気軌道四つ橋線.md" title="wikilink">四つ橋線</a>）、<a href="https://ja.wikipedia.org/wiki/難波駅_(南海)" title="wikilink">難波駅</a>（<a href="https://ja.wikipedia.org/wiki/南海本線" title="wikilink">南海本線</a>・南海高野線）<br />
+最寄駅：<a href="https://ja.wikipedia.org/wiki/恵美須町駅" title="wikilink">恵美須町駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線" title="wikilink">地下鉄堺筋線</a>）、<a href="https://ja.wikipedia.org/wiki/今宮戎駅" title="wikilink">今宮戎駅</a>（<a href="https://ja.wikipedia.org/wiki/南海高野線" title="wikilink">南海高野線</a>）、<a href="https://ja.wikipedia.org/wiki/大国町駅" title="wikilink">大国町駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">地下鉄御堂筋線</a>・<a href="https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線" title="wikilink">四つ橋線</a>）、<a href="https://ja.wikipedia.org/wiki/難波駅_(南海)" title="wikilink">難波駅</a>（<a href="https://ja.wikipedia.org/wiki/南海本線" title="wikilink">南海本線</a>・南海高野線）<br />
 規模：1階・2,090人（ス）/796人（座）、2階・440人（座） こけら落とし公演：UVERworld「Zepp Namba（OSAKA） OPENING SPECIAL PATi★Night Episode UW in OSAKA」</p></td>
 </tr>
 <tr class="even">
@@ -125,6 +125,28 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>住所：<a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a><a href="../Page/中央区_(福岡市).md" title="wikilink">中央区</a><a href="https://ja.wikipedia.org/wiki/地行浜" title="wikilink">地行浜</a>2-2-1（<a href="https://ja.wikipedia.org/wiki/MARK_IS_福岡ももち" title="wikilink">MARK IS 福岡ももち内</a>）<br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/唐人町駅" title="wikilink">唐人町駅</a>（<a href="../Page/福岡市地下鉄空港線.md" title="wikilink">地下鉄空港線</a>）、地行バス停・<a href="https://ja.wikipedia.org/wiki/独立行政法人国立病院機構九州医療センター" title="wikilink">九州医療センター前バス停</a>・ヤフオクドーム前バス停（<a href="../Page/西鉄バス.md" title="wikilink">西鉄バス</a>）<br />
 規模：1階・1,226人（ス）/564人（椅）、2階・176人（ス）/105人（座）+19人（車）[22][23] こけら落とし公演：<a href="../Page/ソニー・ミュージックアーティスツ.md" title="wikilink">ソニー・ミュージックアーティスツ</a>「SMAのド自慢」</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>KT Zepp Yokohama[24]<br />
+<small>KT Zepp 横浜</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Gthumb.svg" title="fig:Gthumb.svg">Gthumb.svg</a></p></td>
+<td><p>2,146人</p></td>
+<td><p>2020年3月7日</p></td>
+<td></td>
+<td><p>住所：<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/横浜市.md" title="wikilink">横浜市</a><a href="https://ja.wikipedia.org/wiki/西区_(横浜市)" title="wikilink">西区</a><a href="../Page/みなとみらい.md" title="wikilink">みなとみらい</a>4-3-2<br />
+<a href="../Page/横浜みなとみらい21.md" title="wikilink">横浜みなとみらい地区</a>（47街区、<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>の本社ビル「KTビル」に併設予定）<br />
+最寄駅：<a href="https://ja.wikipedia.org/wiki/新高島駅" title="wikilink">新高島駅</a>（<a href="https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線" title="wikilink">みなとみらい線</a>）、<a href="https://ja.wikipedia.org/wiki/横浜駅" title="wikilink">横浜駅</a>（JR東日本・<a href="../Page/東急東横線.md" title="wikilink">東急東横線</a>・<a href="https://ja.wikipedia.org/wiki/京急本線" title="wikilink">京急本線</a>・<a href="https://ja.wikipedia.org/wiki/相鉄本線" title="wikilink">相鉄本線</a>・<a href="https://ja.wikipedia.org/wiki/横浜市営地下鉄ブルーライン" title="wikilink">地下鉄ブルーライン</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>所有</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -155,7 +177,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>2012年4月8日</p></td>
 <td></td>
 <td><p>住所：大阪府大阪市<a href="../Page/住之江区.md" title="wikilink">住之江区</a>南港北1-18-31（<a href="../Page/咲洲.md" title="wikilink">咲洲</a>コスモスクエア地区）<br />
-最寄駅：<a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a>（<a href="../Page/大阪市高速電気軌道中央線.md" title="wikilink">地下鉄中央線</a>・<a href="../Page/大阪市高速電気軌道南港ポートタウン線.md" title="wikilink">ニュートラム</a>）<br />
+最寄駅：<a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro中央線" title="wikilink">地下鉄中央線</a>・<a href="../Page/Osaka_Metro南港ポートタウン線.md" title="wikilink">ニュートラム</a>）<br />
 規模：1階・2,000人（ス）/763人（椅）、2階・180人（座） こけら落とし公演：<a href="../Page/レニー・クラヴィッツ.md" title="wikilink">レニー・クラヴィッツ</a>「The Freedom Tour」</p></td>
 </tr>
 <tr class="even">
@@ -202,18 +224,6 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>KT Zepp Yokohama[24]<br />
-<small>KT Zepp 横浜</small></p></td>
-<td></td>
-<td><p>2,146人</p></td>
-<td><p>2020年3月7日予定</p></td>
-<td></td>
-<td><p>住所：<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/横浜市.md" title="wikilink">横浜市</a><a href="https://ja.wikipedia.org/wiki/西区_(横浜市)" title="wikilink">西区</a><a href="../Page/みなとみらい.md" title="wikilink">みなとみらい</a>4-3-2<br />
-<a href="../Page/横浜みなとみらい21.md" title="wikilink">横浜みなとみらい地区</a>（47街区、<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>の本社ビル「KTビル」に併設予定）<br />
-最寄駅：<a href="https://ja.wikipedia.org/wiki/新高島駅" title="wikilink">新高島駅</a>（<a href="https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線" title="wikilink">みなとみらい線</a>）、<a href="https://ja.wikipedia.org/wiki/横浜駅" title="wikilink">横浜駅</a>（JR東日本・<a href="../Page/東急東横線.md" title="wikilink">東急東横線</a>・<a href="https://ja.wikipedia.org/wiki/京急本線" title="wikilink">京急本線</a>・<a href="https://ja.wikipedia.org/wiki/相鉄本線" title="wikilink">相鉄本線</a>・<a href="https://ja.wikipedia.org/wiki/横浜市営地下鉄ブルーライン" title="wikilink">地下鉄ブルーライン</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>所有</p></td>
-</tr>
-<tr class="even">
 <td><p>Zepp Haneda（TOKYO）（仮称）[25]<br />
 <small>Zepp 羽田 東京</small></p></td>
 <td></td>
@@ -343,12 +353,11 @@ Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wi
       - [Zepp Sapporo](https://www.zepp.co.jp/hall/sapporo/)
       - [Zepp Tokyo](https://www.zepp.co.jp/hall/tokyo/)
       - [Zepp DiverCity（TOKYO）](https://www.zepp.co.jp/hall/divercity/)
+      - [KT Zepp Yokohama](https://www.zepp.co.jp/hall/yokohama/)
       - [Zepp Nagoya](https://www.zepp.co.jp/hall/nagoya/)
       - [Zepp Namba（OSAKA）](https://www.zepp.co.jp/hall/namba/)
       - [Zepp Osaka Bayside](https://www.zepp.co.jp/hall/osakabayside/)
       - [Zepp Fukuoka](https://www.zepp.co.jp/hall/fukuoka/)
-
-  - [Zeppブルーシアター六本木](https://www.blue-theater.jp/)
 
   - [@JAM](https://at-jam.jp/)
 

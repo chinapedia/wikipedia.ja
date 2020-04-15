@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SFアドベンチャー](https://ja.wikipedia.org/wiki/SFアドベンチャー)から翻訳されています。
 
 
 『**SFアドベンチャー**』(**SF Adventure**) は、1979年春に[徳間書店](../Page/徳間書店.md "wikilink")から創刊された[SF雑誌である](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。創刊号にはタイトルの脇に「[問題小説](https://ja.wikipedia.org/wiki/問題小説 "wikilink") SPECIAL \[春季号\]」と銘打たれていた。創刊編集長は[荒井修](https://ja.wikipedia.org/wiki/荒井修 "wikilink")。1982年から[菅原善雄](https://ja.wikipedia.org/wiki/菅原善雄 "wikilink")が編集長。三代目編集長は[石井紀男](https://ja.wikipedia.org/wiki/石井紀男 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JRバス](https://ja.wikipedia.org/wiki/JRバス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JR-Bus-Tsubame.JPG "wikilink") **JRバス**（ジェイアールバス）は、[JR](../Page/JR.md "wikilink")旅客鉄道会社6社の子会社が運行する[バスの総称である](../Page/バス_\(交通機関\).md "wikilink")。略称**JR-B**。

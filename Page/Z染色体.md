@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z染色体](https://ja.wikipedia.org/wiki/Z染色体)から翻訳されています。
 
 
 **Z染色体**（Zせんしょくたい）とは、[鳥類](../Page/鳥類.md "wikilink")など[雌](https://ja.wikipedia.org/wiki/雌 "wikilink")の性染色体の組み合わせがヘテロになり、[雄](../Page/雄.md "wikilink")の性染色体の組み合わせがホモになる生物が持つ[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")の名称である\[1\]。[性決定](https://ja.wikipedia.org/wiki/性決定 "wikilink")機構がZW型又はZO型の生物に存在する。

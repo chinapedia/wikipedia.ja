@@ -1,4 +1,4 @@
-> この記事は[CF](https://ja.wikipedia.org/wiki/CF)から翻訳されています。
+> この記事は[カディスCF](https://ja.wikipedia.org/wiki/カディスCF)から翻訳されています。
 
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:EstadioCarranza1.jpg "wikilink") **カディスCF SAD**（**Cádiz Club de Fútbol, S.A.D.**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カディス](../Page/カディス.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。チームカラーの青色と黄色の組み合わせはカディス市の紋章に由来している\[1\]。

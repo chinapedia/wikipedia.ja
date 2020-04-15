@@ -1,4 +1,4 @@
-> この記事は[FIGHTING TV ](https://ja.wikipedia.org/wiki/FIGHTING_TV_)から翻訳されています。
+> この記事は[FIGHTING TV サムライ](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ)から翻訳されています。
 
 
 **FIGHTING TV サムライ**（ファイティング・ティービー・サムライ）は、[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")が運営する[プロレス](../Page/プロレス.md "wikilink")、[格闘技](../Page/格闘技.md "wikilink")の専門チャンネル。通称「**サムライTV**（サムライティービー）」。 プロレスを中心に格闘技の試合中継などを放送している。
@@ -80,18 +80,10 @@
     [プロレスリングZERO1](../Page/ZERO1.md "wikilink")
     [WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")
     [大日本プロレス](../Page/大日本プロレス.md "wikilink")
+    [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
 
 <!-- end list -->
 
-  - 大日本アーカイブス
-
-<!-- end list -->
-
-  - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")
-
-<!-- end list -->
-
-  - DDTアーカイブス
   - [ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")、[ハードヒット](https://ja.wikipedia.org/wiki/ハードヒット "wikilink")、[BOYZ](https://ja.wikipedia.org/wiki/BOYZ "wikilink")、[新北京プロレス](../Page/新北京プロレス.md "wikilink")、[東京女子プロレス](https://ja.wikipedia.org/wiki/東京女子プロレス "wikilink")
 
 <!-- end list -->
@@ -113,16 +105,12 @@
     [アイスリボン](../Page/アイスリボン.md "wikilink")
     [センダイガールズプロレスリング](../Page/センダイガールズプロレスリング.md "wikilink")
     [スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")
-
-<!-- end list -->
-
-  - スターダム☆カフェ
-
-<!-- end list -->
-
-  - [ワールド女子プロレス・ディアナ](https://ja.wikipedia.org/wiki/ワールド女子プロレス・ディアナ "wikilink")
+    [ワールド女子プロレス・ディアナ](https://ja.wikipedia.org/wiki/ワールド女子プロレス・ディアナ "wikilink")
+    [我闘雲舞](https://ja.wikipedia.org/wiki/我闘雲舞 "wikilink")
     [REINA女子プロレス](https://ja.wikipedia.org/wiki/レイナ・コーポレーション "wikilink")
     [世界プロレス協会](https://ja.wikipedia.org/wiki/世界プロレス協会 "wikilink")
+    [Marvelous](https://ja.wikipedia.org/wiki/マーベラス_\(プロレス\) "wikilink")
+    [プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")
     [CMLL](../Page/CMLL.md "wikilink")
     [闘龍門](../Page/闘龍門.md "wikilink")MEXICO
     [プロフェッショナル修斗](../Page/修斗.md "wikilink")
@@ -146,7 +134,6 @@
   - [プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")（[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")）
   - [WNC](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")（[EXスポーツ](https://ja.wikipedia.org/wiki/EXスポーツ "wikilink")）
   - [OZアカデミー](../Page/OZアカデミー.md "wikilink")女子プロレス（GAORA）
-  - [プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")（[V☆パラダイス](https://ja.wikipedia.org/wiki/V☆パラダイス "wikilink")）
   - [AAA](../Page/AAA_\(プロレス\).md "wikilink")（GAORA）
   - [ZST](../Page/ZST.md "wikilink")（GAORA）
   - [Krush](https://ja.wikipedia.org/wiki/Krush "wikilink")（GAORA）

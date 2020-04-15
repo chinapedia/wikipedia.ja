@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX)から翻訳されています。
 
 
 **キャラメルBOX**（**キャラメルぼっくす**）は、[ホビボックス](../Page/ホビボックス.md "wikilink")株式会社の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。現在、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田小川町](../Page/神田小川町.md "wikilink")のホビボックス内に拠点を置いている\[1\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月に[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[東神田](https://ja.wikipedia.org/wiki/東神田 "wikilink")より移転した。もともとは株式会社[姫屋ソフト](../Page/姫屋ソフト.md "wikilink")のブランドだったが、移転時にホビボックスに移管されている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）には新チーム「キャラメルBOX○○味」が結成された。同チームは「いちご味」としての「とっぱら〜ざしきわらしのはなし〜」が担当第1作となる。
@@ -36,6 +36,7 @@
   - [2018年](../Page/2018年.md "wikilink")（平成30年）1月26日 - 「処女はお姉さまに恋してる 1＆2パック」 （キャラメルBOXコレクション 普及版）
   - [2018年](../Page/2018年.md "wikilink")（平成30年）2月23日 - 女装潜入ロマンティックラブコメディ「[処女はお姉さまに恋してる 3つのきら星](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる_3つのきら星 "wikilink")」（初回版）
   - [2019年](../Page/2019年.md "wikilink")（令和元年）10月25日 - 「処女はお姉さまに恋してる 3つのきら星」 （通常版）
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）1月31日 - 「機関幕末異聞 ラストキャバリエ」（普及版）
 
 ### キャラメルBOX いちご味
 

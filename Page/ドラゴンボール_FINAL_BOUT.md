@@ -1,7 +1,7 @@
-> この記事は[ FINAL BOUT](https://ja.wikipedia.org/wiki/_FINAL_BOUT)から翻訳されています。
+> この記事は[ドラゴンボール FINAL BOUT](https://ja.wikipedia.org/wiki/ドラゴンボール_FINAL_BOUT)から翻訳されています。
 
 
-『**ドラゴンボール FINAL BOUT**』（ドラゴンボール ファイナルバウト）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
+『**ドラゴンボール FINAL BOUT**』（ドラゴンボール ファイナルバウト）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
 
 ## 解説
 

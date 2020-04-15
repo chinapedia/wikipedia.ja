@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ジェネレーションX](https://ja.wikipedia.org/wiki/ジェネレーションX)から翻訳されています。
 
 
 **ジェネレーションX**（[英](../Page/英語.md "wikilink"): Generation X）、**X世代**（エックスせだい）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")において[1960年代](../Page/1960年代.md "wikilink")初頭または半ばから[1980年代](../Page/1980年代.md "wikilink")に生まれた[世代](../Page/世代.md "wikilink")のことである\[1\]。**13th Generation**（第13世代）\[2\]とも呼ばれる。

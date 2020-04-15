@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[増殖 \(YMOのアルバム\)](https://ja.wikipedia.org/wiki/増殖_\(YMOのアルバム\))から翻訳されています。
 
 
 『**増殖** - *X∞Multiplies*』（ぞうしょく - マルティプライズ） は、[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")4作目のアルバム。

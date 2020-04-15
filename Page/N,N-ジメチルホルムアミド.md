@@ -1,4 +1,4 @@
-> この記事は[N,N-](https://ja.wikipedia.org/wiki/N,N-)から翻訳されています。
+> この記事は[N,N-ジメチルホルムアミド](https://ja.wikipedia.org/wiki/N,N-ジメチルホルムアミド)から翻訳されています。
 
 
 ***N*,*N*-ジメチルホルムアミド** （*N*,*N*-dimethylformamide, 略称**DMF**）は、[有機化合物](../Page/有機化合物.md "wikilink")の一種。常温では無色で微かに[アミン](../Page/アミン.md "wikilink")臭（純粋な場合は無臭）の液体。水やほとんどの有機[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")と任意の割合で混合する。

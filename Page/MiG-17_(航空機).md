@@ -1,4 +1,4 @@
-> この記事は[MiG-17 \(\)](https://ja.wikipedia.org/wiki/MiG-17_\(\))から翻訳されています。
+> この記事は[MiG-17 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-17_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= MiG-17 /  | 画像=画像:MiG-17 landing by StuSeeger.jpeg | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=[ミコヤーン・グレヴィッチ設計局](../Page/MiG.md "wikilink") | 製造者= | 運用者 =（[空軍](../Page/ソ連空軍.md "wikilink")、[防空軍](../Page/ソ連防空軍.md "wikilink")、[海軍航空隊](https://ja.wikipedia.org/wiki/ソ連海軍航空隊 "wikilink")）他 | 初飛行年月日=[1950年](../Page/1950年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")(試作機SI) | 生産数=10,367機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=一部地域で現役 | ユニットコスト= }} **MiG-17**(ミグ17；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ミーク・スィムナーッツァチ</small>)は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミグ設計局で開発された](../Page/MiG.md "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 38**(Type 20とする説もある)。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**フレスコ** (Fresco)。

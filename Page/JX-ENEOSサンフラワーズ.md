@@ -1,4 +1,4 @@
-> この記事は[JX-ENEOS](https://ja.wikipedia.org/wiki/JX-ENEOS)から翻訳されています。
+> この記事は[JX-ENEOSサンフラワーズ](https://ja.wikipedia.org/wiki/JX-ENEOSサンフラワーズ)から翻訳されています。
 
 
 **JX-ENEOSサンフラワーズ**（ジェイエックス・エネオスサンフラワーズ、*JX-ENEOS Sunflowers*）は、[バスケットボール女子日本リーグ](../Page/バスケットボール女子日本リーグ.md "wikilink")（Wリーグ）に所属する女子[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。

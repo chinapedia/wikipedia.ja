@@ -1,4 +1,4 @@
-> この記事は[ HEAVEN\'S PARTY](https://ja.wikipedia.org/wiki/_HEAVEN\'S_PARTY)から翻訳されています。
+> この記事は[セイント・ビースト ケダモノたちのHEAVEN\'S PARTY](https://ja.wikipedia.org/wiki/セイント・ビースト_ケダモノたちのHEAVEN\'S_PARTY)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[YBS!](https://ja.wikipedia.org/wiki/YBS!)から翻訳されています。
+> この記事は[YBSニュース・アップ!](https://ja.wikipedia.org/wiki/YBSニュース・アップ!)から翻訳されています。
 
 
 **YBSニュース・アップ\!**（ワイビーエスニュース・アップ\!）は、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBSラジオ）で平日夕方に放送している報道番組である。放送時間は平日 18:00 - 18:15。華やぎの章慶山を筆頭とする複数社提供であるが、天気予報は[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")山梨支店の[一社提供](../Page/一社提供.md "wikilink")である。

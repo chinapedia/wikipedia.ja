@@ -1,4 +1,4 @@
-> この記事は[ \(SF\)](https://ja.wikipedia.org/wiki/_\(SF\))から翻訳されています。
+> この記事は[奇想天外 \(SF雑誌\)](https://ja.wikipedia.org/wiki/奇想天外_\(SF雑誌\))から翻訳されています。
 
 
 『**奇想天外**』（きそうてんがい）は[盛光社](https://ja.wikipedia.org/wiki/盛光社 "wikilink")から[1974年](../Page/1974年.md "wikilink")1月号から同年10月号まで、[奇想天外社](https://ja.wikipedia.org/wiki/奇想天外社 "wikilink")から[1976年](../Page/1976年.md "wikilink")4月号から[1981年](../Page/1981年.md "wikilink")10月号まで、[大陸書房](../Page/大陸書房.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")11月号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで刊行されていた日本の[SF雑誌](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。**奇天**（きてん）と略称されることも多い。

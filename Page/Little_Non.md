@@ -378,7 +378,7 @@
 
   - [リトルノンブログ](http://blog.livedoor.jp/littlenon13/)
 
-  - [～S.O.D～ブログ～](http://blog.goo.ne.jp/littlenon_sod)　Little Nonの男メンバー・シュン＆親分＆大生のブログ
+  - [～S.O.D～ブログ～](https://blog.goo.ne.jp/littlenon_sod)　Little Nonの男メンバー・シュン＆親分＆大生のブログ
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2011年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 

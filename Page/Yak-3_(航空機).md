@@ -1,4 +1,4 @@
-> この記事は[Yak-3 \(\)](https://ja.wikipedia.org/wiki/Yak-3_\(\))から翻訳されています。
+> この記事は[Yak-3 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-3_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=Yak-3 () | 画像=<File:Yakovlev_Yak-3_in_Moscow.jpg> | キャプション=Yak-3 | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者=[A・S・ヤコヴレフ記念試作設計局](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink") | 運用者= | 運用者 more=：

@@ -1,4 +1,4 @@
-> この記事は[NU](https://ja.wikipedia.org/wiki/NU)から翻訳されています。
+> この記事は[NU茶屋町](https://ja.wikipedia.org/wiki/NU茶屋町)から翻訳されています。
 
 
 **NU茶屋町**（ヌーちゃやまち、**NU chayamachi**）は、[阪急電鉄](../Page/阪急電鉄.md "wikilink")が経営する[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")のひとつ。 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[茶屋町の通称](https://ja.wikipedia.org/wiki/茶屋町_\(大阪市\) "wikilink")「[阪急村](../Page/阪急村.md "wikilink")」と呼ばれる地域に所在する。 茶屋町の[ランドマーク](../Page/ランドマーク.md "wikilink")的存在となっている。

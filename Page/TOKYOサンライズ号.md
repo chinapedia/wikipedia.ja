@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[TOKYOサンライズ号](https://ja.wikipedia.org/wiki/TOKYOサンライズ号)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Yamako_Bus_17006_Tokyo_Sunrise_Selega_HD.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Tohoku_Express_834_Tokyo_Sunrise_Selega_R_GD.jpg "wikilink")  **TOKYOサンライズ号**（とうきょうサンライズごう、*The TOKYO Sunrise*）は[東京都](../Page/東京都.md "wikilink")と[山形県](../Page/山形県.md "wikilink")内陸部の[村山](../Page/村山地方.md "wikilink")・[最上地方](../Page/最上地方.md "wikilink")を経由し[新庄市](https://ja.wikipedia.org/wiki/新庄市 "wikilink")を結ぶ予約指定制の[高速バス](../Page/高速バス.md "wikilink")である。
@@ -79,7 +79,7 @@
 
 ## 外部リンク先
 
-  - [東北急行バス](http://www.touhoku-express.co.jp/)
+  - [東北急行バス](https://www.tohoku-express.co.jp/)
   - [山交バス](http://www.yamakobus.co.jp/index.html)
 
 [Category:高速バス路線](https://ja.wikipedia.org/wiki/Category:高速バス路線 "wikilink") [Category:東北急行バス](https://ja.wikipedia.org/wiki/Category:東北急行バス "wikilink") [Category:山交バス](https://ja.wikipedia.org/wiki/Category:山交バス "wikilink")

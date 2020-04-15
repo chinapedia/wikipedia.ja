@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!辞書](https://ja.wikipedia.org/wiki/Yahoo!辞書)から翻訳されています。
 
 
 **Yahoo\!辞書**（ヤフーじしょ）とは、[Yahoo\! JAPANが運営する](../Page/Yahoo!_JAPAN.md "wikilink")、国語・英和・和英などの辞書検索サービス。
@@ -11,13 +11,12 @@
 
 ## 関連記事
 
-  - [Yahoo\!翻訳](https://ja.wikipedia.org/wiki/Yahoo!翻訳 "wikilink")
+  - [Yahoo\!翻訳](../Page/Yahoo!翻訳.md "wikilink")
   - [goo辞書](https://ja.wikipedia.org/wiki/goo辞書 "wikilink")
 
 ## 外部リンク
 
-  - [Yahoo\!辞書](https://dic.yahoo.co.jp/)
-
+  -
 [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink") [Category:オンライン辞書](https://ja.wikipedia.org/wiki/Category:オンライン辞書 "wikilink") [Category:2000年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2000年開設のウェブサイト "wikilink") [Category:2019年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2019年廃止のウェブサイト "wikilink")
 
 1.

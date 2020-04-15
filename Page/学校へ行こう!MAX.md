@@ -1,4 +1,4 @@
-> この記事は[!MAX](https://ja.wikipedia.org/wiki/!MAX)から翻訳されています。
+> この記事は[学校へ行こう!MAX](https://ja.wikipedia.org/wiki/学校へ行こう!MAX)から翻訳されています。
 
 
 『**学校へ行こう\!MAX**』（がっこうへいこう マックス、英名：*GROOVY AFTER SCHOOL MAX\!*）とは[TBS系列で](../Page/TBSテレビ.md "wikilink")、[日本時間の毎週](../Page/日本標準時.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")19時56分から20時54分まで放送していた[学校教育](../Page/学校教育.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2006年](../Page/2006年.md "wikilink")3月までは19時54分（TBS以外では原則として20時）からの放送だった。[2005年](../Page/2005年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")『学校へ行こう\!MAX 11年ありがとう\!大卒業式スペシャル\!』にて放送終了。

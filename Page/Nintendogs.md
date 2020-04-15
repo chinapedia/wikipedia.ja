@@ -73,6 +73,6 @@
 
 ## 外部リンク
 
-  - [nintendogs 公式サイト](http://www.nintendo.co.jp/ds/adgj/index.html)
+  - [nintendogs 公式サイト](https://www.nintendo.co.jp/ds/adgj/)
 
 [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:バーチャルペット](https://ja.wikipedia.org/wiki/Category:バーチャルペット "wikilink") [Category:イヌを題材とした作品](https://ja.wikipedia.org/wiki/Category:イヌを題材とした作品 "wikilink") [Category:すれちがい通信対応ソフト](https://ja.wikipedia.org/wiki/Category:すれちがい通信対応ソフト "wikilink")

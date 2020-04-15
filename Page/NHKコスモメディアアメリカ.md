@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKコスモメディアアメリカ](https://ja.wikipedia.org/wiki/NHKコスモメディアアメリカ)から翻訳されています。
 
 
 **NHKコスモメディア アメリカ**（NHK Cosmomedia America, Inc.）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の映像制作・放送事業会社である。[北アメリカ](../Page/北アメリカ.md "wikilink")に於いて[テレビジャパン](../Page/テレビジャパン.md "wikilink")を運営する[企業](../Page/企業.md "wikilink")である。[本社](../Page/本社.md "wikilink")は[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")の[マンハッタン](../Page/マンハッタン.md "wikilink")の[ウォール街](../Page/ウォール街.md "wikilink")に所在。

@@ -1,4 +1,4 @@
-> この記事は[SG](https://ja.wikipedia.org/wiki/SG)から翻訳されています。
+> この記事は[ギブソン・SG](https://ja.wikipedia.org/wiki/ギブソン・SG)から翻訳されています。
 
 
 **SG**（エスジー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギブソン社が](../Page/ギブソン_\(楽器メーカー\).md "wikilink")[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")のニューモデルとして発表した[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。名称の「SG」はSolid Guitar、[ソリッド・ギターの意](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Dvorak](https://ja.wikipedia.org/wiki/Dvorak)から翻訳されています。
+> この記事は[Dvorak配列](https://ja.wikipedia.org/wiki/Dvorak配列)から翻訳されています。
 
 
 **Dvorak配列**（ドヴォラックはいれつ）は、[キー配列](../Page/キー配列.md "wikilink")の一種で、英文入力に特化した設計。[1932年](../Page/1932年.md "wikilink")に[ワシントン大学の](../Page/ワシントン大学_\(ワシントン州\).md "wikilink")[教育心理学](../Page/教育心理学.md "wikilink")者である[オーガスト・ドヴォラック](../Page/オーガスト・ドヴォラック.md "wikilink")が考案した\[1\]。
@@ -45,7 +45,7 @@ OSの設定やアプリケーションを用いてDvorak配列を使用する。
 
 [Windows XPは](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")「コントロールパネル - 地域と言語のオプション - 言語 - 詳細（テキスト サービスと入力言語） - キーボードレイアウト/入力システム」で「米国（Dvorak）」を選択してキー配列を変更するが、[入力システムも変更されて日本語は入力不可となる](../Page/インプットメソッド.md "wikilink")。日本語入力は、[レジストリ](../Page/レジストリ.md "wikilink")を操作してキー配列を変更、Dvorak配列を[エミュレートする](../Page/エミュレータ.md "wikilink")[DvorakJ](http://blechmusik.xii.jp/dvorakj/)などアプリケーションの導入、などで対応する。Dvorak配列化用のソフトウェアに、[修飾キー](../Page/修飾キー.md "wikilink")をQWERTY配列のまま使用できるものもある。
 
-[windows 10では](https://ja.wikipedia.org/wiki/windows_10 "wikilink")、スタート・メニュー→設定→時刻と言語→(左の)地域と言語→言語→日本語→オプション→キーボード・レイアウトを\[日本語キーボード(106/109キー)\]から\[英語キーボード(101/102キー)\]に変更してサイン・アウト、再サイン・インをクリック
+[Windows 10では](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")、スタート・メニュー→設定→時刻と言語→(左の)地域と言語→言語→日本語→オプション→キーボード・レイアウトを\[日本語キーボード(106/109キー)\]から\[英語キーボード(101/102キー)\]に変更してサイン・アウト、再サイン・インをクリック
 
 そして スタート・メニュで [regeditを検索](../Page/レジストリ.md "wikilink")、実行して、HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\i8042prt\\Parameters\\LayerDriver JPNを"kbd101.dll"から"kbddv.dll"に修正すると、アプリケーションなしで使える。
 

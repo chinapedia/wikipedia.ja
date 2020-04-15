@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[SF宝石](https://ja.wikipedia.org/wiki/SF宝石)から翻訳されています。
 
 
 『**SF宝石**』（エスエフほうせき）は、[光文社](../Page/光文社.md "wikilink")から刊行された[SF雑誌である](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。書名は、[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")の編集になる[ミステリ](../Page/ミステリ.md "wikilink")専門雑誌『[宝石](../Page/宝石_\(雑誌\).md "wikilink")』から取られた。[1979年](../Page/1979年.md "wikilink")5月から[1981年](../Page/1981年.md "wikilink")6月までの2年間にわたって、隔月で全12号が刊行された。隔月なのは、同時期に刊行されたミステリ雑誌「[EQ](../Page/エラリー・クイーンズ・ミステリ・マガジン.md "wikilink")」と交代で発行されていたためである。

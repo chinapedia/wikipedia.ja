@@ -92,13 +92,13 @@
 
   - [FLIP-FLAP - Official Home Page](http://www.ffflipflap.com/) - FLIP-FLAP公式ホームページ
 
-  - [Flip Flap yuko -Official Blog-](http://ameblo.jp/flipflap-yuko/) - ゆうこ（姉）本人によるブログ
+  - [Flip Flap yuko -Official Blog-](https://ameblo.jp/flipflap-yuko/) - ゆうこ（姉）本人によるブログ
 
   - \- ゆうこ（姉）本人による旧ブログ（ - 2009年7月21日）
 
   - \- ゆうこ（姉）本人によるツイッター
 
-  - [Flip Flap aiko -Official Blog-](http://ameblo.jp/flipflap-aiko/) - あいこ（妹）本人によるブログ
+  - [Flip Flap aiko -Official Blog-](https://ameblo.jp/flipflap-aiko/) - あいこ（妹）本人によるブログ
 
   - \- あいこ（妹）本人による旧ブログ（ - 2009年7月21日）
 

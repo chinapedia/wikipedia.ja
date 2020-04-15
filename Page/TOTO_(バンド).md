@@ -1,4 +1,4 @@
-> この記事は[TOTO \(\)](https://ja.wikipedia.org/wiki/TOTO_\(\))から翻訳されています。
+> この記事は[TOTO \(バンド\)](https://ja.wikipedia.org/wiki/TOTO_\(バンド\))から翻訳されています。
 
 
 **TOTO**（トト）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身のAOR、[ロック](../Page/ロック_\(音楽\).md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GIRLS](https://ja.wikipedia.org/wiki/GIRLS)から翻訳されています。
+> この記事は[GIRLSブラボー](https://ja.wikipedia.org/wiki/GIRLSブラボー)から翻訳されています。
 
 
 『**GIRLSブラボー**』（ガールズブラボー）は、[まりお金田](../Page/まりお金田.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")作品。「[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）、および「少年エース 桃組」（同）にて、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて連載された。[単行本](../Page/単行本.md "wikilink")は、角川コミックスエースより全10巻。またゲームも制作された。

@@ -1,4 +1,4 @@
-> この記事は[hp](https://ja.wikipedia.org/wiki/hp)から翻訳されています。
+> この記事は[電撃hp短編小説賞](https://ja.wikipedia.org/wiki/電撃hp短編小説賞)から翻訳されています。
 
 
 **電撃hp短編小説賞**（でんげきエイチピーたんぺんしょうせつしょう）とは[メディアワークス](../Page/メディアワークス.md "wikilink")（現[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")/[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）が主催していた短編小説の新人賞である。同社刊の雑誌『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』を母体としていた。

@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[ヘンリー・M・ジャクソン](https://ja.wikipedia.org/wiki/ヘンリー・M・ジャクソン)から翻訳されています。
 
 
 **ヘンリー・マーティン・"スクープ"・ジャクソン**（**Henry Martin "Scoop" Jackson**, [1912年](../Page/1912年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink") - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")）は、アメリカの政治家。連邦下院議員（[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink") - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）、連邦上院議員（[ワシントン州](../Page/ワシントン州.md "wikilink")選出、1953年 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）。所属政党は[民主党](../Page/民主党_\(アメリカ\).md "wikilink")。下院では[インディアン](../Page/インディアン.md "wikilink")（[ネイティブ・アメリカン](../Page/ネイティブ・アメリカン.md "wikilink")全体は含まない）問題委員長（[1945年](../Page/1945年.md "wikilink") - [1947年](../Page/1947年.md "wikilink")）、上院では内務委員長（[1965年](../Page/1965年.md "wikilink") - [1977年](../Page/1977年.md "wikilink")）、エネルギー・天然資源委員長（[1977年](../Page/1977年.md "wikilink") - [1981年](../Page/1981年.md "wikilink")）を歴任。愛称はスクープ。

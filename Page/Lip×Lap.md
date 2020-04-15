@@ -1,4 +1,4 @@
-> この記事は[LipLap](https://ja.wikipedia.org/wiki/LipLap)から翻訳されています。
+> この記事は[Lip×Lap](https://ja.wikipedia.org/wiki/Lip×Lap)から翻訳されています。
 
 
 **Lip×Lap**（リップ×ラップ）は[2000年](../Page/2000年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで[日本ビクター](../Page/日本ビクター.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）が製造販売していた[ミニコンポ](../Page/ミニコンポ.md "wikilink")（ゼネラルオーディオ）の商品名。メインターゲットを10代～20代の女性とし、光るディスクトレイやイルミネーション、[顔文字](../Page/顔文字.md "wikilink")の表示など可愛らしさを重視した製品である。

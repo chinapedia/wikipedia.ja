@@ -1,4 +1,4 @@
-> この記事は[NTB \(\)](https://ja.wikipedia.org/wiki/NTB_\(\))から翻訳されています。
+> この記事は[NTB \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/NTB_\(芸能プロダクション\))から翻訳されています。
 
 
 **株式会社 NTB**（エヌティービー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[中部地方](../Page/中部地方.md "wikilink")を活動拠点としている[芸能事務所](../Page/芸能事務所.md "wikilink")である。所属タレントたちの中部地方（特に[中京圏](../Page/中京圏.md "wikilink")）における芸能活動のマネージメントを主としている。

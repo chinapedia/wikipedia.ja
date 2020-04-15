@@ -1,4 +1,4 @@
-> この記事は[SEG \(\)](https://ja.wikipedia.org/wiki/SEG_\(\))から翻訳されています。
+> この記事は[SEG \(学習塾\)](https://ja.wikipedia.org/wiki/SEG_\(学習塾\))から翻訳されています。
 
 
 **SEG**（エスイージー）は、[理数系](https://ja.wikipedia.org/wiki/理数系 "wikilink")科目を中心とした中学生・高校生対象とし少数グループ形式の[学習塾](../Page/学習塾.md "wikilink")、[予備校](../Page/予備校.md "wikilink")。「株式会社エスイージー」（資本金9000万円）が経営している。「SEG」は「科学的教育グループ（**S**cientific **E**ducation **G**roup）」の略であり、「セグ」と読むのは正式ではない。校舎は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")7-19-19にある。アクセスは[JR](../Page/JR.md "wikilink")[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")から徒歩7分。
@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1981年](../Page/1981年.md "wikilink")、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[理学部](../Page/理学部.md "wikilink")数学科の学生や卒業生によって設立された。多くの塾・予備校が「いかに大学に合格させるか」を競いあっている中、「心に広がる数学の世界を\!」というスローガンを掲げて設立された。代表は、古川昭夫（[筑波大学附属駒場高等学校](https://ja.wikipedia.org/wiki/筑波大学附属駒場高等学校 "wikilink")卒、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")理学部数学科卒、[東京都立大学](../Page/東京都立大学.md "wikilink")大学院理学研究科博士課程修了）。[IA Prep School 平岡数学科主任を経て](../Page/IA_Prep_School_平岡.md "wikilink")、1981年、SEGを創立。
+[1981年](../Page/1981年.md "wikilink")、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[理学部](../Page/理学部.md "wikilink")数学科の学生や卒業生によって設立された。多くの塾・予備校が「いかに大学に合格させるか」を競いあっている中、「心に広がる数学の世界を\!」というスローガンを掲げて設立された。代表は、古川昭夫（[筑波大学附属駒場高等学校](https://ja.wikipedia.org/wiki/筑波大学附属駒場高等学校 "wikilink")卒、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")理学部数学科卒、[東京都立大学 (1949-2011)大学院理学研究科博士課程修了](../Page/東京都立大学_\(1949-2011\).md "wikilink")）。[IA Prep School 平岡数学科主任を経て](../Page/IA_Prep_School_平岡.md "wikilink")、1981年、SEGを創立。
 
 [数学](../Page/数学.md "wikilink")・[物理](https://ja.wikipedia.org/wiki/物理 "wikilink")・[化学](../Page/化学.md "wikilink")の授業では、学校の授業の受講を前提としておらず、ゼロからの講義を行うのが特徴。クラスはレベル別に細分化されており、最上位のクラスでは[大学](../Page/大学.md "wikilink")[教養課程や専門レベルまで踏み込んだ説明を行う](../Page/教養課程と専門課程.md "wikilink")。[英語](../Page/英語.md "wikilink")は文法や精読を中心とした授業のほか、多読を重視した授業も設けており、社会人向けの洋書ブッククラブや、多読図書専門店SEG Bookshopも経営している。
 

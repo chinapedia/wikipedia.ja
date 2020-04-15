@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ロバート・B・ラフリン](https://ja.wikipedia.org/wiki/ロバート・B・ラフリン)から翻訳されています。
 
 
 ` `

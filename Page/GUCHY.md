@@ -48,7 +48,7 @@
 
 ### 北海道放送
 
-  - [グッチーの 今日ドキッ\!](https://ja.wikipedia.org/wiki/グッチーの_今日ドキッ! "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink") - ）
+  - [今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink") - ）
   - Bravo\!ファイターズ開幕直前スペシャル\!(2010年3月10日)
   - グッチー&ガンちゃんの能動的十分間（と少し）〔2010年3月13日〕
   - 思い出レストラン8020（HBCラジオ、2010年9月13日 - 12月20日）

@@ -1,4 +1,4 @@
-> この記事は[NHK1](https://ja.wikipedia.org/wiki/NHK1)から翻訳されています。
+> この記事は[NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送)から翻訳されています。
 
 
 **NHKラジオ第1放送**（エヌエイチケイラジオだいいちほうそう）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）による[地上基幹放送の一種別の](https://ja.wikipedia.org/wiki/基幹放送 "wikilink")[中波放送](../Page/中波放送.md "wikilink")（AM放送）で[国内放送](https://ja.wikipedia.org/wiki/国内放送 "wikilink")でもある。

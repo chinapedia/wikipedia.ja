@@ -1,4 +1,4 @@
-> この記事は[BERG ](https://ja.wikipedia.org/wiki/BERG_)から翻訳されています。
+> この記事は[BERG レーベル](https://ja.wikipedia.org/wiki/BERG_レーベル)から翻訳されています。
 
 
 **BERG レーベル**（バーグ・レーベル）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコードレーベル](../Page/レコードレーベル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時はBMGジャパン）内の[ビーイング](../Page/ビーイング.md "wikilink")専門レーベルとして設立され、[2003年](../Page/2003年.md "wikilink")に消滅した。

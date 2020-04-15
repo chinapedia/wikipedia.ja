@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[赤穂浪士 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/赤穂浪士_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**赤穂浪士**』（あこうろうし）は、[1964年](../Page/1964年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [12月27日](../Page/12月27日.md "wikilink")に[NHKで放映された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")2作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。

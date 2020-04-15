@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ケネス・E・ボールディング](https://ja.wikipedia.org/wiki/ケネス・E・ボールディング)から翻訳されています。
 
 
 **ケネス・エワート・ボールディング**(**Kenneth Ewart Boulding**、[1910年](../Page/1910年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink"))は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[経済学者](../Page/経済学者.md "wikilink")。
@@ -27,7 +27,7 @@
 
 ## 業績
 
-  - [生物学](../Page/生物学.md "wikilink")者の[ベルタランフィに呼応して](../Page/ルートヴィヒ・フォン・ベルタランフィ.md "wikilink")[贈与経済学](https://ja.wikipedia.org/wiki/贈与経済学 "wikilink")や[組織論](../Page/組織論.md "wikilink")さらには[紛争解決論](https://ja.wikipedia.org/wiki/紛争解決論 "wikilink")など、[一般システム理論](https://ja.wikipedia.org/wiki/一般システム理論 "wikilink")の[社会システム理論](../Page/社会システム理論.md "wikilink")への理論的拡張に貢献した。[経済学](../Page/経済学.md "wikilink")のみならず[教育](../Page/教育.md "wikilink")・[詩](https://ja.wikipedia.org/wiki/詩 "wikilink")作・[システム科学](https://ja.wikipedia.org/wiki/システム科学 "wikilink")など多彩な才能を発揮し[学際](../Page/学際.md "wikilink")的な研究活動を行った。特に[チャールズ・ダーウィン](../Page/チャールズ・ダーウィン.md "wikilink")の[進化論](../Page/進化論.md "wikilink")を経済学分析に取り入れた[進化経済学](https://ja.wikipedia.org/wiki/進化経済学 "wikilink")の樹立で有名。また、バックミンスター・フラーが提唱した概念「[宇宙船地球号](../Page/宇宙船地球号.md "wikilink")」を経済学に導入した。
+  - [生物学](../Page/生物学.md "wikilink")者の[ベルタランフィに呼応して](../Page/ルートヴィヒ・フォン・ベルタランフィ.md "wikilink")[贈与経済学](https://ja.wikipedia.org/wiki/贈与経済学 "wikilink")や[組織論](../Page/組織論.md "wikilink")さらには[紛争解決論](https://ja.wikipedia.org/wiki/紛争解決論 "wikilink")など、[一般システム理論](../Page/一般システム理論.md "wikilink")の[社会システム理論](../Page/社会システム理論.md "wikilink")への理論的拡張に貢献した。[経済学](../Page/経済学.md "wikilink")のみならず[教育](../Page/教育.md "wikilink")・[詩](https://ja.wikipedia.org/wiki/詩 "wikilink")作・[システム科学](https://ja.wikipedia.org/wiki/システム科学 "wikilink")など多彩な才能を発揮し[学際](../Page/学際.md "wikilink")的な研究活動を行った。特に[チャールズ・ダーウィン](../Page/チャールズ・ダーウィン.md "wikilink")の[進化論](../Page/進化論.md "wikilink")を経済学分析に取り入れた[進化経済学](https://ja.wikipedia.org/wiki/進化経済学 "wikilink")の樹立で有名。また、バックミンスター・フラーが提唱した概念「[宇宙船地球号](../Page/宇宙船地球号.md "wikilink")」を経済学に導入した。
   - また彼は[クエーカー教](https://ja.wikipedia.org/wiki/クエーカー教 "wikilink")徒でもあり、今日でいう[平和学](../Page/平和学.md "wikilink")に大きな関心を寄せていた。妻は平和研究者、平和運動家の[エリース・ボールディング](https://ja.wikipedia.org/wiki/エリース・ボールディング "wikilink")。
 
 ## 著書

@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[のりゆきのトークDE北海道](https://ja.wikipedia.org/wiki/のりゆきのトークDE北海道)から翻訳されています。
 
 
 『**のりゆきのトークDE北海道**』（のりゆきのトークデほっかいどう）は、[1994年](../Page/1994年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[北海道文化放送](../Page/北海道文化放送.md "wikilink") (UHB) で放送されていた[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

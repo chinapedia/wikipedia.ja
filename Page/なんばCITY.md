@@ -1,4 +1,4 @@
-> この記事は[CITY](https://ja.wikipedia.org/wiki/CITY)から翻訳されています。
+> この記事は[なんばCITY](https://ja.wikipedia.org/wiki/なんばCITY)から翻訳されています。
 
 
 **なんばCITY**（なんばシティ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区および](../Page/中央区_\(大阪市\).md "wikilink")[浪速区](../Page/浪速区.md "wikilink")に所在する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。4店舗まで存在した[CITY](https://ja.wikipedia.org/wiki/CITY "wikilink")のうち、最初に誕生した店舗である。
@@ -40,9 +40,9 @@
   - 南海電車
     [南海本線](https://ja.wikipedia.org/wiki/南海本線 "wikilink")・[高野線](https://ja.wikipedia.org/wiki/南海高野線 "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(南海\) "wikilink") - 直結
   - Osaka Metro
-    [御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(大阪市高速電気軌道\) "wikilink") - 徒歩3分
-    [千日前線](../Page/大阪市高速電気軌道千日前線.md "wikilink") 難波駅 - 徒歩5分
-    [四つ橋線](../Page/大阪市高速電気軌道四つ橋線.md "wikilink") 難波駅 - 徒歩6分
+    [御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink") - 徒歩3分
+    [千日前線](https://ja.wikipedia.org/wiki/Osaka_Metro千日前線 "wikilink") 難波駅 - 徒歩5分
+    [四つ橋線](https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線 "wikilink") 難波駅 - 徒歩6分
   - 近鉄電車・阪神電車
     [近鉄難波線](../Page/近鉄難波線.md "wikilink")（[奈良線](https://ja.wikipedia.org/wiki/近鉄奈良線 "wikilink")）・[阪神なんば線](https://ja.wikipedia.org/wiki/阪神なんば線 "wikilink") [大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink") - 徒歩6分
   - JR西日本

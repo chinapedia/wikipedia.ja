@@ -1,4 +1,4 @@
-> この記事は[GO \(\)](https://ja.wikipedia.org/wiki/GO_\(\))から翻訳されています。
+> この記事は[GO \(小説\)](https://ja.wikipedia.org/wiki/GO_\(小説\))から翻訳されています。
 
 
 『**GO**』（ゴー）は、[2000年](../Page/2000年.md "wikilink")に[講談社](../Page/講談社.md "wikilink")により発行された[金城一紀](../Page/金城一紀.md "wikilink")作の[小説](../Page/小説.md "wikilink")。同年の[直木賞を受賞した他](../Page/直木三十五賞.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に公開されたこれを原作とする[映画](../Page/映画.md "wikilink")化作品は日本国内で数多くの映画賞を受賞した。

@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOあおぞらネット銀行](https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行)から翻訳されています。
 
 
 **GMOあおぞらネット銀行株式会社**（ジーエムオーあおぞらネットぎんこう、*GMO Aozora Net Bank, Ltd.*）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本拠を構える、[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")とGMOインターネットが共同出資する[新たな形態の銀行](../Page/新たな形態の銀行.md "wikilink")である。かつては[信託銀行](../Page/信託銀行.md "wikilink")として営業していたが、2018年10月1日付であおぞら銀行に信託部門を吸収分割した。

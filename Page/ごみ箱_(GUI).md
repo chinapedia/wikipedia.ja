@@ -1,4 +1,4 @@
-> この記事は[ \(GUI\)](https://ja.wikipedia.org/wiki/_\(GUI\))から翻訳されています。
+> この記事は[ごみ箱 \(GUI\)](https://ja.wikipedia.org/wiki/ごみ箱_\(GUI\))から翻訳されています。
 
 
 [Icono_aviso_borrar.png](https://ja.wikipedia.org/wiki/File:Icono_aviso_borrar.png "fig:Icono_aviso_borrar.png")の「ごみ箱」の[アイコン](../Page/アイコン.md "wikilink")\]\] **ごみ箱**（ごみばこ、）は、主に[GUIデスクトップ上に配置される特殊な](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アイコン](../Page/アイコン.md "wikilink")で、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")・[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")・[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")の、「不要な[ファイルを即座に削除するのではなく一時的な退避場所に移動させておき](../Page/ファイル_\(コンピュータ\).md "wikilink")、後に手動あるいは何らかのトリガで実際に削除を行うメカニズム」にアクセスするインタフェースである。

@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C反応性蛋白](https://ja.wikipedia.org/wiki/C反応性蛋白)から翻訳されています。
 
 
 **C反応性蛋白**（シーはんのうせいたんぱく、）は、体内で[炎症](../Page/炎症.md "wikilink")反応や組織の破壊が起きているときに血中に現れる[タンパク質](../Page/タンパク質.md "wikilink")。[肺炎球菌](https://ja.wikipedia.org/wiki/肺炎球菌 "wikilink")のC多糖体と結合するためこの名がある。**CRP**と略称される。C反応性蛋白は細菌の凝集に関与し、[補体](../Page/補体.md "wikilink")の古典的経路を活性化する作用を有する。

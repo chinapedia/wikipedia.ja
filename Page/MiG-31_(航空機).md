@@ -1,4 +1,4 @@
-> この記事は[MiG-31 \(\)](https://ja.wikipedia.org/wiki/MiG-31_\(\))から翻訳されています。
+> この記事は[MiG-31 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-31_\(航空機\))から翻訳されています。
 
 
 **MiG-31**(ミグ31、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ミーク・トリーッツァチ・アヂーン)は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミグ](../Page/MiG.md "wikilink")[設計局](../Page/設計局.md "wikilink")が[防空軍向けに開発した](../Page/ソ連防空軍.md "wikilink")[迎撃戦闘機である](../Page/要撃機.md "wikilink")。[MiG-25の大幅な改良型で](../Page/MiG-25_\(航空機\).md "wikilink")、高高度・高速の[航空機](../Page/航空機.md "wikilink")の迎撃に特化したMiG-25に対し、低空進入する[巡航ミサイル](../Page/巡航ミサイル.md "wikilink")や[攻撃機](../Page/攻撃機.md "wikilink")への対応能力を持つ。ソ連にとっては、最初の[第4世代戦闘機であった](../Page/第4世代ジェット戦闘機.md "wikilink")。[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**フォックスハウンド** (Foxhound)。

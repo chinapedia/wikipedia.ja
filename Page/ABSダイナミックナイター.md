@@ -1,4 +1,4 @@
-> この記事は[ABS](https://ja.wikipedia.org/wiki/ABS)から翻訳されています。
+> この記事は[ABSダイナミックナイター](https://ja.wikipedia.org/wiki/ABSダイナミックナイター)から翻訳されています。
 
 
 **ABSダイナミックナイター**（エービーエスダイナミックナイター）は、ナイターシーズンに、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABSラジオ）が放送する[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
@@ -46,6 +46,6 @@
 
   - [DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")（ABSテレビ）
 
-[Category:秋田放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:秋田放送のラジオ番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink")
+[Category:秋田放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:秋田放送のラジオ番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink")
 
 1.  JRN（TBSラジオ）ネットの時は東京ヤクルト主催ゲームの中継はできない（日本シリーズおよび[本拠地球場開催の](../Page/明治神宮野球場.md "wikilink")[オールスターゲームを除く](../Page/オールスターゲーム_\(日本プロ野球\).md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[DAY](https://ja.wikipedia.org/wiki/DAY)から翻訳されています。
+> この記事は[布施明のグッDAY](https://ja.wikipedia.org/wiki/布施明のグッDAY)から翻訳されています。
 
 
 『**布施明のグッDAY**』（ふせあきらのグッデイ）は、[テレビ朝日系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")。テレビ朝日系列局では[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで、毎週月曜日から金曜日の12:00 - 12:55 （以降、時間表記はすべて[JST](../Page/日本標準時.md "wikilink")）に放送。

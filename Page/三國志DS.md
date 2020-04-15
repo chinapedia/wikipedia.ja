@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[三國志DS](https://ja.wikipedia.org/wiki/三國志DS)から翻訳されています。
 
 
 『**三國志DS**』（さんごくしディーエス）は、[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の1つ。

@@ -1,4 +1,4 @@
-> この記事は[VM](https://ja.wikipedia.org/wiki/VM)から翻訳されています。
+> この記事は[V・M・ミャスィーシチェフ記念試作機械製造工場](https://ja.wikipedia.org/wiki/V・M・ミャスィーシチェフ記念試作機械製造工場)から翻訳されています。
 
 
 **V・M・ミャスィーシチェフ記念試作機械製造工場**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>エクスピリミンターリヌィイ・マシナスツロイーチェリヌィイ・ザヴォート・イーミェニ・ヴラジーミラ・ミハーイラヴィチャ・ミスィーシシェヴァ</small>）は、[ソ連時代の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に設立された、[ロシア](../Page/ロシア.md "wikilink")連邦の[航空機](../Page/航空機.md "wikilink")メーカーである。

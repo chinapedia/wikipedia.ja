@@ -1,7 +1,7 @@
 > この記事は[WANTED!](https://ja.wikipedia.org/wiki/WANTED!)から翻訳されています。
 
 
-『**WANTED\!**』（ウォンテッド\!）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JFN系列で](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**WANTED\!**』（ウォンテッド\!）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JFN系列で](../Page/全国FM放送協議会.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 なお、[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降は月 - 金で『[DAY BREAK](../Page/DAY_BREAK_\(ラジオ番組\).md "wikilink")』（金曜は『DAY BREAK FRIDAY』）が放送されている。
 

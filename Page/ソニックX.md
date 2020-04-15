@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ソニックX](https://ja.wikipedia.org/wiki/ソニックX)から翻訳されています。
 
 
 『**ソニックX**』（ソニック・エックス）は、[2003年](../Page/2003年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されたゲーム『[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")』を題材にした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[ソニックチーム](../Page/ソニックチーム.md "wikilink")監修の下、日本で製作された同シリーズの初の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品となる。
@@ -212,7 +212,7 @@
 
   - 「SONIC DRIVE」（第1話 - 第78話）
     作詞 - 相田毅 / 作曲・編曲 - [渡部チェル](../Page/渡部チェル.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") & [高取ヒデアキ](../Page/高取ヒデアキ.md "wikilink")
-    ソニックのイメージソング。第1話などで挿入歌として使用した（第52話ではインストバージョンで使用した）。
+    ソニックのイメージソング。第1話、第39話などで挿入歌として使用した（第52話ではインストバージョンで使用した）。
     第27話以降では、オープニングの映像が変更されている。
 
 ### エンディングテーマ
@@ -229,7 +229,7 @@
 
 ### 挿入歌
 
-第1話などでは「SONIC DRIVE」が使用した（第52話ではインストバージョンで使用した）。また、第26話で[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")の「[言葉にできない](../Page/言葉にできない.md "wikilink")」\[19\]が、第52話では「[夏の日](../Page/夏の日_\(オフコースの曲\).md "wikilink")」と「[緑の日々](../Page/緑の日々.md "wikilink")」が挿入歌として使われていた\[20\]。第38話では「[ソニックアドベンチャー2](../Page/ソニックアドベンチャー2.md "wikilink")」の主題歌「LIVE AND LEARN」を使用していた。
+第1話、第39話などでは「SONIC DRIVE」が使用した（第52話ではインストバージョンで使用した）。また、第26話で[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")の「[言葉にできない](../Page/言葉にできない.md "wikilink")」\[19\]が、第52話では「[夏の日](../Page/夏の日_\(オフコースの曲\).md "wikilink")」と「[緑の日々](../Page/緑の日々.md "wikilink")」が挿入歌として使われていた\[20\]。第38話、第39話では「[ソニックアドベンチャー2](../Page/ソニックアドベンチャー2.md "wikilink")」の主題歌「LIVE AND LEARN」を使用していた。
 
 ## 各話リスト
 
@@ -750,7 +750,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第2期（現在日本では未放送、欧米では第3期）</p></td>
+<td><p>第2期（欧米では第3期）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -761,47 +761,48 @@
 <tr class="even">
 <td><p>エピソード 53</p></td>
 <td><p>流星雨の使者</p></td>
+<td><p>吉村清子</p></td>
+<td><p>平野俊貴</p></td>
+<td><p>熨斗谷充孝</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>2020年</strong><br />
+3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 54</p></td>
 <td><p>宇宙船ブルータイフーン号</p></td>
+<td><p>水原正則</p></td>
+<td><p>広嶋秀樹</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3月26日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 55</p></td>
 <td><p>水の惑星ハイドー</p></td>
+<td><p>まさきひろ</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>古川政美</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 56</p></td>
 <td><p>Dr.エッグマン参戦!</p></td>
+<td><p>水原正則</p></td>
+<td><p>鈴木卓夫</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>3月31日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 57</p></td>
 <td><p>アイスパレスの戦い!</p></td>
+<td><p>白石雅彦</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>棚橋一徳</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4月1日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 58</p></td>
@@ -810,7 +811,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 59</p></td>
@@ -819,7 +820,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月3日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 60</p></td>
@@ -828,7 +829,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 61</p></td>
@@ -837,7 +838,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 62</p></td>
@@ -846,7 +847,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 63</p></td>
@@ -855,7 +856,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 64</p></td>
@@ -864,7 +865,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月10日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 65</p></td>
@@ -873,7 +874,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月13日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 66</p></td>
@@ -882,7 +883,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 67</p></td>
@@ -891,7 +892,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月15日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 68</p></td>
@@ -900,7 +901,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月16日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 69</p></td>
@@ -909,7 +910,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月17日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 70</p></td>
@@ -918,7 +919,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月20日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 71</p></td>
@@ -927,7 +928,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月21日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 72</p></td>
@@ -936,7 +937,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月22日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 73</p></td>
@@ -945,7 +946,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月23日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 74</p></td>
@@ -954,7 +955,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月24日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 75</p></td>
@@ -963,7 +964,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 76</p></td>
@@ -972,7 +973,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 77</p></td>
@@ -981,7 +982,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 78</p></td>
@@ -990,7 +991,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>4月30日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1000,29 +1001,15 @@
   -
     {| class="wikitable" style="font-size:small"
 
-|- \!放送地域\!\!放送局\!\!放送期間\!\!放送日時\!\!放送系列\!\!備考 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||rowspan="9"|[2003年](../Page/2003年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") ||rowspan="6"|日曜 8:30 - 9:00||rowspan="6"|[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")||**製作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")|| |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")||[テレビ愛知](../Page/テレビ愛知.md "wikilink")|| |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink")|| |- |[岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink")|| |- |[福岡県](../Page/福岡県.md "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")|| |} [青森朝日放送](../Page/青森朝日放送.md "wikilink")　水曜 16:00 - 16:30
-
-[仙台放送](../Page/仙台放送.md "wikilink")　金曜 15:30 - 16:00
-
-[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")　土曜 6:00 - 6:30
-
-[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")　金曜 15:55 - 16:25
-
-[岐阜放送](../Page/岐阜放送.md "wikilink")　火曜 19:30 - 20:00
-
-[びわ湖放送](../Page/びわ湖放送.md "wikilink")　月曜 7:30 - 8:00
-
-[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ "wikilink")　火曜 7:30 - 8:00
-
-[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")　日曜 8:00 - 8:30 ほか
+|- \!放送地域\!\!放送局\!\!放送期間\!\!放送日時\!\!放送系列\!\!備考 |- |[関東広域圏](../Page/広域放送.md "wikilink")||[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")||rowspan="6"|[2003年](../Page/2003年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") ||rowspan="6"|日曜 8:30 - 9:00||rowspan="6"|[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")||**製作局** |- |[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")||[テレビ北海道](../Page/テレビ北海道.md "wikilink")|| |- |[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")||[テレビ愛知](../Page/テレビ愛知.md "wikilink")|| |- |[大阪府](../Page/大阪府.md "wikilink")||[テレビ大阪](../Page/テレビ大阪.md "wikilink")|| |- |[岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")||[テレビせとうち](../Page/テレビせとうち.md "wikilink")|| |- |[福岡県](../Page/福岡県.md "wikilink")||[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")|| |- |[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")||[青森朝日放送](../Page/青森朝日放送.md "wikilink")||||水曜 16:00 - 16:30||[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")|| |- |[宮崎県](../Page/宮崎県.md "wikilink")||[仙台放送](../Page/仙台放送.md "wikilink")||||金曜 15:30 - 16:00||[フジテレビ系列](https://ja.wikipedia.org/wiki/FNN "wikilink")|| |- |[静岡県](../Page/静岡県.md "wikilink")||[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")||||土曜 6:00 - 6:30||[TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")|| |- |[長崎県](../Page/長崎県.md "wikilink")||[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")||||金曜 15:55 - 16:25||[日本テレビ系列](https://ja.wikipedia.org/wiki/NNN "wikilink")|| |- |[岐阜県](../Page/岐阜県.md "wikilink")||[岐阜放送](../Page/岐阜放送.md "wikilink")||||火曜 19:30 - 20:00||rowspan="4"|[独立局](../Page/全国独立放送協議会.md "wikilink")|| |- |[滋賀県](../Page/滋賀県.md "wikilink")||[びわ湖放送](../Page/びわ湖放送.md "wikilink")||||月曜 7:30 - 8:00|| |- |[奈良県](../Page/奈良県.md "wikilink")||[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ "wikilink")||||火曜 7:30 - 8:00|| |- |[和歌山県](../Page/和歌山県.md "wikilink")||[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")||||日曜 8:00 - 8:30|| |}
 
 ## 日本国内での第2期の扱い
 
-第2期（第53話以降）は欧米などのみで放送され、日本国内では放送されなかった。[2009年](../Page/2009年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")より、[東京ムービー](../Page/東京ムービー.md "wikilink")ONLINE（現：ムービースクエア\[21\]）を始めとした動画配信サイトで、第2期を含めた日本語版全78話のweb配信が始まった。ビデオ・DVD版には収録されていない。
+第2期（第53話以降）は欧米などのみで放送され、日本国内では放送されていなかった。 2020年1月6日からの[キッズステーション](../Page/キッズステーション.md "wikilink")での再放送は、全78話の放送が予定されており国内初放送となった。
 
-長らく未放送であったが、アニメ制作会社の東京ムービー（現：[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")）の設立55周年を記念して開設された「TMSアニメ55周年公式チャンネル」にて1～3話、27～29話、53話以降が期間限定で配信される。
+[2009年](../Page/2009年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")より、[東京ムービー](../Page/東京ムービー.md "wikilink")ONLINE（現：ムービースクエア\[21\]）を始めとした動画配信サイトで、第2期を含めた日本語版全78話のweb配信が始まった。ビデオ・DVD版には収録されていない。
 
-2020年1月6日からの[キッズステーション](../Page/キッズステーション.md "wikilink")での再放送は、全78話の放送が予定されている。
+また、アニメ制作会社の東京ムービー（現：[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")）の設立55周年を記念して開設された「TMSアニメ55周年公式チャンネル」にて1～3話、27～29話、53話以降が期間限定で配信される。2020年3月27日頃より国内大手配信サイトの[ドコモ・アニメストア](https://ja.wikipedia.org/wiki/ドコモ・アニメストア "wikilink")にて78話分の定額視聴が可能になるなど、順次国内での視聴環境は整いつつある。\[22\]
 
 ## 脚注
 
@@ -1059,4 +1046,5 @@
 18. テレビ放送、web配信版のみ。ビデオ・DVD版では通常通りエミーが登場している。
 19. テレビ放送、web配信版のみ。ビデオ・DVD版では「光る道」のインストバージョンに差し替えられている。
 20. テレビ放送版のみ。ビデオ・DVD、web配信版では「夏の日」を使用したシーンは「光る道」、「緑の日々」を使用したシーンは「[ソニックアドベンチャー2](../Page/ソニックアドベンチャー2.md "wikilink")」のフィナーレ曲に差し替えられている。
-21. 2014年6月でムービースクエアが閉鎖したが、現在は各種動画サイトにて有料で視聴可能。
+21. 2014年6月でムービースクエアが閉鎖したが、現在は一部動画サイトにて有料で視聴可能。
+22. [dアニメストア SONIC X](https://anime.dmkt-sp.jp/animestore/ci_pc?workId=23355)

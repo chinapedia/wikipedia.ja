@@ -1,4 +1,4 @@
-> この記事は[OK](https://ja.wikipedia.org/wiki/OK)から翻訳されています。
+> この記事は[O・K・アントーノウ記念航空科学技術複合体](https://ja.wikipedia.org/wiki/O・K・アントーノウ記念航空科学技術複合体)から翻訳されています。
 
 
 **国営企業「O・K・アントーノウ記念航空科学技術複合体」**([ウクライナ語](../Page/ウクライナ語.md "wikilink"):****\[1\]；[略称](../Page/略語.md "wikilink"):****；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****\[2\]；略称:****)は、[ウクライナ](../Page/ウクライナ.md "wikilink")の[航空機](../Page/航空機.md "wikilink")メーカーである。[日本語](../Page/日本語.md "wikilink")文献では、以前の**アントノフ設計局**の名で知られている。以下は、この[通称](../Page/通称.md "wikilink")を用いる。

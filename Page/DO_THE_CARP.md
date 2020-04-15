@@ -5,7 +5,7 @@
 
 **Bukey\`s Carp Cafe**（バッキーズ カープ　カフェ）をリニューアルした番組で、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")の話題や選手インタビューを中心とした内容で構成されている。
 
-2015年3月放送終了。後継番組は、\[<http://hfm.jp/blog/studiom/>　MONDAY CARP STUDIO "M"\]。
+2015年3月放送終了。後継番組は、[MONDAY CARP STUDIO "M"](http://hfm.jp/blog/studiom/)。
 
 ## 放送時間
 
@@ -145,4 +145,4 @@ etc
 
   - [DO THE CARP番組ホームページ](http://hfmweb.jp/carp/index.html)
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:JFN系ラジオのスポーツ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのスポーツ番組 "wikilink") [Category:広島エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:広島エフエム放送の番組 "wikilink") [Category:広島東洋カープ](https://ja.wikipedia.org/wiki/Category:広島東洋カープ "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:JFN系ラジオのスポーツ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのスポーツ番組 "wikilink") [Category:広島エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:広島エフエム放送の番組 "wikilink") [Category:広島東洋カープ](https://ja.wikipedia.org/wiki/Category:広島東洋カープ "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[!EXPO](https://ja.wikipedia.org/wiki/!EXPO)から翻訳されています。
+> この記事は[特報!EXPOプレス](https://ja.wikipedia.org/wiki/特報!EXPOプレス)から翻訳されています。
 
 
 『**特報\!EXPOプレス**』（とくほう エキスポプレス）は、[2005年](../Page/2005年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")から同年[9月23日](../Page/9月23日.md "wikilink")まで[中京テレビで放送された](../Page/中京テレビ放送.md "wikilink")[愛知万博](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。同博覧会[長久手会場からの](https://ja.wikipedia.org/wiki/長久手市 "wikilink")[生放送](../Page/生放送.md "wikilink")。

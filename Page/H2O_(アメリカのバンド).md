@@ -1,4 +1,4 @@
-> この記事は[H2O \(\)](https://ja.wikipedia.org/wiki/H2O_\(\))から翻訳されています。
+> この記事は[H2O \(アメリカのバンド\)](https://ja.wikipedia.org/wiki/H2O_\(アメリカのバンド\))から翻訳されています。
 
 
 **H<sub>2</sub>O**（エイチ・ツー・オー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ハードコア・パンク](../Page/ハードコア・パンク.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

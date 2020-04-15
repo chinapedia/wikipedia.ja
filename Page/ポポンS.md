@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ポポンS](https://ja.wikipedia.org/wiki/ポポンS)から翻訳されています。
 
 
 **ポポンS**は、[シオノギヘルスケア](https://ja.wikipedia.org/wiki/シオノギヘルスケア "wikilink")から発売されている総合[ビタミン](../Page/ビタミン.md "wikilink")剤である。本項では「ポポン」ブランドで発売するシリーズ品についても述べる。

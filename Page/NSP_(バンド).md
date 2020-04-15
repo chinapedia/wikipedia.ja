@@ -1,4 +1,4 @@
-> この記事は[NSP \(\)](https://ja.wikipedia.org/wiki/NSP_\(\))から翻訳されています。
+> この記事は[NSP \(バンド\)](https://ja.wikipedia.org/wiki/NSP_\(バンド\))から翻訳されています。
 
 
 **NSP**（エヌエスピー）は、[岩手県](../Page/岩手県.md "wikilink")出身の三人組の[フォーク](../Page/フォークソング.md "wikilink")・グループ。[一関工業高等専門学校](../Page/一関工業高等専門学校.md "wikilink")の同級生であった三人が在学中の[1972年](../Page/1972年.md "wikilink")に結成した。

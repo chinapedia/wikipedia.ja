@@ -1,4 +1,4 @@
-> この記事は[GOIS](https://ja.wikipedia.org/wiki/GOIS)から翻訳されています。
+> この記事は[GO・I・S](https://ja.wikipedia.org/wiki/GO・I・S)から翻訳されています。
 
 
 **GO・I・S**（ゴイス）は、[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）で放送された夕方の生放送番組。番組開始当初は18時から1時間だった。来札アーティストとのゲストトーク、加えて毎週設定した一つのテーマを元にリスナーからのメッセージを紹介する内容で、若年層から中年層まで幅広いリスナー層を取り込んだ。
@@ -58,6 +58,6 @@
   - [坂本サトル](../Page/坂本サトル.md "wikilink")
   - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")
 
-[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink")
+[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
 
 1.  ただジングルの中には、「すご〜いー・・・ゴイス」というものがあったことから、「すごい」という言葉を、[逆さまにした業界用語の](https://ja.wikipedia.org/wiki/ズージャ語 "wikilink")「ごいす」ではないかという説もある。

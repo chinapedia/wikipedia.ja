@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ゴードン・R・ディクスン](https://ja.wikipedia.org/wiki/ゴードン・R・ディクスン)から翻訳されています。
 
 
 **ゴードン・ルパート・ディクスン**（*Gordon Rupert Dickson*、[1923年](../Page/1923年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")生まれの[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SF作家](../Page/SF作家.md "wikilink")、[ファンタジー](../Page/ファンタジー.md "wikilink")作家。ディクソンの表記もあり。

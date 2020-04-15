@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[おだいばZ会](https://ja.wikipedia.org/wiki/おだいばZ会)から翻訳されています。
 
 
 **おだいばZ会**（おだいばゼットかい）は、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")、『[とぶくすり](../Page/とぶくすり.md "wikilink")Z』内において結成された、レギュラー出演者とスタッフのグループの事であり、『[めちゃ<sup>2</sup>モテたいッ\!](../Page/めちゃ×2モテたいッ!.md "wikilink")』を経て、『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』でも使用されていた。『**めちゃイケメンバー**』等と呼ばれることが多い。

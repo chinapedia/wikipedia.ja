@@ -1,4 +1,4 @@
-> この記事は[MS ](https://ja.wikipedia.org/wiki/MS_)から翻訳されています。
+> この記事は[MS ゴシック](https://ja.wikipedia.org/wiki/MS_ゴシック)から翻訳されています。
 
 
 **ＭＳ ゴシック**（エムエス ゴシック）とは、[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 日本語版に標準で搭載されている[ゴシック体](../Page/ゴシック体.md "wikilink")の和文フォントである。派生した**ＭＳ Ｐゴシック**、**MS UI Gothic**など書体名の詳細については[\#書体名](https://ja.wikipedia.org/wiki/#書体名 "wikilink")を参照。

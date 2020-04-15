@@ -1,4 +1,4 @@
-> この記事は[OTV](https://ja.wikipedia.org/wiki/OTV)から翻訳されています。
+> この記事は[OTVスーパータイム](https://ja.wikipedia.org/wiki/OTVスーパータイム)から翻訳されています。
 
 
 『**OTVスーパータイム**』（オーティーブイスーパータイム）は、[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[沖縄テレビで夕方に放送されていた](../Page/沖縄テレビ放送.md "wikilink")[沖縄県](../Page/沖縄県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[フジテレビ発](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の沖縄県ローカル扱い）。

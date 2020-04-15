@@ -1,4 +1,4 @@
-> この記事は[ P-KAN!](https://ja.wikipedia.org/wiki/_P-KAN!)から翻訳されています。
+> この記事は[日立 あしたP-KAN気分!](https://ja.wikipedia.org/wiki/日立_あしたP-KAN気分!)から翻訳されています。
 
 
 『**日立 あしたP-KAN気分\!**』（ひたち あした ピーカンきぶん）は、[1992年](../Page/1992年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで[日本テレビ系列局ほかで放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

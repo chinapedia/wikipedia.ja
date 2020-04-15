@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー)から翻訳されています。
 
 
 『**月刊Gファンタジー**』（げっかんジーファンタジー）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")が発行する日本の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")。[1992年](../Page/1992年.md "wikilink")刊行の『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』増刊『ファンタスティックコミック』を経て[1993年](../Page/1993年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")（4月号）創刊。
@@ -7,7 +7,7 @@
 
 ## 概要
 
-雑誌名が示すように、[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")の多くは[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")であり、特に女性向け・青年向けの作品が中心。[2005年](../Page/2005年.md "wikilink")の秋頃から、原則として全ての連載作品につき前号までのあらすじと主要登場人物の紹介が本編の前に必ず1ページ挿入されるようになったのが大きな特徴である。
+雑誌名が示すように、[作品](../Page/作品.md "wikilink")の多くは[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")であり、特に女性向け・青年向けの作品が中心。[2005年](../Page/2005年.md "wikilink")の秋頃から、原則として全ての連載作品につき前号までのあらすじと主要登場人物の紹介が本編の前に必ず1ページ挿入されるようになったのが大きな特徴である。
 
 [2002年](../Page/2002年.md "wikilink")頃には、連載作品の一部が『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』（一賽舎。スタジオDNAとの合併後は[一迅社](../Page/一迅社.md "wikilink")）へ流出した（詳細は[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")を参照）。また、本誌での連載終了後に続編が『ZERO-SUM』で執筆されているケースもある。
 
@@ -17,28 +17,34 @@
 
 ## 連載作品
 
-  - アインシュタインの怪物（[宮永龍](https://ja.wikipedia.org/wiki/宮永龍 "wikilink")） - 隔月連載
-  - [青春×機関銃](https://ja.wikipedia.org/wiki/青春×機関銃 "wikilink") ([NAOE](https://ja.wikipedia.org/wiki/NAOE "wikilink"))
-  - 偽り王のグラディウス（ザザロン亞南）
-  - 王宮のトリニティ（雨壱絵穹）
+  - [天つ狐と封印詩](https://ja.wikipedia.org/wiki/天つ狐と封印詩 "wikilink")（[寝子暇子](https://ja.wikipedia.org/wiki/寝子暇子 "wikilink")）
+  - [アラフォー男の異世界通販生活](https://ja.wikipedia.org/wiki/アラフォー男の異世界通販生活 "wikilink")（\[\[原作：\[\[朝倉一二三|原作：[朝倉一二三](https://ja.wikipedia.org/wiki/朝倉一二三 "wikilink") キャラクターデザイン：[やまかわ](https://ja.wikipedia.org/wiki/やまかわ "wikilink") 漫画：[うみハル](https://ja.wikipedia.org/wiki/うみハル "wikilink")）
+  - [兎角ノ兄弟](https://ja.wikipedia.org/wiki/兎角ノ兄弟 "wikilink")（[十束椿](https://ja.wikipedia.org/wiki/十束椿 "wikilink")）
+  - [王宮のトリニティ](https://ja.wikipedia.org/wiki/王宮のトリニティ "wikilink")（[雨壱絵穹](https://ja.wikipedia.org/wiki/雨壱絵穹 "wikilink")）
   - [王室教師ハイネ](https://ja.wikipedia.org/wiki/王室教師ハイネ "wikilink")（[赤井ヒガサ](https://ja.wikipedia.org/wiki/赤井ヒガサ "wikilink")）
-  - [君と僕。](../Page/君と僕。.md "wikilink")（[堀田きいち](https://ja.wikipedia.org/wiki/堀田きいち "wikilink")） - [ガンガンパワード](../Page/ガンガンパワード.md "wikilink")より移籍
-  - グランネリエ（[宝井理人](https://ja.wikipedia.org/wiki/宝井理人 "wikilink")）
+  - [お子様王子はとめられない！](https://ja.wikipedia.org/wiki/お子様王子はとめられない！ "wikilink")（[ありこ](https://ja.wikipedia.org/wiki/ありこ "wikilink")）
+  - [帰還した勇者の後日譚](https://ja.wikipedia.org/wiki/帰還した勇者の後日譚 "wikilink")（原作：[月夜乃古狸](https://ja.wikipedia.org/wiki/月夜乃古狸 "wikilink") キャラクターデザイン：[吉沢メガネ](https://ja.wikipedia.org/wiki/吉沢メガネ "wikilink") 作画：[音埜クルミ](https://ja.wikipedia.org/wiki/音埜クルミ "wikilink")）
   - [黒執事](../Page/黒執事.md "wikilink")（[枢やな](../Page/枢やな.md "wikilink")）
-  - [地縛少年 花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")（あいだいろ）
-  - 白石君の動級生（チノク）
-  - そのアイドル吸血鬼につき（七都サマコ）
-  - [デュラララ\!\! RE;ダラーズ編](https://ja.wikipedia.org/wiki/デュラララ!! "wikilink")（原作：[成田良悟](../Page/成田良悟.md "wikilink") キャラクターデザイン：[ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink") 作画：あおぎり）
-  - 博多豚骨ラーメンズ 第2幕（原作：木崎ちあき キャラクターデザイン：一色箱 作画：長岡千秋）
-  - 白衣の王様（綾瀬れつ）
+  - [地縛少年 花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")（[あいだいろ](https://ja.wikipedia.org/wiki/あいだいろ "wikilink")）
+  - [SCARS](https://ja.wikipedia.org/wiki/SCARS_\(漫画\) "wikilink")（[たついこと](https://ja.wikipedia.org/wiki/たついこと "wikilink")）
+  - [その恋はいちごのように](https://ja.wikipedia.org/wiki/その恋はいちごのように "wikilink")（[イロノ](https://ja.wikipedia.org/wiki/イロノ "wikilink")）
+  - [鶴野くんは恩返しができない](https://ja.wikipedia.org/wiki/鶴野くんは恩返しができない "wikilink")（[天野かすた](https://ja.wikipedia.org/wiki/天野かすた "wikilink")）
+  - [デュラララ\!\! RE;ダラーズ編](https://ja.wikipedia.org/wiki/デュラララ!! "wikilink")（原作：[成田良悟](../Page/成田良悟.md "wikilink") キャラクターデザイン：[ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink") 作画：[あおぎり](https://ja.wikipedia.org/wiki/あおぎり "wikilink")）
+  - [僕はお猫様の下僕です。](https://ja.wikipedia.org/wiki/僕はお猫様の下僕です。 "wikilink")（[北国良人](https://ja.wikipedia.org/wiki/北国良人 "wikilink")）
   - [ホリミヤ](https://ja.wikipedia.org/wiki/堀さんと宮村くん "wikilink")（原作：[HERO](https://ja.wikipedia.org/wiki/HERO_\(漫画家\) "wikilink") 作画：[萩原ダイスケ](https://ja.wikipedia.org/wiki/萩原ダイスケ "wikilink")）
-  - [魔法科高校の劣等生 ダブルセブン編](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink")（原作：[佐島勤](https://ja.wikipedia.org/wiki/佐島勤 "wikilink") キャラクターデザイン：[石田可奈](https://ja.wikipedia.org/wiki/石田可奈 "wikilink") 作画：[きたうみつな](../Page/きたうみつな.md "wikilink")）
-  - [魔法科高校の劣等生 来訪者編](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink")（原作：佐島勤 キャラクターデザイン：石田可奈 作画：マジコ\!）
-  - 冥界のケルベロス（うみハル）
-  - 冥土の恋は閻魔次第\!（平井るな）
+  - [魔法科高校の劣等生 四葉継承編](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink")（原作：[佐島勤](https://ja.wikipedia.org/wiki/佐島勤 "wikilink") キャラクターデザイン：[石田可奈](https://ja.wikipedia.org/wiki/石田可奈 "wikilink") 作画：[きたうみつな](../Page/きたうみつな.md "wikilink")）
+  - [魔法女子学園の助っ人教師](https://ja.wikipedia.org/wiki/魔法女子学園の助っ人教師 "wikilink")（原作：[東導号](https://ja.wikipedia.org/wiki/東導号 "wikilink") キャラクターデザイン：[とよた瑣織](../Page/とよた瑣織.md "wikilink") 作画：[藤本桜](https://ja.wikipedia.org/wiki/藤本桜 "wikilink")）
+  - [みにみに部-沙々木美仁のミニチュアレシピ-](https://ja.wikipedia.org/wiki/みにみに部-沙々木美仁のミニチュアレシピ- "wikilink")（[木村りん](https://ja.wikipedia.org/wiki/木村りん "wikilink")）
+  - [光流坊ちゃんはぼっち](https://ja.wikipedia.org/wiki/光流坊ちゃんはぼっち "wikilink")（[綾瀬れつ](https://ja.wikipedia.org/wiki/綾瀬れつ "wikilink")）
+  - [メイデーア転生物語 この世界で一番悪い魔女](https://ja.wikipedia.org/wiki/メイデーア転生物語_この世界で一番悪い魔女 "wikilink")（原作：[友麻碧](https://ja.wikipedia.org/wiki/友麻碧 "wikilink") キャラクターデザイン：[雨壱絵穹](https://ja.wikipedia.org/wiki/雨壱絵穹 "wikilink") 漫画：[夏西七](https://ja.wikipedia.org/wiki/夏西七 "wikilink")）
+  - [妖怪学校の先生はじめました\!](https://ja.wikipedia.org/wiki/妖怪学校の先生はじめました! "wikilink")（[田中まい](https://ja.wikipedia.org/wiki/田中まい "wikilink")）
+
+## 休載作品
+
+  - [君と僕。](../Page/君と僕。.md "wikilink")（[堀田きいち](https://ja.wikipedia.org/wiki/堀田きいち "wikilink")） - [ガンガンパワード](../Page/ガンガンパワード.md "wikilink")より移籍
+  - [グランネリエ](https://ja.wikipedia.org/wiki/グランネリエ "wikilink")（[宝井理人](https://ja.wikipedia.org/wiki/宝井理人 "wikilink")）
+  - [白石君の動級生](https://ja.wikipedia.org/wiki/白石君の動級生 "wikilink")（[チノク](https://ja.wikipedia.org/wiki/チノク "wikilink")）
   - [ももも怪レストラン](https://ja.wikipedia.org/wiki/ももも怪レストラン "wikilink")（[ヤマダ](https://ja.wikipedia.org/wiki/ヤマダ "wikilink")）
-  - 幽落町おばけ駄菓子屋（原作：蒼月海里 キャラクターデザイン：六七質 作画：明日香さつき）
-  - 妖怪学校の先生はじめました\!（田中まい）
 
 ## Gファンタジーコミックス
 

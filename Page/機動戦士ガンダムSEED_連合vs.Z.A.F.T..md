@@ -1,4 +1,4 @@
-> この記事は[SEED vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/SEED_vs.Z.A.F.T.)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED 連合vs.Z.A.F.T.](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_連合vs.Z.A.F.T.)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED 連合vs.Z.A.F.T.**』（きどうせんしガンダムシード れんごうバーサスザフト、通称「**連ザ**」）は、[カプコン](../Page/カプコン.md "wikilink")が開発し[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した対戦型[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

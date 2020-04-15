@@ -1,4 +1,4 @@
-> この記事は[ WILD STRIKER](https://ja.wikipedia.org/wiki/_WILD_STRIKER)から翻訳されています。
+> この記事は[ハングリーハート WILD STRIKER](https://ja.wikipedia.org/wiki/ハングリーハート_WILD_STRIKER)から翻訳されています。
 
 
 『**ハングリーハート WILD STRIKER**』は、[高橋陽一](../Page/高橋陽一.md "wikilink")による[サッカー漫画](../Page/サッカー漫画.md "wikilink")および[アニメ](../Page/アニメ.md "wikilink")。[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")連載。

@@ -1,4 +1,4 @@
-> この記事は[F9F \(\)](https://ja.wikipedia.org/wiki/F9F_\(\))から翻訳されています。
+> この記事は[F9F \(航空機\)](https://ja.wikipedia.org/wiki/F9F_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=F9F パンサー / クーガー | 画像=<File:F9F> Panther.jpg | キャプション=F9F パンサー | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")、[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink") | 設計者= | 製造者=[グラマン](../Page/グラマン.md "wikilink")社 | 運用者= | 運用者 more=

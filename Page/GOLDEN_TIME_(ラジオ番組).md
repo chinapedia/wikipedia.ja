@@ -1,4 +1,4 @@
-> この記事は[GOLDEN TIME \(\)](https://ja.wikipedia.org/wiki/GOLDEN_TIME_\(\))から翻訳されています。
+> この記事は[GOLDEN TIME \(ラジオ番組\)](https://ja.wikipedia.org/wiki/GOLDEN_TIME_\(ラジオ番組\))から翻訳されています。
 
 
 **GOLDEN TIME**（ゴールデン・タイム）は、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。原則的には[生放送](../Page/生放送.md "wikilink")であった。

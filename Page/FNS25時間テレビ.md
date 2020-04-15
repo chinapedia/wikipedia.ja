@@ -1,4 +1,4 @@
-> この記事は[FNS25](https://ja.wikipedia.org/wiki/FNS25)から翻訳されています。
+> この記事は[FNS25時間テレビ](https://ja.wikipedia.org/wiki/FNS25時間テレビ)から翻訳されています。
 
 
 『**FNS ALLSTARS あっつい25時間テレビ やっぱ楽しくなければテレビじゃないもん\!**』（FNS ALLSTARS あっつい25じかんテレビ やっぱたのしくなければテレビじゃないもん）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2005年](../Page/2005年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") 19:57 - [7月24日](../Page/7月24日.md "wikilink") 20:54（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された通算19回目の『[FNS25時間テレビ](../Page/FNSの日.md "wikilink")』。番組名は、[2001年](../Page/2001年.md "wikilink")（第15回）の『[FNS ALLSTARS 27時間笑いの夢列島](../Page/FNS27時間テレビ.md "wikilink")』と、[2004年](../Page/2004年.md "wikilink")（第18回）のテーマ『[楽しくなければテレビじゃないじゃ～ん\!\!](../Page/FNS27時間テレビ_\(2004年\).md "wikilink")』を合体させている。

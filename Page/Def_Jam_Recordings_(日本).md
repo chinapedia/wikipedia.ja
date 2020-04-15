@@ -1,4 +1,4 @@
-> この記事は[Def Jam Recordings \(\)](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(\))から翻訳されています。
+> この記事は[Def Jam Recordings \(日本\)](https://ja.wikipedia.org/wiki/Def_Jam_Recordings_\(日本\))から翻訳されています。
 
 
 **Def Jam Recordings**（デフ・ジャム・レコーディングス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽レーベル](../Page/レコードレーベル.md "wikilink")。

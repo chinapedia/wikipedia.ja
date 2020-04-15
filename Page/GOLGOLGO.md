@@ -33,4 +33,4 @@
 
   - [ゴルゴルゴンライン](http://www.air-g.co.jp/gol/index_set_p.asp)
 
-[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink")
+[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[アル・アンサーJr.](https://ja.wikipedia.org/wiki/アル・アンサーJr.)から翻訳されています。
 
 
 **アルフレッド・アンサー・ジュニア** (**Alfred Unser, Jr.**, [1962年](../Page/1962年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - )　は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")[アルバカーキ](../Page/アルバカーキ.md "wikilink")出身の[レーシングドライバー](https://ja.wikipedia.org/wiki/レーサー "wikilink")。[インディ500](https://ja.wikipedia.org/wiki/インディ500 "wikilink")を2度制した。愛称は「リトル・アル」（Little Al）。

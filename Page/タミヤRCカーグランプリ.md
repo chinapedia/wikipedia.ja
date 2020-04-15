@@ -1,4 +1,4 @@
-> この記事は[RC](https://ja.wikipedia.org/wiki/RC)から翻訳されています。
+> この記事は[タミヤRCカーグランプリ](https://ja.wikipedia.org/wiki/タミヤRCカーグランプリ)から翻訳されています。
 
 
 『**タミヤRCカーグランプリ**』（タミヤアールシーカーグランプリ）は、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）が開催するラジコンカーによるレース大会である。また、[えすと](../Page/えすと.md "wikilink")制作により[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")、田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）[一社提供](../Page/一社提供.md "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")。製作局の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")では[1984年](../Page/1984年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送。

@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[Oスケール](https://ja.wikipedia.org/wiki/Oスケール)から翻訳されています。
 
 
 **Oスケール** (オースケール・ゼロスケール) は[鉄道模型](../Page/鉄道模型.md "wikilink")の縮尺と軌間を表す規格呼称のひとつ、もしくは縮尺模型において縮尺を表す呼称である。[Hornby_O_SNCF_BB_8000.jpg](https://ja.wikipedia.org/wiki/File:Hornby_O_SNCF_BB_8000.jpg "fig:Hornby_O_SNCF_BB_8000.jpg"))

@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[キン肉マンII世 ドリームタッグマッチ](https://ja.wikipedia.org/wiki/キン肉マンII世_ドリームタッグマッチ)から翻訳されています。
 
 
 『**キン肉マンII世 ドリームタッグマッチ**』は[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")である。[ゆでたまご](https://ja.wikipedia.org/wiki/ゆでたまご "wikilink")の漫画『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』を題材にしている。

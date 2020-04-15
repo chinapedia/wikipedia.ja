@@ -1,4 +1,4 @@
-> この記事は[S.S.](https://ja.wikipedia.org/wiki/S.S.)から翻訳されています。
+> この記事は[初音島放送局S.S.](https://ja.wikipedia.org/wiki/初音島放送局S.S.)から翻訳されています。
 
 
 **初音島放送局S.S.**（はつねじまほうそうきょく セカンドシーズン）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[D.C.S.S. 〜ダ・カーポ セカンドシーズン〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜_\(アニメ\)#D.C.S.S._〜ダ・カーポ_セカンドシーズン〜 "wikilink")』の関連番組として[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")と[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

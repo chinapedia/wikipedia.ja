@@ -1,4 +1,4 @@
-> この記事は[TNC NEWS\&SPORTS](https://ja.wikipedia.org/wiki/TNC_NEWS\&SPORTS)から翻訳されています。
+> この記事は[TNCスーパータイム NEWS\&SPORTS](https://ja.wikipedia.org/wiki/TNCスーパータイム_NEWS\&SPORTS)から翻訳されています。
 
 
 『**TNCスーパータイム NEWS\&SPORTS**』（ティーエヌシースーパータイム ニュース・アンド・スポーツ）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")が[夕](../Page/夕.md "wikilink")方に放送されていた[福岡県](../Page/福岡県.md "wikilink")向けの[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の福岡県ローカルパート）。正式タイトルは『**FNN TNCスーパータイム NEWS\&SPORTS**』（エフエヌエヌ ティーエヌシースーパータイム ニュース・アンド・スポーツ）。

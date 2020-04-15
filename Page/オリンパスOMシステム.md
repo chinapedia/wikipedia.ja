@@ -1,4 +1,4 @@
-> この記事は[OM](https://ja.wikipedia.org/wiki/OM)から翻訳されています。
+> この記事は[オリンパスOMシステム](https://ja.wikipedia.org/wiki/オリンパスOMシステム)から翻訳されています。
 
 
 **オリンパスOMシステム**とは、[オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")が開発した35mmレンズ交換式銀塩[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")、およびそのシステム全体の総称である。

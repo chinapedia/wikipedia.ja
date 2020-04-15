@@ -1,4 +1,4 @@
-> この記事は[Ak \(\)](https://ja.wikipedia.org/wiki/Ak_\(\))から翻訳されています。
+> この記事は[Ak \(シンガーソングライター\)](https://ja.wikipedia.org/wiki/Ak_\(シンガーソングライター\))から翻訳されています。
 
 
 **ak**（えーけー、[1964年](../Page/1964年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は**Akemi Krivit**（アケミ・クリビット）、旧アーティスト名・旧姓は**柿原 朱美**（かきはら あけみ）で、「ak」はその[イニシャル](../Page/イニシャル.md "wikilink")。愛称は**カッキー**。

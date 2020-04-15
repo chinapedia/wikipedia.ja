@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gファルコン](https://ja.wikipedia.org/wiki/Gファルコン)から翻訳されています。
 
 
 **Gファルコン**は、テレビアニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Do](https://ja.wikipedia.org/wiki/Do)から翻訳されています。
+> この記事は[Doカード](https://ja.wikipedia.org/wiki/Doカード)から翻訳されています。
 
 
 **Doカード**は、[道北バス](../Page/道北バス.md "wikilink")で利用できる[乗車カード](../Page/乗車カード.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")に磁気カードと[ICカード](../Page/ICカード.md "wikilink")が同時にサービス開始した。交通系ICカードとしては全国で4番目の導入、北海道では初の導入である\[1\]。[2014年](../Page/2014年.md "wikilink")11月にICカードのシステムが刷新され、新「Doカード」へ移行した。[2015年](../Page/2015年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")より[旭川電気軌道](../Page/旭川電気軌道.md "wikilink")の[Asaca CARDと相互利用を開始している](https://ja.wikipedia.org/wiki/Asaca_CARD "wikilink")\[2\]。

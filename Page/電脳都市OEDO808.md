@@ -1,4 +1,4 @@
-> この記事は[OEDO808](https://ja.wikipedia.org/wiki/OEDO808)から翻訳されています。
+> この記事は[電脳都市OEDO808](https://ja.wikipedia.org/wiki/電脳都市OEDO808)から翻訳されています。
 
 
 『**電脳都市OEDO808**』（サイバーシティ オーエド ハチマルハチ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1991年](../Page/1991年.md "wikilink")にかけて[小説](../Page/小説.md "wikilink")、[OVA](../Page/OVA.md "wikilink")、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")などに展開された[メディアミックス](../Page/メディアミックス.md "wikilink")作品。 近未来の[サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")な雰囲気の世界で、ハードボイルドな主人公たちの活躍を描く作品である。海外ではサイバーパンクアニメの代表的な作品の一つとして知られており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[イングランド](../Page/イングランド.md "wikilink")の[エレクトロ・ダブステップ・デュオ](https://ja.wikipedia.org/wiki/ダブステップ "wikilink")[Neroがシングル](https://ja.wikipedia.org/wiki/:en:Nero_\(musicians\) "wikilink")「[Innocence](https://ja.wikipedia.org/wiki/:en:Innocence_\(Nero_song\) "wikilink")」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")で映像を使用し話題を集めた\[1\]。

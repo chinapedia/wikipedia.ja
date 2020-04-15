@@ -1,4 +1,4 @@
-> この記事は[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2)から翻訳されています。
+> この記事は[PlayStation 2のゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStation_2のゲームタイトル一覧)から翻訳されています。
 
 
 **PlayStation 2のゲームタイトル一覧**（プレイステーションツーのゲームタイトルいちらん）では、[PlayStation 2対応として日本国内で発売した全](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2925タイトルのゲームソフトを発売順に列記する。

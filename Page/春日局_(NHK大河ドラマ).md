@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[春日局 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/春日局_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**春日局**』（かすがのつぼね）は、[1989年](../Page/1989年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")から[12月17日](../Page/12月17日.md "wikilink")に[NHKで放映された第](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")27作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全50回。原作・脚本は[橋田壽賀子](https://ja.wikipedia.org/wiki/橋田壽賀子 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MS ](https://ja.wikipedia.org/wiki/MS_)から翻訳されています。
+> この記事は[MS 明朝](https://ja.wikipedia.org/wiki/MS_明朝)から翻訳されています。
 
 
 **ＭＳ 明朝**（エムエス みんちょう）とは、[Microsoft Windowsの日本語版に標準で搭載されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[明朝体](../Page/明朝体.md "wikilink")の和文フォント。書体名の詳細については[書体名に関する注意を参照](https://ja.wikipedia.org/wiki/#書体名に関する注意 "wikilink")。

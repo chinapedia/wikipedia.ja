@@ -1,4 +1,4 @@
-> この記事は[Imitation PoPs NOIZ](https://ja.wikipedia.org/wiki/Imitation_PoPs_NOIZ)から翻訳されています。
+> この記事は[Imitation PoPs 宇宙戦隊NOIZ](https://ja.wikipedia.org/wiki/Imitation_PoPs_宇宙戦隊NOIZ)から翻訳されています。
 
 
 **UCHUSENTAI:NOIZ**（うちゅうせんたいノイズ）とは、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")に分類される[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")、デジロック、[パンクなどの要素を取り入れた](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。コンセプトは「地球の平和を守る為、遥か遠い宇宙からやって来た5人の戦士達」で、「音楽で世界が平和に出来ると、割と本気で思っています。」と公言しながら、かつては年間130本以上のライブ（**パトロール**と称している）を行っていた。[TBS系列のバラエティ番組](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』に出演したことがある。

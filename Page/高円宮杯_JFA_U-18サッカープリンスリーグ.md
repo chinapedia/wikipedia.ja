@@ -1,4 +1,4 @@
-> この記事は[ JFA U-18](https://ja.wikipedia.org/wiki/_JFA_U-18)から翻訳されています。
+> この記事は[高円宮杯 JFA U-18サッカープリンスリーグ](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープリンスリーグ)から翻訳されています。
 
 
 **高円宮杯 JFA U-18サッカープリンスリーグ**（たかまどのみやはい ジェイエフエイ アンダーエイティーン サッカープリンスリーグ）[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")（ユース）年代の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")大会の一つ。[高円宮杯 JFA U-18サッカーリーグにおける](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカーリーグ "wikilink")[プレミアリーグに次ぐ](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカープレミアリーグ "wikilink")2部のリーグである。前身は、**JFAプリンスリーグU-18**、**高円宮杯U-18サッカーリーグ プリンスリーグ**。

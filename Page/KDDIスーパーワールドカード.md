@@ -1,4 +1,4 @@
-> この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
+> この記事は[KDDIスーパーワールドカード](https://ja.wikipedia.org/wiki/KDDIスーパーワールドカード)から翻訳されています。
 
 
 **KDDIスーパーワールドカード**（ケイディーディーアイスーパーワールドカード）とは、[KDDI](../Page/KDDI.md "wikilink")が発売する国内・[国際電話](../Page/国際電話.md "wikilink")の[プリペイドカード](../Page/プリペイドカード.md "wikilink")である。後述する**@ca**（エーカ）は、[電子マネー](../Page/電子マネー.md "wikilink")のプリペイドカードとしての側面もある。

@@ -1,4 +1,4 @@
-> この記事は[GOLF](https://ja.wikipedia.org/wiki/GOLF)から翻訳されています。
+> この記事は[みんなのGOLF](https://ja.wikipedia.org/wiki/みんなのGOLF)から翻訳されています。
 
 
 **みんなのGOLF**（みんなのゴルフ、通称：**みんゴル**）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が発売している[ゴルフゲーム](https://ja.wikipedia.org/wiki/スポーツゲーム#ゴルフゲーム "wikilink")。第1作は[口コミ](../Page/口コミ.md "wikilink")によるロングヒットで200万本以上（[廉価版](../Page/廉価版.md "wikilink")を含む）を売り上げ、手軽に楽しめるゴルフゲームの定番としてシリーズ化\[1\]。続編の2、3、4は[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")、ポータブルと5（廉価版を含む）はハーフミリオンを達成している。主役となるキャラクターはシリーズを通し、女子高生である事も特徴の一つ。
@@ -1698,7 +1698,7 @@
 <tr class="even">
 <td><p>ユミン</p></td>
 <td><p>♀</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中理恵_(声優)" title="wikilink">田中理恵</a></p></td>
+<td><p><a href="../Page/田中理恵_(声優).md" title="wikilink">田中理恵</a></p></td>
 <td><p><a href="../Page/大韓民国.md" title="wikilink">韓国</a></p></td>
 <td><p>26歳</p></td>
 <td><p>×</p></td>
@@ -3225,10 +3225,15 @@
 
 ## 外部リンク
 
-  - [みんGOL.net（公式サイト）](http://www.jp.playstation.com/scej/title/mingol/)
-  - [New みんなのGOLF（公式サイト）](http://www.jp.playstation.com/scej/title/newmingol/)
-  - [Clap Hanz ウェブサイト（2以降開発会社サイト）](http://www.claphanz.co.jp/)
+  - [みんGOL.net](https://www.jp.playstation.com/scej/title/mingol/)
 
+  - [New みんなのGOLF](https://www.jp.playstation.com/games/new-mingol/)
+
+  - [Clap Hanz](https://www.claphanz.co.jp/) - 2以降開発会社サイト
+
+  -
+  -
+  -
 [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『プレイステーションクソゲー番付』マイウェイ出版発行、2018年。ISBN 9784865118346 p31

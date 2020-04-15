@@ -1,4 +1,4 @@
-> この記事は[ROX](https://ja.wikipedia.org/wiki/ROX)から翻訳されています。
+> この記事は[浅草ROX](https://ja.wikipedia.org/wiki/浅草ROX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Asakusa-ROX.JPG "wikilink") **浅草ROX**（あさくさロックス）は、[ホテルニューオータニ](../Page/ホテルニューオータニ.md "wikilink")・[TOCグループが経営している](../Page/テーオーシー.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[浅草](../Page/浅草.md "wikilink")一丁目の[浅草公園六区](../Page/浅草公園六区.md "wikilink")にある商業施設。

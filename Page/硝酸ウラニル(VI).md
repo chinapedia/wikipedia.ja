@@ -1,4 +1,4 @@
-> この記事は[\(VI\)](https://ja.wikipedia.org/wiki/\(VI\))から翻訳されています。
+> この記事は[硝酸ウラニル\(VI\)](https://ja.wikipedia.org/wiki/硝酸ウラニル\(VI\))から翻訳されています。
 
 
 （分解）

@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[報道センターNBC](https://ja.wikipedia.org/wiki/報道センターNBC)から翻訳されています。
 
 
 『**報道センターNBC**』（ほうどうセンター エヌ・ビー・シー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")で放送されていたローカル[ニュース番組](../Page/報道番組.md "wikilink")。

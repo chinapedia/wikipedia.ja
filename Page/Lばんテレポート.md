@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[Lばんテレポート](https://ja.wikipedia.org/wiki/Lばんテレポート)から翻訳されています。
 
 
 『**Lばんテレポート**』（エルばんテレポート）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[福島テレビ](../Page/福島テレビ.md "wikilink")で放送された[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。

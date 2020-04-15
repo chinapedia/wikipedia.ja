@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[F値](https://ja.wikipedia.org/wiki/F値)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Aperture_diagram.svg "wikilink") **F値** （エフち、）とは、レンズの[焦点距離](../Page/焦点距離.md "wikilink")を[有効口径で割った値であり](https://ja.wikipedia.org/wiki/#有効口径と明るさ "wikilink")、[レンズ](../Page/レンズ.md "wikilink")の明るさを示す指標として用いられる。F値が小さいほどレンズは明るく（=レンズを通る光量が多い）、シャッター速度を速くできる。

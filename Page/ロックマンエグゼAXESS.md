@@ -1,4 +1,4 @@
-> この記事は[AXESS](https://ja.wikipedia.org/wiki/AXESS)から翻訳されています。
+> この記事は[ロックマンエグゼAXESS](https://ja.wikipedia.org/wiki/ロックマンエグゼAXESS)から翻訳されています。
 
 
 『**ロックマンエグゼAXESS**』（ロックマンエグゼ アクセス）は、カプコンのゲームソフト『[ロックマンエグゼシリーズ](../Page/ロックマンエグゼシリーズ.md "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

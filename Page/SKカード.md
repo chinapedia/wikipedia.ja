@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKカード](https://ja.wikipedia.org/wiki/SKカード)から翻訳されています。
 
 
 **SKカード**（えすけーかーど）とは、[新京成電鉄](../Page/新京成電鉄.md "wikilink")が発行していた磁気式[乗車カード](../Page/乗車カード.md "wikilink")である。

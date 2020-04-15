@@ -1,4 +1,4 @@
-> この記事は[CITY](https://ja.wikipedia.org/wiki/CITY)から翻訳されています。
+> この記事は[とくしまCITY](https://ja.wikipedia.org/wiki/とくしまCITY)から翻訳されています。
 
 
 {{商業施設 |社色 = \#FFF |文字色 = \#205AA7 |名称 = とくしまCITY |外国語表記 = |画像 = Tokushima CITY01n3200.jpg |画像サイズ = 300px |画像説明 = とくしまCITY |正式名称 = |所在地郵便番号 = 770-0832\[1\] |所在地 = [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")[寺島本町東](https://ja.wikipedia.org/wiki/寺島本町東 "wikilink")3-8\[2\] |位置 = |開業日 = 南海ショッピングプラザ

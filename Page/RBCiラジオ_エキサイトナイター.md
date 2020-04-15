@@ -1,4 +1,4 @@
-> この記事は[RBCi ](https://ja.wikipedia.org/wiki/RBCi_)から翻訳されています。
+> この記事は[RBCiラジオ エキサイトナイター](https://ja.wikipedia.org/wiki/RBCiラジオ_エキサイトナイター)から翻訳されています。
 
 
 **RBCiラジオ エキサイトナイター**（アールビーシーアイラジオ エキサイトナイター）は、[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")に本社を置く、[琉球放送](../Page/琉球放送.md "wikilink")（RBCiラジオ）で放送されていた[プロ野球中継](../Page/プロ野球中継.md "wikilink")の名前。2001年のナイターシーズンまでは、「**RBCエキサイトナイター**」（アールビーシーエキサイトナイター）だったが、2002年のナイターシーズンから、社内カンパニー化により変更された。レギュラー放送は2017年シーズンの放送を持って終了したが、2010年から沖縄県内で行われる公式戦の中継制作を行っており、これについては2018年以後も制作を続けている。当項ではこれについても記す。
@@ -163,7 +163,7 @@
 
 ## 関連項目
 
-  - [SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（RBCテレビのプロ野球中継タイトル）
+  - [S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")（RBCテレビのプロ野球中継タイトル）
   - [エキサイトナイター](https://ja.wikipedia.org/wiki/エキサイトナイター "wikilink")
   - [地方ラジオ局のナイター中継タイトル一覧](https://ja.wikipedia.org/wiki/地方ラジオ局のナイター中継タイトル一覧 "wikilink")
 

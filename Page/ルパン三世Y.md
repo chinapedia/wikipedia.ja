@@ -1,4 +1,4 @@
-> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+> この記事は[ルパン三世Y](https://ja.wikipedia.org/wiki/ルパン三世Y)から翻訳されています。
 
 
 『**ルパン三世Y**』（ルパンさんせいワイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画作品。[山上正月](https://ja.wikipedia.org/wiki/山上正月 "wikilink")作、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")監修。

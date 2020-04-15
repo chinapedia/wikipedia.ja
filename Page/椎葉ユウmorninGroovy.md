@@ -1,4 +1,4 @@
-> この記事は[morninGroovy](https://ja.wikipedia.org/wiki/morninGroovy)から翻訳されています。
+> この記事は[椎葉ユウmorninGroovy](https://ja.wikipedia.org/wiki/椎葉ユウmorninGroovy)から翻訳されています。
 
 
 **椎葉ユウmorninGroovy**（しいばゆう モーニンググルービー。タイムテーブルでは『G』を丸で囲んでいる）は、[椎葉ユウ](../Page/椎葉ユウ.md "wikilink")がDJを務めていた、かつて[FM福岡で平日の朝に放送されていた番組](../Page/エフエム福岡.md "wikilink")。

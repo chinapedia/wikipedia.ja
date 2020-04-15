@@ -1,4 +1,4 @@
-> この記事は[High!](https://ja.wikipedia.org/wiki/High!)から翻訳されています。
+> この記事は[男爵校長High!](https://ja.wikipedia.org/wiki/男爵校長High!)から翻訳されています。
 
 
 『**男爵校長High\!**』（だんしゃくこうちょう はい）は、著者[ÖYSTER](https://ja.wikipedia.org/wiki/ÖYSTER "wikilink")（おいすたー）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画作品。当初『**男爵校長**』（だんしゃくこうちょう）として[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")発行の月刊4コマ漫画雑誌「[もえよん](../Page/もえよん.md "wikilink")」→「[まんがタウンオリジナル](../Page/まんがタウンオリジナル.md "wikilink")」→「[コミックハイ\!](../Page/コミックハイ!.md "wikilink")」と掲載誌を変えつつ連載を続け、2007年4月号より『男爵校長DS』と改題の上、2009年5月号まで連載された後、再び『男爵校長High\!』と改題されて同年7月号より2011年9月号まで連載された[4コマ](../Page/4コマ漫画.md "wikilink")[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[MiG-15 \(\)](https://ja.wikipedia.org/wiki/MiG-15_\(\))から翻訳されています。
+> この記事は[MiG-15 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=  | 画像=Image:MiG-15 USAF.jpg | キャプション=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")で展示される[朝鮮人民軍](../Page/朝鮮人民軍.md "wikilink")塗色のMiG-15bis。[盧今錫](https://ja.wikipedia.org/wiki/盧今錫 "wikilink")が亡命時に搭乗していたもの。 | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=[ミコヤーン・グレーヴィチ設計局](../Page/MiG.md "wikilink") | 製造者= | 運用者= | 運用者 more=：

@@ -1,9 +1,9 @@
-> この記事は[CITY](https://ja.wikipedia.org/wiki/CITY)から翻訳されています。
+> この記事は[しんかなCITY](https://ja.wikipedia.org/wiki/しんかなCITY)から翻訳されています。
 
 
 [2005年07月21日しんかなCITY(BUS-T側).JPG](https://ja.wikipedia.org/wiki/File:2005年07月21日しんかなCITY\(BUS-T側\).JPG "fig:2005年07月21日しんかなCITY(BUS-T側).JPG") [Shinkana_CITY.jpg](https://ja.wikipedia.org/wiki/File:Shinkana_CITY.jpg "fig:Shinkana_CITY.jpg")
 
-**しんかなCITY**（しんかなシティ）は、かつて[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[北区に存在した](../Page/北区_\(堺市\).md "wikilink")、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")資本の[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に開業した\[1\]。「しんかな」とは、同施設の所在地である新金岡町の略称である。[地下鉄御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink")[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")前の土地区画整理事業の一環として建設された\[2\]。
+**しんかなCITY**（しんかなシティ）は、かつて[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[北区に存在した](../Page/北区_\(堺市\).md "wikilink")、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")資本の[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に開業した\[1\]。「しんかな」とは、同施設の所在地である新金岡町の略称である。[地下鉄御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")前の土地区画整理事業の一環として建設された\[2\]。
 
 [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって閉館した\[3\]\[4\]。
 
@@ -48,7 +48,7 @@
 
 ## 最寄駅
 
-[地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/大阪市高速電気軌道御堂筋線 "wikilink") 「[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")」 2番出口
+[地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink") 「[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")」 2番出口
 
 ## 系列店
 

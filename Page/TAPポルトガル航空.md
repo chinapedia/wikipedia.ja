@@ -1,4 +1,4 @@
-> この記事は[TAP](https://ja.wikipedia.org/wiki/TAP)から翻訳されています。
+> この記事は[TAPポルトガル航空](https://ja.wikipedia.org/wiki/TAPポルトガル航空)から翻訳されています。
 
 
 **TAPポルトガル航空**（）は、[リスボン](../Page/リスボン.md "wikilink")を本拠地としている[ポルトガル](../Page/ポルトガル.md "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。

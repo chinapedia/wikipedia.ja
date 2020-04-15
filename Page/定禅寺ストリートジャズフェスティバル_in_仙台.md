@@ -1,4 +1,4 @@
-> この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
+> この記事は[定禅寺ストリートジャズフェスティバル in 仙台](https://ja.wikipedia.org/wiki/定禅寺ストリートジャズフェスティバル_in_仙台)から翻訳されています。
 
 
 **定禅寺ストリートジャズフェスティバル in 仙台**（じょうぜんじストリートジャズフェスティバル イン せんだい）とは、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")の[定禅寺通り](https://ja.wikipedia.org/wiki/定禅寺通り "wikilink")を中心に、[仙台市都心部](../Page/仙台市都心部.md "wikilink")各所の街角屋外をステージに催される無料の市民[音楽祭](../Page/音楽祭.md "wikilink")である。例年、[9月](../Page/9月.md "wikilink")第2土・日曜日に開催され、前夜祭も含めた3日間、市内は音楽一色となる。

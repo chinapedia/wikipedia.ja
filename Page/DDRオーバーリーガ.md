@@ -1,4 +1,4 @@
-> この記事は[DDR](https://ja.wikipedia.org/wiki/DDR)から翻訳されています。
+> この記事は[DDRオーバーリーガ](https://ja.wikipedia.org/wiki/DDRオーバーリーガ)から翻訳されています。
 
 
 **DDRオーバーリーガ**（）は、旧[東ドイツにおける](../Page/ドイツ民主共和国.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")1部リーグ。東西ドイツの統一にともなって消滅した。所属チームの多くは、旧西ドイツで行われていた[ブンデスリーガに編入された](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")。

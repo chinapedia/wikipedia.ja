@@ -1,4 +1,4 @@
-> この記事は[T \(\)](https://ja.wikipedia.org/wiki/T_\(\))から翻訳されています。
+> この記事は[ブッカー・T \(プロレスラー\)](https://ja.wikipedia.org/wiki/ブッカー・T_\(プロレスラー\))から翻訳されています。
 
 
 **ブッカー・T**（**Booker T**、本名：**Robert Booker Tio Huffman**\[1\]、[1965年](../Page/1965年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の元[プロレスラー](../Page/プロレスラー.md "wikilink")。[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")出身の[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")。

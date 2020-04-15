@@ -1,4 +1,4 @@
-> この記事は[BEATNet Radio!](https://ja.wikipedia.org/wiki/BEATNet_Radio!)から翻訳されています。
+> この記事は[BEAT☆Net Radio!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio!)から翻訳されています。
 
 
 **BEAT☆Net Radio\!**（ビートネット ラジオ）は、かつて[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")が運営していた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")配信サイト。

@@ -1,4 +1,4 @@
-> この記事は[!!COUNT DOWN100](https://ja.wikipedia.org/wiki/!!COUNT_DOWN100)から翻訳されています。
+> この記事は[突然バラエティー速報!!COUNT DOWN100](https://ja.wikipedia.org/wiki/突然バラエティー速報!!COUNT_DOWN100)から翻訳されています。
 
 
 『**突然バラエティー速報\!\!COUNT DOWN100**』（とつぜんバラエティーそくほう カウントダウンひゃく）は、[1992年](../Page/1992年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全21回。放送時間は毎週土曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）、スタジオからの[生放送](../Page/生放送.md "wikilink")。

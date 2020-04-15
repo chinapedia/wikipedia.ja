@@ -1,4 +1,4 @@
-> この記事は[KTN](https://ja.wikipedia.org/wiki/KTN)から翻訳されています。
+> この記事は[KTNスーパータイム](https://ja.wikipedia.org/wiki/KTNスーパータイム)から翻訳されています。
 
 
 『**KTNスーパータイム**』（ケイティーエヌ スーパータイム）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")\[1\]から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[テレビ長崎](../Page/テレビ長崎.md "wikilink")で夕方に放送されていた[長崎県](../Page/長崎県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の長崎県ローカル扱い）。

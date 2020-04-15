@@ -1,4 +1,4 @@
-> この記事は[FSWS](https://ja.wikipedia.org/wiki/FSWS)から翻訳されています。
+> この記事は[FSWS計画](https://ja.wikipedia.org/wiki/FSWS計画)から翻訳されています。
 
 
 **FSWS計画**（FSWSけいかく）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』をベースとしたメカニックデザイン企画『[モビルスーツバリエーション](../Page/モビルスーツバリエーション.md "wikilink") (MSV) 』に登場する、[架空](../Page/架空.md "wikilink")の軍事計画。

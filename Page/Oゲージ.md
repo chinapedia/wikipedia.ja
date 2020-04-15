@@ -1,11 +1,7 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[Oゲージ](https://ja.wikipedia.org/wiki/Oゲージ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Golden_State_Model_Railroad_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Dreileiter-Geleise01wiki.jpg "wikilink") [thumb製Oゲージ列車模型](https://ja.wikipedia.org/wiki/ファイル:Züricher_Spielzeugmuseum_1000749.jpg "wikilink")
-
-</center>
-
-\]\] **Oゲージ** (オーゲージ) とは[鉄道模型](../Page/鉄道模型.md "wikilink")の縮尺と軌間を表す規格呼称のひとつ。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Golden_State_Model_Railroad_01.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Dreileiter-Geleise01wiki.jpg "wikilink") [thumb製Oゲージ列車模型](https://ja.wikipedia.org/wiki/ファイル:Züricher_Spielzeugmuseum_1000749.jpg "wikilink")}}\]\] **Oゲージ** (オーゲージ) とは[鉄道模型](../Page/鉄道模型.md "wikilink")の縮尺と軌間を表す規格呼称のひとつ。
 
 ## 概要
 

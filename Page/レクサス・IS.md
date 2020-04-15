@@ -1,4 +1,4 @@
-> この記事は[IS](https://ja.wikipedia.org/wiki/IS)から翻訳されています。
+> この記事は[レクサス・IS](https://ja.wikipedia.org/wiki/レクサス・IS)から翻訳されています。
 
 
 [代替文=](https://ja.wikipedia.org/wiki/ファイル:Lexus_IS300h_F_SPORT_\(AVE30\)_front.JPG "wikilink") **IS**（アイエス）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」が販売する4ドア[セダン](../Page/セダン.md "wikilink")である。

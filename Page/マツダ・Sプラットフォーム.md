@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[マツダ・Sプラットフォーム](https://ja.wikipedia.org/wiki/マツダ・Sプラットフォーム)から翻訳されています。
 
 
 **マツダ・Sプラットフォーム**とは、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[キャブオーバー](../Page/キャブオーバー.md "wikilink")型[ワンボックスカー](../Page/ワンボックスカー.md "wikilink")・[トラックまたは](../Page/貨物自動車.md "wikilink")[セミキャブオーバー](../Page/セミキャブオーバー.md "wikilink")型[ミニバン](../Page/ミニバン.md "wikilink")に用いられる、[自動車](../Page/自動車.md "wikilink")の[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**S**から始まる。

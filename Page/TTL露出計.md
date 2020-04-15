@@ -1,4 +1,4 @@
-> この記事は[TTL](https://ja.wikipedia.org/wiki/TTL)から翻訳されています。
+> この記事は[TTL露出計](https://ja.wikipedia.org/wiki/TTL露出計)から翻訳されています。
 
 
 **TTL露出計**（TTLろしゅつけい）とは、カメラに使われる内蔵[露出計](../Page/露出計.md "wikilink")の一種で、撮影用の[レンズ](../Page/レンズ.md "wikilink")を通った光を測定する形式のものである。TTL露出計を使用した測光方式を**TTL測光**という。

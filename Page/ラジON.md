@@ -1,4 +1,4 @@
-> この記事は[ON](https://ja.wikipedia.org/wiki/ON)から翻訳されています。
+> この記事は[ラジON](https://ja.wikipedia.org/wiki/ラジON)から翻訳されています。
 
 
 **ラジON**は、[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[中国放送](../Page/中国放送.md "wikilink")（RCC）で放送されていた夜のラジオ番組。

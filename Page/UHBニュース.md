@@ -1,4 +1,4 @@
-> この記事は[UHB](https://ja.wikipedia.org/wiki/UHB)から翻訳されています。
+> この記事は[UHBニュース](https://ja.wikipedia.org/wiki/UHBニュース)から翻訳されています。
 
 
 『**uhbニュース**』（ユーエイチビーニュース）は、[北海道文化放送](../Page/北海道文化放送.md "wikilink") (UHB) で放送されている[ニュース番組である](../Page/報道番組.md "wikilink")。キャスターはUHBのアナウンサーが担当する。
@@ -21,7 +21,7 @@
 
 ### スポンサー
 
-かつてのuhbニュースは月曜〜土曜まで曜日ごとにスポンサーがついており、[クワザワ](https://ja.wikipedia.org/wiki/クワザワ "wikilink")、[石屋製菓](../Page/石屋製菓.md "wikilink")、[土屋ホーム](../Page/土屋ホーム.md "wikilink")、[新さっぽろアークシティ](https://ja.wikipedia.org/wiki/新さっぽろアークシティ "wikilink")、[京セラ](../Page/京セラ.md "wikilink")、[めいほうグループ](https://ja.wikipedia.org/wiki/めいほうグループ "wikilink")といった企業の提供で放送されたが、[2011年](../Page/2011年.md "wikilink")頃から道新の1社構成となっている。
+かつてのuhbニュースは月曜 - 土曜まで曜日ごとにスポンサーが付いており、[クワザワ](https://ja.wikipedia.org/wiki/クワザワ "wikilink")、[石屋製菓](../Page/石屋製菓.md "wikilink")、[土屋ホーム](../Page/土屋ホーム.md "wikilink")、[新さっぽろアークシティ](https://ja.wikipedia.org/wiki/新さっぽろアークシティ "wikilink")、[京セラ](../Page/京セラ.md "wikilink")、[めいほうグループ](https://ja.wikipedia.org/wiki/めいほうグループ "wikilink")といった企業の提供で放送されたが、2020年3月現在は不定期にスポンサーが付く程度に留まっている。
 
 ## 放送時間
 

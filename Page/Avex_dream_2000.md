@@ -13,7 +13,7 @@
 
 グランプリ獲得者に与えられた権利は「2000年1月1日デビュー」、準グランプリは「レッスンの無償受講と専属契約」だった。後に倖田はじっくり育てたかったという旨のコメントが発表されている。
 
-後に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のメンバーとなった[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")も最終選考に進出\[1\]。落選者の中からも、[HΛL](../Page/HΛL.md "wikilink")（[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")）、[BALANCe](https://ja.wikipedia.org/wiki/BALANCe "wikilink")（[NAO](../Page/三宅尚子.md "wikilink")）、[キーヤキッス](../Page/キーヤキッス.md "wikilink")などがエイベックス・グループで活動した。
+後に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のメンバーとなった[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")も最終選考に進出\[1\]。落選者の中からも、[HΛL](../Page/HΛL.md "wikilink")（[HΛLNA](../Page/HΛLNA.md "wikilink")）、[BALANCe](https://ja.wikipedia.org/wiki/BALANCe "wikilink")（[NAO](../Page/三宅尚子.md "wikilink")）、[キーヤキッス](../Page/キーヤキッス.md "wikilink")などがエイベックス・グループで活動した。
 
 ## テレビ放送
 
@@ -25,7 +25,7 @@
 
 ※：エイベックス・グループでの活動
 
-1.  [浜田春菜](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")（はまだ はるな、19歳 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")） - [HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")として[HΛL](../Page/HΛL.md "wikilink")に加入 ※
+1.  [浜田春菜](../Page/HΛLNA.md "wikilink")（はまだ はるな、19歳 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")） - [HΛLNA](../Page/HΛLNA.md "wikilink")として[HΛL](../Page/HΛL.md "wikilink")に加入 ※
 2.  河本奈津子（かわもと なつこ、20歳 [大阪府](../Page/大阪府.md "wikilink")） - 奈津子としてソロCDデビュー （女優の[奈津子](../Page/奈津子.md "wikilink")とは別人）
 3.  [浅見優子](../Page/浅見ユウコ.md "wikilink")（あさみ ゆうこ、17歳 [埼玉県](../Page/埼玉県.md "wikilink")） - [ユウコとして](../Page/浅見ユウコ.md "wikilink")[YeLLOW Generationを結成](../Page/YeLLOW_Generation.md "wikilink")
 4.  降矢智美（ふるや ともみ、19歳 [山梨県](../Page/山梨県.md "wikilink")） - TOMOMIとしてキーヤキッスを結成 ※

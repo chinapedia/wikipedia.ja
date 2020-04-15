@@ -1,4 +1,4 @@
-> この記事は[VQ](https://ja.wikipedia.org/wiki/VQ)から翻訳されています。
+> この記事は[日産・VQエンジン](https://ja.wikipedia.org/wiki/日産・VQエンジン)から翻訳されています。
 
 
 **VQエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")の[V型6気筒](../Page/V型6気筒.md "wikilink") [4-OHC（片バンクあたりDOHC機構）](../Page/DOHC.md "wikilink") [マルチバルブ](../Page/マルチバルブ.md "wikilink")の[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")。バンク角は60[度](../Page/度_\(角度\).md "wikilink")。

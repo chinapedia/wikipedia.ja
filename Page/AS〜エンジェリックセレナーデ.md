@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[AS〜エンジェリックセレナーデ](https://ja.wikipedia.org/wiki/AS〜エンジェリックセレナーデ)から翻訳されています。
 
 
 『**AS〜エンジェリックセレナーデ**』(**Angelic Serenade**)は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")くろねこさんちーむ制作の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")。2002年3月29日にWindows98/ME/2000/XP対応ソフトとして発売後、2003年9月19日、メディアをCDからDVDへと変更し、要素が追加されたリニューアル版『AS DVD 生まれたばかりのLoveSong』が発売された。工画堂スタジオ運営の[携帯電話](../Page/携帯電話.md "wikilink")サイト『エンジェリックタウン』でもプレイ可能。また、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より[ライトノベル](../Page/ライトノベル.md "wikilink")[小説](../Page/小説.md "wikilink")化作品も発売されている。

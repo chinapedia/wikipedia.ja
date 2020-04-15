@@ -1,4 +1,4 @@
-> この記事は[JTB](https://ja.wikipedia.org/wiki/JTB)から翻訳されています。
+> この記事は[JTB東北](https://ja.wikipedia.org/wiki/JTB東北)から翻訳されています。
 
 
 **株式会社JTB東北**（ジェイティービーとうほく、*JTB TOHOKU inc.*）は、[仙台市](../Page/仙台市.md "wikilink")[青葉区に本社を置き](../Page/青葉区_\(仙台市\).md "wikilink")、[JTBグループ](https://ja.wikipedia.org/wiki/JTBグループ "wikilink")における東北6県のJTB店舗の運営等を手掛けていた[旅行会社](../Page/旅行代理店.md "wikilink")。[2018年](../Page/2018年.md "wikilink")4月1日にJTB本社に吸収合併され解散した。

@@ -1,4 +1,4 @@
-> この記事は[ Day](https://ja.wikipedia.org/wiki/_Day)から翻訳されています。
+> この記事は[ふくい浪漫 い〜ざぁええDay](https://ja.wikipedia.org/wiki/ふくい浪漫_い〜ざぁええDay)から翻訳されています。
 
 
 『**ふくい浪漫 い〜ざぁええDay**』（ふくいろまん いーざぁええデー）は、[2004年](../Page/2004年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[2017年](../Page/2017年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")まで[福井テレビなどで放送されていた](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")。福井テレビ、[KBS京都の](../Page/京都放送.md "wikilink")2局で放送されていた。通称**い〜ざぁええDay**。

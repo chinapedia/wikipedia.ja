@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[浦和本太レディースFC](https://ja.wikipedia.org/wiki/浦和本太レディースFC)から翻訳されています。
 
 
 **浦和本太レディースFC**（うらわもとぶとレディースエフシー）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チーム。[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")（旧・[浦和市](https://ja.wikipedia.org/wiki/浦和市 "wikilink")）を拠点として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（L・リーグ）に所属していたが、2008年シーズンに事実上の活動停止状態となった。

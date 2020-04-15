@@ -1,4 +1,4 @@
-> この記事は[ROK](https://ja.wikipedia.org/wiki/ROK)から翻訳されています。
+> この記事は[ROKゴールデンナイター](https://ja.wikipedia.org/wiki/ROKゴールデンナイター)から翻訳されています。
 
 
 **ROKゴールデンナイター**（アールオーケーゴールデンナイター）は、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")の[プロ野球（ナイター）中継番組](../Page/プロ野球中継.md "wikilink")。
@@ -116,7 +116,7 @@
   - **名古屋**：[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")
   - **大阪**：木曜日／[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）、金曜日／[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）
   - **広島**：[中国放送](../Page/中国放送.md "wikilink")（RCCラジオ）
-  - **福岡**：[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+  - **福岡**：[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
 
 <!-- end list -->
 

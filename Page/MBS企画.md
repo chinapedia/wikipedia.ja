@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBS企画](https://ja.wikipedia.org/wiki/MBS企画)から翻訳されています。
 
 
 **株式会社MBS企画**（エムビーエスきかく、*MBS Planning Corporation*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コングロマリット](../Page/コングロマリット.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に本社を置く[放送持株会社](../Page/放送持株会社.md "wikilink")、[MBSメディアホールディングス](https://ja.wikipedia.org/wiki/MBSメディアホールディングス "wikilink")の連結子会社の一つで、[毎日放送](../Page/毎日放送.md "wikilink")（MBS）などの[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")番組の企画・制作や[イベント](../Page/イベント.md "wikilink")・出版物の企画・刊行、[住宅展示場](../Page/住宅展示場.md "wikilink")の運営・管理などを行っている。略称は「**えむき**」。
@@ -193,9 +193,10 @@
 ## 関連項目
 
   - [ミリカ・ミュージック](../Page/ミリカ・ミュージック.md "wikilink") - MBS企画から音楽出版部門を分社化した会社
-  - [TBS SPARKLE](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")（旧・[TBSビジョン](../Page/TBSビジョン.md "wikilink")） - MBSのキー局・[TBSテレビ](../Page/TBSテレビ.md "wikilink")の番組制作関連会社。
   - [小谷正一](https://ja.wikipedia.org/wiki/小谷正一 "wikilink")
   - [藤田潔](https://ja.wikipedia.org/wiki/藤田潔 "wikilink")
+  - [TBS SPARKLE](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")（旧・[TBSビジョン](../Page/TBSビジョン.md "wikilink")） - MBSのキー局・[TBSテレビ](../Page/TBSテレビ.md "wikilink")の番組制作関連会社。
+  - [CBCクリエイション](https://ja.wikipedia.org/wiki/CBCクリエイション "wikilink") - MBSと同系列局の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")の番組制作関連会社。MBSと交互に制作していた「ドラマ30」では制作協力に止まっている。
 
 ## 外部リンク
 

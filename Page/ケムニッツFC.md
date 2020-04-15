@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ケムニッツFC](https://ja.wikipedia.org/wiki/ケムニッツFC)から翻訳されています。
 
 
 **ケムニッツFC**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の東部、[ザクセン州](../Page/ザクセン州.md "wikilink")の都市[ケムニッツ](../Page/ケムニッツ.md "wikilink")に本拠地を置くサッカークラブである。

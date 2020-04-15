@@ -1,4 +1,4 @@
-> この記事は[RY](https://ja.wikipedia.org/wiki/RY)から翻訳されています。
+> この記事は[ヤマハ・RYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・RYシリーズ)から翻訳されています。
 
 
 **RYシリーズ**（アールワイ・シリーズ）とは、[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）に[ヤマハ](../Page/ヤマハ.md "wikilink")から発売された**RY30**をはじめとする[リズムマシン専用機の型番](../Page/ドラムマシン.md "wikilink")・商品名である。

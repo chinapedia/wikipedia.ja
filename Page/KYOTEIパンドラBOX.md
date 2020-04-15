@@ -1,4 +1,4 @@
-> この記事は[KYOTEIBOX](https://ja.wikipedia.org/wiki/KYOTEIBOX)から翻訳されています。
+> この記事は[KYOTEIパンドラBOX](https://ja.wikipedia.org/wiki/KYOTEIパンドラBOX)から翻訳されています。
 
 
 **KYOTEIパンドラBOX**（きょうてい・ぱんどら・ぼっくす）は、[日本レジャーチャンネル](../Page/日本レジャーチャンネル.md "wikilink")（JLC）で放送されていた[競艇](../Page/競艇.md "wikilink")情報番組。毎月1回の更新で、月内に10回程度放送される。JLCのレース中継関連の番組以外では、「競艇ニュース」に次ぐ長寿番組だった。後継番組は、「NeoPan30」でMCは佐山夏子。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[デビッド・E・ケリー](https://ja.wikipedia.org/wiki/デビッド・E・ケリー)から翻訳されています。
 
 
 [Michelle_Pfeiffer_and_David_E._Kelley.jpg](https://ja.wikipedia.org/wiki/File:Michelle_Pfeiffer_and_David_E._Kelley.jpg "fig:Michelle_Pfeiffer_and_David_E._Kelley.jpg")にて\]\] **デビッド・エドワード・ケリー**もしくは**デイヴィッド・エドワード・ケリー**（、[1956年](../Page/1956年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[脚本家](../Page/脚本家.md "wikilink")、[テレビドラマ](../Page/テレビドラマ.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")、[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")である。

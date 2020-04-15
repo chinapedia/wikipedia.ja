@@ -1,4 +1,4 @@
-> この記事は[Fantom](https://ja.wikipedia.org/wiki/Fantom)から翻訳されています。
+> この記事は[ローランド・Fantomシリーズ](https://ja.wikipedia.org/wiki/ローランド・Fantomシリーズ)から翻訳されています。
 
 
 **Fantom**（ファントム）は、[ローランド](../Page/ローランド.md "wikilink")が販売している[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名及びそれらのシリーズ名である。大きな液晶画面と、4つのノブ、D-Beamコントローラー（ディ・ビーム - ）と呼ばれる独自のコントローラーなどが特徴である。Fantom-Xにはシンセサイザーとしてはじめてカラー液晶が搭載された。

@@ -1,4 +1,4 @@
-> この記事は[\'S](https://ja.wikipedia.org/wiki/\'S)から翻訳されています。
+> この記事は[ギンギラ太陽\'S](https://ja.wikipedia.org/wiki/ギンギラ太陽\'S)から翻訳されています。
 
 
 **ギンギラ太陽's** （**ギンギラたいようズ**）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")を拠点とする劇団。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[高橋徹郎](../Page/高橋徹郎.md "wikilink")が主宰をつとめていた[幻想舞台](https://ja.wikipedia.org/wiki/幻想舞台 "wikilink")の別ユニットとして発足。地元の[バスや](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[電車](../Page/電車.md "wikilink")、[ビル](../Page/建築物.md "wikilink")、[菓子](../Page/菓子.md "wikilink")などを「かぶりもの」を使って擬人化する芝居を得意とする。[福岡の街](../Page/福岡都市圏.md "wikilink") （主に[福岡市天神](../Page/天神_\(福岡市\).md "wikilink")）を舞台にさまざまな業界の[歴史](../Page/歴史.md "wikilink")やエピソードを綿密な取材を元にした[脚本](../Page/脚本.md "wikilink")や[演出](../Page/演出.md "wikilink")で、ユーモラスに時には感動的に描く。主宰は[大塚ムネト](https://ja.wikipedia.org/wiki/大塚ムネト "wikilink")。劇団の人気が高まるにつれ、地元[企業](../Page/企業.md "wikilink")や[地方公共団体](../Page/地方公共団体.md "wikilink")等のイベントに呼ばれる機会が増えている。

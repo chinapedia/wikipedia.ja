@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBC演歌ベストテン](https://ja.wikipedia.org/wiki/CBC演歌ベストテン)から翻訳されています。
 
 
 **CBC演歌ベストテン**（シービーシーえんかベストテン）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")が放送していた、[演歌](../Page/演歌.md "wikilink")専門のカウントダウン番組である。

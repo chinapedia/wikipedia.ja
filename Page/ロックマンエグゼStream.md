@@ -1,4 +1,4 @@
-> この記事は[Stream](https://ja.wikipedia.org/wiki/Stream)から翻訳されています。
+> この記事は[ロックマンエグゼStream](https://ja.wikipedia.org/wiki/ロックマンエグゼStream)から翻訳されています。
 
 
 『**ロックマンエグゼStream**』（ロックマンエグゼ ストリーム）は、カプコンのゲームソフト『[ロックマンエグゼシリーズ](../Page/ロックマンエグゼシリーズ.md "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

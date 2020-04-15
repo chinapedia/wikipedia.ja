@@ -1,4 +1,4 @@
-> この記事は[A2D \(\)](https://ja.wikipedia.org/wiki/A2D_\(\))から翻訳されています。
+> この記事は[A2D \(航空機\)](https://ja.wikipedia.org/wiki/A2D_\(航空機\))から翻訳されています。
 
 
 **A2D スカイシャーク**（*Douglas A2D Skyshark* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が](../Page/ダグラス・エアクラフト.md "wikilink")[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")。採用されたが、運用や量産は行われなかった。

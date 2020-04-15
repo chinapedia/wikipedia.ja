@@ -1,4 +1,4 @@
-> この記事は[FT](https://ja.wikipedia.org/wiki/FT)から翻訳されています。
+> この記事は[ホンダ・FT](https://ja.wikipedia.org/wiki/ホンダ・FT)から翻訳されています。
 
 
 **FT**（エフティー）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。

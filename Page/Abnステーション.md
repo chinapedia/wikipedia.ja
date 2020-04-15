@@ -1,4 +1,4 @@
-> この記事は[Abn](https://ja.wikipedia.org/wiki/Abn)から翻訳されています。
+> この記事は[Abnステーション](https://ja.wikipedia.org/wiki/Abnステーション)から翻訳されています。
 
 
 『**abnステーション**』（エービーエヌ・ステーション）は、[長野県](../Page/長野県.md "wikilink")の[ANN系列である](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[長野朝日放送](../Page/長野朝日放送.md "wikilink")で平日に放送されている平日夕方の[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。なお、番組のロゴでは「**abn station**」と表記する場合もある（[HP](../Page/ホームページ.md "wikilink")・スタジオセットなど）。

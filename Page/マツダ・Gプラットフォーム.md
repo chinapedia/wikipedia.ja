@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[マツダ・Gプラットフォーム](https://ja.wikipedia.org/wiki/マツダ・Gプラットフォーム)から翻訳されています。
 
 
 **マツダ・Gプラットフォーム**とは、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")のミドルクラスの自動車用[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**G**から始まる。

@@ -1,4 +1,4 @@
-> この記事は[BACH](https://ja.wikipedia.org/wiki/BACH)から翻訳されています。
+> この記事は[BACH主題](https://ja.wikipedia.org/wiki/BACH主題)から翻訳されています。
 
 
 [frame](https://ja.wikipedia.org/wiki/ファイル:B-a-c-h.svg "wikilink")  **BACH主題**（バッハしゅだい、英語：Bach motif）は、[音楽](../Page/音楽.md "wikilink")における、「変ロ-イ-ハ-ロ」（英語[音名](https://ja.wikipedia.org/wiki/音名 "wikilink")：**B**♭-**A**-**C**-**B**）（最後の音はナチュラル）の4音の連続である。

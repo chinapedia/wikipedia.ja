@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[科学忍者隊ガッチャマンF](https://ja.wikipedia.org/wiki/科学忍者隊ガッチャマンF)から翻訳されています。
 
 
 『**科学忍者隊ガッチャマンF**』（かがくにんじゃたいガッチャマンファイター）は、『[科学忍者隊ガッチャマン](../Page/科学忍者隊ガッチャマン.md "wikilink")』シリーズ第3作として『[科学忍者隊ガッチャマンII](../Page/科学忍者隊ガッチャマンII.md "wikilink")』から連続して[フジテレビ系で毎週日曜日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")18時00分から18時30分に放送された、[タツノコプロ](../Page/タツノコプロ.md "wikilink")製作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1979年](../Page/1979年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")まで放映。全48話。

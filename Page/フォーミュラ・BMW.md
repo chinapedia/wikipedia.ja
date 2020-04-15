@@ -1,4 +1,4 @@
-> この記事は[BMW](https://ja.wikipedia.org/wiki/BMW)から翻訳されています。
+> この記事は[フォーミュラ・BMW](https://ja.wikipedia.org/wiki/フォーミュラ・BMW)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Formel_BMW_ADAC_2006_EMS.jpg "wikilink") **フォーミュラBMW**（フォーミュラビーエムダブリュー）は、1998年から2013年にかけて開催されていた入門[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")[レース](../Page/自動車競技.md "wikilink")（[ジュニア・フォーミュラ](https://ja.wikipedia.org/wiki/ジュニア・フォーミュラ "wikilink")）の一カテゴリーである。

@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[魔法使いくんとOLさん](https://ja.wikipedia.org/wiki/魔法使いくんとOLさん)から翻訳されています。
 
 
 『**魔法使いくんとOLさん**』（**まほうつかいくんとおうえるさん**）は、著者は[刻田門大](https://ja.wikipedia.org/wiki/刻田門大 "wikilink")（ときた もんた）による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。月刊4コマ漫画雑誌「[もえよん](../Page/もえよん.md "wikilink")」（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）及び「[まんがタウンオリジナル](../Page/まんがタウンオリジナル.md "wikilink")」にて連載されていた[ストーリー](../Page/ストーリー漫画.md "wikilink")[4コマ](../Page/4コマ漫画.md "wikilink")[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")である。

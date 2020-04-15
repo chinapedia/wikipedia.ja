@@ -1,4 +1,4 @@
-> この記事は[MRO6](https://ja.wikipedia.org/wiki/MRO6)から翻訳されています。
+> この記事は[MROテレポート6](https://ja.wikipedia.org/wiki/MROテレポート6)から翻訳されています。
 
 
 『**MROテレポート6**』（エムアールオー テレポートシックス）は、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MROテレビ）で平日夕方に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

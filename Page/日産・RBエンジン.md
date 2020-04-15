@@ -1,4 +1,4 @@
-> この記事は[RB](https://ja.wikipedia.org/wiki/RB)から翻訳されています。
+> この記事は[日産・RBエンジン](https://ja.wikipedia.org/wiki/日産・RBエンジン)から翻訳されています。
 
 
 **RBエンジン**とは、主に1984年から2004年にかけて[日産自動車](../Page/日産自動車.md "wikilink")が生産していた[自動車](../Page/自動車.md "wikilink")の[直列6気筒](../Page/直列6気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。[1984年](../Page/1984年.md "wikilink")に発売された同社の5代目[ローレル](../Page/日産・ローレル.md "wikilink")（C32型）に初めて搭載された（[後述を参照](https://ja.wikipedia.org/wiki/日産・RBエンジン#RB20E "wikilink")）。

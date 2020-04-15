@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本アートセンター四季劇場［春］](https://ja.wikipedia.org/wiki/JR東日本アートセンター四季劇場［春］)から翻訳されています。
 
 
 **JR東日本アートセンター四季劇場［春］**（ジェイアールひがしにほんアートセンターしきげきじょう［はる］、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, HARU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇場](../Page/劇場.md "wikilink")である。

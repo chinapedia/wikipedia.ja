@@ -1,4 +1,4 @@
-> この記事は[PFC CSKA](https://ja.wikipedia.org/wiki/PFC_CSKA)から翻訳されています。
+> この記事は[PFC CSKAモスクワ](https://ja.wikipedia.org/wiki/PFC_CSKAモスクワ)から翻訳されています。
 
 
 **PFC CSKAモスクワ**（, ）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -75,9 +75,7 @@ CSKAモスクワの最大のライバルは[FCスパルタク・モスクワ](..
 
   - [2019年](../Page/2019年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))
-
-※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))                        ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
 
   - [監督](../Page/監督.md "wikilink")
 

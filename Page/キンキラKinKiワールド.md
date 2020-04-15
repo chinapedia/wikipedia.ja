@@ -1,4 +1,4 @@
-> この記事は[KinKi](https://ja.wikipedia.org/wiki/KinKi)から翻訳されています。
+> この記事は[キンキラKinKiワールド](https://ja.wikipedia.org/wiki/キンキラKinKiワールド)から翻訳されています。
 
 
 **キンキラKinKiワールド**（キンキラきんきワールド）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の製作で放送されていたラジオ番組。

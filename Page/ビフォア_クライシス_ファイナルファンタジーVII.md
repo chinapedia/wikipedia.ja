@@ -1,4 +1,4 @@
-> この記事は[  VII](https://ja.wikipedia.org/wiki/__VII)から翻訳されています。
+> この記事は[ビフォア クライシス ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/ビフォア_クライシス_ファイナルファンタジーVII)から翻訳されています。
 
 
 **ビフォア クライシス -ファイナルファンタジーVII**（ビフォアクライシス ファイナルファンタジーセブン、BEFORE CRISIS -FINAL FANTASY VII-、略称：**BC FFVII**、**BC FF7**）は、2004年9月24日から[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")が配信していた[携帯電話](../Page/携帯電話.md "wikilink")向けネットワーク・[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームである。『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』（FFVII）までの6年間を舞台とし、プレイヤーは『FFVII』では敵側だった神羅カンパニーの精鋭部隊「タークス」の新人エージェントとなり、様々なミッションに挑む。『FFVII』の関連作品群「[COMPILATION of FINAL FANTASY VII](https://ja.wikipedia.org/wiki/COMPILATION_of_FINAL_FANTASY_VII "wikilink")」の第1弾。

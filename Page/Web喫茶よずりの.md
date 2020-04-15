@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Web喫茶よずりの](https://ja.wikipedia.org/wiki/Web喫茶よずりの)から翻訳されています。
 
 
 **web喫茶よずりの**（ウェブきっさ よずりの）は、架空の[喫茶店](../Page/喫茶店.md "wikilink")を舞台に和み系のトークを展開する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")と[rino](https://ja.wikipedia.org/wiki/rino "wikilink")、2人で[yozurino\*](https://ja.wikipedia.org/wiki/yozurino* "wikilink")というユニットを結成している。

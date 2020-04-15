@@ -1,4 +1,4 @@
-> この記事は[NCAP](https://ja.wikipedia.org/wiki/NCAP)から翻訳されています。
+> この記事は[ユーロNCAP](https://ja.wikipedia.org/wiki/ユーロNCAP)から翻訳されています。
 
 
 **ユーロ NCAP**（European New Car Assessment Programme、ヨーロッパ新車アセスメントプログラム）は[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で実施されている[自動車](../Page/自動車.md "wikilink")安全[テスト](https://ja.wikipedia.org/wiki/試験 "wikilink")。「ユーロエヌキャップ」と読む。[アメリカで実施されている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NCAPのヨーロッパ版であることより名づけられている](https://ja.wikipedia.org/wiki/New_Car_Assessment_Programme "wikilink")。

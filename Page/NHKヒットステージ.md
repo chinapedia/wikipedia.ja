@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKヒットステージ](https://ja.wikipedia.org/wiki/NHKヒットステージ)から翻訳されています。
 
 
 『**NHKヒットステージ**』（エヌエイチケイ- ）は、[1992年](../Page/1992年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで放送された[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。

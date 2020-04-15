@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[マツダ・Dプラットフォーム](https://ja.wikipedia.org/wiki/マツダ・Dプラットフォーム)から翻訳されています。
 
 
 **マツダ・Dプラットフォーム**とは、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[サブコンパクトカー](../Page/サブコンパクトカー.md "wikilink")向けの自動車用[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。マツダおよび[フォード・モーター](../Page/フォード・モーター.md "wikilink")の車両で使われていた。このプラットフォームを用いる車両の[VINコードは](../Page/車台番号.md "wikilink")、先頭が**D**から始まる。

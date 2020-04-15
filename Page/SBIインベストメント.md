@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIインベストメント](https://ja.wikipedia.org/wiki/SBIインベストメント)から翻訳されています。
 
 
 **SBIインベストメント株式会社**（**SBI Investment Co., Ltd.**）は、[SBIホールディングス](../Page/SBIホールディングス.md "wikilink")株式会社（以下「SBIHD」）の[子会社](../Page/子会社.md "wikilink")で、ベンチャーキャピタルファンド等の運用・管理を行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である\[1\]。

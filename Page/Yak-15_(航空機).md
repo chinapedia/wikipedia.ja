@@ -1,4 +1,4 @@
-> この記事は[Yak-15 \(\)](https://ja.wikipedia.org/wiki/Yak-15_\(\))から翻訳されています。
+> この記事は[Yak-15 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-15_\(航空機\))から翻訳されています。
 
 
 [Yakolev_Yak-15_37_yellow_(8454539446).jpg](https://ja.wikipedia.org/wiki/File:Yakolev_Yak-15_37_yellow_\(8454539446\).jpg "fig:Yakolev_Yak-15_37_yellow_(8454539446).jpg") **Yak-15**(Jak-15；ヤク15；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ピトナーッツァチ</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 2**。

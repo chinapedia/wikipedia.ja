@@ -1,4 +1,4 @@
-> この記事は[DRESS \(TM NETWORK\)](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORK\))から翻訳されています。
+> この記事は[DRESS \(TM NETWORKのアルバム\)](https://ja.wikipedia.org/wiki/DRESS_\(TM_NETWORKのアルバム\))から翻訳されています。
 
 
 『**DRESS**』（ドレス）は、日本の音楽グループである[TM NETWORKの初のリプロダクション](../Page/TM_NETWORK.md "wikilink")(リミックス)アルバム。[1989年](../Page/1989年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[エピックソニーレコードよりリリースされた](../Page/エピックレコードジャパン.md "wikilink")。

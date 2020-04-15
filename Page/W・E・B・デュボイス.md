@@ -1,4 +1,4 @@
-> この記事は[WEB](https://ja.wikipedia.org/wiki/WEB)から翻訳されています。
+> この記事は[W・E・B・デュボイス](https://ja.wikipedia.org/wiki/W・E・B・デュボイス)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:WEB_Du_Bois.jpg "wikilink") **ウィリアム・エドワード・バーグハード・デュボイス**（William Edward Burghardt Du Bois、[1868年](../Page/1868年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [1963年](../Page/1963年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[社会学者](https://ja.wikipedia.org/wiki/社会学者 "wikilink")、[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")指導者、[汎アフリカ主義](https://ja.wikipedia.org/wiki/汎アフリカ主義 "wikilink")、[ブラック・ナショナリズム](https://ja.wikipedia.org/wiki/ブラック・ナショナリズム "wikilink")の先駆者、[全米黒人地位向上協会](../Page/全米黒人地位向上協会.md "wikilink")の創立者。[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")のイデオローグだが、父が[ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")出身であるため[ハイチ系アメリカ人](https://ja.wikipedia.org/wiki/ハイチ系アメリカ人 "wikilink")でもある。

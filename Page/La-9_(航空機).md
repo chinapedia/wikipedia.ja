@@ -1,4 +1,4 @@
-> この記事は[La-9 \(\)](https://ja.wikipedia.org/wiki/La-9_\(\))から翻訳されています。
+> この記事は[La-9 \(航空機\)](https://ja.wikipedia.org/wiki/La-9_\(航空機\))から翻訳されています。
 
 
 [thumbで展示されているLa](https://ja.wikipedia.org/wiki/ファイル:Nizhny-Kremlin-airplane-1445.jpg "wikilink")-9\]\] **La-9**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ラー・ヂェーヴャチ</small>)は、[ソ連で開発された](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。[1946年](../Page/1946年.md "wikilink")に初飛行した。

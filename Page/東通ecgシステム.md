@@ -1,4 +1,4 @@
-> この記事は[ecg](https://ja.wikipedia.org/wiki/ecg)から翻訳されています。
+> この記事は[東通ecgシステム](https://ja.wikipedia.org/wiki/東通ecgシステム)から翻訳されています。
 
 
 **東通ecgシステム**（とうつう・イーシージー・－）はテレビ製作会社・[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")のかつての事業であり、[光学合成](../Page/光学合成.md "wikilink")技術である。

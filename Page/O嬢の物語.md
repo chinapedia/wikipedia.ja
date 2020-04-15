@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[O嬢の物語](https://ja.wikipedia.org/wiki/O嬢の物語)から翻訳されています。
 
 
 『**O嬢の物語**』（オーじょうのものがたり、原題*Histoire d'O*）は、フランスの中編小説。[1954年](../Page/1954年.md "wikilink")ジャン＝ジャック・ポーヴェール書店より刊行。作者はポーリーヌ・レアージュ（Pauline Réage）。[1955年](../Page/1955年.md "wikilink")[ドゥ・マゴ賞](../Page/ドゥ・マゴ賞.md "wikilink")を受賞。

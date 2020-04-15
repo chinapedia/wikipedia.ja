@@ -287,7 +287,7 @@ miniPCI express のピンアサイン
 
 ### 相互接続性の問題
 
-PCIバスは32ビットバスのデバイス/スロットと64ビットバスのデバイス/スロットの全ての組み合わせで動作が保証されていたが、PCI Expressはx16仕様のカードをx8仕様のスロットに挿入できない\[12\]。マザーボードにはx1/x4/x8コネクタのエッジに初めから切り欠きが設け、x16仕様カードを挿入可能な「エッジフリー」と称する製品もあるが、カード端子の物理的保護などの問題点は解消されないマザーボードIntel DX58S0がある。解決事例に、[アップルの](../Page/アップル_\(企業\).md "wikilink")[Mac Proや](../Page/Mac_Pro.md "wikilink")[Intel 3シリーズ以降](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_3_Series "wikilink")、[AMD 7シリーズのマルチGPU対応チップセット搭載マザーボードが採用した実装などがある](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ#チップセット "wikilink")。後述の[利点を参照](https://ja.wikipedia.org/wiki/#利点 "wikilink")。
+PCIバスは32ビットバスのデバイス/スロットと64ビットバスのデバイス/スロットの全ての組み合わせで動作が保証されていたが、PCI Expressはx16仕様のカードをx8仕様のスロットに挿入できない\[12\]。マザーボードにはx1/x4/x8コネクタのエッジに初めから切り欠きが設け、x16仕様カードを挿入可能な「エッジフリー」と称する製品もあるが、カード端子の物理的保護などの問題点は解消されないマザーボードIntel DX58SOがある。解決事例に、[アップルの](../Page/アップル_\(企業\).md "wikilink")[Mac Proや](../Page/Mac_Pro.md "wikilink")[Intel 3シリーズ以降](https://ja.wikipedia.org/wiki/インテル_チップセット#Intel_3_Series "wikilink")、[AMD 7シリーズのマルチGPU対応チップセット搭載マザーボードが採用した実装などがある](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ#チップセット "wikilink")。後述の[利点を参照](https://ja.wikipedia.org/wiki/#利点 "wikilink")。
 
 ## 利点
 
@@ -314,6 +314,7 @@ PCI Expressの利点の一つとしてレーン数のフレキシビリティが
   - [Thunderbolt](https://ja.wikipedia.org/wiki/Thunderbolt "wikilink")
   - [NVM Express](https://ja.wikipedia.org/wiki/NVM_Express "wikilink") (NVMe)
   - [NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink")
+  - [M.2](https://ja.wikipedia.org/wiki/M.2 "wikilink")
 
 ## 参考となる図書
 

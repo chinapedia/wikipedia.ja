@@ -1,9 +1,7 @@
 > この記事は[Thin \& Economical System](https://ja.wikipedia.org/wiki/Thin_\&_Economical_System)から翻訳されています。
 
 
-**TES**（テス）は、[ガスを燃料とする温水によるセントラル暖房システム](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")（給湯機能を有する場合も）の名称で、Thin & Economical Systemの略称である。主に大手ガス事業者によって普及が図られてきたシステムであり、近年では新築されるマンションのうち、オール電化でない物件のほとんどが採用している。
-
-なお[東京ガス](../Page/東京ガス.md "wikilink")では、**TokyoGas Eco System** の略称ともしている。他に東京ガス以外のガス事業者では、同じシステムに別の名前を付けているところもある（例：[大阪ガス](../Page/大阪ガス.md "wikilink")では**エックス**・**プリオール**など）。
+**TES**（テス）は、[ガスを燃料とする温水によるセントラル暖房システム](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")（給湯機能を有する場合も）の名称で、Thin & Economical Systemの略称である。主に大手ガス事業者によって普及が図られてきたシステムであり、近年では新築されるマンションのうち、オール電化でない物件のほとんどが採用している。 [Col·lector_terra_radiant_i_tubs.JPG](https://ja.wikipedia.org/wiki/File:Col·lector_terra_radiant_i_tubs.JPG "fig:Col·lector_terra_radiant_i_tubs.JPG") なお[東京ガス](../Page/東京ガス.md "wikilink")では、**TokyoGas Eco System** の略称ともしている。他に東京ガス以外のガス事業者では、同じシステムに別の名前を付けているところもある（例：[大阪ガス](../Page/大阪ガス.md "wikilink")では**エックス**・**プリオール**など）。
 
 ## 特徴
 
@@ -92,6 +90,6 @@
   - [温水暖房](../Page/温水暖房.md "wikilink")
   - [セントラルヒーティング](../Page/セントラルヒーティング.md "wikilink")
   - [給湯器](../Page/給湯器.md "wikilink")
-  - [温水式床暖房](https://ja.wikipedia.org/wiki/温水式床暖房 "wikilink")
+  - [温水式床暖房](https://ja.wikipedia.org/wiki/床暖房#温水式 "wikilink")
 
 [Category:空気調和設備](https://ja.wikipedia.org/wiki/Category:空気調和設備 "wikilink") [Category:都市ガス](https://ja.wikipedia.org/wiki/Category:都市ガス "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[エコミュージックTV](https://ja.wikipedia.org/wiki/エコミュージックTV)から翻訳されています。
 
 
 **安らぎの音楽と風景/エコミュージックTV**（やすらぎのおんがくとふうけい/エコミュージックTV）は、[第一興商](../Page/第一興商.md "wikilink")が運営した“癒し”をテーマとした音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")。

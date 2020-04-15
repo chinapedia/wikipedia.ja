@@ -1,4 +1,4 @@
-> この記事は[MX-6](https://ja.wikipedia.org/wiki/MX-6)から翻訳されています。
+> この記事は[マツダ・MX-6](https://ja.wikipedia.org/wiki/マツダ・MX-6)から翻訳されています。
 
 
 **MX-6**（*エムエックス-シックス*）は、かつて[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造・販売していた[クーペ](../Page/クーペ.md "wikilink")型の[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。

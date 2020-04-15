@@ -1,4 +1,4 @@
-> この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
+> この記事は[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン)から翻訳されています。
 
 
 **MTV JAPAN**（MTVジャパン）は、音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[MTV](../Page/MTV.md "wikilink")」の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国。以下、米と表記）[バイアコム・インターナショナル・メディア・ネットワークス](https://ja.wikipedia.org/wiki/:en:ViacomCBS_International_Media_Networks "wikilink")（[バイアコム](../Page/バイアコム.md "wikilink")傘下）の[子会社](../Page/子会社.md "wikilink")で[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")のバイアコム・ネットワークス・ジャパン株式会社が運営している。

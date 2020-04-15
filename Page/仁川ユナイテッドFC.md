@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[仁川ユナイテッドFC](https://ja.wikipedia.org/wiki/仁川ユナイテッドFC)から翻訳されています。
 
 
 **仁川ユナイテッドFC**（インチョン・ユナイテッドFC、、）は、[大韓民国](../Page/大韓民国.md "wikilink")の[仁川広域市](../Page/仁川広域市.md "wikilink")を本拠地とする韓国プロサッカークラブである。略称は「IUFC」である。

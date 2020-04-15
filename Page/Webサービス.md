@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webサービス](https://ja.wikipedia.org/wiki/Webサービス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Webservices.png "wikilink")\]\]

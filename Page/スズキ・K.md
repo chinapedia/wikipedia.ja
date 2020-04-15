@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[スズキ・K](https://ja.wikipedia.org/wiki/スズキ・K)から翻訳されています。
 
 
 **K**（ケイ）とは、[スズキが製造していた](../Page/スズキ_\(企業\).md "wikilink") [オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種生産されていた。

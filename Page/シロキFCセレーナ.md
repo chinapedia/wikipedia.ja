@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[シロキFCセレーナ](https://ja.wikipedia.org/wiki/シロキFCセレーナ)から翻訳されています。
 
 
 **シロキFCセレーナ**（シロキエフシーセレーナ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊川市](../Page/豊川市.md "wikilink")を拠点として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（L・リーグ）に所属していたが、[第20回全日本女子サッカー選手権大会](../Page/第20回全日本女子サッカー選手権大会.md "wikilink")（1998年）を最後に解散した\[1\]。

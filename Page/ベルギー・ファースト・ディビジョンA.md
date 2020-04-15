@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ベルギー・ファースト・ディビジョンA](https://ja.wikipedia.org/wiki/ベルギー・ファースト・ディビジョンA)から翻訳されています。
 
 
 **ベルギー・ファースト・ディビジョンA**（）は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")における国内[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")リーグのトップディビジョンである。スポンサーである同国のビール醸造会社[アンハイザー・ブッシュ・インベブ](https://ja.wikipedia.org/wiki/アンハイザー・ブッシュ・インベブ "wikilink")のブランド名[ジュピラー](https://ja.wikipedia.org/wiki/ジュピラー "wikilink")を冠した**ジュピラー・プロ・リーグ**（, ; ） (Jupiler) としても知られている。

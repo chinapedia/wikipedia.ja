@@ -1,7 +1,7 @@
-> この記事は[That](https://ja.wikipedia.org/wiki/That)から翻訳されています。
+> この記事は[That節](https://ja.wikipedia.org/wiki/That節)から翻訳されています。
 
 
-**that節**（ザットせつ）とは、[英語](../Page/英語.md "wikilink")において[接続詞](../Page/接続詞.md "wikilink")や[関係詞](../Page/関係詞.md "wikilink")のthatによって導かれる[節での総称である](../Page/節_\(文法\).md "wikilink")\[1\]。
+**that節**（ザットせつ）とは、[英語](../Page/英語.md "wikilink")において[接続詞](../Page/接続詞.md "wikilink")や[関係詞](../Page/関係詞.md "wikilink")のthatによって導かれる[節の総称である](../Page/節_\(文法\).md "wikilink")\[1\]。
 
 英単語“that”には、接続詞や関係詞として「名詞節を導く」、「形容詞節を導く」、「副詞節を導く」役割がある\[2\]\[3\]。したがって、「that節とは、thatによって導かれる名詞、形容詞、副詞節の総称である」と考えてよい。
 

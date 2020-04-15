@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAリーベル・プレート](https://ja.wikipedia.org/wiki/CAリーベル・プレート)から翻訳されています。
 
 
 **クルブ・アトレティコ・リーベル・プレート** () は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")の首都[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")の北端[ヌニェス地区を本拠地とする](https://ja.wikipedia.org/wiki/ヌニェス_\(ブエノスアイレス\) "wikilink")[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。ホームスタジアムは隣の[ベルグラーノ地区にある](https://ja.wikipedia.org/wiki/ベルグラーノ_\(ブエノスアイレス\) "wikilink")[エル・モヌメンタル](../Page/エスタディオ・モヌメンタル・アントニオ・ベスプチオ・リベルティ.md "wikilink")。略称は**リーベル**。日本では英語読みの**リバー・プレート**という名称が用いられることも多い。

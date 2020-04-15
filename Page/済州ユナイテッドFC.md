@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[済州ユナイテッドFC](https://ja.wikipedia.org/wiki/済州ユナイテッドFC)から翻訳されています。
 
 
 **済州ユナイテッドFC**（チェジュ・ユナイテッドFC、、）は、[韓国の](../Page/大韓民国.md "wikilink")[済州特別自治道](../Page/済州特別自治道.md "wikilink")をホームタウンとするプロサッカークラブである。[SKエナジー](https://ja.wikipedia.org/wiki/SKエナジー "wikilink")（旧：油公）と[SKグループ](../Page/SKグループ.md "wikilink")によって所有され、韓国プロサッカーリーグ（Kリーグ）に所属している。クラブハウス及びホームスタジアムは[済州島](../Page/済州島.md "wikilink")南部の[西帰浦市](../Page/西帰浦市.md "wikilink")に所在する。
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - **[Kリーグカップ](https://ja.wikipedia.org/wiki/Kリーグカップ "wikilink")：3回**
-      - 1994アディダスカップ, 1996アディダスカップ、2000大韓爆発火災カップ
+      - 1994アディダスカップ, 1996アディダスカップ、2000大韓火災カップ
 
 ## 過去の成績
 

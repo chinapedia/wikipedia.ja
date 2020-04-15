@@ -1,4 +1,4 @@
-> この記事は[ARM](https://ja.wikipedia.org/wiki/ARM)から翻訳されています。
+> この記事は[ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ)から翻訳されています。
 
 
 **ARMアーキテクチャ** とは、[ARMホールディングス](https://ja.wikipedia.org/wiki/ARMホールディングス "wikilink")の事業部門であるARM Ltdにより設計・ライセンスされている、[組み込み機器や低電力アプリケーション向けに広く用いられている](../Page/組み込みシステム.md "wikilink")、[プロセッサ](../Page/プロセッサ.md "wikilink")コアの[アーキテクチャである](../Page/コンピュータ・アーキテクチャ.md "wikilink")。

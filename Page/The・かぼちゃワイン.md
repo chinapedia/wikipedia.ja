@@ -1,4 +1,4 @@
-> この記事は[The](https://ja.wikipedia.org/wiki/The)から翻訳されています。
+> この記事は[The・かぼちゃワイン](https://ja.wikipedia.org/wiki/The・かぼちゃワイン)から翻訳されています。
 
 
 『**Theかぼちゃワイン**』（ザ かぼちゃワイン）は、[三浦みつる](../Page/三浦みつる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、[劇場版アニメ](../Page/アニメーション映画.md "wikilink")、実写[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")である。
@@ -26,14 +26,14 @@
     声 - [横沢啓子（現：よこざわけい子）](../Page/よこざわけい子.md "wikilink")
     ヒロイン。サンシャイン学園中等部2年桜組で[チアガール部に在籍](https://ja.wikipedia.org/wiki/チアリーダー "wikilink")。クラスのアイドル。学園の女子寮に住む。身長が高く\[7\]大柄なことから、ニックネームはLサイズにちなんだ「**エル**」。
     転校してきた春助を一途に想い、春助のためならどんなことでもやり通す。温厚かつ情熱的で、どこまでも前向きな性格である一方、春助に関することとなれば一転して頑固になり、春助との交際をやめるよう諌める純香にさえ猛然と反抗する。
-    「アハッ♪」が口癖で、アニメ版の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")では、「春助く〜ん、好き\!」（第1話のみ）、「春助く〜ん、だ〜い好き\!」（第2話から最終回（第95話）まで）と毎回叫ぶ。
+    「アハッ♪」が口癖で、アニメ版の[アイキャッチ](../Page/アイキャッチ.md "wikilink")では、「春助く〜ん、好き\!」（第1話のみ）、「春助く〜ん、だ〜い好き\!」（第2話から最終回（第95話）まで）と毎回叫ぶ。
     また、アニメ版では春助の母親と意気投合、ウェディングドレス姿で春助とのツーショットを撮るため共謀（春助の母は「[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にいる冬麿おじさんが（母と春助の写真を）ぜひ送ってくれと頼まれた」と春助を騙した）して撮影直前で入れ替わるなど謀略めいた行動も見せている。
     [岩見沢生まれで](../Page/岩見沢市.md "wikilink")、小学生になるまで過ごす。生まれたときの重さは4500グラム。両親と兄の四人家族。
     アニメでは原作設定通りに再現すると、動画にしたときに太って見えるので、序盤を除き原作設定より少し細めに描かれている。当時のスタッフによると7キロほど減量とのこと。
     原作、アニメ共誕生日は春助と同じ。
   - 赤井 モン太（あかい モンた）
     声 - [大竹宏](../Page/大竹宏.md "wikilink")
-    サンシャイン学園男子寮の寮長で応援団団長。春助の1学年先輩で大柄。男気を見込んで春助を応援団に誘う。[留年](https://ja.wikipedia.org/wiki/留年 "wikilink")しているので他者より2歳年を取っており、平気で[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を吹かす(2留でも17歳なので違法)。帰省先である祖母の家は[台東区浅草にある](../Page/東京都.md "wikilink")。
+    サンシャイン学園男子寮の寮長で応援団団長。春助の1学年先輩で大柄。男気を見込んで春助を応援団に誘う。[留年](https://ja.wikipedia.org/wiki/留年 "wikilink")しているので他者より2歳年を取っており、春助と交流を持つまでは平気で[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を吹かしていた(2留でも17歳なので違法)。帰省先である祖母の家は[台東区浅草にある](../Page/東京都.md "wikilink")。
   - 鶴井 一夫（つるい かずお）
     声 - [はせさん治](../Page/はせさん治.md "wikilink")、[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")（第82話〜第87話代役）
     サンシャイン学園の男子寮に住む細身の応援団員。モン太の同級生で、彼の子分的存在。故郷は[鹿児島](../Page/鹿児島県.md "wikilink")。父親の仕事は[警察官](../Page/警察官.md "wikilink")。
@@ -1369,9 +1369,11 @@
 ## 外部リンク
 
   - [Theかぼちゃワイン - TOEI ANIMATION](http://www.toei-anim.co.jp/lineup/tv/kabocha_wine/)
+
   - [東映アニメオンデマンド - 人気コンテンツ満載のアニメ配信サイト！](http://taod.jp/) - テレビシリーズおよび1982年12月27日放送のSP回「おれとあいつの新婚旅行\!?」を配信。
 
-[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:お色気漫画](https://ja.wikipedia.org/wiki/Category:お色気漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:1982年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1982年のテレビアニメ "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:ハウス食品一社提供番組](https://ja.wikipedia.org/wiki/Category:ハウス食品一社提供番組 "wikilink") [Category:中学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台としたアニメ作品 "wikilink") [Category:応援団を題材とした作品](https://ja.wikipedia.org/wiki/Category:応援団を題材とした作品 "wikilink") [Category:1984年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1984年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:下着を題材とした作品](https://ja.wikipedia.org/wiki/Category:下着を題材とした作品 "wikilink")
+  -
+[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:1981年の漫画](https://ja.wikipedia.org/wiki/Category:1981年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:お色気漫画](https://ja.wikipedia.org/wiki/Category:お色気漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:下着を題材とした作品](https://ja.wikipedia.org/wiki/Category:下着を題材とした作品 "wikilink") [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:1982年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1982年のテレビアニメ "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:ハウス食品一社提供番組](https://ja.wikipedia.org/wiki/Category:ハウス食品一社提供番組 "wikilink") [Category:中学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台としたアニメ作品 "wikilink") [Category:応援団を題材とした作品](https://ja.wikipedia.org/wiki/Category:応援団を題材とした作品 "wikilink") [Category:1984年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1984年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink")
 
 1.  [『The・かぼちゃワイン』の漫画家・三浦みつるが引退発表／2015年にはクラウドファンディングで新作を制作](http://nlab.itmedia.co.jp/nl/articles/1712/17/news025.html)ねとらぼ（2017年12月17日配信）2019年1月14日閲覧。
 2.

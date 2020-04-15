@@ -1,4 +1,4 @@
-> この記事は[Night](https://ja.wikipedia.org/wiki/Night)から翻訳されています。
+> この記事は[藤本美貴のドキみきNight](https://ja.wikipedia.org/wiki/藤本美貴のドキみきNight)から翻訳されています。
 
 
 **藤本美貴のドキ♥みきNight**は、[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")が[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")加入前から名古屋・[CBCラジオ](../Page/CBCラジオ.md "wikilink")で、[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

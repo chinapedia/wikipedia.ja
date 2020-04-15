@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[クイズDEデート](https://ja.wikipedia.org/wiki/クイズDEデート)から翻訳されています。
 
 
 『**クイズDEデート**』（クイズでデート）は、[フジテレビ系列](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。製作局の関西テレビでは1977年4月2日から1985年6月30日まで放送。

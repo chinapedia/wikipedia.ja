@@ -1,4 +1,4 @@
-> この記事は[ Memories Off](https://ja.wikipedia.org/wiki/_Memories_Off)から翻訳されています。
+> この記事は[想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|
@@ -176,7 +176,7 @@
 
 [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")より発売。
 
-  - 想い出にかわる君〜Memories Off〜 メモリーコレクション
+  - 想い出にかわる君 メモリーコレクション
       - Vol.1 黒須カナタ
       - Vol.2 荷嶋深歩
       - Vol.3 北原那由多

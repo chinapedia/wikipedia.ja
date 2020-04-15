@@ -1,4 +1,4 @@
-> この記事は[KTS NEWS\&SPORTS](https://ja.wikipedia.org/wiki/KTS_NEWS\&SPORTS)から翻訳されています。
+> この記事は[KTSスーパータイム NEWS\&SPORTS](https://ja.wikipedia.org/wiki/KTSスーパータイム_NEWS\&SPORTS)から翻訳されています。
 
 
 『**KTSスーパータイム NEWS\&SPORTS**』（ケイティーエス・スーパータイム・ニュース・アンド・スポーツ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")までに[鹿児島テレビで夕方に放送されていた](../Page/鹿児島テレビ放送.md "wikilink")[鹿児島県](../Page/鹿児島県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[フジテレビ発](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の鹿児島県ローカル扱い）。正式タイトルは『**FNN KTSスーパータイム NEWS\&SPORTS**』。

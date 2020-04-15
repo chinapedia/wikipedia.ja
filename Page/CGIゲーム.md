@@ -1,4 +1,4 @@
-> この記事は[CGI](https://ja.wikipedia.org/wiki/CGI)から翻訳されています。
+> この記事は[CGIゲーム](https://ja.wikipedia.org/wiki/CGIゲーム)から翻訳されています。
 
 
 **CGIゲーム**（シージーアイゲーム）とは、[CGI](../Page/Common_Gateway_Interface.md "wikilink")[プログラムとして作られた](../Page/プログラム_\(コンピュータ\).md "wikilink")[ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink")である。多くのCGIゲームは[ウェブサービスとして公開され](../Page/Webサービス.md "wikilink")、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")などを通じてプレイすることができる。

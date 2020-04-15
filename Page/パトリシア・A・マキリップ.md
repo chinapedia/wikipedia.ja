@@ -1,7 +1,7 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[パトリシア・A・マキリップ](https://ja.wikipedia.org/wiki/パトリシア・A・マキリップ)から翻訳されています。
 
 
-**パトリシア・A・マキリップ**（*Patricia Ann Mckillip*、 - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")セイレム生まれの[小説家](../Page/小説家.md "wikilink")、[ファンタジー作家](https://ja.wikipedia.org/wiki/ファンタジー作家 "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。
+**パトリシア・A・マキリップ**（*Patricia Ann Mckillip*、 - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[セイレム生まれの](../Page/セイラム_\(オレゴン州\).md "wikilink")[小説家](../Page/小説家.md "wikilink")、[ファンタジー作家](https://ja.wikipedia.org/wiki/ファンタジー作家 "wikilink")、[SF作家](../Page/SF作家.md "wikilink")。
 
 オレゴン州のサン・ホセ州立大学卒業。14歳から執筆を開始。
 

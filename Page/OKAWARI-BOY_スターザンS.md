@@ -1,4 +1,4 @@
-> この記事は[OKAWARI-BOY S](https://ja.wikipedia.org/wiki/OKAWARI-BOY_S)から翻訳されています。
+> この記事は[OKAWARI-BOY スターザンS](https://ja.wikipedia.org/wiki/OKAWARI-BOY_スターザンS)から翻訳されています。
 
 
 『**OKAWARI-BOY スターザンS**』（オカワリボーイ スターザンス）は、[1984年](../Page/1984年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[8月25日](../Page/8月25日.md "wikilink")まで[フジテレビ系で毎週土曜](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")18:30 - 19:00の時間帯において放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全34話。

@@ -1,4 +1,4 @@
-> この記事は[F4D \(\)](https://ja.wikipedia.org/wiki/F4D_\(\))から翻訳されています。
+> この記事は[F4D \(航空機\)](https://ja.wikipedia.org/wiki/F4D_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=F4D / F-6 スカイレイ | 画像=<File:Douglas> F4D-1 Skyray of VMF-115 in flight, 4 April 1957 (NNAM.1996.253.7328.029).jpg | キャプション=飛行するF4D-1 134815号機

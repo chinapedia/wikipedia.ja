@@ -1,4 +1,4 @@
-> この記事は[Yak-18 \(\)](https://ja.wikipedia.org/wiki/Yak-18_\(\))から翻訳されています。
+> この記事は[Yak-18 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-18_\(航空機\))から翻訳されています。
 
 
 [Yak-18_PICT0032.JPG](https://ja.wikipedia.org/wiki/File:Yak-18_PICT0032.JPG "fig:Yak-18_PICT0032.JPG") **Yak-18**（[ISO表記](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink"):**Jak-18**；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーク・ヴァスィムナーッツァチ</small>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された複座の](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[練習機](../Page/練習機.md "wikilink")で、[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は「マックス」 (Max)。

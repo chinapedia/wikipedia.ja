@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[ひらたCATV](https://ja.wikipedia.org/wiki/ひらたCATV)から翻訳されています。
 
 
 **ひらたCATV株式会社**（ひらたシーエーティーブイ、*HIRATA CATV CORPORATION*、通称**雲州わがとこテレビ**）は、[島根県](../Page/島根県.md "wikilink")[出雲市](../Page/出雲市.md "wikilink")（旧[平田市](../Page/平田市.md "wikilink")）をエリアとする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。
@@ -35,7 +35,6 @@
 | 111(11)  | わがとこテレビ                                                                        |
 | 121(12)  | お天気チャンネル                                                                       |
 
-  - [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")は、地上デジタル対応テレビまたはチューナであれば視聴可能。
   - 次の表の放送はセットトップボックスを使用して視聴する。
 
 | デジタル    | 放送局                                                                               |
@@ -45,7 +44,7 @@
 | 101     | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                          |
 | 103     | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")               |
 | 141     | [BS日テレ](../Page/BS日本.md "wikilink")                                               |
-| 151     | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                           |
+| 151     | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                              |
 | 161     | [BS-TBS](../Page/BS-TBS.md "wikilink")                                            |
 | 171     | [BSテレビ東京](../Page/BSテレビ東京.md "wikilink")                                          |
 | 181     | [BSフジ](../Page/BSフジ.md "wikilink")                                                |
@@ -82,6 +81,9 @@
 | 799     | [ナショナルジオグラフィックチャンネル](https://ja.wikipedia.org/wiki/ナショナルジオグラフィックチャンネル "wikilink") |
 | 810     | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")1                                     |
 | 811     | グリーンチャンネル2                                                                        |
+
+  - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")は、地上デジタル対応テレビまたはチューナであれば視聴可能。
+  - 光サービスではBSパススルー放送も行われているため、BSパススルーで受信する場合のみ、BSデジタル放送の全チャンネルが視聴可能（有料チャンネルは別途契約）。
 
 ## テレビ以外のサービス
 

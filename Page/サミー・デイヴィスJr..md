@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[サミー・デイヴィスJr.](https://ja.wikipedia.org/wiki/サミー・デイヴィスJr.)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Davis_Wilkins_Civil_Rights_March_1963.jpg "wikilink")

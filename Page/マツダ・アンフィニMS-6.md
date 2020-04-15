@@ -1,4 +1,4 @@
-> この記事は[MS-6](https://ja.wikipedia.org/wiki/MS-6)から翻訳されています。
+> この記事は[マツダ・アンフィニMS-6](https://ja.wikipedia.org/wiki/マツダ・アンフィニMS-6)から翻訳されています。
 
 
 **アンフィニMS-6** (*εfini MS-6*)は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が展開していた販売店ブランド[アンフィニで](../Page/マツダアンフィニ.md "wikilink")、[1991年](../Page/1991年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")にかけて販売された、[D](../Page/Dセグメント.md "wikilink")/[Eセグメント](../Page/Eセグメント.md "wikilink")に属する5ドア[ハッチバックセダン](https://ja.wikipedia.org/wiki/ハッチバックセダン "wikilink")である。

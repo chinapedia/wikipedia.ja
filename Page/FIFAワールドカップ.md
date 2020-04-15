@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ)から翻訳されています。
 
 
 **FIFAワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、男子[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")。サッカーの大会の世界最高峰と位置付けられ、全世界の総視聴者数が35億人を超え\[1\] [テレビ](../Page/テレビ.md "wikilink")視聴者数や経済効果は[オリンピックを凌ぐ世界最大の](../Page/近代オリンピック.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")イベント\[2\]。大抵は年度を付加して“FIFAワールドカップ \[開催国\] \[年度\]”（英: FIFA WORLD CUP \[country\] \[year\]）などのように呼称される。
@@ -7,7 +7,7 @@
 
 ## 概要
 
-4年に1回、西暦の4で割って2余る年（[夏季五輪の中間年](../Page/夏季オリンピック.md "wikilink")、[1994年](../Page/1994年.md "wikilink")以後は[冬季五輪と同年](../Page/冬季オリンピック.md "wikilink")）に開催される。[第1回大会は](../Page/1930_FIFAワールドカップ.md "wikilink")[1930年](../Page/1930年.md "wikilink")、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")で開催された。
+4年に1回、西暦の[4で割って2余る年](../Page/単偶数.md "wikilink")（[夏季五輪の中間年](../Page/夏季オリンピック.md "wikilink")、[1994年](../Page/1994年.md "wikilink")以後は[冬季五輪と同年](../Page/冬季オリンピック.md "wikilink")）に開催される。[第1回大会は](../Page/1930_FIFAワールドカップ.md "wikilink")[1930年](../Page/1930年.md "wikilink")、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")で開催された。
 
 参加できる主体は国またはそれに準ずる地域であり、より厳密にはFIFAに加盟したサッカー協会を単位とする。例えば、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")は単一の国家ながら本土4協会（イングランド、ウェールズ、スコットランド、北アイルランド）と海外領土6協会（モントセラト、イギリス領ヴァージン諸島、ケイマン諸島、タークス・カイコス諸島、バミューダ諸島、アンギラ）による計10代表チームがあり、[日本は](../Page/サッカー日本代表.md "wikilink")[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")の唯一の代表である。そして、胸にその[エンブレム](../Page/エンブレム.md "wikilink")をつけたユニフォームを着用する。また、[香港や](../Page/サッカー香港代表.md "wikilink")[マカオのように](../Page/サッカーマカオ代表.md "wikilink")、FIFAが加盟を承認したサッカー協会を持つ地域にも、それぞれに出場権がある。
 

@@ -133,4 +133,4 @@
 
   - [AIR-G' Morning Pax](http://www.air-g.co.jp/pax/index_set_p.asp)
 
-[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")
+[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:北海道日本ハムファイターズの歴史](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズの歴史 "wikilink")

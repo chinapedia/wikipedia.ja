@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[セガ・システムC](https://ja.wikipedia.org/wiki/セガ・システムC)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:sega_system_c2_pcb.jpg "wikilink")

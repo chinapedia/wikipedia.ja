@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ガヤトリ・C・スピヴァク](https://ja.wikipedia.org/wiki/ガヤトリ・C・スピヴァク)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Gayatri_Chakravorty_Spivak_at_Goldsmiths_College.jpg "wikilink")  **ガヤトリ・チャクラヴォルティ・スピヴァク**（Gayatri Chakravorty Spivak, **ガヤトリ・チャクラヴォーティ・スピヴァク**とも、[1942年](../Page/1942年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）は、[インド](../Page/インド.md "wikilink")東部ベンガル出身の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の文芸[評論家](../Page/評論家.md "wikilink")、理論家、[比較文学](../Page/比較文学.md "wikilink")者。[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")の教員としては、最高位のUniversity Professorの地位にある。

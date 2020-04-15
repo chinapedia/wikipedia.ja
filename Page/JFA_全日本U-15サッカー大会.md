@@ -1,4 +1,4 @@
-> この記事は[JFA U-15](https://ja.wikipedia.org/wiki/JFA_U-15)から翻訳されています。
+> この記事は[JFA 全日本U-15サッカー大会](https://ja.wikipedia.org/wiki/JFA_全日本U-15サッカー大会)から翻訳されています。
 
 
 **JFA 全日本U-15サッカー大会**は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink") (JFA) が主催していた[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")年代の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")大会である。

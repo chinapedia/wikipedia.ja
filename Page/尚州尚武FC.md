@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[尚州尚武FC](https://ja.wikipedia.org/wiki/尚州尚武FC)から翻訳されています。
 
 
 **尚州尚武FC**（サンジュ・サンムFC、상주 상무 축구단）は、[韓国の](../Page/大韓民国.md "wikilink")[慶尚北道](../Page/慶尚北道.md "wikilink")[尚州市](https://ja.wikipedia.org/wiki/尚州市 "wikilink")を本拠地とするプロサッカークラブである。韓国プロサッカーリーグ・[Kリーグ1](../Page/Kリーグ1.md "wikilink")に加盟している。

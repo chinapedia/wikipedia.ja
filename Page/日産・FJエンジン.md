@@ -1,4 +1,4 @@
-> この記事は[FJ](https://ja.wikipedia.org/wiki/FJ)から翻訳されています。
+> この記事は[日産・FJエンジン](https://ja.wikipedia.org/wiki/日産・FJエンジン)から翻訳されています。
 
 
 **FJエンジン**は、[日産自動車](../Page/日産自動車.md "wikilink")が開発し、子会社の日産工機本社工場で1981年～1986年に製造した[DOHC](../Page/DOHC.md "wikilink")[16バルブ](../Page/マルチバルブ.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の名称。

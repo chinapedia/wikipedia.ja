@@ -1,4 +1,4 @@
-> この記事は[MiG-19 \(\)](https://ja.wikipedia.org/wiki/MiG-19_\(\))から翻訳されています。
+> この記事は[MiG-19 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-19_\(航空機\))から翻訳されています。
 
 
 [MiG-19_armament.jpg](https://ja.wikipedia.org/wiki/File:MiG-19_armament.jpg "fig:MiG-19_armament.jpg") **MiG-19**(ミグ19；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ミーグ・ヂヴィナーッツァチ</small>）は、[ソ連初](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、世界では二番目の超音速[戦闘機](../Page/戦闘機.md "wikilink")である。MiG-19は[ミグ](../Page/MiG.md "wikilink")[設計局](../Page/設計局.md "wikilink")によって[防空軍向けの](../Page/ソ連防空軍.md "wikilink")[迎撃戦闘機](https://ja.wikipedia.org/wiki/迎撃戦闘機 "wikilink")として開発されたが、さらに高い性能を持つ[Su-9などが実戦配備に就くと](../Page/Su-9_\(航空機\).md "wikilink")、[前線戦闘機](https://ja.wikipedia.org/wiki/前線戦闘機 "wikilink")([制空戦闘機](../Page/制空戦闘機.md "wikilink"))として[空軍にも配備された](../Page/ソ連空軍.md "wikilink")。その他、各国へ多数が輸出された。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**ファーマー** (Farmer)。

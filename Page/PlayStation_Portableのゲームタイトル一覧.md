@@ -1,4 +1,4 @@
-> この記事は[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable)から翻訳されています。
+> この記事は[PlayStation Portableのゲームタイトル一覧](https://ja.wikipedia.org/wiki/PlayStation_Portableのゲームタイトル一覧)から翻訳されています。
 
 
 **PlayStation Portableのゲームタイトル一覧**（プレイステーション・ポータブルのゲームタイトルいちらん）では、[PlayStation Portable対応として日本国内で発売された](../Page/PlayStation_Portable.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する。
@@ -2854,7 +2854,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="odd">
 <td><p>04月08日</p></td>
-<td><p><a href="../Page/Monochrome.md" title="wikilink">Monochrome</a></p></td>
+<td><p><a href="../Page/Monochrome_(ゲーム).md" title="wikilink">Monochrome</a></p></td>
 <td><p>サイバーフロント</p></td>
 <td><p>0,950MB</p></td>
 <td><p>●</p></td>

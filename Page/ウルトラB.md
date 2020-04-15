@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ウルトラB](https://ja.wikipedia.org/wiki/ウルトラB)から翻訳されています。
 
 
 『**ウルトラB**』（ウルトラビー）は、[藤子不二雄<span class="Unicode">Ⓐ</span>による](../Page/藤子不二雄A.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びそれを原作としたテレビ・劇場アニメ作品、また劇中に登場する主人公の赤ん坊の名称。

@@ -1,4 +1,4 @@
-> この記事は[Momoko \(\)](https://ja.wikipedia.org/wiki/Momoko_\(\))から翻訳されています。
+> この記事は[Momoko \(人形\)](https://ja.wikipedia.org/wiki/Momoko_\(人形\))から翻訳されています。
 
 
 **momoko**（モモコ）は、女性型の[着せ替え人形](../Page/着せ替え人形.md "wikilink")。

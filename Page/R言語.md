@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[R言語](https://ja.wikipedia.org/wiki/R言語)から翻訳されています。
 
 
 **R言語**（あーるげんご）は[オープンソース](../Page/オープンソース.md "wikilink")・[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")の[統計](../Page/統計.md "wikilink")解析向けの[プログラミング言語](../Page/プログラミング言語.md "wikilink")及びその開発実行環境である。ファイル名拡張子は.r, .R, .RData, .rds, .rda。

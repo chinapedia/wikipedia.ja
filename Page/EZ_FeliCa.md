@@ -169,9 +169,6 @@ EZ FeliCa対応端末を製造するメーカーは2005年は[日立製作所](.
 
 ## 外部リンク
 
-  - [おサイフケータイ(R)（EZ FeliCa） | ショッピング：ケータイ | au](http://www.au.kddi.com/ezweb/service/ez_felica/index.html)（3Gフィーチャーフォン）
-  - [おサイフケータイ® | ショッピング：4G LTEケータイ | au](http://www.au.kddi.com/mobile/service/4glte-featurephone/shopping/osaifu)（4G LTEフィーチャーフォン）
-  - [おサイフケータイ(R) | ショッピング：スマートフォン | au](http://www.au.kddi.com/mobile/service/smartphone/shopping/osaifu)（スマートフォン）
-  - [EZ FeliCaサービスの導入について](http://www.kddi.com/corporate/news_release/2005/0711/besshi.html)(KDDI)
+  - [おサイフケータイ（EZ FeliCa）](https://www.au.com/mobile/service/ez-felica/)
 
 [Category:電子決済](https://ja.wikipedia.org/wiki/Category:電子決済 "wikilink") [Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink")

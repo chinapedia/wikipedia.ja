@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ)から翻訳されています。
 
 
 **AFCアジアカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。[1956年](../Page/1956年.md "wikilink")に[第1回大会が](../Page/AFCアジアカップ1956.md "wikilink")[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で行われ、以降ほぼ4年ごとに開催されている。[1988年大会から](../Page/AFCアジアカップ1988.md "wikilink")[2015年大会までは優勝国に](https://ja.wikipedia.org/wiki/AFCアジアカップ2015 "wikilink")[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")（創設当初はキング・ファハド・カップ）への出場権が与えられていた。大抵は年度を付加して“AFCアジアカップ \[開催国\] \[年度\]”（**）などのように呼称される。

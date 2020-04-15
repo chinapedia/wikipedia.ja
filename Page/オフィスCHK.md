@@ -1,4 +1,4 @@
-> この記事は[CHK](https://ja.wikipedia.org/wiki/CHK)から翻訳されています。
+> この記事は[オフィスCHK](https://ja.wikipedia.org/wiki/オフィスCHK)から翻訳されています。
 
 
 **オフィスCHK**（ - シーエッチケー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。本社所在地は[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")。

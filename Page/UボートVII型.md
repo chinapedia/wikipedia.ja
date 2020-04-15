@@ -1,4 +1,4 @@
-> この記事は[UVII](https://ja.wikipedia.org/wiki/UVII)から翻訳されています。
+> この記事は[UボートVII型](https://ja.wikipedia.org/wiki/UボートVII型)から翻訳されています。
 
 
 [thumbのラボー](https://ja.wikipedia.org/wiki/ファイル:U-995_Marineehrenmal_Laboe.jpg "wikilink")（Laboe）で展示中のU-995（VIIC/41型）\]\] **UボートVII型** (U-Boot Typ VII) は、[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で用いられた。

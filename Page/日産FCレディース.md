@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[日産FCレディース](https://ja.wikipedia.org/wiki/日産FCレディース)から翻訳されています。
 
 
 **日産FCレディース**（にっさんエフシーレディース）は、かつて存在した[女子サッカー](../Page/女子サッカー.md "wikilink")チーム。当初は[東京都](../Page/東京都.md "wikilink")、のち[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")を拠点としていた。

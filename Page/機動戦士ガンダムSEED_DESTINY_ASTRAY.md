@@ -1,4 +1,4 @@
-> この記事は[SEED DESTINY ASTRAY](https://ja.wikipedia.org/wiki/SEED_DESTINY_ASTRAY)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED DESTINY ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY_ASTRAY)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED DESTINY ASTRAY**』（きどうせんしガンダムシード デスティニー アストレイ）は、アニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の各種媒体で掲載された公式外伝である。

@@ -1,4 +1,4 @@
-> この記事は[Yak-12 \(\)](https://ja.wikipedia.org/wiki/Yak-12_\(\))から翻訳されています。
+> この記事は[Yak-12 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-12_\(航空機\))から翻訳されています。
 
 
 [Jak-12_PICT0025.JPG](https://ja.wikipedia.org/wiki/File:Jak-12_PICT0025.JPG "fig:Jak-12_PICT0025.JPG"))\]\] [Jak-12_RB2.jpg](https://ja.wikipedia.org/wiki/File:Jak-12_RB2.jpg "fig:Jak-12_RB2.jpg") [Yakovlev_Yak-12.svg](https://ja.wikipedia.org/wiki/File:Yakovlev_Yak-12.svg "fig:Yakovlev_Yak-12.svg") **Yak-12**(**Jak-12**；ヤク12；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ヤーグ・ドヴィナーッツァチ</small>)は、[Po-2の後継機として](https://ja.wikipedia.org/wiki/Po-2_\(航空機\) "wikilink")[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ヤコヴレフ設計局で開発された小型の多用途機](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")。

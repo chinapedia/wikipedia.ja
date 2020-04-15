@@ -1,4 +1,4 @@
-> この記事は[TAMADA](https://ja.wikipedia.org/wiki/TAMADA)から翻訳されています。
+> この記事は[スポーツランドTAMADA](https://ja.wikipedia.org/wiki/スポーツランドTAMADA)から翻訳されています。
 
 
 **スポーツランドTAMADA**(スポーツランドたまだ)は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐北区](../Page/安佐北区.md "wikilink")にあるミニ[サーキット](../Page/サーキット.md "wikilink")。

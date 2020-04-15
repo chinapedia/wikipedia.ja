@@ -1,4 +1,4 @@
-> この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
+> この記事は[悪魔のKISS](https://ja.wikipedia.org/wiki/悪魔のKISS)から翻訳されています。
 
 
 『**悪魔のKISS**』（あくまのキス）は、[1993年](../Page/1993年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[9月22日](../Page/9月22日.md "wikilink")まで[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全12話。主演は[奥山佳恵](../Page/奥山佳恵.md "wikilink")・[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")・[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")。キャッチコピーは「**悪魔のような誘惑が、はたちの夢を狂わせる。**」

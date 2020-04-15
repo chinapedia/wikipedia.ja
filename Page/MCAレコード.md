@@ -1,13 +1,13 @@
-> この記事は[MCA](https://ja.wikipedia.org/wiki/MCA)から翻訳されています。
+> この記事は[MCAレコード](https://ja.wikipedia.org/wiki/MCAレコード)から翻訳されています。
 
 
-**MCAレコード** (MCA Records, Inc.) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のレコード会社。総合娯楽企業[ミュージック・コーポレーション・オブ・アメリカ](../Page/ミュージック・コーポレーション・オブ・アメリカ.md "wikilink") (MCA) の音楽部門である。母体は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デッカ・レコード](../Page/デッカ・レコード.md "wikilink")（英デッカ）の米国法人（→米デッカ）。MCAは米デッカを[1962年](../Page/1962年.md "wikilink")に買収し、[1973年](../Page/1973年.md "wikilink")にMCAレコードと改名した。詳細は[:en:Music_Corporation_of_America](https://ja.wikipedia.org/wiki/:en:Music_Corporation_of_America "wikilink")を参照。
+**MCAレコード**（MCA Records, Inc.）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のレコード会社。総合娯楽企業[ミュージック・コーポレーション・オブ・アメリカ](../Page/ミュージック・コーポレーション・オブ・アメリカ.md "wikilink") (MCA) の音楽部門である。母体は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デッカ・レコード](../Page/デッカ・レコード.md "wikilink")（英デッカ）の米国法人（→米デッカ）。MCAは米デッカを[1962年](../Page/1962年.md "wikilink")に買収し、[1973年](../Page/1973年.md "wikilink")にMCAレコードと改名した。詳細は[:en:MCA Inc.を参照](https://ja.wikipedia.org/wiki/:en:MCA_Inc. "wikilink")。
 
 [1996年](../Page/1996年.md "wikilink")に[ユニバーサルミュージックと改名](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には[ポリグラム](../Page/ポリグラム.md "wikilink")（英デッカを傘下に持つ）と合併して世界最大級のレコード会社となる。
 
 ## 沿革
 
-  - 1952年、英デッカ・レコードの米国法人(→米デッカ)が[ユニバーサル・ピクチャーズ](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ "wikilink")を買収
+  - 1952年、英デッカ・レコードの米国法人（ → 米デッカ）が[ユニバーサル・ピクチャーズを買収](../Page/ユニバーサル・スタジオ.md "wikilink")
   - 1962年、[ミュージック・コーポレーション・オブ・アメリカ](../Page/ミュージック・コーポレーション・オブ・アメリカ.md "wikilink")(MCA)が米デッカを買収
   - 1970年、を買収
   - 1973年、MCAレコードと改名
@@ -15,7 +15,7 @@
   - 1985年、[チェス・レコード](../Page/チェス・レコード.md "wikilink")を買収
   - 1988年、[モータウン](../Page/モータウン.md "wikilink")・レコードを8100万ドルで買収
   - 1990年、[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")と[GRPレコード](../Page/GRPレコード.md "wikilink")を買収
-  - 1991年、松下電器産業（現 [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）がMCAを買収
+  - 1991年、松下電器産業（現：[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）がMCAを買収
       - 日本の音楽事業は合弁会社MCAビクター（後のユニバーサルビクター）が受け持つ。（[日本ビクター](../Page/日本ビクター.md "wikilink")は当時松下グループのため）
   - 1995年、松下電器産業は出資分80%を[シーグラム](../Page/シーグラム.md "wikilink")に売却
   - 1996年、社名を[ユニバーサルミュージックに](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、レーベルを「ユニバーサル」に変更

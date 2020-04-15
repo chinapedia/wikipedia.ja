@@ -1,4 +1,4 @@
-> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+> この記事は[J:COM 京都みやびじょん](https://ja.wikipedia.org/wiki/J:COM_京都みやびじょん)から翻訳されています。
 
 
 **J:COM 京都みやびじょん**（ジェイコム きょうとみやびじょん）は、株式会社[ジェイコムウエスト](../Page/ジェイコムウエスト.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。

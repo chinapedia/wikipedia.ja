@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCディナモ・モスクワ](https://ja.wikipedia.org/wiki/FCディナモ・モスクワ)から翻訳されています。
 
 
 **FCディナモ・モスクワ**（****, [英語](../Page/英語.md "wikilink"):**Football Club Dynamo Moscow**）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。クラブのモットーは「溌剌とした原動力」\[1\]。

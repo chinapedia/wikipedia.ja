@@ -1,4 +1,4 @@
-> この記事は[DOS](https://ja.wikipedia.org/wiki/DOS)から翻訳されています。
+> この記事は[DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ)から翻訳されています。
 
 
 **DOSエクステンダ**（ドスエクステンダ）とは、[MS-DOS](../Page/MS-DOS.md "wikilink")などの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")を拡張するためのプログラムのことであり、[アプリケーションプログラム](https://ja.wikipedia.org/wiki/アプリケーションプログラム "wikilink")の操作・実行環境である。

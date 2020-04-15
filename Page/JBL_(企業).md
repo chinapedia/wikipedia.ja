@@ -1,4 +1,4 @@
-> この記事は[JBL \(\)](https://ja.wikipedia.org/wiki/JBL_\(\))から翻訳されています。
+> この記事は[JBL \(企業\)](https://ja.wikipedia.org/wiki/JBL_\(企業\))から翻訳されています。
 
 
 **JBL**（ジェイ ビー エル）は、[ジェームス・B・ランシング](../Page/ジェームス・B・ランシング.md "wikilink")により[1946年](../Page/1946年.md "wikilink")に設立された、大手スピーカー関連メーカー。1969年にジャービス・コーポレーション（*Jervis Corporation* 、現[ハーマン・インターナショナル](https://ja.wikipedia.org/wiki/ハーマン・インターナショナル "wikilink")）に買収され、傘下に入った。

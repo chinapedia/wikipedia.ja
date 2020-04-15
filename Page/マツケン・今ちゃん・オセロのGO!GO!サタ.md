@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[マツケン・今ちゃん・オセロのGO!GO!サタ](https://ja.wikipedia.org/wiki/マツケン・今ちゃん・オセロのGO!GO!サタ)から翻訳されています。
 
 
 『**マツケン・今ちゃん・オセロのGO\!GO\!サタ**』（マツケン・いまちゃん・オセロのゴゴサタ）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで毎週土曜日正午に放送された『[バニラ気分\!](../Page/バニラ気分!.md "wikilink")』枠の前半（[土曜日](../Page/土曜日.md "wikilink")12:00 - 12:59([JST](../Page/日本標準時.md "wikilink"))、2006年9月までは - 13:15）で放送していた[トーク](../Page/トーク番組.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。[松平健](../Page/松平健.md "wikilink")の初[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもある。なお、番組内では出演者の名前は省略され、単に「**GO\!GO\!サタ**」と略される。

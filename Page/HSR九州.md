@@ -1,4 +1,4 @@
-> この記事は[HSR](https://ja.wikipedia.org/wiki/HSR)から翻訳されています。
+> この記事は[HSR九州](https://ja.wikipedia.org/wiki/HSR九州)から翻訳されています。
 
 
 **HSR九州**（エイチエスアールきゅうしゅう、HSR Kyusyu）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊池郡](../Page/菊池郡.md "wikilink")[大津町](../Page/大津町.md "wikilink")にある[自動車](../Page/自動車.md "wikilink")レース場。

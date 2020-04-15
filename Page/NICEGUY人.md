@@ -1,4 +1,4 @@
-> この記事は[NICEGUY](https://ja.wikipedia.org/wiki/NICEGUY)から翻訳されています。
+> この記事は[NICEGUY人](https://ja.wikipedia.org/wiki/NICEGUY人)から翻訳されています。
 
 
 **NICEGUY人**（ナイスガイじん）は、[米国人の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")3人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループである。

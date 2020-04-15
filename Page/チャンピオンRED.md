@@ -1,4 +1,4 @@
-> この記事は[RED](https://ja.wikipedia.org/wiki/RED)から翻訳されています。
+> この記事は[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED)から翻訳されています。
 
 
 『**チャンピオンRED**』（チャンピオンレッド）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")（同年10月号）創刊、毎月19日発売。
@@ -32,9 +32,9 @@
   - 僕と悪夢とおねえさん（フクイタクミ）2019年5月号 -
   - [漱石と倫敦ミイラ殺人事件](https://ja.wikipedia.org/wiki/漱石と倫敦ミイラ殺人事件 "wikilink")（原作：[島田荘司](../Page/島田荘司.md "wikilink")、漫画：嶋星光壱）2019年7月号 -
   - [サイボーグ009 BGOOPARTS DELETE](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")（原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")、漫画：[岡崎つぐお](../Page/岡崎つぐお.md "wikilink")）2019年9月号 -
-  - 宇宙戦艦エクセリオ（森永まさと）2020年2月号 - 2020年4月号、※短期集中連載。
   - 24区の花子さん（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）2020年3月号 - 、※2019年10月号に読み切りが掲載。その後本格連載に移行。
   - サキュバス&ヒットマン （原作：[深見真](../Page/深見真.md "wikilink")、漫画：[刻夜セイゴ](https://ja.wikipedia.org/wiki/刻夜セイゴ "wikilink")）2020年4月号 - 、※2020年3月号にプレストーリーを掲載。
+  - [エコエコアザラク REBORN](../Page/エコエコアザラク.md "wikilink")（原作：[古賀新一](../Page/古賀新一.md "wikilink")、作画：[山田J太](../Page/山田J太.md "wikilink")）2020年5月号 -
 
 以上連載開始順
 
@@ -83,6 +83,7 @@
   - 淫蘭島 〜日本禁忌秘境列伝〜（廣瀬周）2017年6月号、※『チャンピオンクロス』に移籍。
   - ヴァイアンメイデン（原作：[村田真哉](https://ja.wikipedia.org/wiki/村田真哉 "wikilink")、漫画：新崎コウ）2013年1月号 - 2013年6月号、※未完\[7\]
   - [ウィッチブレイド丈琉](https://ja.wikipedia.org/wiki/ウィッチブレイド_\(アニメ\)#漫画 "wikilink")（シナリオ：[小林靖子](../Page/小林靖子.md "wikilink")、漫画：[隅田かずあさ](https://ja.wikipedia.org/wiki/隅田かずあさ "wikilink")）2006年4月号 - 2007年3月号
+  - 宇宙戦艦エクセリオ（森永まさと）2020年2月号 - 2020年4月号、※短期集中連載。
   - うなれ\!マキシマム（山浦章）2002年11月号 - 2004年1月号
   - ウルトラ・レッド（原作：[西村寿行](../Page/西村寿行.md "wikilink")、漫画：[野口賢](../Page/野口賢.md "wikilink")）2013年5月号 - 2015年2月号、※西村寿行の小説「死神シリーズ（鷲シリーズ）」を原作とした漫画化作品
   - [エイリアン9 -エミュレイターズ-](../Page/エイリアン9.md "wikilink")（[富沢ひとし](../Page/富沢ひとし.md "wikilink")）2002年10月号 - 2003年7月号

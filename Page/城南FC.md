@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[城南FC](https://ja.wikipedia.org/wiki/城南FC)から翻訳されています。
 
 
 **城南FC**（ソンナムFC、、）は、[韓国の北西部](../Page/大韓民国.md "wikilink")、[京畿道](../Page/京畿道.md "wikilink")の[城南市](https://ja.wikipedia.org/wiki/城南市 "wikilink")をホームタウンとするサッカークラブである。韓国プロサッカーリーグ・[Kリーグ1](../Page/Kリーグ1.md "wikilink")に加盟している。

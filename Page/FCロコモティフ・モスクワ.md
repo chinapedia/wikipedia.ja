@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCロコモティフ・モスクワ](https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ)から翻訳されています。
 
 
 **FCロコモティフ・モスクワ**（****, ）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。なお、同国には同名のラグビーチームも存在する。

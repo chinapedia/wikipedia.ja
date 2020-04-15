@@ -1,7 +1,7 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ外伝 サイヤ人絶滅計画](https://ja.wikipedia.org/wiki/ドラゴンボールZ外伝_サイヤ人絶滅計画)から翻訳されています。
 
 
-『**ドラゴンボールZ外伝 サイヤ人絶滅計画**』（ドラゴンボールゼットがいでん サイヤじんぜつめつけいかく）は、[1993年](../Page/1993年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下FC）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。また、それを基にして作られた[OVA](../Page/OVA.md "wikilink")作品。
+『**ドラゴンボールZ外伝 サイヤ人絶滅計画**』（ドラゴンボールゼットがいでん サイヤじんぜつめつけいかく）は、[1993年](../Page/1993年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下FC）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。また、それを基にして作られた[OVA](../Page/OVA.md "wikilink")作品。
 
 本稿では、これらを基に製作された[プレイディア](../Page/プレイディア.md "wikilink")用ゲームソフト『**ドラゴンボールZ 真サイヤ人絶滅計画**』（[1994年](../Page/1994年.md "wikilink")）についても併せて扱う。
 

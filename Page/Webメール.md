@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webメール](https://ja.wikipedia.org/wiki/Webメール)から翻訳されています。
 
 
 **Webメール**（ウェブメール）は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を通じてアクセスする、[Webアプリケーションの](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")（メール[ユーザーエージェント](../Page/ユーザーエージェント.md "wikilink")・電子メールクライアント）である。クライアントのPCにウェブブラウザ以外のソフトウェアのインストールや設定が不要であるため手軽に利用できる。[フリーメールサービス](../Page/フリーメールサービス.md "wikilink")などで提供されるほか、Webメールシステムを構築するサーバソフトウェアも公開されている。クライアントであるウェブブラウザとサーバはほとんどの場合セキュリティ上の理由から、[HTTPS](../Page/HTTPS.md "wikilink")（Hypertext Transfer Protocol over Secure Socket Layer）スキームを使用して通信を行う。

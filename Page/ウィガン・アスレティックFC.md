@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウィガン・アスレティックFC](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC)から翻訳されています。
 
 
 **ウィガン・アスレティック・フットボール・クラブ**（**Wigan Athletic Football Club** ）は、[イングランド](../Page/イングランド.md "wikilink")北西部・[マンチェスター](../Page/マンチェスター.md "wikilink")郊外の都市[ウィガン](../Page/ウィガン.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")）に加盟するプロサッカークラブ。2019-20シーズンは[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")に所属する。

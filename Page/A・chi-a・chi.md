@@ -1,4 +1,4 @@
-> この記事は[Achi-achi](https://ja.wikipedia.org/wiki/Achi-achi)から翻訳されています。
+> この記事は[A・chi-a・chi](https://ja.wikipedia.org/wiki/A・chi-a・chi)から翻訳されています。
 
 
 **a・chi-a・chi**（アチアチ）は、[1988年](../Page/1988年.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて活躍した双子の女性[歌手](../Page/歌手.md "wikilink")ユニット。

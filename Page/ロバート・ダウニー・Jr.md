@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[ロバート・ダウニー・Jr](https://ja.wikipedia.org/wiki/ロバート・ダウニー・Jr)から翻訳されています。
 
 
 **ロバート・ダウニー・ジュニア**（Robert Downey, Jr., [1965年](../Page/1965年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")・[声優](../Page/声優.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")。身長174cm。
@@ -51,7 +51,7 @@
 
 1980年代に[サラ・ジェシカ・パーカー](../Page/サラ・ジェシカ・パーカー.md "wikilink")と[ニューヨーク](../Page/ニューヨーク.md "wikilink")で7年間同棲していたが、1991年に破局。原因はダウニーの薬物依存にあり、当時のことを「サラに別れを告げられて辛かった」と述懐している\[30\]。その後は24年にわたり絶縁状態にあったが、2014年にサラの自宅で再会を果たし「言いたいことを全て言えた」と和解に至ったことを公表した\[31\]\[32\]。
 
-1980年代後期には[マリサ・トメイ](../Page/マリサ・トメイ.md "wikilink")とつきあっていた時期がある。
+1980年代後期には[マリサ・トメイ](../Page/マリサ・トメイ.md "wikilink")とつきあっていた時期がある。マリサとは後に『[シビル・ウォー/キャプテン・アメリカ](https://ja.wikipedia.org/wiki/シビル・ウォー/キャプテン・アメリカ "wikilink")』で共演を果たした。
 
 『[1969](https://ja.wikipedia.org/wiki/:en:1969_\(film\) "wikilink")』（1988年）で共演した[キーファー・サザーランド](https://ja.wikipedia.org/wiki/キーファー・サザーランド "wikilink")とはルームメイトだった。近年サザーランドが『[ジミー・キンメル・ライブ\!](../Page/ジミー・キンメル・ライブ!.md "wikilink")』において、「1980年代にロサンゼルスで3年間同居していた」と明かしている\[33\]。
 
@@ -775,7 +775,7 @@
 
 ## 日本語吹き替え
 
-『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』(劇場公開版)以降、現在まで大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当している。その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[池田秀一](../Page/池田秀一.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")等が複数の作品で声を当てている。
+『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』（劇場公開版）以降、現在まで大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当している。その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[池田秀一](../Page/池田秀一.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[平田広明](../Page/平田広明.md "wikilink")等が複数の作品で声を当てている。
 
 ## 参考文献
 

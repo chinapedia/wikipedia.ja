@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[フジタ天台SCマーキュリー](https://ja.wikipedia.org/wiki/フジタ天台SCマーキュリー)から翻訳されています。
 
 
 **フジタ天台SCマーキュリー**（フジタてんだいエスシーマーキュリー）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チーム。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[平塚市](../Page/平塚市.md "wikilink")を拠点として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（L・リーグ）に所属していたが、[第20回全日本女子サッカー選手権大会](../Page/第20回全日本女子サッカー選手権大会.md "wikilink")（1999年）を最後に廃部となった。

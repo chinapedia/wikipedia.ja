@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権)から翻訳されています。
 
 
 **UEFA欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**EURO**（ユーロ）とも呼称される（大抵は年度を付加して“UEFA EURO \[年度\]”などのように使われる）。4年に1度、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の中間年（[夏季五輪の開催年](../Page/夏季オリンピック.md "wikilink")）に開催される。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
@@ -259,7 +259,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2020" title="wikilink">16</a></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
 <td><p><a href="../Page/ヨーロッパ.md" title="wikilink">ヨーロッパ</a></p></td>
 <td></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2020決勝" title="wikilink">-</a></strong></p></td>

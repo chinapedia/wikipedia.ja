@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ストリートファイターEX](https://ja.wikipedia.org/wiki/ストリートファイターEX)から翻訳されています。
 
 
 『**ストリートファイターEX**』（ストリートファイターイーエックス、*Street Fighter EX*）は、[アリカ](../Page/アリカ.md "wikilink")が開発し、[カプコン](../Page/カプコン.md "wikilink")が発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズ名、またはその1作目のタイトル。

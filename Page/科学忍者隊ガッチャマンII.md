@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[科学忍者隊ガッチャマンII](https://ja.wikipedia.org/wiki/科学忍者隊ガッチャマンII)から翻訳されています。
 
 
 『**科学忍者隊ガッチャマンII**』（かがくにんじゃたいガッチャマンツー）は、『[科学忍者隊ガッチャマン](../Page/科学忍者隊ガッチャマン.md "wikilink")』の4年ぶりの続編として[フジテレビ系で毎週日曜日](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")18時00分から18時30分に放送された、[タツノコプロ](../Page/タツノコプロ.md "wikilink")製作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[10月1日](../Page/10月1日.md "wikilink")から[1979年](../Page/1979年.md "wikilink")（昭和54年）[9月30日](../Page/9月30日.md "wikilink")まで放映された。全52話（放映は53回。1979年[8月19日](../Page/8月19日.md "wikilink")に28話『愛を奪った羽手裏剣』を再放送）。

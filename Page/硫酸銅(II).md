@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[硫酸銅\(II\)](https://ja.wikipedia.org/wiki/硫酸銅\(II\))から翻訳されています。
 
 
 **硫酸銅(II)**（りゅうさんどう に、、化学式 CuSO<sub>4</sub>）は、[銅](../Page/銅.md "wikilink")(II)イオンと[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")イオンの[イオン](../Page/イオン.md "wikilink")化合物である。

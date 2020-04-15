@@ -1,4 +1,4 @@
-> この記事は[RA](https://ja.wikipedia.org/wiki/RA)から翻訳されています。
+> この記事は[R・A・マカヴォイ](https://ja.wikipedia.org/wiki/R・A・マカヴォイ)から翻訳されています。
 
 
 **R・A・マカヴォイ**（*Roberta Ann MacAvoy*、[1949年](../Page/1949年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オハイオ州](../Page/オハイオ州.md "wikilink")[クリーブランド出身の](../Page/クリーブランド_\(オハイオ州\).md "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")作家。

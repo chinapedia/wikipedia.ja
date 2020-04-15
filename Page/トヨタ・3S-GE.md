@@ -1,4 +1,4 @@
-> この記事は[3S-GE](https://ja.wikipedia.org/wiki/3S-GE)から翻訳されています。
+> この記事は[トヨタ・3S-GE](https://ja.wikipedia.org/wiki/トヨタ・3S-GE)から翻訳されています。
 
 
 [Toyota_3S-GE_(longitudinal)_001.JPG](https://ja.wikipedia.org/wiki/File:Toyota_3S-GE_\(longitudinal\)_001.JPG "fig:Toyota_3S-GE_(longitudinal)_001.JPG")）\]\] [Toyota_3S-GE.jpg](https://ja.wikipedia.org/wiki/File:Toyota_3S-GE.jpg "fig:Toyota_3S-GE.jpg")）\]\] **トヨタ・3S-GE**は、トヨタ自動車製エンジンをベースに[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が開発しトヨタに供給生産していた、[自動車](../Page/自動車.md "wikilink")用の[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。本項目ではターボ仕様の**3S-GTE**についても記述する。

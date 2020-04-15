@@ -1,4 +1,4 @@
-> この記事は[SEED X ASTRAY](https://ja.wikipedia.org/wiki/SEED_X_ASTRAY)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED X ASTRAY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_X_ASTRAY)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED X ASTRAY**』（きどうせんしガンダムシード エックス アストレイ）は、[ときた洸一](../Page/ときた洸一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）にて連載された『[機動戦士ガンダムSEED ASTRAYシリーズ](../Page/機動戦士ガンダムSEED_ASTRAYシリーズ.md "wikilink")』の第2作目。

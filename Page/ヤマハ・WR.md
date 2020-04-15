@@ -1,4 +1,4 @@
-> この記事は[WR](https://ja.wikipedia.org/wiki/WR)から翻訳されています。
+> この記事は[ヤマハ・WR](https://ja.wikipedia.org/wiki/ヤマハ・WR)から翻訳されています。
 
 
 [Yamaha_WR_400F_2000.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_WR_400F_2000.jpg "fig:Yamaha_WR_400F_2000.jpg") **WR**（ダブルアール）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造している[エンデューロ](https://ja.wikipedia.org/wiki/エンデューロ "wikilink")および[デュアルパーパス](../Page/デュアルパーパス.md "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。

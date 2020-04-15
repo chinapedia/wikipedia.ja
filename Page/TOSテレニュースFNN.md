@@ -1,4 +1,4 @@
-> この記事は[TOSFNN](https://ja.wikipedia.org/wiki/TOSFNN)から翻訳されています。
+> この記事は[TOSテレニュースFNN](https://ja.wikipedia.org/wiki/TOSテレニュースFNN)から翻訳されています。
 
 
 『**TOSテレニュースFNN**』（ティーオーエステレニュースエフエヌエヌ）は、[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までに[テレビ大分](../Page/テレビ大分.md "wikilink")で日曜昼に放送された[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[MOTHER \(\)](https://ja.wikipedia.org/wiki/MOTHER_\(\))から翻訳されています。
+> この記事は[MOTHER \(原由子のアルバム\)](https://ja.wikipedia.org/wiki/MOTHER_\(原由子のアルバム\))から翻訳されています。
 
 
 『**MOTHER**』（マザー）は、[原由子](../Page/原由子.md "wikilink")の3枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NHK54](https://ja.wikipedia.org/wiki/NHK54)から翻訳されています。
+> この記事は[NHKネットワーク54](https://ja.wikipedia.org/wiki/NHKネットワーク54)から翻訳されています。
 
 
 『**NHKネットワーク54**』（エヌエイチケイ ネットワークごじゅうよん）は、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で土曜日の10時台に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")である。[字幕放送を実施した](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。

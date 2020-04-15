@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN福井テレビニュース](https://ja.wikipedia.org/wiki/FNN福井テレビニュース)から翻訳されています。
 
 
 **『FNN福井テレビニュース』**（エフエヌエヌ ふくいテレビニュース）は、[福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")で放送されている[ローカルニュース番組である](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

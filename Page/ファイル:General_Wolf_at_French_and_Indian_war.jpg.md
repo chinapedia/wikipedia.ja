@@ -1,4 +1,4 @@
-> この記事は[:General Wolf at French and Indian war.jpg](https://ja.wikipedia.org/wiki/:General_Wolf_at_French_and_Indian_war.jpg)から翻訳されています。
+> この記事は[ファイル:General Wolf at French and Indian war.jpg](https://ja.wikipedia.org/wiki/ファイル:General_Wolf_at_French_and_Indian_war.jpg)から翻訳されています。
 
 
 ## ファイルの概要

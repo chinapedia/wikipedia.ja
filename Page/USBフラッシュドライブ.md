@@ -1,4 +1,4 @@
-> この記事は[USB](https://ja.wikipedia.org/wiki/USB)から翻訳されています。
+> この記事は[USBフラッシュドライブ](https://ja.wikipedia.org/wiki/USBフラッシュドライブ)から翻訳されています。
 
 
 <div class="infobox" style="width:250px">

@@ -37,7 +37,7 @@
 
 [2017年](../Page/2017年.md "wikilink")7月、それまで13年間所属していたavexから独立。自主レーベル「EZOGASHIMA LABEL」からライブ会場限定シングル「スポットライト」をリリースした。その後全国ツアー「トライプレイン100％」を経て同年12月、通算7枚目のフルアルバム「1/4802のすべて」をリリース。収録曲の「アンブレラガール」が[STV](../Page/STV.md "wikilink")系バラエティー番組「[熱烈\!ホットサンド\!](https://ja.wikipedia.org/wiki/熱烈!ホットサンド! "wikilink")」のテーマソングに起用された。
 
-[2018年](../Page/2018年.md "wikilink")、全国ツアー「1/4802のすべて～ひとつかみの無限大～」を敢行。最終日の北海道公演では[HTB](https://ja.wikipedia.org/wiki/HTB "wikilink")系スポーツ番組「[FFFFF](../Page/FFFFF.md "wikilink")」のテーマソング「シナリオ」を発表。6月からの4ヵ月連続配信シングルの第1弾としてリリースされた。同配信シングルは第2弾「The gardenー五稜星の夏ー」（[サッポロビール](../Page/サッポロビール.md "wikilink") THEサッポロビヤガーデンテーマソング）、第3弾「apricot」、第4弾「かなでるまんま」（「渋谷ズンチャカ」テーマソング）と続いている。
+[2018年](../Page/2018年.md "wikilink")、全国ツアー「1/4802のすべて～ひとつかみの無限大～」を敢行。最終日の北海道公演では[HTB系スポーツ番組](../Page/北海道テレビ放送.md "wikilink")「[FFFFF](../Page/FFFFF.md "wikilink")」のテーマソング「シナリオ」を発表。6月からの4ヵ月連続配信シングルの第1弾としてリリースされた。同配信シングルは第2弾「The gardenー五稜星の夏ー」（[サッポロビール](../Page/サッポロビール.md "wikilink") THEサッポロビヤガーデンテーマソング）、第3弾「apricot」、第4弾「かなでるまんま」（「渋谷ズンチャカ」テーマソング）と続いている。
 
 同年9月、メジャーレーベル[アイビーレコード](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink")への移籍を発表。同時に[2019年](../Page/2019年.md "wikilink")1月にニューアルバム「THETA-never ending fantasy」を[コロムビア・マーケティング](https://ja.wikipedia.org/wiki/コロムビア・マーケティング "wikilink")と共同でリリースすることがアナウンスされた。
 
@@ -231,7 +231,7 @@ NFCD-27353:通常盤</p></td>
   - **蕾** （[2009年](../Page/2009年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")配信限定）
   - **初めてのクリスマス** （[2009年](../Page/2009年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")配信限定）
   - **[遠く遠く](https://ja.wikipedia.org/wiki/遠く遠く "wikilink")** （[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")配信限定） - [槇原敬之](../Page/槇原敬之.md "wikilink")の同名曲のカバー。
-  - **シナリオ**（[2018年](../Page/2018年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")）‐[HTB](https://ja.wikipedia.org/wiki/HTB "wikilink")系スポーツ番組「[FFFFF](../Page/FFFFF.md "wikilink")」テーマソング、[HTB](https://ja.wikipedia.org/wiki/HTB "wikilink")スポーツテーマソング
+  - **シナリオ**（[2018年](../Page/2018年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")）‐[HTB系スポーツ番組](../Page/北海道テレビ放送.md "wikilink")「[FFFFF](../Page/FFFFF.md "wikilink")」テーマソング、[HTBスポーツテーマソング](../Page/北海道テレビ放送.md "wikilink")
   - **The gardenー五稜星の夏ー**（[2018年](../Page/2018年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")）‐[サッポロビール](../Page/サッポロビール.md "wikilink") THEサッポロビヤガーデンテーマソング
   - **apricot**（[2018年](../Page/2018年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")）
 

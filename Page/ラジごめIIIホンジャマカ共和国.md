@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ラジごめIIIホンジャマカ共和国](https://ja.wikipedia.org/wiki/ラジごめIIIホンジャマカ共和国)から翻訳されています。
 
 
 『**ラジごめIII ホンジャマカ共和国**』（ラジごめスリー ホンジャマカきょうわこく）は、1993年7月3日（2日深夜）から1995年3月26日（25日深夜）まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全84回\[1\]\[2\]＋再放送1回。
@@ -183,6 +183,8 @@
 
   - 葛藤（[鈴木彩子](https://ja.wikipedia.org/wiki/SAICO "wikilink")、1993年7月中のみ）
   - [Kokomo](https://ja.wikipedia.org/wiki/ココモ_\(曲\) "wikilink") （[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")、上記放送分以外の全期間）
+
+「Kokomo」は、前番組から引き継がれた。
 
 ## エピソード
 

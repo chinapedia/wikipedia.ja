@@ -1,4 +1,4 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[BCプレイス・スタジアム](https://ja.wikipedia.org/wiki/BCプレイス・スタジアム)から翻訳されています。
 
 
 **BCプレイス**（英語：BC Place）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[バンクーバーにある](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")[ドーム型屋内競技場](../Page/ドーム球場.md "wikilink")。

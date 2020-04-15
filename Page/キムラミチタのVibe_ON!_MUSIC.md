@@ -1,4 +1,4 @@
-> この記事は[Vibe ON! MUSIC](https://ja.wikipedia.org/wiki/Vibe_ON!_MUSIC)から翻訳されています。
+> この記事は[キムラミチタのVibe ON! MUSIC](https://ja.wikipedia.org/wiki/キムラミチタのVibe_ON!_MUSIC)から翻訳されています。
 
 
 **キムラミチタのVibe ON\! MUSIC**は、2005年10月3日から2007年3月29日まで放送された[広島エフエム放送](../Page/広島エフエム放送.md "wikilink")の音楽ワイド番組（通称**バイオン**）。

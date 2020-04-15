@@ -1,4 +1,4 @@
-> この記事は[MIPS](https://ja.wikipedia.org/wiki/MIPS)から翻訳されています。
+> この記事は[MIPSアーキテクチャ](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ)から翻訳されています。
 
 
 **MIPSアーキテクチャ**は、ミップス・コンピュータシステムズ（現[ミップス・テクノロジーズ](../Page/ミップス・テクノロジーズ.md "wikilink")）が開発した[RISC](../Page/RISC.md "wikilink")マイクロプロセッサの[命令セット](../Page/命令セット.md "wikilink")・アーキテクチャ (ISA) である。

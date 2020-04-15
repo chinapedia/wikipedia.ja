@@ -1,4 +1,4 @@
-> この記事は[CB](https://ja.wikipedia.org/wiki/CB)から翻訳されています。
+> この記事は[C・B・マクファーソン](https://ja.wikipedia.org/wiki/C・B・マクファーソン)から翻訳されています。
 
 
 **クロフォード・ブラウ・マクファーソン**（**Crawford Brough Macpherson**、[1911年](../Page/1911年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")。専門は政治理論、[民主主義](../Page/民主主義.md "wikilink")論。

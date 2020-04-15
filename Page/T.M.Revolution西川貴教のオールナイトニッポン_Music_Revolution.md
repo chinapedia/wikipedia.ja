@@ -1,4 +1,4 @@
-> この記事は[T.M.Revolution Music Revolution](https://ja.wikipedia.org/wiki/T.M.Revolution_Music_Revolution)から翻訳されています。
+> この記事は[T.M.Revolution西川貴教のオールナイトニッポン Music Revolution](https://ja.wikipedia.org/wiki/T.M.Revolution西川貴教のオールナイトニッポン_Music_Revolution)から翻訳されています。
 
 
 **T.M.Revolution西川貴教のオールナイトニッポン Music Revolution** （ティーエムレボリューションにしかわたかのりのオールナイトニッポン ミュージックレボリューション）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に金曜25:00-29:00（1部・2部、土曜日未明）に4時間ワイド[生放送](../Page/生放送.md "wikilink")された[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")[金曜日](../Page/金曜日.md "wikilink")で[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の[西川貴教](../Page/西川貴教.md "wikilink")が[パーソナリティを担当した](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

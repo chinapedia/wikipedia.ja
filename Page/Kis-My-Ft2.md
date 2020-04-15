@@ -175,9 +175,9 @@
   - 2018年
     4月25日、7作目のオリジナルアルバム『[Yummy\!\!](https://ja.wikipedia.org/wiki/Yummy!! "wikilink")』と、セブンネット限定販売のスペシャルシングル『[You\&Me](https://ja.wikipedia.org/wiki/You&Me_\(Kis-My-Ft2のシングル\) "wikilink")』を同時発売\[75\]。アルバムを引っ提げて5月5日から7月16日まで、ジャニーズ初の[西武ドーム](../Page/西武ドーム.md "wikilink")公演を含む、自身初の5大ドームツアー『Kis-My-Ft2 LIVE TOUR 2018 Yummy\!\! you\&me』を開催。計57.4万人を動員し、デビューからの総動員数は300万人を突破\[76\]。さらに12月、追加公演として『Kis -My-Ft2 LIVE TOUR 2018 YOU＆ME Extra Yummy\!\!』を開催。年間ライブ総動員数は自己最多77.4万人を記録した\[77\]。
   - 2019年
-    4月24日、8作目のオリジナルアルバム『[FREE HUGS\!](https://ja.wikipedia.org/wiki/FREE_HUGS! "wikilink")』を発売、同アルバムを引っ提げて、5月6日から7月14日まで2年連続2度目の5大ドームツアー『Kis-My-Ft2 LIVE TOUR 2019 FREE HUGS\!』を開催。11月14日、『[第70回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")』への初出場が発表された\[78\]。11月30日、『ASIA FASHION AWARD 2019 in TAIPEI』に出演、海外初パフォーマンスとなる\[79\]。
+    Kis-My-Ft2の冠番組『[キスマイどきどきーん](../Page/キスマイどきどきーん.md "wikilink")』（金曜正午最新話更新）が、2月8日から配信\[78\]。4月24日、8作目のオリジナルアルバム『[FREE HUGS\!](https://ja.wikipedia.org/wiki/FREE_HUGS! "wikilink")』を発売、同アルバムを引っ提げて、5月6日から7月14日まで2年連続2度目の5大ドームツアー『Kis-My-Ft2 LIVE TOUR 2019 FREE HUGS\!』を開催。11月30日、『ASIA FASHION AWARD 2019 in TAIPEI』に出演、海外初パフォーマンスとなる\[79\]。12月31日、『[第70回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")』に初出場し\[80\]、デビュー曲「Everybody Go」を披露\[81\]。
   - 2020年
-    3月24日、9作目のオリジナルアルバム『**[To-y2](../Page/To-y2.md "wikilink")**』を発売。4月9日から6月7日まで5大ドームツアー『**Kis-My-Ft2 LIVE TOUR 2020**』を開催。
+    3月23日、「**[キスマイどきどきーん](../Page/キスマイどきどきーん.md "wikilink")！出張編**」として、地上波放送がされた。3月25日、9作目のオリジナルアルバム『[To-y2](../Page/To-y2.md "wikilink")』が発売され、公式アプリ「キスマイアプリ」をリリース。3月27日、[新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")「[COVID-19](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")」による肺炎の感染拡大のため、『Kis-My-Ft2 LIVE TOUR 2020 To-y2』の4月9日から12日の東京ドーム公演の中止を発表\[82\]。
 
 ## 作品
 
@@ -193,7 +193,7 @@
 <th><p>タイトル</p></th>
 <th><p>販売形態</p></th>
 <th><p>規格品番</p></th>
-<th><p>順位[80]</p></th>
+<th><p>順位[83]</p></th>
 <th><p>収録アルバム</p></th>
 </tr>
 </thead>
@@ -340,7 +340,7 @@
 <td><p>初回生産限定盤</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-48361/B</p></td>
-<td><p>1位[81]</p></td>
+<td><p>1位[84]</p></td>
 </tr>
 <tr class="odd">
 <td><p>通常盤</p></td>
@@ -439,7 +439,7 @@
 <td><p>初回生産限定盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-48675/B</p></td>
-<td><p>1位[82]</p></td>
+<td><p>1位[85]</p></td>
 </tr>
 <tr class="even">
 <td><p>初回生産限定盤B</p></td>
@@ -979,7 +979,7 @@
 <td><p>初回生産限定盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-83961/B</p></td>
-<td><p>1位[83]</p></td>
+<td><p>1位[86]</p></td>
 </tr>
 <tr class="even">
 <td><p>初回生産限定盤B</p></td>
@@ -1025,7 +1025,7 @@
 <td><p>初回盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-94131/B</p></td>
-<td><p>1位[84]</p></td>
+<td><p>1位[87]</p></td>
 </tr>
 <tr class="odd">
 <td><p>初回盤B</p></td>
@@ -1052,7 +1052,7 @@
 <td><p>初回盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-94185/B</p></td>
-<td><p>1位[85]</p></td>
+<td><p>1位[88]</p></td>
 </tr>
 <tr class="even">
 <td><p>初回盤B</p></td>
@@ -1079,7 +1079,7 @@
 <td><p>初回盤</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-94356/B</p></td>
-<td><p>1位[86]</p></td>
+<td><p>1位[89]</p></td>
 </tr>
 <tr class="odd">
 <td><p>EXTRA盤</p></td>
@@ -1106,7 +1106,7 @@
 <td><p>初回盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-94541/B</p></td>
-<td><p>1位[87]</p></td>
+<td><p>1位[90]</p></td>
 </tr>
 <tr class="even">
 <td><p>初回盤B</p></td>
@@ -1133,7 +1133,7 @@
 <td><p>初回盤A</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCD-94663/B</p></td>
-<td><p>1位[88]</p></td>
+<td><p>1位[91]</p></td>
 </tr>
 <tr class="odd">
 <td><p>初回盤B</p></td>
@@ -1160,7 +1160,7 @@
 
 #### オリジナルアルバム
 
-| 枚                  | 発売日            | タイトル                                                                                  | 販売形態                  | 規格品番     | 順位\[89\]       |
+| 枚                  | 発売日            | タイトル                                                                                  | 販売形態                  | 規格品番     | 順位\[92\]       |
 | ------------------ | -------------- | ------------------------------------------------------------------------------------- | --------------------- | -------- | -------------- |
 | 1                  | 2012年3月28日     | **[Kis-My-1st](https://ja.wikipedia.org/wiki/Kis-My-1st "wikilink")**                 | 初回生産限定盤A              | CD+DVD   | AVCD-38493/B   |
 | 初回生産限定盤B           | 2CD            | AVCD-38494/B                                                                          |                       |          |                |
@@ -1212,7 +1212,7 @@
 <th><p>タイトル</p></th>
 <th><p>販売形態</p></th>
 <th><p>規格品番</p></th>
-<th><p>順位[90][91]</p></th>
+<th><p>順位[93][94]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1232,14 +1232,14 @@
 <td><p>Kis-My-Ftに逢えるde Show vol.3 at 国立代々木第一体育館 2011.2.12</p></td>
 <td><p>DVD</p></td>
 <td><p>AVBD-91900</p></td>
-<td><p>2位[92]</p></td>
+<td><p>2位[95]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Kis-My-Ft2 Debut Tour 2011 Everybody Go at 横浜アリーナ 2011.7.31</p></td>
 <td><p>AVBD-91901</p></td>
-<td><p>1位[93]</p></td>
+<td><p>1位[96]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1306,7 +1306,7 @@
 <td><p>'''[[LUCKY_SEVEN</p></td>
 <td><p>|LUCKY SEVEN</p></td>
 <td><p>]]'''<br />
-（「Kis-My-Ft7」名義[94]）</p></td>
+（「Kis-My-Ft7」名義[97]）</p></td>
 <td><p>セブン-イレブン限定</p></td>
 </tr>
 <tr class="even">
@@ -1491,8 +1491,8 @@
 ### CD未収録曲
 
   - DAYBREAKER（作詞：michiko motohashi、作曲：[加藤裕介](../Page/加藤裕介.md "wikilink")） - JASRAC作品コード:154-6037-1。[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")とのコラボ曲。
-  - [No.1〜FIRE BEAT](https://ja.wikipedia.org/wiki/FIRE_BEAT "wikilink")（作詞：村野直球、作曲：velvetronica 編曲：[宮永治郎](../Page/宮永治郎.md "wikilink")） - JASRAC作品コード:144-5512-9。テレビドラマ『[美咲ナンバーワン\!\!](https://ja.wikipedia.org/wiki/美咲ナンバーワン!! "wikilink")』OPテーマ\[95\]。
-  - いつもありがとう（作詞：[T.FXXX](../Page/藤ヶ谷太輔.md "wikilink").、作曲：[HUSIQ.K](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")）\[96\] - JASRAC作品コード：178-5325-7。
+  - [No.1〜FIRE BEAT](https://ja.wikipedia.org/wiki/FIRE_BEAT "wikilink")（作詞：村野直球、作曲：velvetronica 編曲：[宮永治郎](../Page/宮永治郎.md "wikilink")） - JASRAC作品コード:144-5512-9。テレビドラマ『[美咲ナンバーワン\!\!](https://ja.wikipedia.org/wiki/美咲ナンバーワン!! "wikilink")』OPテーマ\[98\]。
+  - いつもありがとう（作詞：[T.FXXX](../Page/藤ヶ谷太輔.md "wikilink").、作曲：[HUSIQ.K](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")）\[99\] - JASRAC作品コード：178-5325-7。
 
 ## コンサート
 
@@ -1516,14 +1516,14 @@
 <td><p>10月11日<br />
 -<br />
 13日</p></td>
-<td><p><strong>A.B.C-Z Kis-My-Ft2 ファーストコンサート in 横浜アリーナ</strong>[97]</p></td>
+<td><p><strong>A.B.C-Z Kis-My-Ft2 ファーストコンサート in 横浜アリーナ</strong>[100]</p></td>
 <td><p>5公演<br />
-7.5万人動員[98]</p></td>
+7.5万人動員[101]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11月8日・9日</p></td>
-<td><p><strong>A.B.C-Z Kis-My-Ft2 ファーストコンサート再追加公演!</strong>[99]</p></td>
+<td><p><strong>A.B.C-Z Kis-My-Ft2 ファーストコンサート再追加公演!</strong>[102]</p></td>
 <td><p>3公演</p></td>
 <td><p><a href="../Page/国立代々木競技場.md" title="wikilink">国立代々木第一体育館</a></p></td>
 <td></td>
@@ -1556,9 +1556,9 @@
 <td><p>10月3日<br />
 -<br />
 12月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに逢える_de_Show" title="wikilink">Kis-My-Ftに 逢える de Show</a></strong>[100]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに逢える_de_Show" title="wikilink">Kis-My-Ftに 逢える de Show</a></strong>[103]</p></td>
 <td><p>10都市11ヶ所31公演<br />
-16万人動員[101]</p></td>
+16万人動員[104]</p></td>
 <td><p><a href="../Page/大分県立総合文化センター.md" title="wikilink">大分iichikoグランシアタ</a><br />
 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a><br />
 <a href="../Page/仙台市泉文化創造センター.md" title="wikilink">仙台・イズミティ21</a><br />
@@ -1575,9 +1575,9 @@
 <td><p>3月30日<br />
 -<br />
 5月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに010_逢えるde_Show" title="wikilink">Kis-My-Ftに010 逢える de Show</a></strong>[102]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに010_逢えるde_Show" title="wikilink">Kis-My-Ftに010 逢える de Show</a></strong>[105]</p></td>
 <td><p>6都市12公演<br />
-13.8万人動員[103]</p></td>
+13.8万人動員[106]</p></td>
 <td><p>横浜アリーナ<br />
 <a href="../Page/マリンメッセ福岡.md" title="wikilink">マリンメッセ福岡</a><br />
 <a href="../Page/宮城県総合運動公園総合体育館.md" title="wikilink">セキスイハイムスーパーアリーナ</a><br />
@@ -1592,7 +1592,7 @@
 <td><p>12月28日<br />
 -<br />
 2月12日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに逢えるde_Show_vol.3_at_国立代々木第一体育館_2011.2.12#『Kis-My-Ftに逢えるde_Show_vol.3』" title="wikilink">Kis-My-Ftに 逢えるdeShow vol.3</a></strong>[104]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ftに逢えるde_Show_vol.3_at_国立代々木第一体育館_2011.2.12#『Kis-My-Ftに逢えるde_Show_vol.3』" title="wikilink">Kis-My-Ftに 逢えるdeShow vol.3</a></strong>[107]</p></td>
 <td><p>3都市10公演</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本ガイシホール" title="wikilink">日本ガイシホール</a><br />
 大阪城ホール<br />
@@ -1603,7 +1603,7 @@
 <td><p>7月9日<br />
 -<br />
 8月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ft2_Debut_Tour_2011_Everybody_Go_at_横浜アリーナ_2011.7.31#『Kis-My-Ft2_Debut_Tour_2011_Everybody_Go』" title="wikilink">Kis-My-Ft2 Debut Tour 2011 Everybody Go</a></strong>[105]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ft2_Debut_Tour_2011_Everybody_Go_at_横浜アリーナ_2011.7.31#『Kis-My-Ft2_Debut_Tour_2011_Everybody_Go』" title="wikilink">Kis-My-Ft2 Debut Tour 2011 Everybody Go</a></strong>[108]</p></td>
 <td><p>7都市17公演</p></td>
 <td><p>北海道立総合体育センター<br />
 広島グリーンアリーナ<br />
@@ -1618,7 +1618,7 @@
 <td><p>3月31日<br />
 -<br />
 6月3日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京ドーム_2012.4.8#『Kis-My-MiNT_Tour』" title="wikilink">Kis-My-MiNT Tour</a></strong>[106]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京ドーム_2012.4.8#『Kis-My-MiNT_Tour』" title="wikilink">Kis-My-MiNT Tour</a></strong>[109]</p></td>
 <td><p>6都市19公演</p></td>
 <td><p>マリンメッセ福岡<br />
 日本ガイシホール<br />
@@ -1632,9 +1632,9 @@
 <td><p>5月3日<br />
 -<br />
 8月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SNOW_DOMEの約束_IN_TOKYO_DOME_2013.11.16#『Good_Live_Tour_いくぜ!』" title="wikilink">Kis-My-Ft2 Good Live Tour いくぜ!</a></strong>[107]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/SNOW_DOMEの約束_IN_TOKYO_DOME_2013.11.16#『Good_Live_Tour_いくぜ!』" title="wikilink">Kis-My-Ft2 Good Live Tour いくぜ!</a></strong>[110]</p></td>
 <td><p>6都市18公演<br />
-22万人動員[108]</p></td>
+22万人動員[111]</p></td>
 <td><p>大阪城ホール<br />
 セキスイハイムスーパーアリーナ<br />
 広島グリーンアリーナ<br />
@@ -1646,8 +1646,8 @@
 <td><p>11月15日<br />
 -<br />
 12月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SNOW_DOMEの約束_IN_TOKYO_DOME_2013.11.16#『SNOW_DOMEの約束_IN東京ドーム_IN大阪ドーム』" title="wikilink">Kis-My-Ft2 SNOW DOMEの約束 IN TOKYO DOME / OSAKA DOME</a></strong>[109]</p></td>
-<td><p>2都市4公演[110]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/SNOW_DOMEの約束_IN_TOKYO_DOME_2013.11.16#『SNOW_DOMEの約束_IN東京ドーム_IN大阪ドーム』" title="wikilink">Kis-My-Ft2 SNOW DOMEの約束 IN TOKYO DOME / OSAKA DOME</a></strong>[112]</p></td>
+<td><p>2都市4公演[113]</p></td>
 <td><p>東京ドーム<br />
 <a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a></p></td>
 <td></td>
@@ -1657,9 +1657,9 @@
 <td><p>7月5日<br />
 -<br />
 11月9日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2014Concert_Tour『Kis-My-Journey』" title="wikilink">Kis-My-Ft2 2014 Concert Tour『Kis-My-Journey』</a></strong>[111]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/2014Concert_Tour『Kis-My-Journey』" title="wikilink">Kis-My-Ft2 2014 Concert Tour『Kis-My-Journey』</a></strong>[114]</p></td>
 <td><p>4都市10公演<br />
-46万人動員[112]</p></td>
+46万人動員[115]</p></td>
 <td><p><a href="../Page/ナゴヤドーム.md" title="wikilink">ナゴヤドーム</a><br />
 京セラドーム大阪<br />
 <a href="../Page/福岡ドーム.md" title="wikilink">福岡ヤフオク!ドーム</a><br />
@@ -1670,7 +1670,7 @@
 <td><p>8月29日<br />
 -<br />
 10月29日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/2015_CONCERT_TOUR_『KIS-MY-WORLD』" title="wikilink">2015 CONCERT TOUR KIS-MY-WORLD</a></strong>[113]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/2015_CONCERT_TOUR_『KIS-MY-WORLD』" title="wikilink">2015 CONCERT TOUR KIS-MY-WORLD</a></strong>[116]</p></td>
 <td><p>4都市11公演</p></td>
 <td><p>京セラドーム大阪<br />
 福岡ヤフオク!ドーム<br />
@@ -1682,9 +1682,9 @@
 <td><p>7月1日<br />
 -<br />
 8月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CONCERT_TOUR_2016_I_SCREAM" title="wikilink">Kis-My-Ft2 CONCERT TOUR 2016 I SCREAM</a></strong>[114]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/CONCERT_TOUR_2016_I_SCREAM" title="wikilink">Kis-My-Ft2 CONCERT TOUR 2016 I SCREAM</a></strong>[117]</p></td>
 <td><p>4都市11公演<br />
-51.5万人動員[115]</p></td>
+51.5万人動員[118]</p></td>
 <td><p>京セラドーム大阪<br />
 ナゴヤドーム<br />
 東京ドーム<br />
@@ -1695,9 +1695,9 @@
 <td><p>5月13日<br />
 -<br />
 8月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_TOUR_2017_MUSIC_COLOSSEUM" title="wikilink">Kis-My-Ft2 LIVE TOUR 2017 MUSIC COLOSSEUM</a></strong>[116]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_TOUR_2017_MUSIC_COLOSSEUM" title="wikilink">Kis-My-Ft2 LIVE TOUR 2017 MUSIC COLOSSEUM</a></strong>[119]</p></td>
 <td><p>9都市31公演<br />
-35万人動員[117]</p></td>
+35万人動員[120]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟コンベンションセンター" title="wikilink">朱鷺メッセ 新潟コンベンションセンター</a><br />
 <a href="https://ja.wikipedia.org/wiki/静岡エコパアリーナ" title="wikilink">静岡・エコパアリーナ</a><br />
 <a href="https://ja.wikipedia.org/wiki/真駒内セキスイハイムアイスアリーナ" title="wikilink">札幌・真駒内 セキスイハイムアイスアリーナ</a><br />
@@ -1724,7 +1724,7 @@
 <td><p>'''[[君を大好きだ|Kis-My-Ft2 LIVE TOUR 2018 YOU&amp;ME Extra Yummy</p></td>
 <td><p>]]'''</p></td>
 <td><p>2都市4公演<br />
-20万人動員[118]</p></td>
+20万人動員[121]</p></td>
 <td><p>京セラドーム大阪<br />
 東京ドーム</p></td>
 </tr>
@@ -1733,9 +1733,9 @@
 <td><p>5月6日<br />
 -<br />
 7月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_TOUR_2019_FREE_HUGS!" title="wikilink">Kis-My-Ft2 LIVE TOUR 2019 FREE HUGS!</a></strong>[119]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_TOUR_2019_FREE_HUGS!" title="wikilink">Kis-My-Ft2 LIVE TOUR 2019 FREE HUGS!</a></strong>[122]</p></td>
 <td><p>5都市13公演<br />
-59.1万人動員[120]</p></td>
+59.1万人動員[123]</p></td>
 <td><p>東京ドーム<br />
 メットライフドーム<br />
 ナゴヤドーム<br />
@@ -1744,17 +1744,16 @@
 </tr>
 <tr class="odd">
 <td><p>2020年</p></td>
-<td><p>4月9日<br />
+<td><p>5月9日<br />
 -<br />
-6月17日</p></td>
-<td><p><strong>Kis-My-Ft2 LIVE TOUR 2020</strong>[121]</p></td>
-<td><p>5都市13公演<br />
+6月7日</p></td>
+<td><p><strong>Kis-My-Ft2 LIVE TOUR 2020 To-y2</strong>[124]</p></td>
+<td><p>4都市9公演<br />
 </p></td>
-<td><p>東京ドーム<br />
-ナゴヤドーム<br />
+<td><p>ナゴヤドーム<br />
 メットライフドーム<br />
 京セラドーム大阪<br />
-福岡ヤフオク!ドーム</p></td>
+福岡PayPayドーム</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1769,20 +1768,20 @@
 ### その他のコンサート
 
   - ジャニーズJr.の大冒険\!（2006年8月15日 - 24日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）
-  - you達の音楽大運動会（2006年9月30日 - 10月1日、国立代々木競技場 第一体育館）\[122\]
-  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、[日本武道館](../Page/日本武道館.md "wikilink")）\[123\]
-  - ジャニーズJr.の大冒険\!'07 @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[124\]
-  - [内博貴](../Page/内博貴.md "wikilink") 年末年始 Rockな仲間たち大集合\!（2008年12月20日 - 21日、横浜アリーナ）\[125\]
-  - UCHI博貴 内HIROCKY（2009年3月7日 - 4月4日、3都市）\[126\]
-  - [KAT-TUN WORLD BIG TOUR](https://ja.wikipedia.org/wiki/KAT-TUN_-NO_MORE_PAIИ-_WORLD_TOUR_2010 "wikilink")\[127\]（2010年7月16日 - 25日、東京ドーム / 8月6日・7日、オリンピック公園 体操競技場 / 8月21日・22日、京セラドーム大阪 / 8月27日・28日、台北アリーナ）\[128\]
+  - you達の音楽大運動会（2006年9月30日 - 10月1日、国立代々木競技場 第一体育館）\[125\]
+  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、[日本武道館](../Page/日本武道館.md "wikilink")）\[126\]
+  - ジャニーズJr.の大冒険\!'07 @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[127\]
+  - [内博貴](../Page/内博貴.md "wikilink") 年末年始 Rockな仲間たち大集合\!（2008年12月20日 - 21日、横浜アリーナ）\[128\]
+  - UCHI博貴 内HIROCKY（2009年3月7日 - 4月4日、3都市）\[129\]
+  - [KAT-TUN WORLD BIG TOUR](https://ja.wikipedia.org/wiki/KAT-TUN_-NO_MORE_PAIИ-_WORLD_TOUR_2010 "wikilink")\[130\]（2010年7月16日 - 25日、東京ドーム / 8月6日・7日、オリンピック公園 体操競技場 / 8月21日・22日、京セラドーム大阪 / 8月27日・28日、台北アリーナ）\[131\]
 
 ## イベント
 
   - [ジャニーズ大運動会](https://ja.wikipedia.org/wiki/ジャニーズ大運動会 "wikilink")
-      - [Marching J](https://ja.wikipedia.org/wiki/Marching_J "wikilink") ジャニーズチャリティー野球大会2011（2011年5月29日、東京ドーム）\[129\]
-      - ジャニーズJr.選抜 野球大会 2012春（2012年3月18日、東京ドーム）\[130\]
-      - “東京ドームに全員集合”みんなにサンキュー！ジャニーズ野球大会\[131\]（2016年4月13日、東京ドーム）
-      - ジャニーズ大運動会2017（2017年4月16日、東京ドーム）\[132\]
+      - [Marching J](https://ja.wikipedia.org/wiki/Marching_J "wikilink") ジャニーズチャリティー野球大会2011（2011年5月29日、東京ドーム）\[132\]
+      - ジャニーズJr.選抜 野球大会 2012春（2012年3月18日、東京ドーム）\[133\]
+      - “東京ドームに全員集合”みんなにサンキュー！ジャニーズ野球大会\[134\]（2016年4月13日、東京ドーム）
+      - ジャニーズ大運動会2017（2017年4月16日、東京ドーム）\[135\]
   - [Kis-My-Party](https://ja.wikipedia.org/wiki/SHE!_HER!_HER! "wikilink")（2012年3月30日〈福岡〉、4月4日〈名古屋〉、4月7日〈東京〉、5月3日〈大阪〉、5月14日〈広島〉、6月2日〈北海道〉）
   - [Kis-Kiss-Party](https://ja.wikipedia.org/wiki/SHE!_HER!_HER! "wikilink")（2012年5月23日〈東京都内〉）
   - [新春Kis-My-福袋 〜今年もよろしくThank youじゃん\!〜](https://ja.wikipedia.org/wiki/2015_CONCERT_TOUR_『KIS-MY-WORLD』 "wikilink")（2015年1月5日 - 1月8日、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）
@@ -1796,90 +1795,90 @@
   - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")（2005年 - 2012年、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")） - 2011年8月5日放送分までは[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")名義での出演
   - [もしもツアーズ](../Page/もしもツアーズ.md "wikilink")（2011年10月1日 - 、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - メンバーが数名ずつ、同じくレギュラー出演の[はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")と各週交代で出演
   - [白黒ジャッジバラエティ 中居正広の怪しい噂の集まる図書館](https://ja.wikipedia.org/wiki/白黒ジャッジバラエティ_中居正広の怪しい噂の集まる図書館 "wikilink")（2011年10月4日 - 2013年3月19日、テレビ朝日） - メンバーが数名ずつ出演
-  - [東海地方のコト なるべくちゃんと調べます\!](https://ja.wikipedia.org/wiki/東海地方のコト_なるべくちゃんと調べます! "wikilink")（2012年4月26日\[133\] - 9月20日、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・中京ローカル） - メンバーが数名ずつ出演
-  - [濱キス](https://ja.wikipedia.org/wiki/濱キス "wikilink")（単発：2011年12月29日・2012年3月23日、レギュラー：4月4日 - 9月26日、テレビ朝日）\[134\]
-  - [キスマイBUSAIKU\!?](https://ja.wikipedia.org/wiki/キスマイBUSAIKU!? "wikilink")（単発：2012年8月18日・9月1日\[135\]・2013年1月26日・2月23日・3月23日、レギュラー：4月21日 - 2017年9月18日、フジテレビ）\[136\] → キスマイ超BUSAIKU\!?（2017年10月6日 - ）
+  - [東海地方のコト なるべくちゃんと調べます\!](https://ja.wikipedia.org/wiki/東海地方のコト_なるべくちゃんと調べます! "wikilink")（2012年4月26日\[136\] - 9月20日、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・中京ローカル） - メンバーが数名ずつ出演
+  - [濱キス](https://ja.wikipedia.org/wiki/濱キス "wikilink")（単発：2011年12月29日・2012年3月23日、レギュラー：4月4日 - 9月26日、テレビ朝日）\[137\]
+  - [キスマイBUSAIKU\!?](https://ja.wikipedia.org/wiki/キスマイBUSAIKU!? "wikilink")（単発：2012年8月18日・9月1日\[138\]・2013年1月26日・2月23日・3月23日、レギュラー：4月21日 - 2017年9月18日、フジテレビ）\[139\] → キスマイ超BUSAIKU\!?（2017年10月6日 - ）
   - [キス濱ラーニング](https://ja.wikipedia.org/wiki/キス濱ラーニング "wikilink") → キス濱ラーニング2 → キス濱ラーニング3（2012年10月3日 - 2014年3月26日、テレビ朝日）
   - [中居正広のミになる図書館](https://ja.wikipedia.org/wiki/中居正広のミになる図書館 "wikilink")（2013年4月2日 - 2017年7月3日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）→ [中居正広の身になる図書館](https://ja.wikipedia.org/wiki/中居正広の身になる図書館 "wikilink")（2017年9月11日 - 、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [Kiss My Fake](https://ja.wikipedia.org/wiki/Kiss_My_Fake "wikilink")（2013年10月24日 - 2014年3月20日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [キス濱テレビ](https://ja.wikipedia.org/wiki/キス濱テレビ "wikilink")（2014年4月1日 - 9月24日、テレビ朝日）
-  - [Kis-My-Ft2 presents オフィスラーニングバラエティ OLくらぶ](../Page/OH!エルくらぶ.md "wikilink")（2014年9月30日 - 2015年3月25日、テレビ朝日）\[137\]
+  - [Kis-My-Ft2 presents オフィスラーニングバラエティ OLくらぶ](../Page/OH!エルくらぶ.md "wikilink")（2014年9月30日 - 2015年3月25日、テレビ朝日）\[140\]
   - [あの遊びをバージョンアップ\! キスマイGAME](https://ja.wikipedia.org/wiki/あの遊びをバージョンアップ!_キスマイGAME "wikilink")（2015年3月31日 - 9月30日、テレビ朝日）
-  - [キスマイ魔ジック](https://ja.wikipedia.org/wiki/キスマイ魔ジック "wikilink")（2015年10月7日 - 2016年9月28日、テレビ朝日）\[138\]
-  - [キスマイレージ](https://ja.wikipedia.org/wiki/キスマイレージ "wikilink")（2016年10月5日 - 2017年9月27日、テレビ朝日）\[139\]
-  - [10万円でできるかな](https://ja.wikipedia.org/wiki/10万円でできるかな "wikilink")（2017年10月4日 - 、テレビ朝日）\[140\]
-  - [GO\! GO\! ニンじゃぽん](https://ja.wikipedia.org/wiki/GO!_GO!_ニンじゃぽん "wikilink")（Season1: 2018年1月 - 3月、Season2: 2019年1月7日 - 2月25日、Season3: 2020年1月 -、北陸放送ほか）- 横尾、宮田、二階堂、千賀のうち交代で2人が出演\[141\]
-  - [ザ少年倶楽部プレミアム](https://ja.wikipedia.org/wiki/ザ少年倶楽部#ザ少年倶楽部プレミアム "wikilink")（2019年4月 - 、NHK BSプレミアム）- MC\[142\]
+  - [キスマイ魔ジック](https://ja.wikipedia.org/wiki/キスマイ魔ジック "wikilink")（2015年10月7日 - 2016年9月28日、テレビ朝日）\[141\]
+  - [キスマイレージ](https://ja.wikipedia.org/wiki/キスマイレージ "wikilink")（2016年10月5日 - 2017年9月27日、テレビ朝日）\[142\]
+  - [10万円でできるかな](https://ja.wikipedia.org/wiki/10万円でできるかな "wikilink")（2017年10月4日 - 、テレビ朝日）\[143\]
+  - [GO\! GO\! ニンじゃぽん](https://ja.wikipedia.org/wiki/GO!_GO!_ニンじゃぽん "wikilink")（Season1: 2018年1月 - 3月、Season2: 2019年1月7日 - 2月25日、Season3: 2020年1月 -、北陸放送ほか）- 横尾、宮田、二階堂、千賀のうち交代で2人が出演\[144\]
+  - [ザ少年倶楽部プレミアム](https://ja.wikipedia.org/wiki/ザ少年倶楽部#ザ少年倶楽部プレミアム "wikilink")（2019年4月 - 、NHK BSプレミアム）- MC\[145\]
 
 ### 特別番組
 
-  - [FNS27時間テレビフェスティバル\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2016年\) "wikilink")（2016年7月23日・24日、フジテレビ） - MCリレー\[143\]
+  - [FNS27時間テレビフェスティバル\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2016年\) "wikilink")（2016年7月23日・24日、フジテレビ） - MCリレー\[146\]
 
 ### NHK紅白歌合戦出場歴
 
-| 年                        | 放送回                                                           | 回 | 曲目                                                                    | 出演順  | 対戦相手                                 | 備考         |
-| ------------------------ | ------------------------------------------------------------- | - | --------------------------------------------------------------------- | ---- | ------------------------------------ | ---------- |
-| 2019年                    | [第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink") | 初 | [Everybody Go](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink") | 5/21 | [天童よしみ](../Page/天童よしみ.md "wikilink") | 初出場\[144\] |
-| \*出演順は白組での「出演順/出場者数」を表す。 |                                                               |   |                                                                       |      |                                      |            |
+| 年     | 放送回                                                           | 回 | 曲目                                                                    | 備考         |
+| ----- | ------------------------------------------------------------- | - | --------------------------------------------------------------------- | ---------- |
+| 2019年 | [第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink") | 初 | [Everybody Go](https://ja.wikipedia.org/wiki/Everybody_Go "wikilink") | 初出場\[147\] |
+|       |                                                               |   |                                                                       |            |
 
 ### インターネット配信
 
-  - キスマイどきどきーん\!（2019年2月8日 - 、[dTV](https://ja.wikipedia.org/wiki/DTV_\(NTTドコモ\) "wikilink")）\[145\]
+  - [キスマイどきどきーん](../Page/キスマイどきどきーん.md "wikilink")（2019年2月8日 - 、[dTV](https://ja.wikipedia.org/wiki/DTV_\(NTTドコモ\) "wikilink")）\[148\]
 
 ### CM
 
-  - [ドワンゴ](../Page/ドワンゴ.md "wikilink")（2010年） - 「FIRE BEAT」篇、「祈り」篇の4種\[146\]
-  - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ウォータリングキスミントガム」（2012年3月12日 - 2015年）\[147\]
-  - [セブン&アイ・ホールディングス](../Page/セブン&アイ・ホールディングス.md "wikilink") （2013年 - 2014年）\[148\]
-  - [DHC](https://ja.wikipedia.org/wiki/DHC "wikilink") 「薬用アクネコントロールシリーズ」（2013年3月7日 - 2014年) \[149\]
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink")（2010年） - 「FIRE BEAT」篇、「祈り」篇の4種\[149\]
+  - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「ウォータリングキスミントガム」（2012年3月12日 - 2015年）\[150\]
+  - [セブン&アイ・ホールディングス](../Page/セブン&アイ・ホールディングス.md "wikilink") （2013年 - 2014年）\[151\]
+  - [DHC](https://ja.wikipedia.org/wiki/DHC "wikilink") 「薬用アクネコントロールシリーズ」（2013年3月7日 - 2014年) \[152\]
   - [興和](../Page/興和.md "wikilink")
-      - 「ウナコーワ 虫よけ当番」（2014年3月25日 - 2015年）\[150\]
-      - 「ホッカイロぬくぬく当番」（2014年10月1日 - ）\[151\]
-      - 「新ウナコーワ・クール」（2016年 - ）\[152\]
-  - [namco](https://ja.wikipedia.org/wiki/ナムコ "wikilink") 「namco×KIS-MY-FT2 PROJECT Where's KIS-MY-FT2？キャンペーン」（2015年12月26日 - 2016年3月31日) \[153\]
-  - [LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")「LINEポコポコ」（2016年） - 玉森、宮田のみ\[154\]
+      - 「ウナコーワ 虫よけ当番」（2014年3月25日 - 2015年）\[153\]
+      - 「ホッカイロぬくぬく当番」（2014年10月1日 - ）\[154\]
+      - 「新ウナコーワ・クール」（2016年 - ）\[155\]
+  - [namco](https://ja.wikipedia.org/wiki/ナムコ "wikilink") 「namco×KIS-MY-FT2 PROJECT Where's KIS-MY-FT2？キャンペーン」（2015年12月26日 - 2016年3月31日) \[156\]
+  - [LINE](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")「LINEポコポコ」（2016年） - 玉森、宮田のみ\[157\]
   - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")
-      - 「新しい7つの長崎へ KISS MY NAGASAKI」（2016年10月 - ）\[155\]
-      - 「[GO\!GO\!\!キスマイクマモトオオイタ](https://ja.wikipedia.org/wiki/GO!GO!!キスマイクマモトオオイタ "wikilink")」（2017年7月1日 - 12月31日）\[156\]
-  - リクルートマーケティングパートナーズ「ゼクシィ縁結び」（2019年5月10日 - ）\[157\]
+      - 「新しい7つの長崎へ KISS MY NAGASAKI」（2016年10月 - ）\[158\]
+      - 「[GO\!GO\!\!キスマイクマモトオオイタ](https://ja.wikipedia.org/wiki/GO!GO!!キスマイクマモトオオイタ "wikilink")」（2017年7月1日 - 12月31日）\[159\]
+  - リクルートマーケティングパートナーズ「ゼクシィ縁結び」（2019年5月10日 - ）\[160\]
 
 ### ラジオ番組
 
   - Kis-My-Ft2 キスマイRadio（2011年10月 - 、[文化放送](../Page/文化放送.md "wikilink")）
   - [オールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンPremium "wikilink")
-      - Kis-My-Ft2のオールナイトニッポンPremium（2018年10月5日 - 2019年3月22日\[158\]、[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - 金曜パーソナリティ\[159\]
-      - Kis-My-Ft2のオールナイトニッポンPremium（2019年10月5日 - 、ニッポン放送） - 土曜パーソナリティ\[160\]
+      - Kis-My-Ft2のオールナイトニッポンPremium（2018年10月5日 - 2019年3月22日\[161\]、[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - 金曜パーソナリティ\[162\]
+      - Kis-My-Ft2のオールナイトニッポンPremium（2019年10月5日 - 、ニッポン放送） - 土曜パーソナリティ\[163\]
   - [ラジオ・チャリティ・ミュージックソン](https://ja.wikipedia.org/wiki/ラジオ・チャリティ・ミュージックソン "wikilink")
-      - 第44回ラジオ・チャリティ・ミュージックソン（2018年12月24日 - 25日、ニッポン放送）\[161\]
-      - 第45回ラジオ・チャリティ・ミュージックソン（2019年12月24日 - 25日、ニッポン放送）\[162\]
-  - Kis-My-Ft2の[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（2019年3月15日、ニッポン放送）\[163\]
+      - 第44回ラジオ・チャリティ・ミュージックソン（2018年12月24日 - 25日、ニッポン放送）\[164\]
+      - 第45回ラジオ・チャリティ・ミュージックソン（2019年12月24日 - 25日、ニッポン放送）\[165\]
+  - Kis-My-Ft2の[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（2019年3月15日、ニッポン放送）\[166\]
 
 ### 舞台
 
   - [PLAYZONE 2005 〜20th Anniversary〜 Twenty Years](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'05_〜20th_Anniversary〜Twenty_Years… "wikilink")（2005年7月6日 - 8月4日、[青山劇場](../Page/青山劇場.md "wikilink") / 2005年8月13日 - 17日、[フェスティバルホール](../Page/フェスティバルホール.md "wikilink")）
   - [Johnnys Theater"SダUイMジMェAスRトY2005"](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2005 "wikilink")（2005年7月26日 - 9月4日、品川プリンスステラボール）
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日 - 29日、帝国劇場）\[164\]
-  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[165\]
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日 - 29日、帝国劇場）\[167\]
+  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[168\]
   - One\! -the history of Tackey-（2006年9月、[日生劇場](../Page/日生劇場.md "wikilink")）
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年9月、帝国劇場）\[166\]
-  - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年7月3日 - 29日、新橋演舞場）\[167\]
-  - [World's Wing 翼 Premium 2007](https://ja.wikipedia.org/wiki/World's_Wing_翼_Premium#World's_Wing_翼_Premium_2007 "wikilink")（2007年10月3日 - 28日、日生劇場）\[168\]
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年9月、帝国劇場）\[169\]
+  - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年7月3日 - 29日、新橋演舞場）\[170\]
+  - [World's Wing 翼 Premium 2007](https://ja.wikipedia.org/wiki/World's_Wing_翼_Premium#World's_Wing_翼_Premium_2007 "wikilink")（2007年10月3日 - 28日、日生劇場）\[171\]
   - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2008年） "wikilink")（2008年3月4日 - 30日、帝国劇場 / 4月4日 - 16日、[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")）
-  - [SUMMARY 2008](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日 - 9月5日、Johnnys Theater）\[169\]
-  - 新春滝沢革命（2009年1月1日 - 27日、帝国劇場）\[170\]
-  - [PLAY ZONE2009 〜太陽からの手紙〜](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE_2009_〜太陽からの手紙〜 "wikilink")（2009年7月11日 - 8月9日、青山劇場 / 8月21日 - 26日、梅田芸術劇場）\[171\]
-  - 新春滝沢革命（2010年1月1日 - 2月5日、帝国劇場）\[172\]
-  - 新春人生革命（2010年1月8日 - 2月6日、帝国劇場）\[173\]
-  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場） - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")と主演\[174\]\[175\]
-  - [滝沢歌舞伎](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢歌舞伎_2011 "wikilink")（2011年4月8日 - 5月8日、日生劇場） - 横尾・千賀・宮田・二階堂\[176\]
-  - 帝劇 Johnnys Imperial Theatre Special「Kis-My-Ft2 with ジャニーズJr.」（2011年9月27日 - 29日、帝国劇場）\[177\]
-  - [美男ですね](https://ja.wikipedia.org/wiki/美男ですね#舞台 "wikilink")（2011年10月8日 - 20日、[赤坂ACTシアター](../Page/TBS赤坂ACTシアター.md "wikilink") / 10月24日 - 11月2日、[KAAT神奈川芸術劇場](../Page/神奈川県立県民ホール.md "wikilink") / 11月6日 - 9日、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink") / 11月24日 - 27日[キャナルシティ劇場](../Page/キャナルシティ劇場.md "wikilink")） - 北山・宮田\[178\]
-  - [ジャニーズ銀座 Youの前にはMeがいる\!](https://ja.wikipedia.org/wiki/ジャニーズ銀座#ジャニーズ銀座_Youの前にはMeがいる！（2012年） "wikilink")（2012年4月27日 - 30日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")） - 千賀・宮田・二階堂・横尾\[179\]
-  - [銀河英雄伝説 撃墜王](https://ja.wikipedia.org/wiki/銀河英雄伝説#舞台 "wikilink")（2012年8月3日 - 12日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")） - 横尾・二階堂\[180\]\[181\]\[182\]\[183\]
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2012年） "wikilink")（2012年9月、帝国劇場）- 玉森・宮田・千賀\[184\]
+  - [SUMMARY 2008](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日 - 9月5日、Johnnys Theater）\[172\]
+  - 新春滝沢革命（2009年1月1日 - 27日、帝国劇場）\[173\]
+  - [PLAY ZONE2009 〜太陽からの手紙〜](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE_2009_〜太陽からの手紙〜 "wikilink")（2009年7月11日 - 8月9日、青山劇場 / 8月21日 - 26日、梅田芸術劇場）\[174\]
+  - 新春滝沢革命（2010年1月1日 - 2月5日、帝国劇場）\[175\]
+  - 新春人生革命（2010年1月8日 - 2月6日、帝国劇場）\[176\]
+  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場） - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")と主演\[177\]\[178\]
+  - [滝沢歌舞伎](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢歌舞伎_2011 "wikilink")（2011年4月8日 - 5月8日、日生劇場） - 横尾・千賀・宮田・二階堂\[179\]
+  - 帝劇 Johnnys Imperial Theatre Special「Kis-My-Ft2 with ジャニーズJr.」（2011年9月27日 - 29日、帝国劇場）\[180\]
+  - [美男ですね](https://ja.wikipedia.org/wiki/美男ですね#舞台 "wikilink")（2011年10月8日 - 20日、[赤坂ACTシアター](../Page/TBS赤坂ACTシアター.md "wikilink") / 10月24日 - 11月2日、[KAAT神奈川芸術劇場](../Page/神奈川県立県民ホール.md "wikilink") / 11月6日 - 9日、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink") / 11月24日 - 27日[キャナルシティ劇場](../Page/キャナルシティ劇場.md "wikilink")） - 北山・宮田\[181\]
+  - [ジャニーズ銀座 Youの前にはMeがいる\!](https://ja.wikipedia.org/wiki/ジャニーズ銀座#ジャニーズ銀座_Youの前にはMeがいる！（2012年） "wikilink")（2012年4月27日 - 30日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")） - 千賀・宮田・二階堂・横尾\[182\]
+  - [銀河英雄伝説 撃墜王](https://ja.wikipedia.org/wiki/銀河英雄伝説#舞台 "wikilink")（2012年8月3日 - 12日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")） - 横尾・二階堂\[183\]\[184\]\[185\]\[186\]
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2012年） "wikilink")（2012年9月、帝国劇場）- 玉森・宮田・千賀\[187\]
   - [銀河英雄伝説 輝く星 闇を裂いて](https://ja.wikipedia.org/wiki/銀河英雄伝説#舞台 "wikilink")（2012年11月15日 - 18日、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールC） - 横尾・二階堂
   - [銀河英雄伝説 第三章 内乱](https://ja.wikipedia.org/wiki/銀河英雄伝説#第三章 "wikilink")（2013年3月31日 - 4月13日、[青山劇場](../Page/青山劇場.md "wikilink")） - 横尾・二階堂
-  - [DREAM BOYS JET](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS_JET "wikilink")（2013年9月、帝国劇場）- 玉森（主演）・千賀・宮田\[185\]
+  - [DREAM BOYS JET](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS_JET "wikilink")（2013年9月、帝国劇場）- 玉森（主演）・千賀・宮田\[188\]
   - [銀河英雄伝説 第四章 後編 激突](https://ja.wikipedia.org/wiki/銀河英雄伝説#.第四章 "wikilink")（2014年2月12日 - 3月2日、青山劇場）- 横尾・二階堂
   - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2014年） "wikilink")（2014年9月、帝国劇場） - 玉森、千賀、宮田
   - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2015年） "wikilink")（2015年9月、帝国劇場） - 玉森・千賀・宮田
@@ -1889,34 +1888,42 @@
 
 ## 連載
 
-  - [講談社](../Page/講談社.md "wikilink")『[VOCE](https://ja.wikipedia.org/wiki/VOCE "wikilink")』「キスマイと過ごす“大人な休日”ダイアリー Sweet Moment」（2020年1月号 - ）\[186\]
+  - [東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")『[週刊TVガイド](../Page/週刊TVガイド.md "wikilink")』「Kissまであと何マイル？」（2011年6/24号 - ）
+  - [集英社](../Page/集英社.md "wikilink")『明星』「Kis-My-Ft2写真館」（2018年11月号 - 2019年5月号）
+  - [ホーム社](https://ja.wikipedia.org/wiki/ホーム社 "wikilink")『duet』
+      - 「Kis-My-Ft2通信」（2011年9月号 - ）
+      - 「キスラジGo\!」（2012年1月号 - ）
+  - [メディアボーイ](https://ja.wikipedia.org/wiki/メディアボーイ "wikilink")『TVfan』「キスちょこ」（2011年9月号 - ）
+  - [学研プラス](https://ja.wikipedia.org/wiki/学研プラス "wikilink")『POTATO』「毎号キスマイゴー‼」（2012年3月号 - ）
+  - [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")『TVstation』「BUSAIKU下剋上\!?」(2014年11号 - ）
+  - [講談社](../Page/講談社.md "wikilink")『[VOCE](https://ja.wikipedia.org/wiki/VOCE "wikilink")』「キスマイと過ごす“大人な休日”ダイアリー Sweet Moment」（2020年1月号 - ）\[189\]
 
 ## 書籍
 
-  - Kis-My-Ft2-1st（撮影：HARUMI YOSHIMURA、2010年10月20日、[ワニブックス](../Page/ワニブックス.md "wikilink")）\[187\] ISBN 978-4-8470-4308-6
-  - 裸の時代（2013年7月19日、[集英社](../Page/集英社.md "wikilink")）\[188\] ISBN 978-4-0878-0678-6
+  - Kis-My-Ft2-1st（撮影：HARUMI YOSHIMURA、2010年10月20日、[ワニブックス](../Page/ワニブックス.md "wikilink")）\[190\] ISBN 978-4-8470-4308-6
+  - 裸の時代（2013年7月19日、[集英社](../Page/集英社.md "wikilink")）\[191\] ISBN 978-4-0878-0678-6
 
 ## 受賞歴
 
 **2012年**
 
-  - 第26回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") / ニュー・アーティスト・オブ・ザ・イヤー邦楽部門\[189\]
+  - 第26回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") / ニュー・アーティスト・オブ・ザ・イヤー邦楽部門\[192\]
 
 ## Kis-My-Ft.
 
 **Kis-My-Ft.**（キスマイフット）は、Kis-My-Ft2の前身となるユニットである。
 
-2004年4月に結成\[190\]。。当時メンバーには、[NEWSとしてデビューしていた](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[増田貴久](../Page/増田貴久.md "wikilink")が頭文字「M」として参加していたこともある\[191\]。ローラースケートでのパフォーマンスが主であり、そのスタイルはKis-My-Ft2に受け継がれていく。
+2004年4月に結成\[193\]。当時メンバーには、[NEWSとしてデビューしていた](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[増田貴久](../Page/増田貴久.md "wikilink")が頭文字「M」として参加していたこともある\[194\]。ローラースケートでのパフォーマンスが主であり、そのスタイルはKis-My-Ft2に受け継がれていく。
 
 ### メンバー
 
-  - 『duet』2004年6月号発売時\[192\]
+  - 『duet』2004年6月号発売時\[195\]
 
 :\* [増田貴久](../Page/増田貴久.md "wikilink")・北山宏光・藤ヶ谷太輔・横尾渉・飯田恭平
 
   -
 
-  - 『duet』2004年7月号発売時\[193\]
+  - 『duet』2004年7月号発売時\[196\]
 
 :\* 北山宏光・藤ヶ谷太輔・横尾渉・飯田恭平
 
@@ -2019,21 +2026,21 @@
 77.
 78.
 79.
-80. [Kis-My-Ft2のシングル作品](https://www.oricon.co.jp/prof/427628/products/single/). オリコン. (n.d.) 2019年2月17日閲覧
+80.
 81.
 82.
-83.
+83. [Kis-My-Ft2のシングル作品](https://www.oricon.co.jp/prof/427628/products/single/). オリコン. (n.d.) 2019年2月17日閲覧
 84.
 85.
 86.
 87.
 88.
-89. [Kis-My-Ft2のアルバム](https://www.oricon.co.jp/prof/427628/products/album/). オリコン (n.d.) 2019年2月17日閲覧。
-90. [Kis-My-Ft2のDVD作品](https://www.oricon.co.jp/prof/427628/products/dvd/). オリコン. (n.d.) 2019年2月17日閲覧。
-91. [Kis-My-Ft2のBlu-ray作品](https://www.oricon.co.jp/prof/427628/products/blu-ray/). オリコン. (n.d.) 2019年2月17日閲覧。
-92.
-93.
-94.
+89.
+90.
+91.
+92. [Kis-My-Ft2のアルバム](https://www.oricon.co.jp/prof/427628/products/album/). オリコン (n.d.) 2019年2月17日閲覧。
+93. [Kis-My-Ft2のDVD作品](https://www.oricon.co.jp/prof/427628/products/dvd/). オリコン. (n.d.) 2019年2月17日閲覧。
+94. [Kis-My-Ft2のBlu-ray作品](https://www.oricon.co.jp/prof/427628/products/blu-ray/). オリコン. (n.d.) 2019年2月17日閲覧。
 95.
 96.
 97.
@@ -2072,10 +2079,10 @@
 130.
 131.
 132.
-133. 番組自体は2012年1月12日より開始。
+133.
 134.
 135.
-136.
+136. 番組自体は2012年1月12日より開始。
 137.
 138.
 139.
@@ -2091,10 +2098,10 @@
 149.
 150.
 151.
-152. [キスマイ、一番蚊に刺されやすいのは…！？ 北山、宮田に「虫に刺され顔だよね」](https://tvfan.kyodo.co.jp/news/topics/1049878). エンタメOVO (2016年5月13日) 2018年3月14日閲覧。
+152.
 153.
 154.
-155.
+155. [キスマイ、一番蚊に刺されやすいのは…！？ 北山、宮田に「虫に刺され顔だよね」](https://tvfan.kyodo.co.jp/news/topics/1049878). エンタメOVO (2016年5月13日) 2018年3月14日閲覧。
 156.
 157.
 158.
@@ -2133,3 +2140,6 @@
 191.
 192.
 193.
+194.
+195.
+196.

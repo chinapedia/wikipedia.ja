@@ -1,4 +1,4 @@
-> この記事は[POP \(\)](https://ja.wikipedia.org/wiki/POP_\(\))から翻訳されています。
+> この記事は[POP \(イラストレーター\)](https://ja.wikipedia.org/wiki/POP_\(イラストレーター\))から翻訳されています。
 
 
 **POP**（ぽっぷ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")。代表作に実用書『[もえたん](../Page/もえたん.md "wikilink")』シリーズ・絵本『POP WONDERLAND 赤ずきん』挿絵、ゲーム『ラヴニーの絵本』原画の担当などがある\[1\]。

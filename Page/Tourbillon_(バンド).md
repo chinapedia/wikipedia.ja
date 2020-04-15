@@ -1,4 +1,4 @@
-> この記事は[Tourbillon \(\)](https://ja.wikipedia.org/wiki/Tourbillon_\(\))から翻訳されています。
+> この記事は[Tourbillon \(バンド\)](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\))から翻訳されています。
 
 
 **Tourbillon**（トゥールビヨン）は、RYUICHI、INORAN、H.Hayamaの3人からなる日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。

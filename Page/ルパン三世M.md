@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[ルパン三世M](https://ja.wikipedia.org/wiki/ルパン三世M)から翻訳されています。
 
 
 『**ルパン三世M**』（ルパンさんせいエム）とは、[2004年](../Page/2004年.md "wikilink")から[2013年](../Page/2013年.md "wikilink")まで『[ルパン三世officialマガジン](../Page/ルパン三世officialマガジン.md "wikilink")』で連載された漫画作品である。[深山雪男](https://ja.wikipedia.org/wiki/深山雪男 "wikilink")作画、[飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")ストーリー監修、[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")監修、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")原作、主な脚本者は初期の頃は[柏原寛司](../Page/柏原寛司.md "wikilink")などTVスペシャルに携わった人物が目立ったが、TVスペシャルに携わった事のない[安部陽子](https://ja.wikipedia.org/wiki/安部陽子 "wikilink")などが、そして作画担当の深山が自ら担当することが多くなった。

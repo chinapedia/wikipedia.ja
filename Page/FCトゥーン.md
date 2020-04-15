@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCトゥーン](https://ja.wikipedia.org/wiki/FCトゥーン)から翻訳されています。
 
 
 **FCトゥーン1898**（）は[スイス](../Page/スイス.md "wikilink")中西部、[ベルン州](../Page/ベルン州.md "wikilink")の自治体[トゥーン](../Page/トゥーン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[佐藤B作](https://ja.wikipedia.org/wiki/佐藤B作)から翻訳されています。
 
 
 **佐藤 B作**（さとう ビーさく、本名：**佐藤 俊夫**（さとう としお）、[1949年](../Page/1949年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。

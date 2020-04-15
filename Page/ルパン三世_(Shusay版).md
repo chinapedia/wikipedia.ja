@@ -1,4 +1,4 @@
-> この記事は[ \(Shusay\)](https://ja.wikipedia.org/wiki/_\(Shusay\))から翻訳されています。
+> この記事は[ルパン三世 \(Shusay版\)](https://ja.wikipedia.org/wiki/ルパン三世_\(Shusay版\))から翻訳されています。
 
 
 『**ルパン三世**』（ルパンさんせい）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に『[週刊Weekly漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")』に連載された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[Shusay作画](https://ja.wikipedia.org/wiki/山本修生 "wikilink")、[高口里純](../Page/高口里純.md "wikilink")脚本、[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")監修。[1981年](../Page/1981年.md "wikilink")に連載終了した『[新ルパン三世](../Page/新ルパン三世.md "wikilink")』以来の連載で、『[ルパン三世Y](../Page/ルパン三世Y.md "wikilink")』をはじめとする「**平成の漫画版ルパン三世**」の先駆け的な作品でもある。単行本は全1巻。

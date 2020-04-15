@@ -1,4 +1,4 @@
-> この記事は[ElGamal](https://ja.wikipedia.org/wiki/ElGamal)から翻訳されています。
+> この記事は[ElGamal暗号](https://ja.wikipedia.org/wiki/ElGamal暗号)から翻訳されています。
 
 
 **ElGamal暗号**（エルガマルあんごう、ElGamal encryption）とは、[位数](../Page/位数.md "wikilink")が大きな群の[離散対数](../Page/離散対数.md "wikilink")問題が困難であることを安全性の根拠とした[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の一つである。1984年[Taher Elgamalが発表した](https://ja.wikipedia.org/wiki/:en:Taher_Elgamal "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RE-5](https://ja.wikipedia.org/wiki/RE-5)から翻訳されています。
+> この記事は[スズキ・RE-5](https://ja.wikipedia.org/wiki/スズキ・RE-5)から翻訳されています。
 
 
 **RE-5**（アールイー-ファイブ）とは、[スズキ株式会社](../Page/スズキ_\(企業\).md "wikilink")（当時の社名は「鈴木自動車工業株式会社」）が[1973年](../Page/1973年.md "wikilink")に発表し、翌年より日本国外への[輸出](https://ja.wikipedia.org/wiki/輸出 "wikilink")が開始された[オートバイ](../Page/オートバイ.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")製の自動二輪車で唯一市販化が実現した、[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")搭載モデルである。

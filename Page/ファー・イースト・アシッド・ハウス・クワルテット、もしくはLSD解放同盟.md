@@ -1,4 +1,4 @@
-> この記事は[LSD](https://ja.wikipedia.org/wiki/LSD)から翻訳されています。
+> この記事は[ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟](https://ja.wikipedia.org/wiki/ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟)から翻訳されています。
 
 
 **ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟**（Far East Acid House Quartet, Otherwise the LSD Liberation Front）は日本の[レイヴ音楽グループ](../Page/レイブ_\(音楽\).md "wikilink")。おもに[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")ので活動し、[サイケデリックトランス](../Page/サイケデリックトランス.md "wikilink")や[野外レイヴの草分けとも見なされた](../Page/レイブ_\(音楽\).md "wikilink")。通称は「**ファー・イースト・アシッド・ハウス・クワルテット**（Far East Acid House Quartet）」。
@@ -15,7 +15,7 @@
   - [1989年](../Page/1989年.md "wikilink")、[LSDや](../Page/LSD_\(薬物\).md "wikilink")[メスカリン](../Page/メスカリン.md "wikilink")などの[サイケデリック・ドラッグに影響を受けたファースト](../Page/幻覚剤.md "wikilink")・アルバム『十億の神経の針（A Billion Nerve Needles）』を、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のレーベル、 Nerve Nets Records より発表。
   - [1988年](../Page/1988年.md "wikilink")、日本に帰国後、国内初と推定される野外のレイヴ・パーティをおこなう。以後、ヨーロッパや日本の各地で「レイヴ・ビー・イン（Rave Be-in）」と題する、野外レイヴ・シリーズを先駆的に行った。
   - [1993年](../Page/1993年.md "wikilink")以後は[クラブ](../Page/クラブ.md "wikilink")出演等の公のライブ活動を停止、勢いを失った。
-  - 「ファー・イースト」の活動においてはトラブルも多く、[1994年](../Page/1994年.md "wikilink")以降は、メンバーの逮捕、堕落や死によって活動自体が困難になっていった。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には市川カヲルが死去、さらに[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には田嶋エリサが[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")の[オーバードース](../Page/オーバードース.md "wikilink")により死亡するという悲劇的な顛末を迎え、これがバンド解散へとつながった。バンドは合計6枚のアルバムを残した。「ファー・イースト」の四人のメンバーのうち、他の三人は死亡したり引退しているため、芙苑晶のみが唯一の現役アーティストである。
+  - 「ファー・イースト」の活動においてはトラブルも多く、[1994年](../Page/1994年.md "wikilink")以降は、メンバーの逮捕、堕落や死によって活動自体が困難になっていった。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には市川カヲルが死去、さらに[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には田嶋エリサが[ドラッグ](../Page/ドラッグ.md "wikilink")の[オーバードース](../Page/オーバードース.md "wikilink")により死亡するという悲劇的な顛末を迎え、これがバンド解散へとつながった。バンドは合計6枚のアルバムを残した。「ファー・イースト」の四人のメンバーのうち、他の三人は死亡したり引退しているため、芙苑晶のみが唯一の現役アーティストである。
 
 ## 解散後の出来事
 

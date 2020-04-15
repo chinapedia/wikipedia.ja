@@ -1,4 +1,4 @@
-> この記事は[DFV](https://ja.wikipedia.org/wiki/DFV)から翻訳されています。
+> この記事は[フォード・コスワース・DFVエンジン](https://ja.wikipedia.org/wiki/フォード・コスワース・DFVエンジン)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:Circa_1980_Cosworth_DFV_at_Rahmi_M._Koç_Müzesi.jpg "wikilink") [right](https://ja.wikipedia.org/wiki/ファイル:Ford_F3L_\(1968\).ogg "wikilink") **フォード・コスワース・DFVエンジン**（*Ford cosworth DFV engine* ）は、[コスワース](../Page/コスワース.md "wikilink")によって開発・設計されたレーシングエンジンであり、そのF1での活躍は通算155勝という空前で（2018年現在）絶後の成績をモータースポーツ史に残している。フォードからの主に開発費などの支援により「フォード・コスワース」と2つの名前を冠している。F1で一線を退いてからも[F3000用のエンジンとしてさらに活躍した](../Page/フォーミュラ3000.md "wikilink")。

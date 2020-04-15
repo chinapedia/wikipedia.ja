@@ -1,4 +1,4 @@
-> この記事は[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360)から翻訳されています。
+> この記事は[Xbox 360のゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧)から翻訳されています。
 
 
 **Xbox 360のゲームタイトル一覧**（エックスボックスさんろくまるのゲームタイトルいちらん）では、[Xbox 360対応として](../Page/Xbox_360.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で**発売された**[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する。

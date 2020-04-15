@@ -1,4 +1,4 @@
-> この記事は[Bug](https://ja.wikipedia.org/wiki/Bug)から翻訳されています。
+> この記事は[Bugってハニー](https://ja.wikipedia.org/wiki/Bugってハニー)から翻訳されています。
 
 
 『**Bugってハニー**』（バグってハニー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列他にて放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビアニメ](../Page/アニメ.md "wikilink")。全51話。
@@ -58,7 +58,7 @@
 ## スタッフ
 
   - 原案 - 岡かすみ、竹部隆司
-  - [プロデューサー](../Page/プロデューサー.md "wikilink") - [加藤俊三](../Page/加藤俊三.md "wikilink")（[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")）、武井英彦、垂水保貴（[NTV](../Page/日本テレビ放送網.md "wikilink")）、亀山泰夫（[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink")）
+  - [プロデューサー](../Page/プロデューサー.md "wikilink") - [加藤俊三](../Page/加藤俊三.md "wikilink")（[東京ムービー新社](https://ja.wikipedia.org/wiki/東京ムービー新社 "wikilink")）、武井英彦、垂水保貴（[NTV](../Page/日本テレビ放送網.md "wikilink")）、亀山泰夫（[旭通信社](../Page/ADKホールディングス.md "wikilink")）
   - 音楽 - [筒井広志](../Page/筒井広志.md "wikilink")、稲川徹
   - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [前田実](../Page/前田実.md "wikilink")
   - 作画監督 - [香西隆男](../Page/香西隆男.md "wikilink")

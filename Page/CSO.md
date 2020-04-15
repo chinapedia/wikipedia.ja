@@ -19,6 +19,8 @@
 
   - [最高記憶媒体管理責任者](https://ja.wikipedia.org/wiki/最高記憶媒体管理責任者 "wikilink") (chief storage officer)
 
+  - [チーフストーリーテリングオフィサー](https://ja.wikipedia.org/wiki/チーフストーリーテリングオフィサー "wikilink") (chief storytelling officer)※いまだ日本では数少ないと言われている
+
 ## 交響楽団
 
   - (Canberra Symphony Orchestra)

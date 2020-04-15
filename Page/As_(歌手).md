@@ -1,4 +1,4 @@
-> この記事は[As \(\)](https://ja.wikipedia.org/wiki/As_\(\))から翻訳されています。
+> この記事は[As \(歌手\)](https://ja.wikipedia.org/wiki/As_\(歌手\))から翻訳されています。
 
 
 **as**（あす、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。本名:小池 珠美（こいけ たまみ）。[東京都](../Page/東京都.md "wikilink")出身。[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")、元[ダブルウィング](https://ja.wikipedia.org/wiki/ダブルウィング "wikilink")所属。血液型A型。
@@ -63,8 +63,10 @@
 ## 外部リンク
 
   - [アス・オフィシャルブログ](http://blog.livedoor.jp/as_as_net/)
-  - [asのおでかけ日記](http://blog.oricon.co.jp/as-as/)
+
+  -
   - [TAMAMI OFFICIAL WEB](http://tamami-tamami.syncl.jp/)
+
   - [TAMAMIオフィシャルブログ](https://ameblo.jp/tamamiofficial/)
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:2011年没](https://ja.wikipedia.org/wiki/Category:2011年没 "wikilink")

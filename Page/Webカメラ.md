@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Webカメラ](https://ja.wikipedia.org/wiki/Webカメラ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Logitech_QuickCam_Messenger_V-UAS14.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Axis_network_webcam.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:MacBook_white.png "wikilink") **カメラ**（ウェブカメラ）は、[WWW](../Page/World_Wide_Web.md "wikilink")、[インスタントメッセージ](../Page/インスタントメッセージ.md "wikilink")、PCビデオ等を使用して、撮影された画像にアクセスできる[リアルタイム](../Page/リアルタイム.md "wikilink")[カメラのこと](https://ja.wikipedia.org/wiki/デジタルビデオカメラ "wikilink")。広義には**ライブカメラ**（生中継カメラ）一般を指す。一般的に、撮影された画像は、リアルタイム、または一定間隔で保存される。PCに接続しリアルタイム画像転送の可能な[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")、[IEEE 1394等の](../Page/IEEE_1394.md "wikilink")[インタフェースを持ったカメラを指すほか](../Page/インタフェース_\(情報技術\).md "wikilink")、ネットワークインタフェースを持ち、WWWでアクセス可能なカメラのついた組み込み機器（[ネットワークカメラ](../Page/ネットワークカメラ.md "wikilink")）を含むこともある。
@@ -32,6 +32,10 @@
 
   -
   -
+  - [FaceRig](https://ja.wikipedia.org/wiki/FaceRig "wikilink")
+
+  - [Live2d](https://ja.wikipedia.org/wiki/Live2d "wikilink")
+
   - [ビデオカメラ](../Page/ビデオカメラ.md "wikilink")
 
   - [ストリーミング](../Page/ストリーミング.md "wikilink")

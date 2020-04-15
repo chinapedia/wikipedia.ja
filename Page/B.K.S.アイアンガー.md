@@ -1,4 +1,4 @@
-> この記事は[B.K.S.](https://ja.wikipedia.org/wiki/B.K.S.)から翻訳されています。
+> この記事は[B.K.S.アイアンガー](https://ja.wikipedia.org/wiki/B.K.S.アイアンガー)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/画像:BKS_Iyengar.jpg "wikilink") **B.K.S.アイアンガー**（B.K.S. Iyengar、Bellur Krishnamachar Sundararaja Iyengar、[1918年](../Page/1918年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")\[1\]）は、[インド](../Page/インド.md "wikilink")の人物で、アイアンガーヨーガの創始者。

@@ -1,4 +1,4 @@
-> この記事は[JUNK2 !](https://ja.wikipedia.org/wiki/JUNK2_!)から翻訳されています。
+> この記事は[金曜JUNK2 原口・はなわの角っ歯!](https://ja.wikipedia.org/wiki/金曜JUNK2_原口・はなわの角っ歯!)から翻訳されています。
 
 
 **金曜JUNK2 原口・はなわの角っ歯\!**（**きんようジャンクツー はらぐち - つの - ぱ**）は、[2005年](../Page/2005年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[TBSラジオで放送された](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[原口あきまさ](../Page/原口あきまさ.md "wikilink")と[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

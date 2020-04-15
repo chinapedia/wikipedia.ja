@@ -1,4 +1,4 @@
-> この記事は[BEAST](https://ja.wikipedia.org/wiki/BEAST)から翻訳されています。
+> この記事は[ロックマンエグゼBEAST](https://ja.wikipedia.org/wiki/ロックマンエグゼBEAST)から翻訳されています。
 
 
 『**ロックマンエグゼBEAST**』（ロックマンエグゼ ビースト）は、[カプコン](../Page/カプコン.md "wikilink")のゲームソフト『[ロックマンエグゼシリーズ](../Page/ロックマンエグゼシリーズ.md "wikilink")』を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[デジタル・デビル物語 女神転生II](https://ja.wikipedia.org/wiki/デジタル・デビル物語_女神転生II)から翻訳されています。
 
 
 『**デジタル・デビル物語 女神転生II**』（デジタル・デビル・ストーリー めがみてんせい2）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")に日本の[ナムコから発売された](../Page/バンダイナムコエンターテインメント.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。「ナムコット ファミリーコンピュータゲームシリーズ」第67弾。

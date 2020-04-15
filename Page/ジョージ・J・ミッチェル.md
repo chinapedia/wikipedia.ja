@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ジョージ・J・ミッチェル](https://ja.wikipedia.org/wiki/ジョージ・J・ミッチェル)から翻訳されています。
 
 
 **ジョージ・ジョン・ミッチェル・ジュニア**（、[1933年](../Page/1933年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") - ） は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")、[実業家](../Page/実業家.md "wikilink")、[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")。[合衆国上院議員](https://ja.wikipedia.org/wiki/アメリカ合衆国上院議員一覧 "wikilink")（[メイン州](../Page/メイン州.md "wikilink")選出、[民主党](../Page/民主党_\(アメリカ\).md "wikilink")、1980年 - 1995年）。上院では[多数党院内総務](../Page/院内総務_\(アメリカ\).md "wikilink")（1989年 - 1995年）を務めた。[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")の取締役会会長（2004年 - 2007年）。[マロン典礼カトリック教会](../Page/マロン典礼カトリック教会.md "wikilink")の信徒\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[EAST ENDYURI](https://ja.wikipedia.org/wiki/EAST_ENDYURI)から翻訳されています。
+> この記事は[EAST END×YURI](https://ja.wikipedia.org/wiki/EAST_END×YURI)から翻訳されています。
 
 
 **EAST END×YURI**（イーストエンド プラス ユリ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。

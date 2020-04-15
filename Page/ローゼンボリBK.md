@@ -1,4 +1,4 @@
-> この記事は[BK](https://ja.wikipedia.org/wiki/BK)から翻訳されています。
+> この記事は[ローゼンボリBK](https://ja.wikipedia.org/wiki/ローゼンボリBK)から翻訳されています。
 
 
 **ローゼンボリ・バルクルブ**（）は、[ノルウェー](../Page/ノルウェー.md "wikilink")中部、[ソール・トロンデラーグ県](../Page/ソール・トロンデラーグ県.md "wikilink")の都市[トロンハイム](../Page/トロンハイム.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。名称はトロンハイムの一地区名で、「エローセンボリギ」のように[発音](https://ja.wikipedia.org/wiki/発音 "wikilink")する。
@@ -97,9 +97,11 @@
 
 ## 現所属メンバー
 
-  - \[1\]\[2\]
+**\[1\]       ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+### ローン移籍
+
+  - out
 
 ## 歴代監督
 
@@ -119,9 +121,9 @@
 
   - [ペル・ヨアル・ハンセン](https://ja.wikipedia.org/wiki/ペル・ヨアル・ハンセン "wikilink") 2012-2014
 
-  - [コーレ・インゲブリクトセン](https://ja.wikipedia.org/wiki/コーレ・インゲブリクトセン "wikilink") 2014-
+  - [コーレ・インゲブリクトセン](https://ja.wikipedia.org/wiki/コーレ・インゲブリクトセン "wikilink") 2014-2018
 
-出典\[3\]
+出典\[2\]
 
 ## 歴代所属選手
 
@@ -141,8 +143,6 @@
 
 ## 脚注
 
-<references/>
-
 ## 外部リンク
 
   - [公式サイト](http://www.rbk.no/)（ノルウェー語）
@@ -152,4 +152,3 @@
 
 1.
 2.
-3.

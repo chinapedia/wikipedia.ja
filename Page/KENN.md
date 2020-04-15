@@ -237,7 +237,7 @@
   - [ライト/オフ](https://ja.wikipedia.org/wiki/ライト/オフ "wikilink")（2016年、ブレット〈アレクサンダー・ディペルシア〉）
   - [ジュマンジ/ウェルカム・トゥ・ジャングル](https://ja.wikipedia.org/wiki/ジュマンジ/ウェルカム・トゥ・ジャングル "wikilink")（2018年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[84\]）
   - [レディ・プレイヤー1](https://ja.wikipedia.org/wiki/レディ・プレイヤー1 "wikilink")（2018年、**ウェイド・オーウェン・ワッツ / パーシヴァル**〈[タイ・シェリダン](https://ja.wikipedia.org/wiki/タイ・シェリダン "wikilink")〉\[85\]）
-  - [それだけが、僕の世界](https://ja.wikipedia.org/wiki/それだけが、僕の世界 "wikilink")（2019年、**ジンテ**〈[パク・ジョンミン](https://ja.wikipedia.org/wiki/パク・ジョンミン "wikilink")〉）
+  - [それだけが、僕の世界](https://ja.wikipedia.org/wiki/それだけが、僕の世界 "wikilink")（2019年、**ジンテ**〈[パク・ジョンミン](../Page/パク・ジョンミン_\(俳優\).md "wikilink")〉）
   - [女王陛下のお気に入り](https://ja.wikipedia.org/wiki/女王陛下のお気に入り "wikilink")（2019年、マシャム大佐〈ジョー・アルウィン〉）
   - [ジュマンジ/ネクスト・レベル](https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル "wikilink")（2019年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[86\]）
   - [ナイト・オブ・シャドー 魔法拳](https://ja.wikipedia.org/wiki/ナイト・オブ・シャドー_魔法拳 "wikilink")（2020年、ヤンフェイ〈リン・ボーホン〉\[87\]）
@@ -290,6 +290,7 @@
   - [斗々丸・金春の喧嘩番長 乙女 とことんトトコンラジオ](https://ja.wikipedia.org/wiki/喧嘩番長_乙女#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")（2016年、音泉※、[アニメイトタイムズ](../Page/アニメイトタイムズ.md "wikilink")※）\[95\]
   - [将国のアルタイル〜トルキエ放送局〜](https://ja.wikipedia.org/wiki/将国のアルタイル#Webラジオ "wikilink")（2017年 - 2018年、音泉※）\[96\]
   - 知りたいことが多すぎるKENN（2017年 - 2018年、音泉※）\[97\]
+  - KENN's Re-Recognition Program（2019年、[マンガPark](https://ja.wikipedia.org/wiki/マンガPark "wikilink")※）
 
 ### ラジオCD
 
@@ -2616,6 +2617,13 @@
 <td></td>
 <td><p>「マジカル LOVE ポーション！」</p></td>
 <td><p>ゲーム『アイ★チュウ Étoile Stage』主題歌</p></td>
+</tr>
+<tr class="even">
+<td><p>6月26日</p></td>
+<td><p>Paint It Black</p></td>
+<td></td>
+<td><p>「Paint It Black」</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ツキウタ。_THE_ANIMATION2" title="wikilink">ツキウタ。 THE ANIMATION2</a>』オープニングテーマ</p></td>
 </tr>
 </tbody>
 </table>

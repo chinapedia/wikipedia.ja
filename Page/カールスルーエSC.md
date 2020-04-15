@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[カールスルーエSC](https://ja.wikipedia.org/wiki/カールスルーエSC)から翻訳されています。
 
 
 **カールスルーエSC**（**Karlsruher SC**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")・[カールスルーエ](https://ja.wikipedia.org/wiki/カールスルーエ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[オリバー・カーン](../Page/オリバー・カーン.md "wikilink")が最初に所属したクラブ。日本人のサッカー選手では、2014年から2017年にかけて、[山田大記](https://ja.wikipedia.org/wiki/山田大記 "wikilink")が背番号10（当初は9)でプレーしていた。

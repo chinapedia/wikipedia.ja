@@ -1,4 +1,4 @@
-> この記事は[UMK](https://ja.wikipedia.org/wiki/UMK)から翻訳されています。
+> この記事は[UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース)から翻訳されています。
 
 
 『**UMKニュース**』（ユーエムケーニュース）は、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")で放送されている[ローカルニュース番組である](../Page/報道番組.md "wikilink")。
@@ -168,5 +168,5 @@
 [Category:1970年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1970年のテレビ番組_\(日本\) "wikilink") [Category:テレビ宮崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ宮崎の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのミニ番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink") [Category:FNNニュース6:30](https://ja.wikipedia.org/wiki/Category:FNNニュース6:30 "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink") [Category:FNNレインボー発](https://ja.wikipedia.org/wiki/Category:FNNレインボー発 "wikilink")
 
 1.  『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送時には6:45から時差放送。
-2.  ただし、毎年1月1日～3日・東京マラソン放送日・名古屋ウィメンズマラソン放送日・FNSの日の放送の日曜日・毎年11月の第一日曜日・毎年12月30日は放送休止。
+2.  ただし、毎年1月1日～3日・東京マラソン放送日・名古屋ウィメンズマラソン放送日・FNSの日の放送の日曜日・毎年11月の第一日曜日・毎年12月30日は放送休止。この他特別編成等により休止する場合あり。
 3.  2011年7月24日には地上デジタル放送完全移行を目前にした内容だったことから、『ANNニュース』の放送は休止された。

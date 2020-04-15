@@ -1,4 +1,4 @@
-> この記事は[Squid \(\)](https://ja.wikipedia.org/wiki/Squid_\(\))から翻訳されています。
+> この記事は[Squid \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Squid_\(ソフトウェア\))から翻訳されています。
 
 
 **Squid**（スクウィッド）は[プロキシ](../Page/プロキシ.md "wikilink") (Proxy) [サーバ](../Page/サーバ.md "wikilink")、ウェブキャッシュサーバなどに利用される[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")。[GPLでライセンスされている](../Page/GNU_General_Public_License.md "wikilink")。 Squidの用途は、重複リクエストに対したキャッシュ応答によるウェブサーバの高速化や、ネットワーク資源を共有する人々が行う[World Wide Webや](../Page/World_Wide_Web.md "wikilink")[DNSなどの様々な](../Page/Domain_Name_System.md "wikilink")[ネットワーククエリのキャッシュなど](../Page/コンピュータネットワーク.md "wikilink")、多岐にわたる。元来は[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")系のコンピュータで動作させる目的で設計されている。

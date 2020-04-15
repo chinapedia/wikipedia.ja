@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSレコード](https://ja.wikipedia.org/wiki/CBSレコード)から翻訳されています。
 
 
 **CBSレコード**（**CBS Records**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[レコード会社](../Page/レコード会社.md "wikilink")。

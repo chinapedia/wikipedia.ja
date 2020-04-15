@@ -1,4 +1,4 @@
-> この記事は[  IV ](https://ja.wikipedia.org/wiki/__IV_)から翻訳されています。
+> この記事は[ブレス オブ ファイアIV うつろわざるもの](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイアIV_うつろわざるもの)から翻訳されています。
 
 
 『**ブレス オブ ファイアIV うつろわざるもの**』（ブレス オブ ファイア フォー うつろわざるもの）は、[カプコン](../Page/カプコン.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売した[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")である。[ブレス オブ ファイアシリーズの通算](../Page/ブレス_オブ_ファイア.md "wikilink")4作目となる。

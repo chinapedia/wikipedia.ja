@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[放射能X](https://ja.wikipedia.org/wiki/放射能X)から翻訳されています。
 
 
 『**放射能X**』（ほうしゃのうエックス、原題：*Them\!*）は、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")社製作の[モンスター](https://ja.wikipedia.org/wiki/怪物 "wikilink")[映画](../Page/映画.md "wikilink")。1954年、公開。

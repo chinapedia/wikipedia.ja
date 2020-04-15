@@ -1,7 +1,7 @@
-> この記事は[MORNING CUBESATURDAY NETWORK](https://ja.wikipedia.org/wiki/MORNING_CUBESATURDAY_NETWORK)から翻訳されています。
+> この記事は[MORNING CUBE〜SATURDAY NETWORK〜](https://ja.wikipedia.org/wiki/MORNING_CUBE〜SATURDAY_NETWORK〜)から翻訳されています。
 
 
-**MORNING CUBE〜SATURDAY NETWORK〜**（モーニング・キューブ〜サタデー・ネットワーク〜）は、[JFN発全国向けネット番組で](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")、1984年スタートから13年半続いた『[FMさわやかスタジオ](https://ja.wikipedia.org/wiki/FMさわやかスタジオ "wikilink")〜土曜日です』を引き継ぎ、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2002年](../Page/2002年.md "wikilink")3月まで放送された。放送時間は[土曜日](../Page/土曜日.md "wikilink")の6:00〜8:55。司会は[伊津野亮](../Page/伊津野亮.md "wikilink")。アシスタントは、初代は[中田美香](../Page/中田美香.md "wikilink")、2代目は[荒川れん子](../Page/荒川れん子.md "wikilink")だった。伊津野は1992年から『さわやかスタジオ』を担当しており、2009年までの17年半にわたって土曜朝の声を務めている。
+**MORNING CUBE〜SATURDAY NETWORK〜**（モーニング・キューブ〜サタデー・ネットワーク〜）は、[JFN発全国向けネット番組で](../Page/全国FM放送協議会.md "wikilink")、1984年スタートから13年半続いた『[FMさわやかスタジオ](https://ja.wikipedia.org/wiki/FMさわやかスタジオ "wikilink")〜土曜日です』を引き継ぎ、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2002年](../Page/2002年.md "wikilink")3月まで放送された。放送時間は[土曜日](../Page/土曜日.md "wikilink")の6:00〜8:55。司会は[伊津野亮](../Page/伊津野亮.md "wikilink")。アシスタントは、初代は[中田美香](../Page/中田美香.md "wikilink")、2代目は[荒川れん子](../Page/荒川れん子.md "wikilink")だった。伊津野は1992年から『さわやかスタジオ』を担当しており、2009年までの17年半にわたって土曜朝の声を務めている。
 その後、この枠は[RADIO JAPANが放送されている](../Page/RADIO_JAPAN.md "wikilink")。
 
 番組内や[ステッカーでは専ら](https://ja.wikipedia.org/wiki/ジングル "wikilink")「MORNING CUBE」と呼ばれており、「〜SATURDAY NETWORK〜」がついていたのは放送局発行のタイムテーブルのみだった。

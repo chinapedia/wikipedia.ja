@@ -1,4 +1,4 @@
-> この記事は[AZ-](https://ja.wikipedia.org/wiki/AZ-)から翻訳されています。
+> この記事は[マツダ・AZ-オフロード](https://ja.wikipedia.org/wiki/マツダ・AZ-オフロード)から翻訳されています。
 
 
 **AZ-オフロード**（*AZ-OFFROAD*）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が[販売](../Page/販売.md "wikilink")していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")枠のクロスカントリー4WDモデル。[スズキ](../Page/スズキ_\(企業\).md "wikilink")・[ジムニーの](../Page/スズキ・ジムニー.md "wikilink")[OEM](../Page/OEM.md "wikilink")版。

@@ -1,4 +1,4 @@
-> この記事は[ZZ](https://ja.wikipedia.org/wiki/ZZ)から翻訳されています。
+> この記事は[スズキ・ZZ](https://ja.wikipedia.org/wiki/スズキ・ZZ)から翻訳されています。
 
 
 **ZZ**（ジーツー）とは、かつて[スズキが製造販売していた](../Page/スズキ_\(企業\).md "wikilink")[原付](../Page/原動機付自転車.md "wikilink")[スクーター](../Page/スクーター.md "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。なお本項では先代車種にあたる**セピアZZ**（セピア ズィーツー）についても解説する。

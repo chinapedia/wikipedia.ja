@@ -1,4 +1,4 @@
-> この記事は[RSC](https://ja.wikipedia.org/wiki/RSC)から翻訳されています。
+> この記事は[RSCアンデルレヒト](https://ja.wikipedia.org/wiki/RSCアンデルレヒト)から翻訳されています。
 
 
 **ロイヤル・スポルティング・クラブ・アンデルレヒト** () は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[ブリュッセル首都圏地域](https://ja.wikipedia.org/wiki/ブリュッセル首都圏地域 "wikilink")・[アンデルレヒト](../Page/アンデルレヒト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

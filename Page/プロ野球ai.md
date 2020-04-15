@@ -1,4 +1,4 @@
-> この記事は[ai](https://ja.wikipedia.org/wiki/ai)から翻訳されています。
+> この記事は[プロ野球ai](https://ja.wikipedia.org/wiki/プロ野球ai)から翻訳されています。
 
 
 **プロ野球ai**（プロやきゅうあい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")[専門誌](https://ja.wikipedia.org/wiki/専門誌 "wikilink")。主に若手選手を中心に[インタビュー](../Page/インタビュー.md "wikilink")や独自調査したランキングを掲載している。[1988年](../Page/1988年.md "wikilink")に季刊誌として発行された。[2017年](../Page/2017年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")、[3月2日](../Page/3月2日.md "wikilink")に発売した2017年4月号をもって休刊した\[1\]が、2018年4月号より株式会社ミライカナイが譲渡を受け復刊することが発表された\[2\]。なお、当面は年4回の発行となることも併せて発表された。

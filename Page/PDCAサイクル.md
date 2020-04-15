@@ -1,4 +1,4 @@
-> この記事は[PDCA](https://ja.wikipedia.org/wiki/PDCA)から翻訳されています。
+> この記事は[PDCAサイクル](https://ja.wikipedia.org/wiki/PDCAサイクル)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PDCA_Cycle.svg "wikilink") **PDCAサイクル**（PDCA cycle、plan-do-check-act cycle）は、生産技術における[品質管理](../Page/品質管理.md "wikilink")などの継続的改善手法。Plan（[計画](../Page/計画.md "wikilink")）→ Do（実行）→ Check（[評価](../Page/評価.md "wikilink")）→ Act（[改善](https://ja.wikipedia.org/wiki/改善 "wikilink")）の 4段階を繰り返すことによって、業務を継続的に改善する。PDCAサイクルは、主に日本で使われ、Aのみが名詞のActionといわれる。

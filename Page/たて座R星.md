@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[たて座R星](https://ja.wikipedia.org/wiki/たて座R星)から翻訳されています。
 
 
 **たて座R星**（たてざあーるせい）は、[たて座](../Page/たて座.md "wikilink")にある[おうし座](../Page/おうし座.md "wikilink")RV型の[脈動変光星](../Page/脈動変光星.md "wikilink")である。学名はR Scuti（略称はR Sct）。ほぼ全周期[双眼鏡](../Page/双眼鏡.md "wikilink")で観測できるので、[変光星](../Page/変光星.md "wikilink")観測初心者向けの星であるといえる。

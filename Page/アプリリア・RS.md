@@ -1,4 +1,4 @@
-> この記事は[RS](https://ja.wikipedia.org/wiki/RS)から翻訳されています。
+> この記事は[アプリリア・RS](https://ja.wikipedia.org/wiki/アプリリア・RS)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Aprilia-rs250.jpg "wikilink") [Aprilia_rs125.jpg](https://ja.wikipedia.org/wiki/File:Aprilia_rs125.jpg "fig:Aprilia_rs125.jpg") [RS50_PGE型.jpg](https://ja.wikipedia.org/wiki/File:RS50_PGE型.jpg "fig:RS50_PGE型.jpg") **RS**（アールエス）は、[アプリリアが製造販売しているレーサーレプリカタイプの](../Page/アプリリア_\(会社\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。[水冷](../Page/水冷エンジン.md "wikilink")[2ストロークエンジンを搭載しており](../Page/2ストローク機関.md "wikilink")、シリーズ車種として250、125、50の排気量別に生産されている。

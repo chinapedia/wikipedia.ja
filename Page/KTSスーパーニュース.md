@@ -1,4 +1,4 @@
-> この記事は[KTS](https://ja.wikipedia.org/wiki/KTS)から翻訳されています。
+> この記事は[KTSスーパーニュース](https://ja.wikipedia.org/wiki/KTSスーパーニュース)から翻訳されています。
 
 
 『**KTSスーパーニュース**』（ケーティーエススーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*KTS Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink") (KTS) で放送されていた[鹿児島県](../Page/鹿児島県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

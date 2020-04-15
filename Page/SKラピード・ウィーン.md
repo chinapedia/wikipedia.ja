@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKラピード・ウィーン](https://ja.wikipedia.org/wiki/SKラピード・ウィーン)から翻訳されています。
 
 
 **SKラピード・ウィーン**（）は、[オーストリア](../Page/オーストリア.md "wikilink")の首都[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")を本拠地とするサッカークラブである。[オーストリア・ブンデスリーガに加盟し](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")、[FKアウストリア・ウィーン](../Page/FKアウストリア・ウィーン.md "wikilink")や[FCレッドブル・ザルツブルク](https://ja.wikipedia.org/wiki/FCレッドブル・ザルツブルク "wikilink")と共にリーグを代表する強豪である。

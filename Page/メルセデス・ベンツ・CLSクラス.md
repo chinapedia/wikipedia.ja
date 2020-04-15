@@ -1,4 +1,4 @@
-> この記事は[CLS](https://ja.wikipedia.org/wiki/CLS)から翻訳されています。
+> この記事は[メルセデス・ベンツ・CLSクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・CLSクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・CLSクラス**（*Mercedes-Benz CLS-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開している[Eクラスをベースにした](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。[Eセグメント](../Page/Eセグメント.md "wikilink")に属する。

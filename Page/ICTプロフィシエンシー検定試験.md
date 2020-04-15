@@ -1,4 +1,4 @@
-> この記事は[ICT](https://ja.wikipedia.org/wiki/ICT)から翻訳されています。
+> この記事は[ICTプロフィシエンシー検定試験](https://ja.wikipedia.org/wiki/ICTプロフィシエンシー検定試験)から翻訳されています。
 
 
 **ICTプロフィシエンシー検定試験**(アイ・シー・ティープロフィシエンシーけんていしけん:ICT Proficiency Assessment)は、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の知識も含む、*総合的な[ICT（情報通信技術）活用能力を問う](../Page/情報技術.md "wikilink")[試験](https://ja.wikipedia.org/wiki/試験 "wikilink")*である。\[1\][任意団体](../Page/任意団体.md "wikilink")のICTプロフィシエンシー検定協会（P検協会）が主催しており、この団体の事務局（P検事務局）の[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")が実施・運営を行なっている。\[2\]略称は**P検**であり、2012年4月以前は**パソコン検定試験**と呼ばれていた。

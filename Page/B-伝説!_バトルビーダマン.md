@@ -1,4 +1,4 @@
-> この記事は[B-! ](https://ja.wikipedia.org/wiki/B-!_)から翻訳されています。
+> この記事は[B-伝説! バトルビーダマン](https://ja.wikipedia.org/wiki/B-伝説!_バトルビーダマン)から翻訳されています。
 
 
 『**B-伝説\! バトルビーダマン**』（ビーレジェンド バトルビーダマン）は、[犬木栄治](../Page/犬木栄治.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。およびこれを原作とした[アニメ](../Page/アニメ.md "wikilink")などのメディアミックス作品。

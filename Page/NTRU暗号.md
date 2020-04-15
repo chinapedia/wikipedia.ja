@@ -1,4 +1,4 @@
-> この記事は[NTRU](https://ja.wikipedia.org/wiki/NTRU)から翻訳されています。
+> この記事は[NTRU暗号](https://ja.wikipedia.org/wiki/NTRU暗号)から翻訳されています。
 
 
 **NTRU暗号**とは、[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")の一つである。 1996年にJeffrey Hoffstein, Jill Pipher, Joseph H. SilvermanがCRYPTO'96のRump Sessionで発表した。2000年にNTRU Cryptosystems社が米国で特許を取得している。 多項式環を用いて定義された格子の最短ベクトル問題が困難と予想されることを基にしているが、実際に帰着出来るか否かは未解決問題である。

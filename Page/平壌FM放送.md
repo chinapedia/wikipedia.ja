@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[平壌FM放送](https://ja.wikipedia.org/wiki/平壌FM放送)から翻訳されています。
 
 
 **平壌FM放送**（ピョンヤンエフエムほうそう、[英語](../Page/英語.md "wikilink")：Pyongyang FM Broadcasting Station ）は[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")（北朝鮮）の[FMラジオ局である](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")。

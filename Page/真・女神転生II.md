@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[真・女神転生II](https://ja.wikipedia.org/wiki/真・女神転生II)から翻訳されています。
 
 
 『**真・女神転生II**』（しん・めがみてんせいツー）は、[アトラスより](../Page/アトラス_\(ゲーム会社\).md "wikilink")[1994年](../Page/1994年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

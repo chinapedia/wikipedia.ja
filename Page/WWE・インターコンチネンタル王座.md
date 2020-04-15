@@ -1,4 +1,4 @@
-> この記事は[WWE](https://ja.wikipedia.org/wiki/WWE)から翻訳されています。
+> この記事は[WWE・インターコンチネンタル王座](https://ja.wikipedia.org/wiki/WWE・インターコンチネンタル王座)から翻訳されています。
 
 
 **WWEインターコンチネンタル王座**（*WWE Intercontinental Championship*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")における[王座のひとつである](../Page/チャンピオンベルト.md "wikilink")。日本では、英語の頭文字をとって**IC王座**という略称で表現されることも多い。WWF時代の[1979年](../Page/1979年.md "wikilink")8月から[2002年](../Page/2002年.md "wikilink")5月までは、**WWFインターコンチネンタル・ヘビー級王座**（*WWF Intercontinental Heavyweight Championship*）が正式名称だった。　
@@ -238,6 +238,7 @@ __TOC__
 | ※スーパースター・シェイクアップでフィン・ベイラーがSmackDown Live専属となったため、SmackDownの管轄となる                                |      |                                                              |                                                                                                                                                                  |                                                                    |
 | [中邑真輔](../Page/中邑真輔.md "wikilink")                                                              | 1    | 20197月14日                                                    | [Extreme Rules 2019](https://ja.wikipedia.org/wiki/WWEエクストリーム・ルールズ "wikilink")                                                                                   | One Fall                                                           |
 | [ブラウン・ストローマン](https://ja.wikipedia.org/wiki/アダム・シェル "wikilink")                                 | 1    | 20201月31日                                                    | SmackDown                                                                                                                                                        | One Fall                                                           |
+| [サミ・ゼイン](https://ja.wikipedia.org/wiki/ラミ・セベイ "wikilink")                                       | 1    | 20203月8日                                                     | [Elimination Chamber 2020](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink")                                                                           | Handicap                                                           |
 |                                                                                                 |      |                                                              |                                                                                                                                                                  |                                                                    |
 
 ## 脚注

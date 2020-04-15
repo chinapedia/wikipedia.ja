@@ -1,4 +1,4 @@
-> この記事は[ETA](https://ja.wikipedia.org/wiki/ETA)から翻訳されています。
+> この記事は[ETAシステムズ](https://ja.wikipedia.org/wiki/ETAシステムズ)から翻訳されています。
 
 
 **ETAシステムズ** (*ETA Systems*) は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[コントロール・データ・コーポレーション](../Page/コントロール・データ・コーポレーション.md "wikilink") (CDC) からのスピンオフによって設立された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")企業。**ETA10**という高性能マシンをリリースすることに成功したが、赤字を出し続けたため、CDCはこの会社を[1989年](../Page/1989年.md "wikilink")にたたんだ。

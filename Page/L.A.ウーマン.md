@@ -1,4 +1,4 @@
-> この記事は[L.A.](https://ja.wikipedia.org/wiki/L.A.)から翻訳されています。
+> この記事は[L.A.ウーマン](https://ja.wikipedia.org/wiki/L.A.ウーマン)から翻訳されています。
 
 
 [LA_Woman_gold_record,_Hard_Rock_Cafe_Hollywood.JPG](https://ja.wikipedia.org/wiki/File:LA_Woman_gold_record,_Hard_Rock_Cafe_Hollywood.JPG "fig:LA_Woman_gold_record,_Hard_Rock_Cafe_Hollywood.JPG")が授与した[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")のレコード。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス郡](../Page/ロサンゼルス郡_\(カリフォルニア州\).md "wikilink")にあるハードロックカフェ・ハリウッドにて展示\]\]

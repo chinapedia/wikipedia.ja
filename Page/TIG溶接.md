@@ -1,4 +1,4 @@
-> この記事は[TIG](https://ja.wikipedia.org/wiki/TIG)から翻訳されています。
+> この記事は[TIG溶接](https://ja.wikipedia.org/wiki/TIG溶接)から翻訳されています。
 
 
 [GTAW.svg](https://ja.wikipedia.org/wiki/File:GTAW.svg "fig:GTAW.svg") **TIG溶接**（ティグようせつ）とは、[電気](../Page/電気.md "wikilink")を用いた[アーク溶接](../Page/アーク溶接.md "wikilink")方法の一種である。TIGは、Tungsten Inert Gasの略で、[タングステン](../Page/タングステン.md "wikilink")－不活性ガス溶接の意であり、電極棒に消耗しない材料のタングステンを使用して、別の溶加材（溶接棒）をアーク中で溶融して溶接する方式である。国際的には、[Gas Tungsten Arc Welding](https://ja.wikipedia.org/wiki/:en:Gas_tungsten_arc_welding "wikilink")、略して**GTAW**または**GTA溶接**\[1\]と呼ばれ、この呼び名の場合はプラズマ溶接も含まれる。

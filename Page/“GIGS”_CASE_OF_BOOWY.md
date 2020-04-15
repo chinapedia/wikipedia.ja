@@ -1,4 +1,4 @@
-> この記事は[GIGS CASE OF BOOWY](https://ja.wikipedia.org/wiki/GIGS_CASE_OF_BOOWY)から翻訳されています。
+> この記事は[“GIGS” CASE OF BOOWY](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY)から翻訳されています。
 
 
 『**“GIGS” CASE OF BOØWY**』（ギグス・ケース・オブ・ボウイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。

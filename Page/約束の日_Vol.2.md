@@ -1,4 +1,4 @@
-> この記事は[ Vol.2](https://ja.wikipedia.org/wiki/_Vol.2)から翻訳されています。
+> この記事は[約束の日 Vol.2](https://ja.wikipedia.org/wiki/約束の日_Vol.2)から翻訳されています。
 
 
 『**約束の日 Vol.2**』（やくそくのひ ボリューム・ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である[尾崎豊](../Page/尾崎豊.md "wikilink")のライブ・アルバム。

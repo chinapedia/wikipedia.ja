@@ -1,4 +1,4 @@
-> この記事は[NTT TIME21](https://ja.wikipedia.org/wiki/NTT_TIME21)から翻訳されています。
+> この記事は[NTTアワー TIME21](https://ja.wikipedia.org/wiki/NTTアワー_TIME21)から翻訳されています。
 
 
 『**NTTアワー TIME21**』（エヌ・ティ・ティアワー タイム21）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[日本テレビ系列で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。放送時間は毎週月曜 21:00 - 21:54 ([JST](../Page/日本標準時.md "wikilink")) 。

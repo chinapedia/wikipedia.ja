@@ -1,4 +1,4 @@
-> この記事は[SAR](https://ja.wikipedia.org/wiki/SAR)から翻訳されています。
+> この記事は[SAR協定](https://ja.wikipedia.org/wiki/SAR協定)から翻訳されています。
 
 
 **SAR協定** (Agreement on Search and Rescue Regions) とは、[1979年](../Page/1979年.md "wikilink")（昭和54年）に発効になった「1979年の海上における捜索及び救助に関する国際[条約](../Page/条約.md "wikilink")（SAR条約）」の勧告に基づき、関係締結国や隣接国と結ぶ[捜索救助](https://ja.wikipedia.org/wiki/捜索救助 "wikilink")に関する協定のことである\[1\]。

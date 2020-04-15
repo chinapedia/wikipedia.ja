@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ヤマハ・Aシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・Aシリーズ)から翻訳されています。
 
 
 **Aシリーズ**（エー・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[サンプラー](../Page/サンプラー.md "wikilink")の型番・商品名。

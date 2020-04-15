@@ -1,7 +1,7 @@
 > この記事は[IOCCC](https://ja.wikipedia.org/wiki/IOCCC)から翻訳されています。
 
 
-**The International Obfuscated C Code Contest**（**IOCCC**, 国際難読化\[1\]Cコードコンテスト）は、故意に難解な[C言語](../Page/C言語.md "wikilink")のプログラムを書き、その読みにくさと複雑さを競うという[ハッカー](../Page/ハッカー.md "wikilink")の[奇祭](https://ja.wikipedia.org/wiki/奇祭 "wikilink")（[プログラミングコンテスト](https://ja.wikipedia.org/wiki/プログラミングコンテスト "wikilink")）である。
+**The International Obfuscated C Code Contest**（**IOCCC**, 国際難読化\[1\]Cコードコンテスト）は、故意に難解な[C言語](../Page/C言語.md "wikilink")のプログラムを書き、その読みにくさと[複雑さ](https://ja.wikipedia.org/wiki/複雑さ "wikilink")を競うという[ハッカー](../Page/ハッカー.md "wikilink")の[奇祭](https://ja.wikipedia.org/wiki/奇祭 "wikilink")（[プログラミングコンテスト](https://ja.wikipedia.org/wiki/プログラミングコンテスト "wikilink")）である。
 
 ## 概要
 

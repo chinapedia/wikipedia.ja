@@ -1,4 +1,4 @@
-> この記事は[COMPLEX \(\)](https://ja.wikipedia.org/wiki/COMPLEX_\(\))から翻訳されています。
+> この記事は[COMPLEX \(アルバム\)](https://ja.wikipedia.org/wiki/COMPLEX_\(アルバム\))から翻訳されています。
 
 
 『**COMPLEX**』（コンプレックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[COMPLEX](../Page/COMPLEX.md "wikilink")のファースト・[アルバム](../Page/アルバム.md "wikilink")。

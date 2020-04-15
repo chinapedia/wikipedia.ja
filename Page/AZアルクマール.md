@@ -1,4 +1,4 @@
-> この記事は[AZ](https://ja.wikipedia.org/wiki/AZ)から翻訳されています。
+> この記事は[AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール)から翻訳されています。
 
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:AZ_Eredivisie_Results_1976-2009.jpg "wikilink")

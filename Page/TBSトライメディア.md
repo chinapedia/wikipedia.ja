@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBSトライメディア](https://ja.wikipedia.org/wiki/TBSトライメディア)から翻訳されています。
 
 
 **株式会社TBSトライメディア**（ティ・ビー・エス トライメディア）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のテレビ番組制作会社である。[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")(TBSHD)傘下。

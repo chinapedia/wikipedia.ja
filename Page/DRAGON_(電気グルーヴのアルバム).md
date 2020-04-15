@@ -1,4 +1,4 @@
-> この記事は[DRAGON \(\)](https://ja.wikipedia.org/wiki/DRAGON_\(\))から翻訳されています。
+> この記事は[DRAGON \(電気グルーヴのアルバム\)](https://ja.wikipedia.org/wiki/DRAGON_\(電気グルーヴのアルバム\))から翻訳されています。
 
 
 『**DRAGON**』（ドラゴン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の5枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

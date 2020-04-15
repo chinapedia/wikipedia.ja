@@ -135,7 +135,7 @@ Cray-1は以下のような場所で展示されている。
   - [Collection of on-line Cray manuals & documentation @ Bitsavers](http://bitsavers.org/pdf/cray/)
   - [Verilog definition of Cray-1A CPU logic](http://chrisfenton.com/wp-content/uploads/2010/08/cray1_r2.zip)
 
-[Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink")
+[Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:クレイのハードウェア](https://ja.wikipedia.org/wiki/Category:クレイのハードウェア "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink")
 
 1.  C.J. Murray, ["The ultimate team player,"](http://www.designnews.com/article/14035-The_ultimate_team_player.php) *[Design News](https://ja.wikipedia.org/wiki/:en:Design_News "wikilink")*, 6 Mar. 1995.
 2.

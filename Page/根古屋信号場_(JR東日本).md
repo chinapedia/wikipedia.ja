@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[根古屋信号場 \(JR東日本\)](https://ja.wikipedia.org/wiki/根古屋信号場_\(JR東日本\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:koukan3.svg "wikilink") **根古屋信号場**（ねこやしんごうじょう）は、[千葉県](../Page/千葉県.md "wikilink")[成田市](../Page/成田市.md "wikilink")にあった、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[成田線](https://ja.wikipedia.org/wiki/成田線 "wikilink")（空港支線）の[信号場](../Page/信号場.md "wikilink")である。

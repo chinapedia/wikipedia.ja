@@ -1,4 +1,4 @@
-> この記事は[KX](https://ja.wikipedia.org/wiki/KX)から翻訳されています。
+> この記事は[ヤマハ・KXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・KXシリーズ)から翻訳されています。
 
 
 **KXシリーズ**（ケーエックス・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[マスターキーボードの型番](../Page/キーボード_\(楽器\).md "wikilink")・商品名。

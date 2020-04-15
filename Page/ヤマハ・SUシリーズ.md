@@ -1,4 +1,4 @@
-> この記事は[SU](https://ja.wikipedia.org/wiki/SU)から翻訳されています。
+> この記事は[ヤマハ・SUシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SUシリーズ)から翻訳されています。
 
 
 **SUシリーズ**（エスユー・シリーズ）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[サンプラー](../Page/サンプラー.md "wikilink")の型番・商品名。

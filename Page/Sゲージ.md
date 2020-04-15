@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sゲージ](https://ja.wikipedia.org/wiki/Sゲージ)から翻訳されています。
 
 
 **Sゲージ**（エスゲージ）とは[鉄道模型](../Page/鉄道模型.md "wikilink")の縮尺と軌間を表す規格呼称のひとつ。

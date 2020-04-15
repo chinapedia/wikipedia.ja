@@ -1,4 +1,4 @@
-> この記事は[FOR YOU \(\)](https://ja.wikipedia.org/wiki/FOR_YOU_\(\))から翻訳されています。
+> この記事は[FOR YOU \(山下達郎のアルバム\)](https://ja.wikipedia.org/wiki/FOR_YOU_\(山下達郎のアルバム\))から翻訳されています。
 
 
 『**FOR YOU**』（フォー・ユー）は[1982年](../Page/1982年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された[山下達郎](../Page/山下達郎.md "wikilink")通算6作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

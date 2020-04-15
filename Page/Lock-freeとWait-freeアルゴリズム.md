@@ -1,4 +1,4 @@
-> この記事は[Lock-freeWait-free](https://ja.wikipedia.org/wiki/Lock-freeWait-free)から翻訳されています。
+> この記事は[Lock-freeとWait-freeアルゴリズム](https://ja.wikipedia.org/wiki/Lock-freeとWait-freeアルゴリズム)から翻訳されています。
 
 
 **Lock-freeとWait-freeアルゴリズム**とは、共有データに[ロックをかけてアクセスを防ぐ](../Page/ロック_\(情報工学\).md "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")とは違い、複数の[スレッドが同時並行的に](../Page/スレッド_\(コンピュータ\).md "wikilink")、ある対象データを壊すことなしに読み書きすることを可能にするアルゴリズムである。Lock-free とはスレッドがロックしないことを意味しており、全てのステップにおいてシステムが必ず進行する。これはLock-free では[ミューテックス](../Page/ミューテックス.md "wikilink")や[セマフォ](../Page/セマフォ.md "wikilink")といった、[排他制御](../Page/排他制御.md "wikilink")のための[プリミティブ](https://ja.wikipedia.org/wiki/プリミティブ "wikilink")を使ってはならないことを意味する。なぜならロックを持っているスレッドの実行が中断した場合、全体の進行を阻止しうるからである。Wait-free とは、他のスレッドの動作に関係なく、スレッドがいかなる操作も有限のステップで操作を完了させられることを指す。あるアルゴリズムがLock-freeであるがWait-freeでないことはありうる。Wait-free なアルゴリズムは Lock-free である。

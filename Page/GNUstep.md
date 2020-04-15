@@ -57,16 +57,16 @@ GNUstepはOPENSTEPと似ており、OPENSTEPの設計規則を継承するとと
   - ドラッグ・アンド・ドロップ操作
   - アプリケーション間の共通サービス
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [NEXTSTEP](../Page/NEXTSTEP.md "wikilink")
   - [OPENSTEP](../Page/OPENSTEP.md "wikilink")
   - [Window Maker](../Page/Window_Maker.md "wikilink")
   - [プロパティリスト](../Page/プロパティリスト.md "wikilink")([defaults](http://manpages.ubuntu.com/manpages/intrepid/man1/defaults.1.html))
-
-## 脚注
-
-<references />
 
 ## 外部リンク
 

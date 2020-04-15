@@ -1,4 +1,4 @@
-> この記事は[T.V.](https://ja.wikipedia.org/wiki/T.V.)から翻訳されています。
+> この記事は[スマッシュT.V.](https://ja.wikipedia.org/wiki/スマッシュT.V.)から翻訳されています。
 
 
 『**スマッシュT.V.**』 (*Smash T.V.*) は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ウィリアムスから稼働された](../Page/ウィリアムス_\(ゲーム\).md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。

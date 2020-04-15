@@ -1,4 +1,4 @@
-> この記事は[1NZ-FE](https://ja.wikipedia.org/wiki/1NZ-FE)から翻訳されています。
+> この記事は[トヨタ・1NZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1NZ-FE)から翻訳されています。
 
 
 **1NZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の主力[エンジン](../Page/エンジン.md "wikilink")の内の一つ、[NZエンジンの内の一形式](../Page/トヨタ・NZエンジン.md "wikilink")。主な搭載車種は同社の[カローラシリーズ](../Page/トヨタ・カローラ.md "wikilink")、[プレミオ](../Page/トヨタ・プレミオ.md "wikilink")、[アリオン](../Page/トヨタ・アリオン.md "wikilink")、[ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")、[プラッツ](../Page/トヨタ・プラッツ.md "wikilink")、[オーリス](https://ja.wikipedia.org/wiki/トヨタ・オーリス "wikilink")、[シエンタ](../Page/トヨタ・シエンタ.md "wikilink")、[プロボックス](../Page/トヨタ・プロボックス.md "wikilink")、[ラクティス](../Page/トヨタ・ラクティス.md "wikilink")、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）の[トレジア](https://ja.wikipedia.org/wiki/スバル・トレジア "wikilink")、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")の[ファミリアバンなどと乗用車](../Page/マツダ・ファミリア.md "wikilink")、商用車問わず多くの車種に幅広く搭載されている。

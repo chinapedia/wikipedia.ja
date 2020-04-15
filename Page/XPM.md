@@ -1,7 +1,7 @@
 > この記事は[XPM](https://ja.wikipedia.org/wiki/XPM)から翻訳されています。
 
 
-**XPM** (X PixMap) は[X Window Systemで使用されるテキスト](../Page/X_Window_System.md "wikilink") ([ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")) の画像[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。[1989年](../Page/1989年.md "wikilink")INRIA（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")国立電子計算機、制御研究所）のDaniel Dardailler と Colas Nahabooによって作られた。その後、Arnaud Le Horsにより拡張された。名前の通り[ピクセル](../Page/ピクセル.md "wikilink")（画素）による[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")フォーマットである。主な用途は[アイコン](../Page/アイコン.md "wikilink")の画像の作成であり、透過色もサポートしている。文法は単純で[C言語](../Page/C言語.md "wikilink")の2次元文字[配列](../Page/配列.md "wikilink")定数形式で記述される。
+**XPM** (X PixMap) は[X Window Systemで使用されるテキスト](../Page/X_Window_System.md "wikilink") ([ASCII](../Page/ASCII.md "wikilink")) の画像[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。[1989年](../Page/1989年.md "wikilink")INRIA（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")国立電子計算機、制御研究所）のDaniel Dardailler と Colas Nahabooによって作られた。その後、Arnaud Le Horsにより拡張された。名前の通り[ピクセル](../Page/ピクセル.md "wikilink")（画素）による[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")フォーマットである。主な用途は[アイコン](../Page/アイコン.md "wikilink")の画像の作成であり、透過色もサポートしている。文法は単純で[C言語](../Page/C言語.md "wikilink")の2次元文字[配列](../Page/配列.md "wikilink")定数形式で記述される。
 
 ## データ形式
 

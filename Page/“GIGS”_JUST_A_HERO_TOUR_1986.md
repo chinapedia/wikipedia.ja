@@ -1,4 +1,4 @@
-> この記事は[GIGS JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/GIGS_JUST_A_HERO_TOUR_1986)から翻訳されています。
+> この記事は[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986)から翻訳されています。
 
 
 『**“GIGS” JUST A HERO TOUR 1986**』（ギグス・ジャスト・ア・ヒーロー・ツアー 1986）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")1枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。

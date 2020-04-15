@@ -1,4 +1,4 @@
-> この記事は[ Vol.1](https://ja.wikipedia.org/wiki/_Vol.1)から翻訳されています。
+> この記事は[約束の日 Vol.1](https://ja.wikipedia.org/wiki/約束の日_Vol.1)から翻訳されています。
 
 
 『**約束の日 Vol.1**』（やくそくのひ ボリューム・ワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[尾崎豊](../Page/尾崎豊.md "wikilink")のライブ・アルバム。

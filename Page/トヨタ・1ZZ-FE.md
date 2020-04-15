@@ -1,4 +1,4 @@
-> この記事は[1ZZ-FE](https://ja.wikipedia.org/wiki/1ZZ-FE)から翻訳されています。
+> この記事は[トヨタ・1ZZ-FE](https://ja.wikipedia.org/wiki/トヨタ・1ZZ-FE)から翻訳されています。
 
 
 [Toyota_1ZZ-FE_engine.jpg](https://ja.wikipedia.org/wiki/File:Toyota_1ZZ-FE_engine.jpg "fig:Toyota_1ZZ-FE_engine.jpg")（ZCT10型）用1ZZ-FE型エンジン\]\] **1ZZ-FE**は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて製造していた小型車、および中型車用[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")・[オールアルミ製](../Page/アルミニウム.md "wikilink")1,800cc16バルブ[自然吸気](../Page/自然吸気.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")。

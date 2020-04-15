@@ -1,4 +1,4 @@
-> この記事は[TERA](https://ja.wikipedia.org/wiki/TERA)から翻訳されています。
+> この記事は[フタバ図書TERAエンタメリサーチ](https://ja.wikipedia.org/wiki/フタバ図書TERAエンタメリサーチ)から翻訳されています。
 
 
 **フタバ図書TERAエンタメリサーチ**は、2006年3月末までは[MUSIC SOLEIL LUNCHTIME SATELLITE](../Page/MUSIC_SOLEIL_LUNCHTIME_SATELLITE.md "wikilink")、2006年4月からは[庄司悟のリクエスト魂](../Page/庄司悟のリクエスト魂.md "wikilink")内で放送されているコーナー。コーナースポンサーは[フタバ図書](../Page/フタバ図書.md "wikilink")。番組の公開生放送をしている[フタバ図書](../Page/フタバ図書.md "wikilink")TERAのアイテムやお薦め商品を紹介する。

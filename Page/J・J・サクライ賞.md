@@ -1,4 +1,4 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・サクライ賞](https://ja.wikipedia.org/wiki/J・J・サクライ賞)から翻訳されています。
 
 
 **J・J・サクライ賞**は[アメリカ物理学会](../Page/アメリカ物理学会.md "wikilink") (American Physical Society) が理論[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")の貢献に授与する賞である。[1984年](../Page/1984年.md "wikilink")に制定された。J・J・サクライ ([Jun John Sakurai](https://ja.wikipedia.org/wiki/:en:J._J._Sakurai "wikilink")) こと[桜井純](https://ja.wikipedia.org/wiki/桜井純 "wikilink") (1933-1982) はアメリカで頭角を現すも早世した日本人[理論物理学](https://ja.wikipedia.org/wiki/理論物理学 "wikilink")者で、同賞は桜井の遺族の寄付により設けられた。

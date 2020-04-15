@@ -1,4 +1,4 @@
-> この記事は[WX](https://ja.wikipedia.org/wiki/WX)から翻訳されています。
+> この記事は[ヤマハ・WXシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・WXシリーズ)から翻訳されています。
 
 
 **WXシリーズ**（**ダブリューエックス・シリーズ**）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")の型番・商品名。

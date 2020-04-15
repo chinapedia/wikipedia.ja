@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル)から翻訳されています。
 
 
 **NBCユニバーサル**（エヌビーシーユニバーサル、NBCUniversal Media, LLC）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")を本拠とするメディア・[エンターテインメント](../Page/エンターテインメント.md "wikilink")グループ。世界の[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の一つ。
@@ -61,6 +61,8 @@
       - [イルミネーション・エンターテインメント](https://ja.wikipedia.org/wiki/イルミネーション・エンターテインメント "wikilink")
       - [ドリームワークス・アニメーション](../Page/ドリームワークス・アニメーション.md "wikilink")
       - [アンブリン・パートナーズ](https://ja.wikipedia.org/wiki/アンブリン・パートナーズ "wikilink")
+      - [フォーカス・フィーチャーズ](https://ja.wikipedia.org/wiki/フォーカス・フィーチャーズ "wikilink")
+      - [ワーキング・タイトル・フィルムズ](https://ja.wikipedia.org/wiki/ワーキング・タイトル・フィルムズ "wikilink")
 
 ### テーマパーク
 

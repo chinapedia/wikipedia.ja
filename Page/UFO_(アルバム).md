@@ -1,4 +1,4 @@
-> この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
+> この記事は[UFO \(アルバム\)](https://ja.wikipedia.org/wiki/UFO_\(アルバム\))から翻訳されています。
 
 
 **UFO**（ユーフォー）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")のメジャー・セカンド・アルバム。

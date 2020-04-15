@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS笑点](https://ja.wikipedia.org/wiki/BS笑点)から翻訳されています。
 
 
 **BS笑点**（ビーエスしょうてん）は、[BS日テレ（正式にはBS日本）で](../Page/BS日本.md "wikilink")[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2007年](../Page/2007年.md "wikilink")（平成19年）[2月17日](../Page/2月17日.md "wikilink")\[1\]まで毎週土曜夜に放送された[寄席](../Page/寄席.md "wikilink")風の[演芸](../Page/演芸.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[日本テレビの長寿番組](../Page/日本テレビ放送網.md "wikilink")『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』の兄弟番組であり、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")の『[笑点Jr.](../Page/笑点Jr..md "wikilink")』の前身番組でもある。

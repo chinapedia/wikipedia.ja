@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMフェスティバル](https://ja.wikipedia.org/wiki/FMフェスティバル)から翻訳されています。
 
 
 **FMフェスティバル**（エフエムフェスティバル）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の加盟全局で毎年同時ネットワークで実施される[特別番組](../Page/特別番組.md "wikilink")のイベントである。

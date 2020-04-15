@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDビデオ](https://ja.wikipedia.org/wiki/CDビデオ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:CDV2.jpg "wikilink") **CDビデオ** (**CD Video**, **CDV**, **CD+V**, **CD-V**) は、[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")と[レーザーディスク](../Page/レーザーディスク.md "wikilink")の技術を組み合わせて開発された[光ディスク](../Page/光ディスク.md "wikilink")規格。[ビデオCD](../Page/ビデオCD.md "wikilink")が開発される以前の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発表された。映像規格としてはアナログビデオに属する。

@@ -143,15 +143,13 @@ RTFのデータは[テキスト形式を用いており](../Page/テキストフ
 > Hello\!
 > This is some **bold** text.
 
-[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")および[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")では**RTFD**（Rich Text Format Directory、添付書類付きRTF）という、[バンドル構造を応用したフォーマットが存在し](../Page/アプリケーションパッケージ.md "wikilink")、画像とRTFファイルとを[ファイルシステム](../Page/ファイルシステム.md "wikilink")レベルで分類している。
-
 ## 文字エンコーディング
 
 標準的なRTFファイルは7ビットのASCII文字で記述されているが、[エスケープシーケンス](../Page/エスケープシーケンス.md "wikilink")を使うことでそれ以外の文字を扱える。コードページのエスケープのほか、RTF 1.5では Unicodeのエスケープができる。
 
 RTF 1.5以前は7ビット文字以外は16進数 (\\'xx) で記述された。またUnicodeで32767以降の文字は負の数で表現され、[Unicode planeに収まらない文字は](../Page/基本多言語面.md "wikilink")[サロゲートペア](https://ja.wikipedia.org/wiki/サロゲートペア "wikilink")で表現される。
 
-日本語の文字は[シフトJISコードを](../Page/Shift_JIS.md "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")形式で表した表記法が用いられる。たとえば、\\'82\\'a0\\'82\\'a2\\'82\\'a4 のように表記され、これは「あいう」を表している。
+日本語の文字は[シフトJISコードを](../Page/Shift_JIS.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")形式で表した表記法が用いられる。たとえば、\\'82\\'a0\\'82\\'a2\\'82\\'a4 のように表記され、これは「あいう」を表している。
 
 ## 人間にとっての可読性
 
@@ -200,6 +198,10 @@ Microsoft Wordはレジストリに ("ExportPictureWithMetafile=0") の値を設
   - [.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink") - マイクロソフトのソフト開発環境（RichTextBoxオブジェクトがRTF対応のLoadFileメソッド等を実装）
 
 など
+
+## RTFD
+
+[NEXTSTEP](../Page/NEXTSTEP.md "wikilink")、およびNEXTSTEPに由来する機能を持つ[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")・[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")では、Rich Text Formatを拡張した**RTFD**（Rich Text Format Directory、添付書類付きRTF）というフォーマットも使われている。その実体は、独自拡張したRTFファイルと添付ファイルを、拡張子RTFDの同一フォルダに入れたものである。なおOSからは拡張子RTFDののフォルダは、単一のアーカイブファイルに見えるようになっている。
 
 ## 出典
 

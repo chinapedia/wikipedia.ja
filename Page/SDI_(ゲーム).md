@@ -1,4 +1,4 @@
-> この記事は[SDI \(\)](https://ja.wikipedia.org/wiki/SDI_\(\))から翻訳されています。
+> この記事は[SDI \(ゲーム\)](https://ja.wikipedia.org/wiki/SDI_\(ゲーム\))から翻訳されています。
 
 
 『**SDI**』（エスディーアイ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本の[セガから稼働された](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。

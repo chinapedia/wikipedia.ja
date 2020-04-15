@@ -1,4 +1,4 @@
-> この記事は[2 CHAIN REACTION](https://ja.wikipedia.org/wiki/2_CHAIN_REACTION)から翻訳されています。
+> この記事は[街道バトル2 CHAIN REACTION](https://ja.wikipedia.org/wiki/街道バトル2_CHAIN_REACTION)から翻訳されています。
 
 
 『**街道バトル2 CHAIN REACTION**』(かいどうバトル2 チェーン リアクション)は、[元気が](../Page/元気_\(ゲーム会社\).md "wikilink")2004年2月26日に発売した[プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。街道(峠)を舞台にしたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。

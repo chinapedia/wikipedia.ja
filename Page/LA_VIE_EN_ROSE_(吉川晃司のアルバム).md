@@ -1,4 +1,4 @@
-> この記事は[LA VIE EN ROSE \(\)](https://ja.wikipedia.org/wiki/LA_VIE_EN_ROSE_\(\))から翻訳されています。
+> この記事は[LA VIE EN ROSE \(吉川晃司のアルバム\)](https://ja.wikipedia.org/wiki/LA_VIE_EN_ROSE_\(吉川晃司のアルバム\))から翻訳されています。
 
 
 **LA VIE EN ROSE**（ラ・ヴィアンローズ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[吉川晃司](../Page/吉川晃司.md "wikilink")のセカンド・アルバム。

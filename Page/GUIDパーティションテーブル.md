@@ -1,4 +1,4 @@
-> この記事は[GUID](https://ja.wikipedia.org/wiki/GUID)から翻訳されています。
+> この記事は[GUIDパーティションテーブル](https://ja.wikipedia.org/wiki/GUIDパーティションテーブル)から翻訳されています。
 
 
 **GUIDパーティションテーブル** (*[GUID](../Page/GUID.md "wikilink") Partition Table*, **GPT**) は、[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")上の[パーティションテーブル](https://ja.wikipedia.org/wiki/パーティションテーブル "wikilink")の配置に関する標準規格である。これは[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の提案している[EFI標準の一部であり](../Page/Unified_Extensible_Firmware_Interface.md "wikilink")、旧来の[BIOSで使用されている](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")[マスターブートレコード](../Page/マスターブートレコード.md "wikilink") (MBR) の置き換えを意図している。従来のMBRパーティションが、テーブルのパラメータから、1セクタ512Byteで定義した場合、最大2[TiB迄の領域までしか管理できないのに対し](https://ja.wikipedia.org/wiki/テビバイト "wikilink")、GPTでは、最大8[ZiB迄の領域を定義](https://ja.wikipedia.org/wiki/ゼビバイト "wikilink")、管理できる。

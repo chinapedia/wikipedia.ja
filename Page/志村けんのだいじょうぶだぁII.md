@@ -1,7 +1,7 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[志村けんのだいじょうぶだぁII](https://ja.wikipedia.org/wiki/志村けんのだいじょうぶだぁII)から翻訳されています。
 
 
-『**志村けんのだいじょうぶだぁII**』（しむらけんのだいじょうぶだぁツー）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink") 1:08 - 1:38（[水曜](../Page/水曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、[JST](../Page/日本標準時.md "wikilink")）に放送されていた[お笑い](../Page/お笑い番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[イザワオフィス](../Page/イザワオフィス.md "wikilink")制作。
+『**志村けんのだいじょうぶだぁII**』（しむらけんのだいじょうぶだぁツー）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink") 1:08 - 1:38（[水曜](../Page/水曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、[JST](../Page/日本標準時.md "wikilink")）に放送されていた[お笑い](../Page/お笑い番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。 [志村けん](../Page/志村けん.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。 [イザワオフィス](../Page/イザワオフィス.md "wikilink")制作。
 
 ## 番組概要
 

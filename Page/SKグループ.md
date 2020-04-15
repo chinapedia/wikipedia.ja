@@ -1,4 +1,4 @@
-> この記事は[SK](https://ja.wikipedia.org/wiki/SK)から翻訳されています。
+> この記事は[SKグループ](https://ja.wikipedia.org/wiki/SKグループ)から翻訳されています。
 
 
 **SKグループ**（）は、[石油精製](../Page/石油精製.md "wikilink")業や[通信事業](https://ja.wikipedia.org/wiki/通信事業 "wikilink")を軸とする[韓国の](../Page/大韓民国.md "wikilink")[財閥](../Page/財閥.md "wikilink")である。韓国４大財閥の第３位。日本統治時代の織物・繊維会社「鮮京織物株式会社」をルーツに持ち、70年代以降は数々の買収を経て、[石油化学](../Page/石油化学.md "wikilink")、半導体、通信、[建設](../Page/建設.md "wikilink")などの分野を主に扱う\[1\]。

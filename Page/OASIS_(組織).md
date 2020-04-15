@@ -1,4 +1,4 @@
-> この記事は[OASIS \(\)](https://ja.wikipedia.org/wiki/OASIS_\(\))から翻訳されています。
+> この記事は[OASIS \(組織\)](https://ja.wikipedia.org/wiki/OASIS_\(組織\))から翻訳されています。
 
 
 **OASIS**（Organization for the Advancement of Structured Information Standards, 構造化情報標準促進協会）は、e-ビジネス標準の開発、統合および採用を推進する非営利国際コンソーシアム。有力な[コンピュータと通信に関する標準化団体の](../Page/標準化団体_\(コンピュータと通信\).md "wikilink")1つ。

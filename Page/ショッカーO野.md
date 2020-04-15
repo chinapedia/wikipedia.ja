@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[ショッカーO野](https://ja.wikipedia.org/wiki/ショッカーO野)から翻訳されています。
 
 
 **ショッカー O野**（ショッカー おおの、ローマ字表記:Shocker OH\!NO\!、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のイベントプロデューサー、桃太郎電鉄のキャラクター。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。AB型。本名は**大野 浩**（おおの ひろし）\[1\]。
@@ -94,7 +94,7 @@
   - [宇宙刑事シャリバン](../Page/宇宙刑事シャリバン.md "wikilink")（テレビ朝日） - ファイトロー、他
   - [さんまのナンでもダービー](../Page/さんまのナンでもダービー.md "wikilink")（テレビ朝日）
   - [海賊戦隊ゴーカイジャー](https://ja.wikipedia.org/wiki/海賊戦隊ゴーカイジャー "wikilink")（テレビ朝日） - サブ（33話）
-  - [非公認戦隊アキバレンジャー](https://ja.wikipedia.org/wiki/非公認戦隊アキバレンジャー "wikilink")（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）常連（3話）※クレジットなし\[4\]
+  - [非公認戦隊アキバレンジャー](https://ja.wikipedia.org/wiki/非公認戦隊アキバレンジャー "wikilink")（[BS朝日](../Page/ビーエス朝日.md "wikilink")）常連（3話）※クレジットなし\[4\]
   - [ボイスラッガー](../Page/ボイスラッガー.md "wikilink")（大村修二）（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [TVチャンピオン2](../Page/TVチャンピオン2.md "wikilink")（テレビ東京）　TVヒーロー王選手権　準優勝
   - [突撃わらしべ由里ちゃん\!](https://ja.wikipedia.org/wiki/突撃わらしべ由里ちゃん! "wikilink")（[バンダイキャラネットTV](https://ja.wikipedia.org/wiki/スカイポート#スカイポート通信サービス "wikilink")）

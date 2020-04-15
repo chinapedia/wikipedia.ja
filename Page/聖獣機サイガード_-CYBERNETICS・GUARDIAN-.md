@@ -1,4 +1,4 @@
-> この記事は[ -CYBERNETICSGUARDIAN-](https://ja.wikipedia.org/wiki/_-CYBERNETICSGUARDIAN-)から翻訳されています。
+> この記事は[聖獣機サイガード -CYBERNETICS・GUARDIAN-](https://ja.wikipedia.org/wiki/聖獣機サイガード_-CYBERNETICS・GUARDIAN-)から翻訳されています。
 
 
 『**聖獣機サイガード -CYBERNETICS・GUARDIAN-**』（せいじゅうきサイガード サイバネティックス・ガーディアン）は、[1989年](../Page/1989年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売されたOVA作品。全1話。

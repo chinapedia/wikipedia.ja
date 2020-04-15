@@ -1,4 +1,4 @@
-> この記事は[system](https://ja.wikipedia.org/wiki/system)から翻訳されています。
+> この記事は[Σsystem](https://ja.wikipedia.org/wiki/Σsystem)から翻訳されています。
 
 
 **Σsystem**（シグマシステム）は、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")に本社を置く[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[パスカルが開発した](https://ja.wikipedia.org/wiki/パスカル_\(企業\) "wikilink")[カラオケ](../Page/カラオケ.md "wikilink")機器統合システム。互換性のない複数のカラオケ機種を一括集中管理し、専用端末を各部屋に配備することで一部屋一台での利用を可能にした。導入店舗では関東圏の[パセラ](../Page/パセラ.md "wikilink")が有名だが、かつて[愛媛県](../Page/愛媛県.md "wikilink")のキスケカラオケWAOにも設置されていた。最大接続の場合の総曲数は150,000曲以上（重複有り）。

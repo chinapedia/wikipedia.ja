@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ヤマハ・Vシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・Vシリーズ)から翻訳されています。
 
 
 **Vシリーズ**（**ブイ・シリーズ**）は[ヤマハ](../Page/ヤマハ.md "wikilink")の[FM音源](../Page/FM音源.md "wikilink")を採用した**シンセサイザー**の型番・商品名。[DXシリーズの末期に発売され](../Page/ヤマハ・DXシリーズ.md "wikilink")、DXシリーズから[SYシリーズの過渡的な型番と思われる](../Page/ヤマハ・SYシリーズ.md "wikilink")。

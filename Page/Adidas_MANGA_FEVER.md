@@ -39,7 +39,7 @@
 4.  [山田芳裕](../Page/山田芳裕.md "wikilink")
 5.  [西村しのぶ](../Page/西村しのぶ.md "wikilink")
 6.  [岡野玲子](../Page/岡野玲子.md "wikilink")
-7.  [形部一平](https://ja.wikipedia.org/wiki/形部一平 "wikilink")
+7.  [形部一平](../Page/形部一平.md "wikilink")
 
 ## 書籍情報
 

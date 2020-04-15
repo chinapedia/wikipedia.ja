@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE 有頂天ホテル](https://ja.wikipedia.org/wiki/THE_有頂天ホテル)から翻訳されています。
 
 
 『**THE 有頂天ホテル**』（ザ うちょうてんホテル、*The Wow-Choten Hotel*）は、[2006年](../Page/2006年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")に全国で公開された[日本映画](../Page/日本映画.md "wikilink")。[三谷幸喜](../Page/三谷幸喜.md "wikilink")監督作品の第3作。主演の[役所広司](../Page/役所広司.md "wikilink")がホテルの支配人を演じた。興行収入60.8億円を記録し、2006年の邦画第3位の好成績を収めたヒット作品\[1\]。観客動員470万人。

@@ -1,4 +1,4 @@
-> この記事は[ZOIDS VS.](https://ja.wikipedia.org/wiki/ZOIDS_VS.)から翻訳されています。
+> この記事は[ZOIDS VS.シリーズ](https://ja.wikipedia.org/wiki/ZOIDS_VS.シリーズ)から翻訳されています。
 
 
 **ZOIDS VS.シリーズ**（ゾイドバーサスシリーズ）は、[トミー](../Page/トミー.md "wikilink")（現タカラトミー）より発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")。同社の展開する玩具シリーズ『[ゾイド](../Page/ゾイド.md "wikilink")』を操り戦う3D対戦ゲーム。

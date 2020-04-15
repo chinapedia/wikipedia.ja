@@ -1,4 +1,4 @@
-> この記事は[7th Memorial ](https://ja.wikipedia.org/wiki/7th_Memorial_)から翻訳されています。
+> この記事は[7th Memorial 虹](https://ja.wikipedia.org/wiki/7th_Memorial_虹)から翻訳されています。
 
 
 『**7th Memorial 虹**』（セブンス・メモリアル・にじ）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[尾崎豊](../Page/尾崎豊.md "wikilink")の未発表音源アルバム。

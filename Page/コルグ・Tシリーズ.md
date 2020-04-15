@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[コルグ・Tシリーズ](https://ja.wikipedia.org/wiki/コルグ・Tシリーズ)から翻訳されています。
 
 
 **Tシリーズ**（てぃーしりーず）は、かつて[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")が製造、販売した[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・機種名である。[1989年](../Page/1989年.md "wikilink")発売。[M1にフロッピーディスク](../Page/コルグ・Mシリーズ.md "wikilink")・ドライブやマスター・キーボード機能、音色を追加し、ディスプレイも大型化したモデル。M1同様[ミュージックワークステーション](../Page/ミュージックワークステーション.md "wikilink")である。

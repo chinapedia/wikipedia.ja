@@ -1,4 +1,4 @@
-> この記事は[VME](https://ja.wikipedia.org/wiki/VME)から翻訳されています。
+> この記事は[VMEバス](https://ja.wikipedia.org/wiki/VMEバス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:VMEbus.jpg "wikilink") **VMEバス**は、[コンピュータのバス規格のひとつであり](../Page/バス_\(コンピュータ\).md "wikilink")、元々は[モトローラ](../Page/モトローラ.md "wikilink")の[68000シリーズ](../Page/MC68000.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")のために開発された。その後、多くのデバイスで使用され、[IEC](../Page/国際電気標準会議.md "wikilink") 821、[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")/[IEEE](../Page/IEEE.md "wikilink") 1014-1987 として標準化された。 物理的には Eurocard サイズの接続機構を採用しているが、信号接続は独自のものである。 [1981年](../Page/1981年.md "wikilink")の最初に開発され、今日でも広く使われている。

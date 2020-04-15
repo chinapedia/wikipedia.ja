@@ -1,4 +1,4 @@
-> この記事は[AMA](https://ja.wikipedia.org/wiki/AMA)から翻訳されています。
+> この記事は[AMAスーパークロス](https://ja.wikipedia.org/wiki/AMAスーパークロス)から翻訳されています。
 
 
 **AMAスーパークロス選手権**（エーエムエー－、**AMA Supercross**）は、[アメリカの主要都市で開催される](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モトクロス](../Page/モトクロス.md "wikilink")の全米選手権の一つである。

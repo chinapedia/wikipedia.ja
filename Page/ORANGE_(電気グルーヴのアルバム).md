@@ -1,4 +1,4 @@
-> この記事は[ORANGE \(\)](https://ja.wikipedia.org/wiki/ORANGE_\(\))から翻訳されています。
+> この記事は[ORANGE \(電気グルーヴのアルバム\)](https://ja.wikipedia.org/wiki/ORANGE_\(電気グルーヴのアルバム\))から翻訳されています。
 
 
 『**ORANGE**』（オレンジ）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

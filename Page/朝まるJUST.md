@@ -1,4 +1,4 @@
-> この記事は[JUST](https://ja.wikipedia.org/wiki/JUST)から翻訳されています。
+> この記事は[朝まるJUST](https://ja.wikipedia.org/wiki/朝まるJUST)から翻訳されています。
 
 
 **朝まるJUST**（あさまるジャスト）は、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")（チバテレビ→チバテレ）ほかで[朝](../Page/朝.md "wikilink")に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで放送していた[地域](../Page/地域.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")（[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")のみ）、ステレオ放送。
@@ -83,7 +83,7 @@
   - [三須亜希子](https://ja.wikipedia.org/wiki/三須亜希子 "wikilink") 2005年4月～2005年9月 (月～水)
   - [大野由紀子](https://ja.wikipedia.org/wiki/大野由紀子 "wikilink") 2005年4月～2005年9月 (月～水)
   - [杉山明子](https://ja.wikipedia.org/wiki/杉山明子 "wikilink") 2005年4月～[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月 (木、金)
-  - [黒宮千香子](https://ja.wikipedia.org/wiki/黒宮千香子 "wikilink") 2005年4月～2008年3月 (木、金)
+  - [黒宮千香子](../Page/黒宮千香子.md "wikilink") 2005年4月～2008年3月 (木、金)
   - [渡名喜織恵](../Page/渡名喜織恵.md "wikilink") 2005年10月～2008年3月 (月～水)
   - [小川りかこ](https://ja.wikipedia.org/wiki/小川りかこ "wikilink") 2005年10月～2008年3月 (月～水)
   - [土屋晴乃](https://ja.wikipedia.org/wiki/土屋晴乃 "wikilink") 2008年[4月2日](../Page/4月2日.md "wikilink")～[2009年](../Page/2009年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")(水～金)

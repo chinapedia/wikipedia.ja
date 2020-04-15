@@ -1,4 +1,4 @@
-> この記事は[SAT \(\)](https://ja.wikipedia.org/wiki/SAT_\(\))から翻訳されています。
+> この記事は[SAT \(大学進学適性試験\)](https://ja.wikipedia.org/wiki/SAT_\(大学進学適性試験\))から翻訳されています。
 
 
 [New_SAT_Logo_(vector).svg](https://ja.wikipedia.org/wiki/File:New_SAT_Logo_\(vector\).svg "fig:New_SAT_Logo_(vector).svg") **SAT**（エスエーティー）は、非営利法人である [カレッジボード](https://ja.wikipedia.org/wiki/カレッジボード "wikilink") が主催する標準テスト。SAT論理試験（SAT Reasoning Test：旧SATⅠ）とSAT科目別試験（SAT Subject Test：旧SATⅡ）の総称。[アメリカの大学入学時に考慮する要素の一つである](https://ja.wikipedia.org/wiki/アメリカ合衆国の高等教育 "wikilink")。

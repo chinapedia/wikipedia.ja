@@ -1,4 +1,4 @@
-> この記事は[XOR](https://ja.wikipedia.org/wiki/XOR)から翻訳されています。
+> この記事は[XOR交換アルゴリズム](https://ja.wikipedia.org/wiki/XOR交換アルゴリズム)から翻訳されています。
 
 
 **XOR交換**(エックスオアこうかん、*XOR swap*)は、[コンピュータ・プログラミングの](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")の一種であり、[排他的論理和](../Page/排他的論理和.md "wikilink")(XOR)を使用して一時変数を使わずに同じデータ型のふたつの変数の(異なる)値を交換する操作である。 このアルゴリズムはXORの[対称差](../Page/対称差.md "wikilink")という性質を利用したものである。すなわち、任意の`A, B`について、`(A XOR B) XOR B = A` が成立することである。

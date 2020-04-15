@@ -1,4 +1,4 @@
-> この記事は[Tama \(\)](https://ja.wikipedia.org/wiki/Tama_\(\))から翻訳されています。
+> この記事は[Tama \(ベーシスト\)](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\))から翻訳されています。
 
 
 **白玉 雅己**（しらたま まさみ、[1974年](../Page/1974年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。旧芸名は**玉**(メジャーデビュー前)→**シラタマ**(メジャーデビューから2002年まで)→**Tama**（タマ、2002年から2019年の音楽活動再開直前まで）。元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")メンバー。
@@ -259,9 +259,9 @@ Natural Born Wild"</p></td>
 ## 外部リンク
 
   -
-  - [Sony Music Online Japan](http://www.sonymusic.co.jp/artist/Tama/) （SME公式サイト）
+  - [Sony Music Online Japan](https://www.sonymusic.co.jp/artist/Tama/) （SME公式サイト）
 
-  - [ポルノグラフィティ](http://www.pornograffitti.jp/) （SME公式サイト）
+  - [ポルノグラフィティ](https://www.pornograffitti.jp/) （SME公式サイト）
 
 [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:ポルノグラフィティのメンバー](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティのメンバー "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

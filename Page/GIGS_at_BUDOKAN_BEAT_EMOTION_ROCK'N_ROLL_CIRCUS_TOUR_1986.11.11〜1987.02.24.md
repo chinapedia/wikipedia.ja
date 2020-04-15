@@ -1,4 +1,4 @@
-> この記事は[GIGS at BUDOKAN BEAT EMOTION ROCK\'N ROLL CIRCUS TOUR 1986.11.111987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK\'N_ROLL_CIRCUS_TOUR_1986.11.111987.02.24)から翻訳されています。
+> この記事は[GIGS at BUDOKAN BEAT EMOTION ROCK\'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK\'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24)から翻訳されています。
 
 
 『**GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24**』（ギグズ・アット・ぶどうかん・ビート・エモーション・ロックンロール・サーカス・ツアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

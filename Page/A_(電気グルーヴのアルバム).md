@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[A \(電気グルーヴのアルバム\)](https://ja.wikipedia.org/wiki/A_\(電気グルーヴのアルバム\))から翻訳されています。
 
 
 『**A**』（エース）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

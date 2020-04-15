@@ -1,4 +1,4 @@
-> この記事は[TOP OF THE POPS \(\)](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(\))から翻訳されています。
+> この記事は[TOP OF THE POPS \(桑田佳祐のアルバム\)](https://ja.wikipedia.org/wiki/TOP_OF_THE_POPS_\(桑田佳祐のアルバム\))から翻訳されています。
 
 
 『**TOP OF THE POPS**』（トップ・オブ・ザ・ポップス）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。

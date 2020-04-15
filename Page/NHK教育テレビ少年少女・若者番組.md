@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK教育テレビ少年少女・若者番組](https://ja.wikipedia.org/wiki/NHK教育テレビ少年少女・若者番組)から翻訳されています。
 
 
 **NHK教育テレビ少年少女・若者番組**（エヌエイチケーきょういくテレビしょうねんしょうじょわかものばんぐみ）は、[NHK教育テレビ（Eテレ）の放送番組時刻表に掲載されている](../Page/NHK教育テレビジョン.md "wikilink")「少年少女・ティーンズ・若者」の各ゾーンで放送された歴代番組の総称である。
@@ -52,7 +52,7 @@
 <tr class="odd">
 <td><p>17:35</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Eテレキッズ" title="wikilink">Eテレキッズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラディアン" title="wikilink">ラディアン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MAJOR_2nd" title="wikilink">メジャーセカンド2 </a></p></td>
 <td><p>17:35</p></td>
 <td></td>
 <td></td>
@@ -81,9 +81,9 @@
 </tr>
 <tr class="even">
 <td><p>18:20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天才てれびくん" title="wikilink">天才てれびくん</a>YOU</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/天才てれびくん" title="wikilink">天才てれびくん</a>hello,</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/天才てれびくん" title="wikilink">天才てれびくん<br />
-YOU</a></p></td>
+hello,</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビットワールド" title="wikilink">ビットワールド</a></p></td>
 <td><p>18:20</p></td>
 <td></td>
@@ -105,8 +105,7 @@ YOU</a></p></td>
 <td><p>18:45</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/わらたまドッカ〜ン" title="wikilink">わらたま<br />
 ドッカ〜ン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/少年アシベ" title="wikilink">少年アシベ<br />
-GO!GO!ゴマちゃん</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブレーカーズ" title="wikilink">ブレーカーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ねこねこ日本史" title="wikilink">ねこねこ日本史</a></p></td>
 <td><p>18:45</p></td>
 <td></td>
@@ -126,8 +125,8 @@ GO!GO!ゴマちゃん</a></p></td>
 <tr class="even">
 <td><p>18:55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/沼にハマってきいてみた" title="wikilink">沼にハマってきいてみた</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラシカロイド" title="wikilink">クラシカロイド</a>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Eダンスアカデミー" title="wikilink">Eダンスアカデミー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おしりたんてい" title="wikilink">おしりたんてい</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボス・ベイビー" title="wikilink">ボス・ベイビー</a></p></td>
 <td><p>18:55</p></td>
 <td></td>
 <td></td>
@@ -144,9 +143,9 @@ GO!GO!ゴマちゃん</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>19:20</p></td>
-<td><p><a href="../Page/ガールズクラフト.md" title="wikilink">ガールズクラフト</a></p></td>
-<td><p>19:20</p></td>
+<td><p>19:15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Eダンスアカデミー" title="wikilink">Eダンスアカデミー</a></p></td>
+<td><p>19:15</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -154,13 +153,37 @@ GO!GO!ゴマちゃん</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>19:20</p></td>
+<td><p><a href="../Page/プチプチ・アニメ.md" title="wikilink">プチプチ・アニメ</a></p></td>
+<td><p>19:20</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>19:25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iCarly" title="wikilink">iCarly</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Eテレセレクション" title="wikilink">Eテレ<br />
+セレクション</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/すイエんサー" title="wikilink">すイエんサー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MAJOR_2nd" title="wikilink">メジャーセカンド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/＃ジューダイ" title="wikilink">＃ジューダイ</a></p></td>
-<td><p><a href="../Page/スクール・オブ・ロック.md" title="wikilink">スクール・オブ・ロック</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/魔入りました!入間くん" title="wikilink">魔入りました!<br />
+入間くん</a></p></td>
+<td><p><a href="../Page/ファインド・ミー_〜パリでタイムトラベル〜.md" title="wikilink">ファインド・ミー<br />
+〜パリでタイムトラベル〜</a></p></td>
 <td><p>19:25</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19:40</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/知りたガールと学ボーイ" title="wikilink">知りたガール<br />
+と学ボーイ</a></p></td>
+<td><p>19:40</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -175,18 +198,18 @@ GO!GO!ゴマちゃん</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>19:50</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ごちそんぐDJ" title="wikilink">ごちそんぐDJ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレイクッ!" title="wikilink">ブレイクッ!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/びじゅチューン!" title="wikilink">びじゅチューン!</a></p></td>
-<td><p><a href="../Page/NHKプレマップ.md" title="wikilink">プレマップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボキャブライダー" title="wikilink">ボキャブライダー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/びじゅチューン!" title="wikilink">びじゅチューン!</a></p></td>
+<td><p><a href="../Page/ガールズクラフト.md" title="wikilink">ガールズクラフト</a></p></td>
 <td><p>19:50</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>19:55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/まいにちスクスク" title="wikilink">まいにちスクスク</a></p></td>
-<td><p><a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a></p></td>
+<td><p><a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a>リクエスト</p></td>
 <td><p><a href="../Page/NHK手話ニュース.md" title="wikilink">NHK手話ニュース</a></p></td>
 <td><p>19:55</p></td>
 <td></td>
@@ -198,43 +221,50 @@ GO!GO!ゴマちゃん</a></p></td>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-| 番組名                                                                            | 放送時間          | 備考・再放送時間      |
-| ------------------------------------------------------------------------------ | ------------- | ------------- |
-| [Eテレ2355](https://ja.wikipedia.org/wiki/Eテレ0655&2355 "wikilink")               | 平日23:55-24:00 |               |
-| [＃ジューダイ](https://ja.wikipedia.org/wiki/＃ジューダイ "wikilink")                      | 月曜24:25-24:50 | 再放送           |
-| [オイコノミア](https://ja.wikipedia.org/wiki/オイコノミア "wikilink")                      | 水曜22:00-22:45 | 木曜24:30-25:15 |
-| [ふるカフェ系 ハルさんの休日](https://ja.wikipedia.org/wiki/ふるカフェ系_ハルさんの休日 "wikilink")      | 水曜23:00-23:30 | 日曜18:30-19:00 |
-| [モーガン・フリーマン 時空を超えて](https://ja.wikipedia.org/wiki/モーガン・フリーマンが語る宇宙 "wikilink")  | 木曜22:00-22:45 |               |
-| [ウワサの保護者会](https://ja.wikipedia.org/wiki/ウワサの保護者会 "wikilink")                  | 金曜21:30-21:55 | 土曜12:00-12:25 |
-| [奇跡のレッスン](https://ja.wikipedia.org/wiki/奇跡のレッスン "wikilink")                    | 金曜23:00-23:50 | 日曜24:45-25:35 |
-| [クラシカロイド](https://ja.wikipedia.org/wiki/クラシカロイド "wikilink")                    | 土曜24:00-24:25 | 再放送           |
-| [新世代が解く\!ニッポンのジレンマ](https://ja.wikipedia.org/wiki/新世代が解く!ニッポンのジレンマ "wikilink") | 土曜24:25-25:25 | 月1回程度         |
-| [サイエンスZERO](../Page/サイエンスZERO.md "wikilink")                                   | 日曜23:30-24:00 | 土曜12:30-13:00 |
-| [地球ドラマチック](../Page/地球ドラマチック.md "wikilink")                                     | 日曜24:00-24:45 | 再放送           |
+| 番組名                                                                   | 放送時間            |
+| --------------------------------------------------------------------- | --------------- |
+| [Eダンスアカデミー](https://ja.wikipedia.org/wiki/Eダンスアカデミー "wikilink")       | 土曜09:30 - 09:55 |
+| [キャラとおたまじゃくし島](https://ja.wikipedia.org/wiki/キャラとおたまじゃくし島 "wikilink") | 土曜09:55 - 10:00 |
+| [すイエんサー](https://ja.wikipedia.org/wiki/すイエんサー "wikilink")             | 土曜10:00 - 10:25 |
+| [ガールズクラフト](../Page/ガールズクラフト.md "wikilink")                            | 土曜10:25 - 10:30 |
+| [バビブベボディ](https://ja.wikipedia.org/wiki/バビブベボディ "wikilink")           | 土曜10:30 - 10:40 |
+| [ごちそんぐDJ](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん "wikilink")      | 土曜10:40 - 10:45 |
+| [ざんねんないきもの事典](https://ja.wikipedia.org/wiki/ざんねんないきもの事典 "wikilink")   | 土曜10:45 - 10:50 |
+| [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")           | 土曜10:50 - 11:00 |
+| [サイエンスZERO](../Page/サイエンスZERO.md "wikilink")                          | 土曜11:00 - 11:30 |
+| [いじめをノックアウト](https://ja.wikipedia.org/wiki/いじめをノックアウト "wikilink")     | 土曜11:30 - 11:40 |
 
-21時以降の主な番組
+土曜午前枠
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-| 番組名                                                                       | 放送時間          |
-| ------------------------------------------------------------------------- | ------------- |
-| [Eダンスアカデミー](https://ja.wikipedia.org/wiki/Eダンスアカデミー "wikilink")           | 土曜09:30-10:00 |
-| [すイエんサー](https://ja.wikipedia.org/wiki/すイエんサー "wikilink")                 | 土曜10:00-10:25 |
-| [ガールズクラフト](../Page/ガールズクラフト.md "wikilink")                                | 土曜10:25-10:30 |
-| [エイエイGO\!](https://ja.wikipedia.org/wiki/エイエイGO! "wikilink")              | 土曜11:00-11:20 |
-| [リトル・チャロ](https://ja.wikipedia.org/wiki/リトル・チャロ "wikilink")               | 土曜11:20-11:30 |
-| [いじめをノックアウト](https://ja.wikipedia.org/wiki/いじめをノックアウト "wikilink")         | 土曜11:30-11:40 |
-| [ウワサの保護者会](https://ja.wikipedia.org/wiki/ウワサの保護者会 "wikilink")             | 土曜12:00-12:25 |
-| [ごちそんぐDJ](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん#ごちそんぐDJ "wikilink")  | 土曜12:25-12:30 |
-| [サイエンスZERO](../Page/サイエンスZERO.md "wikilink")                              | 土曜12:30-13:00 |
-| [こども手話ウイークリー](https://ja.wikipedia.org/wiki/こども手話ウイークリー "wikilink")       | 日曜17:50-18:00 |
-| [ふるカフェ系 ハルさんの休日](https://ja.wikipedia.org/wiki/ふるカフェ系_ハルさんの休日 "wikilink") | 日曜18:30-19:00 |
+| 番組名                                                                         | 放送時間            |
+| --------------------------------------------------------------------------- | --------------- |
+| [こども手話ウイークリー](https://ja.wikipedia.org/wiki/こども手話ウイークリー "wikilink")         | 日曜17:50 - 18:00 |
+| [ネコメンタリー 猫も、杓子も。](https://ja.wikipedia.org/wiki/ネコメンタリー_猫も、杓子も。 "wikilink") | 日曜18:30 - 18:55 |
+| [ごちそんぐDJ](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん "wikilink")            | 日曜18:55 - 19:00 |
+| [もっと\!まじめにふまじめ かいけつゾロリ](../Page/もっと!まじめにふまじめ_かいけつゾロリ.md "wikilink")         | 日曜19:00 - 19:25 |
+| [ざんねんないきもの事典](https://ja.wikipedia.org/wiki/ざんねんないきもの事典 "wikilink")         | 日曜19:25 - 19:30 |
+| [サイエンスZERO](../Page/サイエンスZERO.md "wikilink")                                | 日曜23:30 - 24:00 |
+| [地球ドラマチック](../Page/地球ドラマチック.md "wikilink")                                  | 日曜24:00 - 24:45 |
 
-土曜昼間枠・日曜夕方枠
+日曜枠
 
 </div>
+
+| 番組名                                                                         | 放送時間            | 備考・再放送時間        |
+| --------------------------------------------------------------------------- | --------------- | --------------- |
+| [Eテレ2355](https://ja.wikipedia.org/wiki/Eテレ0655&2355 "wikilink")            | 平日23:55 - 24:00 |                 |
+| [銀河英雄伝説 Die Neue These](../Page/銀河英雄伝説.md "wikilink")                       | 月曜22:50 - 23:15 |                 |
+| [芸人先生](https://ja.wikipedia.org/wiki/芸人先生 "wikilink")                       | 火曜22:50 - 23:20 |                 |
+| [又吉直樹のヘウレーカ\!](https://ja.wikipedia.org/wiki/又吉直樹のヘウレーカ! "wikilink")        | 水曜22:00 - 22:45 | 木曜24:00 - 24:45 |
+| [ネコメンタリー 猫も、杓子も。](https://ja.wikipedia.org/wiki/ネコメンタリー_猫も、杓子も。 "wikilink") | 水曜22:50 - 23:15 | 日曜18:30 - 18:55 |
+| [世界の哲学者に人生相談](https://ja.wikipedia.org/wiki/世界の哲学者に人生相談 "wikilink")         | 木曜22:50 - 23:20 |                 |
+| [ドキュランドへ ようこそ](https://ja.wikipedia.org/wiki/ドキュランドへ_ようこそ "wikilink")       | 金曜22:00 - 22:50 |                 |
+
+平日22時以降の主な番組
 
 ## 教育バラエティ
 

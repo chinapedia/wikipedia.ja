@@ -205,6 +205,15 @@ CDで発売されているものと、iTunes Store専用で発売されている
   - 「DIRGE of CERBERUS-FINAL FANTASY VII-」Original Soundtrack（通常盤）
   - 「FINAL FANTASY VII Dirge of Cerberus - Multiplayer Mode」（Original Sound Collections）
 
+### 書籍
+
+  - DIRGE of CERBERUS－FINAL FANTASY 7－PRELUDE
+  - ダージュ オブ ケルベロス ―ファイナルファンタジー7― 公式コンプリートガイド
+
+### その他
+
+  - ダージュ オブ ケルベロス ファイナルファンタジーVII PLAY ARTS改 ヴィンセント・ヴァレンタイン
+
 ## 脚注
 
 ## 関連項目

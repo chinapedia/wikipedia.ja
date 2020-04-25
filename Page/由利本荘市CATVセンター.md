@@ -49,13 +49,13 @@
 | 17                                 | B101                                                            | [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink") |
 |                                    | B103                                                            | NHK[BSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")                                            |
 |                                    | B141〜143                                                        | [BS日テレ](../Page/BS日本.md "wikilink")                                                                          |
-|                                    | B151〜153                                                        | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                      |
+|                                    | B151〜153                                                        | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                         |
 |                                    | B161〜163                                                        | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                       |
 |                                    | B171〜173                                                        | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                                                                       |
 |                                    | B181〜183                                                        | [BSフジ](../Page/BSフジ.md "wikilink")                                                                           |
 | 21                                 | B191〜193                                                        | [WOWOW](../Page/WOWOW.md "wikilink")                                                                         |
 |                                    | B200                                                            | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") BS                                                              |
-|                                    | B211                                                            | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                                  |
+|                                    | B211                                                            | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                                     |
 |                                    | B222                                                            | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                            |
 |                                    | J700                                                            | [チャンネル700](https://ja.wikipedia.org/wiki/チャンネル700 "wikilink")                                                |
 | 6                                  | (J709)                                                          | [放送大学](../Page/放送大学学園.md "wikilink")                                                                         |
@@ -116,6 +116,7 @@
 
   - 2010年4月から[テレビユー山形](../Page/テレビユー山形.md "wikilink")の[区域外再放送](../Page/区域外再放送.md "wikilink")が開始された（[デジタル放送](../Page/デジタル放送.md "wikilink")のみ）。これにより、由利本荘市内では同CATVに加入していれば、市内全域で視聴できることになる。ただし、由利本荘市松ヶ崎地内において直接受信したものを配信しているため、電波の伝搬状況によっては、混信等で正しくデコードできず、受信できないことも希にある。
   - デジタルTVは[JC-HITSを使用している](https://ja.wikipedia.org/wiki/ジャパンケーブルキャスト "wikilink")。
+  - 2020年3月10日をもって気象情報チャンネル（D122Ch）が気象観測局の老朽化により同年3月末日をもってチャンネル700、放送大学を含むCS多チャンネル放送サービスがCS放送受信施設の老朽化と放送設備の更新・維持に多額の費用が必要になると見込まれることからそれぞれ終了した。なおチャンネル700、ショップチャンネル、QVCについてはコミュニティチャンネル(D121Ch)で一部の番組のみ放送している。代わって同年6月から衛星4K放送の配信を開始することになった。
 
 ### ラジオ局
 

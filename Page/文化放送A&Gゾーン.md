@@ -24,7 +24,7 @@
 
 ### 野球中継や報道特別番組への対応
 
-平日の火曜 - 金曜21時台の一部は、このゾーンにあてられており、野球中継が延長（最大は22:20）した場合はそちらが優先され、番組の繰り下げや休止がしばしば発生する。
+平日の21時台の一部は、このゾーンにあてられており、野球中継が延長（最大は22:20）した場合はそちらが優先され、番組の繰り下げや休止がしばしば発生する。
 
 2013年度からは『ホームランナイター』は原則として土曜日のみの放送（日曜日は一部の公式戦と日本シリーズのみ中継）となり\[9\]、2019年度からは同番組のレギュラー放送の終了（土・日曜日共に一部の公式戦と日本シリーズのみ中継）\[10\]\[11\]によって、土・日のA\&Gゾーン各番組の放送を優先する方針に切り替わっている。ただし、野球中継をする場合は番組の繰り下げや短縮、休止が発生する。さらに30分単位の収録番組については、各番組の休止頻度に公平さを持たせるために、ローテーションで休止優先順位が定められる。
 
@@ -62,7 +62,7 @@
 
 ### 現在放送されている番組
 
-（2020年1月現在）
+（2020年4月現在）
 
 <table>
 <thead>
@@ -81,18 +81,18 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/文化放送番組一覧.md" title="wikilink">一般番組</a></em></p></td>
-<td><p>[生]<strong><a href="https://ja.wikipedia.org/wiki/みらいブンカ_village" title="wikilink">みらいブンカvillage 堀江由衣×浅野真澄の #とれとれ</a></strong></p></td>
-<td><p><em>一般番組</em>[15]</p></td>
+<td><p><em><a href="../Page/文化放送番組一覧.md" title="wikilink">一般番組</a></em>[15][16]</p></td>
 <td><p>[生][RAG+]<strong><a href="https://ja.wikipedia.org/wiki/A&amp;Gリクエストアワー_阿澄佳奈のキミまち!" title="wikilink">A&amp;Gリクエストアワー 阿澄佳奈のキミまち!</a></strong></p></td>
-<td><p><em>一般番組</em>[16][17][18][19]</p></td>
+<td><p><em>一般番組</em></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>20:00</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヴァルキリーアナトミア_-ジ・オリジン-#ラジオ" title="wikilink">冬馬由美&amp;ランズベリー・アーサーのVALKYRIE -RADIO ANATOMIA-</a></strong>[20]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/にじさんじ#出演" title="wikilink">にじさんじpresents リゼるるListen</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -104,7 +104,7 @@
 <tr class="odd">
 <td><p>20:30</p></td>
 <td></td>
-<td><p><em>一般番組</em></p></td>
+<td><p><em>一般番組</em>[17]</p></td>
 <td><p>[AG+]<strong><a href="https://ja.wikipedia.org/wiki/宏太朗と裕一郎_ひょろっと男子" title="wikilink">宏太朗と裕一郎 ひょろっと男子</a></strong></p></td>
 <td></td>
 <td></td>
@@ -114,12 +114,11 @@
 </tr>
 <tr class="even">
 <td><p>21:00</p></td>
-<td><p><strong>MOMO・SORA・SHIINA Talking Box</strong><br />
-<a href="https://ja.wikipedia.org/wiki/麻倉もも" title="wikilink">麻倉もも</a>、<a href="https://ja.wikipedia.org/wiki/雨宮天" title="wikilink">雨宮天</a>、<a href="https://ja.wikipedia.org/wiki/夏川椎菜" title="wikilink">夏川椎菜</a></p></td>
-<td><p><em>一般番組</em></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/みらいブンカ_village" title="wikilink">堀江由衣×浅野真澄の #とれとれ</a></strong></p></td>
 <td><p>[生][RAG+]<strong><a href="https://ja.wikipedia.org/wiki/A&amp;G_TRIBAL_RADIO_エジソン" title="wikilink">A&amp;G TRIBAL RADIO エジソン</a></strong><br />
-2018年10月から下半期限定で[他][21]</p></td>
+2018年10月から下半期限定で[他][18]</p></td>
 <td><p>[RAG+]<strong><a href="https://ja.wikipedia.org/wiki/大橋彩香のAny_Beat!" title="wikilink">大橋彩香のAny Beat!</a></strong></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,19 +126,19 @@
 </tr>
 <tr class="odd">
 <td><p>21:30</p></td>
-<td><p>[他]<strong><a href="https://ja.wikipedia.org/wiki/浅野真澄×山田真哉の週刊マネーランド" title="wikilink">浅野真澄×山田真哉の週刊マネーランド</a></strong>[22]</p></td>
 <td><p><em>一般番組</em></p></td>
 <td><p>[他]<strong><a href="https://ja.wikipedia.org/wiki/田村ゆかりの乙女心症候群" title="wikilink">田村ゆかりの乙女心{{JIS2004フォント</a></strong></p></td>
-<td><p><em>一般番組</em>[23]</p></td>
-<td><p>[AG+]<strong><a href="https://ja.wikipedia.org/wiki/Fate/Grand_Order#Webラジオ" title="wikilink">Fate/Grand Order カルデア・ラジオ局Plus</a></strong>[24]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_DAM" title="wikilink">LIVE DAM Ai presents ANISON INSTITUTE 神ラボ!</a></strong></p></td>
+<td><p>[AG+]<strong><a href="https://ja.wikipedia.org/wiki/Fate/Grand_Order#Webラジオ" title="wikilink">Fate/Grand Order カルデア・ラジオ局Plus</a></strong>[19]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22:00</p></td>
-<td><p><em>一般番組</em>[25]</p></td>
-<td><p>[生]<strong><a href="https://ja.wikipedia.org/wiki/RADIO_UnoZero" title="wikilink">RADIO UnoZero</a></strong>[26]</p></td>
+<td><p><em>一般番組</em>[20]</p></td>
+<td><p>[生]<strong><a href="https://ja.wikipedia.org/wiki/RADIO_UnoZero" title="wikilink">RADIO UnoZero</a></strong>[21]</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/水瀬いのり_MELODY_FLAG" title="wikilink">水瀬いのり MELODY FLAG</a></strong></p></td>
 <td></td>
 <td></td>
@@ -149,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><p>22:30</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/本渡楓・楠木ともりのFUN&#39;S_PROJECT_LAB" title="wikilink">本渡楓・楠木ともりのFUN'S PROJECT LAB</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/FUN&#39;S_PROJECT_LAB" title="wikilink">小松未可子・石原夏織のFUN'S PROJECT LAB</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td><p>23:30</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/拡散性ミリオンアーサー#ラジオ" title="wikilink">ミリオンアーサーRADIO! ミリラジ!</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/A3!" title="wikilink">A3! Blooming RADIO</a></strong></p></td>
 <td><p>[他]<strong><a href="../Page/水樹奈々_スマイル・ギャング.md" title="wikilink">水樹奈々 スマイル・ギャング</a></strong><br />
 2011年3月まで[文+]</p></td>
 <td></td>
@@ -207,22 +206,20 @@
 </tr>
 <tr class="even">
 <td><p>翌1:00</p></td>
-<td><p>[生][他]'''[[&amp;CAST</p></td>
-<td><p>!アワー_ラブナイツ!|&amp;CAST</p></td>
-<td><p>!アワー ラブナイツ!]]'''</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/楠木ともり_The_Music_Reverie" title="wikilink">楠木ともり The Music Reverie</a></strong></p></td>
 <td><p>[他]<strong><a href="../Page/神谷浩史・小野大輔のDearGirl〜Stories〜.md" title="wikilink">神谷浩史・小野大輔のDearGirl〜Stories〜</a></strong><br />
 2011年3月まで[AG+][文+]</p></td>
-<td><p>[生][他]'''[[&amp;CAST</p></td>
-<td><p>!アワー_ラブランチ!|&amp;CAST</p></td>
-<td><p>!アワー ラブバンケット! ANNEX]]'''<ref group="注">&amp;CAST</p></td>
-<td><p>!では0:00から生配信しているが、文化放送では後半30分のみ生放送。</ref><br />
-<a href="https://ja.wikipedia.org/wiki/入江玲於奈" title="wikilink">入江玲於奈</a></p></td>
+<td><p>[AG+]<strong><a href="https://ja.wikipedia.org/wiki/RADIO_HAMAMATSUCHO" title="wikilink">RADIO HAMAMATSUCHO</a></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>翌1:30</p></td>
 <td><p>[他]<strong><a href="https://ja.wikipedia.org/wiki/ボルテージ_(企業)#ラジオ" title="wikilink">柿原徹也・畠中祐 ボクらが君を幸せにするラジオ</a></strong></p></td>
-<td><p><strong>DAIV TO MUSIC</strong><br />
-<a href="https://ja.wikipedia.org/wiki/前山田健一" title="wikilink">ヒャダイン</a></p></td>
+<td><p><em>（放送休止枠）</em></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -232,11 +229,12 @@
 </tr>
 <tr class="even">
 <td><p>翌2:00</p></td>
-<td><p><em>一般番組</em></p></td>
 <td><p>[他]<strong><a href="../Page/堀江由衣の天使のたまご.md" title="wikilink">堀江由衣の天使のたまご</a></strong><br />
 2011年3月まで[文+]</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/A3!" title="wikilink">A3! Blooming RADIO</a></strong></p></td>
-<td><p><em>（放送休止枠）</em></p></td>
+<td><p><strong>MOMO・SORA・SHIINA Talking Box</strong><br />
+<a href="https://ja.wikipedia.org/wiki/麻倉もも" title="wikilink">麻倉もも</a>、<a href="https://ja.wikipedia.org/wiki/雨宮天" title="wikilink">雨宮天</a>、<a href="https://ja.wikipedia.org/wiki/夏川椎菜" title="wikilink">夏川椎菜</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -244,8 +242,8 @@
 </tr>
 <tr class="odd">
 <td><p>翌2:30</p></td>
-<td><p><em>一般番組</em>[27]</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/エブリスタ・マンガボックス_presents_豊永・小松・三上の真夜中のラジオ文芸部" title="wikilink">エブリスタ・マンガボックス presents 豊永・小松・三上の真夜中のラジオ文芸部</a></strong></p></td>
+<td><p><em>一般番組</em>[22]</p></td>
+<td><p><strong><a href="../Page/安元洋貴.md" title="wikilink">安元洋貴</a>の笑われるセールスマン（仮）</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -408,12 +406,14 @@
 | \[継AG+\]           | [ゆいかおりの実♪](https://ja.wikipedia.org/wiki/ゆいかおりの実♪ "wikilink")                                                                               | 2014年4月6日                               |
 |                    | [花澤香菜・雨宮天のRADIO GREE NIGHT](https://ja.wikipedia.org/wiki/花澤香菜・雨宮天のRADIO_GREE_NIGHT "wikilink")                                             | 2014年10月5日                              |
 | \[AG+\]            | セガネットワークスアワー [緑川光・今井麻美・内田彩のチェンクロラジオ](https://ja.wikipedia.org/wiki/チェインクロニクル#ラジオ "wikilink")                                                | 2014年10月5日                              |
+| \[他\]              | [浅野真澄×山田真哉の週刊マネーランド](https://ja.wikipedia.org/wiki/浅野真澄×山田真哉の週刊マネーランド "wikilink")                                                           | 2015年3月30日                              |
 | \[AG+\]            | セガネットワークスアワー [村川梨衣・大坪由佳のムラツボ研究所](https://ja.wikipedia.org/wiki/村川梨衣・大坪由佳のムラツボ研究所 "wikilink")                                                | 2015年4月5日                               |
 | \[他\]\[RAG+\]      | ニューギン presents \[\[義風堂々_直江兼続_-前田慶次月語り-\#ラジオ番組|義風堂々                                                                                        | 〜音語り〜\]\]                               |
 |                    | [西内ひろ・沢井美空のMissラジオ](https://ja.wikipedia.org/wiki/小松未可子・西山宏太朗_Twilight_〜夕凪のレストラン〜#Missラジオ "wikilink")                                       | 2015年4月5日                               |
 | \[生\]\[他\]         | [ユニゾン\!](https://ja.wikipedia.org/wiki/ユニゾン! "wikilink")                                                                                    | 2015年6月30日                              |
 |                    | [リッスン? 2-3](https://ja.wikipedia.org/wiki/リッスン?_2-3 "wikilink")                                                                             | 2015年6月30日                              |
 |                    | [miHoYo Presents 井口裕香の崩壊学園放送部](https://ja.wikipedia.org/wiki/崩壊学園#ラジオ "wikilink")                                                           | 2015年7月4日                               |
+|                    | [ミリオンアーサーRADIO\! ミリラジ\!](https://ja.wikipedia.org/wiki/拡散性ミリオンアーサー#ラジオ "wikilink")                                                          | 2015年10月3日                              |
 |                    | [ラジオ シュヴァルツェスマーケン](https://ja.wikipedia.org/wiki/シュヴァルツェスマーケン#ラジオ "wikilink")                                                               | 2015年10月3日                              |
 |                    | [鷲崎健・白井悠介のRadio X計画](https://ja.wikipedia.org/wiki/鷲崎健・白井悠介のRadio_X計画 "wikilink")                                                           | 2015年10月3日                              |
 | \[AG+\]            | FgG presents [小松未可子](https://ja.wikipedia.org/wiki/小松未可子 "wikilink")と[優木かな](https://ja.wikipedia.org/wiki/優木かな "wikilink")の★★★★★★           | 2015年10月3日                              |
@@ -430,15 +430,20 @@
 |                    | [井口裕香のトーキングすむすむ](https://ja.wikipedia.org/wiki/井口裕香のトーキングすむすむ "wikilink")                                                                   | 2016年7月3日                               |
 |                    | [ダイヤのA The RADIO](https://ja.wikipedia.org/wiki/ダイヤのA#ラジオ "wikilink")                                                                       | 2017年1月5日                               |
 |                    | [安元洋貴・江口拓也のミクチャラジオ](https://ja.wikipedia.org/wiki/安元洋貴・江口拓也のミクチャラジオ "wikilink")                                                             | 2017年4月9日                               |
-|                    | [けものフレンズ presents フレンズ探検隊](https://ja.wikipedia.org/wiki/けものフレンズ_\(アニメ\)#ラジオ "wikilink")\[28\]                                              | 2017年10月4日                              |
+|                    | [冬馬由美&ランズベリー・アーサーのVALKYRIE -RADIO ANATOMIA-](https://ja.wikipedia.org/wiki/ヴァルキリーアナトミア_-ジ・オリジン-#ラジオ "wikilink")                             | 2017年7月7日                               |
+|                    | [けものフレンズ presents フレンズ探検隊](https://ja.wikipedia.org/wiki/けものフレンズ_\(アニメ\)#ラジオ "wikilink")\[23\]                                              | 2017年10月4日                              |
 |                    | [バンドリ\! ガルパラジオ with Afterglow](https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ!#ラジオ "wikilink")                                             | 2017年10月6日                              |
 |                    | PLAY TITAN presents 昌也・雄馬のG・A・P                                                                                                             | 2017年10月7日                              |
 |                    | [西武鉄道](../Page/西武鉄道.md "wikilink") presents [平田広明](../Page/平田広明.md "wikilink")・[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")のこえさんぽ。 | 2017年11月3日                              |
-| \[AG+\]            | [Yostar presents 加隈亜衣のアズールレーディオ](https://ja.wikipedia.org/wiki/Yostar_presents_加隈亜衣のアズールレーディオ "wikilink")\[29\]                             | 2018年2月3日                               |
+|                    | [エブリスタ・マンガボックス presents 豊永・小松・三上の真夜中のラジオ文芸部](https://ja.wikipedia.org/wiki/エブリスタ・マンガボックス_presents_豊永・小松・三上の真夜中のラジオ文芸部 "wikilink")           | 2018年1月4日                               |
+| \[AG+\]            | [Yostar presents 加隈亜衣のアズールレーディオ](https://ja.wikipedia.org/wiki/Yostar_presents_加隈亜衣のアズールレーディオ "wikilink")\[24\]                             | 2018年2月3日                               |
 | \[生\]\[他\]         | [ユニゾン\!〜ジェネレーション〜](https://ja.wikipedia.org/wiki/ユニゾン!〜ジェネレーション〜 "wikilink")                                                                | 2018年4月2日                               |
 |                    | [山本希望](https://ja.wikipedia.org/wiki/山本希望 "wikilink")・[田中貴子](https://ja.wikipedia.org/wiki/田中貴子 "wikilink")のKING'S RAID"IO"\!               | 2018年10月2日                              |
+| \[生\]\[他\]         | \[\[\&CAST                                                                                                                                  | \!アワー_ラブナイツ\!|\&CAST                   |
 |                    | [ドラガリアロスト ラジオキャッスル](https://ja.wikipedia.org/wiki/ドラガリアロスト#ラジオ "wikilink")                                                                  | 2018年10月5日                              |
+|                    | DAIV TO MUSIC                                                                                                                               | 2018年10月5日                              |
 | \[他\]\[移AG+\]      | \[\[\&CAST                                                                                                                                  | \!アワー_クイーンズブレイド_TRIANGLEスクランブル|\&CAST |
+| \[生\]\[他\]         | \[\[\&CAST                                                                                                                                  | \!アワー_ラブランチ\!|\&CAST                   |
 |                    |                                                                                                                                             |                                         |
 
 </div>
@@ -540,22 +545,17 @@ AG-ON Premiumでは、超\!A\&G+で配信された番組や文化放送で放送
 8.  [番組制作事業 ｜ MAGES. Inc.](http://mages.co.jp/business/program/)
 9.  [QR日曜夜に新番、ナイターは注目カードのみ](http://www.bunkatsushin.com/news/article.aspx?id=69686) - 文化通信 2013年2月20日
 10. [文化放送、週末ナイター今季は中継せず　アニメ番組強化、ラジオに多様化の波](https://www.daily.co.jp/baseball/2019/02/21/0012084385.shtml) - デイリースポーツ 2019年2月21日
-11. 関東圏の球団の対戦相手の地元局（主に[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")・[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")〈夏の高校野球期間など乗り込み自社制作ができない場合〉・[中国放送](../Page/中国放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）と、土曜日の[福井放送](https://ja.wikipedia.org/wiki/大和田ラジオ本舗 "wikilink")・[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")への裏送りは継続。これらの裏送り中継と系列局制作の中継（前記各局に加えて[東北放送](../Page/東北放送.md "wikilink")も）を適宜本番カードに組み込むことで、土曜・日曜のNRNナイターは維持されている。また、ナイター開催がない場合、土曜日に限り福井放送と山口放送に『[SET UP\!\!](https://ja.wikipedia.org/wiki/SET_UP!! "wikilink")』の裏送りを行っている。
+11. 関東圏の球団の対戦相手の地元局（主に[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")・[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")〈夏の高校野球期間など乗り込み自社制作ができない場合〉・[中国放送](../Page/中国放送.md "wikilink")・[九州朝日放送](../Page/KBCラジオ.md "wikilink")）と、土曜日の[福井放送](https://ja.wikipedia.org/wiki/大和田ラジオ本舗 "wikilink")・[山口放送](../Page/山口放送.md "wikilink")への裏送りは継続。これらの裏送り中継と系列局制作の中継（前記各局に加えて[東北放送](../Page/東北放送.md "wikilink")も）を適宜本番カードに組み込むことで、土曜・日曜のNRNナイターは維持されている。また、ナイター開催がない場合、土曜日に限り福井放送と山口放送に『[SET UP\!\!](https://ja.wikipedia.org/wiki/SET_UP!! "wikilink")』の裏送りを行っている。
 12. [文化放送 アニメ映画製作委員会参加決定\!『8月のシンフォニー -渋谷2002〜2003』](http://www.joqr.co.jp/topics/release_cinema2.php)
 13. 超\!A\&G+への時差配信は、DRP放送が終了した2011年3月に録音番組については廃止、『アニスパ』と『こむちゃ』も同時生放送のみ（リピートの廃止）となっていたが、2014年4月からは『ラジオビッグバン』の時差配信再開（2014年10月で終了）と、新たに『チェンクロラジオ』が時差配信される。また、本来は超\!A\&G+用の番組である『[梶裕貴のひとりごと](https://ja.wikipedia.org/wiki/梶裕貴のひとりごと "wikilink")』が、2014年7月-2015年3月・2016年10月-12月に地上波での時差放送を行った。以降も一部の新番組は時差配信を行っている。
 14. 文化放送プラスは地上波放送とのサイマル放送であり、2008年9月29日-2011年3月31日の期間の月-土曜日6-翌3時、日曜日6-翌1時に放送されていた番組はすべて同時放送されていた。
-15. 土曜18:00の単発枠『[文化放送サタデープレミアム](https://ja.wikipedia.org/wiki/文化放送プレミアム放送枠#サタデープレミアム "wikilink")』にて、不定期にA\&G系の特別番組が放送されることがあり、A\&G公式サイトでも告知される。
-16. 日曜6:20『[グッチ裕三 朝からうまいぞぉ\!](https://ja.wikipedia.org/wiki/グッチ裕三_今夜はうまいぞぉ! "wikilink")』では、声優（[金田朋子](../Page/金田朋子.md "wikilink")）がパーソナリティを務めている。
-17. 日曜11:00『[楽器楽園〜ガキパラ〜 for all music-lovers](https://ja.wikipedia.org/wiki/楽器楽園〜ガキパラ〜_for_all_music-lovers "wikilink")』にも声優・アニソンアーティストがゲスト出演する場合があり、A\&G公式サイトでも告知される。
-18. 日曜18:45『[小野賢章のおののみ](https://ja.wikipedia.org/wiki/渋谷×文化ラジオ#フロート番組 "wikilink")』は2019年10月現在、A\&G公式サイトの番組表には1度も記載されていない。
-19. 日曜20:00『[安元洋貴の笑われるセールスマン（仮）](https://ja.wikipedia.org/wiki/安元洋貴の笑われるセールスマン（仮） "wikilink")』は2020年1月現在、A\&G公式サイトの番組表には1度も記載されていない。
-20. 2017年7月の番組開始からA\&G公式サイトの番組表に記載されていたが、2019年4月改編以降は記載が無い。
-21. 2017年3月までは下半期限定でNRNのネットセールス番組に指定されていたが、2016年10月以降の地上波ネット局は皆無であった。2017年10月からはNRN番組より除外されたが、2018年10月から下半期限定で地上波ネットが再開された。
-22. 番組開始当初はA\&G公式サイトの番組表に記載が無かったが、現在は記載されている。
-23. 金曜21:30『[LIVE DAM Ai presents ANISON INSTITUTE 神ラボ\!](https://ja.wikipedia.org/wiki/LIVE_DAM_Ai_presents_ANISON_INSTITUTE_神ラボ! "wikilink")』では、声優（[岡咲美保](https://ja.wikipedia.org/wiki/岡咲美保 "wikilink")）がパーソナリティを務めている。
-24. 超\!A\&G+では60分版を配信。
-25. 月-木曜の22:00『[レコメン\!](../Page/レコメン!.md "wikilink")』にも声優・アニソンアーティストがゲスト出演する場合があり、A\&G公式サイトでも告知される。
-26.
-27. 土曜3:00（金曜27:00）『[日野ミッドナイトグラフィティ 走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")』では、声優（[千本木彩花](https://ja.wikipedia.org/wiki/千本木彩花 "wikilink")）がパーソナリティを務めており、過去にも声優がパーソナリティーを担当した経歴がある。
-28. 『けものフレンズ presents フレンズ探検隊2』にプチリニューアルのため。なお、2018年12月1日より『あにてれ presents フレンズ探検隊2』と番組タイトルが再度リニューアルされた。
-29. 2018年4月から「A\&G TRIVAL RADIO エジソン」内から独立した。
+15. 月曜19:00『[グッチ裕三（金田朋子）今夜はうまいぞぉ\!](https://ja.wikipedia.org/wiki/グッチ裕三_今夜はうまいぞぉ! "wikilink")』では、声優（[金田朋子](../Page/金田朋子.md "wikilink")）がパーソナリティを務めている。
+16. プロ野球中継の無い日の雨傘番組『文化放送ライオンズナイタースペシャル』にて、不定期に声優がパーソナリティーを務める特別番組が放送されることがある。
+17. 火曜21:00『[楽器楽園〜ガキパラ〜 for all music-lovers](https://ja.wikipedia.org/wiki/楽器楽園〜ガキパラ〜_for_all_music-lovers "wikilink")』にも声優・アニソンアーティストがゲスト出演する場合があり、A\&G公式サイトでも告知される。
+18. 2017年3月までは下半期限定でNRNのネットセールス番組に指定されていたが、2016年10月以降の地上波ネット局は皆無であった。2017年10月からはNRN番組より除外されたが、2018年10月から下半期限定で地上波ネットが再開された。
+19. 超\!A\&G+では60分版を配信。
+20. 月-木曜の22:00『[レコメン\!](../Page/レコメン!.md "wikilink")』にも声優・アニソンアーティストがゲスト出演する場合があり、A\&G公式サイトでも告知される。
+21.
+22. 土曜3:00（金曜27:00）『[日野ミッドナイトグラフィティ 走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")』では、声優（[千本木彩花](https://ja.wikipedia.org/wiki/千本木彩花 "wikilink")）がパーソナリティを務めており、過去にも声優がパーソナリティーを担当した経歴がある。
+23. 『けものフレンズ presents フレンズ探検隊2』にプチリニューアルのため。なお、2018年12月1日より『あにてれ presents フレンズ探検隊2』と番組タイトルが再度リニューアルされた。
+24. 2018年4月から「A\&G TRIVAL RADIO エジソン」内から独立した。

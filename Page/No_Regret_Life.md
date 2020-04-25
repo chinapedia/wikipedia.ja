@@ -744,7 +744,7 @@
 
   - [No Regret Life](http://www.noregretlife.com/) - 公式ウェブサイト
 
-  - [小田和奏公式ブログ](http://ameblo.jp/kazusouoda/)
+  - [小田和奏公式ブログ](https://ameblo.jp/kazusouoda/)
 
   -
   -

@@ -39,7 +39,7 @@
 10. 草原の人 - 原曲:[松浦亜弥](../Page/松浦亜弥.md "wikilink")
       -
         作詞:[加藤和枝](../Page/美空ひばり.md "wikilink") 作曲:つんく 編曲:鈴木Daichi秀行
-11. LOVE〜Since 1999〜 - 原曲を彼と共に歌った[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のパートをモーニング娘。の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")が歌っている。
+11. LOVE〜Since 1999〜 - 原曲を彼と共に歌った[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のパートをモーニング娘。の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")が歌っている。
       -
         作詞・作曲:つんく 編曲:河野伸
 12. 明日が来る前に - THE つんくビ♂トでの楽曲。原曲は[FUJIWARA](../Page/FUJIWARA.md "wikilink")

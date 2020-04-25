@@ -78,4 +78,4 @@ CPUバスの性能は、その[コンピュータ・アーキテクチャ](../Pa
   - [コンピュータ・アーキテクチャ](../Page/コンピュータ・アーキテクチャ.md "wikilink")
   - [CPUソケット](../Page/CPUソケット.md "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

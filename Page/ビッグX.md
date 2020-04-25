@@ -619,7 +619,7 @@
 ### 放送局
 
   - TBS（制作局）：月曜 19:00 - 19:30
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：月曜 19:00 - 19:30\[7\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：月曜 19:00 - 19:30\[7\]
   - [東北放送](../Page/東北放送.md "wikilink")：月曜 19:00 - 19:30\[8\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：月曜 19:00 - 19:30\[9\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：月曜 19:00 - 19:30\[10\]

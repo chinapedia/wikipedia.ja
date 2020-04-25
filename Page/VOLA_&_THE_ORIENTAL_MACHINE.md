@@ -1,7 +1,7 @@
 > この記事は[VOLA \& THE ORIENTAL MACHINE](https://ja.wikipedia.org/wiki/VOLA_\&_THE_ORIENTAL_MACHINE)から翻訳されています。
 
 
-**VOLA & THE ORIENTAL MACHINE**（ヴォラ・アンド・ジ・オリエンタル・マシーン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**VOLA & THE ORIENTAL MACHINE**（ヴォラ・アンド・ジ・オリエンタル・マシーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要・来歴
 

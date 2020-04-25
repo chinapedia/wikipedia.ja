@@ -14,6 +14,9 @@
   - **[KNVBカップ](../Page/KNVBカップ.md "wikilink"):2回**
       -
         1943-44, 1962-63
+  - **[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink"):1回**
+      -
+        2013-14
 
 ### 国際タイトル
 
@@ -93,7 +96,23 @@
 
 ## 現所属メンバー
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Burundi.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))
+
+※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+
+  - [監督](../Page/監督.md "wikilink")
+
+<!-- end list -->
+
+  - [アドリー・コスター](../Page/アドリー・コスター.md "wikilink") (2018 - )
+
+<!-- end list -->
+
+  - [助監督](../Page/監督.md "wikilink")
+
+<!-- end list -->
+
+  - [ヘリー・フィンク](https://ja.wikipedia.org/wiki/ヘリー・フィンク "wikilink") (2018 - -)
 
 ### ローン移籍選手
 

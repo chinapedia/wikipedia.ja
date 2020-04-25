@@ -59,7 +59,7 @@ LE-7Aに限らずロケットエンジンは、耐久性を犠牲にしても軽
 ## 外部リンク
 
   - [IHI石川島播磨重工業（株） -LE-7Aエンジン用ターボポンプ-](http://www.ihi.co.jp/ihi/products/space/le-7a.html)
-  - [ロケット・輸送システム H-IIAロケット　エンジン燃焼試験｜JAXA](http://www.jaxa.jp/projects/rockets/h2a/engine/index_j.html)
+  - [ロケット・輸送システム H-IIAロケット　エンジン燃焼試験｜JAXA](https://www.jaxa.jp/projects/rockets/h2a/engine/index_j.html)
   - [渡辺泰秀、坂爪則夫：LE-7Aエンジンノズル内段差による剥離の停滞とジャンプの現象](https://doi.org/10.2322/jjsass.55.467) 日本航空宇宙学会論文集 Vol.55 (2007) No.645 P467-473
 
 [Category:二段燃焼サイクルのロケットエンジン](https://ja.wikipedia.org/wiki/Category:二段燃焼サイクルのロケットエンジン "wikilink") [Category:液体水素/液体酸素を推進剤とするロケットエンジン](https://ja.wikipedia.org/wiki/Category:液体水素/液体酸素を推進剤とするロケットエンジン "wikilink") [Category:日本のロケットエンジン](https://ja.wikipedia.org/wiki/Category:日本のロケットエンジン "wikilink")

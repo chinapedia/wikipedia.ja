@@ -21,7 +21,7 @@ MVS は主に[ビジネス](../Page/ビジネス.md "wikilink")や[銀行](../Pa
 
 ## MVSファイルシステム
 
-[ファイルは](../Page/ファイル_\(コンピュータ\).md "wikilink")、MVS では「[データ・セット](../Page/データセット_\(IBMメインフレーム\).md "wikilink")」と呼ばれる。これらのファイルは「カタログ」によって組織・系統が立てられる。MVS の本来の[文字コード](../Page/文字コード.md "wikilink")はビッグ・[エンディアン](https://ja.wikipedia.org/wiki/エンディアン "wikilink") [EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")だが、[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")やリトル・エンディアン、[Unicode](../Page/Unicode.md "wikilink")のトランスフォームのソフトウェアサポートのためのhardware-specific serviceを持つ。
+[ファイルは](../Page/ファイル_\(コンピュータ\).md "wikilink")、MVS では「[データ・セット](../Page/データセット_\(IBMメインフレーム\).md "wikilink")」と呼ばれる。これらのファイルは「カタログ」によって組織・系統が立てられる。MVS の本来の[文字コード](../Page/文字コード.md "wikilink")はビッグ・[エンディアン](https://ja.wikipedia.org/wiki/エンディアン "wikilink") [EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")だが、[ASCII](../Page/ASCII.md "wikilink")やリトル・エンディアン、[Unicode](../Page/Unicode.md "wikilink")のトランスフォームのソフトウェアサポートのためのhardware-specific serviceを持つ。
 
 MVS の[伝統](../Page/伝統.md "wikilink")的な[ファイルシステム](../Page/ファイルシステム.md "wikilink")は、[レコード・オリエンテッド・ファイルシステム](../Page/Record-oriented_filesystem.md "wikilink")（レコード志向ファイルシステム）である。ファイル名は階層的に組織・編成され、ドットによって分けられる。それぞれの階層の名前は、8文字まで認められる。ファイル名の全体の長さは、44文字までである。
 

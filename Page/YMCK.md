@@ -152,7 +152,7 @@
 <ol>
 <li><a href="../Page/夢の中へ.md" title="wikilink">夢の中へ</a> / <a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ぼくたちの失敗" title="wikilink">ぼくたちの失敗</a> / <a href="../Page/森田童子.md" title="wikilink">森田童子</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/人間なんて_(よしだたくろうのアルバム)" title="wikilink">人間なんて</a> / <a href="https://ja.wikipedia.org/wiki/吉田拓郎" title="wikilink">吉田拓郎</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/人間なんて_(よしだたくろうのアルバム)" title="wikilink">人間なんて</a> / <a href="../Page/吉田拓郎.md" title="wikilink">吉田拓郎</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/傘がない" title="wikilink">傘がない</a> / 井上陽水</li>
 <li><a href="https://ja.wikipedia.org/wiki/春夏秋冬_(泉谷しげるの曲)" title="wikilink">春夏秋冬</a> / <a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>
 <li>満足できるかな / <a href="../Page/遠藤賢司.md" title="wikilink">遠藤賢司</a></li>
@@ -551,7 +551,7 @@ EP盤サイズ特殊仕様ジャケット</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a>『<a href="https://ja.wikipedia.org/wiki/Rule/Sparkle" title="wikilink">Rule/Sparkle</a>』</strong>(ジャケットB)</p></td>
+<td><p><strong><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a>『<a href="https://ja.wikipedia.org/wiki/Rule/Sparkle" title="wikilink">Rule/Sparkle</a>』</strong>(ジャケットB)</p></td>
 <td><p>AVCD-31606</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">

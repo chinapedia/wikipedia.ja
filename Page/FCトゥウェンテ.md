@@ -94,9 +94,13 @@
 
 ## 現所属メンバー
 
-**2019年8月4日現在**\[3\]
+**2020年2月8日現在**\[3\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curaçao.svg "wikilink"))
 
-**[監督](../Page/監督.md "wikilink")**
+※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+
+  - [監督](../Page/監督.md "wikilink")
+
+<!-- end list -->
 
   - [ゴンサロ・ガルシア](https://ja.wikipedia.org/wiki/ゴンサロ・ガルシア "wikilink")
 
@@ -144,4 +148,4 @@
 
 1.  [Netherlands – Champions](http://www.rsssf.com/tablesn/nedchamp.html) – RSSSF
 2.
-3.  [Selectie seizoen 2017/2018](http://www.fctwente.nl/eerste-selectie-fc-twente/selectie-fc-twente/)FCトゥウェンテ公式サイト 2018年2月26日閲覧
+3.

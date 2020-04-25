@@ -239,8 +239,8 @@
 
   - [Vanilla Mood@cafe （Vanilla MoodオフィシャルBlog）](http://blog.vanillamood.jp/)
 
-      - [Yui 公式ブログ 「今日のYui模様」](http://ameblo.jp/yuimoyou/)
-      - [Mariko 公式ブログ 「Mari-cellog」](http://ameblo.jp/mari-cellog/)
+      - [Yui 公式ブログ 「今日のYui模様」](https://ameblo.jp/yuimoyou/)
+      - [Mariko 公式ブログ 「Mari-cellog」](https://ameblo.jp/mari-cellog/)
       - [Keiko 公式ブログ](http://gree.jp/keiko_vm/)
 
   -   - [Yui on Twitter](http://twitter.com/yui_violin/) (yui_violin) - Twitter

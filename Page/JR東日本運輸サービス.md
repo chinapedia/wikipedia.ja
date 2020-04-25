@@ -112,7 +112,7 @@
   - [JR高崎鉄道サービス](https://ja.wikipedia.org/wiki/JR高崎鉄道サービス "wikilink") - [高崎支社管内の駅舎等清掃](../Page/東日本旅客鉄道高崎支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
   - [JR水戸鉄道サービス](https://ja.wikipedia.org/wiki/JR水戸鉄道サービス "wikilink") - [水戸支社管内の駅舎等清掃](../Page/東日本旅客鉄道水戸支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
   - [JR千葉鉄道サービス](https://ja.wikipedia.org/wiki/JR千葉鉄道サービス "wikilink") - [千葉支社管内の駅舎等清掃](../Page/東日本旅客鉄道千葉支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
-  - [ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink") - [仙台支社管内の駅舎等清掃](../Page/東日本旅客鉄道仙台支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
+  - [JR東日本テクノサービス](https://ja.wikipedia.org/wiki/JR東日本テクノサービス "wikilink") - [仙台支社管内の駅舎等清掃](../Page/東日本旅客鉄道仙台支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
   - [JR盛岡鉄道サービス](../Page/JR盛岡鉄道サービス.md "wikilink") - [盛岡支社管内の駅舎等清掃](../Page/東日本旅客鉄道盛岡支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
   - [JR秋田鉄道サービス](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink") - [秋田支社管内の駅舎等清掃](../Page/東日本旅客鉄道秋田支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。
   - [JR新潟鉄道サービス](https://ja.wikipedia.org/wiki/JR新潟鉄道サービス "wikilink") - [新潟支社管内の駅舎等清掃](../Page/東日本旅客鉄道新潟支社.md "wikilink")、車両基地等の構内運転業務、車両メンテナンス業務及び車両の清掃等受託。

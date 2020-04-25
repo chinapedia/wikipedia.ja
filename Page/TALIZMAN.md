@@ -14,7 +14,7 @@
 ## メンバー
 
   - [木村昇](../Page/木村昇_\(歌手\).md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
-  - [発地伸男](https://ja.wikipedia.org/wiki/発地伸男 "wikilink")（[ギター](../Page/ギター.md "wikilink")、ボーカル）
+  - \[発地伸男\]（[ギター](../Page/ギター.md "wikilink")、ボーカル）
   - [石川恵樹](../Page/石川恵樹.md "wikilink")（[ベース](../Page/エレクトリックベース.md "wikilink")、ボーカル）
   - [巳城研二](https://ja.wikipedia.org/wiki/巳城研二 "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ボーカル）
   - [石井智](https://ja.wikipedia.org/wiki/石井智_\(歌手\) "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）

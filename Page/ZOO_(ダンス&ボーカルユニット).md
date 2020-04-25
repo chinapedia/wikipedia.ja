@@ -233,7 +233,7 @@
 
 ## 外部リンク
 
-  - [SATSUKI(ex.ZOO)のRAINBOW日記。](http://ameblo.jp/buff23/)
+  - [SATSUKI(ex.ZOO)のRAINBOW日記。](https://ameblo.jp/buff23/)
 
   - [SATSUKIプロフィール](http://ms-comi.co.jp/satsukicontents/satsukiframe1.html) (有)エムズエンタープライズ
 

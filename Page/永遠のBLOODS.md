@@ -68,7 +68,7 @@
 
   - [永遠のBLOODS](https://www.jehp.jp/kinki_discography/article/834)
 
-[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:堂島孝平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:堂島孝平が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コカ・コーラのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コカ・コーラのコマーシャルソング "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:堂島孝平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:堂島孝平が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コカ・コーラのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コカ・コーラのコマーシャルソング "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  [KinKi Kids、デビュー時の“苦難”乗り越えて受賞\!](http://www.oricon.co.jp/news/22611/full/) オリコン 2015年12月25日閲覧
 2.  この楽曲は作曲だけでなく作詞も担当した。

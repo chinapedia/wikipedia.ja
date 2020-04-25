@@ -250,7 +250,7 @@ MESIプロトコルに比べると、*dirty*なキャッシュラインを持っ
 
   - [An interactive MESI simulation](https://www.cs.tcd.ie/Jeremy.Jones/vivio/caches/MESIHelp.htm)
 
-[Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:キャッシュ](https://ja.wikipedia.org/wiki/Category:キャッシュ "wikilink")
+[Category:キャッシュコヒーレンシ](https://ja.wikipedia.org/wiki/Category:キャッシュコヒーレンシ "wikilink")
 
 1.  IA-32 Intel Architecture Software Developers Manual
 2.  [AMD64 Architecture Programmer's Manual Vol 2 'System Programming'](http://support.amd.com/us/Processor_TechDocs/24593.pdf) p.167

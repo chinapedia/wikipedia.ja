@@ -56,7 +56,7 @@
 ## 外部リンク
 
   - [DISCOVERY ENTERTAINMENT 公式](http://www.discovery-e.co.jp/model/00169.html)
-  - [MARIオフィシャルブログ Fiesta de MARI](http://ameblo.jp/mari-de/) ※2009年02月20日より更新無し
+  - [MARIオフィシャルブログ Fiesta de MARI](https://ameblo.jp/mari-de/) ※2009年02月20日より更新無し
 
 <!-- end list -->
 

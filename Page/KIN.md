@@ -70,6 +70,6 @@ MELLOW YELLOWとしての作品は除く
 
 ## 外部リンク
 
-  - [メローイエローのぶろぐちゃれんじ](http://ameblo.jp/koheikiniso/) - MELLOW YELLOWのブログだがほとんどKINのみ更新。
+  - [メローイエローのぶろぐちゃれんじ](https://ameblo.jp/koheikiniso/) - MELLOW YELLOWのブログだがほとんどKINのみ更新。
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:東海大学出身の人物](https://ja.wikipedia.org/wiki/Category:東海大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

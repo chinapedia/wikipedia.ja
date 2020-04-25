@@ -7,7 +7,7 @@
 
 Jは[1989年](../Page/1989年.md "wikilink")、[APL](../Page/APL.md "wikilink")の提案者でもある[ケネス・アイバーソン](../Page/ケネス・アイバーソン.md "wikilink")によりAPLの後継として提案された。APLは数式の表記、特に[配列](../Page/配列.md "wikilink")の処理に優れており、多くの計算式を極めて単純に表記できる利点を持っていたが、ギリシャ文字やその他の特殊記号を使用するため、利用には[フォント](../Page/フォント.md "wikilink")の設定など特殊な環境の準備が必要があり、[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")の低さもあって普及には至らなかった。
 
-JはAPLの反省をふまえて、APLと同様の計算を通常の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")コードのみで使用できるようにした。この際、[ジョン・バッカス](../Page/ジョン・バッカス.md "wikilink")による[FP言語](https://ja.wikipedia.org/wiki/FP_\(プログラミング言語\) "wikilink")・というの影響を受けている（バッカスによるふたつの言語はAPLの影響を受けている）。さらにAPLにあった「作用子」による演算子の合成といった機能が、より拡張強化されている。これらの機能によりAPLのような表記の問題は解消された。しかし、 例えば、APLでは
+JはAPLの反省をふまえて、APLと同様の計算を通常の[ASCII](../Page/ASCII.md "wikilink")コードのみで使用できるようにした。この際、[ジョン・バッカス](../Page/ジョン・バッカス.md "wikilink")による[FP言語](https://ja.wikipedia.org/wiki/FP_\(プログラミング言語\) "wikilink")・というの影響を受けている（バッカスによるふたつの言語はAPLの影響を受けている）。さらにAPLにあった「作用子」による演算子の合成といった機能が、より拡張強化されている。これらの機能によりAPLのような表記の問題は解消された。しかし、 例えば、APLでは
 
   -
 

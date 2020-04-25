@@ -21,13 +21,13 @@
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink") 10:33 - 10:38（『うえやなぎまさひこのサプライズ\!』→『垣花正のあなたとハッピー\!』内）
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") 10:25 - 10:30（『[今日も\!あさぷり](../Page/今日も!あさぷり.md "wikilink")』内）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") 11:30 - 11:35
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") 9:55 - 10:00（『[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")』内）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") 9:55 - 10:00（『[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")』内）
   - [山形放送](../Page/山形放送.md "wikilink") 11:45 - 11:50
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") 9:30 - 9:35（『ほっとタイム』内）
   - [茨城放送](../Page/茨城放送.md "wikilink") 9:03 - 9:08（『[たかとりじゅんのビタミンJ\!](../Page/たかとりじゅんのビタミンJ!.md "wikilink")』内）
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") 11:05 - 11:10（『今日もごきげん\!こんにちワイド』内）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") 15:50 - 15:55
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") 10:20 - 10:25
+  - [信越放送](../Page/信越放送.md "wikilink") 10:20 - 10:25
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 10:25 - 10:30
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") 11:10 - 11:15（『[ほのぼのワイド 中村こずえのsmile for You](../Page/ほのぼのワイド_中村こずえのsmile_for_You.md "wikilink")』(月 - 木)・『ラジオWEST〜寺田繭子のわくわく金曜日』(金)内）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 11:15 - 11:20
@@ -36,10 +36,10 @@
   - [岐阜放送](../Page/岐阜放送ラジオ.md "wikilink") 11:40 - 11:45（『[ビビっとワイド今小町](https://ja.wikipedia.org/wiki/ビビっとワイド今小町 "wikilink")』内）
   - [KBS京都](../Page/京都放送.md "wikilink") 10時台（『[ただ今勤務中\!森谷威夫のお世話になります\!](https://ja.wikipedia.org/wiki/ただ今勤務中!森谷威夫のお世話になります! "wikilink")』内）
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 10:32 - 10:37（『[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE "wikilink")』(月 - 木)・『[ばんばひろふみ\!ラジオ・DE・しょー\!](../Page/ばんばひろふみ!ラジオ・DE・しょー!.md "wikilink")』(金)内）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") 11:50 - 11:55
+  - [和歌山放送](../Page/和歌山放送.md "wikilink") 11:50 - 11:55
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink") 10:40 - 10:45
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 12:40 - 12:45
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") 9:55 - 10:00
+  - [山口放送](../Page/山口放送.md "wikilink") 9:55 - 10:00
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 11:35 - 11:40
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") 9:30 - 9:35
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 9:35 - 9:45（『[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")』(月 - 木)・『真さんのいよ\!AM-igo』(金)内）

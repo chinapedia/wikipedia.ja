@@ -344,7 +344,7 @@
   - 邦楽：[杵屋正邦](https://ja.wikipedia.org/wiki/杵屋正邦 "wikilink")
   - 協力：[岐阜県](../Page/岐阜県.md "wikilink")、[岐阜市](../Page/岐阜市.md "wikilink")、[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")、[大野市](../Page/大野市.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")[小淵沢町](../Page/小淵沢町.md "wikilink")、[恵那市](../Page/恵那市.md "wikilink")、[岩村町](../Page/岩村町.md "wikilink")、[高根町](../Page/高根町.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[安土町](../Page/安土町.md "wikilink")
   - 題字：[渡辺裕英](https://ja.wikipedia.org/wiki/渡辺裕英 "wikilink")
-  - 語り：[ランシュー・クリストフ](https://ja.wikipedia.org/wiki/ランシュー・クリストフ "wikilink")、[加賀美幸子](../Page/加賀美幸子.md "wikilink")アナウンサー(総集編アバンタイトル)、[井筒屋勝己](https://ja.wikipedia.org/wiki/井筒屋勝己 "wikilink")アナウンサー（本放送アバンタイトル）
+  - 語り：[ランシュー・クリストフ](https://ja.wikipedia.org/wiki/ランシュー・クリストフ "wikilink")、[加賀美幸子](../Page/加賀美幸子.md "wikilink")アナウンサー（総集編アバンタイトル）、[井筒屋勝己](https://ja.wikipedia.org/wiki/井筒屋勝己 "wikilink")アナウンサー（本放送アバンタイトル）
   - 制作：[八木雅次](https://ja.wikipedia.org/wiki/八木雅次 "wikilink")、[加藤郁雄](https://ja.wikipedia.org/wiki/加藤郁雄 "wikilink")
   - 美術：田嶋宣助、青木聖和
   - 技術：大沼伸吉、高橋邦彦
@@ -446,7 +446,7 @@
 
 ## 外部リンク
 
-  - [NHKオンデマンド 大河ドラマ　信長 KING OF ZIPANGU](http://www.nhk-ondemand.jp/program/P201100077300000/index.html) (2017年6月30日まで)
+  - [NHKオンデマンド 大河ドラマ　信長 KING OF ZIPANGU](https://www.nhk-ondemand.jp/program/P201100077300000/index.html) (2017年6月30日まで)
   - [大河ドラマ　信長　KING OF ZIPANGU - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010388_00000)
   - [番組エピソード大河ドラマ『信長 KING OF ZIPANGU』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga025)
 

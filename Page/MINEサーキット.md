@@ -23,7 +23,7 @@
   - サーキット北側に、[セントラルパークゴルフ倶楽部](https://ja.wikipedia.org/wiki/セントラルパークゴルフ倶楽部 "wikilink")が同一経営にて運営されていた\[3\]。同社清算後では別会社が運営している。
   - サーキット周囲には、ガソリンスタンド1軒、コンビニ1軒あるのみで立地は不便であった。ガソリンスタンドも営業開始時刻が遅く、またコンビニも、晩年には閉店してしまうなど、サーキット走行の利用者には不便な立地であった。
   - サーキット内部にログハウス風のレストランが併設されていた。場所はWシケインと呼ばれていた低速コーナーを見下ろすパドックの端で、観戦スポットにもなっていた。老朽化が指摘されており閉鎖前に改築されたが、サーキット閉鎖後に撤去された。
-  - 閉鎖前のサーキットについては、youtubeなどに保管されている動画を持って、その様子を知ることができる。
+  - 閉鎖前のサーキットについては、youtubeなどに保管されている動画を以って、その様子を知ることができる。
       - [ジムカーナ場](http://www.youtube.com/watch?v=gejIFpOQotg)メインイベントの際は駐車場として使用された。
   - 閉鎖後に、マツダ車ユーザーのイベントのために解放されたことがあり、コースのパレード走行が開催された。ただし無改造車に限る・先導車付きで1周のみと厳しい制限があり、従来のようなサーキット走行は一般者に許可されていない。
   - パドックのピットに[マツダ・787](../Page/マツダ・787.md "wikilink")Bが[動態保存](../Page/動態保存.md "wikilink")されている。
@@ -68,7 +68,7 @@
 
   - [マツダ公式サイト](https://www.mazda.co.jp/)
 
-[Category:現存しない日本のサーキット](https://ja.wikipedia.org/wiki/Category:現存しない日本のサーキット "wikilink") [Category:タカラトミーの歴史](https://ja.wikipedia.org/wiki/Category:タカラトミーの歴史 "wikilink") [Category:山口県のスポーツ施設](https://ja.wikipedia.org/wiki/Category:山口県のスポーツ施設 "wikilink") [Category:山口県のスポーツ史](https://ja.wikipedia.org/wiki/Category:山口県のスポーツ史 "wikilink") [Category:美祢市の歴史](https://ja.wikipedia.org/wiki/Category:美祢市の歴史 "wikilink") [Category:1972年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1972年開設のスポーツ施設 "wikilink") [Category:2006年廃止のスポーツ施設](https://ja.wikipedia.org/wiki/Category:2006年廃止のスポーツ施設 "wikilink")
+[Category:現存しない日本のサーキット](https://ja.wikipedia.org/wiki/Category:現存しない日本のサーキット "wikilink") [Category:タカラトミーの歴史](https://ja.wikipedia.org/wiki/Category:タカラトミーの歴史 "wikilink") [Category:山口県のスポーツ施設](https://ja.wikipedia.org/wiki/Category:山口県のスポーツ施設 "wikilink") [Category:現存しない山口県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない山口県の建築物 "wikilink") [Category:山口県のスポーツ史](https://ja.wikipedia.org/wiki/Category:山口県のスポーツ史 "wikilink") [Category:美祢市の歴史](https://ja.wikipedia.org/wiki/Category:美祢市の歴史 "wikilink") [Category:1972年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1972年開設のスポーツ施設 "wikilink") [Category:2006年廃止のスポーツ施設](https://ja.wikipedia.org/wiki/Category:2006年廃止のスポーツ施設 "wikilink")
 
 1.  運営会社は株式会社セントラルパーク山口。かつて[姫路セントラルパーク](../Page/姫路セントラルパーク.md "wikilink")を運営していた株式会社セントラルパークの子会社。
 2.

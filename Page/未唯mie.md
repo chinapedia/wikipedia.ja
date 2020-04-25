@@ -9,7 +9,7 @@
 
 [常葉高校卒業](https://ja.wikipedia.org/wiki/常葉学園中学校・高等学校 "wikilink")\[4\]。
 
-1976年、**[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")**として[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、[T\&C ミュージックからメジャーデビューをし数々のヒット曲を出し一世を風靡した](https://ja.wikipedia.org/wiki/T&C_ミュージック "wikilink")。1981年のグループ解散後はソロ歌手のほか、タレント、女優など幅広く活躍。ピンク・レディーは幾度か再結成されている。
+1976年、**[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")**として[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、[T\&C ミュージックからメジャーデビューをし数々のヒット曲を出し一世を風靡した](https://ja.wikipedia.org/wiki/T&C_ミュージック "wikilink")。1981年のグループ解散後はソロ歌手のほか、タレント、女優など幅広く活躍。ピンク・レディーは幾度か再結成されている。[ケイとは](../Page/増田恵子.md "wikilink")、2人は仲良し。
 
 1984年には、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[不良少女とよばれて](../Page/不良少女とよばれて.md "wikilink")』の主題歌となった「[NEVER](https://ja.wikipedia.org/wiki/NEVER "wikilink")」が大ヒット。
 
@@ -903,7 +903,7 @@ MIE 名義</p></td>
 
   - MIEのNEVER GIVE UP（OBC）パーソナリティー
   - ミュージックメモリー（NHK-FM）パーソナリティー
-  - 未唯mieのSoul To Me（[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[山形放送](../Page/山形放送.md "wikilink")・[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")・[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")）パーソナリティー
+  - 未唯mieのSoul To Me（[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[山形放送](../Page/山形放送.md "wikilink")・[信越放送](../Page/信越放送.md "wikilink")・[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")）パーソナリティー
   - 未唯mieのFrom mie to You （[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・信越放送・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・静岡放送）パーソナリティー
 
 ### 舞台

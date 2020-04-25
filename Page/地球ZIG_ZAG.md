@@ -13,12 +13,12 @@
 
 ## 歴代司会者
 
-| 期間                           | 隊長                                                    | 副隊長                                                   |
-| ---------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| 1989.10.01 - 1991.03.31      | [鴻上尚史](../Page/鴻上尚史.md "wikilink")                    | [相原勇](../Page/相原勇.md "wikilink")                      |
-| 1991.04.14 - 1992.03.29      | [つみきみほ](../Page/つみきみほ.md "wikilink")                  |                                                       |
-| 1992.04.05 - 1993.03.28      | [高嶋政伸](../Page/高嶋政伸.md "wikilink")                    | [越智静香](../Page/越智静香.md "wikilink")                    |
-| 1993.04.04 - 1994.03.27\[1\] | [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") | [高橋リナ](https://ja.wikipedia.org/wiki/高橋リナ "wikilink") |
+| 期間                           | 隊長                                   | 副隊長                                                   |
+| ---------------------------- | ------------------------------------ | ----------------------------------------------------- |
+| 1989.10.01 - 1991.03.31      | [鴻上尚史](../Page/鴻上尚史.md "wikilink")   | [相原勇](../Page/相原勇.md "wikilink")                      |
+| 1991.04.14 - 1992.03.29      | [つみきみほ](../Page/つみきみほ.md "wikilink") |                                                       |
+| 1992.04.05 - 1993.03.28      | [高嶋政伸](../Page/高嶋政伸.md "wikilink")   | [越智静香](../Page/越智静香.md "wikilink")                    |
+| 1993.04.04 - 1994.03.27\[1\] | [吉田拓郎](../Page/吉田拓郎.md "wikilink")   | [高橋リナ](https://ja.wikipedia.org/wiki/高橋リナ "wikilink") |
 
 ## 隊員
 
@@ -51,14 +51,14 @@
 | [近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink") | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）     | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | 日曜 11時00分 - 11時30分 | 同時ネット     | **製作局**   |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")    | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                        |                                                                      |                    |           |           |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")    | [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）                        |                                                                      |                    |           |           |
-| [岩手県](../Page/岩手県.md "wikilink")                       | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC） |                                                                      |                    |           |           |
+| [岩手県](../Page/岩手県.md "wikilink")                       | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                    |                                                                      |                    |           |           |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")    | [東北放送](../Page/東北放送.md "wikilink")（TBC）                          |                                                                      |                    |           |           |
 | [山形県](../Page/山形県.md "wikilink")                       | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                    | 1989年10月よりネット開始                                                      |                    |           |           |
 | [福島県](../Page/福島県.md "wikilink")                       | [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）                    |                                                                      |                    |           |           |
 | [関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink") | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                        | 現・TBSテレビ                                                             |                    |           |           |
 | [山梨県](../Page/山梨県.md "wikilink")                       | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                        |                                                                      |                    |           |           |
 | [新潟県](../Page/新潟県.md "wikilink")                       | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）       |                                                                      |                    |           |           |
-| [長野県](../Page/長野県.md "wikilink")                       | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）       |                                                                      |                    |           |           |
+| [長野県](../Page/長野県.md "wikilink")                       | [信越放送](../Page/信越放送.md "wikilink")（SBC）                          |                                                                      |                    |           |           |
 | [静岡県](../Page/静岡県.md "wikilink")                       | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）       |                                                                      |                    |           |           |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")    | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                | 1990年10月よりネット開始                                                      |                    |           |           |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")    | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       |                                                                      |                    |           |           |

@@ -1,28 +1,6 @@
 > この記事は[ジョン・F・ケネディ \(空母・初代\)](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ_\(空母・初代\))から翻訳されています。
 
 
-|                                                                                                                                                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [961210-N-0710M-001_John_F._Kennedy_at_Sea.jpg](https://ja.wikipedia.org/wiki/File:961210-N-0710M-001_John_F._Kennedy_at_Sea.jpg "fig:961210-N-0710M-001_John_F._Kennedy_at_Sea.jpg") |
-|                                                                                             艦歴                                                                                             |
-|                                                                                             発注                                                                                             |
-|                                                                                             起工                                                                                             |
-|                                                                                             進水                                                                                             |
-|                                                                                             就役                                                                                             |
-|                                                                                             退役                                                                                             |
-|                                                                                             母港                                                                                             |
-|                                                                                            性能諸元                                                                                            |
-|                                                                              [排水量](../Page/排水量.md "wikilink")                                                                              |
-|                                                                                             全長                                                                                             |
-|                                                                                             全幅                                                                                             |
-|                                                                                             吃水                                                                                             |
-|                                                                                             機関                                                                                             |
-|                                                                                            最大速                                                                                             |
-|                                                                                             乗員                                                                                             |
-|                                                                                             兵装                                                                                             |
-|                                                                                            搭載機                                                                                             |
-|                                                                                            モットー                                                                                            |
-
 **ジョン・F・ケネディ** (**USS John F. Kennedy, CV-67**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[キティホーク級航空母艦](../Page/キティホーク級航空母艦.md "wikilink")の4番艦。**ビッグ・ジョン**の愛称で呼ばれる。艦名は第35代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")に因んで命名された。同艦は建造当時CVAに分類され、航空戦にのみ使用されたが、後に[対潜作戦能力](../Page/対潜戦.md "wikilink")(ASW)を保持し多目的使用が可能となり、艦種はCVに変更された。
 
 ## 概要
@@ -33,9 +11,9 @@
 
 なお、核動力化された場合の機関構成は「エンタープライズ」ともニミッツ級とも異なっており、「エンタープライズ」で搭載された[A2W型](https://ja.wikipedia.org/wiki/A2W_\(原子炉\) "wikilink")[加圧水型原子炉](../Page/加圧水型原子炉.md "wikilink")の約2倍の出力を持つ[A3W型原子炉](https://ja.wikipedia.org/wiki/A3W_\(原子炉\) "wikilink")4基の搭載が予定されていた。
 
-「ケネディ」の外見上の大きな特徴はアイランド（島型艦橋）と一体化した煙突にある。「ケネディ」の前に建造されたキティホーク級3番艦「[アメリカ](../Page/アメリカ_\(空母\).md "wikilink")」では、飛行甲板への排煙の影響を避けるために、それ以前の艦と比べて煙突を小型化していたが、「ケネディ」ではさらに一歩進めて、[旧日本海軍の](../Page/大日本帝国海軍.md "wikilink")[飛鷹型と類似した傾斜煙突の形態を採っている](https://ja.wikipedia.org/wiki/飛鷹型航空母艦 "wikilink")。ただし、「ケネディ」の設計に当たって飛鷹型を参考にしたか否かは定かではない。
+「ケネディ」の外見上の大きな特徴はアイランド（島型艦橋）と一体化した煙突にある。「ケネディ」の前に建造されたキティホーク級3番艦「[アメリカ](../Page/アメリカ_\(空母\).md "wikilink")」では、飛行甲板への排煙の影響を避けるために、それ以前の艦と比べて煙突を小型化していたが、「ケネディ」ではさらに一歩進めて、[旧日本海軍の](../Page/大日本帝国海軍.md "wikilink")[飛鷹型と類似した傾斜煙突の形態を採っている](../Page/隼鷹型航空母艦.md "wikilink")。ただし、「ケネディ」の設計に当たって飛鷹型を参考にしたか否かは定かではない。
 
-「ケネディ」以降、アメリカ海軍は通常動力型空母の建造を打ち切ったため、傾斜煙突を採用した空母は「ケネディ」が最初で最後となったが、後に建造された[ワスプ級強襲揚陸艦](../Page/ワスプ級強襲揚陸艦.md "wikilink")「[マキン・アイランド](../Page/マキン・アイランド_\(強襲揚陸艦\).md "wikilink")」で再び傾斜煙突が採用され、続く[アメリカ級でも取り入れられた](../Page/アメリカ級強襲揚陸艦.md "wikilink")。
+「ケネディ」以降、アメリカ海軍は通常動力型空母の建造を打ち切ったため、傾斜煙突を採用した空母は「ケネディ」が最初で最後となったが、後に建造された[ワスプ級強襲揚陸艦](../Page/ワスプ級強襲揚陸艦.md "wikilink")「[マキン・アイランド](../Page/マキン・アイランド_\(強襲揚陸艦\).md "wikilink")」で再び傾斜煙突が採用され、続く[アメリカ級強襲揚陸艦](../Page/アメリカ級強襲揚陸艦.md "wikilink")でも取り入れられた。
 
 その他、当初は「アメリカ」と同様、艦首にAN/SQS-23[ソナー](../Page/ソナー.md "wikilink")の装備が予定されており、投錨時にソナードームとの衝突を避けるため、二つある[アンカーの内一つが艦首に装備されている](../Page/錨.md "wikilink")。ただし、「アメリカ」と異なり実際にはソナーは装備されていない。
 
@@ -74,11 +52,10 @@
 ## 外部リンク
 
   - [USS *John F. Kennedy* official homepage](https://web.archive.org/web/20060624094755/http://www.nol.navy.mil/homepages/cv67/)
-  - [SaveTheJFK.com, Official Website for the JFK CV-67 Memorial Founation](http://www.SaveTheJFK.com)
   - [USS *John F. Kennedy* webpage](http://www.navysite.de/cvn/cv67.htm)
   - [Maritimequest USS *John F. Kennedy* CV-67 Photo Gallery](http://www.maritimequest.com/warship_directory/us_navy_pages/aircraft_carriers/john_f_kennedy-cv_67/uss_john_f_kennedy_cv_67_page_1.htm)
-  - [USS *John F. Kennedy* page at globalsecurity.org](http://www.globalsecurity.org/military/systems/ship/cv-67.htm)\* [USS John F. Kennedy history at U.S. Carriers](http://www.uscarriers.net/cv67history.htm)
-  - [Global Security](http://www.globalsecurity.org/military/systems/ship/cv-67.htm)
+  - [USS *John F. Kennedy* page at globalsecurity.org](http://www.globalsecurity.org/military/systems/ship/cv-67.htm)
+  - [USS John F. Kennedy history at U.S. Carriers](http://www.uscarriers.net/cv67history.htm)
   - [フィラデルフィアに係留中のCV-67(Googleマップ)](https://www.google.co.jp/maps/place/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD+%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A2/@39.8852572,-75.1800913,479m/data=!3m1!1e3!4m5!3m4!1s0x89c6b7d8d4b54beb:0x89f514d88c3e58c1!8m2!3d39.9525839!4d-75.1652215)
 
 [Category:キティホーク級航空母艦](https://ja.wikipedia.org/wiki/Category:キティホーク級航空母艦 "wikilink") [Category:1968年竣工船](https://ja.wikipedia.org/wiki/Category:1968年竣工船 "wikilink") [Category:ジョン・F・ケネディ](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ "wikilink") [Category:アメリカ合衆国大統領を称えるモニュメントと記念建造物](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国大統領を称えるモニュメントと記念建造物 "wikilink")

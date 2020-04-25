@@ -1,7 +1,7 @@
 > この記事は[SBCニュースワイド](https://ja.wikipedia.org/wiki/SBCニュースワイド)から翻訳されています。
 
 
-『**SBCニュースワイド**』（エスビーシー ニュースワイド）は、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で月曜 - 金曜に放送されている夕方の[報道番組](../Page/報道番組.md "wikilink")である。
+『**SBCニュースワイド**』（エスビーシー ニュースワイド）は、[信越放送](../Page/信越放送.md "wikilink")（SBCテレビ）で月曜 - 金曜に放送されている夕方の[報道番組](../Page/報道番組.md "wikilink")である。
 
 [1976年](../Page/1976年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を開始し、2006年には放送開始30周年を迎えた老舗の長寿番組である。また、[長野県](../Page/長野県.md "wikilink")では初の[ローカルワイドニュース番組でもある](../Page/ローカルワイド番組.md "wikilink")。しかし番組は、信越放送の新社屋移転に伴う番組[改編](../Page/改編.md "wikilink")により、[2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")放送分をもって通算30年5か月の歴史にいったん終止符を打った。
 
@@ -79,8 +79,8 @@
 <!-- end list -->
 
   - [丸山隆之](../Page/丸山隆之.md "wikilink")（2010年3月29日 - 2013年3月29日、『[総力報道\!THE NEWS SBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_SBC "wikilink")』より引き続き出演\[2\]）
-  - 不在（2013年4月1日- 2016年9月30日）
-  - [尾関雄哉](https://ja.wikipedia.org/wiki/尾関雄哉 "wikilink") (2016年10月3日 -　)
+  - 不在（2013年4月1日 - 2016年9月30日）
+  - [尾関雄哉](https://ja.wikipedia.org/wiki/尾関雄哉 "wikilink") （2016年10月3日 - ）
 
 #### 女性
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   - 三島さやか（2010年3月29日 - 、『[総力報道\!THE NEWS SBC](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_SBC "wikilink")』から引き続き出演）
-  - [長谷川萌](https://ja.wikipedia.org/wiki/長谷川萌 "wikilink")（2013年4月1日　- 2016年9月30日 ）
+  - [長谷川萌](https://ja.wikipedia.org/wiki/長谷川萌 "wikilink")（2013年4月1日 - 2016年9月30日）
 
 ### 土曜
 

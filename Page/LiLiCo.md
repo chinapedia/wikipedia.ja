@@ -131,7 +131,7 @@
   - LiLiCoの番組ナビ\! Cafe de LaLa（[LaLa TV](../Page/LaLa_TV.md "wikilink")、MC）
   - [女のハローワーク](https://ja.wikipedia.org/wiki/女のハローワーク "wikilink")（LaLa TV、MC）
   - [水曜プレミアシネマ](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink")（TBS、ナビゲーター）
-  - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、月曜日レギュラー）
+  - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、水曜日レギュラー）
   - [NHK高校講座](../Page/NHK高校講座.md "wikilink") コミュニケーション英語I（[NHKEテレ](../Page/NHK教育テレビジョン.md "wikilink")、2013年4月15日 - 2017年2月27日、MC）
   - [大天才てれびくん](https://ja.wikipedia.org/wiki/大天才てれびくん "wikilink")（NHKEテレ）
   - [地球アゴラ](https://ja.wikipedia.org/wiki/地球アゴラ "wikilink")（[NHK BS1](../Page/NHK_BS1.md "wikilink")、2014年4月6日 - 、MC）

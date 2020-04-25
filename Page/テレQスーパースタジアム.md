@@ -116,7 +116,7 @@
   - 2011年-2012年
     [カラーボトル](https://ja.wikipedia.org/wiki/カラーボトル "wikilink")『[情熱のうた](https://ja.wikipedia.org/wiki/情熱のうた "wikilink")』
   - 2013年
-    カラーボトル『ファイター』（ソフトバンク所属[内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")外野手の登場曲にも使用されている）
+    カラーボトル『ファイター』（ホークス所属[内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")外野手の登場曲にも使用されている）
   - 2014年
     カラーボトル『ガムシャラボーイ』
 

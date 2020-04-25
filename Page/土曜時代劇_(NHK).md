@@ -237,7 +237,7 @@
 
 ## 外部リンク
 
-  - [NHKドラマ](http://www6.nhk.or.jp/drama/)
+  - [NHKドラマ](https://www6.nhk.or.jp/drama/)
   - [NHK時代劇](https://web.archive.org/web/20101204184531/http://www.nhk.or.jp/jidaigeki/index.html) - 2013年4月以前の時代劇作品ポータルページ
 
 [Category:○曜時代劇_(NHK)](https://ja.wikipedia.org/wiki/Category:○曜時代劇_\(NHK\) "wikilink")

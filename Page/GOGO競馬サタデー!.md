@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - [中西則善](https://ja.wikipedia.org/wiki/中西則善 "wikilink") - フリー（[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属）。
-  - [林美和](https://ja.wikipedia.org/wiki/林美和_\(タレント\) "wikilink")
+  - [林美和](https://ja.wikipedia.org/wiki/林美和_\(タレント\) "wikilink") - 2020年4月4日から『競馬ノススメ』も兼任
 
 <!-- end list -->
 

@@ -130,7 +130,7 @@
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分で打ち切り。日曜23:00 - 23:30に放送されていた）
   - [山形放送](../Page/山形放送.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")放送分で打ち切り。月曜21:05 - 21:30に放送されていた）
   - [茨城放送](../Page/茨城放送.md "wikilink")（2000年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、25分版）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送分で打ち切り。日曜24:30 - 25:00に放送されていた）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送分で打ち切り。日曜24:30 - 25:00に放送されていた）
   - [中国放送](../Page/中国放送.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")、（無印の）開始当初は日曜18:30 - 19:00、IIにリニューアルした1991年4月 - 9月は日曜16 - 17時台、1991年10月 - 1992年3月は土曜21:30 - 21:50、1992年4月から数年間は水曜23:00 - 23:30と変遷を重ね、以降は日曜25:30 - 25:45に放送されていた\[2\]）。
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（[2009年](../Page/2009年.md "wikilink")3月で打ち切り。火曜24:30 - 25:00に放送されていた）
   - [西日本放送](../Page/西日本放送.md "wikilink")（2009年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")で打ち切り。2008年9月までは日曜9:30 - 10:00、翌10月からは土曜17:00 - 17:15に放送されていた）

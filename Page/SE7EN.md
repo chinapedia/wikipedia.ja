@@ -416,7 +416,7 @@ AVCY-58781:通常盤<br />
 
   - [SE7EN 日本公式MySpace](http://www.myspace.com/se7enhello7)
 
-  - [SE7ENオフィシャルブログ](http://ameblo.jp/ygse7en/)
+  - [SE7ENオフィシャルブログ](https://ameblo.jp/ygse7en/)
 
   -
   - [宮S 日本公式サイト](http://www.kun-official.jp/kun_s/)

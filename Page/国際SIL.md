@@ -36,32 +36,44 @@ SILは、公式の諮問地位を[ユネスコ](../Page/国際連合教育科学
 
 SILコードは、言語に割り当てた3文字のコードである。[2000年](../Page/2000年.md "wikilink")に発行された第14版には、7148の言語にコードが付されていたが、全般的に[ISO 639-2のコードとは一致していなかった](https://ja.wikipedia.org/wiki/ISO_639-2 "wikilink")。[2005年](../Page/2005年.md "wikilink")に発行された第15版には、7299の言語にコードが付された。[2007年](../Page/2007年.md "wikilink")には[ISO 639-3としてISO標準に登録され](https://ja.wikipedia.org/wiki/ISO_639-3 "wikilink")、[2009年](../Page/2009年.md "wikilink")の第16版からはISO 639-3としてコードが付けられている。下記リンクから全リストをダウンロードすることができる。
 
-*SILコードに関しては[エスノローグ\#SILコード](https://ja.wikipedia.org/wiki/エスノローグ#SILコード "wikilink")も参照*
-
 ### コードの例
 
-  - JPN - [日本語](../Page/日本語.md "wikilink")
-  - AIN - [アイヌ語](../Page/アイヌ語.md "wikilink")
-  - AMS - [琉球語](../Page/琉球語.md "wikilink")[南奄美大島方言](https://ja.wikipedia.org/wiki/南奄美大島方言 "wikilink")
-  - KZG - 琉球語[喜界島方言](https://ja.wikipedia.org/wiki/喜界島方言 "wikilink")
-  - RYN - 琉球語[北奄美大島方言](https://ja.wikipedia.org/wiki/北奄美大島方言 "wikilink")
-  - TKN - 琉球語[徳之島方言](https://ja.wikipedia.org/wiki/徳之島方言 "wikilink")
-  - OKN - 琉球語[沖永良部島方言](https://ja.wikipedia.org/wiki/沖永良部島方言 "wikilink")
-  - RYU - 琉球語[沖縄島中央方言](../Page/沖縄方言.md "wikilink")
-  - XUG - 琉球語[国頭方言](https://ja.wikipedia.org/wiki/沖縄北部方言 "wikilink")
-  - YOX - 琉球語[与論島方言](https://ja.wikipedia.org/wiki/与論島方言 "wikilink")
-  - MVI - 琉球語[宮古諸島方言](../Page/宮古方言.md "wikilink")
-  - RYS - 琉球語[八重山諸島方言](../Page/八重山方言.md "wikilink")
-  - YOI - 琉球語[与那国島方言](../Page/与那国方言.md "wikilink")
-  - JSL - [日本手話](../Page/日本手話.md "wikilink")
-  - ENG - [英語](../Page/英語.md "wikilink")
+  - \- [日本語](../Page/日本語.md "wikilink")
+
+  - \- [アイヌ語](../Page/アイヌ語.md "wikilink")
+
+  - \- [琉球語](../Page/琉球語.md "wikilink")[南奄美大島方言](https://ja.wikipedia.org/wiki/南奄美大島方言 "wikilink")
+
+  - \- 琉球語[喜界島方言](https://ja.wikipedia.org/wiki/喜界島方言 "wikilink")
+
+  - \- 琉球語[北奄美大島方言](https://ja.wikipedia.org/wiki/北奄美大島方言 "wikilink")
+
+  - \- 琉球語[徳之島方言](https://ja.wikipedia.org/wiki/徳之島方言 "wikilink")
+
+  - \- 琉球語[沖永良部島方言](https://ja.wikipedia.org/wiki/沖永良部島方言 "wikilink")
+
+  - \- 琉球語[沖縄島中央方言](../Page/沖縄方言.md "wikilink")
+
+  - \- 琉球語[国頭方言](https://ja.wikipedia.org/wiki/沖縄北部方言 "wikilink")
+
+  - \- 琉球語[与論島方言](https://ja.wikipedia.org/wiki/与論島方言 "wikilink")
+
+  - \- 琉球語[宮古諸島方言](../Page/宮古方言.md "wikilink")
+
+  - \- 琉球語[八重山諸島方言](../Page/八重山方言.md "wikilink")
+
+  - \- 琉球語[与那国島方言](../Page/与那国方言.md "wikilink")
+
+  - \- [日本手話](../Page/日本手話.md "wikilink")
+
+  - \- [英語](../Page/英語.md "wikilink")
+
+## 脚注
 
 ## 関連項目
 
   - [ウィクリフ聖書翻訳協会](https://ja.wikipedia.org/wiki/ウィクリフ聖書翻訳協会 "wikilink")
   - [エスノローグ](https://ja.wikipedia.org/wiki/エスノローグ "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

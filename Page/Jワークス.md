@@ -100,7 +100,7 @@
 
   - [週刊えみぃSHOW](../Page/ウラネタ芸能ワイド_週刊えみぃSHOW.md "wikilink")
   - [あさイチ\!](../Page/あさイチ!.md "wikilink")
-  - [なるトモ\!](https://ja.wikipedia.org/wiki/なるトモ! "wikilink")
+  - [なるトモ\!](../Page/なるトモ!.md "wikilink")
   - [ニッポン\!おもてなし旅](https://ja.wikipedia.org/wiki/ニッポン!おもてなし旅 "wikilink")
 
 **テレビ大阪**

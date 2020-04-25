@@ -143,7 +143,7 @@
 
   - 17番は、[マルク・ヴィヴィアン・フォエ](https://ja.wikipedia.org/wiki/マルク・ヴィヴィアン・フォエ "wikilink")を偲んで永久欠番。
 
-\[2\]
+<!-- end list -->
 
   - 監督
 
@@ -270,4 +270,3 @@ in
 [Category:フランスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:フランスのサッカークラブ "wikilink")
 
 1.
-2.

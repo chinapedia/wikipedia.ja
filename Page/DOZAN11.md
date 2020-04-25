@@ -1,29 +1,29 @@
 > この記事は[DOZAN11](https://ja.wikipedia.org/wiki/DOZAN11)から翻訳されています。
 
 
-**DOZAN11**（ドーザンイレブン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ディージェイ](https://ja.wikipedia.org/wiki/ディスクジョッキー#レゲエにおけるディージェイとセレクター "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ソングライター](../Page/ソングライター.md "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**三木道三**（みきどうざん）。2001年に発売したシングル「[Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")」は、日本のレゲエ史上初の[オリコン](../Page/オリコン.md "wikilink")1位を記録\[1\]。
+**DOZAN11**（ドーザンイレブン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ディージェイ](https://ja.wikipedia.org/wiki/ディスクジョッキー#レゲエにおけるディージェイとセレクター "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ソングライター](../Page/ソングライター.md "wikilink")、[プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**三木道三**（みきどうざん）\[1\]。2001年に発売したシングル「[Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")」は、日本のレゲエ史上初の[オリコン](../Page/オリコン.md "wikilink")1位を記録\[2\]。
 
 ## 来歴
 
-1992年頃から奈良、京都を中心に活動を始める\[2\]。[1993年](../Page/1993年.md "wikilink")にジャマイカを訪れ、レゲエの魅力に取りつかれる。日本に帰国後、地元である大阪を拠点にレゲエDJとして活動\[3\]\[4\]。
+1992年頃から奈良、京都を中心に活動を始める\[3\]。[1993年](../Page/1993年.md "wikilink")にジャマイカを訪れ、レゲエの魅力に取りつかれる。日本に帰国後、地元である大阪を拠点にレゲエDJとして活動\[4\]\[5\]。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、7インチ[シングル](../Page/シングル.md "wikilink")「JAPAN一番」をJap Jamから発売\[5\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、7インチ[シングル](../Page/シングル.md "wikilink")「JAPAN一番」をJap Jamから発売\[6\]。
 
 [1996年](../Page/1996年.md "wikilink")には、数枚のシングルをリリース。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ミックステープ『MIKI-FM1997ヘルス』を発売。以降多くのアーティストの作品に客演\[6\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ミックステープ『MIKI-FM1997ヘルス』を発売。以降多くのアーティストの作品に客演\[7\]。
 
 Mixin'1というプライベートレーベルを設立、「MIKI-FM」の新作となる『MIKI-FM 1998メガヘルス』を[CDでリリース](../Page/コンパクトディスク.md "wikilink")。
 
-1998年に全国ツアーを行い\[7\]、1999年に当時のプロデューサーと共にレーベル「大和RECORDINGS」を大阪に設立\[8\]。
+1998年に全国ツアーを行い\[8\]、1999年に当時のプロデューサーと共にレーベル「大和RECORDINGS」を大阪に設立\[9\]。
 
-2000年8月にシングル「斬る\!ジャパニーズ」でメジャー・デビュー\[9\]。翌2001年5月、シングル「[Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")」を発売。日本のレゲエ史上初の[オリコン](../Page/オリコン.md "wikilink")週間シングルチャート1位を記録\[10\]。累計売上は約90万枚、出荷枚数は[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を突破\[11\]。
+2000年8月にシングル「斬る\!ジャパニーズ」でメジャー・デビュー\[10\]。翌2001年5月、シングル「[Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")」を発売。日本のレゲエ史上初の[オリコン](../Page/オリコン.md "wikilink")週間シングルチャート1位を記録\[11\]。累計売上は約90万枚、出荷枚数は[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を突破\[12\]。
 
 2002年にはレーベルをあげて、全国47都道府県ツアーを開催。2003年、レゲエシンガーの[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")の楽曲「栽培したい〜世界中で〜」に作詞で参加。
 
-2008年8月27日、[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")とのコラボレーション曲「侍ノ詩」を発売。2012年7月11日に発売された[EVISBEATSのアルバム](../Page/アミダ_\(ミュージシャン\).md "wikilink")『ひとつになるとき』の収録曲「ギャーテーギャーテー」、「ちょうどYEAH\!」の作詞を担当。
+2008年8月27日、[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")とのコラボレーション曲「侍ノ詩」を発売。2012年7月11日に発売された[EVISBEATSのアルバム](../Page/アミダ_\(ミュージシャン\).md "wikilink")『ひとつになるとき』の収録曲「ギャーテーギャーテー」、「ちょうどYEAH\!」の作詞を担当。その後、学生時代に遭った交通事故の後遺症、自律神経の乱れから音楽を引退\[13\]。加えて逆流性食道炎で2年間の寝たきり生活を経験する\[14\]。
 
-2014年、三木道三から**DOZAN11**に改名し、活動を再開\[12\]。同年5月11日、レゲエミュージシャン[RED SPIDERのライブ](https://ja.wikipedia.org/wiki/RED_SPIDER "wikilink")「大阪UP\!\!\!\!」にシークレットゲストとして出演\[13\]。11月12日、アルバム『Japan be Irie\!\!』を発売。
+2014年、三木道三から**DOZAN11**に改名し、活動を再開\[15\]。同年5月11日、レゲエミュージシャン[RED SPIDERのライブ](https://ja.wikipedia.org/wiki/RED_SPIDER "wikilink")「大阪UP\!\!\!\!」にシークレットゲストとして出演\[16\]。11月12日、アルバム『Japan be Irie\!\!』を発売。
 
 ## ディスコグラフィ
 
@@ -678,3 +678,6 @@ UMCF-9507</p></td>
 11.
 12.
 13.
+14.
+15.
+16.

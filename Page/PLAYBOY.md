@@ -5,13 +5,9 @@
 
 ## 概要
 
-[Playboy_magazine_world_map_new.png](https://ja.wikipedia.org/wiki/File:Playboy_magazine_world_map_new.png "fig:Playboy_magazine_world_map_new.png") [ヒュー・ヘフナー](../Page/ヒュー・ヘフナー.md "wikilink")により[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に発売が開始され、この雑誌の成功により、出版元はあらゆるメディアに広がる Playboy Enterprises, Inc. に成長した。
+[Playboy_magazine_world_map_new.png](https://ja.wikipedia.org/wiki/File:Playboy_magazine_world_map_new.png "fig:Playboy_magazine_world_map_new.png") [ヒュー・ヘフナー](../Page/ヒュー・ヘフナー.md "wikilink")により[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")に発売が開始され、この雑誌の成功により、出版元はあらゆるメディアに広がる Playboy Enterprises, Inc. に成長した。21世紀初頭現在、「プレイボーイ」は世界でも最も良く知られた[ブランド](../Page/ブランド.md "wikilink")のひとつであり、アメリカ合衆国内のPLAYBOY誌だけでなく、各国版が世界各地で発行されている。
 
-現在、「プレイボーイ」は世界でも最も知られた[ブランド](../Page/ブランド.md "wikilink")のひとつであり、アメリカ合衆国内の旗艦誌に加えて、各国特別版が全世界で発行されている。
-
-内容は、女性の[ヌード写真](../Page/ヌード写真.md "wikilink")に加えてファッション、スポーツ、[セレブリティ](../Page/セレブリティ.md "wikilink")のトピックや、[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")など著名な作家による短編小説などを掲載。政治上の係争点について[リベラルな見解を表明することでも知られている](https://ja.wikipedia.org/wiki/自由主義 "wikilink")。
-
-プレイボーイの「趣味のよい」「質の高い」ヌード写真は、プレイボーイのライバル誌である『[ペントハウス](../Page/ペントハウス_\(雑誌\).md "wikilink")』とともに、[1970年代](../Page/1970年代.md "wikilink")から創刊された「[ハードコア](../Page/ハードコア_\(ポルノ\).md "wikilink")」な[ポルノ雑誌](../Page/ポルノ雑誌.md "wikilink")に対して「[ソフトコア](../Page/ソフトコア.md "wikilink")」と分類されることもある。
+同誌はアメリカ人のインテリ層からは、「知的で上品な雑誌」と見られているとデーブ・スペクターも証言している。性の[ヌード写真](../Page/ヌード写真.md "wikilink")に加えて政治、ファッション、スポーツ、[セレブリティ](../Page/セレブリティ.md "wikilink")のトピックや、[アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")など著名な作家による短編小説などを掲載。政治上の係争点について「言論の自由」「表現の自由」を重視した[リベラルな見解を表明することでも知られている](https://ja.wikipedia.org/wiki/自由主義 "wikilink")。同誌はアメリカのセックス革命でも重要な役割を果たした\[1\]。また1973年に旅行で渡米した写真家やマスコミ関係者は、当時からPLAYBPOYには女性の性器が写っていたと異口同音に証言しており、その表現の自由重視の姿勢に驚きと感銘を受けたという。 プレイボーイの「趣味のよい」「質の高い」ヌード写真は、プレイボーイのライバル誌である『[ペントハウス](../Page/ペントハウス_\(雑誌\).md "wikilink")』とともに、[1970年代](../Page/1970年代.md "wikilink")から創刊された「[ハードコア](../Page/ハードコア_\(ポルノ\).md "wikilink")」な[ポルノ雑誌](../Page/ポルノ雑誌.md "wikilink")に対して「[ソフトコア](../Page/ソフトコア.md "wikilink")」と分類されることもある。
 
 ## 歴史
 
@@ -19,7 +15,7 @@
 
 [Hugh_Hefner_1966.jpg](https://ja.wikipedia.org/wiki/File:Hugh_Hefner_1966.jpg "fig:Hugh_Hefner_1966.jpg")）\]\] 「[エスクワイア](https://ja.wikipedia.org/wiki/エスクワイア "wikilink")」誌の編集部にいたヘフナーは、女性のヌードが掲載された洒落た男性向け雑誌を創刊することを考え、[1952年](../Page/1952年.md "wikilink")に独立した。ヘフナーは創刊号出版にあたり数千ドルを借金し、さらに第2弾が出せるのかヘフナーには確信がもてなかったこともあり、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")9月に発行された創刊号には日付が入っていない。初めての中綴じ[グラビア写真](https://ja.wikipedia.org/wiki/グラビア写真 "wikilink")はノーマ・ジーン（後の[マリリン・モンロー](https://ja.wikipedia.org/wiki/マリリン・モンロー "wikilink")）だった。
 
-その写真は彼女がカレンダー用に撮影した[ヌード写真](../Page/ヌード写真.md "wikilink")の流用であり、『プレイボーイ』誌のための撮りおろしではなかったが、創刊号は即座に話題となり、数週間で売り切れとなった。1冊の値段は50セントで、発行部数は53,991部だった\[1\]。2002年には「新品未使用」もしくは「新品同様」とうたわれた創刊号が5,000ドル以上で売れたこともある。
+その写真は彼女がカレンダー用に撮影した[ヌード写真](../Page/ヌード写真.md "wikilink")の流用であり、『プレイボーイ』誌のための撮りおろしではなかったが、創刊号は即座に話題となり、数週間で売り切れとなった。1冊の値段は50セントで、発行部数は53,991部だった\[2\]。
 
 ### 命名
 
@@ -37,9 +33,9 @@
 
 ### 最盛期
 
-[The_Original_Playboy_Mansion.jpg](https://ja.wikipedia.org/wiki/File:The_Original_Playboy_Mansion.jpg "fig:The_Original_Playboy_Mansion.jpg") [1950年代](../Page/1950年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")前半にかけて、洒落た紙面レイアウトに女性ピンナップ、そして[マーティン・ルーサー・キング](https://ja.wikipedia.org/wiki/マーティン・ルーサー・キング "wikilink")や[マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")、[サミー・デイヴィスJr.](../Page/サミー・デイヴィスJr..md "wikilink")や[ジャン＝ポール・サルトル](https://ja.wikipedia.org/wiki/ジャン＝ポール・サルトル "wikilink")、[フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")など広範な層へのインタビューと並び、著名な作家の作品など、文化的意義を強く押し出した内容が特に[ベビーブーマー](../Page/ベビーブーマー.md "wikilink")世代に対して大きな人気を博し、[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領](../Page/大統領.md "wikilink")も読んでいることを公言した。
+[The_Original_Playboy_Mansion.jpg](https://ja.wikipedia.org/wiki/File:The_Original_Playboy_Mansion.jpg "fig:The_Original_Playboy_Mansion.jpg") [1950年代](../Page/1950年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")前半にかけて、洒落た紙面レイアウトに女性ピンナップ、そして[マーティン・ルーサー・キング](https://ja.wikipedia.org/wiki/マーティン・ルーサー・キング "wikilink")や[マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")、[ジャン＝ポール・サルトル](https://ja.wikipedia.org/wiki/ジャン＝ポール・サルトル "wikilink")、[フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")など広範な層へのインタビューと並び、著名な作家の作品など、文化的意義を強く押し出した内容が特に[ベビーブーマー](../Page/ベビーブーマー.md "wikilink")世代に対して大きな人気を博し、[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[大統領](../Page/大統領.md "wikilink")も読んでいることを公言した。
 
-しかし[1963年](../Page/1963年.md "wikilink")6月に、シカゴ警察によりヘフナーが[わいせつ](../Page/わいせつ.md "wikilink")図書の製作及び販売の容疑で逮捕されるが（罪状は[ジェーン・マンスフィールド](https://ja.wikipedia.org/wiki/ジェーン・マンスフィールド "wikilink")のヌード）、11月より行われた裁判で表現の自由を訴え無罪を勝ち取る。
+しかし[1963年](../Page/1963年.md "wikilink")6月に、シカゴ警察によりヘフナーが[わいせつ](../Page/わいせつ.md "wikilink")図書の製作及び販売の容疑で逮捕されるが（罪状は[ジェーン・マンスフィールド](https://ja.wikipedia.org/wiki/ジェーン・マンスフィールド "wikilink")のヌード）、11月より行われた裁判で表現の自由を訴え「無罪を勝ち取った」。
 
 また1950年代から、ヘフナーが個人的にも支援していた[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")の支持や、[1960年代](../Page/1960年代.md "wikilink")には[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")反対を表明、さらにベトナム戦争への[アメリカ軍](../Page/アメリカ軍.md "wikilink")の慰問や戦争孤児問題への協力を行った。また性の自由化や女性の権利、[ピル](https://ja.wikipedia.org/wiki/ピル "wikilink")使用の是非、[核](../Page/核.md "wikilink")実験の反対、さらには[LSD](../Page/LSD.md "wikilink")や[マリファナ](https://ja.wikipedia.org/wiki/マリファナ "wikilink")使用の是非など、社会的な問題に対して様々な形で影響を与えた。
 
@@ -48,8 +44,6 @@
 ### 事業多角化
 
 [McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg](https://ja.wikipedia.org/wiki/File:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg "fig:McDonnell_Douglas_DC-9-32,_Private_JP6252786.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Playboy_Bunnies_2011.jpg "wikilink") また1950年代後半には「プレイメイト」にシンボルである[ウサギ](../Page/ウサギ.md "wikilink")をイメージしたコスチューム・[バニー・ガールの格好をさせ](../Page/バニーガール.md "wikilink")[ウェイトレス](https://ja.wikipedia.org/wiki/ウェイトレス "wikilink")に使い、[アレサ・フランクリン](../Page/アレサ・フランクリン.md "wikilink")や[ナット・キング・コール](../Page/ナット・キング・コール.md "wikilink")を生でを聴かせる会員制高級クラブ「プレイボーイ・クラブ」を、[シカゴ](../Page/シカゴ.md "wikilink")を皮切りに[ニューヨーク](../Page/ニューヨーク.md "wikilink")や[セントルイス](../Page/セントルイス.md "wikilink")、[マイアミ](../Page/マイアミ.md "wikilink")や[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に、さらに[カジノ](../Page/カジノ.md "wikilink")を設けた店舗を[ロンドン](../Page/ロンドン.md "wikilink")などにオープンするなど、世界観を広げつつ事業の多角化を進めた。
-
-しかしながらニューヨーク店をオープンするにあたり、[酒](../Page/酒.md "wikilink")の販売許可を得るためにニューヨーク州酒類管理局に賄賂を渡していたことがわかり、営業許可証が取り消されてしまうというトラブルにもあってしまうなど、これまでとは違う種類のビジネスにありがちなトラブルにあってしまう。
 
 [テレビジョン](https://ja.wikipedia.org/wiki/テレビジョン "wikilink")や[映画](../Page/映画.md "wikilink")製作など新しいメディアへの進出、[ホテル](../Page/ホテル.md "wikilink")市場への進出もすすめた。また、自宅の「プレイボーイ・マンション」（シカゴ市内）での[フランク・シナトラ](https://ja.wikipedia.org/wiki/フランク・シナトラ "wikilink")やサミー・デイヴィスJr.、[ウディ・アレン](../Page/ウディ・アレン.md "wikilink")をなどを呼んだ豪勢なパーティーや、回転[ベッド](../Page/ベッド.md "wikilink")や[シャワー](../Page/シャワー.md "wikilink")を完備した[ダグラス](../Page/ダグラス.md "wikilink")[DC-9](https://ja.wikipedia.org/wiki/DC-9 "wikilink")を所有し（プレイボーイ・エンタープライズが所有）、宣伝を兼ねてアメリカ国内を飛びまわった。
 
@@ -87,9 +81,9 @@
 
 [Holly_Madison_6.jpg](https://ja.wikipedia.org/wiki/File:Holly_Madison_6.jpg "fig:Holly_Madison_6.jpg") [2015年](../Page/2015年.md "wikilink")10月、スコット・フランダース[最高経営責任者](../Page/最高経営責任者.md "wikilink")は、翌2016年3月号を以て、同誌の看板ともいえる女性のフルヌード写真の掲載を中止することを発表した。インターネットが普及し、[裸](../Page/裸.md "wikilink")の画像が容易に閲覧出来る2015年現在では、[ヌード写真](../Page/ヌード写真.md "wikilink")は「時代遅れ」と判断された結果である。
 
-[2016年](../Page/2016年.md "wikilink")1月/2月号の『最後のフルヌード写真モデル』は、48歳の[パメラ・アンダーソン](../Page/パメラ・アンダーソン.md "wikilink")（[プレイメイト](../Page/プレイメイト.md "wikilink")掲載14回目）が務めた\[2\]\[3\]。しかし掲載停止から1年後となる2017年2月13日、CCOのクーパー・ヘフナーは「ヌードを止めたのは間違いだった」との声明を出し、ヌード写真を紙面に復活させる意向を表明した\[4\]。
+[2016年](../Page/2016年.md "wikilink")1月/2月号の『最後のフルヌード写真モデル』は、48歳の[パメラ・アンダーソン](../Page/パメラ・アンダーソン.md "wikilink")（[プレイメイト](../Page/プレイメイト.md "wikilink")掲載14回目）が務めた\[3\]\[4\]。しかし掲載停止から1年後となる2017年2月13日、CCOのクーパー・ヘフナーは「ヌードを止めたのは間違いだった」との声明を出し、ヌード写真を紙面に復活させる意向を表明した\[5\]。
 
-### 現在
+### 21世紀
 
 現在の「プレイボーイ」[ブランド](../Page/ブランド.md "wikilink")の総売上高は[2016年](../Page/2016年.md "wikilink")には15億ドルにのぼり、ニューヨークやロンドンの「プレイボーイ・クラブ」は安定した人気を誇り、[ラスベガス](../Page/ラスベガス.md "wikilink")も再展開するなど、ブランドの知名度は世界的なものを誇る。
 
@@ -136,31 +130,28 @@ Playmate of the Yearへの対価
 [1962年](../Page/1962年.md "wikilink")9月号（9巻9号）の[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")の回から始まり、以後、
 
   - [ヤーセル・アラファート](../Page/ヤーセル・アラファート.md "wikilink")
+  - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")
   - [モハメド・アリ](../Page/モハメド・アリ.md "wikilink")
-  - [石原慎太郎](../Page/石原慎太郎.md "wikilink")
-  - [ラリー・エリソン](../Page/ラリー・エリソン.md "wikilink")
-  - [オーソン・ウェルズ](../Page/オーソン・ウェルズ.md "wikilink")
-  - [ジョージ・ウォレス](../Page/ジョージ・ウォレス.md "wikilink")
-  - [カート・ヴォネガット](../Page/カート・ヴォネガット.md "wikilink")
-  - [マダリン・マーレー・オヘア](https://ja.wikipedia.org/wiki/マダリン・マーレー・オヘア "wikilink")
-  - [フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")
-  - [ジミー・カーター](../Page/ジミー・カーター.md "wikilink")
+  - [マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")
   - [マーティン・ルーサー・キング・ジュニア](../Page/マーティン・ルーサー・キング・ジュニア.md "wikilink")
-  - [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")
   - [ジャン＝ポール・サルトル](https://ja.wikipedia.org/wiki/ジャン＝ポール・サルトル "wikilink")
   - [スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")
   - [カール・セーガン](../Page/カール・セーガン.md "wikilink")
   - [サルバドール・ダリ](../Page/サルバドール・ダリ.md "wikilink")
   - [ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")
   - [ラルフ・ネーダー](../Page/ラルフ・ネーダー.md "wikilink")
-  - [スティーヴン・ホーキング](../Page/スティーヴン・ホーキング.md "wikilink")
-  - [マルコムX](https://ja.wikipedia.org/wiki/マルコムX "wikilink")
   - [バートランド・ラッセル](../Page/バートランド・ラッセル.md "wikilink")
-  - [アイン・ランド](../Page/アイン・ランド.md "wikilink")
-  - [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")
+  - [ラリー・エリソン](../Page/ラリー・エリソン.md "wikilink")
+  - [オーソン・ウェルズ](../Page/オーソン・ウェルズ.md "wikilink")
+  - [ジョージ・ウォレス](../Page/ジョージ・ウォレス.md "wikilink")
+  - [カート・ヴォネガット](../Page/カート・ヴォネガット.md "wikilink")
+  - [フィデル・カストロ](../Page/フィデル・カストロ.md "wikilink")
+  - [ジミー・カーター](../Page/ジミー・カーター.md "wikilink")
+  - [アーサー・C・クラーク](../Page/アーサー・C・クラーク.md "wikilink")
+  - [スティーヴン・ホーキング](../Page/スティーヴン・ホーキング.md "wikilink")
   - [ジョージ・リンカーン・ロックウェル](https://ja.wikipedia.org/wiki/ジョージ・リンカーン・ロックウェル "wikilink")
 
-といった[セレブリティ](../Page/セレブリティ.md "wikilink")が招かれている。なお、過去に起用されたインタビュアーには[アレックス・ヘイリー](../Page/アレックス・ヘイリー.md "wikilink")や[アルビン・トフラー](../Page/アルビン・トフラー.md "wikilink")などがいる。
+といった著名人が招かれた。なお、過去に起用されたインタビュアーには[アレックス・ヘイリー](../Page/アレックス・ヘイリー.md "wikilink")や[アルビン・トフラー](../Page/アルビン・トフラー.md "wikilink")などがいる。
 
 ## ロゴ
 
@@ -205,15 +196,19 @@ Playmate of the Yearへの対価
   - [オオシマ・ヒロミ](../Page/オオシマ・ヒロミ.md "wikilink") - 日本人初の[プレイメイト](../Page/プレイメイト.md "wikilink")
   - [バニーガール](../Page/バニーガール.md "wikilink")
   - [Playboy U](https://ja.wikipedia.org/wiki/Playboy_U "wikilink")
-  - [プレイボーイ (パチスロ)](../Page/プレイボーイ_\(パチスロ\).md "wikilink")
-  - [DC-9](https://ja.wikipedia.org/wiki/DC-9 "wikilink")
+  - [ヘアヌード](../Page/ヘアヌード.md "wikilink")
+  - [ヌード写真](../Page/ヌード写真.md "wikilink")
+  - [ヌードモデル](../Page/ヌードモデル.md "wikilink")
+  - [ラリー・フリント](../Page/ラリー・フリント.md "wikilink")
+  - [表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")
 
 ## 外部リンク
 
   -
 [Category:Playboy](https://ja.wikipedia.org/wiki/Category:Playboy "wikilink") [Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:アダルト雑誌](https://ja.wikipedia.org/wiki/Category:アダルト雑誌 "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:1953年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1953年創刊の雑誌 "wikilink")
 
-1.  Playboy Collector's Association Playboy Magazine Price Guide
-2.
+1.  "Why America loved Playboy". BBC News. October 14, 2015. Retrieved February 14, 2016.
+2.  Playboy Collector's Association Playboy Magazine Price Guide
 3.
 4.
+5.

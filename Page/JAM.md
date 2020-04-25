@@ -40,6 +40,7 @@
       - JAM - [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")で放送されているテレビ番組。
   - **雑誌**
       - [1979年](../Page/1979年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")創刊の[自販機本](../Page/自販機本.md "wikilink")『[Jam](https://ja.wikipedia.org/wiki/Jam_\(自販機本\) "wikilink")』（[サブカル雑誌](../Page/サブカルチャー.md "wikilink")『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(雑誌\) "wikilink")』の前身）
+      - [新興楽譜出版社から発行されていた月刊の音楽雑誌](../Page/シンコーミュージック・エンタテイメント.md "wikilink")。1979年1月号が創刊号。1981年1月号で終刊。
 
 ## 関連項目
 

@@ -79,15 +79,15 @@ HRCから販売されたレース専用車両のNSR150は、NSR150SPから保安
 
 後述の[\#関連項目](https://ja.wikipedia.org/wiki/#関連項目 "wikilink")参照のこと。
 
-## 参考文献
-
-  -
 ## 脚注
 
 ### 注釈
 
 ### 出典
 
+## 参考文献
+
+  -
 ## 関連項目
 
   - [ホンダ・NSR250](../Page/ホンダ・NSR250.md "wikilink")

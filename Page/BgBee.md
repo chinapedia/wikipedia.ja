@@ -32,4 +32,4 @@
   -
   - [北海道テレビ放送](http://www.htb.co.jp/)
 
-[Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink") [Category:テレビ技術会社](https://ja.wikipedia.org/wiki/Category:テレビ技術会社 "wikilink") [Category:広告制作プロダクション](https://ja.wikipedia.org/wiki/Category:広告制作プロダクション "wikilink") [Category:札幌市南区の企業](https://ja.wikipedia.org/wiki/Category:札幌市南区の企業 "wikilink")
+[Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink") [Category:テレビ技術会社](https://ja.wikipedia.org/wiki/Category:テレビ技術会社 "wikilink") [Category:広告制作プロダクション](https://ja.wikipedia.org/wiki/Category:広告制作プロダクション "wikilink") [Category:札幌市南区の企業](https://ja.wikipedia.org/wiki/Category:札幌市南区の企業 "wikilink") [Category:白石区の企業](https://ja.wikipedia.org/wiki/Category:白石区の企業 "wikilink")

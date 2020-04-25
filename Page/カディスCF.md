@@ -651,9 +651,16 @@
 
 ## 脚注
 
+1.斉藤健仁『世界のサッカーエンブレムfile』枻出版社、2009年、44頁
+2.Lowe, Sid (2006年3月27日). “[Adiós, Cádiz](https://www.theguardian.com/football/2006/mar/27/europeanfootball.sport1)”. The Guardian 2006年3月26日閲覧。
+3\.[スペイン2部・カディス所属DFファリの壮絶人生](https://headlines.yahoo.co.jp/hl?a=20200406-00010000-goal-socc) Yahoo\!JAPAN、2020年4月6日
+
 ## 外部リンク
 
   - [公式サイト](http://www.cadizcf.com)
+  - [公式ツイッター](https://mobile.twitter.com/cadiz_cfjp)**（日本語）**
+  - [公式インスタグラム](http://instagram.com/cadizclubdefutbol_jpn/)**（日本語）**
+  - [カディスジャパン公式ノート](https://note.com/cadiz_japan/)**（日本語）**
   - [Futbolmeによるクラブ紹介](http://www.futbolme.com/com/index_equipo.asp?id_equipo=80)
   - [クラブの歴史](http://www.cadistas1910.com)
 

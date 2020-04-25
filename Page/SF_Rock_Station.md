@@ -3,7 +3,7 @@
 
 **SF Rock Station**（えすえふろっくすてーしょん）とは、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月から[1993年](../Page/1993年.md "wikilink")6月まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた深夜番組。当時は月 - 金曜日、深夜1:00 - 3:00の2時間番組だった。ちなみに番組タイトルの「SF」とは、東海ラジオの[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（JO**SF**）に由来している。
 
-東海ラジオの深夜枠を支えた伝説的な番組『[ミッドナイト東海](../Page/ミッドナイト東海.md "wikilink")』『[とびっきりNIGHT](https://ja.wikipedia.org/wiki/とびっきりNIGHT "wikilink")』の後を受ける形で、1986年10月スタート。当時、全国的な流れになりつつあったバンドブームを先取りし、初代[DJには](../Page/ディスクジョッキー.md "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")）や[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（のちに[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[TM NETWORK名義に](../Page/TM_NETWORK.md "wikilink")）、黒水伸一（THE SHAKES）、[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[田所豊](../Page/ダイアモンド☆ユカイ.md "wikilink")（[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）を迎え、のちに[奥田民生](../Page/奥田民生.md "wikilink")（[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")）や[田村直美](../Page/田村直美.md "wikilink")（[PEARL](../Page/PEARL_\(バンド\).md "wikilink")）など、当時の人気バンドのメンバーを揃えたことで話題となった。ローカル番組であったが、AMラジオの深夜番組という広範囲で受信可能な特性から、全国各地にファンを持つ人気番組だった。
+東海ラジオの深夜枠を支えた伝説的な番組『[ミッドナイト東海](../Page/ミッドナイト東海.md "wikilink")』『[とびっきりNIGHT](https://ja.wikipedia.org/wiki/とびっきりNIGHT "wikilink")』の後を受ける形で、1986年10月スタート。当時、全国的な流れになりつつあったバンドブームを先取りし、初代[DJには](../Page/ディスクジョッキー.md "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](../Page/BOOWY.md "wikilink")）や[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（のちに[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[TM NETWORK名義に](../Page/TM_NETWORK.md "wikilink")）、黒水伸一（THE SHAKES）、[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[田所豊](../Page/ダイアモンド☆ユカイ.md "wikilink")（[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）を迎え、のちに[奥田民生](../Page/奥田民生.md "wikilink")（[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")）や[田村直美](../Page/田村直美.md "wikilink")（[PEARL](../Page/PEARL_\(バンド\).md "wikilink")）など、当時の人気バンドのメンバーを揃えたことで話題となった。ローカル番組であったが、AMラジオの深夜番組という広範囲で受信可能な特性から、全国各地にファンを持つ人気番組だった。
 
 ## パーソナリティ
 
@@ -208,7 +208,7 @@
 
 ### 月曜日
 
-  - [氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")） （1986年10月 - 1987年3月）
+  - [氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](../Page/BOOWY.md "wikilink")） （1986年10月 - 1987年3月）
   - [田村直美](../Page/田村直美.md "wikilink")（[PEARL](../Page/PEARL_\(バンド\).md "wikilink")） （1987年4月 - 1989年3月）
   - （1989年4月 - 6月の間はスペシャルパーソナリティ枠）
   - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink") （1989年7月 - 1990年2月）

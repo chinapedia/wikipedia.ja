@@ -15,7 +15,7 @@
 
   - [特撮](../Page/特撮.md "wikilink")作品『[特救指令ソルブレイン](../Page/特救指令ソルブレイン.md "wikilink")』の略。
 
-  - [アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")のライブイベント『[スーパーロボット魂](https://ja.wikipedia.org/wiki/スーパーロボット魂 "wikilink")（スピリッツ）』の略。
+  - [アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")のライブイベント『[スーパーロボット魂](../Page/スーパーロボット魂.md "wikilink")（スピリッツ）』の略。
 
   - [SRSボクシングジム](https://ja.wikipedia.org/wiki/SRSボクシングジム "wikilink") - [東京都](../Page/東京都.md "wikilink")[荒川区](https://ja.wikipedia.org/wiki/荒川区 "wikilink")に所在するボクシングジム。
 

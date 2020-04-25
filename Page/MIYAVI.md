@@ -1,7 +1,7 @@
 > この記事は[MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI)から翻訳されています。
 
 
-**MIYAVI**（ミヤビ\[1\]、[1981年](../Page/1981年.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")。
+**MIYAVI**（ミヤビ\[1\]、[1981年](../Page/1981年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[俳優](../Page/俳優.md "wikilink")。
 
 日本、[北米](../Page/北アメリカ.md "wikilink")、[南米](../Page/南アメリカ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[アジア](../Page/アジア.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など約30か国300公演以上のライブを行い、7度のワールドツアーも行っている\[3\]\[4\]。
 

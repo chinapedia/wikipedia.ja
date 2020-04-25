@@ -113,7 +113,7 @@
 
 ## 脚注
 
-[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:ビッグコミックスペリオール](https://ja.wikipedia.org/wiki/Category:ビッグコミックスペリオール "wikilink") [Category:池上遼一](https://ja.wikipedia.org/wiki/Category:池上遼一 "wikilink") [Category:武論尊](https://ja.wikipedia.org/wiki/Category:武論尊 "wikilink") [Category:歌舞伎町を舞台とした作品](https://ja.wikipedia.org/wiki/Category:歌舞伎町を舞台とした作品 "wikilink") [Category:日本のアクション映画](https://ja.wikipedia.org/wiki/Category:日本のアクション映画 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:R指定の映画](https://ja.wikipedia.org/wiki/Category:R指定の映画 "wikilink") [Category:歌舞伎町を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:歌舞伎町を舞台とした映画作品 "wikilink")
+[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:ビッグコミックスペリオール](https://ja.wikipedia.org/wiki/Category:ビッグコミックスペリオール "wikilink") [Category:池上遼一](https://ja.wikipedia.org/wiki/Category:池上遼一 "wikilink") [Category:武論尊](https://ja.wikipedia.org/wiki/Category:武論尊 "wikilink") [Category:歌舞伎町を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:歌舞伎町を舞台とした漫画作品 "wikilink") [Category:日本のアクション映画](https://ja.wikipedia.org/wiki/Category:日本のアクション映画 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:R指定の映画](https://ja.wikipedia.org/wiki/Category:R指定の映画 "wikilink") [Category:歌舞伎町を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:歌舞伎町を舞台とした映画作品 "wikilink")
 
 1.  コミックス第2巻
 2.  コミックス第1巻

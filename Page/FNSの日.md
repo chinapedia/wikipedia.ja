@@ -1325,7 +1325,7 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
 
   - [魔法のランプ\!](../Page/魔法のランプ!.md "wikilink")（1995年）
   - [明石家さんまのスポーツするぞ\!大放送](../Page/明石家さんまのスポーツするぞ!大放送.md "wikilink")（1995年 - 1997年）
-  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（1995年・1997年・2009年）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（1995年・1997年・2009年）
 
 <!-- end list -->
 

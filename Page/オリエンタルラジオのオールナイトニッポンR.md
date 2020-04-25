@@ -1090,7 +1090,7 @@ DJ藤森に対するリクエストや質問を送ると、答えてくれたり
   - 初代ディレクター：[角銅秀人](../Page/角銅秀人.md "wikilink")
       - オリラジをパーソナリティに推薦した。
   - 2代目ディレクター：木村
-      - [東京都立大学 (1949-2011)](https://ja.wikipedia.org/wiki/東京都立大学_\(1949-2011\) "wikilink")（現[首都大学東京](../Page/首都大学東京.md "wikilink")）卒。
+      - [東京都立大学 (1949-2011)](../Page/東京都立大学_\(1949-2011\).md "wikilink")（現[首都大学東京](../Page/首都大学東京.md "wikilink")）卒。
       - スポーツ部の館野ディレクターを好きだと番組でからかわれ、[YUIの](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")「[CHE.R.RY](../Page/CHE.R.RY.md "wikilink")」をBGMにしたジングルで恋の行方を応援された。しかし2007年12月14日の放送で告白しフラれている。
       - 館野Dへダブルジャンピングバイバイ（両手を振って飛び上がりながらのバイバイ）をしたことがある。
       - 別名：
@@ -1159,7 +1159,7 @@ DJ藤森に対するリクエストや質問を送ると、答えてくれたり
   - 6.CANDY GIRL/[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")
   - 7\.[traveling](https://ja.wikipedia.org/wiki/traveling "wikilink")/[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")
   - 8.Another World/[MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")
-  - 9\.[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")/[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - 9\.[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")/[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - 10\.[Love again](../Page/Love_again_\(globeの曲\).md "wikilink")/[globe](https://ja.wikipedia.org/wiki/globe "wikilink")
   - 11.海へと/[PUFFY](../Page/PUFFY.md "wikilink")
   - 12.STARS/[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")

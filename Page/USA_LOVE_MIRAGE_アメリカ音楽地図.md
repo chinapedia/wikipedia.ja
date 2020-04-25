@@ -17,7 +17,7 @@
   - [山形放送](../Page/山形放送.md "wikilink")
   - [FMとやま](../Page/富山エフエム放送.md "wikilink")
   - [FM福井](../Page/福井エフエム放送.md "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [信越放送](../Page/信越放送.md "wikilink")
   - [FM静岡](../Page/静岡エフエム放送.md "wikilink")（現・K-MIX）
   - [FM愛知](../Page/エフエム愛知.md "wikilink")（現・FM AICHI）
   - [FM大阪](../Page/エフエム大阪.md "wikilink")（現・FM OH\!）

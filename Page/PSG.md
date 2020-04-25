@@ -18,7 +18,7 @@
   - 音楽ユニット
       - [PSG (ヒップホップユニット)](https://ja.wikipedia.org/wiki/PSG_\(ヒップホップユニット\) "wikilink") - [東京都](../Page/東京都.md "wikilink")[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")の3人組[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")
       - [PSG (バンド)](../Page/PSG_\(バンド\).md "wikilink") - [チップチューン](../Page/チップチューン.md "wikilink")音楽の演奏をする[音楽バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")
-      - [パティ・スミス](../Page/パティ・スミス.md "wikilink")・グループ
+      - [パティ・スミス・グループ](https://ja.wikipedia.org/wiki/パティ・スミス・グループ "wikilink")
   - 作品名
       - [パンティ&ストッキングwithガーターベルト](https://ja.wikipedia.org/wiki/パンティ&ストッキングwithガーターベルト "wikilink")（Panty & Stocking with Garterbelt） - [GAINAX](https://ja.wikipedia.org/wiki/GAINAX "wikilink")製作の日本のテレビアニメ
   - 会社名

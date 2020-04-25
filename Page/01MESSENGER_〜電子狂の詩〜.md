@@ -80,7 +80,7 @@
 
   - [01MESSENGER 〜電子狂の詩〜](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5550&cd=VICL-36039&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:日産自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日産自動車のコマーシャルソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:日産自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日産自動車のコマーシャルソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.  サザンオールスターズ会報「代官山通信 vol.144」（[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")発行）p31.
 2.  アルバム『[海のOh, Yeah\!\!](https://ja.wikipedia.org/wiki/海のOh,_Yeah!! "wikilink")』CD盤に付属されている歌詞ブックレットより。

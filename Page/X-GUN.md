@@ -135,7 +135,7 @@
   - なりギャル.TV（2004年10月 - 2005年9月、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）**MC**
   - 超音（2005年11月 - 2006年3月、千葉テレビ）**MC**
   - 勝利の女神の法則（2016年4月 - 9月、千葉テレビ）**MC**
-  - [3時は\!ららら♪](https://ja.wikipedia.org/wiki/3時は!ららら♪ "wikilink")（2008年3月31日 - 2016年9月16日、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）西尾のみ
+  - [3時は\!ららら♪](https://ja.wikipedia.org/wiki/3時は!ららら♪ "wikilink")（2008年3月31日 - 2016年9月16日、[信越放送](../Page/信越放送.md "wikilink")）西尾のみ
   - [IJP イジュウインパーク](https://ja.wikipedia.org/wiki/IJP_イジュウインパーク "wikilink")（2010年4月9日 - 2011年3月25日、[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）さがねのみ
   - bump.y JUMP\!\!\!\!\!（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")・2011年6月9日 - 12月8日）西尾のみ**MC**
   - [三又ノ番組](https://ja.wikipedia.org/wiki/三又ノ番組 "wikilink")（2014年4月18日 - 2018年8月24日、[東日本放送](../Page/東日本放送.md "wikilink")）西尾のみレギュラー、さがねはゲストとして不定期出演
@@ -155,7 +155,7 @@
   - [GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")（テレビ朝日）
   - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（テレビ朝日）さがねのみ
-  - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")（[BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
+  - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")（[BS11デジタル](../Page/日本BS放送.md "wikilink")）
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")）さがねのみ不定期出演
 
 ### ラジオ
@@ -246,9 +246,9 @@
 
   - [ニッチャメンの我道行願〜我が道を行きたい。](https://blog.goo.ne.jp/niccyamenxgn/c/1d29b53e63b244b1ab228e84585b41b5)（西尾のブログ 2004年11月-2009年4月）
 
-  - [ニッチャメンの我道行願〜我が道を行きたい。](http://ameblo.jp/nicchamenxgun/)（西尾のブログ 2009年4月-）
+  - [ニッチャメンの我道行願〜我が道を行きたい。](https://ameblo.jp/nicchamenxgun/)（西尾のブログ 2009年4月-）
 
-  - \[<http://ameblo.jp/saganemasahiro/>　X-GUN さがね正裕オフィシャルブログ\]（さがねのブログ）
+  - \[<https://ameblo.jp/saganemasahiro/>　X-GUN さがね正裕オフィシャルブログ\]（さがねのブログ）
 
   - [「X-GUNのぐんぐんサタデー」公式サイト](http://www.ybs.jp/radio/gungun/)
 

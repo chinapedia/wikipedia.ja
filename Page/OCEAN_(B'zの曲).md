@@ -9,7 +9,7 @@
 
 ドラマの[タイアップ](../Page/タイアップ.md "wikilink")効果もあり、16thシングル『[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")』以来、10年ぶりにオリコン週間チャート6週連続10位以内チャートイン。[2005年](../Page/2005年.md "wikilink")の年間チャートでも7位と『今夜月の見える丘に』以来5年ぶりに年間トップ10入りした。シングルとしては『[熱き鼓動の果て](../Page/熱き鼓動の果て.md "wikilink")』以来3年ぶりに累計売上が50万枚を突破した\[1\]。
 
-今作から[2nd beatもオフィシャルサイトで試聴できるようになった](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")。
+今作から[2nd beatもオフィシャルサイトで試聴できるようになった](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")。
 
 ## 参加ミュージシャン
 
@@ -43,7 +43,7 @@
         ライブでは、発売前に「[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")」のアリーナ公演で初披露され、その後のライブでも頻繁に演奏されている。
 2.  **なりふりかまわず抱きしめて** （3:20）
       -
-        14thアルバム『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』の[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")で、「OCEAN」よりも先に[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")サッカー応援のCMソングとして流されていた。
+        14thアルバム『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』の[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")\[5\]で、「OCEAN」よりも先に[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")サッカー応援のCMソングとして流されていた。
 3.  **Dear my lovely pain** （4:02）
       -
         同年に行われた「B'z LIVE-GYM 2005 "CIRCLE OF ROCK"」のライブ終了後に流れていた[客出し曲であるが](https://ja.wikipedia.org/wiki/LIVE-GYM#客出し曲 "wikilink")、そちらは本楽曲とは別バージョンとなっている。
@@ -88,3 +88,4 @@
 2.
 3.
 4.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+5.

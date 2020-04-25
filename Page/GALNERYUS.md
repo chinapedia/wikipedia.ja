@@ -11,9 +11,9 @@
 その後YUHKIとJun-ichiを正式メンバーに迎え、[2003年](../Page/2003年.md "wikilink")に**1stアルバム**『[The Flag Of Punishment](../Page/The_Flag_Of_Punishment.md "wikilink")』でVAPよりメジャー・デビュー。
 数回のメンバーチェンジを経て、[2009年](../Page/2009年.md "wikilink")にミリオンセラーのソロキャリアを持つ小野“SHO”正利をヴォーカリストに迎えてから人気を上昇させた。**8thアルバム**『[ANGEL OF SALVATION](https://ja.wikipedia.org/wiki/ANGEL_OF_SALVATION "wikilink")』はオリコン・デイリー・チャートで最高9位まで上昇することとなった。
 [2013年](../Page/2013年.md "wikilink")にメジャーデビュー10周年を迎え、過去にリリースした楽曲をリ・レコーディングした**セルフカバーアルバム**『THE IRONHEARTED FLAG』を2作発表。Ozzfest Japan 2013への出演や香港＆台湾公演を実施し、その集大成として10月に行なわれた、初の渋谷公会堂公演はソールドアウトとなった。
-[2015年](../Page/2015年.md "wikilink")には、初のコンセプト・アルバムにして組曲作品である**10thアルバム**『[UNDER THE FORCE OF COURAGE](https://ja.wikipedia.org/wiki/UNDER_THE_FORCE_OF_COURAGE "wikilink")』をリリースした。
-[2017年](../Page/2017年.md "wikilink")現在、コンセプト・アルバム第2弾となる**11thアルバム**『[ULTIMATE SACRIFICE](https://ja.wikipedia.org/wiki/ULTIMATE_SACRIFICE "wikilink")』を9月27日に発売した。
-[2019年](../Page/2019年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に12枚目のアルバム『[INTO THE PURGATORY](https://ja.wikipedia.org/wiki/INTO_THE_PURGATORY "wikilink")』が発売された。
+[2015年](../Page/2015年.md "wikilink")には、初のコンセプト・アルバムにして組曲作品である**10thアルバム**『[UNDER THE FORCE OF COURAGE](https://ja.wikipedia.org/wiki/UNDER_THE_FORCE_OF_COURAGE "wikilink")』をリリース。
+[2017年](../Page/2017年.md "wikilink")、コンセプト・アルバム第2弾となる**11thアルバム**『[ULTIMATE SACRIFICE](https://ja.wikipedia.org/wiki/ULTIMATE_SACRIFICE "wikilink")』を9月27日をリリース。
+[2019年](../Page/2019年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に12枚目のアルバム『[INTO THE PURGATORY](https://ja.wikipedia.org/wiki/INTO_THE_PURGATORY "wikilink")』をリリース。
 
 ## メンバー
 

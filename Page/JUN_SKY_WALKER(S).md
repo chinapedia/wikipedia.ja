@@ -77,6 +77,7 @@
   - 2019年
       - メジャーデビューした1988年5月21日にちなんで、[5月21日](../Page/5月21日.md "wikilink")を『JUN SKY WALKER(S)の日』として、2019年3月30日に日本記念日協会に正式に記念日として認定された\[15\]。
       - 5月19日に、「Let's Go ヒバリヒルズ」の舞台である西東京市と共に、『JUN SKY WALKER(S)の日認定記念スペシャルイベント』が開催された。
+      - 10月29日、西東京市PR親善大使に任命される\[16\]。
 
 ## エピソード
 
@@ -98,7 +99,7 @@
 
 ドラム担当であった小林雅之『La.mamaの25周年、ELLの30周年の記念イベントがあるんだけど、そこにジュンスカで出ないか?』と、残りのメンバー3人に言い出したのが、再結成のきっかけとなった。小林は再結成の話をしに、宮田とファミレスで会ったが、小林は「事前に寺岡には承諾を得ている。宮田が快諾してくれれば、森にも話しするつもりだ」と宮田に提案し、宮田は「二人がOKならいい」と快諾した。再結成は当初、La.mamaのイベントのみで考えていたが、ライブ終了後に話が盛り上がり、また2008年がメジャーデビュー20周年ということもありツアーを敢行、それ以後も活動することとなった。
 
-なお、ベースをオリジナルメンバーである伊藤ではなく寺岡にしたのは、「伊藤ではダメ」ということでは無く、「全部このままで」、「ひとつ抱きしめて」、「歩いていこう」を作ったメンバーでやるのが、ファンにとってもいちばんいいだろうと思い、寺岡を選んだ。\[16\]
+なお、ベースをオリジナルメンバーである伊藤ではなく寺岡にしたのは、「伊藤ではダメ」ということでは無く、「全部このままで」、「ひとつ抱きしめて」、「歩いていこう」を作ったメンバーでやるのが、ファンにとってもいちばんいいだろうと思い、寺岡を選んだ。\[17\]
 
 ## ディスコグラフィ
 
@@ -172,7 +173,7 @@
 
 ### 未発表曲
 
-  - 早くイカせろ（DVD『BEST\&RARE～LIVE ON TV～』にライブ映像収録）\[17\]
+  - 早くイカせろ（DVD『BEST\&RARE～LIVE ON TV～』にライブ映像収録）\[18\]
   - TWIST & SHOUT（カバー）
   - カメラ小僧の唄
   - 船出〜Sail Away〜 （「Headway」と改題して宮田和弥CD『CHAPTER 1』に収録）
@@ -193,7 +194,7 @@
 | 10th | 1995年4月1日   | **[さらば愛しき危険たちよ](https://ja.wikipedia.org/wiki/さらば愛しき危険たちよ "wikilink")**                  | EPIC SONY                                                        | [TDK](../Page/TDK.md "wikilink")カセット「New AD」CM                                                                         |
 | 11th | 1996年6月21日  | **[愛しい人よ](https://ja.wikipedia.org/wiki/愛しい人よ "wikilink")**                              | EPIC SONY                                                        |                                                                                                                        |
 | 12th | 2008年9月10日  | **[青春](https://ja.wikipedia.org/wiki/青春_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**          | TOY'S FACTORY                                                    |                                                                                                                        |
-| 13th | 2013年1月30日  | **[虹](https://ja.wikipedia.org/wiki/虹_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**            | [IVY Records](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink") | フジテレビ系アニメ『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』エンディングテーマ。また、同アニメには2013年2月17日放送分でメンバー全員で声優として出演した\[18\]。 |
+| 13th | 2013年1月30日  | **[虹](https://ja.wikipedia.org/wiki/虹_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")**            | [IVY Records](https://ja.wikipedia.org/wiki/アイビーレコード "wikilink") | フジテレビ系アニメ『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』エンディングテーマ。また、同アニメには2013年2月17日放送分でメンバー全員で声優として出演した\[19\]。 |
 |      |             |                                                                                          |                                                                  |                                                                                                                        |
 
 #### TSUTAYAレンタル限定CD
@@ -212,14 +213,14 @@
 <td><p>2011年12月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/シンフォニー" title="wikilink">シンフォニー</a></strong></p></td>
 <td><p>IVY Records</p></td>
-<td><p>TSUTAYAレンタル限定シングル[19]<br />
+<td><p>TSUTAYAレンタル限定シングル[20]<br />
 3曲目として「全部このままで(Music Video)」をデータで収録</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年12月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/マザー／BEAUTIFUL_WORLD" title="wikilink">マザー／BEAUTIFUL WORLD</a></strong></p></td>
 <td><p>IVY Records</p></td>
-<td><p>TSUTAYAレンタル限定アルバム[20]</p></td>
+<td><p>TSUTAYAレンタル限定アルバム[21]</p></td>
 </tr>
 </tbody>
 </table>
@@ -228,8 +229,8 @@
 
 | 発売日         | タイトル                                                                                      | 備考                                                                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 2011年10月26日 | **[シンフォニー](https://ja.wikipedia.org/wiki/シンフォニー／全部このままで "wikilink")**                     | \[21\]                                                                                                                                   |
-| 2012年11月21日 | **[アニバーサリー](https://ja.wikipedia.org/wiki/アニバーサリー_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")** | [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")』2012年11月度エンディングテーマ\[22\] |
+| 2011年10月26日 | **[シンフォニー](https://ja.wikipedia.org/wiki/シンフォニー／全部このままで "wikilink")**                     | \[22\]                                                                                                                                   |
+| 2012年11月21日 | **[アニバーサリー](https://ja.wikipedia.org/wiki/アニバーサリー_\(JUN_SKY_WALKER\(S\)の曲\) "wikilink")** | [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")』2012年11月度エンディングテーマ\[23\] |
 
 #### HEAVY DRINKERS
 
@@ -270,13 +271,13 @@ HEAVY DRINKERS名義で発売。</p></td>
 <tbody>
 <tr class="odd">
 <td><p>インディーズ</p></td>
-<td><p>1987年8月29日[23] (LP)<br />
+<td><p>1987年8月29日[24] (LP)<br />
 1988年9月5日 (CD)<br />
 2006年7月8日 (再発)</p></td>
 <td><p><strong>J(S)W</strong></p></td>
 <td><p>CAPTAIN (LP/CD)<br />
 <a href="https://ja.wikipedia.org/wiki/ウルトラ・ヴァイヴ" title="wikilink">ウルトラ・ヴァイヴ</a> (再発)</p></td>
-<td><p>2006年7月8日に、伊藤毅による最新マスタリング監修に、初期のライブ映像、秘蔵映像などを収録したDVD付で再発された[24]。</p></td>
+<td><p>2006年7月8日に、伊藤毅による最新マスタリング監修に、初期のライブ映像、秘蔵映像などを収録したDVD付で再発された[25]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
@@ -366,7 +367,7 @@ HEAVY DRINKERS名義で発売。</p></td>
 <td><p>13th</p></td>
 <td><p>2015年11月18日</p></td>
 <td><p><strong>BACK BAD BEAT(S)</strong></p></td>
-<td><p>Disc1. #07. 我儘 - <a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日ドラマ</a>『大江戸事件帖 美味でそうろう』主題歌[25]</p></td>
+<td><p>Disc1. #07. 我儘 - <a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日ドラマ</a>『大江戸事件帖 美味でそうろう』主題歌[26]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -462,7 +463,7 @@ HEAVY DRINKERS名義で発売。</p></td>
 | 発売日        | タイトル                                                                                                                                           | レーベル          | 備考           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------ |
 | 1993年12月1日 | **[April3-4 1993 LIVE at 日比谷野外音楽堂](https://ja.wikipedia.org/wiki/April3-4_1993_LIVE_at_日比谷野外音楽堂 "wikilink")**                                  | TOY'S FACTORY |              |
-| 2013年1月30日 | **[TOUR 2012 “LOST\&FOUND" SECOND STAGE 2012.11.22](https://ja.wikipedia.org/wiki/TOUR_2012_“LOST&FOUND"_SECOND_STAGE_2012.11.22 "wikilink")** |               | DL限定販売\[26\] |
+| 2013年1月30日 | **[TOUR 2012 “LOST\&FOUND" SECOND STAGE 2012.11.22](https://ja.wikipedia.org/wiki/TOUR_2012_“LOST&FOUND"_SECOND_STAGE_2012.11.22 "wikilink")** |               | DL限定販売\[27\] |
 | 2019年2月20日 | **ALL TIME BEST〜全部このままで〜1988-2018 ＠中野サンプラザ**                                                                                                   | ドリーミュージック     | MUCD-1424/5  |
 
 #### カラオケアルバム
@@ -693,7 +694,7 @@ CDとして発表されたもののみ。
     ヒット以前にジュンスカライブに前座で出ていた事もあった。また、ボーカルの[桜井和寿](../Page/桜井和寿.md "wikilink")自身はベースの寺岡とは仲が良く、たびたび「[Golden Circle](https://ja.wikipedia.org/wiki/Golden_Circle "wikilink")」にも桜井自身がゲストとして参加している。そして桜井と小林武史が中心となって結成した「[Bank Band](../Page/Bank_Band.md "wikilink")」で、「休みの日｣をカバーしている。
   - [175R](../Page/175R.md "wikilink")
     ボーカルのSHOGOが大のジュンスカファン。「MY GENERATION」、「白いクリスマス」をカバーしている。
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
     ボーカルの[草野マサムネ](../Page/草野マサムネ.md "wikilink")が音楽を始めた頃、森純太の元に何度かデモテープを聴いてもらいに通っていたとの事。
 
 ## 脚注
@@ -724,14 +725,15 @@ CDとして発表されたもののみ。
 13.
 14.
 15.
-16. [再結成の理由、ラストライブ ボーカル、宮田和弥が20年目のジュンスカを語る](http://www.pia.co.jp/interview/jun_sky_walker/) [ぴあ](../Page/ぴあ.md "wikilink") 2008年8月7日付
-17.
-18. [アニメ「トリコ」にメンバーが自身の役で出演！](http://junskywalkers.jp/information/index.php?e=230) - 公式サイト
-19.
+16.
+17. [再結成の理由、ラストライブ ボーカル、宮田和弥が20年目のジュンスカを語る](http://www.pia.co.jp/interview/jun_sky_walker/) [ぴあ](../Page/ぴあ.md "wikilink") 2008年8月7日付
+18.
+19. [アニメ「トリコ」にメンバーが自身の役で出演！](http://junskywalkers.jp/information/index.php?e=230) - 公式サイト
 20.
-21. [ベスト盤『B(S)T』リリース＆先行シングルレンタル決定！＆新曲ダウンロード開始！](http://junskywalkers.jp/information/index.php?e=24) - 公式サイト
-22. [待望の新曲「アニバーサリー」11/21〜 配信決定！](http://junskywalkers.jp/information/index.php?e=192) - 公式サイト
-23. 宮田和弥「生業 NARIWAI」(P52)より
-24. [アルバム「J(S)W」紹介](http://www.ultra-vybe.co.jp/jsw/) - ウルトラ・ヴァイヴのサイトより
-25.
-26. [2012/11/22渋谷公会堂のLIVE音源 DL販売決定！](http://junskywalkers.jp/information/index.php?e=219) - 公式サイト
+21.
+22. [ベスト盤『B(S)T』リリース＆先行シングルレンタル決定！＆新曲ダウンロード開始！](http://junskywalkers.jp/information/index.php?e=24) - 公式サイト
+23. [待望の新曲「アニバーサリー」11/21〜 配信決定！](http://junskywalkers.jp/information/index.php?e=192) - 公式サイト
+24. 宮田和弥「生業 NARIWAI」(P52)より
+25. [アルバム「J(S)W」紹介](http://www.ultra-vybe.co.jp/jsw/) - ウルトラ・ヴァイヴのサイトより
+26.
+27. [2012/11/22渋谷公会堂のLIVE音源 DL販売決定！](http://junskywalkers.jp/information/index.php?e=219) - 公式サイト

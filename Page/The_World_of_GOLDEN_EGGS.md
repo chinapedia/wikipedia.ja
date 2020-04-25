@@ -36,7 +36,7 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
     髪の色が青い、大柄な女の子。17歳。身長約170cm。Turkey's Hill High Schoolに通う高校生。人気[バンド](../Page/バンド_\(音楽\).md "wikilink")・BLACK POISONの大ファン。親友のレベッカと、BLACK POISONのVo\&Gt.ジェフへの愛がどれくらい凄いかでよくもめる。時間を守らない&人の話を聞かない性格。バナナシェイクをこよなく愛す。「ゾンビ島」という[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")にハマっている。サンディーという猫を飼っており、ある時サンディーの出産をビデオに収めようとしたが、暇つぶしにレベッカと「ゾンビ島」を始めたところ夢中になってしまい、結局サンディーの出産を見逃してしまった。
   - レベッカ
     声 - [MONICA](https://ja.wikipedia.org/wiki/MONICA "wikilink")
-    髪の色は緑で、小柄な女の子。17歳。身長約160cm。Turkey's Hill High Schoolに通う高校生。リサと共にBLACK POISONを追っかけている。[モトクロス](../Page/モトクロス.md "wikilink")・[サークル](../Page/サークル.md "wikilink")への参加や、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")語を習ったり、[ベビーシッター](../Page/ベビーシッター.md "wikilink")をしたり、と活動的である。「っつか、聞けよ」が口癖。リサと同じくバナナシェイクをこよなく愛す。モデルは映画「[ゴーストワールド](../Page/ゴーストワールド.md "wikilink")」のイーニド。名前も「ゴーストワールド」に登場するイーニドの親友レベッカから取っている。
+    髪の色は緑で、小柄な女の子。17歳。身長約160cm。Turkey's Hill High Schoolに通う高校生。リサと共にBLACK POISONを追っかけている。[モトクロス](../Page/モトクロス.md "wikilink")・[サークルへの参加や](../Page/クラブ活動.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")語を習ったり、[ベビーシッター](../Page/ベビーシッター.md "wikilink")をしたり、と活動的である。「っつか、聞けよ」が口癖。リサと同じくバナナシェイクをこよなく愛す。モデルは映画「[ゴーストワールド](../Page/ゴーストワールド.md "wikilink")」のイーニド。名前も「ゴーストワールド」に登場するイーニドの親友レベッカから取っている。
   - ケヴィン
     声 - LARRY
     Turkey's Hill High Schoolの近くにある[養鶏場](https://ja.wikipedia.org/wiki/養鶏場 "wikilink")で生活していた[七面鳥](https://ja.wikipedia.org/wiki/七面鳥 "wikilink")。とあるキッカケにより、後輩のポールと共に養鶏場を脱走する。外界に出て、とりあえず[ナンパ](../Page/ナンパ.md "wikilink")をしようと悪戦苦闘。人生勝ち組になるのが夢。SEASON2では自由の身な境遇にも飽きてきた上に、ポールに馬鹿にされがち。目の前に突如現れたフライング・ダニーのファンになる。
@@ -202,7 +202,7 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
     声 - MONICA
     「NORI NORI ENGLISH」のSEASON2講師。トリ蔵ばりの[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を駆使する。
   - エドガーとサイモン（ネルソン兄弟）
-    早撃ちの名手で[西部開拓時代](../Page/西部開拓時代.md "wikilink")に飢えに苦しんでいたこの地方の住民のために大量の[七面鳥](https://ja.wikipedia.org/wiki/七面鳥 "wikilink")を狩り命を救った伝説の英雄。Turkey's Hill High Schoolに銅像が建っている。[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")にも登場。
+    早撃ちの名手で[西部開拓時代](../Page/西部開拓時代.md "wikilink")に飢えに苦しんでいたこの地方の住民のために大量の[七面鳥](https://ja.wikipedia.org/wiki/七面鳥 "wikilink")を狩り命を救った伝説の英雄。Turkey's Hill High Schoolに銅像が建っている。[アイキャッチ](../Page/アイキャッチ.md "wikilink")にも登場。
 
 ## ボイスキャスト
 

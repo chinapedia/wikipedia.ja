@@ -425,10 +425,10 @@
 
 ## テレビアニメ
 
-[thumb第一駐車場の時計塔](https://ja.wikipedia.org/wiki/ファイル:Hiraokapark_clocktower.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Siraisi_CR.jpg "wikilink")）」\]\]
+[thumb第一駐車場の時計塔](https://ja.wikipedia.org/wiki/ファイル:Hiraokapark_clocktower.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Shiroishi_CR.jpg "wikilink")）」\]\]
 
   - 第1期
-    2010年4月から同年6月まで、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[中京テレビ](../Page/中京テレビ放送.md "wikilink")、[札幌テレビで放送された](../Page/札幌テレビ放送.md "wikilink")。全13話。また、CS放送では[AT-Xでも同時期に放送された](../Page/アニメシアターX.md "wikilink")。読売テレビとTOKYO MXのみ、2010年3月に第1話が先行放送された。第2期放送開始直前の2011年7月からは、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")、[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、[キッズステーション](../Page/キッズステーション.md "wikilink")でも放送が開始され、TOKYO MXでも再放送が開始された。
+    2010年4月から同年6月まで、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[中京テレビ](../Page/中京テレビ放送.md "wikilink")、[札幌テレビで放送された](../Page/札幌テレビ放送.md "wikilink")。全13話。また、CS放送では[AT-Xでも同時期に放送された](../Page/アニメシアターX.md "wikilink")。読売テレビとTOKYO MXのみ、2010年3月に第1話が先行放送された。第2期放送開始直前の2011年7月からは、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、[キッズステーション](../Page/キッズステーション.md "wikilink")でも放送が開始され、TOKYO MXでも再放送が開始された。
     出演者の[福山潤](../Page/福山潤.md "wikilink")、[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")、[藤田咲](../Page/藤田咲.md "wikilink")の3人によると、「制作は順調（過ぎ）」で、2010年4月中に制作打ち上げを終えた。
     オープニング映像は[大畑清隆](../Page/大畑清隆.md "wikilink")が手がけており、大畑がかつて手がけた『[あずまんが大王](https://ja.wikipedia.org/wiki/あずまんが大王 "wikilink")』のオープニングで使われた、吹き出し型のテロップや終盤に監督のクレジットが吹き飛ばされるなどの表現方法が取り入れられている。原作ではほとんど触れられていない「北海道が舞台」という設定が背景において視覚的に強調されており、次回予告や最終話で[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[清田区](../Page/清田区.md "wikilink")の[平岡公園](../Page/平岡公園.md "wikilink")が登場するほか、アニメオリジナルの第8話では主要な登場人物達が[定山渓温泉](../Page/定山渓温泉.md "wikilink")へ出向いている。
     2011年3月下旬にはテレビアニメ公式HP上にて謎のカウントダウンが開始され、同年4月1日に[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")ネタとして[WEB版『WORKING\!\!』](../Page/WORKING!!_\(WEB版\).md "wikilink")（猫組）のアニメ化決定を思わせるトレーラー映像が流れ、翌日4月2日にはテレビアニメ第2期の制作が発表されると同時に、テレビアニメ第1期のBlu-ray BOXの発売が正式発表された。テレビ放送時に[SD解像度制作であった本編は再撮影によって](https://ja.wikipedia.org/wiki/標準画質 "wikilink")[HD](../Page/ハイビジョン.md "wikilink")[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")化されているが、DVD版に付属していた主題歌CDやドラマCDなどの限定特典は付属しない。なお、2011年7月に放送が開始されたとちぎテレビ、群馬テレビ、BS11、および再放送が開始されたTOKYO MXにおいて第9話はHDリマスター版で放送され、キャラクターコメンタリーの副音声も放送された。
@@ -1009,7 +1009,7 @@
 リピート放送あり</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>2011年<a href="../Page/7月9日.md" title="wikilink">7月9日</a> - <a href="../Page/10月1日.md" title="wikilink">10月1日</a></p></td>
 <td><p>土曜 23:30 - 日曜 0:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送" title="wikilink">BS放送</a></p></td>

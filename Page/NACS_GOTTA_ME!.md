@@ -14,9 +14,9 @@
   - 安田・佐藤－ハンサムガタメ（二人ともハンサムだから。）
   - 森崎・音尾－ブサイクガタメ（ハンサムガタメに比べると見劣りするという意味で。）
   - 森崎・安田－ワンツーガタメ（ナックスの中での順番が1･2の二人だから。）もしくはリーダーガタメ（安田が一時期サブリーダーだったため）
-  - 佐藤・大泉－おにぎりガタメ（おにぎりあたためますかを担当しているため。ファンタンガタメともいうが、これは一時のユニットのためあまり使われない）
+  - 佐藤・大泉－おにぎりガタメ（[おにぎりあたためますか](../Page/おにぎりあたためますか.md "wikilink")を担当しているため。ファンタンガタメともいうが、これは一時のユニットのためあまり使われない）
 
-この他に、出演者の頭文字をとって「MO（森崎と大泉もしくは音尾）」ガタメ、「YSO（安田と佐藤と音尾」ガタメなどと呼ぶ事もあった。
+この他に、出演者の頭文字をとって「MO（森崎と大泉もしくは音尾）」ガタメ、「YSO（安田と佐藤と音尾）」ガタメなどと呼ぶ事もあった。
 
 この組み合わせは一例であり、このほかにも佐藤と音尾、森崎と大泉などいろいろなコンビが組まれる。ちなみに大泉は[2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")の収録から半年以上遠ざかっていた。一回だけ生放送に[東京の](../Page/東京都.md "wikilink")[ウィークリーマンション](https://ja.wikipedia.org/wiki/ウィークリーマンション "wikilink")から電話で出演した。
 
@@ -35,4 +35,4 @@
 
 [カテゴリ:TEAM NACS](https://ja.wikipedia.org/wiki/カテゴリ:TEAM_NACS "wikilink")
 
-[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")
+[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink")

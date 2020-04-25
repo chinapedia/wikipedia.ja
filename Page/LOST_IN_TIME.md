@@ -625,7 +625,7 @@ VIDEO CLIP: 1.手紙 2.約束 3.列車 4.ココロノウタ 5.ココロノウタ
   -
   -
   -
-  - [gennozi.com](http://ameblo.jp/gennozi/) - 大岡源一郎のブログ
+  - [gennozi.com](https://ameblo.jp/gennozi/) - 大岡源一郎のブログ
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 

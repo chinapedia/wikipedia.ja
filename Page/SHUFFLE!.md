@@ -20,7 +20,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
 
 [2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")（ノンスクランブル）にて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された\[2\]。
 
-[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象で発売された。
+[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象で発売された。
 
 スピンオフ作品として、ネリネEND後を描いた『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』、楓END後を描いた『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』が発売されている。
 
@@ -206,6 +206,11 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
 
 『SHUFFLE\! Essence+』のファンディスクとして制作された。リシアンサス・キキョウとのその後、楓『Really? Really\!』エンド後、プリムラのエンド後とともに、瑠璃＝マツリの攻略ルートが新規に作られた。
 
+### SHUFFLE\!エピソード2 神にも悪魔にも狙われる男
+
+  -
+    2020年5月29日発売 予定\[17\]。本作発表から15周年を記念した完全新作。プリムラなど本作の登場人物も登場するほか、国立バーベナ学園が引き続き舞台になる。ただし舞台は光陽町ではなく金剛町という地方都市であり、時代設定も本作からかなりの年月が経過している。
+
 ## CD
 
 ### ドラマCD
@@ -350,11 +355,11 @@ Navelより発売
 ## その他
 
   - [モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")（ジャンルはソーシャルカードゲーム）「超嫁大戦」に参戦している。
-  - タイトルの「SHUFFLE」には、様々な世界のヒロインがよりどりみどり主人公のもとに集まる「ごちゃまぜ」の意味が込められている\[17\]。
-  - オープニングムービーで多用されている矢印は、tsukune. ([Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")) がこの作品を「人というベクトルの絡み合い」と解釈し、ベクトル=矢印で表現した\[18\]。以後スピンオフ作品も含め、作品中で矢印が多用されるようになる。
-  - ゲームの駅前は立川市がモデルであるが、キャラクターは全てその市内のマクドナルドで、西又葵、鈴平ひろ、アッチョリケの三名で考えられた。ちなみに、西又葵がはじめに描いたキャラクターはリシアンサスである\[19\]。
+  - タイトルの「SHUFFLE」には、様々な世界のヒロインがよりどりみどり主人公のもとに集まる「ごちゃまぜ」の意味が込められている\[18\]。
+  - オープニングムービーで多用されている矢印は、tsukune. ([Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")) がこの作品を「人というベクトルの絡み合い」と解釈し、ベクトル=矢印で表現した\[19\]。以後スピンオフ作品も含め、作品中で矢印が多用されるようになる。
+  - ゲームの駅前は立川市がモデルであるが、キャラクターは全てその市内のマクドナルドで、西又葵、鈴平ひろ、アッチョリケの三名で考えられた。ちなみに、西又葵がはじめに描いたキャラクターはリシアンサスである\[20\]。
   - 『[俺たちに翼はない](https://ja.wikipedia.org/wiki/俺たちに翼はない "wikilink")』では『SHUFFLE\!』を元ネタとしたパロディがあったが、『SHUFFLE\! Essence+』では逆に『俺たちに翼はない』を元ネタとしたパロディが随所に盛り込まれている（稟の英文翻訳のシーンなど）。
-  - [岡田和人](https://ja.wikipedia.org/wiki/岡田和人 "wikilink")の漫画『[教科書にないッ\!](../Page/教科書にないッ!.md "wikilink")』を原作とする韓国ドラマ『I am Sam 〜アイ・アム・セム〜』で学生達が着用している制服のデザインは、本作で学生達が着用しているそれに似たものとなっている\[20\]。
+  - [岡田和人](https://ja.wikipedia.org/wiki/岡田和人 "wikilink")の漫画『[教科書にないッ\!](../Page/教科書にないッ!.md "wikilink")』を原作とする韓国ドラマ『I am Sam 〜アイ・アム・セム〜』で学生達が着用している制服のデザインは、本作で学生達が着用しているそれに似たものとなっている\[21\]。
   - [シルバーブリッツ](https://ja.wikipedia.org/wiki/シルバーブリッツ "wikilink")の[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")、Lyceeに参戦している。収録エキスパンションは、Navel1.0など。
 
 ## 脚注
@@ -395,7 +400,8 @@ Navelより発売
 14.
 15. 『SHUFFLE\! ON THE STAGE 公式ビジュアルガイド』、角川書店、2005年、188頁。
 16. あごバリアは、SH発売時点での所属は[ういんどみる](../Page/ういんどみる.md "wikilink")であった。発売後、[Navel](../Page/Navel.md "wikilink")へ移籍している。
-17. 『SHUFFLE\! ファーストファンブック』、[ソフトバンクパブリッシング](https://ja.wikipedia.org/wiki/ソフトバンクパブリッシング "wikilink")、2004年、31頁。
-18. 『SHUFFLE\!ビジュアルファンブック』、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")、2004年、134頁。
-19. Navel×Lantis インターネットラジオ [ねぶら](../Page/ねぶら.md "wikilink") 第95回 西又葵談。
-20. [안녕하세요? 디시뉴스입니다.](https://web.archive.org/web/20070729071806/http://www.dcnews.in/news_list.php?code=ahh&id=235370)（インターネットアーカイブ2007年7月29日分キャッシュ）
+17.
+18. 『SHUFFLE\! ファーストファンブック』、[ソフトバンクパブリッシング](https://ja.wikipedia.org/wiki/ソフトバンクパブリッシング "wikilink")、2004年、31頁。
+19. 『SHUFFLE\!ビジュアルファンブック』、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")、2004年、134頁。
+20. Navel×Lantis インターネットラジオ [ねぶら](../Page/ねぶら.md "wikilink") 第95回 西又葵談。
+21. [안녕하세요? 디시뉴스입니다.](https://web.archive.org/web/20070729071806/http://www.dcnews.in/news_list.php?code=ahh&id=235370)（インターネットアーカイブ2007年7月29日分キャッシュ）

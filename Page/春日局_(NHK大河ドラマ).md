@@ -84,7 +84,7 @@
     備中への遠征で初陣をかざることになっていたが、本能寺の変が初陣になってしまう。山崎の合戦後に行方知れずとなるが、東陽坊長盛の保護の下、**隆法**（りゅうほう）として修行する生活を送る。後に加藤清正の家臣として取り立てられる。おふくが乳母として徳川に仕えるようになってからも兄・利宗の存在は大きな心の支えになっていた。
   - [斎藤三存](https://ja.wikipedia.org/wiki/斎藤三存 "wikilink")（さいとう みつあり）
     （出来丸→斎藤三存）
-    演：[阪本良介](https://ja.wikipedia.org/wiki/阪本良介 "wikilink")（幼少期：[大城誠晃](https://ja.wikipedia.org/wiki/大城誠晃 "wikilink")、青年期：[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")）
+    演：[阪本良介](https://ja.wikipedia.org/wiki/阪本良介 "wikilink")（幼少期：[大城誠晃](https://ja.wikipedia.org/wiki/大城誠晃 "wikilink")、青年期：[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")）
     おふくの三兄。幼名は**出来丸**（できまる）。
   - [つる](https://ja.wikipedia.org/wiki/稲葉つる "wikilink")
     演：[増田未亜](../Page/増田未亜.md "wikilink")

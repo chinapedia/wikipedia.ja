@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1977年.md" title="wikilink">1977年</a></p></td>
-<td><p>与野下落合（<a href="../Page/埼玉県.md" title="wikilink">埼玉県</a>）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/与野下落合SSS" title="wikilink">与野下落合SSS</a>（<a href="../Page/埼玉県.md" title="wikilink">埼玉県</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/清水FC" title="wikilink">清水FC</a>（<a href="../Page/静岡県.md" title="wikilink">静岡県</a>）</p></td>
 <td><p>4-4</p></td>
 <td></td>
@@ -95,14 +95,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a></p></td>
 <td><p>清水FC（<a href="../Page/静岡県.md" title="wikilink">静岡県</a>）</p></td>
 <td><p>3-2</p></td>
-<td><p>FC町田（<a href="../Page/東京都.md" title="wikilink">東京都</a>）</p></td>
-<td><p>広島FC（<a href="../Page/広島県.md" title="wikilink">広島県</a>）</p></td>
-<td><p>山口SC（<a href="../Page/山口県.md" title="wikilink">山口県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC町田" title="wikilink">FC町田</a>（<a href="../Page/東京都.md" title="wikilink">東京都</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広島FC" title="wikilink">広島FC</a>（<a href="../Page/広島県.md" title="wikilink">広島県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山口SC" title="wikilink">山口SC</a>（<a href="../Page/山口県.md" title="wikilink">山口県</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
-<td><p>FC甲府（<a href="../Page/山梨県.md" title="wikilink">山梨県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC甲府イレブン" title="wikilink">FC甲府イレブン</a>（<a href="../Page/山梨県.md" title="wikilink">山梨県</a>）</p></td>
 <td><p>2-0</p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>山口SC（山口県）</p></td>
@@ -111,11 +111,11 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
-<td><p>船橋FC（<a href="../Page/千葉県.md" title="wikilink">千葉県</a>）<br />
-四日市（<a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/船橋FC" title="wikilink">船橋FC</a>（<a href="../Page/千葉県.md" title="wikilink">千葉県</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/四日市SS" title="wikilink">四日市SS</a>（<a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a>）</p></td>
 <td><p>4-4</p></td>
 <td></td>
-<td><p>FC浦和（埼玉県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC浦和" title="wikilink">FC浦和</a>（埼玉県）</p></td>
 <td><p>足利相生FC（栃木県）</p></td>
 </tr>
 <tr class="odd">
@@ -123,7 +123,7 @@
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
 <td><p>FC町田（東京都）</p></td>
 <td><p>3-2</p></td>
-<td><p>古河（<a href="../Page/茨城県.md" title="wikilink">茨城県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古河SSS" title="wikilink">古河SSS</a>（<a href="../Page/茨城県.md" title="wikilink">茨城県</a>）</p></td>
 <td><p>FC浦和（埼玉県）<br />
 清水FC（静岡県）</p></td>
 <td></td>
@@ -143,15 +143,15 @@
 <td><p>清水FC（静岡県）</p></td>
 <td><p>4-1</p></td>
 <td><p>山口SC（山口県）</p></td>
-<td><p>高槻松原SC（<a href="../Page/大阪府.md" title="wikilink">大阪府</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高槻松原SC" title="wikilink">高槻松原SC</a>（<a href="../Page/大阪府.md" title="wikilink">大阪府</a>）</p></td>
 <td><p>若松（<a href="../Page/福岡県.md" title="wikilink">福岡県</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
-<td><p>太田南小SSS（<a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/太田南小SSS" title="wikilink">太田南小SSS</a>（<a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a>）</p></td>
 <td><p>1-0</p></td>
-<td><p>多比良（<a href="../Page/長崎県.md" title="wikilink">長崎県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/多比良SSS" title="wikilink">多比良SSS</a>（<a href="../Page/長崎県.md" title="wikilink">長崎県</a>）</p></td>
 <td><p>町田SSS（東京都）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/市川FC" title="wikilink">市川FC</a>（千葉県）</p></td>
 </tr>
@@ -170,30 +170,30 @@ FC浦和（埼玉県）</p></td>
 <td><p>10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
 <td><p>清水FC（静岡県）<br />
-FC邑楽（群馬県）</p></td>
+<a href="https://ja.wikipedia.org/wiki/FC邑楽" title="wikilink">FC邑楽</a>（群馬県）</p></td>
 <td><p>4-4</p></td>
 <td></td>
 <td><p>船橋FC（千葉県）</p></td>
-<td><p>日立（茨城県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日立SSS" title="wikilink">日立SSS</a>（茨城県）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>3-0</p></td>
-<td><p>藤枝FC（静岡県）</p></td>
-<td><p>日立（茨城県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤枝FC" title="wikilink">藤枝FC</a>（静岡県）</p></td>
+<td><p>日立SSS（茨城県）</p></td>
 <td><p>FC東松山（埼玉県）</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
-<td><p><a href="../Page/読売サッカークラブ.md" title="wikilink">読売ユースS</a>（東京都）</p></td>
+<td><p><a href="../Page/読売サッカークラブ.md" title="wikilink">読売SC</a>（東京都）</p></td>
 <td><p>1-0</p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>厚木ゴールプランダーズ<br />
 （神奈川県）</p></td>
-<td><p>日立（茨城県）</p></td>
+<td><p>日立SSS（茨城県）</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -201,23 +201,23 @@ FC邑楽（群馬県）</p></td>
 <td><p>FC浦和（埼玉県）</p></td>
 <td><p>2-1<small><br />
 （再延長）</small></p></td>
-<td><p>FC中津（<a href="../Page/大分県.md" title="wikilink">大分県</a>）</p></td>
-<td><p>千葉北FC（千葉県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジュニアサッカー" title="wikilink">FC中津</a>（<a href="../Page/大分県.md" title="wikilink">大分県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/千葉北FC" title="wikilink">千葉北FC</a>（千葉県）</p></td>
 <td><p>松山SS（<a href="../Page/愛媛県.md" title="wikilink">愛媛県</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
-<td><p>城陽（<a href="../Page/京都府.md" title="wikilink">京都府</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/城陽SCS" title="wikilink">城陽SCS</a>（<a href="../Page/京都府.md" title="wikilink">京都府</a>）</p></td>
 <td><p>3-1</p></td>
-<td><p>高槻FC（大阪府）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高槻FC" title="wikilink">高槻FC</a>（大阪府）</p></td>
 <td><p>三吉（山梨県）</p></td>
 <td><p>大安寺西（<a href="../Page/奈良県.md" title="wikilink">奈良県</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
-<td><p>下都賀ジュリアンズ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/下都賀ジュリアンズ" title="wikilink">下都賀ジュリアンズ</a><br />
 （栃木県）</p></td>
 <td><p>1-0<br />
 <small>（延長）</small></p></td>
@@ -230,7 +230,7 @@ FC邑楽（群馬県）</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>6-1</p></td>
-<td><p>下都賀ジュリアンズ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/下都賀ジュリアンズ" title="wikilink">下都賀ジュリアンズ</a><br />
 （栃木県）</p></td>
 <td><p>市川FC（千葉県）<br />
 国見少年SC（長崎県）</p></td>
@@ -239,18 +239,18 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a></p></td>
-<td><p>浜松JFC（静岡県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浜松JFC" title="wikilink">浜松JFC</a>（静岡県）</p></td>
 <td><p>1-0</p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>FC邑楽（群馬県）</p></td>
-<td><p>四日市（三重県）</p></td>
+<td><p>四日市SS（三重県）</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
-<td><p>刈谷第一FC（<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/刈谷第一FC" title="wikilink">刈谷第一FC</a>（<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a>）</p></td>
 <td><p>2-1</p></td>
-<td><p>宇都宮ジュニアFC<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/宇都宮ジュニアFC" title="wikilink">宇都宮ジュニアFC</a><br />
 （栃木県）</p></td>
 <td><p>清水FC（静岡県）</p></td>
 <td><p>光明台（大阪府）</p></td>
@@ -258,28 +258,28 @@ FC邑楽（群馬県）</p></td>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a>ユース<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a>U-12<br />
 （千葉県）</p></td>
 <td><p>2-1<br />
 <small>（延長）</small></p></td>
-<td><p>愛知FC（愛知県）</p></td>
+<td><p><a href="../Page/愛知FC.md" title="wikilink">愛知FC</a>（愛知県）</p></td>
 <td><p>FC大宮（埼玉県）</p></td>
-<td><p>府ロクSC（東京都）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/府ロクSC" title="wikilink">府ロクSC</a>（東京都）</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新座片山FC" title="wikilink">新座片山FC</a>（埼玉県）</p></td>
 <td><p>1-0</p></td>
-<td><p>境川FC（大分県）</p></td>
-<td><p>柏レイソルユース<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/境川FC" title="wikilink">境川FC</a>（大分県）</p></td>
+<td><p>柏レイソルU-12<br />
 （千葉県）</p></td>
 <td><p>FC邑楽（群馬県）</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p>柏レイソルユース<br />
+<td><p>柏レイソルU-12<br />
 （千葉県）</p></td>
 <td><p>1-0</p></td>
 <td><p>FC邑楽（群馬県）</p></td>
@@ -291,11 +291,11 @@ M・C・U（奈良県）</p></td>
 <td><p>22</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
 <td><p>浜松JFC（静岡県）<br />
-小倉南FCジュニア<br />
+<a href="https://ja.wikipedia.org/wiki/小倉南FCジュニア" title="wikilink">小倉南FCジュニア</a><br />
 （福岡県）</p></td>
 <td><p>0-0</p></td>
 <td></td>
-<td><p>明治北SSC（大分県）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/明治北SSC" title="wikilink">明治北SSC</a>（大分県）<br />
 FC邑楽（群馬県）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -305,9 +305,9 @@ FC邑楽（群馬県）</p></td>
 <td><p>ヴェルディジュニア<br />
 （東京都）</p></td>
 <td><p>3-0</p></td>
-<td><p>柏レイソルユース<br />
+<td><p>柏レイソルU-12<br />
 （千葉県）</p></td>
-<td><p>札幌FC（<a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a>）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/札幌FC" title="wikilink">札幌FC</a>（<a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a>）<br />
 清水FC（静岡県）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -317,16 +317,16 @@ FC邑楽（群馬県）</p></td>
 <td><p>浜松JFC（静岡県）</p></td>
 <td><p>2-0</p></td>
 <td><p>札幌FC（北海道）</p></td>
-<td><p>江南南（埼玉県）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/江南南SS" title="wikilink">江南南SS</a>（埼玉県）<br />
 愛知FC（愛知県）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p>静岡FC（静岡県）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/静岡FC_(ジュニア)" title="wikilink">静岡FC</a>（静岡県）</p></td>
 <td><p>2-0</p></td>
-<td><p>柏レイソルユース<br />
+<td><p>柏レイソルU-12<br />
 （千葉県）</p></td>
 <td><p>明治北SSC（大分県）<br />
 ヴェルディジュニア（東京都）</p></td>
@@ -338,15 +338,14 @@ FC邑楽（群馬県）</p></td>
 <td><p>FC浦和（埼玉県）</p></td>
 <td><p>2-0</p></td>
 <td><p>FC中津1981（大分県）</p></td>
-<td><p>JFCファイターズ&lt;（栃木県）<br />
-柏レイソルユース<br />
-（千葉県）</p></td>
+<td><p>JFCファイターズ（栃木県）<br />
+柏レイソルU-12（千葉県）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p>江南南（埼玉県）</p></td>
+<td><p>江南南SS（埼玉県）</p></td>
 <td><p>2-1<small><br />
 （再延長）</small></p></td>
 <td><p>富山北FCジュニア<br />
@@ -361,8 +360,8 @@ FC邑楽（群馬県）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜F・マリノス" title="wikilink">横浜F・マリノス<br />
 プライマリー</a>（神奈川県）</p></td>
 <td><p>2-1</p></td>
-<td><p>柏レイソルユース<br />
-U-12（千葉県）</p></td>
+<td><p>柏レイソルU-12<br />
+（千葉県）</p></td>
 <td><p>ヴェルディジュニア（東京都）<br />
 愛知FC（愛知県）</p></td>
 <td><p>-</p></td>
@@ -418,7 +417,7 @@ U-12（千葉県）</p></td>
 <tr class="odd">
 <td><p>33</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
-<td><p>名古屋グランパスU12<br />
+<td><p>名古屋グランパスU-12<br />
 （愛知県）</p></td>
 <td><p>2-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新座片山FC" title="wikilink">新座片山FC</a>（埼玉県）</p></td>
@@ -429,10 +428,10 @@ U-12（千葉県）</p></td>
 <tr class="even">
 <td><p>34</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
-<td><p>バディーSC（神奈川）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バディーSC" title="wikilink">バディーSC</a>（神奈川）</p></td>
 <td><p>2-0</p></td>
 <td><p><a href="../Page/ディアブロッサ高田FC.md" title="wikilink">ディアブロッサ高田FC</a><br />
-U-12（奈良県）</p></td>
+（奈良県）</p></td>
 <td><p>EXPO90FC Jr（大阪府）<br />
 柏レイソルU-12（千葉県）</p></td>
 <td><p>-</p></td>
@@ -446,8 +445,9 @@ U-12（奈良県）</p></td>
 （延長）</small></p></td>
 <td><p>名古屋グランパスU-12<br />
 （愛知県）</p></td>
-<td><p>ディアブロッサ高田FC U-12（奈良県）<br />
-<a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a>U-12（埼玉県）</p></td>
+<td><p>ディアブロッサ高田FC（奈良県）<br />
+<a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a>U-12<br />
+（埼玉県）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -469,7 +469,7 @@ U-12（奈良県）</p></td>
 <td><p>2-0</p></td>
 <td><p>名古屋グランパスU-12<br />
 （愛知県）</p></td>
-<td><p>ソレッソ熊本U-12（熊本県）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ソレッソ熊本" title="wikilink">ソレッソ熊本</a>U-12（熊本県）<br />
 大山田サッカースポーツ少年団（三重県）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -480,9 +480,10 @@ U-12（奈良県）</p></td>
 （大阪府）</p></td>
 <td><p>1-1<small><br />
 （PK2-1）</small></p></td>
-<td><p>柏レイソルU-12（千葉県）</p></td>
+<td><p>柏レイソルU-12<br />
+（千葉県）</p></td>
 <td><p>横河武蔵野FC（東京都）<br />
-レジスタFC（埼玉県）</p></td>
+<a href="https://ja.wikipedia.org/wiki/レジスタFC" title="wikilink">レジスタFC</a>（埼玉県）</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -500,7 +501,7 @@ U-12（奈良県）</p></td>
 <tr class="even">
 <td><p>40</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
-<td><p>センアーノ神戸<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/センアーノ神戸" title="wikilink">センアーノ神戸</a><br />
 （兵庫県）</p></td>
 <td><p>2-1</p></td>
 <td><p>横浜F・マリノス<br />
@@ -528,10 +529,23 @@ U-12（奈良県）</p></td>
 （神奈川県）</p></td>
 <td><p>2-2<small><br />
 （PK4-3）</small></p></td>
-<td><p>大阪市ジュネッスFC<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪市ジュネッスFC" title="wikilink">大阪市ジュネッスFC</a><br />
 （大阪府2）</p></td>
 <td><p>ソレッソ熊本（熊本県）<br />
 <a href="../Page/アビスパ福岡.md" title="wikilink">アビスパ福岡</a>U-12（福岡県）</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p>バディーSC<br />
+（神奈川県2）</p></td>
+<td><p>3-1<small><br />
+</p></td>
+<td><p>柏レイソルU-12<br />
+（千葉県）</p></td>
+<td><p>センアーノ神戸（兵庫県）<br />
+<a href="../Page/ベガルタ仙台.md" title="wikilink">ベガルタ仙台</a>U-12（宮城県）</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -548,6 +562,7 @@ TV放送は[日本テレビが制作](../Page/日本テレビ放送網.md "wikil
 ## 関連項目
 
   - [全国少年少女草サッカー大会](https://ja.wikipedia.org/wiki/全国少年少女草サッカー大会 "wikilink")
+  - [JA全農杯全国小学生選抜サッカー大会](https://ja.wikipedia.org/wiki/チビリンピック "wikilink")
 
 ## 脚注
 

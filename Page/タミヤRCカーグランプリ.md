@@ -5,11 +5,13 @@
 
 ## 概要
 
-[静岡市](../Page/静岡市.md "wikilink")の田宮模型で開催される[RCカーを使ったレース大会の模様を中心として](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")、田宮模型やその他番組スポンサーに関連した情報も織り込んだ番組であった。他にも、当時ブームであった[ミニ四駆](../Page/ミニ四駆.md "wikilink")の各地で行われたレース大会の模様も紹介していた。
+タミヤが主催している自社RCカーによるレースイベントである。全国各地で開催されている\[1\]。
+
+テレビ番組としての『タミヤRCカーグランプリ』は[静岡市](../Page/静岡市.md "wikilink")の田宮模型で開催される[RCカーを使ったレース大会の模様を中心として](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")、田宮模型やその他番組スポンサーに関連した情報も織り込んだ番組であった。他にも、当時ブームであった[ミニ四駆](../Page/ミニ四駆.md "wikilink")の各地で行われたレース大会の模様も紹介していた。
 
 田宮模型一社提供番組ではあったが、田宮模型の商品を構成するモーターを製造するメーカーや、ラジオコントロールカーの操縦装置（リモコン、プロポなど）を製造するメーカーが[PTで提供をしていた番組でもある](../Page/パーティシペーション.md "wikilink")。また一部の地域では番組名に田宮模型（タミヤ）の冠が乗せられていても、田宮模型の提供がなく、地元のローカルスポンサーが提供しているケース、田宮模型と放送地域の模型店の提供となっているケースもあった。
 
-1999年3月をもって番組終了。14年半の歴史に幕を閉じた。レギュラー放送終了後もスペシャルや[アクトオンTVで放送されている](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")。
+1999年3月をもって番組終了。14年半の歴史に幕を閉じた。レギュラー放送終了後もスペシャルや[アクトオンTVで放送されている](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")。ただし、イベントとしてのタミヤ主催の『タミヤRCカーグランプリ』は継続している。
 
 ## 出演者
 
@@ -133,7 +135,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a><br />
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a><br />
 （現：IBC岩手放送）</p></td>
 <td><p>途中打ち切り</p></td>
 </tr>
@@ -160,7 +162,7 @@
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（FNS）</p></td>
-<td><p>1989年3月時点では、金曜 16:40 - 17:00にて放送[1]</p></td>
+<td><p>1989年3月時点では、金曜 16:40 - 17:00にて放送[2]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
@@ -188,7 +190,7 @@
 <tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
 <td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a>（独立局）</p></td>
-<td><p><a href="http://www.hs-tamtam.jp/">TAMTAM</a>1社提供[2]</p></td>
+<td><p><a href="http://www.hs-tamtam.jp/">TAMTAM</a>1社提供[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
@@ -267,5 +269,6 @@
 
 [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:日本のCSテレビ番組](https://ja.wikipedia.org/wiki/Category:日本のCSテレビ番組 "wikilink") [Category:タミヤ](https://ja.wikipedia.org/wiki/Category:タミヤ "wikilink") [Category:ラジコン](https://ja.wikipedia.org/wiki/Category:ラジコン "wikilink") [Category:ミニ四駆](https://ja.wikipedia.org/wiki/Category:ミニ四駆 "wikilink")
 
-1.  『長野放送二十年の歩み』（1989年5月25日、長野放送発行）175pより。
-2.  ただしオープニング・エンディングには「タミヤ」の文字が入っていた
+1.  タミヤRCカーグランプリ　イベント一覧[1](https://www.tamiya.com/japan/rc/event/rccargp_beginner/eventlist.html)
+2.  『長野放送二十年の歩み』（1989年5月25日、長野放送発行）175pより。
+3.  ただしオープニング・エンディングには「タミヤ」の文字が入っていた

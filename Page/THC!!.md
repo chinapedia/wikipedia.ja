@@ -300,7 +300,7 @@ DVD-5.communication</p></td>
 
 ## 外部リンク
 
-  - [Ritz Works Life](http://ameblo.jp/ritzworks/) - Ritzによるブログ
+  - [Ritz Works Life](https://ameblo.jp/ritzworks/) - Ritzによるブログ
 
   -
   -

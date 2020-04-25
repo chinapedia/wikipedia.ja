@@ -1,7 +1,7 @@
 > この記事は[じゃじゃじゃTV](https://ja.wikipedia.org/wiki/じゃじゃじゃTV)から翻訳されています。
 
 
-『**じゃじゃじゃTV**』（じゃじゃじゃティーブイ）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")で、毎週[土曜日](../Page/土曜日.md "wikilink")の9:25から11:30まで約2時間放送されている[テレビ番組](../Page/テレビ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")より、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作になっている。
+『**じゃじゃじゃTV**』（じゃじゃじゃティーブイ）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")で、毎週[土曜日](../Page/土曜日.md "wikilink")の9:25から11:30まで約2時間放送されている[テレビ番組](../Page/テレビ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")より、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作になっている。
 
 ## 概要
 
@@ -128,7 +128,7 @@
   - 週末豆知識、気になる天気予報、今週のテーマ投稿の紹介（11:09頃 - ）
   - テーマ大賞の発表、TAGさんの力作コーナー、エンティング（11:22頃 - ）
 
-他に不定期コーナーなどもある。
+※ 他に不定期コーナーなどもある。
 
 ### 過去のコーナー
 
@@ -182,6 +182,8 @@
   - 2012年10月から水曜日の深夜枠で放送を開始した番組。前の週の『じゃじゃじゃTV』の編集版。
   - 再放送される場合がある。
   - 2014年4月から土曜深夜に枠移動。
+  - 2019年4月から木曜10:55からに枠移動。
+  - 2020年3月26日放送終了。（『[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")』の第0部をネットするため。）
 
 ## 出演者
 
@@ -194,7 +196,9 @@
 
 #### リポーター
 
-特集や番組内のコーナー
+  - 特集や番組内のコーナー
+
+<!-- end list -->
 
   - [松原友希](https://ja.wikipedia.org/wiki/松原友希 "wikilink")（IBCアナウンサー）
   - [川島有貴](https://ja.wikipedia.org/wiki/川島有貴 "wikilink")（IBCアナウンサー）
@@ -266,7 +270,7 @@
 
 #### リポーター等
 
-  - IBCアナウンサー
+  - IBC岩手放送アナウンサー
 
 <!-- end list -->
 

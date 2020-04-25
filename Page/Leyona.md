@@ -158,7 +158,7 @@ VICL-61980 (通常盤)</p></td>
   - [佐藤タイジ](../Page/佐藤タイジ.md "wikilink")([THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink"))
   - [沼澤尚](../Page/沼澤尚.md "wikilink")([THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink"))
   - [リクオ](../Page/リクオ.md "wikilink")
-  - [スピッツｰアルバム](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")」の『さすらい』にコーラスで参加。
+  - [スピッツｰアルバム](../Page/スピッツ_\(バンド\).md "wikilink")「[奥田民生・カバーズ](../Page/奥田民生・カバーズ.md "wikilink")」の『さすらい』にコーラスで参加。
 
 ...etc
 

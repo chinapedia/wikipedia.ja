@@ -63,7 +63,7 @@
 
 ### 広域放送・県域放送
 
-[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")・[近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[大津を除く](../Page/NHK大津放送局.md "wikilink")）の15都府県で[広域放送](../Page/広域放送.md "wikilink")、それ以外の32道県で[県域放送](../Page/県域放送.md "wikilink")を行っている。 2011年[9月1日](../Page/9月1日.md "wikilink")からは、NHK独自展開の[IPサイマルラジオサービス](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")「[らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」のサービス開始に伴い、2017年10月2日からは民放サイマル配信サービス「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（[2017年](../Page/2017年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")正午頃から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの[第1次実験配信（一部地域限定）](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")\[13\] と、2018年4月12日以降の第2次実験配信（全国配信）\[14\]\[15\]を経て、2019年4月1日より正式サービス開始\[16\]\[17\]）も加わり、インターネット経由でもFM放送や[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（NHKの[国際放送](../Page/国際放送.md "wikilink")）の[衛星ラジオと同等の高音質で聞くことができるようになった](../Page/BSデジタル音声放送.md "wikilink")。
+[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")・[近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")（[大津を除く](../Page/NHK大津放送局.md "wikilink")）の15都府県で[広域放送](../Page/広域放送.md "wikilink")、それ以外の32道県で[県域放送](../Page/県域放送.md "wikilink")を行っている。2011年[9月1日](../Page/9月1日.md "wikilink")からは、NHK独自展開の[IPサイマルラジオサービス](https://ja.wikipedia.org/wiki/ネットラジオ "wikilink")「[らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」のサービス開始に伴い、2017年10月2日からは民放サイマル配信サービス「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（[2017年](../Page/2017年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")正午頃から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの[第1次実験配信（一部地域限定）](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")\[13\] と、2018年4月12日以降の第2次実験配信（全国配信）\[14\]\[15\]を経て、2019年4月1日より正式サービス開始\[16\]\[17\]）も加わり、インターネット経由でもFM放送や[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")（NHKの[国際放送](../Page/国際放送.md "wikilink")）の[衛星ラジオと同等の高音質で聞くことができるようになった](../Page/BSデジタル音声放送.md "wikilink")。
 
 [空中線電力](../Page/空中線電力.md "wikilink")（出力）は、基本的に地元民放と同等またはそれ以上である。例えば関東広域圏の場合民放（[TBSラジオ](../Page/TBSラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")）は100[kWに対し](https://ja.wikipedia.org/wiki/キロワット "wikilink")、NHK東京第1放送は300kWで送信されている。他方、[岡山](../Page/NHK岡山放送局.md "wikilink")・[鹿児島は第](../Page/NHK鹿児島放送局.md "wikilink")1放送より地元民放（[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）の方が大出力である（[NHK岡山 5kW](../Page/NHK錦ラジオ放送所.md "wikilink") / [RSK 10kW](../Page/山陽放送吉備ラジオ送信所.md "wikilink")・[NHK鹿児島 10kW / MBC 20kW](../Page/隼人ラジオ放送所.md "wikilink")）。
 
@@ -100,7 +100,7 @@
 
 これは[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")などの天災が発生した場合の[災害対策基本法](../Page/災害対策基本法.md "wikilink")や、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")などの大規模な有事が発生した場合の諸法律の義務を履行するための措置である（総合テレビ・FM放送も同様）。
 
-メンテナンスによる放送中断がある場合は、一部地域の部分休止を除いて「[君が代](../Page/君が代.md "wikilink")」の[演奏](../Page/演奏.md "wikilink")（[オーケストラ](../Page/オーケストラ.md "wikilink")による[インストゥルメンタル](../Page/器楽曲.md "wikilink")）が放送される\[22\]。ただし、減力放送の場合は放送されない。かつては、ラジオ第2放送と同様に、チェレスタ演奏による終了用ISが放送されていた。
+メンテナンスによる放送中断がある場合は、一部地域の部分休止を除いて「[君が代](../Page/君が代.md "wikilink")」の[演奏](../Page/演奏.md "wikilink")（[オーケストラ](../Page/オーケストラ.md "wikilink")による[インストゥルメンタル](../Page/器楽曲.md "wikilink")）が放送される\[22\]。ただし、減力放送の場合は放送されない。かつては、ラジオ第2放送と同様に、チェレスタ演奏による終了用[インターバル・シグナル](../Page/インターバル・シグナル.md "wikilink")が放送されていた。
 
 なお、[1996年](../Page/1996年.md "wikilink")4月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月はラジオ第1放送のメンテナンスがあった場合、休止となる1時から5時までのラジオ深夜便をFM放送でリレー補完放送したことがあった。ただし、年数回、日曜深夜にテレビを含む地上波の放送を全部停止する日があり、その場合は午前0時で終了・[停波](../Page/停波.md "wikilink")して以後のリレー放送もしなかったことがあった。
 
@@ -527,7 +527,7 @@ FMおよび国際放送との同時放送中に全国一斉放送の割り込み
 10. 北海道地方でも[札幌から道内各局別のニュースに切り替わるときも同様であるが](../Page/NHK札幌放送局.md "wikilink")、こちらは東京からの放送で切り替えを告げるチャイムを鳴らさなくなった後もしばらくの間続いていた。
 11. 平日朝のジングルは北野武（[同姓同名のコメディアンとは別](../Page/ビートたけし.md "wikilink")）が作曲したと思われる。
 12. ジングルはオープニングと各項目ごとに存在する。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度以降は各項目ごとのジングルのみに、[2011年](../Page/2011年.md "wikilink")6月以降は土日も含む。[2012年](../Page/2012年.md "wikilink")度に新たなジングルが使われ始め、FM放送では臨場感があるステレオ音声でジングルを聴くことができる。
-13. [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](http://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
+13. [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](https://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
 14. [NHKラジオのradiko.jp配信、4月12日正午から全国へ拡大](https://av.watch.impress.co.jp/docs/news/1112962.html),AV Watch,2018年3月22日
 15. [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
 16. [2019年度 radiko経由のNHKラジオの配信について](http://www.nhk.or.jp/pr/keiei/otherpress/pdf/20190322.pdf) NHK広報局 2019年3月22日

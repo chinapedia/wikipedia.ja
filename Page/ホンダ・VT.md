@@ -33,7 +33,7 @@
 
 MC08E型水冷4ストローク4バルブDOHC90°バンクV型2気筒エンジンを搭載する。同エンジンは内径x行程=60.0x44.0（mm）のショートストローク設計。無接点式[トランジスタ](../Page/トランジスタ.md "wikilink")[点火装置](https://ja.wikipedia.org/wiki/点火装置 "wikilink")を採用し、[圧縮比](https://ja.wikipedia.org/wiki/圧縮比 "wikilink")は11.0に設定。排気量248ccから最高出力35ps/11,000rpm・最大トルク2.2kgf・m/10,500rpmのスペックをマークする。また変速機は左足動式6速[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を、[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")は油圧式を搭載する。
 
-  - 当時の[WGPレギュレーションで認められていた](../Page/ロードレース世界選手権.md "wikilink")500ccクラスに[過給機](../Page/過給機.md "wikilink")付き250ccエンジンでの参戦に挑戦する計画があり、ホンダは[NR500用楕円ピストン](../Page/ホンダ・NR.md "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを縦に二分割して[NR250 TURBOを開発した](https://ja.wikipedia.org/wiki/ホンダ・NR#幻のNR250_TURBO "wikilink")。同モデルには[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を搭載し150psの出力を得たが計画は中止された。本エンジンはその開発で得た技術をフィードバックしている。当初はVT250Fもターボ装着モデルも開発されたが、あまりにも高性能で[運輸省](../Page/運輸省.md "wikilink")（現・[国土交通省](../Page/国土交通省.md "wikilink")）から認可がおりなかった経緯がある。
+  - 当時の[WGPレギュレーションで認められていた](../Page/ロードレース世界選手権.md "wikilink")500ccクラスに[過給機](../Page/過給機.md "wikilink")付き250ccエンジンでの参戦に挑戦する計画があり、本田技研工業は[NR500用楕円ピストン](../Page/ホンダ・NR.md "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを縦に二分割して[NR250 TURBOを開発した](https://ja.wikipedia.org/wiki/ホンダ・NR#幻のNR250_TURBO "wikilink")。同モデルには[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")を搭載し150psの出力を得たが計画は中止された。本エンジンはその開発で得た技術をフィードバックしている。当初はVT250Fもターボ装着モデルも開発されたが、あまりにも高性能で[運輸省](../Page/運輸省.md "wikilink")（現・[国土交通省](../Page/国土交通省.md "wikilink")）から認可がおりなかった経緯がある。
 
 冷却方式は、それまで250ccクラスでは2ストロークエンジンでしか採用実績がなかった水冷を前提にして設計されたが、これは以下の理由によるものである。
 

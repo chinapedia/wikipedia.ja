@@ -172,13 +172,13 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
   - 東京都・関東広域圏 - TX **[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")** ★
   - 北海道 - TVH **[テレビ北海道](../Page/テレビ北海道.md "wikilink")** ★
   - 青森県 - 未放送
-  - 岩手県 - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（TBS系列） ☆
+  - 岩手県 - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（TBS系列） ☆
   - 宮城県 - KHB [東日本放送](../Page/東日本放送.md "wikilink")（テレビ朝日系列）
   - 秋田県 - 未放送
   - 山形県 - YTS [山形テレビ](../Page/山形テレビ.md "wikilink")（テレビ朝日系列）
   - 福島県 - FCT [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（日本テレビ系列）
   - 新潟県 - NT21 [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")（テレビ朝日系列）
-  - 長野県 - SBC [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（TBS系列）
+  - 長野県 - SBC [信越放送](../Page/信越放送.md "wikilink")（TBS系列）
   - 山梨県 - 未放送
   - 静岡県 - SATV [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")（テレビ朝日系列）
   - 富山県 - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（日本テレビ系列）

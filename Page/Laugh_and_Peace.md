@@ -78,7 +78,7 @@
 
 #### リミックス曲
 
-  - Far away "Laugh & Peace MIX"（[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")） - 「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」（[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）、[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
+  - Far away "Laugh & Peace MIX"（[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")） - 「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」（[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）、[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
   - End of the World "Laugh & Peace MIX"（[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")） - 「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」（浜崎あゆみ）、エイベックス
   - NEVER EVER "Laugh & Peace MIX"（2001年[3月7日](../Page/3月7日.md "wikilink")） - 「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」（浜崎あゆみ）、エイベックス
   - Dearest "Laugh & Peace MIX"（2001年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")） - 「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」（浜崎あゆみ）、エイベックス

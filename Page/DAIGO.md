@@ -1,7 +1,7 @@
 > この記事は[DAIGO](https://ja.wikipedia.org/wiki/DAIGO)から翻訳されています。
 
 
-**DAIGO**（ダイゴ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")であり、3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**内藤 大湖**（ないとう だいご）。血液型AB型、身長178cm\[1\]。
+**DAIGO**（ダイゴ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[タレント](../Page/タレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[司会者](https://ja.wikipedia.org/wiki/司会者 "wikilink")。3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")である。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**内藤 大湖**（ないとう だいご）。血液型AB型、身長178cm\[1\]。
 
 [東京都](../Page/東京都.md "wikilink")出身。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はタレントとしては[A-PLUS](../Page/A-PLUS.md "wikilink")、歌手活動では[Being](https://ja.wikipedia.org/wiki/Being "wikilink")に所属。
 
@@ -15,31 +15,31 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")午後1時2分\[3\]、[東京都](../Page/東京都.md "wikilink")[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")にて誕生。3歳から小学3年生の夏までを[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")で過ごし、祖父が総理大臣に就任することに伴い再び東京都へ移住\[4\]。[玉川学園中学部・高等部を経て](../Page/学校法人玉川学園.md "wikilink")[玉川大学](../Page/玉川大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")芸術学科（音楽専攻）中退。
 
-中学3年の時、兄の持っていた[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[CDをきっかけに音楽に目覚める](../Page/コンパクトディスク.md "wikilink")\[5\]。当初は何故か[クラシック・ギター](../Page/クラシック・ギター.md "wikilink")を習いに行ったが、なにか違うと思いすぐに辞め、独学で[エレキギターを練習した](../Page/エレクトリック・ギター.md "wikilink")\[6\]。友達と行ったカラオケで一番上手かったためヴォーカルを目指すことになった。\[7\]また、現在の所属[レーベル](../Page/レコードレーベル.md "wikilink")・[ビーイング](../Page/ビーイング.md "wikilink")の先輩である[B'z](../Page/B'z.md "wikilink")の大ファンであり、彼らの影響も受けたと自身のブログで語っている\[8\]。高1でコピーバンドを結成。\[9\]高3でボイストレーニングを始める。\[10\]高2でモテることに目覚め、校内自分プロモーションの結果、憧れの先輩ランキング3位になったことも重なり\[11\]、卒業前の学園祭で組んだバンド（JZEIL）が大好評。卒業後も続けることになる。ライブは後輩や友達が来て満員となり、\[12\]すぐに事務所がついたほどだった。\[13\][SIAM SHADEの後輩バンド](../Page/SIAM_SHADE.md "wikilink")・JZEIL（ジェイル）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動。当時は様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドが活動する中で、金髪と派手な[メイクとセクシーな衣装がトレードマークだった](../Page/化粧.md "wikilink")。各音楽誌からは「何と言ってもカリスマボーカリストであるDAIGOが聴き手を吸い込んでしまうほどの独自の世界観を演出」「ロックシーンを塗り替える」\[14\]という期待を受けプロへの誘いもあったが、結果が出ず[2001年](../Page/2001年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")バンドは解散。\[15\]「（2ndミニアルバムは）カッコ良い曲はカッコ良いんですけど、俺のキャパを超えている曲もあったりして、すごいシャウトする曲とか。（「自分の声質に合わない」\[16\]）それでちょっとずつ、よりヘビーな方に行きたいっていうメンバーとキャッチーなメロディがあるものを歌いたいっていう俺が分かれて来て、“ちょっとここらで1回離れた方がいいんじゃない？”って切りだしたんですよね」\[17\]。デモテープ2本、インディーズCD1枚、ミニアルバム2枚をリリースした。当初のヴィジュアル系ルックスから、1stミニアルバムでグラムに（楽曲は普通のロック）、1stフルアルバムで楽曲は洋楽テイストに変化。パンチの強いヴォーカルや高い張り上げヴォイスは現在の面影がない程であった。年間100本のライブを行い、\[18\]韓国へも行った\[19\]。
+中学3年の時、兄の持っていた[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[CDをきっかけに](../Page/コンパクトディスク.md "wikilink")、音楽に目覚める\[5\]。当初は[クラシック・ギター](../Page/クラシック・ギター.md "wikilink")を習いに行ったがすぐに辞め、独学で[エレキギターを練習した](../Page/エレクトリック・ギター.md "wikilink")\[6\]。友人と行ったカラオケで一番上手かったため、ヴォーカルを目指すことになった。\[7\]また、現在の所属[レーベル](../Page/レコードレーベル.md "wikilink")・[ビーイング](../Page/ビーイング.md "wikilink")の先輩である[B'z](../Page/B'z.md "wikilink")の大ファンであり、彼らの影響も受けたと自身のブログで語っている\[8\]。高1でコピーバンドを結成。\[9\]高3でボイストレーニングを始める。\[10\]高2でモテることに目覚め、校内自分プロモーションの結果、憧れの先輩ランキング3位になったことも重なり\[11\]、卒業前の学園祭で組んだバンド（JZEIL）が大好評。卒業後も続けることになる。ライブは後輩や友人らが来て満員となり、\[12\]すぐに事務所がついたほどだった\[13\]。[SIAM SHADEの後輩バンド](../Page/SIAM_SHADE.md "wikilink")・JZEIL（ジェイル）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動。当時は様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドが活動する中で、金髪と派手な[メイクとセクシーな衣装がトレードマークだった](../Page/化粧.md "wikilink")。各音楽誌からは「何と言ってもカリスマボーカリストであるDAIGOが聴き手を吸い込んでしまうほどの独自の世界観を演出」「ロックシーンを塗り替える」\[14\]という期待を受けプロへの誘いもあったが、結果が出ず[2001年](../Page/2001年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")バンドは解散\[15\]。自身は「（2ndミニアルバムは）カッコ良い曲はカッコ良いんですけど、俺のキャパを超えている曲もあったりして、すごいシャウトする曲とか（「自分の声質に合わない」\[16\]）。それでちょっとずつ、よりヘビーな方に行きたいっていうメンバーとキャッチーなメロディがあるものを歌いたいっていう俺が分かれて来て、“ちょっとここらで1回離れた方がいいんじゃない？”って切りだしたんですよね」と語っている\[17\]。デモテープ2本、インディーズCD1枚、ミニアルバム2枚をリリースした。当初のヴィジュアル系ルックスから、1stミニアルバムでグラムに（楽曲は普通のロック）、1stフルアルバムで楽曲は洋楽テイストに変化。パンチの強いヴォーカルや高い張り上げヴォイスは現在の面影がない程だった。年間100本のライブを行い\[18\]、韓国へも行った\[19\]。
 
 ### 2001年 - 2007年 （DAIGO☆STARDUST）
 
-バンド解散後、「DAIGO with The space toys」という名前でソロ歌手としての活動を始める。[河村隆一](../Page/河村隆一.md "wikilink")のライブのオープニング・アクトが初ステージだった\[20\]\[21\]。地道にライブハウス等での活動を続けていた[2003年](../Page/2003年.md "wikilink")、彼を撮影していた[写真家](../Page/写真家.md "wikilink")の[加藤正憲](https://ja.wikipedia.org/wiki/加藤正憲 "wikilink")によって[氷室京介](../Page/氷室京介.md "wikilink")を紹介され、1対1で会うこととなる。その際に才能を見出され、「何かしら力になってあげたいよね」とのことで氷室自らデビュー曲の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を申し出る。以前からBOØWYより多大な影響を受けていた彼にとっては願ってもない出来事であった。\[22\]そして[2003年](../Page/2003年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、25歳で**DAIGO☆STARDUST**（ダイゴ スターダスト）（略称は“D☆S”。ファンの総称は“STARDUST軍団”。）として、氷室自身が再始動する際に作曲した「[Claudia](../Page/Claudia_\(曲\).md "wikilink")」の曲に違う詞をのせた形の「MARIA」でメジャーデビューを果たす（オリコンチャート64位）。ただ、当時は「[竹下登](../Page/竹下登.md "wikilink")の孫」である事実を自らは公表していなかった（後述）\[23\]。リスペクトしてやまない人物の一人[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")の“火星から舞い降りたロックスター”「ジギースターダスト」から名前をとった。「カメレオンのように変化していく人に惹かれます。デヴィッド・ボウイを見習ってばりばりのグラムでやることにした。」\[24\]
+バンド解散後、「DAIGO with The space toys」という名前でソロ歌手としての活動を始める。[河村隆一](../Page/河村隆一.md "wikilink")のライブのオープニング・アクトが初ステージだった\[20\]\[21\]。地道にライブハウス等での活動を続けていた[2003年](../Page/2003年.md "wikilink")、彼を撮影していた[写真家](../Page/写真家.md "wikilink")の[加藤正憲](https://ja.wikipedia.org/wiki/加藤正憲 "wikilink")によって[氷室京介](../Page/氷室京介.md "wikilink")を紹介され、1対1で会うこととなる。その際に才能を見出され、「何かしら力になってあげたいよね」とのことで氷室自らデビュー曲の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を申し出る。以前からBOØWYより多大な影響を受けていた彼にとっては願ってもない出来事だった\[22\]。そして[2003年](../Page/2003年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、25歳で**DAIGO☆STARDUST**（ダイゴ スターダスト）（略称は“D☆S”。ファンの総称は“STARDUST軍団”。）として、氷室自身が再始動する際に作曲した「[Claudia](../Page/Claudia_\(曲\).md "wikilink")」の曲に違う詞をのせた形の「MARIA」でメジャーデビューを果たす（オリコンチャート64位）。ただ、当時は「[竹下登](../Page/竹下登.md "wikilink")の孫」である事実を自らは公表していなかった（後述）\[23\]。リスペクトしてやまない人物の一人[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")の“火星から舞い降りたロックスター”「ジギースターダスト」から名前をとった。本人曰く「カメレオンのように変化していく人に惹かれます。デヴィッド・ボウイを見習ってばりばりのグラムでやることにした。」とのこと\[24\]。
 
-デビュー当時、ドラマやCM出演など期待されていたが売れず、「一つの新しい発明」くらいに真剣にやっていたものが、\[25\]「そもそもスペイシーってどうなの？」「自分でも一回フラットに考えたいな」と思い、事務所に話しフリーに戻る\[26\]。[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、レコード会社との契約が切れたが活動は続けた。セックス・ピストルズをカバーしたり自身の曲をパンクにしたDAIGO☆PUNKS\[27\]の活動も行った。\[28\]（2011年12月2日、イベント\[29\]のオープニングアクトで1日限りの復活をした。）「後期からだんだん書く曲もバンド感が濃くなって」「そろそろ新しいことをしたい。暴れたい感じ。シャウトしたい。」「メロディが奇麗な曲が大好きで、そういう歌を中心に歌ってきたんですけど、そこからはみ出したい。」\[30\]といった理由から[2007年](../Page/2007年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、DAIGO☆STARDUSTを封印した。\[31\]2010年2月、1曲だけ披露した。\[32\]\[33\]
+デビュー当時、ドラマやCM出演など期待されていたが売れず、「一つの新しい発明」くらいに真剣にやっていたものが、\[25\]「そもそもスペイシーってどうなの？」「自分でも一回フラットに考えたいな」と思い、事務所に話しフリーに戻る\[26\]。[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、レコード会社との契約が切れたが、活動は続けた。セックス・ピストルズをカバーしたり自身の曲をパンクにしたDAIGO☆PUNKS\[27\]の活動も行った。\[28\]（2011年12月2日、イベント\[29\]のオープニングアクトで1日限りの復活をした。）「後期からだんだん書く曲もバンド感が濃くなって」「そろそろ新しいことをしたい。暴れたい感じ。シャウトしたい。」「メロディが奇麗な曲が大好きで、そういう歌を中心に歌ってきたんですけど、そこからはみ出したい。」\[30\]といった理由から[2007年](../Page/2007年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、DAIGO☆STARDUSTを封印した。\[31\]2010年2月、1曲だけ披露した。\[32\]\[33\]
 
 ### 2007年 - 2013年 （BREAKERZ）
 
-[2007年](../Page/2007年.md "wikilink")に音楽活動の拠点を[ビーイング](../Page/ビーイング.md "wikilink")に移し、3人組ロックバンド・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")として活動を開始。同時に**DAIGO**に改名し現在に至る。「BREAKERZは終電」「生涯最後のバンド」とし\[34\]、バンド名には「自分の限界やジャンルの壁をブッ壊して新しいモノを作っていく」という思いが込められている。\[35\][2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、1stアルバム「[BREAKERZ](../Page/BREAKERZ_\(アルバム\).md "wikilink")」でデビュー。（オリコンチャート300位以下） 当初はクールなロックバンドを目指しMCでは笑わないというルール\[36\]で、楽曲もJZEILに比べメロディ主体で、また現在と比べると洋楽風であったりダークな世界観のあるものだった。 [2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、姉の[影木栄貴](../Page/影木栄貴.md "wikilink")に「世界バリバリ☆バリュー」“私の家族は有名人”特集の出演依頼が来た際、姉はバンドを結成したばかりのDAIGOをメインに使うことで出演許可を出した。家族全員と自宅を公開しなければいけなかったため「おばあちゃん（[竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")）が駄目と言ったら断念だね」という話をしていたが\[37\]、祖母は快諾、家族で出演し話題となった。後日VTRを見た番組スタッフがDAIGOを気に入り、スタジオゲストとして何回か出演。タレント事務所（[A-PLUS](../Page/A-PLUS.md "wikilink")）に勤めていた元クラスメイトにマネージメントについて相談し、事務所社長と会うことに。社長はDAIGOのキャラを大絶賛、タレントとしてのDAIGOが誕生した\[38\]。
+[2007年](../Page/2007年.md "wikilink")に音楽活動の拠点を[ビーイング](../Page/ビーイング.md "wikilink")に移し、3人組ロックバンド・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")として活動を開始。同時に**DAIGO**に改名し現在に至る。「BREAKERZは終電」「生涯最後のバンド」とし\[34\]、バンド名には「自分の限界やジャンルの壁をブッ壊して新しいモノを作っていく」という思いが込められている。\[35\][2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")、1stアルバム「[BREAKERZ](../Page/BREAKERZ_\(アルバム\).md "wikilink")」でデビュー。（オリコンチャート300位以下） 当初はクールなロックバンドを目指しMCでは笑わないというルールで\[36\]、楽曲もJZEILに比べメロディ主体で、また現在と比べると洋楽風であったりダークな世界観があった。 [2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、姉の[影木栄貴](../Page/影木栄貴.md "wikilink")に「世界バリバリ☆バリュー」“私の家族は有名人”特集の出演依頼が来た際、姉はバンドを結成したばかりのDAIGOをメインに使うことで出演許可を出した。家族全員と自宅を公開しなければいけなかったため「おばあちゃん（[竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")）が駄目と言ったら断念だね」という話をしていたが\[37\]、祖母は快諾、家族で出演し話題となった。後日VTRを見た番組スタッフがDAIGOを気に入り、スタジオゲストとして何回か出演。タレント事務所（[A-PLUS](../Page/A-PLUS.md "wikilink")）に勤めていた元クラスメイトにマネージメントについて相談し、事務所社長と会うことに。社長はDAIGOのキャラを大絶賛、タレントとしてのDAIGOが誕生した\[38\]。
 
 改名後のDAIGOは「竹下登の孫」であることを公表、同時に[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の知名度も上昇した。祖父ネタは「開き直り」「出し惜しみなく、フルに活用していくように」なった。\[39\]また、元首相の孫とは思えぬ[若者言葉](https://ja.wikipedia.org/wiki/若者言葉 "wikilink")で話すギャップや、親指を立てた[コルナ](../Page/コルナ.md "wikilink")で手の甲を表に向け、腕をクロスさせるポーズと共に発する「うぃっしゅ\!」という決め台詞が流行するなど、[テレビタレント](https://ja.wikipedia.org/wiki/テレビタレント "wikilink")としても人気を博している。
 
-1stシングル「SUMMER PARTY」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、オリコンチャート10位。以降トップ10内連続チャートイン）は「せっかくだしちょっとロックと自分の個性（「自分ではフツーだと思ってたこの“しゃべり”」\[40\]）、メディアリンクも含めてそういう曲を！」\[41\]と作り、タレント活動について他のメンバーも「バンドの彩りを豊かにしていく」と前向きに捉えている。\[42\]ライヴは「基本ロックだけれど初めて見る人でも楽しめるようエンターテイメントに」\[43\]また、BREAKERZが男性ファン2%ということに対し「男性ファンが増えてくれるのはもちろん喜ばしいですけど、俺は女性ファンのほうがうれしいです（笑）」とまで語っている。\[44\] 「テレビなんか出ないぜ！っていうロッカーなスタイル、俺はすごい好きです。だけど俺の場合、固定観念に縛られてると逆に表現に足かせがかかっちゃう。だから、自分のスタイルを貫くことこそ、ロックだと思うんだ。」\[45\]「今は、歌もバラエティーもすべてガチでやりたいんです。やらせてもらえる今の環境にいるからこそ、オファーには期待をすべて裏切らないように応えたいんですよ。ニーズには応えたいタイプなんでね（笑）」「今は何でも挑戦したい年ごろ（笑）」\[46\]「“人を楽しませたい欲”が強い」\[47\]と語りドラマ、ミュージカルなどに出演を果たした。
+1stシングル「SUMMER PARTY」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、オリコンチャート10位。以降トップ10内連続チャートイン）は「せっかくだしちょっとロックと自分の個性（「自分ではフツーだと思ってたこの“しゃべり”」\[40\]）、メディアリンクも含めてそういう曲を！」\[41\]と作り、タレント活動について他のメンバーも「バンドの彩りを豊かにしていく」と前向きに捉えている。\[42\]ライヴは「基本ロックだけれど初めて見る人でも楽しめるようエンターテイメントに」\[43\]また、BREAKERZが男性ファン2%ということに対し「男性ファンが増えてくれるのはもちろん喜ばしいですけど、俺は女性ファンのほうがうれしいです（笑）」と語っている。\[44\] 「テレビなんか出ないぜ！っていうロッカーなスタイル、俺はすごい好きです。だけど俺の場合、固定観念に縛られてると逆に表現に足かせがかかっちゃう。だから、自分のスタイルを貫くことこそ、ロックだと思うんだ。」\[45\]「今は、歌もバラエティーもすべてガチでやりたいんです。やらせてもらえる今の環境にいるからこそ、オファーには期待をすべて裏切らないように応えたいんですよ。ニーズには応えたいタイプなんでね（笑）」「今は何でも挑戦したい年ごろ（笑）」\[46\]「“人を楽しませたい欲”が強い」\[47\]と語りドラマ、ミュージカルなどに出演を果たした。
 
 ### 2013年 - 2014年 （再びソロへ、DAIGO☆STARDUST復活）
 
-2013年4月BREAKERZの更なる飛躍の為\[48\]其々がソロ活動を開始、DAIGOは2013年7月31日ソロ第一弾シングル「いつも抱きしめて／無限∞REBIRTH」を発売した（オリコンチャート8位）。「バンドサウンドはBREAKERZで満足してる。だから逆にBREAKERZでできないことを」\[49\]と話しデジタル系楽曲や一部本格ダンスにトライした。そして7月12日にDAIGO☆STARDUSTとして10年ぶりの復活ライブ\[帰ってきたDAIGO☆STARDUST\]を行う。一夜限りの復活ライブとなる予定だったが、あまりに反響が大きかったため、7月26日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にて追加公演\[帰ってゆくDAIGO☆STARDUST\]を行った。（その後もDAIGO☆STARDUSTの楽曲はDAIGOのライヴのレパートリーになっている。）DAIGOとしてのライブツアーも行った。
+2013年4月BREAKERZの更なる飛躍の為\[48\]其々がソロ活動を開始、DAIGOは2013年7月31日ソロ第一弾シングル「いつも抱きしめて／無限∞REBIRTH」を発売した（オリコンチャート8位）。「バンドサウンドはBREAKERZで満足してる。だから逆にBREAKERZでできないことを」\[49\]と話しデジタル系楽曲や一部本格ダンスにトライした。そして7月12日にDAIGO☆STARDUSTとして10年ぶりの復活ライブ\[帰ってきたDAIGO☆STARDUST\]を行う。一夜限りの復活ライブとなる予定だったが、あまりに反響が大きかったため、7月26日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にて追加公演\[帰ってゆくDAIGO☆STARDUST\]を行った（その後もDAIGO☆STARDUSTの楽曲はDAIGOのライヴのレパートリーになっている）。DAIGOとしてのライブツアーも行った。
 
 ### 2015年以降 （BREAKERZ再始動、結婚）
 
 2015年5月20日、15枚目シングルにてBREAKERZを再始動。「今後はエンタメ感というより、もっとロックに振り切ったBREAKERZを目指してやっていこうと思ってます。」\[50\]尚、ソロ活動も引き続き行っている。
 
-2015年5月19日放送分の『[幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")』にて『第38回 [24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティーマラソンランナーに任命され、翌週5月26日放送分の生放送部分にてランナーとしての役割を「HM（走ります）」と承諾\[51\]、8月22日スタート、翌23日20時44分（JST）完走した\[52\]。
+2015年5月19日放送分の『[幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")』にて『第38回 [24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティーマラソンランナーに任命され、翌週5月26日放送分の生放送部分にてランナーとしての役割を「HM（走ります）」と承諾\[51\]。8月22日にマラソンがスタートし、翌23日20時44分（JST）に完走した\[52\]。
 
 2016年1月10日（[110番の日](../Page/110番の日.md "wikilink")）、[警視庁](../Page/警視庁.md "wikilink")の一日通信指令本部長を務めた\[53\]。
 
@@ -51,9 +51,9 @@
 
 本名の「**大湖**（だいご）」は、「**大**きい**湖**の様に広い心を持った人間になれ」という意味で名付けられた\[63\]。
 
-[座右の銘](https://ja.wikipedia.org/wiki/座右の銘 "wikilink")は「我が道を行く」。幼い頃、よく祖父に聞かされていたからだという。
+[座右の銘](https://ja.wikipedia.org/wiki/座右の銘 "wikilink")は「我が道を行く」。幼い頃、よく祖父に聞かされていたからとのこと。
 
-温厚な性格で平和主義者。姉の著書によると、「姉と兄の肉食獣同士の熾烈なケンカを側でながめながら、争いには首をつっこまない草食系の習性を身につけた」とのこと\[64\]。
+温厚な性格で平和主義者。姉の著書によると、「姉と兄の肉食獣同士の熾烈な喧嘩を側でながめながら、争いには首をつっこまない草食系の習性を身につけた」とのこと\[64\]。
 
 テレビ出演時は「そうっスね」「マジで」「マジっすか?」「ガチで」「ハンパない」「みたいな〜」など、典型的な[若者言葉](https://ja.wikipedia.org/wiki/若者言葉 "wikilink")（ただし基本的には[敬語](../Page/敬語.md "wikilink")）でかつ[語尾](../Page/語尾.md "wikilink")をのばした口調で喋る。DAIGOのこの独特の口調は、『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』で共演した[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")やものまねタレントの[花香よしあき](../Page/花香よしあき.md "wikilink")ら多くのタレントによく[ものまねをされている](../Page/物真似.md "wikilink")。また、[明石家さんま](../Page/明石家さんま.md "wikilink")と絡む際に「確かにぃ」という台詞をふられるのがお約束となっている。近年は「DGDG（DAIGO大誤算またはDAIGO大号泣）」や「GC（ガチ）」などのいわゆる[KY語](../Page/KY語.md "wikilink")（「DAI語」）を多用している。
 
@@ -69,20 +69,20 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 その時、「もし[日本武道館](../Page/日本武道館.md "wikilink")でライブやるようなことがあったらぜひナレーションをお願いしたい」と話し、2009年の[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")初武道館ライブ"WISH"にて実現、エヴァ仕様のオープニングになった\[67\]。さらに、エヴァンゲリオンと[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")のコラボで発売されたエヴァケータイやエヴァスマホは欠かさず購入しており、2012年に発売されたエヴァスマホ「SH-06D NERV」の公式PR動画にもサポーターとして出演した。その動画内で[原宿](../Page/原宿.md "wikilink")のエヴァストアを訪れ、計48,612円ものエヴァグッズをお買い上げしている\[68\]。
 
-『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティマラソン完走後に[生放送](../Page/生放送.md "wikilink")された『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』において、完走に対するご褒美として主題歌である「[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")」の[高橋洋子本人による歌唱が披露された](../Page/高橋洋子_\(歌手\).md "wikilink")\[69\]。
+『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』のチャリティーマラソン完走後に[生放送](../Page/生放送.md "wikilink")された『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』において、完走に対するご褒美として主題歌である「[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")」の[高橋洋子本人による歌唱が披露された](../Page/高橋洋子_\(歌手\).md "wikilink")\[69\]。
 
 競馬好き\[70\]\[71\]が高じて番組（「馬の王子様」）を担当した。兄（博文）が競馬を内藤家に持ち込んだと影木が著書\[72\]の中で語っている。
 
 ### 家族・親族
 
-  - 冒頭にもあるように、母方の祖父は[竹下登](../Page/竹下登.md "wikilink")で、登の異母弟（[大叔父](https://ja.wikipedia.org/wiki/大叔父 "wikilink")）は[自民党](../Page/自由民主党_\(日本\).md "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員の[竹下亘](../Page/竹下亘.md "wikilink")。
-  - 妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")
+  - 先述通り、母方の祖父は[竹下登](../Page/竹下登.md "wikilink")で、登の異母弟（[大叔父](https://ja.wikipedia.org/wiki/大叔父 "wikilink")）は[自民党](../Page/自由民主党_\(日本\).md "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員の[竹下亘](../Page/竹下亘.md "wikilink")。
+  - 妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")。
   - 父は[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")[政治部記者](../Page/政治部記者.md "wikilink")を経て、竹下登の[秘書](../Page/秘書.md "wikilink")を務めた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。父方の祖父は建設会社社長の[内藤用一郎](https://ja.wikipedia.org/wiki/内藤用一郎 "wikilink")。
   - 母は竹下登の次女・まる子で、母方の祖母は[竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")。
-  - 3人[姉弟の次男で](../Page/兄弟姉妹.md "wikilink")、姉と兄がおり、姉の栄子（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[73\]。
+  - 3人[姉弟の次男](../Page/兄弟姉妹.md "wikilink")（末っ子）で姉と兄がおり、姉の栄子（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[73\]。
   - 母方の曽祖父は[島根県議会](https://ja.wikipedia.org/wiki/島根県議会 "wikilink")議員を務めた[竹下勇造](../Page/竹下勇造.md "wikilink")。
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")の代表取締役社長、[エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")の取締役を務めている金丸康信（[金丸信](../Page/金丸信.md "wikilink")の長男）は伯父（伯母〈母の姉〉の夫）で、その長女（従姉）はかつて姉・影木と共に[同人活動をしていた](https://ja.wikipedia.org/wiki/同人#漫画の同人 "wikilink")。
-  - 竹下家の親戚には[卓球](../Page/卓球.md "wikilink")選手の[石川佳純](../Page/石川佳純.md "wikilink")もいる。
+  - 竹下家の親戚には、[卓球](../Page/卓球.md "wikilink")選手の[石川佳純](../Page/石川佳純.md "wikilink")もいる。
   - 2020年2月11日放送の日本テレビ系「はじめまして\!一番遠い親戚さん」に出演。番組内で[千葉雄大](https://ja.wikipedia.org/wiki/千葉雄大 "wikilink")と[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")が21親等の親戚にあたり、DAIGOと加山が19親等の親戚であることが放送された\[74\]\[75\]。
 
 さらに、[西郷隆盛](../Page/西郷隆盛.md "wikilink")、[久原房之助](../Page/久原房之助.md "wikilink")、[浜口梧陵](https://ja.wikipedia.org/wiki/浜口梧陵 "wikilink")なども遠戚にあたる。
@@ -95,7 +95,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
   - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")・[Acid Black Cherryのボーカル](../Page/Acid_Black_Cherry.md "wikilink")・[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")を兄貴分として慕っており、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")については「神であり最高の先輩」と語っている。
 
-特に[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")とは週5で食事する程の仲である。[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブを見に行った際に、hydeの熱狂的ファンであるyasuと出会い、それ以来の付き合い。祖父の名前を公表するか迷っていた時にyasuに相談したところ、「音楽ができなくなるわけじゃない」「家族なんだから何も後ろめたいことない」と言われ\[77\]、今に至る。
+特に[yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")とは週5で食事する程の仲である。[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブを見に行った際に、hydeの熱狂的ファンであるyasuと出会い、それ以来の付き合い。祖父の名前を公表するか迷っていた時にyasuに相談したところ、「音楽ができなくなるわけじゃない」「家族なんだから何も後ろめたいことない」と言われ\[77\]、現在に至る。
 
 また、[ブレーク前の](../Page/流行.md "wikilink")[2007年](../Page/2007年.md "wikilink")に、[Acid Black Cherry主催イベント](../Page/Acid_Black_Cherry.md "wikilink")「SWAPPING ROCK PARTY\!」にBREAKERZとして出演、この時の転換中に行ったyasuとのコント中に「うぃっしゅ\!」というDAIGOオリジナル「ロックポーズ」が誕生した（yasu曰く、本当のロックポーズは親指を立てず中指に付け[悪魔](../Page/悪魔.md "wikilink")の数字「6」を現すが、DAIGOが間違えてしまったらしい）。
 
@@ -133,20 +133,22 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [千葉雄大](https://ja.wikipedia.org/wiki/千葉雄大 "wikilink")（俳優、加山雄三から21親等の遠戚）
   - [鮎川義介](../Page/鮎川義介.md "wikilink")（[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")創業者）
   - [豊田喜一郎](../Page/豊田喜一郎.md "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")創業者)
-  - [高畑淳子](../Page/高畑淳子.md "wikilink")（俳優、北川のはとこ）
-  - [高畑裕太](https://ja.wikipedia.org/wiki/高畑裕太 "wikilink")（淳子の息子）
+  - [高畑淳子](../Page/高畑淳子.md "wikilink")（俳優）
+  - [高畑裕太](https://ja.wikipedia.org/wiki/高畑裕太 "wikilink")（俳優）
+  - [武豊](../Page/武豊.md "wikilink")(騎手)
+  - [勝新太郎](https://ja.wikipedia.org/wiki/勝新太郎 "wikilink")(俳優)
 
 [日産自動車](../Page/日産自動車.md "wikilink")の創業者、[高島屋](../Page/高島屋.md "wikilink")創業者一族、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の創業者、[三井財閥](https://ja.wikipedia.org/wiki/三井財閥 "wikilink")の当主、[浅野財閥](../Page/浅野財閥.md "wikilink")の創始者、[安田財閥](../Page/安田財閥.md "wikilink")の創始者はそれぞれ親戚関係にあるため、DAIGOの遠戚といえる\[78\]\[79\]。
 
 ## エピソード
 
-  - [竹下内閣](../Page/竹下内閣.md "wikilink")が[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[4月1日](../Page/4月1日.md "wikilink")に[消費税](../Page/消費税.md "wikilink")を導入した際、張本人の孫という事で、学校などでは随分と[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")られたと言い、[教師からも](../Page/教員.md "wikilink")「お前の[じいさんがあんな下らん税を導入しやがって](../Page/竹下登.md "wikilink")！」となじられるなど、苦い経験もしている。
+  - [竹下内閣](../Page/竹下内閣.md "wikilink")が[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[4月1日](../Page/4月1日.md "wikilink")に[消費税](../Page/消費税.md "wikilink")を導入した際、張本人の孫だった事から学校などでは随分といじめを受けたという、苦いエピソードがある。
   - 15歳の時、[小渕恵三](../Page/小渕恵三.md "wikilink")元[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")から、[お年玉](../Page/お年玉.md "wikilink")として8万[円を貰っている](../Page/円_\(通貨\).md "wikilink")。祖父・竹下登からのお年玉の最高額が3万円だった事から、彼の中で「小渕さん、リスペクトですよ」とのこと\[80\]。
-  - 実家には、当時[官房長官の](../Page/内閣官房長官.md "wikilink")[小渕恵三](../Page/小渕恵三.md "wikilink")が[昭和](../Page/昭和.md "wikilink")64年（[1989年](../Page/1989年.md "wikilink")）[1月7日](../Page/1月7日.md "wikilink")に、当時の[総理大臣官邸の](../Page/総理大臣公邸.md "wikilink")[記者会見](../Page/記者会見.md "wikilink")で掲げた[平成](../Page/平成.md "wikilink")の[元号](../Page/元号.md "wikilink")が書かれた[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")や、[祖父が](../Page/竹下登.md "wikilink")[昭和天皇](../Page/昭和天皇.md "wikilink")から手渡された[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")任命書、[ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")であった[ヨハネ・パウロ2世からの贈呈品や](../Page/ヨハネ・パウロ2世_\(ローマ教皇\).md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")からの[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")などが秘蔵されている。これは[TBSテレビ](../Page/TBSテレビ.md "wikilink")の『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』でも紹介された。同局の『[うたばん](../Page/うたばん.md "wikilink")』で「平成」の色紙を鑑定してもらったところ、「[価値](../Page/価値.md "wikilink")が高すぎて[鑑定](../Page/鑑定.md "wikilink")出来ない」との結果が出た。なお、[河東純一](https://ja.wikipedia.org/wiki/河東純一 "wikilink")が[揮毫](../Page/揮毫.md "wikilink")した「平成」の色紙は、この放送の後に[国立公文書館](../Page/国立公文書館.md "wikilink")に寄贈されている\[81\]。
+  - 実家には、当時[官房長官の](../Page/内閣官房長官.md "wikilink")[小渕恵三](../Page/小渕恵三.md "wikilink")が[昭和](../Page/昭和.md "wikilink")64年（[1989年](../Page/1989年.md "wikilink")）[1月7日](../Page/1月7日.md "wikilink")に、当時の[総理大臣官邸の](../Page/総理大臣公邸.md "wikilink")[記者会見](../Page/記者会見.md "wikilink")で掲げた[平成](../Page/平成.md "wikilink")の[元号](../Page/元号.md "wikilink")が書かれた[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")や、[祖父が](../Page/竹下登.md "wikilink")[昭和天皇](../Page/昭和天皇.md "wikilink")から手渡された[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")任命書、[ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")だった[ヨハネ・パウロ2世からの贈呈品や](../Page/ヨハネ・パウロ2世_\(ローマ教皇\).md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")からの[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")などが秘蔵されている。これは[TBSテレビ](../Page/TBSテレビ.md "wikilink")の『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』でも紹介された。同局の『[うたばん](../Page/うたばん.md "wikilink")』で「平成」の色紙を鑑定してもらったところ、「[価値](../Page/価値.md "wikilink")が高すぎて[鑑定](../Page/鑑定.md "wikilink")出来ない」との結果が出た。なお、[河東純一](https://ja.wikipedia.org/wiki/河東純一 "wikilink")が[揮毫](../Page/揮毫.md "wikilink")した「平成」の色紙は、この放送の後に[国立公文書館](../Page/国立公文書館.md "wikilink")に寄贈されている\[81\]。
   - 2003年、「DAIGO☆STARDUST」でメジャーデビューした際は「**宇宙から舞い降りたロック王子**」という設定で活動していたが、（本人曰く）[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")の「[こりん星人](https://ja.wikipedia.org/wiki/小倉優子#こりん星 "wikilink")」に比べ設定が甘かったため、次第に演じる本人が厳しくなり、ビーイング移籍を機に封印した。当時は「スペイシー・ハグ」「スペイシー・よちよち」など、自身の行為に「スペイシー」の接頭辞を付けていた。DAIGO☆STARDUSTのキャラについて、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")からは完全否定されていた\[82\]がつんく♂、高見沢俊彦、yasuらからは気に入られていた\[83\]。
-  - DAIGO☆STARDUST時代をバラエティ番組ではオチに使っているが、楽曲はL'Arc〜en〜Cielのhydeに「全部イイ」（2ndアルバム）と褒められており\[84\]、当時hydeから送られてきた[電子メール](../Page/電子メール.md "wikilink")は、ずっと保護して残している、と語っている。
-  - 指貫きグローブについて、以前からライヴなどでしてきていたが、「ある時バラエティ番組に出させてもらった時に、グローブのことをすごい突っ込まれたんで。」「その時、“これ、結構いい感じなんじゃないの？”って」\[85\]と語り「あれが無いとロックポーズも決まらないから」手袋なしのDAIGOは「たぶん3%位（真顔）」とまで言い切る程である\[86\]。
-  - 日本テレビ系「天才！志村どうぶつ園」のペンギン（ペンペン）に向けた曲は「I Wish」で、子猿（さくら）旅については「いつも抱きしめて」で表現。又、亡くなったヘアメイク久保田苛湖（カコ）\[87\]さんへ「YELL」（DAIGOアルバム「DAIGOLD」より）を作った\[88\]。
+  - DAIGO☆STARDUST時代をバラエティ番組ではオチに使っているが、楽曲はL'Arc〜en〜Cielのhydeに「全部イイ」（2ndアルバム）と褒められており\[84\]、当時hydeから送られてきた[電子メール](../Page/電子メール.md "wikilink")は「ずっと保護して残している」と語っている。
+  - 指貫きグローブについて以前からライヴなどでしてきていたが、「ある時バラエティ番組に出させてもらった時に、グローブのことをすごい突っ込まれたんで。」「その時、“これ、結構いい感じなんじゃないの？”って」\[85\]と語り「あれが無いとロックポーズも決まらないから」手袋なしのDAIGOは「たぶん3%位（真顔）」とまで言い切る程である\[86\]。
+  - 日本テレビ系「天才！志村どうぶつ園」のペンギン（ペンペン）に向けた曲は「I Wish」で、子猿（さくら）旅については「いつも抱きしめて」で表現。また、亡くなったヘアメイク久保田苛湖（カコ）\[87\]さんへ「YELL」（DAIGOアルバム「DAIGOLD」より）を作った\[88\]。
 
 ## ディスコグラフィ
 
@@ -747,8 +749,10 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 #### レギュラー
 
-  - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")（[2012年](../Page/2012年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - 、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 、日本テレビ） - レギュラー
   - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - 、日本テレビ） - 第1期は準レギュラーで、[2013年](../Page/2013年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")の第2期からレギュラー出演。
+  - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")（[2012年](../Page/2012年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - 、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [みいつけた\!](https://ja.wikipedia.org/wiki/みいつけた! "wikilink")（[2013年](../Page/2013年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")）- オスワル王子の声の出演。2015年3月1日放送分以降は顔出しで、『“サボダイゴさん”』というキャラクターも演じている。
   - [ニンゲン観察バラエティ モニタリング](https://ja.wikipedia.org/wiki/ニンゲン観察バラエティ_モニタリング "wikilink")（[2015年](../Page/2015年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - 、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [キネマのDAIGO☆味](https://ja.wikipedia.org/wiki/キネマのDAIGO☆味 "wikilink")（2015年[4月4日](../Page/4月4日.md "wikilink") - 、[J.COM TV](https://ja.wikipedia.org/wiki/ジュピターテレコム#J:COM_TV "wikilink")） - MC
   - [ライフUP](https://ja.wikipedia.org/wiki/ライフUP "wikilink")（[2016年](../Page/2016年.md "wikilink")4月29日 - 、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）MC \[92\]
@@ -756,8 +760,6 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [馬好王国〜UmazuKingdom〜](https://ja.wikipedia.org/wiki/馬好王国〜UmazuKingdom〜 "wikilink")（2017年1月7日 - 、フジテレビ） - メインMC
   - [eGG](https://ja.wikipedia.org/wiki/eGG_\(テレビ番組\) "wikilink")（2018年7月19日 - 、日本テレビ） - メインMC
   - [みんなのKEIBA](https://ja.wikipedia.org/wiki/みんなのKEIBA "wikilink")（2019年1月6日 - 、フジテレビ） -メインMC
-  - [天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 、日本テレビ） - ペンギン飼育（2008年）盲導犬訓練（[2009年](../Page/2009年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - 現在終了）子猿旅（[2009年](../Page/2009年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - 2013年8月3日 ）
-  - [みいつけた\!](https://ja.wikipedia.org/wiki/みいつけた! "wikilink")（[2013年](../Page/2013年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")）幼児向け番組でオスワル王子の声の出演。2015年3月1日放送分以降は顔出しで、『“サボダイゴさん”』というキャラクターも演じている。
 
 ### 過去の出演番組
 
@@ -771,7 +773,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [お宝発信タワー DAI-NAMO](https://ja.wikipedia.org/wiki/お宝発信タワー_DAI-NAMO "wikilink")（2010年10月13日 - 2011年9月21日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - [中京ローカル](../Page/中京ローカル.md "wikilink")
   - [馬の王子様](https://ja.wikipedia.org/wiki/馬の王子様 "wikilink")（2010年10月7日 - 2013年3月28日、フジテレビ） - SeasonII王子役として出演
   - [ヴァンガ道](https://ja.wikipedia.org/wiki/ヴァンガードTV "wikilink")（[2011年](../Page/2011年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[2013年](../Page/2013年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 司会
-  - [新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")（2011年[6月12日](../Page/6月12日.md "wikilink") - 2014年9月28日、フジテレビ） - 代打での出演が続いた後、[2012年](../Page/2012年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")の誕生日にレギュラーをプレゼントされた。
+  - [新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")（2011年[6月12日](../Page/6月12日.md "wikilink") - 2014年9月28日、フジテレビ） - 代役での出演が続いた後、[2012年](../Page/2012年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")の誕生日を機にレギュラーに昇格。
   - [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")（2011年[8月26日](../Page/8月26日.md "wikilink") - 2018年3月16日、TBS） - 月1レギュラー
   - [白熱ライブ　ビビット](https://ja.wikipedia.org/wiki/白熱ライブ_ビビット "wikilink")（[2015年](../Page/2015年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 2016年3月22日、[TBS](../Page/TBSテレビ.md "wikilink")） - 火曜レギュラー　\[93\]
   - [ラストキス〜最後にキスするデート](https://ja.wikipedia.org/wiki/ラストキス〜最後にキスするデート "wikilink")（2015年[10月27日](../Page/10月27日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、TBS） - MC \[94\]
@@ -828,7 +830,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
   - [カードファイト\!\! ヴァンガード アジアサーキット編](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\)#カードファイト!!_ヴァンガード_アジアサーキット編 "wikilink")（2012年、テレビ東京系） - DAIGO （本人） 役
   - [カードファイト\!\! ヴァンガード リンクジョーカー編](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\)#カードファイト!!_ヴァンガード_リンクジョーカー編 "wikilink")（2013年、テレビ東京系） - DAIGO（本人） 役
-  - [LOVE STAGE\!\!](https://ja.wikipedia.org/wiki/LOVE_STAGE!!#テレビアニメ "wikilink")（2014年、[BS11他](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） - 瀬名聖湖 役\[100\]
+  - [LOVE STAGE\!\!](https://ja.wikipedia.org/wiki/LOVE_STAGE!!#テレビアニメ "wikilink")（2014年、[BS11他](../Page/日本BS放送.md "wikilink")） - 瀬名聖湖 役\[100\]
   - [カードファイト\!\! ヴァンガードG ギアースクライシス編](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\)#カードファイト!!_ヴァンガードG_ギアースクライシス編 "wikilink")（2015年、テレビ東京系） - DAIGO（本人） 役
   - [モンスターハンター ストーリーズ RIDE ON](https://ja.wikipedia.org/wiki/モンスターハンター_ストーリーズ#テレビアニメ "wikilink")（2016年、フジテレビ系） - シルバ 役
 
@@ -838,7 +840,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 ### 吹き替え
 
-  - [ウォンテッド](../Page/ウォンテッド_\(映画\).md "wikilink")（2008年） - **ウェスリー・ギブソン**〈[ジェームズ・マカヴォイ](../Page/ジェームズ・マカヴォイ.md "wikilink")〉 役
+  - [ウォンテッド](../Page/ウォンテッド_\(映画\).md "wikilink")（2008年） - **ウェスリー・ギブソン**〈[ジェームズ・マカヴォイ](../Page/ジェームズ・マカヴォイ.md "wikilink")〉 役 ※劇場公開版
   - [きかんしゃトーマス 探せ\!\!謎の海賊船と失われた宝物](https://ja.wikipedia.org/wiki/きかんしゃトーマス_探せ!!謎の海賊船と失われた宝物 "wikilink")（2016年） - **ライアン**〈声：[エディ・レッドメイン](https://ja.wikipedia.org/wiki/エディ・レッドメイン "wikilink")〉 役
   - [ミッション:インポッシブル/フォールアウト](https://ja.wikipedia.org/wiki/ミッション:インポッシブル/フォールアウト "wikilink")（2018年） - オーガスト・ウォーカー〈[ヘンリー・カヴィル](https://ja.wikipedia.org/wiki/ヘンリー・カヴィル "wikilink")〉 役\[102\]
 

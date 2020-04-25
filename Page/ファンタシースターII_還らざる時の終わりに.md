@@ -1,7 +1,7 @@
 > この記事は[ファンタシースターII 還らざる時の終わりに](https://ja.wikipedia.org/wiki/ファンタシースターII_還らざる時の終わりに)から翻訳されています。
 
 
-『**ファンタシースターII 還らざる時の終わりに**』（ファンタシースターツー かえらざるときのおわりに）は、[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
+『**ファンタシースターII 還らざる時の終わりに**』（ファンタシースターツー かえらざるときのおわりに）は、[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に日本の[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")から発売された[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
 同社の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")RPGシリーズ『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第2作目。前作にあたる[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")/[マスターシステム](https://ja.wikipedia.org/wiki/マスターシステム "wikilink")用ソフト『[ファンタシースター](../Page/ファンタシースター.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）から千年後の世界を舞台に、主人公たちを操作して惑星モタビアおよびデゾリスにおけるバイオモンスター発生の原因を調査する事を目的としている。
 
@@ -412,7 +412,7 @@
 
   - （英語）
 
-[Category:1989年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1989年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ファンタシースター](https://ja.wikipedia.org/wiki/Category:ファンタシースター "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:1989年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1989年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ファンタシースターのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタシースターのコンピュータゲーム "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『懐かしのメガドライブ 蘇れメガドライバー \!\!』マイウェイ出版発行、2018年。ISBN 9784865118704 p72
 2.

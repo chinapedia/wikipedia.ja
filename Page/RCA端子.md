@@ -50,7 +50,6 @@ RCA端子は1つの信号ごとに1本のケーブルが必要である。これ
   - [コネクタ](../Page/コネクタ.md "wikilink")
   - [AV端子](../Page/AV端子.md "wikilink")
   - [VGA端子](../Page/VGA端子.md "wikilink")
-  - [DVD-Video](../Page/DVD-Video.md "wikilink")
   - [D端子](../Page/D端子.md "wikilink")
   - [コンポーネント端子](../Page/コンポーネント端子.md "wikilink")
   - [S端子](../Page/S端子.md "wikilink")

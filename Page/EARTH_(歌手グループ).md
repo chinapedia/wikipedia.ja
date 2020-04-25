@@ -51,7 +51,7 @@
 
 ### 参加作品
 
-1.  [D-LOOP](../Page/D-LOOP.md "wikilink") / grace mode（2004年5月12日、AVCD-17447）
+1.  [D-LOOP](../Page/D-LOOP.md "wikilink")『grace mode』（2004年5月12日、AVCD-17447）
       - **I'm Happy We Met 〜respect & love the earth〜**
 
 ## タイアップ

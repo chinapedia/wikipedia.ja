@@ -59,17 +59,17 @@
 
 ## 日本語吹替
 
-| 役名               | 俳優                                                                  | 日本語吹替                                                 |
-| ---------------- | ------------------------------------------------------------------- | ----------------------------------------------------- |
-| ソフト版             | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")         |                                                       |
-| ダニエル・モラレース       | [サミー・ナセリ](../Page/サミー・ナセリ.md "wikilink")                            | [石塚運昇](../Page/石塚運昇.md "wikilink")                    |
-| エミリアン・クタン=ケルバレーク | [フレデリック・ディーファンタル](../Page/フレデリック・ディーファンタル.md "wikilink")            | [松本保典](../Page/松本保典.md "wikilink")                    |
-| リリー              | [マリオン・コティヤール](../Page/マリオン・コティヤール.md "wikilink")                    | [杉村理加](https://ja.wikipedia.org/wiki/杉村理加 "wikilink") |
-| ペトラ              | [エマ・シェーベルイ](https://ja.wikipedia.org/wiki/エマ・シェーベルイ "wikilink")     | [沢海陽子](../Page/沢海陽子.md "wikilink")                    |
-| ジベール警部           | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink") | [水野龍司](../Page/水野龍司.md "wikilink")                    |
-| カミーユ（エミリアンの母親）   | [マヌエラ・グーレリ](https://ja.wikipedia.org/wiki/マヌエラ・グーレリ "wikilink")     | [定岡小百合](../Page/定岡小百合.md "wikilink")                  |
-| 「メルセデス」のリーダー     | [リチャード・サメル](https://ja.wikipedia.org/wiki/リチャード・サメル "wikilink")     | [田中正彦](../Page/田中正彦.md "wikilink")                    |
-|                  |                                                                     |                                                       |
+| 役名               | 俳優                                                                  | 日本語吹替                                |
+| ---------------- | ------------------------------------------------------------------- | ------------------------------------ |
+| ソフト版             | [フジテレビ版](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")         |                                      |
+| ダニエル・モラレース       | [サミー・ナセリ](../Page/サミー・ナセリ.md "wikilink")                            | [石塚運昇](../Page/石塚運昇.md "wikilink")   |
+| エミリアン・クタン=ケルバレーク | [フレデリック・ディーファンタル](../Page/フレデリック・ディーファンタル.md "wikilink")            | [松本保典](../Page/松本保典.md "wikilink")   |
+| リリー              | [マリオン・コティヤール](../Page/マリオン・コティヤール.md "wikilink")                    | [池本小百合](../Page/池本小百合.md "wikilink") |
+| ペトラ              | [エマ・シェーベルイ](https://ja.wikipedia.org/wiki/エマ・シェーベルイ "wikilink")     | [沢海陽子](../Page/沢海陽子.md "wikilink")   |
+| ジベール警部           | [ベルナール・ファルシー](https://ja.wikipedia.org/wiki/ベルナール・ファルシー "wikilink") | [水野龍司](../Page/水野龍司.md "wikilink")   |
+| カミーユ（エミリアンの母親）   | [マヌエラ・グーレリ](https://ja.wikipedia.org/wiki/マヌエラ・グーレリ "wikilink")     | [定岡小百合](../Page/定岡小百合.md "wikilink") |
+| 「メルセデス」のリーダー     | [リチャード・サメル](https://ja.wikipedia.org/wiki/リチャード・サメル "wikilink")     | [田中正彦](../Page/田中正彦.md "wikilink")   |
+|                  |                                                                     |                                      |
 
   - ソフト版：[VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BD収録](../Page/Blu-ray_Disc.md "wikilink")。2015年9月7日のテレビ東京『[午後のロードショー](../Page/午後のロードショー.md "wikilink")』ではこの音源を使用。
 

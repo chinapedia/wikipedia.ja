@@ -5,7 +5,7 @@
 
 ## 概要
 
-[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")と「[くるり](../Page/くるり.md "wikilink")」の中心メンバー[岸田繁](../Page/岸田繁.md "wikilink")と[佐藤征史](../Page/佐藤征史.md "wikilink")、および「くるり」のサポートメンバーをつとめていた[堀江博久](../Page/堀江博久.md "wikilink")と臺太郎の5人で結成した、いわゆる[スーパーバンド](../Page/スーパーグループ.md "wikilink")。また一時的に音楽活動を休止していたCoccoにとっては、これが3年ぶりの活動再開だった。
+[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")と「[くるり](../Page/くるり.md "wikilink")」の中心メンバー[岸田繁](../Page/岸田繁.md "wikilink")と[佐藤征史](../Page/佐藤征史.md "wikilink")、および「くるり」のサポートメンバーをつとめていた[堀江博久](../Page/堀江博久.md "wikilink")と臺太郎の5人で結成した[ポップ・ロック](../Page/ポップ・ロック.md "wikilink")・バンド。また一時的に音楽活動を休止していたCoccoにとっては、これが3年ぶりの活動再開だった。
 
 2004年夏、Coccoと岸田繁を中心としたスペシャル・コラボレーション「こっこちゃんとしげるくん」名義でタワーレコードの25周年記念事業『TOWER RECORDS GO\! GO\! 25th』のテーマソング「SING A SONG 〜NO MUSIC, NO LOVE LIFE〜」を制作\[2\]。その場限りのバンドかと思われたが、このコラボをキッカケに意気投合し、名義を「SINGER SONGER」と改めてさらなる作品制作を行うことになった\[3\]。
 

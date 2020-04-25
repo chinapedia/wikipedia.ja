@@ -60,20 +60,22 @@
   - [西郷従道](../Page/西郷従道.md "wikilink")（さいごう つぐみち）
     （西郷信吾→西郷従道）
     演：[緒形直人](../Page/緒形直人.md "wikilink")（幼年〜少年期：[根本卓哉](https://ja.wikipedia.org/wiki/根本卓哉 "wikilink")→[高橋守](https://ja.wikipedia.org/wiki/高橋守 "wikilink")→[星孝行](https://ja.wikipedia.org/wiki/星孝行 "wikilink")）
-    隆盛の弟。通称は**信吾**（しんご）、また、「つぐみち」は「じゅうどう」とも呼ばれている。
-    西南戦争では新政府側として、兄弟と敵味方に分かれる。
+    隆盛の弟。通称は**信吾**（しんご）。また、「つぐみち」は「じゅうどう」とも呼ばれている。
+    西南戦争では新政府側として、兄弟と敵味方に分かれる。のち[元老](../Page/元老.md "wikilink")、[海軍大臣](../Page/海軍大臣.md "wikilink")、[内務大臣](../Page/内務大臣_\(日本\).md "wikilink")、[貴族院議員を歴任](../Page/貴族院_\(日本\).md "wikilink")。
   - [大山巌](../Page/大山巌.md "wikilink")（おおやま いわお）
     （大山弥助→大山巌）
     演：[坂上忍](../Page/坂上忍.md "wikilink")
     西郷兄弟の従弟。通称は**弥助**（やすけ）。
+    西南戦争では新政府側として、隆盛や小兵衛と敵味方に分かれる。のち[陸軍元帥](../Page/陸軍元帥.md "wikilink")
   - [川口雪篷](../Page/川口雪篷.md "wikilink")（かわぐち せっぽう）
     （川口量次郎→川口雪篷）
     演：[竜雷太](../Page/竜雷太.md "wikilink")
-    絵師。
+    [絵師](../Page/絵師.md "wikilink")。[陽明学](../Page/陽明学.md "wikilink")者。[能書家](https://ja.wikipedia.org/wiki/能書家 "wikilink")。
     吉之助が2度目の島流しで流された[沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")で出会う。吉之助と気が合い、彼が薩摩の家を留守中、[食客](../Page/食客.md "wikilink")兼[後見役](https://ja.wikipedia.org/wiki/後見役 "wikilink")となる。
   - 西郷清（さいごう きよ）
+    （得能清→西郷清）
     演：[国生さゆり](../Page/国生さゆり.md "wikilink")
-    従道の妻。
+    従道の妻。旧姓は**得能**（とくのう）。
   - [西郷吉二郎](../Page/西郷吉二郎.md "wikilink")（さいごう きちじろう）
     演：[村田雄浩](../Page/村田雄浩.md "wikilink")
     隆盛の弟。戊辰戦争で戦死。
@@ -88,10 +90,11 @@
     西郷家親戚・家事手伝い。
   - [西郷菊次郎](https://ja.wikipedia.org/wiki/西郷菊次郎 "wikilink")（さいごう きくじろう）
     演：[六浦誠](https://ja.wikipedia.org/wiki/六浦誠 "wikilink")（幼年期：[若菜大輔](https://ja.wikipedia.org/wiki/若菜大輔 "wikilink")）
-    隆盛と愛加那の子。
-  - [西郷琴](../Page/市来琴.md "wikilink")（さいごう こと）
+    隆盛と愛加那の子。のち[京都市長](https://ja.wikipedia.org/wiki/京都市長 "wikilink")
+  - [市来琴](../Page/市来琴.md "wikilink")（いちぎ こと）
+    （西郷琴→市来琴）
     演：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
-    隆盛の妹。
+    隆盛の妹。[市来六左衛門正之丞に嫁ぐ](https://ja.wikipedia.org/wiki/市来正之丞 "wikilink")。
   - 西郷きみ（さいごう きみ）
     演：[大路三千緒](https://ja.wikipedia.org/wiki/大路三千緒 "wikilink")
     隆盛の祖母。
@@ -133,8 +136,10 @@
     演：[高橋壱岐](https://ja.wikipedia.org/wiki/高橋壱岐 "wikilink")
   - 西郷たか（さいごう たか）
     演：[近藤絵麻](https://ja.wikipedia.org/wiki/近藤絵麻 "wikilink")
+    隆盛の妹。幼くして病死。
   - 西郷やす（さいごう やす）
     演：[田京恵](https://ja.wikipedia.org/wiki/田京恵 "wikilink")
+    隆盛の妹。大山巌の兄の大山彦八に嫁ぐ。
 
 ### 大久保家
 
@@ -152,9 +157,10 @@
     利通の妹。
   - [大久保伸熊](../Page/牧野伸顕.md "wikilink")（おおくぼ のぶくま）
     演：[三浦竜也](https://ja.wikipedia.org/wiki/三浦竜也 "wikilink")（幼年期：[大西良和](https://ja.wikipedia.org/wiki/大西良和 "wikilink")）
-    利通の子。
+    利通の子。のちの[内大臣](../Page/内大臣.md "wikilink")・[牧野伸顕](../Page/牧野伸顕.md "wikilink")
   - [大久保三熊](../Page/大久保利武.md "wikilink")
     　演：[中島安名](https://ja.wikipedia.org/wiki/中島安名 "wikilink")
+    利通の子。のちの[内務官僚](https://ja.wikipedia.org/wiki/内務官僚 "wikilink")・[大久保利武](../Page/大久保利武.md "wikilink")
   - 大久保すま（おおくぼ すま）
     演：[矢沢美紀](https://ja.wikipedia.org/wiki/矢沢美紀 "wikilink")
   - 大久保りよ（おおくぼ りよ）
@@ -166,7 +172,8 @@
 
   - [島津斉彬](../Page/島津斉彬.md "wikilink")（しまづ なりあきら）
     演：[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")
-    薩摩藩第11代藩主。諸大名随一の開明的な人物で、国内や海外の情勢にも精通している。吉之助や正助の才能を誰よりも早く認める。
+    薩摩藩第11代藩主。官位は**薩摩守**（さつまのかみ）。諸大名随一の開明的な人物で、国内や海外の情勢にも精通している。吉之助や正助の才能を誰よりも早く認める。その[蘭癖](../Page/蘭癖.md "wikilink")（[西洋かぶれ](https://ja.wikipedia.org/wiki/西洋かぶれ "wikilink")）を父・斉興に疎まれ、なかなか家督を継げずにいたが、お由羅騒動の混乱を経て藩主に就任。開明思想に基づいた[藩政改革](../Page/藩政改革.md "wikilink")を行い、西郷ら有為の人材を登用する。西洋列強の脅威から日本を守るために[幕政改革](../Page/幕政改革.md "wikilink")を志向し、幕府に発言力を高めるために養女とした篤姫に一橋慶喜を将軍継嗣として推挙するように命じ、将軍御台所として大奥に送り込んだ。
+    しかし、大奥の水戸嫌いは予想を上回るほどに根深く、工作は思うように進まなかった。外様の大藩・薩摩藩主という立場から表立った行動を控えてきた斉彬は、遂に「慶喜を将軍継嗣とすべし」という旨の[建白書を幕府に提出する](https://ja.wikipedia.org/wiki/上書 "wikilink")。[南紀派](../Page/南紀派.md "wikilink")の井伊直弼が大老に推されると、対抗して越前藩主・松平慶永を推挙した。一橋派の敗北が決定的になると、洋式装備を有する軍を率いて幕政改革を促すための[上洛](../Page/上洛.md "wikilink")を計画するが、演習の検分中に病に倒れ、弟・三郎久光に後を託して亡くなった。
   - [島津久光](../Page/島津久光.md "wikilink")（しまづ ひさみつ）
     （島津三郎→島津久光）
     演：[高橋英樹](../Page/高橋英樹_\(俳優\).md "wikilink")
@@ -222,16 +229,17 @@
     （有村俊斎→海江田信義）
     演：[佐野史郎](../Page/佐野史郎.md "wikilink")
     精忠組志士。旧名は**有村俊斎**（ありむら しゅんさい）
-    単純且つ粗暴な性格だが根は涙もろい。維新後も久光に仕え続ける。
+    単純且つ粗暴な性格だが根は涙もろい。維新後も久光に仕え続けるが、西南戦争ののちは[貴族院議員](https://ja.wikipedia.org/wiki/貴族院議員 "wikilink")、[枢密顧問官](https://ja.wikipedia.org/wiki/枢密顧問官 "wikilink")などを歴任。
   - [海老原穆](https://ja.wikipedia.org/wiki/海老原穆 "wikilink")（えびはら ぼく）
     演：[草野大悟](../Page/草野大悟.md "wikilink")
     元薩摩藩士。
   - [吉井友実](../Page/吉井友実.md "wikilink")（よしい ともざね）
     （吉井幸輔→吉井友実）
     演：[福田勝洋](https://ja.wikipedia.org/wiki/福田勝洋 "wikilink")
-    精忠組志士。通称は**幸輔**（こうすけ）。維新後は[宮内少輔](https://ja.wikipedia.org/wiki/宮内少輔 "wikilink")。
+    精忠組志士。通称は**幸輔**（こうすけ）。維新後は[宮内少輔](https://ja.wikipedia.org/wiki/宮内少輔 "wikilink")。のち[枢密顧問官](https://ja.wikipedia.org/wiki/枢密顧問官 "wikilink")。
   - [伊地知正治](../Page/伊地知正治.md "wikilink")（いじち まさはる）
     演：[安藤一夫](https://ja.wikipedia.org/wiki/安藤一夫 "wikilink")
+    精忠組志士。維新後は[宮中顧問官](../Page/宮中顧問官.md "wikilink")。
   - [有馬新七](../Page/有馬新七.md "wikilink")（ありま しんしち）
     演：[内藤剛志](../Page/内藤剛志.md "wikilink")
     精忠組志士。過激な尊王攘夷思想の持ち主で、後に[寺田屋事件](../Page/寺田屋事件.md "wikilink")で死亡する。
@@ -268,6 +276,7 @@
     俊の母。
   - [高崎温恭](https://ja.wikipedia.org/wiki/高崎五郎右衛門 "wikilink")
     演：[江角英明](../Page/江角英明.md "wikilink")
+    のちの歌人・[高崎正風](../Page/高崎正風.md "wikilink")の父。[お由羅騒動](../Page/お由羅騒動.md "wikilink")で切腹させられる。
   - [田中謙助](https://ja.wikipedia.org/wiki/田中謙助 "wikilink")（たなか けんすけ）
     演：[新みのる](https://ja.wikipedia.org/wiki/新みのる "wikilink")
 
@@ -287,7 +296,7 @@
     元陸軍少佐。出兵には反対だったが隆盛の意志に従い止む無く参加した。
   - [野村忍介](../Page/野村忍介.md "wikilink")（のむら にんすけ）
     演：[宮崎達也](https://ja.wikipedia.org/wiki/宮崎達也 "wikilink")
-    [鹿児島県](../Page/鹿児島県.md "wikilink")[警察署長](../Page/警察署長.md "wikilink")。桐野ら過激派には頭を悩ましている。
+    [鹿児島県](../Page/鹿児島県.md "wikilink")[警察署長](../Page/警察署長.md "wikilink")。桐野ら過激派には頭を悩ましている。のちに[南日本新聞](../Page/南日本新聞.md "wikilink")の前身である鹿児島新聞社や[鹿児島学校を設立する](../Page/鹿児島県立甲南高等学校.md "wikilink")。
   - [池上四郎](../Page/池上四郎_\(薩摩藩士\).md "wikilink")（いけのうえ しろう）
     演：[横溝貴之](https://ja.wikipedia.org/wiki/横溝たかゆき "wikilink")
 
@@ -313,8 +322,9 @@
 #### 幕閣・幕臣
 
   - [勝海舟](../Page/勝海舟.md "wikilink")（かつ かいしゅう）
+    （勝海舟→勝安芳）
     演：[林隆三](../Page/林隆三.md "wikilink")
-    江戸幕府陸軍総裁。坂本龍馬の師匠で、隆盛と会見し江戸城を明け渡す。本作では第二部には直接登場しないが、隆盛が下野した時の大久保の後任案の人事として「参議兼[海軍卿](https://ja.wikipedia.org/wiki/海軍卿 "wikilink")・勝安芳」と記されている。
+    江戸幕府陸軍総裁。坂本龍馬の師匠で、隆盛と会見し江戸城を明け渡す。本作では第二部には直接登場しないが、隆盛が下野した時の大久保の後任案の人事として「参議兼[海軍卿](https://ja.wikipedia.org/wiki/海軍卿 "wikilink")・勝安芳」と記されている。のちに[枢密顧問官](https://ja.wikipedia.org/wiki/枢密顧問官 "wikilink")も歴任する。
   - [阿部正弘](../Page/阿部正弘.md "wikilink")（あべ まさひろ）
     演：[若林豪](../Page/若林豪.md "wikilink")
     老中。

@@ -91,13 +91,13 @@ VHS/LD　（[ポニーキャニオン](../Page/ポニーキャニオン.md "wiki
 
 DVD　（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")（現[マーベラス](https://ja.wikipedia.org/wiki/マーベラス "wikilink")）発売）　※絶版
 
-  - [マーベラス](https://ja.wikipedia.org/wiki/マーベラス "wikilink")より発売の国内版DVDは一部シーンで[光過敏性発作](../Page/光過敏性発作.md "wikilink")対策が施されている。
+  - [マーベラス](https://ja.wikipedia.org/wiki/マーベラス "wikilink")より発売の日本国内版DVDは一部シーンで[光過敏性発作](../Page/光過敏性発作.md "wikilink")対策が施されている。
 
 <!-- end list -->
 
   - 2014年にDiscotek Mediaより発売された北米正規版DVDは[光過敏性発作](../Page/光過敏性発作.md "wikilink")対策を施さない劇場公開オリジナル版を収録。レターボックス収録の国内版とは異なりスクイーズ収録のニューマスターになっている。
   - 2017年に同社より北米正規版Blu-rayが発売。1080pによるHDマスター素材では初のソフト化。
-  - ニューマスター使用のDVD/BDは2017年時点共に日本未発売。
+  - ニューマスター仕様のDVD/BDは2020年時点で共に日本国内未発売。
 
 ## 出典
 

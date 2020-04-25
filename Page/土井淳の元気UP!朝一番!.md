@@ -21,7 +21,7 @@
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")

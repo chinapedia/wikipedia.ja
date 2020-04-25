@@ -39,6 +39,7 @@
   - 2014年11月28日 - [恋する彼女の不器用な舞台](https://ja.wikipedia.org/wiki/恋する彼女の不器用な舞台 "wikilink")\[3\]
   - 2016年2月26日 - [間宮くんちの五つ子事情](https://ja.wikipedia.org/wiki/間宮くんちの五つ子事情 "wikilink")
   - 2017年11月24日 - [ゆらめく心に満ちた世界で、君の夢と欲望は叶うか](https://ja.wikipedia.org/wiki/ゆらめく心に満ちた世界で、君の夢と欲望は叶うか "wikilink")
+  - 2020年3月27日発売予定 - 神様のような君へ
 
 ### MintCUBE
 

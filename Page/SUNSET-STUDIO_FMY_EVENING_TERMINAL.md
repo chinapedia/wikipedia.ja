@@ -17,7 +17,7 @@
   - [井村由美子](https://ja.wikipedia.org/wiki/井村由美子 "wikilink") - 元・エフエム山口アナウンサー
   - [大和良子](../Page/大和良子.md "wikilink") - 大阪[FM802](../Page/FM802.md "wikilink")でデビュー後、エフエム山口でも活動。番組終了後は一旦FMYから離れ、[tysテレビ山口などに出演していた](../Page/テレビ山口.md "wikilink")。2010年現在、[Morning Streetに出演中](https://ja.wikipedia.org/wiki/Morning_Street "wikilink")。
   - [鈴木晶久](../Page/鈴木晶久.md "wikilink") - 元・エフエム山口アナウンサー。その後もFMYに出演していたが2010年3月に退社。現在は関東を地盤に活動するフリーアナウンサー
-  - [原田かおり](https://ja.wikipedia.org/wiki/原田かおり_\(アナウンサー\) "wikilink") - 山口県を地盤に活動するフリーアナウンサー。FMY出演後は[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")を中心に活動している。なお、[同姓同名の声優とは別人](https://ja.wikipedia.org/wiki/原田かおり "wikilink")。
+  - [原田かおり](https://ja.wikipedia.org/wiki/原田かおり_\(アナウンサー\) "wikilink") - 山口県を地盤に活動するフリーアナウンサー。FMY出演後は[山口放送](../Page/山口放送.md "wikilink")を中心に活動している。なお、[同姓同名の声優とは別人](https://ja.wikipedia.org/wiki/原田かおり "wikilink")。
 
 ## 2001年4月の番組内容
 

@@ -1203,7 +1203,7 @@ TOSHIBAブランド<br />
 4.  [auケータイおよびAndroid™ 搭載auスマートフォンをご利用のお客さまへ](http://www.au.kddi.com/mobile/service/smartphone/lismo/lismo-wave/lismo-wave-information/)
 5.  [重要なお知らせ LISMO WAVEサービスの提供終了について](https://radio.lismowave.jp/mds/android/service/pc.html)
 6.  [auスマートパス、auスマートパスプレミアム会員の方必見！ 全国のFM放送（ライブ）が楽しめる「radiko for au」誕生。](https://news.radiko.jp/article/edit/34667/)
-7.  2020年に新たにFM6局がradikoによる配信を開始しており、2020年4月時点のradiko未配信FM局は[FM徳島と](../Page/エフエム徳島.md "wikilink")[FM佐賀の](../Page/エフエム佐賀.md "wikilink")2局のみ。
+7.  2020年に新たにFM7局がradikoによる配信を開始しており、2020年4月15日時点のradiko未配信FM局は[FM徳島のみ](../Page/エフエム徳島.md "wikilink")。
 8.  独自でインターネット配信『[Brandnew J](../Page/Brandnew_J.md "wikilink")』を実施している[J-WAVE](../Page/J-WAVE.md "wikilink")はシステムの対応が遅れたため同年3月15日に配信開始。
 9.  サービス開始後に開局したInterFM NAGOYA（現・[Radio NEO](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")）はLISMO WAVEでの配信は行っていない。ただし、radikoでは2015年7月に同局のサイマル送信を開始した。
 10. 別途、有料会員制で全国の放送局を受信できるradikoプレミアム・エリアフリーもあり

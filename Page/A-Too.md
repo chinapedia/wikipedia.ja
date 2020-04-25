@@ -36,7 +36,7 @@
 
 ## 駿河屋
 
-[A-too_Suruga-ya_Akihabara.jpg](https://ja.wikipedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg "fig:A-too_Suruga-ya_Akihabara.jpg") 同社のインターネット通販事業。[2015年](../Page/2015年.md "wikilink")には初の実店舗として大阪・[高槻店を](../Page/高槻市.md "wikilink")、次いで[2016年](../Page/2016年.md "wikilink")には東京・[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")店と静岡本店(静岡市[葵区](../Page/葵区.md "wikilink"))を出店\[1\]\[2\]、また[2018年](../Page/2018年.md "wikilink")には4月に東京・[新宿](../Page/新宿.md "wikilink")店、6月に東京・[池袋](../Page/池袋.md "wikilink")店、8月に北海道・[札幌](../Page/札幌.md "wikilink")店を出店した。また、エーツー馬淵店(静岡市[駿河区](../Page/駿河区.md "wikilink"))を駿河屋馬淵店に、本の森兵庫店と知恵蔵書店([兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink"))を駿河屋兵庫店に、それぞれリニューアルさせている。
+[A-too_Suruga-ya_Akihabara.jpg](https://ja.wikipedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg "fig:A-too_Suruga-ya_Akihabara.jpg") 同社のインターネット通販事業。[2015年](../Page/2015年.md "wikilink")には初の実店舗として大阪・[高槻店を](../Page/高槻市.md "wikilink")、次いで[2016年](../Page/2016年.md "wikilink")には東京・[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")店と静岡本店(静岡市[葵区](../Page/葵区.md "wikilink"))を出店\[1\]\[2\]、また[2018年](../Page/2018年.md "wikilink")には4月に東京・[新宿](../Page/新宿.md "wikilink")店、6月に東京・[池袋](../Page/池袋.md "wikilink")店、8月に北海道・[札幌](../Page/札幌.md "wikilink")店を出店した。[2019年](../Page/2019年.md "wikilink")5月に駿河屋[日本橋オタロード乙女館がグランドオープン](../Page/日本橋_\(大阪市\).md "wikilink")。エーツー日本橋店は駿河屋大阪・日本橋本館としてグランドオープン。駿河屋大阪日本橋オタロード店は駿河屋オタロードアニメ・ボビー館にリニューアルオープンした。また、エーツー馬淵店(静岡市[駿河区](../Page/駿河区.md "wikilink"))を駿河屋馬淵店に、本の森兵庫店と知恵蔵書店([兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink"))を駿河屋[兵庫](../Page/兵庫.md "wikilink")店に、それぞれリニューアルさせている。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[TOSHI-LOW](https://ja.wikipedia.org/wiki/TOSHI-LOW)から翻訳されています。
 
 
-**TOSHI-LOW**（とし・ろう、[1974年](../Page/1974年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")・[BRAHMAN](../Page/BRAHMAN.md "wikilink")（ブラフマン）のボーカルを担当する。[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。
+**TOSHI-LOW**（トシロウ、[1974年](../Page/1974年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")・[BRAHMAN](../Page/BRAHMAN.md "wikilink")（ブラフマン）のボーカルを担当する。[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")出身。
 
 ## 略歴
 

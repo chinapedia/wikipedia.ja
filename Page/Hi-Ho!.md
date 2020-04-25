@@ -7,7 +7,7 @@
 
 ## 概要
 
-TNCの第1スタジオに観客を入れての公開[生放送](../Page/生放送.md "wikilink")を行っていた。1997年3月まで同枠で放送されていた『[とことんサンデー](../Page/とことんサンデー.md "wikilink")』や深夜番組『[Doの夜はとことん](https://ja.wikipedia.org/wiki/Doの夜はとことん "wikilink")』と同じく、[福岡吉本のタレントによるバラエティ番組](https://ja.wikipedia.org/wiki/吉本興業福岡支社 "wikilink")。
+TNCの第1スタジオに観客を入れての公開[生放送](../Page/生放送.md "wikilink")を行っていた。1997年3月まで同枠で放送されていた『[とことんサンデー](../Page/とことんサンデー.md "wikilink")』や深夜番組『[Doの夜はとことん](https://ja.wikipedia.org/wiki/Doの夜はとことん "wikilink")』と同じく、[福岡吉本のタレントによるバラエティ番組](../Page/吉本興業福岡支社.md "wikilink")。
 
 視聴者ターゲットの年齢層も『とことんサンデー』時代と同様に、中学生と高校生を主とした。
 

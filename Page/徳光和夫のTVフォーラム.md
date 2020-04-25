@@ -167,7 +167,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
 <td></td>

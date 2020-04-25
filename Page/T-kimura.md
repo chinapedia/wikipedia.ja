@@ -113,7 +113,7 @@
 ## プロデュース・楽曲提供
 
   - [m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - 「[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink")」（作曲・編曲）
   - [TRF](../Page/TRF.md "wikilink")
       - 「[Frame](https://ja.wikipedia.org/wiki/Frame "wikilink")」（作曲・編曲）

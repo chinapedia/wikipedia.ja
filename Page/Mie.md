@@ -110,8 +110,8 @@
 
 ## 外部リンク
 
-  - [Mieオフィシャルブログ 『What's up Mie \!?』](http://ameblo.jp/mie-boo/)（GiRLSGATE） 2006年10月～2008年03月
-  - [Mieオフィシャルブログ 『from Hawaii』](http://ameblo.jp/miefromhawaii/) 2011年12月～
+  - [Mieオフィシャルブログ 『What's up Mie \!?』](https://ameblo.jp/mie-boo/)（GiRLSGATE） 2006年10月～2008年03月
+  - [Mieオフィシャルブログ 『from Hawaii』](https://ameblo.jp/miefromhawaii/) 2011年12月～
 
 [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:青山学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:青山学院大学出身の人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

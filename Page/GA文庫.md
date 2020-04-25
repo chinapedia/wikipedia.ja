@@ -133,4 +133,4 @@ GA文庫のイラストを纏めた[ムック](../Page/ムック_\(出版\).md "
 
 1.  なお、[Bbmfマガジン](https://ja.wikipedia.org/wiki/Bbmfマガジン "wikilink")が刊行しているGAコミックスは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にBbmfマガジンと合併した旧[グリーンアロー出版社](https://ja.wikipedia.org/wiki/グリーンアロー出版社 "wikilink")の社名に由来するレーベル名であり、GA文庫とは無関係である。
 2.  2012年放映当時。作品は後にKADOKAWAへ移行している。
-3.  「這いよれ\! ニャル子さん」は地上波アニメ化される以前にFLASHアニメが製作され、[BS11デジタルで放送されていた](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。
+3.  「這いよれ\! ニャル子さん」は地上波アニメ化される以前にFLASHアニメが製作され、[BS11デジタルで放送されていた](../Page/日本BS放送.md "wikilink")。

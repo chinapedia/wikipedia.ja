@@ -5,7 +5,7 @@
 
 同社の『[ドラゴンスレイヤーシリーズ](../Page/ドラゴンスレイヤーシリーズ.md "wikilink")』の第4作目。主人公の「ウォーゼン一家」を操作し、ディルギオスの地下迷宮に隠された4つの宝冠・クラウンを収集してドラゴンスレイヤーを入手し、キング・ドラゴンのディルギオスを倒して平和な国レミアを救出する事を目的としたゲーム。開発は日本ファルコムが行い、プロデューサーは同社の『[ザナドゥ](../Page/ザナドゥ_\(ゲーム\).md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）などを手掛けた加藤正幸、音楽は[古代祐三](../Page/古代祐三.md "wikilink")、[石川三恵子](../Page/石川三恵子.md "wikilink")が担当している。
 
-同年に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフトとして[ナムコから](../Page/バンダイナムコエンターテインメント.md "wikilink")「ナムコット ファミリーコンピュータゲームシリーズ」第27弾として発売された他、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用ソフトとして日本ファルコムから発売された。[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、『**LEGACY OF THE WIZARD**』というタイトルで[NES用として発売されている](../Page/Nintendo_Entertainment_System.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に携帯電話アプリゲームとして各キャリアにて配信された他、MSX版とMSX2版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
+同年に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフトとして[ナムコから](../Page/バンダイナムコエンターテインメント.md "wikilink")「ナムコット ファミリーコンピュータゲームシリーズ」第27弾として発売された他、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用ソフトとして日本ファルコムから発売された。[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、『**LEGACY OF THE WIZARD**』というタイトルで[NES用として発売された](../Page/Nintendo_Entertainment_System.md "wikilink")。当時のファルコムのMSXタイトルとしては珍しく、[ROMカートリッジ](https://ja.wikipedia.org/wiki/ROMカートリッジ "wikilink")での供給であったため、PC他機種には移植されていなかった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に携帯電話アプリゲームとして各キャリアにて配信された他、MSX版とMSX2版は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 なお、『[ファルコム・ゲーム・ミュージック](https://ja.wikipedia.org/wiki/Falcom_Game_Music "wikilink")』の曲目紹介では「ドラスレファミリー」の部分を「ドラゴンスレイヤー・ファミリー」と紹介している。
 
@@ -223,7 +223,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファミリーコンピュータ" title="wikilink">ファミリーコンピュータ</a></p></td>
 <td><p>日本ファルコム</p></td>
-<td><p><a href="../Page/バンダイナムコエンターテインメント.md" title="wikilink">ナムコ</a></p></td>
+<td></td>
 <td><p>1.5<a href="../Page/メガビット.md" title="wikilink">メガビット</a><a href="../Page/ロムカセット.md" title="wikilink">ロムカセット</a><ref name="famimaga171">{{Cite journal |和書</p></td>
 <td><p>author =</p></td>
 <td><p>authorlink =</p></td>
@@ -334,7 +334,7 @@
   - シナリオ：HATABOW（畠山孝一）、ONYANKO、GANCHAN、Dr.KEY（木屋善夫）
   - プログラミング：Dr.KEY（木屋善夫）
   - プログラミング・アシスタント：HATABOW（畠山孝一）、ONYANKO
-  - アート&グラフィック：GANCHAN、KAIJIN、NOWTEN MUSUME
+  - アート&グラフィック：GANCHAN、KAIJIN、NOWTEN MUSUME（古代彩乃）
   - 音楽：KOSHIRON（古代祐三）
   - プロデュース：SHACHOW
 

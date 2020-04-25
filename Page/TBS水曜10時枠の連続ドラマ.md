@@ -125,7 +125,7 @@
 
 ## 備考
 
-第2期の作品群の主題歌は全て[オリコンウィークリーシングルチャートでベスト](../Page/オリコンチャート.md "wikilink")20入りをして、中でも「[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")」のテーマ曲だった[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[Voyage](https://ja.wikipedia.org/wiki/Voyage_\(曲\) "wikilink")」は[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")を受賞した。
+第2期の作品群の主題歌は全て[オリコンウィークリーシングルチャートでベスト](../Page/オリコンチャート.md "wikilink")20入りをして、中でも「[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")」のテーマ曲だった[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の「[Voyage](https://ja.wikipedia.org/wiki/Voyage_\(曲\) "wikilink")」は[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")を受賞した。
 
 ## 関連項目
 

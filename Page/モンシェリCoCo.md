@@ -178,7 +178,7 @@
 
   - TBS：日曜 19:30 - 20:00
   - [青森テレビ](../Page/青森テレビ.md "wikilink")：日曜 19:30 - 20:00\[7\]
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：日曜 19:30 - 20:00\[8\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[8\]
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：火曜 18:00 - 18:30\[9\]
   - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30\[10\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[11\]

@@ -6,84 +6,168 @@
 ## 概要
 
   - タイトル「WHATEVER＝何はともあれ（[スヌーピー](../Page/スヌーピー.md "wikilink")から）」という意味。そういう感じで聞いてほしいという願いが込められている。ジャケット写真の撮影は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")の[元町](../Page/元町_\(横浜市\).md "wikilink")・[山手周辺で行われた](../Page/山手_\(横浜市\).md "wikilink")。
+  - 林原めぐみ名義で初めてレコーディングされた「夜明けのShooting Star」を始めとした、自身がスターチャイルド内で関わったアニメ作品等のサウンドトラックアルバムに収録された楽曲の中から選曲されたアルバムである。また公式のデビュー曲となった「虹色のSneaker」を再収録している。
   - 2005年3月16日に初回限定盤仕様（紙BOX仕様、24Pブックレット、42P別冊写真集など付属）の限定生産で復刻された。
 
 ## 収録曲
 
-1.  **夜明けのShooting Star** \[4:51\]
-      -
-        作詞・作曲：[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、編曲：矢萩秀明
-        最初にレコーディングした楽曲\[1\]
-2.  **守ってあげる** \[4:26\]
-      -
-        作詞：木本慶子、作曲・編曲：[戸塚修](../Page/戸塚修.md "wikilink")
-3.  **恋・無双華** \[4:42\]
-      -
-        作詞：水谷啓二、作曲：[工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink")、編曲：神林早人
-4.  **プリズムアイ** <New Recording> \[3:34\]
-      -
-        作詞・作曲：[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、編曲：矢萩秀明
-    <!-- end list -->
-      - 原題は「プリズム・アイ」、[木村真紀](https://ja.wikipedia.org/wiki/木村真紀 "wikilink")のカバー曲。
-5.  **翔星 -NAGARE BOSHI-** \[4:12\]
-      -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲・編曲：神林早人
-6.  **Still Waiting** \[5:44\]
-      -
-        作詞：[北代桃子](https://ja.wikipedia.org/wiki/北代桃子 "wikilink")、作曲：竹沢好貴、編曲：[山本健司](../Page/山本健司.md "wikilink")
-7.  **HOLY ROAD** \[4:31\]
-      -
-        作詞：木本慶子、作曲：[山浦克己](https://ja.wikipedia.org/wiki/山浦克己 "wikilink")、編曲：中村康就
-8.  **雨の日の過ごし方** <New Recording> \[4:25\]
-      -
-        作詞：木本慶子、作曲：丸尾めぐみ、編曲：西岡治彦
-9.  **Back Seat Dollが見ていた** <New Recording> \[3:37\]
-      -
-        作詞：松葉美保、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-        原曲は[水谷優子](../Page/水谷優子.md "wikilink")・[田中真弓](../Page/田中真弓.md "wikilink")との3人による曲
-10. **流星機ガクセイバー** \[4:05\]
-      -
-        作詞：[Toshi](../Page/大月俊倫.md "wikilink")、作曲・編曲：[渡辺宙明](../Page/渡辺宙明.md "wikilink")
-11. **浜辺のダイアリー** <New Recording> \[4:29\]
-      - 作詞・作曲：辛島美登里、編曲：矢萩秀明
-12. **夏のうねり** \[5:07\]
-      -
-        作詞：安藤芳彦、作曲：瀬井広明、編曲：[戸塚修](../Page/戸塚修.md "wikilink")
-13. **Distance** <New Recording> \[4:25\]
-      -
-        作詞：木本慶子、作曲・編曲：西岡治彦
-14. **Tokyo Boogie Night** <New Recording> \[3:02\]
-      -
-        作詞：渡辺なつみ、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：[岡田徹](../Page/岡田徹.md "wikilink")
-        原曲は[本多知恵子](../Page/本多知恵子.md "wikilink")とのデュエットソング
-15. **[虹色のSneaker](../Page/虹色のSneaker.md "wikilink")** \[4:15\]
-      -
-        作詞・作曲：辛島美登里、編曲：[村瀬恭久](../Page/村瀬恭久.md "wikilink")
+### 収録内容
 
 ## タイアップ
 
-| 曲名                  | タイアップ                                                                                                                                                                                     | 初出作品                                                        | 発売日        | 品番        | 備考                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- | --------- | -------------------------------------------------------- |
-| 夜明けのShooting Star   | [OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")                       | 機動戦士ガンダム 0080 ポケットの中の戦争 Sound Sketch II                     | 1989年4月21日 | 276A-7001 |                                                          |
-| 守ってあげる              | OVA『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』イメージソング                                                                                                                   | 3×3EYES 第弐章                                                 | 1991年12月5日 | KICA-71   |                                                          |
-| 恋・無双華               | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[天空戦記シュラト](../Page/天空戦記シュラト.md "wikilink")』イメージソング                                                                              | 天空戦記シュラト 曼陀羅・華                                              | 1990年2月5日  | KICA-1    |                                                          |
-| プリズムアイ              | 漫画『グラス･マジック』イメージソング                                                                                                                                                                       | [マインドサイズ](https://ja.wikipedia.org/wiki/マインドサイズ "wikilink") | 1989年7月5日  | 292A-7002 | 原曲：[木村真紀](https://ja.wikipedia.org/wiki/木村真紀 "wikilink") |
-| 翔星 -NAGARE BOSHI-   | [ラジオドラマ](../Page/ラジオドラマ.md "wikilink")『[聖伝](../Page/聖伝-RG_VEDA-.md "wikilink")』イメージソング                                                                                                    | 聖伝 ドラマ編                                                     | 1990年7月21日 | KICA-19   |                                                          |
-| Still Waiting       | テレビアニメ『[天空戦記シュラト](../Page/天空戦記シュラト.md "wikilink")』イメージソング                                                                                                                                 | 天空戦記シュラト 八部衆 THE WORLD                                      | 1990年12月5日 | KICA-35   |                                                          |
-| HOLY ROAD           | OVA『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』イメージソング                                                                                                                   | 3×3EYES 地之巻                                                 | 1991年6月16日 | KICA-61   |                                                          |
-| 雨の日の過ごし方            | OVA『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』イメージソング                                                                                                                   | 3×3EYES 第壱章                                                 | 1991年8月21日 | KICA-65   | 原曲：林原めぐみ                                                 |
-| Back Seat Dollが見ていた | [ラジオドラマ](../Page/ラジオドラマ.md "wikilink")『獣神英雄伝ワタライガー 今宵はここまで』イメージソング                                                                                                                        | 獣神英雄伝ワタライガー 今宵はここまで                                         | 1990年3月21日 | KICA-6    | 原曲：田中真弓、水谷優子、林原めぐみ                                       |
-| 流星機ガクセイバー           | ラジオドラマ『[流星機ガクセイバー](../Page/流星機ガクセイバー.md "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")                                                                                                | 流星機ガクセイバー CHANCE                                            | 1992年1月21日 | KICA-84   |                                                          |
-| 浜辺のダイアリー            | 漫画『メタルハート』イメージソング                                                                                                                                                                         | [マインドサイズ](https://ja.wikipedia.org/wiki/マインドサイズ "wikilink") | 1989年7月5日  | 292A-7002 | 原曲：林原めぐみ                                                 |
-| 夏のうねり               | OVA『[機動戦士SDガンダム](../Page/機動戦士SDガンダム.md "wikilink")』イメージソング                                                                                                                                | 機動戦士SDガンダム こちらマッケンジー探偵社                                     | 1991年5月16日 | KICA-49   |                                                          |
-| Distance            | OVA『[3×3EYES](https://ja.wikipedia.org/wiki/3×3EYES "wikilink")』イメージソング                                                                                                                   | 3×3EYES 第壱章                                                 | 1991年8月21日 | KICA-65   | 原曲：林原めぐみ with TAKADA BAND                                |
-| Tokyo Boogie Night  | [TBSラジオ他](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』初代[エンディングテーマ](../Page/主題歌.md "wikilink") | 機動戦士SDガンダム タイホしちゃうわ♡                                        | 1990年1月15日 | 292A-7019 | 原曲：本多知恵子&林原めぐみ                                           |
-| 虹色のSneaker          | [ラジオ関西](../Page/ラジオ関西.md "wikilink")他『[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")』初代エンディングテーマ                                                                  | 虹色のSneaker                                                  | 1991年3月5日  | KIDA-15   | 2ndシングル                                                  |
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>初出作品</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>夜明けのShooting Star</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『<a href="../Page/機動戦士ガンダム0080_ポケットの中の戦争.md" title="wikilink">機動戦士ガンダム0080 ポケットの中の戦争</a>』<a href="https://ja.wikipedia.org/wiki/イメージソング" title="wikilink">イメージソング</a></p></td>
+<td><p>機動戦士ガンダム 0080 ポケットの中の戦争 Sound Sketch II</p></td>
+<td><p>1989年4月21日</p></td>
+<td><p>276A-7001</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>守ってあげる</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/3×3EYES" title="wikilink">3×3EYES</a>』イメージソング</p></td>
+<td><p>3×3EYES 第弐章</p></td>
+<td><p>1991年12月5日</p></td>
+<td><p>KICA-71</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>恋・無双華</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="../Page/天空戦記シュラト.md" title="wikilink">天空戦記シュラト</a>』イメージソング</p></td>
+<td><p>天空戦記シュラト 曼陀羅・華</p></td>
+<td><p>1990年2月5日</p></td>
+<td><p>KICA-1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>プリズムアイ</p></td>
+<td><p>漫画『グラス･マジック』イメージソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マインドサイズ" title="wikilink">マインドサイズ</a></p></td>
+<td><p>1989年7月5日</p></td>
+<td><p>292A-7002</p></td>
+<td><p>原曲：<a href="https://ja.wikipedia.org/wiki/木村真紀" title="wikilink">木村真紀</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>翔星-NAGARE BOSHI-</p></td>
+<td><p><a href="../Page/ラジオドラマ.md" title="wikilink">ラジオドラマ</a>『<a href="../Page/聖伝-RG_VEDA-.md" title="wikilink">聖伝</a>』イメージソング</p></td>
+<td><p>聖伝 ドラマ編</p></td>
+<td><p>1990年7月21日</p></td>
+<td><p>KICA-19</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>Still Waiting</p></td>
+<td><p>テレビアニメ『<a href="../Page/天空戦記シュラト.md" title="wikilink">天空戦記シュラト</a>』イメージソング</p></td>
+<td><p>天空戦記シュラト 八部衆 THE WORLD</p></td>
+<td><p>1990年12月5日</p></td>
+<td><p>KICA-35</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>HOLY ROAD</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/3×3EYES" title="wikilink">3×3EYES</a>』イメージソング</p></td>
+<td><p>3×3EYES 地之巻</p></td>
+<td><p>1991年6月16日</p></td>
+<td><p>KICA-61</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>雨の日の過ごし方</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/3×3EYES" title="wikilink">3×3EYES</a>』イメージソング</p></td>
+<td><p>3×3EYES 第壱章</p></td>
+<td><p>1991年8月21日</p></td>
+<td><p>KICA-65</p></td>
+<td><p>原曲：林原めぐみ</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>Back Seat Dollが見ていた</p></td>
+<td><p><a href="../Page/ラジオドラマ.md" title="wikilink">ラジオドラマ</a>『獣神英雄伝ワタライガー 今宵はここまで』イメージソング</p></td>
+<td><p>獣神英雄伝ワタライガー 今宵はここまで</p></td>
+<td><p>1990年3月21日</p></td>
+<td><p>KICA-6</p></td>
+<td><p>原曲：<a href="../Page/田中真弓.md" title="wikilink">田中真弓</a>・<a href="../Page/水谷優子.md" title="wikilink">水谷優子</a>・林原めぐみ</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>流星機ガクセイバー</p></td>
+<td><p>ラジオドラマ『<a href="../Page/流星機ガクセイバー.md" title="wikilink">流星機ガクセイバー</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a></p></td>
+<td><p>流星機ガクセイバー CHANCE</p></td>
+<td><p>1992年1月21日</p></td>
+<td><p>KICA-84</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>浜辺のダイアリー</p></td>
+<td><p>漫画『メタルハート』イメージソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マインドサイズ" title="wikilink">マインドサイズ</a></p></td>
+<td><p>1989年7月5日</p></td>
+<td><p>292A-7002</p></td>
+<td><p>原曲：林原めぐみ</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>夏のうねり</p></td>
+<td><p>OVA『<a href="../Page/機動戦士SDガンダム.md" title="wikilink">機動戦士SDガンダム</a>』イメージソング</p></td>
+<td><p>機動戦士SDガンダム こちらマッケンジー探偵社</p></td>
+<td><p>1991年5月16日</p></td>
+<td><p>KICA-49</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>Distance</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/3×3EYES" title="wikilink">3×3EYES</a>』イメージソング</p></td>
+<td><p>3×3EYES 第壱章</p></td>
+<td><p>1991年8月21日</p></td>
+<td><p>KICA-65</p></td>
+<td><p>原曲：林原めぐみ with TAKADA BAND</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>Tokyo Boogie Night</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBSラジオ&amp;コミュニケーションズ" title="wikilink">TBSラジオ他</a>『<a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a>』初代<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a></p></td>
+<td><p>機動戦士SDガンダム タイホしちゃうわ♡</p></td>
+<td><p>1990年1月15日</p></td>
+<td><p>292A-7019</p></td>
+<td><p>原曲：本多知恵子&amp;林原めぐみ</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>虹色のSneaker</p></td>
+<td><p><a href="../Page/ラジオ関西.md" title="wikilink">ラジオ関西</a>他『<a href="../Page/林原めぐみのHeartful_Station.md" title="wikilink">林原めぐみのHeartful Station</a>』初代エンディングテーマ</p></td>
+<td><p>虹色のSneaker</p></td>
+<td><p>1991年3月5日</p></td>
+<td><p>KIDA-15</p></td>
+<td><p>2ndシングル</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 
 <references/>
 
 [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")
-
-1.  公式のデビュー曲は「虹色のSneaker」

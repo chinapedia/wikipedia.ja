@@ -5,118 +5,126 @@
 
 ## 概要
 
-  - 前作から半年振りにリリースしたアルバム。本作リリース時点での未収録シングルは「[夢を抱きしめて](../Page/夢を抱きしめて_\(林原めぐみの曲\).md "wikilink")」と本作と同日発売の「[春猫不思議月夜 -おしえてHappiness-](../Page/春猫不思議月夜_-おしえてHappiness-.md "wikilink")」。
-  - 本作のみシングル曲が収録されていない。
+  - 前作から半年振りにリリースしたアルバム。今作より先行してリリースされたシングル「[夢を抱きしめて](../Page/夢を抱きしめて_\(林原めぐみの曲\).md "wikilink")」と本作と同日発売の「[春猫不思議月夜 -おしえてHappiness-](../Page/春猫不思議月夜_-おしえてHappiness-.md "wikilink")」は未収録、及び本作のみシングル曲が収録されていない。
+  - タイトルは「Perfume＝香水」のこと、林原自身が当時ハマっていた[アロマテラピー](../Page/アロマテラピー.md "wikilink")から取られている。
   - **MEGUMI**名義で自ら初めて作詞を手掛けた「STRAY CAT」「Growing Up」を収録する。
-  - タイトルは「Perfume＝香水」のこと。
-  - ジャケット写真の撮影は、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")で行われた。
+  - ジャケット写真の撮影は、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")。
   - 2005年3月16日に初回限定盤仕様（紙BOX仕様、24Pブックレット、16P別冊写真集など付属）の限定生産で復刻された。
 
 ## 収録曲
 
-1.  **メグミアイランド** \[4:34\]
-      -
-        作詞：松葉美保、作曲・編曲：西岡治彦
-2.  **眠れない街で** \[3:55\]
-      -
-        作詞：松葉美保、作曲・編曲：[原一博](../Page/原一博.md "wikilink")
-3.  **私にハッピーバースデイ** \[4:09\]
-      -
-        作詞：松葉美保、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[Vink](https://ja.wikipedia.org/wiki/Vink "wikilink")
-4.  **優しさは贈りもの** \[4:55\]
-      -
-        作詞：木本慶子、作曲：三留研介、編曲：林有三
-5.  **ポ・ト・フーが煮つまる前に** \[3:38\]
-      -
-        作詞・作曲：[松宮恭子](https://ja.wikipedia.org/wiki/松宮恭子 "wikilink")、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
-6.  **9月の扉** \[5:01\]
-      -
-        作詞：木本慶子、作曲：[石川Kanji](https://ja.wikipedia.org/wiki/石川寛門 "wikilink")、編曲：岩本正樹
-7.  **HOW HOW BEAR** \[4:23\]
-      -
-        作詞・作曲：松葉美保、編曲：林有三
-8.  **STRAY CAT** \[3:45\]
-      -
-        作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲・編曲：原一博
-9.  **Growing Up** \[4:38\]
-      -
-        作詞：MEGUMI、作曲・編曲：原一博
-10. **瞳に銀河** \[5:03\]
-      -
-        作詞：木本慶子、作曲：若林剛太、編曲：Vink
-11. **Summer Vacation** \[4:26\]
-      -
-        作詞：木本慶子、作曲・編曲：原一博
-12. **ハートの行方 -MEMORIES FOREVER-** \[4:09\]
-      -
-        作詞：松葉美保、作曲：佐藤英敏、編曲：Vink
-
 ## タイアップ
 
-| 曲名          | タイアップ                                                                                                             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| 私にハッピーバースデイ | [OVA](../Page/OVA.md "wikilink")『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』第1期[オープニングテーマ](../Page/主題歌.md "wikilink") |
+| \# | 曲名          | タイアップ                                                                                                             |
+| -- | ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| 3  | 私にハッピーバースデイ | [OVA](../Page/OVA.md "wikilink")『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』第1期[オープニングテーマ](../Page/主題歌.md "wikilink") |
 
 ## ミュージシャン
 
-<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+**メグミアイランド**
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+  - Sound Produce,Synthersizer Operation＆Guitars：西岡治彦
+  - Directed：[中村裕介](../Page/中村裕介.md "wikilink")（Water Color Enterprise）
+  - Assistant Director：高橋幸也
+  - Chorus：中村裕介・三松亜美
+  - Mixed：山崎進
 
-</div>
+**眠れない街で**
 
-<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+  - Sound Produce＆Keyboards：原一博
+  - Synthersizer Operation：棚橋信仁
+  - Guitars：中村修司
+  - Chorus：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")・副田研二
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：辻裕行
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+**私にハッピーバースデイ**
 
-</div>
+  - Sound Produce：Vink
+  - Synthersizer Operation：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")・[大平勉](../Page/大平勉.md "wikilink")
+  - Keyboards：[本間昭光](../Page/本間昭光.md "wikilink")・大平勉
+  - Guitars：矢吹俊郎
+  - Chorus：高橋洋子
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：[森元浩二](../Page/森元浩二.md "wikilink")
+
+**優しさは贈りもの**
+
+  - Sound Produced：林有三
+  - Synthersizer Operation：Yukiyoshi Fujimori
+  - Guitars：[松下誠](../Page/松下誠.md "wikilink")
+  - Mixed：倉石裕治
+
+**ポ・ト・フーが煮つまる前に**
+
+  - Sound Produced：岩本正樹
+  - Synthersizer Operation：斉藤等史
+  - Guitars：古川望
+  - Chorus：国分友里恵・[高尾直樹](../Page/高尾直樹.md "wikilink")・秋元薫
+  - Mixed：倉石裕治
+
+**9月の扉**
+
+  - Sound Produced：岩本正樹
+  - Synthersizer Operation：斉藤等史
+  - Guitars：古川望
+  - Chours：国分友里恵・高尾直樹・秋元薫
+  - Mixed：倉石裕治
+
+**HOW HOW BEAR**
+
+  - Sound Produced：林有三
+  - Synthersizer Operation：Yukiyoshi Fujimori
+  - Guitars：松下誠
+  - Mixed：倉石裕治
+
+**STRAY CAT**
+
+  - Sound Produce＆Keyboards：原一博
+  - Synthersizer Operation：棚橋信仁
+  - Guitars：中村修司
+  - Chorus：高橋洋子・副田研二
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：森元浩二
+
+**Growing Up**
+
+  - Sound Produce＆Keyboards：原一博
+  - Synthersizer Operation：棚橋信仁
+  - Guitars：中村修司
+  - Sax：包国充
+  - Chorus：高橋洋子・副田研二
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：辻裕行
+
+**瞳に銀河**
+
+  - Sound Produce：Vink
+  - Synthersizer Operation：矢吹俊郎・大平勉
+  - Keyboards：本間昭光・大平勉
+  - Guitars：矢吹俊郎
+  - Chorus：高橋洋子
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：辻裕行
+
+**Summer Vacation**
+
+  - Sound Produce＆Keyboards：原一博
+  - Synthersizer Operation：棚橋信仁
+  - Guitars：中村修司
+  - Chorus：高橋洋子・副田研二
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：森元浩二
+
+**ハートの行方〜MEMORIES FOREVER〜**
+
+  - Sound Produce：Vink
+  - Synthersizer Operation：矢吹俊郎・大平勉
+  - Keyboards：本間昭光・大平勉
+  - Guitars：矢吹俊郎
+  - Chorus：高橋洋子
+  - Directed：山崎淳（SOFTHOUSE UNO）
+  - Mixed：森元浩二
 
 ## スタッフ
 

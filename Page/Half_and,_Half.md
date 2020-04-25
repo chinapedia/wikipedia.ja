@@ -11,43 +11,6 @@
 
 ## 収録曲
 
-1.  **君のAnswer** \[3:56\]
-      -
-        作詞：[吉元由美](../Page/吉元由美.md "wikilink")、作曲・編曲：西岡治彦
-2.  **a Late Comer** \[5:17\]
-      -
-        作詞：木本慶子、作曲：[尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")、編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-3.  **[虹色のSneaker](../Page/虹色のSneaker.md "wikilink")** \[4:17\]
-      -
-        作詞・作曲：[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、編曲：[村瀬恭久](../Page/村瀬恭久.md "wikilink")
-4.  **真夏のバレンタイン** \[4:28\]
-      -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：[久保浩二](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")、編曲：古川貴司
-5.  **Don't Say“Wake up Baby”** \[4:24\]
-      -
-        作詞：松葉みほ、作曲・編曲：[岡田徹](../Page/岡田徹.md "wikilink")
-6.  **雨の日のシェイクスピア-TO FLY AWAY-** \[4:26\]
-      -
-        作詞：松葉みほ、作曲・編曲：岡田徹
-7.  **Friends** \[3:33\]
-      -
-        作詞：木本慶子、作曲：尾関昌也、編曲：大森俊之
-8.  **カレッジリングを買いにゆこう** \[5:00\]
-      -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：丸尾めぐみ、編曲：[長谷川智樹](../Page/長谷川智樹.md "wikilink")
-9.  **リクレットが泣いている** \[4:24\]
-      -
-        作詞：吉元由美、作曲：[山浦克己](https://ja.wikipedia.org/wiki/山浦克己 "wikilink")、編曲：山中紀昌
-10. **[恋のScramble Race](../Page/虹色のSneaker.md "wikilink")** \[3:52\]
-      -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：辛島美登里、編曲：村瀬恭久
-11. **EL WAKT** \[4:24\]
-      -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：山浦克己、編曲：中村康就
-12. **BECAUSE** \[4:22\]
-      -
-        作詞・作曲：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、編曲：長谷川智樹
-
 ## タイアップ
 
 | 曲名         | タイアップ                                                                                                                    | 備考       |

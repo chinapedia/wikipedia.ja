@@ -38,7 +38,7 @@ PJになるためには、PJニュースHP上で登録する必要がある。
 
   - [工藤明子](https://ja.wikipedia.org/wiki/工藤明子_\(フリーライター\) "wikilink") -運営ブログ、[素顔のニューヨーク](http://3644blog.digbook.jp/)
   - [後藤卓也](https://ja.wikipedia.org/wiki/後藤卓也 "wikilink")
-  - [山本宏樹](https://ja.wikipedia.org/wiki/山本宏樹 "wikilink") - 運営HP、[PJ山本の取材日記](http://d.hatena.ne.jp/hy1407/)・[PJ山本の取材アルバム](http://blog.livedoor.jp/hy1407/)
+  - [山本宏樹](https://ja.wikipedia.org/wiki/山本宏樹 "wikilink") - 運営HP、[PJ山本の取材日記](https://hy1407.hatenadiary.org/)・[PJ山本の取材アルバム](http://blog.livedoor.jp/hy1407/)
   - [石川一舟](https://ja.wikipedia.org/wiki/石川一舟 "wikilink") - 運営HP、[一舟　たいした記事じゃないけれど](http://blog.livedoor.jp/ichifune/)
   - [鈴木修司](https://ja.wikipedia.org/wiki/鈴木修司 "wikilink")
   - [穂高健一](https://ja.wikipedia.org/wiki/穂高健一 "wikilink") - 運営HP、[穂高健一ワールド](http://www.hodaka-kenich.com/)

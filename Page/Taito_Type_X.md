@@ -44,6 +44,8 @@ PC/AT互換機の汎用性を生かし、一部筐体では一部パーツのア
       - CPU : [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") 230（1.6GHz）
       - GPU : NVIDIA GeForce 9400M
 
+os:windows xp embedded standard
+
 ## 参入サードパーティー
 
   - [SNKプレイモア](../Page/SNK_\(2001年設立の企業\).md "wikilink")

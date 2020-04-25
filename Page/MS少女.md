@@ -45,6 +45,7 @@
   - [ハロ](../Page/ハロ_\(ガンダムシリーズ\).md "wikilink")（H.A.R.O.）+FF-X7 [コア・ファイター](../Page/コア・ファイター.md "wikilink")
   - MS-14S [ゲルググ](../Page/ゲルググ.md "wikilink")
   - MSM-04 [アッガイ](../Page/アッガイ.md "wikilink")
+  - RXｰ78-2 ガンダム マグネットコーティングVer.
 
 ## 関連書籍
 

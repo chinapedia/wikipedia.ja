@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[道の駅伯方S・Cパーク](https://ja.wikipedia.org/wiki/道の駅伯方S・Cパーク)から翻訳されています。
 
 
 **道の駅伯方S・Cパーク**（みちのえき はかたエスシーパーク）は、[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")の[伯方島](../Page/伯方島.md "wikilink")にある[国道317号](../Page/国道317号.md "wikilink")沿いの[道の駅](../Page/道の駅.md "wikilink")である。また、**みなとオアシス伯方**として[みなとオアシス](https://ja.wikipedia.org/wiki/みなとオアシス "wikilink")も同一施設で運営している。愛称は**マリンオアシスはかた**。[株式会社しまなみが管理運営を行っている](https://ja.wikipedia.org/wiki/しまなみ_\(企業\) "wikilink")。

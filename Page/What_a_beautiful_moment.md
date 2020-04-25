@@ -92,4 +92,4 @@ ZARD初のライブ映像を収録したDVD。主に[東京国際フォーラム
 
   - [ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
 
-[Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink") [Category:ZARDの映像作品](https://ja.wikipedia.org/wiki/Category:ZARDの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:ZARDの映像作品](https://ja.wikipedia.org/wiki/Category:ZARDの映像作品 "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink")

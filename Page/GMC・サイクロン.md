@@ -1,7 +1,7 @@
-> この記事は[GMC](https://ja.wikipedia.org/wiki/GMC)から翻訳されています。
+> この記事は[GMC・サイクロン](https://ja.wikipedia.org/wiki/GMC・サイクロン)から翻訳されています。
 
 
-**GMC・サイクロン**（*GMC Syclone* ）は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")が[GMC](../Page/GMC.md "wikilink")ブランドで生産していた[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")。GMC S-10の前身である[ソノマのハイパフォーマンスバージョンとしてプロダクション](https://ja.wikipedia.org/wiki/GMC・ソノマ "wikilink")・オートモーティブ・システムズ（*Production Automotive Systems* ）で1991年から1992年に生産された。
+**GMC・サイクロン**（*GMC Syclone* ）は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")が[GMC](../Page/GMC.md "wikilink")ブランドで生産していた[ピックアップトラック](../Page/ピックアップトラック.md "wikilink")。GMC S-10の前身である[ソノマのハイパフォーマンスバージョンとしてプロダクション](../Page/シボレー・S-10.md "wikilink")・オートモーティブ・システムズ（*Production Automotive Systems* ）で1991年から1992年に生産された。
 
 ## 概要
 
@@ -30,6 +30,6 @@
 
   - [GMC](../Page/GMC.md "wikilink")
   - [GMC・タイフーン](https://ja.wikipedia.org/wiki/GMC・タイフーン "wikilink")
-  - [GMC・ソノマ](https://ja.wikipedia.org/wiki/GMC・ソノマ "wikilink")
+  - [GMC・ソノマ](../Page/シボレー・S-10.md "wikilink")
 
 [Category:GMCの車種](https://ja.wikipedia.org/wiki/Category:GMCの車種 "wikilink") [Category:ピックアップトラック](https://ja.wikipedia.org/wiki/Category:ピックアップトラック "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")

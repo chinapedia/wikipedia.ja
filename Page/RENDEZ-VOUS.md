@@ -26,7 +26,7 @@
 
 ### 過去のナビゲーター
 
-  - [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink") （2005年4月-2007年3月）
+  - [VieVie](../Page/VieVie.md "wikilink") （2005年4月-2007年3月）
 
 <!-- end list -->
 
@@ -177,6 +177,6 @@
 
   - [RENDEZ-VOUS](http://www.j-wave.co.jp/original/rendezvous/)
   - [RENDEZ-VOUS blog](http://www.j-wave.co.jp/blog/rendezvous/)
-  - [Rachel Chan's Diary](http://ameblo.jp/rachelchan/)
+  - [Rachel Chan's Diary](https://ameblo.jp/rachelchan/)
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

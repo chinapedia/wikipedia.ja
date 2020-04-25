@@ -1,4 +1,4 @@
-> この記事は[Q ](https://ja.wikipedia.org/wiki/Q_)から翻訳されています。
+> この記事は[オバケのQ太郎 ワンワンパニック](https://ja.wikipedia.org/wiki/オバケのQ太郎_ワンワンパニック)から翻訳されています。
 
 
 『**オバケのQ太郎 ワンワンパニック**』（オバケのきゅうたろう ワンワンパニック）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（ファミコン）用[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフトである](../Page/ゲームソフト.md "wikilink")。テレビアニメ作品『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』（第3期）を原作としている。

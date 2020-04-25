@@ -29,9 +29,8 @@
 
         </div>
 
-\#: 17thシングルの表題曲。
-
-1.  **君がいたから**
+        17thシングルの表題曲。
+2.  **君がいたから**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -42,9 +41,8 @@
 
         </div>
 
-\#: [FIELD OF VIEWに提供した](../Page/FIELD_OF_VIEW.md "wikilink")「[君がいたから](../Page/君がいたから.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[輝く季節の中で](../Page/輝く季節の中で.md "wikilink")』の主題歌であり、本曲は同ドラマの挿入歌として使用されていた。また、坂井泉水死後に発売されたセレクションアルバム『[Brezza di mare 〜dedicated to IZUMI SAKAI〜](../Page/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜.md "wikilink")』にはミックスを変えたバージョンが収録された。
-
-1.  **[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")**
+        前年、[FIELD OF VIEWに提供し](../Page/FIELD_OF_VIEW.md "wikilink")90万枚を売り上げた「[君がいたから](../Page/君がいたから.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲同様、葉山たけしが編曲を担当しているが、坂井のボーカルを前面に出した穏やかなアレンジとなっている。原曲は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系ドラマ『[輝く季節の中で](../Page/輝く季節の中で.md "wikilink")』の主題歌であり、坂井がコーラスで参加している。本作収録のカバー版も同ドラマの挿入歌として発売前から使用されていた。また、坂井泉水死後2007年に発売されたセレクションアルバム『[Brezza di mare 〜dedicated to IZUMI SAKAI〜](../Page/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜.md "wikilink")』にはミックスを変えたバージョンが収録された。
+3.  **[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -55,9 +53,8 @@
 
         </div>
 
-\#: 16thシングルの表題曲。今回の収録で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をリテイク、またMixを「Vo.やや小」バージョンにしたものが収録されている\[1\]。なお、栗林誠一郎のゲストボーカルはそのまま。
-
-1.  **LOVE 〜眠れずに君の横顔ずっと見ていた**
+        16thシングルの表題曲。今回の収録で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をリテイク、またMixを「Vo.やや小」バージョンにしたものが収録されている\[1\]。なお、栗林誠一郎のゲストボーカルはそのまま。
+4.  **LOVE 〜眠れずに君の横顔ずっと見ていた**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -68,11 +65,10 @@
 
         </div>
 
-\#: [Barbierに提供した](../Page/栗林誠一郎.md "wikilink")「[LOVE〜眠れずに君の横顔ずっと見ていた〜](../Page/LOVE〜眠れずに君の横顔ずっと見ていた〜.md "wikilink")」のセルフカバー。フェイク・ボーカルは[生沢佑一](../Page/生沢佑一.md "wikilink")、[坪倉唯子](../Page/坪倉唯子.md "wikilink")らによるものである。2コーラス目からボーカルを半音、器械で上げた声が採用されている。
+        同年、[Barbierに提供した](../Page/栗林誠一郎.md "wikilink")「[LOVE〜眠れずに君の横顔ずっと見ていた〜](../Page/LOVE〜眠れずに君の横顔ずっと見ていた〜.md "wikilink")」のセルフカバー。フェイク・ボーカルは[生沢佑一](../Page/生沢佑一.md "wikilink")、[坪倉唯子](../Page/坪倉唯子.md "wikilink")らによるものである。2コーラス目からボーカルを半音、器械で上げた声が採用されている。
 
-\#: オリジナルカラオケの音盤化はされていなかったが、2018年1月10日発売「ZARD CD＆DVD COLLECTION　第24号　My Baby Grand \~ぬくもりが欲しくて\~ 」の付属CDにて初音盤化された。
-
-1.  **DAN DAN 心魅かれてく**
+        オリジナルカラオケの音盤化はされていなかったが、2018年1月10日発売「ZARD CD＆DVD COLLECTION　第24号　My Baby Grand \~ぬくもりが欲しくて\~ 」の付属CDにて初音盤化された。
+5.  **DAN DAN 心魅かれてく**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -83,11 +79,10 @@
 
         </div>
 
-\#: FIELD OF VIEWの「[DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink")」のセルフカバー。原曲は[ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")のテーマソングであった。アレンジが葉山たけしから池田大介に替わっている。この曲も2コーラス目からボーカルを器械で半音上げたものが使われている。ベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録されている。
+        同年発売の[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")「[DAN DAN 心魅かれてく](https://ja.wikipedia.org/wiki/DAN_DAN_心魅かれてく "wikilink")」のセルフカバー。原曲は[ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")のテーマソングであった。アレンジが葉山たけしから池田大介に替わっている。この曲も2コーラス目からボーカルを器械で半音上げたものが使われている。2016年発売『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録されている。
 
-\#\*オリジナルカラオケは、2018年2月7日発売「ZARD CD＆DVD COLLECTION　第26号　DAN DAN 心魅かれてく」の付属CDにて初音盤化された。
-
-1.  **[眠り](../Page/サヨナラは今もこの胸に居ます.md "wikilink")**
+        オリジナルカラオケは、2018年2月7日発売「ZARD CD＆DVD COLLECTION　第26号　DAN DAN 心魅かれてく」の付属CDにて初音盤化された。
+6.  **[眠り](../Page/サヨナラは今もこの胸に居ます.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -97,9 +92,8 @@
 
         </div>
 
-\#: 16thシングルのカップリング曲。シングルバージョンではなく、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")、[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")などを手掛けたAndy Johnsの手によって[リミックス](../Page/リミックス.md "wikilink")を施されたバージョンが収録されている。2ndアルバム『[もう探さない](../Page/もう探さない_\(アルバム\).md "wikilink")』収録曲「いつかは…」以来4年半ぶりに坂井泉水が作曲を担当した。
-
-1.  **[心を開いて](../Page/心を開いて.md "wikilink")**
+        16thシングル「[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")」のカップリング曲。シングルバージョンではなく、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")、[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")などを手掛けたAndy Johnsの手によって[リミックス](../Page/リミックス.md "wikilink")を施されたバージョンが収録されている。2ndアルバム『[もう探さない](../Page/もう探さない_\(アルバム\).md "wikilink")』収録曲「いつかは…」以来4年半ぶりに坂井泉水が作曲を担当した。1999年発売『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』には投票28位で未収録だったが、c/w曲としては最も人気が高かった。
+7.  **[心を開いて](../Page/心を開いて.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -110,9 +104,8 @@
 
         </div>
 
-\#: 18thシングルの表題曲。本作に収録されている「眠り」同様、Andy Johnsによる[ミックス](../Page/ミキシング.md "wikilink")（本曲はシングルバージョンの時点で彼によるミックスである）。
-
-1.  **突然**
+        18thシングルの表題曲。本作に収録されている「眠り」同様、Andy Johnsによる[ミックス](../Page/ミキシング.md "wikilink")（本曲はシングルバージョンの時点で彼によるミックスである）。
+8.  **突然**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -123,11 +116,10 @@
 
         </div>
 
-\#: FIELD OF VIEWに提供した「[突然](../Page/突然.md "wikilink")」のセルフカバー。冒頭のコーラスは[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")である。1999年発売の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』の投票に10位（シングル以外では4位）にランクインし、ミックスを変更したものが収録された。2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では27位にランクインし収録、2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録。
+        前年、FIELD OF VIEWに提供しミリオンセラーとなった「[突然](../Page/突然.md "wikilink")」のセルフカバー。冒頭のコーラスは[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")である。1999年発売の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』の投票に10位（シングル以外では4位）にランクインし、ミックスを変更したものが収録された。2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では27位にランクインし収録、2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録。
 
-\#: オリジナルカラオケの音盤化はされていなかったが、2018年5月30日発売「ZARD CD＆DVD COLLECTION　第34号　突然」の付属CDにて初音盤化された。
-
-1.  **今日も**
+        オリジナルカラオケの音盤化はされていなかったが、2018年5月30日発売「ZARD CD＆DVD COLLECTION　第34号　突然」の付属CDにて初音盤化された。
+9.  **今日も**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -137,10 +129,7 @@
         編曲：葉山たけし
 
         </div>
-
-<!-- end list -->
-
-1.  **Today is another day**
+10. **Today is another day**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -151,15 +140,14 @@
 
         </div>
 
-\#: 今作の表題曲。当初のタイトルは「今日が変わる」だった。[ホーン・セクションが導入されており](../Page/管楽器.md "wikilink")、とくに[バリトンサックス](https://ja.wikipedia.org/wiki/バリトンサックス "wikilink")のアレンジにこだわったとのこと\[2\]。
+        今作の表題曲。当初のタイトルは「今日が変わる」だった。[ホーン・セクションが導入されており](../Page/管楽器.md "wikilink")、とくに[バリトンサックス](https://ja.wikipedia.org/wiki/バリトンサックス "wikilink")のアレンジにこだわったとのこと\[2\]。2004年のライブツアーでも歌われている。
 
-\#: [大田紳一郎](../Page/大田紳一郎.md "wikilink")がコーラスを担当している。
+        [大田紳一郎](../Page/大田紳一郎.md "wikilink")がコーラスを担当している。
 
-\#: 同年に放送されたアニメ『[YAWARA\!](../Page/YAWARA!.md "wikilink")』のテレビスペシャル「YAWARA\!〜ずっと君のことが〜」のテーマソングとなった。1999年発売のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票20位となり未収録となったが、2006年発売のベストアルバム『[Golden Best ～15th Anniversary～](https://ja.wikipedia.org/wiki/Golden_Best_～15th_Anniversary～ "wikilink")』には収録、2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録された。
+        同年に放送されたアニメ『[YAWARA\!](../Page/YAWARA!.md "wikilink")』のテレビスペシャル「YAWARA\!〜ずっと君のことが〜」のテーマソングとなった。1999年発売のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票20位となり未収録となったが、2006年発売のベストアルバム『[Golden Best ～15th Anniversary～](https://ja.wikipedia.org/wiki/Golden_Best_～15th_Anniversary～ "wikilink")』には収録、2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録された。
 
-\#: オリジナルカラオケの音盤化はされていなかったが、2018年5月16日発売「ZARD CD＆DVD COLLECTION　第33号　Today is another day」の付属CDにて初音盤化された。
-
-1.  **[愛が見えない](../Page/愛が見えない.md "wikilink")**
+        オリジナルカラオケの音盤化はされていなかったが、2018年5月16日発売「ZARD CD＆DVD COLLECTION　第33号　Today is another day」の付属CDにて初音盤化された。
+11. **[愛が見えない](../Page/愛が見えない.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -170,9 +158,8 @@
 
         </div>
 
-\#: 15thシングルの表題曲。
-
-1.  **見つめていたいね**
+        15thシングルの表題曲。
+12. **見つめていたいね**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -183,9 +170,9 @@
 
         </div>
 
-\#: スタジオであるファンレターを読んでいたとき、坂井はZARDファンの[仙台市](../Page/仙台市.md "wikilink")の高校生がバイクで事故死したことを知る。そのファンレターにはその死と真正面に向き合った生徒たちと家族を案じる担任の気持ちが綴られていた。歌詞中の「3Gのキーパー」とは、彼のことをさしている（「3G」は3年G組のこと）。歌詞の最後にも「Dedicate to *KIYOTAKA SATOH*」と書かれている。この為か坂井自身もこの詞を大変気に入っており、セレクションアルバム『[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](../Page/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜.md "wikilink")』に収録された。この曲も前述のYAWARA\!スペシャルの挿入歌として使用されていた。
+        スタジオであるファンレターを読んでいたとき、坂井はZARDファンの[仙台市](../Page/仙台市.md "wikilink")の高校生がバイクで事故死したことを知る。そのファンレターにはその死と真正面に向き合った生徒たちと家族を案じる担任の気持ちが綴られていた。歌詞中の「3Gのキーパー」とは、彼のことをさしている（「3G」は3年G組のこと）。歌詞の最後にも「Dedicate to *KIYOTAKA SATOH*」と書かれている。この為か坂井自身もこの詞を大変気に入っており、セレクションアルバム『[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](../Page/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜.md "wikilink")』に収録された。この曲も前述のYAWARA\!スペシャルの挿入歌として使用されていた。
 
-\#: 演奏時間は6分17秒と「[あなたに帰りたい](../Page/OH_MY_LOVE.md "wikilink")」と並んでZARDのオリジナル曲の中では最も長い。
+        演奏時間は6分17秒と「[あなたに帰りたい](../Page/OH_MY_LOVE.md "wikilink")」と並んでZARDのオリジナル曲の中では最も長い。
 
 ## 参加ミュージシャン
 

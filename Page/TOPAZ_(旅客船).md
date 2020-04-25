@@ -1,4 +1,4 @@
-> この記事は[TOPAZ \(\)](https://ja.wikipedia.org/wiki/TOPAZ_\(\))から翻訳されています。
+> この記事は[TOPAZ \(旅客船\)](https://ja.wikipedia.org/wiki/TOPAZ_\(旅客船\))から翻訳されています。
 
 
 **The TOPAZ**（ザ・トパーズ、または単にトパーズ）は[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")船籍の[旅客船](../Page/旅客船.md "wikilink")（就航：1955～2008年）。 正式名称は**TSS the TOPAZ**（TSSはTurbine Steam Ship（蒸気船）の略）。

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[函館山テレビ・FM放送所](https://ja.wikipedia.org/wiki/函館山テレビ・FM放送所)から翻訳されています。
 
 
 **函館山テレビ・FM放送所**（はこだてやまてれび・えふえむそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")の[函館山](../Page/函館山.md "wikilink")山頂にある[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")・[檜山振興局](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")管内のテレビジョン放送及びFMラジオ放送の基幹送信所である。
@@ -142,9 +142,9 @@
 
 #### 外部リンク
 
-  - [地上デジタルテレビジョン放送局の無線局免許申請書を受理](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/1215.htm) - 総務省北海道総合通信局（平成18年度報道資料）
-  - [地上デジタルテレビ放送の試験電波発射のお知らせ](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0724a.htm) - 総務省北海道総合通信局（平成19年度報道資料）
-  - [地上デジタルテレビジョン放送局（中継局）に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0926.htm#BETSU1) - 総務省北海道総合通信局（平成19年度報道資料）
+  - [地上デジタルテレビジョン放送局の無線局免許申請書を受理](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/1215.htm) - 総務省北海道総合通信局（平成18年度報道資料）
+  - [地上デジタルテレビ放送の試験電波発射のお知らせ](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0724a.htm) - 総務省北海道総合通信局（平成19年度報道資料）
+  - [地上デジタルテレビジョン放送局（中継局）に免許](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2007/0926.htm#BETSU1) - 総務省北海道総合通信局（平成19年度報道資料）
   - [北海道内の最新デジタル中継局最新開局情報](http://www.soumu.go.jp/soutsu/hokkaido/chideji/index.htm) - 総務省北海道総合通信局
 
 ### 地上アナログテレビジョン放送

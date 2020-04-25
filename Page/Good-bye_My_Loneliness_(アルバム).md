@@ -1,4 +1,4 @@
-> この記事は[Good-bye My Loneliness \(\)](https://ja.wikipedia.org/wiki/Good-bye_My_Loneliness_\(\))から翻訳されています。
+> この記事は[Good-bye My Loneliness \(アルバム\)](https://ja.wikipedia.org/wiki/Good-bye_My_Loneliness_\(アルバム\))から翻訳されています。
 
 
 『**Good-bye My Loneliness**』（グッバイ・マイ・ロンリネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が、**Zard**名義で[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[b.gramから発売した](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")1枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

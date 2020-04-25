@@ -1,4 +1,4 @@
-> この記事は[DIVE \(\)](https://ja.wikipedia.org/wiki/DIVE_\(\))から翻訳されています。
+> この記事は[DIVE \(坂本真綾のアルバム\)](https://ja.wikipedia.org/wiki/DIVE_\(坂本真綾のアルバム\))から翻訳されています。
 
 
 『**DIVE**』（ダイブ）は、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。

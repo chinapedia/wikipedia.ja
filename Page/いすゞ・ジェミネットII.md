@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[いすゞ・ジェミネットII](https://ja.wikipedia.org/wiki/いすゞ・ジェミネットII)から翻訳されています。
 
 
 **ジェミネットII**（*GEMINETT II*）は、かつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）からOEM供給を受けて販売していた[ライトバン](../Page/ライトバン.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(ZARD\)](https://ja.wikipedia.org/wiki/_\(ZARD\))から翻訳されています。
+> この記事は[永遠 \(ZARDのアルバム\)](https://ja.wikipedia.org/wiki/永遠_\(ZARDのアルバム\))から翻訳されています。
 
 
 『**永遠**』（えいえん）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の8枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。JBCJ-1021。
@@ -24,9 +24,8 @@
 
         </div>
 
-\#: 22ndシングルの表題曲。シングルバージョンではなく、途中からミックスがモノラルになる（バック音が少し小さくなる）アルバムバージョン。バックコーラスが全員外国人である。[ニューヨーク](../Page/ニューヨーク.md "wikilink")でもミックスダウンが行われ、坂井泉水はライナーノーツで「インターネットで音源が届いた時は鳥肌がたった」と振り返っている。
-
-1.  **[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")**
+        22ndシングルの表題曲。シングルバージョンではなく、途中からミックスがモノラルになる（バック音が少し小さくなる）アルバムバージョン。バックコーラスが全員外国人である。[ニューヨーク](../Page/ニューヨーク.md "wikilink")でもミックスダウンが行われ、坂井泉水はライナーノーツで「インターネットで音源が届いた時は鳥肌がたった」と振り返っている。
+2.  **[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -37,9 +36,8 @@
 
         </div>
 
-\#: 23rdシングルの表題曲。何回もレコーディングの過程でリミックスを試みていたシングル曲だが、原曲をそのまま収録している。坂井自身が詞、曲、アレンジ全てを気に入っている曲の1つでもある。
-
-1.  **WAKE UP MAKE THE MORNING LAST〜忘れがたき人へ〜**
+        23rdシングルの表題曲。何回もレコーディングの過程でリミックスを試みていたシングル曲だが、原曲をそのまま収録している。坂井自身が詞、曲、アレンジ全てを気に入っている曲の1つでもある。
+3.  **WAKE UP MAKE THE MORNING LAST〜忘れがたき人へ〜**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -50,9 +48,8 @@
 
         </div>
 
-\#: ストリングスやホーン（金管楽器）が使われている。2016年発売のベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録。
-
-1.  **Brand New Love**
+        ストリングスやホーン（金管楽器）が使われている。2016年発売のベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも収録。
+4.  **Brand New Love**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -63,11 +60,10 @@
 
         </div>
 
-\#: [WANDS](../Page/WANDS.md "wikilink")に提供した「[Brand New Love](../Page/Brand_New_Love.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲よりハードロックなアレンジとなっている。このバージョンではWANDSのボーカル・[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")（当時）もコーラスに参加している。最後の方で坂井によるラップが入る。アルバム発売時に制作されたビデオクリップでは、WANDSバージョンでのクリップでも使用された、蒼い稲妻のCGを中央に配し、坂井泉水本人が手で払いのける動きと稲妻の動きを組み合わせた映像を使用していた（映像自体は[Don't you see\!のニューヨークで撮影されたときのものである](../Page/Don't_you_see!.md "wikilink")）。
+        [WANDS](../Page/WANDS.md "wikilink")に提供した「[Brand New Love](../Page/Brand_New_Love.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲よりハードロックなアレンジとなっている。このバージョンではWANDSのボーカル・[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")（当時）もコーラスに参加している。最後の方で坂井によるラップが入る。アルバム発売時に制作されたビデオクリップでは、WANDSバージョンでのクリップでも使用された、蒼い稲妻のCGを中央に配し、坂井泉水本人が手で払いのける動きと稲妻の動きを組み合わせた映像を使用していた（映像自体は[Don't you see\!のニューヨークで撮影されたときのものである](../Page/Don't_you_see!.md "wikilink")）。
 
-\#: オリジナルカラオケの音盤化はされていなかったが、2018年5月16日発売「ZARD CD＆DVD COLLECTION　第32号　Today is another day」の付属CDにて初音盤化された。
-
-1.  **[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")**
+        オリジナルカラオケの音盤化はされていなかったが、2018年5月16日発売「ZARD CD＆DVD COLLECTION　第32号　Today is another day」の付属CDにて初音盤化された。
+5.  **[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -78,9 +74,8 @@
 
         </div>
 
-\#: 25thシングルの表題曲。最後のところがフェードアウトしていないアルバムバージョン。『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。
-
-1.  **[遠い星を数えて](../Page/風が通り抜ける街へ.md "wikilink")**
+        25thシングルの表題曲。最後のところがフェードアウトしていないアルバムバージョン。『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。
+6.  **[遠い星を数えて](../Page/風が通り抜ける街へ.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -91,9 +86,8 @@
 
         </div>
 
-\#: 21stシングルのカップリング曲。編曲の徳永暁人が[ソプラノサックス](https://ja.wikipedia.org/wiki/ソプラノサックス "wikilink")を演奏している。坂井のお気に入り曲であり、1999年の船上ライブでも歌われ、2001年『[ZARD BLEND II〜LEAF & SNOW〜](../Page/ZARD_BLEND_II〜LEAF_&_SNOW〜.md "wikilink")』にもシークレットトラックとして収録。
-
-1.  **[新しいドア 〜冬のひまわり〜](../Page/新しいドア_〜冬のひまわり〜.md "wikilink")**
+        21stシングル「[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")」のカップリング曲。編曲の徳永暁人が[ソプラノサックス](https://ja.wikipedia.org/wiki/ソプラノサックス "wikilink")を演奏している。坂井のお気に入り曲であり、1999年の船上ライブでも歌われ、2001年『[ZARD BLEND II〜LEAF & SNOW〜](../Page/ZARD_BLEND_II〜LEAF_&_SNOW〜.md "wikilink")』にもシークレットトラックとして収録。
+7.  **[新しいドア 〜冬のひまわり〜](../Page/新しいドア_〜冬のひまわり〜.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -104,9 +98,8 @@
 
         </div>
 
-\#: 26thシングルの表題曲。後に[day after tomorrowのギターとなる北野正人が作曲した](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")。元々はアルバム用の曲だったが、タイアップが決まり先行シングルとして発売された。2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』でも投票16位にランクインし収録された。
-
-1.  **[GOOD DAY](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink")**
+        26thシングルの表題曲。後に[day after tomorrowのギターとなる北野正人が作曲した](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")。元々はアルバム用の曲だったが、タイアップが決まり先行シングルとして発売された。2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』でも投票16位にランクインし収録された。
+8.  **[GOOD DAY](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -117,9 +110,8 @@
 
         </div>
 
-\#: 27thシングルの表題曲。「新しいドア 〜冬のひまわり〜」との同時発売。シングルでは入っていなかった、作曲者によるラウドなギターが追加、ピアノの伴奏の変更などのアルバムバージョンが収録された。2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にはシングルバージョンで収録。
-
-1.  **I feel fine,yeah**
+        27thシングルの表題曲。「新しいドア 〜冬のひまわり〜」との同時発売。シングルでは入っていなかった、作曲者によるラウドなギターが追加、ピアノの伴奏の変更などのアルバムバージョンが収録された。2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にはシングルバージョンで収録。
+9.  **I feel fine,yeah**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -130,9 +122,8 @@
 
         </div>
 
-\#: アップテンポな仕上がり。[rumania montevideoの三好誠がZARDに初めて楽曲を提供](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")。コーラスには同バンドのボーカルである[三好真美](https://ja.wikipedia.org/wiki/三好真美 "wikilink")も参加している。ライナーノーツでは、「真面目な詞が多かったので、ハジケてみました」と語っている。
-
-1.  **[少女の頃に戻ったみたいに](../Page/運命のルーレット廻して.md "wikilink")**
+        アップテンポな仕上がり。[rumania montevideoの三好誠がZARDに初めて楽曲を提供](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")。コーラスには同バンドのボーカルである[三好真美](https://ja.wikipedia.org/wiki/三好真美 "wikilink")も参加している。ライナーノーツでは、「真面目な詞が多かったので、ハジケてみました」と語っている。
+10. **[少女の頃に戻ったみたいに](../Page/運命のルーレット廻して.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -143,13 +134,12 @@
 
         </div>
 
-\#: 25thシングルのカップリング曲。イントロに[DIMENSION](../Page/DIMENSION.md "wikilink")の[小野塚晃](../Page/小野塚晃.md "wikilink")によるピアノソロが追加されたアルバムバージョン。大野愛果がはじめてZARDに提供した楽曲。
+        25thシングル「[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")」のカップリング曲。イントロに[DIMENSION](../Page/DIMENSION.md "wikilink")の[小野塚晃](../Page/小野塚晃.md "wikilink")によるピアノソロが追加されたアルバムバージョン。大野愛果がはじめてZARDに提供した楽曲。
 
-\#:2007年の追悼ライブ「What a beautiful memory」ではこのバージョンで披露され、大野愛果がピアノで演奏した。
+        2007年の追悼ライブ「What a beautiful memory」ではこのバージョンで披露され、大野愛果がピアノで演奏した。
 
-\#:1999年のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票33位となり未収録となったが、2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では投票2位にランクインし2007年ライブバージョンが収録。2016年発売のベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にはシングルバージョンで収録。
-
-1.  **[息もできない](../Page/息もできない.md "wikilink")**
+        1999年のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票33位となり未収録となったが、2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では投票2位にランクインし2007年ライブバージョンが収録。2016年発売のベストアルバム『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にはシングルバージョンで収録。
+11. **[息もできない](../Page/息もできない.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -160,15 +150,12 @@
 
         </div>
 
-\#: 24thシングルの表題曲。このアルバムで唯一の葉山たけしの編曲。[T-BOLAN](../Page/T-BOLAN.md "wikilink")の五味孝氏がギターで参加している。
+        24thシングルの表題曲。このアルバムで唯一の葉山たけしの編曲。[T-BOLAN](../Page/T-BOLAN.md "wikilink")の五味孝氏がギターで参加している。
 
-\#: このアルバム用にいくつかミックスを変えたものが制作されたが、最終的にシングルバージョンと同一のものが収録された。
+        このアルバム用にいくつかミックスを変えたものが制作されたが、最終的にシングルバージョンと同一のものが収録された。
 
-\#:2008年発売『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では投票15位にランクインし、新バージョンで収録された。
-
-\#:
-
-1.  **[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")**
+        2008年発売『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』では投票15位にランクインし、新バージョンで収録された。
+12. **[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -179,9 +166,8 @@
 
         </div>
 
-\#: 21stシングルの表題曲。
-
-1.  **フォトグラフ**
+        21stシングルの表題曲。
+13. **フォトグラフ**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -191,7 +177,7 @@
 
         </div>
 
-\#: 1999年に開催された船上ライブでも歌われた。1999年4月1日に放送された読売テレビ系・日本テレビ系スペシャルドラマ「刑事たちの夏」のエンディングテーマに使用された。1999年発売の『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票37位となり未収録となったが、2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』投票20位でランクインし、同じ徳永暁人によるリアレンジを施されて収録された。
+        1999年に開催された船上ライブでも歌われた。1999年4月1日に放送された読売テレビ系・日本テレビ系スペシャルドラマ「刑事たちの夏」のエンディングテーマに使用された。1999年発売の『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票37位となり未収録となったが、2008年発売のベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』投票20位でランクインし、同じ徳永暁人によるリアレンジを施されて収録された。
 
 ### 初回特典CD
 

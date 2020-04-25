@@ -1,4 +1,4 @@
-> この記事は[Secret Code \(\)](https://ja.wikipedia.org/wiki/Secret_Code_\(\))から翻訳されています。
+> この記事は[Secret Code \(アルバム\)](https://ja.wikipedia.org/wiki/Secret_Code_\(アルバム\))から翻訳されています。
 
 
 『**Secret Code**』（シークレット・コード）は、[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")の1枚目のアルバム。

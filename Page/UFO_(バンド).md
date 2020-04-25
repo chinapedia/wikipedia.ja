@@ -1,4 +1,4 @@
-> この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
+> この記事は[UFO \(バンド\)](https://ja.wikipedia.org/wiki/UFO_\(バンド\))から翻訳されています。
 
 
 **UFO**（ユー・エフ・オー）は、[イングランド](../Page/イングランド.md "wikilink")出身の[ハードロック](../Page/ハードロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。

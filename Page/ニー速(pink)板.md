@@ -1,4 +1,4 @@
-> この記事は[\(pink\)](https://ja.wikipedia.org/wiki/\(pink\))から翻訳されています。
+> この記事は[ニー速\(pink\)板](https://ja.wikipedia.org/wiki/ニー速\(pink\)板)から翻訳されています。
 
 
 **ニー速(pink)**は、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")[掲示板の外郭掲示板である](../Page/電子掲示板.md "wikilink")[PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")に属する板の一つである。[2005年](../Page/2005年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[ニュース速報(VIP)板](https://ja.wikipedia.org/wiki/ニュース速報\(VIP\)板 "wikilink")から独立した掲示板。正式名称は「ニー速(pink)＠bbspink掲示板」。

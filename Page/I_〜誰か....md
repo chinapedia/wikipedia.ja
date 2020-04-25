@@ -1,4 +1,4 @@
-> この記事は[I ...](https://ja.wikipedia.org/wiki/I_...)から翻訳されています。
+> この記事は[I 〜誰か...](https://ja.wikipedia.org/wiki/I_〜誰か...)から翻訳されています。
 
 
 『**I 〜誰か...**』（アイ だれか）は、[小松未歩](../Page/小松未歩.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。2004年10月20日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-4023。

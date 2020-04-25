@@ -1,4 +1,4 @@
-> この記事は[True Kiss](https://ja.wikipedia.org/wiki/True_Kiss)から翻訳されています。
+> この記事は[よろこびの花が咲く〜True Kiss〜](https://ja.wikipedia.org/wiki/よろこびの花が咲く〜True_Kiss〜)から翻訳されています。
 
 
 『**よろこびの花が咲く 〜True Kiss〜**』（よろこびのはながさく 〜トゥルーキス〜）は[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")の4thアルバム。

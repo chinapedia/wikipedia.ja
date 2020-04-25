@@ -1,4 +1,4 @@
-> この記事は[TOKYONITE](https://ja.wikipedia.org/wiki/TOKYONITE)から翻訳されています。
+> この記事は[TOKYOパニックごっくんNITE](https://ja.wikipedia.org/wiki/TOKYOパニックごっくんNITE)から翻訳されています。
 
 
 **TOKYOパニックごっくんNITE**（とうきょう - ないと）は、[アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")の平日の夜の時間帯で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

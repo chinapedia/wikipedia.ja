@@ -1,4 +1,4 @@
-> この記事は[AGOHAZUSHI](https://ja.wikipedia.org/wiki/AGOHAZUSHI)から翻訳されています。
+> この記事は[腹よじれAGOHAZUSHI連盟](https://ja.wikipedia.org/wiki/腹よじれAGOHAZUSHI連盟)から翻訳されています。
 
 
 **腹よじれAGOHAZUSHI連盟**（はら - あごはずしれんめい）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")において、[1989年](../Page/1989年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までの間、[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の19:00から22:00まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
@@ -53,14 +53,14 @@
 <li><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a>○</li>
+<li><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a>○</li>
 <li><a href="../Page/山形放送.md" title="wikilink">山形放送</a>▲</li>
 <li><a href="../Page/東北放送.md" title="wikilink">東北放送</a></li>
 <li><a href="../Page/ラジオ福島.md" title="wikilink">ラジオ福島</a></li>
 <li><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/栃木放送" title="wikilink">栃木放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>○◎</li>
+<li><a href="../Page/信越放送.md" title="wikilink">信越放送</a>○◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></li>
 </ul></td>
 <td><ul>
@@ -70,18 +70,18 @@
 <li><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>○</li>
 <li><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ</a>○</li>
 <li><a href="../Page/京都放送.md" title="wikilink">KBS京都</a>○</li>
-<li><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a>◎</li>
+<li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/MBSラジオ" title="wikilink">毎日放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>▲</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a>○◎</li>
 <li><a href="../Page/中国放送.md" title="wikilink">中国放送</a>◎</li>
-<li><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>▲</li>
+<li><a href="../Page/山口放送.md" title="wikilink">山口放送</a>▲</li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/KBCラジオ" title="wikilink">九州朝日放送</a>○◎</li>
+<li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>○◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>○</li>
 <li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></li>

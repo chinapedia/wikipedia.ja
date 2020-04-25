@@ -1,4 +1,4 @@
-> この記事は[Digi](https://ja.wikipedia.org/wiki/Digi)から翻訳されています。
+> この記事は[山佐Digiシリーズ](https://ja.wikipedia.org/wiki/山佐Digiシリーズ)から翻訳されています。
 
 
 **山佐Digiシリーズ**（やまさでじシリーズ）は[パチスロ](../Page/パチスロ.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")[山佐](../Page/山佐.md "wikilink")が販売したパチスロ機の[ゲーム](../Page/ゲーム.md "wikilink")ソフトのタイトル。過去には「ヤマサエンタテイメント」が制作・販売していたが、現在は山佐許諾のもと、[エピクロス](http://www.epx.co.jp)が制作、[ビットウェイ](../Page/ビットウェイ.md "wikilink")が販売を行っている。

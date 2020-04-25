@@ -23,4 +23,4 @@
 3.  Magical Eyes (instrumantal)
 4.  Piece of wish (instrumantal)
 
-[Category:Folder5の楽曲](https://ja.wikipedia.org/wiki/Category:Folder5の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:阿久津健太郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿久津健太郎が制作した楽曲 "wikilink") [Category:山口寛雄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山口寛雄が制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink")
+[Category:Folder5の楽曲](https://ja.wikipedia.org/wiki/Category:Folder5の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:阿久津健太郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿久津健太郎が制作した楽曲 "wikilink") [Category:山口寛雄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山口寛雄が制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")

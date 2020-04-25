@@ -1,4 +1,4 @@
-> この記事は[ TOKYO 2040](https://ja.wikipedia.org/wiki/_TOKYO_2040)から翻訳されています。
+> この記事は[バブルガムクライシス TOKYO 2040](https://ja.wikipedia.org/wiki/バブルガムクライシス_TOKYO_2040)から翻訳されています。
 
 
 『**バブルガムクライシス TOKYO 2040**』は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。全26話。毎週[水曜](../Page/水曜日.md "wikilink") 25時15分 - 25時45分（[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

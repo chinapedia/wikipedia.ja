@@ -1,4 +1,4 @@
-> この記事は[ZARD BLENDSUN \& STONE](https://ja.wikipedia.org/wiki/ZARD_BLENDSUN_\&_STONE)から翻訳されています。
+> この記事は[ZARD BLEND〜SUN \& STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND〜SUN_\&_STONE〜)から翻訳されています。
 
 
 『**ZARD BLEND〜SUN & STONE〜**』（ザード・ブレンド・サン・アンド・ストーン）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[コンピレーションアルバムである](../Page/コンピレーション・アルバム.md "wikilink")。
@@ -6,7 +6,7 @@
 ## 概要
 
   - ZARD初のセレクション・アルバムとして発売された作品。発売当時のTVスポットでは「サマー・ベストアルバム」というキャッチコピーが付けられていたため、一般的には初のベストアルバムという認識があるが、初の公式ベストアルバムは『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』であり、あくまで今作は、「夏をテーマに選曲されたセレクション・アルバム」という位置づけのアルバムとなっている。
-  - [ビーイング](../Page/ビーイング.md "wikilink")の[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が、1997年4月26日に同じビーイング所属の[B'z](../Page/B'z.md "wikilink")がかつて所属していた[BMG JAPANから](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、アーティストなどの許可を得ずに発売が決定していた『[Flash Back-B'z Early Special Titles-](../Page/Flash_Back-B'z_Early_Special_Titles-.md "wikilink")』への抗議のため、急遽同週での発売を決めた作品である。「[Flash Back-B'z Early Special Titles-](../Page/Flash_Back-B'z_Early_Special_Titles-.md "wikilink")」を参照のこと。
+  - [ビーイング](../Page/ビーイング.md "wikilink")の[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が、1997年4月26日に同じビーイング所属の[B'z](../Page/B'z.md "wikilink")がかつて所属していた[BMG JAPANから](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、アーティストなどの許可を得ずに発売が決定していた『[Flash Back -B'z Early Special Titles-](../Page/Flash_Back_-B'z_Early_Special_Titles-.md "wikilink")』への抗議のため、急遽同週での発売を決めた作品である。
   - 当初は「[Don't you see\!](../Page/Don't_you_see!.md "wikilink")」「[君に逢いたくなったら…](../Page/君に逢いたくなったら….md "wikilink")」収録のオリジナルアルバムが予定されていたが、急遽変更となった経緯がある。そのためこの2作のシングルは後のオリジナルアルバムへは未収録となった。
   - 全曲が[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")されており、数曲がマイケル・ブラウワーなどによってリミックスされた。マイケル・ブラウワーへのミックス依頼は、坂井泉水の希望によるものである\[1\]。デビュー曲「[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")」のヴォーカルは新たに録音された音源である。
 

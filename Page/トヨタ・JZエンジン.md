@@ -1,4 +1,4 @@
-> この記事は[JZ](https://ja.wikipedia.org/wiki/JZ)から翻訳されています。
+> この記事は[トヨタ・JZエンジン](https://ja.wikipedia.org/wiki/トヨタ・JZエンジン)から翻訳されています。
 
 
 **トヨタ・JZエンジン**は、[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")が製造する[直列6気筒](../Page/直列6気筒.md "wikilink")DOHCエンジン。[M型エンジンの後継として](../Page/トヨタ・M型エンジン.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に登場した。現在はV6の[GRエンジンが後継となっており](../Page/トヨタ・GRエンジン.md "wikilink")、補給用エンジンのみの製造となっている。

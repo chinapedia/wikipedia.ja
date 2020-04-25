@@ -1,4 +1,4 @@
-> この記事は[Acappellers](https://ja.wikipedia.org/wiki/Acappellers)から翻訳されています。
+> この記事は[A・cappellers](https://ja.wikipedia.org/wiki/A・cappellers)から翻訳されています。
 
 
 **A・cappellers**（ア・カッペラーズ）は[福岡県](../Page/福岡県.md "wikilink")出身の[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2001年結成。2003年[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりメジャーデビュー。現在は実質上、休止状態である。

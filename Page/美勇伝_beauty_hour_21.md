@@ -1,4 +1,4 @@
-> この記事は[ beauty hour 21](https://ja.wikipedia.org/wiki/_beauty_hour_21)から翻訳されています。
+> この記事は[美勇伝 beauty hour 21](https://ja.wikipedia.org/wiki/美勇伝_beauty_hour_21)から翻訳されています。
 
 
 **美勇伝 beauty hour 21**(びゆうでんビューティーアワーにじゅういち)は、[NRNネットの](../Page/全国ラジオネットワーク.md "wikilink")[ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")内で放送されている、[文化放送](../Page/文化放送.md "wikilink")製作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始。[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。
@@ -18,10 +18,10 @@
 
   - 21:50まで
       -
-        [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")・[西日本放送](../Page/西日本放送.md "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
+        [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[山口放送](../Page/山口放送.md "wikilink")・[西日本放送](../Page/西日本放送.md "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - 22:00まで
       -
-        [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")
+        [和歌山放送](../Page/和歌山放送.md "wikilink")
 
 ※メンバーの三好絵梨香の出身地である[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")と、岡田唯の出身地の[大阪府](../Page/大阪府.md "wikilink")ではネットされなかった。
 

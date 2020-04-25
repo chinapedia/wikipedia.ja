@@ -1,4 +1,4 @@
-> この記事は[Songs for Children](https://ja.wikipedia.org/wiki/Songs_for_Children)から翻訳されています。
+> この記事は[和音〜Songs for Children〜](https://ja.wikipedia.org/wiki/和音〜Songs_for_Children〜)から翻訳されています。
 
 
 『**和音〜Songs for Children〜**』（わおん ソングス・フォー・チルドレン）は、[DEEN](../Page/DEEN.md "wikilink")初のカバーアルバム。

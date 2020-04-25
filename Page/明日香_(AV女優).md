@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[明日香 \(AV女優\)](https://ja.wikipedia.org/wiki/明日香_\(AV女優\))から翻訳されています。
 
 
 **明日香**（あすか、[1982年](../Page/1982年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。趣味は映画鑑賞、掃除。

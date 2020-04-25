@@ -1,4 +1,4 @@
-> この記事は[Ba.88 \(\)](https://ja.wikipedia.org/wiki/Ba.88_\(\))から翻訳されています。
+> この記事は[Ba.88 \(航空機\)](https://ja.wikipedia.org/wiki/Ba.88_\(航空機\))から翻訳されています。
 
 
 [Breda_Ba88.jpg](https://ja.wikipedia.org/wiki/File:Breda_Ba88.jpg "fig:Breda_Ba88.jpg") **Ba.88**は、[イタリア](../Page/イタリア.md "wikilink")の[ブレダ社が開発した双発の](../Page/ソチエタ・イタリアーナ・エルネスト・ブレーダ・ペル・コストゥルツィオーニ・メッカニケ.md "wikilink")[イタリア空軍](../Page/イタリア空軍.md "wikilink")の[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")である。元は高速戦闘機として開発された機体でイタリア空軍近代化の象徴として大量生産が命じられたが、武装を装備すると諸性能が悪化したため途中で生産打ち切りになった。

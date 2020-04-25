@@ -1,4 +1,4 @@
-> この記事は[I wish \(DEEN\)](https://ja.wikipedia.org/wiki/I_wish_\(DEEN\))から翻訳されています。
+> この記事は[I wish \(DEENのアルバム\)](https://ja.wikipedia.org/wiki/I_wish_\(DEENのアルバム\))から翻訳されています。
 
 
 **I wish**（アイ・ウィッシュ）は[DEEN](../Page/DEEN.md "wikilink")の2ndアルバム。

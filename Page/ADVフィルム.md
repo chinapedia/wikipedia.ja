@@ -1,4 +1,4 @@
-> この記事は[ADV](https://ja.wikipedia.org/wiki/ADV)から翻訳されています。
+> この記事は[ADVフィルム](https://ja.wikipedia.org/wiki/ADVフィルム)から翻訳されています。
 
 
 **ADVフィルム**（エーティーブイフィルム、ADV Films）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にかつて存在していたアニメ関係に特化した販売代理店\[1\]。[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")に存在する[ADヴィジョン](https://ja.wikipedia.org/wiki/ADヴィジョン "wikilink")社の子会社で\[2\]\[3\]、アニメ・特撮作品の配給、英語吹替の制作、販売などを行い、北米最大手の会社に数えられ、[北アメリカ](../Page/北アメリカ.md "wikilink")と[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の両方でアニメを流通させていた\[4\]。

@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[NEWSレコード](https://ja.wikipedia.org/wiki/NEWSレコード)から翻訳されています。
 
 
 **NEWSレコード**（ニューズレコード）は、かつて日本に存在した[レコード会社](../Page/レコード会社.md "wikilink")。1985年に事業解散。

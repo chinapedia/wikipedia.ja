@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マッカビ・テルアビブFC](https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC)から翻訳されています。
 
 
 **マッカビ・テルアビブFC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")の都市[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

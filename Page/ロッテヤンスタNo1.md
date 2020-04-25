@@ -1,4 +1,4 @@
-> この記事は[No1](https://ja.wikipedia.org/wiki/No1)から翻訳されています。
+> この記事は[ロッテヤンスタNo1](https://ja.wikipedia.org/wiki/ロッテヤンスタNo1)から翻訳されています。
 
 
 『**ロッテヤンスタNo1**』（ロッテヤンスタナンバーワン）は、[1975年](../Page/1975年.md "wikilink")[8月](../Page/8月.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで、[土曜日](../Page/土曜日.md "wikilink")の夜に放送されていた[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作の[公開録音](https://ja.wikipedia.org/wiki/公開録音 "wikilink")形式の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

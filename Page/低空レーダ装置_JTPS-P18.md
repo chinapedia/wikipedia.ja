@@ -1,4 +1,4 @@
-> この記事は[ JTPS-P18](https://ja.wikipedia.org/wiki/_JTPS-P18)から翻訳されています。
+> この記事は[低空レーダ装置 JTPS-P18](https://ja.wikipedia.org/wiki/低空レーダ装置_JTPS-P18)から翻訳されています。
 
 
 **低空レーダ装置 JTPS-P18**（ていくうレーダそうち ジェイティーピーエスピーじゅうはち）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が運用している対空[レーダー](../Page/レーダー.md "wikilink")。[高射特科部隊に配備されている](https://ja.wikipedia.org/wiki/砲兵#自衛隊 "wikilink")\[1\]。開発・製造は[三菱電機](../Page/三菱電機.md "wikilink")\[2\]。

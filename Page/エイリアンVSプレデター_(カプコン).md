@@ -1,4 +1,4 @@
-> この記事は[VS \(\)](https://ja.wikipedia.org/wiki/VS_\(\))から翻訳されています。
+> この記事は[エイリアンVSプレデター \(カプコン\)](https://ja.wikipedia.org/wiki/エイリアンVSプレデター_\(カプコン\))から翻訳されています。
 
 
 『**エイリアンVSプレデター**』は、[カプコン](../Page/カプコン.md "wikilink")が[1994年](../Page/1994年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。

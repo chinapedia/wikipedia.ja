@@ -1,4 +1,4 @@
-> この記事は[HUMAN \(T-SQUARE\)](https://ja.wikipedia.org/wiki/HUMAN_\(T-SQUARE\))から翻訳されています。
+> この記事は[HUMAN \(T-SQUAREのアルバム\)](https://ja.wikipedia.org/wiki/HUMAN_\(T-SQUAREのアルバム\))から翻訳されています。
 
 
 『**HUMAN**』（ヒューマン）は、[T-SQUARE](../Page/T-SQUARE.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にリリースされた。

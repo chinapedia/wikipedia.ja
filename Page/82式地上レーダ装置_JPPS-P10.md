@@ -1,4 +1,4 @@
-> この記事は[82 JPPS-P10](https://ja.wikipedia.org/wiki/82_JPPS-P10)から翻訳されています。
+> この記事は[82式地上レーダ装置 JPPS-P10](https://ja.wikipedia.org/wiki/82式地上レーダ装置_JPPS-P10)から翻訳されています。
 
 
 **82式地上レーダ装置 JPPS-P10**は、[富士通](../Page/富士通.md "wikilink")が製作していた[レーダー](../Page/レーダー.md "wikilink")。後に**地上レーダ装置2号**と改称した\[1\]。

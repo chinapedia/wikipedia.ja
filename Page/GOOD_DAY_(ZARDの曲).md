@@ -1,4 +1,4 @@
-> この記事は[GOOD DAY \(ZARD\)](https://ja.wikipedia.org/wiki/GOOD_DAY_\(ZARD\))から翻訳されています。
+> この記事は[GOOD DAY \(ZARDの曲\)](https://ja.wikipedia.org/wiki/GOOD_DAY_\(ZARDの曲\))から翻訳されています。
 
 
 「**GOOD DAY**」（グッド・デイ）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の27作目の[シングル](../Page/シングル.md "wikilink")。

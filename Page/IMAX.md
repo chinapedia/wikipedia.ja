@@ -105,7 +105,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a><a href="../Page/中央区_(札幌市).md" title="wikilink">中央区</a></p></td>
 <td></td>
 <td><p>1993年開館のIMAXシアターを改修。<br />
-縦20.0m×横27.0mのスクリーンサイズは公表されているものとしては2018年現在日本最大である。</p></td>
+縦20.0m×横27.0mのスクリーンサイズは公表されているものとしては2018年現在日本最大である。 2019年11月8日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/TOHOシネマズ" title="wikilink">TOHOシネマズ</a><a href="../Page/仙台パルコ.md" title="wikilink">仙台</a></p></td>
@@ -129,7 +129,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p>ユナイテッドシネマ<a href="https://ja.wikipedia.org/wiki/浦和パルコ" title="wikilink">浦和</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a><a href="https://ja.wikipedia.org/wiki/浦和区" title="wikilink">浦和区</a></p></td>
 <td></td>
-<td><p>※</p></td>
+<td><p>※ 2020年3月20日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/USシネマ.md" title="wikilink">USシネマ</a><a href="https://ja.wikipedia.org/wiki/ユニモちはら台" title="wikilink">ちはら台</a></p></td>
@@ -167,7 +167,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p>ユナイテッドシネマとしまえん</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/練馬区" title="wikilink">練馬区</a></p></td>
 <td></td>
-<td><p>※</p></td>
+<td><p>※ 2020年3月14日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
 <tr class="even">
 <td><p>TOHOシネマズ<a href="https://ja.wikipedia.org/wiki/新宿東宝ビル" title="wikilink">新宿</a></p></td>
@@ -191,7 +191,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p>109シネマズ<a href="../Page/二子玉川.md" title="wikilink">二子玉川</a></p></td>
 <td><p><a href="../Page/世田谷区.md" title="wikilink">世田谷区</a></p></td>
 <td></td>
-<td><p>シネマコンプレックス開業時よりIMAXデジタルシアターに加え、12chサウンドシステムを導入。</p></td>
+<td><p>シネマコンプレックス開業時よりIMAXデジタルシアターに加え、12chサウンドシステムを導入。 2020年3月20日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
 <tr class="even">
 <td><p>109シネマズ<a href="../Page/南町田グランベリーパーク.md" title="wikilink">グランベリーパーク</a></p></td>
@@ -226,92 +226,98 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td><p>シネマコンプレックス開業時よりIMAXデジタルシアターを導入。</p></td>
 </tr>
 <tr class="odd">
+<td><p>シネマサンシャインららぽーと沼津</p></td>
+<td><p>静岡県沼津市</p></td>
+<td><p>2019年10月４日</p></td>
+<td><p>IMAX 4Kレーザー投影システム・12chサウンドシステムを導入。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ユナイテッドシネマ豊橋18" title="wikilink">ユナイテッドシネマ豊橋18</a></p></td>
 <td><p><a href="../Page/豊橋市.md" title="wikilink">豊橋市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イオンエンターテインメント" title="wikilink">イオンシネマ</a><a href="../Page/イオンモール大高.md" title="wikilink">大高</a></p></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a><a href="../Page/緑区_(名古屋市).md" title="wikilink">緑区</a></p></td>
 <td></td>
 <td><p>※<br />
 イオンシネマ系列の映画館としては、最初のIMAX導入スクリーンとなる。IMAX導入以前はULTIRAスクリーンを採用していた[11]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>109シネマズ<a href="../Page/マーケットスクエアささしま.md" title="wikilink">名古屋</a></p></td>
 <td><p>名古屋市<a href="../Page/中村区.md" title="wikilink">中村区</a></p></td>
 <td></td>
 <td><p>2018年11月23日よりIMAX 4Kレーザー投影システム・12chサウンドシステムを導入[12]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TOHOシネマズ<a href="../Page/BiVi二条.md" title="wikilink">二条</a></p></td>
 <td><p><a href="../Page/京都市.md" title="wikilink">京都市</a><a href="../Page/中京区.md" title="wikilink">中京区</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>109シネマズ<a href="https://ja.wikipedia.org/wiki/EXPOCITY" title="wikilink">大阪エキスポシティ</a></p></td>
 <td><p><a href="../Page/吹田市.md" title="wikilink">吹田市</a></p></td>
 <td></td>
 <td><p>「IMAX®レーザー／GTテクノロジー」（旧名称：IMAX®次世代レーザー）・12chサウンドシステムを導入。<br />
 スクリーン縦18m×横26m。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>109シネマズ<a href="../Page/みのおキューズモール.md" title="wikilink">箕面</a></p></td>
 <td><p><a href="../Page/箕面市.md" title="wikilink">箕面市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TOHOシネマズ<a href="../Page/なんばマルイ.md" title="wikilink">なんば</a></p></td>
 <td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区</a></p></td>
 <td></td>
 <td><p>12chサウンドシステムを導入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ユナイテッドシネマ<a href="../Page/岸和田カンカンベイサイドモール.md" title="wikilink">岸和田</a></p></td>
 <td><p><a href="../Page/岸和田市.md" title="wikilink">岸和田市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>シネマサンシャイン<a href="https://ja.wikipedia.org/wiki/イオンモール大和郡山" title="wikilink">大和郡山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大和郡山市" title="wikilink">大和郡山市</a></p></td>
 <td></td>
-<td><p>シネマコンプレックス開業時よりIMAXデジタルシアターを導入。</p></td>
+<td><p>シネマコンプレックス開業時よりIMAXデジタルシアターを導入。 2019年11月22日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フジグラン神辺#福山エーガル8シネマズ" title="wikilink">福山エーガル8シネマズ</a></p></td>
 <td><p><a href="../Page/福山市.md" title="wikilink">福山市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イオンモール広島府中#広島バルト11" title="wikilink">広島バルト11</a></p></td>
 <td><p><a href="../Page/安芸郡_(広島県).md" title="wikilink">安芸郡</a><a href="../Page/府中町.md" title="wikilink">府中町</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>シネマサンシャイン衣山</p></td>
 <td><p><a href="../Page/松山市.md" title="wikilink">松山市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ユナイテッドシネマ<a href="../Page/キャナルシティ博多.md" title="wikilink">キャナルシティ</a>13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a>博多区</p></td>
 <td></td>
-<td><p>※</p></td>
+<td><p>※ 2020年3月6日よりIMAX 4Kレーザー投影システム・12chサウンドシステムに更新。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/有楽興行" title="wikilink">鹿児島ミッテ10</a></p></td>
 <td><p><a href="../Page/鹿児島市.md" title="wikilink">鹿児島市</a></p></td>
 <td></td>
 <td><p>※</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ユナイテッド・シネマ<a href="https://ja.wikipedia.org/wiki/サンエー浦添西海岸_PARCO_CITY" title="wikilink">PARCO CITY 浦添</a></p></td>
 <td><p><a href="../Page/浦添市.md" title="wikilink">浦添市</a></p></td>
 <td></td>
@@ -498,51 +504,297 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 
 #### 2019年
 
-| 作品名                                                                                           | 公開日         | 3D | 2D | 備考                     |
-| --------------------------------------------------------------------------------------------- | ----------- | -- | -- | ---------------------- |
-| **[クリード 炎の宿敵](https://ja.wikipedia.org/wiki/クリード_炎の宿敵 "wikilink")**                           | 2019年1月11日  |    | ○  |                        |
-| **[TAXi ダイヤモンド・ミッション](https://ja.wikipedia.org/wiki/TAXi_ダイヤモンド・ミッション "wikilink")**           | 2019年1月11日  |    | ○  |                        |
-| **[メリー・ポピンズ リターンズ](https://ja.wikipedia.org/wiki/メリー・ポピンズ_リターンズ "wikilink")**                 | 2019年2月1日   |    | ○  |                        |
-| **[ファースト・マン](https://ja.wikipedia.org/wiki/ファースト・マン "wikilink")**                             | 2019年2月8日   |    | ○  | IMAXカメラ使用              |
-| **[アクアマン](https://ja.wikipedia.org/wiki/アクアマン "wikilink")**                                   | 2019年2月8日   | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[アリータ: バトル・エンジェル](https://ja.wikipedia.org/wiki/アリータ:_バトル・エンジェル "wikilink")**               | 2019年2月22日  | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[スパイダーマン: スパイダーバース](https://ja.wikipedia.org/wiki/スパイダーマン:_スパイダーバース "wikilink")**           | 2019年3月1日   | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[キャプテン・マーベル](https://ja.wikipedia.org/wiki/キャプテン・マーベル "wikilink")**                         | 2019年3月8日   | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[バンブルビー](https://ja.wikipedia.org/wiki/バンブルビー_\(映画\) "wikilink")**                          | 2019年3月22日  | ○  |    |                        |
-| **[ダンボ](https://ja.wikipedia.org/wiki/ダンボ_\(2019年の映画\) "wikilink")**                          | 2019年3月29日  |    | ○  |                        |
-| **[シャザム\!](https://ja.wikipedia.org/wiki/シャザム!_\(映画\) "wikilink")**                           | 2019年4月14日  | ○  |    |                        |
-| **[アベンジャーズ/エンドゲーム](https://ja.wikipedia.org/wiki/アベンジャーズ/エンドゲーム "wikilink")**                 | 2019年4月26日  | ○  |    | IMAXカメラ使用              |
-| **[名探偵ピカチュウ](https://ja.wikipedia.org/wiki/名探偵ピカチュウ "wikilink")**                             | 2019年5月17日  | ○  |    |                        |
-| **[ゴジラ キング・オブ・モンスターズ](https://ja.wikipedia.org/wiki/ゴジラ_キング・オブ・モンスターズ "wikilink")**           | 2019年5月31日  | ○  |    |                        |
-| **[アラジン](https://ja.wikipedia.org/wiki/アラジン_\(2019年の映画\) "wikilink")**                        | 2019年6月7日   |    | ○  |                        |
-| **[メン・イン・ブラック:インターナショナル](https://ja.wikipedia.org/wiki/メン・イン・ブラック:インターナショナル "wikilink")**     | 2019年6月14日  | ○  |    |                        |
-| **[X-MEN: ダーク・フェニックス](https://ja.wikipedia.org/wiki/X-MEN:_ダーク・フェニックス "wikilink")**           | 2019年6月21日  | ○  |    |                        |
-| **[スパイダーマン:ファー・フロム・ホーム](https://ja.wikipedia.org/wiki/スパイダーマン:ファー・フロム・ホーム "wikilink")**       | 2019年6月28日  | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[トイ・ストーリー4](https://ja.wikipedia.org/wiki/トイ・ストーリー4 "wikilink")**                           | 2019年7月12日  |    | ○  |                        |
-| **[ワイルド・スピード/スーパーコンボ](https://ja.wikipedia.org/wiki/ワイルド・スピード/スーパーコンボ "wikilink")**           | 2019年8月2日   |    | ○  |                        |
-| **[ライオン・キング](https://ja.wikipedia.org/wiki/ライオン・キング_\(2019年の映画\) "wikilink")**                | 2019年8月9日   |    | ○  | 1.43:1(40%増)に拡大するシーンあり |
-| **[ワンス・アポン・ア・タイム・イン・ハリウッド](https://ja.wikipedia.org/wiki/ワンス・アポン・ア・タイム・イン・ハリウッド "wikilink")** | 2019年8月31日  |    | ○  |                        |
-| **[ブレードランナー ファイナル・カット](../Page/ブレードランナー.md "wikilink")**                                      | 2019年9月6日   |    | ○  | 9月19日までの期間限定上映         |
-| **[アナベル 死霊博物館](https://ja.wikipedia.org/wiki/アナベル_死霊博物館 "wikilink")**                         | 2019年9月20日  |    | ○  |                        |
-| **[アド・アストラ](https://ja.wikipedia.org/wiki/アド・アストラ "wikilink")**                               | 2019年9月20日  | ○  |    |                        |
-| **[ジョーカー](https://ja.wikipedia.org/wiki/ジョーカー_\(映画\) "wikilink")**                            | 2019年10月4日  |    | ○  |                        |
-| **[ジョン・ウィック:パラベラム](https://ja.wikipedia.org/wiki/ジョン・ウィック:パラベラム "wikilink")**                 | 2019年10月4日  |    | ○  |                        |
-| **[マレフィセント2](https://ja.wikipedia.org/wiki/マレフィセント2 "wikilink")**                             | 2019年10月18日 | ○  |    | 1.90:1(26%増)に拡大するシーンあり |
-| **[ジェミニマン](https://ja.wikipedia.org/wiki/ジェミニマン_\(映画\) "wikilink")**                          | 2019年10月25日 | ○  | ○  |                        |
-| **[IT/イット END “それ”が見えたら、終わり。](https://ja.wikipedia.org/wiki/IT/イット "wikilink")THE**           | 2019年11月1日  |    | ○  |                        |
-| **[ターミネーター:ニュー・フェイト](https://ja.wikipedia.org/wiki/ターミネーター:ニュー・フェイト "wikilink")**             | 2019年11月8日  | ○  |    |                        |
-| **[アナと雪の女王2](https://ja.wikipedia.org/wiki/アナと雪の女王2 "wikilink")**                             | 2019年11月22日 |    | ○  |                        |
-| **[ジュマンジ/ネクスト・レベル](https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル "wikilink")**                 | 2019年12月13日 | ○  |    |                        |
-| **[スター・ウォーズ/スカイウォーカーの夜明け](https://ja.wikipedia.org/wiki/スター・ウォーズ/スカイウォーカーの夜明け "wikilink")**   | 2019年12月20日 | ○  | ○  |                        |
+<table style="width:100%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 23%" />
+<col style="width: 23%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>作品名</p></th>
+<th><p>公開日</p></th>
+<th><p>3D</p></th>
+<th><p>2D</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/クリード_炎の宿敵" title="wikilink">クリード 炎の宿敵</a></strong></p></td>
+<td><p>2019年1月11日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>アメリカン・ミュージック・ジャーニー</strong></p></td>
+<td><p>2019年1月11日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>IMAXカメラ使用<br />
+1月17日までの期間限定上映</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/TAXi_ダイヤモンド・ミッション" title="wikilink">TAXi ダイヤモンド・ミッション</a></strong></p></td>
+<td><p>2019年1月18日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/メリー・ポピンズ_リターンズ" title="wikilink">メリー・ポピンズ リターンズ</a></strong></p></td>
+<td><p>2019年2月1日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ファースト・マン" title="wikilink">ファースト・マン</a></strong></p></td>
+<td><p>2019年2月8日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td><p>IMAXカメラ使用</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アクアマン" title="wikilink">アクアマン</a></strong></p></td>
+<td><p>2019年2月8日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アリータ:_バトル・エンジェル" title="wikilink">アリータ: バトル・エンジェル</a></strong></p></td>
+<td><p>2019年2月22日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/スパイダーマン:_スパイダーバース" title="wikilink">スパイダーマン: スパイダーバース</a></strong></p></td>
+<td><p>2019年3月1日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり<br />
+2019年3月1日 - 3日はIMAXのみで先行上映[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/キャプテン・マーベル" title="wikilink">キャプテン・マーベル</a></strong></p></td>
+<td><p>2019年3月15日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/バンブルビー_(映画)" title="wikilink">バンブルビー</a></strong></p></td>
+<td><p>2019年3月22日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ダンボ_(2019年の映画)" title="wikilink">ダンボ</a></strong></p></td>
+<td><p>2019年3月29日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/シャザム!_(映画)" title="wikilink">シャザム!</a></strong></p></td>
+<td><p>2019年4月19日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アベンジャーズ/エンドゲーム" title="wikilink">アベンジャーズ/エンドゲーム</a></strong></p></td>
+<td><p>2019年4月26日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>IMAXカメラ使用</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/名探偵ピカチュウ" title="wikilink">名探偵ピカチュウ</a></strong></p></td>
+<td><p>2019年5月17日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ゴジラ_キング・オブ・モンスターズ" title="wikilink">ゴジラ キング・オブ・モンスターズ</a></strong></p></td>
+<td><p>2019年5月31日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アラジン_(2019年の映画)" title="wikilink">アラジン</a></strong></p></td>
+<td><p>2019年6月7日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/メン・イン・ブラック:インターナショナル" title="wikilink">メン・イン・ブラック:インターナショナル</a></strong></p></td>
+<td><p>2019年6月14日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/X-MEN:_ダーク・フェニックス" title="wikilink">X-MEN: ダーク・フェニックス</a></strong></p></td>
+<td><p>2019年6月21日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/スパイダーマン:ファー・フロム・ホーム" title="wikilink">スパイダーマン:ファー・フロム・ホーム</a></strong></p></td>
+<td><p>2019年6月28日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/トイ・ストーリー4" title="wikilink">トイ・ストーリー4</a></strong></p></td>
+<td><p>2019年7月12日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ワイルド・スピード/スーパーコンボ" title="wikilink">ワイルド・スピード/スーパーコンボ</a></strong></p></td>
+<td><p>2019年8月2日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ライオン・キング_(2019年の映画)" title="wikilink">ライオン・キング</a></strong></p></td>
+<td><p>2019年8月9日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td><p>1.43:1(40%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ワンス・アポン・ア・タイム・イン・ハリウッド" title="wikilink">ワンス・アポン・ア・タイム・イン・ハリウッド</a></strong></p></td>
+<td><p>2019年8月31日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/ブレードランナー.md" title="wikilink">ブレードランナー ファイナル・カット</a></strong></p></td>
+<td><p>2019年9月6日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td><p>9月19日までの期間限定上映</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アナベル_死霊博物館" title="wikilink">アナベル 死霊博物館</a></strong></p></td>
+<td><p>2019年9月20日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アド・アストラ" title="wikilink">アド・アストラ</a></strong></p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジョーカー_(映画)" title="wikilink">ジョーカー</a></strong></p></td>
+<td><p>2019年10月4日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジョン・ウィック:パラベラム" title="wikilink">ジョン・ウィック:パラベラム</a></strong></p></td>
+<td><p>2019年10月4日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/マレフィセント2" title="wikilink">マレフィセント2</a></strong></p></td>
+<td><p>2019年10月18日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td><p>1.90:1(26%増)に拡大するシーンあり</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジェミニマン_(映画)" title="wikilink">ジェミニマン</a></strong></p></td>
+<td><p>2019年10月25日</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/IT/イット" title="wikilink">IT/イット END “それ”が見えたら、終わり。</a>THE</strong></p></td>
+<td><p>2019年11月1日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ターミネーター:ニュー・フェイト" title="wikilink">ターミネーター:ニュー・フェイト</a></strong></p></td>
+<td><p>2019年11月8日</p></td>
+<td><p>○</p></td>
+<td><p>|</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/T-34_レジェンド・オブ・ウォー" title="wikilink">T-34 レジェンド・オブ・ウォー ダイナミック完全版</a></strong></p></td>
+<td><p>2019年11月15日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アナと雪の女王2" title="wikilink">アナと雪の女王2</a></strong></p></td>
+<td><p>2019年11月22日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>ジーザス・イズ・キング</strong></p></td>
+<td><p>2019年12月6日</p></td>
+<td></td>
+<td><p>○</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シネマサンシャイン#関東" title="wikilink">グランドシネマサンシャインにて</a>12月6日 - 8日、13日 - 15日の期間限定上映[16][17]</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル" title="wikilink">ジュマンジ/ネクスト・レベル</a></strong></p></td>
+<td><p>2019年12月13日</p></td>
+<td><p>○</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/スター・ウォーズ/スカイウォーカーの夜明け" title="wikilink">スター・ウォーズ/スカイウォーカーの夜明け</a></strong></p></td>
+<td><p>2019年12月20日</p></td>
+<td><p>○</p></td>
+<td><p>○</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 2020年
 
-| 作品名                                                                       | 公開日            | 3D | 2D | 備考     |
-| ------------------------------------------------------------------------- | -------------- | -- | -- | ------ |
-| **[フォードvsフェラーリ](https://ja.wikipedia.org/wiki/フォードvsフェラーリ "wikilink")**   | 2019年1月10日     |    | ○  |        |
-| **[キャッツ](https://ja.wikipedia.org/wiki/キャッツ_\(映画\) "wikilink")**          | 2019年1月24日     |    | ○  |        |
-| **[1917 命をかけた伝令](https://ja.wikipedia.org/wiki/1917_命をかけた伝令 "wikilink")** | 2019年2月14日     |    | ○  |        |
-| **[地獄の黙示録 ファイナル・カット](../Page/地獄の黙示録.md "wikilink")**                      | 2019年2月28日公開予定 |    | ○  | 期間限定上映 |
+| 作品名                                                                                                         | 公開日        | 3D | 2D | 備考     |
+| ----------------------------------------------------------------------------------------------------------- | ---------- | -- | -- | ------ |
+| **[フォードvsフェラーリ](https://ja.wikipedia.org/wiki/フォードvsフェラーリ "wikilink")**                                     | 2019年1月10日 |    | ○  |        |
+| **[キャッツ](https://ja.wikipedia.org/wiki/キャッツ_\(映画\) "wikilink")**                                            | 2019年1月24日 |    | ○  |        |
+| **[1917 命をかけた伝令](https://ja.wikipedia.org/wiki/1917_命をかけた伝令 "wikilink")**                                   | 2019年2月14日 |    | ○  |        |
+| **[地獄の黙示録 ファイナル・カット](../Page/地獄の黙示録.md "wikilink")**                                                        | 2019年2月28日 |    | ○  | 期間限定上映 |
+| **[ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY](https://ja.wikipedia.org/wiki/ハーレイ・クインの華麗なる覚醒_BIRDS_OF_PREY "wikilink")** | 2019年3月20日 |    | ○  |        |
 
 ### 邦画
 
@@ -558,6 +810,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 | **[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")**                                             | 2017年12月1日  |                |
 | **[ドラゴンボール超 ブロリー](https://ja.wikipedia.org/wiki/ドラゴンボール超_ブロリー "wikilink")**            | 2018年12月24日 |                |
 | **[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")**                              | 2019年7月19日  |                |
+| **[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(漫画\)#アニメ映画版 "wikilink")**              | 2020年4月3日   |                |
 
 ## 脚注
 
@@ -601,3 +854,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 11.
 12.
 13.
+14.
+15.
+16.
+17.

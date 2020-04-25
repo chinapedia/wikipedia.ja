@@ -1,4 +1,4 @@
-> この記事は[Lucy \(\)](https://ja.wikipedia.org/wiki/Lucy_\(\))から翻訳されています。
+> この記事は[Lucy \(坂本真綾のアルバム\)](https://ja.wikipedia.org/wiki/Lucy_\(坂本真綾のアルバム\))から翻訳されています。
 
 
 **Lucy**（ルーシー）は、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")の3作目のオリジナルアルバム。

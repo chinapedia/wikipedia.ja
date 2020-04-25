@@ -1,4 +1,4 @@
-> この記事は[ARISA \(AV\)](https://ja.wikipedia.org/wiki/ARISA_\(AV\))から翻訳されています。
+> この記事は[ARISA \(AV女優\)](https://ja.wikipedia.org/wiki/ARISA_\(AV女優\))から翻訳されています。
 
 
 **ARISA**（ありさ、[1982年](../Page/1982年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。

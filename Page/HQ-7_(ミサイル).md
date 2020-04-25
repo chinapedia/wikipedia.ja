@@ -1,4 +1,4 @@
-> この記事は[HQ-7 \(\)](https://ja.wikipedia.org/wiki/HQ-7_\(\))から翻訳されています。
+> この記事は[HQ-7 \(ミサイル\)](https://ja.wikipedia.org/wiki/HQ-7_\(ミサイル\))から翻訳されています。
 
 
 **HQ-7**（红旗/HongQi-7、輸出名：FM-80）は、[中国の短距離](../Page/中華人民共和国.md "wikilink")[対空ミサイルである](https://ja.wikipedia.org/wiki/ミサイル#対空ミサイル "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[クロタル](../Page/クロタル_\(ミサイル\).md "wikilink")[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")を[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")し、その技術を元に開発された。

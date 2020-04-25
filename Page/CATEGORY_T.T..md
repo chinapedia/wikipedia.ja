@@ -80,7 +80,7 @@
 ## 関連項目
 
   - [TOGGY'S T.T.](https://ja.wikipedia.org/wiki/TOGGY'S_T.T. "wikilink") - この番組の後継番組。
-  - [ブギウギラジオ](../Page/ブギウギラジオ.md "wikilink") - TOGGYが[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で担当しているレギュラー番組
+  - [ブギウギラジオ](../Page/ブギウギラジオ.md "wikilink") - TOGGYが[KBCラジオ](../Page/KBCラジオ.md "wikilink")で担当しているレギュラー番組
 
 <!-- end list -->
 

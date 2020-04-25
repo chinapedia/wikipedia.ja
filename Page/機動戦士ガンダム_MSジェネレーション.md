@@ -1,4 +1,4 @@
-> この記事は[ MS](https://ja.wikipedia.org/wiki/_MS)から翻訳されています。
+> この記事は[機動戦士ガンダム MSジェネレーション](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MSジェネレーション)から翻訳されています。
 
 
 『**機動戦士ガンダム MSジェネレーション**』（きどうせんしガンダム えむえすジェネレーション、*Mobile Suit Gundam MS GENERATION*）は、[中原れい](../Page/中原れい.md "wikilink")によるアニメ『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

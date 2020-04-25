@@ -1,4 +1,4 @@
-> この記事は[boon](https://ja.wikipedia.org/wiki/boon)から翻訳されています。
+> この記事は[航空館boon](https://ja.wikipedia.org/wiki/航空館boon)から翻訳されています。
 
 
 **航空館boon**（こうくうかんブーン）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[西春日井郡](../Page/西春日井郡.md "wikilink")[豊山町](../Page/豊山町.md "wikilink")の[神明公園](../Page/神明公園.md "wikilink")内にある、豊山町立の[航空機](../Page/航空機.md "wikilink")関係の資料館である。

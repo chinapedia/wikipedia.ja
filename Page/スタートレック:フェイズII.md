@@ -1,4 +1,4 @@
-> この記事は[:II](https://ja.wikipedia.org/wiki/:II)から翻訳されています。
+> この記事は[スタートレック:フェイズII](https://ja.wikipedia.org/wiki/スタートレック:フェイズII)から翻訳されています。
 
 
 『**スタートレック:フェイズII**』は『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズ最初の作品、『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』の直接的な続編として企画された[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

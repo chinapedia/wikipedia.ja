@@ -1,4 +1,4 @@
-> この記事は[ III ](https://ja.wikipedia.org/wiki/_III_)から翻訳されています。
+> この記事は[シャロム 魔城伝説III 完結編](https://ja.wikipedia.org/wiki/シャロム_魔城伝説III_完結編)から翻訳されています。
 
 
 『**シャロム 魔城伝説III 完結編**』(シャロム まじょうでんせつスリー かんけつへん、英題: ** )は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用に発売したゲームソフト。

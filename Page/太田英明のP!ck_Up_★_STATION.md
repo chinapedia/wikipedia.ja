@@ -1,4 +1,4 @@
-> この記事は[P!ck Up  STATION](https://ja.wikipedia.org/wiki/P!ck_Up__STATION)から翻訳されています。
+> この記事は[太田英明のP!ck Up ★ STATION](https://ja.wikipedia.org/wiki/太田英明のP!ck_Up_★_STATION)から翻訳されています。
 
 
 **太田英明のP\!ck Up ★ STATION**（おおたひであきのぴっくあっぷすてーしょん）は、[文化放送](../Page/文化放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2004年10月のスタート時から[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[ハマモトヒロユキ](https://ja.wikipedia.org/wiki/ハマモトヒロユキ "wikilink")がパーソナリティーを務めていたが、2007年9月で降板。同年10月からは[太田英明](../Page/太田英明.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")がパーソナリティーを務めている。 2008年4月9日からは新たに[COON](https://ja.wikipedia.org/wiki/COON "wikilink")が加わって番組タイトルも「太田英明とCOONのP\!ck Up ★ STATION」とリニューアルされている。

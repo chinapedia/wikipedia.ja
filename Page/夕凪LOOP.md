@@ -1,4 +1,4 @@
-> この記事は[LOOP](https://ja.wikipedia.org/wiki/LOOP)から翻訳されています。
+> この記事は[夕凪LOOP](https://ja.wikipedia.org/wiki/夕凪LOOP)から翻訳されています。
 
 
 『**夕凪LOOP**』（ゆうなぎループ）は、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")の5作目のオリジナルアルバム。

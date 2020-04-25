@@ -1,4 +1,4 @@
-> この記事は[OH JAPAN OUR TIME IS NOW](https://ja.wikipedia.org/wiki/OH_JAPAN_OUR_TIME_IS_NOW)から翻訳されています。
+> この記事は[OH JAPAN 〜OUR TIME IS NOW〜](https://ja.wikipedia.org/wiki/OH_JAPAN_〜OUR_TIME_IS_NOW〜)から翻訳されています。
 
 
 『**OH JAPAN 〜OUR TIME IS NOW〜**』（オー・ジャパン 〜アワ・タイム・イズ・ナウ〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")を中心に結成された[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[TMGがリリースした](../Page/TMG_\(バンド\).md "wikilink")、1枚目の[シングル](../Page/シングル.md "wikilink")である。
@@ -15,7 +15,7 @@
         新年早々の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で1週間で制作した。タイアップの関係で、曲よりも発売日が先に決まっていたという。
         松本は日本のためのアンセムみたいな曲を書けないかと夢見ていた。
         タイアップの関係で、松本は“JAPAN”をタイトルに使うよう二人に伝えていた。そのため、歌詞はタイアップを意識してポジティヴな気持ちをこめて書いたという。
-        本作を引っさげ、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! 春の桜満開\!日本全国縦断生中継スペシャル\!\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』や[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV 01 はなわまおー](../Page/AX_MUSIC-TV.md "wikilink")』に出演したが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")が参加できず、その時のエリックの代役を[ベースのジャック](../Page/ベース_\(弦楽器\).md "wikilink")・ブレイズが務めた。
+        本作を引っさげ、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! 春の桜満開\!日本全国縦断生中継スペシャル\!\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』や[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV 01 はなわまおー](../Page/AX_MUSIC-TV.md "wikilink")』に出演したが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")が参加できず、その時のエリックの代役を[ベースのジャック](../Page/ベース_\(弦楽器\).md "wikilink")・ブレイズが務めた。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[目黒雅叙園](../Page/目黒雅叙園.md "wikilink")で松本のみ撮影されたものと、外国人メンバーが来日した際に撮影したバンド演奏の映像を、合わせたものとなっている。
         曲の冒頭で松本が[日本語](../Page/日本語.md "wikilink")の[ラップ](../Page/ラップ.md "wikilink")を担当しているが、松本は初めエリックとジャックに歌ってもらうつもりだったという。
 2.  **TRAPPED** （3:41）

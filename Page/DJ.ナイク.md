@@ -1,9 +1,9 @@
-> この記事は[DJ.](https://ja.wikipedia.org/wiki/DJ.)から翻訳されています。
+> この記事は[DJ.ナイク](https://ja.wikipedia.org/wiki/DJ.ナイク)から翻訳されています。
 
 
-**DJ.ナイク**（ディージェー．ないく、[6月19日](../Page/6月19日.md "wikilink") - ）は、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")・[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。
+**DJ.ナイク**（ディージェイ.ないく、[6月19日](../Page/6月19日.md "wikilink") - ）は、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")・[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。
 
-以前は本名である**内藤忠**（ないとう ただし）で活動していたが、徐々に現在の芸名を使用するようになる。[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")所属。生年は不明。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[俳協ボイスアクターズスタジオ](../Page/俳協ボイスアクターズスタジオ.md "wikilink")第2期生。
+以前は本名である**内藤 忠**（ないとう ただし）で活動していたが、徐々に現在の芸名を使用するようになる。[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")所属。生年は不明。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[俳協ボイスアクターズスタジオ](../Page/俳協ボイスアクターズスタジオ.md "wikilink")第2期生。
 
 ## 出演番組
 
@@ -23,9 +23,9 @@
   - [デジタルの根性](https://ja.wikipedia.org/wiki/デジタルの根性 "wikilink")(2008.10 - 、日本テレビ）
   - [ショップ・マニフィカ](../Page/ショップ・マニフィカ.md "wikilink")「[ディスコフリーク](../Page/ディスコフリーク.md "wikilink")」（[東京テレビランド](../Page/東京テレビランド.md "wikilink")）
   - [ギブアップ嬢](https://ja.wikipedia.org/wiki/ギブアップ嬢 "wikilink")（日本テレビ）
-  - [地球★アステク](https://ja.wikipedia.org/wiki/地球★アステク "wikilink")（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）
-  - [世界ナゼそこに?日本人 〜知られざる波瀾万丈伝〜](https://ja.wikipedia.org/wiki/世界ナゼそこに?日本人_〜知られざる波瀾万丈伝〜 "wikilink")（テレビ東京）
-  - [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）
+  - [地球★アステク](https://ja.wikipedia.org/wiki/地球★アステク "wikilink")（[BSジャパン](../Page/BSテレビ東京.md "wikilink")）
+  - [世界ナゼそこに?日本人 〜知られざる波瀾万丈伝〜](https://ja.wikipedia.org/wiki/ナゼそこ? "wikilink")（テレビ東京）
+  - [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")（フジテレビ）
 
 ※いずれもナレーション
 
@@ -37,12 +37,12 @@
   - [フライデイズ・キング](https://ja.wikipedia.org/wiki/フライデイズ・キング "wikilink")（TOKYO FM）
   - [MAZDA SUPER SUNDAY](../Page/MAZDA_SUPER_SUNDAY.md "wikilink")（[ラヴ・ステーション](../Page/ラヴ・ステーション.md "wikilink")内）（TOKYO FM）
   - [内藤忠と山中崇志のミリオンナイツ](../Page/ミリオンナイツ.md "wikilink")（TOKYO FM）
-  - [DJナイクのスーパーフライデーリクエスト](https://ja.wikipedia.org/wiki/DJナイクのスーパーフライデーリクエスト "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - [DJナイクのスーパーフライデーリクエスト](https://ja.wikipedia.org/wiki/DJナイクのスーパーフライデーリクエスト "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - [DJナイクのeトーク](https://ja.wikipedia.org/wiki/DJナイクのeトーク "wikilink")（[ふくしまFM](../Page/エフエム福島.md "wikilink")）
   - [雄治・ナイクのSaturday Nice Try](https://ja.wikipedia.org/wiki/雄治・ナイクのSaturday_Nice_Try "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - [D-Chance](https://ja.wikipedia.org/wiki/D-Chance "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - [Egg Station](https://ja.wikipedia.org/wiki/Egg_Station "wikilink")（[TAMAらいふ21](../Page/TAMAらいふ21.md "wikilink")の[イベントラジオ](../Page/イベント放送局.md "wikilink")、1993年4月 - 11月）
-  - [SEVEN Spirits](https://ja.wikipedia.org/wiki/SEVEN_Spirits "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - [SEVEN Spirits](https://ja.wikipedia.org/wiki/SEVEN_Spirits "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
 
 ### 映画
 

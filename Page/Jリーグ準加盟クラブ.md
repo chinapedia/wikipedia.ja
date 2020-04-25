@@ -1,7 +1,7 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグ準加盟クラブ](https://ja.wikipedia.org/wiki/Jリーグ準加盟クラブ)から翻訳されています。
 
 
-**Jリーグ準加盟クラブ**（ジェイリーグじゅんかめいクラブ）とは、2006年から2013年まで存在した、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") (JFL) 以下のカテゴリに所属しつつ、[公益社団法人日本プロサッカーリーグから](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の正会員に準じる資格を与えられたクラブである。
+**Jリーグ準加盟クラブ**（ジェイリーグじゅんかめいクラブ）とは、2006年から2013年まで存在した、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink") (JFL) 以下のカテゴリに所属しつつ、[公益社団法人日本プロサッカーリーグから](https://ja.wikipedia.org/wiki/日本プロサッカーリーグ_\(法人\) "wikilink")[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）の正会員に準じる資格を与えられたクラブである。
 
 ## 概要
 
@@ -183,7 +183,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">ツエーゲン金沢</a></p></td>
 <td><p>JFL</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金沢市" title="wikilink">金沢市</a>、<a href="https://ja.wikipedia.org/wiki/野々市市" title="wikilink">野々市市</a>、<a href="https://ja.wikipedia.org/wiki/かほく市" title="wikilink">かほく市</a>、<a href="../Page/津幡町.md" title="wikilink">津幡町</a>、<a href="../Page/内灘町.md" title="wikilink">内灘町</a>を中心とする<a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a>全県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金沢市" title="wikilink">金沢市</a>、<a href="https://ja.wikipedia.org/wiki/野々市市" title="wikilink">野々市市</a>、<a href="https://ja.wikipedia.org/wiki/かほく市" title="wikilink">かほく市</a>、<a href="../Page/津幡町.md" title="wikilink">津幡町</a>、<a href="../Page/内灘町.md" title="wikilink">内灘町</a>を中心とする<br />
+<a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a>全県</p></td>
 <td><p>2012年11月16日[32]</p></td>
 <td><p>2013年2月26日[33]</p></td>
 <td><p>2014年</p></td>
@@ -210,7 +211,8 @@
 <tr class="odd">
 <td><p><a href="../Page/ブラウブリッツ秋田.md" title="wikilink">ブラウブリッツ秋田</a></p></td>
 <td><p>JFL</p></td>
-<td><p><a href="../Page/秋田市.md" title="wikilink">秋田市</a>、<a href="../Page/にかほ市.md" title="wikilink">にかほ市</a>、<a href="../Page/由利本荘市.md" title="wikilink">由利本荘市</a>、<a href="../Page/男鹿市.md" title="wikilink">男鹿市</a>を中心とする<a href="../Page/秋田県.md" title="wikilink">秋田県</a>全県</p></td>
+<td><p><a href="../Page/秋田市.md" title="wikilink">秋田市</a>、<a href="../Page/にかほ市.md" title="wikilink">にかほ市</a>、<a href="../Page/由利本荘市.md" title="wikilink">由利本荘市</a>、<a href="../Page/男鹿市.md" title="wikilink">男鹿市</a>を中心とする<br />
+<a href="../Page/秋田県.md" title="wikilink">秋田県</a>全県</p></td>
 <td><p>2012年11月30日[38]</p></td>
 <td><p>2013年2月26日[39]</p></td>
 <td><p>2014年</p></td>

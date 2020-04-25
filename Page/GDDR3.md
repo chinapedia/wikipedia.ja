@@ -19,4 +19,4 @@ GDDR3はATIにより開発されたが、最初に採用した製品は[NVIDIA](
 
   - [GDDR5](https://ja.wikipedia.org/wiki/GDDR5 "wikilink")
 
-[Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink") [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:SDRAM](https://ja.wikipedia.org/wiki/Category:SDRAM "wikilink") [Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

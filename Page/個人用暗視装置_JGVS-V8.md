@@ -1,4 +1,4 @@
-> この記事は[ JGVS-V8](https://ja.wikipedia.org/wiki/_JGVS-V8)から翻訳されています。
+> この記事は[個人用暗視装置 JGVS-V8](https://ja.wikipedia.org/wiki/個人用暗視装置_JGVS-V8)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:個人用暗視装置_\(8464520077\).jpg "wikilink") **個人用暗視装置 JGVS-V8**（こじんようあんしそうち ジェイジーブイエス・ブイエイト）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で採用されている[暗視装置](../Page/暗視装置.md "wikilink")。

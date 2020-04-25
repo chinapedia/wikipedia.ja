@@ -23,4 +23,4 @@
 3.  Get down -Original Karaoke-
 4.  Privacy -Original Karaoke-
 
-[Category:野猿の楽曲](https://ja.wikipedia.org/wiki/Category:野猿の楽曲 "wikilink") [Category:1998年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1998年のデビュー・シングル "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
+[Category:野猿の楽曲](https://ja.wikipedia.org/wiki/Category:野猿の楽曲 "wikilink") [Category:1998年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1998年のデビュー・シングル "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")

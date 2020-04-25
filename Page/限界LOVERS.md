@@ -1,4 +1,4 @@
-> この記事は[LOVERS](https://ja.wikipedia.org/wiki/LOVERS)から翻訳されています。
+> この記事は[限界LOVERS](https://ja.wikipedia.org/wiki/限界LOVERS)から翻訳されています。
 
 
 「**限界LOVERS**」（げんかいラヴァーズ）は[SHOW-YA](../Page/SHOW-YA.md "wikilink")の8枚目のシングル。[1989年](../Page/1989年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")。

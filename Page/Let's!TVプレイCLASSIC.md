@@ -1,4 +1,4 @@
-> この記事は[Let\'s!TVCLASSIC](https://ja.wikipedia.org/wiki/Let\'s!TVCLASSIC)から翻訳されています。
+> この記事は[Let\'s!TVプレイCLASSIC](https://ja.wikipedia.org/wiki/Let\'s!TVプレイCLASSIC)から翻訳されています。
 
 
 ## 概要

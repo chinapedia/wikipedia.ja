@@ -60,6 +60,8 @@
       - リトルガーデン / まぼろしFOREVER / 平凡ギャング / IdOL / O.K. / Ghost Town / 象 / スペシャル・ボイス / CHOCO / APOLLO / ミーハーher
 7.  **Leecher** （2008年7月23日、UKDZ-0072）
       - パレード / MONSTER / トラッシュボーイ / NEW HERO / Good News / JET JUICE / チャランボ / 氷のムーン
+8.  **underground** (2019年2月6日、PCD-25274)
+      - 夢くれ / コールタール０ / jumpin / アンダーグラウンド / battle / GOD / Leaky drive / noRmaL
 
 #### ライブアルバム
 

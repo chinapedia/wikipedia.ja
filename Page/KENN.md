@@ -2619,6 +2619,27 @@
 <td><p>ゲーム『アイ★チュウ Étoile Stage』主題歌</p></td>
 </tr>
 <tr class="even">
+<td><p>5月20日</p></td>
+<td><p>ACTORS-Singing Contest Edition-sideA</p></td>
+<td><p>魚津鯆澄（<strong>KENN</strong>）</p></td>
+<td><p>「HEAVEN」</p></td>
+<td><p>キャラクターCD『ACTORS』関連曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月27日</p></td>
+<td><p>DiSCOVER THE FUTURE</p></td>
+<td></td>
+<td><p>「DiSCOVER THE FUTURE」</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/アイドリッシュセブン_Second_BEAT!" title="wikilink">アイドリッシュセブン Second BEAT!</a>』オープニングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>「Everyday Yeah!」</p></td>
+<td><p>テレビアニメ『アイドリッシュセブン Second BEAT!』関連曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>6月26日</p></td>
 <td><p>Paint It Black</p></td>
 <td></td>

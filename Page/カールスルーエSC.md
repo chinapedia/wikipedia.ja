@@ -1,7 +1,7 @@
 > この記事は[カールスルーエSC](https://ja.wikipedia.org/wiki/カールスルーエSC)から翻訳されています。
 
 
-**カールスルーエSC**（**Karlsruher SC**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")・[カールスルーエ](https://ja.wikipedia.org/wiki/カールスルーエ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[オリバー・カーン](../Page/オリバー・カーン.md "wikilink")が最初に所属したクラブ。日本人のサッカー選手では、2014年から2017年にかけて、[山田大記](https://ja.wikipedia.org/wiki/山田大記 "wikilink")が背番号10（当初は9)でプレーしていた。
+**カールスルーエSC**（**Karlsruher SC**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[バーデン＝ヴュルテンベルク州](../Page/バーデン＝ヴュルテンベルク州.md "wikilink")・[カールスルーエ](https://ja.wikipedia.org/wiki/カールスルーエ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[オリバー・カーン](../Page/オリバー・カーン.md "wikilink")が最初に所属したクラブ。日本人のサッカー選手では、2014年から2017年にかけて、[山田大記](https://ja.wikipedia.org/wiki/山田大記 "wikilink")が背番号10（当初は9）でプレーしていた。
 
 ## クラブの歴史
 
@@ -89,7 +89,7 @@
 
 ## 現所属メンバー
 
-  - [2017年](../Page/2017年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")現在
+  - 2017年8月19日現在
 
 <!-- end list -->
 

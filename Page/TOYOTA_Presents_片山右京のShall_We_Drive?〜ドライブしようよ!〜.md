@@ -30,24 +30,24 @@
   - [北海道放送](../Page/HBCラジオ.md "wikilink") (土)11:35〜11:50（末期は『[DONと赤城のおぢさんツインカム\!](https://ja.wikipedia.org/wiki/DONと赤城のおぢさんツインカム! "wikilink")』(8:30\~12:50)枠内）
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") (土)10:05〜10:20（「[岡田照幸のサタデー夢ラジオ](../Page/サタデー夢ラジオ.md "wikilink")」(9:00〜13:00)枠内）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") (土)9:03〜9:18
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") (日)8:45〜9:00
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") (日)8:45〜9:00
   - [山形放送](../Page/山形放送.md "wikilink") (土)17:20〜17:35
   - [東北放送](../Page/東北放送.md "wikilink") (日)8:45〜9:00
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") (日)9:15〜9:30
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (土)18:05〜18:20
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") (日)9:30〜9:45
+  - [信越放送](../Page/信越放送.md "wikilink") (日)9:30〜9:45
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") (日)11:10〜11:25（「[FREE STYLE](../Page/FREE_STYLE.md "wikilink")」(10:00〜13:55)枠内）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") (日)9:45〜10:00
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") (日)9:15〜9:30
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") (土)9:15〜9:30（「[どぉ～ンと土曜日](https://ja.wikipedia.org/wiki/どぉ～ンと土曜日 "wikilink")」(8:15〜11:00)枠内）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") (日)10:45〜11:00
   - [中部日本放送](../Page/CBCラジオ.md "wikilink") (土)12:15〜12:30
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") (土)14:45〜15:00
+  - [和歌山放送](../Page/和歌山放送.md "wikilink") (土)14:45〜15:00
   - [朝日放送](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink") (日)9:30〜9:45（※2005年10月〜2006年3月まで[毎日放送にネット](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink") (土)12:10〜12:25
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") (土)16:30〜16:45
   - [中国放送](../Page/中国放送.md "wikilink") (土)17:30〜17:45
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") (土)14:30〜14:45
+  - [山口放送](../Page/山口放送.md "wikilink") (土)14:30〜14:45
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") (土)10:0010:15（「[土曜ワイド徳島](https://ja.wikipedia.org/wiki/土曜ワイド徳島 "wikilink")」(8:20〜11:50)枠内）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") (土)11:35〜11:50
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") (土)11:45〜12:00

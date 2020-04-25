@@ -78,7 +78,7 @@
   - 那覇オーパ☆（[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")）
   - 上海OPA淮海店（[中国](../Page/中国.md "wikilink")[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")）
 
-ファイル:Akita OPA 20180429b.jpg|秋田オーパ ファイル: Takasaki Opa under construction 01 2017-07.jpg|高崎オーパ ファイル:VITA Seiseki-Sakuragaoka.jpg|聖蹟桜ヶ丘オーパ ファイル:Kawaramachi OPA.JPG|河原町オーパ ファイル:Shinsaibashi OPA.JPG|心斎橋オーパ ファイル:ABC Mart Umeda Building IMG 2785-2 20130505.JPG|梅田オーパ ファイル:Sannomiya Terminal Building.JPG|三宮オーパ（初代） ファイル:%C3%86ON_FOOD_STYLE_Kobe_Sannomiya_store.jpg|三宮オーパ2 ファイル:OITA_OPA.jpg|大分オーパ ファイル:那覇バスターミナル.jpg|那覇オーパ(2代目)
+ファイル:Akita OPA 20180429b.jpg|秋田オーパ ファイル: Takasaki Opa under construction 01 2017-07.jpg|高崎オーパ ファイル:VITA Seiseki-Sakuragaoka.jpg|聖蹟桜ヶ丘オーパ ファイル:Kawaramachi OPA.JPG|河原町オーパ ファイル:Shinsaibashi OPA.JPG|心斎橋オーパ ファイル:ABC Mart Umeda Building IMG 2785-2 20130505.JPG|梅田オーパ ファイル:Sannomiya Opa.jpg|三宮オーパ(2代目) ファイル:%C3%86ON_FOOD_STYLE_Kobe_Sannomiya_store.jpg|三宮オーパ2 ファイル:OITA_OPA.jpg|大分オーパ ファイル:那覇バスターミナル.jpg|那覇オーパ(2代目)
 
 ### VIVRE
 
@@ -129,7 +129,7 @@
   - [大宮オーパ](https://ja.wikipedia.org/wiki/大宮駅西口DOMショッピングセンター "wikilink")（埼玉県[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")）
     ダイエー大宮店の一部を改装し、2007年3月開店、[2017年](../Page/2017年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")閉店。
 
-ファイル:Omiya DOM Shoppingcenter.jpg|大宮オーパ ファイル:Okayama OPA.jpg|岡山オーパ ファイル:Naha OPA Kokusai Street01s3.jpg|那覇オーパ（初代）
+ファイル:Omiya DOM Shoppingcenter.jpg|大宮オーパ ファイル:Sannomiya Terminal Building.JPG|三宮オーパ（初代） ファイル:Okayama OPA.jpg|岡山オーパ ファイル:Naha OPA Kokusai Street01s3.jpg|那覇オーパ（初代）
 
 ## ポイントカード（オーパカード）
 

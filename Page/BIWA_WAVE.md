@@ -135,9 +135,9 @@
 
   - 同上 平成17年4月26日（同上)
 
-  - [コミュニティ放送局「Ｂ-ＷＡＶＥ．ＦＭ」の運用停止処分について](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2007/0109_01.html) 同上 平成20年1月9日（同上）
+  - [コミュニティ放送局「Ｂ-ＷＡＶＥ．ＦＭ」の運用停止処分について](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2007/0109_01.html) 同上 平成20年1月9日（同上）
 
-  - [滋賀県近江八幡市コミュニティ放送局の廃止届を受理](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2009/090615_01.html) 同上 平成21年6月15日（同上）
+  - [滋賀県近江八幡市コミュニティ放送局の廃止届を受理](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/kinki/new/2009/090615_01.html) 同上 平成21年6月15日（同上）
 
 [Category:かつて存在した日本のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコミュニティ放送局 "wikilink") [Category:近畿地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:近畿地方のコミュニティ放送局 "wikilink") [Category:滋賀県のマスメディア](https://ja.wikipedia.org/wiki/Category:滋賀県のマスメディア "wikilink") [Category:かつて存在した滋賀県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した滋賀県の企業 "wikilink") [Category:近江八幡市の歴史](https://ja.wikipedia.org/wiki/Category:近江八幡市の歴史 "wikilink") [Category:経営破綻した企業(滋賀県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(滋賀県\) "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:2009年廃止の企業](https://ja.wikipedia.org/wiki/Category:2009年廃止の企業 "wikilink")
 

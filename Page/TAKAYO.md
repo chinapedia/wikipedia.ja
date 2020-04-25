@@ -7,7 +7,7 @@
 
 ## 人物
 
-ZONEで一番演奏能力に長けていたメンバー。他のメンバーからは『怒ると怖い』と言われていた。 [ナス](../Page/ナス.md "wikilink")や[ビール](../Page/ビール.md "wikilink")、[納豆](../Page/納豆.md "wikilink")が大好物。敬愛する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")は[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")や[ビートルズ](../Page/ビートルズ.md "wikilink"),[The Rolling Stonesなど](../Page/ローリング・ストーンズ.md "wikilink")。家族構成では、両親と2歳下の妹がいる。犬はミック、キース、ローズがいる。
+ZONEで一番演奏能力に長けていたメンバー。他のメンバーからは『怒ると怖い』と言われていた。 [ナス](../Page/ナス.md "wikilink")や[ビール](../Page/ビール.md "wikilink")、[納豆](../Page/納豆.md "wikilink")が大好物。敬愛する[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")は[吉田拓郎](../Page/吉田拓郎.md "wikilink")や[ビートルズ](../Page/ビートルズ.md "wikilink"),[The Rolling Stonesなど](../Page/ローリング・ストーンズ.md "wikilink")。家族構成では、両親と2歳下の妹がいる。犬はミック、キース、ローズがいる。
 
 ## 来歴
 

@@ -776,7 +776,6 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
 
 ## 外部リンク
 
-  - [ゲームソフト発売スケジュール- Xbox.com](http://www.xbox.com/ja-JP/games/calendar/xbox360)
-  - [ゲーム & マーケットプレース - Xbox.com](http://marketplace.xbox.com/ja-JP/)
+  - [Xbox Games Store](http://marketplace.xbox.com/ja-JP/)
 
 [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink")

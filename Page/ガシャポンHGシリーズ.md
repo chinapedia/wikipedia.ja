@@ -174,7 +174,7 @@
 
   - HGワールド[ガンバの冒険](../Page/ガンバの冒険.md "wikilink") 1〜2
   - HGPlusアクションポーズ ドラゴンボールZ
-  - HG D+ ゴジラ 01～02
+  - HG D+ ゴジラ 01～03
   - [ウルトラマンギンガS](https://ja.wikipedia.org/wiki/ウルトラマンギンガS "wikilink") ビッグサイズなりきりウェポン\[3\]
 
 ### その他ガシャポン以外のHGシリーズ
@@ -249,7 +249,7 @@
       - HG GIRLS ゲゲゲの鬼太郎(6期) ねこ娘（ウェディングドレスVer.)
       - HG GIRLS　[勇者王ガオガイガー](../Page/勇者王ガオガイガー.md "wikilink") 卯都木命
       - HGシリーズ　[ULTRAMAN](https://ja.wikipedia.org/wiki/ULTRAMAN_\(漫画\) "wikilink") 【SET01】
-      - HG GIRLS [ARIA](https://ja.wikipedia.org/wiki/ARIA "wikilink") 水無灯里
+      - HG GIRLS [ARIA](../Page/ARIA_\(漫画\).md "wikilink") 水無灯里
       - HG GIRLS ARIA 藍華・S・グランチェスタ
       - HG GIRLS ARIA アリス・キャロル
       - HGシリーズ ドラゴンボールZ ギニュー特戦隊セット

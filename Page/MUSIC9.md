@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 2005月1月 - [堂島孝平](../Page/堂島孝平.md "wikilink")、2月 - THE BOOGIE JACK、3月 - えちうら、4月 - ウエノコウジ
+  - 2005年1月 - [堂島孝平](../Page/堂島孝平.md "wikilink")、2月 - THE BOOGIE JACK、3月 - えちうら、4月 - ウエノコウジ
 
 <!-- end list -->
 

@@ -55,7 +55,7 @@
 
   - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") 17:40 - 17:45([牧泰昌の夕やけジャーナル](https://ja.wikipedia.org/wiki/牧泰昌の夕やけジャーナル "wikilink")内)
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") 18:16 - 18:20
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") 15:55 - 16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")内）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") 15:55 - 16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")内）
   - [東北放送](../Page/東北放送.md "wikilink") 16:25 - 16:30
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") 16:20 - 16:25
   - [山形放送](../Page/山形放送.md "wikilink") 16:47 - 16:52（[YBCイブニング・スコープ](../Page/YBCイブニング・スコープ.md "wikilink")内）
@@ -64,7 +64,7 @@
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink") 16:10 - 16:15（[ゆうがたフレンズ](https://ja.wikipedia.org/wiki/ゆうがたフレンズ "wikilink")内）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") 16:25 - 16:30
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") 16:45 - 16:50
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") 16:50 - 16:55
+  - [信越放送](../Page/信越放送.md "wikilink") 16:50 - 16:55
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") 16:30 - 16:35
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 18:15 - 18:20（[牛島町モーモー喫茶 〜みなさん お疲れ様です。〜内](../Page/牛島町モーモー喫茶_〜みなさん_お疲れ様です。〜.md "wikilink")）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 16:50 - 16:54
@@ -72,12 +72,12 @@
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") 17:40 - 17:45（[安蒜豊三 夕焼けナビ内](../Page/安蒜豊三_夕焼けナビ.md "wikilink")）
   - [京都放送](../Page/京都放送.md "wikilink") 17:30 - 17:35
       - [KBS滋賀](../Page/KBS滋賀.md "wikilink") 17:30 - 17:35
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") 18:15 - 18:20
+  - [和歌山放送](../Page/和歌山放送.md "wikilink") 18:15 - 18:20
   - [朝日放送](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink") 15:26 - 15:30
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink") 17:56 - 18:00
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 16:30 - 16:35
   - [中国放送](../Page/中国放送.md "wikilink") 16:55 - 17:00（月曜のみ[道盛浩のバリシャキNOW](https://ja.wikipedia.org/wiki/道盛浩のバリシャキNOW "wikilink")内）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") 16:20 - 16:25
+  - [山口放送](../Page/山口放送.md "wikilink") 16:20 - 16:25
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 16:00 - 16:05
   - [西日本放送](../Page/西日本放送.md "wikilink") 16:15 - 16:20
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 16:10 - 16:15（[本気(まじ)?ラジ\!](https://ja.wikipedia.org/wiki/本気\(まじ\)?ラジ! "wikilink")内）

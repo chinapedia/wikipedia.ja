@@ -650,4 +650,4 @@
 
   - \- 高野真太郎のブログ
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink")

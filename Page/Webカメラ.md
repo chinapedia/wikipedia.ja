@@ -24,7 +24,7 @@
 ## 問題点
 
   - 自分の子供の様子をパソコンや携帯電話などで閲覧できることなどが人気を呼び、[保育所](../Page/保育所.md "wikilink")や[幼稚園](../Page/幼稚園.md "wikilink")、[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")などにウェブカメラが設置される例が増えているが、設定ミスなどの要因により、インターネット上で外部から丸見えの状態になっており、窓の外や背景に映ったごくわずかな情報（ビルの並び、外を走る車など）でも住所を特定される危険がある。こうした映像を「[覗き見](../Page/窃視症.md "wikilink")」できるサイトも報告されており、プライバシー侵害などの点で問題となっているが、現状では[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")の定義にはあたらず、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")には問いにくく、法規制を求める声も強い\[1\]。
-  - [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月](../Page/9月.md "wikilink")に、男子大学生が室内のプライバシー映像をルームメイトにウェブカメラで[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")され、[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")に投稿された。当該の大学生は、これを苦にして[自殺](../Page/自殺.md "wikilink")した。盗撮していたルームメイトの男女2人はその後逮捕された\[2\]。
+  - [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月](../Page/9月.md "wikilink")に、男子大学生が室内のプライバシー映像をルームメイトにウェブカメラで[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")され、[Twitter](../Page/Twitter.md "wikilink")に投稿された。当該の大学生は、これを苦にして[自殺](../Page/自殺.md "wikilink")した。盗撮していたルームメイトの男女2人はその後逮捕された\[2\]。
 
 ## 脚注
 

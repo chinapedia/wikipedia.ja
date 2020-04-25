@@ -25,7 +25,7 @@
 
 ## ゲスト
 
-  - [浜田雅功](../Page/浜田雅功.md "wikilink")、[遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")、[城島茂](../Page/城島茂.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）、[志村けん](../Page/志村けん.md "wikilink")（[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")） - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")。[テレビ番組](../Page/テレビ番組.md "wikilink")の[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")の「[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")」の企画で乱入。電波ジャックをした。
+  - [浜田雅功](../Page/浜田雅功.md "wikilink")、[遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")、[城島茂](../Page/城島茂.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）、[志村けん](../Page/志村けん.md "wikilink")（[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")） - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")。[テレビ番組](../Page/テレビ番組.md "wikilink")の[朝日放送の](../Page/朝日放送テレビ.md "wikilink")「[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")」の企画で乱入。電波ジャックをした。
 
 ## スタッフ
 

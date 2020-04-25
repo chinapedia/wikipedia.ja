@@ -639,7 +639,7 @@
 
   - 「ココロランニング 〜僕達がキスをする理由〜」（編曲）
 
-**[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")**
+**[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")**
 
   - 「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」（編曲・ギター・キーボード）
 

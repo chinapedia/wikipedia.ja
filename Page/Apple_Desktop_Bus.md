@@ -1,7 +1,7 @@
 > この記事は[Apple Desktop Bus](https://ja.wikipedia.org/wiki/Apple_Desktop_Bus)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_Desktop_Bus_Connector_Pinout.png "wikilink") **Apple Desktop Bus**（アップル・デスクトップ・バス）はアップルコンピュータ（現・[アップル](../Page/アップル_\(企業\).md "wikilink")）が開発した[コンピュータ](../Page/コンピュータ.md "wikilink")周辺機器の接続方式の一つ。**ADB**と略して表記される。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_Desktop_Bus_Connector_Pinout.png "wikilink") **Apple Desktop Bus**（アップル・デスクトップ・バス）はアップルコンピュータ（現・[アップル](../Page/アップル_\(企業\).md "wikilink")）が開発した[コンピュータ](../Page/コンピュータ.md "wikilink")周辺機器接続用の[ペリフェラルバス](https://ja.wikipedia.org/wiki/ペリフェラルバス "wikilink")規格である。**ADB**と略して表記される。
 
 ## 概要
 

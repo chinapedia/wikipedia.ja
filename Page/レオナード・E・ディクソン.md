@@ -5,7 +5,7 @@
 
 [抽象代数学](../Page/抽象代数学.md "wikilink")、特に有限古典群の関連におけるそれの研究の創始者の一人。多くの数学書を著し、特に数論の長い歴史について書いた書は有名。
 
-[1874年](../Page/1874年.md "wikilink")に[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[インディペンデンスで生まれ](https://ja.wikipedia.org/wiki/インディペンデンス_\(アイオワ州\) "wikilink")、[1893年](../Page/1893年.md "wikilink")にテキサス大学を卒業した。[E・H・ムーア](https://ja.wikipedia.org/wiki/E・H・ムーア "wikilink")に学んだ後は、ヨーロッパに渡り、時の群論のリーダーたちと共に研究した。[1910年](../Page/1910年.md "wikilink")から[シカゴ大学](../Page/シカゴ大学.md "wikilink")の教授を務めた。
+[1874年](../Page/1874年.md "wikilink")に[アイオワ州](../Page/アイオワ州.md "wikilink")[インディペンデンスで生まれ](https://ja.wikipedia.org/wiki/インディペンデンス_\(アイオワ州\) "wikilink")、[1893年](../Page/1893年.md "wikilink")にテキサス大学を卒業した。[E・H・ムーア](https://ja.wikipedia.org/wiki/E・H・ムーア "wikilink")に学んだ後は、ヨーロッパに渡り、時の群論のリーダーたちと共に研究した。[1910年](../Page/1910年.md "wikilink")から[シカゴ大学](../Page/シカゴ大学.md "wikilink")の教授を務めた。
 
 [1954年](../Page/1954年.md "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ハーリンジェンで死去する](https://ja.wikipedia.org/wiki/ハーリンジェン_\(テキサス州\) "wikilink")。
 

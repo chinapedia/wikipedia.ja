@@ -1,7 +1,7 @@
 > この記事は[Bluem of Youth](https://ja.wikipedia.org/wiki/Bluem_of_Youth)から翻訳されています。
 
 
-**Bluem of Youth**（ブルームオブユース）は、ボーカルの別所悠二とギターの[松ヶ下宏之](https://ja.wikipedia.org/wiki/松ヶ下宏之 "wikilink")からなる日本の音楽ユニット。2人ともに[広島県立広島観音高等学校](../Page/広島県立広島観音高等学校.md "wikilink")卒業。
+**Bluem of Youth**（ブルームオブユース）は、ボーカルの別所悠二とギターの[松ヶ下宏之](https://ja.wikipedia.org/wiki/松ヶ下宏之 "wikilink")からなる日本の音楽ユニット。
 
 ## メンバー
 
@@ -15,7 +15,7 @@
 
   - [松ヶ下宏之](https://ja.wikipedia.org/wiki/松ヶ下宏之 "wikilink")（まつがした ひろゆき）
     ギター、[ピアノ](../Page/ピアノ.md "wikilink")、作曲。
-    [1973年](../Page/1973年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。O型。広島県広島市出身。
+    [1973年](../Page/1973年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。O型。広島県広島市出身。[広島県立広島観音高等学校](../Page/広島県立広島観音高等学校.md "wikilink")卒業。
     ブルームの活動休止後は[HAPPY DRUG STOREや](../Page/HAPPY_DRUG_STORE.md "wikilink")[千綿ヒデノリ](https://ja.wikipedia.org/wiki/千綿ヒデノリ "wikilink")、[広沢タダシ](../Page/広沢タダシ.md "wikilink")等のサポートメンバーとして参加しながら、自らもソロアーティストとして活動中。また、2009年[中川翔子](../Page/中川翔子.md "wikilink")のコンサートツアー及び2012,2013年[柏木由紀](../Page/柏木由紀.md "wikilink")のコンサートのバンドマスターを務める。趣味は釣り。
     最近は[NapsaQ](../Page/NapsaQ.md "wikilink")のメンバーとしても活躍している。
 
@@ -33,7 +33,7 @@
 
 2人が初めて出会ったのは広島の中学時代で、当時は2人とも悪ガキだったらしい。すでにその頃から他の仲間も含めて別々のバンド活動をはじめていた。2人とも別の高校へ行きいったんは別れる。その後松ヶ下は東京の大学へ通うために上京。一方あてもなく上京した別所が何気なく松ヶ下のもとを訪ねたことから再会、ユニットを組む運びとなる。ライブハウスなどでアマチュアバンド活動を経験後、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")にシングル『最後の願い』でデビューする。その後、8枚のシングルと2枚のアルバムを出したが、曲がヒットせずに8枚目のシングル「声」を最後に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")12月当時のレコード会社（現[EPIC Records](../Page/エピックレコードジャパン.md "wikilink"))との契約を打ち切られてしまう。
 
-ちなみにブレイク前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に、[1999年](../Page/1999年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に『[MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")』に出演している。後者は「声」が『MUSIC HAMMER』のリクエストランキングで1位を獲得した\[2\]ことを記念しての出演だった。
+ちなみにブレイク前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に、[1999年](../Page/1999年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に『[MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")』に出演している。後者は「声」が『MUSIC HAMMER』のリクエストランキングで1位を獲得した\[2\]ことを記念しての出演だった。
 
 1998年[NHK BS-2での](../Page/NHK衛星第2テレビジョン.md "wikilink")150分に及ぶ[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")特集番組『BOØWY ANTHOLOGY』において「MEMORY」を演奏する（別所は学生時代[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部に在籍。朝練の時、部員から「凄ぇ、良いアルバムあるから、聴いてみな！」と[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の5枚目のアルバム『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』を借りて聴いてみた。その後、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")のファンになったらしい）。
 

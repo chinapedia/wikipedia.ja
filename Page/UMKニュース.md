@@ -147,9 +147,9 @@
 
 #### 現在のタイトル
 
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")（平日）
+  - [NEWS ZERO → news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")（平日）
   - [Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")（土曜・日曜）
-  - [NNNニュース&スポーツ](../Page/NNNニュース&スポーツ.md "wikilink")（年末年始・特別番組等で『NEWS ZERO』が放送休止の場合）
+  - [NNNニュース&スポーツ](../Page/NNNニュース&スポーツ.md "wikilink")（年末年始・特別番組等で『news zero』が放送休止の場合）
   - FNNニュース（FNSの日の放送の土曜日）
       - FNSの日の放送では、土曜日に限り『Going\!Sports\&News』が放送休止のため、土曜日の最終ニュースには『FNNニュース』を放送する。
 

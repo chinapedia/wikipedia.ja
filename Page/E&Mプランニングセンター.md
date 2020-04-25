@@ -7,7 +7,7 @@
 
 昭和40年代前半期の東映動画（現・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）作品の大半にクレジットされた大平紀義や、TCJ（現：[エイケン](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")）・[東京ムービー](../Page/東京ムービー.md "wikilink")作品を手掛けた片岡陽三、大平から替わって『[もーれつア太郎](../Page/もーれつア太郎.md "wikilink")』のシリーズ末期にクレジットされた[伊藤道広らによって](https://ja.wikipedia.org/wiki/伊藤道廣 "wikilink")、1972年にE\&Mプランニングセンター（通称「**E\&M**」）が発足する。
 
-担当作品のほとんどはアニメが占めており、特に東映動画・ナック・創映社→[日本サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")・[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")などのテレビアニメ、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")の劇場用アニメ、[押井守](../Page/押井守.md "wikilink")・監督による[OVA](../Page/OVA.md "wikilink")及び劇場用アニメ等に関わりが深い。
+担当作品のほとんどはアニメが占めており、特に東映動画・ナック・創映社→[日本サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")・[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")などのテレビアニメ、[A.P.P.P.](../Page/アナザープッシュピンプランニング.md "wikilink")・[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")の劇場用アニメ、[押井守](../Page/押井守.md "wikilink")・監督による[OVA](../Page/OVA.md "wikilink")及び劇場用アニメ等に関わりが深い。
 
 この他、希少ながら[特撮](../Page/特撮.md "wikilink")作品では[東洋エージェンシー](https://ja.wikipedia.org/wiki/東洋エージェンシー "wikilink")・製作の『[サンダーマスク](../Page/サンダーマスク.md "wikilink")』に、**“イー・アンド・エム”**の社名表記でクレジットされている。尚、片岡陽三はE\&M所属前に『[チビラくん](../Page/チビラくん.md "wikilink")』、E\&M所属時に[『スターウルフ』→『宇宙の勇者 スターウルフ』を担当](../Page/スターウルフ.md "wikilink")、両者とも[円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")・製作の実写作品である。
 

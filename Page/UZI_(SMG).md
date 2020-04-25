@@ -220,7 +220,7 @@ EROを小型化したモデル。[イスラエル](../Page/イスラエル.md "w
 
 UZIはおよそ90ヶ国以上に輸出され、数多くの軍・警察などの国家機関で採用された。以下、派生型を含めUZIを採用しているもしくは採用していた国を挙げる。
 
-なお、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[自衛隊](../Page/自衛隊.md "wikilink")もしくは[都道府県警察](https://ja.wikipedia.org/wiki/都道府県警察 "wikilink")において公式にUZIを採用した例はないが、皇太子（[徳仁親王](https://ja.wikipedia.org/wiki/皇太子徳仁親王 "wikilink")）が[イスラエル](../Page/イスラエル.md "wikilink")を訪問した際にはイスラエル側からUZIが贈呈され、土浦の[陸上自衛隊武器学校](../Page/陸上自衛隊武器学校.md "wikilink")、継いで[陸上自衛隊富士学校](../Page/陸上自衛隊富士学校.md "wikilink")にて保管されている。
+なお、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[自衛隊](../Page/自衛隊.md "wikilink")もしくは[都道府県警察](https://ja.wikipedia.org/wiki/都道府県警察 "wikilink")において公式にUZIを採用した例はないが、今上天皇（[徳仁親王](https://ja.wikipedia.org/wiki/皇太子徳仁親王 "wikilink")）が皇太子時代に[イスラエル](../Page/イスラエル.md "wikilink")を訪問した際にはイスラエル側からUZIが贈呈され、土浦の[陸上自衛隊武器学校](../Page/陸上自衛隊武器学校.md "wikilink")、継いで[陸上自衛隊富士学校](../Page/陸上自衛隊富士学校.md "wikilink")にて保管されている。
 
 |  |
 |  |

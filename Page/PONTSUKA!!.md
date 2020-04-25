@@ -41,6 +41,7 @@
   - [2016年](../Page/2016年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - 「[MOZAIKU NIGHT](../Page/MOZAIKU_NIGHT〜No.1_Music_Factory〜.md "wikilink") 『BUMP OF CHICKEN 20th ANNIVERSARY ポンツカSPECIAL』 」 放送。
   - [2019年](../Page/2019年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 『[NEO STREAM NIGHT](https://ja.wikipedia.org/wiki/NEO_STREAM_NIGHT "wikilink")』終了。単独番組となる。
   - 2019年[10月1日](../Page/10月1日.md "wikilink") - bayfm開局30周年・番組放送20周年を記念した特別番組『bayfm 30th Anniversary Special PONTSUKA\!\! 20周年緊急特番 ～ボクらの軌跡～』放送。
+  - [2020年](../Page/2020年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [新型コロナウイルス感染症の拡大に伴う](../Page/2019新型コロナウイルス.md "wikilink")[緊急事態宣言発令を受け](https://ja.wikipedia.org/wiki/新型インフルエンザ等対策特別措置法 "wikilink")、この日の放送分より番組の収録を当面見合わせ。4月12日、19日の放送分は内容が変更され、「BUMP OF CHICKENミュージックセレクション」が放送される。
 
 ## 特別番組
 

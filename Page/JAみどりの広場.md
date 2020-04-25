@@ -13,8 +13,8 @@
 
 ## 現在の司会者
 
-  - [熊坂良](https://ja.wikipedia.org/wiki/熊坂良 "wikilink")（秋田テレビアナウンサー）
-  - [八代星子](https://ja.wikipedia.org/wiki/八代星子 "wikilink")（秋田テレビアナウンサー）
+  - [加藤未来](https://ja.wikipedia.org/wiki/加藤未来 "wikilink")（秋田テレビアナウンサー）
+  - [高橋智也](https://ja.wikipedia.org/wiki/高橋智也 "wikilink")（秋田テレビアナウンサー）
 
 ## 歴代司会者
 
@@ -34,7 +34,8 @@
   - [片桐千晶](../Page/片桐千晶.md "wikilink")
   - [竹島知郁](https://ja.wikipedia.org/wiki/竹島知郁 "wikilink")（現役）
   - [長島瑞穂](../Page/長島瑞穂.md "wikilink")
-  - [加藤未来](https://ja.wikipedia.org/wiki/加藤未来 "wikilink")（現役）
+  - [熊坂良](https://ja.wikipedia.org/wiki/熊坂良 "wikilink")
+  - [八代星子](https://ja.wikipedia.org/wiki/八代星子 "wikilink")（現役）
 
 ## 関連項目
 

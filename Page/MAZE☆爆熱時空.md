@@ -562,20 +562,20 @@
 
 ### 放送局
 
-| 放送地域                                                | 放送局                                                         | 放送期間              | 放送時間                 | 系列                                                               | 備考      |
-| --------------------------------------------------- | ----------------------------------------------------------- | ----------------- | -------------------- | ---------------------------------------------------------------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")     | 1997年4月2日 - 9月24日 | 木曜 1:15 - 1:45（水曜深夜） | [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")                       | **制作局** |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                      |                   |                      |                                                                  |         |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                        |                   |                      |                                                                  |         |
-| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                        |                   |                      |                                                                  |         |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                    |                   |                      |                                                                  |         |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                    |                   |                      |                                                                  |         |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") |                   |                      | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")            |         |
-| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")       |                   |                      |                                                                  |         |
-| [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                        |                   | 不明（日曜昼）              | [独立局](../Page/全国独立放送協議会.md "wikilink")                           |         |
-| [奈良県](../Page/奈良県.md "wikilink")                    | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")   |                   |                      |                                                                  |         |
-| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")   |                   |                      |                                                                  |         |
-| [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                      |                   |                      | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |         |
+| 放送地域                                                | 放送局                                                       | 放送期間              | 放送時間                 | 系列                                                               | 備考      |
+| --------------------------------------------------- | --------------------------------------------------------- | ----------------- | -------------------- | ---------------------------------------------------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")   | 1997年4月2日 - 9月24日 | 木曜 1:15 - 1:45（水曜深夜） | [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")                       | **制作局** |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                    |                   |                      |                                                                  |         |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      |                   |                      |                                                                  |         |
+| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                      |                   |                      |                                                                  |         |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                  |                   |                      |                                                                  |         |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                   |                      |                                                                  |         |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                  |                   |                      | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")            |         |
+| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")     |                   |                      |                                                                  |         |
+| [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      |                   | 不明（日曜昼）              | [独立局](../Page/全国独立放送協議会.md "wikilink")                           |         |
+| [奈良県](../Page/奈良県.md "wikilink")                    | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") |                   |                      |                                                                  |         |
+| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") |                   |                      |                                                                  |         |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                    |                   |                      | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |         |
 
 ## 映画
 

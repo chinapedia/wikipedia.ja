@@ -1,7 +1,7 @@
 > この記事は[IBC TOP40](https://ja.wikipedia.org/wiki/IBC_TOP40)から翻訳されています。
 
 
-**IBC TOP40**（アイビーシー トップフォーティー）は、[1974年](../Page/1974年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")までの25年間、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")に本社を置く、[岩手放送（現・IBC岩手放送）で放送されていた](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送回数は全1299回。
+**IBC TOP40**（アイビーシー トップフォーティー）は、[1974年](../Page/1974年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")までの25年間、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")に本社を置く、[岩手放送（現・IBC岩手放送）で放送されていた](../Page/IBC岩手放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送回数は全1299回。
 
 ## 概要
 

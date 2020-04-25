@@ -5,7 +5,7 @@
 
 ## 概要
 
-前番組『[YTSイブニングワイド](../Page/YTSイブニングワイド.md "wikilink")』を改題し、ニュースコーナーを拡大する形でスタート。前番組がニュースワイドというよりも[軟派](https://ja.wikipedia.org/wiki/軟派 "wikilink")な[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")色が強かったため、これを[硬派](../Page/硬派.md "wikilink")な報道番組色を強めた内容にした。タイトルは当時[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")で放送されていた『[SBSテレビ夕刊](../Page/SBSテレビ夕刊.md "wikilink")』（2009年3月27日まで）、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")で放送されていた『[KRY テレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")』、[鹿児島テレビで放送されていた](../Page/鹿児島テレビ放送.md "wikilink")『[KTSテレビ夕刊](../Page/KTSテレビ夕刊.md "wikilink")』などと似ているが、全くの無関係。
+前番組『[YTSイブニングワイド](../Page/YTSイブニングワイド.md "wikilink")』を改題し、ニュースコーナーを拡大する形でスタート。前番組がニュースワイドというよりも[軟派](https://ja.wikipedia.org/wiki/軟派 "wikilink")な[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")色が強かったため、これを[硬派](../Page/硬派.md "wikilink")な報道番組色を強めた内容にした。タイトルは当時[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")で放送されていた『[SBSテレビ夕刊](../Page/SBSテレビ夕刊.md "wikilink")』（2009年3月27日まで）、[山口放送](../Page/山口放送.md "wikilink")で放送されていた『[KRY テレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")』、[鹿児島テレビで放送されていた](../Page/鹿児島テレビ放送.md "wikilink")『[KTSテレビ夕刊](../Page/KTSテレビ夕刊.md "wikilink")』などと似ているが、全くの無関係。
 
 『[スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")』内で火曜・水曜に放送（現在は金曜５時台「キンゴジ - gojidas friday -」内で放送中）のコーナー「[伝言板](https://ja.wikipedia.org/wiki/伝言板 "wikilink")（キンゴジ）」の前身「テレ夕伝言板」（てれゆうでんごんばん）は、この番組から誕生した。
 

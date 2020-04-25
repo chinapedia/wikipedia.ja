@@ -3,11 +3,11 @@
 
 『**Darling**』（だーりん）は、[NESTより発売された](https://ja.wikipedia.org/wiki/NEST_\(ゲームブランド\) "wikilink")[声優](../Page/声優.md "wikilink")・[子安武人](../Page/子安武人.md "wikilink")がプロデュースと主演をするWindows用[女性向け](../Page/乙女ゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。
 
-### Darling
+## Darling
 
 2001年8月に発売され、人気バンドのボーカル兼ギタリスト加賀見琉から音声メールや写真、動画などを受け取り、メールで恋を育んでいく。本作のグラフィックは実際の写真が使われており、子安が声だけではなくグラフィックでも加賀見琉を演じている。
 
-### Darling II Backlash
+## Darling II Backlash
 
 『Darling II Backlash』は攻略対象キャラクターが4人に増え、グラフィックが実写ではなくイラストになった。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』や『[頭文字D](../Page/頭文字D.md "wikilink")』で知られる[アニメーター](../Page/アニメーター.md "wikilink")の[佐藤正樹](https://ja.wikipedia.org/wiki/佐藤正樹 "wikilink")が担当。前作のメインキャラクターだった加賀見琉の兄で、今作のメインキャラクターとなるレーサーの加賀見慧も子安が演じており、それ以外のキャラクターも[緑川光](../Page/緑川光.md "wikilink")、[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")といった女性ファンの人気が高い声優が担当。また[子安武人](../Page/子安武人.md "wikilink")の事務所の後輩である[佐藤ミチル](../Page/佐藤ミチル.md "wikilink")も出演している。尚、このキャスティングは子安本人によるオファで決定した。
 

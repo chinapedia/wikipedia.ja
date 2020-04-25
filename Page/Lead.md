@@ -709,10 +709,11 @@ PCXP-50542：BD</p></td>
   - 「M-ON\! Make On The Holiday」Leadレギュラーコーナー「ぶらり〜ど」（2006年7月29日 - 2008年2月、[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）
   - [東京ディズニーリゾート トレジャーハント](https://ja.wikipedia.org/wiki/東京ディズニーリゾート_トレジャーハント "wikilink")（2008年5月 - 2010年7月、[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）
   - [Abemaエンタメサンデー](https://ja.wikipedia.org/wiki/Abemaエンタメサンデー "wikilink")（2016年7月17日 - 2017年6月25日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 月末レギュラー
+  - Leadバラエティ（仮）（2020年4月2日 - 、東京MXTV1）\[4\]
 
 ### 音楽番組
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK](../Page/NHK総合テレビジョン.md "wikilink")）
   - [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")（NHK BS2）
@@ -775,3 +776,4 @@ PCXP-50542：BD</p></td>
 1.
 2.
 3.
+4.  [Leadバラエティ（仮）](https://s.mxtv.jp/variety/lead/)東京MXTV

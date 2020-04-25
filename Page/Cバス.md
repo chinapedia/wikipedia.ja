@@ -109,4 +109,4 @@ PC-98 拡張スロット（Cバス） ピン配列
   - [Peripheral Component Interconnect](../Page/Peripheral_Component_Interconnect.md "wikilink") (PCI) - 9821シリーズ後期モデルに搭載された32ビットバス。
   - [Industry Standard Architecture](../Page/Industry_Standard_Architecture.md "wikilink") (ISA) - IBM PC/ATに搭載された8ビットまたは16ビットバス。
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")

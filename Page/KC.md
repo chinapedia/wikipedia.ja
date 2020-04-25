@@ -41,7 +41,7 @@
 
 番組
 
-  - [ティーン・スパイ K.C.](https://ja.wikipedia.org/wiki/ティーン・スパイ_K.C. "wikilink")（[K.C. undercover](https://ja.wikipedia.org/wiki/K.C._undercover "wikilink")）[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が著作・放送をしていいるシチュエーションドラマ。
+  - [ティーン・スパイ K.C.](https://ja.wikipedia.org/wiki/ティーン・スパイ_K.C. "wikilink")（[K.C. undercover](https://ja.wikipedia.org/wiki/K.C._undercover "wikilink")）[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が著作・放送をしているシチュエーションドラマ。
 
 飛行機
 

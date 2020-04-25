@@ -249,7 +249,7 @@
 ### 2003年
 
   - [高校教師](https://ja.wikipedia.org/wiki/高校教師_\(2003年のテレビドラマ\) "wikilink")（1月10日 - 3月21日、主演：[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")）
-  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](../Page/佐藤秀峰.md "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）この作品で初めて「オリジナルドラマ」ではなく、『原作あり』としてドラマ化
+  - [ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")（4月11日 - 6月20日、原作：[佐藤秀峰](../Page/佐藤秀峰.md "wikilink") 主演：[妻夫木聡](../Page/妻夫木聡.md "wikilink")）※この作品で初めて「オリジナルドラマ」ではなく、『原作あり』としてドラマ化
   - [Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[二宮和也](../Page/二宮和也.md "wikilink") 共演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")）
   - [ヤンキー母校に帰る](../Page/ヤンキー母校に帰る.md "wikilink")（10月10日 - 12月12日、主演：竹野内豊）
 
@@ -285,7 +285,7 @@
 
   - [エジソンの母](https://ja.wikipedia.org/wiki/エジソンの母 "wikilink")（1月11日 - 3月14日、主演：[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")）製作：ドリマックス・テレビジョン
   - [Around40〜注文の多いオンナたち〜](https://ja.wikipedia.org/wiki/Around40〜注文の多いオンナたち〜 "wikilink")（4月11日 - 6月20日、主演：[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")）
-  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）※[韓流ドラマのリメイク作品](../Page/魔王_\(2007年のテレビドラマ\).md "wikilink")
+  - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）※[韓流ドラマの](../Page/魔王_\(2007年のテレビドラマ\).md "wikilink")[リメイク](../Page/リメイク.md "wikilink")作品
   - [流星の絆](https://ja.wikipedia.org/wiki/流星の絆 "wikilink")（10月17日 - 12月19日、原作：[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink") 主演：二宮和也）
 
 ### 2009年
@@ -349,7 +349,7 @@
   - [下剋上受験](https://ja.wikipedia.org/wiki/下剋上受験 "wikilink")（1月13日 - 3月17日、原作：桜井信一 主演：[阿部サダヲ](../Page/阿部サダヲ.md "wikilink")）製作：[大映テレビ](../Page/大映テレビ.md "wikilink")
   - [リバース](https://ja.wikipedia.org/wiki/リバース_\(湊かなえの小説\) "wikilink")（4月14日 - 6月16日、原作：湊かなえ 主演：[藤原竜也](../Page/藤原竜也.md "wikilink")）製作：ドリマックス・テレビジョン
   - [ハロー張りネズミ](https://ja.wikipedia.org/wiki/ハロー張りネズミ "wikilink")（7月14日 - 9月15日、原作：[弘兼憲史](../Page/弘兼憲史.md "wikilink") 主演：[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）製作：[オフィスクレッシェンド](../Page/オフィスクレッシェンド.md "wikilink")
-  - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第2シリーズ（10月13日 - 12月22日、原作：鈴ノ木ユウ 主演：綾野剛）1972年に「金曜ドラマ」が放送開始して初めて、1年間放送されたドラマが全て『原作あり』となった。
+  - [コウノドリ](https://ja.wikipedia.org/wiki/コウノドリ#テレビドラマ "wikilink") 第2シリーズ（10月13日 - 12月22日、原作：鈴ノ木ユウ 主演：綾野剛）※1972年に「金曜ドラマ」が放送開始して初めて、1年間放送されたドラマが全て『原作あり』となった。
 
 ### 2018年
 
@@ -363,12 +363,12 @@
   - [メゾン・ド・ポリス](https://ja.wikipedia.org/wiki/メゾン・ド・ポリス "wikilink")（1月11日 - 3月15日、原作：[加藤実秋](https://ja.wikipedia.org/wiki/加藤実秋 "wikilink")、主演：[高畑充希](https://ja.wikipedia.org/wiki/高畑充希 "wikilink")）製作：共同テレビ
   - [インハンド](https://ja.wikipedia.org/wiki/インハンド "wikilink")（4月12日 - 6月21日、原作：朱戸アオ、主演：山下智久）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
   - [凪のお暇](https://ja.wikipedia.org/wiki/凪のお暇 "wikilink")（7月19日 - 9月20日、原作：[コナリミサト](../Page/コナリミサト.md "wikilink")、主演：[黒木華](https://ja.wikipedia.org/wiki/黒木華 "wikilink")）
-  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）2度目の「全て原作あり」で、2020年1月期まで続く。
+  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）※2度目の「全て原作あり」
 
 ### 2020年
 
-  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 3月20日、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
-  - [MIU404](../Page/MIU404.md "wikilink")（4月10日 -（予定）、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
+  - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 3月20日、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）※「金曜ドラマ」初、[年度](../Page/年度.md "wikilink")内に放送されたドラマが全て「原作あり」となった。
+  - [MIU404](../Page/MIU404.md "wikilink")（放送開始日未定、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
 
 ## 備考
 
@@ -392,12 +392,12 @@
 | [関東広域圏](../Page/広域放送.md "wikilink")                               | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）\[8\]                      | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 金曜日 22:00 - 22:54 | ネットワークセールス | **制作局** |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                             | 同時ネット                                           |                   |            |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）                             |                                                 |                   |            |         |
-| [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）      |                                                 |                   |            |         |
+| [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                         |                                                 |                   |            |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")（TBC）                               |                                                 |                   |            |         |
 | [山形県](../Page/山形県.md "wikilink")                                  | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                         |                                                 |                   |            |         |
 | [福島県](../Page/福島県.md "wikilink")                                  | [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）                         |                                                 |                   |            |         |
 | [山梨県](../Page/山梨県.md "wikilink")                                  | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                             |                                                 |                   |            |         |
-| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）            |                                                 |                   |            |         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](../Page/信越放送.md "wikilink")（SBC）                               |                                                 |                   |            |         |
 | [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）            |                                                 |                   |            |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）            |                                                 |                   |            |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                     |                                                 |                   |            |         |

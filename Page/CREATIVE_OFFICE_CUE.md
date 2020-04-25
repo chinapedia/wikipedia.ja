@@ -47,7 +47,6 @@
   - [NORD](https://ja.wikipedia.org/wiki/NORD_\(グループ\) "wikilink")（2016年結成。業務提携：[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）
       - 舟木健
       - 長崎佑亮
-      - [花岡領太](https://ja.wikipedia.org/wiki/花岡領太 "wikilink")
       - 安保卓城
       - [島太星](https://ja.wikipedia.org/wiki/島太星 "wikilink")
       - 瀧原光
@@ -55,7 +54,7 @@
 
 ### バンド・ミュージシャン
 
-  - Chima（2010年契約。レーベル：A-CUE RECORDS）
+  - Chima（2010年契約。レーベル：[ランティス](../Page/ランティス.md "wikilink")、A-CUE RECORDS）
   - [綾野ましろ](https://ja.wikipedia.org/wiki/綾野ましろ "wikilink")（2014年契約。レーベル：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")内[SACRA MUSIC](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
   - [nonoc](https://ja.wikipedia.org/wiki/nonoc "wikilink")（2018年契約。レーベル：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）
 
@@ -85,6 +84,7 @@
   - NORD
       - [春木大輔](https://ja.wikipedia.org/wiki/春木大輔 "wikilink")（2017年12月23日に行われたNORDワンマンイベントをもって卒業）
       - 枝元雷亜（2019年8月6日に行われたNORDイベントをもって卒業）
+      - [花岡領太](https://ja.wikipedia.org/wiki/花岡領太 "wikilink")（2020年3月31日付で卒業）
 
 <!-- end list -->
 

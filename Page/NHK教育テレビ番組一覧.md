@@ -729,7 +729,7 @@
   - [新日曜美術館](../Page/日曜美術館.md "wikilink")（1997年4月 - 2009年3月）
   - [国宝探訪](https://ja.wikipedia.org/wiki/国宝探訪 "wikilink")（2000年4月1日 - 2003年4月5日）
   - [美と出会う](https://ja.wikipedia.org/wiki/美と出会う "wikilink")（2001年4月7日 - 2003年4月5日）
-  - [世界美術館紀行](https://ja.wikipedia.org/wiki/世界美術館紀行 "wikilink")（2003年4月12日 - 2006年3月31日）
+  - [世界美術館紀行](../Page/世界美術館紀行.md "wikilink")（2003年4月12日 - 2006年3月31日）
   - [ミューズの微笑み](https://ja.wikipedia.org/wiki/ミューズの微笑み "wikilink")（2007年7月29日 - 2010年12月18日）
   - [芸術劇場](../Page/芸術劇場.md "wikilink")（1959年1月 - 1975年3月，1982年4月11日 - 2011年3月）
   - [劇場への招待](https://ja.wikipedia.org/wiki/劇場への招待 "wikilink")

@@ -1,13 +1,15 @@
 > この記事は[KATO\&KENテレビバスターズ](https://ja.wikipedia.org/wiki/KATO\&KENテレビバスターズ)から翻訳されています。
 
 
-『**KATO\&KENテレビバスターズ**』（カトケンテレビバスターズ）は、[1992年](../Page/1992年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[9月26日](../Page/9月26日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBSと](../Page/TBSテレビ.md "wikilink")[イザワオフィス](../Page/イザワオフィス.md "wikilink")共同製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週土曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**KATO\&KENテレビバスターズ**』（カトケンテレビバスターズ）は、[1992年](../Page/1992年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から同年[9月26日](../Page/9月26日.md "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[TBSと](../Page/TBSテレビ.md "wikilink")[イザワオフィス](../Page/イザワオフィス.md "wikilink")共同製作である。放送時間は毎週土曜 20:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
 『[加トちゃんケンちゃんごきげんテレビ](../Page/加トちゃんケンちゃんごきげんテレビ.md "wikilink")』から引き続き[加藤茶](../Page/加藤茶.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")がメインを務めていた。番組では「**バスターズガール**」役の[SUPER MONKEY'Sやその他の女性レギュラーとともに](../Page/SUPER_MONKEY'S.md "wikilink")[ドッジボール](../Page/ドッジボール.md "wikilink")ゲームなどに挑戦していた。SUPER MONKEY'Sにとっては、これがテレビ初出演の全国ネット番組となった。
 
-しかし、当時のTBS社長・[磯崎洋三](../Page/磯崎洋三.md "wikilink")がTBS大改革のいわゆる「鶴の一声」を上げたことにより、番組はわずか半年間で終了。この番組の最終回をもって、『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の放送開始以来土曜20:00枠で**通算22年5か月**\[1\]続いた[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")のメンバーが登場するという長きに渡ったTBSバラエティ番組シリーズは名実共に幕を下ろす結果となった。
+しかし、当時のTBS社長・[磯崎洋三](../Page/磯崎洋三.md "wikilink")がTBS大改革のいわゆる「鶴の一声」を上げたことにより、番組はわずか半年間で終了\[1\]。この番組の最終回をもって、1969年10月の『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の放送開始以来土曜20:00枠で**通算22年5か月**\[2\]続いた[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")のメンバーが登場するという長きに渡ったTBSバラエティ番組シリーズは名実共に幕を下ろす結果となった。
+
+ちなみに、この期間ずっと出演していたのは加藤のみであり、志村は[荒井注](../Page/荒井注.md "wikilink")のドリフ脱退を受けてドリフのメンバー入りが決まり1973年12月からドリフ見習いとして「全員集合」に出演して以降（1974年4月から正式にドリフメンバーとなる）からの出演なので、全期間には出演していない。
 
 ## 主なコーナー
 
@@ -23,9 +25,9 @@
   - [加藤茶](../Page/加藤茶.md "wikilink")（[ザ・ドリフターズ](../Page/ザ・ドリフターズ.md "wikilink")）
   - [志村けん](../Page/志村けん.md "wikilink")（ザ・ドリフターズ）
   - [渡辺美奈代](../Page/渡辺美奈代.md "wikilink")
-  - [立花理佐](../Page/立花理佐.md "wikilink")\[2\]
-  - [生稲晃子](../Page/生稲晃子.md "wikilink")\[3\]
-  - [島崎和歌子](../Page/島崎和歌子.md "wikilink")\[4\]
+  - [立花理佐](../Page/立花理佐.md "wikilink")\[3\]
+  - [生稲晃子](../Page/生稲晃子.md "wikilink")\[4\]
+  - [島崎和歌子](../Page/島崎和歌子.md "wikilink")\[5\]
   - [中村綾](../Page/中村綾.md "wikilink")
   - [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")
   - [羽田恵理香](https://ja.wikipedia.org/wiki/羽田恵理香 "wikilink")([CoCo](https://ja.wikipedia.org/wiki/CoCo "wikilink"))
@@ -39,7 +41,7 @@
 
 ### バスターズガール
 
-  - [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（スーパー・モンキーズ）は、過去に存在した日本の女性ダンスアイドルグループであり、安室奈美恵とMAXの源流のグループである。
+  - [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（スーパー・モンキーズ）は、過去に存在した日本の女性ダンスアイドルグループであり、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と[MAXの源流のグループである](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
 
 ## スタッフ
 
@@ -87,7 +89,7 @@
   - AD：十二竜也、[片山剛](https://ja.wikipedia.org/wiki/片山剛 "wikilink")、柳崎芳夫、竹内幸司、今福賢二、高橋真司
   - 演出：[園田憲](../Page/園田憲.md "wikilink")、小玉滋彦、小笠原知宏
   - プロデューサー：落合芳行
-  - 製作著作：TBS、[イザワオフィス](../Page/イザワオフィス.md "wikilink")\[5\]
+  - 製作著作：TBS、[イザワオフィス](../Page/イザワオフィス.md "wikilink")\[6\]
 
 ## ネット局
 
@@ -106,8 +108,9 @@
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:加藤茶](https://ja.wikipedia.org/wiki/Category:加藤茶 "wikilink") [Category:志村けん](https://ja.wikipedia.org/wiki/Category:志村けん "wikilink")
 
-1.  1971年4月から9月の間は、[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")の『[8時だョ\!出発進行](../Page/8時だョ!出発進行.md "wikilink")』を放送していたため中断。
-2.
+1.  最終回にエンディングに放送された『KATO\&KENビデオ』のコントで、店員に扮する加藤が**「大家の[磯ちゃんがよ](../Page/磯崎洋三.md "wikilink")、出でってくれねぇかっつんだよ」**と発するシーンがあった。
+2.  1971年4月から9月の間は、[ハナ肇とクレージーキャッツ](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")の『[8時だョ\!出発進行](../Page/8時だョ!出発進行.md "wikilink")』を放送していたため中断。
 3.
 4.
-5.  イザワオフィスはスタッフロール上ではノンクレジット。
+5.
+6.  イザワオフィスはスタッフロール上ではノンクレジット。

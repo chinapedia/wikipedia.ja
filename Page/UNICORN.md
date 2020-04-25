@@ -1,7 +1,7 @@
 > この記事は[UNICORN](https://ja.wikipedia.org/wiki/UNICORN)から翻訳されています。
 
 
-**UNICORN**（**ユニコーン**）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")にて結成し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、アルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。[1993年](../Page/1993年.md "wikilink")に解散。[2009年](../Page/2009年.md "wikilink")に再結成し活動を再開した。
+**UNICORN**（ユニコーン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")にて結成し、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、アルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。[1993年](../Page/1993年.md "wikilink")に解散。[2009年](../Page/2009年.md "wikilink")に再結成し活動を再開した。
 
 ## 概要
 
@@ -390,7 +390,7 @@ SONY DHハンディカム『HC3』CMソング（2006年）</small></p></td>
 <td><p>2019年8月28日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/でんでん_(ユニコーンの曲)" title="wikilink">でんでん</a> + Live Tracks[100周年ツアー"百が如く"]</strong></p></td>
 <td></td>
-<td><p><small>「でんでん」：映画「<a href="https://ja.wikipedia.org/wiki/引っ越し大名" title="wikilink">引っ越し大名</a>」主題歌</small></p></td>
+<td><p><small>「でんでん」：映画「<a href="https://ja.wikipedia.org/wiki/引っ越し大名!" title="wikilink">引っ越し大名!</a>」主題歌</small></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -754,9 +754,8 @@ ABEDONによる全曲リマスタリング。</p></td>
 
 ## ミュージックビデオ
 
-|                                                           |                                                                                                                                                                                                                                                                                                                                                                   |
+| 監督                                                        | 曲名                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                            |
 | [板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")     | 「I'M A LOSER」「ペケペケ」「[大迷惑](https://www.youtube.com/watch?v=9vEw-r3mmfk)」「デーゲーム」「働く男」「命果てるまで」「ブルース」「ニッポンへ行くの巻」「[ヒゲとボイン](https://www.youtube.com/watch?v=Q7ITtfUQ8eU)」「雪が降る町」「[すばらしい日々](https://www.youtube.com/watch?v=UA33zQ-DY1w)」「[WAO\!](https://www.youtube.com/watch?v=qsbgcQxZ6xI)」                                                                          |
 | [大沢組](https://ja.wikipedia.org/wiki/大沢組 "wikilink")       | 「AGONY」「[SAMURAI 5](https://www.youtube.com/watch?v=fnhLvQWSmXs)」「Z LIFE」「さらばビッチ」「ウルトラヘブン スーパーマイルド」「[手島いさむ物語](https://www.youtube.com/watch?v=keK78V22Lds)」「頼みたいぜ」                                                                                                                                                                                                |
 | [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink")     | 「HELLO from DVD「TOUR 2009 蘇える勤労」」「[ひまわり](https://www.youtube.com/watch?v=ADXgefhoZa0)」「[デジタルスープ](https://www.youtube.com/watch?v=jIylY9mFcmw)」「[レディオ体操](https://www.youtube.com/watch?v=okSxNhTBJGw)」「手島いさむ大百科」「素浪人ファーストアウト from DVD「TOUR 2009 蘇える勤労」」「[半世紀少年](https://www.youtube.com/watch?v=rXkC0PSdML4)」「[裸の太陽](https://www.youtube.com/watch?v=TUxUvxp3Bvc)」 |
@@ -1489,7 +1488,7 @@ ABEDONによる全曲リマスタリング。</p></td>
   -
   - [ユニコーン ツアーグッズ感想ブログ](https://ameblo.jp/unicorn-goodscomment/)
 
-[Category:UNICORN](https://ja.wikipedia.org/wiki/Category:UNICORN "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:UNICORN](https://ja.wikipedia.org/wiki/Category:UNICORN "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のプログレッシブ・ロック・バンド‎](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド‎ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  再結成後のレギュラーラジオJ-WAVE「OH\! MY RADIO」2009年7月29日の放送にて奥田民生が発言。
 2.  再結成後のレギュラーラジオJ-WAVE「OH\! MY RADIO」2009年7月29日の放送にて「肝心な時に居ないからリーダー失格」と奥田民生が発言。メンバーも正式に決まったと同じく発言。

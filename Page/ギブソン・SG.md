@@ -205,6 +205,7 @@
 <ul>
 <li>平山照継 (Novela,Teru's Symphonia)</li>
 <li>中川隆雄 (Starless)</li>
+<li>鬼澤<strong>アレクサンダー</strong>礼門(元<a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a>)</li>
 <li><a href="../Page/高見沢俊彦.md" title="wikilink">高見沢俊彦</a>（<a href="https://ja.wikipedia.org/wiki/THE_ALFEE" title="wikilink">THE ALFEE</a>）
 <dl>
 <dt></dt>

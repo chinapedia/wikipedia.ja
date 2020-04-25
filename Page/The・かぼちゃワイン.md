@@ -187,7 +187,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JNN" title="wikilink">TBS系列</a></p></td>
 <td><p>現・IBC岩手放送。<br />
 月曜 17:00 - 17:30に放映[12]。<br />
@@ -239,7 +239,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>遅れネット</p></td>
 <td><p>[13]</p></td>
@@ -310,7 +310,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>遅れネット</p></td>
 <td></td>

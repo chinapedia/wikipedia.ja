@@ -210,7 +210,7 @@
 1.  [夕陽に別れを告げて](https://ja.wikipedia.org/wiki/KAMAKURA#Disc_2 "wikilink") - [高徳院](../Page/高徳院.md "wikilink")の鎌倉大仏を前にしての歌唱。
 2.  [真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink") - [由比ヶ浜](../Page/由比ヶ浜.md "wikilink")で歌唱。
 
-「真夏の果実」を歌い上げた直後に沢口の携帯が鳴ったが、着メロが桑田にとってアミューズの後輩にあたる[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の「[桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")」になっており、桑田が「福山好きなの?」と尋ねると、「えぇ」とあっさり答えその場を立ち去られるというオチで締められた。
+「真夏の果実」を歌い上げた直後に沢口の携帯が鳴ったが、着メロが桑田にとってアミューズの後輩にあたる[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」になっており、桑田が「福山好きなの?」と尋ねると、「えぇ」とあっさり答えその場を立ち去られるというオチで締められた。
 
 ### STAGE 17・18 寅さん[網走刑務所](../Page/網走刑務所.md "wikilink")慰問ライブ
 
@@ -361,7 +361,7 @@
 
 <!-- end list -->
 
-1.  [桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink") （[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")） - [神代桜](../Page/神代桜.md "wikilink")においての別撮り。「自分が死んだら流してほしい」という桑田の[遺言](https://ja.wikipedia.org/wiki/遺言 "wikilink")（という設定）に従って追悼番組中に流された映像。桑田は[和服](../Page/和服.md "wikilink")を着ての歌唱であり、間奏で[ミニー・リパートン](../Page/ミニー・リパートン.md "wikilink")の「Lovin' You」のフレーズが引用されており、曲の最後には「[さくらさくら](../Page/さくらさくら.md "wikilink")」のメロディーが流れ、[サザン30周年記念ライブでの](https://ja.wikipedia.org/wiki/真夏の大感謝祭_LIVE "wikilink")「みんな本当に死ぬなよ\!」という桑田の発言がサンプリングされるなどの桑田流のお遊びもあった。
+1.  [桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink") （[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")） - [神代桜](../Page/神代桜.md "wikilink")においての別撮り。「自分が死んだら流してほしい」という桑田の[遺言](https://ja.wikipedia.org/wiki/遺言 "wikilink")（という設定）に従って追悼番組中に流された映像。桑田は[和服](../Page/和服.md "wikilink")を着ての歌唱であり、間奏で[ミニー・リパートン](../Page/ミニー・リパートン.md "wikilink")の「Lovin' You」のフレーズが引用されており、曲の最後には「[さくらさくら](../Page/さくらさくら.md "wikilink")」のメロディーが流れ、[サザン30周年記念ライブでの](https://ja.wikipedia.org/wiki/真夏の大感謝祭_LIVE "wikilink")「みんな本当に死ぬなよ\!」という桑田の発言がサンプリングされるなどの桑田流のお遊びもあった。
 2.  [Yesterday](../Page/イエスタデイ.md "wikilink") （ビートルズ） - 追悼番組中の「こうして耳を澄ますと桑田さんの歌が聞こえてくるようですね」という佐々木アナの言葉を受けて、その場にあったギターを手に取り[替え歌](../Page/替え歌.md "wikilink")を披露（「イエスタデイ」を「犬捨てたでい」と歌った明らかな[コミックソング](../Page/コミックソング.md "wikilink")であった）。ユースケは「生前から乗せるとすぐになんでも歌ってくれた」とコメント。
 
 <!-- end list -->
@@ -493,7 +493,7 @@
 
 <!-- end list -->
 
-1.  [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink") （[よしだたくろう](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")）※
+1.  [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink") （[よしだたくろう](../Page/吉田拓郎.md "wikilink")）※
 2.  [八月の濡れた砂](../Page/八月の濡れた砂.md "wikilink") （[石川セリ](../Page/石川セリ.md "wikilink")）※
 3.  [若者たち](../Page/若者たち.md "wikilink") （[ザ・ブロードサイド・フォー](../Page/ザ・ブロードサイド・フォー.md "wikilink")）
 4.  [カレーライス](../Page/カレーライス.md "wikilink") （[遠藤賢司](../Page/遠藤賢司.md "wikilink")）※

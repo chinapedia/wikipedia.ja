@@ -51,7 +51,7 @@
 
   - [北海道放送](../Page/HBCラジオ.md "wikilink")
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")

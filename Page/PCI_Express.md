@@ -332,7 +332,7 @@ PCI Expressの利点の一つとしてレーン数のフレキシビリティが
   - [PCI Special Interest Group - PCI Express](http://www.pcisig.com/specifications/pciexpress/)
 
   -
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")
 
 1.  [PCI-SIG、PCI Express base specification 3.0完成をアナウンス](https://news.mynavi.jp/news/2010/11/22/041/)
 2.

@@ -20,7 +20,7 @@
   - 野球において球場ごとによる成績の偏りを示す指標については、[パークファクター](../Page/パークファクター.md "wikilink")
   - [バスケットボール](../Page/バスケットボール.md "wikilink")において、[パワーフォワード](https://ja.wikipedia.org/wiki/パワーフォワード "wikilink")のこと
   - プロモーション・フィルム (Promotion Film) ⇒ [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOPF/-DTV）
+  - [山口放送](../Page/山口放送.md "wikilink")の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOPF/-DTV）
   - パイロットフライング () - 操縦士が2人いる民間航空機において、操縦を担当する側のパイロットのこと。
   - [プロジェクト・ファイナンス](../Page/プロジェクト・ファイナンス.md "wikilink")（Project finance）
   - プラットフォーム（computing platform）

@@ -135,7 +135,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>2020年3月7日</p></td>
 <td></td>
 <td><p>住所：<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/横浜市.md" title="wikilink">横浜市</a><a href="https://ja.wikipedia.org/wiki/西区_(横浜市)" title="wikilink">西区</a><a href="../Page/みなとみらい.md" title="wikilink">みなとみらい</a>4-3-2<br />
-<a href="../Page/横浜みなとみらい21.md" title="wikilink">横浜みなとみらい地区</a>（47街区、<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>の本社ビル「KTビル」に併設予定）<br />
+<a href="../Page/横浜みなとみらい21.md" title="wikilink">横浜みなとみらい地区</a>（47街区、<a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>の本社ビル「KTビル」に併設）<br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/新高島駅" title="wikilink">新高島駅</a>（<a href="https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線" title="wikilink">みなとみらい線</a>）、<a href="https://ja.wikipedia.org/wiki/横浜駅" title="wikilink">横浜駅</a>（JR東日本・<a href="../Page/東急東横線.md" title="wikilink">東急東横線</a>・<a href="https://ja.wikipedia.org/wiki/京急本線" title="wikilink">京急本線</a>・<a href="https://ja.wikipedia.org/wiki/相鉄本線" title="wikilink">相鉄本線</a>・<a href="https://ja.wikipedia.org/wiki/横浜市営地下鉄ブルーライン" title="wikilink">地下鉄ブルーライン</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>所有</p></td>
 </tr>

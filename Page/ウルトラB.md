@@ -5,32 +5,13 @@
 
 ## 概要
 
-[1984年](../Page/1984年.md "wikilink")（昭和59年）から1989年（平成元年）まで、[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")刊『[藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")』の巻末に連載された。
+[1984年](../Page/1984年.md "wikilink")（昭和59年）から1989年（平成元年）まで、[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")刊『[藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")』の巻末に連載され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）にアニメ化[1988年](../Page/1988年.md "wikilink")（昭和63年）に映画化した。
 
 宇宙からやって来た謎の赤ん坊、ウルトラBと小学生のミチオの繰り広げるギャグ作品。単行本は中央公論社刊のものが全11巻あったが、現在は絶版。
 
-アニメ化もされ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月 - [1989年](../Page/1989年.md "wikilink")（平成元年）3月まで放映。全118話+1劇場版。
+原作ではUBの[サングラス](../Page/サングラス.md "wikilink")は一般的な太い縁のものだったが、アニメ化に伴い途中から翼の様なデザインのサングラスに変更され、口元のホクロも黒丸から水色の星型になった。
 
-  - 1987年4月 - 1987年9月 ： 日曜朝の『[藤子不二雄劇場](../Page/藤子不二雄劇場.md "wikilink")』にて『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』とともに放映。
-  - 1987年10月 - 1989年3月 ： 月曜19時台の『[藤子不二雄<span class="Unicode">Ⓐ</span>ワールド](../Page/藤子不二雄ワールド.md "wikilink")』にて『[プロゴルファー猿](../Page/プロゴルファー猿.md "wikilink")』や『[ビリ犬](../Page/ビリ犬.md "wikilink")』とともに放映。
-
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作。劇場用アニメ『ウルトラB ブラックホールからの独裁者B・B』（[1988年](../Page/1988年.md "wikilink")、[立体映画](https://ja.wikipedia.org/wiki/立体映画 "wikilink")）も作られた。
-
-[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で再放送されたことがある（この時、第118話「UBレインジャー」と劇場用アニメ ウルトラB ブラックホールからの独裁者B・Bのみ未放送。）。
-
-原作ではUBの[サングラス](../Page/サングラス.md "wikilink")は一般的な太い縁のものだったが、アニメ化に伴い途中から翼の様なデザインのサングラスに変更された。又、口元のホクロも黒丸から水色の星型になった。
-
-## コミックス
-
-  - [藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")スペシャル「ウルトラB」全11巻（[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")）
-  - 藤子不二雄ランドスペシャル「長編ウルトラB ブラックホールからの独裁者B・B」全1巻（[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")）
-
-<!-- end list -->
-
-  -
-    劇場用アニメの原作。立体まんがとびだすメガネ「UBメガネ」（いわゆる「[3D](../Page/3D.md "wikilink")メガネ」）付。
-
-## キャラクター
+## 登場人物
 
 ### 鈴本家
 
@@ -86,7 +67,40 @@
   - ダイブツの父
     声 - [藤城裕士](../Page/藤城裕士.md "wikilink")
 
-## 放映リスト
+## アニメ
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）4月から[1989年](../Page/1989年.md "wikilink")（平成元年）3月まで[テレビ朝日系列にて放映](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。全118話。
+
+1987年4月から9月までは日曜朝の『[藤子不二雄劇場](../Page/藤子不二雄劇場.md "wikilink")』にて『[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")』とともに放映され、10月から1989年3月までは月曜19時台の『[藤子不二雄<span class="Unicode">Ⓐ</span>ワールド](../Page/藤子不二雄ワールド.md "wikilink")』にて『[プロゴルファー猿](../Page/プロゴルファー猿.md "wikilink")』や『[ビリ犬](../Page/ビリ犬.md "wikilink")』とともに放映された。
+
+[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で再放送されたことがある。
+
+### スタッフ
+
+  - 原作 - [藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")
+  - プロデューサー - 波多野正美（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、児玉征太郎、田中敦（第81話 - 第99話）（[シンエイ動画](../Page/シンエイ動画.md "wikilink")）
+  - 総作画監督 - [森下圭介](../Page/森下圭介.md "wikilink")（第1話 - 第90話）
+  - 美術設定 - [河野次郎](https://ja.wikipedia.org/wiki/河野次郎 "wikilink")
+  - 美術監督 - 増田直子
+  - 撮影監督 - 奥井敦
+  - 録音監督 - [山田悦司](https://ja.wikipedia.org/wiki/山田悦司 "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - 編集 - [岡安肇](https://ja.wikipedia.org/wiki/岡安肇 "wikilink")、[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
+  - 総監督 - [笹川ひろし](../Page/笹川ひろし.md "wikilink")
+  - 監督 - 原田益次
+  - 制作 - テレビ朝日、シンエイ動画
+
+### 主題歌
+
+  - オープニングテーマ - 「バビバビバビブー　ウルトラB」
+    作詞 - 藤子不二雄<span class="Unicode">Ⓐ</span> / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - [三田ゆう子](../Page/三田ゆう子.md "wikilink")、[森の木児童合唱団](https://ja.wikipedia.org/wiki/森の木児童合唱団 "wikilink")
+
+<!-- end list -->
+
+  -
+    TV版にはエンディングテーマが存在しないため、出演声優などは全てオープニングにクレジットされた。
+
+### 各話リスト
 
 <table>
 <thead>
@@ -1178,42 +1192,45 @@
 </tbody>
 </table>
 
-## スタッフ
+## 劇場アニメ
 
-  - 原作：[藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")
-  - 総監督：[笹川ひろし](../Page/笹川ひろし.md "wikilink")
-  - 監督：原田益次
-  - 総作画監督：[森下圭介](../Page/森下圭介.md "wikilink")（第1話 - 第90話）
-  - 美術設定：[河野次郎](https://ja.wikipedia.org/wiki/河野次郎 "wikilink")
-  - 美術監督：増田直子
-  - 撮影監督：奥井敦
-  - 録音監督：[山田悦司](https://ja.wikipedia.org/wiki/山田悦司 "wikilink")
-  - 色指定：酒井美晴
-  - 文芸：[桶谷顕](../Page/桶谷顕.md "wikilink")（第1話 - 第80話）
-  - 制作担当：田中敦（第1話 - 第80話）
-  - 作画：風プロダクション、[スタジオディーン](../Page/スタジオディーン.md "wikilink")、[じゃんぐるじむ](../Page/じゃんぐるじむ.md "wikilink")、スタジオルック、ACプロ、あすなろスタジオ、スタジオビクトリー、ういん堂、[アニメスポット](../Page/アニメ・スポット.md "wikilink")
-  - 仕上：スタジオM、スタジオディーン、スタジオルック
-  - 背景：[スタジオユニ](../Page/スタジオユニ.md "wikilink")
-  - 撮影：[旭プロダクション](../Page/旭プロダクション.md "wikilink")
-  - 制作デスク：小倉久美、茂木清、児玉ともじ、[増子相二郎](../Page/増子相二郎.md "wikilink")
-  - 編集：[岡安肇](https://ja.wikipedia.org/wiki/岡安肇 "wikilink")、[小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
-  - 効果：[柏原満](https://ja.wikipedia.org/wiki/東京演劇音響研究所 "wikilink")
-  - 整音：中戸川次男、[大城久典](https://ja.wikipedia.org/wiki/大城久典 "wikilink")
-  - 音楽：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - プロデューサー：波多野正美（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、児玉征太郎、田中敦（第81話 - 第99話）（[シンエイ動画](../Page/シンエイ動画.md "wikilink")）
-  - 制作：テレビ朝日、シンエイ動画
+[1988年](../Page/1988年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に『ウルトラB ブラックホールからの独裁者B・B』のタイトルで、『[ドラえもん のび太のパラレル西遊記](../Page/ドラえもん_のび太のパラレル西遊記.md "wikilink")』『[エスパー魔美](../Page/エスパー魔美.md "wikilink") 星空のダンシングドール』との同時上映という形で公開された。
+
+本作はアナグリフ方式を採用した[立体映画](https://ja.wikipedia.org/wiki/立体映画 "wikilink")であり、入場特典として作品観賞用のメガネが配布された。
+
+### あらすじ
+
+### スタッフ
+
+  - 原作 - [藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")
+  - プロデューサー - 加藤良雄、小泉美明、波多野正美
+  - 作画監督 - [森下圭介](../Page/森下圭介.md "wikilink")
+  - 美術監督 - [天水勝](https://ja.wikipedia.org/wiki/天水勝 "wikilink")
+  - 撮影監督 - 三沢勝治
+  - 録音監督 - 山田悦司
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - 編集 - 岡安肇
+  - 総監督 - 笹川ひろし
+  - 監督 - 原田益次
+  - 制作協力 - [藤子スタジオ](../Page/藤子スタジオ.md "wikilink")、[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink")
+  - 制作 - テレビ朝日、シンエイ動画
 
 ### 主題歌
 
   - オープニングテーマ - 「バビバビバビブー　ウルトラB」
-    作詞 - 藤子不二雄<span class="Unicode">Ⓐ</span> / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - [三田ゆう子](../Page/三田ゆう子.md "wikilink")、[森の木児童合唱団](https://ja.wikipedia.org/wiki/森の木児童合唱団 "wikilink")
-  - エンディングテーマ - 「ウルトラBにチュッ\!」（映画版のみ）
+    作詞 - 藤子不二雄<span class="Unicode">Ⓐ</span> / 作曲・編曲 - 菊池俊輔 / 歌 - 三田ゆう子、森の木児童合唱団
+  - エンディングテーマ - 「ウルトラBにチュッ\!」
     作詞 - [高田ひろお](../Page/高田ひろお.md "wikilink") / 作曲・編曲 - 菊池俊輔 / 歌 - [ぶんけかな](../Page/ぶんけかな.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
+
+## コミックス
+
+  - [藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")スペシャル「ウルトラB」全11巻（[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")）
+  - 藤子不二雄ランドスペシャル「長編ウルトラB ブラックホールからの独裁者B・B」全1巻（[中央公論社](https://ja.wikipedia.org/wiki/中央公論社 "wikilink")）
 
 <!-- end list -->
 
   -
-    TV版にはエンディングテーマが存在しないため、出演声優などは全てオープニングにクレジットされた。
+    劇場用アニメの原作。立体まんがとびだすメガネ「UBメガネ」（いわゆる「[3D](../Page/3D.md "wikilink")メガネ」）付。
 
 ## 関連作品
 

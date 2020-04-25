@@ -87,4 +87,13 @@
   - 2008- [マツダ・アテンザスポーツ](https://ja.wikipedia.org/wiki/マツダ・アテンザスポーツ "wikilink")(海外名：Mazda6)（ハッチバック）
   - 2008- [マツダ・アテンザスポーツワゴン](https://ja.wikipedia.org/wiki/マツダ・アテンザスポーツワゴン "wikilink")(海外名：Mazda6ワゴン)（ステーションワゴン）
 
+## GJ
+
+[SKYACTIV TECHNOLOGYの一環として](https://ja.wikipedia.org/wiki/SKYACTIV_TECHNOLOGY "wikilink")、[2012年](../Page/2012年.md "wikilink")11月に登場した。
+
+  - 2012- マツダ・アテンザ（海外名：Mazda6）
+      - 2019- [マツダ・MAZDA6](https://ja.wikipedia.org/wiki/マツダ・MAZDA6 "wikilink")
+  - 2012- マツダ・アテンザワゴン（海外名：Mazda6ワゴン）
+      - 2019- マツダ・MAZDA6ワゴン
+
 [Category:マツダのプラットフォーム](https://ja.wikipedia.org/wiki/Category:マツダのプラットフォーム "wikilink")

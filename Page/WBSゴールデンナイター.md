@@ -1,7 +1,7 @@
 > この記事は[WBSゴールデンナイター](https://ja.wikipedia.org/wiki/WBSゴールデンナイター)から翻訳されています。
 
 
-**WBSゴールデンナイター**（ダブルビーエスゴールデンナイター）は、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）で放送される[ラジオの](../Page/ラジオ番組.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
+**WBSゴールデンナイター**（ダブルビーエスゴールデンナイター）は、[和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）で放送される[ラジオの](../Page/ラジオ番組.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")。
 
 ## 概要
 

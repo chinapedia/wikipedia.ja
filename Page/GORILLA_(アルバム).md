@@ -91,7 +91,7 @@
         木根が[デイヴィッド・フォスター](../Page/デイヴィッド・フォスター.md "wikilink")に影響されて作り、ギターの弾き方は[ジェイ・グレイドン](../Page/ジェイ・グレイドン.md "wikilink")を意識した\[26\]。
 5.  **You can Dance**
       -
-        6thシングル「Come on Let's Dance (This is the FANKS DYNA-MIX)」のカップリング曲。
+        6thシングル「Come on Let's Dance (This is the FANKS DYNA-MIX)」のカップリング曲。「花のあすか組！」挿入歌。
 6.  **I WANT TV**
       -
         小室は「リードシングルになることまで意識して作った曲なのに、ライブでもやらないし、メンバー・スタッフからも忘れられやすい影の薄い曲」と評している\[27\]。

@@ -112,7 +112,7 @@
 
   - [フアン・エステバン・ベレス](https://ja.wikipedia.org/wiki/フアン・エステバン・ベレス・ウペグイ "wikilink") 2014
 
-  - [ペク・ドンギュ(エルボーマン)](https://ja.wikipedia.org/wiki/ペク・ドンギュ\(エルボーマン\) "wikilink") 2015-
+  - [ペク・ドンギュ](https://ja.wikipedia.org/wiki/白棟圭 "wikilink") 2015-
 
 ## 脚注
 

@@ -17,23 +17,23 @@
 
 ### 地上波系列別再送信局
 
-| NHK-G                                   | NHK-E                                   | NNN                                         | ANN                                        | JNN                                                   | TXN | FNS                                                              | JAITS                                   |
-| --------------------------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | --- | ---------------------------------------------------------------- | --------------------------------------- |
-| [NHK松江](../Page/NHK松江放送局.md "wikilink") | [NHK松江](../Page/NHK松江放送局.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") |     | [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink") | [サンテレビ](../Page/サンテレビジョン.md "wikilink") |
+| NHK-G                                   | NHK-E                                   | NNN                                         | ANN                                        | JNN                                                   | TXN | FNS                                                                | JAITS                                   |
+| --------------------------------------- | --------------------------------------- | ------------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | --- | ------------------------------------------------------------------ | --------------------------------------- |
+| [NHK松江](../Page/NHK松江放送局.md "wikilink") | [NHK松江](../Page/NHK松江放送局.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") |     | [さんいん中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink") | [サンテレビ](../Page/サンテレビジョン.md "wikilink") |
 
 ### テレビ局
 
-| デジタル     | 放送局                                                                            |
-| -------- | ------------------------------------------------------------------------------ |
-| 011(1)   | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                                    |
-| 021(2)   | [NHK松江](../Page/NHK松江放送局.md "wikilink")[教育](../Page/NHK教育テレビジョン.md "wikilink") |
-| 031(3)   | NHK松江[総合](../Page/NHK総合テレビジョン.md "wikilink")                                   |
-| 031-1(4) | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                        |
-| 051(5)   | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                                     |
-| 061(6)   | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")                          |
-| 081(8)   | [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")               |
-| 111(11)  | わがとこテレビ                                                                        |
-| 121(12)  | お天気チャンネル                                                                       |
+| デジタル     | 放送局                                                                             |
+| -------- | ------------------------------------------------------------------------------- |
+| 011(1)   | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")                                     |
+| 021(2)   | [NHK松江](../Page/NHK松江放送局.md "wikilink")[Eテレ](../Page/NHK教育テレビジョン.md "wikilink") |
+| 031(3)   | NHK松江[総合](../Page/NHK総合テレビジョン.md "wikilink")                                    |
+| 031-1(4) | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                                         |
+| 051(5)   | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                                      |
+| 061(6)   | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")                           |
+| 081(8)   | [さんいん中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")              |
+| 111(11)  | わがとこテレビ11                                                                       |
+| 121(12)  | わがとこテレビ12                                                                       |
 
   - 次の表の放送はセットトップボックスを使用して視聴する。
 
@@ -50,40 +50,68 @@
 | 181     | [BSフジ](../Page/BSフジ.md "wikilink")                                                |
 | 191-193 | [WOWOW](../Page/WOWOW.md "wikilink")                                              |
 | 200-202 | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")                                      |
-| 211     | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                           |
+| 211     | [BS11](../Page/日本BS放送.md "wikilink")                                              |
 | 222     | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                 |
-| 231-233 | [放送大学テレビ](../Page/放送大学学園.md "wikilink")                                           |
+| 231     | [BSキャンパスex](../Page/放送大学_\(基幹放送\).md "wikilink")                                  |
+| 232     | BSキャンパスon                                                                         |
 | 531     | 放送大学ラジオ                                                                           |
 | CS放送    |                                                                                   |
-| 700     | [チャンネル700](https://ja.wikipedia.org/wiki/チャンネル700 "wikilink")                     |
-| 711     | [QVC](../Page/QVC.md "wikilink")                                                  |
-| 713     | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                          |
+| 256     | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")2                                       |
+| 266     | [歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")                                  |
+| 276     | [キッズステーション](../Page/キッズステーション.md "wikilink")                                      |
+| 279     | [MONDO TV](../Page/MONDO_TV.md "wikilink")                                        |
+| 285     | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                     |
+| 300     | [J SPORTS](../Page/J_SPORTS.md "wikilink")3                                       |
+| 302     | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                           |
+| 303     | [ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")                                      |
+| 306     | J SPORTS1                                                                         |
+| 307     | J SPORTS2                                                                         |
+| 309     | [日テレジータス](../Page/日テレジータス.md "wikilink")                                          |
+| 310     | [衛星劇場](../Page/衛星劇場.md "wikilink")                                                |
+| 320     | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                    |
+| 361     | [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")                                          |
+| 363     | [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")1                                       |
+| 364     | TBSチャンネル2                                                                         |
+| 388     | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink") 1                                    |
+| 389     | グリーンチャンネル 2                                                                       |
+| 706     | [ザ・シネマ](../Page/ザ・シネマ.md "wikilink")                                              |
+| 707     | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")                                  |
+| 717     | テレ朝チャンネル1                                                                         |
+| 718     | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")                                    |
 | 721     | [フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")                     |
-| 723     | [アクトオンTV◆大人の趣味とライフスタイル](../Page/大人の趣味と生活向上◆アクトオンTV.md "wikilink")                 |
-| 724     | [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")                                    |
-| 734     | [スカイA](../Page/スカイ・エー.md "wikilink")                                              |
-| 735     | [GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")                           |
-| 736     | [日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")                           |
+| 724     | [アニマックス](../Page/アニマックス.md "wikilink")                                            |
 | 739     | [フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")                     |
-| 749     | [アジアドラマチックTV](https://ja.wikipedia.org/wiki/アジアドラマチックTV★So-net "wikilink")        |
-| 752     | [日本映画専門チャンネル](../Page/日本映画専門チャンネル.md "wikilink")                                  |
-| 753     | [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")                                    |
-| 754     | [FOXチャンネル](../Page/FOXチャンネル.md "wikilink")                                        |
-| 759     | [ザ・シネマ](../Page/ザ・シネマ.md "wikilink")                                              |
-| 763     | [衛星劇場](../Page/衛星劇場.md "wikilink")                                                |
-| 765     | [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")                                        |
-| 766     | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")                                        |
-| 767     | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")                         |
-| 772     | [MTV](../Page/MTVジャパン.md "wikilink")                                              |
-| 782     | [アニマックス](../Page/アニマックス.md "wikilink")                                            |
-| 794     | [TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")                 |
-| 795     | [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")                                        |
-| 799     | [ナショナルジオグラフィックチャンネル](https://ja.wikipedia.org/wiki/ナショナルジオグラフィックチャンネル "wikilink") |
-| 810     | [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")1                                     |
-| 811     | グリーンチャンネル2                                                                        |
+| 745     | [日テレニュース24](https://ja.wikipedia.org/wiki/日テレニュース24 "wikilink")                   |
+| 753     | [釣りビジョン](../Page/釣りビジョン.md "wikilink")                                            |
+| J700    | [チャンネル700](https://ja.wikipedia.org/wiki/チャンネル700 "wikilink")                     |
+| J711    | [QVC](../Page/QVC.md "wikilink")                                                  |
+| J713    | ファミリー劇場                                                                           |
+| J721    | フジテレビTWO                                                                          |
+| J724    | 囲碁・将棋チャンネル                                                                        |
+| J734    | スカイA                                                                              |
+| J735    | GAORA                                                                             |
+| J736    | 日テレジータス                                                                           |
+| J739    | フジテレビONE                                                                          |
+| J751    | ファミリー劇場                                                                           |
+| J752    | 日本映画専門チャンネル                                                                       |
+| J753    | 時代劇専門チャンネル                                                                        |
+| J754    | [FOXチャンネル](../Page/FOXチャンネル.md "wikilink")                                        |
+| J759    | ザ・シネマ                                                                             |
+| J763    | 衛星劇場                                                                              |
+| J765    | TBSチャンネル1                                                                         |
+| J766    | テレ朝チャンネル1                                                                         |
+| J767    | [日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")                         |
+| J772    | [MTV](../Page/MTVジャパン.md "wikilink")                                              |
+| J774    | 歌謡ポップスチャンネル                                                                       |
+| J782    | アニマックス                                                                            |
+| J794    | [TBS NEWS](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")            |
+| J795    | テレ朝チャンネル2                                                                         |
+| J799    | [ナショナルジオグラフィックチャンネル](https://ja.wikipedia.org/wiki/ナショナルジオグラフィックチャンネル "wikilink") |
+| J810    | グリーンチャンネル1                                                                        |
+| J811    | グリーンチャンネル2                                                                        |
 
   - [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")は、地上デジタル対応テレビまたはチューナであれば視聴可能。
-  - 光サービスではBSパススルー放送も行われているため、BSパススルーで受信する場合のみ、BSデジタル放送の全チャンネルが視聴可能（有料チャンネルは別途契約）。
+  - 光サービスではBSパススルー放送も行われているため、BSパススルーで受信する場合、BSデジタル放送の有料チャンネルが視聴可能（別途契約）。
 
 ## テレビ以外のサービス
 

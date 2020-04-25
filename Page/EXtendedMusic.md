@@ -308,7 +308,7 @@
 4.  [Twitter / amusicstream: 回数表を眺めていて、いわゆる10分で本編スタート、という回数 ...](http://web.archive.org/web/20140903234835/https://twitter.com/amusicstream/status/486877432167669761?lang=ja)（Webアーカイブ）
 5.  [Twitter / amusicstream: 話戻って最初の10分。しゃべっていたのは苦肉の策。映像で文字 ...](http://web.archive.org/web/20140817063528/https://twitter.com/amusicstream/status/486885139306143744?lang=ja)（Webアーカイブ）
 6.  これに関しては原口がかつてTwitterで地上波復帰時の曲が途中で切れることに対して苦言を呈する事が度々あったため、それが影響してる可能性もあるが実際の所は不明。
-7.  2019年度以降は文化放送の制作で[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")<FBCラジオ>・[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")<KRYラジオ>への[裏送り](../Page/裏送り.md "wikilink")に変更されている。
+7.  2019年度以降は文化放送の制作で[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")<FBCラジオ>・[山口放送](../Page/山口放送.md "wikilink")<KRYラジオ>への[裏送り](../Page/裏送り.md "wikilink")に変更されている。
 8.  <https://radio-net.jp/nrnnighter.html>
 9.  <https://headlines.yahoo.co.jp/hl?a=20190221-00000057-dal-base>
 10. <http://www.joqr.co.jp/new1904/>

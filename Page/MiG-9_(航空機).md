@@ -69,11 +69,17 @@ MiG-9各型は[中華人民共和国](../Page/中華人民共和国.md "wikilink
   -
     [](http://www.airwar.ru/image/idop/fighter/mig9m/mig9m-3.jpg)
 
-## 外部リンク(参考)
+## 参考文献
 
   - [](http://www.airwar.ru/enc/fighter/mig9.html)
   - [](http://www.airwar.ru/enc/xplane/mig9l.html)
   - [](http://www.airwar.ru/enc/fighter/mig9m.html)
   - [](http://www.airwar.ru/enc/other/mig9uti.html)
+
+## 関連項目
+
+[Yak-15](../Page/Yak-15_\(航空機\).md "wikilink") - 同時期に開発されたジェット戦闘機。
+
+## 脚注
 
 [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:ミコヤン・グレヴィッチ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ミコヤン・グレヴィッチ設計局の航空機 "wikilink")

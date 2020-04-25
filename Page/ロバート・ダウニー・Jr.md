@@ -775,7 +775,7 @@
 
 ## 日本語吹き替え
 
-『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』（劇場公開版）以降、現在まで大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当している。その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[池田秀一](../Page/池田秀一.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[平田広明](../Page/平田広明.md "wikilink")等が複数の作品で声を当てている。
+『[アイアンマン](https://ja.wikipedia.org/wiki/アイアンマン_\(映画\) "wikilink")』（劇場公開版）以後、大半の作品を[藤原啓治](../Page/藤原啓治.md "wikilink")が担当していた（同シリーズの第1作、[第2作の](https://ja.wikipedia.org/wiki/アイアンマン2 "wikilink")[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")版に限っては、[池田秀一](../Page/池田秀一.md "wikilink")が担当）。その他、[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")、[桐本拓哉](../Page/桐本拓哉.md "wikilink")、[大塚芳忠](../Page/大塚芳忠.md "wikilink")、[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[平田広明](../Page/平田広明.md "wikilink")等が複数の作品で声を当てている。
 
 ## 参考文献
 

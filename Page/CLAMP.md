@@ -134,10 +134,6 @@
   - [DERAYD](https://ja.wikipedia.org/wiki/DERAYD "wikilink")（[新紀元社](../Page/新紀元社.md "wikilink")、作画・[秋山たまよ](https://ja.wikipedia.org/wiki/秋山たまよ "wikilink")、原作・大川七瀬）
   - 恋（[新書館](../Page/新書館.md "wikilink")、原作・大川七瀬） - [岡崎武士](../Page/岡崎武士.md "wikilink")作画
 
-## 漫画以外の活動
-
-括弧内は出版（発売）元と発売（放送）年。
-
 ### イラストレーション
 
 #### 小説

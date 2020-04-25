@@ -1,7 +1,7 @@
 > この記事は[ALL TIME SUPER BEST](https://ja.wikipedia.org/wiki/ALL_TIME_SUPER_BEST)から翻訳されています。
 
 
-『**ALL TIME SUPER BEST**』（オール タイム スーパー ベスト）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")のベストアルバムである。
+『**ALL TIME SUPER BEST**』（オール タイム スーパー ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")のベストアルバムである。
 
 ## 解説
 
@@ -44,7 +44,7 @@
       -
         作曲：布袋寅泰
         24thシングル「アナザー・バトル」のカップリング曲。
-11. **[RUSSIAN ROULETTE](https://ja.wikipedia.org/wiki/RUSSIAN_ROULETTE "wikilink")** <small>\[ORIGINAL VERSION\]</small>
+11. **[RUSSIAN ROULETTE](https://ja.wikipedia.org/wiki/RUSSIAN_ROULETTE_\(布袋寅泰の曲\) "wikilink")** <small>\[ORIGINAL VERSION\]</small>
       -
         作詞・作曲：布袋寅泰
 12. **[NOCTURNE No.9](https://ja.wikipedia.org/wiki/NOCTURNE_No.9 "wikilink")** <small>\[ORIGINAL SINGLE VERSION\]</small>
@@ -88,27 +88,38 @@
 
 1.  **OPENING**
 2.  **LEFEND OF FUTURE**
-    　（作曲：GEOFFREY WESLEY）
+      -
+        （作曲：GEOFFREY WESLEY）
 3.  **BATTLE WITHOUT HONOR OR HUMANITY**
-    　（作曲：布袋寅泰）
+      -
+        （作曲：布袋寅泰）
 4.  **LOVE THEME from "BLADE RUNNER"**
-    　（作曲：VANGELS）
+      -
+        （作曲：VANGELS）
 5.  **MIRROR BALL**
-    　（作曲：布袋寅泰）
+      -
+        （作曲：布袋寅泰）
 6.  **月光ピエロ**
-    　（作曲：布袋寅泰）
+      -
+        （作曲：布袋寅泰）
 7.  **King & Queen**
-    　（作詞：森雪之丞 / 作曲：布袋寅泰）
+      -
+        （作詞：森雪之丞 / 作曲：布袋寅泰）
 8.  **永遠の花**
-    　（作詞・作曲：布袋寅泰）
+      -
+        （作詞・作曲：布袋寅泰）
 9.  **PRIDE**
-    　（作詞・作曲：布袋寅泰）
+      -
+        （作詞・作曲：布袋寅泰）
 10. **VELVET KISS**
-    　（作曲：布袋寅泰）
+      -
+        （作曲：布袋寅泰）
 11. **HOWLING**
-    　（作曲：布袋寅泰）
+      -
+        （作曲：布袋寅泰）
 12. **C'MON EVERYBODY**
-    　（作詞・作曲：EDDIE COCHRAN・JERRY CAPEHART）
+      -
+        （作詞・作曲：EDDIE COCHRAN・JERRY CAPEHART）
 
 参加ミュージシャン
 
@@ -125,19 +136,26 @@
 **MONSTER DRIVE BIG PARTY\!\!\! DIGEST EDITION**（[2005年](../Page/2005年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")）
 
 1.  **WAITING FOR YOU**
-    　（作詞：ハービー山口・Lenny Zakatek / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：ハービー山口・Lenny Zakatek / 作曲・編曲：布袋寅泰）
 2.  **DANCE CRAZE**
-    　（作詞：Jonah Pashby / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：Jonah Pashby / 作曲・編曲：布袋寅泰）
 3.  **MATERIALS**
-    　（作詞：ハービー山口・Lenny Zakatek / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：ハービー山口・Lenny Zakatek / 作曲・編曲：布袋寅泰）
 4.  **DRIVIN' TO YOUR HEART TONIGHT**
-    　（作詞：森雪之丞 / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：森雪之丞 / 作曲・編曲：布袋寅泰）
 5.  **UPSIDE-DOWN**
-    　（作詞：森雪之丞 / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：森雪之丞 / 作曲・編曲：布袋寅泰）
 6.  **BOYS BE AMBITIOUS**
-    　（作詞・作曲・編曲：布袋寅泰）
+      -
+        （作詞・作曲・編曲：布袋寅泰）
 7.  **BEAT SWEET**
-    　（作詞：氷室京介 / 作曲・編曲：布袋寅泰）
+      -
+        （作詞：氷室京介 / 作曲・編曲：布袋寅泰）
 
 参加ミュージシャン
 

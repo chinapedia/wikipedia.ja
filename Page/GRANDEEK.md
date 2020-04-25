@@ -16,7 +16,7 @@
   - ティーア・オルブライアント - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
   - グランディーク - [永井一郎](../Page/永井一郎.md "wikilink")
   - ルーク・スレイトン - [江原正士](../Page/江原正士.md "wikilink")
-  - ルチア - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")
+  - ルチア - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")
   - フォルティーナ - [山田美穂](../Page/山田みほ.md "wikilink")
   - ライナス - [辻親八](../Page/辻親八.md "wikilink")
   - アンディ - [笠井律子](https://ja.wikipedia.org/wiki/笠井律子 "wikilink")

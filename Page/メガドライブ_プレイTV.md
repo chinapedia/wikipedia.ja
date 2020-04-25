@@ -1,7 +1,7 @@
 > この記事は[メガドライブ プレイTV](https://ja.wikipedia.org/wiki/メガドライブ_プレイTV)から翻訳されています。
 
 
-『**メガドライブ プレイTV**』は、[セガトイズ](../Page/セガトイズ.md "wikilink")から発売されたTV[ゲーム機](../Page/ゲーム機.md "wikilink")。[2004年](../Page/2004年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて、計3バージョンが発売された。
+『**メガドライブ プレイTV**』は、かつて[セガトイズ](../Page/セガトイズ.md "wikilink")から発売されていたTV[ゲーム機](../Page/ゲーム機.md "wikilink")。[2004年](../Page/2004年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて、計3バージョンが発売された。
 
 ## 概要
 
@@ -17,28 +17,28 @@
 
 以下、日本語名（英語名）の順に記載。
 
-  - **メガドライブ プレイTV** （[2004年](../Page/2004年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")発売、4,179円（税込））
+  - **メガドライブ プレイTV** （2004年9月9日発売、4,179円（税込））
       - [ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink") (Sonic the Hedgehog)
       - [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink") (Altered Beast)
       - [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink") (Golden Axe)
-      - [Dr.エッグマンのミーンビーンマシーン](https://ja.wikipedia.org/wiki/Dr.エッグマンのミーンビーンマシーン "wikilink") (Dr. Robotnik's Mean Bean Machine) - 『[ぷよぷよ](../Page/ぷよぷよ.md "wikilink")』の北米版で、キャラクターが差し替えられている。
+      - [Dr.エッグマンのミーンビーンマシーン](https://ja.wikipedia.org/wiki/Dr.エッグマンのミーンビーンマシーン "wikilink") (Dr. Robotnik's Mean Bean Machine) - 『ぷよぷよ』の北米版で、キャラクターが差し替えられている。
       - [カメレオンキッド](https://ja.wikipedia.org/wiki/カメレオンキッド "wikilink") (Kid Chameleon)
       - [フリッキー](../Page/フリッキー.md "wikilink") (Flicky)
-  - **メガドライブ プレイTV2** （[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
+  - **メガドライブ プレイTV2** （2005年4月2日発売、3,980円（税込））
       - [ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink") (Sonic the Hedgehog 2)
       - [エコー・ザ・ドルフィン](https://ja.wikipedia.org/wiki/エコー・ザ・ドルフィン "wikilink") (Ecco the Dolphin)
       - [ゲイングランド](../Page/ゲイングランド.md "wikilink") (Gain Ground)
       - [ジ・ウーズ](https://ja.wikipedia.org/wiki/ジ・ウーズ "wikilink") (The Ooze)
       - [コラムス](../Page/コラムス.md "wikilink") (Columns)
       - [アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink") (Alex Kidd in the Enchanted Castle)
-  - **メガドライブ プレイTV3** （[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")発売、3,980円（税込））
+  - **メガドライブ プレイTV3** （2005年4月2日発売、3,980円（税込））
       - [ストリートファイターII](../Page/ストリートファイターII.md "wikilink")ダッシュプラス (Street Fighter II': Special Champion Edition)
       - [大魔界村](../Page/大魔界村.md "wikilink") (Ghouls 'n Ghosts)
 
 ## 関連項目
 
   - [メガドライブのバリエーション](https://ja.wikipedia.org/wiki/メガドライブのバリエーション "wikilink")
-  - [メガドライブ ミニ](https://ja.wikipedia.org/wiki/メガドライブ_ミニ "wikilink") - [2019年](../Page/2019年.md "wikilink")[9月](../Page/9月.md "wikilink")に[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")から発売された、本機と同様にメガドライブ用ソフトが複数内蔵されたゲーム機。本機にプリインストールされたタイトルも一部収録されている。
+  - [メガドライブ ミニ](https://ja.wikipedia.org/wiki/メガドライブ_ミニ "wikilink") - [2019年](../Page/2019年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")から発売された、本機と同様にメガドライブ用ソフトが複数内蔵されたゲーム機。本機にプリインストールされたタイトルも一部収録されている。
   - コンセプトが類似する他社のゲーム機
       - [ニンテンドークラシックミニ ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ニンテンドークラシックミニ_ファミリーコンピュータ "wikilink")
       - [ニンテンドークラシックミニ スーパーファミコン](https://ja.wikipedia.org/wiki/ニンテンドークラシックミニ_スーパーファミコン "wikilink")

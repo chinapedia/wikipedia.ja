@@ -9,7 +9,7 @@
 
   - 上記そのものを表す**JIPS(J)**
   - JIPS(J)の上1バイト、下1バイトをそれぞれ[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")に変換して得られる**JIPS(E)**
-  - JIPS(J)の上1バイトを[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字と被らないようにシフトした**NEC内部コード(J)**
+  - JIPS(J)の上1バイトを[ASCII](../Page/ASCII.md "wikilink")文字と被らないようにシフトした**NEC内部コード(J)**
   - NEC内部コード(J)の上1バイト、下1バイトをそれぞれ[EBCDIC](https://ja.wikipedia.org/wiki/EBCDIC "wikilink")に変換して得られる**NEC内部コード(E)**
 
 の4つのバリエーションがある。

@@ -57,7 +57,7 @@
         DREAMS COME TRUEで演奏時間が最も長い曲で（7分20秒）、「未来予想図」と共に吉田が高校時代に作っていた曲だという。2年後の[1991年](../Page/1991年.md "wikilink")に発売された4thアルバム『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』に「未来予想図」が収録されるが、曲が出来たのはそちらの方が先だった為、そのままのタイトルでリリースされている\[2\]。
         [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売の5thシングル「[笑顔の行方](../Page/笑顔の行方.md "wikilink")」のカップリング曲としてリカットされており、シングルバージョンは最後でフェードアウトする様にアレンジされている。
         シングル曲ではないが、ドリカムの代表曲の一つであり、数多くのアーティストにカバーされている。
-        [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[嬰ヘ長調](../Page/嬰ヘ長調.md "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[3\]。
+        [調](../Page/調.md "wikilink")は[嬰ヘ長調](../Page/嬰ヘ長調.md "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[3\]。
 
 ## カバー
 

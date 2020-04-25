@@ -1,7 +1,7 @@
 > この記事は[Crispy!](https://ja.wikipedia.org/wiki/Crispy!)から翻訳されています。
 
 
-『**Crispy\!**』（クリスピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")4作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。
+『**Crispy\!**』（クリスピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](../Page/スピッツ_\(バンド\).md "wikilink")4作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 ## 収録曲
 
 1.  **クリスピー** **(3:05)**
-    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink") ＆ [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink") ＆ [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
       -
         アルバムタイトル曲。バンド名候補でもあった。
 2.  **夏が終わる** **(4:09)**

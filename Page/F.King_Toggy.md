@@ -10,7 +10,7 @@
   - 正式芸名は「**ファレドリッチ・キング・トギー**」略して「**F.King Toggy**」だが通常は『**TOGGY**』と名乗って活動している。
   - 「親類に[イタリア人](../Page/イタリア人.md "wikilink")がいる」と述べている。
   - 幼い頃から[パイロットへの憧れが強く学生時代には宇宙](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")[ロケット](../Page/ロケット.md "wikilink")開発の研究に携わっていた。
-  - しかしパイロットにはならず、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、[ナガハタゼンジ](../Page/ナガハタゼンジ.md "wikilink")らと共に、[バンド](../Page/バンド_\(音楽\).md "wikilink")「step」の[ドラマー](../Page/ドラマー.md "wikilink")FUTOSHIとして[EPIC SONYよりデビューを果たし](../Page/エピックレコードジャパン.md "wikilink")、2枚の[アルバム](../Page/アルバム.md "wikilink")・3枚のシングルを発売。バンド時代には[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")でメンバーとともにレギュラー番組も担当。
+  - しかしパイロットにはならず、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、[ナガハタゼンジ](../Page/ナガハタゼンジ.md "wikilink")らと共に、[バンド](../Page/バンド_\(音楽\).md "wikilink")「step」の[ドラマー](../Page/ドラマー.md "wikilink")FUTOSHIとして[EPIC SONYよりデビューを果たし](../Page/エピックレコードジャパン.md "wikilink")、2枚の[アルバム](../Page/アルバム.md "wikilink")・3枚のシングルを発売。バンド時代には[KBCラジオ](../Page/KBCラジオ.md "wikilink")でメンバーとともにレギュラー番組も担当。
   - 解散後に日本国内外を放浪した後に[ワーキング・ホリデー](https://ja.wikipedia.org/wiki/ワーキング・ホリデー "wikilink")制度を利用して[オーストラリア](../Page/オーストラリア.md "wikilink")・シドニーに約1年間滞在。[調理師](../Page/調理師.md "wikilink")免許および[ビザを取得して再びオーストラリアに渡るつもりでいたが](../Page/査証.md "wikilink")[天安門事件が発生してビザが発給され難くなり断念したと述べている](../Page/六四天安門事件.md "wikilink")\[1\]。
   - 帰国後に地元・北九州に戻り、ホテルマン等のアルバイトをした後、母方の祖父が経営している[損害保険](../Page/損害保険.md "wikilink")会社で飛び込み営業などの仕事もやっていた。[1996年](../Page/1996年.md "wikilink")頃から[TVQ](../Page/TVQ九州放送.md "wikilink")「[とんでナイト北九州](https://ja.wikipedia.org/wiki/とんでナイト北九州 "wikilink")」MCや[TOWER RECORDS小倉店の店内DJを務める](../Page/タワーレコード.md "wikilink")\[2\]。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは地元に本社がある[CROSS FMで](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")『[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")』のナビゲーター（DJ）を担当、いよいよ全県中で知られる事となる。番組は2003年から『[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")』にリニューアルしたのち終了。2004年4月からは[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[天神にある同局の天神きらめき通りスタジオへ移動](../Page/天神_\(福岡市\).md "wikilink")、放送時間を[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")に移し『[CATEGORY T.T.](../Page/CATEGORY_T.T..md "wikilink")』の担当となる。また [2006年](../Page/2006年.md "wikilink")4月からはKBCラジオ、[2007年](../Page/2007年.md "wikilink")10月からはニッポン放送、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月からは大阪FM802にもその活躍の場を広げている。
@@ -22,7 +22,7 @@
 ## 現在の担当番組
 
   - [SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")（[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")、毎週木曜日担当 12:30 - 16:30）
-  - [TOGGY's AHEAD\!](https://ja.wikipedia.org/wiki/TOGGY's_AHEAD! "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")､ 毎週土曜日 17:00 - 19:00・2019年3月30日終了）
+  - [TOGGY's AHEAD\!](https://ja.wikipedia.org/wiki/TOGGY's_AHEAD! "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")､ 毎週土曜日 17:00 - 19:00・2019年3月30日終了）
   - TOGGYの清く正しくテキトーチャンネル（[J:COMチャンネル](https://ja.wikipedia.org/wiki/J:COMチャンネル "wikilink") [北九州・福岡・宗像](https://ja.wikipedia.org/wiki/ジェイコム九州 "wikilink")・[下関エリア](../Page/ケーブルネット下関.md "wikilink")）
   - TOGGYの START UP TODAY\! ([LOVE FM](../Page/ラブエフエム国際放送.md "wikilink")、月曜～金曜 6:30 - 6:58）
   - Midnight Soundscape ([LOVE FM](../Page/ラブエフエム国際放送.md "wikilink")、毎週木曜日 23:00 - 23:30）

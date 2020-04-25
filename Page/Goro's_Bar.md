@@ -73,14 +73,14 @@
 | 放送対象地域                                                                               | 放送局                                                                     | 放送日時                | 備考      |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------- | ------- |
 | [関東広域圏](../Page/広域放送.md "wikilink")                                                  | 東京放送（TBS、現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")）                      | 木曜23:59 - 翌0:29     | **制作局** |
-| [岩手県](../Page/岩手県.md "wikilink")                                                     | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）        | 同時ネット               |         |
+| [岩手県](../Page/岩手県.md "wikilink")                                                     | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                           | 同時ネット               |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [東北放送](../Page/東北放送.md "wikilink")（TBC）                                 |                     |         |
 | [山形県](../Page/山形県.md "wikilink")                                                     | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                           |                     |         |
 | [福島県](../Page/福島県.md "wikilink")                                                     | [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）                           |                     |         |
 | [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）              |                     |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）              |                     |         |
 | [山梨県](../Page/山梨県.md "wikilink")                                                     | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                               |                     |         |
-| [長野県](../Page/長野県.md "wikilink")                                                     | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）              |                     |         |
+| [長野県](../Page/長野県.md "wikilink")                                                     | [信越放送](../Page/信越放送.md "wikilink")（SBC）                                 |                     |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）              |                     |         |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink") | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）           |                     |         |
 | [山口県](../Page/山口県.md "wikilink")                                                     | [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）                               |                     |         |

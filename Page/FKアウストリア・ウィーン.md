@@ -295,7 +295,7 @@
 
   - [アンドレアス・オーグリス](https://ja.wikipedia.org/wiki/アンドレアス・オーグリス "wikilink") *（暫定監督）* (2015)
 
-  - [トルステン・フィンク](https://ja.wikipedia.org/wiki/トルステン・フィンク "wikilink") (2015–)
+  - [トルステン・フィンク](https://ja.wikipedia.org/wiki/トルステン・フィンク "wikilink") (2015–2018)
 
 ## 歴代所属選手
 

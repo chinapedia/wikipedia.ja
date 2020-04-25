@@ -1,7 +1,7 @@
 > この記事は[A song is born](https://ja.wikipedia.org/wiki/A_song_is_born)から翻訳されています。
 
 
-「**a song is born**」（ア・ソング・イズ・ボーン）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")と[KEIKO](../Page/KEIKO.md "wikilink")（[globe](https://ja.wikipedia.org/wiki/globe "wikilink")）の[デュエット](../Page/デュエット.md "wikilink")による[シングル](../Page/シングル.md "wikilink")。
+「**a song is born**」（ア・ソング・イズ・ボーン）は、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")と[KEIKO](../Page/KEIKO.md "wikilink")（[globe](https://ja.wikipedia.org/wiki/globe "wikilink")）の[デュエット](../Page/デュエット.md "wikilink")による[シングル](../Page/シングル.md "wikilink")。
 
 [2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、[songnation](https://ja.wikipedia.org/wiki/songnation "wikilink")プロジェクトのシングル曲。
 

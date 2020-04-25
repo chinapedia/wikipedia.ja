@@ -422,7 +422,7 @@
   - 「Ark」
     [天月-あまつき-](https://ja.wikipedia.org/wiki/天月-あまつき- "wikilink")によるオープニングテーマ。作詞・作曲は天月、編曲は[渡辺拓也](https://ja.wikipedia.org/wiki/渡辺拓也 "wikilink")。
   - 「WISH」\[15\]
-    majikoによるエンディングテーマ。作詞はmajiko、作曲・編曲は横山裕章。
+    [majiko](https://ja.wikipedia.org/wiki/majiko "wikilink")によるエンディングテーマ。作詞はmajiko、作曲・編曲は横山裕章。
 
 #### 第2期
 

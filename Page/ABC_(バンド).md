@@ -43,7 +43,7 @@
   - 1991年 - アブラカダブラ *(Abracadabra)* 全英50位
   - 1997年 - スカイスクレイピング *(Skyscraping)*
   - 2008年 - トラフィック *(Traffic)*
-  - 2016年 - *The Lexicon of Love II*
+  - 2016年 - *The Lexicon of Love II* 全英5位
 
 <!-- end list -->
 

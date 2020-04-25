@@ -26,7 +26,7 @@
 モバイルSuicaには会員種別がある。
 
   - モバイルSuica（通常会員）
-    年会費は、[Apple Pay版 Suicaは無料](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")\[8\]。それ以外のフィーチャーフォン等やAndoroid端末では税抜1,000円\[9\]。なお、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")以降は年会費が全面無料化される予定である\[10\]。決済用のクレジットカードは、[ビューカード](../Page/ビューカード.md "wikilink")・[Visa](../Page/Visa.md "wikilink")・[マスターカード](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")・[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")・[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")・[JR東海エクスプレス・カード](../Page/JR東海エクスプレス・カード.md "wikilink")のいずれかが登録できる。カード型Suicaはチャージに使用できるカードがビューカードに限定されるがそれと異なり、モバイルSuicaでは一般加盟店と同等の扱いとなる。
+    年会費は、[Apple Pay版 Suicaは無料](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")\[8\]。それ以外のフィーチャーフォン等やAndoroid端末では税抜1,000円\[9\]であったが、[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")以降は年会費が全面無料化された\[10\]。決済用のクレジットカードは、[ビューカード](../Page/ビューカード.md "wikilink")・[Visa](../Page/Visa.md "wikilink")・[マスターカード](../Page/マスターカード.md "wikilink")・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")・[アメリカン・エキスプレス](../Page/アメリカン・エキスプレス.md "wikilink")・[ダイナースクラブ](../Page/ダイナースクラブ.md "wikilink")・[JR東海エクスプレス・カード](../Page/JR東海エクスプレス・カード.md "wikilink")のいずれかが登録できる。カード型Suicaはチャージに使用できるカードがビューカードに限定されるがそれと異なり、モバイルSuicaでは一般加盟店と同等の扱いとなる。
   - [EASYモバイルSuica会員](https://ja.wikipedia.org/wiki/#EASYモバイルSuica "wikilink")
     [クレジットカード](../Page/クレジットカード.md "wikilink")の登録が不要である。通常会員に比べて利用できる機能に制約があるが、年会費は無料。利用前に現金や銀行でチャージする必要がある。紛失時の再発行はなく、記録を元に払い戻しになる\[11\]。
 
@@ -145,7 +145,7 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 モバイルSuica特急券で予約した列車の変更は、その列車の出発前であれば手数料なしで何度でもできる。カード決済処理は、「新規購入決済→無手数料による全額払戻」という手順で行われる。また、決済にデビットカードを使用している場合、同カードの「後日のバッチ処理でない限りは即時決済」という特性から、変更のつど払い戻しおよび新規購入の決済が行われるため、一時的に口座残高が目減りする。予約の取り消し（払い戻し）はその列車の出発前であれば320円の手数料で可能である。なお2015年（平成27年）3月14日に開業した[北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")長野－金沢間は、JR西日本管轄となる上越妙高以西についてもモバイルSuica特急券が導入された。JR西日本管轄区間のみのモバイルSuica特急券も発売する。JR東日本以外でモバイルSuica特急券が利用できる初のケースとなった[1](http://www.jreast.co.jp/press/2014/20141224.pdf)。また、2016年（平成28年）3月26日に開業した[北海道新幹線](https://ja.wikipedia.org/wiki/北海道新幹線 "wikilink")新青森－新函館北斗間でもモバイルSuica特急券の利用が可能となった。JR北海道管轄区間のみのモバイルSuica特急券も発売されている。[2](http://www.jreast.co.jp/press/2015/20160102.pdf)。
 
-2020年3月14日開始の「[新幹線eチケットサービス](https://ja.wikipedia.org/wiki/えきねっと#新幹線eチケットサービス "wikilink")」（モバイルSuicaだけではなく、交通系ICカード全般にサービスを拡充）にサービスが移行され、「モバイルSuica特急券」としてのサービスは20202020年3月13日をもってサービスを終了する予定\[32\]。
+2020年3月14日開始の「[新幹線eチケットサービス](https://ja.wikipedia.org/wiki/えきねっと#新幹線eチケットサービス "wikilink")」（モバイルSuicaだけではなく、交通系ICカード全般にサービスを拡充）にサービスが移行され、「モバイルSuica特急券」としてのサービスは2020年3月13日をもってサービスを終了した\[32\]。
 
 ### EX-ICサービス
 
@@ -323,6 +323,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
 
   - [Suica](../Page/Suica.md "wikilink")
   - [エクスプレス予約](../Page/エクスプレス予約.md "wikilink")（EX-ICサービスが利用可）
+  - [モバイルPASMO](../Page/モバイルPASMO.md "wikilink")
 
 ## 外部リンク
 

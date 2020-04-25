@@ -1402,7 +1402,7 @@
 
   - [NHKドラマホームページ 風林火山情報](http://www.nhk.or.jp/drama/html_news_fuurin.html)<small>（左記オリジナルURLの2008.1.2時点の[アーカイブ](http://web.archive.org/web/20080102060128/http://www3.nhk.or.jp/drama/html_news_fuurin.html)）</small>
   - [風林火山 NHK大河ドラマ](http://www.nhk.or.jp/drama/fuurin/)<small>（左記オリジナルURLの2008.1.14時点の[アーカイブ](http://web.archive.org/web/20080114012424/http://www.nhk.or.jp/drama/fuurin/)）</small>
-  - [NHKオンデマンド 大河ドラマ 風林火山](http://www.nhk-ondemand.jp/program/P201200086800000/index.html)(2017年2月29日まで)
+  - [NHKオンデマンド 大河ドラマ 風林火山](https://www.nhk-ondemand.jp/program/P201200086800000/index.html)(2017年2月29日まで)
   - [大河ドラマ 風林火山 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010547_00000)
   - [番組エピソード　大河ドラマ『風林火山』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga020)
 

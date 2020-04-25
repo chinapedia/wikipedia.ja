@@ -22,7 +22,7 @@
     <!-- end list -->
       -
         「[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")関西」CMソング、及び[TBS系番組](../Page/TBSテレビ.md "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』エンディングテーマ。
-        [2016年](../Page/2016年.md "wikilink")には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[BS11系アニメ](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")『[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink")』第4話エンディングテーマに起用された。
+        [2016年](../Page/2016年.md "wikilink")には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[BS11系アニメ](../Page/日本BS放送.md "wikilink")『[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink")』第4話エンディングテーマに起用された。
         [オーバーダビング](https://ja.wikipedia.org/wiki/オーバーダビング "wikilink")も少ない上、シンセサイザーによるアレンジもなく、シンプルに[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムというバンドサウンドだけで構成されており](../Page/ドラムセット.md "wikilink")、L'Arc〜en〜Cielのシングル作品としては珍しい楽曲となっている\[4\]。また、[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")として予定されたスケジュールで完成した為\[5\]、後年のインタビューでメンバーは「レコーディングの記憶があまりない\[6\]」と述べている。
         kenは普段[ストラト・シェイプのギターを使用しているが](../Page/フェンダー・ストラトキャスター.md "wikilink")、この曲のレコーディングでは初めて[フェンダー・カスタム・ショップ製の](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズマスターを使用している](../Page/フェンダー・ジャズマスター.md "wikilink")。また、共同プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")はこの曲のkenのギター・プレイについて、「ギターだけ取り出してみると「HONEY」に聴こえないんですよ。このギター1本でアレンジの柱ができていて、普通のバー・コードだけで弾いている曲だったら、あんなカッコいい曲にはなっていなかったと思います\[7\]」「ある種のラテンとかボサノバみたいなものを感じます\[8\]」と評している。
         ちなみに、1998年3月から行われたファンクラブイベント「[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")・アン・シエル」で訪れた[ホノルル](../Page/ホノルル.md "wikilink")で、hydeが夕日を見ながらこの曲を書き上げたことから、「ホノルルの夕べ」という仮タイトルが付けられていた。また、この曲で『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』に初出場を果たしている。

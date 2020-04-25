@@ -63,9 +63,9 @@
 
 :\* [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[カップヌードル](../Page/カップヌードル.md "wikilink")」（2001年）
 
-:\* [ダイハツ・タント](../Page/ダイハツ・タント.md "wikilink")カスタム（2005年） - [河口恭吾](../Page/河口恭吾.md "wikilink")、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")によるカバーを使用。
+:\* [ダイハツ・タント](../Page/ダイハツ・タント.md "wikilink")カスタム（2005年） - [河口恭吾](../Page/河口恭吾.md "wikilink")\[11\]、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")\[12\]によるカバーを使用。
 
-:\* [KDDI](../Page/KDDI.md "wikilink")・音楽配信サービス「[LISMO](../Page/LISMO.md "wikilink")」（2009年） - 初めて尾崎豊自身の映像がCMに使用される。
+:\* [KDDI](../Page/KDDI.md "wikilink")・音楽配信サービス「[LISMO](../Page/LISMO.md "wikilink")」（2009年）\[13\]\[14\] - 初めて尾崎豊自身の映像がCMに使用される。
 
 :\* [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（2010年） - 尾崎の息子である[尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")のカバーを使用。
 
@@ -75,49 +75,50 @@
 
 ### 日本語バージョン
 
-  - [ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")） - テレビ番組『[EXH](https://ja.wikipedia.org/wiki/EXH "wikilink")』内ソロライブ（2009年5月16日）
-  - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") - テレビ番組『[MUSIC FAIR21](https://ja.wikipedia.org/wiki/MUSIC_FAIR21 "wikilink")』内ライブ（2007年3月3日）
-  - [Infinix](../Page/Infinix.md "wikilink")& Voices （[Infinix](../Page/Infinix.md "wikilink")）『[尾崎豊が教えてくれたこと](https://ja.wikipedia.org/wiki/尾崎豊が教えてくれたこと "wikilink")〜YUTAKA OZAKI BALLAD COVERS〜』（2012年）
-  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") - ライブでのカバー。後にトリビュートアルバム『["BLUE" A TRIBUTE TO YUTAKA OZAKI](../Page/"BLUE"_A_TRIBUTE_TO_YUTAKA_OZAKI.md "wikilink")』に収録（2004年）
-  - [岡幸二郎](../Page/岡幸二郎.md "wikilink") - 『LOVE COLLECTION』（2005年）
-  - [岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")（ポルノグラフィティ） - 自身のラジオ番組でカバー
-  - [小田和正](../Page/小田和正.md "wikilink") - テレビ番組『[クリスマスの約束](../Page/クリスマスの約束.md "wikilink")2006』内ライブ（2006年）
-  - [男気レゲエ組](https://ja.wikipedia.org/wiki/男気レゲエ組 "wikilink") - 『絆レゲエ 〜明日に向かって歌え\!〜』（2011年）
-  - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 『SONGS うたが街に流れていた』（2008年）
-  - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink") - 『[TEN STORIES 2](https://ja.wikipedia.org/wiki/TEN_STORIES_2 "wikilink")』（2008年）
-  - [KARIN](https://ja.wikipedia.org/wiki/KARIN "wikilink") - シングル「SING 4 U」カップリング（2009年）
-  - [河口恭吾](../Page/河口恭吾.md "wikilink") - 『I LOVE YOU 〜singles〜』（2006年）
-  - [河村隆一](../Page/河村隆一.md "wikilink") - 『[evergreen anniversary edition](https://ja.wikipedia.org/wiki/evergreen_anniversary_edition "wikilink")』（2007年）
-  - [清木場俊介](../Page/清木場俊介.md "wikilink") - ライブでのカバー。『[ドキュメンタリー・ミュージックビデオ 宇部三部作 完全版](https://ja.wikipedia.org/wiki/ドキュメンタリー・ミュージックビデオ_宇部三部作_完全版 "wikilink")』収録（2011年）
-  - [清貴](../Page/清貴.md "wikilink")
-  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - [2012年](../Page/2012年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に放送された[TOKYO FM系列のラジオ番組](../Page/エフエム東京.md "wikilink")『[桑田佳祐のめでたい夜遊び 〜“歳越し”バースデースペシャル〜](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』や、2013年の[AAAイベント](../Page/アクト・アゲインスト・エイズ.md "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバー。
-  - [香寿たつき](https://ja.wikipedia.org/wiki/香寿たつき "wikilink") - 『Gladiolus（グラジオラス）』 （2018年）
-  - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") - ライブでのカバー。後にアルバム『[ALL COVERS BEST](https://ja.wikipedia.org/wiki/ALL_COVERS_BEST "wikilink")』に収録（2010年）
-  - [酒匂ミユキ](https://ja.wikipedia.org/wiki/酒匂ミユキ "wikilink") - 『MAN〜女が唄う男達のバラード〜』（2003年）
-  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 『UTATANE』（1993年）
-  - [さわち美欧](../Page/さわち美欧.md "wikilink") - 『さわち美欧 モン・レーヴ〜私の夢』（2005年）
-  - [姿月あさと](https://ja.wikipedia.org/wiki/姿月あさと "wikilink") - 『姿月あさと シンフォニック・アルバム』（2001年）
-  - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") - 『[男歌II〜20世紀ノスタルジア〜](https://ja.wikipedia.org/wiki/男歌II〜20世紀ノスタルジア〜 "wikilink")』（2010年）
-  - [姜暁艶](https://ja.wikipedia.org/wiki/姜暁艶 "wikilink")（ジャン・ショウイェン) - 『心恋〜LOVE〜』（2010年）
-  - [Deadline](https://ja.wikipedia.org/wiki/Deadline "wikilink") - 『PUNK IT\! TOKYO Vol.2』（2010年）
-  - [D-LITE (from BIGBANG)シングル収録](https://ja.wikipedia.org/wiki/D-LITE_\(from_BIGBANG\) "wikilink") feat. 葉加瀬太郎 (2013年)UULAオリジナルドラマ「I LOVE YOU」主題歌
-  - [堂本剛](../Page/堂本剛.md "wikilink") - ライブでのカバー。ビデオ『KinKi Kids'96』に収録（1996年）。後にアルバム『[カバ](https://ja.wikipedia.org/wiki/カバ_\(アルバム\) "wikilink")』に収録（2013年）
-  - [NAOKI](https://ja.wikipedia.org/wiki/NAOKI_\(ダンサー\) "wikilink")（EXILE） - ラジオ番組「[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")」でカバー
-  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") - シングル「[見えない星](../Page/見えない星.md "wikilink")」カップリング（2007年）
-  - [中西保志](../Page/中西保志.md "wikilink") - 『Standards2』（2007年）
-  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 『[フォーク・ソング2 〜歌姫哀翔歌](https://ja.wikipedia.org/wiki/フォーク・ソング2_〜歌姫哀翔歌 "wikilink")』（2009年）
-  - [成田剣](../Page/成田剣.md "wikilink") - トークCD『剣の舞』
-  - [畑儀文](../Page/畑儀文.md "wikilink") - 『シクラメンのかほり〜新しい日本のうた』（2001年）
-  - [飛蘭](https://ja.wikipedia.org/wiki/Faylan "wikilink") - 『[FAYvorite](https://ja.wikipedia.org/wiki/FAYvorite "wikilink")』（2014年）
-  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - [2011年](../Page/2011年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ](../Page/福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ.md "wikilink")』でカヴァー。
-  - [大倉忠義](../Page/大倉忠義.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[関ジャニ∞大倉忠義 日曜日好っきゃねん](https://ja.wikipedia.org/wiki/関ジャニ∞大倉忠義_日曜日好っきゃねん "wikilink")』でカヴァー。
-  - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink") - 『Ballade』（2008年）
-  - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 『[I LOVE YOU](../Page/I_LOVE_YOU_\(本田美奈子.のアルバム\).md "wikilink")』（2006年）
-  - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink") - 『pure flavor \#1〜color of love〜』（2007年）
-  - [桃井かおり](../Page/桃井かおり.md "wikilink") - 『More Standard』（1993年）
-  - [森進一](../Page/森進一.md "wikilink") - 『Love Music』（2009年）
-  - [未涼亜希](../Page/未涼亜希.md "wikilink") - 『14 COVERS TAKARAZUKA OTOKOUTA』（2011年）
-  - [和央ようか](../Page/和央ようか.md "wikilink") - 『麗人 REIJIN』（2015年）\[11\]
+  - [ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")） - テレビ番組『[EXH](https://ja.wikipedia.org/wiki/EXH "wikilink")』（2009年5月16日）内ソロライブ、『[第61回 輝く\! 日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』（2019年）にて歌唱\[15\]\[16\]。
+  - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") - テレビ番組『[MUSIC FAIR21](https://ja.wikipedia.org/wiki/MUSIC_FAIR21 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）（2007年3月3日）内ライブ。
+  - [Infinix](../Page/Infinix.md "wikilink") & Voices （Infinix）『[尾崎豊が教えてくれたこと](https://ja.wikipedia.org/wiki/尾崎豊が教えてくれたこと "wikilink")〜YUTAKA OZAKI BALLAD COVERS〜』（2012年12月5日）
+  - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") - ライブでのカバー。後にトリビュートアルバム『["BLUE" A TRIBUTE TO YUTAKA OZAKI](../Page/"BLUE"_A_TRIBUTE_TO_YUTAKA_OZAKI.md "wikilink")』（2004年3月24日）に収録。
+  - [岡幸二郎](../Page/岡幸二郎.md "wikilink") - 『LOVE COLLECTION』（2005年6月22日）
+  - [岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")（ポルノグラフィティ） - 自身のラジオ番組でカバー。
+  - [小田和正](../Page/小田和正.md "wikilink") - テレビ番組『[クリスマスの約束](../Page/クリスマスの約束.md "wikilink")2006』（[TBS](../Page/TBSテレビ.md "wikilink")、2006年）内ライブ。
+  - [男気レゲエ組](https://ja.wikipedia.org/wiki/男気レゲエ組 "wikilink") - 『絆レゲエ 〜明日に向かって歌え\!〜』（2011年12月21日）
+  - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 『SONGS うたが街に流れていた』（2008年5月7日）\[17\]
+  - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink") - 『[TEN STORIES 2](https://ja.wikipedia.org/wiki/TEN_STORIES_2 "wikilink")』（2008年2月20日）\[18\]
+  - [KARIN](https://ja.wikipedia.org/wiki/KARIN "wikilink") - シングル「SING 4 U」カップリング（2009年5月15日）
+  - [河口恭吾](../Page/河口恭吾.md "wikilink") - 『I LOVE YOU 〜singles〜』（2006年2月22日）
+  - [河村隆一](../Page/河村隆一.md "wikilink") - 『[evergreen anniversary edition](https://ja.wikipedia.org/wiki/evergreen_anniversary_edition "wikilink")』（2007年12月5日）
+  - [清木場俊介](../Page/清木場俊介.md "wikilink") - ライブでのカバー。『[ドキュメンタリー・ミュージックビデオ 宇部三部作 完全版](https://ja.wikipedia.org/wiki/ドキュメンタリー・ミュージックビデオ_宇部三部作_完全版 "wikilink")』（2011年5月25日）に収録。
+  - [清貴](../Page/清貴.md "wikilink") - ライブでのカバー。
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")） - [2012年](../Page/2012年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に放送された[TOKYO FM系列のラジオ番組](../Page/エフエム東京.md "wikilink")『[桑田佳祐のめでたい夜遊び 〜“歳越し”バースデースペシャル〜](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』や、2013年の[AAAイベント](../Page/アクト・アゲインスト・エイズ.md "wikilink")『昭和八十八年度\!第二回ひとり紅白歌合戦』でカバー\[19\]。
+  - [香寿たつき](https://ja.wikipedia.org/wiki/香寿たつき "wikilink") - 『Gladiolus』（2018年1月31日）
+  - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") - ライブでのカバー。後にアルバム『[ALL COVERS BEST](https://ja.wikipedia.org/wiki/ALL_COVERS_BEST "wikilink")』（2010年8月25日）に収録。
+  - [酒匂ミユキ](https://ja.wikipedia.org/wiki/酒匂ミユキ "wikilink") - 『MAN〜女が唄う男達のバラード〜』（2003年2月14日）
+  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 『UTATANE』（1993年4月14日）
+  - [さわち美欧](../Page/さわち美欧.md "wikilink") - 『さわち美欧 モン・レーヴ〜私の夢』（2005年2月23日）
+  - [姿月あさと](https://ja.wikipedia.org/wiki/姿月あさと "wikilink") - 『姿月あさと シンフォニック・アルバム』（2001年5月23日）
+  - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") - 『[男歌II〜20世紀ノスタルジア〜](https://ja.wikipedia.org/wiki/男歌II〜20世紀ノスタルジア〜 "wikilink")』（2010年1月27日）\[20\]
+  - [姜暁艶](https://ja.wikipedia.org/wiki/姜暁艶 "wikilink")（ジャン・ショウイェン) - 『心恋〜LOVE〜』（2010年9月30日）
+  - [Deadline](https://ja.wikipedia.org/wiki/Deadline "wikilink") - 『PUNK IT\! TOKYO Vol.2』（2010年3月3日）\[21\]
+  - [玉置浩二](../Page/玉置浩二.md "wikilink") - 『群像の星』（2014年12月3日）\[22\]\[23\]
+  - [D-LITE](https://ja.wikipedia.org/wiki/D-LITE "wikilink")（from [BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")）シングル「I LOVE YOU」（2013年7月31日）\[24\]、アルバム『D'slove』（2014年）収録\[25\]。[UULA](https://ja.wikipedia.org/wiki/UULA "wikilink") オリジナルドラマ『I LOVE YOU』主題歌。
+  - [堂本剛](../Page/堂本剛.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")） - ライブでのカバー。ビデオ『KinKi Kids'96』（1996年）に収録。後にアルバム『[カバ](https://ja.wikipedia.org/wiki/カバ_\(アルバム\) "wikilink")』（2013年5月8日）に収録\[26\]。
+  - [NAOKI](https://ja.wikipedia.org/wiki/NAOKI_\(ダンサー\) "wikilink")（EXILE） - ラジオ番組『[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")）でカバー。
+  - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") - シングル「[見えない星](../Page/見えない星.md "wikilink")」（2007年2月21日）カップリング。
+  - [中西保志](../Page/中西保志.md "wikilink") - 『Standards2』（2007年11月7日）
+  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 『[フォーク・ソング2 〜歌姫哀翔歌](https://ja.wikipedia.org/wiki/フォーク・ソング2_〜歌姫哀翔歌 "wikilink")』（2009年7月29日）
+  - [成田剣](../Page/成田剣.md "wikilink") - トークCD『剣の舞』（2004年9月24日）
+  - [畑儀文](../Page/畑儀文.md "wikilink") - 『シクラメンのかほり〜新しい日本のうた』（2001年1月20日）
+  - [飛蘭](https://ja.wikipedia.org/wiki/Faylan "wikilink") - 『[FAYvorite](https://ja.wikipedia.org/wiki/FAYvorite "wikilink")』（2014年3月26日）\[27\]\[28\]
+  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") - 2011年2月20日に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")系列のラジオ番組『[福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ](../Page/福山雅治のオールナイトニッポンサタデースペシャル・魂のラジオ.md "wikilink")』でカバー。
+  - [大倉忠義](../Page/大倉忠義.md "wikilink") - 2013年9月15日に放送されたニッポン放送系列のラジオ番組『[関ジャニ∞大倉忠義 日曜日好っきゃねん](https://ja.wikipedia.org/wiki/関ジャニ∞大倉忠義_日曜日好っきゃねん "wikilink")』でカバー。
+  - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink") - 『Ballade』（2008年9月10日）
+  - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - 『[I LOVE YOU](../Page/I_LOVE_YOU_\(本田美奈子.のアルバム\).md "wikilink")』（2006年3月29日）
+  - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink") - 『pure flavor \#1〜color of love〜』（2007年8月22日）
+  - [桃井かおり](../Page/桃井かおり.md "wikilink") - 『More Standard』（1993年10月21日）
+  - [森進一](../Page/森進一.md "wikilink") - 『Love Music』（2009年11月25日）\[29\]
+  - [未涼亜希](../Page/未涼亜希.md "wikilink") - 『14 COVERS TAKARAZUKA OTOKOUTA』（2011年3月16日）
+  - [和央ようか](../Page/和央ようか.md "wikilink") - 『麗人 REIJIN』（2015年1月21日）\[30\]\[31\]
 
 ### 英語バージョン
 
@@ -125,13 +126,13 @@
   - [デス・ダイアー](../Page/ジグソー.md "wikilink") (*Des Dyer*)
   - [デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")
       - 2010年11月放送の「MUSIC FAIR」では[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")とデュエットした。
-  - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink") - 『[COVERS:2](https://ja.wikipedia.org/wiki/COVERS:2 "wikilink")』（2012年）
+  - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink") - 『[COVERS:2](https://ja.wikipedia.org/wiki/COVERS:2 "wikilink")』（2012年）\[32\]
 
 ### 韓国語バージョン
 
   - [Zero](../Page/Zero_\(歌手\).md "wikilink") - シングル「あなたがいてくれるから」 type Blue カップリング (2012年)
 
-  - [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink") - シングル「ジグソーパズル」カップリング（2004年）
+  - [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink") - シングル「ジグソーパズル」カップリング（2004年）\[33\]\[34\]
 
   -
 ### 中国語バージョン
@@ -269,7 +270,10 @@ CSSL3248</p></td>
 
 ## 脚注
 
-[Category:尾崎豊の楽曲](https://ja.wikipedia.org/wiki/Category:尾崎豊の楽曲 "wikilink") [Category:1983年の楽曲](https://ja.wikipedia.org/wiki/Category:1983年の楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:日清カップヌードルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日清カップヌードルのコマーシャルソング "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:ダイハツのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ダイハツのコマーシャルソング "wikilink") [Category:コーヒーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーヒーのコマーシャルソング "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+## 外部リンク
+
+  -
+[Category:1983年の楽曲](https://ja.wikipedia.org/wiki/Category:1983年の楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:尾崎豊の楽曲](https://ja.wikipedia.org/wiki/Category:尾崎豊の楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:コーヒーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーヒーのコマーシャルソング "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:ダイハツのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ダイハツのコマーシャルソング "wikilink") [Category:日清カップヌードルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日清カップヌードルのコマーシャルソング "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink")
 
 1.
 2.
@@ -282,3 +286,26 @@ CSSL3248</p></td>
 9.
 10.
 11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.

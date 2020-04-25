@@ -12,7 +12,7 @@
 
 ## 影響
 
-[Vicious](https://ja.wikipedia.org/wiki/Vicious "wikilink")監修のコンピレーションアルバムで、[2Kの](../Page/KLF.md "wikilink")[\*\*\*k The Millenniumと](https://ja.wikipedia.org/wiki/:w:Fuck_the_Millennium "wikilink")[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")の[パラノイド・アンドロイド](https://ja.wikipedia.org/wiki/パラノイド・アンドロイド "wikilink")をお気に入りの曲として選んでいるほか\[1\]、あるインタビューで[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")、[メイヤ](../Page/メイヤ.md "wikilink")、[エンヤ](../Page/エンヤ.md "wikilink")、[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")を好きなアーティストとしてあげていた\[2\]。また、好きなジャンルは[ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")\[3\]と[トリップ・ホップ](../Page/トリップ・ホップ.md "wikilink")とのこと。
+[Vicious](https://ja.wikipedia.org/wiki/Vicious "wikilink")監修のコンピレーションアルバムで、[2Kの](../Page/KLF.md "wikilink")[\*\*\*k The Millenniumと](https://ja.wikipedia.org/wiki/:w:Fuck_the_Millennium "wikilink")[レディオヘッド](../Page/レディオヘッド.md "wikilink")の[パラノイド・アンドロイド](https://ja.wikipedia.org/wiki/パラノイド・アンドロイド "wikilink")をお気に入りの曲として選んでいるほか\[1\]、あるインタビューで[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")、[メイヤ](../Page/メイヤ.md "wikilink")、[エンヤ](../Page/エンヤ.md "wikilink")、[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")を好きなアーティストとしてあげていた\[2\]。また、好きなジャンルは[ダンス・ミュージック](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")\[3\]と[トリップ・ホップ](../Page/トリップ・ホップ.md "wikilink")とのこと。
 
 ルーツとなった音楽は[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")、[ボン・ジョヴィ](../Page/ボン・ジョヴィ.md "wikilink")、[バウハウス](../Page/バウハウス_\(バンド\).md "wikilink")\[4\]。
 

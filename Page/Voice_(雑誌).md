@@ -5,7 +5,7 @@
 
 [堺屋太一](../Page/堺屋太一.md "wikilink")、[天谷直弘](../Page/天谷直弘.md "wikilink")、[日下公人](../Page/日下公人.md "wikilink")、[藤岡和賀夫](https://ja.wikipedia.org/wiki/藤岡和賀夫 "wikilink")、[牛尾治朗](../Page/牛尾治朗.md "wikilink")、[長谷川慶太郎](../Page/長谷川慶太郎.md "wikilink")、[岡崎久彦](https://ja.wikipedia.org/wiki/岡崎久彦 "wikilink")、[大前研一](../Page/大前研一.md "wikilink")などを執筆者として創刊する\[1\]。
 
-。[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")政策、[経済政策](../Page/経済政策.md "wikilink")や[経営論](https://ja.wikipedia.org/wiki/経営論 "wikilink")も扱う。
+『[正論](../Page/正論_\(雑誌\).md "wikilink")』、『[諸君\!](../Page/諸君!.md "wikilink")』、『[WiLL](../Page/WiLL_\(雑誌\).md "wikilink")』などと並び、[保守](../Page/保守.md "wikilink")的な記事が多いが、『正論』などが力を入れる[教育](../Page/教育.md "wikilink")問題や[歴史認識](../Page/歴史認識.md "wikilink")問題、[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[大韓民国](../Page/大韓民国.md "wikilink")・[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")問題への比重は相対的に少なく、[政策](../Page/政策.md "wikilink")・[行政](../Page/行政.md "wikilink")関係の論考が中心}}。[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")政策、[経済政策](../Page/経済政策.md "wikilink")や[経営論](https://ja.wikipedia.org/wiki/経営論 "wikilink")も扱う。
 
 ## 発行部数
 

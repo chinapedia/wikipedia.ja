@@ -48,6 +48,8 @@
   - 音楽 - [奈良部匠平](../Page/奈良部匠平.md "wikilink")
   - 主題歌 - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")「砂の城」
   - 助監督 - 吉本潤
+  - 協力 - [ソニーミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニーミュージックエンタテインメント "wikilink")、芦屋倶楽部人間環境行動研究所
+  - 提供 - 株式会社プレイバッハ、[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")、[ミキハウス](https://ja.wikipedia.org/wiki/ミキハウス "wikilink")、株式会社フラワーカンパニー
 
 ### キャスト
 

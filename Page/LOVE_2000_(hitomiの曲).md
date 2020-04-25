@@ -62,7 +62,7 @@
 
   - \[<https://www.hitomilovelife.net/discography/detail.php?id=1002411>　hitomi offical website　DISCOGRAPHY\]
 
-[Category:Hitomiの楽曲](https://ja.wikipedia.org/wiki/Category:Hitomiの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:スポーツ音楽](https://ja.wikipedia.org/wiki/Category:スポーツ音楽 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:高橋尚子](https://ja.wikipedia.org/wiki/Category:高橋尚子 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:Hitomiの楽曲](https://ja.wikipedia.org/wiki/Category:Hitomiの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:スポーツ音楽](https://ja.wikipedia.org/wiki/Category:スポーツ音楽 "wikilink") [Category:高橋尚子](https://ja.wikipedia.org/wiki/Category:高橋尚子 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.
 2.

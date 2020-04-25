@@ -52,7 +52,8 @@
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:BMW_E32_740iL.JPG "wikilink") [200px](https://ja.wikipedia.org/wiki/ファイル:BMW_E32_735i.JPG "wikilink")
 
-2代目7シリーズ。更に洗練されスマートになったボディが特徴。[空気抵抗係数（Cd値）は](../Page/抗力.md "wikilink")0.32を達成。また、従来モデルで達成できなかった[V型12気筒](../Page/V型12気筒.md "wikilink")エンジンを遂に完成させ、W126に脅威を与える。750i/iLは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[ドイツ車](../Page/ドイツ車.md "wikilink")で初のV12エンジン搭載車である。750iLによりW140の開発がずれ込むことになる
+2代目7シリーズ。更に洗練されスマートになったボディが特徴。[空気抵抗係数（Cd値）は](../Page/抗力.md "wikilink")0.32を達成。また、従来モデルで達成できなかった[V型12気筒](../Page/V型12気筒.md "wikilink")エンジンを遂に完成させ、W126に脅威を与える。750i/iLは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の[ドイツ車](../Page/ドイツ車.md "wikilink")で初の[V型12気筒](../Page/V型12気筒.md "wikilink")エンジン搭載車である。750iLにより、W140の開発がずれ込むことになる。
+
 変速機は、4速もしくは5速ATに加え、5速MTも存在したが、日本にはAT車のみが正規輸入された。
 
 <table>
@@ -242,7 +243,7 @@ ActiveHybrid 7L</p></td>
 
 「[i3](https://ja.wikipedia.org/wiki/BMW・i3 "wikilink")」や「[i8](https://ja.wikipedia.org/wiki/BMW・i8 "wikilink")」で培われた[炭素繊維](../Page/炭素繊維.md "wikilink")技術を用いたボディ構造「カーボン・コア」を採用することにより従来比最大130 kgの軽量化が図られている\[6\]。
 
-エンジンはガソリンエンジン2種類、ディーゼルエンジン1種類と、プラグインハイブリッドを用意。それぞれに8速ATが組み合わされる。
+エンジンはガソリンエンジン2種類、ディーゼルエンジン1種類と、[プラグインハイブリッド](https://ja.wikipedia.org/wiki/プラグインハイブリッド "wikilink")を用意。それぞれに8速ATが組み合わされる。
 
 外部からのリモートキー操作により自動的に駐車できる世界初の「リモートパーキング」、ジェスチャー操作やタッチパネルも採用した新世代のiDriveなどの新技術が採用されている。
 
@@ -345,7 +346,7 @@ ActiveHybrid 7L</p></td>
 
 ロングホイールベース (G12) 2019年 -
 
-BMW Engine 740i L6.jpg|740iのエンジン BMW 7Series Carbon Core Emblem.jpg|B[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")に所在するカーボン`・`コア使用を示すエンブレム。 BMW 7Series Rear (left).jpg|740i 右後部 BMW 750Li by Japan specification.jpg|750Li BMW sixth-generation 7Series in Tokyo-MotorShow 2015.jpg|第44回東京モーターショー出品車
+BMW Engine 740i L6.jpg|740iのエンジン BMW 7Series Carbon Core Emblem.jpg|B[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")に所在するカーボン`・`コア使用を示すエンブレム。 BMW 7Series Rear (left).jpg|740i 右後部 BMW 750Li by Japan specification.jpg|750Li BMW sixth-generation 7Series in Tokyo-MotorShow 2015.jpg|第44回[東京モーターショー](../Page/東京モーターショー.md "wikilink")出品車
 
 {{-}}
 

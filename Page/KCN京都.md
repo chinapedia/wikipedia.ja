@@ -90,13 +90,13 @@
 |      | ~~B102~~   | ~~[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")~~                |
 |      | B103       | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")                                                   |
 |      | B141〜143   | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                 |
-|      | B151〜153   | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                             |
+|      | B151〜153   | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                |
 |      | B161〜163   | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                              |
 |      | B171〜173   | [BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")                                                             |
 |      | B181〜183   | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                  |
 | 56   | B191〜193   | [WOWOW](../Page/WOWOW.md "wikilink")                                                                                |
 |      | B200       | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")BS                                                                      |
-|      | B211       | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                                         |
+|      | B211       | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                                            |
 |      | B222       | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                                   |
 | 33   | C016       | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                                                       |
 |      | C051       | [KBS WORLD](../Page/韓国放送公社.md "wikilink")                                                                           |

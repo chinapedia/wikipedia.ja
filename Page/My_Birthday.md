@@ -10,9 +10,9 @@
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は『愛と占いの情報誌』。初の[ティーンズ向け占い情報誌として創刊された](../Page/ティーンエイジャー.md "wikilink")。毎月・毎日の[星占いと各月の](../Page/西洋占星術.md "wikilink")[誕生星座の詳細な星占いを連載し](https://ja.wikipedia.org/wiki/十二宮 "wikilink")、各種の[占い](../Page/占い.md "wikilink")や[心理テスト](../Page/通俗心理学.md "wikilink")、[おまじない](https://ja.wikipedia.org/wiki/呪術 "wikilink")、[白魔術](../Page/白魔術.md "wikilink")の特集を組んだ誌面で戦後第3次占い[ブームの波に乗り公称](../Page/流行.md "wikilink")40万部の人気雑誌となった。\[1\]
   - 占い、おまじないのみならず、ティーンズ[ファッション](../Page/ファッション.md "wikilink")、ビューティーケア、[ダイエット](https://ja.wikipedia.org/wiki/ダイエット "wikilink")などの10代女性が関心を持つ事項も扱っていた。
   - 有料制の読者会員制度を有していた（[後述](https://ja.wikipedia.org/wiki/My_Birthday#MBメイト会員制度 "wikilink")）。
-  - 2006年12月号をもって無期休刊（事実上の廃刊）。
+  - 2006年12月号をもって無期[休刊](../Page/休刊.md "wikilink")（事実上の廃刊）。
   - 2006年3月21日よりMyBirthdayHappyWeb（マイバースデイハッピーウェブ）として復活。
-  - 2010年3月通信販売でのみでMyBirthdayファンブックを販売（1890円）
+  - 2010年3月通信販売でのみでMyBirthdayファンブックを販売（1,890円）
   - ファンブックのふろく「ケントナカイの2010年星座読本」、「海のしずくペンダント」、「開運！お札シール」
 
 ### 主な連載
@@ -20,7 +20,7 @@
   - 人気指数ランキング　
     読者アンケートによる著名人の人気ランキング。
   - ココロ・スイッチ　　
-    様々に場面の『きっかけ』を[飯野賢治](https://ja.wikipedia.org/wiki/飯野賢治 "wikilink")が書いた[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")。題字は毎回読者から募集している。　
+    様々な場面の『きっかけ』を[飯野賢治](https://ja.wikipedia.org/wiki/飯野賢治 "wikilink")が書いた[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")。題字は毎回読者から募集している。　
   - オフバースディ　
     読者が文通相手等を募集する。　
   - 日本の夜明け　
@@ -91,7 +91,7 @@
           - 誌上通販
           - おまじないグッズショップ「[魔女っこハウス](https://ja.wikipedia.org/wiki/魔女っこハウス "wikilink")」
       - 一般店舗
-          - [クレープ](../Page/クレープ.md "wikilink")ハウス・ユニ
+          - [クレープハウス・ユニ](https://ja.wikipedia.org/wiki/クレープハウス・ユニ "wikilink")
           - [生活の木](https://ja.wikipedia.org/wiki/生活の木 "wikilink")
 
 ## 関連誌

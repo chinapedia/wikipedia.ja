@@ -144,7 +144,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a> (SBC)</p></td>
+<td style="text-align: center;"><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a> (SBC)</p></td>
 <td style="text-align: center;"><p>日曜 25:15～25:30</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -229,7 +229,7 @@
 **その他のネット局**
 
   - [青森テレビ](../Page/青森テレビ.md "wikilink")-1998年春まで
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")-1998年から2001年まで中断、途中打ち切り
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")-1998年から2001年まで中断、途中打ち切り
 
 ## 関連項目
 

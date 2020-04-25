@@ -11,7 +11,7 @@
 
 「LOVE YOU ONLY」以外はメンバー全員が[ボーカリストとして参加している](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。
 
-アルバムとしては初のオリコン1位獲得、最高初動作品となっている。また、男性ボーカルのカバー・アルバムとしては、[1977年](../Page/1977年.md "wikilink")（昭和52年）発売された[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")の『[ぷらいべえと](https://ja.wikipedia.org/wiki/ぷらいべえと "wikilink")』以来約27年ぶりのオリコン1位獲得作品となった。
+アルバムとしては初のオリコン1位獲得、最高初動作品となっている。また、男性ボーカルのカバー・アルバムとしては、[1977年](../Page/1977年.md "wikilink")（昭和52年）発売された[吉田拓郎](../Page/吉田拓郎.md "wikilink")の『[ぷらいべえと](https://ja.wikipedia.org/wiki/ぷらいべえと "wikilink")』以来約27年ぶりのオリコン1位獲得作品となった。
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）[6月24日](../Page/6月24日.md "wikilink")に[J Stormから再発売された](https://ja.wikipedia.org/wiki/J_Storm "wikilink")。これに合わせてユニバーサルから発売されたオリジナル盤は廃盤となった。
 

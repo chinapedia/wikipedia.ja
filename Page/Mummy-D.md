@@ -196,6 +196,7 @@ Mr.Drunk名義での作品を含む
       - 2.Gradation feat.[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink"),[SMALLEST](https://ja.wikipedia.org/wiki/SMALLEST "wikilink"),[SHOGO](../Page/SHOGO.md "wikilink")
       - 7.恋のクロスフェーダー
       - 12.足跡の中を旅してる feat.CUEZERO,童子-T,Mummy-D
+  -
   - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")『[三文ゴシップ](https://ja.wikipedia.org/wiki/三文ゴシップ "wikilink")』（2009年6月24日）
       - 1.流行
       - 10.尖った手口
@@ -223,7 +224,7 @@ Mr.Drunk名義での作品を含む
   - [トランジットガールズ](https://ja.wikipedia.org/wiki/トランジットガールズ "wikilink")（2015年11月7日 - 12月26日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 葉山圭吾 役
   - [カルテット](https://ja.wikipedia.org/wiki/カルテット_\(2017年のテレビドラマ\) "wikilink") 第1話 - 第4話・最終話（2017年1月17日 - 2月7日・3月21日、TBS） - 半田温志 役
   - [dele](https://ja.wikipedia.org/wiki/dele#テレビドラマ "wikilink") 第7話（2018年9月7日、テレビ朝日） - 上野兼人 役
-  - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって#テレビドラマ "wikilink") 第2話 - （2020年3月2日 - 、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") / 3月4日 - 、TBS） - 社長 役
+  - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって#テレビドラマ "wikilink") 第2話・第3話（2020年3月2日・9日、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") / 3月4日・11日、TBS） - 社長 役
 
 ### CM
 

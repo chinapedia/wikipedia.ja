@@ -57,6 +57,6 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:小松未歩が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩が制作した楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:中華一番\!](https://ja.wikipedia.org/wiki/Category:中華一番! "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:小松未歩が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩が制作した楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:中華一番\!](https://ja.wikipedia.org/wiki/Category:中華一番! "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  テレビで放映されたものは、ゆったり始まるシングル盤とは異なり、最初からハードな曲調である。このバージョンは、同アニメのサントラCDに収録されている。また、シングルのリリース前後に行われていたコンサート・ツアーにおいてはアニメに近いバージョンで演奏されており、コーラスやギター・ソロも異なっていた。

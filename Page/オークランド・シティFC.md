@@ -27,6 +27,10 @@
 
 [2017年のFIFAクラブワールドカップでは](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ2017 "wikilink")、初戦で開催国王者の[アル・ジャジーラ・クラブ](../Page/アル・ジャジーラ・クラブ.md "wikilink")と対戦し0-1で敗れた。
 
+2018-19シーズンは無敗でリーグ優勝を果たしたものの、[OFCチャンピオンズリーグ](../Page/OFCチャンピオンズリーグ.md "wikilink")準決勝で同じニュージーランド勢の[チームウェリントンに敗北し](https://ja.wikipedia.org/wiki/チーム・ウェリントンFC "wikilink")[クラブワールドカップ出場を逃した](../Page/FIFAクラブワールドカップ.md "wikilink")。
+
+2019-20シーズンは[チームウェリントンの監督をしていたホセ](https://ja.wikipedia.org/wiki/チーム・ウェリントンFC "wikilink")・フィゲイラが新たに監督に就任した。
+
 ## タイトル
 
 ### 国内タイトル

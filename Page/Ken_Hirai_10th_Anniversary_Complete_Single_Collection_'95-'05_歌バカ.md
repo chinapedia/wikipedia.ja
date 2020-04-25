@@ -65,6 +65,7 @@
 2.  **[KISS OF LIFE](../Page/KISS_OF_LIFE_\(平井堅の曲\).md "wikilink")**
       - 13thシングル
       - フジテレビ系ドラマ「[ラブ・レボリューション](../Page/ラブ・レボリューション.md "wikilink")」主題歌
+      - シングルバージョンはアルバム初収録。
 3.  **[Missin' you 〜It will break my heart〜](../Page/Missin'_you_〜It_will_break_my_heart〜.md "wikilink")**
       - 14thシングル
 4.  **[Strawberry Sex](../Page/Strawberry_Sex.md "wikilink")**
@@ -81,6 +82,7 @@
       - 18thシングル
       - TBS系ドラマ「[ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")」主題歌
       - [任天堂](../Page/任天堂.md "wikilink")「[ファイアーエムブレム 烈火の剣](../Page/ファイアーエムブレム_烈火の剣.md "wikilink")」CMソング
+      - 5thアルバム『[LIFE is...](../Page/LIFE_is....md "wikilink")』からのリカットシングル。このバージョンはアルバム初収録。
 8.  **[style](../Page/Style_\(平井堅の曲\).md "wikilink")**
       - 19thシングル
 9.  **[瞳をとじて](../Page/瞳をとじて.md "wikilink")**
@@ -96,9 +98,7 @@
 12. **[POP STAR](../Page/POP_STAR.md "wikilink")**
       - 23rdシングル
       - フジテレビ系ドラマ「[危険なアネキ](../Page/危険なアネキ.md "wikilink")」主題歌
-    <!-- end list -->
-      -
-        アルバム初収録。
+      - アルバム初収録。
 
 ## 脚注
 

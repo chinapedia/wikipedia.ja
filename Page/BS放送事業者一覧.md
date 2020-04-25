@@ -83,7 +83,7 @@
 <td><p>5</p></td>
 <td><p><strong>151</strong>,152,153</p></td>
 <td><p>(753,<strong>755</strong>,756,757)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">ビーエス朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">ビーエス朝日</a></p></td>
 <td><p>BS朝日</p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系。</p></td>
 </tr>

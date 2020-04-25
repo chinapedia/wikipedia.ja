@@ -69,7 +69,7 @@
 ## 出演者
 
 <table>
-<caption><strong>「FNN NEWSCOM」歴代のキャスター一覧</strong></caption>
+<caption><strong>「FNN NEWSCOM」歴代キャスター一覧</strong></caption>
 <thead>
 <tr class="header">
 <th><p>期間</p></th>
@@ -79,7 +79,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>メイン</p></td>
+<td><p>総合司会</p></td>
 <td><p>女性サブ</p></td>
 <td><p>男性サブ<sup>1</sup></p></td>
 </tr>

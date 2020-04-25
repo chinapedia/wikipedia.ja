@@ -151,7 +151,7 @@ SH-Mobileをベースに[W-CDMA](../Page/W-CDMA.md "wikilink")および[GSM](htt
   - [ルネサス エレクトロニクス.SuperHファミリ](http://japan.renesas.com/products/mpumcu/superh/index.jsp)
   - [ルネサス エレクトロニクス.SH-Mobile](http://japan.renesas.com/products/soc/assp/mobile/index.jsp)
 
-[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:日立製作所](https://ja.wikipedia.org/wiki/Category:日立製作所 "wikilink")
+[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink") [Category:日立製作所](https://ja.wikipedia.org/wiki/Category:日立製作所 "wikilink")
 
 1.
 2.

@@ -165,10 +165,10 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p>テレビ岡山<br />
-（現：<a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>）</p></td>
+<td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a></p></td>
 <td><p>FNN/ANN</p></td>
-<td><p>1979年3月打ち切り[14][15][16]</p></td>
+<td><p>放送当時の愛称：テレビ岡山<br />
+1979年3月打ち切り[14][15][16]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>

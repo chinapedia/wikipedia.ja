@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>NNN/ANN</p></td>
 <td><p>●1978年10月1日から終了まで</p></td>
 </tr>

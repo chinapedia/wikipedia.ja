@@ -94,7 +94,7 @@
   - YTV [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink") - [NNNニュースワイドTODAY](../Page/ニュースワイド_TODAY.md "wikilink")
   - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - [ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
   - HTV [広島テレビ](../Page/広島テレビ放送.md "wikilink") - [NNNひろしまTODAY](../Page/NNNひろしまTODAY.md "wikilink")
-  - KRY [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - [KRYテレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")
+  - KRY [山口放送](../Page/山口放送.md "wikilink") - [KRYテレビ夕刊](../Page/KRY_テレビ夕刊.md "wikilink")
   - JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [フォーカス徳島](../Page/フォーカス徳島.md "wikilink")（｢フォーカス徳島｣自体は現在も放送中）
   - RNC [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNC6:00](../Page/RNC6:00.md "wikilink")
   - RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS5-30](../Page/なんかいNEWS5-30.md "wikilink")（17:30開始）

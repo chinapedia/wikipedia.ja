@@ -61,7 +61,6 @@
   - [2019年](../Page/2019年.md "wikilink")（平成31年 / 令和元年）
       - [4月1日](../Page/4月1日.md "wikilink") - 開局以来初となるマスコットキャラクター「バブちゅ～」を制定。
       - [9月1日](../Page/9月1日.md "wikilink") - 2018年12月1日（各局開局18周年）に開局していた他のキー局系BS局より9か月遅れて[新4K8K衛星放送](https://ja.wikipedia.org/wiki/4K_8Kテレビ放送 "wikilink")「**BS日テレ4K**」開局。なお、当初は同年12月1日付（開局19周年、他のキー局系BS局より1年遅れ）での開局をアナウンスしていたが、日本テレビ系列が中継権を獲得していた[ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink")の国際映像が4K制作となったため、その開幕（[9月20日](../Page/9月20日.md "wikilink")）に間に合わせるべく3か月前倒しでの開局に踏み切った\[4\]。なお2Kサービスと同じ「4」のリモコンキーIDは他局の4K放送開始時点で予約済み。
-  - [2020年](../Page/2020年.md "wikilink")（令和2年）[12月1日](../Page/12月1日.md "wikilink")（予定） - 開局20周年を迎える。
 
 ## 資本構成
 
@@ -482,47 +481,54 @@
 <td><p>黄金の豚～会計検査庁　特別調査課～</p></td>
 <td><p>木曜 20:00 - 20:54</p></td>
 <td><p>国内ドラマの帯放送枠</p></td>
-<td><p>2020年4月16日スタート予定</p></td>
+<td><p>2020年4月16日スタート</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>KING OF DANCE</p></td>
+<td><p>木曜 23:00 - 23:30</p></td>
+<td><p>2020年5月7日スタート予定 地上波では読売テレビと中京テレビで放送</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>サスペンス名作選</p></td>
 <td><p>土曜 - 日曜 12:00 - 13:52</p></td>
 <td><p>火曜サスペンス劇場の再放送枠</p></td>
 <td><p>ドラマ以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や通販番組が編成される週もある</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海外ドラマ</p></td>
-<td><p>スイッチ〜君と世界を変える〜</p></td>
+<td><p>黄金の私の人生</p></td>
 <td><p>月曜 - 金曜 11:30 - 12:30</p></td>
 <td><p>韓国ドラマ</p></td>
 <td><p>一部はSD画質放送<br />
 日本語字幕版（全作品）<br />
 データ（一部のみ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大王世宗</p></td>
 <td><p>月曜 - 金曜 13:00 - 14:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>愛してる、泣かないで</p></td>
 <td><p>月曜 - 金曜 16:00 - 17:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>オスマン帝国外伝〜愛と欲望のハレム〜 シーズン2</p></td>
 <td><p>月曜 - 金曜 14:30 - 15:30</p></td>
 <td><p>海外ドラマの帯放送枠</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ドラマ特番</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BS笑点ドラマスペシャル" title="wikilink">BS笑点ドラマスペシャル</a></p></td>
 <td><p>不定期</p></td>
@@ -567,7 +573,7 @@
 <tr class="odd">
 <td><p>友近・礼二の妄想トレイン</p></td>
 <td><p>月曜 21:00 - 22:00</p></td>
-<td><p>2020年4月13日スタート予定</p></td>
+<td><p><s>2020年4月13日スタート予定</s> 放送開始日変更、開始日未定。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑点_なつかし版" title="wikilink">笑点 なつかし版</a></p></td>
@@ -614,7 +620,7 @@
 <tr class="even">
 <td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
 <td><p>第3金曜 23:00 - 24:00</p></td>
-<td><p>2020年4月17日スタート予定</p></td>
+<td><p><s>2020年4月17日スタート予定</s> 放送開始日変更、開始日未定。</p></td>
 </tr>
 <tr class="odd">
 <td><p>てぇてぇTV</p></td>
@@ -693,7 +699,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/NNNドキュメント.md" title="wikilink">NNNドキュメント</a></p></td>
-<td><p>日曜 8:00 - 8:30（または 8:55）</p></td>
+<td><p>日曜 8:00 - 8:30 or 8:55</p></td>
 <td><p>日本テレビ系列制作　地上波より7日遅れ 2020年3月29日までは日曜 11:00 - 11:30（または 11:55）で放送していた。</p></td>
 </tr>
 <tr class="even">
@@ -742,52 +748,47 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Artist" title="wikilink">Artist</a></p></td>
-<td><p>月曜 5:00 - 5:30</p></td>
-<td><p>2019年4月1日スタート</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BS日本・こころの歌" title="wikilink">BS日本・こころの歌</a></p></td>
 <td><p>月曜 19:00 - 19:54</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/歌謡プレミアム" title="wikilink">歌謡プレミアム</a></p></td>
 <td><p>月曜 20:00 - 20:54</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イマウタ_-Right_On!_Music-" title="wikilink">イマウタ -Right On! Music-</a></p></td>
 <td><p>月曜 23:00 - 23:29</p></td>
 <td><p>2019年10月7日より毎週放送に変更。<br />
 2019年4月19日 - 9月6日[8]は、第3金曜 23:00 - 23:55に放送された。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/新・3人の歌仲間" title="wikilink">新・3人の歌仲間 with DAM CHANNEL 演歌</a></p></td>
 <td><p>火曜 5:00 - 5:30</p></td>
 <td><p>2019年4月2日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/令和歌謡塾" title="wikilink">令和歌謡塾</a></p></td>
 <td><p>水曜 5:00 - 5:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>あさうたワイド</p></td>
 <td><p>木曜 5:00 - 5:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/読響シンフォニックライブ" title="wikilink">読響シンフォニックライブ</a></p></td>
 <td><p>月1回 土曜 7:00 - 8:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>THE LIVE</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ももいろ歌合戦" title="wikilink">ももいろ歌合戦</a></p></td>
 <td><p>毎年<a href="../Page/12月31日.md" title="wikilink">12月31日</a> - 翌<a href="../Page/1月1日.md" title="wikilink">1月1日</a></p></td>
 <td><p>2018年から放送。<br />
@@ -1131,7 +1132,7 @@
   - [緊急地震速報](../Page/緊急地震速報.md "wikilink")やNNNニュース速報などの速報テロップは、日本テレビや[系列各局と同じフォーマットである](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")。開局当初よりチャイム音は独自のもので「キンコーン」と鳴っていたが、2014年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")より日本テレビと同じチャイム音に変更された。
   - [提供クレジット](../Page/提供クレジット.md "wikilink")の表示は、開局当初は「カットイン・カットアウト」方式で行っていた。その後、2011年[11月](../Page/11月.md "wikilink")頃から民放系のBSデジタル局では唯一「フェードイン・カットアウト」方式に変更されたが、[2012年](../Page/2012年.md "wikilink")3月頃に「フェードイン・フェードアウト」方式に再変更された。ただし、書体などのレイアウトは開局以来変更はないが、一社・複数社を問わず、ほとんどの番組で薄い白地の絨毯をバックにカラー表示している。
   - 番組スポンサーがつかない番組では、提供クレジット部分で画面右下にチャンネルロゴを表示している。ただし、サスペンス名作選（[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")）など一部番組では、チャンネルロゴではなく番組タイトルを表示している。また、提供ベースがない番組（特に深夜アニメの一部）では表示されない。
-  - [韓国などのアジア地域で制作された](../Page/大韓民国.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")や[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")を、いわゆる「[韓流](../Page/韓流.md "wikilink")ブーム」が到来した頃から積極的に放映しており、平日は1日四本と他局より多い。
+  - [韓国などのアジア地域で制作された](../Page/大韓民国.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")や[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")を、いわゆる「[韓流](../Page/韓流.md "wikilink")ブーム」が到来した頃から積極的に放映している。
   - 近年は[Fun\!BASEBALL\!\!](../Page/Fun!BASEBALL!!.md "wikilink")の中継日数が[地上波](../Page/地上波.md "wikilink")よりも増加しており、「接触率」が地上波各局を上回る日もあり、年間・年度の各部門で首位を獲得したこともある\[11\]。
       - 2011年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")には将来の[3Dテレビ放送の普及をにらんだ試みとして](../Page/立体テレビ放送.md "wikilink")、プロ野球開幕戦「巨人対横浜」戦（[東京ドーム](../Page/東京ドーム.md "wikilink")）を「[VIERA](../Page/VIERA.md "wikilink")プロ野球開幕スペシャル」（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")1社協賛）で3D映像を使って実況放送する予定を組んでいた\[12\]。しかし、この2週間前の[3月11日](../Page/3月11日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生し、プロ野球開幕が[4月12日](../Page/4月12日.md "wikilink")の「巨人対ヤクルト」戦（[宇部市ユーピーアールスタジアム](../Page/宇部市野球場.md "wikilink")）まで延期されたため、この試みは中止となった。日テレグループはプロ野球3D中継を地上波・CS（日テレジータス・[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス_ドラマ・アニメ・スポーツ "wikilink")）を含めた新たなブランディング戦略の一環と位置付け、新たな野球中継の形を提案しようとする全社を挙げたプロジェクトとして大々的にPRしたが、これ以後も3D中継の企画は実現のめどが立たず、結果的に「幻の企画」となってしまった。
   - 開局当初、特に平日の日中には長時間にわたって日テレNEWS24の[同時放送が行われており](../Page/サイマル放送.md "wikilink")、全時間帯の7割にも及んでいた。
@@ -1159,10 +1160,9 @@
   -
   -
   -
-  -
 [Category:BS日テレ](https://ja.wikipedia.org/wiki/Category:BS日テレ "wikilink") [Category:日本のBSテレビ局](https://ja.wikipedia.org/wiki/Category:日本のBSテレビ局 "wikilink") [Category:日本民間放送連盟会員](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟会員 "wikilink") [Category:日本テレビグループ](https://ja.wikipedia.org/wiki/Category:日本テレビグループ "wikilink") [Category:衛星基幹放送事業者](https://ja.wikipedia.org/wiki/Category:衛星基幹放送事業者 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1998年設立のテレビ局](https://ja.wikipedia.org/wiki/Category:1998年設立のテレビ局 "wikilink")
 
-1.  [BS日本が来春の本社移転に向けてロゴマークなどを来年1月に一新](http://itpro.nikkeibp.co.jp/article/NEWS/20131202/521947/),ITpro,2013年12月2日
+1.  [BS日本が来春の本社移転に向けてロゴマークなどを来年1月に一新](https://xtech.nikkei.com/it/article/NEWS/20131202/521947/),ITpro,2013年12月2日
 2.
 3.
 4.  [ＢＳ日テレ　４Ｋ放送開始を３カ月前倒し　ラグビーＷ杯のため来年９月１日から](https://www.sponichi.co.jp/entertainment/news/2018/11/26/kiji/20181126s00041000243000c.html)スポーツニッポン 2018年11月26日

@@ -79,7 +79,7 @@ CS2-ND24chの[トランスポンダ](../Page/トランスポンダ.md "wikilink"
 
 ## 外部リンク
 
-  - [CS日本 WEBSITE](http://www.cs-nippon.com/)
+  - [CS日本 WEBSITE](https://www.cs-nippon.com/)
 
 [Category:衛星基幹放送事業者](https://ja.wikipedia.org/wiki/Category:衛星基幹放送事業者 "wikilink") [Category:日本テレビグループ](https://ja.wikipedia.org/wiki/Category:日本テレビグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
 

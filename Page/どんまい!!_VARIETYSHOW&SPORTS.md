@@ -154,7 +154,7 @@
 <tr class="odd">
 <td><p>1996.10.7</p></td>
 <td><p>1997.3.27</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BREAK!" title="wikilink">BREAK!</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/BREAK_(テレビ番組)" title="wikilink">BREAK</a><br />
 （読売テレビ制作）</p></td>
 <td></td>
 <td></td>
@@ -218,7 +218,7 @@
 
 #### 1996年10月 - 1997年9月
 
-  - 月曜 [BREAK\!](https://ja.wikipedia.org/wiki/BREAK! "wikilink")（読売テレビ制作） - 司会：[清水圭・和泉修](../Page/清水圭・和泉修.md "wikilink")、[中元綾子](../Page/中元綾子.md "wikilink")（当時読売テレビアナウンサー、1997年3月まで）、[青田典子](../Page/青田典子.md "wikilink")（1997年4月以降）
+  - 月曜 [BREAK](https://ja.wikipedia.org/wiki/BREAK_\(テレビ番組\) "wikilink")（読売テレビ制作） - 司会：[清水圭・和泉修](../Page/清水圭・和泉修.md "wikilink")、[中元綾子](../Page/中元綾子.md "wikilink")（当時読売テレビアナウンサー、1997年3月まで）、[青田典子](../Page/青田典子.md "wikilink")（1997年4月以降）
   - 火曜 紳助のサルでもわかるニュース（読売テレビ制作）
   - 水曜 BLT（読売テレビ制作） - 司会：大竹まこと、[東野幸治](../Page/東野幸治.md "wikilink")、[板尾創路](../Page/板尾創路.md "wikilink")
   - 木曜 [神様\!\!BOMB\!](../Page/神様!!BOMB!.md "wikilink")（中京テレビ制作） - 司会：ヒロミ

@@ -130,7 +130,7 @@ style="font-size:120%;"| 表 - JR東海保有新幹線車両の変遷
 
 ### 在来線車両
 
-:;[サムネイルHC](https://ja.wikipedia.org/wiki/ファイル:JRC_HC85_series_hybrid-diesel_multiple_unit_on_test_run_Toyohashi_Station_2019-12-04.jpg "wikilink")85系
+:;[thumbHC](https://ja.wikipedia.org/wiki/ファイル:JRC_HC85_series_hybrid-diesel_multiple_unit_on_test_run_Toyohashi_Station_2019-12-04.jpg "wikilink")85系
 
 :: キハ85系の後継として2022年度を目処に導入される予定の[ハイブリッド特急形気動車](https://ja.wikipedia.org/wiki/日本の電気式気動車#電気式の将来（ハイブリッド気動車） "wikilink")。2017年6月7日に確認試験車（量産先行車）の導入が発表され\[29\]\[30\]、形式名などは2019年10月28日に発表された\[31\]。形式名の「HC」とは、Hybrid Carの頭文字をとったものである。
 
@@ -144,7 +144,7 @@ style="font-size:120%;"| 表 - JR東海保有新幹線車両の変遷
 
         国鉄末期及びJR発足当初に投入された211系・213系・311系の後継車両として投入予定の直流通勤形電車\[34\]。
 
-        [制御方式は](https://ja.wikipedia.org/wiki/電気車の速度制御 "wikilink")[VVVFインバータ制御の](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")[半導体素子](../Page/半導体素子.md "wikilink")を313系の[IGBT素子から](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")[SiC素子に変更され](../Page/炭化ケイ素.md "wikilink")、211系に比べて消費電力量を35%減とする。また、N700S系確認試験車の設計をフィードバックし、（JR東海の量産車両及び在来線向け車両では初めて）非常走行用二次電池を備え、停電になっても最寄り駅まで自走できる構造とする。最高速度は130km/h。車内の座席はロングシート仕様となる予定。
+        [制御方式は](https://ja.wikipedia.org/wiki/電気車の速度制御 "wikilink")[VVVFインバータ制御の](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")[半導体素子](../Page/半導体素子.md "wikilink")を313系の[IGBT素子から](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")[SiC素子に変更され](../Page/炭化ケイ素.md "wikilink")、211系に比べて消費電力量を35%減とする。また、N700S系確認試験車の設計をフィードバックし、（JR東海の量産車両及び在来線向け車両では初めて）非常走行用二次電池を備え、停電になっても最寄り駅まで自走できる構造とする。最高速度は130km/h。車内はロングシートとなる予定。
 
         2021年度から2025年度にかけて352両を新製し、名古屋・静岡都市圏を中心に、[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[東海道線静岡地区](https://ja.wikipedia.org/wiki/東海道線_\(静岡地区\) "wikilink")・[東海道本線名古屋地区](https://ja.wikipedia.org/wiki/東海道線_\(名古屋地区\) "wikilink")・[関西本線等に順次投入する予定となっており](https://ja.wikipedia.org/wiki/関西線_\(名古屋地区\) "wikilink")、これによって国鉄時代の車両がJR東海から一掃されることになる\[35\]\[36\]。
 

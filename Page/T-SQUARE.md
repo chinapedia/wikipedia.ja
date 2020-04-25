@@ -250,16 +250,6 @@ GROOVE GLOBE</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -270,7 +260,7 @@ GROOVE GLOBE</p></td>
 ※収録アルバムの発表順。放送期間の一部に使用されていたものも含む。ただし、フレーズの一部を含む場合は一部割愛している。
 
   - SHOW DANCE（[関西テレビ](../Page/関西テレビ放送.md "wikilink")『[クイズDEデート](../Page/クイズDEデート.md "wikilink")』・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[藤原弘達のグリーン放談](../Page/藤原弘達のグリーン放談.md "wikilink")』テーマ曲）
-  - TEXAS KID （[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")『ワンポイントフィットネス』テーマ曲）
+  - TEXAS KID（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")『ワンポイントフィットネス』テーマ曲）
   - TOMORROWS AFFAIR（[TBS系列ドラマ](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[突然の明日](../Page/突然の明日.md "wikilink")』テーマ曲、後にオーケストラヴァージョンが[フジテレビ系列ドラマ](../Page/フジネットワーク.md "wikilink")『[じゃじゃ馬ならし](../Page/じゃじゃ馬ならし_\(テレビドラマ\).md "wikilink")』テーマ曲として採用）
   - ハワイへ行きたい（[FM東京系列](../Page/エフエム東京.md "wikilink")『ソニーデジタルサウンド』テーマ曲）
   - CHANGE YOUR MIND（日本テレビ系列『[NNNきょうの出来事 Sports\&News](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』ヘッドラインBGM）
@@ -309,7 +299,7 @@ GROOVE GLOBE</p></td>
   - 夏の蜃気楼（[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")『[KYTニュースプラス1](../Page/KYTニュースプラス1.md "wikilink")』テーマ曲）
   - TRIUMPH（フジテレビ系列『[スーパー競馬](../Page/スーパー競馬.md "wikilink")』スタジオテーマ曲、北海道文化放送『ドラマチック競馬』1998年スタジオテーマ曲、TBSラジオ『[荒川強啓 デイ・キャッチ\!](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")』内・[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列『[ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")』の中にあるスポーツコーナー、「[ジョージア](../Page/ジョージア_\(缶コーヒー\).md "wikilink") “ほっと”インフォメーション」テーマ曲、日本テレビ系列『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』プロ野球いれコミ情報のBGM、FBS[福岡放送](../Page/福岡放送.md "wikilink")『[めんたいワイド](../Page/めんたいワイド.md "wikilink")』オープニング曲）
   - SUNNYSIDE CRUISE（[ラジオ大阪](../Page/大阪放送.md "wikilink")『OBC イブニング6』テーマ曲）
-  - SPLASH\!（[テレビ高知](../Page/テレビ高知.md "wikilink")『[KUTVニュース](../Page/KUTVニュース.md "wikilink")』テーマ曲、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[TBCラジオ](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[RCCラジオ](../Page/中国放送.md "wikilink")、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")『[キリン一番搾りプレゼンツICHIBANプレーヤー\!](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール#麒麟麦酒コーナー "wikilink")』BGM）
+  - SPLASH\!（[テレビ高知](../Page/テレビ高知.md "wikilink")『[KUTVニュース](../Page/KUTVニュース.md "wikilink")』テーマ曲、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[TBCラジオ](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[RCCラジオ](../Page/中国放送.md "wikilink")、[KBCラジオ](../Page/KBCラジオ.md "wikilink")『[キリン一番搾りプレゼンツICHIBANプレーヤー\!](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール#麒麟麦酒コーナー "wikilink")』BGM）
   - PRIME TIME（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[Jリーグ中継](../Page/Jリーグ中継_\(NHK\).md "wikilink")』テーマ曲）
   - VICTORY（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』テーマ曲、ラジオ『[元気はつらつ歌謡曲](https://ja.wikipedia.org/wiki/元気はつらつ歌謡曲 "wikilink")』テーマ曲、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")『いっちゃおう甲子園』BGM）
   - PIOGGIA DI CAPRI（[RFラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")『[長野祐也の政界キーパーソンに聞く](../Page/長野祐也の政界キーパーソンに聞く.md "wikilink")』オープニングテーマ曲）
@@ -364,54 +354,54 @@ GROOVE GLOBE</p></td>
 
 ### オリジナルアルバム
 
-| タイトル                                                                                                                       | **発売年月日**   | **品番**       | **備考**                            |
-| :------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------ | --------------------------------- |
-| *[Lucky Summer Lady](../Page/Lucky_Summer_Lady.md "wikilink")*                                                             | 1978.09.21  | VRCL-2001    |                                   |
-| *[Midnight Lover](../Page/Midnight_Lover.md "wikilink")*                                                                   | 1978.12.21  | VRCL-2002    |                                   |
-| *[Make Me A Star](../Page/Make_Me_A_Star.md "wikilink")*                                                                   | 1979.06.21  | VRCL-2003    |                                   |
-| *[Rockoon](../Page/Rockoon.md "wikilink")*                                                                                 | 1980.04.01  | VRCL-2004    |                                   |
-| *[MAGIC](../Page/MAGIC_\(THE_SQUAREのアルバム\).md "wikilink")*                                                                 | 1981.11.01  | VRCL-2005    |                                   |
-| *[脚線美の誘惑](../Page/脚線美の誘惑.md "wikilink")*                                                                                   | 1982.11.21  | VRCL-2006    |                                   |
-| *[うち水にRainbow](../Page/うち水にRainbow.md "wikilink")*                                                                         | 1983.05.21  | VRCL-2007    |                                   |
-| *[ADVENTURES](../Page/ADVENTURES.md "wikilink")*                                                                           | 1984.04.01  | VRCL-2010    |                                   |
-| *[Stars and the Moon](../Page/Stars_and_the_Moon.md "wikilink")*                                                           | 1984.12.01  | VRCL-2013    |                                   |
-| *[R・E・S・O・R・T](../Page/R・E・S・O・R・T.md "wikilink")*                                                                         | 1985.04.01  | VRCL-2014    |                                   |
-| *[S・P・O・R・T・S](../Page/S・P・O・R・T・S.md "wikilink")*                                                                         | 1986.03.05  | VRCL-2017    |                                   |
-| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                                                     | 1987.04.01  | VRCL-2055    |                                   |
-| *[YES,NO.](../Page/YES,NO..md "wikilink")*                                                                                 | 1988.02.26  | VRCL-2021    |                                   |
-| *[WAVE](../Page/WAVE_\(T-SQUAREのアルバム\).md "wikilink")*                                                                     | 1989.03.21  | VRCL-2024    | 本作以降「T-SQUARE」名義                  |
-| *[NATURAL](../Page/NATURAL_\(T-SQUAREのアルバム\).md "wikilink")*                                                               | 1990.04.21  | VRCL-2026    |                                   |
-| *[NEW-S](../Page/NEW-S.md "wikilink")*                                                                                     | 1991.03.21  | VRCL-2030    |                                   |
-| *[IMPRESSIVE](../Page/IMPRESSIVE.md "wikilink")*                                                                           | 1992.04.22  | VRCL-2034    |                                   |
-| *[HUMAN](../Page/HUMAN_\(T-SQUAREのアルバム\).md "wikilink")*                                                                   | 1993.04.21  | VRCL-2037    |                                   |
-| *[夏の惑星](../Page/夏の惑星.md "wikilink")*                                                                                       | 1994.04.21  | VRCL-2039    |                                   |
-| *[Welcome to the Rose Garden](../Page/Welcome_to_the_Rose_Garden.md "wikilink")*                                           | 1995.05.21  | VRCL-2042    |                                   |
-| *[B.C. A.D.（Before Christ＆Anno Domini）](https://ja.wikipedia.org/wiki/B.C._A.D._〜Before_Christ_&_Anno_Domini〜 "wikilink")* | 1996.04.21  | VRCL-2044    |                                   |
-| *[BLUE IN RED](https://ja.wikipedia.org/wiki/BLUE_IN_RED "wikilink")*                                                      | 1997.05.21  | VRCL-2046    |                                   |
-| *[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY_\(T-SQUAREのアルバム\) "wikilink")*                                            | 1998.05.30  | VRCL-2047    |                                   |
-| *[Sweet & Gentle](../Page/Sweet_&_Gentle.md "wikilink")*                                                                   | 1999.05.21  | VRCL-2051    |                                   |
-| *[T-SQUARE](../Page/T-SQUARE_\(アルバム\).md "wikilink")*                                                                      | 2000.04.01  | VRCL-2052    |                                   |
-| *[FRIENDSHIP](https://ja.wikipedia.org/wiki/FRIENDSHIP_\(T-SQUAREのアルバム\) "wikilink")*                                      | 2000.10.18  | VRCL-3333    |                                   |
-| *[BRASIL](https://ja.wikipedia.org/wiki/BRASIL_\(T-SQUAREのアルバム\) "wikilink")*                                              | 2001.05.23  | VRCL-3337    |                                   |
-| *[New Road, Old Way](https://ja.wikipedia.org/wiki/New_Road,_Old_Way "wikilink")*                                          | 2002.04.24  | VRCL-3339    |                                   |
-| *[Spirits](https://ja.wikipedia.org/wiki/Spirits_\(T-SQUAREのアルバム\) "wikilink")*                                            | 2003.04.23  | VRCL-3343    | 「THE SQUARE」名義                    |
-| *[GROOVE GLOBE](https://ja.wikipedia.org/wiki/GROOVE_GLOBE "wikilink")*                                                    | 2004.04.21  | VRCL-10002   |                                   |
-| *[PASSION FLOWER](https://ja.wikipedia.org/wiki/PASSION_FLOWER_\(T-SQUAREのアルバム\) "wikilink")*                              | 2005.04.20  | VRCL-10004   |                                   |
-| *[BLOOD MUSIC](https://ja.wikipedia.org/wiki/BLOOD_MUSIC "wikilink")*                                                      | 2006.04.19  | VRCL-10007   |                                   |
-| *[33](https://ja.wikipedia.org/wiki/33_\(T-SQUAREのアルバム\) "wikilink")*                                                      | 2007.04.18  | VRCL-10008   |                                   |
-| *[Wonderful Days](https://ja.wikipedia.org/wiki/Wonderful_Days_\(T-SQUAREのアルバム\) "wikilink")*                              | 2008.05.21  | VRCL-10011   | 「T-SQUARE SUPER BAND」名義           |
-| *[DISCOVERIES](https://ja.wikipedia.org/wiki/DISCOVERIES "wikilink")*                                                      | 2009.05.27  | VRCL-10014   |                                   |
-| *[時間旅行](https://ja.wikipedia.org/wiki/時間旅行_\(T-SQUAREのアルバム\) "wikilink")*                                                  | 2010.05.26  | VRCL-10101   |                                   |
-| *[Nine Stories](https://ja.wikipedia.org/wiki/Nine_Stories "wikilink")*                                                    | 2011.04.27  | VRCL-10103   |                                   |
-| *[Wings](https://ja.wikipedia.org/wiki/Wings_\(T-SQUAREのアルバム\) "wikilink")*                                                | 2012.05.23  | VRCL-10107   |                                   |
-| *[Smile](https://ja.wikipedia.org/wiki/Smile_\(T-SQUAREのアルバム\) "wikilink")*                                                | 2013.04.24  | VRCL-10109   | 「T-SQUARE SUPER BAND」名義           |
-| *[NEXT](https://ja.wikipedia.org/wiki/NEXT_\(T-SQUAREのアルバム\) "wikilink")*                                                  | 2014.06.01  | VRCL-10117   |                                   |
-| *[Paradise](https://ja.wikipedia.org/wiki/Paradise_\(T-SQUAREのアルバム\) "wikilink")*                                          | 2015.07.08  | OLCH-10001   |                                   |
-| *[TREASURE HUNTER](https://ja.wikipedia.org/wiki/TREASURE_HUNTER "wikilink")*                                              | 2016.04.27  | OLCH-10003   |                                   |
-| *[REBIRTH](https://ja.wikipedia.org/wiki/REBIRTH_\(T-SQUAREのアルバム\) "wikilink")*                                            | 2017.04.26  | OLCH-10007   |                                   |
-| *[CITY COASTER](https://ja.wikipedia.org/wiki/CITY_COASTER "wikilink")*                                                    | 2018.04.25  | OLCH-10010   |                                   |
-| *[It's a Wonderful Life\!](https://ja.wikipedia.org/wiki/It's_a_Wonderful_Life!_\(T-SQUAREのアルバム\) "wikilink")*             | |2018.11.14 | OLCH10013-4  | 「T-SQUARE & THE SQUARE Reunion」名義 |
-| *[HORIZON](https://ja.wikipedia.org/wiki/HORIZON_\(T-SQUAREのアルバム\) "wikilink")*                                            | 2019.04.24  | OLCH10015-16 |                                   |
+| タイトル                                                                                                                        | 発売年月日      | 品番           | 備考                                |
+| :-------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ | --------------------------------- |
+| *[Lucky Summer Lady](../Page/Lucky_Summer_Lady.md "wikilink")*                                                              | 1978.09.21 | VRCL-2001    |                                   |
+| *[Midnight Lover](../Page/Midnight_Lover.md "wikilink")*                                                                    | 1978.12.21 | VRCL-2002    |                                   |
+| *[Make Me A Star](../Page/Make_Me_A_Star.md "wikilink")*                                                                    | 1979.06.21 | VRCL-2003    |                                   |
+| *[Rockoon](../Page/Rockoon.md "wikilink")*                                                                                  | 1980.04.01 | VRCL-2004    |                                   |
+| *[MAGIC](../Page/MAGIC_\(THE_SQUAREのアルバム\).md "wikilink")*                                                                  | 1981.11.01 | VRCL-2005    |                                   |
+| *[脚線美の誘惑](../Page/脚線美の誘惑.md "wikilink")*                                                                                    | 1982.11.21 | VRCL-2006    |                                   |
+| *[うち水にRainbow](../Page/うち水にRainbow.md "wikilink")*                                                                          | 1983.05.21 | VRCL-2007    |                                   |
+| *[ADVENTURES](../Page/ADVENTURES.md "wikilink")*                                                                            | 1984.04.01 | VRCL-2010    |                                   |
+| *[Stars and the Moon](../Page/Stars_and_the_Moon.md "wikilink")*                                                            | 1984.12.01 | VRCL-2013    |                                   |
+| *[R・E・S・O・R・T](../Page/R・E・S・O・R・T.md "wikilink")*                                                                          | 1985.04.01 | VRCL-2014    |                                   |
+| *[S・P・O・R・T・S](../Page/S・P・O・R・T・S.md "wikilink")*                                                                          | 1986.03.05 | VRCL-2017    |                                   |
+| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                                                      | 1987.04.01 | VRCL-2055    |                                   |
+| *[YES,NO.](../Page/YES,NO..md "wikilink")*                                                                                  | 1988.02.26 | VRCL-2021    |                                   |
+| *[WAVE](../Page/WAVE_\(T-SQUAREのアルバム\).md "wikilink")*                                                                      | 1989.03.21 | VRCL-2024    | 本作以降「T-SQUARE」名義                  |
+| *[NATURAL](../Page/NATURAL_\(T-SQUAREのアルバム\).md "wikilink")*                                                                | 1990.04.21 | VRCL-2026    |                                   |
+| *[NEW-S](../Page/NEW-S.md "wikilink")*                                                                                      | 1991.03.21 | VRCL-2030    |                                   |
+| *[IMPRESSIVE](../Page/IMPRESSIVE.md "wikilink")*                                                                            | 1992.04.22 | VRCL-2034    |                                   |
+| *[HUMAN](../Page/HUMAN_\(T-SQUAREのアルバム\).md "wikilink")*                                                                    | 1993.04.21 | VRCL-2037    |                                   |
+| *[夏の惑星](../Page/夏の惑星.md "wikilink")*                                                                                        | 1994.04.21 | VRCL-2039    |                                   |
+| *[Welcome to the Rose Garden](../Page/Welcome_to_the_Rose_Garden.md "wikilink")*                                            | 1995.05.21 | VRCL-2042    |                                   |
+| *[B.C. A.D. (Before Christ＆Anno Domini)](https://ja.wikipedia.org/wiki/B.C._A.D._〜Before_Christ_&_Anno_Domini〜 "wikilink")* | 1996.04.21 | VRCL-2044    |                                   |
+| *[BLUE IN RED](https://ja.wikipedia.org/wiki/BLUE_IN_RED "wikilink")*                                                       | 1997.05.21 | VRCL-2046    |                                   |
+| *[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY_\(T-SQUAREのアルバム\) "wikilink")*                                             | 1998.05.30 | VRCL-2047    |                                   |
+| *[Sweet & Gentle](../Page/Sweet_&_Gentle.md "wikilink")*                                                                    | 1999.05.21 | VRCL-2051    |                                   |
+| *[T-SQUARE](../Page/T-SQUARE_\(アルバム\).md "wikilink")*                                                                       | 2000.04.01 | VRCL-2052    |                                   |
+| *[FRIENDSHIP](https://ja.wikipedia.org/wiki/FRIENDSHIP_\(T-SQUAREのアルバム\) "wikilink")*                                       | 2000.10.18 | VRCL-3333    |                                   |
+| *[BRASIL](https://ja.wikipedia.org/wiki/BRASIL_\(T-SQUAREのアルバム\) "wikilink")*                                               | 2001.05.23 | VRCL-3337    |                                   |
+| *[New Road, Old Way](https://ja.wikipedia.org/wiki/New_Road,_Old_Way "wikilink")*                                           | 2002.04.24 | VRCL-3339    |                                   |
+| *[Spirits](https://ja.wikipedia.org/wiki/Spirits_\(T-SQUAREのアルバム\) "wikilink")*                                             | 2003.04.23 | VRCL-3343    | 「THE SQUARE」名義                    |
+| *[GROOVE GLOBE](https://ja.wikipedia.org/wiki/GROOVE_GLOBE "wikilink")*                                                     | 2004.04.21 | VRCL-10002   |                                   |
+| *[PASSION FLOWER](https://ja.wikipedia.org/wiki/PASSION_FLOWER_\(T-SQUAREのアルバム\) "wikilink")*                               | 2005.04.20 | VRCL-10004   |                                   |
+| *[BLOOD MUSIC](https://ja.wikipedia.org/wiki/BLOOD_MUSIC "wikilink")*                                                       | 2006.04.19 | VRCL-10007   |                                   |
+| *[33](https://ja.wikipedia.org/wiki/33_\(T-SQUAREのアルバム\) "wikilink")*                                                       | 2007.04.18 | VRCL-10008   |                                   |
+| *[Wonderful Days](https://ja.wikipedia.org/wiki/Wonderful_Days_\(T-SQUAREのアルバム\) "wikilink")*                               | 2008.05.21 | VRCL-10011   | 「T-SQUARE SUPER BAND」名義           |
+| *[DISCOVERIES](https://ja.wikipedia.org/wiki/DISCOVERIES "wikilink")*                                                       | 2009.05.27 | VRCL-10014   |                                   |
+| *[時間旅行](https://ja.wikipedia.org/wiki/時間旅行_\(T-SQUAREのアルバム\) "wikilink")*                                                   | 2010.05.26 | VRCL-10101   |                                   |
+| *[Nine Stories](https://ja.wikipedia.org/wiki/Nine_Stories "wikilink")*                                                     | 2011.04.27 | VRCL-10103   |                                   |
+| *[Wings](https://ja.wikipedia.org/wiki/Wings_\(T-SQUAREのアルバム\) "wikilink")*                                                 | 2012.05.23 | VRCL-10107   |                                   |
+| *[Smile](https://ja.wikipedia.org/wiki/Smile_\(T-SQUAREのアルバム\) "wikilink")*                                                 | 2013.04.24 | VRCL-10109   | 「T-SQUARE SUPER BAND」名義           |
+| *[NEXT](https://ja.wikipedia.org/wiki/NEXT_\(T-SQUAREのアルバム\) "wikilink")*                                                   | 2014.06.01 | VRCL-10117   |                                   |
+| *[Paradise](https://ja.wikipedia.org/wiki/Paradise_\(T-SQUAREのアルバム\) "wikilink")*                                           | 2015.07.08 | OLCH-10001   |                                   |
+| *[TREASURE HUNTER](https://ja.wikipedia.org/wiki/TREASURE_HUNTER "wikilink")*                                               | 2016.04.27 | OLCH-10003   |                                   |
+| *[REBIRTH](https://ja.wikipedia.org/wiki/REBIRTH_\(T-SQUAREのアルバム\) "wikilink")*                                             | 2017.04.26 | OLCH-10007   |                                   |
+| *[CITY COASTER](https://ja.wikipedia.org/wiki/CITY_COASTER "wikilink")*                                                     | 2018.04.25 | OLCH-10010   |                                   |
+| *[It's a Wonderful Life\!](https://ja.wikipedia.org/wiki/It's_a_Wonderful_Life!（T-SQUAREのアルバム） "wikilink")*                 | 2018.11.14 | OLCH10013-4  | 「T-SQUARE & THE SQUARE Reunion」名義 |
+| *[HORIZON](https://ja.wikipedia.org/wiki/HORIZON_\(T-SQUAREのアルバム\) "wikilink")*                                             | 2019.04.24 | OLCH10015-16 |                                   |
 
 品番は[ヴィレッジ・ミュージック](https://ja.wikipedia.org/wiki/ヴィレッジ・ミュージック "wikilink")より発売されている現行のもの。
 
@@ -419,7 +409,7 @@ GROOVE GLOBE</p></td>
 
 ### コラボレーションアルバム
 
-| タイトル                   | **発売年月日**  | **品番**    | **備考**                                                                                                                |
+| タイトル                   | 発売年月日      | 品番        | 備考                                                                                                                    |
 | :--------------------- | ---------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | *COLOR PALETTE*        | 1987.06.21 | 32DH-690  | THE SQUARE AND FRIENDS名義                                                                                              |
 | *F-1 GRAND PRIX WORLD* | 1992.02.21 | VRCL-2033 | F1イメージアルバム リマスター盤が2001年に発売。未表記だがT-SQUARE and FRIENDS名義的アルバム。「TRUTH \[with '91 Suzuka Grand Prix F-1 Sound ver.\]」を収録。 |
@@ -427,43 +417,43 @@ GROOVE GLOBE</p></td>
 
 ### シングル
 
-| タイトル                                                                                      | **発売年月日**  | **品番**    | **備考**          |
-| :---------------------------------------------------------------------------------------- | ---------- | --------- | --------------- |
-| *MAKE ME A STAR*                                                                          | 1979.06.21 | 06SP-334  |                 |
-| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21 | 06SP-452  |                 |
-| *I'M WALKMAN*                                                                             | 1980.04.01 | 07SP-496  |                 |
-| *IT'S MAGIC*                                                                              | 1981.10.21 | 07SH-1087 |                 |
-| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01 | 07SH-1479 |                 |
-| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21 | 12AH-1814 |                 |
-| *PRIME*                                                                                   | 1985.04.01 | 12AH-1840 |                 |
-| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21 | 12AH-1835 |                 |
-| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05 | 12AH-1998 |                 |
-| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10 | SRDL-3397 |                 |
-| *CHASER*                                                                                  | 1992.06.21 | SRDL-3479 |                 |
-| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21 | SRDL-3504 |                 |
-| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22 | SRDL-3510 |                 |
-| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21 | SRDL-3667 |                 |
-| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21 | SRDL-3786 | オーケストラアレンジ版     |
-| *VICTORY*                                                                                 | 1996.06.01 | SRDL-4211 |                 |
-| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09 | VRCL-3336 | T-SQUARE plus名義 |
-| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23 | VRCL-3344 |                 |
-|                                                                                           |            |           |                 |
+| タイトル                                                                                      | 発売年月日                           | 品番        | 備考              |
+| :---------------------------------------------------------------------------------------- | ------------------------------- | --------- | --------------- |
+| *MAKE ME A STAR*                                                                          | 1979.06.21                      | 06SP-334  |                 |
+| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21                      | 06SP-452  |                 |
+| *I'M WALKMAN*                                                                             | 1980.04.01                      | 07SP-496  |                 |
+| *IT'S MAGIC*                                                                              | 1981.10.21                      | 07SH-1087 |                 |
+| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01                      | 07SH-1479 |                 |
+| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21                      | 12AH-1814 |                 |
+| *PRIME*                                                                                   | 1985.04.01                      | 12AH-1840 |                 |
+| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21                      | 12AH-1835 |                 |
+| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05                      | 12AH-1998 |                 |
+| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10                      | SRDL-3397 |                 |
+| *CHASER*                                                                                  | 1992.06.21                      | SRDL-3479 |                 |
+| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21                      | SRDL-3504 |                 |
+| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22|align=left|SRDL-3510 |           |                 |
+| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21                      | SRDL-3667 |                 |
+| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21                      | SRDL-3786 | オーケストラアレンジ版     |
+| *VICTORY*                                                                                 | 1996.06.01                      | SRDL-4211 |                 |
+| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09                      | VRCL-3336 | T-SQUARE plus名義 |
+| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23                      | VRCL-3344 |                 |
+|                                                                                           |                                 |           |                 |
 
 ### 企画アルバム
 
 #### ライブアルバム
 
-| タイトル                                           | **発売年月日**  | **品番**        | **備考**                                                        |  |
-| :--------------------------------------------- | ---------- | ------------- | ------------------------------------------------------------- |  |
-| *THE SQUARE LIVE*                              | 1985.08.21 | VRCL-2015     | 1996年にCD選書シリーズの1枚(SRCL-3079)として再発された。その後、デジタルリマスター盤が2007年に発売。 |  |
-| *T-SQUARE LIVE featuring F-1 GRAND PRIX THEME* | 1990.10.01 | VRCL-2028     | リマスター盤が2001年に発売。                                              |  |
-| *T-SQUARE LIVE FAREWELL & WELCOME*             | 1991.07.25 | VRCL-2031     | リマスター盤が2007年に発売。                                              |  |
-| *MOMENT -Memorial Live at Chicken George-*     | 2001.01.24 | VRCL-3334 - 5 | THE SQUARE名義                                                  |  |
-| *CASIOPEA vs THE SQUARE LIVE*                  | 2004.09.23 | VRCL-10003    | DVD『帰還完了報告』のDisc3と同一内容である。                                    |  |
+| タイトル                                           | 発売年月日      | 品番            | 備考                                                              |
+| :--------------------------------------------- | ---------- | ------------- | --------------------------------------------------------------- |
+| *THE SQUARE LIVE*                              | 1985.08.21 | VRCL-2015     | 1996年にCD選書シリーズの1枚 (SRCL-3079) として再発された。その後、デジタルリマスター盤が2007年に発売。 |
+| *T-SQUARE LIVE featuring F-1 GRAND PRIX THEME* | 1990.10.01 | VRCL-2028     | リマスター盤が2001年に発売。                                                |
+| *T-SQUARE LIVE FAREWELL & WELCOME*             | 1991.07.25 | VRCL-2031     | リマスター盤が2007年に発売。                                                |
+| *MOMENT -Memorial Live at Chicken George-*     | 2001.01.24 | VRCL-3334 - 5 | THE SQUARE名義                                                    |
+| *CASIOPEA vs THE SQUARE LIVE*                  | 2004.09.23 | VRCL-10003    | DVD『帰還完了報告』のDisc3と同一内容である。                                      |
 
 #### リアレンジ／セルフカバーアルバム
 
-| タイトル                                         | **発売年月日**  | **品番**             | **備考**                                                                                                      |
+| タイトル                                         | 発売年月日      | 品番                 | 備考                                                                                                          |
 | :------------------------------------------- | ---------- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
 | *NATURAL　〜U.S. Version〜*                     | 1990.08.21 | VRCL-2027          | 全米リリース用に異なるミックスが施された「NATURAL」のスペシャルアルバム。リマスター盤が2007年に発売。                                                    |
 | *Refreshest*                                 | 1991.12.01 | VRCL-2032          | リアレンジアルバム・T-SQUARE and FRIENDS名義 リマスター盤が2001年に発売。                                                           |
@@ -481,22 +471,22 @@ GROOVE GLOBE</p></td>
 
 #### ベストアルバム
 
-| タイトル                                                                                                    | **発売年月日**  | **品番**     | **備考**                                                                                                         |  |
-| :------------------------------------------------------------------------------------------------------ | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------- |  |
-| *LIGHT UP*                                                                                              | 1983.06.01 | 20AH-1531  | ベストアルバム                                                                                                        |  |
-| *THE BEST OF THE SQUARE*                                                                                | 1983.11.12 | 35DH-57    | ベストアルバムリリース後の1987年に再発売、1995年にCD選書シリーズの1枚(SRCL-3154)として再発された。『LIGHT UP』（1983）に収録の新曲「Too Young to Love」も収録されている。 |  |
-| *ALL ABOUT US*                                                                                          | 1984.11.14 | 30DH-163   | ベストアルバム 1996年にCD選書シリーズの1枚(SRCL-3522)として再発された。                                                                  |  |
-| *TREASURE*                                                                                              | 1988.07.01 | 15EH-8025  | ミニベストシングル                                                                                                      |  |
-| *F-1 GRAND PRIX*                                                                                        | 1989.10.08 | VRCL-2025  | ベストアルバム                                                                                                        |  |
-| *MEGALITH*                                                                                              | 1993.01.21 | VRCL-2036  | ベストアルバム リマスター盤が2007年に発売。                                                                                       |  |
-| *Wordless Anthology I*                                                                                  | 1999.02.20 | VRCL-2048  | ベストアルバム リマスター盤が2006年に発売。                                                                                       |  |
-| *Wordless Anthology II*                                                                                 | 1999.02.20 | VRCL-2049  | ベストアルバム リマスター盤が2006年に発売。                                                                                       |  |
-| *Wordless Anthology III*                                                                                | 1999.02.20 | VRCL-2050  | ベストアルバム リマスター盤が2006年に発売。                                                                                       |  |
-| *[THE SQUARE SINGLE COLLECTION](https://ja.wikipedia.org/wiki/THE_SQUARE_SINGLE_COLLECTION "wikilink")* | 2001.08.22 | VRCL-2053  | シングルコレクション                                                                                                     |  |
-| *T-SQUARE SINGLE COLLECTION*                                                                            | 2001.08.22 | VRCL-2054  | シングルコレクション                                                                                                     |  |
-| *Wordless Anthology IV*                                                                                 | 2006.12.06 | VRCL-2056  | ベストアルバム                                                                                                        |  |
-| *Wordless Anthology V*                                                                                  | 2006.12.06 | VRCL-2057  | ベストアルバム                                                                                                        |  |
-| *Dolphin Through*                                                                                       | 2015.05.20 | VRCL-10124 | ラジオ番組風に編集されたベストアルバム。新曲3曲をボーナストラックとして収録。                                                                        |  |
+| タイトル                                                                                                    | 発売年月日      | 品番         | 備考                                                                                                                |
+| :------------------------------------------------------------------------------------------------------ | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| *LIGHT UP*                                                                                              | 1983.06.01 | 20AH-1531  | ベストアルバム                                                                                                           |
+| *THE BEST OF THE SQUARE*                                                                                | 1983.11.12 | 35DH-57    | ベストアルバムリリース後の1987年に再発売、1995年にCD選書シリーズの1枚 (SRCL-3154) として再発された。『LIGHT UP』(1983) に収録の新曲「Too Young to Love」も収録されている。 |
+| *ALL ABOUT US*                                                                                          | 1984.11.14 | 30DH-163   | ベストアルバム 1996年にCD選書シリーズの1枚 (SRCL-3522) として再発された。                                                                   |
+| *TREASURE*                                                                                              | 1988.07.01 | 15EH-8025  | ミニベストシングル                                                                                                         |
+| *F-1 GRAND PRIX*                                                                                        | 1989.10.08 | VRCL-2025  | ベストアルバム                                                                                                           |
+| *MEGALITH*                                                                                              | 1993.01.21 | VRCL-2036  | ベストアルバム リマスター盤が2007年に発売。                                                                                          |
+| *Wordless Anthology I*                                                                                  | 1999.02.20 | VRCL-2048  | ベストアルバム リマスター盤が2006年に発売。                                                                                          |
+| *Wordless Anthology II*                                                                                 | 1999.02.20 | VRCL-2049  | ベストアルバム リマスター盤が2006年に発売。                                                                                          |
+| *Wordless Anthology III*                                                                                | 1999.02.20 | VRCL-2050  | ベストアルバム リマスター盤が2006年に発売。                                                                                          |
+| *[THE SQUARE SINGLE COLLECTION](https://ja.wikipedia.org/wiki/THE_SQUARE_SINGLE_COLLECTION "wikilink")* | 2001.08.22 | VRCL-2053  | シングルコレクション                                                                                                        |
+| *T-SQUARE SINGLE COLLECTION*                                                                            | 2001.08.22 | VRCL-2054  | シングルコレクション                                                                                                        |
+| *Wordless Anthology IV*                                                                                 | 2006.12.06 | VRCL-2056  | ベストアルバム                                                                                                           |
+| *Wordless Anthology V*                                                                                  | 2006.12.06 | VRCL-2057  | ベストアルバム                                                                                                           |
+| *Dolphin Through*                                                                                       | 2015.05.20 | VRCL-10124 | ラジオ番組風に編集されたベストアルバム。新曲3曲をボーナストラックとして収録。                                                                           |
 
 ## 映像作品
 
@@ -504,8 +494,8 @@ GROOVE GLOBE</p></td>
 <thead>
 <tr class="header">
 <th style="text-align: left;"><p>タイトル</p></th>
-<th><p><strong>発売年月日</strong></p></th>
-<th><p><strong>品番</strong></p></th>
+<th><p>発売年月日</p></th>
+<th><p>品番</p></th>
 </tr>
 </thead>
 <tbody>
@@ -580,7 +570,7 @@ GROOVE GLOBE</p></td>
 <td><p>VRBL-7011 - 3</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><em>LIVE “Passion Flower”</em></p></td>
+<td style="text-align: left;"><p><em>LIVE "Passion Flower"</em></p></td>
 <td><p>2005.11.23</p></td>
 <td><p>VRBL-7014 - 15</p></td>
 </tr>
@@ -611,7 +601,7 @@ GROOVE GLOBE</p></td>
 VRXL8803[Blu-ray]</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>''T-SQUARE 35th Anniversary "Festival" ''</p></td>
+<td style="text-align: left;"><p><em>T-SQUARE 35th Anniversary "Festival"</em></p></td>
 <td><p>2014.05.07</p></td>
 <td><p>VRBL-7032[DVD]<br />
 VRXL-8804[Blu-ray]</p></td>
@@ -623,7 +613,7 @@ VRXL-8804[Blu-ray]</p></td>
 OLXL-70001[Blu-ray]</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><em>T-SQUARE CONCERT TOUR "TREASURE HUNTER "</em></p></td>
+<td style="text-align: left;"><p><em>T-SQUARE CONCERT TOUR "TREASURE HUNTER"</em></p></td>
 <td><p>2016.11.09</p></td>
 <td><p>OLBL-70003[DVD]<br />
 OLXL-70003[Blu-ray]</p></td>
@@ -669,7 +659,7 @@ OLXL-70011[Blu-ray]</p></td>
   -
 ## 外部リンク
 
-  - [T-SQUAREオフィシャルサイト](http://www.tsquare.jp/)
+  - [T-SQUAREオフィシャルサイト](https://www.tsquare.jp/)
 
   - [所属レコード会社のサイト](http://www.villagemusic.co.jp/index.html)
 

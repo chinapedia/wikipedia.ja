@@ -1,7 +1,7 @@
 > この記事は[FM COCOLO](https://ja.wikipedia.org/wiki/FM_COCOLO)から翻訳されています。
 
 
-**FM COCOLO**（エフエムココロ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")にFMラジオ局としては[全国で](https://ja.wikipedia.org/wiki/日本 "wikilink")46番目、大阪で3番目に開局した[超短波放送](../Page/超短波放送.md "wikilink")局（FMラジオ）で、[日本初の](../Page/日本初の一覧.md "wikilink")[外国語放送](../Page/外国語放送.md "wikilink")として開局した局である。開設当初は[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")に本社を置く関西インターメディア株式会社（かんさいインターメディア、Kansai Intermedia Co., Ltd.）が[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")として放送を行っていたが、2012年4月1日からは、同じ大阪市内の特定地上基幹放送事業者[FM802](../Page/FM802.md "wikilink")が同社の免許を引き継いで放送している\[1\]。[コールサインは](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号 "wikilink")**JOAW-FM**\[2\]（大阪 76.5MHz / 10kW）。
+**FM COCOLO**（エフエムココロ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")にFMラジオ局としては[全国で](https://ja.wikipedia.org/wiki/日本 "wikilink")46番目、大阪で3番目に開局した[超短波放送](../Page/超短波放送.md "wikilink")局（FMラジオ）で、[日本初の](../Page/日本初の一覧.md "wikilink")[外国語放送](../Page/外国語放送.md "wikilink")として開局した局である。開設当初は[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")に本社を置く関西インターメディア株式会社（かんさいインターメディア、Kansai Intermedia Co., Ltd.）が[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")として放送を行っていたが、2012年4月1日からは、同じ大阪市内の特定地上基幹放送事業者[FM802](../Page/FM802.md "wikilink")が同社の免許を引き継いで放送している\[1\]。[コールサインは](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号 "wikilink")**JOAW-FM**\[2\]（大阪 76.5[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") / 10[k](../Page/キロ.md "wikilink")[W](../Page/ワット.md "wikilink")）。
 
 本項では、関西インターメディア時代を含めた外国語放送全般の概要について記す。
 
@@ -61,7 +61,7 @@
 <td><p>76.5MHz</p></td>
 <td><p>10kW</p></td>
 <td><p>〒630-0271<br />
-<a href="../Page/東大阪市.md" title="wikilink">東大阪市</a><a href="https://ja.wikipedia.org/wiki/上石切町" title="wikilink">上石切町</a>2丁目1451番23号<br />
+大阪府<a href="../Page/東大阪市.md" title="wikilink">東大阪市</a><a href="https://ja.wikipedia.org/wiki/上石切町" title="wikilink">上石切町</a>2丁目1451番23号<br />
 <a href="../Page/生駒山.md" title="wikilink">生駒山</a>[12]</p></td>
 <td></td>
 </tr>
@@ -93,7 +93,7 @@
 <!-- end list -->
 
   -
-    〒559-8522 [大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")南港北1丁目14番16号 [コスモタワー](../Page/大阪府咲洲庁舎.md "wikilink")（大阪府咲洲庁舎）3階
+    〒559-8522 大阪府大阪市住之江区[南港北](../Page/南港北.md "wikilink")1丁目14番16号 [コスモタワー](../Page/大阪府咲洲庁舎.md "wikilink")（大阪府咲洲庁舎）3階
 
 <!-- end list -->
 
@@ -123,7 +123,7 @@
 
 ### タイムテーブル
 
-{{\#time:Y年m月d日|+9 hours}}現在\[14\]。
+。{{\#time:Y年Md日H時i分|+9 hours}}現在\[14\]。
 
 <table>
 <thead>
@@ -175,14 +175,14 @@
 <td><p>6</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CIAO_765" title="wikilink">CIAO 765</a></strong> - <a href="../Page/野村雅夫.md" title="wikilink">野村雅夫</a></p></td>
 <td><p><strong>FRIDAY<br />
-AMUSIC<br />
-MORNING</strong><br />
+<a href="../Page/AMUSIC_MORNING.md" title="wikilink">AMUSIC<br />
+MORNING</a></strong><br />
 <a href="https://ja.wikipedia.org/wiki/池田なみ子" title="wikilink">池田なみ子</a></p></td>
 <td><p><strong>SATURDAY<br />
 AMUSIC<br />
 MORNING</strong><br />
 池田なみ子</p></td>
-<td><p><strong>BBC MUSIC</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Whole_Earth_RADIO" title="wikilink">Whole Earth RADIO</a></strong></p></td>
 <td><p>6</p></td>
 <td></td>
 <td></td>
@@ -296,7 +296,7 @@ FRIDAY</a></strong><br />
 MAGNIFICENT<br />
 CAMP</strong><br />
 加美幸伸</p></td>
-<td><p><strong>Got You OSAKA</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Got_You_OSAKA" title="wikilink">Got You OSAKA</a></strong><br />
 <a href="../Page/トータス松本.md" title="wikilink">トータス松本</a></p></td>
 <td><p>14</p></td>
 <td></td>
@@ -440,11 +440,12 @@ Y2 MEETS ROCK</a></strong><br />
 Sakura Aid</a><br />
 <strong>GO GO ゴンチチ</strong><br />
 <a href="../Page/ゴンチチ.md" title="wikilink">ゴンチチ</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_MUSIC_OF_NOTE〜LOVE_PSYCHEDELICO_ラブサイケレディオ" title="wikilink">THE<br />
-MUSIC OF NOTE<br />
-LOVE PSYCHEDELICO<br />
-ラブサイケレディオ</a></strong><br />
-<a href="https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO" title="wikilink">LOVE PSYCHEDELICO</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_MUSIC_OF_NOTE" title="wikilink">THE<br />
+MUSIC OF NOTE</a><br />
+スチャダラパー<br />
+"シン・スチャ<br />
+ANI大作戦"</strong><br />
+<a href="https://ja.wikipedia.org/wiki/ANI" title="wikilink">ANI</a></p></td>
 <td><p><strong>THE<br />
 MAJESTIC<br />
 SATURDAY<br />
@@ -541,7 +542,7 @@ Y2 MEETS ROCK</strong><br />
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>Daiw<br />
+<td><p>Daiwa<br />
 Sakura Aid<br />
 <strong>GO GO ゴンチチ</strong><br />
 (repeat)</p></td>
@@ -560,9 +561,9 @@ STROLL</strong><br />
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/BBC_MUSIC" title="wikilink">BBC MUSIC</a></strong></p></td>
 <td><p><strong>WEEKEND ALLEY</strong></p></td>
 <td><p>3</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -571,8 +572,8 @@ STROLL</strong><br />
 </tr>
 <tr class="even">
 <td><p>4</p></td>
+<td><p><strong>WEEKEND ALLEY</strong></p></td>
 <td><p>4</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

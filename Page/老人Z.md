@@ -116,7 +116,7 @@
 ## 外部リンク
 
   - [老人Z HDマスター版 DVD](http://www.sonymusic.co.jp/Animation/roujinz/) - 作品紹介
-  - [「老人Ｚ」 | アニメ配信](http://www.b-ch.com/ttl/index.php?ttl_c=218) - [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")
+  - [「老人Ｚ」 | アニメ配信](https://www.b-ch.com/titles/218/) - [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")
 
 [Category:アニメ作品_ろ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ろ "wikilink") [Category:1991年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1991年のアニメ映画 "wikilink") [Category:日本のオリジナルアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東京テアトルのアニメ映画](https://ja.wikipedia.org/wiki/Category:東京テアトルのアニメ映画 "wikilink") [Category:角川映画のアニメ映画](https://ja.wikipedia.org/wiki/Category:角川映画のアニメ映画 "wikilink") [Category:ムービックのアニメ映画](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ映画 "wikilink") [Category:SMEJのアニメ映画](https://ja.wikipedia.org/wiki/Category:SMEJのアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材としたアニメ映画 "wikilink") [Category:鎌倉市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:鎌倉市を舞台とした映画作品 "wikilink") [Category:江口寿史](https://ja.wikipedia.org/wiki/Category:江口寿史 "wikilink") [Category:大友克洋](https://ja.wikipedia.org/wiki/Category:大友克洋 "wikilink") [Category:老人を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:老人を題材とした映画作品 "wikilink")
 

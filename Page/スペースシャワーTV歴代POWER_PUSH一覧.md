@@ -14,62 +14,62 @@
 
 ### 1994年
 
-| 月   | 曲名                                                                              | アーティスト名                                                 |
-| --- | ------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 6月  | 君がいた夏(綿内克幸の曲) |[君がいた夏](https://ja.wikipedia.org/wiki/君がいた夏 "wikilink")          | [綿内克幸](../Page/綿内克幸.md "wikilink")                      |
-| 7月  | PLEASE PLEASE MR.SKY                                                            | [Spiral Life](../Page/Spiral_Life.md "wikilink")        |
-| 8月  | 走り泣く乙女                                                                          | [SPANK HAPPY](../Page/SPANK_HAPPY.md "wikilink")        |
-| 9月  | あたしなんで抱きしめたいんだろう?                                                               | [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink") |
-| 10月 | kozmic blue                                                                     | [ICE](../Page/ICE_\(音楽グループ\).md "wikilink")             |
-| 11月 | [cheese "PIZZA"](https://ja.wikipedia.org/wiki/Cheese_"PIZZA"/クリスマス "wikilink") | [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")    |
-| 12月 | CALM(凪)                                                                         | [EL-MALO](../Page/EL-MALO.md "wikilink")                |
+| 月   | 曲名                                                                                                                          | アーティスト名                                                 |
+| --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 6月  | 君がいた夏(綿内克幸の曲) |[君がいた夏](https://ja.wikipedia.org/wiki/君がいた夏 "wikilink")                                                      | [綿内克幸](../Page/綿内克幸.md "wikilink")                      |
+| 7月  | [Please Please Mr.Sky](https://ja.wikipedia.org/wiki/（Don't_Tell_Me_Now!）Please_Please_Mr.Sky（Spiral_Lifeのシングル） "wikilink") | [Spiral Life](../Page/Spiral_Life.md "wikilink")        |
+| 8月  | [走り泣く乙女](https://ja.wikipedia.org/wiki/走り泣く乙女（SPANK_HAPPYのシングル） "wikilink")                                                 | [SPANK HAPPY](../Page/SPANK_HAPPY.md "wikilink")        |
+| 9月  | [あたしなんで抱きしめたいんだろう?](https://ja.wikipedia.org/wiki/あたしなんで抱きしめたいんだろう?（CHARAのシングル） "wikilink")                                 | [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink") |
+| 10月 | [kozmic blue](https://ja.wikipedia.org/wiki/kozmic_blue（ICEのシングル） "wikilink")                                               | [ICE](../Page/ICE_\(音楽グループ\).md "wikilink")             |
+| 11月 | [cheese "PIZZA"](https://ja.wikipedia.org/wiki/Cheese_"PIZZA"/クリスマス "wikilink")                                             | [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")    |
+| 12月 | [CALM(凪)](https://ja.wikipedia.org/wiki/Ⅲ（EL-MALOのアルバム） "wikilink")                                                         | [EL-MALO](../Page/EL-MALO.md "wikilink")                |
 
 ### 1995年
 
-| 月   | 曲名                                                                                                                          | アーティスト名                                                                           |
-| --- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1月  | LOVE COMMUNICATION                                                                                                          | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")                      |
-| 2月  | [CALL ME CALL ME](https://ja.wikipedia.org/wiki/Alive_\(LOVE_TAMBOURINESのアルバム\) "wikilink")                                 | |[ラヴ・タンバリンズ](../Page/ラヴ・タンバリンズ.md "wikilink")                                     |
-| 3月  | 黄昏'95〜太陽の季節                                                                                                                 | [TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")                  |
-| 4月  | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")                                                                                  | [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")                     |
-| 5月  | BOOSTER                                                                                                                     | [HAL FROM APOLLO'69](https://ja.wikipedia.org/wiki/HAL_FROM_APOLLO'69 "wikilink") |
-| 6月  | [大阪ストラット](../Page/大阪ストラット・パートII.md "wikilink")                                                                              | [ウルフルズ](../Page/ウルフルズ.md "wikilink")                                              |
-| 7月  | [CALM DOWN](https://ja.wikipedia.org/wiki/CALM_DOWN "wikilink")/[ありったけの愛](https://ja.wikipedia.org/wiki/ありったけの愛 "wikilink") | [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")                              |
-| 8月  | 明日の行方                                                                                                                       | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                                      |
-| 9月  | [COLONY](../Page/COLONY_\(UAの曲\).md "wikilink")                                                                             | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")                          |
-| 10月 | [ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")                                                                                | [THE HIGH-LOWS](../Page/THE_HIGH-LOWS.md "wikilink")                              |
-| 11月 | [恋におちたら](https://ja.wikipedia.org/wiki/恋におちたら_\(サニーデイ・サービスの曲\) "wikilink")                                                  | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")                 |
-| 12月 | [神歌](https://ja.wikipedia.org/wiki/神歌_\(THE_MAD_CAPSULE_MARKET'Sの曲\) "wikilink")                                            | [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")          |
+| 月   | 曲名                                                                               | アーティスト名                                                                  |
+| --- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1月  | LOVE COMMUNICATION                                                               | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")             |
+| 2月  | Alive (LOVE TAMBOURINESのアルバム)|CALL ME CALL ME                                    | |[LOVE TAMBOURINES](../Page/ラヴ・タンバリンズ.md "wikilink")                     |
+| 3月  | 黄昏'95〜太陽の季節                                                                      | [TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")         |
+| 4月  | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")                                       | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                               |
+| 5月  | BOOSTER                                                                          | HAL FROM APOLLO'69                                                       |
+| 6月  | [大阪ストラット](../Page/大阪ストラット・パートII.md "wikilink")                                   | [ウルフルズ](../Page/ウルフルズ.md "wikilink")                                     |
+| 7月  | [ありったけの愛](https://ja.wikipedia.org/wiki/CALM_DOWN "wikilink")                    | [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")                     |
+| 8月  | 明日の行方                                                                            | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                             |
+| 9月  | [COLONY](../Page/COLONY_\(UAの曲\).md "wikilink")                                  | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")                 |
+| 10月 | [ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")                                     | [THE HIGH-LOWS](../Page/THE_HIGH-LOWS.md "wikilink")                     |
+| 11月 | [恋におちたら](https://ja.wikipedia.org/wiki/恋におちたら_\(サニーデイ・サービスの曲\) "wikilink")       | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")        |
+| 12月 | [神歌](https://ja.wikipedia.org/wiki/神歌_\(THE_MAD_CAPSULE_MARKET'Sの曲\) "wikilink") | [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") |
 
 ### 1996年
 
-| 月   | 曲名                                                                                    | アーティスト名                                                                        |
-| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1月  | タイトでキュートなヒップがシュールなジョークとムードでテレフォンナンバー                                                  | [宮本浩次](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")                             |
-| 2月  | 最後のハイウェイの夢                                                                            | [PLAGUES](../Page/PLAGUES.md "wikilink")                                       |
-| 3月  | バイバイブルース                                                                              | [ヒックスヴィル](../Page/ヒックスヴィル.md "wikilink")                                       |
-| 4月  | 世界中の人に自慢したいよ                                                                          | [忌野清志郎](../Page/忌野清志郎.md "wikilink")                                           |
-| 6月  | SWEETHEART OF MY SOUL                                                                 | [THE GROOVERS](https://ja.wikipedia.org/wiki/THE_GROOVERS "wikilink")          |
-| 8月  | [向い風](https://ja.wikipedia.org/wiki/向い風 "wikilink")                                   | [ソウル・フラワー・ユニオン](https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン "wikilink")        |
-| 9月  | [Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(ACOの曲\) "wikilink") | [ACO](../Page/ACO.md "wikilink")                                               |
-| 10月 | [リリィ](https://ja.wikipedia.org/wiki/リリィ_\(thee_michelle_gun_elephantの曲\) "wikilink")  | [THEE MICHELLE GUN ELEPHANT](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink") |
-| 11月 | [冬のにおい](https://ja.wikipedia.org/wiki/俺たちハタチ族_Part_2_〜冬のにおい "wikilink")               | [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")                                 |
-| 12月 | NEVER NEVER LAND                                                                      | [Small Circle of Friends](../Page/Small_Circle_of_Friends.md "wikilink")       |
+| 月   | 曲名                                                                                       | アーティスト名                                                                        |
+| --- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1月  | タイトでキュートなヒップがシュールなジョークとムードでテレフォンナンバー                                                     | [宮本浩次](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")                             |
+| 2月  | 最後のハイウェイの夢                                                                               | [PLAGUES](../Page/PLAGUES.md "wikilink")                                       |
+| 3月  | [バイバイ ブルース](https://ja.wikipedia.org/wiki/BYE_BYE_BLUICE "wikilink")                     | [ヒックスヴィル](../Page/ヒックスヴィル.md "wikilink")                                       |
+| 4月  | 世界中の人に自慢したいよ                                                                             | [忌野清志郎](../Page/忌野清志郎.md "wikilink")                                           |
+| 6月  | SWEETHEART OF MY SOUL                                                                    | [THE GROOVERS](https://ja.wikipedia.org/wiki/THE_GROOVERS "wikilink")          |
+| 8月  | [向い風](https://ja.wikipedia.org/wiki/向い風 "wikilink")                                      | [ソウル・フラワー・ユニオン](https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン "wikilink")        |
+| 9月  | [Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(ACOのシングル\) "wikilink") | [ACO](../Page/ACO.md "wikilink")                                               |
+| 10月 | [リリィ](https://ja.wikipedia.org/wiki/リリィ_\(thee_michelle_gun_elephantの曲\) "wikilink")     | [THEE MICHELLE GUN ELEPHANT](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink") |
+| 11月 | [冬のにおい](https://ja.wikipedia.org/wiki/俺たちハタチ族_Part_2_〜冬のにおい "wikilink")                  | [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")                                 |
+| 12月 | NEVER NEVER LAND                                                                         | [Small Circle of Friends](../Page/Small_Circle_of_Friends.md "wikilink")       |
 
 ### 1997年
 
 | 月   | 曲名                                                                                  | アーティスト名                                                                 |
 | --- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1月  | 犬と猫                                                                                 | [中村一義](../Page/中村一義.md "wikilink")                                      |
+| 1月  | [犬と猫](https://ja.wikipedia.org/wiki/犬と猫/ここにいる "wikilink")                           | [中村一義](../Page/中村一義.md "wikilink")                                      |
 | 2月  | 赤い手                                                                                 | [スキップカウズ](../Page/スキップカウズ.md "wikilink")                                |
-| 3月  | [カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン_\(Coccoの曲\) "wikilink")             | [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")                 |
-| 4月  | [Shangri-La](../Page/Shangri-La_\(電気グルーヴの曲\).md "wikilink")                         | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")                                  |
+| 3月  | [カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン_\(Coccoのシングル\) "wikilink")          | [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")                 |
+| 4月  | [Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(電気グルーヴのシングル\) "wikilink")   | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")                                  |
 | 5月  | Swingin' the Swing                                                                  | [五島良子](../Page/五島良子.md "wikilink")                                      |
-| 6月  | [はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(小島麻由美の曲\) "wikilink")                     | [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")                 |
+| 6月  | [はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(小島麻由美のシングル\) "wikilink")                  | [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")                 |
 | 7月  | [ENDLESS SUMMER NUDE](https://ja.wikipedia.org/wiki/ENDLESS_SUMMER_NUDE "wikilink") | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                |
 | 8月  | チャイナ・カフェ                                                                            | [高橋徹也](../Page/高橋徹也.md "wikilink")                                      |
 | 9月  | [覚醒](https://ja.wikipedia.org/wiki/覚醒_\(アルバム\) "wikilink")                          | [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")                            |
-| 10月 | 終わりなき世界                                                                             | [カーマイン](https://ja.wikipedia.org/wiki/カーマイン_\(音楽ユニット\) "wikilink")      |
+| 10月 | 終わりなき世界                                                                             | カーマイン (音楽ユニット)|カーマイン                                                    |
 | 11月 | WALKING IN THE RHYTHM                                                               | [Fishmans](https://ja.wikipedia.org/wiki/Fishmans "wikilink")           |
 | 12月 | 青すぎる空                                                                               | [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink") |
 |     |                                                                                     |                                                                         |
@@ -83,7 +83,7 @@
 | 3月  | Frames                                                                    | [Daily-Echo](../Page/Daily-Echo.md "wikilink")                    |
 | 4月  | CALiGULA                                                                  | [GREAT3](../Page/GREAT3.md "wikilink")                            |
 | 5月  | 空想X                                                                       | [pal@pop](https://ja.wikipedia.org/wiki/pal@pop "wikilink")       |
-| 6月  | [欲望](https://ja.wikipedia.org/wiki/欲望\(ホフディランの曲\) "wikilink")             | [ホフディラン](../Page/ホフディラン.md "wikilink")                            |
+| 6月  | 欲望(ホフディランの曲) |欲望                                                          | [ホフディラン](../Page/ホフディラン.md "wikilink")                            |
 | 7月  | [夏色](../Page/夏色.md "wikilink")                                            | [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")      |
 | 8月  | あなたに向かって                                                                  | [松崎ナオ](../Page/松崎ナオ.md "wikilink")                                |
 | 9月  | [Sunday People](https://ja.wikipedia.org/wiki/Sunday_People "wikilink")   | [SUPERCAR](../Page/SUPERCAR.md "wikilink")                        |
@@ -96,7 +96,7 @@
 | 月   | 曲名                                                                                     | アーティスト名                                                                     |
 | --- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 1月  | [ここでキスして。](../Page/ここでキスして。.md "wikilink")                                             | [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")                       |
-| 2月  | [花](https://ja.wikipedia.org/wiki/花_\(桃乃未琴の曲\) "wikilink")                             | [桃乃未琴](https://ja.wikipedia.org/wiki/桃乃未琴 "wikilink")                       |
+| 2月  | 花 (桃乃未琴の曲)|花                                                                           | [桃乃未琴](https://ja.wikipedia.org/wiki/桃乃未琴 "wikilink")                       |
 | 3月  | [Let yourself go, Let myself go](../Page/Let_yourself_go,_Let_myself_go.md "wikilink") | [Dragon Ash](../Page/Dragon_Ash.md "wikilink")                              |
 | 4月  | [ズックにロック](https://ja.wikipedia.org/wiki/ズックにロック "wikilink")                            | [ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")                                      |
 | 5月  | [Sweet time](../Page/Crystal_\(アルバム\).md "wikilink")                                   | [Double](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")            |
@@ -113,8 +113,8 @@
 | 月   | 曲名                                                                            | アーティスト名                                                                                         |
 | --- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 1月  | DON'T TEST DA MASTER                                                          | [BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")                                              |
-| 2月  | [祈り](https://ja.wikipedia.org/wiki/祈り\(小林建樹の曲\) "wikilink")                   | [小林建樹](../Page/小林建樹.md "wikilink")                                                              |
-| 3月  | [EPISODE 1](https://ja.wikipedia.org/wiki/EPISODE_1 "wikilink")               | [スケボーキング](../Page/スケボーキング.md "wikilink") feat.[Kj](https://ja.wikipedia.org/wiki/Kj "wikilink") |
+| 2月  | 祈り(小林建樹の曲) |祈り                                                                | [小林建樹](../Page/小林建樹.md "wikilink")                                                              |
+| 3月  | EPISODE 1                                                                     | [スケボーキング](../Page/スケボーキング.md "wikilink") feat.[Kj](https://ja.wikipedia.org/wiki/Kj "wikilink") |
 | 4月  | MR.DYNAMITE                                                                   | [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")                                       |
 | 5月  | [why](https://ja.wikipedia.org/wiki/why_\(平井堅の曲\) "wikilink")                 | [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")                                             |
 | 6月  | P.F.P.                                                                        | [shame](https://ja.wikipedia.org/wiki/shame "wikilink")                                         |
@@ -128,54 +128,54 @@
 
 ### 2001年
 
-| 月   | 曲名                                                                            | アーティスト名                                                                                                                                                                                 |
-| --- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1月  | [MUSIC](https://ja.wikipedia.org/wiki/MUSIC_\(RIZEの曲\) "wikilink")            | [RIZE](../Page/RIZE.md "wikilink")                                                                                                                                                      |
-| 2月  | [猫](https://ja.wikipedia.org/wiki/猫\(山本美絵の曲\) "wikilink")                     | [山本美絵](../Page/山本美絵.md "wikilink")                                                                                                                                                      |
-| 3月  | [天体観測](../Page/天体観測_\(曲\).md "wikilink")                                      | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")                                                                                                             |
-| 4月  | [サニー](https://ja.wikipedia.org/wiki/サニー_\(THE_BACK_HORNの曲\) "wikilink")       | [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")                                                                                                                                    |
-| 5月  | [サイコアナルシス](https://ja.wikipedia.org/wiki/満ち汐のロマンス "wikilink")                 | [EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")                                                                                                                                      |
-| 6月  | [Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")                    | [三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")                                                                                                                                   |
-| 7月  | [イツナロウバ](https://ja.wikipedia.org/wiki/イツナロウバ "wikilink")                     | [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")                                                                                                                            |
-| 8月  | [LIFE GOES AROUND](https://ja.wikipedia.org/wiki/LIFE_GOES_AROUND "wikilink") | [KAANA](https://ja.wikipedia.org/wiki/KAANA "wikilink") feat.[CRISS](https://ja.wikipedia.org/wiki/CRISS "wikilink") from [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink") CREW |
-| 9月  | [HigH](https://ja.wikipedia.org/wiki/HigH "wikilink")                         | [MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")                                                                                                                          |
-| 10月 | FREEDOM                                                                       | [TWIGY](../Page/TWIGY.md "wikilink"),[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")&[Keyco](../Page/Keyco.md "wikilink")                                       |
-| 11月 | [手紙](https://ja.wikipedia.org/wiki/手紙_\(ケツメイシのシングル\) "wikilink")              | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                                                                                                                    |
-| 12月 | [across my heart](https://ja.wikipedia.org/wiki/across_my_heart "wikilink")   | [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")                                                                                                                               |
+| 月   | 曲名                                                                      | アーティスト名                                                                                                                                           |
+| --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1月  | [MUSIC](https://ja.wikipedia.org/wiki/MUSIC_\(RIZEの曲\) "wikilink")      | [RIZE](../Page/RIZE.md "wikilink")                                                                                                                |
+| 2月  | 猫(山本美絵の曲) |猫                                                            | [山本美絵](../Page/山本美絵.md "wikilink")                                                                                                                |
+| 3月  | [天体観測](../Page/天体観測_\(曲\).md "wikilink")                                | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")                                                                       |
+| 4月  | [サニー](https://ja.wikipedia.org/wiki/サニー_\(THE_BACK_HORNの曲\) "wikilink") | [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")                                                                                              |
+| 5月  | [サイコアナルシス](https://ja.wikipedia.org/wiki/満ち汐のロマンス "wikilink")           | [EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")                                                                                                |
+| 6月  | [Lifetime Respect](../Page/Lifetime_Respect.md "wikilink")              | [三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")                                                                                             |
+| 7月  | [イツナロウバ](https://ja.wikipedia.org/wiki/イツナロウバ "wikilink")               | [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")                                                                                      |
+| 8月  | LIFE GOES AROUND                                                        | KAANA feat.CRISS from [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink") CREW                                                               |
+| 9月  | [HigH](https://ja.wikipedia.org/wiki/HELLO "wikilink")                  | [MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")                                                                                    |
+| 10月 | FREEDOM                                                                 | [TWIGY](../Page/TWIGY.md "wikilink"),[YOU THE ROCK☆](https://ja.wikipedia.org/wiki/YOU_THE_ROCK☆ "wikilink")&[Keyco](../Page/Keyco.md "wikilink") |
+| 11月 | [手紙](https://ja.wikipedia.org/wiki/手紙_\(ケツメイシのシングル\) "wikilink")        | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                                                                              |
+| 12月 | [across my heart](https://ja.wikipedia.org/wiki/SMOOTH "wikilink")      | [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")                                                                                         |
 
 ### 2002年
 
-| 月   | 曲名                                                                                      | アーティスト名                                                                                                                   |
-| --- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1月  | [月がきれい](https://ja.wikipedia.org/wiki/月がきれい_\(ラブハンドルズの曲\) "wikilink")                   | [ラブハンドルズ](../Page/ラブハンドルズ.md "wikilink")                                                                                  |
-| 2月  | [ワダツミの木](../Page/ワダツミの木.md "wikilink")                                                  | [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")                                                                     |
-| 3月  | [Hip Hop Royal](https://ja.wikipedia.org/wiki/Hip_Hop_Royal "wikilink")                 | [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")                                                   |
-| 4月  | [ミラージュ](https://ja.wikipedia.org/wiki/ミラージュ_\(GOING_UNDER_GROUNDの曲\) "wikilink")        | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")                                                            |
-| 5月  | [THE ANSWER](https://ja.wikipedia.org/wiki/THE_ANSWER "wikilink")                       | [S-WORD](../Page/S-WORD.md "wikilink") feat.[CHRISTINA MILIAN](https://ja.wikipedia.org/wiki/CHRISTINA_MILIAN "wikilink") |
-| 6月  | [Get Up](https://ja.wikipedia.org/wiki/Get_Up_\(Scoobie_Doのアルバム\) "wikilink")           | [Scoobie Do](../Page/Scoobie_Do.md "wikilink")                                                                            |
-| 7月  | [GT](https://ja.wikipedia.org/wiki/GT_\(クレイジーケンバンドの曲\) "wikilink")                      | [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")                                                                            |
-| 8月  | [STEP TO THE NEW WORLD](https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD "wikilink") | [SOULHEAD](../Page/SOULHEAD.md "wikilink")                                                                                |
-| 9月  | [ありふれた言葉](https://ja.wikipedia.org/wiki/ありふれた言葉 "wikilink")                             | [ROCKING TIME](../Page/ROCKING_TIME.md "wikilink")                                                                        |
-| 10月 | [赤橙](../Page/赤橙_\(曲\).md "wikilink")                                                    | [ACIDMAN](../Page/ACIDMAN.md "wikilink")                                                                                  |
-| 11月 | [RIVER](https://ja.wikipedia.org/wiki/RIVER_\(10-FEETの曲\) "wikilink")                   | [10-FEET](../Page/10-FEET.md "wikilink")                                                                                  |
-| 12月 | 幻                                                                                       | [くるみ](../Page/榎本くるみ.md "wikilink")                                                                                        |
+| 月   | 曲名                                                                                                     | アーティスト名                                                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 1月  | 月がきれい (ラブハンドルズの曲)|月がきれい                                                                                | [ラブハンドルズ](../Page/ラブハンドルズ.md "wikilink")                                                                                  |
+| 2月  | [ワダツミの木](../Page/ワダツミの木.md "wikilink")                                                                 | [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")                                                                     |
+| 3月  | Hip Hop Royal                                                                                          | [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")                                                   |
+| 4月  | [ミラージュ](https://ja.wikipedia.org/wiki/ミラージュ_\(GOING_UNDER_GROUNDの曲\) "wikilink")                       | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")                                                            |
+| 5月  | THE ANSWER                                                                                             | [S-WORD](../Page/S-WORD.md "wikilink") feat.[CHRISTINA MILIAN](https://ja.wikipedia.org/wiki/CHRISTINA_MILIAN "wikilink") |
+| 6月  | [Get Up](https://ja.wikipedia.org/wiki/Get_Up_\(Scoobie_Doのアルバム\) "wikilink")                          | [Scoobie Do](../Page/Scoobie_Do.md "wikilink")                                                                            |
+| 7月  | [GT](https://ja.wikipedia.org/wiki/GT_\(クレイジーケンバンドのシングル\) "wikilink")                                  | [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")                                                                            |
+| 8月  | [STEP TO THE NEW WORLD](https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD（SOULHEADのシングル） "wikilink") | [SOULHEAD](../Page/SOULHEAD.md "wikilink")                                                                                |
+| 9月  | [ありふれた言葉](../Page/ROCKING_TIME.md "wikilink")                                                          | [ROCKING TIME](../Page/ROCKING_TIME.md "wikilink")                                                                        |
+| 10月 | [赤橙](https://ja.wikipedia.org/wiki/赤橙_\(ACIDMANのシングル\) "wikilink")                                     | [ACIDMAN](../Page/ACIDMAN.md "wikilink")                                                                                  |
+| 11月 | [RIVER](https://ja.wikipedia.org/wiki/RIVER_\(10-FEETのシングル\) "wikilink")                               | [10-FEET](../Page/10-FEET.md "wikilink")                                                                                  |
+| 12月 | [幻](https://ja.wikipedia.org/wiki/幻（くるみのシングル） "wikilink")                                              | [くるみ](../Page/榎本くるみ.md "wikilink")                                                                                        |
 
 ### 2003年
 
-| 月   | 曲名                                                                            | アーティスト名                                                                    |
-| --- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1月  | [鍵穴](https://ja.wikipedia.org/wiki/鍵穴 "wikilink")                             | [高宮マキ](../Page/高宮マキ.md "wikilink")                                         |
-| 2月  | [I WANNA KNOW YOU](https://ja.wikipedia.org/wiki/I_WANNA_KNOW_YOU "wikilink") | [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")                  |
-| 3月  | [君がいるなら☆](https://ja.wikipedia.org/wiki/君がいるなら☆ "wikilink")                   | [SOFFet](../Page/SOFFet.md "wikilink")                                     |
-| 4月  | [AM 11:00](../Page/Street_Story.md "wikilink")                                | [HY](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")                  |
-| 5月  | [雨上がり](https://ja.wikipedia.org/wiki/雨上がり_\(レミオロメンの曲\) "wikilink")            | [レミオロメン](../Page/レミオロメン.md "wikilink")                                     |
-| 6月  | [Thank U](https://ja.wikipedia.org/wiki/Thank_U "wikilink")                   | [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")                   |
-| 7月  | [DA BALLA](https://ja.wikipedia.org/wiki/DA_BALLA "wikilink")                 | [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")                   |
-| 8月  | [MAGIC](../Page/ACROSS_THE_ENDING.md "wikilink")                              | [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")                               |
-| 9月  | [ココロノウタ](https://ja.wikipedia.org/wiki/ココロノウタ "wikilink")                     | [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")                         |
-| 10月 | [君という花](../Page/君という花.md "wikilink")                                          | [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink") |
-| 11月 | [ススミダス→](https://ja.wikipedia.org/wiki/ススミダス→ "wikilink")                     | [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")      |
-| 12月 | [ピース](https://ja.wikipedia.org/wiki/ピース_\(SPARTA_LOCALSの曲\) "wikilink")       | [SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")                       |
+| 月   | 曲名                                                                    | アーティスト名                                                                    |
+| --- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 1月  | 鍵穴                                                                    | [高宮マキ](../Page/高宮マキ.md "wikilink")                                         |
+| 2月  | I WANNA KNOW YOU                                                      | [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")                  |
+| 3月  | 君がいるなら☆                                                               | [SOFFet](../Page/SOFFet.md "wikilink")                                     |
+| 4月  | [AM 11:00](../Page/Street_Story.md "wikilink")                        | [HY](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")                  |
+| 5月  | [雨上がり](https://ja.wikipedia.org/wiki/雨上がり_\(レミオロメンの曲\) "wikilink")    | [レミオロメン](../Page/レミオロメン.md "wikilink")                                     |
+| 6月  | Thank U                                                               | [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")                   |
+| 7月  | [DA BALA](https://ja.wikipedia.org/wiki/BOOK_OF_LIFE～炎の章～ "wikilink") | [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")                   |
+| 8月  | [MAGIC](../Page/ACROSS_THE_ENDING.md "wikilink")                      | [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")                               |
+| 9月  | ココロノウタ                                                                | [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")                         |
+| 10月 | [君という花](../Page/君という花.md "wikilink")                                  | [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink") |
+| 11月 | ススミダス→                                                                | [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")      |
+| 12月 | ピース (SPARTA LOCALSの曲)|ピース                                             | [SPARTA LOCALS](../Page/SPARTA_LOCALS.md "wikilink")                       |
 
 ### 2004年
 
@@ -183,29 +183,29 @@
 | --- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | 1月  | [ドラマチックレコード](https://ja.wikipedia.org/wiki/and_do,_record. "wikilink")              | [安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子 "wikilink")                 |
 | 2月  | [Running On The Winding Road](../Page/The_Cost_Of_My_Freedom.md "wikilink")         | [Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink") |
-| 3月  | [リトルダンス](https://ja.wikipedia.org/wiki/リトルダンス "wikilink")                           | [高鈴](../Page/高鈴.md "wikilink")                                        |
+| 3月  | リトルダンス                                                                              | [高鈴](../Page/高鈴.md "wikilink")                                        |
 | 4月  | [美しき人間の日々](https://ja.wikipedia.org/wiki/美しき人間の日々 "wikilink")                       | [サンボマスター](../Page/サンボマスター.md "wikilink")                              |
-| 5月  | [ユリーカ\!](https://ja.wikipedia.org/wiki/ユリーカ! "wikilink")                            | [BEAN BAG](https://ja.wikipedia.org/wiki/BEAN_BAG "wikilink")         |
+| 5月  | ユリーカ\!                                                                              | [BEAN BAG](https://ja.wikipedia.org/wiki/BEAN_BAG "wikilink")         |
 | 6月  | [希望の炎](https://ja.wikipedia.org/wiki/希望の炎 "wikilink")                               | [KREVA](../Page/KREVA.md "wikilink")                                  |
 | 7月  | [陽炎](../Page/陽炎_\(フジファブリックの曲\).md "wikilink")                                       | [フジファブリック](../Page/フジファブリック.md "wikilink")                            |
-| 8月  | [たのしそう かなしそう](https://ja.wikipedia.org/wiki/たのしそう_かなしそう "wikilink")                 | [原田郁子](../Page/原田郁子.md "wikilink")                                    |
+| 8月  | たのしそう かなしそう                                                                         | [原田郁子](../Page/原田郁子.md "wikilink")                                    |
 | 9月  | [Life is Like a Boat](https://ja.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink") | [Rie fu](../Page/Rie_fu.md "wikilink")                                |
-| 10月 | [セピア](https://ja.wikipedia.org/wiki/セピア_\(Jackson_vibeの曲\) "wikilink")              | [Jackson vibe](../Page/Jackson_vibe.md "wikilink")                    |
-| 11月 | [soul music](https://ja.wikipedia.org/wiki/soul_music "wikilink")                   | [Caravan](../Page/Caravan.md "wikilink")                              |
-| 12月 | [テノヒラ](https://ja.wikipedia.org/wiki/テノヒラ_\(スネオヘアーの曲\) "wikilink")                  | [スネオヘアー](../Page/スネオヘアー.md "wikilink")                                |
+| 10月 | セピア (Jackson vibeの曲)|セピア                                                            | [Jackson vibe](../Page/Jackson_vibe.md "wikilink")                    |
+| 11月 | [soul music](https://ja.wikipedia.org/wiki/Trip_in_the_music "wikilink")            | [Caravan](../Page/Caravan.md "wikilink")                              |
+| 12月 | テノヒラ (スネオヘアーの曲)|テノヒラ                                                                | [スネオヘアー](../Page/スネオヘアー.md "wikilink")                                |
 
 ### 2005年
 
 | 月   | 曲名                                                                          | アーティスト名                                                               |
 | --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | 1月  | [ナキムシのうた](https://ja.wikipedia.org/wiki/ナキムシのうた "wikilink")                 | [風味堂](../Page/風味堂.md "wikilink")                                      |
-| 2月  | [GREAT & FUNKEY](https://ja.wikipedia.org/wiki/GREAT_&_FUNKEY "wikilink")   | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")              |
+| 2月  | GREAT\&FUNKY-Reservoir Edition(アルバム)|GREAT\&FUNKEY                          | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")              |
 | 3月  | [ON THE RUN](https://ja.wikipedia.org/wiki/ON_THE_RUN "wikilink")           | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") |
-| 4月  | [石コロブ](https://ja.wikipedia.org/wiki/石コロブ "wikilink")                       | [セカイイチ](../Page/セカイイチ.md "wikilink")                                  |
+| 4月  | 石コロブ                                                                        | [セカイイチ](../Page/セカイイチ.md "wikilink")                                  |
 | 5月  | [彗星](https://ja.wikipedia.org/wiki/彗星_\(Salyuの曲\) "wikilink")               | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")               |
 | 6月  | [紫陽花](https://ja.wikipedia.org/wiki/紫陽花/螺旋階段 "wikilink")                    | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                                  |
 | 7月  | [ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")                     | [タカチャ](../Page/タカチャ.md "wikilink")                                    |
-| 8月  | [緑のアーチ](https://ja.wikipedia.org/wiki/緑のアーチ "wikilink")                     | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")                 |
+| 8月  | 緑のアーチ/裸の王様(シングル)|緑のアーチ                                                      | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")                 |
 | 9月  | [The Fire](https://ja.wikipedia.org/wiki/High_Pressure_\(アルバム\) "wikilink") | [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")                    |
 | 10月 | [キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")                       | [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")   |
 | 11月 | [HeartBreaker](../Page/BEEF_or_CHICKEN.md "wikilink")                       | [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")                  |
@@ -216,15 +216,15 @@
 | 月   | 曲名                                                                                      | アーティスト名                                                             |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 1月  | [Melodic Storm](https://ja.wikipedia.org/wiki/Melodic_Storm "wikilink")                 | [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")         |
-| 2月  | [桜はまだ咲いている](https://ja.wikipedia.org/wiki/桜はまだ咲いている "wikilink")                         | [plane](https://ja.wikipedia.org/wiki/plane "wikilink")             |
+| 2月  | 桜はまだ咲いている/どう思う?|桜はまだ咲いている                                                               | [plane](https://ja.wikipedia.org/wiki/plane "wikilink")             |
 | 3月  | [恋の煙](../Page/恋の煙.md "wikilink")                                                        | [チャットモンチー](../Page/チャットモンチー.md "wikilink")                          |
 | 4月  | [boyfriend](https://ja.wikipedia.org/wiki/boyfriend_\(AYUSE_KOZUEの曲\) "wikilink")       | [AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink") |
 | 5月  | [ふたりごと](../Page/ふたりごと.md "wikilink")                                                    | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")       |
 | 6月  | \[\[Coffee_&_SingingGirl                                                              | \!|Coffee & SingingGirl                                             |
-| 7月  | [MY GIRLS](https://ja.wikipedia.org/wiki/MY_GIRLS "wikilink")                           | [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")           |
+| 7月  | ALL MY GIRLS|MY GIRLS                                                                   | [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")           |
 | 8月  | [solar wind](https://ja.wikipedia.org/wiki/solar_wind "wikilink")                       | [シュノーケル](../Page/シュノーケル_\(バンド\).md "wikilink")                      |
 | 9月  | [Beautiful Life](https://ja.wikipedia.org/wiki/Beautiful_Life_\(ET-KINGの曲\) "wikilink") | [ET-KING](../Page/ET-KING.md "wikilink")                            |
-| 10月 | [Hey you](https://ja.wikipedia.org/wiki/Hey_you "wikilink")                             | [韻シスト](../Page/韻シスト.md "wikilink")                                  |
+| 10月 | FONKEY & LOVE|Hey you                                                                   | [韻シスト](../Page/韻シスト.md "wikilink")                                  |
 | 11月 | [シンクロ](../Page/シンクロ_\(秦基博の曲\).md "wikilink")                                            | [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")                 |
 | 12月 | [祭りのあと](https://ja.wikipedia.org/wiki/C_\(Base_Ball_Bearのアルバム\) "wikilink")             | [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")              |
 
@@ -233,8 +233,8 @@
 | 月   | 曲名                                                                                          | アーティスト名                                                                                 |
 | --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | 1月  | [解読不能](../Page/解読不能.md "wikilink")                                                          | [ジン](../Page/ジン_\(バンド\).md "wikilink")                                                  |
-| 2月  | [Shine Like A Star](https://ja.wikipedia.org/wiki/Shine_Like_A_Star "wikilink")             | [WISE](../Page/WISE.md "wikilink")                                                      |
-| 3月  | [Sissy Walk](https://ja.wikipedia.org/wiki/Sissy_Walk "wikilink")                           | [COMEBACK MY DAUGHTERS](https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS "wikilink") |
+| 2月  | Shine like a star                                                                           | [WISE](../Page/WISE.md "wikilink")                                                      |
+| 3月  | BIRD'S TRADITION e.p.|Sissy Walk                                                            | [COMEBACK MY DAUGHTERS](https://ja.wikipedia.org/wiki/COMEBACK_MY_DAUGHTERS "wikilink") |
 | 4月  | [ハロー・ハロー](../Page/ハロー・ハロー.md "wikilink")                                                    | [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")                           |
 | 5月  | [The World](https://ja.wikipedia.org/wiki/The_World_e.p. "wikilink")                        | [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")                    |
 | 6月  | [Open Your Heart〜素顔のままで〜](https://ja.wikipedia.org/wiki/Open_Your_Heart〜素顔のままで〜 "wikilink") | [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")                                   |
@@ -251,23 +251,23 @@
 | --- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | 1月  | [サンプル](https://ja.wikipedia.org/wiki/NIGHT_FISHING "wikilink")                                   | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")             |
 | 2月  | [1/6000000000 feat. C\&K](https://ja.wikipedia.org/wiki/1/6000000000_feat._C&K "wikilink")       | [九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")                     |
-| 3月  | [DAYBREAK](https://ja.wikipedia.org/wiki/DAYBREAK_e.p. "wikilink")                               | [GLORY HILL](https://ja.wikipedia.org/wiki/GLORY_HILL "wikilink")       |
+| 3月  | DAYBREAK e.p.|DAYBREAK                                                                           | [GLORY HILL](https://ja.wikipedia.org/wiki/GLORY_HILL "wikilink")       |
 | 4月  | [CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(福原美穂の曲\) "wikilink")                             | [福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")                   |
 | 5月  | [LIFE](https://ja.wikipedia.org/wiki/LIFE_\(キマグレンの曲\) "wikilink")                                | [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")                 |
 | 6月  | [ワープ](https://ja.wikipedia.org/wiki/Tuesday_and_Thursday "wikilink")                             | [lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink") |
-| 7月  | [パノラマ](https://ja.wikipedia.org/wiki/パノラマ_\(ヨースケ@HOMEの曲\) "wikilink")                            | [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")         |
+| 7月  | パノラマ (ヨースケ@HOMEの曲)|パノラマ                                                                          | [ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")         |
 | 8月  | [You say GOOD BYE](https://ja.wikipedia.org/wiki/SEVEN_COLORS_\(SpecialThanksのアルバム\) "wikilink") | [SpecialThanks](https://ja.wikipedia.org/wiki/SpecialThanks "wikilink") |
 | 9月  | [花になれ](https://ja.wikipedia.org/wiki/花になれ "wikilink")                                            | [flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")           |
-| 10月 | [Dear My Friend](https://ja.wikipedia.org/wiki/Dear_My_Friends/トラウマ "wikilink")                  | [上松秀実](https://ja.wikipedia.org/wiki/上松秀実 "wikilink")                   |
+| 10月 | Dear My Friends/トラウマ|Dear My Friend                                                              | [上松秀実](https://ja.wikipedia.org/wiki/上松秀実 "wikilink")                   |
 | 11月 | [foolish foolish](https://ja.wikipedia.org/wiki/foolish_foolish "wikilink")                      | [松下優也](https://ja.wikipedia.org/wiki/松下優也 "wikilink")                   |
-| 12月 | [Everytime](https://ja.wikipedia.org/wiki/Everytime "wikilink")                                  | [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")         |
+| 12月 | Everytime                                                                                        | [TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")         |
 
 ### 2009年
 
 | 月   | 曲名                                                                                  | アーティスト名                                                                   |
 | --- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 1月  | [ふりぃ](https://ja.wikipedia.org/wiki/ふりぃ "wikilink")                                 | [阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")                     |
-| 2月  | [perfect angel](https://ja.wikipedia.org/wiki/perfect_angel "wikilink")             | [COMA-CHI](../Page/COMA-CHI.md "wikilink")                                |
+| 2月  | [perfect angel](https://ja.wikipedia.org/wiki/RED_NAKED "wikilink")                 | [COMA-CHI](../Page/COMA-CHI.md "wikilink")                                |
 | 3月  | [Morning Sun](https://ja.wikipedia.org/wiki/Morning_Sun "wikilink")                 | [清竜人](https://ja.wikipedia.org/wiki/清竜人 "wikilink")                       |
 | 4月  | [EMOTION POTION](https://ja.wikipedia.org/wiki/THIS_IS_MY_STORY "wikilink")         | [THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")       |
 | 5月  | [JPOP Xfile](https://ja.wikipedia.org/wiki/just_A_moment "wikilink")                | [凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")                 |
@@ -277,13 +277,13 @@
 | 9月  | [ワンダーソング](https://ja.wikipedia.org/wiki/ワンダーソング "wikilink")                         | [S.R.S](https://ja.wikipedia.org/wiki/S.R.S "wikilink")                   |
 | 10月 | [白朝夢](https://ja.wikipedia.org/wiki/Tapestry_\(WEAVERのアルバム\) "wikilink")            | [WEAVER](https://ja.wikipedia.org/wiki/WEAVER "wikilink")                 |
 | 11月 | [メロウ](https://ja.wikipedia.org/wiki/paratroop "wikilink")                           | [sleepy.ab](https://ja.wikipedia.org/wiki/sleepy.ab "wikilink")           |
-| 12月 | [廃人のロックンロール](https://ja.wikipedia.org/wiki/廃人のロックンロール "wikilink")                   | [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink")               |
+| 12月 | [廃人のロックンロール](https://ja.wikipedia.org/wiki/All_de_fashion "wikilink")               | [黒猫チェルシー](https://ja.wikipedia.org/wiki/黒猫チェルシー "wikilink")               |
 
 ### 2010年
 
 | 月   | 曲名                                                                                | アーティスト名                                                                                                                                        |
 | --- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1月  | [CITY LIGHTS](https://ja.wikipedia.org/wiki/CITY_LIGHTS "wikilink")               | [andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")                                                                                  |
+| 1月  | [CITY LIGHTS](https://ja.wikipedia.org/wiki/ファンファーレと熱狂 "wikilink")                | [andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")                                                                                  |
 | 2月  | [ハマナスの花](https://ja.wikipedia.org/wiki/ファンファーレと熱狂 "wikilink")                     | [Galileo Galilei](https://ja.wikipedia.org/wiki/Galileo_Galilei "wikilink")                                                                    |
 | 3月  | [ロックンロールは鳴り止まないっ](https://ja.wikipedia.org/wiki/友だちを殺してまで。 "wikilink")            | [神聖かまってちゃん](https://ja.wikipedia.org/wiki/神聖かまってちゃん "wikilink")                                                                                |
 | 4月  | [幻の命](https://ja.wikipedia.org/wiki/幻の命 "wikilink")                               | [世界の終わり](https://ja.wikipedia.org/wiki/世界の終わり "wikilink") (現在 [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink"))       |
@@ -302,12 +302,12 @@
 | --- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 1月  | [人との距離のはかりかた](https://ja.wikipedia.org/wiki/人との距離のはかりかた/最近どうなの?/人間そっくり "wikilink")    | [plenty](https://ja.wikipedia.org/wiki/plenty "wikilink")                         |
 | 2月  | [MirrorDance](https://ja.wikipedia.org/wiki/door_\(andropのアルバム\) "wikilink")          | [androp](https://ja.wikipedia.org/wiki/androp "wikilink")                         |
-| 3月  | [HIDE\&SEEK](https://ja.wikipedia.org/wiki/HIDE&SEEK "wikilink")                      | [NIKIIE](https://ja.wikipedia.org/wiki/NIKIIE "wikilink")                         |
+| 3月  | [HIDE\&SEEK](https://ja.wikipedia.org/wiki/HIDE&SEEK_\(NIKIIEの曲\) "wikilink")         | [NIKIIE](https://ja.wikipedia.org/wiki/NIKIIE "wikilink")                         |
 | 4月  | [少年であれ](https://ja.wikipedia.org/wiki/少年であれ "wikilink")                               | [高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")                               |
 | 5月  | [あたし、今日、失恋しました。](https://ja.wikipedia.org/wiki/あたし、今日、失恋しました。 "wikilink")             | [沢井美空](https://ja.wikipedia.org/wiki/沢井美空 "wikilink")                             |
 | 6月  | [観覧車に乗る君が夜景に照らされてるうちは](https://ja.wikipedia.org/wiki/観覧車に乗る君が夜景に照らされてるうちは "wikilink") | [The Mirraz](https://ja.wikipedia.org/wiki/The_Mirraz "wikilink")                 |
-| 7月  | [半径30cmの中を知らない](https://ja.wikipedia.org/wiki/こっちを見ている "wikilink")                    | [アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")                             |
-| 8月  | [PONPONPON](https://ja.wikipedia.org/wiki/PONPONPON "wikilink")                       | [きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")                 |
+| 7月  | [半径30cmの中を知らない](https://ja.wikipedia.org/wiki/こっちを見ている\(アルカラのアルバム\) "wikilink")       | [アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")                             |
+| 8月  | [PONPONPON](https://ja.wikipedia.org/wiki/もしもし原宿 "wikilink")                          | [きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")                 |
 | 9月  | [デスコ](https://ja.wikipedia.org/wiki/孔雀_\(女王蜂のアルバム\) "wikilink")                       | [女王蜂](https://ja.wikipedia.org/wiki/女王蜂_\(バンド\) "wikilink")                       |
 | 10月 | [思い出せなくなるその日まで](https://ja.wikipedia.org/wiki/思い出せなくなるその日まで "wikilink")               | [back number](https://ja.wikipedia.org/wiki/back_number "wikilink")               |
 | 11月 | [セントエルモ](https://ja.wikipedia.org/wiki/セントエルモ "wikilink")                             | [Applicat Spectra](https://ja.wikipedia.org/wiki/Applicat_Spectra "wikilink")     |
@@ -315,39 +315,39 @@
 
 ### 2012年
 
-| 月   | 曲名                                                                                                              | アーティスト名                                                                           |
-| --- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1月  | [バイマイサイド](https://ja.wikipedia.org/wiki/バイマイサイド "wikilink")                                                     | [Hemenway](https://ja.wikipedia.org/wiki/Hemenway "wikilink")                     |
-| 2月  | [サブリナ](https://ja.wikipedia.org/wiki/サブリナ_\(曲\) "wikilink")                                                     | [家入レオ](https://ja.wikipedia.org/wiki/家入レオ "wikilink")                             |
-| 3月  | [The Girl On A Board feat.H.TEFRON](https://ja.wikipedia.org/wiki/The_Girl_On_A_Board_feat.H.TEFRON "wikilink") | [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink")                             |
-| 4月  | [オレンジ](https://ja.wikipedia.org/wiki/死ぬまで一生愛されてると思ってたよ "wikilink")                                              | [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")                       |
-| 5月  | [Amy](https://ja.wikipedia.org/wiki/LiFE_and_DEATH "wikilink")                                                  | [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")                               |
-| 6月  | [円盤飛来](https://ja.wikipedia.org/wiki/円盤飛来 "wikilink")                                                           | [Hello Sleepwalkers](https://ja.wikipedia.org/wiki/Hello_Sleepwalkers "wikilink") |
-| 7月  | [第三惑星交響曲](https://ja.wikipedia.org/wiki/第三惑星交響曲 "wikilink")                                                     | [石崎ひゅーい](https://ja.wikipedia.org/wiki/石崎ひゅーい "wikilink")                         |
-| 8月  | [集合体](https://ja.wikipedia.org/wiki/セカイの皆さんへ/集合体 "wikilink")                                                    | [おおたえみり](https://ja.wikipedia.org/wiki/おおたえみり "wikilink")                         |
-| 9月  | [渚にて幻](https://ja.wikipedia.org/wiki/渚にて_\(indigo_la_Endのアルバム\) "wikilink")                                     | [indigo la End](https://ja.wikipedia.org/wiki/indigo_la_End "wikilink")           |
-| 10月 | [透明感(album version)](https://ja.wikipedia.org/wiki/はじめにアイがあった "wikilink")                                       | [禁断の多数決](https://ja.wikipedia.org/wiki/禁断の多数決 "wikilink")                         |
-| 11月 | [ダーリン](https://ja.wikipedia.org/wiki/花はここに咲いています "wikilink")                                                    | [渋沢葉](https://ja.wikipedia.org/wiki/渋沢葉 "wikilink")                               |
-| 12月 | [おもてなし](https://ja.wikipedia.org/wiki/バキューンEP "wikilink")                                                       | [tricot](https://ja.wikipedia.org/wiki/tricot "wikilink")                         |
-|     |                                                                                                                 |                                                                                   |
+| 月   | 曲名                                                                                        | アーティスト名                                                                           |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1月  | [バイマイサイド](https://ja.wikipedia.org/wiki/バイマイサイド "wikilink")                               | [Hemenway](https://ja.wikipedia.org/wiki/Hemenway "wikilink")                     |
+| 2月  | [サブリナ](https://ja.wikipedia.org/wiki/サブリナ_\(曲\) "wikilink")                               | [家入レオ](https://ja.wikipedia.org/wiki/家入レオ "wikilink")                             |
+| 3月  | [The Girl On A Board feat.H.TEFRON](https://ja.wikipedia.org/wiki/In_My_Shoes "wikilink") | [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink")                             |
+| 4月  | [オレンジ](https://ja.wikipedia.org/wiki/死ぬまで一生愛されてると思ってたよ "wikilink")                        | [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")                       |
+| 5月  | [Amy](https://ja.wikipedia.org/wiki/LiFE_and_DEATH "wikilink")                            | [SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")                               |
+| 6月  | [円盤飛来](https://ja.wikipedia.org/wiki/円盤飛来 "wikilink")                                     | [Hello Sleepwalkers](https://ja.wikipedia.org/wiki/Hello_Sleepwalkers "wikilink") |
+| 7月  | [第三惑星交響曲](https://ja.wikipedia.org/wiki/第三惑星交響曲 "wikilink")                               | [石崎ひゅーい](https://ja.wikipedia.org/wiki/石崎ひゅーい "wikilink")                         |
+| 8月  | [集合体](https://ja.wikipedia.org/wiki/セカイの皆さんへ/集合体 "wikilink")                              | [おおたえみり](https://ja.wikipedia.org/wiki/おおたえみり "wikilink")                         |
+| 9月  | [渚にて幻](https://ja.wikipedia.org/wiki/渚にて_\(indigo_la_Endのアルバム\) "wikilink")               | [indigo la End](https://ja.wikipedia.org/wiki/indigo_la_End "wikilink")           |
+| 10月 | [透明感(album version)](https://ja.wikipedia.org/wiki/はじめにアイがあった "wikilink")                 | [禁断の多数決](https://ja.wikipedia.org/wiki/禁断の多数決 "wikilink")                         |
+| 11月 | [ダーリン](https://ja.wikipedia.org/wiki/花はここに咲いています "wikilink")                              | [渋沢葉](https://ja.wikipedia.org/wiki/渋沢葉 "wikilink")                               |
+| 12月 | [おもてなし](https://ja.wikipedia.org/wiki/バキューンEP "wikilink")                                 | [tricot](https://ja.wikipedia.org/wiki/tricot "wikilink")                         |
+|     |                                                                                           |                                                                                   |
 
 ### 2013年
 
-| 月   | 曲名                                                                                                                            | アーティスト名                                                                           |
-| --- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1月  | [masquerade](https://ja.wikipedia.org/wiki/masquerade_\(HaKUの曲\) "wikilink")                                                  | [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink")                             |
-| 2月  | [モンスターのかくれんぼ](https://ja.wikipedia.org/wiki/モンスターのかくれんぼ "wikilink")                                                           | [Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")                           |
-| 3月  | [ドライアイス](https://ja.wikipedia.org/wiki/真夜中の言葉は青い毒になり、鈍る世界にヒヤリと刺さる。 "wikilink")                                                | [ハルカトミユキ](https://ja.wikipedia.org/wiki/ハルカトミユキ "wikilink")                       |
-| 4月  | [The Revelation](https://ja.wikipedia.org/wiki/The_Revelation "wikilink")                                                     | [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")                     |
-| 5月  | [未来へのスパイラル](https://ja.wikipedia.org/wiki/未来へのスパイラル "wikilink")                                                               | [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")             |
-| 6月  | [S.S](https://ja.wikipedia.org/wiki/演出家出演 "wikilink")                                                                         | [パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink")                     |
-| 7月  | [今更](https://ja.wikipedia.org/wiki/今更/交信/さよならは言わない "wikilink")                                                                | [赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")                             |
-| 8月  | [夏の夜](https://ja.wikipedia.org/wiki/夏の夜_\(片平里菜の曲\) "wikilink")                                                                | [片平里菜](https://ja.wikipedia.org/wiki/片平里菜 "wikilink")                             |
-| 9月  | [盛者必衰の理、お断り](https://ja.wikipedia.org/wiki/盛者必衰の理、お断り "wikilink")                                                             | [KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")                   |
-| 10月 | [ネバーランド](https://ja.wikipedia.org/wiki/NEVERLAND_\(Czecho_No_Republicのアルバム\) "wikilink")                                      | [Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink") |
-| 11月 | [Don't Stop The Music](https://ja.wikipedia.org/wiki/Don't_Stop_The_Music "wikilink") feat.[森高千里](../Page/森高千里.md "wikilink") | [tofubeats](https://ja.wikipedia.org/wiki/tofubeats "wikilink")                   |
-| 12月 | [キラーボール](https://ja.wikipedia.org/wiki/踊れないなら、ゲスになってしまえよ "wikilink")                                                          | [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")                     |
-|     |                                                                                                                               |                                                                                   |
+| 月   | 曲名                                                                                                 | アーティスト名                                                                           |
+| --- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1月  | [masquerade](https://ja.wikipedia.org/wiki/masquerade_\(HaKUの曲\) "wikilink")                       | [HaKU](https://ja.wikipedia.org/wiki/HaKU "wikilink")                             |
+| 2月  | [モンスターのかくれんぼ](https://ja.wikipedia.org/wiki/モンスターのかくれんぼ/GOOD_LOVE_with_Michelle_Brunch "wikilink") | [Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")                           |
+| 3月  | [ドライアイス](https://ja.wikipedia.org/wiki/真夜中の言葉は青い毒になり、鈍る世界にヒヤリと刺さる。 "wikilink")                     | [ハルカトミユキ](https://ja.wikipedia.org/wiki/ハルカトミユキ "wikilink")                       |
+| 4月  | [The Revelation](https://ja.wikipedia.org/wiki/The_Revelation "wikilink")                          | [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")                     |
+| 5月  | [未来へのスパイラル](https://ja.wikipedia.org/wiki/未来へのスパイラル "wikilink")                                    | [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink")             |
+| 6月  | [S.S](https://ja.wikipedia.org/wiki/演出家出演 "wikilink")                                              | [パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink")                     |
+| 7月  | [今更](https://ja.wikipedia.org/wiki/今更/交信/さよならは言わない "wikilink")                                     | [赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")                             |
+| 8月  | [夏の夜](https://ja.wikipedia.org/wiki/夏の夜_\(片平里菜の曲\) "wikilink")                                     | [片平里菜](https://ja.wikipedia.org/wiki/片平里菜 "wikilink")                             |
+| 9月  | [盛者必衰の理、お断り](https://ja.wikipedia.org/wiki/盛者必衰の理、お断り "wikilink")                                  | [KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")                   |
+| 10月 | [ネバーランド](https://ja.wikipedia.org/wiki/NEVERLAND_\(Czecho_No_Republicのアルバム\) "wikilink")           | [Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink") |
+| 11月 | Don't Stop The Music|Don't Stop The Music feat.[森高千里](../Page/森高千里.md "wikilink")                  | [tofubeats](https://ja.wikipedia.org/wiki/tofubeats "wikilink")                   |
+| 12月 | [キラーボール](https://ja.wikipedia.org/wiki/踊れないなら、ゲスになってしまえよ "wikilink")                               | [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")                     |
+|     |                                                                                                    |                                                                                   |
 
 ### 2014年
 
@@ -356,34 +356,34 @@
 | 1月  | [Everything is Alone](https://ja.wikipedia.org/wiki/NEWTOWN "wikilink")               | [FOLKS](https://ja.wikipedia.org/wiki/FOLKS "wikilink")                             |
 | 2月  | [TOWER](https://ja.wikipedia.org/wiki/INSUROCK "wikilink")                            | [SAKANAMON](https://ja.wikipedia.org/wiki/SAKANAMON "wikilink")                     |
 | 3月  | [パラレル](https://ja.wikipedia.org/wiki/パラレル_\(KEYTALKの曲\) "wikilink")                   | [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")                         |
-| 4月  | [アイネクライネ](https://ja.wikipedia.org/wiki/アイネクライネ_\(米津玄師の曲\) "wikilink")                | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                               |
+| 4月  | [アイネクライネ](https://ja.wikipedia.org/wiki/YANKEE "wikilink")                            | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                               |
 | 5月  | [君が誰かの彼女になりくさっても](https://ja.wikipedia.org/wiki/アインとシュタイン "wikilink")                 | [天才バンド](https://ja.wikipedia.org/wiki/天才バンド "wikilink")                             |
 | 6月  | [ビビった](https://ja.wikipedia.org/wiki/チェンジ_ザ_ワールド "wikilink")                          | [キュウソネコカミ](https://ja.wikipedia.org/wiki/キュウソネコカミ "wikilink")                       |
 | 7月  | [起死回生STORY](https://ja.wikipedia.org/wiki/起死回生STORY "wikilink")                       | [THE ORAL CIGARETTES](https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES "wikilink") |
 | 8月  | [Magic](https://ja.wikipedia.org/wiki/HELLO_\(HAPPYのアルバム\) "wikilink")                | [HAPPY](https://ja.wikipedia.org/wiki/HAPPY_\(バンド\) "wikilink")                     |
 | 9月  | [オドループ](https://ja.wikipedia.org/wiki/oddloop "wikilink")                             | [フレデリック](https://ja.wikipedia.org/wiki/フレデリック_\(バンド\) "wikilink")                   |
-| 10月 | [21g](https://ja.wikipedia.org/wiki/21g "wikilink")                                   | [古川本舗](https://ja.wikipedia.org/wiki/古川本舗 "wikilink")                               |
+| 10月 | [21g](https://ja.wikipedia.org/wiki/Hail_against_the_barn_door "wikilink")            | [古川本舗](https://ja.wikipedia.org/wiki/古川本舗 "wikilink")                               |
 | 11月 | [マジック](https://ja.wikipedia.org/wiki/Magic_Number_\(go!go!vanillasのアルバム\) "wikilink") | [go\!go\!vanillas](https://ja.wikipedia.org/wiki/go!go!vanillas "wikilink")         |
 | 12月 | [緑閃光](https://ja.wikipedia.org/wiki/silver_lining "wikilink")                         | [LAMP IN TERREN](https://ja.wikipedia.org/wiki/LAMP_IN_TERREN "wikilink")           |
 |     |                                                                                       |                                                                                     |
 
 ### 2015年
 
-| 月   | 曲名                                                                                  | アーティスト名                                                                           |
-| --- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 1月  | [もっと光を](https://ja.wikipedia.org/wiki/もっと光を "wikilink")                             | [BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")             |
-| 2月  | [褒めろよ](https://ja.wikipedia.org/wiki/褒めろよ "wikilink")                               | [GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")               |
-| 3月  | [さよならの季節](https://ja.wikipedia.org/wiki/SHISHAMO_2 "wikilink")                      | [SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")                     |
-| 4月  | [Terminal](https://ja.wikipedia.org/wiki/CAVU "wikilink")                           | [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") |
-| 5月  | [心理の森](https://ja.wikipedia.org/wiki/心理の森 "wikilink")                               | [シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink")                           |
-| 6月  | [Summer Soul](../Page/Obscure_Ride.md "wikilink")                                   | [cero](https://ja.wikipedia.org/wiki/cero_\(バンド\) "wikilink")                     |
-| 7月  | [StaRt](../Page/Variety_\(Mrs._GREEN_APPLEのアルバム\).md "wikilink")                    | [Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")     |
-| 8月  | [TRACE](https://ja.wikipedia.org/wiki/Think_That... "wikilink")                     | [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")                         |
-| 9月  | [アウトサイダー](https://ja.wikipedia.org/wiki/アウトサイダー_\(Awesome_City_Clubの曲\) "wikilink") | [Awesome City Club](https://ja.wikipedia.org/wiki/Awesome_City_Club "wikilink")   |
-| 10月 | [ShibuyaK](https://ja.wikipedia.org/wiki/ShibuyaK "wikilink")                       | [DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")                           |
-| 11月 | [ラー](https://ja.wikipedia.org/wiki/ジパング_\(水曜日のカンパネラのアルバム\) "wikilink")              | [水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")                   |
-| 12月 | [sub/objective](https://ja.wikipedia.org/wiki/hollow_world "wikilink")              | [ぼくのりりっくのぼうよみ](https://ja.wikipedia.org/wiki/ぼくのりりっくのぼうよみ "wikilink")             |
-|     |                                                                                     |                                                                                   |
+| 月   | 曲名                                                                        | アーティスト名                                                                           |
+| --- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1月  | [もっと光を](https://ja.wikipedia.org/wiki/もっと光を "wikilink")                   | [BLUE ENCOUNT](https://ja.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")             |
+| 2月  | [褒めろよ](https://ja.wikipedia.org/wiki/褒めろよ "wikilink")                     | [GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")               |
+| 3月  | [さよならの季節](https://ja.wikipedia.org/wiki/SHISHAMO_2 "wikilink")            | [SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")                     |
+| 4月  | [Terminal](https://ja.wikipedia.org/wiki/CAVU "wikilink")                 | [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") |
+| 5月  | [心理の森](https://ja.wikipedia.org/wiki/NEW_RYTHM "wikilink")                | [シンリズム](https://ja.wikipedia.org/wiki/シンリズム "wikilink")                           |
+| 6月  | [Summer Soul](../Page/Obscure_Ride.md "wikilink")                         | [cero](https://ja.wikipedia.org/wiki/cero_\(バンド\) "wikilink")                     |
+| 7月  | [StaRt](../Page/Variety_\(Mrs._GREEN_APPLEのアルバム\).md "wikilink")          | [Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")     |
+| 8月  | [TRACE](https://ja.wikipedia.org/wiki/Think_That... "wikilink")           | [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")                         |
+| 9月  | [アウトサイダー](https://ja.wikipedia.org/wiki/Awesome_City_Tracks_2 "wikilink") | [Awesome City Club](https://ja.wikipedia.org/wiki/Awesome_City_Club "wikilink")   |
+| 10月 | [ShibuyaK](https://ja.wikipedia.org/wiki/ShibuyaK "wikilink")             | [DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")                           |
+| 11月 | [ラー](https://ja.wikipedia.org/wiki/ジパング_\(水曜日のカンパネラのアルバム\) "wikilink")    | [水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")                   |
+| 12月 | [sub/objective](https://ja.wikipedia.org/wiki/hollow_world "wikilink")    | [ぼくのりりっくのぼうよみ](https://ja.wikipedia.org/wiki/ぼくのりりっくのぼうよみ "wikilink")             |
+|     |                                                                           |                                                                                   |
 
 ### 2016年
 
@@ -400,7 +400,7 @@
 | 9月  | [COCOA](https://ja.wikipedia.org/wiki/ORB_\(Reiのアルバム\) "wikilink")                 | [Rei](https://ja.wikipedia.org/wiki/Rei_\(シンガーソングライター\) "wikilink")             |
 | 10月 | [A Short Film](https://ja.wikipedia.org/wiki/a.k.a_\(LILI_LIMITのアルバム\) "wikilink") | [LILI LIMIT](https://ja.wikipedia.org/wiki/LILI_LIMIT "wikilink")               |
 | 11月 | [あつまれ\!パーティーピーポー](https://ja.wikipedia.org/wiki/We_love_Tank-top "wikilink")       | [ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")               |
-| 12月 | [フラレガイガール](https://ja.wikipedia.org/wiki/フラレガイガール "wikilink")                      | [さユり](https://ja.wikipedia.org/wiki/さユり "wikilink")                             |
+| 12月 | [フラレガイガール](https://ja.wikipedia.org/wiki/フラレガイガール/酸欠少女 "wikilink")                 | [さユり](https://ja.wikipedia.org/wiki/さユり "wikilink")                             |
 |     |                                                                                    |                                                                                 |
 
 ### 2017年
@@ -408,7 +408,7 @@
 | 月   | 曲名                                                                            | アーティスト名                                                                                   |
 | --- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 1月  | [Freedom](https://ja.wikipedia.org/wiki/プルーストと花束 "wikilink")                  | [SHE'S](https://ja.wikipedia.org/wiki/SHE'S "wikilink")                                   |
-| 2月  | [Salve feat. JJJ](https://ja.wikipedia.org/wiki/Salve_feat._JJJ "wikilink")   | [KID FRESINO](https://ja.wikipedia.org/wiki/KID_FRESINO "wikilink")                       |
+| 2月  | [Salve feat. JJJ](https://ja.wikipedia.org/wiki/Salve "wikilink")             | [KID FRESINO](https://ja.wikipedia.org/wiki/KID_FRESINO "wikilink")                       |
 | 3月  | [Dear Fate,](https://ja.wikipedia.org/wiki/継ぐ "wikilink")                     | [Ivy to Fraudulent Game](https://ja.wikipedia.org/wiki/Ivy_to_Fraudulent_Game "wikilink") |
 | 4月  | [さよならプリズナー](https://ja.wikipedia.org/wiki/Neyagawa_City_Pop "wikilink")       | [yonige](https://ja.wikipedia.org/wiki/yonige "wikilink")                                 |
 | 5月  | [World is Mine](https://ja.wikipedia.org/wiki/WAVES "wikilink")               | [Yogee New Waves](https://ja.wikipedia.org/wiki/Yogee_New_Waves "wikilink")               |
@@ -427,8 +427,8 @@
 | --- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | 1月  | [フカンショウ](https://ja.wikipedia.org/wiki/PANORAMADDICTION "wikilink")                  | [パノラマパナマタウン](https://ja.wikipedia.org/wiki/パノラマパナマタウン "wikilink")       |
 | 2月  | [That's My Baby](https://ja.wikipedia.org/wiki/RIRI_\(RIRIのアルバム\) "wikilink")        | [RIRI](https://ja.wikipedia.org/wiki/RIRI_\(日本の歌手\) "wikilink")         |
-| 3月  | Echo                                                                                 | [PAELLAS](https://ja.wikipedia.org/wiki/PAELLAS "wikilink")             |
-| 4月  | [Selfish](https://ja.wikipedia.org/wiki/Selfish_\(小袋成彬の曲\) "wikilink")               | [小袋成彬](https://ja.wikipedia.org/wiki/小袋成彬 "wikilink")                   |
+| 3月  | [Echo](../Page/Yours.md "wikilink")                                                  | [PAELLAS](https://ja.wikipedia.org/wiki/PAELLAS "wikilink")             |
+| 4月  | [Selfish](https://ja.wikipedia.org/wiki/分離派の夏 "wikilink")                            | [小袋成彬](https://ja.wikipedia.org/wiki/小袋成彬 "wikilink")                   |
 | 5月  | [真昼の月](https://ja.wikipedia.org/wiki/サラダデイズ "wikilink")                              | [Saucy Dog](https://ja.wikipedia.org/wiki/Saucy_Dog "wikilink")         |
 | 6月  | [Memory](https://ja.wikipedia.org/wiki/Digital_Analog_Translation_System "wikilink") | [DATS](https://ja.wikipedia.org/wiki/DATS "wikilink")                   |
 | 7月  | \[\[Sympa_(King_Gnuのアルバム)|Flash                                                    | \!\]\]                                                                  |
@@ -441,21 +441,21 @@
 
 ### 2019年
 
-| 月   | 曲名                                                            | アーティスト名                                                           |
-| --- | ------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1月  | パレイドリア                                                        | [須田景凪](https://ja.wikipedia.org/wiki/須田景凪 "wikilink")             |
-| 2月  | [僕らまだアンダーグラウンド](https://ja.wikipedia.org/wiki/おとぎ "wikilink") | [Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")        |
-| 3月  | Feel the Moon                                                 | [Kvi Baba](https://ja.wikipedia.org/wiki/Kvi_Baba "wikilink")     |
-| 4月  | ノーベル                                                          | [mol-74](https://ja.wikipedia.org/wiki/mol-74 "wikilink")         |
-| 5月  | Pool                                                          | [SIRUP](https://ja.wikipedia.org/wiki/SIRUP "wikilink")           |
-| 6月  | のめりこめ、震えろ。                                                    | [Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")     |
-| 7月  | イエス                                                           | [ズーカラデル](https://ja.wikipedia.org/wiki/ズーカラデル "wikilink")         |
-| 8月  | Balloon                                                       | [chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")     |
-| 9月  | ヤングアダルト                                                       | [マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")     |
-| 10月 | VARIETY                                                       | [TENDRE](https://ja.wikipedia.org/wiki/TENDRE "wikilink")         |
-| 11月 | SPOTLIGHT                                                     | [eill](https://ja.wikipedia.org/wiki/eill "wikilink")             |
-| 12月 | ナイトタイマー                                                       | [SIX LOUNGE](https://ja.wikipedia.org/wiki/SIX_LOUNGE "wikilink") |
-|     |                                                               |                                                                   |
+| 月   | 曲名                                                                          | アーティスト名                                                           |
+| --- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1月  | [パレイドリア](https://ja.wikipedia.org/wiki/teeter "wikilink")                   | [須田景凪](https://ja.wikipedia.org/wiki/須田景凪 "wikilink")             |
+| 2月  | [僕らまだアンダーグラウンド](https://ja.wikipedia.org/wiki/おとぎ "wikilink")               | [Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")        |
+| 3月  | [Feel the Moon](https://ja.wikipedia.org/wiki/Natural_Born_Pain "wikilink") | [Kvi Baba](https://ja.wikipedia.org/wiki/Kvi_Baba "wikilink")     |
+| 4月  | [ノーベル](https://ja.wikipedia.org/wiki/mol-74（アルバム） "wikilink")               | [mol-74](https://ja.wikipedia.org/wiki/mol-74 "wikilink")         |
+| 5月  | [Pool](https://ja.wikipedia.org/wiki/FEEL_GOOD "wikilink")                  | [SIRUP](https://ja.wikipedia.org/wiki/SIRUP "wikilink")           |
+| 6月  | [のめりこめ、震えろ。](https://ja.wikipedia.org/wiki/21世紀より愛をこめて "wikilink")          | [Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")     |
+| 7月  | [イエス](https://ja.wikipedia.org/wiki/ズーカラデル（アルバム） "wikilink")                | [ズーカラデル](https://ja.wikipedia.org/wiki/ズーカラデル "wikilink")         |
+| 8月  | [Balloon](https://ja.wikipedia.org/wiki/Fishing "wikilink")                 | [chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")     |
+| 9月  | [ヤングアダルト](https://ja.wikipedia.org/wiki/season（マカロニえんぴつのアルバム） "wikilink")   | [マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")     |
+| 10月 | [VARIETY](https://ja.wikipedia.org/wiki/IN_SIGHT "wikilink")                | [TENDRE](https://ja.wikipedia.org/wiki/TENDRE "wikilink")         |
+| 11月 | [SPOTLIGHT](https://ja.wikipedia.org/wiki/SPOTLIGHT "wikilink")             | [eill](https://ja.wikipedia.org/wiki/eill "wikilink")             |
+| 12月 | [ナイトタイマー](https://ja.wikipedia.org/wiki/THE_BULB "wikilink")                | [SIX LOUNGE](https://ja.wikipedia.org/wiki/SIX_LOUNGE "wikilink") |
+|     |                                                                             |                                                                   |
 
 ### 2020年
 
@@ -571,20 +571,20 @@
 
 ### 2008年
 
-| 月   | 曲名                                                                                     | アーティスト名                                                                                             |
-| --- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 1月  | What You Heard                                                                         | [The Checks](https://ja.wikipedia.org/wiki/:en:The_Checks "wikilink")                               |
-| 2月  | Chasing Pavements                                                                      | [ADELE](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")                                        |
-| 3月  | We Are Rock Stars                                                                      | [Does It Offend You, Yeah?](https://ja.wikipedia.org/wiki/:en:Does_It_Offend_You,_Yeah? "wikilink") |
-| 4月  | Bleeding Love(U.S version)                                                             | [LEONA LEWIS](https://ja.wikipedia.org/wiki/レオナ・ルイス "wikilink")                                     |
-| 5月  | Just A Song About Ping Pong                                                            | [Operator Please](https://ja.wikipedia.org/wiki/:en:Operator_Please "wikilink")                     |
-| 6月  | American Boy featuring [Kanye West](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink") | [ESTELLE](https://ja.wikipedia.org/wiki/エステル_\(ミュージシャン\) "wikilink")                                |
-| 7月  | MASHitUP                                                                               | [The Young Punx\!](https://ja.wikipedia.org/wiki/:en:The_Young_Punx "wikilink")                     |
-| 8月  | Last Of The Lookers                                                                    | [THE METROS](https://ja.wikipedia.org/wiki/ザ・メトロス "wikilink")                                       |
-| 9月  | MERCY                                                                                  | [DUFFY](../Page/ダフィー_\(歌手\).md "wikilink")                                                          |
-| 10月 | The Man Who Can’t Be Moved                                                             | [The Script](https://ja.wikipedia.org/wiki/ザ・スクリプト "wikilink")                                      |
-| 11月 | Can't Stop Moving                                                                      | [Sonny J](https://ja.wikipedia.org/wiki/:en:Sonny_J "wikilink")                                     |
-| 12月 | Cold Town                                                                              | [Natty](https://ja.wikipedia.org/wiki/:en:Natty_\(artist\) "wikilink")                              |
+| 月   | 曲名                                                                  | アーティスト名                                                                                             |
+| --- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 1月  | What You Heard                                                      | [The Checks](https://ja.wikipedia.org/wiki/:en:The_Checks "wikilink")                               |
+| 2月  | Chasing Pavements                                                   | [ADELE](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")                                        |
+| 3月  | We Are Rock Stars                                                   | [Does It Offend You, Yeah?](https://ja.wikipedia.org/wiki/:en:Does_It_Offend_You,_Yeah? "wikilink") |
+| 4月  | Bleeding Love(U.S version)                                          | [LEONA LEWIS](https://ja.wikipedia.org/wiki/レオナ・ルイス "wikilink")                                     |
+| 5月  | Just A Song About Ping Pong                                         | [Operator Please](https://ja.wikipedia.org/wiki/:en:Operator_Please "wikilink")                     |
+| 6月  | American Boy featuring [Kanye West](../Page/カニエ・ウェスト.md "wikilink") | [ESTELLE](https://ja.wikipedia.org/wiki/エステル_\(ミュージシャン\) "wikilink")                                |
+| 7月  | MASHitUP                                                            | [The Young Punx\!](https://ja.wikipedia.org/wiki/:en:The_Young_Punx "wikilink")                     |
+| 8月  | Last Of The Lookers                                                 | [THE METROS](https://ja.wikipedia.org/wiki/ザ・メトロス "wikilink")                                       |
+| 9月  | MERCY                                                               | [DUFFY](../Page/ダフィー_\(歌手\).md "wikilink")                                                          |
+| 10月 | The Man Who Can’t Be Moved                                          | [The Script](https://ja.wikipedia.org/wiki/ザ・スクリプト "wikilink")                                      |
+| 11月 | Can't Stop Moving                                                   | [Sonny J](https://ja.wikipedia.org/wiki/:en:Sonny_J "wikilink")                                     |
+| 12月 | Cold Town                                                           | [Natty](https://ja.wikipedia.org/wiki/:en:Natty_\(artist\) "wikilink")                              |
 
 ### 2009年
 
@@ -789,7 +789,7 @@
 | 1月 | OWN IT feat.ED SHEERAN & BURNA BOY | [STORMZY](https://ja.wikipedia.org/wiki/STORMZY "wikilink")                 |
 | 2月 | DANCE MONKEY                       | [TONES AND I](https://ja.wikipedia.org/wiki/TONES_AND_I "wikilink")         |
 | 3月 | CELESTE                            | [Stop This Flame](https://ja.wikipedia.org/wiki/Stop_This_Flame "wikilink") |
-| 4月 | WISH YOU WERE SOBE                 | [CONAN GRAY](https://ja.wikipedia.org/wiki/CONAN_GRAY "wikilink")           |
+| 4月 | WISH YOU WERE SOBER                | [CONAN GRAY](https://ja.wikipedia.org/wiki/CONAN_GRAY "wikilink")           |
 | 5月 |                                    |                                                                             |
 |    |                                    |                                                                             |
 

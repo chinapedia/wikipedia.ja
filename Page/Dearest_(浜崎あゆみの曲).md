@@ -1,7 +1,7 @@
 > この記事は[Dearest \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Dearest_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Dearest**」（ディアレスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の24th[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**Dearest**」（ディアレスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の24th[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
@@ -21,7 +21,7 @@
 
 1.  **Dearest "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Naoto Suzuki](https://ja.wikipedia.org/wiki/鈴木直人_\(音楽プロデューサー\) "wikilink")
         [よみうりテレビ・日本テレビアニメ](../Page/讀賣テレビ放送.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』エンディングテーマ（第42話〜第60話）
         [ツーカー](../Page/ツーカー.md "wikilink")2001年[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")
 2.  **Dearest "Depth Nostalgic windmix"**

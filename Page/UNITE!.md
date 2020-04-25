@@ -1,7 +1,7 @@
 > この記事は[UNITE!](https://ja.wikipedia.org/wiki/UNITE!)から翻訳されています。
 
 
-「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の23rd[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売（[UNITE\! (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#UNITE!_\(Ayuの曲\) "wikilink")）。
+「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の23rd[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2005年](../Page/2005年.md "wikilink")に**Ayu**名義で発売（[UNITE\! (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#UNITE!_\(Ayuの曲\) "wikilink")）。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 1.  **UNITE\! "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
         [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **UNITE\! "Huge UR-Chin mix"**
 3.  **UNITE\! "hecco's club vocal mix"**
@@ -37,7 +37,7 @@
 
 ## UNITE\! (Ayuの曲)
 
-「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")6th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売\[1\]。
+「**UNITE\!**」（ユナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")6th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売\[1\]。
 
 ### 解説
 

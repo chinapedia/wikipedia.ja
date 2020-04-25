@@ -48,4 +48,4 @@
       - [たいせー](https://ja.wikipedia.org/wiki/たいせー "wikilink")
       - [しゅう](../Page/しゅう.md "wikilink")
 
-[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:シャ乱Qの楽曲](https://ja.wikipedia.org/wiki/Category:シャ乱Qの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:シャ乱Qの楽曲](https://ja.wikipedia.org/wiki/Category:シャ乱Qの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")

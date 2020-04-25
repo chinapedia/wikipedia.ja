@@ -1,17 +1,17 @@
 > この記事は[Kanariya](https://ja.wikipedia.org/wiki/Kanariya)から翻訳されています。
 
 
-「**kanariya**」（カナリヤ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**kanariya**」（カナリヤ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の12th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-2枚目のアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。黒の半透明のケースに収められている。
+2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。黒の半透明のケースに収められている。
 
 トラック最後の「kanariya "Vocal Track"」は、一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 
 本作のリード曲は原曲（Original Mix）ではなく、[ジョナサン・ピータース](https://ja.wikipedia.org/wiki/ジョナサン・ピータース "wikilink")のリミックスバージョンである。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")にも同リミックスのエディットバージョン（CD未収録）が用いられている。
 
-[2011年](../Page/2011年.md "wikilink")発売のDVD『[A 50 SINGLES 〜LIVE SELECTION〜](https://ja.wikipedia.org/wiki/A_50_SINGLES_〜LIVE_SELECTION〜 "wikilink")』（全シングル曲のライブ総集編）においては、一度も披露されたことがなく、ライブ映像が存在しないためミュージック・ビデオが収録された。後に[2016年](../Page/2016年.md "wikilink")から[2017年](../Page/2017年.md "wikilink")に開催されたカウントダウン・ライブ『ayumi hamasaki COUNTDOWN LIVE 2016-2017「Just the beginning -20-」』において初披露された\[1\]。
+[2011年](../Page/2011年.md "wikilink")発売の映像作品『[A 50 SINGLES 〜LIVE SELECTION〜](https://ja.wikipedia.org/wiki/A_50_SINGLES_〜LIVE_SELECTION〜 "wikilink")』（全シングル曲のライブ総集編）においては、一度も披露されたことがなく、ライブ映像が存在しないためミュージック・ビデオが収録された。後に[2016年](../Page/2016年.md "wikilink")から[2017年](../Page/2017年.md "wikilink")に開催されたカウントダウン・ライブ『ayumi hamasaki COUNTDOWN LIVE 2016-2017「Just the beginning -20-」』において初披露された\[1\]。
 
 [アメリカのavex](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") usaから発売された[アナログ盤では](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")、タイトル表記が「Kanariya (Canary)」となっている\[2\]。
 

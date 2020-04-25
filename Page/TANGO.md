@@ -36,4 +36,4 @@
 
   - [TANGO スペシャルページ](http://www.aiko-k.net/tango/tango.html)
 
-[Category:北原愛子の楽曲](https://ja.wikipedia.org/wiki/Category:北原愛子の楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:格闘美神_武龍](https://ja.wikipedia.org/wiki/Category:格闘美神_武龍 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:北原愛子の楽曲](https://ja.wikipedia.org/wiki/Category:北原愛子の楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:格闘美神_武龍](https://ja.wikipedia.org/wiki/Category:格闘美神_武龍 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

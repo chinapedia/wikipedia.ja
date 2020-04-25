@@ -34,7 +34,7 @@
 
 ## 外部リンク
 
-  - [YUUKI栽培](http://ameblo.jp/yuuki-saibai/)
+  - [YUUKI栽培](https://ameblo.jp/yuuki-saibai/)
 
 
 

@@ -1,7 +1,7 @@
 > この記事は[Far away \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Far away**」（ファラウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**Far away**」（ファラウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の15th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 

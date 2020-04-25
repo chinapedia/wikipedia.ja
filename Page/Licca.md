@@ -1,76 +1,104 @@
 > この記事は[Licca](https://ja.wikipedia.org/wiki/Licca)から翻訳されています。
 
 
-**Licca**（リッカ）は、日本の[女性アイドルユニット](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。
+**Licca**（リッカ）は、日本の[女性アイドルユニット](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[2002年](../Page/2002年.md "wikilink")、[リカちゃん](../Page/リカちゃん.md "wikilink")生誕35周年を記念して、[ホリプロ](../Page/ホリプロ.md "wikilink")所属の[酒井彩名](../Page/酒井彩名.md "wikilink")、[あびる優](../Page/あびる優.md "wikilink")、[木南晴夏](https://ja.wikipedia.org/wiki/木南晴夏 "wikilink")の3人で結成された\[1\]\[2\]、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）公認・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")プロデュースによる期間限定ユニットである。
 
-## 概要
+タカラ側としては[男性](../Page/男性.md "wikilink")層に対してリカちゃんの認知度を高める、ホリプロ側としては女性歌手グループを補強する狙いで結成された\[3\]。
 
-[2002年](../Page/2002年.md "wikilink")、[リカちゃん](../Page/リカちゃん.md "wikilink")生誕35周年を記念して、[ホリプロ](../Page/ホリプロ.md "wikilink")所属の[酒井彩名](../Page/酒井彩名.md "wikilink")、[あびる優](../Page/あびる優.md "wikilink")、[木南晴夏](https://ja.wikipedia.org/wiki/木南晴夏 "wikilink")の3人で結成された\[1\]、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）公認・[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")プロデュースの期間限定ユニットである。
+## メンバー
 
-タカラ側としては[男性](../Page/男性.md "wikilink")層に対してリカちゃんの認知度を高める、ホリプロ側としては女性歌手グループを補強する狙いで結成された\[2\]。
+詳細は各項目を参照。
 
-## リリースCD
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>愛称</p></th>
+<th><p>プロフィール</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/酒井彩名.md" title="wikilink">酒井 彩名</a></strong><br />
+（さかい あやな）</p></td>
+<td><p>AYANA[4]</p></td>
+<td><ul>
+<li>生年月日:</li>
+<li><a href="../Page/千葉県.md" title="wikilink">千葉県</a><a href="https://ja.wikipedia.org/wiki/茂原市" title="wikilink">茂原市</a>出身。</li>
+<li>血液型:AB型</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/あびる優.md" title="wikilink">あびる 優</a></strong><br />
+（あびる ゆう）</p></td>
+<td><p>YU[5]</p></td>
+<td><ul>
+<li>生年月日:</li>
+<li><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="../Page/大牟田市.md" title="wikilink">大牟田市</a>出身。</li>
+<li>血液型:A型</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/木南晴夏" title="wikilink">木南 晴夏</a></strong><br />
+（きなみ はるか）</p></td>
+<td><p>HARUKA[6]</p></td>
+<td><ul>
+<li>生年月日:</li>
+<li><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="https://ja.wikipedia.org/wiki/豊中市" title="wikilink">豊中市</a>出身。</li>
+<li>血液型:A型</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## ディスコグラフィ
 
 ### シングル
 
-1.  get back（2002年[3月27日](../Page/3月27日.md "wikilink")）\[通常盤+3万セット限定生産盤\]オリコン69位。発売後2週間で1万枚を突破\[3\]。
-    1.  get back\[5:01\]
-          -
-            作詞：蛭間弘／作曲・編曲：[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
-        <!-- end list -->
-          - NTV系「ピンパパ」エンディングテーマ/CTV・NTV系「[ろみひー](../Page/ろみひー.md "wikilink")」エンディングテーマ
-    2.  get back ～ele-funk mix～\[4:20\]
-    3.  get back ～neut mix～\[4:27\]
-    4.  get back ～instrumental～\[4:59\]
-2.  GOOD LOVE（2002年[7月17日](../Page/7月17日.md "wikilink")）オリコン97位
-    1.  GOOD LOVE\[4:19\]
-          -
-            作詞：[川村真澄](../Page/川村真澄.md "wikilink")／作曲・編曲：[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")
-    2.  1・2 CHECK\!\[4:24\]
-          -
-            作詞：[斉藤哲也](https://ja.wikipedia.org/wiki/斉藤哲也 "wikilink")／作曲・編曲：[荒木真樹彦](../Page/荒木真樹彦.md "wikilink")
-    3.  GOOD LOVE (instrumental)\[4:16\]
-3.  夢みるシャンソン人形〜今度逢うときはもっと〜（[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）オリコン圏外
-    1.  [夢みるシャンソン人形](../Page/夢見るシャンソン人形.md "wikilink")〜今度逢うときはもっと〜\[3:07\]
-          -
-            作詞・作曲：[セルジュ・ゲンスブール](../Page/セルジュ・ゲンスブール.md "wikilink")／編曲：松浦晃久
-    2.  Always\[3:36\]
-          -
-            作詞：川村真澄／作曲：羽田一郎／編曲：松浦晃久
-    3.  夢みるシャンソン人形〜今度逢うときはもっと〜 (instrumental)\[3:04\]
+1\. **get back**（2002年[3月27日](../Page/3月27日.md "wikilink")）
+
+  - 通常盤（[品番](../Page/規格品番.md "wikilink") : UMCK-5056）と3万セット限定生産盤（品番 : UMDK-9020）の2形態でのリリースで、後者にはリカちゃん人形キーホルダー（Liccaバージョン）が付属。
+  - オリコン週間シングルランキングで69位を獲得。発売後2週間で1万枚を突破\[7\]。
+
+2\. **GOOD LOVE**（2002年[7月17日](../Page/7月17日.md "wikilink")）
+
+  - 品番はUMCK-5064。
+  - オリコン週間シングルランキングで97位を獲得。
+
+3\. **夢みるシャンソン人形〜今度逢うときはもっと〜**（[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）
+
+  - 品番はUMCK-5084。
+  - オリコン圏外
 
 ### アルバム
 
-1.  GRADUATION（2003年3月26日）\[CD+DVD\]オリコン圏外
-      - CD
-    <!-- end list -->
-    1.  GOOD LOVE\[4:18\]
-    2.  Always\[3:29\]
-    3.  深呼吸して I NEED YOU\! / Yu\[4:56\]
-    4.  神様にお願い / Haruka\[4:08\]
-    5.  1・2 CHECK\!\[4:21\]
-    6.  Pieces / Ayana\[5:26\]
-    7.  get back ～ele-funk mix～\[4:17\]
-    8.  get back\[4:59\]
-    <!-- end list -->
-      - DVD
-    <!-- end list -->
-    1.  get back
-    2.  get back : Making Scene
-    3.  GOOD LOVE
-    4.  GOOD LOVE : Making Scene
-    5.  メモリアルmovie
+1\. **GRADUATION**（2003年3月26日）
+
+  - \[CD+DVD\]の形態でのリリース。品番はUMCK-1158。
+  - シングル曲やメンバーのソロ曲（各1曲）を含む8曲を収録。
+  - オリコン圏外
 
 ### 参加作品
 
-1.  リカちゃん わたしたちのアイドル（2007年04月25日）
-      -
-        10.永遠の少女たちへ～Licca 25th Anniversary Song
+| 発売日         | タイトル                           | 収録曲                                       | 備考                                            |
+| ----------- | ------------------------------ | ----------------------------------------- | --------------------------------------------- |
+| 2007年04月25日 | **リカちゃん わたしたちのアイドル**           | 10\. 永遠の少女たちへ〜Licca 25th Anniversary Song | リカちゃん40周年を記念したコンピレーション・アルバム                   |
+| 2011年04月27日 | **moe・son〜やっぱ萌えるのはアイドルでしょ\!〜** | 9\. get back                              | 1990年代後半から2000年代前半までに活動していたアイドルユニットの楽曲を集めた作品。 |
+|             |                                |                                           |                                               |
 
 ## 脚注
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:リカちゃん](https://ja.wikipedia.org/wiki/Category:リカちゃん "wikilink")
+[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:リカちゃん](https://ja.wikipedia.org/wiki/Category:リカちゃん "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
 
 1.
-2.  「『リカちゃん』35歳 ブランド成熟 男性もねらえ 芸能界・遊園地とコラボ」『[日経流通新聞](https://ja.wikipedia.org/wiki/日経流通新聞 "wikilink")』2002年4月23日付、24頁。
-3.
+2.
+3.  「『リカちゃん』35歳 ブランド成熟 男性もねらえ 芸能界・遊園地とコラボ」『[日経流通新聞](https://ja.wikipedia.org/wiki/日経流通新聞 "wikilink")』2002年4月23日付、24頁。
+4.
+5.
+6.
+7.

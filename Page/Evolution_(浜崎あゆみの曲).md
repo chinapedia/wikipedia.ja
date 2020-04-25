@@ -1,7 +1,7 @@
 > この記事は[Evolution \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Evolution_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**evolution**」（エヴォリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**evolution**」（エヴォリューション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の20th[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
@@ -19,7 +19,7 @@
 
 1.  **evolution "Original Mix"**
       -
-        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
         [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」[CMソング](../Page/コマーシャルソング.md "wikilink")
         [アスミック・エース エンタテインメント配給映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』テーマソング
 2.  **evolution "Dub's Floor Remix Transport 004"**
@@ -48,7 +48,7 @@
 
 ## evolution (映像作品)
 
-『**evolution**』（エヴォリューション）は、[2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")がリリースした[DVDシングル](https://ja.wikipedia.org/wiki/DVDシングル "wikilink")及び[VHSシングル](https://ja.wikipedia.org/wiki/VHSシングル "wikilink")。
+『**evolution**』（エヴォリューション）は、[2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")がリリースした[DVDシングル](https://ja.wikipedia.org/wiki/DVDシングル "wikilink")及び[VHSシングル](https://ja.wikipedia.org/wiki/VHSシングル "wikilink")。
 
 ### 解説
 

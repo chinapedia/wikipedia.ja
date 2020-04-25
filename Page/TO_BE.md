@@ -1,7 +1,7 @@
 > この記事は[TO BE](https://ja.wikipedia.org/wiki/TO_BE)から翻訳されています。
 
 
-「**TO BE**」（トゥー・ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
+「**TO BE**」（トゥー・ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の8th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 「TO BE」というタイトルは[シェイクスピアの作品](../Page/ウィリアム・シェイクスピア.md "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』の有名な台詞、「[To be or not to be](https://ja.wikipedia.org/wiki/ハムレット#有名な台詞 "wikilink")」の「To be（生きるべき）」から付けられた\[1\]。
 
-2008年の44枚目のシングル「[GREEN/Days](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」には、10th Anniversary versionとして新録音されて収録された。
+2008年の44thシングル「[GREEN/Days](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」には、10th Anniversary versionとして新録音されて収録された。
 
 ## 収録曲
 

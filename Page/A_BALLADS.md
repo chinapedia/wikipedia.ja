@@ -1,7 +1,7 @@
 > この記事は[A BALLADS](https://ja.wikipedia.org/wiki/A_BALLADS)から翻訳されています。
 
 
-『**A BALLADS**』（エー・バラーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1作目の[バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（「**A** BALLADS」の「**A**」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")）。[2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**A BALLADS**』（エー・バラーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の1作目の[バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（「**A** BALLADS」の「**A**」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")）。[2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -19,7 +19,7 @@
 
 1.  **RAINBOW**
       -
-        [composition](../Page/作曲.md "wikilink"): [CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [arrangement](../Page/編曲.md "wikilink"): [CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        [composition](../Page/作曲.md "wikilink"): [CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [arrangement](../Page/編曲.md "wikilink"): [CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
         [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink")」 TV-CFソング
 2.  **[appears](https://ja.wikipedia.org/wiki/appears "wikilink") "[HΛL](../Page/HΛL.md "wikilink")'S Progress"**
       -

@@ -1,7 +1,7 @@
 > この記事は[Memorial address](https://ja.wikipedia.org/wiki/Memorial_address)から翻訳されています。
 
 
-『**Memorial address**』（メモリアル・アドレス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目の[ミニ・アルバム](../Page/コンパクト盤.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Memorial address**』（メモリアル・アドレス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の1枚目の[ミニ・アルバム](../Page/コンパクト盤.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -40,7 +40,7 @@
         [KOSE](../Page/コーセー.md "wikilink") MODE UP 'VISEE' TV-CFソング
 5.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink")**
       -
-        作曲：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        作曲：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
         29thシングル「&」収録曲
 6.  **[No way to say](../Page/No_way_to_say.md "wikilink")**
       -

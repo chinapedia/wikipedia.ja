@@ -29,4 +29,4 @@
 
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")
 
-[Category:シャ乱Qの楽曲](https://ja.wikipedia.org/wiki/Category:シャ乱Qの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:TBSのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビアニメ主題歌 "wikilink") [Category:魔術士オーフェン](https://ja.wikipedia.org/wiki/Category:魔術士オーフェン "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:シャ乱Qの楽曲](https://ja.wikipedia.org/wiki/Category:シャ乱Qの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:TBSのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビアニメ主題歌 "wikilink") [Category:魔術士オーフェン](https://ja.wikipedia.org/wiki/Category:魔術士オーフェン "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

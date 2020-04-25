@@ -1,7 +1,7 @@
 > この記事は[遠い海から来たCOO](https://ja.wikipedia.org/wiki/遠い海から来たCOO)から翻訳されています。
 
 
-『**遠い海から来たCOO**』（とおいうみからきたクー）は、[景山民夫](../Page/景山民夫.md "wikilink")による[小説](../Page/小説.md "wikilink")。雑誌『[野性時代](https://ja.wikipedia.org/wiki/小説野性時代 "wikilink")』にて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")6月号から[1988年](../Page/1988年.md "wikilink")2月号まで連載され、単行本は1988年3月刊行。第99回[直木賞受賞作品](../Page/直木三十五賞.md "wikilink")。1992年に[角川文庫](../Page/角川文庫.md "wikilink")から文庫化。[1993年](../Page/1993年.md "wikilink")に日本テレビ開局40年記念作品として[アニメ映画化](../Page/アニメーション映画.md "wikilink")、[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")』で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")（オーディオドラマ）化、[前田真宏による](../Page/前田真宏_\(アニメ監督\).md "wikilink")[漫画化がなされている](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。
+『**遠い海から来たCOO**』（とおいうみからきたクー）は、[景山民夫](../Page/景山民夫.md "wikilink")による[小説](../Page/小説.md "wikilink")。雑誌『[野性時代](https://ja.wikipedia.org/wiki/小説野性時代 "wikilink")』にて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")6月号から[1988年](../Page/1988年.md "wikilink")2月号まで連載され、単行本は1988年3月刊行。第99回[直木賞受賞作品](../Page/直木三十五賞.md "wikilink")。1992年に[角川文庫](../Page/角川文庫.md "wikilink")から文庫化。[1993年](../Page/1993年.md "wikilink")に日本テレビ開局40年記念作品として[アニメ映画化](../Page/アニメーション映画.md "wikilink")、[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")』で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")（オーディオドラマ）化、[前田真宏による](../Page/前田真宏_\(アニメ監督\).md "wikilink")[漫画化がなされている](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。
 
 美しい自然と親子のふれあいを通して描かれる少年の成長記であり、同時に大国の核実験などが絡む冒険小説的な要素をも併せ持つ。
 

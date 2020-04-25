@@ -1,7 +1,7 @@
 > この記事は[RAINBOW \(浜崎あゆみのアルバム\)](https://ja.wikipedia.org/wiki/RAINBOW_\(浜崎あゆみのアルバム\))から翻訳されています。
 
 
-『**RAINBOW**』（レインボウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の5枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")（「R**A**INBOW」の**A**はロゴ表記）。[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**RAINBOW**』（レインボウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の5枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")（「R**A**INBOW」の**A**はロゴ表記）。[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

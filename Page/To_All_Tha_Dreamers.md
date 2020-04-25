@@ -91,7 +91,7 @@
 
 <references />
 
-[Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:SOUL'd_OUTのアルバム](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTのアルバム "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:焼きたて\!\!ジャぱん](https://ja.wikipedia.org/wiki/Category:焼きたて!!ジャぱん "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink")
+[Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:SOUL'd_OUTのアルバム](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTのアルバム "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:焼きたて\!\!ジャぱん](https://ja.wikipedia.org/wiki/Category:焼きたて!!ジャぱん "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.
 2.

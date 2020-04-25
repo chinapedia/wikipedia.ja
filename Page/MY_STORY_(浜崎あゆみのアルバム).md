@@ -1,7 +1,7 @@
 > この記事は[MY STORY \(浜崎あゆみのアルバム\)](https://ja.wikipedia.org/wiki/MY_STORY_\(浜崎あゆみのアルバム\))から翻訳されています。
 
 
-『**MY STORY**』（マイ ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の6枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。
+『**MY STORY**』（マイ ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の6枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。
 
 ## 解説
 
@@ -36,7 +36,7 @@
         本作リリース後にPVが制作され、35thシングル「[STEP you/is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")」のDVDに収録された。
 5.  **WONDERLAND**
       -
-        作曲・編曲：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+        作曲・編曲：[CREA](../Page/浜崎あゆみ.md "wikilink")
         浜崎あゆみ自身が手がけたインスト曲。また、浜崎が曲のアレンジを手がけるのは、この曲が初めてである。
 6.  **Liar**
       -

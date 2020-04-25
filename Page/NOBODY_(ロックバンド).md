@@ -718,11 +718,11 @@
   - [矢沢洋子](https://ja.wikipedia.org/wiki/矢沢洋子 "wikilink")
       - SUGAR\!SUGAR\!\!SUGAR\!\!\!（作曲）
   - [山下久美子](../Page/山下久美子.md "wikilink")
-      - バンg バンg バンg
-      - Darlin' Darlin'
-      - Please Don't Go
-      - GIMME LOVE
-      - 5・6・7・8 DANCE\!
+      - [バンg バンg バンg](https://ja.wikipedia.org/wiki/Baby_Baby_\(山下久美子のアルバム\) "wikilink")
+      - [Darlin' Darlin'](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
+      - [Please Don't Go](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
+      - [GIMME LOVE](https://ja.wikipedia.org/wiki/アニマ・アニムス "wikilink")
+      - [5・6・7・8 DANCE\!](https://ja.wikipedia.org/wiki/アニマ・アニムス "wikilink")
   - [山本達彦](../Page/山本達彦.md "wikilink")
       - MIDNIGHT HARBOR（作曲・編曲）
       - LAST SHOW（編曲）

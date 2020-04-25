@@ -1,7 +1,7 @@
 > この記事は[I am...](https://ja.wikipedia.org/wiki/I_am...)から翻訳されています。
 
 
-『**I am...**』（アイ・アム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の4枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**I am...**』（アイ・アム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の4枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -39,7 +39,7 @@
       -
         作曲：CREA / 編曲：CMJK
         コーセー「ヴィセ」CM曲
-7.  **[NEVER EVER](https://ja.wikipedia.org/wiki/NEVER_EVER_\(浜崎あゆみの曲\) "wikilink")**
+7.  **[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")**
       -
         作曲：CREA / 編曲：CHOKKAKU
         21stシングル

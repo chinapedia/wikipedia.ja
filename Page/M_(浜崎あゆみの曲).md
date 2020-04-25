@@ -1,7 +1,7 @@
 > この記事は[M \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/M_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**M**」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『ℳ』はロゴ表記。
+「**M**」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『ℳ』はロゴ表記。
 
 [2001年](../Page/2001年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2003年](../Page/2003年.md "wikilink")に**Ayu**名義で発売（[M (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#M_\(Ayuの曲\) "wikilink")）。
 
@@ -9,7 +9,7 @@
 
 前作「[AUDIENCE](../Page/AUDIENCE.md "wikilink")」からわずか1か月後に発売された。作曲者「CREA」とは浜崎本人のペンネームであり、CREAとして作曲を手がけて最初に発表したシングルだが、発売当時はそのことは伏せられていた。
 
-タイトルの『M』は、サビの部分が「**'MARIA' (マリア)**」の頭文字から由来をしているが、実際は自身のプロデューサー[Max Matsuuraこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、小説「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](../Page/幻冬舎.md "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」とコメントを寄せている\[2\]。
+タイトルの『M』は、サビの部分が「**'MARIA' (マリア)**」の頭文字に由来しているが、実際は自身のプロデューサー[Max Matsuuraこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、小説「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](../Page/幻冬舎.md "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」とコメントを寄せている\[2\]。
 
 この小説を元にして、[2020年](../Page/2020年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[土曜ナイトドラマ](../Page/土曜ナイトドラマ_\(テレビ朝日\).md "wikilink")』枠でドラマ化されることが、著者の小松成美のトークアプリ[755で公表された](https://ja.wikipedia.org/wiki/755_\(アプリケーション\) "wikilink")。
 
@@ -27,9 +27,9 @@
 
 1.  **M "Original Mix"**　
       -
-        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
         [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](../Page/コマーシャルソング.md "wikilink")
-        テレビ朝日系土曜ナイトドラマ「M 愛すべき人がいて」主題歌
+        テレビ朝日×[Ameba TV共同制作](https://ja.wikipedia.org/wiki/Ameba_TV "wikilink") 土曜ナイトドラマ「M 愛すべき人がいて」主題歌
 2.  **M "Dub's Hard Pop Remix"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "Yuta's weather report mix"**
 4.  **M "nicely nice winter parade remix"**
@@ -56,7 +56,7 @@
 
 ## M (映像作品)
 
-『M』（エム）は、[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")がリリースした[DVDシングル](https://ja.wikipedia.org/wiki/DVDシングル "wikilink")及び[VHSシングル](https://ja.wikipedia.org/wiki/VHSシングル "wikilink")。
+『M』（エム）は、[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")がリリースした[DVDシングル](https://ja.wikipedia.org/wiki/DVDシングル "wikilink")及び[VHSシングル](https://ja.wikipedia.org/wiki/VHSシングル "wikilink")。
 
 ### 解説
 
@@ -70,7 +70,7 @@
 
 ## M (Ayuの曲)
 
-「**M**」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
+「**M**」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
 
 ### 解説
 

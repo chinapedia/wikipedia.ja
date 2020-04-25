@@ -97,4 +97,4 @@
 5.  Friday Party
 6.  地球に抱かれて
 
-[Category:2006年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のミニ・アルバム "wikilink") [Category:AAAのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:AAAのミニ・アルバム "wikilink")
+[Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:2006年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のミニ・アルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:AAAのアルバム](https://ja.wikipedia.org/wiki/Category:AAAのアルバム "wikilink") [Category:AAAのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:AAAのミニ・アルバム "wikilink")

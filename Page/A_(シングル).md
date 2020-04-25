@@ -1,7 +1,7 @@
 > この記事は[A \(シングル\)](https://ja.wikipedia.org/wiki/A_\(シングル\))から翻訳されています。
 
 
-「**A**」（エー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の10th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『A』はロゴ表記。
+「**A**」（エー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の10th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『A』はロゴ表記。
 
 ## 解説
 

@@ -31,4 +31,4 @@
 
   - [エイベックス・エンタテインメント株式会社内の案内](https://www.muzie.ne.jp/support/)
 
-[Category:音楽配信サービス](https://ja.wikipedia.org/wiki/Category:音楽配信サービス "wikilink") [Category:音楽のウェブサイト](https://ja.wikipedia.org/wiki/Category:音楽のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink")
+[Category:音楽配信サービス](https://ja.wikipedia.org/wiki/Category:音楽配信サービス "wikilink") [Category:音楽のウェブサイト](https://ja.wikipedia.org/wiki/Category:音楽のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:1999年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1999年開設のウェブサイト "wikilink") [Category:2017年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2017年廃止のウェブサイト "wikilink")

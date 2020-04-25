@@ -1,13 +1,13 @@
 > この記事は[Boys \& Girls \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Boys_\&_Girls_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Boys & Girls**」（ボーイズ・アンド・ガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Boys & Girls**」（ボーイズ・アンド・ガールズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の9th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
 前作「[TO BE](../Page/TO_BE.md "wikilink")」より約2か月でのリリースで、初の[マキシシングルとして発売された](../Page/シングル.md "wikilink")。薄型ケースを使用しているのは本作のみである。
 
-1曲目が[リミックス](../Page/リミックス.md "wikilink")で、2曲目が"AUBE Original Mix"となっている。本作から表題曲や過去の楽曲のリミックスバージョンがシングルに多数収録されるようになり、この傾向は25枚目の「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」まで続いた。
+1曲目が[リミックス](../Page/リミックス.md "wikilink")で、2曲目が"AUBE Original Mix"となっている。本作から表題曲や過去の楽曲のリミックスバージョンがシングルに多数収録されるようになり、この傾向は25thシングル「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」まで続いた。
 
 累計103.8万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）が、次作「[A](../Page/A_\(シングル\).md "wikilink")」より後に[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。
 

@@ -1,7 +1,7 @@
 > この記事は[NEVER EVER \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/NEVER_EVER_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**NEVER EVER**」（ネヴァー・エヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の21st[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[8月11日](../Page/8月11日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]と[DVD-Audio](../Page/DVD-Audio.md "wikilink")で再発売。
+「**NEVER EVER**」（ネヴァー・エヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の21st[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[8月11日](../Page/8月11日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]と[DVD-Audio](../Page/DVD-Audio.md "wikilink")で再発売。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 1.  **NEVER EVER "Original Mix"**
       -
-        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **NEVER EVER "Yuta's prayer mix"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "H-H remix"**

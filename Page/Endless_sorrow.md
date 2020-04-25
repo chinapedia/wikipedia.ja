@@ -1,7 +1,7 @@
 > この記事は[Endless sorrow](https://ja.wikipedia.org/wiki/Endless_sorrow)から翻訳されています。
 
 
-「**Endless sorrow**」（エンドレス・ソロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の22nd[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[8月11日](../Page/8月11日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]と[DVD-Audio](../Page/DVD-Audio.md "wikilink")で再発売。
+「**Endless sorrow**」（エンドレス・ソロウ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の22nd[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2001年[8月11日](../Page/8月11日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]と[DVD-Audio](../Page/DVD-Audio.md "wikilink")で再発売。
 
 ## 解説
 
@@ -17,7 +17,7 @@
 
 1.  **Endless sorrow "Original Mix"**
       -
-        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")、[Junichi Matsuda](../Page/松田純一.md "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[昔の男](../Page/昔の男.md "wikilink")』主題歌
 2.  **[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink") "Kirari Natsu Ayu Mix"**
       -

@@ -17,7 +17,7 @@
 
 ## 世界観
 
-[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")の舞台となるのは[現代](https://ja.wikipedia.org/wiki/現代 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に程近い世界であるが、現実とは異なりやや[ファンタジー](../Page/ファンタジー.md "wikilink")風の[世界観](../Page/世界観.md "wikilink")で構成されており、「[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")」が科学技術と同様に社会から認知されており学術研究の対象ともなっている。作品の[主人公](../Page/主人公.md "wikilink")・支倉静真が通うことになる「将星学園」は普通科・体育科・魔法科の3学科から成る私立学園である。
+[作品](../Page/作品.md "wikilink")の舞台となるのは[現代](https://ja.wikipedia.org/wiki/現代 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に程近い世界であるが、現実とは異なりやや[ファンタジー](../Page/ファンタジー.md "wikilink")風の[世界観](../Page/世界観.md "wikilink")で構成されており、「[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")」が科学技術と同様に社会から認知されており学術研究の対象ともなっている。作品の[主人公](../Page/主人公.md "wikilink")・支倉静真が通うことになる「将星学園」は普通科・体育科・魔法科の3学科から成る私立学園である。
 
 本作の製作スタッフは、プレイヤーがストーリーに共感できる様にとの配慮から、こうしたファンタジー風の世界観を前面に出さない方針を取った。このため、本作の世界観は、ストーリーの展開に応じて主人公のモノローグや登場人物のセリフの中でさり気なく語られる程度に留められている。また、魔法が存在する世界観を持ちながらも「本当の魔法」を愛情や誠実さといった人間の精神性を求めるストーリーテーリングも、本作品の大きな特徴の1つである。
 

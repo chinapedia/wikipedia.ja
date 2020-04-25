@@ -5,7 +5,7 @@
 
 ## 内容
 
-ドラマ『[セミダブル](../Page/セミダブル.md "wikilink")』の挿入歌。同ドラマの主題歌として使用された「Love〜since 1999〜」は、[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")と[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")によるデュエット曲で、当シングルのカップリングの他、同じく同ドラマの挿入歌（サブテーマ曲）として起用された浜崎のシングル「[LOVE〜Destiny〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")」にも収録されている。後に発売されたアルバム『[TAKE1](../Page/TAKE1.md "wikilink")』では、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")とのデュエットおよび河野伸の編曲でセルフカバーをしている。
+ドラマ『[セミダブル](../Page/セミダブル.md "wikilink")』の挿入歌。同ドラマの主題歌として使用された「Love〜since 1999〜」は、[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")と[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")によるデュエット曲で、当シングルのカップリングの他、同じく同ドラマの挿入歌（サブテーマ曲）として起用された浜崎のシングル「[LOVE〜Destiny〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")」にも収録されている。後に発売されたアルバム『[TAKE1](../Page/TAKE1.md "wikilink")』では、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")とのデュエットおよび河野伸の編曲でセルフカバーをしている。
 
 「LOVE〜Destiny〜」、「LOVE〜since 1999〜」、「LOVE〜抱き合って〜」の3曲は、メロディーラインは基本的に同じコンセプトで製作されている。
 

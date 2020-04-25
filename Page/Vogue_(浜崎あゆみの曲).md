@@ -1,7 +1,7 @@
 > この記事は[Vogue \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Vogue_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**vogue**」（ヴォーグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**vogue**」（ヴォーグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の14th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
@@ -63,7 +63,7 @@
 
   - [DISCOGRAPHY – ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003314)
 
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Vogue/release/5081901)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
 2.

@@ -5,100 +5,172 @@
 
 ## 概要
 
-### アルバム総説
-
-  - 2作目のアルバム『[WHATEVER](../Page/WHATEVER_\(アルバム\).md "wikilink")』に続く、本人が歌ったキャラクターソングを中心に構成されたキャラクターソング・アルバム。
+  - 2作目のアルバム『[WHATEVER](../Page/WHATEVER_\(アルバム\).md "wikilink")』に続く、本人が歌ったキャラクターソングを中心に構成されたキャラクターソング・アルバム。ただし[2000年](../Page/2000年.md "wikilink")にベストアルバム『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』『[VINTAGE A](../Page/VINTAGE_A.md "wikilink")』リリース以降はオリジナルアルバムとして扱われている。
   - 前作未収録の「[夢を抱きしめて](../Page/夢を抱きしめて_\(林原めぐみの曲\).md "wikilink")」を含むシングルの楽曲が収録された。なお、「[春猫不思議月夜 -おしえてHappiness-](../Page/春猫不思議月夜_-おしえてHappiness-.md "wikilink")」は英語詞版が収録されており、オリジナル音源は未収録である。
   - 本作では林原が当時出演していたテレビアニメ『[魔法のプリンセスミンキーモモ](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")』やOVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』からの楽曲が大半を占めている。それらの作品のキャラクターソングや主題歌のリメイク、カヴァーに新曲1曲を加えた全15曲の構成されている。
   - ジャケットの写真は[東京](../Page/東京.md "wikilink")・[天王洲アイル](../Page/天王洲アイル.md "wikilink")で撮影された。
   - 2005年3月16日に初回限定盤仕様（紙BOX仕様、24Pブックレット、40P別冊写真集など付属）の限定生産で復刻された。
 
-### 楽曲解説
-
-  - 1曲目「がんばって\!」はラジオ『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』の裏送り[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")として、かつて地方局での放送の際に起用されていた。
-  - 4曲目「4月の雪」は、テレビアニメ『[魔法のプリンセスミンキーモモ](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")』イメージソングを林原が同作品で演じたモモとしてカバーした楽曲。
-  - 7曲目「Only One」は絵里香が歌うOVA『万能文化猫娘』のイメージソングで、林原がカバーした楽曲である。
-  - 13曲目の「In The Fluffy MOON Nite」は [YAUMINが歌う](../Page/高橋洋子_\(歌手\).md "wikilink")「春猫不思議月夜 -おしえてHappiness-」の英詞版で、林原がカバーした楽曲である。
-  - 14曲目「LOOKIN' FOR LOVE」はSAYUMIが歌うラジオドラマ[熱血電波倶楽部](../Page/熱血電波倶楽部.md "wikilink")『[影技 -SHADOW SKILL-](../Page/SHADOW_SKILL.md "wikilink")』の主題歌で、林原がカバーした楽曲である。
-  - 15曲目「Sad Man」は林原がアキ役で出演したテレビアニメ『[宇宙の騎士テッカマンブレード](../Page/宇宙の騎士テッカマンブレード.md "wikilink")』イメージソングだが、同作品の[サウンドトラック](../Page/サウンドトラック.md "wikilink")未収録であったため、幻の楽曲となっていた。
-
 ## 収録曲
-
-1.  **がんばって\!** \[4:08\]
-      -
-        [作詞](../Page/作詞.md "wikilink")：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[石川Kanji](https://ja.wikipedia.org/wiki/石川寛門 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[Vink](https://ja.wikipedia.org/wiki/Vink "wikilink")
-2.  **COMET rendez-vous** \[4:12\]
-      -
-        作詞：[木本慶子](https://ja.wikipedia.org/wiki/木本慶子 "wikilink")、作曲：[日詰昭一郎](../Page/日詰昭一郎.md "wikilink")、編曲：Vink
-3.  **CHILDREN PARTY** \[4:57\]
-      -
-        作詞：[松葉美保](https://ja.wikipedia.org/wiki/松葉美保 "wikilink")、作曲：[久保浩二](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")、編曲：[古川貴司](https://ja.wikipedia.org/wiki/古川貴司 "wikilink")
-4.  **4月の雪** <MOMO VERSION> \[6:10\]
-      -
-        作詞・作曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")、編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
-5.  **[夢を抱きしめて](../Page/夢を抱きしめて_\(林原めぐみの曲\).md "wikilink")** \[3:48\]
-      -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：岡崎律子、編曲：西脇辰弥
-6.  **ROCKで行こう** <NEW VERSION> \[3:48\]
-      -
-        作詞：[白峰美津子](https://ja.wikipedia.org/wiki/白峰美津子 "wikilink")、作曲・編曲：Vink
-7.  **Only One** <NEW VERSION> \[4:38\]
-      -
-        作詞：[小坂恭子](../Page/小坂恭子.md "wikilink")、作曲：[大友博輝](https://ja.wikipedia.org/wiki/大友博輝 "wikilink")、編曲：[B.C.GUYS](https://ja.wikipedia.org/wiki/B.C.GUYS "wikilink")
-8.  **SUPER FEELING** \[4:55\]
-      -
-        作詞：松葉美保、作曲：[日詰昭一郎](../Page/日詰昭一郎.md "wikilink")、編曲：古川貴司
-9.  **DON'T SIGH** \[3:57\]
-      -
-        作詞：松葉美保、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：古川貴司
-10. **[好きより大好きミンキースマイル\!](../Page/夢を抱きしめて_\(林原めぐみの曲\).md "wikilink")** \[2:25\]
-      -
-        作詞：渡辺なつみ、作曲：岡崎律子、編曲：西脇辰弥
-11. **ララバイ☆あ・げ・た・い** <NEW VERSION> \[4:36\]
-      -
-        作詞：[泉スフレ](https://ja.wikipedia.org/wiki/泉スフレ "wikilink")、作曲：[りゅうてつし](https://ja.wikipedia.org/wiki/劉哲志 "wikilink")、編曲：[長内悟](https://ja.wikipedia.org/wiki/長内悟 "wikilink")
-12. **[OUR GOOD DAY… 僕らのGOOD DAY](../Page/OUR_GOOD_DAY…_僕らのGOOD_DAY.md "wikilink")** \[4:11\]
-      -
-        作詞：[島エリナ](https://ja.wikipedia.org/wiki/島エリナ "wikilink")、English Words by [Mamie D.Lee](https://ja.wikipedia.org/wiki/Mamie_D.Lee "wikilink")、作曲：[工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink")、編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-13. **In The Fluffy MOON Nite** <NEW VERSION> \[4:33\]
-      -
-        作詞：Mamie D.Lee（日本語原詞：[松宮恭子](https://ja.wikipedia.org/wiki/松宮恭子 "wikilink")）、作曲・編曲：[河内淳一](../Page/河内淳一.md "wikilink")
-14. **LOOKIN' FOR LOVE** <NEW VERSION> \[4:23\]
-      -
-        作詞：松葉美保、作曲：[五島翔](https://ja.wikipedia.org/wiki/五島翔 "wikilink")、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-15. **Sad Man** \[5:24\]
-      -
-        作詞：島エリナ、作曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")、編曲：[西岡治彦](https://ja.wikipedia.org/wiki/西岡治彦 "wikilink")
 
 ## タイアップ
 
-| 曲名                                                                                                                                              | タイアップ                                                                                                                                                                                          | 備考                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| がんばって\!                                                                                                                                         | [OVA](../Page/OVA.md "wikilink")『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")                                                            |                                                                   |
-| ラジオ番組『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』[ジングル曲](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink") |                                                                                                                                                                                                |                                                                   |
-| COMET rendez-vous                                                                                                                               | OVA『万能文化猫娘』イメージソング                                                                                                                                                                             |                                                                   |
-| CHILDREN PARTY                                                                                                                                  | [高河ゆん](../Page/高河ゆん.md "wikilink")[原作](../Page/原作.md "wikilink")の[コミック](https://ja.wikipedia.org/wiki/コミック "wikilink")『[子供たちは夜の住人](https://ja.wikipedia.org/wiki/子供たちは夜の住人 "wikilink")』イメージソング |                                                                   |
-| 4月の雪                                                                                                                                            | テレビアニメ『[魔法のプリンセス ミンキーモモ](../Page/魔法のプリンセス_ミンキーモモ.md "wikilink")』イメージソング                                                                                                                        | 原曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")          |
-| 夢を抱きしめて                                                                                                                                         | [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『魔法のプリンセスミンキーモモ 夢を抱きしめて編』[オープニングテーマ](../Page/主題歌.md "wikilink")                                                                       | 3rd[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。      |
-| ROCKで行こう                                                                                                                                        | OVA『万能文化猫娘』イメージソング                                                                                                                                                                             | 原曲：[島津冴子](../Page/島津冴子.md "wikilink")＆林原めぐみ                       |
-| Only One                                                                                                                                        | OVA『万能文化猫娘』イメージソング                                                                                                                                                                             | 原曲：絵里香                                                            |
-| SUPER FEELING                                                                                                                                   | 高河ゆん原作のコミック『子供たちは夜の住人』イメージソング                                                                                                                                                                  |                                                                   |
-| DON'T SIGH                                                                                                                                      | 高河ゆん原作のコミック『子供たちは夜の住人』イメージソング                                                                                                                                                                  |                                                                   |
-| 好きより大好きミンキースマイル\!                                                                                                                               | テレビアニメ『魔法のプリンセスミンキーモモ 夢を抱きしめて編』[エンディングテーマ](../Page/主題歌.md "wikilink")                                                                                                                          | 3rdシングルの[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。 |
-| ララバイ☆あ・げ・た・い                                                                                                                                    | OVA『[NG騎士ラムネ&40 DX ワクワク時空 炎の大捜査戦](https://ja.wikipedia.org/wiki/NG騎士ラムネ&40_DX_ワクワク時空_炎の大捜査戦 "wikilink")』イメージソング                                                                                | 原曲：林原めぐみ＆[三石琴乃](../Page/三石琴乃.md "wikilink")                       |
-| OUR GOOD DAY…僕らのGOOD DAY                                                                                                                        | テレビアニメ『[熱血最強ゴウザウラー](../Page/熱血最強ゴウザウラー.md "wikilink")』エンディングテーマ                                                                                                                                | 5thシングル。                                                          |
-| In The Fluffy MOON Nite                                                                                                                         | OVA『万能文化猫娘』イメージソング                                                                                                                                                                             | 原曲：[YAUMIN](../Page/高橋洋子_\(歌手\).md "wikilink")                    |
-| LOOKIN' FOR LOVE                                                                                                                                | ラジオドラマ熱血電波倶楽部『影技 -SHADOW SKILL-』イメージソング                                                                                                                                                        | 原曲：SAYUMI                                                         |
-| Sad Man                                                                                                                                         | テレビアニメ『[宇宙の騎士テッカマンブレード](../Page/宇宙の騎士テッカマンブレード.md "wikilink")』イメージソング                                                                                                                          |                                                                   |
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>初出作品</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>がんばって!</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『<a href="../Page/万能文化猫娘.md" title="wikilink">万能文化猫娘</a>』<a href="https://ja.wikipedia.org/wiki/イメージソング" title="wikilink">イメージソング</a></p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0III</p></td>
+<td><p>1993年2月5日</p></td>
+<td><p>KICA-140</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>COMET rendez-vous</p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0II</p></td>
+<td><p>1992年11月21日</p></td>
+<td><p>KICA-129</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>CHILDREN PARTY</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/子供たちは夜の住人" title="wikilink">子供たちは夜の住人</a>』（原作：<a href="../Page/高河ゆん.md" title="wikilink">高河ゆん</a>）イメージソング</p></td>
+<td><p>子供たちは夜の住人・音楽編</p></td>
+<td><p>1991年12月21日</p></td>
+<td><p>KICA-80</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>4月の雪<MOMO Version></p></td>
+<td><p>テレビアニメ『<a href="../Page/魔法のプリンセス_ミンキーモモ.md" title="wikilink">魔法のプリンセス ミンキーモモ</a>』イメージソング</p></td>
+<td><p>MINKY MOMO “LOVE STAGE”</p></td>
+<td><p>1993年3月5日</p></td>
+<td><p>KICA-131</p></td>
+<td><p>原曲：<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>夢を抱きしめて</p></td>
+<td><p>テレビアニメ『魔法のプリンセス ミンキーモモ 夢を抱きしめて編』オープニングテーマ</p></td>
+<td><p>夢を抱きしめて</p></td>
+<td><p>1992年6月24日</p></td>
+<td><p>KIDA-42</p></td>
+<td><p>3rdシングル</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>ROCKで行こう<NEW VERSION></p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0V（原曲）</p></td>
+<td><p>1993年6月23日</p></td>
+<td><p>KICA-152</p></td>
+<td><p>原曲：<a href="../Page/島津冴子.md" title="wikilink">島津冴子</a>＆林原めぐみ</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>Only One<NEW VERSION></p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0IV（原曲）</p></td>
+<td><p>1993年4月21日</p></td>
+<td><p>KICA-150</p></td>
+<td><p>原曲：絵里香</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>SUPER FEELING</p></td>
+<td><p>『子供たちは夜の住人』イメージソング</p></td>
+<td><p>子供たちは夜の住人・音楽編</p></td>
+<td><p>1991年12月21日</p></td>
+<td><p>KICA-80</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>DON'T SIGH</p></td>
+<td><p>『子供たちは夜の住人』イメージソング</p></td>
+<td><p>子供たちは夜の住人・音楽編</p></td>
+<td><p>1991年12月21日</p></td>
+<td><p>KICA-80</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>好きより大好きミンキースマイル!</p></td>
+<td><p>テレビアニメ『魔法のプリンセス ミンキーモモ 夢を抱きしめて編』エンディングテーマ</p></td>
+<td><p>夢を抱きしめて</p></td>
+<td><p>1992年6月24日</p></td>
+<td><p>KIDA-42</p></td>
+<td><p>3rdシングルカップリング曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>ララバイ☆あ・げ・た・い<NEW VERSION></p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/NG騎士ラムネ&amp;40_DX_ワクワク時空_炎の大捜査戦" title="wikilink">NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦</a>』イメージソング</p></td>
+<td><p>NG騎士ラムネ＆40DX ワクワク時空 炎の海賊盤 III（原曲）</p></td>
+<td><p>1993年5月21日</p></td>
+<td><p>KIDA-59</p></td>
+<td><p>原曲：林原めぐみ＆<a href="../Page/三石琴乃.md" title="wikilink">三石琴乃</a></p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>OUR GOOD DAY…僕らのGOOD DAY</p></td>
+<td><p>テレビアニメ『<a href="../Page/熱血最強ゴウザウラー.md" title="wikilink">熱血最強ゴウザウラー</a>』エンディングテーマ</p></td>
+<td><p>OUR GOOD DAY…僕らのGOOD DAY</p></td>
+<td><p>1993年3月24日</p></td>
+<td><p>KIDA-54</p></td>
+<td><p>5thシングル</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>In The Fluffy MOON Nite<NEW VERSION></p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0I（原曲）</p></td>
+<td><p>1992年9月26日</p></td>
+<td><p>KICA-123</p></td>
+<td><p>原曲：<a href="../Page/高橋洋子_(歌手).md" title="wikilink">YAUMIN</a><br />
+4thシングルの英語詞版</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>LOOKIN' FOR LOVE<NEW VERSION></p></td>
+<td><p>ラジオドラマ熱血電波倶楽部『影技 -SHADOW SKILL-』オープニングテーマ</p></td>
+<td><p>LOOKIN'FOR LOVE（原曲）</p></td>
+<td><p>1993年5月21日</p></td>
+<td><p>KIDA-55</p></td>
+<td><p>原曲：SAYUMI</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>Sad Man</p></td>
+<td><p>テレビアニメ『<a href="../Page/宇宙の騎士テッカマンブレード.md" title="wikilink">宇宙の騎士テッカマンブレード</a>』イメージソング</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>未発表楽曲</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-## 初出
+## 脚注
 
-  - 子供たちは夜の住人・音楽編 - M-3,8,9
-  - 万能文化猫娘 SOUND PHASE-0II - M-2
-  - 万能文化猫娘 SOUND PHASE-0III - M-1
-  - MINKY MOMO LOVE STAGE - M-4
-  - シングル - M-5,10,12
-  - 新録音 - M-6,7,11,13,14
-  - 未発表 - M-15
+<references/>
 
 [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")

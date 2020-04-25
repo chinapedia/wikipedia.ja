@@ -43,4 +43,4 @@
 
   - [坪倉唯子](../Page/坪倉唯子.md "wikilink")
 
-[Category:T-BOLANの楽曲](https://ja.wikipedia.org/wiki/Category:T-BOLANの楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:森友嵐士が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森友嵐士が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:T-BOLANの楽曲](https://ja.wikipedia.org/wiki/Category:T-BOLANの楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:森友嵐士が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森友嵐士が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

@@ -52,4 +52,4 @@
   - [リリース詳細｜ハロー！プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPCE-5208/)
   - ミュージック・ビデオ
       -
-[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:嬰ニ短調](https://ja.wikipedia.org/wiki/Category:嬰ニ短調 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

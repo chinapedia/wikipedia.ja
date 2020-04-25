@@ -168,7 +168,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a><br />
-（FM OH!・旧FM OSAKA）</p></td>
+（FM大阪）</p></td>
 <td><p>2002年後半頃 - 2003年前半頃<br />
 2005年4月1日 -</p></td>
 <td><p>○</p></td>
@@ -255,7 +255,7 @@
 <td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">エフエム鹿児島</a>（μFM）</p></td>
 <td><p>2012年1月1日</p></td>
 <td><p>○</p></td>
-<td><p>“AIR DESIGN μ FM”</p></td>
+<td><p>“AIR DESIGN μFM”</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -292,7 +292,7 @@
 
 ## ジングル使用中の主な番組
 
-2020年1月現在。
+2020年4月現在。
 
   - 月 - 金 … 『[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』のAラインネットの時間帯（7:00 - 7:30、8:00 - 8:20）\[11\]
   - 月 - 木11:00 … 『[坂本美雨のディア・フレンズ](../Page/ディア・フレンズ.md "wikilink")』
@@ -303,12 +303,12 @@
   - 土14:00 … 『[福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")』
   - 土15:00 … 『[COSMO POPS STATION](https://ja.wikipedia.org/wiki/COSMO_POPS_STATION "wikilink")』
   - 土15:30 … 『[東京海上日動 Challenge Stories 〜人生は、挑戦であふれている〜](https://ja.wikipedia.org/wiki/東京海上日動_Challenge_Stories_〜人生は、挑戦であふれている〜 "wikilink")』
-  - 土16:00 … 『[KIRIN BEER "Good Luck" LIVE](https://ja.wikipedia.org/wiki/KIRIN_BEER_"Good_Luck"_LIVE "wikilink")』
-  - 土22:00 … 『[Dream HEART](https://ja.wikipedia.org/wiki/ドリームハート_\(ラジオ番組\) "wikilink")』
+  - 土16:00 … 『[リリー・フランキー「スナック ラジオ」](../Page/リリー・フランキー「スナック_ラジオ」.md "wikilink")』
+  - 土22:00 … 『[ドリームハート](https://ja.wikipedia.org/wiki/ドリームハート_\(ラジオ番組\) "wikilink")』
   - 土23:00 … 『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』
   - 日10:00 … 『[Panasonic Melodious Library](../Page/Panasonic_Melodious_Library.md "wikilink")』
   - 日11:00 … 『[KOSE HEALING BLUE](https://ja.wikipedia.org/wiki/KOSE_HEALING_BLUE "wikilink")』
-  - 日12:00 … 『[BUZZ FLAG](https://ja.wikipedia.org/wiki/BUZZ_FLAG "wikilink")』
+  - 日12:00 … 『[SEKAI NO OWARI The House](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI_The_House "wikilink")』
   - 日13:00 … 『[ENEOS presents DREAMS COME TRUE 中村正人のENERGY for ALL](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_中村正人の_ENERGY_for_ALL "wikilink")』\[12\]
   - 日14:00 … 『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』\[13\]
   - 日15:00 … 『[日本郵便 SUNDAY'S POST](https://ja.wikipedia.org/wiki/日本郵便_SUNDAY'S_POST "wikilink")』
@@ -333,5 +333,5 @@
 9.  同年12月31日をもって『Radio80』の愛称を廃止している。
 10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](https://ja.wikipedia.org/wiki/ローソンCSほっとステーション "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
 11. TOKYO FMでは時刻をアナウンスする枠。地方局ではJFN共通ジングルに差し替えられる。
-12. AM局の[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")と[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")にもネットされているが、ジングル部分はカットされ時報後すぐ番組に入っている。また[エフエム群馬](../Page/エフエム群馬.md "wikilink")では日22:00。
+12. AM局の[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")と[和歌山放送](../Page/和歌山放送.md "wikilink")にもネットされているが、ジングル部分はカットされ時報後すぐ番組に入っている。また[エフエム群馬](../Page/エフエム群馬.md "wikilink")では日22:00。
 13. 長らくジングルが使用されていない番組であったが、2010年4月より使用開始。

@@ -51,7 +51,7 @@
 
 :\* RFC [ラジオ福島](../Page/ラジオ福島.md "wikilink") 日曜21:30〜22:00（1995年10月 - 1996年3月）
 
-:\* SBC [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") 水曜22:15〜22:45（1995年4月 - 1995年9月）
+:\* SBC [信越放送](../Page/信越放送.md "wikilink") 水曜22:15〜22:45（1995年4月 - 1995年9月）
 
 :\* KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 月曜22:30〜23:00（1995年4月 - 1996年3月）／水曜22:30〜23:00（1996年10月 - ）
 
@@ -69,7 +69,7 @@
 
 :\* RCC [中国放送](../Page/中国放送.md "wikilink") 月曜24:00〜24:30（1995年10月 - 1996年3月）
 
-:\* KRY [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") 日曜21:30〜22:00（1996年4月 - ）
+:\* KRY [山口放送](../Page/山口放送.md "wikilink") 日曜21:30〜22:00（1996年4月 - ）
 
 :\* JRT [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 月曜23:30〜24:00（1994年10月 - 1995年3月）
 
@@ -83,7 +83,7 @@
 
 :\* HBC [北海道放送](../Page/HBCラジオ.md "wikilink") 土曜21:00〜21:30
 
-:\* [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") 火曜21:00〜21:30
+:\* [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") 火曜21:00〜21:30
 
 :\* ABS 秋田放送 月曜23:30〜24:00
 

@@ -79,7 +79,7 @@
 
   - Electric Guitar
       - ESP Custom-made Model（SUGIZOが高校2年生の時に初めて[ESPでオーダー](../Page/イーエスピー.md "wikilink")・メイドしたギター。）
-      - ESP HORIZON SUGIZO CUSTOM（HORIZON＝ディンキータイプ）
+      - ESP HORIZON SUGIZO CUSTOM（HORIZON＝[ディンキータイプ](https://ja.wikipedia.org/wiki/スーパーストラト "wikilink")）
       - ESP HORIZON SUGIZO CUSTOM 2
       - ESP HORIZON SUGIZO CUSTOM 2 Fretless
       - ESP HR-III（HORIZON SUGIZO CUSTOMの3シングルコイル仕様）

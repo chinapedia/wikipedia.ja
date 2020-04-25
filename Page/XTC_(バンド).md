@@ -5,7 +5,7 @@
 
 [ビートルズ](../Page/ビートルズ.md "wikilink")や[ビーチ・ボーイズ](https://ja.wikipedia.org/wiki/ビーチ・ボーイズ "wikilink")といった英米問わず、オールディーズなポップスや、サイケデリック・ロックなどからの幅広い影響をもとに、その活動を通じてポップミュージックのオルタナティヴな可能性を追求した。独特のポップセンスとこだわりに満ちたアレンジを志向しながらポップス・ロックとしてのフォーマットを損なわない大胆なアプローチは、のちの[ブリットポップ](../Page/ブリットポップ.md "wikilink")・ムーヴメントにも大きな影響を与えた。
 
-日本のミュージシャンでは、[P-MODEL](../Page/P-MODEL.md "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")、[カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")、[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")、[L⇔R](https://ja.wikipedia.org/wiki/L⇔R "wikilink")、[POLYSICS](../Page/POLYSICS.md "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、[カジヒデキ](../Page/カジヒデキ.md "wikilink")、[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、などに影響を与えている。
+日本のミュージシャンでは、[P-MODEL](../Page/P-MODEL.md "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")、[カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")、[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")、[L⇔R](https://ja.wikipedia.org/wiki/L⇔R "wikilink")、[POLYSICS](../Page/POLYSICS.md "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、[カジヒデキ](../Page/カジヒデキ.md "wikilink")、[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、などに影響を与えている。
 
 ## メンバー
 

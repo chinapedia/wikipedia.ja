@@ -62,7 +62,7 @@
     第3期の中頃から、[NAVER](https://ja.wikipedia.org/wiki/NAVER "wikilink")のDナビ担当者がDナビとの連絡のための掲示板に現れなくなり、機能しなくなった。そして、もともとユーザーからあった不要論が拡大し、最終的にはDナビの中からも不要論だされ2005年1月31日付でこの制度は休止となった。
     なお、第3期Dナビに事前通知はなく一般ユーザーと同時に通知され、また担当者からの説明も一切なかった。
   - ポイント特典
-    [NAVER](https://ja.wikipedia.org/wiki/NAVER "wikilink")運営時は、階級が昇格する（減点で降格した後の再昇格は対象外）とハンコイン商品券がプレゼントされたが、[ハンゲーム](../Page/ハンゲーム.md "wikilink")移行後に廃止。
+    NAVER\]運営時は、階級が昇格する（減点で降格した後の再昇格は対象外）とハンコイン商品券がプレゼントされたが、[ハンゲーム](../Page/ハンゲーム.md "wikilink")移行後に廃止。
   - プロフィール
     2007年4月に行われたプロフィールのリニューアルに伴い、それまでは見ることが出来た他人の知識plus活動は見られなくなった。また、自身の活動も知識plus内の「マイ知識」から確認するよう変更された。
   - 知識plusモバイル
@@ -86,7 +86,7 @@
   - 2004年10月　知識plusキャラクター「チエビット」作成
   - 2004年11月　知識plusモバイルスタート
   - [2005年](../Page/2005年.md "wikilink")1月　Dナビ制度休止
-  - 2005年6月　[NAVER](https://ja.wikipedia.org/wiki/NAVER "wikilink")からオンラインゲームサイト[Hangame](https://ja.wikipedia.org/wiki/Hangame "wikilink")内のサービスへと移行したことに伴い、知識plusのURL変更（\[<http://plus.naver.co.jp/> [http://plus.naver.co.jp/\]から\[http://plus.hangame.co.jp/](http://plus.naver.co.jp/%5Dから%5Bhttp://plus.hangame.co.jp/) [http://plus.hangame.co.jp/\]へ）および悩みplusと個人掲示板のサービス終了](http://plus.hangame.co.jp/%5Dへ）および悩みplusと個人掲示板のサービス終了)
+  - 2005年6月　NAVERからオンラインゲームサイト[Hangame](https://ja.wikipedia.org/wiki/Hangame "wikilink")内のサービスへと移行したことに伴い、知識plusのURL変更（\[<http://plus.naver.co.jp/> [http://plus.naver.co.jp/\]から\[http://plus.hangame.co.jp/](http://plus.naver.co.jp/%5Dから%5Bhttp://plus.hangame.co.jp/) [http://plus.hangame.co.jp/\]へ）および悩みplusと個人掲示板のサービス終了](http://plus.hangame.co.jp/%5Dへ）および悩みplusと個人掲示板のサービス終了)
   - [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") 知識plusモバイルサービス終了
   - 2009年[6月24日](../Page/6月24日.md "wikilink") 知識plus全サービス終了
 

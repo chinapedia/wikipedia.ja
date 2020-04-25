@@ -31,7 +31,7 @@
 
 **上記以外**
 
-  - [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")（2014年3月号 - 表紙9回）
+  - [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")（2014年3月号 - 表紙10回）
   - [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（2014年11月号 - ）
   - [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、2015年6月号 - 表紙10回）\[1\]
   - [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")（2015年6月号 - 表紙4回）
@@ -163,6 +163,7 @@
 | 2020年3月号 | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                          | 4      |          |
 | 2020年4月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                            | 10     |          |
 | 2020年5月号 | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                     | 4      |          |
+| 2020年6月号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                            | 10     |          |
 
 2019年
 

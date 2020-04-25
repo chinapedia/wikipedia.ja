@@ -144,7 +144,7 @@
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBCラジオ）の[佐賀放送局](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")。独自の差し替え番組を放送。
   - [アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink") - 2018年3月まで[小田原放送局で独自の差し替え番組を放送](../Page/小田原市.md "wikilink")。
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - 2017年3月まで[八戸放送局及び](https://ja.wikipedia.org/wiki/八戸市 "wikilink")[弘前放送局で独自の差し替え番組を放送](../Page/弘前市.md "wikilink")。
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") - [田辺放送局及び](https://ja.wikipedia.org/wiki/田辺市 "wikilink")[新宮放送局で独自の差し替え番組を放送](../Page/新宮市.md "wikilink")。
+  - [和歌山放送](../Page/和歌山放送.md "wikilink") - [田辺放送局及び](https://ja.wikipedia.org/wiki/田辺市 "wikilink")[新宮放送局で独自の差し替え番組を放送](../Page/新宮市.md "wikilink")。
   - [Radio NEO](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink") - [InterFM](../Page/InterFM.md "wikilink")の[名古屋放送局](../Page/名古屋市.md "wikilink")。独自の差し替え番組を放送。その後分社化。
 
 [Category:日本のAMラジオ局](https://ja.wikipedia.org/wiki/Category:日本のAMラジオ局 "wikilink") [Category:滋賀県のマスメディア](https://ja.wikipedia.org/wiki/Category:滋賀県のマスメディア "wikilink") [Category:京都放送](https://ja.wikipedia.org/wiki/Category:京都放送 "wikilink") [Category:近畿地方のラジオ局](https://ja.wikipedia.org/wiki/Category:近畿地方のラジオ局 "wikilink") [Category:1960年設立の組織](https://ja.wikipedia.org/wiki/Category:1960年設立の組織 "wikilink")

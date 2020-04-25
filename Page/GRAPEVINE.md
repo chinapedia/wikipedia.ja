@@ -1,7 +1,7 @@
 > この記事は[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE)から翻訳されています。
 
 
-**GRAPEVINE**（グレイプバイン）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・田中和将、[ギター](../Page/ギター.md "wikilink")・西川弘剛、[ドラムス](../Page/ドラムセット.md "wikilink")・亀井亨の3人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1993年](../Page/1993年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")で結成。レコード会社は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。公式ファンクラブは「BALLGAG」である。
+**GRAPEVINE**（グレイプバイン）は、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")・田中和将、ギター・西川弘剛、[ドラムス](../Page/ドラムセット.md "wikilink")・亀井亨の3人からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1993年](../Page/1993年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")で結成。レコード会社は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。公式ファンクラブは「BALLGAG」である。
 
 ## 概要
 

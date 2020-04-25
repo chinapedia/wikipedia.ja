@@ -18,6 +18,8 @@
 
 ## 仕様
 
+[Dell_Dimension_C521_Motherboard.jpg](https://ja.wikipedia.org/wiki/File:Dell_Dimension_C521_Motherboard.jpg "fig:Dell_Dimension_C521_Motherboard.jpg") C521 Motherboard (microBTX)\]\]
+
   - BTX
 
 <!-- end list -->

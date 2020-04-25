@@ -22,20 +22,20 @@
 ※2008年3月の番組終了時点を基準
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（8:45～8:55　[今日も\!あさぷり](../Page/今日も!あさぷり.md "wikilink")）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（7:30～7:40　[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（7:30～7:40　[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")）
   - [東北放送](../Page/東北放送.md "wikilink")（7:30～7:40　[おはようワイド Goodモーニング](https://ja.wikipedia.org/wiki/おはようワイド_Goodモーニング "wikilink")）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（7:28～7:38　[あさ採りワイド秋田便](../Page/あさ採りワイド秋田便.md "wikilink")）
   - [山形放送](../Page/山形放送.md "wikilink")（7:40～7:50　[グッとモーニン\!\!](https://ja.wikipedia.org/wiki/グッとモーニン!! "wikilink")）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（8:20～8:30　Morning×2）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（7:20～7:30　モーニングカフェ）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（7:50～8:00　モーニングワイド ラジオJ）
+  - [信越放送](../Page/信越放送.md "wikilink")（7:50～8:00　モーニングワイド ラジオJ）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（7:45～7:55　[今日もシャキっと\!](https://ja.wikipedia.org/wiki/今日もシャキっと! "wikilink")）
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（8:25～8:35　[げんき一番](../Page/げんき一番.md "wikilink")）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（8:30～8:40　とれたてラジオ～One to one～）
   - [岐阜放送](../Page/岐阜放送.md "wikilink")（独立局、7:30～7:40　[鈴江・神保のときめきぐっモーニング](../Page/鈴江・神保のときめきぐっモーニング.md "wikilink")）
   - KBS[京都放送](../Page/京都放送.md "wikilink")（[笑福亭晃瓶のほっかほかラジオ](../Page/笑福亭晃瓶のほっかほかラジオ.md "wikilink")）
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")（7:40～7:50　[むさし・ふみ子の朝はミラクル\!](../Page/むさし・ふみ子の朝はミラクル!.md "wikilink")）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（8:25～8:35　[つれもてワイド](../Page/つれもてワイド.md "wikilink") 朝からつれもて）
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")（8:25～8:35　[つれもてワイド](../Page/つれもてワイド.md "wikilink") 朝からつれもて）
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（7:30～7:40　石田好伸の通勤ラジオ絶好調\!）
   - [中国放送](../Page/中国放送.md "wikilink")（8:32～8:40　[寺内優のおはようラジオ](../Page/寺内優のおはようラジオ.md "wikilink")）
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（8:40～8:50　えんやこらワイド）
@@ -54,7 +54,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
 
 <!-- end list -->

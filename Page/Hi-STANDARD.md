@@ -20,7 +20,7 @@
 
 **[1991年](../Page/1991年.md "wikilink")**
 
-  - [難波章浩](../Page/難波章浩.md "wikilink")、[恒岡章](https://ja.wikipedia.org/wiki/恒岡章 "wikilink")[、横山健を中心に結成](../Page/横山健.md "wikilink")。初ライブをGod's Guts・Scamp・[bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")・[BEYONDS](../Page/BEYONDS.md "wikilink")と高円寺20000Vで行う。
+  - [難波章浩](../Page/難波章浩.md "wikilink")、[恒岡章](https://ja.wikipedia.org/wiki/恒岡章 "wikilink")、[横山健](../Page/横山健.md "wikilink")を中心に結成。初ライブをGod's Guts・Scamp・[bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")・[BEYONDS](../Page/BEYONDS.md "wikilink")と高円寺20000Vで行う。
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@
 
 **[1999年](../Page/1999年.md "wikilink")**
 
-  - [PIZZA OF DEATH RECORDSが](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")[ハウリング・ブル](https://ja.wikipedia.org/wiki/ハウリング・ブル "wikilink")から独立。\[1\]。
+  - [PIZZA OF DEATH RECORDSが](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")[ハウリング・ブル](https://ja.wikipedia.org/wiki/ハウリング・ブル "wikilink")から独立\[1\]。
   - 6月30日、アルバム「[MAKING THE ROAD](../Page/MAKING_THE_ROAD.md "wikilink")」をリリースし、国内外合わせて100万枚以上の売り上げを記録した。
 
 <!-- end list -->
@@ -107,7 +107,7 @@
 
 **[2013年](../Page/2013年.md "wikilink")**
 
-  - 7月7日、[10-FEET](../Page/10-FEET.md "wikilink")主催のフェス・[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")に「NAMBA69」と「Ken Yokoyama」が出演。ラストの10-FEETのステージのアンコールで「Stay Gold」を10-FEETがカバーしていたが、演奏中に出番を終えていた難波と横山が乱入。２人はそれぞれ楽器をNAOKIとTAKUMAから受け取り、KOUICHIのドラムにのせて「Stay Gold」の続きを生演奏した。ステージ上で全員が大はしゃぎしTAKUMAはその後号泣していた。
+  - 7月7日、[10-FEET](../Page/10-FEET.md "wikilink")主催のフェス・[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")に「NAMBA69」と「Ken Yokoyama」が出演。ラストの10-FEETのステージのアンコールで「Stay Gold」を10-FEETがカバーしていたが、演奏中に出番を終えていた難波と横山が乱入。2人はそれぞれ楽器をNAOKIとTAKUMAから受け取り、KOUICHIのドラムにのせて「Stay Gold」の続きを生演奏した。ステージ上で全員が大はしゃぎしTAKUMAはその後号泣していた。
 
 **[2015年](../Page/2015年.md "wikilink")**
 
@@ -222,7 +222,7 @@ POD-001</p></td>
 <td><p>1994年9月</p></td>
 <td><p><strong>IN THE BRIGHTLY MOONLIGHT</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全4曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -253,7 +253,7 @@ POD-001</p></td>
 <td><p>1997年1月21日</p></td>
 <td><p><strong>I DON'T NEED TROUBLE BECAUSE OF...MONEY</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全2曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -312,7 +312,7 @@ POD-001</p></td>
 <td><p>1992年11月1日</p></td>
 <td><p><strong>SHAKE A MOVE</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -337,12 +337,12 @@ POD-001</p></td>
 <td><p>1993年11月25日</p></td>
 <td><p><strong>BQ JAP</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全12曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>DON’T THAT PLAYING / COKE HEAD HIPSTERS</li>
+<li>DON'T THAT PLAYING / COKE HEAD HIPSTERS</li>
 <li>CONCRETE JUNGLE / COKE HEAD HIPSTERS</li>
 <li>HAVE I EVER TOLD A LIE？ / SUNSHINE SUPER SCUM</li>
 <li>SOMEBODY SAID / SUNSHINE SUPER SCUM</li>
@@ -352,8 +352,8 @@ POD-001</p></td>
 <li>SPEED MY LIFE / ASSHOLE BLUES PLAYERS</li>
 <li><strong>Maximum Over Drive / Hi-STANDARD</strong></li>
 <li><strong>Selfish Girl / Hi-STANDARD</strong></li>
-<li>I DON’T NEED YOU NO MORE / THE 5.6.7.8’S</li>
-<li>SCREAM / THE 5.6.7.8’S</li>
+<li>I DON'T NEED YOU NO MORE / THE 5.6.7.8'S</li>
+<li>SCREAM / THE 5.6.7.8'S</li>
 </ol></td>
 <td><p>UKCD-1054</p></td>
 <td><p>ライブ音源を収録</p></td>
@@ -362,7 +362,7 @@ POD-001</p></td>
 <td><p>1994年5月</p></td>
 <td><p><strong>底引重圧八割 PULL UP FROM THE UNDER GROUND 80%</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全12曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -388,7 +388,7 @@ POD-001</p></td>
 <td><p><strong>SOMEHOW IT DON'T BOTHER ME<br />
 -A TRIBUTE TO SNUFF II</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全5曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -406,7 +406,7 @@ POD-001</p></td>
 <td><p>1995年4月21日</p></td>
 <td><p><strong>Hi-STANDARD / Legitime Defonce</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全4曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -423,7 +423,7 @@ POD-001</p></td>
 <td><p>1997年12月5日</p></td>
 <td><p><strong>WEIHNACHTEN STINKT!</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全4曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -440,7 +440,7 @@ POD-001</p></td>
 <td><p>1999年6月1日</p></td>
 <td><p><strong>SHORT MUSIC FOR SHORT PEOPLE</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全101曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -551,7 +551,7 @@ POD-001</p></td>
 <td><p>1999年6月18日</p></td>
 <td><p><strong>WE LOVE BUTCHERS</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全14曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -578,12 +578,12 @@ POD-001</p></td>
 <td><p>1999年11月26日</p></td>
 <td><p><strong>LONDON NITE 2</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全16曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>LONDON NITE(PRESENTED TO MR.O,GUERRILLA DJ’S&amp;KIDS) / The Mods</li>
+<li>LONDON NITE(PRESENTED TO MR.O,GUERRILLA DJ'S&amp;KIDS) / The Mods</li>
 <li>See No Evil / テレヴィジョン</li>
 <li>The Back of Love / エコー&amp;ザ・バニーメン</li>
 <li>Fiesta / ポーグス</li>
@@ -607,16 +607,16 @@ POD-001</p></td>
 <td><p>2003年2月19日</p></td>
 <td><p><strong>HUNGRY FOR CARNAGE</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全16曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Who’ll Be The Next / Hi-STANDARD</li>
+<li>Who'll Be The Next / Hi-STANDARD</li>
 <li>CROSS POINT / A FIELD DAY</li>
 <li>SMILE&amp;SIGH / REACH</li>
 <li>either way you want / NAHT</li>
-<li>Flow(it’s like that) / BACK DROP BOMB</li>
+<li>Flow(it's like that) / BACK DROP BOMB</li>
 <li>ロスト・イン・タイム / bloodthirsty butchers</li>
 <li>ストロボ / WORD</li>
 <li>PEOPLE TO PEOPLE / COKEHEAD HIPSTERS</li>
@@ -638,7 +638,7 @@ POD-001</p></td>
 〜SHINJUKU LOFT 30th ANNIVERSARY〜<br />
 -Blue Disc-「日本語ロックの浸透と新しい波」</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全30曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -843,7 +843,7 @@ DVD</p></td>
 
 ### ファンに対する感謝
 
-  - ハイスタンダードは、ファン層の膨大化によりライブチケットはどの会場も瞬時にソールドアウトしてしまい、従来/新規のファンによる温度差、特にチケットが常にプレミア化する問題等に頭を悩ませていた。そこで昔からのファンに対する感謝、メッセージとして行われたのが1997年12月リリースの完全ノープロモーション、事前告知一切なしのシングル「War Is Over（w/WIZO とのSPLIT (1997年)）」である。これは、ハイスタを昔から聞いている人はライトユーザーに比べて頻繁にDISK UNION等のレコード店に出入りしていることから、いつも通りフラっと店に入ったら何気なしに突然ハイスタのシングルが置かれていて、偶然買えた人はラッキーという狙いだった。このシングルは当初アナログレコードとシングルCDの2種類で発売され、のちにごく少数CDだけが再発された。
+  - ハイスタンダードは、ファン層の膨大化によりライブチケットはどの会場も瞬時にソールドアウトしてしまい、従来/新規のファンによる温度差、特にチケットが常にプレミア化する問題等に頭を悩ませていた。そこで昔からのファンに対する感謝、メッセージとして行われたのが1997年12月リリースの完全ノープロモーション、事前告知一切なしのシングル「War Is Over（w/WIZO とのSPLIT（1997年））」である。これは、ハイスタを昔から聞いている人はライトユーザーに比べて頻繁にDISK UNION等のレコード店に出入りしていることから、いつも通りフラっと店に入ったら何気なしに突然ハイスタのシングルが置かれていて、偶然買えた人はラッキーという狙いだった。このシングルは当初アナログレコードとシングルCDの2種類で発売され、のちにごく少数CDだけが再発された。
   - 1997年〜1998年には告知最小限のライブハウスツアー「Fuckin' band boom tour」という、パンク／メロコアブームを自ら風刺するようなタイトルのライブを都内数箇所で行っており、どれもキャパ500人以下の会場であった。このライブ告知もいくつかのライブハウスにて、同ジャンルのバンドが出演するイベントの終演後にpizza関係者がチラシ配りをして告知するという「頻繁にライブハウスに出入りしている人が優先的に情報を得られる」という狙いがあった。同時期の1997年、1998年に屋外での大イベント「AIR JAM」を開催している側面もあり、どのファンも大切に接するというメッセージのもと、メジャー移籍した後もハイスタの活動方針自体にはインディーズ／メジャーの垣根を越えているものが多かった。
   - 4thアルバム「[MAKING THE ROAD](../Page/MAKING_THE_ROAD.md "wikilink")」からは完全自主流通に移ったものの、インディーズとしては驚異的な100万枚突破のセールスを記録している。収録されている「Stay gold」はアルバムセールス用にPVも作成され、当時西新宿にあった老舗ライブハウス「[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")」でのライブの模様が収録された映像が使用されている。このライブは長年ロックミュージシャンの登竜門的、伝説のライブハウスとなっていた「[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")」が西新宿から歌舞伎町へ移転する事に伴うフィナーレ・イベントの一環としてハイスタが出演したもので、まさにロフトの長い歴史に対して「Stay gold」というメッセージを込めて贈られたものとなっている（ちなみにmaking the roadツアーの初日は新生歌舞伎町の新宿ロフトで行われた）。
 

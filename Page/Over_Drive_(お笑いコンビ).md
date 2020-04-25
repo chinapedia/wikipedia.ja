@@ -56,7 +56,7 @@
   - [おしゃべりやってま〜す火曜日](https://ja.wikipedia.org/wiki/おしゃ火 "wikilink")（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")・[K'z Station](../Page/K'z_Station.md "wikilink")）※緒方のみ
   - [TOYOTA](https://ja.wikipedia.org/wiki/TOYOTA "wikilink") [ピットイン・タイム　たまけん](../Page/玉川美沙_たまなび.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）※緒方のみ
   - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink")（MXTV、2004年11月1日）
-  - [大人の自由時間](../Page/大人の自由時間.md "wikilink")・なぎら開放計画（[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、緒方）
+  - [大人の自由時間](../Page/大人の自由時間.md "wikilink")・なぎら開放計画（[日本BS放送](../Page/日本BS放送.md "wikilink")、緒方）
   - アイドルコロシアム（[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）
 
 ## 出典
@@ -64,7 +64,7 @@
 ## 外部リンク
 
   - [緒方のプロフィール](http://www.shochikugeino.co.jp/talents/03/post-37.html)
-  - [緒方雅史のブログ](http://ameblo.jp/overdrive-ogata/)
+  - [緒方雅史のブログ](https://ameblo.jp/overdrive-ogata/)
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink")
 

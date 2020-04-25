@@ -59,7 +59,7 @@ CM路線については「偉大なる[マンネリ](https://ja.wikipedia.org/wi
   - 2016年 - 2019年 ：[三浦知良](../Page/三浦知良.md "wikilink")（[プロサッカー選手](https://ja.wikipedia.org/wiki/プロフェッショナル_\(サッカー\) "wikilink")／当時：[横浜FC](../Page/横浜FC.md "wikilink")）、[大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")（プロ野球選手／当時：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")）\[22\]
   - 2015年 - 2020年： ラグビー日本代表\[23\]、「最強の自分」篇\[24\]（2019年7月から。使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）
   - 2019年 - 2020年： [ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink")の施設準備をする人々が登場する「支える人を支えたい」篇\[25\]、[リーチマイケル](https://ja.wikipedia.org/wiki/リーチマイケル "wikilink")「日本への熱き想い」篇\[26\]、[堀江翔太](https://ja.wikipedia.org/wiki/堀江翔太 "wikilink")「諦めない強さ」篇、働く人々がそれぞれの仕事着でラグビーをする「立ち向かう人」篇\[27\]（それぞれ使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）
-  - 2020年 - ： [三浦知良](../Page/三浦知良.md "wikilink")「I can」篇（2020年2月から。使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）、 [八村塁](https://ja.wikipedia.org/wiki/八村塁 "wikilink")「でかい夢」篇（2020年3月から）\[28\]
+  - 2020年 - ： [三浦知良](../Page/三浦知良.md "wikilink")「I can」篇（2020年2月から）、ラグビー日本代表「今日の全力に」篇（2020年4月から。使用曲[B'z](../Page/B'z.md "wikilink")「[兵、走る](https://ja.wikipedia.org/wiki/兵、走る "wikilink")」）、 [八村塁](https://ja.wikipedia.org/wiki/八村塁 "wikilink")「でかい夢」篇（2020年3月から）\[28\]
 
 <!-- end list -->
 
@@ -313,8 +313,10 @@ CM路線については「偉大なる[マンネリ](https://ja.wikipedia.org/wi
 
 ## 外部リンク
 
-  - [リポビタン、ファイト一発\!｜シリーズトップページ｜大正製薬](http://www.taisho.co.jp/lipovitan/)
+  - [リポビタン、ファイト一発\!｜シリーズトップページ｜大正製薬](https://brand.taisho.co.jp/lipovitan/)
 
+  -
+  -
   -
   -
   -

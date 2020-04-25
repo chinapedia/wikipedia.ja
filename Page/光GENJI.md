@@ -1,7 +1,7 @@
 > この記事は[光GENJI](https://ja.wikipedia.org/wiki/光GENJI)から翻訳されています。
 
 
-**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「最後のスーパーアイドル」などと称されている。
+**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「最初のスーパーアイドル」などと称されている。
 
 ## メンバー
 
@@ -115,13 +115,13 @@ AKIRA &amp; KOHJI</p></td>
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月](../Page/6月.md "wikilink")\[45\]、既存グループだった5人組の「**GENJI**」と、内海光司、大沢樹生の2人による「**光**」の2つのグループが合体して、「光GENJI」が結成\[46\]。
 
-1987年[8月19日](../Page/8月19日.md "wikilink")に[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現・CHAGE and ASKA）が楽曲提供した「[STAR LIGHT](https://ja.wikipedia.org/wiki/STAR_LIGHT "wikilink")」でレコードデビュー\[47\]。[ローラースケート](../Page/ローラースケート.md "wikilink")を履いて踊り、バック転などもこなすアクロバティックなパフォーマンスがうけ、デビューしてすぐに人気が上昇\[48\]\[49\]、爆発的なブームを生み「最後のスーパーアイドル」と呼ばれ、その人気は経済誌などでも社会現象として取り上げられる。\[50\]\[51\]同年、テレビ東京系『[あぶない少年](../Page/あぶない少年.md "wikilink")』でドラマ初主演を務める\[52\]。
+1987年[8月19日](../Page/8月19日.md "wikilink")に[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現・CHAGE and ASKA）が楽曲提供した「[STAR LIGHT](../Page/STAR_LIGHT_\(光GENJIの曲\).md "wikilink")」でレコードデビュー\[47\]。[ローラースケート](../Page/ローラースケート.md "wikilink")を履いて踊り、バック転などもこなすアクロバティックなパフォーマンスがうけ、デビューしてすぐに人気が上昇\[48\]\[49\]、爆発的なブームを生み「最後のスーパーアイドル」と呼ばれ、その人気は経済誌などでも社会現象として取り上げられる。\[50\]\[51\]同年、テレビ東京系『[あぶない少年](../Page/あぶない少年.md "wikilink")』でドラマ初主演を務める\[52\]。
 
 [1988年](../Page/1988年.md "wikilink")12月31日、「[パラダイス銀河](../Page/パラダイス銀河.md "wikilink")」で[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")を受賞。また、同年のオリコン年間シングル売上第1位～3位を光GENJIが独占し、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")以来の快挙を達成し、ベスト10内には4曲ランクインした。オリコン年間アルバム売上も第1位と第9位を獲得。
 
 ### 1990年代〜卒業
 
-[1992年](../Page/1992年.md "wikilink")JOC日本オリンピック委員会広報アドバイザーに任命され、[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")の応援ソングとして「[リラの咲くころバルセロナへ](https://ja.wikipedia.org/wiki/リラの咲くころバルセロナへ "wikilink")」をリリース。
+[1992年](../Page/1992年.md "wikilink") JOC日本オリンピック委員会広報アドバイザーに任命され、[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")の応援ソングとして「[リラの咲くころバルセロナへ](https://ja.wikipedia.org/wiki/リラの咲くころバルセロナへ "wikilink")」をリリース。
 
 [1994年](../Page/1994年.md "wikilink")1月、バルセロナ夏季五輪に引き続き、[リレハンメルオリンピック](https://ja.wikipedia.org/wiki/リレハンメルオリンピック "wikilink")の応援ソングとして「[BRAVO\!Nippon〜雪と氷のファンタジー〜](https://ja.wikipedia.org/wiki/BRAVO!Nippon〜雪と氷のファンタジー〜 "wikilink")」をリリース。同年8月、大沢樹生・佐藤寛之が脱退し「光GENJI SUPER 5」にグループ名を変更する\[53\]。
 

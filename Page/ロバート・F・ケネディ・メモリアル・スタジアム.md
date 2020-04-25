@@ -1,17 +1,21 @@
 > この記事は[ロバート・F・ケネディ・メモリアル・スタジアム](https://ja.wikipedia.org/wiki/ロバート・F・ケネディ・メモリアル・スタジアム)から翻訳されています。
 
 
-**ロバート・F・ケネディ・メモリアル・スタジアム**（**Robert F. Kennedy Memorial Stadium**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[首都](../Page/首都.md "wikilink")[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")にある市営の多目的[スタジアム](../Page/スタジアム.md "wikilink")である。
+**ロバート・F・ケネディ・メモリアル・スタジアム**（**Robert F. Kennedy Memorial Stadium**、略称: RFKスタジアム）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[首都](../Page/首都.md "wikilink")[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")にある市営の多目的[スタジアム](../Page/スタジアム.md "wikilink")である。
 
 ## 歴史
 
-元々このスタジアムはD.C.スタジアムという名称で、1961年から[NFL](../Page/NFL.md "wikilink")[ワシントン・レッドスキンズ](../Page/ワシントン・レッドスキンズ.md "wikilink")と[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ワシントン・セネタース（現テキサス・レンジャーズ）の本拠地球場として使用されていた](../Page/テキサス・レンジャーズ.md "wikilink")。
+元々このスタジアムは**ディストリクト・オブ・コロンビア・スタジアム**（略称: D.C.スタジアム）という名称で、1961年から[NFL](../Page/NFL.md "wikilink")[ワシントン・レッドスキンズ](../Page/ワシントン・レッドスキンズ.md "wikilink")と[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ワシントン・セネタース（現テキサス・レンジャーズ）の本拠地球場として使用されていた](../Page/テキサス・レンジャーズ.md "wikilink")。
 
 1968年に[ロバート・F・ケネディ](../Page/ロバート・ケネディ.md "wikilink")（[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")[元大統領の実弟](../Page/アメリカ合衆国大統領.md "wikilink")、第64代[アメリカ合衆国司法長官](../Page/アメリカ合衆国司法長官.md "wikilink")）が[大統領選挙の遊説中に暗殺されたことを受けて](../Page/アメリカ合衆国大統領選挙.md "wikilink")、ケネディの業績を称えるため現在のスタジアム名に変更された。
 
-1972年にセネタースが[テキサス州](../Page/テキサス州.md "wikilink")[アーリントンに移転したため](../Page/アーリントン_\(テキサス州\).md "wikilink")、しばらくは[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")や[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")に使用されていた。1994年には[サッカー・FIFAワールドカップ会場の一つに選ばれ](../Page/1994_FIFAワールドカップ.md "wikilink")、グループリーグ4試合と決勝トーナメント1回戦1試合（[スペイン](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink") 3－0 [スイス](../Page/サッカースイス代表.md "wikilink")）が開催された。
+1972年にセネタースが[テキサス州](../Page/テキサス州.md "wikilink")[アーリントンに移転したため](../Page/アーリントン_\(テキサス州\).md "wikilink")、しばらくは[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")や[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")に使用されていた。
 
-それから2年後の1996年、この年に結成されたアメリカのプロサッカーリーグ・[MLSの](../Page/メジャーリーグサッカー.md "wikilink")[D.C. ユナイテッドが](../Page/D.C._ユナイテッド.md "wikilink")、当スタジアムを本拠地として使用するようになった。2005年にはモントリオール・エクスポズが[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[モントリオール](../Page/モントリオール.md "wikilink")から移転してきて、球団名を[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ.md "wikilink")へ変更。セネタース以来35年ぶりの大リーグチームとして、2008年の[ナショナルズ・パーク](https://ja.wikipedia.org/wiki/ナショナルズ・パーク "wikilink")完成まで当スタジアムを本拠地とすることとなった。
+1994年には[サッカー・FIFAワールドカップ会場の一つに選ばれ](../Page/1994_FIFAワールドカップ.md "wikilink")、グループリーグ4試合と決勝トーナメント1回戦1試合（[スペイン](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink") 3－0 [スイス](../Page/サッカースイス代表.md "wikilink")）が開催された。
+
+1996年、この年に結成されたアメリカのプロサッカーリーグ・[MLSの](../Page/メジャーリーグサッカー.md "wikilink")[D.C. ユナイテッドが](../Page/D.C._ユナイテッド.md "wikilink")、当スタジアムを本拠地として使用するようになったが、翌1997年、入れ替わるようにしてNFLレッドスキンズは[ジャック・ケント・クック・スタジアムへ移転した](https://ja.wikipedia.org/wiki/フェデックス・フィールド "wikilink")。
+
+2005年にはMLBモントリオール・エクスポズが[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[モントリオール](../Page/モントリオール.md "wikilink")から移転してきて、球団名を[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ.md "wikilink")へ変更。セネタース以来35年ぶりの大リーグチームとして、2008年の[ナショナルズ・パーク](https://ja.wikipedia.org/wiki/ナショナルズ・パーク "wikilink")完成まで当スタジアムを本拠地とすることとなった。
 
 ## 主な出来事
 

@@ -171,7 +171,7 @@
 <a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a>(SDT)<br />
 <a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>(KNB)<br />
 <a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a>(NKT)<br />
-<a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>(KRY)<br />
+<a href="../Page/山口放送.md" title="wikilink">山口放送</a>(KRY)<br />
 <a href="../Page/西日本放送.md" title="wikilink">西日本放送</a>(RNC)<br />
 <a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>(RNB)<br />
 <a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>(RKC)<br />
@@ -369,7 +369,7 @@
 <tr class="odd">
 <td><p>2005年<br />
 8月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/fairyland_(浜崎あゆみの曲)" title="wikilink">fairyland</a>」 <a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/fairyland_(浜崎あゆみの曲)" title="wikilink">fairyland</a>」 <a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Answer_will_come" title="wikilink">Answer will come</a>」 <a href="../Page/Kimeru.md" title="wikilink">Kimeru</a></p></td>
 </tr>
 <tr class="even">

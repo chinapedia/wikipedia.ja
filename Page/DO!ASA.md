@@ -1,7 +1,7 @@
 > この記事は[DO!ASA](https://ja.wikipedia.org/wiki/DO!ASA)から翻訳されています。
 
 
-**DO\!ASA**（ド\!アサ）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで毎週土曜 9:00 - 12:00まで放送されている[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+**DO\!ASA**（ド\!アサ）は、[山口放送](../Page/山口放送.md "wikilink")ラジオで毎週土曜 9:00 - 12:00まで放送されている[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ## 概要
 

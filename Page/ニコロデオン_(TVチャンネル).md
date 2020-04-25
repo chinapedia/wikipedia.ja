@@ -1,7 +1,7 @@
 > この記事は[ニコロデオン \(TVチャンネル\)](https://ja.wikipedia.org/wiki/ニコロデオン_\(TVチャンネル\))から翻訳されています。
 
 
-**ニコロデオン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル。幼児・児童向け番組を専門とするチャンネルで、『[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")』や『[ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")』などのアメリカで人気のアニメ番組を多くの国で放送している。[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")傘下の[バイアコムCBS・ドメスティック・メディア・ネットワークスが運営する](https://ja.wikipedia.org/wiki/:en:Viacom_Media_Networks "wikilink")。
+**ニコロデオン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル。幼児・児童向け番組を専門とするチャンネルで、『[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")』や『[ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")』などのアメリカで人気のアニメ番組を多くの国で放送している。[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")傘下の[バイアコムCBSドメスティック・メディア・ネットワークス](https://ja.wikipedia.org/wiki/バイアコムCBSドメスティック・メディア・ネットワークス "wikilink")が運営する。
 
 ## 概要
 
@@ -53,7 +53,45 @@
 
 ## 日本のニコロデオンで放送されていた番組/放送されている番組
 
-### ニコロデオン（1998年 - 2009年）
+### 日本のニコロデオンで放送されている番組
+
+#### ニコロデオン（2018年 - ）
+
+  - スポンジ・ボブ
+  - ラグラッツ
+      - ラグラッツ・ザ・ティーンズ
+  - インベーダー・ジム
+  - ワイルド・ソーンベリーズ
+  - ドーラといっしょに大冒険
+  - ブルーズ・クルーズ
+  - アバター 伝説の少年アン ※シーズン3は当初はAmazonビデオで配信
+  - [iCarly](https://ja.wikipedia.org/wiki/iCarly "wikilink") ※当初は[MTVと](../Page/MTVジャパン.md "wikilink")[NHKで放送](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") ※日本語字幕版
+  - [スーパーエージェント TUFFパピー](https://ja.wikipedia.org/wiki/スーパーエージェント_TUFFパピー "wikilink") ※当初はAmazonビデオで配信
+  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink") ※当初はNHKと[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")/[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")で放送
+  - [カンフー・パンダ ザ・シリーズ](../Page/カンフー・パンダ.md "wikilink") ※当初はディズニーXDとNHKで放送
+  - [ミュータント タートルズ3D](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink") ※当初は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")とディズニーXDで放送
+  - [みんなのウミズーミ](https://ja.wikipedia.org/wiki/:en:Team_Umizoomi "wikilink") ※当初はAmazonビデオで配信
+  - [ハイスクール・ニンジャ](https://ja.wikipedia.org/wiki/:en:Supah_Ninjas "wikilink") ※当初はAmazonビデオで配信
+  - [ラビッツ インベージョン](https://ja.wikipedia.org/wiki/:en:Rabbids_Invasion "wikilink") ※当初は[UBIJAPAN](https://www.youtube.com/user/UBIJAPAN)で配信 ※英語版
+  - [Wallykazam\!](https://ja.wikipedia.org/wiki/:en:Wallykazam! "wikilink") ※英語版
+  - [Shimmer and Shine](https://ja.wikipedia.org/wiki/:en:Shimmer_and_Shine "wikilink") ※英語版
+  - [Blaze and the Monster Machines](https://ja.wikipedia.org/wiki/:en:Blaze_and_the_Monster_Machines "wikilink") ※英語版
+  - ジョジョ・シワ『マイ・ワールド』 ※日本語字幕版
+  - [リップシンクバトル](https://ja.wikipedia.org/wiki/:en:Lip_Sync_Battle "wikilink") ハロウィンスペシャル ※日本語字幕版
+  - [うそつき吸血鬼](https://ja.wikipedia.org/wiki/:en:Liar,_Liar,_Vampire "wikilink") ※スペシャルドラマ ※日本語字幕版
+  - ロケット・パワー
+  - [バブル・グッピーズ](https://ja.wikipedia.org/wiki/バブル・グッピーズ "wikilink") ※英語教育アニメ
+  - [パウ・パトロール](https://ja.wikipedia.org/wiki/パウ・パトロール "wikilink") ※当初はテレビ東京系列で放送 ※英語教育アニメ
+  - [サム&キャット](https://ja.wikipedia.org/wiki/サム&キャット "wikilink") ※当初はNHKで放送 ※日本語字幕版
+  - [アルバート ～もみの木くんの夢～](https://ja.wikipedia.org/wiki/:en:Albert_\(2016_film\) "wikilink")
+  - レゴシティ アドベンチャーズ ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
+  - レゴ ジュラシック・ワールド：イスラ・ヌブラル島の伝説 ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
+  - ジミー・ニュートロン 僕は天才発明家\!
+  - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink")
+
+### 日本のニコロデオンで放送されていた番組
+
+#### ニコロデオン（1998年 - 2009年）
 
   - [スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink") ※[NHKおよび](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[Amazonビデオおよび](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")[TOKYO MXに移動](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[MTV](../Page/MTVジャパン.md "wikilink")、[アニマックス](../Page/アニマックス.md "wikilink")と[BSフジ](../Page/BSフジ.md "wikilink")では放送終了）
   - [ジミー・ニュートロン 僕は天才発明家\!](https://ja.wikipedia.org/wiki/ジミー・ニュートロン_僕は天才発明家! "wikilink") ※[キッズステーション](../Page/キッズステーション.md "wikilink")に移動（現在は放送終了）
@@ -110,41 +148,7 @@
   - [まんが日本昔ばなし](../Page/まんが日本昔ばなし.md "wikilink")
   - [ぶぶチャチャ](../Page/ぶぶチャチャ.md "wikilink")
 
-### ニコロデオン（2018年 - ）
-
-  - スポンジ・ボブ
-  - ラグラッツ
-      - ラグラッツ・ザ・ティーンズ
-  - インベーダー・ジム
-  - ワイルド・ソーンベリーズ
-  - ドーラといっしょに大冒険
-  - ブルーズ・クルーズ
-  - アバター 伝説の少年アン ※シーズン3は当初はAmazonビデオで配信
-  - [iCarly](https://ja.wikipedia.org/wiki/iCarly "wikilink") ※当初は[MTVと](../Page/MTVジャパン.md "wikilink")[NHKで放送](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") ※日本語字幕版
-  - [スーパーエージェント TUFFパピー](https://ja.wikipedia.org/wiki/スーパーエージェント_TUFFパピー "wikilink") ※当初はAmazonビデオで配信
-  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink") ※当初はNHKと[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")/[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")で放送
-  - [カンフー・パンダ ザ・シリーズ](../Page/カンフー・パンダ.md "wikilink") ※当初はディズニーXDとNHKで放送
-  - [ミュータント タートルズ3D](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink") ※当初は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")とディズニーXDで放送
-  - [みんなのウミズーミ](https://ja.wikipedia.org/wiki/:en:Team_Umizoomi "wikilink") ※当初はAmazonビデオで配信
-  - [ハイスクール・ニンジャ](https://ja.wikipedia.org/wiki/:en:Supah_Ninjas "wikilink") ※当初はAmazonビデオで配信
-  - [ラビッツ インベージョン](https://ja.wikipedia.org/wiki/:en:Rabbids_Invasion "wikilink") ※当初は[UBIJAPAN](https://www.youtube.com/user/UBIJAPAN)で配信 ※英語版
-  - [Wallykazam\!](https://ja.wikipedia.org/wiki/:en:Wallykazam! "wikilink") ※英語版
-  - [Shimmer and Shine](https://ja.wikipedia.org/wiki/:en:Shimmer_and_Shine "wikilink") ※英語版
-  - [Blaze and the Monster Machines](https://ja.wikipedia.org/wiki/:en:Blaze_and_the_Monster_Machines "wikilink") ※英語版
-  - ジョジョ・シワ『マイ・ワールド』 ※日本語字幕版
-  - [リップシンクバトル](https://ja.wikipedia.org/wiki/:en:Lip_Sync_Battle "wikilink") ハロウィンスペシャル ※日本語字幕版
-  - [うそつき吸血鬼](https://ja.wikipedia.org/wiki/:en:Liar,_Liar,_Vampire "wikilink") ※スペシャルドラマ ※日本語字幕版
-  - ロケット・パワー
-  - [バブル・グッピーズ](https://ja.wikipedia.org/wiki/バブル・グッピーズ "wikilink") ※英語教育アニメ
-  - [パウ・パトロール](https://ja.wikipedia.org/wiki/パウ・パトロール "wikilink") ※当初はテレビ東京系列で放送 ※英語教育アニメ
-  - [サム&キャット](https://ja.wikipedia.org/wiki/サム&キャット "wikilink") ※当初はNHKで放送 ※日本語字幕版
-  - [アルバート ～もみの木くんの夢～](https://ja.wikipedia.org/wiki/:en:Albert_\(2016_film\) "wikilink")
-  - レゴシティ アドベンチャーズ ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
-  - レゴ ジュラシック・ワールド：イスラ・ヌブラル島の伝説 ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
-  - ジミー・ニュートロン 僕は天才発明家\!
-  - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink")
-
-### ニコロデオン（1998年 - 2009年）撤退後に日本で放送・配信された番組
+#### ニコロデオン（1998年 - 2009年）撤退後に日本で放送・配信された番組
 
 『スポンジ・ボブ』などスカパー\!撤退前から放送されていた番組は除く。
 

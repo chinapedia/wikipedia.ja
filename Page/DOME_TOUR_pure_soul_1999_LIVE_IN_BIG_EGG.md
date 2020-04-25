@@ -33,4 +33,4 @@
   - **"3年後" NEW EDITON**
   - **LIVE PHOTO GALLERY**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:1999年のコンサート](https://ja.wikipedia.org/wiki/Category:1999年のコンサート "wikilink") [Category:1999年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1999年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:1999年のコンサート](https://ja.wikipedia.org/wiki/Category:1999年のコンサート "wikilink") [Category:1999年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1999年のライブ・ビデオ "wikilink") [Category:2003年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2003年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

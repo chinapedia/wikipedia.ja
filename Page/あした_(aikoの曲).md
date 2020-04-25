@@ -29,7 +29,7 @@
   - [ポニーキャニオンディスコグラフィ（8cm盤）](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=199800000608&DSP_SKHKETSEQ=001)
   - [ポニーキャニオンディスコグラフィ（12cm盤）](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700000366&DSP_SKHKETSEQ=001)
 
-[Category:1998年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1998年のデビュー・シングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:小森田実が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小森田実が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:1998年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1998年のデビュー・シングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:小森田実が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小森田実が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.
 2.

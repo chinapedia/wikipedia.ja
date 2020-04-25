@@ -1,7 +1,7 @@
 > この記事は[タブロイドTV](https://ja.wikipedia.org/wiki/タブロイドTV)から翻訳されています。
 
 
-『**タブロイドTV**』（タブロイドテレビ）は、[1993年](../Page/1993年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週火曜 23:25 - 23:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**タブロイドTV**』（タブロイドテレビ）は、[1993年](../Page/1993年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")』枠で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週火曜 23:25 - 23:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 

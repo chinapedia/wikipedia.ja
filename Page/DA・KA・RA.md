@@ -47,7 +47,7 @@
 
 ## 脚注
 
-[Category:大黒摩季の楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季の楽曲 "wikilink") [Category:大黒摩季が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:カップ麺のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カップ麺のコマーシャルソング "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink")
+[Category:大黒摩季の楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季の楽曲 "wikilink") [Category:大黒摩季が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:カップ麺のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カップ麺のコマーシャルソング "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  <https://www.cinra.net/interview/201611-ohguromaki?page=3>
 2.  大黒摩季『ありがとうなんて絶対言わない』（祥伝社）39頁

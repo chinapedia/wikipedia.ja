@@ -601,10 +601,10 @@
 
 ## 外部リンク
 
-  - [名護市におけるテレビジョン放送の難視聴の解消 - 沖縄本島北部地域難視聴解消事業により整備するテレビジョン放送中継局への予備免許 -](http://warp.da.ndl.go.jp/info:ndljp/pid/997626/www.soumu.go.jp/soutsu/okinawa/hodo/2000/00_02_09.html) - 総務省沖縄総合通信事務所(平成12年度報道資料)
-  - [名護市におけるテレビジョン放送の難視聴の解消 - 沖縄本島北部地域難視聴解消事業により整備するテレビジョン放送中継局への免許 -](http://warp.da.ndl.go.jp/info:ndljp/pid/997626/www.soumu.go.jp/soutsu/okinawa/hodo/2000/00_03_22_2.html) - 総務省沖縄総合通信事務所(平成12年度報道資料)
-  - [地上デジタルテレビジョン放送局に予備免許～今帰仁、佐敷及び久米島の中継局～](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_10_31-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
-  - [地上デジタルテレビジョン放送中継局に免許～今帰仁、佐敷及び久米島中継局～](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_11_30-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
+  - [名護市におけるテレビジョン放送の難視聴の解消 - 沖縄本島北部地域難視聴解消事業により整備するテレビジョン放送中継局への予備免許 -](https://warp.da.ndl.go.jp/info:ndljp/pid/997626/www.soumu.go.jp/soutsu/okinawa/hodo/2000/00_02_09.html) - 総務省沖縄総合通信事務所(平成12年度報道資料)
+  - [名護市におけるテレビジョン放送の難視聴の解消 - 沖縄本島北部地域難視聴解消事業により整備するテレビジョン放送中継局への免許 -](https://warp.da.ndl.go.jp/info:ndljp/pid/997626/www.soumu.go.jp/soutsu/okinawa/hodo/2000/00_03_22_2.html) - 総務省沖縄総合通信事務所(平成12年度報道資料)
+  - [地上デジタルテレビジョン放送局に予備免許～今帰仁、佐敷及び久米島の中継局～](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_10_31-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
+  - [地上デジタルテレビジョン放送中継局に免許～今帰仁、佐敷及び久米島中継局～](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2007/07_11_30-01.html) - 総務省沖縄総合通信局(2007年10月31日プレスリリース・平成19年度報道資料)
   - [呉我・運天原を含むデジタル中継局置局予定(参考リンク)](http://www.soumu.go.jp/soutsu/okinawa/hodo/2010/10_07_21-01.html#bessi_top)
 
 ## 関連項目

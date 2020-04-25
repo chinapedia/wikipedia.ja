@@ -28,7 +28,7 @@ Sテーブルの値を16進数で表すと次のようになる。
 
 ## MD2 ハッシュ値
 
-128ビット（16バイト）の MD2 のハッシュ値（これを *message digests* とも呼ぶ）は、通常32桁の[16進数で表される](https://ja.wikipedia.org/wiki/十六進記数法 "wikilink")。以下に 43バイトの [ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")を入力として MD2 のハッシュ値を得る様子を示す。
+128ビット（16バイト）の MD2 のハッシュ値（これを *message digests* とも呼ぶ）は、通常32桁の[16進数で表される](https://ja.wikipedia.org/wiki/十六進記数法 "wikilink")。以下に 43バイトの [ASCII](../Page/ASCII.md "wikilink")を入力として MD2 のハッシュ値を得る様子を示す。
 
 ` MD2("The quick brown fox jumps over the lazy dog")`
 `  = 03d85a0d629d2c442e987525319fc471`

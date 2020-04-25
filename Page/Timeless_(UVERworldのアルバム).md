@@ -45,30 +45,32 @@
         1stシングル「[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")」のカップリング曲「ai ta 心」のアルバムバージョン。間奏が短くなっており、歌詞も多少アレンジされている。
 7.  **Burst**\[2:53\]
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
-      -
-        ライブでは定番となった曲。ライブでこの曲を歌うときに、終盤あたりの間奏でメンバーとファンが一斉に連続でジャンプする部分がある。このジャンプもライブでは定番となっている。
-8.  **Nitro**\[3:34\]
+
+ライブでこの曲を歌うときに、終盤の間奏でメンバーとファンが一斉に連続でジャンプする部分がある。このジャンプもライブでは定番となっている。
+
+1.  **Nitro**\[3:34\]
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞ , 彰　/　編曲:UVERworld , 平出悟</small>**
-      -
-        ライブの定番曲。2006年の[9月12日](../Page/9月12日.md "wikilink")に行われた、滋賀県のラジオ局[e-radio主催の](../Page/エフエム滋賀.md "wikilink")、HUCKLEBERRYでのライブイベント"<small>〜High 10sion e-radio presents〜</small> UVERworld Premium Live"に冒頭で披露された。この時、e-radioの投票で1位になった。曲名の由来は名前通り「[ニトログリセリン](../Page/ニトログリセリン.md "wikilink")」。
-9.  **[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink") <small>(Album Version)</small>**\[5:38\]
+
+2006年の[9月12日](../Page/9月12日.md "wikilink")に行われた、滋賀県のラジオ局[e-radio主催の](../Page/エフエム滋賀.md "wikilink")、HUCKLEBERRYでのライブイベント"<small>〜High 10sion e-radio presents〜</small> UVERworld Premium Live"に冒頭で披露された。この時、e-radioの投票で1位になった。曲名の由来は名前通り「[ニトログリセリン](../Page/ニトログリセリン.md "wikilink")」。
+
+1.  **[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink") <small>(Album Version)</small>**\[5:38\]
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞ , 彰　/　編曲:UVERworld , 平出悟</small>**
       -
         3rdシングルのアルバムバージョンであり、TAKUYA∞と彰が初めて合同で制作した曲。シングルバージョンよりイントロが長くなっている。
         ちなみに、この長いイントロはUVERworldの前身であるsound極road時代に作った「癒音」と同じである。
-10. **Lump Of Affection**\[4:25\]
+2.  **Lump Of Affection**\[4:25\]
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
         インディーズ時代から存在した曲。メッセージ性が強く、この世の中で苦しみながら生きている、不良やニート、自殺などといった社会問題に対して歌っている曲である。インディーズ時代のタイトルは「**LAMP OF AFFECTION**」。
-11. **扉**\[5:29\]
+3.  **扉**\[5:29\]
     :\***<small>作詞:TAKUYA∞ , Alice ice　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
         インディーズ時代の[2002年](../Page/2002年.md "wikilink")頃から存在した曲。インディーズ時代の扉のタイトル名は「**TOVILA(〜tie senses〜)**」。今でも死んでいない曲だったためアルバムに入れたとTAKUYA∞は語る。
-12. **SE**\[3:10\]
+4.  **SE**\[3:10\]
     :\***<small>作曲:UVERworld　/　編曲:UVERworld , 平出悟</small>**
       -
         [器楽曲](../Page/器楽曲.md "wikilink")に近い構成になっている、インストナンバー。ライブでの出囃子によく使われていたが、"UVERworld BUGRIGHT TOUR 2007"を最後に使われなくなり、次のライブからは殆ど3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』収録の「to the world (SE)」が使用されている。しかし、初の[日本武道館](../Page/日本武道館.md "wikilink")公演となる"<small>[POCARI SWEAT](https://ja.wikipedia.org/wiki/POCARI_SWEAT "wikilink") presents</small> UVERworld 2008 Premium Live at NIPPON BUDOKAN"と、同じく初の[大阪城ホール](../Page/大阪城ホール.md "wikilink")公演となる"<small>POCARI SWEAT presents</small> UVERworld 2008 Premium Live at OSAKA-JO HALL"ではライブの初めに「SE」が使用された。45秒目ほどに流れる「UVERworld」という声でファンは一気に盛り上がる。また、UVERworld初のライブDVD『[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")』や、6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」の初回生産限定版の付属DVD「2006 TOUR DOCUMENT」や、ネット配信限定の番組「UVER家のTV」の最初の放送の冒頭でよく流される曲でもある。歌詞は存在しない。このアルバムのボーナストラックである。
-13. **D-tecnoLife <small>(Album Version)</small>**\[4:33\]
+5.  **D-tecnoLife <small>(Album Version)</small>**\[4:33\]
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
         前曲「**SE**」と繋がっている。曲の最初に、ライブのアンコール時の最後の曲を歌うようなTAKUYA∞の語りが入る。このCDだと曲の出だしに「BREAK OUT」と聞こえる箇所があるが、ライブでは一度も言ったことが無く、2ndアルバムのタイトルにもなった"**[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")**"といっている。イントロの部分がインディーズ時代のバンド、sound極road時代の曲「**D-tecnoRize**」という曲のイントロに非常に似ており、このアルバムバージョンの曲は「D-tecnoRize」を元に作られた曲と思われる。「SE」と同様、このアルバムのボーナストラックである。

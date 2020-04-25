@@ -34,7 +34,7 @@
   - 2006年12月1日、[ウィルコム](../Page/ウィルコム.md "wikilink")と提携し、携帯電話におけるストリーミング放送を開始。翌年4月19日からは[FOMA](../Page/FOMA.md "wikilink")にもサービスを拡大\[5\]。
   - 2007年1月1日、J-WAVEとの一部サイマル放送を開始。
   - 2007年4月9日、聴取登録者数が20万人を突破。同日、[Windows Vista対応のオリジナル](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")[ガジェット](https://ja.wikipedia.org/wiki/ガジェット "wikilink")リリース。
-  - 2007年4月26日、[電通](../Page/電通.md "wikilink")と[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")による[Internet Explorer対応](../Page/Internet_Explorer.md "wikilink")[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")「[kikeruツールバー](https://ja.wikipedia.org/wiki/kikeruツールバー "wikilink")」に対応。
+  - 2007年4月26日、[電通](../Page/電通.md "wikilink")と[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")による[Internet Explorer対応](../Page/Internet_Explorer.md "wikilink")[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")「[kikeruツールバー](https://ja.wikipedia.org/wiki/kikeruツールバー "wikilink")」に対応。
   - 2007年10月1日、本放送開始1周年。サイマル放送拡大のほか、放送プログラムを一新。
   - 2008年10月、番組構成を一新。
   - 2009年4月1日、番組構成を一新、サービス時間を変更。

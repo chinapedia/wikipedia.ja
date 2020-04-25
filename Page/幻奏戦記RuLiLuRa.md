@@ -353,7 +353,7 @@ Ru/Li/Lu/Ra公式ページ及び[ゲームぎゃざ](../Page/ゲームぎゃざ.
 
   - ラジオドラマ声優一覧
       - タンジェント・パスカル … [倉田雅世](../Page/倉田雅世.md "wikilink")
-      - コサイン・パスカル … [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")
+      - コサイン・パスカル … [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")
       - サイン・パスカル … [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")
       - ウイグル郷田 … [矢尾一樹](../Page/矢尾一樹.md "wikilink")
       - ジョニー乱堂 … [岩田光央](../Page/岩田光央.md "wikilink")
@@ -364,7 +364,7 @@ Ru/Li/Lu/Ra公式ページ及び[ゲームぎゃざ](../Page/ゲームぎゃざ.
 
 ### 王立温泉ルリルラ
 
-[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")3月にかけて、[文化放送](../Page/文化放送.md "wikilink")と[BSQR](https://ja.wikipedia.org/wiki/BSQR "wikilink")より毎週金曜日26:00～26:30（[BSQR](https://ja.wikipedia.org/wiki/BSQR "wikilink")は[2002年](../Page/2002年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")より放送、毎週木曜日22:00～22:30）に放送されたラジオ番組。パーソナリティは[榎本温子](../Page/榎本温子.md "wikilink")・[かかずゆみ](../Page/かかずゆみ.md "wikilink")・[折笠富美子](../Page/折笠富美子.md "wikilink")。本放送内では、ラジオドラマとして「ルリルラ戦場シリーズ」が放送された。このラジオドラマは、前放送にあたる「[英雄様いらっしゃ～い](https://ja.wikipedia.org/wiki/英雄様いらっしゃ～い "wikilink")」のギャグ路線とは異なり、シリアス展開のものとなっている。また、[2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")には、本番組から「王立温泉ルリルラCD！」というボーカル曲集も発売された。
+[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")3月にかけて、[文化放送](../Page/文化放送.md "wikilink")で毎週金曜日26:00～26:30、[BSQR](https://ja.wikipedia.org/wiki/BSQR "wikilink")は[2003年](../Page/2003年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")より放送、毎週木曜日22:00～22:30に放送されたラジオ番組。パーソナリティは[榎本温子](../Page/榎本温子.md "wikilink")・[かかずゆみ](../Page/かかずゆみ.md "wikilink")・[折笠富美子](../Page/折笠富美子.md "wikilink")。本放送内では、ラジオドラマとして「ルリルラ戦場シリーズ」が放送された。このラジオドラマは、前放送にあたる「[英雄様いらっしゃ～い](https://ja.wikipedia.org/wiki/英雄様いらっしゃ～い "wikilink")」のギャグ路線とは異なり、シリアス展開のものとなっている。また、[2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")には、本番組から「王立温泉ルリルラCD！」というボーカル曲集も発売された。
 
 なお、ラジオドラマは「アリシア編」「クローディア編」「リベラル編」の3本が放送されたが、現在ドラマCD化されているのは「アリシア編」のみである。
 

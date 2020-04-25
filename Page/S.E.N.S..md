@@ -107,7 +107,7 @@
   - [xxxHOLiC](../Page/XXXHOLiC.md "wikilink")（2006年4月 - 9月）S.E.N.S. Project名義
   - [xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink")（2008年4月 - 6月）S.E.N.S. Project名義
   - [源氏物語千年紀 Genji](https://ja.wikipedia.org/wiki/源氏物語千年紀_Genji "wikilink")（2009年1月 - 3月）S.E.N.S. Project名義
-  - [君に届け](../Page/君に届け.md "wikilink")（2009年10月 - 2010年3月）S.E.N.S. Project名義
+  - [君に届け](../Page/君に届け.md "wikilink")（2009年10月 - 2010年3月）S.E.N.S. Project名義\[1\]
   - [君に届け 2ND SEASON](../Page/君に届け.md "wikilink")（2011年1月 - 3月）- S.E.N.S. Project名義
   - [豆富小僧](https://ja.wikipedia.org/wiki/豆富小僧 "wikilink")（2011年4月29日公開）S.E.N.S. Project名義
   - [西武鉄道](../Page/西武鉄道.md "wikilink")100周年・[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")50周年記念「[でででん](https://ja.wikipedia.org/wiki/でででん "wikilink")」（2015年2月公開）
@@ -488,3 +488,5 @@
   -
   -
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本の映画音楽の作曲家](https://ja.wikipedia.org/wiki/Category:日本の映画音楽の作曲家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink")
+
+1.

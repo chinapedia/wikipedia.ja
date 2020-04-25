@@ -76,7 +76,7 @@
 
 <references/>
 
-[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:yukihiroが制作した楽曲](https://ja.wikipedia.org/wiki/Category:yukihiroが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:世界を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:世界を題材とした楽曲 "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink")
+[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:yukihiroが制作した楽曲](https://ja.wikipedia.org/wiki/Category:yukihiroが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:世界を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:世界を題材とした楽曲 "wikilink") [Category:楽曲_に](https://ja.wikipedia.org/wiki/Category:楽曲_に "wikilink")
 
 1.  『WORDS L'Arc〜en〜Ciel』p.86、角川書店、2005年
 2.  『WORDS L'Arc〜en〜Ciel』p.111-p.112、角川書店、2005年

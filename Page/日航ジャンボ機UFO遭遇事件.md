@@ -54,8 +54,8 @@
 
 ## 外部サイト
 
-  - [Unidentified Traffic Sighting by Japanese Airline Flight 1628. Novmber 18, 1986. ANC ARTCC 日航1628便による未確認飛行物体の目撃（英語）](http://siriusdisclosure.com/wp-content/uploads/2013/03/Callahan-Introduction.pdf) [ディスクロージャー・プロジェクトによる機密書類公開](https://ja.wikipedia.org/wiki/UFOディスクロージャー・プロジェクト "wikilink")
-  - [職員の証言（英語）](http://siriusdisclosure.com/wp-content/uploads/2013/03/Callahan-Personnel-Statements.pdf) [ディスクロージャー・プロジェクトによる機密書類公開](https://ja.wikipedia.org/wiki/UFOディスクロージャー・プロジェクト "wikilink")
+  - [Unidentified Traffic Sighting by Japanese Airline Flight 1628. Novmber 18, 1986. ANC ARTCC 日航1628便による未確認飛行物体の目撃（英語）](https://siriusdisclosure.com/wp-content/uploads/2013/03/Callahan-Introduction.pdf) [ディスクロージャー・プロジェクトによる機密書類公開](https://ja.wikipedia.org/wiki/UFOディスクロージャー・プロジェクト "wikilink")
+  - [職員の証言（英語）](https://siriusdisclosure.com/wp-content/uploads/2013/03/Callahan-Personnel-Statements.pdf) [ディスクロージャー・プロジェクトによる機密書類公開](https://ja.wikipedia.org/wiki/UFOディスクロージャー・プロジェクト "wikilink")
   - [17　【CIAが隠ぺいしていたUFO事件】日航ジャンボ機UFO遭遇事件 - \[著](https://inumimi.papy.co.jp/inmm/sc/kiji/1-1102059-84/)ASIOS - 犬耳書店\] - [皆神龍太郎](../Page/皆神龍太郎.md "wikilink")による解説。
 
 [Category:日本航空の歴史](https://ja.wikipedia.org/wiki/Category:日本航空の歴史 "wikilink") [Category:未確認飛行物体](https://ja.wikipedia.org/wiki/Category:未確認飛行物体 "wikilink") [Category:1986年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1986年のアメリカ合衆国 "wikilink") [Category:アラスカ州の歴史](https://ja.wikipedia.org/wiki/Category:アラスカ州の歴史 "wikilink") [Category:アラスカ州の交通](https://ja.wikipedia.org/wiki/Category:アラスカ州の交通 "wikilink") [Category:アメリカ合衆国の事件_(1945年-1989年)](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の事件_\(1945年-1989年\) "wikilink") [Category:1986年11月](https://ja.wikipedia.org/wiki/Category:1986年11月 "wikilink")

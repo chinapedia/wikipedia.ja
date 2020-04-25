@@ -111,11 +111,15 @@ style="font-size:1em"|Net Applications社
 
 2020年1月14日現在、マイクロソフトがサポートしているInternet Explorerは、Windows Serverを含めInternet Explorer11のみである\[38\]。
 
-以前の Internet Explorer のサポートライフサイクルはインストールしているWindowsと同一だったが、2014年8月にサポート方針が変更され、太平洋時間2016年1月12日から各Windowsにインストール可能な最新版の Internet Explorer のみサポートするという変更が発表された\[39\]。対象となるのは同日付けでサポート期間中の Windows Vista SP2 以降のクライアントと Windows Server 2008 SP2 以降のサーバー（Windows Embedded 製品も対象に含まれる）、それにインストール可能な最新版の Internet Explorer となる。同日までは各 Windows で使用可能な複数のバージョンの Internet Explorer の修正プログラムの新規開発が行われるが、同日からは各 Windows の最新版の Internet Explorer 用の修正プログラムのみ公開される。例えば、Windows Vista では Internet Explorer 7 と Internet Explorer 8 のサポートが2016年1月11日を最後に終了し、翌日以降は Internet Explorer 9 のみサポート継続となり、2017年4月11日に Windows Vista 自体のサポートが終了した。
+以前の Internet Explorer のサポートライフサイクルはインストールしているWindowsと同一だったが、2014年8月にサポート方針が変更され、太平洋時間2016年1月12日から各Windowsにインストール可能な最新版の Internet Explorer のみサポートするという変更が発表された\[39\]。対象となるのは同日付けでサポート期間中の Windows Vista SP2 以降のクライアントと Windows Server 2008 SP2 以降のサーバー（Windows Embedded 製品も対象に含まれる）、それにインストール可能な最新版の Internet Explorer となる。
 
-2019年4月16日より、R2 にアップデートしていない Windows Server 2012 や Windows Embedded 8 Standard でも Internet Explorer 11 が利用可能になり\[40\]、2020年1月14日にこれらの OS での Internet Explorer 10 のサポートを終了させる\[41\]。
+2016年1月12日までは各 Windows で使用可能な複数のバージョンの Internet Explorer の修正プログラムの新規開発が行われるが、同日からは各 Windows の最新版の Internet Explorer 用の修正プログラムのみ公開される。例えば、Windows Vista では Internet Explorer 7 と Internet Explorer 8 のサポートが2016年1月11日を最後に終了し、翌日以降は Internet Explorer 9 のみサポート継続となり、2017年4月11日に Windows Vista 自体のサポートが終了した。
 
-Windows 10ではOS標準ブラウザが[Microsoft Edgeへと正式に切り替わり](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、Internet Explorerの開発は事実上終了した。一方、Windows 10には互換性維持のためにInternet Explorer 11が引き続きバンドルされている。Windows 10はサポートポリシーがこれまでより大きく変更され、アップデートを続ける限り半永久的な使用が可能である。したがってこれまでのサポートポリシーをそのまま適用するならば、Internet Explorer 11がバンドルされ続ける限りは半永久的にサポートが継続されることを意味するため、Internet Explorerの完全なサポート終了およびEdgeへの正式移行の時期は不明である。Windows 10 Enterprise 2015 LTSB のサポート期限の2025年10月14日までという話も合ったが\[42\]、2018年7月現在、マイクロソフトは明言を避けている\[43\]。なお、そのEdgeも2018年12月6日に独自エンジンの開発を終了させ、2020年1月15日\[44\]に[Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")ベースのエンジンに切り替えられた\[45\]。
+2019年4月16日より、R2 にアップデートしていない Windows Server 2012 や Windows Embedded 8 Standard でも Internet Explorer 11 が利用可能になり\[40\]、2020年1月14日にこれらの OS での Internet Explorer 10 のサポートを終了させた\[41\]。
+
+Windows 10ではOS標準ブラウザが[Microsoft Edgeへと正式に切り替わり](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、Internet Explorerの開発は終了した。一方、Windows 10には互換性維持のためにInternet Explorer 11が引き続きバンドルされている。Windows 10はサポートポリシーがこれまでより大きく変更され、アップデートを続ける限り半永久的な使用が可能である。したがってこれまでのサポートポリシーをそのまま適用するならば、Internet Explorer 11がバンドルされ続ける限りは半永久的にサポートが継続されることを意味するため、Internet Explorerの完全なサポート終了およびEdgeへの正式移行の時期は不明である。
+
+Windows 10 Enterprise 2015 LTSB のサポート期限の2025年10月14日までという話も合ったが\[42\]、2018年7月現在、マイクロソフトは明言を避けている\[43\]。なお Microsoft Edge も、2018年12月6日に独自エンジンの開発を終了させ、2020年1月15日\[44\]に[Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")ベースのエンジンに切り替えられた\[45\]。
 
 ## バージョン別のOS対応
 

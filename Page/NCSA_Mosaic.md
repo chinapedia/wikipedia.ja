@@ -1,7 +1,7 @@
 > この記事は[NCSA Mosaic](https://ja.wikipedia.org/wiki/NCSA_Mosaic)から翻訳されています。
 
 
-**NCSA Mosaic** （エヌシーエスエー・モザイク）は、[米国立スーパーコンピュータ応用研究所](../Page/米国立スーパーコンピュータ応用研究所.md "wikilink")（NCSA）から、1993年にリリースされた[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。
+[NCSA_Mosaic_Browser_Screenshot.png](https://ja.wikipedia.org/wiki/File:NCSA_Mosaic_Browser_Screenshot.png "fig:NCSA_Mosaic_Browser_Screenshot.png") **NCSA Mosaic** （エヌシーエスエー・モザイク）は、[米国立スーパーコンピュータ応用研究所](../Page/米国立スーパーコンピュータ応用研究所.md "wikilink")（NCSA）から、1993年にリリースされた[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。
 
 ## 概要
 

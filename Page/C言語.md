@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - ソースコードの記述に使う文字集合はANSI-C:1989(ISO/IEC 9899:1990)では[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")を標準としている。他の[ISO 646でも書けるように](https://ja.wikipedia.org/wiki/ISO_646 "wikilink")、3文字利用した[トライグラフ](https://ja.wikipedia.org/wiki/トライグラフ "wikilink")と呼ばれる表記法も存在する。その後、ISO/IEC 9899:1995 AMDなどでは[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")セット対応の拡張を規定している。さらに、その後トライグラフは複数のコードを利用したシステムでしか利用がないため、より分かり易い2文字による[ダイグラフ](https://ja.wikipedia.org/wiki/ダイグラフ "wikilink")を規定している。
+  - ソースコードの記述に使う文字集合はANSI-C:1989(ISO/IEC 9899:1990)では[ASCII](../Page/ASCII.md "wikilink")を標準としている。他の[ISO 646でも書けるように](https://ja.wikipedia.org/wiki/ISO_646 "wikilink")、3文字利用した[トライグラフ](https://ja.wikipedia.org/wiki/トライグラフ "wikilink")と呼ばれる表記法も存在する。その後、ISO/IEC 9899:1995 AMDなどでは[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")セット対応の拡張を規定している。さらに、その後トライグラフは複数のコードを利用したシステムでしか利用がないため、より分かり易い2文字による[ダイグラフ](https://ja.wikipedia.org/wiki/ダイグラフ "wikilink")を規定している。
   - 組み込みの[整数型](../Page/整数型.md "wikilink")および[浮動小数点数](../Page/浮動小数点数.md "wikilink")型のほか、[構造体](../Page/構造体.md "wikilink")、[共用体](https://ja.wikipedia.org/wiki/共用体 "wikilink")、列挙体（[列挙型](../Page/列挙型.md "wikilink")）によるユーザー定義のデータ型や列挙定数をサポートする。構造体および共用体は[ビットフィールド](https://ja.wikipedia.org/wiki/ビットフィールド "wikilink")をサポートする。
 
 ### アセンブラとのインタフェース

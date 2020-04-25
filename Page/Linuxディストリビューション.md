@@ -59,6 +59,7 @@
       - [KANOTIX](https://ja.wikipedia.org/wiki/KANOTIX "wikilink") : DebianベースでCDブート/HDDインストール共可能。
       - [KNOPPIX](../Page/KNOPPIX.md "wikilink") : DebianをベースにCDブートで利用できるようにしている。
       - [MX Linux](../Page/MX_Linux.md "wikilink") : Debianをベースとした中量級のディストリビューション。
+      - [PureOS](https://ja.wikipedia.org/wiki/PureOS "wikilink") : 完全に自由ソフトウェアだけで構成されている、プライバシーとセキュリティ、利便性に重点を置いているGNU/Linuxディストリビューション。
       - [SLAX](../Page/SLAX.md "wikilink") : CDブートで利用できるようにしている。9.xより前のバージョンではSlackwareをベースにしていた。日本語化された\[<http://hatochan.dyndns.org/slax-ja/index.php>? SLAX-ja\]も存在する。
       - [Kona Linux](https://ja.wikipedia.org/wiki/Kona_Linux "wikilink")(Ubuntu Editionを除く): 最初から日本語化されており、LXDEからGNOME、KDE、Cinammonなど、いろいろなデスクトップ環境が選べるのが特徴。
       - [SteamOS](https://ja.wikipedia.org/wiki/SteamOS "wikilink") : ゲーム配信サービス[Steam](../Page/Steam.md "wikilink")の運営元が開発した[ゲーミングPC用OS](../Page/ゲームパソコン.md "wikilink")。
@@ -173,6 +174,7 @@
   - [Tiny Core Linux](https://ja.wikipedia.org/wiki/Tiny_Core_Linux "wikilink")：Damn Small Linuxの開発者の1人であったRobert Shingledeckerが中心となって開発が進められている。サイズが10MB程度しかないことが特徴。
   - [Slitaz](https://ja.wikipedia.org/wiki/Slitaz "wikilink")：Damn Small Linuxと共通する目的を多く共有するが、より最新の Linux 2.6 カーネルに基づき、より小さい。
       - [Tiny SliTaz](https://ja.wikipedia.org/wiki/Tiny_SliTaz "wikilink")：SliTazの派生で、[uClibc](https://ja.wikipedia.org/wiki/uClibc "wikilink")を使用し、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")からの起動が可能。
+  - [Dragora](https://ja.wikipedia.org/wiki/Dragora "wikilink") : 完全に自由ソフトウェアのみで構成される独自のGNU/Linuxディストリビューション。シンプルであることをコンセプトとしている。
 
 ### 開発停止
 

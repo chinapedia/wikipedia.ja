@@ -11,7 +11,7 @@ SMTPは[IETFにおいて](../Page/Internet_Engineering_Task_Force.md "wikilink")
 
 SMTP は[メールサーバ](https://ja.wikipedia.org/wiki/メールサーバ "wikilink")間の転送だけでなく、[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")からメールサーバにメールを送信するときにも使われる。この2つを元々は区別していなかったが[スパムなどを防ぐために現在では配送](../Page/スパム_\(メール\).md "wikilink")(transfer)と提出(submission)として分けて考え、メール配送の通信ではポート番号25をそのまま使うが、メール提出ではポート番号587で認証を必須とし暗号化する場合が多い。ポート番号25に接続しようとしても、ほとんどの[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")が[ブロックしている](../Page/Outbound_Port_25_Blocking.md "wikilink")。またポート番号587や[TLSで暗号化した場合のポート番号](../Page/Transport_Layer_Security.md "wikilink")465をSubmissionポートという\[4\]。
 
-SMTPは本来[テキスト](../Page/テキスト.md "wikilink")ベースのプロトコルであり、全ての要求/応答メッセージやメールデータが7[ビット](../Page/ビット.md "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")でなければならないという制限があったが、英語以外の言語やバイナリファイルを扱う需要があった。そのため、電子メールに[MIMEという規格がつくられ](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink")、SMTP自体にも8ビットで伝送する拡張が標準化された。
+SMTPは本来[テキスト](../Page/テキスト.md "wikilink")ベースのプロトコルであり、全ての要求/応答メッセージやメールデータが7[ビット](../Page/ビット.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")でなければならないという制限があったが、英語以外の言語やバイナリファイルを扱う需要があった。そのため、電子メールに[MIMEという規格がつくられ](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink")、SMTP自体にも8ビットで伝送する拡張が標準化された。
 
 ## プロトコル
 

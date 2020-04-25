@@ -3,7 +3,7 @@
 
 **NINTENDO64**（ニンテンドウろくじゅうよん\[1\]）は、[任天堂](../Page/任天堂.md "wikilink")が開発して[1996年](../Page/1996年.md "wikilink")に発売した[家庭用ゲーム機](../Page/ゲーム機.md "wikilink")。[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")の後継・次世代機種であり、略称は「**64（ロクヨン）**」、「**N64**」。3次元空間を自由に体感できるゲーム機として売り出され、[スーパーマリオ64](../Page/スーパーマリオ64.md "wikilink")のような自由な操作性を売りにするゲームが多数登場した。開発当時最高の[CGワークステーションメーカーだった](../Page/ワークステーション.md "wikilink")[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")の技術提供を受けており、発売から暫くの間、家庭用ゲーム機としては群を抜く性能を誇った。
 
-生産は既に終了しており、[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")をもって[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")と共に公式修理サポートを終了している。NINTENDO64で発売されたゲームソフトの一部は[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")や[Wii Uのゲームソフト配信サービスである](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で購入してプレイすることが可能である。
+[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")をもって[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")と共に公式修理サポートを終了している。
 
 ## 概要
 
@@ -21,11 +21,11 @@ CPUは当時グラフィックス[ワークステーション](../Page/ワーク
 
 コントローラは三つ又の独特な形状を採用。コントローラ中央にアナログスティック「3Dスティック（サンディスティック）」を装備\[5\]し、新しいゲーム感覚をアピールした。しかし、小さい子供に対してはコントローラが大きいという難点もあった。「レフトポジション」、「ライトポジション」、「ファミコンポジション」など、握り方が多数存在する特異なコントローラである。主に十字キーと3Dスティックで操作するレフトポジションを採用したソフトは片手で数えられるほどの少数で、A・B・Cユニット等の各種ボタン類と3Dスティックで操作するライトポジションのソフトが大半を占めた。また、それまでは2つが主流だったコントローラ端子は本体に標準で4つ用意されており、多人数プレイを想定した設計となっている。4人対戦対応ソフトも数多く開発された。
 
-それまでの[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink") ([NES](../Page/Nintendo_Entertainment_System.md "wikilink")) や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") ([SNES](../Page/Super_Nintendo_Entertainment_System.md "wikilink")) は名称・デザイン・ロゴマーク・内部仕様などが出荷国によってバラバラであったが、本機ではデザイン・配色はもとより、[韓国を除く全出荷地で](../Page/大韓民国.md "wikilink")「NINTENDO64」という名称に、本体の型番もNUS-001(XXX)、ピカチュウバージョンはNUS-101(XXX)（XXXには出荷国のコードが入る。日本ならJPN）に統一された。N64ロゴや各製品の製品名シールに採用されているフォントは[Frutiger](https://ja.wikipedia.org/wiki/Frutiger "wikilink")。 コントローラーや本体の一部のパーツにグレーが採用されているのは、スーパーファミコンのカラーリングに合わせたからという。
+それまでの[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink") ([NES](../Page/Nintendo_Entertainment_System.md "wikilink")) や[スーパーファミコン](../Page/スーパーファミコン.md "wikilink") ([SNES](../Page/Super_Nintendo_Entertainment_System.md "wikilink")) は名称・デザイン・ロゴマーク・内部仕様などが出荷国によってバラバラであったが、本機ではデザイン・配色はもとより、全出荷地で「NINTENDO64」という名称に、本体の型番もNUS-001(XXX)、ピカチュウバージョンはNUS-101(XXX)（XXXには出荷国のコードが入る。日本ならJPN）に統一された。N64ロゴや各製品の製品名シールに採用されているフォントは[Frutiger](https://ja.wikipedia.org/wiki/Frutiger "wikilink")。 コントローラーや本体の一部のパーツにグレーが採用されているのは、スーパーファミコンのカラーリングに合わせたからという。
 
 スーパーファミコンまでは本体に内蔵していたRFユニット（RFモジュレーター）だが、出荷国の放送規格に合わせるために出荷国によって基板を作り分けしなければならない要因であった。本機が発売された[1996年](../Page/1996年.md "wikilink")（平成8年）当時はRCAコンポジット端子を備えたテレビが既に普及していたことから、RFユニットは外付け・別売りとなった。
 
-本体側の電源端子の形状も統一され、ACアダプタ部分を除く分類ではカラーテレビの規格が[NTSC](../Page/NTSC.md "wikilink")方式を採用する日本・韓国向けのもの（前述のリージョンプロテクトとしてカートリッジ裏側の切り欠きが内側にある）、同じくNTSC方式を採用する[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")向けのもの（カートリッジ裏側の切欠きが外側にある）、[PAL](../Page/PAL.md "wikilink")方式を採用する[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")（主に[EU](https://ja.wikipedia.org/wiki/EU "wikilink")の西欧諸国）と[オセアニア](../Page/オセアニア.md "wikilink")（[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")）向けのものの3つに絞られている。韓国のみ当時任天堂製品のライセンス（販売権）を持っていた現代電子産業（現在の[ハイニックス半導体](https://ja.wikipedia.org/wiki/ハイニックス半導体 "wikilink")）が「ヒョンデ・コンボイ64」の名称を付けて発売し、本体には「64（コンボイ64）」と「NINTENDO64」のロゴが併記された。
+本体側の電源端子の形状も統一され、ACアダプタ部分を除く分類ではカラーテレビの規格が[NTSC](../Page/NTSC.md "wikilink")方式を採用する日本・韓国向けのもの（前述のリージョンプロテクトとしてカートリッジ裏側の切り欠きが内側にある）、同じくNTSC方式を採用する[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")向けのもの（カートリッジ裏側の切欠きが外側にある）、[PAL](../Page/PAL.md "wikilink")方式を採用する[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")（主に[EU](https://ja.wikipedia.org/wiki/EU "wikilink")の西欧諸国）と[オセアニア](../Page/オセアニア.md "wikilink")（[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")）向けのものの3つに絞られている。
 
 最終的に日本国内では554万台、国外で2,738万台、計3,292万台が出荷された。[中国は当時の中国の法律問題や違法コピーを危惧していたことから本機は出荷されなかったが](../Page/中華人民共和国.md "wikilink")、本機をベースにして携帯型・ダウンロード専用とした[iQue Playerが](https://ja.wikipedia.org/wiki/iQue_Player "wikilink")[2003年](../Page/2003年.md "wikilink")（平成15年）に発売された。
 

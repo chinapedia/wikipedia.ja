@@ -190,20 +190,23 @@ PCに搭載される[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows
 
 <references />
 
-## 関連項目
-
-  - [Domain Name System](../Page/Domain_Name_System.md "wikilink")
-  - [DNS64](https://ja.wikipedia.org/wiki/DNS64 "wikilink")
-  - [OpenDNS](https://ja.wikipedia.org/wiki/OpenDNS "wikilink")
-  - [Google Public DNS](https://ja.wikipedia.org/wiki/Google_Public_DNS "wikilink")
-  - [リゾルバ](../Page/リゾルバ.md "wikilink")
-  - [DNSルートゾーン](https://ja.wikipedia.org/wiki/DNSルートゾーン "wikilink")
-
 ## 外部リンク
 
   - [情報処理推進機構：DNSキャッシュポイズニングの脆弱性に関する注意喚起](https://www.ipa.go.jp/security/vuln/documents/2008/200809_DNS.html)
   - [日本DNSオペレーターズグループ](https://dnsops.jp/)
   - [JP DNS Web Page](http://www.dns.jp/)
+
+## 関連項目
+
+  - [Domain Name System](../Page/Domain_Name_System.md "wikilink")
+  - [ダイナミックドメインネームシステム](../Page/ダイナミックドメインネームシステム.md "wikilink")
+  - [リゾルバ](../Page/リゾルバ.md "wikilink")
+  - [DNSルートゾーン](https://ja.wikipedia.org/wiki/DNSルートゾーン "wikilink")
+  - [DNS over HTTPS](https://ja.wikipedia.org/wiki/DNS_over_HTTPS "wikilink")
+  - [DNS64](https://ja.wikipedia.org/wiki/DNS64 "wikilink")
+  - [1.1.1.1](https://ja.wikipedia.org/wiki/1.1.1.1 "wikilink")
+  - [OpenDNS](https://ja.wikipedia.org/wiki/OpenDNS "wikilink")
+  - [Google Public DNS](https://ja.wikipedia.org/wiki/Google_Public_DNS "wikilink")
 
 [de:Domain Name System\#Nameserver](https://ja.wikipedia.org/wiki/de:Domain_Name_System#Nameserver "wikilink")
 

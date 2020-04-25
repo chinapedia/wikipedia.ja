@@ -346,8 +346,6 @@
 
   - [藤子・F・不二雄ミュージアム 公式サイト](http://fujiko-museum.com/)
 
-  - [生誕80周年記念「藤子・F・不二雄展」](http://fujiko-f80.com/)
-
   -
 [Category:藤子・F・不二雄](https://ja.wikipedia.org/wiki/Category:藤子・F・不二雄 "wikilink") [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:SF漫画家](https://ja.wikipedia.org/wiki/Category:SF漫画家 "wikilink") [Category:トキワ荘](https://ja.wikipedia.org/wiki/Category:トキワ荘 "wikilink") [Category:結核に罹患した人物](https://ja.wikipedia.org/wiki/Category:結核に罹患した人物 "wikilink") [Category:アニメの脚本家](https://ja.wikipedia.org/wiki/Category:アニメの脚本家 "wikilink") [Category:富山県出身の人物](https://ja.wikipedia.org/wiki/Category:富山県出身の人物 "wikilink") [Category:1933年生](https://ja.wikipedia.org/wiki/Category:1933年生 "wikilink") [Category:1996年没](https://ja.wikipedia.org/wiki/Category:1996年没 "wikilink")
 

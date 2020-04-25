@@ -1,7 +1,7 @@
 > この記事は[Microsoft Windows 2000](https://ja.wikipedia.org/wiki/Microsoft_Windows_2000)から翻訳されています。
 
 
-**Windows 2000**（ウィンドウズ にせん\[1\]）はマイクロソフトが[Windows NT 4.0の後継バージョンとして発表した](https://ja.wikipedia.org/wiki/Microsoft_Windows_NT_4.0 "wikilink")[Windows NT系の](../Page/Windows_NT系.md "wikilink")[オペレーティング システムである](../Page/オペレーティングシステム.md "wikilink")。略称はWin2000、Win2k、W2K。[開発コードネームはCairo](../Page/コードネーム.md "wikilink")、NT 5.0\[2\]。
+**Windows 2000**（ウィンドウズ にせん\[1\]）はマイクロソフトの[Windows NT 4.0の後継であり](https://ja.wikipedia.org/wiki/Microsoft_Windows_NT_4.0 "wikilink")（NTとしてのバージョンは5.0）、同時に同社のWindowsのメインストリームが最初のバージョンからWin95系を経て、やっとのことで悲願であった「本格的なOS」と言える、いわゆる「NT系」に移行した最初のバージョンでもある。。\[2\]（なお実際の「[Cairo](https://ja.wikipedia.org/wiki/Cairo_\(オペレーティングシステム\) "wikilink")」は幻となった系列のWindowsのコードネームであり、当初はWin95はCairoであると盛んに宣伝されていたため、そのようなMS社のマーケティングが根本的な原因で、しばしば混乱がある）
 
 ## 概要
 

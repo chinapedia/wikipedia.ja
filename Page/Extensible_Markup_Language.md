@@ -19,6 +19,10 @@ XMLは、個別の目的に応じた[マークアップ言語](../Page/マーク
 
 XMLの最も重要な目的は、異なる[情報システム](../Page/情報システム.md "wikilink")の間で、特に[インターネット](../Page/インターネット.md "wikilink")を介して、構造化された文書や構造化されたデータの共有を、容易にすることである\[2\]。XMLを使うと、文書を構造化して記述できるし、[コンピュータ](../Page/コンピュータ.md "wikilink")のデータを[直列化](../Page/シリアライズ.md "wikilink") （シリアライズ） できる。データを直列化する用途でXMLを使う際には、XMLは、[JavaScript Object Notation](../Page/JavaScript_Object_Notation.md "wikilink") (JSON) や[YAML](../Page/YAML.md "wikilink")などの、[テキストを基にした他の直列化言語と比較衡量できる](../Page/プレーンテキスト.md "wikilink")\[3\]。
 
+### HTMLとXMLの違い
+
+XMLは、ユーザが定義したタグを用いて文章構造を記述するマークアップ言語である。HTMLが、Webページを記述するための言語であるのに対して、XMLは、データ交換のための汎用のデータ形式である。HTMLで使用するタグはあらかじめ定義済みのものだが、XMLではユーザが新しくタグを定義して、データの意味や構造を記述することが可能である。
+
 ### XMLを基盤とするマークアップ言語とスキーマ言語
 
 XMLで文書の論理的構造を規定する制約を追加することによって、XMLを適用したマークアップ言語を[実装](../Page/実装.md "wikilink")できる。XMLを適用したマークアップ言語は非常に多く存在している （[\#XMLの応用](https://ja.wikipedia.org/wiki/#XMLの応用 "wikilink")の節を参照）。例えば、[Extensible HyperText Markup Language](../Page/Extensible_HyperText_Markup_Language.md "wikilink") (XHTML)\[4\]、[DocBook](../Page/DocBook.md "wikilink")、[RSS](../Page/RSS.md "wikilink")、[Mathematical Markup Language](../Page/Mathematical_Markup_Language.md "wikilink") (MathML)、[ebXML](https://ja.wikipedia.org/wiki/ebXML "wikilink")、[Scalable Vector Graphics](../Page/Scalable_Vector_Graphics.md "wikilink") (SVG)、[MusicXML](../Page/MusicXML.md "wikilink") などがある。さらにXMLは、そういった個別のXMLについての構文規則を示すための[スキーマ言語](../Page/スキーマ言語.md "wikilink")も用意している。スキーマ自体もXMLの[XML Schemaの他](https://ja.wikipedia.org/wiki/XML_Schema "wikilink")、XMLではない記法でとても簡潔に大変わかりやすく書ける、Compact Syntaxも用意されている[RELAX NGもある](../Page/RELAX_NG.md "wikilink")。

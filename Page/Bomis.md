@@ -1,7 +1,7 @@
 > この記事は[Bomis](https://ja.wikipedia.org/wiki/Bomis)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Silvia_Saint_001.jpg "wikilink")\]\] **Bomis, Inc.**（ボミス・インク）は、1996年設立のインターネット企業であり、主要事業は検索エンジンポータル「bomis.com」（2010年頃閉鎖\[1\]）での広告販売であった。フリー百科事典プロジェクト[Nupedia](https://ja.wikipedia.org/wiki/Nupedia "wikilink")および[ウィキペディア](../Page/ウィキペディア.md "wikilink")に資金援助をおこなった。2006年以来、ティム・シェルがCEO（最高経営責任者）を務めていた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Silvia_Saint_001.jpg "wikilink")\]\] **Bomis, Inc.**（ボミス・インク）は、1996年設立のインターネット企業であり、主要事業は検索エンジンポータル「bomis.com」（2010年頃閉鎖\[1\]）での広告販売であった。フリー百科事典プロジェクト[Nupedia](https://ja.wikipedia.org/wiki/Nupedia "wikilink")および[ウィキペディア](../Page/ウィキペディア.md "wikilink")に資金援助をおこなった。2006年以来、[ティム・シェル](../Page/ティム・シェル.md "wikilink")がCEO（最高経営責任者）を務めていた。
 
 ## 概要
 

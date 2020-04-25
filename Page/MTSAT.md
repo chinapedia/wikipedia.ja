@@ -97,7 +97,7 @@ MTSAT-2はH-IIAロケット9号機によって日本時間[2006年](../Page/2006
 
 ## 参考文献
 
-  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](http://www.jaxa.jp/press/nasda/2000/h28_000414_j.html)
+  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](https://www.jaxa.jp/press/nasda/2000/h28_000414_j.html)
 
 ## 関連項目
 

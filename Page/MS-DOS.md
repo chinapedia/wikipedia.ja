@@ -1,7 +1,7 @@
 > この記事は[MS-DOS](https://ja.wikipedia.org/wiki/MS-DOS)から翻訳されています。
 
 
-**MS-DOS**（エムエス-ディーオーエス、エムエスドス\[1\]）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発・販売していた、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")向けの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MS-DOS_6.2V_floppy_disks.jpg "wikilink") **MS-DOS**（エムエス-ディーオーエス、エムエスドス\[1\]）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発・販売していた、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")向けの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。
 
 ## 概要
 

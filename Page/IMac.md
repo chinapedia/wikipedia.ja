@@ -5,13 +5,15 @@
 
 [デザイン](../Page/デザイン.md "wikilink")や内部[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")は当初のものから大きく変化しているが、2017年時点でもディスプレイ一体型デスクトップ機として販売されており、[ノートタイプの](../Page/ノートパソコン.md "wikilink")[MacBook](../Page/MacBook.md "wikilink")とともに、アップル社の主軸をなす商品である。
 
+スティーブ・ジョブズ復帰後のアップル社は、iMac発売後、[iBook](https://ja.wikipedia.org/wiki/iBook "wikilink")、[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")を発売しており、iMacは、同社の「i」を冠する製品のラインナップの源流に位置付けられる。
+
 ## 概要
 
 [ギル・アメリオ](../Page/ギル・アメリオ.md "wikilink")CEOの元で開発が始まったとされているが\[1\]、デザインの責任者[ジョナサン・アイブ](../Page/ジョナサン・アイブ.md "wikilink")によると開発当初から、（[NeXT](../Page/NeXT.md "wikilink")社買収でアップルに復帰した）[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")が主導した製品であり\[2\]、ラディカルなデザインのiMacはパソコンの歴史においてエポックメイキングなものとなった。開発はアップル社内のごく限られた人数で構成されたチームにより極秘裏に進められ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月6日](../Page/5月6日.md "wikilink")に行われたジョブズによる発表会\[3\]で初めてiMacの存在を知った社員がほとんどであった\[4\]。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Apple_iMac_USB_mouse.jpg "wikilink") 15インチ[CRTを装備した一体型のケース](../Page/ブラウン管.md "wikilink")、[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、果ては電源ケーブル、付属のモジュラーケーブルにいたるまで半透明（トランスルーセント）で統一された斬新なデザイン\[5\]や、ボンダイブルー（アップルによる造語、[シドニー](../Page/シドニー.md "wikilink")にある[ボンダイビーチ](https://ja.wikipedia.org/wiki/ボンダイビーチ "wikilink")から）と呼ばれた印象的なカラー、1億ドルを超える大規模マーケティングキャンペーンが展開されたこと\[6\]、178,000円\[7\]（当時）という低価格が広く受け入れられ、4ヶ月で80万台出荷\[8\]というヒット商品となり、それまで経営危機が囁かれていたアップルの復活を強く印象づけた（実際には1997年第4四半期に黒字化している）。
 
-従来のパソコンのイメージを覆す大胆なデザイン（[eMate 300のデザインコンセプトを継承したもの](https://ja.wikipedia.org/wiki/eMate_300 "wikilink")）はその後の半透明グッズブームの発端となった。そして商品名に「i」を冠するネーミングの流行の火付け役にもなった。
+従来のパソコンのイメージを覆す大胆なデザイン（[eMate 300のデザインコンセプトを継承したもの](https://ja.wikipedia.org/wiki/eMate_300 "wikilink")）はその後の半透明グッズブームの発端となった。
 
 初代のiMacは、アップルが[レガシーデバイス](../Page/レガシーデバイス.md "wikilink")と考えたもの（[RS-422](../Page/EIA-422.md "wikilink")[シリアルポート](../Page/シリアルポート.md "wikilink")、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")、[ADB](../Page/Apple_Desktop_Bus.md "wikilink")、[SCSI](../Page/Small_Computer_System_Interface.md "wikilink")）を廃し、[USBを全面的に採用するという斬新な仕様で発売された](../Page/ユニバーサル・シリアル・バス.md "wikilink")。iMacがUSBを全面採用したことで、USBを採用した[周辺機器](../Page/周辺機器.md "wikilink")が次々に発売され、USBの普及が加速的に進んだ。
 

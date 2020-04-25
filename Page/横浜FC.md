@@ -17,7 +17,7 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シーズンを以て[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")（横浜F）が[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")（横浜M）に吸収合併されることが決定したことを受けて、横浜フリューゲルスのサポーター有志によって横浜FCの運営会社となる株式会社横浜フリエスポーツクラブ（横浜フリエSC）が12月25日に設立された\[7\]。
 
-1999年3月、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")により[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）に準会員での加盟が承認された\[8\]
+1999年3月、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")により[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）に準会員での加盟が承認された\[8\]
 
 [ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")（GM）に[奥寺康彦](../Page/奥寺康彦.md "wikilink")、監督に[ピエール・リトバルスキー](../Page/ピエール・リトバルスキー.md "wikilink")、コーチに[阪倉裕二](../Page/阪倉裕二.md "wikilink")が就任。また、[パベル・ジェハーク](../Page/パベル・ジェハーク.md "wikilink")など元Jリーガー22人と選手契約した。[4月25日](../Page/4月25日.md "wikilink")に[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")で[ジヤトコと初の公式戦](../Page/ジヤトコサッカー部.md "wikilink")（JFL第2節）を行った（引き分け）。第3節（5月3日）の[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")戦で初勝利を収めた。JFLリーグ戦は18勝3分3敗の成績でJFLの初代優勝チームとなった。[天皇杯は](../Page/第79回天皇杯全日本サッカー選手権大会.md "wikilink")、3回戦で[V川崎に敗退](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")。
 
@@ -672,7 +672,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 
   - **[J2リーグ](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")：1回**
       - [2006年](https://ja.wikipedia.org/wiki/2006年のJリーグ_ディビジョン2 "wikilink")
-  - **[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")：2回**
+  - **[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")：2回**
       - [1999年](../Page/第1回日本フットボールリーグ.md "wikilink"), [2000年](../Page/第2回日本フットボールリーグ.md "wikilink")
 
 ### 個人別
@@ -844,9 +844,10 @@ CREATION</p></td>
 <tr class="even">
 <td><p>背中上部</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">インバースネット</a></p></td>
-<td><p>FRONTIER PC</p></td>
+<td><p>FRONTIER</p></td>
 <td><p>2017年 -</p></td>
-<td><p>2016年は背中下部</p></td>
+<td><p>2016年は背中下部<br />
+2016年 - 2018年は「FRONTIER PC」表記</p></td>
 </tr>
 <tr class="odd">
 <td><p>背中下部</p></td>
@@ -869,9 +870,9 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>パンツ</p></td>
-<td><p>なし</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://draft.co.jp/">ドラフト</a></p></td>
+<td><p>DRAFT</p></td>
+<td><p>2020年 -</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1127,8 +1128,18 @@ GROUP</a></p></td>
 <td><p><a href="https://www.fudealcreation.com/">FUDEAL<br />
 CREATION</a>（左）<br />
 <a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">ヨコレイ</a>（右）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER</a></p></td>
 <td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
 <td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020</p></td>
+<td><p><a href="https://draft.co.jp/">DRAFT</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

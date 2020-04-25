@@ -115,8 +115,11 @@ Xboxは固定されたゲームプラットフォームだったが、[Windows 8
 
 ## 外部リンク
 
-  - [Xbox.com 日本](https://www.xbox.com/ja-JP/)
+  - [Xbox オフィシャルサイト](https://www.xbox.com/ja-JP/)
 
+  -
+  -
+  -
 [Category:Xbox](https://ja.wikipedia.org/wiki/Category:Xbox "wikilink") [Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:インターネットサービス](https://ja.wikipedia.org/wiki/Category:インターネットサービス "wikilink") [Category:2000年代の玩具](https://ja.wikipedia.org/wiki/Category:2000年代の玩具 "wikilink")
 
 1.  [「Xbox」がMicrosoftの総合エンターテインメントブランドに](http://www.itmedia.co.jp/news/articles/1205/30/news027.html)

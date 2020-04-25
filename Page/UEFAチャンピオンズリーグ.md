@@ -1,7 +1,7 @@
 > この記事は[UEFAチャンピオンズリーグ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ)から翻訳されています。
 
 
-**UEFAチャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）の主催で毎年9月から翌年の5月にかけて行われる、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**CL**、**UCL**とも略記される。[1955年](../Page/1955年.md "wikilink")に**ヨーロピアン・チャンピオン・クラブズ・カップ**(European Champion Clubs' Cup、略してEuropean Cup)の名称で始まった。当初は各国リーグの優勝クラブの大会だったが、[1990年代](../Page/1990年代.md "wikilink")に参加クラブ数、資格が拡大された。
+**UEFAチャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）の主催で毎年9月から翌年の5月にかけて行われる、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**CL**、**UCL**とも略記される。[1955年](../Page/1955年.md "wikilink")に**ヨーロピアン・チャンピオン・クラブズ・カップ** (European Champion Clubs' Cup、略してEuropean Cup) の名称で始まった。当初は各国リーグの優勝クラブの大会だったが、[1990年代](../Page/1990年代.md "wikilink")に参加クラブ数、資格が拡大された。
 
 ## 概要
 

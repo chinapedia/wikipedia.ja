@@ -224,6 +224,12 @@ LCMCalculator: a = 25, b = 55, gcd = 5, lcm = 275
 LCMCalculator: a = 22, b = 58, gcd = 2, lcm = 638
 ```
 
+## 機能
+
+### グローバルオブジェクト
+
+JavaScriptはコードの最上階層に属するグローバルオブジェクトを提供している。JavaScriptにおけるグローバルオブジェクトは`globalThis`である\[20\]。
+
 ## 利用
 
 [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")における[HTML操作を目的として作られたJavaScriptは](https://ja.wikipedia.org/wiki/Html "wikilink")、2020年現在幅広い領域で利用されている。
@@ -245,7 +251,7 @@ JavaScriptの使用例としては、以下のようなものがある。
 
   - データをサーバーに送信せずに[フォーム入力値の](../Page/フォーム_\(ウェブ\).md "wikilink")を行う。
 
-  - や、[パーソナライゼーション](../Page/パーソナライゼーション.md "wikilink")などのためにユーザーの閲覧情報を収集する。\[20\]
+  - や、[パーソナライゼーション](../Page/パーソナライゼーション.md "wikilink")などのためにユーザーの閲覧情報を収集する。\[21\]
 
 JavaScriptはユーザーのブラウザ上で動作できることから、ユーザーの操作に対して素早く反応することができ、アプリケーションをよりレスポンシブにすることができる。さらにJavaScriptはHTML単独では対応できない操作、例えばキー入力などにも応答することができる。[Gmail](../Page/Gmail.md "wikilink")のようなアプリケーションでは、JavaScriptでUIロジックを実装し、さらにJavaScriptでサーバーから情報（例えばeメールのメッセージ）を取得することで、こうしたメリットを享受している。このような利点から[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink")は大きなトレンドとなった。
 
@@ -408,7 +414,7 @@ Server</p></td>
 <tr class="odd">
 <td><p>1.9</p></td>
 <td></td>
-<td><p>1.8.1 + <a href="../Page/ECMAScript.md" title="wikilink">ECMAScript</a> 5[21] Compliance</p></td>
+<td><p>1.8.1 + <a href="../Page/ECMAScript.md" title="wikilink">ECMAScript</a> 5[22] Compliance</p></td>
 <td></td>
 <td><p>4.0-11.0</p></td>
 <td></td>
@@ -418,7 +424,7 @@ Server</p></td>
 </tbody>
 </table>
 
-\[22\]
+\[23\]
 
 ## ライブラリ
 
@@ -506,6 +512,7 @@ Server</p></td>
 17.
 18.
 19.
-20.
+20. 2020-04-10現在 tc39 stage-4 (finished proposal). ECMAScript2020へ採用予定 [tc39](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 21.
 22.
+23.

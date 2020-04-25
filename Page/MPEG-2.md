@@ -45,7 +45,7 @@ MPEG-2は放送や[HDTVなどを想定した規格であり](https://ja.wikipedi
 
 ### デジタル放送
 
-デジタル放送では多重化伝送方式としてMPEG-2 TS、動画像符号化方式としてMPEG-2ビデオが採用されている。詳細については[デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink")の記事を参照されたい。
+デジタル放送では多重化伝送方式としてMPEG-2 TS、動画像符号化方式としてMPEG-2ビデオが採用されている。（詳細については[デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink")の記事を参照。）
 
 ### その他の利用例
 

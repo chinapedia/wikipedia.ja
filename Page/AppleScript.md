@@ -29,7 +29,7 @@ AppleScriptはMac OS上のアプリケーション間通信を基礎技術とし
 
 AppleScriptは、簡素なダイアログ (display dialog、display alert)、ノーティフィケーションセンターへのノーティファイ (display notification)、ポップアップメニューからの項目選択ダイアログ (choose from list)、ファイル選択 (choose file)、フォルダ選択 (choose folder)、新規ファイル保存先パス選択 (choose file name) 、プログレスバー表示（Mac OS X v10.10以降。アプレット動作時のみ）などの、目的に特化した簡単なユーザインタフェースを提供している。
 
-これら以外のユーザインタフェースを利用するために、現在利用できる手段で一番簡単なやり方は、[FileMaker](../Page/FileMaker.md "wikilink")で画面を作成し、ボタンに対してスクリプトステップ「AppleScriptを実行」を割り当てておくというものである。
+これら以外のユーザインタフェースを利用するために、現在利用できる手段で一番簡単なやり方は、Mac OS X標準搭載の「スイッチコントロール」でパネルを作成し、パネル内のボタンに対してアクション「AppleScript」を割り当てておくというものである。
 
 Adobe InDesignなどの一部のアプリケーションでは、簡易的なユーザーインタフェースをAppleScriptのプログラムから動的に生成する機能を備えている。
 

@@ -1,7 +1,7 @@
 > この記事は[Microsoft Windows 3.x](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x)から翻訳されています。
 
 
-**Microsoft Windows 3.x**（**マイクロソフト ウィンドウズ 3.x**）は、[MS-DOS](../Page/MS-DOS.md "wikilink")を拡張する16ビットオペレーティング環境（Operating Environment:）\[1\]。主なバージョンとして[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された「Windows 3.0」と、[1991年](../Page/1991年.md "wikilink")に発売された改良版「Windows 3.1」がある。
+[MS-Windows_V3.1_floppy_disks.jpg](https://ja.wikipedia.org/wiki/File:MS-Windows_V3.1_floppy_disks.jpg "fig:MS-Windows_V3.1_floppy_disks.jpg") **Microsoft Windows 3.x**（**マイクロソフト ウィンドウズ 3.x**）は、[MS-DOS](../Page/MS-DOS.md "wikilink")を拡張する16ビットオペレーティング環境（Operating Environment:）\[1\]。主なバージョンとして[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された「Windows 3.0」と、[1991年](../Page/1991年.md "wikilink")に発売された改良版「Windows 3.1」がある。
 
 その他、マルチメディアに対応した「Windows 3.0 with Multimedia Extensions ([Windows MME](https://ja.wikipedia.org/wiki/Windows_Multimedia_Extensions "wikilink"))」を一部機種で展開するなど、幾度かのマイナーバージョンアップが行われている。英語版ではネットワークをサポートする「Windows for Workgroup（Windows3.1ベース）」も発売されている。また追加モジュールとして32ビットアプリケーションを動作させるための「[Win32s](../Page/Win32s.md "wikilink")」、画像表示を高速化するための「[WinG](../Page/WinG.md "wikilink")」、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")形式の動画を再生するための「[Video for Windows](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")」、LANに接続するための「[LAN Manager](https://ja.wikipedia.org/wiki/LAN_Manager "wikilink")」、インターネットやメールをするための「[Internet Explorer](../Page/Internet_Explorer.md "wikilink")（16ビット版）」がある。
 

@@ -1,7 +1,7 @@
 > この記事は[LCAO法](https://ja.wikipedia.org/wiki/LCAO法)から翻訳されています。
 
 
-**LCAO法**（LCAOほう、）あるいは**原子軌道による線形結合法**とは、[原子軌道](https://ja.wikipedia.org/wiki/原子軌道 "wikilink")の[線形結合](https://ja.wikipedia.org/wiki/線形結合 "wikilink")（[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")的[重ね合わせ](../Page/重ね合わせ.md "wikilink")）によって[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[波動関数](../Page/波動関数.md "wikilink")を記述し、その電子状態（[分子軌道](../Page/分子軌道.md "wikilink")）を求める計算手法のことである\[1\]。
+**LCAO法**（LCAOほう、）あるいは**原子軌道による線形結合法**とは、[原子軌道](../Page/原子軌道.md "wikilink")の[線形結合](https://ja.wikipedia.org/wiki/線形結合 "wikilink")（[量子力学](https://ja.wikipedia.org/wiki/量子力学 "wikilink")的[重ね合わせ](../Page/重ね合わせ.md "wikilink")）によって[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")の[波動関数](../Page/波動関数.md "wikilink")を記述し、その電子状態（[分子軌道](../Page/分子軌道.md "wikilink")）を求める計算手法のことである\[1\]。
 
 この場合、原子軌道が[基底関数](https://ja.wikipedia.org/wiki/基底関数 "wikilink")となっている。原子軌道はその原子に強く束縛された局在された[軌道であり](../Page/軌道_\(力学\).md "wikilink")、隣合う軌道間の重なりは通常小さい。この意味で、LCAO法は[タイトバインディング法](https://ja.wikipedia.org/wiki/タイトバインディング法 "wikilink")とほぼ等価として扱われることがある。比較的扱い易い計算手法であるが、原子軌道同士の重なりの部分（[重なり積分](https://ja.wikipedia.org/wiki/重なり積分 "wikilink")）の扱いが計算の負担となることがある。
 
@@ -45,7 +45,7 @@ LCAO法による定性的議論は、[分子の対称性と結合に関与する
 
   - [量子化学的手法](https://ja.wikipedia.org/wiki/量子化学的手法 "wikilink")
 
-  - [原子軌道](https://ja.wikipedia.org/wiki/原子軌道 "wikilink")
+  - [原子軌道](../Page/原子軌道.md "wikilink")
 
   - [線形結合](https://ja.wikipedia.org/wiki/線形結合 "wikilink")
 

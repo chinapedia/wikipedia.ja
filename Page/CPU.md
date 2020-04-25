@@ -1,7 +1,7 @@
 > この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
 
 
-[代替文=](https://ja.wikipedia.org/wiki/ファイル:Intel_CPU_Core_i7_6700K_Skylake_top.jpg "wikilink") )\]\] **CPU**（シーピーユー、）、**中央処理装置**（ちゅうおうしょりそうち）または**中央演算処理装置**（ちゅうおうえんざんしょりそうち）は、[コンピュータ](../Page/コンピュータ.md "wikilink")における中心的な[処理装置（プロセッサ）](../Page/プロセッサ.md "wikilink")\[1\]。
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Intel_CPU_Core_i7_6700K_Skylake_top.jpg "wikilink") )\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Intel_Core_i5-4590_Socket_FCLGA1150.jpg "wikilink") **CPU**（シーピーユー、）、**中央処理装置**（ちゅうおうしょりそうち）または**中央演算処理装置**（ちゅうおうえんざんしょりそうち）は、[コンピュータ](../Page/コンピュータ.md "wikilink")における中心的な[処理装置（プロセッサ）](../Page/プロセッサ.md "wikilink")\[1\]。
 
 コンピュータの脳としてたとえられることが多い。
 

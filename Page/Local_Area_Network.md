@@ -1,7 +1,7 @@
 > この記事は[Local Area Network](https://ja.wikipedia.org/wiki/Local_Area_Network)から翻訳されています。
 
 
-**Local Area Network**（ローカル・エリア・ネットワーク）とは、広くても一施設内程度の規模で用いられる[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")のこと。その頭文字をつづった**LAN**（ラン）と書かれる場合も多い。一般家庭、企業のオフィスや研究所、工場等で広く使用されている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ethernet_LAN.svg "wikilink") **Local Area Network**（ローカル・エリア・ネットワーク）とは、広くても一施設内程度の規模で用いられる[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")のこと。その頭文字をつづった**LAN**（ラン）と書かれる場合も多い。一般家庭、企業のオフィスや研究所、工場等で広く使用されている。
 
 ## 定義
 

@@ -32,4 +32,4 @@ VHS版はCD版より収録時間が短く、曲数も少ない（[洋楽](https:
 11. **EARTH ARK**（作詞：伊達歩 作曲：高崎晃）
 12. **今夜、LOVERS LANEで…**（作詞・作曲：LAZY）
 
-[Category:レイジーのアルバム](https://ja.wikipedia.org/wiki/Category:レイジーのアルバム "wikilink") [Category:1998年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のライブ・アルバム "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:レイジーのアルバム](https://ja.wikipedia.org/wiki/Category:レイジーのアルバム "wikilink") [Category:1998年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のライブ・アルバム "wikilink") [Category:1998年のコンサート](https://ja.wikipedia.org/wiki/Category:1998年のコンサート "wikilink") [Category:1998年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1998年のライブ・ビデオ "wikilink")

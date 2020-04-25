@@ -176,7 +176,7 @@
 ※ 2008年9月現在
 
   - [青森テレビ](../Page/青森テレビ.md "wikilink")
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")

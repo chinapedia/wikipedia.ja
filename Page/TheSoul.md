@@ -210,9 +210,9 @@
 
 ## 外部リンク
 
-  - [theSoul 河野健太郎ブログ「河野健太郎 no さそいわらい」](http://ameblo.jp/thesoul-kentaro/)
-  - [theSoul 村井清崇オフィシャルブログ「Kiyo'sSmileBox」](http://ameblo.jp/kiyotaka-murai/)
-  - [theSoul 金城裕紀ブログ](http://ameblo.jp/yuki-kinjyo/)(2013年8月30日更新停止)
-  - [theSoul 楯岡裕人の毎日](http://ameblo.jp/hiroto-tateoka/)
+  - [theSoul 河野健太郎ブログ「河野健太郎 no さそいわらい」](https://ameblo.jp/thesoul-kentaro/)
+  - [theSoul 村井清崇オフィシャルブログ「Kiyo'sSmileBox」](https://ameblo.jp/kiyotaka-murai/)
+  - [theSoul 金城裕紀ブログ](https://ameblo.jp/yuki-kinjyo/)(2013年8月30日更新停止)
+  - [theSoul 楯岡裕人の毎日](https://ameblo.jp/hiroto-tateoka/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

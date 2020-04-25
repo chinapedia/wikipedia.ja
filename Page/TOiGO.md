@@ -1,7 +1,7 @@
 > この記事は[TOiGO](https://ja.wikipedia.org/wiki/TOiGO)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TOiGO_buildings.jpg "wikilink") **TOiGO**（トイーゴ）は、[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の中心地・[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")近郊の[問御所町の](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#問御所町 "wikilink")[再開発](../Page/再開発.md "wikilink")計画と、長野県の民間放送局である[SBC信越放送の開局](https://ja.wikipedia.org/wiki/信越放送 "wikilink")55年記念事業の一環として[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")にオープンしたビルディングである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOiGO_buildings.jpg "wikilink") **TOiGO**（トイーゴ）は、[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")の中心地・[長野駅](https://ja.wikipedia.org/wiki/長野駅 "wikilink")近郊の[問御所町の](https://ja.wikipedia.org/wiki/鶴賀_\(長野市\)#問御所町 "wikilink")[再開発](../Page/再開発.md "wikilink")計画と、長野県の民間放送局である[SBC信越放送の開局](../Page/信越放送.md "wikilink")55年記念事業の一環として[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")にオープンしたビルディングである。
 
 施設名は公募で決定。住所の「問御所町」と「[Amigo](https://ja.wikipedia.org/wiki/アミーゴ "wikilink")」を掛け、また「未来へ進め」という意味を込めて英語の「TO」と「GO」も掛け合わせたもの。[ロゴ](https://ja.wikipedia.org/wiki/ロゴ "wikilink")の「i」は人をイメージして[小文字](../Page/小文字.md "wikilink")にしている。
 
@@ -39,7 +39,7 @@
 
 ## 関連項目
 
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）
+  - [信越放送](../Page/信越放送.md "wikilink")（SBC）
   - [セブン銀行](../Page/セブン銀行.md "wikilink")
   - [名鉄協商](../Page/名鉄協商.md "wikilink")（TOiGOパーキングの管理者）
   - [:Category:そごう](https://ja.wikipedia.org/wiki/Category:そごう "wikilink")

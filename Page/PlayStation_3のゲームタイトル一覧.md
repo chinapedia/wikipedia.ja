@@ -6784,11 +6784,21 @@ Move対応</p></td>
 
 ### 2017年
 
-| 配信日    | タイトル                                                                                                 | 発売元         | 販売 方式 | オ | 備考 |
-| ------ | ---------------------------------------------------------------------------------------------------- | ----------- | ----- | - | -- |
-| 05月25日 | [GUILTY GEAR Xrd REV 2](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")             | アークシステムワークス |       |   |    |
-| 07月20日 | [UNDER NIGHT IN-BIRTH Exe:Late\[st](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH "wikilink")\] | アークシステムワークス |       |   |    |
-|        |                                                                                                      |             |       |   |    |
+| 配信日    | タイトル                                                                                                            | 発売元                 | 販売 方式 | オ | 備考       |
+| ------ | --------------------------------------------------------------------------------------------------------------- | ------------------- | ----- | - | -------- |
+| 02月09日 | [Back to Bed](https://ja.wikipedia.org/wiki/Back_to_Bed "wikilink")                                             | 日本一ソフトウェア           |       |   |          |
+| 03月28日 | [The Treasures of Montezuma 4](https://ja.wikipedia.org/wiki/The_Treasures_of_Montezuma_4 "wikilink")           | SMARTPHONE LABS LLC |       |   | 日本語非対応|  |
+| 04月06日 | [レヴナントサーガ](https://ja.wikipedia.org/wiki/レヴナントサーガ "wikilink")                                                   | KEMCO               |       |   |          |
+| 04月26日 | [英雄伝説　暁の軌跡](https://ja.wikipedia.org/wiki/英雄伝説_暁の軌跡 "wikilink")                                                 | USERJOY JAPAN       |       | ◯ | オンライン専用| |
+| 05月25日 | [GUILTY GEAR Xrd REV 2](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")                        | アークシステムワークス         |       |   |          |
+| 05月25日 | [少女とドラゴン-幻獣契約プリクトラクト-](https://ja.wikipedia.org/wiki/少女とドラゴン-幻獣契約プリクトラクト- "wikilink")                           | ライオンズフィルム           | 基本無料  |   | |        |
+| 05月25日 | [実況パワフルプロ野球 チャンピオンシップ2017](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_チャンピオンシップ2017 "wikilink")                   | コナミデジタルエンタテインメント    | 無料    | ● | |        |
+| 06月07日 | [Badland: Game of the Year Edition](https://ja.wikipedia.org/wiki/Badland:_Game_of_the_Year_Edition "wikilink") | Flogmind Oy         |       |   | |        |
+| 07月20日 | [UNDER NIGHT IN-BIRTH Exe:Late\[st](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH "wikilink")\]            | アークシステムワークス         |       |   |          |
+| 08月17日 | [ドラゴンズドグマオンラインシーズン3　リミテッドエディション](https://ja.wikipedia.org/wiki/ドラゴンズドグマオンラインシーズン3_リミテッドエディション "wikilink")       | カプコン                |       | ◯ | サービス終了   |
+| 09月21日 | [KILLALLZOMBIES](https://ja.wikipedia.org/wiki/KILLALLZOMBIES "wikilink")                                       | SMARTPHONE LABS LLC |       |   |          |
+| 11月16日 | [ウイニングイレブン2018 Lite](https://ja.wikipedia.org/wiki/ウイニングイレブン2018_Lite "wikilink")                               | コナミデジタルエンタテインメント    | 基本無料  |   | |        |
+|        |                                                                                                                 |                     |       |   |          |
 
 ## 配信アプリ
 

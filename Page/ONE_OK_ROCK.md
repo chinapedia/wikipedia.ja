@@ -36,10 +36,13 @@
 #### 使用ギター
 
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") Custom24 10top
-  - [PRS](../Page/ポール・リード・スミス.md "wikilink") Custom24 30th anniversary
+  - [PRS](../Page/ポール・リード・スミス.md "wikilink") Custom22 20th anniversary
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") McCarty
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") McCarty Artist package
+  - [PRS](../Page/ポール・リード・スミス.md "wikilink") McCarty Singlecut 594 Private Stock
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") McCarty Limited Edition
+  - [PRS](../Page/ポール・リード・スミス.md "wikilink") SCJ Thinline McCarty
+  - [PRS](../Page/ポール・リード・スミス.md "wikilink") Original TTR
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") Silver Sky
   - [PRS](../Page/ポール・リード・スミス.md "wikilink") S2 Custom24 Egypitan Gold
   - [Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") Les Paul
@@ -833,9 +836,8 @@
 
 ## ミュージックビデオ
 
-|                                                           |                                                                                                                                                                                                                                                                                                                                                                 |
+| 監督                                                        | 曲名                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                          |
 | Kyle Kogan                                                | 「Wasted Nights」                                                                                                                                                                                                                                                                                                                                                 |
 | Peter Huang                                               | 「[Stand Out Fit In](https://www.youtube.com/watch?v=IGInsosP0Ac)」                                                                                                                                                                                                                                                                                               |
 | Raul Gonzo                                                | 「[Change](https://www.youtube.com/watch?v=ha6Fy_LeWtI)」                                                                                                                                                                                                                                                                                                         |
@@ -859,7 +861,6 @@
 | 松山純也                                                      | 「努努-ゆめゆめ-」                                                                                                                                                                                                                                                                                                                                                      |
 | [本郷伸明](https://ja.wikipedia.org/wiki/本郷伸明 "wikilink")     | 「エトセトラ」                                                                                                                                                                                                                                                                                                                                                         |
 | 千葉哲郎                                                      | 「[もしも太陽がなくなったとしたら](https://www.indiesmusic.com/musicvideo/video.asp?id=10197)」「[Keep it real](https://www.indiesmusic.com/musicvideo/video.asp?id=10234)」                                                                                                                                                                                                       |
-|                                                           |                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## 受賞歴
 
@@ -1982,7 +1983,7 @@
 
 ## 外部リンク
 
-  - [ONE OK ROCK official website](http://www.oneokrock.com/)
+  - [ONE OK ROCK official website](https://www.oneokrock.com/)
 
   - [ONE OK ROCK - アミューズ オフィシャル ウェブサイト](https://artist.amuse.co.jp/artist/one_ok_rock/)
 

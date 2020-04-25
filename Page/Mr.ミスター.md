@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : Mr.ミスター](http://www.sonymusic.co.jp/Music/International/Arch/BV/MrMister/index.html)
+  - [Sony Music Online Japan : Mr.ミスター](https://www.sonymusic.co.jp/artist/MrMister/)
 
   -
   - [リチャード・ペイジ](http://www.richardpagemusic.com)—公式ウェブサイト

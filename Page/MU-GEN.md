@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>木曜 25:25 - 25:55</p></td>
 <td></td>
 </tr>

@@ -26,72 +26,72 @@
       - [作曲](../Page/作曲.md "wikilink")：[織田哲郎](../Page/織田哲郎.md "wikilink")　[編曲](../Page/編曲.md "wikilink")：[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       -
-        1stシングル
+        1stシングル　1991年発売
 2.  **[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")**
       - 作曲：織田哲郎　編曲：明石昌夫・[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
       -
-        4thシングル
+        4thシングル　1992年発売
 3.  **[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")**
       - 作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")　編曲：明石昌夫
     <!-- end list -->
       -
-        5thシングル
+        5thシングル　1992年発売
 4.  **[負けないで](../Page/負けないで.md "wikilink")**★○
       - 作曲：織田哲郎　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
       -
-        6thシングル
+        6thシングル　1993年発売
 5.  **[君がいない](../Page/君がいない.md "wikilink")**
       - 作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：明石昌夫
     <!-- end list -->
       -
-        7thシングル
+        7thシングル　1993年発売
 6.  **[揺れる想い](../Page/揺れる想い.md "wikilink")**★○
       - 作曲：織田哲郎　編曲：明石昌夫
     <!-- end list -->
       -
-        8thシングル
+        8thシングル　1993年発売
 7.  **[もう少し あと少し…](../Page/もう少し_あと少し….md "wikilink")**
       - 作曲：栗林誠一郎　編曲：明石昌夫
     <!-- end list -->
       -
-        9thシングル
+        9thシングル　1993年発売
 8.  **[きっと忘れない](../Page/きっと忘れない.md "wikilink")**★
       - 作曲：織田哲郎　編曲：明石昌夫
     <!-- end list -->
       -
-        10thシングル
+        10thシングル　1993年発売
 9.  **[この愛に泳ぎ疲れても](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")**★
       - 作曲：織田哲郎　編曲：明石昌夫
     <!-- end list -->
       -
-        11thシングル「この愛に泳ぎ疲れても／Boy」の1曲目。
+        11thシングル「この愛に泳ぎ疲れても／Boy」の1曲目。　1994年発売
 10. **[Oh my love](../Page/OH_MY_LOVE.md "wikilink")**▲
       - 作曲：織田哲郎　編曲：明石昌夫
     <!-- end list -->
       -
-        5thオリジナルアルバム『OH MY LOVE』収録曲。
+        5thオリジナルアルバム『OH MY LOVE』収録曲。　1994年発売
 11. **[こんなにそばに居るのに](../Page/こんなにそばに居るのに.md "wikilink")**★
       - 作曲：栗林誠一郎　編曲：明石昌夫
     <!-- end list -->
       -
-        12thシングル
+        12thシングル　1994年発売
 12. **[あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink")**
       - 作曲：織田哲郎　編曲：織田哲郎
     <!-- end list -->
       -
-        13thシングル
+        13thシングル　1994年発売
 13. **[愛が見えない](../Page/愛が見えない.md "wikilink")**
       - 作曲：[小澤正澄](../Page/小澤正澄.md "wikilink")　編曲：葉山たけし
     <!-- end list -->
       -
-        15thシングル
+        15thシングル　1995年発売
 14. **[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")**★
       - 作曲：栗林誠一郎　作曲：葉山たけし
     <!-- end list -->
       -
-        16thシングル
+        16thシングル　1995年発売
 
 ### Disc2
 
@@ -99,67 +99,67 @@
       - 作曲：織田哲郎　編曲：葉山たけし
     <!-- end list -->
       -
-        17thシングル
+        17thシングル　1996年発売
 2.  **[心を開いて](../Page/心を開いて.md "wikilink")**★
       - 作曲：織田哲郎　編曲：池田大介
     <!-- end list -->
       -
-        18thシングル
+        18thシングル　1996年発売
 3.  **[Today is another day](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")**▲
       - 作曲：織田哲郎　編曲：池田大介
     <!-- end list -->
       -
-        7thオリジナルアルバム『TODAY IS ANOTHER DAY』収録曲。
+        7thオリジナルアルバム『TODAY IS ANOTHER DAY』収録曲。　1996年発売
 4.  **[Don't you see\!](../Page/Don't_you_see!.md "wikilink")**★
       - 作曲：栗林誠一郎　編曲：葉山たけし
     <!-- end list -->
       -
-        19thシングル。シングルバージョンではなく、セレクションアルバム『[ZARD BLEND 〜SUN\&STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』に収録されたバージョン。
+        19thシングル。シングルバージョンではなく、セレクションアルバム『[ZARD BLEND 〜SUN\&STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_〜SUN&STONE〜 "wikilink")』に収録されたバージョン。　1997年発売
 5.  **[永遠](../Page/永遠_\(ZARDの曲\).md "wikilink")**★
       - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
-        22ndシングル。シングルバージョンではなく、8thアルバム『[永遠](https://ja.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』に収録されたバージョン。
+        22ndシングル。シングルバージョンではなく、8thアルバム『[永遠](https://ja.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』に収録されたバージョン。1997年発売
 6.  **[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")**
       - 作曲：織田哲郎　編曲：池田大介
     <!-- end list -->
       -
-        23rdシングル
+        23rdシングル　1997年発売
 7.  **[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")**★
       - 作曲：栗林誠一郎　編曲：池田大介
     <!-- end list -->
       -
-        25thシングル。シングルバージョンはアルバム初収録。
+        25thシングル。シングルバージョンはアルバム初収録。　1998年発売
 8.  **[Get U're Dream](../Page/Get_U're_Dream.md "wikilink")**
       - 作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：葉山たけし
     <!-- end list -->
       -
-        32ndシングル
+        32ndシングル　2000年発売
 9.  **[もっと近くで君の横顔見ていたい](../Page/もっと近くで君の横顔見ていたい.md "wikilink")**
       - 作曲：大野愛果　編曲：池田大介
     <!-- end list -->
       -
-        37thシングル。シングルバージョンはアルバム初収録。
+        37thシングル。シングルバージョンはアルバム初収録。　2003年発売
 10. **[今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")**
       - 作曲：大野愛果　編曲：徳永暁人
     <!-- end list -->
       -
-        39thシングル
+        39thシングル　2004年発売
 11. **[星のかがやきよ](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")**
       - 作曲：大野愛果　編曲：葉山たけし
     <!-- end list -->
       -
-        40thシングル「星のかがやきよ／夏を待つセイル（帆）のように」の1曲目。
+        40thシングル「星のかがやきよ／夏を待つセイル（帆）のように」の1曲目。　2005年発売
 12. **[夏を待つセイル（帆）のように](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")**
       - 作曲：大野愛果　編曲：葉山たけし
     <!-- end list -->
       -
-        40thシングル「星のかがやきよ／夏を待つセイル（帆）のように」の2曲目。
+        40thシングル「星のかがやきよ／夏を待つセイル（帆）のように」の2曲目。　2005年発売
 13. **[ハートに火をつけて](../Page/ハートに火をつけて_\(ZARDの曲\).md "wikilink")**
       - 作曲：大野愛果　編曲：葉山たけし
     <!-- end list -->
       -
-        42ndシングル。アルバム初収録。
+        42ndシングル。アルバム初収録。　2006年発売
 
 ### 初回限定盤DVD
 

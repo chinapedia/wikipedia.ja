@@ -605,7 +605,7 @@ T2ya</p></td>
 <tr class="even">
 <td><p>1998.11.11</p></td>
 <td><p>Show me×Show me</p></td>
-<td><p><a href="../Page/MISSION.md" title="wikilink">MISSION</a></p></td>
+<td><p><a href="../Page/MISSION_(アイドルグループ).md" title="wikilink">MISSION</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -3755,7 +3755,7 @@ T2ya</p></td>
 
   - aquaorb「D.N.A」
   - ARM「BLOSSOM」
-  - [柳澤純子](https://ja.wikipedia.org/wiki/柳澤順子 "wikilink")「君に届くまで・・・」
+  - [柳澤純子](https://ja.wikipedia.org/wiki/柳澤順子 "wikilink")「君に届くまで…」
   - 神宮寺結子「ONE TRUE LOVE」
   - 神宮寺結子「嵐ヶ丘〜beside you〜」
   - KASUMI「The Balance Of Power」
@@ -3767,4 +3767,4 @@ T2ya</p></td>
 
   - [T-INFINITY](https://www.tie-music.com/) - T2yaオフィシャルサイト 所属事務所
 
-[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

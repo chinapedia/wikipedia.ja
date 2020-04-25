@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。CDのみカップリング曲「HANDLE ME」が収録された。前々作「[ALL FOR YOU](../Page/ALL_FOR_YOU_\(安室奈美恵の曲\).md "wikilink")」、前作「[GIRL TALK/the SPEED STAR](https://ja.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")」同様[韓国でも同時リリースされた](../Page/大韓民国.md "wikilink")（CDのみのリリースであり、CD+DVDは未発売）。
+  - [CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。CDのみカップリング曲「HANDLE ME」が収録された。[韓国でも同時リリースされた](../Page/大韓民国.md "wikilink")（CDのみのリリースであり、CD+DVDは未発売）。
   - [作詞](../Page/作詞.md "wikilink")に[MICHICO](../Page/MICHICO.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のトラックメーカーであるSUGI-Vをプロデューサーに抜擢。歌詞には[コンドーム](../Page/コンドーム.md "wikilink")の商標名「Trojan」が出てくるなど、過激なものとなっている。
   - 当初はシングルのカップリングか、続いてリリースのアルバム『[Queen of Hip-Pop](../Page/Queen_of_Hip-Pop.md "wikilink")』に収録される予定だったが、安室本人の強い意向により急遽シングル曲としてリリースされた。
   - 同年3月に開催された日本最大級の[ファッション・イベント](../Page/ファッションショー.md "wikilink")“[神戸コレクション](../Page/神戸コレクション.md "wikilink")”に出演。[3月5日](../Page/3月5日.md "wikilink")に開催された「神戸コレクション2005 in [神戸ファッションマート](../Page/神戸ファッションマート.md "wikilink")」では、WANT ME, WANT MEにのって、この日一番の歓声を浴びながらステージをウォーキング。3月20日に開催された「神戸コレクション2005 in [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")」では、シークレット・ゲストとして大トリで登場し、発売に先駆けてWANT ME, WANT MEを初披露。

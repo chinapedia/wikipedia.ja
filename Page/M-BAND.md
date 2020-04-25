@@ -100,7 +100,7 @@
 ## 外部リンク
 
   - [Mr.T LABEL](http://necoana.conohawing.com/mr.t)藤タカシのレーベル
-  - [M-BAND 藤タカシ Mr.T Blog](http://ameblo.jp/fuji-takashi/)藤タカシOfficial Blog
+  - [M-BAND 藤タカシ Mr.T Blog](https://ameblo.jp/fuji-takashi/)藤タカシOfficial Blog
   - [芸能GREE](http://gree.jp/fuji_takashi/)
   - [Office-M](http://www.l-wise.co.jp/office-m/)
 

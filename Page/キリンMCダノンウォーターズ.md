@@ -33,8 +33,8 @@
 
 ## 外部リンク
 
-  - [キリン アルカリイオンの水](http://www.alkali.jp/)
-  - [キリンビバレッジ Volvic](http://www.beverage.co.jp/volvic)
+  - [キリン アルカリイオンの水](https://www.kirin.co.jp/products/softdrink/alkali/)
+  - [キリン Volvic](https://www.kirin.co.jp/products/softdrink/volvic/)
 
 [Category:日本の水](https://ja.wikipedia.org/wiki/Category:日本の水 "wikilink") [Category:キリンビバレッジ](https://ja.wikipedia.org/wiki/Category:キリンビバレッジ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:三菱グループの歴史](https://ja.wikipedia.org/wiki/Category:三菱グループの歴史 "wikilink") [Category:三菱商事の歴史](https://ja.wikipedia.org/wiki/Category:三菱商事の歴史 "wikilink") [Category:外資系発祥の日本企業](https://ja.wikipedia.org/wiki/Category:外資系発祥の日本企業 "wikilink")
 

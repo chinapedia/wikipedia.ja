@@ -84,7 +84,7 @@
 15. **m-NAVI 4 "Let's enjoy till the end"** \[0:57\]
     （作詞：新藤晴一 / 作曲：岡野昭仁 / 英語補作詞：Quanaca）
       -
-        キャビネットの仕切りを意味する曲であり、ラスト（トラック17）まで続く***“最後まで楽しんでコーナー”***\[15\]\[16\]の入り口である。基本的には「m-NAVI 1」や「m-NAVI 3」と変わらないが、1や3に比べるとエレキギターの音色がより歪み、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音が増えている。「m-NAVI 3」と同じく歌詞がついているが、こちらは英語詞であり、演奏時間も「m-NAVI 3」と比べるとずっと短い。歌詞の中に[The Beatles](../Page/ビートルズ.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")など、有名なバンドの名が記されている。
+        キャビネットの仕切りを意味する曲であり、ラスト（トラック17）まで続く***“最後まで楽しんでコーナー”***\[15\]\[16\]の入り口である。基本的には「m-NAVI 1」や「m-NAVI 3」と変わらないが、1や3に比べるとエレキギターの音色がより歪み、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音が増えている。「m-NAVI 3」と同じく歌詞がついているが、こちらは英語詞であり、演奏時間も「m-NAVI 3」と比べるとずっと短い。歌詞の中に[The Beatles](../Page/ビートルズ.md "wikilink")、[Radiohead](../Page/レディオヘッド.md "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")など、有名なバンドの名が記されている。
 16. **ライン** \[4:28\]
     （作詞：新藤晴一 / 作曲：岡野昭仁）
       -

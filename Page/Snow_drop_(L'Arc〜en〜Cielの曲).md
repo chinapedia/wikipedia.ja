@@ -32,9 +32,9 @@
     <!-- end list -->
       -
         1998年に開催されたライブツアー「Tour '98 ハートに火をつけろ\!」のオープニングS.E.として使用されていた楽曲。
-        初めてyukihiroがL'Arc〜en〜Cielで作曲した楽曲。歌詞は全英語詞となっており、hydeが[ノストラダムスの大予言](../Page/ノストラダムスの大予言.md "wikilink")について歌った詞となっている\[3\]。
+        初めてyukihiroがL'Arc〜en〜Cielで作曲した楽曲。歌詞は全英語詞となっており、hydeが[ノストラダムスの大予言について歌った詞となっている](../Page/ミシェル・ノストラダムス師の予言集.md "wikilink")\[3\]。
         L'Arc〜en〜Ciel加入以前からyukihiroが温めていた曲で、「（本作発売前から）3年前ぐらいに、自分用に作った曲\[4\]」と述べている。tetsuyaは、yukihiroがバンドに加入する遥か前に、聴かせてもらったことがあったという\[5\]。また、当初のメロディが曖昧だったため、歌入れの際にhydeがメロディを構成し直している。ちなみに、繰り返すギターフレーズは、yukihiroが当初入れていたテイクを使ったループとなっており、kenがギターを弾いている部分は最後の16小節のみとなっている\[6\]。
-        yukihiro曰く、[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")っぽく作ったというが\[7\]、yukihiroは制作を振り返り「レニー・クラヴィッツみたいなギターのリフのある曲を作ろうかなと思って考えたんだけど、出来てみたら別にレニー・クラヴィッツじゃなくなった\[8\]」と述べている。
+        yukihiro曰く、当初は[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")っぽく作ったというが\[7\]、yukihiroは制作を振り返り「レニー・クラヴィッツみたいなギターのリフのある曲を作ろうかなと思って考えたんだけど、出来てみたら別にレニー・クラヴィッツじゃなくなった\[8\]」と述べている。
         リミックスアルバム『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』には「a swell in the sun (system in chaos)」と題した[リミックス](../Page/リミックス.md "wikilink")バージョンで収録されており、アルバム内では新規にリミックスされた数少ない楽曲となっている（大半は[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")として収録された楽曲のリアレンジである）。なお、シングルバージョンは、ベストアルバム『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』に収録。
 3.  **snow drop (hydeless version)**
 

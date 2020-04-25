@@ -73,4 +73,4 @@
 
   - 蒼い戦士たち - [NTT DoCoMo 四国](../Page/エヌ・ティ・ティ・ドコモ四国.md "wikilink")　CM (四国限定)
 
-[Category:DEENのアルバム](https://ja.wikipedia.org/wiki/Category:DEENのアルバム "wikilink") [Category:BERG_レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:BERG_レーベルのアルバム "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")
+[Category:DEENのアルバム](https://ja.wikipedia.org/wiki/Category:DEENのアルバム "wikilink") [Category:BERG_レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:BERG_レーベルのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")

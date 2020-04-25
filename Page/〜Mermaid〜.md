@@ -34,7 +34,7 @@
 ## 外部リンク
 
   -
-[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:六ツ見純代が制作した楽曲](https://ja.wikipedia.org/wiki/Category:六ツ見純代が制作した楽曲 "wikilink") [Category:中野雄太が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中野雄太が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:人魚を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:人魚を題材とした楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink")
+[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:六ツ見純代が制作した楽曲](https://ja.wikipedia.org/wiki/Category:六ツ見純代が制作した楽曲 "wikilink") [Category:中野雄太が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中野雄太が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:人魚を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:人魚を題材とした楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.
 2.

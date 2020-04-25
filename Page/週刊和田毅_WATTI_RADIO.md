@@ -1,7 +1,7 @@
 > この記事は[週刊和田毅 WATTI RADIO](https://ja.wikipedia.org/wiki/週刊和田毅_WATTI_RADIO)から翻訳されています。
 
 
-**週刊和田毅 WATTI RADIO**（しゅうかんわだつよし・ワッチレディオ）は、[福岡](../Page/福岡県.md "wikilink")・[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")が[2005年](../Page/2005年.md "wikilink")度よりナイターオフ期に編成しているコーナー番組。
+**週刊和田毅 WATTI RADIO**（しゅうかんわだつよし・ワッチレディオ）は、[福岡](../Page/福岡県.md "wikilink")・[KBCラジオ](../Page/KBCラジオ.md "wikilink")が[2005年](../Page/2005年.md "wikilink")度よりナイターオフ期に編成しているコーナー番組。
 
 タイトル名の通り、[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")・[和田毅](https://ja.wikipedia.org/wiki/和田毅 "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[雲海酒造](../Page/雲海酒造.md "wikilink")がスポンサーとなっている。
 

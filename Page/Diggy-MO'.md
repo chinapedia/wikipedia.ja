@@ -9,7 +9,7 @@
 
 影響を受けた[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")に、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ザ・ルーツ](../Page/ザ・ルーツ.md "wikilink")などを挙げている。雑誌などでのインタビューでは、常に「S.Oをサザンオールスターズや[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")などのように幅広い層に愛されるグループに育て上げたい」と語る。
 
-Diggy-MO'という名前の[由来](https://ja.wikipedia.org/wiki/由来 "wikilink")は、SOUL'd OUTの曲である「[Diggy Diggy Diggy](../Page/ウェカピポ.md "wikilink")」のサビ部分である、「Diggy Diggy Diggy」を[ファン](../Page/ファン.md "wikilink")が連呼していたため、「じゃあ、俺はDiggyでいい」と、今の名前を名乗るようになった。[左利き](../Page/左利き.md "wikilink")である。嫌いな食べ物に大学芋を挙げている。本名や誕生日等のプロフィールは、非公開となっている。
+Diggy-MO'という名前の[由来](https://ja.wikipedia.org/wiki/由来 "wikilink")は、SOUL'd OUTの曲である「[Diggy Diggy Diggy](../Page/ウェカピポ.md "wikilink")」のサビ部分である、「Diggy Diggy Diggy」を[ファン](../Page/ファン.md "wikilink")が連呼していたため、「じゃあ、俺はDiggyでいい」と、今の名前を名乗るようになった。[左利き](../Page/左利き.md "wikilink")である。好きな食べ物にチョコレートパフェ、嫌いな食べ物に大学芋を挙げている。本名や誕生日等のプロフィールは、非公開となっている。
 
 2017年に自宅をスタジオ化し\[1\]、楽曲製作に取り組んでいる。
 

@@ -538,11 +538,7 @@
 
 ## 脚注
 
-<div class="references-small">
-
 <references/>
-
-</div>
 
 [Category:BLOOD+](https://ja.wikipedia.org/wiki/Category:BLOOD+ "wikilink") [Category:アニメの登場人物の一覧](https://ja.wikipedia.org/wiki/Category:アニメの登場人物の一覧 "wikilink") [Category:ライトノベルの登場人物の一覧](https://ja.wikipedia.org/wiki/Category:ライトノベルの登場人物の一覧 "wikilink")
 

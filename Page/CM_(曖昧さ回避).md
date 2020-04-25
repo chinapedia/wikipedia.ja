@@ -27,6 +27,7 @@
   - アメリカのプロレスラー[CMパンク](../Page/CMパンク.md "wikilink")
   - 『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")』のソロCDシリーズ「[THE IDOLM@STER CINDERELLA MASTER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER "wikilink")」。
   - CM関節（carpometacarpal joint、手根中手関節）\[1\]
+  - [CyanogenMod](https://ja.wikipedia.org/wiki/CyanogenMod "wikilink")。
 
 ## Cm
 

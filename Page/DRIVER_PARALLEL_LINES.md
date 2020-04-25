@@ -5,7 +5,7 @@
 
 『[Driver 潜入\!カーチェイス大作戦](https://ja.wikipedia.org/wiki/Driver_潜入!カーチェイス大作戦 "wikilink")』、『[Driver 2](https://ja.wikipedia.org/wiki/w:en:Driver_2 "wikilink")』、『 [DRIV3R](../Page/DRIV3R.md "wikilink")』に続くシリーズ第4作で、PlayStation 2版は、2006年3月14日にアメリカ、2006年3月17日にイギリスでそれぞれ発売されている。日本では2006年10月12日に、[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")のエクストリームライン第一弾として発売された。PC,[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")版が2007年[Ubisoftから発売](https://ja.wikipedia.org/wiki/UBISOFT "wikilink")。
 
-[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")によるレーティングでは「Z（18歳以上のみ対象）」になっている。
+[コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")によるレーティングでは「Z（18歳以上のみ対象）」になっている。
 
 2006年7月13日、[ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")が経営状態の厳しいアタリからDRIVERシリーズのライセンス(Reflections Interactiveの開発人員を含む)を1900万ユーロ(2400万ドル)で買収した。
 

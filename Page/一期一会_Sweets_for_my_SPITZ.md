@@ -1,7 +1,7 @@
-> この記事は[ Sweets for my SPITZ](https://ja.wikipedia.org/wiki/_Sweets_for_my_SPITZ)から翻訳されています。
+> この記事は[一期一会 Sweets for my SPITZ](https://ja.wikipedia.org/wiki/一期一会_Sweets_for_my_SPITZ)から翻訳されています。
 
 
-『**一期一会 Sweets for my SPITZ**』（いちごいちえ スウィーツ・フォー・マイ・スピッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売。
+『**一期一会 Sweets for my SPITZ**』（いちごいちえ スウィーツ・フォー・マイ・スピッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[スピッツの](../Page/スピッツ_\(バンド\).md "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売。
 
 [ドリーミュージック](../Page/ドリーミュージック.md "wikilink")のレーベル「Teenage Symphony」のコンピレーション第2弾として発売された。そのため、スピッツの所属レコード会社外からの発売となっている。
 
@@ -45,7 +45,7 @@
 12. **Y** / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
       -
         6thアルバム『[ハチミツ](../Page/ハチミツ_\(アルバム\).md "wikilink")』収録曲。
-13. **[夏の魔物](../Page/夏の魔物.md "wikilink")** / [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")
+13. **[夏の魔物](../Page/夏の魔物_\(スピッツの曲\).md "wikilink")** / [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")
       -
         2ndシングルの表題曲。
 

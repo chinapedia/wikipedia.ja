@@ -107,11 +107,12 @@
   - [2001年](../Page/2001年.md "wikilink")（平成13年）4月に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[部長刑事 シンマイ。](../Page/部長刑事.md "wikilink")シリーズ』の主題歌として起用。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）に[大王製紙](../Page/大王製紙.md "wikilink")「[エリエール](../Page/エリエール.md "wikilink")」CMソングとして起用。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）[12月31日](../Page/12月31日.md "wikilink")に[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")の[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")で25位に入選。紅白で初披露。
-  - [2005年](../Page/2005年.md "wikilink")（平成17年）以降、東洋水産「麺づくり」CMソングとして起用。ヘビーメタルやダンスミュージックにアレンジされ、TRFなどがカバーした。
+  - 2005年（平成17年）以降、東洋水産「麺づくり」CMソングとして起用。ヘビーメタルやダンスミュージックにアレンジされ、TRFなどがカバーした。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）、『[ますだおかだのオールナイトニッポン](../Page/ますだおかだのオールナイトニッポン.md "wikilink")』のエンディングテーマ曲として起用。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）11月に公開された映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌として起用。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[MBS](../Page/毎日放送.md "wikilink")『[水野真紀の魔法のレストランR](../Page/水野真紀の魔法のレストランR.md "wikilink")』「新100人の料理人\!レボリューション」のエンディンクテーマとしてオーケストラVer.を使用。
-  - [2013年](../Page/2013年.md "wikilink")（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「株主優待で暮らす桐谷さんシリーズ」のコーナーで度々使用されている。
+  - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「株主優待で暮らす桐谷さんシリーズ」のコーナーで度々使用されている。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）[BSテレ東](../Page/BSテレビ東京.md "wikilink")「[真夜中ドラマ](https://ja.wikipedia.org/wiki/真夜中ドラマ "wikilink")」『[ハイポジ 1986年、二度目の青春。](https://ja.wikipedia.org/wiki/ハイポジ_\(漫画\)#テレビドラマ "wikilink")』最終回で挿入歌として使用\[8\]。
 
 ## 同曲のカバーアーティスト
 
@@ -200,9 +201,9 @@
 ## 外部リンク
 
   - [misatowatanabe.com（公式サイト）](http://www.sonymusic.co.jp/Music/Info/misato/)
-  - [『My Revolution』視聴サイト（Sony Music Online Japan）](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESDB-3034/index.html)
+  - [『My Revolution』視聴サイト（Sony Music Online Japan）](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESDB-3034)
 
-[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:川村真澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:川村真澄が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:ラジオ番組の主題歌](https://ja.wikipedia.org/wiki/Category:ラジオ番組の主題歌 "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:川村真澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:川村真澄が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:ラジオ番組の主題歌](https://ja.wikipedia.org/wiki/Category:ラジオ番組の主題歌 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.  1986年12月31日放送TBS『第28回日本レコード大賞』より
 2.
@@ -211,3 +212,4 @@
 5.
 6.  『オリコンチャート1位ヒットソング集500〈下〉1986〜1994』（クラブハウス、1998）P14、P16〜P25
 7.  [神山典士](../Page/神山典士.md "wikilink")『小室哲哉 深層の美意識』[講談社](../Page/講談社.md "wikilink")、1996年、154頁。ISBN 4-06-208076-1。
+8.

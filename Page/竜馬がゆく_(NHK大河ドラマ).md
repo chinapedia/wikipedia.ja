@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[竜馬がゆく \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/竜馬がゆく_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**竜馬がゆく**』（りょうまがゆく）は、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")に放送されたNHK[大河ドラマ](../Page/大河ドラマ.md "wikilink")第6作。全52回。
@@ -64,7 +64,7 @@
   - [品川弥二郎](../Page/品川弥二郎.md "wikilink")：[岡本富士太](../Page/岡本富士太.md "wikilink")
   - [グラバー](../Page/トーマス・ブレーク・グラバー.md "wikilink")：[フランツ・グルーベル](../Page/フランツ・グルーベル.md "wikilink")
   - [藤堂平助](../Page/藤堂平助.md "wikilink")：[勝部演之](../Page/勝部演之.md "wikilink")
-  - [沖田総司](../Page/沖田総司.md "wikilink")：[五代才助](../Page/五代友厚.md "wikilink")：[蜷川幸雄](../Page/蜷川幸雄.md "wikilink")
+  - [沖田総司](../Page/沖田総司.md "wikilink")／[五代才助](../Page/五代友厚.md "wikilink")：[蜷川幸雄](../Page/蜷川幸雄.md "wikilink")
   - [姉小路公知](../Page/姉小路公知.md "wikilink")：[坂東三津二郎](https://ja.wikipedia.org/wiki/坂東三津二郎 "wikilink")
   - [三吉慎蔵](../Page/三吉慎蔵.md "wikilink")：[大木正司](../Page/大木正司.md "wikilink")
   - [白石正一郎](../Page/白石正一郎.md "wikilink")：[宇佐美淳](https://ja.wikipedia.org/wiki/宇佐美淳 "wikilink")也
@@ -81,7 +81,7 @@
   - [権平](../Page/坂本権平.md "wikilink")：**[下川辰平](../Page/下川辰平.md "wikilink")**
   - [お慶](https://ja.wikipedia.org/wiki/大浦慶 "wikilink")：[左幸子](../Page/左幸子.md "wikilink")
   - [徳川慶喜](../Page/徳川慶喜.md "wikilink")：[尾上辰之助](../Page/尾上辰之助_\(初代\).md "wikilink")
-  - [土方歳三](../Page/土方歳三.md "wikilink")：[佐々木三四郎](https://ja.wikipedia.org/wiki/佐々木三四郎 "wikilink")：[金内吉男](../Page/金内吉男.md "wikilink")
+  - [土方歳三](../Page/土方歳三.md "wikilink")／[佐々木三四郎](https://ja.wikipedia.org/wiki/佐々木三四郎 "wikilink")：[金内吉男](../Page/金内吉男.md "wikilink")
   - [中村半次郎](../Page/桐野利秋.md "wikilink")：[橋本功](../Page/橋本功.md "wikilink")
   - [岡田以蔵](../Page/岡田以蔵.md "wikilink")：[前田吟](../Page/前田吟.md "wikilink")
   - [近藤勇](../Page/近藤勇.md "wikilink")：[森幹太](https://ja.wikipedia.org/wiki/森幹太 "wikilink")
@@ -236,7 +236,7 @@
 
 ## 外部リンク
 
-[NHKオンデマンド 大河ドラマ　竜馬がゆく 第16回](http://www.nhk-ondemand.jp/goods/G2011029317SA000/) (2016年3月31日まで)
+[NHKオンデマンド 大河ドラマ　竜馬がゆく 第16回](https://www.nhk-ondemand.jp/goods/G2011029317SA000/) (2016年3月31日まで)
 
   - \[<https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010138_00000>　大河ドラマ　竜馬がゆく　- NHK名作選(動画・静止画) NHKアーカイブス\]
   - [番組エピソード　大河ドラマ『竜馬がゆく』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga036)

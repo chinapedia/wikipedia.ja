@@ -1,4 +1,4 @@
-> この記事は[YOSAKOI](https://ja.wikipedia.org/wiki/YOSAKOI)から翻訳されています。
+> この記事は[YOSAKOIさせぼ祭り](https://ja.wikipedia.org/wiki/YOSAKOIさせぼ祭り)から翻訳されています。
 
 
 ## 概要

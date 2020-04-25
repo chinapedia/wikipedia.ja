@@ -22,6 +22,6 @@
 
 ## 外部リンク
 
-  - [『Long Night』視聴サイト](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESDB-3036/index.html)（Sony Music Online Japan）
+  - [『Long Night』視聴サイト](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESDB-3036)（Sony Music Online Japan）
 
 [Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:岡村靖幸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岡村靖幸が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")

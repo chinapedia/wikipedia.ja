@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグプレイオフ](https://ja.wikipedia.org/wiki/Bjリーグプレイオフ)から翻訳されています。
 
 
 **bjリーグプレイオフ**は、[bjリーグの](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")[優勝](../Page/優勝.md "wikilink")決定トーナメントで大会正式名称は「**ECC Presents bjリーグ 20??－??シーズン Play-Off FINALS**」（2010-11シーズンまではFINAL4）である。bjリーグにおいては「**プレイオフ**」が正式な呼称である。

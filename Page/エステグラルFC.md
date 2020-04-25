@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[エステグラルFC](https://ja.wikipedia.org/wiki/エステグラルFC)から翻訳されています。
 
 
 **エステグラル・テヘラン・フットボール・クラブ**（、）は、[イラン](../Page/イラン.md "wikilink")の首都[テヘラン](../Page/テヘラン.md "wikilink")をホームタウンとする、イランプロサッカーリーグ（[ペルシアン・ガルフ・プロリーグ](../Page/ペルシアン・ガルフ・プロリーグ.md "wikilink")）に加盟するプロサッカークラブ。イランの[IRIBは](../Page/イラン・イスラム共和国放送.md "wikilink")、**エステグラール**と表記している\[1\]。
@@ -125,6 +125,10 @@
   - [ジャバド・ネクナム](https://ja.wikipedia.org/wiki/ジャバド・ネクナム "wikilink") 2012-2014
 
 ## 脚注
+
+## 関連項目
+
+  - [ブルーガール](https://ja.wikipedia.org/wiki/ブルーガール "wikilink")
 
 ## 外部リンク
 

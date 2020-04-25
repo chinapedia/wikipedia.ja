@@ -1,4 +1,4 @@
-> この記事は[ICT](https://ja.wikipedia.org/wiki/ICT)から翻訳されています。
+> この記事は[ICT国際競争力懇談会](https://ja.wikipedia.org/wiki/ICT国際競争力懇談会)から翻訳されています。
 
 
 **ICT国際競争力懇談会**は情報通信技術(**I**nformation and **C**ommunication **T**echnology)の日本の国際競争力の強化への提言を目的とする[菅義偉](../Page/菅義偉.md "wikilink")[総務大臣](../Page/総務大臣.md "wikilink")直轄の[懇談会](../Page/懇談会.md "wikilink")。事務局は[総務省](../Page/総務省.md "wikilink")[情報通信政策局](../Page/情報通信政策局.md "wikilink")総合政策課に置かれる。[2006年](../Page/2006年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に[総務省](../Page/総務省.md "wikilink")が設置を発表した。[2006年](../Page/2006年.md "wikilink")10月19日に第1回会合を開き、[2007年](../Page/2007年.md "wikilink")4月を目途に報告書をまとめる予定。

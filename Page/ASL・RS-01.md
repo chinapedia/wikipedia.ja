@@ -1,4 +1,4 @@
-> この記事は[ASLRS-01](https://ja.wikipedia.org/wiki/ASLRS-01)から翻訳されています。
+> この記事は[ASL・RS-01](https://ja.wikipedia.org/wiki/ASL・RS-01)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:Tommykairazz2.jpg "wikilink") **RS-01**は[オートバックス・スポーツカー研究所](../Page/オートバックス・スポーツカー研究所.md "wikilink")（ASL)が開発していた2ドア[スポーツカー](../Page/スポーツカー.md "wikilink")である。

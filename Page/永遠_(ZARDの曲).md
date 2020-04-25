@@ -6,7 +6,7 @@
 ## 概要
 
   - 表題曲は、当時の流行語にもなった[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[失楽園](../Page/失楽園_\(渡辺淳一の小説\).md "wikilink")』の主題歌。シングルCDジャケットの題字は、『失楽園』の作者である[渡辺淳一](../Page/渡辺淳一.md "wikilink")が[毛筆](https://ja.wikipedia.org/wiki/毛筆 "wikilink")による直筆で記したものである。
-  - 初登場1位となり、TOP10に6週ランクインするなどロングセラーとなった。
+  - 初登場1位、TOP10に6週ランクインするロングセラーとなり、１年半後のアルバムのタイトルにもなった。ZARDでは14番目のヒットとなっている。
   - 「坂井さんなりの大人の恋愛を詞にしてほしい」と作者に言われ、何回か書き直して完成された。「テーマは秘めたる想ひ。タイトルの意味がより重く、深い意味で皆さんに伝われば」と言葉を残している\[1\]。
   - 元々は[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「[NEW EOS KISS](../Page/キヤノン_EOS_Kiss.md "wikilink")」[CMソングとして起用され](../Page/コマーシャルソング.md "wikilink")、「**Fallin' of the Rain**」（『[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")』（[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）にてこの曲名で紹介）として[1996年](../Page/1996年.md "wikilink")中頃から、キヤノン提供の番組中に放映されていた。しかし『失楽園』の主題歌を担当することになり、キヤノンに了解を取り付け、改作しCD化することになった\[2\]。なお、CMでオンエアされたバージョンは『[ZARD BLEND II 〜LEAF\&SNOW〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』に「**永遠〜君と僕の間に〜**」として収録されている。
   - [徳永暁人](../Page/徳永暁人.md "wikilink")のZARDシングル初の表題作曲作であり、[イーグルス](../Page/イーグルス.md "wikilink")の「[ホテルカリフォルニア](../Page/ホテル・カリフォルニア_\(曲\).md "wikilink")」にインスパイアされ作ったと述べている\[3\]。徳永の提供作での初めての大ヒット作となり、徳永が以降数々のZARD作品を手掛けるきっかけとなる。
@@ -54,11 +54,7 @@
 
 ## 脚注
 
-<div class="references-small">
-
 <references />
-
-</div>
 
 [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:読売テレビ月曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ主題歌 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 

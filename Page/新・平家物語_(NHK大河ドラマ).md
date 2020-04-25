@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[新・平家物語 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/新・平家物語_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**新・平家物語**』（しんへいけものがたり）は、[1972年](../Page/1972年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")47年）[1月2日](../Page/1月2日.md "wikilink")から[12月24日](../Page/12月24日.md "wikilink")まで放送された[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")の第10作目である。 [吉川英治](../Page/吉川英治.md "wikilink")の大河小説『[新・平家物語](../Page/新・平家物語.md "wikilink")』を原作に、[平家一門の栄華とその滅亡を描く一大叙事詩](../Page/伊勢平氏.md "wikilink")。大河ドラマ第10作目にふさわしい豪華なキャストとセットが話題になった。\[1\]
@@ -180,7 +180,7 @@
   - 如空坊：**[寺島幹夫](../Page/寺島幹夫.md "wikilink")**
   - 乗円坊：**[石光豊](https://ja.wikipedia.org/wiki/石光豊 "wikilink")**
   - 夜須良：**[照井湧子](https://ja.wikipedia.org/wiki/照井湧子 "wikilink")**
-  - 侍臣：**[矢野茂](https://ja.wikipedia.org/wiki/矢野茂 "wikilink")**
+  - 侍臣：**[矢野茂](https://ja.wikipedia.org/wiki/矢野茂_\(俳優\) "wikilink")**
   - 僧：**[青沼寂諶](https://ja.wikipedia.org/wiki/青沼寂諶 "wikilink")**
   - [遠藤盛遠→文覚](../Page/文覚.md "wikilink")：[近藤洋介](../Page/近藤洋介_\(俳優\).md "wikilink")
   - 袈裟御前：[三浦真弓](../Page/三浦真弓.md "wikilink")

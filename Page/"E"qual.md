@@ -133,7 +133,7 @@ M.O.S.A.D., BALLERS名義除く
 
 ## 外部リンク
 
-  - [公式ブログ](http://ameblo.jp/equal-mosad/)
+  - [公式ブログ](https://ameblo.jp/equal-mosad/)
   - [コロムビア](http://columbia.jp/artist-info/equal/)
   - ["E"qual Official Website](http://www.equal-mosad.com/)
 

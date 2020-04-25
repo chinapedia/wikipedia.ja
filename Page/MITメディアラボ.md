@@ -1,4 +1,4 @@
-> この記事は[MIT](https://ja.wikipedia.org/wiki/MIT)から翻訳されています。
+> この記事は[MITメディアラボ](https://ja.wikipedia.org/wiki/MITメディアラボ)から翻訳されています。
 
 
 [Mit_medialab_logo.png](https://ja.wikipedia.org/wiki/File:Mit_medialab_logo.png "fig:Mit_medialab_logo.png") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mitmedia.jpg "wikilink") **MITメディアラボ**（エムアイティ メディア ラボ、\[1\]）は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink") (MIT) 建築・計画スクール内に設置された研究所。

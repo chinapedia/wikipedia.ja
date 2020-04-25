@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ディディーコングレーシングDS](https://ja.wikipedia.org/wiki/ディディーコングレーシングDS)から翻訳されています。
 
 
 『**ディディーコングレーシングDS**』は、[任天堂](../Page/任天堂.md "wikilink")から日本国外で発売されている[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。日本では発売中止。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[NINTENDO64](../Page/NINTENDO64.md "wikilink")で発売された『[ディディーコングレーシング](../Page/ディディーコングレーシング.md "wikilink")』をニンテンドーDS用ソフトとしてリメイク移植した作品。

@@ -118,8 +118,8 @@
 ## 外部リンク
 
   - [TAMAMIZU OFFICIAL WEB SITE](http://www.tamamizu.net/main.html) 公式サイト
-  - [たまちゃんの日記](http://blog.goo.ne.jp/kumoyuenokimagureyo) 旧ブログ
-  - [ガムガムグミグミ](http://ameblo.jp/cscd-tama/)新ブログ
+  - [たまちゃんの日記](https://blog.goo.ne.jp/kumoyuenokimagureyo) 旧ブログ
+  - [ガムガムグミグミ](https://ameblo.jp/cscd-tama/)新ブログ
   - [CASCADE OFFICIAL WEB SITE](http://www.cascade-web.net/)
   - [MIMIZUQ OFFICIAL WEB SITE](https://mimizuq.com/)
 

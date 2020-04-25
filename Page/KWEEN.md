@@ -55,6 +55,6 @@
 
 ## 外部リンク
 
-  - [公式ブログ](http://blog.goo.ne.jp/kween)
+  - [公式ブログ](https://blog.goo.ne.jp/kween)
 
 [Category:クイーン](https://ja.wikipedia.org/wiki/Category:クイーン "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink")

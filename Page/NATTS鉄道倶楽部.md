@@ -1,4 +1,4 @@
-> この記事は[NATTS](https://ja.wikipedia.org/wiki/NATTS)から翻訳されています。
+> この記事は[NATTS鉄道倶楽部](https://ja.wikipedia.org/wiki/NATTS鉄道倶楽部)から翻訳されています。
 
 
 **NATTS鉄道倶楽部**（ナッツてつどうくらぶ）は、2010年3月21日まで[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")（南海）が行っていた、会員制の[チケットレスサービス](https://ja.wikipedia.org/wiki/チケットレスサービス "wikilink")（インターネットでの[特別急行券](../Page/特別急行券.md "wikilink")の購入）と[定期乗車券](../Page/定期乗車券.md "wikilink")予約サービスの総称である。文字通り同社が発行している[フリーペーパー](../Page/フリーペーパー.md "wikilink")の[NATTS](../Page/NATTS.md "wikilink")の延長線上とされたため、このサービスを受けるには先に「NATTS NET」の会員登録が必要であった（そこでのユーザIDとパスワードが、そのままこのサービスのユーザID・パスワードになる）。会員資格は中学生以上。

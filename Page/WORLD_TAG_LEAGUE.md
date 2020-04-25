@@ -505,6 +505,10 @@ B:<a href="../Page/真壁刀義.md" title="wikilink">真壁刀義</a>&amp;<a hre
 
 <references/>
 
+## 関連項目
+
+  - [MSGタッグ・リーグ戦](../Page/MSGタッグ・リーグ戦.md "wikilink")
+
 ## 外部リンク
 
   - [WORLD TAG LEAGUE ｜ 歴代チャンピオンクラス ｜ 新日本プロレスリング](https://www.njpw.co.jp/champions/world-tag-league)

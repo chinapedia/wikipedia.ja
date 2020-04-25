@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCイストル](https://ja.wikipedia.org/wiki/FCイストル)から翻訳されています。
 
 
 **フットボール・クルブ・イストル・ウェスト・プロヴァンス**（**Football Club Istres Ouest Provence**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[イストル](../Page/イストル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

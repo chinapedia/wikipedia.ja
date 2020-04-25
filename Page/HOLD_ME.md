@@ -98,7 +98,9 @@
 
         </div>
 
-        3rdシングルのカップリング曲。今作のタイトル「HOLD ME」は、この曲の[サビ](../Page/サビ.md "wikilink")始まりのフレーズから引用されている。シングルバージョンとは[ミキシング](../Page/ミキシング.md "wikilink")が異なっており、[イントロに雑踏の](https://ja.wikipedia.org/wiki/導入部#音楽 "wikilink")[SE](../Page/効果音.md "wikilink")、間奏に[サックスが追加され](../Page/サクソフォーン.md "wikilink")、[アウトロ](../Page/アウトロ.md "wikilink")が[フェードアウトしないといった変更が施されている](https://ja.wikipedia.org/wiki/フェード#音響 "wikilink")。
+        3rdシングル「[もう探さない](../Page/もう探さない.md "wikilink")」のカップリング曲のアルバムバージョン。今作のタイトル「HOLD ME」は、この曲の[サビ](../Page/サビ.md "wikilink")始まりのフレーズから引用されている。シングルバージョンとは[ミキシング](../Page/ミキシング.md "wikilink")が異なっており、[イントロに雑踏の](https://ja.wikipedia.org/wiki/導入部#音楽 "wikilink")[SE](../Page/効果音.md "wikilink")、間奏に[サックスが追加され](../Page/サクソフォーン.md "wikilink")、[アウトロ](../Page/アウトロ.md "wikilink")が[フェードアウトしないといった変更が施されている](https://ja.wikipedia.org/wiki/フェード#音響 "wikilink")。
+
+        後に1997年のセレクションアルバム『[ZARD BLEND〜SUN & STONE〜](../Page/ZARD_BLEND〜SUN_&_STONE〜.md "wikilink")』では坂井の強い意向で更にリアレンジして最後に収録。1999年のベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票時は50位で未収録だったが、2008年発売の『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』にもファン投票30位となり原曲が収録された。2016年発売の『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』にも原曲が収録。
 8.  **Why Don't You Leave Me Alone** \[3:23\]
       -
 
@@ -130,7 +132,9 @@
 
         </div>
 
-        『ZARD BEST 〜Request Memorial〜』では投票11位を獲得し収録されたが、最後のサビが[エディットでカットされたバージョンとなっている](../Page/編集.md "wikilink")。また、『Soffio di vento 〜Best of IZUMI SAKAI Selection〜』にも上述のバージョンで収録されている。2012年に発売された『ZARD ALBUM COLLECTION 〜20th ANNIVERSARY〜』には葉山たけしによるリアレンジバージョン「遠い日のNostalgia (Acoustic arrange ver.)」が収録された。[オリジナル・カラオケが](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、坂井逝去後の[2017年](../Page/2017年.md "wikilink")9月20日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第16号 もう少し あと少し…』にて音源化された。
+        1999年発売『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』では投票11位を獲得し収録されたが、最後のサビが[エディットでカットされたバージョンとなっている](../Page/編集.md "wikilink")。また、『[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](../Page/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜.md "wikilink")』にも上述のバージョンで収録されている。
+
+        2012年に発売された『[ZARD ALBUM COLLECTION 〜20th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_ALBUM_COLLECTION_〜20th_ANNIVERSARY〜 "wikilink")』には葉山たけしによるリアレンジバージョン「遠い日のNostalgia (Acoustic arrange ver.)」が収録された。[オリジナル・カラオケが](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、坂井逝去後の[2017年](../Page/2017年.md "wikilink")9月20日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第16号 もう少し あと少し…』にて音源化された。
 11. **So Together** \[5:02\]
       -
 
@@ -142,7 +146,7 @@
 
         </div>
 
-        『Soffio di vento 〜Best of IZUMI SAKAI Selection〜』にも収録された。[オリジナル・カラオケが](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、坂井逝去後の[2018年](../Page/2018年.md "wikilink")4月18日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第31号 あなたと共に生きてゆく』にて音源化された。
+        2007年発売『[Soffio di vento 〜Best of IZUMI SAKAI Selection〜](../Page/Soffio_di_vento_〜Best_of_IZUMI_SAKAI_Selection〜.md "wikilink")』にも収録された。[オリジナル・カラオケが](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、坂井逝去後の[2018年](../Page/2018年.md "wikilink")4月18日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第31号 あなたと共に生きてゆく』にて音源化された。
 
 ## 参加ミュージシャン
 

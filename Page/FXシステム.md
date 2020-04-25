@@ -1,4 +1,4 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[FXシステム](https://ja.wikipedia.org/wiki/FXシステム)から翻訳されています。
 
 
 **FXシステム**は[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が開発した[プレイステーション互換の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")である。 プレイステーションとほぼ同じ回路構成に加え、アーケードゲーム基板に必要な各種インターフェイスの追加、CPUのクロック向上、メインメモリの増設、サウンドチップの強化などを行っている。また、上位基板として、**G-NET**が存在する。 ソフト供給はFXがROMが載るサブボード形式、G-NETがType IIのPCカードである。

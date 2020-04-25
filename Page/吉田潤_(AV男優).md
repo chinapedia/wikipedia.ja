@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[吉田潤 \(AV男優\)](https://ja.wikipedia.org/wiki/吉田潤_\(AV男優\))から翻訳されています。
 
 
 **吉田 潤**（よしだ じゅん　本名・吉田聡）は、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")に活躍した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")。引退後は、[AVメーカー](https://ja.wikipedia.org/wiki/AVメーカー "wikilink")・[アットワンコミュニケーション](https://ja.wikipedia.org/wiki/アットワンコミュニケーション "wikilink")の制作部長を務めていた。

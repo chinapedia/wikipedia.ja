@@ -1,4 +1,4 @@
-> この記事は[Evolution \(\)](https://ja.wikipedia.org/wiki/Evolution_\(\))から翻訳されています。
+> この記事は[Evolution \(野猿のアルバム\)](https://ja.wikipedia.org/wiki/Evolution_\(野猿のアルバム\))から翻訳されています。
 
 
 『**evolution**』（エヴォリューション）は、日本の歌手グループ、[野猿](../Page/野猿.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")発売。

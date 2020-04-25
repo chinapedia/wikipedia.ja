@@ -1,4 +1,4 @@
-> この記事は[Tss](https://ja.wikipedia.org/wiki/Tss)から翻訳されています。
+> この記事は[Tssワイドニュース](https://ja.wikipedia.org/wiki/Tssワイドニュース)から翻訳されています。
 
 
 『**tssワイドニュース**』（ティーエスエス ワイドニュース）は、[1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")で放送された夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[広島県](../Page/広島県.md "wikilink")ローカル扱い）。正式タイトルは『**FNN tssワイドニュース**』。

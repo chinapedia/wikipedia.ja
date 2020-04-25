@@ -1,4 +1,4 @@
-> この記事は[IMAGINE](https://ja.wikipedia.org/wiki/IMAGINE)から翻訳されています。
+> この記事は[真・女神転生IMAGINE](https://ja.wikipedia.org/wiki/真・女神転生IMAGINE)から翻訳されています。
 
 
 『**真・女神転生IMAGINE**』（しん・めがみてんせい イマジン）は、[Windows機用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『[真・女神転生シリーズ](https://ja.wikipedia.org/wiki/真・女神転生シリーズ "wikilink")』の本格的な[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ALL FOR YOU \(\)](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(\))から翻訳されています。
+> この記事は[ALL FOR YOU \(安室奈美恵の曲\)](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(安室奈美恵の曲\))から翻訳されています。
 
 
 「**ALL FOR YOU**」（オール・フォー・ユー）は、日本の女性歌手・[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では27枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -10,8 +10,6 @@
 詞を手掛けたのは、安室のシングルでは「[Stop the music](https://ja.wikipedia.org/wiki/Stop_the_music "wikilink")」の訳詞を担当した[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")。曲を手掛けたのは、[RUI](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")「[月のしずく](../Page/月のしずく_\(柴咲コウの曲\).md "wikilink")」、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」などで知られる[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")。[PVは](../Page/ミュージック・ビデオ.md "wikilink")[千葉県](../Page/千葉県.md "wikilink")[館山市](../Page/館山市.md "wikilink")の海岸で撮影。
 
 同年7月24日には、韓国・[ソウルで開催された](https://ja.wikipedia.org/wiki/ソウル市 "wikilink")「2004 [MTV](../Page/MTV.md "wikilink") BuzzASIA Concert」に日本代表パフォーミングアーティストとして[AIと出演](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")。「[Put 'Em Up](../Page/Put_'Em_Up.md "wikilink")」、「[ALARM](../Page/ALARM_\(安室奈美恵の曲\).md "wikilink")」、「ALL FOR YOU」を歌ったほか、[SUITE CHICでのAIとの](../Page/SUITE_CHIC.md "wikilink")[コラボナンバー](../Page/コラボレーション.md "wikilink")「Uh Uh,,,,,,」もAIと[デュエット](../Page/デュエット.md "wikilink")した。前日の[仁川国際空港](https://ja.wikipedia.org/wiki/仁川国際空港 "wikilink")到着時には、現地のファンに「ALL FOR YOU」の日本語での大合唱で出迎えられた。
-
-また、前作「[ALARM](../Page/ALARM_\(安室奈美恵の曲\).md "wikilink")」で途切れたオリコントップ10入りが復活した。
 
 ## 売上記録
 

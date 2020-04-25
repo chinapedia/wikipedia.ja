@@ -1,4 +1,4 @@
-> この記事は[DA](https://ja.wikipedia.org/wiki/DA)から翻訳されています。
+> この記事は[DAホールディングス](https://ja.wikipedia.org/wiki/DAホールディングス)から翻訳されています。
 
 
 **株式会社DAホールディングス**は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[持株会社](../Page/持株会社.md "wikilink")。傘下に[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資顧問事業や投資事業などを行う子会社を持つ](https://ja.wikipedia.org/wiki/投資顧問会社 "wikilink")。 不動産ファンドブームの象徴的存在。リーマンショック後の2010年6月1日付で上場廃止した。

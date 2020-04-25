@@ -7,7 +7,7 @@
 
 ### フライ・アジアン・エクスプレス
 
-[2006年](../Page/2006年.md "wikilink")、[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")の経営再建の為、国内ローカル路線96路線が[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")に移管された。[ボルネオ島](../Page/ボルネオ島.md "wikilink")の[サラワク州](../Page/サラワク州.md "wikilink")及び[サバ州](../Page/サバ州.md "wikilink")のローカル路線の運航の再委託先として、同年8月1日に**フライ・アジアン・エクスプレス** (Fly Asian Xpress Sdn Bhd, FAX)が設立され、約40路線が運航されていた。
+[Fly_Asian_Xpress_Twin_Otter_MRD-1.jpg](https://ja.wikipedia.org/wiki/File:Fly_Asian_Xpress_Twin_Otter_MRD-1.jpg "fig:Fly_Asian_Xpress_Twin_Otter_MRD-1.jpg") [2006年](../Page/2006年.md "wikilink")、[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")の経営再建の為、国内ローカル路線96路線が[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")に移管された。[ボルネオ島](../Page/ボルネオ島.md "wikilink")の[サラワク州](../Page/サラワク州.md "wikilink")及び[サバ州](../Page/サバ州.md "wikilink")のローカル路線の運航の再委託先として、同年8月1日に**フライ・アジアン・エクスプレス** (Fly Asian Xpress Sdn Bhd, FAX)が設立され、約40路線が運航されていた。
 
 [2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")、エアアジア[CEOのトニー](../Page/最高経営責任者.md "wikilink")・フェルナンデスが、同社の運航する路線を[ファイアフライへ移管させる提案をした](../Page/ファイアフライ_\(航空会社\).md "wikilink")。同年[9月30日](../Page/9月30日.md "wikilink")、フライ・アジアン・エクスプレスは全ての路線の運航を終了した。翌[10月1日](../Page/10月1日.md "wikilink")よりマレーシア航空が設立した子会社、**[MASwings](../Page/MASwings.md "wikilink")** が全ての路線を引き継いだ\[1\] \[2\]。
 
@@ -15,7 +15,7 @@
 
 ### エアアジア X
 
-2007年[1月5日](../Page/1月5日.md "wikilink")、「**AirAsia X**」のブランド名で、国際長距離路線に参入すると発表した。2007年[8月](../Page/8月.md "wikilink")、[ヴァージン・グループ](../Page/ヴァージン・グループ.md "wikilink")が20[%の株式を取得](../Page/パーセント記号.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[オリックスが](../Page/オリックス_\(企業\).md "wikilink")10%の株式を取得した\[4\]。[A340](https://ja.wikipedia.org/wiki/A340 "wikilink")型機退役以降は[A330](https://ja.wikipedia.org/wiki/A330 "wikilink")シリーズのみで運航していて、2018年以降、2015年に発注した[A330neo](https://ja.wikipedia.org/wiki/A330#旅客型の派生型とA330neoの開発 "wikilink")、[A350](https://ja.wikipedia.org/wiki/A350 "wikilink")型機の導入予定。
+[AirAsia_X_Airbus_A330-300_MEL_Nazarinia.jpg](https://ja.wikipedia.org/wiki/File:AirAsia_X_Airbus_A330-300_MEL_Nazarinia.jpg "fig:AirAsia_X_Airbus_A330-300_MEL_Nazarinia.jpg") [Airbus_A340_AirAsia_X_9M-XAC_Sepang_April_2010.jpg](https://ja.wikipedia.org/wiki/File:Airbus_A340_AirAsia_X_9M-XAC_Sepang_April_2010.jpg "fig:Airbus_A340_AirAsia_X_9M-XAC_Sepang_April_2010.jpg") 2007年[1月5日](../Page/1月5日.md "wikilink")、「**AirAsia X**」のブランド名で、国際長距離路線に参入すると発表した。2007年[8月](../Page/8月.md "wikilink")、[ヴァージン・グループ](../Page/ヴァージン・グループ.md "wikilink")が20[%の株式を取得](../Page/パーセント記号.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[オリックスが](../Page/オリックス_\(企業\).md "wikilink")10%の株式を取得した\[4\]。[A340](https://ja.wikipedia.org/wiki/A340 "wikilink")型機退役以降は[A330](https://ja.wikipedia.org/wiki/A330 "wikilink")シリーズのみで運航していて、2018年以降、2015年に発注した[A330neo](https://ja.wikipedia.org/wiki/A330#旅客型の派生型とA330neoの開発 "wikilink")、[A350](https://ja.wikipedia.org/wiki/A350 "wikilink")型機の導入予定。
 
 しかし、[2012年](../Page/2012年.md "wikilink")3月以降インド、ヨーロッパの税制や燃料費の高騰からロンドン線等のヨーロッパ線や中東線を運休した\[5\]。
 

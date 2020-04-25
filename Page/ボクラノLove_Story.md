@@ -1,4 +1,4 @@
-> この記事は[Love Story](https://ja.wikipedia.org/wiki/Love_Story)から翻訳されています。
+> この記事は[ボクラノLove Story](https://ja.wikipedia.org/wiki/ボクラノLove_Story)から翻訳されています。
 
 
 「**ボクラノLove Story**」（ボクラノラブ・ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")のメジャー5作目（通算6作目）の[シングル](../Page/シングル.md "wikilink")。

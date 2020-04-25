@@ -1,4 +1,4 @@
-> この記事は[DB4](https://ja.wikipedia.org/wiki/DB4)から翻訳されています。
+> この記事は[アストンマーティン・DB4](https://ja.wikipedia.org/wiki/アストンマーティン・DB4)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SC06_Aston_Martin_DB4.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Aston_Martin_DB4_Series_1_engine.JPG "wikilink") **DB4**は、[アストンマーティン](../Page/アストンマーティン.md "wikilink")・ラゴンダが1958年10月-1963年6月に製造したスポーツカーであり、Sr.1-Sr.5までのモデルが存在する。

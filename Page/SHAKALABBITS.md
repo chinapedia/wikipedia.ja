@@ -1,7 +1,7 @@
 > この記事は[SHAKALABBITS](https://ja.wikipedia.org/wiki/SHAKALABBITS)から翻訳されています。
 
 
-（シャカラビッツ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[インディーズ](../Page/インディーズ.md "wikilink")時代はリミテッド・レコーズ所属。その後、アンリミテッド・グループ（[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")）やイービル・デザイン／エクストラ・ラージ・レコーズ、エクセルキュー、[コロムビアミュージックエンタテインメントのソニック](../Page/日本コロムビア.md "wikilink")・バン・レコーズ、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")など様々なレーベルを経て、現在は自身が立ち上げたレーベル兼マネージメント「Hallelujah Circus Inc.」に所属している。
+（シャカラビッツ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[インディーズ](../Page/インディーズ.md "wikilink")時代はリミテッド・レコーズ所属。その後、アンリミテッド・グループ（[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")）やイービル・デザイン／エクストラ・ラージ・レコーズ、エクセルキュー、[コロムビアミュージックエンタテインメントのソニック](../Page/日本コロムビア.md "wikilink")・バン・レコーズ、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")など様々なレーベルを経て、2017年に無期限の活動休止に入った。現在はUquiとMAHによる新プロジェクト“[Muvidat](http://muvidat.com/)”として活動。2020年4月に2nd mini albumのリリースを予定しており、4月10日に2nd mini albumリード曲のミュージックビデオ「[Fog Lights](https://www.youtube.com/watch?v=klRKCYvAmkY)」を公開した。
 
 ## 概要
 
@@ -24,6 +24,9 @@
   - [2011年](../Page/2011年.md "wikilink")12月1日、方向性の違いなどの理由から が11月20日をもって脱退したことが公式ウェブサイトで発表される\[1\]。
   - 12月29日、「 11/12」出演。同日よりベースに  を迎えて新生  始動。
   - 2017年内をもって、無期限の活動休止に入ることを発表した\[2\]。
+  - 2019年6月12日、UquiとMAH による新プロジェクト“Muvidat（ムビダット）” がアルバム「[Muvidat](https://www.youtube.com/watch?v=BZ8uqvPd9Uc)」をリリース。
+  - 2020年4月10日、2nd mini albumリード曲のミュージックビデオ「[Fog Lights](https://www.youtube.com/watch?v=klRKCYvAmkY)」を公開した。
+  - 2020年4月29日、2nd mini album「[Fog Lights](http://muvidat.com/music/)」をリリース予定。
 
 ## 活動
 
@@ -2161,7 +2164,7 @@ Hallelujah Circus Acoustic Show II
       -
   - [SHAKALABBITS Official Facebook page](http://www.facebook.com/pages/SHAKALABBITS/333900496630656/) - Facebook
 
-  - [SHAKALABBITS Official Blog "Vamos A La Marcha"](http://ameblo.jp/shakalabbitsofficial/) - Ameba blog
+  - [SHAKALABBITS Official Blog "Vamos A La Marcha"](https://ameblo.jp/shakalabbitsofficial/) - Ameba blog
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ポニーキャニオンアーティスツ所属者](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンアーティスツ所属者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2017年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に解散した音楽グループ "wikilink")
 

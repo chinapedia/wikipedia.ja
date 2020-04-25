@@ -1,4 +1,4 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[マネックスFX](https://ja.wikipedia.org/wiki/マネックスFX)から翻訳されています。
 
 
 **株式会社マネックスFX**（まねっくすえふえっくす、英文名 Monex FX, inc.）は、かつて存在した[外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")を行う[金融先物取引](https://ja.wikipedia.org/wiki/金融先物取引 "wikilink")業者である。[東京都](../Page/東京都.md "wikilink")[中央区に本社を置いていた](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")。

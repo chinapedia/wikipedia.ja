@@ -79,7 +79,7 @@
     6.  Not' gonna LOOSE
     7.  CHAOS
 
-**<big>オムニバス・アルバム参加作品</big>**
+### オムニバス・アルバム参加作品
 
 1.  CROSS\*D LOVERS (1999年3月6日)・・・FIR～REFORLEで参加
 

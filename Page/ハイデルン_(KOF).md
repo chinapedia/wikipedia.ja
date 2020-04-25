@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[ハイデルン \(KOF\)](https://ja.wikipedia.org/wiki/ハイデルン_\(KOF\))から翻訳されています。
 
 
 **ハイデルン**（**Heidern**）は、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](../Page/SNK_\(2001年設立の企業\).md "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空の人物。
@@ -239,8 +239,8 @@
 
 ## 担当声優
 
-  - [新居利光](https://ja.wikipedia.org/wiki/新居利光 "wikilink")（以下を除く各種ゲーム作品）
-  - [山岸治雄](https://ja.wikipedia.org/wiki/山岸治雄 "wikilink")（『KOF XIV』、3DCGアニメ『THE KING OF FIGHTERS:DESTINY』、アプリ『THE KING OF FIGHTERS ALLSTAR』）
+  - [新居利光](https://ja.wikipedia.org/wiki/新居利光 "wikilink")（『KOF'94』 - 『KOF 2002』までの各種作品）
+  - [山岸治雄](https://ja.wikipedia.org/wiki/山岸治雄 "wikilink")（『KOF XIV』以降の各種作品）
 
 ## 関連人物
 

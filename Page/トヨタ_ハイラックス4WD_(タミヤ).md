@@ -1,4 +1,4 @@
-> この記事は[ 4WD \(\)](https://ja.wikipedia.org/wiki/_4WD_\(\))から翻訳されています。
+> この記事は[トヨタ ハイラックス4WD \(タミヤ\)](https://ja.wikipedia.org/wiki/トヨタ_ハイラックス4WD_\(タミヤ\))から翻訳されています。
 
 
 **トヨタ ハイラックス4WD**（**別称Toyota 4x4 Pickup・トヨタ・4x4ピックアップ**）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産していたピックアップ・トラック『[トヨタ・ハイラックス](../Page/トヨタ・ハイラックス.md "wikilink")』をモデル化し田宮模型（現・[タミヤ](../Page/タミヤ.md "wikilink")）から発売された1/10[スケール](https://ja.wikipedia.org/wiki/スケール "wikilink")の電動[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")[デュアルパーパス・モデル](https://ja.wikipedia.org/wiki/デュアルパーパス・モデル "wikilink")。[1981年](../Page/1981年.md "wikilink")11月1日発売。キット価格は33,000円。

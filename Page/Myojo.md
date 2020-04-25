@@ -282,6 +282,7 @@
 ## 主な掲載者
 
   - [嵐](../Page/嵐_\(グループ\).md "wikilink")
+  - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
   - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[フレスタ \(JR九州\)](https://ja.wikipedia.org/wiki/フレスタ_\(JR九州\))から翻訳されています。
 
 
 **フレスタ**（FRIESTA）は、かつて存在した[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）系列の駅ビル型[複合商業施設](../Page/複合商業施設.md "wikilink")である。 [2014年](../Page/2014年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に、フレスタSASEBOを除く11施設 が**[えきマチ1丁目](https://ja.wikipedia.org/wiki/えきマチ1丁目 "wikilink")**に名称変更\[1\]\[2\]。同年11月1日にはフレスタSASEBOも[えきマチ1丁目佐世保](../Page/えきマチ1丁目佐世保.md "wikilink")になり\[3\]、フレスタという名称は消滅した。

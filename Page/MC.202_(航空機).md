@@ -1,4 +1,4 @@
-> この記事は[MC.202 \(\)](https://ja.wikipedia.org/wiki/MC.202_\(\))から翻訳されています。
+> この記事は[MC.202 \(航空機\)](https://ja.wikipedia.org/wiki/MC.202_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称 = MC.202 フォルゴーレ | 画像 = <File:Macchi> M.C.202 Folgore Jan1942.png | キャプション = 飛行するMC.202 MM7742号機(手前)

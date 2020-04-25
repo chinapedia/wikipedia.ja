@@ -1,4 +1,4 @@
-> この記事は[RVF](https://ja.wikipedia.org/wiki/RVF)から翻訳されています。
+> この記事は[ホンダ・RVF](https://ja.wikipedia.org/wiki/ホンダ・RVF)から翻訳されています。
 
 
 **RVF**（アールブイエフ）は、かつて[ホンダ・レーシング](../Page/ホンダ・レーシング.md "wikilink")が開発した[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを搭載した[オートバイ](../Page/オートバイ.md "wikilink")である。当初は競技専用車両として開発されたものだが、後に[本田技研工業](../Page/本田技研工業.md "wikilink")から一般市販車として製造販売された。

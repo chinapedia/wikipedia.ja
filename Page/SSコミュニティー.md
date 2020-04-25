@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[SSコミュニティー](https://ja.wikipedia.org/wiki/SSコミュニティー)から翻訳されています。
 
 
 **株式会社SSコミュニティー**（えすえす -、SS Community Inc.）は、[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。おもな業務は[警備](../Page/警備.md "wikilink")および[イベント](../Page/イベント.md "wikilink")運営補助。
@@ -13,10 +13,13 @@
 
 ## 事業所
 
-  - 本社：千葉県柏市東1-2-10 SSC柏ビル3階
-  - 千葉支社：千葉県柏市東1-2-10 SSC柏ビル2階
-  - 東京支社：東京都台東区蔵前2-3-4 蔵前センタービル3階
-  - 立川支社：東京都立川市錦町4-4-2　第一朝倉ビル1階
+  - 東京支社：東京都台東区蔵前2-3-4
+
+蔵前センタービル3階
+
+  - 立川支社：東京都立川市錦町4-4-2　
+
+第一朝倉ビル1階
 
 ## 外部リンク
 

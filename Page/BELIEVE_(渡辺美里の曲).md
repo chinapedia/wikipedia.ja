@@ -1,4 +1,4 @@
-> この記事は[BELIEVE \(\)](https://ja.wikipedia.org/wiki/BELIEVE_\(\))から翻訳されています。
+> この記事は[BELIEVE \(渡辺美里の曲\)](https://ja.wikipedia.org/wiki/BELIEVE_\(渡辺美里の曲\))から翻訳されています。
 
 
 「**BELIEVE**」（ビリーヴ）は、[渡辺美里](../Page/渡辺美里.md "wikilink")の楽曲で、7枚目のシングル。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に発売された。
@@ -45,7 +45,7 @@
 
 ## 外部リンク
 
-  - [『BELIEVE』視聴サイト](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESDB-3037/index.html)（Sony Music Online Japan）
+  - [『BELIEVE』視聴サイト](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESDB-3037)（Sony Music Online Japan）
 
 [Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:TBS金曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ主題歌 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 

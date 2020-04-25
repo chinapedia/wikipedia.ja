@@ -1,4 +1,4 @@
-> この記事は[COCOLO \(\)](https://ja.wikipedia.org/wiki/COCOLO_\(\))から翻訳されています。
+> この記事は[COCOLO \(女優\)](https://ja.wikipedia.org/wiki/COCOLO_\(女優\))から翻訳されています。
 
 
 **COCOLO**（こころ、[1982年](../Page/1982年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイ風雲ミラルゴ編](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイ風雲ミラルゴ編)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイ風雲ミラルゴ編**（ソード・ワールドアールピージーリプレイふううんミラルゴへん）は、[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")に連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")のリプレイ作品。リプレイ第4部とも称される。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[清松みゆき](../Page/清松みゆき.md "wikilink")。イラストレーターは[ぴぃたぁそると](../Page/ぴぃたぁそると.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MotoGP \(\)](https://ja.wikipedia.org/wiki/MotoGP_\(\))から翻訳されています。
+> この記事は[MotoGP \(コンピュータゲーム\)](https://ja.wikipedia.org/wiki/MotoGP_\(コンピュータゲーム\))から翻訳されています。
 
 
 **MotoGP**（もとじーぴー）とは、[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")を再現した[レースゲーム](../Page/レースゲーム.md "wikilink")およびそのシリーズ。

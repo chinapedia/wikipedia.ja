@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[東洋インキSCホールディングス](https://ja.wikipedia.org/wiki/東洋インキSCホールディングス)から翻訳されています。
 
 
 **東洋インキSCホールディングス株式会社**（とうようインキエスシーホールディングス、TOYO INK SC HOLDINGS CO., LTD.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[化学](../Page/化学.md "wikilink")メーカー。

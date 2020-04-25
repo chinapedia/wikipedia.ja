@@ -1,7 +1,7 @@
 > この記事は[GARDEN \(コマーシャル\)](https://ja.wikipedia.org/wiki/GARDEN_\(コマーシャル\))から翻訳されています。
 
 
-**GARDEN**（ガーデン）とは[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜帯、[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")枠で放送された[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")。
+**GARDEN**（ガーデン）とは[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜帯、[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")枠で放送された[アイキャッチ](../Page/アイキャッチ.md "wikilink")。
 
 [1991年](../Page/1991年.md "wikilink")までは深夜帯らしいポップなものだったが、このアイキャッチになってから様相が一変した。深夜帯の番組のものとしては非常に印象的で、視聴者の目を引く出来であった。この成功で、後に「[JUNGLE](../Page/JUNGLE.md "wikilink")」、「音楽美学」、「[STRAY SHEEP](../Page/ストレイシープ.md "wikilink")」が続いてゆく。
 

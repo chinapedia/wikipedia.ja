@@ -28,6 +28,6 @@
 
 ## 外部リンク
 
-  - [『Teenage Walk』視聴サイト](http://www.sonymusic.co.jp/Music/Arch/ES/MisatoWatanabe/ESDB-3035/index.html)（Sony Music Online Japan）
+  - [『Teenage Walk』視聴サイト](https://www.sonymusic.co.jp/artist/MisatoWatanabe/discography/ESDB-3035)（Sony Music Online Japan）
 
-[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:渡辺美里の楽曲](https://ja.wikipedia.org/wiki/Category:渡辺美里の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[KANSAI K](https://ja.wikipedia.org/wiki/KANSAI_K)から翻訳されています。
+> この記事は[スルッとKANSAI Kカード](https://ja.wikipedia.org/wiki/スルッとKANSAI_Kカード)から翻訳されています。
 
 
 **スルッとKANSAI Kカード**(*K CARD*)\[1\]とは、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")\[2\]の磁気式[プリペイドカード](../Page/プリペイドカード.md "wikilink")である。

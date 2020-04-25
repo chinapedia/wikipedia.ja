@@ -35,7 +35,7 @@
 
 ## 外部リンク
 
-  - [CASCADE HIROSHIオフィシャルブログ「カナヅチとノコギリは不要！」Powered by Ameba](http://ameblo.jp/cscd-hiroshi/)
+  - [CASCADE HIROSHIオフィシャルブログ「カナヅチとノコギリは不要！」Powered by Ameba](https://ameblo.jp/cscd-hiroshi/)
   - [CASCADE OFFICIAL WEB SITE](http://www.cascade-web.net/)
 
 [Category:日本のドラマー](https://ja.wikipedia.org/wiki/Category:日本のドラマー "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:岡山県出身の人物](https://ja.wikipedia.org/wiki/Category:岡山県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

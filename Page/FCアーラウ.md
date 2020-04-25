@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアーラウ](https://ja.wikipedia.org/wiki/FCアーラウ)から翻訳されています。
 
 
 **FCアーラウ** (**FC Aarau**) は、[スイス](../Page/スイス.md "wikilink")北部、[アールガウ州](../Page/アールガウ州.md "wikilink")の州都[アーラウ](../Page/アーラウ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

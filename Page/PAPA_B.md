@@ -467,7 +467,7 @@ CCCD</p></td>
 ## 外部リンク
 
   - [PAPA B | ARTIST | MIGHTY CROWN ENTERTAINMENT](http://www.mightycrown.com/artist/papa_b.html)
-  - [papabオフィシャルブログ 「お金じゃ買えないものリスト」 Powered by Ameba](http://ameblo.jp/papa-b-20/)
+  - [papabオフィシャルブログ 「お金じゃ買えないものリスト」 Powered by Ameba](https://ameblo.jp/papa-b-20/)
   - [PAPA B | ROCKERS channel](http://rockers-channel.com/author/papab)
 
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink")

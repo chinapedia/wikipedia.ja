@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!リクナビ](https://ja.wikipedia.org/wiki/Yahoo!リクナビ)から翻訳されています。
 
 
 **Yahoo\!リクナビ**（やふーりくなび）は、かつて[ヤフーと](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")[リクルートが共同で運営していた求人情報サービス](../Page/リクルートホールディングス.md "wikilink")。
@@ -35,9 +35,8 @@
 
 ## 外部リンク
 
-  - [Yahoo\!リクナビ](http://rikunabi.yahoo.co.jp)
-  - [プレスリリース（Yahoo\!リクナビOPENのお知らせ）](http://pr.yahoo.co.jp/release/2004/0401a.html)
-
+  -
+  -
 [Category:求人情報サイト](https://ja.wikipedia.org/wiki/Category:求人情報サイト "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink") [Category:リクルートの歴史](https://ja.wikipedia.org/wiki/Category:リクルートの歴史 "wikilink") [Category:労働に関するメディア](https://ja.wikipedia.org/wiki/Category:労働に関するメディア "wikilink") [Category:2004年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2004年開設のウェブサイト "wikilink") [Category:2012年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2012年廃止のウェブサイト "wikilink")
 
 1.  [リクナビNEXTからのお知らせ](https://rikunabi-next.yahoo.co.jp/rnc/docs/cp_s00914.jsp?html_nm=info/yahoorikunabi.html)

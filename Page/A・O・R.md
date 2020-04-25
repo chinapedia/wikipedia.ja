@@ -172,7 +172,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）</p></td>
+<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）★</p></td>
 <td></td>
 <td></td>
 </tr>

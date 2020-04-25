@@ -13,7 +13,7 @@
 
   - テレビは4ページを1日のくくりとしている。
       - その日付最初の2ページはNHK関連で、見開き左端がその日のNHK注目番組を3つ、そして[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")、[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")、更に右側は[NHK BS1](../Page/NHK_BS1.md "wikilink")、[NHK BSプレミアムの大型フルサイズ番組表](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
-      - 次の2ページは民放関連で、見開き左側が在京キー局（関西版は在阪準キー局）の標準フルサイズ番組表、右側は民放キー局系各局、[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、[トゥエルビの番組表が標準ハーフサイズで掲載されている](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")。以前は有料BSの[WOWOW](../Page/WOWOW.md "wikilink")（プライム、ライブ、シネマ）、[スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")1・2・3の番組表を載せていたことがあったが、有料BSが[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以後段階を追って増えたため、現在は番組表の掲載を省略されている（ただし問い合わせ一覧にはこの2局の連絡先住所・電話番号・URLは掲載されている）。アナログCS時代には[スカイポート](../Page/スカイポート.md "wikilink")の番組表が掲載されていた。
+      - 次の2ページは民放関連で、見開き左側が在京キー局（関西版は在阪準キー局）の標準フルサイズ番組表、右側は民放キー局系各局、[BS11](../Page/日本BS放送.md "wikilink")、[トゥエルビの番組表が標準ハーフサイズで掲載されている](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")。以前は有料BSの[WOWOW](../Page/WOWOW.md "wikilink")（プライム、ライブ、シネマ）、[スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")1・2・3の番組表を載せていたことがあったが、有料BSが[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以後段階を追って増えたため、現在は番組表の掲載を省略されている（ただし問い合わせ一覧にはこの2局の連絡先住所・電話番号・URLは掲載されている）。アナログCS時代には[スカイポート](../Page/スカイポート.md "wikilink")の番組表が掲載されていた。
   - ラジオは、テレビの後ろ側のページにあり、
       - 最初と2ページ目右半分がラジオ注目番組の記事。
       - 2ページ目左端と3・4ページ目が1週間の[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")の大型番組表（『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』の詳細な時間割が下段にある）

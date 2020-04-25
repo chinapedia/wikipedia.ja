@@ -39,6 +39,6 @@
 ## 外部リンク
 
   - [ボズアトールのプロフィールページ](http://vozator.com/profile/003_inage.html)
-  - [誇り高き遊び人魂の社会の窓](http://ameblo.jp/funk-kay/)
+  - [誇り高き遊び人魂の社会の窓](https://ameblo.jp/funk-kay/)
 
 [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:香川県出身の人物](https://ja.wikipedia.org/wiki/Category:香川県出身の人物 "wikilink") [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

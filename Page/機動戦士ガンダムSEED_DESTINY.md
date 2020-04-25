@@ -1135,7 +1135,7 @@ PHASE-42、PHASE-49<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>2013年<a href="../Page/4月7日.md" title="wikilink">4月7日</a> - 2014年<a href="../Page/3月16日.md" title="wikilink">3月16日</a></p></td>
 <td><p>日曜 19:30 - 20:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送" title="wikilink">BS放送</a></p></td>
@@ -1222,6 +1222,24 @@ PHASE-42、PHASE-49<br />
 :\* [スーパーロボット大戦V](https://ja.wikipedia.org/wiki/スーパーロボット大戦V "wikilink")
 
 :\* [スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")
+
+  -
+
+  - [SDガンダム GGENERATIONシリーズ](../Page/SDガンダム_GGENERATION.md "wikilink")
+
+:\* SDガンダム GGENERATION PORTABLE
+
+:\* SDガンダム GGENERATION CROSS DRIVE
+
+:\* SDガンダム GGENERATION WARS
+
+:\* SDガンダム GGENERATION WORLD
+
+:\* SDガンダム GGENERATION 3D
+
+:\* SDガンダム GGENERATION OVER WORLD
+
+:\* SDガンダム GGENERATION CROSSRAYS
 
   -
 

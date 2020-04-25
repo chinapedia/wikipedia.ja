@@ -45,7 +45,7 @@ WAGEの名称の由来は、「**W**aseda **A**cademic **G**ag **E**ssence」の
 
   - [クチ×コミ](../Page/クチ×コミ.md "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[JRN系](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")）
   - 超V.I.P（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・月1回）
-  - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
+  - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](../Page/山口放送.md "wikilink")、[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink")（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")・月曜のみ、2004年11月8日）
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・キャッチコピーは「新感覚の笑劇場」）
   - 笑林寺2（[TBS系](../Page/TBSテレビ.md "wikilink")）

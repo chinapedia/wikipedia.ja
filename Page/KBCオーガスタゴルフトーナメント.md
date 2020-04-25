@@ -109,7 +109,7 @@
 
   - [九州朝日放送による大会公式サイト](http://www.kbc.co.jp/augusta/)
 
-[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:福岡県のスポーツ](https://ja.wikipedia.org/wiki/Category:福岡県のスポーツ "wikilink") [Category:九州朝日放送](https://ja.wikipedia.org/wiki/Category:九州朝日放送 "wikilink") [Category:1973年開始のイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のイベント "wikilink") [Category:久光製薬](https://ja.wikipedia.org/wiki/Category:久光製薬 "wikilink") [Category:RIZAPグループ](https://ja.wikipedia.org/wiki/Category:RIZAPグループ "wikilink")
+[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:九州朝日放送](https://ja.wikipedia.org/wiki/Category:九州朝日放送 "wikilink") [Category:久光製薬](https://ja.wikipedia.org/wiki/Category:久光製薬 "wikilink") [Category:RIZAPグループ](https://ja.wikipedia.org/wiki/Category:RIZAPグループ "wikilink") [Category:福岡県のスポーツ](https://ja.wikipedia.org/wiki/Category:福岡県のスポーツ "wikilink") [Category:1973年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のスポーツイベント "wikilink")
 
 1.  [2012年](../Page/2012年.md "wikilink")から女子プロゴルフトーナメント「[フンドーキンレディース（2012年）→ほけんの窓口レディース（2013年以降）](../Page/ほけんの窓口レディース.md "wikilink")」の開催コース。
 2.

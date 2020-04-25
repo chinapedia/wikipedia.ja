@@ -131,20 +131,33 @@
 
 ### 現在のキャスター
 
-  - [井上真帆](https://ja.wikipedia.org/wiki/井上真帆 "wikilink") - より
+  - BSニュース・BSニュース4K
+
+<!-- end list -->
+
   - [長谷川静香](https://ja.wikipedia.org/wiki/長谷川静香_\(アナウンサー\) "wikilink") - より
   - [佐久川{{ruby](https://ja.wikipedia.org/wiki/佐久川智 "wikilink") - より
   - [木下瑠音](https://ja.wikipedia.org/wiki/木下瑠音 "wikilink") - より
   - [笠井美穂](https://ja.wikipedia.org/wiki/笠井美穂 "wikilink") - より
+  - [秋山千鶴](https://ja.wikipedia.org/wiki/秋山千鶴 "wikilink") - より
   - [細谷翠](https://ja.wikipedia.org/wiki/細谷翠 "wikilink") - より
-  - [徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink") - より
-  - [秋山千鶴](https://ja.wikipedia.org/wiki/秋山千鶴 "wikilink") - より\[11\]
   - [阪田陽子](https://ja.wikipedia.org/wiki/阪田陽子 "wikilink") - より
-  - [岡裕美](https://ja.wikipedia.org/wiki/岡裕美 "wikilink") - より
-  - [吉井明子](https://ja.wikipedia.org/wiki/吉井明子 "wikilink") - より（BSニュース4K気象情報担当）
-  - [糸井羊司](../Page/糸井羊司.md "wikilink") - より（BSニュース4K担当）
-  - [後藤康之](https://ja.wikipedia.org/wiki/後藤康之 "wikilink") - より（BSニュース4K担当）
-  - [黒田信哉](../Page/黒田信哉.md "wikilink") - 2020年4月予定（BSニュース4K担当）
+  - [徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink") - より
+  - [岡{{ruby](https://ja.wikipedia.org/wiki/岡裕美 "wikilink") - より
+  - [福永美春](https://ja.wikipedia.org/wiki/福永美春 "wikilink") - より
+
+<!-- end list -->
+
+  - 平日のBSニュース4K専任
+
+<!-- end list -->
+
+  - [糸井羊司](../Page/糸井羊司.md "wikilink") - より
+  - [後藤康之](https://ja.wikipedia.org/wiki/後藤康之_\(アナウンサー\) "wikilink") - より
+  - [丹沢研二](../Page/丹沢研二.md "wikilink") - より
+  - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink") - より
+  - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink") - より
+  - [吉井明子](https://ja.wikipedia.org/wiki/吉井明子 "wikilink") - より（[気象情報](../Page/気象情報_\(NHK\).md "wikilink")）
 
 ### 歴代のキャスター
 
@@ -152,7 +165,7 @@
 <thead>
 <tr class="header">
 <th><p>年度</p></th>
-<th><p>男性アナウンサー[12]</p></th>
+<th><p>男性アナウンサー[11]</p></th>
 <th><p>女性キャスター</p></th>
 </tr>
 </thead>
@@ -173,7 +186,7 @@
 <li>伊藤和美</li>
 <li><a href="../Page/平尾由希.md" title="wikilink">平尾由希</a></li>
 <li><a href="../Page/江崎友基子.md" title="wikilink">江崎友基子</a></li>
-<li>中村麦香[13]（- ）</li>
+<li>中村麦香[12]（- ）</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -190,7 +203,7 @@
 <li>安藤和美 （旧姓：伊藤）</li>
 <li>平尾由希</li>
 </ul>
-<p>* 中村麦香[14]（ -{{Dts</p></td>
+<p>* 中村麦香[13]（ -{{Dts</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年</p></td>
@@ -204,7 +217,7 @@
 <li>伊藤奈美</li>
 <li>平尾由希</li>
 <li>小川まどか</li>
-<li><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a>[15]</li>
+<li><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a>[14]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -217,7 +230,7 @@
 <td><ul>
 <li>栗本法子</li>
 <li>平尾由希</li>
-<li>斎藤綾乃[16]</li>
+<li>斎藤綾乃[15]</li>
 <li><a href="../Page/島ひとみ.md" title="wikilink">島ひとみ</a></li>
 <li><a href="../Page/藤田真奈美.md" title="wikilink">藤田真奈美</a></li>
 </ul></td>
@@ -243,7 +256,7 @@
 </ul></td>
 <td><ul>
 <li>平尾由希</li>
-<li>斎藤綾乃[17]</li>
+<li>斎藤綾乃[16]</li>
 <li>島ひとみ</li>
 <li>藤田真奈美</li>
 <li>結野亜希</li>
@@ -287,10 +300,10 @@
 <li><a href="../Page/片山智彦.md" title="wikilink">片山智彦</a></li>
 </ul></td>
 <td><ul>
-<li>結野亜希[18]</li>
+<li>結野亜希[17]</li>
 <li>堤真由美</li>
 <li>栗本祐子</li>
-<li><a href="../Page/倉見慶子.md" title="wikilink">倉見慶子</a>[19]</li>
+<li><a href="../Page/倉見慶子.md" title="wikilink">倉見慶子</a>[18]</li>
 <li><a href="https://ja.wikipedia.org/wiki/上代真希" title="wikilink">上代真希</a></li>
 </ul></td>
 </tr>
@@ -304,8 +317,8 @@
 <li>倉見慶子</li>
 <li>上代真希</li>
 <li><a href="https://ja.wikipedia.org/wiki/工藤紋子" title="wikilink">工藤紋子</a></li>
-<li><a href="../Page/堀友理子.md" title="wikilink">堀友理子</a>[20]</li>
-<li><a href="../Page/實石あづさ.md" title="wikilink">實石あづさ</a>[21]</li>
+<li><a href="../Page/堀友理子.md" title="wikilink">堀友理子</a>[19]</li>
+<li><a href="../Page/實石あづさ.md" title="wikilink">實石あづさ</a>[20]</li>
 <li><a href="https://ja.wikipedia.org/wiki/井上真帆" title="wikilink">井上真帆</a>（- ）</li>
 </ul></td>
 </tr>
@@ -334,7 +347,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年<br />
-[22]</p></td>
+[21]</p></td>
 <td><ul>
 <li>伊藤博英</li>
 </ul></td>
@@ -358,7 +371,7 @@
 <li>竹村優香</li>
 <li>長谷川静香</li>
 </ul>
-<p>* 實石あづさ[23]（{{Dts</p></td>
+<p>* 實石あづさ[22]（{{Dts</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
@@ -374,13 +387,13 @@
 <li><a href="https://ja.wikipedia.org/wiki/笠井美穂" title="wikilink">笠井美穂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/河野千秋" title="wikilink">河野千秋</a></li>
 </ul>
-<p>* <a href="https://ja.wikipedia.org/wiki/秋山千鶴" title="wikilink">秋山千鶴</a>[24]（{{Dts</p></td>
+<p>* <a href="https://ja.wikipedia.org/wiki/秋山千鶴" title="wikilink">秋山千鶴</a>[23]（{{Dts</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><ul>
-<li><a href="../Page/滑川和男.md" title="wikilink">滑川和男</a>（4K）[25]</li>
-<li><a href="../Page/糸井羊司.md" title="wikilink">糸井羊司</a>（4K）[26]</li>
+<li><a href="../Page/滑川和男.md" title="wikilink">滑川和男</a>（4K）</li>
+<li><a href="../Page/糸井羊司.md" title="wikilink">糸井羊司</a>（4K）</li>
 </ul></td>
 <td><ul>
 <li>實石あづさ</li>
@@ -393,7 +406,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/徳田琴美" title="wikilink">徳田琴美</a></li>
 <li>秋山千鶴</li>
 <li><a href="https://ja.wikipedia.org/wiki/阪田陽子" title="wikilink">阪田陽子</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/吉井明子" title="wikilink">吉井明子</a>（4K気象情報）[27]</li>
+<li><a href="https://ja.wikipedia.org/wiki/吉井明子" title="wikilink">吉井明子</a>（4K）</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -406,185 +419,235 @@
 
 ### キャスターのローテーション
 
-#### 2020年度上半期
+#### 2020年度
 
 <table>
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>担当</p></th>
+<th><p>平日</p></th>
+<th><p>土日祝</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>5:50</p></td>
-<td><p>（女性）</p></td>
+<td><p>女性A</p></td>
+<td><p>rowspan="3" </p></td>
 </tr>
 <tr class="even">
 <td><p>6:50</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8:50</p></td>
+<td><p>女性A</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10:50</p></td>
+<td><p>女性B</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>12:45（土日祝は12:50）</p></td>
-<td><p>平日：男女ペア<br />
-土日祝：女性のみ</p></td>
+<td><p>12:45<br />
+（12:50）</p></td>
+<td><p>男性と<br />
+女性E</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>13:50</p></td>
-<td><p>（女性）</p></td>
+<td><p>女性B</p></td>
+<td><p>女性B</p></td>
 </tr>
 <tr class="even">
 <td><p>14:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>15:50</p></td>
+<td><p>女性C</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>16:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>17:45（土日祝は17:50）</p></td>
-<td><p>平日：男女ペア<br />
-土日祝：女性のみ |-|-</p></td>
+<td><p>17:45<br />
+（17:50）</p></td>
+<td><p>男性と<br />
+女性E</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>18:50</p></td>
+<td><p>女性C</p></td>
+<td><p>女性C</p></td>
+</tr>
+<tr class="odd">
 <td><p>19:50</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>20:50</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>20:50</p></td>
+<td><p>女性D</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>21:50</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>22:50</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>22:50</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>23:50</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-#### 2019年度下半期
+  - カッコは土日祝。
+
+#### 過年度
 
 <table>
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>担当</p></th>
+<th><p>平日</p></th>
+<th><p>土日祝</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>5:50</p></td>
-<td><p>（女性）</p></td>
+<td><p>女性A</p></td>
+<td><p>女性A</p></td>
 </tr>
 <tr class="even">
 <td><p>6:50</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8:50</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10:50</p></td>
-<td></td>
+<td><p>女性B</p></td>
+<td><p>女性B</p></td>
 </tr>
 <tr class="odd">
 <td><p>11:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>12:45（土日祝は12:50）</p></td>
-<td><p>平日：男女ペア<br />
-土日祝：女性のみ</p></td>
+<td><p>12:45<br />
+（12:50）</p></td>
+<td><p>男性と<br />
+女性E</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>13:50</p></td>
-<td><p>（女性）</p></td>
+<td><p>女性B</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>14:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>15:50</p></td>
-<td></td>
+<td><p>女性C</p></td>
+<td><p>女性C</p></td>
 </tr>
 <tr class="even">
 <td><p>16:50</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>17:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>18:45（土日祝は18:50）</p></td>
-<td><p>平日：男女ペア<br />
-土日祝：女性のみ</p></td>
-</tr>
-<tr class="odd">
-<td><p>19:50</p></td>
-<td><p>（女性）</p></td>
-</tr>
-<tr class="even">
-<td><p>20:50</p></td>
+<td><p>18:45<br />
+（18:50）</p></td>
+<td><p>男性と<br />
+女性E</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>19:50</p></td>
+<td><p>女性C</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20:50</p></td>
+<td><p>女性D</p></td>
+<td><p>女性D</p></td>
+</tr>
+<tr class="odd">
 <td><p>21:50</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22:50</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>23:50</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-#### 2018年度から2019度上半期
+  - カッコは土日祝。
 
 |       | 担当   |
 | ----- | ---- |
@@ -607,8 +670,6 @@
 | 21:50 |      |
 | 22:50 |      |
 | 23:50 |      |
-
-#### 過年度
 
 |       | 担当   |
 | ----- | ---- |
@@ -2881,7 +2942,7 @@
 
 ## 月刊\!ジョセイメセン
 
-  - 2017年4月から7月まで毎月1回に編成された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。当該番組の[スピンオフ](../Page/スピンオフ.md "wikilink")の扱いで、女性キャスター2〜3人とゲスト1人が出演し、『BSニュース』で取り扱う国内外のニュースとは別に一人の女性の視点からチョイスしたユルいニュースと1か月間のニュース事項で特に注目すべき話題を取り上げ、キャスター自らのロケに出向き、関係者・有識者へのインタビュー取材を行うことで問題点を探る構成である\[28\]。また、演出もBSニュースと比較し、セットも女性的な小物が置かれ、立ちイスで一箇所に固まり、出演者の手元にはノートPCを設置する。
+  - 2017年4月から7月まで毎月1回に編成された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。当該番組の[スピンオフ](../Page/スピンオフ.md "wikilink")の扱いで、女性キャスター2〜3人とゲスト1人が出演し、『BSニュース』で取り扱う国内外のニュースとは別に一人の女性の視点からチョイスしたユルいニュースと1か月間のニュース事項で特に注目すべき話題を取り上げ、キャスター自らのロケに出向き、関係者・有識者へのインタビュー取材を行うことで問題点を探る構成である\[24\]。また、演出もBSニュースと比較し、セットも女性的な小物が置かれ、立ちイスで一箇所に固まり、出演者の手元にはノートPCを設置する。
   - 放送時間は22:00から22:50
   - テーマソングは『アラジン』 （[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")）
 
@@ -2891,7 +2952,7 @@
 <tr class="header">
 <th><p>放送日</p></th>
 <th><p>メインテーマ</p></th>
-<th><p>出演者[29]</p></th>
+<th><p>出演者[25]</p></th>
 <th><p>キャスターセレクト</p></th>
 <th><p>アシスタント</p></th>
 </tr>
@@ -2900,7 +2961,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>の自主避難をしている女性達の現状<sub>（杉本）</sub><br />
-世界で輝く日本人女性[30]<sub>（高嶋）</sub></p></td>
+世界で輝く日本人女性[26]<sub>（高嶋）</sub></p></td>
 <td><p>上代真希</p></td>
 <td><p>消える<a href="../Page/ポテトチップス.md" title="wikilink">ポテチ</a></p></td>
 <td><p><a href="../Page/高木康博.md" title="wikilink">高木康博</a></p></td>
@@ -2921,7 +2982,7 @@
 </tr>
 <tr class="even">
 <td><p><br />
-[31]</p></td>
+[27]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/待機児童" title="wikilink">待機児童</a>問題<sub>（實石）</sub></p></td>
 <td><p>高嶋未希</p></td>
 <td><p>楽しみながら学ぶ（デジタル教材と<a href="https://ja.wikipedia.org/wiki/うんこ漢字ドリル" title="wikilink">うんこ漢字ドリル</a>）</p></td>
@@ -2943,17 +3004,17 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK青森放送局#キャスター" title="wikilink">亀谷渉子</a></p></td>
-<td><p><a href="../Page/シッティングバレーボール.md" title="wikilink">シッティングバレーボール</a>、<a href="https://ja.wikipedia.org/wiki/青天の霹靂_(米)" title="wikilink">青森の特A米</a>[32]</p></td>
+<td><p><a href="../Page/シッティングバレーボール.md" title="wikilink">シッティングバレーボール</a>、<a href="https://ja.wikipedia.org/wiki/青天の霹靂_(米)" title="wikilink">青森の特A米</a>[28]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><br />
-[33]</p></td>
-<td><p>歯止めの掛からない<a href="https://ja.wikipedia.org/wiki/少子化" title="wikilink">少子化</a><sub>（外村）</sub>[34]</p></td>
+[29]</p></td>
+<td><p>歯止めの掛からない<a href="https://ja.wikipedia.org/wiki/少子化" title="wikilink">少子化</a><sub>（外村）</sub>[30]</p></td>
 <td><p>上代真希</p></td>
-<td><p>「母親を尊敬」[35]</p></td>
+<td><p>「母親を尊敬」[31]</p></td>
 <td><p><a href="../Page/塩澤大輔.md" title="wikilink">塩澤大輔</a></p></td>
 </tr>
 <tr class="odd">
@@ -2979,7 +3040,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>どこが6点!?[36] 有働由美子の経歴</p></td>
+<td><p>どこが6点!?[32] 有働由美子の経歴</p></td>
 <td><p>上代真希</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/求人倍率#新規求人倍率及び有効求人倍率" title="wikilink">有効求人倍率</a>（介護現場の離職と人手不足の取材VTR）</p></td>
 <td></td>
@@ -2987,14 +3048,14 @@
 <tr class="odd">
 <td><p>高嶋未希</p></td>
 <td><p>「<a href="../Page/リカちゃん.md" title="wikilink">リカちゃん</a>」誕生50周年<br />
-<a href="https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨" title="wikilink">平成29年7月九州北部豪雨</a>のその後[37]</p></td>
+<a href="https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨" title="wikilink">平成29年7月九州北部豪雨</a>のその後[33]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/有働由美子" title="wikilink">有働由美子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドナルド・トランプ" title="wikilink">ドナルド・トランプ</a> <a href="../Page/アメリカ合衆国大統領.md" title="wikilink">アメリカ合衆国大統領</a>就任から半年[38]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドナルド・トランプ" title="wikilink">ドナルド・トランプ</a> <a href="../Page/アメリカ合衆国大統領.md" title="wikilink">アメリカ合衆国大統領</a>就任から半年[34]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3038,8 +3099,8 @@
 8.  『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』、『正午のニュース』、『午後6時のニュース』、『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』、『[ニュースウオッチ9](../Page/ニュースウオッチ9.md "wikilink")』その他、総合テレビの定時ニュース。
 9.  これまでの実施事例としては、[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")期間中は一部時間帯（主に週末のJST10時台と22時台および次番組にバンクーバーオリンピックハイライトが組まれている時間帯。すべて時差放送）においてノンスクランブル放送された。また、[2010 FIFAワールドカップ期間中も一部日程](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")・時間帯で通常ノンスクランブル放送を行っている総合テレビの定時ニュースが放送できない際の差し替えでもノンスクランブル放送が行なわれ、[2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[第61回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")の[再放送](../Page/再放送.md "wikilink")内（JST7:20-11:40）の中断ニュース（JST9:15-9:25。BS1でJST8:50-9:00放送分の時差放送）、2011年4月3日以降の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の特設ニュース期間（日中時間帯の一部）でもノンスクランブル放送が行なわれた。2012年のロンドンオリンピック期間中は午前と夜間の時間帯（8月4日と11日は正午前も）を中心に総合テレビの定時ニュースの放送がない（または予定していた時差放送が総合テレビの放送時間変更によりなくなった）際にもノンスクランブル放送を実施した。
 10. （平成16年9月22日付）
-11. 2018年度にも出演あり。
-12. 徹宵番担当者を除く。
+11. 徹宵番担当者を除く。
+12.
 13.
 14.
 15.
@@ -3051,18 +3112,14 @@
 21.
 22.
 23.
-24.
-25. BSニュース4Kのみ出演。
-26.
-27.
-28. [2017年4月29日放送分・NHK番組表](https://hh.pid.nhk.or.jp/pidh07/ProgramIntro/Show.do?pkey=001-20170429-11-32317)
-29. 各放送日の最上段は進行役
-30. NGO法人 グローバル・ギビング
-31. 直前の21:50のBSニュースの最後に竹村が出演し、番組の告知を行う
-32. 取材ロケは竹村が担当
-33. 『[ごごナマ](https://ja.wikipedia.org/wiki/ごごナマ "wikilink")』（6月19日放送分）にて、上代と高嶋が生出演し、番組宣伝を行う
-34. [野田聖子](../Page/野田聖子.md "wikilink")へのインタビュー含む
-35. 「尊敬する人」母親が初めて父親上回る※博報堂・子供生活調査
-36. 人生満足度※10点満点中
-37. リポートは江河が担当
-38. メインは[メラニア・トランプ](https://ja.wikipedia.org/wiki/メラニア・トランプ "wikilink")のイスラエル・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")外訪時の「手つなぎ」拒否
+24. [2017年4月29日放送分・NHK番組表](https://hh.pid.nhk.or.jp/pidh07/ProgramIntro/Show.do?pkey=001-20170429-11-32317)
+25. 各放送日の最上段は進行役
+26. NGO法人 グローバル・ギビング
+27. 直前の21:50のBSニュースの最後に竹村が出演し、番組の告知を行う
+28. 取材ロケは竹村が担当
+29. 『[ごごナマ](https://ja.wikipedia.org/wiki/ごごナマ "wikilink")』（6月19日放送分）にて、上代と高嶋が生出演し、番組宣伝を行う
+30. [野田聖子](../Page/野田聖子.md "wikilink")へのインタビュー含む
+31. 「尊敬する人」母親が初めて父親上回る※博報堂・子供生活調査
+32. 人生満足度※10点満点中
+33. リポートは江河が担当
+34. メインは[メラニア・トランプ](https://ja.wikipedia.org/wiki/メラニア・トランプ "wikilink")のイスラエル・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")外訪時の「手つなぎ」拒否

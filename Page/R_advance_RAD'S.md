@@ -68,12 +68,12 @@
 
 ## Real Love Song
 
-歌作りからCD発売までをリアルに体験する企画。企画に賛同した[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")[根本要](../Page/根本要.md "wikilink")が作曲を担当、大泉がリスナーからの投稿を元に作詞。完成した楽曲は「本日のスープ」。歌詞の中には一言もないが、言葉の中に「札幌の街並み」を歌っていることをイメージさせる。
+歌作りからCD発売までをリアルに体験する企画。企画に賛同した[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")の[根本要](../Page/根本要.md "wikilink")が作曲を担当、大泉がリスナーからの投稿を元に作詞。完成した楽曲は「[本日のスープ](../Page/本日のスープ.md "wikilink")」。歌詞の中には一言もないが、言葉の中に「札幌の街並み」を歌っていることをイメージさせる。
 
-[2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に「北海道盤」として全道の[玉光堂](https://ja.wikipedia.org/wiki/玉光堂 "wikilink")の店頭とインターネットショッピングでリリース。同年[3月31日](../Page/3月31日.md "wikilink")には「全国盤」が全国のCDショップで発売された。
+[2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に「北海道盤」として全道の[玉光堂](https://ja.wikipedia.org/wiki/玉光堂 "wikilink")の店頭とインターネットショッピングでリリース。同年[3月31日](../Page/3月31日.md "wikilink")には「全国盤」が全国のCDショップで発売され、大泉とスターダストレビューは『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や、『[うたばん](../Page/うたばん.md "wikilink")』などにも出演した。
 
 ## 外部リンク
 
   - [AIR-G' R advance RAD'S](http://www.air-g.co.jp/rads/)
 
-[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TEAM_NACS](https://ja.wikipedia.org/wiki/Category:TEAM_NACS "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink")
+[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TEAM_NACS](https://ja.wikipedia.org/wiki/Category:TEAM_NACS "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink")

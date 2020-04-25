@@ -584,7 +584,7 @@
       -
         共演者・内容については、[\#BOSS HGコラボCF シリーズを参照](https://ja.wikipedia.org/wiki/#BOSS_HGコラボCF_シリーズ "wikilink")
     <!-- end list -->
-      - [豊川悦司](../Page/豊川悦司.md "wikilink")、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")（2002年）
+      - [豊川悦司](../Page/豊川悦司.md "wikilink")、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（2002年）
       - [CREATIVE OFFICE CUE所属タレント一同](../Page/CREATIVE_OFFICE_CUE.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")のみ）
       - [矢作兼](../Page/矢作兼.md "wikilink")（2006年9月 - ・Begin\!のみ）
   - BOSSレインボーマウンテン
@@ -1525,8 +1525,12 @@
 ## 外部リンク
 
   - [BOSS TOWN](https://www.suntory.co.jp/softdrink/boss/)
+
   - [ソフトドリンクアーカイブ（かつて発売された商品の画像あり）](http://softdrinks.org/asd0503a/boss.htm)
 
+  -
+  -
+  -
 [Category:缶コーヒー](https://ja.wikipedia.org/wiki/Category:缶コーヒー "wikilink") [Category:サントリー](https://ja.wikipedia.org/wiki/Category:サントリー "wikilink")
 
 1.  「商標判例データベース」http://shohyo.hanrei.jp/hanrei/tm/3926.html
@@ -1622,7 +1626,7 @@
 91. CM途中でジョーンズは[戦国武将になっている](../Page/戦国大名.md "wikilink")。
 92.
 93. CM途中でジョーンズは法被を着て[神輿](../Page/神輿.md "wikilink")の上で踊る大工方（だいくがた）になっている。
-94. BGMには[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")の『[今日までそして明日から](https://ja.wikipedia.org/wiki/今日までそして明日から_\(よしだたくろうの曲\) "wikilink")』が使用されている。
+94. BGMには[吉田拓郎](../Page/吉田拓郎.md "wikilink")の『[今日までそして明日から](https://ja.wikipedia.org/wiki/今日までそして明日から_\(よしだたくろうの曲\) "wikilink")』が使用されている。
 95.
 96. CM途中でジョーンズは浮世絵に写る遊覧船の船頭になっている。
 97. BGMには『夢であいましょう』、『[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")』が使用されている。

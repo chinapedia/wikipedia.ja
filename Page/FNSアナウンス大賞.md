@@ -32,7 +32,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <td><p><a href="../Page/山中秀樹.md" title="wikilink">山中秀樹</a><br />
 （<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>）</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/生田恵子（アナウンサー）" title="wikilink">生田恵子</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/生田恵子_(アナウンサー)" title="wikilink">生田恵子</a><br />
 （<a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -47,7 +47,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="even">
 <td><p>第3回<br />
 （<a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a>）</p></td>
-<td><p><a href="../Page/山田幸子.md" title="wikilink">山田幸子</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/山田幸子_(テレビ愛媛アナウンサー)" title="wikilink">山田幸子</a><br />
 （<a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a>）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三竹映子" title="wikilink">三竹映子</a><br />
@@ -189,7 +189,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="../Page/2002年.md" title="wikilink">2002年</a>）</p></td>
 <td><p><a href="../Page/山本浩之_(アナウンサー).md" title="wikilink">山本浩之</a><br />
 （関西テレビ）</p></td>
-<td><p>NYリポート</p></td>
+<td><p><a href="../Page/ニューヨーク.md" title="wikilink">NYリポート</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田恭子" title="wikilink">内田恭子</a><br />
 （フジテレビ）</p></td>
 </tr>
@@ -207,7 +207,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="../Page/2004年.md" title="wikilink">2004年</a>）</p></td>
 <td><p><a href="../Page/森脇淳.md" title="wikilink">森脇淳</a><br />
 （東海テレビ）</p></td>
-<td><p>春高バレー　決勝戦</p></td>
+<td><p><a href="../Page/全国高等学校バレーボール選抜優勝大会.md" title="wikilink">春高バレー</a> 決勝戦</p></td>
 <td><p><a href="../Page/吉井歌奈子.md" title="wikilink">吉井歌奈子</a><br />
 （東海テレビ）</p></td>
 </tr>
@@ -244,7 +244,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>）</p></td>
 <td><p><a href="../Page/佐々木恭子.md" title="wikilink">佐々木恭子</a><br />
 （フジテレビ）</p></td>
-<td><p>FNSチャリティー支援国取材</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FNSチャリティキャンペーン" title="wikilink">FNSチャリティー支援国取材</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/米田元気" title="wikilink">米田元気</a><br />
 （福島テレビ）</p></td>
 </tr>
@@ -337,7 +337,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="../Page/2018年.md" title="wikilink">2018年</a>）</p></td>
 <td><p><a href="../Page/坂梨公俊.md" title="wikilink">坂梨公俊</a><br />
 (テレビ西日本)</p></td>
-<td><p>「ホークス1ダホー!LIVE2017 プロ野球中継 ソフトバンク 対 西武」[9]</p></td>
+<td><p>「<a href="../Page/野球道_(フジテレビ系列).md" title="wikilink">ホークス1ダホー!LIVE2017</a> プロ野球中継 <a href="https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス" title="wikilink">ソフトバンク</a> 対 <a href="https://ja.wikipedia.org/wiki/埼玉西武ライオンズ" title="wikilink">西武</a>」[9]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/牧広大" title="wikilink">牧広大</a><br />
 (仙台放送)</p></td>
 </tr>
@@ -346,7 +346,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 （<a href="../Page/2019年.md" title="wikilink">2019年</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂元龍斗" title="wikilink">坂元龍斗</a><br />
 (関西テレビ)</p></td>
-<td><p>「「直撃LIVE グッディ！」寝屋川中1男女殺害事件初公判 生中継」[10]</p></td>
+<td><p>「「<a href="https://ja.wikipedia.org/wiki/直撃LIVE_グッディ!" title="wikilink">直撃LIVE グッディ!</a>」<a href="https://ja.wikipedia.org/wiki/寝屋川市中1男女殺害事件" title="wikilink">寝屋川中1男女殺害事件初公判</a> 生中継」[10]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/河谷麻瑚" title="wikilink">河谷麻瑚</a><br />
 (石川テレビ)</p></td>
 </tr>
@@ -377,5 +377,5 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 6.  [【大賞に千葉絢子アナウンサー】](https://ja-jp.facebook.com/menkoinews/posts/285760128261158) - めんこいニュース・2015年3月16日
 7.  [FNSアナウンス大賞](http://www.fukushima-tv.co.jp/blog/2015/03/) - 福島テレビアナウンサー日記・2015年3月27日
 8.  [FNSアワード2016贈呈式 第24回FNSドキュメンタリー大賞/第17回FNSソフト工場 「第32回FNSアナウンス大賞授賞式」](http://blog.fujitv.co.jp/newhihyo/E20160319001.html) - 新・週刊フジテレビ批評 2016年3月19日
-9.  [FNS系列28局“最優秀アナウンサー”決定　フジテレビからは3名受賞＜第34回FNSアナウンス大賞＞](https://mdpr.jp/news/detail/1753547) - モデルプレス 2018年3月18日（2018年3月28日閲覧）
-10. [FNS系列28局“最優秀アナウンサー”史上最高得点で決定　フジテレビからは2名受賞＜第35回FNSアナウンス大賞＞](https://mdpr.jp/news/detail/1827763) - モデルプレス 2019年3月16日
+9.  [FNS系列28局“最優秀アナウンサー”決定 フジテレビからは3名受賞＜第34回FNSアナウンス大賞＞](https://mdpr.jp/news/detail/1753547) - モデルプレス 2018年3月18日（2018年3月28日閲覧）
+10. [FNS系列28局“最優秀アナウンサー”史上最高得点で決定 フジテレビからは2名受賞＜第35回FNSアナウンス大賞＞](https://mdpr.jp/news/detail/1827763) - モデルプレス 2019年3月16日

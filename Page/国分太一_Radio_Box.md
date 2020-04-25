@@ -272,7 +272,7 @@
 | [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）★\[7\]                           |                    |            |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）★\[8\]                  |                    |            |
 | [香川県](../Page/香川県.md "wikilink")                                  | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）★\[9\]                            |                    |            |
-| [佐賀県](../Page/佐賀県.md "wikilink")                                  | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）                                   |                    |            |
+| [佐賀県](../Page/佐賀県.md "wikilink")                                  | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）★                                  |                    |            |
 | [大分県](../Page/大分県.md "wikilink")                                  | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）★                       |                    |            |
 | [岐阜県](../Page/岐阜県.md "wikilink")                                  | [エフエム岐阜](../Page/エフエム岐阜.md "wikilink")（FM GIFU）★                              | 毎週土曜 19:00 - 19:55 | \[10\]     |
 | [岩手県](../Page/岩手県.md "wikilink")                                  | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★                             | 毎週土曜 20:00 - 20:55 |            |
@@ -284,7 +284,7 @@
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）★                                  | 毎週日曜 21:00 - 21:55 | \[15\]     |
 | [山形県](../Page/山形県.md "wikilink")                                  | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）★                       | 毎週日曜 22:00 - 22:55 | \[16\]     |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）★                           | \[17\]             |            |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OH\!）★                              | 毎週月曜 28:00 - 28:55 | \[18\]     |
+| [大阪府](../Page/大阪府.md "wikilink")                                  | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM大阪）★                                 | 毎週月曜 28:00 - 28:55 | \[18\]     |
 | [広島県](../Page/広島県.md "wikilink")                                  | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）★                              | 毎週水曜 28:00 - 28:55 | \[19\]     |
 
 ### 過去

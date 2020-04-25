@@ -485,15 +485,15 @@ ClimatePrediction.netの[BBC協賛版](../Page/英国放送協会.md "wikilink")
 
 ワークの配布は2007年1月で打ち切られ、運用結果をもとにイギリス本国で特番が放映された。（ダイジェスト版は [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink") で閲覧できる。\[9\]既に参加者登録は終了しており、現在は解析中ワークの返却のみ受け付けている。
 
+## 脚注
+
+<references/>
+
 ## 関連項目
 
   - [分散コンピューティング](../Page/分散コンピューティング.md "wikilink")
   - [cell computing βirth](../Page/Cell_computing.md "wikilink")
   - [World Community Grid](../Page/World_Community_Grid.md "wikilink")
-
-## 脚注
-
-<references/>
 
 ## 外部リンク
 

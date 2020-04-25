@@ -133,9 +133,9 @@
 
 ### 現在
 
-2020年4月現在。放送時間の早い順から記載。
+{{\#time:Y年M|+9 hours}}現在。放送時間の早い順から記載。
 
-2020年4月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアムを含む）で聴取可能な放送局。
+★は{{\#time:Y年M|+9 hours}}現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアムを含む）で聴取可能な放送局。
 
 | 放送対象地域                                                            | 放送局名                                                                          | 放送時間               | 脚注         |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ---------- |
@@ -156,7 +156,7 @@
 | [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）★                                |                    |            |
 | [高知県](../Page/高知県.md "wikilink")                                  | [エフエム高知](../Page/エフエム高知.md "wikilink")（Hi-Six）★                               |                    |            |
 | [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")               | [エフエム徳島](../Page/エフエム徳島.md "wikilink")（FM TOKUSHIMA）                          |                    |            |
-| [佐賀県](../Page/佐賀県.md "wikilink")                                  | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）                                   |                    |            |
+| [佐賀県](../Page/佐賀県.md "wikilink")                                  | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）★                                  |                    |            |
 | [大分県](../Page/大分県.md "wikilink")                                  | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）★                       |                    |            |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）★ \[3\]                            |                    |            |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                | [エフエム鹿児島](../Page/エフエム鹿児島.md "wikilink")（μFM）★                                |                    |            |

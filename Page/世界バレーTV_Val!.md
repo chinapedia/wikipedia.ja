@@ -82,7 +82,7 @@
 |                                                     |                                                                |                                                                      |                      |        |
 
   - 次に挙げる局は2006年9月まで放送されていた。
-      - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）、[テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）、[琉球放送](../Page/琉球放送.md "wikilink")（RBC）
+      - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）、[テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）、[琉球放送](../Page/琉球放送.md "wikilink")（RBC）
 
 ## 関連項目
 

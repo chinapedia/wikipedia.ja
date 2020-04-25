@@ -22,4 +22,4 @@
 
 ## 脚注
 
-[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:高橋瞳の楽曲](https://ja.wikipedia.org/wiki/Category:高橋瞳の楽曲 "wikilink") [Category:田中秀典が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中秀典が制作した楽曲 "wikilink") [Category:TBSドラマ30の主題歌](https://ja.wikipedia.org/wiki/Category:TBSドラマ30の主題歌 "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
+[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:高橋瞳の楽曲](https://ja.wikipedia.org/wiki/Category:高橋瞳の楽曲 "wikilink") [Category:田中秀典が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中秀典が制作した楽曲 "wikilink") [Category:TBSドラマ30の主題歌](https://ja.wikipedia.org/wiki/Category:TBSドラマ30の主題歌 "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

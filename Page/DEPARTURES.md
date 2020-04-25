@@ -7,7 +7,7 @@
 
 制作にあたってまずピアノだけでオケを作り、そこからパート別・全体のバックトラックを考えた\[1\]。
 
-歌詞は男女2人の世界が浮かんできて、その世界を断片的に切り取って言葉にまとめた。2人は「今一緒にいる2人」とも「別れた後思い出している2人」ともとれる様にした\[2\]。
+歌詞は小室哲哉が恋人に宛てた想いを形にしたものであり、男女2人の世界が浮かんできて、その世界を断片的に切り取って言葉にまとめた。2人は「今一緒にいる2人」とも「別れた後思い出している2人」ともとれる様にした\[2\]。
 
 シングルでは初めてメンバーの写真がジャケットに使用された。撮影は[アンバサダーホテル](https://ja.wikipedia.org/wiki/アンバサダーホテル "wikilink")で行われた\[3\]。
 
@@ -58,7 +58,7 @@
 
 ## 脚注
 
-[Category:globeの楽曲](https://ja.wikipedia.org/wiki/Category:globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink") [Category:雪を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雪を題材とした楽曲 "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:globeの楽曲](https://ja.wikipedia.org/wiki/Category:globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink") [Category:雪を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雪を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.  ソニー・マガジンズ刊「WHAT's IN?」1996年5月号87P-89Pより。
 2.

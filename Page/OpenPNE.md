@@ -43,7 +43,7 @@
   - [OpenPNE公式サイト](http://www.openpne.jp/)
   - [penPNE 3 - OpenPNE Issue Tracking System](https://redmine.openpne.jp/projects/op3)
   - [OpenPNE Project(SourceForge.net)](https://sourceforge.net/projects/openpne/)
-  - [淡々とはたらくOpenPNE開発者の日記@御苑](http://d.hatena.ne.jp/openpne/)
+  - [淡々とはたらくOpenPNE開発者の日記@御苑](https://openpne.hatenadiary.org/)
 
 ## 脚注
 

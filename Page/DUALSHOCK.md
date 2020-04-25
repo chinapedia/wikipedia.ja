@@ -1,13 +1,9 @@
 > この記事は[DUALSHOCK](https://ja.wikipedia.org/wiki/DUALSHOCK)から翻訳されています。
 
 
-<div class="pathnavbox">
-
-</div>
-
 **DUALSHOCK**（デュアルショック）は、[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink") (SIE) の[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズ向けの[振動](../Page/振動.md "wikilink")機能付き[ゲームコントローラ](../Page/ゲームコントローラ.md "wikilink")。
 
-本項では、[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")**[DUALSHOCK 2](https://ja.wikipedia.org/wiki/#DUALSHOCK_2 "wikilink")**と、[PlayStation 3用の](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")**[DUALSHOCK 3](https://ja.wikipedia.org/wiki/#DUALSHOCK_3 "wikilink")**、[PlayStation 4用の](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")**[DUALSHOCK 4](https://ja.wikipedia.org/wiki/#DUALSHOCK_4 "wikilink")**を併せて扱う。
+本項では、[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")**[DUALSHOCK 2](https://ja.wikipedia.org/wiki/#DUALSHOCK_2 "wikilink")**と、[PlayStation 3用の](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")**[DUALSHOCK 3](https://ja.wikipedia.org/wiki/#DUALSHOCK_3 "wikilink")**、[PlayStation 4用の](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")**[DUALSHOCK 4](https://ja.wikipedia.org/wiki/#DUALSHOCK_4 "wikilink")**、[PlayStation 5用の](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")**[DualSense](https://ja.wikipedia.org/wiki/#DualSense "wikilink")**を併せて扱う。
 
 ## 概要
 
@@ -162,12 +158,20 @@ DUALSHOCK 3の販売開始以降も、モーションコントロール機能の
 
 :\* メーカー希望小売価格は5980円（税抜）。
 
+## DualSense
+
+DualSenseは、[PlayStation 5用のワイヤレスコントローラ](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")\[22\]。
+
+この[コントローラ](https://ja.wikipedia.org/wiki/コントローラ "wikilink")では[PlayStation 4までの](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[DUALSHOCK](../Page/DUALSHOCK.md "wikilink")系列の既存のコントローラーとは外観の基本デザインが異なることもあり、ナンバーリングではなく新たな名称として、五感に訴えかけるゲーム体験の実現を強調して、DualSenseと名付けられた。
+
+  - [ハプティック技術搭載](https://ja.wikipedia.org/wiki/ハプティクス "wikilink")
+  - L2・R2ボタンに抵抗力を感じさせるアダプティブトリガーを採用
+  - [USB Type-C](https://ja.wikipedia.org/wiki/USB_Type-C "wikilink")（有線）/[Bluetooth](../Page/Bluetooth.md "wikilink")（無線）接続
+  - マイク内蔵
+  - [DUALSHOCK 4では](https://ja.wikipedia.org/wiki/DUALSHOCK_4 "wikilink")"SHARE"ボタンだったものの名称を"Create"ボタンに変更。
+
 ## 関連項目
 
-  - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")
-  - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
-  - [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")
-  - [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")
   - [PlayStation Move](https://ja.wikipedia.org/wiki/PlayStation_Move "wikilink")
   - [振動パック](../Page/振動パック.md "wikilink")
   - [ぷるぷるぱっく](../Page/ドリームキャスト.md "wikilink")
@@ -177,6 +181,10 @@ DUALSHOCK 3の販売開始以降も、モーションコントロール機能の
 ### 注釈
 
 ### 出典
+
+## 外部リンク
+
+  - [PS4用ワイヤレスコントローラー(DUALSHOCK 4)](https://www.playstation.com/ja-jp/explore/accessories/gaming-controllers/dualshock-4/) - PlayStation
 
 [Category:ゲームコントローラ](https://ja.wikipedia.org/wiki/Category:ゲームコントローラ "wikilink") [Category:PlayStation](https://ja.wikipedia.org/wiki/Category:PlayStation "wikilink")
 
@@ -201,3 +209,4 @@ DUALSHOCK 3の販売開始以降も、モーションコントロール機能の
 19.
 20.
 21.
+22.

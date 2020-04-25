@@ -10,7 +10,7 @@
 ## 乗り放題エリア
 
   - [難波線](../Page/近鉄難波線.md "wikilink")
-  - [大阪線](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")：[大阪上本町駅](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink") - [布施駅](https://ja.wikipedia.org/wiki/布施駅 "wikilink")
+  - [大阪線](../Page/近鉄大阪線.md "wikilink")：[大阪上本町駅](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink") - [布施駅](https://ja.wikipedia.org/wiki/布施駅 "wikilink")
   - [奈良線](https://ja.wikipedia.org/wiki/近鉄奈良線 "wikilink")
   - [生駒ケーブル](../Page/近鉄生駒鋼索線.md "wikilink")
   - [京都線](../Page/近鉄京都線.md "wikilink")
@@ -22,7 +22,7 @@
 ## 発売社局とその乗り放題エリア
 
   - 大阪市高速電気軌道：Osaka Metroと[大阪シティバス](../Page/大阪シティバス.md "wikilink")（IKEA・USJ線を除く）の全線。近鉄との乗換駅は[地下鉄難波駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")（[大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")）・[日本橋駅](https://ja.wikipedia.org/wiki/日本橋駅_\(大阪府\) "wikilink")（[近鉄日本橋駅](https://ja.wikipedia.org/wiki/近鉄日本橋駅 "wikilink")）・[谷町九丁目駅](https://ja.wikipedia.org/wiki/谷町九丁目駅 "wikilink")（[大阪上本町駅](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink")）・[鶴橋駅](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")のほか、相互直通運転している[中央線と](https://ja.wikipedia.org/wiki/Osaka_Metro中央線 "wikilink")[けいはんな線の](../Page/近鉄けいはんな線.md "wikilink")[長田駅経由でも利用可能](https://ja.wikipedia.org/wiki/長田駅_\(大阪府\) "wikilink")。
-  - 北急：[南北線](https://ja.wikipedia.org/wiki/北大阪急行電鉄南北線 "wikilink")、大阪市営地下鉄、ニュートラムの全線。近鉄との乗換駅は[江坂駅](https://ja.wikipedia.org/wiki/江坂駅 "wikilink")を経由して難波駅。
+  - 北急：[南北線](https://ja.wikipedia.org/wiki/北大阪急行電鉄南北線 "wikilink")、Osaka Metroの全線。近鉄との乗換駅は[江坂駅](https://ja.wikipedia.org/wiki/江坂駅 "wikilink")を経由して難波駅。
   - 京都市交通局：[京都市営地下鉄](../Page/京都市営地下鉄.md "wikilink")全線。近鉄との乗換駅は[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")と[竹田駅](https://ja.wikipedia.org/wiki/竹田駅_\(京都府\) "wikilink")。
   - 京阪：[京津線](../Page/京阪京津線.md "wikilink")、[京阪石山坂本線](../Page/京阪石山坂本線.md "wikilink")、ケーブル線以外の全線。近鉄との乗換駅は[丹波橋駅](https://ja.wikipedia.org/wiki/丹波橋駅 "wikilink")（[近鉄丹波橋駅](https://ja.wikipedia.org/wiki/近鉄丹波橋駅 "wikilink")）。
   - 南海・泉北高速：[関西空港駅](https://ja.wikipedia.org/wiki/関西空港駅 "wikilink")、[高野山駅](https://ja.wikipedia.org/wiki/高野山駅 "wikilink")以外の両社の全線。近鉄との乗換駅は[南海難波駅](https://ja.wikipedia.org/wiki/難波駅_\(南海\) "wikilink")。
@@ -83,16 +83,17 @@
 
 ## 発売料金
 
-  - 京阪：1,700円
-  - Osaka Metro：1,650円
-  - 京都市交通局：1,630円
-  - 北急：1,750円
-  - 阪神：1,850円
-  - 南海・泉北高速、阪急、神戸高速：2,060円
-  - 大阪モノレール：2,260円
-  - 能勢電、神戸市交通局：2,370円
-  - 山陽：2,470円（明石以東版）2,780円（全線版）
-  - 神鉄：2,570円
+  - 京阪：1,800円
+  - Osaka Metro：1,700円
+  - 京都市交通局：1,700円
+  - 北急：1,870円
+  - 阪神：1,900円
+  - 南海・泉北高速、阪急、神戸高速：2,100円
+  - 大阪モノレール：2,430円
+  - 能勢電：2,400円
+  - 神戸市交通局：2,500円
+  - 山陽：2,600円（明石以東版）2,900円（全線版）
+  - 神鉄：2,700円
 
 全て大人料金のみの設定である。
 

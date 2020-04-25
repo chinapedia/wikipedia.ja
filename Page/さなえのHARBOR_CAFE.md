@@ -49,6 +49,6 @@
 
   - [HARBOR CAFE](https://web.archive.org/web/20060421173035/http://jocr.jp/harbor/index.html)
   - [パーソナリティ・田中さなえのＯＡ日記♪](http://cafe-s.seesaa.net/)
-  - [『ハーバーカフェ』専属ピアニスト・天宮遥のブログ](http://ameblo.jp/haruca-i/)
+  - [『ハーバーカフェ』専属ピアニスト・天宮遥のブログ](https://ameblo.jp/haruca-i/)
 
 [Category:ラジオ関西の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ関西の帯番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

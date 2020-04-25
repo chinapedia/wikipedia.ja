@@ -15,7 +15,7 @@ Anthyのバージョニング規則は、バージョン番号が*9026*の場合
 
 ## 歴史
 
-[2000年](../Page/2000年.md "wikilink")5月19日に[京都大学](../Page/京都大学.md "wikilink")を中心に活動している[コンピュータ](../Page/コンピュータ.md "wikilink")[サークル](../Page/サークル.md "wikilink")である[京大マイコンクラブ](https://ja.wikipedia.org/wiki/京大マイコンクラブ "wikilink")内の[Project Hekeにて開発が始まる](https://ja.wikipedia.org/wiki/Project_Heke "wikilink")。
+[2000年](../Page/2000年.md "wikilink")5月19日に[京都大学](../Page/京都大学.md "wikilink")を中心に活動している[コンピュータ](../Page/コンピュータ.md "wikilink")[サークルである](../Page/クラブ活動.md "wikilink")[京大マイコンクラブ](https://ja.wikipedia.org/wiki/京大マイコンクラブ "wikilink")内の[Project Hekeにて開発が始まる](https://ja.wikipedia.org/wiki/Project_Heke "wikilink")。
 
 その後、[IPAの平成](../Page/情報処理推進機構.md "wikilink")13年度[未踏ソフトウェア創造事業](https://ja.wikipedia.org/wiki/未踏ソフトウェア創造事業 "wikilink")として採択される。採択期間中の[2001年](../Page/2001年.md "wikilink")7月に開発版がリリースされ、2001年11月にα版がリリースされた。
 

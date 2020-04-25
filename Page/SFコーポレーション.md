@@ -1,7 +1,7 @@
 > この記事は[SFコーポレーション](https://ja.wikipedia.org/wiki/SFコーポレーション)から翻訳されています。
 
 
-**株式会社SFコーポレーション**（エスエフコーポレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者で、[東京都](../Page/東京都.md "wikilink")[港区に本社を置いている](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。2008年10月31日、三和ファイナンスはかざかファイナンスへ売却され、[商号](../Page/商号.md "wikilink")を**三和ファイナンス株式会社**から変更した。その後創業者は経営に一切関係していない。2011年8月26日、[過払金](../Page/過払金.md "wikilink")債権の返還に行き詰り、破産手続開始決定を受ける。
+**株式会社SFコーポレーション**（エスエフコーポレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者で、[東京都](../Page/東京都.md "wikilink")[港区に本社を置いていた](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。2008年10月31日、三和ファイナンスはかざかファイナンスへ売却され、[商号](../Page/商号.md "wikilink")を**三和ファイナンス株式会社**から変更した。その後創業者は経営に一切関係していない。2011年8月26日、[過払金](../Page/過払金.md "wikilink")債権の返還に行き詰り、破産手続開始決定を受ける。
 
 旧社名と同じ表記である[三和銀行](../Page/三和銀行.md "wikilink")（現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）とは何の関係もない。そのためか、1990年代後半頃から表記を「三和・ファイナンス」としていた。また、グループ会社に三和プランニングがあるが、2014年に大阪で社員が恐喝容疑で逮捕された同名の会社とは全く関係がない。
 
@@ -22,6 +22,8 @@
 2011年8月26日午後5時、東京地方裁判所民事第20部から破産手続開始決定を受けて倒産した\[4\]。負債総額は約1,897億円\[5\]。
 
 2013年2月6日、破産管財人は三和ファイナンス創業者および3社に対して配当金返還訴訟を起こすが一切棄却された。
+
+2017年に最終配当を実施。同年5月24日に東京地方裁判所から破産手続結了決定を受けたと同時に、法人格が消滅した\[6\]。
 
 ## 三和マメワールド
 
@@ -55,11 +57,11 @@
 
 ## 処分
 
-  - [2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、違法な取り立てを行う[マニュアル](../Page/マニュアル.md "wikilink")を作成し、債務者の家族に借金の肩代わりを[強要](https://ja.wikipedia.org/wiki/強要 "wikilink")したり、親族の家にまで押しかけるなどの[貸金業規制法](https://ja.wikipedia.org/wiki/貸金業規制法 "wikilink")違反により、[金融庁](../Page/金融庁.md "wikilink")から全店舗を対象に[4月23日](../Page/4月23日.md "wikilink")から最長[6月27日](../Page/6月27日.md "wikilink")まで、返済受付以外の全業務停止を命じられた\[6\]\[7\]。
+  - [2007年](../Page/2007年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")、違法な取り立てを行う[マニュアル](../Page/マニュアル.md "wikilink")を作成し、債務者の家族に借金の肩代わりを[強要](https://ja.wikipedia.org/wiki/強要 "wikilink")したり、親族の家にまで押しかけるなどの[貸金業規制法](https://ja.wikipedia.org/wiki/貸金業規制法 "wikilink")違反により、[金融庁](../Page/金融庁.md "wikilink")から全店舗を対象に[4月23日](../Page/4月23日.md "wikilink")から最長[6月27日](../Page/6月27日.md "wikilink")まで、返済受付以外の全業務停止を命じられた\[7\]\[8\]。
 
 <!-- end list -->
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")の大宮西口支店で[支店長自らが](../Page/支配人.md "wikilink")、2007年11月に[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")や立て続けに電話するなどの社内規定に違反する取立てを行うなど、現場の監督が十分に行われていなかったことから、[関東財務局](../Page/関東財務局.md "wikilink")長から同店舗について5日間の[業務停止命令](https://ja.wikipedia.org/wiki/業務停止命令 "wikilink")と[業務改善命令](../Page/業務改善命令.md "wikilink")を受けた\[8\]\[9\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[埼玉県](../Page/埼玉県.md "wikilink")の大宮西口支店で[支店長自らが](../Page/支配人.md "wikilink")、2007年11月に[脅迫](https://ja.wikipedia.org/wiki/脅迫 "wikilink")や立て続けに電話するなどの社内規定に違反する取立てを行うなど、現場の監督が十分に行われていなかったことから、[関東財務局](../Page/関東財務局.md "wikilink")長から同店舗について5日間の[業務停止命令](https://ja.wikipedia.org/wiki/業務停止命令 "wikilink")と[業務改善命令](../Page/業務改善命令.md "wikilink")を受けた\[9\]\[10\]。
 
 ## 脚注
 
@@ -76,7 +78,7 @@
   - [三和マネー(三和ファイナンス韓国法人)公式サイト](https://www.sanwamoney.co.kr/) (韓国語)
   - [三和グループ](http://sanwagrp.com) ※創業者が現在経営している会社。二股ラジウム温泉も同社の系列会社が営業している。
 
-[Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:かつて存在した日本の貸金業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の貸金業者 "wikilink") [Category:経営破綻した企業(神奈川県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(神奈川県\) "wikilink")
+[Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:かつて存在した日本の貸金業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の貸金業者 "wikilink") [Category:経営破綻した企業(神奈川県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(神奈川県\) "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:2017年廃止の企業](https://ja.wikipedia.org/wiki/Category:2017年廃止の企業 "wikilink")
 
 1.  [（仮称）新宿区西新宿８丁目　新築工事  （ 賃貸住宅 ）](http://www7.kankyo.metro.tokyo.jp/building/detail/130125_011.html)
 2.  SFコーポレーションは貸付を中止し、債権回収だけを行っているため、同時に株式会社イッコー（現・[Jトラスト](https://ja.wikipedia.org/wiki/Jトラスト "wikilink")株式会社）との間で借り換えに関して業務提携をしている。
@@ -84,7 +86,8 @@
 3.  [お知らせ](http://sf-corp.jp/news/20110808.pdf)
 4.  [破産手続開始決定のお知らせ](http://sf-corp.jp/news/20110826.pdf)
 5.  [帝国データバンク・大型倒産速報：2011年8月27日付け](http://www.tdb.co.jp/tosan/syosai/3500.html) より
-6.  [三和ファイナンスに全店業務停止命令＝本社主導で違法な取り立て－金融庁：時事ドットコム](http://www.jiji.com/jc/c?g=eco_30&k=2007040400618)
-7.  [三和ファイナンス株式会社に対する行政処分について：金融庁](http://www.fsa.go.jp/news/18/kinyu/20070404-1.html)
-8.  [金融庁、消費者金融２社を処分・三和に業務停止命令：NIKKEI NET](http://www.nikkei.co.jp/news/keizai/20080516AT2C1601716052008.html)
-9.  [三和ファイナンス株式会社に対する行政処分について：金融庁](http://www.fsa.go.jp/news/19/kinyu/20080516-8.html)
+6.  [破産手続終結決定のお知らせ（任務終了による計算報告集会開催のご報告）](http://sf-corp.jp/news/20170524.html)SFコーポレーション破産管財人 2017年5月24日
+7.  [三和ファイナンスに全店業務停止命令＝本社主導で違法な取り立て－金融庁：時事ドットコム](http://www.jiji.com/jc/c?g=eco_30&k=2007040400618)
+8.  [三和ファイナンス株式会社に対する行政処分について：金融庁](http://www.fsa.go.jp/news/18/kinyu/20070404-1.html)
+9.  [金融庁、消費者金融２社を処分・三和に業務停止命令：NIKKEI NET](http://www.nikkei.co.jp/news/keizai/20080516AT2C1601716052008.html)
+10. [三和ファイナンス株式会社に対する行政処分について：金融庁](http://www.fsa.go.jp/news/19/kinyu/20080516-8.html)

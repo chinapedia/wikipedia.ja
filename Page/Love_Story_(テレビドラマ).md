@@ -63,7 +63,7 @@
   - 脚本 - [北川悦吏子](../Page/北川悦吏子.md "wikilink")
   - 音楽 - [CAGNET](https://ja.wikipedia.org/wiki/CAGNET "wikilink")
   - 演出 - [生野慈朗](../Page/生野慈朗.md "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")
-  - 主題歌 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[遥か](../Page/遥か_\(スピッツの曲\).md "wikilink")」
+  - 主題歌 - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")「[遥か](../Page/遥か_\(スピッツの曲\).md "wikilink")」
   - プロデュース - [植田博樹](../Page/植田博樹.md "wikilink")
 
 ## 受賞歴

@@ -99,4 +99,4 @@
   - [歴代大会](http://www.fifa.com/tournaments/archive/futsalworldcup/index.html) - FIFA.com
   - [RSSSFによる記録](http://www.rsssf.com/tablesf/futsal-wc.html)
 
-[Category:FIFAフットサルワールドカップ](https://ja.wikipedia.org/wiki/Category:FIFAフットサルワールドカップ "wikilink") [Category:フットサル大会](https://ja.wikipedia.org/wiki/Category:フットサル大会 "wikilink") [Category:FIFAサッカー大会](https://ja.wikipedia.org/wiki/Category:FIFAサッカー大会 "wikilink") [Category:1989年開始のイベント](https://ja.wikipedia.org/wiki/Category:1989年開始のイベント "wikilink")
+[Category:FIFAフットサルワールドカップ](https://ja.wikipedia.org/wiki/Category:FIFAフットサルワールドカップ "wikilink") [Category:フットサル大会](https://ja.wikipedia.org/wiki/Category:フットサル大会 "wikilink") [Category:FIFAサッカー大会](https://ja.wikipedia.org/wiki/Category:FIFAサッカー大会 "wikilink") [Category:1989年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1989年開始のスポーツイベント "wikilink")

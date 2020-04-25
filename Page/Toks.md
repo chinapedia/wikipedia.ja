@@ -35,7 +35,7 @@
 
 その後、現行の「toks」ロゴ（[小文字](../Page/小文字.md "wikilink")）に変更され、店舗デザインも順次変更されている。[自由が丘駅](https://ja.wikipedia.org/wiki/自由が丘駅 "wikilink")や[青葉台駅](https://ja.wikipedia.org/wiki/青葉台駅 "wikilink")などを皮切りに改装が進められ、全体のデザインが[赤](../Page/赤.md "wikilink")基調の店舗が増えている。また、[二子玉川駅](../Page/二子玉川駅.md "wikilink")（上りホーム店）のような[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")基調の店舗、[元住吉駅](https://ja.wikipedia.org/wiki/元住吉駅 "wikilink")や自由が丘駅（[大井町線下りホーム](https://ja.wikipedia.org/wiki/東急大井町線 "wikilink")）で見られたような[緑](../Page/緑.md "wikilink")基調の店舗も登場した（元住吉駅店と自由が丘下りホーム店は「LAWSON ＋ toks」に転換し青色の看板に変更）。
 
-「LAWSON+toks」店舗はローソンの[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")である[青](../Page/青.md "wikilink")基調、[ナチュラルローソン](../Page/ナチュラルローソン.md "wikilink")と提携した「NATURAL LAWSON + toks」店舗では同店シンボルカラーの[臙脂色](https://ja.wikipedia.org/wiki/臙脂色 "wikilink")を用いたデザインとなっている\[15\]。
+「LAWSON+toks」店舗はローソンの[コーポレートカラー](../Page/コーポレートカラー.md "wikilink")である[青](../Page/青.md "wikilink")基調、[ナチュラルローソン](../Page/ナチュラルローソン.md "wikilink")と提携した「NATURAL LAWSON + toks」店舗では同店シンボルカラーの[臙脂色](https://ja.wikipedia.org/wiki/臙脂色 "wikilink")を用いたデザインとなっている\[15\]。
 
 ファイル:Toks 002.JPG|toks自由が丘駅大井町線上りホーム（2008年撮影）
 「LAWSON ＋ toks自由が丘上りホーム店」に転換済 ファイル:Toks 001.JPG|toks自由が丘駅大井町線下りホーム（2008年撮影）

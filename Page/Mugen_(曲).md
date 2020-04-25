@@ -50,7 +50,7 @@
 
 ## 脚注
 
-[Category:ポルノグラフィティの楽曲](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの楽曲 "wikilink") [Category:新藤晴一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:新藤晴一が制作した楽曲 "wikilink") [Category:本間昭光が制作した楽曲](https://ja.wikipedia.org/wiki/Category:本間昭光が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:楽曲_む](https://ja.wikipedia.org/wiki/Category:楽曲_む "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink")
+[Category:ポルノグラフィティの楽曲](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの楽曲 "wikilink") [Category:新藤晴一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:新藤晴一が制作した楽曲 "wikilink") [Category:本間昭光が制作した楽曲](https://ja.wikipedia.org/wiki/Category:本間昭光が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:NHKの番組主題歌](https://ja.wikipedia.org/wiki/Category:NHKの番組主題歌 "wikilink") [Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:楽曲_む](https://ja.wikipedia.org/wiki/Category:楽曲_む "wikilink")
 
 1.  ただし、ルビがつけられていないが、「夢幻」は「ゆめまぼろし」として歌われている。
 2.  後に『[痛い立ち位置](../Page/痛い立ち位置.md "wikilink")』のPVにも参加

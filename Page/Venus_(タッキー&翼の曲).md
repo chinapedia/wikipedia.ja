@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 作詞：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")/作曲：羽場仁志/編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+  - タッキー&翼の最大のヒット曲である。
   - 4ヶ国語バージョンや、DVDに振り付けマニュアルを収録した。
   - 3曲目の「Never Ever」がアニメ『[capeta](https://ja.wikipedia.org/wiki/capeta "wikilink")』の主題歌なので、本作は[アニカン](../Page/アニカン.md "wikilink")調べで2006年に最も売れたアニメ・ゲーム関連のCDとなった（[オリコン調べでは](../Page/オリコンチャート.md "wikilink")2位）。
   - 2007年宝塚歌劇宙組公演『宙 FANTASISTA！』で、「Venus」に振付けられたショーがあった。

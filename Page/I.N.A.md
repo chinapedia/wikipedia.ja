@@ -80,7 +80,7 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
 ### アレンジ、リミックス
 
   - 2004年 [ソ・テジ](../Page/ソ・テジ.md "wikilink") 『[Issue](https://ja.wikipedia.org/wiki/Issue "wikilink")』 （全収録曲編曲・プログラミング・デジタル編集）
-  - 2006年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』 （「[HIGH PRESSURE](https://ja.wikipedia.org/wiki/HIGH_PRESSURE_\(曲\) "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")」「[魔弾 〜Der Freischütz〜](https://ja.wikipedia.org/wiki/魔弾_〜Der_Freischütz〜/LOVE_SAVER "wikilink")」編曲・プログラミング・デジタル編集）
+  - 2006年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』 （「[HIGH PRESSURE](../Page/HIGH_PRESSURE_\(曲\).md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")」「[魔弾 〜Der Freischütz〜](https://ja.wikipedia.org/wiki/魔弾_〜Der_Freischütz〜/LOVE_SAVER "wikilink")」編曲・プログラミング・デジタル編集）
   - 2008年 [RIZE](../Page/RIZE.md "wikilink") 『[K.O.](https://ja.wikipedia.org/wiki/K.O._\(RIZE\) "wikilink")』 （「風」編曲・プログラミング・デジタル編集）
   - 2011年 hide ROCKミュージカル『ピンクスパイダー』（全曲編曲・音楽監督）
   - 2012年 [アリス十番](https://ja.wikipedia.org/wiki/アリス十番 "wikilink") 『真・アドベンチャー』（編曲・プログラミング・オールインスト）

@@ -24,12 +24,12 @@
 
 1.  **Dear WOMAN**
       -
-        作詞:麻生哲朗 / 作曲・編曲:[平田祥一郎](../Page/平田祥一郎.md "wikilink") / コーラスアレンジ:知野芳彦
+        作詞：麻生哲朗 / 作曲・編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink") / コーラスアレンジ:知野芳彦
     <!-- end list -->
-      - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「TSUBAKI」CMソング
+      - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[TSUBAKI](../Page/TSUBAKI.md "wikilink")」CMソング
 2.  **buzzer beater**
       -
-        作詞:権八成裕 / 作曲・編曲:[Gajin](../Page/Gajin.md "wikilink")
+        作詞：権八成裕 / 作曲・編曲：[Gajin](../Page/Gajin.md "wikilink")
     <!-- end list -->
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 スポーツ中継（[2006 FIFAワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")、[スーパーベースボールなど](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")）テーマソング
 3.  Dear WOMAN（back track）

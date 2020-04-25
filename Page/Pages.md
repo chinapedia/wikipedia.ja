@@ -17,7 +17,7 @@
 
 ## 対応言語
 
-[日本語](../Page/日本語.md "wikilink")、[アラビア語](../Page/アラビア語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[ウクライナ語](../Page/ウクライナ語.md "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")、[カタロニア語](https://ja.wikipedia.org/wiki/カタロニア語 "wikilink")、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")、[クロアチア語](../Page/クロアチア語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[スロバキア語](../Page/スロバキア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[チェコ語](../Page/チェコ語.md "wikilink")、[デンマーク語](../Page/デンマーク語.md "wikilink")、[トルコ語](../Page/トルコ語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[ノルウェー語](../Page/ノルウェー語.md "wikilink")[ニーノシュク](../Page/ニーノシュク.md "wikilink")、[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ヘブライ](https://ja.wikipedia.org/wiki/ヘブライ "wikilink")、[ベトナム語](../Page/ベトナム語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[マレー語](../Page/マレー語.md "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[繁体字](../Page/繁体字.md "wikilink")、[英語](../Page/英語.md "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")
+[日本語](../Page/日本語.md "wikilink")、[アラビア語](../Page/アラビア語.md "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[インドネシア語](../Page/インドネシア語.md "wikilink")、[ウクライナ語](../Page/ウクライナ語.md "wikilink")、[オランダ語](../Page/オランダ語.md "wikilink")、[カタロニア語](https://ja.wikipedia.org/wiki/カタロニア語 "wikilink")、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")、[クロアチア語](../Page/クロアチア語.md "wikilink")、[スウェーデン語](../Page/スウェーデン語.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[スロバキア語](../Page/スロバキア語.md "wikilink")、[タイ語](../Page/タイ語.md "wikilink")、[チェコ語](../Page/チェコ語.md "wikilink")、[デンマーク語](../Page/デンマーク語.md "wikilink")、[トルコ語](../Page/トルコ語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[ノルウェー語](../Page/ノルウェー語.md "wikilink")[ニーノシュク](../Page/ニーノシュク.md "wikilink")、[ハンガリー語](../Page/ハンガリー語.md "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[ヘブライ](https://ja.wikipedia.org/wiki/ヘブライ "wikilink")、[ベトナム語](../Page/ベトナム語.md "wikilink")、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")、[ポーランド語](../Page/ポーランド語.md "wikilink")、[マレー語](../Page/マレー語.md "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")、[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[繁体字](../Page/繁体字.md "wikilink")、[英語](../Page/英語.md "wikilink")、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")
 
 ## 歴史
 
@@ -103,7 +103,7 @@
 
   - macOS High Sierra向けPages 8.1リリース
   - iOS 11向けPages 5.1リリース
-  - Pages for iCloud June 2019リリース
+  - Pages for iCloud June 2019リリース\[9\]
 
 2019年10月1日 -
 
@@ -116,10 +116,10 @@
   - iOS 12向けPages 5.2リリース
       - 新規書類でのデフォルトのフォントとフォントサイズ設定に対応
       - App Storeからインストールしたカスタムフォントの利用
-      - オーディオ、ビデオ、および描画にアクセシビリティの説明を追加できます。
-      - 書き出されたPDFのアクセシビリティが改善しました。
-      - HEVC形式のムービーに対応しました。表示品質を維持しながらファイルサイズを縮小できます。
-      - ハードウェアキーボードでShiftキーまたはCommandキーを押して、複数のオブジェクトを選択できます。
+      - オーディオ、ビデオ、および描画にアクセシビリティの説明を追加
+      - 書き出されたPDFのアクセシビリティの改善
+      - HEVC形式のムービーに対応
+      - ハードウェアキーボードでShiftキーまたはCommandキーを押して、複数のオブジェクトを選択
       - iOS 13/iPadOS向け機能
           - ダークモードに対応
           - iPadOSで、複数のスペースやSplit Viewに対応
@@ -132,6 +132,16 @@
 
   - macOS Mojave向けPages 8.2.1リリース
   - iOS 12向けPages 5.2.1リリース
+
+2020年3月31日 -
+
+  - macOS Mojave, iOS/iPadOS向けPages 10.0リリース
+      - macOS Catalina 10.15.4及び iOS/iPadOS 13.4では、iCloud Driveでの共同作業を自動開始
+      - 共有書類をオフラインで編集した場合、オンラインになると編集内容が自動でアップロードされる
+      - テンプレートセレクタの刷新
+      - コメント対応などPDF出力の強化
+      - 編集可能な新しい図形の追加
+  - Pages for iCloud March 2020リリース\[10\]
 
 ## macOS版のバージョン
 
@@ -157,14 +167,19 @@
 | <small>4.3</small>       | <small>10.7.4</small>    | <small>[2012年](../Page/2012年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")</small>                    | <small>Pages for iOS 1.7に対応</small>                                                                                                                                                                         |
 | <small>5.0</small>       | <small>10.9</small>      | <small>[2013年](../Page/2013年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")</small>                  | <small>[iCloud](https://ja.wikipedia.org/wiki/iCloud "wikilink")を通してMacやiOS機器との間でファイル同期が可能になる</small>                                                                                                       |
 | <small>5.0.1</small>     | <small>10.9</small>      | <small>[2013年](../Page/2013年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")</small>                  | <small>ツールバーカスタマイズ強化、ガイドの表示改善</small>                                                                                                                                                                       |
-| <small>5.1</small>       | <small>10.9</small>      | <small>[2014年](../Page/2014年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")</small>                    | <small>縦方向のルーラ、パスワードで保護された書類の扱い改善、セキュリティアップデート\[9\]等</small>                                                                                                                                                |
+| <small>5.1</small>       | <small>10.9</small>      | <small>[2014年](../Page/2014年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")</small>                    | <small>縦方向のルーラ、パスワードで保護された書類の扱い改善、セキュリティアップデート\[11\]等</small>                                                                                                                                               |
 | <small>5.2</small>       | <small>10.9</small>      | <small>[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")</small>                      | <small>スタイルのコピーアンドペースト改善、表示のみの共有対応</small>                                                                                                                                                                  |
+| <small>5.2.2</small>     | <small>10.9</small>      |                                                                                                            |                                                                                                                                                                                                             |
 | <small>5.5</small>       | <small>10.10</small>     | <small>[2014年](../Page/2014年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")</small>                  | <small>[OS X Yosemiteへ合わせたデザイン](https://ja.wikipedia.org/wiki/OS_X_Yosemite "wikilink")、Handoff、 iCloud Driveのサポート等</small>                                                                                 |
+| <small>5.5.1</small>     | <small>10.10</small>     |                                                                                                            | <small>安定性とパフォーマンスの向上</small>                                                                                                                                                                               |
+| <small>5.5.2</small>     | <small>10.10</small>     |                                                                                                            | <small>安定性とパフォーマンスの向上</small>                                                                                                                                                                               |
+| <small>5.5.3</small>     | <small>10.10</small>     |                                                                                                            | <small>安定性とパフォーマンスの向上</small>                                                                                                                                                                               |
 | <small>5.6.1</small>     | <small>10.10.4</small>   | <small>[2015年](../Page/2015年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")</small>                  | <small>[OS X El CapitanのSplit](https://ja.wikipedia.org/wiki/OS_X_El_Capitan "wikilink") Viewに対応、安定性およびパフォーマンスの向上等</small>                                                                                  |
 | <small>5.6.2</small>     | <small>10.10.4</small>   | <small>[2016年](../Page/2016年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")</small>                    | <small>安定性の向上と問題の修正</small>                                                                                                                                                                                 |
 | <small>6.0</small>       | <small>10.11.6</small>   | <small>[2016年](../Page/2016年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")</small>                    | <small>リアルタイムで共同制作（ベータ版）、Pages ’05の書類を開いて編集、Wide Gamutイメージをサポート</small>                                                                                                                                     |
 | <small>6.0.5</small>     | <small>10.11.6</small>   | <small>[2016年](../Page/2016年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")</small>                  | <small>Touch Barのサポート、安定性とパフォーマンスの向上</small>                                                                                                                                                                |
 | <small>6.1</small>       | <small>10.12</small>     | <small>[2017年](../Page/2017年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")</small>                    | <small>パスワード付きファイルへのTouch IDのサポート、安定性とパフォーマンスの向上</small>                                                                                                                                                    |
+| <small>6.1.1</small>     | <small>10.12</small>     |                                                                                                            | <small>安定性とパフォーマンスの向上</small>                                                                                                                                                                               |
 | <small>6.2</small>       | <small>10.12</small>     | <small>[2017年](../Page/2017年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")</small>                    | <small>コメントでスレッド形式の会話、テキストボックス間リンクでテキスト移動、自動修正オプション強化</small>                                                                                                                                               |
 | <small>6.3</small>       | <small>10.12</small>     | <small>[2017年](../Page/2017年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")</small>                    | <small>目次をPDFビューアのサイドビューに表示出来るように書き出し機能改善、安定性とパフォーマンスの向上</small>                                                                                                                                            |
 | <small>6.3.1</small>     | <small>10.12</small>     | <small>2017年11月9日</small>                                                                                  | <small>安定性とパフォーマンスの向上</small>                                                                                                                                                                               |
@@ -176,6 +191,7 @@
 | <small>8.1</small>       | <small>10.13</small>     | <small>2019年6月25日</small>                                                                                  | <small>イメージでテキストのスタイルを設定、ページレイアウト書類で他のページへリンク、ページやセクション自体を書類を跨いでコピー&ペースト、テキストボックス内へオブジェクトを配置して丸ごと移動可能、マスターページ再適応でスタイルを戻す、など機能の強化</small>                                                                    |
 | <small>8.2</small>       | <small>10.14</small>     | <small>2019年10月1日</small>                                                                                  |                                                                                                                                                                                                             |
 | <small>8.2.1</small>     | <small>10.14</small>     | <small>2019年11月14日</small>                                                                                 |                                                                                                                                                                                                             |
+| <small>10.0</small>      | <small>10.14</small>     | <small>2020年3月31日</small>                                                                                  | <small>iCloudでの共同制作の自動保存など対応向上、iOS/iPadOS版とバージョン番号の統一</small>                                                                                                                                               |
 |                          |                          |                                                                                                            |                                                                                                                                                                                                             |
 
 ## 脚注
@@ -202,4 +218,6 @@
 6.  [アップル、iWork ‘09を発表 オンラインドキュメントシェアリングのためのiWork.comパブリックベータを公開](https://www.apple.com/jp/pr/library/2009/01/06Apple-Unveils-iWork-09.html)
 7.  [iWork 9.2 アップデートについて](https://support.apple.com/ja-jp/HT202454)
 8.  [iWork アップデート 9.3](https://support.apple.com/kb/DL1563?locale=ja_JP)
-9.  [Pages 5.1 および Pages 2.1 のセキュリティコンテンツについて](https://support.apple.com/ja-jp/HT202917)
+9.
+10.
+11. [Pages 5.1 および Pages 2.1 のセキュリティコンテンツについて](https://support.apple.com/ja-jp/HT202917)

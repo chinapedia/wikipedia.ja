@@ -22,6 +22,12 @@
   - [進撃の巨人２](https://ja.wikipedia.org/wiki/進撃の巨人２ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [INSIDE](https://ja.wikipedia.org/wiki/INSIDE "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [蛇香のライラ ～Trap of MUSK～](https://ja.wikipedia.org/wiki/蛇香のライラ_～Trap_of_MUSK～ "wikilink")（コンテンツアイコン：「犯罪」）
+  - [BIOHAZARD 5](https://ja.wikipedia.org/wiki/BIOHAZARD_5 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [返校 -Detention-](https://ja.wikipedia.org/wiki/返校_-Detention- "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [INSIDE](https://ja.wikipedia.org/wiki/INSIDE "wikilink")（コンテンツアイコン：「暴力、犯罪」）
+  - [biohazard 4](https://ja.wikipedia.org/wiki/biohazard_4 "wikilink")（コンテンツアイコン：「暴力」）
+  - [Sniper Elite V2 Remastered](https://ja.wikipedia.org/wiki/Sniper_Elite_V2_Remastered "wikilink")（コンテンツアイコン：「暴力」）
+  - [LIMBO](https://ja.wikipedia.org/wiki/LIMBO "wikilink")（コンテンツアイコン：「暴力」）
   - [DARK SOULS REMASTERED](https://ja.wikipedia.org/wiki/DARK_SOULS_REMASTERED "wikilink")（コンテンツアイコン：「暴力」）
   - [SAMURAI SPIRITS](../Page/SAMURAI_SPIRITS.md "wikilink")（コンテンツアイコン：「暴力」）
   - [神獄塔 メアリスケルター2](https://ja.wikipedia.org/wiki/神獄塔_メアリスケルター2 "wikilink")（コンテンツアイコン：「セクシャル」）

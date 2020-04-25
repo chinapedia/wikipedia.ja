@@ -73,7 +73,7 @@
   - [古河財閥](../Page/古河財閥.md "wikilink")
   - [古河グループ](../Page/古河グループ.md "wikilink")
   - [プロクター・アンド・ギャンブル](../Page/プロクター・アンド・ギャンブル.md "wikilink") - かつて同社が手がけた家庭用洗剤石鹸事業「アデカクリーン」「アデカスーパー」「テル」の関連商標を所有。
-      - 旧・[ミツワ石鹸](../Page/ミツワ石鹸.md "wikilink") - P\&Gジャパンの母体、「日本サンホーム」の合弁元、現在「ミツワ石鹸」の商標は[玉の肌石鹸](https://ja.wikipedia.org/wiki/玉の肌石鹸 "wikilink")が、「[ミューズ](https://ja.wikipedia.org/wiki/ミューズ_\(薬用石鹸\) "wikilink")」は[レキットベンキーザー](https://ja.wikipedia.org/wiki/レキットベンキーザー "wikilink")・ジャパンが保有。
+      - 旧・[ミツワ石鹸](../Page/ミツワ石鹸.md "wikilink") - P\&Gジャパンの母体、「日本サンホーム」の合弁元、現在「ミツワ石鹸」の商標は[玉の肌石鹸](https://ja.wikipedia.org/wiki/玉の肌石鹸 "wikilink")が、「[ミューズ](https://ja.wikipedia.org/wiki/ミューズ_\(石鹸\) "wikilink")」は[レキットベンキーザー](https://ja.wikipedia.org/wiki/レキットベンキーザー "wikilink")・ジャパンが保有。
       - [第一工業製薬](../Page/第一工業製薬.md "wikilink") - 同じくP\&Gジャパンの母体、「日本サンホーム」の合弁元。「モノゲン」「ゲンブ石鹸」本舗。
       - [P\&G製品一覧](../Page/P&G製品一覧.md "wikilink") - かつての家庭用製品を掲載。
 

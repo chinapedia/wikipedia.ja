@@ -11,19 +11,23 @@
 
 番組の内容は、主に[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている番組のダイジェスト版だが、一部の番組ではポッドキャスティング用にオリジナルの内容を用意している。
 
-[2009年](../Page/2009年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")-[13日の配信分から](../Page/3月13日.md "wikilink")[PodcastAD](https://ja.wikipedia.org/wiki/PodcastAD "wikilink")によるコマーシャルが「JUNK」「JUNK ZERO」「ライムスター宇多丸のウィークエンド・シャッフル」「ロックばん外伝 高見沢俊彦スペシャル」、「ともとものヤギさん、おいで〜♪」2009年5月11日から「瓜生明希葉　a piece of laughing」、「キャナァーリ倶楽部～以心伝心～」のそれぞれの番組の冒頭に入るようになったが、最近は省略されることが多くなっている。（2010年9月現在）
+[2009年](../Page/2009年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")-[13日の配信分から](../Page/3月13日.md "wikilink")[PodcastAD](https://ja.wikipedia.org/wiki/PodcastAD "wikilink")によるコマーシャルが『JUNK』『JUNK ZERO』『ライムスター宇多丸のウィークエンド・シャッフル』『ロックばん外伝 高見沢俊彦スペシャル』『ともとものヤギさん、おいで〜♪』、2009年5月11日から追加して『瓜生明希葉　a piece of laughing』『キャナァーリ倶楽部～以心伝心～』のそれぞれの番組の冒頭に入るようになったが、次第に省略されることが多くなっていた（2010年9月時点）。
 
-2010年12月1日から「ニュース・時事性が高いコンテンツ」は、配信日から1週間後に削除されることとなった。\[1\]この方針に関して、小島慶子キラ☆キラ内「3時台コラム」で[上杉隆](../Page/上杉隆.md "wikilink")担当の火曜日のみが対象となり、木曜日担当の[吉田豪](../Page/吉田豪.md "wikilink")は「自分のコラムが削除されないのは時事性が低いということか」\[2\]と指摘している。
+2010年12月1日から「ニュース・時事性が高いコンテンツ」は、配信日から1週間後に削除されることとなった\[1\]。この方針に関して、『小島慶子キラ☆キラ』内「3時台コラム」で[上杉隆](../Page/上杉隆.md "wikilink")担当の火曜日のみが対象となり、木曜日担当の[吉田豪](../Page/吉田豪.md "wikilink")は「自分のコラムが削除されないのは時事性が低いということか」\[2\]と指摘している。
 
-2016年時点で、月間コンテンツダウンロード数5000万、ユニークブラウザ数300万というユーザを獲得し「世界有数のポッドキャスター」となっていたが、収益化の目処が立たずサービス継続が困難となったため、同年6月末でサービスを終了\[3\]。従来ポッドキャストで配信されていた各番組は、7月より開始したストリーミング配信型の新サービス「[TBSラジオクラウド](https://ja.wikipedia.org/wiki/ラジオクラウド "wikilink")」に移行した。
+2016年時点で、月間コンテンツダウンロード数5000万、ユニークブラウザ数300万というユーザを獲得し「世界有数のポッドキャスター」となっていたが、収益化の目処が立たずサービス継続が困難となったため、同年6月末でサービスを終了\[3\]。従来ポッドキャストで配信されていた各番組は、7月より開始したストリーミング配信型の新サービス**「[TBSラジオクラウド](https://ja.wikipedia.org/wiki/ラジオクラウド "wikilink")」**に移行した。
 
-なお『[東京ポッド許可局](https://ja.wikipedia.org/wiki/東京ポッド許可局 "wikilink")』は2016年7月以降も単独でポッドキャスト配信を継続しているほか、『火曜[JUNK](../Page/JUNK.md "wikilink") [爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")』は2017年11月から『爆笑問題のリトルカーボーイ』と題してポッドキャスト配信を再開した。
+### 2016年7月以降の個別番組の動向
+
+なお『[東京ポッド許可局](https://ja.wikipedia.org/wiki/東京ポッド許可局 "wikilink")』はその後も単独でポッドキャスト配信を継続しているほか、『火曜[JUNK](../Page/JUNK.md "wikilink") [爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")』は2017年11月から『爆笑問題のリトルカーボーイ』と題してポッドキャスト配信を再開（2019年11月で新規エピソード配信は休止）。
+
+2018年4月放送開始の『[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")』では、2020年4月より[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")をはじめとする各種サービスを介してポッドキャスト配信を開始した\[4\]。
 
 ## 2012年7月時点で配信していた番組
 
 ☆はTBSラジオクラウドに引き継がれた番組
 
-  - [森本毅郎・スタンバイ\!](../Page/森本毅郎・スタンバイ!.md "wikilink")\[4\]☆
+  - [森本毅郎・スタンバイ\!](../Page/森本毅郎・スタンバイ!.md "wikilink")\[5\]☆
   - [小島慶子 キラ☆キラ](https://ja.wikipedia.org/wiki/小島慶子_キラ☆キラ "wikilink")
   - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")☆
       - たまむすび 協会けんぽ健康サポート
@@ -47,7 +51,7 @@
       - [おぎやはぎのメガネびいき](../Page/おぎやはぎのメガネびいき.md "wikilink")
       - [エレ片のコント太郎](../Page/エレ片のコント太郎.md "wikilink")
   - [麻木久仁子のニッポン政策研究所](https://ja.wikipedia.org/wiki/麻木久仁子のニッポン政策研究所 "wikilink")
-  - [土曜朝イチエンタ。堀尾正明+PLUS\!](https://ja.wikipedia.org/wiki/土曜朝イチエンタ。堀尾正明+PLUS! "wikilink")\[5\]
+  - [土曜朝イチエンタ。堀尾正明+PLUS\!](https://ja.wikipedia.org/wiki/土曜朝イチエンタ。堀尾正明+PLUS! "wikilink")\[6\]
   - [久米宏 ラジオなんですけど](https://ja.wikipedia.org/wiki/久米宏_ラジオなんですけど "wikilink")☆
   - [サタデー大人天国\! 宮川賢のパカパカ行進曲\!\!](../Page/サタデー大人天国!_宮川賢のパカパカ行進曲!!.md "wikilink")
   - [鈴木おさむ 考えるラジオ](https://ja.wikipedia.org/wiki/鈴木おさむ_考えるラジオ "wikilink")
@@ -144,7 +148,7 @@
   - [BATTLE TALK RADIO アクセス](../Page/BATTLE_TALK_RADIO_アクセス.md "wikilink")
   - [Science Xitalk](../Page/Science_Xitalk.md "wikilink")（更新は、放送が行われるナイターオフ期間のみ）
   - [Apple](../Page/アップル_\(企業\).md "wikilink") CLIP
-  - "[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")"のポッドキャスト [Tokyo Local](https://ja.wikipedia.org/wiki/Tokyo_Local "wikilink")\[6\]
+  - "[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")"のポッドキャスト [Tokyo Local](https://ja.wikipedia.org/wiki/Tokyo_Local "wikilink")\[7\]
   - [ともとものヤギさん、おいで〜♪](https://ja.wikipedia.org/wiki/ともとものヤギさん、おいで〜♪ "wikilink")（のちに改題、有料化）
   - キャナァーリ倶楽部〜以心伝心〜
 
@@ -160,7 +164,8 @@
 
 1.  [TBS RADIO podcasting954 お知らせ](http://www.tbsradio.jp/info.html)
 2.  [3時台コラム 2010年12月02日](http://www.tbsradio.jp/kirakira/2010/12/20101202-2.html)
-3.  [TBSラジオ、ポッドキャスト終了 10年超の歴史に幕 「収益化のめどが立たないため」](http://www.itmedia.co.jp/news/articles/1606/06/news112.html) - ITmedia・2016年6月6日
-4.  [話題のアンテナ 日本全国8時ですを含む](../Page/話題のアンテナ_日本全国8時です.md "wikilink")
-5.
-6.  [“眞鍋かをり”のポッドキャスト Tokyo Local](http://tokyolocal.jp/)
+3.
+4.
+5.  [話題のアンテナ 日本全国8時ですを含む](../Page/話題のアンテナ_日本全国8時です.md "wikilink")
+6.
+7.  [“眞鍋かをり”のポッドキャスト Tokyo Local](http://tokyolocal.jp/)

@@ -70,7 +70,7 @@
 ### [SIMPURE N1](https://ja.wikipedia.org/wiki/SIMPURE_N1 "wikilink") (N601i)
 
   - NEC製。
-  - 折りたたみ式。「ナチュラルスクエアフォルム」という、[直方体](https://ja.wikipedia.org/wiki/直方体 "wikilink")に近い、持ちやすい形状。
+  - 折りたたみ式。「ナチュラルスクエアフォルム」という、[直方体](../Page/直方体.md "wikilink")に近い、持ちやすい形状。
   - 92×44×18mm。88g（2006年10月現在、FOMA最軽量）。
   - メインディスプレイは、2.1インチ、65536色、[QVGA+](https://ja.wikipedia.org/wiki/QVGA+ "wikilink")(240×345ドット)表示対応TFT液晶ディスプレイ。
   - サブディスプレイは持たないが、「ジュエル・イルミネーション」というダイヤカット[LED](https://ja.wikipedia.org/wiki/LED "wikilink")を搭載。

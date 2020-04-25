@@ -1,7 +1,7 @@
 > この記事は[あかねちゃんOVER DRIVE](https://ja.wikipedia.org/wiki/あかねちゃんOVER_DRIVE)から翻訳されています。
 
 
-『**あかねちゃんOVER DRIVE**』（あかねちゃんオーバードライブ）は、[集英社](../Page/集英社.md "wikilink")『[ぶ〜け](../Page/ぶ〜け.md "wikilink")』及びその増刊誌にて読切掲載・短期連載されていた、[桃栗みかんの](../Page/河下水希.md "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。他の読切作品を同時収録しながら、単行本は全2巻発売されている。
+『**あかねちゃんOVER DRIVE**』（あかねちゃんオーバードライブ）は、[集英社](../Page/集英社.md "wikilink")『[ぶ〜け](../Page/ぶ〜け.md "wikilink")』及びその増刊誌にて読切掲載・短期連載されていた、[桃栗みかんの](../Page/河下水希.md "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[作品](../Page/作品.md "wikilink")。他の読切作品を同時収録しながら、単行本は全2巻発売されている。
 
 ## 概要
 

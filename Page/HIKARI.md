@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - [Moments](../Page/Moments.md "wikilink")（編曲）
       - walking proud（編曲）
       - winding road（編曲）
@@ -84,7 +84,7 @@
       - [SILENT GALAXY](https://ja.wikipedia.org/wiki/READY?#収録曲 "wikilink")（作曲/編曲）
       - [WALK](https://ja.wikipedia.org/wiki/Sexy.Honey.Bunny!/タカラノイシ#収録曲 "wikilink")（作曲/編曲）
       - [親愛なる君へ](https://ja.wikipedia.org/wiki/Oh!_My!_Goodness!#収録曲 "wikilink")（作詞/作曲/編曲）
-      - [足跡](https://ja.wikipedia.org/wiki/Can't_Get_Enough/ハナヒラケ#収録曲 "wikilink")（作曲）
+      - [足跡](https://ja.wikipedia.org/wiki/Can't_Get_Enough/ハナヒラケ#収録曲 "wikilink")（共作曲）
       - [Cloudy sky](https://ja.wikipedia.org/wiki/The_ONES#収録曲 "wikilink")（作曲）
   - [20th Century](../Page/V6_\(グループ\).md "wikilink")
       - [Gram-8](https://ja.wikipedia.org/wiki/ジャスミン/Rainbow#収録曲 "wikilink")（作詞/作曲/編曲）
@@ -100,7 +100,7 @@
       - [忘れられない](https://ja.wikipedia.org/wiki/Beautiful_days_\(嵐の曲\)#収録曲 "wikilink")（作曲）
       - [over](https://ja.wikipedia.org/wiki/Love_Rainbow_\(嵐の曲\) "wikilink")（作曲）
       - [目指した未来へ](https://ja.wikipedia.org/wiki/Face_Down_\(嵐の曲\) "wikilink")（作曲/編曲）
-      - [unknown](https://ja.wikipedia.org/wiki/I'll_be_there_\(嵐の曲\) "wikilink")（作曲）
+      - [unknown](https://ja.wikipedia.org/wiki/I'll_be_there_\(嵐の曲\) "wikilink")（共作曲）
       - [Sugar](https://ja.wikipedia.org/wiki/「untitled」 "wikilink")（作詞/共作曲)
       - [BORDER](https://ja.wikipedia.org/wiki/Doors〜勇気の軌跡〜 "wikilink")（作曲/編曲）
       - [Find The Answer](https://ja.wikipedia.org/wiki/Find_The_Answer "wikilink")（作詞/共作曲）
@@ -111,7 +111,7 @@
       - [旅人](https://ja.wikipedia.org/wiki/感謝＝∞#収録曲 "wikilink")（作詞/作曲）
       - [Eden](https://ja.wikipedia.org/wiki/感謝＝∞#通常盤 "wikilink")（作詞/作曲）
       - [BJ](https://ja.wikipedia.org/wiki/ワッハッハー#通常版CD "wikilink")（作詞/作曲/編曲）
-      - [Half Down](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\)#通常版CD "wikilink")（錦戸亮ソロ）（作詞／編曲）
+      - [Half Down](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\)#通常版CD "wikilink")（錦戸亮ソロ）（共作詞/編曲）
       - [EXTEND\!](https://ja.wikipedia.org/wiki/強く_強く_強く "wikilink")（作詞/作曲/編曲）
   - [上田竜也](../Page/上田竜也.md "wikilink")
       - SPARKING（作曲）
@@ -132,15 +132,15 @@
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [そばにおいでよ](https://ja.wikipedia.org/wiki/怪・セラ・セラ#収録曲 "wikilink")（作詞/作曲/編曲）
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
-      - [Forza\!](https://ja.wikipedia.org/wiki/Goodいくぜ!#収録曲 "wikilink")（作詞/共作曲)
-      - [赤い果実](https://ja.wikipedia.org/wiki/赤い果実 "wikilink")（作曲）
+      - [Forza\!](https://ja.wikipedia.org/wiki/Goodいくぜ!#収録曲 "wikilink")（作詞/共作曲）
+      - [赤い果実](https://ja.wikipedia.org/wiki/赤い果実 "wikilink")（共作曲）
       - [Invitation](https://ja.wikipedia.org/wiki/Yummy!!#収録曲 "wikilink")（共作曲）
       - [Edge of Days](https://ja.wikipedia.org/wiki/Edge_of_Days "wikilink")（作詞/作曲/編曲）
       - [memento](../Page/To-y2.md "wikilink")（作詞/共作曲）
       - [Smilest](../Page/To-y2.md "wikilink")（共作曲）
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - [AinoArika](https://ja.wikipedia.org/wiki/AinoArika/愛すればもっとハッピーライフ#収録曲 "wikilink")（作詞/作曲）
-      - [order](https://ja.wikipedia.org/wiki/DEAR.#収録曲 "wikilink")（作曲）
+      - [order](https://ja.wikipedia.org/wiki/DEAR.#収録曲 "wikilink")（共作曲）
       - [TOY](https://ja.wikipedia.org/wiki/Give_Me_Love#収録曲 "wikilink")（作曲/編曲）
       - [Sweet Liar](https://ja.wikipedia.org/wiki/Precious_Girl/Are_You_There? "wikilink")（共作曲/編曲）
       - [Good Life](https://ja.wikipedia.org/wiki/White_Love_\(Hey!_Say!_JUMPの曲\) "wikilink")（共作曲/編曲）
@@ -149,7 +149,7 @@
       - [条件反射](https://ja.wikipedia.org/wiki/SENSE_or_LOVE "wikilink")（共作曲）
       - [Last Dance](https://ja.wikipedia.org/wiki/Lucky-Unlucky/Oh!_my_darling "wikilink")（共作曲）
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")
-      - [4 Seasons](https://ja.wikipedia.org/wiki/Sexy_Second#収録曲 "wikilink")（作曲）
+      - [4 Seasons](https://ja.wikipedia.org/wiki/Sexy_Second#収録曲 "wikilink")（共作曲）
       - [タイムトラベル](../Page/POP×STEP!?.md "wikilink")（作詞/共作曲）
   - [三代目J Soul Brothers](https://ja.wikipedia.org/wiki/三代目J_Soul_Brothers "wikilink")
       - Glory（作曲/編曲）
@@ -187,6 +187,7 @@
       - SWAG & PRIDE（作曲/編曲）
   - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")
       - [D.D.](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")（作曲/編曲）
+      - Stories（作詞/作曲/編曲）
   - [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")
       - VOLCANO（共作曲）
 

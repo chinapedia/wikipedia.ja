@@ -84,7 +84,8 @@
 
 ### [ヴァンラーレ八戸](../Page/ヴァンラーレ八戸.md "wikilink")
 
-  - [高東民](https://ja.wikipedia.org/wiki/高東民 "wikilink") (ゴ・ドンミン) (2020年-、)
+  - GK [高東民](https://ja.wikipedia.org/wiki/高東民 "wikilink") (ゴ・ドンミン) (2020年-、)
+  - FW [金弘淵](https://ja.wikipedia.org/wiki/金弘淵 "wikilink") (2020年-、、)
 
 ### [いわてグルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")
 
@@ -213,13 +214,13 @@
   - FW [ブルーノ・ロペス](https://ja.wikipedia.org/wiki/ブルーノ・ダ・シウヴァ・ロペス "wikilink") (2018年、)
   - FW [ジェフェルソン・バイアーノ](https://ja.wikipedia.org/wiki/ジェフェルソン・シウヴァ・ドス・サントス "wikilink") (2019年、)
   - DF [ホドルフォ](https://ja.wikipedia.org/wiki/ホドルフォ・チト・デ・モラエス "wikilink") (2019年、)
-  - GK [ミン・ソンジュン](https://ja.wikipedia.org/wiki/ミン・ソンジュン "wikilink") (2020年-、)
+  - GK [ミン・ソンジュン](../Page/閔盛俊.md "wikilink") (2020年-、)
   - FW [ヴィニシウス・アラウージョ](https://ja.wikipedia.org/wiki/ヴィニシウス・ヴァスコンセロス・アラウージョ "wikilink") (2020年-、)
 
 ### [福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")
 
   - MF [金功青](https://ja.wikipedia.org/wiki/金功青 "wikilink") (キム・コンチョン) (2009年-2017年、)
-  - FW [金弘淵](https://ja.wikipedia.org/wiki/金弘淵 "wikilink") (キム・ホンヨン) (2013年-2016年、)
+  - FW [金弘淵](https://ja.wikipedia.org/wiki/金弘淵 "wikilink") (キム・ホンヨン) (2013年-2016年、、)
   - FW [ロドリゴ](https://ja.wikipedia.org/wiki/ロドリゴ・ボニファシオ・ダ・ローシャ "wikilink") (2015年-2016年、)
   - DF [パウロン](https://ja.wikipedia.org/wiki/ルイス・パウロ・ダ・シルバ "wikilink") (2016年、)
   - FW [アレックス](https://ja.wikipedia.org/wiki/アレックス・マルティンス・フェレイラ "wikilink") (2016年-2017年、)

@@ -78,7 +78,7 @@
   - お姫さま（ヘ・シュタットリングクリスチーネフロミンジュビロージュ）（II） - [川村万梨阿](../Page/川村万梨阿.md "wikilink")
   - νガンダム（II）、[ズサ](../Page/ズサ.md "wikilink")（III） 、<ruby><rb>古殺駆</rb><rt>コザク</rt></ruby>（頭虫邸、理、猛レース、暴終空城、もののけ退治）、[サザビー](../Page/サザビー_\(ガンダムシリーズ\).md "wikilink")（マロン社）、[ゲルググ](../Page/ゲルググ.md "wikilink")（運び屋）、[ガンタンク](../Page/ガンタンク.md "wikilink")（学園祭）、[アッグ](https://ja.wikipedia.org/wiki/アッグシリーズ#アッグ "wikilink")（パパル） - [江原正士](../Page/江原正士.md "wikilink")
   - [メッサーラ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#メッサーラ "wikilink")（II）、[ズゴック](../Page/ズゴック.md "wikilink")（III）、<ruby><rb>厄斗堂我</rb><rt>ヤクト・ドーガ</rt></ruby>（頭虫邸）、[ハンブラビ](https://ja.wikipedia.org/wiki/ティターンズの機動兵器#ハンブラビ "wikilink")（真）、武者頑駄無摩亜屈（もののけ退治）、ウッディ・マルデン（学園祭）、<ruby><rb>漣飛威</rb><rt>サザビー</rt></ruby> - [梁田清之](../Page/梁田清之.md "wikilink")
-  - [ミネバ・ラオ・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ミネバ・ラオ・ザビ "wikilink")（II） - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀 "wikilink")
+  - [ミネバ・ラオ・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ミネバ・ラオ・ザビ "wikilink")（II） - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
   - [シャアザク](../Page/ザクII.md "wikilink")（III）、<ruby><rb>殺駆頭</rb><rt>ザクト</rt></ruby>（頭虫邸） - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
   - [クリス](https://ja.wikipedia.org/wiki/機動戦士ガンダム0080_ポケットの中の戦争の登場人物#クリスチーナ・マッケンジー "wikilink")（III、学園祭）、[ヤクト](../Page/ヤクト・ドーガ.md "wikilink")（パパル） - [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
   - [ロザミア・バダム](../Page/ロザミア・バダム.md "wikilink")（III）、<ruby><rb>蛮魔蛮魔</rb><rt>ハンマ・ハンマ</rt></ruby>（頭虫邸）、[エマリー・オンス](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖの登場人物#エマリー・オンス "wikilink")（学園祭） - [光野栄里](https://ja.wikipedia.org/wiki/光野栄里 "wikilink")

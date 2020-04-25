@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作『[K.ODA](../Page/K.ODA.md "wikilink")』同様、ミキサーに[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")を迎えて制作された。[ドラムスは](../Page/ドラムセット.md "wikilink")[大間ジロー](../Page/大間ジロー.md "wikilink")、[ギター](../Page/ギター.md "wikilink")は[ダン・ハフ](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")は[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。後述に列記した曲以外にも、[よしだたくろうの](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")「[今日までそして明日から](https://ja.wikipedia.org/wiki/今日までそして明日から_\(よしだたくろうの曲\) "wikilink")」がアルバム収録曲の候補に挙がっていたとインタビューで語っている。
+前作『[K.ODA](../Page/K.ODA.md "wikilink")』同様、ミキサーに[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")を迎えて制作された。[ドラムスは](../Page/ドラムセット.md "wikilink")[大間ジロー](../Page/大間ジロー.md "wikilink")、[ギター](../Page/ギター.md "wikilink")は[ダン・ハフ](https://ja.wikipedia.org/wiki/:en:Dann_Huff "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")は[望月英樹](https://ja.wikipedia.org/wiki/望月英樹_\(プログラマー\) "wikilink")。後述に列記した曲以外にも、[よしだたくろうの](../Page/吉田拓郎.md "wikilink")「[今日までそして明日から](https://ja.wikipedia.org/wiki/今日までそして明日から_\(よしだたくろうの曲\) "wikilink")」がアルバム収録曲の候補に挙がっていたとインタビューで語っている。
 
 小田自身の発言によれば、このアルバムは[ビル・シュネー](https://ja.wikipedia.org/wiki/ビル・シュネー "wikilink")が小田に借金を申し込んだことがきっかけで作成されたといわれている。「借金を返すためにアルバムを作ろうと思った」とも語っている。
 

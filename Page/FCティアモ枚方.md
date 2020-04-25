@@ -22,7 +22,7 @@
   - [2016年](../Page/2016年.md "wikilink") - 関西リーグ2部に降格。2部で優勝。
   - [2017年](../Page/2017年.md "wikilink") - 関西リーグ1部に再昇格。[第53回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第53回全国社会人サッカー選手権大会 "wikilink")で4位入賞し、[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")に出場。1次ラウンド3位で敗退した。
   - [2018年](../Page/2018年.md "wikilink") - [第54回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第54回全国社会人サッカー選手権大会 "wikilink")は初戦敗退。
-  - [2019年](../Page/2019年.md "wikilink") - 関西リーグ1部では[おこしやす京都AC](../Page/おこしやす京都AC.md "wikilink")に勝点1及ばず2位となるも、[第55回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第55回全国社会人サッカー選手権大会 "wikilink")で優勝し、[全国地域サッカーチャンピオンズリーグ2019](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2019 "wikilink")出場権を獲得する。グループBでは2連勝しグループ首位に立つも、最終戦[いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")戦に2-4で敗れ2位に後退、各グループ2位同士の比較でも[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に及ばず、決勝ラウンド進出および[JFL昇格を逃した](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")。
+  - [2019年](../Page/2019年.md "wikilink") - 関西リーグ1部では[おこしやす京都AC](../Page/おこしやす京都AC.md "wikilink")に勝点1及ばず2位となるも、[第55回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第55回全国社会人サッカー選手権大会 "wikilink")で優勝し、[全国地域サッカーチャンピオンズリーグ2019](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2019 "wikilink")出場権を獲得する。グループBでは2連勝しグループ首位に立つも、最終戦[いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")戦に2-4で敗れ2位に後退、各グループ2位同士の比較でも[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に及ばず、決勝ラウンド進出および[JFL昇格を逃した](../Page/日本フットボールリーグ.md "wikilink")。
 
 ## クラブ名の由来
 

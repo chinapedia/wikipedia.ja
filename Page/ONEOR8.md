@@ -1,7 +1,7 @@
 > この記事は[ONEOR8](https://ja.wikipedia.org/wiki/ONEOR8)から翻訳されています。
 
 
-**ONEOR8**（わんおあえいと）は、田村孝裕、[伊藤俊輔](https://ja.wikipedia.org/wiki/伊藤俊輔_\(俳優\) "wikilink")、今井千恵、恩田隆一、冨塚智、冨田直美、野本光一郎、和田ひろこ、[山口森広](https://ja.wikipedia.org/wiki/山口森広 "wikilink")の計9名で構成される劇団。
+**ONEOR8**（わんおあえいと）は、[田村孝裕](https://ja.wikipedia.org/wiki/田村孝裕 "wikilink")、[伊藤俊輔](https://ja.wikipedia.org/wiki/伊藤俊輔_\(俳優\) "wikilink")、今井千恵、恩田隆一、冨塚智、冨田直美、野本光一郎、和田ひろこ、[山口森広](https://ja.wikipedia.org/wiki/山口森広 "wikilink")の計9名で構成される劇団。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）3月に池袋の専門学校[舞台芸術学院](../Page/舞台芸術学院.md "wikilink")の演劇部本科47期の同級生10名が、卒業し旗揚げした。2001年よりほとんどの公演で外部からさまざまな個性の役者を客演で迎えている。2003年に初めて新宿THEATER TOPSに進出。自転車店、中華料理屋、幼稚園の職員室など、ありふれた日常的空間を舞台に、登場人物の多くは地味でどこか弱さのあるキャラクターで、普段は目を向けられることの少ない者や弱き者を打ち消すことなく、たとえほとんどセリフのない役であってもその内面の本質を見つめることを忘れない作風を見せている。2008年、過去に3公演客演として招かれ、近年は演出助手として劇団に古くから携わっていた[伊藤俊輔が正式加入](https://ja.wikipedia.org/wiki/伊藤俊輔_\(俳優\) "wikilink")。
 

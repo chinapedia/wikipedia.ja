@@ -72,6 +72,5 @@ __ http://www.python.org/
   - [ReStructuredText 入門](http://www.planewave.org/translations/rst/quickstart.ja.html)
   - [はやわかり reStructuredText](http://www.planewave.org/translations/rst/quickref.html)
   - [reStructuredText (lowlife.jp)](http://lowlife.jp/yasusii/wiki/restructuredtext.html)
-  - [NoTex - ReStructuredText エディタ](https://notex.ch)
 
 [Category:マークアップ言語](https://ja.wikipedia.org/wiki/Category:マークアップ言語 "wikilink")

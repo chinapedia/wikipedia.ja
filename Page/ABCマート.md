@@ -30,20 +30,9 @@
 
 ## 運営形態
 
-  - ABC-MART
-  - ABC-MART GRAND STAGE
-  - ABC-MART Premier Stage
-  - ABC-MART MEGA STAGE
-  - ABC-MART SPORTS - スポーツに特化した新業態店。
-  - ABC KID'S MART - キッズに特化したスニーカーショップ。
-  - Hawkins - ナショナルブランド「Hawkins」の専門店
-  - Vans - ナショナルブランド「Vans」の専門店
-  - Charlotte by ABC-MART - レディース専門店
-  - ACE Shoes
-  - BILLY'S ENT
-  - CaliforniaDept.
-  - STUMPTOWN
-  - SHOES FACTORY by ABC-MART
+## 店内放送
+
+ABCマートの店内では、「[ABCリコメンズ](https://ja.wikipedia.org/wiki/ABCリコメンズ "wikilink")」と呼ばれる独自の[USEN](../Page/USEN.md "wikilink")（有線）による番組が放送されている。ナビゲーターの[佐野文俊](https://ja.wikipedia.org/wiki/佐野文俊 "wikilink")とアーティストを中心としたゲストが半年間の番組MCを担当する。30分に1回のペースで約20分間の番組が流れ、放送内容は約2週間に一度更新される。
 
 ## 不祥事
 

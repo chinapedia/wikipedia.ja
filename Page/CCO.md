@@ -3,7 +3,7 @@
 
 **CCO**
 
-  - かつて防衛庁に設置されていた[特別の機関](../Page/特別の機関.md "wikilink")契約本部（現：[防衛省](../Page/防衛省.md "wikilink")[装備本部](https://ja.wikipedia.org/wiki/装備本部 "wikilink")）の英語名称（CCO：Central Contract Office）。
+  - かつて防衛庁に設置されていた[特別の機関](../Page/特別の機関.md "wikilink")[契約本部](../Page/装備施設本部.md "wikilink")（現：[防衛装備庁](https://ja.wikipedia.org/wiki/防衛装備庁 "wikilink")）の英語名称（CCO：Central Contract Office）。
   - [CCO (会社)](https://ja.wikipedia.org/wiki/CCO_\(会社\) "wikilink") - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")の代理運営業務を行う日本の企業。
   - アメリカを中心に用いられている幹部役員職の略称。内容は各企業によって異なる場合がある。
   - \# **Chief Customer Officer** - 最高顧客責任者。[顧客満足](../Page/顧客満足.md "wikilink")（CS、Customer satisfaction）の責任を負う。日本では顧客満足担当役員が、これに相当する。

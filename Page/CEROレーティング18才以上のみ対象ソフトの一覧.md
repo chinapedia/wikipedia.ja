@@ -35,7 +35,7 @@
   - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：「暴力」）
   - [The Elder Scrolls V：SKYRIM](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
-  - Wolfensteins II: The New Colossus（コンテンツアイコン：「暴力」）
+  - [Wolfensteins II: The New Colossus](https://ja.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus "wikilink")（コンテンツアイコン：「暴力」）
   - [アサシン クリード オデッセイ クラウドバージョン](https://ja.wikipedia.org/wiki/アサシン_クリード_オデッセイ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [BIOHAZARD 7 resident evil cloud version](https://ja.wikipedia.org/wiki/バイオハザード7_レジデント_イービル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [真 流行り神1・2パック](https://ja.wikipedia.org/wiki/真_流行り神 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -114,6 +114,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [コール オブ デューティ ブラックオプス3](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス3 "wikilink")（コンテンツアイコン：「暴力」）
   - [コール オブ デューティ ワールドウォーII](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ワールドウォーII "wikilink")（コンテンツアイコン：「暴力」）
   - [コナン アウトキャスト](../Page/コナン・ザ・グレート.md "wikilink")（コンテンツアイコン：「暴力」）
+  - サイバーバンク２０７７
   - [サイレントVR](https://ja.wikipedia.org/wiki/サイレントVR "wikilink")（コンテンツアイコン：「暴力」）
   - [侍道外伝 KATANAKAMI](../Page/侍道外伝_KATANAKAMI.md "wikilink")（コンテンツアイコン：暴力）
   - [The Surge](https://ja.wikipedia.org/wiki/The_Surge "wikilink")（コンテンツアイコン：「暴力」）
@@ -128,6 +129,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [Dying Light](https://ja.wikipedia.org/wiki/Dying_Light "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [トゥームレイダー ディフィニティブ エディション](https://ja.wikipedia.org/wiki/トゥームレイダー_ディフィニティブエディション "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [DOOM](../Page/DOOM.md "wikilink")（コンテンツアイコン：「暴力」）
+  - [デイズゴーン](https://ja.wikipedia.org/wiki/Days_Gone "wikilink")（コンテンツアイコン：「暴力」）
   - デイメア：1998（コンテンツアイコン：「暴力」）
   - [デウスエクス マンカインド・ディバイデッド](https://ja.wikipedia.org/wiki/デウスエクス_マンカインド・ディバイデッド "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [デッドバイデイライト](https://ja.wikipedia.org/wiki/デッドバイデイライト "wikilink")（コンテンツアイコン：「暴力」）
@@ -167,6 +169,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 <!-- end list -->
 
   - [Prey](../Page/Prey.md "wikilink")（コンテンツアイコン：「暴力」）
+  - プレイグテイルｰイノセンス-（コンテンツアイコン：「暴力」）
   - [祝姫 -祀-](https://ja.wikipedia.org/wiki/祝姫 "wikilink")（コンテンツアイコン：「犯罪」）
   - [ライズオブザトゥームレイダー](https://ja.wikipedia.org/wiki/ライズ_オブ_ザ_トゥームレイダー "wikilink")（コンテンツアイコン：「暴力」）
   - [バイオハザード RE:2](https://ja.wikipedia.org/wiki/バイオハザード_RE:2 "wikilink")（コンテンツアイコン：「暴力」）

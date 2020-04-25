@@ -741,9 +741,9 @@
 
 :\*[三浦部長、本日付けで女性になります。](https://ja.wikipedia.org/wiki/三浦部長、本日付けで女性になります。 "wikilink")（3月21日、主演：[ムロツヨシ](../Page/ムロツヨシ.md "wikilink")）
 
-:\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路_\(小説\)#テレビドラマ "wikilink")（5月 -、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")）
+:\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路_\(小説\)#テレビドラマ "wikilink")（5月16日 -、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")）
 
-:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（6月6日 -、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
+:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（6月6日 - → 未定\[45\]、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
 
 ## 脚注
 
@@ -757,7 +757,7 @@
 
   - [NHKは何を伝えてきたか－NHKテレビ番組の50年](http://www.nhk.or.jp/archives/nhk50years/categories/p52/) - NHK
 
-  - [NHKドラマ](http://www6.nhk.or.jp/drama/)- NHK
+  - [NHKドラマ](https://www6.nhk.or.jp/drama/)- NHK
 
   - [土曜ドラマ｜NHK名作選（動画など）](http://cgi2.nhk.or.jp/archives/tv60bin/search/textsearch.cgi?w=土曜ドラマ)※過去に放送した土曜ドラマの番組集-NHKアーカイブス
 
@@ -812,3 +812,4 @@
 42. 2017年1月 - 2月に[BSプレミアムで放送した作品の再放送で](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、一部再編集して放送（BS版は全8回）。当初放送予定だった『[神様からひと言 お客様相談室物語〜](../Page/神様からひと言.md "wikilink")〜なにわ』が、放送開始直前になって主演の[小出恵介](../Page/小出恵介.md "wikilink")が無期限の活動停止となったため放送を中止したことに伴う代替番組。
 43.
 44.
+45.

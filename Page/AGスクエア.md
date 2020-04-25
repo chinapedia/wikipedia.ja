@@ -1,7 +1,7 @@
 > この記事は[AGスクエア](https://ja.wikipedia.org/wiki/AGスクエア)から翻訳されています。
 
 
-**株式会社AGスクエア**（エイ・ジー・スクエア）は、[セガサミーホールディングス](../Page/セガサミーホールディングス.md "wikilink")傘下で郊外型[アミューズメント施設の管理](../Page/ゲームセンター.md "wikilink")・運営を行っていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。株式会社セガ（後の株式会社[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）の100%子会社。
+**株式会社AGスクエア**（エイ・ジー・スクエア）は、[セガサミーホールディングス](../Page/セガサミーホールディングス.md "wikilink")傘下で郊外型[アミューズメント施設の管理](../Page/ゲームセンター.md "wikilink")・運営を行っていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。株式会社[セガの](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")100%子会社。
 
 ここでは、株式会社セガ ビーリンク・セガアミューズメント施設事業部と統合され、セガ ビーリンクから商号変更された後の株式会社[セガ エンタテインメントとなった後のAGスクエアについても述べる](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")。
 
@@ -37,7 +37,7 @@
   - 大津店（[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")）
   - 東大阪店（[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")）→セガ東大阪に転換
   - 小郡店（[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")）→セガ小郡に転換
-  - 徳島店（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")）
+  - 徳島店（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")） - 2006年10月閉店
   - 佐賀武雄店（[佐賀県](../Page/佐賀県.md "wikilink")[武雄市](../Page/武雄市.md "wikilink")）→セガ武雄に転換
   - 磐田店（[静岡県](../Page/静岡県.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")）
   - 庄内店（[山形県](../Page/山形県.md "wikilink")[東田川郡](../Page/東田川郡.md "wikilink")[三川町](../Page/三川町.md "wikilink")）→セガ庄内に転換

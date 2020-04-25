@@ -63,5 +63,5 @@
 
 [Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:ブルックリン出身の人物](https://ja.wikipedia.org/wiki/Category:ブルックリン出身の人物 "wikilink") [Category:ジャマイカ系アメリカ人](https://ja.wikipedia.org/wiki/Category:ジャマイカ系アメリカ人 "wikilink") [Category:殺人被害者](https://ja.wikipedia.org/wiki/Category:殺人被害者 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:1997年没](https://ja.wikipedia.org/wiki/Category:1997年没 "wikilink") [Category:アメリカ合衆国の未解決殺人事件](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の未解決殺人事件 "wikilink") [Category:50_great_voices](https://ja.wikipedia.org/wiki/Category:50_great_voices "wikilink")
 
-1.  [1](http://www.mtv.com/bands/h/hip_hop_week/2006/emcees/index9.jhtml)
+1.
 2.

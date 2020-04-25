@@ -158,7 +158,7 @@ Gt.佃太郎(脱退) Ba.大山敦史(脱退)
 <li>あじさい日記</li>
 <li>サマータイムブルース</li>
 <li>スイート・ホーム・ミュージック</li>
-<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツのカバー</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツのカバー</a>）</li>
 </ol></td>
 <td><p>HIKARIMON</p></td>
 </tr>

@@ -79,13 +79,11 @@ div.reflist ol.references {
 
 }
 
-/\* group style \*/ .navbox-group {
+th.navbox-group { /\* Group style \*/
 
 `   white-space: nowrap;`
+`   /* @noflip */`
 `   text-align: right;`
-`   font-weight: bold;`
-`   padding-left: 1em;`
-`   padding-right: 1em;`
 
 }
 
@@ -107,9 +105,9 @@ div.reflist ol.references {
 
 }
 
-/\* Level 2 color \*/ .navbox-abovebelow, .navbox-group, .navbox-subgroup .navbox-title {
+.navbox-abovebelow, th.navbox-group, .navbox-subgroup .navbox-title {
 
-`   background: #ddddff;`
+`   background-color: #ddddff;      /* Level 2 color */`
 
 }
 
@@ -284,13 +282,6 @@ div.reflist ol.references {
 h1 {
 
 `   line-height: 1.2em;`
-
-}
-
-/\* Metadata \*/ table.metadata {
-
-`   border: 1px solid #a2a9b1;`
-`   display: none;`
 
 }
 
@@ -1205,16 +1196,6 @@ table.tmbox-speedy {
 } table.tmbox-protection, table.tmbox-notice {
 
 `   border: 1px solid #c0c090;    /* Gray-brown */`
-
-}
-
-/\* Disambig and set index box styles \*/ table.dmbox {
-
-`   clear: both; `
-`   margin: 0.9em 1em; `
-`   border-top: 1px solid #ccc; `
-`   border-bottom: 1px solid #ccc; `
-`   background: transparent;`
 
 }
 

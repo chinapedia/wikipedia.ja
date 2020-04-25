@@ -3,7 +3,7 @@
 
 **ドロシー・L・セイヤーズ** (**Dorothy Leigh Sayers**、[1893年](../Page/1893年.md "wikilink")6月13日 - [1957年](../Page/1957年.md "wikilink")12月17日) は、[オックスフォード](../Page/オックスフォード.md "wikilink")に生まれ[ウィッタム](https://ja.wikipedia.org/wiki/ウィッタム "wikilink")に没した[英国の](https://ja.wikipedia.org/wiki/イギリス "wikilink")[作家](../Page/作家.md "wikilink")、[翻訳家](https://ja.wikipedia.org/wiki/翻訳家 "wikilink")、現代／古典[言語学](../Page/言語学.md "wikilink")者、[キリスト教](../Page/キリスト教.md "wikilink")[人道主義](https://ja.wikipedia.org/wiki/人道主義 "wikilink")者である。[ディテクションクラブ](../Page/ディテクションクラブ.md "wikilink")三代会長を務めた。
 
-ドロシー・L.・セイヤーズ （常にこのL.にこだわった）が最も知られているのは、恐らく「**[ピーター・ウィムジイ卿](../Page/ピーター・ウィムジイ卿.md "wikilink")**」ものの[推理小説](../Page/推理小説.md "wikilink")を通してであろう。ウィムジイはセイヤーズのシリーズ探偵で、英国の貴族である。[アガサ・クリスティ](../Page/アガサ・クリスティ.md "wikilink")と並ぶ英国女性[推理作家](../Page/推理作家.md "wikilink")であるが、[黄金期の作家としては日本では比較的紹介が遅かった](https://ja.wikipedia.org/wiki/ミステリー#歴史 "wikilink")。[早川書房](../Page/早川書房.md "wikilink")と[東京創元社](../Page/東京創元社.md "wikilink")が訳本を出版している。特に後者は[創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink")でピーター卿もの長篇を数多く出版（全作出版予定。2005年12月の段階で第1作から第10作まで刊行済み）、日本でのセイヤーズ受容に大きく貢献した。この項目での固有名詞は、主に創元推理文庫版（[浅羽莢子](../Page/浅羽莢子.md "wikilink")訳）に従う。
+ドロシー・L.・セイヤーズ （常にこのL.にこだわった）が最も知られているのは、恐らく「**[ピーター・ウィムジイ卿](../Page/ピーター・ウィムジイ卿.md "wikilink")**」ものの[推理小説](../Page/推理小説.md "wikilink")を通してであろう。ウィムジイはセイヤーズのシリーズ探偵で、英国の貴族である。[アガサ・クリスティ](../Page/アガサ・クリスティ.md "wikilink")と並ぶ英国女性[推理作家](../Page/推理作家.md "wikilink")であるが、[黄金期の作家としては日本では比較的紹介が遅かった](https://ja.wikipedia.org/wiki/ミステリー#歴史 "wikilink")。[早川書房](../Page/早川書房.md "wikilink")と[東京創元社](../Page/東京創元社.md "wikilink")が訳本を出版している。特に後者は[創元推理文庫](https://ja.wikipedia.org/wiki/創元推理文庫 "wikilink")でピーター卿もの長篇を数多く出版（2020年2月に全作刊行）、日本でのセイヤーズ受容に大きく貢献した。この項目での固有名詞は、主に創元推理文庫版（[浅羽莢子](../Page/浅羽莢子.md "wikilink")訳）に従う。
 
 ## 経歴と生きざま
 
@@ -55,7 +55,7 @@
 
 ### ピーター卿もの長篇
 
-原題と邦訳書の題名。*Busman's Honeymoon*は早川書房（ハヤカワポケットミステリ、[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")）、それ以外は東京創元社（創元推理文庫）。\*印はハリエット・ヴェイン登場作。
+原題と邦訳書の題名。*Busman's Honeymoon*は『忙しい蜜月旅行』の邦題で早川書房（ハヤカワポケットミステリ、[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")）から刊行されたが、2020年2月に東京創元社（創元推理文庫）から新訳が刊行されたため、全作の邦訳が東京創元社（創元推理文庫）刊行となる。\*印はハリエット・ヴェイン登場作。
 
 1.  Whose Body? (1923) 『誰の死体？』
 2.  Clouds of Witness (1926) 『雲なす証言』
@@ -67,7 +67,7 @@
 8.  Murder Must Advertise (1933) 『殺人は広告する』
 9.  The Nine Tailors (1934) 『ナイン・テイラーズ』
 10. Gaudy Night (1935) 『学寮祭の夜』\*
-11. Busman's Honeymoon (1937) 『忙しい蜜月旅行』\*
+11. Busman's Honeymoon (1937) 『大忙しの蜜月旅行』\*
 
 ### 合作長篇
 

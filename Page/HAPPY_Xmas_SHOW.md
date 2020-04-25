@@ -114,20 +114,12 @@
       - [徳永英明](../Page/徳永英明.md "wikilink") 「[レイニー ブルー](https://ja.wikipedia.org/wiki/Rainy_Blue_\(徳永英明の曲\) "wikilink")」、「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」
       - [エンヤ](../Page/エンヤ.md "wikilink") 「Orinico Flow」、「TRAINS AND WINTER RAINS」
 
-## スタッフ
-
-  - 企画：[寺内壯](https://ja.wikipedia.org/wiki/寺内壯 "wikilink")
-  - プロデュース：[藤井淳](../Page/藤井淳.md "wikilink")
-  - 演出・プロデュース：[三枝孝臣](../Page/三枝孝臣.md "wikilink")
-  - チーフプロデューサー：[土屋泰則](../Page/土屋泰則.md "wikilink")（2004年から）
-      - 歴代チーフプロデューサーは[吉田真](../Page/吉田真_\(プロデューサー\).md "wikilink")、[吉川圭三](../Page/吉川圭三.md "wikilink")（いずれも2003年）
-
 ## 脚注
 
 ## 関連項目
 
   - [ザ・プラチナチケット 〜君のために歌いたい〜](https://ja.wikipedia.org/wiki/ザ・プラチナチケット_〜君のために歌いたい〜 "wikilink") - [2009年](../Page/2009年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")放送（1回で終了）。
-  - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[BS朝日で放送されているパナソニック提供のスタジオ収録型音楽番組](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")。[3D](../Page/3D.md "wikilink")制作。
+  - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[BS朝日で放送されているパナソニック提供のスタジオ収録型音楽番組](../Page/ビーエス朝日.md "wikilink")。[3D](../Page/3D.md "wikilink")制作。
 
 ## 外部リンク
 

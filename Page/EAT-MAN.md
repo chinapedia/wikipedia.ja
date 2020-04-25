@@ -487,9 +487,9 @@
 
 ## 外部リンク
 
-  - [「EAT-MAN」 | バンダイチャンネル](http://www.b-ch.com/ttl/index.php?ttl_c=2293)
+  - [「EAT-MAN」 | バンダイチャンネル](https://www.b-ch.com/titles/2293/)
 
-  - [「EAT-MAN'98」 | バンダイチャンネル](http://www.b-ch.com/ttl/index.php?ttl_c=2294)
+  - [「EAT-MAN'98」 | バンダイチャンネル](https://www.b-ch.com/titles/2294/)
 
   - [EAT-MAN：10年ぶり復活 テレビアニメ化された90年代の人気マンガ](http://mantan-web.jp/2014/03/25/20140324dog00m200054000c.html) - [まんたんウェブ](../Page/まんたんブロード.md "wikilink")
 

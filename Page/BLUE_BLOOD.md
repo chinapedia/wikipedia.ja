@@ -61,7 +61,7 @@
 6.  **[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")** (6:34)
       -
         （作詞・作曲 / YOSHIKI / 編曲：X）
-        X初のメジャー[バラード](../Page/バラード.md "wikilink")。インディーズ時代にもバラード曲は存在しているが、[メジャーキー](https://ja.wikipedia.org/wiki/調 "wikilink")（長調）展開は初。
+        X初のメジャー[バラード](../Page/バラード.md "wikilink")。インディーズ時代にもバラード曲は存在しているが、[メジャーキー](../Page/調.md "wikilink")（長調）展開は初。
         エンディングS.Eにもよく使用される。
         2ndシングル曲。映画『[ZIPANG](https://ja.wikipedia.org/wiki/ZIPANG "wikilink")』主題歌。
 7.  **[紅](../Page/紅_\(Xの曲\).md "wikilink")** (6:18)

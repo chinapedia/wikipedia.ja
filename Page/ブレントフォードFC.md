@@ -1,9 +1,9 @@
 > この記事は[ブレントフォードFC](https://ja.wikipedia.org/wiki/ブレントフォードFC)から翻訳されています。
 
 
-**ブレントフォードFC** (Brentford Football Club) は、[ロンドン](../Page/ロンドン.md "wikilink")の[ハウンズロー地区](https://ja.wikipedia.org/wiki/ハウンズロー・ロンドン特別区 "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")を本拠地とするサッカークラブ。
+**ブレントフォードFC**（**Brentford Football Club**）は、[ロンドン](../Page/ロンドン.md "wikilink")の[ハウンズロー地区](https://ja.wikipedia.org/wiki/ハウンズロー・ロンドン特別区 "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")を本拠地とするサッカークラブ。
 
-現在、イングランドの2部リーグである[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")に所属している。最大のライバルは同じ西ロンドンにある[フラムFC](../Page/フラムFC.md "wikilink")と[クィーンズ・パーク・レンジャーズ](https://ja.wikipedia.org/wiki/クィーンズ・パーク・レンジャーズ "wikilink")。愛称は **The Bees**（ハチ）。
+現在、イングランドの2部リーグである[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")に所属している。最大のライバルは同じ西ロンドンにある[フラムFC](../Page/フラムFC.md "wikilink")と[クィーンズ・パーク・レンジャーズFC](https://ja.wikipedia.org/wiki/クィーンズ・パーク・レンジャーズFC "wikilink")。愛称は **The Bees**（ハチ）。
 
 ## 概要
 
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2014-2015" title="wikilink">2014-15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオンシップ</a></p></td>
 <td><p>46</p></td>
 <td><p>23</p></td>
 <td><p>9</p></td>

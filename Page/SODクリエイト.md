@@ -44,6 +44,7 @@
   - エントリー(2017.5 -)
   - [キミホレ](../Page/キミホレ.md "wikilink")(2017.6 -)\[6\]
   - Ms.SOD（2019/12/12 -）
+  - エモい女の子。（2020/03/24 -）初の配信先行レーベル\[7\]
 
 ### 停止
 
@@ -605,126 +606,131 @@
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/白石茉莉奈" title="wikilink">白石茉莉奈</a></p></td>
+<td><p>芸能人 白石茉莉奈 AV Debut(2013-6-6)</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紗藤まゆ" title="wikilink">紗藤まゆ</a></p></td>
 <td><p>紗藤まゆ AV Debut(2013-11-9)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上原紗弥果" title="wikilink">上原紗弥果</a></p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高塚れな" title="wikilink">高塚れな</a></p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高尾明日香" title="wikilink">高尾明日香</a></p></td>
 <td><p>高尾明日香 AV Debut(2014-3-6)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p>瀬奈まお</p></td>
 <td><p>瀬奈まお AV debut(2014-5-1)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/葉山めい" title="wikilink">葉山めい</a></p></td>
 <td><p>葉山めい 移籍即! 中出し解禁</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/香川ルリカ" title="wikilink">香川ルリカ</a></p></td>
 <td><p>香川ルリカAV DEBUT(2014-6-5)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/裕木まゆ" title="wikilink">裕木まゆ</a></p></td>
 <td><p>裕木まゆ 激イキッ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夏木しずく" title="wikilink">夏木しずく</a></p></td>
 <td><p>夏木しずく AV Debut(2014-8-7)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/丘咲エミリ" title="wikilink">丘咲エミリ</a></p></td>
 <td><p>丘咲エミリ SOD star Channel(2014-8-7)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石原莉奈" title="wikilink">石原莉奈</a></p></td>
 <td><p>石原莉奈 中出し性感エステ×フルコース 濃厚接吻尽くしSP(2014-9-6)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="../Page/嶋田歩.md" title="wikilink">美波ねい</a></p></td>
 <td><p>美波ねい AV Debut(2014-9-25)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/麻宮まどか" title="wikilink">麻宮まどか</a></p></td>
 <td><p>麻宮まどか AV Debut(2014-11-8)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松岡ちな" title="wikilink">松岡ちな</a></p></td>
-<td><p>松岡ちな AVデビュー(2014-12-6)[7]</p></td>
+<td><p>松岡ちな AVデビュー(2014-12-6)[8]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/瑠川リナ" title="wikilink">瑠川リナ</a></p></td>
 <td><p>瑠川リナ SOD移籍×中出し解禁(2015-1-8)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/香澄はるか" title="wikilink">香澄はるか</a></p></td>
 <td><p>香澄はるか AVDebut(2015-9-1)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/成瀬理沙.md" title="wikilink">逢坂はるな</a></p></td>
 <td><p>逢坂はるな SOD移籍×中出し解禁(2015-10-22)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆<br />
 ¿</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南真菜果" title="wikilink">南真菜果</a></p></td>
 <td><p>南真菜果 AV debut(2015-12-10)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/秋葉あかね" title="wikilink">秋葉あかね</a></p></td>
 <td><p>秋葉あかね AV debut(2016-1-8)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/もりの小鳥" title="wikilink">もりの小鳥</a></p></td>
 <td><p>もりの小鳥 AV debut(2016-7-21)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/飛鳥りん" title="wikilink">飛鳥りん</a></p></td>
 <td><p>飛鳥りん AV debut タイム風俗学ハンター(2016-9-1)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桐谷まつり" title="wikilink">桐谷まつり</a></p></td>
 <td><p>SODstar マジックミラー号誕生20周年記念作品 桐谷まつり AV Debut(2016-12-8)</p></td>
@@ -758,15 +764,13 @@
 | 2018年 |                                                           |                                                                                                                  |
 | ☆     | [青山希愛](https://ja.wikipedia.org/wiki/青山希愛 "wikilink")     | 芸能人 青山希愛 AV Debut (2018-3-8)                                                                                     |
 |       | [加藤ももか](https://ja.wikipedia.org/wiki/加藤ももか "wikilink")   | 改めまして SODstar 加藤ももか AVデビュー (2018-6-21)                                                                           |
-| 2019年 |                                                           |                                                                                                                  |
 |       | [成宮りか](https://ja.wikipedia.org/wiki/成宮りか "wikilink")     | 成宮りか SODstar DEBUT\! 中出し解禁 計6発 (2018-11-22)                                                                      |
 | ☆     | [石田カレン](https://ja.wikipedia.org/wiki/石田カレン "wikilink")   | 石田カレン AV Debut (2018-12-6)                                                                                       |
-| ☆     | [みながわ千遥](https://ja.wikipedia.org/wiki/みながわ千遥 "wikilink") | 新人デビュー みながわ千遥（ちはる）21歳\[8\] (2019-2-7)                                                                            |
-|       | [小泉ひなた](https://ja.wikipedia.org/wiki/小泉ひなた "wikilink")   | 小泉ひなた SODstar DEBUT\!＆中出し解禁 (2019-2-21)                                                                          |
-| 2020年 |                                                           |                                                                                                                  |
-| ☆     | [白石茉莉奈](https://ja.wikipedia.org/wiki/白石茉莉奈 "wikilink")   | 芸能人 白石茉莉奈 AV Debut(2013-6-6)                                                                                     |
-| ☆     | [石原める](https://ja.wikipedia.org/wiki/石原める "wikilink")     | 石原める 絶対的アイドル AV DEBUT (2019-8-1)                                                                                 |
+| 2019年 |                                                           |                                                                                                                  |
 | ☆     | [七海ティナ](https://ja.wikipedia.org/wiki/七海ティナ "wikilink")   | 凛として儚い 七海ティナ AV DEBUT (2019-1-10)                                                                                |
+| ☆     | [みながわ千遥](https://ja.wikipedia.org/wiki/みながわ千遥 "wikilink") | 新人デビュー みながわ千遥（ちはる）21歳\[9\] (2019-2-7)                                                                            |
+|       | [小泉ひなた](https://ja.wikipedia.org/wiki/小泉ひなた "wikilink")   | 小泉ひなた SODstar DEBUT\!＆中出し解禁 (2019-2-21)                                                                          |
+| ☆     | [石原める](https://ja.wikipedia.org/wiki/石原める "wikilink")     | 石原める 絶対的アイドル AV DEBUT (2019-8-1)                                                                                 |
 |       | [西野翔](../Page/西野翔.md "wikilink")                          | 陽は昇り陽は沈む 西野翔 SOD移籍 年内引退発表 15年続けてきた女優【今何を思う…】裸のドキュメント24時間 都内撮影現場から地元静岡・実家・自宅で赤裸々3SEX そして、最後にやり残した事とは…　(2019-8-22) |
 |       |                                                           |                                                                                                                  |
 
@@ -880,7 +884,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>グランプリ[9]</p></td>
+<td><p>グランプリ[10]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海老原ひとみ" title="wikilink">海老原ひとみ</a></p></td>
 <td><p>第3回シンデレラオーディショングランプリ 海老原ひとみ×AVDebut<br />
 (2010-10-7)</p></td>
@@ -898,7 +902,7 @@
 
 ### SOD国民的アイドルユニット
 
-()内は総選挙の順位\[10\]
+()内は総選挙の順位\[11\]
 
   - チームS：[琥珀うた](https://ja.wikipedia.org/wiki/琥珀うた "wikilink")（3位）、[穂積マヤ](https://ja.wikipedia.org/wiki/穂積マヤ "wikilink")（5位）、[七瀬あさ美](https://ja.wikipedia.org/wiki/七瀬あさ美 "wikilink")（6位）
   - チームO：[友田彩也香](https://ja.wikipedia.org/wiki/友田彩也香 "wikilink")（1位）、[愛心](https://ja.wikipedia.org/wiki/愛心 "wikilink")（8位）、[和希さやか](https://ja.wikipedia.org/wiki/和希さやか "wikilink")（9位）
@@ -913,17 +917,17 @@
 
   - [Keita★No.1](https://ja.wikipedia.org/wiki/Keita★No.1 "wikilink")
   - GORI
-  - 新保英之\[11\]
+  - 新保英之\[12\]
   - [菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")
-  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[12\]
+  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[13\]
   - [溜池ゴロー](../Page/溜池ゴロー.md "wikilink")（社外取締役顧問）
-  - CHAIN宗\[13\]
+  - CHAIN宗\[14\]
   - 土屋幸嗣
   - 豊田和家
   - [野本義明](https://ja.wikipedia.org/wiki/野本義明 "wikilink")
   - 林龍太朗
   - 宮門良輔
-  - 宮瀬博教\[14\]
+  - 宮瀬博教\[15\]
 
 <!-- end list -->
 
@@ -988,11 +992,12 @@
 4.
 5.
 6.
-7.  JAE2014(2014-11-14・15)にて先行発売。
-8.  【はにかみ版】、【なでしこ版】の2枚同時発売。
-9.  第3回はグランプリが2名。
-10. [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
-11. [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
-12. [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
-13. [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
-14. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）
+7.
+8.  JAE2014(2014-11-14・15)にて先行発売。
+9.  【はにかみ版】、【なでしこ版】の2枚同時発売。
+10. 第3回はグランプリが2名。
+11. [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
+12. [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
+13. [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
+14. [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
+15. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）

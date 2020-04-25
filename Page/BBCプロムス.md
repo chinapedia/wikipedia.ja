@@ -86,7 +86,7 @@
 
 [BBCスコティッシュ交響楽団](../Page/BBCスコティッシュ交響楽団.md "wikilink")と同楽団首席指揮者[トーマス・ダウスゴー](https://ja.wikipedia.org/wiki/トーマス・ダウスゴー "wikilink")のほか、各国のコンクール受賞歴を持つ海外アーティストおよび、[三浦文彰](https://ja.wikipedia.org/wiki/三浦文彰 "wikilink")（ヴァイオリニスト）、[宮田大](../Page/宮田大.md "wikilink")（チェリスト）、挾間美帆（ジャズ作編曲家）、[葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink")（ヴァイオリニスト）、[森麻季](../Page/森麻季_\(歌手\).md "wikilink")（ソプラノ歌手）など実力派の日本人アーティストも複数出演。
 
-会場は[Bunkamura オーチャードホール](../Page/オーチャードホール.md "wikilink")(東京)、[ザ・シンフォニーホール](../Page/ザ・シンフォニーホール.md "wikilink")(大阪)、渋谷エリア複数箇所\[11\]。東京・渋谷の街頭でも「Proms Plus Outdoor Concerts」と銘打った無料コンサートが行われるほか\[12\]、最終夜「Last Night of the Proms」は、[BS朝日で](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")2019/12/29に放送予定\[13\]。
+会場は[Bunkamura オーチャードホール](../Page/オーチャードホール.md "wikilink")(東京)、[ザ・シンフォニーホール](../Page/ザ・シンフォニーホール.md "wikilink")(大阪)、渋谷エリア複数箇所\[11\]。東京・渋谷の街頭でも「Proms Plus Outdoor Concerts」と銘打った無料コンサートが行われるほか\[12\]、最終夜「Last Night of the Proms」は、[BS朝日で](../Page/ビーエス朝日.md "wikilink")2019/12/29に放送予定\[13\]。
 
 この「BBC Proms JAPAN 2019」では、[大和証券グループの特別協賛により](../Page/大和証券グループ本社.md "wikilink")、BBC Proms名物の「プロミング・チケット」と呼ばれる大幅なディスカウントチケットの日本版として、10/30-11/4の全公演で席の一部が「Daiwaシート」（税込1,000円、全席指定、座席数に限りあり）として販売された\[14\]\[15\]。
 

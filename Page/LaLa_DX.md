@@ -153,9 +153,7 @@
 
 ## 外部リンク
 
-  - [白泉社オンライン](http://www.hakusensha.co.jp/) - 白泉社公式ウェブサイト
-      - [白泉社｜LaLa](http://www.hakusensha.co.jp/lala/) - LaLa総合トップページ
-          - [白泉社｜LaLa DX](http://www.hakusensha.co.jp/lala/mag_laladx/now.html) - LaLa DX特設ページ
+  - [LaLa DX 最新号情報](https://lala.ne.jp/mag_laladx/now.php)
 
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:白泉社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:白泉社の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:季刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:季刊漫画雑誌 "wikilink") [Category:少女漫画雑誌](https://ja.wikipedia.org/wiki/Category:少女漫画雑誌 "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")
 

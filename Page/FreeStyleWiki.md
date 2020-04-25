@@ -14,7 +14,7 @@
 ## 特徴
 
   - 徹底されたモジュール化により、プラグインによる拡張が容易
-  - [RDBMS](https://ja.wikipedia.org/wiki/RDBMS "wikilink")を使用しないため、[CGI](https://ja.wikipedia.org/wiki/CGI "wikilink")が動作する多くのサーバに設置可能
+  - [RDBMS](https://ja.wikipedia.org/wiki/RDBMS "wikilink")を使用しないため、[CGIが動作する多くのサーバに設置可能](../Page/Common_Gateway_Interface.md "wikilink")
   - mod_perlでの動作にも対応(3.4.1以降)
   - 全ページ共通のヘッダ、フッタ、サイドバーを表示可能
   - ファイルの添付やPDFの生成などが可能

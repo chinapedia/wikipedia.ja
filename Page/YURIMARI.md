@@ -111,7 +111,7 @@
 <li>街路樹(Dub’s club remix)</li>
 <li>街路樹(ORIGINAL INSTRUMENTAL)</li>
 </ol></td>
-<td><p>ケンタッキーフライドチキン「ハローキティピクニックバスケット」CMソング</p></td>
+<td><p>ケンタッキーフライドチキン「ハローキティピクニックバスケット」CMソング シングルとしては唯一サンプラザ中野＆＆P.KAWAIコンビの手掛けていない楽曲（作詞：YURIMARI、作曲：<a href="../Page/長尾大.md" title="wikilink">D・A・I</a>）。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -217,7 +217,13 @@
   - 小枝（[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")）
   - CARA（キャラ）（[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")） - [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")と共演。CM中では松浦が「（CARAが）500万個売れなかったらYURIMARI解散」と言っていた。
 
-### 外部リンク
+## その他作品
+
+### 写真集
+
+  - 17dix-sept（1999年11月、[近代映画社](../Page/近代映画社.md "wikilink")）撮影：福本邦洋
+
+## 外部リンク
 
   - [avex database/YURIMARI](http://www.avexnet.or.jp/avexdb/yurimari/)
 

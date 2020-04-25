@@ -2041,7 +2041,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/迷い猫オーバーラン!" title="wikilink">迷い猫オーバーラン!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>4月6日</p></td>
 <td></td>
 </tr>

@@ -52,7 +52,7 @@
 
   - [技術文書に頻出する「foobar」って何だ？](http://ascii.jp/elem/000/000/061/61404/) (ASCII.jp 今さら聞けないIT英語)
 
-[Category:プログラミング](https://ja.wikipedia.org/wiki/Category:プログラミング "wikilink") [Category:名前](https://ja.wikipedia.org/wiki/Category:名前 "wikilink")
+[Category:プログラミング・フォークロア](https://ja.wikipedia.org/wiki/Category:プログラミング・フォークロア "wikilink") [Category:名前](https://ja.wikipedia.org/wiki/Category:名前 "wikilink")
 
 1.
 2.

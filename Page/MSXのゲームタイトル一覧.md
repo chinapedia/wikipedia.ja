@@ -687,13 +687,13 @@
     コナミのゴルフ（ROM）
     コナミのサッカー（ROM）
     コナミのテニス（ROM）
-    [コナミのピンポン](../Page/コナミのピンポン.md "wikilink")（ROM）
+    [コナミのピンポン](../Page/コナミのピンポン.md "wikilink")（ROM））
     コナミのベースボール（ROM）
     コナミのボクシング（ROM）
     [スカイジャガー](https://ja.wikipedia.org/wiki/スカイジャガー "wikilink")（ROM）
     [ハイパースポーツ3](https://ja.wikipedia.org/wiki/ハイパーオリンピック'84 "wikilink")（ROM）
     [ハイパーラリー](https://ja.wikipedia.org/wiki/ハイパーラリー "wikilink")（ROM）
-    [ピポルス](https://ja.wikipedia.org/wiki/ピポルス "wikilink")（ROM）
+    [ピポルス](https://ja.wikipedia.org/wiki/ピポルス "wikilink")（ROM）\[2\]
     （ROM）
     [モピレンジャー](../Page/モピレンジャー.md "wikilink")（ROM）
     [ロードファイター](../Page/ロードファイター.md "wikilink")（ROM）★
@@ -1215,7 +1215,7 @@
 
     [火の鳥 鳳凰編](../Page/火の鳥_鳳凰編_\(MSX\).md "wikilink")（ROM）
 
-    [魔城伝説II ガリウスの迷宮](https://ja.wikipedia.org/wiki/魔城伝説II_ガリウスの迷宮 "wikilink")（ROM）
+    [魔城伝説II ガリウスの迷宮](https://ja.wikipedia.org/wiki/魔城伝説II_ガリウスの迷宮 "wikilink")（ROM）\[3\]
 
     [メタルギア](../Page/メタルギア.md "wikilink")（[7月13日](../Page/7月13日.md "wikilink")、ROM）★
 
@@ -1996,7 +1996,7 @@
   - T\&E SOFT
     T\&Eマガジンディスクスペシャル（DISK）
     T\&EマガジンディスクスペシャルVol.2（6月20日、DISK）
-    [アンデッドライン](https://ja.wikipedia.org/wiki/アンデッドライン "wikilink")（7月22日、DISK）
+    [アンデッドライン](https://ja.wikipedia.org/wiki/アンデッドライン "wikilink")（7月22日、DISK）\[4\]
   - アーテック
     [ディガンの魔石](../Page/ディガンの魔石.md "wikilink")（5月19日、DISK）
   - アスキー
@@ -2580,7 +2580,7 @@
     ディスクステーション31号（11月8日、DISK）
     ディスクステーション32号（12月19日、DISK）
     ドラゴンクイズ（9月27日、DISK）
-    [ぷよぷよ](../Page/ぷよぷよ.md "wikilink")（10月27日\[2\]\[3\]、DISK）
+    [ぷよぷよ](../Page/ぷよぷよ.md "wikilink")（10月27日\[5\]\[6\]、DISK）
     ルーンマスター三国英傑伝（5月24日、DISK）
     笑ゥせぇるすまん（12月10日、DISK）
   - 全流通
@@ -3385,11 +3385,26 @@
 
   - 2006年
 
-:;INK（TAPE/DISK/ROM） - スペインのソフトハウスであるマトラコーポレーション\[4\]が日本で販売していたもの。ライセンスがコマーシャル（市販品）になっており\[5\]、同人ソフトではなく市販ソフトである。
+:;マトラコーポレーション
 
-  - 2020年
+  -
 
-:;SHOULDER BLADE OUTERSPACE
+      -
+        INK（TAPE/DISK/ROM）\[7\] - ライセンスがコマーシャル（市販品）になっており\[8\]、同人ソフトではなく市販ソフトである。
+
+  - 2019年
+    2020年
+
+:;NobuakiWashio
+
+::SHOULDER BLADE OUTERSPACE\[9\]
+
+:;ニャオニャオ21世紀
+
+  -
+
+      -
+        大仏パラダイス\[10\]
 
 ## 脚注
 
@@ -3410,4 +3425,9 @@
 2.
 3.
 4.
-5.  [1](http://www.generation-msx.nl/msxdb/softwareinfo/3605)
+5.
+6.
+7.
+8.  [1](http://www.generation-msx.nl/msxdb/softwareinfo/3605)
+9.
+10.

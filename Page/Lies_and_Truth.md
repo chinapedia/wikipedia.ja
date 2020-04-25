@@ -69,7 +69,7 @@
 
 <references />
 
-[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:kenが制作した楽曲](https://ja.wikipedia.org/wiki/Category:kenが制作した楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:JAPAN_COUNTDOWN](https://ja.wikipedia.org/wiki/Category:JAPAN_COUNTDOWN "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:kenが制作した楽曲](https://ja.wikipedia.org/wiki/Category:kenが制作した楽曲 "wikilink") [Category:JAPAN_COUNTDOWN](https://ja.wikipedia.org/wiki/Category:JAPAN_COUNTDOWN "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  『ROCKIN'ON JAPAN』、p.71、2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")
 2.  『ROCKIN'ON JAPAN』、p.63-p.64、2004年3月号、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")

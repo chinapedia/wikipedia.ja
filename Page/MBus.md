@@ -17,4 +17,4 @@ MBusを使ったコンピュータシステムを生産したメーカーは、[
 
   - [The rough guide to MBus modules, at sunhelp](http://mbus.sunhelp.org/)
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

@@ -32,7 +32,7 @@
 
 ## 外部リンク
 
-  - [UTC+14の都市](http://www.timegenie.com/utc.time/UTC+14)
+  - [UTC+14の都市](https://www.timegenie.com/utc.time/UTC+14)
 
 [es:Huso horario\#UTC+14:00, M†](https://ja.wikipedia.org/wiki/es:Huso_horario#UTC+14:00,_M† "wikilink")
 

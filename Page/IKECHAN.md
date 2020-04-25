@@ -66,7 +66,7 @@
 
   - \[ <https://www.ikechan.info/> IKECHAN公式サイト\]
 
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink")
+[Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink")
 
 1.  [岸和田席巻、だんじりソング　ＣＤ販売２０年近く上位](https://www.asahi.com/articles/ASH980R3RH97PPTB00F.html)、[朝日新聞デジタル](https://ja.wikipedia.org/wiki/朝日新聞デジタル "wikilink")、2015年9月18日22時36分。
 2.  [産経WEST（2016年9月16日）2017年9月24日閲覧](http://www.sankei.com/west/news/160919/wst1609190029-n1.html)

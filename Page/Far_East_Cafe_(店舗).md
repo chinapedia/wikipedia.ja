@@ -264,7 +264,7 @@
   - シングル『[その日が来るまで/やさしい風が吹いたら](https://ja.wikipedia.org/wiki/その日が来るまで/やさしい風が吹いたら "wikilink")』レコーディング
   - コンサート『その日が来るまで』宮城、岩手、福島公演
   - 夏のイベント出演
-  - [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")『[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") YOKOSO』出演
+  - [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")『[吉田拓郎](../Page/吉田拓郎.md "wikilink") YOKOSO』出演
   - 東北大学校友歌『緑の丘』制作
   - 『クリスマスの約束』ミーティング〜収録・他
 

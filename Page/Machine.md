@@ -615,7 +615,7 @@ Phantom of the end 裏PV<br />
 
 <!-- end list -->
 
-  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](http://ameblo.jp/hakuei-blog) （2009年4月23日〜）
+  - [PENICILLIN HAKUEIオフィシャルブログ『「HAKUEI パンチ\!\!」』by Ameba](https://ameblo.jp/hakuei-blog) （2009年4月23日〜）
 
   -
 <!-- end list -->

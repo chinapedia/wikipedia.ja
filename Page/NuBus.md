@@ -41,4 +41,4 @@ NuBusはNeXT BUSとしてNeXTコンピュータ([NeXTcube](../Page/NeXTcube.md "
 
   - [NuBus specs](http://www.bitsavers.org/pdf/ti/2242825-0001_NuBus_Spec1983.pdf)
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

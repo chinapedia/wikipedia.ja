@@ -37,7 +37,7 @@
 
   - （ヅェータ／ツェータ）,
 
-  - [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")：ゼー
+  - [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[ハンガリー語](../Page/ハンガリー語.md "wikilink")：ゼー
 
   - [エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：ゾー
 

@@ -203,7 +203,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1997年<a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HIGH_PRESSURE_(曲)" title="wikilink">HIGH PRESSURE</a></strong></p></td>
+<td><p><strong><a href="../Page/HIGH_PRESSURE_(曲).md" title="wikilink">HIGH PRESSURE</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>

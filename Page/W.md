@@ -102,7 +102,6 @@ Vを横に2つ連ねた形であり、大文字、小文字同形である。し
   - [仮面ライダーW](https://ja.wikipedia.org/wiki/仮面ライダーW "wikilink") - 特撮テレビドラマ。この場合、必ず大文字表記。
   - [W](https://ja.wikipedia.org/wiki/W_\(曲\) "wikilink") - [松岡充](../Page/松岡充.md "wikilink")のソロシングル。
   - [W](../Page/W_\(アルバム\).md "wikilink") - [ARBのアルバム](../Page/ARB_\(バンド\).md "wikilink")。
-  - W - [アイドルマスター SideMに登場するペアユニット](https://ja.wikipedia.org/wiki/アイドルマスター_SideM "wikilink")。
 
 ## 符号位置
 

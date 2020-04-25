@@ -40,6 +40,7 @@
   - [アスキーアート](../Page/アスキーアート.md "wikilink") (ASCII art)
   - [対空兵器](../Page/対空兵器.md "wikilink") (anti-aircraft warfare)
   - アティテュード・アジャストメント (Attitude Adjustment) - アメリカのプロレスラー[ジョン・シナ](../Page/ジョン・シナ.md "wikilink")の必殺技
+  - [AppArmor](https://ja.wikipedia.org/wiki/AppArmor "wikilink")
 
 ### 固有名詞
 

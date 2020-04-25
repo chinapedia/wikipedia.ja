@@ -61,7 +61,7 @@ c 'orld';
   - [](http://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html) - プログラミング技術向上による変化（冗談サイト）
   - [](http://www.gnu.org/software/hello/) - [{{langによる実装](../Page/GNUプロジェクト.md "wikilink")。コーディングスタイルや、プロジェクトメンテナンスのサンプルとして運用されている。
 
-[Category:プログラミング](https://ja.wikipedia.org/wiki/Category:プログラミング "wikilink") [Category:アプリケーションソフト](https://ja.wikipedia.org/wiki/Category:アプリケーションソフト "wikilink")
+[Category:プログラミング・フォークロア](https://ja.wikipedia.org/wiki/Category:プログラミング・フォークロア "wikilink") [Category:アプリケーションソフト](https://ja.wikipedia.org/wiki/Category:アプリケーションソフト "wikilink")
 
 1.  『プログラミング言語C 第2版』（訳書訂正版）「第1章 やさしい入門」
 2.

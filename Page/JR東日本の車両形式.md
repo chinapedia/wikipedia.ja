@@ -121,8 +121,6 @@
           - 209系（[MUE-Train](https://ja.wikipedia.org/wiki/MUE-Train "wikilink")）
       - **交直両用**
           - [E491系](../Page/JR東日本E491系電車.md "wikilink")（電気・軌道総合試験車"[East i-E](https://ja.wikipedia.org/wiki/East_i-E "wikilink")"）
-      - **直流用蓄電池式**
-          - [E995系](https://ja.wikipedia.org/wiki/JR東日本E995系電車 "wikilink")（NE Train スマート電池くん）
 
 ### 気動車
 
@@ -292,6 +290,8 @@
       - **交流用**
           - [クモヤ740形](https://ja.wikipedia.org/wiki/国鉄72系電車#クモヤ740形 "wikilink")
           - [クモヤ743形](../Page/JR東日本クモヤ743形電車.md "wikilink")
+      - **直流用蓄電池式**
+          - [E995系](https://ja.wikipedia.org/wiki/JR東日本E995系電車 "wikilink") (NE Train スマート電池くん)
 
 ### 気動車
 

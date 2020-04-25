@@ -109,6 +109,7 @@
   - 松下電器産業（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）が発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の互換機『[Q](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#互換機「Q」 "wikilink")』。
   - [ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")を主人公とした小説及び映画作品に登場する[キャラクター](../Page/キャラクター.md "wikilink")で、[イギリス情報局秘密情報部](https://ja.wikipedia.org/wiki/イギリス情報局秘密情報部 "wikilink")（MI6）の架空の[研究開発](../Page/研究開発.md "wikilink")であるQ課の課長である。[Q](https://ja.wikipedia.org/wiki/Q_\(ジェームズ・ボンド\) "wikilink")。
   - [スタートレック](../Page/スタートレック.md "wikilink")シリーズの[新スタートレック](../Page/新スタートレック.md "wikilink")以降に登場する知的生命体 [Q](../Page/Q_\(スタートレック\).md "wikilink")。
+  - 四[重奏](../Page/重奏.md "wikilink")団を表す[カルテット](../Page/カルテット.md "wikilink")（Quartet）、五重奏団を表す[クインテット](https://ja.wikipedia.org/wiki/クインテット "wikilink")（Quintet）の略。
   - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』。
   - [avex所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")(トリプルA)のシングル ["Q"](../Page/"Q".md "wikilink")。
   - ゲーム『[ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink")』に登場するキャラクター、[Q](../Page/Q_\(ストリートファイター\).md "wikilink")。
@@ -119,7 +120,7 @@
   - [MS-DOS](../Page/MS-DOS.md "wikilink")や[Windowsなどで](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[CD-ROM](../Page/CD-ROM.md "wikilink")ドライブの[ドライブレター](../Page/ドライブレター.md "wikilink")にQがよく割り当てられる。
   - フリーのPC[エミュレータ](../Page/エミュレータ.md "wikilink")[QEMU](../Page/QEMU.md "wikilink")の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けポート。
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")。6枚目のアルバムは『[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")』、公式ファンクラブはCLUB QUE（クラブキュー）。
-  - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")内の企画「高校生ダンス甲子園」において当イベントに参加した無名時代の[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（現俳優）が名乗った名前は『メロリンQ』。
+  - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")内の企画「高校生ダンス甲子園」において当イベントに参加した無名時代の[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（のちに俳優、現政治家）が名乗った名前は『メロリンQ』。
   - [円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")が製作したテレビ特撮作品第一作は『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』。[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")の第14話の必殺光線『スペースQ』や第48話の『Q歯科医院』、[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")第43話の小型吸血円盤『デモスQ』や第47話の『テリナQ』、[マイティジャック](../Page/マイティジャック.md "wikilink")に登場する敵組織の名称『Q』など、円谷プロ作品においてQの文字はよく使用される。
   - [デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")社が開発し、現在でも[ボンバルディア](../Page/ボンバルディア.md "wikilink")社が製造している「ボンバルディア Qシリーズ」。（例:[Q400](https://ja.wikipedia.org/wiki/Q400 "wikilink")など）
   - [INFINITI](https://ja.wikipedia.org/wiki/INFINITI "wikilink")の車種、[Q](https://ja.wikipedia.org/wiki/インフィニティ・Q "wikilink")

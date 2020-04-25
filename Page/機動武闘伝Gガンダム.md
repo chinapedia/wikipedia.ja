@@ -91,22 +91,20 @@
 
 ### シリーズスタッフ
 
+（オープニングクレジットより）
+
   - 企画 - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - 原作 - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』より）
-  - シリーズ構成・チーフライター - [五武冬史](../Page/鈴木良武.md "wikilink")
+  - シリーズ構成（25話まで）、チーフライター（26話から） - [五武冬史](../Page/鈴木良武.md "wikilink")
   - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [逢坂浩司](../Page/逢坂浩司.md "wikilink")
-  - キャラクターデザイン協力 - [島本和彦](../Page/島本和彦.md "wikilink")
-  - [メカニックデザイン](../Page/メカニックデザイン.md "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[山根公利](../Page/山根公利.md "wikilink")
+  - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[山根公利](../Page/山根公利.md "wikilink")
   - メカニックディレクター - [佐野浩敏](../Page/佐野浩敏.md "wikilink")
-  - 色彩設定 - 中山しほ子
   - 美術監督 - [東潤一](https://ja.wikipedia.org/wiki/東潤一 "wikilink")
   - 撮影監督 - 大神洋一
-  - 撮影 - [旭プロダクション](../Page/旭プロダクション.md "wikilink")
   - [音楽](../Page/音楽.md "wikilink") - [田中公平](../Page/田中公平.md "wikilink")
   - [音響監督](../Page/音響監督.md "wikilink") - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
-  - 制作協力 - [電通](../Page/電通.md "wikilink")、創通エージェンシー（現・[創通](../Page/創通.md "wikilink")）
-  - アシスタントプロデューサー - 赤崎義人
-  - プロデューサー - 小泉美明（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）・[南雅彦](../Page/南雅彦.md "wikilink")（現BONES）→[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")（現[アニプレックス](../Page/アニプレックス.md "wikilink")）→松村圭一（サンライズ）
+  - 制作協力 - [電通](../Page/電通.md "wikilink")、[創通](../Page/創通.md "wikilink")エージェンシー
+  - プロデューサー - 小泉美明（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[南雅彦](../Page/南雅彦.md "wikilink")、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")（サンライズ）
   - 総監督 - [今川泰宏](../Page/今川泰宏.md "wikilink")
   - 制作 - テレビ朝日、サンライズ
 
@@ -1011,7 +1009,7 @@
   - [機動武闘伝Gガンダム](https://ja.wikipedia.org/wiki/機動武闘伝Gガンダム_\(スーパーファミコン\) "wikilink")
     1994年12月27日にバンダイから発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。制作は[パンドラボックスが担当](../Page/パンドラボックス_\(ゲーム会社\).md "wikilink")。本放送中に発売されたこともあり、登場モビルファイターのデザインが細部で異なり、主に企画段階のデザインが反映され、デビルガンダムはゲームオリジナルのデザインとなっている。また、アニメ本編より先行してライジングガンダムは登場する一方、アニメに登場済のノーベルガンダムは登場しないなど影響がみられた。なお、このゲームに登場した必殺技の名称の一部は、後にアニメ本編や関連ゲームに登場した。
   - 機動武闘伝Gガンダム THE バトル
-    2002年10月10日にバンダイから発売された[プレイステーション用対戦型格闘ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")。制作は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が担当元は2002年7月17日に北米のみで販売された『Gundam Battle Assault 2』の改題作品であり、同作に収録されていた『新機動戦記ガンダムW』のキャラクターやメカを分割し、「[SIMPLEキャラクター2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLEシリーズ#SIMPLEキャラクター2000シリーズ "wikilink")」の12作目として単独商品化された。
+    2002年10月10日にバンダイから発売された[プレイステーション用対戦型格闘ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")。制作は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")が担当。元は2002年7月17日に北米のみで販売された『Gundam Battle Assault 2』の改題作品であり、同作に収録されていた『新機動戦記ガンダムW』のキャラクターやメカを分割し、「[SIMPLEキャラクター2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLEシリーズ#SIMPLEキャラクター2000シリーズ "wikilink")」の12作目として単独商品化された。
 
 ### ドラマCD
 
@@ -1045,10 +1043,10 @@
 
   - [機動武闘伝Gガンダム（サンライズ）](http://www.g-gundam.net/)
 
-  - [バンダイチャンネルによる配信](http://www.b-ch.com/ttl/index.php?ttl_c=112)
+  - [バンダイチャンネルによる配信](https://www.b-ch.com/titles/112/)
 
   -
-[Category:ガンダムシリーズのテレビアニメ](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのテレビアニメ "wikilink") [Category:未来世紀](https://ja.wikipedia.org/wiki/Category:未来世紀 "wikilink") [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:1994年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1994年のテレビアニメ "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:架空のロボット競技を題材とした作品](https://ja.wikipedia.org/wiki/Category:架空のロボット競技を題材とした作品 "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:世界各地を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたアニメ作品 "wikilink") [Category:新宿を舞台とした作品](https://ja.wikipedia.org/wiki/Category:新宿を舞台とした作品 "wikilink") [Category:香港を舞台とした作品](https://ja.wikipedia.org/wiki/Category:香港を舞台とした作品 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
+[Category:ガンダムシリーズのテレビアニメ](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのテレビアニメ "wikilink") [Category:未来世紀](https://ja.wikipedia.org/wiki/Category:未来世紀 "wikilink") [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:1994年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1994年のテレビアニメ "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:架空のロボット競技を題材とした作品](https://ja.wikipedia.org/wiki/Category:架空のロボット競技を題材とした作品 "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:世界各地を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたアニメ作品 "wikilink") [Category:新宿を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:新宿を舞台としたアニメ作品 "wikilink") [Category:香港を舞台とした作品](https://ja.wikipedia.org/wiki/Category:香港を舞台とした作品 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 
 1.  CD『機動武闘伝Gガンダム GUNDAM FIGHT-ROUND 3 新香港的武闘戯曲』収録「戦闘男児\~鍛えよ 勝つために」「香港観光歌\~アジアの楽園」。
 2.  <http://www.icv2.com/articles/news/1857.html>

@@ -1,7 +1,7 @@
 > この記事は[林原めぐみのHeartful Station](https://ja.wikipedia.org/wiki/林原めぐみのHeartful_Station)から翻訳されています。
 
 
-『**林原めぐみのHeartful Station**』（はやしばらめぐみのハートフル・ステーション）は、[声優](../Page/声優.md "wikilink")の[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")と[保志総一朗](../Page/保志総一朗.md "wikilink")による[キングレコード](../Page/キングレコード.md "wikilink")製作・[1社提供の](../Page/一社提供.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。[ラジオ関西](../Page/ラジオ関西.md "wikilink")をキー局として[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[10月5日](../Page/10月5日.md "wikilink")より放送を開始し、[2015年](../Page/2015年.md "wikilink")（平成27年）[3月28日](../Page/3月28日.md "wikilink")に放送1226回をもって放送を終了した。略称は「**ハートフル**」または「**HS**」。
+『**林原めぐみのHeartful Station**』（はやしばらめぐみのハートフル・ステーション）は、[声優](../Page/声優.md "wikilink")の[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")と[保志総一朗](../Page/保志総一朗.md "wikilink")による[キングレコード](../Page/キングレコード.md "wikilink")制作・[1社提供の](../Page/一社提供.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[アニラジ](../Page/アニラジ.md "wikilink")）。[ラジオ関西](../Page/ラジオ関西.md "wikilink")をキー局として[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[10月5日](../Page/10月5日.md "wikilink")より放送を開始し、[2015年](../Page/2015年.md "wikilink")（平成27年）[3月28日](../Page/3月28日.md "wikilink")に放送1226回をもって放送を終了した。略称は「**ハートフル**」または「**HS**」。
 
 ※放送日はラジオ関西を基準とする。また、[ラジオ日本で放送されていた](../Page/アール・エフ・ラジオ日本.md "wikilink")、第1期『Heartful Station』もこの記事にて後述する（[主な歴史を参照](https://ja.wikipedia.org/wiki/#主な歴史 "wikilink")）。
 

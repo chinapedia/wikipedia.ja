@@ -21,6 +21,7 @@
       - [PPP分子軌道法](https://ja.wikipedia.org/wiki/PPP分子軌道法 "wikilink")
   - [血漿成分採取](https://ja.wikipedia.org/wiki/血漿成分採取 "wikilink") () - [献血](../Page/献血.md "wikilink")方法の一種。
   - [Point-to-Point Protocol](../Page/Point-to-Point_Protocol.md "wikilink") - 二点間を接続して[データ通信](../Page/データ通信.md "wikilink")するための[通信プロトコル](../Page/通信プロトコル.md "wikilink")。
+  - [給与保護プログラム](https://ja.wikipedia.org/wiki/給与保護プログラム "wikilink") (Paycheck Protection Program)
 
 ### 固有名詞
 

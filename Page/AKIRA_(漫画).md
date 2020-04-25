@@ -7,7 +7,7 @@
 
 [超能力](../Page/超能力.md "wikilink")者を巡る軍や反政府勢力の争い、近未来都市やその崩壊後の世界を描いた[SF漫画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。
 
-[講談社](../Page/講談社.md "wikilink")の漫画雑誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』にて、[1982年](../Page/1982年.md "wikilink")12月20日号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月25日号にかけて連載\[1\]（途中、アニメ映画制作に伴う中断あり）。全120話。題字は[平田弘史](../Page/平田弘史.md "wikilink")が担当（PART3～PART4）。
+[講談社](../Page/講談社.md "wikilink")の漫画雑誌『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』にて、[1982年](../Page/1982年.md "wikilink")12月20日号から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月25日号にかけて連載\[1\]（途中、アニメ映画制作に伴う中断あり）。全120話。題字は[平田弘史](../Page/平田弘史.md "wikilink")が担当（PART3 - PART4）。
 
 [1984年](../Page/1984年.md "wikilink")（昭和59年）度 第8回[講談社漫画賞](../Page/講談社漫画賞.md "wikilink")一般部門受賞。
 
@@ -216,7 +216,7 @@
     一定以上の力を持つ実験体には番号が付けられ、手の平にもその番号が刻印されるため、通称「ナンバーズ」と呼ばれる。
   - キヨコ
     **25号**とも呼ばれる。タカシと同じようにして9歳で成長が止まった。
-    彼女の未来予知は93～95%の確率で当たり、ネオ東京崩壊も予知した。身体的にはひどく弱っており、寝たきりで自力で動くことはほとんどできないが、超能力で自分のベッドや自分自身を浮かせることができる。最初にケイを精神力で操って鉄雄に対抗するが失敗、以降はその逃走を助けるなどした。
+    彼女の未来予知は93 - 95%の確率で当たり、ネオ東京崩壊も予知した。身体的にはひどく弱っており、寝たきりで自力で動くことはほとんどできないが、超能力で自分のベッドや自分自身を浮かせることができる。最初にケイを精神力で操って鉄雄に対抗するが失敗、以降はその逃走を助けるなどした。
     原作ではネオ東京崩壊後に経緯不詳ながらマサル共々ケイやチヨコに保護されていたが、後にミヤコの教団に身を寄せる。
     アニメ映画版ではアキラの覚醒から敷島大佐を逃がした後、タカシの行動を見て、未来を変えるために彼と共にアキラの光へ飛び込む。
   - マサル
@@ -391,7 +391,7 @@
 
 劇伴は[芸能山城組](../Page/芸能山城組.md "wikilink")が担当。[ガムラン](../Page/ガムラン.md "wikilink")や[ジェゴク](https://ja.wikipedia.org/wiki/ジェゴク "wikilink")、[ケチャ](../Page/ケチャ.md "wikilink")を使用した独特の楽曲は、劇伴の枠を超えた独自性を持ち、音楽面でも高い評価を得た。
 
-2019年、新アニメプロジェクトの発表を受け、本作の4K画質によるリマスター版の制作を敢行。35mmマスターポジフィルムから変換し、画質の向上に加えて山城祥二の指揮のもとに5.1ch音源のリミックスを実施。IMAXレーザーなど[IMAXシアターが導入されている全国](https://ja.wikipedia.org/wiki/IMAX#IMAXシアター "wikilink")36館にて、2020年4月3日からリバイバル公開が予定されている。
+2019年、新アニメプロジェクトの発表を受け、本作の4K画質によるリマスター版の制作を敢行。35mmマスターポジフィルムから変換し、画質の向上に加えて山城祥二の指揮のもとに5.1ch音源のリミックスを実施。IMAXレーザーなど[IMAXシアターが導入されている全国](https://ja.wikipedia.org/wiki/IMAX#IMAXシアター "wikilink")36館にて、2020年4月3日からリバイバル公開されている。
 
 ### ストーリー（アニメ映画版）
 
@@ -528,7 +528,7 @@
 
 ### メガドライブ版
 
-1994～95年頃に日米発売計画があったものの中止。今もなお続く海外のコンピュータゲーム展示会・[CES](https://ja.wikipedia.org/wiki/CES "wikilink")出展の際、開発中のプレイ画面がフリーズする致命的なバグが出ている\[20\]。2019年にプロトタイプROMがコレクターの手に渡り、シューティングパートやアクションパートと言った複数ジャンルを内包したゲーム内容が公開された。
+1994 - 95年頃に日米発売計画があったものの中止。今もなお続く海外のコンピュータゲーム展示会・[CES](https://ja.wikipedia.org/wiki/CES "wikilink")出展の際、開発中のプレイ画面がフリーズする致命的なバグが出ている\[20\]。2019年にプロトタイプROMがコレクターの手に渡り、シューティングパートやアクションパートと言った複数ジャンルを内包したゲーム内容が公開された。
 
 ## 実写版映画
 
@@ -583,9 +583,10 @@
   -
   -
   -
+  -
 [ar:أكيرا (فيلم)](https://ja.wikipedia.org/wiki/ar:أكيرا_\(فيلم\) "wikilink") [hr:Akira (1988)](https://ja.wikipedia.org/wiki/hr:Akira_\(1988\) "wikilink") [id:Akira (film 1988)](https://ja.wikipedia.org/wiki/id:Akira_\(film_1988\) "wikilink") [nl:Akira (anime)](https://ja.wikipedia.org/wiki/nl:Akira_\(anime\) "wikilink") [no:Akira](https://ja.wikipedia.org/wiki/no:Akira "wikilink") [th:อากิระ คนไม่ใช่คน](https://ja.wikipedia.org/wiki/th:อากิระ_คนไม่ใช่คน "wikilink") [uk:Акіра](https://ja.wikipedia.org/wiki/uk:Акіра "wikilink")
 
-[Category:大友克洋の漫画作品](https://ja.wikipedia.org/wiki/Category:大友克洋の漫画作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:1982年の漫画](https://ja.wikipedia.org/wiki/Category:1982年の漫画 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:オートバイを題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:オートバイを題材にした漫画作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink") [Category:未来を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした漫画作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1988年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1988年のアニメ映画 "wikilink") [Category:大友克洋の監督映画](https://ja.wikipedia.org/wiki/Category:大友克洋の監督映画 "wikilink") [Category:SFアニメ映画](https://ja.wikipedia.org/wiki/Category:SFアニメ映画 "wikilink") [Category:超能力を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:東京ムービーのアニメ映画](https://ja.wikipedia.org/wiki/Category:東京ムービーのアニメ映画 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:東宝製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ映画 "wikilink") [Category:博報堂DYグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:博報堂DYグループのアニメ作品 "wikilink") [Category:ヤンマガKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:ヤンマガKCのアニメ作品 "wikilink") [Category:不良少年・不良少女を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公としたアニメ作品 "wikilink") [Category:不良少年・不良少女を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした映画作品 "wikilink") [Category:暴走族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした映画作品 "wikilink") [Category:未来を題材にしたアニメ作品](https://ja.wikipedia.org/wiki/Category:未来を題材にしたアニメ作品 "wikilink") [Category:暴走族を題材としたアニメ](https://ja.wikipedia.org/wiki/Category:暴走族を題材としたアニメ "wikilink")
+[Category:大友克洋の漫画作品](https://ja.wikipedia.org/wiki/Category:大友克洋の漫画作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:1982年の漫画](https://ja.wikipedia.org/wiki/Category:1982年の漫画 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:オートバイを題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:オートバイを題材にした漫画作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink") [Category:未来を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした漫画作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:漫画を原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:漫画を原作とするアニメ映画 "wikilink") [Category:1988年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1988年のアニメ映画 "wikilink") [Category:大友克洋の監督映画](https://ja.wikipedia.org/wiki/Category:大友克洋の監督映画 "wikilink") [Category:SFアニメ映画](https://ja.wikipedia.org/wiki/Category:SFアニメ映画 "wikilink") [Category:超能力を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:超能力を題材としたアニメ映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:東京ムービーのアニメ映画](https://ja.wikipedia.org/wiki/Category:東京ムービーのアニメ映画 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:東宝製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ映画 "wikilink") [Category:博報堂DYグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:博報堂DYグループのアニメ作品 "wikilink") [Category:ヤンマガKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:ヤンマガKCのアニメ作品 "wikilink") [Category:不良少年・不良少女を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公としたアニメ作品 "wikilink") [Category:不良少年・不良少女を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした映画作品 "wikilink") [Category:暴走族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした映画作品 "wikilink") [Category:未来を題材にしたアニメ作品](https://ja.wikipedia.org/wiki/Category:未来を題材にしたアニメ作品 "wikilink") [Category:暴走族を題材としたアニメ](https://ja.wikipedia.org/wiki/Category:暴走族を題材としたアニメ "wikilink")
 
 1.  連載開始時は同誌はまだ隔週刊だったが、週刊化後も本作は隔週連載のままだった。
 2.

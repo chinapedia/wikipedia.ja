@@ -59,7 +59,7 @@
   - [海外行くならこーでね〜と\!](https://ja.wikipedia.org/wiki/海外行くならこーでね〜と! "wikilink")（テレビ東京系） - ナレーション
   - トムさんの田舎のごちそう（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")、2012年4月 - 2014年3月） - 旅人
   - [SUMMER TIME SPLASH](https://ja.wikipedia.org/wiki/SUMMER_TIME_SPLASH "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")、2013年9月度マンスリーナビゲーター）
-  - [ミュージック☆ロード](https://ja.wikipedia.org/wiki/ミュージック☆ロード "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、2015年1月10日 - 2017年9月30日） - 司会
+  - [ミュージック☆ロード](https://ja.wikipedia.org/wiki/ミュージック☆ロード "wikilink")（[BS11](../Page/日本BS放送.md "wikilink")、2015年1月10日 - 2017年9月30日） - 司会
   - [Cygames THE MANZAI 2015 プレミアマスターズ](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列、2015年12月20日）‐ナレーション
   - トムさんの正直ショッピング（[地上波デジタル放送](https://ja.wikipedia.org/wiki/地上波デジタル放送 "wikilink")（民放））
 
@@ -79,9 +79,9 @@
   - [ST 赤と白の捜査ファイル](https://ja.wikipedia.org/wiki/ST_警視庁科学特捜班#ST_赤と白の捜査ファイル "wikilink")（日本テレビ系、2014年8月13日） - 山田稔 役
   - [エンジェル・ハート](https://ja.wikipedia.org/wiki/エンジェル・ハート#テレビドラマ "wikilink")（日本テレビ系、2015年10月 - 12月） - ファルコン 役\[4\]
   - [仮面ライダーエグゼイド](https://ja.wikipedia.org/wiki/仮面ライダーエグゼイド "wikilink")（テレビ朝日系、2017年7月） - ジョニー・マキシマ 役
-  - [SUITS/スーツ (日本のテレビドラマ)](https://ja.wikipedia.org/wiki/SUITS/スーツ_\(日本のテレビドラマ\) "wikilink")（2018年） ‐ 赤城達男 役
-  - ラッパーに噛まれたらラッパーになるドラマ（2019年） ‐ 稲穂茂 役
-  - [隕石家族](../Page/隕石家族.md "wikilink")（2020年） - 古代鉄郎
+  - [SUITS/スーツ](https://ja.wikipedia.org/wiki/SUITS/スーツ_\(日本のテレビドラマ\) "wikilink")　第5話（フジテレビ系、2018年11月5日） ‐ 赤城達男 役\[5\]
+  - ラッパーに噛まれたらラッパーになるドラマ（テレビ朝日系、2019年7月12日・13日） ‐ 稲穂茂 役\[6\]
+  - [隕石家族](../Page/隕石家族.md "wikilink")（東海テレビ・フジテレビ系、2020年4月 - ） - 古代鉄郎 役\[7\]
 
 ### ラジオ
 
@@ -106,7 +106,7 @@
 
   - [月光仮面](../Page/月光仮面.md "wikilink")（1981年、日本ヘラルド）
   - [さすらいのトラブルバスター](https://ja.wikipedia.org/wiki/トラブル・バスター "wikilink")（1996年、松竹）- 司会者の古賀 役
-  - そして天使は歌う　ぼ・ぼ・僕らは正義の味方（1997年、喰始監督） - 正義の味方の手配師 役\[5\]
+  - そして天使は歌う　ぼ・ぼ・僕らは正義の味方（1997年、喰始監督） - 正義の味方の手配師 役\[8\]
   - [ダンボールハウスガール](https://ja.wikipedia.org/wiki/ダンボールハウスガール "wikilink")（2001年）　-　小林刑事 役
   - [星になった少年 Shining Boy \&Little Randy](../Page/星になった少年.md "wikilink")（2005年）　-　ドラマのプロデューサー　
   - [ハッピー フィート日本語吹き替え版](../Page/ハッピー_フィート.md "wikilink")（2008年） - ラモン・ラブレイス（声優・一人2役）
@@ -116,7 +116,7 @@
   - [食堂かたつむり](https://ja.wikipedia.org/wiki/食堂かたつむり "wikilink")（2010年） - 熊さん役
   - [女たちの都〜ワッゲンオッゲン〜](https://ja.wikipedia.org/wiki/女たちの都〜ワッゲンオッゲン〜 "wikilink")（2012年）
   - [バニラボーイ トゥモロー・イズ・アナザー・デイ](https://ja.wikipedia.org/wiki/バニラボーイ_トゥモロー・イズ・アナザー・デイ "wikilink") (2016年) - ドン・タッパーリア 役
-  - [劇場版 仮面ライダーエグゼイド トゥルー・エンディング](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーエグゼイド_トゥルー・エンディング "wikilink")（2017年） - ジョニー・マキシマ / ゲムデウスマキナ（声） 役\[6\]
+  - [劇場版 仮面ライダーエグゼイド トゥルー・エンディング](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーエグゼイド_トゥルー・エンディング "wikilink")（2017年） - ジョニー・マキシマ / ゲムデウスマキナ（声） 役\[9\]
   - [翔んで埼玉](https://ja.wikipedia.org/wiki/翔んで埼玉#実写映画 "wikilink")（2019年） - 菅原好海 役
 
 ### オリジナルビデオ
@@ -127,7 +127,7 @@
 
   - ミュージカル「[フル・モンティ](../Page/フル・モンティ.md "wikilink")」（2014年、東京国際フォーラム ホールC）
   - [極上文學](https://ja.wikipedia.org/wiki/極上文學 "wikilink")『[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")』（2014年6月紀伊國屋ホール、7月紀伊國屋サザンシアター） - 正木博士役
-  - 音楽劇「最高はひとつじゃない 2016 SAKURA（2016年3月 - 4月、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")プレイハウス、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")）\[7\]
+  - 音楽劇「最高はひとつじゃない 2016 SAKURA（2016年3月 - 4月、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")プレイハウス、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")）\[10\]
 
 ## 音楽活動
 
@@ -176,7 +176,7 @@
 
   - [Pocky R☆NKINGパラダイス](http://tv.oricon.co.jp/ranpara/)
 
-[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本のピアノ調律師](https://ja.wikipedia.org/wiki/Category:日本のピアノ調律師 "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:アメリカ系日本人](https://ja.wikipedia.org/wiki/Category:アメリカ系日本人 "wikilink") [Category:ハワイ系日本人](https://ja.wikipedia.org/wiki/Category:ハワイ系日本人 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:1956年生](https://ja.wikipedia.org/wiki/Category:1956年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本のピアノ調律師](https://ja.wikipedia.org/wiki/Category:日本のピアノ調律師 "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:ハワイ系日本人](https://ja.wikipedia.org/wiki/Category:ハワイ系日本人 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:1956年生](https://ja.wikipedia.org/wiki/Category:1956年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  マネジメントは[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")。
 2.  [INLIFE 男の履歴書　ブラザートム](http://www.inlifeweb.com/reports/report_323.html)
@@ -185,3 +185,6 @@
 5.
 6.
 7.
+8.
+9.
+10.

@@ -324,8 +324,8 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 
 <File:Hotel> METS Hachinohe - panoramio.jpg|JR東日本ホテルメッツ八戸
 （2005年2月22日） <File:Hotel> Mets Fukushima.JPG|JR東日本ホテルメッツ福島
-（2017年3月5日） <File:Hotel> R-Mets Utsunomiya.JPG|JR東日本ホテルメッツ宇都宮
-（2018年5月19日） <File:Hotel> Mets Urawa.JPG|JR東日本ホテルメッツ浦和
+（2017年3月5日） <File:PASEO> Utsunomiya, Hotel Mets.jpg|JR東日本ホテルメッツ宇都宮
+（2020年4月） <File:Hotel> Mets Urawa.JPG|JR東日本ホテルメッツ浦和
 （2015年1月4日） <File:Hotel> Mets Shibuya.JPG|JR東日本ホテルメッツ渋谷
 （2017年5月21日） <File:Hotel> Mets Kokubunji.jpg|JR東日本ホテルメッツ国分寺
 （2018年5月12日） <File:JR-East> Hotel Mets Tachikawa.JPG|JR東日本ホテルメッツ立川

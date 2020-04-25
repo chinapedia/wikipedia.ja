@@ -11,6 +11,8 @@
 
 アジア最大級のJAZZイベントという事もあり、多くのナショナル[クライアントがスポンサーに名を連ねる](https://ja.wikipedia.org/wiki/クライアント_\(広告\) "wikilink")。
 
+2020年は、新型コロナウイルス感染拡大防止のため中止となった。\[1\]
+
 ## 参加アーティスト
 
 ### 2002年
@@ -306,7 +308,7 @@
         （p）、ルイ・アドリアン・ロペス・ヌッサ（ds）、アルネ・ワデ（b, vo）
   - 渡辺貞夫 BEBOP NIGHT featuring ウォレス・ルーニー、ビリー・チャイルズ、ジェフ“テイン”ワッツ、ベン・ウィリアムス
       -
-        [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")（sax）、 (tp)、[ビリー・チャイルズ](https://ja.wikipedia.org/wiki/ビリー・チャイルズ "wikilink") (p)、 (ds)、 (b)
+        [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")（sax）、[ウォレス・ルーニー](https://ja.wikipedia.org/wiki/ウォレス・ルーニー "wikilink") (tp)、[ビリー・チャイルズ](https://ja.wikipedia.org/wiki/ビリー・チャイルズ "wikilink") (p)、 (ds)、 (b)
 
 ＜9月4日（日）＞
 
@@ -408,6 +410,8 @@
 
   - 『東京JAZZフェスティバル (ゼロから始めたこだわり音楽フェスの物語) 』 東京JAZZプロジェクト著 [DU BOOKS](https://ja.wikipedia.org/wiki/DU_BOOKS "wikilink") [2016年](../Page/2016年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")刊 ISBN 978-4907583958
 
+## 脚注
+
 ## 外部リンク
 
   - [東京JAZZ公式サイト](http://www.tokyo-jazz.com/)
@@ -416,3 +420,5 @@
   -
   -
 [Category:日本のジャズフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のジャズフェスティバル "wikilink") [Category:東京都の音楽](https://ja.wikipedia.org/wiki/Category:東京都の音楽 "wikilink") [Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:日本経済新聞社](https://ja.wikipedia.org/wiki/Category:日本経済新聞社 "wikilink")
+
+1.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)

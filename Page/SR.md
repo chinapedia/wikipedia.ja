@@ -20,7 +20,7 @@
   - [埼玉高速鉄道](../Page/埼玉高速鉄道.md "wikilink")及び[埼玉高速鉄道線](https://ja.wikipedia.org/wiki/埼玉高速鉄道線 "wikilink")の略称。 ()
   - [芝山鉄道](../Page/芝山鉄道.md "wikilink") ()
   - [SR](https://ja.wikipedia.org/wiki/SR_\(企業\) "wikilink") - 韓国の高速鉄道運行事業者。
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の[識別信号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")。 (JOSR、JOSR-DTV)
+  - [信越放送](../Page/信越放送.md "wikilink")の[識別信号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")。 (JOSR、JOSR-DTV)
   - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink") (Sony music Records) の[規格品番](../Page/規格品番.md "wikilink")、[オリコンでの略称](../Page/オリコンチャート.md "wikilink")。
   - [スウェーデン・ラジオ](https://ja.wikipedia.org/wiki/スウェーデン・ラジオ "wikilink") ()
   - [システムリサーチ](https://ja.wikipedia.org/wiki/システムリサーチ "wikilink")(System Research)の略称。愛知県名古屋市に本社を置くSIer。

@@ -66,7 +66,7 @@ SWPの上位層でUICCやCLF間の通信を管理するHCI（Host Controller Int
     {| class="wikitable"
 
 \!事業者\!\!事業者番号 |- |旧・[ワイモバイル](../Page/ワイモバイル.md "wikilink")\[7\]
-（旧[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")←[イー・モバイル](../Page/イー・モバイル.md "wikilink")）||00 |- |[阪神ケーブルエンジニアリング](https://ja.wikipedia.org/wiki/阪神ケーブルエンジニアリング "wikilink")||02 |- |[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")||10 |- |ソフトバンク（主にSoftBankブランド）
+（旧[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")←[イー・モバイル](../Page/イー・モバイル.md "wikilink")）||00 |- |[阪神ケーブルエンジニアリング](https://ja.wikipedia.org/wiki/阪神ケーブルエンジニアリング "wikilink")||02 |- |[楽天モバイル](../Page/楽天モバイル_\(MNO\).md "wikilink")||09 |- |[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")||10 |- |ソフトバンク（主にSoftBankブランド）
 （旧・[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")→ソフトバンクモバイル）||20 |- |[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）||30 |- |[UQコミュニケーションズ](https://ja.wikipedia.org/wiki/UQコミュニケーションズ "wikilink")||31 |- |旧・[ウィルコム](../Page/ウィルコム.md "wikilink")||70 |- |[Wireless City Planning](https://ja.wikipedia.org/wiki/Wireless_City_Planning "wikilink")||71 |}
 
   - IMSI

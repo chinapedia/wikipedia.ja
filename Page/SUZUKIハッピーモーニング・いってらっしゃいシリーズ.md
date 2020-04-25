@@ -5,21 +5,22 @@
 
 ## 概要
 
-1981年4月6日放送開始。番組名に冠している通り、自動車メーカーである[スズキ株式会社の一社提供番組となっている](../Page/スズキ_\(企業\).md "wikilink")\[1\]。番組構成は、通勤前の[サラリーマン](../Page/サラリーマン.md "wikilink")や[OL](../Page/OL.md "wikilink")、通学前の[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")、これから家事をはじめる主婦に、パーソナリティがその週で決められたお題について、[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を語る\[2\]。番組のクライマックスでは必ずエールとして、**「それではまた明日（金曜の場合は「来週の月曜日に」）お会いしましょう。お相手は**（パーソナリティの氏名）**でした。今日も一日お元気で、いってらっしゃい。」**と番組を締め括るメッセージ的な内容になっている\[3\]。
+1981年4月6日放送開始。番組名に冠している通り、自動車メーカーである[スズキ株式会社の一社提供番組となっている](../Page/スズキ_\(企業\).md "wikilink")\[1\]。番組構成は、通勤前の[サラリーマン](../Page/サラリーマン.md "wikilink")や[OL](../Page/OL.md "wikilink")、通学前の[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")、これから家事をはじめる主婦に、パーソナリティがその週で決められたお題について、[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を語る\[2\]。番組のクライマックスでは必ずエールとして、**「それではまた明日（金曜の場合は「来週の月曜日に」）お会いしましょう。お相手は**（パーソナリティの氏名）**でした。今日も一日お元気で、いってらっしゃい。」**と番組を締め括るメッセージ的な内容になっている\[3\]\[4\]。
 
-パーソナリティは番組開始以後から38年間女優が担当していた。しかし2020年2月5日に番組を担当していた鈴木が自身の週刊誌による記事\[4\]により\[5\]\[6\]、鈴木の事務所が制作局のニッポン放送と協議の上、翌6日の放送回を最後に番組から降板\[7\]\[8\]。当面の間は内包先番組のアシスタントを務める、同局アナウンサーの新行市佳がパーソナリティを担当する事が発表された\[9\]\[10\]\[11\]。
+パーソナリティは番組開始以後から38年間女優が担当していた。しかし2020年2月5日に番組を担当していた鈴木が自身の週刊誌による記事\[5\]により\[6\]\[7\]、鈴木の事務所が制作局のニッポン放送と協議の上、翌6日の放送回を最後に番組から降板\[8\]\[9\]。当面の間は内包先番組のアシスタントを務める、同局アナウンサーの新行がパーソナリティを担当する事が発表した\[10\]\[11\]\[12\]。その後、同年4月6日から羽田が受け持つ事を内包先の『飯田浩司のOK\! Cozy up\!』の番組内と『いってらっしゃい』の羽田の冒頭挨拶で発表した\[13\]。
 
 ## 出演者
 
 ### パーソナリティ
 
-歴代、女優が担当する為、その女優の冠が付与されて来た。代理を含めたアナウンサーの場合も同様\[12\]。
+歴代、女優が担当する為、その女優の冠が付与されて来た。代理を含めたアナウンサーの場合も同様\[14\]。
 
   - [十朱幸代](../Page/十朱幸代.md "wikilink") - 1981年4月6日 - 1996年3月29日
   - [沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink") - 1996年4月1日 - 2002年12月31日
   - [黒木瞳](../Page/黒木瞳.md "wikilink") - 2003年1月6日 - 2004年9月24日
   - [鈴木杏樹](https://ja.wikipedia.org/wiki/鈴木杏樹 "wikilink") - 2004年9月27日 - 2020年2月6日
-  - [新行市佳](https://ja.wikipedia.org/wiki/新行市佳 "wikilink")（ニッポン放送アナウンサー） - 2020年2月7日 -
+  - [新行市佳](https://ja.wikipedia.org/wiki/新行市佳 "wikilink")（ニッポン放送アナウンサー） - 2020年2月7日 - 2020年4月3日
+  - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink") - 2020年4月6日 -
 
 ## ネット局・放送時間
 
@@ -52,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>（SBC）</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>（SBC）</p></td>
 <td><p>7:24 - 7:29</p></td>
 <td><p>『<a href="../Page/モーニングワイド_ラジオJ.md" title="wikilink">モーニングワイド ラジオJ</a>』内</p></td>
 </tr>
@@ -101,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td><p>7:40 - 7:45</p></td>
 <td><p>『<a href="../Page/ほっとゾーンおはようKRY.md" title="wikilink">ほっとゾーンおはようKRY</a>』内</p></td>
 </tr>
@@ -131,7 +132,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a>（wbs）</p></td>
+<td><p><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>（wbs）</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/グッディ!_(和歌山放送)" title="wikilink">グッディ!</a>』内</p></td>
 <td></td>
 </tr>
@@ -155,7 +156,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td><p>8:20 - 8:25</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/朝からRADIO" title="wikilink">朝からRADIO</a>』内</p></td>
 </tr>
@@ -266,17 +267,23 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
   - [ニッポン放送平日朝帯ワイド番組](../Page/ニッポン放送平日朝帯ワイド番組.md "wikilink")
   - [小島奈津子のおかえりなさい](../Page/小島奈津子のおかえりなさい.md "wikilink")
 
+## 外部リンク
+
+  - [SUZUKIハッピーモーニング 羽田美智子のいってらっしゃい](http://www.1242.com/hada/)
+
 [Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:スズキ一社提供番組](https://ja.wikipedia.org/wiki/Category:スズキ一社提供番組 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:1981年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:女優のラジオ番組](https://ja.wikipedia.org/wiki/Category:女優のラジオ番組 "wikilink")
 
 1.  [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発災以降と同様、ACジャパンでの対応ケース有
 2.
-3.  [ヒッチハイクに](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")CMが放送される
-4.
-5.  2020年2月6日放送分はニッポン放送のみ、同社の冠を外して放送
-6.
+3.  2020年4月8日放送分からは、[新型コロナウイルス](https://ja.wikipedia.org/wiki/新型コロナウイルス "wikilink")感染拡大に伴う緊急事態宣言の影響で"外出自粛"が呼び掛けられていることから、番組タイトルでもある締め括りの言葉「いってらっしゃい」（＝外出を送り出す挨拶）が省かれている。
+4.  [ヒッチハイクに](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")CMが放送される
+5.
+6.  2020年2月6日放送分はニッポン放送のみ、同社の冠を外して放送
 7.
 8.
 9.
 10.
 11.
-12. 2003年1月1 - 3日は、当時：ニッポン放送のアナウンサーで内包先番組のアシスタントだった[冨田憲子](../Page/冨田憲子.md "wikilink")が裏送りパーソナリティを担当。しかし、キー局であるニッポン放送は元旦、正月特番のため放送休止
+12.
+13.
+14. 2003年1月1 - 3日は、当時：ニッポン放送のアナウンサーで内包先番組のアシスタントだった[冨田憲子](../Page/冨田憲子.md "wikilink")が裏送りパーソナリティを担当。しかし、キー局であるニッポン放送は元旦、正月特番のため放送休止

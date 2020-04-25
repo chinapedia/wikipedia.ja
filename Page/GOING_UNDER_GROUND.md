@@ -112,9 +112,9 @@
 
 #### インディーズ
 
-1.  **[桜が咲いたら](https://ja.wikipedia.org/wiki/桜が咲いたら "wikilink")** （2000年4月21日、[amps](../Page/規格品番.md "wikilink")-0001）※廃盤
-2.  **[ロマンチック街道](https://ja.wikipedia.org/wiki/ロマンチック街道_\(曲\) "wikilink")** （2000年9月3日、amps-0002）※廃盤
-3.  **[アロー](https://ja.wikipedia.org/wiki/アロー_\(曲\) "wikilink")** （2001年3月10日、amps-0003）※廃盤
+1.  **桜が咲いたら** （2000年4月21日、[amps](../Page/規格品番.md "wikilink")-0001）※廃盤
+2.  **ロマンチック街道** （2000年9月3日、amps-0002）※廃盤
+3.  **アロー** （2001年3月10日、amps-0003）※廃盤
 
 #### メジャー
 

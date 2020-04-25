@@ -1,7 +1,7 @@
 > この記事は[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR)から翻訳されています。
 
 
-**オールナイトニッポンR**（オールナイトニッポンアール）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに放送されていた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」関連番組の一つである。この記事では、単発で放送されたパーソナリティの時間、いわゆる**週替わり**枠についても、以下で詳述する。
+『**オールナイトニッポンR**』（オールナイトニッポンアール）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに放送されていた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』関連番組の一つである。この記事では、単発で放送されたパーソナリティの時間、いわゆる**週替わり**枠についても、以下で詳述する。
 
 ## 概要
 
@@ -50,21 +50,21 @@
 
 ### 土曜日
 
-| 放送期間               | 放送時間<sup>[\[※](https://ja.wikipedia.org/wiki/#sattime "wikilink")\]</sup>       | 備考                                                                              |
-| ------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2005年4月 - 2006年6月  | 27:00 - 29:00                                                                   | 21局ネット（その間に[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")は2005年9月でネット終了） |
-| 2006年10月 - 2009年1月 |                                                                                 |                                                                                 |
-| 2010年1月 - 2013年3月  | 22局ネット（その間に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")は2012年3月でネット終了） |                                                                                 |
-| 2013年4月 - 2014年3月  |                                                                                 |                                                                                 |
-| 2014年4月 - 2015年3月  | 23局ネット                                                                          |                                                                                 |
-| 2015年4月 - 2018年3月  | 20局ネット                                                                          |                                                                                 |
+| 放送期間               | 放送時間<sup>[\[※](https://ja.wikipedia.org/wiki/#sattime "wikilink")\]</sup> | 備考                                                                              |
+| ------------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2005年4月 - 2006年6月  | 27:00 - 29:00                                                             | 21局ネット（その間に[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")は2005年9月でネット終了） |
+| 2006年10月 - 2009年1月 |                                                                           |                                                                                 |
+| 2010年1月 - 2013年3月  | 22局ネット（その間に[信越放送](../Page/信越放送.md "wikilink")は2012年3月でネット終了）              |                                                                                 |
+| 2013年4月 - 2014年3月  |                                                                           |                                                                                 |
+| 2014年4月 - 2015年3月  | 23局ネット                                                                    |                                                                                 |
+| 2015年4月 - 2018年3月  | 20局ネット                                                                    |                                                                                 |
 
   - <span id="sattime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[17\]、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（2013年4月から）
+      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[17\]、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（2013年4月から）
       - 27:00 - 28:30 ： [ニッポン放送](../Page/ニッポン放送.md "wikilink")\[18\]\[19\]
-      - 27:00 - 28:00 ： [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")、[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（2010年1月から）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-      - 過去のネット局 ： [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2005年9月で終了 27:00 - 28:30）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")\[20\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2015年3月で終了\[21\] 27:00 - 28:00）、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（2017年4月で終了 27:00 - 28:00）
+      - 27:00 - 28:00 ： [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[和歌山放送](../Page/和歌山放送.md "wikilink")、[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（2010年1月から）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+      - 過去のネット局 ： [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2005年9月で終了 27:00 - 28:30）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")\[20\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2015年3月で終了\[21\] 27:00 - 28:00）、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（2017年4月で終了 27:00 - 28:00）
 
 ## パーソナリティ・放送枠の変遷
 
@@ -248,7 +248,7 @@
 | 4月        | 7日 | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                                | 14日 | [川村結花](../Page/川村結花.md "wikilink")                          | 21日 | [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")             | 28日 | [大塚利恵](https://ja.wikipedia.org/wiki/大塚利恵 "wikilink")      |
 | --------- | -- | --------------------------------------------------------------------------- | --- | ----------------------------------------------------------- | --- | ----------------------------------------------------------------- | --- | ---------------------------------------------------------- |
 | 5月        | 5日 | **（不明）**                                                                    | 12日 | [YURIMARI](../Page/YURIMARI.md "wikilink")                  | 19日 | [ザ・サーフコースターズ](../Page/ザ・サーフコースターズ.md "wikilink")                  | 26日 | [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink") |
-| 6月        | 2日 | [MISSION](../Page/MISSION.md "wikilink")                                    | 9日  | [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")  | 16日 | [中澤裕子](../Page/中澤裕子.md "wikilink")                                | 23日 | [L'luvia](../Page/L'luvia.md "wikilink")                   |
+| 6月        | 2日 | [MISSION](../Page/MISSION_\(アイドルグループ\).md "wikilink")                       | 9日  | [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")  | 16日 | [中澤裕子](../Page/中澤裕子.md "wikilink")                                | 23日 | [L'luvia](../Page/L'luvia.md "wikilink")                   |
 | 7月        | 7日 | [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")                          | 14日 | [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")                | 21日 | \[24\]                                                            | 28日 | [泉川そら](../Page/イズミカワソラ.md "wikilink")                      |
 | 8月        | 4日 | [ARCHE](../Page/ARCHE.md "wikilink")                                        | 11日 | [セブンハウス](../Page/セブンハウス.md "wikilink")                      | 18日 | [加藤晴彦](../Page/加藤晴彦.md "wikilink")                                | 25日 | [藤井隆](../Page/藤井隆.md "wikilink")                           |
 | 9月        | 1日 | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                    | 8日  | [松尾れい子](../Page/松尾れい子.md "wikilink")                        | 15日 | **（不明）**                                                          | 22日 | [AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink")      |
@@ -1966,7 +1966,7 @@ ONLY ONE</a></p></th>
 
 2008年より放送されている[イマジンスタジオ](../Page/イマジンスタジオ.md "wikilink")での公開録音番組。ニッポン放送と[日本音楽事業者協会](../Page/日本音楽事業者協会.md "wikilink")が共同で企画・制作している\[157\]。初回はニッポン放送ローカル枠での特別番組として放送されたが、第2回よりオールナイトニッポンR週替わり枠での年2回放送へと移行した。オールナイトニッポンRの終了に伴い、第19回（2018年春）より後継番組である「オールナイトニッポン0(ZERO)」週替わり枠での放送となる。司会は第15回（2016年春）までは[東貴博](../Page/東貴博.md "wikilink")と女性アナウンサー、第16回（2016年秋）からは前回の優勝者と女性アナウンサーが担当し、審査員は原則として[松村邦洋](../Page/松村邦洋.md "wikilink")（東のスケジュールの都合により司会を務めた回もある）・女性タレント・番組制作関係者の3名が務める。
 
-毎回十数組の若手芸人たちによるネタバトル（予選）・トークバトル（予選上位3組による「ラジオでのテーマトーク」を模した決勝戦）を行い、優勝者には「オールナイトニッポンR（2018年からは「オールナイトニッポン0(ZERO)」）」単発パーソナリティー権が与えられる\[158\]。優勝者はニッポン放送が飛び降りる4時30分の手前に発表し、4時30分以降は予選敗退者による「下剋上トーク」（決勝戦と同じトークテーマで各自発言）が放送される。イベントの様子をそのまま放送するため、通常パーソナリティが担当する4時前・4時30分前のネット局飛び降りのアナウンスはアナウンサーが別途担当する。公開収録は基本的に3月及び9月だが、実際の放送時期や優勝特典としての単発番組が実現する時期は不定。
+毎回十数組の若手芸人たちによるネタバトル（予選）・トークバトル（予選上位3組による「ラジオでのテーマトーク」を模した決勝戦）を行い、優勝者には「オールナイトニッポンR（2018年からは「オールナイトニッポン0(ZERO)」）」単発パーソナリティー権が与えられる\[158\]。第15回以降は「オールナイトニッポンR→オールナイトニッポン0(ZERO)」単発パーソナリティ権に加え、次回大会の司会権が追加される。優勝者はニッポン放送が飛び降りる4時30分の手前に発表し、4時30分以降は予選敗退者による「下剋上トーク」（決勝戦と同じトークテーマで各自発言）が放送される。イベントの様子をそのまま放送するため、通常パーソナリティが担当する4時前・4時30分前のネット局飛び降りのアナウンスはアナウンサーが別途担当する。公開収録は基本的に3月及び9月だが、実際の放送時期や優勝特典としての単発番組が実現する時期は不定。
 
 2018年4月から土曜2部のタイトルが平日同様に「オールナイトニッポン0(ZERO)」へ統一された後も放送を継続。同年4月8日（7日深夜）の改題後1回目の放送もこの企画が行われた。9月16日（15日深夜）には「オールナイトニッポン0(ZERO)～決戦\!お笑い有楽城10周年スペシャル\!\!～」が10周年を記念し放送された\[159\]。東貴博、いとうあさこを司会に歴代優勝者13組が集合。バイきんぐらスタジオに来れなかった優勝者もコメント出演した。
 

@@ -41,8 +41,8 @@
     2月1日 - 14時、東京テレビジョン（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOAK-TV、現[NHK放送センター](../Page/NHK放送センター.md "wikilink")）[本放送](https://ja.wikipedia.org/wiki/本放送 "wikilink")開始。[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")は[内幸町](../Page/内幸町.md "wikilink")の[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")に、[送信所](../Page/送信所.md "wikilink")は[紀尾井町](https://ja.wikipedia.org/wiki/紀尾井町 "wikilink")の千代田放送所（現・[千代田放送会館](../Page/千代田放送会館.md "wikilink")）に置かれ、[VHF](../Page/超短波.md "wikilink")3[chで送信された](../Page/チャンネル_\(テレビ放送\).md "wikilink")。映像出力5kW。
   - [1954年](../Page/1954年.md "wikilink")
     3月1日 - 大阪テレビジョン（呼出符号：JOBK-TV、現[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")）、名古屋テレビジョン（呼出符号：JOCK-TV、現[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")）本放送開始。
-    :\*大阪は演奏所を馬場町の[大阪放送会館](https://ja.wikipedia.org/wiki/大阪放送会館 "wikilink")に、送信所を[生駒山に置き](../Page/生駒山テレビ・FM送信所.md "wikilink")、VHF4chで送信された。
-    :\*名古屋は演奏所と送信所を当時[名古屋市](../Page/名古屋市.md "wikilink")[中区丸の内](../Page/中区_\(名古屋市\).md "wikilink")（現在の「[名古屋市立丸の内中学校](https://ja.wikipedia.org/wiki/名古屋市立丸の内中学校 "wikilink")」の場所）にあった[名古屋放送局敷地内に置き](../Page/NHK名古屋放送局.md "wikilink")、VHF3ch・映像出力30Wで送信された。
+    :\* 大阪は演奏所を馬場町の[大阪放送会館](https://ja.wikipedia.org/wiki/大阪放送会館 "wikilink")に、送信所を[生駒山に置き](../Page/生駒山テレビ・FM送信所.md "wikilink")、VHF4chで送信された。
+    :\* 名古屋は演奏所と送信所を当時[名古屋市](../Page/名古屋市.md "wikilink")[中区丸の内](../Page/中区_\(名古屋市\).md "wikilink")（現在の「[名古屋市立丸の内中学校](https://ja.wikipedia.org/wiki/名古屋市立丸の内中学校 "wikilink")」の場所）にあった[名古屋放送局敷地内に置き](../Page/NHK名古屋放送局.md "wikilink")、VHF3ch・映像出力30Wで送信された。
     4月15日 - [電電公社](../Page/日本電信電話公社.md "wikilink")（現在の[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")）がテレビジョン放送の全国展開に対応するため、専用マイクロ回線の運用を開始。これに伴いNHK自前回線を廃止し、公社回線に移行。
     [8月22日](../Page/8月22日.md "wikilink") - 名古屋テレビジョン、完成したばかりの[名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink")に送信所を移し、映像出力を10kWに増力。
   - [1956年](../Page/1956年.md "wikilink")
@@ -70,7 +70,7 @@
     10月 - 全番組カラー化\[15\]\[16\]\[17\]。
   - [1974年](../Page/1974年.md "wikilink")
     1月16日 - 第1次[オイルショック](../Page/オイルショック.md "wikilink")に伴い、テレビ放送の[昼間](https://ja.wikipedia.org/wiki/昼間 "wikilink")、[深夜](../Page/深夜.md "wikilink")の放送を一部休止。
-    :\*総合テレビ、[UHFテレビ](https://ja.wikipedia.org/wiki/UHFテレビ "wikilink")[試験放送](../Page/試験放送.md "wikilink")では月～金曜日の14時台後半～16時台前半を放送休止とし、深夜は23時で放送打ち切りとなる\[18\]。
+    :\* 総合テレビ、[UHFテレビ](https://ja.wikipedia.org/wiki/UHFテレビ "wikilink")[試験放送](../Page/試験放送.md "wikilink")では月～金曜日の14時台後半～16時台前半を放送休止とし、深夜は23時で放送打ち切りとなる\[18\]。
     4月1日 - 深夜の放送終了を23時15分に繰り下げ。翌年には週末のみ\[19\]24時まで、と段階的に放送時間を拡大させている。
     [9月9日](../Page/9月9日.md "wikilink") - 昼間の放送休止を解除。
   - [1975年](../Page/1975年.md "wikilink")
@@ -98,7 +98,7 @@
   - 2000年
     4月 - 生放送番組の文字放送による[同時字幕放送を開始](../Page/リアルタイム字幕放送.md "wikilink")（順次拡大）。また日曜についても終夜放送に踏み切る。当初は第1・3週日曜の深夜を除く。
     7月 - [ラジオ第1放送を含めて休止](../Page/NHKラジオ第1放送.md "wikilink")・[減力放送](../Page/減力放送.md "wikilink")は各放送局の任意となり、完全24時間放送となった。\[21\]
-    :\*総合放送（総合テレビ・ラジオ第1・[FM放送](../Page/NHK-FM放送.md "wikilink")）の完全24時間化は[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")など天災が発生した場合を対象とした[災害対策基本法](../Page/災害対策基本法.md "wikilink")や、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")などの大規模な有事が発生した場合を対象とした諸法律の義務を履行するための措置。
+    :\* 総合放送（総合テレビ・ラジオ第1・[FM放送](../Page/NHK-FM放送.md "wikilink")）の完全24時間化は[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")など天災が発生した場合を対象とした[災害対策基本法](../Page/災害対策基本法.md "wikilink")や、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")などの大規模な有事が発生した場合を対象とした諸法律の義務を履行するための措置。
   - 2003年
     12月1日 - 11時、東京・大阪・名古屋の各放送局で地上デジタルテレビジョン放送の本放送を開始。
   - 2004年
@@ -127,7 +127,7 @@
     4月3日 - この日より火-金曜日付の放送開始（基点）時間を4:00に繰り上げ\[28\]。月・土・日曜は従来通り4:15を開始（基点）としている。
   - 2020年
     3月1日 - 常時同時配信・見逃し番組配信の[NHKプラス](../Page/NHKプラス.md "wikilink")でのサイマル配信を開始した\[29\]。
-    3月30日 - この日の0:05をもって、開局以来表示されていた[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")をリニューアルした\[30\]。
+    3月30日 - この日の0:05をもって、地上デジタル放送開始以来表示されていた[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")をリニューアルした\[30\]。更に、スポット番宣でのアイコンも、長らく使われた『(長方形枠内に)総 合』から、上部に表示のものに変更された。
 
 ## 番組
 
@@ -828,7 +828,7 @@
   -
 [Category:NHKのテレビチャンネル](https://ja.wikipedia.org/wiki/Category:NHKのテレビチャンネル "wikilink") [Category:日本の地上波テレビ放送](https://ja.wikipedia.org/wiki/Category:日本の地上波テレビ放送 "wikilink")
 
-1.  <sup>NHK</sup>G→NHK G:[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")のチャンネル[アイコン](../Page/アイコン.md "wikilink")でも表示。
+1.  「」→「（文字配列は）」」:[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")のチャンネル[アイコン](../Page/アイコン.md "wikilink")でも表示。
 2.  太田省一『紅白歌合戦と日本人』（[筑摩書房](../Page/筑摩書房.md "wikilink") 筑摩選書78 ISBN 4480015868、2013.11）、27頁。
 3.  『全記録 テレビ視聴率50年戦争―そのとき一億人が感動した』（引田惣弥・著、[講談社](../Page/講談社.md "wikilink")、2004年、ISBN 4062122227、116頁）
 4.  [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の年間の[全日](../Page/全日.md "wikilink")[視聴率](../Page/視聴率.md "wikilink")は、総合テレビと[TBSとが](../Page/TBSテレビ.md "wikilink")10.1%で同率1位であった。なお、この年（1978年）にはTBSが年間視聴率で3冠王を獲得している。

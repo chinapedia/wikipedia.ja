@@ -68,6 +68,6 @@
 
 ## 番組が産んだ副産物
 
-プロデューサーの永田は[ラジオ制作部に配属されて制作部門に復帰した際](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、TBSラジオの深夜枠建て直しのため、当時『伊集院光のOh\!デカナイト』を打ち切られ、ラジオのレギュラー出演は衛星ラジオ局[セント・ギガ](../Page/セント・ギガ.md "wikilink")の『[伊集院光の放課後の王様](../Page/伊集院光の放課後の王様.md "wikilink")』だけとなっていた伊集院を起用して『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』を開始した。当時伊集院は永田以外に[TOKYO FMからもオファーを受けていたが](../Page/エフエム東京.md "wikilink")、「絶対禁煙」のTOKYO FMに対し、「禁煙だが黙認する」という永田の発言があり、当時ヘビースモーカーだった伊集院はTBSラジオへの移籍を決意した。
+プロデューサーの永田はラジオ制作部に配属されて制作部門に復帰した際、[TBSラジオ](../Page/TBSラジオ.md "wikilink")の深夜枠建て直しのため、当時『伊集院光のOh\!デカナイト』を打ち切られ、ラジオのレギュラー出演は衛星ラジオ局[セント・ギガ](../Page/セント・ギガ.md "wikilink")の『[伊集院光の放課後の王様](../Page/伊集院光の放課後の王様.md "wikilink")』だけとなっていた伊集院を起用して『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』を開始した。当時伊集院は永田以外に[TOKYO FMからもオファーを受けていたが](../Page/エフエム東京.md "wikilink")、「絶対禁煙」のTOKYO FMに対し、「禁煙だが黙認する」という永田の発言があり、当時ヘビースモーカーだった伊集院はTBSラジオへの移籍を決意した。
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:伊集院光](https://ja.wikipedia.org/wiki/Category:伊集院光 "wikilink") [Category:榊原郁恵](https://ja.wikipedia.org/wiki/Category:榊原郁恵 "wikilink")

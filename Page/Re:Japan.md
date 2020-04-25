@@ -11,7 +11,7 @@
 
 翌年には[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の深夜[ラジオ番組](../Page/ラジオ番組.md "wikilink")「**[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")**」のテーマソング「[BITTERSWEET SAMBA](../Page/BITTERSWEET_SAMBA.md "wikilink")」に歌詞を付けた「**bittersweet samba〜ニッポンの夜明け前〜**」を歌い、当番組とのタイアップとなった。
 
-2012年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』最終回SPのオープニングアクトとして出演。
+2012年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』最終回SPのオープニングアクトとして出演。
 
   -
     スケジュールの関係で寛平は大阪から生中継で出演、療養中の[花紀京](../Page/花紀京.md "wikilink")は、VTRによる歌唱シーンになっていた。

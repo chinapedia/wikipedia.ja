@@ -24,7 +24,7 @@
   - [山形放送](../Page/山形放送.md "wikilink") 　土曜23:00～23:30
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") 　日曜21:00～21:30
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") 　日曜23:30～24:00
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") 　日曜22:30～23:00
+  - [信越放送](../Page/信越放送.md "wikilink") 　日曜22:30～23:00
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 　月曜19:00～19:30
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") 　日曜24:30～25:00
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 　日曜17:00～17:30
@@ -32,9 +32,9 @@
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") 　日曜15:00～15:30
   - [KBS京都](../Page/京都放送.md "wikilink") 　水曜24:00～24:30
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 　水曜27:00～27:30
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink") 　土曜23:00～23:30
+  - [和歌山放送](../Page/和歌山放送.md "wikilink") 　土曜23:00～23:30
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 　土曜22:00～22:30
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") 　土曜22:00～22:30
+  - [山口放送](../Page/山口放送.md "wikilink") 　土曜22:00～22:30
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 　土曜23:00～23:30
   - [西日本放送](../Page/西日本放送.md "wikilink") 　日曜22:30～23:00
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") 　土曜22:30～24:00

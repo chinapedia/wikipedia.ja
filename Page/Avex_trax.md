@@ -59,14 +59,14 @@
       - 志田サマー新井サマー (2016年)
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") (2011年〜)（rhythm zoneより移籍）\[5\]
   - [ときめき♡宣伝部](https://ja.wikipedia.org/wiki/ときめき宣伝部 "wikilink")（2018年〜）（[ユニバーサルシグマから移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") (1998年〜)
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") (1998年〜)
   - [林部智史](https://ja.wikipedia.org/wiki/林部智史 "wikilink") (2016年〜)
   - [ピコ太郎](https://ja.wikipedia.org/wiki/ピコ太郎 "wikilink") (2016年〜)
   - [ビッケブランカ](https://ja.wikipedia.org/wiki/ビッケブランカ "wikilink") (2016年〜)
   - [平井大](https://ja.wikipedia.org/wiki/平井大 "wikilink") (2013年〜)
   - [豚乙女](https://ja.wikipedia.org/wiki/豚乙女 "wikilink")(2017年〜)
   - [松居慶子](../Page/松居慶子.md "wikilink") (2011年〜)
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") (2009年〜)（[エレック](https://ja.wikipedia.org/wiki/エレックレコード "wikilink")→[ODYSSEY/CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")→[フォーライフ](../Page/フォーライフ・レコード.md "wikilink")→[インペリアルより移籍](../Page/インペリアルレコード_\(日本\).md "wikilink")）
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink") (2009年〜)（[エレック](https://ja.wikipedia.org/wiki/エレックレコード "wikilink")→[ODYSSEY/CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")→[フォーライフ](../Page/フォーライフ・レコード.md "wikilink")→[インペリアルより移籍](../Page/インペリアルレコード_\(日本\).md "wikilink")）
   - [龍雅-Ryoga-](https://ja.wikipedia.org/wiki/龍雅-Ryoga- "wikilink") (2016年〜)
   - [和楽器バンド](https://ja.wikipedia.org/wiki/和楽器バンド "wikilink") (2014年〜)
       - [鈴華ゆう子](https://ja.wikipedia.org/wiki/鈴華ゆう子 "wikilink") (2016年)
@@ -92,7 +92,7 @@
   - [Do As Infinity](../Page/Do_As_Infinity.md "wikilink") (1999年〜2005年,2008年〜)
       - [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink") (2006年〜2008年)
   - [EIGHT OF TRIANGLE](https://ja.wikipedia.org/wiki/EIGHT_OF_TRIANGLE "wikilink") (2018年〜)
-  - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink") (1996年〜2018年)
+  - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink") (1996年〜)
       - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") (2004年〜2012年,2019年)
           - [Caocao](https://ja.wikipedia.org/wiki/Caocao "wikilink") (2009年)
       - [伊藤一朗](../Page/伊藤一朗.md "wikilink") (2009年)
@@ -387,7 +387,7 @@
   - [MinxZone](https://ja.wikipedia.org/wiki/MinxZone "wikilink") (2011年〜2013年)
   - [minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink") (2015年〜2018年)
   - [Miracle Vell Magic](https://ja.wikipedia.org/wiki/Miracle_Vell_Magic "wikilink") (2016年)
-  - [MISSION](../Page/MISSION.md "wikilink") (1998年〜1999年)（解散）
+  - [MISSION](../Page/MISSION_\(アイドルグループ\).md "wikilink") (1998年〜1999年)（解散）
   - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink") (1996年〜1999年)（解散）
   - [Mother Ninja](../Page/Mother_Ninja.md "wikilink") (2007年)
   - [Mr.マリック](../Page/Mr.マリック.md "wikilink") (2005年)

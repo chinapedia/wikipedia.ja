@@ -35,7 +35,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月3日の日本テレビにおける、21時台の番組の[フライングスタート化に伴い](../Page/フライングスタート_\(放送\).md "wikilink")、同年[9月26日](../Page/9月26日.md "wikilink")で番組宣伝『今夜のロードショー』が廃止された。そして、[10月3日](../Page/10月3日.md "wikilink")から本編の放送開始が3分繰上がり21:00開始に拡大され、同時に関東地区（日本テレビ）においては、その前の20:54から21:00の時間（それまでの『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』の枠）に『今夜の…』に替わるプレ番組『**[まもなく\!金曜ロードショー](../Page/番宣番組.md "wikilink")**』が新設され、事実上20:54開始となる（ただし『まもなく…』をネットするのは、日本テレビと[中京テレビの](../Page/中京テレビ放送.md "wikilink")2局のみ。[2009年](../Page/2009年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")までは[読売テレビでもネットしていたが](../Page/讀賣テレビ放送.md "wikilink")、その後[天気予報](../Page/天気予報.md "wikilink")へと切り替えられた。それ以外の系列局は[ローカルニュースもしくは天気予報の枠に充当するためネットしない](../Page/ニュース.md "wikilink")）。2011年9月30日の放送を以て『まもなく…』枠は終了した。
 
-2018年4月6日より20:54 - 21:00に『まもなく金曜ロードSHOW\!』として事前枠を再開。
+2018年4月6日より20:54 - 21:00に『まもなく金曜ロードSHOW\!』として事前枠を再開するも、わずか3ヶ月後の同年[6月29日](../Page/6月29日.md "wikilink")で終了、それから2年後の2020年4月3日より3回目の登場となる。
 
 ### 姉妹番組
 
@@ -700,7 +700,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>（NTV）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td><p>金曜日 21:00 - 22:54</p></td>
-<td><p><strong>『金曜ロードSHOW!』制作局</strong><br />
+<td><p><strong>制作局</strong><br />
 [40]</p></td>
 </tr>
 <tr class="even">
@@ -713,7 +713,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>（RAB）</p></td>
-<td><p> </p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -748,7 +748,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島中央テレビ.md" title="wikilink">福島中央テレビ</a>（FCT）</p></td>
-<td><p> </p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -776,7 +776,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="../Page/静岡第一テレビ.md" title="wikilink">静岡第一テレビ</a>（SDT）</p></td>
-<td><p> </p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -819,7 +819,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="even">
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a>・<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p>|<a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a>（NKT）</p></td>
-<td><p> </p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -832,7 +832,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p>|<a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -890,7 +890,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>（UMK）</p></td>
 <td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a><br />
-<a href="https://ja.wikipedia.org/wiki/NNN" title="wikilink">日本テレビ系列</a><br />
+<a href="../Page/日本ニュースネットワーク.md" title="wikilink">日本テレビ系列</a><br />
 テレビ朝日系列</p></td>
 <td><p>[50]</p></td>
 <td></td>
@@ -910,8 +910,8 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 ### 過去のネット局
 
   - [山形テレビ](../Page/山形テレビ.md "wikilink")（当時は[フジテレビ系列](../Page/フジネットワーク.md "wikilink")）開始 - 1993年3月5日。
-      - 水曜ロード時代から『**火曜ロードショー**』として火曜21時に時差ネット。山形テレビのテレビ朝日系列への[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")にともない1993年3月26日で終了。1993年4月2日からは山形テレビが『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』を、山形放送が『金曜ロードショー』を、それぞれ同時ネットするようになった\[51\]。オープニング映像は本家の映像に手を加えたものを使用（海辺のボートハウスで景色を眺める人→夕日と鴎（はっきり見えるようになっている。）→ヨットハーバーで[犬と戯れる人](../Page/イヌ.md "wikilink")→黄昏の人→画面中部に番組ロゴ表示\[52\]）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+      - 水曜ロードショー時代から『**火曜ロードショー**』として火曜21時に時差ネット。山形テレビのテレビ朝日系列への[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")にともない1993年3月26日で終了。1993年4月2日からは山形テレビが『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』を、山形放送が『金曜ロードショー』を、それぞれ同時ネットするようになった\[51\]。オープニング映像は本家の映像に手を加えたものを使用（海辺のボートハウスで景色を眺める人→夕日と鴎（はっきり見えるようになっている。）→ヨットハーバーで[犬と戯れる人](../Page/イヌ.md "wikilink")→黄昏の人→画面中部に番組ロゴ表示\[52\]）
+  - [信越放送](../Page/信越放送.md "wikilink")
       - 水曜時代から『土曜映画劇場』として日曜未明（土曜深夜）に異時ネット。[テレビ信州](../Page/テレビ信州.md "wikilink")開局後も引き続き放送\[53\]していたが、テレビ信州が『[ニュースシャトル](../Page/ニュースシャトル.md "wikilink")』ネット開始に伴う編成の大きな変更で『金曜ロードショー』をネットすることになり、1987年9月25日終了。
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
       - 水曜時代から『名画招待席』として未明帯に放送（終了時点では土曜未明に遅れネット）。テレビ金沢の開局に伴い1990年3月31日未明（30日深夜）に終了。

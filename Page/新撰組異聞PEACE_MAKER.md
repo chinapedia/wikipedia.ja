@@ -210,7 +210,7 @@
 
 ### テレビアニメ（2003年 - 2004年）
 
-[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")他一部系列局にて放送。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink") - [9月4日](../Page/9月4日.md "wikilink")まで[BS11にて全国放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。『**PEACE MAKER鐵**』のタイトルで放送されたが、内容は『新撰組異聞PEACE MAKER』のものである。
+[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")他一部系列局にて放送。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink") - [9月4日](../Page/9月4日.md "wikilink")まで[BS11にて全国放送された](../Page/日本BS放送.md "wikilink")。『**PEACE MAKER鐵**』のタイトルで放送されたが、内容は『新撰組異聞PEACE MAKER』のものである。
 
 後述の劇場版アニメ放映に先駆け、[2017年](../Page/2017年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")より、[時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")で毎週水曜日2話ずつ再放送\[1\]。
 
@@ -778,7 +778,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td><p>2010年<a href="../Page/4月22日.md" title="wikilink">4月22日</a> - <a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
 <td><p>木曜 24時50分 - 25時20分</p></td>
 <td></td>

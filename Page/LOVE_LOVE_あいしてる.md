@@ -21,7 +21,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 吉田がこのようなタイプの番組にレギュラー出演するのは非常に珍しいとして話題を呼び、一方で吉田は"テレビ出演拒否の本尊"でもあったため大きな批判も受けた。若い世代には吉田の情けないおじさんキャラが受けたが、彼がフォークの神様であった往年の時代を知る[団塊の世代](https://ja.wikipedia.org/wiki/団塊の世代 "wikilink")には、あまりの変貌ぶりに大きな衝撃と晒し者にされたことへの反発も大きかった。ただし、吉田本人は「KinKi Kidsには感謝している」「番組に出演して本当に良かった」と後のインタビューで答えている\[6\]。
 
-番組当初、世間からは「吉田拓郎とKinKi Kidsは違和感がある」、「3ヶ月もてばいい」などと言われていたが、当時『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』『[うたばん](../Page/うたばん.md "wikilink")』等、[当て振り](../Page/当て振り.md "wikilink")の音楽番組が全盛期を迎えていた中、ハウスバンドである「LOVE LOVE ALL STARS」を結成し一流のミュージシャンを揃える等、生演奏に拘った姿勢が好評を得て4年半も続く人気番組となった。
+番組当初、世間からは「吉田拓郎とKinKi Kidsは違和感がある」、「3ヶ月もてばいい」などと言われていたが、当時『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』『[うたばん](../Page/うたばん.md "wikilink")』等、[当て振り](../Page/当て振り.md "wikilink")の音楽番組が全盛期を迎えていた中、ハウスバンドである「LOVE LOVE ALL STARS」を結成し一流のミュージシャンを揃える等、生演奏に拘った姿勢が好評を得て4年半も続く人気番組となった。
 
 ### 番組の放送終了とその後
 
@@ -40,7 +40,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
   - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")
       - [堂本剛](../Page/堂本剛.md "wikilink")
       - [堂本光一](../Page/堂本光一.md "wikilink")
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
 
 ### レギュラー
 

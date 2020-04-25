@@ -17,7 +17,7 @@
   - [フラワーコミックス](../Page/フラワーコミックス.md "wikilink") (Flower Comics) - [小学館](../Page/小学館.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[単行本](../Page/単行本.md "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")。
   - [Fedora Core](../Page/Fedora.md "wikilink") - [Red Hat Enterprise Linuxのコンシューマ向け](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")。
   - [イタリア](../Page/イタリア.md "wikilink")[エミリア＝ロマーニャ州](../Page/エミリア＝ロマーニャ州.md "wikilink")[フォルリ＝チェゼーナ県](../Page/フォルリ＝チェゼーナ県.md "wikilink")の略称。ただし[ISO 3166-2:IT県名コードはFOである](../Page/ISO_3166-2:IT.md "wikilink")。
-  - [近鉄1400系電車](../Page/近鉄1400系電車.md "wikilink")および[近鉄8810系・9200系電車](../Page/近鉄8810系電車.md "wikilink")（[大阪線所属車](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")）の電算記号。
+  - [近鉄1400系電車](../Page/近鉄1400系電車.md "wikilink")および[近鉄8810系・9200系電車](../Page/近鉄8810系電車.md "wikilink")（[大阪線所属車](../Page/近鉄大阪線.md "wikilink")）の電算記号。
   - [ファーストクレジット](../Page/ファーストクレジット.md "wikilink") (First Credit) - 日本の金融系ノンバンク会社。元[長銀系](../Page/日本長期信用銀行.md "wikilink")・[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ローンスター](../Page/ローンスター.md "wikilink")系を経て、現在は[住友信託銀行](../Page/住友信託銀行.md "wikilink")の子会社。
   - [未来世紀](../Page/未来世紀.md "wikilink") (FUTURE CENTURY：F.C.) - [アニメ](../Page/アニメ.md "wikilink")『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』の舞台となる架空の[紀年法](../Page/紀年法.md "wikilink")。
   - [NHK福井放送局](../Page/NHK福井放送局.md "wikilink")の[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")・[教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOFC/JOFC-DTV）。

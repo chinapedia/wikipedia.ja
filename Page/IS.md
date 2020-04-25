@@ -28,6 +28,7 @@
   - 株式会社[インテリジェントシステムズ](../Page/インテリジェントシステムズ.md "wikilink")（Intelligent Systems）。イズと読まれる。
   - アイエス情報システム - [日本IBMと](../Page/日本アイ・ビー・エム.md "wikilink")[住友金属工業](../Page/住友金属工業.md "wikilink")の合弁情報システム関連企業\[3\]。
   - [あいえす造船](https://ja.wikipedia.org/wiki/あいえす造船 "wikilink") - [愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")に本社を置く造船所。
+  - 有限会社is - 日本の芸能プロダクション。
 
 ### 地名
 

@@ -1,11 +1,11 @@
 > この記事は[Channel-a](https://ja.wikipedia.org/wiki/Channel-a)から翻訳されています。
 
 
-**Channel a**（チャンネル エー）は、 [エイベックス所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が出演し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送された[音楽番組](../Page/音楽番組.md "wikilink")。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）制作で、全国各地で主に[深夜](../Page/深夜.md "wikilink")のローカル枠を中心に放送された。
+『**Channel a**』（チャンネル エー）は、 [エイベックス所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が出演し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送された[音楽番組](../Page/音楽番組.md "wikilink")。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）制作で、全国各地で主に深夜のローカル枠を中心に放送された。
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に番組開始。バラエティーコーナーから、アーティストへの密着ドキュメント等、様々なコーナーを放送するバラエティー形式の音楽番組。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に番組開始。バラエティーコーナーから、アーティストへの密着ドキュメントなど、様々なコーナーを放送するバラエティー形式の音楽番組。
 
 総合MCは不定期に変更されており、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ふかわりょう](../Page/ふかわりょう.md "wikilink")と[三船美佳](https://ja.wikipedia.org/wiki/三船美佳 "wikilink")がMC、[茂木淳一](../Page/茂木淳一.md "wikilink")と[松本まりか](../Page/松本まりか.md "wikilink")が[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")を務めた。
 
@@ -28,8 +28,8 @@
   - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
   - [BoA](../Page/BoA.md "wikilink")
   - [day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")
-  - [MISSION](../Page/MISSION.md "wikilink")
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [MISSION](../Page/MISSION_\(アイドルグループ\).md "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
   - [TRF](../Page/TRF.md "wikilink")
   - [girl next door](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")
@@ -189,7 +189,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a> (SBC)</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a> (SBC)</p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>

@@ -26,7 +26,7 @@
   - [1964年](../Page/1964年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 教育テレビのカラー放送開始。
   - 1964年[7月1日](../Page/7月1日.md "wikilink") ラジオFM放送の実用化試験放送・ステレオ放送実験開始（周波数:84.0MHz）。
       - 送信所はテレビと同じ美ヶ原。ステレオ放送は、当初は[東京からの全国放送のみであった](../Page/NHK放送センター.md "wikilink")。
-  - [1967年](../Page/1967年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")と共同で[長野県](../Page/長野県.md "wikilink")県域初の[UHFテレビサテライト局](../Page/極超短波.md "wikilink")「[軽井沢サテライト局](../Page/軽井沢テレビ中継放送所.md "wikilink")」を建設し、放送開始。以降、新設のサテライト局はすべてUHFとなる。また、これ以降、既設VHFサテライト局の一部をUHFに切り替える。
+  - [1967年](../Page/1967年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") [信越放送](../Page/信越放送.md "wikilink")と共同で[長野県](../Page/長野県.md "wikilink")県域初の[UHFテレビサテライト局](../Page/極超短波.md "wikilink")「[軽井沢サテライト局](../Page/軽井沢テレビ中継放送所.md "wikilink")」を建設し、放送開始。以降、新設のサテライト局はすべてUHFとなる。また、これ以降、既設VHFサテライト局の一部をUHFに切り替える。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") ラジオFM本放送開始。全国170局同時開局組のひとつ。
   - [1976年](../Page/1976年.md "wikilink")頃 FMローカル送出のステレオ化工事完了。FMローカル番組の「夕べひととき」（平日）、「NKリクエストアワー」（毎週土曜日）がステレオ化される。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") FMの全国放送用としてPCMデジタルステレオ回線が導入され、FM放送の音質が改善される。
@@ -61,7 +61,7 @@
   - ラジオ第2放送（長野局） 周波数:1467kHz、出力:1kW、コールサイン:JONB（かつては、番組内での[コールサイン読み上げが](https://ja.wikipedia.org/wiki/識別信号 "wikilink")、現在の北海道地方と同様一切なかった）
   - FM放送（長野（美ヶ原）局） 周波数:84.0MHz、出力:500W、コールサイン:JONK-FM
 
-※アナログ・デジタルテレビとFMラジオ放送の親局である美ヶ原局は、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")のデジタルテレビ放送と送信施設・鉄塔を共同使用している。
+※アナログ・デジタルテレビとFMラジオ放送の親局である美ヶ原局は、[信越放送](../Page/信越放送.md "wikilink")のデジタルテレビ放送と送信施設・鉄塔を共同使用している。
 
 ## 支局
 
@@ -267,13 +267,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福島佑理" title="wikilink">福島佑理</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤永莉香" title="wikilink">加藤永莉香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤永莉香" title="wikilink">加藤永莉香</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮野里緒" title="wikilink">宮野里緒</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （リポーター）</p></td>
@@ -300,13 +300,20 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/瀧埜ひとみ" title="wikilink">瀧埜ひとみ</a></p></td>
+<td></td>
+<td><p>イブニング信州<br />
+（スポーツ）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口聡一" title="wikilink">谷口聡一</a></p></td>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/杉山真理" title="wikilink">杉山真理</a></p></td>
 <td></td>
 <td><p>イブニング信州</p></td>
 <td></td>

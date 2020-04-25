@@ -16,6 +16,7 @@
   - [テクニカルディレクター (スポーツ)](../Page/テクニカルディレクター_\(スポーツ\).md "wikilink")
   - [四国旅客鉄道多度津工場](../Page/四国旅客鉄道多度津工場.md "wikilink")(**T**A**D**OTSU)を表す略号。
   - [熱帯低気圧](../Page/熱帯低気圧.md "wikilink")（**T**ropical **D**epression）
+  - 出用（To Deliver） - [体積](https://ja.wikipedia.org/wiki/体積 "wikilink")の定め方の一種。
   - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink") トレダ(treda)(10<sup>39</sup>) （ジム・ブロワーズ(Jim Blowers)の提案）
   - 鉄道車両の[食堂車](../Page/食堂車.md "wikilink")を表す記号。
   - [スリルドライブ](../Page/スリルドライブ.md "wikilink")（**T**hrill **D**rive）の略称。[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のドライビング[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")の一種。

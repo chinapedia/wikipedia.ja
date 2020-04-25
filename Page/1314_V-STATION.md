@@ -43,20 +43,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>21:30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪放送#一週間の番組表" title="wikilink">一般番組</a></p></td>
-<td><p>一般番組</p></td>
-<td><p>一般番組</p></td>
-<td><p>一般番組</p></td>
-</tr>
-<tr class="even">
 <td><p>22:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソングトレイン1314" title="wikilink">アニソン★ナイトフィーバー</a></p></td>
+<td><p>一般番組</p></td>
 <td><p><a href="../Page/岩田光央・鈴村健一_スウィートイグニッション.md" title="wikilink">岩田光央・鈴村健一 スウィートイグニッション</a></p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22:30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ここいば!" title="wikilink">ここいば!</a><br />
 【P】：<a href="https://ja.wikipedia.org/wiki/香里有佐" title="wikilink">香里有佐</a>、<a href="https://ja.wikipedia.org/wiki/小山百代" title="wikilink">小山百代</a>、<a href="https://ja.wikipedia.org/wiki/射場美波" title="wikilink">射場美波</a></p></td>
@@ -64,7 +57,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>23:00</p></td>
 <td><p>★<strong><a href="../Page/神谷浩史・小野大輔のDearGirl〜Stories〜.md" title="wikilink">神谷浩史・小野大輔のDearGirl〜Stories〜</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/榎木淳弥・堀江瞬_エノホリック" title="wikilink">榎木淳弥・堀江瞬 エノホリック</a></p></td>
@@ -72,29 +65,29 @@
 【P】：<a href="https://ja.wikipedia.org/wiki/大空直美" title="wikilink">大空直美</a>、<a href="https://ja.wikipedia.org/wiki/中島唯_(声優)" title="wikilink">中島唯</a>、<a href="https://ja.wikipedia.org/wiki/松田颯水" title="wikilink">松田颯水</a></p></td>
 <td><p><a href="../Page/森久保祥太郎.md" title="wikilink">森久保祥太郎</a>・<a href="../Page/浪川大輔.md" title="wikilink">浪川大輔</a> つまみは塩だけ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>23:30</p></td>
 <td><p>★<strong><a href="../Page/水樹奈々_スマイル・ギャング.md" title="wikilink">水樹奈々 スマイル・ギャング</a></strong></p></td>
 <td><p>一般番組</p></td>
-<td><p>一般番組</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野津山幸宏・葉山翔太_Noplan_Night！" title="wikilink">野津山幸宏・葉山翔太 Noplan Night！</a><br />
 【P】：<a href="https://ja.wikipedia.org/wiki/野津山幸宏" title="wikilink">野津山幸宏</a>、<a href="https://ja.wikipedia.org/wiki/葉山翔太" title="wikilink">葉山翔太</a></p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>時間</p></td>
 <td><p>月曜日未明（日曜日深夜）</p></td>
 <td><p>金曜日未明（木曜日深夜）</p></td>
 <td><p>土曜日未明（金曜日深夜）</p></td>
 <td><p>日曜日未明（土曜日深夜）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>0:00</p></td>
 <td><p><a href="../Page/飯田里穂.md" title="wikilink">飯田里穂</a>主義</p></td>
 <td><p>★<strong><a href="https://ja.wikipedia.org/wiki/東映公認_鈴村健一・神谷浩史の仮面ラジレンジャー" title="wikilink">東映公認 鈴村健一・神谷浩史の仮面ラジレンジャー</a></strong></p></td>
 <td><p>一般番組</p></td>
 <td><p>アニソン★ナイトフィーバー</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>0:30</p></td>
 <td><p>★<strong><a href="https://ja.wikipedia.org/wiki/ボルテージ_(企業)#ラジオ" title="wikilink">柿原徹也・畠中祐 ボクらが君を幸せにするラジオ</a></strong></p></td>
 <td><p>一般番組</p></td>

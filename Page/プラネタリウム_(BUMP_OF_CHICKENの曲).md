@@ -5,6 +5,7 @@
 
 ## 概要
 
+  - 前作「[車輪の唄](../Page/車輪の唄.md "wikilink")」から7か月ぶりのリリースで、2001年に発売されたシングル「[天体観測](../Page/天体観測_\(曲\).md "wikilink")」以来4年ぶりとなる天体ソングである。
   - 今作は木曜日に発売された。
   - 初回版にはオリジナルスリーピングセットの応募券がついていた。また、藤原曰く「スペースがまだまだ足りなかった」ということで、歌詞カードに[プラネタリウム](../Page/プラネタリウム.md "wikilink")の作り方が書かれている。
   - ジャケットデザインはかつてBUMP OF CHICKENのロゴマークをデザインしたデザイン事務所「[タイクーングラフィックス](../Page/タイクーングラフィックス.md "wikilink")」が担当。
@@ -45,7 +46,7 @@
 
 </div>
 
-[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:番場秀一の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:番場秀一の監督したミュージック・ビデオ "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink")
+[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:番場秀一の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:番場秀一の監督したミュージック・ビデオ "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink")
 
 1.  <http://storm.fmfuji.co.jp/guest05/guest0730.html>
 2.  <http://storm.fmfuji.co.jp/guest05/guest0730.html>

@@ -7,7 +7,7 @@
 
 「パリン子学園」という架空の学園を舞台に繰り広げられるショートコント、前番組『ピンキーパンチ大逆転』にもあったアイドルの歌のコーナー、レギュラー陣が洋楽に日本語の詞による歌とダンスによるコーナーの3部構成。
 
-同時間帯はローカルセールス枠であったことから（現行のローカル枠とは別に設定）、系列局であってもこの番組を放送しなかった局や遅れネットで放送する局が多数存在した。例えば、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) は当時この時間帯に『[シェフにおまかせ\!](../Page/シェフにおまかせ!.md "wikilink")』を放送し、この番組を土曜 7:00 - 7:30 に放送していた。
+放送当時、木曜19時台前半\[1\]と火曜22時台はTBS系列全局でローカルセールス枠であったことから、系列局であっても、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) （土曜 7:00 - 7:30 に放送）のように遅れネットで放送する系列局やこの番組を放送しなかった系列局やが多数存在した。
 
 ## 出演者
 
@@ -196,4 +196,15 @@
 </tbody>
 </table>
 
+## 関連項目
+
+  - [シェフにおまかせ\!](../Page/シェフにおまかせ!.md "wikilink")：毎日放送テレビで本番組放送時、木曜19時台前半に放送された関西ローカル番組
+  - [アーノルド坊やは人気者](../Page/アーノルド坊やは人気者.md "wikilink")：CBCテレビで本番組放送時、木曜19時台前半に東海3県ローカルで放送されたアメリカのコメディー番組
+
+## 脚注
+
+<references />
+
 [Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:日本のコメディ番組](https://ja.wikipedia.org/wiki/Category:日本のコメディ番組 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:小泉今日子](https://ja.wikipedia.org/wiki/Category:小泉今日子 "wikilink") [Category:堀ちえみ](https://ja.wikipedia.org/wiki/Category:堀ちえみ "wikilink") [Category:少年隊](https://ja.wikipedia.org/wiki/Category:少年隊 "wikilink") [Category:山田邦子](https://ja.wikipedia.org/wiki/Category:山田邦子 "wikilink")
+
+1.  『[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")』の同時ネットや他系列番組の遅れネットに充てた系列局が多かった。

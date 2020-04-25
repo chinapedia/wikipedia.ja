@@ -7,7 +7,7 @@
 
 [1974年](../Page/1974年.md "wikilink")に第1回開催。当初は4年に1度オリンピック中間年の開催であったが、[1989年](../Page/1989年.md "wikilink")からは2年に1度奇数年の開催となった。[オリンピックと並ぶアマチュアボクシングの権威ある大会となっている](https://ja.wikipedia.org/wiki/オリンピックボクシング競技 "wikilink")。
 
-日本人では第2回[フライ級](../Page/フライ級.md "wikilink")で[石井幸喜](https://ja.wikipedia.org/wiki/石井幸喜 "wikilink")、第14回[ライトウェルター級で](../Page/スーパーライト級.md "wikilink")[川内将嗣](../Page/川内将嗣.md "wikilink")がともに[銅メダル](https://ja.wikipedia.org/wiki/銅メダル "wikilink")を、第16回[ミドル級](../Page/ミドル級.md "wikilink")で[村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")が[銀メダル](https://ja.wikipedia.org/wiki/銀メダル "wikilink")を獲得している。
+日本人では第2回[フライ級](../Page/フライ級.md "wikilink")で[石井幸喜](https://ja.wikipedia.org/wiki/石井幸喜 "wikilink")、第14回[ライトウェルター級で](../Page/スーパーライト級.md "wikilink")[川内将嗣](../Page/川内将嗣.md "wikilink")がともに[銅メダル](../Page/銅メダル.md "wikilink")を、第16回[ミドル級](../Page/ミドル級.md "wikilink")で[村田諒太](https://ja.wikipedia.org/wiki/村田諒太 "wikilink")が[銀メダル](../Page/銀メダル.md "wikilink")を獲得している。
 
 階級は、2003年にライトミドル級（71kg以下）が廃止、2011年にフェザー級（57kg以下）が廃止されて、現在は10階級で行われている。
 
@@ -610,4 +610,4 @@
   - [AIBA世界女子ボクシング選手権](../Page/AIBA世界女子ボクシング選手権.md "wikilink")
   - [AIBAワールドカップ](https://ja.wikipedia.org/wiki/AIBAワールドカップ "wikilink")
 
-[Category:世界ボクシング選手権大会](https://ja.wikipedia.org/wiki/Category:世界ボクシング選手権大会 "wikilink") [Category:世界選手権](https://ja.wikipedia.org/wiki/Category:世界選手権 "wikilink") [Category:アマチュアボクシング大会](https://ja.wikipedia.org/wiki/Category:アマチュアボクシング大会 "wikilink") [Category:1974年開始のイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のイベント "wikilink")
+[Category:世界ボクシング選手権大会](https://ja.wikipedia.org/wiki/Category:世界ボクシング選手権大会 "wikilink") [Category:世界選手権](https://ja.wikipedia.org/wiki/Category:世界選手権 "wikilink") [Category:アマチュアボクシング大会](https://ja.wikipedia.org/wiki/Category:アマチュアボクシング大会 "wikilink") [Category:1974年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のスポーツイベント "wikilink")

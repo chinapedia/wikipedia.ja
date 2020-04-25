@@ -547,4 +547,4 @@
   -
   -
   -
-[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:テレビ朝日の特別番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の特別番組 "wikilink") [Category:札幌市のスキージャンプ大会](https://ja.wikipedia.org/wiki/Category:札幌市のスキージャンプ大会 "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink") [Category:テレビ朝日の特別番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の特別番組 "wikilink") [Category:札幌市のスキージャンプ大会](https://ja.wikipedia.org/wiki/Category:札幌市のスキージャンプ大会 "wikilink")

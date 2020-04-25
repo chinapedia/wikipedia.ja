@@ -32,4 +32,4 @@
   - 『[jupiter](https://ja.wikipedia.org/wiki/jupiter_\(BUMP_OF_CHICKENのアルバム\) "wikilink")』（\#1）
   - 『[present from you](https://ja.wikipedia.org/wiki/present_from_you "wikilink")』（\#2）
 
-[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2000年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2000年のデビュー・シングル "wikilink") [Category:宝石を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:宝石を題材とした楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
+[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2000年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2000年のデビュー・シングル "wikilink") [Category:宝石を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:宝石を題材とした楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

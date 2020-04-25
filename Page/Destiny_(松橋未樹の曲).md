@@ -9,17 +9,13 @@
       -
         作詞：[麻越さとみ](https://ja.wikipedia.org/wiki/麻越さとみ "wikilink")（[RAMJET PULLEY](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")）／作曲：[間島和伸](../Page/間島和伸.md "wikilink")（RAMJET PULLEY）／編曲：清水俊也
     <!-- end list -->
-      - [読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")テレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。
-
-歌詞は1番ではなく2番が使われている。
-
-\#\*[RAMJET PULLEYの](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")[同名曲をカバー](https://ja.wikipedia.org/wiki/Hello...good_bye#収録曲 "wikilink")。
-
-1.  **go out of one's way**
+      - [読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")テレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。歌詞は1番ではなく2番が使われている。
+      - [RAMJET PULLEYの](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")[同名曲をカバー](https://ja.wikipedia.org/wiki/Hello...good_bye#収録曲 "wikilink")。
+2.  **go out of one's way**
       -
         作詞：松橋未樹／作曲：[金子奈未](https://ja.wikipedia.org/wiki/金子奈未 "wikilink")／編曲：清水俊也
-2.  destiny（A Rainbow In Curved Air Mix）
-3.  destiny（Instrumental)
+3.  destiny（A Rainbow In Curved Air Mix）
+4.  destiny（Instrumental)
 
 ## 収録アルバム
 

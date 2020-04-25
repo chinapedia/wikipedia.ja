@@ -184,24 +184,31 @@
 <td><p>ほんたにかなえ、とらのすけ、有末つかさ、プリンプリン、ぴこぴこぐらむ (SD)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さかき傘" title="wikilink">さかき傘</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>8月28日</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/かけぬけ★青春スパーキング!" title="wikilink">かけぬけ★青春スパーキング!</a></strong>[5]</p></td>
+<td><p>ほんたにかなえ、とらのすけ、有末つかさ、ぴこぴこぐらむ (SD)</p></td>
+<td><p>瀬尾順、砥石大樹、保住圭、にっし～、モーリー</p></td>
+</tr>
 </tbody>
 </table>
 
 ## ライブ
 
   - SAGA PLANETS FIRST SONIC 〜花咲ワークフェス2014〜
-    SAGA PLANETS初のライブとなる『SAGA PLANETS FIRST SONIC 〜花咲ワークフェス2014〜』が2014年11月24日に[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")にて開催された\[5\]。今までのSAGA PLANETSの歴史や、アーティストのライブ、『花咲ワークスプリング\!』の声優発表が行われた。以下は出演アーティスト。
+    SAGA PLANETS初のライブとなる『SAGA PLANETS FIRST SONIC 〜花咲ワークフェス2014〜』が2014年11月24日に[横浜ベイホール](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")にて開催された\[6\]。今までのSAGA PLANETSの歴史や、アーティストのライブ、『花咲ワークスプリング\!』の声優発表が行われた。以下は出演アーティスト。
 
 <!-- end list -->
 
-  - [片霧烈火](../Page/片霧烈火.md "wikilink")\[6\]
-  - [鈴湯](https://ja.wikipedia.org/wiki/鈴湯 "wikilink")\[7\]
-  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")\[8\]
-  - [茶太](../Page/茶太.md "wikilink")\[9\]
-  - [月子](https://ja.wikipedia.org/wiki/月子_\(歌手\) "wikilink")\[10\]
-  - [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")\[11\]
-  - [結衣菜](https://ja.wikipedia.org/wiki/結衣菜 "wikilink")\[12\]
-  - [Larval Stage Planning](https://ja.wikipedia.org/wiki/Larval_Stage_Planning "wikilink")\[13\]
+  - [片霧烈火](../Page/片霧烈火.md "wikilink")\[7\]
+  - [鈴湯](https://ja.wikipedia.org/wiki/鈴湯 "wikilink")\[8\]
+  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")\[9\]
+  - [茶太](../Page/茶太.md "wikilink")\[10\]
+  - [月子](https://ja.wikipedia.org/wiki/月子_\(歌手\) "wikilink")\[11\]
+  - [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")\[12\]
+  - [結衣菜](https://ja.wikipedia.org/wiki/結衣菜 "wikilink")\[13\]
+  - [Larval Stage Planning](https://ja.wikipedia.org/wiki/Larval_Stage_Planning "wikilink")\[14\]
 
 ## 主なスタッフ
 
@@ -218,8 +225,8 @@
 
 ## 過去に在籍していたスタッフ
 
-  - 新島夕（シナリオ）（2012年3月末退社\[14\]） 現在はフリー
-  - 茉宮祈芹（原画）（2016年9月末退社\[15\]） 現在はフリー
+  - 新島夕（シナリオ）（2012年3月末退社\[15\]） 現在はフリー
+  - 茉宮祈芹（原画）（2016年9月末退社\[16\]） 現在はフリー
 
 ## 出典
 
@@ -249,3 +256,4 @@
 13.
 14.
 15.
+16.

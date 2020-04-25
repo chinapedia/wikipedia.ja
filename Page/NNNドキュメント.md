@@ -17,7 +17,7 @@
 
 [ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")、[文化庁芸術祭大賞](../Page/芸術祭_\(文化庁\).md "wikilink")、[日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink")最優秀賞、[放送文化基金](https://ja.wikipedia.org/wiki/放送文化基金 "wikilink")賞などを受賞している他、[エミー賞](../Page/エミー賞.md "wikilink")国際賞を日本の番組で初受賞している（1975年6月29日放送、日本テレビ制作『明日をつかめ\!貴くん〜4745日の記録』）。
 
-[ナレーションは基本的に](https://ja.wikipedia.org/wiki/ナレーター "wikilink")[声優](../Page/声優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")が行っているが、制作局のアナウンサーや解説委員もナレーションを務めることがある（特に読売テレビ・[札幌テレビ制作分にこの傾向があり](../Page/札幌テレビ放送.md "wikilink")、日本テレビや[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")でも稀にある）。また取り上げた題材が個人に関わる場合、ごく稀に本人自身が担当する場合もある。
+[ナレーションは基本的に](https://ja.wikipedia.org/wiki/ナレーター "wikilink")[声優](../Page/声優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")が行っているが、制作局のアナウンサーや解説委員もナレーションを務めることがある（特に読売テレビ・[札幌テレビ制作分にこの傾向があり](../Page/札幌テレビ放送.md "wikilink")、日本テレビや[山口放送](../Page/山口放送.md "wikilink")でも稀にある）。また取り上げた題材が個人に関わる場合、ごく稀に本人自身が担当する場合もある。
 
 1990年3月以前は日曜日の23時55分からの放送であったが、同年4月からは日曜の内に放送開始とはならず、月曜0時開始となった。前述の通り、[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組枠の増大などもあり、現在は月曜0時55分（日曜日深夜）からの放送\[8\]となっている。放送時間帯の件についてはNNNのキー局である、日本テレビ側でも[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月の定例[記者会見](https://ja.wikipedia.org/wiki/プレスリリース#記者会見 "wikilink")（[1月25日](../Page/1月25日.md "wikilink")）の中で、番組40周年を取り上げた際に、放送曜日と時間帯の変更も示唆していたが\[9\]、現時点で枠移動されることなく、従前通りの時間帯での放送を継続している。
 
@@ -211,7 +211,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 <td></td>

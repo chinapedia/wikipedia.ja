@@ -255,7 +255,7 @@
 
 ### ゲーム
 
-  - グレゴリーホラーショー ソウルコレクター（[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[カプコン](../Page/カプコン.md "wikilink")・2003年8月7日発売）
+  - グレゴリーホラーショー ソウルコレクター（[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[カプコン](../Page/カプコン.md "wikilink")・2003年8月7日発売・[CERO](https://ja.wikipedia.org/wiki/CERO "wikilink")-全年齢対象）
 
 <!-- end list -->
 

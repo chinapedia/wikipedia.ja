@@ -47,7 +47,7 @@
 
   - [すっぴんDNA](https://ja.wikipedia.org/wiki/すっぴんDNA "wikilink")（中京テレビ制作）
   - [ヤミツキ](../Page/ヤミツキ.md "wikilink")（中京テレビ制作）
-  - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")制作）
+  - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](../Page/山口放送.md "wikilink")制作）
   - [大人時間](https://ja.wikipedia.org/wiki/大人時間 "wikilink")（スカパー\!制作）
   - [いただきマッスル\!](../Page/いただきマッスル!.md "wikilink")（中京テレビ制作）
   - [カートゥンKAT-TUN](../Page/カートゥンKAT-TUN.md "wikilink")（[日本テレビ制作](../Page/日本テレビ放送網.md "wikilink")）
@@ -1312,7 +1312,7 @@
   - [G-STAGE](../Page/G-STAGE.md "wikilink")（フジテレビ　1991年10月-1992年3月）
   - [SOUND ARENA](../Page/SOUND_ARENA.md "wikilink")（フジテレビ　1992年4月-9月）
   - [MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink")（フジテレビ　1992年10月-1994年3月）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（フジテレビ　1994年10月-2012年12月）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ　1994年10月-2012年12月）
   - [TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")（フジテレビ　1995年4月-1998年4月）
   - [LOVE LOVEあいしてる](https://ja.wikipedia.org/wiki/LOVE_LOVEあいしてる "wikilink")（フジテレビ　1996年10月-2001年3月）
   - [MUSIC HAMMER](../Page/MUSIC_HAMMER.md "wikilink")（フジテレビ　1998年4月-2000年3月）
@@ -1726,11 +1726,11 @@
 
 ### アニメ
 
-  - [キテレツ大百科](../Page/キテレツ大百科.md "wikilink")
-
 ## 脚注
 
-## 注釈
+### 注釈
+
+### 出典
 
 ## 関連項目
 

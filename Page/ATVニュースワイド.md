@@ -95,7 +95,7 @@
 
   - [ATVニュース](../Page/ATVニュース.md "wikilink")
   - [ATVニュースロータリー](https://ja.wikipedia.org/wiki/ATVニュースロータリー "wikilink")
-  - [SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink") - 本番組の1週間後に開始された同系列の[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の番組。但し、こちらは、中断期間がある。
+  - [SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink") - 本番組の1週間後に開始された同系列の[信越放送](../Page/信越放送.md "wikilink")の番組。但し、こちらは、中断期間がある。
   - [RCCニュース6](../Page/RCCニュース6.md "wikilink") - (第1期の)放送開始が本番組と同じ1976年3月29日。こちらも、｢SBCニュースワイド｣と同様に中断期間がある。
 
 ## 公式サイト

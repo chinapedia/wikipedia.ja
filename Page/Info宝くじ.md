@@ -33,7 +33,7 @@
 
   - [ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")
   - [デーブのフライデードリーム](https://ja.wikipedia.org/wiki/デーブのフライデードリーム "wikilink") - [デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")が司会の宝くじ広報番組。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作。[ナンバーズの金曜日分の抽選結果を放送していた](../Page/ナンバーズ_\(宝くじ\).md "wikilink")。
-  - [宝くじドリームサテライト](https://ja.wikipedia.org/wiki/宝くじドリームサテライト "wikilink") - [BS11にて月曜日から金曜日に放送されている宝くじ広報番組](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。司会は[小川りかこ](https://ja.wikipedia.org/wiki/小川りかこ "wikilink")。その日に抽選された数字選択式全国自治宝くじ全種の抽選結果をお知らせしている。
+  - [宝くじドリームサテライト](https://ja.wikipedia.org/wiki/宝くじドリームサテライト "wikilink") - [BS11にて月曜日から金曜日に放送されている宝くじ広報番組](../Page/日本BS放送.md "wikilink")。司会は[小川りかこ](https://ja.wikipedia.org/wiki/小川りかこ "wikilink")。その日に抽選された数字選択式全国自治宝くじ全種の抽選結果をお知らせしている。
   - [アッコにおまかせ\!](../Page/アッコにおまかせ!.md "wikilink") - 2008年4月6日から、番組本編終了後に「That's宝くじ」と題した宝くじ広報番組を放送している。1週間に行われた「ロト」と「ナンバーズ」の抽選結果をお知らせしている。司会は[峰竜太](../Page/峰竜太.md "wikilink")ほか。また、これが縁で峰は2009年4月から「ナンバーズ」のCMに出演している。
 
 [Category:テレビ朝日のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のミニ番組 "wikilink") [Category:宝くじ](https://ja.wikipedia.org/wiki/Category:宝くじ "wikilink")

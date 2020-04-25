@@ -524,7 +524,7 @@
   -
   - [SKIPシティ](http://www.skipcity.jp/flash.html)
 
-[Category:アジアの映画祭](https://ja.wikipedia.org/wiki/Category:アジアの映画祭 "wikilink") [Category:日本の映画祭](https://ja.wikipedia.org/wiki/Category:日本の映画祭 "wikilink") [Category:日本の映画](https://ja.wikipedia.org/wiki/Category:日本の映画 "wikilink") [Category:日本の映画賞](https://ja.wikipedia.org/wiki/Category:日本の映画賞 "wikilink") [Category:埼玉県の行事・イベント](https://ja.wikipedia.org/wiki/Category:埼玉県の行事・イベント "wikilink")
+[Category:アジアの映画祭](https://ja.wikipedia.org/wiki/Category:アジアの映画祭 "wikilink") [Category:日本の映画祭](https://ja.wikipedia.org/wiki/Category:日本の映画祭 "wikilink") [Category:日本の映画賞](https://ja.wikipedia.org/wiki/Category:日本の映画賞 "wikilink") [Category:埼玉県の行事・イベント](https://ja.wikipedia.org/wiki/Category:埼玉県の行事・イベント "wikilink")
 
 1.
 2.

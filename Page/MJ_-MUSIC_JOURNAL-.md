@@ -275,7 +275,7 @@ MJでは通常放送以外にも、特集比重の通常版よりアーティス
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink") - かつてのフジテレビ系音楽番組であり、古舘も司会を務めていた。
   - [SOUND ARENA](../Page/SOUND_ARENA.md "wikilink") - 番組スポンサー上の前枠番組。
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") - 本番組の終了から半年後にスタートした音楽番組。この番組より、生放送から収録放送に変更。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") - 本番組の終了から半年後にスタートした音楽番組。この番組より、生放送から収録放送に変更。
   - [水曜歌謡祭 → Love music](https://ja.wikipedia.org/wiki/Love_music "wikilink") - この番組で再び生放送となる。
 
 ## 脚注

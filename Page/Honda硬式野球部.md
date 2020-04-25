@@ -108,6 +108,8 @@
 ## 元プロ野球選手の競技者登録
 
   - [新井潔](../Page/新井潔.md "wikilink")（元：[オリックス・ブルーウェーブ](../Page/オリックス・バファローズ.md "wikilink")、[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")） - コーチ（2003年～2008年）→退団
+  - [原井和也](../Page/原井和也.md "wikilink")（元：[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")） - コーチ（2020年～）
+  - [木村龍治](../Page/木村龍治.md "wikilink")（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")） - コーチ（2020年～）
 
 ## かつて在籍していた主な選手
 

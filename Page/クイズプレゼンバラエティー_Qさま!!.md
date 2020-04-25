@@ -70,7 +70,9 @@
   - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")（[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")・[大竹一樹](../Page/大竹一樹.md "wikilink")）
       - [2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")〜[3月16日](../Page/3月16日.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")はプレゼンターとして出演。プレゼンターの時は大竹が[黄緑色](https://ja.wikipedia.org/wiki/黄緑色 "wikilink")、三村が[ピンク](../Page/ピンク.md "wikilink")色の[ランニングシャツ](https://ja.wikipedia.org/wiki/ランニングシャツ "wikilink")と[えんじ色](../Page/えんじ色.md "wikilink")の[短パン](../Page/短パン.md "wikilink")を着用（三村いわく「このランニングシャツを着てるときは何かやらされる時」）。
   - [優香](../Page/優香.md "wikilink")
-      - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に第1子を懐妊中であることを公表している\[10\]。このため、2020年3月9日放送を最後に産休のために一時降板し、4月以降優香に変わるピンチヒッターが代行する予定である\[11\]。
+      - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に第1子を懐妊中であることを公表している\[10\]。このため、2020年3月9日放送をもって産休のために一時降板\[11\]。
+  - [高山一実](https://ja.wikipedia.org/wiki/高山一実 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）
+      - [2020年](../Page/2020年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")放送から優香産休中の代理として出演。\[12\]
 
 ### Qさまプレゼンター(初期)
 
@@ -96,11 +98,14 @@
       - 2005年11月3日放送のレギュラー検定プレゼン（落ちたら死ぬぐらいの高さに設置された凄く小さい板の上で命綱無しでラジオ体操をするというもの）を経て、しずちゃんのみレギュラー入り決定。山ちゃんはあまりにも不甲斐無かったので「サブメンバー」としての参加であった（ただし実質的はレギュラーと変わりは無かった）。
       - 前述の通り山崎以外の他のメンバーと同様に実質的に降板同然の状態にあったが、山ちゃんは正式に卒業を発表することがないまま2019年4月以降は[裏番組にMCとしてレギュラー出演する結果となった](https://ja.wikipedia.org/wiki/メイドインジャパン! "wikilink")。
 
-※ 夏季放送の時、[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")プレゼンター（青木・アンタッチャブル・ロバート）は夏仕様の半袖になっていた。
+<!-- end list -->
 
-準プレゼンター（深夜時代)
+  -
+    ※ 夏季放送の時、[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")プレゼンター（青木・アンタッチャブル・ロバート）は夏仕様の半袖になっていた。
+  - 準プレゼンター（深夜時代)
+    末期はレギュラープレゼンターと共同でプレゼンを行うことがほとんどであった。
 
-末期はレギュラープレゼンターと共同でプレゼンを行うことがほとんどであった。
+<!-- end list -->
 
   - [大原かおり](https://ja.wikipedia.org/wiki/大原かおり "wikilink")
   - [KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")
@@ -150,7 +155,9 @@
   - [村井美樹](../Page/村井美樹.md "wikilink")
   - [辰巳琢郎](../Page/辰巳琢郎.md "wikilink")
   - [三浦奈保子](https://ja.wikipedia.org/wiki/三浦奈保子 "wikilink")
-  - [山崎怜奈](https://ja.wikipedia.org/wiki/山崎怜奈 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）
+  - [山崎怜奈](https://ja.wikipedia.org/wiki/山崎怜奈 "wikilink")（乃木坂46）
+  - [QuizKnock](https://ja.wikipedia.org/wiki/QuizKnock "wikilink")（各ライターから1人、もしくは2人出演）
+  - [宮戸洋行](https://ja.wikipedia.org/wiki/GAG_\(お笑いトリオ\)#メンバー "wikilink")（[GAG](../Page/GAG_\(お笑いトリオ\).md "wikilink")）
 
 ## 番組内容
 
@@ -469,12 +476,12 @@
 
 <!-- end list -->
 
-  - 3月26日 19時00分 - 21時48分\[12\]「クイズの日 ミラクル9vsQさま\!\!タイムショックで最終決戦SP」
+  - 3月26日 19時00分 - 21時48分\[13\]「クイズの日 ミラクル9vsQさま\!\!タイムショックで最終決戦SP」
       - 三村マサカズをリーダーとしたQさま\!\!チームと[有田哲平](../Page/有田哲平.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）をリーダーとした[くりぃむクイズ ミラクル9チームがお互いの番組](https://ja.wikipedia.org/wiki/くりぃむクイズ_ミラクル9 "wikilink")&[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")で行われているクイズ企画で対決する特番。当番組のパートは第2部として行われた。司会はミラクル9ステージは[上田晋也](../Page/上田晋也.md "wikilink")（くりぃむしちゅー）、[久冨慶子](https://ja.wikipedia.org/wiki/久冨慶子 "wikilink")アナ、Qさま\!\!ステージは大竹、優香、清水、タイムショックステージは[中山秀征](../Page/中山秀征.md "wikilink")、[新山千春](../Page/新山千春.md "wikilink")がそれぞれ担当した。
 
 ### ミッドナイトQさま\!\!
 
-主に[23時15分 - 翌0時10分](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")（または[ドスペ2](../Page/ドスペ2.md "wikilink")）枠で放送の特別番組。[クイズプレゼン、審査も行われる。多いのが](https://ja.wikipedia.org/wiki/#概要 "wikilink")、お蔵入りのVTRや[芸人解散ドッキリ等](https://ja.wikipedia.org/wiki/クイズプレゼンバラエティー_Qさま!!のプレゼンVTR#芸人解散ドッキリ "wikilink")。
+主に[23時15分 - 翌0時10分](../Page/ネオバラエティ.md "wikilink")（または[ドスペ2](../Page/ドスペ2.md "wikilink")）枠で放送の特別番組。[クイズプレゼン、審査も行われる。多いのが](https://ja.wikipedia.org/wiki/#概要 "wikilink")、お蔵入りのVTRや[芸人解散ドッキリ等](https://ja.wikipedia.org/wiki/クイズプレゼンバラエティー_Qさま!!のプレゼンVTR#芸人解散ドッキリ "wikilink")。
 
   - 2006年12月28日（お蔵入りされたVTRを放送・一部地域除く）
       - QさまメンバーVsスーパー小学生800m走編(お蔵入りの理由は、圧勝により盛り上がらなかったため)
@@ -550,231 +557,53 @@
 
   - 2015年4月現在
 
-<table>
-<thead>
-<tr class="header">
-<th><p>放送対象地域</p></th>
-<th><p>放送局</p></th>
-<th><p>系列</p></th>
-<th><p>放送曜日・放送時間</p></th>
-<th><p>放送日の遅れ</p></th>
-<th><p>『Qさま??』ネット局[13]</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a> (EX)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
-<td><p>月曜<br />
-21:00 - 21:54</p></td>
-<td><p><strong>製作局</strong></p></td>
-<td><p>○</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="../Page/北海道テレビ放送.md" title="wikilink">北海道テレビ</a> (HTB)</p></td>
-<td><p>同時ネット</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
-<td><p><a href="../Page/青森朝日放送.md" title="wikilink">青森朝日放送</a> (ABA)</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="../Page/岩手朝日テレビ.md" title="wikilink">岩手朝日テレビ</a> (IAT)</p></td>
-<td><p>◯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
-<td><p><a href="../Page/東日本放送.md" title="wikilink">東日本放送</a> (KHB)</p></td>
-<td><p>◯[14]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="../Page/秋田朝日放送.md" title="wikilink">秋田朝日放送</a> (AAB)</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a> (YTS)</p></td>
-<td><p>◯[15]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
-<td><p><a href="../Page/福島放送.md" title="wikilink">福島放送</a> (KFB)</p></td>
-<td><p>◯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a> (UX)</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="../Page/長野朝日放送.md" title="wikilink">長野朝日放送</a> (abn)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
-<td><p><a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a> (SATV)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
-<td><p><a href="../Page/北陸朝日放送.md" title="wikilink">北陸朝日放送</a> (HAB)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
-<td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレ</a> (NBN)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
-<td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a> (ABC)[16][17]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
-<td><p><a href="../Page/広島ホームテレビ.md" title="wikilink">広島ホームテレビ</a> (HOME)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="../Page/山口朝日放送.md" title="wikilink">山口朝日放送</a> (yab)</p></td>
-<td><p>○</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
-<td><p><a href="../Page/瀬戸内海放送.md" title="wikilink">瀬戸内海放送</a> (KSB)[18]</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="../Page/愛媛朝日テレビ.md" title="wikilink">愛媛朝日テレビ</a> (eat)</p></td>
-<td><p>○</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a> (KBC)[19]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎文化放送" title="wikilink">長崎文化放送</a> (NCC)</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="../Page/熊本朝日放送.md" title="wikilink">熊本朝日放送</a> (KAB)</p></td>
-<td><p>○</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a> (OAB)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
-<td><p><a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a> (KKB)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="../Page/琉球朝日放送.md" title="wikilink">琉球朝日放送</a> (QAB)</p></td>
-<td><p>×</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 放送対象地域                                              | 放送局                                                                   | 系列                                                  | 放送日時             | ネット状況   | 『Qさま??』ネット局\[14\] |
+| --------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------- | ---------------- | ------- | ----------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ朝日](../Page/テレビ朝日.md "wikilink") (EX)                             | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") | 月曜 21:00 - 21:54 | **製作局** | ○                 |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink") (HTB)                        | 同時ネット                                               |                  |         |                   |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [青森朝日放送](../Page/青森朝日放送.md "wikilink") (ABA)                          | ×                                                   |                  |         |                   |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink") (IAT)                        | ◯                                                   |                  |         |                   |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東日本放送](../Page/東日本放送.md "wikilink") (KHB)                            | ◯\[15\]                                             |                  |         |                   |
+| [秋田県](../Page/秋田県.md "wikilink")                    | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink") (AAB)                          | ×                                                   |                  |         |                   |
+| [山形県](../Page/山形県.md "wikilink")                    | [山形テレビ](../Page/山形テレビ.md "wikilink") (YTS)                            | ◯\[16\]                                             |                  |         |                   |
+| [福島県](../Page/福島県.md "wikilink")                    | [福島放送](../Page/福島放送.md "wikilink") (KFB)                              | ◯                                                   |                  |         |                   |
+| [新潟県](../Page/新潟県.md "wikilink")                    | [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink") (UX)      | ×                                                   |                  |         |                   |
+| [長野県](../Page/長野県.md "wikilink")                    | [長野朝日放送](../Page/長野朝日放送.md "wikilink") (abn)                          |                                                     |                  |         |                   |
+| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink") (SATV)                       |                                                     |                  |         |                   |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸朝日放送](../Page/北陸朝日放送.md "wikilink") (HAB)                          |                                                     |                  |         |                   |
+| [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink") (NBN)                          |                                                     |                  |         |                   |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink") (ABC)\[17\]\[18\]            |                                                     |                  |         |                   |
+| [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") (HOME)                     |                                                     |                  |         |                   |
+| [山口県](../Page/山口県.md "wikilink")                    | [山口朝日放送](../Page/山口朝日放送.md "wikilink") (yab)                          | ○                                                   |                  |         |                   |
+| [香川県・岡山県](../Page/岡山県・香川県の放送.md "wikilink")         | [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink") (KSB)\[19\]                    | ×                                                   |                  |         |                   |
+| [愛媛県](../Page/愛媛県.md "wikilink")                    | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink") (eat)                        | ○                                                   |                  |         |                   |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC)\[20\] |                                                     |                  |         |                   |
+| [長崎県](../Page/長崎県.md "wikilink")                    | [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink") (NCC)       | ×                                                   |                  |         |                   |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink") (KAB)                          | ○                                                   |                  |         |                   |
+| [大分県](../Page/大分県.md "wikilink")                    | [大分朝日放送](../Page/大分朝日放送.md "wikilink") (OAB)                          |                                                     |                  |         |                   |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [鹿児島放送](../Page/鹿児島放送.md "wikilink") (KKB)                            |                                                     |                  |         |                   |
+| [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球朝日放送](../Page/琉球朝日放送.md "wikilink") (QAB)                          | ×                                                   |                  |         |                   |
+|                                                     |                                                                       |                                                     |                  |         |                   |
 
   - 不定期放送局
-      - [テレビ高知](../Page/テレビ高知.md "wikilink") (KUTV)（[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）\[20\]\[21\]
-      - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink") (TUT)（TBS系列、スペシャルを中心に放送、以前は定期放送していた）\[22\]
-      - [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink") (TSK)（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")）
-      - [テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（UMK）（フジテレビ系列・[日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・テレビ朝日系列との[クロスネット局](../Page/クロスネット局.md "wikilink")）
+
+<!-- end list -->
+
+  - [テレビ高知](../Page/テレビ高知.md "wikilink") (KUTV)（[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）\[21\]\[22\]
+  - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink") (TUT)（TBS系列、スペシャルを中心に放送、以前は定期放送していた）\[23\]
+  - [さんいん中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink") (TSK)（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")）
+  - [テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（UMK）（フジテレビ系列・[日本テレビ系列](../Page/日本ニュースネットワーク.md "wikilink")・テレビ朝日系列との[クロスネット局](../Page/クロスネット局.md "wikilink")）
+
+<!-- end list -->
+
   - 過去のネット局
-      - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") (FBC)（[日本テレビ系列とテレビ朝日系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")、2010年9月打ち切り）\[23\]\[24\]
-      - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (MRT)（TBS系列、不定期で放送していたが、2012年4月よりテレビ宮崎に移行。）\[25\]
-  - 放送時間の変遷
+
+<!-- end list -->
+
+  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") (FBC)（[日本テレビ系列とテレビ朝日系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")、2010年9月打ち切り）\[24\]\[25\]
+  - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (MRT)（TBS系列、不定期で放送していたが、2012年4月よりテレビ宮崎に移行。）\[26\]
+
+### 放送時間の変遷
 
 | 放送期間    | 放送時間（[JST](../Page/日本標準時.md "wikilink")） |
 | ------- | ---------------------------------------- |
@@ -811,7 +640,7 @@
   - MA：寺田朋美（IMAGICA）
   - 音効：波多野精二（[ラビットムーンオフィス](https://ja.wikipedia.org/wiki/ラビットムーンオフィス "wikilink")）
   - TK：村田理実（M\&M）
-  - 制作協力：[ホリプロ](../Page/ホリプロ.md "wikilink")、[テレビ朝日映像](https://ja.wikipedia.org/wiki/テレビ朝日映像 "wikilink")（Vi→2014年4月 - ）\[26\]
+  - 制作協力：[ホリプロ](../Page/ホリプロ.md "wikilink")、[テレビ朝日映像](https://ja.wikipedia.org/wiki/テレビ朝日映像 "wikilink")（Vi→2014年4月 - ）\[27\]
   - 編成：三浦靖雄（以前は制作スタッフ►一時離脱）、新谷拓也（2人共テレビ朝日）
   - 宣伝：尾木実愛（テレビ朝日）
   - デスク：稲月彰子（一時離脱►復帰）
@@ -819,7 +648,7 @@
   - 制作スタッフ：上田航平、金子早織、落合由香(加)里（落合→一時離脱►復帰）、栗山彩、黒子沙彩香、水谷文香、佐藤海斗、吉田侑加、田川貴雅、望月歩、森田怜於奈、加藤さえ、長屋栞奈、大道梨央、立花龍介
   - 制作進行：今泰之（今→以前はディレクター）
   - アシスタントプロデューサー：久野木麻子、馬越脇弘章、小嶋悠介（小嶋→以前は制作スタッフ）、乙井良太
-  - ディレクター：小澤優、秦一貴（小澤・秦→以前は制作スタッフ）、[大澤宏一郎](https://ja.wikipedia.org/wiki/大澤宏一郎 "wikilink")（太陽カンパニー）、長崎玲史、大石展裕、林慶遥、辻智博（辻→テレビ朝日、2018年12月3日・17日のみチーフディレクター）、田村海、佐藤嘉一、矢野和久（矢野→テレビ朝日）、大阿久知浩（大阿久→以前は制作スタッフ►復帰）、萩原正雄
+  - ディレクター：小澤優、秦一貴（小澤・秦→以前は制作スタッフ）、[大澤宏一郎](https://ja.wikipedia.org/wiki/大澤宏一郎 "wikilink")（太陽カンパニー）、長崎玲史、林慶遥、辻智博（辻→テレビ朝日、2018年12月3日・17日のみチーフディレクター）、田村海、佐藤嘉一、矢野和久（矢野→テレビ朝日）、大阿久知浩（大阿久→以前は制作スタッフ►復帰）、萩原正雄
   - チーフディレクター：山田俊介（テレビ朝日、2018年12月3日 - 以前はディレクター）
   - プロデューサー：菅原悠平（テレビ朝日、2013年12月9日 - 以前はアシスタントプロデューサー）、藤原努・辰野玲（辰野→2017年4月 - ）（ホリプロ）、大石展裕（テレビ朝日映像）
   - ゼネラルプロデューサー：[樋口圭介](https://ja.wikipedia.org/wiki/樋口圭介 "wikilink")（テレビ朝日、2013年7月 - 以前はプロデューサー）
@@ -909,18 +738,19 @@
 9.  2014年8月25日・9月1日も1時間枠での放送ではあったが、前者に関しては前述の通り、6分拡大（20:00 - 21:00）のためイレギュラー編成が続いていた。
 10. [“優香が第１子妊娠　青木崇高と結婚４年目、来春出産予定「一日一日を大切に」](https://www.nikkansports.com/entertainment/news/201909210000374.html)（『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』[2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")付記事）
 11. [“優香 『Qさま\!\!』で産休入り報告 笑顔で「戻ってきます\!」](https://www.oricon.co.jp/news/2157110/full/)（『オリコンニュース』[2020年](../Page/2020年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")付記事）
-12. [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビ "wikilink")は同年4月26日 12時00分 - 14時50分に遅れネット
-13. 2015年3月の放送終了時点
-14. この枠は元々「[KHBニュース](../Page/KHBニュース.md "wikilink")+[おすすめ5chミニ](../Page/番宣番組.md "wikilink")」を編成しているため、不定期に休止となる場合がある。
-15. 不定期に放送。この枠は元々「[YTSニュース](../Page/YTSニュース.md "wikilink")」が編成されている。
-16. 2018年3月26日までは、同年4月1日の認定放送持株会社移行に伴う商号変更並びに分社化前のため、朝日放送。
-17. 3時間スペシャル（19:00スタート）時、自社制作ミニ番組「[ココイロ](https://ja.wikipedia.org/wiki/ココイロ "wikilink")」が放送のため（19:00 - 19:04）冒頭部分4分間が放送されずオープニングはダイジェスト放送となる。
-18. 日曜15:30 - 16:25に再放送を時折ではあるが、実施している。
-19. 2012年7月21日から土曜15:00 - 15:54に再放送を行っている。
-20. 福井放送とテレビ高知における後枠は『[そうだったのか\!池上彰の学べるニュース](https://ja.wikipedia.org/wiki/そうだったのか!池上彰の学べるニュース "wikilink")』を放送。
-21. 2010年3月までは水曜19:55 - 20:54に、2010年4月から9月までは木曜19:00 - 19:54に放送されていた。 2010年10月より不定期放送。
-22. 『[しくじり先生](https://ja.wikipedia.org/wiki/しくじり先生 "wikilink")』は[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")で、『[ぶっちゃけ寺](https://ja.wikipedia.org/wiki/ぶっちゃけ寺 "wikilink")』は[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")でそれぞれ不定期放送している為、合体スペシャルは放送されない。
-23.
-24. 2010年4月から日曜10:30 - 11:25に放送されていたが半年で打ち切られた。
-25. 不定期で『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』（レギュラー放送は2010年6月で終了）との合体スペシャルも放送していた。
-26. 2019年3月までは「VIVIA」と表記されたが、2019年4月からは社名ロゴをリニューアルのため、「テレビ朝日映像」と表記。
+12.
+13. [山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビ "wikilink")は同年4月26日 12時00分 - 14時50分に遅れネット
+14. 2015年3月の放送終了時点
+15. この枠は元々「[KHBニュース](../Page/KHBニュース.md "wikilink")+[おすすめ5chミニ](../Page/番宣番組.md "wikilink")」を編成しているため、不定期に休止となる場合がある。
+16. 不定期に放送。この枠は元々「[YTSニュース](../Page/YTSニュース.md "wikilink")」が編成されている。
+17. 2018年3月26日までは、同年4月1日の認定放送持株会社移行に伴う商号変更並びに分社化前のため、朝日放送。
+18. 3時間スペシャル（19:00スタート）時、自社制作ミニ番組「[ココイロ](https://ja.wikipedia.org/wiki/ココイロ "wikilink")」が放送のため（19:00 - 19:04）冒頭部分4分間が放送されずオープニングはダイジェスト放送となる。
+19. 日曜15:30 - 16:25に再放送を時折ではあるが、実施している。
+20. 2012年7月21日から土曜15:00 - 15:54に再放送を行っている。
+21. 福井放送とテレビ高知における後枠は『[そうだったのか\!池上彰の学べるニュース](https://ja.wikipedia.org/wiki/そうだったのか!池上彰の学べるニュース "wikilink")』を放送。
+22. 2010年3月までは水曜19:55 - 20:54に、2010年4月から9月までは木曜19:00 - 19:54に放送されていた。 2010年10月より不定期放送。
+23. 『[しくじり先生](https://ja.wikipedia.org/wiki/しくじり先生_俺みたいになるな!! "wikilink")』は[富山テレビで](../Page/富山テレビ放送.md "wikilink")、『[ぶっちゃけ寺](https://ja.wikipedia.org/wiki/お坊さんバラエティ_ぶっちゃけ寺 "wikilink")』は[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")でそれぞれ不定期放送している為、合体スペシャルは放送されない。
+24.
+25. 2010年4月から日曜10:30 - 11:25に放送されていたが半年で打ち切られた。
+26. 不定期で『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』（レギュラー放送は2010年6月で終了）との合体スペシャルも放送していた。
+27. 2019年3月までは「VIVIA」と表記されたが、2019年4月からは社名ロゴをリニューアルのため、「テレビ朝日映像」と表記。

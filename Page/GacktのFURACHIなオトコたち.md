@@ -13,9 +13,9 @@
 
 ## ネット局
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（土曜 23:00～23:30）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（土曜 23:00～23:30）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（日曜 21:30～22:00）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（土曜 21:00～21:30）
+  - [信越放送](../Page/信越放送.md "wikilink")（土曜 21:00～21:30）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（日曜 22:30～23:00）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（日曜 22:30～23:00）
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（火曜 23:30～24:00）

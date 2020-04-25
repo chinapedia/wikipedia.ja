@@ -74,7 +74,7 @@
 
   - [オフィシャルサイト](http://keitathenewest.com/)
   - [MySpace](http://www.myspace.com/keitaspirits)
-  - [オフィシャルブログ](http://ameblo.jp/keitaspirits/)
+  - [オフィシャルブログ](https://ameblo.jp/keitaspirits/)
   - [brainchild's オフィシャルサイト](http://www.brainchild-s.com/)
 
 [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:マニピュレーター](https://ja.wikipedia.org/wiki/Category:マニピュレーター "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

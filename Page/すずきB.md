@@ -74,12 +74,12 @@
 
 <!-- end list -->
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [メントレG](../Page/メントレG.md "wikilink")
   - [グータンヌーボ](https://ja.wikipedia.org/wiki/グータンヌーボ "wikilink")
   - [キャサリン三世](https://ja.wikipedia.org/wiki/キャサリン三世 "wikilink")
   - [グータン・ヌーボー](https://ja.wikipedia.org/wiki/グータンヌーボ "wikilink")
-  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [桑田佳祐の音楽寅さん](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")
   - [ザ・ジャッジ](../Page/ザ・ジャッジ!_〜得する法律ファイル.md "wikilink")
   - [世界ゴリッパですね](../Page/世界ゴリッパですね!!.md "wikilink")
@@ -173,6 +173,6 @@
   - [女子SPA\!](https://joshi-spa.jp/608420)
 
   -
-  - [すずきBブログ](http://ameblo.jp/suzukib/)
+  - [すずきBブログ](https://ameblo.jp/suzukib/)
 
 [Category:日本の放送作家](https://ja.wikipedia.org/wiki/Category:日本の放送作家 "wikilink") [Category:日本のテレビの脚本家](https://ja.wikipedia.org/wiki/Category:日本のテレビの脚本家 "wikilink") [Category:GyaOジョッキー](https://ja.wikipedia.org/wiki/Category:GyaOジョッキー "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

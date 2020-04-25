@@ -230,7 +230,7 @@
 
   - 『[DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")』　（1980.03.21） （[シュガー・ベイブ](../Page/シュガー・ベイブ.md "wikilink")のカバー、デビュー曲。「[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")」エンディング）
   - 『[パレード](https://ja.wikipedia.org/wiki/パレード_\(山下達郎の曲\) "wikilink")』（[山下達郎](../Page/山下達郎.md "wikilink")のカバー）
-  - 『[人間なんて](https://ja.wikipedia.org/wiki/人間なんて_\(よしだたくろうのアルバム\) "wikilink")』（[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")のカバー）
+  - 『[人間なんて](https://ja.wikipedia.org/wiki/人間なんて_\(よしだたくろうのアルバム\) "wikilink")』（[吉田拓郎](../Page/吉田拓郎.md "wikilink")のカバー）
   - 『[セクシー・バス・ストップ](https://ja.wikipedia.org/wiki/セクシー・バス・ストップ "wikilink")』（[浅野ゆう子](../Page/浅野ゆう子.md "wikilink")のカバー）
   - 『[横顔](https://ja.wikipedia.org/wiki/ミニヨン_\(大貫妙子のアルバム\) "wikilink")』（[大貫妙子](../Page/大貫妙子.md "wikilink")のカバー）
   - 『[12月の雨](../Page/12月の雨.md "wikilink")』（[荒井由実のカバー](../Page/松任谷由実.md "wikilink")）
@@ -351,6 +351,8 @@
       - [悲しみのライダー](https://ja.wikipedia.org/wiki/ONE_AND_ONLY_\(アルバム\) "wikilink")
   - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink")
       - ななつちがい
+  - [藤井隆](../Page/藤井隆.md "wikilink")
+      - Going back to myself～再生のリズム～
   - [堀江美都子](../Page/堀江美都子.md "wikilink")
       - 風のそらみみ
   - [牧野由依](../Page/牧野由依.md "wikilink")

@@ -162,7 +162,7 @@ ABBAは、2005年に[ユーロビジョン・ソング・コンテスト](../Pag
 ### THE ALBUM＋2
 
   - Eagle
-  - Take A Chance On Me『\[\[テイク・ア・チャンス|\]」
+  - Take A Chance On Me『[テイク・ア・チャンス](https://ja.wikipedia.org/wiki/テイク・ア・チャンス "wikilink")」
   - One Man, One Woman
   - The Name Of The Game「[きらめきの序曲](https://ja.wikipedia.org/wiki/きらめきの序曲 "wikilink")」
   - Move On

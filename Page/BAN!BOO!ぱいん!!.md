@@ -66,7 +66,7 @@
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink")
   - [西日本放送](../Page/西日本放送.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [福岡放送](../Page/福岡放送.md "wikilink")
   - [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")
   - [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")

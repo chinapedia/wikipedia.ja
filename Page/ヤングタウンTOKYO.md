@@ -79,7 +79,7 @@
       - [1976年](../Page/1976年.md "wikilink")10月にマリ・クリスティーヌから[アン・ルイス](../Page/アン・ルイス.md "wikilink")に交替。
   - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")、[太田裕美](../Page/太田裕美.md "wikilink")、アン・ルイス、[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink") （1977年4月〜[1979年](../Page/1979年.md "wikilink")9月）
   - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink") （1979年10月〜[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、『サタデーハッピーハートコンサート』）
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[小室等](../Page/小室等.md "wikilink") （1980年4月〜[1981年](../Page/1981年.md "wikilink")9月、『サタデーナイトカーニバル』）
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")、[小室等](../Page/小室等.md "wikilink") （1980年4月〜[1981年](../Page/1981年.md "wikilink")9月、『サタデーナイトカーニバル』）
   - [ザ・ぼんち](../Page/ザ・ぼんち.md "wikilink")、[甲斐智枝美](../Page/甲斐智枝美.md "wikilink") （1981年10月〜1983年9月）
   - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink") （1983年10月〜1984年3月）
       - この後、引き続き同じ時間帯で『所ジョージのホロホロ天国すんごいですね』を1984年9月まで放送、同年10月からは平日に移って『所ジョージの[進め\!おもしろバホバホ隊](../Page/進め!おもしろバホバホ隊.md "wikilink")』を放送した。

@@ -122,7 +122,7 @@
 
 ### テレビ
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink"))
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink"))
   - [FUN](../Page/FUN.md "wikilink")([日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink"))
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")([TBSテレビ](../Page/TBSテレビ.md "wikilink"))
   - [AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")(日本テレビ)

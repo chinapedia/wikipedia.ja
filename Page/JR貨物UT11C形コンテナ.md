@@ -7,7 +7,7 @@
 
 ### 0番台
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:UT11C-3.JPG "wikilink")
+[UT11C-3.JPG](https://ja.wikipedia.org/wiki/File:UT11C-3.JPG "fig:UT11C-3.JPG") [UT11C-10.jpg](https://ja.wikipedia.org/wiki/File:UT11C-10.jpg "fig:UT11C-10.jpg")
 
   - 1 - 10
     [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")所有、[イソプロピルアルコール](https://ja.wikipedia.org/wiki/イソプロピルアルコール "wikilink")専用。

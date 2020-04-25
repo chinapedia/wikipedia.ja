@@ -36,8 +36,9 @@
 
 ## 関連項目
 
-  - [VALUESTAR](../Page/VALUESTAR.md "wikilink")
-  - [VersaPro](../Page/VersaPro.md "wikilink")
+  - [VALUESTAR](../Page/VALUESTAR.md "wikilink") - 家庭向けデスクトップパソコン
+  - [Project Engine](https://ja.wikipedia.org/wiki/Project_Engine "wikilink") - 開発中のゲーミングパソコン
+  - [VersaPro](../Page/VersaPro.md "wikilink") - 法人向けパソコン
 
 ## 外部リンク
 

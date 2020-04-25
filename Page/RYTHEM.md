@@ -513,7 +513,7 @@
 
   -
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2011年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に解散した音楽グループ "wikilink")
 
 1.  [日本旅行 × RYTHEM　コラボレーションキャンペーン](http://www.nta.co.jp/kansai/rythem/)
 2.  「Love Call」はRYTHEM with [キマグレン](https://ja.wikipedia.org/wiki/キマグレン "wikilink")名義

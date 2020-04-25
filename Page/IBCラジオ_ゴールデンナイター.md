@@ -1,7 +1,7 @@
 > この記事は[IBCラジオ ゴールデンナイター](https://ja.wikipedia.org/wiki/IBCラジオ_ゴールデンナイター)から翻訳されています。
 
 
-**IBCラジオ ゴールデンナイター**（アイビーシーラジオ ゴールデンナイター）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")における[プロ野球中継](../Page/プロ野球中継.md "wikilink")の題名である。
+**IBCラジオ ゴールデンナイター**（アイビーシーラジオ ゴールデンナイター）は、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")における[プロ野球中継](../Page/プロ野球中継.md "wikilink")の題名である。
 
 ## 概要
 

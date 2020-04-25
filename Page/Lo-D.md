@@ -97,7 +97,7 @@
 
 ## 外部リンク
 
-  - [日立コンシューマ・マーケティング リビングサプライ社](http://www.hitachi-ls.co.jp/index.html)
+  - [日立グローバルライフソリューションズ株式会社](https://www.hitachi-gls.co.jp/)
   - [日立製作所](http://www.hitachi.co.jp/)
 
 [Category:日立製作所](https://ja.wikipedia.org/wiki/Category:日立製作所 "wikilink") [Category:日本コロムビアの歴史](https://ja.wikipedia.org/wiki/Category:日本コロムビアの歴史 "wikilink") [Category:音響機器](https://ja.wikipedia.org/wiki/Category:音響機器 "wikilink") [Category:かつて存在したブランド](https://ja.wikipedia.org/wiki/Category:かつて存在したブランド "wikilink")

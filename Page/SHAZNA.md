@@ -49,7 +49,7 @@
 
 ## メンバー
 
-  - **[IZAM](../Page/IZAM.md "wikilink")**（イザム - ボーカル担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink") - ）
+  - **[IZAM](../Page/IZAM.md "wikilink")**（イザム - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[1972年](../Page/1972年.md "wikilink")\[16\][4月23日](../Page/4月23日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -57,39 +57,39 @@
     本名は**日根 良和**（ひね よしかず）。身長180cm。父親は[国鉄スワローズの投手だった](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[日根紘三](../Page/日根紘三.md "wikilink")。
     インディーズ時代のバンドネームは「葵翠 -kisui-」「IZANE」「IZAMÜ」「IZAMU」など活動時期・ミニアルバムの発売ごとに変わり、インディーズラストアルバム『Promise Eve』にて現在の「IZAM」名義となる。
     AOIとのバンド「[alcali-5](http://www.myspace.com/alcali5)」では「十六夢（いざむ）」名義で活動。
-    活動中はソロデビュー、俳優としても映画『溺れる魚』や[日本テレビのドラマ](../Page/日本テレビ放送網.md "wikilink")「[三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink")」、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のドラマ『[TRICK3](../Page/トリック_\(テレビドラマ\).md "wikilink")』にも出演している。
+    活動中はソロデビュー、俳優としても映画『[溺れる魚](https://ja.wikipedia.org/wiki/溺れる魚#映画 "wikilink")』や[日本テレビのドラマ](../Page/日本テレビ放送網.md "wikilink")『[三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink")』、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のドラマ『[TRICK3](../Page/トリック_\(テレビドラマ\).md "wikilink")』にも出演している。
     妻はタレントの[吉岡美穂](../Page/吉岡美穂.md "wikilink")。元妻はタレント・[モデルの](../Page/モデル_\(職業\).md "wikilink")[吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")。
     解散後も主にタレント・俳優として活動。また恐妻家などで話題となる。
-    デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](../Page/ろみひー.md "wikilink")』出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](../Page/鯖読み.md "wikilink")。
+    デビュー直後からあらゆる場面で、SHAZNAの名前の由来は当初「NIYと好きな英単語を出し合って並べ替えたもの」と発言していたが、『[ろみひー](../Page/ろみひー.md "wikilink")』（[中京テレビ](../Page/中京テレビ放送.md "wikilink")）出演時にIZAMが自身の本名である日根良和（hine yoshikazu）を並べ替えた物であると発言（実際に一致する）。また、この出演時に年齢を4歳[サバを読んでいたこともカミングアウトしている](../Page/鯖読み.md "wikilink")。
 
 <!-- end list -->
 
-  - **AOI**（アオイ - ギター担当。1972年[11月8日](../Page/11月8日.md "wikilink")（歳） - ）
+  - **AOI**（アオイ - [ギター](../Page/ギター.md "wikilink")担当。1972年[11月8日](../Page/11月8日.md "wikilink")（歳） - ）
 
 <!-- end list -->
 
   -
-    本名は**萬 圭介**(よろず けいすけ)。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    本名は**萬 圭介**（よろず けいすけ）。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれの[千葉県](../Page/千葉県.md "wikilink")育ち。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     初期は「A・O・I」名義。活動休止後はソロとして「AOI UNPLUGGED」にてVocal\&A.Guitarによる単独公演を開催。
     ショートフィルム『ガラクタノココロ』を「葵圭介」名義で自主制作。[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")においてグランプリを受賞した。
     SHAZNAに加入する前はオーディションを受けており、ライヴハウスのスタッフの紹介で新宿の[マクドナルド](../Page/マクドナルド.md "wikilink")でメンバーと顔を合わせた。AOIは「僕も下手だから一緒に頑張ろうよ」と言い、SHAZNAに加入した。
     結成当初から1998年末までは長髪がトレードマークだった。[東海大学付属望洋高等学校](https://ja.wikipedia.org/wiki/東海大学付属望洋高等学校 "wikilink")および[東海大学](../Page/東海大学.md "wikilink")では、[PENICILLIN](../Page/PENICILLIN.md "wikilink")のO-JIROと同級生。
-    弟は俳優の[萬雅之](../Page/萬雅之.md "wikilink")、妻は作詞家兼女優の[森本玲](https://ja.wikipedia.org/wiki/森本玲 "wikilink")で間に一女がいる。
-    解散後も「AOI UNPLUGGED」を継続しながら、「[UNWAS](https://ja.wikipedia.org/wiki/UNWAS "wikilink")([2013年](../Page/2013年.md "wikilink")3月付で解散)」のサポートギタリストを経て、R2Y+J（リリィ・ジョーカー）のボーカル兼ギタリストとしても活動。
-    2011年、[大手前大学](../Page/大手前大学.md "wikilink")通信教育課程の大学講師に就任。「音楽とコミュニケーション」を担当。
+    弟は[俳優](../Page/俳優.md "wikilink")の[萬雅之](../Page/萬雅之.md "wikilink")、妻は[作詞家](../Page/作詞家.md "wikilink")兼[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")の[森本玲](https://ja.wikipedia.org/wiki/森本玲 "wikilink")で間に一女がいる。
+    解散後も「AOI UNPLUGGED」を継続しながら、[UNWAS](https://ja.wikipedia.org/wiki/UNWAS "wikilink")（[2013年](../Page/2013年.md "wikilink")3月付で解散）のサポートギタリストを経て、R2Y+J（リリィ・ジョーカー）のボーカル兼ギタリストとしても活動。
+    2011年、[大手前大学](../Page/大手前大学.md "wikilink")[通信教育課程](https://ja.wikipedia.org/wiki/通信教育課程 "wikilink")の大学講師に就任。「音楽とコミュニケーション」を担当。
 
 <!-- end list -->
 
-  - **NIY**（ニー - ベース担当。1972年[10月29日](../Page/10月29日.md "wikilink")（歳） - ）
+  - **NIY**（ニー - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。1972年[10月29日](../Page/10月29日.md "wikilink")（歳） - ）
 
 <!-- end list -->
 
   -
-    本名非公表。東京都出身。血液型はB型。[小松原高等学校](https://ja.wikipedia.org/wiki/小松原高等学校 "wikilink")出身。
+    本名非公表。[東京都](../Page/東京都.md "wikilink")出身。血液型はB型。[小松原高等学校](https://ja.wikipedia.org/wiki/小松原高等学校 "wikilink")出身。
     バンドネームの由来は、結成当初のギタリストであったIZAMの友人の「兄ちゃん」だから。
-    2人兄弟で、A O IがSHAZNAに加入する前は弟がギターを弾いていた。しかしNIYの弟は、音楽性の違いと当時高校に通っていて、単位が取れなくなるとの理由により、結成後すぐに脱退した。
+    2人兄弟で、AOIがSHAZNAに加入する前は弟がギターを弾いていた。しかしNIYの弟は、音楽性の違いと当時高校に通っていて、単位が取れなくなるとの理由により、結成後すぐに脱退した。
     インディーズデビュー直前に一般人女性と結婚。一児を儲けたが、妻の浪費癖等によるトラブルなどで長男が小学生の頃に離婚。長男の親権は妻が持っている\[17\]。
-    活動休止後は「FANBLE」のベーシストとしても活動。解散後は主にエムキチ・ビートにて舞台俳優として活動していた。
+    活動休止後は「FANBLE」のベーシストとしても活動。解散後は主にエムキチ・ビートにて[舞台俳優](https://ja.wikipedia.org/wiki/舞台俳優 "wikilink")として活動していた。
 
 <!-- end list -->
 
@@ -100,38 +100,38 @@
   -
     身長170cm、血液型A\[18\]。2010年に「**Lay**」名義でデビューし、2013年に現在の名前に改名。[エースクルー・エンタテインメント](https://ja.wikipedia.org/wiki/エースクルー・エンタテインメント "wikilink")所属。
     2017年にSHAZNA再始動発表と同時にグループに2ndボーカルとして加入。
-    2018年からはメディアミックスプロジェクト『**BanG Dream\!**』の女性バンド「[RAISE A SUILEN](https://ja.wikipedia.org/wiki/BanG_Dream!#RAISE_A_SUILEN（女性バンドユニット） "wikilink")」のボーカル＆ベースとしても活動しており、2019年からは声優としても参加する。
+    2018年からはメディアミックスプロジェクト『**BanG Dream\!**』の女性バンド「[RAISE A SUILEN](https://ja.wikipedia.org/wiki/BanG_Dream!#RAISE_A_SUILEN（女性バンドユニット） "wikilink")」のボーカル＆ベースとしても活動しており、2019年からは[声優](../Page/声優.md "wikilink")としても参加する。
 
 <!-- end list -->
 
-  - **夏芽**（ナツメ - ドラム担当。7月20日 - ）
+  - **夏芽**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
 
 <!-- end list -->
 
   -
     本名は**松浦 夏芽**（まつうら なつめ）。身長172cm、血液型B\[19\]。SHAZNA加入前はガールズバンド「Claddaph Ring」のメンバーとして活動していた。エースクルー・エンタテインメント所属。
     好きなものは[セーラームーン](https://ja.wikipedia.org/wiki/セーラームーン "wikilink")、[ミニーマウス](../Page/ミニーマウス.md "wikilink")。
-    2018年からはRAYCHELLと共に「RAISE A SUILEN」のドラマーとしても活動しており、2019年からは声優としても参加する。
+    2018年からはRaychellと共に「RAISE A SUILEN」のドラマーとしても活動しており、2019年からは声優としても参加する。
 
 <!-- end list -->
 
-  - **Asuka**（アスカ - サックス担当。4月23日 - ）
+  - **Asuka**（アスカ - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。4月23日 - ）
 
 <!-- end list -->
 
   -
-    本名、身長、血液型は2018年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。モデル、コンパニオンとしても活動している。好きなものはディズニー。IZAMとは誕生日が同じである。
+    本名、身長、血液型は2018年現在非公表。IZAMがプロデュースを務める「東京エロティカルパレード（現在は無期限活動休止中）」のメンバー。[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")、コンパニオンとしても活動している。好きなものは[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")。IZAMとは誕生日が同じである。
 
 ## 元メンバー
 
-  - ドラム:**桂‐KATSURA‐**(カツラ、[9月13日](../Page/9月13日.md "wikilink")- )
+  - **桂‐KATSURA‐**（カツラ - ドラム担当。[9月13日](../Page/9月13日.md "wikilink")- ）
 
 <!-- end list -->
 
   -
-    神奈川県出身。血液型O型。身長161.5cm。
+    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型O型。身長161.5cm。
     インディーズ時代にドラムを担当。当時のメンバーでは唯一のバンド経験者であった。[1996年](../Page/1996年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に発売されたインディーズアルバム『Raspberry Time』を最後にSHAZNAを脱退。翌1997年、[BAISER](../Page/BAISER.md "wikilink")のメンバーとしてメジャーデビューを果たしたが、2000年5月に同バンドは解散。
-    その後はインディーズに戻り、様々なヴィジュアル系バンドを転々とした後、音楽活動を引退。現在は結婚し子供がいる。仕事をしながら野球チームをやっている。
+    その後はインディーズに戻り、様々な[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドを転々とした後、音楽活動を引退。現在は結婚し子供がいる。仕事をしながら野球チームをやっている。
 
 ## ディスコグラフィー
 

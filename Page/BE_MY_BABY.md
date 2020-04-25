@@ -107,7 +107,7 @@ XT10-5036</p></td>
 
 <references />
 
-[Category:COMPLEXの楽曲](https://ja.wikipedia.org/wiki/Category:COMPLEXの楽曲 "wikilink") [Category:布袋寅泰が制作した楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰が制作した楽曲 "wikilink") [Category:1989年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1989年のデビュー・シングル "wikilink") [Category:1989年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:bBのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:bBのコマーシャルソング "wikilink") [Category:シャンプーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:シャンプーのコマーシャルソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:COMPLEXの楽曲](https://ja.wikipedia.org/wiki/Category:COMPLEXの楽曲 "wikilink") [Category:布袋寅泰が制作した楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰が制作した楽曲 "wikilink") [Category:1989年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1989年のデビュー・シングル "wikilink") [Category:1989年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:bBのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:bBのコマーシャルソング "wikilink") [Category:シャンプーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:シャンプーのコマーシャルソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[LISA \(歌手\)](https://ja.wikipedia.org/wiki/LISA_\(歌手\))から翻訳されています。
 
 
-**LISA**（リサ、[1974年](../Page/1974年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")で、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバーである。本名、**成田 エリザベス サクラ**（なりたエリザベスサクラ）。[東京都](../Page/東京都.md "wikilink")出身。[LDH](https://ja.wikipedia.org/wiki/LDH "wikilink")所属。旧名はUNIKAやCHICA COLOMBIANAなど。[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、5枚の[オリジナルアルバムをリリースしている](../Page/アルバム.md "wikilink")。血液型O型。
+**LISA**（リサ、[1974年](../Page/1974年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")で、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバーである。本名、**成田 エリザベス サクラ**（なりたエリザベスサクラ）。[東京都](../Page/東京都.md "wikilink")出身。[LDH所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。旧名はUNIKAやCHICA COLOMBIANAなど。[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")、5枚の[オリジナルアルバムをリリースしている](../Page/アルバム.md "wikilink")。血液型O型。
 
 ## 略歴
 

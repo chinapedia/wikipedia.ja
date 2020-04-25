@@ -23,4 +23,4 @@
   - 製作：[エイベックス](../Page/エイベックス・エンタテインメント.md "wikilink")
   - 配給：[ギャガ](../Page/ギャガ.md "wikilink")
 
-[Category:大阪府を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:大阪府を舞台とした映画作品 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink") [Category:エイベックス・グループの映画作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの映画作品 "wikilink")
+[Category:Janne_Da_Arcの映像作品](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcの映像作品 "wikilink") [Category:大阪府を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:大阪府を舞台とした映画作品 "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink") [Category:エイベックス・グループの映画作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの映画作品 "wikilink")

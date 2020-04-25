@@ -66,7 +66,7 @@
 
   - [C調言葉に御用心](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=4444&cd=VICL-36005&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:1979年のシングル](https://ja.wikipedia.org/wiki/Category:1979年のシングル "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p109
 2.  『guts』、[集英社](../Page/集英社.md "wikilink")、1979年12月発行 p21

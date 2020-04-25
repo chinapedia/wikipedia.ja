@@ -1,7 +1,7 @@
 > この記事は[RECYCLE Greatest Hits of SPITZ](https://ja.wikipedia.org/wiki/RECYCLE_Greatest_Hits_of_SPITZ)から翻訳されています。
 
 
-『**RECYCLE Greatest Hits of SPITZ**』（リサイクル グレイティスト ヒッツ オブ スピッツ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[スピッツの初の](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。初回盤は紙ジャケット仕様。
+『**RECYCLE Greatest Hits of SPITZ**』（リサイクル グレイティスト ヒッツ オブ スピッツ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[スピッツの初の](../Page/スピッツ_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。初回盤は紙ジャケット仕様。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 ## 収録曲
 
 1.  **[君が思い出になる前に](../Page/君が思い出になる前に.md "wikilink") (5:05)**
-    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink")&[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+    作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[笹路正徳](../Page/笹路正徳.md "wikilink")&[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
       -
         7thシングル（1993年10月25日）。
 2.  **[空も飛べるはず](../Page/空も飛べるはず.md "wikilink") (4:30)**

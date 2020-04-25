@@ -45,7 +45,7 @@
 15. **[GUITAR LOVES YOU](../Page/GUITARHYTHM_II.md "wikilink")**
 16. **[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")**
       -
-        CD音源と異なり、布袋によるアコースティック・ギターの弾き語り。
+        原曲と異なり、ピアノ伴奏による歌唱。
 
 ## 参加ミュージシャン
 

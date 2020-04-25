@@ -58,7 +58,7 @@
 
   - **[SUNNOVA](https://ja.wikipedia.org/wiki/SUNNOVA "wikilink")** - [サンプラー](../Page/サンプラー.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
       - [福島県](../Page/福島県.md "wikilink")出身
-      - 本名は田中裕也
+      - 本名は田中裕也（タナカ ヒロヤ）
       - ミュージシャンとしての活動の他に会社員として動画配信オペレーターの仕事もしている。
       - 青木裕が病気による体調不良でライブに出演できない場合に事前に録音された青木裕のギターを同期は使わずサンプラー([Ableton Live](../Page/Ableton_Live.md "wikilink") + [Push](https://ja.wikipedia.org/wiki/Push "wikilink"))を使って再現する為にサポートメンバーとして加入
       - 2018年3月19日 downyワンマンライブ「砂上、燃ユ。残像」@[渋谷WWW Xより参加](https://ja.wikipedia.org/wiki/WWW_\(ライブハウス\) "wikilink")

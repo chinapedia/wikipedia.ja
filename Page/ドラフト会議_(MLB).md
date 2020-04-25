@@ -81,7 +81,7 @@ MLBでは2019年現在、ドラフト指名対象外となる[ドミニカ共和
 
 毎年12月の[ウインターミーティング](https://ja.wikipedia.org/wiki/ウインターミーティング "wikilink")最終日に行われる。MLBの[40人枠](https://ja.wikipedia.org/wiki/ロースター_\(MLB\) "wikilink")（選手登録枠）に空きがあるチームのみ参加可能で、その年の優先権のあるリーグでレギュラーシーズン勝率の低いチームから指名権が与えられる。優先リーグは毎年交互に入れ替わる。
 
-MLB以外では2011年11月、[韓国プロ野球で新球団](https://ja.wikipedia.org/wiki/韓国野球委員会 "wikilink")・[NCダイノス](https://ja.wikipedia.org/wiki/NCダイノス "wikilink")の設立に伴って初めて開催された。
+MLB以外では2011年11月、[韓国プロ野球で新球団](https://ja.wikipedia.org/wiki/韓国野球委員会 "wikilink")・[NCダイノス](https://ja.wikipedia.org/wiki/NCダイノス "wikilink")の設立に伴って初めて開催された。[日本においても](../Page/日本プロ野球.md "wikilink")「[ブレークスルードラフト](../Page/ブレークスルードラフト.md "wikilink")」の名称で実施が検討されている。
 
 制度の悪用による過剰な引き抜きを防止するため、以下の規定がある（2018年現在）\[19\]。
 

@@ -1,7 +1,7 @@
 > この記事は[KAGETORA \(プロレスラー\)](https://ja.wikipedia.org/wiki/KAGETORA_\(プロレスラー\))から翻訳されています。
 
 
-**Kagetora**（カゲトラ、[1982年](../Page/1982年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**橋本 史之**（はしもと ふみゆき）。
+**Kagetora**（カゲトラ、[1982年](../Page/1982年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**橋本 史之**（はしもと ふみゆき）。血液型O型。[DRAGON GATE所属](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
 
 ## 経歴
 
@@ -55,30 +55,38 @@
 
 ## 得意技
 
-  - 車懸
+  - フィニッシュホールド
+    車懸
     相手の左腕を右手で掴みつつ雁之助クラッチの入りのような形で相手を捉え、そこから横回転で相手を頭から叩きつける。
 
   - 車懸・改
-    グラウンドコブラの要領で高速で叩きつける
+    グラウンドコブラの要領で高速で叩きつける。
 
   - 一騎当千
-    ファイヤーマンズキャリーに担いでの変形エメラルドフロウジョン
+    ファイヤーマンズキャリーに担いでの変形[エメラルドフロウジョン](https://ja.wikipedia.org/wiki/エメラルドフロウジョン "wikilink")。
 
-  - 乾坤一擲(けんこんいってき)
-    ファイヤーマンズキャリーに担いでのファイヤーサンダー
+  - その他得意技
+    乾坤一擲(けんこんいってき)
+    ファイヤーマンズキャリーに担いでのファイヤーサンダー。
 
   - 影縫
     [ヒノハカマと同型](https://ja.wikipedia.org/wiki/ツトム・オースギ#得意技 "wikilink")。
 
   - 半月
     薙手
+    [トラース・キック](../Page/トラース・キック.md "wikilink")
+    変形[みちのくドライバー](../Page/みちのくドライバーII.md "wikilink")
+    [張り手](../Page/張り手.md "wikilink")
+    [エルボー](https://ja.wikipedia.org/wiki/エルボー・バット "wikilink")
+    [逆水平チョップ](../Page/手刀打ち.md "wikilink")
+    [低空式ドロップキック](../Page/ドロップキック.md "wikilink")
 
 ## 入場曲
 
   - 初代 : 鳳凰（[六三四Musashi](../Page/六三四Musashi.md "wikilink")）
   - 2代目 : STRIKE STILL ROUNDER（[YO-HEI](https://ja.wikipedia.org/wiki/YO-HEI "wikilink")）
 
-## タイトル歴
+## タイトル履歴
 
   - [東北ジュニアヘビー級王座](../Page/東北ジュニアヘビー級王座.md "wikilink")
   - [東北タッグ王座](../Page/東北タッグ王座.md "wikilink")

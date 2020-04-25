@@ -9,17 +9,15 @@
 
 [2003年](../Page/2003年.md "wikilink")5月11日、メキシコでデビュー。
 
-[2004年](../Page/2004年.md "wikilink")からは様々な覆面レスラーに扮して活動していた。
+[2004年](../Page/2004年.md "wikilink")からは、様々な覆面レスラーに扮して活動、闘龍門X解散後は[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")を主戦場に活動。
 
-現在はSUGIとして活動している。
+海外での活動を視野にみちのくを退団、義経のスタイルを継承しメキシコにて「SUGI」として活動を開始。
+
+[2018年](../Page/2018年.md "wikilink")、ZERO1入団。
 
 ## ファイトスタイル
 
 五次元殺法とも言われる驚異的な身体能力を活かした素早い動きと華麗な空中殺法を得意としている。
-
-## 大麻冤罪事件
-
-[2012年](../Page/2012年.md "wikilink")5月、[メキシコ](../Page/メキシコ.md "wikilink")の[AAAと契約中であったSUGIは](../Page/AAA_\(プロレス\).md "wikilink")、メキシコ遠征中であった[NOSAWA論外](../Page/NOSAWA論外.md "wikilink")と[紫雷イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")に対して、2人を陥れる目的で乾燥大麻を仕込んだ絵を贈る。2人は5月23日に成田空港で大麻取締法違反の現行犯として逮捕拘留され、この件はマスメディアでも大きく報道された。しかし、NOSAWAと紫雷は6月28日付けで不起訴となり、7月10日にSUGIはメキシコで謝罪会見を開き、自らの犯行を自供した。SUGI曰くは、この件はNOSAWAとの金銭等のトラブルに起因し、AAAの日本代表であった林雅弘に論外への報復を相談し、林の指南を受け、林の知人から大麻を入手して今回の犯行を行ったという。（但し、林雅弘は、このSUGIの発言を否定し、SUGIが更なる犯罪行為に手を染めようとしたのを止めたと主張している。）論外と紫雷は完全なる冤罪であり被害者であったが、逮捕の際には大きく取り上げたマスメディアも、冤罪に対する報道はほとんど行わなかった。このことは、2人の人格と名誉を大きく傷つけ、麻薬犯罪者という誤ったレッテルに長きに渡り苦しめられることとなった。また、プロレス界に対しても、計り知れないほどの大きなイメージダウンを招く結果となったのである。SUGIはこの後、AAAより契約解除となり、上記の経歴にもある通り、約4年間活動を休止している。
 
 ## リングネーム
 
@@ -161,6 +159,10 @@
   - [風林火山優勝](https://ja.wikipedia.org/wiki/風林火山_\(ZERO1\) "wikilink")
   - [天下一Jr.](../Page/天下一Jr..md "wikilink")優勝
 
+## 大麻冤罪事件
+
+[2012年](../Page/2012年.md "wikilink")5月、[メキシコ](../Page/メキシコ.md "wikilink")の[AAAと契約中であったSUGIは](../Page/AAA_\(プロレス\).md "wikilink")、メキシコ遠征中であった[NOSAWA論外](../Page/NOSAWA論外.md "wikilink")と[紫雷イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")に対して、2人を陥れる目的で乾燥大麻を仕込んだ絵を贈る。2人は5月23日に成田空港で大麻取締法違反の現行犯として逮捕拘留され、この件はマスメディアでも大きく報道された。しかし、NOSAWAと紫雷は6月28日付けで不起訴となり、7月10日にSUGIはメキシコで謝罪会見を開き、自らの犯行を自供した。SUGI曰くは、この件はNOSAWAとの金銭等のトラブルに起因し、AAAの日本代表であった林雅弘に論外への報復を相談し、林の指南を受け、林の知人から大麻を入手して今回の犯行を行ったという。（但し、林雅弘は、このSUGIの発言を否定し、SUGIが更なる犯罪行為に手を染めようとしたのを止めたと主張している。）論外と紫雷は完全なる冤罪であり被害者であったが、逮捕の際には大きく取り上げたマスメディアも、冤罪に対する報道はほとんど行わなかった。このことは、2人の人格と名誉を大きく傷つけ、麻薬犯罪者という誤ったレッテルに長きに渡り苦しめられることとなった。また、プロレス界に対しても、計り知れないほどの大きなイメージダウンを招く結果となったのである。SUGIはこの後、AAAより契約解除となり、上記の経歴にもある通り、約4年間活動を休止している。
+
 ## 脚注
 
 ## 外部リンク
@@ -172,5 +174,5 @@
 
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:みちのくプロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:みちのくプロレスに所属したプロレスラー "wikilink") [Category:AAAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:AAAに参戦したプロレスラー "wikilink") [Category:エルドラド](https://ja.wikipedia.org/wiki/Category:エルドラド "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  この形式は、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")だけでは年間の試合数が足りず、[プロレスリングElDoradoと並行して試合数を増やしていくという意図である](../Page/プロレスリング・エルドラド.md "wikilink")。一部のElDorado所属選手も、この形式で活動していた。
+1.  この形式は、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")だけでは年間の試合数が少ないため、[プロレスリングElDoradoと並行して試合数を増やしていくという意図である](../Page/プロレスリング・エルドラド.md "wikilink")。一部のElDorado所属選手も、この形式で活動していた。ただし"義経"としてはみちのくプロレス所属で管轄のため、他団体の参戦は少ない。
 2.  『[週刊プロレス](../Page/週刊プロレス.md "wikilink")』NO.1996 2019年2月13日号 p.125

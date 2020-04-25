@@ -100,6 +100,10 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
       - WindowsPC 全年齢DVD-ROM版ゲーム：2020年6月26日発売
 
+  - Heaven Burns Red
+
+      - スマートフォンゲーム配信 配信日未定：2021年予定
+
 ## コンシューマ機移植作品一覧
 
   - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")
@@ -184,20 +188,125 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 
 リトルバスターズ\!は[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")、Rewriteは[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")、planetarian 〜ちいさなほしのゆめ〜は[david productionで制作](https://ja.wikipedia.org/wiki/david_production "wikilink")。アニメオリジナル作品であるAngel Beats\!とCharlotteはいずれも[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")で制作された。
 
-| 作品                                                                                          | 放送局                                      | 放送開始日                                        | アニメーション制作                                                                     | 備考                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")                                                | [フジテレビ系列](../Page/フジテレビ系列.md "wikilink") | 2002年1月31日                                   | [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")               | \[12\]                                                                                                                                                                                       |
-| [BS-i](../Page/BS-TBS.md "wikilink")                                                        | 2006年10月5日                               | [京都アニメーション](../Page/京都アニメーション.md "wikilink") | BS-i限定でTVアニメーション放映開始。\[13\]                                                   |                                                                                                                                                                                              |
-| [AIR](../Page/AIR_\(ゲーム\).md "wikilink")                                                    | BS-i                                     | 2005年1月7日                                    | 京都アニメーション                                                                     | BS-i限定でTVアニメーション放映開始。\[14\]                                                                                                                                                                  |
-| 劇場版                                                                                         | 2005年2月5日                                | 東映アニメーション                                    | \[15\]                                                                        |                                                                                                                                                                                              |
-| [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")                         | 劇場版                                      | 2007年9月15日                                   | 東映アニメーション                                                                     |                                                                                                                                                                                              |
-| [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")                        | 2007年10月4日                               | 京都アニメーション                                    | \[16\]                                                                        |                                                                                                                                                                                              |
-| [Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")                      | TBS系列                                    | 2010年4月2日                                    | [P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")               | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[17\]                                                                                                                                                              |
-| [リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")                                               | 独立局                                      | 2012年10月6日                                   | [J.C.STAFF](https://ja.wikipedia.org/wiki/J.C.STAFF "wikilink")               | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[テレビ愛知](../Page/テレビ愛知.md "wikilink")にて放送。\[18\] |
-| [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")                     | 独立局                                      | 2015年7月5日                                    | P.A.WORKS                                                                     | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[19\]                                                                                                                                                              |
-| [Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")                         | 独立局                                      | 2016年7月3日                                    | [エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")                     | \[20\]                                                                                                                                                                                       |
-| [planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜 "wikilink") | [ネット配信](../Page/ネット配信.md "wikilink")     | 2016年7月7日                                    | [david production](https://ja.wikipedia.org/wiki/david_production "wikilink") | TV放送ではなく、ニコニコ動画等で配信される。                                                                                                                                                                      |
-| 劇場版                                                                                         | 2016年9月3日                                | david production                             | \[21\]                                                                        |                                                                                                                                                                                              |
+<table>
+<thead>
+<tr class="header">
+<th><p>作品</p></th>
+<th><p>放送局</p></th>
+<th><p>放送開始日</p></th>
+<th><p>アニメーション制作</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/Kanon_(ゲーム).md" title="wikilink">Kanon</a></p></td>
+<td><p><a href="../Page/フジテレビ系列.md" title="wikilink">フジテレビ系列</a></p></td>
+<td><p>2002年1月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東映アニメーション" title="wikilink">東映アニメーション</a></p></td>
+<td><p>[12]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/BS-TBS.md" title="wikilink">BS-i</a></p></td>
+<td><p>2006年10月5日</p></td>
+<td><p><a href="../Page/京都アニメーション.md" title="wikilink">京都アニメーション</a></p></td>
+<td><p>BS-i限定でTVアニメーション放映開始。[13]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AIR_(ゲーム).md" title="wikilink">AIR</a></p></td>
+<td><p>BS-i</p></td>
+<td><p>2005年1月7日</p></td>
+<td><p>京都アニメーション</p></td>
+<td><p>BS-i限定でTVアニメーション放映開始。[14]</p></td>
+</tr>
+<tr class="even">
+<td><p>劇場版</p></td>
+<td><p>2005年2月5日</p></td>
+<td><p>東映アニメーション</p></td>
+<td><p>[15]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/CLANNAD_(ゲーム)" title="wikilink">CLANNAD</a></p></td>
+<td><p>劇場版</p></td>
+<td><p>2007年9月15日</p></td>
+<td><p>東映アニメーション</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p>2007年10月4日</p></td>
+<td><p>京都アニメーション</p></td>
+<td><p>[16]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CLANNAD 〜AFTER STORY〜</p></td>
+<td><p>2008年10月2日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Angel_Beats!" title="wikilink">Angel Beats!</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>2010年4月2日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/P.A.WORKS" title="wikilink">P.A.WORKS</a></p></td>
+<td><p>麻枝准が原作と全話の脚本を手掛けるオリジナル作品。[17]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/リトルバスターズ!.md" title="wikilink">リトルバスターズ!</a></p></td>
+<td><p>独立局</p></td>
+<td><p>2012年10月6日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a></p></td>
+<td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a>、<a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a>、<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>、<a href="../Page/テレビ愛知.md" title="wikilink">テレビ愛知</a>にて放送。[18]</p></td>
+</tr>
+<tr class="even">
+<td><p>リトルバスターズ! 〜Refrain〜</p></td>
+<td><p>2013年10月5日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Charlotte_(アニメ)" title="wikilink">Charlotte</a></p></td>
+<td><p>独立局</p></td>
+<td><p>2015年7月5日</p></td>
+<td><p>P.A.WORKS</p></td>
+<td><p>麻枝准が原作と全話の脚本を手掛けるオリジナル作品。[19]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Rewrite_(ゲーム)" title="wikilink">Rewrite</a></p></td>
+<td><p>独立局</p></td>
+<td><p>2016年7月2日（1期）<br />
+2017年1月14日（2期）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エイトビット" title="wikilink">エイトビット</a></p></td>
+<td><p>[20]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜" title="wikilink">planetarian 〜ちいさなほしのゆめ〜</a></p></td>
+<td><p><a href="../Page/ネット配信.md" title="wikilink">ネット配信</a></p></td>
+<td><p>2016年7月7日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/david_production" title="wikilink">david production</a></p></td>
+<td><p>TV放送ではなく、ニコニコ動画等で配信される。</p></td>
+</tr>
+<tr class="even">
+<td><p>planetarian 〜星の人〜</p></td>
+<td><p>劇場版</p></td>
+<td><p>2016年9月3日</p></td>
+<td><p>david production</p></td>
+<td><p>[21]</p></td>
+</tr>
+</tbody>
+</table>
+
+  - アニメ化予定
+
+<!-- end list -->
+
+  - クドわふたー
+  - planetarian外伝 雪圏球（スノーグローブ）
 
 ## 主要な制作スタッフ
 

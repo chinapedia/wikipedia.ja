@@ -56,7 +56,7 @@ LIVE活動においては交友のある[m-flo](https://ja.wikipedia.org/wiki/m-
 
 ## 外部リンク
 
-  - [TAKA公式Blog](http://ameblo.jp/takamc)
+  - [TAKA公式Blog](https://ameblo.jp/takamc)
   - [TAKA 公式Twitter](https://twitter.com/takamc29)
   - [TAKA 公式instagram](http://instagram.com/takamc29)
 

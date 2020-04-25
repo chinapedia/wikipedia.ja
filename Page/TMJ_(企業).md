@@ -1,7 +1,7 @@
 > この記事は[TMJ \(企業\)](https://ja.wikipedia.org/wiki/TMJ_\(企業\))から翻訳されています。
 
 
-**株式会社TMJ**（英称：*TMJ, Inc*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")より1992年に分社独立した[テレマーケティング](../Page/テレマーケティング.md "wikilink")[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")である。2017年より[セコム](../Page/セコム.md "wikilink")の100%子会社となり、セコムグループの1社となる。
+**株式会社TMJ**（英称：*TMJ, Inc*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")より1992年に分社独立した[総合BPOサービス](https://ja.wikipedia.org/wiki/総合BPOサービス "wikilink")[事業会社](https://ja.wikipedia.org/wiki/事業会社 "wikilink")である。2017年より[セコム](../Page/セコム.md "wikilink")の100%子会社となり、セコムグループの1社となる。
 
 ## 概要
 
@@ -57,6 +57,7 @@
   - 札幌第3センター
   - 札幌第4センター
   - 西新宿センター
+  - みなとみらいセンター（横浜市）
   - 岐阜サテライトオフィス
   - 岡山センター
   - 北九州センター

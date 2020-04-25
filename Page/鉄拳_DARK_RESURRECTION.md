@@ -1,11 +1,11 @@
 > この記事は[鉄拳 DARK RESURRECTION](https://ja.wikipedia.org/wiki/鉄拳_DARK_RESURRECTION)から翻訳されています。
 
 
-『**鉄拳 DARK RESURRECTION**』（てっけんダーク・リザレクション）は、[2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のナムコブランドより発売された[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用の対戦格闘ゲーム。『**鉄拳DR**』と略される。[アーケードの](../Page/アーケードゲーム.md "wikilink")[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")である『[鉄拳5 DARK RESURRECTION](https://ja.wikipedia.org/wiki/鉄拳5_DARK_RESURRECTION "wikilink")』のPSP移殖版だが、様々な追加要素が施されている。[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")には「PSP The BEST」として廉価版が発売された。
+『**鉄拳 DARK RESURRECTION**』（てっけんダーク・リザレクション）は、[2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のナムコブランドより発売された[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用の対戦格闘ゲーム。『**鉄拳DR**』と略される。[アーケードの](../Page/アーケードゲーム.md "wikilink")[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")である『[鉄拳5 DARK RESURRECTION](https://ja.wikipedia.org/wiki/鉄拳5_DARK_RESURRECTION "wikilink")』のPSP移植版だが、様々な追加要素が施されている。[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")には「PSP The BEST」として廉価版が発売された。
 
 ## 概要
 
-『鉄拳5 DARK RESSURECTION』の初の移殖版にして[PlayStation Portable初の鉄拳シリーズであり](../Page/PlayStation_Portable.md "wikilink")、携帯型ゲーム機としてでは『鉄拳アドバンス』から約5年振りとなる。タイトルの「ダーク・リザレクション」（闇の復活）を意味するかのようにパッケージイラストはデビル仁がメインで新キャラのリリとドラグノフが描かれている。
+『鉄拳5 DARK RESSURECTION』の初の移植版にして[PlayStation Portable初の鉄拳シリーズであり](../Page/PlayStation_Portable.md "wikilink")、携帯型ゲーム機としてでは『鉄拳アドバンス』から約5年振りとなる。タイトルの「ダーク・リザレクション」（闇の復活）を意味するかのようにパッケージイラストはデビル仁がメインで新キャラのリリとドラグノフが描かれている。
 
 携帯機初の鉄拳は[GBAの](../Page/ゲームボーイアドバンス.md "wikilink")『鉄拳アドバンス』だが、GBA版が取り込み画像による2Dグラフィックだったのに対し、携帯機で初のフル3Dの鉄拳を実現している。PS2版にあったムービーが全て収録されているほか、新たにリリ、ドラグノフ、アーマーキング用のストーリーやムービー、新たなオープニングも描き起こされている。
 

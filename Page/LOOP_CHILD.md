@@ -281,12 +281,13 @@
 
 ### ラジオ
 
-| 放送局                                                           | 番組名                      | 放送時間                                    |
-| ------------------------------------------------------------- | ------------------------ | --------------------------------------- |
-| [K-MIX](../Page/静岡エフエム放送.md "wikilink")                       | **おとなたちの音楽**\[2\] - 柴野のみ | 日曜日21:30 - 22:00\[3\]                   |
-| K-MIX                                                         | **LOOP CHILDの緑音**        | 2010年7月3日 - 2011年3月26日・土曜日19:30 - 20:00 |
-| [FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink") | **HAPPY LOOP\!N**        | 木曜日23:00 - 23:30                        |
-|                                                               |                          |                                         |
+| 放送局                                                           | 番組名                            | 放送時間                                    |
+| ------------------------------------------------------------- | ------------------------------ | --------------------------------------- |
+| [K-MIX](../Page/静岡エフエム放送.md "wikilink")                       | **おとなたちの音楽**\[2\] - 柴野のみ       | 日曜日21:30 - 22:00\[3\]                   |
+| K-MIX                                                         | **LOOP CHILDの緑音**              | 2010年7月3日 - 2011年3月26日・土曜日19:30 - 20:00 |
+| [FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink") | **HAPPY LOOP\!N**              | 木曜日23:00 - 23:30                        |
+| [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")         | **LOOP CHILD しばまりの100%つながるーぷ** | 2020年4月3日 - ・金曜日20:00 - 20:30           |
+|                                                               |                                |                                         |
 
 ## その他
 
@@ -348,7 +349,7 @@
 ## 外部リンク
 
   - [LOOP CHILDオフィシャルWEB](http://www.loopchild.com/)
-  - [LOOP CHILDオフィシャルブログ「LOOP CHILDの輪」 Powered by アメブロ](http://ameblo.jp/shibano-mariko/)
+  - [LOOP CHILDオフィシャルブログ「LOOP CHILDの輪」 Powered by アメブロ](https://ameblo.jp/shibano-mariko/)
   - [Imperial RecordsオフィシャルWEB](http://www.teichiku.co.jp/artist/loopchild/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

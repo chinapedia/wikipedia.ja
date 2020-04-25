@@ -7,7 +7,7 @@
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:STVホール.jpeg "wikilink")
 
-  - 所在地：[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区北](../Page/中央区_\(札幌市\).md "wikilink")1条西8丁目1番地1
+  - 所在地：[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")[北1条西8丁目](https://ja.wikipedia.org/wiki/北○条西_\(札幌市\) "wikilink")1番地1
   - アクセス：[札幌市営地下鉄東西線](https://ja.wikipedia.org/wiki/札幌市営地下鉄東西線 "wikilink")・[西11丁目駅](../Page/西11丁目駅.md "wikilink")から徒歩約5分
 
 北海道内の放送局では唯一のホールスタジオとして、1971年に現・放送会館落成とともに開設された。観客席が468席設けられており、テレビや[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の番組収録をはじめ、映画試写会やライブ、イベント等が行われる。かつては北海道では数少ない定例の[寄席](../Page/寄席.md "wikilink")（STVホール名人会）も開催していた。

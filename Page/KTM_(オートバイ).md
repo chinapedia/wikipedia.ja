@@ -7,7 +7,7 @@
 
 [thumb|エンデューロ・レーサー KTM 350 EXC-F SIXDAYS |250x250ピクセル](https://ja.wikipedia.org/wiki/ファイル:KTM_350_EXC-F.JPG "wikilink") 長年オフロードバイクを得意とするメーカーとして活動しており、同社のオフロード車は[モトクロス世界選手権](../Page/モトクロス世界選手権.md "wikilink")や[ダカール・ラリー](../Page/ダカール・ラリー.md "wikilink")、AMAスーパークロスなどで好成績を収めてきた。そのため性能も高く評価されている。オフロードバイクメーカーとして有名であるが、創業当初より[ロードスポーツバイクも製造している](../Page/スーパースポーツ.md "wikilink")。また別会社で[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")や[スポーツカー](../Page/スポーツカー.md "wikilink")の製作も行っている。
 
-[2019年現在](../Page/2015年.md "wikilink")、オーストリアのピエラ・インダストリーズの傘下で、[インド](../Page/インド.md "wikilink")の[バジャージ・オート](https://ja.wikipedia.org/wiki/バジャージ・オート "wikilink")が大株主である。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のオートバイメーカー[ハスクバーナ・モーターサイクル](https://ja.wikipedia.org/wiki/ハスクバーナ・モーターサイクル "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[WPサスペンション](https://ja.wikipedia.org/wiki/WPサスペンション "wikilink")はKTMグループの傘下にある。
+2019年現在、オーストリアのピエラ・インダストリーズの傘下で、[インド](../Page/インド.md "wikilink")の[バジャージ・オート](https://ja.wikipedia.org/wiki/バジャージ・オート "wikilink")が大株主である。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のオートバイメーカー[ハスクバーナ・モーターサイクル](https://ja.wikipedia.org/wiki/ハスクバーナ・モーターサイクル "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[WPサスペンション](https://ja.wikipedia.org/wiki/WPサスペンション "wikilink")はKTMグループの傘下にある。
 
 日本国内ではオートバイは現地法人となるKTMジャパン\[2\]、自転車は株式会社和田商会\[3\]が取り扱っている。
 
@@ -83,7 +83,7 @@ KTM公式チームのチームカラーは[オレンジ](https://ja.wikipedia.or
 
 ## 外部リンク
 
-  - [KTMジャパン株式会社](http://www.ktm-japan.co.jp)
+  - [KTMジャパン株式会社](http://www.ktm-japan.co.jp/)
   - [KTM International website](http://www.ktm.com/)
   - [KTM BIKE INDUSTRIES](http://www.ktm-bikes.at/) - 自転車部門
 

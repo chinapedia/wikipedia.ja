@@ -115,7 +115,7 @@
 ## カバー
 
   - 黒人女性3人組のSISTER Kが、小室作品カバー・アルバム『DEPERTURES』（[1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売）でカバーしている。
-  - [スピッツが](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")1999年に、[ファンクラブ](../Page/ファンクラブ.md "wikilink")会員限定ライヴ「go\!go\!scandinavia」を行った際の、お土産デモテープの中で「スピッツのアイムプラウド」としてカバーしている。
+  - [スピッツが](../Page/スピッツ_\(バンド\).md "wikilink")1999年に、[ファンクラブ](../Page/ファンクラブ.md "wikilink")会員限定ライヴ「go\!go\!scandinavia」を行った際の、お土産デモテープの中で「スピッツのアイムプラウド」としてカバーしている。
   - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身で小室プロデュースとしてデビューした女性歌手[Ringが](../Page/Ring_\(歌手\).md "wikilink")、自身のアルバム『TEEN'S RING』（1999年[7月22日](../Page/7月22日.md "wikilink")発売）で「I'm proud」（Mandarin Language Version）をカバーしている。
   - [HONDALADY](../Page/HONDALADY.md "wikilink")・[FARMSTAY](https://ja.wikipedia.org/wiki/FARMSTAY "wikilink")・[航空電子](../Page/航空電子.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")3バンドが「I'm Proud EP」として同時カバーし、色違いのシングルとして[2006年](../Page/2006年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に同時発売している。
   - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")も[1996年](../Page/1996年.md "wikilink")に発売された「TK[替え歌メドレー](https://ja.wikipedia.org/wiki/替え歌メドレー "wikilink")2」の中で、「[天ぷらうどん](https://ja.wikipedia.org/wiki/うどん#天ぷらうどん "wikilink")」を主体とした替え歌で歌っている。
@@ -127,7 +127,7 @@
 
   - 発売日が[B'z](../Page/B'z.md "wikilink")の「[ミエナイチカラ ～INVISIBLE ONE～/MOVE](https://ja.wikipedia.org/wiki/ミエナイチカラ_～INVISIBLE_ONE～/MOVE "wikilink")」と重なったため、初動セールス争いでは敗れオリコン1位獲得は逃したが、年間累計セールスでは同曲を上回った。
   - 華原の大ファンであった[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")は、[ホリプロタレントスカウトキャラバン](../Page/ホリプロタレントスカウトキャラバン.md "wikilink")・オーディションでこの曲を歌ってグランプリを獲得し、芸能界入りを果たした。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")は2004年10月の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")SP』で、自身が選ぶ思い出に残るラブソングとして「I'm proud」を挙げている。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")は2004年10月の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")SP』で、自身が選ぶ思い出に残るラブソングとして「I'm proud」を挙げている。
   - [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")は、当時この曲をカラオケで歌っており、偶然その歌声を聴いていた音楽関係者の推薦を経て、覆面歌手SISTER M（ [坂本龍一](../Page/坂本龍一.md "wikilink")の娘）としてデビューを果たした。
 
 ## 脚注

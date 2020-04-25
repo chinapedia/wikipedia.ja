@@ -457,7 +457,7 @@
 
   -
     土屋のモノマネレパートリーが多く「[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")」、「[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")」、[BEAT SHUFFLEパーソナリティの](https://ja.wikipedia.org/wiki/BEAT_SHUFFLE "wikilink")「[浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")」、[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の「山さん」、[アフラック](https://ja.wikipedia.org/wiki/アフラック "wikilink")CMの「アフラックダック」、「[ミッキー](../Page/ミッキー.md "wikilink")」、「電車の車掌アナウンス」、「[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")」、「[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")」などある。その他にもお笑い芸人などもモノマネをする。
-    澤はレパートリーが少ないもののレベルが高い。「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")」、[WEEKLY NACK5のパーソナリティー](https://ja.wikipedia.org/wiki/WEEKLY_NACK5 "wikilink")「[遠近由美子](../Page/遠近由美子.md "wikilink")」、「[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")」、DreamCaravanリポーター「[棚橋麻衣](../Page/棚橋麻衣.md "wikilink")」など。
+    澤はレパートリーが少ないもののレベルが高い。「[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")」、[WEEKLY NACK5のパーソナリティー](https://ja.wikipedia.org/wiki/WEEKLY_NACK5 "wikilink")「[遠近由美子](../Page/遠近由美子.md "wikilink")」、「[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")」、DreamCaravanリポーター「[棚橋麻衣](../Page/棚橋麻衣.md "wikilink")」など。
 
 <!-- end list -->
 
@@ -622,7 +622,7 @@ NACK5全体で2ヶ月に1度行われ、2週間続く。当番組でも以前ま
 ## 外部リンク
 
   - [NACK5](http://www.nack5.co.jp)（NACK5 公式ページ）
-  - [ラジオDJ 澤美代子のオンエアーライフ](http://ameblo.jp/miyoko-sawa-diary/)
+  - [ラジオDJ 澤美代子のオンエアーライフ](https://ameblo.jp/miyoko-sawa-diary/)
 
 [Category:NACK5の帯番組](https://ja.wikipedia.org/wiki/Category:NACK5の帯番組 "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink")
 

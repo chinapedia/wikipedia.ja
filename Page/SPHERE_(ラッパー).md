@@ -320,7 +320,7 @@
 
 ## 外部リンク
 
-  - [SPHERE of INFLUENCE オフィシャルブログ「JUS CRUISIN'」](http://ameblo.jp/sphere-of-influence/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [SPHERE of INFLUENCE オフィシャルブログ「JUS CRUISIN'」](https://ameblo.jp/sphere-of-influence/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
 [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

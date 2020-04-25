@@ -15,9 +15,9 @@
 
 1997年までは、東京でJapan Developers Conferenceも開催されていた\[9\]\[10\]。
 
-macOSやiOSの新バージョンが発表される初日朝の基調講演が注目を浴びるが、ソフトウェア技術セッションやLabが主である。2008年から2010年にかけて基調講演でiPhoneの発表も行われていたが、2011年以降はiOSのハードウェアは発表されず、iOS新バージョンの発表及びベータ版リリースを行い、秋に行うイベントでiOS完成版及び新型iPhoneなどを投入している。
+[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[iOSの新バージョンが発表される初日朝の基調講演が注目を浴びるが](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、ソフトウェア技術セッションやLabが主である。2008年から2010年にかけて基調講演で[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")の発表も行われていたが、[2011年](../Page/2011年.md "wikilink")以降はiOSのハードウェアは発表されず、iOS新バージョンの発表及びベータ版リリースを行い、秋に行うイベントでiOS完成版及び新型iPhoneなどを投入している。
 
-2013年までWWDCの中で唯一の公開となっていた基調講演は、主題であるmacOSやiOS関連以外にも大きな発表がある場合が多く、大きな注目を集める。主なハードウェア発表は以下の通り。
+[2013年](../Page/2013年.md "wikilink")までWWDCの中で唯一の公開となっていた基調講演は、主題であるmacOSやiOS関連以外にも大きな発表がある場合が多く、大きな注目を集める。主なハードウェア発表は以下の通り。
 
   - 1998年 - ボンダイブルー [iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")
   - 2002年 - [Xserve](../Page/Xserve.md "wikilink")
@@ -42,7 +42,7 @@ macOSやiOSの新バージョンが発表される初日朝の基調講演が注
 
 <references/>
 
-17.https://jp.techcrunch.com/2019/06/07/video-article-wwdc-2019/
+17\. <https://jp.techcrunch.com/2019/06/07/video-article-wwdc-2019/>
 
 ## 関連項目
 

@@ -374,7 +374,7 @@
 3.  [ほころび](https://ja.wikipedia.org/wiki/箒星_\(曲\)#収録曲 "wikilink")
 4.  [Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")
 5.  [終わりなき旅](../Page/終わりなき旅.md "wikilink")
-6.  [Worlds end](https://ja.wikipedia.org/wiki/IラブU#収録曲 "wikilink")
+6.  [Worlds end](https://ja.wikipedia.org/wiki/I_LOVE_U#収録曲 "wikilink")
 7.  [箒星](../Page/箒星_\(曲\).md "wikilink")
 
 <!-- end list -->
@@ -385,7 +385,7 @@
 <!-- end list -->
 
   - **桑田佳祐・[桜井和寿](../Page/桜井和寿.md "wikilink")**
-      - [奇跡の地球](../Page/奇跡の地球.md "wikilink")(ほし) ([桑田佳祐\&Mr.Children](../Page/桑田佳祐&Mr.Children.md "wikilink"))
+      - [奇跡の{{Ruby](../Page/奇跡の地球.md "wikilink")（[桑田佳祐 & Mr.Children](../Page/桑田佳祐&Mr.Children.md "wikilink")）
 
 <!-- end list -->
 

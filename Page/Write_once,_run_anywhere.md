@@ -18,5 +18,6 @@ Java開発者は次のようなジョークを飛ばすことがある: 「\<一
 ## 関連項目
 
   - [Javaコンパイラ](../Page/Javaコンパイラ.md "wikilink")
+  - [Write once, compile anywhere](https://ja.wikipedia.org/wiki/Write_once,_compile_anywhere "wikilink")
 
-[Category:Java](https://ja.wikipedia.org/wiki/Category:Java "wikilink") [Category:プログラミングパラダイム](https://ja.wikipedia.org/wiki/Category:プログラミングパラダイム "wikilink")
+[Category:Java](https://ja.wikipedia.org/wiki/Category:Java "wikilink") [Category:プログラミングパラダイム](https://ja.wikipedia.org/wiki/Category:プログラミングパラダイム "wikilink") [Category:プログラミング・フォークロア](https://ja.wikipedia.org/wiki/Category:プログラミング・フォークロア "wikilink") [Category:ソフトウェア工学のフォークロア](https://ja.wikipedia.org/wiki/Category:ソフトウェア工学のフォークロア "wikilink")

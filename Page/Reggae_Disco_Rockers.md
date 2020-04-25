@@ -393,7 +393,7 @@
 
 <!-- end list -->
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / Don't look back (Reggae Disco Rockers remix)
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") / Don't look back (Reggae Disco Rockers remix)
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") / 一番奇麗な私を (Reggae Disco Rockers remix)
   - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink") / 母性本能ってやつ (Reggae Disco Rockers remix)
   - [sweetbox](https://ja.wikipedia.org/wiki/sweetbox "wikilink") / A WHOLE NEW WORLD (Reggae Disco Rockers remix)

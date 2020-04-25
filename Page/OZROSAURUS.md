@@ -680,7 +680,7 @@
   -
   -
   -
-  - [OZROSAURUS オフィシャルブログ](http://ameblo.jp/ozrosaurus-blog) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [OZROSAURUS オフィシャルブログ](https://ameblo.jp/ozrosaurus-blog) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   - [OZROSAURUS](http://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 

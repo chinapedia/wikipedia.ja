@@ -105,7 +105,7 @@
   - 9月29日 [ユニバーサル機完全解析 パチスロシミュレーター](https://ja.wikipedia.org/wiki/ユニバーサル機完全解析_パチスロシミュレーター "wikilink")（[ヒューマン](../Page/ヒューマン_\(ゲーム会社\).md "wikilink")）
   - 9月29日 [出たなツインビーヤッホー\! DELUXE PACK](../Page/出たなツインビーヤッホー!_DELUXE_PACK.md "wikilink")（コナミ）
   - 9月29日 [キング オブ ボウリング](https://ja.wikipedia.org/wiki/キング_オブ_ボウリング "wikilink")（[ココナッツジャパン](https://ja.wikipedia.org/wiki/ココナッツジャパン "wikilink")）●
-  - 9月29日 [闘魂烈伝 新日本プロレスリング](https://ja.wikipedia.org/wiki/闘魂烈伝_新日本プロレスリング "wikilink")（[トミー](../Page/トミー_\(企業\).md "wikilink")）
+  - 9月29日 [闘魂烈伝 新日本プロレスリング](https://ja.wikipedia.org/wiki/新日本プロレスリング闘魂烈伝 "wikilink")（[トミー](../Page/トミー_\(企業\).md "wikilink")）
   - 9月29日 [プライムゴール Jリーグサッカー](https://ja.wikipedia.org/wiki/プライムゴール "wikilink")EX（ナムコ）●
   - 9月29日 [対局将棋 極](https://ja.wikipedia.org/wiki/対局将棋_極 "wikilink")（[ログ](https://ja.wikipedia.org/wiki/ログ "wikilink")）
   - 9月29日 [ハーミィホッパーヘッド 〜スクラップパニック〜](https://ja.wikipedia.org/wiki/ハーミィホッパーヘッド_〜スクラップパニック〜 "wikilink")（ソニー・コンピュータエンタテインメント）

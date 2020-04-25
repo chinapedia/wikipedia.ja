@@ -1,7 +1,7 @@
 > この記事は[ガキンチョ★ROCK](https://ja.wikipedia.org/wiki/ガキンチョ★ROCK)から翻訳されています。
 
 
-『**ガキンチョ★ROCK**』（ガキンチョロック）は、[ロザン](../Page/ロザン.md "wikilink")、[キングコング初主演の](../Page/キングコング_\(お笑いコンビ\).md "wikilink")[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。 [東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")NCFリージョナル・フィルム参加作品。「**[夢](../Page/夢.md "wikilink")や[音楽](../Page/音楽.md "wikilink")じゃお腹はふくれへんけどな、[心](../Page/心.md "wikilink")はふくれるんじゃ**」がキャッチフレーズ。
+『**ガキンチョ★ROCK**』（ガキンチョロック）は、[ロザン](../Page/ロザン.md "wikilink")、[キングコング初主演の](../Page/キングコング_\(お笑いコンビ\).md "wikilink")[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。 [東京国際映画祭](../Page/東京国際映画祭.md "wikilink")NCFリージョナル・フィルム参加作品。「**[夢](../Page/夢.md "wikilink")や[音楽](../Page/音楽.md "wikilink")じゃお腹はふくれへんけどな、[心](../Page/心.md "wikilink")はふくれるんじゃ**」がキャッチフレーズ。
 
 ## ストーリー
 

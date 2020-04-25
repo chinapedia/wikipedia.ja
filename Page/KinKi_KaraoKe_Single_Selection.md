@@ -28,7 +28,7 @@
 3.  **[ジェットコースター・ロマンス](../Page/ジェットコースター・ロマンス.md "wikilink")**
     (作曲:山下達郎　編曲:船山基紀)
 4.  **[全部だきしめて](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")**
-    (作曲:[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink"))
+    (作曲:[吉田拓郎](../Page/吉田拓郎.md "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink"))
 5.  **[青の時代](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代#収録曲 "wikilink")**
     (作曲:[canna](https://ja.wikipedia.org/wiki/Canna_\(音楽グループ\) "wikilink")　編曲:[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink"))
 6.  **[Happy Happy Greeting](https://ja.wikipedia.org/wiki/Happy_Happy_Greeting/シンデレラ・クリスマス "wikilink")**

@@ -11,7 +11,7 @@
   - 華原は「小室さんと私がこの先も2人で、曲を作っていく未来への気持ちを込めた曲」と話している\[3\]。
   - 1996年1月中旬頃（発売から3か月強）に出荷枚数が100万枚を突破。当時華原が所属していた[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")にとっても初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")である\[4\]。
   - [オリコン調べによると](../Page/オリコンチャート.md "wikilink")、初登場は7位だったが売れ続け、年末の最優秀新人賞などを総なめにした。特に年末から年明けにかけては売り上げが再浮上して最高4位を記録、半年後の翌年3月には自身初のミリオンセラー作品となった。
-  - この曲で、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』などの音楽番組に初登場した。デビュー曲「[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")」に引き続き、[椛島永次が振付を担当した](../Page/KABA.ちゃん.md "wikilink")。当時PVも大量に放送されたため、PVの翼を広げるような振りは渋谷などの若者に振りをせがまれたという。
+  - この曲で、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』などの音楽番組に初登場した。デビュー曲「[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")」に引き続き、[椛島永次が振付を担当した](../Page/KABA.ちゃん.md "wikilink")。当時PVも大量に放送されたため、PVの翼を広げるような振りは渋谷などの若者に振りをせがまれたという。
   - このシングルの売り上げの一部は、[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")の救済援助金に充てられた。
   - [1999年](../Page/1999年.md "wikilink")に発売した初のベスト盤『[kahala compilation](https://ja.wikipedia.org/wiki/kahala_compilation "wikilink")』に収録されている同曲はシングルと微妙にアレンジや構成が異なる別バージョンである。
   - [2004年](../Page/2004年.md "wikilink")に発売した「[あなたがいれば](../Page/あなたがいれば.md "wikilink")」のカップリング曲では、リメイク・バージョン「I BELIEVE 2004」が収録されている。
@@ -135,7 +135,7 @@
 
   - 壮大な雪山をバックにした崖上のセットで歌う[PVは](../Page/ミュージック・ビデオ.md "wikilink")、スタジオで撮影され、雪には塩を使っている。
   - 元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")は、モーニング娘。の[オーディション](../Page/オーディション.md "wikilink")でこの曲を歌った。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")が、2004年10月の『ミュージックステーションSP』で、究極のラブソングBEST100に「I BELIEVE」がランクインした際に“印象深い曲”として触れ、「カラオケでキーの高い朋ちゃんの曲を全部歌えると“あっ、やった\!”という気分になる」と、コメントしていた。ちなみに、浜崎自身は思い出に残るラブソングとして「I'm proud」を挙げていた。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が、2004年10月の『ミュージックステーションSP』で、究極のラブソングBEST100に「I BELIEVE」がランクインした際に“印象深い曲”として触れ、「カラオケでキーの高い朋ちゃんの曲を全部歌えると“あっ、やった\!”という気分になる」と、コメントしていた。ちなみに、浜崎自身は思い出に残るラブソングとして「I'm proud」を挙げていた。
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が著書「罪と音楽」の中で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")逮捕時の取り調べで担当検事から「I Believeは名曲ですよ」と言われたエピソードを述べている。
   - [マツコデラックス](https://ja.wikipedia.org/wiki/マツコデラックス "wikilink")が華原朋美の楽曲の中で一番好きな楽曲だという。
 

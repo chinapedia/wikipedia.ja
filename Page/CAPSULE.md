@@ -1,7 +1,7 @@
 > この記事は[CAPSULE](https://ja.wikipedia.org/wiki/CAPSULE)から翻訳されています。
 
 
-**CAPSULE**（カプセル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2001年](../Page/2001年.md "wikilink")にメジャーデビュー。
+**CAPSULE**（カプセル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")にメジャーデビュー。
 
 ## メンバー
 

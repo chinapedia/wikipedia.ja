@@ -37,4 +37,4 @@
 <!-- end list -->
 
   - [NOMOベースボールクラブ](../Page/NOMOベースボールクラブ.md "wikilink")（NOMO Baseball Club） - [大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")の[社会人野球](../Page/社会人野球.md "wikilink")チーム。
-  - [ナショナル・バスケットボール・カンファレンス](https://ja.wikipedia.org/wiki/ナショナル・バスケットボール・カンファレンス "wikilink")（National Basketball Conference） - [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグ。
+  - [ナショナル・バスケットボール・カンファレンス](../Page/ナショナル・バスケットボール・カンファレンス.md "wikilink")（National Basketball Conference） - [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグ。

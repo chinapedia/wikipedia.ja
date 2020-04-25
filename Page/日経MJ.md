@@ -1,7 +1,7 @@
 > この記事は[日経MJ](https://ja.wikipedia.org/wiki/日経MJ)から翻訳されています。
 
 
-『**日経MJ**』（にっけいエムジェイ、Nikkei Marketing Journal）は、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")が発行している消費と流通、マーケティング情報に特化した専門紙。
+『**日経MJ**』（にっけいエムジェイ、Nikkei Marketing Journal）は、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")が発行している消費と流通、マーケティング情報に特化した[専門紙](../Page/専門紙.md "wikilink")。
 
 ## 概要
 

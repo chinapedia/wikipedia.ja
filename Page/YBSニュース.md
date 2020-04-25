@@ -23,9 +23,11 @@
 
 年末年始など特別番組が放送されるときには『YBSワイドニュース』と差し替えて放送することがある。この場合にはライブカメラの映像を合成せず、報道スタジオからニュースを伝える。また、天気予報も放送する。過去には修学旅行の安否情報も扱っていた。このパターンでは5分の枠で放送することが多いが、2007年12月27日は18:20から10分の枠で放送された。
 
-ニュースによっては、当日放送されたニュースを『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』や『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』、『[真相報道バンキシャ\!](https://ja.wikipedia.org/wiki/真相報道バンキシャ! "wikilink")』、『[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")』などでも放送されることがある。
+ニュースによっては、当日放送されたニュースを『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』や『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』、『[真相報道バンキシャ\!](https://ja.wikipedia.org/wiki/真相報道バンキシャ! "wikilink")』、『[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")』などでも放送されることがある。
 
 この番組の旧タイトルである「山日YBSニュース」は、山梨放送本社（[山梨文化会館](../Page/山梨文化会館.md "wikilink")）に設置されている電光掲示板で流されているニュースのタイトルでもある。山梨放送のWebサイトで流されているフラッシュニュースと同じ内容のものが流されている。
+
+番組進行はYBSアナウンサーが持ち回りで担当。ただ、[依田智子](../Page/依田智子.md "wikilink")および[YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")を担当するキャスターは緊急ニュースや選挙関連のニュースを除き基本的に担当しない。
 
 ## 放送時間
 
@@ -33,19 +35,6 @@
   - 土曜 17:20 - 17:30
   - 火曜 - 土曜 20:54 - 21:00（前後の番組によって時間移動や休止の場合あり）
   - 日曜 17:20 - 17:25頃（『[山梨スピリッツ](https://ja.wikipedia.org/wiki/山梨スピリッツ "wikilink")』内）
-
-## キャスター
-
-YBSアナウンサーが持ち回りで担当。ただ、[依田智子](../Page/依田智子.md "wikilink")と[YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")のキャスターである[酒井康宜](../Page/酒井康宜.md "wikilink")と[水越千尋](https://ja.wikipedia.org/wiki/水越千尋 "wikilink")は緊急ニュースや選挙関連のニュースを除き基本的に担当しない。
-
-  - [和泉義治](https://ja.wikipedia.org/wiki/和泉義治 "wikilink")
-  - [櫻井和明](../Page/櫻井和明.md "wikilink")
-  - [村上幸政](https://ja.wikipedia.org/wiki/村上幸政 "wikilink")
-  - [吉岡秀樹](../Page/吉岡秀樹.md "wikilink")
-  - [海野紀恵](../Page/海野紀恵.md "wikilink")
-  - [小松千絵](https://ja.wikipedia.org/wiki/小松千絵 "wikilink")
-  - [三浦実夏](https://ja.wikipedia.org/wiki/三浦実夏 "wikilink")
-  - [森田絵美](https://ja.wikipedia.org/wiki/森田絵美 "wikilink")
 
 ## 関連項目
 

@@ -1556,17 +1556,6 @@ with JLOC CORSA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2009年のル・マン24時間レース" title="wikilink">2009年</a></p></td>
 <td><p>JAPAN LAMBORGHINI OWNERS CLUB</p></td>
 <td><p>68</p></td>
@@ -1579,7 +1568,7 @@ with JLOC CORSA</p></td>
 <td><p>DNF</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年のル・マン24時間レース" title="wikilink">2010年</a></p></td>
 <td><p>JLOC</p></td>
 <td><p>69</p></td>

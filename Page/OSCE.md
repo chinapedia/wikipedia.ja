@@ -9,9 +9,9 @@
 
 医学部のOSCEは医療面接、胸部診察、腹部診察、神経診察、救急、頭頚部診察、[バイタルサイン](../Page/バイタルサイン.md "wikilink")等\[10\]、歯学部のOSCEは、医療面接、口腔内診査、診断、[テンポラリー・クラウン](https://ja.wikipedia.org/wiki/テンポラリー・クラウン "wikilink")の作成、バイタルサイン等\[11\]、獣医学部のOSCEは臨床面接、小動物身体検査、大動物身体検査、無菌操作または皮膚融合、薬学部のOSCEは患者・来局者応対、各種薬剤の調製、無菌操作、情報の提供等が課題として出される\[12\]\[13\]。
 
-これら6年制の学部ではOSCEとCBT（両者で共用試験）の受験が制度化されており、例えば医学部であればどこの医学部でも受験時期がやや前後するものの医学OSCEと医学CBTに合格しなければならない。
+これら6年制の学部ではOSCEとCBT（両者で[共用試験](https://ja.wikipedia.org/wiki/共用試験 "wikilink")）の受験が制度化されており、例えば医学部であればどこの医学部でも受験時期がやや前後するものの医学OSCEと医学CBTに合格しなければならない。
 
-[2013年](../Page/2013年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")、全国医学部長病院長会議が記者会見をし、CBT、OSCEを合格した学生に「学生医」を付与すると発表\[14\]。[2014年](../Page/2014年.md "wikilink")より医学部生に対して、学生医カードの交付が開始された。
+[2013年](../Page/2013年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")、全国医学部長病院長会議が記者会見をし、[共用試験](https://ja.wikipedia.org/wiki/共用試験 "wikilink")を合格した学生に「学生医」を付与すると発表\[14\]。[2014年](../Page/2014年.md "wikilink")から医学部生に対して、学生医カードの交付が開始された。
 
 6年制の学部以外では、学内試験、学内実習などにOSCE形式を取り入れている大学がある。看護学科([札幌市立大学](https://ja.wikipedia.org/wiki/札幌市立大学 "wikilink")、[茨城県立医療大学](../Page/茨城県立医療大学.md "wikilink")、[共立女子大学](../Page/共立女子大学.md "wikilink")など：[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink"))や栄養学科([城西大学](../Page/城西大学.md "wikilink")、[東京医療保健大学](../Page/東京医療保健大学.md "wikilink")など：[管理栄養士](../Page/管理栄養士.md "wikilink"))、放射線学科（首都大学東京）
 
@@ -39,8 +39,8 @@
 7.
 8.
 9.
-10. [医療系大学間共用試験実施評価機構 - 学習・評価項目 - 医学系](http://www.cato.umin.jp/02/1001igaku_hyouka.html)
-11. [医療系大学間共用試験実施評価機構 - 学習・評価項目 - 歯学系](http://www.cato.umin.jp/02/1002sigaku_hyouka.html)
+10. [共用試験OSCE資料](http://www.cato.umin.jp/osce.html)
+11.
 12.
 13. [薬学共用試験センター - OSCE概要](http://www.phcat.or.jp/?page_id=356)
 14.

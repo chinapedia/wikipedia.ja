@@ -1,7 +1,7 @@
 > この記事は[Sons](https://ja.wikipedia.org/wiki/Sons)から翻訳されています。
 
 
-『**Sons**』（サンズ ムーン・ライティング・シリーズ）は[三原順](../Page/三原順.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。『[ムーン・ライティング](../Page/ムーン・ライティング.md "wikilink")シリーズ』の主人公D.D.とトマスの少年時代を描いた作品。『[花ゆめEpo](https://ja.wikipedia.org/wiki/花ゆめEpo "wikilink")』誌にて[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで連載された。単行本は[白泉社](../Page/白泉社.md "wikilink")[ジェッツコミックス](https://ja.wikipedia.org/wiki/ジェッツコミックス "wikilink")より全7巻。[1999年](../Page/1999年.md "wikilink")以降は[白泉社](../Page/白泉社.md "wikilink")文庫全4巻として刊行されている。
+『**Sons**』（サンズ ムーン・ライティング・シリーズ）は[三原順](../Page/三原順.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](../Page/作品.md "wikilink")。『[ムーン・ライティング](../Page/ムーン・ライティング.md "wikilink")シリーズ』の主人公D.D.とトマスの少年時代を描いた作品。『[花ゆめEpo](https://ja.wikipedia.org/wiki/花ゆめEpo "wikilink")』誌にて[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで連載された。単行本は[白泉社](../Page/白泉社.md "wikilink")[ジェッツコミックス](https://ja.wikipedia.org/wiki/ジェッツコミックス "wikilink")より全7巻。[1999年](../Page/1999年.md "wikilink")以降は[白泉社](../Page/白泉社.md "wikilink")文庫全4巻として刊行されている。
 
 ## 概要
 

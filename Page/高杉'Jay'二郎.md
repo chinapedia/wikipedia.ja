@@ -19,7 +19,7 @@
 
 現在の専門は[Xゲーム](https://ja.wikipedia.org/wiki/Xゲーム "wikilink")系の実況\[6\]、[プロレス](../Page/プロレス.md "wikilink")、[ボクシング](../Page/ボクシング.md "wikilink")などスポーツDJ分野。[スノーボード](../Page/スノーボード.md "wikilink")のニッポンオープンなどビッグ大会のDJも担当している。
 
-[2004年](../Page/2004年.md "wikilink")より2018年まで[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")のメイン[スタジアムDJ](../Page/スタジアムDJ.md "wikilink")も行っていた。\[7\]。[日韓ワールドカップなどで国際AマッチのDJも担当](../Page/2002_FIFAワールドカップ.md "wikilink")、高円宮杯U-15サッカー大会などでもDJを務めている。\[8\]。
+[2004年](../Page/2004年.md "wikilink")より2018年まで[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")のメイン[スタジアムDJ](../Page/スタジアムDJ.md "wikilink")も行っていた\[7\]。[日韓ワールドカップなどで国際AマッチのDJも担当](../Page/2002_FIFAワールドカップ.md "wikilink")、高円宮杯U-15サッカー大会などでもDJを務めている\[8\]。
 
 [2009年](../Page/2009年.md "wikilink")4月から『[PUMP UP RADIO](https://ja.wikipedia.org/wiki/PUMP_UP_RADIO "wikilink")』 (FM-FUJI) 木曜日担当になるとともに、長年に渡った東京での生活に終わりを告げ、[山梨県](../Page/山梨県.md "wikilink")にIターンし、現在は山梨から東京に通う生活を送っている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より山梨県から「やまなし大使」に任命され山梨の良さを県外に伝えている。
 
@@ -37,7 +37,7 @@
 
 2014年秋からは山梨県から社会教育委員に任命され、その任に当たる。
 
-[テレビ山梨](../Page/テレビ山梨.md "wikilink")で2016年1月-2020年3月放送の「[ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")」および2018年10月開始の「みなみおばちゃんの6丁目ガッチリ金曜日」では、**高杉の遠縁という設定**の「**みなみおばちゃん**」がレギュラー出演している\[10\]\[11\]\[12\]。
+[テレビ山梨](../Page/テレビ山梨.md "wikilink")で2016年1月-2020年3月放送の「[ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")」および2018年10月開始の「みなみおばちゃんの6丁目ガッチリ金曜日」では、**高杉の遠縁という設定**の「**みなみおばちゃん**」がレギュラー出演している\[10\]\[11\]\[12\]。「ウッティタウン」の後番組「[スゴろく](../Page/スゴろく.md "wikilink")」では高杉本人がコメンテーターとして出演\[13\]。
 
 スポーツクライミングの場内MCとしてアジア選手権、ワールドカップ、世界選手権、国体などのビッグな大会で活躍、現在、「スポーツクライミングの実況といえば高杉」となっている。
 
@@ -47,12 +47,12 @@
 
   - [ヨシモトムチッ子物語](../Page/ヨシモトムチッ子物語.md "wikilink")（1998年） - ヤマザキゴキブリ
   - [こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")（2000年） - 外国人
-  - [遊☆戯☆王デュエルモンスターズ](../Page/遊☆戯☆王デュエルモンスターズ.md "wikilink")（2000年） - [ペガサス・J・クロフォード](../Page/ペガサス・J・クロフォード.md "wikilink")\[13\]
+  - [遊☆戯☆王デュエルモンスターズ](../Page/遊☆戯☆王デュエルモンスターズ.md "wikilink")（2000年） - [ペガサス・J・クロフォード](../Page/ペガサス・J・クロフォード.md "wikilink")\[14\]
   - [遊☆戯☆王デュエルモンスターズGX](../Page/遊☆戯☆王デュエルモンスターズGX.md "wikilink")（2004年） - ペガサス・J・クロフォード
 
 ### 劇場アニメ
 
-  - [下駄とジャズ](https://ja.wikipedia.org/wiki/下駄とジャズ "wikilink")（1992年）\[14\]
+  - [下駄とジャズ](https://ja.wikipedia.org/wiki/下駄とジャズ "wikilink")（1992年）\[15\]
   - [遊☆戯☆王デュエルモンスターズ 光のピラミッド](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズ_光のピラミッド "wikilink")（2004年） - ペガサス・J・クロフォード
   - [10thアニバーサリー 劇場版 遊☆戯☆王 〜超融合\!時空を越えた絆〜](https://ja.wikipedia.org/wiki/10thアニバーサリー_劇場版_遊☆戯☆王_〜超融合!時空を越えた絆〜 "wikilink")（2010年） - ペガサス・J・クロフォード
 
@@ -65,8 +65,8 @@
 ### ラジオ
 
   - [MAGICAL SNOWLAND](https://ja.wikipedia.org/wiki/MAGICAL_SNOWLAND "wikilink")（日曜日 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月、[NACK5](../Page/エフエムナックファイブ.md "wikilink")）※高杉二郎名義
-  - [エモーショナル・ビート](https://ja.wikipedia.org/wiki/エモーショナル・ビート "wikilink")（1998年、[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[15\]\[16\]
-  - [TOKYO BAY MORING](https://ja.wikipedia.org/wiki/TOKYO_BAY_MORING "wikilink")（木曜日 [2001年](../Page/2001年.md "wikilink") - [2002年](../Page/2002年.md "wikilink")、[bayfm](../Page/ベイエフエム.md "wikilink")）\[17\]
+  - [エモーショナル・ビート](https://ja.wikipedia.org/wiki/エモーショナル・ビート "wikilink")（1998年、[TOKYO FM](../Page/エフエム東京.md "wikilink")）\[16\]\[17\]
+  - [TOKYO BAY MORING](https://ja.wikipedia.org/wiki/TOKYO_BAY_MORING "wikilink")（木曜日 [2001年](../Page/2001年.md "wikilink") - [2002年](../Page/2002年.md "wikilink")、[bayfm](../Page/ベイエフエム.md "wikilink")）\[18\]
 
 <!-- end list -->
 
@@ -75,37 +75,38 @@
 
 <!-- end list -->
 
-  - [MOZAIKU NIGHT](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT "wikilink")（月曜日 2001年 - 2003年、bayfm）\[18\]
-  - [BAY LINE 7300](../Page/BAY_LINE_7300.md "wikilink")（金曜日 2002年 - 2003年、bayfm）\[19\]
-  - ☆[RADIO-izm](../Page/RADIO-izm.md "wikilink")（月曜日 2003年 - 2005年、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）\[20\]※「POWER STUDIO FROM FUJI」へ移動
-  - ☆[POWER STUDIO FROM FUJI](https://ja.wikipedia.org/wiki/POWER_STUDIO_FROM_FUJI "wikilink")（月・火曜日 2005年4月 - 2009年3月、FM-FUJI）\[21\]※番組終了後「PUMP UP RADIO」初代木曜担当へ
-  - [NACK5 SATURDAY\&SUNDAY LIONS](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（2004年 - 2005年、NACK5）\[22\]
-  - ☆[げんこつRADIO SHOW\!](https://ja.wikipedia.org/wiki/げんこつRADIO_SHOW! "wikilink")（土曜日 [2005年](../Page/2005年.md "wikilink")10月 - [2014年](../Page/2014年.md "wikilink")3月、[FM PORT](../Page/新潟県民エフエム放送.md "wikilink")）\[23\]
+  - [MOZAIKU NIGHT](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT "wikilink")（月曜日 2001年 - 2003年、bayfm）\[19\]
+  - [BAY LINE 7300](../Page/BAY_LINE_7300.md "wikilink")（金曜日 2002年 - 2003年、bayfm）\[20\]
+  - ☆[RADIO-izm](../Page/RADIO-izm.md "wikilink")（月曜日 2003年 - 2005年、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）\[21\]※「POWER STUDIO FROM FUJI」へ移動
+  - ☆[POWER STUDIO FROM FUJI](https://ja.wikipedia.org/wiki/POWER_STUDIO_FROM_FUJI "wikilink")（月・火曜日 2005年4月 - 2009年3月、FM-FUJI）\[22\]※番組終了後「PUMP UP RADIO」初代木曜担当へ
+  - [NACK5 SATURDAY\&SUNDAY LIONS](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（2004年 - 2005年、NACK5）\[23\]
+  - ☆[げんこつRADIO SHOW\!](https://ja.wikipedia.org/wiki/げんこつRADIO_SHOW! "wikilink")（土曜日 [2005年](../Page/2005年.md "wikilink")10月 - [2014年](../Page/2014年.md "wikilink")3月、[FM PORT](../Page/新潟県民エフエム放送.md "wikilink")）\[24\]
   - ☆[PUMP UP RADIO](https://ja.wikipedia.org/wiki/PUMP_UP_RADIO "wikilink")（木曜日 2009年 - 、FUJITSU）
   - ☆[GOOD DAY](https://ja.wikipedia.org/wiki/GOOD_DAY_\(ラジオ番組\) "wikilink") SUMMER SPECIAL〜RESORT NAVIGATION 富士吉田方面レポーター(FM-FUJI/2010年7月30日)
 
 ### テレビ
 
-  - [ナイトinナイト](../Page/ナイトinナイト.md "wikilink")\[24\]
-  - [土曜ドラマ (NHK)](../Page/土曜ドラマ_\(NHK\).md "wikilink")「[米田家の行方](https://ja.wikipedia.org/wiki/米田家の行方 "wikilink")」主演（[1994年](../Page/1994年.md "wikilink")）日本放送愛好者協会賞受賞\[25\]\[26\]
-  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink")（[1999年](../Page/1999年.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）DJ、ナレーション\[27\]\[28\]
-  - [真夜中の王国](https://ja.wikipedia.org/wiki/真夜中の王国 "wikilink")（1999年、[NHK-BS2](https://ja.wikipedia.org/wiki/NHK-BS2 "wikilink")）ナビゲーター\[29\]
-  - [ジョビれば?](https://ja.wikipedia.org/wiki/ジョビれば? "wikilink")（1999年、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）英語ナレーション\[30\]
-  - [すれすれガレッジセール](https://ja.wikipedia.org/wiki/すれすれガレッジセール "wikilink") (2000年、[TBS](../Page/TBSテレビ.md "wikilink")) ナレーション\[31\]
+  - [ナイトinナイト](../Page/ナイトinナイト.md "wikilink")\[25\]
+  - [土曜ドラマ (NHK)](../Page/土曜ドラマ_\(NHK\).md "wikilink")「[米田家の行方](https://ja.wikipedia.org/wiki/米田家の行方 "wikilink")」主演（[1994年](../Page/1994年.md "wikilink")）日本放送愛好者協会賞受賞\[26\]\[27\]
+  - [わらいのじかん](https://ja.wikipedia.org/wiki/わらいのじかん "wikilink")（[1999年](../Page/1999年.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）DJ、ナレーション\[28\]\[29\]
+  - [真夜中の王国](https://ja.wikipedia.org/wiki/真夜中の王国 "wikilink")（1999年、[NHK-BS2](https://ja.wikipedia.org/wiki/NHK-BS2 "wikilink")）ナビゲーター\[30\]
+  - [ジョビれば?](https://ja.wikipedia.org/wiki/ジョビれば? "wikilink")（1999年、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）英語ナレーション\[31\]
+  - [すれすれガレッジセール](https://ja.wikipedia.org/wiki/すれすれガレッジセール "wikilink") (2000年、[TBS](../Page/TBSテレビ.md "wikilink")) ナレーション\[32\]
   - [はねるのトびら](../Page/はねるのトびら.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")/[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）スペシャル企画[北陽](../Page/北陽.md "wikilink")[虻川美穂子](../Page/虻川美穂子.md "wikilink")の[ガチンコ](../Page/ガチンコ.md "wikilink")ボクシング対決、世界第5位の[女子ボクシング](../Page/女子ボクシング.md "wikilink")選手[ステファニー・ダブス](https://ja.wikipedia.org/wiki/ステファニー・ダブス "wikilink")の[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")。
   - [つながりファンタジー いつも\!ガリゲル](https://ja.wikipedia.org/wiki/つながりファンタジー_いつも!ガリゲル "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）ナレーション
-  - [ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")」（2016年1月 - 2020年3月、[テレビ山梨](../Page/テレビ山梨.md "wikilink")）
+  - [ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")（2016年1月 - 2020年3月、[テレビ山梨](../Page/テレビ山梨.md "wikilink")）
   - [みなみおばちゃんの6丁目ガッチリ金曜日](https://ja.wikipedia.org/wiki/ウッティタウン6丁目#関連番組 "wikilink")（2018年10月 -、テレビ山梨）
+  - [スゴろく](../Page/スゴろく.md "wikilink")（2020年4月 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")）コメンテーター
 
 ### 実況
 
-  - [西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink") Baseball DJ（1994年 - 1996年）\[32\]
-  - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink") スタジアムDJ（2000年）\[33\]
-  - [SXB](../Page/フライデーナイトファイト.md "wikilink")（隔週月曜 2001年 - 、 [J sports ESPN](https://ja.wikipedia.org/wiki/J_sports_ESPN "wikilink")）\[34\]
-  - [2002 FIFAワールドカップ](../Page/2002_FIFAワールドカップ.md "wikilink") デンマーク vs チュニジア\[35\]
+  - [西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink") Baseball DJ（1994年 - 1996年）\[33\]
+  - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink") スタジアムDJ（2000年）\[34\]
+  - [SXB](../Page/フライデーナイトファイト.md "wikilink")（隔週月曜 2001年 - 、 [J sports ESPN](https://ja.wikipedia.org/wiki/J_sports_ESPN "wikilink")）\[35\]
+  - [2002 FIFAワールドカップ](../Page/2002_FIFAワールドカップ.md "wikilink") デンマーク vs チュニジア\[36\]
   - TTRスノーボードツアー ([GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink"))
-  - プロレス[LLPW](https://ja.wikipedia.org/wiki/LLPW "wikilink")（2004年 - 、）\[36\]
-  - [ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink") スタジアムDJ（2004年 - 2018年）\[37\]
+  - プロレス[LLPW](https://ja.wikipedia.org/wiki/LLPW "wikilink")（2004年 - 、）\[37\]
+  - [ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink") スタジアムDJ（2004年 - 2018年）\[38\]
   - バスケットボール天皇杯皇后杯　場内DJ
   - Wリーグ女子バスケットボール　山梨クィーンビーズ　場内DJ
   - ラグビー　クリーンファイターズ山梨　　スタジアムＤＪ
@@ -146,8 +147,8 @@
 9.  [二郎さん富士山頂で奉納落語 三枝さん直弟子、やまなし大使 23日、ネット中継も](http://www.sannichi.co.jp/local/news/2012/07/13/10.html) - [山梨日日新聞](../Page/山梨日日新聞.md "wikilink") WEB版 (2012年7月13日)
 10. [ウッティタウン6丁目 | UTYテレビ山梨](http://www.uty.co.jp/uttytown/)
 11. [みなみおばちゃん(@minamiobachan)さん | Twitter](https://twitter.com/minamiobachan)
-12. 吉本興業サイト内の[高杉本人のプロフィール](https://profile.yoshimoto.co.jp/talent/detail?id=3138)では、高杉の出演として扱っている。
-13.
+12. なお、吉本興業サイト内の[高杉本人のプロフィール](https://profile.yoshimoto.co.jp/talent/detail?id=3138)では、高杉の出演として扱っている。
+13. [高杉'Jay'二郎(三枝亭二郎)のTwitter 2020年4月2日投稿分](https://twitter.com/SmileMessenger/status/1245684910091714560)より。
 14.
 15.
 16.
@@ -167,8 +168,9 @@
 30.
 31.
 32.
-33.  FC東京 (2000年3月19日)
-34.
+33.
+34.  FC東京 (2000年3月19日)
 35.
 36.
 37.
+38.

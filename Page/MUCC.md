@@ -666,7 +666,7 @@ MSHN-058:カセット</p></td>
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>
-<td><p>2020年5月20日</p></td>
+<td><p>2020年6月10日</p></td>
 <td><p><strong>惡</strong></p></td>
 <td><p>MSHN-076:朱ゥノ吐VIP会員限定受注生産盤<br />
 MSHN-077～8:初回生産限定盤<br />

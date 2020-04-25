@@ -205,7 +205,7 @@ L.A.Angel、HbG等も含む。
 ## 外部リンク
 
   - [chakuchaku J.bオフィシャルブログ](https://ameblo.jp/chakuchaku-jb)
-  - [chakuchaku J.b応援日記](http://d.hatena.ne.jp/chakuchakuJb/)
+  - [chakuchaku J.b応援日記](https://chakuchakujb.hatenadiary.org/)
   - [chakuchaku J.b Fan Club](http://www2.odn.ne.jp/hirocafe/Jbclub/)
 
 [Category:芸能人女子フットサルチーム](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサルチーム "wikilink")

@@ -44,7 +44,7 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 
 ### アクセス
 
-  - [JR](../Page/西日本旅客鉄道.md "wikilink")[可部線](https://ja.wikipedia.org/wiki/可部線 "wikilink")[下祇園駅](../Page/下祇園駅.md "wikilink")より徒歩3分
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[可部線](../Page/可部線.md "wikilink")[下祇園駅](../Page/下祇園駅.md "wikilink")より徒歩3分
   - [広島交通](../Page/広島交通.md "wikilink")中祇園バス停より徒歩1分
   - 広島交通・[広電バス](../Page/広電バス.md "wikilink")今津バス停より徒歩5分
 

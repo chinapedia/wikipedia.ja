@@ -258,7 +258,7 @@
 
   - [坂東武露愚](http://blog.bandohracing.com/) / [坂東マサ（坂東正明代表の長男）によるRACING](../Page/坂東正敬.md "wikilink") PROJECT BANDOH公式ブログ(2008年末まで)
 
-  - [坂東武露愚第3章](http://ameblo.jp/bandoh19/) / 現在のブログ
+  - [坂東武露愚第3章](https://ameblo.jp/bandoh19/) / 現在のブログ
 
   -
 [Category:日本のレーシングチーム](https://ja.wikipedia.org/wiki/Category:日本のレーシングチーム "wikilink") [Category:町田市の企業](https://ja.wikipedia.org/wiki/Category:町田市の企業 "wikilink") [Category:1990年設立の企業](https://ja.wikipedia.org/wiki/Category:1990年設立の企業 "wikilink")

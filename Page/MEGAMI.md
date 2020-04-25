@@ -54,6 +54,4 @@
 
 ## 外部リンク
 
-  - [名和桜](http://nawa.sakura.ne.jp/) - パッチ関連
-
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")

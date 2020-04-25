@@ -96,7 +96,7 @@
   - [LPGAツアーチャンピオンシップ リコーカップ](https://www.lpga.or.jp/ricohcup/) （日本女子プロゴルフ協会による大会公式サイト）
   - [LPGAツアーチャンピオンシップ リコーカップ](http://www.ricoh.co.jp/LPGA/index.html) （株式会社リコー）
 
-[Category:JLPGAツアー](https://ja.wikipedia.org/wiki/Category:JLPGAツアー "wikilink") [Category:宮崎市のスポーツ](https://ja.wikipedia.org/wiki/Category:宮崎市のスポーツ "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:日本テレビのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:日本テレビのイベント・キャンペーン "wikilink") [Category:リコー](https://ja.wikipedia.org/wiki/Category:リコー "wikilink") [Category:明治_(企業)の歴史](https://ja.wikipedia.org/wiki/Category:明治_\(企業\)の歴史 "wikilink") [Category:1979年開始のイベント](https://ja.wikipedia.org/wiki/Category:1979年開始のイベント "wikilink")
+[Category:JLPGAツアー](https://ja.wikipedia.org/wiki/Category:JLPGAツアー "wikilink") [Category:宮崎市のスポーツ](https://ja.wikipedia.org/wiki/Category:宮崎市のスポーツ "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:日本テレビのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:日本テレビのイベント・キャンペーン "wikilink") [Category:リコー](https://ja.wikipedia.org/wiki/Category:リコー "wikilink") [Category:明治_(企業)の歴史](https://ja.wikipedia.org/wiki/Category:明治_\(企業\)の歴史 "wikilink") [Category:1979年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1979年開始のスポーツイベント "wikilink")
 
 1.
 2.  過去には[読売テレビや](../Page/讀賣テレビ放送.md "wikilink")[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")、[くまもと県民テレビでもネットしていた](../Page/熊本県民テレビ.md "wikilink")。

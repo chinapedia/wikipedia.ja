@@ -1,7 +1,7 @@
 > この記事は[ガイキング LEGEND OF DAIKU-MARYU](https://ja.wikipedia.org/wiki/ガイキング_LEGEND_OF_DAIKU-MARYU)から翻訳されています。
 
 
-『**ガイキング LEGEND OF DAIKU-MARYU**』（ガイキング レジェンド オブ ダイクウマリュウ）は、[2005年](../Page/2005年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")において放送された[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。「**ガイキングL.O.D.**」や「**ガイキングLOD**」等（いずれも発音は「**ガイキング エル・オー・ディー**」）と略称される。制作は[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。2006年4月からは[BS朝日などで放送開始](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（詳細なデータは[別項を参照の事](https://ja.wikipedia.org/wiki/#放送局 "wikilink")）。
+『**ガイキング LEGEND OF DAIKU-MARYU**』（ガイキング レジェンド オブ ダイクウマリュウ）は、[2005年](../Page/2005年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")において放送された[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。「**ガイキングL.O.D.**」や「**ガイキングLOD**」等（いずれも発音は「**ガイキング エル・オー・ディー**」）と略称される。制作は[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。2006年4月からは[BS朝日などで放送開始](../Page/ビーエス朝日.md "wikilink")（詳細なデータは[別項を参照の事](https://ja.wikipedia.org/wiki/#放送局 "wikilink")）。
 
 かつて東映アニメーション（当時社名は[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が制作したロボットアニメ『[大空魔竜ガイキング](../Page/大空魔竜ガイキング.md "wikilink")』を原典とし、主役メカであるガイキングと大空魔竜、一部のキャラクター名称以外、人物、世界観、ストーリーを一新した完全オリジナル作品となっている。
 
@@ -1243,7 +1243,7 @@
 日曜 6:30 - 7:00（#14 - #39）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/1月21日.md" title="wikilink">1月21日</a></p></td>
 <td><p>火曜 19:00 - 19:30（#1 - #31）<br />
 日曜 16:30 - 17:00（#32 - #39）</p></td>

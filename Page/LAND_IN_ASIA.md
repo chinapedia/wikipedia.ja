@@ -1,13 +1,13 @@
 > この記事は[LAND IN ASIA](https://ja.wikipedia.org/wiki/LAND_IN_ASIA)から翻訳されています。
 
 
-『**LAND IN ASIA**』（ランド イン エイジア）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のアジア地区限定の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のレコード会社(Cinepoly/Polygram)が共同で発売。
+『**LAND IN ASIA**』（ランド・イン・エイジア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[アジア](../Page/アジア.md "wikilink")地区限定の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")と[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のレコード会社 (Cinepoly/Polygram)より共同で発売された。
 
 ## 概要
 
-Mr.Childrenのアジアライブを記念して、香港や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")など一部のアジア地域で限定発売された公式の初のベスト・アルバム。しかし、香港のレコード会社との契約問題や著作権の関係からすぐに廃盤となっている。日本では未発売。
+[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[アジア](../Page/アジア.md "wikilink")ライブを記念して、香港や[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")など一部のアジア地域で限定発売された公式の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。しかし、香港のレコード会社との契約問題や著作権の関係からすぐに廃盤となっている。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では未発売。
 
-初回盤・通常盤ともに紙製スリーブケース入りで、初回盤はメンバー4人の写真がジャケットになっており、通常盤は封筒のようなデザイン。トイズファクトリーの旧ロゴマークが入っている作品でもある。
+初回盤・通常盤ともに紙製スリーブケース入りで、初回盤はメンバー4人の写真がジャケットになっており、通常盤は封筒のようなデザイン。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")の旧ロゴマークが入っている作品でもある。
 
 パッケージ裏の曲一覧のローマ字が違ってる点が多い。
 
@@ -15,40 +15,40 @@ Mr.Childrenのアジアライブを記念して、香港や[台湾](https://ja.w
 
 ## 収録曲
 
-1.  **[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")**
+1.  **[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")** \[4:29\]
       -
         9thシングル。アルバム初収録。
-2.  **[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")**
+2.  **[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")** \[5:08\]
       -
-        6thシングル。アルバム初収録。その後に発売された6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』及び、ベストアルバム『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』にはアルバムバージョンが収録されたため、シングルバージョンが収録されたのは本作のみとなっている。
-3.  **Dance Dance Dance**
+        6thシングル。アルバム初収録。その後に発売された6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』及び、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』にはアルバムバージョンが収録されたため、シングルバージョンが収録されたのは本作のみとなっている。
+3.  **Dance Dance Dance** \[4:57\]
       -
         4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』収録曲。
-4.  **ラヴ コネクション**
+4.  **ラヴ コネクション** \[4:57\]
       -
         4thアルバム『Atomic Heart』収録曲。
-5.  **[抱きしめたい](../Page/抱きしめたい_\(Mr.Childrenの曲\).md "wikilink")**
+5.  **[抱きしめたい](../Page/抱きしめたい_\(Mr.Childrenの曲\).md "wikilink")** \[5:28\]
       -
         2ndシングル。
-6.  **雨のち晴れ**
+6.  **雨のち晴れ** \[5:27\]
       -
         4thアルバム『Atomic Heart』収録曲。
-7.  **[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")**
+7.  **[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")** \[4:36\]
       -
         7thシングル。アルバム初収録。
-8.  **[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")**
+8.  **[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")** \[5:49\]
       -
         8thシングル。アルバム初収録。
-9.  **Round About 〜孤独の肖像〜**
+9.  **Round About 〜孤独の肖像〜** \[5:25\]
       -
         4thアルバム『Atomic Heart』収録曲。
-10. **クラスメイト**
+10. **クラスメイト** \[5:27\]
       -
         4thアルバム『Atomic Heart』収録曲。
-11. **[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")**
+11. **[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")** \[4:33\]
       -
         4thシングル。
-12. **[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")**
+12. **[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")** \[5:45\]
       -
         5thシングル。
 

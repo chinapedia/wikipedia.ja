@@ -3,7 +3,7 @@
 
 『**FRIENDS**』(フレンズ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[BMGルームスからリリースした](../Page/VERMILLION_RECORDS.md "wikilink")4作目のミニ・アルバムである。また[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")には、このアルバムの続編である『[FRIENDS II](../Page/FRIENDS_II.md "wikilink")』が発売された。
 
-## 作品解説
+## 概要
 
 ジャケットには、[イングランド](../Page/イングランド.md "wikilink")の写真家Michael Kennaの作品「Deckchairs, Bournemouth, Dorset, England」が使用されている\[1\]。初回盤のみCDケースを入れる紙製のスリーブケースが付属している。
 

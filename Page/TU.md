@@ -12,6 +12,7 @@
   - [東邦大学](../Page/東邦大学.md "wikilink") - 日本 東京。
   - [帝京大学](../Page/帝京大学.md "wikilink") - 日本 東京。
   - [拓殖大学](../Page/拓殖大学.md "wikilink") - 日本 東京。
+  - [東海大学](../Page/東海大学.md "wikilink") - 日本 神奈川。
   - [徳島大学](../Page/徳島大学.md "wikilink") - 日本 徳島。
   - [天理大学](../Page/天理大学.md "wikilink") - 日本 天理。
   - [鳥取大学](../Page/鳥取大学.md "wikilink") - 日本 鳥取。

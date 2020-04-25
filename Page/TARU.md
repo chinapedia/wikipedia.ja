@@ -125,9 +125,9 @@
 ## 外部リンク
 
   -
-  - [TARU-imperator](http://ameblo.jp/vm-taru)（2013年7月29日 - ） -　新ブログ
+  - [TARU-imperator](https://ameblo.jp/vm-taru)（2013年7月29日 - ） -　新ブログ
 
-  - [殺戮用心棒 TARU DEATH LOG](http://ameblo.jp/vm1964/)（ - 2013年7月29日まで）　-　旧ブログ
+  - [殺戮用心棒 TARU DEATH LOG](https://ameblo.jp/vm1964/)（ - 2013年7月29日まで）　-　旧ブログ
 
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:空手出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:空手出身のプロレスラー "wikilink") [Category:ペイントレスラー](https://ja.wikipedia.org/wiki/Category:ペイントレスラー "wikilink") [Category:エルドラド](https://ja.wikipedia.org/wiki/Category:エルドラド "wikilink") [Category:DRAGON_GATEに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに所属したプロレスラー "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

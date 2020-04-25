@@ -181,7 +181,7 @@
 4.  ただし、「ねがい ("BUZZ STYLE")」は空白を含め5分超となる。今作以後、『[GREEN](../Page/GREEN_\(B'zのアルバム\).md "wikilink")』、『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』、『[MAGIC](https://ja.wikipedia.org/wiki/MAGIC_\(B'zのアルバム\) "wikilink")』、『[EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink")』は5分を超える曲が存在しない
 5.
 6.
-7.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P33より
+7.
 8.
 9.  be with\! vol.28より
 10.

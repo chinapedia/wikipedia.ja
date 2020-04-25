@@ -34,7 +34,7 @@
 
 ### 2004年5月22日
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [グッド・シャーロット](../Page/グッド・シャーロット.md "wikilink")
   - [PE'Z](../Page/PE'Z.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves who? （[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink"),[山本領平](https://ja.wikipedia.org/wiki/山本領平 "wikilink"),[PE'Z](../Page/PE'Z.md "wikilink")と共演）

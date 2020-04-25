@@ -73,11 +73,11 @@
 
 MY OLYMPICおよびMY OLYMPIC+→MY OLYMPIC STORYは前番組『[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")』からの継続でネットワークセールスとなるため全国同時ネットのため、割愛とする。
 
-MY OLYMPICはFM OH\!・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 - 木曜） / ONE MORNING FRIDAY（金曜）](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』に内包\[3\]。かつては東京・大阪・福岡などの基幹局で放送時間が異なる例が多々あった\[4\]。その後は徐々に放送時間がそろえられていったが、福岡では2019年3月まで自主編成を優先していたため1時間先行放送していた。同年4月より同時ネットへ移行し、放送開始から20年でようやく全局同時放送へこぎつけた。
+MY OLYMPICはFM大阪・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 - 木曜） / ONE MORNING FRIDAY（金曜）](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』に内包\[3\]。かつては東京・大阪・福岡などの基幹局で放送時間が異なる例が多々あった\[4\]。その後は徐々に放送時間がそろえられていったが、福岡では2019年3月まで自主編成を優先していたため1時間先行放送していた。同年4月より同時ネットへ移行し、放送開始から20年でようやく全局同時放送へこぎつけた。
 
 MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送。\[5\]
 
-★印は2020年3月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。放送時間の早い順から記載。
+★印は2020年4月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。放送時間の早い順から記載。
 
 <table>
 <thead>
@@ -261,19 +261,19 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）★</p></td>
-<td><p>[25]</p></td>
+<td><p><ref>MY OLYMPIC αは『[[〜Ultra_Radio_Connection〜DIG</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）</p></td>
+<td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）★</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/エフエム長崎.md" title="wikilink">エフエム長崎</a>（FM Nagasaki）★</p></td>
-<td><p>[26]</p></td>
+<td><p>[25]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -291,7 +291,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）★</p></td>
-<td><p>[27]</p></td>
+<td><p>[26]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -304,19 +304,19 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）★</p></td>
 <td><p>13:55 - 14:00</p></td>
-<td><p>[28][29]</p></td>
+<td><p>[27][28]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
 <td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）★</p></td>
-<td><p>[30]</p></td>
+<td><p>[29]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/エフエム沖縄.md" title="wikilink">エフエム沖縄</a>（FM沖縄）★</p></td>
 <td><p>21:55 - 22:00</p></td>
-<td><p>[31]</p></td>
+<td><p>[30]</p></td>
 </tr>
 </tbody>
 </table>
@@ -348,17 +348,16 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 15. MY OLYMPICは『[Groovin' TODAY](https://ja.wikipedia.org/wiki/Groovin'_TODAY "wikilink")』に、MY OLYMPIC αは『Delight』（月曜 - 木曜）にそれぞれ内包。
 16. MY OLYMPIC αは『Radio Flapper』（月曜 - 木曜）、『CHOICE』（金曜）にそれぞれ内包。
 17. MY OLYMPICは『[OH\! MY MORNING 851](https://ja.wikipedia.org/wiki/OH!_MY_MORNING_851 "wikilink")』に、MY OLYMPIC αは『[赤maru](https://ja.wikipedia.org/wiki/赤maru "wikilink")』（月曜 - 木曜）に内包。
-18. MY OLYMPIC αは『[近藤志保のDAYS\!](https://ja.wikipedia.org/wiki/DAYS!? "wikilink")』（月曜 - 木曜）、『ミチータ・モモコの皆実町マルシェ』（金曜）にそれぞれ内包。
+18. MY OLYMPIC αは『[近藤志保のDAYS\!](https://ja.wikipedia.org/wiki/DAYS!? "wikilink")』（月曜 - 木曜）、『廣瀬桃子の皆実町マルシェ』（金曜）にそれぞれ内包。
 19. MY OLYMPIC αは『[Happy Happy FRIDAY](https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY "wikilink")』（金曜）に内包。
 20. MY OLYMPIC αは『水木彩也子のFRIDAY×FRIDAY』（金曜）に内包。
 21. MY OLYMPIC αは『牛嶋俊明 ドリームファクトリー』（金曜）に内包。
 22. MY OLYMPIC αは『[Passion Live〜情熱生放送〜WEEKEND SHUTTLE](https://ja.wikipedia.org/wiki/Passion_Live〜情熱生放送〜WEEKEND_SHUTTLE "wikilink")』（金曜）に内包。
 23. MY OLYMPIC αは『Groovy Radio Caravan』（月曜 - 木曜）、『Groovy Radio Caravan〜Friday Edition〜』（金曜）にそれぞれ内包。
 24. MY OLYMPIC αは『[FRIDAY ONLINE-FIVE COLORS RADIO-](https://ja.wikipedia.org/wiki/FRIDAY_ONLINE-FIVE_COLORS_RADIO- "wikilink")』（金曜）に内包。
-25. MY OLYMPIC αは『[SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")』（月曜 - 木曜）、『[BUTCH COUNTDOWN RADIO](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")』（金曜）にそれぞれ内包。
-26. MY OLYMPIC αは『[Fly-Day Wonder3](https://ja.wikipedia.org/wiki/Fly-Day_Wonder3 "wikilink")』（金曜）に内包。
-27. MY OLYMPIC αは『グッドタイム』（月曜 - 木曜）、『マダムとマドカの魔女会』（金曜）にそれぞれ内包。
-28. MY OLYMPIC αの当該時間帯は『くるまのおはなし』を放送するため先行ネット。金曜は『[気分屋食堂](https://ja.wikipedia.org/wiki/気分屋食堂 "wikilink")』に内包。
-29.
-30. MY OLYMPIC αの当該時間帯は当該時間帯には「FM GUNMA NEWS」を放送するため先行ネット。月曜 - 水曜は『G★FORCE』に、木曜は『[148 neo](../Page/チャンネル148.md "wikilink")』にそれぞれ内包。
-31. MY OLYMPIC αの当該時間帯は「FLOOR」（『[ゴールデンアワー](https://ja.wikipedia.org/wiki/ゴールデンアワー_\(エフエム沖縄\) "wikilink")』内包）を放送するため遅れネット。放送開始 - 2017年9月のMY OLYMPIC αは14:55 - 15:00の放送で『ゴールデンアワー』に内包していた。
+25. MY OLYMPIC αは『[Fly-Day Wonder3](https://ja.wikipedia.org/wiki/Fly-Day_Wonder3 "wikilink")』（金曜）に内包。
+26. MY OLYMPIC αは『グッドタイム』（月曜 - 木曜）、『マダムとマドカの魔女会』（金曜）にそれぞれ内包。
+27. MY OLYMPIC αの当該時間帯は『くるまのおはなし』を放送するため先行ネット。金曜は『[気分屋食堂](https://ja.wikipedia.org/wiki/気分屋食堂 "wikilink")』に内包。
+28.
+29. MY OLYMPIC αの当該時間帯は当該時間帯には「FM GUNMA NEWS」を放送するため先行ネット。月曜 - 水曜は『G★FORCE』に、木曜は『[148 neo](../Page/チャンネル148.md "wikilink")』にそれぞれ内包。
+30. MY OLYMPIC αの当該時間帯は「FLOOR」（『[ゴールデンアワー](https://ja.wikipedia.org/wiki/ゴールデンアワー_\(エフエム沖縄\) "wikilink")』内包）を放送するため遅れネット。放送開始 - 2017年9月のMY OLYMPIC αは14:55 - 15:00の放送で『ゴールデンアワー』に内包していた。

@@ -448,7 +448,7 @@
 
   - [TOTOジャパンクラシック](https://www.mbs.jp/totojc/) - 毎日放送による公式サイト
 
-[Category:JLPGAツアー](https://ja.wikipedia.org/wiki/Category:JLPGAツアー "wikilink") [Category:LPGAツアー](https://ja.wikipedia.org/wiki/Category:LPGAツアー "wikilink") [Category:スポーツニッポン](https://ja.wikipedia.org/wiki/Category:スポーツニッポン "wikilink") [Category:毎日放送](https://ja.wikipedia.org/wiki/Category:毎日放送 "wikilink") [Category:1973年開始のイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のイベント "wikilink") [Category:TOTO_(企業)](https://ja.wikipedia.org/wiki/Category:TOTO_\(企業\) "wikilink") [Category:大津市のスポーツ](https://ja.wikipedia.org/wiki/Category:大津市のスポーツ "wikilink")
+[Category:JLPGAツアー](https://ja.wikipedia.org/wiki/Category:JLPGAツアー "wikilink") [Category:LPGAツアー](https://ja.wikipedia.org/wiki/Category:LPGAツアー "wikilink") [Category:スポーツニッポン](https://ja.wikipedia.org/wiki/Category:スポーツニッポン "wikilink") [Category:毎日放送](https://ja.wikipedia.org/wiki/Category:毎日放送 "wikilink") [Category:TOTO_(企業)](https://ja.wikipedia.org/wiki/Category:TOTO_\(企業\) "wikilink") [Category:大津市のスポーツ](https://ja.wikipedia.org/wiki/Category:大津市のスポーツ "wikilink") [Category:1973年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のスポーツイベント "wikilink")
 
 1.  [全米女子プロゴルフ協会公式戦 茨城・太平洋クラブ美野里コースに決定](http://www.sponichi.co.jp/sports/news/2016/01/21/kiji/K20160121011893780.html) - スポニチアネックス、2016年1月21日閲覧
 2.

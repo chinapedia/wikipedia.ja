@@ -7,6 +7,8 @@
 
 ## 主な事業・製品
 
+[EIZO_FlexScan_L461_16.0inch.jpg](https://ja.wikipedia.org/wiki/File:EIZO_FlexScan_L461_16.0inch.jpg "fig:EIZO_FlexScan_L461_16.0inch.jpg")
+
 ### 映像表示システム
 
   - **ビジネス用途** - 金融機関、公共機関、文教施設、一般オフィス等での用途向け映像表示システム

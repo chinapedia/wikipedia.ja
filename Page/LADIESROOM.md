@@ -127,7 +127,7 @@
   - [TURTLE ATTACK RECORDS オフィシャルサイト](http://www.turtle-attack.com/)
   - [LADIESROOMのMySpace](https://myspace.com/turtleattackrecords)
   - [我孫子神音会](http://abikoshinonkai.com/)
-  - [我孫子神音会のブログ](http://ameblo.jp/abikoshinonkai/)
+  - [我孫子神音会のブログ](https://ameblo.jp/abikoshinonkai/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:エクスタシーレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのアーティスト "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")
 

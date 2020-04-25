@@ -11,7 +11,7 @@
 
 シングル・ベストという位置付けの為、基本的にシングルヴァージョンを収録しているが、シングル1曲目のみの収録となっており、「[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")」との両A面である「COME ON LET'S DANCE (DANCE SUPREME)」、「[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")」との両A面である「We love the EARTH」や「DREAMS OF CHIRISTMAS」 (「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」との両A面) や「Still Love Her」 (「[JUST ONE VICTORY (たったひとつの勝利)](../Page/JUST_ONE_VICTORY_\(たったひとつの勝利\).md "wikilink")」のc/w。カップリング曲ながらタイアップ曲) は未収録となった。
 
-アルバムの初回盤はBOXケース仕様、ジャケットには[時計](../Page/時計.md "wikilink")が埋め込まれている。
+初回盤はBOXケース仕様、40ページブックレット付き、ピクチャーディスク仕様。また、2枚のディスクがそれぞれ単独のケースに収められている。BOXの蓋にはデジタル式の[時計](../Page/時計.md "wikilink")が埋め込まれていて、電池交換も可能である。
 
 後に、内容が重複する『[THE SINGLES 1](https://ja.wikipedia.org/wiki/THE_SINGLES_1 "wikilink")』『[THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")』がリリースされるが、本作収録の「Detour」はこの作品及び、[2020年](../Page/2020年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にリリースされた「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」のみの収録となっている。
 

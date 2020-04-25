@@ -47,7 +47,7 @@ PWFルールは[全日本プロレス](../Page/全日本プロレス.md "wikilin
 
   - [三冠ヘビー級王座](../Page/三冠ヘビー級王座.md "wikilink")（[PWFヘビー級王座](../Page/PWFヘビー級王座.md "wikilink")、[インターナショナル・ヘビー級王座](../Page/インターナショナル・ヘビー級王座.md "wikilink")、[ユナイテッド・ナショナル・ヘビー級王座](../Page/ユナイテッド・ナショナル・ヘビー級王座.md "wikilink")の統一王座）
   - [世界タッグ王座](../Page/世界タッグ王座.md "wikilink")（[PWF世界タッグ王座](../Page/PWF世界タッグ王座.md "wikilink")、[インターナショナル・タッグ王座](../Page/インターナショナル・タッグ王座.md "wikilink")の統一王座）
-  - [世界ジュニアヘビー級王座](../Page/世界ジュニアヘビー級王座.md "wikilink")
+  - [世界ジュニアヘビー級王座](../Page/世界ジュニアヘビー級王座.md "wikilink")（[NWAインターナショナル・ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/NWAインターナショナル・ジュニアヘビー級王座 "wikilink")の後継王座）
   - [アジアヘビー級王座](../Page/アジアヘビー級王座.md "wikilink")
   - [アジアタッグ王座](../Page/アジアタッグ王座.md "wikilink")
   - [GAORA TV チャンピオンシップ](https://ja.wikipedia.org/wiki/GAORA_TV_チャンピオンシップ "wikilink")

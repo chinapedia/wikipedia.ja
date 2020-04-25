@@ -226,7 +226,7 @@ IF</p></td>
 <tr class="even">
 <td><p>15<br />
 FD</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/あの日の旅人、ふれあう未来" title="wikilink">あの日の旅人、ふれあう未来</a></p></td>
 <td><p>八島タカヒロ</p></td>
 <td></td>
@@ -262,6 +262,7 @@ FD</p></td>
   - 2015年[3月27日](../Page/3月27日.md "wikilink") - [ミライカノジョ](https://ja.wikipedia.org/wiki/ミライカノジョ "wikilink")
   - 2016年[6月24日](../Page/6月24日.md "wikilink") - [ヤキモチ彼女の一途な恋](https://ja.wikipedia.org/wiki/ヤキモチ彼女の一途な恋 "wikilink")
   - 2017年[3月24日](../Page/3月24日.md "wikilink") - [オフィスで誘うエッチな彼女](https://ja.wikipedia.org/wiki/オフィスで誘うエッチな彼女 "wikilink")
+  - 2020年[6月26日](../Page/6月26日.md "wikilink") - [彼女と俺と恋人と。](https://ja.wikipedia.org/wiki/彼女と俺と恋人と。 "wikilink")ミニFD
 
 ### PULLTOP Air
 

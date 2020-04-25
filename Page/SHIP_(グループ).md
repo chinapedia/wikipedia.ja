@@ -316,7 +316,7 @@ JA山形 庄内米全国キャンペーンソング[11]</p></td>
 ## 外部リンク
 
   - [SHIPの公式ホームページ](https://web.archive.org/web/20090923143124/http://ship.main.jp/)　S-Produceによる公式サイト - 2009年9月23日時点のアーカイブ
-  - [S-PRO通信](http://ameblo.jp/s-produce/) S-Produceのブログ
+  - [S-PRO通信](https://ameblo.jp/s-produce/) S-Produceのブログ
   - [S.H.I.P 育成プロジェクト](https://web.archive.org/web/20130620055521/http://www.sakata-cci.or.jp/ship/)　SAKATA発アイドル育成プロジェクト実行委員会による育成時代の公式サイト - 2013年6月20日時点のアーカイブ
   - [はてなダイアリー - SHIPとは](http://d.hatena.ne.jp/keyword/SHIP)
 

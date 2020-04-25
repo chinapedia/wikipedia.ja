@@ -1,7 +1,7 @@
 > この記事は[HIRO \(お笑い芸人\)](https://ja.wikipedia.org/wiki/HIRO_\(お笑い芸人\))から翻訳されています。
 
 
-**HIRO**（ひろ、[1977年](../Page/1977年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[タレント](../Page/タレント.md "wikilink")、[中村部屋](../Page/中村部屋.md "wikilink")(現:東関部屋)所属の元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。[お笑いトリオ](../Page/お笑いタレント.md "wikilink")・[安田大サーカス](../Page/安田大サーカス.md "wikilink")で[ボケを担当する](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。本名、**廣瀬 康幸**（ひろせ やすゆき）。
+**HIRO**（ひろ、[1977年](../Page/1977年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。お笑いトリオ・[安田大サーカス](../Page/安田大サーカス.md "wikilink")の[ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。[中村部屋](../Page/中村部屋.md "wikilink")（現:東関部屋）所属の元[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。本名、**廣瀬 康幸**（ひろせ やすゆき）。
 
 [和歌山県](../Page/和歌山県.md "wikilink")[和歌山市](../Page/和歌山市.md "wikilink")出身。[松竹芸能](../Page/松竹芸能.md "wikilink")所属。ニックネームは「HIROくん」。大相撲時代の四股名は**和歌桜**（わかざくら）、最高位は[序二段](../Page/序二段.md "wikilink")163枚目。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、[星座](../Page/星座.md "wikilink")おうし座。
 
@@ -9,9 +9,13 @@
 
 1977年4月20日、和歌山県和歌山市出身。
 
-2017年、[マーチン・サントフリート](https://ja.wikipedia.org/wiki/マーチン・サントフリート "wikilink")監督の映画『*THE OUTSIDER*』でハリウッド映画デビューを果たす\[1\]。
+中学校卒業後、日本相撲協会相撲部屋「中村部屋」へ入門。 しかし、体調不良が続いた事により半年で引退。
 
-何度かダイエットとリバウンドを繰り返しており、2016年の1年間で138kgあった体重を約20kg減らしたものの、2017年に入ってリバウンドしてしまった。2017年6月16日には脳出血で入院。命に別状はなく、麻痺などの後遺症もなかった\[2\]。約1ヶ月の入院を経て、7月12日に退院\[3\]。
+力士引退後、様々なアルバイトを経て松竹芸能に入社。そこで[団長安田](../Page/団長安田.md "wikilink")、[クロちゃんと出会い安田大サーカスを結成](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")。
+
+2016年の1年間で138kgあった体重を約20kg減らしたものの、2017年に入ってリバウンドしてしまった。2017年6月16日には脳出血で入院。命に別状はなく、麻痺などの後遺症もなかった\[1\]。約1ヶ月の入院を経て、7月12日に退院\[2\]。その後、40キロ減量した。
+
+2017年、[マーチン・サントフリート](https://ja.wikipedia.org/wiki/マーチン・サントフリート "wikilink")監督の映画『*THE OUTSIDER*』でハリウッド映画デビューを果たす\[3\]。
 
 ## 出演
 
@@ -64,7 +68,7 @@
   -
 [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:松竹芸能](https://ja.wikipedia.org/wiki/Category:松竹芸能 "wikilink") [Category:元大相撲力士のタレント](https://ja.wikipedia.org/wiki/Category:元大相撲力士のタレント "wikilink") [Category:和歌山県出身の大相撲力士](https://ja.wikipedia.org/wiki/Category:和歌山県出身の大相撲力士 "wikilink") [Category:中村部屋](https://ja.wikipedia.org/wiki/Category:中村部屋 "wikilink") [Category:和歌山県出身の人物](https://ja.wikipedia.org/wiki/Category:和歌山県出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.
-2.  日刊スポーツ　2017年7月1日
-3.  [ＨＩＲＯ「退院できました！」当面は実家の和歌山で療養](https://www.daily.co.jp/gossip/2017/07/13/0010366041.shtml) デイリースポーツ　2017.7.13
+1.  日刊スポーツ　2017年7月1日
+2.  [ＨＩＲＯ「退院できました！」当面は実家の和歌山で療養](https://www.daily.co.jp/gossip/2017/07/13/0010366041.shtml) デイリースポーツ　2017.7.13
+3.
 4.

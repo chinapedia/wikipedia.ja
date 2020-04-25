@@ -5,7 +5,7 @@
 
 ## 概要
 
-当番組スタートの半年前にスタートした『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』を補完するためにスタートした[深夜番組](../Page/深夜番組.md "wikilink")である。実際、過去にテレビの音楽番組出演経験の少ないアーティストが、『HEY\!HEY\!HEY\!』出演に先立ち音楽番組に慣れる目的で当番組に出演するケースが多く見られた。
+当番組スタートの半年前にスタートした『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』を補完するためにスタートした[深夜番組](../Page/深夜番組.md "wikilink")である。実際、過去にテレビの音楽番組出演経験の少ないアーティストが、『HEY\!HEY\!HEY\!』出演に先立ち音楽番組に慣れる目的で当番組に出演するケースが多く見られた。
 
 番組名の頭に付く「TK」は初代司会者・小室のイニシャルに由来している。小室にとって初の冠番組・初の司会・初のレギュラーとなる番組であった。
 
@@ -22,7 +22,7 @@
   - フジテレビ放送分では、提供は[TOWER RECORDSの](../Page/タワーレコード.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")。ネット局はローカルセールス枠だったが、セット後方にはTOWER RECORDSの宣伝イルミネーションが設置されていた。
   - 小室哲哉×大物ミュージシャンのトーク、共演が多くの注目を浴びていた。
   - 2代目MCである中居正広は、当番組を機に司会・進行の能力が評価され、その後1999年までの間に『[中居くん温泉](../Page/中居くん温泉.md "wikilink")』『[サンデージャングル](https://ja.wikipedia.org/wiki/サンデージャングル "wikilink")』『[中居正広のボクらはみんな生きている](../Page/中居正広のボクらはみんな生きている.md "wikilink")』『[うたばん](../Page/うたばん.md "wikilink")』『[サタスマ](https://ja.wikipedia.org/wiki/サタスマ "wikilink")』と、一気にメイン司会の番組を5番組獲得した。
-  - [2018年](../Page/2018年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")[OA](https://ja.wikipedia.org/wiki/OA "wikilink")『[ビートたけしの私が嫉妬したスゴい人](https://ja.wikipedia.org/wiki/ビートたけしの私が嫉妬したスゴい人 "wikilink")』にて、当番組の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")OA[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")の回が取り上げられる。小室が吉田の熱烈なファンでオファーを出したこと、しかし出演時に、吉田から辛辣な言葉を1時間にわたって浴びせられ続けたことがフィーチャーされた。\[1\]意気消沈していた小室だが、数年後に吉田と再会した際に無言でハグを求められたという。
+  - [2018年](../Page/2018年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")[OA](https://ja.wikipedia.org/wiki/OA "wikilink")『[ビートたけしの私が嫉妬したスゴい人](https://ja.wikipedia.org/wiki/ビートたけしの私が嫉妬したスゴい人 "wikilink")』にて、当番組の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")OA[吉田拓郎](../Page/吉田拓郎.md "wikilink")の回が取り上げられる。小室が吉田の熱烈なファンでオファーを出したこと、しかし出演時に、吉田から辛辣な言葉を1時間にわたって浴びせられ続けたことがフィーチャーされた。\[1\]意気消沈していた小室だが、数年後に吉田と再会した際に無言でハグを求められたという。
 
 ## コーナー
 
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - 小室がMC時代のコーナーで、番組の最後に、小室と[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")が演奏し、小室[プロデュース楽曲を](../Page/音楽プロデューサー.md "wikilink")、若手女優、アイドル等のゲストが歌うコーナーが行われていた。無名時代の[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")や[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、遠峯ありさ時代の華原も出演し歌唱した。
+  - 小室がMC時代のコーナーで、番組の最後に、小室と[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")が演奏し、小室[プロデュース楽曲を](../Page/音楽プロデューサー.md "wikilink")、若手女優、アイドル等のゲストが歌うコーナーが行われていた。無名時代の[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")や[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")、遠峯ありさ時代の華原も出演し歌唱した。
   - 中居がMC時代には廃止され、華原がMC時代には自身の思い入れがある楽曲を歌うコーナーとして復活した。
 
 ## 出演者
@@ -84,7 +84,7 @@
   - [黒沢健一](../Page/黒沢健一.md "wikilink")
   - [浅倉大介](../Page/浅倉大介.md "wikilink")&木根尚登
   - [浜田雅功](../Page/浜田雅功.md "wikilink")
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
   - [槇原敬之](../Page/槇原敬之.md "wikilink")
   - [CHAR](https://ja.wikipedia.org/wiki/CHAR "wikilink") with [Jim Copley](https://ja.wikipedia.org/wiki/ジム・コウプリー "wikilink")
   - [TOWA TEI](https://ja.wikipedia.org/wiki/TOWA_TEI "wikilink")
@@ -211,7 +211,7 @@
   - [ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")
   - 遠峯ありさ（華原朋美）
   - [鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")
   - 松本恵（[松本莉緒](../Page/松本莉緒.md "wikilink")）
   - [野村佑香](../Page/野村佑香.md "wikilink")
@@ -308,6 +308,6 @@
   - [きくちPの音組収録日記](http://www.fujitv.co.jp/otogumi/lovekp/)
   - [音組スタッフルーム](http://www.fujitv.co.jp/FNS/staffroom/)
 
-[Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink") [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:華原朋美](https://ja.wikipedia.org/wiki/Category:華原朋美 "wikilink")
+[Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:華原朋美](https://ja.wikipedia.org/wiki/Category:華原朋美 "wikilink")
 
 1.

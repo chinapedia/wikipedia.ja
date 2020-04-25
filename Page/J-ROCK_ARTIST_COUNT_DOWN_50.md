@@ -72,7 +72,7 @@
   - [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
   - [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")
   - [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
   - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")
   - [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")
   - [THEE MICHELLE GUN ELEPHANT](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")

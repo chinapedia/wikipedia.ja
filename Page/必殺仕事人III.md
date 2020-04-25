@@ -295,7 +295,7 @@
 
 :\* 原田 - [石倉英彦](https://ja.wikipedia.org/wiki/石倉英彦 "wikilink")　
 
-:\* お梅 - 星野恵美子　
+:\* お梅 - 星野美恵子　
 
 :\* 捨松 - 四方公
 
@@ -323,7 +323,7 @@
 
 :\* お仲 - [志乃原良子](../Page/志乃原良子.md "wikilink")
 
-:\* 越前屋 - [玉生司郎](https://ja.wikipedia.org/wiki/玉生司郎 "wikilink")
+:\* 越前屋 - [玉生司朗](https://ja.wikipedia.org/wiki/玉生司朗 "wikilink")
 
 :\* 文太 - 川上恭尚
 
@@ -913,7 +913,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
 <td></td>

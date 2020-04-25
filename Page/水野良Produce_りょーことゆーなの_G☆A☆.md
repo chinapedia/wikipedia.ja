@@ -324,7 +324,7 @@
 <td><p>×（優奈）</p></td>
 <td><ul>
 <li>桜葉姉妹の対決で優奈25秒、良子29秒で優奈が罰ゲーム</li>
-<li>罰ゲームはモノマネ30秒。良子がリストに書いてあるモノマネを言い、優奈が言う形式。<a href="https://ja.wikipedia.org/wiki/タモリ" title="wikilink">タモリ</a>→<a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a>→<a href="../Page/ジャイアント馬場.md" title="wikilink">ジャイアント馬場</a>→<a href="https://ja.wikipedia.org/wiki/マイケル・ジャクソン" title="wikilink">マイケル・ジャクソン</a>→<a href="../Page/ダース・ベイダー.md" title="wikilink">ダース・ベイダー</a>→<a href="../Page/古畑任三郎.md" title="wikilink">古畑任三郎</a>→<a href="https://ja.wikipedia.org/wiki/アナゴさん" title="wikilink">アナゴさん</a>→<a href="https://ja.wikipedia.org/wiki/ブタ" title="wikilink">ブタ</a>→<a href="../Page/ドラえもん_(キャラクター).md" title="wikilink">ドラえもん</a>→<a href="../Page/なかやまきんに君.md" title="wikilink">なかやまきんに君</a>の順だったがグダグダだった</li>
+<li>罰ゲームはモノマネ30秒。良子がリストに書いてあるモノマネを言い、優奈が言う形式。<a href="https://ja.wikipedia.org/wiki/タモリ" title="wikilink">タモリ</a>→<a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a>→<a href="../Page/ジャイアント馬場.md" title="wikilink">ジャイアント馬場</a>→<a href="https://ja.wikipedia.org/wiki/マイケル・ジャクソン" title="wikilink">マイケル・ジャクソン</a>→<a href="../Page/ダース・ベイダー.md" title="wikilink">ダース・ベイダー</a>→<a href="../Page/古畑任三郎.md" title="wikilink">古畑任三郎</a>→<a href="https://ja.wikipedia.org/wiki/アナゴさん" title="wikilink">アナゴさん</a>→<a href="https://ja.wikipedia.org/wiki/ブタ" title="wikilink">ブタ</a>→<a href="../Page/ドラえもん_(キャラクター).md" title="wikilink">ドラえもん</a>→<a href="../Page/なかやまきんに君.md" title="wikilink">なかやまきんに君</a>の順だったがグダグダだった</li>
 </ul></td>
 </tr>
 <tr class="odd">

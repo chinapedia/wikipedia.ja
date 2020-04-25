@@ -322,7 +322,7 @@
 
 1.  のちに「EARL(アール)」に改称。現在は閉店。
 2.  『考えるヒット』(1994年)より
-3.  後にB'zがセルフカバーしているが、本作ではデビュー前の大黒摩季がボーカルで参加していたり、[T-BOLAN](../Page/T-BOLAN.md "wikilink")でデビューする前の森友嵐士が[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")の「IMAGE DOWN」を早尻翔介名義でカバーしている。1stと2ndアルバムにB'zの当時の所属事務所のスタッフがクレジットされているのは、ソロアルバムでのデビューが経緯がある為。因みに斉藤さん（BUM)とは、現在大阪のライブハウス[ヒルズパン工場](https://ja.wikipedia.org/wiki/ヒルズパン工場 "wikilink")で支配人を務めている、斉田才の本名である。
+3.  後にB'zがセルフカバーしているが、本作ではデビュー前の大黒摩季がボーカルで参加していたり、[T-BOLAN](../Page/T-BOLAN.md "wikilink")でデビューする前の森友嵐士が[BOOWY](../Page/BOOWY.md "wikilink")の「IMAGE DOWN」を早尻翔介名義でカバーしている。1stと2ndアルバムにB'zの当時の所属事務所のスタッフがクレジットされているのは、ソロアルバムでのデビューが経緯がある為。因みに斉藤さん（BUM)とは、現在大阪のライブハウス[ヒルズパン工場](https://ja.wikipedia.org/wiki/ヒルズパン工場 "wikilink")で支配人を務めている、斉田才の本名である。
 4.  本名の大黒摩紀名義。コーラスに参加している。
 5.  本名の田辺裕之名義。
 6.  原盤権の関係で、1作目の『ROYAL STRAIGHT SOUL』のみ廃盤。『ROYAL STRAIGHT SOULⅢ part 2 Red Lovers』は、1993年に[BMGルームスより価格を下げて再々発売されており](../Page/VERMILLION_RECORDS.md "wikilink")、現在でも販売されている。

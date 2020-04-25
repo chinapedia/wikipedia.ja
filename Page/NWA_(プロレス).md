@@ -9,7 +9,7 @@
 
 ### 発足
 
-[1948年](../Page/1948年.md "wikilink")7月、[アイオワ地区の](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[プロモーター](../Page/プロモーター.md "wikilink")であるピンキー・ジョージが中心となり、[セントルイス](../Page/セントルイス.md "wikilink")の[サム・マソニック](https://ja.wikipedia.org/wiki/サム・マソニック "wikilink")や[ミネアポリス](../Page/ミネアポリス.md "wikilink")のトニー・ステッカーら、5人のプロモーター達と共に結成された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、プロレスを再興させるために「世界タイトルの認定」を行い、世界王者を抱えることによって興行的に大都市のプロモーターに対抗する意図があった。あくまで連盟であるため非営利組織であったが、談合[カルテル](../Page/カルテル.md "wikilink")としての側面を持ち合わせており、[1956年](../Page/1956年.md "wikilink")には[独占禁止法違反により](../Page/反トラスト法.md "wikilink")[司法省に告訴された](https://ja.wikipedia.org/wiki/アメリカ合衆国司法省 "wikilink")。\[1\]
+[1948年](../Page/1948年.md "wikilink")7月、[アイオワ地区の](../Page/アイオワ州.md "wikilink")[プロモーター](../Page/プロモーター.md "wikilink")であるピンキー・ジョージが中心となり、[セントルイス](../Page/セントルイス.md "wikilink")の[サム・マソニック](https://ja.wikipedia.org/wiki/サム・マソニック "wikilink")や[ミネアポリス](../Page/ミネアポリス.md "wikilink")のトニー・ステッカーら、5人のプロモーター達と共に結成された。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、プロレスを再興させるために「世界タイトルの認定」を行い、世界王者を抱えることによって興行的に大都市のプロモーターに対抗する意図があった。あくまで連盟であるため非営利組織であったが、談合[カルテル](../Page/カルテル.md "wikilink")としての側面を持ち合わせており、[1956年](../Page/1956年.md "wikilink")には[独占禁止法違反により](../Page/反トラスト法.md "wikilink")[司法省に告訴された](https://ja.wikipedia.org/wiki/アメリカ合衆国司法省 "wikilink")。\[1\]
 
 ### 黄金期
 
@@ -203,7 +203,7 @@ NWAの加盟により、主に以下のようなことが可能となる。
 
 ### National Wrestling Association
 
-**ナショナル・レスリング・アソシエーション**（*National Wrestling Association*、全米レスリング協会）は、[1929年](../Page/1929年.md "wikilink")にNBA（National Boxing Association、全米プロボクシング協会、現在の[WBAの前身](../Page/世界ボクシング協会.md "wikilink")）のレスリング部門として設立された[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
+**ナショナル・レスリング・アソシエーション**（*National Wrestling Association*、全米レスリング協会）は、[1929年](../Page/1929年.md "wikilink")にNBA（National Boxing Association、全米ボクシング協会、現在の[WBAの前身](../Page/世界ボクシング協会.md "wikilink")）のレスリング部門として設立された[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
 
 当初はNBAプロレスリング部であったが、1930年10月にNWAとして正式に独立した。名目上は各州の体育協会による運営で、ナショナル・レスリング・アライアンス発足後の1960年代まで存続していた。\[17\]
 

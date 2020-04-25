@@ -89,4 +89,4 @@
   - [Twitter](http://twitter.com/otogusuri)
   - [facebook](http://www.facebook.com/OfficialRyu)
 
-[Category:韓国のポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国のポップ歌手 "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:韓国の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国の男性ポップ歌手 "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

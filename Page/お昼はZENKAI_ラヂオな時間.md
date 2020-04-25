@@ -1,7 +1,7 @@
 > この記事は[お昼はZENKAI ラヂオな時間](https://ja.wikipedia.org/wiki/お昼はZENKAI_ラヂオな時間)から翻訳されています。
 
 
-**お昼はZENKAI ラヂオな時間**（おひるはゼンカイ ラヂオなじかん）は[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")にスタートした[KRYラジオの昼のワイド番組](https://ja.wikipedia.org/wiki/山口放送 "wikilink")。
+**お昼はZENKAI ラヂオな時間**（おひるはゼンカイ ラヂオなじかん）は[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")にスタートした[KRYラジオの昼のワイド番組](../Page/山口放送.md "wikilink")。
 
 ## 概要
 
@@ -162,7 +162,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020.03 -</p></td>
+<td><p>2020.03 - 2020.03.30</p></td>
 <td><p>藤澤達弥<br />
 竹島知江</p></td>
 <td></td>
@@ -171,6 +171,14 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2020.03.30 -</p></td>
+<td><p><a href="../Page/國本泰功.md" title="wikilink">國本泰功</a> 山本博子</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -181,7 +189,8 @@
 </tbody>
 </table>
 
-  - [山根由紀夫](https://ja.wikipedia.org/wiki/山根由紀夫 "wikilink")（月曜・火曜、2011年4月〜、以前は火曜）※金曜担当の渡辺アナとは、10年来、音楽番組を担当してきた地元タレント、[徳山大学](../Page/徳山大学.md "wikilink")客員教授。
+  - [國本泰功](../Page/國本泰功.md "wikilink")（月曜、2020年3月30日〜）
+  - [山根由紀夫](https://ja.wikipedia.org/wiki/山根由紀夫 "wikilink")（火曜、2011年4月〜、以前は火曜）※金曜担当の渡辺アナとは、10年来、音楽番組を担当してきた地元タレント、[徳山大学](../Page/徳山大学.md "wikilink")客員教授。
   - [山本博子](https://ja.wikipedia.org/wiki/山本博子 "wikilink")（月曜、2017年4月〜。以前は2011年8月〜2012年3月に木曜を担当）
   - [原田かおり](https://ja.wikipedia.org/wiki/原田かおり_\(アナウンサー\) "wikilink")（火曜、番組開始〜、以前は月曜・火曜→月曜・火曜・金曜→月曜〜水曜→月曜・火曜）
   - [藤澤達弥](https://ja.wikipedia.org/wiki/藤澤達弥 "wikilink")（水曜、2020年3月〜）

@@ -21,7 +21,7 @@
 
 [USS_Iowa_Radio_Gear.JPG](https://ja.wikipedia.org/wiki/File:USS_Iowa_Radio_Gear.JPG "fig:USS_Iowa_Radio_Gear.JPG")
 
-**アイオワ** (**USS Iowa, Battleship No. 4**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")。29番目の州である[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")にちなんで命名された。アメリカ海軍最初の戦艦である[インディアナ級戦艦](../Page/インディアナ級戦艦.md "wikilink")の欠点であった耐波性は改善されたが、速度に関してはほとんど向上していない。同型艦はなし。
+**アイオワ** (**USS Iowa, Battleship No. 4**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")。29番目の州である[アイオワ州](../Page/アイオワ州.md "wikilink")にちなんで命名された。アメリカ海軍最初の戦艦である[インディアナ級戦艦](../Page/インディアナ級戦艦.md "wikilink")の欠点であった耐波性は改善されたが、速度に関してはほとんど向上していない。同型艦はなし。
 
 ## 艦歴
 

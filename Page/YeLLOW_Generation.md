@@ -459,7 +459,7 @@ DFBL-7055:DVD</p></td>
 
 ## 外部リンク
 
-  - [浅見ユウコ オフィシャルブログ](http://ameblo.jp/asami-yuko/)
-  - [鈴木ゆき オフィシャルブログ](http://ameblo.jp/suzuki-yuki/)
+  - [浅見ユウコ オフィシャルブログ](https://ameblo.jp/asami-yuko/)
+  - [鈴木ゆき オフィシャルブログ](https://ameblo.jp/suzuki-yuki/)
 
 [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

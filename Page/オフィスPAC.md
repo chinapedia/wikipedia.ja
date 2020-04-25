@@ -176,7 +176,9 @@
 
 ### 男性
 
-あ行
+  - あ行
+
+<!-- end list -->
 
   - [越後屋コースケ](https://ja.wikipedia.org/wiki/越後屋コースケ "wikilink")
 

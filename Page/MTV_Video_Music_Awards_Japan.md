@@ -17,7 +17,7 @@
 
 2006年までと2013年は生中継されていなかったため、[地上波](../Page/地上波.md "wikilink")[民放各局の方がMTVよりもVMAJの様子や結果を早く放送していた](../Page/民間放送.md "wikilink")。
 
-かつてより受賞が恣意的であるなどの批判があり、レーベルの都合から[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")がベストライブパフォーマンス賞を受賞した際には、海外より受賞のために来日していた[メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink")がライブをせずに番組途中でボイコットしてしまうなど問題もあった。また、2002年には本アワードに出演していた[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")が公演時間が遅くなっている事に対して不満を漏らしたほか、2008年には「アワードがミュージシャンよりもスポンサーを大事にしている」と[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で批判した（なお、ZEEBRAは例年VMAJに参加しており、2003年には[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")と一緒にMCを担当している）。
+かつてより受賞が恣意的であるなどの批判があり、レーベルの都合から[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")がベストライブパフォーマンス賞を受賞した際には、海外より受賞のために来日していた[メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink")がライブをせずに番組途中でボイコットしてしまうなど問題もあった。また、2002年には本アワードに出演していた[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")が公演時間が遅くなっている事に対して不満を漏らしたほか、2008年には「アワードがミュージシャンよりもスポンサーを大事にしている」と[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で批判した（なお、ZEEBRAは例年VMAJに参加しており、2003年には[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")と一緒にMCを担当している）。
 
 ## 開催会場・期日一覧
 
@@ -64,7 +64,7 @@
 | 15 | [2016年](../Page/2016年.md "wikilink")                    | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                                           | [真夏の通り雨](https://ja.wikipedia.org/wiki/Fantome "wikilink")                                      |
 | 16 | [2017年](../Page/2017年.md "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                                                                 | [Family Song](https://ja.wikipedia.org/wiki/Family_Song "wikilink")                             |
 | 17 | [2018年](../Page/2018年.md "wikilink")                    | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                                            | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink")                              |
-| 18 | [2019年](../Page/2019年.md "wikilink")                    | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")                                    | [白日](https://ja.wikipedia.org/wiki/白日 "wikilink")                                               |
+| 18 | [2019年](../Page/2019年.md "wikilink")                    | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")                                    | [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")                                |
 
 ### 最優秀アーティストビデオ賞／Best Male Video・Best Female Video
 
@@ -73,7 +73,7 @@
 | 回  | 年     | 男性                                                                                          | 女性 |-align:center                                                             | アーティスト名                                                                                  | 曲名                                                                                        | アーティスト名 | 曲名 |
 | -- | ----- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------- | -- |
 | 2  | 2003年 | [クレイグ・デイヴィッド](../Page/クレイグ・デイヴィッド.md "wikilink")                                            | ホワッツ・ユア・フレイヴァ                                                                 | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                                   | [SAKURAドロップス](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")               |         |    |
-| 3  | 2004年 | [ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink") feat. [ジェイ・Z](../Page/ジェイ・Z.md "wikilink") | Frontin                                                                       | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")                                  | [Because of You](../Page/Memorial_address.md "wikilink")                                  |         |    |
+| 3  | 2004年 | [ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink") feat. [ジェイ・Z](../Page/ジェイ・Z.md "wikilink") | Frontin                                                                       | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                                                     | [Because of You](../Page/Memorial_address.md "wikilink")                                  |         |    |
 | 4  | 2005年 | [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")                                         | [瞳をとじて](../Page/瞳をとじて.md "wikilink")                                          | [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")                                    | [桜色舞うころ](https://ja.wikipedia.org/wiki/桜色舞うころ "wikilink")                                 |         |    |
 | 5  | 2006年 | [POP STAR](../Page/POP_STAR.md "wikilink")                                                  | [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")                         | [Butterfly](../Page/Butterfly_\(倖田來未の曲\).md "wikilink")                                  |                                                                                           |         |    |
 | 6  | 2007年 | [DJ OZMA](../Page/DJ_OZMA.md "wikilink")                                                    | [アゲ♂アゲ♂EVERY☆騎士](https://ja.wikipedia.org/wiki/アゲ♂アゲ♂EVERY☆騎士 "wikilink")     | [夢のうた](https://ja.wikipedia.org/wiki/夢のうた/ふたりで… "wikilink")                              |                                                                                           |         |    |
@@ -245,7 +245,7 @@
 | 14 | 2015年 | [DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink")              | INFINITY                                                                       | Years & Years           | King              |
 | 15 | 2016年 | [Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")               | [MINT](https://ja.wikipedia.org/wiki/MINT_CONDITION_\(SuchmosのEP\) "wikilink") | DNCE                    | Cake by the Ocean |
 | 17 | 2018年 | [Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink") | [ノーダウト](https://ja.wikipedia.org/wiki/ノーダウト "wikilink")                        | MARSHMELLO & ANNE-MARIE | Friends           |
-| 18 | 2019年 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")             | [白日](https://ja.wikipedia.org/wiki/白日 "wikilink")                              | BILLIE EILISH           | Bad Guy           |
+| 18 | 2019年 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")             | [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")               | BILLIE EILISH           | Bad Guy           |
 
 ### 最優秀ロックビデオ賞／Best Rock Video
 
@@ -521,7 +521,7 @@
 | [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")                 | 2007 |     |
 | 2006                                                                  |      |     |
 | [Orange Range](https://ja.wikipedia.org/wiki/Orange_Range "wikilink") | 2005 |     |
-| [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")               | 2004 |     |
+| [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                                  | 2004 |     |
 | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                          | 2003 |     |
 
 **全体的に最も勝つ**
@@ -553,7 +553,7 @@
 <a href="https://ja.wikipedia.org/wiki/Lady_Gaga" title="wikilink">Lady Gaga</a><br />
 <a href="https://ja.wikipedia.org/wiki/Orange_Range" title="wikilink">Orange Range</a><br />
 <a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a><br />
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a><br />
 <a href="https://ja.wikipedia.org/wiki/Ariana_Grande" title="wikilink">Ariana Grande</a><br />
 <a href="https://ja.wikipedia.org/wiki/中島美嘉" title="wikilink">中島美嘉</a><br />
 <a href="../Page/湘南乃風.md" title="wikilink">湘南乃風</a><br />

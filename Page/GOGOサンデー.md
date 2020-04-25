@@ -42,12 +42,12 @@
   - 東京放送（現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")） - **制作局**。
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [信越放送](../Page/信越放送.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")

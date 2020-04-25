@@ -60,7 +60,7 @@
 
 ## 脚注
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「JANSiS」62Pより。

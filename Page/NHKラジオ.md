@@ -1,7 +1,7 @@
 > この記事は[NHKラジオ](https://ja.wikipedia.org/wiki/NHKラジオ)から翻訳されています。
 
 
-**NHKラジオ**（エヌエイチケイ ラジオ,）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")について述べる。
+**NHKラジオ**（エヌエイチケイ ラジオ, ）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")について述べる。
 
 ## 概要
 
@@ -61,7 +61,7 @@
 
 1.  現[渋谷・放送センター](../Page/NHK放送センター.md "wikilink")
 2.
-3.  [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](http://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
+3.  [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](https://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
 4.  [NHKラジオのradiko.jp配信、4月12日正午から全国へ拡大](https://av.watch.impress.co.jp/docs/news/1112962.html),AV Watch,2018年3月22日
 5.  [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
 6.  [2019年度 radiko経由のNHKラジオの配信について](http://www.nhk.or.jp/pr/keiei/otherpress/pdf/20190322.pdf) NHK広報局 2019年3月22日

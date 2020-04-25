@@ -60,6 +60,6 @@
   - [てげてげ日刊　S@KO BLOG](http://www.pawanavi.com/sako/)（現在は、更新休止）
   - [AREA-J MORNINGブログ](http://www.joyfm.co.jp/area_j-morning/sko/)
 
-[Category:九州地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:九州地方のローカルタレント "wikilink") [Category:筋萎縮性側索硬化症に罹患した人物](https://ja.wikipedia.org/wiki/Category:筋萎縮性側索硬化症に罹患した人物 "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:宮崎産業経営大学出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎産業経営大学出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:2019年没](https://ja.wikipedia.org/wiki/Category:2019年没 "wikilink")
+[Category:九州地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:九州地方のローカルタレント "wikilink") [Category:筋萎縮性側索硬化症で死亡した人物](https://ja.wikipedia.org/wiki/Category:筋萎縮性側索硬化症で死亡した人物 "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:宮崎産業経営大学出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎産業経営大学出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:2019年没](https://ja.wikipedia.org/wiki/Category:2019年没 "wikilink")
 
 1.  [夕刊デイリーWeb 「ＡＬＳを知ってほしい」](http://www.yukan-daily.co.jp/news.php?id=60430)

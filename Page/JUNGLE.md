@@ -1,7 +1,7 @@
 > この記事は[JUNGLE](https://ja.wikipedia.org/wiki/JUNGLE)から翻訳されています。
 
 
-**JUNGLE**（ジャングル）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜枠『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』で[1992年](../Page/1992年.md "wikilink")10月 - [1993年](../Page/1993年.md "wikilink")9月頃に放送されたシリーズ枠および番組冒頭の[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")である。
+**JUNGLE**（ジャングル）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の深夜枠『[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")』で[1992年](../Page/1992年.md "wikilink")10月 - [1993年](../Page/1993年.md "wikilink")9月頃に放送されたシリーズ枠および番組冒頭の[アイキャッチ](../Page/アイキャッチ.md "wikilink")である。
 
 ## 概要
 

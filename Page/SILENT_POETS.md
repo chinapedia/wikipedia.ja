@@ -66,6 +66,7 @@
   - EPs & Extra Tracks（2013年2月13日）配信限定
   - SUN -Alternative Mix Edition-（2013年11月20日）リミックスアルバム
   - ANOTHER TRIP from SUN（2013年11月20日）再構築アルバム
+  - DOWN（2018年2月7日）
 
 ### その他
 

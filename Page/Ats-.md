@@ -1,7 +1,7 @@
 > この記事は[Ats-](https://ja.wikipedia.org/wiki/Ats-)から翻訳されています。
 
 
-**ats-**（エーティーエス、[5月7日](../Page/5月7日.md "wikilink")生まれ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽クリエーター、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")。
+**ats-**（エーティーエス、[5月7日](../Page/5月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽クリエーター、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")。
 
 [新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。音楽グループ[HΛL](../Page/HΛL.md "wikilink")のメンバーとして活動していた。[現在はエイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink") [tearbridge production所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。Dark Heavy Unrealistic系サウンドを得意とする。楽曲のジャンルはロック、メタル、EDM、R\&B、バラード、ポップスと多彩。インスト楽曲や劇伴作品も数多い。
 
@@ -12,9 +12,9 @@
   - [1991年](../Page/1991年.md "wikilink") ハードロックバンド「Darlin's Darlin」のボーカリストとしてデビュー。
   - [1993年](../Page/1993年.md "wikilink") ソロデビュー。
   - [1994年](../Page/1994年.md "wikilink") ロックバンド「STAGGER」のキーボードとして活動。
-  - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")氏などの楽曲制作に携わる。
+  - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")氏などの楽曲制作に携わる。
   - [2002年](../Page/2002年.md "wikilink")にHΛL脱退。以降、**ats-**名義で数多くのアーティストに楽曲を提供。
-  - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」（編曲）
+  - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」（編曲）
   - 2006年 『[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")』金賞受賞 [BoA](../Page/BoA.md "wikilink")の「Winter Love」（作曲・編曲）
   - 2011年 『[第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")」（編曲）
   - 2015年 『[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")」（編曲）
@@ -113,7 +113,7 @@
 
 【[HΛL](../Page/HΛL.md "wikilink")時代の主な提供楽曲】
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - [appears](https://ja.wikipedia.org/wiki/appears "wikilink")（編曲）「ソフィーナ・オーブ」クリスマス[CMソング](../Page/コマーシャルソング.md "wikilink")
       - [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ライコス](../Page/ライコス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
       - [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海」[CMソング](../Page/コマーシャルソング.md "wikilink")
@@ -426,7 +426,7 @@
       - [Hey,Girls\!](https://ja.wikipedia.org/wiki/Hey,_Girls! "wikilink")（作曲）
   - [滝沢歌舞伎](https://ja.wikipedia.org/wiki/滝沢歌舞伎 "wikilink")
       - 浮世艶姿桜（作詞・作曲・編曲）滝沢歌舞伎2016 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")・[三宅健](../Page/三宅健.md "wikilink") ユニット曲
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - [TODAY](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")（編曲）「[東京インテリア](https://ja.wikipedia.org/wiki/東京インテリア "wikilink")」CMソング
   - [TRF](../Page/TRF.md "wikilink")・[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")・[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")
       - PLAY\!17（作曲） [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")の[セブンティーンアイス](https://ja.wikipedia.org/wiki/セブンティーンアイス "wikilink")CM曲

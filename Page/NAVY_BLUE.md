@@ -35,4 +35,4 @@
   - [BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
 
-[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:川島だりあが制作した楽曲](https://ja.wikipedia.org/wiki/Category:川島だりあが制作した楽曲 "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:楽曲_ね](https://ja.wikipedia.org/wiki/Category:楽曲_ね "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:川島だりあが制作した楽曲](https://ja.wikipedia.org/wiki/Category:川島だりあが制作した楽曲 "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:楽曲_ね](https://ja.wikipedia.org/wiki/Category:楽曲_ね "wikilink")

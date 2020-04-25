@@ -50,4 +50,4 @@
 
   - music freak magazine編集部 「愛内里菜 interview」『music freak magazine』104号（2003年7月号）、[エムアールエム](../Page/エムアールエム.md "wikilink")、2003年。
 
-[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:輝門が制作した楽曲](https://ja.wikipedia.org/wiki/Category:輝門が制作した楽曲 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:輝門が制作した楽曲](https://ja.wikipedia.org/wiki/Category:輝門が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

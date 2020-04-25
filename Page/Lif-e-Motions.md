@@ -61,7 +61,7 @@
         AAAのカバー・アルバム『[CCC-CHALLENGE COVER COLLECTION-](../Page/CCC-CHALLENGE_COVER_COLLECTION-.md "wikilink")』に別テイクで収録。
 6.  **[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink") -meets [Youki Kudoh](../Page/工藤夕貴.md "wikilink")-**
 7.  **[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink") -meets [Goro Kishitani](../Page/岸谷五朗.md "wikilink") & [Yasufumi Terawaki](../Page/寺脇康文.md "wikilink")-「[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")」**
-8.  **[teens](https://ja.wikipedia.org/wiki/Happening_Here/teens "wikilink") -meets [AYUMI HAMASAKI](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")-**
+8.  **[teens](https://ja.wikipedia.org/wiki/Happening_Here/teens "wikilink") -meets [AYUMI HAMASAKI](../Page/浜崎あゆみ.md "wikilink")-**
       -
         浜崎あゆみの39thシングル「[Startin'/Born To Be...](https://ja.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")」にアコースティック・バージョンで収録。
 9.  **[BRAVE STORY](../Page/BRAVE_STORY.md "wikilink") -meets [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")-**

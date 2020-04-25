@@ -233,7 +233,7 @@
 ## 外部リンク
 
   - [Sky-simai.com](http://sky-simai.com/) - 公式サイト
-  - [Skyオフィシャルブログ「相支相合」](http://ameblo.jp/sky-sing/)
+  - [Skyオフィシャルブログ「相支相合」](https://ameblo.jp/sky-sing/)
 
 <!-- end list -->
 

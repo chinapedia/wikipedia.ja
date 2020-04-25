@@ -3,7 +3,7 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:OdakyuBus_F114_iBus.jpg "wikilink")
 
-**iバス**（アイバス）は、[東京都](../Page/東京都.md "wikilink")[稲城市](../Page/稲城市.md "wikilink")が運行している[コミュニティバス](../Page/コミュニティバス.md "wikilink")（稲城市循環バス）である。全路線が[小田急バス](https://ja.wikipedia.org/wiki/小田急バス "wikilink")[町田営業所に運行](../Page/小田急バス町田営業所.md "wikilink")[委託](https://ja.wikipedia.org/wiki/委託 "wikilink")されている。
+**iバス**（アイバス）は、[東京都](../Page/東京都.md "wikilink")[稲城市](../Page/稲城市.md "wikilink")が運行している[コミュニティバス](../Page/コミュニティバス.md "wikilink")（稲城市循環バス）である。全路線が[小田急バス](../Page/小田急バス.md "wikilink")[町田営業所に運行](../Page/小田急バス町田営業所.md "wikilink")[委託](https://ja.wikipedia.org/wiki/委託 "wikilink")されている。
 
 ## 概要
 

@@ -583,7 +583,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>059</p></td>
 <td><p>7月3日</p></td>
 <td><p>兄弟10人 海の革命劇<br />
-〜<a href="https://ja.wikipedia.org/wiki/魚群探知機" title="wikilink">魚群探知機</a>・ドンビリ船の奇跡〜</p></td>
+〜<a href="../Page/魚群探知機.md" title="wikilink">魚群探知機</a>・ドンビリ船の奇跡〜</p></td>
 <td><p>魚群探知機</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古野電気" title="wikilink">古野電気</a></p></td>
 <td></td>

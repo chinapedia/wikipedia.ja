@@ -85,7 +85,7 @@
 
 ### DVD
 
-  - 復活 LIVE 2019.04.27（[2020年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](../Page/12月2日.md "wikilink")[5日](../Page/12月2日.md "wikilink")）※通販、ライブ会場のみ販売
+  - 復活 LIVE 2019.04.27（[2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")）※通販、ライブ会場のみ販売
 
 ## 出演
 

@@ -171,4 +171,4 @@ OZが宇宙の主導権を握るようになり、MO-VもOZを受け入れるが
   - 角川コミックス・エース
     1.  ISBN 978-4-04-109142-5
 
-[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:少年漫画雑誌掲載漫画](https://ja.wikipedia.org/wiki/Category:少年漫画雑誌掲載漫画 "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink")
+[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:少年漫画雑誌掲載漫画](https://ja.wikipedia.org/wiki/Category:少年漫画雑誌掲載漫画 "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink")

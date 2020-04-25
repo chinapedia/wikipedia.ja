@@ -58,8 +58,9 @@
 
 ### 現在
 
-  - [長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")（2014年冬 -）
-  - [白石麻衣](https://ja.wikipedia.org/wiki/白石麻衣 "wikilink")（2017年秋 -）
+  - [森星](https://ja.wikipedia.org/wiki/森星 "wikilink")（2020年春 -）
+  - [清野菜名](https://ja.wikipedia.org/wiki/清野菜名 "wikilink")（2020年春 -）
+  - [池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")（2020年春 -）
 
 ### 過去
 
@@ -71,7 +72,7 @@
   - [アギネス・ディーン](../Page/アギネス・ディーン.md "wikilink")（2008年秋のみ）
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink") （2009年）
   - [上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")（2009年）
-  - [ペイスー・ウー](https://ja.wikipedia.org/wiki/ペース・ウー "wikilink")（2009年春のみ）
+  - [ペイスー・ウー](https://ja.wikipedia.org/wiki/ペース・ウー "wikilink")（2009年春日本版CMのみ）
   - [香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")（2009年秋のみ）
   - [ICONIQ](https://ja.wikipedia.org/wiki/ICONIQ "wikilink") （2010年）\[3\]
   - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")（2011年）※ベースメイク部門のみ担当、CMソングに「[女の子は誰でも](https://ja.wikipedia.org/wiki/空が鳴っている/女の子は誰でも "wikilink")」を使用。
@@ -79,6 +80,8 @@
   - [武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink") （2011年 - 2013年）\[4\]
   - [満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")（2014年春のみ）
   - [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")（2014年 - 2017年）
+  - [長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")（2014年冬 - 2020年冬）
+  - [白石麻衣](https://ja.wikipedia.org/wiki/白石麻衣 "wikilink")（2017年秋 - 2020年冬）
 
 ※CMイメージソングは2012年に[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[GIFT](../Page/GIFT_\(Mr.Childrenの曲\).md "wikilink")」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北京オリンピック](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")・[パラリンピック放送テーマソングとして起用](https://ja.wikipedia.org/wiki/北京パラリンピック "wikilink")）と「[Marshmallow day](https://ja.wikipedia.org/wiki/［\(an_imitation\)_blood_orange］ "wikilink")」、2013年に[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の「[ちいさな足跡](https://ja.wikipedia.org/wiki/beautiful/ちいさな足跡 "wikilink")」、2014年に[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")の「[Hot Stuff](https://ja.wikipedia.org/wiki/Door/Hot_Stuff "wikilink")」が使用された。
 
@@ -300,5 +303,5 @@
 
 1.  アポロ仏和辞典（[角川書店](../Page/角川書店.md "wikilink") ISBN 4-04-012700-5）による発音のカタカナ表記より
 2.  しばらくは正式な商品名に「ピエヌ」・「プラウディア」を付けて販売されていた。
-3.  CMソングとして「[Change Myself](https://ja.wikipedia.org/wiki/CHANGE_MYSELF "wikilink")」・「[TOKYO LADY](https://ja.wikipedia.org/wiki/TOKYO_LADY "wikilink")」・「[Light Ahead](https://ja.wikipedia.org/wiki/Light_Ahead "wikilink")」を使用、イメージキャラクター起用直前の2009年秋CMに「I'm lovin' you」（[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")）とのコラボ）が使用。
-4.  2011年夏CMにおいて[moumoon](https://ja.wikipedia.org/wiki/moumoon "wikilink")の「[Chu Chu](https://ja.wikipedia.org/wiki/Chu_Chu "wikilink")」を使用。
+3.  CMソングとして「[Change Myself](https://ja.wikipedia.org/wiki/CHANGE_MYSELF "wikilink")」・「BYE NOW\!」・「[TOKYO LADY](https://ja.wikipedia.org/wiki/TOKYO_LADY "wikilink")」・「[Light Ahead](https://ja.wikipedia.org/wiki/Light_Ahead "wikilink")」を使用、イメージキャラクター起用直前の2009年秋CMに「I'm lovin' you」（[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")）とのコラボ）が使用。
+4.  2011年はポイントメイク部門のみ担当。2011年夏CMにおいて[moumoon](https://ja.wikipedia.org/wiki/moumoon "wikilink")の「[Chu Chu](https://ja.wikipedia.org/wiki/Chu_Chu "wikilink")」を使用。

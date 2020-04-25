@@ -154,7 +154,7 @@
 
 :; オープニングテーマ「[狼なんか怖くない](https://ja.wikipedia.org/wiki/狼なんか怖くない_\(石野真子の曲\) "wikilink")」
 
-:: 作詞 - [阿久悠](../Page/阿久悠.md "wikilink") / 作曲 - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") / 歌 - 中村春香
+:: 作詞 - [阿久悠](../Page/阿久悠.md "wikilink") / 作曲 - [吉田拓郎](../Page/吉田拓郎.md "wikilink") / 歌 - 中村春香
 
 :: 映像は『[エースをねらえ\!](../Page/エースをねらえ!.md "wikilink")』『[マジンガーZ](../Page/マジンガーZ.md "wikilink")』『[巨人の星](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")』『[キューティハニー](https://ja.wikipedia.org/wiki/キューティハニー "wikilink")』『[デビルマン](../Page/デビルマン.md "wikilink")』などのオープニングやエンディングのパロディになっている（しかもロケ地：○○とつく）。
 

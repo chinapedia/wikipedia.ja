@@ -1,7 +1,7 @@
 > この記事は[韓国FAカップ](https://ja.wikipedia.org/wiki/韓国FAカップ)から翻訳されています。
 
 
-**韓国FAカップ**（かんこくエフエーカップ、）は[韓国における](../Page/大韓民国.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。2001年からアマチュアの大会であった[全国サッカー選手権大会](https://ja.wikipedia.org/wiki/全国サッカー選手権大会 "wikilink")が統合された。基本的に1回勝負のノックアウトトーナメント方式で行われるが、2016年より決勝戦のみ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式で実施されている。
+**韓国FAカップ**（かんこくエフエーカップ、）は、[韓国における](../Page/大韓民国.md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。2001年からアマチュアの大会であった[全国サッカー選手権大会](https://ja.wikipedia.org/wiki/全国サッカー選手権大会 "wikilink")が統合された。基本的に1回勝負のノックアウトトーナメント方式で行われるが、2016年より決勝戦のみ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式で実施されている。
 
 韓国の銀行である[ハナ銀行](../Page/ハナ銀行.md "wikilink")が大会のスポンサーシップを行っており、**KEBハナ銀行 FAカップ**と呼称される。
 
@@ -209,4 +209,4 @@
   - [韓国サッカー協会サイト内のFAカップのページ](http://www.kfa.or.kr/cups/fa_info.asp)
   - [RSSSFによる韓国FAカップの記録](http://www.rsssf.com/tabless/skorcuphist.html)
 
-[Category:韓国のサッカー大会](https://ja.wikipedia.org/wiki/Category:韓国のサッカー大会 "wikilink") [Category:国内のサッカーカップ戦](https://ja.wikipedia.org/wiki/Category:国内のサッカーカップ戦 "wikilink") [Category:1996年開始のイベント](https://ja.wikipedia.org/wiki/Category:1996年開始のイベント "wikilink")
+[Category:韓国のサッカー大会](https://ja.wikipedia.org/wiki/Category:韓国のサッカー大会 "wikilink") [Category:国内のサッカーカップ戦](https://ja.wikipedia.org/wiki/Category:国内のサッカーカップ戦 "wikilink") [Category:1996年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1996年開始のスポーツイベント "wikilink")

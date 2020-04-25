@@ -12,7 +12,7 @@
   - [構造活性相関](https://ja.wikipedia.org/wiki/構造活性相関 "wikilink") (structure-activity relationship)
   - [全身獲得抵抗性](https://ja.wikipedia.org/wiki/全身獲得抵抗性 "wikilink") (systemic acquired resistance)
   - [季節性アレルギー性鼻炎](https://ja.wikipedia.org/wiki/季節性アレルギー性鼻炎 "wikilink") (seasonal allergic rhinitis)
-  - [特別行政区](https://ja.wikipedia.org/wiki/特別行政区 "wikilink") (special administrative region) （中華人民共和国の）
+  - [特別行政区](../Page/特別行政区.md "wikilink") (special administrative region) （中華人民共和国の）
   - [セミアクティブレーダー誘導装置](https://ja.wikipedia.org/wiki/セミアクティブレーダー誘導装置 "wikilink") (semi-active rader)。
   - [捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink") ([search and rescue](https://ja.wikipedia.org/wiki/:en:Search_and_rescue "wikilink"))。それに関連して[SAR協定](../Page/SAR協定.md "wikilink")。
   - [SARスーパーグループ](https://ja.wikipedia.org/wiki/SARスーパーグループ "wikilink") ([SAR supergroup](https://ja.wikipedia.org/wiki/:en:SAR_supergroup "wikilink"))。[生物分類において提唱されている](https://ja.wikipedia.org/wiki/生物の分類 "wikilink")、[ストラメノパイル](../Page/ストラメノパイル.md "wikilink")（**S**tramenopiles）、[アルベオラータ](../Page/アルベオラータ.md "wikilink")（**A**lveolata）、[リザリア](https://ja.wikipedia.org/wiki/リザリア "wikilink")（**R**hizaria）を一つの[スーパーグループとしてまとめた](https://ja.wikipedia.org/wiki/スーパーグループ_\(分類学\) "wikilink")[分類群](https://ja.wikipedia.org/wiki/分類群 "wikilink")。

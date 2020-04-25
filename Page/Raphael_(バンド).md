@@ -646,7 +646,7 @@ FLCF-3823:再発</p></td>
   - Raphael Jr.（パーソナリティーYUKITO、[ベイエフエム](../Page/ベイエフエム.md "wikilink")）
   - Hiro-ism（パーソナリティーHIRO、[エフエムナックファイブ](../Page/エフエムナックファイブ.md "wikilink")）
   - らふぁえる☆マン（パーソナリティーHIRO、[CBCラジオ](../Page/CBCラジオ.md "wikilink")）
-  - Raphaelのこんなもんや（パーソナリティーYUKI、HIRO、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）
+  - Raphaelのこんなもんや（パーソナリティーYUKI、HIRO、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）
   - はふ（パーソナリティーYUKI、HIRO、[RKBラジオ](../Page/RKBラジオ.md "wikilink")）
 
 ### 2016年

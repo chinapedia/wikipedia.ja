@@ -1,7 +1,7 @@
 > この記事は[River \(2003年の映画\)](https://ja.wikipedia.org/wiki/River_\(2003年の映画\))から翻訳されています。
 
 
-『**river**』（**リバー**）は、[2003年に](../Page/2003年の映画.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に公開された劇場[映画](../Page/映画.md "wikilink")。[鈴井貴之](../Page/鈴井貴之.md "wikilink")第2回監督作品・[大泉洋](../Page/大泉洋.md "wikilink")初主演作品。[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[ヨーテボリ映画祭](https://ja.wikipedia.org/wiki/ヨーテボリ映画祭 "wikilink")出品作品。全国的に名が知られている俳優をほとんど起用せず、北海道の役者を中心にキャスティングし、スタッフも北海道在住（あるいは出身）の人間を多く集めるなど、「MADE IN 北海道」にこだわった作品である。これは「中央（東京）で作ったからと言って必ずいい作品が出来るわけではない」という鈴井の思いから生まれたコンセプトである。
+『**river**』（**リバー**）は、[2003年に](../Page/2003年の映画.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を中心に公開された劇場[映画](../Page/映画.md "wikilink")。[鈴井貴之](../Page/鈴井貴之.md "wikilink")第2回監督作品・[大泉洋](../Page/大泉洋.md "wikilink")初主演作品。[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[ヨーテボリ映画祭](https://ja.wikipedia.org/wiki/ヨーテボリ映画祭 "wikilink")出品作品。全国的に名が知られている俳優をほとんど起用せず、北海道の役者を中心にキャスティングし、スタッフも北海道在住（あるいは出身）の人間を多く集めるなど、「MADE IN 北海道」にこだわった作品である。これは「中央（東京）で作ったからと言って必ずいい作品が出来るわけではない」という鈴井の思いから生まれたコンセプトである。
 
 この作品は色味や撮影手法など、通常とは異なる方法で制作されている。これは物語が明るい話ではないので、全体的に暗く仕上げているのである。そのため、「[man-hole](https://ja.wikipedia.org/wiki/man-hole "wikilink")」や「[銀のエンゼル](../Page/銀のエンゼル_\(映画\).md "wikilink")」とは違った仕上がりになっている。 犯罪やホラーシーンなど多く含まれるため[PG12](https://ja.wikipedia.org/wiki/PG12 "wikilink")指定である。
 

@@ -182,7 +182,7 @@
 ## 外部リンク
 
   - [TOKUMA JAPAN COMMUNICATIONS](http://www.tkma.co.jp/tjc/j_pop/reds/profile.html)（レコード会社公式サイト）
-  - [ダイアモンド☆ユカイ オフィシャルブログ「ユカイなサムシング」](http://ameblo.jp/diamondyukai/)（ダイアモンド☆ユカイ オフィシャルブログ）
+  - [ダイアモンド☆ユカイ オフィシャルブログ「ユカイなサムシング」](https://ameblo.jp/diamondyukai/)（ダイアモンド☆ユカイ オフィシャルブログ）
   - [PSYCHODELICIOUS](http://www.psychodelicious.com/)（木暮"shake"武彦公式サイト）
   - [釧路湿原 塘路の宿](http://www9.plala.or.jp/touro/)（小川清史オーナー「とうろの宿」サイト）
 

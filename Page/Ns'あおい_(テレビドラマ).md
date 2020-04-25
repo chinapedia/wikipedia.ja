@@ -7,75 +7,257 @@
 
 また、連続ドラマがファンや医療関係者からの高い反響や支持を得たことから[2006年](../Page/2006年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")21:00 - 23:18に続編としてスペシャルドラマ『**Ns'あおい スペシャル 桜川病院最悪の日**』が[フジテレビ系で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
-## 出演者
+## キャスト
 
-  - 美空あおい（[内科病棟](../Page/内科学.md "wikilink")[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")）:[石原さとみ](../Page/石原さとみ.md "wikilink")
-  - 高樹源太（[循環器内科医](../Page/循環器学.md "wikilink")）:[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
-  - 小峰響子（内科病棟主任看護師）:[杉田かおる](../Page/杉田かおる.md "wikilink")
-  - 小峰タク（小峰響子の長男）:[小川光樹](https://ja.wikipedia.org/wiki/小川光樹 "wikilink")
-  - 江藤誠（研修医・元[耳鼻咽喉科医](../Page/耳鼻咽喉科学.md "wikilink")）:[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")
-  - 北沢タケシ（看護助手）:[小山慶一郎](../Page/小山慶一郎.md "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）
-  - 加納キリ子（内科病棟看護師）：[加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")
-  - 片桐勇（[診療放射線技師](../Page/診療放射線技師.md "wikilink")）：[鈴木浩介](../Page/鈴木浩介_\(俳優\).md "wikilink")
-  - バンチョ羽沢（居酒屋「番長」店長）：[載寧龍二](../Page/さいねい龍二.md "wikilink")
-  - 小野久美（内科病棟看護師）：[大村美樹](https://ja.wikipedia.org/wiki/大村美樹 "wikilink")
-  - 西桃子（内科病棟看護師）：[高樹マリア](../Page/高樹マリア.md "wikilink")
-  - 杉村健太（運転手）：[まいど豊](../Page/まいど豊.md "wikilink")
-  - 越路貴信（運転助手）：[桜井聖](../Page/桜井聖.md "wikilink")
-  - 亀井福太郎（患者）：[六角精児](../Page/六角精児.md "wikilink")
-  - 不破吾郎（患者）：[平賀雅臣](../Page/平賀雅臣.md "wikilink")
-  - 佐伯龍之介（患者）：[矢柴俊博](../Page/矢柴俊博.md "wikilink")
-  - 緑川雅子（内科師長）：[高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
-  - 大倉喜一（副院長兼外科部長→院長付室長→富田島診療所長・[外科医](https://ja.wikipedia.org/wiki/外科学 "wikilink")）：[佐戸井けん太](https://ja.wikipedia.org/wiki/佐戸井けん太 "wikilink")
-  - 浜松平助（内科部長→副院長・[糖尿病](../Page/糖尿病.md "wikilink")専門医）：[小野武彦](../Page/小野武彦.md "wikilink")
-  - 田所義男（内科主任→副院長→山形中央病院院長・[消化器内科医](../Page/消化器学.md "wikilink")）:[西村雅彦](../Page/西村まさ彦.md "wikilink")
-  - 泉田てる（総師長）:[片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")
+  - 美空あおい
+    演 - [石原さとみ](../Page/石原さとみ.md "wikilink")
+    [内科病棟](../Page/内科学.md "wikilink")[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")。
+  - 高樹源太
+    演 - [柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
+    [循環器内科医](../Page/循環器学.md "wikilink")。
+  - 小峰響子
+    演 - [杉田かおる](../Page/杉田かおる.md "wikilink")
+    内科病棟主任看護師。
+  - 小峰タク
+    演 - [小川光樹](https://ja.wikipedia.org/wiki/小川光樹 "wikilink")
+    響子の長男。
+  - 江藤誠
+    演 - [八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")
+    研修医。元[耳鼻咽喉科医](../Page/耳鼻咽喉科学.md "wikilink")。
+  - 北沢タケシ
+    演 - [小山慶一郎](../Page/小山慶一郎.md "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）
+    看護助手。
+  - 加納キリ子
+    演 - [加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")
+    内科病棟看護師。
+  - 片桐勇
+    演 - [鈴木浩介](../Page/鈴木浩介_\(俳優\).md "wikilink")
+    [診療放射線技師](../Page/診療放射線技師.md "wikilink")。
+  - バンチョ羽沢
+    演 - [載寧龍二](../Page/さいねい龍二.md "wikilink")
+    居酒屋「番長」の店長。
+  - 小野久美
+    演 - [大村美樹](https://ja.wikipedia.org/wiki/大村美樹 "wikilink")
+    内科病棟看護師。
+  - 西桃子
+    演 - [高樹マリア](../Page/高樹マリア.md "wikilink")
+    内科病棟看護師。
+  - 杉村健太
+    演 - [まいど豊](../Page/まいど豊.md "wikilink")
+    運転手。
+  - 越路貴信
+    演 - [桜井聖](../Page/桜井聖.md "wikilink")
+    運転助手。
+  - 亀井福太郎
+    演 - [六角精児](../Page/六角精児.md "wikilink")
+    患者。
+  - 不破吾郎
+    演 - [平賀雅臣](../Page/平賀雅臣.md "wikilink")
+    患者。
+  - 佐伯龍之介 / 猫耳
+    演 - [矢柴俊博](../Page/矢柴俊博.md "wikilink")
+    患者。
+  - 緑川雅子
+    演 - [高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink")
+    内科部長。
+  - 大倉喜一
+    演 - [佐戸井けん太](https://ja.wikipedia.org/wiki/佐戸井けん太 "wikilink")
+    副院長兼外科部長→院長付室長→富田島診療所長・[外科医](https://ja.wikipedia.org/wiki/外科学 "wikilink")。
+  - 浜松平助
+    演 - [小野武彦](../Page/小野武彦.md "wikilink")
+    内科部長→副院長・[糖尿病](../Page/糖尿病.md "wikilink")専門医。
+  - 田所義男
+    演 - [西村雅彦](../Page/西村まさ彦.md "wikilink")
+    内科主任→副院長→山形中央病院院長・[消化器内科医](../Page/消化器学.md "wikilink")。
+  - 泉田てる
+    演 - [片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")
+    総師長。
 
-## ゲスト出演者
+### ゲスト出演者
 
-  - 梅沢サエ：[草村礼子](../Page/草村礼子.md "wikilink")（第1話）
-  - 梅沢修一：[相島一之](../Page/相島一之.md "wikilink")（第1話）
-  - 山田：[山上賢治](../Page/山上賢治.md "wikilink")（第1・4話）
-  - 野呂：[村田雄浩](../Page/村田雄浩.md "wikilink")（第2話）
-  - 香田：[小山かつひろ](https://ja.wikipedia.org/wiki/小山かつひろ "wikilink")（第2話）
-  - 又蔵：[モロ師岡](../Page/モロ師岡.md "wikilink")（第3話）
-  - 河野：[市原清彦](https://ja.wikipedia.org/wiki/市原清彦 "wikilink")（第4話）
-  - 河野の娘：[小林美江](https://ja.wikipedia.org/wiki/小林美江 "wikilink")（第4話）
-  - 佐川医師：[矢島健一](../Page/矢島健一.md "wikilink")（第4話）
-  - 大貫サクラ：[佐々木すみ江](../Page/佐々木すみ江.md "wikilink")（第5話）
-  - 大貫君子：[栗田よう子](../Page/栗田よう子.md "wikilink")（第5話）
-  - 笠井代議士：[山田明郷](../Page/山田明郷.md "wikilink")（第6話）
-  - 笠井守：[小倉史也](../Page/小倉史也.md "wikilink")（第6話）
-  - 高樹美沙子：[秋本奈緒美](../Page/秋本奈緒美.md "wikilink")（第6話～第8話）
-  - 不動医師：[田中要次](../Page/田中要次.md "wikilink")（第7話）
-  - 高樹美保：[森本更紗](https://ja.wikipedia.org/wiki/森本更紗 "wikilink")（第8話）
-  - あおいの母：[大塚良重](../Page/大塚良重.md "wikilink")（第9話）
-  - 白井貴之：藤井章満（第9話～最終話）
-  - 白井瑞江：[山下容莉枝](../Page/山下容莉枝.md "wikilink")（第9話～最終話）
-  - 久野理事：[中丸新将](../Page/中丸新将.md "wikilink")（最終話）
+  - 第1話
 
-## スペシャル版ゲスト
+:; あおいの母
 
-  - 夏目彬（[循環器内科医](../Page/循環器学.md "wikilink")）:[石田ゆり子](../Page/石田ゆり子.md "wikilink")
-  - 皐月幸助（[ソーシャルワーカー](../Page/ソーシャルワーカー.md "wikilink")）：[山崎樹範](../Page/山崎樹範.md "wikilink")
-  - 花村（老人患者）：[織本順吉](../Page/織本順吉.md "wikilink")
-  - 夏目の母：[木野花](../Page/木野花.md "wikilink")
-  - 佐々木亜美（内科病棟新人看護師）：[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")
-  - 内科病棟新人看護師 ：[小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
+:: 演 - [大塚良重](../Page/大塚良重.md "wikilink")
+
+:; 梅沢サエ
+
+:: 演 - [草村礼子](../Page/草村礼子.md "wikilink")
+
+:; 梅沢修一
+
+:: 演 - [相島一之](../Page/相島一之.md "wikilink")
+
+:; 山田
+
+:: 演 - [山上賢治](../Page/山上賢治.md "wikilink")
+
+:; 野呂
+
+  -
+
+      -
+        演 - [村田雄浩](../Page/村田雄浩.md "wikilink")
+
+  - 第2話
+
+:; 香田
+
+  -
+
+      -
+        演 - [小山かつひろ](https://ja.wikipedia.org/wiki/小山かつひろ "wikilink")
+
+  - 第3話
+
+:; 又蔵
+
+:: 演 - [モロ師岡](../Page/モロ師岡.md "wikilink")
+
+:; 白井貴之
+
+  -
+
+      -
+        演 - [藤井章満](https://ja.wikipedia.org/wiki/藤井章満 "wikilink")
+        患者。
+
+  - 第4話
+
+:; 河野
+
+:: 演 - [市原清彦](https://ja.wikipedia.org/wiki/市原清彦 "wikilink")
+
+:; 河野の娘
+
+:: 演 - [小林美江](https://ja.wikipedia.org/wiki/小林美江 "wikilink")
+
+:; 佐川医師
+
+  -
+
+      -
+        演 - [矢島健一](../Page/矢島健一.md "wikilink")
+
+  - 第5話
+
+:; 大貫サクラ
+
+:: 演 - [佐々木すみ江](../Page/佐々木すみ江.md "wikilink")
+
+:; 大貫君子
+
+  -
+
+      -
+        演 - [栗田よう子](../Page/栗田よう子.md "wikilink")
+
+  - 第6話
+
+:; 笠井代議士
+
+:: 演 - [山田明郷](../Page/山田明郷.md "wikilink")
+
+:; 笠井守
+
+:: 演 - [小倉史也](../Page/小倉史也.md "wikilink")
+
+:; 高樹美沙子
+
+  -
+
+      -
+        演 - [秋本奈緒美](../Page/秋本奈緒美.md "wikilink")
+
+  - 第7話
+
+:; 不動医師
+
+  -
+
+      -
+        演 - [田中要次](../Page/田中要次.md "wikilink")
+
+  - 第8話
+
+:; 高樹美保
+
+:: 演 - [森本更紗](https://ja.wikipedia.org/wiki/森本更紗 "wikilink")
+
+:: 高樹の娘。
+
+:; 白井瑞江
+
+  -
+
+      -
+        演 - [山下容莉枝](../Page/山下容莉枝.md "wikilink")
+        白井の妻。
+
+  - 最終話
+
+:; 久野理事
+
+  -
+
+      -
+        演 - [中丸新将](../Page/中丸新将.md "wikilink")
+
+  - スペシャル版
+
+:; 夏目彬
+
+:: 演 - [石田ゆり子](../Page/石田ゆり子.md "wikilink")
+
+:: [循環器内科医](../Page/循環器学.md "wikilink")。
+
+:; 皐月幸
+
+:: 演 - [山崎樹範](../Page/山崎樹範.md "wikilink")
+
+:: [ソーシャルワーカー](../Page/ソーシャルワーカー.md "wikilink")。
+
+:; 花村
+
+:: 演 - [織本順吉](../Page/織本順吉.md "wikilink")
+
+:: 患者。
+
+:; 夏目の母
+
+:: 演 - [木野花](../Page/木野花.md "wikilink")
+
+:; 佐々木亜美
+
+:: 演 - [黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")
+
+:: 内科病棟新人看護師。
+
+:; 内科病棟新人看護師
+
+  -
+
+      -
+        演 - [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
 
 ## スタッフ
 
-  - 脚本:[吉田智子](../Page/吉田智子_\(脚本家\).md "wikilink")
-  - 音楽:[福島祐子](https://ja.wikipedia.org/wiki/福島祐子 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")
-  - 企画:金井卓也（フジテレビ）
-  - プロデューサー:[小椋久雄](../Page/小椋久雄.md "wikilink")、永井麗子（[共同テレビ](../Page/共同テレビジョン.md "wikilink")）
-  - 演出:[土方政人](../Page/土方政人.md "wikilink")、[都築淳一](../Page/都築淳一.md "wikilink")、[石川淳一](https://ja.wikipedia.org/wiki/石川淳一 "wikilink")（共同テレビ）
-  - 制作:フジテレビ・共同テレビ
+  - 脚本 - [吉田智子](../Page/吉田智子_\(脚本家\).md "wikilink")
+  - 音楽 - [福島祐子](https://ja.wikipedia.org/wiki/福島祐子 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")
+  - 企画 - 金井卓也（フジテレビ）
+  - プロデューサー - [小椋久雄](../Page/小椋久雄.md "wikilink")、永井麗子（[共同テレビ](../Page/共同テレビジョン.md "wikilink")）
+  - 演出 - [土方政人](../Page/土方政人.md "wikilink")、[都築淳一](../Page/都築淳一.md "wikilink")、[石川淳一](https://ja.wikipedia.org/wiki/石川淳一 "wikilink")（共同テレビ）
+  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、共同テレビ
 
 ## 楽曲
 
-  - オープニング曲：[オオゼキタク](../Page/オオゼキタク.md "wikilink")「Destination」（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
+  - オープニング曲：[オオゼキタク](../Page/オオゼキタク.md "wikilink")「[Destination](https://ja.wikipedia.org/wiki/Destination_\(オオゼキタクの曲\) "wikilink")」（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
   - 主題歌：[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")「[桜](../Page/桜_\(コブクロの曲\).md "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
+
+## スペシャル版ストーリー
+
+季節は秋。美空あおい（[石原さとみ](../Page/石原さとみ.md "wikilink")）が勤務する桜川病院の秋の人事異動により、ナースセンターには新人看護師･佐々木亜美（[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")）らが配属され、あおいはプリセプター（新人指導担当）として亜美らを指導する立場になっていた。そこに、アメリカの[ER](../Page/救急救命室.md "wikilink")（[救急救命室](../Page/救急救命室.md "wikilink")）の出身で、高樹源太（[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")）と同じ循環器専門のすご腕医師･夏目彬（[石田ゆり子](../Page/石田ゆり子.md "wikilink")）が泉田てる総師長（[片平なぎさ](https://ja.wikipedia.org/wiki/片平なぎさ "wikilink")）に引き抜かれて赴任してくる。夏目の科学的根拠に基づいたアメリカ流の医療スタンスに、高樹をはじめ桜川の面々の心は揺れる。だが、このような夏目のスタンスには過去のある苦い経験が基になっていた…。そんな中、老人患者･花村（[織本順吉](../Page/織本順吉.md "wikilink")）が待合ロビーで突然不整脈を起こして倒れ、一時は回復するもその後痴呆に似た症状を示すようになる。あおいたちは『ハムごはん』以外の意志を伝えない花村の看病に苦慮する一方で、出口ばかりを気にする花村の真意を見抜けない日々が続いた。数日後、すっかり憔悴しきっていたあおいのもとに、腹痛や下痢を訴えた食中毒患者が続々と運び込まれて病院は大混乱に陥る。混乱は救命出身でノウハウを身につけていたあおいや、駆けつけた桜川の面々の、迅速かつ的確な対応により収束に向かう。そんな中、病棟の見回り番だった亜美が、病室で寝ていたはずの花村が病院から忽然と姿を消していたことに気づき…。
 
 ## サブタイトル
 
@@ -170,12 +352,16 @@
 </tbody>
 </table>
 
+## 再放送
+
+  - [2020年](../Page/2020年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[4月17日](../Page/4月17日.md "wikilink")まで[メディアミックスα](https://ja.wikipedia.org/wiki/メディアミックスα "wikilink")枠で再放送された。
+
 ## 備考
 
   - 一部放送局で開始している地上デジタル放送（試験放送中の局も含む）でEPGの番組名の表記は「N'sあおい」となっている局がある。
-  - 最終回の放送日の3月21日、同日に最終回を迎えた[アンフェア](../Page/アンフェア.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の主演をつとめた[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")と「春分の日ホリデースペシャル」での共演を果たした。
-  - NEWS の小山慶一郎はこの作品が連続ドラマ初レギュラー出演となる。
-  - 役作りの為、[ロングヘアー](https://ja.wikipedia.org/wiki/ロングヘアー "wikilink")をとても気に入っていた[石原さとみ](../Page/石原さとみ.md "wikilink")は髪を[ショートカット](https://ja.wikipedia.org/wiki/ショートカット "wikilink")にしたが2013年現在は[ロングヘアー](https://ja.wikipedia.org/wiki/ロングヘアー "wikilink")に戻っている。
+  - 最終回の放送日の3月21日、同日に最終回を迎えた『[アンフェア](../Page/アンフェア.md "wikilink")』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の主演をつとめた[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")と「春分の日ホリデースペシャル」での共演を果たした。
+  - NEWSの小山慶一郎はこの作品が連続ドラマ初レギュラー出演となる。
+  - 役作りの為、[ロングヘアー](https://ja.wikipedia.org/wiki/ロングヘアー "wikilink")をとても気に入っていた[石原さとみ](../Page/石原さとみ.md "wikilink")は髪を[ショートカット](https://ja.wikipedia.org/wiki/ショートカット "wikilink")にしたが2013年現在はロングヘアーに戻っている。
 
 ## 関連商品
 

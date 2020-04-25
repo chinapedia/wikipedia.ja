@@ -500,7 +500,7 @@ Good bye, yesterday：<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title
 
   - [マンモスプロによるアーティストページ](http://mammoth-pro.com/artist/miz.html)
 
-  - [Miz オフィシャルブログ](http://ameblo.jp/mizrock/) Powered by [Ameba](../Page/アメーバブログ.md "wikilink")（2007年7月12日 - ）
+  - [Miz オフィシャルブログ](https://ameblo.jp/mizrock/) Powered by [Ameba](../Page/アメーバブログ.md "wikilink")（2007年7月12日 - ）
 
   - [ユニバーサルミュージックによるアーティストページ](http://www.universal-music.co.jp/mizrock/)
 

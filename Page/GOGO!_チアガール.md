@@ -5,7 +5,7 @@
 
 それまで男子校だった三ツ星学園に女子部と芸術コースが新設され、転校してきた真弓ら女子生徒たちが学園をかき回し活躍する青春コメディー\[1\]。
 
-1980年11月5日から1981年10月21日まで、[JNN加盟局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（ただし、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")除く）で毎週[水曜](../Page/水曜日.md "wikilink")19:30 ‐ 20:00（[JST](../Page/日本標準時.md "wikilink")）の30分枠で放映された。全40回。ビデオソフト化・DVDソフト化は2014年3月現在までされていない。
+1980年11月5日から1981年10月21日まで、[JNN加盟局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（ただし、[信越放送](../Page/信越放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")除く）で毎週[水曜](../Page/水曜日.md "wikilink")19:30 ‐ 20:00（[JST](../Page/日本標準時.md "wikilink")）の30分枠で放映された。全40回。ビデオソフト化・DVDソフト化は2014年3月現在までされていない。
 
 ## エピソード
 

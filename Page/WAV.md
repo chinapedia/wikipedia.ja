@@ -11,6 +11,60 @@ WAVフォーマットでは、データ長が32ビット符号なし[整数型](
 
 RIFFのチャンクとして、WAVファイル内にタグ情報を付加する事が出来るが、使用する文字コードは特に規定されておらず、互換性に問題が生じ易い仕様になっている。
 
+## 仕様
+
+### RIFF
+
+RIFFファイルはタグ付きのファイル形式で、チャンクと呼ばれるコンテナの集合である\[1\]。 チャンクには4文字のタグ)FourCC)とチャンクのサイズ(バイト数)があり、タグによってチャンクのフォーマットが区別される。 いくつか標準的なタグがあり、4文字すべてが大文字のタグは予約されたタグである。
+RIFFファイルの一番外側のチャンクはRIFFタグを持つ。 チャンクデータの最初の4バイトはフォームの種類を指定するFourCCでその後ろにサブチャンクが続く。 WAVファイルの場合、FourCCは`WAVE`である。
+RIFF形式ではチャンクの出現順には一般的な規定がないが、`fmt`チャンクは`data`チャンクの直前に置くという例外がある。
+タグファイル形式の利点として、RIFFファイルの利用者が知らないタグは読み飛ばし、処理可能なチャンクのみを扱うことができる点があげられる。
+
+RIFFフォーマットにおいて複数バイトで表現されるデータの並びはリトルエンディアンである。
+
+RIFFファイルの一例を挙げる。 この例ではオフセット0x0に`RIFF`チャンクがあり、チャンクの長さは0x00630b20である。 `FourCC`は`WAVE`であり、ファイルがWAVファイルであることを示している。 オフセット0x12からはサブチャンクが続く。 オフセット0x30から`fmt`チャンクが始まり、オフセット0x48から`data`チャンクが始まっている。 <code>
+
+    00000000   52 49 46 46 20 0b 63 00 57 41 56 45 4a 55 4e 4b  RIFF .c.WAVEJUNK
+    00000010   1c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    00000020   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    00000030   66 6d 74 20 10 00 00 00 01 00 02 00 44 ac 00 00  fmt ........D...
+    00000040   10 b1 02 00 04 00 10 00 64 61 74 61 d8 0a 63 00  ........data..c.
+    00000050   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    00000060   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    00000070   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    00000080   00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+    ...
+
+</code>
+
+### fmt チャンク
+
+`fmt`チャンクの構造は、拡張可能なWAVEFORMATEX構造体によって定義される\[2\]。
+
+    typedef struct {
+        WORD  wFormatTag;
+        WORD  nChannels;
+        DWORD nSamplesPerSec;
+        DWORD nAvgBytesPerSec;
+        WORD  nBlockAlign;
+        WORD  wBitsPerSample;
+        WORD  cbSize;
+    } WAVEFORMATEX;
+
+`fmt`チャンクのサイズが16バイトのときは、拡張を持たないフォーマットでありcbSizeは存在しない。
+
+フォーマットはwFormatTagであらわされ、リニアPCMの場合は1(`WAVE_FORMAT_PCM`)、32ビット浮動小数点の場合は3(`WAVE_FORMAT_IEEE_FLOAT`)となっている。 これらの定数はWindows SDKに含まれるmmreg.h\[3\]によって定義されており、さらにそれぞれのフォーマットによって`fmt`チャンクの構造の詳細が決まる。
+
+チャンネル数、サンプルレート、サンプルのビット数などが定義される。
+
+### dataチャンク
+
+`data`チャンクの中身は`fmt`チャンクによって定義されるフォーマットに基づく。
+
+2チャンネルのリニアPCMの場合には、左チャンネル・右チャンネルの順に符号付整数で格納される。
+
+浮動小数点数で格納される場合、慣習からデータ値の範囲は-1.0から+1.0に限られる。
+
 ## Windows上での圧縮
 
 Windows上では、[ACMを利用すれば](https://ja.wikipedia.org/wiki/Audio_Compression_Manager "wikilink")、圧縮などが行える。この機能が利用できる[ソフトウェア](../Page/ソフトウェア.md "wikilink")として、[サウンド レコーダーがある](../Page/サウンド_レコーダー.md "wikilink")。
@@ -28,3 +82,7 @@ Windows上では、[ACMを利用すれば](https://ja.wikipedia.org/wiki/Audio_C
   - [Broadband Watch--BBっとWORDS 「WAVの構造と現状」](http://bb.watch.impress.co.jp/cda/bbword/16386.html)
 
 [Category:音声ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:音声ファイルフォーマット "wikilink") [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:デジタルオーディオ](https://ja.wikipedia.org/wiki/Category:デジタルオーディオ "wikilink") [Category:スタジオ関連機材](https://ja.wikipedia.org/wiki/Category:スタジオ関連機材 "wikilink")
+
+1.  [Sustainability of Digital Formats: Planning for Library of Congress Collections - RIFF (Resource Interchange File Format)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000025.shtml)
+2.  [Microsoft Docs WAVEFORMATEX](https://docs.microsoft.com/en-us/previous-versions//ms713497%28v%3dvs.85%29)
+3.  [Microsoft Docs mmreg.h header](https://docs.microsoft.com/en-us/windows/win32/api/mmreg/)

@@ -11,7 +11,7 @@
 
 2008-09シーズンから[ポール・インス](../Page/ポール・インス.md "wikilink")が監督に就任。イングランドの黒人がプレミアリーグのチームを率いるのは初めてのことで注目を集めた(成績不振により2008年12月16日に解任)。
 
-2011-12シーズンは19位となり、[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")へ降格。2016-17シーズンは22位となり、[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")へ降格。
+2011-12シーズンは19位となり、[フットボールリーグ・チャンピオンシップへ降格](../Page/EFLチャンピオンシップ.md "wikilink")。2016-17シーズンは22位となり、[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")へ降格。
 
 ## タイトル
 
@@ -269,7 +269,7 @@
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999–00</p></td>
+<td><p>1999–2000</p></td>
 <td><p>ディヴィジョン1</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
@@ -374,7 +374,7 @@
 </tr>
 <tr class="even">
 <td><p>2012–13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
+<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオンシップ</a></p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>16</p></td>

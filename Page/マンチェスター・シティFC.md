@@ -288,7 +288,7 @@
 
   - [2019年](../Page/2019年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")現在
 
-★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ☆  ★  ☆  ☆
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ☆  ★  ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -627,9 +627,16 @@
 <!-- end list -->
 
   - [公式サイト](http://www.mcfc.co.uk/)
+
   - [Premier League.com - Manchester City](http://www.premierleague.com/en-gb/clubs/profile.overview.html/man-city)
+
   - [UEFA.com - Manchester City](http://jp.uefa.com/teamsandplayers/teams/club=52919/domestic/index.html)
+
   - [マンチェスター・シティ公式モバイルサイト](http://mcfcmobile.jp/)
+
+  -
+
+  -
 
 <!-- end list -->
 

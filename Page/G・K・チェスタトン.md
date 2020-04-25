@@ -93,6 +93,7 @@
   - [1922年](../Page/1922年.md "wikilink") 『知りすぎた男』（The Man Who Knew Too Much）
       - 『知りすぎた男　ホーン・フィッシャーの事件簿』（井伊順彦訳、論創社〈論創海外ミステリ〉、2008年）
           - この訳書は、上記『奇商クラブ』に収録2篇は省略。
+      - 『知りすぎた男』（南條竹則訳、創元推理文庫、2020年5月）
   - 1925年 『法螺吹き友の会』（Tales of Long Bow)
       - 『法螺吹き友の会』（井伊順彦訳、論創社〈論創海外ミステリ〉、2012年）
   - 1926年 『[ブラウン神父の不信](../Page/ブラウン神父の不信.md "wikilink")』（The Incredulity of Father Brown）
@@ -105,7 +106,7 @@
       - 『ブラウン神父の秘密』（福田恆存・中村保男訳、創元推理文庫：東京創元社、1961年。1982年に改訂され中村保男単独訳となる、改版2017年）
   - 1929年 『詩人と狂人たち』（The Poet and The Lunatics）
       - 『詩人と狂人たち』（福田恆存訳、創元推理文庫：東京創元社、1977年。もと1957年「世界推理小説全集33」、のちに中村保男訳名義）
-          - 別版「詩人と狂人達」[国書刊行会](../Page/国書刊行会.md "wikilink")〈[世界幻想文学大系](https://ja.wikipedia.org/wiki/世界幻想文学大系 "wikilink")12〉、1976年（福田恆存訳（実質上は[中村保男](../Page/中村保男.md "wikilink")訳）、創元社版と訳文の違う箇所がある）
+          - 別版「詩人と狂人達」[国書刊行会](../Page/国書刊行会.md "wikilink")〈[世界幻想文学大系](https://ja.wikipedia.org/wiki/世界幻想文学大系 "wikilink")12〉、1976年（福田恆存訳（実質上は[中村保男](../Page/中村保男.md "wikilink")訳）、創元社版と訳文が異なった箇所がある）
       - 『詩人と狂人たち　ガブリエル・ゲイルの生涯の逸話 【新訳版】』（[南條竹則](../Page/南條竹則.md "wikilink")訳、創元推理文庫：東京創元社、2016年）
   - [1930年](../Page/1930年.md "wikilink") 『4名の申し分なき重罪人』（Four Faultless Felons）
       - 『四人の申し分なき重罪人』（[西崎憲](https://ja.wikipedia.org/wiki/西崎憲 "wikilink")訳、[国書刊行会](../Page/国書刊行会.md "wikilink")、2001年／[ちくま文庫](../Page/ちくま文庫.md "wikilink")、2010年）
@@ -165,4 +166,4 @@
 
   -
   -
-[Category:19世紀イギリスの詩人](https://ja.wikipedia.org/wiki/Category:19世紀イギリスの詩人 "wikilink") [Category:20世紀イギリスの詩人](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの詩人 "wikilink") [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスの随筆家](https://ja.wikipedia.org/wiki/Category:イギリスの随筆家 "wikilink") [Category:イギリスの文芸評論家](https://ja.wikipedia.org/wiki/Category:イギリスの文芸評論家 "wikilink") [Category:イギリスの美術評論家](https://ja.wikipedia.org/wiki/Category:イギリスの美術評論家 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:アフォリスト](https://ja.wikipedia.org/wiki/Category:アフォリスト "wikilink") [Category:イングランドのカトリックの人物](https://ja.wikipedia.org/wiki/Category:イングランドのカトリックの人物 "wikilink") [Category:ブラウン神父シリーズ](https://ja.wikipedia.org/wiki/Category:ブラウン神父シリーズ "wikilink") [Category:イギリスの保守思想家](https://ja.wikipedia.org/wiki/Category:イギリスの保守思想家 "wikilink") [Category:反共主義者](https://ja.wikipedia.org/wiki/Category:反共主義者 "wikilink") [Category:ケンジントン・アンド・チェルシー区出身の人物](https://ja.wikipedia.org/wiki/Category:ケンジントン・アンド・チェルシー区出身の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1936年没](https://ja.wikipedia.org/wiki/Category:1936年没 "wikilink")
+[Category:19世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの詩人 "wikilink") [Category:20世紀イングランドの詩人](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの詩人 "wikilink") [Category:19世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:19世紀イングランドの小説家 "wikilink") [Category:20世紀イングランドの小説家](https://ja.wikipedia.org/wiki/Category:20世紀イングランドの小説家 "wikilink") [Category:イングランドの随筆家](https://ja.wikipedia.org/wiki/Category:イングランドの随筆家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:イギリスのファンタジー作家](https://ja.wikipedia.org/wiki/Category:イギリスのファンタジー作家 "wikilink") [Category:イギリスの文芸評論家](https://ja.wikipedia.org/wiki/Category:イギリスの文芸評論家 "wikilink") [Category:イギリスの美術評論家](https://ja.wikipedia.org/wiki/Category:イギリスの美術評論家 "wikilink") [Category:キリスト教弁証家](https://ja.wikipedia.org/wiki/Category:キリスト教弁証家 "wikilink") [Category:アフォリスト](https://ja.wikipedia.org/wiki/Category:アフォリスト "wikilink") [Category:イングランドのカトリックの人物](https://ja.wikipedia.org/wiki/Category:イングランドのカトリックの人物 "wikilink") [Category:ブラウン神父シリーズ](https://ja.wikipedia.org/wiki/Category:ブラウン神父シリーズ "wikilink") [Category:イギリスの保守思想家](https://ja.wikipedia.org/wiki/Category:イギリスの保守思想家 "wikilink") [Category:反共主義者](https://ja.wikipedia.org/wiki/Category:反共主義者 "wikilink") [Category:ケンジントン・アンド・チェルシー区出身の人物](https://ja.wikipedia.org/wiki/Category:ケンジントン・アンド・チェルシー区出身の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1936年没](https://ja.wikipedia.org/wiki/Category:1936年没 "wikilink")

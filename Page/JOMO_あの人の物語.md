@@ -19,25 +19,25 @@
   - TBSラジオ　月曜17:50～18:00
   - HBC[北海道放送](../Page/HBCラジオ.md "wikilink")　月曜17:00～17:10
   - RAB[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")　月曜18:20～18:30（初期は土曜17:10-17:20）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")　月曜18:20～18:30（初期は土曜16:50-17:00）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")　月曜18:20～18:30（初期は土曜16:50-17:00）
   - TBC[東北放送](../Page/東北放送.md "wikilink")　月曜18:00～18:10
   - ABS[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")　月曜18:20～18:30
   - YBC[山形放送](../Page/山形放送.md "wikilink")　月曜16:50～17:00
   - RFC[ラジオ福島](../Page/ラジオ福島.md "wikilink")　土曜18:00～18:10
   - BSN[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")　月曜18:55～19:05
-  - SBC[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")　月曜18:25～18:35
+  - SBC[信越放送](../Page/信越放送.md "wikilink")　月曜18:25～18:35
   - YBS[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")　月曜18:20～18:30
   - SBS[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")　月曜18:20～18:30
   - CBC[中部日本放送](../Page/CBCラジオ.md "wikilink")　月曜18:50～19:00
   - KNB[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")　日曜16:00～16:10
   - MRO[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")　月曜18:10～18:20
   - FBC[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")　月曜18:20～18:30
-  - WBS[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")　月曜20:00～20:10
+  - WBS[和歌山放送](../Page/和歌山放送.md "wikilink")　月曜20:00～20:10
   - ABC[朝日放送](../Page/朝日放送ラジオ.md "wikilink")　月曜19:50～20:00
   - BSS[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")　月曜18:20～18:30
   - RSK[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")　月曜18:20～18:30
   - RCC[中国放送](../Page/中国放送.md "wikilink")　月曜20:00～20:10
-  - KRY[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")　月曜18:20～18:30
+  - KRY[山口放送](../Page/山口放送.md "wikilink")　月曜18:20～18:30
   - JRT[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")　月曜18:20～18:30
   - RNC[西日本放送](../Page/西日本放送.md "wikilink")　金曜18:00～18:10
   - RNB[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")　火曜16:00～16:10

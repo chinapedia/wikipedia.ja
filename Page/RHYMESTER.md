@@ -38,9 +38,9 @@
 
 ### 旧メンバー
 
-  - **[Dr.LOOPER](https://ja.wikipedia.org/wiki/Dr.LOOPER "wikilink")**(本名：藤田飛鳥)
-  - DJ Chocolate(本名：久世衛)
-  - マスター・ティー(本名：臼井俊朗)
+  - **[Dr.LOOPER](https://ja.wikipedia.org/wiki/Dr.LOOPER "wikilink")**（本名：藤田飛鳥）
+  - DJ Chocolate（本名：久世衛）
+  - マスター・ティー（本名：臼井俊朗）
 
 ## 来歴
 
@@ -1470,6 +1470,15 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>配信シングル</p></td>
+<td><p><strong>Forever Young</strong></p></td>
+<td><p><a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>からのライムスター</p></td>
+<td><p><strong>『Forever Young』</strong></p></td>
+<td><p>2020年4月1日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1535,6 +1544,16 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
     ライムスターのメジャーデビュー10周年を祝したイベント。
     前半にTBSラジオ「[ライムスター宇多丸のウィークエンド・シャッフル](../Page/ライムスター宇多丸のウィークエンド・シャッフル.md "wikilink")」のスタジオを完全再現したステージセットを出現させ、映像などをつかった、宇多丸、Mummy-D、DJ JINによる番組風のコーナーを展開。
     後半は開催翌月に発売になるアルバム『POP LIFE』からの曲を中心とした、ライムスターライブ。サプライズ的に宇多丸の入籍が発表された。
+  - R25　RHYMESTER 25th. Anniversary with FUNKY GRAMMAR
+    2014年12月19日、[EX THEATER ROPPONGIで開催](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")。
+    ライムスターの結成25周年を祝したイベント。
+    オープニングでは[童子-T](../Page/童子-T.md "wikilink")による開会宣言の後、ライムスターによる未発表曲「Still Changing」を披露。第1部ではヒップホップクルー・[FUNKY GRAMMAR UNITのメンバー](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")（活動自粛中の[CUEZERO](../Page/CUEZERO.md "wikilink")を除く）が集結したトリビュートライブ。
+    第2部ではライムスターによるライブ。アンコールではFGメンバーが集まっての表彰式、「ウィークエンド・シャッフル」が披露された。
+    イベント終了時には主催フェス『人間交差点』の開催、ビクターへの移籍がサプライズ発表された。
+  - R31 ライムスタークラシックス総選挙
+    2020年3月28日、[東京ドームシティホールで開催予定だったものの](https://ja.wikipedia.org/wiki/ミーツポート "wikilink")、[新型コロナウイルスによる影響を考え中止](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")。
+    これまでライムスター名義で発表された楽曲206曲から特設サイトにて投票を受けた楽曲を人気順にライブ形式にて発表するイベントの予定だった。
+    代替企画として、予定された同日に[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")による配信番組『R31 ライムスタークラシックス総選挙 生配信 From スタジオNOAH Supported by GAREKI』を行い、ランキング発表及び連動したスタジオライブが展開された。
   - ベストバウト
     2013年から始まった対バンイベント。
       - **「ベストバウト Vol. 1」RHYMESTER vs [SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")** (2013年7月15日、[恵比寿 Liquid Room](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink"))

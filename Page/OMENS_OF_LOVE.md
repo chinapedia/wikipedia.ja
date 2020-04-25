@@ -84,6 +84,6 @@
   -
     上の2つのサイトで「OMENS OF LOVE」をサビの前の部分を30秒間試聴できる。
 
-[Category:T-SQUAREの楽曲](https://ja.wikipedia.org/wiki/Category:T-SQUAREの楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:T-SQUAREの楽曲](https://ja.wikipedia.org/wiki/Category:T-SQUAREの楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.  [岩井直溥 自伝 第20回 NSBの定着まで](http://www.bandpower.net/soundpark/02_iwai_story/20.htm) - 吹奏楽マガジン Band Power 2008年12月15日

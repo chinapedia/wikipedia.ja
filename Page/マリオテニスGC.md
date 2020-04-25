@@ -255,8 +255,8 @@
 
 ## 外部リンク
 
-  - [マリオテニスGC公式ページ](https://www.nintendo.co.jp/ngc/gomj/index.html)
-  - [Wiiであそぶセレクション マリオテニスGC公式ページ](https://www.nintendo.co.jp/wii/rmaj/index.html)
+  - [マリオテニスGC 公式ページ](https://www.nintendo.co.jp/ngc/gomj/)
+  - [Wiiであそぶ マリオテニスGC 公式ページ](https://www.nintendo.co.jp/wii/rmaj/)
 
 [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink")
 

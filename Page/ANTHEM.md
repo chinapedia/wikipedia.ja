@@ -216,7 +216,7 @@ LineData =
 
   - 福田洋也
 
-トニー前田とフィンガーというバンドを結成するも長くは続かず活動休止。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。現在は音楽を引退して[写真家](../Page/写真家.md "wikilink")として活動している。
+1990年、「バンドの方向性」によりアンセム(Anthem)を脱退。後に元アンセム、現TYOのTony前田（Vo）と「FINGER」を結成するも数年後には解散。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。1999年には初のソロアルバムである『Resuscitation』をリリース。2002年7月にはジャパニーズ ヘヴィメタル ハードロックミュージシャンのコンピレーションアルバム『Skill and Shout it lets out\[1\]』をリリース。初のトータルプロデュースアルバムになる。2003年にはかねてからの職業難聴のため左耳の聴力が3分の1になってしまったということもあり、音楽界から引退し、[写真家](../Page/写真家.md "wikilink")としての活動を開始。2005年、ANTHEM 20th ANNIVERSARY TOURに[ギタリスト](../Page/ギタリスト.md "wikilink")として参加する。2009年、ソロアルバム『Resuscitation[\[4\]](https://music.apple.com/jp/album/resuscitation-ep/339903075)』がiTunesStoreで配信開始となる。2010年、ANTHEM-25th Anniversaryの全国ツアーに参加。これを期に「ギタリスト完全復活」を遂げる。2012年、元[D.T.R](../Page/D.T.R.md "wikilink")のVo の竹内光雄と「フルコンタクト」を結成。アコースティックギターとコーラスを担当している。2013年、映画「[リュウセイ](https://ja.wikipedia.org/wiki/リュウセイ "wikilink")」の音楽を担当。カメラマンを続けながらも、アコースティックユニット「R.C.G.T」をTank Horiuchi(Percussion)と2015年に結成。2019年にミニアルバムを発表。2019年は全国38か所でソロツアーを実施！ANTHEM時代の盟友である坂本英三ともライブを開催。デビュー35周年である2020年にはニューバンド「Thunder」を結成。2020年3月レコーディング開始。5曲入りミニアルバムを発売予定。また2020年3月より動画配信サイト「[ツイキャス](https://twitcasting.tv/hiroya1128/)」にて配信ライブを開始する。昨年同様に全国ツアーを開催予定。
 
   - 中間英明
 

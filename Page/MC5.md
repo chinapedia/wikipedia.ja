@@ -42,9 +42,9 @@
 
 マネージャーのジョン・シンクレアはホワイトパンサー党の創設者として知られており、政治的姿勢も明確にし、[ヒッピー](../Page/ヒッピー.md "wikilink")のブームに浮かれる世情と真っ向から対立した。反政治的（反体制的?）な活動をしていたMC5は、1968年8月25日のシカゴのLincoln Parkで行われた“Festival of Life” において、悪名高いバンドとして警察からコンサートを中止させられそうになった。コンサートはそのまま続行されたが、終了後シカゴより逃げるようにデトロイトに帰ったという。当時のMC5は危険なバンドとして[FBIにもマークをされていたといわれる](../Page/連邦捜査局.md "wikilink")。
 
-また子供に悪影響を及ぼす等の理由によりしばしば、レコード店より販売の拒否、またはレコードの撤去をされたという事実もある。MC5は当時のデトロイトの大衆紙の1ページ全面で大々的に大手ハドソン・デパートを皮肉り 「KICK OUT OF THE JAMS, MOTHERFUCKER\! and kick in door if the store won’t sell you the album FUCK HUDSON'S\!」とレコードレーベルの[エレクトラ・レコード](../Page/エレクトラ・レコード.md "wikilink")のロゴマークと共に書き込んだ。激怒したハドソン側がエレクトラのレコードを全て撤去、販売を中止したという事件もある。多大な被害を受けたのは所属レコード会社・エレクトラであった。
+また子供に悪影響を及ぼす等の理由によりしばしば、レコード店より販売の拒否、またはレコードの撤去をされたという事実もある。MC5は当時のデトロイトの大衆紙の1ページ全面で大々的に大手ハドソン・デパートを皮肉り 「KICK OUT OF THE JAMS, MOTHERFUCKER\! and kick in door if the store won’t sell you the album FUCK HUDSON'S\!」とレコードレーベルの[エレクトラ・レコード](../Page/エレクトラ・レコード.md "wikilink")のロゴマークと共に書き込んだ。激怒したハドソン側がエレクトラのレコードを全て撤去、販売を中止したという事件もある。多大な被害を受けたのは所属レコード会社・エレクトラであった。指摘された「～　MOTHERFUCKER\!～」の一節を差し替えた改訂版が米国々内盤として[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")代以降しばらく流通した。日本国内ＬＰ盤は1980年代廉価シリーズの再発売も初回音源テープを使用した。
 
-1972年に解散したが、2002年に再結成。再結成後は死去した二人のメンバーを除いた3人のラストネームのイニシャルを取りDTK/MC5（Michel Davis,Dennis Thompson,Wayne Kramer)という名前で活動している。ボーカルにはその時々に、[マッドハニー](https://ja.wikipedia.org/wiki/マッドハニー "wikilink")のマーク・アームや、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")のギルビー・クラーク、ベルレイズのリサ・ケカウラ等をゲストボーカルに呼んでいる。また、同年USA VH1のTVプログラム「MC5: Sonic Revolution 2004」でも放送された様に、現在はメンバーはバンド活動の他にプロデューサー活動も行っている。
+1972年に解散したが、2002年に再結成。再結成後は死去した二人のメンバーを除いた3人のラストネームのイニシャルを取りDTK/MC5（Michel Davis,Dennis Thompson,Wayne Kramer)という名前で活動している\[2\]。ボーカルにはその時々に、[マッドハニー](https://ja.wikipedia.org/wiki/マッドハニー "wikilink")のマーク・アームや、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")のギルビー・クラーク、ベルレイズのリサ・ケカウラ等をゲストボーカルに呼んでいる。また、同年USA VH1のTVプログラム「MC5: Sonic Revolution 2004」でも放送された様に、現在はメンバーはバンド活動の他にプロデューサー活動も行っている。
 
 ## その他
 
@@ -74,3 +74,4 @@
 [Category:アメリカ合衆国のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のハードロック・バンド "wikilink") [Category:アメリカ合衆国のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のパンク・ロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:ミシガン州のミュージシャン](https://ja.wikipedia.org/wiki/Category:ミシガン州のミュージシャン "wikilink") [Category:1964年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1964年に結成した音楽グループ "wikilink") [Category:1972年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1972年に解散した音楽グループ "wikilink") [Category:2003年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に再結成した音楽グループ "wikilink")
 
 1.  [ジョイ・ディヴィジョン](../Page/ジョイ・ディヴィジョン.md "wikilink")から発展した[同名バンドとは別](../Page/ニュー・オーダー.md "wikilink")
+2.  アンソロジー映像集や再発盤を巡って、遺族とは権利調整の法廷闘争に発展した

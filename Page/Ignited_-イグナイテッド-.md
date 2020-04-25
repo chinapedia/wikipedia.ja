@@ -1,4 +1,4 @@
-> この記事は[Ignited --](https://ja.wikipedia.org/wiki/Ignited_--)から翻訳されています。
+> この記事は[Ignited -イグナイテッド-](https://ja.wikipedia.org/wiki/Ignited_-イグナイテッド-)から翻訳されています。
 
 
 「**ignited -イグナイテッド-**」は、[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の20枚目のシングル。発売元は[エピックレコード](../Page/エピックレコードジャパン.md "wikilink")。
@@ -30,6 +30,6 @@
 
 ## 脚注
 
-[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.

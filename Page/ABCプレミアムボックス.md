@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCプレミアムボックス](https://ja.wikipedia.org/wiki/ABCプレミアムボックス)から翻訳されています。
 
 
 **ABCプレミアムボックス**とは、[朝日放送（現：朝日放送ラジオ）が](../Page/朝日放送ラジオ.md "wikilink")、[2006年](../Page/2006年.md "wikilink")度の[ナイターオフシーズン](../Page/プロ野球中継.md "wikilink")（概ね[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜翌年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）のみ、月曜日から土曜日の21時00分から21時30分に放送していた番組枠の[総称（レーベル）である](https://ja.wikipedia.org/wiki/レーベル "wikilink")。

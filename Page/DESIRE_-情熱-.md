@@ -1,4 +1,4 @@
-> この記事は[DESIRE --](https://ja.wikipedia.org/wiki/DESIRE_--)から翻訳されています。
+> この記事は[DESIRE -情熱-](https://ja.wikipedia.org/wiki/DESIRE_-情熱-)から翻訳されています。
 
 
 「**DESIRE -情熱-**」（ディザイア じょうねつ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の14枚目の[シングル](../Page/シングル.md "wikilink")として、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月3日](../Page/2月3日.md "wikilink")にワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりリリースされた ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1750)。
@@ -92,7 +92,7 @@
 
   - [中森明菜 「DESIRE-情熱-」｜Warner Music Japan](https://wmg.jp/akina/discography/5196/)
 
-[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:阿木燿子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿木燿子が制作した楽曲 "wikilink") [Category:鈴木キサブローが制作した楽曲](https://ja.wikipedia.org/wiki/Category:鈴木キサブローが制作した楽曲 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1986年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1986年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:阿木燿子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿木燿子が制作した楽曲 "wikilink") [Category:鈴木キサブローが制作した楽曲](https://ja.wikipedia.org/wiki/Category:鈴木キサブローが制作した楽曲 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[SASEBO](https://ja.wikipedia.org/wiki/SASEBO)から翻訳されています。
+> この記事は[アルカスSASEBO](https://ja.wikipedia.org/wiki/アルカスSASEBO)から翻訳されています。
 
 
 **アルカスSASEBO**（あるかすさせぼ）は、[長崎県](../Page/長崎県.md "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")三浦町にある[多目的ホール](../Page/多目的ホール.md "wikilink")。長崎県が設置する「県民文化ホール『シーサイドホール・アルカスさせぼ』」と、佐世保市が設置する「佐世保地域交流センター」の複合施設であり、財団法人佐世保地域文化事業財団が[指定管理者](../Page/指定管理者.md "wikilink")として管理運営を行っている。
@@ -59,7 +59,7 @@
 ## アクセス
 
   - [JR](../Page/九州旅客鉄道.md "wikilink")・[松浦鉄道](../Page/松浦鉄道.md "wikilink")[佐世保駅](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")から歩行者専用道路または[国道35号](../Page/国道35号.md "wikilink")で徒歩3分
-  - [西肥バス](../Page/西肥自動車.md "wikilink")・[佐世保市営バス](../Page/佐世保市交通局.md "wikilink")「戸尾町」下車
+  - [西肥バス](../Page/西肥自動車.md "wikilink")（[させぼバス](https://ja.wikipedia.org/wiki/させぼバス "wikilink")も含む）「戸尾町」下車
   - [西九州自動車道](../Page/西九州自動車道.md "wikilink")[佐世保みなとICから車で](../Page/佐世保みなとインターチェンジ.md "wikilink")5分
 
 ## 関連項目

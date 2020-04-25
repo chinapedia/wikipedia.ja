@@ -1,4 +1,4 @@
-> この記事は[CSK](https://ja.wikipedia.org/wiki/CSK)から翻訳されています。
+> この記事は[CSKコミュニケーションズ](https://ja.wikipedia.org/wiki/CSKコミュニケーションズ)から翻訳されています。
 
 
 株式会社**CSKコミュニケーションズ**(CSK COMMUNICATIONS CORPORATION)とは、[SCSK](../Page/SCSK.md "wikilink")の子会社で、旧CSKグループの地方展開戦略であるビジネスモデル(沖縄モデル)として設立された会社。 沖縄県に拠点を構え、コールセンター事業とシステム開発事業を展開し、自社にテクニカルサポート部門とシステム開発部門を持ち、それを活かした高度な[CRMソリューションサービスを提供していた](../Page/顧客関係管理.md "wikilink")。

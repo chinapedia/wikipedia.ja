@@ -1,4 +1,4 @@
-> この記事は[F2F \(\)](https://ja.wikipedia.org/wiki/F2F_\(\))から翻訳されています。
+> この記事は[F2F \(航空機\)](https://ja.wikipedia.org/wiki/F2F_\(航空機\))から翻訳されています。
 
 
 '''F2F *'（*Grumman F2F'' ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。

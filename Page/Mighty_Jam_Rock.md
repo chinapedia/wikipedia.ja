@@ -5,9 +5,9 @@
 
 ## メンバー
 
-  - JUMBO MAATCH（ジャンボ・マーチ）[DJ](../Page/ディスクジョッキー.md "wikilink")
-  - TAKAFIN（タカフィン）DJ
-  - BOXER KID（ボクサー・キッド）DJ
+  - JUMBO MAATCH（ジャンボ・マーチ）[DeeJay](../Page/ディスクジョッキー.md "wikilink")
+  - TAKAFIN（タカフィン）DeeJay
+  - BOXER KID（ボクサー・キッド）DeeJay
   - KYARA（キャラ）MC,selector
   - ROCK（ロック）selector
 

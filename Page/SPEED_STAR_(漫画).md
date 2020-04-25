@@ -1,4 +1,4 @@
-> この記事は[SPEED STAR \(\)](https://ja.wikipedia.org/wiki/SPEED_STAR_\(\))から翻訳されています。
+> この記事は[SPEED STAR \(漫画\)](https://ja.wikipedia.org/wiki/SPEED_STAR_\(漫画\))から翻訳されています。
 
 
 『**SPEED STAR**』（スピードスター）は、『[ヤングキング](../Page/ヤングキング.md "wikilink")』で[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")に連載された[飯星シンヤ](https://ja.wikipedia.org/wiki/飯星シンヤ "wikilink")の[オートレース](../Page/オートレース.md "wikilink")漫画。

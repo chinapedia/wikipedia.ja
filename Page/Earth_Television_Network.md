@@ -37,7 +37,7 @@
 
 かつては[スカパー\!や](../Page/スカパー!プレミアムサービス.md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")などで放送されている[BBCワールドで](../Page/BBCワールドニュース.md "wikilink")、1日に4回程度「The World LIVE」が放送されていた。
 
-BSデジタル放送局[BS11がニュース番組中に放送していたが](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、2008年11月末をもって終了した。
+BSデジタル放送局[BS11がニュース番組中に放送していたが](../Page/日本BS放送.md "wikilink")、2008年11月末をもって終了した。
 
 ## サウンドトラック
 

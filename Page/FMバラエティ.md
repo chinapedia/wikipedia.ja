@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMバラエティ](https://ja.wikipedia.org/wiki/FMバラエティ)から翻訳されています。
 
 
 **FMバラエティ**（エフエムバラエティ）は、かつて[FM愛知などで放送されていた](../Page/エフエム愛知.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

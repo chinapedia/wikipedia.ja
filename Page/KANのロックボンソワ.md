@@ -1,4 +1,4 @@
-> この記事は[KAN](https://ja.wikipedia.org/wiki/KAN)から翻訳されています。
+> この記事は[KANのロックボンソワ](https://ja.wikipedia.org/wiki/KANのロックボンソワ)から翻訳されています。
 
 
 『**KANのロックボンソワ**』（カンのロックボンソワ）とは、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

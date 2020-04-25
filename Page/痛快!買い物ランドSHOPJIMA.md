@@ -1,4 +1,4 @@
-> この記事は[!SHOPJIMA](https://ja.wikipedia.org/wiki/!SHOPJIMA)から翻訳されています。
+> この記事は[痛快!買い物ランドSHOPJIMA](https://ja.wikipedia.org/wiki/痛快!買い物ランドSHOPJIMA)から翻訳されています。
 
 
 **痛快！買い物ランドSHOPJIMA**（つうかい！かいものらんど-ショップじま）は、[東京テレビランド](../Page/東京テレビランド.md "wikilink")が制作する[通信販売](../Page/通信販売.md "wikilink")の番組である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")を中心とした数多くの放送局にて放映されている。

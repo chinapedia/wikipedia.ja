@@ -1,4 +1,4 @@
-> この記事は[BANDAY](https://ja.wikipedia.org/wiki/BANDAY)から翻訳されています。
+> この記事は[BANDAY獏](https://ja.wikipedia.org/wiki/BANDAY獏)から翻訳されています。
 
 
 『**BANDAY獏**』（バンデイばく）は、[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[福井テレビで放送された](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Soar \(\)](https://ja.wikipedia.org/wiki/Soar_\(\))から翻訳されています。
+> この記事は[Soar \(認知アーキテクチャ\)](https://ja.wikipedia.org/wiki/Soar_\(認知アーキテクチャ\))から翻訳されています。
 
 
 **Soar**(**SOAR**)とは、[カーネギーメロン大学](https://ja.wikipedia.org/wiki/カーネギーメロン大学 "wikilink")の John Laird、[アレン・ニューウェル](../Page/アレン・ニューウェル.md "wikilink")、Paul Rosenbloom が作成した[認知アーキテクチャ](../Page/認知アーキテクチャ.md "wikilink")の一種。[認識](../Page/認識.md "wikilink")とは何かという観点と、それに基づいた[人工知能](../Page/人工知能.md "wikilink")用の[プログラムアーキテクチャの観点から構成される](../Page/プログラム_\(コンピュータ\).md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に最初に作成され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に論文として発表されて以来、多くの人工知能研究者が人間の行動の様々な観点の[認知モデル](https://ja.wikipedia.org/wiki/認知モデル "wikilink")を作成するのに Soar を用いている。

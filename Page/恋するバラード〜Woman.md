@@ -1,4 +1,4 @@
-> この記事は[Woman](https://ja.wikipedia.org/wiki/Woman)から翻訳されています。
+> この記事は[恋するバラード〜Woman](https://ja.wikipedia.org/wiki/恋するバラード〜Woman)から翻訳されています。
 
 
 『**恋するバラード〜Woman**』（こいするバラード ウーマン）は、東芝EMI（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・[EMI Records Japan](../Page/EMIミュージック・ジャパン.md "wikilink")）ファミリークラブが企画、発売する[通販専用CDボックスである](../Page/通販CD.md "wikilink")。価格は10,290円。

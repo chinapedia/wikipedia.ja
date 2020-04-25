@@ -32,14 +32,16 @@ PVの監督は、「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[
       -
         嵐初のシークレットトーク。内容は『2002年の目標』など。
 
-## a Day in Our Life:Reborn
+## a Day in Our Life : Reborn
 
-**a Day in Our Life:Reborn**は、[嵐の楽曲](../Page/嵐_\(グループ\).md "wikilink")。2020年2月28日に[J Stormから発売されたミニアルバム](../Page/ジェイ・ストーム.md "wikilink")[Reborn Vol.1で初収録](../Page/Reborn_Vol.1.md "wikilink")、初公開となった。
+「**a Day in Our Life : Reborn**」は、[嵐の楽曲](../Page/嵐_\(グループ\).md "wikilink")。2020年2月28日に[J Stormから配信されたEP](../Page/ジェイ・ストーム.md "wikilink")「[Reborn Vol.1](../Page/Reborn_Vol.1.md "wikilink")」で初収録、初公開となった。
 
 ### 曲の詳細
 
-1.  **a Day in Our Life:Reborn**
-      - 作詞:[SHUN](../Page/SHUN.md "wikilink"), SHUYA, Andreas Carlsson,作曲:SHUN,SHUYA,編曲:Geek Boy Al Swettenham,Rap詞:[Sho Sakurai](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
+1.  **a Day in Our Life : Reborn**
+      -
+        作詞:[SHUN](../Page/SHUN.md "wikilink"), SHUYA, Andreas Carlsson,作曲:SHUN,SHUYA,編曲:Geek Boy Al Swettenham,Rap詞:[Sho Sakurai](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
+    <!-- end list -->
       - 7thシングルのリプロダクション曲
 
 ## 収録アルバム
@@ -49,4 +51,4 @@ PVの監督は、「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[
   - [5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")
 
-[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

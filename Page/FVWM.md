@@ -15,7 +15,7 @@
 
 ### 名前の由来
 
-当初、FVWMは*Feeble Virtual Window Manager*であった。これは、Nationによって、[1997](../Page/1997.md "wikilink")年、Linux Jounalによるインタビューに述べられたものである。彼はまた、この名称は、彼オリジナルのリリースが、大体において、ユーザーが選択できる機能を持っておらず、*feeble*であったから選ばれたとも述べている\[2\]。
+当初、FVWMは*Feeble Virtual Window Manager*であった。これは、Nationによって、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、Linux Jounalによるインタビューに述べられたものである。彼はまた、この名称は、彼オリジナルのリリースが、大体において、ユーザーが選択できる機能を持っておらず、*feeble*であったから選ばれたとも述べている\[2\]。
 
 ## 特徴
 

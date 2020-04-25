@@ -1,4 +1,4 @@
-> この記事は[THE OPEN](https://ja.wikipedia.org/wiki/THE_OPEN)から翻訳されています。
+> この記事は[クイズ王最強決定戦〜THE OPEN〜](https://ja.wikipedia.org/wiki/クイズ王最強決定戦〜THE_OPEN〜)から翻訳されています。
 
 
 **クイズ王最強決定戦〜THE OPEN〜**（-さいきょうおうけっていせん ザ・オープン）は、[フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")（現・フジテレビTWO）で放送されていた[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。

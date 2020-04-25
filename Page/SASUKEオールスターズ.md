@@ -1,4 +1,4 @@
-> この記事は[SASUKE](https://ja.wikipedia.org/wiki/SASUKE)から翻訳されています。
+> この記事は[SASUKEオールスターズ](https://ja.wikipedia.org/wiki/SASUKEオールスターズ)から翻訳されています。
 
 
 **SASUKEオールスターズ**（サスケ-）とは、[TBSの](../Page/TBSテレビ.md "wikilink")「[SASUKE](https://ja.wikipedia.org/wiki/SASUKE "wikilink")」に挑戦している有力選手たちを差す。メンバー達が結成したのではなく、番組側によって定義されたもの。メンバーは全員プロのスポーツ選手やタレントではなく、一般人である。

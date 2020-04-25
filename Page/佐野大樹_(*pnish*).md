@@ -1,4 +1,4 @@
-> この記事は[ \(\*pnish\*\)](https://ja.wikipedia.org/wiki/_\(\*pnish\*\))から翻訳されています。
+> この記事は[佐野大樹 \(\*pnish\*\)](https://ja.wikipedia.org/wiki/佐野大樹_\(\*pnish\*\))から翻訳されています。
 
 
 **佐野 大樹**（さの だいき、[1979年](../Page/1979年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。愛称は、**大樹っちゃん**。[ラ・セッテ](https://ja.wikipedia.org/wiki/ラ・セッテ "wikilink")所属。
@@ -63,16 +63,16 @@
   - WBB vol.1 「サムライ・ナイト・フィーバー」（2011年8月10日 - 14日、作:[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")・演出:[伊藤マサミ](https://ja.wikipedia.org/wiki/伊藤マサミ "wikilink")、SPACE107）
   - WBB vol.2 「プレイスター」（2012年4月25日 - 5月6日、作:金沢和樹・演出:[きだつよし](../Page/きだつよし.md "wikilink")、[全労済ホールスペース・ゼロ](https://ja.wikipedia.org/wiki/スペース・ゼロ "wikilink")）
   - WBB vol.3 「苦闘のラブリーロバー」（2012年12月18日 - 25日、作:羽仁 修・演出:亀田真二郎、赤坂RED THEATER)
-  - WBB vol.4 「川崎ガリバー」（2013年4月20日 - 28日、作:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")・演出:[佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹 "wikilink")、[青山円形劇場](../Page/青山円形劇場.md "wikilink")）
-  - WBB Sideトーク（2013年11月2日 - 4日、構成:WBB([佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹 "wikilink")・[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")）、[恵比寿・エコー劇場](https://ja.wikipedia.org/wiki/恵比寿・エコー劇場 "wikilink")）
+  - WBB vol.4 「川崎ガリバー」（2013年4月20日 - 28日、作:佐野大樹・演出:[佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")、[青山円形劇場](../Page/青山円形劇場.md "wikilink")）
+  - WBB Sideトーク（2013年11月2日 - 4日、構成:WBB([佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")・佐野大樹）、[恵比寿・エコー劇場](https://ja.wikipedia.org/wiki/恵比寿・エコー劇場 "wikilink")）
   - WBB vol.5 「サムライ・ナイト・フィーバー再燃」（2013年12月14日 - 23日、作・演出:[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、赤坂RED THEATER）
-  - WBB vol.6 「そして、今夜もニコラシカ！」（2014年6月13日 - 22日、作:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")・演出:徳尾浩司、東京芸術劇場シアターウエスト）
+  - WBB vol.6 「そして、今夜もニコラシカ！」（2014年6月13日 - 22日、作:佐野大樹・演出:徳尾浩司、東京芸術劇場シアターウエスト）
   - WBB vol.7 「バリスタと恋の黒魔術」（2014年11月8日 - 16日、作:小峯裕之・演出:亀田真二郎、赤坂RED THEATER）
-  - WBB vol.8 「ネバー×ヒーロー」作:保木本真也・演出:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")
+  - WBB vol.8 「ネバー×ヒーロー」作:保木本真也・演出:佐野大樹
       - (2015年6月26日 - 30日、東京芸術劇場 シアターウエスト)
       - (2015年7月3日 - 5日、グランフロント大阪 北館４Ｆ ナレッジシアター)
   - WBB vol.9 「殺意は月夜に照らされて」(2015年11月14日 - 11月23日、作:徳尾浩司・演出:亀田真二郎、赤坂RED/THEATER)
-  - WBB vol.10 「懲悪バスターズ」作・演出:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")
+  - WBB vol.10 「懲悪バスターズ」作・演出:佐野大樹
       - (2016年5月19日 - 22日、東京芸術劇場 プレイハウス)
       - (2016年5月28日 - 29日、新神戸オリエンタル劇場)
   - WBB vol.10.5 「リバースヒストリカ2016」(2016年7月27日 - 7月31日、作:[\*pnish\*](../Page/*pnish*.md "wikilink")・演出:WBB、品川プリンスホテル クラブeX)
@@ -114,10 +114,10 @@
   - 演劇集団イヌッコロ 第7回公演 「リバースヒストリカ ver.inuccoro」（2013年10月16日 - 20日、作：\*pnish\*、脚色・演出:羽仁 修）
   - PONKOTSU-BARON project『オズからの招待状』（2014年3月19日 - 23日、作:[伊勢直弘](https://ja.wikipedia.org/wiki/伊勢直弘 "wikilink")・演出:[伊藤マサミ](https://ja.wikipedia.org/wiki/伊藤マサミ "wikilink")、[紀伊國屋サザンシアター](https://ja.wikipedia.org/wiki/紀伊國屋サザンシアター "wikilink")）
   - DANCE ACT 「ニジンスキー」〜神に愛された孤高の天才バレエダンサー〜再演 （2014年4月23日 - 30日、脚本・演出：[荻田浩一](../Page/荻田浩一.md "wikilink")）
-  - 『ギャング アワー』（2014年9月30日 - 10月5日、作:羽仁 修・演出:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")、新宿シアターモリエール)
+  - 『ギャング アワー』（2014年9月30日 - 10月5日、作:羽仁 修・演出:佐野大樹、新宿シアターモリエール)
   - イヌッコロ第9回公演『ご町内デュエル』（2014年10月14日 - 19日、作:羽仁 修、中野ポケットスクエア ザ・ポケット)
   - O-Parts公演 コメディプレイ『リビング』（2016年3月2日 - 3月7日、脚本・演出：[荻田浩一](../Page/荻田浩一.md "wikilink")、赤坂RED/THEATER）
-  - イヌッコロVSシザーブリッツデュエル公演『ご町内デュエル』（2016年10月27日 - 11月6日、脚色:羽仁 修・演出:[佐野大樹](https://ja.wikipedia.org/wiki/佐野大樹 "wikilink")、サンモールスタジオ）
+  - イヌッコロVSシザーブリッツデュエル公演『ご町内デュエル』（2016年10月27日 - 11月6日、脚色:羽仁 修・演出:佐野大樹、サンモールスタジオ）
   - SniTs
       - 『SniTs』（2017年4月29日 - 30日、ザムザ阿佐谷）
       - 『SniTs Vol.2』（2018年4月20日 - 22日、ザムザ阿佐谷）

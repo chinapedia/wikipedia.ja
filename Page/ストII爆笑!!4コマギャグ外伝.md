@@ -1,4 +1,4 @@
-> この記事は[II!!4](https://ja.wikipedia.org/wiki/II!!4)から翻訳されています。
+> この記事は[ストII爆笑!!4コマギャグ外伝](https://ja.wikipedia.org/wiki/ストII爆笑!!4コマギャグ外伝)から翻訳されています。
 
 
 『**ストII爆笑\!\! 4コマギャグ外伝**』（ストツーばくしょうよんコマギャグがいでん）は、[橋口隆志による](../Page/橋口たかし.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。[カプコン](../Page/カプコン.md "wikilink")が開発したゲーム『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』を原作にした作品で、『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[1993年](../Page/1993年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて連載された。単行本は全7巻。橋口にとっての初単行本化作品でもある。

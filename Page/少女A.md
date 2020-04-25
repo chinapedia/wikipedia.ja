@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[少女A](https://ja.wikipedia.org/wiki/少女A)から翻訳されています。
 
 
 「**少女A**」（しょうじょエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の2枚目の[シングル](../Page/シングル.md "wikilink")として、[1982年](../Page/1982年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ワーナー・パイオニア（現：ワーナーミュージック・ジャパン）よりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1616)。
@@ -99,7 +99,7 @@
 
   - [中森明菜にとって最初のヒット曲となった「少女A」。画期的なタイトルの意味を推理・考察する（前編）](https://entertainmentstation.jp/62947) - [es エンタメステーション](https://entertainmentstation.jp/)
 
-[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:売野雅勇が制作した楽曲](https://ja.wikipedia.org/wiki/Category:売野雅勇が制作した楽曲 "wikilink") [Category:芹澤廣明が制作した楽曲](https://ja.wikipedia.org/wiki/Category:芹澤廣明が制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink") [Category:少女を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:少女を題材とした楽曲 "wikilink")
+[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1982年のシングル](https://ja.wikipedia.org/wiki/Category:1982年のシングル "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:売野雅勇が制作した楽曲](https://ja.wikipedia.org/wiki/Category:売野雅勇が制作した楽曲 "wikilink") [Category:芹澤廣明が制作した楽曲](https://ja.wikipedia.org/wiki/Category:芹澤廣明が制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:少女を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:少女を題材とした楽曲 "wikilink")
 
 1.
 2.

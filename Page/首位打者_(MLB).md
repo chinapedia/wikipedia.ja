@@ -1,4 +1,4 @@
-> この記事は[ \(MLB\)](https://ja.wikipedia.org/wiki/_\(MLB\))から翻訳されています。
+> この記事は[首位打者 \(MLB\)](https://ja.wikipedia.org/wiki/首位打者_\(MLB\))から翻訳されています。
 
 
 **首位打者**（しゅいだしゃ、**Batting Champion**）は、[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")における個人打撃[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")の一つである。
@@ -140,6 +140,7 @@
 | [2016年](../Page/2016年.md "wikilink")                    | [DJ・ルメイユ](https://ja.wikipedia.org/wiki/DJ・ルメイユ "wikilink")              | COL                                                             |
 | [2017年](../Page/2017年.md "wikilink")                    | [チャーリー・ブラックモン](https://ja.wikipedia.org/wiki/チャーリー・ブラックモン "wikilink")    | COL                                                             |
 | [2018年](../Page/2018年.md "wikilink")                    | [クリスチャン・イエリッチ](https://ja.wikipedia.org/wiki/クリスチャン・イエリッチ "wikilink")    | MIL                                                             |
+| [2019年](../Page/2019年.md "wikilink")                    | クリスチャン・イエリッチ                                                             | MIL                                                             |
 
 ## メジャー記録
 

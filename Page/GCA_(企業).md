@@ -1,4 +1,4 @@
-> この記事は[GCA \(\)](https://ja.wikipedia.org/wiki/GCA_\(\))から翻訳されています。
+> この記事は[GCA \(企業\)](https://ja.wikipedia.org/wiki/GCA_\(企業\))から翻訳されています。
 
 
 **GCA株式会社**（ジーシーエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")と[欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")を中心に活動するグローバル[M\&A](../Page/M&A.md "wikilink")アドバイザリー会社である。

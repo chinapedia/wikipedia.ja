@@ -1,7 +1,7 @@
-> この記事は[FA](https://ja.wikipedia.org/wiki/FA)から翻訳されています。
+> この記事は[FA女子プレミアリーグ](https://ja.wikipedia.org/wiki/FA女子プレミアリーグ)から翻訳されています。
 
 
-**FA女子プレミアリーグ** (FA Women's Premier League) は[フットボール・アソシエーション](../Page/フットボール・アソシエーション.md "wikilink")（FA）により1992年から開催されている[女子サッカー](../Page/女子サッカー.md "wikilink")リーグ。最上位の「[ナショナルディヴィジョン](../Page/FA女子プレミアリーグ・ナショナルディヴィジョン.md "wikilink")」は2009-10年シーズンまで[イングランド](../Page/イングランド.md "wikilink")における最上位リーグであった。2011年より[FA WSL](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")（FA女子スーパーリーグ）が新規発足したことで2部相当となり、さらに2014年よりWSLが2部制を敷いたことで3部以下のリーグとなっている。ナショナルディヴィジョン（3部相当）と、並列リーグの[ノーザンディヴィジョン](../Page/FA女子プレミアリーグ・ノーザンディヴィジョン.md "wikilink")、[サウザンディヴィジョン](../Page/FA女子プレミアリーグ・サウザンディヴィジョン.md "wikilink")（それぞれ4部相当）で「プレミアリーグ」を構成する。ノーザンおよびサウザンディヴィジョンの優勝チームはナショナルディヴィジョンに昇格するが、最上位のWSLとナショナルディヴィジョンとの間に[入れ替え制度は設けられていない](../Page/入れ替え戦.md "wikilink")。
+**FA女子プレミアリーグ** (FA Women's Premier League) は、[フットボール・アソシエーション](../Page/フットボール・アソシエーション.md "wikilink")（FA）により1992年から開催されている[女子サッカー](../Page/女子サッカー.md "wikilink")リーグ。最上位の「[ナショナルディヴィジョン](../Page/FA女子プレミアリーグ・ナショナルディヴィジョン.md "wikilink")」は2009-10年シーズンまで[イングランド](../Page/イングランド.md "wikilink")における最上位リーグであった。2011年より[FA WSL](https://ja.wikipedia.org/wiki/FA_WSL "wikilink")（FA女子スーパーリーグ）が新規発足したことで2部相当となり、さらに2014年よりWSLが2部制を敷いたことで3部以下のリーグとなっている。ナショナルディヴィジョン（3部相当）と、並列リーグの[ノーザンディヴィジョン](../Page/FA女子プレミアリーグ・ノーザンディヴィジョン.md "wikilink")、[サウザンディヴィジョン](../Page/FA女子プレミアリーグ・サウザンディヴィジョン.md "wikilink")（それぞれ4部相当）で「プレミアリーグ」を構成する。ノーザンおよびサウザンディヴィジョンの優勝チームはナショナルディヴィジョンに昇格するが、最上位のWSLとナショナルディヴィジョンとの間に[入れ替え制度は設けられていない](../Page/入れ替え戦.md "wikilink")。
 
 ## ナショナルディヴィジョンの結果
 
@@ -35,4 +35,4 @@
 
   - [The FA Women's Page](http://www.thefa.com/Womens/)
 
-[Category:FA女子プレミアリーグ](https://ja.wikipedia.org/wiki/Category:FA女子プレミアリーグ "wikilink") [Category:イングランドのサッカーリーグ](https://ja.wikipedia.org/wiki/Category:イングランドのサッカーリーグ "wikilink") [Category:女子サッカーリーグ](https://ja.wikipedia.org/wiki/Category:女子サッカーリーグ "wikilink") [Category:1992年開始のイベント](https://ja.wikipedia.org/wiki/Category:1992年開始のイベント "wikilink")
+[Category:FA女子プレミアリーグ](https://ja.wikipedia.org/wiki/Category:FA女子プレミアリーグ "wikilink") [Category:イングランドのサッカーリーグ](https://ja.wikipedia.org/wiki/Category:イングランドのサッカーリーグ "wikilink") [Category:女子サッカーリーグ](https://ja.wikipedia.org/wiki/Category:女子サッカーリーグ "wikilink") [Category:1992年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1992年開始のスポーツイベント "wikilink")

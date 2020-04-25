@@ -1,4 +1,4 @@
-> この記事は[-CONFESSION-](https://ja.wikipedia.org/wiki/-CONFESSION-)から翻訳されています。
+> この記事は[告白-CONFESSION-](https://ja.wikipedia.org/wiki/告白-CONFESSION-)から翻訳されています。
 
 
 『**告白-CONFESSION-**』（こくはく コンフェッション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[沢田研二](../Page/沢田研二.md "wikilink")の24作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CO-CoLO 1 ](https://ja.wikipedia.org/wiki/CO-CoLO_1_)から翻訳されています。
+> この記事は[CO-CoLO 1 〜夜のみだらな鳥達〜](https://ja.wikipedia.org/wiki/CO-CoLO_1_〜夜のみだらな鳥達〜)から翻訳されています。
 
 
 『**CO-C<span class="Unicode">ó</span>LO 1 〜夜のみだらな鳥達〜**』（ココロファースト よるのみだらなとりたち）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の23作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

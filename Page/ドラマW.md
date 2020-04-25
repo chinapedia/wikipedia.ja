@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ドラマW](https://ja.wikipedia.org/wiki/ドラマW)から翻訳されています。
 
 
 『**ドラマW**』（ドラマダブリュー）は、[WOWOW](../Page/WOWOW.md "wikilink")が[2003年](../Page/2003年.md "wikilink")から不定期に制作・放送している[テレビドラマ](../Page/テレビドラマ.md "wikilink")のシリーズ。全作品ハイビジョンでの製作。
@@ -1243,7 +1243,7 @@
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パレートの誤算#テレビドラマ" title="wikilink">パレートの誤算 〜ケースワーカー殺人事件</a></p></td>
-<td><p>3月7日 - (予定)</p></td>
+<td><p>3月7日 - 4月4日</p></td>
 <td><p>全5回</p></td>
 <td><p>小林聖太郎</p></td>
 <td><p>武井彩</p></td>
@@ -1254,7 +1254,8 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鉄の骨#WOWOW版" title="wikilink">鉄の骨</a></p></td>
-<td><p>4月18日 - (予定)</p></td>
+<td><p>4月18日 - 5月16日<br />
+(予定)</p></td>
 <td><p>全5回</p></td>
 <td><p>鈴木浩介</p></td>
 <td><p>前川洋一</p></td>
@@ -1263,6 +1264,19 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>41</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/駄犬道中おかげ参り#テレビドラマ" title="wikilink">大江戸グレートジャーニー ～ザ・お伊勢参り～</a></p></td>
+<td><p>6月6日 - 7月11日<br />
+(予定)</p></td>
+<td><p>全6回</p></td>
+<td><p><a href="../Page/本木克英.md" title="wikilink">本木克英</a><br />
+<a href="https://ja.wikipedia.org/wiki/井上昌典" title="wikilink">井上昌典</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土橋章宏" title="wikilink">土橋章宏</a></p></td>
+<td><p><a href="../Page/丸山隆平.md" title="wikilink">丸山隆平</a>、<a href="https://ja.wikipedia.org/wiki/芳根京子" title="wikilink">芳根京子</a>、斎藤汰鷹、<a href="../Page/加藤諒.md" title="wikilink">加藤諒</a>、山本耕史</p></td>
+<td><p>土橋章宏</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>#</p></td>
 <td><p>タイトル</p></td>
 <td><p>初放送日</p></td>
@@ -1721,7 +1735,7 @@
 <td><p>全6回</p></td>
 <td><p><a href="../Page/河毛俊作.md" title="wikilink">河毛俊作</a><br />
 村上正典</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上由美子" title="wikilink">井上由美子</a></p></td>
+<td><p><a href="../Page/井上由美子_(脚本家).md" title="wikilink">井上由美子</a></p></td>
 <td><p>向井理、<a href="../Page/黒木瞳.md" title="wikilink">黒木瞳</a>、<a href="../Page/美村里江.md" title="wikilink">美村里江</a>、<a href="https://ja.wikipedia.org/wiki/三浦貴大" title="wikilink">三浦貴大</a>、<a href="../Page/山本耕史.md" title="wikilink">山本耕史</a>、<a href="../Page/原田泰造.md" title="wikilink">原田泰造</a>、渡部篤郎</p></td>
 <td></td>
 <td></td>
@@ -1842,11 +1856,11 @@
 <tr class="even">
 <td><p>41</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オペレーションZ#テレビドラマ" title="wikilink">オペレーションZ ～日本破滅、待ったなし～</a></p></td>
-<td><p>3月15日 - (予定)</p></td>
+<td><p>3月15日 - 4月19日</p></td>
 <td><p>全6回</p></td>
 <td><p>村上正典、都築淳一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/櫻井武晴" title="wikilink">櫻井武晴</a></p></td>
-<td><p>草刈正雄、<a href="../Page/溝端淳平.md" title="wikilink">溝端淳平</a></p></td>
+<td><p>草刈正雄、<a href="../Page/溝端淳平.md" title="wikilink">溝端淳平</a>、高橋メアリージュン</p></td>
 <td><p>真山仁</p></td>
 <td></td>
 </tr>
@@ -1857,7 +1871,7 @@
 <td><p>全6回</p></td>
 <td><p>羽住英一郎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/林民夫" title="wikilink">林民夫</a></p></td>
-<td><p>藤原竜也、<a href="https://ja.wikipedia.org/wiki/竹内涼真" title="wikilink">竹内涼真</a>、佐藤浩市、市原隼人、<a href="https://ja.wikipedia.org/wiki/日向亘" title="wikilink">日向亘</a></p></td>
+<td><p>藤原竜也、<a href="https://ja.wikipedia.org/wiki/竹内涼真" title="wikilink">竹内涼真</a>、佐藤浩市、市原隼人、<a href="../Page/日向亘.md" title="wikilink">日向亘</a></p></td>
 <td><p>吉田修一</p></td>
 <td></td>
 </tr>

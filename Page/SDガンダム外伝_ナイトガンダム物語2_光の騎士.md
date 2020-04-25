@@ -1,4 +1,4 @@
-> この記事は[SD 2 ](https://ja.wikipedia.org/wiki/SD_2_)から翻訳されています。
+> この記事は[SDガンダム外伝 ナイトガンダム物語2 光の騎士](https://ja.wikipedia.org/wiki/SDガンダム外伝_ナイトガンダム物語2_光の騎士)から翻訳されています。
 
 
 『**SDガンダム外伝 ナイトガンダム物語2 光の騎士**』（エスディーガンダムがいでん ナイトガンダムものがたりツー ひかりのナイト）は、[1991年](../Page/1991年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に日本の[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")\[1\]。

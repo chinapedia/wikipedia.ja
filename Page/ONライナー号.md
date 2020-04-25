@@ -1,4 +1,4 @@
-> この記事は[ON](https://ja.wikipedia.org/wiki/ON)から翻訳されています。
+> この記事は[ONライナー号](https://ja.wikipedia.org/wiki/ONライナー号)から翻訳されています。
 
 
 **ONライナー号**（オーエヌライナーごう）は[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")と[千葉県](../Page/千葉県.md "wikilink")[成田市](../Page/成田市.md "wikilink")の[成田国際空港](../Page/成田国際空港.md "wikilink")を結ぶ高速バスである\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[クイズおもしろTV](https://ja.wikipedia.org/wiki/クイズおもしろTV)から翻訳されています。
 
 
 『**クイズおもしろTV**』（クイズおもしろテレビ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[テレビ朝日系列局で放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。全8回。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 19:00 - 19:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

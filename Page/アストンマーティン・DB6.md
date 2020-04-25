@@ -1,4 +1,4 @@
-> この記事は[DB6](https://ja.wikipedia.org/wiki/DB6)から翻訳されています。
+> この記事は[アストンマーティン・DB6](https://ja.wikipedia.org/wiki/アストンマーティン・DB6)から翻訳されています。
 
 
 **DB6**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の高級スポーツカーメーカーの[アストンマーティン](../Page/アストンマーティン.md "wikilink")・ラゴンダが、[1965年](../Page/1965年.md "wikilink")から[1970年](../Page/1970年.md "wikilink")にかけて生産していた[グランツーリスモ](../Page/グランツーリスモ.md "wikilink")。

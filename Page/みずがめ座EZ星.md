@@ -1,4 +1,4 @@
-> この記事は[EZ](https://ja.wikipedia.org/wiki/EZ)から翻訳されています。
+> この記事は[みずがめ座EZ星](https://ja.wikipedia.org/wiki/みずがめ座EZ星)から翻訳されています。
 
 
 **みずがめ座EZ星**([英](../Page/英語.md "wikilink"):EZ Aquarii)は[みずがめ座](../Page/みずがめ座.md "wikilink")の方向に約11.3[光年](../Page/光年.md "wikilink")（3.45[パーセク](../Page/パーセク.md "wikilink")）離れた三重[連星](../Page/連星.md "wikilink")系である。「ルイテン789-6」や「グリーゼ866」という名称としても知られている。3つの恒星は全て、[太陽](../Page/太陽.md "wikilink")より小さい[赤色矮星](../Page/赤色矮星.md "wikilink")である。かつては二重連星系だと思われていたが、恒星Aの[分光観測](https://ja.wikipedia.org/wiki/分光観測 "wikilink")により、恒星Cと連星を成していることがわかった。AとCは0.03[au離れており](../Page/天文単位.md "wikilink")、[公転周期](../Page/公転周期.md "wikilink")はわずか3.8日である。この連星を823日周期で恒星Bが公転している\[1\]。AとBからは強い[X線](../Page/X線.md "wikilink")が放出されている\[2\]。

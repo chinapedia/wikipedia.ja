@@ -1,4 +1,4 @@
-> この記事は[ DIY](https://ja.wikipedia.org/wiki/_DIY)から翻訳されています。
+> この記事は[住まい自分流 〜DIY入門〜](https://ja.wikipedia.org/wiki/住まい自分流_〜DIY入門〜)から翻訳されています。
 
 
 **住まい自分流 〜DIY入門〜**（すまいじぶんりゅうディーアイワイにゅうもん）は、[2005年](../Page/2005年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[NHK教育テレビで放送された](../Page/NHK教育テレビジョン.md "wikilink")[DIY](../Page/DIY.md "wikilink")専門番組である。[2009年](../Page/2009年.md "wikilink")度より、新番組「**[住まい自分流](../Page/住まい自分流.md "wikilink")**」と「**住まい自分流アルファ**」の2番組による構成となった（「住まい自分流」の項目参照）。

@@ -1,4 +1,4 @@
-> この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
+> この記事は[NKザグレブ](https://ja.wikipedia.org/wiki/NKザグレブ)から翻訳されています。
 
 
 **ノゴメトニ・クルブ・ザグレブ**（, **）は、[クロアチア](../Page/クロアチア.md "wikilink")の首都[ザグレブ](../Page/ザグレブ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

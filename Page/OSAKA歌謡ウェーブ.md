@@ -1,4 +1,4 @@
-> この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
+> この記事は[OSAKA歌謡ウェーブ](https://ja.wikipedia.org/wiki/OSAKA歌謡ウェーブ)から翻訳されています。
 
 
 **水谷ひろしのOSAKA歌謡ウェ〜ブ**（みずたにひろしのおおさかかようウェーブ）は[大阪放送](../Page/大阪放送.md "wikilink")（ラジオ大阪）の[歌謡曲](../Page/歌謡曲.md "wikilink")を取り上げた音楽番組である。

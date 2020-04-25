@@ -1,4 +1,4 @@
-> この記事は[LOVE ](https://ja.wikipedia.org/wiki/LOVE_)から翻訳されています。
+> この記事は[LOVE 〜愛とは不幸をおそれないこと〜](https://ja.wikipedia.org/wiki/LOVE_〜愛とは不幸をおそれないこと〜)から翻訳されています。
 
 
 『**LOVE 〜愛とは不幸をおそれないこと〜**』（ラブ あいとはふこうをおそれないこと）は、日本の歌手である[沢田研二](../Page/沢田研二.md "wikilink")の12作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

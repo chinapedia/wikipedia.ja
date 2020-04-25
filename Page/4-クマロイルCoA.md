@@ -1,4 +1,4 @@
-> この記事は[4-CoA](https://ja.wikipedia.org/wiki/4-CoA)から翻訳されています。
+> この記事は[4-クマロイルCoA](https://ja.wikipedia.org/wiki/4-クマロイルCoA)から翻訳されています。
 
 
 **4-クマロイルCoA** (4-Coumaroyl CoA) は、[CoAの類縁体であり](../Page/補酵素A.md "wikilink")、*p*-[クマル酸](https://ja.wikipedia.org/wiki/クマル酸 "wikilink")（4-ヒドロキシ桂皮酸）とCoAが[チオエステル](../Page/チオエステル.md "wikilink")結合 (R-CO-S-R') した構造をもつ。[脂肪酸](../Page/脂肪酸.md "wikilink")や[カルコン](../Page/カルコン.md "wikilink")などの生合成に深く関わっている。[分子式](https://ja.wikipedia.org/wiki/分子式 "wikilink")は C<sub>30</sub>H<sub>42</sub>N<sub>7</sub>O<sub>18</sub>P<sub>3</sub>S、分子量913.67 g/mol、[CAS登録番号](../Page/CAS登録番号.md "wikilink")は \[119785-99-8\]。

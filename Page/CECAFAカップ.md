@@ -1,4 +1,4 @@
-> この記事は[CECAFA](https://ja.wikipedia.org/wiki/CECAFA)から翻訳されています。
+> この記事は[CECAFAカップ](https://ja.wikipedia.org/wiki/CECAFAカップ)から翻訳されています。
 
 
 **CECAFAカップ**（）は、[東部・中部アフリカサッカー協会評議会](https://ja.wikipedia.org/wiki/東部・中部アフリカサッカー協会評議会 "wikilink")（CECAFA）が主催する、東部および中部[アフリカ](../Page/アフリカ.md "wikilink")地域の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。

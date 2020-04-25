@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACチェゼーナ](https://ja.wikipedia.org/wiki/ACチェゼーナ)から翻訳されています。
 
 
 **アッソチャツィオーネ・カルチョ・チェゼーナ**（）は、[イタリア](../Page/イタリア.md "wikilink")・[チェゼーナ](../Page/チェゼーナ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブであった。2018年7月16日に破産を宣告した。

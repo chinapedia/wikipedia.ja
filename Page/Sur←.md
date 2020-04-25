@@ -1,4 +1,4 @@
-> この記事は[Sur](https://ja.wikipedia.org/wiki/Sur)から翻訳されています。
+> この記事は[Sur←](https://ja.wikipedia.org/wiki/Sur←)から翻訳されています。
 
 
 『**sur←**』（ルーシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の32作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

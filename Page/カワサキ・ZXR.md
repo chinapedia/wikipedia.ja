@@ -1,4 +1,4 @@
-> この記事は[ZXR](https://ja.wikipedia.org/wiki/ZXR)から翻訳されています。
+> この記事は[カワサキ・ZXR](https://ja.wikipedia.org/wiki/カワサキ・ZXR)から翻訳されています。
 
 
 **カワサキ・ZXR**（ゼットエックスアール）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")（後の[川崎重工業モーターサイクル&エンジンカンパニー](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")）が製造・販売していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種名である。競技車両のワークスマシンである[ZXR-7](https://ja.wikipedia.org/wiki/ZXR-7 "wikilink")、[ZXR-4](https://ja.wikipedia.org/wiki/ZXR-4 "wikilink")のレプリカで、エンジンの排気量別に750cc、400cc、250ccがある。

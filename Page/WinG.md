@@ -23,6 +23,7 @@
 
   - [Doom](https://ja.wikipedia.org/wiki/Doom "wikilink") (1995)\[2\]
   - [シムシティ2000](../Page/シムシティ2000.md "wikilink") for Windows:[マクシス](../Page/マクシス.md "wikilink")
+  - [シムタウン](../Page/シムタウン.md "wikilink"):[マクシス](../Page/マクシス.md "wikilink")
   - [3×3 EYES](../Page/3×3_EYES.md "wikilink")～吸精公主～:[ニホンクリエイト](../Page/ニホンクリエイト.md "wikilink") (Windows 95版も発売)
   - [信長の野望・天翔記](../Page/信長の野望・天翔記.md "wikilink"):[コーエー](../Page/コーエー.md "wikilink") (Windows 95版も発売)
   - [太閤立志伝II](../Page/太閤立志伝II.md "wikilink") for Windows:[コーエー](../Page/コーエー.md "wikilink")

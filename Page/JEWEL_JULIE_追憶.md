@@ -1,4 +1,4 @@
-> この記事は[JEWEL JULIE ](https://ja.wikipedia.org/wiki/JEWEL_JULIE_)から翻訳されています。
+> この記事は[JEWEL JULIE 追憶](https://ja.wikipedia.org/wiki/JEWEL_JULIE_追憶)から翻訳されています。
 
 
 **JEWEL JULIE 追憶**（ジュエル・ジュリー ついおく）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の5作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

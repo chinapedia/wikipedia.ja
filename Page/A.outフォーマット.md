@@ -1,4 +1,4 @@
-> この記事は[A.out](https://ja.wikipedia.org/wiki/A.out)から翻訳されています。
+> この記事は[A.outフォーマット](https://ja.wikipedia.org/wiki/A.outフォーマット)から翻訳されています。
 
 
 **a.outフォーマット**は、[UNIX](../Page/UNIX.md "wikilink")における最初の[実行ファイル](../Page/実行ファイル.md "wikilink")および[リンク可能ファイルの](../Page/リンケージエディタ.md "wikilink")[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。名前は、[コンパイラ](../Page/コンパイラ.md "wikilink")の出力するファイルのデフォルトの名前がa.out（[アセンブラ](https://ja.wikipedia.org/wiki/アセンブラ "wikilink")アウトプット）であることから名付けられた。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")上の[gcc](https://ja.wikipedia.org/wiki/gcc "wikilink")ではa.outファイルの代わりにa.exeを生成する。

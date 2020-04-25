@@ -1,4 +1,4 @@
-> この記事は[Beautiful World \(\)](https://ja.wikipedia.org/wiki/Beautiful_World_\(\))から翻訳されています。
+> この記事は[Beautiful World \(沢田研二のアルバム\)](https://ja.wikipedia.org/wiki/Beautiful_World_\(沢田研二のアルバム\))から翻訳されています。
 
 
 '''Beautiful World '''（ビューティフル・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の29作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
@@ -39,5 +39,18 @@ C.T.P.P.のデザイン提案は[新宿大ガード](https://ja.wikipedia.org/wi
       - 作詞:覚和歌子／作曲:MARS／編曲:吉田建
 11. **Coourage**
       - 作詞:覚和歌子、沢田研二／作曲:沢田研二／編曲:吉田建
+
+## 参加ミュージシャン
+
+  - Drums：[村上“PONTA”秀一](../Page/村上秀一.md "wikilink")
+  - Bass：[吉田建](../Page/吉田建.md "wikilink")
+  - Guitars：柴山和彦, [小倉博和](../Page/小倉博和.md "wikilink")
+  - Keyboards：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink"), [鶴来正基](https://ja.wikipedia.org/wiki/鶴来正基 "wikilink"), [国吉良一](../Page/国吉良一.md "wikilink")
+  - Trumpet：[小林正弘](../Page/小林正弘.md "wikilink")
+  - S.Sax：[本田雅人](../Page/本田雅人.md "wikilink")
+  - A.Sax：包国充
+  - A.Guitar：[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink"), 柴山和彦
+  - Chorus：[坪倉唯子](../Page/坪倉唯子.md "wikilink"), 和田恵子, Suzi K.Kim, [告井延隆](../Page/告井延隆.md "wikilink"), [中野督夫](../Page/中野督夫.md "wikilink"), [楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")
+  - Synthesizer Programming：浦田恵司, [菅原弘明](../Page/菅原弘明.md "wikilink")
 
 [Category:沢田研二のアルバム](https://ja.wikipedia.org/wiki/Category:沢田研二のアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink")

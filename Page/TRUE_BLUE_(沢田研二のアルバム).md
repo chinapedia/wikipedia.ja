@@ -1,4 +1,4 @@
-> この記事は[TRUE BLUE \(\)](https://ja.wikipedia.org/wiki/TRUE_BLUE_\(\))から翻訳されています。
+> この記事は[TRUE BLUE \(沢田研二のアルバム\)](https://ja.wikipedia.org/wiki/TRUE_BLUE_\(沢田研二のアルバム\))から翻訳されています。
 
 
 『**TRUE BLUE**』（トゥルー・ブルー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の25作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

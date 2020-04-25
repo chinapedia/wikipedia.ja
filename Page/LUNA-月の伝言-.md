@@ -1,4 +1,4 @@
-> この記事は[LUNA--](https://ja.wikipedia.org/wiki/LUNA--)から翻訳されています。
+> この記事は[LUNA-月の伝言-](https://ja.wikipedia.org/wiki/LUNA-月の伝言-)から翻訳されています。
 
 
 ミュージカル・ファンタジー『**LUNA**』-**月の伝言-**（ルナ つきのでんごん）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](../Page/月組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品。17場。

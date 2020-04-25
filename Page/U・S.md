@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[U・S](https://ja.wikipedia.org/wiki/U・S)から翻訳されています。
 
 
 『**U・S**』（ユーエス）およびその後継番組『**U・S改**』（ユーエスかい）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。いずれも[本田技研工業](../Page/本田技研工業.md "wikilink")（ホンダ）の一社提供。

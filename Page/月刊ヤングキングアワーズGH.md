@@ -1,4 +1,4 @@
-> この記事は[GH](https://ja.wikipedia.org/wiki/GH)から翻訳されています。
+> この記事は[月刊ヤングキングアワーズGH](https://ja.wikipedia.org/wiki/月刊ヤングキングアワーズGH)から翻訳されています。
 
 
 『**月刊ヤングキングアワーズGH**』（げっかんヤングキングアワーズジーエイチ）は、[少年画報社](../Page/少年画報社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。発売日は毎月16日。通称は『**アワーズGH**』。
@@ -17,13 +17,18 @@
 
 ## 連載作品
 
+  - 悪役令嬢転生おじさん（[上山道郎](../Page/上山道郎.md "wikilink")）
   - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](../Page/井上和郎.md "wikilink")）
   - 異世界狙撃手（スナイパー）は女戦士のモフモフ愛玩動物（ペット）（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
   - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](../Page/大井昌和.md "wikilink")）
+  - 俺のキスで世界が変わるなら（[紺條夏生](https://ja.wikipedia.org/wiki/紺條夏生 "wikilink")）
+  - オレは床で寝ます\!（9℃）
   - かみくじむら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
+  - 社長、恋人のフリをして私の父に会ってください。（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
   - [出撃\!喫茶あるぺじお](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[小竹田貴弘](../Page/小竹田貴弘.md "wikilink")）
   - 心理学は役に立たない\!?（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[ソウ](https://ja.wikipedia.org/wiki/ソウ_\(漫画家\) "wikilink")） ※2017年9月号にて『カウンセリングを学ぶ話を聞かない13人』→『心理学は役に立たない\!?』に改題
   - 制服少女未征服（[亜桜まる](https://ja.wikipedia.org/wiki/亜桜まる "wikilink")）
+  - ゾン美少女の藤美さん（サイトウリョウ）
   - ちょっと社会不適合者さん（ウシハシル）
   - [棺探偵D\&W](https://ja.wikipedia.org/wiki/棺探偵D&W "wikilink")（[光永康則](../Page/光永康則.md "wikilink")） ※不定期連載
   - 変と乱（[しおやてるこ](https://ja.wikipedia.org/wiki/しおやてるこ "wikilink")）
@@ -75,7 +80,7 @@
   - CRIMSON EDGE 1888（かのえゆうし）
   - [クロスライン](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（ムサシマル）
   - クロユリ学園大奥学科（吉沢雅）
-  - [交渉人 堂本零時](https://ja.wikipedia.org/wiki/交渉人_堂本零時 "wikilink")（[楠本哲](https://ja.wikipedia.org/wiki/楠本哲 "wikilink")、監修：[玄秀盛](https://ja.wikipedia.org/wiki/玄秀盛 "wikilink")）
+  - [交渉人 堂本零時](https://ja.wikipedia.org/wiki/交渉人_堂本零時 "wikilink")（[楠本哲](../Page/楠本哲.md "wikilink")、監修：[玄秀盛](https://ja.wikipedia.org/wiki/玄秀盛 "wikilink")）
   - ごくべん ―極道弁護士 豆柴トメオ―（[オオイシヒロト](https://ja.wikipedia.org/wiki/オオイシヒロト "wikilink")） →『ゴクベン』と改題し『ヤングキング』に移籍
   - この人類域のゼルフィー（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
   - コレハラ?（[金平守人](../Page/金平守人.md "wikilink")）

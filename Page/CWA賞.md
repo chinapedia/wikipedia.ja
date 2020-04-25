@@ -1,4 +1,4 @@
-> この記事は[CWA](https://ja.wikipedia.org/wiki/CWA)から翻訳されています。
+> この記事は[CWA賞](https://ja.wikipedia.org/wiki/CWA賞)から翻訳されています。
 
 
 **CWA賞**はイギリスの[文学賞](../Page/文学賞.md "wikilink")。[英国推理作家協会](https://ja.wikipedia.org/wiki/英国推理作家協会 "wikilink") (The Crime Writers' Association) によってその年にイギリスで出版された推理小説から選ばれる。

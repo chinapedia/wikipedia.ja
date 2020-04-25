@@ -1,4 +1,4 @@
-> この記事は[GRADE.GOLF](https://ja.wikipedia.org/wiki/GRADE.GOLF)から翻訳されています。
+> この記事は[江連忠のGRADE.GOLF](https://ja.wikipedia.org/wiki/江連忠のGRADE.GOLF)から翻訳されています。
 
 
 『**江連忠のGRADE.GOLF**』（えづれただしのグレード・ドット・ゴルフ）は、[サンテレビと](../Page/サンテレビジョン.md "wikilink")[ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")で放送されていた[ゴルフ](../Page/ゴルフ.md "wikilink")番組である。サンテレビでは[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで放送。2007年4月以降の放送時間は毎週木曜 21:30 - 22:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

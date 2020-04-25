@@ -1,7 +1,7 @@
-> この記事は[My Baby Grand ](https://ja.wikipedia.org/wiki/My_Baby_Grand_)から翻訳されています。
+> この記事は[My Baby Grand 〜ぬくもりが欲しくて〜](https://ja.wikipedia.org/wiki/My_Baby_Grand_〜ぬくもりが欲しくて〜)から翻訳されています。
 
 
-「**My Baby Grand 〜ぬくもりが欲しくて〜**」（マイ・ベイビー・グランド・ぬくもりがほしくて）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の23作目の[シングル](../Page/シングル.md "wikilink")。
+「**My Baby Grand 〜ぬくもりが欲しくて〜**」（マイ・ベイビー・グランド ぬくもりがほしくて）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の23作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
@@ -41,11 +41,7 @@
 
 ## 脚注
 
-<div class="references-small">
-
 <references />
-
-</div>
 
 [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:携帯電話のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:携帯電話のコマーシャルソング "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 

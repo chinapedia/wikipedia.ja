@@ -1,4 +1,4 @@
-> この記事は[JULIE IV ](https://ja.wikipedia.org/wiki/JULIE_IV_)から翻訳されています。
+> この記事は[JULIE IV 今僕は倖せです](https://ja.wikipedia.org/wiki/JULIE_IV_今僕は倖せです)から翻訳されています。
 
 
 **JULIE IV 今僕は倖せです**（ジュリー・フォー いまぼくはしあわせです）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の3作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。

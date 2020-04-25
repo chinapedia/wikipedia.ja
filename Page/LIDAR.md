@@ -3,7 +3,7 @@
 
 **LIDAR**（[英語](../Page/英語.md "wikilink")：Light Detection and Ranging、Laser Imaging Detection and Ranging、「光検出と測距」ないし「[レーザー](../Page/レーザー.md "wikilink")画像検出と測距」）は、光を用いた[リモートセンシング](../Page/リモートセンシング.md "wikilink")技術の一つで、[パルス](../Page/パルス.md "wikilink")状に発光するレーザー照射に対する[散乱](https://ja.wikipedia.org/wiki/散乱 "wikilink")光を測定し、遠距離にある対象までの距離やその対象の性質を分析するものである。日本語では**ライダー**、**ライダ**とカタカナ書きされることも多い。軍事領域ではしばしば[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink") **LADAR** (Laser Detection and Ranging) が用いられる。
 
-この技法は[レーダー](../Page/レーダー.md "wikilink")に類似しており、レーダーの電波を光に置き換えたものである。対象までの距離は、発光後反射光を受光するまでの時間の差で求まる。そのため、レーザーレーダー (Laser radar) の語が用いられることもあるが、電波を用いるレーダーと混同しやすいので避けるべきである。
+この技法は[レーダー](../Page/レーダー.md "wikilink")に類似しており、レーダーの電波を光に置き換えたものである。対象までの距離は、発光後反射光を受光するまでの時間の差で求まる。そのため、レーザーレーダー (Laser radar) の語が用いられることもある。
 
 ライダーは[地質学](../Page/地質学.md "wikilink")、[地質工学](https://ja.wikipedia.org/wiki/地質工学 "wikilink")、[地震学](../Page/地震学.md "wikilink")、[リモートセンシング](../Page/リモートセンシング.md "wikilink")、 [大気物理学](../Page/大気物理学.md "wikilink")で用いられる。近年は[自動運転車用センサーとしても注目されている](../Page/オートパイロット.md "wikilink")。\[1\]
 

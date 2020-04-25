@@ -1,4 +1,4 @@
-> この記事は[to base](https://ja.wikipedia.org/wiki/to_base)から翻訳されています。
+> この記事は[今井翼のto base](https://ja.wikipedia.org/wiki/今井翼のto_base)から翻訳されています。
 
 
 **今井翼のto base**（いまいつばさのトゥーベース）は、[2003年](../Page/2003年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")などにおいて毎週木曜の[レコメン\!](../Page/レコメン!.md "wikilink")内で24時05分頃から放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[今井翼](../Page/今井翼.md "wikilink")がパーソナリティを務める。
@@ -30,11 +30,36 @@
   - 代打今井翼
   - 翼のセクシーゾーン
 
+## 復活！今井翼のto base
+
+『文化放送ライオンズナイタースペシャル　復活！今井翼のto base』は、文化放送で[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に放送されるラジオ番組。今井翼がパーソナリティーを務める。
+
+14年8ヶ月にわたって放送されていた、『今井翼のto base』が2年ぶりに特番として復活した番組。『今井翼のto base』と同様、完全一人しゃべりで進行。近況報告を始め、これからの仕事、プライベートなど120分にわたって自身のことを語りつくす。
+
+### コーナー
+
+#### \#◯◯今井
+
+番組のメインテーマ。今井がインスタで使っている「\#〇〇今井」のハッシュタグにちなみ、これから実現してほしい、もしくは実現したら面白いと思うハッシュタグを募集し、トークを繰り広げる。
+
+#### 料理男子・今井翼
+
+食べるのも作るのも大好きな今井が、リスナーからの料理にまつわる質問メールを募集し、トークを展開する。
+
+#### 復活企画　翼のみじかメール
+
+『今井翼のto base』でのコーナー、「短メール」が復活。今井翼へ伝えたいことを１～２行の短文で送られたものを、紹介する。
+
+#### 集まれ！プロ野球ファン
+
+野球好きの今井が、プロ野球を応援。「あなたが知っているプロ野球団本拠地球場のオススメポイント」を募集。
+
 ## 脚注
 
 ## 外部リンク
 
   - [今井翼のto base|レコメン\!](http://www.joqr.co.jp/reco/programs/to_base.html)
+  - [『復活！今井翼のto base』放送決定|文化放送](http://www.joqr.co.jp/article/detail/post_328.php)
 
 [Category:レコメン\!](https://ja.wikipedia.org/wiki/Category:レコメン! "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:タッキー&翼](https://ja.wikipedia.org/wiki/Category:タッキー&翼 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
 

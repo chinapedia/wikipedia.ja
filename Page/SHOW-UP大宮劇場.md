@@ -1,4 +1,4 @@
-> この記事は[SHOW-UP](https://ja.wikipedia.org/wiki/SHOW-UP)から翻訳されています。
+> この記事は[SHOW-UP大宮劇場](https://ja.wikipedia.org/wiki/SHOW-UP大宮劇場)から翻訳されています。
 
 
 **SHOW-UP大宮劇場**（ショーアップおおみやげきじょう）は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[大宮区](https://ja.wikipedia.org/wiki/大宮区 "wikilink")[宮町にあった](https://ja.wikipedia.org/wiki/宮町_\(さいたま市大宮区\) "wikilink")[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップティーズ "wikilink")。客席数70席。[2005年](../Page/2005年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")付けで閉館。

@@ -1,4 +1,4 @@
-> この記事は[-LORD-](https://ja.wikipedia.org/wiki/-LORD-)から翻訳されています。
+> この記事は[覇-LORD-](https://ja.wikipedia.org/wiki/覇-LORD-)から翻訳されています。
 
 
 『**覇-LORD-**』（は・ロード\[1\]）は、原作：[武論尊](../Page/武論尊.md "wikilink")、作画：[池上遼一](../Page/池上遼一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[三国志](../Page/三国志.md "wikilink")を題材としている。『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載された。

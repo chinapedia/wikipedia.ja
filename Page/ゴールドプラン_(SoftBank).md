@@ -1,4 +1,4 @@
-> この記事は[ \(SoftBank\)](https://ja.wikipedia.org/wiki/_\(SoftBank\))から翻訳されています。
+> この記事は[ゴールドプラン \(SoftBank\)](https://ja.wikipedia.org/wiki/ゴールドプラン_\(SoftBank\))から翻訳されています。
 
 
 **ゴールドプラン**とは、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[携帯電話](../Page/携帯電話.md "wikilink")の料金プランで、[2006年](../Page/2006年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")より提供開始。[2015年](../Page/2015年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に受付を終了した。

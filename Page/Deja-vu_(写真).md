@@ -1,4 +1,4 @@
-> この記事は[Deja-vu \(\)](https://ja.wikipedia.org/wiki/Deja-vu_\(\))から翻訳されています。
+> この記事は[Deja-vu \(写真\)](https://ja.wikipedia.org/wiki/Deja-vu_\(写真\))から翻訳されています。
 
 
 『**deja-vu**』（デジャ＝ヴュ）は、[フォト・プラネット社](https://ja.wikipedia.org/wiki/フォト・プラネット社 "wikilink")が刊行、[河出書房新社](../Page/河出書房新社.md "wikilink")が発売していた、写真に関する季刊雑誌。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に\[1\]、[写真評論家](../Page/写真評論家.md "wikilink")の[飯沢耕太郎](../Page/飯沢耕太郎.md "wikilink")が創刊した\[2\]。

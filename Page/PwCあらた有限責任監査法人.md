@@ -1,7 +1,7 @@
-> この記事は[PwC](https://ja.wikipedia.org/wiki/PwC)から翻訳されています。
+> この記事は[PwCあらた有限責任監査法人](https://ja.wikipedia.org/wiki/PwCあらた有限責任監査法人)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Sumitomo-shiodomebuilding.jpg "wikilink") **PwCあらた有限責任監査法人**（ぴーだうりゅすぃーあらたゆうげんせきにんかんさほうじん、英文名称：PricewaterhouseCoopers Aarata LLC）は、日本の[監査法人](../Page/監査法人.md "wikilink")。海外の大手会計事務所を指す「[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")」の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")のメンバーファーム。
+[thumb](https://ja.wikipedia.org/wiki/画像:Sumitomo-shiodomebuilding.jpg "wikilink") **PwCあらた有限責任監査法人**（ぴーだうりゅすぃーあらたゆうげんせきにんかんさほうじん、英文名称： ）は、日本の[監査法人](../Page/監査法人.md "wikilink")。海外の大手会計事務所を指す「[big4](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")」の一つ、[プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")のメンバーファーム。
 
 いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2016年](../Page/2016年.md "wikilink")（平成28年）[7月1日](../Page/7月1日.md "wikilink")、その中では最後に有限責任監査法人へ移行した。
 

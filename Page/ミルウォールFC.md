@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ミルウォールFC](https://ja.wikipedia.org/wiki/ミルウォールFC)から翻訳されています。
 
 
 **ミルウォールFC**（**Millwall Football Club** ( or local /–ˈ–/)\[1\]）は、[イングランド](../Page/イングランド.md "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")・[サザーク・ロンドン特別区](https://ja.wikipedia.org/wiki/サザーク・ロンドン特別区 "wikilink")・[バーモンジー](https://ja.wikipedia.org/wiki/バーモンジー "wikilink")を本拠地とするサッカークラブチーム。

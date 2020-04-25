@@ -1,4 +1,4 @@
-> この記事は[Masquerade \(trf\)](https://ja.wikipedia.org/wiki/Masquerade_\(trf\))から翻訳されています。
+> この記事は[Masquerade \(trfの曲\)](https://ja.wikipedia.org/wiki/Masquerade_\(trfの曲\))から翻訳されています。
 
 
 「**masquerade**」（マスカレード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンスグループ、[trfの楽曲で](../Page/TRF.md "wikilink")、9枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。 [2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")には、[マキシシングル廉価版として再発売](https://ja.wikipedia.org/wiki/シングル#12cmCDシングル（マキシシングル）への移行 "wikilink")。

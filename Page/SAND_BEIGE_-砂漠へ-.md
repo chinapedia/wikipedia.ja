@@ -1,4 +1,4 @@
-> この記事は[SAND BEIGE --](https://ja.wikipedia.org/wiki/SAND_BEIGE_--)から翻訳されています。
+> この記事は[SAND BEIGE -砂漠へ-](https://ja.wikipedia.org/wiki/SAND_BEIGE_-砂漠へ-)から翻訳されています。
 
 
 「**SAND BEIGE -砂漠へ-**」（サンド・ベージュ さばくへ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の12枚目の[シングル](../Page/シングル.md "wikilink")として、1985年6月19日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1669)。
@@ -25,6 +25,8 @@
 
 ## 収録曲
 
+全編曲：[井上鑑](../Page/井上鑑.md "wikilink")
+
 ## クレジット
 
   - [photo](../Page/撮影.md "wikilink") by 佐藤秀春\[28\]
@@ -43,7 +45,7 @@
 
   - [中森明菜 「SAND BEIGE-砂漠へ-」｜Warner Music Japan](https://wmg.jp/akina/discography/5190/)
 
-[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:1985年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:アフリカを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アフリカを舞台とした作品 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:1985年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:アフリカを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アフリカを舞台とした作品 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
 
 1.
 2.

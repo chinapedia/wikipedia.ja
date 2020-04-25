@@ -40,6 +40,8 @@ P239は同社の[P229のマガジンをシングルカラムにし](https://ja.w
 
   - 『[ゲート 自衛隊 彼の地にて、斯く戦えり](https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり "wikilink")』
     [CIAの工作員が](../Page/中央情報局.md "wikilink")[マカロフと共に所持](https://ja.wikipedia.org/wiki/マカロフPM "wikilink")。
+  - 『警視庁公安J』シリーズ
+    警視庁公安部の制式拳銃としてP239JPが登場する。
 
 ## 関連項目
 

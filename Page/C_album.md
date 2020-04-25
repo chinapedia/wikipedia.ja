@@ -24,7 +24,7 @@
 3.  **キミは泣いてツヨクなる**
     （作詞:三井拓　作曲:[荒木真樹彦](../Page/荒木真樹彦.md "wikilink")　編曲:[石塚知生](../Page/石塚知生.md "wikilink")　コーラスアレンジ:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")）
 4.  **[全部だきしめて](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")**
-    （作詞:[康珍化](../Page/康珍化.md "wikilink")　作曲:[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink")）
+    （作詞:[康珍化](../Page/康珍化.md "wikilink")　作曲:[吉田拓郎](../Page/吉田拓郎.md "wikilink")　編曲:[武部聡志](../Page/武部聡志.md "wikilink")）
       -
         4thシングルの1曲目。
         表記は無いが、アルバムバージョンである。

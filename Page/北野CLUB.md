@@ -7,7 +7,7 @@
 
 ## 概要
 
-当時福岡で人気を博していた[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")「[中島浩二アワー・THE3P](../Page/3P_\(ラジオ番組\).md "wikilink")」や[fm fukuoka](../Page/エフエム福岡.md "wikilink")（[TOKYO FM発](../Page/エフエム東京.md "wikilink")）「[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")の[ミリオンナイツ](../Page/ミリオンナイツ.md "wikilink")」に対抗すべく、当時CROSS FMに登場してまだ間もない[北野順一](../Page/北野順一.md "wikilink")（JK）を[ナビゲーターに据えスタートさせた](../Page/ディスクジョッキー.md "wikilink")。
+当時福岡で人気を博していた[KBCラジオ](../Page/KBCラジオ.md "wikilink")「[中島浩二アワー・THE3P](../Page/3P_\(ラジオ番組\).md "wikilink")」や[fm fukuoka](../Page/エフエム福岡.md "wikilink")（[TOKYO FM発](../Page/エフエム東京.md "wikilink")）「[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")の[ミリオンナイツ](../Page/ミリオンナイツ.md "wikilink")」に対抗すべく、当時CROSS FMに登場してまだ間もない[北野順一](../Page/北野順一.md "wikilink")（JK）を[ナビゲーターに据えスタートさせた](../Page/ディスクジョッキー.md "wikilink")。
 
 スタート当初は月曜から木曜の21:00～24:00と、金曜の23:00～25:00に編成。JKの担当は月曜から水曜と金曜で、木曜は[寺岡呼人](../Page/寺岡呼人.md "wikilink")が担当していたが、寺岡の降板後は金曜パートが削減され、月曜から木曜までJKの担当となった。
 

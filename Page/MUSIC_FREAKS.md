@@ -5,7 +5,7 @@
 
 ## 概要
 
-かつてFM802には、開局以来毎晩放送されていたワイド番組『FUNKY STUDIO 802 **MUSIC GUMBO**』があり、プロの[DJに混じって](../Page/ディスクジョッキー.md "wikilink")、[佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）、[吉田美和](../Page/吉田美和.md "wikilink")（[ドリームズ・カム・トゥルー](../Page/DREAMS_COME_TRUE.md "wikilink")）、[桜井和寿](../Page/桜井和寿.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）、[KAN](../Page/KAN.md "wikilink")、[槇原敬之](../Page/槇原敬之.md "wikilink")、[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")など、平成の[J-POP](../Page/J-POP.md "wikilink")シーンを作り上げた当時の若手[アーティスト達が番組を担当](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、リスナーからの人気を得ていた。
+かつてFM802には、開局以来毎晩放送されていたワイド番組『FUNKY STUDIO 802 **MUSIC GUMBO**』があり、プロの[DJに混じって](../Page/ディスクジョッキー.md "wikilink")、[佐藤竹善](../Page/佐藤竹善.md "wikilink")（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）、[吉田美和](../Page/吉田美和.md "wikilink")（[ドリームズ・カム・トゥルー](../Page/DREAMS_COME_TRUE.md "wikilink")）、[桜井和寿](../Page/桜井和寿.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）、[KAN](../Page/KAN.md "wikilink")、[槇原敬之](../Page/槇原敬之.md "wikilink")、[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")など、平成の[J-POP](../Page/J-POP.md "wikilink")シーンを作り上げた当時の若手[アーティスト達が番組を担当](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、リスナーからの人気を得ていた。
 
 その『MUSIC GUMBO』が、平日に『[Around the MARK'E SONIC STYLE](https://ja.wikipedia.org/wiki/Around_the_MARK'E_SONIC_STYLE "wikilink")』がスタートしたのに伴い終了。代替として、以前から同じスタイル（隔週交替）でアーティストが担当していた日曜の夜にこの番組をスタートさせた。
 

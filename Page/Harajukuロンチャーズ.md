@@ -1,7 +1,7 @@
 > この記事は[Harajukuロンチャーズ](https://ja.wikipedia.org/wiki/Harajukuロンチャーズ)から翻訳されています。
 
 
-**Harajukuロンチャーズ**(はらじゅくロンチャーズ)は、[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")開始直後の[2000年](../Page/2000年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[BS朝日で放送された](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+**Harajukuロンチャーズ**(はらじゅくロンチャーズ)は、[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")開始直後の[2000年](../Page/2000年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[BS朝日で放送された](../Page/ビーエス朝日.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
 ## 概要
 
@@ -140,7 +140,7 @@
 
 ## イベント
 
-  - 2001年7月28日（土）の14:00 - 、デビューCD発売イベント「ロンチャーズSUMMER 2001」が、[BS朝日スタジオ](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink") ガレリアで開催された。
+  - 2001年7月28日（土）の14:00 - 、デビューCD発売イベント「ロンチャーズSUMMER 2001」が、[BS朝日スタジオ](../Page/ビーエス朝日.md "wikilink") ガレリアで開催された。
   - 2001年8月7日の本番組終了後、BS朝日では19:00 - 21:00の枠で「2001[神宮外苑花火大会](https://ja.wikipedia.org/wiki/神宮外苑花火大会 "wikilink")」の生中継を放送、ロンチャーズメンバーが浴衣姿でリポーターとして各会場から出演した。
 
 ## 関連項目

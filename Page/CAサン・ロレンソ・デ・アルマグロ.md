@@ -434,7 +434,7 @@
 
 ## 現所属メンバー
 
-  - [2019年](../Page/2019年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")時点
+  - [2020年](../Page/2020年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")時点
 
 <!-- end list -->
 
@@ -442,7 +442,7 @@
 
 <!-- end list -->
 
-  - [ディエゴ・モナリス](https://ja.wikipedia.org/wiki/ディエゴ・モナリス "wikilink")
+  - [マリアーノ・ソソ](https://ja.wikipedia.org/wiki/マリアーノ・ソソ "wikilink")
 
 ## 歴代所属選手
 

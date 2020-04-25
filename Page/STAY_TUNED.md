@@ -44,6 +44,6 @@
 
   - [GLAY DISCOGRAPHY 『STAY TUNED』](https://www.glay.co.jp/discography/detail.php?category=1&id=24)
 
-[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
 1.  2001年4月25日に、北海道旧道庁（赤レンガ）前広場にて開催

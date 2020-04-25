@@ -186,7 +186,7 @@
 | --------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ------ |
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）【制作局】                   | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | 木曜 0時55分～1時25分（水曜深夜） | －      |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                          | 金曜 0時25分～0時55分（木曜深夜）                                                 | 8日遅れ                 |        |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC） | 火曜 0時25分～0時55分（月曜深夜）                                                 | 19日遅れ                |        |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                    | 火曜 0時25分～0時55分（月曜深夜）                                                 | 19日遅れ                |        |
 | [中京広域圏](../Page/広域放送.md "wikilink")                 | [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）   | 木曜 0時25分～0時55分（水曜深夜）                                                 | 21日遅れ                |        |
 | [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB） | 金曜 0時25分～0時55分（木曜深夜）                                                 | 22日遅れ                |        |
 

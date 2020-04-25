@@ -99,7 +99,7 @@
       -
         「[細かすぎて伝わらないモノマネ選手権](https://ja.wikipedia.org/wiki/博士と助手～細かすぎて伝わらないモノマネ選手権～ "wikilink")」第3回ファイナリスト
   - [登龍門F](../Page/登龍門F.md "wikilink")（フジテレビ）
-  - [大人の自由時間](../Page/大人の自由時間.md "wikilink")（[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）水曜レギュラー
+  - [大人の自由時間](../Page/大人の自由時間.md "wikilink")（[日本BS放送](../Page/日本BS放送.md "wikilink")）水曜レギュラー
   - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ）「ホワイトシアター」出演
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
   - [くるくるドカン〜新しい波を探して〜](../Page/くるくるドカン〜新しい波を探して〜.md "wikilink")（フジテレビ）

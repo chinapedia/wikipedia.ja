@@ -175,7 +175,7 @@
   - [原みどり公式サイト](http://www.haramidori.com)
   - [河野伸公式サイト](http://konoshin.jp)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink") [Category:2018年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に再結成した音楽グループ "wikilink")
 
 1.  [『SPANK HAPPY再始動 2人が今、ここで組む理由を語る』](https://www.cinra.net/interview/201807-spankhappy)、CINRA.NET、2018年7月11日（2018年8月18日閲覧）。
 2.  [『スパンクハッピー活動再開に際して／菊地成孔と小田朋美による共同声明』](https://www.kikuchinaruyoshi.net/2018/06/20/%E3%82%B9%E3%83%91%E3%83%B3%E3%82%AF%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E6%B4%BB%E5%8B%95%E5%86%8D%E9%96%8B%E3%81%AB%E9%9A%9B%E3%81%97%E3%81%A6-%E8%8F%8A%E5%9C%B0%E6%88%90%E5%AD%94%E3%81%A8%E5%B0%8F%E7%94%B0%E6%9C%8B%E7%BE%8E%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E5%A3%B0%E6%98%8E/)、第三インターネット、2018年6月20日（2018年8月18日閲覧）。

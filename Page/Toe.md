@@ -25,7 +25,7 @@
       - レコーディング・エンジニアとして、[miaou](https://ja.wikipedia.org/wiki/miaou "wikilink")、[SOUR](https://ja.wikipedia.org/wiki/SOUR "wikilink")、[bonobos](https://ja.wikipedia.org/wiki/bonobos "wikilink")、[sgt.](https://ja.wikipedia.org/wiki/sgt. "wikilink")、[ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")などを手掛ける\[17\]。
   - **山根 敏史**（やまね さとし、Yamane Satoshi） - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
       - [モード学園ファッションデザイン学科卒業](https://ja.wikipedia.org/wiki/学校法人モード学園 "wikilink")\[18\]。
-      - [fragment](https://ja.wikipedia.org/wiki/fragment "wikilink")、Doveの元メンバー。
+      - fragment、Doveの元メンバー。
       - ファッションデザイナーとして[バッグ](https://ja.wikipedia.org/wiki/バッグ "wikilink")[ブランド](../Page/ブランド.md "wikilink")のF/CE.®（エフ シーイー）と[アパレル](https://ja.wikipedia.org/wiki/アパレル "wikilink")ブランドのso far（ソーファー）の2ブランドを展開する\[19\]。1997年からメンズビギで[デザイナー](../Page/デザイナー.md "wikilink")としてのキャリアを積み、2004年から[クロックス](../Page/クロックス.md "wikilink")日本支社の立ち上げに参画\[20\]\[21\]。2010年に独立し、自身の会社オープン・ユアアイズ（株）を設立\[22\]\[23\]。
   - **柏倉 隆史**（かしくら たかし、Kashikura Takashi） - [ドラムス担当](../Page/ドラムセット.md "wikilink")
       - 神奈川県[川崎市](../Page/川崎市.md "wikilink")出身\[24\]。[旧県立川崎南高校卒業](../Page/神奈川県立川崎高等学校.md "wikilink")。

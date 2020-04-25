@@ -1,7 +1,7 @@
 > この記事は[SBCスペシャル](https://ja.wikipedia.org/wiki/SBCスペシャル)から翻訳されています。
 
 
-『**SBCスペシャル**』（エスビーシースペシャル）は、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で水曜19:00から放送されている[ローカル番組](../Page/ローカル番組.md "wikilink")。
+『**SBCスペシャル**』（エスビーシースペシャル）は、[信越放送](../Page/信越放送.md "wikilink")（SBCテレビ）で水曜19:00から放送されている[ローカル番組](../Page/ローカル番組.md "wikilink")。
 
 ## 概要
 

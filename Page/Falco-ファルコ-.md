@@ -1,4 +1,4 @@
-> この記事は[Falco--](https://ja.wikipedia.org/wiki/Falco--)から翻訳されています。
+> この記事は[Falco-ファルコ-](https://ja.wikipedia.org/wiki/Falco-ファルコ-)から翻訳されています。
 
 
 「**Falco-ファルコ-**」は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の19枚目のシングル。[2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

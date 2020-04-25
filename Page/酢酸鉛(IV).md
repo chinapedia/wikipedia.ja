@@ -1,4 +1,4 @@
-> この記事は[\(IV\)](https://ja.wikipedia.org/wiki/\(IV\))から翻訳されています。
+> この記事は[酢酸鉛\(IV\)](https://ja.wikipedia.org/wiki/酢酸鉛\(IV\))から翻訳されています。
 
 
 **酢酸鉛(IV)**（さくさんなまり）、別名**四酢酸鉛**（しさくさんなまり）は化学式Pb(OCOCH<sub>3</sub>)<sub>4</sub>で表される[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[酢酸](../Page/酢酸.md "wikilink")[塩](https://ja.wikipedia.org/wiki/塩 "wikilink")である。一般的に市販されており、しばしば安定化剤として酢酸が添加されている。再結晶直後は無色の[結晶](../Page/結晶.md "wikilink")であるが、空気中に放置するとピンク色を呈し、分解が起こる\[1\]。

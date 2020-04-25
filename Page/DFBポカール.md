@@ -1,4 +1,4 @@
-> この記事は[DFB](https://ja.wikipedia.org/wiki/DFB)から翻訳されています。
+> この記事は[DFBポカール](https://ja.wikipedia.org/wiki/DFBポカール)から翻訳されています。
 
 
 **DFBポカール**(*DFB Pokal*) （ドイツカップ、ドイツ杯）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の国内[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[カップ戦](../Page/カップ戦.md "wikilink")。優勝クラブは翌シーズンの[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")の出場権が与えられる。 DFBとは[ドイツサッカー連盟](https://ja.wikipedia.org/wiki/ドイツサッカー連盟 "wikilink")（[独](../Page/ドイツ語.md "wikilink") : **Deutscher Fußball-Bund**）の略称、ポカールとは[ドイツ語](../Page/ドイツ語.md "wikilink")でゴブレット（[英](../Page/英語.md "wikilink")：**goblet**、ゴブレット、台付き杯、優勝杯、カップ）の意。

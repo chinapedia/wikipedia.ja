@@ -1,4 +1,4 @@
-> この記事は[The KIX-S 90\'s II The BEST](https://ja.wikipedia.org/wiki/The_KIX-S_90\'s_II_The_BEST)から翻訳されています。
+> この記事は[The KIX-S 90\'s II 〜The BEST〜](https://ja.wikipedia.org/wiki/The_KIX-S_90\'s_II_〜The_BEST〜)から翻訳されています。
 
 
 **The KIX-S 90's II 〜The BEST〜**(ザ・キックス・ナインティーズ・ツー ザ・ベスト)は[KIX-S](../Page/KIX-S.md "wikilink")の2枚目のベストアルバム

@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[めろん \(AV女優\)](https://ja.wikipedia.org/wiki/めろん_\(AV女優\))から翻訳されています。
 
 
 **めろん**（[1982年](../Page/1982年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[AV女優](../Page/AV女優.md "wikilink")。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：AB型。身長：150cm。[スリーサイズ](../Page/スリーサイズ.md "wikilink")は、B78、W56、H78\[1\]。

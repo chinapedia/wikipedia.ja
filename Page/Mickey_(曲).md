@@ -1,4 +1,4 @@
-> この記事は[Mickey \(\)](https://ja.wikipedia.org/wiki/Mickey_\(\))から翻訳されています。
+> この記事は[Mickey \(曲\)](https://ja.wikipedia.org/wiki/Mickey_\(曲\))から翻訳されています。
 
 
 **Mickey**（ミッキー）は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ポップス楽曲である](../Page/ポピュラー音楽.md "wikilink")。
@@ -58,11 +58,7 @@
 
 ## 脚注
 
-<div class="references-small">
-
 <references />
-
-</div>
 
 [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:1979年の楽曲](https://ja.wikipedia.org/wiki/Category:1979年の楽曲 "wikilink") [Category:1982年の楽曲](https://ja.wikipedia.org/wiki/Category:1982年の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:Billboard_Hot_100_1位獲得作品](https://ja.wikipedia.org/wiki/Category:Billboard_Hot_100_1位獲得作品 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 

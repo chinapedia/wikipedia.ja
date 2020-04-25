@@ -228,7 +228,7 @@
     6月号 : [京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")
     7月号 : 雛形あきこ
     8月号 : [菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")
-    9月号 : 浜﨑あゆみ（現：[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）
+    9月号 : 浜﨑あゆみ（現：[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）
     10月号 : [奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")
     11月号 : [榎本加奈子](https://ja.wikipedia.org/wiki/榎本加奈子 "wikilink")
     12月号 : [ビビアン・スー](../Page/ビビアン・スー.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[MISTY DAYS](https://ja.wikipedia.org/wiki/MISTY_DAYS)から翻訳されています。
+> この記事は[サヨナラMISTY DAYS](https://ja.wikipedia.org/wiki/サヨナラMISTY_DAYS)から翻訳されています。
 
 
 「**サヨナラMISTY DAYS**」(サヨナラミスティー・デイズ)は[矢嶋良介](../Page/矢嶋良介.md "wikilink")の1stシングル。

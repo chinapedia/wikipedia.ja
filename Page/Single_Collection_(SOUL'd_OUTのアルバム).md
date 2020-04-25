@@ -1,4 +1,4 @@
-> この記事は[Single Collection \(SOUL\'d OUT\)](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL\'d_OUT\))から翻訳されています。
+> この記事は[Single Collection \(SOUL\'d OUTのアルバム\)](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL\'d_OUTのアルバム\))から翻訳されています。
 
 
 『**Single Collection**』（シングル コレクション）は、[SOUL'd OUTの初の](../Page/SOUL'd_OUT.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")発売。

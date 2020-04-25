@@ -1,4 +1,4 @@
-> この記事は[Q \(\)](https://ja.wikipedia.org/wiki/Q_\(\))から翻訳されています。
+> この記事は[Q \(ストリートファイター\)](https://ja.wikipedia.org/wiki/Q_\(ストリートファイター\))から翻訳されています。
 
 
 **Q**（キュー）は、[カプコン](../Page/カプコン.md "wikilink")の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターIII 3rd STRIKE](../Page/ストリートファイターIII.md "wikilink")』に登場する架空の人物。[声優](../Page/声優.md "wikilink")は[レン・カールソン](https://ja.wikipedia.org/wiki/レン・カールソン "wikilink")。

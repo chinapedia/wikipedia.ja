@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[リプレイJ](https://ja.wikipedia.org/wiki/リプレイJ)から翻訳されています。
 
 
 『**リプレイJ**』は、[今泉伸二](../Page/今泉伸二.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[ケン・グリムウッド](../Page/ケン・グリムウッド.md "wikilink")の小説『[リプレイ](../Page/リプレイ_\(小説\).md "wikilink")』を原案とした作品で、『[週刊コミックバンチ](../Page/週刊コミックバンチ.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）にて2001年創刊1号から2004年33号まで連載された。単行本は全12巻。

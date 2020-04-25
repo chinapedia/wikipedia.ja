@@ -1,4 +1,4 @@
-> この記事は[ JTPS-P16](https://ja.wikipedia.org/wiki/_JTPS-P16)から翻訳されています。
+> この記事は[対砲レーダ装置 JTPS-P16](https://ja.wikipedia.org/wiki/対砲レーダ装置_JTPS-P16)から翻訳されています。
 
 
 **対砲レーダ装置 JTPS-P16**（たいほうレーダそうち ジェイティーピーエスピーじゅうろく）は、[東芝](../Page/東芝.md "wikilink")が開発した[3次元レーダー](../Page/3次元レーダー.md "wikilink")。主として[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の[野戦特科において](https://ja.wikipedia.org/wiki/砲兵#自衛隊 "wikilink")、[対砲兵レーダー](https://ja.wikipedia.org/wiki/対砲兵レーダー "wikilink")として用いられる\[1\]。

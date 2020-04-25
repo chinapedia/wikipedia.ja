@@ -1,4 +1,4 @@
-> この記事は[MOONLIGHT SHADOW-](https://ja.wikipedia.org/wiki/MOONLIGHT_SHADOW-)から翻訳されています。
+> この記事は[MOONLIGHT SHADOW-月に吠えろ](https://ja.wikipedia.org/wiki/MOONLIGHT_SHADOW-月に吠えろ)から翻訳されています。
 
 
 「**MOONLIGHT SHADOW-月に吠えろ**」（ムーンライト・シャドー つきにほえろ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の33枚目の[シングル](../Page/シングル.md "wikilink")として、1996年8月7日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): MVDD-10024)。

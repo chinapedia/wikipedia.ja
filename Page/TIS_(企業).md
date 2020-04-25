@@ -1,4 +1,4 @@
-> この記事は[TIS \(\)](https://ja.wikipedia.org/wiki/TIS_\(\))から翻訳されています。
+> この記事は[TIS \(企業\)](https://ja.wikipedia.org/wiki/TIS_\(企業\))から翻訳されています。
 
 
 **TIS株式会社**（ティアイエス、）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、国内大手の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（独立系）。傘下に[インテック](../Page/インテック.md "wikilink")、[アグレックス](../Page/アグレックス.md "wikilink")、[クオリカ](https://ja.wikipedia.org/wiki/クオリカ "wikilink")、AJSなどを擁するTISインテックグループの中核企業である。

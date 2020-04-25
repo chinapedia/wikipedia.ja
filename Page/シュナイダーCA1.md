@@ -1,4 +1,4 @@
-> この記事は[CA1](https://ja.wikipedia.org/wiki/CA1)から翻訳されています。
+> この記事は[シュナイダーCA1](https://ja.wikipedia.org/wiki/シュナイダーCA1)から翻訳されています。
 
 
 **シュナイダーCA1**（Char Schneider CA1）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")最初の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")で、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")で使用された。フランスで主要な兵器製造企業の1つであった[シュナイダー社により生産された](../Page/シュナイダーエレクトリック.md "wikilink")。

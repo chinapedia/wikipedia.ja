@@ -1,4 +1,4 @@
-> この記事は[APPETITE \(\)](https://ja.wikipedia.org/wiki/APPETITE_\(\))から翻訳されています。
+> この記事は[APPETITE \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/APPETITE_\(中森明菜の曲\))から翻訳されています。
 
 
 「**APPETITE**」（アペタイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の34枚目の[シングル](../Page/シングル.md "wikilink")として、1997年2月21日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): MVDD-10027)。

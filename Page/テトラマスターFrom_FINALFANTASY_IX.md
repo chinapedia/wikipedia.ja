@@ -1,4 +1,4 @@
-> この記事は[From FINALFANTASY IX](https://ja.wikipedia.org/wiki/From_FINALFANTASY_IX)から翻訳されています。
+> この記事は[テトラマスターFrom FINALFANTASY IX](https://ja.wikipedia.org/wiki/テトラマスターFrom_FINALFANTASY_IX)から翻訳されています。
 
 
 『**テトラマスターFrom FINALFANTASY IX**』（テトラマスターフロムファイナルファンタジーナイン、TetraMaster From FINALFANTASY IX、略称：**TM FFIX**、**TM FF9**）は、『[ファイナルファンタジーIX](../Page/ファイナルファンタジーIX.md "wikilink")』に登場するカードゲーム「クアッドミスト」を元に、『**[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")**』の同梱ソフトとして[2002年](../Page/2002年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")にサービス開始された[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の[MO](../Page/MORPG.md "wikilink")[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")である。単に『**テトラマスター**』とも称される。2010年12月31日をもってサービスを終了した。

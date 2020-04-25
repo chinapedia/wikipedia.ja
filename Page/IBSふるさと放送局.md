@@ -1,4 +1,4 @@
-> この記事は[IBS](https://ja.wikipedia.org/wiki/IBS)から翻訳されています。
+> この記事は[IBSふるさと放送局](https://ja.wikipedia.org/wiki/IBSふるさと放送局)から翻訳されています。
 
 
 **IBSふるさと放送局**（アイビーエスふるさとほうそうきょく）は、年数回、日曜午後にスタジオを飛び出して不定期で放送する[茨城放送](../Page/茨城放送.md "wikilink")の特別番組である。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグタイム](https://ja.wikipedia.org/wiki/Jリーグタイム)から翻訳されています。
 
 
 **Jリーグタイム**（ジェイリーグタイム）は、[NHK BS1で放送されている](../Page/NHK_BS1.md "wikilink")[Jリーグの試合結果の詳細を放送するダイジェスト番組である](../Page/日本プロサッカーリーグ.md "wikilink")。[2006年](../Page/2006年.md "wikilink")4月放送開始。NHKの関連会社である[NHKグローバルメディアサービス](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink")（以下、G-Media）が制作に携わっている（放送上では製作著作のクレジットはされていない）。

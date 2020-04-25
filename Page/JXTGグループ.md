@@ -1,11 +1,11 @@
-> この記事は[JXTG](https://ja.wikipedia.org/wiki/JXTG)から翻訳されています。
+> この記事は[JXTGグループ](https://ja.wikipedia.org/wiki/JXTGグループ)から翻訳されています。
 
 
 **JXTGグループ**（ジェイエックスティージーグループ）は、[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")が中核となって形成している企業集団である。
 
 ## 概要
 
-グループ事業は石油関連・金属関連等多岐にわたっている。中核企業の[JXTGエネルギーは](https://ja.wikipedia.org/wiki/JXエネルギー "wikilink")、合併時の存続会社であった[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（主取引行は、[みずほコーポレート銀行](../Page/みずほコーポレート銀行.md "wikilink")）の前身の一つが[三菱石油](../Page/三菱石油.md "wikilink")であるため[三菱金曜会](https://ja.wikipedia.org/wiki/三菱金曜会 "wikilink")に所属しているとともに、[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")（現・[JX金属](../Page/JX金属.md "wikilink")）が旧・日産コンツェルンの源流企業であったことから、日立・日産系の会社から構成される[春光懇話会](https://ja.wikipedia.org/wiki/春光懇話会 "wikilink")のメンバーでもある。
+グループ事業は石油関連・金属関連等多岐にわたっている。中核企業の[JXTGエネルギーは](https://ja.wikipedia.org/wiki/JXエネルギー "wikilink")、合併時の存続会社であった[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")（主取引行は、[みずほコーポレート銀行](../Page/みずほコーポレート銀行.md "wikilink")）の前身の一つが[三菱石油](../Page/三菱石油.md "wikilink")であるため[三菱金曜会](https://ja.wikipedia.org/wiki/三菱金曜会 "wikilink")に所属しているとともに、[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")（現・[JX金属](../Page/JX金属.md "wikilink")）が旧・[日産コンツェルン](../Page/日産コンツェルン.md "wikilink")の源流企業であったことから、[日立](../Page/日立製作所.md "wikilink")・[日産系の会社から構成される](../Page/日産自動車.md "wikilink")[春光懇話会](https://ja.wikipedia.org/wiki/春光懇話会 "wikilink")のメンバーでもある。
 
 2010年4月1日に新日本石油と新日鉱ホールディングスが経営統合し、JXホールディングスを発足。同年7月に傘下企業の新日本石油・新日鉱ホールディングス及びそれぞれの子会社の一部を再編した。今後も旧会社が重複する事業の再編が行われる見込みである。
 
@@ -396,7 +396,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>中央石油販売株式会社</p></td>
+<td><p>株式会社ENEOSジェネレーションズ　</p></td>
 <td><p>東京都港区</p></td>
 <td><p>石油製品の販売<br />
 （旧東燃ゼネラル石油系）</p></td>

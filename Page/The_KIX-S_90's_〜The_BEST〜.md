@@ -1,4 +1,4 @@
-> この記事は[The KIX-S 90\'s The BEST](https://ja.wikipedia.org/wiki/The_KIX-S_90\'s_The_BEST)から翻訳されています。
+> この記事は[The KIX-S 90\'s 〜The BEST〜](https://ja.wikipedia.org/wiki/The_KIX-S_90\'s_〜The_BEST〜)から翻訳されています。
 
 
 **The KIX-S 90's 〜The BEST〜**(ザ・キックス・ナンティーズ ザ・ベスト)は[KIX-S](../Page/KIX-S.md "wikilink")の1枚目のアルバム

@@ -1,4 +1,4 @@
-> この記事は[NST](https://ja.wikipedia.org/wiki/NST)から翻訳されています。
+> この記事は[NSTスーパータイム](https://ja.wikipedia.org/wiki/NSTスーパータイム)から翻訳されています。
 
 
 『**NSTスーパータイム**』は、1990年10月1日から1997年3月28日までに[新潟総合テレビで放送されていた](../Page/NST新潟総合テレビ.md "wikilink")[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方の[新潟県](../Page/新潟県.md "wikilink")向け[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の新潟県ローカル扱い）。

@@ -1,7 +1,7 @@
-> この記事は[Secret \(\)](https://ja.wikipedia.org/wiki/Secret_\(\))から翻訳されています。
+> この記事は[Secret \(浜崎あゆみのアルバム\)](https://ja.wikipedia.org/wiki/Secret_\(浜崎あゆみのアルバム\))から翻訳されています。
 
 
-『**Secret**』（シークレット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の8枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Secret**』（シークレット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の8枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

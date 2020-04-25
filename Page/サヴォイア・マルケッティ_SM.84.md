@@ -1,4 +1,4 @@
-> この記事は[ SM.84](https://ja.wikipedia.org/wiki/_SM.84)から翻訳されています。
+> この記事は[サヴォイア・マルケッティ SM.84](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.84)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=サヴォイア・マルケッティ SM.84 | 画像=<File:Savoia> Marchetti SM.84.jpg | キャプション=SM.84 | 用途=雷撃機 | 分類= | 設計者= | 製造者=[サヴォイア・マルケッティ](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ "wikilink") | 運用者=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy_\(1861-1946\).svg "wikilink")[イタリア王国空軍](https://ja.wikipedia.org/wiki/:it:Regia_Aeronautica "wikilink") | 初飛行年月日= | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役済 | ユニットコスト= }} '''サヴォイア・マルケッティ SM.84 '''は[サヴォイア・マルケッティ社が開発した](../Page/SIAI-マルケッティ.md "wikilink")、3基のエンジンを搭載した[イタリア空軍](../Page/イタリア空軍.md "wikilink")の[爆撃機](../Page/爆撃機.md "wikilink")。[SM.79の後継機として開発され](../Page/サヴォイア・マルケッティ_SM.79.md "wikilink")、爆撃機、雷撃機として使用された。

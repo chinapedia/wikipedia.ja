@@ -1,4 +1,4 @@
-> この記事は[RAB](https://ja.wikipedia.org/wiki/RAB)から翻訳されています。
+> この記事は[RAB女蛇山ラジオ送信所](https://ja.wikipedia.org/wiki/RAB女蛇山ラジオ送信所)から翻訳されています。
 
 
 **RAB女蛇山ラジオ送信所**（アールエービーめじゃやまラジオそうしんじょ）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")鶴ケ坂地区の女蛇山（[標高](../Page/高さ.md "wikilink")154.2m）にある、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）の基幹[送信所](../Page/送信所.md "wikilink")である。

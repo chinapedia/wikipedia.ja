@@ -1,4 +1,4 @@
-> この記事は[HOKKAIDO](https://ja.wikipedia.org/wiki/HOKKAIDO)から翻訳されています。
+> この記事は[スーパータイムHOKKAIDO](https://ja.wikipedia.org/wiki/スーパータイムHOKKAIDO)から翻訳されています。
 
 
 『**FNNスーパータイムHOKKAIDO**』（エフエヌエヌ スーパータイムほっかいどう）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送されていた平日夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")ローカル扱い）。

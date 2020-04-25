@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNN仙台放送イブニングニュース](https://ja.wikipedia.org/wiki/FNN仙台放送イブニングニュース)から翻訳されています。
 
 
 『**FNN仙台放送イブニングニュース**』（エフエヌエヌせんだいほうそうイブニングニュース）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[仙台放送](../Page/仙台放送.md "wikilink")で放送されていた夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。

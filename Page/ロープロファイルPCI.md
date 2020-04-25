@@ -1,4 +1,4 @@
-> この記事は[PCI](https://ja.wikipedia.org/wiki/PCI)から翻訳されています。
+> この記事は[ロープロファイルPCI](https://ja.wikipedia.org/wiki/ロープロファイルPCI)から翻訳されています。
 
 
 **ロープロファイルPCI**（LowProfile PCI）とは、[Peripheral Component Interconnect](../Page/Peripheral_Component_Interconnect.md "wikilink")(以下PCI)を省スペースPCなどに搭載できるよう小型にした物理的規格。PCI規格でのカードエッジ部の形状や信号面をそのままに、カードの幅を64mmまで、長さは120mm(MD1)又は168mm(MD2)に制限したものをそう呼ぶ。これにより、従来のPCIカードを装着するスペースが無かった小型のPCも、外部カードで拡張できるようになった。
@@ -19,4 +19,4 @@
 
 ここでのフルやハーフの俗称はカードの幅ではなく長さに関するもので、フル-ロープロファイルの関係とは別物であるが、市場では混同して使われていることもあり、購入時には注意を要する。
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

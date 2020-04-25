@@ -7,7 +7,7 @@
 
   - 3作連続の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。オリジナルアルバムでは、前作『[SICKS](../Page/SICKS.md "wikilink")』に次いで自身2番目の売り上げを記録している。
   - 前作『SICKS』よりも[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を意識し、ライブ感を重視した音作りになっており、吉井は「楽曲の中でメンバーにバトルしてほしかった。だからアレンジをメロディ主体のロックから曲主体のロックへと変えた」と語っている。楽曲の多くが[セックスを歌ったものとなっているが](https://ja.wikipedia.org/wiki/性行為 "wikilink")、吉井は「狙ったのではなく、結果的にそうなった」と語っている\[1\]。
-  - このアルバムを引っさげて、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月から[1999年](../Page/1999年.md "wikilink")3月にかけて113本にも及ぶ「PUNCH DRUNKARD TOUR 1998/99」を行った。アルバムタイトルの『PUNCH DRUNKARD』は、ツアーが決定していることから命名された。吉井は「もうその時点で、こてんぱんになるってことを自分で予知していたんだと思う」と語っている\[2\]。
+  - このアルバムを引っさげて、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")4月から[1999年](../Page/1999年.md "wikilink")3月にかけて113本にも及ぶ「[PUNCH DRUNKARD TOUR 1998/99](https://ja.wikipedia.org/wiki/パンドラ_ザ・イエロー・モンキー_PUNCH_DRUNKARD_TOUR_THE_MOVIE#PUNCH_DRUNKARD_TOUR_セットリスト "wikilink")」を行った。アルバムタイトルの『PUNCH DRUNKARD』は、ツアーが決定していることから命名された。吉井は「もうその時点で、こてんぱんになるってことを自分で予知していたんだと思う」と語っている\[2\]。
   - 初回盤のみ、3面ホログラムジャケット仕様となっている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に結成20周年記念企画の一環で発売された[ユニクロ](../Page/ユニクロ.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")[Tシャツ](../Page/Tシャツ.md "wikilink")には、このジャケットがイラストされたものがバリエーションに存在する。
   - 通常版のジャケットはロンドン市内の[クラブ](../Page/クラブ.md "wikilink")にて撮影された\[3\]。
   - 『SICKS』に続きイギリス盤がリリースされた。ボーナストラックとして『[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")』（『甘い経験』のイングリッシュ・バージョン）が収録されている。
@@ -27,45 +27,71 @@
 
 <!-- end list -->
 
-1.  **パンチドランカー**
+1.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **パンチドランカー**
       -
-        アルバムタイトル曲。ツアーでも全113公演で1曲目に演奏された。イントロはドラム、ベース、ギター、ボーカルが順番に重なっていき、ライブではそれに合わせてメンバーにスポットライトが当てられた。『[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")』の国内盤にライブ音源が収録されている。2013年にベスト盤『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』の特設サイトで行われた「私のTHE YELLOW MONKEY『この1曲』」という企画において、[9mm Parabellum Bulletのベースである](../Page/9mm_Parabellum_Bullet.md "wikilink")[中村和彦](https://ja.wikipedia.org/wiki/中村和彦 "wikilink")がこの曲を投票している\[7\]。
-2.  **球根**
+
+          -
+            アルバムタイトル曲。ツアーでも全113公演で1曲目に演奏された。イントロはドラム、ベース、ギター、ボーカルが順番に重なっていき、ライブではそれに合わせてメンバーにスポットライトが当てられた。『[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")』の国内盤にライブ音源が収録されている。2013年にベスト盤『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』の特設サイトで行われた「私のTHE YELLOW MONKEY『この1曲』」という企画において、[9mm Parabellum Bulletのベースである](../Page/9mm_Parabellum_Bullet.md "wikilink")[中村和彦](https://ja.wikipedia.org/wiki/中村和彦 "wikilink")がこの曲を投票している\[7\]。
+2.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **球根**
       -
-        先行シングル曲。
-3.  **間違いねえな**
+
+          -
+            先行シングル曲。
+3.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **間違いねえな**
       -
-        前半のホールツアーでは次曲の「ゴージャス」とセットで演奏されていた。
-4.  **ゴージャス**
+
+          -
+            前半のホールツアーでは次曲の「ゴージャス」とセットで演奏されていた。
+4.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **ゴージャス**
       -
-        前曲からシームレスの構成。ホールでは「間違いねえな」、アリーナでは6thアルバム『SICKS』収録の「TVのシンガー」とセットで演奏された。ツアー前半では[菊地英二](../Page/菊地英二.md "wikilink")がドラムソロを披露していた。後にこのアルバムからリカットする話が出た際にこの曲が候補としてあげられたが、結果的に15thシングル『[離れるな](https://ja.wikipedia.org/wiki/離れるな "wikilink")』のカップリングとして収録される。[ピン芸人](../Page/ピン芸人.md "wikilink")である[ゴー☆ジャス](../Page/ゴー☆ジャス.md "wikilink")の名前の由来となった\[8\]。
-5.  **見して 見して**
+
+          -
+            前曲からシームレスの構成。ホールでは「間違いねえな」、アリーナでは6thアルバム『SICKS』収録の「TVのシンガー」とセットで演奏された。ツアー前半では[菊地英二](../Page/菊地英二.md "wikilink")がドラムソロを披露していた。後にこのアルバムからリカットする話が出た際にこの曲が候補としてあげられたが、結果的に15thシングル『[離れるな](https://ja.wikipedia.org/wiki/離れるな "wikilink")』のカップリングとして収録される。[ピン芸人](../Page/ピン芸人.md "wikilink")である[ゴー☆ジャス](../Page/ゴー☆ジャス.md "wikilink")の名前の由来となった\[8\]。
+5.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **見して 見して**
       -
-        後に『SUGAR FIX』のカップリングに収録された。
-6.  **クズ社会の赤いバラ**
+
+          -
+            後に『SUGAR FIX』のカップリングに収録された。
+6.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **クズ社会の赤いバラ**
       -
-7.  **セックスレスデス**
+
+          -
+7.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **セックスレスデス**
       -
-8.  **エヴリデイ**
+
+          -
+8.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **エヴリデイ**
       -
-        吉井曰く「僕にとっては前向きな詞」\[9\]。
-9.  **SEA**
+
+          -
+            吉井曰く「僕にとっては前向きな詞」\[9\]。
+9.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **SEA**
       -
-        波の音のSEに、吉井の[ポエトリーリーディングを合わせた楽曲](../Page/朗読.md "wikilink")。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』においては[山田孝之](../Page/山田孝之.md "wikilink")の[カバー](../Page/カバー.md "wikilink")版が収録されている。
-10. **BURN (Album Version)**
+
+          -
+            波の音のSEに、吉井の[ポエトリーリーディングを合わせた楽曲](../Page/朗読.md "wikilink")。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』においては[山田孝之](../Page/山田孝之.md "wikilink")の[カバー](../Page/カバー.md "wikilink")版が収録されている。
+10. [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **BURN (Album Version)**
       -
-        13thシングル。シングルバージョンとはミックス違いで、ベースを録り直し、間奏のシンセサイザーの音が強調されているなどの違いが見られる。
-11. **甘い経験**
+
+          -
+            13thシングル。シングルバージョンとはミックス違いで、ベースを録り直し、間奏のシンセサイザーの音が強調されているなどの違いが見られる。
+11. [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **甘い経験**
       -
-        14thシングル『球根』のカップリング曲。
-        英語バージョンの『[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")』がイギリスでシングルリリースされ、後に日本でも16thシングルとしてリリースされた。
-12. **離れるな**
+
+          -
+            14thシングル『球根』のカップリング曲。
+            英語バージョンの『[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")』がイギリスでシングルリリースされ、後に日本でも16thシングルとしてリリースされた。
+12. [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **離れるな**
       -
-        後に15thシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
-13. **[LOVE LOVE SHOW](../Page/LOVE_LOVE_SHOW.md "wikilink") (Album Version)**
+
+          -
+            後に15thシングルとして[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+13. [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **LOVE LOVE SHOW (Album Version)**
       -
-        12thシングルの再録。シングルバージョンに比べテンポアップしており、アウトロのアルペジオがカット・カットアウトでの終了などに違いが見られる。冒頭の歌詞も若干異なっている。曲の終了後、無音部分を挟み[隠しトラック](../Page/隠しトラック.md "wikilink")として極端にテンポを落とし音が歪んだ「球根」が少しだけ収録されている。
-        [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[PERFECT PERFORMER -THE YELLOW MONKEY-](https://ja.wikipedia.org/wiki/PERFECT_PERFORMER_-THE_YELLOW_MONKEY- "wikilink")』にはこのバージョンで収録されている。
+
+          -
+            12thシングルの再録。シングルバージョンに比べテンポアップしており、アウトロのアルペジオがカット・カットアウトでの終了などに違いが見られる。冒頭の歌詞も若干異なっている。曲の終了後、無音部分を挟み[隠しトラック](../Page/隠しトラック.md "wikilink")として極端にテンポを落とし音が歪んだ「球根」が少しだけ収録されている。
+            [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[PERFECT PERFORMER -THE YELLOW MONKEY-](https://ja.wikipedia.org/wiki/PERFECT_PERFORMER_-THE_YELLOW_MONKEY- "wikilink")』にはこのバージョンで収録されている。
 
 ## 参加ミュージシャン
 
@@ -86,7 +112,7 @@
 
 ## 外部リンク
 
-  - [PUNCH DRUNKARD - THE YELLOW MONKEY | ザ・イエロー・モンキー オフィシャルサイト](http://theyellowmonkeysuper.jp/discography/detail/37/)
+  - [PUNCH DRUNKARD | THE YELLOW MONKEY | ザ・イエロー・モンキー オフィシャルサイト](http://theyellowmonkeysuper.jp/discography/detail/37/)
 
 [Category:THE_YELLOW_MONKEYのアルバム](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEYのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

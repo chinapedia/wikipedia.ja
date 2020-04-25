@@ -1,4 +1,4 @@
-> この記事は[GN](https://ja.wikipedia.org/wiki/GN)から翻訳されています。
+> この記事は[スズキ・GN](https://ja.wikipedia.org/wiki/スズキ・GN)から翻訳されています。
 
 
 **GN**（ジーエヌ）とは、[スズキが製造](../Page/スズキ_\(企業\).md "wikilink")・発売する[オートバイ](../Page/オートバイ.md "wikilink")（[原動機付自転車](../Page/原動機付自転車.md "wikilink")および[自動二輪車](https://ja.wikipedia.org/wiki/自動二輪車 "wikilink")）のシリーズ車種である。

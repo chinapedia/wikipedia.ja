@@ -56,7 +56,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.jvcmusic.co.jp/-/Artist/A013287.html)
-  - [ブログ](http://d.hatena.ne.jp/cubejuice/)
+  - [ブログ](https://cubejuice.hatenadiary.org/)
   - [はてなダイアリー](http://d.hatena.ne.jp/keyword/CUBE%20JUICE)
 
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

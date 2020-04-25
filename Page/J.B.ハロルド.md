@@ -1,4 +1,4 @@
-> この記事は[J.B.](https://ja.wikipedia.org/wiki/J.B.)から翻訳されています。
+> この記事は[J.B.ハロルド](https://ja.wikipedia.org/wiki/J.B.ハロルド)から翻訳されています。
 
 
 **J.B.ハロルド**は、[リバーヒルソフト](../Page/リバーヒルソフト.md "wikilink")から発売、及び[アルティ](https://ja.wikipedia.org/wiki/アルティ "wikilink")で配信されている[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")、[J.B.ハロルドシリーズ](https://ja.wikipedia.org/wiki/J.B.ハロルドシリーズ "wikilink")に登場する架空の[警察官](../Page/警察官.md "wikilink")。

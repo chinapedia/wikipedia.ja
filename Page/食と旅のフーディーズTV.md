@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[食と旅のフーディーズTV](https://ja.wikipedia.org/wiki/食と旅のフーディーズTV)から翻訳されています。
 
 
 **FOODIES TV**（フーディーズ ティーヴィ）は、IMAGICAティーヴィ（現・[WOWOWプラス](https://ja.wikipedia.org/wiki/WOWOWプラス "wikilink")）が運営していたグルメ関連[専門チャンネル](../Page/専門チャンネル.md "wikilink")。
@@ -70,7 +70,7 @@ IMAGICAティーヴィの子会社、株式会社IMAGICA FTVが[2016年](../Page
   - [世界市場紀行 ワールドバザール21](../Page/ワールドバザール21.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")制作）
   - [とよた真帆のアジアグルメナビ](https://ja.wikipedia.org/wiki/とよた真帆のアジアグルメナビ "wikilink")（有限会社タイレル制作）
   - [アニメ 美味しんぼ](../Page/美味しんぼ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[シンエイ動画](../Page/シンエイ動画.md "wikilink")制作）
-  - [アニメ クッキングパパ](../Page/クッキングパパ.md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")制作）
+  - [アニメ クッキングパパ](../Page/クッキングパパ.md "wikilink")（[朝日放送](../Page/朝日放送テレビ.md "wikilink")・[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")制作）
   - [きょうの料理](../Page/きょうの料理.md "wikilink")（NHK制作）
   - [森崎博之のあぐり王国北海道](../Page/森崎博之のあぐり王国北海道.md "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")制作）
   - [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")（テレビ東京制作）

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トヨタ自動車東富士FC](https://ja.wikipedia.org/wiki/トヨタ自動車東富士FC)から翻訳されています。
 
 
 **トヨタ自動車東富士FC**（トヨタじどうしゃ ひがしふじエフシー）は、[静岡県](../Page/静岡県.md "wikilink")で活動していた\[1\] 社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

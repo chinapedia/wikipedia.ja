@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ゼロヨンQ太](https://ja.wikipedia.org/wiki/ゼロヨンQ太)から翻訳されています。
 
 
 『**ゼロヨンQ太**』（ゼロヨンキューた）は[池田淳一](../Page/池田淳一.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に[1982年](../Page/1982年.md "wikilink")9月号から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月号にかけて連載された。単行本全6巻。[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）の[プルバック式](https://ja.wikipedia.org/wiki/プルバック式 "wikilink")ぜんまい[ミニカー](../Page/ミニカー_\(玩具\).md "wikilink")・[チョロQ](../Page/チョロQ.md "wikilink")を題材とした漫画である。

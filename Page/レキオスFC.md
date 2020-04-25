@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レキオスFC](https://ja.wikipedia.org/wiki/レキオスFC)から翻訳されています。
 
 
 **レキオスFC**（Lequios FC）は、[東京都](../Page/東京都.md "wikilink")を拠点とする[ビーチサッカー](../Page/ビーチサッカー.md "wikilink")クラブ。2009年の2月から東京に進出し、チーム名を「**東京レキオスBS**」と改名した。

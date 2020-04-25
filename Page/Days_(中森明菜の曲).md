@@ -1,4 +1,4 @@
-> この記事は[Days \(\)](https://ja.wikipedia.org/wiki/Days_\(\))から翻訳されています。
+> この記事は[Days \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/Days_\(中森明菜の曲\))から翻訳されています。
 
 
 「**Days**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の42枚目の[シングル](../Page/シングル.md "wikilink")として、2003年4月30日に[ユニバーサルJよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5094)。

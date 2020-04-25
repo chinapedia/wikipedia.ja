@@ -28,6 +28,6 @@
   - [Nuts Melon Show\!公式ページ](http://www.e-radio.co.jp/products/nuts/index.html)
   - [Nuts Melon Show\! 番組ブログ(～2006年10月)](http://www.e-radio.co.jp/blog/nutsmelon)
   - [Nuts Melon Show\! 番組ブログ(2006年11月～)](http://nutsmelonshow.e-radio.jp/)
-  - [FM滋賀公式サイト](http://www.e-radio.co.jp/index.html/)
+  - [FM滋賀公式サイト](https://www.e-radio.co.jp/)
 
 [Category:エフエム滋賀の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム滋賀の帯番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink")

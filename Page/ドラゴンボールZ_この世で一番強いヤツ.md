@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ この世で一番強いヤツ](https://ja.wikipedia.org/wiki/ドラゴンボールZ_この世で一番強いヤツ)から翻訳されています。
 
 
 『**ドラゴンボールZ この世で一番強いヤツ**』（ドラゴンボールゼット このよでいちばんつよいヤツ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第5弾である。監督は[西尾大介](../Page/西尾大介.md "wikilink")。

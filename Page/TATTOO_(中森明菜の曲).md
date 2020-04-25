@@ -1,4 +1,4 @@
-> この記事は[TATTOO \(\)](https://ja.wikipedia.org/wiki/TATTOO_\(\))から翻訳されています。
+> この記事は[TATTOO \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/TATTOO_\(中森明菜の曲\))から翻訳されています。
 
 
 「**TATTOO**」（タトゥー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の21枚目の[シングル](../Page/シングル.md "wikilink")として、1988年5月18日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): L-1757, [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-13)。

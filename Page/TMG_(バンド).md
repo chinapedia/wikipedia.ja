@@ -1,7 +1,7 @@
-> この記事は[TMG \(\)](https://ja.wikipedia.org/wiki/TMG_\(\))から翻訳されています。
+> この記事は[TMG \(バンド\)](https://ja.wikipedia.org/wiki/TMG_\(バンド\))から翻訳されています。
 
 
-**TMG**（ティー・エム・ジー）は、[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")を中心とした[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。バンド名の由来は「**T**ak **M**atsumoto **G**roup」の頭文字から名づけている\[1\]\[2\]。
+**TMG**（ティー・エム・ジー）は、[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")を中心とした[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。バンド名は「**T**ak **M**atsumoto **G**roup」\[1\]の頭文字をとったもの\[2\]。
 
 ## 参加アーティスト
 
@@ -16,7 +16,9 @@
 | シンディ・ブラックマン                                                                                                    | ドラム（レコーディング・メンバー）                                     |
 | クリス・フレイジャー（元[ホワイトスネイク](../Page/ホワイトスネイク.md "wikilink")）                                                        | ドラム（ツアー・メンバー）                                         |
 
-## ディスコグラフィー
+## ディスコグラフィ
+
+### リリース作品
 
 |            | 発売日         | タイトル                                                                               | 規格                                                              | [規格品番](../Page/規格品番.md "wikilink") |
 | ---------- | ----------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------- |
@@ -27,12 +29,17 @@
 | LIVE・VIDEO | 2004年12月15日 | **[Dodge The Bullet](https://ja.wikipedia.org/wiki/Dodge_The_Bullet "wikilink")**  | DVD                                                             | ONBD-7042\~7043                    |
 | VHS        | ONVX-7042   |                                                                                    |                                                                 |                                    |
 
-  - 未発表曲
-
-<!-- end list -->
+### 未発表曲
 
   - **Tak, Jack, Eric and ATTACK (Chris Frazier)**
     （作詞・作曲：Tak Matsumoto・Jack Brades・Eric Martin　編曲：TMG）
+
+### 参加作品
+
+| 発売日        | タイトル                                                                                                  | 収録曲                 |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ------------------- |
+| 2005年7月20日 | [ULTRAMAN ORIGINAL SOUNDTRACK](https://ja.wikipedia.org/wiki/ULTRAMAN_ORIGINAL_SOUNDTRACK "wikilink") | 12\. NEVER GOOD-BYE |
+|            |                                                                                                       |                     |
 
 ## タイアップ
 
@@ -78,30 +85,14 @@
 
 </div>
 
-## エピソード
+## 脚注
 
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』の[音楽番組](../Page/音楽番組.md "wikilink")に出演したが、後者に出演した際、ボーカルのエリック・マーティンが夫人の出産の為に出演できなくなってしまい、急遽エリックの代役をベースのジャック・ブレイズが務めるという措置をとった。
+### 注釈
 
-<!-- end list -->
-
-  - 2006年3月、[王貞治](../Page/王貞治.md "wikilink")監督率いる野球日本代表チームが「[ワールド・ベースボール・クラシック](../Page/ワールド・ベースボール・クラシック.md "wikilink")（WBC）」で優勝した事により、「王(OH)ジャパン」つながりで、TMGの「OH JAPAN〜OUR TIME IS NOW〜」がテレビ・ラジオで使用される事が多かった。
-
-## 脚注・出典
-
-  - 脚注
-
-<!-- end list -->
-
-  - 出典
-
-## 関連項目
-
-  - [B'z](../Page/B'z.md "wikilink")
-  - [Mr. Big](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")
-  - [Night Ranger](../Page/ナイト・レンジャー.md "wikilink")
+### 出典
 
 [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
-1.  松本がお気に入りのギタリストである[マイケル・シェンカー・グループ](../Page/マイケル・シェンカー・グループ.md "wikilink")（**M**ichael **S**chenker **G**roup, **MSG**）に倣ったもの。松本が以前サポートミュージシャンとして参加していた「[TM NETWORK](../Page/TM_NETWORK.md "wikilink")（TMN）」とは関係がない。
-2.  アマチュアの頃に松本は「[UFO](../Page/UFO_\(バンド\).md "wikilink")」の曲をカセットテープが擦り切れるまで繰り返し聴き込み、細部にいたるまで熱心にコピーして[ギター](../Page/ギター.md "wikilink")の練習していたという。「TMG」結成（2004年）の10年以上前に[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")がこの話を聞いた時、「（MSGを）松本さんがやるんだったらTMGだね。」と発言していたことを松本が明かしている（稲葉本人は発言を忘れてしまっていた）。
+1.
+2.
 3.

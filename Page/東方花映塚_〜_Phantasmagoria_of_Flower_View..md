@@ -1,4 +1,4 @@
-> この記事は[  Phantasmagoria of Flower View.](https://ja.wikipedia.org/wiki/__Phantasmagoria_of_Flower_View.)から翻訳されています。
+> この記事は[東方花映塚 〜 Phantasmagoria of Flower View.](https://ja.wikipedia.org/wiki/東方花映塚_〜_Phantasmagoria_of_Flower_View.)から翻訳されています。
 
 
 『**東方花映塚 〜 Phantasmagoria of Flower View.**』（とうほうかえいづか ファンタズマゴリア・オブ・フラワー・ビュー）とは、[同人サークル](../Page/同人サークル.md "wikilink")[上海アリス幻樂団](https://ja.wikipedia.org/wiki/上海アリス幻樂団 "wikilink")によって製作された[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")ゲームであり、[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")第9弾に当たる作品である。東方Projectの10周年を記念して制作された「ファンサービス」的な作品\[1\]。

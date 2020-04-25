@@ -1,4 +1,4 @@
-> この記事は[VS \(misono\)](https://ja.wikipedia.org/wiki/VS_\(misono\))から翻訳されています。
+> この記事は[VS \(misonoの曲\)](https://ja.wikipedia.org/wiki/VS_\(misonoの曲\))から翻訳されています。
 
 
 「**VS**」（ヴァーサス）は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")が[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")にリリースしたソロデビューシングルである。

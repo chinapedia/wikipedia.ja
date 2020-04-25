@@ -1,4 +1,4 @@
-> この記事は[-misao](https://ja.wikipedia.org/wiki/-misao)から翻訳されています。
+> この記事は[操-misao](https://ja.wikipedia.org/wiki/操-misao)から翻訳されています。
 
 
 **操-misao**(みさお、本名も「操」、生年不明。[2月27日](../Page/2月27日.md "wikilink")生まれ)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[2006年](../Page/2006年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に『心の空』で全国デビュー。セールスポイントはジェンダーレスボイス。

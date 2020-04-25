@@ -1,4 +1,4 @@
-> この記事は[CSK](https://ja.wikipedia.org/wiki/CSK)から翻訳されています。
+> この記事は[CSK杯囲碁アジア対抗戦](https://ja.wikipedia.org/wiki/CSK杯囲碁アジア対抗戦)から翻訳されています。
 
 
 **CSK杯囲碁アジア対抗戦**（CSKはいいごあじあたいこうせん）は、[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国](../Page/中国.md "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華台北](../Page/チャイニーズタイペイ.md "wikilink")）の4ヶ国・地域の代表選手5名ずつによる団体戦で優勝を争う。2002年に開始し、2006年まで5回開催された。

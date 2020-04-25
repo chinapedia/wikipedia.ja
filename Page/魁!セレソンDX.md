@@ -1,4 +1,4 @@
-> この記事は[!DX](https://ja.wikipedia.org/wiki/!DX)から翻訳されています。
+> この記事は[魁!セレソンDX](https://ja.wikipedia.org/wiki/魁!セレソンDX)から翻訳されています。
 
 
 『**魁\!セレソンDX**』（さきがけ\! セレソンデラックス）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")開局25周年記念事業の一環として、[2006年](../Page/2006年.md "wikilink")10月から同年12月まで放送された[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")。[劇団](../Page/劇団.md "wikilink")「[東京セレソンDX](https://ja.wikipedia.org/wiki/東京セレソンデラックス "wikilink")」による「斬新かつ実験的な連続ドラマ」を目指した番組である。

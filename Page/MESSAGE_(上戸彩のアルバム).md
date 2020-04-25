@@ -1,4 +1,4 @@
-> この記事は[MESSAGE \(\)](https://ja.wikipedia.org/wiki/MESSAGE_\(\))から翻訳されています。
+> この記事は[MESSAGE \(上戸彩のアルバム\)](https://ja.wikipedia.org/wiki/MESSAGE_\(上戸彩のアルバム\))から翻訳されています。
 
 
 『**MESSAGE**』（メッセージ）は、[2004年](../Page/2004年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")にリリースされた[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")の2枚目のアルバム。

@@ -1,4 +1,4 @@
-> この記事は[ \(NEWS24\)](https://ja.wikipedia.org/wiki/_\(NEWS24\))から翻訳されています。
+> この記事は[ミッドナイトジャーナル \(日テレNEWS24\)](https://ja.wikipedia.org/wiki/ミッドナイトジャーナル_\(日テレNEWS24\))から翻訳されています。
 
 
 **ミッドナイトジャーナル**（**みっどないとじゃーなる**）はニュース専門チャンネル[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")（[CS放送](../Page/衛星放送.md "wikilink")）制作によるニュース番組である。2008年3月に終了。後番組は『[さきがけ ニュース&スポーツ](https://ja.wikipedia.org/wiki/さきがけ_ニュース&スポーツ "wikilink")』。

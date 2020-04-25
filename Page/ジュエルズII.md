@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ジュエルズII](https://ja.wikipedia.org/wiki/ジュエルズII)から翻訳されています。
 
 
 『**ジュエルズII**』 (*Jewels II*) は、[クイーンの日本独自の](../Page/クイーン_\(バンド\).md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。前年発売のベストアルバム『[ジュエルズ](../Page/ジュエルズ_\(アルバム\).md "wikilink")』の続編である。

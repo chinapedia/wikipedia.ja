@@ -1,4 +1,4 @@
-> この記事は[ Never Forget](https://ja.wikipedia.org/wiki/_Never_Forget)から翻訳されています。
+> この記事は[帰省 〜Never Forget〜](https://ja.wikipedia.org/wiki/帰省_〜Never_Forget〜)から翻訳されています。
 
 
 「**帰省 〜Never Forget〜**」（きせい ネバー・フォーゲット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の35枚目の[シングル](../Page/シングル.md "wikilink")として、1998年2月11日にTHIS ONE（[ガウスエンタテインメント](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）よりリリースされた ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): GRDO-10)。

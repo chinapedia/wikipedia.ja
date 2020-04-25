@@ -1,4 +1,4 @@
-> この記事は[Ohdolly25](https://ja.wikipedia.org/wiki/Ohdolly25)から翻訳されています。
+> この記事は[Oh♪dolly25](https://ja.wikipedia.org/wiki/Oh♪dolly25)から翻訳されています。
 
 
 **oh♪dolly25**（オードリーにじゅうご）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")や同系列の一部の放送局で放送されていた音楽バラエティ番組。

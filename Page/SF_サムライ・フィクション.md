@@ -1,4 +1,4 @@
-> この記事は[SF ](https://ja.wikipedia.org/wiki/SF_)から翻訳されています。
+> この記事は[SF サムライ・フィクション](https://ja.wikipedia.org/wiki/SF_サムライ・フィクション)から翻訳されています。
 
 
 『**SF サムライ・フィクション**』は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。監督はミュージックビデオ出身の[中野裕之](../Page/中野裕之.md "wikilink")。豪華キャスト陣で送る異色のエンタテインメント[時代劇](../Page/時代劇.md "wikilink")。多くのミュージシャンが出演していることでも話題になった。

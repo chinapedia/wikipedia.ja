@@ -1,4 +1,4 @@
-> この記事は[ -W.I.T.C.H.-](https://ja.wikipedia.org/wiki/_-W.I.T.C.H.-)から翻訳されています。
+> この記事は[ウィッチ -W.I.T.C.H.-](https://ja.wikipedia.org/wiki/ウィッチ_-W.I.T.C.H.-)から翻訳されています。
 
 
 『**ウィッチ -W.I.T.C.H.-**』（ウィッチ）は、同名の[イタリア](../Page/イタリア.md "wikilink")の[コミック](https://ja.wikipedia.org/wiki/コミック "wikilink")を原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の共同製作。[2004年](../Page/2004年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけて放送された。全2シーズン、52話。アニメーション制作会社はフランスの「[シップ・アニメーション](https://ja.wikipedia.org/wiki/シップ・アニメーション "wikilink")」。

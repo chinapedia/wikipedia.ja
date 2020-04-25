@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[プレストン・ノースエンドFC](https://ja.wikipedia.org/wiki/プレストン・ノースエンドFC)から翻訳されています。
 
 
 **プレストン・ノースエンドFC**（**Preston North End F.C.**）は、[イングランド](../Page/イングランド.md "wikilink")・[プレストンに本拠地を置く](https://ja.wikipedia.org/wiki/プレストン_\(イングランド\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。略称はPNE。**[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")最初のリーグチャンピオン**である。

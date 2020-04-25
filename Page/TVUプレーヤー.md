@@ -1,4 +1,4 @@
-> この記事は[TVU](https://ja.wikipedia.org/wiki/TVU)から翻訳されています。
+> この記事は[TVUプレーヤー](https://ja.wikipedia.org/wiki/TVUプレーヤー)から翻訳されています。
 
 
 **TVUプレーヤー**とは、インターネット上で[P2P技術を用いて配信されているテレビ放送を受信するソフトウエア](../Page/Peer_to_Peer.md "wikilink")（[P2Pテレビ](../Page/P2Pテレビ.md "wikilink")）。

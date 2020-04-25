@@ -1,4 +1,4 @@
-> この記事は[TRUTHA Great Detective of Love](https://ja.wikipedia.org/wiki/TRUTHA_Great_Detective_of_Love)から翻訳されています。
+> この記事は[TRUTH〜A Great Detective of Love〜](https://ja.wikipedia.org/wiki/TRUTH〜A_Great_Detective_of_Love〜)から翻訳されています。
 
 
 「**TRUTH〜A Great Detective of Love〜**」（トゥルース・ア・グレート・ディティクティヴ・オブ・ラヴ）は、[TWO-MIX](../Page/TWO-MIX.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。
@@ -168,7 +168,7 @@
 </tbody>
 </table>
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  こちらのヴァージョンは、高山とコナンが交互に歌い分ける、いわゆるデュエットとなっている
 2.

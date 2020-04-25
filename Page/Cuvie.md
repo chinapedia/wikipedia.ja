@@ -7,7 +7,9 @@
 
 ## 特色
 
-成人向け漫画では[幼馴染](../Page/幼馴染.md "wikilink")の男女や学生同士のカップルを取り扱った純愛ものから、男性視点、女性視点の浮気や性愛に溺れる背徳性の高い作品まで、幅広い作風を持つ。また、大変な速筆家としても知られ、一般誌での連載中でもコンスタントに成人向け作品を発表し、年に3〜4冊のペースで単行本を出し続けている上に、単行本未収録原稿が多くある作家として知られている。そのため、オーディオドラマCD付き限定版コミックスの「通常版」に未収録作品を追加掲載したりもしている。
+成人向け漫画では、[幼馴染](../Page/幼馴染.md "wikilink")の男女や学生同士のカップルを取り扱った純愛ものから、男性視点、女性視点の浮気や性愛に溺れる背徳性の高い作品まで、幅広い作風を持つ。
+
+また、大変な速筆家としても知られ、一般誌での連載中でもコンスタントに成人向け作品を発表し、年に3〜4冊のペースで単行本を出し続けている上に、単行本未収録原稿が多くある作家として知られている。そのため、オーディオドラマCD付き限定版コミックスの「通常版」に未収録作品を追加掲載したりもしている。
 
 ## 来歴
 
@@ -41,12 +43,12 @@
     1.  2011年9月 ISBN 978-4-0637-6298-3
     2.  2012年9月 ISBN 978-4-0637-6360-7
     3.  2013年10月 ISBN 978-4-0637-6419-2
+  - [VANITAS](https://ja.wikipedia.org/wiki/VANITAS "wikilink") （秋田書店 <チャンピオンREDコミックス>、全1巻）
+    1.  2014年6月 ISBN 978-4-253-23398-9
   - ひとはけの虹（講談社 <シリウスKC>、全3巻）
     1.  2015年8月 ISBN 978-4-06-376567-0
     2.  2015年12月 ISBN 978-4-06-376592-2
     3.  2017年4月 ISBN 978-4-06-390692-9
-  - [VANITAS](https://ja.wikipedia.org/wiki/VANITAS "wikilink") （秋田書店 <チャンピオンREDコミックス>、全1巻）
-    1.  2014年6月 ISBN 978-4-253-23398-9
   - [絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink") （秋田書店 \<[チャンピオンREDコミックス](https://ja.wikipedia.org/wiki/チャンピオンREDコミックス "wikilink")\>、既刊14巻）
   - エルジェーベト（講談社 <シリウスKC>、既刊2巻）
     1.  2018年4月 ISBN 978-4-06-511295-3
@@ -96,7 +98,7 @@
 ## 外部リンク
 
   -
-  - [Cuvieのブログ](http://ameblo.jp/cuvie9b/) - 公式サイト (2013年3月以降更新なし)
+  - [Cuvieのブログ](https://ameblo.jp/cuvie9b/) - 公式サイト (2013年3月以降更新なし)
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:同志社大学出身の人物](https://ja.wikipedia.org/wiki/Category:同志社大学出身の人物 "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

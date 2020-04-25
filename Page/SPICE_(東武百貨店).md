@@ -1,4 +1,4 @@
-> この記事は[SPICE \(\)](https://ja.wikipedia.org/wiki/SPICE_\(\))から翻訳されています。
+> この記事は[SPICE \(東武百貨店\)](https://ja.wikipedia.org/wiki/SPICE_\(東武百貨店\))から翻訳されています。
 
 
 **SPICE**とは、[東武百貨店](../Page/東武百貨店.md "wikilink")池袋店11階〜15階及び船橋店7・8階と、[東武宇都宮百貨店](../Page/東武宇都宮百貨店.md "wikilink")宇都宮店8階に入店するレストラン街のことである。

@@ -1,4 +1,4 @@
-> この記事は[Trust Me \(\)](https://ja.wikipedia.org/wiki/Trust_Me_\(\))から翻訳されています。
+> この記事は[Trust Me \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/Trust_Me_\(中森明菜の曲\))から翻訳されています。
 
 
 「**Trust Me**」（トラスト・ミー）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の39枚目の[シングル](../Page/シングル.md "wikilink")として、1999年12月1日にTHIS ONE（[ガウスエンタテインメント](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）よりリリースされた ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): GRDO-24)。

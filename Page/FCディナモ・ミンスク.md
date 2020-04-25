@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCディナモ・ミンスク](https://ja.wikipedia.org/wiki/FCディナモ・ミンスク)から翻訳されています。
 
 
 **FCディナモ・ミンスク**（、）は、[ベラルーシ](../Page/ベラルーシ.md "wikilink")の首都[ミンスク](../Page/ミンスク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

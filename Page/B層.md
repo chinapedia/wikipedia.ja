@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B層](https://ja.wikipedia.org/wiki/B層)から翻訳されています。
 
 
 **B層**（ビーそう）とは、[郵政民営化](https://ja.wikipedia.org/wiki/郵政民営化 "wikilink")の広報企画にあたって小泉政権の主な支持基盤として想定された、「具体的なことはよくわからないが[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")のキャラクターを支持する層」と定義されている\[1\]\[2\]。

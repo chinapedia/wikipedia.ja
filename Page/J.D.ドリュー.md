@@ -1,4 +1,4 @@
-> この記事は[J.D.](https://ja.wikipedia.org/wiki/J.D.)から翻訳されています。
+> この記事は[J.D.ドリュー](https://ja.wikipedia.org/wiki/J.D.ドリュー)から翻訳されています。
 
 
 **デイヴィッド・ジョナサン・ドリュー**（David Jonathan "J. D." Drew, [1975年](../Page/1975年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジョージア州](../Page/ジョージア州.md "wikilink")[バルドスタ出身の元](https://ja.wikipedia.org/wiki/バルドスタ_\(ジョージア州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")）。右投左打。

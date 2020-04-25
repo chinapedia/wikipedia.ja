@@ -1,4 +1,4 @@
-> この記事は[DCS](https://ja.wikipedia.org/wiki/DCS)から翻訳されています。
+> この記事は[三菱総研DCS](https://ja.wikipedia.org/wiki/三菱総研DCS)から翻訳されています。
 
 
 **三菱総研DCS株式会社**（みつびしそうけんディーシーエス、*Mitsubishi Research Institute DCS Co.,Ltd.*）は、[三菱総合研究所](../Page/三菱総合研究所.md "wikilink")及び[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")を株主とする[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[ユーザー系](../Page/ユーザー系.md "wikilink")）。通称**DCS**。

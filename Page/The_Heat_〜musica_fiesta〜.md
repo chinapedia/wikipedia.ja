@@ -1,4 +1,4 @@
-> この記事は[The Heat musica fiesta](https://ja.wikipedia.org/wiki/The_Heat_musica_fiesta)から翻訳されています。
+> この記事は[The Heat 〜musica fiesta〜](https://ja.wikipedia.org/wiki/The_Heat_〜musica_fiesta〜)から翻訳されています。
 
 
 「**The Heat 〜musica fiesta〜**」（ザ・ヒート ムジカ・フィエスタ\[1\]、ザ・ヒート ムシカ・フィエスタ\[2\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の41枚目の[シングル](../Page/シングル.md "wikilink")として、2002年5月2日に[キティMMEよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5060)。

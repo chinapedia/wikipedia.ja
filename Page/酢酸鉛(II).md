@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[酢酸鉛\(II\)](https://ja.wikipedia.org/wiki/酢酸鉛\(II\))から翻訳されています。
 
 
 **酢酸鉛(II)** （さくさんなまり に）は[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")化合物の一種で、甘みを持つ無色の[結晶](../Page/結晶.md "wikilink")である。[酸化鉛(II)](https://ja.wikipedia.org/wiki/酸化鉛\(II\) "wikilink")を[酢酸](../Page/酢酸.md "wikilink")と反応させることによって得られる。他の鉛化合物と同様、毒性が強い。[水](../Page/水.md "wikilink")や[グリセリン](../Page/グリセリン.md "wikilink")に可溶である。水の存在下で3水和物 Pb(OCOCH<sub>3</sub>)<sub>2</sub>·3H<sub>2</sub>O を生じ、これは[潮解性](https://ja.wikipedia.org/wiki/潮解性 "wikilink")を持つ[単斜晶](https://ja.wikipedia.org/wiki/単斜晶 "wikilink")系の結晶である。価数を付さず単に**酢酸鉛**、あるいは**鉛糖** (sugar of lead)、**土の糖** (salt of Saturn)、**グラール粉** （Goulard's powder, [トマ・グラール](https://ja.wikipedia.org/wiki/トマ・グラール "wikilink")にちなむ）などとも呼ばれる。

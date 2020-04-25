@@ -1,4 +1,4 @@
-> この記事は[DShK38](https://ja.wikipedia.org/wiki/DShK38)から翻訳されています。
+> この記事は[DShK38重機関銃](https://ja.wikipedia.org/wiki/DShK38重機関銃)から翻訳されています。
 
 
 **DShK38重機関銃**（DShK38じゅうきかんじゅう、：、デグチャレフ＝シュパーギン大口径）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")製の対空用[重機関銃](../Page/重機関銃.md "wikilink")である。しばしば対人にも使用される。この重機関銃は、[ヴァシーリー・デグチャレフ](https://ja.wikipedia.org/wiki/ヴァシーリー・デグチャレフ "wikilink")が基礎設計を行い、[ゲオルギー・シュパーギン](https://ja.wikipedia.org/wiki/ゲオルギー・シュパーギン "wikilink")が装弾機構を改良した。愛称はDushka（デュシーカ、デシーカ）で、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")でこれと遭遇した[アメリカ軍](../Page/アメリカ軍.md "wikilink")は、Dush-K（ダッシュK）などと呼んだ。

@@ -1,4 +1,4 @@
-> この記事は[TVLab](https://ja.wikipedia.org/wiki/TVLab)から翻訳されています。
+> この記事は[TV☆Lab](https://ja.wikipedia.org/wiki/TV☆Lab)から翻訳されています。
 
 
 **TV☆Lab**(ティービー・ラボ)は[BSフジ](../Page/BSフジ.md "wikilink")で放送されていた単発バラエティ枠。前身といえる番組は[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")まで放送された「**ドリームメーカーTV**」。[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")やBSフジの若手スタッフが制作した実験的なバラエティ番組を放送。

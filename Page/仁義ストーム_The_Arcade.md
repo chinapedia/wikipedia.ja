@@ -1,4 +1,4 @@
-> この記事は[ The Arcade](https://ja.wikipedia.org/wiki/_The_Arcade)から翻訳されています。
+> この記事は[仁義ストーム The Arcade](https://ja.wikipedia.org/wiki/仁義ストーム_The_Arcade)から翻訳されています。
 
 
 『**仁義ストーム The Arcade**』（じんぎストーム ジ アーケード）は、[アトラティーバ・ジャパン](https://ja.wikipedia.org/wiki/アトラティーバ・ジャパン "wikilink")が開発した[3D格闘ゲーム](https://ja.wikipedia.org/wiki/3D格闘ゲーム "wikilink")。

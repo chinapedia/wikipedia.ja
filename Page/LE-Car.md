@@ -25,7 +25,7 @@ LE-CarIIベースの二軸車両では[ラッシュ時](../Page/ラッシュ時.
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tarumi-Railway_Haimo180-202.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:OumitetudouLE10.JPG "wikilink")[LE10形](../Page/近江鉄道LE10形気動車.md "wikilink")（LE-CarII 2軸車型）\]\] LE-CarIIシリーズの最初期型にあたるもので、[1984年](../Page/1984年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にかけて製造された。車体長さは12.5mで、車体形状は当時富士重工業で製造されていた[R15型バス用ボディに類似するが](https://ja.wikipedia.org/wiki/スバルカスタマイズ工房#R15型_1982〜1990年製造 "wikilink")、前面非貫通形（試作車タイプと5Bタイプと5Eタイプの違いがある）と貫通形、ライトケースの違いを含め納入先によりさまざまなバリエーションがある。また、側面窓は路線バス並の2段窓仕様と観光バス風の一部引違い半固定式（Jベンドガラス）のものがあった。
 
-エンジンはバス用、出力180[PS](../Page/馬力.md "wikilink")/2200[rpmの日産ディーゼル製](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")[PE6H](../Page/日産ディーゼル・P系エンジン.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を搭載し、[台車は](../Page/鉄道車両の台車.md "wikilink")[一軸台車](../Page/一軸台車.md "wikilink")を2つ履き、一方を駆動台車、もう一方を付随台車とする。
+エンジンはバス用、出力180[PS](../Page/馬力.md "wikilink")/2200[rpmの](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")[日産ディーゼル製](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")[PE6H](../Page/日産ディーゼル・P系エンジン.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")を搭載し、[台車は](../Page/鉄道車両の台車.md "wikilink")[一軸台車](../Page/一軸台車.md "wikilink")を2つ履き、一方を駆動台車、もう一方を付随台車とする。
 
 老朽化によりほとんどが[廃車となり](../Page/廃車_\(鉄道\).md "wikilink")、[2017年](../Page/2017年.md "wikilink")4月現在稼働可能なのは現役の[紀州鉄道](../Page/紀州鉄道.md "wikilink")に残る1両と動態保存車で、[樽見鉄道](../Page/樽見鉄道.md "wikilink")から[有田鉄道](../Page/有田鉄道.md "wikilink")→[有田川町鉄道公園](https://ja.wikipedia.org/wiki/有田川町鉄道公園 "wikilink")に譲渡された1両、[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")から[くりはら田園鉄道](../Page/くりはら田園鉄道.md "wikilink")に譲渡された1両の計3両のみとなっている。
 

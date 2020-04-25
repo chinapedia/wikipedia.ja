@@ -1,4 +1,4 @@
-> この記事は[57NHK](https://ja.wikipedia.org/wiki/57NHK)から翻訳されています。
+> この記事は[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第57回NHK紅白歌合戦**』（だいごじゅうななかいエヌエイチケイこうはくうたがっせん）は、[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[12月31日](../Page/12月31日.md "wikilink")（[JST](../Page/日本標準時.md "wikilink")、以下同じ）に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算57回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。19時20分-23時45分に[生放送](../Page/生放送.md "wikilink")された（21時25分-21時30分は[ニュースのため中断](../Page/NHKニュース.md "wikilink")。[BShiは別番組](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")）。[双方向対応番組](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送#特徴など（日本国内） "wikilink")。二部制はとられていない。
@@ -229,7 +229,7 @@ SMAPは前回白組トリおよび大トリを務めたが、同[リーダー](h
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a>（8）</p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a>（8）</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
@@ -299,7 +299,7 @@ SMAPは前回白組トリおよび大トリを務めたが、同[リーダー](h
 
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")：前回まで初出場以来3年連続で出場していたが、今回は早い時期に辞退した。
   - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")：前回まで初出場以来（ただしこの以前モーニング娘。としての出場歴あり）3年連続で出場（ただし3年連続別名義\[21\]）していたが、今回は落選（[週刊誌](../Page/週刊誌.md "wikilink")報道）。
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")：吉田にとって21年ぶりとなる大型野外ライブ「[吉田拓郎 & かぐや姫 Concert in つま恋 2006](https://ja.wikipedia.org/wiki/吉田拓郎_&_かぐや姫_Concert_in_つま恋_2006 "wikilink")」がNHKで放送されたため、出場が有力視されたが「つま恋はNHKさんの協力なしに成功はなかったが、つま恋は自分の中で通過点に過ぎないと思っているので」として辞退した。辞退に際してコメント発表は異例。
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")：吉田にとって21年ぶりとなる大型野外ライブ「[吉田拓郎 & かぐや姫 Concert in つま恋 2006](https://ja.wikipedia.org/wiki/吉田拓郎_&_かぐや姫_Concert_in_つま恋_2006 "wikilink")」がNHKで放送されたため、出場が有力視されたが「つま恋はNHKさんの協力なしに成功はなかったが、つま恋は自分の中で通過点に過ぎないと思っているので」として辞退した。辞退に際してコメント発表は異例。
   - [井上陽水](../Page/井上陽水.md "wikilink")：「今は出る気力がない、今後の紅白の出演を検討する」として辞退した。
   - [Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")：翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』に[上杉謙信](../Page/上杉謙信.md "wikilink")役で出演するため、出場が有力視されるも不出場（翌年の第58回には出場）。
   - [桜塚やっくん](../Page/桜塚やっくん.md "wikilink")：「（本人の強い意向により）紅組での出場が決定」とメディアに報じられた\[22\]が、落選。応援ゲストとしての登場に留まった。ただし、ゲストとしての登場時に持ち歌「[1000%SOざくね?](https://ja.wikipedia.org/wiki/1000%SOざくね? "wikilink")」の一部を歌唱している。

@@ -1,4 +1,4 @@
-> この記事は[Selen \(\)](https://ja.wikipedia.org/wiki/Selen_\(\))から翻訳されています。
+> この記事は[Selen \(ゲームブランド\)](https://ja.wikipedia.org/wiki/Selen_\(ゲームブランド\))から翻訳されています。
 
 
 **Selen**（セレン）とは[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[月島](../Page/月島.md "wikilink")1丁目17番12号に本店を置く、有限会社アクセル（法人番号=4010002053058）\[1\]のかつて存在した[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。当時は調教系のゲームが多かったが、真・燐月以降現在では純愛系のゲームを主に制作していた。また初期2作品を除いて全作品、主題歌に[I've](../Page/I've.md "wikilink")を起用していた。2017年12月21日に活動終了告知が出され、公式webサイト閉鎖済。\[2\]

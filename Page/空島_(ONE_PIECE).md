@@ -1,4 +1,4 @@
-> この記事は[ \(ONE PIECE\)](https://ja.wikipedia.org/wiki/_\(ONE_PIECE\))から翻訳されています。
+> この記事は[空島 \(ONE PIECE\)](https://ja.wikipedia.org/wiki/空島_\(ONE_PIECE\))から翻訳されています。
 
 
 <div class="pathnavbox">

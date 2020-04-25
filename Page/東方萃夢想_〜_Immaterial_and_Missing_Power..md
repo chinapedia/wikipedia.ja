@@ -1,4 +1,4 @@
-> この記事は[  Immaterial and Missing Power.](https://ja.wikipedia.org/wiki/__Immaterial_and_Missing_Power.)から翻訳されています。
+> この記事は[東方萃夢想 〜 Immaterial and Missing Power.](https://ja.wikipedia.org/wiki/東方萃夢想_〜_Immaterial_and_Missing_Power.)から翻訳されています。
 
 
 『**東方萃夢想 〜 Immaterial and Missing Power.**』（とうほうすいむそう インマテリアル・アンド・ミッシング・パワー）とは、[同人サークル](../Page/同人サークル.md "wikilink")[黄昏フロンティア](../Page/黄昏フロンティア.md "wikilink")及び[上海アリス幻樂団](https://ja.wikipedia.org/wiki/上海アリス幻樂団 "wikilink")製作の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。

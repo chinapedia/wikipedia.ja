@@ -1,4 +1,4 @@
-> この記事は[GUNDAM](https://ja.wikipedia.org/wiki/GUNDAM)から翻訳されています。
+> この記事は[GUNDAM―来たるべき未来のために―](https://ja.wikipedia.org/wiki/GUNDAM―来たるべき未来のために―)から翻訳されています。
 
 
 **GUNDAM―来たるべき未来のために―**は、[2005年](../Page/2005年.md "wikilink")7月から各地で巡回開催された[美術展](../Page/展覧会.md "wikilink")。通称、**ガンダム展**。

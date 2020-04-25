@@ -1,4 +1,4 @@
-> この記事は[Tokyo Rose \(\)](https://ja.wikipedia.org/wiki/Tokyo_Rose_\(\))から翻訳されています。
+> この記事は[Tokyo Rose \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/Tokyo_Rose_\(中森明菜の曲\))から翻訳されています。
 
 
 「**Tokyo Rose**」（トーキョー・ローズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が[AKINA名義で発表した楽曲](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")。この楽曲は彼女の32枚目の[シングル](../Page/シングル.md "wikilink")として、1995年11月1日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): MVDD-10017)。

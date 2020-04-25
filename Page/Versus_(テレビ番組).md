@@ -1,4 +1,4 @@
-> この記事は[Versus \(\)](https://ja.wikipedia.org/wiki/Versus_\(\))から翻訳されています。
+> この記事は[Versus \(テレビ番組\)](https://ja.wikipedia.org/wiki/Versus_\(テレビ番組\))から翻訳されています。
 
 
 『**Versus**』（バーサス）は[FIGHTING TV サムライ制作のテレビ番組](../Page/FIGHTING_TV_サムライ.md "wikilink")。
@@ -62,7 +62,7 @@
 <td><p><strong>前田日明</strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a></strong></p></td>
-<td><p><small>新日本に反旗、Uインターの結成。</small></p></td>
+<td><p><small>新日本に反旗、U.W.F.の結成。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>07</p></td>

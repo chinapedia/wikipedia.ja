@@ -1,4 +1,4 @@
-> この記事は[MelodySOUNDS REAL](https://ja.wikipedia.org/wiki/MelodySOUNDS_REAL)から翻訳されています。
+> この記事は[Melody〜SOUNDS REAL〜](https://ja.wikipedia.org/wiki/Melody〜SOUNDS_REAL〜)から翻訳されています。
 
 
 「**melody〜SOUNDS REAL〜**」（メロディ サウンズ・リアル）は、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から発売された。

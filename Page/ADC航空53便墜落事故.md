@@ -1,4 +1,4 @@
-> この記事は[ADC53](https://ja.wikipedia.org/wiki/ADC53)から翻訳されています。
+> この記事は[ADC航空53便墜落事故](https://ja.wikipedia.org/wiki/ADC航空53便墜落事故)から翻訳されています。
 
 
 **ADC航空53便墜落事故**は、[2006年](../Page/2006年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")正午ごろ、[ナイジェリア](../Page/ナイジェリア.md "wikilink")の首都[アブジャ](../Page/アブジャ.md "wikilink")郊外の[ンナムディ・アジキウェ国際空港](https://ja.wikipedia.org/wiki/ンナムディ・アジキウェ国際空港 "wikilink")から同国北部の都市[ソコト](https://ja.wikipedia.org/wiki/ソコト "wikilink")に向う予定の[ADC航空](https://ja.wikipedia.org/wiki/ADC航空 "wikilink")53便（[ボーイング737](../Page/ボーイング737.md "wikilink")-200、[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink")5N-BFK）が離陸直後に墜落し、炎上した事故である。

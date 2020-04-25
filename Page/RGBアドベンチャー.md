@@ -1,4 +1,4 @@
-> この記事は[RGB](https://ja.wikipedia.org/wiki/RGB)から翻訳されています。
+> この記事は[RGBアドベンチャー](https://ja.wikipedia.org/wiki/RGBアドベンチャー)から翻訳されています。
 
 
 『**RGBアドベンチャー**』（アールジービーアドベンチャー：RGB ADVENTURE）は、[2006年](../Page/2006年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")まで[BS-iで毎週日曜](../Page/BS-TBS.md "wikilink")9時30分-10時00分に放送されたアニメ作品。作品の制作会社は[ACCプロダクション](../Page/ACCプロダクション.md "wikilink")。半年の放送が予定されたが、「制作会社の都合により放送継続が不可能になったため」との理由により、事実上の放送[打ち切り](../Page/打ち切り.md "wikilink")となった。

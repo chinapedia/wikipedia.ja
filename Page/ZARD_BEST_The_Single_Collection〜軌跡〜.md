@@ -1,4 +1,4 @@
-> この記事は[ZARD BEST The Single Collection](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection)から翻訳されています。
+> この記事は[ZARD BEST The Single Collection〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection〜軌跡〜)から翻訳されています。
 
 
 『**ZARD BEST The Single Collection 〜軌跡〜**』（ザード・ベスト・ザ・シングル・コレクション・きせき）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。CDコードはJBCJ-1023。
@@ -10,7 +10,7 @@
   - ZARDはこの後に発売されたベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』や同年2月発表のオリジナルアルバム『[永遠](https://ja.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』と合わせて550万枚を超えるセールスを記録し、1999年度のアーティスト年間総合売り上げ3位となった。また、この3作は全て「[ロック・アルバム・オブ・ザ・イヤー](../Page/日本ゴールドディスク大賞.md "wikilink")」を受賞している。
   - 当時放送されていた『[NO.](../Page/NO..md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）では、発売日の30日前から、ZARDのビデオクリップが放送される日に、画面左上に「発表まであと○○日\!」と表示するカウントダウンを行い、発売2日前の放送日まで行われた。
   - ちなみに、本作が発売される週には[avexから](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のベストアルバム『[ID](https://ja.wikipedia.org/wiki/ID_\(相川七瀬のアルバム\) "wikilink")』が1999年5月26日に発売される予定であったが、相川の連続1位記録更新の為に発売を1週間早めている（1999年5月19日発売）。また自身の『ZARD BEST 〜Request Memorial〜』は当初の発売予定（1999年9月24日）週にavexが[globe](https://ja.wikipedia.org/wiki/globe "wikilink")のベストアルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』（1999年9月22日発売）をぶつけてきた為、ZARDの連続1位記録更新の為に発売日を1週間早めるという事態となった。
-  - 14thシングル「Just believe in love」がZARDのベストアルバムに収録されているのは、この作品だけである。
+  - 14thシングル「[Just believe in love](../Page/Just_believe_in_love.md "wikilink")」がZARDのベストアルバムに収録されているのは、この作品だけである。
 
 ## 収録曲
 

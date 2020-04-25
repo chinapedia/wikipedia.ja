@@ -1,4 +1,4 @@
-> この記事は[16IBAF](https://ja.wikipedia.org/wiki/16IBAF)から翻訳されています。
+> この記事は[第16回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表)から翻訳されています。
 
 
 **第16回IBAFインターコンチネンタルカップ日本代表**（だい16かいIBAFインターコンチネンタルカップにっぽんだいひょう）は、11月に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[台中市](https://ja.wikipedia.org/wiki/台中市 "wikilink")で行われた[第16回IBAFインターコンチネンタルカップ](../Page/第16回IBAFインターコンチネンタルカップ.md "wikilink")に出場するために編成された日本選手団である。

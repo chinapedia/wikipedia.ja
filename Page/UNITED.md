@@ -780,11 +780,11 @@ BITE YOURSELF</p></td>
 
 ## ミュージックビデオ
 
-|        |                                                                                                                                                                                     |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督** | **曲名**                                                                                                                                                                              |
-| 不明     | 「HATE YOURSELF,HATE YOUR OWN KIND」「[KILL YOUR SENSE](http://www.indiesmusic.com/musicvideo/video.asp?id=10122)」「Cross Over The Line」「FLASH BACK」「REVENGER」「UNTIED」「FIGHT FEAR KILL」 |
-|        |                                                                                                                                                                                     |
+|        |                                                                                                                                                                                      |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **監督** | **曲名**                                                                                                                                                                               |
+| 不明     | 「HATE YOURSELF,HATE YOUR OWN KIND」「[KILL YOUR SENSE](https://www.indiesmusic.com/musicvideo/video.asp?id=10122)」「Cross Over The Line」「FLASH BACK」「REVENGER」「UNTIED」「FIGHT FEAR KILL」 |
+|        |                                                                                                                                                                                      |
 
 ## 主なライブ
 

@@ -98,7 +98,7 @@ AFRINICの本部は[モーリシャス](../Page/モーリシャス.md "wikilink"
 </tbody>
 </table>
 
-AFRINIC設立前は[コンゴ共和国](https://ja.wikipedia.org/wiki/コンゴ共和国 "wikilink")・[コンゴ民主共和国](../Page/コンゴ民主共和国.md "wikilink")・[ルワンダ](../Page/ルワンダ.md "wikilink")・[ブルンジ](../Page/ブルンジ.md "wikilink")・[タンザニア](../Page/タンザニア.md "wikilink")以南は[ARIN](../Page/ARIN.md "wikilink")、以北は[RIPE NCC](../Page/RIPE_NCC.md "wikilink")、インド洋諸国は[APNICの管轄下にあった](../Page/Asia-Pacific_Network_Information_Centre.md "wikilink")。
+AFRINIC設立前は[コンゴ共和国](../Page/コンゴ共和国.md "wikilink")・[コンゴ民主共和国](../Page/コンゴ民主共和国.md "wikilink")・[ルワンダ](../Page/ルワンダ.md "wikilink")・[ブルンジ](../Page/ブルンジ.md "wikilink")・[タンザニア](../Page/タンザニア.md "wikilink")以南は[ARIN](../Page/ARIN.md "wikilink")、以北は[RIPE NCC](../Page/RIPE_NCC.md "wikilink")、インド洋諸国は[APNICの管轄下にあった](../Page/Asia-Pacific_Network_Information_Centre.md "wikilink")。
 
 ## 関連項目
 

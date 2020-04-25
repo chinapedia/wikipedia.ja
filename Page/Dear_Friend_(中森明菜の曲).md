@@ -1,4 +1,4 @@
-> この記事は[Dear Friend \(\)](https://ja.wikipedia.org/wiki/Dear_Friend_\(\))から翻訳されています。
+> この記事は[Dear Friend \(中森明菜の曲\)](https://ja.wikipedia.org/wiki/Dear_Friend_\(中森明菜の曲\))から翻訳されています。
 
 
 「**Dear Friend**」（ディア・フレンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の24枚目の[シングル](../Page/シングル.md "wikilink")として、1990年7月17日に[ワーナー・パイオニアよりリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): WPDL-4173, [CT](../Page/コンパクトカセット.md "wikilink"): WPSL-4173)。

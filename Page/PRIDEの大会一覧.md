@@ -1,4 +1,4 @@
-> この記事は[PRIDE](https://ja.wikipedia.org/wiki/PRIDE)から翻訳されています。
+> この記事は[PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧)から翻訳されています。
 
 
 **PRIDEの大会一覧**（プライドのたいかいいちらん）では、[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一覧についてここで説明する。以下、大会の名称とその概要を記述する。

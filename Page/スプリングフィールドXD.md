@@ -1,4 +1,4 @@
-> この記事は[XD](https://ja.wikipedia.org/wiki/XD)から翻訳されています。
+> この記事は[スプリングフィールドXD](https://ja.wikipedia.org/wiki/スプリングフィールドXD)から翻訳されています。
 
 
 **スプリングフィールドXD**（Springfield XD, XDは**X**-treme**D**utyの略）は、[クロアチア](../Page/クロアチア.md "wikilink")で設計・製造され、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スプリングフィールド・アーモリー](../Page/スプリングフィールド・アーモリー.md "wikilink")社が販売している[半自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。

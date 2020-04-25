@@ -1,4 +1,4 @@
-> この記事は[D!](https://ja.wikipedia.org/wiki/D!)から翻訳されています。
+> この記事は[D!アンビシャス](https://ja.wikipedia.org/wiki/D!アンビシャス)から翻訳されています。
 
 
 **D\!アンビシャス 〜熱きどさんこ魂〜**（ディー・アンビシャス あつきどさんこたましい）は、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink") (STV)で放送されていたローカル番組。
@@ -31,7 +31,7 @@
   - [横井健一](https://ja.wikipedia.org/wiki/横井健一 "wikilink")
   - [近藤麻智子](../Page/近藤麻智子.md "wikilink")
   - [内山佳子](../Page/内山佳子.md "wikilink")
-  - [工藤準基](https://ja.wikipedia.org/wiki/工藤準基 "wikilink")
+  - [工藤準基](../Page/工藤準基.md "wikilink")
   - [和久井薫](../Page/和久井薫.md "wikilink")
   - [とついようこ](https://ja.wikipedia.org/wiki/とついようこ "wikilink")（[ローカルタレント](../Page/ローカルタレント.md "wikilink")）
 

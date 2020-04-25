@@ -1,7 +1,7 @@
 > この記事は[Cyber TRANCE presents ayu trance](https://ja.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance)から翻訳されています。
 
 
-『**Cyber TRANCE presents ayu trance**』（サイバー・トランス・プレゼンツ・アユ・トランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Cyber TRANCE presents ayu trance**』（サイバー・トランス・プレゼンツ・アユ・トランス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

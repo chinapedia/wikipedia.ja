@@ -36,7 +36,7 @@
 
 ### その他の主な出演者
 
-  - [浜田春菜](https://ja.wikipedia.org/wiki/HΛLNA "wikilink")
+  - [浜田春菜](../Page/HΛLNA.md "wikilink")
   - 岩本麻美
   - 清水麻衣子
   - 清藤奈緒美

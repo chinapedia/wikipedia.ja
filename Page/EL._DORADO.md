@@ -28,7 +28,7 @@
 
 ### 地獄より愛をこめて
 
-大教典『[地獄より愛をこめて](../Page/地獄より愛をこめて.md "wikilink")』収録時が世に出た最初のバージョン。[キーは](https://ja.wikipedia.org/wiki/調 "wikilink")[Em](https://ja.wikipedia.org/wiki/ホ短調 "wikilink")。[ギター](../Page/ギター.md "wikilink")[ソロは](../Page/ソロ_\(音楽\).md "wikilink")[エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink")。
+大教典『[地獄より愛をこめて](../Page/地獄より愛をこめて.md "wikilink")』収録時が世に出た最初のバージョン。[キーは](../Page/調.md "wikilink")[Em](https://ja.wikipedia.org/wiki/ホ短調 "wikilink")。[ギター](../Page/ギター.md "wikilink")[ソロは](../Page/ソロ_\(音楽\).md "wikilink")[エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink")。
 
   - [RAIDEN YUZAWA](../Page/雷電湯澤.md "wikilink") - [Drums](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
   - [XENON ISHIKAWA](../Page/石川俊介.md "wikilink") - [Bass Guitar](../Page/エレクトリックベース.md "wikilink")

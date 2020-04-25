@@ -9,6 +9,7 @@
   - The [Template Numerical Toolkitのこと](https://ja.wikipedia.org/wiki/Template_Numerical_Toolkit "wikilink")。
   - [プエルトリコ](../Page/プエルトリコ.md "wikilink")出身の[プロレスラー](../Page/プロレスラー.md "wikilink")、[サビオ・ベガ](https://ja.wikipedia.org/wiki/サビオ・ベガ "wikilink")の旧リングネーム。
   - ブラジルの飲料メーカー、セルベジャリア・ペトロポリスが販売する[エナジードリンク](https://ja.wikipedia.org/wiki/エナジードリンク "wikilink")。
+  - 心筋トロポニンT(TnT) の略号。心筋の筋原線維を構成する蛋白の一部で、心筋損傷の指標。異常高値は、急性心筋梗塞、心筋炎、狭心症を示唆。
   - **企業**
       - [ターナー・ネットワーク・テレビジョン](../Page/ターナー・ネットワーク・テレビジョン.md "wikilink")(Turner Network Television) - アメリカの衛星テレビおよび[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")向け放送局
       - [TNTエクスプレス](https://ja.wikipedia.org/wiki/TNTエクスプレス "wikilink") - 世界200カ国以上にネットワークを有する国際総合輸送会社。

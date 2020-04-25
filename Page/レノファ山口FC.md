@@ -26,7 +26,7 @@
 [2006年](../Page/2006年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")、山口県サッカー協会が山口教員団を母体とする、山口県からJリーグ参入を目指すクラブの創設を発表\[12\]。2011年の[第66回国民体育大会](../Page/第66回国民体育大会.md "wikilink")（おいでませ\!山口国体）での優勝と、2015年からのJ1昇格を目標に掲げた。GM兼監督にはクラブOBの宮成隆が就任することになり、4月に[任意団体として](../Page/権利能力なき社団.md "wikilink")「**レノファ山口FC**」が発足した。
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-    [同年の中国リーグを無敗で制し](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\)#中国 "wikilink")、山口教員団時代を通じて初優勝\[13\]。[第32回地域決勝では](https://ja.wikipedia.org/wiki/第32回全国地域サッカーリーグ決勝大会 "wikilink")1次ラウンドグループCで[静岡FC](../Page/静岡FC.md "wikilink")・[グルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")・[松本山雅FC](../Page/松本山雅FC.md "wikilink")を下して決勝ラウンドへ進出するが、[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")・[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")・[ホンダロック相手に](../Page/ホンダロックSC.md "wikilink")1得点も挙げられず4位となり、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") (JFL) 昇格を逃す。
+    [同年の中国リーグを無敗で制し](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\)#中国 "wikilink")、山口教員団時代を通じて初優勝\[13\]。[第32回地域決勝では](https://ja.wikipedia.org/wiki/第32回全国地域サッカーリーグ決勝大会 "wikilink")1次ラウンドグループCで[静岡FC](../Page/静岡FC.md "wikilink")・[グルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")・[松本山雅FC](../Page/松本山雅FC.md "wikilink")を下して決勝ラウンドへ進出するが、[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")・[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")・[ホンダロック相手に](../Page/ホンダロックSC.md "wikilink")1得点も挙げられず4位となり、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink") (JFL) 昇格を逃す。
 
 <!-- end list -->
 
@@ -281,7 +281,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
 ## スタジアム・練習場
 
-ホームスタジアムは[維新みらいふスタジアム](https://ja.wikipedia.org/wiki/維新百年記念公園陸上競技場 "wikilink")（[山口市](../Page/山口市.md "wikilink")）で\[52\]、[下関市営下関陸上競技場](https://ja.wikipedia.org/wiki/下関市営下関陸上競技場 "wikilink")（[下関市](../Page/下関市.md "wikilink")）でもホームゲームを行う。2020年明治安田生命J2リーグでは、維新みらいふスタジアム（山口市）で20試合、下関陸上競技場で1試合開催される予定。2013年シーズンは[維新百年記念公園ラグビー・サッカー場](https://ja.wikipedia.org/wiki/維新百年記念公園#ラグビー・サッカー場 "wikilink")（収容人員3,850人）を、2012年までは [やまぐちサッカー交流広場](https://ja.wikipedia.org/wiki/やまぐちサッカー交流広場 "wikilink")（山口市[徳地](../Page/徳地町.md "wikilink")）や [山口県立おのだサッカー交流公園](https://ja.wikipedia.org/wiki/山口県立おのだサッカー交流公園 "wikilink")（[山陽小野田市](../Page/山陽小野田市.md "wikilink")）等も使用していた。
+ホームスタジアムは[維新みらいふスタジアム](https://ja.wikipedia.org/wiki/維新百年記念公園陸上競技場 "wikilink")（[山口市](../Page/山口市.md "wikilink")）で\[52\]、[セービング陸上競技場](https://ja.wikipedia.org/wiki/下関市営下関陸上競技場 "wikilink")（[下関市](../Page/下関市.md "wikilink")）でもホームゲームを行う。2013年シーズンは[維新百年記念公園ラグビー・サッカー場](https://ja.wikipedia.org/wiki/維新百年記念公園#ラグビー・サッカー場 "wikilink")（収容人員3,850人）を、2012年までは [やまぐちサッカー交流広場](https://ja.wikipedia.org/wiki/やまぐちサッカー交流広場 "wikilink")（山口市[徳地](../Page/徳地町.md "wikilink")）や [山口県立おのだサッカー交流公園](https://ja.wikipedia.org/wiki/山口県立おのだサッカー交流公園 "wikilink")（[山陽小野田市](../Page/山陽小野田市.md "wikilink")）等も使用していた。
 
 練習場は山口県立おのだサッカー交流公園\[53\]、[山口きらら博記念公園](https://ja.wikipedia.org/wiki/山口きらら博記念公園 "wikilink")（山口市[阿知須](../Page/阿知須町.md "wikilink")）\[54\] であり、下部組織はやまぐちサッカー交流広場や [アディダスフットサルパーク山口](http://www.adidas-futsalpark.jp/)（山口市下小鯖）も使用する。Jリーグ参入後は、天然芝グラウンドのあるおのだサッカー交流公園、山口きらら博記念公園、維新百年記念公園ラグビー・サッカー場、同補助競技場、[山口県セミナーパーク](../Page/山口県セミナーパーク.md "wikilink")（山口市）を使用する機会が増えている。
 
@@ -568,7 +568,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
 :\* [みんなのレノファ](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび#みんなのレノファ "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")『[土曜の目覚めはどき生てれび](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび "wikilink")』内・毎週土曜 7:25頃 -\[63\]、および同局『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』内・毎週月曜 18:30頃 - ）
 
-:\* 週刊\! レノファTV（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[64\]
+:\* 週刊\! レノファTV（[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[64\]
 
 :\* レノファスクエア（[テレビ山口](../Page/テレビ山口.md "wikilink") 毎週土曜 2:12 - ） - 2016年春まで県内のケーブルテレビで放送。[スタジアムMCの](../Page/スタジアムDJ.md "wikilink")[吉永達哉](https://ja.wikipedia.org/wiki/吉永達哉 "wikilink")が出演と制作をすべて一人で行っている\[65\]。
 

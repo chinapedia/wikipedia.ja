@@ -34,7 +34,7 @@
   - [2007年](../Page/2007年.md "wikilink")-東北社会人リーグ2部北リーグ優勝。
       - 2部優勝決定戦で[ビアンコーネ福島](../Page/ビアンコーネ福島.md "wikilink")に勝利し、1部自動昇格を決めた。
   - [2009年](../Page/2009年.md "wikilink")
-      - 2月28日、スポーツ振興による地域活性化を狙い、2012年までの[JFL昇格](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")、2016年の[J2参入を目指すことを表明](../Page/日本プロサッカーリーグ.md "wikilink")。
+      - 2月28日、スポーツ振興による地域活性化を狙い、2012年までの[JFL昇格](../Page/日本フットボールリーグ.md "wikilink")、2016年の[J2参入を目指すことを表明](../Page/日本プロサッカーリーグ.md "wikilink")。
       - 10月7日 同シーズン限りで廃部となる[TDKサッカー部](https://ja.wikipedia.org/wiki/TDKサッカー部 "wikilink")を母体として設立される[ブラウブリッツ秋田](../Page/ブラウブリッツ秋田.md "wikilink")と「独立２クラブ間強化策」構想を発表\[1\]。
       - 10月30日、[NPO](../Page/NPO.md "wikilink")法人あきたスポーツネットワーク（アスネット）が[秋田県](../Page/秋田県.md "wikilink")より認証を受ける。
       - 12月25日、[アンソメット岩手・八幡平](https://ja.wikipedia.org/wiki/アンソメット岩手・八幡平 "wikilink")と提携を結ぶ。

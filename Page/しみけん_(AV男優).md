@@ -12,15 +12,19 @@
   - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[読書](../Page/読書.md "wikilink")、トレーニング、ドライブ、映画、[旅行](../Page/旅行.md "wikilink")、食事\[8\]。特技は[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")\[9\]。
   - 離婚歴があり、その女性との間に二人の子供がいる\[10\]。現在の[内縁](../Page/内縁.md "wikilink")（[事実婚](../Page/事実婚.md "wikilink")）の妻は[はあちゅう](https://ja.wikipedia.org/wiki/伊藤春香_\(編集者\) "wikilink")\[11\]。
 
+<!-- end list -->
+
+  - AV男優ってどんな仕事？ カリスマ男優しみけんに一日密着してみた\[12\]。
+
 ## 来歴
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](../Page/昭和学院秀英中学校・高等学校.md "wikilink")。一浪のち法政大学に入学したが、一度も大学に通うことなく中退。
-  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")『[Badi](../Page/Badi.md "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[12\]。
-  - [2005年](../Page/2005年.md "wikilink")、「東京オープン[ボディビル](../Page/ボディビル.md "wikilink")選手権大会」の60kg級で6位となる\[13\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[14\]。
-  - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[15\]。
-  - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[16\]。
-  - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[17\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[18\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[19\]。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](../Page/昭和学院秀英中学校・高等学校.md "wikilink")。一浪のち[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")に入学したが、一度も大学に通うことなく中退。
+  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")『[Badi](../Page/Badi.md "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[13\]。
+  - [2005年](../Page/2005年.md "wikilink")、「東京オープン[ボディビル](../Page/ボディビル.md "wikilink")選手権大会」の60kg級で6位となる\[14\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[15\]。
+  - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[16\]。
+  - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[17\]。
+  - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[18\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[19\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[20\]。
 
 ## 出演
 
@@ -252,7 +256,7 @@
       - ♯140　おっぱいコレクション 2015 秋（2015年9月28日放送）
       - ♯146　トップAV男優・しみけんの正体に迫る！ （2015年11月16日放送）
       - ♯150　第5回 地下クイズ王決定戦\!\! （2015年12月28日放送）
-  - [マグマイザー](https://ja.wikipedia.org/wiki/マグマイザー "wikilink")（BSスカパー\!、2017年3月10日– ） - しみけん 役\[20\]
+  - [マグマイザー](https://ja.wikipedia.org/wiki/マグマイザー "wikilink")（BSスカパー\!、2017年3月10日– ） - しみけん 役\[21\]
   - [ダラケ\! 〜お金を払ってでも見たいクイズ〜](https://ja.wikipedia.org/wiki/ダラケ!_〜お金を払ってでも見たいクイズ〜 "wikilink")（BSスカパー\!）
       - ♯S01E04 「AV男優」ダラケ(2014年10月30日放送)
       - ♯S05E02 「ラブホテルプロデューサー」ダラケ(2015年10月22日)
@@ -273,11 +277,11 @@
 
 <!-- end list -->
 
-  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")のアゲたい盛り（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2006年）\[21\]
+  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")のアゲたい盛り（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2006年）\[22\]
   - しみちるの「脳ミソつるつる野郎」（[TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")）
       - ＃0（2013年3月10日放送）
       - ＃1（2013年3月20日放送）
-  - [スピードワゴンの月曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2019年11月12日\[22\]、AbemaTV）
+  - [スピードワゴンの月曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2019年11月12日\[23\]、AbemaTV）
 
 ### オリジナルビデオ
 
@@ -414,6 +418,9 @@
   -
   -
   -
+  -
+  -
+  -
   - [しみけんの脳ミソつるつる野郎](https://web.archive.org/web/20150506100144/http://noutsuru.jp/)
 
   - [セックスの向こう側～AV男優という生き方](http://www.maxam.jp/sex/)
@@ -431,14 +438,15 @@
 9.  [【SILK LABO】しみけんさんの特技??【SILK-010】](http://www.youtube.com/watch?v=6q-myQ4gVYU)YouTube 動画 1分00秒〜
 10.
 11.
-12. 「AV男優」という職業 セックス・サイボーグたちの真実 p.127〜p.131
-13. [ボディビル大会アーカイブ](http://leanbody.jp/contents/competition/2005meeting/681/) 2005年東京オープンボディビル選手権大会 男子60kg級
-14. [AVグランプリ2008結果発表](http://www.dmm.co.jp/avgp/result/result2008.html) オムニバス部門
-15. [GWニュース](http://nikusyoku.jp/) しみけんが告白。僕がAV男優になった理由！？
-16. [スカパー\!アダルト放送大賞2015受賞者](https://adult-awards.com/archives/2015/) 男優賞
-17.
+12.
+13. 「AV男優」という職業 セックス・サイボーグたちの真実 p.127〜p.131
+14. [ボディビル大会アーカイブ](http://leanbody.jp/contents/competition/2005meeting/681/) 2005年東京オープンボディビル選手権大会 男子60kg級
+15. [AVグランプリ2008結果発表](http://www.dmm.co.jp/avgp/result/result2008.html) オムニバス部門
+16. [GWニュース](http://nikusyoku.jp/) しみけんが告白。僕がAV男優になった理由！？
+17. [スカパー\!アダルト放送大賞2015受賞者](https://adult-awards.com/archives/2015/) 男優賞
 18.
 19.
 20.
-21. [Show Time](http://www.showtime.jp/special/idol/agetai/) はなわのアゲたい盛り♯6〜♯9
-22.
+21.
+22. [Show Time](http://www.showtime.jp/special/idol/agetai/) はなわのアゲたい盛り♯6〜♯9
+23.

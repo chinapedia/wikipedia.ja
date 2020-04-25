@@ -9,27 +9,26 @@
 
 ## 所属歌手・タレント
 
-### 歌手
+### 歌手・グループ
 
-  - [パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")（1992年 - ）
-  - [ユビン](https://ja.wikipedia.org/wiki/ユビン "wikilink")（2007年 - 2020年）※元Wonder Girls
-  - [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")（2008年 - ）
-  - [ワン・フェイフェイ](https://ja.wikipedia.org/wiki/ワン・フェイフェイ "wikilink")（2010年 - ）※元miss A
-  - JJPROJECT(2012年-)
-  - [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")（2014年 - ）
-  - ナクジュン（2014年 - ）
-  - [DAY6](https://ja.wikipedia.org/wiki/DAY6 "wikilink")（2015年 - ）
-  - [TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")（2015年 - ）
-  - [Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")（2018年 - ）
-  - [ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")（2019年 - ）
+  - [パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")（1992年〜）
+  - [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")（2008年〜）
+  - [フェイ](https://ja.wikipedia.org/wiki/ワン・フェイフェイ "wikilink")（2010年〜）※元[miss A](https://ja.wikipedia.org/wiki/miss_A "wikilink")
+  - [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")（2014年〜）
+  - ナクジュン (Bernard Park)（2014年〜）
+  - [DAY6](https://ja.wikipedia.org/wiki/DAY6 "wikilink")（2015年〜）
+  - [TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")（2015年〜）
+  - Lily M（2015年〜）
+  - [Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")（2018年〜）
+  - [ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")（2019年〜）
 
 ### 俳優・女優
 
-  - ユン・パク（2006年 - ）
-  - カン・フン（2009年 - ）
-  - シン・ウンス（2016年 - ）
-  - シン・イェウン（2018年 - ）
-  - キム・ドンヒ（2018年 - ）
+  - ユン・パク（2006年〜）
+  - カン・フン（2009年〜）
+  - シン・ウンス（2016年〜）
+  - シン・イェウン（2018年〜）
+  - キム・ドンヒ（2018年〜）
 
 ## 過去に所属していた歌手・タレント
 
@@ -58,12 +57,13 @@
   - IVY
   - ハンナ
   - [Wonder Girls](https://ja.wikipedia.org/wiki/Wonder_Girls "wikilink")
-      - [キム・ヒョナ](https://ja.wikipedia.org/wiki/キム・ヒョナ "wikilink")
-      - ソネ
-      - イェウン
+      - [ユビン](https://ja.wikipedia.org/wiki/ユビン "wikilink")
+      - [イェウン](https://ja.wikipedia.org/wiki/パク・イェウン "wikilink")
       - [ソンミ](https://ja.wikipedia.org/wiki/ソンミ_\(歌手\) "wikilink")
-      - アン・ソヒ
-      - へリム
+      - ヘリム
+      - [キム・ヒョナ](https://ja.wikipedia.org/wiki/キム・ヒョナ "wikilink") ※元メンバー
+      - ソネ ※元メンバー
+      - アン・ソヒ ※元メンバー
   - [ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")
   - San E
   - [パク・ジェボム](https://ja.wikipedia.org/wiki/パク・ジェボム "wikilink")　※元[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")
@@ -72,17 +72,17 @@
       - イム・スロン
       - イ・チャンミン
       - チョ・グォン
+  - [オク・テギョン](https://ja.wikipedia.org/wiki/テギョン "wikilink")（現在も[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")）
   - [miss A](https://ja.wikipedia.org/wiki/miss_A "wikilink")
       - [ミン](https://ja.wikipedia.org/wiki/ミン_\(歌手\) "wikilink")
       - [モン・ジア](https://ja.wikipedia.org/wiki/モン・ジア "wikilink")
       - [ペ・スジ](https://ja.wikipedia.org/wiki/ペ・スジ "wikilink")
-  - [G.Soul](https://ja.wikipedia.org/wiki/G.Soul "wikilink")
-  - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")
-  - 15＆
-      - パク・ジミン
-      - ペク・イェリン
   - [ペク・アヨン](https://ja.wikipedia.org/wiki/ペク・アヨン "wikilink")
-  - [オク・テギョン](https://ja.wikipedia.org/wiki/テギョン "wikilink")
+  - 15＆
+      - ペク・イェリン
+      - パク・ジミン
+  - [G.Soul](https://ja.wikipedia.org/wiki/G.Soul "wikilink") (現在はGolden)
+  - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")　※元[I.O.I](https://ja.wikipedia.org/wiki/I.O.I "wikilink")
   - ウジン　※元[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")
 
 ### 俳優・女優

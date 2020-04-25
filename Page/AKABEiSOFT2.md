@@ -176,7 +176,7 @@
   - 2017年[12月22日](../Page/12月22日.md "wikilink") - [なちゅらるばけーしょん](https://ja.wikipedia.org/wiki/なちゅらるばけーしょん "wikilink")
   - 2018年[4月27日](../Page/4月27日.md "wikilink") - 如月真綾の誘惑
   - 2019年[4月26日](../Page/4月26日.md "wikilink") - ALL×CATION
-  - 2020年7月 - [Re CATION ～Melty Healing～](https://ja.wikipedia.org/wiki/Re_CATION_～Melty_Healing～ "wikilink")\[9\]
+  - 2020年7月22日 - [Re CATION ～Melty Healing～](https://ja.wikipedia.org/wiki/Re_CATION_～Melty_Healing～ "wikilink")\[9\]
 
 <!-- end list -->
 

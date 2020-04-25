@@ -43,7 +43,7 @@
 
 ## 試合中継
 
-格闘技[専門チャンネル](../Page/専門チャンネル.md "wikilink")の[FIGHTING TV サムライで録画中継番組が放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")。開始当初のメジャー志向だった頃には、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日や](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[地上波](../Page/地上波.md "wikilink")でも東海ローカルの[名古屋テレビで大会の中継を行っていたことがある](../Page/名古屋テレビ放送.md "wikilink")。[PPVチャンネルの](../Page/ペイ・パー・ビュー.md "wikilink")[パーフェクト・チョイス](../Page/スカチャン.md "wikilink")（現：スカチャン）でも実施していた。
+格闘技[専門チャンネル](../Page/専門チャンネル.md "wikilink")の[FIGHTING TV サムライで録画中継番組が放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")。開始当初のメジャー志向だった頃には、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日や](../Page/ビーエス朝日.md "wikilink")、[地上波](../Page/地上波.md "wikilink")でも東海ローカルの[名古屋テレビで大会の中継を行っていたことがある](../Page/名古屋テレビ放送.md "wikilink")。[PPVチャンネルの](../Page/ペイ・パー・ビュー.md "wikilink")[パーフェクト・チョイス](../Page/スカチャン.md "wikilink")（現：スカチャン）でも実施していた。
 
 2007年12月22日、久しぶりの地上波として「DEEP PROTECT IMPACT in OSAKA」が大阪ローカルの[テレビ大阪](../Page/テレビ大阪.md "wikilink")で深夜に録画中継された。2008年12月の大会は大晦日に放送。
 

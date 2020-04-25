@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に広告業界向け月刊専門誌「[コマーシャルフォト](https://ja.wikipedia.org/wiki/コマーシャルフォト_\(雑誌\) "wikilink")」の別冊、一般向けとして創刊。CMの資料として抜群の価値を誇り、CM業界を目指す者にとっても教科書的な存在となっている。表紙は必ず[女性アイドルもしくは](https://ja.wikipedia.org/wiki/アイドル "wikilink")[女優などを起用している](../Page/俳優.md "wikilink")。紙面もアイドルや若手女優のCMを多く取り上げている。そのため、グラビアとしての価値もある。
+[1982年](../Page/1982年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に広告業界向け月刊専門誌「コマーシャルフォト」\[1\]の別冊、一般向けとして創刊。CMの資料として抜群の価値を誇り、CM業界を目指す者にとっても教科書的な存在となっている。表紙は必ず[女性アイドルもしくは](https://ja.wikipedia.org/wiki/アイドル "wikilink")[女優などを起用している](../Page/俳優.md "wikilink")。紙面もアイドルや若手女優のCMを多く取り上げている。そのため、グラビアとしての価値もある。
 
 内容としては、そのとき話題のCMや最新のCMを紹介し、そのCMの出演者やロケ地などの詳細が掲載されている。また、定期的に海外のCMや懐かしいCMなども取り上げている。この他、女性[CM出演者による連載や男性出演者の特集](../Page/CMタレント.md "wikilink")、読者の意見を踏まえたコーナーがあるなど、内容のバリエーションは多彩である。初期の号ではCM録画の方法やテレビ画面をカメラで撮影する方法などマニアック向けなものも掲載されていた。
 
@@ -1148,3 +1148,5 @@ CMタレント名鑑2006</p></td>
 [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink")
 
 [Category:日本の隔月刊誌](https://ja.wikipedia.org/wiki/Category:日本の隔月刊誌 "wikilink") [Category:業界雑誌](https://ja.wikipedia.org/wiki/Category:業界雑誌 "wikilink") [Category:玄光社](https://ja.wikipedia.org/wiki/Category:玄光社 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
+
+1.

@@ -1,7 +1,7 @@
 > この記事は[MY STORY Classical](https://ja.wikipedia.org/wiki/MY_STORY_Classical)から翻訳されています。
 
 
-『**MY STORY Classical**』（マイ・ストーリー・クラシカル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**MY STORY Classical**』（マイ・ストーリー・クラシカル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

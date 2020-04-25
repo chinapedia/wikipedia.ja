@@ -1,7 +1,7 @@
 > この記事は[Ayumi hamasaki RMX WORKS](https://ja.wikipedia.org/wiki/Ayumi_hamasaki_RMX_WORKS)から翻訳されています。
 
 
-『**ayumi hamasaki RMX WORKS**』（アユミ・ハマサキ・リミックス・ワークス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の一連の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総称。リミックス形態の異なる3タイトルが[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[avex traxより同時発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**ayumi hamasaki RMX WORKS**』（アユミ・ハマサキ・リミックス・ワークス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の一連の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総称。リミックス形態の異なる3タイトルが[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[avex traxより同時発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

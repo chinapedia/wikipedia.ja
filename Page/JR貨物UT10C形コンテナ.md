@@ -149,7 +149,7 @@
   - 8001, 8002
     菱成産業所有（現・[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")）、[関東電化工業](../Page/関東電化工業.md "wikilink")借受、[塩化ビニリデン](https://ja.wikipedia.org/wiki/塩化ビニリデン "wikilink")専用。最大総重量16.5t（規格外）。
   - 8003
-    [ニヤクコーポレーション](../Page/ニヤクコーポレーション.md "wikilink")所有（[帝人メトン](https://ja.wikipedia.org/wiki/帝人メトン "wikilink")借受）、[メトン](https://ja.wikipedia.org/wiki/メトン "wikilink")[液専用](../Page/液体.md "wikilink")。最大総重量14t（規格外）。[名古屋貨物ターミナル駅](../Page/名古屋貨物ターミナル駅.md "wikilink") - [大竹駅](https://ja.wikipedia.org/wiki/大竹駅 "wikilink")間専用。
+    [ニヤクコーポレーション](../Page/ニヤクコーポレーション.md "wikilink")所有（[帝人メトン](https://ja.wikipedia.org/wiki/帝人メトン "wikilink")借受）、[メトン](https://ja.wikipedia.org/wiki/メトン "wikilink")[液専用](../Page/液体.md "wikilink")。最大総重量14t（規格外）。[名古屋貨物ターミナル駅](../Page/名古屋貨物ターミナル駅.md "wikilink") - [大竹駅](../Page/大竹駅.md "wikilink")間専用。
   - 8004, 8005
     [三徳化学工業](https://ja.wikipedia.org/wiki/三徳化学工業 "wikilink")所有、[過酸化水素水](https://ja.wikipedia.org/wiki/過酸化水素水 "wikilink")専用。15.83t（規格外）。
 

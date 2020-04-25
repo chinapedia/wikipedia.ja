@@ -27,7 +27,7 @@
 ## 主な出身プロ野球選手
 
   - [白石静生](../Page/白石静生.md "wikilink")投手（ [広島](../Page/広島東洋カープ.md "wikilink")：ドラフト2位）
-  - [川畑勇一](../Page/川畑勇一.md "wikilink")捕手（ [ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：ドラフト4位）
+  - [川畑勇一](../Page/川畑勇一.md "wikilink")捕手（ [ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：ドラフト4位）引退後にトレーナーとして復帰
   - [中郷大樹](../Page/中郷大樹.md "wikilink")投手（ [ロッテ](../Page/千葉ロッテマリーンズ.md "wikilink")：大学生・社会人ドラフト6巡目）
   - [南川忠亮](https://ja.wikipedia.org/wiki/南川忠亮 "wikilink")投手（ [西武](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")：ドラフト5位）
 

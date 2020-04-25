@@ -51,6 +51,7 @@
   - [加藤貴大](https://ja.wikipedia.org/wiki/加藤貴大_\(野球\) "wikilink")（元：[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")） - 投手（2014年）→退団
   - 須田幸太（元：**JFE東日本**→横浜DeNAベイスターズ） - 投手（2019年～）
   - [山森雅文](../Page/山森雅文.md "wikilink")（元：[阪急ブレーブス、オリックス・ブレーブス、オリックス・ブルーウェーブ](../Page/オリックス・バファローズ.md "wikilink")） - コーチ（2019年～）
+  - [井上祐二](../Page/井上祐二.md "wikilink")（元：千葉ロッテマリーンズ、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")） - コーチ（2019年～）
 
 ## 関連項目
 

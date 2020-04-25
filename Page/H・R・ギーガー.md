@@ -23,7 +23,7 @@
 
 晩年の傾向としては、[エアブラシ](../Page/エアブラシ.md "wikilink")を使ったモノトーン調の一枚絵ではなく、[スケッチ](../Page/スケッチ.md "wikilink")や[随筆](../Page/随筆.md "wikilink")の小品が多くなった。自身の作品の[3次元](../Page/3次元.md "wikilink")化したスタチューや、[楽器](../Page/楽器.md "wikilink")、[家具](../Page/家具.md "wikilink")、[羽毛布団](https://ja.wikipedia.org/wiki/羽毛布団 "wikilink")などの芸術関連以外にも多くかかわっていた。
 
-<File:Gyger> muse 1.jpg|作風の一例 <File:Giger> muse 2.jpg|性器をモチーフにした作品 <File:HR> Giger-Chur-038.jpg|胸体作品 <File:Birth> Machine.jpg|造形作品 <File:HR> Giger Museum Bar Gruyeres 02.jpg|本拠地グリュイエールにある自身デザインのGiger Bar
+|作風の一例 |性器をモチーフにした作品 <File:HR> Giger-Chur-038.jpg|胸体作品 <File:Birth> Machine.jpg|造形作品 <File:HR> Giger Museum Bar Gruyeres 02.jpg|本拠地グリュイエールにある自身デザインのGiger Bar
 
 ## 映画
 
@@ -31,7 +31,7 @@
 
 映画のデザインでは他にも『[スピーシーズ 種の起源](../Page/スピーシーズ_種の起源.md "wikilink")』『[キラー・コンドーム](https://ja.wikipedia.org/wiki/キラー・コンドーム "wikilink")』『[帝都物語](../Page/帝都物語.md "wikilink")』などを手掛けている。
 
-<File:Sculpture> d'alien entree du musee.jpg|ギーガーミュージアムにあるエイリアンの像 <File:Alien> giger 131116.jpg|エイリアン幼体のラフ画
+<File:Sculpture> d'alien entree du musee.jpg|ギーガーミュージアムにあるエイリアンの像 |エイリアン幼体のラフ画
 
 ## 音楽
 
@@ -61,7 +61,7 @@
 
 日本のプロップレプリカ専業メーカー「ハリウッドコレクターズギャラリー」の依頼で、スケールダウンされた「GIGER'S ALIEN」、「GIGER'S BACKSCRATCHER(孫の手）」、また同じくスケールダウンされた「HAKONNEN FURNITURE」他が限定販売された。また同社の企画立案により、メディコムトイ社のベアブリックのデザインも手掛けている。
 
-<File:Giger> 3 131116.jpg|[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』に提供した作品 <File:Giger> gitarren.jpg|[星野楽器](../Page/星野楽器.md "wikilink")『[アイバニーズ](../Page/アイバニーズ.md "wikilink")』とのコラボ作品
+|[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』に提供した作品 <File:Giger> gitarren.jpg|[星野楽器](../Page/星野楽器.md "wikilink")『[アイバニーズ](../Page/アイバニーズ.md "wikilink")』とのコラボ作品
 
 ## 評価
 

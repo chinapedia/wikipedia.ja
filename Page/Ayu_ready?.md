@@ -1,11 +1,11 @@
 > この記事は[Ayu ready\?](https://ja.wikipedia.org/wiki/Ayu_ready\?)から翻訳されています。
 
 
-『**ayu ready?**』（アユレディ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[トーク番組](../Page/トーク番組.md "wikilink")・[音楽番組](../Page/音楽番組.md "wikilink")）である。全74回。フジテレビ系列局では[2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた。[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
+『**ayu ready?**』（アユレディ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[トーク番組](../Page/トーク番組.md "wikilink")・[音楽番組](../Page/音楽番組.md "wikilink")）である。全74回。フジテレビ系列局では[2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた。[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
 
 ## 概要
 
-[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")が司会を務める[深夜番組](../Page/深夜番組.md "wikilink")で、彼女が番組に訪れたゲストとトークをしたり、生バンドによるライブセッションを行ったりしていた。番組タイトルは、番組表上では『**ayu ready?**』とだけ表記されていたが、実際のタイトルロゴには『**REAL MUSIC REPUBLIC**』のサブタイトルが添えられていた。
+[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が司会を務める[深夜番組](../Page/深夜番組.md "wikilink")で、彼女が番組に訪れたゲストとトークをしたり、生バンドによるライブセッションを行ったりしていた。番組タイトルは、番組表上では『**ayu ready?**』とだけ表記されていたが、実際のタイトルロゴには『**REAL MUSIC REPUBLIC**』のサブタイトルが添えられていた。
 
 浜崎あゆみにとって初の冠番組・初の司会・初のレギュラーとなる番組であった。
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
 
 <!-- end list -->
 

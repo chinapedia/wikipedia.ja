@@ -9,7 +9,7 @@
 2.  [2006年](../Page/2006年.md "wikilink")2月発売 『**[CR新世紀エヴァンゲリオン・セカンドインパクト](../Page/CR新世紀エヴァンゲリオン・セカンドインパクト.md "wikilink")**』 - 本作の後継機。
 3.  [2007年](../Page/2007年.md "wikilink")2月発売 『**[CR新世紀エヴァンゲリオン 〜奇跡の価値は〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜奇跡の価値は〜 "wikilink")**』 - 「シリーズ最終章」というフレーズが使われた。
 4.  [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月発売 『**[CR新世紀エヴァンゲリオン 〜使徒、再び〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜使徒、再び〜 "wikilink")**』 - 2007年12月にTVCMで発売を予告。「CR機としてデビュー3年そして…」というフレーズが使われた。
-5.  [2009年](../Page/2009年.md "wikilink")4月発売 『**[CR新世紀エヴァンゲリオン 〜最後のシ者〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜最後のシ者〜 "wikilink")**』 - 2008年12月末にTVCMで開発を公表。[ヱヴァンゲリヲン新劇場版:序](../Page/ヱヴァンゲリヲン新劇場版:序.md "wikilink")の映像を導入。
+5.  [2009年](../Page/2009年.md "wikilink")4月発売 『**[CR新世紀エヴァンゲリオン 〜最後のシ者〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜最後のシ者〜 "wikilink")**』 - 2008年12月末にTVCMで開発を公表。[ヱヴァンゲリヲン新劇場版:序](../Page/ヱヴァンゲリヲン新劇場版:序.md "wikilink")の映像を導入。シリーズ唯一のミドルタイプ専用機
 6.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月発売 『**[CRヱヴァンゲリヲン 〜始まりの福音〜](https://ja.wikipedia.org/wiki/CRヱヴァンゲリヲン_〜始まりの福音〜 "wikilink")**』 - [ヱヴァンゲリヲン新劇場版](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")にほぼ完全移行。
 7.  [2012年](../Page/2012年.md "wikilink")1月発売 『**[CRヱヴァンゲリヲン7](https://ja.wikipedia.org/wiki/CRヱヴァンゲリヲン7 "wikilink")**』 - 新劇場版に完全移行。2作目以降で初めてサブタイトルを使用せず、7作目であることから「7」が付けられた。ランクアップボーナスを採用。
 8.  [2013年](../Page/2013年.md "wikilink")7月発売 『**[CRヱヴァンゲリヲン8](https://ja.wikipedia.org/wiki/CRヱヴァンゲリヲン8 "wikilink")**』 - シリーズ初のバトルスペック。特殊ステージの一つを除き、図柄が1ラインになっている。

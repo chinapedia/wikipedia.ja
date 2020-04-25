@@ -1,7 +1,7 @@
 > この記事は[Swing Saturday ねぎって行こう!](https://ja.wikipedia.org/wiki/Swing_Saturday_ねぎって行こう!)から翻訳されています。
 
 
-**Swing Saturday ねぎって行こう\!**（スウィングサタデー ねぎっていこう\!）は、[山口県](../Page/山口県.md "wikilink")の[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRYラジオ）で[1975年](../Page/1975年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")まで31年間に渡り放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組終了時は[土曜](../Page/土曜日.md "wikilink")16:00 - 16:55（[JST](../Page/日本標準時.md "wikilink")）の放送だった。
+**Swing Saturday ねぎって行こう\!**（スウィングサタデー ねぎっていこう\!）は、[山口県](../Page/山口県.md "wikilink")の[山口放送](../Page/山口放送.md "wikilink")（KRYラジオ）で[1975年](../Page/1975年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")まで31年間に渡り放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組終了時は[土曜](../Page/土曜日.md "wikilink")16:00 - 16:55（[JST](../Page/日本標準時.md "wikilink")）の放送だった。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞ラジオ娯楽部門の最優秀賞を受賞している。
 

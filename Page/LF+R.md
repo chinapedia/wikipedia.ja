@@ -81,6 +81,6 @@ LF+Rで採用していた[電子メール](../Page/電子メール.md "wikilink"
 
 1.  LF+R終了後も、オールナイトニッポン全体と夜帯の公式サイトとして、現在に至るまで運営中。
 2.  それらの局の大半は[文化放送](../Page/文化放送.md "wikilink")の『[LIPS PARTY 21.jp](../Page/LIPS_PARTY_21.jp.md "wikilink")』もSUPER枠とcom枠の間の隙間番組として同時にネットした。多くの地方局が現在でもこのような状態が続き、22時台〜23時台にかけてのLF枠→24時台のQR枠→当番組枠という流れの地方局が多くなる。
-3.  SUPER枠をネットしなかった[クロスネット局](../Page/クロスネット局.md "wikilink")（[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")など）もしくはSUPER枠を受け入れたNRN系単独局に対してのライバル局。[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")等は曜日や時期によって分けて両方をネットした。
+3.  SUPER枠をネットしなかった[クロスネット局](../Page/クロスネット局.md "wikilink")（[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")など）もしくはSUPER枠を受け入れたNRN系単独局に対してのライバル局。[信越放送](../Page/信越放送.md "wikilink")等は曜日や時期によって分けて両方をネットした。
 4.  [ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")はこの問題に特に言及し、旧1部最終回の際に「半年後には25時台に戻ってくる」というコメントをした。
 5.  ただしココリコのcomでは[藤井隆](../Page/藤井隆.md "wikilink")の箱番組が最後まで残った。

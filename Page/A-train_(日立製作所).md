@@ -22,7 +22,7 @@
     「ATI (**A**utonomous **T**rain **I**ntegration system)」を採用し、従来機能ごとに回路を設けていた構造をデジタル化しシリアル伝送とした。これにより、従来の回路に使用されていた100V信号線に比べて軽量化・省資材化が可能となった。また、乗務員室には編成のコンディションを各車ごと・各電動車ユニットごとに表示するモニタが配置され、乗務員の負担軽減を図っている。これに合わせて、制御方式は（[電車](../Page/電車.md "wikilink")の場合）通常[VVVFインバータ制御となる](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")。他、減速から停止まで一切物理ブレーキ（空気ブレーキ）を使用しない[全電気ブレーキの採用などを可能にしている](../Page/純電気ブレーキ.md "wikilink")。また、自動放送など乗務員補助の機能も付加されている。
     このATIは、日立製作所独自の[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")を採用しているが、規格化し複数の鉄道会社に仕様の細部のみを変更して納入するA-Train自体のコンセプトにより、幅広く普及させることでコストを軽減させている。
 
-## A-trainの採用例
+## A-trainの採用例（日本）
 
   - [JR](../Page/JR.md "wikilink")グループ
       - [北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）
@@ -62,19 +62,309 @@
           - [N3000形電車](https://ja.wikipedia.org/wiki/名古屋市交通局N3000形電車 "wikilink")\[12\]
       - [福岡市交通局](../Page/福岡市交通局.md "wikilink")
           - [3000系電車](../Page/福岡市交通局3000系電車.md "wikilink")
-  - 日本国外
-      - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
-          - [台湾鉄路管理局TEMU1000型電車](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")
-      - [大韓民国](../Page/大韓民国.md "wikilink")
-          - [韓国鉄道公社200000系幹線電気動車 (TEC)](https://ja.wikipedia.org/wiki/韓国鉄道公社200000系電車 "wikilink")\[13\]
-      - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
-          - [395形電車](../Page/イギリス鉄道395形電車.md "wikilink")（クラス395）
-          - [800形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")（クラス800）\[14\]
-          - [801形電車](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")（クラス801）\[15\]
-          - [802形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道802形 "wikilink")（クラス802）\[16\]
-          - [385形電車](https://ja.wikipedia.org/wiki/イギリス鉄道385形電車 "wikilink")（クラス385）
 
-ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Kyushu Railway - Series 885 - 01.JPG|JR九州885系 ファイル:Seibu30000 32103F+38105F hokushin.jpg|西武30000系 ファイル:Tobu Railway 50090 TJ-Liner.jpg|東武50090系 ファイル:Hankyu 9301 at Ibaraki-shi Station.JPG|阪急9300系 ファイル:Tokyo metro 10000 series toyoko line.JPG|東京メトロ10000系 ファイル:TRA TEMU1000 TED1007 Xizhi 20130807.jpg|台湾鉄路管理局TEMU1000型電車 ファイル:Unit 395008 at Ebbsfleet International.JPG|395形 ファイル:KORAIL TEC.jpg|韓国鉄道公社200000系電車
+ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Kyushu Railway - Series 885 - 01.JPG|JR九州885系 ファイル:Seibu30000 32103F+38105F hokushin.jpg|西武30000系 ファイル:Tobu 51091f Mizuhodai 20190815.jpg|東武50090系 ファイル:Hankyu 9301 at Ibaraki-shi Station.JPG|阪急9300系 ファイル:Tokyo metro 10000 series toyoko line.JPG|東京メトロ10000系
+
+## A-trainの採用例（日本国外）
+
+A-trainの日本国外向け製品には種類によって4種類のシリーズが設けられている\[13\]\[14\]。
+
+  - AT100 = メトロ・通勤車両
+  - AT200 = 近郊車両
+  - AT300 = 高速車両
+  - AT400 = 超高速車両
+
+また、[モノレール](../Page/モノレール.md "wikilink")に関してもA-trainから派生した車両が製造されており、[重慶軌道交通](../Page/重慶軌道交通.md "wikilink")（[中国](../Page/中国.md "wikilink")・[重慶市](https://ja.wikipedia.org/wiki/重慶市 "wikilink")）と[セントーサ・エクスプレス](https://ja.wikipedia.org/wiki/セントーサ・エクスプレス "wikilink")（[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")）で運行されている。
+
+### 一覧　
+
+  - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
+      - [385形電車](https://ja.wikipedia.org/wiki/イギリス鉄道385形電車 "wikilink")（クラス385）
+      - [395形電車](../Page/イギリス鉄道395形電車.md "wikilink")（クラス395）
+      - [800形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")（クラス800）\[15\]
+      - [801形電車](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")（クラス801）\[16\]
+      - [802形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道802形 "wikilink")（クラス802）\[17\]
+      - [803形電車](https://ja.wikipedia.org/wiki/イギリス鉄道803形電車 "wikilink")（クラス803）\[18\]
+      - [810形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道810形 "wikilink")（クラス810）\[19\]
+  - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
+      - [台湾鉄路管理局TEMU1000型電車](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")
+  - [大韓民国](../Page/大韓民国.md "wikilink")
+      - [韓国鉄道公社200000系幹線電気動車 (TEC)](https://ja.wikipedia.org/wiki/韓国鉄道公社200000系電車 "wikilink")\[20\]
+  - [タイ](../Page/タイ.md "wikilink")
+      - 用車両（形式不明）
+
+### イギリス
+
+イギリスは日立製作所の鉄道部門にとって日本以外で初めて大規模受注をした国である。
+
+日立製作所は2005年に[CTRL](../Page/CTRL.md "wikilink")（ハイ・スピード1）国内列車用として最高速度225km/hで運転可能な[395形](../Page/イギリス鉄道395形電車.md "wikilink")6両編成28本（のちに1本追加）を受注した\[21\]。これらは[2012年ロンドンオリンピック](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")にちなんで運行会社の[サウスイースタンによって](../Page/サウスイースタン_\(鉄道\).md "wikilink")「ジャベリン（[槍投げ](../Page/やり投.md "wikilink")）」と名付けられ、各編成にはメダリストの名前が付けられた\[22\]。
+
+2012年には[グレート・ウェスタン本線](https://ja.wikipedia.org/wiki/グレート・ウェスタン本線 "wikilink")・[イースト・コースト本線](https://ja.wikipedia.org/wiki/イースト・コースト本線 "wikilink")の[インターシティ125](https://ja.wikipedia.org/wiki/インターシティー125 "wikilink")・[225置き換え計画である](https://ja.wikipedia.org/wiki/インターシティー225 "wikilink")[インターシティ・エクスプレス計画の受注に成功した](https://ja.wikipedia.org/wiki/都市間高速鉄道計画 "wikilink")。395形に似たデザインで、当初は日立スーパー・エクスプレスと呼ばれていた。[バイモード車両の](https://ja.wikipedia.org/wiki/電気・ディーゼル両用車両 "wikilink")[800形と電車の](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")[801形の](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")2種類があり、電化の拡大が想定されたため800形から801形への改造が可能なように作られている\[23\]。
+
+なお、この計画に際しては、製造がイギリス国内で行われない（最終組み立てのみ）ことから、対案であった同じ外国の会社であっても国内で製造が行われることになっていた[ボンバルディア](../Page/ボンバルディア.md "wikilink")案を推す声があり、特にボンバルディアの工場<small>（[英語版](https://ja.wikipedia.org/wiki/:en:_Derby_Litchurch_Lane_Works "wikilink")）</small>があった地域を中心に発注の撤回を求める運動が行われた\[24\]\[25\]。これに加え、車両重量の増加（[運輸省の要求仕様が不可能であるとの声もあった](https://ja.wikipedia.org/wiki/運輸省_\(イギリス\) "wikilink")）や価格・種類配分の交渉の難航、金融機関による出資が進まなかったことなどから2010年には計画について調査が行われるなどしている\[26\]。
+
+2015年4月からの[スコットレールの運行権を獲得した](https://ja.wikipedia.org/wiki/スコットレール_\(ブランド\) "wikilink")[アベリオ・スコットレール](https://ja.wikipedia.org/wiki/アベリオ・スコットレール "wikilink")は、2015年3月に日立製作所に近郊車両（AT-200）[385形](https://ja.wikipedia.org/wiki/イギリス鉄道385形電車 "wikilink")3両編成46本4両編成24本を発注した。
+
+同じく2015年3月には、インターシティ・エクスプレス計画で800形・801形（後者は2016年に800形に変更）の導入が決まっていた[グレート・ウェスタン・レールウェイ](../Page/グレート・ウェスタン・レールウェイ.md "wikilink")（当時の名称はファースト・グレート・ウェスタン）が800形同様のバイモード車両である[802形を](https://ja.wikipedia.org/wiki/イギリス鉄道802形 "wikilink")5両編成22本・9両編成7本発注した。800形との差異は[デヴォン](../Page/デヴォン.md "wikilink")・[コーンウォール](../Page/コーンウォール.md "wikilink")の勾配区間に対応するために出力の増強が図られていることと燃料タンクが大型化されていることである。バイモード車両であることから[ロンドン・パディントン駅からニューベリー駅](../Page/パディントン駅.md "wikilink")<small>（[英語版駅](https://ja.wikipedia.org/wiki/:en:_Newbury_railway_station "wikilink")・[日本語版街](https://ja.wikipedia.org/wiki/ニューベリー_\(バークシャー\) "wikilink")）</small>までの電化区間では架線からの集電によって走行する\[27\]。当初の契約は合計29本であったが、9両編成7本がのちに追加された。グレート・ウェスタン・レールウェイでの営業運転開始は800形が2017年10月、802形が2018年8月であった。グレート・ウェスタン・レールウェイのAT-300は800形、802形ともに「インターシティ・エクスプレス・トレインズ（IET）」という愛称が与えられている\[28\]\[29\]。
+
+イースト・コースト本線での運行事業者である[ロンドン・ノース・イースタン・レールウェイでは](https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン鉄道 "wikilink")、[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")が発覚したため運行開始が遅れ、800形は2019年5月、801形は同年9月に営業運転を開始している。グレート・ウェスタン・レールウェイとは異なり、ロンドン・ノース・イースタン・レールウェイのAT-300は東の[和名](../Page/和名.md "wikilink")にちなみ、「あずま」と名付けられている\[30\]
+
+イギリスではこれらの他にもAT-300が発注されており、[トランスペナイン・エクスプレス](https://ja.wikipedia.org/wiki/トランスペナイン・エクスプレス "wikilink")（愛称「ノヴァ1」）、（愛称「パラゴン」）それぞれの802形が現在運行を開始している。これらに加え、2021年には（[803形](https://ja.wikipedia.org/wiki/イギリス鉄道803形電車 "wikilink")）、2022年には（[810形](https://ja.wikipedia.org/wiki/イギリス鉄道810形 "wikilink")）、（形式未定）で新たに運行を開始することになっている\[31\]\[32\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>形式</p></th>
+<th><p>派生形式</p></th>
+<th><p>画像</p></th>
+<th><p>種類</p></th>
+<th><p>動力方式</p></th>
+<th><p>運行会社</p></th>
+<th><p>愛称</p></th>
+<th><p>編成両数</p></th>
+<th><p>製造本数</p></th>
+<th><p><strong>製造期間</strong></p></th>
+<th><p>編成番号</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道385形電車" title="wikilink">385</a></p></td>
+<td><p>/0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:385008_at_Gourock_station_buffers.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT200</p></td>
+<td><p><a href="../Page/電車.md" title="wikilink">電</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アベリオ・スコットレール" title="wikilink">アベリオ・スコットレール</a></p></td>
+<td><p>なし</p></td>
+<td><p>3両</p></td>
+<td><p>46本</p></td>
+<td><p>2015年～2019年</p></td>
+<td><p>385001～385046</p></td>
+</tr>
+<tr class="even">
+<td><p>/1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Stirling_-_Abellio_385115_Dunblane_service.JPG" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>4両</p></td>
+<td><p>24本</p></td>
+<td><p>2015年～2019年</p></td>
+<td><p>385101～385124</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/イギリス鉄道395形電車.md" title="wikilink">395</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Class_395_train_passes_through_the_depot,_coast_bound.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p>電</p></td>
+<td><p><a href="../Page/サウスイースタン_(鉄道).md" title="wikilink">サウスイースタン</a></p></td>
+<td><p><em>ジャベリン</em></p></td>
+<td><p>6両</p></td>
+<td><p>29本</p></td>
+<td><p>2007年～2009年</p></td>
+<td><p>395001～395029</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道800形" title="wikilink">800</a></p></td>
+<td><p>/0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:British_Rail_Class_800_GWR_Kentish_Town_West_20170824.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/電気・ディーゼル両用車両" title="wikilink">両</a></p></td>
+<td><p><a href="../Page/グレート・ウェスタン・レールウェイ.md" title="wikilink">グレート・ウェスタン・レールウェイ</a></p></td>
+<td><p><em>インターシティ・エクスプレス・トレイン</em></p></td>
+<td><p>5両</p></td>
+<td><p>36本</p></td>
+<td><p>2014年～2018年</p></td>
+<td><p>800001～800036</p></td>
+</tr>
+<tr class="odd">
+<td><p>/1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Edinburgh_-_LNER_800108_in_the_new_bay_platform.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン鉄道" title="wikilink">ロンドン・ノース・イースタン・レールウェイ</a></p></td>
+<td><p>あずま</p></td>
+<td><p>9両</p></td>
+<td><p>13本</p></td>
+<td><p>2014年～2018年</p></td>
+<td><p>800101～800113</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>/2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:800205_LNER_Finsbury_Park.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>5両</p></td>
+<td><p>10本</p></td>
+<td><p>2014年～2018年</p></td>
+<td><p>800201～800210</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>/3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:800319_Castle_Cary.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>グレート・ウェスタン・レールウェイ</p></td>
+<td><p><em>インターシティ・エクスプレス・トレイン</em></p></td>
+<td><p>9両</p></td>
+<td><p>21本</p></td>
+<td><p>2014年～2018年</p></td>
+<td><p>800301～800321</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道801形電車" title="wikilink">801</a></p></td>
+<td><p>/1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:801109_-_801102_KGX.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p>電</p></td>
+<td><p>ロンドン・ノース・イースタン・レールウェイ</p></td>
+<td><p><em>あずま</em></p></td>
+<td><p>5両</p></td>
+<td><p>12本</p></td>
+<td><p>2017年～2019年</p></td>
+<td><p>801101～801112</p></td>
+</tr>
+<tr class="odd">
+<td><p>/2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:801220_LNER_Azuma_Kings_Cross.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>9両</p></td>
+<td><p>30本</p></td>
+<td><p>2017年～2019年</p></td>
+<td><p>801201～801230</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道802形" title="wikilink">802</a></p></td>
+<td><p>/0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:802010_at_Par.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p>両</p></td>
+<td><p>グレート・ウェスタン・レールウェイ</p></td>
+<td><p><em>インターシティ・エクスプレス・トレイン</em></p></td>
+<td><p>5両</p></td>
+<td><p>22本</p></td>
+<td><p>2017年～2019年</p></td>
+<td><p>802001～802022</p></td>
+</tr>
+<tr class="odd">
+<td><p>/1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Creech_St_Michael_-_GWR_802108_London_train.JPG" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>9両</p></td>
+<td><p>14本</p></td>
+<td><p>2017年～2019年</p></td>
+<td><p>802101～802114</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>/2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Nova_1_in_London_Kings_Cross_20.02.19.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トランスペナイン・エクスプレス" title="wikilink">トランスペナイン・エクスプレス</a></p></td>
+<td><p>ノヴァ1</p></td>
+<td><p>5両</p></td>
+<td><p>19本</p></td>
+<td><p>2018年～2019年</p></td>
+<td><p>802201～802219</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>/3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:802301_Kings_Cross.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td></td>
+<td><p>パラゴン</p></td>
+<td><p>5両</p></td>
+<td><p>5本</p></td>
+<td><p>2019年</p></td>
+<td><p>802301～802305</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道803形電車" title="wikilink">803</a></p></td>
+<td></td>
+<td><p>AT300</p></td>
+<td><p>電</p></td>
+<td></td>
+<td></td>
+<td><p>5両</p></td>
+<td><p>5本</p></td>
+<td><p>2021年</p></td>
+<td><p>803001～803005</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道810形" title="wikilink">810</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:EMR_AT300.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p>両</p></td>
+<td></td>
+<td></td>
+<td><p>5両</p></td>
+<td><p>33本</p></td>
+<td><p>2020年～2022年</p></td>
+<td><p>810001～810033</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>未定</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:AWC-AT300.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p>AT300</p></td>
+<td><p>両</p></td>
+<td></td>
+<td></td>
+<td><p>5両</p></td>
+<td><p>13本</p></td>
+<td><p>2020年～2022年</p></td>
+<td><p>未定</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>未定</p></td>
+<td><p>AT300</p></td>
+<td><p>電</p></td>
+<td><p>アヴァンティ・ウェスト・コースト</p></td>
+<td></td>
+<td><p>7両</p></td>
+<td><p>10本</p></td>
+<td><p>2020年～2022年</p></td>
+<td><p>未定</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 台湾
+
+イギリスからの最初の受注と同じころ、[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")からJR九州885系をベースとした[TEMU1000型](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")8両編成6本を受注した\[33\]。納入は2006年に開始され、翌2007年3月に試乗会を行い同年5月に営業運転を開始した\[34\]\[35\]。
+
+### 韓国
+
+2007年に[韓国鉄道公社](../Page/韓国鉄道公社.md "wikilink")は優等列車用の電車である[200000系](https://ja.wikipedia.org/wiki/韓国鉄道公社200000系電車 "wikilink")（幹線電気動車（）とも）4両編成8本を日立製作所に発注した。車体・台車・駆動装置などは日本で製造されたが、部品の一部は韓国製のものを使用しているほか、最終組み立ては[慶尚南道](../Page/慶尚南道.md "wikilink")[昌原市](https://ja.wikipedia.org/wiki/昌原市 "wikilink")のSLS重工業にて行われた。[京釜線](../Page/京釜線.md "wikilink")・[長項線](../Page/長項線.md "wikilink")の[ソウル](https://ja.wikipedia.org/wiki/ソウル駅 "wikilink")～[新昌間などで](https://ja.wikipedia.org/wiki/新昌駅 "wikilink")「[ヌリロ](https://ja.wikipedia.org/wiki/ヌリロ "wikilink")」という愛称／種別で運行されている。最高速度は150km/hである。
+
+### タイ
+
+2019年には[バンコク](../Page/バンコク.md "wikilink")の（・[ダークレッドライン](https://ja.wikipedia.org/wiki/SRTダークレッドライン "wikilink")）向け車両の第一陣が納入された。「赤いネズミ」の愛称がつけられており、4～6両編成で運行される。
+
+ファイル:Unit 395008 at Ebbsfleet International.JPG|イギリス鉄道395形 ファイル:Class_800_in_testing_2015.jpg|イギリス鉄道800形 ファイル:TRA TEMU1000 TED1007 Xizhi 20130807.jpg|台湾鉄路管理局TEMU1000型電車 ファイル:KORAIL TEC.jpg|韓国鉄道公社200000系電車 ファイル:SentosaExpress_Purple.JPG|セントーサ・エクスプレス（シンガポール）で運行されるA-train派生モノレール
 
 ## 脚注
 
@@ -97,6 +387,7 @@
 ## 関連項目
 
   - [日立製作所笠戸事業所](https://ja.wikipedia.org/wiki/日立製作所笠戸事業所 "wikilink")
+  - [日立製作所ニュートン・エイクリフ工場](https://ja.wikipedia.org/wiki/日立製作所ニュートン・エイクリフ工場 "wikilink")
   - [通勤・近郊電車の標準仕様ガイドライン](../Page/通勤・近郊電車の標準仕様ガイドライン.md "wikilink")
   - [アルミニウム合金製の鉄道車両](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")
   - [efACE](https://ja.wikipedia.org/wiki/efACE "wikilink") - [川崎重工業](../Page/川崎重工業.md "wikilink")による類似コンセプトの鉄道車両。こちらはアルミ車に加えて[ステンレス車も存在する](../Page/オールステンレス車両.md "wikilink")。
@@ -120,7 +411,26 @@
 10. [9300系](../Page/阪急9300系電車.md "wikilink")・[9000系の一部編成は](../Page/阪急9000系電車.md "wikilink")[アルナ車両](../Page/アルナ車両.md "wikilink")が艤装を担当。
 11. 全車川崎重工業製だが、[日立製作所](../Page/日立製作所.md "wikilink")の開発した「A-train」の技術を用いており、これを川崎重工業がライセンス生産するという形になっている。
 12. 第1編成のみ。第2編成以降は日本車輌製造製で[ステンレス構体](../Page/ステンレス鋼.md "wikilink")「[日車式ブロック工法](https://ja.wikipedia.org/wiki/ブロック工法#鉄道車両 "wikilink")」を採用。
-13. ただし、製造はSLS重工業。
-14. 日立製作所ニュートン・エイクリフ（英語版）工場で製造される。
-15.
+13.
+14.  Hitachi Rail EU|website=www.hitachirail-eu.com|accessdate=2020-01-10}}
+15. [日立製作所ニュートン・エイクリフ工場](https://ja.wikipedia.org/wiki/日立製作所ニュートン・エイクリフ工場 "wikilink")で製造される。
 16.
+17.
+18.
+19.
+20. ただし、製造はSLS重工業。
+21. [Hitachi's Entry into the European Railway Market](http://www.jrtr.net/jrtr42/f10_gom.html) - Japan Railway & Transport Review No. 42 (pp.10–16)
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.  News {{\!}} Hull Trains|website=www.hulltrains.co.uk|accessdate=2020-02-28}}
+33.
+34.
+35.

@@ -16,6 +16,10 @@
   - 土曜 22:00-23:00（2009年7月-2017年9月）
   - 土曜 25:00-26:00（2017年10月-）
 
+## タイトルについて
+
+「BUGGY CRASH」とあるが、これは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月](../Page/8月.md "wikilink")の、岩手での野外ライブ前日の夜に起こった出来事が元となったという。
+
 ## 選曲について
 
 毎週一つのテーマに沿って、基本的にはJIRO本人が選曲をしている。GLAYの特集を行う場合もあれば、他のアーティストやジャンル別の特集・「○○な時に聴きたい曲」など、テーマは様々である。 自身が[THE PREDATORSを結成している事もあってか](../Page/THE_PREDATORS.md "wikilink")、[the pillowsや](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の曲が流れる事もある。
@@ -35,4 +39,8 @@
   - [BUGGY CRASH NIGHT](http://web.archive.org/web/20001110110800/fm802.co.jp/buggycrashnight/)（日曜日放送時代のサイト／キャッシュ）
 
   -
+## 脚注
+
+## 注釈
+
 [Category:FM802の番組](https://ja.wikipedia.org/wiki/Category:FM802の番組 "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink")

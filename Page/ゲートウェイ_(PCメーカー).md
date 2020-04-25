@@ -11,7 +11,7 @@
 
 ### 成り立ち
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にによって[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")、[スーシティ近郊のウェイト家の農場の中に設立された](https://ja.wikipedia.org/wiki/スーシティ_\(アイオワ州\) "wikilink")。現在の本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")南部の[アーヴァインにある](../Page/アーバイン_\(カリフォルニア州\).md "wikilink")。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にによって[アイオワ州](../Page/アイオワ州.md "wikilink")、[スーシティ近郊のウェイト家の農場の中に設立された](https://ja.wikipedia.org/wiki/スーシティ_\(アイオワ州\) "wikilink")。現在の本社は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")南部の[アーヴァインにある](../Page/アーバイン_\(カリフォルニア州\).md "wikilink")。
 
 設立当初の社名は「Ted Waitt Company」で、会社設立にあたって牧場を営んでいたウェイト家のキャトルマン精神を忘れないために[トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")に白黒の[牛柄模様を採用し](https://ja.wikipedia.org/wiki/ウシ "wikilink")、設立当初はコンピュータの販売を行っておらず[ソフトウェア](../Page/ソフトウェア.md "wikilink")や周辺機器の販売を手がけていた。日本でも「[牛](https://ja.wikipedia.org/wiki/ウシ "wikilink")」「牛パソ」等の愛称で、現在も親しまれている。 [right](https://ja.wikipedia.org/wiki/ファイル:Hb486_dillo_big.jpg "wikilink") [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にコンピュータを自社工場にて組み立て直販する販売形態となり、“Bridge to the next century”（[21世紀](../Page/21世紀.md "wikilink")への架け橋として）の考えから「**ゲートウェイ2000**」（GATEWAY2000/略称：GW2K）と社名を改称した。
 

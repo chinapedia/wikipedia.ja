@@ -9,7 +9,7 @@
 
 元々は音楽教師志望で音楽学校に通っていたが、同校卒業間近の[1991年](../Page/1991年.md "wikilink")夏にソ連を訪れた[札幌大学](../Page/札幌大学.md "wikilink")の教授と偶然懇意になり、急遽日本に招かれる。卒業後の1991年11月に[姉妹都市](../Page/姉妹都市.md "wikilink")の交流プログラムの一員として来日する。[札幌で](https://ja.wikipedia.org/wiki/札幌市 "wikilink")3か月[ホームステイ](../Page/ホームステイ.md "wikilink")する間に数々のコンサートやテレビ出演を重ねていたところをスカウトされ、[1992年](../Page/1992年.md "wikilink")に札幌のインディーズ・レーベルからアルバムを発売している。
 
-その後は[1993年](../Page/1993年.md "wikilink")に[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")（[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")や[スピッツが在籍する事務所](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）と契約して、[1994年](../Page/1994年.md "wikilink")にアルバム『ORIGA』で、メジャー・デビューを果たす。
+その後は[1993年](../Page/1993年.md "wikilink")に[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")（[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")や[スピッツが在籍する事務所](../Page/スピッツ_\(バンド\).md "wikilink")）と契約して、[1994年](../Page/1994年.md "wikilink")にアルバム『ORIGA』で、メジャー・デビューを果たす。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に『浜田省吾 with R\&S INSPIRATIONS』の一員として、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")のチャリティ・ソング「[我が心のマリア](https://ja.wikipedia.org/wiki/我が心のマリア "wikilink")」でメイン・ヴォーカルを担当した。浜田省吾はOrigaの歌声を「本当にクラシーバ（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")で“美しい”の意味）だよね。天使の歌声ですよね」と評している。
 

@@ -27,7 +27,7 @@
   -
     通称・いっそん。HUSKING BEE解散後は[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")、[MARS EURYTHMICSでの活動を経て](../Page/MARS_EURYTHMICS.md "wikilink")、ソロプロジェクトの磯部正文BANDや弾き語り等で活動していた。
     CORNERでは、「[small happiness](https://ja.wikipedia.org/wiki/small_happiness "wikilink")」（[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")、[FINE LINESとの](https://ja.wikipedia.org/wiki/FINE_LINES "wikilink")[スプリットシングル](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")）、「single-01」（[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")）の2枚のシングル、「走るナマケモノ」（[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")）、「入り口出口」（2006年[7月19日](../Page/7月19日.md "wikilink")）の2枚のアルバムをリリース。
-    [広島県立広島皆実高等学校](../Page/広島県立広島皆実高等学校.md "wikilink")卒。[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")の後輩にあたり、奥田とは[ROCKIN'ON JAPANの対談やライブイベントでの競演も果たしている](../Page/ROCKIN'ON_JAPAN.md "wikilink")。
+    [広島県立広島皆実高等学校](../Page/広島県立広島皆実高等学校.md "wikilink")卒。[吉田拓郎](../Page/吉田拓郎.md "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")の後輩にあたり、奥田とは[ROCKIN'ON JAPANの対談やライブイベントでの競演も果たしている](../Page/ROCKIN'ON_JAPAN.md "wikilink")。
     [渡部陽一](../Page/渡部陽一.md "wikilink")、[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")元総理、[安田大サーカス](../Page/安田大サーカス.md "wikilink")[クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")、[哀川翔](../Page/哀川翔.md "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink") の物真似が得意。
 
 <!-- end list -->

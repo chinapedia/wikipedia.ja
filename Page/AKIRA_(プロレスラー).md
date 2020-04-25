@@ -101,6 +101,14 @@
 
 <!-- end list -->
 
+  - [Wrestling New Classic](https://ja.wikipedia.org/wiki/Wrestling_New_Classic "wikilink")
+
+<!-- end list -->
+
+  - 初代[WNC王座](https://ja.wikipedia.org/wiki/WNC王座 "wikilink")
+
+<!-- end list -->
+
   - [WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")
 
 <!-- end list -->

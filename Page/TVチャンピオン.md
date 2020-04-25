@@ -324,6 +324,7 @@
 
 <!-- end list -->
 
+  - Why Can't We Be Friends / Smash Mouth（オープニングにて使用）
   - A NIGHT AT THE OPERA / Louis Clark（『Hooked on Classics』に収録。イントロ部とアウトロで演奏される「ハレルヤ」（原曲は[ヘンデル作曲](../Page/ゲオルク・フリードリヒ・ヘンデル.md "wikilink")）の部分が長年にわたり提供クレジットや王者の椅子に座るシーンで使われていた。）
 
 <!-- end list -->
@@ -523,7 +524,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -657,7 +658,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>1993年9月までは、テレビ朝日系列とのクロスネット局。</p></td>
 </tr>

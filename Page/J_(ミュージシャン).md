@@ -36,7 +36,7 @@
   - 右腕の二の腕、右肩後ろ、左腕の二の腕の内側、腰にタトゥーを彫っている、その中のひとつは、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")とお揃いで彫った。
   - [X JAPANのhideのことを実の兄のように慕っていた](../Page/X_JAPAN.md "wikilink")。
   - [クロムハーツ](../Page/クロムハーツ.md "wikilink")と[ガボール](https://ja.wikipedia.org/wiki/ガボール "wikilink")を愛用。
-  - [アメ車](https://ja.wikipedia.org/wiki/アメ車 "wikilink")を好んでおり、[フォード・マスタング](../Page/フォード・マスタング.md "wikilink")や、[ダッジ・バイパー](../Page/ダッジ・バイパー.md "wikilink")、[シボレー・カプリス](https://ja.wikipedia.org/wiki/シボレー・カプリス "wikilink")、[ハマー (自動車)H](../Page/ハマー_\(自動車\).md "wikilink")2などに乗っている。またバイクも好んでおり、[ハーレーを所有](../Page/ハーレーダビッドソン.md "wikilink")。
+  - [アメ車](https://ja.wikipedia.org/wiki/アメ車 "wikilink")を好んでおり、[フォード・マスタング](../Page/フォード・マスタング.md "wikilink")や、[ダッジ・バイパー](../Page/ダッジ・バイパー.md "wikilink")、[シボレー・カプリス](https://ja.wikipedia.org/wiki/シボレー・カプリス "wikilink")、[ハマー](../Page/ハマー_\(自動車\).md "wikilink")・H2などに乗っている。またバイクも好んでおり、[ハーレーを所有](../Page/ハーレーダビッドソン.md "wikilink")。
   - 10代の頃、[AION](../Page/AION.md "wikilink")の[ローディー](../Page/ローディー.md "wikilink")をしていた。
   - 5歳上のロック好きな姉がいる。また、インタビュー等でもロックにのめり込むきっかけとなったのは、姉がベースを所有していて、姉の外出時にそれをこっそり見つからないように弾いていた、とも語っている。
   - ソロ活動では、[ベースだけでなく](../Page/ベース_\(弦楽器\).md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")や[ギター](../Page/ギター.md "wikilink")もこなしている。
@@ -198,7 +198,7 @@ AVCD-31273:通常盤</p></td>
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p>2018年6月30日</p></td>
-<td><p>Now And Forever</p></td>
+<td><p><strong>Now And Forever</strong></p></td>
 <td><p>CTC1-40397</p></td>
 <td><p>ライブ会場限定販売</p></td>
 <td></td>

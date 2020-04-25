@@ -47,7 +47,7 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - [井上祐二](../Page/井上祐二.md "wikilink")：コーチ（元[南海ホークス・福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")）
+  - [井上祐二](../Page/井上祐二.md "wikilink")：元コーチ（元[南海ホークス・福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")）
 
 ## 脚注
 

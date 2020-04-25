@@ -1,7 +1,7 @@
 > この記事は[American Top 40](https://ja.wikipedia.org/wiki/American_Top_40)から翻訳されています。
 
 
-**American Top 40**（**アメリカン・トップ・フォーティー**）とは、米プレミア・ネットワークス社（iHeart Media傘下）が制作している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。愛称は**AT40**。
+**American Top 40**（アメリカン・トップ・フォーティー）とは、米プレミア・ネットワークス社（iHeart Media傘下）が制作している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。愛称は**AT40**。
 
 ## 概要
 

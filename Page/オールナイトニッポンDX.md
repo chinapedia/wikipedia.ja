@@ -15,7 +15,7 @@
 
 ### 月曜日
 
-**[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")**
+**[吉田拓郎](../Page/吉田拓郎.md "wikilink")**
 
 ### 火曜日
 

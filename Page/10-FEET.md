@@ -1019,7 +1019,7 @@ TECI-1411</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年12月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツトリビュートアルバム</a><br />
+<td><p><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツトリビュートアルバム</a><br />
 「JUST LIKE HONEY 〜『ハチミツ』20th Anniversary Tribute〜」</p></td>
 <td><p>UPCH-2065<br />
 UPJH-9016</p></td>

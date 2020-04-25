@@ -140,7 +140,7 @@
 <td><p><em>Headcrash</em></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bruce_Bethke" title="wikilink">Bruce Bethke</a></p></td>
 <td><p><em>Carlucci's Edge</em></p></td>
-<td><p>Richard Paul Russo</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1996年</p></td>
@@ -180,7 +180,7 @@
 <tr class="even">
 <td><p>2001年</p></td>
 <td><p><em>Ship of Fools</em></p></td>
-<td><p>Richard Paul Russo</p></td>
+<td></td>
 <td><p><em>Divine Intervention</em></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ken_Wharton_(writer)" title="wikilink">Ken Wharton</a></p></td>
 </tr>
@@ -299,7 +299,7 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><em>Bannerless</em></p></td>
-<td><p>キャリー・ヴォーン</p></td>
+<td></td>
 <td><p><em>After the Flare</em></p></td>
 <td><p>Deji Bryce Olukotun</p></td>
 </tr>
@@ -309,6 +309,13 @@
 <td></td>
 <td><p><em>84K</em></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クレア・ノース" title="wikilink">クレア・ノース</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><em>Sooner or Later Everything Falls into the Sea</em></p></td>
+<td></td>
+<td><p><em>The Little Animals</em></p></td>
+<td><p>Sarah Tolmie</p></td>
 </tr>
 </tbody>
 </table>

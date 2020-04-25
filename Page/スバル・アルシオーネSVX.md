@@ -1,7 +1,7 @@
 > この記事は[スバル・アルシオーネSVX](https://ja.wikipedia.org/wiki/スバル・アルシオーネSVX)から翻訳されています。
 
 
-**アルシオーネSVX**（*Alcyone SVX*）は、富士重工業（現・[SUBARU](../Page/SUBARU.md "wikilink")）が[1991年](../Page/1991年.md "wikilink")9月に発売を開始した5人乗り2ドア[クーペ](../Page/クーペ.md "wikilink")タイプの[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。 本項目では、日本国外モデルの**Subaru SVX**についても記述する。
+**アルシオーネSVX**（*Alcyone SVX*）は、富士重工業（現・[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink")）が[1991年](../Page/1991年.md "wikilink")9月に発売を開始した5人乗り2ドア[クーペ](../Page/クーペ.md "wikilink")タイプの[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。 本項目では、日本国外モデルの**Subaru SVX**についても記述する。
 
 ## 概要
 

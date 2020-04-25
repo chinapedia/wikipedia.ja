@@ -17,7 +17,7 @@ SVのOHV化は吸排気ポートと動弁機構を持つヘッドに交換し、
 
 ## OHV方式の採用例
 
-OHVは往復運動する[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")が多く、特にプッシュロッドの重量により高回転時の[ポペットバルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")の追従性を悪化させるバルブジャンプや、往復運動機構の[共振](../Page/共振.md "wikilink")による[バルブサージング](https://ja.wikipedia.org/wiki/バルブサージング "wikilink")が発生しやすく、[エンジン](../Page/エンジン.md "wikilink")の許容回転数を上げることが難しい。しかし、[飛行機](../Page/飛行機.md "wikilink")や[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")で使われる[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")では[プロペラ](../Page/プロペラ.md "wikilink")を定められた回転数よりも高速に回転させる必要がない上、耐久性と[信頼性](https://ja.wikipedia.org/wiki/信頼性 "wikilink")に優れるため、 OHV は多用されている。これは常用回転域が低い[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")にも当てはまる。ただし自動車用ディーゼルエンジンの内、小型のものはガソリンエンジンとの[設計](../Page/設計.md "wikilink")の共通化が進み、部品点数の削減や軽量化の面、さらに燃費の面でもOHCが有利とされ、OHVは淘汰された。[トラック](../Page/貨物自動車.md "wikilink")・[バス用の中](../Page/バス_\(交通機関\).md "wikilink")[排気量](../Page/排気量.md "wikilink")、および大排気量のエンジンに残ったOHVの中には、厳しさを増す[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")に対応するため、OHV機構のまま[4バルブ化されたものもある](../Page/マルチバルブ.md "wikilink")\[5\]。
+OHVは往復運動する[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")が多く、特にプッシュロッドの重量により高回転時の[ポペットバルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")の追従性を悪化させるバルブジャンプや、往復運動機構の[共振](../Page/共振.md "wikilink")による[バルブサージング](https://ja.wikipedia.org/wiki/バルブサージング "wikilink")が発生しやすく、[エンジン](../Page/エンジン.md "wikilink")の許容回転数を上げることが難しい。しかし、[飛行機](../Page/飛行機.md "wikilink")や[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")で使われる[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")では[プロペラ](../Page/プロペラ.md "wikilink")を定められた回転数よりも高速に回転させる必要がない上、耐久性と[信頼性](https://ja.wikipedia.org/wiki/信頼性 "wikilink")に優れるため、OHVは多用されている。これは常用回転域が低い[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")にも当てはまる。ただし自動車用ディーゼルエンジンの内、小型のものはガソリンエンジンとの[設計](../Page/設計.md "wikilink")の共通化が進み、部品点数の削減や軽量化の面、さらに燃費の面などでもOHCが有利とされ、OHVは淘汰された。ただ、[トラック](../Page/貨物自動車.md "wikilink")・[バス用の中](../Page/バス_\(交通機関\).md "wikilink")[排気量](../Page/排気量.md "wikilink")、および大排気量のエンジンに残ったOHVの中には、厳しさを増す[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")に対応するため、例外的であるもののOHV機構のまま[4バルブ化されたものもある](../Page/マルチバルブ.md "wikilink")\[5\]。
 
 ### 四輪車
 
@@ -89,7 +89,7 @@ OHVは往復運動する[部品](https://ja.wikipedia.org/wiki/部品 "wikilink"
 7.  前者は2代目モデルのみ。後者は初代モデルのみ。
 8.  初代A73型の1,200 cc車。
 9.  当初は1,400 cc車のみOHVだったが、後期型では1,400 cc車も含めて全てSOHC化された。
-10. スズキの場合、4サイクルエンジンのみが該当する。
+10. [前者の場合は](../Page/本田技研工業.md "wikilink")[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")と[ランドローバー](../Page/ランドローバー.md "wikilink")からそれぞれ[OEM](../Page/OEM.md "wikilink")[供給されていた製品を除いた全製品](https://ja.wikipedia.org/wiki/バッジエンジニアリング "wikilink")（[ホンダの自社製品](../Page/本田技研工業.md "wikilink")）が、[後者の場合は](../Page/スズキ_\(企業\).md "wikilink")4サイクルエンジンのみが、それぞれ該当する。
 11. その後、1,800 cc車は[レガシィへの移行により廃止](../Page/スバル・レガシィ.md "wikilink")。しかしその後もレオーネ（[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")に[OEM](../Page/OEM.md "wikilink")供給されていた[ジェミネットIIを含む](../Page/いすゞ・ジェミネットII.md "wikilink")）の1,600cc車は廉価車種として生産され続け、[1994年](../Page/1994年.md "wikilink")にようやく終売となった。
 12. なお、スバルでも軽自動車専用を含む排気量1,200 cc以下の[直列エンジン](https://ja.wikipedia.org/wiki/直列エンジン "wikilink")は市販車初投入以降、一貫してSOHC、もしくはDOHCである。
 13. ただし一部の自動車用は例外的にタイミングチェーンや[タイミングベルト](../Page/タイミングベルト.md "wikilink")が用いられる場合がある。

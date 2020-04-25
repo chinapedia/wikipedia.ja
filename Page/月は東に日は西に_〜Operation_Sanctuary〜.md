@@ -413,7 +413,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>2004年<a href="../Page/7月16日.md" title="wikilink">7月16日</a> - <a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
 <td><p>金曜 26:00 - 26:30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>

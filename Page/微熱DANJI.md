@@ -97,6 +97,6 @@
   - [錦織激団](http://www.origeki.com/)
 
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink")
 
 1.  [ヘスティバル公式サイト](https://www.great-satsumanian.jp/2018/lineup.html)

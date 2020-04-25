@@ -148,7 +148,7 @@
   - 57　秘薬・ラホー
   - 58　貴人の色・[貝紫](../Page/貝紫色.md "wikilink")
   - 59　[ロンギヌスの聖槍](../Page/聖槍.md "wikilink")
-  - 60　[ゴッホの奇蹟](https://ja.wikipedia.org/wiki/フィンセント・ファン・ゴッホ "wikilink")
+  - 60　[ゴッホの奇蹟](../Page/フィンセント・ファン・ゴッホ.md "wikilink")
 
 （第10巻）
 
@@ -471,7 +471,7 @@
 （第39巻）
 
   - 250　ICA
-  - 251　[ゴッホ](https://ja.wikipedia.org/wiki/フィンセント・ファン・ゴッホ "wikilink")「絶望する[自画像](../Page/自画像.md "wikilink")」
+  - 251　[ゴッホ](../Page/フィンセント・ファン・ゴッホ.md "wikilink")「絶望する[自画像](../Page/自画像.md "wikilink")」
   - 252　[ルイ16世の呪われた錠と鍵](https://ja.wikipedia.org/wiki/ルイ16世_\(フランス王\) "wikilink")
   - 253　未完「[黄金時代](../Page/黄金時代.md "wikilink")」
   - 254　[曜変天目茶碗](https://ja.wikipedia.org/wiki/曜変天目茶碗 "wikilink")

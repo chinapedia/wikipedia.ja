@@ -104,7 +104,7 @@
 | [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | **9位**                                       | 14     | 18 | 3  | 5  | 10   | 20  | 32 | \-12  | 県予選準優勝  |         |
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | **2位** | 31 | 18 | 9  | 4    | 5   | 26 | 21    | \+5     | **2回戦** |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | **3位**                                       | 31     | 18 | 8  | 7  | 3    | 27  | 13 | \+14  | 県予選準優勝  |         |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | **位**                                        |        | 18 |    |    |      |     |    |       |         |         |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | **4位**                                       | 28     | 18 | 8  | 4  | 6    | 39  | 30 | \+9   | 県予選準優勝  |         |
 
   - ( )はPK戦
 
@@ -436,7 +436,7 @@ SEKICHU</p></td>
 <td><p>袖</p></td>
 <td><p><a href="http://persjapan.co.jp/">パースジャパン</a></p></td>
 <td><p>PERS JAPAN CO,LTD.</p></td>
-<td><p>2017年 -</p></td>
+<td><p>2018年 -</p></td>
 <td><p>2017年はパンツ</p></td>
 </tr>
 <tr class="even">
@@ -456,7 +456,8 @@ SEKICHU</p></td>
   - 2011年 - 2012年 : ミズノ
   - 2013年 - 2016年 : [アディダス](../Page/アディダス.md "wikilink")
   - 2017年 : [sfida](https://ja.wikipedia.org/wiki/sfida "wikilink")
-  - 2018年 - : [スーペルボーラ](http://www.superbolla.com.br/loja/)
+  - 2018年 - 2019年 : [スーペルボーラ](http://www.superbolla.com.br/loja/)
+  - 2020年 : [エグゼフ](https://thexf.net/)
 
 {{-}}
 
@@ -467,6 +468,8 @@ SEKICHU</p></td>
 <tr class="odd">
 <td><p>年度</p></td>
 <td><p>胸</p></td>
+<td><p>鎖骨左</p></td>
+<td><p>鎖骨右</p></td>
 <td><p>背中上部</p></td>
 <td><p>背中下部</p></td>
 <td><p>袖</p></td>
@@ -477,6 +480,7 @@ SEKICHU</p></td>
 <td><p>2008</p></td>
 <td><p>Cinetech<br />
 </p></td>
+<td><p>解禁前</p></td>
 <td><p><a href="http://fanex.jp/pc/index.php">FANEX</a></p></td>
 <td><p>解禁前</p></td>
 <td><p><a href="https://www.genkido-s.com/">OMG<br />
@@ -485,6 +489,7 @@ SEKICHU</p></td>
 <td><p><a href="http://www.enza.jp/">ENZA<br />
 </a></p></td>
 <td><p><a href="../Page/ミズノ.md" title="wikilink">Mizuno</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
@@ -493,6 +498,8 @@ SEKICHU</p></td>
 <td><p><a href="http://www.enza.jp/">ENZA<br />
 </a></p></td>
 <td><p>-</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -504,13 +511,17 @@ SEKICHU</p></td>
 <td><p>Forala</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><a href="https://www.gunmameat.com/"><br />
 群馬ミート</a></p></td>
 <td><p>かつ久無庵</p></td>
-<td><p>Mizuno</p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">Mizuno</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -523,11 +534,15 @@ SEKICHU</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/アディダス.md" title="wikilink">adidas</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -541,9 +556,13 @@ SEKICHU</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -562,6 +581,8 @@ VALIENTEFC<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -571,14 +592,18 @@ VALIENTEFC<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
+<td><p>-</p></td>
 <td><p><a href="http://persjapan.co.jp/">PERS JAPAN CO,LTD.</a></p></td>
 <td><p>-/<br />
 TSUBATA</p></td>
 <td><p><a href="http://www.tipoal.com/frt/main/mainList.do">TIPOAL</a></p></td>
 <td><p><a href="http://www.superbolla.com.br/loja/">Super Bolla</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -590,8 +615,23 @@ TSUBATA</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>2020</p></td>
+<td><p><a href="https://thexf.net/">XF</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

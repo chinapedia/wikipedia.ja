@@ -9,7 +9,7 @@ HE-AAC では、Coding Technologiesが[mp3PRO](https://ja.wikipedia.org/wiki/mp3
 
 HE-AAC v2 では、さらなる低ビットレート (48kbps以下\[2\])で音質を改善している。**aacPlus v2** や **eAAC+** といった商標名で呼ばれることもある。
 
-[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") 9以降、[Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")、[SonicStage](https://ja.wikipedia.org/wiki/SonicStage "wikilink")等で無料でエンコードが可能である。また『[着うたフル](../Page/着うたフル.md "wikilink")』に使用されている[コーデック](../Page/コーデック.md "wikilink")としても有名。[オープンソース](../Page/オープンソース.md "wikilink")のライブラリとしては libaacplus\[3\] がある。
+[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") 9以降、[Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")、[XMedia Recode等で無料でエンコードが可能である](https://ja.wikipedia.org/wiki/XMedia_Recode "wikilink")。また『[着うたフル](../Page/着うたフル.md "wikilink")』に使用されている[コーデック](../Page/コーデック.md "wikilink")としても有名。[オープンソース](../Page/オープンソース.md "wikilink")のライブラリとしては libaacplus\[3\] がある。
 
 ## 技術
 

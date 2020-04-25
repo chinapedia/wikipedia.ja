@@ -23,11 +23,11 @@
 
 ## 家族
 
-ユーアンは学生時代に患った[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が結婚後8年目に再発、生涯快癒する事はなかった。モンゴメリは世間に夫の病名を隠して看護を続けたが、晩年は家庭内外の問題で心労が重なり、モンゴメリ自身も神経を病んだという\[19\]。二人の間には3人の男子があった。[チェスター・キャメロン・マクドナルド](https://ja.wikipedia.org/wiki/チェスター・キャメロン・マクドナルド "wikilink")（1912-1964）、[（ユーアン）スチュアート・マクドナルド](https://ja.wikipedia.org/wiki/（ユーアン）スチュアート・マクドナルド "wikilink")（1915-1982）、そして1914年に死産したヒュー・アレクサンダーである。
+ユーアンは学生時代に患った[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が結婚後8年目に再発、生涯快癒する事はなかった。モンゴメリは世間に夫の病名を隠して看護を続けたが、晩年は家庭内外の問題で心労が重なり、モンゴメリ自身も神経を病んだという\[19\]。二人の間には3人の男子があった。[チェスター・キャメロン・マクドナルド](https://ja.wikipedia.org/wiki/チェスター・キャメロン・マクドナルド "wikilink")(1912-1964)、[（ユーアン）スチュアート・マクドナルド](https://ja.wikipedia.org/wiki/（ユーアン）スチュアート・マクドナルド "wikilink")（1915-1982）、そして1914年に死産したヒュー・アレクサンダーである。
 
 ## 筆名等について
 
-モンゴメリは筆名等に神経質であったことが知られる。「赤毛のアン・ライセンス局」\[20\]に記載されている日本語の表記は「ルーシー・モード・モンゴメリ」および「L. M. モンゴメリ」である。結婚後は姓が変わりマクドナルド夫人となるが、筆名は当然、変わることなく、L. M. Montgomery を用いる。他方、手紙では L. M. Montgomery Macdonald と署名している。名前にこだわりのあるモンゴメリは作品をルーシー・モード・モンゴメリの名で出版する事を嫌い、L. M. モンゴメリにしたいと出版社に希望した\[21\]。友人たちはモード（Maud）と呼んだが\[22\]、父は「モーディー」と愛称で呼んだ\[23\]。
+モンゴメリは筆名等に神経質であったことが知られる。「赤毛のアン・ライセンス局」\[20\]に記載されている日本語の表記は「ルーシー・モード・モンゴメリ」および「L. M. モンゴメリ」である。結婚後は姓が変わりマクドナルド夫人となるが、筆名は当然、変わることなく、L. M. Montgomery を用いる。他方、手紙では L. M. Montgomery Macdonald と署名している。名前にこだわりのあるモンゴメリは作品をルーシー・モード・モンゴメリの名で出版する事を嫌い、L. M. モンゴメリにしたいと出版社に希望した\[21\]。友人たちはモード(Maud)と呼んだが\[22\]、父は「モーディー」と愛称で呼んだ\[23\]。
 
 ## 著作
 
@@ -70,18 +70,18 @@
       - [Faded Pageのページ](https://www.fadedpage.com/csearch.php?author=Montgomery,%20L.%20M.%20\(Lucy%20Maud\)) - カナダのサイト、最も充実している。短編も一作品になっているため、その長さは「PAGES」（ページ数）の欄で確認が必要。
       - [Project Gutenberg収載の作品](http://www.gutenberg.org/ebooks/author/36) - 前にスピーカーの印のあるものは、オーディオブック
       - 『Anne of Ingleside』は上記のどちらにもないが、[オーストラリアのGutenberg](http://gutenberg.net.au/index.html)にはある。作品へのリンク→[『Anne of Ingleside』(HTML)](http://gutenberg.net.au/ebooks01/0100281h.html)
-      - [『The Alpine Path: The Story of My Career』](https://www.fadedpage.com/showbook.php?pid=20150566) - モンゴメリの自叙伝（1917年、英語）。日本語訳あり→『険しい道―モンゴメリ自叙伝』山口 昌子訳、篠崎書林、1979年。　『ストーリー・オブ・マイ・キャリア 「赤毛のアン」が生まれるまで』水谷 利美訳、柏書房、2019年。山口訳には、グーテンベルク21の電子書籍もある。電子書籍販売へのリンク→[『険しい道』（電子書籍）](https://bpub.jp/gutenberg21/item/500000505895/)、[『険しい道』（Kindle用電子書籍）](https://www.amazon.co.jp/dp/B01A6TL5KS/)。
+      - [『The Alpine Path: The Story of My Career』](https://www.fadedpage.com/showbook.php?pid=20150566) - モンゴメリの自叙伝（1917年、英語）。日本語訳あり→『険しい道―モンゴメリ自叙伝』山口 昌子訳、篠崎書林、1979年。『ストーリー・オブ・マイ・キャリア 「赤毛のアン」が生まれるまで』水谷 利美訳、柏書房、2019年。山口訳には、グーテンベルク21の電子書籍もある。電子書籍販売へのリンク→[『険しい道』（電子書籍）](https://bpub.jp/gutenberg21/item/500000505895/)、[『険しい道』（Kindle用電子書籍）](https://www.amazon.co.jp/dp/B01A6TL5KS/)。
 
   - [Special Collection: The Works of Lucy Maud Montgomery](https://www.fadedpage.com/sc/montgomery.php) - Faded Page内のモンゴメリ著作リスト。かなり詳しい。シリーズ別、短編コレクション、詩などに分類分けされている。Faded Page所載の作品へリンクしているため、Faded Page所載のモンゴメリ作品への索引として利用できる。
 
 [Category:L・M・モンゴメリ](https://ja.wikipedia.org/wiki/Category:L・M・モンゴメリ "wikilink") [Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:カナダの児童文学作家](https://ja.wikipedia.org/wiki/Category:カナダの児童文学作家 "wikilink") [Category:自殺した人物](https://ja.wikipedia.org/wiki/Category:自殺した人物 "wikilink") [Category:プリンスエドワードアイランド州の人物](https://ja.wikipedia.org/wiki/Category:プリンスエドワードアイランド州の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1942年没](https://ja.wikipedia.org/wiki/Category:1942年没 "wikilink")
 
 1.  モンゴメリは[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")と同じ日生まれである。
-2.  [アルプスの峰をめざして 一章-四章 : L・M・モンゴメリー自叙伝](http://ci.nii.ac.jp/els/110004519824.pdf?id=ART0007281312&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1391945847&cp=)須川美知子, 横浜創英短期大学紀要 3, 55-83, 2002-03-31
+2.  須川美知子, 「アルプスの峰をめざして 一章-四章 : L・M・モンゴメリー自叙伝」『横浜創英短期大学紀要』 3巻 p.55-83, 2002-03-31,
 3.
 4.
 5.
-6.  [モンゴメリの日記(八) - 友の死…『日記抄』一九一九年ニ月七日をもとに](http://ci.nii.ac.jp/els/110004734440.pdf?id=ART0007476474&type=pdf&lang=jp&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1391951929&cp=)竹内 素子/伊澤 祐子/藤掛 由実子, 仙台電波工業高等専門学校/宮城学院女子大学/東北大学非常勤講師
+6.  竹内素子, 伊澤祐子, 藤掛由実子, 「モンゴメリの日記(八) - 友の死…『日記抄』一九一九年ニ月七日をもとに -」『研究紀要』 33巻 p.154-142, 2004-02-17, , 仙台高等専門学校
 7.
 8.
 9.
@@ -92,11 +92,11 @@
 14. [ハルトンヒルズ](https://ja.wikipedia.org/wiki/ハルトンヒルズ "wikilink")には、モンゴメリを記念する公園、「Lucy Maud Montgomery Memorial Garden」がハイウェイ沿いに建設されている。
 15. 『[アンをめぐる人々](../Page/アンをめぐる人々.md "wikilink")』の直後であるというのは誤り。
 16. *Selected Journals of L.M. Montgomery Volume V: 1935-1942* P. 399
-17. Macdonald Butler,Kate. "the heartbreaking truth about Anne's creator". *The Globe and Mail*. September 27,2008. なお亡くなった当日、何者かによって出版社に“The Blythes Are Quoted”という15の短編小説と41篇の詩、12場の炉辺の会話からなる原稿が届けられ、日本では『アンの想い出の日々』として出版された（「『アンの想い出の日々』--翻訳家　村岡美枝さんに聞く」『村岡花子と赤毛のアンの世界』[河出書房新社](../Page/河出書房新社.md "wikilink")）
+17. Macdonald Butler,Kate. "the heartbreaking truth about Anne's creator". *The Globe and Mail*. September 27,2008. なお亡くなった当日、何者かによって出版社に“The Blythes Are Quoted”という15の短編小説と41篇の詩、12場の炉辺の会話からなる原稿が届けられ、日本では『アンの想い出の日々』として出版された（「『アンの想い出の日々』--翻訳家 村岡美枝さんに聞く」『村岡花子と赤毛のアンの世界』[河出書房新社](../Page/河出書房新社.md "wikilink")）
 18. Adams,James. "Lucy Maud suffered 'unbearable psychological pain' ". *The Globe and Mail*. September 24,2008.
 19. この辺りの事情は、最近刊行を終えた『[モンゴメリ日記](../Page/モンゴメリ日記.md "wikilink")』全五巻（The Selected Journals of L. M. Montgomery: Oxford Univ Press）に詳しい。
 20. [赤毛のアン・ライセンス局](http://www.gov.pe.ca/anne/j_index.php3)
 21. 『モンゴメリ書簡集〈1〉G.B.マクミランへの手紙』P. 45
 22. 『モンゴメリ書簡集〈1〉G.B.マクミランへの手紙』P. 172
 23. 『モンゴメリ日記 1』P. 102
-24. [『「赤毛のアン」の秘密』　小倉千加子著](http://www.yomiuri.co.jp/book/review/bunko/20140624-OYT8T50136.html?from=yartcl_pickup)[読売新聞](../Page/読売新聞.md "wikilink")書評、2014年07月03日
+24. [『「赤毛のアン」の秘密』 小倉千加子著](http://www.yomiuri.co.jp/book/review/bunko/20140624-OYT8T50136.html?from=yartcl_pickup)[読売新聞](../Page/読売新聞.md "wikilink")書評、2014年07月03日

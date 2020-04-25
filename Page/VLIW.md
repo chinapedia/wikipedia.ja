@@ -58,7 +58,7 @@ VLIWの採用例として、サーバ向けとして商品化された[マイク
 
 ## 脚注
 
-[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:1980年代](https://ja.wikipedia.org/wiki/Category:1980年代 "wikilink")
+[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:命令処理](https://ja.wikipedia.org/wiki/Category:命令処理 "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink") [Category:1980年代](https://ja.wikipedia.org/wiki/Category:1980年代 "wikilink")
 
 1.  1980年代前半に作られたCG用並列計算システムのひとつに、日本で作られた LINKS-1（http://museum.ipsj.or.jp/computer/other/0013.html ）がある。
 2.  <http://museum.ipsj.or.jp/computer/other/0010.html>
